@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T18:55:09+08:00",
-    "zhCommitHead": "2b9a4a949",
+    "lastUpdated": "2026-09-15T18:55:32+08:00",
+    "zhCommitHead": "33eae55f7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 968,
+        "fresh": 969,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "es": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 867,
+        "fresh": 868,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "id": {
@@ -154870,7 +154870,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/tap-water.md",
+          "translatedFrom": "Geography/自來水.md",
+          "sourceCommitSha": "a9e791a05",
+          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceBodyHash": "sha256:300f2a84fb69ef78",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/tap-water.md",
@@ -154890,7 +154901,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/tap-water.md",
+          "translatedFrom": "Geography/自來水.md",
+          "sourceCommitSha": "a9e791a05",
+          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceBodyHash": "sha256:300f2a84fb69ef78",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
