@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T11:30:21+08:00",
-    "zhCommitHead": "078033a06",
+    "lastUpdated": "2026-09-15T11:38:13+08:00",
+    "zhCommitHead": "c69aecacb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 923,
+        "fresh": 924,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 101,
+        "missing": 100,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 846,
+        "fresh": 847,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 733,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 332,
+        "missing": 331,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 309,
+        "missing": 308,
         "orphan": 0
       },
       "ar": {
@@ -8149,7 +8149,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-orchids.md",
@@ -8158,6 +8169,20 @@
           "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
           "sourceBodyHash": "sha256:f9ade260f241a953",
           "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "path": "vi/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -8165,17 +8190,36 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "vi": {
-          "status": "missing"
-        },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -45032,8 +45076,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45645,8 +45689,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -98355,8 +98399,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -160567,8 +160611,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -174546,8 +174590,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c69aecac",
+          "translationLastModified": "2026-09-15T11:30:21+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
