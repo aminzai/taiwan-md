@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T21:04:22+08:00",
-    "zhCommitHead": "366b8a13e",
+    "lastUpdated": "2026-09-15T21:08:43+08:00",
+    "zhCommitHead": "d10c3f4ac",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 974,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 56,
+        "missing": 55,
         "orphan": 0
       },
       "es": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 870,
+        "fresh": 871,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 94,
+        "missing": 93,
         "orphan": 0
       },
       "id": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 904,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 163,
+        "missing": 166,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 674,
+        "fresh": 675,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 440,
+        "missing": 439,
         "orphan": 0
       }
     },
@@ -6786,18 +6786,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -107801,7 +107790,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/huang-yu-chiao-democracy-elder.md",
+          "translatedFrom": "People/黃玉嬌.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cac2434cbb03924f",
+          "sourceBodyHash": "sha256:80650db2e1788a43",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -115534,8 +115534,8 @@
           "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
           "sourceBodyHash": "sha256:657949e86efaa762",
           "translatedAt": "2026-09-15T19:45:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d10c3f4a",
+          "translationLastModified": "2026-09-15T21:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -142773,7 +142773,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/dutch-spanish-and-koxinga-era.md",
+          "translatedFrom": "History/荷西明鄭時期.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:63ac1f41561d9b5f",
+          "sourceBodyHash": "sha256:b9a9258412d16bc5",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/dutch-spanish-and-koxinga-era.md",
@@ -145778,18 +145789,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -150934,18 +150934,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -155274,8 +155263,8 @@
           "sourceContentHash": "sha256:9b07db3bc18b0b72",
           "sourceBodyHash": "sha256:300f2a84fb69ef78",
           "translatedAt": "2026-09-15T06:51:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d10c3f4a",
+          "translationLastModified": "2026-09-15T21:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -171112,7 +171101,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/amis-age-grade-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/amis-age-grade-system.md",
