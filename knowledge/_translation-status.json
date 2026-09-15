@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T15:38:09+08:00",
-    "zhCommitHead": "91cd29ed1",
+    "lastUpdated": "2026-09-15T16:16:05+08:00",
+    "zhCommitHead": "024b32daa",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 948,
+        "fresh": 950,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 78,
+        "missing": 76,
         "orphan": 0
       },
       "ja": {
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 958,
+        "fresh": 960,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 71,
+        "missing": 69,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 937,
+        "fresh": 938,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 937,
+        "fresh": 939,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 84,
+        "missing": 82,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 858,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 108,
+        "missing": 106,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 743,
+        "fresh": 745,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 321,
+        "missing": 319,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 933,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 773,
+        "fresh": 774,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 301,
+        "missing": 300,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 892,
+        "fresh": 893,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 178,
+        "missing": 177,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 662,
+        "fresh": 663,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 452,
+        "missing": 451,
         "orphan": 0
       }
     },
@@ -14380,31 +14380,97 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -14413,7 +14479,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74958,8 +75035,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "024b32da",
+          "translationLastModified": "2026-09-15T15:38:09+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84838,7 +84915,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/science-wife.md",
@@ -84858,22 +84946,77 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -142172,7 +142315,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -142184,10 +142338,32 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -145124,8 +145300,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "024b32da",
+          "translationLastModified": "2026-09-15T15:38:09+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -147265,8 +147441,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "024b32da",
+          "translationLastModified": "2026-09-15T15:38:09+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -161899,8 +162075,8 @@
           "sourceContentHash": "sha256:6207d486dffbdfd0",
           "sourceBodyHash": "sha256:a33d52837bb11fe8",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "024b32da",
+          "translationLastModified": "2026-09-15T15:38:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
