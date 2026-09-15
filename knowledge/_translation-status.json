@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T06:26:05+08:00",
-    "zhCommitHead": "1b8a53db1",
+    "lastUpdated": "2026-09-16T06:32:32+08:00",
+    "zhCommitHead": "2815ca205",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 976,
+        "fresh": 977,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 50,
+        "missing": 49,
         "orphan": 0
       },
       "ja": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 953,
+        "fresh": 954,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "hi": {
@@ -61040,8 +61040,8 @@
           "sourceContentHash": "sha256:219fe04c84e96b20",
           "sourceBodyHash": "sha256:2e23822aef955aa4",
           "translatedAt": "2026-09-15T19:45:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2815ca20",
+          "translationLastModified": "2026-09-16T06:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -96817,8 +96817,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-15T19:45:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2815ca20",
+          "translationLastModified": "2026-09-16T06:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -101402,8 +101402,8 @@
           "sourceContentHash": "sha256:d371b7109756e14d",
           "sourceBodyHash": "sha256:8d9608a92d5a6a0c",
           "translatedAt": "2026-09-15T19:45:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2815ca20",
+          "translationLastModified": "2026-09-16T06:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -102635,8 +102635,8 @@
           "sourceContentHash": "sha256:1274f9fb56a6cca0",
           "sourceBodyHash": "sha256:98226e940e464d18",
           "translatedAt": "2026-09-15T19:45:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2815ca20",
+          "translationLastModified": "2026-09-16T06:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -126968,7 +126968,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:887c3be39222e6b9",
+          "sourceBodyHash": "sha256:140c52cfad734a21",
+          "translatedAt": "2026-09-15T19:45:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -148981,8 +148992,8 @@
           "sourceContentHash": "sha256:df7c1aaff4786133",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T20:23:28.626461+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2815ca20",
+          "translationLastModified": "2026-09-16T06:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -160550,7 +160561,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/sanying-line.md",
+          "translatedFrom": "Geography/三鶯線.md",
+          "sourceCommitSha": "c91ee5dca",
+          "sourceContentHash": "sha256:d1828d3d37dfb27c",
+          "sourceBodyHash": "sha256:cfda5c461d2cd71a",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
