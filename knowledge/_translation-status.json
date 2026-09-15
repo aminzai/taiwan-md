@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T02:59:54+08:00",
-    "zhCommitHead": "03aded4f5",
+    "lastUpdated": "2026-09-16T03:25:09+08:00",
+    "zhCommitHead": "e0a3ca257",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 887,
+        "fresh": 888,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 77,
+        "missing": 76,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 796,
+        "fresh": 797,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 278,
+        "missing": 277,
         "orphan": 0
       },
       "ar": {
@@ -55055,7 +55055,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:400d675ceaf05f40",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-15T19:14:09.616685+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-animal-drug-controversy.md",
@@ -102584,8 +102595,8 @@
           "sourceContentHash": "sha256:1274f9fb56a6cca0",
           "sourceBodyHash": "sha256:98226e940e464d18",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e0a3ca25",
+          "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -103832,8 +103843,8 @@
           "sourceContentHash": "sha256:b0c2ac2ae0cad64d",
           "sourceBodyHash": "sha256:5121ea375a0a93ff",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e0a3ca25",
+          "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -130442,8 +130453,8 @@
           "sourceContentHash": "sha256:9280fef1e637d1d1",
           "sourceBodyHash": "sha256:4b1b088d8a0fbe11",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e0a3ca25",
+          "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -132670,7 +132681,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/bapu-ice.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/bapu-ice.md",
@@ -148875,8 +148897,8 @@
           "sourceContentHash": "sha256:df7c1aaff4786133",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T18:13:55.365379+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e0a3ca25",
+          "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -179356,8 +179378,8 @@
           "sourceContentHash": "sha256:4f24d54138c9fd30",
           "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e0a3ca25",
+          "translationLastModified": "2026-09-16T02:59:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
