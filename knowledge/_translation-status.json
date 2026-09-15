@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T06:14:21+08:00",
-    "zhCommitHead": "65be28edf",
+    "lastUpdated": "2026-09-16T06:17:02+08:00",
+    "zhCommitHead": "6ef6985b8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 776,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 289,
+        "missing": 288,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 697,
+        "fresh": 698,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 417,
+        "missing": 416,
         "orphan": 0
       }
     },
@@ -136781,7 +136781,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/malaria-eradication.md",
+          "translatedFrom": "History/瘧疾根除.md",
+          "sourceCommitSha": "cf2d4d973",
+          "sourceContentHash": "sha256:1a44b37b859d8b1a",
+          "sourceBodyHash": "sha256:04c29c7226490085",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -158256,7 +158267,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:1603eebdccb4ea26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-15T22:04:33.616646+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
