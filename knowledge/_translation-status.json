@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T20:50:34+08:00",
-    "zhCommitHead": "fa28c2ba9",
+    "lastUpdated": "2026-09-15T20:55:01+08:00",
+    "zhCommitHead": "5229a8069",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 951,
+        "fresh": 952,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "fr": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 673,
+        "fresh": 674,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 441,
+        "missing": 440,
         "orphan": 0
       }
     },
@@ -6718,8 +6718,8 @@
           "sourceContentHash": "sha256:72151c012acc7cd3",
           "sourceBodyHash": "sha256:818b90ddb26bb8d5",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5229a806",
+          "translationLastModified": "2026-09-15T20:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -56761,7 +56761,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/wild-lily-student-movement.md",
+          "translatedFrom": "Society/野百合學運.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:bc1d9c831c947934",
+          "sourceBodyHash": "sha256:5699382224a6d5e2",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -99758,7 +99769,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/tsai-jui-yueh.md",
+          "translatedFrom": "People/蔡瑞月.md",
+          "sourceCommitSha": "c462122e6",
+          "sourceContentHash": "sha256:f91b55938ef411f1",
+          "sourceBodyHash": "sha256:6b90253634145c2e",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/tsai-jui-yueh.md",
@@ -121348,8 +121370,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5229a806",
+          "translationLastModified": "2026-09-15T20:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -133088,8 +133110,8 @@
           "sourceContentHash": "sha256:630da9b890460bec",
           "sourceBodyHash": "sha256:f3daf5d832d676fb",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5229a806",
+          "translationLastModified": "2026-09-15T20:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -145666,8 +145688,8 @@
           "sourceContentHash": "sha256:3dc0c353cf547397",
           "sourceBodyHash": "sha256:01899a9de634067d",
           "translatedAt": "2026-09-15T06:51:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5229a806",
+          "translationLastModified": "2026-09-15T20:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
