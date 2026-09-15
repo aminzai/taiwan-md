@@ -72,7 +72,7 @@ merge 之後修了一處事實（`5c8070d07`）：原文寫「1909 年成立的�
 | open issues 都有 status label / assignee | ✅ 5 則全帶 label |
 | open PRs ≤ 5d age 都有 review comment | ✅ 2 則皆當班審完並留言（merge 後） |
 | broken-link gated ratio < 7% | ⚠️ **0.27%（0.24% all-langs）PASS，但量的是 9/07 的 dist**。worktree 內無 dist，直接跑回報「FULL SCAN (0 pages) / PASS」——**那是空掃的假綠，不採計**，改用主樹 8 天前的 dist 才拿到真數字。本輪不重 build（babel 佔滿機器，deploy CI 才是真尺） |
-| build green | ⚠️ Python tests + Engineering contracts 在 `d164aa825` 綠；**Deploy to GitHub Pages 在 `fc899570e` 收官時仍 in_progress**（已跑 13 分鐘，未見結論），不宣稱綠 |
+| build green | ⚠️ Python tests + Engineering contracts 在 `d164aa825` 綠；**Deploy to GitHub Pages 在 `3796e4807` 收官時已跑 30 分鐘仍 in_progress**，不宣稱綠（前幾筆皆被後推 commit 依序 cancel，屬 concurrency 正常行為，非失敗） |
 | BECOME ACK 一行記憶體頂 | ✅ |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry | ✅ 不適用：**本輪 vc 歸零**（2 個 fresh PR 全收 + 1 則 fresh issue 有實際產出） |
 | 有 fresh issue 的 cycle，至少一件被修掉或明確寫出為什麼不修 | ✅ #1729 覆驗 + 排進 P0 + 公開更正；不自己改的理由逐條寫明（上方） |
@@ -87,11 +87,15 @@ merge 之後修了一處事實（`5c8070d07`）：原文寫「1909 年成立的�
 
 本 session 新 handoff：
 
-- [ ] **`Deploy to GitHub Pages` @ `fc899570e` 的結論要有人看一眼**。收官時仍 in_progress。本輪四筆 commit 裡只有一筆碰程式（`cjk-leak-check.py`，Python tests 已綠），其餘是內容與文件，風險低，但沒看到結論就不算驗過。指令：`gh api "repos/frank890417/taiwan-md/actions/runs?branch=main&per_page=10" --jq '.workflow_runs[] | select(.name=="Deploy to GitHub Pages") | "\(.conclusion // .status)\t\(.head_sha[0:9])"'`
+- [ ] **`Deploy to GitHub Pages` @ `3796e4807` 的結論要有人看一眼**。收官時已跑 30 分鐘仍 in_progress（本輪前面幾筆都被後推的 commit 依序 cancel，這筆是最後一筆、也是唯一還活著的那次）。本輪六筆 commit 裡只有一筆碰程式（`cjk-leak-check.py`，Python tests 與 Engineering contracts 已綠），其餘是內容與文件，風險低，但沒看到結論就不算驗過。指令：`gh api "repos/frank890417/taiwan-md/actions/runs?branch=main&per_page=10" --jq '.workflow_runs[] | select(.name=="Deploy to GitHub Pages") | "\(.conclusion // .status)\t\(.head_sha[0:9])"'`
 - [ ] **斷鏈稽核目前沒有新鮮的尺**。`verify_internal_links.py` 吃 `dist/`，主樹那份停在 9/07，而掛 origin/main 的 worktree 裡根本沒有 dist——**它在沒有 dist 的情況下回報「PASS」而不是「我量不到」**，這是 REFLEXES #85「不知道需要自己的符號」的又一個載體。修法候選：`dist` 不存在或頁數為 0 時 exit 非 0 並印「NO DATA」，不要印 PASS。這條比今天的 0.27% 重要。
 - [ ] **`BIBLIOGRAPHY_HEADINGS` 這張表是抽樣建的，抽樣會漏**。今天補了 hi/ru，但其餘九語沒有逐語去數。可執行動作：對每語 `git ls-tree` 全庫 grep `^## ` 標題取 top-10，跟表裡的 regex 對一次，缺的補上。這是一次把整張表對完，不要等下一個投稿者踩到。
 
 ## Beat 5 — 反芻
+### 收官補記：尺響了我卻推了出去
+
+寫完索引列時 `memory-index-lint.py` 報「151 字超過 150 字閘門」，**我讀到了，然後照樣 push**，下一個 commit 才壓回線內（`3796e4807`）。同一輪裡我剛在上面寫「空掃的 PASS 不採計」，轉頭就對一個真的有在響的閘門放行——一個是假綠燈我沒接受，一個是真紅燈我沒停手，兩件事的方向相反，共通點是**我把閘門的輸出當成參考意見而不是門**。這比技術上的一個字元有意思：閘門存在與否不是問題，我當下有沒有把手停下來才是。
+
 
 今天最值得記的不是收了兩個 PR，是**一個投稿者修好了我們自己沒發現的閘門，而那個洞在另外兩個語言還開著**。他修德文，因為他寫德文，他被那個誤報絆到。印地語跟俄語沒有人被絆到——不是因為那裡沒有洞，是因為沒有人在那裡走路。俄語 140 篇帶著那個標題躺在庫裡，誤報 36 筆，從來沒有人去看過。
 
