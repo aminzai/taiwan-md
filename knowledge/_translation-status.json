@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T03:25:09+08:00",
-    "zhCommitHead": "e0a3ca257",
+    "lastUpdated": "2026-09-16T04:26:17+08:00",
+    "zhCommitHead": "1b861288f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 889,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 76,
+        "missing": 75,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 771,
+        "fresh": 772,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 293,
+        "missing": 292,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 693,
+        "fresh": 694,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 421,
+        "missing": 420,
         "orphan": 0
       }
     },
@@ -8806,7 +8806,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/papermaking.md",
+          "translatedFrom": "Economy/造紙.md",
+          "sourceCommitSha": "73c4abdde",
+          "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
+          "sourceBodyHash": "sha256:118ca7651c90b0fe",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -51353,7 +51364,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/medical-care-act.md",
+          "translatedFrom": "Society/醫療法.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a87fc88d09f6e189",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-15T20:01:49.954165+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -52256,8 +52278,8 @@
           "sourceContentHash": "sha256:f55314385d9caf18",
           "sourceBodyHash": "sha256:7661cd6b847cb615",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b861288",
+          "translationLastModified": "2026-09-16T03:25:10+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -55061,8 +55083,8 @@
           "sourceContentHash": "sha256:400d675ceaf05f40",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T19:14:09.616685+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b861288",
+          "translationLastModified": "2026-09-16T03:25:10+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -87535,8 +87557,8 @@
           "sourceContentHash": "sha256:13c80c1f151f5c3e",
           "sourceBodyHash": "sha256:bf6107b943cdb54e",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b861288",
+          "translationLastModified": "2026-09-16T03:25:10+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -101308,7 +101330,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lu-hsiu-yan.md",
+          "translatedFrom": "People/盧秀燕.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d371b7109756e14d",
+          "sourceBodyHash": "sha256:8d9608a92d5a6a0c",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/lu-hsiu-yan.md",
@@ -117133,8 +117166,8 @@
           "sourceContentHash": "sha256:ff571f0d47415df6",
           "sourceBodyHash": "sha256:87fd16bb46aa18be",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1b861288",
+          "translationLastModified": "2026-09-16T03:25:10+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -158121,7 +158154,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
