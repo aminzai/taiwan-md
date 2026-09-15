@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T05:01:36+08:00",
-    "zhCommitHead": "660fb5036",
+    "lastUpdated": "2026-09-16T05:07:51+08:00",
+    "zhCommitHead": "b92d3fdb5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 965,
+        "fresh": 966,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 59,
+        "missing": 58,
         "orphan": 0
       },
       "fr": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 695,
+        "fresh": 696,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 419,
+        "missing": 418,
         "orphan": 0
       }
     },
@@ -25747,7 +25747,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-tech-stories.md",
+          "translatedFrom": "Technology/台灣科技說故事.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:7e79f4d7834c55c1",
+          "sourceBodyHash": "sha256:e24305e511c42507",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-tech-stories.md",
@@ -40055,8 +40066,8 @@
           "sourceContentHash": "sha256:46b8b4c566a9b8ad",
           "sourceBodyHash": "sha256:261c0f7907febe33",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b92d3fdb",
+          "translationLastModified": "2026-09-16T05:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -41013,8 +41024,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b92d3fdb",
+          "translationLastModified": "2026-09-16T05:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -41852,8 +41863,8 @@
           "sourceContentHash": "sha256:bc80c48817ccc98d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T20:42:23.007366+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b92d3fdb",
+          "translationLastModified": "2026-09-16T05:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 50,
           "status": "fresh",
@@ -158216,7 +158227,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -176132,8 +176154,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b92d3fdb",
+          "translationLastModified": "2026-09-16T05:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
