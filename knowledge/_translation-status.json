@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T22:37:53+08:00",
-    "zhCommitHead": "f30bc0d1a",
+    "lastUpdated": "2026-09-15T22:38:05+08:00",
+    "zhCommitHead": "65e5368bd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 286,
+        "missing": 285,
         "orphan": 0
       },
       "ar": {
@@ -110189,7 +110189,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/yung-ching-wang-formosa-plastics-founder.md",
+          "translatedFrom": "People/王永慶.md",
+          "sourceCommitSha": "1e180a591",
+          "sourceContentHash": "sha256:09b83ca512f814fd",
+          "sourceBodyHash": "sha256:2035945bf29ced7a",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yung-ching-wang-formosa-plastics-founder.md",
