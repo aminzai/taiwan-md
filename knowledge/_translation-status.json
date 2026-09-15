@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T05:07:51+08:00",
-    "zhCommitHead": "b92d3fdb5",
+    "lastUpdated": "2026-09-16T05:54:39+08:00",
+    "zhCommitHead": "5e254e922",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 982,
+        "fresh": 983,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 290,
+        "missing": 289,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 696,
+        "fresh": 697,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 418,
+        "missing": 417,
         "orphan": 0
       }
     },
@@ -10049,8 +10049,8 @@
           "sourceContentHash": "sha256:b1ed4dc9af013a20",
           "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3aca1b36",
+          "translationLastModified": "2026-09-16T05:07:51+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -25753,8 +25753,8 @@
           "sourceContentHash": "sha256:7e79f4d7834c55c1",
           "sourceBodyHash": "sha256:e24305e511c42507",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3aca1b36",
+          "translationLastModified": "2026-09-16T05:07:51+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -61012,7 +61012,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/ma-ying-jeou-meme.md",
+          "translatedFrom": "Society/馬英九迷因.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:219fe04c84e96b20",
+          "sourceBodyHash": "sha256:2e23822aef955aa4",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -80613,8 +80624,8 @@
           "sourceContentHash": "sha256:4bfc707dc97b4776",
           "sourceBodyHash": "sha256:685bed7af9ee32a1",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3aca1b36",
+          "translationLastModified": "2026-09-16T05:07:51+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -111810,7 +111821,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-wen-yu.md",
+          "translatedFrom": "People/陳文郁.md",
+          "sourceCommitSha": "9062be977",
+          "sourceContentHash": "sha256:a830e3b88da8731a",
+          "sourceBodyHash": "sha256:d47891ab6b5fa242",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-wen-yu.md",
@@ -136625,7 +136647,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/1935.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
