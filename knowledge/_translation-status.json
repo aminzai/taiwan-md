@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T04:50:47+08:00",
-    "zhCommitHead": "8fd7e5a4e",
+    "lastUpdated": "2026-09-16T05:01:04+08:00",
+    "zhCommitHead": "ce0c9aaa9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "ja": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 773,
+        "fresh": 774,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 291,
+        "missing": 290,
         "orphan": 0
       },
       "pt": {
@@ -96748,8 +96748,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ce0c9aaa",
+          "translationLastModified": "2026-09-16T04:50:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -102563,7 +102563,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/cho-jung-tai.md",
+          "translatedFrom": "People/卓榮泰.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1274f9fb56a6cca0",
+          "sourceBodyHash": "sha256:98226e940e464d18",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/cho-jung-tai.md",
@@ -132720,8 +132731,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ce0c9aaa",
+          "translationLastModified": "2026-09-16T04:50:47+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -158171,8 +158182,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ce0c9aaa",
+          "translationLastModified": "2026-09-16T04:50:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -177867,7 +177878,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/eslite-bookstore.md",
+          "translatedFrom": "Culture/誠品書店.md",
+          "sourceCommitSha": "63ad1b2b8",
+          "sourceContentHash": "sha256:ec07a1faa117e7b7",
+          "sourceBodyHash": "sha256:49e3639b8d3ada20",
+          "translatedAt": "2026-09-15T19:45:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
