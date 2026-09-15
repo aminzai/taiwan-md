@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-16 twmd-data-refresh-am — commit-ref-lock-race-swept-staged-work-into-neighbor-commit：commit 卡在鎖 HEAD 那一步失敗，我的檔案卻出現在鄰居的 commit 裡
+
+- **pattern**: `commit-ref-lock-race-swept-staged-work-into-neighbor-commit`
+- **原則**：`git commit` 失敗時常見的認知是「沒發生」，但失敗的階段決定了這個假設對不對。本次失敗發生在 lint-staged 全部跑完、frontmatter 與 canonical 檢查都通過**之後**，git 本體嘗試寫入 commit 物件與更新 ref 的最後一步：`fatal: cannot lock ref 'HEAD': is at <babel-commit> but expected <my-expected-head>`。這代表在我的 commit 流程跑 hook 的幾秒鐘視窗裡，平行的 babel dispatcher 也完成了它自己的 `git commit`，把 HEAD 移到別處，我的 commit 物件因此無法把 ref 指過去而整個失敗——但我當時已經 `git add` 的兩個檔案（`docs/semiont/MEMORY.md` 與新 memory 檔）仍然乾淨地留在工作目錄裡、內容未變。緊接著（同一秒級時間窗）babel dispatcher 自己下一輪 commit 顯然用了更寬的 staging（把當下工作目錄所有已修改/新增檔案都掃了進去，而不只是它自己那批 `knowledge/de/*.md` + babel report），於是我這兩個檔案就被夾帶進了它的 commit `2ad7fb675`（標題寫「babel: de 批次 6 篇」，內容卻同時含我的 memory 寫入）。內容本身完整無誤（逐位元組比對相同），只是 commit 的敘事歸屬（narrative provenance）被污染——讀 git log 的人會誤以為那次 memory 更新是 babel 流程的一部分。
+- **觸發**：2026-09-16 06:17 twmd-data-refresh-am 收官階段，`git commit -m "🧬 [routine] memory: ..."` 在 pre-commit hook 全綠後於 ref-lock 步驟失敗；重新 `git status` 發現工作目錄已乾淨、`git log -- <我的檔案>` 直接指向鄰居的 babel commit。判斷不對 reset/rebase 動它：dispatcher 仍在其上持續 commit，任何歷史改寫都可能跟它當下的假設（它剛推進的 HEAD）互撞，造成比一次錯誤歸因更貴的損害。
+- **修補（未做，留給 distill 判斷是否值得）**：可能方向是 (a) commit 前一律用 `git commit --allow-empty-message -m ... ; if fail: retry once after re-checking staged diff unchanged` 的重試迴圈，而不是視為失敗結束；(b) babel dispatcher 自己的 commit script 改用嚴格 pathspec staging（只 add 它認得的 babel/knowledge 路徑），不要在任何情境下把整個工作目錄現狀掃進去——這才是真正的根因（它的 add 範圍比它的 commit message 聲稱的還寬），本條的「我的檔案被夾帶」只是這個更寬 add 範圍的一個外部症狀，命中了 REFLEXES #6「commit 範圍紀律」但主體是 dispatcher 自己
+- **可能層級**：反射候選（多核心 git 協調 REFLEXES #68 已有 stash/rebase 層級的碰撞防護，但這是第一次記錄「commit ref-lock 失敗後，己方 staged 內容被鄰居下一次 commit 意外吞掉」這個具體形狀），目前只有一個 instance，先進 buffer
+- **相關**：REFLEXES #6（commit 範圍紀律，絕不 `git add .`——本次違規方是鄰居 dispatcher 不是自己）、REFLEXES #68（多核心 git 協調 umbrella）、REFLEXES #46（sub-agent multi-task worktree commit 前先確認 working tree，性質相近但本次是 cron routine 對 cron routine，不是 sub-agent worktree 場景）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-16 twmd-babel-nightly — shared-gate-blind-to-target-language-orthography：一道給非 CJK 語言校準的閘門，套進自己也用漢字的語言就整批誤殺
 
 - **pattern**: `shared-gate-blind-to-target-language-orthography`
