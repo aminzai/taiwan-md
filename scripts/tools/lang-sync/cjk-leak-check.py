@@ -268,9 +268,14 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     "vi": r"Tài liệu tham khảo|Đọc thêm|Nguồn Hình Ảnh",
     "id": r"Referensi|Bacaan Lanjutan|Sumber Gambar",
     "pt": r"Referências|Fontes das imagens|Leitura adicional",
-    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)",
+    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)|(?:छवि|चित्र)\s*स्रोत",
     "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
-    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение",
+    # 2026-09-15: hi 與 ru 補上圖片出處／參考資料標題（跟 #1731 的 de 同一個家族）。
+    # 數字取自 origin/main 實際譯文：hi 有 44 篇 `## छवि स्रोत` + 17 篇 `## चित्र स्रोत`，
+    # ru 有 99 篇 `## Источники изображений` + 41 篇 `## Источники`，三種都不在原表裡，
+    # 於是這些區塊的 CJK（攝影者署名、原始書名、機構原名）全被當正文 leak。ru 全庫實測
+    # 正文 leak 46 → 10，剩下的 10 筆都是真的（引述 PRC 模型的拒絕答覆、校名原文、論語引文）。
+    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение|Источники(?:\s+изображений)?",
     "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)|Bild(?:er)?quellen?|Bildnachweise?",
     # 2026-09-14: de 加上 Bildnachweise／Bildquellen／Bildnachweis（en 有
     # „Image Sources"，de 缺同等的圖片出處標題變體，照片授權行裡的正體中文
