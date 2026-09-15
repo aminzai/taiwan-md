@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T22:56:53+08:00",
-    "zhCommitHead": "cc8884f01",
+    "lastUpdated": "2026-09-15T23:09:40+08:00",
+    "zhCommitHead": "a06158efe",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 967,
+        "fresh": 968,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 59,
+        "missing": 58,
         "orphan": 0
       },
       "ja": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 955,
+        "fresh": 956,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 953,
+        "fresh": 954,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       },
       "vi": {
@@ -68,34 +68,34 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 761,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 305,
+        "missing": 303,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 947,
+        "fresh": 948,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 95,
+        "missing": 94,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 285,
+        "missing": 284,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 861,
+        "fresh": 862,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 203,
+        "missing": 202,
         "orphan": 0
       },
       "ru": {
@@ -13038,7 +13038,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/formosa-plastics-group.md",
+          "translatedFrom": "Economy/台灣企業：台塑集團.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:542041b17da4dbbd",
+          "sourceBodyHash": "sha256:81797ae5614d2f0c",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/formosa-plastics-group.md",
@@ -15518,7 +15529,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/night-market-economics.md",
+          "translatedFrom": "Economy/夜市經濟學.md",
+          "sourceCommitSha": "7678a430b",
+          "sourceContentHash": "sha256:d707615db91a024a",
+          "sourceBodyHash": "sha256:7e08a20853bbe066",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/night-market-economics.md",
@@ -34014,8 +34036,8 @@
           "sourceContentHash": "sha256:839c2636244d1802",
           "sourceBodyHash": "sha256:55b6ef5e6d0d8a5c",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -69879,8 +69901,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -80156,8 +80178,8 @@
           "sourceContentHash": "sha256:4db19bede4865909",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T14:11:50.501287+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -113680,8 +113702,8 @@
           "sourceContentHash": "sha256:a8fc4383d9d485f8",
           "sourceBodyHash": "sha256:d49e5d04c317a204",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -116898,8 +116920,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -119206,7 +119228,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/lin-yu-ting.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -119249,8 +119282,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -127908,7 +127941,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/sausage-wrap.md",
+          "translatedFrom": "Food/大腸包小腸.md",
+          "sourceCommitSha": "f9736f867",
+          "sourceContentHash": "sha256:ffeaf97d752181df",
+          "sourceBodyHash": "sha256:b546f7c4ab790d17",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/sausage-wrap.md",
@@ -144835,7 +144879,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/lanyu-nuclear-waste.md",
+          "translatedFrom": "History/蘭嶼核廢料.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:65e86deccc5676be",
+          "sourceBodyHash": "sha256:c479bb28dd01bd12",
+          "translatedAt": "2026-09-15T19:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/lanyu-nuclear-waste.md",
@@ -167929,7 +167984,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-temple-festivals-and-performance-troupes.md",
+          "translatedFrom": "Culture/台灣廟會與陣頭文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:dd389bc47ee02430",
+          "sourceBodyHash": "sha256:57fa9edbc965f758",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-temple-festivals-and-performance-troupes.md",
@@ -174182,8 +174248,8 @@
           "sourceContentHash": "sha256:e5fd53530b9e999c",
           "sourceBodyHash": "sha256:201c8b949857fdd7",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a06158ef",
+          "translationLastModified": "2026-09-15T22:56:53+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -174876,7 +174942,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-15T19:45:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/pixnet.md",
@@ -176663,7 +176740,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-indigenous-names.md",
+          "translatedFrom": "Culture/台灣原住民族姓名.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:6c4805ee1614abe3",
+          "sourceBodyHash": "sha256:6bca10d6157cb46a",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"

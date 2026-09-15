@@ -2140,7 +2140,7 @@
   "de:Food/粽子.md": 1,
   "de:People/高俊明.md": 1,
   "de:People/柯文哲.md": 1,
-  "de:Food/油飯.md": 1,
+  "de:Food/油飯.md": 2,
   "de:People/黃光雄.md": 1,
   "de:People/楊深坑.md": 1,
   "de:Food/鳳梨酥.md": 1,
@@ -2755,7 +2755,7 @@
   "pt:Nature/帝雉.md": 1,
   "id:Culture/痞客邦.md": 1,
   "ru:Culture/痞客邦.md": 1,
-  "ja:Nature/帝雉.md": 1,
+  "ja:Nature/帝雉.md": 2,
   "hi:Culture/痞客邦.md": 1,
   "ar:Nature/帝雉.md": 1,
   "ja:History/台灣鹽業.md": 1,
@@ -2788,7 +2788,7 @@
   "ja:History/莫拉克風災.md": 1,
   "vi:Culture/香蕉白話.md": 1,
   "es:Economy/台灣離岸風電.md": 1,
-  "vi:Economy/台灣離岸風電.md": 1,
+  "vi:Economy/台灣離岸風電.md": 2,
   "ja:Lifestyle/台北橋機車瀑布.md": 1,
   "de:History/莫拉克風災.md": 1,
   "fr:Lifestyle/台北橋機車瀑布.md": 1,
@@ -3287,5 +3287,6 @@
   "fr:History/嘉義農林.md": 2,
   "hi:History/嘉義農林.md": 1,
   "de:History/嘉義農林.md": 1,
-  "ja:People/聖凱師.md": 1
+  "ja:People/聖凱師.md": 1,
+  "ru:People/聖凱師.md": 1
 }
