@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T07:54:25+08:00",
-    "zhCommitHead": "abc7da73a",
+    "lastUpdated": "2026-09-15T08:01:27+08:00",
+    "zhCommitHead": "8c4def607",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 909,
+        "fresh": 910,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 115,
+        "missing": 114,
         "orphan": 0
       },
       "fr": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 720,
+        "fresh": 721,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 344,
+        "missing": 343,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 137,
+        "missing": 136,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 634,
+        "fresh": 635,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 480,
+        "missing": 479,
         "orphan": 0
       }
     },
@@ -41839,7 +41839,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -41848,10 +41859,32 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -58021,8 +58054,8 @@
           "sourceContentHash": "sha256:4c2a5bf81e106582",
           "sourceBodyHash": "sha256:8bb3282a6d2b9453",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8c4def60",
+          "translationLastModified": "2026-09-15T07:54:25+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -69929,8 +69962,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8c4def60",
+          "translationLastModified": "2026-09-15T07:54:25+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -133980,8 +134013,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8c4def60",
+          "translationLastModified": "2026-09-15T07:54:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -157205,8 +157238,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-15T06:51:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8c4def60",
+          "translationLastModified": "2026-09-15T07:54:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -157241,7 +157274,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/tsou-war-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
