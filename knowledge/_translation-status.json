@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T11:52:54+08:00",
-    "zhCommitHead": "690e18ed9",
+    "lastUpdated": "2026-09-15T12:07:10+08:00",
+    "zhCommitHead": "7aacd4de9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 935,
+        "fresh": 937,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 91,
+        "missing": 89,
         "orphan": 0
       },
       "ja": {
@@ -36,74 +36,74 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 948,
+        "fresh": 949,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 81,
+        "missing": 80,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 924,
+        "fresh": 926,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 100,
+        "missing": 98,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 927,
+        "fresh": 929,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 94,
+        "missing": 92,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 847,
+        "fresh": 849,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 117,
+        "missing": 115,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 734,
+        "fresh": 736,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 330,
+        "missing": 328,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 921,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 766,
+        "fresh": 767,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 308,
+        "missing": 307,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 882,
+        "fresh": 884,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 188,
+        "missing": 186,
         "orphan": 0
       },
       "de": {
@@ -8239,18 +8239,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -40528,8 +40517,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45196,8 +45185,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45798,8 +45787,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -53636,40 +53625,161 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/dashcam.md",
+          "translatedFrom": "Society/行車紀錄器.md",
+          "sourceCommitSha": "dcc5bea37",
+          "sourceContentHash": "sha256:8576889db63ed923",
+          "sourceBodyHash": "sha256:6ca0540d354ad040",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138547,8 +138657,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -142829,7 +142939,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/lin-shuangwen-incident.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/lin-shuangwen-incident.md",
@@ -142838,8 +142959,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -160090,7 +160211,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -160099,16 +160231,60 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -160786,8 +160962,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -171852,8 +172028,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7aacd4de",
+          "translationLastModified": "2026-09-15T11:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
