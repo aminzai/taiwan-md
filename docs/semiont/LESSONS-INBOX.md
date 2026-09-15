@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-15 twmd-maintainer-am — named-entity-present-but-in-a-different-role：來源裡真的有那個名字，只是它講的是另一件事
+
+- **pattern**: `named-entity-present-but-in-a-different-role`
+- **原則**：查核一條腳註撐不撐得起正文，最容易機械化的動作是拿正文的專有名詞去搜來源頁。這個動作對「來源查無此人」有效，對本條這種錯誤**剛好相反——它會回報命中，然後替錯誤蓋章**。
+- **觸發**：`knowledge/People/馬英九.md` `[^3]` 寫「1981 年由錢復推薦進總統府擔任蔣經國英文翻譯」，掛中央社那篇。昨天的維護班抽驗後在 issue #1729 寫「全文沒有『1981』、沒有『錢復』、沒有『推薦』」。今天覆驗發現**錢復有出現**：「當時的駐美代表錢復在回國開會時也力勸蔣經國解嚴」——同一個人、同一篇報導、完全不同的事。「1981」與「推薦」確實沒有，所以原判斷的結論（這條撐不起來）是對的，但它給的理由有一半是錯的。
+- **為什麼這個差別重要**：如果照「來源沒提到這個人」去造檢查器，寫出來的會是「拿正文人名 grep 來源頁，零命中就報警」。這條會通過那道檢查，因為名字在。要抓它得讀懂那個名字在來源裡**扮演什麼角色**，而角色是語意不是字串——這正好落在 [MANIFESTO §14](MANIFESTO.md)「能機械化的交給儀器、需要判斷的留給判斷」的分界線上，而且是分界線的判斷那一側。昨天之所以抓到，是因為人真的把整篇讀完了。
+- **同批第二種形狀（同一則 issue，已確認）**：`[^31]` 自由亞洲電台那條是場合錯置＋偽造直接引語——來源寫的是回憶錄自序，母稿寫成東吳大學演講，引號裡的字也不是報導原文。這一種現有紅旗（MANIFESTO §10 第 3、4 型）已經編目，本條記的是第一種。
+- **可能層級**：[REFLEXES #82](REFLEXES.md) proxy signal 家族——「人名有沒有出現」是「這句話有沒有被支持」的替身。也接 [#75](REFLEXES.md)「Read ≠ verify」：讀到了、搜到了，都不等於驗過。
+- **候選修法**：(a) 查核腳註時，抓到人名命中要再問一句「它在來源裡做的是這件事嗎」，把這句寫進 FACTCHECK 的 verifier prompt（不是寫成 regex）；(b) 若要儀器輔助，能做的只到「把命中的那句連同前後文撈出來給人看」，不能做到判定；(c) 這條的對象是在世政治人物，錯誤成本偏高，屬 FACTCHECK Full mode 優先掃描的類別。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[Issue #1729](https://github.com/frank890417/taiwan-md/issues/1729) / ARTICLE-INBOX P0「馬英九 FACTCHECK Full」/ [MANIFESTO §10](MANIFESTO.md) 幻覺六型 / LESSONS `adding-a-live-url-to-an-unverifiable-quote-looks-like-an-upgrade`（2026-09-04，同樣是「引文與網址的關係看起來成立但不成立」的另一種形狀）
+
 ### 2026-09-10 twmd-maintainer-am — pipeline-requeues-what-a-contributor-is-already-translating：產線的待翻佇列看不見開著的投稿 PR，於是跟投稿者搶同一篇
 
 - **pattern**: `pipeline-requeues-what-a-contributor-is-already-translating`
