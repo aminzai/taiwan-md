@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T11:47:53+08:00",
-    "zhCommitHead": "4799af61e",
+    "lastUpdated": "2026-09-15T11:52:54+08:00",
+    "zhCommitHead": "690e18ed9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 309,
+        "missing": 308,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 231,
+        "missing": 230,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 651,
+        "fresh": 652,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 463,
+        "missing": 462,
         "orphan": 0
       }
     },
@@ -40472,8 +40472,8 @@
           "sourceContentHash": "sha256:5721a11524a1892d",
           "sourceBodyHash": "sha256:238cada628dc5182",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45140,8 +45140,8 @@
           "sourceContentHash": "sha256:c4ca8b53f4bb3480",
           "sourceBodyHash": "sha256:77e3b99bc535ad5d",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -45742,8 +45742,8 @@
           "sourceContentHash": "sha256:ee2c6b428739de29",
           "sourceBodyHash": "sha256:56a4506a2e90295b",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -138491,8 +138491,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -142793,6 +142793,20 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "hi": {
+          "path": "hi/History/lin-shuangwen-incident.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -142800,17 +142814,36 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "hi": {
-          "status": "missing"
-        },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/lin-shuangwen-incident.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/lin-shuangwen-incident.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -160708,8 +160741,8 @@
           "sourceContentHash": "sha256:d453213e0d417fd6",
           "sourceBodyHash": "sha256:1db8926ecfd90519",
           "translatedAt": "2026-09-15T06:51:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "690e18ed",
+          "translationLastModified": "2026-09-15T11:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
