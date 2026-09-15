@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T06:17:02+08:00",
-    "zhCommitHead": "6ef6985b8",
+    "lastUpdated": "2026-09-16T06:26:05+08:00",
+    "zhCommitHead": "1b8a53db1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 983,
+        "fresh": 984,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 967,
+        "fresh": 968,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "fr": {
@@ -8801,8 +8801,8 @@
           "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
           "sourceBodyHash": "sha256:118ca7651c90b0fe",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2ad7fb67",
+          "translationLastModified": "2026-09-16T06:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -9260,7 +9260,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -96800,7 +96811,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ding-richang.md",
+          "translatedFrom": "People/丁日昌.md",
+          "sourceCommitSha": "d48e11006",
+          "sourceContentHash": "sha256:feb8dc67f30db2e2",
+          "sourceBodyHash": "sha256:75dbc702aa896f78",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -136664,8 +136686,8 @@
           "sourceContentHash": "sha256:6676da6439aa0dbf",
           "sourceBodyHash": "sha256:7541a1d205619b0c",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2ad7fb67",
+          "translationLastModified": "2026-09-16T06:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -136787,8 +136809,8 @@
           "sourceContentHash": "sha256:1a44b37b859d8b1a",
           "sourceBodyHash": "sha256:04c29c7226490085",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2ad7fb67",
+          "translationLastModified": "2026-09-16T06:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -158267,18 +158289,7 @@
           "reason": "same-commit"
         },
         "id": {
-          "path": "id/Geography/taichung-metro.md",
-          "translatedFrom": "Geography/台中捷運.md",
-          "sourceCommitSha": "65acd39dc",
-          "sourceContentHash": "sha256:1603eebdccb4ea26",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-15T22:04:33.616646+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -158299,8 +158310,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2ad7fb67",
+          "translationLastModified": "2026-09-16T06:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -161594,7 +161605,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/banan-line.md",
@@ -165686,8 +165708,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2ad7fb67",
+          "translationLastModified": "2026-09-16T06:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
