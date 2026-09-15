@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-16
-last_session: '2026-09-16-053804-twmd-routine-sync（第 50 輪對賬 18/18 in-sync，連續第九輪零漂移；main 分岔續漲至 ahead571/behind193）'
+last_session: '2026-09-16-055031-twmd-embeddings-nightly（13 語 12,511 向量 0 fail，分岔續漲至 ahead573/behind193 延遲 push）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -338,3 +338,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-15 | 070942-twmd-feedback-triage | 第九輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠，收進 #1609 郭淑姿日記第二則維護者回覆；重查到達歷史把先例上限 10→12.6 天 | 極值查詢帶 limit 只會偏小，重驗要換取數形狀不是換一個新的窗 | [→](memory/2026-09-15-070942-twmd-feedback-triage.md) |
 | 2026-09-16 | 004655-twmd-babel-nightly | 三重巡檢確認 dispatcher 健康不重啟；ja 全 5 worker×backend <15% 通過率追出真因——書目區簡體殘留閘門非 lang-aware，国/学/画誤殺日文新字体，修完即時驗證一篇 71 秒過關 | 跨後端一致低分是「閘門攔下」訊號而非「模型能力」訊號 | [→](memory/2026-09-16-004655-twmd-babel-nightly.md) |
 | 2026-09-16 | 053804-twmd-routine-sync | 第 50 輪對賬 18/18 in-sync 連續第九輪零漂移；分岔續漲至 ahead571/behind193（首次雙邊同增，origin behind 也 +12） | 分岔不是單向本機漲幅，origin 那頭仍在累積等待合併的工作 | [→](memory/2026-09-16-053804-twmd-routine-sync.md) |
+| 2026-09-16 | 055031-twmd-embeddings-nightly | 13 語 12,511 向量 0 fail（較前夜 +630），rebuild ~35 分鐘；commit `7b978cbe5` 因真分岔（ahead573/behind193，OBSERVER-QUEUE #56）延遲 push | 新增的本地 commit 不擅自併入既有救援分支批次，留給哲宇裁決後統一處理 | [→](memory/2026-09-16-055031-twmd-embeddings-nightly.md) |
