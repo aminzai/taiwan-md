@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T22:40:02+08:00",
-    "zhCommitHead": "cf41c6ec7",
+    "lastUpdated": "2026-09-15T22:56:53+08:00",
+    "zhCommitHead": "cc8884f01",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,90 +28,90 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 766,
+        "fresh": 767,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 977,
+        "fresh": 978,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 954,
+        "fresh": 955,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 875,
+        "fresh": 876,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 758,
+        "fresh": 759,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 306,
+        "missing": 305,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 948,
+        "fresh": 947,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 94,
+        "missing": 95,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 286,
+        "missing": 285,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 860,
+        "fresh": 861,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 204,
+        "missing": 203,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 165,
+        "missing": 164,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 682,
+        "fresh": 683,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 432,
+        "missing": 431,
         "orphan": 0
       }
     },
@@ -6810,18 +6810,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -14833,7 +14822,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-cathay-financial.md",
+          "translatedFrom": "Economy/台灣企業：國泰金控.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:4749f0faadb8e7bf",
+          "sourceBodyHash": "sha256:ebc33c96c44483b0",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-enterprise-cathay-financial.md",
@@ -24819,7 +24819,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -50019,7 +50030,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/awakening-foundation.md",
+          "translatedFrom": "Society/婦女新知.md",
+          "sourceCommitSha": "6b051e31b",
+          "sourceContentHash": "sha256:32dfc005e4785017",
+          "sourceBodyHash": "sha256:fc834459f5ff6d06",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/awakening-foundation.md",
@@ -77705,7 +77727,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/guaji.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/guaji.md",
@@ -86441,7 +86474,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chi-cheng-flying-antelope.md",
@@ -113630,7 +113674,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lim-giong.md",
+          "translatedFrom": "People/林強.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a8fc4383d9d485f8",
+          "sourceBodyHash": "sha256:d49e5d04c317a204",
+          "translatedAt": "2026-09-15T19:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lim-giong.md",
@@ -121721,8 +121776,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cc8884f0",
+          "translationLastModified": "2026-09-15T22:40:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -127390,8 +127445,8 @@
           "sourceContentHash": "sha256:e1b77b1bcfa11b48",
           "sourceBodyHash": "sha256:8824b980fb94339c",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cc8884f0",
+          "translationLastModified": "2026-09-15T22:40:06+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -136965,7 +137020,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/national-railway-museum.md",
@@ -143930,8 +143996,8 @@
           "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cc8884f0",
+          "translationLastModified": "2026-09-15T22:40:06+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -146098,7 +146164,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -146121,18 +146198,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -165136,7 +165202,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-indigenous-mythology.md",
+          "translatedFrom": "Culture/原住民神話.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3ad9f28eb81ce704",
+          "sourceBodyHash": "sha256:93356a93ce6ebf61",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -171163,7 +171240,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/kavalan.md",
+          "translatedFrom": "Culture/噶瑪蘭族.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:f55a726b94593a52",
+          "sourceBodyHash": "sha256:af42a6da82295d4c",
+          "translatedAt": "2026-09-15T19:45:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/kavalan.md",
@@ -174791,7 +174879,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/pixnet.md",
