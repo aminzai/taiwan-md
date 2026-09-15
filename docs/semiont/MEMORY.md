@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-15
-last_session: '2026-09-15-063927-twmd-spore-harvest-am（第七天 plateau，查 OBSERVER-QUEUE 更正昨日誤判的「新發現」）'
+last_updated: 2026-09-16
+last_session: '2026-09-16-004655-twmd-babel-nightly（ja 書目區簡體殘留閘門誤殺日文新字体 国/学/画，三重巡檢確認 dispatcher 健康不重啟）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -336,3 +336,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-15 | 061723-twmd-data-refresh-am | 第十夜撞見同一 dispatcher，Step 1 讓場、14 步全綠零 stale；prebuild 首次連兩夜不逾時；commit `9c6cdfa4b` 因真分岔延遲 push | 跟平行 dispatcher 共存的判斷力比機械步驟本身更是這個 routine 的核心 | [→](memory/2026-09-15-061723-twmd-data-refresh-am.md) |
 | 2026-09-15 | 063927-twmd-spore-harvest-am | 第七天 #170-176 現查全雜訊（0~+3 views），0 新留言免 ship；查 OBSERVER-QUEUE 才發現昨天寫的「新發現」其實是哲宇 09-05 已拍板的裁決 | 把已決事項寫成待決 handoff 是倒退，發現前先查已決區 | [→](memory/2026-09-15-063927-twmd-spore-harvest-am.md) |
 | 2026-09-15 | 070942-twmd-feedback-triage | 第九輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠，收進 #1609 郭淑姿日記第二則維護者回覆；重查到達歷史把先例上限 10→12.6 天 | 極值查詢帶 limit 只會偏小，重驗要換取數形狀不是換一個新的窗 | [→](memory/2026-09-15-070942-twmd-feedback-triage.md) |
+| 2026-09-16 | 004655-twmd-babel-nightly | 三重巡檢確認 dispatcher 健康不重啟；ja 全 5 worker×backend <15% 通過率追出真因——書目區簡體殘留閘門非 lang-aware，国/学/画誤殺日文新字体，修完即時驗證一篇 71 秒過關 | 跨後端一致低分是「閘門攔下」訊號而非「模型能力」訊號 | [→](memory/2026-09-16-004655-twmd-babel-nightly.md) |
