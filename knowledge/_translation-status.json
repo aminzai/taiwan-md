@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T09:28:22+08:00",
-    "zhCommitHead": "0cf6612c7",
+    "lastUpdated": "2026-09-15T09:42:55+08:00",
+    "zhCommitHead": "47b60a5cb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 927,
+        "fresh": 928,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 99,
+        "missing": 98,
         "orphan": 0
       },
       "ja": {
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 941,
+        "fresh": 942,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 918,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 107,
+        "missing": 106,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 921,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 101,
+        "missing": 100,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 840,
+        "fresh": 842,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 124,
+        "missing": 122,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 725,
+        "fresh": 727,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 339,
+        "missing": 337,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 131,
+        "missing": 130,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 760,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 315,
+        "missing": 314,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 874,
+        "fresh": 875,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 196,
+        "missing": 195,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 641,
+        "fresh": 642,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 473,
+        "missing": 472,
         "orphan": 0
       }
     },
@@ -14645,8 +14645,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -32187,8 +32187,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -38166,8 +38166,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -42131,8 +42131,8 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -97908,31 +97908,108 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/bailingguo-news.md",
+          "translatedFrom": "People/百靈果 News.md",
+          "sourceCommitSha": "cf406dedd",
+          "sourceContentHash": "sha256:2e4b0f96f5527220",
+          "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -101999,8 +102076,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123220,8 +123297,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -123242,25 +123319,91 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129081,8 +129224,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -165510,8 +165653,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-15T06:51:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47b60a5c",
+          "translationLastModified": "2026-09-15T09:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
