@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T08:12:08+08:00",
-    "zhCommitHead": "43201a5b9",
+    "lastUpdated": "2026-09-15T08:20:02+08:00",
+    "zhCommitHead": "fa7b5931a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 921,
+        "fresh": 922,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 105,
+        "missing": 104,
         "orphan": 0
       },
       "ja": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 835,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 130,
+        "missing": 129,
         "orphan": 0
       },
       "id": {
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 136,
+        "missing": 135,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 755,
+        "fresh": 756,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 319,
+        "missing": 318,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 201,
+        "missing": 200,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 635,
+        "fresh": 636,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 479,
+        "missing": 478,
         "orphan": 0
       }
     },
@@ -37979,7 +37979,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-post.md",
@@ -37996,19 +38007,63 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-post.md",
+          "translatedFrom": "Lifestyle/台灣郵政.md",
+          "sourceCommitSha": "f64069ec0",
+          "sourceContentHash": "sha256:8099a54c43948775",
+          "sourceBodyHash": "sha256:3422a46a0cbc8816",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -41895,8 +41950,8 @@
           "sourceContentHash": "sha256:5ce8829ec7886eb3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T23:58:15.376358+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -69986,8 +70041,8 @@
           "sourceContentHash": "sha256:a9a1c953d1f67352",
           "sourceBodyHash": "sha256:7f3db8811cfb9799",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -130639,8 +130694,8 @@
           "sourceContentHash": "sha256:a88f68e2ed7330a9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-14T23:25:42.698662+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -133576,8 +133631,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-14T14:50:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -134048,8 +134103,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T06:51:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -157273,8 +157328,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-15T06:51:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -164967,7 +165022,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/iron-window-grilles.md",
+          "translatedFrom": "Culture/鐵窗花.md",
+          "sourceCommitSha": "ec3d660ca",
+          "sourceContentHash": "sha256:1888ffac8016e710",
+          "sourceBodyHash": "sha256:30a2135abbfbcd4c",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -172080,8 +172146,8 @@
           "sourceContentHash": "sha256:ec07a1faa117e7b7",
           "sourceBodyHash": "sha256:49e3639b8d3ada20",
           "translatedAt": "2026-09-15T06:51:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa7b5931",
+          "translationLastModified": "2026-09-15T08:12:08+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
