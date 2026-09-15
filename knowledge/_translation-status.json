@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T00:39:00+08:00",
-    "zhCommitHead": "f26b0b7c5",
+    "lastUpdated": "2026-09-16T00:39:41+08:00",
+    "zhCommitHead": "c7703deb2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 792,
+        "fresh": 793,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 282,
+        "missing": 281,
         "orphan": 0
       },
       "ar": {
@@ -61657,7 +61657,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwans-labeling-in-international-standards.md",
+          "translatedFrom": "Society/台灣在國際標準中的標示問題.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:474db7988470495f",
+          "sourceBodyHash": "sha256:288ae1e41983889d",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwans-labeling-in-international-standards.md",
@@ -119443,8 +119454,8 @@
           "sourceContentHash": "sha256:322fadf3d54cf027",
           "sourceBodyHash": "sha256:5a14ed890fa46c36",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7703deb",
+          "translationLastModified": "2026-09-16T00:39:00+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -131524,8 +131535,8 @@
           "sourceContentHash": "sha256:a5acd8724ecb9309",
           "sourceBodyHash": "sha256:05bf91e749daff0d",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7703deb",
+          "translationLastModified": "2026-09-16T00:39:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -137334,8 +137345,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7703deb",
+          "translationLastModified": "2026-09-16T00:39:00+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -140605,8 +140616,8 @@
           "sourceContentHash": "sha256:dcae38bb957f233f",
           "sourceBodyHash": "sha256:aa5b842ed6990a96",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7703deb",
+          "translationLastModified": "2026-09-16T00:39:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
