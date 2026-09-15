@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T10:01:01+08:00",
-    "zhCommitHead": "866073790",
+    "lastUpdated": "2026-09-15T10:09:44+08:00",
+    "zhCommitHead": "6fbf8718d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 928,
+        "fresh": 929,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "ja": {
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 942,
+        "fresh": 943,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 918,
+        "fresh": 919,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 106,
+        "missing": 105,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 760,
+        "fresh": 761,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 314,
+        "missing": 313,
         "orphan": 0
       },
       "ar": {
@@ -14757,8 +14757,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -32255,8 +32255,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -98057,8 +98057,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -102199,8 +102199,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123442,8 +123442,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -129380,8 +129380,8 @@
           "sourceContentHash": "sha256:3584d0ee1c271870",
           "sourceBodyHash": "sha256:fc73e90b8bb78029",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -137947,22 +137947,66 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taiping-steamer.md",
+          "translatedFrom": "History/太平輪.md",
+          "sourceCommitSha": "dab391c96",
+          "sourceContentHash": "sha256:dcae38bb957f233f",
+          "sourceBodyHash": "sha256:aa5b842ed6990a96",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiping-steamer.md",
+          "translatedFrom": "History/太平輪.md",
+          "sourceCommitSha": "dab391c96",
+          "sourceContentHash": "sha256:dcae38bb957f233f",
+          "sourceBodyHash": "sha256:aa5b842ed6990a96",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taiping-steamer.md",
+          "translatedFrom": "History/太平輪.md",
+          "sourceCommitSha": "dab391c96",
+          "sourceContentHash": "sha256:dcae38bb957f233f",
+          "sourceBodyHash": "sha256:aa5b842ed6990a96",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiping-steamer.md",
+          "translatedFrom": "History/太平輪.md",
+          "sourceCommitSha": "dab391c96",
+          "sourceContentHash": "sha256:dcae38bb957f233f",
+          "sourceBodyHash": "sha256:aa5b842ed6990a96",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -165765,8 +165809,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -173969,7 +174013,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-colloquialisms.md",
+          "translatedFrom": "Culture/台灣口語特色.md",
+          "sourceCommitSha": "1791349e1",
+          "sourceContentHash": "sha256:15d6246d744f90bf",
+          "sourceBodyHash": "sha256:227017306bf0c999",
+          "translatedAt": "2026-09-15T06:51:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -173984,8 +174039,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-15T06:51:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbf8718",
+          "translationLastModified": "2026-09-15T10:01:02+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
