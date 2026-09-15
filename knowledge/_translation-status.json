@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-15T13:16:58+08:00",
-    "zhCommitHead": "e35f8f16c",
+    "lastUpdated": "2026-09-15T13:35:54+08:00",
+    "zhCommitHead": "0ff26874d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 941,
+        "fresh": 942,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 85,
+        "missing": 84,
         "orphan": 0
       },
       "ja": {
@@ -36,50 +36,50 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 77,
+        "missing": 76,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 930,
+        "fresh": 931,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 94,
+        "missing": 93,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 933,
+        "fresh": 934,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 851,
+        "fresh": 852,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 113,
+        "missing": 112,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 739,
+        "fresh": 740,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 325,
+        "missing": 324,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 925,
+        "fresh": 926,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 117,
+        "missing": 116,
         "orphan": 0
       },
       "hi": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 225,
+        "missing": 224,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 887,
+        "fresh": 888,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 183,
+        "missing": 182,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 656,
+        "fresh": 657,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 458,
+        "missing": 457,
         "orphan": 0
       }
     },
@@ -53643,8 +53643,8 @@
           "sourceContentHash": "sha256:8576889db63ed923",
           "sourceBodyHash": "sha256:6ca0540d354ad040",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84239,8 +84239,8 @@
           "sourceContentHash": "sha256:377677ba4b69d2d9",
           "sourceBodyHash": "sha256:4ff2706afa6c57f6",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -116521,8 +116521,8 @@
           "sourceContentHash": "sha256:d6932f9e4ae0a8c5",
           "sourceBodyHash": "sha256:ac25e74e87295655",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -142541,8 +142541,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -142566,7 +142566,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-15T06:51:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -142575,7 +142586,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-15T06:51:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -143136,8 +143158,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -146786,25 +146808,91 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -146813,7 +146901,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-15T06:51:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -160515,8 +160614,8 @@
           "sourceContentHash": "sha256:a02c70297f1ffa93",
           "sourceBodyHash": "sha256:136fcbce54ee6de7",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -163085,8 +163184,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-15T06:51:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0ff26874",
+          "translationLastModified": "2026-09-15T13:16:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -163166,7 +163265,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/kaohsiung-port.md",
+          "translatedFrom": "Culture/高雄港.md",
+          "sourceCommitSha": "640d7f54d",
+          "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
+          "sourceBodyHash": "sha256:05bcbb3170c3536a",
+          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
