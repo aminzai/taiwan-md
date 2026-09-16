@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T07:52:14+08:00",
-    "zhCommitHead": "822eae6ef",
+    "lastUpdated": "2026-09-16T08:06:51+08:00",
+    "zhCommitHead": "e3e1a7361",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,18 +36,18 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 985,
+        "fresh": 986,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 971,
+        "fresh": 972,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "fr": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 779,
+        "fresh": 780,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 285,
+        "missing": 284,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 415,
+        "missing": 414,
         "orphan": 0
       }
     },
@@ -6844,7 +6844,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52109,7 +52120,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-indigenous-education-and-language-revival.md",
+          "translatedFrom": "Society/台灣原住民族教育與語言復振的交界.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:976815861db5ed08",
+          "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
+          "translatedAt": "2026-09-15T19:45:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwan-indigenous-education-and-language-revival.md",
@@ -63007,7 +63029,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-judicial-reform-and-preventive-detention.md",
+          "translatedFrom": "Society/台灣司法改革與預防性羈押制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:95fbaf40f48b2ca2",
+          "sourceBodyHash": "sha256:afed06eba24e4811",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-judicial-reform-and-preventive-detention.md",
@@ -75905,8 +75938,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3e1a736",
+          "translationLastModified": "2026-09-16T07:52:14+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -89696,8 +89729,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3e1a736",
+          "translationLastModified": "2026-09-16T07:52:14+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -98289,7 +98322,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/shen-baozhen.md",
+          "translatedFrom": "People/沈葆楨.md",
+          "sourceCommitSha": "c715b43d5",
+          "sourceContentHash": "sha256:0db6c2a854c9d1f9",
+          "sourceBodyHash": "sha256:619269e5a282feaa",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/shen-baozhen.md",
@@ -158442,7 +158486,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taichung-metro.md",
@@ -158465,8 +158520,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3e1a736",
+          "translationLastModified": "2026-09-16T07:52:14+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -160723,8 +160778,8 @@
           "sourceContentHash": "sha256:d1828d3d37dfb27c",
           "sourceBodyHash": "sha256:cfda5c461d2cd71a",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3e1a736",
+          "translationLastModified": "2026-09-16T07:52:14+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -163264,8 +163319,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3e1a736",
+          "translationLastModified": "2026-09-16T07:52:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
