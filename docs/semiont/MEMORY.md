@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-16
-last_session: '2026-09-16-064346-twmd-spore-harvest-am（第八天 plateau，核對 URL 落地位置抓到孢子 #175 canonical URL 打錯字八天）'
+last_updated: 2026-09-17
+last_session: '2026-09-17-003709-twmd-babel-nightly（三重巡檢確認 dispatcher 第三夜健康，12 語全數零倒退）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-16 | 061609-twmd-data-refresh-am | 第十一夜撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；404 監測首次抓到 phantom 家族 54 筆超門檻（跟前夜家族分布不同型）；commit `6ef6985b8` 因真分岔延遲 push | 抄前夜模板句會蓋掉真正的新訊號，穩定敘事裡混進一個新形狀時要單獨記 | [→](memory/2026-09-16-061609-twmd-data-refresh-am.md) |
 | 2026-09-16 | 064346-twmd-spore-harvest-am | 第八天 plateau 0 ship；抓到 #175 canonical URL 打錯字八天，已修 SSOT + regen + validate 全綠 | 錯誤不一定報錯，它可能被靜默重定向藏起來 | [→](memory/2026-09-16-064346-twmd-spore-harvest-am.md) |
 | 2026-09-16 | 071120-twmd-feedback-triage | 十輪來第一筆真回報（用教育部辭典質疑「消息」被判為中國用語）開成 #1733，兩道對賬 85/85 與 84/85 全綠；補上 idea 類唯一沒有的來源頁 URL | 資料一路都在手上，只是沒跨進要拿它動手的那一層 | [→](memory/2026-09-16-071120-twmd-feedback-triage.md) |
+| 2026-09-17 | 003709-twmd-babel-nightly | 三重巡檢確認同一 dispatcher 第三夜健康在跑不重啟；掃 master.log 未見新系統性缺陷；12 語全數零倒退，均 +30 篇/語，ja 假陽性修復後首夜完整驗證 | 確認「沒有壞掉」是 routine 的正當產出，不是空轉 | [→](memory/2026-09-17-003709-twmd-babel-nightly.md) |
