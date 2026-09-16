@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T13:35:21+08:00",
-    "zhCommitHead": "a1c41506b",
+    "lastUpdated": "2026-09-16T14:06:11+08:00",
+    "zhCommitHead": "35418e877",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ko": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 278,
+        "missing": 277,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 924,
+        "fresh": 926,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 146,
+        "missing": 144,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 705,
+        "fresh": 707,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 409,
+        "missing": 407,
         "orphan": 0
       }
     },
@@ -6865,7 +6865,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -6874,7 +6885,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -42839,8 +42861,8 @@
           "sourceContentHash": "sha256:c1027a26b2054b2e",
           "sourceBodyHash": "sha256:48c6ab2b08ee901b",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35418e87",
+          "translationLastModified": "2026-09-16T13:35:28+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -47830,7 +47852,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwanese-overseas-and-diaspora.md",
+          "translatedFrom": "Society/台灣海外僑民與離散社群.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5ad18a83d0ab46f1",
+          "sourceBodyHash": "sha256:dc26781150e83c1c",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -54323,7 +54356,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-teacher-discipline-dilemma.md",
+          "translatedFrom": "Society/台灣教師的管教困境.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0a9d7b4b73be1372",
+          "sourceBodyHash": "sha256:50ce5b41a494b70c",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70643,8 +70687,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35418e87",
+          "translationLastModified": "2026-09-16T13:35:28+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -74093,7 +74137,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Politics/happy-cannot-party.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Politics/happy-cannot-party.md",
@@ -78121,8 +78176,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35418e87",
+          "translationLastModified": "2026-09-16T13:35:28+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -105234,8 +105289,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35418e87",
+          "translationLastModified": "2026-09-16T13:35:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -148209,7 +148264,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -149601,7 +149667,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-strait-crises-and-cross-strait-relations.md",
+          "translatedFrom": "History/台海危機與兩岸關係發展.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:fcdf343dc3efa72e",
+          "sourceBodyHash": "sha256:8952fca56720f010",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taiwan-strait-crises-and-cross-strait-relations.md",
@@ -153411,18 +153488,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -164395,8 +164461,8 @@
           "sourceContentHash": "sha256:5e435a8b85b32036",
           "sourceBodyHash": "sha256:8d460cbf9b7f271d",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "35418e87",
+          "translationLastModified": "2026-09-16T13:35:28+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
