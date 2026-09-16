@@ -1513,7 +1513,7 @@
   "ja:People/這群人.md": 4,
   "fr:People/這群人.md": 6,
   "ko:People/這群人.md": 5,
-  "es:People/這群人.md": 5,
+  "es:People/這群人.md": 6,
   "ja:Technology/雪山隧道.md": 5,
   "en:Technology/雪山隧道.md": 5,
   "hi:Food/台灣新住民美食融合.md": 11,
@@ -2500,7 +2500,7 @@
   "ko:Food/青草茶.md": 2,
   "ar:Food/青草茶.md": 1,
   "fr:Food/青草茶.md": 1,
-  "ru:Food/青草茶.md": 1,
+  "ru:Food/青草茶.md": 2,
   "ja:People/蔣經國.md": 1,
   "pt:Food/燒臘便當.md": 1,
   "id:Food/青草茶.md": 1,
@@ -3280,7 +3280,7 @@
   "ja:Geography/自來水.md": 1,
   "ja:Geography/阿里山林業鐵路.md": 1,
   "ja:Economy/台灣造船業.md": 1,
-  "fr:Economy/台灣造船業.md": 2,
+  "fr:Economy/台灣造船業.md": 3,
   "ar:Geography/阿里山林業鐵路.md": 2,
   "ja:History/嘉義農林.md": 1,
   "es:History/嘉義農林.md": 1,
@@ -3297,5 +3297,6 @@
   "vi:People/聖凱師.md": 1,
   "hi:Economy/台灣造船業.md": 1,
   "ko:History/台灣白色恐怖.md": 1,
-  "ar:Economy/台灣造船業.md": 1
+  "ar:Economy/台灣造船業.md": 1,
+  "ar:History/嘉義農林.md": 1
 }

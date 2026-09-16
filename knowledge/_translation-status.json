@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T14:30:39+08:00",
-    "zhCommitHead": "635c782be",
+    "lastUpdated": "2026-09-16T14:44:49+08:00",
+    "zhCommitHead": "c2ca0d081",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 989,
+        "fresh": 990,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "ja": {
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1000,
-        "stale": 74,
+        "fresh": 1001,
+        "stale": 73,
         "metadata_stale": 16,
         "missing": 31,
         "orphan": 0
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 901,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 62,
+        "missing": 63,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 276,
+        "missing": 275,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 708,
+        "fresh": 709,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 406,
+        "missing": 405,
         "orphan": 0
       }
     },
@@ -29832,7 +29832,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-cybersecurity-industry-development.md",
+          "translatedFrom": "Technology/台灣資安產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
+          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-cybersecurity-industry-development.md",
@@ -33050,7 +33061,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/indigenous-literature.md",
+          "translatedFrom": "Art/原住民文學.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c3ce92b18e6d1aeb",
+          "sourceBodyHash": "sha256:621573191262d79d",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74167,7 +74189,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/happy-cannot-party.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-16T11:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Politics/happy-cannot-party.md",
@@ -145621,8 +145654,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2ca0d08",
+          "translationLastModified": "2026-09-16T14:30:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -148280,18 +148313,7 @@
           "status": "missing"
         },
         "vi": {
-          "path": "vi/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "path": "id/History/chiayi-agriculture-forestry.md",
@@ -153541,8 +153563,8 @@
           "sourceContentHash": "sha256:54289ada86a97c4f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-16T04:43:29.930403+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2ca0d08",
+          "translationLastModified": "2026-09-16T14:30:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -172853,16 +172875,16 @@
         "ko": {
           "path": "ko/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-06-16T17:19:04Z",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7f4fc66b36800cb9",
+          "sourceBodyHash": "sha256:3e6fa91c9ef25405",
+          "translatedAt": "2026-09-16T11:57:26+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-furry-culture.md",
@@ -177634,8 +177656,8 @@
           "sourceContentHash": "sha256:5d755db85cc865b7",
           "sourceBodyHash": "sha256:260176da7ff3515f",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2ca0d08",
+          "translationLastModified": "2026-09-16T14:30:43+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
