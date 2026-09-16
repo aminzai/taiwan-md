@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:51:41+08:00",
-    "zhCommitHead": "32bbd873e",
+    "lastUpdated": "2026-09-17T01:52:35+08:00",
+    "zhCommitHead": "5b79d8ddb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 980,
+        "fresh": 981,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 42,
+        "missing": 41,
         "orphan": 0
       },
       "vi": {
@@ -9476,8 +9476,8 @@
           "sourceContentHash": "sha256:df3537706e58c616",
           "sourceBodyHash": "sha256:8b037e5204101e2f",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5b79d8dd",
+          "translationLastModified": "2026-09-17T01:51:42+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -87297,7 +87297,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/science-wife.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-16T11:57:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/science-wife.md",
@@ -88989,8 +89000,8 @@
           "sourceContentHash": "sha256:73a411edb3bee540",
           "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "5b79d8dd",
+          "translationLastModified": "2026-09-17T01:51:42+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -92256,8 +92267,8 @@
           "sourceContentHash": "sha256:28ebca4abc1527e4",
           "sourceBodyHash": "sha256:2ae685b1d23ee474",
           "translatedAt": "2026-09-16T17:51:19.082754+00:00",
-          "translationLastCommit": "e89394a4",
-          "translationLastModified": "2026-07-28T09:19:57+08:00",
+          "translationLastCommit": "5b79d8dd",
+          "translationLastModified": "2026-09-17T01:51:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
