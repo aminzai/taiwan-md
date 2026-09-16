@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T23:24:44+08:00",
-    "zhCommitHead": "8fe586606",
+    "lastUpdated": "2026-09-17T00:08:52+08:00",
+    "zhCommitHead": "18fc9208e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 995,
+        "fresh": 996,
         "stale": 78,
         "metadata_stale": 15,
-        "missing": 33,
+        "missing": 32,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 913,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 53,
+        "missing": 51,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 805,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 261,
+        "missing": 259,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 885,
+        "fresh": 886,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 723,
+        "fresh": 724,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 391,
+        "missing": 390,
         "orphan": 0
       }
     },
@@ -1999,7 +1999,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/indie-music-scene.md",
+          "translatedFrom": "Music/台灣獨立音樂.md",
+          "sourceCommitSha": "73443b2a4",
+          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
+          "sourceBodyHash": "sha256:c54c3768ed377e41",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/indie-music-scene.md",
@@ -9437,7 +9448,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -55798,8 +55820,8 @@
           "sourceContentHash": "sha256:400d675ceaf05f40",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-16T14:21:35.337463+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18fc9208",
+          "translationLastModified": "2026-09-16T23:24:45+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -61627,8 +61649,8 @@
           "sourceContentHash": "sha256:6b2ce60c50966bdc",
           "sourceBodyHash": "sha256:6f79d66a90a09b62",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18fc9208",
+          "translationLastModified": "2026-09-16T23:24:45+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -64037,7 +64059,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/dpp-founding.md",
@@ -77105,7 +77138,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/ceylan.md",
@@ -81443,8 +81487,8 @@
           "sourceContentHash": "sha256:0756e6688779bf0a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-16T15:13:14.826756+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18fc9208",
+          "translationLastModified": "2026-09-16T23:24:45+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "status": "fresh",
@@ -89458,7 +89502,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/robert-swinhoe-naturalist.md",
+          "translatedFrom": "People/史溫侯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:50b13c3a31e0a1c0",
+          "sourceBodyHash": "sha256:e6b263814c7b1995",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -102556,7 +102611,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/4.md",
@@ -130065,7 +130131,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/gua-bao.md",
+          "translatedFrom": "Food/刈包.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6fe952ad9ad0a5fa",
+          "sourceBodyHash": "sha256:6b2255cbc29cf54c",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/gua-bao.md",
@@ -155442,8 +155519,8 @@
           "sourceContentHash": "sha256:1aab357813ec41e3",
           "sourceBodyHash": "sha256:4f2293becc2b45da",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18fc9208",
+          "translationLastModified": "2026-09-16T23:24:45+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
