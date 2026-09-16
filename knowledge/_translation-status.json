@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T23:03:36+08:00",
-    "zhCommitHead": "1c50d7d25",
+    "lastUpdated": "2026-09-16T23:14:59+08:00",
+    "zhCommitHead": "5ed3a9924",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 54,
+        "missing": 53,
         "orphan": 0
       },
       "id": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 936,
+        "fresh": 937,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 134,
+        "missing": 133,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 722,
+        "fresh": 723,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 392,
+        "missing": 391,
         "orphan": 0
       }
     },
@@ -36466,8 +36466,8 @@
           "sourceContentHash": "sha256:24d3c436839c65a5",
           "sourceBodyHash": "sha256:952b491f965877b0",
           "translatedAt": "2026-09-16T11:57:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5ed3a992",
+          "translationLastModified": "2026-09-16T23:03:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -46083,7 +46083,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/teach-for-taiwan.md",
+          "translatedFrom": "Society/為台灣而教TFT.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d24206673c791f9a",
+          "sourceBodyHash": "sha256:2ed9c66e6cdd44d6",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -168069,7 +168080,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/indigenous-weaving.md",
+          "translatedFrom": "Culture/原住民織布.md",
+          "sourceCommitSha": "7c99cd4b7",
+          "sourceContentHash": "sha256:d6b33427d383d025",
+          "sourceBodyHash": "sha256:d806fd1fb93df2e0",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/indigenous-weaving.md",
@@ -174254,7 +174276,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/national-central-library.md",
+          "translatedFrom": "Culture/國家圖書館.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b188920097cf9184",
+          "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -177390,8 +177423,8 @@
           "sourceContentHash": "sha256:c124eb253c195f03",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-16T14:49:06.218181+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5ed3a992",
+          "translationLastModified": "2026-09-16T23:03:36+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "status": "fresh",
