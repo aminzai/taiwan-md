@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T11:21:55+08:00",
-    "zhCommitHead": "f654914b9",
+    "lastUpdated": "2026-09-16T11:45:16+08:00",
+    "zhCommitHead": "28cbbd9c7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 996,
+        "fresh": 997,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 33,
+        "missing": 32,
         "orphan": 0
       },
       "es": {
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 972,
+        "fresh": 973,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 966,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 78,
+        "missing": 76,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 192,
+        "missing": 191,
         "orphan": 0
       },
       "ru": {
@@ -22597,7 +22597,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/backslash-in-function-character.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/backslash-in-function-character.md",
@@ -55221,7 +55232,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/air-raid-shelter.md",
+          "translatedFrom": "Society/防空避難.md",
+          "sourceCommitSha": "f72b7c411",
+          "sourceContentHash": "sha256:2864f529a23701fe",
+          "sourceBodyHash": "sha256:c8066f344d7a7cc6",
+          "translatedAt": "2026-09-15T19:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/air-raid-shelter.md",
@@ -57170,8 +57192,8 @@
           "sourceContentHash": "sha256:355af10a54c14130",
           "sourceBodyHash": "sha256:f7547564791748fe",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -70549,7 +70571,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -74017,8 +74050,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -101719,8 +101752,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -105107,7 +105140,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -116607,8 +116651,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -120639,7 +120683,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lin-yu-ting.md",
+          "translatedFrom": "People/林郁婷.md",
+          "sourceCommitSha": "c0f587606",
+          "sourceContentHash": "sha256:322fadf3d54cf027",
+          "sourceBodyHash": "sha256:5a14ed890fa46c36",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lin-yu-ting.md",
@@ -134050,7 +134105,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-railway-bento.md",
@@ -164925,7 +164991,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/laaluwa.md",
@@ -177190,8 +177267,8 @@
           "sourceContentHash": "sha256:5d755db85cc865b7",
           "sourceBodyHash": "sha256:260176da7ff3515f",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -177482,8 +177559,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-15T19:45:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28cbbd9c",
+          "translationLastModified": "2026-09-16T11:21:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
