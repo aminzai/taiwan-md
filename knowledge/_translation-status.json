@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T17:09:36+08:00",
-    "zhCommitHead": "da315ef88",
+    "lastUpdated": "2026-09-16T17:10:19+08:00",
+    "zhCommitHead": "7b3af64e9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 878,
+        "fresh": 879,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 186,
+        "missing": 185,
         "orphan": 0
       },
       "ru": {
@@ -40601,8 +40601,8 @@
           "sourceContentHash": "sha256:02bd3943b09e813f",
           "sourceBodyHash": "sha256:45fcf1e43c9080d6",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "7b3af64e",
+          "translationLastModified": "2026-09-16T17:09:36+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -71665,8 +71665,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "7b3af64e",
+          "translationLastModified": "2026-09-16T17:09:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -145784,7 +145784,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-salt-industry.md",
+          "translatedFrom": "History/台灣鹽業.md",
+          "sourceCommitSha": "a61bd414b",
+          "sourceContentHash": "sha256:623c5c57e9b6b622",
+          "sourceBodyHash": "sha256:7e48fca3fca65812",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-salt-industry.md",
@@ -174307,8 +174318,8 @@
           "sourceContentHash": "sha256:f55a726b94593a52",
           "sourceBodyHash": "sha256:af42a6da82295d4c",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b3af64e",
+          "translationLastModified": "2026-09-16T17:09:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -178430,8 +178441,8 @@
           "sourceContentHash": "sha256:40afb2d50aafb904",
           "sourceBodyHash": "sha256:741df566dca09227",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b3af64e",
+          "translationLastModified": "2026-09-16T17:09:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
