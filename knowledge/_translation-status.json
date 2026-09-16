@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T20:32:57+08:00",
-    "zhCommitHead": "903457deb",
+    "lastUpdated": "2026-09-16T21:16:20+08:00",
+    "zhCommitHead": "3c9b6169a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 908,
+        "fresh": 909,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 56,
+        "missing": 55,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 265,
+        "missing": 264,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 882,
+        "fresh": 883,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 182,
+        "missing": 181,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 720,
+        "fresh": 721,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       }
     },
@@ -63846,8 +63846,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c9b6169",
+          "translationLastModified": "2026-09-16T20:32:57+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -66947,7 +66947,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/meiyu-stagnant-front.md",
+          "translatedFrom": "Nature/梅雨.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:08c48a6ddad4519e",
+          "sourceBodyHash": "sha256:31c92fd7633ce35e",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -118764,8 +118775,8 @@
           "sourceContentHash": "sha256:ff571f0d47415df6",
           "sourceBodyHash": "sha256:87fd16bb46aa18be",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c9b6169",
+          "translationLastModified": "2026-09-16T20:32:57+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -147134,7 +147145,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-piracy-history.md",
+          "translatedFrom": "History/台灣盜版史.md",
+          "sourceCommitSha": "373a07d35",
+          "sourceContentHash": "sha256:b8045765d1db3274",
+          "sourceBodyHash": "sha256:a195178fa37b285e",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-piracy-history.md",
@@ -155304,7 +155326,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/dadaocheng.md",
+          "translatedFrom": "Geography/大稻埕.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:1aab357813ec41e3",
+          "sourceBodyHash": "sha256:4f2293becc2b45da",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/dadaocheng.md",
@@ -156456,8 +156489,8 @@
           "sourceContentHash": "sha256:e34125e4b520b62c",
           "sourceBodyHash": "sha256:6490dd989b255fd9",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c9b6169",
+          "translationLastModified": "2026-09-16T20:32:57+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -163810,7 +163843,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/banan-line.md",
+          "translatedFrom": "Geography/板南線.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:373c365c77c6b0b9",
+          "sourceBodyHash": "sha256:dc5113e65f4b7030",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/banan-line.md",
