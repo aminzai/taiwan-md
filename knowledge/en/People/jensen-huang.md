@@ -22,10 +22,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e9178b000513a553'
-sourceBodyHash: 'sha256:0447f104316070ca'
-translatedAt: '2026-07-28T11:05:33.969775+00:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-16T19:21:10.891972+00:00'
 ---
 
 # Jensen Huang (黃仁勳)

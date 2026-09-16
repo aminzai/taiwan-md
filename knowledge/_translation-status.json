@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T02:29:20+08:00",
-    "zhCommitHead": "46ccc42ca",
+    "lastUpdated": "2026-09-17T03:21:35+08:00",
+    "zhCommitHead": "8baf76615",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,34 +20,34 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 997,
-        "stale": 76,
+        "fresh": 998,
+        "stale": 75,
         "metadata_stale": 14,
         "missing": 34,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 196,
+        "missing": 195,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1011,
-        "stale": 69,
+        "fresh": 1012,
+        "stale": 68,
         "metadata_stale": 13,
         "missing": 28,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 998,
+        "fresh": 999,
         "stale": 77,
         "metadata_stale": 14,
-        "missing": 32,
+        "missing": 31,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 917,
+        "fresh": 918,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 940,
+        "fresh": 942,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 130,
+        "missing": 128,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 727,
+        "fresh": 729,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 387,
+        "missing": 385,
         "orphan": 0
       }
     },
@@ -8412,18 +8412,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -8435,7 +8424,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61219,7 +61219,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/housing-justice-taiwan.md",
+          "translatedFrom": "Society/居住正義.md",
+          "sourceCommitSha": "149901078",
+          "sourceContentHash": "sha256:dcd392c480a1e7a1",
+          "sourceBodyHash": "sha256:a0a8f64f629c96f3",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/housing-justice-taiwan.md",
@@ -64214,8 +64225,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8baf7661",
+          "translationLastModified": "2026-09-17T02:29:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -67739,7 +67750,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Nature/taiwan-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/taiwan-white-dolphin.md",
@@ -67784,7 +67806,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/taiwan-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/taiwan-white-dolphin.md",
@@ -73301,7 +73334,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/taiwan-absentee-voting.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Politics/taiwan-absentee-voting.md",
@@ -81371,7 +81415,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yin-haiguang-liberalism-philosopher.md",
+          "translatedFrom": "People/殷海光.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0d8d9acd7b29d4d0",
+          "sourceBodyHash": "sha256:51ae38d79a7cc954",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83811,8 +83866,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8baf7661",
+          "translationLastModified": "2026-09-17T02:29:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -90233,7 +90288,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lin-chia-chen.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lin-chia-chen.md",
@@ -92281,18 +92347,16 @@
         "en": {
           "path": "en/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-28T11:05:33.969775+00:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-16T19:21:10.891972+00:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/jensen-huang.md",
@@ -92313,18 +92377,16 @@
         "ko": {
           "path": "ko/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-28T20:06:37.394804+00:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-16T18:40:48.395315+00:00",
           "translationLastCommit": "adc69a2f",
           "translationLastModified": "2026-07-29T04:32:17+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/jensen-huang.md",
@@ -95698,8 +95760,8 @@
           "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
           "sourceBodyHash": "sha256:4da6179cc5f355db",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8baf7661",
+          "translationLastModified": "2026-09-17T02:29:24+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -111407,8 +111469,8 @@
           "sourceContentHash": "sha256:84ffac689843ddd3",
           "sourceBodyHash": "sha256:98cbd8f687f836db",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8baf7661",
+          "translationLastModified": "2026-09-17T02:29:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -111699,7 +111761,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lin-yang-duo-taiwan-badminton-champions.md",
+          "translatedFrom": "People/麟洋配.md",
+          "sourceCommitSha": "c32d210ff",
+          "sourceContentHash": "sha256:940cd3ea72960eac",
+          "sourceBodyHash": "sha256:4c0e104cb6fe8601",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/lin-yang-duo-taiwan-badminton-champions.md",
@@ -175669,7 +175742,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/amis-age-grade-system.md",
+          "translatedFrom": "Culture/阿美族年齡階級.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:ed1755ea004ce07b",
+          "sourceBodyHash": "sha256:5143620e3afad434",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/amis-age-grade-system.md",
