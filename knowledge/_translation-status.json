@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T15:35:50+08:00",
-    "zhCommitHead": "a98c7482c",
+    "lastUpdated": "2026-09-16T15:38:03+08:00",
+    "zhCommitHead": "9bc5b975b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 275,
+        "missing": 274,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 973,
+        "fresh": 971,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 69,
+        "missing": 71,
         "orphan": 0
       },
       "hi": {
@@ -6865,18 +6865,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -110770,7 +110759,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
+          "translatedFrom": "People/葉國一.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:736f2b6cf89c9093",
+          "sourceBodyHash": "sha256:728aa85d9d44e89a",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -116319,8 +116319,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc5b975",
+          "translationLastModified": "2026-09-16T15:35:54+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -130399,8 +130399,8 @@
           "sourceContentHash": "sha256:9e0f798883cbe5d7",
           "sourceBodyHash": "sha256:3b14e4290a67452c",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc5b975",
+          "translationLastModified": "2026-09-16T15:35:54+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -145781,8 +145781,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bc5b975",
+          "translationLastModified": "2026-09-16T15:35:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -148451,18 +148451,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
