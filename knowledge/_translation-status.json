@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T23:14:59+08:00",
-    "zhCommitHead": "5ed3a9924",
+    "lastUpdated": "2026-09-16T23:18:51+08:00",
+    "zhCommitHead": "664ce5f89",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 884,
+        "fresh": 885,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 180,
+        "missing": 179,
         "orphan": 0
       },
       "ru": {
@@ -32198,7 +32198,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/presidential-office.md",
+          "translatedFrom": "Art/總統府.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:9f877cc81b557524",
+          "sourceBodyHash": "sha256:e3230be59701ee45",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/presidential-office.md",
@@ -147217,8 +147228,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "664ce5f8",
+          "translationLastModified": "2026-09-16T23:14:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -160141,8 +160152,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "664ce5f8",
+          "translationLastModified": "2026-09-16T23:14:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -168086,8 +168097,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "664ce5f8",
+          "translationLastModified": "2026-09-16T23:14:59+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
