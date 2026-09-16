@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T09:05:18+08:00",
-    "zhCommitHead": "0e2fa4e14",
+    "lastUpdated": "2026-09-16T09:11:41+08:00",
+    "zhCommitHead": "d44bc61e4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 776,
+        "fresh": 777,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "ko": {
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 781,
+        "fresh": 782,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 283,
+        "missing": 282,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 958,
+        "fresh": 959,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 273,
+        "missing": 272,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 915,
+        "fresh": 916,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 155,
+        "missing": 154,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 701,
+        "fresh": 700,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 413,
+        "missing": 414,
         "orphan": 0
       }
     },
@@ -6844,18 +6844,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -45589,7 +45578,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/teach-for-taiwan.md",
+          "translatedFrom": "Society/為台灣而教TFT.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d24206673c791f9a",
+          "sourceBodyHash": "sha256:2ed9c66e6cdd44d6",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/teach-for-taiwan.md",
@@ -79468,7 +79468,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tsai-tung-jung.md",
+          "translatedFrom": "People/蔡同榮.md",
+          "sourceCommitSha": "242950a64",
+          "sourceContentHash": "sha256:d7673a354fbbc5eb",
+          "sourceBodyHash": "sha256:d10467cfa27626e7",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/tsai-tung-jung.md",
@@ -117960,8 +117971,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d44bc61e",
+          "translationLastModified": "2026-09-16T09:05:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -152710,7 +152721,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -158829,7 +158851,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-15T19:45:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/taichung-metro.md",
@@ -163412,7 +163445,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/kapo.md",
@@ -167950,8 +167994,8 @@
           "sourceContentHash": "sha256:8258a0ced6980600",
           "sourceBodyHash": "sha256:3dda77b7510dd761",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d44bc61e",
+          "translationLastModified": "2026-09-16T09:05:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
