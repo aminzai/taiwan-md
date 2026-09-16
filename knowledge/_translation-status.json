@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T11:56:48+08:00",
-    "zhCommitHead": "c6125721f",
+    "lastUpdated": "2026-09-16T12:16:47+08:00",
+    "zhCommitHead": "805564013",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 989,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 38,
+        "missing": 37,
         "orphan": 0
       },
       "ja": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 803,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 270,
+        "missing": 271,
         "orphan": 0
       },
       "ar": {
@@ -22728,7 +22728,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
+          "sourceBodyHash": "sha256:62d9c6127e29bebe",
+          "translatedAt": "2026-09-16T11:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -118325,8 +118336,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80556401",
+          "translationLastModified": "2026-09-16T11:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -137869,8 +137880,8 @@
           "sourceContentHash": "sha256:63c92f0dce6f2dff",
           "sourceBodyHash": "sha256:cad7f5c77e571b29",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "80556401",
+          "translationLastModified": "2026-09-16T11:56:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -153260,18 +153271,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
