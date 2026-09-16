@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T08:20:28+08:00",
-    "zhCommitHead": "68916768f",
+    "lastUpdated": "2026-09-16T08:31:25+08:00",
+    "zhCommitHead": "94e8e37c0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,26 +28,26 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 773,
+        "fresh": 774,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 43,
+        "missing": 42,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 972,
+        "fresh": 973,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "id": {
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 956,
+        "fresh": 957,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 86,
+        "missing": 85,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 274,
+        "missing": 273,
         "orphan": 0
       },
       "ar": {
@@ -19891,7 +19891,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/junyi-education-platform.md",
+          "translatedFrom": "Technology/均一教育平台.md",
+          "sourceCommitSha": "70831d1ef",
+          "sourceContentHash": "sha256:7d150c85340f74af",
+          "sourceBodyHash": "sha256:415bd00f696e8783",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/junyi-education-platform.md",
@@ -24391,7 +24402,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-5g-digital-transformation.md",
+          "translatedFrom": "Technology/台灣5G網路建設與數位轉型.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:1e757976bc4f33e4",
+          "sourceBodyHash": "sha256:122e66655dc1f0bf",
+          "translatedAt": "2026-09-15T19:45:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-5g-digital-transformation.md",
@@ -73786,7 +73808,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Politics/happy-cannot-party.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -75963,7 +75996,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/joeman.md",
@@ -76183,7 +76227,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/ceylan.md",
@@ -96912,7 +96967,18 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/ding-richang.md",
+          "translatedFrom": "People/丁日昌.md",
+          "sourceCommitSha": "d48e11006",
+          "sourceContentHash": "sha256:feb8dc67f30db2e2",
+          "sourceBodyHash": "sha256:75dbc702aa896f78",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/ding-richang.md",
@@ -127150,8 +127216,8 @@
           "sourceContentHash": "sha256:887c3be39222e6b9",
           "sourceBodyHash": "sha256:140c52cfad734a21",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94e8e37c",
+          "translationLastModified": "2026-09-16T08:20:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -146459,8 +146525,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94e8e37c",
+          "translationLastModified": "2026-09-16T08:20:28+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -158508,8 +158574,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94e8e37c",
+          "translationLastModified": "2026-09-16T08:20:28+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
