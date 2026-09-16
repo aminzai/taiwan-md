@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-17 twmd-feedback-triage — decision-queue-forked-with-the-tree-it-lives-in：載決策去找觀察者的那個器官，自己也跟著分岔了，同一個編號在兩邊指向兩個不同的決定
+
+- **pattern**: `decision-queue-forked-with-the-tree-it-lives-in`
+- **原則**：一份「單一佇列」如果住在會分岔的樹裡，它就不再是單一的。兩邊各自從「下一個空號」往下編，同一個編號在兩側指向兩個完全不同的決定；而所有指向它的交接（memory / diary / handoff 寫「per OBSERVER-QUEUE #N」）從此在對方那側解析成別的東西。最尖銳的形狀是：**關於分岔本身的那個決策，被登記在只有分岔這一側看得到的那本佇列裡，編號還跟對方那本撞號**——觀察者讀的是部署那一側，翻到 #N 看到的是另一件事。這條線上既有的閘門（欄位對齊、🔒 判讀、到期掃描）全部在問「這一列寫對了嗎」，沒有一道在問「這本佇列跟觀察者手上那本是同一本嗎」。
+- **觸發**：2026-09-17 twmd-feedback-triage 想把 [issue #1733](https://github.com/frank890417/taiwan-md/issues/1733) 收割後長出的用語庫血緣複查決策（2,003 條走最寬斷言、1,635 條 B 預設、抽樣 12% 該複查，A/B/C 三選項推薦 C，目前只活在 origin 那側 9/16 maintainer memory 的 handoff）正式路由進 `OBSERVER-QUEUE.md` §待決時，先逐檔對 origin 比了一次：本機 §待決 編到 #57（#56=本機未推送 commit 與 origin 的真衝突、#57=SPORE-INBOX 高原），origin §待決 編到 #67（#56=十語 941 處數量級譯錯、#57=102 行整行沒翻），兩側都是 9/09 分岔後各自分配的。本機有 33 份 memory/diary 引用「#56」指分岔裁決，origin 有 2 份引用「#56」指數量級譯錯。要新增的 #58 在 origin 那側已經是「80 篇參考區標題還是中文」。本輪因此**沒有**把這條決策寫進本機佇列——寫進去只會讓撞號再深一層，而且觀察者看不到。
+- **跟既有教訓的關係**：LESSONS `divergence-warning-is-tree-level-not-per-file`（9/14）講的是「整棵樹落後」蓋住逐檔真相，本條是它在**認知層**的形狀：不是程式碼舊了，是決策的門牌號碼在兩邊各自長，且沒有任何儀器在對這兩本帳。9/13 diary「那個決定被七個人準確地交給下一個人，於是沒有人需要把它放到別的地方」修的是「沒進佇列」，本條是下一層：**進了佇列，但進的那本佇列到不了觀察者手上**。
+- **修補（未做，命中 §自主權邊界 — 併入 #56 裁決範圍）**：(a) 合併時 OBSERVER-QUEUE 不能靠 git 三方合併自動解——兩側 #56/#57 要重新編號，並回頭改 33＋2 份交接文的引用，或改用「進佇列日＋短 slug」當主鍵讓編號不再是唯一識別；(b) 儀器候選：`weekly-checkup.sh` e1 節在 ACTOR_BUSY／真分岔狀態下多印一行「本機 §待決 最大編號 vs origin/main §待決 最大編號」，兩數不同就是佇列已分家，不准再從本機「下一個空號」分配；(c) 分岔期間新決策的路由改走 origin 可見的通道（issue 留言／origin 那側的 memory handoff），本機佇列只做 pointer。
+- **可能層級**：折進 [REFLEXES #21](REFLEXES.md)（SSOT 不一定在中央——這裡是 SSOT 在分岔期間有兩個中央）或 [#38](REFLEXES.md)（混維度：同一個 #N 承載兩個決策）；也可能是 #68 多核心 git 協調的認知層變體。vc=1，先記。
+- **相關**：OBSERVER-QUEUE #56（本機側）、LESSONS `divergence-warning-is-tree-level-not-per-file`、`decision-support-table-missing-columns-hides-due-action-from-scan`、REFLEXES #21、#38、#68、#82
+- **verification_count**: 1
+- **severity**: structural（決策本身沒丟，丟的是它到觀察者面前的路；而且越多人準確引用「#56」，合併後要改的地方越多）
+
 ### 2026-09-16 twmd-feedback-triage — held-fact-never-crosses-into-the-layer-that-acts-on-it：資料一路都在手上，只是沒跨進要拿它動手的那一層
 
 - **pattern**: `held-fact-never-crosses-into-the-layer-that-acts-on-it`
