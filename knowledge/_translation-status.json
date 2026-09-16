@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:30:45+08:00",
-    "zhCommitHead": "af7004d6a",
+    "lastUpdated": "2026-09-17T01:39:47+08:00",
+    "zhCommitHead": "6f23316d7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       },
       "ko": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 915,
+        "fresh": 916,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 724,
+        "fresh": 725,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 390,
+        "missing": 389,
         "orphan": 0
       }
     },
@@ -39092,7 +39092,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/utility-poles-and-transformer-boxes.md",
+          "translatedFrom": "Lifestyle/電線桿與變電箱.md",
+          "sourceCommitSha": "dd1ef85cd",
+          "sourceContentHash": "sha256:3512b2f6ca0a3376",
+          "sourceBodyHash": "sha256:b926dcc386105146",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/utility-poles-and-transformer-boxes.md",
@@ -48417,7 +48428,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/sign-language-video-interpretation.md",
@@ -72436,7 +72458,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/formosan-sambar-deer.md",
+          "translatedFrom": "Nature/台灣水鹿.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d00de39e39633054",
+          "sourceBodyHash": "sha256:dc8842a4b46a7f80",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88920,8 +88953,8 @@
           "sourceContentHash": "sha256:73a411edb3bee540",
           "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "6f23316d",
+          "translationLastModified": "2026-09-17T01:30:45+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -173186,8 +173219,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
+          "translationLastCommit": "6f23316d",
+          "translationLastModified": "2026-09-17T01:30:45+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
