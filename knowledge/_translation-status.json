@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T15:12:47+08:00",
-    "zhCommitHead": "4dfee19af",
+    "lastUpdated": "2026-09-16T15:15:17+08:00",
+    "zhCommitHead": "7309f4bd4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "vi": {
@@ -43349,7 +43349,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/post-office.md",
+          "translatedFrom": "Lifestyle/郵局.md",
+          "sourceCommitSha": "c6da5233a",
+          "sourceContentHash": "sha256:3acf49c3933c9229",
+          "sourceBodyHash": "sha256:f91712c52f95f564",
+          "translatedAt": "2026-09-16T11:57:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/post-office.md",
@@ -74220,8 +74231,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-16T11:57:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7309f4bd",
+          "translationLastModified": "2026-09-16T15:12:47+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -78749,8 +78760,8 @@
           "sourceContentHash": "sha256:c94a65d34db3fe04",
           "sourceBodyHash": "sha256:8811d54bcacf4b19",
           "translatedAt": "2026-09-16T11:57:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7309f4bd",
+          "translationLastModified": "2026-09-16T15:12:47+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
