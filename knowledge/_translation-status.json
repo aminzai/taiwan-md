@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T10:04:00+08:00",
-    "zhCommitHead": "549be7858",
+    "lastUpdated": "2026-09-16T10:06:59+08:00",
+    "zhCommitHead": "fce96f0a9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 968,
+        "fresh": 969,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "vi": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "hi": {
@@ -9014,8 +9014,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fce96f0a",
+          "translationLastModified": "2026-09-16T10:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -47947,7 +47947,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/sign-language-video-interpretation.md",
+          "translatedFrom": "Society/手語視訊轉譯.md",
+          "sourceCommitSha": "87ba2a1a0",
+          "sourceContentHash": "sha256:eaf4970ef1feaeed",
+          "sourceBodyHash": "sha256:cd52e2328096923b",
+          "translatedAt": "2026-09-15T19:45:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/sign-language-video-interpretation.md",
@@ -97129,8 +97140,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fce96f0a",
+          "translationLastModified": "2026-09-16T10:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -98605,8 +98616,8 @@
           "sourceContentHash": "sha256:0db6c2a854c9d1f9",
           "sourceBodyHash": "sha256:619269e5a282feaa",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fce96f0a",
+          "translationLastModified": "2026-09-16T10:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -137418,7 +137429,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/malaria-eradication.md",
+          "translatedFrom": "History/瘧疾根除.md",
+          "sourceCommitSha": "cf2d4d973",
+          "sourceContentHash": "sha256:1a44b37b859d8b1a",
+          "sourceBodyHash": "sha256:04c29c7226490085",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -177556,8 +177578,8 @@
           "sourceContentHash": "sha256:1130fbcabd739dd6",
           "sourceBodyHash": "sha256:48f17c615e02c664",
           "translatedAt": "2026-09-15T19:45:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fce96f0a",
+          "translationLastModified": "2026-09-16T10:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
