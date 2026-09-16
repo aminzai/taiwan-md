@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T15:10:10+08:00",
-    "zhCommitHead": "507f26389",
+    "lastUpdated": "2026-09-16T15:12:47+08:00",
+    "zhCommitHead": "4dfee19af",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       },
       "ko": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 927,
+        "fresh": 924,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 143,
+        "missing": 146,
         "orphan": 0
       },
       "de": {
@@ -6885,18 +6885,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -78754,7 +78743,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/guaji.md",
+          "translatedFrom": "People/呱吉.md",
+          "sourceCommitSha": "b1ce053ac",
+          "sourceContentHash": "sha256:c94a65d34db3fe04",
+          "sourceBodyHash": "sha256:8811d54bcacf4b19",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/guaji.md",
@@ -101791,8 +101791,8 @@
           "sourceContentHash": "sha256:c1b202e80c7e4a1d",
           "sourceBodyHash": "sha256:74473841bc53291c",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4dfee19a",
+          "translationLastModified": "2026-09-16T15:10:14+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -118626,8 +118626,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4dfee19a",
+          "translationLastModified": "2026-09-16T15:10:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -138192,8 +138192,8 @@
           "sourceContentHash": "sha256:63c92f0dce6f2dff",
           "sourceBodyHash": "sha256:cad7f5c77e571b29",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4dfee19a",
+          "translationLastModified": "2026-09-16T15:10:14+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -148416,18 +148416,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -153649,18 +153638,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
