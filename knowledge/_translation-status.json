@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T16:46:53+08:00",
-    "zhCommitHead": "4677886f2",
+    "lastUpdated": "2026-09-16T16:49:14+08:00",
+    "zhCommitHead": "7d608b8c1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 989,
+        "fresh": 990,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 35,
+        "missing": 34,
         "orphan": 0
       },
       "fr": {
@@ -74316,8 +74316,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-16T11:57:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7d608b8c",
+          "translationLastModified": "2026-09-16T16:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -95122,8 +95122,8 @@
           "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
           "sourceBodyHash": "sha256:4da6179cc5f355db",
           "translatedAt": "2026-09-16T11:57:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7d608b8c",
+          "translationLastModified": "2026-09-16T16:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -155933,7 +155933,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -172260,8 +172271,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-16T11:57:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7d608b8c",
+          "translationLastModified": "2026-09-16T16:46:54+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
