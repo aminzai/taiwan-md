@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:52:35+08:00",
-    "zhCommitHead": "5b79d8ddb",
+    "lastUpdated": "2026-09-17T02:29:20+08:00",
+    "zhCommitHead": "46ccc42ca",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,18 +28,18 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 197,
+        "missing": 196,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1010,
+        "fresh": 1011,
         "stale": 69,
         "metadata_stale": 13,
-        "missing": 29,
+        "missing": 28,
         "orphan": 0
       },
       "es": {
@@ -52,34 +52,34 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 981,
+        "fresh": 982,
         "stale": 80,
         "metadata_stale": 19,
-        "missing": 41,
+        "missing": 40,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 916,
+        "fresh": 917,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 48,
+        "missing": 47,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "hi": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 888,
+        "fresh": 889,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 176,
+        "missing": 175,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 939,
+        "fresh": 940,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 131,
+        "missing": 130,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 726,
+        "fresh": 727,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 388,
+        "missing": 387,
         "orphan": 0
       }
     },
@@ -10094,7 +10094,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-enterprise-fubon-financial.md",
+          "translatedFrom": "Economy/台灣企業：富邦金控.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:17799d817d240ba2",
+          "sourceBodyHash": "sha256:1b85009498a2a6bb",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -14858,7 +14869,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-beer.md",
@@ -57725,7 +57747,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/air-conditioning-energy-poverty.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/air-conditioning-energy-poverty.md",
@@ -64175,7 +64208,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/dpp-founding.md",
+          "translatedFrom": "Society/民主進步黨成立.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -67774,7 +67818,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/taiwan-white-dolphin.md",
+          "translatedFrom": "Nature/台灣白海豚.md",
+          "sourceCommitSha": "372f0027e",
+          "sourceContentHash": "sha256:0d5b2e9ee7dd2f9a",
+          "sourceBodyHash": "sha256:53b72f6cf77894ed",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-white-dolphin.md",
@@ -87303,8 +87358,8 @@
           "sourceContentHash": "sha256:b1932f2a73ba90a1",
           "sourceBodyHash": "sha256:256049c552528280",
           "translatedAt": "2026-09-16T11:57:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "46ccc42c",
+          "translationLastModified": "2026-09-17T01:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -90136,7 +90191,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/lin-chia-chen.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-16T11:57:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/lin-chia-chen.md",
@@ -113348,8 +113414,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-16T11:57:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "46ccc42c",
+          "translationLastModified": "2026-09-17T01:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -142273,7 +142339,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/resolution-on-taiwans-future.md",
+          "translatedFrom": "History/臺灣前途決議文.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:d8a522bc82b5f1d6",
+          "sourceBodyHash": "sha256:c8ff273540a02078",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/resolution-on-taiwans-future.md",
@@ -143992,7 +144069,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/823.md",
@@ -165585,7 +165673,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwan-letterpress-printing.md",
+          "translatedFrom": "Culture/台灣活版印刷.md",
+          "sourceCommitSha": "65852a65b",
+          "sourceContentHash": "sha256:5e435a8b85b32036",
+          "sourceBodyHash": "sha256:8d460cbf9b7f271d",
+          "translatedAt": "2026-09-16T11:57:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-letterpress-printing.md",
