@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T11:03:48+08:00",
-    "zhCommitHead": "7f480ac90",
+    "lastUpdated": "2026-09-16T11:11:03+08:00",
+    "zhCommitHead": "7bd407851",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 988,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 39,
+        "missing": 38,
         "orphan": 0
       },
       "ja": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 963,
+        "fresh": 964,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 79,
+        "missing": 78,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 704,
+        "fresh": 702,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 410,
+        "missing": 412,
         "orphan": 0
       }
     },
@@ -8360,18 +8360,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -14764,7 +14753,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-15T19:45:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-beer.md",
@@ -76474,7 +76474,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/ceylan.md",
+          "translatedFrom": "People/Ceylan.md",
+          "sourceCommitSha": "6cb632bab",
+          "sourceContentHash": "sha256:ff0d633ddf229011",
+          "sourceBodyHash": "sha256:750dbd2ead7f4c90",
+          "translatedAt": "2026-09-15T19:45:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -127096,8 +127107,8 @@
           "sourceContentHash": "sha256:bf3c7b57d2ee1eb5",
           "sourceBodyHash": "sha256:9eb2ce39000f61fe",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7bd40785",
+          "translationLastModified": "2026-09-16T11:03:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -152913,8 +152924,8 @@
           "sourceContentHash": "sha256:349360e6f67e2293",
           "sourceBodyHash": "sha256:a900fc355006c673",
           "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7bd40785",
+          "translationLastModified": "2026-09-16T11:03:52+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -153192,18 +153203,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T19:45:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
