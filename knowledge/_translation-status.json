@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T14:13:14+08:00",
-    "zhCommitHead": "32b66ac6c",
+    "lastUpdated": "2026-09-16T14:30:39+08:00",
+    "zhCommitHead": "635c782be",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 999,
+        "fresh": 1000,
         "stale": 74,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 31,
         "orphan": 0
       },
@@ -60,34 +60,34 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 63,
+        "missing": 62,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 788,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 277,
+        "missing": 276,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 969,
+        "fresh": 971,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 73,
+        "missing": 71,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 271,
+        "missing": 270,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 707,
+        "fresh": 708,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 407,
+        "missing": 406,
         "orphan": 0
       }
     },
@@ -20767,7 +20767,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-open-source-spirit.md",
+          "translatedFrom": "Technology/台灣開源精神.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cc121a9cccbf90a",
+          "sourceBodyHash": "sha256:98feb4bab36f053f",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36652,7 +36663,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-art-education-and-academic-development.md",
@@ -42827,8 +42849,8 @@
           "sourceContentHash": "sha256:c1027a26b2054b2e",
           "sourceBodyHash": "sha256:48c6ab2b08ee901b",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "635c782b",
+          "translationLastModified": "2026-09-16T14:13:14+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -46342,8 +46364,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "635c782b",
+          "translationLastModified": "2026-09-16T14:13:14+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -104863,18 +104885,16 @@
         "ko": {
           "path": "ko/People/chen-shui-bian-controversial-president.md",
           "translatedFrom": "People/陳水扁.md",
-          "sourceCommitSha": "eae11d139",
-          "sourceContentHash": "sha256:9e6735e344733c2b",
+          "sourceCommitSha": "1389f8ce7",
+          "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
-          "translatedAt": "2026-07-25T21:33:42+08:00",
+          "translatedAt": "2026-09-16T11:57:26+08:00",
           "translationLastCommit": "1ef86adf",
           "translationLastModified": "2026-07-26T03:40:54+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/chen-shui-bian-controversial-president.md",
@@ -116172,7 +116192,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/heimao-laoshi.md",
@@ -129336,7 +129367,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/gua-bao.md",
+          "translatedFrom": "Food/刈包.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6fe952ad9ad0a5fa",
+          "sourceBodyHash": "sha256:6b2255cbc29cf54c",
+          "translatedAt": "2026-09-16T11:57:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/gua-bao.md",
@@ -148104,8 +148146,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "635c782b",
+          "translationLastModified": "2026-09-16T14:13:14+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -148266,7 +148308,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -167404,8 +167457,8 @@
           "sourceContentHash": "sha256:38bd6da6b374726e",
           "sourceBodyHash": "sha256:0397f50429259390",
           "translatedAt": "2026-09-16T11:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "635c782b",
+          "translationLastModified": "2026-09-16T14:13:14+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -177575,7 +177628,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
