@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T23:18:51+08:00",
-    "zhCommitHead": "664ce5f89",
+    "lastUpdated": "2026-09-16T23:24:44+08:00",
+    "zhCommitHead": "8fe586606",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 262,
+        "missing": 261,
         "orphan": 0
       },
       "pt": {
@@ -32204,8 +32204,8 @@
           "sourceContentHash": "sha256:9f877cc81b557524",
           "sourceBodyHash": "sha256:e3230be59701ee45",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8fe58660",
+          "translationLastModified": "2026-09-16T23:18:52+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -81437,7 +81437,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/au-sow-yee.md",
+          "translatedFrom": "People/區秀詒.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:0756e6688779bf0a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-16T15:13:14.826756+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/au-sow-yee.md",
@@ -163959,8 +163970,8 @@
           "sourceContentHash": "sha256:373c365c77c6b0b9",
           "sourceBodyHash": "sha256:dc5113e65f4b7030",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8fe58660",
+          "translationLastModified": "2026-09-16T23:18:52+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -168142,8 +168153,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8fe58660",
+          "translationLastModified": "2026-09-16T23:18:52+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
