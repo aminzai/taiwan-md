@@ -2,9 +2,7 @@
 title: "NVIDIA in Taiwan: The World's Most Valuable Company Does Not Make a Single Chip Itself"
 description: "At Computex in May 2025, Jensen Huang walked onstage in a leather jacket as the backdrop lit up with the logos of 55 Taiwanese companies: an American company publicly named an entire island's industries as its own physical body. From the 1996 letter to Morris Chang, to a market value breaking US$5 trillion, to the Taipei City Government spending NT$4.434 billion to clear a parcel of land for it, NVIDIA has lodged its entire body in Taiwan. Taiwan therefore holds the switch the world cannot turn off. Yet its gross margin is only 5%, its water and electricity are drained, and war risk is placed on the island: being indispensable to NVIDIA does not mean Taiwan calls the shots."
 date: 2026-06-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
     'NVIDIA',
@@ -18,15 +16,19 @@ tags:
     'Artificial Intelligence',
     'Computex',
   ]
+subcategory: '半導體與硬體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '67e5b3684'
-sourceContentHash: 'sha256:b56a9c2f52721e09'
-sourceBodyHash: 'sha256:4f355b3d3c9b0f43'
-translatedAt: '2026-06-23T00:40:05+08:00'
+researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
+relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+translatedFrom: 'Technology/NVIDIA在台灣.md'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:b9e05b9a2ffc12db'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
+translatedAt: '2026-09-16T11:40:00.516433+00:00'
 ---
 
 # NVIDIA in Taiwan: The World's Most Valuable Company Does Not Make a Single Chip Itself
@@ -252,34 +254,35 @@ But what is more intriguing is something else. CNA noted at the time that Chines
 
 > 📝 **Curator's note:** This muting reveals where power really sits. China needs NVIDIA's chips, so even after Jensen Huang said the thing Beijing finds most unacceptable, Chinese media chose not to report it or amplify it, fearing damage to the relationship with this "AI godfather." A widely circulated line says: China needs NVIDIA, but NVIDIA does not need China[^65]. In this relationship, even the vast market across the Taiwan Strait has, to some degree, had its neck caught by an American company's supply chain. This is the island of Taiwan's strange position: the entire world, including the side that most wants to change its status, cannot do without the chips made here. But "the whole world cannot leave you" and "you are therefore safe and get to decide" remain two different things. This article does not draw a political conclusion for Taiwan, but the tension itself is worth every reader weighing for themselves.
 
-## Being Indispensable Does Not Mean Calling the Shots
+## Indispensable, Not Necessarily Decisive
 
-Return to that wall of 55 company logos.
+Returning to the wall of logos featuring 55 companies.
 
-Every name on the wall is real. They are the physical body of the AI revolution on earth. Without them, the US$5 trillion NVIDIA could not ship a single chip. This irreplaceability is an engineering fact, not rhetoric. Taiwan has every reason to be proud of it.
+Every name on that wall is real. They are the flesh and blood of the global AI revolution; without them, NVIDIA could not deliver even a single chip worth five billion dollars. This irreplaceable nature is an engineering fact, not rhetoric. Taiwan ought to be proud of this.
 
-But after looking across the whole chain, the halo, valuation, and decision-making power fall into the hands of the person projecting the wall; the 5% gross margins, drained water and electricity, unaffordable housing prices, and war risk placed on the island fall on the names on the wall. Taiwan holds the switch the world cannot turn off, but that does not mean it gets to call the shots. And this leverage also has a shelf life written somewhere near 2028.
+However, looking at the journey so far, the halo, the valuation, and the decision-making power rest with those who built this wall; while the 5% gross margin, the drawn-down utilities, the housing prices pushed beyond reach, and the geopolitical risk tied to the island fall upon the names on the wall. Taiwan holds a global switch that cannot be turned off, yet it has not been able to dictate terms because of it. Furthermore, this bargaining chip has an expiration date around 2028.
 
-Taiwan is not standing still. In 2025, Lai Ching-te proposed making Taiwan one of the "world's top five computing centers" and developing "sovereign AI"[^66]; Foxconn is building a national supercomputer in Kaohsiung using 10,000 Blackwell chips[^67]; the Executive Yuan's "AI New Ten Major Construction Projects" plans to invest more than NT$100 billion, with a target of NT$15 trillion in output value[^68]. This is an attempt to grow "compute for ourselves" out of "manufacturing for others": to climb one step upward from the bottom of the smile curve.
+Taiwan is not static. Lai Ching-te proposed in 2025 to make Taiwan one of the "top five global computing centers" and develop "sovereign AI" [^66]; Foxconn is building a national supercomputer in Kaohsiung using ten thousand Blackwell chips [^67]; and the Executive Yuan's "AI New Ten Great Projects" aims to invest over NT$100 billion, targeting an output value of 15 trillion [^68]. This is an ambition to grow "own computing" from "contract manufacturing" for others: climbing one step up the smile curve.
 
-But the road is still long. Taiwan's own language model, TAIDE, has been described as being like a "high school student," while international giants are already at the "graduate student" level[^69]. The South Korean government purchased 260,000 GPUs in one move, while Taiwan is still going back and forth over one parcel of land and one termination payment[^70]. From catching one phone call from Morris Chang to catching the world's computing power, Taiwan has spent nearly thirty years getting onto the wall. But being on the wall and taking back the pen are two different things.
+Yet, this path is still long. Taiwan's own language model, TAIDE, has been described as being at a "high school student" level, while international giants are already at the "graduate student" level [^69]. The South Korean government purchased 260,000 GPUs in one go, while Taiwan is still haggling over land and severance pay [^70]. From receiving a call from Morris Chang to handling the computing power of the entire world, Taiwan spent nearly thirty years to reach this wall. But standing on the wall and taking the pen are two different things.
 
-That wall will keep glowing. At the next Computex, Jensen Huang's backdrop will show even more logos. In 2026, he disclosed that NVIDIA's annual spending in Taiwan had reached about US$150 billion, compared with only US$10 billion to US$15 billion five years earlier[^71]. The question "Is Taiwan important?" was answered long ago. Taiwan has to answer the harder one: when the whole world cannot do without what you make, how do you slowly turn "cannot do without" into "gets to decide"?
+That wall will continue to shine. At the next Computex, Jensen Huang's backboard will feature more logos. In 2026, he revealed that NVIDIA's annual expenditure in Taiwan was about $150 billion, up from only $10–$15 billion five years ago [^71]. The question of "how important is Taiwan?" has long had an answer. What Taiwan must answer is the harder one: when the whole world cannot do without what you produce, how do you make "indispensable" slowly turn into "decisive"?
 
-The names on the wall are multiplying. Whether the hand holding the pen can become Taiwan's own is a question Taiwan has only just begun to reach for.
+The names on the wall are growing more numerous. Will the person holding the pen eventually be Taiwan itself—this pen, Taiwan has only just begun to grasp.
 
 ---
 
 **Further Reading**:
 
-- [Jensen Huang: From a Boy Who Cleaned Toilets to the Leather-Jacketed Leader of a US$5 Trillion Empire](/en/people/jensen-huang) — The personal life story of NVIDIA's founder. This article only touches on it lightly; his Tainan roots and upbringing are here.
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Why Taiwan became the center of global chip manufacturing; the supply chain discussed in this article has fuller context here.
-- [Taiwanese Enterprise: TSMC](/en/economy/tsmc) — The "sacred mountain protecting the nation" that manufactures every NVIDIA chip, and the other side of what it drains.
-- [Morris Chang: The Recipient of That Letter and the Foundry Empire He Built](/en/people/tsmc-morris-chang) — The person who received Jensen Huang's letter in 1996, and the founder of TSMC.
-- [Computex: How Taipei's Computer Show Became the Opening Ceremony of Global AI](/en/technology/computex) — The stage where that logo wall lit up, and the annual home court of Taiwan's technology industry.
-- [AI Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry) — From manufacturing NVIDIA chips to building an AI ecosystem, Taiwan's position in the AI wave.
-- [Taiwan's Artificial Intelligence Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy) — Sovereign AI, TAIDE, and Taiwan's national ambition to climb upward from contract manufacturing.
-- [Taiwanese Enterprise: Foxconn Precision](/en/economy/foxconn-precision-industry) — The contract-manufacturing giant assembling 40% of the world's AI racks, and the largest pair of hands at the bottom of the smile curve.
+- [Jensen Huang: From Young Man Cleaning Toilets to CEO of a Trillion-Dollar Empire](/en/people/jensen-huang) — The personal life story of NVIDIA's founder; this article touches lightly on his Tainan roots and growth story.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Why Taiwan became the global center for chip manufacturing; this article discusses the supply chain in more detail.
+- [Taiwanese Company: TSMC](/en/economy/tsmc) — The "national treasure" that manufactures every chip for NVIDIA, and the other side of it being drained.
+- [Morris Chang: The Recipient of That Letter and the Foundry Empire He Built](/en/people/tsmc-morris-chang) — The founder of TSMC who received a letter from Jensen Huang in 1996.
+- [Computex: Taipei's Computer Show Becomes Global AI Opening Ceremony](/en/technology/computex) — The stage where the wall of logos shines, Taiwan technology industry's annual main event.
+- [Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry) — From manufacturing NVIDIA chips to building an AI ecosystem, Taiwan's position in the AI wave.
+- [Taiwan's AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy) — Sovereign AI, TAIDE, and Taiwan's national ambition to climb up from contract manufacturing.
+- [Taiwan Tech Stories: 100-Point Chips, 60-Point Microphones](/en/technology/taiwan-tech-stories) — Two ways of telling the story of the same chip: the premium earned by NVIDIA, and what Taiwan's technology needs to learn.
+- [Taiwanese Company: Foxconn Precision Industry](/en/economy/foxconn-precision-industry) — The manufacturing giant assembling 40% of global AI racks, the biggest hands at the bottom of the smile curve.
 
 ## Image Sources
 
