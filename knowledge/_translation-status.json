@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T11:11:03+08:00",
-    "zhCommitHead": "7bd407851",
+    "lastUpdated": "2026-09-16T11:16:48+08:00",
+    "zhCommitHead": "d21ba6f17",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 964,
+        "fresh": 963,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 78,
+        "missing": 79,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 872,
+        "fresh": 873,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 192,
+        "missing": 191,
         "orphan": 0
       },
       "ru": {
@@ -6346,8 +6346,8 @@
           "sourceContentHash": "sha256:a28b59d150358ce1",
           "sourceBodyHash": "sha256:45330c3b732890b9",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d21ba6f1",
+          "translationLastModified": "2026-09-16T11:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -14759,8 +14759,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d21ba6f1",
+          "translationLastModified": "2026-09-16T11:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -79694,8 +79694,8 @@
           "sourceContentHash": "sha256:d7673a354fbbc5eb",
           "sourceBodyHash": "sha256:d10467cfa27626e7",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d21ba6f1",
+          "translationLastModified": "2026-09-16T11:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -113937,8 +113937,8 @@
           "sourceContentHash": "sha256:67c5ad771d308cd6",
           "sourceBodyHash": "sha256:6ab4993ddc7e3736",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d21ba6f1",
+          "translationLastModified": "2026-09-16T11:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -113959,7 +113959,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lu-jie.md",
+          "translatedFrom": "People/呂捷.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:67c5ad771d308cd6",
+          "sourceBodyHash": "sha256:6ab4993ddc7e3736",
+          "translatedAt": "2026-09-15T19:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lu-jie.md",
@@ -137600,8 +137611,8 @@
           "sourceContentHash": "sha256:1a44b37b859d8b1a",
           "sourceBodyHash": "sha256:04c29c7226490085",
           "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d21ba6f1",
+          "translationLastModified": "2026-09-16T11:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -153169,18 +153180,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-15T19:45:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/Geography/alishan-forest-railway.md",
