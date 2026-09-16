@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T15:57:26+08:00",
-    "zhCommitHead": "e30a5f639",
+    "lastUpdated": "2026-09-16T16:01:41+08:00",
+    "zhCommitHead": "ee22505cf",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 267,
+        "missing": 266,
         "orphan": 0
       },
       "ar": {
@@ -5176,8 +5176,8 @@
           "sourceContentHash": "sha256:eb6f1df3d28721d6",
           "sourceBodyHash": "sha256:a7bd89eaeb441ced",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee22505c",
+          "translationLastModified": "2026-09-16T15:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -15393,7 +15393,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-stock-market.md",
+          "translatedFrom": "Economy/台灣股市與資本市場.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:323486e516e428ed",
+          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
+          "translatedAt": "2026-09-16T11:57:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-stock-market.md",
@@ -20773,8 +20784,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee22505c",
+          "translationLastModified": "2026-09-16T15:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -33067,8 +33078,8 @@
           "sourceContentHash": "sha256:c3ce92b18e6d1aeb",
           "sourceBodyHash": "sha256:621573191262d79d",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee22505c",
+          "translationLastModified": "2026-09-16T15:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -68959,8 +68970,8 @@
           "sourceContentHash": "sha256:cdaa1e14237e0765",
           "sourceBodyHash": "sha256:a5f55aca8739dd3e",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ee22505c",
+          "translationLastModified": "2026-09-16T15:57:26+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -95043,7 +95054,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-chih-han.md",
+          "translatedFrom": "People/館長陳之漢.md",
+          "sourceCommitSha": "319acd7f7",
+          "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
+          "sourceBodyHash": "sha256:4da6179cc5f355db",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
