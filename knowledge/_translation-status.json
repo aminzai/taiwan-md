@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T14:44:49+08:00",
-    "zhCommitHead": "c2ca0d081",
+    "lastUpdated": "2026-09-16T15:07:57+08:00",
+    "zhCommitHead": "618de7023",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 988,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "fr": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 971,
+        "fresh": 972,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 873,
+        "fresh": 874,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 191,
+        "missing": 190,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 405,
+        "missing": 404,
         "orphan": 0
       }
     },
@@ -44318,8 +44318,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "6631c004",
-          "translationLastModified": "2026-08-04T15:27:38+08:00",
+          "translationLastCommit": "618de702",
+          "translationLastModified": "2026-09-16T14:44:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -68920,7 +68920,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/formosan-rock-macaque.md",
+          "translatedFrom": "Nature/台灣獼猴.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cdaa1e14237e0765",
+          "sourceBodyHash": "sha256:a5f55aca8739dd3e",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -91134,8 +91145,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "618de702",
+          "translationLastModified": "2026-09-16T14:44:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -98954,7 +98965,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/duomi-duoluo.md",
+          "translatedFrom": "People/多米多羅.md",
+          "sourceCommitSha": "4e7919913",
+          "sourceContentHash": "sha256:bfcd5767d7b581f0",
+          "sourceBodyHash": "sha256:7d79b5e0261f5aba",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/duomi-duoluo.md",
@@ -101665,7 +101687,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/ruby-lin.md",
+          "translatedFrom": "People/林心如.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1b202e80c7e4a1d",
+          "sourceBodyHash": "sha256:74473841bc53291c",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/ruby-lin.md",
@@ -104922,8 +104955,8 @@
           "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "1ef86adf",
-          "translationLastModified": "2026-07-26T03:40:54+08:00",
+          "translationLastCommit": "618de702",
+          "translationLastModified": "2026-09-16T14:44:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -145665,7 +145698,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-radio-broadcasting-history.md",
@@ -172879,8 +172923,8 @@
           "sourceContentHash": "sha256:7f4fc66b36800cb9",
           "sourceBodyHash": "sha256:3e6fa91c9ef25405",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "618de702",
+          "translationLastModified": "2026-09-16T14:44:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
