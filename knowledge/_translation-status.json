@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T17:10:19+08:00",
-    "zhCommitHead": "7b3af64e9",
+    "lastUpdated": "2026-09-16T17:36:45+08:00",
+    "zhCommitHead": "5119d55d9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 789,
+        "fresh": 790,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 207,
+        "missing": 206,
         "orphan": 0
       },
       "ko": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 990,
+        "fresh": 991,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 34,
+        "missing": 33,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "id": {
@@ -76,42 +76,42 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 974,
+        "fresh": 975,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 263,
+        "missing": 262,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 879,
+        "fresh": 881,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 185,
+        "missing": 183,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 931,
+        "fresh": 932,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 139,
+        "missing": 138,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 717,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 400,
+        "missing": 397,
         "orphan": 0
       }
     },
@@ -984,7 +984,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/labor-exchange-band.md",
+          "translatedFrom": "Music/交工樂隊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c3347c2a085cddc9",
+          "sourceBodyHash": "sha256:8f0c4cf2e72a96b9",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8359,7 +8370,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -22302,7 +22324,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/instagram-in-taiwan.md",
+          "translatedFrom": "Technology/IG.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7ab7951cc810aea",
+          "sourceBodyHash": "sha256:584e7ee9d0c2d903",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23930,7 +23963,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-ai-in-daily-life.md",
+          "translatedFrom": "Technology/台灣AI日常.md",
+          "sourceCommitSha": "8d7c23da7",
+          "sourceContentHash": "sha256:53da925e7fa0c8af",
+          "sourceBodyHash": "sha256:4be23294d5e61459",
+          "translatedAt": "2026-09-16T11:57:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-ai-in-daily-life.md",
@@ -25203,7 +25247,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-bicycle-industry.md",
@@ -33217,8 +33272,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5119d55d",
+          "translationLastModified": "2026-09-16T17:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -39284,8 +39339,8 @@
           "sourceContentHash": "sha256:8099a54c43948775",
           "sourceBodyHash": "sha256:3422a46a0cbc8816",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5119d55d",
+          "translationLastModified": "2026-09-16T17:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -75996,7 +76051,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yang-shen-keng-educator.md",
+          "translatedFrom": "People/楊深坑.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:86136985cda69b56",
+          "sourceBodyHash": "sha256:481eaba369f94755",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -95165,7 +95231,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/chen-chih-han.md",
+          "translatedFrom": "People/館長陳之漢.md",
+          "sourceCommitSha": "319acd7f7",
+          "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
+          "sourceBodyHash": "sha256:4da6179cc5f355db",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -105641,8 +105718,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5119d55d",
+          "translationLastModified": "2026-09-16T17:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -141079,7 +141156,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/taiwan-sugar-railway.md",
@@ -145790,8 +145878,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5119d55d",
+          "translationLastModified": "2026-09-16T17:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -164692,7 +164780,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -164740,7 +164839,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -172793,8 +172903,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5119d55d",
+          "translationLastModified": "2026-09-16T17:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -181556,7 +181666,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-colloquialisms.md",
+          "translatedFrom": "Culture/台灣口語特色.md",
+          "sourceCommitSha": "1791349e1",
+          "sourceContentHash": "sha256:15d6246d744f90bf",
+          "sourceBodyHash": "sha256:227017306bf0c999",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-colloquialisms.md",
