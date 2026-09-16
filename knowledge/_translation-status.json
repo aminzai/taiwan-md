@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T08:59:49+08:00",
-    "zhCommitHead": "a64562ea5",
+    "lastUpdated": "2026-09-16T09:05:18+08:00",
+    "zhCommitHead": "0e2fa4e14",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 989,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 41,
+        "missing": 40,
         "orphan": 0
       },
       "es": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 700,
+        "fresh": 701,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 414,
+        "missing": 413,
         "orphan": 0
       }
     },
@@ -22415,8 +22415,8 @@
           "sourceContentHash": "sha256:5a5479f4d6a79c93",
           "sourceBodyHash": "sha256:09e6bc194dc58574",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e2fa4e1",
+          "translationLastModified": "2026-09-16T08:59:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -73847,8 +73847,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e2fa4e1",
+          "translationLastModified": "2026-09-16T08:59:50+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -97052,7 +97052,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/ding-richang.md",
+          "translatedFrom": "People/丁日昌.md",
+          "sourceCommitSha": "d48e11006",
+          "sourceContentHash": "sha256:feb8dc67f30db2e2",
+          "sourceBodyHash": "sha256:75dbc702aa896f78",
+          "translatedAt": "2026-09-15T19:45:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/ding-richang.md",
@@ -101428,8 +101439,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-15T19:45:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0e2fa4e1",
+          "translationLastModified": "2026-09-16T08:59:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -117943,7 +117954,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/sheng-kai-shi.md",
+          "translatedFrom": "People/聖凱師.md",
+          "sourceCommitSha": "2e227925f",
+          "sourceContentHash": "sha256:f3c744060676c5c3",
+          "sourceBodyHash": "sha256:c6156a33a327be28",
+          "translatedAt": "2026-09-15T19:45:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
