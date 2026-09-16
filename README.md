@@ -97,18 +97,18 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1119  |
 | 🇹🇼 Chinese (zh-TW)             | 1119  |
-| 🇺🇸 English (en)                | 1077  |
-| 🇯🇵 日本語 (ja)                 | 894   |
-| 🇰🇷 한국어 (ko)                 | 1075  |
-| 🇪🇸 Español (es)                | 1064  |
-| 🇫🇷 Français (fr)               | 1061  |
-| 🇻🇳 Tiếng Việt (vi)             | 1048  |
-| 🇮🇩 Bahasa Indonesia (id)       | 832   |
-| 🇵🇹 Português (pt)              | 1032  |
-| 🇮🇳 हिन्दी (hi)                 | 844   |
-| 🇸🇦 العربية (ar)                | 922   |
-| 🇷🇺 Русский (ru)                | 962   |
-| 🌐 Deutsch (de)                | 704   |
+| 🇺🇸 English (en)                | 1095  |
+| 🇯🇵 日本語 (ja)                 | 931   |
+| 🇰🇷 한국어 (ko)                 | 1094  |
+| 🇪🇸 Español (es)                | 1090  |
+| 🇫🇷 Français (fr)               | 1084  |
+| 🇻🇳 Tiếng Việt (vi)             | 1078  |
+| 🇮🇩 Bahasa Indonesia (id)       | 867   |
+| 🇵🇹 Português (pt)              | 1056  |
+| 🇮🇳 हिन्दी (hi)                 | 862   |
+| 🇸🇦 العربية (ar)                | 951   |
+| 🇷🇺 Русский (ru)                | 993   |
+| 🌐 Deutsch (de)                | 739   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |

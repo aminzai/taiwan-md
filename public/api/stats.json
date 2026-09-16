@@ -1,48 +1,48 @@
 {
-  "totalArticles": 12636,
+  "totalArticles": 12961,
   "totalCategories": 27,
-  "estimatedContributors": 75,
-  "totalTags": 8494,
+  "estimatedContributors": 865,
+  "totalTags": 8673,
   "categories": [
     {
       "name": "es",
-      "count": 1064
+      "count": 1090
     },
     {
       "name": "ko",
-      "count": 1075
+      "count": 1094
     },
     {
       "name": "fr",
-      "count": 1061
+      "count": 1084
     },
     {
       "name": "en",
-      "count": 1077
+      "count": 1095
     },
     {
       "name": "ja",
-      "count": 894
+      "count": 931
     },
     {
       "name": "vi",
-      "count": 1048
+      "count": 1078
     },
     {
       "name": "hi",
-      "count": 844
+      "count": 862
     },
     {
       "name": "id",
-      "count": 832
+      "count": 867
     },
     {
       "name": "ar",
-      "count": 922
+      "count": 951
     },
     {
       "name": "ru",
-      "count": 962
+      "count": 993
     },
     {
       "name": "Technology",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 1032
+      "count": 1056
     },
     {
       "name": "Food",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 704
+      "count": 739
     },
     {
       "name": "Lifestyle",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 58
+      "count": 59
     },
     {
       "name": "企業",
@@ -128,19 +128,19 @@
     },
     {
       "name": "YouTuber",
-      "count": 44
+      "count": 47
     },
     {
       "name": "科技與企業",
       "count": 36
     },
     {
-      "name": "ODM",
+      "name": "民主化",
       "count": 30
     },
     {
-      "name": "民主化",
-      "count": 29
+      "name": "ODM",
+      "count": 30
     },
     {
       "name": "原住民族",
@@ -175,15 +175,15 @@
       "count": 24
     },
     {
+      "name": "飲食文化",
+      "count": 24
+    },
+    {
       "name": "半導體",
       "count": 24
     },
     {
       "name": "政治",
-      "count": 23
-    },
-    {
-      "name": "飲食文化",
       "count": 23
     },
     {
@@ -196,28 +196,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 12636,
+    "zh-TW": 12961,
     "en": 0
   },
-  "lastUpdated": "2026-09-15T22:14:28.193Z",
-  "stars": 1173,
-  "forks": 185,
-  "zhPages": 1119,
-  "languagePages": {
-    "zh-TW": 1119,
-    "en": 1077,
-    "ja": 894,
-    "ko": 1075,
-    "es": 1064,
-    "fr": 1061,
-    "vi": 1048,
-    "id": 832,
-    "pt": 1032,
-    "hi": 844,
-    "ar": 922,
-    "ru": 962,
-    "de": 704
-  },
-  "enPages": 1077,
-  "totalPages": 1119
+  "lastUpdated": "2026-09-16T22:15:24.656Z"
 }
