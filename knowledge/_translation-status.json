@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T15:07:57+08:00",
-    "zhCommitHead": "618de7023",
+    "lastUpdated": "2026-09-16T15:10:10+08:00",
+    "zhCommitHead": "507f26389",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 270,
+        "missing": 269,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 926,
+        "fresh": 927,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       },
       "de": {
@@ -8986,7 +8986,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/economic-miracle.md",
+          "translatedFrom": "Economy/經濟奇蹟.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:97768e7e71587490",
+          "sourceBodyHash": "sha256:411e4d6f8779c88a",
+          "translatedAt": "2026-09-16T11:57:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -55392,8 +55403,8 @@
           "sourceContentHash": "sha256:2864f529a23701fe",
           "sourceBodyHash": "sha256:c8066f344d7a7cc6",
           "translatedAt": "2026-09-15T19:45:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "507f2638",
+          "translationLastModified": "2026-09-16T15:07:58+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -98971,8 +98982,8 @@
           "sourceContentHash": "sha256:bfcd5767d7b581f0",
           "sourceBodyHash": "sha256:7d79b5e0261f5aba",
           "translatedAt": "2026-09-16T11:57:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "507f2638",
+          "translationLastModified": "2026-09-16T15:07:58+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -118609,7 +118620,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/sheng-kai-shi.md",
+          "translatedFrom": "People/聖凱師.md",
+          "sourceCommitSha": "2e227925f",
+          "sourceContentHash": "sha256:f3c744060676c5c3",
+          "sourceBodyHash": "sha256:c6156a33a327be28",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/sheng-kai-shi.md",
