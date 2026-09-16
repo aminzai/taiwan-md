@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T19:45:40+08:00",
-    "zhCommitHead": "2af8327d7",
+    "lastUpdated": "2026-09-16T19:46:16+08:00",
+    "zhCommitHead": "3937b99f2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 994,
-        "stale": 79,
+        "fresh": 995,
+        "stale": 78,
         "metadata_stale": 15,
         "missing": 33,
         "orphan": 0
@@ -3861,8 +3861,8 @@
           "sourceContentHash": "sha256:d0269e2f1779f743",
           "sourceBodyHash": "sha256:70e0b74692ddad14",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "d182e5d8",
-          "translationLastModified": "2026-08-16T08:53:57+08:00",
+          "translationLastCommit": "3937b99f",
+          "translationLastModified": "2026-09-16T19:45:40+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -10868,8 +10868,8 @@
           "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
           "translatedAt": "2026-09-16T11:57:26+08:00",
-          "translationLastCommit": "3147a527",
-          "translationLastModified": "2026-05-15T14:22:09+08:00",
+          "translationLastCommit": "3937b99f",
+          "translationLastModified": "2026-09-16T19:45:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -27456,8 +27456,8 @@
           "sourceContentHash": "sha256:b9e05b9a2ffc12db",
           "sourceBodyHash": "sha256:5412b8ae390af1fa",
           "translatedAt": "2026-09-16T11:45:15.178631+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "3937b99f",
+          "translationLastModified": "2026-09-16T19:45:40+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -27466,18 +27466,16 @@
         "es": {
           "path": "es/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "67e5b3684",
-          "sourceContentHash": "sha256:b56a9c2f52721e09",
-          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
-          "translatedAt": "2026-06-23T00:40:06+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
+          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "translatedAt": "2026-09-16T11:45:54.717846+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/nvidia-in-taiwan.md",
