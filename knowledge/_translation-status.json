@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T17:06:30+08:00",
-    "zhCommitHead": "3b25726cb",
+    "lastUpdated": "2026-09-16T17:09:36+08:00",
+    "zhCommitHead": "da315ef88",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 992,
+        "fresh": 993,
         "stale": 79,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 34,
         "orphan": 0
       },
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1004,
+        "fresh": 1005,
         "stale": 72,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 29,
         "orphan": 0
       },
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 932,
+        "fresh": 931,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 138,
+        "missing": 139,
         "orphan": 0
       },
       "de": {
@@ -8368,18 +8368,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -71642,18 +71631,16 @@
         "en": {
           "path": "en/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-05-01T08:56:11+08:00",
+          "translatedAt": "2026-09-16T11:57:21+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/formosan-landlocked-salmon.md",
@@ -71674,18 +71661,16 @@
         "ko": {
           "path": "ko/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "translatedAt": "2026-09-16T11:57:26+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/formosan-landlocked-salmon.md",
@@ -95240,8 +95225,8 @@
           "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
           "sourceBodyHash": "sha256:4da6179cc5f355db",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -110918,8 +110903,8 @@
           "sourceContentHash": "sha256:84ffac689843ddd3",
           "sourceBodyHash": "sha256:98cbd8f687f836db",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -129003,8 +128988,8 @@
           "sourceContentHash": "sha256:a3b67c4182d26ac8",
           "sourceBodyHash": "sha256:2b263b9afd2d2815",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -150211,8 +150196,8 @@
           "sourceContentHash": "sha256:fcdf343dc3efa72e",
           "sourceBodyHash": "sha256:8952fca56720f010",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156114,8 +156099,8 @@
           "sourceContentHash": "sha256:eca62ab119321799",
           "sourceBodyHash": "sha256:6e4c77ec70105e99",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -172811,8 +172796,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -181569,8 +181554,8 @@
           "sourceContentHash": "sha256:15d6246d744f90bf",
           "sourceBodyHash": "sha256:227017306bf0c999",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da315ef8",
+          "translationLastModified": "2026-09-16T17:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
