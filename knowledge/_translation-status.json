@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:39:47+08:00",
-    "zhCommitHead": "6f23316d7",
+    "lastUpdated": "2026-09-17T01:43:39+08:00",
+    "zhCommitHead": "b01a51204",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 887,
+        "fresh": 888,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 177,
+        "missing": 176,
         "orphan": 0
       },
       "ru": {
@@ -6432,7 +6432,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-16T11:57:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/lifestyle-market.md",
@@ -39098,8 +39109,8 @@
           "sourceContentHash": "sha256:3512b2f6ca0a3376",
           "sourceBodyHash": "sha256:b926dcc386105146",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b01a5120",
+          "translationLastModified": "2026-09-17T01:39:48+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -64131,8 +64142,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b01a5120",
+          "translationLastModified": "2026-09-17T01:39:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -77221,8 +77232,8 @@
           "sourceContentHash": "sha256:ff0d633ddf229011",
           "sourceBodyHash": "sha256:750dbd2ead7f4c90",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b01a5120",
+          "translationLastModified": "2026-09-17T01:39:48+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -90112,8 +90123,8 @@
           "sourceContentHash": "sha256:11fc2d2ddbeac051",
           "sourceBodyHash": "sha256:ecc6d9a502536bda",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b01a5120",
+          "translationLastModified": "2026-09-17T01:39:48+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -177439,8 +177450,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-16T11:57:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b01a5120",
+          "translationLastModified": "2026-09-17T01:39:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
