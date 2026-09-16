@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T08:31:25+08:00",
-    "zhCommitHead": "94e8e37c0",
+    "lastUpdated": "2026-09-16T08:35:37+08:00",
+    "zhCommitHead": "c7f65ff82",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "ja": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 865,
+        "fresh": 866,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "ru": {
@@ -18679,8 +18679,8 @@
           "sourceContentHash": "sha256:dcdc411ac65fa741",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-15T22:26:21.504542+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7f65ff8",
+          "translationLastModified": "2026-09-16T08:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -24408,8 +24408,8 @@
           "sourceContentHash": "sha256:1e757976bc4f33e4",
           "sourceBodyHash": "sha256:122e66655dc1f0bf",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7f65ff8",
+          "translationLastModified": "2026-09-16T08:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -72508,7 +72508,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/indigenous-district-chief-system.md",
+          "translatedFrom": "Politics/直轄市山地原住民區長.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:0746c045bf4a4492",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-16T00:25:01.497919+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Politics/indigenous-district-chief-system.md",
@@ -97032,8 +97043,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7f65ff8",
+          "translationLastModified": "2026-09-16T08:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -98379,7 +98390,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/shen-baozhen.md",
+          "translatedFrom": "People/沈葆楨.md",
+          "sourceCommitSha": "c715b43d5",
+          "sourceContentHash": "sha256:0db6c2a854c9d1f9",
+          "sourceBodyHash": "sha256:619269e5a282feaa",
+          "translatedAt": "2026-09-15T19:45:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -158664,8 +158686,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-15T19:45:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7f65ff8",
+          "translationLastModified": "2026-09-16T08:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
