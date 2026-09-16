@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:13:14+08:00",
-    "zhCommitHead": "764aff66f",
+    "lastUpdated": "2026-09-17T01:23:24+08:00",
+    "zhCommitHead": "ecd6da92d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 996,
+        "fresh": 997,
         "stale": 78,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 32,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 806,
+        "fresh": 807,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 258,
+        "missing": 257,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 723,
+        "fresh": 724,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 391,
+        "missing": 390,
         "orphan": 0
       }
     },
@@ -5045,7 +5045,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-music-festival-culture.md",
+          "translatedFrom": "Music/台灣音樂祭文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:05a94f16d833d02e",
+          "sourceBodyHash": "sha256:7c772c535d0e1d4c",
+          "translatedAt": "2026-09-16T11:57:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88910,18 +88921,16 @@
         "es": {
           "path": "es/People/fujui-wang.md",
           "translatedFrom": "People/王福瑞.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:59c2d496972724a5",
+          "sourceCommitSha": "c5877264f",
+          "sourceContentHash": "sha256:73a411edb3bee540",
           "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
-          "translatedAt": "2026-06-16T17:14:42Z",
+          "translatedAt": "2026-09-16T11:57:28+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/fujui-wang.md",
@@ -107533,7 +107542,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/monaneng.md",
+          "translatedFrom": "People/莫那能.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:f5aebb543340d143",
+          "sourceBodyHash": "sha256:2f3617098391a7c1",
+          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/monaneng.md",
@@ -138617,8 +138637,8 @@
           "sourceContentHash": "sha256:6676da6439aa0dbf",
           "sourceBodyHash": "sha256:7541a1d205619b0c",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ecd6da92",
+          "translationLastModified": "2026-09-17T01:13:15+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -174425,8 +174445,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-16T11:57:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ecd6da92",
+          "translationLastModified": "2026-09-17T01:13:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
