@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T06:15:17+08:00",
-    "zhCommitHead": "278656076",
+    "lastUpdated": "2026-09-17T06:40:45+08:00",
+    "zhCommitHead": "5ea765f4b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 806,
+        "fresh": 807,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 190,
+        "missing": 189,
         "orphan": 0
       },
       "ko": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 977,
+        "fresh": 978,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 65,
+        "missing": 64,
         "orphan": 0
       },
       "hi": {
@@ -74145,7 +74145,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/election-campaign.md",
+          "translatedFrom": "Politics/選舉造勢.md",
+          "sourceCommitSha": "6226eb6aa",
+          "sourceContentHash": "sha256:0f10426fa5e4f016",
+          "sourceBodyHash": "sha256:f73fed3867526ad3",
+          "translatedAt": "2026-09-16T11:57:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Politics/election-campaign.md",
@@ -141894,7 +141905,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-sugar-railway.md",
+          "translatedFrom": "History/台灣糖業鐵路.md",
+          "sourceCommitSha": "9f64c386b",
+          "sourceContentHash": "sha256:e6b87ed9f332b973",
+          "sourceBodyHash": "sha256:618dd92cacb51567",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-sugar-railway.md",
