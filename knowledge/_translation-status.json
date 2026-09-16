@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-16T10:06:59+08:00",
-    "zhCommitHead": "fce96f0a9",
+    "lastUpdated": "2026-09-16T10:13:15+08:00",
+    "zhCommitHead": "2b4a68e7c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 218,
+        "missing": 217,
         "orphan": 0
       },
       "ko": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 978,
+        "fresh": 979,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "fr": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 281,
+        "missing": 280,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 869,
+        "fresh": 870,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 195,
+        "missing": 194,
         "orphan": 0
       },
       "ru": {
@@ -42360,7 +42360,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/food-delivery-platforms.md",
+          "translatedFrom": "Lifestyle/外送平台.md",
+          "sourceCommitSha": "62194c6e6",
+          "sourceContentHash": "sha256:4fcef48a4fb87a46",
+          "sourceBodyHash": "sha256:13fc2011ed2fd336",
+          "translatedAt": "2026-09-15T19:45:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/food-delivery-platforms.md",
@@ -47953,8 +47964,8 @@
           "sourceContentHash": "sha256:eaf4970ef1feaeed",
           "sourceBodyHash": "sha256:cd52e2328096923b",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a68e7",
+          "translationLastModified": "2026-09-16T10:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -57098,7 +57109,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/air-conditioning-energy-poverty.md",
+          "translatedFrom": "Society/冷氣與能源貧窮議題.md",
+          "sourceCommitSha": "2b1523b1c",
+          "sourceContentHash": "sha256:355af10a54c14130",
+          "sourceBodyHash": "sha256:f7547564791748fe",
+          "translatedAt": "2026-09-15T19:45:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/air-conditioning-energy-poverty.md",
@@ -66488,8 +66510,8 @@
           "sourceContentHash": "sha256:bc1981684ea96389",
           "sourceBodyHash": "sha256:8fca360e2bf80295",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a68e7",
+          "translationLastModified": "2026-09-16T10:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -77725,8 +77747,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a68e7",
+          "translationLastModified": "2026-09-16T10:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -97185,8 +97207,8 @@
           "sourceContentHash": "sha256:feb8dc67f30db2e2",
           "sourceBodyHash": "sha256:75dbc702aa896f78",
           "translatedAt": "2026-09-15T19:45:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2b4a68e7",
+          "translationLastModified": "2026-09-16T10:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -118082,7 +118104,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/sheng-kai-shi.md",
+          "translatedFrom": "People/聖凱師.md",
+          "sourceCommitSha": "2e227925f",
+          "sourceContentHash": "sha256:f3c744060676c5c3",
+          "sourceBodyHash": "sha256:c6156a33a327be28",
+          "translatedAt": "2026-09-15T19:45:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/sheng-kai-shi.md",
@@ -147922,7 +147955,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/chianan-irrigation.md",
+          "translatedFrom": "History/嘉南大圳.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:e8b694e836a1a788",
+          "sourceBodyHash": "sha256:a57ef7adfb910d4f",
+          "translatedAt": "2026-09-15T19:45:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/chianan-irrigation.md",
