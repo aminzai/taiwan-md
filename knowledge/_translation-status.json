@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T00:08:52+08:00",
-    "zhCommitHead": "18fc9208e",
+    "lastUpdated": "2026-09-17T00:15:26+08:00",
+    "zhCommitHead": "f3cb45db7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 199,
+        "missing": 198,
         "orphan": 0
       },
       "ko": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 724,
+        "fresh": 723,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 390,
+        "missing": 391,
         "orphan": 0
       }
     },
@@ -46122,8 +46122,8 @@
           "sourceContentHash": "sha256:d24206673c791f9a",
           "sourceBodyHash": "sha256:2ed9c66e6cdd44d6",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f3cb45db",
+          "translationLastModified": "2026-09-17T00:08:55+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -89508,8 +89508,8 @@
           "sourceContentHash": "sha256:50b13c3a31e0a1c0",
           "sourceBodyHash": "sha256:e6b263814c7b1995",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f3cb45db",
+          "translationLastModified": "2026-09-17T00:08:55+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -135084,7 +135084,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/taiwan-railway-bento.md",
+          "translatedFrom": "Food/台灣鐵路便當.md",
+          "sourceCommitSha": "ed9e8cc78",
+          "sourceContentHash": "sha256:bbbd9e32710c1317",
+          "sourceBodyHash": "sha256:99086673f8517f78",
+          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwan-railway-bento.md",
@@ -154422,18 +154433,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
