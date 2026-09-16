@@ -22,10 +22,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e9178b000513a553'
-sourceBodyHash: 'sha256:0447f104316070ca'
-translatedAt: '2026-07-28T04:03:51+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-16T17:51:19.082754+00:00'
 ---
 
 # Jensen Huang (黃仁勳)
@@ -143,26 +143,27 @@ Curtis Priem recuerda: «El primer día ya escuchábamos a Jensen. Le dijimos: t
 
 Cuando le preguntaron cómo soportó esos años sin fin, su respuesta fue muy Huang: «Hay mucho sufrimiento en el medio, pero tienes que creer en lo que crees» (There's a lot of suffering in between, but you've gotta believe what you believe)[^18]. Esta frase podría ser casi la nota al pie de toda su carrera profesional: desde barrar el baño, lavar platos, el callejón sin salida del renderizado de cuadriláteros, hasta la espera de dieciséis años de CUDA, lo que lo hace diferente es que, durante los más de diez años antes de que la apuesta se materializara, nunca soltó el control.
 
-## El que barraba el baño y el tatuaje de NVIDIA de su vida
+## La persona que limpia baños y su tatuaje de NVIDIA
 
-En 2024, Huang recibió un doctorado honoris causa de la Universidad Nacional de Taiwán, fue elegido CEO del año por _The Economist_ y apareció en la lista de las 100 personas más influyentes de _Time_. En 2025, él y el científico jefe de NVIDIA, Bill Dally, recibieron el Premio de Ingeniería Reina Isabel (Queen Elizabeth Prize for Engineering), junto a los pioneros de la IA Geoffrey Hinton, Yann LeCun, Fei-Fei Li y otros, siendo premiados personalmente por el rey Carlos III del Reino Unido en el Palacio de St. James[^12].
+En 2024, Jensen Huang recibió un doctorado honoris causa de la Universidad de Taiwán, fue elegido CEO del año por _The Economist_ e incluido entre las cien personas más influyentes de _Time_. En 2025, él y Bill Dally, científico jefe de NVIDIA, recibieron el Premio Reina Isabel para la Ingeniería (Queen Elizabeth Prize for Engineering), al lado de pioneros de la IA como Geoffrey Hinton, Yann LeCun y Fei-Fei Li, siendo galardonados personalmente por el rey Carlos III en St. James's Palace [^12].
 
-En 2026, muchos medios lo llaman directamente el «líder de la IA», cada discurso público se considera una bola de dirección para toda la industria, y hasta qué chaqueta de cuero lleva o en qué puesto del mercado nocturno come puede aparecer en los titulares. Un estudiante de ingeniería de dieciséis años que saltó dos grados y parecía un niño, ha llegado a una posición donde todo el mundo escucha atentamente lo que dice. Y su respuesta a todo esto sigue siendo volar a Taiwán cada trimestre, meterse en los puestos de snacks de Tainan y discutir con los dueños en taiwanés.
+En 2026, muchos medios lo apodaron directamente "gurú de la IA"; cada una de sus apariciones públicas era considerada un barómetro para toda la industria, y hasta qué chaqueta de cuero usaba o qué puestos del mercado nocturno visitaba en Taiwán aparecían en los titulares. Un estudiante de ingeniería que, a los dieciséis años, había avanzado dos niveles y parecía aún un niño, había llegado al punto en que todo el mundo escuchaba lo que decía. Y la forma en que respondía a todo esto seguía siendo volar cada temporada a Taiwán, meterse en puestos de comida callejera en Tainan y discutir con los dueños en dialecto taiwanés.
 
-Pero más allá de todos los títulos, hay un detalle que quizás explique mejor qué tipo de persona es. Cuando la capitalización bursátil de NVIDIA superó el billón de dólares, cumplió su promesa a los empleados y se tatuó el logo de NVIDIA en el brazo.
+Pero más allá de todos sus títulos, hay un detalle que quizás mejor explica quién es como persona. Cuando la capitalización bursátil de NVIDIA superó el billón de dólares, cumplió su promesa a los empleados: se tatuó el logotipo de NVIDIA en el brazo.
 
-Huang tiene ahora un tatuaje de marca empresarial en su brazo. El compañero de cuarto de cuando tenía diez años, cubierto de tatuajes, le enseñó a levantar pesas; él le enseñó a leer al compañero. Este intercambio, después de cincuenta años completos, es probablemente la inversión con mayor retorno (ROI) de su vida.
+El brazo de Jensen Huang ahora lleva un tatuaje con una marca corporativa. Su compañero de cuarto, que tenía tatuajes por todo el cuerpo cuando él tenía diez años, le enseñó a levantar pesas y a leer. Esa transacción tuvo cincuenta años de diferencia; probablemente fue la inversión con mayor retorno (ROI) en su vida.
 
 ---
 
-**Lectura adicional**:
+**Lecturas relacionadas**:
 
-- [張忠謀](/es/people/tsmc-morris-chang) — El socio más importante de NVIDIA, fundador de TSMC, una amistad de más de treinta años que ancló la cadena de suministro global de IA
-- [台灣企業：台積電](/es/economy/tsmc) — La empresa taiwanesa que fabrica los chips más avanzados de NVIDIA, el «héroe mundial» en la boca de Huang
-- [台灣半導體產業](/es/technology/taiwan-semiconductor-industry) — Los chips de Huang y Su se fabrican en esta isla; este es el escudo de silicio de Taiwán
-- [NVIDIA en Taiwán: La empresa más cara del mundo, ningún chip hecho por sí mismo](/es/technology/nvidia-in-taiwan) — La empresa que fundó coexiste con la industria de esta isla: chips, servidores, sede y un acuerdo de tierras de 4.434 millones
-- [紀懷新: El taiwanés que enseñó a la IA a «pensar paso a paso»](/es/people/chi-huai-hsin) — Otro taiwanés en la vanguardia de la IA; los chips de Huang hacen que la IA corra rápido, el pensamiento en cadena de Li Huai-xin hace que la IA aprenda a razonar paso a paso
-- [江振誠](/es/people/andre-chiang-taiwanese-culinary-innovator) — Otro taiwanés que alcanzó la cima internacional, pero por el camino opuesto: se dio la vuelta voluntariamente en la cima, rechazando ser definido por un título
+- [Morris Chang](/es/people/tsmc-morris-chang) — El socio más crucial de NVIDIA, fundador de TSMC, cuya amistad de más de treinta años mantiene viva la cadena de suministro global de IA
+- [TSMC (Taiwán)](/es/economy/tsmc) — La empresa taiwanesa que fabrica los chips más avanzados para NVIDIA, el "héroe mundial" mencionado por Jensen Huang
+- [Industria de semiconductores de Taiwán](/es/technology/taiwan-semiconductor-industry) — Los chips de Jensen Huang y Lisa Su se fabrican en esta isla; es el escudo de silicio de Taiwán
+- [NVIDIA en Taiwán: la compañía más cara del mundo, sin un solo chip propio](/es/technology/nvidia-in-taiwan) — La simbiosis entre su empresa y la industria de la isla: chips, servidores, sede y una propiedad de 4.43400 millones
+- [Chi Huai-hsin](/es/people/chi-huai-hsin) — Otro taiwanés en la vanguardia de la IA; los chips de Jensen Huang hacen que la IA corra rápido, y el _chaining_ (cadena de pensamiento) de Chi Huai-hsin hace que la IA aprenda a razonar paso a paso
+- [Andre Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — Otro taiwanés en la cima internacional, pero siguiendo un camino opuesto: al alcanzar el pináculo, se dio la vuelta y se marchó, negándose a ser definido por un título
+- [Historias tecnológicas de Taiwán: chips con 100 puntos, micrófonos con 60](/es/technology/taiwan-tech-stories) — Poniendo a los que mejor cuentan historias sobre chips en Taiwán junto a la industria que peor lo hace, para medir esa diferencia de 40 puntos
 
 ## Fuentes de imagen
 
