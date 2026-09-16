@@ -424,7 +424,7 @@
   "ar:Geography/台灣海岸地形與海洋地景.md": 1,
   "id:Culture/台灣YouTuber產業與文化.md": 1,
   "ru:History/國民政府遷台與戰後重建.md": 1,
-  "hi:Geography/氣候.md": 1,
+  "hi:Geography/氣候.md": 2,
   "ru:Geography/台灣海岸地形與海洋地景.md": 1,
   "hi:Geography/台灣海岸地形與海洋地景.md": 2,
   "hi:Music/蘇打綠.md": 1,
@@ -1136,7 +1136,7 @@
   "ru:Society/台灣原住民族教育與語言復振的交界.md": 1,
   "hi:Art/台灣水彩畫的百年流變.md": 1,
   "ar:People/鄭南榕.md": 1,
-  "id:People/林青霞.md": 1,
+  "id:People/林青霞.md": 2,
   "ar:Culture/注音符號.md": 2,
   "hi:People/林青霞.md": 2,
   "ar:Food/台灣冰品文化.md": 6,
@@ -1943,7 +1943,7 @@
   "id:Food/擔仔麵.md": 4,
   "de:Culture/澎湖民俗文化.md": 2,
   "hi:Food/擔仔麵.md": 4,
-  "es:Food/蘿蔔糕.md": 4,
+  "es:Food/蘿蔔糕.md": 5,
   "de:People/楊傳廣.md": 3,
   "fr:Lifestyle/台灣行道樹.md": 2,
   "ja:People/楊傳廣.md": 3,
@@ -2545,7 +2545,7 @@
   "id:People/館長陳之漢.md": 1,
   "en:Culture/鹽水蜂炮.md": 1,
   "ru:Food/烏魚子.md": 1,
-  "fr:Culture/鹽水蜂炮.md": 1,
+  "fr:Culture/鹽水蜂炮.md": 2,
   "id:Food/烏魚子.md": 1,
   "vi:Culture/鹽水蜂炮.md": 1,
   "ja:History/北一女.md": 1,
@@ -3302,5 +3302,6 @@
   "id:Economy/台灣蘭花.md": 1,
   "es:Culture/台灣獸迷文化.md": 1,
   "ko:Geography/漯底山.md": 1,
-  "hi:Economy/台灣蘭花.md": 1
+  "hi:Economy/台灣蘭花.md": 1,
+  "en:Economy/台灣企業：聯發科技.md": 1
 }
