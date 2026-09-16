@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T01:23:24+08:00",
-    "zhCommitHead": "ecd6da92d",
+    "lastUpdated": "2026-09-17T01:30:45+08:00",
+    "zhCommitHead": "af7004d6a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 996,
-        "stale": 77,
+        "fresh": 997,
+        "stale": 76,
         "metadata_stale": 14,
         "missing": 34,
         "orphan": 0
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1009,
+        "fresh": 1010,
         "stale": 69,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 29,
         "orphan": 0
       },
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 938,
+        "fresh": 939,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 132,
+        "missing": 131,
         "orphan": 0
       },
       "de": {
@@ -2005,8 +2005,8 @@
           "sourceContentHash": "sha256:cd1df8dc4931d5ab",
           "sourceBodyHash": "sha256:c54c3768ed377e41",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7004d6",
+          "translationLastModified": "2026-09-17T01:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -14895,7 +14895,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-16T11:57:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-beer.md",
@@ -29196,8 +29207,8 @@
           "sourceContentHash": "sha256:99d1ed1be7085b4c",
           "sourceBodyHash": "sha256:6aa8eb64a1458368",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7004d6",
+          "translationLastModified": "2026-09-17T01:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -88905,18 +88916,16 @@
         "ko": {
           "path": "ko/People/fujui-wang.md",
           "translatedFrom": "People/王福瑞.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:59c2d496972724a5",
+          "sourceCommitSha": "c5877264f",
+          "sourceContentHash": "sha256:73a411edb3bee540",
           "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
-          "translatedAt": "2026-06-16T17:14:05Z",
+          "translatedAt": "2026-09-16T11:57:26+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/fujui-wang.md",
@@ -97761,18 +97770,16 @@
         "en": {
           "path": "en/People/liu-an-ting-teach-for-taiwan.md",
           "translatedFrom": "People/劉安婷.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:f5a74a02db786491",
-          "sourceBodyHash": "sha256:8514a8a697807f6e",
+          "sourceCommitSha": "75479a4e",
+          "sourceContentHash": "sha256:3dee896f2b15c3b8",
+          "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-05-01T13:19:11+08:00",
           "translationLastCommit": "048e61b3",
           "translationLastModified": "2026-07-12T22:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/liu-an-ting-teach-for-taiwan.md",
@@ -107548,8 +107555,8 @@
           "sourceContentHash": "sha256:f5aebb543340d143",
           "sourceBodyHash": "sha256:2f3617098391a7c1",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7004d6",
+          "translationLastModified": "2026-09-17T01:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -130190,8 +130197,8 @@
           "sourceContentHash": "sha256:6fe952ad9ad0a5fa",
           "sourceBodyHash": "sha256:6b2255cbc29cf54c",
           "translatedAt": "2026-09-16T11:57:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "af7004d6",
+          "translationLastModified": "2026-09-17T01:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
