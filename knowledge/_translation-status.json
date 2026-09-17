@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T12:27:39+08:00",
-    "zhCommitHead": "4a779f763",
+    "lastUpdated": "2026-09-17T12:48:44+08:00",
+    "zhCommitHead": "2a2eab217",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1005,
-        "stale": 71,
+        "fresh": 1006,
+        "stale": 70,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 181,
+        "missing": 180,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1016,
-        "stale": 66,
+        "fresh": 1017,
+        "stale": 65,
         "metadata_stale": 12,
         "missing": 27,
         "orphan": 0
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 990,
+        "fresh": 992,
         "stale": 78,
-        "metadata_stale": 18,
+        "metadata_stale": 16,
         "missing": 35,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 827,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 240,
+        "missing": 237,
         "orphan": 0
       },
       "pt": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 824,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 252,
+        "missing": 250,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 896,
+        "fresh": 897,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 948,
+        "fresh": 950,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 122,
+        "missing": 120,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 740,
+        "fresh": 742,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 374,
+        "missing": 372,
         "orphan": 0
       }
     },
@@ -3847,18 +3847,16 @@
         "en": {
           "path": "en/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-05-01T13:19:11+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "d182e5d8",
           "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/mayday-band.md",
@@ -5998,8 +5996,8 @@
           "sourceContentHash": "sha256:0beb5fc8433a2c70",
           "sourceBodyHash": "sha256:b7a689926177f96c",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -8487,7 +8485,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-17T06:43:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -11057,18 +11066,16 @@
         "fr": {
           "path": "fr/Economy/htc-android-pioneer-vr-transformation.md",
           "translatedFrom": "Economy/台灣企業：宏達電.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:cad6f5863e24a963",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
-          "translatedAt": "2026-05-15T13:52:06+08:00",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
           "translationLastCommit": "3147a527",
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/htc-android-pioneer-vr-transformation.md",
@@ -12503,18 +12510,16 @@
         "fr": {
           "path": "fr/Economy/mediatek.md",
           "translatedFrom": "Economy/台灣企業：聯發科技.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:b0c668da71eb8f7b",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:8e1984eacca56325",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
-          "translatedAt": "2026-08-04T12:03:21+08:00",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
           "translationLastCommit": "39a979e4",
           "translationLastModified": "2026-08-04T13:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/mediatek.md",
@@ -23575,8 +23580,8 @@
           "sourceContentHash": "sha256:431ea1bf9d43ad2f",
           "sourceBodyHash": "sha256:3075ecd0a9c35ac1",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -27031,8 +27036,8 @@
           "sourceContentHash": "sha256:807f358c49a8e2a5",
           "sourceBodyHash": "sha256:ed41f6caa1b5d8ba",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -46090,8 +46095,8 @@
           "sourceContentHash": "sha256:8f83fb416bf59624",
           "sourceBodyHash": "sha256:0bb238f02b9daa64",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -57569,7 +57574,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/paraguay-taiwan.md",
+          "translatedFrom": "Society/巴拉圭與台灣.md",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/paraguay-taiwan.md",
@@ -83878,7 +83894,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-chun-liang-design-poet.md",
+          "translatedFrom": "People/陳俊良.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:e8fd773cb48092fd",
+          "sourceBodyHash": "sha256:7b3ecc631545bac9",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -99725,7 +99752,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-a-ga-youtuber.md",
+          "translatedFrom": "People/蔡阿嘎.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:2fc7b754782e2c72",
+          "sourceBodyHash": "sha256:3835f3eeb33c205d",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tsai-a-ga-youtuber.md",
@@ -109012,7 +109050,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/potter-king-youtuber.md",
@@ -110268,8 +110317,8 @@
           "sourceContentHash": "sha256:ce2f1e81de54c692",
           "sourceBodyHash": "sha256:efa67fc4a2da3f45",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -113649,7 +113698,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/shen-wencheng.md",
+          "translatedFrom": "People/沈文程.md",
+          "sourceCommitSha": "b48dde0cd",
+          "sourceContentHash": "sha256:bdd54d293989cf15",
+          "sourceBodyHash": "sha256:9a3851545dcaaf3c",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -115605,7 +115665,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/gwei-lun-mei-versatile-taiwanese-actress.md",
+          "translatedFrom": "People/桂綸鎂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:266bd954eeb032d3",
+          "sourceBodyHash": "sha256:c06a0cb5b90069e3",
+          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/gwei-lun-mei-versatile-taiwanese-actress.md",
@@ -118354,7 +118425,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/wang-shaudi.md",
+          "translatedFrom": "People/王小棣.md",
+          "sourceCommitSha": "3638ec158",
+          "sourceContentHash": "sha256:50eb815f9c92fea3",
+          "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
+          "translatedAt": "2026-09-17T06:43:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -122307,8 +122389,8 @@
           "sourceContentHash": "sha256:720cd768af91d1c3",
           "sourceBodyHash": "sha256:7ec1f1d13ec2e4d4",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a2eab21",
+          "translationLastModified": "2026-09-17T12:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -126564,18 +126646,16 @@
         "ko": {
           "path": "ko/Food/portuguese-egg-tart-in-taiwan.md",
           "translatedFrom": "Food/蛋撻.md",
-          "sourceCommitSha": "8a230ddb",
-          "sourceContentHash": "sha256:97dd164af6e04522",
-          "sourceBodyHash": "sha256:c821b247831a9b89",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:e6a3985c0d14509b",
+          "sourceBodyHash": "sha256:2199caf3c188c46a",
+          "translatedAt": "2026-09-17T06:43:36+08:00",
           "translationLastCommit": "59ff7e7d",
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/portuguese-egg-tart-in-taiwan.md",
@@ -153895,7 +153975,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taiwan-urban-development-and-rural-urban-divide.md",
+          "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
+          "sourceCommitSha": "f45a19331",
+          "sourceContentHash": "sha256:bfa78a33fd163a9a",
+          "sourceBodyHash": "sha256:aa0440f383f174b1",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-urban-development-and-rural-urban-divide.md",
@@ -167404,7 +167495,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/laaluwa.md",
+          "translatedFrom": "Culture/拉阿魯哇族.md",
+          "sourceCommitSha": "d2302dccb",
+          "sourceContentHash": "sha256:a02c70297f1ffa93",
+          "sourceBodyHash": "sha256:136fcbce54ee6de7",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/laaluwa.md",
@@ -179302,7 +179404,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-youtuber-industry.md",
+          "translatedFrom": "Culture/台灣YouTuber產業與文化.md",
+          "sourceCommitSha": "d40e50420",
+          "sourceContentHash": "sha256:d4ca70756fc2b68a",
+          "sourceBodyHash": "sha256:631049e094973d93",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-youtuber-industry.md",

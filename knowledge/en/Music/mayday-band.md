@@ -1,140 +1,146 @@
 ---
 title: 'Mayday'
-description: "In 1997, four Affiliated High School students signed up for a music festival using a BBS username. Thirty years later they sold 320,000 tickets to Taipei Dome in ten minutes, played 30 shows at Beijing's Bird's Nest — and at that same stage said four words that broke Taiwan's heart."
+description: 'In 1997, four high-school students from Affiliated High School of National Taiwan Normal University signed up for an outdoor live music festival using a BBS handle. Thirty years later, they sold 320,000 tickets at Taipei Dome in ten minutes, performed 30 shows at the Beijing National Stadium, and also said four words on that same stage that broke Taiwanese hearts.'
+date: 2026-03-23
 category: 'Music'
 tags:
-  - 'Mayday'
-  - 'Ashin'
-  - 'rock music'
-  - 'Mandarin music'
-  - 'concerts'
-  - 'Golden Melody Awards'
-  - 'Affiliated High School'
-  - 'lip-sync controversy'
-  - 'Taipei Dome'
-date: 2026-03-23
-readingTime: 12min
-lastVerified: 2026-04-13
-lastHumanReview: true
-translatedFrom: 'Music/五月天.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2d73cb00a5f5d254'
-sourceBodyHash: 'sha256:7f6b080a953be003'
-translatedAt: '2026-05-01T13:19:11+08:00'
+  [
+    'Mayday',
+    'Mayday (band)',
+    'A-Shin',
+    'rock music',
+    'Mandopop',
+    'concert',
+    'Golden Melody Awards',
+    'Affiliated High School of National Taiwan Normal University',
+    'lip-sync controversy',
+    'Taipei Dome',
+  ]
+subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-13
+lastHumanReview: true
+readingTime: '12min'
+translatedFrom: 'Music/五月天.md'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:d0269e2f1779f743'
+sourceBodyHash: 'sha256:70e0b74692ddad14'
+translatedAt: '2026-09-17T06:43:34+08:00'
 ---
 
-# Mayday (五月天)
+# Mayday
 
-> **30-Second Overview:** Mayday is the most commercially successful rock band in Taiwan's history. From a 1997 student club at Taipei's Affiliated Senior High School to a concert empire spanning Asia, they spent thirty years proving that Mandarin-language rock can fill stadiums. But a single phrase at a 2024 Beijing concert turned them into both the face of Taiwan's cultural exports and a symbol of cross-strait political tension.
+> **30-second summary:** Mayday is the most commercially successful rock band in Taiwanese history. From a high-school student club at Affiliated High School of National Taiwan Normal University in 1997 to a pan-Asian concert empire, they spent thirty years proving that Mandarin rock could fill stadiums. But their utterance of "we Chinese" at a 2024 Beijing concert made them simultaneously a symbol of Taiwanese cultural export and a mirror of cross-strait political tensions.
 
-On July 7, 1999, a line stretched endlessly outside a record store in Taipei's Ximending district. A CD called _Mayday's First Album_ (they didn't even bother giving it a proper name) was officially released [^1]. Most buyers were teenagers. They had no idea that what they held in their hands would rewrite the commercial rules of the entire Mandarin music industry for the next three decades.
+On July 7, 1999, a queue stretched endlessly outside a record store in Taipei's Ximending. A CD titled _Mayday's First Creative Album_ (too lazy to even name the album) was officially released [^1]. Most buyers were teenagers in their teens, unaware that what they held in their hands would rewrite the business rules of the entire Mandarin music industry over the next thirty years.
 
-## Four Kids from One High School, and a Drummer Who Came Two Years Late
+## Four Affiliated High School students and a drummer two years later
 
-Mayday's story starts at a high school. In 1995, at Taipei Municipal Affiliated Senior High School, Ashin (陳信宏, born in Beitou, Taipei, 1975) and Monster (溫尚翊, born in Hsinchu, 1976) met in the guitar club [^2]. They pulled together classmates to form "So Band," rehearsing in basements. Ashin sang, Monster played guitar. Later, Masa (蔡昇晏, born in Kaohsiung, 1977) picked up the bass, and Stone (石錦航, born in Taipei, 1975) filled in as second guitarist [^3].
+Mayday's story begins at a high school. In 1995, at Taipei's Affiliated High School of National Taiwan Normal University, A-Shin (Chen Hsin-hung, from Beitou, born 1975) and Monster (Wen Shang-yi, from Hsinchu, born 1976) met in the guitar club [^2]. The two formed "So Band" with classmates and practiced in the basement. A-Shin handled vocals, Monster played guitar, later Masa (Cai Sheng-yu, from Kaohsiung, born 1977) took up bass, and Stone (Shi Jinhang, from Taipei, born 1975) added a second guitar [^3].
 
-On March 29, 1997, they signed up for the Formoz Festival (野台開唱). Registration required a band name. Masa's handle on BBS was MAYDAY, so they used it [^4]. That date became Mayday's founding anniversary. A BBS nickname became the name of Asia's biggest rock band.
+On March 29, 1997, they registered for the "Wild Stage Live" music festival. Registration required a band name; Masa's BBS handle was MAYDAY, so they used it [^4]. That day was designated as Mayday's founding anniversary — a BBS handle became the name of Asia's largest rock band.
 
-The drummer's seat changed hands several times. After the original drummer Qian You-da left, Guan You (劉冠佑, born in Miaoli, 1973) officially joined in 1999, and the five-member lineup has remained unchanged ever since [^5]. Guan You is the oldest member — two years older than Ashin — yet the last to join.
+The drummer position rotated several times, with Niu You-da, Chen Yong-jue, and Ren Bo-zhang all briefly joining. In 1999, Guan-you (Liu Guan-you, born 1973) from Miaoli became the fourth drummer, solidifying the five-member lineup that remains today [^5]. He graduated from National Taiwan University of Arts (formerly National Taiwan College of Performing Arts); he was the only member not from Affiliated High School of National Taiwan Normal University and had already been drumming for the indie band Why Not before joining. The oldest by two years compared to A-Shin, yet the last to join.
 
-📝 **Curator's Note:** Five people from five different Taiwanese cities — Beitou, Hsinchu, Kaohsiung, Taipei, and Miaoli. This lineup is itself a miniature Taiwan story: people from all over the island converge on Taipei, meet at a high school, and use rock music to sing the voice of an entire island.
+📝 **Curator's note:** The five came from four different cities across Taiwan — Beitou and Taipei, Hsinchu, Kaohsiung, and Miaoli. This composition itself is a microcosm of the Taiwanese story: people from all corners converging on Taipei, four meeting in a high school guitar club, and a fifth arriving two years later with a different path, eventually singing out the heart of the entire island with rock music.
 
-## From Basements to Rock Records
+## From the basement to Rolling Stone Records
 
-That same year in June, legendary Rock Records producer Jonathan Lee (李宗盛) heard Mayday's demo tape and personally contacted them to sign [^6]. Within a month, five students who hadn't even graduated had a record deal. Their 1999 debut featured _Zhi Ming and Chun Jiao_, which used the most common Taiwanese names to tell a love story, and _Crazy World_, whose lyric "I really, really want to fly" captured a generation's yearning — Mandarin rock entered everyday life for the first time [^1].
+In June of the same year, legendary producer Lee Jung-sung of Rolling Stone Records heard Mayday's demo tape and personally reached out to sign them [^6]. A month later, this group of mostly still-university students secured a record deal. Their debut album released in 1999, _Chih-ming and Chun-chiao_ used market stall names to talk about love, and _Crazy World_'s "I really want to fly" voiced a generation's feelings — Mandarin rock entered people's daily lives for the first time [^1].
 
-The key was strategy. In an era when the Mandarin music scene was dominated by idol singers, Mayday did something nobody else was doing: **they made concerts the core product, not a promotional tool.** They played relentlessly — school campuses, live houses, hundreds of small shows a year — converting audiences into believers one show at a time [^7]. This "concert-first" approach preceded the Western music industry's shift toward experience economics by over a decade.
+The key was strategy. At the time, the Mandarin music scene was dominated by idol singers, and bands were seen as niche. Mayday did something no one else had done: **they treated concerts as the core product, not a promotional tool.** They relentlessly toured campuses and live houses, performing over a hundred small shows a year, turning audiences into believers one live energy at a time [^7]. This "concert-first" strategy preceded the Western music industry's shift toward the experience economy by over a decade.
 
-## Thirty Shows at the Bird's Nest
+## Bird's Nest 30 shows and concert economics
 
-In 2012, Mayday became the first Mandarin-language band to perform at Beijing's National Stadium, the "Bird's Nest" [^8]. The image of 100,000 people singing _Stubborn_ (倔強) in unison became an iconic moment in Mandarin rock history. By 2024, they had performed over 30 shows at the venue — a historical record.
+In 2012, Mayday first took the stage at the Beijing National Stadium "Bird's Nest," becoming the first Mandarin band to perform there [^8]. The image of 100,000 people singing _Stubborn_ together became a classic moment in Mandarin rock history. By 2024, they had performed over 30 shows at the Bird's Nest, setting a venue record.
 
-But the real numbers are in the touring. The "Life Unlimited Company" world tour (2017–2019) lasted 644 days, covered 55 cities with 122 shows, and attracted 4.15 million attendees — one of the largest Mandarin-language concert tours in history [^9]. In mainland China alone, Mayday's annual concert revenue exceeds NT$3 billion (approximately US$100 million).
+But the real numbers came from touring. From 2017 to 2019, their "Life Unlimited" world tour spanned 644 days, 55 cities, 122 shows, and drew 4.15 million viewers — one of the largest Mandarin concert tours in history [^9]. Just in mainland China alone, Mayday's annual concert revenue exceeded NT$3 billion.
 
-📊 **Data Snapshot**
+📊 **Data snapshot**
 
-- Bird's Nest: 30+ shows (Mandarin band record)
-- "Life Unlimited Company": 644 days × 55 cities × 4.15 million attendees
-- 2023 Taipei Dome: 320,000 tickets sold in 10 minutes [^10]
+- Bird's Nest cumulative 30+ shows (Mandarin band record)
+- _Life Unlimited_: 644 days × 55 cities × 4.15 million attendees
+- 2023 Taipei Dome: 320,000 tickets sold out in 10 minutes [^10]
 
-In late 2023, Mayday became one of the first acts to perform at the newly opened Taipei Dome. 320,000 tickets sold out in 10 minutes [^10]. This isn't just a music phenomenon — it's an economic one.
+At the end of 2023, Mayday became one of the first artists to perform at Taipei Dome after its reopening. 320,000 tickets sold out in ten minutes — this was not just music, but an economic phenomenon [^10].
 
-## The Lip-Sync Controversy
+## Lip-sync controversy: when technology meets politics
 
-In November 2023, Chinese netizens accused Mayday of lip-syncing during their Shanghai concerts [^11]. Users applied audio analysis software, claiming that "pitch-perfect singing = lip-syncing." The controversy raged for five months until May 13, 2024, when Shanghai's Bureau of Culture and Tourism announced: "No evidence was found of pre-recorded audio replacing live singing" [^12].
+In November 2023, Mayday's Shanghai concert was questioned by Chinese netizens for lip-syncing [^11]. Some used audio analysis software to compare, claiming "the sound is too accurate = lip-syncing." The controversy lasted five months until May 13, 2024, when the Shanghai Municipal Bureau of Culture and Tourism released the investigation results: "No evidence of using pre-recorded vocals instead of live singing"[^12].
 
-But the controversy went deeper than technology. Taiwan's National Security Bureau chief Tsai Ming-yen reported to the Legislature in 2024 that the lip-sync accusations involved systematic Chinese state efforts to undermine Taiwan's cultural industries [^13]. A technical dispute about concert audio had been dragged into cross-strait politics.
+But the essence of this controversy was not just a technical issue. In a 2024 report to the Legislative Yuan, Taiwan's National Security Bureau Director Tsai Ming-yen pointed out that behind the lip-sync accusations lay China's systematic suppression of Taiwan's cultural industry [^13]. What started as a technical dispute in the music industry was pulled into the whirlpool of cross-strait politics.
 
-## "We Chinese People": Four Words That Broke Hearts
+## "We Chinese": the cost of four words
 
-On May 24, 2024, Ashin said "We Chinese people" (我們中國人) at a Beijing concert [^14]. Four words detonated Taiwan's social media.
+On May 24, 2024, A-Shin said "we Chinese" at a Beijing concert [^14]. Four words exploded across Taiwanese society.
 
-The irony: on May 19, 1996, barely a year after forming, Mayday had been invited to perform at a "Taiwan Independence" rally, singing songs called "When the Drums Sound" and "Mother's Name Is Taiwan" [^15]. From "Taiwan Independence" to "We Chinese People" — twenty-eight years apart. Was it the price of a Taiwanese band's commercial success in the Chinese market, or an entire era's compromise?
+Ironically, on May 19, 1996, just one year after forming, Mayday was invited to perform _Drum Sound Resounds_ and _Mother's Name is Taiwan_ at the "Taiwan Should Declare Independence" event [^15]. From "Taiwan Should Declare Independence" to "we Chinese," a distance of twenty-eight years — was this the price of a Taiwanese band's commercial success in the Chinese market, or a compromise of an entire era?
 
-Mayday themselves stayed silent. No explanation, no apology, no reaffirmation. That silence may be the answer.
+The Initium Media reported on fans' divided reactions: some quit following, some were disappointed, some remained steadfast [^14]. But the most silent was Mayday themselves. They offered no explanation, no apology, no reaffirmation of their stance. Perhaps this silence itself was the answer.
 
-📝 **Curator's Note:** Mayday's cross-strait dilemma isn't unique. It's the choice facing every Taiwanese cultural worker who tries to enter the Chinese market: are you willing to say four words that break 23 million hearts for access to a market of 1.4 billion?
+📝 **Curator's note:** Mayday's cross-strait dilemma is not an isolated case. It is a multiple-choice question that every Taiwanese cultural worker attempting to enter the Chinese market must face: Are you willing to say something that breaks the hearts of 23 million people for the sake of a market of 1.4 billion?
 
-## 5525: What Thirty Years Mean
+## 5525: thirty years of meaning
 
-The "5525" tour (named after the May 25 founding date), launched in 2023, had accumulated over 155 shows and 4.86 million attendees by 2026 [^16]. The single _Willful_ (任性), released in December 2024, was among their few new works since the 2016 album _History of Tomorrow_ (自傳) [^17].
+Launched in 2023, the "5525" tour (derived from Mayday's founding date, May 25) has accumulated over 155 shows and 4.86 million attendees by 2026 [^16]. The single _Unruly_, released in December 2024, is one of the few new works since their 2016 _Autobiography_ album [^17].
 
-But Mayday's cultural significance isn't in the numbers. It's in the people who made _Stubborn_ their life motto ("When I'm different from the world, let me be different"). In the people who got through hard times with _Contentment_. In the people who held up glow sticks in a stadium and cried alongside a hundred thousand strangers.
+But Mayday's cultural significance is not found in numbers. It lies in those who take _Stubborn_ as their life motto ("when I don't match the world, let me be different"), in those who got through lows with _Content_, and in those who held glow sticks and cried with 100,000 strangers in a stadium.
 
-## Why Mayday Is Taiwan's Story
+"Mayday fans" — the Mayday fan community — are not just consumers. They are a collective memory spanning generations and borders. The high school students who queued in Ximending in 1999 to buy their first album now bring their own children to Taipei Dome.
+
+## Why Mayday is Taiwan's business
 
 Mayday proved three things:
 
-First, Taiwan can export cultural products across the entire Chinese-speaking world. No Hollywood budgets required — just authentic emotion and a smart business model.
+First, Taiwan can export cultural products to the entire Mandarin-speaking world without a Hollywood-style budget, only genuine emotion and smart business models.
 
-Second, rock music in the Mandarin world can be mainstream. It can fill 100,000-seat stadiums and generate billions in revenue. In 1997, this was unimaginable.
+Second, rock music can be mainstream in the Mandarin-speaking world, filling 100,000-seat stadiums and generating billions in output — something unimaginable in 1997.
 
-Third — and this is the painful one — when cultural exports meet geopolitics, Taiwanese creators ultimately face a question with no right answer.
+Third, and most painfully: when cultural export meets geopolitics, Taiwan's creators ultimately have to face a choice with no standard answer.
 
-Mayday will keep singing. But after those four words in 2024, when Taiwanese fans listen to their songs, there's an extra layer of noise in their ears — one that the band itself probably never wanted.
+Mayday will keep singing. But after those four words in 2024, when Taiwanese people listen to their music, there's an extra layer of noise in their ears — one they may not want either.
 
 ---
 
-## Further Reading
+## Extended reading
 
-- [Taiwan Pop Music](/en/music/pop-music-and-golden-melody-awards/)
-- [Fire EX! (滅火器)](/en/music/fire-ex/)
-- [Taiwan Indie Music](/en/music/indie-music-scene/)
+- [Taiwanese pop music](/en/music/golden-melodies-legacy-taiwan-pop-music/)
+- [Firebird (band)](/en/music/fire-ex/)
+- [Taiwanese independent music](/en/music/indie-music-scene/)
 
 ## References
 
-[^1]: [Taiwan Pop Music Wiki — Mayday](http://www.tpmw.org.tw/index.php/%E4%BA%94%E6%9C%88%E5%A4%A9) — Debut album released July 7, 1999
+[^1]: [Taiwanese Popular Music Wiki "Mayday" entry](http://www.tpmw.org.tw/index.php/%E4%BA%94%E6%9C%88%E5%A4%A9) — First album released July 7, 1999
 
-[^2]: [Wikipedia — Mayday (Chinese)](https://zh.wikipedia.org/zh-hant/%E4%BA%94%E6%9C%88%E5%A4%A9) — Formed 1995, HSNU guitar club
+[^2]: [Wikipedia "Mayday"](https://zh.wikipedia.org/zh-hant/%E4%BA%94%E6%9C%88%E5%A4%A9) — 1995, guitar club at Affiliated High School of National Taiwan Normal University
 
-[^3]: [Mayday Fans Timeline](https://mayday-fans.com/1997/03/mayday-timeline/) — Member backgrounds and join order
+[^3]: [Mayday Fans Timeline](https://mayday-fans.com/1997/03/mayday-timeline/) — Member joining order and background: see original link text
 
-[^4]: [Wikipedia — Mayday (Taiwanese band)](<https://en.wikipedia.org/wiki/Mayday_(Taiwanese_band)>) — 1997 Formoz Festival, MAYDAY as Masa's BBS handle
+[^4]: [Mayday (Taiwanese band) — Wikipedia](https://en.wikipedia.org/wiki/Mayday_(Taiwanese_band) — ) — 1997 Wild Stage Live, MAYDAY was Masa's BBS handle
 
-[^5]: [Wikipedia — Guan You (劉冠佑)](https://zh.wikipedia.org/wiki/%E5%8A%89%E5%86%A0%E4%BD%91) — Joined 1999, born in Miaoli
+[^5]: [Wikipedia "Liu Guan-you (Mayday)"](<https://zh.wikipedia.org/zh-tw/%E5%8A%89%E5%86%A0%E4%BD%91_(%E4%BA%94%E6%9C%88%E5%A4%A9)>) — Born 1973 in Miaoli, graduated from Minchuan Junior High School and National Taiwan University of Arts (formerly National Taiwan College of Performing Arts), became Mayday's fourth drummer in 1999, previously drummed for Why Not band
 
-[^6]: [Taiwan Panorama — Mayday: Rock to the End](https://www.taiwan-panorama.com/) — Jonathan Lee signed them after hearing demo
+[^6]: [Taiwan Business Weekly "Mayday: Rock Until Exhausted"](https://www.taiwan-panorama.com/) — Lee Jung-sung signed them after hearing the demo
 
-[^7]: [Concert economics analysis — Sina Finance](https://finance.sina.com.cn/cj/2025-05-16/doc-inewttpf1222102.shtml) — Concert-first strategy, annual revenue >NT$3B
+[^7]: [Analysis of Mayday's concert business model — Caixin](https://finance.sina.com.cn/cj/2025-05-16/doc-inewttpf1222102.shtml) — Concert-first strategy, annual revenue exceeding NT$3 billion
 
-[^8]: [Bird's Nest concert record — CNR](https://www.cnr.cn/shanghai/tt/20240513/t20240513_526703739.shtml) — First Mandarin band at Bird's Nest 2012, 30+ shows total
+[^8]: [Mayday Bird's Nest concert record — CRI Online](https://www.cnr.cn/shanghai/tt/20240513/t20240513_526703739.shtml) — First performance at Bird's Nest in 2012, cumulative 30+ shows
 
-[^9]: [Life Unlimited Company Tour — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E5%85%AC%E5%8F%B8%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83) — 644 days, 55 cities, 4.15M attendees
+[^9]: [Life Unlimited concert tour — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%BA%BA%E7%94%9F%E7%84%A1%E9%99%90%E5%85%AC%E5%8F%B8%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83) — 644 days, 55 cities, 4.15 million attendees
 
-[^10]: [Taipei Dome 320K tickets in 10 minutes — ETtoday](https://star.ettoday.net/news/2621230) — 2023 Taipei Dome record
+[^10]: [Mayday Taipei Dome concert: 320,000 tickets sold out in 10 minutes — ETtoday](https://star.ettoday.net/news/2621230) — 2023 Dome record
 
-[^11]: [Mayday: Taiwanese rock band denies lip-sync accusations — BBC](https://www.bbc.com/zhongwen/trad/chinese-news-67657024) — 2023 controversy
+[^11]: [Mayday: Taiwanese rock band denies lip-syncing accusations — BBC Chinese](https://www.bbc.com/zhongwen/trad/chinese-news-67657024) — 2023 lip-sync controversy
 
-[^12]: [Shanghai investigation: no lip-syncing found — CNR](https://www.cnr.cn/shanghai/tt/20240513/t20240513_526703739.shtml) — May 13, 2024 result
+[^12]: [Shanghai Municipal Bureau of Culture and Tourism releases Mayday lip-sync investigation results — CRI Online](https://www.cnr.cn/shanghai/tt/20240513/t20240513_526703739.shtml) — May 13, 2024: "no evidence of lip-syncing"
 
-[^13]: [NSB chief Tsai reports lip-sync accusations linked to Chinese cultural pressure — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/4684000) — 2024 Legislature testimony
+[^13]: [National Security Bureau Director Tsai Ming-yen's report to Legislative Yuan: lip-sync accusations involve China's suppression of Taiwan's culture — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/4684000) — 2024 Legislative Yuan questioning
 
-[^14]: [Quit fandom? Disappointed? Determined? Fans after Mayday's "We Chinese" — The Initium](https://theinitium.com/article/20240606-culture-mayday-fans-react-debate) — May 24, 2024 Beijing incident
+[^14]: [Quit following? Disappointed? Steadfast? After Mayday's "we Chinese" statement — The Initium Media](https://theinitium.com/article/20240606-culture-mayday-fans-react-debate) — May 24, 2024 Beijing incident and fan reactions
 
-[^15]: [Mayday 1996 "Taiwan Independence" rally — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%BA%94%E6%9C%88%E5%A4%A9) — Early political performance
+[^15]: [Mayday's 1996 "Taiwan Should Declare Independence" event performance — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%BA%94%E6%9C%88%E5%A4%A9) — Early political-themed performance record
 
-[^16]: [Mayday 5525 Tour — Wikipedia](https://zh.wikipedia.org/zh-hant/5525_%E6%BC%94%E5%94%B1%E6%9C%83) — 2023–2026, 155+ shows, 4.86M+ attendees
+[^16]: [Mayday 5525 concert tour — Wikipedia](https://zh.wikipedia.org/zh-hant/5525_%E6%BC%94%E5%94%B1%E6%9C%83) — 2023-2026 tour cumulative shows and attendance
 
-[^17]: [Mayday "Willful" single — Bin Music](https://www.bin-music.com/) — December 2024
+[^17]: [Mayday's new single _Unruly_ released — Believe in Music](https://www.bin-music.com/) — December 2024
