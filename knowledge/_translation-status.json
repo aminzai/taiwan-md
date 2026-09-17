@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T10:59:23+08:00",
-    "zhCommitHead": "8ea269429",
+    "lastUpdated": "2026-09-17T11:07:09+08:00",
+    "zhCommitHead": "de317ab0c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 922,
+        "fresh": 923,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 42,
+        "missing": 41,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 247,
+        "missing": 246,
         "orphan": 0
       },
       "pt": {
@@ -27993,7 +27993,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/semiconductor-water-use-and-taiwan-water-resources.md",
+          "translatedFrom": "Technology/半導體用水與台灣水資源.md",
+          "sourceCommitSha": "2d46f0882",
+          "sourceContentHash": "sha256:e3dbfa5f81690467",
+          "sourceBodyHash": "sha256:45c1175dae9b247b",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/semiconductor-water-use-and-taiwan-water-resources.md",
@@ -102121,8 +102132,8 @@
           "sourceContentHash": "sha256:2e4b0f96f5527220",
           "sourceBodyHash": "sha256:6a0fcf2e49c8c6d1",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de317ab0",
+          "translationLastModified": "2026-09-17T10:59:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -148853,7 +148864,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/lin-shuangwen-incident.md",
+          "translatedFrom": "History/林爽文事件.md",
+          "sourceCommitSha": "b9634f1c4",
+          "sourceContentHash": "sha256:507fc9ae19e8102e",
+          "sourceBodyHash": "sha256:e4ff63840e8f7331",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/lin-shuangwen-incident.md",
@@ -174148,8 +174170,8 @@
           "sourceContentHash": "sha256:1888ffac8016e710",
           "sourceBodyHash": "sha256:30a2135abbfbcd4c",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de317ab0",
+          "translationLastModified": "2026-09-17T10:59:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
