@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T21:26:02+08:00",
-    "zhCommitHead": "4e7b3d85e",
+    "lastUpdated": "2026-09-17T21:30:09+08:00",
+    "zhCommitHead": "390e85970",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 925,
+        "fresh": 926,
         "stale": 80,
         "metadata_stale": 76,
-        "missing": 40,
+        "missing": 39,
         "orphan": 0
       },
       "id": {
@@ -79210,7 +79210,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -156063,8 +156074,8 @@
           "sourceContentHash": "sha256:bf74cbc86604e18b",
           "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
           "translatedAt": "2026-09-17T12:54:48.908799+00:00",
-          "translationLastCommit": "c0e0d713",
-          "translationLastModified": "2026-07-27T19:09:22+08:00",
+          "translationLastCommit": "390e8597",
+          "translationLastModified": "2026-09-17T21:26:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -162115,8 +162126,8 @@
           "sourceContentHash": "sha256:fe4751f1e66665bd",
           "sourceBodyHash": "sha256:7f19df1b99a37241",
           "translatedAt": "2026-09-17T13:25:40.934609+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "390e8597",
+          "translationLastModified": "2026-09-17T21:26:03+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -174607,8 +174618,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-17T06:43:38+08:00",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
+          "translationLastCommit": "390e8597",
+          "translationLastModified": "2026-09-17T21:26:03+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
