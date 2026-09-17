@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T06:43:12+08:00",
-    "zhCommitHead": "0fe778c6a",
+    "lastUpdated": "2026-09-17T08:35:09+08:00",
+    "zhCommitHead": "362c4fe7b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,40 +20,40 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1000,
+        "fresh": 1001,
         "stale": 75,
         "metadata_stale": 14,
-        "missing": 32,
+        "missing": 31,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 811,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 189,
+        "missing": 185,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1013,
-        "stale": 68,
-        "metadata_stale": 13,
+        "fresh": 1015,
+        "stale": 67,
+        "metadata_stale": 12,
         "missing": 27,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 999,
-        "stale": 77,
+        "fresh": 1000,
+        "stale": 76,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 985,
-        "stale": 80,
+        "fresh": 986,
+        "stale": 79,
         "metadata_stale": 19,
         "missing": 37,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 809,
+        "fresh": 811,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 255,
+        "missing": 253,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 733,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 382,
+        "missing": 381,
         "orphan": 0
       }
     },
@@ -6900,7 +6900,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-shipbuilding.md",
@@ -6963,18 +6974,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -13584,7 +13584,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/compal-electronics-global-odm-leader.md",
+          "translatedFrom": "Economy/台灣企業：仁寶電腦.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:0a05f936441dbbcf",
+          "sourceBodyHash": "sha256:aead7a66c3b88ec5",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35738,7 +35749,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/tehching-hsieh-performance-artist.md",
+          "translatedFrom": "Art/謝德慶.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:97f19e04671843c8",
+          "sourceBodyHash": "sha256:63227fedc7d1144a",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/tehching-hsieh-performance-artist.md",
@@ -40291,34 +40313,30 @@
         "ko": {
           "path": "ko/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-05-01T20:54:10+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-17T06:43:36+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-05-01T20:54:23+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-17T06:43:38+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-high-speed-rail.md",
@@ -43152,8 +43170,8 @@
           "sourceContentHash": "sha256:0fc2fc46b99c9535",
           "sourceBodyHash": "sha256:adf1bdb77e6f4d74",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ed8b5342",
+          "translationLastModified": "2026-09-17T06:43:15+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -44689,16 +44707,16 @@
         "fr": {
           "path": "fr/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T13:18:21+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
           "translationLastCommit": "e5078c7a",
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-walking-green-man.md",
@@ -69882,8 +69900,8 @@
           "sourceContentHash": "sha256:f8dc834054c6b8b9",
           "sourceBodyHash": "sha256:3d618da70d40426c",
           "translatedAt": "2026-09-16T11:57:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ed8b5342",
+          "translationLastModified": "2026-09-17T06:43:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73929,18 +73947,16 @@
         "ko": {
           "path": "ko/Politics/voting-rights-threshold-history.md",
           "translatedFrom": "Politics/投票權門檻歷史.md",
-          "sourceCommitSha": "488ba3ae2",
-          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
-          "translatedAt": "2026-07-25T21:33:42+08:00",
+          "translatedAt": "2026-09-17T06:43:36+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Politics/voting-rights-threshold-history.md",
@@ -103867,7 +103883,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/jamie-lin-ai-industry-pioneer.md",
+          "translatedFrom": "People/簡立峰.md",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jamie-lin-ai-industry-pioneer.md",
@@ -126810,7 +126837,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-16T20:14:05.390783+00:00",
+          "translatedAt": "2026-09-16T22:59:15.770804+00:00",
           "translationLastCommit": "90fc4c86",
           "translationLastModified": "2026-09-17T06:40:45+08:00",
           "inferred": false,
@@ -140297,7 +140324,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/national-railway-museum.md",
+          "translatedFrom": "History/國家鐵道博物館.md",
+          "sourceCommitSha": "94a56601b",
+          "sourceContentHash": "sha256:7335ec1d507d61c5",
+          "sourceBodyHash": "sha256:80378776e0fc23ab",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/national-railway-museum.md",
@@ -149697,7 +149735,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/chiayi-agriculture-forestry.md",
@@ -154919,7 +154968,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/alishan-forest-railway.md",
@@ -161557,7 +161617,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -174129,7 +174200,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-anime-culture.md",
+          "translatedFrom": "Culture/台灣動漫文化.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:4f2929a499d24ac8",
+          "sourceBodyHash": "sha256:87f8032127a53d42",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
