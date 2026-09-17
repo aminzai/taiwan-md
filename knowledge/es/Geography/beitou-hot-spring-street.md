@@ -2,9 +2,7 @@
 title: 'Calle de aguas termales de Beitou: de la extracción de azufre en 1697 al Museo de Aguas Termales en 2026, la misma fuente de montaña pasó por cuatro generaciones de habitantes'
 description: 'En 1697, Yu Yonghe llegó a estas montañas para extraer azufre e intercambiar tierra sulfurosa con el pueblo ketagalan; en 1896, Hirata Gengo, de Osaka, construyó en el actual número 234 de Guangming Road el Tenguan, primer hotel de aguas termales de Taiwán; en 1913 abrió el baño público de ladrillo rojo diseñado por Moriyama Matsunosuke; en 1923, el príncipe heredero Hirohito vino a bañarse una vez; en 1967, una fotografía de la revista Time enfureció a Chiang Kai-shek; en 1979, tras la abolición de la prostitución por el alcalde Lee Teng-hui, los salones de acompañantes apagaron sus luces; en 1998, el baño público de ladrillo rojo abandonado se convirtió en museo. La misma fuente de montaña humeante fue descubierta tres veces por forasteros y adaptada por cuatro generaciones de habitantes.'
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區'
 tags:
   [
     'Beitou',
@@ -29,19 +27,23 @@ tags:
     'Valle Geotérmico',
     'beitoushi',
   ]
-readingTime: 25
+subcategory: '歷史街區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
-translatedFrom: 'Geography/北投溫泉街.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fb76ac27fc6cd3ba'
-sourceBodyHash: 'sha256:a32189fb31dd0c7d'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 25
+researchReport: 'reports/research/2026-05/beitou-hot-spring.md'
+series: '歷史街區系列 (P1-8)'
 image: '/article-images/geography/beitou-hot-spring-museum-2020.webp'
 imageCredit: 'Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg'
+translatedFrom: 'Geography/北投溫泉街.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2c4fe0156269ff13'
+sourceBodyHash: 'sha256:123f0a9f012e26b6'
+translatedAt: '2026-09-17T09:23:19.467862+00:00'
 ---
 
 # Calle de aguas termales de Beitou: de la extracción de azufre en 1697 al Museo de Aguas Termales en 2026, la misma fuente de montaña pasó por cuatro generaciones de habitantes
@@ -128,24 +130,24 @@ El punto final era el “apeadero Xinbeitou”, más tarde estación Xinbeitou, 
 
 > **📝 Nota curatorial:** Puedes entender el baño público de 1913 y el ramal Xinbeitou de 1916 como dos piezas de un mismo sistema. El edificio de Moriyama Matsunosuke era, en esencia, **una máquina material de propaganda colonial**: empaquetaba una fuente de montaña que los japoneses no conocían como una marca compuesta por “el baño público más grande de Asia Oriental”, “el primer ferrocarril turístico de Taiwán”, “a 20 minutos de Taipéi” y “uso de la familia imperial”, algo que ocurriría después. La marca funcionó: hizo que los viajeros de Japón supieran que en la colonia de Taiwán había un destino termal llamado Beitou. Pero esa marca no fue diseñada para el pueblo ketagalan ni para los colonos han llegados bajo los Qing. **Fue diseñada para los viajeros del Imperio japonés**. Una vez levantado en 1913 aquel baño de ladrillo rojo, esta calle se convirtió en una sala de exhibición del imperio.
 
-## 1923, el príncipe heredero vino a bañarse una vez
+## Veinte años de posguerra: nakashi, salones de acompañantes y ejército estadounidense
 
-![Fotografía documental de la visita del príncipe heredero Hirohito al baño público de aguas termales de Beitou el 25 de abril de 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
-_Fotografía documental de la visita del príncipe heredero Hirohito al baño público de Beitou en 1923. Photo: Public domain (documento de preguerra, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Prince_Hirohito%27s_visit_at_Hokutō_Public_Bathhouse_1923.jpg)._
+![Fotografía del registro de la visita del Príncipe Heredero Hirohito a los baños públicos de Beitou en abril de 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
+_Registro fotográfico de la visita del Príncipe Heredero Hirohito a los baños públicos de Beitou en 1923. Foto: Dominio público (documentos anteriores a la guerra, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown%20Prince%20Hirohito%27s%20visit%20at%20Hokutō%20Public%20Bathhouse%201923.jpg)._
 
-En abril de 1923, año 12 de Taisho, el **príncipe heredero Hirohito**, más tarde emperador Showa, visitó Taiwán durante 12 días como regente en representación del emperador Taisho[^6]. Fue la primera visita de la familia imperial japonesa a la colonia de Taiwán.
+En abril de 1923 (Año Taishō 12), el **Príncipe Heredero Hirohito** (posteriormente Emperador Shōwa) visitó Taiwán como regente, durante una estancia de 12 días[^6]. Esta fue la primera visita de la realeza japonesa a la colonia de Taiwán.
 
-El 25 de abril, su itinerario incluía Caoshan, actual Yangmingshan, y Beitou. Para recibirlo, la prefectura de Taipéi había empezado reformas el año anterior: en el segundo piso del baño público de aguas termales de Beitou **se añadió una “sala de descanso imperial” de más de 30 ping**, un espacio reservado al príncipe heredero, en el lugar que hoy ocupa la sala audiovisual del segundo piso del museo[^6].
+El día 25 de abril, el itinerario de Hirohito incluía visitar Cao Shan (actual Yangmingshan) y Beitou. Para recibirlo, la oficina del gobierno de Taipéi había realizado renovaciones anticipadas un año antes: en el segundo piso de los baños públicos de Beitou se **añadieron más de 30 pings a un "salón de descanso imperial"**, que era el espacio privado para el Príncipe Heredero, ubicado donde hoy está la sala de cine del Museo Termal[^6].
 
-Ese día, Hirohito primero visitó el baño público y luego fue hasta el arroyo Beitou para ver el beitoushi, el mineral descubierto 18 años antes por Okamoto Yohachiro, que ya era un orgullo académico del Imperio japonés[^11]. Para que el príncipe heredero pudiera caminar sobre el arroyo Beitou y observar el beitoushi, se colocaron especialmente sobre la segunda cascada unas **tobiishi**, piedras de paso en japonés[^20].
+Hirohito visitó primero los baños públicos y luego caminó hacia el arroyo de Beitou para ver las "Piedras de Beitou", un mineral descubierto por Okamoto Yōtarō 18 años antes, que ya era un orgullo académico del Imperio japonés[^11]. Para permitir que el Príncipe Heredero caminara a lo largo del arroyo de Beitou y observara las Piedras de Beitou, se colocaron especialmente los **"guijarros voladores" (とびいし)** (piedras para pisar en japonés) sobre la segunda cascada[^20].
 
-En 1934, once años después, la población levantó junto a la segunda cascada del arroyo Beitou una **“estela conmemorativa del cruce de Su Alteza el Príncipe Heredero”** para recordar ese día[^20]. Tras la guerra, la estela estuvo a punto de ser destruida, pero por fortuna se conservó; hoy sigue en el jardín del baño Takinoyu[^20].
+En 1934 (11 años después), la gente erigió un **"Monumento conmemorativo del cruce imperial del Príncipe Heredero"** junto al segundo arroyo de Beitou[^20]. Este monumento casi fue destruido en la posguerra, pero afortunadamente se conservó y hoy se encuentra en el jardín del baño Takinoyu[^20].
 
-Después de aquel baño de Hirohito, la reputación de Beitou como destino “certificado por la familia imperial” se difundió por Japón. Durante las décadas de 1920 y 1930 siguieron apareciendo más hoteles en Beitou: el **hotel Jiashan**, construido en 1921, era el edificio japonés de dos plantas enteramente de madera ubicado a mayor altura y con precios más altos de la zona de Xinbeitou, y es el único de su tipo que se conserva en Taiwán. Tras la guerra se convirtió en la Casa de Huéspedes Jiashan del Ministerio de Relaciones Exteriores; en 1983, Chang Chun-ming, de San Fu Chemical, lo recibió y lo transformó en la Casa de Arte Popular Taiwanés, actual **Museo Cultural de Beitou**[^21]. **Takinoyu**, construido en 1907, siguió operando como baño público; tras la guerra conservó el nombre hasta hoy, recibió su primera gran renovación en 2016 y reabrió en 2017[^22]. El templo Puji siguió manteniendo el culto a la Guanyin protectora de las aguas.
+Después de que Hirohito disfrutara de los baños termales, la reputación de "certificación imperial" de Beitou se extendió por Japón. A lo largo de las décadas de 1920 y 1930, Beitou vio crecer más hoteles: el **Hotel Jiasan**, construido en 1921, era un edificio japonés de dos pisos de madera pura, la construcción más alta y de mayor categoría del área de Xinbeitou en ese momento; es uno de los pocos edificios de este tipo que sobrevivió a Taiwán (después fue convertido en el alojamiento del Ministerio de Asuntos Exteriores, y en 1983 por Chang Chun-ming de Chemco, se convirtió en la Casa de Antigüedades Folkloristas de Taiwán, siendo hoy el **Museo Cultural de Beitou**)[^21]. El **Takinoyu**, construido en 1907, continuó operando como un baño público (renombrado después de la guerra y continuando hasta hoy; fue renovado por primera vez en 2016 y reabierto en 2017)[^22]. El Templo Puji todavía mantiene las ofrendas a Guan Yin.
 
-¿Cómo era Beitou en aquel período? Gente adinerada de Japón venía de luna de miel; compañías comerciales organizaban banquetes; oficiales militares acudían a recuperarse; trabajadores asalariados taiwaneses, de vez en cuando, eran invitados a acompañar. Tras el estallido de la Segunda Guerra Sino-Japonesa en 1937, los hoteles de Beitou empezaron a recibir soldados japoneses, y el hotel Jiashan fue requisado durante un tiempo por el ejército como “club de oficiales japoneses”[^21]. Al final de la guerra, pilotos kamikaze eran enviados a Beitou a festejar durante la semana previa a sus misiones, según relatos orales de ancianos locales de Beitou[^21].
+¿Cómo era Beitou en esa época? Los ricos locales japoneses venían para la luna de miel, las casas comerciales organizaban banquetes, los oficiales militares venían a recuperarse, y ocasionalmente se invitaba a miembros del personal taiwanés como acompañantes. Después del estallido de la Guerra Sino-Japonesa en 1937, los hoteles de Beitou comenzaron a recibir soldados japoneses; el Hotel Jiasan fue requisado temporalmente por las fuerzas armadas para ser un "Club Militar Japonés"[^21]. Al final de la guerra, se decía (según ancianos locales de Beitou) que los escuadrones kamikaze eran enviados a Beitou para una fiesta antes de su misión[^21].
 
-En agosto de 1945, Japón se rindió. Todos los japoneses regresaron a su país, dejando una calle termal vacía y un grupo de taiwaneses que no sabía qué vendría después.
+En agosto de 1945, Japón se rindió y todos los japoneses regresaron a su país, dejando una calle termal vacía con un grupo de taiwaneses que no sabían qué pasaría después.
 
 ## Veinte años de posguerra: nakashi, salones de acompañantes y ejército estadounidense
 
