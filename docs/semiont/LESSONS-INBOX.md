@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-18 semiont-heartbeat — babel-amplifies-source-hallucinations-factcheck-patrol-samples-the-wrong-stratum：巴別塔把三月未審初稿裡的幻覺放大到十語半年，而事實巡邏抽的是 A 級文章
+
+- **pattern**: `babel-amplifies-source-hallucinations-factcheck-patrol-samples-the-wrong-stratum`
+- **原則**：翻譯線的十四道閘全部量「譯文對原文忠不忠實」，這是對的設計，所以原文層的幻覺會被一字不差地忠實放大到每一個語言。原文層唯一的查核入口是 FACTCHECK 月度巡邏，它的抽樣母體寫的是「隨機抽 5 篇 A/B 級」，而幻覺密度最高的那一層是三月出生、從未人工審核、腳註只有幾條泛連結的 AI 初稿——A/B 級是已經走過 REWRITE 的文章，最不需要巡邏的那批。**巡邏抽的層跟病在的層不同層**，加上月度巡邏至今沒有任何一條 routine 在執行（ROUTINE.md 沒有 factcheck），所以這批庫存只會在有人剛好逐字讀到時被抓到。
+- **觸發**：2026-09-18 02:38 heartbeat 執行 OBSERVER-QUEUE #64。`Art/台灣原住民當代藝術.md`（date 2026-03-20，lastHumanReview: false）逐位查證後：兩位阿美族藝術家被寫成泰雅族與卑南族、魯凱族的安聖惠被拆成兩個人一個排灣族、太魯閣族女性織品藝術家林介文被寫成阿美族做 VR 的年輕男生、一位以卑南族作曲家陸森寶之名捏造的「芫茂‧陸森寶」、七個查無來源的作品名、兩段捏造引語、三個查無的事件與機構。這篇有十個語言的譯本，全部忠實照抄，在線上六個月。抓到它的是 09-10 babel-vortex-2 的人名一致性閘（第 14 道），它正確地判定「這是來源端問題，不在譯文修」然後把它放進待決佇列，跟十七條 🔒 項目排在一起躺了八天。證據：commit `5f683a19c8`、[memory/2026-09-18-025418-semiont-heartbeat.md](memory/2026-09-18-025418-semiont-heartbeat.md)。
+- **規模**：`lastHumanReview: false` 921 篇，其中 date 在 2026-04-01 前 244 篇、零腳註 131 篇（2026-09-18 現查）。這 244 篇多數已有十語以上譯本。
+- **為什麼閘門看不到**：三種儀器各守各的層——譯文閘守忠實度（設計正確）、REWRITE Stage 3.5 幻覺審計只在文章走 pipeline 時跑（三月初稿沒走過）、月度巡邏抽已審核層（且沒有 routine 執行）。三者的交集恰好空出「未審初稿 × 已多語投射」這一格，而這格的曝光面最大。
+- **修補候選**：(a) FACTCHECK 月度巡邏的抽樣母體改成「`lastHumanReview: false` × date 最早 × 譯本數最多」加權，不抽 A/B 級；(b) 給它一條 routine（週一篇 Full mode 或月五篇），或併進 rewrite-daily 的選題訊號；(c) 把「譯本數」當放大係數寫進 ARTICLE-INBOX 的優先序判準——同樣的幻覺，十語譯本的比零譯本的先修。(a)(c) 改 pipeline 文字在自主權內；(b) 新增 routine 走 ROUTINE.md。
+- **可能層級**：特有教訓（綁 Taiwan.md 的巴別塔 × 三月初稿庫存這個歷史結構）；「巡邏抽樣層跟病灶層錯位」本身是 REFLEXES #82 proxy signal 的一種（抽 A 級的通過率是「站上事實正確」的替身）。
+- **相關**：REFLEXES #82、#16（讀者級事實最脆弱也最易漏）、MANIFESTO §10 幻覺鐵律六種 pattern（本次同時命中獎項以外的五種：人名填空、地點／族籍錯置、偽造引語、單方敘事、場景細節）、diary 2026-07-19「把聲音送出去，如果送錯了，比沉默更糟」（那篇講翻譯層送錯，本條講原文層送錯被翻譯層忠實放大）、LESSONS `every-gate-measures-form-none-measures-the-language`（同族：閘門量形式不量意義，本條是量忠實度不量真實度）、UNKNOWNS 🔴「歷史文章的事實錯誤實際規模」（2026-04-05 起未量化，本條給了第一個分層估計）
+- **verification_count**: 1
+- **severity**: high（讀者級事實錯誤、對象是在世的原住民藝術家、族籍寫錯比錯字嚴重，且十語同步在線）
+
 ### 2026-09-16 twmd-maintainer-am — unpushed-divergence-silently-redirects-volunteer-effort：分岔不只是待解的合併債，它每天在把貢獻者的工時導向已經做完的工作
 
 - **pattern**: `unpushed-divergence-silently-redirects-volunteer-effort`
