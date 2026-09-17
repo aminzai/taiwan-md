@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T09:45:08+08:00",
-    "zhCommitHead": "134883b49",
+    "lastUpdated": "2026-09-17T10:35:17+08:00",
+    "zhCommitHead": "f15c151ab",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1001,
-        "stale": 75,
+        "fresh": 1002,
+        "stale": 74,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 920,
+        "fresh": 922,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 44,
+        "missing": 42,
         "orphan": 0
       },
       "id": {
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 979,
+        "fresh": 978,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 63,
+        "missing": 64,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 818,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 258,
+        "missing": 256,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 944,
+        "fresh": 945,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 126,
+        "missing": 125,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 734,
+        "fresh": 735,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 380,
+        "missing": 379,
         "orphan": 0
       }
     },
@@ -26915,7 +26915,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-audio-industry-development.md",
+          "translatedFrom": "Technology/台灣音響產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:807f358c49a8e2a5",
+          "sourceBodyHash": "sha256:ed41f6caa1b5d8ba",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57070,7 +57081,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-disaster-volunteer-culture.md",
@@ -71414,7 +71436,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/mikado-pheasant.md",
@@ -74244,8 +74277,8 @@
           "sourceContentHash": "sha256:0f10426fa5e4f016",
           "sourceBodyHash": "sha256:f73fed3867526ad3",
           "translatedAt": "2026-09-16T11:57:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f15c151a",
+          "translationLastModified": "2026-09-17T09:45:11+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -90755,7 +90788,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-09-17T06:43:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -111770,7 +111814,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-hsing-yu.md",
+          "translatedFrom": "People/陳幸妤.md",
+          "sourceCommitSha": "fa7059f7a",
+          "sourceContentHash": "sha256:84ffac689843ddd3",
+          "sourceBodyHash": "sha256:98cbd8f687f836db",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -129502,7 +129557,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:887c3be39222e6b9",
+          "sourceBodyHash": "sha256:140c52cfad734a21",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/red-yeast-rice.md",
@@ -155171,18 +155237,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-17T06:43:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -174719,16 +174774,16 @@
         "en": {
           "path": "en/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-06-16T17:19:04Z",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7f4fc66b36800cb9",
+          "sourceBodyHash": "sha256:3e6fa91c9ef25405",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "740160f9",
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/taiwan-furry-culture.md",
