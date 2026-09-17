@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T20:00:05+08:00",
-    "zhCommitHead": "76c795cf2",
+    "lastUpdated": "2026-09-17T20:42:50+08:00",
+    "zhCommitHead": "419c98e35",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 173,
+        "missing": 172,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1021,
-        "stale": 63,
+        "fresh": 1022,
+        "stale": 62,
         "metadata_stale": 11,
         "missing": 26,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 994,
-        "stale": 76,
+        "fresh": 995,
+        "stale": 75,
         "metadata_stale": 16,
         "missing": 35,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 829,
+        "fresh": 830,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 235,
+        "missing": 234,
         "orphan": 0
       },
       "pt": {
@@ -79316,7 +79316,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/idiot-princess.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/idiot-princess.md",
@@ -98660,18 +98671,16 @@
         "fr": {
           "path": "fr/People/liu-an-ting-teach-for-taiwan.md",
           "translatedFrom": "People/劉安婷.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:f5a74a02db786491",
-          "sourceBodyHash": "sha256:8514a8a697807f6e",
+          "sourceCommitSha": "75479a4e",
+          "sourceContentHash": "sha256:3dee896f2b15c3b8",
+          "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-04-14T19:14:30+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/liu-an-ting-teach-for-taiwan.md",
@@ -156013,8 +156022,8 @@
           "sourceContentHash": "sha256:bf74cbc86604e18b",
           "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
           "translatedAt": "2026-09-17T11:59:40.361646+00:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "419c98e3",
+          "translationLastModified": "2026-09-17T20:00:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -157500,8 +157509,8 @@
           "sourceContentHash": "sha256:2c4fe0156269ff13",
           "sourceBodyHash": "sha256:123f0a9f012e26b6",
           "translatedAt": "2026-09-17T09:48:25.409930+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "419c98e3",
+          "translationLastModified": "2026-09-17T20:00:05+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -162063,18 +162072,16 @@
         "ko": {
           "path": "ko/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:ae83f3951e0a47fc",
-          "sourceBodyHash": "sha256:d3fc69c2026ce4f3",
-          "translatedAt": "2026-06-16T16:38:41Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:fe4751f1e66665bd",
+          "sourceBodyHash": "sha256:7f19df1b99a37241",
+          "translatedAt": "2026-09-17T12:33:38.561473+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/chiayi-city.md",
@@ -164426,7 +164433,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/44-south-village.md",
+          "translatedFrom": "Geography/四四南村.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
+          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/44-south-village.md",
