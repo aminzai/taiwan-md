@@ -272,18 +272,41 @@ echo ""
 # REFLEXES #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了。
 # dashboard-analytics 另驗 lastUpdated；mtime 只能證明檔案被碰過，不能證明 fresh
 # sense cache 最終留在檔內。若 prebuild / parallel actor 把內容覆回舊快照，當場重生。
+# lastUpdated 是 UTC 時戳，這裡用「齡 ≤ 24h」判斷而不是跟本機日期字串比對：
+# 台北 00:00-08:00 之間 UTC 還是前一天，日期字串永遠不等，data-refresh-am 06:13
+# 每輪都會撞假警報（2026-09-08 / 09-09 / 09-18 三次確認後改尺）。
 echo -e "${GRN}[11/14]${RST} verify dashboard freshness..."
 TODAY=$(date +%Y-%m-%d)
 STALE_COUNT=0
 STALE_LIST=""
 
 ANALYTICS_FILE="public/api/dashboard-analytics.json"
-ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
-if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
-  echo -e "${YEL}⚠️  dashboard-analytics content stale ($ANALYTICS_DATE) — rerun sense-cache merge${RST}"
+# 印出 lastUpdated 的日期供訊息用；齡判斷另由 analytics_age_ok 做
+analytics_date() {
+  python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$1" 2>/dev/null || true
+}
+# exit 0 = lastUpdated 距現在 ≤ 24h（含時區換算）；缺欄位 / 解析失敗 = exit 1
+analytics_age_ok() {
+  python3 - "$1" <<'PY'
+import json, sys
+from datetime import datetime, timezone
+try:
+    raw = json.load(open(sys.argv[1])).get("lastUpdated") or ""
+    ts = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    if ts.tzinfo is None:
+        ts = ts.replace(tzinfo=timezone.utc)
+    age_h = (datetime.now(timezone.utc) - ts).total_seconds() / 3600
+    sys.exit(0 if 0 <= age_h <= 24 else 1)
+except Exception:
+    sys.exit(1)
+PY
+}
+ANALYTICS_DATE=$(analytics_date "$ANALYTICS_FILE")
+if ! analytics_age_ok "$ANALYTICS_FILE"; then
+  echo -e "${YEL}⚠️  dashboard-analytics content stale (lastUpdated ${ANALYTICS_DATE:-missing}，齡 > 24h) — rerun sense-cache merge${RST}"
   python3 scripts/tools/generate-dashboard-analytics.py >/tmp/dashboard-analytics-step11.log 2>&1 || true
-  ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
-  if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
+  ANALYTICS_DATE=$(analytics_date "$ANALYTICS_FILE")
+  if ! analytics_age_ok "$ANALYTICS_FILE"; then
     STALE_COUNT=$((STALE_COUNT + 1))
     STALE_LIST="$STALE_LIST   ❌ dashboard-analytics.json — lastUpdated ${ANALYTICS_DATE:-missing}\n"
   else
