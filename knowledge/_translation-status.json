@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T05:10:27+08:00",
-    "zhCommitHead": "decd73b90",
+    "lastUpdated": "2026-09-18T05:15:57+08:00",
+    "zhCommitHead": "6f3f64402",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       },
       "ko": {
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 999,
+        "fresh": 1000,
         "stale": 71,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 35,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 934,
-        "stale": 79,
+        "fresh": 935,
+        "stale": 78,
         "metadata_stale": 76,
         "missing": 32,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 755,
+        "fresh": 756,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 359,
+        "missing": 358,
         "orphan": 0
       }
     },
@@ -29818,18 +29818,16 @@
         "vi": {
           "path": "vi/Technology/taiwan-robotics-industry.md",
           "translatedFrom": "Technology/台灣機器人產業.md",
-          "sourceCommitSha": "384126544",
-          "sourceContentHash": "sha256:727c897f10782c2b",
-          "sourceBodyHash": "sha256:3b63599a42d7872a",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:4702dd502f640592",
+          "sourceBodyHash": "sha256:2025d0771f75493c",
+          "translatedAt": "2026-09-17T21:12:21.181860+00:00",
           "translationLastCommit": "4ef5c8b2",
           "translationLastModified": "2026-08-09T11:56:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-robotics-industry.md",
@@ -32729,8 +32727,8 @@
           "sourceContentHash": "sha256:cc5a95c84301cdb2",
           "sourceBodyHash": "sha256:584bf91da94df29e",
           "translatedAt": "2026-09-18T00:53:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6f3f6440",
+          "translationLastModified": "2026-09-18T05:10:28+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -50379,8 +50377,8 @@
           "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
           "sourceBodyHash": "sha256:1640a85ec53af696",
           "translatedAt": "2026-09-18T00:53:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6f3f6440",
+          "translationLastModified": "2026-09-18T05:10:28+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -96848,7 +96846,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/liao-tianding.md",
+          "translatedFrom": "People/廖添丁.md",
+          "sourceCommitSha": "28304057a",
+          "sourceContentHash": "sha256:e0f89a1113cc2a1d",
+          "sourceBodyHash": "sha256:f4fed166bea776f5",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106774,18 +106783,16 @@
         "fr": {
           "path": "fr/People/chen-shui-bian-controversial-president.md",
           "translatedFrom": "People/陳水扁.md",
-          "sourceCommitSha": "eae11d139",
-          "sourceContentHash": "sha256:9e6735e344733c2b",
+          "sourceCommitSha": "1389f8ce7",
+          "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
-          "translatedAt": "2026-07-25T21:33:44+08:00",
+          "translatedAt": "2026-09-18T00:53:04+08:00",
           "translationLastCommit": "28cefa74",
           "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/chen-shui-bian-controversial-president.md",
@@ -148421,7 +148428,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/xiluo-bridge.md",
+          "translatedFrom": "History/西螺大橋.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceBodyHash": "sha256:0367fe0da1bfd005",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/xiluo-bridge.md",
