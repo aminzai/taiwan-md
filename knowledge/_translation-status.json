@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T22:25:37+08:00",
-    "zhCommitHead": "793a42e09",
+    "lastUpdated": "2026-09-17T23:34:13+08:00",
+    "zhCommitHead": "e9e2eb7f7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1010,
-        "stale": 66,
+        "fresh": 1011,
+        "stale": 65,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1027,
-        "stale": 58,
+        "fresh": 1029,
+        "stale": 56,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1008,
-        "stale": 69,
+        "fresh": 1009,
+        "stale": 68,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 926,
+        "fresh": 928,
         "stale": 80,
         "metadata_stale": 76,
-        "missing": 39,
+        "missing": 37,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 980,
+        "fresh": 981,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 902,
+        "fresh": 903,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 162,
+        "missing": 161,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 367,
+        "missing": 366,
         "orphan": 0
       }
     },
@@ -31769,8 +31769,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-09-17T14:03:28.663130+00:00",
-          "translationLastCommit": "15073a21",
-          "translationLastModified": "2026-07-30T23:35:43+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -37097,7 +37097,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/contemporary-taiwanese-literature.md",
+          "translatedFrom": "Art/當代台灣文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:c4bd59992f27e4d2",
+          "sourceBodyHash": "sha256:61a341569aa8edad",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -49153,8 +49164,8 @@
           "sourceContentHash": "sha256:31f2d67654f5ca72",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T12:53:08.953486+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -54831,8 +54842,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-17T13:24:08.023791+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -73048,16 +73059,16 @@
         "en": {
           "path": "en/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:49afbaec6d9c06b3",
+          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "3d8d5e7e",
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/taiwanese-black-bear.md",
@@ -79386,7 +79397,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/idiot-princess.md",
+          "translatedFrom": "People/白癡公主.md",
+          "sourceCommitSha": "4c2e1c233",
+          "sourceContentHash": "sha256:57f32564152ce686",
+          "sourceBodyHash": "sha256:0482ecaa622a6229",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/idiot-princess.md",
@@ -99342,30 +99364,30 @@
         "ko": {
           "path": "ko/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-06-12T00:53:42+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-17T06:43:36+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-05-02T08:50:00+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-17T06:43:38+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/pa-chiung-political-youtuber.md",
@@ -100888,18 +100910,16 @@
         "ko": {
           "path": "ko/People/howhow.md",
           "translatedFrom": "People/Howhow.md",
-          "sourceCommitSha": "f5975a22",
-          "sourceContentHash": "sha256:c742af5d03f4c9ab",
-          "sourceBodyHash": "sha256:a358cb4047d78691",
-          "translatedAt": "2026-07-16T00:48:40+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:25c8ad9313478f48",
+          "sourceBodyHash": "sha256:d75a906a8210150b",
+          "translatedAt": "2026-09-17T15:20:13.301410+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/howhow.md",
@@ -114312,7 +114332,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tie-niu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-17T06:43:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -115965,7 +115996,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lu-jie.md",
+          "translatedFrom": "People/呂捷.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:67c5ad771d308cd6",
+          "sourceBodyHash": "sha256:6ab4993ddc7e3736",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lu-jie.md",
@@ -149517,8 +149559,8 @@
           "sourceContentHash": "sha256:bee6db6cebb342a7",
           "sourceBodyHash": "sha256:cf2cbcf164430410",
           "translatedAt": "2026-09-17T14:25:14.885553+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -162139,8 +162181,8 @@
           "sourceContentHash": "sha256:fe4751f1e66665bd",
           "sourceBodyHash": "sha256:7f19df1b99a37241",
           "translatedAt": "2026-09-17T12:33:38.561473+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -165592,8 +165634,8 @@
           "sourceContentHash": "sha256:2fb0e2b29a78f122",
           "sourceBodyHash": "sha256:5db325d228abad28",
           "translatedAt": "2026-09-17T13:49:49.540645+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "e9e2eb7f",
+          "translationLastModified": "2026-09-17T22:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -178954,7 +178996,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-lantern-festival.md",
+          "translatedFrom": "Culture/燈會.md",
+          "sourceCommitSha": "98d54f4a0",
+          "sourceContentHash": "sha256:767425123798426e",
+          "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
+          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-lantern-festival.md",
