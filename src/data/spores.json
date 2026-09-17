@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-16T06:41:49+08:00",
+  "_generated": "2026-09-18T06:49:56+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -942,17 +942,17 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DXGuAudkbuC",
       "template": "A2 首尾呼應",
       "metrics": {
-        "views": 300000,
-        "likes": 16000,
-        "reposts": 689,
-        "comments": 151,
-        "shares": 329
+        "views": 350000,
+        "likes": 31000,
+        "reposts": 1121,
+        "comments": 225,
+        "shares": 529
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-05-08",
-        "batch": "batch-historical-2026-05-08-migration",
-        "source": "harvest+backfill"
+        "dPlus": 157,
+        "harvestDate": "2026-09-18 06:45",
+        "batch": "batch-2026-09-18-2-spores",
+        "source": "harvest"
       },
       "history": [
         {
@@ -974,6 +974,16 @@
           "reposts": null,
           "comments": null,
           "shares": null
+        },
+        {
+          "dPlus": 157,
+          "harvestDate": "2026-09-18 06:45",
+          "batch": "batch-2026-09-18-2-spores",
+          "views": 350000,
+          "likes": 31000,
+          "reposts": 1121,
+          "comments": 225,
+          "shares": 529
         }
       ]
     },
@@ -5981,16 +5991,16 @@
       "template": "B 冷知識型 + 問題入口（紀實文學 voice，從讀者按讚那一下的溫度進）",
       "metrics": {
         "views": 13000,
-        "likes": 1513,
-        "reposts": 403,
-        "comments": 24,
-        "shares": 95
+        "likes": 1659,
+        "reposts": 443,
+        "comments": 29,
+        "shares": 101
       },
       "metricsAsOf": {
-        "dPlus": 9,
-        "harvestDate": "2026-06-14 06:30",
-        "batch": "batch-2026-06-14-15-spores",
-        "source": "harvest"
+        "dPlus": 105,
+        "harvestDate": "2026-09-18 06:45",
+        "batch": "batch-2026-09-18-2-spores",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -6022,6 +6032,16 @@
           "reposts": 403,
           "comments": 24,
           "shares": 95
+        },
+        {
+          "dPlus": 105,
+          "harvestDate": "2026-09-18 06:45",
+          "batch": "batch-2026-09-18-2-spores",
+          "views": null,
+          "likes": 1659,
+          "reposts": 443,
+          "comments": 29,
+          "shares": 101
         }
       ]
     },

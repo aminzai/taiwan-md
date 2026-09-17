@@ -365,6 +365,18 @@
       "source": "harvest"
     },
     {
+      "spore": 29,
+      "dPlus": 157,
+      "at": "2026-09-18 06:45",
+      "batch": "batch-2026-09-18-2-spores",
+      "views": 350000,
+      "likes": 31000,
+      "reposts": 1121,
+      "comments": 225,
+      "shares": 529,
+      "source": "chrome_mcp_threads"
+    },
+    {
       "spore": 30,
       "dPlus": null,
       "at": null,
@@ -4191,6 +4203,18 @@
       "comments": 24,
       "shares": 95,
       "source": "harvest"
+    },
+    {
+      "spore": 124,
+      "dPlus": 105,
+      "at": "2026-09-18 06:45",
+      "batch": "batch-2026-09-18-2-spores",
+      "views": null,
+      "likes": 1659,
+      "reposts": 443,
+      "comments": 29,
+      "shares": 101,
+      "source": "chrome_mcp_threads"
     },
     {
       "spore": 125,
