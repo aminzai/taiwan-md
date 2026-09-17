@@ -2,6 +2,7 @@
 title: 'Stanley Yen: de cartero en la sala de correos al padrino del turismo, y luego lo dejó todo'
 description: 'Solo bachillerato. A los 23 años repartía correo en American Express. Cinco años después era gerente general. Cinco años más tarde se convirtió en presidente de uno de los mejores hoteles de Asia, donde inventó un sistema de servicio que lograba llamar a los huéspedes por su nombre antes de que bajaran del coche. Un libro superventas con 600.000 ejemplares vendidos. A los 62 años renunció para fundar una escuela rural en Taitung; al año siguiente le extirparon un riñón. A los 78 años construyó un complejo artístico junto al Pacífico.'
 date: 2026-04-06
+category: 'People'
 tags:
   [
     'Stanley Yen',
@@ -18,12 +19,16 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
-translatedFrom: People/嚴長壽.md
-sourceCommitSha: 'df2e7558'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-06-16T17:14:11Z'
-category: People
+sporeLinks:
+  [
+    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
+    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
+  ]
+translatedFrom: 'People/嚴長壽.md'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-17T20:53:52.292672+00:00'
 ---
 
 # Stanley Yen: de cartero en la sala de correos al padrino del turismo, y luego lo dejó todo
@@ -122,31 +127,31 @@ Reveló el episodio en el epílogo de _La educación debería ser diferente_, pu
 
 El 25 de octubre de 2011, recibió la Orden de la Estrella Brillante de tercera clase en la Oficina Presidencial[^22]. Un chico de la sala de correos con bachillerato había llegado a la Presidencia.
 
-## Los 27 metros de Jin Zun
+## El muro de cristal de 27 metros
 
-El 15 de marzo de 2025, en Jin Zun, Taitung, se inauguró el Centro de Arte Paul Chiang (江賢二藝術園區)[^23].
+El 15 de marzo de 2025, en Jīnzhuān, Taitung. Inauguración del Parque Artístico Jiang Xian-er[^23].
 
-Fue un proyecto que Yen impulsó durante doce años. Paul Chiang es uno de los pintores abstractos más importantes de Taiwán, que se estableció en Taitung en la última etapa de su vida. Yen lo convenció de construir un complejo artístico junto al mar en Jin Zun —no en Taipéi, no en ninguna zona comercial, sino en la costa oriental más remota de Taiwán—.
+Esta fue una iniciativa impulsada por Yan Chang-hsiung durante doce años. Jiang Xian-er es uno de los artistas abstractos más importantes de Taiwán, y en sus años finales se estableció en Taitung. Yan convenció a Jiang para que construyera un parque artístico junto al mar en Jīnzhuān — no en Taipéi, no en ningún distrito comercial, sino en la costa este más alejada de Taiwán.
 
-El arquitecto Lin Youhan diseñó cinco edificios dispuestos siguiendo la ladera de la cordillera costera. El más alto, el "Pabellón Chenghan" (承翰館), mide 27 metros y su forma es una ampliación veinte veces mayor de una escultura de acero de Paul Chiang[^24]. La fachada es de hormigón visto y la cubierta de acero corten —un material que se oxida con el tiempo y adquiere un tono rojizo, como si el edificio envejeciera junto con la tierra de Taitung—. El complejo incluye un jardín de cactus, un corredor junto al lago de plata y un café llamado "Debussy".
+El arquitecto Lin You-han diseñó cinco edificios, dispuestos a lo largo de la ladera costera. El más alto, el "Edificio Cheng-han", mide 27 metros de altura y su forma es una ampliación 20 veces de una escultura de hierro de Jiang Xian-er[^24]. Las paredes externas utilizan hormigón armado con acabado pulido, y el techo está cubierto de acero resistente a la intemperie — un tipo de acero que con el tiempo se oxida y gradualmente adquiere un tono rojizo marrón, como si el edificio estuviera envejeciendo junto con la tierra de Taitung. Dentro del parque hay un jardín de cactus, un paseo por el lago de plata y una cafetería llamada "Debussy".
 
-Yen ejerce como director del centro. Su visión es conectar Chihshang, Jin Zun y otros puntos de la costa oriental en un polo artístico que pueda equipararse con el Festival de Arte del Mar Interior de Seto en Japón[^24].
+Yan Chang-hsiung es el director del parque. Su visión es conectar los sitios de Chishiang, Jīnzhuān y otras ubicaciones a lo largo de la costa este para crear un núcleo artístico, inspirándose en el Festival de Arte del Mar Interior de Setouchi en Japón[^24].
 
-78 años. Un riñón menos. Seguía haciendo trabajo de cimentación en Taitung.
+78 años. Le falta un riñón. Aún está trabajando en proyectos de infraestructura en Taitung.
 
-"Solo quiero que Taiwán sea mejor. Alguien tiene que hacer el trabajo de cimentación."[^4]
+«Solo quiero que Taiwán esté bien; alguien tiene que hacer el trabajo de infraestructura.»[^4]
 
-Algunos dicen que es un idealista. Otros, que es un hombre exitoso que habla sin conocer el dolor. Quizás ambas cosas sean ciertas. Pero sin importar cómo lo veas, hay algo que no admite discusión: este hombre dedicó cada día de su segunda mitad de vida al rincón de Taiwán menos iluminado por los reflectores, haciendo el trabajo más poco glamuroso de todos: la cimentación.
+Algunos dicen que es un idealista. Otros dicen que es un hombre exitoso que habla de pie sin dolerle la cintura. Tal vez ambas cosas sean ciertas. Pero sin importar cómo lo veas, hay algo indiscutible: esta persona ha dedicado cada día de su segunda mitad de vida, en las esquinas más olvidadas de Taiwán, realizando el trabajo menos atractivo pero más fundamental.
 
-Aquellas botas de lluvia largas frente a las aulas siguen ahí. El arroz sigue plantándose. La casa del árbol sigue en construcción.
+Las botas de goma largas junto a las aulas aún están allí. Los arrozales aún se cultivan. Las casas de árbol aún se construyen.
 
-**Lecturas relacionadas**:
+**Lectura adicional**:
 
-- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Stanley Yen cambió la percepción taiwanesa del "sector servicios"; las tiendas de conveniencia convirtieron los servicios en infraestructura cotidiana.
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — El principio central de la escuela Junyi: la cultura indígena no necesita ser "rescatada", necesita ser respetada.
-- [La cultura del café en Taiwán](/lifestyle/台灣咖啡文化) — Cuando Yen impulsaba el servicio de calidad en Landis, los taiwaneses todavía tomaban café instantáneo.
-- [Teach For Taiwan (TFT)](/es/society/teach-for-taiwan) — Otro proyecto educativo impulsado por Yen, liderado por Liu An-ting, que llevó a cuatrocientos jóvenes a las aulas rurales.
-- [Lu Kuan-wei](/es/people/lu-guan-wei-junyiacademy-founder) — Presidente de la plataforma educativa Junyi Academy; el nombre «Junyi» está tomado precisamente de la Escuela Junyi de Taitung fundada por Stanley Yen.
+- [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Yan Chang-hsiung cambió la forma en que los taiwaneses ven el "sector servicios", y las tiendas de conveniencia convirtieron el servicio en infraestructura básica para todos
+- [Mapa cultural de las 16 etnias indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — La idea central de las escuelas uniformes: la cultura indígena no necesita ser "salvada", sino respetada
+- [Cultura del café en Taiwán](/es/food/taiwan-coffee-culture) — En los años en que Yan Chang-hsiung promovía servicios de calidad en Asia, los taiwaneses aún bebían café instantáneo
+- [Enseñar para Taiwán (TFT)](/es/society/teach-for-taiwan) — Otro plan educativo generado por Yan Chang-hsiung, liderado por Liu An-ting, que reúne a cuatrocientos jóvenes en aulas rurales
+- [Lyu Kuan-wei](/es/people/lu-guan-wei-junyiacademy-founder) — Presidente de la plataforma educativa Junyi, cuyo nombre proviene del colegio primario y secundario unificado de Taitung fundado por Yan Chang-hsiung
 
 ## Referencias
 
@@ -166,7 +171,7 @@ Aquellas botas de lluvia largas frente a las aulas siguen ahí. El arroz sigue p
 
 [^8]: _El corazón de león del presidente_ vendió aproximadamente 600.000 ejemplares, obra emblemática de la editorial Commonwealth Publishing.
 
-[^9]: Cita de _El corazón de león del presidente_ de Stanley Yen; fuente confirmada en [extracto en Pixnet](https://yuna771121.pixnet.net/blog/post/5230366) — "Nunca pido que todo vaya sobre ruedas..." (texto original).
+[^9]: [extracto en Pixnet](https://yuna771121.pixnet.net/blog/post/5230366) — Cita de _El corazón de león del presidente_ de Stanley Yen; fuente confirmada en
 
 [^10]: [Books.com.tw: El futuro que veo](https://www.books.com.tw/products/0011002842) — Publicado en 2008, ganador del premio de la Feria Internacional del Libro de Taipéi 2009, seleccionado como lectura obligatoria para funcionarios públicos.
 

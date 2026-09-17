@@ -2,6 +2,7 @@
 title: 'La industria robótica de Taiwán'
 description: 'La isla número uno en semiconductores del mundo, ¿por qué tiene que "recuperar clases" en la era de los robots? Desde la inauguración del NCAIR en 2026, una mirada retrospectiva al milagro y los puntos ciegos de la maquinaria de precisión taiwanesa.'
 date: 2026-04-11
+category: 'Technology'
 tags:
   [
     'robótica',
@@ -15,17 +16,16 @@ tags:
   ]
 subcategory: '科技產業'
 author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 13
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-featured: true
-translatedFrom: Technology/台灣機器人產業.md
-sourceCommitSha: '38412654'
-sourceContentHash: 'sha256:727c897f10782c2b'
-sourceBodyHash: 'sha256:3b63599a42d7872a'
-translatedAt: '2026-06-02T00:40:00+08:00'
-category: Technology
-difficulty: 'intermediate'
+translatedFrom: 'Technology/台灣機器人產業.md'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:4702dd502f640592'
+sourceBodyHash: 'sha256:2025d0771f75493c'
+translatedAt: '2026-09-17T21:22:31.738701+00:00'
 ---
 
 # La industria robótica de Taiwán
