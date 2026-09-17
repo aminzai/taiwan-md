@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T06:42:51.379Z",
+  "lastUpdated": "2026-09-17T18:42:22.305Z",
   "languages": [
     "zh-TW",
     "en",
@@ -27,9 +27,9 @@
     "en": {
       "total": 1097,
       "percentage": 97.9,
-      "fresh": 996,
+      "fresh": 995,
       "metadataStale": 19,
-      "stale": 82,
+      "stale": 83,
       "missing": 24,
       "orphan": 0,
       "deficit": 24,
@@ -51,25 +51,25 @@
     "ko": {
       "total": 1082,
       "percentage": 96.5,
-      "fresh": 984,
+      "fresh": 983,
       "metadataStale": 19,
-      "stale": 79,
+      "stale": 80,
       "missing": 39,
       "orphan": 0,
       "deficit": 39,
-      "freshPct": 87.8,
-      "bodyFreshPct": 89.5
+      "freshPct": 87.7,
+      "bodyFreshPct": 89.4
     },
     "es": {
       "total": 1096,
       "percentage": 97.8,
-      "fresh": 997,
+      "fresh": 996,
       "metadataStale": 18,
-      "stale": 81,
+      "stale": 82,
       "missing": 25,
       "orphan": 0,
       "deficit": 25,
-      "freshPct": 88.9,
+      "freshPct": 88.8,
       "bodyFreshPct": 90.5
     },
     "fr": {
@@ -87,14 +87,14 @@
     "vi": {
       "total": 858,
       "percentage": 76.5,
-      "fresh": 685,
+      "fresh": 684,
       "metadataStale": 82,
-      "stale": 91,
+      "stale": 92,
       "missing": 263,
       "orphan": 0,
       "deficit": 263,
-      "freshPct": 61.1,
-      "bodyFreshPct": 68.4
+      "freshPct": 61,
+      "bodyFreshPct": 68.3
     },
     "id": {
       "total": 897,
@@ -111,14 +111,14 @@
     "pt": {
       "total": 1070,
       "percentage": 95.5,
-      "fresh": 992,
+      "fresh": 991,
       "metadataStale": 12,
-      "stale": 66,
+      "stale": 67,
       "missing": 51,
       "orphan": 0,
       "deficit": 51,
-      "freshPct": 88.5,
-      "bodyFreshPct": 89.6
+      "freshPct": 88.4,
+      "bodyFreshPct": 89.5
     },
     "hi": {
       "total": 971,
@@ -135,26 +135,26 @@
     "ar": {
       "total": 1038,
       "percentage": 92.6,
-      "fresh": 973,
+      "fresh": 972,
       "metadataStale": 14,
-      "stale": 51,
+      "stale": 52,
       "missing": 83,
       "orphan": 0,
       "deficit": 83,
-      "freshPct": 86.8,
+      "freshPct": 86.7,
       "bodyFreshPct": 88
     },
     "ru": {
       "total": 1057,
       "percentage": 94.3,
-      "fresh": 1012,
+      "fresh": 1011,
       "metadataStale": 8,
-      "stale": 37,
+      "stale": 38,
       "missing": 64,
       "orphan": 0,
       "deficit": 64,
-      "freshPct": 90.3,
-      "bodyFreshPct": 91
+      "freshPct": 90.2,
+      "bodyFreshPct": 90.9
     },
     "de": {
       "total": 156,
@@ -609,8 +609,8 @@
       "zh-TW": 82,
       "en": {
         "count": 81,
-        "fresh": 71,
-        "stale": 10,
+        "fresh": 70,
+        "stale": 11,
         "missing": 0,
         "deficit": 1
       },
@@ -623,15 +623,15 @@
       },
       "ko": {
         "count": 79,
-        "fresh": 68,
-        "stale": 11,
+        "fresh": 67,
+        "stale": 12,
         "missing": 2,
         "deficit": 3
       },
       "es": {
         "count": 82,
-        "fresh": 70,
-        "stale": 12,
+        "fresh": 69,
+        "stale": 13,
         "missing": 0,
         "deficit": 0
       },
@@ -644,8 +644,8 @@
       },
       "vi": {
         "count": 66,
-        "fresh": 55,
-        "stale": 11,
+        "fresh": 54,
+        "stale": 12,
         "missing": 12,
         "deficit": 16
       },
@@ -658,8 +658,8 @@
       },
       "pt": {
         "count": 75,
-        "fresh": 64,
-        "stale": 11,
+        "fresh": 63,
+        "stale": 12,
         "missing": 4,
         "deficit": 7
       },
@@ -672,15 +672,15 @@
       },
       "ar": {
         "count": 68,
-        "fresh": 61,
-        "stale": 7,
+        "fresh": 60,
+        "stale": 8,
         "missing": 12,
         "deficit": 14
       },
       "ru": {
         "count": 75,
-        "fresh": 68,
-        "stale": 7,
+        "fresh": 67,
+        "stale": 8,
         "missing": 7,
         "deficit": 7
       },
@@ -2239,6 +2239,7 @@
       "Music/台灣民歌運動.md"
     ],
     "hi": [
+      "Geography/苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長.md",
       "Technology/台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫.md",
       "Politics/台灣不在籍投票：返鄉成本看得見，信任成本更難算.md",
       "Food/台灣早餐文化：兩萬家店賣著同一份早餐，沒有一個人擁有它.md",
@@ -2372,7 +2373,6 @@
       "Geography/新竹縣：235 年的義民信仰，與全台第一的人均所得，住在同一條頭前溪.md",
       "Geography/桃園市：台灣的進出口、最多的客家人、最多的移工，全在這塊台地上.md",
       "Geography/澎湖縣：兩次拒絕賭場，菊島選擇的不是清貧.md",
-      "Geography/苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長.md",
       "Geography/雲林縣：宜蘭選擇不要的，雲林用三十年的肺換下來.md",
       "Food/刈包：從福州虎咬豬到 BAO London 的米其林符號.md",
       "Society/國立臺灣歷史博物館：第八展區叫「你也是寫歷史的人」.md",
@@ -2542,6 +2542,7 @@
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md"
     ],
     "de": [
+      "Geography/苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長.md",
       "Lifestyle/台灣市場文化：一座市場不只賣菜，也保存城市的記憶.md",
       "Lifestyle/台灣吉祥物：從大同寶寶的贈品，到地方角色的全域出場.md",
       "People/楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人.md",
@@ -3093,7 +3094,6 @@
       "Geography/新北市：包圍台北的環狀都會，401 萬人撐起首都的通勤、工業跟記憶.md",
       "Geography/新竹縣：235 年的義民信仰，與全台第一的人均所得，住在同一條頭前溪.md",
       "Geography/澎湖縣：兩次拒絕賭場，菊島選擇的不是清貧.md",
-      "Geography/苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長.md",
       "Geography/雲林縣：宜蘭選擇不要的，雲林用三十年的肺換下來.md",
       "People/區秀詒：把「群島」帶進台灣藝術圈的馬來西亞策展人.md",
       "Food/刈包：從福州虎咬豬到 BAO London 的米其林符號.md",

@@ -1,7 +1,75 @@
 {
-  "generatedAt": "2026-09-17T06:42:37.162Z",
+  "generatedAt": "2026-09-17T18:42:09.290Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "b4e59d6d566f5db372d29b07e141734835979510",
+      "date": "2026-09-17T20:54:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-17 20:37 — 飛輪其實全勤、產出全在救援分支上；三條到期實驗補判；兩把尺把排程心跳當成真人",
+      "articles": []
+    },
+    {
+      "hash": "f72b248478882f47e7b9f3a60e347181489d1c9f",
+      "date": "2026-09-17T20:52:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 日記閘門也把本機排程的心跳當成 routine，冷卻六天照樣適用",
+      "articles": []
+    },
+    {
+      "hash": "62b191ab6cfe2efc08eb9fab2a0a4603d98de954",
+      "date": "2026-09-17T20:50:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 飛輪停轉尺的 WARN 自己去救援分支找 memory 檔，不再把分開根因的指令留給讀的人",
+      "articles": []
+    },
+    {
+      "hash": "bac31dc6786a625fff5e3ed85d946822fb332eaa",
+      "date": "2026-09-17T20:48:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 營運機分岔的合併決定搬進 main 這份待決佇列（#68）",
+      "articles": []
+    },
+    {
+      "hash": "68cb2daa51367dc3fed31983438b62badbea0cd4",
+      "date": "2026-09-17T20:47:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 在場偵測不再把本機排程的心跳 session 當成哲宇",
+      "articles": []
+    },
+    {
+      "hash": "8d4f4b434df3e974828deea558e607d92fbf635c",
+      "date": "2026-09-17T20:47:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 苗栗縣卡片圖收回來——政府開放資料授權（OGDL-Taiwan）明列進允收清單",
+      "articles": [
+        {
+          "url": "/geography/苗栗縣",
+          "name": "苗栗縣"
+        }
+      ]
+    },
+    {
+      "hash": "6532ab51077c719a256961a395d73a9adfab619b",
+      "date": "2026-09-17T20:44:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 三條到期實驗補判——腳註來源卡兩成展開會點去來源、越南文需求真但轉換弱、葡萄牙文點擊達門檻 2.5 倍",
+      "articles": []
+    },
+    {
+      "hash": "fb89b2653d1d261350aa3c6e36db8fa2df2167a2",
+      "date": "2026-09-17T14:48:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-17 — npm prebuild 缺 typescript 修好，尺二週排程查到根因沒動手",
+      "articles": []
+    },
+    {
+      "hash": "9968cd3f8b2864f764adb2471af36793d4ae0303",
+      "date": "2026-09-17T14:46:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 補上一直失敗的 npm prebuild，順便刷新全部 dashboard 資料",
+      "articles": []
+    },
     {
       "hash": "a69696f51ca3c47a71df112ac83e2061be9e45b0",
       "date": "2026-09-17T11:34:09+08:00",
@@ -83137,69 +83205,6 @@
       "date": "2026-03-25T00:51:31+08:00",
       "author": "Brian Huang",
       "message": "fix: improve header navigation layout and z-index",
-      "articles": []
-    },
-    {
-      "hash": "644a0a432b09877897b1f8bf259694469292170d",
-      "date": "2026-03-25T00:41:07+08:00",
-      "author": "Brian Huang",
-      "message": "fix: 修復 header dropdown 選單被遮擋問題",
-      "articles": []
-    },
-    {
-      "hash": "c9ce2993b5b860926f3e538e70ddacc9323b3179",
-      "date": "2026-03-25T00:29:57+08:00",
-      "author": "Brian Huang",
-      "message": "fix: 進一步縮小 header 間距以支援英文版",
-      "articles": []
-    },
-    {
-      "hash": "1d7acc328c122f8b1aec421471872ab04cf980d3",
-      "date": "2026-03-25T00:24:53+08:00",
-      "author": "Brian Huang",
-      "message": "style: 調整 header 間距避免語言切換被切到",
-      "articles": []
-    },
-    {
-      "hash": "3a7fd9e6b929538230d0498e8f11efcb12a34d5c",
-      "date": "2026-03-25T00:22:06+08:00",
-      "author": "Brian Huang",
-      "message": "fix: 修復主頁水平滾動問題",
-      "articles": []
-    },
-    {
-      "hash": "c92cf67598883183af10fbc7d23a56facb445dcb",
-      "date": "2026-03-25T00:21:47+08:00",
-      "author": "Brian Huang",
-      "message": "style: 優化主頁版面協調性",
-      "articles": []
-    },
-    {
-      "hash": "137b1321f35856ee7a9b748cd45197418bfff4fa",
-      "date": "2026-03-24T23:59:04+08:00",
-      "author": "Brian Huang",
-      "message": "feat: 移植 TopicCard 瀑布流設計至 upstream 架構",
-      "articles": []
-    },
-    {
-      "hash": "ce9876b46d480b6b0a7e9f0a68954e16aaf83f9b",
-      "date": "2026-03-25T00:24:29+08:00",
-      "author": "frank890417",
-      "message": "Fix hero title font to jf-kamabit",
-      "articles": []
-    },
-    {
-      "hash": "a73e2f2c1199f9d342076b44ca3c3d62d8264507",
-      "date": "2026-03-25T00:24:08+08:00",
-      "author": "frank890417",
-      "message": "style: Hub wikilinks 改 topic-pill + 套用文章頁樣式",
-      "articles": []
-    },
-    {
-      "hash": "d617632def32067283acb4e49340b4665a4d5ede",
-      "date": "2026-03-25T00:09:50+08:00",
-      "author": "frank890417",
-      "message": "fix: 修正文章目錄欄 h2/h3 解析正則",
       "articles": []
     }
   ]

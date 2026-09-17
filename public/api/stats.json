@@ -1,7 +1,7 @@
 {
   "totalArticles": 12486,
   "totalCategories": 27,
-  "estimatedContributors": 833,
+  "estimatedContributors": 75,
   "totalTags": 8507,
   "categories": [
     {
@@ -199,5 +199,25 @@
     "zh-TW": 12486,
     "en": 0
   },
-  "lastUpdated": "2026-09-17T06:42:36.548Z"
+  "lastUpdated": "2026-09-17T18:42:09.036Z",
+  "stars": 1176,
+  "forks": 185,
+  "zhPages": 1119,
+  "languagePages": {
+    "zh-TW": 1119,
+    "en": 1103,
+    "ja": 937,
+    "ko": 1082,
+    "es": 1096,
+    "fr": 1099,
+    "vi": 859,
+    "id": 897,
+    "pt": 1070,
+    "hi": 971,
+    "ar": 1038,
+    "ru": 1057,
+    "de": 156
+  },
+  "enPages": 1103,
+  "totalPages": 1119
 }

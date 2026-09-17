@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T14:42:30+08:00",
-    "zhCommitHead": "a69696f51",
+    "lastUpdated": "2026-09-18T02:42:04+08:00",
+    "zhCommitHead": "b4e59d6d56",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 996,
-        "stale": 82,
+        "fresh": 995,
+        "stale": 83,
         "metadata_stale": 19,
         "missing": 24,
         "orphan": 0
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 984,
-        "stale": 79,
+        "fresh": 983,
+        "stale": 80,
         "metadata_stale": 19,
         "missing": 39,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 997,
-        "stale": 81,
+        "fresh": 996,
+        "stale": 82,
         "metadata_stale": 18,
         "missing": 25,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 685,
-        "stale": 91,
+        "fresh": 684,
+        "stale": 92,
         "metadata_stale": 82,
         "missing": 263,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 992,
-        "stale": 66,
+        "fresh": 991,
+        "stale": 67,
         "metadata_stale": 12,
         "missing": 51,
         "orphan": 0
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 973,
-        "stale": 51,
+        "fresh": 972,
+        "stale": 52,
         "metadata_stale": 14,
         "missing": 83,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1012,
-        "stale": 37,
+        "fresh": 1011,
+        "stale": 38,
         "metadata_stale": 8,
         "missing": 64,
         "orphan": 0
@@ -150795,10 +150795,10 @@
     },
     "Geography/苗栗縣.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:0de597da286e629e",
-        "bodyHash": "sha256:9523731d73687bb2"
+        "lastCommit": "8d4f4b43",
+        "lastModified": "2026-09-17T20:47:04+08:00",
+        "contentHash": "sha256:d42a13d401176a58",
+        "bodyHash": "sha256:240cad04d9fcb9fe"
       },
       "translations": {
         "en": {
@@ -150812,8 +150812,10 @@
           "translationLastModified": "2026-09-08T12:06:52+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "ja": {
           "path": "ja/Geography/miaoli-county.md",
@@ -150828,8 +150830,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -6"
+          "commitsBehind": 2,
+          "diffSummary": "+21 -7"
         },
         "ko": {
           "path": "ko/Geography/miaoli-county.md",
@@ -150842,8 +150844,10 @@
           "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "es": {
           "path": "es/Geography/miaoli-county.md",
@@ -150856,8 +150860,10 @@
           "translationLastModified": "2026-09-08T11:30:25+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "fr": {
           "path": "fr/Geography/miaoli-county.md",
@@ -150872,8 +150878,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -6"
+          "commitsBehind": 2,
+          "diffSummary": "+21 -7"
         },
         "vi": {
           "path": "vi/Geography/miaoli-county.md",
@@ -150886,8 +150892,10 @@
           "translationLastModified": "2026-09-09T05:08:00+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "id": {
           "path": "id/Geography/miaoli-county.md",
@@ -150902,8 +150910,8 @@
           "footnoteDefs": 36,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -6"
+          "commitsBehind": 2,
+          "diffSummary": "+21 -7"
         },
         "pt": {
           "path": "pt/Geography/miaoli-county.md",
@@ -150916,8 +150924,10 @@
           "translationLastModified": "2026-09-08T10:50:46+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "hi": {
           "status": "missing"
@@ -150933,8 +150943,10 @@
           "translationLastModified": "2026-09-08T09:59:07+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "ru": {
           "path": "ru/Geography/miaoli-county.md",
@@ -150947,8 +150959,10 @@
           "translationLastModified": "2026-09-08T11:45:01+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -4"
         },
         "de": {
           "status": "missing"
