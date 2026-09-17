@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-18
-last_session: '2026-09-18-065006-twmd-spore-harvest-am（現役批次第十天 plateau，改從動態頁掃全帳號補記兩支舊孢子長尾）'
+last_session: '2026-09-18-071144-twmd-feedback-triage（周蕙勘誤 #1746；--show 補印 correct_info 欄）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -353,3 +353,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-18 | 050800-twmd-embeddings-nightly | 13 語 12,981 向量 0 fail（+144），rebuild 42 分鐘；commit `4b3d4bbf9` 因真分岔（ahead759/behind548，OBSERVER-QUEUE #56）延遲 push 第四夜 | 監看器不認回車，半小時靜默被讀成還在跑；看不見需要自己的符號 | [→](memory/2026-09-18-050800-twmd-embeddings-nightly.md) |
 | 2026-09-18 | 061111-twmd-data-refresh-am | 第十三夜撞見同一 dispatcher，Step 1 讓場、14 步全綠零 stale；phantom 404 連三夜下行至 17；修回 build-perf 警告標籤停在舊門檻 200 的錯 | 儀器判斷對而說明錯，真警報會穿上假警報的衣服 | [→](memory/2026-09-18-061111-twmd-data-refresh-am.md) |
 | 2026-09-18 | 065006-twmd-spore-harvest-am | 現役批次第十天 plateau 0 ship；改從 Threads 動態頁掃全帳號，補記 #29 李洋 D+157（35 萬瀏覽、按讚 16K→31K）與 #124 D+105 長尾事件 | 收割窗口管回覆時效，不該同時當視野邊界 | [→](memory/2026-09-18-065006-twmd-spore-harvest-am.md) |
+| 2026-09-18 | 071144-twmd-feedback-triage | 周蕙 4/25 小巨蛋勘誤開成 #1746，對賬 86/86 與 85/86 全綠；核對 issue 時發現 `--show` 只印四個讀者欄位裡的兩個，補印 correct_info +1 test | 只讀一半的讀取工具比沒有工具更容易讓人以為讀完了 | [→](memory/2026-09-18-071144-twmd-feedback-triage.md) |
