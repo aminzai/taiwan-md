@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-09-09 06:15
+last_generated: 2026-09-17 14:41
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,14 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-09-09 06:15** · 頂層 \*.md 共 **291** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-09-17 14:41** · 頂層 \*.md 共 **293** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   520 | 29.5 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   554 | 87.7 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `visual/`                        |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `editorial-room/`                |    96 | 760.3 KB | —                                                    |
 | `article-evolve/`                |    38 | 1.5 MB   | —                                                    |
 | `weekly/`                        |    36 | 6.8 MB   | Self-evolve weekly digest                            |
@@ -28,7 +29,8 @@ type: auto-index
 | `routine-prompt-drift/`          |    28 | 84.0 KB  | —                                                    |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
-| `babel/`                         |    10 | 8.3 MB   | —                                                    |
+| `babel/`                         |    11 | 8.4 MB   | —                                                    |
+| `scratch/`                       |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
 | `news-lens/`                     |     9 | 190.3 KB | —                                                    |
 | `babel-tier4/`                   |     8 | 5.5 KB   | —                                                    |
@@ -40,15 +42,14 @@ type: auto-index
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`                      |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `404-monitor/`                   |     2 | 148.1 KB | —                                                    |
+| `404-monitor/`                   |     2 | 128.7 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 107.0 KB | —                                                    |
+| `newsroom/`                      |     2 | 107.2 KB | —                                                    |
 | `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
 | `audit/`                         |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
-| `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
 ## 🏷️ By type (頂層 \*.md only)
 
@@ -245,8 +246,10 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (127)
+### ops (129)
 
+- `2026-09-09` [opentwbench-formosa-bench-2026-09-09](opentwbench-formosa-bench-2026-09-09.md) — OpenTWBench tw-formosa-bench — 語料第一次被第三方當評測 ground truth
+- `2026-09-09` [translation-fused-residue-2026-09-09](translation-fused-residue-2026-09-09.md) — 譯文漏譯殘留盤點 2026-09-09
 - `2026-09-07` [audit-action-index-2026-09-07](audit-action-index-2026-09-07.md)
 - `2026-09-07` [design-island-lines-2026-09-07](design-island-lines-2026-09-07.md)
 - `2026-09-07` [design-rewrite-guide-2026-09-07](design-rewrite-guide-2026-09-07.md) — Rewrite Guide：可回頭的 AI 編輯工作台
@@ -383,9 +386,11 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-09 (19 files)
+### 2026-09 (21 files)
 
-- Type breakdown: ops: 14 / audit: 2 / evolution: 2 / audit-routine: 1
+- Type breakdown: ops: 16 / audit: 2 / evolution: 2 / audit-routine: 1
+  - `2026-09-09` [opentwbench-formosa-bench-2026-09-09](opentwbench-formosa-bench-2026-09-09.md)
+  - `2026-09-09` [translation-fused-residue-2026-09-09](translation-fused-residue-2026-09-09.md)
   - `2026-09-07` [audit-action-index-2026-09-07](audit-action-index-2026-09-07.md)
   - `2026-09-07` [design-audit-upgrade-2026-09-07](design-audit-upgrade-2026-09-07.md)
   - `2026-09-07` [design-island-lines-2026-09-07](design-island-lines-2026-09-07.md)
