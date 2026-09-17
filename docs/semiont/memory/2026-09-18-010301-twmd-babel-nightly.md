@@ -1,7 +1,7 @@
 # 2026-09-18-010301-twmd-babel-nightly — 兩台機器在翻同一批：給調度器一份 origin 已做清單、打撈 53 篇擱置完稿、揪出 launchd keepalive 這隻看不見的手
 
 > session twmd-babel-nightly — cron 每日 00:30 多語批次同步
-> Session span: 00:35 → 01:2x +0800（約 50 分鐘，15 commits ＋ 日記譯文 1 commit）
+> Session span: 00:35 → 01:50 +0800（約 75 分鐘，17 commits）
 > 資料來源：`git log %ai` / `ps` / `launchctl print` / `status.py` / dispatcher `report.jsonl`
 
 ## 觸發
@@ -28,7 +28,7 @@ kill 12398 四分鐘後，pre-commit 的平行 writer 警告報出一個新 PID 
 
 ## Stage D 日記巴別塔重新接線
 
-`diary-translate.py --status`：408 篇日記 × 5 語缺 970 篇（每語 194 缺），本機與 origin 過去 14 天都沒有任何日記譯文 commit——這條義務範圍一直停著，因為工具寫死的兩個雲端 tier（owl-alpha／Hy3）早已退役。改成 `OPENROUTER_MODEL` 環境變數可指定模型，用入池白名單裡的 nemotron-3-ultra 試翻一篇，發現 prompt 沒有人名表：哲宇被翻成「宇哲 (Yuzhe)」。補一條固定名規則（哲宇 = Che-Yu Wu，依 `.mailmap` 與 knowledge/en 88 處既有用法），重翻後正確。之後以最新 20 篇 × 5 語分兩波（en/ja/ko 先、es/fr 後）在背景跑，01:20 時 en/ja/ko 已 54/60 成功零失敗，`diary-translation-audit.py` 全庫 1120 篇 0 critical。順帶量到既有 en 日記譯文裡哲宇的拼法有 Zheyu 815 處、Cheyu 89、CheYu 57、哲宇 225——這是一批 >50 檔的正名工作，屬 §自主權邊界，只記不動。
+`diary-translate.py --status`：408 篇日記 × 5 語缺 970 篇（每語 194 缺），本機與 origin 過去 14 天都沒有任何日記譯文 commit——這條義務範圍一直停著，因為工具寫死的兩個雲端 tier（owl-alpha／Hy3）早已退役。改成 `OPENROUTER_MODEL` 環境變數可指定模型，用入池白名單裡的 nemotron-3-ultra 試翻一篇，發現 prompt 沒有人名表：哲宇被翻成「宇哲 (Yuzhe)」。補一條固定名規則（哲宇 = Che-Yu Wu，依 `.mailmap` 與 knowledge/en 88 處既有用法），重翻後正確。之後以最新 20 篇 × 5 語分兩波（en/ja/ko 先、es/fr 後）在背景跑，01:48 兩波跑完 100/100 成功零失敗（`be23e648d`），日記缺口 970 → 875，`diary-translation-audit.py` 全庫 1,220 篇 0 critical。順帶量到既有 en 日記譯文裡哲宇的拼法有 Zheyu 815 處、Cheyu 89、CheYu 57、哲宇 225——這是一批 >50 檔的正名工作，屬 §自主權邊界，只記不動。
 
 ## 各語進度（對照昨夜 00:36 → 今夜 00:53）
 
@@ -77,7 +77,7 @@ kill 12398 四分鐘後，pre-commit 的平行 writer 警告報出一個新 PID 
 - [ ] pending（下一班 babel-nightly）— 三重巡檢加第四問：`launchctl print gui/$(id -u)/com.taiwanmd.babel.nightly` 看 pid 與 wrapper 是否還是本輪那份（`/tmp/babel-launch-wrapper.sh` 含 `--exclude-file` 與 `--order forward`）。機器重開後 /tmp 消失，keepalive 會空轉：把 wrapper 搬進 repo（如 `scripts/tools/lang-sync/babel-launch-wrapper.sh`）並 `launchctl submit` 重掛是一個 1-file 的造橋，本輪沒做是因為不想在 dispatcher 剛起跑時再 kill 第三次。
 - [ ] pending（下一班）— 排除清單只在 wrapper 起跑時重算。dispatcher 一跑數天，origin 那側新翻的檔不會進清單。可用 launchd 另一條每小時跑 `babel-origin-exclude.py`，或在 dispatcher 每 N 輪自呼。
 - [ ] pending（工具候選）— dispatcher 缺 per-worker 語言白名單，nemo × vi 11% 的弱適配只能靠 fail-memo 沉底。pipeline §模型×語言適配 說「切軌」，統一 dispatcher 沒有軌可切。
-- [ ] pending（Stage D 續跑）— 日記巴別塔缺口 970 篇，本輪只跑最新 20 篇 × 5 語。`diary-translate-cascade.sh --tier owl` 配 `OPENROUTER_MODEL` 已可直接續跑，每次 20-40 篇即可。既有 en 日記譯文中創造者名字拼法四種並存（Zheyu 815 處為主），正名屬 >50 檔，交哲宇。
+- [ ] pending（Stage D 續跑）— 日記巴別塔缺口 875 篇（本輪從 970 補 100 篇，最新 20 篇 × 5 語）。`diary-translate-cascade.sh --tier owl` 配 `OPENROUTER_MODEL` 已可直接續跑，每次 20-40 篇即可。既有 en 日記譯文中創造者名字拼法四種並存（Zheyu 815 處為主），正名屬 >50 檔，交哲宇。
 - [ ] pending（委派候選）— `Society/台灣新冠疫情與疫苗.md` 11 語 missing、91 腳註、free 池累計失敗 30+ 次且每輪佈滿隊首，依 SQUEEZE §委派層規則屬 Sonnet 委派對象（實測 285-334K token／篇，11 語約 3.5M token，需哲宇同意算力才派）。
 - ⏳ blocked（哲宇）— 入池白名單（gemma4:26b 起）與 fleet 對本機核發的 gemma4:e4b-nvfp4 不一致，55% 通過率是否可接受屬閾值決策。
 
@@ -89,7 +89,7 @@ kill 12398 四分鐘後，pre-commit 的平行 writer 警告報出一個新 PID 
 
 ---
 
-_v1.0 | 2026-09-18 01:2x +0800_
+_v1.0 | 2026-09-18 01:50 +0800_
 _session twmd-babel-nightly — 分岔期間兩台機器翻同一批的量化與去重、53 篇擱置完稿打撈、launchd keepalive 揪出與 wrapper 重寫、Stage D 日記巴別塔重新接線_
 _誕生原因：00:30 例行觸發，origin 側 OBSERVER-QUEUE #68 建議兩台停跑 babel 存量，本班改為讓調度器避開 origin 已做的檔_
 _核心洞察：(1) 產線只看本機狀態時，另一個生產者的存在會讓它的每一次成功變成一筆合併衝突 (2) 「進程還活著」可能是外面一隻手在供應的，殺掉它只會換回舊設定 (3) status.py 看到檔案就算 fresh，沒 commit 的完稿會被它永遠遺忘_
