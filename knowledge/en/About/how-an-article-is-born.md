@@ -2,26 +2,29 @@
 title: "How an Article Is Born: Taiwan.md's Six-Stage Pipeline Against the AI Writing Instinct (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)"
 description: "Every Taiwan.md article you read—with its warmth, scenes, and verifiability—is backed by a six-stage process, over 20 mandatory gates, and an AI editorial department that doesn't write the draft itself. This machine exists for one reason: to counter the specific failures of AI writing, such as chronological listing of facts, generating empty 'plastic' sentences, back-translating English summaries into fake quotes, and infecting new drafts with the bad habits of old articles. This article dissects that pipeline, and it, too, was produced by it."
 date: 2026-06-19
+tags:
+  [
+    'about',
+    'meta',
+    'Writing Methodology',
+    'Curation',
+    'rewrite-pipeline',
+    'editorial',
+    'semiont',
+    'AI Writing',
+  ]
 author: 'Taiwan.md'
 category: 'About'
-tags:
-  - 'about'
-  - 'meta'
-  - 'Writing Methodology'
-  - 'Curation'
-  - 'rewrite-pipeline'
-  - 'editorial'
-  - 'semiont'
-  - 'AI Writing'
 readingTime: 11
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: '984fb7892'
-sourceContentHash: 'sha256:92fcb394123e4aee'
-sourceBodyHash: 'sha256:b8984a2133e5738f'
-translatedAt: '2026-07-24T14:22:03+08:00'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:4dc98dc84117c5d8'
+sourceBodyHash: 'sha256:2679dec9ddab6dbc'
+translatedAt: '2026-09-17T12:51:49.528835+00:00'
 ---
 
 # How an Article Is Born: Taiwan.md's Six-Stage Pipeline Against the AI Writing Instinct (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -203,21 +206,21 @@ Restraint is the other side. Real people's families, diseases, contradictions, a
 
 There is also a small but crucial habit: boldly write "Taiwan." The fingerprint hides in the translated tone of foreign news. To avoid writing Taiwan, using "this island" or "this place" as a pronoun, especially in titles and openings, is a form of avoidance. Islands as literary images or geographical scenes can certainly be written and are encouraged. What must be打掉 (removed) is the avoidance of not daring to write Taiwan.
 
-## A Difference Visible at a Glance
+## Quick Comparison
 
-What these disciplines look like combined is best seen in a before/after comparison.
+These disciplines, when put together, are best understood by looking at a before-and-after comparison.
 
-Writing about Tai Tzu-ying, the AI's hollow template would be "Taiwanese famous badminton player, excellent performance in international competitions, won awards many times, brought glory to Taiwan," followed by four bullets: main achievements, playing style, international influence, social contribution. The whole paragraph has no specific year, no specific match. Changing the subject to any athlete makes it hold true.
+If writing about Dai Zi-ying, an AI's empty template would be: "A famous Taiwanese badminton athlete with excellent international performance and multiple awards, bringing glory to Taiwan," followed by four bullet points: major achievements, playing style, international influence, and social contributions. This entire passage lacks any specific years or particular matches; it could apply to any athlete.
 
 ```tw-versus
-AI Hollow Template | Curated Version
-Excellent performance, bringing glory to Taiwan | Reached World No. 1, standing there for 214 weeks
-Four bullets: Achievements / Style / Influence / Contribution | Cried after the gold medal match at the 2020 Tokyo Olympics, topping Google Taiwan Search
-Subject can be anyone | 6 hours a day since age 6, left-hand "magician" style
-Source: EDITORIAL v6.12 §Before/After Tai Tzu-ying
+AI Empty Template | Curated Version
+Excellent performance, brings glory to Taiwan | Reached World No. 1 for 214 consecutive weeks
+Four bullets: achievements/style/influence/contribution | Crying after the gold medal match at the Tokyo Olympics in 2020, topping Google searches in Taiwan
+Applicable to anyone | Practiced 6 hours a day since age 6 with a left-handed "magician" style
+Source: EDITORIAL v6.12 §Before/After Dai Zi-ying
 ```
 
-The curated version does one thing: replace every abstract adjective with a verifiable fact. 214 weeks is the longest consecutive weeks in women's badminton history. The 2020 Olympic gold medal match lost to Chen Yu-fei is a moment the collective memory of Taiwan remembers. Warmth hides in places like "the moment of losing is actually the moment the reader remembers." The Mayday article is the same. Instead of writing "one of Taiwan's most influential rock bands, conquering fans with positive energy music," write "Five students from National Taiwan Normal University High School played a song on a wild stage. 28 years later, they played two shows at New York's Madison Square Garden (the same stage The Beatles stepped on in the US), with tickets selling out in 48 hours"[^13].
+The curated version does only one thing: it replaces every abstract adjective with verifiable facts. The 214 consecutive weeks is the longest streak in women's badminton history, and the gold medal match against Chen Yufei at the 2020 Olympics is a moment collectively remembered by Taiwan. Emotion resides in places like "the moment of losing was precisely the moment readers remember." The piece on Mayday is similar; rather than writing "one of Taiwan's most influential rock bands who conquers fans with positive energy music," it is better to write, "Students from four affiliated junior high schools performed a song at a local festival, and 28 years later they held two concerts at Madison Square Garden in New York (the same stage The Beatles once played in), selling out tickets within 48 hours" [^13].
 
 ## An Editorial Department That Doesn't Write the Draft
 

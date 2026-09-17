@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T20:42:50+08:00",
-    "zhCommitHead": "419c98e35",
+    "lastUpdated": "2026-09-17T20:52:12+08:00",
+    "zhCommitHead": "0f158a347",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1008,
-        "stale": 68,
+        "fresh": 1009,
+        "stale": 67,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 746,
+        "fresh": 747,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 368,
+        "missing": 367,
         "orphan": 0
       }
     },
@@ -21279,7 +21279,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-space-industry-development.md",
+          "translatedFrom": "Technology/台灣太空產業發展.md",
+          "sourceCommitSha": "f3baded5f",
+          "sourceContentHash": "sha256:e66143fe99e401f4",
+          "sourceBodyHash": "sha256:f2a71a6d6f47c4eb",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63442,8 +63453,8 @@
           "sourceContentHash": "sha256:0acd5b8de068abbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T09:54:28.999916+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f158a34",
+          "translationLastModified": "2026-09-17T20:42:50+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -64868,18 +64879,16 @@
         "en": {
           "path": "en/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-07-24T14:22:03+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-17T12:51:49.528835+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/About/how-an-article-is-born.md",
@@ -164439,8 +164448,8 @@
           "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
           "sourceBodyHash": "sha256:ceea55d78cdbac6b",
           "translatedAt": "2026-09-17T06:43:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f158a34",
+          "translationLastModified": "2026-09-17T20:42:50+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",

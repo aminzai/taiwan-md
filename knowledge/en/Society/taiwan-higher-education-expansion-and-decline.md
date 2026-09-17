@@ -28,10 +28,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gate_of_Yung_Ta_Institute_of_Technology_%26_Commerce.JPG'
 relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
-sourceCommitSha: '3b2bfbb30'
-sourceContentHash: 'sha256:0e32d79d3df5fb08'
-sourceBodyHash: 'sha256:4ba5d74427c47aed'
-translatedAt: '2026-07-29T07:32:32+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:2a4f80e7fc721f19'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
+translatedAt: '2026-09-17T11:27:43.691818+00:00'
 ---
 
 > **30-Second Overview:** In 1994, Taiwan had 58 colleges and universities; fewer than 20% of eighteen-year-olds could attend a four-year university. The April 10 March called for the "broad establishment of high schools and universities," and the government opened the doors using the easiest method: allowing existing junior colleges to upgrade their status. Twenty years later, the number of institutions surged to 148, with net enrollment rates exceeding 70%, allowing women, disadvantaged students, and first-generation college students to enter. Then came the wall of a declining birthrate: student numbers peaked in 2012, but withdrawal regulations were not enacted until 2022. This experiment was designed only for opening; the rules for closing arrived ten years late. Today, as Gaofeng, Yongda, and Dijiang shut down, the bill falls on students and teachers with the fewest choices.
@@ -204,33 +204,32 @@ Returning to that 200-billion-dollar bill, the truth is only half of the story: 
 
 When opening the doors, no one asked: "If these schools have to close one day, who do these lands and assets belong to?" That silence of the past is now being answered by every withdrawing school. So, after thirty years, what has this society learned?
 
-## The Report Cards are Kept, but Teachers and Students are Still Looking for Places
+## The Transcripts Are Archived, But Teachers and Students Are Still Looking for a Place
 
-Looking at the report cards again: Has this society learned how to close? The answer is half-truth.
+Let's look at the report card again: has this society learned how to close the door? The answer is an honest fifty-fifty.
 
-One half was indeed caught by the system. Article 20 of the Withdrawal Ordinance clearly stipulates that when a school closes, student records must be permanently preserved and transferred to designated schools. Since 2018, the Ministry of Education has commissioned National Kaohsiung University of Education to establish a "database for student records of withdrawn schools." Graduates of closed schools can apply for transcripts online for 20 TWD and degree certificates for 100 TWD [^31]. The alma mater disappeared, but the paper proving you studied there remains. This is a genuine design that ensures people are caught; withdrawal does not equal a vacuum of records.
+Half of it, the system did catch. Article 20 of the Withdrawal Ordinance explicitly stipulates that when a school ceases operations, students' academic records must be permanently preserved and transferred to a designated school. Since 2018, the Ministry of Education has commissioned Yunlin University of Science and Technology to establish the "Database for Custody of Withdrawn Schools' Student Records"; graduates of withdrawn schools can apply for transcripts online — NT$20 per copy, NT$100 for a degree certificate[^31]. The alma mater is gone, but the paper proving you studied there remains. This is a real, human-catching design; withdrawal does not equal an archival vacuum.
 
-Chong-hua Elementary School is another way of "catching." After Gaofeng's withdrawal, the land was taken over by the Yiguan Road Tian-Huang Foundation and became Chong-hua Elementary School in 2016—the first "university turned into an elementary school" in Taiwan. The declining birthrate killed the university with one hand and required primary schools with the other; a different set of younger children now occupies the same campus. Dijiang Institute of Technology and Management transformed into a long-term care foundation, and the vacated campus welcomed older people.
+Chunghua Elementary School is another way of catching. After Gaofeng withdrew, its campus was taken over by the I-Kuan Tao Tien Huang Foundation and became Chunghua Elementary School in 2016[^18] — Taiwan's first "university turned elementary school." The declining birth rate killed universities with one hand and created a need for elementary schools with the other; the same campus swapped in a batch of smaller children. Tajen University then transformed into a long-term care foundation, and the vacated campus welcomed older people.
 
-But the other half is where people are still finding their own places. That 16.42% dropout rate and that 14% teacher transition rate speak to the same thing: while someone keeps the documents, people are still looking for positions. And the collision with the wall isn't over yet. The Ministry of Education estimates that by 2040 (the 129th academic year), only 146,000 freshmen will remain [^32]; starting in 2028, the selection ratio for university applications will be adjusted from 3 to 4 to allow more candidates to make it to the second stage [^32]. As for further ahead, since 135,000 were born in 2024 and only 108,000 in 2025, this cohort of children will hit the ceiling of new university students in eighteen years (around 2042-2043). However, this is beyond the scope of official Ministry estimates and can only be inferred from birth rates [^13].
+But the other half, people are still catching themselves. That 16.42% dropout rate, that 14% teacher career-change rate — they're talking about the same thing: the documents have a custodian, but the people are still looking for a place. And the wall hasn't finished being hit. The Ministry of Education projects that by 2040 (academic year 129), first-year university students will number only 146,000[^32]; starting in 2028, the screening ratio for university admission applications will be adjusted from 3x to 4x, so more examinees can squeeze into the second stage[^32]. As for further ahead, 135,000 births in 2024, only 108,000 in 2025 — this cohort eighteen years later (around 2042, 2043) will be the ceiling for university freshmen, though this already exceeds the Ministry's official projection range and can only be roughly inferred from birth numbers[^13].
 
-If you are a parent trying to check if the school your child applies to is safe, you will find one thing: the Ministry of Education does not proactively disclose a complete list of warning signs or schools requiring special guidance [^20]. You want to check, but you can't. This in itself is a silent answer regarding "who universities exist for."
+If you're a parent wanting to check whether the school your child will apply to is safe, you'll discover something: the Ministry of Education does not proactively publish the complete list of warned and specially counseled schools[^20]. You want to check, but you can't. That silence itself is an answer to the question "for whom do universities exist?"
 
-The story returns to Pan Kun-zheng. Ten years have passed, and he is 33 years old, working as a real estate agent. When others ask about his education, he used to mention Gaofeng, but "many people don't know what Gaofeng is, and it takes a long time to explain, so later he stopped mentioning it proactively and just says he graduated from Shude Technology University" [^18].
+The story returns to Pan Kun-cheng. Ten years later, he's 33, working as a real estate agent. When asked about his education, he used to mention Gaofeng, but "many people don't know Gaofeng, takes too long to explain, so later he stopped bringing it up and just says he graduated from Shu-Te University"[^18].
 
-Gaofeng, as an institution, left two positions in the world. One is in the database managed by National Kaohsiung University of Education, where a transcript costs 20 TWD and can be retrieved at any time. The other is in Pan Kun-zheng's self-introduction—a name he no longer speaks out loud.
+The final trace Gaofeng left in the world has two locations. One is in the database, in the Yunlin Tech-managed system, where a transcript costs NT$20 and can be retrieved anytime. The other is in Pan Kun-cheng's self-introduction — a name he no longer speaks aloud.
 
-Opening the doors took Taiwan ten years. Learning how to close them has taken thirty years—and it is still being learned. That recruitment billboard in front of Pingtung Railway Station was long ago torn down, but the gates of Yongda still stand on the side of the road in Linlu Township. Between opening and closing, what remains are always the people.
-
----
-
-**Further Reading:**
-
-- [Taiwan's low birth rate crisis](/en/society/taiwan-low-birth-rate-crisis) — The demographic wall that knocked over universities: how it formed and where it is headed
-- [Education system and admission culture](/en/society/education-system-and-admissions-culture) — The narrow gate of joint exams and the culture of academic competition; what the expansion of universities sought to loosen was exactly this.
-- [Learning Poverty](/en/society/learning-poverty-in-taiwan) — After the popularization of degrees, where does the real gap in learning hide?
+Opening the door took Taiwan ten years. Learning how to close it took thirty — and they're still learning. That recruitment billboard in front of Pingtung Railway Station came down long ago; Yongda's gate still stands by the road in Linluo Township. Between the door opening and the door closing, it has always been people standing there.
 
 ---
+
+**Further Reading**:
+
+- [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — How the population wall that toppled universities formed, and where it's going
+- [Education System and Admissions Culture](/en/society/education-system-and-admissions-culture) — The Joint Exam's narrow gate and credentialism, which university expansion tried to loosen
+- [Learning Poverty](/en/society/learning-poverty-in-taiwan) — After credential universalization, where the real learning gap hides
+- [Academia Sinica](/society/中央研究院) — The institution that doesn't need to recruit or teach, with its legal basis written directly into the Presidential Office Organization Act, and the relative deprivation felt by universities: "why does it get to wait?"
 
 ## Image Sources
 
