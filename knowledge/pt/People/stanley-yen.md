@@ -25,10 +25,10 @@ sporeLinks:
     "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
   ]
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: 'df2e75589'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-07-29T00:43:07+08:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-17T21:32:33.332987+00:00'
 ---
 
 # Yan Chang-shou: do office-boy da sala de correspondência a pai do turismo, e depois ele largou tudo
@@ -127,31 +127,31 @@ Ele revelou o fato no posfácio de _A Educação Deveria Ser Diferente_, de 2011
 
 Em 25 de outubro de 2011, recebeu no Palácio Presidencial a Ordem da Estrela Brilhante, terceira classe[^22]. Um office-boy de ensino médio chegava ao Palácio Presidencial.
 
-## Os 27 metros do Jinzun
+## O Jinzun de 27 Metros
 
-Em 15 de março de 2025, em Jinzun, Taitung. Inaugurou-se o Parque de Arte Chiang Hsien-chi[^23].
+Em 15 de março de 2025, o Parque Artístico de Jien-er [^23] em Jinzun, Taitung, foi inaugurado.
 
-Foi um projeto que Yan empurrou por doze anos. Chiang Hsien-chi, um dos mais importantes pintores abstratos de Taiwan, passou os últimos anos em Taitung. Yan convenceu-o a construir um parque de arte na beira-mar de Jinzun — não em Taipé, não em zona comercial, na costa leste mais remota de Taiwan.
+Este projeto foi impulsionado por Yan Chang-shou durante doze anos. Jien-er é um dos artistas abstratos mais importantes de Taiwan e residiu em Taitung na velhice. Yan Chang-shou convenceu-o a construir um parque artístico à beira-mar de Jinzun — não em Taipé, nem em nenhuma área comercial, mas na costa leste mais remota de Taiwan.
 
-O arquiteto Lin Yu-han desenhou cinco edifícios, escalonados pela encosta da Cordilheira Costeira. O mais alto, o "Chenghan Hall", tem 27 metros, forma ampliada em 20 vezes de uma escultura em aço de Chiang[^24]. Paredes de concreto aparente, telhado coberto com aço Corten — aquele que oxida com o tempo, ficando vermelho-acastanhado, como se o edifício envelhecesse junto com a terra de Taitung. No parque, jardim de cactos, corredor do Lago Prateado, e um café chamado "Debussy".
+O arquiteto Lin Yu-han projetou cinco edifícios dispostos ao longo da encosta da cadeia de montanhas costeiras. O edifício mais alto, o "Cheng Han Hall", tem 27 metros e sua forma é um aumento de 20 vezes de uma escultura em aço de Jien-er [^24]. As paredes externas são feitas de concreto aparente, e os telhados são revestidos com aço resistente às intempéries — aquele tipo de metal que oxida lentamente ao longo do tempo, tornando-se marrom-avermelhado, como se o edifício estivesse envelhecendo junto com a terra de Taitung. O parque conta com um jardim de cactos, um corredor de prata (Yinhu) e um café chamado "Debussy".
 
-Yan assumiu a direção do parque. Sua visão é ligar Chishang, Jinzun e outros pontos da costa leste num aglomerado artístico, benchmarking o Festival de Arte de Setouchi[^24].
+Yan Chang-shou é o diretor do parque. Sua visão é conectar Chishang, Jinzun e outros locais da costa leste em um aglomerado artístico, visando o Festival de Arte do Mar Seto no Japão [^24].
 
-78 anos. Um rim a menos. Ainda faz engenharia de base para Taitung.
+Aos 78 anos, com um rim faltando, ele ainda está fazendo a fundação para Taitung.
 
-"Só quero que Taiwan vá bem, a engenharia de base precisa de quem a faça."[^4]
+"Eu só quero que Taiwan seja bom; alguém tem que fazer o trabalho fundamental." [^4]
 
-Uns dizem que é idealista. Uns dizem que é vencedor falando de barriga cheia. Talvez os dois estejam certos. Mas, seja como você o veja, uma coisa não tem disputa: esse homem gastou a segunda metade da vida, todos os dias, nos cantos de Taiwan onde não chega holofote, fazendo o trabalho de base menos sexy que existe.
+Alguns dizem que ele é um idealista. Outros dizem que ele é uma pessoa bem-sucedida que fala sem ter dor nas costas. Talvez ambos estejam certos. Mas, independentemente de como você o veja, há uma coisa incontestável: este homem dedicou cada dia da segunda metade de sua vida ao trabalho fundamental menos glamoroso no canto mais discreto de Taiwan.
 
-Aquelas botas de chuva altas do lado de fora da sala ainda estão lá. O arrozal ainda é plantado. A casa na árvore ainda é construída.
+As botas de chuva do lado de fora daquela sala de aula ainda estão lá. Os arrozais ainda são cultivados. As cabanas ainda estão sendo construídas.
 
-**Leitura complementar**:
+**Leituras Relacionadas**:
 
-- [Cultura das convenience stores em Taiwan](/pt/lifestyle/convenience-store-culture) — Yan Chang-shou mudou o olhar dos taiwaneses sobre o "setor de serviços"; as convenience stores transformaram o setor de serviços em infraestrutura nacional
-- [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Ideia central da Junyi: a cultura indígena não precisa ser "salva", precisa ser respeitada
-- [Cultura do café em Taiwan](/lifestyle/台灣咖啡文化) — Na época em que Yan impulsionava serviço premium no The Regent, os taiwaneses ainda bebiam café solúvel
-- [Ensinar por Taiwan TFT](/pt/society/teach-for-taiwan) — Outro projeto educacional catalisado por Yan, Liu An-ting lidera quatrocentos jovens nas salas de aula do interior
-- [Lu Kuan-wei](/pt/people/lu-guan-wei-junyiacademy-founder) — Presidente da Plataforma Educacional Junyi; o nome "Junyi" vem justamente da Escola Junyi de Ensino Fundamental e Médio de Taitung fundada por Yan Chang-shou
+- [Cultura de lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — Yan Chang-shou mudou a visão dos taiuaneses sobre "serviços", e as lojas de conveniência transformaram os serviços em uma infraestrutura básica para todos.
+- [Mapa cultural das 16 tribos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — O conceito central da escola Junyi: a cultura indígena não é algo que precisa ser "salvo", mas sim respeitado.
+- [Cultura do café em Taiwan](/pt/food/taiwan-coffee-culture) — Na época em que Yan Chang-shou promoveu serviços _boutique_ em Yadu, os taiuaneses ainda bebiam café instantâneo.
+- [Ensinar por Taiwan TFT](/pt/society/teach-for-taiwan) — Outro projeto educacional impulsionado por Yan Chang-shou, onde Liu An-ting lidera quatrocentos jovens a entrar em salas de aula rurais.
+- [Lu Guan-wei](/pt/people/lu-guan-wei-junyiacademy-founder) — Presidente do conselho da plataforma Junyi; o nome "Junyi" é emprestado da Escola Média e Primária de Jinzun, fundada por Yan Chang-shou.
 
 ## Referências
 

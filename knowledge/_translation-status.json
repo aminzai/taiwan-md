@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T06:52:16+08:00",
-    "zhCommitHead": "baaf06ef0",
+    "lastUpdated": "2026-09-18T06:52:46+08:00",
+    "zhCommitHead": "d82ffa6b0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 64,
         "metadata_stale": 14,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "hi": {
@@ -29804,8 +29804,8 @@
           "sourceContentHash": "sha256:4702dd502f640592",
           "sourceBodyHash": "sha256:2025d0771f75493c",
           "translatedAt": "2026-09-17T21:22:31.738701+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "d82ffa6b",
+          "translationLastModified": "2026-09-18T06:52:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -102515,7 +102515,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/yoga-lin.md",
+          "translatedFrom": "People/林宥嘉.md",
+          "sourceCommitSha": "b358c8028",
+          "sourceContentHash": "sha256:81084f8c4d60488a",
+          "sourceBodyHash": "sha256:e37ed40c36801365",
+          "translatedAt": "2026-09-18T00:53:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/yoga-lin.md",
@@ -105539,8 +105550,8 @@
           "sourceContentHash": "sha256:f03fe4356a8b034b",
           "sourceBodyHash": "sha256:0511dd3ec1c7896e",
           "translatedAt": "2026-09-17T20:53:52.292672+00:00",
-          "translationLastCommit": "c0e0d713",
-          "translationLastModified": "2026-07-27T19:09:22+08:00",
+          "translationLastCommit": "d82ffa6b",
+          "translationLastModified": "2026-09-18T06:52:17+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -155744,8 +155755,8 @@
           "sourceContentHash": "sha256:833f85e006d23e04",
           "sourceBodyHash": "sha256:fa90458e0d20dada",
           "translatedAt": "2026-09-18T00:53:02+08:00",
-          "translationLastCommit": "be93d737",
-          "translationLastModified": "2026-08-04T17:31:41+08:00",
+          "translationLastCommit": "d82ffa6b",
+          "translationLastModified": "2026-09-18T06:52:17+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -176024,8 +176035,8 @@
           "sourceContentHash": "sha256:7f4fc66b36800cb9",
           "sourceBodyHash": "sha256:3e6fa91c9ef25405",
           "translatedAt": "2026-09-18T00:53:02+08:00",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "d82ffa6b",
+          "translationLastModified": "2026-09-18T06:52:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
