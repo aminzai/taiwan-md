@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T21:30:09+08:00",
-    "zhCommitHead": "390e85970",
+    "lastUpdated": "2026-09-17T21:51:27+08:00",
+    "zhCommitHead": "d7fa678fb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1024,
-        "stale": 61,
+        "fresh": 1025,
+        "stale": 60,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 995,
-        "stale": 75,
+        "fresh": 996,
+        "stale": 74,
         "metadata_stale": 16,
         "missing": 35,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 746,
+        "fresh": 747,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 368,
+        "missing": 367,
         "orphan": 0
       }
     },
@@ -25866,7 +25866,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/ai-development-in-taiwan.md",
+          "translatedFrom": "Technology/AI發展.md",
+          "sourceCommitSha": "96945e450",
+          "sourceContentHash": "sha256:c3a35976261aaad4",
+          "sourceBodyHash": "sha256:54302f24eb8f8f54",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -38546,8 +38557,8 @@
           "sourceContentHash": "sha256:3100c78e3e84a12a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T04:53:11.230562+00:00",
-          "translationLastCommit": "b67b190f",
-          "translationLastModified": "2026-09-07T17:52:24+08:00",
+          "translationLastCommit": "d7fa678f",
+          "translationLastModified": "2026-09-17T21:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -79216,8 +79227,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-17T06:43:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d7fa678f",
+          "translationLastModified": "2026-09-17T21:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -87187,7 +87198,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/no-party-for-cao-dong.md",
+          "translatedFrom": "People/草東沒有派對.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:62a474db99f7907b",
+          "sourceBodyHash": "sha256:df0b89348caf6487",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/no-party-for-cao-dong.md",
@@ -93068,18 +93090,16 @@
         "fr": {
           "path": "fr/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-28T04:03:52+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-17T13:51:06.078680+00:00",
           "translationLastCommit": "3333720f",
           "translationLastModified": "2026-07-28T09:58:10+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/jensen-huang.md",
@@ -165561,18 +165581,16 @@
         "ko": {
           "path": "ko/Geography/keelung-city.md",
           "translatedFrom": "Geography/基隆市.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:d96d5a768e497ec1",
-          "sourceBodyHash": "sha256:a875e0cc381f5fed",
-          "translatedAt": "2026-06-16T16:38:41Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2fb0e2b29a78f122",
+          "sourceBodyHash": "sha256:5db325d228abad28",
+          "translatedAt": "2026-09-17T13:49:49.540645+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/keelung-city.md",

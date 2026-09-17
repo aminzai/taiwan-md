@@ -2,8 +2,6 @@
 title: 'Comment un article prend vie : la chaîne de réécriture en six étapes de Taiwan.md pour contrer l’instinct de l’écriture par IA'
 description: 'Chaque article Taiwan.md que vous lisez, avec sa chaleur, ses scènes et sa vérifiabilité, repose sur six étapes, plus de vingt portes d’entrée infranchissables et un service de rédaction IA qui ne rédige jamais lui-même. La seule raison d’être de cette machine est de corriger les erreurs les plus fréquentes de l’écriture par IA : trier les faits par ordre chronologique dès qu’ils sont trouvés, générer des phrases plastiques sans densité informationnelle, transformer des résumés anglais en citations fictives par retour à la traduction, ou se laisser infecter par les mauvaises habitudes d’articles anciens. Cet article démonte cette chaîne de production, qui est elle-même le produit de cette chaîne.'
 date: 2026-06-19
-author: 'Taiwan.md'
-category: 'About'
 tags:
   [
     'about',
@@ -15,15 +13,18 @@ tags:
     'semiont',
     'écriture par IA',
   ]
+author: 'Taiwan.md'
+category: 'About'
 readingTime: 11
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: '984fb7892'
-sourceContentHash: 'sha256:92fcb394123e4aee'
-sourceBodyHash: 'sha256:b8984a2133e5738f'
-translatedAt: '2026-07-25T21:33:44+08:00'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:4dc98dc84117c5d8'
+sourceBodyHash: 'sha256:2679dec9ddab6dbc'
+translatedAt: '2026-09-17T11:08:48.647663+00:00'
 ---
 
 # Comment un article prend vie : la chaîne de réécriture en six étapes de Taiwan.md pour contrer l’instinct de l’écriture par IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -205,21 +206,21 @@ La retenue est l’autre face. La vie familiale, les maladies, les contradiction
 
 Il existe enfin une habitude minuscule mais cruciale : écrire « Taïwan » sans crainte. L’empreinte digitale se cache dans le style de traduction directe des agences de presse étrangères ; pour éviter d’écrire Taïwan, on utilise des substituts comme « cette île » ou « cet endroit », surtout dans les titres et les introductions. L’île en tant qu’image littéraire ou scène géographique peut et doit être écrite ; il faut éliminer l’évitement qui empêche d’écrire Taïwan.
 
-## Une différence visible en un coup d’œil
+## Une différence qu’on saisit du premier coup d’œil
 
-À quoi ressemblent ces disciplines combinées ? Un avant-après est le plus rapide.
+Ces disciplines réunies donnent un résultat précis, et le mieux pour le voir, c’est un avant‑après.
 
-Pour un article sur Tai Tzu-ying, le modèle vide de l’IA serait « Célèbre joueuse de badminton taïwanaise, performance exceptionnelle sur les circuits internationaux, de multiples récompenses, fait briller Taïwan », suivi de quatre puces : réalisations principales, style de jeu, influence internationale, contribution sociale. Aucun chiffre concret, aucune compétition spécifique ; le sujet peut être remplacé par n’importe quel athlète.
+Prenons l’exemple de Tsai Ing‑wen : le modèle creux d’une IA serait « joueuse de badminton taïwanaise célèbre, qui s’est illustrée sur la scène internationale, a remporté de multiples prix, a fait honneur à Taïwan », suivi de quatre puces : principales réalisations, style de jeu, influence internationale, contribution sociale. Dans tout ce paragraphe, pas une seule année précise, pas un seul match nommé, et le sujet pourrait être remplacé par n’importe quel sportif.
 
 ```tw-versus
-Modèle vide de l’IA | Version curation
-Performance exceptionnelle, fait briller Taïwan | A atteint le n°1 mondial, pendant 214 semaines consécutives
-Quatre puces : réalisations / style / influence / contribution | Après la finale olympique de Tokyo 2020, larmes face à Chen Yu-fei, devient le n°1 des recherches Google Taïwan
-Le sujet peut être remplacé par n’importe qui | 6 heures par jour depuis l’âge de 6 ans, style « magicien » de la main gauche
-Source : EDITORIAL v6.12 §Avant/Après Tai Tzu-ying
+Modèle creux d’IA | Version éditoriale
+S’est illustrée, a fait honneur à Taïwan | Numéro 1 mondiale, 214 semaines d’affilée
+Quatre puces : réalisations / style / influence / contribution | 2020, aux Jeux olympiques de Tokyo, en larmes après la finale perdue, en tête des recherches Google à Taïwan
+Le sujet pourrait être remplacé par n’importe qui | 6 heures de jeu quotidiennes dès l’âge de 6 ans, la « main magique » de sa main gauche
+Source : EDITORIAL v6.12 §Before/After Tsai Ing‑wen
 ```
 
-La version curation ne fait qu’une chose : remplacer chaque adjectif abstrait par un fait vérifiable. 214 semaines est la plus longue série de semaines consécutives au n°1 dans l’histoire du badminton féminin ; la finale olympique de 2020 perdue face à Chen Yu-fei est un moment mémorisé collectivement par Taïwan. La chaleur se cache dans des endroits comme « l’instant de la défaite est celui que le lecteur se souvient ». Pour Mayday, il vaut mieux écrire « cinq étudiants de l’école secondaire annexe de l’université normale ont chanté une chanson sur une scène de fortune ; 28 ans plus tard, ils ont donné deux concerts à Madison Square Garden (la même scène où les Beatles sont entrés aux États-Unis), les billets étant épuisés en 48 heures »[^13].
+La version éditoriale ne fait qu’une seule chose : remplacer chaque adjectif abstrait par un fait vérifiable. Les 214 semaines sont les plus longues de l’histoire du badminton féminin ; le match perdu contre Chen Yu‑wei aux Jeux olympiques de 2020 est un moment gravé dans la mémoire collective taïwanaise. La température émotionnelle se lit dans l’idée que « c’est dans le moment de la défaite que les lecteurs se souviennent le plus ». Le texte sur Mayday est exactement le même : au lieu d’écrire « l’un des groupes de rock les plus influents de Taïwan, qui a conquis les fans avec de la musique positive », on préfère « quatre étudiants du lycée attaché de l’Université normale de Taïwan ont joué une chanson sur scène, et 28 ans plus tard, sur la place Madison Square Garden à New York — la même scène que les Beatles lors de leur premier tournant aux États‑Unis — ils ont donné deux concerts, les billets étant écoulés en 48 heures »[^13]。
 
 ## Un service de rédaction qui ne rédige jamais lui-même
 

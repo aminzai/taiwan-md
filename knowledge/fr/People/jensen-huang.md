@@ -22,10 +22,10 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e9178b000513a553'
-sourceBodyHash: 'sha256:0447f104316070ca'
-translatedAt: '2026-07-28T04:03:52+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-17T13:51:06.078680+00:00'
 ---
 
 # Jensen Huang (黃仁勳)
@@ -143,26 +143,27 @@ Curtis Priem se souvient : « Nous l'avons écouté dès le premier jour. Nous l
 
 Interrogé sur la façon dont il a survécu à ces années sans fin, sa réponse était typique de Jensen Huang : « Il y a beaucoup de souffrance au milieu, mais il faut croire en ce que l'on croit » (There's a lot of suffering in between, but you've gotta believe what you believe)[^18]. Cette phrase pourrait presque servir de note de bas de page à toute sa carrière : du nettoyage des toilettes, au lavage de la vaisselle, à l'impasse du rendu quadrilatère, jusqu'aux seize ans d'attente du CUDA, ce qui le distingue, c'est qu'au cours des dix premières années où le pari n'avait pas encore été encaissé, il n'a jamais lâché prise.
 
-## L'homme qui nettoyait les toilettes et son tatouage NVIDIA
+## Le tatouage NVIDIA de l'homme qui nettoie les toilettes
 
-En 2024, Jensen Huang reçut un doctorat honoris causa de l'Université nationale de Taïwan, fut élu meilleur PDG de l'année par _The Economist_ et figura dans la liste des 100 personnalités les plus influentes de _Time_. En 2025, lui et le scientifique en chef de NVIDIA, Bill Dally, reçurent ensemble le Prix d'ingénierie de la reine Élisabeth (Queen Elizabeth Prize for Engineering), aux côtés des pionniers de l'IA Geoffrey Hinton, Yann LeCun, Fei-Fei Li, etc., le roi Charles III d'Angleterre lui-même lui remettant le prix au Palais de Saint-James[^12].
+En 2024, Jensen Huang a reçu un doctorat honoris causa de l'Université nationale de Taïwan, a été nommé meilleur PDG de l'année par _The Economist_ et est apparu dans le classement des cent influenceurs majeurs du _Time_. En 2025, il a reçu avec le scientifique en chef de NVIDIA, Bill Dally, le Prix de la Reine Elizabeth pour l'ingénierie (Queen Elizabeth Prize for Engineering), se rangeant au même niveau que les pionniers de l'IA Geoffrey Hinton, Yann LeCun et Fei-Fei Li, récompensés personnellement par le roi Charles III à Saint James's Palace [^12].
 
-En 2026, de nombreux médias le qualifièrent directement d'« idole de l'IA » ; chaque discours public était considéré comme un baromètre de toute l'industrie, et même la veste en cuir qu'il portait ou ce qu'il mangeait dans un stand de marché de nuit pouvaient figurer à la une des journaux. Un étudiant en génie électrique de seize ans, qui sauta deux niveaux et ressemblait encore à un enfant, est arrivé à une position où le monde entier écoute attentivement ce qu'il dit. Et sa réponse à tout cela reste de voler chaque trimestre vers Taïwan, de se faufiler dans les stands de rue de Tainan, et de se disputer avec les vendeurs en taïwanais.
+En 2026, de nombreux médias l'ont qualifié directement de « gourou de l'IA », chaque conférence publique étant considérée comme un baromètre pour tout le secteur. Même son choix de veste en cuir ou ce qu'il mange sur un marché nocturne faisait la une des journaux. Un étudiant en ingénierie, qui avait bondi deux niveaux à l'âge de seize ans et qui ressemblait encore à un enfant, était parvenu au point où le monde entier écoutait ses paroles. Sa manière de réagir à tout cela est restée la même : revenir chaque trimestre à Taïwan, s'introduire dans une petite échoppe de cuisine à Tainan, et argumenter avec les propriétaires en taïwanais.
 
-Mais au-delà de tous les titres, un détail pourrait mieux dire qui il est. Lorsque la capitalisation boursière de NVIDIA franchit le cap du billion de dollars, il tint sa promesse aux employés et se tatoua le logo de NVIDIA sur le bras.
+Mais au-delà de tous ces titres, un détail pourrait mieux expliquer qui il est. Lorsque la valorisation de NVIDIA a dépassé le trillion de dollars, il a tenu sa promesse envers ses employés en se faisant tatouer le logo de NVIDIA sur le bras.
 
-Jensen Huang a maintenant un tatouage de marque commerciale sur le bras. Son colocataire de dix ans, couvert de tatouages, lui apprit l'haltérophilie ; il lui apprit à lire. Ce marché s'étala sur cinquante ans exactement, probablement le meilleur retour sur investissement (ROI) de sa vie.
+Le bras de Jensen Huang arbore désormais un tatouage portant le logo d'une entreprise. Son colocataire du primaire, qui était entièrement tatoué à dix ans, lui apprenait l'haltérophilie et lui faisait lire. Cette transaction s'est déroulée cinquante ans plus tard, ce fut probablement son investissement avec le meilleur retour sur investissement (ROI) de sa vie.
 
 ---
 
-**À lire également** :
+**Lectures complémentaires** :
 
-- [張忠謀](/fr/people/tsmc-morris-chang) — Le partenaire clé de NVIDIA, fondateur de TSMC, une amitié de plus de trente ans qui a ancré la chaîne d'approvisionnement mondiale de l'IA
-- [台灣企業：台積電](/fr/economy/tsmc) — L'entreprise taïwanaise qui fabrique les puces les plus avancées de NVIDIA, l'« héros mondial » selon Jensen Huang
-- [台灣半導體產業](/fr/technology/taiwan-semiconductor-industry) — Les puces de Jensen Huang et de Lisa Su sont toutes fabriquées sur cette île ; c'est le bouclier de silicium de Taïwan
-- [NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的](/fr/technology/nvidia-in-taiwan) — L'entreprise qu'il a fondée coexiste avec l'industrie de cette île : puces, serveurs, siège social, et un accord foncier de 4,434 milliards
-- [紀懷新：教 AI 學會「一步一步想」的台灣人](/fr/people/chi-huai-hsin) — Un autre Taïwanais au front de l'IA : les puces de Jensen Huang font tourner l'IA rapidement, la pensée en chaîne de Chi-Hsin Chi fait apprendre à l'IA à raisonner étape par étape
-- [江振誠](/fr/people/andre-chiang-taiwanese-culinary-innovator) — Un autre Taïwanais au sommet de l'international, suivant une voie opposée : se retourner activement au sommet, refusant d'être défini par un titre
+- [Morris Chang](/fr/people/tsmc-morris-chang) — Le partenaire le plus crucial de NVIDIA, fondateur de TSMC, une relation de plus de trente ans qui soutient la chaîne d'approvisionnement mondiale de l'IA
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — L'entreprise taïwanaise qui fabrique les puces les plus avancées pour NVIDIA, le « héros mondial » selon Jensen Huang
+- [Industrie des semi-conducteurs à Taïwan](/fr/technology/taiwan-semiconductor-industry) — Les puces de Jensen Huang et Lisa Su sont fabriquées sur cette île ; c'est le bouclier de silicium de Taïwan
+- [NVIDIA à Taïwan : l'entreprise la plus chère du monde, sans puce faite en interne](/fr/technology/nvidia-in-taiwan) — L'écosystème symbiotique entre son entreprise et cette île : puces, serveurs, siège social, pour une valeur de 44,34 milliards
+- [Chi Huai Hsin : l'individu taïwanais qui apprend à l'IA à « penser pas à pas »](/fr/people/chi-huai-hsin) — Un autre individu taïwanais à la pointe de l'IA. Les puces de Jensen Huang font fonctionner l'IA rapidement, tandis que les chaînes de pensée de Chi Huai Hsin apprennent au IA à raisonner étape par étape
+- [Andre Chiang](/fr/people/andre-chiang-taiwanese-culinary-innovator) — Un autre individu taïwanais ayant atteint le sommet international, mais qui a emprunté un chemin opposé : il s'est tourné pour partir au sommet et refuse d'être défini par un titre
+- [Histoires de la technologie à Taïwan : 100 points pour les puces, 60 pour le micro](/fr/technology/taiwan-tech-stories) — Mettre en parallèle l'individu taïwanais qui raconte le mieux l'histoire des puces et l'industrie qui raconte le moins d'histoires, pour mesurer cet écart de 40 points
 
 ## Sources des images
 
