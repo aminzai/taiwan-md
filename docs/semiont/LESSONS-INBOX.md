@@ -342,8 +342,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補（未做，命中 §自主權邊界）**：真正的解是把分岔收掉，那是 #56 等哲宇拍板的四紅線外但 >50 檔的裁決，不自主代理。可先做、成本低的兩件：(a) 對外的翻譯缺口清單改成「origin ∪ 未推送分支」的聯集，讓貢獻者至少看得到「這篇有人做了」；(b) maintainer 收翻譯 PR 時把雙邊路徑對賬變成**必跑的一步**（今天是手動想到才查），撞車時在 merge 留言裡告訴對方，別讓他下一篇又挑到同一格。
 - **另記（同輪，不另開條目）**：本輪為了量化這件事臨時寫的 MoE 辭典查詢腳本，正則沒對上頁面實際的 `找到正文<cb>N</cb>則` 標記，25 條全部靜默回 0，差一步就把「0/25」當發現寫進 PR。抓到它的不是任何閘門，是我剛好知道「簽名」不可能查不到。**cycle 內臨時造的尺不繼承 repo 既有儀器的 fail-loud 紀律**（canonical 儀器都有 selftest，臨時腳本沒有）——這是 REFLEXES #24／#38(g) 在「一次性測量」上的再驗證，不是新 pattern，記在這裡供 distill 判斷要不要給臨時測量也立一條最低自驗要求（至少對一個已知正例回歸一次）。
 - **可能層級**：折進 [REFLEXES #82](REFLEXES.md)（proxy signal——對外公布的缺口是真實缺口的替身）或 [#38](REFLEXES.md)（同一份「缺口」讀數混了兩種根因：真的沒人做 vs 做了推不上去）。
-- **相關**：OBSERVER-QUEUE #56、LESSONS `same-language-slug-collision-is-invisible-to-both-instruments`、`divergence-warning-is-tree-level-not-per-file`、REFLEXES #82、#38、#16
-- **verification_count**: 1（首次量化；分岔本身的其他病徵已在 09-14 兩條記過）
+- **相關**：OBSERVER-QUEUE #67（「118 篇雙邊獨立譯文待哲宇取捨」引用的 `#56` 是本機側舊編號，canonical 檔案裡同一件事現住 #67「babel 可不可以覆蓋投稿者翻好的譯文」）、LESSONS `same-language-slug-collision-is-invisible-to-both-instruments`、`divergence-warning-is-tree-level-not-per-file`、REFLEXES #82、#38、#16
+- **verification_count**: 2（2026-09-17 twmd-heartbeat 收官：本機 main 落後 origin 74、領先 318 個 commit 的分岔已 merge 回去，merge-tree 只在 7 個檔案撞 add/add——遠低於累計提及的「118 篇」。差距沒查清：可能多數重疊在更早的 maintainer session 已直接於 origin 側收下貢獻者 PR 定案，本機端獨立譯文從未被 diff 進同一次三方合併就成了死歷史，不會觸發衝突提示。7 個衝突全部照「留 translatedAt 較新版本」解決，未套用 #67 建議的 B 選項判準（open-PR 過濾／人寫譯文不覆蓋）——那是哲宇要拍板的政策，本次只是把已經分岔的兩份歷史接回同一棵樹，不是在執行 #67 的修法）
 - **severity**: structural（不報錯、不變紅；成本落在專案外部的人身上，所以內部所有儀器都不會痛）
 
 ### 2026-09-15 twmd-maintainer-am — named-entity-present-but-in-a-different-role：來源裡真的有那個名字，只是它講的是另一件事
