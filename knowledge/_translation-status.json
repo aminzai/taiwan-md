@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T04:34:20+08:00",
-    "zhCommitHead": "4587a55eb",
+    "lastUpdated": "2026-09-18T05:10:27+08:00",
+    "zhCommitHead": "decd73b90",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 165,
+        "missing": 164,
         "orphan": 0
       },
       "ko": {
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1013,
-        "stale": 67,
+        "fresh": 1014,
+        "stale": 66,
         "metadata_stale": 11,
         "missing": 30,
         "orphan": 0
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 932,
-        "stale": 80,
+        "fresh": 934,
+        "stale": 79,
         "metadata_stale": 76,
-        "missing": 33,
+        "missing": 32,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 222,
+        "missing": 221,
         "orphan": 0
       },
       "pt": {
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 159,
+        "missing": 158,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 951,
+        "fresh": 952,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 119,
+        "missing": 118,
         "orphan": 0
       },
       "de": {
@@ -32723,7 +32723,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/chi-po-hao-musician.md",
+          "translatedFrom": "Art/紀柏豪.md",
+          "sourceCommitSha": "4138a07a1",
+          "sourceContentHash": "sha256:cc5a95c84301cdb2",
+          "sourceBodyHash": "sha256:584bf91da94df29e",
+          "translatedAt": "2026-09-18T00:53:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/chi-po-hao-musician.md",
@@ -59396,7 +59407,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/taiwan-community-college.md",
+          "translatedFrom": "Society/台灣社區大學.md",
+          "sourceCommitSha": "32ef726ca",
+          "sourceContentHash": "sha256:26ade929698dbe6a",
+          "sourceBodyHash": "sha256:c1ebe56158fbfca4",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-community-college.md",
@@ -65162,7 +65184,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/About/how-an-article-is-born.md",
+          "translatedFrom": "About/文章如何誕生.md",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-18T00:53:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -74505,8 +74538,8 @@
           "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-09-18T00:53:02+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "decd73b9",
+          "translationLastModified": "2026-09-18T04:34:20+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -104761,8 +104794,8 @@
           "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
           "sourceBodyHash": "sha256:396a9fed148c94a2",
           "translatedAt": "2026-09-18T00:53:02+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "decd73b9",
+          "translationLastModified": "2026-09-18T04:34:20+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -105474,18 +105507,16 @@
         "es": {
           "path": "es/People/stanley-yen.md",
           "translatedFrom": "People/嚴長壽.md",
-          "sourceCommitSha": "df2e7558",
-          "sourceContentHash": "sha256:259b129f305ff5f9",
-          "sourceBodyHash": "sha256:366255e36a4fa0f5",
-          "translatedAt": "2026-06-16T17:14:11Z",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:f03fe4356a8b034b",
+          "sourceBodyHash": "sha256:0511dd3ec1c7896e",
+          "translatedAt": "2026-09-17T20:53:52.292672+00:00",
           "translationLastCommit": "c0e0d713",
           "translationLastModified": "2026-07-27T19:09:22+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/stanley-yen.md",
@@ -105506,18 +105537,16 @@
         "vi": {
           "path": "vi/People/stanley-yen.md",
           "translatedFrom": "People/嚴長壽.md",
-          "sourceCommitSha": "df2e75589",
-          "sourceContentHash": "sha256:259b129f305ff5f9",
-          "sourceBodyHash": "sha256:366255e36a4fa0f5",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:f03fe4356a8b034b",
+          "sourceBodyHash": "sha256:0511dd3ec1c7896e",
+          "translatedAt": "2026-09-17T20:38:30.713064+00:00",
           "translationLastCommit": "6ca2d1bd",
           "translationLastModified": "2026-08-09T11:22:29+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/stanley-yen.md",
@@ -106735,8 +106764,8 @@
           "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-09-18T00:53:02+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "decd73b9",
+          "translationLastModified": "2026-09-18T04:34:20+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -150706,7 +150735,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/87.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-18T00:53:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/87.md",
@@ -150848,7 +150888,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-18T00:53:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/chiayi-agriculture-forestry.md",
