@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T19:04:25+08:00",
-    "zhCommitHead": "0aaed0671",
+    "lastUpdated": "2026-09-17T19:07:32+08:00",
+    "zhCommitHead": "3415a0a93",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 175,
+        "missing": 174,
         "orphan": 0
       },
       "ko": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 746,
+        "fresh": 745,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 368,
+        "missing": 369,
         "orphan": 0
       }
     },
@@ -14926,7 +14926,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/taiwan-beer.md",
+          "translatedFrom": "Economy/台灣啤酒.md",
+          "sourceCommitSha": "1780542f1",
+          "sourceContentHash": "sha256:fbdac9dc4471a8c3",
+          "sourceBodyHash": "sha256:9ec6e716477e4f06",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-beer.md",
@@ -52184,8 +52195,8 @@
           "sourceContentHash": "sha256:21ee8c77270d6c3e",
           "sourceBodyHash": "sha256:bafb3fe2db142763",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3415a0a9",
+          "translationLastModified": "2026-09-17T19:04:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -155770,18 +155781,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
