@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T23:44:13+08:00",
-    "zhCommitHead": "aa24092c4",
+    "lastUpdated": "2026-09-17T23:46:42+08:00",
+    "zhCommitHead": "33ccee24f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1009,
-        "stale": 68,
+        "fresh": 1010,
+        "stale": 67,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 748,
+        "fresh": 749,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 366,
+        "missing": 365,
         "orphan": 0
       }
     },
@@ -24864,7 +24864,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/open-source-and-g0v.md",
+          "translatedFrom": "Technology/開源社群與g0v.md",
+          "sourceCommitSha": "6eeee35c8",
+          "sourceContentHash": "sha256:ccabd00d4cba7d6b",
+          "sourceBodyHash": "sha256:c135fc23da71593b",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -73112,16 +73123,16 @@
         "es": {
           "path": "es/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-05-24T05:06:33+08:00",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:49afbaec6d9c06b3",
+          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
+          "translatedAt": "2026-09-17T06:43:38+08:00",
           "translationLastCommit": "021f678c",
           "translationLastModified": "2026-07-17T19:43:15+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwanese-black-bear.md",
@@ -87079,8 +87090,8 @@
           "sourceContentHash": "sha256:676de125f3707dd4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T13:00:19.097927+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ccee24",
+          "translationLastModified": "2026-09-17T23:44:13+08:00",
           "inferred": false,
           "footnoteDefs": 54,
           "status": "fresh",
@@ -87235,8 +87246,8 @@
           "sourceContentHash": "sha256:62a474db99f7907b",
           "sourceBodyHash": "sha256:df0b89348caf6487",
           "translatedAt": "2026-09-17T06:43:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ccee24",
+          "translationLastModified": "2026-09-17T23:44:13+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -164252,8 +164263,8 @@
           "sourceContentHash": "sha256:4e7a3c516a1c10ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T15:07:08.921221+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ccee24",
+          "translationLastModified": "2026-09-17T23:44:13+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -169129,8 +169140,8 @@
           "sourceContentHash": "sha256:b1932b90a96124c5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T14:07:18.750981+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ccee24",
+          "translationLastModified": "2026-09-17T23:44:13+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "status": "fresh",
