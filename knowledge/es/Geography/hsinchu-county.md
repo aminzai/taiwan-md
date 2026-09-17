@@ -2,9 +2,7 @@
 title: 'Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian'
 description: 'En el invierno de 1788, en la ladera de una colina en Xinpu, se colocó la fundación de un Pabellón Bao-chong para enterrar conjuntamente a más de doscientos milicianos yi-min (voluntarios justos) de origen Hakka caídos durante la rebelión de Lin Shuangwen. 235 años después, el ritual rotativo de los quince lián-zhuang (alianzas de aldeas) del Festival de los Yi-min, celebrado cada año el vigésimo día del séptimo mes lunar, sigue en marcha. A 5 kilómetros de distancia, en la ciudad de Zhubei, el ingreso per cápita de 1.442 millones de dólares taiwaneses en 2025 se alzó con el primer lugar entre las 368 divisiones municipales de todo Taiwán, atraído por la fábrica de obleas de 2 nanómetros de la Fase II de Baoshan de TSMC. El 67.8% de la población del Condado de Hsinchu es de origen Hakka, la proporción más alta de Taiwán. Pero entre los 220,000 habitantes de Zhubei, sede del condado, los jóvenes Hakka que pueden permitirse comprar una casa en su propia tierra natal son cada vez menos.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Hsinchu',
@@ -21,19 +19,23 @@ tags:
     'TSMC',
     'Serie de 22 condados y ciudades',
   ]
-readingTime: 17
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
-translatedFrom: Geography/新竹縣.md
-sourceCommitSha: 'fe48ea49'
-sourceContentHash: 'sha256:eefcd1a536e4ddf5'
-sourceBodyHash: 'sha256:a716f79b2442afc5'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/hsinchu-county-hero.webp
-imageCredit: Outlookxp
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg
+readingTime: 17
+researchReport: 'reports/research/2026-05/新竹縣.md'
+series: '22 縣市系列（batch 2）'
+image: '/article-images/geography/hsinchu-county-hero.webp'
+imageCredit: 'Outlookxp'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg'
+translatedFrom: 'Geography/新竹縣.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:bf74cbc86604e18b'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
+translatedAt: '2026-09-17T12:54:48.908799+00:00'
 ---
 
 # Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian
@@ -88,20 +90,20 @@ La Mansión de Jiang Axin se confunde a menudo con un edificio del período colo
 
 > **✦** "**Mientras yo esté un día, la música de los ocho sonidos no se extinguirá.**" (Cita de Peng Junyang, heredero local de la música bayin en Beipu, según la revista VERSE[^14])
 
-## El Jiǔjiàngfēng que sopla desde arriba: pasteles de caqui, fideos de arroz y té Pengfeng
+## El viento de Jiǔjiàngfēng: pasteles de caqui, fideos y té Pèngfēng
 
-El clima del Condado de Hsinchu está determinado por la orografía.
+El clima del Condado de Hsinchu está determinado por su geografía.
 
-La cordillera de Xueshan, el lado suroeste de las colinas de Xiangshan y la meseta de Hukou forman una llanura aluvial en forma de trompeta. Cuando el monzón del noreste entra, se intensifica al verse confinado por el terreno, generando un viento fuerte y seco conocido como "Jiǔjiàngfēng" (viento de los nueve descensos) a partir del noveno mes lunar (aproximadamente mediados de octubre gregoriano), con velocidades de hasta 20 metros por segundo[^17]. El Jiǔjiàngfēng convierte tres productos en especialidades del Condado de Hsinchu: los fideos de arroz de Hsinchu (en la zona de Zhubei, los fideos remojados se cuelgan de bastidores de bambú; el viento del norte los seca de manera más uniforme que el sol), los pasteles de caqui de Xinpu (en el pueblo de Hankeng, secados al sol de septiembre a diciembre, con una historia de al menos 170 años; proceso de 7 a 9 días: retirar el tallo, pelar, secar al sol, secar al viento, dar forma), y la hierba de hada (xiāncǎo) de Guanxi (cosechada tras secarse con el viento del norte, utilizada para gelatina de hierba de hada y hierba de hada caliente; el municipio de Guanxi en el Condado de Hsinchu representa más del 60% de la producción nacional de hierba de hada)[^18].
+La llanura aluvial en forma de trompeta que rodea la ladera montañosa al suroeste de la cordillera de Xue Shan, las colinas de Xiangshan y la meseta de Hukou, se ve intensificada por el monzón del noreste; a partir de finales de septiembre del calendario lunar (aproximadamente mediados de octubre del calendario gregoriano), comienza a soplar un viento seco y frío conocido como "Jiǔjiàngfēng", con velocidades que alcanzan hasta 20 metros por segundo[^17]. El Jiǔjiàngfēng ayuda a crear tres especialidades de Hsinchu: los fideos de Hsinchu (en la zona de Zhubei, donde se cuelgan después de remojar en agua para secarse al viento, lo cual es más uniforme que el secado solar), los pasteles de caqui de Xinpu (se secan al sol en Han-kengli de diciembre a enero, con una historia de al menos 170 años y un proceso de 7 a 9 días: quitar el pedúnculo, pelar, secar al sol, secar con viento, dar forma), y la planta仙草 (Xiān Cǎo) de Guānxī (se cosecha después del secado con viento para hacer gelatina de Xiān Cǎo o quemarla; la ciudad de Guānxī en Hsinchu representa más del 60% de la producción nacional de esta planta)[^18].
 
-![Té molido (leicha) en Beipu, abril de 2023. El leicha es una bebida tradicional Hakka hecha moliendo té, sésamo, cacahuetes y más de diez ingredientes en un mortero de cerámica. Durante el proceso de turificación de Beipu en la posguerra, se convirtió en la experiencia culinaria Hakka más reconocible del Condado de Hsinchu.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_Leicha de Beipu. Foto: Oficina Presidencial. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+![Té Lei cha de Beipu, abril de 2023. El té tradicional Hakka se elabora moliendo hojas de té, sésamo, cacahuetes y otros más de diez ingredientes en un mortero de cerámica; se convirtió en una experiencia gastronómica Hakka distintiva durante la proceso de turismo posguerra en Hsinchu.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
+_Té Lei cha de Beipu. Foto: Casa Presidencial. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei%20cha%20at%20Beipu%2C%20Taiwan%202023-04-09.jpg)._
 
-Xinpu también tiene otra calle famosa: la calle de los fideos de arroz (bǎntiao). En el área de las calles Zhongzheng, Heping y Chenggong se concentran más de 200 tiendas de bǎntiao, existiendo el dicho "**en el norte Xinpu, en el sur Nannong**"[^19]. Los bǎntiao Hakka son un identificador de la gastronomía Hakka; lo que los Hokkien llaman "bǎntiao" es lo mismo con diferente grafía.
+Xinpu tiene otra calle, la Calle Bǎntiáo (Plank Street). La zona de Zhongzheng Road, Heping Street y Chenggong Street alberga más de 200 tiendas de Bǎntiáo, lo que da lugar a la expresión "**Beixinpu, Nanmeinou**" [^19]. El Bǎntiáo Hakka es un elemento distintivo de la gastronomía Hakka; es lo mismo que el "粄條" (Kuai Tiao) mencionado por los habitantes de He Luo, pero con una escritura diferente.
 
-La industria tealera es otra línea económica en las colinas del Condado de Hsinchu. El municipio de Beipu lo llama "té Pengfeng" (té inflado), y el municipio de Emei lo llama "Té de la Bella Oriental"; en realidad es el mismo té con diferentes nombres locales en los dos municipios. La clave de la elaboración: las hojas de té deben ser primero succionadas por el pequeño saltamontes verde (Jacobiella formosana) para formar brotes "zhuóxiǎng", y solo entonces las hojas desarrollan un aroma especial a miel y fruta madura; no se pueden usar pesticidas (si se rocían, los insectos huyen)[^20]. La tasa de fermentación estándar según la Estación de Mejora de la Industria Tealera de Taiwán es del 60%, pero la versión real de los agricultores de Hsinchu y Miaoli puede alcanzar entre el 75% y el 85%. Se dice que el nombre del té proviene de un agricultor que llevó su cosecha a la ciudad y fue comprada en su totalidad por una firma comercial extranjera; los vecinos pensaron que el agricultura estaba "pengfeng" (en hakka, "presumir"). Posteriormente se difundió ampliamente la historia de que "un comerciante británico presentó el té Pengfeng fabricado en la fábrica de té Ruichang de Beipu a la Reina Victoria", pero la fuente documental original de la degustación de la Reina Victoria no está clara[^21]; puede mencionarse como narrativa cultural, pero no debe presentarse como hecho histórico.
+La industria del té es otra línea económica en las colinas de Hsinchu. La aldea de Beipu se llama "Té Pèngfēng", y la aldea de Emei se llama "Té Měirén" (Belleza Oriental), pero en realidad son el mismo tipo de té con diferentes nombres en dos aldeas distintas. El secreto de su elaboración es que las hojas de té primero son consumidas por la mosca verde (_Chrysomela_), lo que da como resultado un té "con gusano" (_zhùcháng_), y solo entonces las hojas producen un aroma especial a miel y a fruta madura; ya que se debe esperar a la mosca verde, no se pueden usar pesticidas (si se rocían insecticidas, los bichos huyen)[^20]. El 60% de fermentación es el estándar del Centro de Mejora del Té de Taiwán, mientras que las versiones prácticas de los agricultores de Hsinchu y Miaoli alcanzan entre el 75% y el 85%. Se dice que el nombre del té proviene de cuando los agricultores lo llevaban a la ciudad para venderlo, y las casas comerciales lo compraron todo; los aldeanos pensaron que los agricultores estaban "inflando" (el Hakka _kuai-niu_, "presumir"), y luego se difundió mucho la historia de que "los comerciantes británicos ofrecieron el té Pèngfēng producido por la fábrica Ruichang de Beipu a la Reina Victoria", pero la fuente original del consumo de té por parte de la reina Victoria es desconocida [^21]; aunque puede mencionarse como una narrativa cultural, no se puede escribir como un hecho histórico.
 
-La correspondencia entre el Jiǔjiàngfēng y las aldeas Hakka se manifiesta en el ritmo de la vida: después del noveno mes lunar, los pasteles de caqui se secan, la hierba de hada se cosecha, los fideos de arroz se cuelgan y las hojas de té se enrollan. Todo el otoño, las aldeas Hakka son un mapa de alimentos secados por el viento.
+El Jiǔjiàngfēng y el pueblo Hakka coinciden en su ritmo de vida: a partir de finales de septiembre, los pasteles de caqui se secan, la Xiān Cǎo se cosecha, los fideos se cuelgan y las hojas de té se muelen. El pueblo Hakka durante todo el otoño es un mapa alimenticio secado por el viento.
 
 ## Smangus: el consejo tribal dice que la tierra es de todos
 

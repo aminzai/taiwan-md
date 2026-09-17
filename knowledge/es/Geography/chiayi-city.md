@@ -2,9 +2,7 @@
 title: 'Ciudad de Chiayi: nombrada Chiayi por un emperador, pero convertida en la ciudad provincial más fácil de pasar por alto'
 description: 'En el año 52 del reinado Qianlong de la dinastía Qing, un edicto cambió el nombre de “Zhuluo” a “Chiayi”: la única ciudad de todo Taiwán cuyo nombre fue otorgado personalmente por un emperador. En 1908, los japoneses levantaron en los arrozales, 3.3 kilómetros al suroeste de esta ciudad, el primer monumento del mundo al trópico de Cáncer. En 1931, el equipo heterogéneo de tres grupos étnicos de la Escuela Agrícola y Forestal de Chiayi llegó al subcampeonato en Koshien. El 25 de marzo de 1947, el pintor Chen Cheng-po fue atado y fusilado frente a la estación de tren; su cadáver permaneció tres días en la calle. Hoy, la Ciudad de Chiayi tiene 260,000 habitantes y 60 kilómetros cuadrados, no cuenta con estación de tren de alta velocidad, está completamente rodeada por el Condado de Chiayi y es un espécimen de ciudad mediana taiwanesa.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Chiayi',
@@ -18,19 +16,23 @@ tags:
     'Arroz con pavo',
     'Serie de 22 condados y ciudades',
   ]
-readingTime: 16
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 16
+researchReport: 'reports/research/2026-05/嘉義市.md'
+series: '22 縣市系列（batch 1）'
+image: '/article-images/geography/chiayi-city-hero.webp'
+imageCredit: 'B2322858'
+imageLicense: 'Public Domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sixth_Generation_Tropic_of_Cancer_in_Chiayi.jpg'
 translatedFrom: 'Geography/嘉義市.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ae83f3951e0a47fc'
-sourceBodyHash: 'sha256:d3fc69c2026ce4f3'
-translatedAt: '2026-06-16T16:40:32Z'
-image: /article-images/geography/chiayi-city-hero.webp
-imageCredit: B2322858
-imageLicense: Public Domain
-imageSource: https://commons.wikimedia.org/wiki/File:Sixth_Generation_Tropic_of_Cancer_in_Chiayi.jpg
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:fe4751f1e66665bd'
+sourceBodyHash: 'sha256:7f19df1b99a37241'
+translatedAt: '2026-09-17T13:25:40.934609+00:00'
 ---
 
 # Ciudad de Chiayi: nombrada Chiayi por un emperador, pero convertida en la ciudad provincial más fácil de pasar por alto
@@ -108,29 +110,29 @@ Chukyo Commercial se convirtió después en la única escuela con tres campeonat
 
 La importancia histórica de ese partido no está en ganar o perder. Fue uno de los primeros ejemplos concretos de cooperación entre tres grupos étnicos dentro del marco de la “modernidad colonial”. **Un partido de béisbol** mostró al mundo que han, indígenas y japoneses podían luchar hombro con hombro en el mismo campo, algo que la propaganda oficial de la época no podía escribir de esa manera. En 2014, la película KANO de Wei Te-sheng devolvió este mito a la memoria colectiva del Taiwán del siglo XXI, pero la historia de Jianong había seguido circulando siempre de boca en boca entre los habitantes de Chiayi. La escuela Jianong todavía existe, hoy elevada a Universidad Nacional de Chiayi, y el campo de béisbol junto al antiguo campus es ahora el Parque KANO.
 
-## Un cadáver tres días en las calles de Chiayi
+## Cadáveres en las calles de Chiayi durante tres días
 
-En marzo de 1947, Chiayi produjo otro relato.
+En marzo de 1947, Chiayi vivió otra historia.
 
-Tras el estallido del Incidente del 28 de Febrero en todo Taiwán, Chiayi vio el 2 de marzo cómo decenas de jóvenes llegados desde Changhua y Taichung hacia el sur “**convocaron a los ciudadanos entre la estación de tren y la fuente**”[^14], es decir, la fuente central del inicio de este artículo. La multitud asaltó la residencia del alcalde Sun Zhijun y la comisaría. El 5 de marzo, Lu Bing-qin, concejal de la Ciudad de Chiayi y secretario de la Liga Juvenil, subió a Alishan para pedir a jóvenes tsou que bajaran a ayudar a mantener el orden; el jefe tsou Gao Yisheng, de nombre indígena Uyongu Yatauyungana, envió a Tang Shouren con jóvenes indígenas para instalarse en el templo Horyu-ji de Chiayi. Ese mismo día, milicias atacaron el aeropuerto de Shuishang y el arsenal de Hongmaopi, con alrededor de 300 víctimas entre muertos y heridos[^14].
+Tras el estallido de los disturbios del 28 de Febrero en toda la isla, el 2 de marzo unos decenas de jóvenes que bajaban desde Changhua y Taichung «**convocaron a los manifestantes entre la estación de tren y la fuente central**»[^14], es decir, la misma fuente central mencionada al inicio del artículo. La multitud asaltó la residencia oficial del alcalde Sun Chih-chün y la comisaría de policía. El 5 de marzo, el concejal municipal de Chiayi y secretario de la juventud Lu Hsüeh-ch’in subió a las montañas Alishan para solicitar la colaboración de los jóvenes de etnia Tsou; el jefe de pueblo Tsou, Alilyong (apellido Uyongu Yatauyungana), envió a Tang Hsiu-cheng a la cabeza de una delegación de jóvenes indígenes que se establecieron en el templo Chiayi Falong. El mismo día, milicianos asaltaron el aeropuerto de Shuishang y el arsenal de Hongmaopi, causando unos 300 heridos o muertos[^14].
 
-Durante el cerco del aeropuerto hubo varias negociaciones. El 8 y 9 de marzo, la parte de Chiayi envió representantes al aeropuerto para negociar; los representantes fueron detenidos, y solo tres comisionadas mujeres fueron liberadas. El 11 de marzo, “**un batallón del Regimiento 430 de la 21.ª División del Ejército llegó al aeropuerto; los refuerzos del sur alcanzaron Chiayi**”[^14]. El 18 del mismo mes, Chen Fuzhi, presidente de la rama de Chiayi del Comité de Resolución del Incidente del 28 de Febrero, “**fue paseado públicamente por las calles y luego fusilado frente a la estación de tren de Chiayi**”[^14].
+Durante el sitio del aeropuerto, ambas partes negociaron en varias ocasiones; del 8 al 9 de marzo, los representantes de Chiayi fueron enviados al aeropuerto para conversar, pero fueron detenidos y sólo tres mujeres fueron liberadas. El 11 de marzo, «**un destacamento del 21º ejército de tierra llegó al aeropuerto, refuerzos del sur llegaron a Chiayi**»[^14]. El 18 de marzo, el presidente de la comisión investigadora del 28 de Febrero en Chiayi, Chen Fu-chi, fue «**fusilado públicamente frente a la estación de tren de Chiayi tras una marcha pública**»[^14].
 
-Siete días después, el 25 de marzo, cuatro concejales de la Ciudad de Chiayi fueron llevados a la plaza frente a la estación de tren: Chen Cheng-po, pintor y primer taiwanés seleccionado en 1926 para la Exposición Imperial de Japón con una obra de pintura occidental; Pan Mu-zhi, médico formado en la educación japonesa; Ke Lin, dueño del Teatro Qingsheng; y Lu Bing-qin, dentista. El especial fotográfico sobre el 28 de Febrero en Chiayi de The Reporter registra: “**El 25 de marzo, Chen Cheng-po, Pan Mu-zhi, Ke Lin y Lu Bing-qin fueron fusilados**”[^14].
+Una semana después, el 25 de marzo, cuatro concejales de Chiayi fueron llevados al cuadrante de la estación de tren: Chen Chen-po (pintor, el primer taiwanés en ser admitido en la exposición imperial japonesa con pintura occidental en 1926), Pan Muzhi (médico formado en Japón), Ke Lin (propietario del cine Qing Sheng) y Lu Hsüeh-ch’in (dentista). El reportero del archivo fotográfico especial del 28 de Febrero en Chiayi, _Chiayi 228 Photo Collection_, registró: «**El 25 de marzo, Chen Chen-po, Pan Muzhi, Ke Lin y Lu Hsüeh-ch’in fueron fusilados**»[^14].
 
-Chen Cheng-po tenía 52 años al morir: nació el 2 de febrero de 1895 y fue fusilado el 25 de marzo de 1947, edad real; la cronología de la Fundación Cultural Chen Cheng-po anota “murió a los 53 años”, según el cómputo tradicional de edad nominal[^15]. Un reportaje en inglés de Taiwan Gazette conserva un detalle: “**The Kuomintang forbade families from collecting the corpses immediately, so Chen's remains were left to decompose on the street for three days**”[^16]. El Kuomintang prohibió a las familias recoger de inmediato los cuerpos, y el cadáver de Chen Cheng-po permaneció tres días en las calles de Chiayi.
+Chen Chen-po murió a los 52 años (nacido el 2 de febrero de 1895, fusilado el 25 de marzo de 1947; edad exacta según cálculo occidental; la cronología de la Fundación Cultural Chen Chen-po indica «falleció a los 53 años» según el cálculo tradicional de edad[^15]). Un artículo en inglés de _Taiwan Gazette_ registró un detalle: «**El Partido Nacional prohibió a las familias recoger los cadáveres de inmediato, por lo que los restos de Chen fueron dejados a descomponer en la calle durante tres días**»[^16]. La prohibición del Partido Nacional impidió que las familias recogieran los cadáveres, y el cuerpo de Chen Chen-po permaneció en la calle de Chiayi durante tres días.
 
-En la misma plaza frente a una estación terminada en 1933, “**la primera estación de estructura de acero y hormigón armado en la línea longitudinal**” y llamada “**la primera estación ferroviaria moderna de hormigón armado de toda la isla**”[^17], yacieron durante tres días en 1947 los cuerpos de las élites bensheng, taiwaneses locales. La modernización de una ciudad y la violencia política quedaron comprimidas en una misma plaza.
+La misma plaza donde se completó en 1933 la «**primera estación de acero y hormigón armado de la línea ferroviaria transpeninsular**», bautizada como «**la estación de tren más moderna de toda la isla hecha de hormigón armado**»[^17], guardó durante tres días los cadáveres de las élites locales. La modernidad de la ciudad y la violencia política se condensaron en una sola plaza.
 
-![Estación de tren de Chiayi, segunda generación, 2006. Terminada en 1933, diseñada por Ushiki Takeo, fue “la primera estación de estructura de acero y hormigón armado en la línea longitudinal” y “la primera estación ferroviaria moderna de hormigón armado de toda la isla”. El 18 de marzo de 1947, Chen Fuzhi, y el 25 de marzo Chen Cheng-po y otros tres concejales municipales fueron fusilados públicamente en la plaza frente a esta estación.](/article-images/geography/chiayi-city-01.webp)
-_Estación de tren de Chiayi, 2006-08-24. Photo: Bigmorr, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Chiayi_Railway_Station.JPG)._
+![Estación de Chiayi y su plaza frontal. Finalizada en 1933, diseñada por Yokoyama Kiyonori, «primera estación de acero y hormigón armado de la línea transpeninsular» y «la estación de tren más moderna de toda la isla hecha de hormigón armado». El 18 de marzo de 1947 Chen Fu-chi y el 25 de marzo Chen Chen-po y otros tres concejales fueron fusilados públicamente en esta plaza frente a la estación.](/article-images/geography/chiayi-city-railway-station-2006.webp)
+_Estación de Chiayi, 24 de agosto de 2006. Foto: Bigmorr, [CC BY-SA 3.0 vía Wikimedia](https://commons.wikimedia.org/wiki/File:Chiayi_Railway_Station.JPG)._
 
-El destino de la escuela pictórica de Chiayi quedó ligado a la muerte de Chen Cheng-po. Desde mediados del período japonés, Chiayi fue conocida como la “capital de la pintura”. En la primera Exposición de la Prefectura, en 1938, “**los pintores de Chiayi representaron dos décimas partes de los seleccionados**”, y Taiwan Nichinichi Shinpo tituló: “**Chiayi es la capital de la pintura; sus seleccionados ocupan dos décimas partes**”[^18]. Lin Yu-shan, 1907-2004, de nombre original Yinggui y nacido en la calle Mei de la Ciudad de Chiayi, fue seleccionado en la primera Exposición de Arte de Taiwán de 1927 con Búfalo de agua y Gran puerta del sur, y junto con Chen Jin y Guo Xuehu fue conocido como uno de los “**tres jóvenes de la Exposición de Taiwán**”[^18]. La escuela pictórica de Chiayi creció desde la Sociedad de Pintura Chunmeng, 1928; la Sociedad de Autoestímulo de Caligrafía y Pintura de Chiayi, 1931; y la Sociedad Moyang, 1934, hasta convertirse en la ciudad con la tasa más alta de selección en la Exposición Imperial en todo Taiwán.
+El destino de la escuela de pintura de Chiayi está ligado a la muerte de Chen Chen-po. Desde mediados de la época colonial, Chiayi era conocida como «la capital de la pintura»; en la primera exposición de la región en 1938, «**la proporción de artistas de Chiayi admitidos alcanzó el veinte por ciento**», y el periódico _Taiwan Daily News_ tituló: «**Chiayi, la capital de la pintura, con el veinte por ciento de admitidos**»[^18]. Lin Yushan (1907-2004, nombre real Yinggui, nacido en la calle Meixue de Chiayi) fue admitido en la primera exposición nacional con las obras _Buey_ y _Gran Puerta del Sur_, y junto con Chen Chin y Guo Xuehu formó el grupo conocido como «**los tres jóvenes de la exposición nacional**»[^18]. La escuela de pintura de Chiayi creció desde el grupo de primavera (1928), el grupo de estudio pictórico de Chiayi (1931) y el grupo Ink Ocean (1934) hasta convertirse en la ciudad con mayor tasa de admisión en las exposiciones imperiales.
 
-Después de la muerte de Chen Cheng-po, la historia de la capital de la pintura siguió escribiéndose. **En octubre de 2020**, el Museo de Arte de la Ciudad de Chiayi abrió al sureste de la fuente central. Su antecedente fue la sucursal de Chiayi de la Oficina de Monopolio de Tabaco y Alcohol, terminada en 1936, monumento histórico municipal diseñado por el arquitecto japonés Umezawa Sutajiro[^19]. El renacimiento integrado de edificios de tres épocas, 1936, 1954 y 1980, tiene su dirección como homenaje a la generación de pintores de Lin Yu-shan, Chen Cheng-po y Chang Li De-he.
+Tras la muerte de Chen Chen-po, la historia de la capital de la pintura continuó. **En octubre de 2020**, el Museo de Arte de la Ciudad de Chiayi abrió sus puertas al sureste de la fuente central; su sede anterior era el «**departamento de monopolis de tabaco y alcohol de Chiayi**,» construido en 1936, un bien cultural protegido diseñado por el arquitecto japonés Umezu Setsurō[^19]. Los edificios de los años 1936, 1954 y 1980 se fusionan en un nuevo espacio; el número de la placa conmemorativa está dedicado a Lin Yushan, Chen Chen-po, Zhang Li De y sus contemporáneos artistas.
 
-![Museo de Arte de la Ciudad de Chiayi, agosto de 2020. Su antecesor fue la sucursal de Chiayi de la Oficina de Monopolio de Tabaco y Alcohol, de 1936, monumento histórico municipal diseñado por el arquitecto japonés Umezawa Sutajiro. Tres edificios de distintas épocas se integraron en una nueva vida. Abierto en octubre de 2020, es la extensión contemporánea de la marca “capital de la pintura” de Chiayi.](/article-images/geography/chiayi-city-01.webp)
-_Museo de Arte de la Ciudad de Chiayi, 2020-08-12. Photo: Gobierno de la Ciudad de Chiayi, [atribución de datos abiertos gubernamentales](https://commons.wikimedia.org/wiki/File:Chiayi_Art_Museum.jpg)._
+![Museo de Arte de la Ciudad de Chiayi, con su cuerpo de cristal conectando los edificios históricos de ambos lados. Su sede anterior era el Departamento de Monopolis de Tabaco y Alcohol de Chiayi (1936, bien cultural protegido), diseñado por el arquitecto japonés Umezu Setsurō. Las tres edifices de distintas épocas se fusionan en un nuevo espacio; inaugurado en octubre de 2020, representa la continuidad contemporánea de la marca «capital de la pintura» de Chiayi.](/article-images/geography/chiayi-city-art-museum-2020.webp)
+_Museo de Arte de la Ciudad de Chiayi. Foto: Gobierno Municipal de Chiayi, [Atribución vía Wikimedia](https://commons.wikimedia.org/wiki/File:Chiayi_Art_Museum.jpg)._
 
 ## El pollo de la ayuda estadounidense y la estación de alta velocidad “que no está en la Ciudad de Chiayi”
 
@@ -204,7 +206,7 @@ La sección “Un cadáver tres días en las calles de Chiayi” inserta dos im�
 
 [^3]: [Pequeño viaje de teclado por Chiayi: la reforma urbana del período japonés — StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion) — Registro de la reconstrucción urbana tras el gran terremoto de Chiayi de 1906, que casi destruyó la ciudad antigua; desde 1907 comenzó la reforma urbana, con calles enderezadas, intersecciones en ángulo recto y una plaza circular planificada.
 
-[^4]: Lien Ya-tang, Historia general de Taiwán,卷三十三〈Lin Shuangwen liezhuan〉 — Texto original sobre las penurias de la defensa de Zhuluo, “sin poder obtener comida, cavaban raíces de árboles y hervían torta de frijol para saciar el hambre, pero su voluntad de resistir se hacía aún más firme”, citado en [La campaña de Lin Shuangwen — StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion).
+[^4]: [La campaña de Lin Shuangwen — StoryStudio](https://storystudio.tw/article/gushi/the-story-of-the-Lin-Shuangwen-rebellion) — Lien Ya-tang, Historia general de Taiwán,卷三十三〈Lin Shuangwen liezhuan〉 — Texto original sobre las penurias de la defensa de Zhuluo, “sin poder obtener comida, cavaban raíces de árboles y hervían torta de frijol para saciar el hambre, pero su voluntad de resistir se hacía aún más firme”, citado en.
 
 [^5]: [Historia de la Ciudad de Chiayi, cambio de nombre de Zhuluo a Chiayi — Sitio oficial del Gobierno de la Ciudad de Chiayi](https://www.chiayi.gov.tw/News_Content.aspx?n=512&s=216171) — Cita de la versión oficial del edicto del día tres del undécimo mes del año 52 de Qianlong, con el propósito de “elogiar la lealtad y rectitud de quienes defendieron la ciudad hasta la muerte”, que cambió el nombre de “Zhuluo” a “Chiayi”.
 

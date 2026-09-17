@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T21:25:14+08:00",
-    "zhCommitHead": "8cd6a8d41",
+    "lastUpdated": "2026-09-17T21:26:02+08:00",
+    "zhCommitHead": "4e7b3d85e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1007,
-        "stale": 70,
+        "fresh": 1008,
+        "stale": 69,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -79316,8 +79316,8 @@
           "sourceContentHash": "sha256:57f32564152ce686",
           "sourceBodyHash": "sha256:0482ecaa622a6229",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e7b3d85",
+          "translationLastModified": "2026-09-17T21:25:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -145165,8 +145165,8 @@
           "sourceContentHash": "sha256:92c000d095995392",
           "sourceBodyHash": "sha256:493dcb5683d6e166",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e7b3d85",
+          "translationLastModified": "2026-09-17T21:25:15+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -147851,8 +147851,8 @@
           "sourceContentHash": "sha256:d80f079014589543",
           "sourceBodyHash": "sha256:3441000e1e1b1dde",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4e7b3d85",
+          "translationLastModified": "2026-09-17T21:25:15+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -162111,18 +162111,16 @@
         "es": {
           "path": "es/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:ae83f3951e0a47fc",
-          "sourceBodyHash": "sha256:d3fc69c2026ce4f3",
-          "translatedAt": "2026-06-16T16:40:32Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:fe4751f1e66665bd",
+          "sourceBodyHash": "sha256:7f19df1b99a37241",
+          "translatedAt": "2026-09-17T13:25:40.934609+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/chiayi-city.md",
