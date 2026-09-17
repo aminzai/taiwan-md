@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T21:21:54+08:00",
-    "zhCommitHead": "720b2a767",
+    "lastUpdated": "2026-09-17T21:25:14+08:00",
+    "zhCommitHead": "8cd6a8d41",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 172,
+        "missing": 171,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1023,
-        "stale": 62,
+        "fresh": 1024,
+        "stale": 61,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 748,
+        "fresh": 746,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 366,
+        "missing": 368,
         "orphan": 0
       }
     },
@@ -7003,18 +7003,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -8508,18 +8497,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -21296,8 +21274,8 @@
           "sourceContentHash": "sha256:e66143fe99e401f4",
           "sourceBodyHash": "sha256:f2a71a6d6f47c4eb",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8cd6a8d4",
+          "translationLastModified": "2026-09-17T21:21:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -54840,18 +54818,16 @@
         "ko": {
           "path": "ko/Society/national-museum-of-taiwan-history.md",
           "translatedFrom": "Society/國立臺灣歷史博物館.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:0a19013fbe675c85",
-          "sourceBodyHash": "sha256:16078470c5f07551",
-          "translatedAt": "2026-06-16T16:55:29Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-17T13:24:08.023791+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/national-museum-of-taiwan-history.md",
@@ -145183,7 +145159,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taichung-port.md",
+          "translatedFrom": "History/台中港.md",
+          "sourceCommitSha": "853cd1e60",
+          "sourceContentHash": "sha256:92c000d095995392",
+          "sourceBodyHash": "sha256:493dcb5683d6e166",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taichung-port.md",
