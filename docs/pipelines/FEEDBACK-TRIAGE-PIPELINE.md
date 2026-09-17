@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.10'
-last_updated: 2026-09-16
-last_session: '2026-09-16-twmd-feedback-triage（idea 類 issue 補上來源頁面 URL——讀者寫「此頁面」時，收割的維護者原本看不出是哪一頁）'
+current_version: 'v1.11'
+last_updated: 2026-09-18
+last_session: '2026-09-18-twmd-feedback-triage（--show 補印「正確資訊 + 來源」欄——讀者四個自由文字欄位，HG13 的讀取入口原本只印兩個）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -125,6 +125,9 @@ node scripts/feedback/triage.mjs --show-all             # 這批全部
 ```
 
 打錯的 id 會印 `⚠️ …根本沒查到這筆`，不靜默印空清單——「沒查到」跟「內容沒問題」是兩件事。
+**印的是四個讀者欄位全部**（2026-09-18 v1.11）：`body`（回報全文）、`quote`（讀者選取的原文）、
+`correct_info`（正確資訊 + 來源）都是讀者手寫、都會進公開 issue；`source_url` 在 meta 表。
+v1.11 之前 `--show` 只印前兩個，「正確資訊 + 來源」那段要等 issue 開完才看得到。
 在這之前 dry-run 報表只印標題／類型／id，全文沒有任何入口，十四輪都靠當班自己手寫一段
 Supabase REST 查詢即興補上（LESSONS `mandatory-read-step-has-no-tool`）。
 判斷式：這段文字搬到公開 issue 會傷到誰？**指涉具名的私人、附上跟監所得的居住／工作細節、
@@ -342,6 +345,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.11 | 2026-09-18 twmd-feedback-triage routine — **`--show` 補印「正確資訊 + 來源」欄**。周蕙勘誤（[issue #1746](https://github.com/frank890417/taiwan-md/issues/1746)）走完 HG13 的 `--show` 才 `--commit`，核對開完的 issue body 時多出一段沒讀過的讀者文字：`correct_info` 欄。讀者自由文字有四個欄位，`detectInjection` / `scrubSecrets` / `buildArchiveRecord` 全掃四個，唯獨 8/31 為 HG13 造的讀取入口只印 `body` 與 `quote`。這是 LESSONS `held-fact-never-crosses-into-the-layer-that-acts-on-it` 第五次（vc=5），也是第一次長在為了修第一次而造的工具上——一支只讀一半的讀取工具，比沒有工具更容易讓人以為讀完了。修法：`formatForShow()` 補印 `correct_info`（沒有就不印空段），+1 unit test，63/63 綠。純讀取面，不碰判準，不碰 HG8。_
 _v1.10 | 2026-09-16 twmd-feedback-triage routine — **`idea` 類 issue 補上來源頁面 URL**。連續九輪零回報後的第一筆真回報（一位讀者拿教育部辭典與《文明小史》第三回，質疑用語庫把「消息」寫成中國用語）開成 [issue #1733](https://github.com/frank890417/taiwan-md/issues/1733) 之後，body 裡找不到任何指得出那一頁的字：讀者寫的是「此頁面直接寫⋯」，而 `idea` 是四個分支裡唯一既不帶 URL 也不帶 articleRef 的一個。`source_url` 從頭到尾都在——Supabase 有、`docs/feedback/archive/` 的紀錄有、只有要拿去動手的那份沒有。這跟 `--show`（8/31）、報表印 id（9/01）是同一種病的第四次現形：**這條線握著的事實，沒有全部跨進下游要用它的地方**，而缺的那一塊因為不會報錯，得等到有人真的要用才現形。修法比照 `bug` 分支的「問題頁面 URL」，沒有 `source_url` 就整段不出現（+2 unit test，62/62 綠）；#1733 的 body 用同一支 canonical 產生器重新產出後回填，不手抄（[REFLEXES #93](../semiont/REFLEXES.md)）。這是機器補完自己的轉錄，不是以維護者身份發言，HG8 不動。_
 _v1.9 | 2026-09-10 twmd-feedback-triage routine — **佇列空的那一輪印出最近一筆回報的日期**。`fetched 0` 是這條線每輪的第一行輸出，而它同時是「讀者沒話說」跟「讀者送不進來」的長相，處置完全相反（LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`，[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「零」這個數字上的形狀 / [#82](../semiont/REFLEXES.md) 拿讀取結果當投遞成功的替身）。9/09 那輪靠三個即興手寫的查詢才把兩種根因分開並記下修法，今天第四輪零回報、第二次要手寫同一段查詢時才落地——`deferred-fix-lands-on-recurrence-not-on-reading` 在同一條 routine 上的第三次現形（`--exclude` 8/15、`--show` 8/31、本行 9/10，三個都是絆到第二次才動手）。`formatIntakeAge()` 純函式 + 3 unit test，「查不到」回 `null`、真的空表回 `undefined`，兩者不共用長相。**刻意只給事實不給裁決**：閾值判斷（超過 N 天印 ⚠️）屬 threshold 調整，per BECOME §行動鐵律 10 要 Full mode + 人類 gate，留在 LESSONS 候選 (b)。寫入端探針（候選 c）會在主權層留下假回報，仍未做——所以這行證明的是讀取端沒在漏接，不是今天送得進來。_
 _v1.8 | 2026-09-01 twmd-feedback-triage routine — **`--whoami` 的 `repositories` 行改印真實安裝範圍**。HG11 的判讀掛在這行輸出上，而建 token 的回應平常不帶 `repositories` 欄位，舊版 `or "(all)"` 把這個缺席印成「覆蓋全部庫」——跟一個權限真的開到全部庫的 token 逐字相同，看到的人無從分辨是哪一種。實際安裝範圍是`frank890417/taiwan-md` 一個庫（`/installation/repositories` 回 `total_count: 1`），canonical 敘述一直是對的，說謊的是那行報表。修法：缺欄位時去問 `/installation/repositories` 這個權威來源（[REFLEXES #69](../semiont/REFLEXES.md) 外部尺），查不到印「查不到——不等於覆蓋全部庫」，不讓「沒查到」跟「範圍很大」共用同一個長相。誕生：8/30 這條 routine 自己的 cycle 記下這個對不上並寫進 handoff，連傳三個 cycle 沒人動手；今天在同一行輸出前第四次讀到它才收掉（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 的同型再現）。_

@@ -628,6 +628,23 @@ test('formatForShow: 全文一字不刪地印出來,含讀者選取的原文', (
   assert.match(out, /milesism/);
 });
 
+test('formatForShow: 「正確資訊 + 來源」欄一樣要印,少一欄就不算讀完全文', () => {
+  // 2026-09-18 #1746:--show 只印 body,issue 卻多出一段讀者手寫的 correct_info。
+  // HG13 讀的是「會進公開 issue 的每一段讀者文字」,四個讀者欄位一個都不能漏。
+  const out = formatForShow({
+    id: 'bbb',
+    type: 'content',
+    display_name: 'Joanne Yap',
+    body: '更正一下,4/25 小巨蛋這一部分',
+    correct_info: '4/25 小巨蛋的演唱會就只有一場',
+  });
+  assert.match(out, /更正一下/);
+  assert.match(out, /正確資訊 \+ 來源/);
+  assert.match(out, /就只有一場/);
+  // 沒有 correct_info 時不印空段,「沒有」跟「空字串」不共用一個長相
+  assert.doesNotMatch(formatForShow({ id: 'ccc', body: 'x' }), /正確資訊/);
+});
+
 test('formatIntakeAge: 佇列空時印出最近一筆的日期與距今天數', () => {
   // 「0 筆新回報」單獨看時,讀者沒話說與讀者送不進來逐字相同
   // (LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`)。

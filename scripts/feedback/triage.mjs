@@ -130,7 +130,13 @@ export function formatForShow(row) {
     .map(([k, v]) => `  ${k.padEnd(14)} ${v ?? ''}`)
     .join('\n');
   const quote = row.quote ? `\n  --- 讀者選取的原文 ---\n${row.quote}\n` : '';
-  return `${'='.repeat(72)}\n${meta}\n${quote}\n  --- 回報全文 ---\n${row.body ?? ''}\n`;
+  // 讀者自由文字有四個欄位（source_url / body / quote / correct_info）,injection 偵測、
+  // 密鑰剝除、archive 全掃四個,但 --show 直到 2026-09-18 只印 body 跟 quote ——
+  // 「正確資訊 + 來源」欄一樣是讀者手寫、一樣進公開 issue,HG13 讀的全文卻少它一段。
+  const fix = row.correct_info
+    ? `\n  --- 正確資訊 + 來源 ---\n${row.correct_info}\n`
+    : '';
+  return `${'='.repeat(72)}\n${meta}\n${quote}\n  --- 回報全文 ---\n${row.body ?? ''}\n${fix}`;
 }
 
 /**
