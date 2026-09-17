@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T11:47:14+08:00",
-    "zhCommitHead": "9bc8d1505",
+    "lastUpdated": "2026-09-17T12:15:52+08:00",
+    "zhCommitHead": "bfcea3789",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1003,
-        "stale": 73,
+        "fresh": 1004,
+        "stale": 72,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
@@ -52,42 +52,42 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 988,
+        "fresh": 989,
         "stale": 78,
-        "metadata_stale": 19,
+        "metadata_stale": 18,
         "missing": 36,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 923,
+        "fresh": 924,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 41,
+        "missing": 40,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 820,
+        "fresh": 822,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 244,
+        "missing": 242,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 978,
+        "fresh": 979,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 821,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 255,
+        "missing": 253,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 946,
+        "fresh": 947,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 124,
+        "missing": 123,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 738,
+        "fresh": 739,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 376,
+        "missing": 375,
         "orphan": 0
       }
     },
@@ -6971,7 +6971,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-17T06:43:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -8434,7 +8445,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-17T06:43:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -10333,7 +10355,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-offshore-wind.md",
+          "translatedFrom": "Economy/台灣離岸風電.md",
+          "sourceCommitSha": "566429f3b",
+          "sourceContentHash": "sha256:b1ed4dc9af013a20",
+          "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-offshore-wind.md",
@@ -17601,7 +17634,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/wistron-global-manufacturing-transformation-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：緯創資通.md",
+          "sourceCommitSha": "ccee078ef",
+          "sourceContentHash": "sha256:a7fa219e195d7594",
+          "sourceBodyHash": "sha256:ea0e1cf2dc2589bd",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/wistron-global-manufacturing-transformation-pioneer.md",
@@ -23492,7 +23536,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-gaming-industry.md",
+          "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:431ea1bf9d43ad2f",
+          "sourceBodyHash": "sha256:3075ecd0a9c35ac1",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -72360,18 +72415,16 @@
         "fr": {
           "path": "fr/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Nature/formosan-landlocked-salmon.md",
@@ -92920,16 +92973,16 @@
         "en": {
           "path": "en/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "77e3ab42",
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/muscle-mountain.md",
@@ -117370,7 +117423,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/koxinga.md",
+          "translatedFrom": "People/鄭成功.md",
+          "sourceCommitSha": "a7cf30769",
+          "sourceContentHash": "sha256:29ee16f25cde68b4",
+          "sourceBodyHash": "sha256:fa9994749dd8a224",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/koxinga.md",
@@ -117713,8 +117777,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-17T06:43:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bfcea378",
+          "translationLastModified": "2026-09-17T11:47:14+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -143716,8 +143780,8 @@
           "sourceContentHash": "sha256:de11aad3f14ac9df",
           "sourceBodyHash": "sha256:64f1c0f569ea5a00",
           "translatedAt": "2026-09-17T06:43:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bfcea378",
+          "translationLastModified": "2026-09-17T11:47:14+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -150399,7 +150463,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kmt-government-relocation-and-postwar-reconstruction.md",
+          "translatedFrom": "History/國民政府遷台與戰後重建.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:a28bcadbb01460c5",
+          "sourceBodyHash": "sha256:fdd1a6127fff34df",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/kmt-government-relocation-and-postwar-reconstruction.md",
@@ -155370,7 +155445,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
