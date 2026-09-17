@@ -757,8 +757,33 @@ def append_observer_queue_row(lang: str, zh_path: str, fail_count: int, first_se
 FRESH_WINDOW_DAYS = 5   # 見 build_worklist：新文章的最高優先窗口
 
 
+def load_exclusions(path: Path | None, log: "Logger") -> set:
+    """讀 `--exclude-file`（TSV：`<lang>\t<zh_path>` 或 `*\t<zh_path>`）。
+
+    2026-09-18 誕生：main 分岔期間兩台機器各跑 babel 翻同一批 stale／missing，
+    knowledge/ 衝突面九天長到 758 檔。清單由 `babel-origin-exclude.py` 從
+    origin/main 算出（origin 已有較新譯文的 (lang, zh)，以及 origin 改過的 zh
+    原稿），每輪重讀所以可以在 run 中途重新產生。讀不到檔＝空集合＋log 一行，
+    不讓排除清單的缺席靜默變成「全翻」。
+    """
+    if path is None:
+        return set()
+    try:
+        rows = set()
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if not line.strip() or line.startswith("#"):
+                continue
+            lang, _, zh = line.partition("\t")
+            if lang and zh:
+                rows.add((lang.strip(), zh.strip()))
+        return rows
+    except OSError as e:
+        log(f"  ⚠️ exclude-file unreadable ({e}) — treating as empty; dedupe against origin is OFF this round")
+        return set()
+
+
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
-                    fail_counts: dict | None = None) -> list:
+                    fail_counts: dict | None = None, exclude: set | None = None) -> list:
     """四層優先序佇列。
 
     排序鍵由外到內：
@@ -787,11 +812,14 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
             return datetime.min.replace(tzinfo=timezone.utc)
 
     fresh, p0, p1 = [], [], []
+    exclude = exclude or set()
     for zh, info in by_article.items():
         t = info.get("translations", {}).get(lang, {})
         st = t.get("status")
         if st not in ("missing", "stale", "metadata-stale"):
             continue
+        if (lang, zh) in exclude or ("*", zh) in exclude:
+            continue  # origin/main 那側已做掉——不重複翻，衝突面不從本機增長
         raw = info["zh"]["lastModified"]
         nfail = fail_counts.get(f"{lang}:{zh}", 0)
         tier = 0 if st == "missing" else 1          # P0 先於 P1
@@ -1591,6 +1619,9 @@ def main() -> None:
     ap.add_argument("--no-patch", action="store_true",
                      help="disable the chapter-level diff-patch engine (patch-translate.py) for "
                           "stale tasks — always fall back to full retranslation (2026-07-27)")
+    ap.add_argument("--exclude-file", type=Path, default=None,
+                    help="TSV of `<lang>\\t<zh_path>` / `*\\t<zh_path>` pairs to skip every round "
+                         "(generate with babel-origin-exclude.py; 2026-09-18 main-fork dedupe against origin/main)")
     ap.add_argument("--no-noop-bump", action="store_true",
                      help="disable the zero-cost semantic-noop bump for stale tasks whose zh diff "
                           "is punctuation/whitespace-only — always go through patch/full-translate "
@@ -1626,7 +1657,8 @@ def main() -> None:
     log(f"  workers={[(w.label, w.cascade_spec, w.host, w.tier) for w in workers]}")
     log(f"  order={args.order} rounds={args.rounds} commit_every={args.commit_every} "
         f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
-        f"engine={args.engine} no_patch={args.no_patch} no_noop_bump={args.no_noop_bump}")
+        f"engine={args.engine} no_patch={args.no_patch} no_noop_bump={args.no_noop_bump} "
+        f"exclude_file={args.exclude_file}")
     if any(w.tier != "normal" for w in workers):
         log(f"  tier6_nightly_cap={args.tier6_nightly_cap} tier7_nightly_cap={args.tier7_nightly_cap} "
             "(OBSERVER-QUEUE #18，2026-09-05 拍板)")
@@ -1677,13 +1709,17 @@ def main() -> None:
         except Exception:
             pass
 
+        exclusions = load_exclusions(args.exclude_file, log)
+        if args.exclude_file is not None:
+            log(f"  exclude-file: {len(exclusions)} (lang, zh) pairs skipped this round")
+
         per_lang_tasks: dict = {}
         for lang in langs:
             # 失敗次數決定優先序（2026-07-26 改，此前是硬性 exclude）：撞牆多次
             # 的沉到隊尾，沒試過的先跑，算力優先花在有機會成功的文章上。
             # fail_counts 跨 run 持久化，所以重啟不會又從同一批難篇開始撞。
             worklist_full = build_worklist(status_data, lang, args.priority, args.order,
-                                            fail_counts=state.fail_counts)
+                                            fail_counts=state.fail_counts, exclude=exclusions)
             cap = 10 * len(workers)
             if remaining_budget is not None:
                 cap = min(cap, remaining_budget - sum(len(v) for v in per_lang_tasks.values()))

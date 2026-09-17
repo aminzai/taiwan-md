@@ -225,3 +225,6 @@ scripts/tools/.health-sweep.json
 
 # Local Rewrite Guide state; publish curated snapshots under reports/ explicitly.
 .taiwanmd/rewrite-runs/
+
+# babel 分岔期間對 origin/main 的去重清單（babel-origin-exclude.py 產出，機器本地狀態）
+.taiwanmd/babel-exclude.tsv
