@@ -19,10 +19,10 @@ lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Economy/台灣金融科技發展.md'
-sourceCommitSha: '879ed9e77'
-sourceContentHash: 'sha256:54da57abafa311d1'
-sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
-translatedAt: '2026-07-26T19:42:10+08:00'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:4a1f10aaddce056e'
+sourceBodyHash: 'sha256:7f55fdd7f7687d07'
+translatedAt: '2026-09-17T22:53:23.092353+00:00'
 ---
 
 # L'évolution de la FinTech à Taïwan
@@ -113,22 +113,23 @@ Ce rythme de « tester d'abord sur une petite zone, puis décider après avoir e
 
 ## L'expérience financière d'une île
 
-Une décennie s'est écoulée.
+Dix ans se sont écoulés.
 
-Dans quelle mesure la vision dessinée par le livre blanc de 2015 — faire de Taïwan un hub FinTech en Asie-Pacifique — s'est-elle réalisée ? La réponse est : partiellement, mais d'une manière différente de ce qui était prévu initialement.
+Dans quelle mesure la vision dessinée par ce livre blanc de 2015 — faire de Taïwan un hub fintech de l'Asie-Pacifique — s'est-elle réalisée ? La réponse : partiellement, mais pas de la manière qu'on imaginait à l'époque.
 
-Le paiement mobile s'est effectivement généralisé, non pas grâce à une super-app, mais par la lutte entre une dizie d'enseignes. Les banques purement en ligne sont arrivées, mais leurs trois comptes cumulés ne dépassent pas 3,2 millions, un ratio dérisoire par rapport aux comptes bancaires de l'île. Le bac à sable réglementaire fonctionne, mais son faible taux de « graduation » fait douter de sa fonction : est-ce un tremplin ou une vitrine ?
+Le paiement mobile s'est bel et bien popularisé, mais non pas grâce à une super-app unique, plutôt par la mêlée d'une quinzaine de marques. Les banques en ligne sont bel et bien arrivées, mais les trois réunies comptent encore moins de 3,2 millions de clients, une part infime du total des comptes bancaires de l'île. Le bac à sable réglementaire fonctionne bel et bien, mais son taux de « diplomation » est si bas qu'on se demande s'il est un tremplin ou une vitrine.
 
-La tempête des 3,6 milliards de JKO a mis une chose en lumière : la tension majeure de la FinTech à Taïwan n'a jamais été une question technique, mais une question de confiance. Une régulation trop souple pourrait engendrer le prochain JKO ; une régulation trop stricte étoufferait l'innovation dans le bac à sable.
+L'affaire des 3,6 milliards de JKO Pay a mis une chose au clair : la plus grande tension du fintech taïwanais n'a jamais été technique, elle est de confiance. Une réglementation trop lâche engendrera le prochain JKO Pay ; trop serrée, l'innovation s'asphyxiera dans le bac à sable.
 
-En décembre 2025, LINE Bank a annoncé son premier mois de profit. Le montant est si faible qu'il est presque négligeable, mais toute l'industrie observe. Tandis que Hu Yi-chia porte un bracelet électronique, LINE Bank compte ses premiers centimes de profit. Sur la même île, dans le même secteur, deux destins radicalement opposés se jouent simultanément.
+En décembre 2025, LINE Bank annonce son premier mois bénéficiaire, un montant si minime qu'on pourrait l'ignorer, pourtant l'ensemble du secteur observe. Hu Yi-chia porte un bracelet électronique, LINE Bank compte son premier centime de profit. Même île, même secteur, deux issues radicalement différentes qui se jouent simultanément.
 
-**Lecture complémentaire :**
+**Lecture complémentaire** :
 
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Un autre secteur taïwanais qui, soutenu par des politiques publiques, a fini par transformer l'équilibre mondial.
-- [Écosystème des startups](/fr/economy/taiwan-startup-ecosystem-overview) — Panorama de l'écosystème des startups à Taïwan, où se situe JKO Pay.
-- [E-commerce et écosystème de paiement numérique](/fr/technology/e-commerce-and-digital-payment-ecosystem) — L'infrastructure du commerce électronique derrière le paiement mobile.
-- [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — De l'époque des appels téléphoniques à l'investissement programmé sur smartphone : l'évolution des infrastructures financières et des marchés de capitaux.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — L'autre industrie de Taïwan, lancée avec le soutien de l'État, qui a fini par changer la donne mondiale
+- [Écosystème des startups](/fr/economy/taiwan-startup-ecosystem-overview) — L'ensemble de l'écosystème startup taïwanais dont fait partie JKO Pay
+- [E-commerce et écosystème de paiement numérique](/fr/technology/e-commerce-and-digital-payment-ecosystem) — L'infrastructure e-commerce derrière le paiement mobile
+- [Paiement mobile à Taïwan](/fr/technology/taiwan-mobile-payment) — Décortiquer les trois seuils entre portefeuille mobile, acceptation commerçants, QR code commun et secours en espèces
+- [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Du téléphone à commande vocale au DCA sur smartphone, l'évolution des infrastructures financières et du marché des capitaux
 
 ## Références
 

@@ -2,6 +2,7 @@
 title: "L'industrie robotique à Taïwan"
 description: "L'île qui domine la fabrication de semi-conducteurs doit-elle rattraper son retard à l'ère des robots ? Du lancement du NCAIR en 2026, un regard sur les miracles et les angles morts de la mécanique de précision taïwanaise."
 date: 2026-04-11
+category: 'Technology'
 tags:
   [
     'robotique',
@@ -14,7 +15,6 @@ tags:
     '2026',
   ]
 subcategory: 'Industries technologiques'
-category: 'Technology'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
@@ -22,10 +22,10 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: '38412654'
-sourceContentHash: 'sha256:727c897f10782c2b'
-sourceBodyHash: 'sha256:3b63599a42d7872a'
-translatedAt: '2026-06-02T00:40:00+08:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:4702dd502f640592'
+sourceBodyHash: 'sha256:2025d0771f75493c'
+translatedAt: '2026-09-17T21:39:45.791230+00:00'
 ---
 
 # L'industrie robotique à Taïwan
@@ -112,41 +112,41 @@ Ce calcul semble simple, mais trois problèmes structurels surgissent à l'exéc
 
 Le choix du NCAIR de commencer par l'assistance à domicile pour les personnes âgées est à la fois pragmatique et risqué. Pragmatique, parce que la démographie taïwanaise en a réellement besoin. Risqué, parce qu'il s'agit du défi le plus difficile de l'industrie robotique mondiale — et même le Japon, l'Allemagne et les États-Unis n'ont pas encore de vrai gagnant dans ce domaine.
 
-## En guise de conclusion : vingt ans pour rattraper un cours manqué
+## Conclusion : Vingt ans pour rattraper une leçon
 
-L'objectif du plan gouvernemental « Programme de promotion de l'industrie des robots intelligents à IA » pour 2030 est une **production nationale dépassant 1 000 milliards de NT$**.[^10]
+En 2030, l'objectif du « Plan de promotion de l'industrie des robots intelligents IA » du Yuan exécutif est de faire dépasser à la production nationale **1 000 milliards de dollars taïwanais**.[^10]
 
-C'est une ambition considérable. De la base de 2026 aux 1 000 milliards de 2030, cela implique **une croissance de plus de 40 % par an**. En comparaison, Morgan Stanley prévoit un chiffre d'affaires mondial du marché des robots humanoïdes proche de **5 000 milliards de dollars** d'ici 2050, avec plus de **1 milliard d'unités** installées ; Goldman Sachs prévoit un marché de 30 à 38 milliards de dollars d'ici 2035. Pour Taïwan, décrocher 1 000 milliards de NT$ dans cette course n'est pas impossible, mais ce n'est pas non plus automatique.
+Ce chiffre est ambitieux. Partir du point de départ de 2026 pour atteindre 1 000 milliards en 2030 implique une croissance annuelle de plus de **40 %**. En comparaison, Morgan Stanley prévoit un chiffre d'affaires annuel du marché mondial des robots humanoïdes proche de **5 000 milliards de dollars** d'ici 2050, avec un parc cumulé dépassant **1 milliard d'unités** ; Goldman Sachs, quant à elle, anticipe une taille de marché de **30 à 38 milliards de dollars** pour 2035. Pour Taïwan, décrocher 1 000 milliards de dollars taïwanais sur ce créneau n'est pas impossible, mais cela ne se fera pas tout seul.
 
-Le vrai défi n'est pas quantitatif, il est structurel.
+Le véritable défi ne réside pas dans le volume total, mais dans la structure.
 
-**Si en 2030, les 1 000 milliards de l'industrie robotique taïwanaise proviennent de :**
+**Si les 1 000 milliards de l'industrie taïwanaise de la robotique en 2030 proviennent :**
 
-- Vente de composants à des marques étrangères → c'est l'extension de l'ancien modèle, Taïwan reproduisant simplement la sous-traitance semi-conducteurs dans la fabrication de composants robotiques
-- Vente de robots complets sur les marchés étrangers → c'est le succès du nouveau modèle, avec des marques taïwanaises et une vraie capacité d'intégration système
-- Fourniture principale au marché intérieur (médecine, soins aux personnes âgées, usines) → c'est le succès de la substitution aux importations, convertissant une dépendance externe en autonomie interne
+- **De la vente de composants à des marques étrangères** → c'est la prolongation de l'ancienne voie ; Taïwan ne fait que transposer le modèle de sous-traitance des semi-conducteurs à la sous-traitance de composants robotiques
+- **De la vente de machines complètes aux marchés étrangers** → c'est la réussite de la nouvelle voie ; Taïwan dispose de ses propres marques et de capacités d'intégration de systèmes
+- **De l'approvisionnement principal de la demande intérieure (médical, soins de longue durée, usines)** → c'est la réussite de la substitution aux importations ; Taïwan transforme sa dépendance externe en autonomie interne
 
-Les trois chemins ont des significations politiques radicalement différentes. Le premier est le plus facile mais le plus plafonné ; le deuxième est le plus difficile mais le plus porteur ; le troisième est le plus pragmatique mais non exportable.
+Ces trois voies ont des implications politiques radicalement différentes. La première est la plus facile mais offre le plafond le plus bas ; la deuxième est la plus difficile mais promet le rendement potentiel le plus élevé ; la troisième est la plus pragmatique mais ne permet pas d'exporter.
 
-Les 20 milliards du NCAIR et la vision de Lai Ching-te pour une « île technologique » sont un pari : **Taïwan peut-il, au cours des vingt prochaines années, passer du statut de fournisseur de la chaîne d'approvisionnement à celui d'intégrateur de systèmes ?**
+Les 20 milliards du NCAIR et la vision d'« île technologique » de Lai Ching-te reposent sur un pari : **Taïwan parviendra-t-il, dans les vingt prochaines années, à passer du « milieu et de l'amont de la chaîne d'approvisionnement » au statut d'« intégrateur de systèmes » ?**
 
-Cette transition n'est pas une question technique, c'est une question d'organisation, de culture, d'éducation et d'allocation du capital. Taïwan excelle à « faire une chose mieux que quiconque » ; ce qu'il maîtrise le moins, c'est « décider quelle chose faire ». C'est précisément ce que l'industrie robotique exige.
+Cette montée en gamme n'est pas un problème technique, c'est un problème d'organisation, de culture, d'éducation, d'allocation du capital. Ce que Taïwan sait le mieux faire, c'est « mener une chose à la perfection » ; ce qu'il maîtrise le moins, c'est « décider quelle chose entreprendre ». L'industrie de la robotique exige précisément ce second savoir-faire.
 
-Y aura-t-il 1 000 milliards en 2030 ? Peut-être. Mais la vraie question est : dans ces 1 000 milliards, combien viendront de « nous avons enfin décidé ce que nous voulons faire », et combien viendront de « nous avons mieux exécuté les commandes d'un autre pays » ?
+Y aura-t-il 1 000 milliards en 2030 ? Peut-être. Mais la question plus importante est : dans ces 1 000 milliards, quelle part viendra de « nous avons enfin décidé ce que nous voulons faire », et quelle part viendra de « nous avons mieux exécuté les commandes d'un autre pays » ?
 
-La différence entre ces deux réponses, c'est le vrai bulletin de notes de l'industrie robotique taïwanaise.
+La différence entre ces deux réponses constitue le véritable bulletin de notes de l'industrie taïwanaise de la robotique.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- L'industrie de l'IA à Taïwan — Vue d'ensemble des cinq articles sur l'IA à Taïwan ; la robotique est l'IA incarnée dans le monde physique, mais « l'intelligence » et le « corps » restent deux lignes parallèles dans l'industrie taïwanaise
-- L'industrie des semi-conducteurs — Les fondations en puces de toute la robotique, et pourquoi « être fort en puces ne signifie pas être fort en robots »
-- L'industrie des drones à Taïwan — Un autre cas de « composants forts, produits finis faibles », à mettre en parallèle avec la robotique
-- La crise de la dénatalité à Taïwan — Pourquoi le NCAIR place-t-il l'assistance aux personnes âgées en tête de liste ? La réponse est dans la démographie
-- La transformation industrielle de Taïwan — De la sous-traitance à la marque, des composants à l'intégration système : un défi structurel évoqué depuis vingt ans
-- L'industrie des machines-outils à Taïwan — Les 1 500 fabricants de mécanique de précision dans la vallée dorée de Dadu Mountain, base amont du hardware robotique
-- [Computex : sur les trois grands salons informatiques internationaux, deux ont disparu, et celui qui reste pousse à Taipei](/fr/technology/computex-taipei) — l'édition 2026 du Computex met l'accent sur l'« IA physique » et l'intelligence incarnée ; la chaîne d'approvisionnement robotique taïwanaise s'y prolonge, de l'assemblage des serveurs IA à celui des robots, comme scène annuelle d'exposition
+- [Industrie de l'intelligence artificielle](/fr/technology/artificial-intelligence-industry) — Vue d'ensemble des cinq piliers de l'IA à Taïwan ; la robotique est l'incarnation physique de l'IA, mais « l'intelligence » et « le corps » y restent deux lignes parallèles dans l'industrie
+- [Industrie des semi-conducteurs à Taïwan](/fr/technology/taiwan-semiconductor-industry) — La base de toutes les puces pour la robotique, et pourquoi « puces fortes ≠ robotique forte » dans la logique industrielle
+- [Industrie taïwanaise des drones](/fr/technology/taiwan-drone-industry) — Un autre cas « composants forts, machines complètes faibles », à mettre en parallèle avec la robotique
+- [Crise de la natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Pourquoi le NCAIR place les « soins familiaux de longue durée » en priorité ? La réponse est dans la structure démographique
+- [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la sous-traitance à la marque, des composants à l'intégration système, le défi structurel débattu depuis vingt ans
+- [Industrie taïwanaise des machines-outils](/fr/economy/taiwan-machine-tool-industry) — Les 1 500 fabricants de machines de précision de la vallée dorée de Dadu Mountain, racine amont du matériel robotique
+- [Computex : deux des trois grands salons informatiques internationaux ont fermé, il ne reste que celui de Taipei](/fr/technology/computex-taipei) — Computex 2026 mise sur l'« IA physique » et l'intelligence incarnée, vitrine annuelle où la chaîne d'approvisionnement taïwanaise passe de l'assemblage de serveurs IA à l'assemblage de robots
 
 ## Références
 

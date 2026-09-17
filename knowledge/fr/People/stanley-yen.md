@@ -2,6 +2,7 @@
 title: 'Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné'
 description: "Bachelier seulement, à 23 ans il triait le courrier chez American Express. Cinq ans plus tard, il en devenait directeur général. Cinq ans encore, et il présidait l'un des hôtels les plus réputés d'Asie, inventant un système de service capable d'accueillir un client par son nom avant même qu'il ait ouvert sa portière. 600 000 exemplaires vendus. Puis, à 62 ans, il a démissionné pour aller fonder une école dans les régions reculées de Taïwan oriental — et l'année suivante, on lui a retiré un rein. À 78 ans, il a inauguré un parc artistique au bord du Pacifique."
 date: 2026-04-06
+category: 'People'
 tags:
   [
     'Yen Chang-shou',
@@ -13,17 +14,21 @@ tags:
     'Parc artistique Paul Chiang',
   ]
 subcategory: 'Éducation et société'
-category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-06
-translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: 'df2e7558'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-06-16T17:13:36Z'
 lastHumanReview: true
+sporeLinks:
+  [
+    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
+    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
+  ]
+translatedFrom: 'People/嚴長壽.md'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-17T21:26:27.532330+00:00'
 ---
 
 # Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné
@@ -122,31 +127,31 @@ Il révéla l'information dans la postface de _L'Éducation devrait être diffé
 
 Le 25 octobre 2011, il reçut l'Ordre de la Brillante Étoile de troisième classe au Palais présidentiel[^22]. Un garçon de bureau bachelier, debout dans la salle du Palais présidentiel.
 
-## Les 27 mètres de Jinzun
+## Les 27 mètres de Chin-tsun
 
-Le 15 mars 2025, à Jinzun, Taïtung. Inauguration du Parc artistique Paul Chiang[^23].
+15 mars 2025, Chin-tsun, Taitung. Ouverture du parc artistique Chiang Hsun[^23].
 
-C'est un projet que Yen Chang-shou avait porté pendant douze ans. Paul Chiang est l'un des plus importants peintres abstraits de Taïwan ; il s'était établi à Taïtung à la fin de sa vie. Yen Chang-shou le convainquit de construire un parc artistique en bord de mer à Jinzun — pas à Taipei, pas dans une zone commerciale, mais sur la côte est la plus reculée de Taïwan.
+C'est un projet que Yen Chang-shou a porté pendant douze ans. Chiang Hsun est l'un des plus importants peintres abstraits de Taïwan ; il s'est installé à Taitung pour ses dernières années. Yen Chang-shou l'a convaincu de construire un parc artistique en bord de mer à Chin-tsun — non pas à Taipei, ni dans quelque zone commerciale que ce soit, mais sur la côte est la plus reculée de Taïwan.
 
-L'architecte Lin Yu-han a conçu cinq bâtiments disposés en suivant la pente des contreforts de la chaîne côtière. Le plus haut, baptisé « Cheng Han Hall », culmine à 27 mètres — il est l'agrandissement à vingt fois la taille d'une sculpture en acier de Paul Chiang[^24]. Les façades sont en béton ciré, les toitures recouvertes d'acier Corten — cet acier qui s'oxyde avec le temps pour prendre une teinte rouille, comme si le bâtiment vieillissait avec la terre de Taïtung. Le parc abrite un jardin de cactées, le couloir du Lac d'Argent, et un café nommé « Debussy ».
+L'architecte Lin Yu-han a conçu cinq bâtiments, disposés le long des pentes de la chaîne côtière. Le plus haut, le « pavillon Cheng-han », culmine à 27 mètres ; sa forme est un agrandissement vingt fois d'une sculpture en acier de Chiang Hsun[^24]. Les murs extérieurs sont en béton banché, le toit recouvert d'acier auto-patinable — cet acier qui s'oxyde avec le temps pour virer lentement au rouge-brun, comme si le bâtiment vieillissait aux côtés de la terre de Taitung. Le parc comprend un jardin de cactus, le corridor du Lac d'Argent, et un café nommé « Debussy ».
 
-Yen Chang-shou en assume la direction. Sa vision : relier Chishang, Jinzun et d'autres lieux clés de la côte est en un archipel artistique, en prenant pour modèle le Festival d'art de la mer Intérieure de Setouchi au Japon[^24].
+Yen Chang-shou en assure la direction. Sa vision est de relier Chihshang, Chin-tsun et d'autres points de la côte est en un village artistique, à l'image du Festival d'art de Setouchi au Japon[^24].
 
-78 ans. Un rein en moins. Il pose encore les fondations pour Taïtung.
+78 ans. Un rein en moins. Il continue encore à faire le travail de fond pour Taitung.
 
-« Je veux juste que Taïwan aille bien. Il faut bien que quelqu'un pose les fondations. »[^4]
+« Je veux simplement que Taïwan aille bien ; quelqu'un doit bien faire le travail de fond. »[^4]
 
-Certains le disent idéaliste. D'autres l'accusent de parler à l'aise depuis le confort de sa réussite. Les deux perspectives ont peut-être leur part de vérité. Mais quelle que soit la lecture qu'on en fasse, un fait demeure incontestable : cet homme a consacré chaque journée de la seconde moitié de sa vie à travailler dans les coins les moins éclairés de Taïwan, sur les fondations les plus ingrates et les moins spectaculaires.
+Certains disent que c'est un idéaliste. D'autres qu'il parle facile depuis sa réussite. Peut-être les deux à la fois. Mais quoi qu'on en pense, une chose fait consensus : cet homme a consacré chaque jour de sa seconde vie aux recoins les plus dépourvus de projecteurs de Taïwan, à accomplir le travail de base le moins glamour qui soit.
 
-Les rangées de bottes de caoutchouc sont toujours là, devant les salles de classe. Les rizières sont toujours cultivées. Les cabanes dans les arbres sont toujours en construction.
+Cette rangée de bottes de pluie devant les salles de classe est toujours là. Les rizières continuent d'être cultivées. Les cabanes dans les arbres continuent d'être construites.
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- Les supermarchés de commodité à Taïwan — Yen Chang-shou a changé le regard des Taïwanais sur le secteur des services ; les supermarchés de commodité l'ont érigé en infrastructure quotidienne universelle
-- La carte culturelle des 16 peuples autochtones de Taïwan — le cœur de la philosophie éducative de Junyi : les cultures des peuples autochtones ne sont pas à « sauver », elles méritent d'être respectées
-- La culture du café à Taïwan — quand Yen Chang-shou imposait un service d'excellence au Rebar, les Taïwanais buvaient encore du café instantané
-- Teach For Taiwan — un autre programme éducatif qu'il a contribué à faire naître, par lequel quatre cents jeunes ont rejoint des salles de classe dans des régions reculées
-- Lü Kuan-wei — président de la plateforme Junyi Academy ; le nom « Junyi » est emprunté à l’école Junyi de Taitung fondée par Stanley Yen lui-même
+- [Culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — Yen Chang-shou a changé le regard des Taïwanais sur le « secteur des services » ; les supérettes en ont fait une infrastructure pour tous
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — L'idée centrale de l'école Junyi : la culture autochtone n'a pas besoin d'être « sauvée », elle a besoin d'être respectée
+- [Culture du café à Taïwan](/fr/food/taiwan-coffee-culture) — À l'époque où Yen Chang-shou lançait le service premium chez Alexander, les Taïwanais buvaient encore du café soluble
+- [Enseigner pour Taïwan TFT](/fr/society/teach-for-taiwan) — Un autre projet éducatif né sous l'impulsion de Yen Chang-shou, où Liu An-ting a conduit quatre cents jeunes dans les classes des zones reculées
+- [Lu Guan-wei](/fr/people/lu-guan-wei-junyiacademy-founder) — Président de la plateforme éducative Junyi ; le nom « Junyi » vient précisément de l'école primaire et secondaire Junyi de Taitung fondée par Yen Chang-shou
 
 ## Références
 
@@ -166,7 +171,7 @@ Les rangées de bottes de caoutchouc sont toujours là, devant les salles de cla
 
 [^8]: _The Heart of a President_ s'est vendu à environ 600 000 exemplaires, œuvre phare des éditions CommonWealth
 
-[^9]: Citation tirée de _The Heart of a President_ de Yen Chang-shou, source confirmée sur [Pixnet](https://yuna771121.pixnet.net/blog/post/5230366)
+[^9]: [Pixnet](https://yuna771121.pixnet.net/blog/post/5230366) — Citation tirée de _The Heart of a President_ de Yen Chang-shou, source confirmée sur
 
 [^10]: [Books.com.tw : L'Avenir que j'entrevois](https://www.books.com.tw/products/0011002842) — Publié en 2008, Grand Prix du Salon international du livre de Taipei 2009, inscrit sur la liste des lectures obligatoires pour les fonctionnaires
 

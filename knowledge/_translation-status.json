@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T06:52:46+08:00",
-    "zhCommitHead": "d82ffa6b0",
+    "lastUpdated": "2026-09-18T06:53:45+08:00",
+    "zhCommitHead": "86078b70e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1003,
-        "stale": 68,
+        "fresh": 1004,
+        "stale": 67,
         "metadata_stale": 15,
         "missing": 35,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 987,
+        "fresh": 984,
         "stale": 64,
         "metadata_stale": 14,
-        "missing": 56,
+        "missing": 59,
         "orphan": 0
       },
       "hi": {
@@ -7002,18 +7002,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -11836,18 +11825,16 @@
         "fr": {
           "path": "fr/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-26T19:42:10+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-17T22:53:23.092353+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-fintech-development.md",
@@ -102521,8 +102508,8 @@
           "sourceContentHash": "sha256:81084f8c4d60488a",
           "sourceBodyHash": "sha256:e37ed40c36801365",
           "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "86078b70",
+          "translationLastModified": "2026-09-18T06:52:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -105608,8 +105595,8 @@
           "sourceContentHash": "sha256:f03fe4356a8b034b",
           "sourceBodyHash": "sha256:0511dd3ec1c7896e",
           "translatedAt": "2026-09-17T21:32:33.332987+00:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "86078b70",
+          "translationLastModified": "2026-09-18T06:52:50+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -151002,18 +150989,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -156323,18 +156299,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
