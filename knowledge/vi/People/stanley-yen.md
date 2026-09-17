@@ -20,19 +20,15 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  - id: 8
-    platform: 'threads'
-    date: '2026-04-06'
-    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
-  - id: 9
-    platform: 'x'
-    date: '2026-04-06'
-    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
+  [
+    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
+    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
+  ]
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: 'df2e75589'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-17T20:38:30.713064+00:00'
 ---
 
 # Yên Trường Thọ: Từ cậu bé trong phòng thư đến cha đẻ du lịch, rồi anh ấy bỏ mất tất cả
@@ -131,31 +127,31 @@ Anh ta công bố sự kiện này trong phần sau của _Giáo Dục Nên Khá
 
 Ngày 25 tháng 10 năm 2011, anh ta nhận được Huân Chương Sao Kinh Ba tại Phủ Tổng Thống[^22]. Một cậu bé trong phòng thư tín tốt nghiệp trung học, bước vào Phủ Tổng Thống.
 
-## 27 Mét Ở Kim Tôn
+## 27 mét của Kim Tôn
 
-Ngày 15 tháng 3 năm 2025, Kim Tôn, Đài Đông. Khu vườn nghệ thuật Giang Hiền Nhị khai mạc[^23].
+Ngày 15 tháng 3 năm 2025, Kim Tôn, Đài Đông. Khu vực nghệ thuật Giang Hiền Nhị khai trương[^23].
 
-Đây là dự án mà Yên Trường Thọ đã thúc đẩy trong mười hai năm. Giang Hiền Nhị là một trong những họa sĩ trừu tượng quan trọng nhất của Đài Loan, tuổi cuối cùng cư trú ở Đài Đông. Yên Trường Thọ thuyết phục anh ta xây dựng một khu vườn nghệ thuật bên bờ biển Kim Tôn—không ở Đài Bắc, không ở bất kỳ khu thương mại nào, mà ở bờ biển đông xa nhất của Đài Loan.
+Đây là dự án Nghiêm Trưởng Thọ đã đẩy mạnh trong mười hai năm. Giang Hiền Nhị là một trong những họa sĩ trừu tượng quan trọng nhất của Đài Loan, cuối đời định cư tại Đài Đông. Nghiêm Trưởng Thọ đã thuyết phục ông xây một khu vực nghệ thuật ở bãi biển Kim Tôn — không phải ở Đài Bắc, không phải ở bất kỳ khu thương mại nào, mà ở bờ biển Đông xa xôi nhất của Đài Loan.
 
-Kiến trúc sư Lâm Hữu Hàn thiết kế năm tòa nhà, sắp xếp theo dốc của dãy núi ven biển. Tòa nhà cao nhất tên "Thừa Hàn Quán", cao 27 mét, hình dáng là phiên bản phóng đại 20 lần của một bức tượng thép của Giang Hiền Nhị[^24]. Tường ngoài dùng bê tông mực lỏng, mái phủ thép oxy hóa—loại thép mà theo thời gian sẽ oxy hóa, dần dần biến thành màu nâu đỏ, như thể tòa nhà đang cùng tuổi thọ với đất của Đài Đông. Khu vườn có vườn hoa lá lách, hành lang hồ bạc, và một quán cà phê tên "Debussy".
+Kiến trúc sư Lâm Hữu Hán thiết kế năm tòa nhà, sắp xếp theo dốc núi của dãy Hải An. Tòa cao nhất "Thừa Hàn Quán" cao 27 mét, hình dáng là bản phóng to 20 lần một tác phẩm điêu khắc thép của Giang Hiền Nhị[^24]. Bên ngoài dùng bê tông khuôn thô, mái nhà bao phủ bằng thép chịu thời tiết — loại thép sẽ oxy hóa theo thời gian, dần chuyển sang màu nâu đỏ, như thể kiến trúc đang già cùng với đất Đài Đông. Trong khu vực có vườn xương rồng, hành lang Bạch Hồ, và một quán cà phê tên "Debussy".
 
-Yên Trường Thọ làm giám đốc khu vườn. Tầm nhìn của anh ta là kết nối Trường Hợp, Kim Tôn, và các điểm khác ở bờ biển đông thành một quần thể nghệ thuật, lấy Lễ Hội Nghệ Thuật Seto Naikai ở Nhật Bản làm mục tiêu[^24].
+Nghiêm Trưởng Thọ đảm nhận vai trò giám đốc khu vực. Tầm nhìn của ông là nối liền Chí Thượng, Kim Tôn, và các điểm khác trên bờ biển Đông thành một làng nghệ thuật, đối tiêu với Lễ hội Nghệ thuật Xét Hộ Nội Hải của Nhật Bản[^24].
 
-78 tuổi. Thiếu một quả thận. Anh ta vẫn còn làm công trình móng nền cho Đài Đông.
+78 tuổi. Thiếu một quả thận. Ông vẫn còn làm công trình nền móng cho Đài Đông.
 
-"Tôi chỉ muốn Đài Loan tốt hơn, công trình móng nền phải có người làm."[^4]
+"Tôi chỉ muốn Đài Loan tốt đẹp, công trình nền móng phải có người làm."[^4]
 
-Có người nói anh ta là một người lý tưởng chủ nghĩa. Có người nói anh ta là một người thành công đứng mà không cần uốn lưng. Có lẽ cả hai đều đúng. Nhưng dù bạn nhìn anh ta như thế nào, có một điều không có tranh cãi: người này đã dành từng ngày của nửa đời còn lại, ở những góc của Đài Loan không có đèn chiếu, làm công việc nền móng không hấp dẫn nhất.
+Có người nói ông là người chủ nghĩa lý tưởng. Có người nói ông là người nói dễ làm khó của người thành đạt. Có lẽ cả hai đều đúng. Nhưng bất kể bạn nhìn ông như thế nào, có một việc không có tranh cãi: người này đã dành nửa sau đời của mình, ở những góc khuất nhất của Đài Loan, làm những công việc nền tảng nhất, kém "sexy" nhất.
 
-Những đôi ủng mưa dài ngoài lớp học vẫn còn. Cánh đồng lúa vẫn được trồng. Nhà trên cây vẫn được xây.
+Dãy bốt dài bên ngoài hàng lớp học vẫn còn đó. Ruộng lúa vẫn còn được gieo trồng. Nhà trên cây vẫn còn được xây dựng.
 
-**Đọc thêm**:
+**Đọc thêm**：
 
-- [Văn Hóa Cửa Hàng Tiện Lợi Đài Loan](/lifestyle/văn-hóa-cửa-hàng-tiện-lợi-đài-loan) — Yên Trường Thọ đã thay đổi quan điểm của người Đài Loan về "ngành dịch vụ", cửa hàng tiện lợi đã biến dịch vụ thành cơ sở hạ tầng toàn dân
-- [Bản Đồ Văn Hóa 16 Dân Tộc Bản Địa Đài Loan](/culture/bản-đồ-văn-hóa-16-dân-tộc-bản-địa-đài-loan) — Triết lý giáo dục cốt lõi của trường Quân Nhất: văn hóa người bản địa không phải cần được "cứu" mà là cần được tôn trọng
-- [Văn Hóa Cà Phê Đài Loan](/lifestyle/văn-hóa-cà-phê-đài-loan) — Vào thời kỳ Yên Trường Thọ thúc đẩy dịch vụ cao cấp ở Ấu Đô, người Đài Loan vẫn còn uống cà phê hòa tan
-- [Dạy Cho Đài Loan TFT](/society/dạy-cho-đài-loan-tft) — Một kế hoạch giáo dục khác do Yên Trường Thọ thúc đẩy, do Lưu An Linh dẫn dắt bốn trăm người trẻ bước vào những lớp học vùng sâu
-- [Lữ Quán Duy](/people/lữ-quán-duy) — Chủ tịch Nền Tảng Giáo Dục Quân Nhất, cái tên "Quân Nhất" chính là mượn từ trường trung học Quân Nhất Đài Đông do Yên Trường Thọ sáng lập
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Nghiêm Trưởng Thọ thay đổi cách người Đài Loan nhìn về "ngành dịch vụ", cửa hàng tiện lợi thì biến ngành dịch vụ thành cơ sở hạ tầng toàn dân
+- [Bản đồ văn hóa 16 dân tộc nguyên cư Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map) — Triết lý cốt lõi của trường Quân Nhất: văn hóa người nguyên cư không phải thứ cần được "cứu rỗi", mà cần được tôn trọng
+- [Văn hóa cà phê Đài Loan](/vi/food/taiwan-coffee-culture) — Thời Nghiêm Trưởng Thọ đẩy dịch vụ cao cấp tại Á Đô, người Đài Loan vẫn uống cà phê hòa tan
+- [Giáo dục vì Đài Loan TFT](/vi/society/teach-for-taiwan) — Chương trình giáo dục khác do Nghiêm Trưởng Thọ thai nghén, Lữ An Đình dẫn dắt bốn trăm người trẻ bước vào lớp học vùng sâu vùng xa
+- [Lữ Quán Vĩ](/vi/people/lu-guan-wei-junyiacademy-founder) — Chủ tịch Nền tảng Giáo dục Quân Nhất, tên "Quân Nhất" chính là mượn từ trường Trung học và Tiểu học Quân Nhất Đài Đông do Nghiêm Trưởng Thọ sáng lập
 
 ## Tài Liệu Tham Khảo
 
