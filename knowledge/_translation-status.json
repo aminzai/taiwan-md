@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T00:15:05+08:00",
-    "zhCommitHead": "6df1f1c48",
+    "lastUpdated": "2026-09-18T00:45:47+08:00",
+    "zhCommitHead": "e6a8248aa",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1012,
-        "stale": 65,
+        "fresh": 1013,
+        "stale": 64,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1029,
-        "stale": 56,
+        "fresh": 1030,
+        "stale": 55,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 929,
+        "fresh": 930,
         "stale": 80,
         "metadata_stale": 76,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 834,
+        "fresh": 836,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 230,
+        "missing": 228,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "ar": {
@@ -5366,7 +5366,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/hsien-ching-chen.md",
+          "translatedFrom": "Music/陳嫺靜.md",
+          "sourceCommitSha": "b38a5daba",
+          "sourceContentHash": "sha256:ea983a516969f22c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T16:23:24.658566+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/hsien-ching-chen.md",
@@ -32672,7 +32683,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/chi-po-hao-musician.md",
+          "translatedFrom": "Art/紀柏豪.md",
+          "sourceCommitSha": "4138a07a1",
+          "sourceContentHash": "sha256:cc5a95c84301cdb2",
+          "sourceBodyHash": "sha256:584bf91da94df29e",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/chi-po-hao-musician.md",
@@ -40553,18 +40575,16 @@
         "en": {
           "path": "en/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-05-01T01:46:13+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-high-speed-rail.md",
@@ -73107,8 +73127,8 @@
           "sourceContentHash": "sha256:49afbaec6d9c06b3",
           "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
           "translatedAt": "2026-09-17T06:43:34+08:00",
-          "translationLastCommit": "3d8d5e7e",
-          "translationLastModified": "2026-05-24T08:42:27+08:00",
+          "translationLastCommit": "e6a8248a",
+          "translationLastModified": "2026-09-18T00:15:06+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -73131,16 +73151,16 @@
         "ko": {
           "path": "ko/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:49afbaec6d9c06b3",
+          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
+          "translatedAt": "2026-09-17T06:43:36+08:00",
           "translationLastCommit": "021f678c",
           "translationLastModified": "2026-07-17T19:43:15+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwanese-black-bear.md",
@@ -91782,8 +91802,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-17T06:43:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6a8248a",
+          "translationLastModified": "2026-09-18T00:15:06+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -99395,8 +99415,8 @@
           "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
           "sourceBodyHash": "sha256:04a00b8b001b29b2",
           "translatedAt": "2026-09-17T06:43:34+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "e6a8248a",
+          "translationLastModified": "2026-09-18T00:15:06+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -110852,7 +110872,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/wanwan-taiwan-blog-cartoonist.md",
+          "translatedFrom": "People/彎彎.md",
+          "sourceCommitSha": "7b817df18",
+          "sourceContentHash": "sha256:c76ceb95afe3d363",
+          "sourceBodyHash": "sha256:95ff72d4c67126fd",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/wanwan-taiwan-blog-cartoonist.md",
@@ -145196,7 +145227,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
