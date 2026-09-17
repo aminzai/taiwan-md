@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T09:35:59+08:00",
-    "zhCommitHead": "8d34c6778",
+    "lastUpdated": "2026-09-17T09:42:45+08:00",
+    "zhCommitHead": "bc7b525a9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 987,
-        "stale": 79,
+        "fresh": 988,
+        "stale": 78,
         "metadata_stale": 19,
         "missing": 36,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "pt": {
@@ -13601,8 +13601,8 @@
           "sourceContentHash": "sha256:0a05f936441dbbcf",
           "sourceBodyHash": "sha256:aead7a66c3b88ec5",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc7b525a",
+          "translationLastModified": "2026-09-17T09:35:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -40913,16 +40913,16 @@
         "fr": {
           "path": "fr/Lifestyle/taiwan-garbage-truck-music.md",
           "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e97d739884de9be4",
-          "sourceBodyHash": "sha256:2afb135f1c4dd795",
-          "translatedAt": "2026-05-16T22:21:16Z",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (19→0)"
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-garbage-truck-music.md",
@@ -66099,8 +66099,8 @@
           "sourceContentHash": "sha256:0c4a6676abd7e73d",
           "sourceBodyHash": "sha256:fe639063298f999a",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc7b525a",
+          "translationLastModified": "2026-09-17T09:35:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -113945,7 +113945,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chou-tien-chen-badminton.md",
+          "translatedFrom": "People/周天成.md",
+          "sourceCommitSha": "dbfc0cd3c",
+          "sourceContentHash": "sha256:f45251e967dc33da",
+          "sourceBodyHash": "sha256:cc68e7641279a1e9",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chou-tien-chen-badminton.md",
@@ -174336,8 +174347,8 @@
           "sourceContentHash": "sha256:4f2929a499d24ac8",
           "sourceBodyHash": "sha256:87f8032127a53d42",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bc7b525a",
+          "translationLastModified": "2026-09-17T09:35:59+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
