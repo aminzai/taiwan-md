@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T04:01:00+08:00",
-    "zhCommitHead": "12d57f355",
+    "lastUpdated": "2026-09-18T04:20:55+08:00",
+    "zhCommitHead": "74ce906a9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 931,
+        "fresh": 932,
         "stale": 80,
         "metadata_stale": 76,
-        "missing": 34,
+        "missing": 33,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 841,
+        "fresh": 842,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "pt": {
@@ -77719,8 +77719,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74ce906a",
+          "translationLastModified": "2026-09-18T04:01:00+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -117799,8 +117799,8 @@
           "sourceContentHash": "sha256:2f3feb8df34cdc45",
           "sourceBodyHash": "sha256:3e236311319150f0",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74ce906a",
+          "translationLastModified": "2026-09-18T04:01:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123562,8 +123562,8 @@
           "sourceContentHash": "sha256:95e79e3879d5de81",
           "sourceBodyHash": "sha256:37f56e84be16a425",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74ce906a",
+          "translationLastModified": "2026-09-18T04:01:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -138433,8 +138433,8 @@
           "sourceContentHash": "sha256:405a92e136f56a5b",
           "sourceBodyHash": "sha256:df2c6704c69b6b19",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74ce906a",
+          "translationLastModified": "2026-09-18T04:01:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -145354,7 +145354,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-18T00:53:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/823.md",
@@ -150131,7 +150142,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-farmers-association-history.md",
+          "translatedFrom": "History/台灣農會史.md",
+          "sourceCommitSha": "1aa6ef1ac",
+          "sourceContentHash": "sha256:d2cff6b4790d0713",
+          "sourceBodyHash": "sha256:889401675c45d56b",
+          "translatedAt": "2026-09-18T00:53:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-farmers-association-history.md",
@@ -151428,8 +151450,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74ce906a",
+          "translationLastModified": "2026-09-18T04:01:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
