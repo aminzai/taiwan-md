@@ -81,6 +81,11 @@ fi
 if echo "$staged_files" | grep -q "^docs/semiont/DIARY.md$"; then
   python3 scripts/tools/memory-index-lint.py --diary || exit 1
 fi
+# OBSERVER-QUEUE §待決 每列要帶預設選項與 default-action（2026-09-18，黃燈起步只 WARN）：
+# 六列只有分析沒有選項在佇列裡躺了八天，一條自主權內的單檔勘誤混在十七條 🔒 之間沒人看出來。
+if echo "$staged_files" | grep -q "^docs/semiont/OBSERVER-QUEUE.md$"; then
+  python3 scripts/tools/observer-queue-lint.py || true
+fi
 
 # ═══ translatedFrom 強制檢查（2026-04-14 η 新增）═══
 # 規則：所有非 zh-TW 翻譯檔的 frontmatter 必須有 translatedFrom 欄位
