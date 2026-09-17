@@ -1,0 +1,236 @@
+---
+title: 'Wanwan: Si Kepala Botak yang Memberi Wajah pada Generasi Pekerja Kantoran, dan Hu Jiawei yang "Menjadikannya Tokoh Sejarah"'
+description: 'Di era ketika kantor masih berkomunikasi melalui MSN, seorang pekerja kantoran mengganti foto profilnya dengan sosok kepala botak tanpa busana, yang melambangkan "Saya ingin pulang kerja." Hu Jiawei, pembuat karakter tersebut, awalnya adalah asisten desain bergaji 9.000 Dolar Taiwan per bulan, namun secara tak terduga menjadi pionir blog dan kreasi visual pertama di Taiwan yang mencapai seratus juta tampilan. Sosok botak itu selamanya polos dan abadi, sementara sang seniman terus bertumbuh; oleh karena itu, ia meminta karakter tersebut untuk pensiun bersama dirinya, "menjadikannya tokoh sejarah."'
+date: 2026-06-29
+category: 'People'
+tags:
+  [
+    'Wanwan',
+    'Hu Jiawei',
+    'ilustrasi',
+    'kreasi visual',
+    'era MSN',
+    'budaya internet',
+  ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-06-29
+lastHumanReview: false
+readingTime: 13
+researchReport: '彎彎'
+relatedDiary: ['2026-06-29-152120-twmd-rewrite-彎彎']
+translatedFrom: 'People/彎彎.md'
+sourceCommitSha: '7b817df18'
+sourceContentHash: 'sha256:c76ceb95afe3d363'
+sourceBodyHash: 'sha256:95ff72d4c67126fd'
+translatedAt: '2026-09-17T06:43:41+08:00'
+---
+
+# Wanwan: Si Kepala Botak yang Memberi Wajah pada Generasi Pekerja Kantoran, dan Hu Jiawei yang "Menjadikannya Tokoh Sejarah"
+
+Pada awal tahun 2000-an, seorang pekerja kantoran di Taipei membuka komputer dan masuk ke MSN Messenger. Ia mengganti foto profilnya dengan sosok kecil: tanpa busana, kepala botak bundar, hanya memiliki satu rambut gimbal di atas kepalanya, dengan ekspresi setengah mati di wajahnya, ditemani tiga kata: "Saya ingin pulang kerja."
+
+Ia tidak berani mengucapkan kalimat itu kepada bosnya secara langsung. Tetapi sosok botak itulah yang mengatakannya untuknya.
+
+Itu adalah era ketika ponsel hanya bisa melakukan panggilan dan mengirim SMS. Tanpa stiker LINE, tanpa status sementara (stories), semua emosi di kantor tertekan dalam jendela MSN yang belum ditutup dan belum selesai bekerja. Dan sosok botak itu (yang kemudian dikenal sebagai "Wanwan") berada di kotak kecil pada jendela tersebut, meneriakkan kesibukan, kelelahan, kesedihan, keletihan, kejengkelan, dan kebosanan bagi seluruh kantor di Taiwan[^1].
+
+![Pameran Buku Internasional Taipei 2008, Wanwan di stan United Online](/article-images/people/wanwan-2008-book-fair.webp)
+_Pameran Buku Internasional Taipei 2008, Wanwan di stan UDN. — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+
+> **Ringkasan 30 Detik:** Wanwan, nama asli Hu Jiawei, adalah pionir kreasi visual internet Taiwan. Ia memulai dari asisten desain dengan gaji 9.000 Dolar Taiwan per bulan yang "berguling di lokasi konstruksi," dan karena kebosanan ia menggambar beberapa ilustrasi kecil yang sesuai dengan suasana hatinya di MSN, yang secara tak terduga menjadi populer di seluruh Taiwan. Blog pribadinya pada tahun 2007 menjadi blog pertama di Taiwan yang mencapai seratus juta tampilan; ia membuktikan bahwa "menggambar bisa mencari nafkah," dan kemudian diikuti oleh seluruh generasi kreator visual. Bagian yang paling menyentuh adalah pilihannya terhadap karakter ciptaannya: sosok botak itu selamanya polos dan abadi, sementara sang seniman terus bertumbuh; oleh karena itu, Hu Jiawei meminta karakter tersebut untuk pensiun bersama dirinya, "menjadikannya tokoh sejarah."
+
+## Satu Rambut Gimbal, Sosok Kecil Tanpa Busana
+
+Untuk memahami mengapa Wanwan penting, kita harus kembali ke era tanpa stiker.
+
+Sekitar tahun 2002, tempat utama obrolan daring di Taiwan adalah MSN Messenger. Perbedaan terbesar dengan perangkat lunak komunikasi modern adalah Anda tidak memiliki stiker untuk digunakan; yang bisa diganti hanyalah foto profil kecil. Itu adalah wajah yang terpampang di daftar teman, sebuah kotak persegi yang setiap hari dilihat oleh rekan kerja, teman, dan objek cinta tersembunyi. Oleh karena itu, kotak persegi itu menjadi salah satu tempat langka bagi orang Taiwan pada masa itu untuk mengekspresikan diri secara diam-diam.
+
+Hu Jiawei adalah orang yang menggambar sosok botak itu di sini.
+
+Dalam wawancara berikutnya, ia menggambarkan karakternya: "Karakter Wanwan itu polos dan lucu, bodoh, sering membuat kesalahan, dan memiliki satu rambut gimbal di atas kepalanya, tanpa busana."[^2] Penampilan tanpa busana itu sebenarnya karena pada awalnya ia menggambarnya terlalu sembarangan; ketika ia melihatnya kembali, ia merasa: "Terlalu jelek, bengkok-bengkok, dan kurang mudah dikenali!"[^2] Namun justru sosok kecil yang canggung dan tidak berdaya inilah yang secara tepat mengenai situasi seluruh generasi pekerja kantoran. Ia menggambarkan setiap jenis kehancuran sehari-hari dari enam kata: "sibuk, lelah, sedih, jengkel, bosan." Ia menggambar hari yang sedang Anda jalani.
+
+![Foto profil Wanwan si kepala botak yang lesu di meja](/article-images/people/wanwan-character-tired.webp)
+_Foto profil "Lelah" Wanwan: sosok botak tertidur di depan komputer, satu kata mewakili sore hari seluruh pekerja kantoran. — Penggunaan wajar: Karya Wanwan (Sumber gambar: Taiwan Guanghua Magazine)_
+
+Apa yang ia gambarkan tidak pernah hanya satu ekspresi. "Sibuk, lelah, sedih, jengkel, bosan" adalah satu set lengkap, di mana setiap jenisnya diganti dengan pose yang sama dari sosok botak itu: "sibuk" karena terkubur pekerjaan, "lelah" karena tak bisa bergerak di meja, dan "bosan" dengan mata kosong[^1]. Para pekerja kantoran mengganti foto profil mereka di pagi hari, lalu menggantinya lagi ketika suasana hati berubah di sore hari, yang sama saja seperti menulis jurnal suasana hati harian menggunakan sosok botak Wanwan. Sementara bos di sebelah tidak akan pernah mengerti bahwa itu sebenarnya adalah keluhan terhadapnya.
+
+Inilah alasan mengapa ia disebut Wanwan. Ia tidak menggambar orang yang ingin Anda jadikan; ia menggambar diri Anda saat ini—Anda yang sedang lembur, diawasi oleh bos, dan sangat ingin pulang tetapi tidak bisa mengatakannya. Sosok botak itu tidak memiliki nama, identitas, atau pakaian, sehingga siapa pun yang duduk di bilik kantor dapat menjadikannya dirinya sendiri.
+
+> 📝 **Catatan Kurator**: Hari ini kita memiliki stiker lengkap untuk berbicara menggantikan diri kita, jadi sulit membayangkan betapa langkanya "satu foto profil" pernah menjadi saluran emosi. Tetapi kelangkaan adalah kuncinya. Ketika Anda hanya bisa mengganti wajah sekali sehari dan menyertakan satu kalimat, wajah itu harus sangat akurat dalam menggambarkan keadaan Anda, yang justru memaksa kehebatan terbesar Wanwan: menggunakan garis paling sederhana untuk menggambarkan keletihan yang paling umum. Ia bukanlah "yang paling populer di antara banyak stiker," melainkan wajah yang dipilih sebagai juru bicara dalam batasan "hanya boleh ada satu wajah."
+
+## Gaji 9.000 Dolar Taiwan, dan Kebingungan di Lokasi Konstruksi
+
+Orang yang menggambar sosok botak ini pada saat itu juga terjebak dalam situasi yang ia gambarkan.
+
+Hu Jiawei, lahir pada tahun 1981, lulus dari Taipei Fuxing College of Industrial Design. Ketika ia lulus, teman dan keluarga menyarankan agar ia melanjutkan studi, tetapi ia tidak melakukannya; ia langsung memasuki dunia kerja. Pekerjaan pertamanya adalah asisten desain dengan gaji 9.000 Dolar Taiwan per bulan, angka ini sering dibicarakan belakangan karena kontrasnya yang besar dengan nasibnya di kemudian hari. Tetapi daripada angkanya, pemandangan yang ia gambarkan saat itu lebih hangat: pekerjaan itu membuatnya "berguling di lokasi konstruksi setiap hari, kadang-kadang bahkan harus mengurus keperluan pekerja," dan pada masa itu ia memiliki "kebingungan tanpa melihat jalan keluar."[^3]
+
+Setelah berganti beberapa pekerjaan, ia bekerja di sebuah perusahaan game. Di sinilah sosok botak itu lahir. Ia mengenang awal yang biasa saja itu: "Saat itu saya bekerja di perusahaan game, sangat bosan, cuacanya panas, jadi saya membuat beberapa ilustrasi kecil yang sesuai dengan suasana hati saat itu dan mengunggahnya ke MSN... Saya tidak menyangka akan populer secara tak terduga dan digunakan oleh banyak orang."[^4]
+
+Alasan ia mendaftar akun di sebuah situs web anonim (Wuming Xiaozhan) lebih mengejutkan: semata-mata untuk mengikuti idola. Ia ingin melihat penulis internet Jiu Ba Dao yang diterbitkan di BBS Wenming, jadi ia "kebetulan mencoba menggunakan" fungsi blog anonim[^5]. Blognya awalnya kosong, dan ia tidak tahu apa yang harus diletakkan, jadi ia mengunggah ilustrasi MSN yang sudah dibuat itu.
+
+Maka jalan yang tak terduga pun terbuka. Deskripsinya tentang jalan ini kemudian menjadi kunci untuk memahami dirinya: "Bagi saya, kegiatan menggambar adalah jalan yang lurus."[^3] Kalimat ini terdengar seperti kutipan motivasi, tetapi dalam konteks situasinya, artinya sangat sederhana: di tengah kebingungan lokasi konstruksi, ia tidak memiliki rencana masa depan yang cerah; ia hanya menemukan bahwa hanya menggambar yang jelas dan miliknya di tengah masa depan yang kabur.
+
+```tw-figure
+9.000 Dolar Taiwan → Nilai Puluhan Juta
+Asisten Desain Konstruksi dengan Gaji 9.000 Dolar Taiwan, pada usia 26 tahun digambarkan media memiliki "nilai puluhan juta"
+Far Eastern Economic Weekly, 2007
+```
+
+Ungkapan "nilai puluhan juta" berasal dari wawancara _Far Eastern Economic Weekly_ pada tahun 2007. Saat itu ia berusia 26 tahun, dan wartawan menggambarkannya sebagai "proyek yang selesai dalam rata-rata dua hingga tiga hari kerja setara dengan gaji sebulan seorang pekerja kantoran."[^3]. Perlu dicatat bahwa ini adalah pengamatan dan penilaian jurnalis, bukan klaim dirinya; rumor di internet tentang "nilai yang naik seribu kali lipat" tidak dapat ditemukan sumber medianya, itu hanyalah aritmatika yang dibuat oleh pembaca dari 9.000 Dolar Taiwan. Tetapi terlepas dari angka pastinya, perbandingan itu nyata: seorang gadis yang pernah mengurus keperluan pekerja konstruksi dan merasa buntu, beberapa tahun kemudian menjadi nama yang paling dikenal oleh generasi sebayanya.
+
+## Pionir: Blog Pertama di Taiwan dengan Lebih dari Seratus Juta Tampilan
+
+Kecepatan dan skala popularitas Wanwan masih mengejutkan jika dilihat kembali hari ini.
+
+Popularitas blognya seperti bola salju. Pada akhir tahun 2005, jumlah tampilan telah mencapai sekitar 20 juta[^6]. Kemudian datanglah tonggak sejarah yang berulang kali dikutip: pada tanggal 26 Juli 2007, blog pribadinya melampaui seratus juta tampilan, menjadikannya blog pertama di Taiwan yang mencapai angka tersebut[^7]. Keesokan harinya, ia memposting artikel di blognya sendiri dengan judul 〈Terima Kasih untuk Seratus Juta Tampilan～〉[^7]. Pada era ketika populasi internet di seluruh Taiwan belum sebanyak itu, angka "seratus juta" hampir berarti: setiap orang Taiwan yang menggunakan internet pernah melihat Wanwan.
+
+Ia menjadi sangat populer hingga mendapatkan julukan khusus. Media dan netizen memanggilnya "Ratu Blog," dan beberapa orang memanggilnya "Dewi Wan"[^8]. Tetapi apa yang benar-benar menempatkannya dalam sejarah budaya Taiwan adalah rantai panjang orang di belakangnya. Wikipedia bahasa Mandarin menyimpulkan pengaruhnya: "Dari pengalaman sukses Wanwan, banyak kreator visual Taiwan mulai bermunculan seperti tunas setelah hujan, menggunakan blog sebagai media, dan buku-buku visual bertema kehidupan ini dengan cepat mendapatkan tempat di pasar penerbitan."[^8] Arsip digital _United Daily News_ secara lugas menyebutnya sebagai "leluhur penulis visual situs anonim"[^9].
+
+![Wanwan menghadiri acara penghargaan blog berbahasa Tionghoa global pada tahun 2007](/article-images/people/wanwan-2007-blog-award.webp)
+_Wanwan menghadiri acara penghargaan blog berbahasa Tionghoa global pada tahun 2007. — Foto: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
+
+Kata-kata seperti "leluhur" dan "pionir" biasanya kosong, tetapi itu nyata bagi Wanwan. Sebelum dia, Taiwan tidak berarti tidak ada yang menggambar atau tidak ada yang menulis blog, tetapi jalur di mana "seorang pekerja kantoran biasa menggambarkan hal-hal sepele sehari-hari menjadi visual, mengunggahnya secara daring, dan kemudian hidup dari pengakuan seluruh Taiwan" adalah jalan pertama yang ia tempuh. Ia membuktikan bahwa jalan ini ada. Orang-orang setelahnya—baik itu Dolphin Man dari era anonim, Houda Monkey, atau generasi baru yang beralih ke Facebook dan LINE belakangan—semuanya mengikuti jejak yang telah ia pijak.
+
+## Soal Ujian "Menggambar Bisa Mencari Nafkah"
+
+Jika Wanwan membuktikan bahwa "kreasi visual bisa populer," maka beberapa tahun berikutnya ia membuktikan sesuatu yang lebih nyata: menggambar bisa menjadi mata pencaharian.
+
+Yang pertama kali menjadikan hal ini bagian dari kehidupan sehari-hari masyarakat adalah potongan magnet kecil. Sekitar tahun 2006, FamilyMart mengubah foto profil MSN-nya menjadi magnet kotak huruf A sampai Z dalam bahasa Inggris, memungkinkan pelanggan mengumpulkan poin untuk menukarnya[^10]. Untuk sementara waktu, banyak kulkas, tempat pensil, dan meja kantor di rumah dan kantor Taiwan ditempeli sosok botak Wanwan. Magnet ini didistribusikan dalam jumlah puluhan juta ke rumah tangga dan kantor di Taiwan; bahkan hingga hari ini, masih ada orang yang mengoleksi magnet ini di pasar lelang bekas dengan label "edisi terbatas."[^10] Sosok kecil yang digambar di MSN, yang awalnya hanya lucu, berubah menjadi benda kenangan zaman yang dikoleksi.
+
+![Foto profil Wanwan si kepala botak yang gembira "Senang"](/article-images/people/wanwan-character-joy.webp)
+_"Senang" dari sosok botak yang sama. FamilyMart membuat seluruh set ekspresi ini sebagai magnet kotak huruf A sampai Z, menutupi semua kulkas di Taiwan. — Penggunaan wajar: Karya Wanwan (Sumber gambar: Taiwan Guanghua Magazine)_
+
+Buku juga demikian. Buku pertamanya, _Bisakah Saya Tidak Pergi Kerja—Jurnal Gambar Wanwan 1_, diterbitkan pada tahun 2005 oleh penerbit "Zizuan Planet"[^11]. Buku ini menyimpan lelucon kecil khusus untuk pekerja kantoran: ia merancang sampul palsu yang bertuliskan _Bisakah Saya Tidak Pergi Kerja_, tetapi di bawahnya ada lapisan lain—desain telur paska (easter egg) "versi untuk atasan" itu sendiri adalah kesepakatan bersama generasi tersebut tentang budaya kantor[^12]. Buku ini terjual lebih dari seratus ribu eksemplar di Taiwan pada tahun pertamanya[^12]; dan hingga tahun 2007, tiga jilid seri jurnal gambarnya secara total terjual sekitar 400.000 eksemplar[^3]. (Klaim umum di internet tentang "satu juta di seluruh Asia" sebenarnya membingungkan—satu juta adalah akumulasi dari beberapa volume seri di kawasan Tionghoa, bukan angka buku tunggal.)
+
+Dan bukunya hampir mengikuti alur hidupnya sendiri[^23]. Yang pertama terikat dengan kantor dan kampus: _6868 Pergi Sekolah Bersama_ dan _Bisakah Saya Tidak Sekolah_, yang menceritakan tentang dirinya saat masih menjadi pekerja kantoran dan sedang mengalami kehancuran; kemudian kamera mengikutinya keluar, _Bisa Berlibur Setiap Hari? Eropa Sudah Sampai?_ adalah tentang perjalanan dan kehidupan; lalu ada _Ya Tuhan! Saya Jadi Ibu Seperti Ini_, _Bisakah Kita Selalu Bersama: Jurnal Hewan Peliharaan Wanwan_, dan _Catatan Kue Manis Wanwan_, di mana sosok botak itu mulai menggendong anak, memelihara kucing dan anjing, serta membuat kue. Jika buku-buku ini diletakkan berurutan, itu sama seperti melihat sosok botak itu menemani sang seniman dari seorang pekerja kantoran yang ingin pulang kerja, perlahan tumbuh menjadi seorang ibu.
+
+![Sampul buku berbahasa tradisional dari karya Wanwan](/article-images/people/wanwan-books.webp)
+_Dari kiri: *Ya Tuhan! Saya Jadi Ibu Seperti Ini*, *Bisakah Kita Selalu Bersama: Jurnal Hewan Peliharaan Wanwan*, *Catatan Kue Manis Wanwan*. Daftar bukunya hampir seperti kartu kemajuan hidupnya. — Penggunaan wajar: Ulasan Sampul Buku Karya Wanwan_
+
+Ia kemudian menjadi "blogger pertama di Taiwan yang muncul dalam iklan televisi"[^13]. Ia juga memasuki dunia film: dalam _Girls We Chased Those Years_ pada tahun 2011, karakter yang ia mainkan dinamai "Hu Jiawei"—ia memerankan dirinya sendiri. Ketika diwawancarai, ia berkata: "Sebenarnya, karakter saya dalam drama ini juga adalah karakter Wanwan; saya hanya perlu berkreasi secara bebas, kepribadiannya di dalam drama sama persis dengan diri saya."[^14] Di antara realitas dan fiksi, yang ia perankan adalah "Wanwan" yang sudah ada di layar komputer seluruh Taiwan.
+
+Dan yang membawa jalur komersial ini ke era berikutnya adalah stiker LINE. Pada tanggal 24 Desember 2013, malam Natal, LINE Taiwan meluncurkan stiker berbayar Wanwan dan ilustrator lain bernama cherng (Malem貘) dengan setengah harga; keduanya adalah ilustrator pertama di Taiwan yang muncul di toko stiker[^15]. Tanggal ini sangat simbolis: ketika saluran emosi kantor berevolusi dari foto profil MSN menjadi stiker LINE di ponsel, Wanwan sekali lagi berdiri di pintu masuk. Hanya saja kali ini, ia memiliki nama generasi berikutnya di sisinya.
+
+> 📝 **Catatan Kurator**: Mendaftar magnet, buku, iklan, film, dan stiker dalam satu daftar mudah dibaca sebagai "kartu rekam jejak artis." Tetapi yang tersembunyi di bawah daftar itu adalah tesis yang lebih tenang sedang divalidasi: sebelum Wanwan, imajinasi masyarakat Taiwan tentang "menggambar" mungkin masih terbatas pada "hobi," "bakat," atau "sulit untuk mencari nafkah." Apa yang ia lakukan adalah membalikkan asumsi ini di depan semua orang: ternyata seorang asisten desain tanpa gelar sarjana dan mengurus keperluan konstruksi bisa menafkahi dirinya sendiri hanya dengan menggambar kehidupannya, sekaligus mendukung jenis penerbitan. Ia telah menjawab setengah dari pertanyaan paling nyata bagi semua orang setelahnya yang ingin mencari nafkah melalui kreasi: "Apakah jalan ini akan membuat kita kelaparan?"
+
+## Dari MSN ke WEBTOON: Ia Melintasi Setiap Generasi Platform
+
+Jika kita melihat dua puluh tahun Wanwan secara keseluruhan, kita menemukan sesuatu yang jarang dilakukan oleh seorang kreator: ia hampir berdiri di pintu masuk setiap platform visual Taiwan.
+
+```tw-timeline
+2002 | Foto Profil MSN | Di era tanpa stiker, sosok botak mengekspresikan diri bagi pekerja kantoran
+2004 | Rekor Situs Anonim | Secara kebetulan menjadi pionir visual saat "mencoba menggunakan" blog untuk mengikuti Jiu Ba Dao
+2013 | Stiker LINE dan cherng pada hari yang sama | Beralih dari era blog ke era lisensi berbayar perangkat lunak komunikasi ponsel
+2020 | Karakter Pensiun dengan Lembut | "Wanwan yang dulu sudah mati," membiarkan karakter tumbuh bersama dirinya
+```
+
+Awalnya adalah foto profil MSN (sekitar tahun 2002), kemudian masa kejayaan blog di Situs Anonim dan Pigpaibang (mulai tahun 2004), lalu kebangkitan halaman penggemar Facebook, era stiker berbayar LINE, hingga akhirnya WEBTOON dan Instagram yang digulir secara vertikal dan didorong oleh algoritma. Platform LINE WEBTOON menyebutnya "senior besar di dunia visual"[^16]. Pada tahun 2014, majalah _Commercial Weekly_ menerbitkan 〈Wanwan Sudah Mati? Tidak Tahu Berarti Ketinggalan! 10 Ilustrator Internet Paling Populer Terbaru〉[^17], dan judul ini menggunakan pertanyaan "Wanwan sudah mati?" untuk memperkenalkan bintang-bintang baru seperti Duncan, Bai Bai Jiu Jiu, dan cherng. Dengan kata lain, ketika media ingin memperkenalkan siapa "generasi baru," mereka harus mengambil Wanwan sebagai titik nol koordinat. Dia adalah yang "sebelumnya."
+
+![Stiker LINE Wanwan "Saya Cinta Pekerjaan Saya"](/article-images/people/wanwan-line-sticker.webp)
+_Dari foto profil MSN ke stiker LINE, sosok botak berganti platform, tetapi dialognya tetap sarkasme yang sama: "Saya cinta pekerjaan saya."[^24]. — Penggunaan wajar: Karya Wanwan (Stiker LINE)_
+
+Mengenai perubahan platform selama dua puluh tahun ini, Wanwan memberikan perumpamaan terbaik yang pernah ia berikan. Ia membandingkan era blog dan era media sosial: "Dulu blog seperti perpustakaan; Anda membangunnya, mengatur koleksi dan karya Anda, dan semua orang akan datang untuk melihat karya Anda. Sekarang sepertinya menyebarkan selebaran; Anda harus mengirimkannya satu per satu, dan kemudian Anda harus melihat apakah orang menerimanya."[^18] Ia melanjutkan: "Jadi saya pikir kreator saat ini meskipun memiliki banyak peluang, juga lebih sulit."[^18]
+
+Perumpamaan ini akurat karena ia berdiri di kedua sisi. Ia membangun perpustakaan yang "datang sendiri"—itu adalah era emas blog, era ketika seratus juta tampilan datang dengan sendirinya. Dia juga hidup di era algoritma "harus mengirim selebaran satu per satu." Hanya seseorang yang melintasi dua era yang dapat memberikan perbandingan yang hangat ini.
+
+> 📝 **Catatan Kurator**: Narasi umum sering menempatkan Wanwan sebagai "air mata dari era situs anonim," seolah-olah ia adalah nama yang ditinggalkan oleh zaman. Tetapi kerangka ini membalikkan sebab dan akibat. Ia bukanlah seseorang yang terperangkap oleh platform tertentu dan tenggelam bersamanya; sebaliknya, ia adalah salah satu dari sedikit orang yang selalu berada di pintu masuk setiap pergantian dinasti platform—MSN, Anonim, LINE, WEBTOON, tidak ada yang absen. Yang benar-benar menjauhkan dia dari simbol "Wanwan" secara perlahan adalah ketika dirinya berubah tahap: dari pekerja kantoran berusia dua puluhan menjadi seorang ibu. Platform bisa usang, tetapi keputusan untuk membiarkan karakter pensiun adalah tindakan sukarela manusia.
+
+## Karakter Tidak Akan Menjadi Tua, Sang Seniman yang Menggambarnya Akan Tumbuh
+
+Ini membawa kita ke pilihan yang paling tenang dan menyentuh dalam seluruh cerita ini.
+
+Karakter "Wanwan" dirancang untuk selamanya polos dan abadi. Tetapi Hu Jiawei, sang seniman, akan bertambah tua, merasa lelah, dan mengalami berbagai tahap kehidupan. Pada tahun 2020, ketika ia diwawancarai oleh _Mirror Weekly_, ia mengucapkan kalimat yang sering dikutip: "Saya rasa... Wanwan yang dulu sudah mati."[^19]
+
+Kalimat ini terdengar seperti perpisahan, tetapi sebenarnya adalah kejujuran. Ia menjelaskan: "Karakter itu tumbuh bersama saya; bagaimanapun juga, sekarang saya hampir berusia 40 tahun, dan memulai kreasi di usia dua puluhan, jadi kepribadian dan pemikiran saat itu, serta sudut pandang terhadap segala sesuatu, sama sekali berbeda dengan sekarang."[^19] Ia mengatakan bahwa kreasi saat ini "mungkin tidak sepolos atau seberani dulu; sekarang lebih praktis, lebih fokus pada keluarga, karena itulah kehidupan saya sekarang."[^19]. Wanwan menjadi ibu karena dirinya sendiri menjadi seorang ibu.
+
+Perlu disebutkan juga bahwa dalam beberapa tahun terakhir ia juga melewati pengawasan publik dengan tenang. Pada tahun 2014, kehidupan pribadinya pernah dilaporkan oleh majalah mingguan dan memicu gelombang perhatian dan penilaian moral di masyarakat. Tetapi bahkan pada saat itu, ada lebih dari satu suara di dalam masyarakat Taiwan: _Kuro Network_ dan _Commercial Weekly_ semuanya menanyakan balik, apa hubungan antara kehidupan pribadi seorang kreator dengan "masyarakat umum," dan atas dasar apa kita menuntutnya untuk meminta maaf kepada "publik."[^20]. Artikel _Commercial Weekly_ mengutip Pasal 689 dari Mahkamah Agung, yang menyatakan bahwa pelaporan berita harus dibatasi oleh kepentingan publik[^20]. Mencatat suara-suara ini adalah karena mereka memindahkan masalah dari dirinya ke kita: bagaimana kita harus memperlakukan seorang kreator yang pernah kita sukai dan menaruh emosi pada karyanya. Halaman itu dengan cepat berbalik; ia kembali ke meja gambar, terus menggambar kehidupannya saat ini.
+
+Ia sangat memahami kepribadiannya sendiri. Ketika ditanya mengapa ia tidak membentuk tim di masa kejayaannya untuk mengembangkan IP "Wanwan," ia jujur: "Saya selalu menekankan bahwa kepribadian saya seperti itu... tanpa ambisi. Jika saya benar-benar ambisius, saya pasti akan mengelola sebuah tim dan menyempurnakan IP ini."[^21] Ketika ditanya "apa yang terjadi jika Wanwan tidak populer suatu hari nanti," jawabannya mengandung kelegaan: "Oh, tidak apa-apa, setelah itu saya akan menjual ayam goreng."[^21]
+
+![Potret Wanwan (Hu Jiawei)](/article-images/people/wanwan-portrait.webp)
+_Wanwan (Hu Jiawei). — Foto: chungkeng ryu / Wikimedia Commons, CC BY-SA 2.0_
+
+Justru "tanpa ambisi" inilah yang membuatnya membuat keputusan yang sepenuhnya berlawanan dengan logika komersial—ia tidak berniat menjadikan "Wanwan" sebagai merek yang dapat diperpanjang tanpa batas dan dijual selamanya. Ia ingin karakter ini berhenti bersamanya.
+
+## Ia Pernah Meneriakkan untuk Generasi, Kini Menjadi Masa Kecil Generasi Itu
+
+"Saya tidak akan membiarkan karakter itu terus berlanjut; saya mati, dia mati, hidup bersama saya." Kata Wanwan. "Dia akan menjadi... semacam tokoh sejarah! Orang-orang akan mengingat bahwa di awal tahun 2000-an ada karakter seperti 'Wanwan', yang merupakan kenangan kami, masa kecil kami, dan menurut saya begitulah kesempurnaan hidup itu."[^22]
+
+Di era ketika semua IP mati-matian ingin "abadi," ingin dilanjutkan, dan ingin menjadi alam semesta, seorang kreator secara sukarela mengatakan "Saya akan menjadikan karakter saya tokoh sejarah" adalah tindakan yang hampir melawan arus. Tetapi inilah hubungan terdalam antara Wanwan dan sosok botak itu: ia tidak menganggapnya sebagai angsa bertelur emas; ia menganggapnya sebagai masa muda yang pernah ia miliki bersama seluruh generasi, dan martabat masa muda justru terletak pada akhirannya.
+
+Kembali ke adegan awal. Pekerja kantoran yang tidak berani berbicara kepada bos, sosok botak yang diganti menjadi foto profil MSN dengan tulisan "Saya ingin pulang kerja." Ia tidak akan pernah tua karena ia hanyalah garis, satu rambut gimbal, dan satu ungkapan hati. Tetapi orang-orang yang meneriakkan untuknya—seluruh pekerja kantoran Taiwan di bilik yang sibuk, lelah, sedih, jengkel, bosan—mereka telah dewasa, beberapa sudah menjadi orang tua, dan beberapa juga hampir berusia 40 tahun, sama seperti Hu Jiawei yang menggambarnya.
+
+Sosok botak itu tidak akan ingat pernah lembur untuk siapa atau pernah ingin pulang kerja untuk siapa. Tetapi orang-orang itu mengingatnya. Kita pernah menaruh kelelahan yang tidak bisa kita ucapkan pada sosok kecil tanpa busana itu, dan kelelahan serta perasaan yang ingin dipahami itu adalah nyata. Pilihan Wanwan untuk membiarkan karakter pensiun dengan lembut justru karena ia telah menyelesaikan tugasnya: ia menemani satu generasi, lalu, seperti kata penciptanya, "menjadi tokoh sejarah," tinggal di dalam kenangan kita, masa kecil kita.
+
+## Sumber Gambar
+
+**Wikimedia Commons (Lisensi CC):**
+
+- [Pameran Buku Internasional Taipei 2008 (Stan UDN)](https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
+- [Penghargaan Blog Berbahasa Tionghoa Global 2007](https://commons.wikimedia.org/wiki/File:2007GlobalChineseBlogAward_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
+- [Potret Wanwan (Hu Jiawei)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped).jpg>) — chungkeng ryu, CC BY-SA 2.0
+
+**Karya Wanwan (Penggunaan Wajar, Ulasan):** Berikut adalah kutipan ulasan editorial dari kreasi Wanwan sendiri; hak cipta foto profil botak, sampul buku, dan stiker LINE dimiliki oleh Wanwan (Hu Jiawei).
+
+- Foto profil "Lelah" dan "Senang" sosok botak — Sumber gambar [Taiwan Guanghua Magazine 2006](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b)
+- Sampul buku berbahasa tradisional (_Ya Tuhan! Saya Jadi Ibu Seperti Ini_, _Bisakah Kita Selalu Bersama: Jurnal Hewan Peliharaan Wanwan_, _Catatan Kue Manis Wanwan_) — [Halaman Penulis Bloggle](https://search.books.com.tw/search/query/key/%E5%BD%8E%E5%BD%8E/adv_author/1/)
+- Stiker LINE "Saya Cinta Pekerjaan Saya" — [LINE STORE](https://store.line.me/stickershop/product/29304)
+
+## Referensi
+
+[^1]: [Pionir Penulis Visual Situs Anonim 'Wanwan' Hu Jiawei — United Daily News (UDN)](https://time.udn.com/udntime/story/122390/7291325) — Ulasan dari arsip digital UDN tentang bagaimana Wanwan memulai dengan foto profil kantor "sibuk, lelah, sedih, jengkel, bosan" dan dianggap sebagai pionir visual situs anonim.
+
+[^2]: [Wawancara Eksklusif Wanwan 1 — Mirror Weekly, 08-12-2020](https://www.mirrormedia.mg/story/20201208insight003) — Wanwan menggambarkan karakternya sebagai "polos dan lucu, bodoh, memiliki satu rambut gimbal di atas kepalanya, tanpa busana," dan menyindir bahwa karya awalnya "sangat jelek dan bengkok."
+
+[^3]: [Semangat yang Penuh Gairah, Menciptakan Nilai Puluhan Juta di Luar Kelas — Far Eastern Economic Weekly, 01-11-2007](https://www.gvm.com.tw/article/47682) — Menyebutkan pekerjaan pertama Wanwan setelah lulus dari desain industri Fuxing sebagai asisten desain bergaji 9.000 Dolar Taiwan, "berguling di lokasi konstruksi," dan "kebingungan tanpa melihat jalan keluar," serta menyebut nilai puluhan juta pada usia 26 tahun, total sekitar 400.000 eksemplar untuk tiga jilid jurnal gambar, dan mengutip "menggambar... adalah jalan yang lurus."
+
+[^4]: [Blog Lao He (Wawancara Media) — Pigpaibang](https://hsienhsing.pixnet.net/blog/post/49880331) — Mencantumkan asal usul kreasi di mana Wanwan membuat ilustrasi kecil saat bekerja di perusahaan game karena "sangat bosan, cuacanya panas" dan mengunggahnya ke MSN, yang secara tak terduga populer dan digunakan banyak orang.
+
+[^5]: [Penulis Populer Blog: Wanwan — Taiwan Guanghua Magazine, 09-2006](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — Mengungkap bahwa pada awalnya Wanwan mencoba menggunakan fungsi blog "kebetulan" untuk melihat karya penulis internet Jiu Ba Dao di situs anonim, dan sikapnya terhadap banyak reproduksi tanpa izin.
+
+[^6]: [Blog Terbesar Taiwan 'Wanwan' Akan Melebihi 100 Juta Tampilan — MR.6 (Liu Weilin), 15-05-2007](https://mr6.cc/?p=861) — Menyebutkan bahwa pada akhir tahun 2005, blog Wanwan memiliki sekitar 20 juta tampilan, mencapai 40 juta di awal musim panas 2006, dan mengantisipasi akan melebihi seratus juta.
+
+[^7]: [Terima Kasih untuk Seratus Juta Tampilan～ — Blog Pribadi Wanwan, 27-07-2007](https://cwwany.pixnet.net/blog/posts/32583747) — Surat terima kasih yang dipublikasikan oleh Wanwan di blognya sehari setelah blognya mencapai seratus juta tampilan (26-07-2007), sebagai catatan langsung dari blog pertama di Taiwan yang mencapai angka tersebut.
+
+[^8]: [Wanwan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%8E%E5%BD%8E) — Mengatur julukan "Ratu Blog" dan "Dewi Wan," serta deskripsi dampak industri bahwa "dari pengalaman sukses Wanwan, banyak kreator visual Taiwan mulai bermunculan seperti tunas setelah hujan menggunakan blog sebagai media."
+
+[^9]: [Pionir Penulis Visual Situs Anonim 'Wanwan' Hu Jiawei — United Daily News (UDN)](https://time.udn.com/udntime/story/122390/7291325) — Arsip digital UDN secara langsung menyebut Wanwan sebagai "leluhur penulis visual situs anonim."
+
+[^10]: [Perbandingan Magnet Wanwan FamilyMart — Pasar Bekas BigGo](https://biggo.com.tw/s/%E5%BD%8E%E5%BD%8E%E7%A3%81%E9%90%B5/) — Produk magnet kotak huruf A-Z FamilyMart yang masih beredar di pasar lelang bekas, banyak ditandai "edisi terbatas" dan "koleksi," membuktikan sifat benda kenangan zaman dari magnet pengumpulan poin (jumlah kiriman akurat diterjemahkan sebagai "puluhan juta", tanpa angka resmi).
+
+[^11]: [Buku Online Bloggle: Penulis—Wanwan](https://www.books.com.tw/products/0010309990) — Informasi penerbitan dan deskripsi buku pertama Wanwan, _Bisakah Saya Tidak Pergi Kerja—Jurnal Gambar Wanwan 1_, yang diterbitkan oleh Zizuan Planet pada tahun 2005.
+
+[^12]: [Penulis Populer Blog: Wanwan — Taiwan Guanghua Magazine, 09-2006](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — Menyebutkan bahwa _Bisakah Saya Tidak Pergi Kerja_ terjual lebih dari seratus ribu eksemplar di tahun pertamanya, dan detail telur paska "sampul palsu untuk atasan" yang dirancang dalam buku tersebut.
+
+[^13]: [Wanwan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%8E%E5%BD%8E) — Menggambarkan Wanwan sebagai "blogger pertama di Taiwan yang muncul dalam iklan televisi (bagian Taiwan Fixed Network Wanwan) bahkan melintasi dunia film."
+
+[^14]: [Wawancara Wanwan tentang _Girls We Chased Those Years_ — Berita TVBS](https://news.tvbs.com.tw/entertainment/534317) — Wanwan menyatakan dalam wawancara bahwa ia memerankan "karakter Wanwan" di _Girls We Chased Those Years_, dan "saya hanya perlu berkreasi secara bebas, kepribadiannya di dalam drama sama persis dengan diri saya."
+
+[^15]: [Ilustrator cherng & Wanwan Muncul di Toko Stiker Pertama Taiwan — Blog Resmi LINE Taiwan, 24-12-2013](https://line-tw-official.weblog.to/archives/35879068.html) — LINE secara resmi mengumumkan bahwa cherng dan Wanwan adalah ilustrator pertama yang muncul di toko stiker berbayar di Taiwan, dijual dengan setengah harga pada malam Natal tanggal 24 Desember 2013.
+
+[^16]: [Koleksi Karya Wanwan — LINE WEBTOON](https://www.webtoons.com/zh-hant/collection/wanwan/48) — Platform LINE WEBTOON menyebut Wanwan sebagai "senior besar di dunia visual" dan merekomendasikan karyanya.
+
+[^17]: [Wanwan Sudah Mati? Tidak Tahu Berarti Ketinggalan! 10 Ilustrator Internet Paling Populer Terbaru — Commercial Weekly, 21-08-2014](https://www.businessweekly.com.tw/style/blog/8999) — Menggunakan kerangka judul "Wanwan sudah mati?" untuk memperkenalkan ilustrator generasi baru seperti Duncan, Bai Bai Jiu Jiu, dan cherng, yang secara tidak langsung memvalidasi posisi pionir Wanwan.
+
+[^18]: [Wawancara Eksklusif Wanwan 2 — Mirror Weekly, 08-12-2020](https://www.mirrormedia.mg/story/20201208insight004) — Wanwan membandingkan dua era dengan mengatakan "blog seperti perpustakaan (semua orang datang berbondong-bondong) / media sosial seperti menyebarkan selebaran (mengirim satu per satu)," dan menunjukkan bahwa kreator saat ini memiliki banyak peluang tetapi juga lebih sulit.
+
+[^19]: [Wawancara Eksklusif Wanwan 3 — Mirror Weekly, 08-12-2020](https://www.mirrormedia.mg/story/20201208insight005) — Pernyataan Wanwan tentang pertumbuhan bersama karakter dan dirinya: "Wanwan yang dulu sudah mati," "karakter itu tumbuh bersama saya," dan "sekarang lebih praktis, fokus pada keluarga."
+
+[^20]: [Perselingkuhan Wanwan, Urusannya Apa? — Commercial Weekly](https://www.businessweekly.com.tw/focus/blog/8035) — Ulasan mengutip Pasal 689 dari Mahkamah Agung, yang menyatakan bahwa pelaporan berita harus dibatasi oleh kepentingan publik, mempertanyakan hubungan antara kehidupan pribadi kreator dan kepentingan publik masyarakat umum (ini adalah transmisi suara yang sama dengan _Kuro Network_ 〈Siapa yang Berutang Permintaan Maaf kepada Wanwan?〉).
+
+[^21]: [Wawancara Eksklusif Wanwan 3 — Mirror Weekly, 08-12-2020](https://www.mirrormedia.mg/story/20201208insight005) — Wanwan menyatakan "kepribadian saya seperti itu... tanpa ambisi," dan jika ia ambisius, ia pasti akan membentuk tim untuk menyempurnakan IP tersebut, serta jawaban "setelah itu saya akan menjual ayam goreng."
+
+[^22]: [Wawancara Eksklusif Wanwan 3 — Mirror Weekly, 08-12-2020](https://www.mirrormedia.mg/story/20201208insight005) — Kesimpulan emas Wanwan: "Saya mati, dia mati... Dia akan menjadi semacam tokoh sejarah! Orang-orang akan mengingat bahwa di awal tahun 2000-an ada karakter seperti 'Wanwan', yang merupakan kenangan kami, masa kecil kami... kesempurnaan hidup itu."
+
+[^23]: [Toko Buku Online Bloggle: Penulis—Wanwan](https://search.books.com.tw/search/query/key/%E5%BD%8E%E5%BD%8E/adv_author/1/) — Daftar karya Wanwan selama bertahun-tahun, menunjukkan bahwa tema bukunya berevolusi dari pekerja kantoran, kampus, perjalanan, menjadi keluarga, hewan peliharaan, dan kue, selaras dengan tahap hidupnya.
+
+[^24]: [Stiker LINE Wanwan "Saya Cinta Pekerjaan Saya" — LINE STORE](https://store.line.me/stickershop/product/29304) — Salah satu karya di mana Wanwan membawa sosok botak ke era stiker LINE, melanjutkan tema sarkasme pekerja kantoran dari foto profil MSN.
+
+**Bacaan Lanjutan**:
+
+- [Situs Anonim: Komunitas Taiwan Sebelum Facebook](/id/culture/wretch)
+- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史)
+- [Meme Taiwan](/id/culture/taiwan-meme-culture)
+- [Dcard](/id/culture/dcard-taiwan-social-platform)
+- [Tsai Ying-wen (楊丞琳)](/people/楊丞琳)
