@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T23:34:13+08:00",
-    "zhCommitHead": "e9e2eb7f7",
+    "lastUpdated": "2026-09-17T23:44:13+08:00",
+    "zhCommitHead": "aa24092c4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,26 +60,26 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 928,
+        "fresh": 929,
         "stale": 80,
         "metadata_stale": 76,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 834,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 231,
+        "missing": 230,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 981,
+        "fresh": 982,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "hi": {
@@ -9588,7 +9588,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-sugar-industry.md",
+          "translatedFrom": "Economy/台灣糖業.md",
+          "sourceCommitSha": "92ecf85ea",
+          "sourceContentHash": "sha256:df3537706e58c616",
+          "sourceBodyHash": "sha256:8b037e5204101e2f",
+          "translatedAt": "2026-09-17T06:43:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-sugar-industry.md",
@@ -164235,7 +164246,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/houtong-cat-village.md",
+          "translatedFrom": "Geography/猴硐.md",
+          "sourceCommitSha": "11b9ab5c8",
+          "sourceContentHash": "sha256:4e7a3c516a1c10ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T15:07:08.921221+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/houtong-cat-village.md",
@@ -164584,8 +164606,8 @@
           "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
           "sourceBodyHash": "sha256:ceea55d78cdbac6b",
           "translatedAt": "2026-09-17T06:43:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa24092c",
+          "translationLastModified": "2026-09-17T23:34:13+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -166859,7 +166881,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/kapo.md",
+          "translatedFrom": "Culture/咖波.md",
+          "sourceCommitSha": "6d762f5ac",
+          "sourceContentHash": "sha256:00421195123cb8ed",
+          "sourceBodyHash": "sha256:ce8848a5d2ba18da",
+          "translatedAt": "2026-09-17T06:43:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/kapo.md",
@@ -179002,8 +179035,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-17T06:43:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa24092c",
+          "translationLastModified": "2026-09-17T23:34:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
