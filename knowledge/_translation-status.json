@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T23:46:42+08:00",
-    "zhCommitHead": "33ccee24f",
+    "lastUpdated": "2026-09-18T00:03:11+08:00",
+    "zhCommitHead": "c378e03aa",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 161,
+        "missing": 160,
         "orphan": 0
       },
       "ru": {
@@ -5678,7 +5678,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "47d78ce76",
+          "sourceContentHash": "sha256:5406c0a04ed7374f",
+          "sourceBodyHash": "sha256:0794328a7ed72af5",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -24870,8 +24881,8 @@
           "sourceContentHash": "sha256:ccabd00d4cba7d6b",
           "sourceBodyHash": "sha256:c135fc23da71593b",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c378e03a",
+          "translationLastModified": "2026-09-17T23:46:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -25894,8 +25905,8 @@
           "sourceContentHash": "sha256:c3a35976261aaad4",
           "sourceBodyHash": "sha256:54302f24eb8f8f54",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c378e03a",
+          "translationLastModified": "2026-09-17T23:46:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -37125,8 +37136,8 @@
           "sourceContentHash": "sha256:c4bd59992f27e4d2",
           "sourceBodyHash": "sha256:61a341569aa8edad",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c378e03a",
+          "translationLastModified": "2026-09-17T23:46:42+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -47134,7 +47145,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/pigeon-racing-taiwan.md",
