@@ -20,10 +20,10 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-28T04:03:52+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-17T19:13:13.117387+00:00'
 ---
 
 # La Terreur blanche à Taïwan
@@ -157,27 +157,28 @@ En 2013, à l'occasion de la Journée mondiale des droits de l'homme, le fils de
 
 ## Pourquoi cette histoire n'est pas terminée
 
-Il est facile de dire « la Terreur blanche est du passé ». La loi martiale fut levée en 1987, le Règlement de répression des rebelles abrogé en 1991, la Fondation de compensation créée en 1995, la Commission pour la Promotion de la Justice Transitionnelle (CPJT) mise en place en 2018 ; la machine d'État ne tue plus depuis 38 ans.
+Il est facile de dire que « la Terreur blanche est passée ». Trente-huit ans se sont écoulés depuis que l'appareil d'État ne tue plus, suite à la levée de l'état d'urgence en 1987, à l'abrogation du règlement sur le crime de rébellion en 1991, à la création du fonds d'indemnisation en 1995 et au passage des réformes démocratiques en 2018.
 
-Mais ouvrez l'histoire familiale de n'importe quel Taïwanais né entre 1950 et 1980, tournez les pages concernant ses parents, et vous verrez souvent apparaître les mots « cautionner », puis une pause. Son oncle a refusé de cautionner ; son voisin a cautionné ; son grand-père faillit perdre son emploi faute de garant. Cette pause est l'endroit où la Terreur blanche n'est pas encore terminée.
+Cependant, si vous ouvrez l'histoire familiale d'un Taïwanais né entre les années 1950 et 1980, et que vous arrivez aux pages de ses parents, le mot « caution » (作保) apparaît souvent, suivi d'une pause. Son oncle a refusé de se porter garant, son voisin s'était porté garant, son grand-père avait failli perdre son emploi faute de garant. Cette pause, c'est là que la Terreur blanche n'est pas terminée.
 
-Chen Zhi-xiong fut fusillé au marché de Machang en 1963. Gao Yi-sheng fut fusillé à Taipei en 1954. Shi Shui-huan fut fusillée à Taipei en 1956. Leurs familles ont mis un demi-siècle pour oser prononcer ces noms à haute voix. La justice transitionnelle de Taïwan a annulé 5 983 condamnations à tort, [^3] établi des parcs commémoratifs et érigé des monuments.
+Chen Zhi-xiong fut abattu à Ma-chang en 1963. Gao Yi-sheng fut abattu à Taipei en 1954. Shi Shui-huan fut abattue à Taipei en 1956. Leurs familles ont mis un demi-siècle à oser prononcer ces noms publiquement. La justice transitionnelle taïwanaise a annulé 5 983 condamnations, [^3] créé des parcs commémoratifs et érigé des monuments.
 
-Mais les descendants de ces 5 000 informateurs des campus universitaires vivent toujours à Taïwan, y travaillent et y votent. Ce que leur père ou leur grand-père a fait, aucune loi de dénazification ne les oblige à l'expliquer clairement. [^6] Le soi-disant « passé » n'a jamais fait l'objet d'un règlement de comptes public.
+Mais les descendants de ces 5 000 citoyens universitaires vivent toujours à Taïwan, travaillent et votent. Ce que leurs pères ou grands-pères ont fait ne leur est pas demandé d'expliquer clairement par la loi anti-blanchiment [^6]. Le soi-disant « passé » n'a jamais été comptabilisé publiquement.
 
-Il ne s'agit pas de haine, mais de livres de comptes. Le jour où la Terreur blanche prendra vraiment fin ne sera ni le jour de la levée de la loi martiale, ni celui de la dissolution de la CPJT. Ce sera le jour où la société taïwanaise sera prête à admettre que les traces du système ayant transformé deux millions de familles en un réseau de surveillance mutuelle sont encore gravées dans notre angoisse face aux voisins, aux étrangers et au simple mot « cautionner ».
+Ce n'est pas de la haine, c'est un grand livre de comptes. Le jour où la Terreur blanche s'est terminée ne sera ni le jour de la levée de l'état d'urgence, ni celui de la dissolution des réformes démocratiques. Ce sera le jour où la société taïwanaise acceptera que les traces du système qui a transformé deux millions de familles en un réseau de surveillance mutuelle persistent dans notre anxiété face aux voisins, aux étrangers et au mot « caution ».
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- [La transition démocratique de Taïwan](/history/台灣民主轉型) — Le panorama complet de la transition de la loi martiale au système démocratique le plus libre d'Asie en quarante ans
-- [La période de loi martiale](/history/戒嚴時期) — Le contenant juridique de 38 ans et 56 jours et le processus de levée de la loi martiale
-- [La justice transitionnelle de Taïwan](/history/台灣轉型正義) — L'enquête sur la vérité après la levée de la loi martiale et la tâche inachevée de la responsabilité des auteurs du mal
-- [Le Musée national des droits de l'homme](/history/國家人權博物館) — L'institution des deux parcs commémoratifs de la Terreur blanche à Jingmei et sur l'Île Verte, de six ans de préparation au gel du budget en 2025
-- [L'événement du 28 février](/history/二二八事件) — La prélude à la Terreur blanche : comment la répression de 1947 a annoncé le système de loi martiale
-- [L'événement de l'Île du Beau Paysage](/history/美麗島事件) — Un tournant important de la fin de la Terreur blanche en 1979
-- [Le mont Alishan : les plantations forestières de l'empire et la montagne de Gao Yi-sheng](/history/阿里山：帝國的林場與高一生的山) — L'histoire silencieuse de la montagne de Gao Yi-sheng et de son groupe ethnique
-- [Le reçu fiscal : le papier de 1951 qui a transformé tous les citoyens en agents du fisc](/economy/發票) — Le concepteur du système de reçus fiscaux, Ren Xian-qun, vivait dans la même époque ; emprisonné en 1955 pour « avoir connu les communistes sans les dénoncer », un seul chapeau suffisait à tuer
-- [Yin Haiguang](/people/殷海光) — Professeur de philosophie à l'Université nationale de Taïwan placé en résidence surveillée dans la ruelle 18 de la rue Wenzhou après l'affaire Lei Zhen en 1960, figure fondatrice du libéralisme taïwanais
+- [Transition démocratique à Taïwan](/fr/history/taiwan-democratization) — Vue d'ensemble des quatre décennies de transition, de l'état d'urgence au système le plus démocratique d'Asie
+- [Période de l'état d'urgence](/fr/history/martial-law-era) — Le conteneur légal et le processus de levée de l'état d'urgence sur 38 ans et 56 jours
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — L'enquête sur la vérité après la levée de l'état d'urgence et la tâche inachevée de poursuite des coupables
+- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — Les institutions des parcs commémoratifs de la Terreur blanche à Jingmei et Green Island, de la préparation de six ans au gel du budget en 2025
+- [Incident de 228](/fr/history/228-incident) — Le prélude à la Terreur blanche, comment la répression de 1947 a annoncé le régime d'état d'urgence
+- [Incident de Kaohsiung](/fr/history/kaohsiung-incident-formosa-incident) — Un tournant important de la fin de la Terreur blanche en 1979
+- [Academia Sinica](/society/中央研究院) — L'institution qui a publié les entretiens oraux « Mémoire blanche » par l'Institut d'histoire de Taïwan, et le tournant où elle a orienté ses sujets de recherche vers cette île
+- [Alishan : la plantation impériale et la montagne de Gao Yi-sheng](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — L'histoire de la montagne de Gao Yi-sheng et du silence des peuples autochtones
+- [Facture : le papier de 1951 qui a transformé tous les citoyens en inspecteurs fiscaux](/fr/economy/taiwan-uniform-invoice) — Le créateur du système de facturation, Ren Xian-qun, vivait lui aussi à cette époque ; il fut emprisonné en 1955 pour « ne pas signaler d'ennemis », une seule étiquette pouvait être fatale
+- [Yin Haiguang](/fr/people/yin-haiguang-liberalism-philosopher) — Le professeur de philosophie de l'Université nationale de Taïwan, emprisonné à la ruelle 18 de Wenzhou après l'affaire Lei Zhen en 1960, figure fondatrice du libéralisme taïwanais
 
 ## Références
 
