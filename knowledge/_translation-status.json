@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T10:48:06+08:00",
-    "zhCommitHead": "cb392d2d4",
+    "lastUpdated": "2026-09-17T10:55:26+08:00",
+    "zhCommitHead": "b7e376122",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 248,
+        "missing": 247,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "ar": {
@@ -25021,7 +25021,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/ai-hardware-supply-chain.md",
+          "translatedFrom": "Technology/AI硬體供應鏈.md",
+          "sourceCommitSha": "8f5e81ee5",
+          "sourceContentHash": "sha256:96b285db19941653",
+          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -29566,8 +29577,8 @@
           "sourceContentHash": "sha256:4702dd502f640592",
           "sourceBodyHash": "sha256:2025d0771f75493c",
           "translatedAt": "2026-09-17T02:47:45.966891+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "b7e37612",
+          "translationLastModified": "2026-09-17T10:48:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -40348,8 +40359,8 @@
           "sourceContentHash": "sha256:4ac40ba7a55e456a",
           "sourceBodyHash": "sha256:7526ec4c044a5e8d",
           "translatedAt": "2026-09-17T06:43:36+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "b7e37612",
+          "translationLastModified": "2026-09-17T10:48:06+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -74059,8 +74070,8 @@
           "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-09-17T06:43:36+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "b7e37612",
+          "translationLastModified": "2026-09-17T10:48:06+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -105646,7 +105657,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/lin-chi-wei-social-innovator.md",
+          "translatedFrom": "People/林啟維.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:82817fc4c48a612b",
+          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/lin-chi-wei-social-innovator.md",
