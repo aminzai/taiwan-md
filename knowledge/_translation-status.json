@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T06:58:05+08:00",
-    "zhCommitHead": "ccdcb5409",
+    "lastUpdated": "2026-09-18T07:06:06+08:00",
+    "zhCommitHead": "a3a774b59",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 836,
+        "fresh": 837,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       },
       "ko": {
@@ -11758,8 +11758,8 @@
           "sourceContentHash": "sha256:4a1f10aaddce056e",
           "sourceBodyHash": "sha256:7f55fdd7f7687d07",
           "translatedAt": "2026-09-17T22:47:31.073086+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "a3a774b5",
+          "translationLastModified": "2026-09-18T06:58:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -21663,8 +21663,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-09-17T22:57:44.043665+00:00",
-          "translationLastCommit": "e9059f94",
-          "translationLastModified": "2026-08-04T13:43:18+08:00",
+          "translationLastCommit": "a3a774b5",
+          "translationLastModified": "2026-09-18T06:58:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -29730,8 +29730,8 @@
           "sourceContentHash": "sha256:4702dd502f640592",
           "sourceBodyHash": "sha256:2025d0771f75493c",
           "translatedAt": "2026-09-17T22:04:09.720631+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "a3a774b5",
+          "translationLastModified": "2026-09-18T06:58:05+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -84627,7 +84627,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chiang-ching-kuo.md",
+          "translatedFrom": "People/蔣經國.md",
+          "sourceCommitSha": "0d2389cec",
+          "sourceContentHash": "sha256:47672068ff2f222b",
+          "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chiang-ching-kuo.md",
@@ -105496,8 +105507,8 @@
           "sourceContentHash": "sha256:f03fe4356a8b034b",
           "sourceBodyHash": "sha256:0511dd3ec1c7896e",
           "translatedAt": "2026-09-17T21:36:45.412748+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "a3a774b5",
+          "translationLastModified": "2026-09-18T06:58:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -106745,8 +106756,8 @@
           "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-09-18T00:52:58+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "a3a774b5",
+          "translationLastModified": "2026-09-18T06:58:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",

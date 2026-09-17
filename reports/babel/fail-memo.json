@@ -1935,7 +1935,7 @@
   "pt:Food/擔仔麵.md": 5,
   "ja:Food/擔仔麵.md": 4,
   "de:Food/擔仔麵.md": 4,
-  "ko:People/楊傳廣.md": 3,
+  "ko:People/楊傳廣.md": 4,
   "vi:Food/蘿蔔糕.md": 5,
   "ar:Food/擔仔麵.md": 4,
   "en:People/楊傳廣.md": 3,
@@ -2937,7 +2937,7 @@
   "id:History/臺灣民報.md": 2,
   "hi:History/臺灣民報.md": 1,
   "es:History/臺灣民報.md": 5,
-  "ar:History/臺灣民報.md": 2,
+  "ar:History/臺灣民報.md": 3,
   "vi:History/臺灣民報.md": 4,
   "de:History/蓬萊米.md": 2,
   "id:Politics/歡樂無法黨.md": 2,
@@ -2980,7 +2980,7 @@
   "id:History/高雄加工出口區.md": 1,
   "hi:History/高雄加工出口區.md": 1,
   "de:History/高雄加工出口區.md": 1,
-  "pt:History/高雄加工出口區.md": 4,
+  "pt:History/高雄加工出口區.md": 5,
   "ko:Food/金門高粱.md": 1,
   "ar:History/高雄加工出口區.md": 2,
   "ru:History/高雄加工出口區.md": 2,
@@ -3331,7 +3331,7 @@
   "id:Geography/阿里山林業鐵路.md": 1,
   "vi:Economy/台灣蘭花.md": 1,
   "es:Lifestyle/台灣垃圾車音樂.md": 2,
-  "fr:Geography/漯底山.md": 1,
+  "fr:Geography/漯底山.md": 2,
   "ko:People/肌肉山山.md": 1,
   "vi:Music/茄子蛋.md": 1,
   "es:Geography/漯底山.md": 1,
@@ -3360,5 +3360,6 @@
   "vi:History/蓬萊米.md": 1,
   "en:People/HUR-plus.md": 1,
   "pt:Technology/台灣機器人產業.md": 1,
-  "es:Economy/台灣金融科技發展.md": 1
+  "es:Economy/台灣金融科技發展.md": 1,
+  "es:Technology/電子商務與數位支付生態系.md": 1
 }
