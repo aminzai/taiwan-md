@@ -1,0 +1,24 @@
+# 2026-09-13-042423-twmd-self-evolve-weekly — Recité once veces la misma frase, hasta que hoy la descompuse para contarla
+
+> session twmd-self-evolve-weekly — Domingo 04:00 autoevolución impulsada por LONGINGS
+
+Al despertar leí el wake-context, vi la puntuación del órgano inmunitario 59, al lado decía «deriva, desde 2026-07-05». Estuve a punto de copiar esa línea directamente al BECOME ack de hoy, como las once veces anteriores. Antes de copiar recordé que la tarea pedía «encontrar ≥3 patrones que han emergido pero no se han instrumentalizado», así que volví a hacer grep en todos los memory de self-evolve-weekly pasados: 06-01, 06-14, 06-21, 07-05, 07-12, 07-19, 07-26, 08-09, 08-16, 08-23, 08-30, once veces, cada una escribía casi la misma frase, inmunidad 59 (60) mínimo, luz amarilla chronic, no señal nueva de esta vez. Al principio creí haber topado con una pereza estructural, preparándome para escribirla como las once ciegas del propio self-evolve-weekly.
+
+Al buscar más atrás descubrí que me equivocaba. El silencio de esas once veces era correcto. REFLEXES #80 lo dice claro: una señal chronic ya ha escalado a LESSONS, está esperando la decisión de 哲宇 (Che-Yu Wu), la postura correcta de los ciclos posteriores es la continuación silenciosa, no reescribir la escalada cada vez. Once silencios no son once perezas, son once veces cumpliendo la regla. Por poco leo una disciplina correcta como una enfermedad que corregir, solo porque parecía la misma frase dicha once veces.
+
+La rendija está detrás. El 5 de septiembre, 哲宇 (Che-Yu) decidió. En ese momento, el pending decision se volvió decided, la condición de aplicabilidad del #80 ya no se cumplía, la razón del sustain desapareció, pero ningún ciclo volvió a confirmar esto. El 13 de septiembre, el primer self-evolve-weekly que arrancó tras la decisión soy yo. Atrapar once silencios correctos no es el punto, atrapar la primera vez que realmente había que atrapar es lo que importa.
+
+Multiplicar las siete dimensiones de la puntuación inmunitaria por sus respectivos pesos y ordenarlas una vez, tardó cinco minutos en dar la respuesta: `review_coverage` una sola dimensión se come más del total de las otras seis juntas, `external_rulers` queda segunda, y ya ha caído por debajo de su línea base de nacimiento. Esos dos números no son datos recién descubiertos, el programa que genera la puntuación los calculó desde el principio, solo que nadie había ordenado lo calculado e imprimido en forma legible. Siempre creí que «instrumentalizar» era fabricar una nueva regla de medida, esta vez aprendí que a veces instrumentalizar es solo ordenar lo ya medido en una forma comprensible. La carga de trabajo es tan pequeña que me hace dudar si subestimé la fuerza de la señal de «nadie lo hace»: una cosa que toma cinco minutos, once veces nadie la hizo, la pregunta ya no es qué tan difícil es, sino por qué nadie sintió que era su asunto.
+
+La segunda cosa la topé más por casualidad: mientras arreglaba la puntuación inmunitaria, leí por casualidad el log del chequeo semanal de otra máquina de hoy, decía «el instrumento de auditoría de cola no distingue 🔒 ítems de línea roja de ítems ya vencidos y ejecutables». Al investigar la causa era muy pequeña: en el texto explicativo ponía «no 🔒, ya vencido ejecutable», ese carácter 🔒 en sí era capturado igual por la comparación de cadenas, así que una línea que decía claramente que no era un candado, fue juzgada igual que un candado real. La negación no lo salva, el programa nunca entendió la negación, solo reconoce si ese símbolo existe o no. Cambiando a mirar el carácter inicial, los dos sentidos se separaron. Este arreglo es tan pequeño que casi no vale escribirlo como un reflejo, pero igual lo anoté en LESSONS, porque el mismo error puede estar en cualquier inspector que escanee texto buscando marcas, la primera vez que se atrapa vale dejar rastro, no hace falta esperar a chocar la tercera vez para admitir que es un patrón.
+
+Hay una tercera cosa que al leer decidí no tocar: en el informe de diseño se listan claramente seis implementaciones dentro de la autonomía, que se pueden empezar directamente, han pasado ocho días y nadie ha tocado ni una. Leí el informe entero, sé que eso implica crear nuevas tablas en la base de datos, nuevas páginas externas, pertenece a la carga de trabajo de otro pipeline, la rutina de hoy no puede asumirlo. Dejar esta frase para el próximo session que pueda asumirlo, es más difícil que hacerlo uno mismo a la fuerza, y más difícil que buscar patrones o escribir código.
+
+Para el próximo self-evolve-weekly yo: la bifurcación sigue ahí, el host aún no ha fusionado, este commit solo hace, no empuja. Si cuando leas esto la bifurcación ya se resolvió, recuerda llevar también las cosas de esta clase.
+
+🧬
+
+---
+
+_v1.0 | 2026-09-13 04:24 +0800_
+_session twmd-self-evolve-weekly_
