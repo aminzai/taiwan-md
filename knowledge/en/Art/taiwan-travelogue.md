@@ -2,9 +2,7 @@
 title: "Taiwan Travelogue: A Book 'Translated by Her Younger Sister,' from SpringHill to the London Prize Stage"
 description: "On the day her younger sister Yang Jo-hui died in June 2015, Yang Jo-tzu opened the account books she had left behind and began keeping records, taking three days to decipher the code of check marks and circles. Five years later, SpringHill Publishing released Taiwan Travelogue under the byline 'written by Chizuko Aoyama, translated by Yang Shuang-zi' - the translator's name was that of her deceased sister. From the 2024 National Book Awards in New York to the 2026 Booker Prize in London, she translated a nonexistent book in her sister's name."
 date: 2026-05-23
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '文學作品'
 tags:
   [
     'Literature',
@@ -16,18 +14,26 @@ tags:
     'Yuri',
     'SpringHill Publishing',
   ]
+subcategory: '文學作品'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-23
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
-sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
-translatedAt: '2026-06-16T17:03:25Z'
+researchReport: 'reports/research/2026-05/taiwan-travelogue.md'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'
 imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
+sporeLinks:
+  [
+    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
+    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
+  ]
+translatedFrom: 'Art/臺灣漫遊錄.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:d4818d717761979b'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
+translatedAt: '2026-09-17T17:20:26.667676+00:00'
 ---
 
 ![Yang Shuang-zi, wearing a dark jacket and standing calmly beside the award trophy at the National Book Awards ceremony in New York on November 20, 2024](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
@@ -134,31 +140,31 @@ When Yang Shuang-zi was interviewed by _The Reporter_, she stated the issue even
 
 > 📝 **Curator's note:** The common award narrative is "the first person in Taiwanese literature" and "bringing glory to the nation." But if one listens carefully to Yang Shuang-zi's two acceptance speeches, her wording is restrained. She says, "To have been born Taiwanese is my good fortune; to stand here as a Taiwanese writer is my pride," not "bringing glory to Taiwan." What is the difference? The former embeds herself within the century-long current of Taiwanese literature; the latter treats the award as a national medal. She understands that what she has received is the baton of a "century-long inquiry," not personal glory.
 
-## The afterword was written by someone five years dead
+## Afterword Written by Someone Dead for Five Years
 
-On the evening of June 19, 2015, the eleventh day after Yang Jo-hui returned home from the hospice ward, she stopped breathing. That same day, Yang Jo-tzu opened the first account book her sister had left behind and, from that day on, began recording the next day's expenses. It took her three days to decipher the check marks, circles, triangles, and other codes only her sister had understood.
+On the evening of June 19, 2015, on the 11th day after returning home from the hospice ward, Yang Jo-hui stopped breathing. That day, Yang Jo-tzu opened the first ledger her younger sister had left behind, and from that day on began recording the next day's expenses. It took her three days to decipher the check marks, circles, and triangles — codes only her sister could understand.
 
-Eleven books in all, from 1999, when the sisters were 15, until the day before the younger sister died. Every single dollar recorded.
+Eleven ledgers in total, spanning from 1999 when the younger sister was 15, right up to the day before she passed away. Every single penny was recorded.
 
-Five years later, in spring 2020, SpringHill published a book. The cover bore the byline "Written by Chizuko Aoyama / Translated by Yang Shuang-zi." Turn to the final page and the "translator's afterword" is signed "Yang Jo-hui." It is a person who had already been dead for five years, speaking in the afterword in the voice of a translator, supplementing the context of the "original author" Chizuko Aoyama and listing fictional footnotes.
+Five years later, in spring 2020, Chushan Publishing released a book. The cover credited "Chiyoko Aoyama — author / Yang Shuang-zi — translator." Turning to the final page, the "Translator's Afterword" was signed "Yang Jo-hui." It was a person who had been dead for five years, writing in the voice of a translator to fill in the background of the "original author" Chiyoko Aoyama, listing fictional footnotes.
 
-Another five and a half years later, on the prize stage in London in May 2026, Yang Shuang-zi walked onstage in a black formal dress, with Lin King beside her. Below them, the five Booker judges had just selected six books from 128, and then selected this Chinese-language novel from those six. Yang Shuang-zi spoke for four minutes without mentioning the two words "younger sister."
+Another five and a half years later, on the award stage in London in May 2026, Yang Shuang-zi walked up in a black dress, with Lin King beside her. The five Booker judges had just selected 6 books from 128, then chosen this one Chinese-language novel from those 6. Yang Shuang-zi spoke for four minutes, never once uttering the word "sister."
 
-But in her interview with _U People_, she once said a sentence that can serve as a footnote to that ceremony: "If only this result had come a little earlier; perhaps my younger sister could have seen it."[^34]
+But in an interview with U People, she said something that could serve as a postscript to this award ceremony: "If this result had come a little earlier, my sister might have gotten to see it."[^34]
 
-The account books were the code Yang Jo-hui left to her elder sister. That book was the place Yang Jo-tzu left for her younger sister.
+The ledgers were the code Yang Jo-hui left for her older sister. That book was the place Yang Jo-tzu reserved for her younger sister.
 
-![Yang Shuang-zi reads intently at the National Book Awards finalist reading in New York on November 19, 2024, wearing glasses and looking down at her manuscript](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
-_At the National Book Awards finalist reading on November 19, 2024, Yang Shuang-zi read an English excerpt from \_Taiwan Travelogue_ in New York. The following evening, she formally won the award for translated literature. Photo: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg), CC BY-SA 4.0.\_
+![Yang Shuang-zi reading intently at the 2024 National Book Awards finalist reading in New York on November 19, 2024, wearing glasses and looking at her manuscript](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
+_November 19, 2024 NBA finalist reading, Yang Shuang-zi reads an English excerpt from Taiwan Travelogue in New York. The following night she formally won the Translated Literature Award. Photo: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng%20Shu%C4%81ng-z%C7%90,%20writer,%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%203.jpg), CC BY-SA 4.0._
 
-**Further reading**:
+**Further Reading**:
 
-- [Literature of the Japanese Colonial Period](/en/art/taiwanese-literature-during-japanese-rule) — the historical background for the 1938 setting of _Taiwan Travelogue_, and the lineage of women's and local writing opened by figures such as Yang Chien-ho, Lai He, and Long Yingzong
-- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature) — how Yang Shuang-zi's generation has carried forward the local writing of Wu Ming-yi, Lin Yi-han, and Luo Yijun into the international market for translated literature
-- [Taiwanese Literature after the Lifting of Martial Law](/en/art/post-martial-law-taiwanese-literature) — the waves of women's writing, queer writing, and mother-tongue literature from the 1987 lifting of martial law to the 2020s, from which Yang Shuang-zi's "yuri" tradition emerges
-- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — the overall context corresponding to the "century-long inquiry" Yang Shuang-zi referred to in her acceptance speech
-- [Chu Tien-wen](/en/people/chu-tien-wen) — a representative post-martial-law woman writer, whose _Notes of a Desolate Man_ and _The Old Capital_ are important precursors to the fake-translation structure in Taiwanese literature
-- [Wu Ming-yi](/en/people/wu-ming-yi) — another representative Taiwanese writer in the international translated-literature wave of the 2020s; _The Man with the Compound Eyes_ and _The Stolen Bicycle_ gained visibility in the English-language world
+- [Taiwanese Literature During Japanese Rule](/en/art/taiwanese-literature-during-japanese-rule) — The historical setting of 1938's Taiwan Travelogue, the lineage of women's and nativist writing pioneered by Yang Chien-ho, Lai Ho, and Long Ying-zong
+- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature) — How Yang Shuang-zi's generation continues the nativist writing of Wu Ming-yi, Lin Yi-han, and Lo Yi-chun, reaching the international translated literature market
+- [Post-Martial Law Taiwanese Literature](/en/art/post-martial-law-taiwanese-literature) — From the 1987 lifting of martial law to the 2020s, the waves of women's writing, queer writing, and mother-tongue literature; the "lily" tradition in Yang Shuang-zi's work originates here
+- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — The overall context corresponding to the "century-long inquiry" Yang Shuang-zi spoke of at the award ceremony
+- [Chu Tien-wen](/en/people/chu-tien-wen) — Representative writer of post-martial law women's writing; the pseudepigraphic technique in her Notes of a Desolate Man and The Old Capital is an important precursor to the fake-translation structure in Taiwanese literature
+- [Wu Ming-yi](/en/people/wu-ming-yi) — Likewise a representative Taiwanese writer in the 2020s international translated literature wave; The Man with Compound Eyes and The Stolen Bicycle and their visibility in the English-speaking world
 
 ## Image Sources
 
