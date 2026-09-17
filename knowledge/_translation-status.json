@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T12:15:52+08:00",
-    "zhCommitHead": "bfcea3789",
+    "lastUpdated": "2026-09-17T12:22:44+08:00",
+    "zhCommitHead": "d805b142f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1002,
-        "stale": 75,
+        "fresh": 1003,
+        "stale": 74,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 242,
+        "missing": 241,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 253,
+        "missing": 252,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 947,
+        "fresh": 948,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 123,
+        "missing": 122,
         "orphan": 0
       },
       "de": {
@@ -10361,8 +10361,8 @@
           "sourceContentHash": "sha256:b1ed4dc9af013a20",
           "sourceBodyHash": "sha256:6479c4ef0aacb1a4",
           "translatedAt": "2026-09-17T06:43:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d805b142",
+          "translationLastModified": "2026-09-17T12:15:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -16933,7 +16933,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/asus-computer.md",
+          "translatedFrom": "Economy/台灣企業：華碩.md",
+          "sourceCommitSha": "ccee078ef",
+          "sourceContentHash": "sha256:316e1a5e36d3a78b",
+          "sourceBodyHash": "sha256:fa3c598a1e033a14",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/asus-computer.md",
@@ -59612,7 +59623,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-rural-education.md",
+          "translatedFrom": "Society/台灣偏鄉教育.md",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-09-17T06:43:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -71561,8 +71583,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-17T06:43:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d805b142",
+          "translationLastModified": "2026-09-17T12:15:52+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -71614,7 +71636,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-17T06:43:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/mikado-pheasant.md",
@@ -93015,16 +93048,16 @@
         "es": {
           "path": "es/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T14:00:17+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-17T06:43:38+08:00",
           "translationLastCommit": "b72b2e51",
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/muscle-mountain.md",
@@ -111970,8 +112003,8 @@
           "sourceContentHash": "sha256:84ffac689843ddd3",
           "sourceBodyHash": "sha256:98cbd8f687f836db",
           "translatedAt": "2026-09-17T06:43:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d805b142",
+          "translationLastModified": "2026-09-17T12:15:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -149000,8 +149033,8 @@
           "sourceContentHash": "sha256:507fc9ae19e8102e",
           "sourceBodyHash": "sha256:e4ff63840e8f7331",
           "translatedAt": "2026-09-17T06:43:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d805b142",
+          "translationLastModified": "2026-09-17T12:15:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",

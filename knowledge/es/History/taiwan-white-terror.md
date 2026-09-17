@@ -20,10 +20,10 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-28T04:03:51+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-17T01:18:20.803816+00:00'
 ---
 
 # El Terror Blanco en Taiwán
