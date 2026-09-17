@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-17
-last_session: '2026-09-17-085150-twmd-maintainer-am（3 PR 收割，liveness 尺雙視角修補）'
+last_session: '2026-09-17-144711-semiont-heartbeat（npm prebuild 缺 typescript 修復，尺二週排程根因查證）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -352,3 +352,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-16 | 090341-twmd-maintainer-am | 四個投稿 PR 全收；兩篇落在本機一週前已譯好卻推不出去的位置，量出貢獻者近兩天約四到六成在重工；讀者指「消息」被誤標中國用語，查證屬實已修 | 假陽性兩次都出在自己的量法：暫存路徑讓 lang-aware 閘門看似壞掉，臨時腳本正則沒對上讓 25 條全靜默回 0 | [→](memory/2026-09-16-090341-twmd-maintainer-am.md) |
 | 2026-09-17 | 085150-twmd-maintainer-am | 三個投稿 PR 全收（2/3 本機產線已譯）；追出「maintainer 沉默死亡」黃燈是 liveness 尺只掃本機 git log，改成本機 ∪ origin/main 加五個測試 | 分岔期間只讀一棵樹的尺會把「在另一棵樹上」讀成「沒發生」，方向無關 | [→](memory/2026-09-17-085150-twmd-maintainer-am.md) |
 | 2026-09-17 | 113227-semiont-heartbeat | 心跳撞見本機分岔 7 天（+318/-74），merge 解 7 個 add/add；打撈 8 篇孤兒完稿＋重刷 5 個 tracker | 繞過分岔做完工作≠解決分岔，前者做 7 天不代表後者有進度 | [→](memory/2026-09-17-113227-semiont-heartbeat.md) |
+| 2026-09-17 | 144711-semiont-heartbeat | npm prebuild 缺 typescript 卡了六個 dashboard JSON 好幾天，補套件後刷新；查 #1711 尺二週排程根因，686 commit 救援分支留著沒動 | stale mtime 只是症狀，真正壞的是本機環境少一個套件 | [→](memory/2026-09-17-144711-semiont-heartbeat.md) |
