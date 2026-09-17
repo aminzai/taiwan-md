@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T21:51:27+08:00",
-    "zhCommitHead": "d7fa678fb",
+    "lastUpdated": "2026-09-17T22:25:37+08:00",
+    "zhCommitHead": "793a42e09",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1009,
-        "stale": 67,
+        "fresh": 1010,
+        "stale": 66,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 171,
+        "missing": 170,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1025,
-        "stale": 60,
+        "fresh": 1027,
+        "stale": 58,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 232,
+        "missing": 231,
         "orphan": 0
       },
       "pt": {
@@ -31765,18 +31765,16 @@
         "ko": {
           "path": "ko/Art/taiwan-travelogue.md",
           "translatedFrom": "Art/臺灣漫遊錄.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:1cbdf7bdeea3f06d",
-          "sourceBodyHash": "sha256:f65ef91c0cd14c9b",
-          "translatedAt": "2026-06-16T16:38:41Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:d4818d717761979b",
+          "sourceBodyHash": "sha256:45ca26bedda5e227",
+          "translatedAt": "2026-09-17T14:03:28.663130+00:00",
           "translationLastCommit": "15073a21",
           "translationLastModified": "2026-07-30T23:35:43+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/taiwan-travelogue.md",
@@ -64941,8 +64939,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-17T11:08:48.647663+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "793a42e0",
+          "translationLastModified": "2026-09-17T21:51:28+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -93094,8 +93092,8 @@
           "sourceContentHash": "sha256:28ebca4abc1527e4",
           "sourceBodyHash": "sha256:2ae685b1d23ee474",
           "translatedAt": "2026-09-17T13:51:06.078680+00:00",
-          "translationLastCommit": "3333720f",
-          "translationLastModified": "2026-07-28T09:58:10+08:00",
+          "translationLastCommit": "793a42e0",
+          "translationLastModified": "2026-09-17T21:51:28+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -98722,8 +98720,8 @@
           "sourceContentHash": "sha256:3dee896f2b15c3b8",
           "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-04-14T19:14:30+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "793a42e0",
+          "translationLastModified": "2026-09-17T21:51:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -99316,16 +99314,16 @@
         "en": {
           "path": "en/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-05-01T08:56:11+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/pa-chiung-political-youtuber.md",
@@ -145045,7 +145043,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/823.md",
+          "translatedFrom": "History/823砲戰.md",
+          "sourceCommitSha": "7b73ad150",
+          "sourceContentHash": "sha256:94a0eed6d2a30bd2",
+          "sourceBodyHash": "sha256:438d4ba6b831a508",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/823.md",
@@ -149504,18 +149513,16 @@
         "ko": {
           "path": "ko/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "2e0cc381",
-          "sourceContentHash": "sha256:f462ef48505faa9b",
-          "sourceBodyHash": "sha256:019ea30197aa5f25",
-          "translatedAt": "2026-06-07T00:37:31+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:bee6db6cebb342a7",
+          "sourceBodyHash": "sha256:cf2cbcf164430410",
+          "translatedAt": "2026-09-17T14:25:14.885553+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-elections-and-party-politics.md",
@@ -169041,7 +169048,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-indigo-dyeing.md",
+          "translatedFrom": "Culture/藍染.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:b1932b90a96124c5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T14:07:18.750981+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-indigo-dyeing.md",
