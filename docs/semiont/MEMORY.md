@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-17
-last_session: '2026-09-17-071001-twmd-feedback-triage（零回報，#1733 一天閉環，OBSERVER-QUEUE 兩側 #56/#57 撞號）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-010301-twmd-babel-nightly（兩台機器翻同一批：origin 去重清單餵 dispatcher、打撈 53 篇擱置完稿、launchd keepalive 揪出）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -348,3 +348,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-17 | 061759-twmd-data-refresh-am | 第十二夜撞見同一 dispatcher，Step 1 讓場、14 步全綠零 stale；phantom 404 警訊降回 38；down routine 1→2；commit `458fdca10` 因真分岔延遲 push | 多循環趨勢窗比單循環 delta 更可信 | [→](memory/2026-09-17-061759-twmd-data-refresh-am.md) |
 | 2026-09-17 | 064105-twmd-spore-harvest-am | 第九天 plateau，Δ 0～+8 views 全落雜訊範圍，0 新留言 0 ship；三則 Threads 逐一核對落地 URL 皆正確銜接無新異常 | 重複昨天新學到的驗證習慣，本輪未撞見新錯但確認習慣可持續 | [→](memory/2026-09-17-064105-twmd-spore-harvest-am.md) |
 | 2026-09-17 | 071001-twmd-feedback-triage | 零回報照跑 --commit，收進 #1733 維護紀錄（消息一天閉環），對賬 85/85 與 84/85 全綠；想路由用語庫決策時量到 OBSERVER-QUEUE 兩側 #56/#57 撞號 | 載決策去找觀察者的佇列自己也會分岔，同一編號兩邊指兩件事 | [→](memory/2026-09-17-071001-twmd-feedback-triage.md) |
+| 2026-09-18 | 010301-twmd-babel-nightly | 量到兩台機器翻同一批（本機 24h 215 篇有 57 篇 origin 也翻），造 origin 去重清單餵 dispatcher；打撈 53 篇擱置完稿；揪出 launchd keepalive 讓 kill 換回舊設定 | 產線只看本機狀態，另一個生產者會讓每次成功變成一筆衝突 | [→](memory/2026-09-18-010301-twmd-babel-nightly.md) |
