@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-18
-last_session: '2026-09-18-050800-twmd-embeddings-nightly（13 語 12,981 向量 0 fail，分岔延遲 push 第四夜）'
+last_session: '2026-09-18-061111-twmd-data-refresh-am（第十三夜讓場 14 步全綠，修回 build-perf 警告標籤舊門檻）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-18 | 010301-twmd-babel-nightly | 量到兩台機器翻同一批（本機 24h 215 篇有 57 篇 origin 也翻），造 origin 去重清單餵 dispatcher；打撈 53 篇擱置完稿；揪出 launchd keepalive 讓 kill 換回舊設定 | 產線只看本機狀態，另一個生產者會讓每次成功變成一筆衝突 | [→](memory/2026-09-18-010301-twmd-babel-nightly.md) |
 | 2026-09-18 | 053800-twmd-routine-sync | 第 52 輪對賬 18/18 in-sync 連續第十一輪零漂移；首次加驗 origin 側 routine 層 diff 為空；分岔 ahead757/behind548（behind 一夜 +345） | 分岔期間本機三層一致不等於與 SSOT 一致，儀器只量前者 | [→](memory/2026-09-18-053800-twmd-routine-sync.md) |
 | 2026-09-18 | 050800-twmd-embeddings-nightly | 13 語 12,981 向量 0 fail（+144），rebuild 42 分鐘；commit `4b3d4bbf9` 因真分岔（ahead759/behind548，OBSERVER-QUEUE #56）延遲 push 第四夜 | 監看器不認回車，半小時靜默被讀成還在跑；看不見需要自己的符號 | [→](memory/2026-09-18-050800-twmd-embeddings-nightly.md) |
+| 2026-09-18 | 061111-twmd-data-refresh-am | 第十三夜撞見同一 dispatcher，Step 1 讓場、14 步全綠零 stale；phantom 404 連三夜下行至 17；修回 build-perf 警告標籤停在舊門檻 200 的錯 | 儀器判斷對而說明錯，真警報會穿上假警報的衣服 | [→](memory/2026-09-18-061111-twmd-data-refresh-am.md) |

@@ -2066,3 +2066,13 @@ _- **LESSONS-INBOX（本檔）= 新教訓 buffer（待 distill 升級到 canonic
 - **可能處置（候選，未拍板）**：(a) dispatcher 自身加 idempotent lock：cron 觸發時偵測到已有活動進程直接 no-op 退出，不需要每晚讓當班 session 臨場判斷三重巡檢 (b) dashboard 加一道「dispatcher 存活超過 N 小時未收工」的 chronic 警訊，讓排程模型跟實際節奏的落差變成看得見的訊號而非每次撞見才發現 (c) 若判定「一輪要跑數天」本來就是預期行為（工作量夠大時的正常形態），改造 babel-nightly 這條 routine 的定位：從「每晚啟動一輪新 dispatcher」改成「每晚檢查 + 續命既有 dispatcher（沒有才啟動）」，讓 routine 語意跟實際運作對齊
 - **相關**：REFLEXES #57（routine 入口必須 detect parallel-actor，本 pattern 已升為其延伸子規則）、REFLEXES #76（multi-cycle trend window > single-cycle delta，vc=3 門檻在本例成立）
 - **verification_count**: 3（2026-09-09、2026-09-10、2026-09-11 連續三晚同一 PID 同一輪，跨 session 獨立驗證；2026-09-11 撞見時已連續運行近 72 小時）→ **已升 canonical，本 buffer entry 不再需要第四次撞見才行動**
+
+### 2026-09-18 twmd-data-refresh-am — alert-caption-lags-threshold：判斷式跟著門檻收緊了，印給人看的標籤留在舊值，真警報穿上假警報的衣服
+
+- **pattern**: alert-caption-lags-threshold
+- **原則**：儀器的判斷式與它印給人讀的說明文字是一對孿生產物；門檻改動時只改判斷式，標籤就會把正確的旗子翻譯成荒謬的旗子，讀畫面的人會把真警報歸類成工具寫反，寫進交接等下一個人。檢查器只驗數字不驗註解，這種漂移不會讓任何閘門失敗，只在人讀的那一刻生效。
+- **觸發**：`scripts/core/extract-build-perf.mjs` 2026-06-13 把 ms/page 門檻從 200 收緊到 50（註解寫清理由），但 console 字串仍印「⚠️ > 200ms threshold」。2026-09-17 06:17 refresh-am 看到「112 ⚠️ > 200ms」寫進 handoff「疑似判斷式方向寫反」；2026-09-18 06:14 第二次看到「125 ⚠️ > 200ms」才打開檔案，發現判斷正確、標籤過期，且 112/125 都是門檻 2.2～2.5 倍的真警報（CI build 1484s → 1661s），訊號被標籤蓋住一天。修法：抽 `MS_PER_PAGE_THRESHOLD` 常數讓判斷與標籤共用（commit `26db4b411`）。證據：[memory/2026-09-18-061111-twmd-data-refresh-am.md](memory/2026-09-18-061111-twmd-data-refresh-am.md)、[diary/2026-09-18-061111-twmd-data-refresh-am.md](diary/2026-09-18-061111-twmd-data-refresh-am.md)
+- **instances**：
+- **可能層級**：通用反射（候選併入 REFLEXES #24 第 10 種形式：旗子對、說明錯；或 #92 twin-artifact 在單檔內的最小形狀）
+- **相關**：REFLEXES #24（工具在說謊的 9 種形式——本例判斷、數據、旗子全對，只有給人讀的字串錯，是新的一種）、REFLEXES #92（該同步的兩個產物各自演化，這裡兩者在同一個檔案同一個函式裡，仍然漂了三個月）、REFLEXES #15 第 13 次驗證（修補落地在第二次絆到而非讀到 handoff）。候選機械化：grep 所有印門檻數字的字串，凡字串內寫死數字而判斷式用變數者列為待修。
+- **verification_count**: 1
