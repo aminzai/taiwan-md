@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T20:52:12+08:00",
-    "zhCommitHead": "0f158a347",
+    "lastUpdated": "2026-09-17T20:58:00+08:00",
+    "zhCommitHead": "2b9a6fe22",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1006,
-        "stale": 71,
+        "fresh": 1007,
+        "stale": 70,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 900,
+        "fresh": 901,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       },
       "ru": {
@@ -51067,8 +51067,8 @@
           "sourceContentHash": "sha256:2a4f80e7fc721f19",
           "sourceBodyHash": "sha256:fc5314c473c1914f",
           "translatedAt": "2026-09-17T11:27:43.691818+00:00",
-          "translationLastCommit": "889deb6c",
-          "translationLastModified": "2026-07-29T12:33:45+08:00",
+          "translationLastCommit": "2b9a6fe2",
+          "translationLastModified": "2026-09-17T20:52:12+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -64883,8 +64883,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-17T12:51:49.528835+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "2b9a6fe2",
+          "translationLastModified": "2026-09-17T20:52:12+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -82993,7 +82993,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/bernard-tseng.md",
+          "translatedFrom": "People/曾博恩.md",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T12:17:58.255171+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/bernard-tseng.md",
@@ -156041,18 +156052,16 @@
         "es": {
           "path": "es/Geography/hsinchu-county.md",
           "translatedFrom": "Geography/新竹縣.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:eefcd1a536e4ddf5",
-          "sourceBodyHash": "sha256:a716f79b2442afc5",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:bf74cbc86604e18b",
+          "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
+          "translatedAt": "2026-09-17T12:54:48.908799+00:00",
           "translationLastCommit": "c0e0d713",
           "translationLastModified": "2026-07-27T19:09:22+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/hsinchu-county.md",
@@ -174540,8 +174549,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-17T06:43:34+08:00",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
+          "translationLastCommit": "2b9a6fe2",
+          "translationLastModified": "2026-09-17T20:52:12+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
