@@ -2,6 +2,7 @@
 title: "Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up"
 description: "High school diploma. Mailroom clerk at 23. General manager at 28. President of Asia's finest boutique hotel at 32 — where he invented a system that greeted every guest by name before they stepped out of the car. 600,000 copies of a bestseller. Then at 62, he quit to build schools in rural Taitung. Then cancer. Then an art center on the Pacific coast."
 date: 2026-04-06
+category: 'People'
 tags:
   [
     'Stanley Yen',
@@ -18,12 +19,16 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
+sporeLinks:
+  [
+    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
+    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
+  ]
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: 'df2e7558'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-06-16T17:13:49Z'
-category: People
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-17T21:36:45.412748+00:00'
 ---
 
 # Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up
@@ -122,30 +127,31 @@ He disclosed this in the afterword of his 2011 book. He didn't stop. Post-surger
 
 On October 25, 2011, he received the Third-Class Brilliant Star Medal at the Presidential Office[^22]. A high school graduate from the mailroom, standing in the Presidential Office.
 
-## Twenty-Seven Meters at Jinzun
+## The 27-Metre Bottle
 
-On March 15, 2025, the Paul Chiang Art Center (江賢二藝術園區) opened in Jinzun, on Taitung's Pacific coast[^23].
+On March 15, 2025, Taitung's Jinzhun. The Jiang Xian-er Art District opened[^23].
 
-This was a project Yen had championed for twelve years. Paul Chiang (江賢二) is one of Taiwan's most important abstract painters, who settled in Taitung in his later years. Yen convinced him to build an art center on the remote east coast — not in Taipei, not in any commercial district.
+This was a project pushed forward by Yen Chenghsiung over twelve years. Jiang Xian-er is one of Taiwan's most important abstract painters, who settled in Taitung in his later years. Yen convinced him to build an art district by the sea in Jinzhun — not in Taipei, not in any commercial district, but on Taiwan's most remote east coast.
 
-Architect Lin You-han designed five buildings that follow the slope of the Coastal Mountain Range. The tallest, Chenghan Hall, rises 27 meters — its form a 20x enlargement of one of Chiang's steel sculptures[^24]. The walls are exposed concrete; the roofing is Corten steel — weathering steel that oxidizes over time, slowly turning the same reddish-brown as the surrounding earth. It's as if the building is aging alongside the Taitung landscape. Inside: a cactus garden, a Silver Lake corridor, and a café named Debussy.
+Architect Lin You-han designed five buildings arranged along the slope of the coastal mountains. The tallest, the "Chenghun Hall," stands 27 meters high, its shape a 20-fold enlargement of a steel sculpture by Jiang Xian-er[^24]. The exterior walls use exposed-form concrete, and the roofs are covered with weathering steel — the kind that oxidizes over time, gradually turning reddish-brown, as if the building is aging together with Taitung's land. The district includes a cactus garden, a Silver Lake corridor, and a café called "Debussy."
 
-Yen serves as the center's director. His vision: to connect Chishang, Jinzun, and other east coast locations into an artistic cluster, comparable to Japan's Setouchi Triennale[^24].
+Yen Chenghsiung serves as the district's director. His vision is to connect Chiayi, Jinzhun, and other east coast sites into an art cluster, benchmarking against Japan's Seto Inland Sea art festival[^24].
 
-Seventy-eight years old. One kidney less. Still doing foundation work for Taitung.
+78 years old. Missing a kidney. He's still doing foundation work for Taitung.
 
-"I just want Taiwan to be good. The foundation work needs someone to do it."[^4]
+"I just want Taiwan to be good. Someone has to do the foundation work."[^4]
 
-Some call him an idealist. Some call him a successful man who lectures from a comfortable position. Maybe both are true. But one thing isn't debatable: this man has spent every day of his second half-life in the corners of Taiwan where there are no spotlights, doing the least glamorous work imaginable.
+Some say he's an idealist. Others say he's a successful person who can talk while standing upright. Perhaps both are true. But no matter how you look at him, one thing is undisputed: this person has spent every day of his later life in the most spotlight-free corners of Taiwan, doing the least glamorous foundational work.
 
-The rubber boots are still outside the classroom. The rice paddies are still being planted. The tree houses are still being built.
+The long rain boots outside the classrooms are still there. The rice paddies are still being cultivated. The treehouse is still being built.
 
-**Further reading:**
+**Further Reading**:
 
-- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Yen changed how Taiwan saw "service work"; convenience stores turned service into national infrastructure
-- [Taiwan Indigenous Culture](/en/culture/indigenous-peoples-16-tribes-cultural-map) — A core principle of Junyi School: Indigenous culture doesn't need saving — it needs respect
-- [Taiwan Coffee Culture](/en/lifestyle/taiwan-coffee-culture) — When Yen was building luxury service at The Landis, Taiwanese were still drinking instant coffee
-- [Lu Kuan-wei (呂冠緯)](/en/people/lu-guan-wei-junyiacademy-founder) — Chairman of Junyi Academy. The name "Junyi" was borrowed directly from the Junyi Academy of Innovation in Taitung founded by Stanley Yen.
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Yen Chenghsiung changed how Taiwanese people view "service industry," while convenience stores turned service into a universal foundation
+- [Taiwan Indigenous Peoples' 16 Tribes Cultural Map](/en/culture/indigenous-peoples-16-tribes-cultural-map) — The core philosophy of Junyi School: indigenous cultures are not things that need to be "saved," but things that need to be respected
+- [Taiwan Coffee Culture](/en/food/taiwan-coffee-culture) — In the era when Yen Chenghsiung was promoting premium services at Asia-Tech, Taiwanese people were still drinking instant coffee
+- [Teach For Taiwan](/en/society/teach-for-taiwan) — Another education initiative born from Yen Chenghsiung's influence, led by Liu An-ting bringing four hundred young people into rural classrooms
+- [Lu Guan-wei](/en/people/lu-guan-wei-junyiacademy-founder) — Chairman of the Junyi Education Platform, the name "Junyi" is borrowed directly from the Taitung Junyi Primary and Secondary School founded by Yen Chenghsiung
 
 ## References
 
@@ -165,7 +171,7 @@ The rubber boots are still outside the classroom. The rice paddies are still bei
 
 [^8]: Cumulative sales of _The Lion Heart of a CEO_ approximately 600,000 copies. A landmark title in Taiwanese business publishing
 
-[^9]: Stanley Yen, _The Lion Heart of a CEO_ quote, confirmed via [Pixnet book excerpt](https://yuna771121.pixnet.net/blog/post/5230366)
+[^9]: [Pixnet book excerpt](https://yuna771121.pixnet.net/blog/post/5230366) — Stanley Yen, _The Lion Heart of a CEO_ quote, confirmed via
 
 [^10]: [Books.com.tw: The Future I See](https://www.books.com.tw/products/0011002842) — Published 2008, won 2009 Taipei International Book Exhibition Award, selected as required reading for civil servants
 

@@ -22,10 +22,10 @@ lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:8a77917ab93abd39'
-sourceBodyHash: 'sha256:6564b3269a2b9fa4'
-translatedAt: '2026-08-04T04:41:48.932775+00:00'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:b8c4015a34b3a79e'
+sourceBodyHash: 'sha256:9120e92d38401c8e'
+translatedAt: '2026-09-17T22:57:44.043665+00:00'
 ---
 
 # Taiwan's E-Commerce and Digital Payments: Three Trade Wars on One Island
@@ -116,25 +116,25 @@ The trend is nonetheless irreversible. The latest surveys show that 84% of Taiwa
 
 ---
 
-## A Twenty-Year Cycle
+## Twenty Years of Cycles
 
-Looking back, the twenty years of e-commerce and digital payments in Taiwan have been a cycle of constant disruption.
+Looking back, Taiwan's two decades of e-commerce and digital payments have been a cycle of constant disruption.
 
-In the 2000s, PChome defined "speed" with 24-hour delivery. In the 2010s, Shopee defined "cheap" through free shipping. In the 2020s, momo defined "reliability" via its self-built logistics network, while Coupang attempted to redefine "speed" with Rocket Delivery. The winner of every round believes they have found a moat, only for the invaders of the next round to find a way around it.
+In the 2000s, PChome defined "fast" with 24-hour delivery. In the 2010s, Shopee defined "cheap" with free shipping. In the 2020s, momo defined "reliable" with self-built logistics, while Coupang attempted to redefine "fast" again with Rocket Delivery. Each round's winner thought they had found their moat; the next round's invaders always found a way around it.
 
-The payment side follows the same pattern. From cash on delivery, to credit cards, to scanning LINE Pay, to the universal TWQR—every upgrade in "convenience" makes the previous generation's version of convenience feel clumsy.
+The payment side followed the same pattern. From cash on delivery, to credit cards, to LINE Pay QR code scanning, to TWQR's universal QR code — every upgrade in "convenience" made the previous generation's "convenience" feel clumsy.
 
-In December 2024, the Uni-President Group took a stake in PChome. This company, which transformed Taiwan's retail industry through 7-Eleven, is now set to transform Taiwan's e-commerce. Thirty years ago, traditional grocery stores were replaced by convenience stores. Now, the owners of those convenience stores are coming to clean up the aftermath of e-commerce.
+In December 2024, Uni-President Enterprises Group took a stake in PChome. The company that transformed Taiwan's retail industry with 7-Eleven now aims to transform Taiwan's e-commerce. Thirty years ago, traditional mom-and-pop stores were replaced by convenience stores. Now, the convenience store owner is stepping in to clean up e-commerce's mess.
 
-The commercial wars on this island will not stop. Every new QR code, every new logistics center, and every new wave of subsidies is reanswering the same question: Who can make the action of 23 million people reaching for their wallets one second faster?
+The commercial warfare on this island never stops. Every new QR code, every new logistics center, every new wave of subsidies is re-answering the same question: who can make the act of 23 million people reaching for their wallets one second faster?
 
 **Further Reading**:
 
-- [Taiwan Fintech Development](/en/economy/taiwan-fintech-development) — From virtual banks and open banking to regulatory sandboxes: a panorama of digital transformation in the financial industry
-- [Taiwan's 5G Network Construction and Digital Transformation](/en/technology/taiwan-5g-digital-transformation) — How 5G infrastructure is changing logistics tracking, live commerce, and smart retail
-- [Development of Taiwan's Software Industry](/en/technology/taiwan-software-industry-development) — From OEM to proprietary brands: how the software industry supports the technical foundation of e-commerce platforms
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Where the chips that support digital payments and e-commerce infrastructure come from
-- [Taiwan Customs Declaration and EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — The final hurdle for cross-border e-commerce parcels entering Taiwan: who operates the declaration authorization app, and how are tax-free thresholds determined?
+- [Taiwan Fintech Development](/en/economy/taiwan-fintech-development) — From internet-only banks and open banking to regulatory sandboxes, the full landscape of finance's digital transformation
+- [Taiwan Mobile Payment](/en/technology/taiwan-mobile-payment) — From consumers and merchants to TWQR, understanding why cash remains a daily fallback despite the spread of phone payments
+- [Taiwan 5G Network Construction and Digital Transformation](/en/technology/taiwan-5g-digital-transformation) — How 5G infrastructure is changing logistics tracking, livestream shopping, and smart retail
+- [Taiwan Software Industry Development](/en/technology/taiwan-software-industry-development) — From OEM to own brands, how the software industry supports e-commerce platforms' technical foundations
+- [Taiwan Customs Declaration and EZ WAY](/en/lifestyle/ezway) — The final hurdle for cross-border e-commerce parcels entering Taiwan: who operates the customs declaration app, and how is the duty-free threshold set
 
 ## References
 

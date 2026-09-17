@@ -2,6 +2,7 @@
 title: "Taiwan's Robotics Industry"
 description: "The island that leads the world in semiconductors — why is it 'making up for lost time' in the robotics era? From the 2026 unveiling of NCAIR, looking back at the miracle and blind spots of Taiwan's precision machinery."
 date: 2026-04-11
+category: 'Technology'
 tags:
   [
     'robotics',
@@ -21,11 +22,10 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: '38412654'
-sourceContentHash: 'sha256:727c897f10782c2b'
-sourceBodyHash: 'sha256:3b63599a42d7872a'
-translatedAt: '2026-06-02T00:40:00+08:00'
-category: Technology
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:4702dd502f640592'
+sourceBodyHash: 'sha256:2025d0771f75493c'
+translatedAt: '2026-09-17T22:04:09.720631+00:00'
 ---
 
 # Taiwan's Robotics Industry

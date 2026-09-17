@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T06:54:54+08:00",
-    "zhCommitHead": "f569d2c81",
+    "lastUpdated": "2026-09-18T06:58:05+08:00",
+    "zhCommitHead": "ccdcb5409",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1018,
-        "stale": 60,
+        "fresh": 1019,
+        "stale": 59,
         "metadata_stale": 13,
         "missing": 30,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1033,
-        "stale": 52,
+        "fresh": 1034,
+        "stale": 51,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 937,
-        "stale": 76,
+        "fresh": 938,
+        "stale": 75,
         "metadata_stale": 76,
         "missing": 32,
         "orphan": 0
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 828,
+        "fresh": 829,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 246,
+        "missing": 245,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 758,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 355,
+        "missing": 356,
         "orphan": 0
       }
     },
@@ -7025,18 +7025,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -21670,18 +21659,16 @@
         "en": {
           "path": "en/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T04:41:48.932775+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-17T22:57:44.043665+00:00",
           "translationLastCommit": "e9059f94",
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -21702,18 +21689,16 @@
         "ko": {
           "path": "ko/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T04:44:33.586089+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-17T22:55:13.897595+00:00",
           "translationLastCommit": "06221369",
           "translationLastModified": "2026-08-04T13:49:25+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -21750,18 +21735,16 @@
         "vi": {
           "path": "vi/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-17T22:54:53.364264+00:00",
           "translationLastCommit": "68ff840a",
           "translationLastModified": "2026-08-09T08:59:47+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -44101,8 +44084,8 @@
           "sourceContentHash": "sha256:3acf49c3933c9229",
           "sourceBodyHash": "sha256:f91712c52f95f564",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ccdcb540",
+          "translationLastModified": "2026-09-18T06:54:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -84751,7 +84734,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chiang-ching-kuo.md",
+          "translatedFrom": "People/蔣經國.md",
+          "sourceCommitSha": "0d2389cec",
+          "sourceContentHash": "sha256:47672068ff2f222b",
+          "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -96871,8 +96865,8 @@
           "sourceContentHash": "sha256:e0f89a1113cc2a1d",
           "sourceBodyHash": "sha256:f4fed166bea776f5",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ccdcb540",
+          "translationLastModified": "2026-09-18T06:54:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -103568,8 +103562,8 @@
           "sourceContentHash": "sha256:c1b202e80c7e4a1d",
           "sourceBodyHash": "sha256:74473841bc53291c",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ccdcb540",
+          "translationLastModified": "2026-09-18T06:54:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -140950,7 +140944,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-18T00:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/921-jiji-earthquake.md",
@@ -156322,18 +156327,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
