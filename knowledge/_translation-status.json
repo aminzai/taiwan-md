@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T06:17:09+08:00",
-    "zhCommitHead": "26db4b411",
+    "lastUpdated": "2026-09-18T06:19:55+08:00",
+    "zhCommitHead": "e8eb0eac0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 938,
+        "fresh": 936,
         "stale": 77,
         "metadata_stale": 76,
-        "missing": 30,
+        "missing": 32,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "pt": {
@@ -8512,18 +8512,7 @@
           "reason": "same-commit"
         },
         "vi": {
-          "path": "vi/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -29847,8 +29836,8 @@
           "sourceContentHash": "sha256:4702dd502f640592",
           "sourceBodyHash": "sha256:2025d0771f75493c",
           "translatedAt": "2026-09-17T21:12:21.181860+00:00",
-          "translationLastCommit": "4ef5c8b2",
-          "translationLastModified": "2026-08-09T11:56:49+08:00",
+          "translationLastCommit": "e8eb0eac",
+          "translationLastModified": "2026-09-18T06:17:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -93544,8 +93533,8 @@
           "sourceContentHash": "sha256:03fd31754989ad8f",
           "sourceBodyHash": "sha256:f9337f3e9a513dcd",
           "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "e1d4e6d7",
-          "translationLastModified": "2026-07-31T23:47:11+08:00",
+          "translationLastCommit": "e8eb0eac",
+          "translationLastModified": "2026-09-18T06:17:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -105582,8 +105571,8 @@
           "sourceContentHash": "sha256:f03fe4356a8b034b",
           "sourceBodyHash": "sha256:0511dd3ec1c7896e",
           "translatedAt": "2026-09-17T20:38:30.713064+00:00",
-          "translationLastCommit": "6ca2d1bd",
-          "translationLastModified": "2026-08-09T11:22:29+08:00",
+          "translationLastCommit": "e8eb0eac",
+          "translationLastModified": "2026-09-18T06:17:13+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -120725,8 +120714,8 @@
           "sourceContentHash": "sha256:71936ffe79abf0dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T21:29:29.060330+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e8eb0eac",
+          "translationLastModified": "2026-09-18T06:17:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -131526,7 +131515,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/formosa-chang.md",
+          "translatedFrom": "Food/鬍鬚張.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:e1b77b1bcfa11b48",
+          "sourceBodyHash": "sha256:8824b980fb94339c",
+          "translatedAt": "2026-09-18T00:53:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/formosa-chang.md",
@@ -150956,18 +150956,7 @@
           "reason": "same-commit"
         },
         "vi": {
-          "path": "vi/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "path": "id/History/chiayi-agriculture-forestry.md",
