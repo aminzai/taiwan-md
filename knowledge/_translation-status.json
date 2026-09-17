@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T20:58:00+08:00",
-    "zhCommitHead": "2b9a6fe22",
+    "lastUpdated": "2026-09-17T21:21:54+08:00",
+    "zhCommitHead": "720b2a767",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1022,
+        "fresh": 1023,
         "stale": 62,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 830,
+        "fresh": 831,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 163,
+        "missing": 162,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 747,
+        "fresh": 748,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 367,
+        "missing": 366,
         "orphan": 0
       }
     },
@@ -8508,7 +8508,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -49151,18 +49162,16 @@
         "ko": {
           "path": "ko/Society/taiwan-design-research-institute.md",
           "translatedFrom": "Society/台灣設計研究院.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:dc9a16af37eefe47",
-          "sourceBodyHash": "sha256:f7df18837078b48f",
-          "translatedAt": "2026-06-16T16:38:41Z",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:31f2d67654f5ca72",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T12:53:08.953486+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-design-research-institute.md",
@@ -64497,8 +64506,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-09-17T06:43:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720b2a76",
+          "translationLastModified": "2026-09-17T20:58:00+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -82999,8 +83008,8 @@
           "sourceContentHash": "sha256:8cc10fd808c3a1ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-17T12:17:58.255171+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720b2a76",
+          "translationLastModified": "2026-09-17T20:58:00+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "status": "fresh",
@@ -87035,7 +87044,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/jimmy-liao.md",
+          "translatedFrom": "People/幾米.md",
+          "sourceCommitSha": "10fe99c59",
+          "sourceContentHash": "sha256:676de125f3707dd4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T13:00:19.097927+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 54,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jimmy-liao.md",
@@ -164493,7 +164513,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/44-south-village.md",
+          "translatedFrom": "Geography/四四南村.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
+          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
+          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/44-south-village.md",
