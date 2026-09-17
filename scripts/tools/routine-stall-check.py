@@ -50,6 +50,16 @@ day-of-week 欄位」的每條 routine（如 `0 2 * * 0`），機械算出它上
 `twmd-news-lens-weekly` 與 `twmd-weekly-report-sun` 被報成「錯過一趟」，兩份 memory 檔
 其實都存在，躺在救援分支 `20260912-unpushed-routine-queue` 上。所以文案不再寫
 「錯過一趟」（那是對根因下結論），改寫它實際量到的那件事。
+
+**尺二的 WARN 自己去分 (a)/(b)**（2026-09-17 heartbeat）：09-14 起連續四天的 WARN 每則
+都附「分開的方法：對救援分支 `git ls-tree`」，但沒有任何人照做——同日兩輪心跳對同一
+個問題給出相反答案（一輪說四條沒 fire，一輪列出六個檔全在分支上）。指令寫在輸出裡
+等於把判斷交給「剛好有人想跑」；能機械做的就讓尺自己做（MANIFESTO §14）。做法：
+`git ls-remote --heads origin` 找名字含 `unpushed` 的分支，`fetch --depth=1` 後對每個
+WARN 用同一把 `memory_covers` 量一次；量到就把 status 改成 `warn-on-rescue-branch`
+並附分支名。**severity 不降**——產出沒到 main、部署看不到，仍是 WARN；只是根因從
+「不知道」變成「(b) 在分支 X 上」。ls-remote 失敗（離線、無權限）時 `rescue_probe`
+記 `unavailable`，輸出照舊印兩種根因，不把探不到說成沒有（REFLEXES #85）。
 是否要檢查一條 routine，優先讀 `docs/semiont/routine-live-state.json` 的
 `enabled`；那份檔讀不到才退回 ROUTINE.md 本身的 ⏸️ 標記（此時候選名單已經是
 非 ⏸️ 的子集，等於直接照 SSOT 走）。
@@ -347,6 +357,90 @@ def memory_covers(
     return None
 
 
+RESCUE_BRANCH_HINT = "unpushed"  # 慣例：`YYYYMMDD-unpushed-routine-queue`
+
+
+def list_rescue_branches() -> list[str] | None:
+    """origin 上名字含 `unpushed` 的分支。ls-remote 失敗回 None（不是空清單——
+    「探不到」跟「沒有」是兩個符號）。"""
+    r = subprocess.run(
+        ["git", "ls-remote", "--heads", "origin"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=60,
+    )
+    if r.returncode != 0:
+        return None
+    out = []
+    for line in r.stdout.splitlines():
+        parts = line.split("\t", 1)
+        if len(parts) != 2:
+            continue
+        ref = parts[1].strip()
+        name = ref.removeprefix("refs/heads/")
+        if RESCUE_BRANCH_HINT in name:
+            out.append(name)
+    return out
+
+
+def rescue_branch_memory_files(branch: str) -> list[str] | None:
+    """淺 fetch 那條分支，列它上面 memory/ 的檔名。fetch 或 ls-tree 失敗回 None。"""
+    f = subprocess.run(
+        ["git", "fetch", "--quiet", "--depth=1", "origin", branch],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=300,
+    )
+    if f.returncode != 0:
+        return None
+    r = subprocess.run(
+        ["git", "ls-tree", "-r", "--name-only", "FETCH_HEAD", MEMORY_DIR + "/"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=60,
+    )
+    if r.returncode != 0:
+        return None
+    return [Path(line).name for line in r.stdout.splitlines() if line.endswith(".md")]
+
+
+def probe_rescue_branches(rule2: dict, now_local: datetime) -> None:
+    """對尺二每個 WARN 到救援分支上再量一次（就地改 rule2）。
+
+    只在真的有 WARN 時才碰網路；沒有 WARN 就不 ls-remote，綠燈跑不多花一秒。
+    """
+    warns = [c for c in rule2["checked"] if c["status"] == "warn"]
+    if not warns:
+        rule2["rescue_probe"] = "not-needed"
+        return
+    branches = list_rescue_branches()
+    if branches is None:
+        rule2["rescue_probe"] = "unavailable"
+        return
+    rule2["rescue_probe"] = "probed"
+    rule2["rescue_branches"] = branches
+    branch_files: dict[str, list[str]] = {}
+    for b in branches:
+        files = rescue_branch_memory_files(b)
+        if files is not None:
+            branch_files[b] = files
+    for c in warns:
+        due_date = datetime.fromisoformat(c["due_at"]).date()
+        for b, files in branch_files.items():
+            hit = memory_covers(c["task_id"], due_date, now_local.date(), files)
+            if hit:
+                c["status"] = "warn-on-rescue-branch"
+                c["covered_by"] = hit
+                c["rescue_branch"] = b
+                break
+
+
 def check_rule2(
     candidates: list[dict],
     live_state: dict[str, bool] | None,
@@ -421,11 +515,14 @@ def build_result(now: datetime, since_days: int) -> dict:
     candidates = parse_weekly_candidates(routine_md_text)
     live_state = read_live_state()
     rule2 = check_rule2(candidates, live_state, memory_files, now_local)
+    probe_rescue_branches(rule2, now_local)
 
     severity = "ok"
     if rule1["status"] == "critical":
         severity = "critical"
-    if severity != "critical" and any(c["status"] == "warn" for c in rule2["checked"]):
+    if severity != "critical" and any(
+        c["status"] in ("warn", "warn-on-rescue-branch") for c in rule2["checked"]
+    ):
         severity = "warn"
 
     return {
@@ -471,7 +568,12 @@ def human_report(result: dict) -> str:
     if r2["live_state_fallback"]:
         lines.append(f"  ⚠️  {LIVE_STATE} 讀不到，enabled 判斷退回 ROUTINE.md 的 ⏸️ 標記")
     for c in r2["checked"]:
-        if c["status"] == "warn":
+        if c["status"] == "warn-on-rescue-branch":
+            lines.append(
+                f"  ⚠️  {c['task_id']} main 上沒有這趟的 memory 檔，但救援分支 "
+                f"`{c['rescue_branch']}` 上有（{c['covered_by']}）— 根因 (b)：fire 了、推不上 main"
+            )
+        elif c["status"] == "warn":
             lines.append(
                 f"  ⚠️  {c['task_id']} main 上沒有這趟的 memory 檔 — 應 fire {c['due_at']}"
                 f"（{c['hours_since_due']}h 前）"
@@ -485,9 +587,24 @@ def human_report(result: dict) -> str:
     for s in r2["skipped"]:
         lines.append(f"  ⏸️  {s['task_id']} skipped（{s['reason']}）")
 
+    probe = r2.get("rescue_probe")
+    if probe == "probed":
+        names = ", ".join(f"`{b}`" for b in r2.get("rescue_branches", [])) or "（無）"
+        lines.append(f"  救援分支探測：{names}")
+    elif probe == "unavailable":
+        lines.append("  救援分支探測：ls-remote 失敗（離線或無權限），(a)/(b) 未分開")
+
     lines.append("")
     if result["severity"] == "ok":
         lines.append("✅ 綠燈")
+    elif result["severity"] == "warn" and all(
+        c["status"] != "warn" for c in r2["checked"]
+    ):
+        lines.append(
+            "⚠️  有 WARN，但每一條都在救援分支上找到了那趟的 memory 檔：routine 在跑，"
+            "是那台機器的 main 跟 origin 分岔了、push 進不去。部署讀 origin/main，"
+            "所以這些產出讀者看不到——要解的是合併，不是排程器。"
+        )
     elif result["severity"] == "warn":
         lines.append(
             "⚠️  有 WARN。這支尺讀的是 main 上有沒有那趟的 memory 檔，"

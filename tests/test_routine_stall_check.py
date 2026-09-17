@@ -323,6 +323,88 @@ def test_rule2_warn_report_names_both_causes_not_just_missed_run(repo):
     assert "還沒推上 main" in report
 
 
+def _rule2_warn_setup(repo):
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+    write_routine_md(repo, [routine_row("twmd-routine-audit-weekly", "0 21 * * 0")])  # 應 fire 08-23
+    write_memory_files(repo, [])
+    write_live_state(repo, {"twmd-routine-audit-weekly": True})
+    return now
+
+
+def test_rule2_warn_found_on_rescue_branch_names_cause_b_but_stays_warn(repo, monkeypatch):
+    """WARN 自己去分 (a)/(b)：救援分支上找得到那趟 memory 檔 → 標 (b) 附分支名，
+    severity 仍是 warn（產出沒到 main，部署看不到）。2026-09-17 heartbeat：四天的
+    WARN 每則都附「分開的方法」卻沒人照做，同日兩輪心跳給出相反答案。"""
+    now = _rule2_warn_setup(repo)
+    monkeypatch.setattr(MODULE, "list_rescue_branches", lambda: ["20260912-unpushed-routine-queue"])
+    monkeypatch.setattr(
+        MODULE,
+        "rescue_branch_memory_files",
+        lambda b: ["2026-08-23-211909-twmd-routine-audit-weekly.md"],
+    )
+
+    result = MODULE.build_result(now, since_days=30)
+    r2 = result["rule2_weekly_schedule_miss"]
+    c = r2["checked"][0]
+    assert c["status"] == "warn-on-rescue-branch"
+    assert c["rescue_branch"] == "20260912-unpushed-routine-queue"
+    assert c["covered_by"] == "2026-08-23-211909-twmd-routine-audit-weekly.md"
+    assert r2["rescue_probe"] == "probed"
+    assert result["severity"] == "warn"
+
+    report = MODULE.human_report(result)
+    assert "救援分支 `20260912-unpushed-routine-queue` 上有" in report
+    assert "根因 (b)" in report
+    assert "要解的是合併，不是排程器" in report
+    assert "兩種根因" not in report  # 已經分開了，不再列兩個候選
+
+
+def test_rule2_rescue_probe_unavailable_keeps_both_causes(repo, monkeypatch):
+    """ls-remote 失敗（離線／無權限）→ rescue_probe=unavailable，status 留 warn，
+    輸出照舊並列兩種根因——探不到不等於沒有（REFLEXES #85）。"""
+    now = _rule2_warn_setup(repo)
+    monkeypatch.setattr(MODULE, "list_rescue_branches", lambda: None)
+
+    result = MODULE.build_result(now, since_days=30)
+    r2 = result["rule2_weekly_schedule_miss"]
+    assert r2["rescue_probe"] == "unavailable"
+    assert r2["checked"][0]["status"] == "warn"
+    report = MODULE.human_report(result)
+    assert "ls-remote 失敗" in report
+    assert "兩種根因" in report
+
+
+def test_rule2_rescue_branch_without_the_file_stays_plain_warn(repo, monkeypatch):
+    """分支存在但上面也沒那趟的檔 → 仍是 plain warn（(a) 仍是候選）。"""
+    now = _rule2_warn_setup(repo)
+    monkeypatch.setattr(MODULE, "list_rescue_branches", lambda: ["20260912-unpushed-routine-queue"])
+    monkeypatch.setattr(MODULE, "rescue_branch_memory_files", lambda b: ["2026-08-10-000000-twmd-babel-nightly.md"])
+
+    result = MODULE.build_result(now, since_days=30)
+    r2 = result["rule2_weekly_schedule_miss"]
+    assert r2["rescue_probe"] == "probed"
+    assert r2["checked"][0]["status"] == "warn"
+    assert "兩種根因" in MODULE.human_report(result)
+
+
+def test_rule2_no_warn_skips_network_probe(repo, monkeypatch):
+    """沒有 WARN 就不碰 ls-remote——綠燈班不該多花一次網路往返。"""
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+    write_routine_md(repo, [routine_row("twmd-routine-audit-weekly", "0 21 * * 0")])
+    write_memory_files(repo, ["2026-08-23-211909-twmd-routine-audit-weekly.md"])
+    write_live_state(repo, {"twmd-routine-audit-weekly": True})
+
+    def boom():
+        raise AssertionError("ls-remote 不該被呼叫")
+
+    monkeypatch.setattr(MODULE, "list_rescue_branches", boom)
+    result = MODULE.build_result(now, since_days=30)
+    assert result["rule2_weekly_schedule_miss"]["rescue_probe"] == "not-needed"
+    assert result["severity"] == "ok"
+
+
 def test_rule2_covered_run_is_ok_not_warn(repo):
     now = MODULE.parse_now("2026-08-25T12:00:00+08:00")  # due 08-23 21:00 之後 39h，已過 grace
     commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-25T00:00:00+08:00")
