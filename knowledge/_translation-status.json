@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T08:35:09+08:00",
-    "zhCommitHead": "362c4fe7b",
+    "lastUpdated": "2026-09-17T08:56:57+08:00",
+    "zhCommitHead": "7dbb7895d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 813,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 253,
+        "missing": 251,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 894,
+        "fresh": 895,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "ru": {
@@ -6906,8 +6906,8 @@
           "sourceContentHash": "sha256:72151c012acc7cd3",
           "sourceBodyHash": "sha256:818b90ddb26bb8d5",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b7335f78",
+          "translationLastModified": "2026-09-17T08:35:09+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -15542,7 +15542,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-stock-market.md",
+          "translatedFrom": "Economy/台灣股市與資本市場.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:323486e516e428ed",
+          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-stock-market.md",
@@ -74314,7 +74325,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/village-chief-system.md",
+          "translatedFrom": "Politics/村里長制度.md",
+          "sourceCommitSha": "837e22b9a",
+          "sourceContentHash": "sha256:cce4699f9fdc3697",
+          "sourceBodyHash": "sha256:48ef53002db1337d",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/village-chief-system.md",
@@ -140330,8 +140352,8 @@
           "sourceContentHash": "sha256:7335ec1d507d61c5",
           "sourceBodyHash": "sha256:80378776e0fc23ab",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b7335f78",
+          "translationLastModified": "2026-09-17T08:35:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -141949,8 +141971,8 @@
           "sourceContentHash": "sha256:e6b87ed9f332b973",
           "sourceBodyHash": "sha256:618dd92cacb51567",
           "translatedAt": "2026-09-16T11:57:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b7335f78",
+          "translationLastModified": "2026-09-17T08:35:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -149741,8 +149763,8 @@
           "sourceContentHash": "sha256:3dc0c353cf547397",
           "sourceBodyHash": "sha256:01899a9de634067d",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b7335f78",
+          "translationLastModified": "2026-09-17T08:35:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -149777,7 +149799,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -149803,7 +149836,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -154974,8 +155018,8 @@
           "sourceContentHash": "sha256:98502e991d7261a6",
           "sourceBodyHash": "sha256:7466cc3940afd368",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b7335f78",
+          "translationLastModified": "2026-09-17T08:35:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
