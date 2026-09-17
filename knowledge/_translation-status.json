@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T07:06:06+08:00",
-    "zhCommitHead": "a3a774b59",
+    "lastUpdated": "2026-09-18T07:35:40+08:00",
+    "zhCommitHead": "9a38abc9e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,24 +36,24 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1034,
-        "stale": 51,
+        "fresh": 1035,
+        "stale": 50,
         "metadata_stale": 10,
         "missing": 26,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1017,
+        "fresh": 1018,
         "stale": 63,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 30,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1004,
-        "stale": 67,
+        "fresh": 1005,
+        "stale": 66,
         "metadata_stale": 15,
         "missing": 35,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 846,
+        "fresh": 847,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 218,
+        "missing": 217,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 907,
+        "fresh": 908,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       },
       "ru": {
@@ -21719,18 +21719,16 @@
         "fr": {
           "path": "fr/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T04:43:11.485342+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-17T23:28:07.770097+00:00",
           "translationLastCommit": "39a979e4",
           "translationLastModified": "2026-08-04T13:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -27742,7 +27740,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-display-industry.md",
+          "translatedFrom": "Technology/台灣顯示器產業.md",
+          "sourceCommitSha": "8544f5ff6",
+          "sourceContentHash": "sha256:6f543fc8322b4070",
+          "sourceBodyHash": "sha256:487e3d2f13378d12",
+          "translatedAt": "2026-09-18T00:53:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-display-industry.md",
@@ -62756,18 +62765,16 @@
         "es": {
           "path": "es/Society/join-public-policy-platform.md",
           "translatedFrom": "Society/公共政策網路參與平臺.md",
-          "sourceCommitSha": "194696f07",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:e50c6305fdf357b3",
           "sourceBodyHash": "sha256:4fcd819359e5e6f4",
-          "translatedAt": "2026-06-22T01:01:19+08:00",
+          "translatedAt": "2026-09-18T00:53:02+08:00",
           "translationLastCommit": "29686eb5",
           "translationLastModified": "2026-06-22T01:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/join-public-policy-platform.md",
@@ -84633,8 +84640,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720e77f1",
+          "translationLastModified": "2026-09-18T07:06:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -84697,7 +84704,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chiang-ching-kuo.md",
+          "translatedFrom": "People/蔣經國.md",
+          "sourceCommitSha": "0d2389cec",
+          "sourceContentHash": "sha256:47672068ff2f222b",
+          "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
+          "translatedAt": "2026-09-18T00:53:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chiang-ching-kuo.md",
@@ -109235,18 +109253,16 @@
         "ko": {
           "path": "ko/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-04-14T19:25:23+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-18T00:53:01+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/steve-chen-youtube-cofounder.md",
@@ -118282,8 +118298,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720e77f1",
+          "translationLastModified": "2026-09-18T07:06:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -120690,8 +120706,8 @@
           "sourceContentHash": "sha256:f3c744060676c5c3",
           "sourceBodyHash": "sha256:c6156a33a327be28",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720e77f1",
+          "translationLastModified": "2026-09-18T07:06:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -174968,8 +174984,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "720e77f1",
+          "translationLastModified": "2026-09-18T07:06:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
