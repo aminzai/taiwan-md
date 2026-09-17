@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T19:07:32+08:00",
-    "zhCommitHead": "3415a0a93",
+    "lastUpdated": "2026-09-17T20:00:05+08:00",
+    "zhCommitHead": "76c795cf2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,40 +20,40 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1006,
-        "stale": 70,
+        "fresh": 1008,
+        "stale": 68,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 174,
+        "missing": 173,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1020,
-        "stale": 64,
+        "fresh": 1021,
+        "stale": 63,
         "metadata_stale": 11,
         "missing": 26,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1005,
-        "stale": 72,
+        "fresh": 1006,
+        "stale": 71,
         "metadata_stale": 14,
         "missing": 30,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 993,
-        "stale": 77,
+        "fresh": 994,
+        "stale": 76,
         "metadata_stale": 16,
         "missing": 35,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 745,
+        "fresh": 746,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 369,
+        "missing": 368,
         "orphan": 0
       }
     },
@@ -7003,7 +7003,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -14932,8 +14943,8 @@
           "sourceContentHash": "sha256:fbdac9dc4471a8c3",
           "sourceBodyHash": "sha256:9ec6e716477e4f06",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76c795cf",
+          "translationLastModified": "2026-09-17T19:07:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -51041,18 +51052,16 @@
         "en": {
           "path": "en/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-29T07:32:32+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:2a4f80e7fc721f19",
+          "sourceBodyHash": "sha256:fc5314c473c1914f",
+          "translatedAt": "2026-09-17T11:27:43.691818+00:00",
           "translationLastCommit": "889deb6c",
           "translationLastModified": "2026-07-29T12:33:45+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -64923,18 +64932,16 @@
         "fr": {
           "path": "fr/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-07-25T21:33:44+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-17T11:08:48.647663+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/About/how-an-article-is-born.md",
@@ -147802,7 +147809,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-parliament-petition-movement.md",
+          "translatedFrom": "History/臺灣議會設置請願運動.md",
+          "sourceCommitSha": "1625b24f7",
+          "sourceContentHash": "sha256:d80f079014589543",
+          "sourceBodyHash": "sha256:3441000e1e1b1dde",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-parliament-petition-movement.md",
@@ -155991,18 +156009,16 @@
         "ko": {
           "path": "ko/Geography/hsinchu-county.md",
           "translatedFrom": "Geography/新竹縣.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:eefcd1a536e4ddf5",
-          "sourceBodyHash": "sha256:a716f79b2442afc5",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:bf74cbc86604e18b",
+          "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
+          "translatedAt": "2026-09-17T11:59:40.361646+00:00",
           "translationLastCommit": "59ff7e7d",
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/hsinchu-county.md",
@@ -168524,8 +168540,8 @@
           "sourceContentHash": "sha256:6207d486dffbdfd0",
           "sourceBodyHash": "sha256:a33d52837bb11fe8",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76c795cf",
+          "translationLastModified": "2026-09-17T19:07:32+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -174493,16 +174509,16 @@
         "en": {
           "path": "en/Culture/taiwan-vtuber.md",
           "translatedFrom": "Culture/台灣VTuber.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:3f59bb70f08b3142",
-          "sourceBodyHash": "sha256:6a92a5ddcde70c30",
-          "translatedAt": "2026-05-17T05:34:48+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7fbac409f18267e1",
+          "sourceBodyHash": "sha256:7132650f96a1d22a",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "cf90406b",
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "footnote-loss (28→15)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/taiwan-vtuber.md",
@@ -174535,16 +174551,16 @@
         "es": {
           "path": "es/Culture/taiwan-vtuber.md",
           "translatedFrom": "Culture/台灣VTuber.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:3f59bb70f08b3142",
-          "sourceBodyHash": "sha256:6a92a5ddcde70c30",
-          "translatedAt": "2026-05-17T05:34:54+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7fbac409f18267e1",
+          "sourceBodyHash": "sha256:7132650f96a1d22a",
+          "translatedAt": "2026-09-17T06:43:38+08:00",
           "translationLastCommit": "cf90406b",
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "footnote-loss (28→15)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwan-vtuber.md",
