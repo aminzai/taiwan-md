@@ -1,203 +1,242 @@
 ---
-title: 'Taiwanese Black Bear'
-description: 'The white V on its chest is its signature, and its unfinished conservation battle'
+title: 'Formosan Black Bear'
+description: "Monitoring records expanded from 17 townships to 27 between 2011 and 2025; an initial estimate of about 1,200 individuals was made in early 2026, pending local density data calibration. This article examines the species' diet, research, trapping, habitat corridors, and mountain behaviors to explore how this endemic subspecies interacts with humans and how we manage our distance from it. The article also differentiates between population estimates, discovery records, and individual identification, illustrating how conservation extends from mountainous monitoring to community food management and daily park operations."
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Nature'
-subcategory: '國家公園與步道'
 tags:
   [
-    'Taiwanese black bear',
-    'conservation',
-    'endangered species',
-    'Mei-Hsiu Hwang',
-    'mountain forests',
-    'Indigenous peoples',
-    'national parks',
+    'Formosan Black Bear',
+    'Conservation',
+    'Endangered Species',
+    'Huang Mei-hsiu',
+    'Forest',
+    'Indigenous Peoples',
+    'National Park',
   ]
+subcategory: '野生動物'
+author: 'Taiwan.md Contributors'
 readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
 featured: false
+lastVerified: 2026-08-22
+lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:80f0c919cd7bb16c'
-sourceBodyHash: 'sha256:c26951c6cc082f43'
-translatedAt: '2026-05-24T05:06:32+08:00'
+sourceCommitSha: '998b8bdb1'
+sourceContentHash: 'sha256:49afbaec6d9c06b3'
+sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
+translatedAt: '2026-09-17T06:43:34+08:00'
 ---
 
-# Taiwanese Black Bear
+# Formosan Black Bear
 
-> The white V on its chest is its signature, and its unfinished conservation battle
+> The white V on the chest, evolving from a mere identification mark into a complex coexistence problem.
 
 ## 30-Second Overview
 
-The Taiwanese black bear, an endemic Taiwanese subspecies of the Asian black bear, carries a white V-shaped crescent on its chest that serves as its identity card. Only an estimated 200-600 individuals remain across the island, though no one can state the exact number with certainty. They live in mountain areas above 1,000 meters in elevation, can weigh up to 200 kilograms, and are Taiwan’s largest carnivores.
+> **30-Second Overview:** From 2011 to 2025, the Forestry and Natural Resources Agency (林業及自然保育署) compiled a total of 2,034 Formosan black bear sightings across Taiwan, ranging from direct observations and automatic camera captures to intrusion reports and rescue incidents. Before 2018, records were distributed across 17 townships in 11 counties; this expanded to 27 townships in 11 counties after 2018.[^1]
+>
+> In March 2026, the Forestry and Natural Resources Agency provided an initial estimate of approximately 1,200 black bears nationwide based on recent monitoring data, but this remains a preliminary projection. A more precise version will only be available at the end of the year after accumulating more local density data from different regions and altitudes.[^4]
+>
+> The Formosan black bear is an endemic subspecies of the Asiatic Black Bear and Taiwan's only native bear species. It primarily inhabits forests in the Central Mountain Range between 1,000 and 2,500 meters, does not hibernate, and its annual range can span from 27 to 202 square kilometers.[^2] [^5]
 
-What these kings of the mountain forests face is not natural predators, but humans. Traps sever their paws, poaching takes their lives, and habitat fragmentation leaves them without a home. Professor Mei-Hsiu Hwang has spent 20 years tracking and studying them and is known as “Mama Bear.” Her story is the chronicle of Taiwanese black bear conservation.
+## Clarifying the Numbers: Three Different "Bear Counts"
 
-## Why Does It Matter?
+The figures related to the Formosan black bear are often presented together, yet readers fail to realize they answer different questions. The count of 200 to 600 refers to older estimates used by the Yushan National Park and its digital archives. The figure of 1,200 is the preliminary estimate from March 2026 based on recent monitoring data. The 2,034 represents discovery records from 2011 to 2025, which does not equate to 2,034 individual bears.[^1] [^2] [^4] [^5]
 
-**Because they are the apex predators of Taiwan’s mountain forest ecosystems.**
+| Number                    | What it truly represents                                 | Cannot directly represent   |
+| :------------------------ | :------------------------------------------------------- | :-------------------------- |
+| 200–600 individuals       | Earlier population estimates for all of Taiwan           | The latest census from 2026 |
+| Approx. 1,200 individuals | Preliminary estimate released in March 2026              | A completed national count  |
+| 2,034 records             | Sightings, captures, reports, and rescues from 2011–2025 | 2,034 individual bears      |
+| 11 counties, 27 townships | Administrative areas with bear records after 2018        | A fixed habitat range       |
 
-The presence of a single black bear indicates the health of an entire mountain forest food chain. They are architects of the forest: digging dens and nests, dispersing seeds, and controlling populations of small mammals. Losing the black bear would mean not merely the disappearance of one species, but the collapse of an entire ecosystem.
+> **📝 Curator's Note**
+> What is most needed in black bear conservation is knowing how each number was derived and what question it answers, rather than pursuing a single, seemingly precise figure. By honestly retaining uncertainty—even when the 1,200 estimate may still be revised up or down—the preliminary assessment can truly serve science.
 
-More importantly, **they are symbols of Taiwan’s mountain forest culture.** From Indigenous legends of bear spirits to today’s OhBear mascot, the black bear has been deeply imprinted in Taiwan’s collective memory. What we are protecting is not only an animal, but also our connection to this island.
+## A Bear That Doesn't Live in a Cave, Hidden Beneath the White V
 
-## Getting to Know the King of Taiwan’s Mountain Forests
+The black fur, round ears, short tail, and yellow-white V-shaped or crescent markings on the chest of the Formosan black bear (_Ursus thibetanus formosanus_) make it unmistakable among Taiwan's bears. Adult individuals weigh about 60 to 150 kilograms and measure approximately 130 to 180 centimeters in length.[^2]
 
-### The Origin of the V-Shaped Signature
+It is not confined to a vague area called "deep mountains." Official records show appearances from altitudes as low as 300 meters up to 3,700 meters, though its primary distribution remains in the forests of the Central Mountain Range between 1,000 and 2,500 meters. This indicates that Formosan black bears require connected forest ecosystems for movement, foraging, and reproduction; the boundaries of a single protected area are far insufficient.[^2]
 
-The Taiwanese black bear (_Ursus thibetanus formosanus_) is the Taiwan-endemic subspecies of the Asian black bear. Its most obvious feature is the white or pale-yellow V-shaped marking on its chest, as if nature had carved a signature onto it.
+Formosan black bears do not hibernate and may be active year-round. They do not have fixed dens, and activity increases during summer and autumn. In autumn and winter, when acorns mature, nocturnal activity may increase. Radio telemetry studies in Yushan National Park estimate the annual home range of an individual to be about 27 to 202 square kilometers.[^2] [^5]
 
-In size, adult black bears are 120-150 centimeters long and weigh between 60 and 200 kilograms, with males markedly larger than females. Their bodies are covered in dense black fur, and their ears are comparatively large and round, an adaptation to Taiwan’s humid forest environment.
+### How Many Cubs Are Born Each Year?
 
-### The Home of a Mountain Hermit
+The breeding season for Formosan black bears is generally from June to August. After mating, the embryo undergoes delayed implantation; mothers typically give birth from December to February of the following year, usually producing one to three cubs per litter.[^2]
 
-**They live in mid- to high-elevation mountain areas above 1,000 meters**, from the Central Mountain Range to the Xueshan Range. They primarily inhabit broadleaf forests and mixed conifer-broadleaf forests, places rich in food sources: fruits, nuts, insects, honey, and, occasionally, small mammals.
+Cubs must stay with their mother until the next breeding season before gradually dispersing. Due to the mother's fixed breeding cycle, the cubs must learn to forage, recognize dangers, and navigate the forest alongside her. Population recovery takes time. When research data shows an increase in records, researchers simultaneously examine reproductive age, cub survival rates, and individual identification across generations to determine if the increase is merely due to observation opportunity or genuine population continuity.[^2] [^4]
 
-Black bears are omnivores, but they are still mainly vegetarian; plant-based foods account for 85% of their diet. They migrate seasonally in search of food: tender leaves and new shoots in spring, insects and honey in summer, a feast of fruits in autumn, and fat reserves for the coming winter.
+![A Formosan black bear in a captive environment, showing its physique and chest markings](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-## Mama Bear’s 20-Year Path Tracking Bears
+_This photo is an image of the Formosan black bear in a captive setting, provided as a visual reference for morphology, long claws, and chest markings, and is not evidence of wild distribution. Image: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. The image has been archived in the project._
 
-### Research Starting from Zero
+![Illustration of the Formosan black bear with a white V marking on its chest](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-**Professor Mei-Hsiu Hwang is the pioneer of Taiwanese black bear research.** In 1998, when she began studying black bears, Taiwan knew almost nothing about the species. There were no population estimates, no data on behavioral patterns, and even their basic habits remained a mystery.
+_This illustration depicts the physique and chest markings of the Formosan black bear and is not a photo of a wild individual. Image: SilverSea Design/Davidzdh, CC BY 4.0, Wikimedia Commons. The image has been archived in the project._
 
-Hwang’s research was not only academic work; it was more like a puzzle-solving effort. She and her research team set traps in remote mountain wilderness, fitted black bears with radio collars, and tracked their movements around the clock. Every successful capture of a black bear was a precious research opportunity.
+## What They Eat Determines Where They Go
 
-### Breakthroughs and Discoveries
+Formosan black bears are omnivores, but plants constitute the majority of their diet. In spring, they eat tender leaves, roots, and other green vegetation; in summer, they often utilize soft fruits and insects; and in autumn/winter, they move according to the acorn harvest. Educational materials from Yushan National Park also note that they consume honey, ant nests, carrion, and ungulates.[^2] [^5]
 
-**Through 20 years of field surveys, Hwang established Taiwan’s first comprehensive ecological database for black bears.** She discovered that black bears have astonishingly large home ranges: a male black bear’s range can reach 50 square kilometers, equivalent to the entire area of Taipei’s Da’an District.
+A study conducted between 1998 and 2000 cross-observed the diet of Formosan black bears through scat analysis, foraging traces, and interviews with Indigenous hunters. Researchers found 654 autumn and early winter scats; during this period, bears concentrated in areas rich in oaks, primarily consuming acorns. In 1999, when the acorn harvest was poor, records of them eating ungulates increased. Fewer scats were found in summer because the bears dispersed over a larger area to forage.[^6]
 
-She also found that black bears are in fact highly afraid of people. In 99% of situations, black bears will actively avoid human activity. So-called “human-bear conflicts” often occur because humans have entered their territory.
+This diet means that "where the bear lives" cannot be answered by altitude alone. Food changes, and so do the bears' routes. The annual cycle of fruits in the forest, roads, and human activities all change the cost of their movement in the mountains. Protecting a patch of forest is important, but ensuring connectivity between different habitats is equally vital.
 
-### From Researcher to Conservation Fighter
+## Researchers Must Learn to Wait in the Mountains
 
-As her research deepened, Hwang gradually shifted from a purely academic scholar into a conservation activist. She founded the Taiwan Black Bear Conservation Association, promoted legislative protection, trained mountain patrol personnel, and even personally took part in rewilding and release plans for injured black bears.[^1]
+In 1996, the Yushan National Park management office established a black bear project conservation team to build field data with scholars. Early research required capturing and collaring bears in the Central Mountain Range for radio tracking. The researchers did not bring the bears back to a laboratory; they walked into the bears' time, waiting for signals to return from the other side of the steep slopes.[^5]
 
-**She is called “Mama Bear” not only because of her understanding of black bears, but also because of her care for each individual bear.** Every black bear studied has its own name and story. In Hwang’s eyes, they are not research subjects, but children in need of protection.
+Research conducted in the Yushan Great Divide area between 1998 and 2001 captured and collared 15 black bears, 8 of which had broken toes or paws. This proportion is a population issue that must be studied, recorded, and addressed by policy. Photos show injuries, while data explains how traps leave their mark.[^5]
 
-## Survival Crises in the Mountain Forests
+Huang Mei-hsiu later became an important driver in the long-term research and conservation of the Formosan black bear. She and her team integrated individual identification, radio tracking, genetic analysis of scat samples, automatic cameras, and community cooperation into one conservation map. The research moved beyond simply answering "how many bears are there" to also asking "why did they disappear here," "where needs to be connected," and "what humans must change."[^5] [^9]
 
-### Traps: The Cruelest Threat
+## Injuries Left by Traps Change How They Walk
 
-**Traps are the number-one threat facing Taiwanese black bears.** These iron traps, originally set to catch wild boars, have become a nightmare for black bears. Their powerful clamping force is enough to sever a black bear’s paw or foot, causing lifelong disability.
+Trapping and illegal hunting have long been considered major anthropogenic threats to the Formosan black bear. Injury does not end when a bear escapes a trap. A 2024 study focusing on 15 bears in Yushan National Park compared 6 injured individuals with 9 healthy ones, finding no statistical difference in dispersal rate or home range, but differences in habitat selection. Healthy bears preferred rugged terrain and greener vegetation; the injured individuals did not show the same preference and more strongly avoided areas near roads and human activity.[^7]
 
-Bears with severed paws have become among the most heartbreaking images in Taiwan’s conservation history. Black bears that lose a paw have difficulty moving and foraging, greatly reducing their chances of survival in the wild. More cruelly still, many black bears bite off their own limbs in order to escape the traps, leaving lifelong trauma.
+This result corrects an intuition: injured bears are not necessarily just "moving less" in the mountains. They may change their habitat choice, or they may pay a greater cost in long-term foraging and evading humans due to the energy burden of injury. Conservation cannot start only after finding one bear in a trap; it must ensure that the next one does not have to follow the same path.
 
-### The Black Industrial Chain of Poaching
+Roads and development also slice forests into isolated blocks. For animals with annual ranges spanning tens of square kilometers, a road is just a line on a map, but for a black bear, it can be the cost of rerouting after its foraging path has been cut off. Recent official monitoring shows that bear records are approaching lower mountains and plains, making habitat connectivity and human food management more urgent.[^1] [^10]
 
-**Bear bile and bear paws still have demand in traditional Chinese medicine markets, driving illegal poaching.** One bear gallbladder can sell for tens of thousands of dollars on the black market, a major temptation for some people. Although Taiwan has already legislated protection for black bears, enforcement is difficult, and insufficient monitoring in remote mountain areas allows poaching to persist.
+> **📝 Curator's Note**
+> A bear with a broken paw makes us see the wound first; research reminds us to look further ahead: what truly needs repair is its body and the environment that caused it to be injured, move, and forage.
 
-### Habitat Fragmentation
+## Nan'an Cubs: Going Home Isn't Just Opening a Cage Door
 
-**Road development, agricultural expansion, and construction of tourism facilities are all cutting black bear habitat into pieces.** Once-continuous forests have been divided into “green islands.” Black bears must cross roads or zones of human activity to reach other habitats, increasing the chances of human-bear conflict.
+In 2018, a cub separated from its mother was found near Nan'an Waterfall in Hualien. It was subsequently nicknamed "Mei-zai" (little sister) and sent to the low-altitude experimental station of the endemic species research center for over nine months of care and rewilding training. Training included learning to identify natural food, forage, hunt, and avoid human food and steel traps.[^8]
 
-Climate change is also bringing new challenges. More frequent extreme weather events affect forest vegetation, which in turn affects black bears’ food sources.
+For a cub, release is not sending it back to an abstract "nature." It must relearn which scents are worth approaching and which sounds require leaving, all without its mother's guidance. This is why the story of the Nan'an cubs is important: it shows the details of conservation work—from food and behavior to monitoring after reintroduction—where every step prioritizes the animal's ability to live independently.[^8]
 
-## The Lament of Bears with Severed Paws
+![A photo of a Formosan black bear cub, used as a morphological reference for parent-offspring and growth stages](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg)
 
-### The Nan’an Cub Incident
+_This is a freely licensed photo from Wikimedia Commons labeled "Formosan black bear suckling cubs," provided as a reference for cub morphology, not to prove the identity or location of the Nan'an cubs. Image: Abu0804, CC BY-SA 3.0, Wikimedia Commons. The image has been archived in the project._
 
-In 2018, a solitary black bear cub was found near Nan’an Waterfall in Hualien, with its mother nowhere to be found. This cub, nicknamed the “Nan’an cub,” captured the hearts of people across Taiwan.
+## Three National Parks Are Not Enough to Be an Island
 
-After nine months of care and wilding training, the Nan’an cub was successfully released back into the Zhuoxi mountain area of Hualien in 2019. Hwang’s team participated throughout the process, from nutritional planning to climbing training, ensuring that the cub would be able to return to the wild and survive. After release, satellite collar tracking confirmed that it adapted well.
+The three high-mountain national parks—Yushan, Taroko, and Xueba—span the core area of the Central Mountain Range and are critical habitats for the Formosan black bear. In recent years, park management and the Forestry and Natural Resources Agency have integrated infrared automatic cameras, genetic analysis of scat samples, habitat corridors, and community cooperation into a single conservation effort, aiming to allow bears to move between different protected areas.[^5] [^10]
 
-This was a success story. But in the unseen mountain forests, many more bears with severed paws are struggling to survive. They have never been discovered by humans, and there will be no news reports about them.
+This concept of "corridors" changes the role of protected areas. The role is not to keep bears within boundaries, but to connect protected areas, forest roads, villages, farmlands, and low mountains to reduce risks during transit. Data from 2011 to 2025 released by the Forestry and Natural Resources Agency shows an increase in bear records across mid-to-high altitudes and below 1,200 meters; some areas are starting to approach lower mountains and plains.[^1]
 
-## The Dawn and Challenges of Conservation
+Lin Hua-ching, Director of the Forestry and Natural Resources Agency, stated: "Coexistence between humans and bears will be the primary goal of future conservation policy."[^10] The emphasis here is not on the slogan but on the shift in focus. What now needs to be managed is not just the bear's habitat, but also human food sources such as kitchen waste from mountain huts, orchards, apiaries, poultry farms, hunting gear, and roadsides.
 
-### Protection by National Parks
+![A photo of a Formosan black bear display at Nan'an Visitor Center](/article-images/nature/naan-visitor-center-black-bear-display.webp)
 
-The main habitats of Taiwanese black bears are all within national park areas: Yushan National Park, Taroko National Park, Shei-Pa National Park, and the Central Mountain Range conservation corridor.[^2] These protected areas provide relatively safe refuges, restrict human development, and protect key habitats.
+_This photo is from an exhibition record at the Nan'an Visitor Center, provided as a visual reference for how bear distribution and conservation information are presented, and not as independent wild distribution evidence. Image: Toadboat, CC BY-SA 4.0, Wikimedia Commons. The image has been archived in the project._
 
-### Mountain Patrol Systems
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/AzR6GMd75dQ?start=89" title="Yushan Bear Rearing | Official Conservation Video from Yushan National Park Management Office" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-**National park mountain patrol personnel are the frontline guardians of black bear conservation.** They regularly patrol mountain areas, remove traps, monitor black bear activity, and respond when human-bear conflicts occur. Many mountain patrol personnel are local Indigenous people. Their understanding of the mountain forests and their respect for black bears have become important assets in conservation work.
+_The official video from the Yushan National Park Management Office, "Yushan Bear Rearing," focuses on forest habitat and conservation research to explain why bears need continuous forests._
 
-### New Challenges After “Salute to the Mountains”
+## When Humans Meet Bears, First Put Away Human Temptations
 
-In 2019, the government launched the “Salute to the Mountains” policy, opening mountain forests and simplifying mountaineering application procedures.[^4] This policy has allowed more people to get close to the mountains, but it has also brought new risks of human-bear conflict.
+The official promotional video produced by the Yushan National Park management office, _Encounter a Formosan black bear_, condenses the ecological habits, distribution range, and encounter protocols of the Formosan black bear into a short clip suitable for viewing before hiking. Read alongside textual guidance, it transforms "maintaining distance" from an abstract principle into concrete preparation before entering the mountains.[^11]
 
-The number of hikers has increased sharply, camping activities have grown, and food residues and garbage have made it easier for black bears to come into contact with humans. Some black bears have begun learning to rummage through hikers’ backpacks in search of food, a change in behavioral patterns that worries conservation workers.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Encounter a Formosan black bear | Official Promotional Video from Yushan National Park Management Office" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## Black Bears as Cultural Symbols
+_The official promotional video from the Yushan National Park Management Office discusses how to reduce unnecessary human-bear contact based on bear habits and distribution._
 
-### Indigenous Beliefs in Bear Spirits
+Official guidelines from Yushan National Park remind visitors that Formosan black bears are typically wary and secretive, usually leaving after detecting humans. For hikers, the most practical preparation is to secure your food so it does not become a reason for bears to approach people. When leaving the mountain area, all garbage, kitchen waste, and food must be taken down.[^3]
 
-**In the traditional cultures of Taiwan’s Indigenous peoples, black bears are sacred beings.** The Atayal call the black bear “ngarux,” the Bunun call it “tumaz,” and the Paiwan call it “cumay.” In the legends of many communities, the black bear is the guardian spirit of the mountain forests and possesses powerful spiritual force.
+If you do see a black bear, park staff advises remaining calm, staying quiet, and leaving the area quickly—do not chase, feed, or attempt to approach for photos. Hikers can carry bear bells or whistles to make noise, travel in groups, and report sightings or bear tracks to management units nearby. The original text from Yushan National Park is very direct: "If you see a black bear, remain calm, stay quiet, and leave the area quickly."[^3]
 
-Traditionally, Indigenous bear hunting was a sacred ritual, not an activity for entertainment or commercial purposes. After a bear was hunted, a grand ceremony would be held to thank the bear spirit for its sacrifice, and the bear meat and hide would be shared with everyone in the community.
+These practices keep the forests open and limit encounters to brief, retreatable distances. Wang Cheng-qi, Director of the National Park Agency, stated that conservation goals have "clearly shifted toward 'prevention and management in tandem.'"[^10] Managing human food sources is often earlier and easier to achieve than waiting for bears to develop a habit of searching through backpacks.
 
-### From OhBear to Commercial Symbol
+## Black Bears Cannot Be Just Cute Patterns
 
-**In modern Taiwanese society, the black bear has become an important cultural symbol.** OhBear, the mascot of the Tourism Administration, Ministry of Transportation and Communications, is designed after the Taiwanese black bear, and the white V on its chest has become a visual marker of Taiwan.
+The Formosan black bear has entered national park exhibitions, educational materials, and public visuals. The V on its chest is easily drawn into cute characters, but the real black bear is a wild animal that requires large areas of forest, seasonal food, and quiet distance. Images can help people recognize them initially, but they cannot substitute for data on habitat, population, or human-bear relationships.[^5] [^9]
 
-But this symbolization has also brought problems. Many commercial brands use the black bear image for marketing while remaining indifferent to actual black bear conservation. The black bear has become a cute cartoon character, while people have, in turn, lost sensitivity to the survival crises it faces in the wild.
+![A Formosan black bear at Shoushan Zoo, as an image reference from captive care and exhibition settings](https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg)
 
-## New Conflicts Amid the Mountaineering Boom
+_This photo was taken at Shoushan Zoo and shows the Formosan black bear in a captive setting. Image: Tvpuppy, used under the Open Information Announcement of the Shoushan Zoo Government Website, attribution required. It is not evidence of wild behavior, population size, or habitat distribution. The image has been archived in the project._
 
-### More Human-Bear Encounters
+Conservation also requires collaboration among researchers, government agencies, and local communities. The action guidelines of the Formosan Black Bear Conservation Association place human-bear interaction, illegal trade, habitat management, research information, educational communication, capacity building, and legislative policy into one framework. This arrangement shows that the future of the black bear is linked to forest governance and how local life operates together.[^9]
 
-In recent years, Taiwan has seen a mountaineering boom, with millions of visits to mountain areas each year. This means the chances of human-bear encounters have increased substantially. Most encounters are brief glimpses: after discovering humans, black bears quickly flee. Occasionally, however, close-range contact occurs.
+When bears approach villages or farmlands, the response cannot stop at relocating the animal. Food and kitchen waste must be managed; poultry farms and apiaries must be reinforced with enclosures; reporting and rescue operations must be connected; and observations and traditional knowledge from the community must be treated as part of conservation data. The recent direction from official bodies is to place local communities on the front lines of black bear conservation, not just notifying them after a conflict has occurred.[^1] [^10]
 
-### Feeding Problems
+### Three Lines at the Conservation Site
 
-**The most dangerous issue is improper feeding.** Some hikers, out of goodwill or curiosity, leave food for black bears, but this behavior causes black bears to lose their fear of humans and learn to depend on food provided by people. Once black bears become accustomed to obtaining food from humans, they will actively approach hikers, increasing the risk of conflict.
+The action guidelines for Formosan black bear conservation integrate human-bear interaction, habitat management, research information, educational communication, and policy regulations. When applied on the ground, this can be organized into three interconnected lines: first, reducing direct harm; second, maintaining connected forests where bears can move; and finally, enabling local communities to manage encounters.[^9]
 
-### Camping Safety
+| Conservation Line                | Issues to Address On Site                                          | Trackable Evidence                                                            |
+| :------------------------------- | :----------------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| Reducing Direct Harm             | Trapping, illegal hunting, illegal trade, injury rescue            | Trap removal, injury records, rescue and rewilding tracking                   |
+| Maintaining Habitat Connectivity | Roads, forest roads, and development isolating forest blocks       | Automatic cameras, scat genetic analysis, radio paths and corridor monitoring |
+| Establishing Community Response  | Kitchen waste, crops, apiaries, poultry farms, reporting resources | Reporting speed, food management, local patrols, conflict case changes        |
 
-Food management at mountain cabins and campsites has become a new challenge. Black bears have an acute sense of smell and can detect food odors from several kilometers away. Improper food storage attracts black bears into areas of human activity, creating danger for both sides.
+These three lines cannot be treated as three unrelated projects. Without community reports, researchers may learn too late that bears are nearby. Without habitat connectivity, even if an injured individual is rescued, it may have to move in a narrower space closer to humans. Without trap management, corridors can become concentrated areas for the next traps. This is why official bodies promote community cooperation, habitat corridors, and technological monitoring together.[^1] [^7] [^10]
 
-## Astonishing Facts
+> **📝 Curator's Note**
+> Conservation requires multiple units working together. Traps, roads, kitchen waste, and data seem scattered individually, but they all meet along the path of a single bear. The approach of bears from the mountains to humans may reflect changes in how forests and humans are used. We must ask simultaneously: why did the bear come here, and can humans secure what attracts it?
 
-- 🐻 The Taiwanese black bear is **Taiwan’s largest terrestrial carnivoran** and its only native bear
-- 👃 Black bears have an extremely sensitive sense of smell, far exceeding that of dogs, and can detect food odors from several kilometers away
-- 🏃 Do not be fooled by their heavy appearance: black bears can sprint short distances at **30-40 kilometers per hour**, faster than humans can run
-- 🌳 Black bears bend branches in trees to build “bear nests” as resting platforms, and these structures can remain in trees for years
-- 💤 Taiwanese black bears do not truly hibernate like North American bears; Taiwan’s winters are not cold enough, but they do reduce activity in the cold season
-- 👶 Mother bears live with their cubs for **18-24 months**, one of the longest periods of parental care in the animal kingdom
-- 🏔️ A male black bear’s home range can exceed **50 square kilometers**, equivalent to two Taipei Da’an Districts
-- ☠️ Field surveys have found that a considerable proportion of captured black bears studied had suffered **trap injuries**, with missing toes or severed paws
+## Next Steps: Getting Numbers and Relationships Right Together
 
-## The Future of Conservation
+The 1,200 estimate for 2026 remains a figure subject to revision. This highlights the starting point of Formosan black bear research. Future needs more local density data from different altitudes, regions, and seasons so that population trends are not limited to an increase in sightings but can also reliably answer whether the population is stable, if habitats are connected, and which threats need attention first.[^4]
 
-### Assistance from Technology
+Conservation outcomes cannot be measured solely by a bear being photographed by a camera. They also include how many traps were removed, whether injured individuals survive, whether cubs learn to forage in the wild, whether there is space for movement on both sides of roads, and whether communities have enough resources for timely reporting. Research data and local experience must meet on the same map so that the black bear is not only seen when it appears in the news.[^7] [^9] [^10]
 
-Modern conservation work increasingly relies on technology. GPS collars can track black bear movements 24 hours a day, infrared cameras can record their behavior, and genetic analysis helps researchers understand population structure and genetic diversity.
+![A photo of a Formosan black bear, used as a reference for species appearance and habitat reading](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG)
 
-### Community Participation
+_This is a freely licensed photo from Wikimedia Commons labeled "Formosan black bear." The original file page did not provide a wild location in Taiwan suitable for this text, so it is only provided as a species appearance reference, not evidence of distribution in Taiwan. Image: Abu0804, CC BY-SA 3.0, Wikimedia Commons. The image has been archived in the project._
 
-**Real conservation requires the support of local communities.** Many Indigenous communities have begun participating in black bear conservation, combining traditional ecological knowledge with modern conservation technologies. The development of ecotourism has also provided economic incentives for mountain communities, making conservation a profitable choice.
+The white V on the chest of the Formosan black bear was first an identification mark, and later became a conservation symbol. Now, it is more like a question: can we allow an animal with a range spanning tens of square kilometers to have paths outside protected areas, so that when it approaches humans, it is not solely for human food, and so that when we encounter it, we know how to maintain our distance?
 
-### Education and Outreach
+The answer will not only be written in the next population estimate. It will appear on the day a mountain hut takes kitchen waste down the mountain, on the path where patrol members remove traps, and in the moment researchers honestly leave an uncertain piece of data in its original place. Whether the Formosan black bear can continue to roam the forests ultimately tests whether we can become more reliable neighbors—reducing the impulse to turn it into a cute pattern and increasing the space for it to move safely.
 
-**Improving public understanding of black bears is key to conservation success.** From how to coexist peacefully with black bears in mountain forests to understanding their importance in ecosystems, educational work must continue.
+## How Many Types of Data Does One Bear Path Require?
 
-## Conclusion
+A single automatic camera photo only tells us "a bear was here." It cannot answer how many bears there are, nor can it explain if the same bear was photographed in different locations. The Forestry and Natural Resources Agency compiles sightings, automatic camera data, intrusion reports, and rescue records into one long-term dataset to see changes in record points since 2011.[^1]
 
-The story of the Taiwanese black bear is a story about survival, adaptation, and the relationship between humans and nature. The white V on its chest is not only nature’s signature; it is also like a question mark, asking how we will coexist with the other lives on this island.
+Genetic analysis of scat samples provides another perspective. Research at Yushan National Park collected 725 scat samples between 2010 and 2015, confirming 139 black bears after individual identification. This type of data helps researchers distinguish individuals but still requires time, location, and repeated sampling; it cannot be simply summed up from every single sample.[^5]
 
-**Protecting the Taiwanese black bear is not only about protecting a species, but about protecting our connection to the land and the integrity of Taiwan’s mountain forests.** Today, as global biodiversity faces crisis, the existence of every Taiwanese black bear is a symbol of hope.
+Radio tracking transforms static "appearances" into a movement path. Researchers can see how Formosan black bears use valleys, ridges, and areas around roads for habitat, and they can compare the behaviors of injured versus healthy individuals. Long-term monitoring also has an easily overlooked scale issue. More bears photographed in a certain season might be due to food maturity or simply because the camera was placed in a different location. An increase in scat samples along a specific trail might indicate concentrated individuals or increased sampling effort. Only by recording the sampling time, location, method, and repeated identification together can researchers determine if an increase in records means population expansion or that we have finally learned to see them better.[^1] [^5] [^6]
 
-Professor Mei-Hsiu Hwang has noted that the Taiwanese black bear is an important indicator of mountain forest ecosystems, and peaceful coexistence between humans and bears is a key issue in harmonious relations between people and nature.[^3]
+Different methods have blind spots; only when combined are they sufficient to support decisions regarding habitat corridors, trap management, and human-bear coexistence. For the general reader, this also explains why conservation news often contains different terms like "preliminary estimate," "monitoring," and "record." They all describe the black bear but stand on different evidentiary grounds.[^6] [^7]
 
-This conservation battle is not yet over. On every mountain in Taiwan, black bears are still waiting for our protection. The V on their chests may be not only a crescent, but also a sign of victory, if we are willing to work for them.
+> **📝 Curator's Note**
+> Conservation data are like different voices transmitted from the mountains. The camera sees a silhouette, genetic data identifies an individual, and the tracker leaves a path of movement. No single type of data can represent the entire mountain alone, but when layered together, it slowly forms the unseen bear path.
+
+## Image Sources
+
+This article uses raw URLs of 6 freely or openly licensed images from Wikimedia Commons; the image files were not downloaded, nor were they misrepresented as wild individuals or geographical distributions in Taiwan. The licenses and sources for each image are as follows:
+
+- **Formosan black bear in a captive environment**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Formosan black bear at Shoushan Zoo**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, used under the Open Information Announcement of the Shoushan Zoo Government Website, attribution required. Raw URL: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Illustration of the Formosan black bear**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design/Chofy Lin, CC BY 4.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Formosan black bear photo**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Formosan black bear suckling cubs photo**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Formosan black bear display at Nan'an Visitor Center**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Archived in project: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## References
 
-[^1]: [Taiwan Black Bear Conservation Association](https://www.taiwanbear.org.tw/) — Founded by Professor Mei-Hsiu Hwang to promote black bear conservation research and legislation.
+[^1]: [Taiwan Enters Bear Country, Committing to Human-Bear Coexistence](https://www.forest.gov.tw/news/0076122) — Forestry and Natural Resources Agency, Ministry of Agriculture, 2025-05-16. Provides the 2,034 discovery records from 2011–2025, changes in administrative area distribution, altitude trends, forest restoration, and human-bear coexistence policies.
 
-[^2]: [Yushan National Park Black Bear Conservation Area](https://www.ysnp.gov.tw/) — Black bear habitat conservation measures in Yushan National Park.
+[^2]: [Formosan Black Bear Popular Science](https://www.ysnp.gov.tw/StaticPage/Science) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. Provides classification, appearance, habitat altitude, breeding, diet, year-round activity, and home range data.
 
-[^3]: [Forestry and Nature Conservation Agency: Taiwanese black bear numbers increase; population no longer at risk of imminent extinction - CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — April 2025 statement by the Forestry and Nature Conservation Agency, Ministry of Agriculture.
+[^3]: [Coexisting with Bears](https://www.ysnp.gov.tw/StaticPage/Coexist) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. Provides official guidelines on bear encounters, food management, group travel, reporting, and tracking bear signs.
 
-[^4]: [Forestry and Nature Conservation Agency, Ministry of Agriculture](https://www.forest.gov.tw/) — Wildlife conservation policy and black bear conservation programs.
+[^4]: [Forestry Agency Estimates 1,200 Formosan Black Bears, to Establish Long-Term Captive Center](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, 2026-03-23. Reports the preliminary estimate of about 1,200, limitations in data representation, potential subsequent revisions, and long-term captive center planning.
 
-[^5]: [Wuo Wuo - Special Feature on Taiwanese Black Bears in Distress](https://wuo-wuo.com/topics/widlife/taiwan-luna-bear) — In-depth reporting on Taiwanese black bear conservation.
+[^5]: [Online Special Exhibition of Taiwan National Parks](https://npda.nps.gov.tw/Exhibition2/A/A30002) — National Parks Administration, Ministry of the Interior. Organizes the ecology of the Formosan black bear, research history since 1996, injury surveys from 1998–2001, genetic individual identification, and conservation promotion.
 
-Further Reading:
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Provides the study on scat, foraging traces, and interviews with Indigenous hunters from Yushan National Park between 1998–2000.
 
-- [The Reporter - The Road Home for Black Bears](https://www.twreporter.org/) — Documentary reporting on black bear release and conservation.
-- _The Bear Is Coming_ documentary, directed by Mai Chueh-ming, following the course of Taiwanese black bear conservation.
+[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue University of Michigan, 2024. Compares the home range, movement, and habitat selection of 6 injured and 9 healthy Formosan black bears in Yushan National Park.
+
+[^8]: [Unit Three: The Road Home](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — National Museum of Natural Science, 2021. Explains the care, rewilding training, and life skills that must be learned before returning to the wild for the Nan'an cubs.
+
+[^9]: [Mission and Tasks Page: Formosan Black Bear Conservation Action Guidelines](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Formosan Black Bear Conservation Association. Organizes conservation goals including human-bear interaction, illegal trade, habitat management, research, education, capacity building, and legislative policy.
+
+[^10]: [Only So That They Can Roam the Forests Freely: 30 Years of National Park Protecting the Way Home for Taiwan's Black Bears](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — National Parks Administration, Ministry of the Interior, 2026. Explains the integrated approach involving three high-mountain national parks, habitat corridors, food management, technological early warning, and local participation.
+
+[^11]: [Bear Video](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. The official video page lists videos such as _Encounter a Formosan black bear_ and _Yushan Bear Rearing_, covering ecological habits, distribution range, encounter response, forest habitat, and conservation research.
+
+## Further Reading
+
+- [Formosan Black Bear Conservation Association: Master's and Doctoral Theses](https://www.taiwanbear.org.tw/document/document/17) — Index of research and theses.
+- [Yushan National Park: Bear Reporting](https://www.ysnp.gov.tw/BlackBearNotification/C004400) — Official reporting portal.
+- [Formosan Black Bear](https://www.forest.gov.tw/0008063) — Forestry and Natural Resources Agency black bear conservation project entrance. This page has been blocked by the website; actual reading relies on accessible official news pages and management office data.
