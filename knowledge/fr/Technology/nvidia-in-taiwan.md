@@ -2,9 +2,7 @@
 title: "NVIDIA à Taïwan : l'entreprise la plus chère du monde ne fabrique elle-même aucune puce"
 description: "En mai 2025, à Computex, Jensen Huang apparaît en blouson de cuir ; derrière lui, les logos de 55 entreprises taïwanaises s'allument d'un seul coup : une société américaine désigne publiquement toute l'industrie de l'île comme son propre corps. De la lettre adressée à Morris Chang en 1996 à une capitalisation boursière franchissant les cinq billions de dollars, jusqu'aux 4,434 milliards de dollars taïwanais déboursés par la municipalité de Taipei pour lui dégager un terrain, NVIDIA a déposé tout son corps à Taïwan. Taïwan tient ainsi l'interrupteur que le monde entier ne peut pas éteindre ; mais ses marges ne sont que de 5 %, son eau et son électricité sont aspirées, et le risque de guerre est placé sur l'île : être indispensable ne signifie pas que Taïwan décide."
 date: 2026-06-22
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
     'NVIDIA',
@@ -18,15 +16,19 @@ tags:
     'intelligence artificielle',
     'Computex',
   ]
+subcategory: '半導體與硬體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '67e5b3684'
-sourceContentHash: 'sha256:b56a9c2f52721e09'
-sourceBodyHash: 'sha256:4f355b3d3c9b0f43'
-translatedAt: '2026-06-23T00:40:06+08:00'
+researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
+relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+translatedFrom: 'Technology/NVIDIA在台灣.md'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:b9e05b9a2ffc12db'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
+translatedAt: '2026-09-17T06:54:11.129244+00:00'
 ---
 
 # NVIDIA à Taïwan : l'entreprise la plus chère du monde ne fabrique elle-même aucune puce
@@ -252,34 +254,35 @@ Mais un autre élément est plus révélateur. La Central News Agency observe al
 
 > 📝 **Note du curateur** : Ce silence révèle où se situe réellement le pouvoir. La Chine a besoin des puces de NVIDIA ; ainsi, même lorsque Jensen Huang prononce la phrase la plus inacceptable pour Pékin, les médias continentaux choisissent de ne pas la rapporter ni l’amplifier, de peur de nuire à la relation avec ce « gourou de l’IA ». Une formule a beaucoup circulé : la Chine a besoin de NVIDIA, mais NVIDIA n’a pas besoin de la Chine[^65]. Dans cette relation, même le gigantesque marché de l’autre rive du détroit se trouve, dans une certaine mesure, saisi à la gorge par la chaîne d’approvisionnement d’une entreprise américaine. C’est là la position étrange de Taïwan : le monde entier, y compris l’acteur qui souhaite le plus modifier son statut, dépend des puces fabriquées ici. Mais « le monde entier dépend de vous » et « vous êtes donc en sécurité et décidez » restent deux choses différentes. L’auteur ne tire pas de conclusion politique pour Taïwan, mais cette tension mérite que chaque lecteur la pèse lui-même.
 
-## Être indispensable ne signifie pas décider
+## Indispensable, ce n'est pas synonyme de contrôle
 
-Revenons au mur de logos des 55 entreprises.
+Revenons à cette muraille des logos comportant les 55 entreprises.
 
-Chaque nom sur ce mur est réel. Ils sont le corps physique de la révolution mondiale de l’IA ; sans eux, NVIDIA, entreprise de cinq billions de dollars, ne pourrait livrer aucune puce. Cette irremplaçabilité est un fait d’ingénierie, non une figure de style. Taïwan a raison d’en être fier.
+Chaque nom sur cette muraille est réel. Elles sont la chair de la révolution de l'IA terrestre ; sans elles, NVIDIA, avec ses cinq billions de dollars, ne pourrait livrer même une seule puce. Cette irremplaçabilité est un fait d'ingénierie, pas une rhétorique. Taïwan devrait en être fier.
 
-Mais tout au long de ce parcours, l’aura, la valorisation et le pouvoir de décision se trouvent entre les mains de celui qui projette le mur. Les marges de 5 %, l’eau et l’électricité aspirées, les prix immobiliers poussés hors de portée et le risque de guerre placé sur l’île retombent sur les noms affichés sur ce mur. Taïwan tient l’interrupteur que le monde entier ne peut pas éteindre, mais cela ne signifie pas qu’elle décide. Et cette carte porte en plus une date de fraîcheur inscrite autour de 2028.
+Mais au cours de ce parcours, les halos, la valorisation et le pouvoir de décision reposent sur ceux qui ont construit cette muraille ; tandis que les marges de 5 %, l'énergie puisée, les prix immobiliers gonflés à des niveaux inabordables, et le risque de guerre pesant sur l'île, sont supportés par les noms inscrits dessus. Taïwan détient un interrupteur dont le monde ne peut pas se passer, mais cela ne lui confère pas la maîtrise absolue. Et cette pièce, elle a une date de péremption fixée autour de 2028.
 
-Taïwan n’est pas immobile. En 2025, Lai Ching-te propose de faire de Taïwan l’un des « cinq plus grands centres de calcul du monde » et de développer une « IA souveraine »[^66]. Hon Hai construit à Kaohsiung un superordinateur national utilisant 10 000 puces Blackwell[^67]. Les « dix nouveaux grands projets d’IA » du Yuan exécutif prévoient d’investir plus de 100 milliards de dollars taïwanais, avec un objectif de 15 billions de valeur de production[^68]. C’est l’ambition de faire émerger, au sein même de la sous-traitance pour autrui, une capacité de « calculer pour soi » : remonter d’un cran depuis le bas de la courbe du sourire.
+Taïwan n'est pas inactif. Lai Ching-te a proposé en 2025 que Taïwan devienne un « centre de calcul mondial parmi les cinq premiers » et développe l'« IA souveraine »[^66] ; Foxconn construit actuellement dans le comté de Kaohsiung un supercalculateur national utilisant dix mille puces Blackwell[^67] ; le « Dixième Grand Projet en IA » du gouvernement est censé investir plus de 100 milliards, avec pour objectif une valeur de marché de 15 billions[^68]. C'est l'ambition de passer de la « sous-traitance pour autrui » à la « computation pour soi » : grimper d'un cran depuis le bas de la courbe du sourire.
 
-Mais la route est encore longue. Le modèle de langue taïwanais TAIDE a été décrit comme ayant un niveau de « lycéen », tandis que les grands acteurs internationaux seraient déjà au niveau « doctorant »[^69]. Le gouvernement sud-coréen achète d’un coup 260 000 GPU, tandis que Taïwan discute encore autour d’un terrain et d’une indemnité de résiliation[^70]. De l’appel de Morris Chang qui a sauvé une chaîne de fabrication à la capacité d’absorber la puissance de calcul du monde, Taïwan a mis près de trente ans à arriver sur le mur. Mais apparaître sur le mur et reprendre le stylo sont deux choses différentes.
+Cependant, il y a encore un long chemin à parcourir. Le modèle linguistique propre à Taïwan, TAIDE, est décrit comme étant au niveau d'un « lycéen », alors que les grandes entreprises internationales sont déjà au niveau de « l'étudiant diplômé »[^69]. Le gouvernement sud-coréen a acheté en une seule fois 260 000 GPU, tandis qu'ici, Taïwan est encore engagé dans des marchandages concernant un terrain et une indemnité de résiliation[^70]. De la réception d'un appel de Morris Chang à la gestion de la puissance de calcul du monde entier, Taïwan a mis près de trente ans pour arriver sur cette muraille. Mais se tenir devant la muraille n'est pas la même chose que reprendre le stylo.
 
-Ce mur continuera de s’illuminer. Au prochain Computex, l’écran de Jensen Huang affichera encore davantage de logos. En 2026, il révèle que NVIDIA dépense désormais environ 150 milliards de dollars par an à Taïwan, contre seulement 10 à 15 milliards cinq ans plus tôt[^71]. La question de savoir si « Taïwan est importante » a déjà sa réponse. Taïwan doit répondre à une question plus difficile : lorsque le monde entier dépend de ce que vous fabriquez, comment transformer peu à peu cette dépendance en pouvoir de décision ?
+Cette muraille continuera de briller. Lors de la prochaine Computex, il y aura plus de logos sur l'arrière-plan de Jensen Huang. En 2026, il a révélé que NVIDIA dépensait environ 150 milliards de dollars par an à Taïwan, contre seulement 10 à 15 milliards il y a cinq ans[^71]. La question « Taïwan est-il important ? » a déjà une réponse. Ce qu'a à répondre Taïwan est plus difficile : lorsque le monde entier ne peut pas se passer de ce que vous faites, comment faire en sorte que l'« indispensable » devienne le « maître du jeu » ?
 
-Les noms sur le mur se multiplient. Le stylo passera-t-il entre ses propres mains ? Taïwan commence à peine à l’atteindre.
+Les noms sur la muraille ne cessent de s'accumuler. Ceux qui tiennent le stylo réussiront-ils à devenir eux-mêmes — cette plume, Taïwan vient juste d'y toucher.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Jensen Huang : du garçon qui nettoyait les toilettes au gourou en blouson de cuir d’un empire de cinq billions](/fr/people/jensen-huang) — La trajectoire personnelle du fondateur de NVIDIA, seulement esquissée ici ; son lien familial avec Tainan et son enfance y sont racontés
-- [L’industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Pourquoi Taïwan est devenue le centre mondial de la fabrication des puces ; la chaîne d’approvisionnement évoquée ici y est replacée dans un contexte plus complet
-- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La « montagne sacrée protectrice du pays » qui fabrique chaque puce NVIDIA, et son autre face, celle des ressources aspirées
-- [Morris Chang : le destinataire de cette lettre et l’homme qui a construit l’empire de la fonderie](/fr/people/tsmc-morris-chang) — L’homme qui a reçu la lettre de Jensen Huang en 1996, fondateur de TSMC
-- [Computex : comment le salon informatique de Taipei est devenu la cérémonie d’ouverture mondiale de l’IA](/fr/technology/computex-taipei) — La scène où le mur de logos s’est allumé, grand rendez-vous annuel de l’industrie technologique taïwanaise
-- [L’industrie de l’intelligence artificielle](/fr/technology/artificial-intelligence-industry) — De la fabrication des puces NVIDIA à la construction d’un écosystème d’IA, la place de Taïwan dans la vague de l’IA
-- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/fr/technology/artificial-intelligence-development-strategy) — IA souveraine, TAIDE et ambition nationale de Taïwan pour remonter depuis la sous-traitance
-- [Entreprise taïwanaise : Hon Hai Precision](/fr/economy/foxconn-precision-industry) — Le géant de la sous-traitance qui assemble 40 % des racks d’IA mondiaux, la plus grande paire de mains au bas de la courbe du sourire
+- [Jensen Huang : de l'adolescent qui nettoyait les toilettes au gourou en cuir du milliardaire](/fr/people/jensen-huang) — Biographie personnelle du fondateur de NVIDIA ; cet article ne fait qu'effleurer, son histoire familiale à Tainan et sa croissance sont ici
+- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Pourquoi Taïwan est devenu le centre mondial de la fabrication de puces ; l'écosystème de la chaîne d'approvisionnement abordé dans cet article offre un contexte plus complet
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La « montagne protectrice » qui fabrique chaque puce pour NVIDIA, et le revers de cette médaille
+- [Morris Chang : la destinataire de cette lettre, et l'empire de la fabrication de wafers qu'il a bâti](/fr/people/tsmc-morris-chang) — Le fondateur de TSMC, celui qui a reçu la lettre de Jensen Huang en 1996
+- [Computex : le salon informatique de Taipei, comment il est devenu l'ouverture mondiale de l'IA](/fr/technology/computex-taipei) — La scène où brille cette muraille des logos, le terrain annuel de la haute technologie taïwanaise
+- [L'industrie de l'intelligence artificielle](/fr/technology/artificial-intelligence-industry) — De la fabrication des puces NVIDIA à la création de l'écosystème de l'IA, la place de Taïwan dans la vague de l'IA
+- [Développement et stratégie de l'IA taïwanaise](/fr/technology/artificial-intelligence-development-strategy) — L'IA souveraine, TAIDE et l'ambition nationale de Taïwan pour passer de la sous-traitance à l'autonomie
+- [Histoires de la technologie taïwanaise : 100 points pour la puce, 60 pour le micro](/fr/technology/taiwan-tech-stories) — Deux façons de raconter la même puce : la prime au récit de NVIDIA et ce que la technologie taïwanaise doit apprendre
+- [Entreprise taïwanaise : Foxconn Precision Industry](/fr/economy/foxconn-precision-industry) — Le géant sous-traitant qui assemble 40 % des systèmes d'IA mondiaux, les plus grandes mains au bas de la courbe du sourire
 
 ## Sources des images
 

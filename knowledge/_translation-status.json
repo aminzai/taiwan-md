@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T14:43:23+08:00",
-    "zhCommitHead": "e9303f6cb",
+    "lastUpdated": "2026-09-17T14:54:33+08:00",
+    "zhCommitHead": "4b2cf5372",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 178,
+        "missing": 177,
         "orphan": 0
       },
       "ko": {
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 992,
-        "stale": 78,
+        "fresh": 993,
+        "stale": 77,
         "metadata_stale": 16,
         "missing": 35,
         "orphan": 0
@@ -10652,8 +10652,8 @@
           "sourceContentHash": "sha256:204bc05a0920a7fd",
           "sourceBodyHash": "sha256:ec289a352e872076",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b2cf537",
+          "translationLastModified": "2026-09-17T14:43:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -27769,18 +27769,16 @@
         "fr": {
           "path": "fr/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "67e5b3684",
-          "sourceContentHash": "sha256:b56a9c2f52721e09",
-          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
-          "translatedAt": "2026-06-23T00:40:06+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
+          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "translatedAt": "2026-09-17T06:54:11.129244+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/nvidia-in-taiwan.md",
@@ -38087,8 +38085,8 @@
           "sourceContentHash": "sha256:91ce45b4be5f77a7",
           "sourceBodyHash": "sha256:fe5beda00418f863",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b2cf537",
+          "translationLastModified": "2026-09-17T14:43:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -83942,8 +83940,8 @@
           "sourceContentHash": "sha256:e8fd773cb48092fd",
           "sourceBodyHash": "sha256:7b3ecc631545bac9",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b2cf537",
+          "translationLastModified": "2026-09-17T14:43:23+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -113768,8 +113766,8 @@
           "sourceContentHash": "sha256:bdd54d293989cf15",
           "sourceBodyHash": "sha256:9a3851545dcaaf3c",
           "translatedAt": "2026-09-17T06:43:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b2cf537",
+          "translationLastModified": "2026-09-17T14:43:23+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -153109,7 +153107,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/roc-aesthetics.md",
+          "translatedFrom": "Geography/中華民國美學.md",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-17T06:43:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/roc-aesthetics.md",

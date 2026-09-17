@@ -1,6 +1,6 @@
 ---
-title: 'Entreprises taïwanaises : MediaTek'
-description: "Autrefois moquée comme la reine des téléphones contrefaits, l'entreprise détient aujourd'hui une part de marché des puces mobiles 1,5 fois supérieure à celle de Qualcomm."
+title: 'Entreprise taïwanaise : MediaTek'
+description: "Autrefois raillée comme le roi des téléphones contrefaits, l'entreprise affiche désormais une part de marché des puces pour smartphones 1,5 fois supérieure à celle de Qualcomm"
 date: 2026-03-25
 category: 'Economy'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Entreprise',
     'Semi-conducteurs',
     'Conception de puces',
-    'Conception de circuits intégrés (IC)',
+    'Conception IC',
     'MediaTek',
   ]
 subcategory: '企業列傳'
@@ -20,115 +20,116 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:b0c668da71eb8f7b'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
-translatedAt: '2026-08-04T12:03:21+08:00'
+translatedAt: '2026-09-17T06:43:39+08:00'
 ---
 
 > **Aperçu en 30 secondes**
 >
-> En 1997, Tsai Ming-chieh a fondé MediaTek avec une petite équipe issue d'une scission d'UMC, en commençant par les puces pour CD-ROM. En 2024, sa part de marché mondiale des puces mobiles atteint 39 %, soit presque 1,5 fois celle de son vieux rival Qualcomm (25,7 %). Avec un chiffre d'affaires annuel dépassant les 19 milliards de dollars, Apple, Google et NVIDIA se bousculent pour collaborer avec elle. Cette entreprise, autrefois perçue comme ne sachant faire que du « bas de gamme », est aujourd'hui la cinquième plus grande société de conception de circuits intégrés (IC) au monde.
+> Tsai Ming-chieh fonde MediaTek en 1997 avec une petite équipe issue de la scission d'UMC, en commençant par les puces pour lecteurs CD-ROM. En 2004, l'entreprise entre sur le marché du téléphone mobile et, grâce à ses « solutions clés en main », alimente tout l'écosystème des téléphones contrefaits de Shenzhen — l'étiquette de « roi des téléphones contrefaits » lui colle dès lors à la peau. Mais en 2024, la part de marché mondiale de MediaTek dans les puces pour smartphones atteint 39 %, soit près de 1,5 fois celle de son rival historique Qualcomm (25,7 %). Le chiffre d'affaires annuel dépasse les 19 milliards de dollars, et Apple, Google, NVIDIA font la queue pour collaborer. Cette entreprise qu'on croyait « capable seulement de faire du bas de gamme » est devenue la cinquième plus grande société de conception IC au monde.
 
 ## Un amateur de boxe et son empire de l'IC
 
-Lorsqu'il étudiait au lycée de Kaohsiung, Tsai Ming-chieh était passionné par les combats de boxe amateur. Il en a tiré une leçon fondamentale : dans le ring, peu de gens peuvent régner durablement, car dès que l'on cesse d'évoluer, le prochain challenger vous terrasse. Il a plus tard transformé cette observation en philosophie de gestion, appelée la théorie du « champion d'une génération » : dans l'industrie de la conception IC, les nouvelles vagues poussent toujours les anciennes ; une gamme de produits trop monolithique est une voie sans issue.
+Au lycée de Kaohsiung, Tsai Ming-chieh se passionne pour la boxe amateur. Il en tire une leçon : sur le ring, rares sont ceux qui parviennent à régner sans discontinuer, car dès qu'on cesse d'évoluer, le challenger suivant vous met KO. Il transforme plus tard cette observation en philosophie de gestion, la théorie du « champion d'une génération » : l'industrie de la conception IC est un éternel renouvellement où les vagues successives se substituent les unes aux autres ; une gamme de produits trop étroite est une impasse.
 
-(D'après [entretien avec un alumni de l'Université Tsing Hua](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) et [TechNews](https://technews.tw/?p=629553))
+(Propos recueillis dans [une interview d'alumni de l'Université Tsinghua](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) et [TechNews](https://technews.tw/?p=629553))
 
-En 1983, Tsao Hung-cheng a débauché le jeune Tsai Ming-chieh, alors âgé de 33 ans, de l'ITRI pour l'emmener chez UMC afin de diriger une petite équipe multimédia. En 1997, suite à une restructuration stratégique d'UMC, le département de conception IC a été scindé pour devenir indépendant ; Tsai Ming-chieh a alors dirigé l'équipe pour fonder MediaTek. L'entreprise a choisi le nom anglais « MediaTek » (technologie multimédia), car ses premiers produits étaient des puces pour lecteurs CD-ROM et DVD. À l'époque, personne n'aurait imaginé que cette petite société de Hsinchu défierait Qualcomm vingt ans plus tard.
+En 1983, Robert Tsao débauche Tsai Ming-chieh, alors âgé de 33 ans, de l'ITRI pour diriger le département multimédia d'UMC. En 1997, UMC opère un virage stratégique et scinde sa division de conception IC ; Tsai Ming-chieh emmène son équipe fonder MediaTek. L'entreprise choisit le nom anglais « MediaTek » — technologie des médias — car ses premiers produits sont des puces pour lecteurs CD-ROM et DVD. Personne n'imaginait alors que cette petite entreprise de Hsinchu défierait Qualcomm vingt ans plus tard.
 
-> 📝 **La théorie du « champion d'une génération » explique pourquoi MediaTek change constamment de segment : CD-ROM → Mobile → 5G → IA → ASIC. Ce n'est pas par inconstance, mais parce que Tsai Ming-chieh est convaincu que rester sur place équivaut à attendre la fin.**
+> 📝 **La théorie du « champion d'une génération » explique pourquoi MediaTek change constamment de terrain de jeu : CD-ROM → téléphones mobiles → 5G → IA → ASIC. Non par inconstance, mais parce que Tsai Ming-chieh est convaincu que rester sur place équivaut à attendre la mort.**
 
-## Les deux faces de la « reine des contrefaçons »
+## Les deux faces du roi des téléphones contrefaits
 
-En 2004, Tsai Ming-chieh a décidé de passer des puces de lecteurs optiques au marché du téléphone mobile. Il a chargé son général, Hsu Chih-chiang, d'aller frapper aux portes de Nokia et Motorola. Ce dernier l'a toutefois refroidi : « Sans une technologie unique et sans être le seul choix possible, ces géants ne nous prêteront aucune attention, et il n'y aurait aucun profit. » (D'après [le reportage de couverture de Mirror Media en 2025](https://www.mirrormedia.mg/story/20241231fin001))
+En 2004, Tsai Ming-chieh décide de passer des puces pour disques optiques au marché du téléphone mobile. Il charge son lieutenant Hsu Chih-chiang d'aller frapper aux portes de Nokia et Motorola. Hsu lui jette un seau d'eau froide : « Si on n'a pas une technologie unique et qu'on n'est pas le seul choix, ces gros bonnets ne nous regarderont même pas, et il n'y aura aucune marge. » (Propos rapportés par [l'histoire de couverture de Mirror Media 2025](https://www.mirrormedia.mg/story/20241231fin001))
 
-Tsai Ming-chieh a écouté ce conseil. Il a décidé de changer de stratégie : au lieu de solliciter les grands constructeurs, il s'est attaqué au marché des téléphones contrefa%' (shanzhai) de Shenzhen, en Chine. Les puces 2.5G lancées par MediaTek utilisaient le modèle « turn-key » — intégrant processeur, contrôleur de mémoire, composants RF et logiciel sur une seule plateforme. Les petites usines de Shenzhen pouvaient ainsi assembler des téléphones dès réception des puces et les expédier en quelques mois.
+Tsai Ming-chieh l'entend. Il décide de ne pas forcer les portes des grands groupes, mais d'entrer par le marché des téléphones contrefaits de Shenzhen. Les puces 2,5G de MediaTek adoptent un modèle « turn-key » — processeur, contrôleur mémoire, composants RF, logiciel, tout intégré sur une seule plateforme. Les petites usines de Shenzhen n'ont plus qu'à récupérer la puce pour assembler un téléphone, et expédier en quelques mois.
 
-Cette stratégie a provoqué l'explosion de l'industrie chinoise du _shanzhai_. La part de marché de MediaTek a même atteint 40 %. Mais l'étiquette de « reine des contrefaçons » l'a accompagnée. Un ancien cadre de MediaTek se souvient : « Le _shanzhai_ reste une imitation ; la réputation après avoir gagné beaucoup d'argent n'était pas glorieuse, et le président Tsai trouvait ce titre peu honorable. » (D'après [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001))
+Cette stratégie fait exploser l'industrie du téléphone contrefait chinois. La part de marché de MediaTek grimpe un temps à 40 %. Mais l'étiquette de « roi des téléphones contrefaits » arrive avec le succès. Un ancien de MediaTek se souvient : « Le téléphone contrefait reste de l'imitation ; on gagne gros mais la réputation n'est pas glorieuse, le président Tsai trouvait aussi que ce titre n'était pas très honorable. » (Propos rapportés par [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001))
 
-> 📝 **C'est le paradoxe le plus fascinant de l'histoire de MediaTek : le modèle commercial qui leur a permis de constituer leur premier capital est précisément l'étiquette qu'ils ont tout tenté pour effacer par la suite. Le succès du _shanzlag_ fut à la fois leur point de départ et leur malédiction.**
+> 📝 **Voici le paradoxe le plus fascinant de l'histoire de MediaTek : le modèle commercial qui leur a rapporté leur premier pot d'or est exactement l'étiquette qu'ils devront ensuite s'évertuer à faire oublier. Le succès du roi des contrefaçons est à la fois le point de départ et la malédiction.**
 
-## La chute : 11 % de part de marché
+## La chute au fond : 11 % de part de marché
 
-Avec l'arrivée de l'iPhone en 2007, l'ère du smartphone a marqué le déclin des téléphones contrefaits. MediaTek, dont les capacités techniques étaient inférieures à celles de Qualcomm, accusait toujours un retard sur les puces haut de gamme — la 3G était en retard, la 4G aussi, et les scores de performance étaient inférieurs. Qualcomm a bâti une forteresse grâce à son modèle de licences de brevets, capturant les clients de grandes marques les uns après les autres.
+2007, l'iPhone arrive, l'ère du smartphone commence, les contrefaçons s'effondrent. MediaTek, techniquement moins solide que Qualcomm, a toujours un temps de retard sur les puces haut de gamme — 3G en retard, 4G en retard, scores de performance battus. Qualcomm construit ses douves avec son modèle de licences de brevets, et les clients marques lui sont raflés les uns après les autres.
 
-Au plus bas, la part de marché des puces mobiles de MediaTek n'était plus que de **11 %**.
+Au plus bas, la part de marché de MediaTek dans les puces pour smartphones ne dépasse plus **11 %**.
 
-Tsai Ming-chieh a alors pris deux décisions cruciales. Premièrement, ne plus affronter Qualcomm de front sur le segment haut de gamme, mais adopter une stratégie de « technologie pour tous » — intégrer des fonctionnalités avancées dans des puces de milieu de gamme à moindre coût. La série Helio lancée en 2014 a permis à des téléphones abordables de disposer de processeurs octo-cœurs, adoptés massivement par Xiaomi, Meizu et OPPO. Deuxièmement, en 2017, il a recruté l'ancien PDG de TSMC, Tsai Li-hsing, comme co-PDG, afin de bénéficier de son réseau international et de son expertise en gestion de processus de fabrication.
+Tsai Ming-chieh prend deux décisions. Première : ne plus affronter Qualcomm frontalement sur le haut de gamme, mais pratiquer la « technologie pour la campagne » — intégrer des fonctions haut de gamme dans des puces milieu de gamme à coût réduit. La série Helio, lancée en 2014, permet aux smartphones milieu de gamme de faire tourner des processeurs octo-cœurs ; Xiaomi, Meizu, OPPO l'adoptent massivement. Deuxième : en 2017, il recrute Rick Tsai, ex-PDG de TSMC, comme co-PDG, pour bénéficier de son réseau chez les grands fondeurs internationaux et de son expertise en gestion de procédés.
 
 > **Chiffres clés**
-
-> | Indicateur                        | Données                         |
-> | :-------------------------------- | :------------------------------ |
-> | Chiffre d'affaires 2024           | 16,52 milliards USD (YoY +19 %) |
-> | CA TTM (2025)                     | 19,1 milliards USD              |
-> | Part de marché mondiale mobile    | 39 % (Qualcomm 25,7 %)          |
-> | Rang mondial conception IC        | 5e (TrendForce, 2024)           |
-> | R&D sur 6 ans                     | Plus de 500 milliards TWD       |
-> | Proportion de docteurs et masters | 81,8 %                          |
 >
-> _Source : [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [Rapport TrendForce 2025](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
+> | Indicateur                                | Donnée                          |
+> | ----------------------------------------- | ------------------------------- |
+> | Chiffre d'affaires 2024                   | 16,52 milliards USD (YoY +19 %) |
+> | Chiffre d'affaires TTM (2025)             | 19,1 milliards USD              |
+> | Part de marché mondiale puces smartphones | 39 % (Qualcomm 25,7 %)          |
+> | Classement mondial conception IC          | 5ᵉ (TrendForce, 2024)           |
+> | Investissements R&D sur 6 ans             | Plus de 500 milliards NTD       |
+> | Proportion employés master/doctorat       | 81,8 %                          |
+>
+> _Sources : [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [Rapport TrendForce 2025](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
 
-## La contre-attaque Dimensity : de suiveur à leader
+## La contre-attaque Dimensity : du suiveur au leader
 
-En 2020, MediaTek a lancé la série de puces 5G « Dimensity ». Cette fois, il ne s'agissait plus de ramasser les miettes après Qualcomm — la série Dimensity 1000 était l'un des premiers SoC 5G intégrés du secteur, avec des performances rivalisant directement avec les fleurons de Qualcomm. Au troisième trimestre de la même année, la part de marché de MediaTek a dépassé celle de Qualcomm pour reprendre la première place.
+En 2020, MediaTek lance la série « Dimensity » (天璣) de puces 5G. Cette fois, ce n'est plus manger les restes dans l'assiette de Qualcomm — le Dimensity 1000 est l'un des premiers SoC 5G intégrés du secteur, et ses scores de performance vont directement au combat contre les flagships de Qualcomm. Dès le troisième trimestre de la même année, la part de marché de MediaTek dans les puces pour smartphones dépasse celle de Qualcomm et reprend la première place.
 
-Le lancement de la puce Dimensity 9400 fin 2024 a été un coup décisif. Gravée en 3 nm par TSMC, avec des performances IA considérablement accrues, elle a été massivement commandée par les grandes marques chinoises — les expéditions de puces haut de gamme ont bondi de 70 %. Les données de Counterpoint Research montrent que MediaTek détient désormais 39 % du marché mondial des processe marqueurs de smartphones, tandis que Qualcomm est descendu à 25,7 %. Les ventes de puces haut de gamme ont progressé de 350 % entre 2022 et 2025 ([Techsponential](https://www.techsponential.com/reports/dimensity9500)).
+Le Dimensity 9400, lancé fin 2024, porte un coup décisif. Gravé en 3 nm par TSMC, ses performances en IA font un bond ; les marques chinoises de premier rang se l'arrachent — les expéditions de puces haut de gamme bondissent de 70 %. Selon Counterpoint Research, MediaTek capture 39 % du marché mondial des processeurs pour smartphones intelligents, Qualcomm retombant à 25,7 %. Les ventes de puces flagships ont crû de 350 % entre 2022 et 2025 ([Techsponential](https://www.techsponential.com/reports/dimensity9500)).
 
-Les sanctions américaines contre Huawei, qui l'ont contrainte à développer ses propres puces, ont paradoxalement poussé MediaTek vers le haut : les marques chinoises n'ont eu d'autre choix que de dépendre davantage de cette entreprise taïwanaise capable d'accéder aux processus de pointe de TSMC.
+Les sanctions américaines contre Huawei, qui se retrouve à court de puces maison, ont paradoxalement donné un coup de pouce à MediaTek — les marques chinoises n'ont d'autre choix que de dépendre davantage de cette entreprise taïwanaise capable d'accéder aux procédés avancés de TSMC.
 
-## Conquérir Apple : huit ans pour forger une épée
+## Croquer la pomme : huit ans pour une lame
 
-Tsai Ming-chieh ne s'est pas contenté du marché chinois. Il y a huit ans, il a formé une équipe dédiée, dirigée par le vice-président Hsu Hao-chun, avec un seul objectif : intégrer la chaîne d'approvisionnement d'Apple.
+Tsai Ming-chieh ne se contente pas du marché chinois. Il y a huit ans, il crée une équipe dédiée, dirigée par le vice-président Hsu Hao-chun, avec un unique objectif : entrer dans la chaîne d'approvisionnement d'Apple.
 
-En décembre 2024, Bloomberg a révélé que la nouvelle génération d'Apple Watch utiliserait des puces modem de MediaTek, remplaçant celles d'Intel ([Bloomberg / TechNode](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/)). Trois jours plus tard, un rapport de Morgan Stanley mentionnait que MediaTek avait remporté une commande pour les puces TPU personnalisées de Google. S'y ajoute la collaboration AI PC NVIDIA × MediaTek annoncée par Jensen Huang lors du Computext 2024 — parmi les quatre plus grandes entreprises technologiques mondiales par capitalisation (Apple, Google, NVIDIA, Samsung), MediaTek en a conquis trois d'un coup.
+En décembre 2024, Bloomberg révèle que la prochaine Apple Watch adoptera le modem de MediaTek, remplaçant celui d'Intel ([Bloomberg / TechNode](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/)). Trois jours plus tard, un rapport de Morgan Stanley cite MediaTek comme fournisseur des puces TPU personnalisées de Google. Sans compter la collaboration NVIDIA × MediaTek pour puces AI PC, annoncée en personne par Jensen Huang au Computex 2024 — sur les quatre premières capitalisations technologiques mondiales, Apple, Google, NVIDIA, Samsung, MediaTek en signe trois d'un coup.
 
-Une source proche de Mirror Media a confié : « Le président Tsai est de très bonne humeur ces derniers temps, car le projet Apple Watch, mené pendant huit ans, porte enfin ses fruits. »
+Un initié confie à Mirror Media : « Le président Tsai a le moral au beau fixe ces temps-ci, parce que le projet Apple Watch a duré huit ans et porte enfin ses fruits. »
 
-> 📝 **La logique de MediaTek pour pénétrer Apple est la même que celle utilisée pour le marché du _shanzhai_ — ne pas tenter de s'emparer de force des puces pour smartphones haut de gamme (le terrain de Qualcomm), mais passer par la porte latérale de l'Apple Watch. D'abord, habituer Apple à vos puces, puis discuter de l'étape suivante. La patience de Tsai Ming-cham est prouvée par ces huit années.**
+> 📝 **La logique de l'entrée chez Apple reprend celle de l'assaut sur le marché des contrefaçons — ne pas attaquer frontalement les puces pour smartphones flagships (le terrain de Qualcomm), mais entrer par la porte latérale de l'Apple Watch. Laisser Apple s'habituer à vos puces, puis négocier l'étape suivante. La patience de Tsai Ming-chieh, huit ans en témoignent.**
 
-## Sur la corde raide de la géopolitique
+## La corde raide géopolitique
 
-Le plus grand risque de MediaTek réside dans sa plus grande force : plus de la moitié de son chiffre d'affaires provient de clients chinois. Alors que la guerre technologique sino-américaine s'intensifie, MediaTek avance sur une corde raide — d'un côté son plus grand marché, de l'autre ses sources technologiques critiques (outils EDA américains, processus avancés de TSMC).
+Le plus grand risque de MediaTek se niche dans son plus grand atout : plus de la moitié de son chiffre d'affaires provient de clients chinois. La guerre technologique sino-américaine s'intensifie, MediaTek marche sur une corde raide — d'un côté son plus grand marché, de l'autre ses sources technologiques critiques (outils EDA américains, procédés avancés de TSMC).
 
-La stratégie de Tsai Li-hsing est de « ne pas mettre tous ses œufs dans le même panier » : développer activement les clients hors Chine (Samsung, Apple, Google) tout en augmentant les investissements en Amérique du Nord. Cependant, les variables géopolitiques échappent au contrôle des entreprises. La politique tarifaire de l'ère Trump 2.0, la tendance chinoise à la « dé-américanisation », les tensions dans le détroit de Taïwan — chaque facteur peut changer les règles du jeu.
+La réponse de Rick Tsai : « ne pas mettre tous ses œufs dans le même panier » — développer activement les clients non chinois (Samsung, Apple, Google), tout en renforçant les investissements en Amérique du Nord. Mais les variables géopolitiques échappent au contrôle de l'entreprise. La politique tarifaire de Trump 2.0, les règles tacites chinoises de « dé-américanisation », les tensions dans le détroit de Taïwan — chacune peut changer les règles du jeu.
 
-Les analystes de Morgan Stanley restent toutefois optimistes : « MediaTek est l'un des rares acteurs technologiques taïwanais capable de tirer profit des deux côtés. Les marques chinoises ont besoin d'elle pour accéder à la capacité de TSMC, et les géants américains ont besoin d'elle pour réduire leurs coûts. » ([Mirror Media 2025](https://www.mirrormedia.mg/story/20241231fin001))
+Les analystes de Morgan Stanley, eux, restent optimistes : « MediaTek est l'un des rares acteurs technologiques taïwanais à pouvoir tirer profit des deux côtés. Les marques chinoises ont besoin de lui pour obtenir les capacités de TSMC, les grands groupes américains ont besoin de lui pour réduire les coûts. » ([Mirror Media 2025](https://www.mirrormedia.mg/story/20241231fin001))
 
-## Pas seulement le mobile : le prochain combat
+## Pas seulement les téléphones : le prochain combat
 
-La théorie du « champion d'une génération » de Tsai Ming-chieh pousse MediaTek à chercher sans cesse le prochain ring. Les enjeux actuels se concentrent sur trois directions :
+La théorie du « champion d'une génération » de Tsai Ming-chieh oblige MediaTek à chercher sans cesse le ring suivant. Les paris actuels portent sur trois directions :
 
-**L'informatique en périphérie (Edge AI)** — Dès 2018 avec l'Helio P90, MediaTek a intégré des unités de traitement IA dédiées (APU) dans ses puces. Alors que l'IA embarquée devient la norme, cet investissement précoce commence à porter ses fruits. Les capacités d'IA générative sur l'appareil du Dimensity 9400 sont une raison clé de la forte demande des marques chinoises.
+**Calcul IA en périphérie** — Dès 2018 avec le Helio P90, MediaTek intègre des unités de traitement IA dédiées (APU) dans ses puces. Quand l'IA sur smartphone devient la norme, cet investissement précoce commence à payer. Les capacités d'IA générative sur terminal du Dimensity 9400 sont la raison clé pour laquelle les marques chinoises se les arrachent.
 
-**Les puces personnalisées ASIC** — Avec les TPU de Google et les accélérateurs IA de NVIDIA, les géants du cloud souhaitent de plus en plus concevoir leurs propres puces. MediaTek s'est lancée dans les services de conception ASIC ; bien qu'en retard sur Broadcom et Marvell, elle se distingue par une meilleure maîtrise des coûts et une exécution plus rapide. Un récent rapport de TrendForce suggère que le marché anticipe l'obtention par MediaTek de commandes pour les TPU Google v7e et v8e ([TrendForce, 2026/03](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/)).
+**ASIC puces personnalisées** — Le TPU de Google, les accélérateurs IA de NVIDIA : les géants du nuage veulent de plus en plus concevoir leurs propres puces. MediaTek s'engage dans les services de conception ASIC ; bien qu'arrivé après Broadcom et Marvell, il offre un meilleur contrôle des coûts et une exécution plus rapide. Le dernier rapport de TrendForce indique que le marché suppose que MediaTek a déjà remporté les commandes Google TPU v7e et v8e ([TrendForce, 2026/03](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/)).
 
-**Le WiFi et les technologies de connectivité** — MediaTek est le plus grand fournisseur mondial de puces WiFi, présentes des routeurs domestiques aux équipements d'entreprise. À l'ère du WiFi 7, cet avantage ne fera que s'accentuer. Dès lors que chaque appareil doit être connecté, la puce de connectivité devient un ticket d'entrée indispensable.
+**WiFi et technologies de connectivité** — MediaTek est le premier fournisseur mondial de puces WiFi, des routeurs domestiques aux équipements d'entreprise. À l'ère du WiFi 7, cet avantage ne fera que s'amplifier. Quand tous les appareils doivent être connectés, la puce de connectivité devient le ticket d'entrée.
 
-Tsai Ming-chieh a aujourd'hui 75 ans. Il a mené MediaTek des CD-ROM aux smartphones, du _shanzhai_ au haut de gamme, et de la Chine vers Apple. En six ans, il a investi 500 milliards de TWD en R&D pour bâtir une armée de chercheurs composée à 81,8 % de docteurs et masters. Sa théorie du « champion d'une génération » s'applique aux autres — mais au final, c'est lui-même qui est le boxeur qui refuse d'être éliminé.
+Tsai Ming-chieh a 75 ans cette année. Il a mené MediaTek du CD-ROM au téléphone mobile, de la contrefaçon au flagship, de la Chine à Apple. Six ans, 500 milliards de R&D, une armée de R&D à 81,8 % de masters et doctorats. Sa théorie du « champion d'une génération » parlait des autres — mais à l'arrivée, c'est lui qui est le boxeur refusant d'être éliminé.
 
-Au début de 2025, Tsai Ming-chieh a rejoint la liste des clients pour le processus 2 nm de TSMC. À ses côtés se trouvent Apple, NVIDIA, AMD et Qualcomm. La petite entreprise issue d'une scission d'UMC il y a vingt-huit ans est désormais sur le même ring que les géants du monde.
-
----
-
-## Lecture complémentaire
-
-- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc)
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'intégration technologique de RCA en 1973 à la production en 2 nm, tout l'écosystème des semi-conducteurs, MediaTek étant le représentant du segment conception IC.
+Début 2025, Tsai Ming-chieh figure sur la liste des clients du procédé 2 nm de TSMC. À ses côtés : Apple, NVIDIA, AMD, Qualcomm. Vingt-huit ans après sa scission d'UMC, cette petite entreprise est montée sur le même ring.
 
 ---
 
 ## Lectures complémentaires
 
-1. [Reportage Mirror Media : MediaTek domine les puces mobiles mondiales, Tsai Ming-chieh lance l'offensive aux États-Unis pour conquérir Apple](https://www.mirrormedia.mg/story/20241231fin001) (2025/01, interview originale)
-2. [TrendForce : Classement du chiffre d'affaires des dix plus grandes entreprises de conception IC en 2024](https://www.trendforce.com/presscenter/news/20250317-12519.html) (2025/03, étude industrielle originale)
-3. [TrendForce : CSPs Accelerate ASIC Push, MediaTek Benefits](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/) (2026/03, rapport industriel original)
-4. [CompaniesMarketCap : MediaTek Revenue](https://companiesmarketcap.com/mediatek/revenue/) (2026/02, données financières)
-5. [TechNode : MediaTek beats Intel to supply modem chips for Apple Watch](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/) (2024/12, anglais)
-6. [Techsponential : MediaTek Dimensity 9500 Deep Dive](https://www.techsponential.com/reports/dimensity9500) (2025/09, analyse industrielle en anglais)
-7. [Entretien Alumni Université Tsing Hua : Tsai Ming-chieh](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) (institution académique originale)
-8. [TechNews : Tsai Ming-chieh, le champion d'une génération de la conception IC](https://technews.tw/?p=629553) (source secondaire)
-9. [CTWANT : MediaTek et l'incubation du succès](https://www.ctwant.com/article/272154) (202dessus/07, source secondaire)
-10. [PitchBook : MediaTek Company Profile](https://pitchbook.com/profiles/company/53618-14) (2026/02, données financières en anglais)
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc)
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la transfer de technologie RCA 1973 à la production en masse 2 nm, l'ensemble de l'écosystème semi-conducteur, MediaTek en est le représentant côté conception IC
+- [La tech taïwanaise raconte des histoires : 100/100 pour la puce, 60/100 pour le micro](/fr/technology/taiwan-tech-stories) — Premier mondial en volume d'expéditions, pourquoi le récit de marque de MediaTek ne rattrape-t-il toujours pas Qualcomm
+
+---
+
+## Lectures complémentaires
+
+1. [Histoire de couverture Mirror Media : MediaTek domine le marché mondial des puces pour smartphones, Tsai Ming-chieh mène ses troupes aux États-Unis croquer la pomme](https://www.mirrormedia.mg/story/20241231fin001) (2025/01, enquête de première main)
+2. [TrendForce : Classement 2024 du chiffre d'affaires des 10 plus grandes entreprises mondiales de conception IC](https://www.trendforce.com/presscenter/news/20250317-12519.html) (2025/03, recherche industrielle de première main)
+3. [TrendForce : Les CSP accélèrent la poussée ASIC, MediaTek en bénéficie](https://www.trendforce.com/news/2026/03/20/news-csps-accelerate-asic-push-in-2h26-challenging-nvidia-as-mediatek-guc-alchip-benefit/) (2026/03, rapport industriel de première main)
+4. [CompaniesMarketCap : Chiffre d'affaires MediaTek](https://companiesmarketcap.com/mediatek/revenue/) (2026/02, données financières)
+5. [TechNode : MediaTek bat Intel pour fournir les puces modem de l'Apple Watch](https://technode.com/2024/12/12/mediatek-beats-intel-to-supply-modem-chips-for-apple-watch/) (2024/12, anglais)
+6. [Techsponential : Analyse approfondie du MediaTek Dimensity 9500](https://www.techsponential.com/reports/dimensity9500) (2025/09, analyse industrielle en anglais)
+7. [Interview alumni Université Tsinghua : Tsai Ming-chieh](https://y105.site.nthu.edu.tw/p/406-1094-92120,r5328.php?Lang=zh-tw) (institution académique de première main)
+8. [TechNews : Tsai Ming-chieh, le champion d'une génération de la conception IC](https://technews.tw/?p=629553) (seconde main)
+9. [CTWANT : MediaTek couve la poule aux œufs d'or](https://www.ctwant.com/article/272154) (2023/07, seconde main)
+10. [PitchBook : Profil entreprise MediaTek](https://pitchbook.com/profiles/company/53618-14) (2026/02, données financières en anglais)

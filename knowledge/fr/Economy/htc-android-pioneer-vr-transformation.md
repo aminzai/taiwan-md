@@ -1,152 +1,156 @@
 ---
-title: "HTC : du pionnier d'Android à la transformation vers la VR"
-description: "Fondée en 1997 par Wang Hsueh-hung, HTC a fabriqué le premier téléphone Android au monde ; en 2011, son action a dépassé les 1 000 dollars taïwanais et sa valorisation a surpassé celle de Nokia. Après ses revers sur le marché des smartphones, l'entreprise s'est tournée en 2015 vers la VR et a redéfini l'industrie de la réalité virtuelle avec VIVE"
+title: 'HTC : de pionnier Android à la reconversion dans le réalité virtuelle'
+description: "Fondée en 1997 par Wang Xuehong, HTC a fabriqué le premier téléphone Android, dépassé la capitalisation de Nokia en 2011 à 1 000 NT$ l'action. Après un échec sur le marché des smartphones, HTC s'est tournée vers le VR en 2015 avec VIVE, redéfinissant l'industrie de la réalité virtuelle."
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Économie',
     'Entreprise',
-    'Industrie technologique',
-    'VR',
-    'Smartphones',
+    'Technologie',
+    'Réalité virtuelle',
+    'Smartphone',
     'Innovation',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 9
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-featured: false
 translatedFrom: 'Economy/台灣企業：宏達電.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:cad6f5863e24a963'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:1e059fb4544621d1'
 sourceBodyHash: 'sha256:6bb6fbebdcab1fd8'
-translatedAt: '2026-05-15T13:52:06+08:00'
+translatedAt: '2026-09-17T06:43:39+08:00'
 ---
 
-> **Vue d'ensemble en 30 secondes**
+> **Résumé en 30 secondes**
 >
-> HTC a été fondée en 1997 par Wang Hsueh-hung, Chou Yung-ming et Cho Ho-tu. L'entreprise a fabriqué le premier téléphone Android au monde et, en 2011, sa capitalisation boursière a dépassé celle de Nokia pour atteindre 1 000 milliards de dollars taïwanais. Mais l'intensification de la concurrence sur le marché des smartphones a entraîné son déclin. En 2015, elle s'est tournée vers la VR et a lancé HTC VIVE, devenu l'une des trois grandes plateformes mondiales de réalité virtuelle. En 2024, son bénéfice par action a atteint 7,21 dollars taïwanais, signe d'un repositionnement dans la vague du métavers.
+> HTC a été fondée par Wang Xuehong, Zhou Yongming et Zhuo Huotu en 1997, a fabriqué le premier téléphone Android au monde, et en 2011 a dépassé la capitalisation boursière de Nokia pour atteindre 1 trillion de NT$. Cependant, la concurrence accrue sur le marché des smartphones a entraîné son déclin. En 2015, HTC s'est lancée dans le domaine de la réalité virtuelle avec VIVE, devenant l'un des trois principaux acteurs de la VR. En 2024, le bénéfice par action atteignait 7,21 NT$, retrouvant sa place dans l'engouement autour du métavers.
 
 ## Un téléphone qui a changé le monde
 
-Le 22 octobre 2008, l'opérateur télécom américain T-Mobile a présenté un téléphone à l'allure un peu maladroite : le T-Mobile G1. Il avait un boîtier épais, un menton proéminent, et son apparence était loin de l'élégance de l'iPhone de la même période. Personne n'imaginait pourtant que ce téléphone fabriqué par HTC, à Taïwan, allait transformer en profondeur la carte mondiale de l'industrie des smartphones.
+Le 22 octobre 2008, le opérateur télécom américain T-Mobile a présenté un téléphone qui avait l'air un peu encombrant : le T-Mobile G1. Il avait un corps épais, un menton saillant, et son apparence n'était guère aussi élégante que celle de l'iPhone de l'époque. Mais personne ne pouvait prévoir que ce téléphone fabriqué par HTC, une entreprise taïwanaise, allait bouleverser le paysage mondial du smartphone.
 
-Le T-Mobile G1, dont le nom officiel était HTC Dream, fut le premier smartphone au monde équipé du système Google Android[^1]. Alors que l'iPhone redéfinissait le marché des smartphones, HTC choisit de coopérer avec Google, devenant l'avant-garde du camp Android et ouvrant une ère entièrement nouvelle.
+Le T-Mobile G1, officiellement nommé HTC Dream, était le premier smartphone au monde à fonctionner sous le système d'exploitation Google Android[^1]. Alors que l'iPhone redéfinissait le marché des smartphones, HTC a choisi de collaborer avec Google, devenant un pionnier de l'écosystème Android et ouvrant la voie à une nouvelle ère.
 
-Derrière cette décision se trouvait l'une des qualités les plus précieuses de l'industrie technologique taïwanaise : un jugement technique aigu et un esprit d'innovation prêt à prendre des risques. À une époque où Nokia dominait encore la téléphonie mobile et où BlackBerry régnait sur le marché professionnel, HTC choisit de croire en un système d'exploitation tout juste naissant et d'y lier le destin de l'entreprise.
+Derrière cette décision se cache une qualité précieuse de l'industrie technologique taïwanaise : un sens aigu de la technologie et un esprit innovant audacieux. À une époque où Nokia était encore le roi des téléphones et où BlackBerry dominait le marché professionnel, HTC a osé croire en un système d'exploitation encore naissant et a lié le destin de son entreprise à celui-ci.
 
 ## La combinaison gagnante des trois fondateurs
 
-Le succès de HTC a commencé par l'association remarquablement complémentaire de ses trois fondateurs.
+La réussite d'HTC repose sur la combinaison parfaite de ses trois fondateurs.
 
-Wang Hsueh-hung, fille de Wang Yung-ching, figure légendaire du management taïwanais, apportait une solide puissance financière et une vision commerciale d'ensemble. Elle comprenait la technologie, avait une vision de long terme et était une investisseuse dotée de véritables qualités entrepreneuriales.
+Wang Xuehong, fille de Wang Yongqing, le célèbre entrepreneur taïwanais, a apporté des capitaux abondants et une vision stratégique globale. Elle comprend la technologie, a de la vision, et est une investisseuse chevronnée.
 
-Chou Yung-ming, génie technique, était l'âme de HTC. Il possédait une compréhension approfondie des technologies mobiles ; dès l'ère des PDA, il s'était consacré à l'informatique mobile et devint le moteur technique de tous les grands produits de HTC.
+Zhou Yongming, un génie de la technologie et l'âme d'HTC. Il maîtrise profondément les technologies des appareils mobiles, a travaillé sur les PDA depuis longtemps, et est l'esprit technique derrière tous les produits clés d'HTC.
 
-Cho Ho-tu, spécialiste de la gestion industrielle, avait pour mission de transformer les idées innovantes en produits pouvant être fabriqués en masse. À une époque où la fabrication en sous-traitance taïwanaise dominait le monde, son expérience industrielle constituait un avantage majeur pour HTC.
+Zhuo Huotu, expert en gestion de la production, chargé de transformer les idées innovantes en produits manufacturables. À une époque où la fabrication de masse taïwanaise dominait le monde, l'expérience de Zhuo dans la production était un atout majeur pour HTC.
 
-Cette combinaison était presque parfaite : de l'argent, de la technologie et une capacité d'exécution. Les trois fondateurs partageaient aussi une même ambition : créer une marque taïwanaise propre, capable de rayonner sur la scène technologique mondiale.
+Cette combinaison est presque parfaite : argent, technologie, exécution. Les trois partagent également une vision commune : créer une marque taïwanaise, briller sur la scène mondiale de la technologie.
 
-## Du sous-traitant de PDA au géant de marque
+## Du sous-traitant PDA à géant de marque
 
-L'histoire de HTC commence en 1997, lorsque l'entreprise s'appelait « High Tech Computer Corporation » (fondation : 1997 ; entrée en Bourse : 2002) et produisait principalement des appareils Windows CE en sous-traitance pour des marques internationales comme Compaq et Hewlett-Packard.
+L'histoire d'HTC commence en 1997, quand l'entreprise s'appelait encore « High Tech Computer Corporation » (fondée en 1997, cotée en bourse en 2002), principalement chargée de produire des appareils Windows CE pour des marques internationales comme Compaq et HP.
 
-Ce point de départ pouvait sembler ordinaire, mais il permit à HTC d'accumuler un capital technique précieux. De la conception matérielle à l'intégration logicielle, du design industriel à la gestion de production, HTC développa des compétences complètes dans le domaine des appareils mobiles.
+Ce point de départ peut sembler ordinaire, mais il a permis à HTC d'accumuler des compétences techniques précieuses. De la conception du matériel à l'intégration logicielle, de la conception industrielle à la gestion de la production, HTC a construit des capacités complètes dans le domaine des appareils mobiles.
 
-En 2006, HTC prit une décision clé : lancer sa propre marque. Ce choix exigeait un courage considérable, car l'activité de sous-traitance était déjà relativement stable ; se tourner vers la gestion d'une marque signifiait assumer des risques beaucoup plus élevés.
+En 2006, HTC a pris une décision cruciale : lancer sa propre marque. Cette décision exigeait un grand courage, car le business de sous-traitance était déjà assez stable, et passer à la marque impliquait d'assumer des risques plus importants.
 
-Mais le jugement de Wang Hsueh-hung était juste. Elle avait perçu l'arrivée imminente de l'ère des smartphones, ainsi que l'occasion historique pour les entreprises taïwanaises de passer de la sous-traitance à la marque. À ce moment décisif, HTC devait choisir : continuer à faire de la sous-traitance en terrain sûr, ou se lancer audacieusement dans la construction d'une marque.
+Mais le jugement de Wang Xuehong s'est révélé juste. Elle a vu l'arrivée imminente de l'ère des smartphones, et a compris l'opportunité historique pour les entreprises taïwanaises de passer du sous-traitance à la marque. HTC devait faire un choix à ce moment crucial : continuer à vivre tranquillement en sous-traitance, ou oser lancer sa propre marque.
 
-Nous connaissons la suite. Le HTC Dream de 2008 (modèle : HTC Dream, T-Mobile G1, 2008-10) a ouvert l'ère Android et, avec elle, l'âge d'or de HTC.
+Nous savons tous comment cela s'est terminé. Le HTC Dream de 2008 (modèle : HTC Dream, T-Mobile G1, 2008-10) a marqué le début de l'ère Android, et a également lancé la période d'or d'HTC.
 
 ## 2011 : au sommet du monde
 
-2011 fut l'année de l'apogée pour HTC. Cette année-là, l'entreprise lança plusieurs produits très bien accueillis : le HTC Sensation équipé d'un processeur double cœur, le HTC Desire devenu un modèle à succès mondial, et le HTC Incredible qui connut une forte réussite aux États-Unis.
+2011 est l'année de l'apogée d'HTC. Cette année-là, HTC a lancé plusieurs produits très bien reçus : le HTC Sensation avec processeur double cœur, le HTC Desire est devenu un modèle phare à travers le monde, et le HTC Incredible a connu un grand succès aux États-Unis.
 
-Les chiffres parlent d'eux-mêmes. En 2011, les livraisons mondiales de HTC atteignirent 43 millions d'unités, avec une part de marché de 8,8 %, ce qui plaçait l'entreprise au quatrième rang mondial, derrière Nokia, Samsung et Apple[^2]. Plus impressionnant encore, la capitalisation boursière de HTC dépassa un temps celle de Nokia, alors géant du téléphone mobile ; son action franchit le seuil des 1 000 dollars taïwanais et la valeur de l'entreprise dépassa 1 000 milliards de nouveaux dollars taïwanais.
+Les chiffres parlent d'eux-mêmes. En 2011, HTC a livré 43 millions d'unités dans le monde, avec une part de marché de 8,8 %, se classant au quatrième rang mondial, derrière Nokia, Samsung et Apple[^2]. Ce qui est encore plus impressionnant, c'est que la capitalisation boursière d'HTC a un moment dépassé celle de Nokia, le géant des téléphones de l'époque, avec un cours action dépassant les 1 000 NT$, portant la capitalisation de l'entreprise au-delà d'un trillion de NT$.
 
-Qu'une entreprise taïwanaise puisse, en quelques années à peine, se hisser au niveau de géants internationaux comme Apple et Samsung constituait alors un accomplissement presque inimaginable. HTC devint une fierté de l'industrie technologique taïwanaise et l'un des meilleurs exemples d'internationalisation d'une marque taïwanaise.
+Quelques années auparavant, une entreprise taïwanaise pouvait à peine rivaliser avec Apple et Samsung. Ce succès a fait de HTC la fierté de l'industrie technologique taïwanaise, et un exemple remarquable de l'internationalisation des marques taïwanaises.
 
-« quietly brilliant », le slogan de HTC, résumait parfaitement les traits des entreprises taïwanaises : discrètes mais excellentes, parlant par la force de leurs résultats.
+« Quietly Brilliant », le slogan d'HTC incarne parfaitement le caractère des entreprises taïwanaises : modestes mais excellents, laissant les faits parler d'eux-mêmes.
 
-## Un déclin brutal
+## Le déclin brutal
 
-Mais cette embellie fut de courte durée. À partir de 2012, la position de HTC sur le marché s'effondra rapidement. Plusieurs facteurs clés expliquent ce retournement spectaculaire.
+Mais le bonheur ne dure pas. À partir de 2012, la position de marché d'HTC a commencé à décliner rapidement. Plusieurs facteurs clés ont conduit à ce tournant dramatique.
 
-Le premier fut l'évolution de l'environnement concurrentiel. Samsung, porté par la série Galaxy, émergea brusquement et prit la position dominante dans le camp Android ; Apple continua de lancer des iPhone impressionnants et consolida le marché haut de gamme ; des marques chinoises comme Xiaomi et Huawei attaquèrent les segments d'entrée et de milieu de gamme grâce à leur avantage prix. Dans cette bataille à plusieurs fronts, la part de marché de HTC glissa continuellement.
+Premièrement, l'environnement concurrentiel a changé. Samsung, grâce à sa série Galaxy, a pris le dessus dans l'écosystème Android ; Apple a continué à lancer des iPhone impressionnants, consolidant sa position sur le marché haut de gamme ; les marques chinoises comme Xiaomi et Huawei ont envahi le marché des smartphones à petit et moyen prix. Dans cette bataille multi-acteurs, la part de marché d'HTC a continué de décliner.
 
-Le deuxième facteur fut l'erreur de stratégie produit. HTC conservait des avantages en matière de design et de fabrication, mais manquait d'innovations de rupture comparables à la série Samsung Galaxy Note. Dans un marché des smartphones où les fonctions se ressemblaient de plus en plus, la différenciation devenait décisive.
+Deuxièmement, la stratégie produit d'HTC s'est trompée. Bien qu'HTC ait toujours eu un avantage en matière de design et de finition, il manquait une innovation révolutionnaire comme la série Galaxy Note de Samsung. Dans un marché de smartphones très homogène, la différenciation est cruciale.
 
-Le facteur le plus fatal fut l'insuffisance des ressources marketing. Comparé aux dépenses massives de Samsung et d'Apple, le budget marketing de HTC paraissait très limité. À l'ère de la concurrence entre marques, manquer de visibilité suffisante revenait à être marginalisé.
+Enfin, les ressources marketing d'HTC étaient insuffisantes. Comparées aux investissements massifs en marketing de Samsung et Apple, le budget marketing d'HTC semblait ridicule. À l'ère de la concurrence des marques, un manque d'exposition équivaut à une marginalisation.
 
-En novembre 2012, Apple et HTC conclurent un règlement amiable sur les brevets[^3] : les deux parties signèrent un accord de licence de 10 ans, et il ne s'agissait pas d'une simple défaite judiciaire de HTC. Ce conflit juridique, qui s'était prolongé pendant plusieurs années, eut un impact notable sur les activités de HTC sur le marché américain.
+En novembre 2012, Apple et HTC ont conclu un accord de règlement des brevets[^3], signant un accord de licence de 10 ans (et non pas une défaite simple de HTC). Cette affaire juridique s'est prolongée pendant des années, affectant considérablement les affaires d'HTC aux États-Unis.
 
-## 2015 : la décision clé de la transformation vers la VR
+## 2015 : la décision cruciale de la VR
 
-Face aux difficultés de son activité smartphones, HTC prit en 2015 une décision clé : entrer dans le domaine de la réalité virtuelle.
+Face aux difficultés du business des smartphones, HTC a pris une décision cruciale en 2015 : s'engager dans le domaine de la réalité virtuelle.
 
-Cette décision révéla la vision prospective de HTC. À l'époque, la VR restait une technologie émergente, avec un marché de taille limitée, et la plupart des acteurs observaient encore la situation. Mais Wang Hsueh-hung perçut avec acuité le potentiel considérable de la VR et décida d'investir pleinement ce nouveau domaine.
+Cette décision révèle la vision prospective d'HTC. À l'époque, la VR était encore une technologie émergente, le marché était limité, et la plupart des gens hosaient encore. Mais Wang Xuehong a su percevoir le potentiel énorme de la VR, et a décidé d'y consacrer toutes ses forces.
 
-HTC coopéra avec l'entreprise de jeux vidéo Valve pour développer le casque HTC VIVE. La logique de Wang Hsueh-hung était simple : la VR partageait 80 % de ses composants avec les téléphones mobiles ; HTC pouvait reproduire le modèle de coopération passé avec Google Android, Valve prenant en charge le logiciel et le système, tandis que HTC réalisait le matériel.
+HTC a collaboré avec l'entreprise de jeux vidéo Valve pour développer le casque HTC VIVE. La logique de Wang Xuehong était simple : la VR partage environ 80 % des composants avec les smartphones, HTC pouvait reproduire le modèle de collaboration qu'elle avait eu avec Google Android, laissant Valve gérer le logiciel et le système, tandis qu'HTC se concentrait sur le matériel.
 
-En avril 2016, le HTC VIVE fut officiellement commercialisé (2016-04) et provoqua aussitôt un fort retentissement sur le marché de la VR. Grâce à une technologie de suivi de position précise et à une expérience utilisateur de grande qualité, VIVE rejoignit rapidement Oculus et PlayStation VR parmi les trois grandes plateformes de VR[^5].
+En avril 2016, le HTC VIVE a été officiellement lancé (2016-04), créant immédiatement un séisme dans le marché de la VR. Grâce à une position précise dans le suivi spatial et une expérience utilisateur de qualité, VIVE est rapidement devenu l'un des trois principaux acteurs de la VR aux côtés d'Oculus et de PlayStation VR[^5].
 
 ## VIVE redéfinit l'industrie de la VR
 
-L'innovation technologique du HTC VIVE ne doit pas être sous-estimée. Son système de suivi de position Lighthouse permettait une localisation spatiale d'une précision millimétrique, offrant aux utilisateurs la possibilité de se déplacer librement dans le monde virtuel. Cette technologie devint ensuite un standard du secteur, adopté par de nombreux équipements VR tiers.
+L'innovation technologique de HTC VIVE ne doit pas être sous-estimée. Son système de suivi Lighthouse peut atteindre une précision de positionnement spatiale de l'ordre du millimètre, permettant aux utilisateurs de se déplacer librement dans un monde virtuel. Cette technologie est ensuite devenue la norme industrielle, et de nombreux fabricants tiers de dispositifs VR l'ont adoptée.
 
-La stratégie de HTC dépassait le matériel lui-même : l'entreprise construisit aussi un écosystème VR formé par la plateforme de contenu VIVEPORT, SteamVR (plateforme dominante de VR sur PC) et VIVE Studios (création de contenus VR). Cette pensée écosystémique permit à HTC d'établir un avantage concurrentiel dans la VR.
+La stratégie d'HTC va au-delà du matériel, et a construit un écosystème VR complet : la plateforme de contenu VIVEPORT, SteamVR (la plateforme principale de PC VR), et VIVE Studios (création de contenus VR) forment un ensemble fermé. Cette vision d'écosystème a permis à HTC de gagner un avantage concurrentiel dans le domaine de la VR.
 
-Sur le marché professionnel, HTC VIVE trouva un espace d'application plus vaste : simulation d'interventions médicales, revue de design industriel, expériences de formation éducative, collaboration en réunion à distance... La valeur de marché de ces usages B2B pourrait dépasser de loin celle du marché grand public.
+Sur le marché professionnel, HTC VIVE a trouvé un espace d'application encore plus vaste : simulation chirurgicale, conception industrielle, formation éducative, réunions à distance... La valeur de ces applications B2B pourrait dépasser celle du marché grand public.
 
-## 2024 : l'espoir d'un rebond depuis le creux
+## 2024 : le espoir du rebond
 
-Après plusieurs années d'efforts, le travail de HTC dans la VR commença à porter ses fruits. En 2024, HTC publia des résultats inattendus : un bénéfice par action de 7,21 dollars taïwanais (exercice 2024), largement supérieur aux attentes du marché[^4].
+Après plusieurs années d'efforts, les investissements de HTC dans le domaine de la VR commencent à porter leurs fruits. En 2024, HTC a présenté des résultats inattendus : un bénéfice par action de 7,21 NT$ (exercice 2024), bien au-delà des prévisions du marché[^4].
 
-Derrière ce résultat, la stratégie de HTC dans la VR commençait à se concrétiser. Avec la diffusion du concept de métavers, les technologies VR attirèrent davantage l'attention ; en tant que précurseur de l'industrie VR, HTC commençait à bénéficier de son avantage de premier entrant.
+Ce résultat est le reflet de la réalisation de la stratégie de HTC dans le domaine de la VR. Avec l'expansion du concept de métavers, la technologie VR a reçu davantage d'attention, et HTC, en tant que pionnier de l'industrie de la VR, commence à profiter de son avantage de premier acteur.
 
-La croissance du marché professionnel de la VR mérite une attention particulière. Dans l'ère post-pandémique, les besoins des entreprises en collaboration à distance et en formation virtuelle ont fortement augmenté, créant de nouvelles opportunités pour les solutions VR professionnelles de HTC.
+Il est particulièrement intéressant de noter la croissance du marché professionnel de la VR. Dans un monde post-pandémique, la demande des entreprises pour la collaboration à distance et la formation virtuelle a fortement augmenté, offrant de nouvelles opportunités pour les solutions VR professionnelles d'HTC.
 
-HTC a également lancé la plateforme métavers VIVERSE, se positionnant dans le Web3.0 et l'écosystème du métavers. Cette plateforme intègre matériel VR, logiciels, contenus et services, révélant l'ambition de HTC pour le futur monde numérique.
+HTC a également lancé la plateforme métavers VIVERSE, s'engageant dans les domaines de Web3.0 et du métavers. Cette plateforme intègre le matériel VR, le logiciel, le contenu et les services, démontrant l'ambition de HTC pour le monde numérique futur.
 
-## Les nouvelles opportunités de l'ère de l'IA
+## De nouvelles opportunités dans l'ère de l'IA
 
-À partir des années 2020, le développement rapide de l'intelligence artificielle a apporté une nouvelle dynamique à l'industrie de la VR. HTC intègre les technologies d'IA à ses produits VR : reconnaissance intelligente des scènes, recommandations personnalisées, contrôle en langage naturel. Ces fonctions d'IA améliorent considérablement l'expérience d'utilisation de la VR.
+En entrant dans les années 2020, le développement rapide de l'intelligence artificielle a apporté un nouvel élan à l'industrie de la VR. HTC a intégré la technologie IA dans ses produits VR : reconnaissance intelligente de scènes, recommandations personnalisées, contrôle par langage naturel... Ces fonctions IA ont considérablement amélioré l'expérience utilisateur de la VR.
 
-La maturité de l'IA générative transformera profondément les modes de création de contenus VR. Autrefois, produire du contenu VR nécessitait beaucoup de temps et des compétences spécialisées ; désormais, grâce aux outils d'IA, les utilisateurs ordinaires peuvent eux aussi créer rapidement des mondes virtuels, ce qui abaisse fortement le seuil d'entrée de la création de contenus VR.
+La maturité de l'IA générative va transformer radicalement le modèle de création de contenus VR. Autrefois, la création de contenus VR nécessitait beaucoup de temps et de compétences professionnelles. Maintenant, grâce aux outils d'IA, les utilisateurs ordinaires peuvent rapidement créer des mondes virtuels, et le seuil de création de contenus VR est considérablement abaissé.
 
-HTC a déjà commencé à se positionner sur les applications combinant IA et VR, notamment les personnages virtuels pilotés par l'IA, les interfaces d'interaction VR intelligentes et les expériences immersives personnalisées. Ces innovations pourraient devenir un avantage décisif pour HTC dans le prochain cycle concurrentiel.
+HTC a commencé à s'engager dans les applications combinées d'IA et de VR, y compris les personnages virtuels guidés par IA, les interfaces interactives VR intelligentes, et des expériences immersives personnalisées. Ces innovations pourraient devenir un avantage clé pour HTC dans la prochaine vague de compétition.
 
-## L'esprit d'innovation de l'industrie technologique taïwanaise
+## L'esprit innovant de l'industrie technologique taïwanaise
 
-L'histoire de HTC est l'une des meilleures illustrations de l'esprit d'innovation de l'industrie technologique taïwanaise.
+L'histoire d'HTC est le meilleur exemple de l'esprit innovant de l'industrie technologique taïwanaise.
 
-Du rôle de pionnier des téléphones Android à celui de précurseur des technologies VR, HTC s'est toujours tenu à l'avant-garde de l'évolution technologique. Cet esprit d'exploration de l'inconnu et de remise en cause des traditions constitue précisément l'une des qualités les plus précieuses de l'industrie technologique taïwanaise.
+Du pionnier des smartphones Android au pionnier de la technologie VR, HTC a toujours été à l'avant-garde de l'évolution technologique. Cet esprit d'exploration de l'inconnu, ce courage de bouleverser les conventions, est exactement ce qui caractérise l'industrie technologique taïwanaise.
 
-Même si HTC a subi des revers sur le marché des smartphones, sa persévérance et son innovation dans la VR continuent de montrer la compétitivité des entreprises taïwanaises. Dans l'industrie technologique, l'échec et le succès ne sont souvent séparés que par une ligne ténue ; l'essentiel est de posséder le courage de se transformer et la capacité d'innover.
+Bien que HTC ait connu un échec sur le marché des smartphones, sa persévérance et son innovation dans le domaine de la VR démontrent toujours la force compétitive des entreprises taïwanaises. Dans l'industrie technologique, l'échec et le succès ne sont souvent séparés que par un fil. La clé est d'avoir le courage de se transformer et la capacité d'innovation.
 
-L'expérience de HTC offre un cas d'étude à l'industrie technologique taïwanaise : dans un environnement technologique en mutation rapide, les entreprises doivent disposer d'une perception fine du marché, d'une solide capacité technique et d'une détermination à se transformer.
+L'expérience d'HTC offre une leçon précieuse à l'industrie technologique taïwanaise : dans un environnement technologique en constante évolution, les entreprises doivent avoir un sens aigu du marché, une solide capacité technique, et le courage de se transformer.
 
 ## Un nouveau départ à l'ère du métavers
 
-Aujourd'hui, HTC n'est plus le champion du marché des smartphones qu'il fut autrefois, mais sa position dans la VR demeure solide. Avec la diffusion du concept de métavers, la maturité des réseaux 5G et les progrès de l'IA, l'industrie de la VR entre dans une nouvelle phase d'opportunités.
+Aujourd'hui, HTC n'est plus le géant du marché des smartphones qu'elle était autrefi, mais sa position dans le domaine de la VR reste solide. Avec l'expansion du concept de métavers, la maturité du réseau 5G, et le progrès de l'IA, l'industrie de la VR entre dans une nouvelle èret de développement.
 
-HTC a la possibilité de renaître dans cette nouvelle ère. L'entreprise possède une accumulation profonde de technologies VR, une organisation de chaîne industrielle couvrant matériel, plateforme et contenus, ainsi qu'une expérience des applications professionnelles : autant d'avantages que les autres concurrents auront du mal à reproduire à court terme.
+HTC a l'opportunité de renaître dans cette nouvelle ère. Elle possède une solide base technique en VR, une chaîne industrielle couvrant le matériel, la plateforme et le contenu, ainsi qu'une expérience dans les applications professionnelles, des avantages que les concurrents ne peuvent facilement copier à court terme.
 
-De l'usine de sous-traitance de PDA en 1997 au pionnier d'Android en 2008, puis au leader de la VR en 2024, HTC a utilisé 27 années pour montrer la résilience et la vitalité de l'industrie technologique taïwanaise. Quelle que soit l'évolution future, la place de HTC comme représentant de l'innovation technologique taïwanaise est déjà profondément inscrite dans l'histoire du développement industriel.
+De la sous-traitance PDA de 1997, au pionnier Android de 2008, puis au leader VR de 2024, HTC a démontré en 27 ans la résilience et la vitalité de l'industrie technologique taïwanaise. Quel que soit l'avenir, le statut de HTC en tant que représentant de l'innovation taïwanaise est gravé dans l'histoire du développement industriel.
 
-Dans cette époque pleine d'incertitudes, l'histoire de HTC nous rappelle ceci : tant qu'elles conservent leur intention initiale d'innover et leur courage de se transformer, les entreprises taïwanaises peuvent continuer à rayonner sur la scène technologique mondiale.
+Dans cette ère pleine d'incertitudes, l'histoire d'HTC nous enseigne : tant que l'entreprise garde son esprit innovant et son courage de se transformer, les entreprises taïwanaises peuvent continuer à briller sur la scène mondiale de la technologie.
+
+## Lectures complémentaires
+
+- [Raconter l'histoire de la technologie taïwanaise : 100 points pour les puces, 60 points pour le micro](/fr/technology/taiwan-tech-stories) — Pourquoi « Quietly Brilliant » a perdu face à des concurrents qui savent raconter des histoires, les leçons d'HTC ont fait l'objet d'un article complet
 
 ## Références
 
-[^1]: [Wikipédia — HTC Dream](https://zh.wikipedia.org/wiki/HTC_Dream) — Le HTC Dream (T-Mobile G1) fut le premier smartphone au monde équipé du système d'exploitation Android ; il fut commercialisé en octobre 2008
+[^1]: [Wikipédia — HTC Dream](https://zh.wikipedia.org/wiki/HTC_Dream) — Le HTC Dream (T-Mobile G1) est le premier smartphone au monde à fonctionner sous le système d'exploitation Android, lancé en octobre 2008
 
-[^2]: [Wikipédia — HTC Corporation](https://zh.wikipedia.org/zh-tw/宏達國際電子) — À son apogée en 2011, HTC atteignit une part de marché de 8,8 %, au quatrième rang mondial ; sa capitalisation boursière dépassa un temps celle de Nokia
+[^2]: [Wikipédia — HTC](https://zh.wikipedia.org/zh-tw/宏達國際電子) — En 2011, au moment de son apogée, HTC détenait 8,8 % du marché mondial, se classant au quatrième rang ; sa capitalisation boursière a un moment dépassé celle de Nokia
 
-[^3]: [Reuters, novembre 2012 — règlement Apple-HTC](https://www.reuters.com/) — Le 9 novembre 2012, Apple et HTC conclurent un accord de licence de brevets de 10 ans, mettant fin à tous les litiges en cours entre les deux parties
+[^3]: [Reuters, novembre 2012 — HTC et Apple s'entendent](https://www.reuters.com/) — Le 9 novembre 2012, Apple et HTC ont signé un accord de licence de brevets de 10 ans, mettant fin à tous les litiges en cours
 
-[^4]: [Site officiel et rapports annuels de HTC](https://www.htc.com/) — En 2024, le bénéfice par action de HTC atteignit 7,21 dollars taïwanais, porté par la croissance des activités VR et métavers
+[^4]: [Site officiel et rapports annuels d'HTC](https://www.htc.com/) — Le bénéfice par action d'HTC en 2024 est de 7,21 NT$, les activités liées à la VR et au métavers ont contribué à la croissance
 
-[^5]: [Cnyes — rapport sur le marché AR/VR en Asie-Pacifique](https://news.cnyes.com/news/id/5497382) — Après son lancement en 2016, HTC VIVE devint rapidement l'une des trois grandes plateformes de VR ; en 2023, sa part de marché en Asie-Pacifique approchait 6%
+[^5]: [Caixin — Rapport sur le marché AR/VR en Asie-Pacifique](https://news.cnyes.com/news/id/5497382) — Après son lancement en 2016, HTC VIVE est rapidement devenu l'un des trois principaux acteurs de la VR ; en 2023, sa part de marché en Asie-Pacifique est proche de 6 %
