@@ -51,12 +51,16 @@ RECENT_INDEX_ROWS = 25       # 鄰居檢索掃描的索引列數
 
 FNAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(\d{6})-(.+)\.md$")
 ROUTINE_PREFIXES = ("twmd-", "taiwanmd-routine")
+# 指揮部這台 mac 的 Claude Desktop 排程任務（每 6 小時一次完整心跳），不帶 twmd- 前綴
+# 但一天跑四次，是 routine 不是人。2026-09-17 一天三輪心跳，本閘跟 observer-presence
+# 同一天都把它讀成「人觸發 session」——一個是不設冷卻，一個是把它當哲宇在場。
+ROUTINE_HANDLES = {"semiont-heartbeat"}
 # 停用詞：這些字在每一篇日記標題都出現，留著會讓所有東西都像撞車
 STOP = set("的了是我在有和與跟就那這它他她們個並且但而也都會要把被從對於為之其中不沒還很再又只")
 
 
 def is_routine(handle: str) -> bool:
-    return handle.startswith(ROUTINE_PREFIXES)
+    return handle in ROUTINE_HANDLES or handle.startswith(ROUTINE_PREFIXES)
 
 
 def diary_entries():
