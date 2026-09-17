@@ -56,8 +56,11 @@ LANG_NAMES = {
 }
 
 TIER_MODELS = {
-    "owl": "openrouter/owl-alpha",
-    "hy3": "tencent/hy3-preview:free",
+    # 2026-09-18：owl-alpha 早在 06-10 轉付費、hy3 05-12 退役，這兩個 tier 名字留作
+    # 相容，實際雲端模型改由環境變數指定（對齊文章產線的入池白名單，如
+    # nvidia/nemotron-3-ultra-550b-a55b:free）。不設就沿用舊值，讓舊指令行為不變。
+    "owl": os.environ.get("OPENROUTER_MODEL", "openrouter/owl-alpha"),
+    "hy3": os.environ.get("OPENROUTER_MODEL_SECONDARY", "tencent/hy3-preview:free"),
     "ollama": os.environ.get("OLLAMA_MODEL", "qwen3.6:35b-a3b-coding-nvfp4"),
 }
 
@@ -169,6 +172,7 @@ Rules:
 5. Direct quotes 「...」 — preserve original Chinese in quotes + add {target_name} translation in parentheses
 6. Reflect introspective tone, not academic textbook
 7. Output ONLY the translation. No preamble, no notes, no "Here is the translation:"
+8. Fixed names (never re-order the characters, never re-romanize): 哲宇 = the creator, write "哲宇 (Che-Yu Wu)" on first mention then "Che-Yu"; Muse = "Muse"; Semiont = "Semiont"; Taiwan.md = "Taiwan.md". Do NOT write Zheyu / Yuzhe / 宇哲.
 
 Target language: {target_name}"""
     return system, source

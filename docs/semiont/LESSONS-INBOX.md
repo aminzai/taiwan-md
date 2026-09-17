@@ -1256,6 +1256,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（同 session 內三次觸發，同一條線）
 - **severity**: high（About/ 真人署名文章會越來越多——想想論壇、報導者、投稿者以 Taiwan.md 名義寫的 #32——這條沒寫清楚，每篇都要重判一次）
 
+### 2026-09-18 twmd-babel-nightly — dispatcher-blind-to-the-other-producer：產線只看本機狀態，看不見另一台機器已經做掉同一批
+
+- **pattern**: dispatcher-blind-to-the-other-producer
+- **原則**：一條產線的「待辦」如果只從本機的狀態檔算（stale／missing 對本機 zh），它就不知道世界上還有另一個生產者在做同一批。分岔期間兩台機器各自跑 babel，每一篇兩邊都翻成功的檔都變成一筆合併衝突——產線越健康，衝突面長得越快。修法是給它一份「別人已經做掉」的排除清單，讓它只翻沒人碰過的，產線本身不用停。
+- **觸發**：2026-09-18 00:40 twmd-babel-nightly。origin/main 上 09-17 20:47 的心跳把「營運機分岔」寫進 OBSERVER-QUEUE #68，量到 770 個衝突檔並建議「拍板前兩台都別再跑 babel 存量」。本班自己量：knowledge/ 衝突面 758 檔，本機前 24 小時翻的 215 篇有 57 篇（27%）origin 也翻了。本機 2,405 筆待辦裡 545 筆（23%）是 origin 已做的。造 `babel-origin-exclude.py`（從 merge-base 到 origin/main 的 diff 反查 translatedFrom）＋ `babel-dispatch.py --exclude-file`，重啟後每輪跳過 2,434 對 (lang, zh)。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
+- **instances**：
+- **可能層級**：通用反射（任何多台機器對同一佇列各自消化的場景：翻譯、embedding、抓取）
+- **相關**：REFLEXES #92（Twin-artifact 缺重整器——那條講兩個「產物」各自演化中間沒人對賬，本條是兩個「生產者」各自消化同一佇列，對賬的東西要餵回生產者的入口，不是事後合併）。REFLEXES #82（本機 status.py 的 stale／missing 是「本機還缺」的訊號，不是「世界上還沒人翻」的訊號——拿它當後者用就是 proxy signal）
+- **verification_count**: 1
+
+### 2026-09-18 twmd-babel-nightly — supervisor-respawns-the-old-config：讓進程活著的東西在進程外面，殺掉它只會換回舊設定
+
+- **pattern**: supervisor-respawns-the-old-config
+- **原則**：連續三晚寫「同一個 dispatcher PID 健康活著」並在 handoff 認真討論「要不要主動輪替」，卻沒有一班問「它為什麼活著」。答案是 09-14 用 `launchctl submit` 加了 keepalive。kill 之後 4 分鐘 launchd 已經用 `/tmp/babel-launch-wrapper.sh` 裡的舊指令行重生一個沒帶新旗標的 dispatcher，pre-commit 的平行 writer 警告才讓本班發現。要換設定，得改 supervisor 讀的那份 wrapper 再 `launchctl kickstart -k`，對進程本身做什麼都沒用。
+- **觸發**：2026-09-18 00:45 kill PID 12398 → 00:49 launchd 自動起 PID 17728（舊 wrapper、無 `--exclude-file`），pre-commit 平行 writer 警告揪出 → 改寫 wrapper（去重清單＋fleet 核發 worker＋`--order forward`）→ `launchctl kickstart -k` 兩次才到位（PID 31458）。wrapper 住 /tmp，重開機就會消失，keepalive 那時會變成 exit 1 的無限重試。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
+- **instances**：
+- **可能層級**：操作規則（BABEL-VORTEX-LOOP §三重巡檢應加第四問：「是誰讓它活著的、設定住哪裡」）＋ 通用反射候選
+- **相關**：REFLEXES #38 (f)「存活≠生產」（那條說活著不代表在做事，本條說活著也不代表是它自己在活）。REFLEXES #60 silent default（wrapper 沒寫 `--order` 就吃到 dispatcher 的 reverse 預設，跟 pipeline 「全軍 forward」的 directive 靜默背離四天）。REFLEXES #56 canonical↔production drift
+- **verification_count**: 1
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
