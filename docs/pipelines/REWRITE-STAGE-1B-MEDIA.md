@@ -123,6 +123,7 @@ upstream_canonical:
 **來源優先序**（2026-05-09 fair use scope 升級後）：
 
 1. **官方機構釋出 PD**（NASA / 政府開放資料 / NMTH）— 完全免授權追問，cache 即可
+   - **台灣政府資料開放授權 OGDL-Taiwan-1.0**（客委會、文化部、各部會上傳 Commons 的官方紀錄照常標此授權）— 允收，跟 CC BY 4.0 相容（[條款](https://data.gov.tw/license)明寫），**但不是 PD**：跟第 3 層一樣要在文末「## 圖片來源」標機關名 + OGDL-Taiwan-1.0 + link。2026-09-05 收白名單時執行手把允收清單縮成「CC BY／CC BY-SA／CC0／公有領域」四種，把本層漏掉了（苗栗縣桐花祭 hero 因此被拿掉），OBSERVER-QUEUE #50 到期預設 2026-09-17 明列回來
 2. **Wikimedia Commons CC0 / PD** — cache 即可
 3. **Wikimedia Commons CC BY / CC BY-SA** — 必須在文末「## 圖片來源」標 author + license + link
 4. **Flickr CC BY / CC BY-SA** — 同上
