@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T15:17:28+08:00",
-    "zhCommitHead": "7aa3ddfbd",
+    "lastUpdated": "2026-09-17T15:41:36+08:00",
+    "zhCommitHead": "53a92b98f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1018,
+        "fresh": 1019,
         "stale": 65,
         "metadata_stale": 11,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "es": {
@@ -36839,7 +36839,18 @@
           "reason": "footnote-loss (48→35)"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Art/matsu-biennial.md",
+          "translatedFrom": "Art/馬祖國際藝術島.md",
+          "sourceCommitSha": "cb75c0402",
+          "sourceContentHash": "sha256:799ca5362c21601f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-17T07:18:00.553304+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -147441,8 +147452,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a92b98",
+          "translationLastModified": "2026-09-17T15:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -153124,8 +153135,8 @@
           "sourceContentHash": "sha256:c8f833e6836a370f",
           "sourceBodyHash": "sha256:26c6e79fd91efe41",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a92b98",
+          "translationLastModified": "2026-09-17T15:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -170472,8 +170483,8 @@
           "sourceContentHash": "sha256:cf4dac7e87ac0ec6",
           "sourceBodyHash": "sha256:05bcbb3170c3536a",
           "translatedAt": "2026-09-17T06:43:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a92b98",
+          "translationLastModified": "2026-09-17T15:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
