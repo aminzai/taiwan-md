@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-17T12:22:44+08:00",
-    "zhCommitHead": "d805b142f",
+    "lastUpdated": "2026-09-17T12:27:39+08:00",
+    "zhCommitHead": "4a779f763",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1004,
-        "stale": 72,
+        "fresh": 1005,
+        "stale": 71,
         "metadata_stale": 14,
         "missing": 31,
         "orphan": 0
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 989,
+        "fresh": 990,
         "stale": 78,
         "metadata_stale": 18,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       },
       "vi": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 241,
+        "missing": 240,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 63,
+        "missing": 62,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 739,
+        "fresh": 740,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 375,
+        "missing": 374,
         "orphan": 0
       }
     },
@@ -5992,7 +5992,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-electronic-music-and-party-culture.md",
+          "translatedFrom": "Music/台灣電子音樂與派對文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:0beb5fc8433a2c70",
+          "sourceBodyHash": "sha256:b7a689926177f96c",
+          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8119,7 +8130,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/advantech-technology.md",
+          "translatedFrom": "Economy/台灣企業：研華科技.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:73894dd98c9e1eee",
+          "sourceBodyHash": "sha256:96e60be7abecd0c6",
+          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/advantech-technology.md",
@@ -93052,8 +93074,8 @@
           "sourceContentHash": "sha256:03fd31754989ad8f",
           "sourceBodyHash": "sha256:f9337f3e9a513dcd",
           "translatedAt": "2026-09-17T06:43:38+08:00",
-          "translationLastCommit": "b72b2e51",
-          "translationLastModified": "2026-08-04T15:23:23+08:00",
+          "translationLastCommit": "4a779f76",
+          "translationLastModified": "2026-09-17T12:22:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -126105,7 +126127,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/hsinchu-rice-noodles.md",
+          "translatedFrom": "Food/新竹米粉.md",
+          "sourceCommitSha": "1200bee75",
+          "sourceContentHash": "sha256:64f19c58057c504d",
+          "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
+          "translatedAt": "2026-09-17T06:43:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -149688,8 +149721,8 @@
           "sourceContentHash": "sha256:1c4df7a1034d9237",
           "sourceBodyHash": "sha256:decacb8f3924c150",
           "translatedAt": "2026-09-17T01:18:20.803816+00:00",
-          "translationLastCommit": "e89394a4",
-          "translationLastModified": "2026-07-28T09:19:57+08:00",
+          "translationLastCommit": "4a779f76",
+          "translationLastModified": "2026-09-17T12:22:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -154872,16 +154905,16 @@
         "en": {
           "path": "en/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:2cef849f8ebc6df7",
-          "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-08-04T16:42:08+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:833f85e006d23e04",
+          "sourceBodyHash": "sha256:fa90458e0d20dada",
+          "translatedAt": "2026-09-17T06:43:34+08:00",
           "translationLastCommit": "9249bca5",
           "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (13→0)"
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/tadian-mountain.md",
@@ -166264,7 +166297,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-17T06:43:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/yanshui-beehive-fireworks.md",
