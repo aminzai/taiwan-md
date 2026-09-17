@@ -79,6 +79,27 @@ TAG_PATTERNS: dict[str, list[str]] = {
 }
 
 
+def _trace_refs() -> list[str]:
+    """要掃的 git ref：本機 HEAD ∪ origin/main（後者只在 ref 已 fetch 存在時加入）。
+
+    2026-09-17 maintainer-am 補 origin/main：本機 main 與 origin 真分岔期間（OBSERVER-QUEUE
+    #56），routine 可能在 origin/main worktree 上跑完、memory 直接進 origin，本機 main 永遠
+    收不到那個 commit。09-16 maintainer 就是這樣跑的（`a15603762` 只在 origin），本工具只掃
+    本機 `git log` 便對它回報「零 git 痕跡」→ 沉默死亡黃燈掛了一整天，而 routine-status.sh
+    早就是「本機 ∪ origin/main」雙視角。同一個問題兩把尺兩種答案（REFLEXES #83）；
+    這條跟 09-14 的飛輪漏拍告警同病：尺量的是 main，而產出不在這棵 main 上。
+    不強制連網——用的是已 fetch 的 ref，沒有就只掃 HEAD。
+    """
+    refs = ["HEAD"]
+    probe = subprocess.run(
+        ["git", "rev-parse", "--verify", "--quiet", "origin/main"],
+        cwd=REPO_ROOT, capture_output=True, text=True, check=False,
+    )
+    if probe.returncode == 0:
+        refs.append("origin/main")
+    return refs
+
+
 def _git_subjects(since: datetime, until: datetime) -> list[str]:
     """每個 commit 一行：`<hash> <subject> | <改到的 memory 檔名>`。
 
@@ -89,32 +110,41 @@ def _git_subjects(since: datetime, until: datetime) -> list[str]:
     黃燈掛了兩天而 routine 明明跑完了。memory 檔名帶 handle 是 MEMORY-PIPELINE 的 canonical
     命名（`YYYY-MM-DD-HHMMSS-{handle}.md`），比 commit 標題可靠；subject 仍保留給
     沒寫 memory 只 ship 的 routine。同族：LESSONS `routine-audit-classifier-memory-commit-misattribution`。
-    """
-    out = subprocess.run(
-        [
-            "git", "log",
-            f"--since={since.isoformat()}",
-            f"--until={until.isoformat()}",
-            "--pretty=format:@@%h %s",
-            "--name-only",
-        ],
-        cwd=REPO_ROOT, capture_output=True, text=True, check=False,
-    )
-    lines: list[str] = []
-    cur: str | None = None
-    mem: list[str] = []
 
-    def _flush() -> None:
-        if cur is not None:
+    2026-09-17 起掃 `_trace_refs()` 的聯集（本機 HEAD ∪ origin/main），同 hash 去重。
+    """
+    lines: list[str] = []
+    seen: set[str] = set()
+    for ref in _trace_refs():
+        out = subprocess.run(
+            [
+                "git", "log", ref,
+                f"--since={since.isoformat()}",
+                f"--until={until.isoformat()}",
+                "--pretty=format:@@%h %s",
+                "--name-only",
+            ],
+            cwd=REPO_ROOT, capture_output=True, text=True, check=False,
+        )
+        cur: str | None = None
+        mem: list[str] = []
+
+        def _flush() -> None:
+            if cur is None:
+                return
+            h = cur.split(" ", 1)[0]
+            if h in seen:
+                return
+            seen.add(h)
             lines.append(cur + (" | " + " ".join(mem) if mem else ""))
 
-    for raw in out.stdout.splitlines():
-        if raw.startswith("@@"):
-            _flush()
-            cur, mem = raw[2:], []
-        elif raw.strip() and cur is not None and raw.startswith("docs/semiont/memory/"):
-            mem.append(raw.rsplit("/", 1)[-1])
-    _flush()
+        for raw in out.stdout.splitlines():
+            if raw.startswith("@@"):
+                _flush()
+                cur, mem = raw[2:], []
+            elif raw.strip() and cur is not None and raw.startswith("docs/semiont/memory/"):
+                mem.append(raw.rsplit("/", 1)[-1])
+        _flush()
     return [l for l in lines if l.strip()]
 
 

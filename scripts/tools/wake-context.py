@@ -27,6 +27,7 @@ evolution-2026-07-11.md）。本儀器的四條設計原則：
 import argparse
 import datetime as dt
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -217,6 +218,18 @@ def sec_handoff():
     return ("\n\n".join(out) if out else "（walk 範圍內無 Handoff 段——見 selftest）"), meta
 
 
+def _bash_bin():
+    """在 Windows 偏好 Git bash 避開 WSL bash 跨 9P 檔案系統的 60s+ 逾時。"""
+    if sys.platform == "win32":
+        git = shutil.which("git")
+        if git:
+            for cand in (Path(git).parents[1] / "bin" / "bash.exe",
+                         Path(git).parents[1] / "usr" / "bin" / "bash.exe"):
+                if cand.is_file():
+                    return str(cand)
+    return "bash"
+
+
 def sec_groundtruth():
     """委派既有 L4 儀器；任一缺席 fail-loud 記進輸出。
 
@@ -230,11 +243,12 @@ def sec_groundtruth():
     """
     chunks = []
     meta = {"parallel_status": None, "behind": None}
-    for cmd in (["bash", "scripts/tools/consciousness-snapshot.sh"],
-                ["bash", "scripts/tools/routine-status.sh"],
-                ["bash", "scripts/tools/inbox-signal.sh"],
-                ["python3", "scripts/tools/observer-presence.py"],
-                ["bash", "scripts/tools/lib/check-parallel-actor.sh"]):
+    bash = _bash_bin()
+    for cmd in ([bash, "scripts/tools/consciousness-snapshot.sh"],
+                [bash, "scripts/tools/routine-status.sh"],
+                [bash, "scripts/tools/inbox-signal.sh"],
+                [sys.executable, "scripts/tools/observer-presence.py"],
+                [bash, "scripts/tools/lib/check-parallel-actor.sh"]):
         is_parallel = cmd[-1].endswith("check-parallel-actor.sh")
         try:
             r = subprocess.run(cmd, cwd=REPO, capture_output=True, text=True, timeout=60)
@@ -431,7 +445,7 @@ def main():
     file_text = payload + sentinel + "\n"
 
     LATEST_FILE.parent.mkdir(exist_ok=True)
-    LATEST_FILE.write_text(file_text, encoding="utf-8")
+    LATEST_FILE.write_bytes(file_text.encode("utf-8"))
     written = LATEST_FILE.stat().st_size
     expected = len(file_text.encode("utf-8"))
     if written == expected:

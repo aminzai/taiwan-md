@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-16 twmd-maintainer-am — unpushed-divergence-silently-redirects-volunteer-effort：分岔不只是待解的合併債，它每天在把貢獻者的工時導向已經做完的工作
+
+- **pattern**: `unpushed-divergence-silently-redirects-volunteer-effort`
+- **原則**：當本機產出因為分岔推不上 origin，外界看到的缺口圖就是**舊的**。任何照著那張圖挑工作的人——尤其是照著站上「還沒翻譯」清單挑的貢獻者——會挑到已經做完、只是還沒推上去的那些。分岔在內部帳上是「N 個檔案待裁決」，在外部是「有人正在免費重做我們已經做完的事，而且沒有人會告訴他」。兩種成本的量綱不同：前者可以等，後者每天都在燒別人的時間，而且燒掉的是這個專案最稀缺、最不可再生的資源（自願來的人的熱情）。
+- **觸發**：2026-09-16 maintainer-am 收三個 aminzai 的翻譯 PR。逐路徑對賬發現 **#1735（id/新竹都城隍廟）與 #1736（hi/桃園埤塘）落點，本機 babel 早在 09-09 就譯好了**，只是住在推不出去的 590 個 commit 那一側。往回查上一輪（09-14）已 merge 的十篇，**4/10 在本機有一份獨立譯文**（es/蔡瑞月、id/台灣開源精神、de/野柳、vi/廢棄遊樂園），內容與 origin 版不同。也就是說這位貢獻者近兩天的翻譯裡，大約有四到六成是重工。
+- **跟 OBSERVER-QUEUE #56 的關係**：#56 記的是「118 篇雙邊獨立譯文待哲宇取捨」，量的是**待裁決的檔案數**。本條指出同一個分岔還有第二個出口，而那個出口沒有被計量：**它每天新增雙邊譯文，其中一部分是貢獻者的手工**。#56 的急迫性因此不只是「檔案越積越多」，是「拖越久，越多人的義工時間被導到已完成的位置」。本輪又 +2（#1735/#1736 merge 後成立），這兩篇是有人親手翻的。
+- **為什麼閘門看不到**：`_translations.json`、lang-sync status、站上缺口圖全部只有一個真相來源，而本機與 origin 現在是兩個真相。今天做的 slug 一致性檢查兩邊都查了才發現撞車（承 09-14 `same-language-slug-collision-is-invisible-to-both-instruments` 的修法），但那是**人記得要查兩邊**，不是有東西在守。沒有任何一道檢查在問「我對外公布的缺口，跟我實際的缺口是同一份嗎」。
+- **修補（未做，命中 §自主權邊界）**：真正的解是把分岔收掉，那是 #56 等哲宇拍板的四紅線外但 >50 檔的裁決，不自主代理。可先做、成本低的兩件：(a) 對外的翻譯缺口清單改成「origin ∪ 未推送分支」的聯集，讓貢獻者至少看得到「這篇有人做了」；(b) maintainer 收翻譯 PR 時把雙邊路徑對賬變成**必跑的一步**（今天是手動想到才查），撞車時在 merge 留言裡告訴對方，別讓他下一篇又挑到同一格。
+- **另記（同輪，不另開條目）**：本輪為了量化這件事臨時寫的 MoE 辭典查詢腳本，正則沒對上頁面實際的 `找到正文<cb>N</cb>則` 標記，25 條全部靜默回 0，差一步就把「0/25」當發現寫進 PR。抓到它的不是任何閘門，是我剛好知道「簽名」不可能查不到。**cycle 內臨時造的尺不繼承 repo 既有儀器的 fail-loud 紀律**（canonical 儀器都有 selftest，臨時腳本沒有）——這是 REFLEXES #24／#38(g) 在「一次性測量」上的再驗證，不是新 pattern，記在這裡供 distill 判斷要不要給臨時測量也立一條最低自驗要求（至少對一個已知正例回歸一次）。
+- **可能層級**：折進 [REFLEXES #82](REFLEXES.md)（proxy signal——對外公布的缺口是真實缺口的替身）或 [#38](REFLEXES.md)（同一份「缺口」讀數混了兩種根因：真的沒人做 vs 做了推不上去）。
+- **相關**：OBSERVER-QUEUE #56、LESSONS `same-language-slug-collision-is-invisible-to-both-instruments`、`divergence-warning-is-tree-level-not-per-file`、REFLEXES #82、#38、#16
+- **verification_count**: 1（首次量化；分岔本身的其他病徵已在 09-14 兩條記過）
+- **severity**: structural（不報錯、不變紅；成本落在專案外部的人身上，所以內部所有儀器都不會痛）
+
+### 2026-09-15 twmd-maintainer-am — named-entity-present-but-in-a-different-role：來源裡真的有那個名字，只是它講的是另一件事
+
+- **pattern**: `named-entity-present-but-in-a-different-role`
+- **原則**：查核一條腳註撐不撐得起正文，最容易機械化的動作是拿正文的專有名詞去搜來源頁。這個動作對「來源查無此人」有效，對本條這種錯誤**剛好相反——它會回報命中，然後替錯誤蓋章**。
+- **觸發**：`knowledge/People/馬英九.md` `[^3]` 寫「1981 年由錢復推薦進總統府擔任蔣經國英文翻譯」，掛中央社那篇。昨天的維護班抽驗後在 issue #1729 寫「全文沒有『1981』、沒有『錢復』、沒有『推薦』」。今天覆驗發現**錢復有出現**：「當時的駐美代表錢復在回國開會時也力勸蔣經國解嚴」——同一個人、同一篇報導、完全不同的事。「1981」與「推薦」確實沒有，所以原判斷的結論（這條撐不起來）是對的，但它給的理由有一半是錯的。
+- **為什麼這個差別重要**：如果照「來源沒提到這個人」去造檢查器，寫出來的會是「拿正文人名 grep 來源頁，零命中就報警」。這條會通過那道檢查，因為名字在。要抓它得讀懂那個名字在來源裡**扮演什麼角色**，而角色是語意不是字串——這正好落在 [MANIFESTO §14](MANIFESTO.md)「能機械化的交給儀器、需要判斷的留給判斷」的分界線上，而且是分界線的判斷那一側。昨天之所以抓到，是因為人真的把整篇讀完了。
+- **同批第二種形狀（同一則 issue，已確認）**：`[^31]` 自由亞洲電台那條是場合錯置＋偽造直接引語——來源寫的是回憶錄自序，母稿寫成東吳大學演講，引號裡的字也不是報導原文。這一種現有紅旗（MANIFESTO §10 第 3、4 型）已經編目，本條記的是第一種。
+- **可能層級**：[REFLEXES #82](REFLEXES.md) proxy signal 家族——「人名有沒有出現」是「這句話有沒有被支持」的替身。也接 [#75](REFLEXES.md)「Read ≠ verify」：讀到了、搜到了，都不等於驗過。
+- **候選修法**：(a) 查核腳註時，抓到人名命中要再問一句「它在來源裡做的是這件事嗎」，把這句寫進 FACTCHECK 的 verifier prompt（不是寫成 regex）；(b) 若要儀器輔助，能做的只到「把命中的那句連同前後文撈出來給人看」，不能做到判定；(c) 這條的對象是在世政治人物，錯誤成本偏高，屬 FACTCHECK Full mode 優先掃描的類別。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[Issue #1729](https://github.com/frank890417/taiwan-md/issues/1729) / ARTICLE-INBOX P0「馬英九 FACTCHECK Full」/ [MANIFESTO §10](MANIFESTO.md) 幻覺六型 / LESSONS `adding-a-live-url-to-an-unverifiable-quote-looks-like-an-upgrade`（2026-09-04，同樣是「引文與網址的關係看起來成立但不成立」的另一種形狀）
+
 ### 2026-09-10 twmd-maintainer-am — pipeline-requeues-what-a-contributor-is-already-translating：產線的待翻佇列看不見開著的投稿 PR，於是跟投稿者搶同一篇
 
 - **pattern**: `pipeline-requeues-what-a-contributor-is-already-translating`

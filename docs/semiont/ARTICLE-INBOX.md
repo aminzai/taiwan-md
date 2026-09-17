@@ -174,6 +174,24 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 馬英九 FACTCHECK Full — 兩條媒體腳註撐不起正文，且已逐字翻進 12 語
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/馬英九.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-14 by twmd-maintainer-am（issue #1729）；2026-09-15 by twmd-maintainer-am 覆驗後登記進 INBOX
+- **Notes**:
+  - **已覆驗兩條，結論與開票時略有出入**（2026-09-15 重跑，不是照抄 issue 內文）：
+    - `[^31]` 自由亞洲電台：**確認錯得最重**。該報導寫的是 2018-12-20 出版的回憶錄自序，不是東吳大學演講；文中唯一與「罪人」有關的原話是「那些讓台灣停滯不前的罪人啊」，母稿引號內那句「有些自以為愛台灣是害死台灣⋯⋯他們是台灣的罪人」不在裡面。場合錯置＋偽造直接引語同時命中，且對象是在世政治人物。
+    - `[^3]` 中央社：**issue 說「全文沒有錢復」這句話是錯的**。錢復出現在該篇，但講的是他當時任駐美代表、回國開會時力勸蔣經國解嚴——跟「推薦馬英九進總統府」無關。「1981」與「推薦」確實沒有。所以這條的病不是「來源沒提到這個人」，是**同名不同事的張冠李戴**，比單純查無此人更難用關鍵字掃出來。
+  - **建議處置**（照 MAINTAINER §Step 3.4 降階處理）：`[^31]` 去引號改敘述並改述回憶錄自序，或另尋東吳演講的原始報導；`[^3]` 拿掉「1981 年由錢復推薦」這兩個具體細節，保留可查證的「曾任蔣經國英文秘書／翻譯解嚴宣告」。
+  - **抽樣是 2/2 不是 2/43**：43 條腳註多數為維基，這兩條是抽到的媒體來源。真實錯誤率未知，需對全部非維基腳註跑 FACTCHECK Full。
+  - **擴散面**：12 語譯本逐字照搬，母稿改完要讓 babel 重譯（改 zh 會更新 sourceContentHash，stale 偵測會自己接上，但在那之前錯的引語在 12 語都還在線上）。
+  - **為什麼維護班不自己改**：政治人物條目的實質內容修改同時命中 §自主權邊界（政治立場）與「改 zh SSOT 走 REWRITE」兩條邊界；`[^31]` 要決定的是「去引號」還是「換來源」，屬呈現方式判斷。維護班只做覆驗與落檔。
+- **Reference**: [Issue #1729](https://github.com/frank890417/taiwan-md/issues/1729)
+
 ### 生態多樣性 EVOLVE — 三月薄文補遊蕩犬貓威脅，接住讀者 issue #1678
 
 - **Type**: `EVOLVE`
@@ -272,8 +290,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - 一句話核心張力：投稿者已經補完死碼問題（`src/pages/exams.astro` 補進來，模板不再是孤兒），技術面已經不卡；卡的是骨架背後七張人物卡目前只有維基與百度百科撐著，開站要先把地基換成台灣自己的一手來源
   - merge PR #1453 後要做：十二語 `src/pages/{lang}/exams.astro`（現況只有中文讀得到，因為 `getLangFromUrl` 靠網址前綴）、UI 字串補齊、URL 契約修正（模板註解寫 `/exams/gsat/` 但實際建出 `/exams/`）、策展骨架參照來源換成大考中心／教育部／報導者等一手來源、七張人物卡各補一則第三方報導連結（PR #1453 留言已列缺口）
+  - **站內入口（2026-09-13 maintainer-am 補登，原清單漏了這件）**：`src/components/Header.astro` 導覽列目前八項（about／explore／map／data／soundscape／resources／semiont／contribute）沒有 exams，全 repo 指向 `/exams` 的連結只有它自己的模板。頁面自 2026-09-10 02:52 起已部署且在 sitemap 裡，但**讀者要先知道網址才進得去**。沒有入口的區段在讀者那端跟沒開站幾乎沒有差別，所以這件事屬於「開站」本身，不是開完之後的加分項。放哪個位置／叫什麼名字／十三語 UI 字串，照 §自主權邊界屬資訊架構與品牌面，由本 feature session 連同上面幾項一起帶給哲宇定，不各自分開問
   - 由獨立 feature session 做，不進一般文章 REWRITE-PIPELINE 產線
-- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)
+- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)、[Discussion #1704](https://github.com/frank890417/taiwan-md/discussions/1704)（投稿者 idlccp1984 問「為什麼沒發佈」，真正的答案是沒有入口）
 
 ### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
 
@@ -927,7 +946,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 **Tier A — 高知名度 × 嚴重單薄（12 篇，優先）**:
 
-- [ ] [洪醒夫](../../knowledge/People/洪醒夫.md) — 697 字／0 腳註／2026-03-27／首作者 idlccp02
+- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,077 字／11 腳註／2026-09-12 深度重寫完成，2026-09-13 事實查核 heal（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
 - [ ] [何飛鵬](../../knowledge/People/何飛鵬.md) — 1023 字／0 腳註／2026-03-26
 - [ ] [葉丙成](../../knowledge/People/葉丙成.md) — 889 字／3 腳註／2026-03-20
 - [ ] [江蕙](../../knowledge/People/江蕙.md) — 1592 字／0 腳註／2026-03-28／首作者 idlccp02

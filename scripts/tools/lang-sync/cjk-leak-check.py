@@ -268,10 +268,24 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     "vi": r"Tài liệu tham khảo|Đọc thêm|Nguồn Hình Ảnh",
     "id": r"Referensi|Bacaan Lanjutan|Sumber Gambar",
     "pt": r"Referências|Fontes das imagens|Leitura adicional",
-    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)",
+    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)|(?:छवि|चित्र)\s*स्रोत",
     "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
-    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение",
-    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)",
+    # 2026-09-15: hi 與 ru 補上圖片出處／參考資料標題（跟 #1731 的 de 同一個家族）。
+    # 數字取自 origin/main 實際譯文：hi 有 44 篇 `## छवि स्रोत` + 17 篇 `## चित्र स्रोत`，
+    # ru 有 99 篇 `## Источники изображений` + 41 篇 `## Источники`，三種都不在原表裡，
+    # 於是這些區塊的 CJK（攝影者署名、原始書名、機構原名）全被當正文 leak。ru 全庫實測
+    # 正文 leak 46 → 10，剩下的 10 筆都是真的（引述 PRC 模型的拒絕答覆、校名原文、論語引文）。
+    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение|Источники(?:\s+изображений)?",
+    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)|(?:Bild(?:er)?|Foto(?:s)?|Video|Medien)[- ]?(?:quellen?|nachweise?|rechte|credits?)",
+    # 2026-09-14: de 加上 Bildnachweise／Bildquellen／Bildnachweis（en 有
+    # „Image Sources"，de 缺同等的圖片出處標題變體，照片授權行裡的正體中文
+    # 攝影者署名（如 迷惘的人生）被當成正文 CJK leak 誤報——與 image_health.py
+    # 已認得的 de 圖片出處標題家族一致。
+    # 2026-09-16（#1731 follow-up）：補上連字號複合詞 Bild-Quelle／Bild-Quellen
+    # 與 Fotonachweis／Videonachweis／Bilderquelle（image_health.py 的 de 家族
+    # 收 bild|bilder|foto|fotos|video|medien 前綴，且用 [- ]? 承接——本表原先
+    # 只收無連字號的 Bildquellen/Bildnachweise，`## Bild-Quelle` 標題下的照片
+    # 授權行會被誤掃成正文 leak）。
 }
 # zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
 _ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
