@@ -210,6 +210,8 @@ function main() {
 
   // Per-page estimate: 用最新 build 的 build_step_seconds / page_count
   // (page_count 跨 runs 是動態的，最簡化估法)
+  // 標籤跟判斷共用同一個數字——2026-06-13 收緊 200→50 後印出的字樣一直留在 200
+  const MS_PER_PAGE_THRESHOLD = 50;
   let msPerPage = null;
   if (currentPageCount && metrics[0]?.build_step_seconds) {
     msPerPage = Math.round(
@@ -233,7 +235,7 @@ function main() {
       // 新 baseline 是 Build step 125s / 8,437 頁 ≈ 15ms/頁；50ms = 3.3×
       // headroom，能在「per-render scope 放昂貴操作」這類 bug 重生時第一個
       // build 就翻黃旗（舊閾值 200 要劣化 13× 才會叫）。
-      flag_slow: msPerPage != null && msPerPage > 50,
+      flag_slow: msPerPage != null && msPerPage > MS_PER_PAGE_THRESHOLD,
     },
     trend: metrics.map((m) => ({
       run_id: m.run_id,
@@ -253,7 +255,7 @@ function main() {
   );
   console.log(`   → 30d avg:      ${output.summary.avg_build_seconds_30d}s`);
   console.log(
-    `   → ms/page:      ${output.summary.ms_per_page_latest ?? 'n/a'} ${output.summary.flag_slow ? '⚠️  > 200ms threshold' : ''}`,
+    `   → ms/page:      ${output.summary.ms_per_page_latest ?? 'n/a'} ${output.summary.flag_slow ? `⚠️  > ${MS_PER_PAGE_THRESHOLD}ms threshold` : ''}`,
   );
 
   return 0;

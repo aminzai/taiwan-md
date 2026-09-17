@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-16T22:15:46.013Z",
+  "lastUpdated": "2026-09-17T22:14:21.559Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 5,
+  "count": 4,
   "alerts": [
     {
       "id": "organ-heart",
@@ -29,17 +29,9 @@
       "firstSeen": "2026-09-12"
     },
     {
-      "id": "routine-silent-twmd-maintainer-daily",
-      "severity": "yellow",
-      "message": "routine twmd-maintainer-daily 沉默死亡：2026-09-15T00:39 fire 後 45.6h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-maintainer-daily",
-      "firstSeen": "2026-09-15"
-    },
-    {
       "id": "observer-absent",
       "severity": "yellow",
-      "message": "觀察者缺席 10 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
+      "message": "觀察者缺席 11 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
       "source": "observer-presence.py",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-09-13"
