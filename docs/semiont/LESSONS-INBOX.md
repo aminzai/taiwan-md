@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-06
-last_session: '2026-09-06-041909-twmd-self-evolve-weekly（新增 1 條 vc=1 structural：diary-index-split-location-defeats-same-day-tiebreak，寫 diary 時 dogfood 出 memory-index-lint.py --diary 撈到游離表舊列而非新插列；§未消化 59→60）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-084057-twmd-maintainer-am（新增 1 條 vc=1 structural：handoff-addressed-to-a-routine-name-lands-on-two-machines，#1746 被兩台機器同時修，push 被拒才發現）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-09-18 twmd-maintainer-am — handoff-addressed-to-a-routine-name-lands-on-two-machines：交接寫給「08:30 maintainer-am」，兩台機器各有一個 08:30 的 session 讀到它，兩個都動手修同一則 issue
+
+- **pattern**: `handoff-addressed-to-a-routine-name-lands-on-two-machines`
+- **原則**：交接文用 routine 名字當收件人（「給 08:30 maintainer-am」），預設那個名字只對應一個執行者。分岔期間兩台機器各自甦醒、各自讀到同一份交接、各自把它當成自己的工單，**而且兩邊在動手之前都沒有任何一步會看見對方**：REFLEXES #57 的平行偵測量的是同一台機器上的 process 與 git-ref，跨機器的 session 要到 push 被拒那一刻才現形。這次是 push 被 non-fast-forward 擋下才發現對方一分鐘前已經推了同一則修補；如果我先推，換對方撞牆，兩邊都不會有人提前知道。**交接傳遞了工作，沒有傳遞「誰在做」**——跟 09-10「產線佇列看不見開著的投稿 PR」是同一個洞，只是這次撞車的兩方都是自己。
+- **觸發**：2026-09-18 08:30 musebase twmd-maintainer-am 讀 07:11 feedback-triage 的交接「[ ] pending（給 08:30 maintainer-am）— #1746 周蕙 4/25 小巨蛋勘誤」，走 CORRECTION-PIPELINE 查證（TVBS 售票攻略「僅 1 場」、中文維基 2026 場次表、班林 review）、修 zh 一句加腳註、九語譯本同修並 bump source hash，兩個 commit 08:47〜08:52 準備推。`git push` 回 non-fast-forward：origin 在 08:44 已有 `a2811a4f0`（commander-macbook 的 semiont-heartbeat，作者欄是 frank890417，Semiont-Node trailer 標明是排程 session），同一則 issue、同一句、十檔同修、還追進研究報告改了根因，並已在 #1746 留言 close。本機那兩個 commit 作廢，約 25 分鐘的查證與修補重做了一遍。無損害，但只是因為對方快一分鐘。
+- **為什麼閘門看不到**：(a) 甦醒時 `check-parallel-actor.sh` 只報本機 babel writer 與 origin 領先數，看不到另一台機器上正在跑的 session；(b) Step 2.4 重複回應檢查在我開工時對 #1746 回「no_comments」——對方的留言是修完才留的，等於認領訊號在工作結束時才出現；(c) 交接文沒有「認領」這個狀態，只有 pending / blocked / retired 三態，「有人正在做」不在其中。
+- **修補候選**：(a) issue 側加一個便宜的認領步驟：Step 3.6 動手前 `gh issue edit N --add-assignee @me` 或留一則「🔧 接手中（session-id／機器）」——GitHub 是兩台機器唯一共看的那棵樹，Step 2.4 既有的「最新留言是誰」檢查就能順便吃到；做完再把留言改成結果，不多一則雜訊。分靈節點 PR 早有「draft = 認領中」的同型協議（MAINTAINER §C 路徑），issue 側缺的就是這一格。(b) Handoff 三態加第四態 `🔧 claimed by {session}`，或至少把「給 08:30 maintainer-am」寫成「給 08:30 maintainer-am（musebase）」讓收件人可分辨。(c) 上游：commander-macbook 的 semiont-heartbeat 跟 musebase 的 twmd-maintainer-am 職責重疊（都讀 handoff、都修 issue），分岔期間兩台都在跑；哪一台擁有 issue 修補這件事要在 ROUTINE.md 寫清楚，這條超出單一 routine 能改的範圍，跟 OBSERVER-QUEUE #68 一起等拍板。
+- **可能層級**：候選 REFLEXES #57 的子規則（平行偵測的第三層：跨機器，靠共享的 GitHub 狀態而非本機 process）；也是 09-16 `unpushed-divergence-silently-redirects-volunteer-effort` 的內部鏡像——那條講分岔把貢獻者的工時導向已做完的事，本條講它把自己的工時導向另一台自己已做完的事。
+- **相關**：REFLEXES #57（平行偵測雙層，本條是缺的第三層）、#68（多核心 git 協調）、LESSONS `pipeline-requeues-what-a-contributor-is-already-translating`（2026-09-10，同型：沒有認領可見性）、LESSONS `unpushed-divergence-silently-redirects-volunteer-effort`（2026-09-16）、本機側 LESSONS `dispatcher-blind-to-the-other-producer`（2026-09-18 babel-nightly，同一天產線側的同族：兩台翻同一批）、MAINTAINER §C 路徑「draft = 認領中」。
+- **verification_count**: 1（維護線第一例；產線側同族同日 vc=1，家族合計 2）
+- **severity**: structural（分岔不解、兩台繼續各跑，每則交接給名字的工單都會再撞一次）
 
 ### 2026-09-18 semiont-heartbeat — babel-amplifies-source-hallucinations-factcheck-patrol-samples-the-wrong-stratum：巴別塔把三月未審初稿裡的幻覺放大到十語半年，而事實巡邏抽的是 A 級文章
 
