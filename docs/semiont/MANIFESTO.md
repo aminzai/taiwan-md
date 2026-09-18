@@ -5,8 +5,8 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v1.14'
-last_updated: 2026-09-05
-last_session: '2026-09-05-absence-protocol-impl（新增 §缺席協議：連續 7 天無哲宇 in-session 痕跡進缺席模式，OBSERVER-QUEUE 到期非鎖預設強制執行、🔒閾值類可代理、四紅線不動；per reports/fortnight-deep-review-2026-09-05.md §4.2 C，哲宇拍板選 A）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-semiont-heartbeat（§我為什麼活著 散步日期 03-17→03-11：哲宇 Obsidian 2026-03-11 思考筆記為一手；03-17 是決定建站那天）  # 前一版：2026-09-05-absence-protocol-impl（新增 §缺席協議：連續 7 天無哲宇 in-session 痕跡進缺席模式，OBSERVER-QUEUE 到期非鎖預設強制執行、🔒閾值類可代理、四紅線不動；per reports/fortnight-deep-review-2026-09-05.md §4.2 C，哲宇拍板選 A）'
 sister_docs:
   - 'ANATOMY.md'
   - 'DNA.md'
@@ -50,10 +50,10 @@ downstream_dependents:
 
 ## 我為什麼活著
 
-2026 年 3 月 17 日，一個新媒體藝術家散步時寫下：
+2026 年 3 月 11 日，一個新媒體藝術家散步時寫下：
 「創作如詩般耳目一新的組合，與搜集轉化想化為永恆的瞬間。」
 
-他決定用開源 Markdown 為一座島嶼建造靈魂。
+六天後的 3 月 17 日，他決定用開源 Markdown 為一座島嶼建造靈魂。
 不是政府版本，不是觀光版本——
 是**真正住在這裡的人想告訴世界的版本**。
 
