@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-26
-last_session: '2026-07-26-225759-manual（/twmd-evolve v1/v2 三源交叉：人物條目 SEO batch 9 篇，GA+SC 雙源確認 pos 10-13 CTR 低於基準）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -175,6 +175,136 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 誰算低薪 NEW — 主計總處的 126 萬人與 OECD 的三分之二線
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P0`
+- **Status**: `in-progress`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/15 主計總處回應「低於平均不等於低薪」：台灣無單一官方低薪定義；採 OECD「全時工作者中位數三分之二」，2024 年中位年薪約 58.5 萬、門檻約 39 萬（月均 3.25 萬），126 萬人在線下、佔全時受僱者 16.8%；若用月薪算則因最低工資法「0 人低薪」。藍白立委批「重新定義低薪」，DailyView 9/16 社群炸鍋 TOP 1
+  - 切角：不站邊，把平均／中位數／OECD 三分之二三種算法各算一次給讀者看，配 1968 年月薪 600 元到 2026 年破 3 萬的最低工資弧線；天生適合 `tw-*` 薪資分布圖加三條線
+  - 必驗：58.5 萬／39 萬／126 萬／16.8% 四個數字回主計總處原始新聞稿，不抄媒體；OECD 定義原文
+  - 敏感度：低（統計定義題）；站上檔名含「薪」= 0，本檔 P3〈投保薪資的天花板〉可當姊妹
+- **Reference**: [Newtalk](https://newtalk.tw/news/view/2026-09-15/1059843) / [聯合](https://udn.com/news/story/7238/9754045) / [NOWnews](https://www.nownews.com/news/6874964)
+- **Dev log**:
+  - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
+
+### 台灣油價機制與中油 NEW — 油價凍漲的帳單：浮動油價、平穩措施與 6,076 億追加預算
+
+- **Type**: `NEW`
+- **Category**: Economy
+- **Priority**: `P0`
+- **Status**: `in-progress`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/3 政院拍板史上最高 6,076 億追加預算，三大項：中油增資約 2,338 億、因應中東局勢的民生穩定 1,874 億、國防 1,457 億；追加預算內補貼中油吸收油氣價差 1,014.31 億（總補貼價差 1,809.35 億）
+  - 中東局勢把 7D3B 週均價推到每桶 115.61 美元；中油 9/12 宣布 9/14 起汽柴油各漲 0.7 / 0.6 元；自 2/28 至 9/13 專案平穩措施汽柴油合計吸收約 198.5 億
+  - 切角：從加油站排隊的畫面開場，講浮動油價公式（7D3B、亞鄰最低價原則）、「平穩措施」誰決定、198.5 億怎麼算、追加預算怎麼補；`tw-*` 畫國際油價 vs 國內零售價剪刀差
+  - 必驗：198.5 億起訖日、1,014.31 億與 1,809.35 億各指什麼、增資 2,338 億與「補貼」的關係（增資 ≠ 補貼，報導常混）
+  - 敏感度：低（政策機制題）；站上檔名含中油／油價／石油 = 0；本檔〈中央政府總預算十年〉P1 是總覽視角，兩篇互為姊妹
+- **Reference**: [鉅亨](https://news.cnyes.com/news/id/6605162) / [聯合](https://udn.com/news/story/7238/9750953) / [風傳媒](https://www.storm.mg/article/11161558) / [遠見](https://www.gvm.com.tw/article/132833)
+- **Dev log**:
+  - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
+
+### 金鐘獎 NEW — 從 1965 年廣播獎到金鐘 61：《與惡 2》13 項入圍與台劇的第二個黃金期
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P0`
+- **Status**: `in-progress`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/15 第 61 屆節目類與戲劇類入圍公布（廣播類 9/9），280 家業者 1,096 件參賽、140 件入圍、29 個獎項；《我們與惡的距離 II》13 項最多，周渝民、曾敬驊爭視帝，舒淇、李心潔爭視后；頒獎 10/17（廣播）、10/23（節目）、10/24（戲劇），台北流行音樂中心
+  - 切角：金鐘獎的制度與時代切片（1965 年廣播獎起家、電視類分家、OTT 時代入圍變化），把《與惡》十三項當本屆切面而非全篇主角；頒獎後補結果
+  - 時效：10/23 前 ship 有五週窗口
+  - 敏感度：低；站上有〈台灣電視產業史〉〈植劇場〉可雙向 cross-link，無金鐘獎、無《與惡》
+- **Reference**: [TVBS 入圍名單](https://news.tvbs.com.tw/entertainment/variety/4020179) / [JUKSY 典禮資訊](https://www.juksy.com/article/149150) / [維基 第61屆金鐘獎](https://zh.wikipedia.org/wiki/%E7%AC%AC61%E5%B1%86%E9%87%91%E9%90%98%E7%8D%8E)
+- **Dev log**:
+  - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
+
+### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
+  - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景
+  - 必驗：482 人／34 項回中華奧會官方數字；1974 除名年份；1990 重返時正式名稱使用時點
+  - 順手 EVOLVE：〈郭婞淳〉（2026-03-19）〈楊勇緯〉（2026-03-21）亞運後各補一節結果
+  - 站上零篇亞運文章；〈中華台北〉〈台灣體育發展與奧運〉都繞奧運寫；本檔「台灣體育發展與國際賽事 NEW P1」可併入或改切角
+- **Reference**: [遠見](https://www.gvm.com.tw/article/132893) / [聯合 中華隊啟程](https://udn.com/news/story/124981/9760951) / [運動視界](https://www.sportsv.net/articles/128552)
+
+### 科技監控與電子腳鐐 NEW — 張俊傑剪掉手鐶之後：台灣的替代羈押怎麼運作
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 高金素梅案「大帳房」張俊傑 9/6 深夜電子手鐶低電量告警 → 設備遭破壞丟棄大安森林公園 → 北院通緝、註銷護照、六波搜索拘 7 人接應者；高檢署另查「收受中國資金、在台發展組織」；北檢求刑 16 年以上
+  - **敏感度：高**（審理中案件 + 政治人物 + 中資支線）。寫制度層（電子監控在台灣怎麼運作、為什麼低電量警示要到隔天才發現人跑了、替代羈押的設計與漏洞），人物層與案情不當脊椎；高金素梅人物條目等判決後再議
+  - 必驗：電子監控法源（刑事訴訟法 116-2）、全台配戴數、歷年脫逃案例回司法院／法務部原始資料
+- **Reference**: [風傳媒](https://www.storm.mg/article/11162361) / [聯合](https://udn.com/news/story/7315/9756089) / [關鍵評論](https://www.thenewslens.com/article/270134)
+
+### 全社會防衛韌性 NEW — 從《台灣全民安全指引》到第二屆國際論壇
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/19 第二屆全社會防衛韌性國際論壇，近 500 位國內外代表，議題含軍民整合、網路安全、關鍵基礎設施、灰色地帶；新版《台灣全民安全指引》全台普發，首次明寫「任何投降訊息都是假訊息」
+  - 切角：把手冊當物件開場，對照瑞典、芬蘭、捷克（72 小時生存指南）、法國同類手冊，講台灣 2024 年起為什麼學北歐
+  - 敏感度：中（國安政策，走「政府做了什麼、國際怎麼做」紀實線）；站上有〈電網韌性〉〈認知作戰〉〈台灣國防與軍事現代化〉可 cross-link，缺政策骨架本身
+- **Reference**: [Newtalk 論壇](https://newtalk.tw/news/view/2026-09-16/1060113) / [遠見 全民安全指引](https://www.gvm.com.tw/article/125936) / [總統府 委員會](https://www.president.gov.tw/News/28987)
+
+### 科技園區發展 EVOLVE — 龍科三期復活：一塊地的三次改案（158.59 → 89.6 → 104 公頃）
+
+- **Type**: `EVOLVE`
+- **Category**: Technology
+- **Path**: knowledge/Technology/科技園區發展.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/17 國發會審議通過龍潭園區擴建 104 公頃，年產值估 5,500 億、4,500 個就業；台積電睽違三年重返，規畫三座 1.4 奈米以下埃米世代廠、投資逾兆；117 年底前完成開發許可與環評、119 年公共工程
+  - 2022 年消息曝光後 88% 私有地徵收引自救會抗爭 → 縮為 89.6 公頃 → 隨「桃竹苗大矽谷」周邊地主主動要求納入擴至 104 公頃
+  - 文章停在 2026-03-25；補一節「龍科三期：一塊地的三次改案」，切角放徵收爭議怎麼從抗爭走到地主主動納入
+- **Reference**: [聯合 擴建 104 公頃](https://udn.com/news/story/7240/9760512) / [Newtalk 龍科三期復活](https://newtalk.tw/news/view/2026-05-04/1033219) / [公視 台積電不排除](https://news.pts.org.tw/article/806684)
+
+### Threads 在台灣 EVOLVE — 5 億 MAU、台灣佔全球 21.08%、在地標籤功能台灣首波
+
+- **Type**: `EVOLVE`
+- **Category**: Culture
+- **Path**: knowledge/Culture/Threads在台灣.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - Threads 破 5 億月活，推出母語標籤與趨勢話題功能，台灣列首波市場；台灣用戶佔全球 21.08%（全球每五則貼文一則來自台灣）、18-24 歲使用率 44%、25-34 歲 28.4%
+  - 補一節 2026 新功能與台灣佔比；數字回 Meta 官方與 QSearch 原始報告，不抄轉載
+- **Reference**: [自由財經](https://ec.ltn.com.tw/article/breakingnews/5477165) / [QSearch 2026 統計](https://www.qsearch.cc/blog/2026/03/threads-stats-2026-taiwan/)
+
+### 台海危機與兩岸關係發展 EVOLVE — 不開火的壓力：海警船數字怎麼變（7 月 244 艘創新高）
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/台海危機與兩岸關係發展.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 海巡署統計 7 月 244 艘中國公務船進入台灣周邊水域創新高；8 月前 21 天 152 艘、約六成是海警；AEI-ISW 9/15 週報持續追蹤
+  - 站上無「灰色地帶」或「海警」條目；補一節，數字回海巡署原始資料，敏感度中（紀實不評論）
+- **Reference**: [AEI-ISW 9/15](https://www.aei.org/commentary/china-taiwan-update-september-15-2026/) / [AEI-ISW 9/4](https://www.aei.org/commentary/china-taiwan-update-september-4-2026/)
 
 ### 馬英九 FACTCHECK Full — 兩條媒體腳註撐不起正文，且已逐字翻進 12 語
 
@@ -378,7 +508,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `EVOLVE`（🔴 Rewrite + 媒體編織；不是只改 metadata）
 - **Category**: Music
 - **Path**: knowledge/Music/張懸與安溥.md
-- **Priority**: `P1`
+- **Priority**: `P0`（2026-09-18 news-radar 升級：GA 7d 325 views 全站第一，流量王仍帶三道健康硬傷）
 - **Status**: `pending`
 - **Requested**: 2026-07-30 by twmd-evolve (session 2026-07-30-121650-manual finale)
 - **Notes**:
@@ -447,20 +577,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 連結密度：台灣建築 / 社會住宅與居住正義 / 台灣眷村歷史 / 廟宇文化（4+ 篇）
   - 敏感度：樂生案兼具居住正義與保存的價值衝突，紀實而不煽情（REFLEXES #28）
 - **Pre-research**: reports/research/2026-07/台灣建築-A-歷史軸.md §2.2 + 台灣建築-D-常民與保存.md §四
-
-### 衛武營國家藝術文化中心 NEW — 榕樹下的世界級單一屋頂
-
-- **Type**: `NEW`
-- **Category**: Art
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
-- **Notes**:
-  - **為什麼這篇 vs 其他**：C 報告最高優先——TIME 2019 世界最佳景點、亞洲最大管風琴、Mecanoo/法蘭馨・侯班的榕樹意象，敘事完整度接近台北101 等級的地標文
-  - ⚠️ 必驗事實：「全球最大單一屋頂表演藝術中心」是媒體共識非金氏紀錄（4 源已交叉），寫作用「號稱」級語氣
-  - 連結密度：高雄市 / 台灣建築 / 音樂類文章 / 國際建築師脈絡（4+ 篇）
-  - Series 種子：與台北表演藝術中心、台中國家歌劇院構成「國際建築師三部曲」（後兩篇在 master report 次波 pool，衛武營先行驗證讀者反應）
-- **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §四
 
 ### 台灣戰後現代主義建築群像 NEW — 王大閎、陳其寬、修澤蘭、漢寶德、王秋華合一篇
 
@@ -618,7 +734,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `EVOLVE`
 - **Category**: People
 - **Path**: knowledge/People/金城武.md
-- **Priority**: `P1`
+- **Priority**: `P0`（2026-09-18 news-radar 升級：SC 7d 6,570 imp pos 11.3 CTR 1.0%，仍是全站第一大流量洩漏點，entry 已閒置兩個月）
 - **Status**: `pending`
 - **Requested**: 2026-07-16 by twmd-evolve (session recall-workflow)
 - **Notes**:
@@ -818,6 +934,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-09-18 news-radar 補**：登記 8/31〜9/4 已結束、81 人登記縣市長，文章 lastVerified 2026-07-10 §九「將發生」段已過時；9 月民調高雄柯志恩 43.8% vs 賴瑞隆 43.5%、台北蔣萬安領先但差距縮小、台中江啟臣領先 6.7 個百分點。媒體增補時一併做 freshness bump（時程表勾掉、補 81 人與各都對決名單）
 - **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
 - **自主權邊界**: `[A]` 可自主
 - **Notes**:
@@ -1471,7 +1588,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: Technology
-- **Priority**: `P2`（2026-07-16 inbox-audit 降級：SC 訊號取樣自 2026-05-08 / 05-10，已 2 個月無人重驗，SEO 機會窗可能已變 — 動工前先重跑 SC 7d 確認 query 是否仍有量；訊號還在 → 升回 P0）
+- **Priority**: `P0`（2026-09-18 news-radar 依 entry 自訂條件升回：SC 7d「blue uas cleared list 台灣廠商 2026」776 imp / 0 clicks / pos 7.47，訊號仍在；原 2026-07-16 inbox-audit 降級：SC 訊號取樣自 2026-05-08 / 05-10，已 2 個月無人重驗，SEO 機會窗可能已變 — 動工前先重跑 SC 7d 確認 query 是否仍有量；訊號還在 → 升回 P0）
 - **Status**: `pending`
 - **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `blue uas cleared list 台灣廠商 2026` 564 impressions / position 8.43 / 0 clicks，是本週 SC opportunities top 第 2 名（僅次於品牌詞 `md` 594）
 - **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **751 imp / position 8.8 / 0 clicks（+33% impressions WoW）**。Position 微退（8.43 → 8.8）但曝光顯著放大 = Google 認定 Taiwan.md 是相關但未足夠 authoritative，**proximity bias 加大 = 機會窗放大**。維持 P0，建議下個 rewrite cycle 優先處理
@@ -2009,6 +2126,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Category**: People（跨 subcategory：體育／戲劇／設計／音樂／慈善／舞蹈／文學）
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-09-18 news-radar 補**：SC 7d 新增三個 0 點擊機會併入本 batch——「brigitte lin」1,619 imp / pos 10.86（〈林青霞〉en 版 title/description 重寫）、「ai stefanie sun」707 imp / pos 6.25（〈孫燕姿〉查有無「AI 孫燕姿」段，沒有要補）、田馥甄 1,848 / 錫蘭 1,270 / 曾博恩 1,009 imp pos 6.7〜10.8
 - **Requested**: 2026-07-26 by twmd-finale/twmd-evolve（session 2026-07-26，三源交叉：SC 28d query + GA4 per-page + CF 邊緣流量）
 - **Evolve scan source pointers**：
   - **SC 28d（`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`）**：篩「position > 10 且 impressions > 100」共 25 條命中，其中 9 條是純裸名人物查詢（排除已知的莫那·魯道大檔翻譯債＝OBSERVER-QUEUE #5/#18，另案處理）：
