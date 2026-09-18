@@ -1,7 +1,7 @@
 {
-  "revision": 8,
+  "revision": 12,
   "stage": "investigate",
-  "actor": "taiwan-md golden-bell main session (Opus orchestrator)；研究 fan-out 由 Sonnet lane A/B/C 執行（agent aebf571b191085b22 / aa494fc801929ae6d / a6090cd53dd38bdc2），主 session 收件跑 agent-report-health、合成 §1-§7、跑 research-report-health --tier=depth",
+  "actor": "taiwan-md golden-bell main session (Opus orchestrator)；研究 fan-out 由 Sonnet lane A/B/C 執行（agent aebf571b191085b22 / aa494fc801929ae6d / a6090cd53dd38bdc2），主 session 收件跑 agent-report-health、合成 §1-§7、跑 research-report-health --tier=depth；第二次提交：Stage 1B 後依賴對齊重提，claims 不變，另附 §9 媒體矩陣與 §10 persona 稽核為新 artifacts 內容",
   "artifacts": ["reports/research/2026-09/金鐘獎.md"],
   "data": {
     "claims": [
@@ -77,7 +77,8 @@
       "law.moc.gov.tw 缺 97-99、101、103-104、107-108、110 年度版本，四條款新增年只能縮到區間。",
       "1981-2025 戲劇節目獎 44 屆中僅 8 屆取得官方逐字，其餘維基索引；正文不逐屆羅列。",
       "PTT 原貼、藍祖蔚／吳宗憲原句、廣播特別獎「三分之二」、沈春華 12 座逐屆、「政治介入」質疑方、「公視獨大」批評皆未溯源——依 §5 護欄不寫或降級。",
-      "TNL／中時 WebFetch 403 改瀏覽器直讀；Taiwan Today 正文抓不到；Hollywood Reporter 無直接報導。"
+      "TNL／中時 WebFetch 403 改瀏覽器直讀；Taiwan Today 正文抓不到；Hollywood Reporter 無直接報導。",
+      "Stage 1B 補查：原視 61 屆 8 項（噓星聞逐字）、連炳發捐款宣布（中央社第二源；兌現查無）、43／45 屆維基逐屆頁核對；北流照片 GWOIA 授權不採；1965 中山堂典禮歷史照 Commons 查無。"
     ],
     "changedMind": "三件事改了原先角度：(1) 起點給的 280／1,096／140／29 是廣播金鐘的數字，戲劇節目類另有一套——「廣播那一半」從邊陲 facet 變成第 61 屆切面的第一句話，也讓「兩場典禮疊在一起」成為開場素材；(2) 角度 B「獎勵要點是活憲法」被一手 diff 證實且更集中：四根發條同在 2017 上緊，比逐條列年更有畫面；(3) 角度 A 的「得獎單位遷移曲線」成立但 2016 起公視合製只是趨勢、2023-2025 製作公司掛名也非單一公司——曲線要寫成階段而非鐵律，且 44 屆裡只有 8 屆官方逐字，正文交給 tw-timeline 節點與表格，不逐屆敘述。角度 C「廣播被遺忘」改寫為能見度落差（報名量 1,096 件不小）。"
   }

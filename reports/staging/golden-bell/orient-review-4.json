@@ -1,0 +1,25 @@
+{
+  "revision": 11,
+  "submissionId": "589481b0-985a-46f3-a94b-4543d14fe0a4",
+  "actor": "orient 站具名評閱編輯（Sonnet，Agent a1dec250b0cf17b00，乾淨 context 第四次提交覆核；contextDisclosure: fresh-context-brief-viewpoint-and-gap-audit-only）",
+  "verdict": "accept",
+  "rationale": "角度 A 實際文字為「誰握著螢幕」＋「名單本身就是台灣電視從電視台時代走進平台時代的切片」，未出現「把螢幕交到誰手上」的因果語，與 §10 反向閥門裁決（曲線是紀錄不是決定）一致，orient 提交不需改。研究報告 organizing_axis 與標題仍寫「把螢幕交到不同人手上」，與 §10 結論用語不一致——屬報告本體、Stage 2 落筆前需對齊的殘留，非 block 點。uncertainties 七條逐一核對 frontmatter 三層均一致；「英文來源 9 條」與 source_count.en=11 是計數口徑差，不影響。",
+  "evidence": [
+    {
+      "path": "reports/staging/golden-bell/orient-submission.json",
+      "location": "data.candidateAngles[0]"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§10 反向閥門處置列：曲線是紀錄不是決定"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter organizing_axis（Stage 2 待對齊）"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter verification 三層 vs orient uncertainties 七條"
+    }
+  ]
+}
