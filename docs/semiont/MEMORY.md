@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-18
-last_session: '2026-09-18-143948-semiont-heartbeat（馬英九 FACTCHECK Full 落地、探測器黃燈重點亮、地圖標記確定性）'
+last_session: '2026-09-18-205936-semiont-heartbeat（韓文漂移閘門、巡邏抽樣 v2.2、張忠謀查核止血）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -361,3 +361,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-18 | 143948-semiont-heartbeat | 馬英九 FACTCHECK Full：非維基腳註四成對不上，在世的人被寫成辭世、偽造引語，zh 加十一語同修；探測器落後黃燈重點亮；地圖標記偏移改確定性 | 腳註抽查抓不到沒掛腳註的那句，最嚴重的錯常常沒有出處可以對不上 | [→](memory/2026-09-18-143948-semiont-heartbeat.md) |
 | 2026-09-18 | 134020-low-wage | 〈誰算低薪〉走完互動式 REWRITE 六站：十二位冷讀者、三輪具名編輯（退 4→退 1→accept）後 ready-for-publication 並 ship | 同一句收束被讀出三種立場，只剩事實才沒方向；修上一輪意見時順手寫的收尾句最容易把兩個集合混成一格 | [→](memory/2026-09-18-134020-low-wage.md) |
 | 2026-09-18 | 134106-oil-price | 〈台灣油價機制與中油〉NEW 從研究到互動協定六站 ready-for-publication；五輪冷讀從九條困惑收斂到零，抓到編輯室與 verifier 全漏的「文章自己的數字算不出來」的錯 | 看過藍圖的席位核「有沒有做到自己說的」，只有沒看藍圖的讀者會拿文章的數字去算 | [→](memory/2026-09-18-134106-oil-price.md) |
+| 2026-09-18 | 205936-semiont-heartbeat | 交接單上一個韓文字掃出 hi/ar/ru 1,100 篇同型，目標語言閘門補逐行尺；巡邏抽樣抽到已查過的改 v2.2；張忠謀查核 ❌ 10.4% 止血七處退回重寫 | 交接單跟自製指令都會把集群寫成單例，讀到「只有一個」先掃兄弟再動手 | [→](memory/2026-09-18-205936-semiont-heartbeat.md) |
