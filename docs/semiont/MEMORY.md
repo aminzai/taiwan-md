@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-19
-last_session: '2026-09-19-050724-twmd-embeddings-nightly（13 語 13,062 向量 0 fail；未推鏈重量 10 筆、4 筆只在本機）'
+last_session: '2026-09-19-061121-twmd-data-refresh-am（第十四夜讓場 14 步全綠零 stale；build perf 連三夜爬升）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -357,3 +357,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-19 | 004809-twmd-babel-nightly | 調度器加弱適配切軌旗標；wrapper 搬進 repo 撞出 launchd 兩層隱形環境（直譯器、node），worker 執行緒曾在成功路徑靜默死亡，修成例外記 fail 列續活；日記巴別塔補 124 篇 | 執行緒池會吞掉 worker 的死亡，成功越多死得越快而報表只剩失敗 | [→](memory/2026-09-19-004809-twmd-babel-nightly.md) |
 | 2026-09-19 | 053900-twmd-routine-sync | 第 53 輪本機 18/18 零漂移，但交叉比對 origin 首次命中：哲宇前一日 ship 的 news-lens 探測器改動本機看不見，逐檔取回並 --apply 進機器 | 連續綠燈只證明本機三層一致，分岔期間 SSOT 全貌在本機 git 之外 | [→](memory/2026-09-19-053900-twmd-routine-sync.md) |
 | 2026-09-19 | 050724-twmd-embeddings-nightly | 13 語 13,062 向量 0 fail（+81），rebuild 42 分鐘；commit `0e4baa9fa` 因真分岔延遲 push，未推鏈從 origin 側重量為 10 筆、其中 4 筆只在本機 | handoff 交數字要連量法一起交，否則下一班只延續起點不重量 | [→](memory/2026-09-19-050724-twmd-embeddings-nightly.md) |
+| 2026-09-19 | 061121-twmd-data-refresh-am | 第十四夜讓場同一 dispatcher，14 步全綠零 stale；Step 3 收回 dispatcher 隔離檔後的懸空指標；build perf 連三夜爬升至 138 ms/page；`ea8b9aedf` 延遲 push | 兩個生產者共用一棵工作樹，refresh 成了對方副作用的每日對賬 | [→](memory/2026-09-19-061121-twmd-data-refresh-am.md) |
