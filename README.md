@@ -98,25 +98,25 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📄 Total articles (zh-TW SSOT) | 1119  |
 | 🇹🇼 Chinese (zh-TW)             | 1119  |
 | 🇺🇸 English (en)                | 1097  |
-| 🇯🇵 日本語 (ja)                 | 960   |
+| 🇯🇵 日本語 (ja)                 | 982   |
 | 🇰🇷 한국어 (ko)                 | 1095  |
 | 🇪🇸 Español (es)                | 1091  |
 | 🇫🇷 Français (fr)               | 1086  |
-| 🇻🇳 Tiếng Việt (vi)             | 1091  |
-| 🇮🇩 Bahasa Indonesia (id)       | 901   |
-| 🇵🇹 Português (pt)              | 1064  |
-| 🇮🇳 हिन्दी (hi)                 | 875   |
-| 🇸🇦 العربية (ar)                | 963   |
-| 🇷🇺 Русский (ru)                | 1003  |
-| 🌐 Deutsch (de)                | 765   |
+| 🇻🇳 Tiếng Việt (vi)             | 1093  |
+| 🇮🇩 Bahasa Indonesia (id)       | 918   |
+| 🇵🇹 Português (pt)              | 1062  |
+| 🇮🇳 हिन्दी (hi)                 | 882   |
+| 🇸🇦 العربية (ar)                | 968   |
+| 🇷🇺 Русский (ru)                | 1004  |
+| 🌐 Deutsch (de)                | 789   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1176  |
+| ⭐ GitHub Stars                | 1180  |
 | 🍴 Forks                       | 185   |
 | 📅 Articles last 7 days        | 0     |
-| 📅 Articles last 30 days       | 235   |
+| 📅 Articles last 30 days       | 162   |
 
 <!-- STATS:END -->
 
@@ -594,8 +594,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
     <td align="center"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4" width="100px;" alt=""/><br /><sub><b>EryetChen</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/AgendaLu"><img src="https://avatars.githubusercontent.com/u/43836432?v=4" width="100px;" alt=""/><br /><sub><b>YiChengLu</b></sub></a><br />💻 🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
     <td align="center"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4" width="100px;" alt=""/><br /><sub><b>Brian Huang</b></sub></a><br />💻 🤔 🌍</td>
+    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>

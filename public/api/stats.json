@@ -1,8 +1,8 @@
 {
-  "totalArticles": 13112,
+  "totalArticles": 13188,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 8742,
+  "totalTags": 8770,
   "categories": [
     {
       "name": "es",
@@ -22,27 +22,27 @@
     },
     {
       "name": "ja",
-      "count": 960
+      "count": 982
     },
     {
       "name": "vi",
-      "count": 1091
+      "count": 1093
     },
     {
       "name": "hi",
-      "count": 875
+      "count": 882
     },
     {
       "name": "id",
-      "count": 901
+      "count": 918
     },
     {
       "name": "ar",
-      "count": 963
+      "count": 968
     },
     {
       "name": "ru",
-      "count": 1003
+      "count": 1004
     },
     {
       "name": "Technology",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 1064
+      "count": 1062
     },
     {
       "name": "Food",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 765
+      "count": 789
     },
     {
       "name": "Lifestyle",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 66
+      "count": 65
     },
     {
       "name": "人物",
@@ -128,19 +128,19 @@
     },
     {
       "name": "YouTuber",
-      "count": 47
+      "count": 51
     },
     {
       "name": "科技與企業",
       "count": 36
     },
     {
-      "name": "ODM",
+      "name": "民主化",
       "count": 31
     },
     {
-      "name": "民主化",
-      "count": 30
+      "name": "ODM",
+      "count": 31
     },
     {
       "name": "原住民族",
@@ -149,6 +149,10 @@
     {
       "name": "文學",
       "count": 29
+    },
+    {
+      "name": "文化",
+      "count": 26
     },
     {
       "name": "AI",
@@ -160,10 +164,6 @@
     },
     {
       "name": "歷史",
-      "count": 25
-    },
-    {
-      "name": "文化",
       "count": 25
     },
     {
@@ -179,10 +179,6 @@
       "count": 24
     },
     {
-      "name": "半導體",
-      "count": 24
-    },
-    {
       "name": "政治",
       "count": 23
     },
@@ -193,30 +189,34 @@
     {
       "name": "客家",
       "count": 23
+    },
+    {
+      "name": "體育",
+      "count": 23
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13112,
+    "zh-TW": 13188,
     "en": 0
   },
-  "lastUpdated": "2026-09-17T22:14:00.820Z",
-  "stars": 1176,
+  "lastUpdated": "2026-09-18T22:13:16.454Z",
+  "stars": 1180,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
     "en": 1097,
-    "ja": 960,
+    "ja": 982,
     "ko": 1095,
     "es": 1091,
     "fr": 1086,
-    "vi": 1091,
-    "id": 901,
-    "pt": 1064,
-    "hi": 875,
-    "ar": 963,
-    "ru": 1003,
-    "de": 765
+    "vi": 1093,
+    "id": 918,
+    "pt": 1062,
+    "hi": 882,
+    "ar": 968,
+    "ru": 1004,
+    "de": 789
   },
   "enPages": 1097,
   "totalPages": 1119

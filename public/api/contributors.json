@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T22:14:01.230Z",
+  "lastUpdated": "2026-09-18T22:13:16.679Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9562,
+      "commits": 9745,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -49,7 +49,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 75,
+      "commits": 78,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -202,6 +202,20 @@
       }
     },
     {
+      "login": "BrianHuang813",
+      "commits": 11,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
+      "profileUrl": "https://github.com/BrianHuang813",
+      "firstCommitAt": "2026-03-24 00:25:18 +0800",
+      "lastCommitAt": "2026-03-27 19:13:08 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 0,
+        "system": 10,
+        "translation": 1
+      }
+    },
+    {
       "login": "bugnimusic",
       "commits": 11,
       "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
@@ -213,20 +227,6 @@
         "content": 0,
         "system": 0,
         "translation": 0
-      }
-    },
-    {
-      "login": "BrianHuang813",
-      "commits": 10,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
-      "profileUrl": "https://github.com/BrianHuang813",
-      "firstCommitAt": "2026-03-24 00:25:18 +0800",
-      "lastCommitAt": "2026-03-27 19:13:08 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 10,
-        "translation": 1
       }
     },
     {
@@ -386,18 +386,18 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
-      "login": "bugnimusic",
-      "name": "Bugni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
-      "profileUrl": "https://github.com/bugnimusic",
-      "types": ["💻", "🖋️", "🌍", "🐛"]
-    },
-    {
       "login": "BrianHuang813",
       "name": "Brian Huang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
       "profileUrl": "https://github.com/BrianHuang813",
       "types": ["💻", "🤔", "🌍"]
+    },
+    {
+      "login": "bugnimusic",
+      "name": "Bugni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profileUrl": "https://github.com/bugnimusic",
+      "types": ["💻", "🖋️", "🌍", "🐛"]
     },
     {
       "login": "iigmir",
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9562,
+      "commits": 9745,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
