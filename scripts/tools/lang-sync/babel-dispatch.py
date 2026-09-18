@@ -202,6 +202,7 @@ class Worker:
     consecutive_failures: int = 0
     frozen_until: Optional[float] = None  # time.monotonic() deadline
     tier: str = "normal"         # "normal" | "tier6" | "tier7" — restricted delegation (OBSERVER-QUEUE #18)
+    skip_langs: frozenset = frozenset()  # 這個 worker 不接的語言（--worker-skip-langs；弱適配切軌，2026-09-19）
 
 
 def parse_worker_arg(raw: str, tier: str = "normal") -> Worker:
@@ -1534,12 +1535,37 @@ def make_restricted_task_filter(worker: Worker, state: RunState, report: JsonlWr
     return _eligible
 
 
+def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: Logger):
+    """Compose the two hard gates a worker can carry: Tier 6/7 eligibility
+    (make_restricted_task_filter) and the per-worker language skip list
+    (`--worker-skip-langs`, 2026-09-19). Either alone returns its own
+    closure; both present → AND; neither → None (unrestricted).
+
+    為什麼有 skip list：SQUEEZE §模型×語言適配寫「弱適配開專軌繞過，不要加大
+    重試」，但統一調度器沒有軌可切——preflight 連夜報 gemma4:e4b × ar 6%／× pt
+    5%、laguna-s × hi 12% 這類組合，每一次嘗試都是完整 GPU 時間加一次閘門，
+    09-18 一夜約 80 次嘗試換 8 篇。skip list 讓那些 worker 把輪次讓給它擅長
+    的語言；starvation guard 在 main() 做（某語言不能被所有 worker 同時跳過）。
+    """
+    tier_filter = make_restricted_task_filter(worker, state, report, log)
+    if not worker.skip_langs:
+        return tier_filter
+    skip = worker.skip_langs
+
+    def _lang_ok(lang: str, zh_path: str) -> bool:
+        if lang in skip:
+            return False
+        return tier_filter(lang, zh_path) if tier_filter is not None else True
+
+    return _lang_ok
+
+
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
                  engine: str = "whole", no_patch: bool = False,
                  no_noop_bump: bool = False) -> None:
-    task_filter = make_restricted_task_filter(worker, state, report, log)
+    task_filter = make_task_filter(worker, state, report, log)
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -1591,6 +1617,13 @@ def main() -> None:
                           "'gemini7=gemini-paid:gemini-2.5-pro'. Same eligibility as Tier 6, "
                           "plus requires the task to have failed at least once this run "
                           "(proxy for 'Tier 6 also failed'); capped at --tier7-nightly-cap.")
+    ap.add_argument("--worker-skip-langs", action="append", dest="worker_skip_langs", default=[],
+                     metavar="label=lang,lang",
+                     help="repeatable. That worker never claims tasks in these langs (hard gate "
+                          "via TaskQueue.claim task_filter). Use for weak worker×lang pairs "
+                          "reported by babel-preflight.py (<15%% pass, n>=8) — 切軌，不是加大重試. "
+                          "A lang skipped by EVERY normal worker is un-skipped with a warning "
+                          "(never starve a language).")
     ap.add_argument("--tier6-nightly-cap", type=int, default=BABEL_TIER6_NIGHTLY_CAP,
                      help=f"max Tier 6 successes per run (default {BABEL_TIER6_NIGHTLY_CAP}, "
                           "env BABEL_TIER6_NIGHTLY_CAP)")
@@ -1637,6 +1670,34 @@ def main() -> None:
     if len(labels) != len(set(labels)):
         ap.error(f"--worker labels must be unique, got: {labels}")
 
+    # --worker-skip-langs：弱適配切軌（2026-09-19）。先驗 label 與 lang 都存在，
+    # 再做 starvation guard：某語言若被全部 normal worker 跳過，等於整個語言停擺
+    # 且沒有人會叫——把那個語言的 skip 全部撤回並警告，寧可低通過率也不要零產出。
+    skip_map: dict = {}
+    for raw in args.worker_skip_langs:
+        if "=" not in raw:
+            ap.error(f"--worker-skip-langs must be 'label=lang,lang', got: {raw!r}")
+        lbl, _, ls = raw.partition("=")
+        lbl = lbl.strip()
+        if lbl not in labels:
+            ap.error(f"--worker-skip-langs: unknown worker label {lbl!r} (have {labels})")
+        for l in (x.strip() for x in ls.split(",") if x.strip()):
+            if l not in ALL_TRANSLATION_LANGS:
+                ap.error(f"--worker-skip-langs: unknown lang {l!r} for worker {lbl!r}")
+            skip_map.setdefault(lbl, set()).add(l)
+    if skip_map:
+        normal_labels = {w.label for w in workers if w.tier == "normal"}
+        starved = [l for l in ALL_TRANSLATION_LANGS
+                   if normal_labels and all(l in skip_map.get(lbl, set()) for lbl in normal_labels)]
+        for l in starved:
+            for lbl in normal_labels:
+                skip_map[lbl].discard(l)
+            print(f"⚠️ --worker-skip-langs: lang {l!r} would be skipped by every normal worker — "
+                  f"skip lifted for {l!r} (never starve a language)", file=sys.stderr)
+        for w in workers:
+            if skip_map.get(w.label):
+                w.skip_langs = frozenset(skip_map[w.label])
+
     if args.langs:
         langs_requested = [x.strip() for x in args.langs.split(",") if x.strip()]
         for l in langs_requested:
@@ -1659,6 +1720,9 @@ def main() -> None:
         f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
         f"engine={args.engine} no_patch={args.no_patch} no_noop_bump={args.no_noop_bump} "
         f"exclude_file={args.exclude_file}")
+    for w in workers:
+        if w.skip_langs:
+            log(f"  worker {w.label}: skip_langs={','.join(sorted(w.skip_langs))}（弱適配切軌）")
     if any(w.tier != "normal" for w in workers):
         log(f"  tier6_nightly_cap={args.tier6_nightly_cap} tier7_nightly_cap={args.tier7_nightly_cap} "
             "(OBSERVER-QUEUE #18，2026-09-05 拍板)")
