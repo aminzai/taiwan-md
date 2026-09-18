@@ -1,0 +1,37 @@
+{
+  "revision": 52,
+  "submissionId": "f31c4e8e-542c-4365-b045-4db9a3cb2cef",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ad98377fd51d7b0ba；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "兩條是正文自身邏輯缺口：(1) L101「額度收緊」與「自報入圍 60 項」並排卻未區分報名額度（單一獎項報名上限）與入圍數（跨獎項加總、評審選出）兩個量；(2) L121「條文放寬之後⋯那一晚給了最清楚的答案」直接銜接陳亞蘭得獎，但前文條文皆與 OTT、頻道計算有關，無一涉性別報名資格，造成不成立的因果暗示。其餘（規模措辭、《零日攻擊》原話、H2 並置、不具名、三處重複、限定語、首尾呼應）屬裁量。讀者引的「最常見的名字」只在延伸閱讀段，引用誤植但底層疑慮成立。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行101 額度與入圍數未區分——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行121 條文放寬→陳亞蘭因果暗示——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行97-103 四條修法無一涉性別資格"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行146 規模相近措辭可接受——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行212 曹瑞原原話轉述——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行123／140 H2 並置段末已拆時間線——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行48／71、97-112 重複屬限定語與對照模組——裁量"
+    }
+  ]
+}

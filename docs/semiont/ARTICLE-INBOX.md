@@ -191,23 +191,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **真人 People 條目**：脊椎判斷（一個把「跨界選擇」當主題的 lifeTree 要不要留）帶哲宇 review；文章 featured: true 且 12 語在線，放大係數最高
 - **Reference**: [reports/research/2026-09/張忠謀.md](../../reports/research/2026-09/張忠謀.md) §Critical issues（13 條 ❌ 各附刪改建議與替換來源）
 
-### 金鐘獎 NEW — 從 1965 年廣播獎到金鐘 61：《與惡 2》13 項入圍與台劇的第二個黃金期
-
-- **Type**: `NEW`
-- **Category**: Culture
-- **Priority**: `P0`
-- **Status**: `in-progress`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
-- **Notes**:
-  - 9/15 第 61 屆節目類與戲劇類入圍公布（廣播類 9/9），280 家業者 1,096 件參賽、140 件入圍、29 個獎項；《我們與惡的距離 II》13 項最多，周渝民、曾敬驊爭視帝，舒淇、李心潔爭視后；頒獎 10/17（廣播）、10/23（節目）、10/24（戲劇），台北流行音樂中心
-  - 切角：金鐘獎的制度與時代切片（1965 年廣播獎起家、電視類分家、OTT 時代入圍變化），把《與惡》十三項當本屆切面而非全篇主角；頒獎後補結果
-  - 時效：10/23 前 ship 有五週窗口
-  - 敏感度：低；站上有〈台灣電視產業史〉〈植劇場〉可雙向 cross-link，無金鐘獎、無《與惡》
-- **Reference**: [TVBS 入圍名單](https://news.tvbs.com.tw/entertainment/variety/4020179) / [JUKSY 典禮資訊](https://www.juksy.com/article/149150) / [維基 第61屆金鐘獎](https://zh.wikipedia.org/wiki/%E7%AC%AC61%E5%B1%86%E9%87%91%E9%90%98%E7%8D%8E)
-- **Dev log**:
-  - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
-  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑；同日哲宇「全部重開，繼續跑」，原 agent 接續
-
 ### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
 
 - **Type**: `NEW`

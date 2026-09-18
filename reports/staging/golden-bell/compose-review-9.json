@@ -1,0 +1,25 @@
+{
+  "revision": 50,
+  "submissionId": "cfe2b13b-66f2-4bbf-acdc-1bfd95b1c615",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第八次 delta）",
+  "verdict": "accept",
+  "rationale": "三處都核實過。(1) curl 中央社原文「她以男裝反串演出『嘉慶君遊台灣』」與新句對應；knowledge/Art/歌仔戲.md §楊麗花與電視裡的小生 支撐「同一種角色」；拿掉了行當通則，只陳述兩個人的具體事實。(2) curl 自由娛樂確認「廣播商業同業公會理事長丁文祺」，正文與 [^45] 同步。(3) curl bamid s=123865 確認清單格式「（一）戲劇節目獎　危險心靈（⋯）」，新描述與 [^17] 精準對應。footnote 70/70，其餘未動。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L127（陳亞蘭段男裝反串新句）"
+    },
+    {
+      "path": "knowledge/Art/歌仔戲.md",
+      "location": "L59-63（§楊麗花與電視裡的小生）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L157／L329（丁文祺頭銜與 [^45]）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L85／L273（2007 年那一行與 [^17]）"
+    }
+  ]
+}

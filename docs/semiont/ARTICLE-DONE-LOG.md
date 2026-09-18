@@ -59,6 +59,20 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 金鐘獎 NEW — 2026-09-18 golden-bell session 完成（一座 1965 年為廣播鑄的鐘，六十一年記下誰對全島說話）
+
+- **Article**: [knowledge/Culture/金鐘獎.md](../../knowledge/Culture/金鐘獎.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 stage contracts ＋ Rewrite Guide 互動式協定（run id `golden-bell-20260918`，orient→investigate→compose→cold-read→verify→release 六站全部乾淨 context 評閱；compose 八次提交、冷讀四位讀者）。run_profile: standard-lite。來源：2026-09-18 news-radar P0
+- **spine**：立體群像（P7 週期活動記事＋M1 認識導覽前置）＋時代縮影（主）／傳承與世代（輔）
+- **論點**：名單記錄，它不決定——獎勵要點決定門的位置，評審決定門內誰得獎；戲劇節目獎「得獎單位」那一欄六十一年的變化（老三台獨佔十七年→民視公視→大愛客家→三立八大→福斯、台灣大哥大、Netflix）記的是台灣把「說故事給全島聽」的位置交到誰手上
+- **Hook**：1965 年 7 月 10 日中山堂，嚴家淦頒出八座金鐘，七家電台分走，電視還不在獎勵範圍裡
+- **品質**：7,000 CJK ／ 70 腳註零孤兒 ／ 5 張 Commons CC 圖（WebP）＋1 支官方頻道影片 ／ 5 個 `tw-*` 模組 ／ rewrite-stage-4 hard=0 warn=0 ／ rewrite-stage-3-5 hard=0 warn=0 ／ prose-flow 0/3 ／ prose-health warn 1（新聞稿逐字引文內全形分號，保留）／ fact-atom-diff PASS ／ rationale 四鍵齊
+- **Research**: [reports/research/2026-09/金鐘獎.md](../../reports/research/2026-09/金鐘獎.md)（三 lane 合成單檔，82 來源，`research-report-health --tier=depth` hard=0 warn=0）；投影 [reports/article-projection/金鐘獎.md](../../reports/article-projection/金鐘獎.md)；審計 stage35／stage36 ／ 定稿站 `reports/article-evolve/金鐘獎-closing.md`
+- **大事實修正**：研究報告與 Stage 0 誤讀維基列表，把 2011 第 46 屆戲劇節目獎記成《犀利人妻》——影視局 100 年得獎名單一手推翻，正確是客家電視《雲頂天很藍》；「八家電台」→ 七家（中廣兩座）；「公視入圍最多」無跨單位來源 → 改自報 60 項；「廣播早一週」逐屆回官方頁；維基預填「2026《我們六個》」不採
+- **敏感素材處理**：未過廣播特別獎門檻的當事人全篇不具名（Stage 2 護欄），但「鼓勵不是沒收」經原報導 curl 確認為其本人直言，正文寫身份不寫姓名；公視「最大入圍者／轉播方／額度被算一份」三事實並排並明寫用意，不做球員兼裁判暗示；「政治介入」質疑只記提問與曹瑞原回應，並寫明報導未載質疑方
+- **Cross-link**：forward 五條；reverse 補進公視／台灣綜藝／植劇場／台灣電視產業史／八點檔；金曲獎 pre-existing prose-health HARD 依 Stage 5.3 defer → [#1748](https://github.com/frank890417/taiwan-md/issues/1748)
+- **待觀察者驗證**：典禮 10/17、10/23、10/24 尚未舉行，文章停在名單已印；頒獎後需 EVOLVE-delta 補結果
+
 ### 鐵窗花 — 2026-09-18 semiont-heartbeat 歸檔（貢獻者 idlccp1984 於 2026-08-20 以 PR 交稿，非走產線）
 
 - **Article**: [knowledge/Culture/鐵窗花.md](../../knowledge/Culture/鐵窗花.md)
