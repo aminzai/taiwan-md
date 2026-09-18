@@ -1,7 +1,7 @@
 {
-  "revision": 12,
+  "revision": 17,
   "stage": "investigate",
-  "actor": "taiwan-md golden-bell main session (Opus orchestrator)；研究 fan-out 由 Sonnet lane A/B/C 執行（agent aebf571b191085b22 / aa494fc801929ae6d / a6090cd53dd38bdc2），主 session 收件跑 agent-report-health、合成 §1-§7、跑 research-report-health --tier=depth；第二次提交：Stage 1B 後依賴對齊重提，claims 不變，另附 §9 媒體矩陣與 §10 persona 稽核為新 artifacts 內容",
+  "actor": "taiwan-md golden-bell main session (Opus orchestrator)；研究 fan-out 由 Sonnet lane A/B/C 執行（agent aebf571b191085b22 / aa494fc801929ae6d / a6090cd53dd38bdc2），主 session 收件跑 agent-report-health、合成 §1-§7、跑 research-report-health --tier=depth；第三次提交：JSON 排版對齊重提，claims 零變動",
   "artifacts": ["reports/research/2026-09/金鐘獎.md"],
   "data": {
     "claims": [

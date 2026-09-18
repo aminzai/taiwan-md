@@ -1,7 +1,7 @@
 {
-  "revision": 10,
+  "revision": 15,
   "stage": "orient",
-  "actor": "taiwan-md golden-bell main session (Opus)；第四次提交：Stage 1B 後依賴對齊重提，內容同第三次",
+  "actor": "taiwan-md golden-bell main session (Opus)；第五次提交：JSON 排版對齊重提，內容同第四次",
   "artifacts": [
     "reports/research/2026-09/金鐘獎.md",
     "reports/staging/golden-bell/brief.md"

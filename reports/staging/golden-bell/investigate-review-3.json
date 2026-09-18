@@ -1,0 +1,17 @@
+{
+  "revision": 18,
+  "submissionId": "ccec0084-54a3-42ea-8d7f-891d1b3d0593",
+  "actor": "investigate 站具名評閱編輯（Sonnet，Agent ac91ee8614f87100c，乾淨 context 第三次提交覆核；curl 抽驗 cna.com.tw 一條；contextDisclosure: fresh-context-inputs-and-prior-reviews）",
+  "verdict": "accept",
+  "rationale": "10 條 claims 隨機抽驗 1 條（陳亞蘭 2022 中央社感言）curl 直讀原頁逐字命中：「楊麗花這3個字，永遠是我們大家心目中的最佳男主角」與「史上第一位女演員入圍金鐘最佳戲劇男主角獎」皆與 claim 及 doesNotSupport 邊界一致。counterEvidence／searchLimits／changedMind 誠實揭露單源與未溯源項目。git diff 確認本次零內容差異，僅排版重提。",
+  "evidence": [
+    {
+      "path": "reports/staging/golden-bell/investigate-submission.json",
+      "location": "data.claims[7]"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§1 支線四 陳亞蘭段落／§4 引語庫"
+    }
+  ]
+}

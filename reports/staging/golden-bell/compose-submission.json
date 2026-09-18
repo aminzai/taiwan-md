@@ -1,0 +1,21 @@
+{
+  "revision": 19,
+  "stage": "compose",
+  "actor": "fresh Opus writer（Agent a1c5a08fc7129221d，乾淨 context，只讀藍圖＋研究報告＋EDITORIAL＋Stage 2C contract＋graph.md）；主 session 核對 read-receipt 四項與兩個 article-health profile 後提交",
+  "artifacts": [
+    "knowledge/Culture/金鐘獎.md",
+    "reports/article-projection/金鐘獎.md",
+    "reports/editorial-room/金鐘獎-projection-review.md"
+  ],
+  "data": {
+    "draftPath": "knowledge/Culture/金鐘獎.md",
+    "editorialChoices": "照投影藍圖八步骨架執行（投影室三席 revise 七條已回修）：論點「名單記錄、不決定；要點決定門，評審決定門內」在 §1 論點附註與 §4 末段落地；§3 得獎單位曲線只寫階段與五個官方逐字錨，逐屆交質性表格與 tw-timeline，避開 P7 逐屆流水帳；§7 爭議只留三樁（華燈初上、良辰吉時、龍劭華）、特展只留龍頭鍘一件；§8 入圍人名全砍。writer 自主判斷兩處：tw-slope 只放 YouTube 與同時在線兩列（電視總收視人口 460→505.5 改進 prose，避免三列同軸壓平翻倍）；§3 不寫《星星知我心》60% 收視（研究只驗了首播日與得獎屆，60% 無 URL）。H2 §4 把年份從句首移到句中避編年味。直接引語全部來自研究 §4 逐字表；轉述（曹瑞原《零日攻擊》說明、文化部「因應 OTT」、「鼓勵不是沒收」）不加引號、不歸屬個人。王一明姓名未出現。",
+    "unresolved": [
+      "「最近幾屆廣播金鐘都比戲劇類早一個星期頒獎」目前掛 [^1]（官網沿革），應改掛各屆典禮頁 [^7][^8]；第 59 屆廣播典禮日期未在報告中逐字，verifier 要查。",
+      "F35-54 括號釋義「35 到 54 歲女性觀眾」是收視口徑的通行解讀，來源頁未逐字解釋，verifier 判要不要留。",
+      "§8 仍列《回魂計》10、《乩身》9 兩個分項數字，藍圖減法說只留 40 與 13——留給 2.5-R 結構席裁。",
+      "prose-health warn 1：影視局新聞稿逐字引文內的全形分號，保留原文。",
+      "典禮 10/24 尚未舉行，文章刻意停在名單已印、結果未念；頒獎後需 EVOLVE-delta 補結果。"
+    ]
+  }
+}
