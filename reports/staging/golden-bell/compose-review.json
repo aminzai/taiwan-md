@@ -1,0 +1,17 @@
+{
+  "revision": 22,
+  "submissionId": "48febfe2-0f87-4279-9fe5-b9114e172cf1",
+  "actor": "compose 站評閱編輯（Sonnet，Agent a6a415d9624557f2f，乾淨 context；contextDisclosure: fresh-context-final-draft-blueprint-and-repair-sheet）",
+  "verdict": "accept",
+  "rationale": "稿子完整可讀：8 個藍圖 section 全部到位，含 30 秒概覽、結尾回中山堂呼應、延伸閱讀與 69 條腳註。抽驗修復單 5 條（#1 客家 2011 掛官方 [^67]；#3 公視無比較級；#12 Netflix 只留 40 與 13；#20 「發條」零殘留；#19 兩名主委僅腳註）皆落進正文。未見後台洩漏；抽查 3 處紀實細節均為輕微敘事潤飾或已加引號。unresolved 第 2 條是研究報告待回填，正文已用一手官方名單訂正，不構成回 investigate。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "客家 2011 戲劇節目獎段＋[^67]；公視「入圍 60 項」；Netflix 40 與 13；H2「四條規則」；三主委腳註 [^61]"
+    },
+    {
+      "path": "reports/staging/golden-bell/compose-submission.json",
+      "location": "data.unresolved[1]"
+    }
+  ]
+}

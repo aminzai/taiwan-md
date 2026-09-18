@@ -1,21 +1,24 @@
 {
-  "revision": 19,
+  "revision": 24,
   "stage": "compose",
-  "actor": "fresh Opus writer（Agent a1c5a08fc7129221d，乾淨 context，只讀藍圖＋研究報告＋EDITORIAL＋Stage 2C contract＋graph.md）；主 session 核對 read-receipt 四項與兩個 article-health profile 後提交",
+  "actor": "fresh Opus writer（Agent a1c5a08fc7129221d）初稿 → 大驗證輪批修（主 session 施工，修復單 26 條見 reports/research/2026-09/金鐘獎-stage35-audit.md）→ fresh Opus 定稿手（Agent a6efadd6f7cae0574）全文順稿，fact-atom-diff PASS；主 session 覆蓋 canonical 後重提",
   "artifacts": [
     "knowledge/Culture/金鐘獎.md",
     "reports/article-projection/金鐘獎.md",
-    "reports/editorial-room/金鐘獎-projection-review.md"
+    "reports/editorial-room/金鐘獎-projection-review.md",
+    "reports/research/2026-09/金鐘獎-stage35-audit.md",
+    "reports/research/2026-09/金鐘獎-stage36-audit.md",
+    "reports/article-evolve/金鐘獎-closing.md"
   ],
   "data": {
     "draftPath": "knowledge/Culture/金鐘獎.md",
-    "editorialChoices": "照投影藍圖八步骨架執行（投影室三席 revise 七條已回修）：論點「名單記錄、不決定；要點決定門，評審決定門內」在 §1 論點附註與 §4 末段落地；§3 得獎單位曲線只寫階段與五個官方逐字錨，逐屆交質性表格與 tw-timeline，避開 P7 逐屆流水帳；§7 爭議只留三樁（華燈初上、良辰吉時、龍劭華）、特展只留龍頭鍘一件；§8 入圍人名全砍。writer 自主判斷兩處：tw-slope 只放 YouTube 與同時在線兩列（電視總收視人口 460→505.5 改進 prose，避免三列同軸壓平翻倍）；§3 不寫《星星知我心》60% 收視（研究只驗了首播日與得獎屆，60% 無 URL）。H2 §4 把年份從句首移到句中避編年味。直接引語全部來自研究 §4 逐字表；轉述（曹瑞原《零日攻擊》說明、文化部「因應 OTT」、「鼓勵不是沒收」）不加引號、不歸屬個人。王一明姓名未出現。",
+    "editorialChoices": "照投影藍圖八步骨架執行（投影室三席 revise 七條已回修）：論點「名單記錄、不決定；要點決定門，評審決定門內」在 §1 論點附註與 §4 末段落地；§3 得獎單位曲線只寫階段與五個官方逐字錨，逐屆交質性表格與 tw-timeline，避開 P7 逐屆流水帳；§7 爭議只留三樁（華燈初上、良辰吉時、龍劭華）、特展只留龍頭鍘一件；§8 入圍人名全砍。writer 自主判斷兩處：tw-slope 只放 YouTube 與同時在線兩列（電視總收視人口 460→505.5 改進 prose，避免三列同軸壓平翻倍）；§3 不寫《星星知我心》60% 收視（研究只驗了首播日與得獎屆，60% 無 URL）。H2 §4 把年份從句首移到句中避編年味。直接引語全部來自研究 §4 逐字表；轉述（曹瑞原《零日攻擊》說明、文化部「因應 OTT」、「鼓勵不是沒收」）不加引號、不歸屬個人。王一明姓名未出現。 大驗證輪後的關鍵取捨：2011 客家台首度得的是戲劇節目獎本身（影視局 100 年得獎名單一手推翻研究報告的『編劇獎』版本）；1965 改寫為七家電台分八座；「公視入圍最多」拿掉比較級；H2 四個補載體（去掉「發條」隱喻，因編鐘沒有發條）；tagline 六次重複改寫為變奏；評審主委人名移腳註；§4 加 105 vs 106 年度 tw-versus，tw-stat 搬到廣播節；定稿手拆掉六個長段，全篇零 ≥200 字段。",
     "unresolved": [
-      "「最近幾屆廣播金鐘都比戲劇類早一個星期頒獎」目前掛 [^1]（官網沿革），應改掛各屆典禮頁 [^7][^8]；第 59 屆廣播典禮日期未在報告中逐字，verifier 要查。",
-      "F35-54 括號釋義「35 到 54 歲女性觀眾」是收視口徑的通行解讀，來源頁未逐字解釋，verifier 判要不要留。",
-      "§8 仍列《回魂計》10、《乩身》9 兩個分項數字，藍圖減法說只留 40 與 13——留給 2.5-R 結構席裁。",
-      "prose-health warn 1：影視局新聞稿逐字引文內的全形分號，保留原文。",
-      "典禮 10/24 尚未舉行，文章刻意停在名單已印、結果未念；頒獎後需 EVOLVE-delta 補結果。"
+      "prose-health warn 1：影視局新聞稿逐字引文內的全形分號，引文保留。",
+      "研究報告 §C／§D／§5／§7.2 與 frontmatter 仍寫 2011 客家台是編劇獎（錯），3-bis fact-pack 回填排在 release accept 之後、ship 之前（研究報告是本 run 的依賴檔）。",
+      "典禮 10/17、10/23、10/24 尚未舉行，文章停在名單已印、結果未念；頒獎後需 EVOLVE-delta 補結果。",
+      "沈春華十三座、良辰吉時決議逐字（中時 403，公視新聞網交叉用字略異）為 verifier 標 ⚠️ 的殘餘，正文分別未寫／保留報告逐字。"
     ]
-  }
+  },
+  "editorialChoicesAppendix": "第三次提交：吸收第一位冷讀者（a62322dc8ca2e28c1）五條困惑——輪辦空白年一句釐清、民視補 1997 開播與 [^70]、一頻道計改寫成「每獎項五件為限、額度按頻道算」機制句、40→40 圖說補 2025 年 29 項、[^36] 補節目類 6 項分項；砍掉 §8 第三次「門／門內」重述。"
 }
