@@ -1,255 +1,258 @@
 ---
-title: 'Taiwan Design Research Institute: The Agency That Sneaks Design into Health Centers and Ballot Papers'
-description: 'In 2022, after the renovation of the ticketing area at Zhongshan Station on the Taipei MRT, someone commented, "Well done, don''t do it again." An institution that survives on the Golden Pin Awards, a design exhibition attended by millions, and an international ranking places its biggest gamble where you "don''t feel"—the waiting area of a health center in Xizhi, the font on your ballot paper. From "Made in Taiwan is synonymous with counterfeit" to "Design power is national power," the Taiwan Design Research Institute aims to prove that this manufacturing island can decide what things look like, including how the government meets its people.'
+title: 'Taiwan Design Institute: The Organization That Secretly Puts Design into Clinics and Ballots'
+description: 'In 2022, after the renovation of the ticket area at Taipei Metro Zhongshan Station, someone commented, "It was done well; don''t do it again." An organization that survives on Gold Point Awards, million-visitor design exhibitions, and international rankings places its biggest bets in areas you might not feel—the waiting areas of clinics in Xizhi, or the typeface on your ballot. The Taiwan Design Institute aims to prove that this manufacturing island can decide what things look like for itself, including how the government interacts with the people, moving from "Made in Taiwan is a synonym for imitation" to "design power is national strength."'
 date: 2026-06-04
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '設計與公共治理'
 tags:
-  - 'Design'
-  - 'Design Policy'
-  - 'Public Service Design'
-  - 'Social Design'
-  - 'Design Governance'
-  - 'Zhang Ji-yi'
-  - 'Golden Pin Design Award'
-readingTime: 16
+  [
+    'Design',
+    'Design Policy',
+    'Public Service Design',
+    'Social Design',
+    'Design Governance',
+    'Chiang Chi-yi',
+    'Gold Point Design Award',
+  ]
+subcategory: 'Design & Public Governance'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-04
 lastHumanReview: false
-featured: false
-translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:dc9a16af37eefe47'
-sourceBodyHash: 'sha256:f7df18837078b48f'
-translatedAt: '2026-06-16T17:03:25Z'
+readingTime: 16
 image: '/article-images/society/tdri-songshan-entrance-2022.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Entrance_2,_Songshan_Cultural_and_Creative_Park_20220423.jpg'
+rationale: "{'why_this_hook': '核心矛盾是「靠被看見存活的機構，把最大賭注押在你沒感覺的地方」。中山站作為 hook 一石二鳥——它既是最被看見的案子，又是「被看見反咬」的證據，把整篇 spine 的張力濃縮進一個讀者真的走過的車站售票區。', 'whats_excluded': '排除 2025 彰化設計展 784 萬人次（5 agent 共 38 次搜尋零來源）、第四金（YouTuber 標題）、97% 選民認同當硬事實（線上問卷無樣本）、波蘭夥伴國 MOU、石井裕、揭牌精確日、員工數、各年細部預算。這些 unverified 寫進去會讓一篇談「被看見」的文章自己變成過度膨脹的政績稿。', 'where_it_hedges': '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。', 'whos_pushing_back': 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'}"
+translatedFrom: 'Society/台灣設計研究院.md'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:31f2d67654f5ca72'
+translatedAt: '2026-09-18T12:52:10.547161+00:00'
 ---
 
-Xizhi’s health‑center waiting area now looks hardly like a health center. The fluorescent lights, plastic chairs, and tightly packed medication windows have disappeared, replaced by a set of modular “building‑block” installations—one each for “new‑town,” “new‑city,” and “rural” typologies. New Taipei City Health Bureau spent thirteen months, starting from pilot sites in Xizhi and Yingge[^1]. You probably didn’t notice it. When you go for a vaccine, blood‑pressure check, or to pick up chronic‑illness medication, the flow is a bit smoother, the wait less irritating, and then you leave.
+The waiting area at the Xizhi health center doesn't look like a health center anymore. The old setup—fluorescent lights, plastic chairs, and crowded dispensing windows—is gone, replaced by modular units that are designed to be assembled and disassembled, with versions for municipal, new town, and rural settings[^1]. The New Taipei City Health Bureau spent thirteen months starting these changes at two demonstration sites: Xizhi and Yingge. You probably didn't notice this. When you go get vaccinated, check your blood pressure, or pick up medication for chronic illnesses, the flow is a little smoother than before, the waiting isn't as stressful, and then you leave.
 
-You also probably didn’t notice the ballot paper in your hand. In the 2024 presidential election, the typeface printed on the ballot was _Siyuan Black_—an open‑source font derived from _Source Han Sans_ with rounded corners. The candidates’ names were set in _Full‑Character Song_[^2]. Previously, ballots used _Biaukai_[^3]. Out of more than 19 million voters, few thought, “Why does this ballot look different from before?”
+You probably also didn't pay attention to the ballot in your hand. The typeface used on the 2024 presidential election ballots is called "Siyuan Black," an open-source font derived from Siyuan Black with rounded corners, and candidates' names are printed using a full-character Song typeface[^2]. Before this, the ballots used "Biao Kai Ti" (Standard Script)[^3]. Among the nearly twenty million voters, few people stopped to think, "Why does this ballot look different from before?"
 
-The link between these two unnoticed things is an institution whose full name most people cannot pronounce: the Taiwan Design Research Institute, abbreviated TDRI. Its address is in the Songshan Cultural and Creative Park, the old Japanese‑era tobacco factory[^4]. It hosts the Golden Pin Awards each year, runs the Taiwan Design Exhibition that draws hundreds of thousands of visitors, and placed Director Zhang Ji-yi on the board of an international design organization[^5]. Yet its most significant bets are placed in corners you never look up at.
+What connects these two unnoticed things is an organization whose full name many people cannot state: the Taiwan Design Institute (TDRI). Its address is in the Songshan Cultural and Creative Park, that old tobacco factory built in the Japanese era[^4]. It hosts the Golden Dot Design Awards annually, organizes Taiwan Design Exhibitions attended by millions, and has appointed its director, Chang Chi-yi, as a council member of international design organizations[^5]. But where it truly focuses is on the corners you walk past without looking up.
 
-> **30‑second overview:** The Taiwan Design Research Institute (TDRI) is a public‑interest foundation under the Ministry of Economic Affairs, upgraded in 2020 from the Taiwan Creative Design Center[^6]. Its most visible achievements are the Golden Pin Design Award, the Taiwan Design Exhibition, and a global ranking that reached seventh place[^7]; but it stakes its biggest gamble on places you “don’t feel”: health centers, ballot papers, and campus redesigns. This reflects a half‑century trajectory for Taiwan—from an “OEM island” where _Made in Taiwan_ meant “counterfeit” to President Tsai Ing-wen’s claim that “design power is national power”[^8]. The 2022 renovation of Zhongshan MRT station happened to illustrate how being seen can be dangerous.
+> **30-Second Overview:** The Taiwan Design Institute (TDRI) is an established public enterprise under the Ministry of Economic Affairs, having been upgraded from the Taiwan Creative Design Center in 2020[^6]. Its most visible achievements are the Golden Dot Design Awards, the Taiwan Design Exhibitions, and its global ranking reaching seventh place[^7]; but it places its biggest bets on the areas you "don't feel"—health centers, ballots, and campus redesigns. This represents a half-century journey for Taiwan: from an assembly island where "Made in Taiwan" meant imitation goods, to when Tsai Ing-wen proclaimed that "design power is national power"[^8]. The renovation of Zhongshan Station by the MRT in 2022 perfectly demonstrated how dangerous visibility can be.
 
-## An Island Where Even Your Own Cup Is Designed by Others
+## The Island Whose Own Cups Are Designed by Others
 
-To understand why TDRI exists, we must return to the period Taiwan prefers not to remember.
+To understand why the Industrial Design Institute exists, one must first look back at the period that Taiwan least wants to remember.
 
-In the 1960s and 1970s, Taiwan relied on OEM (original equipment manufacturing). Foreign brands sent blueprints; Taiwanese factories reproduced them and slapped on foreign labels. In the 1980s and 1990s the model shifted to ODM, where Taiwan not only manufactured but also helped redesign products. Acer’s Stan Shih drew the famous “smiling curve” in 1992, arguing that research & development and branding at the two ends of the value chain were valuable, while assembly in the middle was cheap[^9]. After 2000, Taiwan began experimenting with OBM, creating its own brands.
+In the 1960s and 70s, Taiwan relied on OEM (Original Equipment Manufacturing) orders. Foreign brands would send over blueprints, and Taiwanese factories would produce them, affixing someone else's label. By the 1980s and 90s, this evolved into ODM (Original Design Manufacturing); Taiwan didn't just make things—it could help redesign them. Acer's Shih-ching-rong created the famous "smile curve" in 1992, telling the entire industry: only R&D at both ends—the designer and the brand—is valuable; assembly in the middle is the least valuable[^9]. After the 2000s, Taiwan began attempting OBM (Original Brand Manufacturing), creating its own brands.
 
-Yet during that era “Made in Taiwan” carried a poor image abroad. A 1994 English article in _Taiwan Panorama_ titled “Remade in Taiwan” reported that an American bike shop displayed a sign reading “We do not repair bikes from Taiwan,” and some exporters simply peeled off the label[^10]. The American design consultant David Lightle, hired by the Taiwan External Trade Development Council, warned, “Taiwan’s problem does not lie in its reality… The problem lies in its image.”[^10]
+However, during that era, the global image of "Made in Taiwan" was quite poor. A 1994 English article in _Taiwan Guanghua Magazine_ was titled 〈Remade in Taiwan〉, which mentioned how a bicycle shop in the United States would directly display signs saying, "We do not repair bikes from Taiwan"; some manufacturers would simply rip off labels when exporting[^10]. David Lightle, an American design consultant invited by the Export Promotion Association, made a very pointed statement: "Taiwan's problem does not lie in its reality... The problem lies in its image."[^10]
 
-The Trade Development Council established a Product Design Promotion Office in 1979, the earliest seed of a national‑level design team, headed by Cheng Yuan‑jin[^11]. It later became the Design Promotion Center, and in 2003 the Taiwan Creative Design Center (TDC) was formally incorporated as a foundation, with Chang Kuang‑min as its first CEO[^12]. TDC focused on promotion, exhibitions, and awards.
+The Export Promotion Association established a Product Design Promotion Office in 1979, which was the earliest origin of this national design effort, with Zheng Yuan-ching as the first director[^11]. It later became the Design Promotion Center, and in 2003, the Foundation for Taiwan Creative Design Center (TDC) was officially established, with Chang Guang-min as its first executive director[^12]. TDC's work is focused on promotion, exhibitions, and awards.
 
-> 📝 **Curator’s note**  
-> The common narrative is that Taiwan “moved from OEM to branding” through private‑sector effort. That is true, but it omits a crucial piece: companies can decide how their products look, but they cannot decide how a ballot paper, a health center, or a subway station looks—that is the government’s domain. TDRI’s real gamble is larger than a better cup: can the island decide even how the government meets its people? The deepest scar left by the OEM era is the habit of outsourcing the very shape of public life to “make‑do.”
+> 📝 **Curator's Note**
+> The common narrative is that Taiwan "transitioned from manufacturing to branding" through the efforts of private enterprises, which is true, but it misses a piece. Companies can decide what their products look like, but they cannot decide what an election ballot, a public restroom, or a train station looks like; those are government matters. What the Industrial Design Institute truly aims for is much larger than just making a good cup: whether this island can even determine "the way the government interacts with the people." The deepest scar left by the manufacturing-focused era is the long-term outsourcing of the appearance of public life to mere "compromise."
 
-In the 2010s, the rhetoric rose to the national level. The 2011 International Design Alliance conference in Taipei, organized by TDC, featured Vice President Hsiao‑wan‑chang declaring “Designed in Taiwan, rather than Made in Taiwan”[^13]—a line that predates President Tsai’s.
+In the 2010s, the discourse began to rise to the national level. In 2011, when the International Design Association held its conference in Taipei, hosted by TDC, Vice President Hsiao Wan-chang stated, "Designed in Taiwan, rather than Made in Taiwan,"[^13]. This statement predates that of Tsai Ing-wen.
 
-## The Year of Upgrade, the Mission Changes
+## The Year of Elevation: A Shift in Mission
 
-The real push to elevate “design” to a national strategy came in 2019‑2020.
+The period from 2019 to 2020 was what truly elevated "design" to a national strategy.
 
-On 23 October 2019, President Tsai Ing-wen announced the upgrade of the Taiwan Creative Design Center to the Taiwan Design Research Institute. She said, “Taiwan was once known for MIT; the future will have DIT, Designed in Taiwan.”[^14] On 30 September 2020, she added in a public speech, “Design power is national power.” Taiwan must not only have _Made in Taiwan_ but also let the world recognize _Designed in Taiwan_[^15]. On 5 December 2020, Premier Su Cheng‑chang approved the upgrade[^16], and TDRI officially opened in early 2020.
+On October 23, 2019, President Tsai Ing-wen announced that the Taiwan Creative Design Center would be upgraded to the "Design Institute of Taiwan." She stated, "Taiwan was famous for MIT; in the future, we must have DIT, Designed in Taiwan."[^14] On September 30 of the following year, she publicly declared, "Design power is national power," emphasizing that Taiwan needed not only Made in Taiwan but also to let the world know Designed in Taiwan[^15]. On December 5 of that year, Premier Su Tseng-chang approved the elevation project[^16], and the Institute officially launched in early 2020.
 
-The upgrade was more than a name change. Under the TDC era, the focus was promotion and exhibitions; under the institute era, the government assigned five core functions: establishing design policy, driving industrial design innovation, promoting public‑service innovation, developing social‑design innovation, and advancing international design diplomacy[^17]. The new keywords—policy, public service, society, diplomacy—point to a single direction: design should no longer serve only manufacturers; it must begin to serve government and citizens.
+The upgrade was more than just a name change. The Creative Design Center primarily focused on promotion and hosting exhibitions; the Institute's five official functions expanded to: establishing design policy, driving industrial design innovation, promoting public service innovation, developing social design innovation, and advancing international design diplomacy[^17]. The newly added keywords—"policy," "public service," "social," and "diplomacy"—all pointed in one direction: design was no longer just serving manufacturers; it needed to start serving the government and the people.
 
-Taking the baton was Zhang Ji-yi. His background is architecture: a bachelor’s from Tamkang University, a master’s in architecture from Ohio State University, and a Master of Design from Harvard’s Graduate School of Design in 1994[^18]. He worked at Peter Eisenman’s New York office, ran his own practice, served as professor and department head at National Chiao‑tung University’s Architecture Institute, and was deputy magistrate of Taitung County for over three years[^18]. He became chairman of TDC in 2018, the first director of TDRI in 2020, and remains in the post today[^18].
+The torchbearer for this mission is Chang Chi-yi. His background is in architecture. He holds a Bachelor of Architecture from Tamkang University, a Master of Architecture from Ohio State University, and a Master of Design from Harvard Graduate School of Design in 1994[^18]. After working at the firm of architectural master Peter Eisenman in New York, he returned to Taiwan where he ran his own architecture firm, served as a professor and director at the Department of Architecture at National Taiwan University, and also served as a deputy county magistrate of Taitung County for over three years[^18]. In 2018, he became the chairman of the Creative Design Center, and in 2020, he became the first director of the Institute, a position he still holds today[^18].
 
-![Exterior of the Taiwan Design Museum in Songshan Cultural and Creative Park, a modern glass‑curtain entrance with signage for “Taiwan Design Museum” and exhibition information](/article-images/society/tdri-design-museum-2019.webp)
-_The Taiwan Design Museum, established in 2011 and operated by TDRI, regularly hosts the Golden Pin Design Exhibition. It serves as a showcase for TDRI’s “visible” side. Photo: Hsuan Shih / Wikimedia Commons, CC0_
+![Exterior view of the Taiwan Design Museum, located in the Songshan Cultural and Creative Park. The building features a modern glass curtain wall entrance, with signage reading "Taiwan Design Museum" and exhibition information boards in front](/article-images/society/tdri-design-museum-2019.webp)
+_The Taiwan Design Museum was established in 2011 and operated by the Institute. The Golden Dot Design Awards are often held here. It is a window into the "visible" side of the Institute. Photo: Hsien Shi-sheng / Wikimedia Commons, CC0_
 
-Zhang explains the difference succinctly. He says TDC “realized value,” whereas the institute “creates value; creation is proactive.”[^19] What he seeks is harder than staging exhibitions: “We want design to become the basic DNA of the public sector.”[^20]
+Chang Chi-yi is very clear about this matter. He states that the difference between the Creative Design Center and the Institute lies in: "The Creative Design Center focuses on realizing value; the Institute focuses on creating value—creation is proactive."[^19] What he seeks is a task harder than hosting exhibitions: "We hope design can become fundamental DNA within public sectors."[^20]
 
-Embedding design into the DNA of the public sector sounds smooth, but it is the toughest bone in Taiwan’s public‑governance skeleton.
+Making design the DNA of the public sector sounds smooth, but it remains one of the toughest bones in Taiwan's public governance.
 
-## Inserting Design into Health Centers, Ballot Papers, and Campuses
+## Embedding Design in Health Centers, Ballots, and Campuses
 
-TDRI’s real battlefields are three places you rarely think about: where you receive medical care, where you vote, and where you study.
+The true battleground for the Institute of Design and Technology (IDT) lies in three places you might not think about proactively: where you see a doctor, where you vote, and where you study.
 
-Health centers are one. New Taipei City commissioned TDRI, starting from Xizhi and Yingge, to redesign the flow for waiting, medication pickup, and measurement into three modular typologies, aiming to replicate the model across all 29 districts of the city[^1]. The design team included spatial designers, user‑experience researchers, and consultants[^1]; you won’t remember the names, but that is the point: good public‑space design should be invisible.
+Health centers are one such area. The New Taipei City government commissioned IDT to redesign the flow—including waiting, dispensing medicine, and measurement—into three types that could be modularly assembled, starting in Xizhi and Yingge[^1]. The design team included designers, researchers, and consultants[^1]; you won't remember their names, but this is the key: good public space design makes you completely unaware that it was designed.
 
-![Redesigned waiting area of Xizhi health center, warm white walls, earth‑tone modular furniture, arm‑rested seats, clear hanging signage; the space no longer resembles the fluorescent‑light, plastic‑chair clinics of the past](/article-images/society/tdri-health-center-redesign-2021.webp)
-_Post‑redesign health‑center space: warm white tones, modular wall panels, age‑friendly arm‑rested seats. Image: Taiwan Design Research Institute (fair‑use editorial commentary)._
+![Waiting area at a redesigned health center in Xizhi, featuring warm white walls and earth-toned activity furniture, armrests on seats, and clear hanging signage; the overall look no longer resembles traditional health centers with fluorescent lights and plastic rows of chairs](/article-images/society/tdri-health-center-redesign-2021.webp)
+_Redesigned health center space by IDT: warm white tones, modular wall panels, and accessible armrest seating. Photo: Taiwan Design Institute (for fair use editorial commentary on health center redesign)._
 
-Schools are another. The Ministry of Education commissioned TDRI to implement the “School Aesthetics” campus‑design program, launching in 2019 with nine pilot schools[^21]. The project touches classrooms, corridors, and lockers—spaces used daily by hundreds of students—infusing aesthetic considerations from façade paint to everyday details. TDRI reports more than 112 redesign cases and collaborations with over 200 schools[^21].
+Schools are another area. The Ministry of Education commissioned IDT to execute the "Aesthetic School" campus aesthetic design practice project, which started in 2019, completing nine schools in the first round[^21]. This focused on spaces used daily by hundreds of students—classrooms, hallways, and lockers—bringing aesthetics from exterior paint down to everyday details. IDT claims it has completed over 112 renovation cases and collaborated with more than 200 schools[^21].
 
-The most sensitive arena is elections. The Central Election Commission hired TDRI for “election aesthetics,” spanning four years, three phases, and twelve design items: from referendum bulletins and election bulletins to ballot papers, candidate‑presentation events, the central election‑information center, voting‑site signage, voting notices, privacy screens at the ballot‑counting area, and certificates of election[^22]. The 2021‑12 referendum bulletin used the new design, was mailed to roughly 89.5 million copies, and later won the Golden Pin Award for communication design[^22]. The ballot‑paper font switch to _Siyuan Black_ also occurred within this framework[^2].
+The most sensitive area is elections. The Central Election Commission (CEC) tasked IDT with electoral aesthetics across four years in three phases, resulting in twelve design projects: from referendum bulletins and election pamphlets to ballots, political forums, the central election monitoring center, indicators at polling places, voting notifications, screens for marking votes, and certificates of election[^22]. The referendum bulletin from December 2021 used a redesigned version, sending about 8.95 million copies, and later won the Gold Dot Design Award in the communication design category in 2022[^22]. The font for ballots was also changed to Siyuan Black as part of this framework[^2].
 
-![Redesigned referendum bulletin with multi‑column layout, black‑type headings, red‑highlighted key information, improving readability over the previous dense two‑column format](/article-images/society/tdri-election-bulletin-redesign-2024.webp)
-_Redesigned referendum bulletin by TDRI and the CEC, featuring a multi‑column layout that reduces reading fatigue; the 2022 Golden Pin Award for communication design recognized it. The audience: nearly 20 million Taiwanese voters. Image: Taiwan Design Research Institute (fair‑use editorial commentary)._
+![Redesigned referendum bulletin using a multi-column block layout; titles were changed from traditional calligraphy to black type, and key information was marked in red, making it more readable than the previous format of long paragraphs on both sides](/article-images/society/tdri-election-bulletin-redesign-2024.webp)
+_Referendum bulletin redesigned in collaboration with the CEC by IDT; the multi-column block layout reduces reading fatigue and won the Gold Dot communication design award in 2022. This addresses the reading experience of nearly 20 million voters across Taiwan. Photo: Provided by Taiwan Design Institute (for fair use editorial commentary on electoral aesthetics)._
 
-When discussing election aesthetics, Zhang notes the difficulty: with nearly 19 million voters, redesign must “innovate step by step within existing laws and budget constraints”[^23]. This sentence captures the biggest limitation of public‑service design: you cannot overhaul a system as you would a commercial project; you must work within decades‑old regulations and budget structures, inch by inch.
+Chi Yi Chang described the difficulty of electoral aesthetics quite plainly. Quoting her, the Liberty Times reported that with nearly 19 million voters in Taiwan, changing electoral aesthetics through design requires "gradual innovation within existing regulations and budget constraints"[^23]. This sentence encapsulates the biggest limitation of public service design: you cannot make sweeping changes like in a commercial project; instead, you must push forward piece by piece within a regulatory and budgetary structure that has remained unchanged for decades.
 
-> 💡 **Did you know?**  
-> The privacy screen at the ballot‑counting area—the board that blocks a voter’s view when stamping—is only demonstrated in one school (Lu‑gong Junior High, Room 804) as part of the election‑aesthetics pilot[^22]. The reason it stopped at a single demo point is that public‑design diffusion often stalls at budgeting and procurement; turning one demo into a national standard requires long‑term persuasion and budgeting. TDRI’s self‑reported online survey showed about 97 % of voters approved the redesign[^24], but the survey did not disclose sample size or methodology, making it more a signal of support than a rigorous poll.
+> 💡 **Did You Know**
+> The screen used at marking stations—the panel that blocks the view of others while you are stamping—was only demonstrated in one school (Lu Gong Junior High School, Classroom 804) as part of the electoral aesthetics project[^22]. The reason it was limited to a single demonstration point is that the diffusion of public design is often stalled by procurement mechanisms and budgets; turning one demonstration point into a national standard requires a long process of persuasion and compilation. IDT stated in an online questionnaire that about 97% of voters approved these renovations[^24], but that survey did not disclose sample size or sampling methods, making it more like a signal of support than a rigorous public opinion poll.
 
-TDRI later extended this logic to a more foundational level: together with the Ministry of Economic Affairs’ Standards and Metrology Administration, the Ministry of Transportation and Communications, the Ministry of Health and Welfare, and the National Land Survey, it released the national standard “Public Service Icons” CNS16282 in March 2026, defining 253 icons across eight categories under a CC BY 4.0 license[^25]. Restroom, accessibility, and emergency‑exit signs now have a unified, nationally‑specified design language.
+IDT later extended this logic to a more fundamental level: together with the Bureau of Standards, Metrology and Inspection (BSMI), the Ministry of Transportation, the Ministry of Health and Welfare, and the National Land Administration, they announced the national standard "Public Service Icon" CNS16282 in March 2026, defining 253 icons across eight major categories with CC BY 4.0 open licensing[^25]. Signs for restrooms, accessibility, and emergency exits now have a national design standard.
 
-## Introducing Design into Bureaucracy Is a Persuasion Battle
+## Design Introduction into Bureaucracy: A Battle of Persuasion
 
-Putting design into government sounds beneficial, but in practice it is almost a guerrilla war.
+Placing design within government sounds like a good thing, but in practice, it is almost like guerrilla warfare.
 
-The most direct resistance comes from the system itself. TDRI’s own “Taiwan Design Power Report” admits that design “is difficult to incorporate into standardized budget‑evaluation mechanisms”[^26]. In plain terms, public‑sector budgeting requires objective metrics, yet design’s value is hard to quantify with a single number, leaving it perpetually disadvantaged in budget reviews.
+The most direct resistance comes from the system itself. The Institute of Industrial Design's own _Taiwan Design Power Report_ acknowledges that design "is difficult to incorporate into standardized budget evaluation mechanisms" [^26]. In plain terms, public agencies must have objective metrics for budgeting, but the value of design is hard to prove with a single number, so it always remains at a disadvantage during budget reviews.
 
-Local resistance is more concrete. TDRI promoted the T22 local‑industry revitalization program, starting with Yingge’s ceramics industry[^27]. Zhang recalls an early encounter: the ceramics association chairman retorted, “You’re all just book‑worms!”—implying that design‑trained people know nothing about doing business[^27]. Gaining entry into real‑world industry often stalls at the trust barrier.
+Resistance on the local level is more concrete. The Institute of Industrial Design promoted T22 local industry revitalization, starting with ceramics in Yingge [^27]. Chang Chi-yi recounted the initial encounters: the chairman of the ceramics association confronted the Institute's staff face-to-face, saying, "You are all bookworms!" [^27], meaning, you people who study design and read books don't understand business. The first hurdle for design to enter real industry sites is often trust.
 
-> ⚠️ **Controversial view**  
-> Introducing design into public services carries an unspoken embarrassment: its impact is hard to prove. A review by Scotland‑based PDR Research on Taiwan’s design policy bluntly states, “Visions are not enough, there have to be tangible metrics and evaluation indicators.” The same review criticizes a design policy that neglects environmental sustainability as “way off the mark”[^28]. Some recent academic papers authored by TDRI staff[^29] suggest that many arguments for “effective design governance” are internally produced, making independent third‑party assessment difficult.
+> ⚠️ **Controversial Viewpoints**
+> A difficult truth about introducing design into public service is that its effectiveness is hard to prove. A commentary on Taiwan's design policy from the PDR Design Research Institute in Scotland was very direct: "Visions are not enough, there have to be tangible metrics and evaluation indicators." This commentary also pointed out that a design policy ignoring environmental sustainability is "way off the mark" [^28]. In some academic papers published by the Institute of Industrial Design in recent years, the authors themselves were members of the Institute [^29], meaning many arguments about "effective design governance" are self-referential to the institution and cannot easily be considered independent third-party evaluations.
 
-Sharper criticism reaches back before the upgrade. The art‑media archive ARTouch, discussing TDC’s elevation to an institute, highlighted longstanding doubts: “conflict of interest with the private sector,” unclear organizational hierarchy, and difficulty retaining talent[^30]. “Conflict of interest” refers to a government‑funded body that runs exhibitions, awards, and design services potentially crowding out private design firms; “unclear hierarchy” points to its awkward position between government and civil society. Upgrading to an institute was, in part, an attempt to answer these concerns by shifting the role from “implementation unit” to “policy research.”
+Sharper criticisms date back before its elevation. When ARTouch, an art media archive, discussed the promotion of Taiwan Creative Design Institute (TCDI) into an institute, it mentioned several long-standing issues questioned about TCDI: "competing with the public," unclear organizational hierarchy, and difficulty retaining talent [^30]. "Competing with the public" refers to whether a government-funded institution holding exhibitions, awarding prizes, or providing design services might crowd out private design firms; "unclear organizational hierarchy" points to its awkward position between government and private sectors. The elevation to an institute was partly intended to respond to these criticisms, shifting its positioning from an "implementing unit" toward "policy research."
 
-Design circles also debate “design as political achievement.” In 2026, a storm centered on TDRI itself. Prominent designer Nie Yong‑chen, through TDRI, handled a series of government‑identity projects, most notably Taipower’s “identity‑system optimization” with a contract value of NT$969,000, which revised the corporate logotype[^31]. Critics focused on two issues: whether a loss‑making state‑owned enterprise deserves spending on “just a few font tweaks,” and whether TDRI, as the allocator of government design contracts, turned certain designers into “benefit‑sharing” participants[^41]. The Ministry of Economic Affairs responded, “We trust the institute’s professionalism,” emphasizing that TDRI selected at least three design teams with relevant experience before choosing a partner, and clarified that the Trade Promotion Agency’s identity system was handled by another company, not a single vendor[^41]. This controversy exposed TDRI’s most awkward position: it holds the budget and decision‑making power to “make government look good,” and once that power is visible, it is scrutinized under the harshest magnifying glass.
+Within the design community, there are also opinions that "design as a political achievement" is problematic, and a storm in 2026 just pointed the finger at the Institute of Industrial Design. The well-known designer Nie Yongzhen undertook a series of government branding projects for the Institute of Industrial Design. The most scrutinized was Taipower's "Brand System Optimization Design," with a contract value of approximately NT$969,000, which readjusted the corporate logotype [^31]. Criticism focused on two things: whether a state-owned enterprise that has been running at a loss deserves to spend this money "just changing some characters"; and whether the Institute of Industrial Design, as the allocator of government design projects, allowed certain designers to become so-called "beneficiaries" [^41]. The Ministry of Economic Affairs responded by stating they "trust the professionalism of the institute," emphasizing that the Institute selected partners only after "surveying at least three design teams with relevant execution experience and track records," and clarified that the branding system for the Trade Bureau was done by another company, not solely contracted by a single vendor [^41]. This controversy brought the most awkward position of the Institute of Industrial Design into the sunlight: it holds both the budget and the decision-making power to "make the government look better," and this power, once seen, is subjected to the strictest magnifying glass examination.
 
-## The Visible Side: Golden Pin, Millions of Visitors, World‑Rank Seventh
+## The Visible Side: Golden Dot Awards, Millions of Visitors, and Seventh Place Globally
 
-After all the invisible work, we must return to TDRI’s most visible side: being seen.
+After discussing so many intangible things, we must look back at what the Industrial Design Institute (IDI) does best and needs most: being seen.
 
-The flagship is the Golden Pin Design Award. Its lineage stretches back to a 1981 product‑quality selection, renamed Golden Pin in 2009, and opened to international entries in 2014[^32]. The Ministry of Economic Affairs’ Industrial Development Administration sponsors it; TDRI executes the award[^32]. Scale has indeed grown: the 2023 edition received nearly 8,000 entries from 23 regions, selecting 25 annual‑best designs[^33].
+The IDI's biggest signature is the Golden Dot Design Award. It has a long lineage: starting with the Excellent Product Selection in 1981, renaming to Golden Dot in 2009, and beginning international submissions in 2014[^32]. The event is hosted by the Industrial Development Bureau of the Ministry of Economic Affairs, with the IDI as the implementing unit[^32]. The scale has certainly grown: the 2023 iteration received nearly eight thousand entries from twenty-three regions, ultimately selecting twenty-five annual best designs[^33].
 
-Another flagship is the Taiwan Design Exhibition, touring different counties and cities each year, turning each host city into a design showcase. Attendance has surged: 4.25 million in Pingtung (2019), 2.8 million in Hsinchu (2020), 6 million in Kaohsiung (2022), and a record 6.58 million in New Taipei (2023)[^34]. For many young people, the autumn exhibition dominates Instagram feeds.
+Another signature event is the Taiwan Design Exhibition. It tours different cities every year, turning a city into an exhibition space for design. The number of visitors grows astonishingly each year: 2.45 million in Pingtung in 2019, 2.8 million in Hsinchu in 2020, 6 million in Kaohsiung in 2022, and 6.58 million in New Taipei in 2023, which is the highest ever[^34]. For many young people, the autumn Taiwan Design Exhibition is a staple on Instagram.
 
-![Renovated ticketing area of Zhongshan MRT station, unified dark‑gray visual envelope, re‑arranged ticket machines, fare information, and user interface; replaces the previous colorful, chaotic signage](/article-images/society/tdri-zhongshan-ticketing-redesign-2022.webp)
-_Post‑redesign Zhongshan Station ticketing area, concept “encapsulate service in a box.” This project sparked user‑experience controversy after its 2022 public release, yet won the 2024 Golden Pin Annual Best Design Award. Image: Taiwan Design Research Institute (fair‑use editorial commentary)._
+![The ticketing area at Zhongshan Station, Taipei Metro, after renovation, unified with dark gray overall wrapping; ticket machines, fare information, and operation interfaces were reorganized, replacing the previous colorful clutter](/article-images/society/tdri-zhongshan-ticketing-redesign-2022.webp)
+_The ticketing area at Zhongshan Station, renovated by the IDI, integrates facilities under the concept of "containing services in a box." This is the same case that sparked controversy over user experience after its public release in 2022 but won the Golden Dot Annual Best Design Award in 2024. Photo: Taiwan Design Institute (Zhongshan Station Redesign, fair use editorial commentary)._
 
-International rankings are another metric TDRI cites. In the World Design Rankings, Taiwan climbed from 38th globally in 2013 to 8th in 2019, and reached 7th in 2023‑24[^35]. Zhang Ji‑yi was elected a board member of the World Design Organization (WDO) in 2019 as a TDC representative and re‑elected in 2022[^36]; he describes this as “design diplomacy”: “When these ecosystems mature, they become Taiwan’s experience, which can be exchanged with the world and used for design diplomacy.”[^37]
+International rankings are also metrics the IDI frequently cites. In the World Design Rankings, Taiwan climbed from 38th globally in 2013 to 8th in 2019, and reached 7th in 2023–2024[^35]. Chang Chi-yi was elected as a council member of the World Design Organization (WDO) representing Taiwan in 2019 and re-elected in 2022[^36]. He refers to this approach as "design diplomacy": "When these ecosystems mature, they become Taiwanese experience, which can communicate with the world through design diplomacy."[^37]
 
-> ✦ “We hope design becomes the basic DNA of the public sector.” — Zhang Ji‑yi
+> ✦ "We hope that design becomes a basic DNA within public sectors." — Chang Chi-yi
 
-Being seen is not wholly negative. An institution funded by government budgets and constantly asked, “What exactly have you done?” needs the Golden Pin, massive visitor numbers, and international rankings to justify its expenditures. Yet visibility also has a flip side.
+Being seen is not always positive. An organization reliant on government budgets and constantly questioned about "what exactly you have done" needs awards like the Golden Dot, millions of visitors, and international rankings to prove that the money spent was worthwhile. However, being visible also has its downsides.
 
-## Zhongshan Station: Seen, Then Bitten Back
+## Zhongshan Station: Seen, Then Attacked
 
-In 2021, TDRI launched the redesign of Taipei MRT’s Zhongshan Station, publicly unveiling the first phase—mainly the ticketing area—on 19 October 2022[^38]. Spatial, visual, and product design were handled by different teams; the proposal later won the 2024 Golden Pin Annual Best Design Award in the integrated‑design category[^39].
+In 2021, the Industrial Design Institute (IDI) began redesigning the Zhongshan Station of the Taipei Metro. The first phase results, primarily focusing on the ticketing area, were unveiled on October 19, 2022[^38]. Different teams handled the spatial form design, visuals, and product design, and this proposal later won the Golden Dot Design Award for Best Annual Design in the Integrated Design category in 2024[^39].
 
-From an awards perspective, it is a success. From the station’s perspective, it became TDRI’s most public “getting‑hit” moment.
+From an awards perspective, it is a success story. However, from the station's on-site reality, it was IDI's most public instance of criticism.
 
-After the public release, a flood of negative comments appeared online. A compilation by CTS included remarks such as “Well done, don’t do it again,” “Are you designing the station or the passengers?” and “UI redesign, but UX unchanged?”[^40] Criticism focused on user experience: ticket‑machine height did not adequately consider wheelchair users or children; the visual upgrade did not improve operational ergonomics[^40]. TDRI responded, “Optimization is ongoing; we will continue to adjust with co‑creation partners”[^40]; according to TDRI, later adjustments addressed details like route‑map height[^38].
+After the results were released, numerous negative comments flooded the internet. Among the sharp remarks compiled by Huashi were: "It's not bad, but don't do it again," "Are you designing a station or a traveler?" and "The UI was redesigned, but the UX hasn't changed at all?"[^40]. Criticism focused on user experience: the height of the ticket machines did not adequately consider wheelchair users and children. While the visuals were appealing, the ease of actual operation had not improved[^40]. IDI responded that "optimization is ongoing and will be continuously revised with various co-creation units,"[^40] stating that adjustments were also made to details like the route map height later[^38].
 
-> 📝 **Curator’s note**  
-> The Zhongshan case condenses the article’s tension into a single ticketing area. Health‑center, ballot‑paper, and campus projects escaped criticism partly because they are unobtrusive—you don’t notice they have been designed, so you don’t nitpick. Zhongshan is different: it is a downtown station traversed by tens of thousands daily, loudly announcing “We have redesigned this.” Once you invite public scrutiny, the most exacting eyes are applied. Being seen is TDRI’s survival strategy, but being seen also makes it the easiest target. A poorly placed medication window at a health center goes unnoticed; a redesigned ticket machine at a metro station draws nationwide commentary.
+> 📝 **Curator's Note**
+> The Zhongshan Station case condenses the contradiction of this entire article into one ticketing area. The reason why projects like health clinics, voting booths, and classrooms haven't been criticized is partly because they are inconspicuous; you don't feel that they were designed, so naturally, you won't nitpick their design. Zhongshan Station is different; it is a central city station where tens of thousands of people pass daily, loudly announcing, "We redesigned this place." Once you invite everyone to look, they will examine it with the strictest eyes. Being seen is IDI's survival strategy, but what is seen is also the easiest target. A malfunctioning dispensing window at a health clinic won't trend on Twitter; a criticized ticket machine at a metro station will go viral across the web.
 
-This is TDRI’s deepest dilemma. It must be visible to survive—without the Golden Pin, exhibitions, or rankings, it cannot secure budget. Yet its proudest work is precisely what should remain invisible: when a health center, a ballot paper, or a classroom is designed well enough that you feel nothing, you use it seamlessly and move on. Visibility earns it a reason to exist; the absence of feeling is its true proof of success. These two forces forever pull in opposite directions.
+This is IDI's deepest dilemma. It must be visible to survive; without Golden Dot awards, design exhibitions, or rankings, it cannot stand in budget meetings. Yet, the work it should be most proud of is precisely that which should remain unseen: when a health clinic, a ballot, or a classroom is designed well enough that your reaction is "no feeling," and you just use it and leave. Visibility earns it a reason to exist; having no feeling is its true measure of success. These two things are forever pulling in opposite directions.
 
-## When You Don’t Notice Them
+## When You Didn't Notice Them
 
-Return to the Xizhi health center.
+Back at the health clinic in Xizhi.
 
-Next time you measure blood pressure or pick up chronic‑illness medication, you may still not notice the redesigned waiting area. You will think the flow should be this way, the chairs should be arranged like that, the signage should be clear. You won’t consider that thirteen months of work transformed it from “make‑do” to “handy.”
+The next time you go to check your blood pressure or pick up medication for a chronic condition, you might not notice that the waiting area has been redesigned. You would just think the flow of movement was supposed to be like this, the chairs were meant to be arranged this way, and the signage was supposed to be this clear. You wouldn't think that someone spent thirteen months transforming it from "just good enough" into "seamless."
 
-That is exactly the state TDRI strives for but rarely receives applause for. A good public‑service design ultimately disappears into a seamless experience; if you don’t feel it, it succeeded. From “Made in Taiwan equals counterfeit” to “Designed in Taiwan,” the island spent half a century learning to decide what things look like. The hardest step is learning to do so without making you think about it.
+This is precisely the state that the Taiwan Design Institute most wants to achieve—a state for which they rarely receive applause. A good public service design eventually disappears into a seamless experience; if you don't feel it, then it has succeeded. From "Made in Taiwan means imitation goods" to "Designed in Taiwan," this island spent half a century learning how to decide what things should look like. The hardest step is learning to do this so that you don't have to think about it at all.
 
-The font on your ballot paper is _Siyuan Black_. You probably didn’t even know that until now. And that, essentially, is the point.
+The font on the ballot you hold is Siyuan Black. You probably didn't know that until just now. And that, in essence, is the point.
 
 ## Further Reading
 
-- [Nie Yong‑chen](/en/people/nieh-yung-jen) — One of Taiwan’s most representative graphic designers, central figure in the Taipower identity controversy, and an unavoidable name in the “design as political achievement” debate.
-- [Taiwan’s Industrial Transformation](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The story of Taiwan’s shift from an OEM island to higher‑value‑added industries; the design institute’s gamble on “what things look like” is a less‑discussed thread of that narrative.
-- [Public Television](/en/society/pts-public-television-service) — Another public‑interest foundation navigating the tightrope between “publicness” and “scrutiny.”
-- [Taiwan Architecture](/en/art/taiwanese-architecture) — Zhang Ji‑yi’s professional field, helping explain why an architect believes spatial design can reshape the relationship between government and citizens.
+- [Nie Yongzhen](/en/people/nieh-yung-jen) — One of Taiwan's most representative graphic designers, the central figure in the Taipower identity optimization controversy, and an unavoidable name in discussions about "design as achievement."
+- [Taiwanese Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The entire story of moving from a contract manufacturing island to high added value; what the Institute of Design was betting on is one thread less often discussed along this path.
+- [Public Television](/en/society/pts-public-television-service) — Also a public corporation, an institution that walks a tightrope between "publicness" and "scrutiny."
+- [Taiwanese Architecture](/en/art/taiwanese-architecture) — The field of Chang Chi-yi; understanding why an architect believes that spatial design can change the distance between government and the people.
+- [Academia Sinica](/society/中央研究院) — Also a research institution funded by the state, but one placed under the Presidential Office versus one under a ministry, with different capabilities and different questions being asked of it.
 
 ## Image Sources
 
-All images in this article are cached locally under `public/article-images/society/`; no hot‑linking to external servers.
+The images in this article are divided into two categories and are all cached in `public/article-images/society/`, without linking to external source servers:
 
-**CC / Public Domain (illustrative images)**
+**CC / Public Domain Licenses (Contextual Images)**
 
-- Entrance to Songshan Cultural and Creative Park (hero) — Solomon203, [CC BY‑SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance_2,_Songshan_Cultural_and_Creative_Park_20220423.jpg).
-- Taiwan Design Museum — Hsuan Shih, [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Design_Museum_20191027.jpg).
+- Songshan Cultural and Creative Park Entrance (hero) — Solomon203, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance_2,_Songshan_Cultural_and_Creative_Park_20220423.jpg).
+- Taiwan Design Museum — Xuan Shi Sheng, [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Design_Museum_20191027.jpg).
 
-**Fair‑use editorial commentary (TDRI project documentation)**
+**Fair Use Editorial Commentary (TDRI Redesign Case Study Images)**
 
-The following three images are TDRI‑released project documentation, used under U.S. copyright law § 107 fair‑use criteria (non‑commercial, educational, published, limited proportion, no market substitution).
+The following three images are design project records publicly released by the Institute of Industrial Design and Technology (IDIT) and are used as editorial commentary referencing IDIT's work, based on Article 65 of the Copyright Act and the four factors of fair use in 17 U.S.C. § 107 (non-commercial educational nature, published status, small proportion quoted, no substantial market replacement). All images are locally cached and sourced:
 
-- Redesigned health‑center space — © Taiwan Design Research Institute ([Health‑Center Redesign](https://www.tdri.org.tw/zh-TW/news/180)). Fair‑use editorial commentary on TDRI’s work.
-- Election‑aesthetics referendum bulletin redesign — © Taiwan Design Research Institute, provided via [ETtoday report](https://www.ettoday.net/news/20240104/2657499.htm). Fair‑use editorial commentary on TDRI’s work.
-- Zhongshan MRT station ticketing area redesign — © Taiwan Design Research Institute ([Zhongshan Station Redesign](https://www.tdri.org.tw/zh-TW/news/100)). Fair‑use editorial commentary on TDRI’s work.
+- Redesigned Health Clinic Space — © Taiwan Design Institute ([Redesign of Health Clinic](https://www.tdri.org.tw/zh-TW/news/180)). Fair use editorial commentary on TDRI's work.
+- Redesigned Election Ballot — © Provided by the Taiwan Design Institute (reported in [ETtoday](https://www.ettoday.net/news/20240104/2657499.htm)). Fair use editorial commentary on TDRI's work.
+- Redesigned MRT Zhongshan Station Ticketing Area — © Taiwan Design Institute ([Redesign of MRT Zhongshan Station](https://www.tdri.org.tw/zh-TW/news/100)). Fair use editorial commentary on TDRI's work.
 
 ## References
 
-[^1]: [TDRI Health‑Center Redesign (fundesign.tv)](https://www.fundesign.tv/tdri-public-health-center/) — Report on New Taipei City Health Bureau’s commission of TDRI for pilot redesigns in Xizhi and Yingge, thirteen‑month timeline, three modular typologies, and design‑team composition.
+[^1]: [Institute of Design and Technology Redesign (fundesign.tv)](https://www.fundesign.tv/tdri-public-health-center/) — Reports on the redesign of health centers in Xizhi and Yingge commissioned by the New Taipei City Health Bureau, detailing a thirteen-month project with three modular types and design teams.
 
-[^2]: [Ballot‑paper font switch to _Siyuan Black_ (ETtoday)](https://www.ettoday.net/news/20240104/2657499.htm) — Report on the 2024 election ballot adopting the open‑source _Siyuan Black_ font and using _Full‑Character Song_ for candidate names; contrasts with previous use of _Biaukai_.
+[^2]: [Election Ballot Font Changed to Siyuan Black (ETtoday)](https://www.ettoday.net/news/20240104/2657499.htm) — Reports that the 2024 election ballots use the open-source Siyuan Black font for printing, while candidate names use a full-character Song typeface, noting differences from previous usage of Baiti.
 
-[^3]: Same as ^2, detailing the prior use of _Biaukai_ on ballots.
+[^3]: [Election Ballot Font Changed to Siyuan Black (ETtoday)](https://www.ettoday.net/news/20240104/2657499.htm) — Similar to above, explaining the context of changing the election ballot font from Baiti to the current version.
 
-[^4]: [TDRI About (official)](https://www.tdri.org.tw/about/) — Official description of TDRI as a public‑interest foundation under the Ministry of Economic Affairs, located in the Songshan Cultural and Creative Park.
+[^4]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official introduction states that the Industrial Design Institute is a public foundation managed by the Ministry of Economic Affairs, with its registered address in Songshan Cultural and Creative Park.
 
-[^5]: Same as ^4, outlining TDRI’s organization of the Golden Pin Design Award, Taiwan Design Exhibition, and international design diplomacy.
+[^5]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official description mentions that the Institute handles awards like the Golden Point Design Award, Taiwan Design Exhibition, and international design diplomacy.
 
-[^6]: [CNA report on TDC’s upgrade to TDRI (Central News Agency)](https://www.cna.com.tw/news/firstnews/201912050118.aspx) — Report on the Executive Yuan’s decision on 5 December 2019 to upgrade the Taiwan Creative Design Center to the Taiwan Design Research Institute.
+[^6]: [Taiwan Creative Design Institute (Central News Agency)](https://www.cna.com.tw/news/firstnews/201912050118.aspx) — Reports on the Executive Yuan's decision on December 5, 2019, to upgrade the Taiwan Creative Design Center to the Industrial Design Institute.
 
-[^7]: Same as ^4, listing the Golden Pin Design Award, Taiwan Design Exhibition, and design diplomacy as core external activities.
+[^7]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official listing highlights the Golden Point Design Award, Taiwan Design Exhibition, and design diplomacy as major external functions.
 
-[^8]: [Presidential Office Press Release 25611 (Presidential Office)](https://www.president.gov.tw/News/25611) — President Tsai Ing-wen’s speech citing “design power is national power” and the _Designed in Taiwan_ concept.
+[^8]: [Presidential Office Press Release 25611 (Presidential Office)](https://www.president.gov.tw/News/25611) — A primary source of President Tsai Ing-wen's speech mentioning 'design power is national power' and Designed in Taiwan.
 
-[^9]: [Remade in Taiwan (Taiwan Panorama)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=edab24ee-3ca3-4192-8940-91923c3a29cc) — Review of Taiwan’s OEM/ODM/OBM transition, including the smiling‑curve background.
+[^9]: [Remade in Taiwan (Taiwan Guanghua Magazine)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=edab24ee-3ca3-4192-8940-91923c3a29cc) — A review of Taiwan's OEM/ODM/OBM transformation history, including the background of the Smile Curve concept.
 
-[^10]: Same as ^9, English 1994 article reporting U.S. bike‑shop signage, label‑removal incidents, and consultant David Lightle’s comment on Taiwan’s image problem.
+[^10]: [Remade in Taiwan (Taiwan Guanghua Magazine)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=edab24ee-3ca3-4192-8940-91923c3a29cc) — An English report from 1994 detailing incidents like US car dealerships affixing labels and peeling them off, along with comments by consultant David Lightle on Taiwan's image problem.
 
-[^11]: Same as ^4, official history noting the 1979 establishment of the Product Design Promotion Office by the Trade Development Council, the earliest source of a national design team.
+[^11]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official history states that the Trade Fair Association established a Product Design Promotion Office in 1979 as the origin of design promotion.
 
-[^12]: Same as ^4, official history describing the 2003 incorporation of the Taiwan Creative Design Center (TDC).
+[^12]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official history mentions the establishment of the Taiwan Creative Design Center (TDC) as a foundation in 2003.
 
-[^13]: [2011 IDA Conference in Taipei (Taipei Times)](https://www.taipeitimes.com/News/feat/archives/2011/09/29/2003514437) — Report on the 2011 International Design Alliance conference in Taipei, organized by TDC, and Vice President Hsiao‑wan‑chang’s “Designed in Taiwan” remarks.
+[^13]: [2011 IDA Conference in Taipei (Taipei Times)](https://www.taipeitimes.com/News/feat/archives/2011/09/29/2003514437) — Reports on the International Design Association conference held in Taipei in 2011, hosted by TDC, and Xiao Wan-chang's speech on Designed in Taiwan.
 
-[^14]: [Presidential Office Press Release 24937 (Presidential Office)](https://www.president.gov.tw/NEWS/24937) — 23 October 2019 announcement by President Tsai Ing-wen of the institute upgrade and the DIT, _Designed in Taiwan_ initiative.
+[^14]: [Presidential Office Press Release 24937 (Presidential Office)](https://www.president.gov.tw/NEWS/24937) — The primary press release from President Tsai Ing-wen on October 23, 2019, announcing the upgrade of the Industrial Design Institute and proposing DIT, Designed in Taiwan.
 
-[^15]: Same as ^8, 30 September 2020 presidential speech on “design power is national power.”
+[^15]: [Presidential Office Press Release 25611 (Presidential Office)](https://www.president.gov.tw/News/25611) — A primary source of President Tsai Ing-wen's speech on September 30, 2020, regarding 'design power is national power'.
 
-[^16]: Same as ^6, reporting Premier Su Cheng‑chang’s approval of the upgrade.
+[^16]: [Taiwan Design Institute Promoted (Central News Agency)](https://www.cna.com.tw/news/firstnews/201912050118.aspx) — Reports on Director Su Tseng-chang's decision regarding the promotion and the background of the promotion.
 
-[^17]: Same as ^4, listing TDRI’s five core functions: design policy, industrial design innovation, public‑service innovation, social‑design innovation, and international design diplomacy.
+[^17]: [Taiwan Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official site lists five major functions of the institute: design policy, industrial design innovation, public service innovation, social design innovation, and international design diplomacy.
 
-[^18]: [Zhang Ji‑yi entry (votetw wiki)](https://votetw.com/wiki/%E5%BC%B5%E5%9F%BA%E7%BE%A9) — Compilation of Zhang’s education and career: Tamkang Architecture, Ohio State, Harvard MDes, Eisenman office, NCTU professor, Taitung deputy magistrate, TDC chair, TDRI director.
+[^18]: [Chi-Yi Chang Entry (votetw wiki)](https://votetw.com/wiki/%E5%BC%B5%E5%9F%BA%E7%BE%A9) — Organizes Chi-Yi Chang's academic career: Tamkang Architecture, Ohio State, Harvard MDes, Eisenman firm, NTU professor, Taitung Deputy County Magistrate, and roles at TAIC and TDI.
 
-[^19]: [Zhang Ji‑yi interview (La Vie)](https://www.wowlavie.com/article/ae2002047) — Direct quote on the difference between TDC “realizing value” and the institute “creating value.”
+[^19]: [Interview with Chi-Yi Chang (La Vie)](https://www.wowlavie.com/article/ae2002047) — Chi-Yi Chang's verbatim quote distinguishing between TAIC and the Institute: 'TAIC is realizing value, while the Institute is creating value.'
 
-[^20]: Same as ^19, direct quote on wanting design to become the basic DNA of the public sector.
+[^20]: [Interview with Chi-Yi Chang (500 Series)](https://500times.udn.com/wtimes/story/12670/4901138) — The source of Chi-Yi Chang's verbatim quote: 'I hope design in the public sector becomes a basic DNA.'
 
-[^21]: Same as ^4, official description of the “School Aesthetics” program commissioned by the Ministry of Education and cumulative redesign cases and school collaborations.
+[^21]: [Taiwan Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official description of the Education Ministry commissioned and executed the Aesthetics Program for Schools, including cumulative renovation cases and cooperating schools.
 
-[^22]: [Election Aesthetics Design (Liberty Times)](https://art.ltn.com.tw/article/breakingnews/4542250) — Report on the CEC’s commission of TDRI for election aesthetics, four‑year, three‑phase, twelve‑item project, referendum bulletin distribution numbers, and Golden Pin award recognition.
+[^22]: [Electoral Aesthetics Design (Liberty Times)](https://art.ltn.com.tw/article/breakingnews/4542250) — Reports on the election aesthetics project commissioned by the election committee: four phases over four years, twelve items, distribution of referendum publications, and Gold Point Award recognition.
 
-[^23]: Same as ^22, journalist quoting Zhang on the 19 million voters and incremental innovation within existing laws and budgets.
+[^23]: [Electoral Aesthetics Design (Liberty Times)](https://art.ltn.com.tw/article/breakingnews/4542250) — A reporter quotes Chi-Yi Chang discussing innovation within existing regulations and budget constraints for nearly nineteen million voters.
 
-[^24]: Same as ^22, reporting TDRI’s self‑reported online survey showing ~97 % voter approval, but without disclosed sample size or sampling method.
+[^24]: [Electoral Aesthetics Design (Liberty Times)](https://art.ltn.com.tw/article/breakingnews/4542250) — The report mentions that the Institute's self-reported online questionnaire showed about 97% approval, but sample size and sampling method were not disclosed.
 
-[^25]: [Public Service Icons CNS16282 (TDRI official)](https://www.tdri.org.tw/zh-TW/CNS16282) — Official description of the March 2026 national standard for public‑service icons: 253 icons, eight categories, CC BY 4.0, cross‑departmental co‑creation.
+[^25]: [Public Service Icon CNS16282 (Institute Official)](https://www.tdri.org.tw/zh-TW/CNS16282) — The official announcement of the national standard for public service icons released in March 2026, featuring 253 icons, eight categories, CC BY 4.0 licensing, and cross-ministerial co-creation.
 
-[^26]: Same as ^4, TDRI’s internal report acknowledging design’s difficulty in standardized budget‑evaluation mechanisms.
+[^26]: [Taiwan Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official report acknowledges the limitation that design is difficult to incorporate into standardized budget evaluation mechanisms.
 
-[^27]: Same as ^19, Zhang recounting the early resistance from the Yingge ceramics association director who said “you’re all just book‑worms!”
+[^27]: [Interview with Chi-Yi Chang (500 Series)](https://500times.udn.com/wtimes/story/12670/4901138) — Chi-Yi Chang recounts a scene where local guild chairmen resisted the early promotion of Yingge ceramics, saying, 'You are all academics!'
 
-[^28]: [Taiwan Design Policy Review (PDR Research)](https://www.pdr-research.com/news/trends-in-design-policy-from-taiwan) — Scottish PDR design research institute’s commentary on Taiwan’s design policy, criticizing lack of tangible metrics and omission of environmental sustainability.
+[^28]: [Taiwan Design Policy Commentary (PDR Research)](https://www.pdr-research.com/news/trends-in-design-policy-from-taiwan) — A critique of Taiwan's design policy by the Scottish PDR design research organization, criticizing the lack of measurable indicators and ignoring environmental sustainability as being way off the mark.
 
-[^29]: [New Member TDRI (ICoD)](https://www.theicod.org/resources/news-archive/new-member-taiwan-design-research-institute-taiwan) — International Council of Design’s introduction of TDRI, noting many academic papers are authored by institute staff, limiting independent evaluation.
+[^29]: [New Member Taiwan Design Institute (ICoD)](https://www.theicod.org/resources/news-archive/new-member-taiwan-design-research-institute-taiwan) — The International Council of Design introduces the Institute, which can be cross-referenced for its characteristic of academic publications often being written by internal staff rather than independent third parties.
 
-[^30]: [“Design Power” as National Power: Institute Launch (ARTouch archive)](https://artouch.com/view/content-12274.html) — 2020 discussion of TDC’s upgrade, mentioning longstanding criticisms of “conflict with the private sector,” unclear hierarchy, and limited budget sources.
+[^30]: [Design Power is National Power: The Rise of the Design Institute (Collection ARTouch)](https://artouch.com/view/content-12274.html) — A commentary from March 2020 discussing the promotion of TAIC to the Design Institute, mentioning issues such as being constantly questioned by public interests, unclear organizational hierarchy, and having a budget that is only about 40% self-managed.
 
-[^31]: [Taipower Logo Controversy (Digital Age)](https://www.bnext.com.tw/article/90898/taipower-logo-design) — Analysis of the Taipower “identity‑system optimization” contract (~NT$969,000), led by Nie Yong‑chen, and the five controversy topics (aesthetics, history, design value, etc.).
+[^31]: [What is Taipower arguing about? The NT$960,000 Logo Bidding Controversy (Digital Age)](https://www.bnext.com.tw/article/90898/taipower-logo-design) — An analysis of the Taipower 'Identity System Optimization Design' tender worth approximately NT$968,940, designed by the Nie Yongzhen team, focusing on five controversial themes: aesthetics, history, and design value.
 
-[^41]: [Multiple Government Logo Projects Involving Nie Yong‑chen Questioned (Yahoo Finance / China Times)](https://tw.stock.yahoo.com/news/%E8%A8%AD%E7%A0%94%E9%99%A2%E5%A4%9A%E5%80%8B%E6%94%BF%E5%BA%9Clogo%E6%95%B8%E7%94%A8%E9%99%A2%E5%90%8E%E5%8F%8D%E5%8F%8B-%E7%B6%93%E9%83%A8%E5%9C%8B%E5%AE%9C%E5%AE%89%E5%85%A8%E5%88%86%E5%88%86%E5%88%86%E5%88%86%E5%88%86%E5%88%86) — Report on Nie Yong‑chen’s government logo projects, criticism of “resource allocation/benefit‑sharing,” and Ministry of Economic Affairs’ defense of TDRI’s professionalism and team‑selection process.
+[^41]: [Questions Raised Over Multiple Government LOGO Projects Given to Nie Yongzhen by Industrial Design Institute; Ministry of Economic Affairs States Trust in Professionalism (Yahoo Finance/UDN)](https://tw.stock.yahoo.com/news/%E8%A8%AD%E7%A0%94%E9%99%A2%E5%A4%9A%E5%80%8B%E6%94%BF%E5%BA%9Clogo%E6%A1%88%E7%B5%A6%E8%81%B6%E6%B0%B8%E7%9C%9F%E9%81%AD%E7%96%91-%E7%B6%93%E9%83%A8%E6%80%A5%E5%96%8A%E7%9B%B8%E4%BF%A1%E5%B0%88%E6%A5%AD-125553211.html) — Reports the questioning regarding 'resource allocation/benefit sharing' caused by Nie Yongzhen undertaking government identity projects through the Industrial Design Institute, alongside responses from the Ministry of Economic Affairs ('trusting the institute's professionalism'), the Industrial Design Institute listing at least three teams, and the Trade Bureau's logo being designed by Selected Research.
 
-[^32]: [Golden Pin Design Award About (Golden Pin official)](https://goldenpin.org.tw/goldenpin/zh-TW/about) — Official history of the Golden Pin Award, sponsor Ministry of Economic Affairs Industrial Development Administration, executor TDRI, and 2014 internationalization.
+[^32]: [Golden Dot Design Award About (Official Golden Dot)](https://goldenpin.org.tw/goldenpin/zh-TW/about) — The official description detailing the history of the Golden Dot Award, its organizer, the Ministry of Economic Affairs Industrial Development Administration, the implementing unit, the Industrial Design Institute, and its internationalization in 2014.
 
-[^33]: Same as ^32, 2023 competition scale and number of annual‑best design entries.
+[^33]: [Golden Dot Design Award About (Official Golden Dot)](https://goldenpin.org.tw/goldenpin/zh-TW/about) — Official data detailing the scale of submissions for the 2023 awards cycle and the number of annual best designs.
 
-[^34]: Same as ^4, compiled data on Taiwan Design Exhibition attendance, with 2023 New Taipei’s 6.58 million visitors as the highest ever.
+[^34]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The official site compiles visitor numbers from past Taiwan Design Exhibitions with various reports, noting that 6.58 million visitors in New Taipei City in 2023 was the highest ever.
 
-[^35]: Same as ^4, TDRI’s citation of World Design Rankings showing Taiwan’s rise to seventh globally in 2023‑24.
+[^35]: [Industrial Design Institute About (Official)](https://www.tdri.org.tw/about/) — The Industrial Design Institute cites changes in Taiwan's ranking in World Design Rankings, reaching seventh globally in 2023–24.
 
-[^36]: Same as ^29, ICoD introduction noting Zhang’s board membership in the World Design Organization.
+[^36]: [New Member: Industrial Design Institute (ICoD)](https://www.theicod.org/resources/news-archive/new-member-taiwan-design-research-institute-taiwan) — An introduction by the International Council of Design regarding the international participation of the Industrial Design Institute, including background information on Chang Chi-yi's role as a council member in world design organizations.
 
-[^37]: Same as ^19, Zhang’s quote on design ecosystems maturing into “Taiwan experience” for international exchange and design diplomacy.
+[^37]: [Interview with Chang Chi-yi (La Vie)](https://www.wowlavie.com/article/ae2002047) — A verbatim quote from Chang Chi-yi: 'When these ecosystems mature, they will become Taiwanese experience that can communicate with the world and engage in design diplomacy.'
 
-[^38]: [Zhongshan Station Redesign (Golden Pin award page / TDRI)](https://www.goldenpin.org.tw/goldenpin/zh-TW/winners/2275) — Details on the 2021 launch, 2022 public first phase of ticketing area, and subsequent optimization adjustments.
+[^38]: [Zhongshan Station Redesign (Golden Dot Award Page / Industrial Design Institute)](https://www.goldenpin.org.tw/goldenpin/zh-TW/winners/2275) — Describes the launch of the Zhongshan Station redesign in 2021, the public release of the first phase ticketing area in 2022, and subsequent optimization adjustments.
 
-[^39]: Same as ^38, official award page documenting the 2024 Golden Pin Annual Best Design Award (integrated design category).
+[^39]: [Zhongshan Station Redesign Golden Dot Annual Best (Golden Dot Award Page)](https://www.goldenpin.org.tw/goldenpin/zh-TW/winners/2275) — The official award page stating that the Zhongshan Station form design proposal won the 2024 Golden Dot Design Award for Annual Best Design (Integrated Design category).
 
-[^40]: [Zhongshan Station redesign sparks discussion (CTS News)](https://news.cts.com.tw/) — Report on the October 2022 public release of the Zhongshan Station ticketing area redesign, online negative feedback, and TDRI’s “optimization in progress” response.
+[^40]: [Zhongshan Station Renovation Sparks Discussion (C-News)](https://news.cts.com.tw/) — Reports online negative feedback after the public unveiling of the Zhongshan Station ticketing area renovation in October 2022, and the Industrial Design Institute's response: 'optimization in progress.'

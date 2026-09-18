@@ -32,10 +32,10 @@ difficulty: 'intermediate'
 readingTime: 24
 rationale: "{'why_this_hook': '複眼＝看的方法，對抗「得獎履歷」通行敘事；中華商場是可感記憶入口', 'whats_excluded': '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費', 'where_it_hedges': '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪', 'whos_pushing_back': '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'}"
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'fdd06c978'
-sourceContentHash: 'sha256:9e044da79052e1d4'
-sourceBodyHash: 'sha256:0b3e476aa45a53ca'
-translatedAt: '2026-07-31T02:01:51+08:00'
+sourceCommitSha: '36aaa72e1'
+sourceContentHash: 'sha256:4084ed4b3480a75a'
+sourceBodyHash: 'sha256:70f421624b5717be'
+translatedAt: '2026-09-18T12:02:41.901655+00:00'
 ---
 
 # Wu Ming-yi: Writing a Vanishing Taiwan Back into Existence Through Compound Eyes
@@ -79,47 +79,47 @@ His NDHU teaching position began around 2000 (Chinese Department, later Departme
 
 The framework of nature writing later led him to shift. Non-fiction can write species and habitats accurately, but it is difficult to simultaneously contain the metal of war, the ghosts of the commercial building, and the massive, absurd modernity of the garbage island striking the east coast. He needed fiction, so that compound eyes could stretch from the field into the depth of time. Early Taiwan nature writing was often criticized for stopping at sentimental affection and lacking ideological depth. When he entered the discourse field himself, he was drawing a map that could be debated. Writing and research share the same compound eye on him: one hand holds a net to capture the veins of butterfly wings; the other hand nails the coordinates of literary history into the land writing of Taiwan after 1980. If readers only look at the medals on the novel’s dust jacket, they easily forget he was once the one who drew the map.
 
-## The Zhonghua Commercial Building Was Demolished; He Wrote It Back
+## Zhonghua Market Demolished, He Wrote It Back
 
-![Exterior of the Zhonghua Commercial Building in 1965, a connected public comprehensive commercial building standing on one side of Ximending, with crowds and vehicles passing between them](/article-images/people/zhonghua-market-1965.jpg)
-_Zhonghua Commercial Building, 1965. Photographed by the Bureau of Information, Executive Yuan. This connected commercial building, opened in 1961 and demolished in 1992, is the spatial prototype for Wu Ming-yi’s childhood shoe shop and \_The Magician on the Bridge_. Public Domain.\_
+![Exterior of Zhonghua Market in 1965. The continuous public complex stood on one side of Ximen Street, with people and vehicles moving between them](/article-images/people/zhonghua-market-1965.jpg)
+_Zhonghua Market, 1965. Photo by the Executive Yuan News Agency. This continuous shopping center, which opened in 1961 and was demolished in 1992, is the spatial prototype for Wu Ming-yi's childhood cobbler shop and \_The Magician on the Bridge_. Public Domain.\_
 
-The Zhonghua Commercial Building was opened on April 22, 1961, and demolished building-by-building in October 1992, with reasons including the underground railway, the MRT, and the Zhonghua Road tree-lined avenue plan. [^1] For the middle generation who walked through Ximending, that place was the smell of arcades and the shadow of the overpass, a maze one would钻 into after school, not an architectural history entry. After the commercial building disappeared, memory remained only in photos and oral accounts. Until 2011, _The Magician on the Bridge_ wrote the 1980s Zhonghua Commercial Building back onto paper. [^2]
+Zhonghua Market opened on April 22, 1961, and was dismantled in sections starting in October 1992, citing reasons such as underground rail construction, MRT, and the tree-lined avenue of Zhonghua Road.[^1] For middle-aged people who walked through Ximen Street, it was a maze smelling of arcades and shadowed by bridges—a place they would slip into after school, not an entry in architectural history. After the market disappeared, only photos and oral histories remained. It wasn't until 2011 that _The Magician on the Bridge_ wrote the Zhonghua Market of the 1980s back onto paper.[^2]
 
-In the novel, there is the mysterious magician on the overpass, the glowing zebra crossing, and the little boy from the shoe shop, Xiao Bu Dian (Little Dot). Wu Ming-yi told OKAPI: "The Zhonghua Commercial Building was truly a bizarre place; all the magic was within it!" [^4] Magic here performs structural work. The commercial building itself has already vanished; magic allows the vanishing space to be walked again. The first social application of compound eyes to "vanishing" falls on urban memory: who still remembers the families who cooked in the arcades, who can still point out the order of the Loyalty, Filial Piety, Benevolence, and Love buildings.
+The novel features a mysterious magician on the bridge, glowing zebras, and Xiao Bu-dian, the younger son of the cobbler shop. Wu Ming-yi told OKAPI: "Zhonghua Market was such a bizarre place; all the magic was in there."[^4] Here, 'magic' serves a structural function. The market itself had vanished, but the magic allowed the disappeared space to be traversed again. The first social application of "disappearance" focused on urban memory: who still remembered the households that cooked inside the arcades, or who could sequence the buildings of Zhongxiao Renai?
 
-![Neon and arcade crowds in the night at the Zhonghua Commercial Building, with signs and lights overlapping to form the street density of 1980s Ximending](/article-images/people/zhonghua-market-night.jpg)
+![Neon and arcade crowds at Zhonghua Market at night, where signs and lights form the street-level density of Ximen Street in the 1980s](/article-images/people/zhonghua-market-night.jpg)
 
-![Arcade view on the first floor of the 'Xin' (Faithfulness) Building of the Zhonghua Commercial Building: shop signs, column rows, and pedestrian scale](/article-images/people/zhonghua-market-xin.jpg)
-_Zhonghua Commercial Building night view (historical image). The neon and arcades before demolition are visual memories repeatedly returned to in the novel and the PTS drama. Photo via Wikimedia Commons, CC BY 3.0._
+![Ground floor arcade view of 'Xin' Building at Zhonghua Market: shop signs, columns, and pedestrian scale](/article-images/people/zhonghua-market-xin.jpg)
+_Night scene of Zhonghua Market (historical image). The neon lights and arcades before demolition are the visual memories repeatedly revisited by the novel and the television drama. Photo via Wikimedia Commons, CC BY 3.0._
 
-On February 20, 2021, the PTS drama _The Magician on the Bridge_ premiered, directed by Yang Ya-che. [^10] The Xizhi set was approximately two to two and a half hectares; reports stated the set construction budget was about eighty million NTD, reconstructing nearly fifty storefronts. The media called the total production cost about two hundred million NTD; the program department orally stated the budget per episode was about twenty million NTD. These three numbers are at different levels and cannot be mixed into "investing two hundred million to build the set." [^11] After wrap, that fake commercial building would be demolished again: the real demolition was in 1992, the virtual demolition around 2020; the two vanishings overlapped on the same corridor. Reports also mentioned the railway tracks and car sheds were built to full capacity, corresponding to the line of memory from Hou Hsiao-hsien’s _ Dust in the Wind_. [^11] The sound of set workers removing signs was like ending an already ended era once more.
+On February 20, 2021, the public service broadcast series _The Magician on the Bridge_ premiered, directed by Yang Ya-chieh.[^10] The Xizhi set spanned about two to two and a half hectares; reports stated that the set construction cost was around eighty million, recreating nearly fifty storefronts. Media outlets claimed the total production cost was about two hundred million, while the program department mentioned a budget of about twenty million per episode. These three figures are on different levels and cannot be mixed into "a two-hundred-million-dollar set build."[^11] After filming wrapped, that mock market was dismantled one more time: the real demolition was in 1992, and the virtual demolition was around 2020—two disappearances stacked on the same corridor. Reports also mentioned that the tracks and car shelters were built to maximum capacity, corresponding to the line used for filming Hsu Hsiao-hsien's _Love in the Dust_.[^11] The sound of set workers dismantling signs felt like ending an era that had already concluded.
 
 ```tw-stat
-Approx. 200 million NTD | Total Production Cost (Media Narrative) | Includes personnel, VFX, post-production
-Approx. 80 million NTD | Set Construction | Xizhi, nearly 50 storefronts
-Approx. 20 million NTD | Per-Episode Budget (Program Department Oral) | Different level from the previous two
-Source: Liberty Times Entertainment / Taiwan News / Tamkang University Activity Records; the three numbers cannot be written together
+Approx. 200 million | Total production cost (Media narrative) | Including personnel, special effects, post-production
+Approx. 80 million | Set construction | Xizhi, nearly 50 storefronts
+Approx. 20 million | Per episode budget (Program department account) | Different level from the first two
+Source: Liberty Times / Taiwan News / Tanjiang Activity Records; The three numbers cannot be mixed
 ```
 
 ```tw-note
 Explanation
-The three numbers of money for the PTS drama are often揉 (kneaded/mixed) by news into one sentence: "investing two hundred million to rebuild the Zhonghua Commercial Building." This article writes them separately: total project, set construction, per-episode oral account, avoiding writing different accounting levels into one dramatic large number.
+The three figures for the public service drama are often conflated by news reports into "a two-hundred-million-dollar reconstruction of Zhonghua Market." This article separates them: total, set construction, and per episode (as stated), to avoid treating different accounting levels as a single dramatic figure.
 ```
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="PTS _The Magician on the Bridge_ Official Teaser Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Public Service Broadcast _The Magician on the Bridge_ Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Wu Ming-yi said during the drama’s teaser period: he hoped people who experienced the commercial building era would watch this drama not just to summon memories, but as if living through a parallel timeline again. "Just as we can now use digital technology to create Mars, allowing everyone to virtually land on the planet. I hope the younger generation of viewers will discover: the Zhonghua Commercial Building is like the Mars they first stepped on." [^12]
+During the promotional period, Wu Ming-yi said that he hoped viewers who experienced the market era would not just recall memories but live a parallel timeline again. "Just like how we can use digital technology today to create Mars and let everyone land on the planet virtually. I hope the younger generation of audiences will realize: Zhonghua Market is like the Mars they stepped on for the first time."[^12]
 
 ```tw-quote
-The Zhonghua Commercial Building is like the Mars they first stepped on
-Wu Ming-yi | PTS Drama Teaser Period, Marie Claire / Liberty Times Entertainment cross-reference
+Zhonghua Market is like the Mars they stepped on for the first time
+Wu Ming-yi | Public Service Drama Promotion, Marie Claire/Liberty Times Cross-reference
 ```
 
-> **💡 Did You Know?**
-> When the Zhonghua Commercial Building was demolished, it was done building-by-building in the order "Loyalty → Filial Piety/Benevolence → Love/Faithfulness → Peace/Righteousness," taking about ten days in total. The novel and drama later turned this non-existent connected maze into a memory entrance shared across generations.
+> **💡 Did You Know**
+> When Zhonghua Market was demolished, it was done in sections following the order "Zhong $\rightarrow$ Xiao Ren $\rightarrow$ Ai Xin $\rightarrow$ Yi Ping," over about ten days. The novel and the drama later turned this non-existent continuous maze into a memory entrance shared across generations.
 
-Once urban memory is written back, readers will ask a bigger question: What else has vanished that is worth retrieving with the same effort? The commercial building is childhood, shoeboxes and arcades, performances on the overpass that are unclear whether they are magic or scams. War and bicycles pull the scale from the neighborhood to the family and island history. The same pair of eyes begins to focus simultaneously on short-term street life and long-term trauma.
+Once urban memory is written back, readers begin to ask bigger questions: what other things have disappeared that are worth searching for with the same energy? The market was childhood, shoeboxes and arcades, performances on the bridge that were neither magic nor deception. War and iron horses stretched the scale from neighborhood to family and island history. With a single pair of eyes, one begins to focus simultaneously on short-term street life and long-term trauma.
 
 ## The Fighter Jet in the Father’s Drawer, and a Missing Bicycle
 
@@ -189,32 +189,32 @@ Within approx. two weeks | Label Rewritten | Website changed to Taiwan, China (U
 Source: Guardian / Liberty Times / Sentinel reprinted official draft / Key Comment
 ```
 
-## The Sea Breeze in the Hualien Bookstore, and Clouds at Two Thousand Meters
+## Sea Breeze in Hualien Bookstores, and the Clouds at Two Thousand Meters
 
-![Portrait of Wu Ming-yi at a National Dong Hwa University event: short hair, light-colored shirt, calm expression](/article-images/people/wu-ming-yi-ndhu.jpg)
-_Wu Ming-yi. Professor at the Department of Chinese Literature, National Dong Hwa University, teaching and writing in Hualien for a long time. Photo: National Dong Hwa University / Attribution._
+![Portrait of Wu Ming-yi from Dong Hua University: short hair, light shirt, calm expression](/article-images/people/wu-ming-yi-ndhu.jpg)
+_Wu Ming-yi. Professor of Chinese Literature at National Dong Hwa University, who has taught and written in Hualien for a long time. Photo: National Dong Hwa University / Attribution._
 
-After awards and translations, compound eyes have a second life: cross-media and locality. _Floating Light_ (2014) is a photography essay; the publisher, New Classic, pulled image writing from the side branch of nature essays into independent experimentation. [^33] In 2019, the short story collection _Land of Bitter Rain_ was published, including _Clouds at Two Thousand Meters_, which writes about a lawyer searching for an unfinished novel file and memories of Taiwan clouded leopard skins after his wife’s death. [^27] In 2025, Chen Hsin-yi turned this into VR _Clouds at Two Thousand Meters_ (_The Clouds Are Two Thousand Meters Up_), winning the Grand Prize (Immersive Section Grand Prize) at the 82nd Venice Film Festival’s Venice Immersive section. [^28] A literary short story becomes a height one can walk into. After removing the helmet, the audience still stays between the clouded leopard skin and the unfinished file. The National Museum of Prehistory also used this VR as the core for an immersive exhibition, connecting mountain forests and clouded leopard memories back to the bodies of urban audiences.
+After awards and translations, _Compound Eyes_ has a second life: cross-media and local. The 2014 work, _Floating Light_, is photographic prose, published by Xin Jingdian, which pulled image writing from the periphery of nature essays into an independent experiment.[^33] In 2019, the short story collection _Land of Bitter Rain_ was published, which includes "Clouds at Two Thousand Meters," where a lawyer traces unfinished novel files and memories of Taiwanese snow leopards after his wife's death.[^27] In 2025, Chen Xin-yi adapted this piece into the VR work _The Clouds Are Two Thousand Meters Up_, which won the Grand Prize (Immersive Unit Award) at the 82nd Venice Biennale.[^28] Literary short stories become inhabitable heights. After removing the headset, the audience remains between the snow leopard hide and the unfinished files. The National Taiwan Museum of Fine Arts also used this VR as the core for an immersive exhibition, connecting mountain forest and snow leopard memory back to the bodies of urban audiences.
 
-In 2023, _Hotel Sea Breeze_ was published by Xiao Xie (Small Write), winning the Openbook Good Book Award for Annual Chinese Creation. [^29] The novel pulls the gaze to the east coast tribal geography near Xiulin, Heping Village, and the cement plant area (place names in the book rewritten as "Haifeng" etc.), writing about Taroko land, giant myths, and who tells the story. [^30] The animal protagonist is finally a three-legged crab-eating mongoose. He read extensively on Taroko materials, referenced field papers, and obtained consent. [^30] The distribution strategy itself is also an industry event: sold only in independent bookstores and events, 56 days, 86 events, from Hualien Time Second-hand Bookstore all the way to Wugu, New Taipei. [^29] The author’s habit of running independent bookstores for years was magnified into a nationwide tour this year. When the first print was stacked into a small mountain by the window of a Hualien bookstore, Taroko language place names and cement plant chimneys were already juxtaposed on the same novel map.
+In 2023, _Hotel Sea Breeze_ was published by Xiaoxie, winning the Openbook Book Award for Chinese creation that year.[^29] The novel draws attention to the eastern coast near Xiulin, Heping Village, and cement factory areas (local place names in the book are rewritten as "Haifeng," etc.), writing about the Taitung land, giant myths, and who tells the story.[^30] The animal protagonist is ultimately a three-legged crab raccoon. He extensively reads materials on Taitung and references fieldwork papers obtained with consent.[^30] The distribution strategy itself was an industry event: sold only in independent bookstores through events for 56 days across 86 venues, from Hualien Shiguang Used Bookstore to Wugu, New Taipei.[^29] The author's long habit of visiting independent bookstores was amplified into a tour across Taiwan that year. When the first print run piled up like a small mountain by the window of a Hualien bookstore, Taitung place names and cement factory smokestacks were already placed on the same novel map.
 
 ```tw-stat
-56 Days | _Hotel Sea Breeze_ Independent Bookstore Tour | Openbook Report
-86 Events | Event Count | Hualien → Wugu, New Taipei
-Approx. 100,000 NTD | Black Tide Scholarship / Year | Since 2013, in mother’s name
-Source: Openbook p-68257; Black Tide Foundation Scholarship Page
+56 days | *Hotel Sea Breeze* independent bookstore tour | Openbook report
+86 events | number of events | Hualien → Wugu, New Taipei
+Approx. 100k | Black Tide Award grant/year | Since 2013, in the mother's name
+Source: Openbook p-68257; Black Tide Foundation Grant page
 ```
 
-At the Golden Classic Award judging, some judges felt certain character portrayals in the book were stereotypical, thus did not vote for it. This is aesthetic divergence and public debate within the judging panel, inappropriate to upgrade into a unified event of "the Indigenous community formally rejecting the novel." [^31] A Han author writing the representation politics of Taroko cement resistance should naturally be discussed sharply. Thickness should be preserved; conviction narratives are unnecessary.
+At the Golden Classic Awards deliberation, some judges felt that certain character portrayals in the book were stereotypical and thus did not vote for it. This was an internal aesthetic disagreement among the judging panel and a public debate, not an event where "the indigenous community officially rejects the novel."[^31] The representation politics of Han authors writing about the Taitung cement protests should have been sharply discussed. Thickness must be retained; the narrative of condemnation does not need to be.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Wu Ming-yi TEDxTaipei: Literature Rooted in the Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Wu Ming-yi TEDxTaipei: Literature Rooted in the Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Environmental practice does not stop on paper. He has long served as a standing director of the Ecological Care Association and a director of the Black Tide Ocean Cultural Foundation. Since 2013, he has established the Black Tide Scholarship in his mother’s name, approximately 100,000 NTD annually, encouraging science fairs, research, conservation, and artistic creation with the sea as the theme. [^32] By the mid-2020s, this scholarship had reached the thirteenth iteration, accumulating dozens of recipients over ten years. [^32] The Reporter noted his participation in beach cleanups at the mouth of the Hualien River; the classroom and the tide line are not so far apart. [^7] The cloud sea of the NDHU campus in Hualien, the classroom of the Black Tide coast, the bookstore counter, and the VR cloud layer are several facets of compound eyes in the contemporary era. Teaching, locality, and cross-media turn simultaneously.
+Environmental practice does not stop on paper. He has long served as an executive director of ecological concern associations and a board member of the Black Tide Marine Culture Foundation. Since 2013, he established the Black Tide Grant in his mother's name, providing about one hundred thousand dollars annually to encourage scientific exhibitions, research, conservation, and artistic creation centered on the sea.[^32] By the mid-2020s, this grant had reached its thirteenth cycle, with dozens of recipients accumulated over ten years.[^32] Reporters noted his participation in activities such as beach cleanups at the mouth of the Hualien River, where the classroom was not far from the tide line.[^7] The sea fog on the National Dong Hua University campus, the classrooms on Black Tide Coast, bookstore counters, and the VR cloud layer are facets of _Compound Eyes_ in contemporary times. Teaching, locality, and cross-media all transform simultaneously.
 
-Compound eyes have here grown into observation training in the classroom, industry choices in bookstore tours, scholarships on the Black Tide coast, and clouds at two thousand meters in the helmet. He talked about "Literature Rooted in the Earth" at TEDxTaipei: what students practice in class is how to focus simultaneously on a species, a street, a war legacy, without splitting them into unrelated essay topics.
+In _Compound Eyes_, there is observational training from classrooms, industry choices from bookstore tours, grants from Black Tide Coast, and the two thousand meters of clouds inside a headset. He spoke at TEDxTaipei about "literature rooted in the land": what students practice in class is how to focus simultaneously on a species, a street, or a historical trace without breaking them into unrelated essay topics.
 
 > **⚠️ Controversial Viewpoint**
-> The "stereotype" discussion ignited by _Hotel Sea Breeze_ at the Golden Classic Award reminds readers of one thing: when writing about east coast cement and tribal memories across ethnicities, representation itself is politics. Wu Ming-yi chose to walk into this risk zone; sharpness in the commentary field does not automatically equal work failure, nor does it equal a unified judgment of the Indigenous community.
+> The "stereotypical" discussion sparked by _Hotel Sea Breeze_ at the Golden Classic Awards reminds readers of one thing: when writing across ethnicities about the eastern coast's cement and indigenous memories, representation itself is politics. Wu Ming-yi chose to walk into this risky area; the sharpness of the commentary does not automatically equal a failure of the work, nor does it equate to a unified judgment from the indigenous community.
 
 ## Compound Eyes Still Turn
 
