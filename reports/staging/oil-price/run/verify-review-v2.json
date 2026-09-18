@@ -1,0 +1,26 @@
+{
+  "revision": 67,
+  "submissionId": "246483b5-e4d1-4846-b506-c1668d2ec0bd",
+  "actor": "guide_verify_reviewer (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "複審 verify-submission-v2.json（release 站定稿主編兩處更正，commit 613e3fa075，working tree clean）。親跑全掃與 --profile=rewrite-stage-4 各一次，比對對最終稿重跑的 verify-health-full.txt／verify-health-stage4.txt（時間戳19:55，晚於更正commit）：exit code 與 hard/warn/info 摘要完全相同。親核更正一：s7『補貼跟增資那 4,147.69 億仍然是從國庫出去的錢』，算式 1,809.35＋2,338.34＝4,147.69（python 親算核對），對照經濟部9/3稿footnote 32（第一輪已逐字核過的sources/ey-moea-4217.txt）三塊分別是1,809.35補貼＋2,338.34增資＋70億防汛＝4,217.69；s7只講補貼跟增資兩筆進國庫的錢，不含70億防汛，新數字4,147.69範圍正確，且正文s6段落與tw-bars圖表仍保留4,217.69（講經濟部整包預算），兩個數字各自對應正確敘述範圍未互相污染。親核更正二：s1『三個多禮拜過去，隔天零時它就要站上32.2元』，對照正文自己的tw-line逐週表第75行『3/23｜32.2』、腳註[^3]第314行『3月21日稿載明32.2元』、研究報告§6#7第306行『3/23 32.2』與§2-1原始週稿摘要第488行『2026-03-21｜3/23-3/29｜30.7/32.2/34.2/29.5』，三處逐週牌價資料完全吻合；時態從『已經站上』改成『隔天零時就要站上』跟3/22晚間排隊搶隔天零時漲價的場景邏輯正確對齊。第一輪（revision 58）已核過的6條承重原子、3張tw-*圖表回源、unresolved誠實度、其餘機械檢查未變動不重複跑，這次兩處更正未牽動其他已核數字（[^3][^31][^32]內容未變）。未發現新事實問題。",
+  "contextDisclosure": "verify-inputs-reread",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/verify-submission-v2.json",
+      "location": "全文，sourceChecks 末條 v2 重交說明；mechanicalChecks 11 項"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "第34行 s1 32.2元句、第75行 tw-line 3/23|32.2、第221/224行 s6 4,217.69段與tw-bars、第271行 s7 4,147.69句、第314行[^3]、第372行[^32]"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "第197、306行 §6.4/#7 逐週牌價表、第488行 §2-1 3/23週原始稿摘要"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-review-v2.md",
+      "location": "全文"
+    }
+  ]
+}
