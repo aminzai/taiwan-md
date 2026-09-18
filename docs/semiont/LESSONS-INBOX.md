@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-19 golden-bell-v2 — caption-nobody-looks-at-the-picture：圖說寫「後台、身穿西裝」，照片是台上黑色露肩禮服，十五位冷讀者三輪主編與全部儀器都過
+
+- **pattern**: caption-nobody-looks-at-the-picture
+- **原則**：圖說與 alt 是正文裡唯一「來源就在旁邊」的原子，卻沒有任何席位或儀器拿照片本身當來源核對；`image-alt` 只查有沒有 alt，`image-health` 只查檔案存不存在，冷讀者讀的是文字，主編審的是論點。圖說因此成了幻覺最容易上線也最容易被讀者截圖的角落。
+- **觸發**：2026-09-19 00:32–01:15 golden-bell-v2，v2 Stage 3.6 場景原子審計打開 `chen-ya-lan-golden-bell-2022.webp` 才發現 v1（2026-09-18 ship，`cc787f9f9a`）的圖說「陳亞蘭在第 57 屆金鐘獎後台手持獎座，身穿西裝」跟照片對不上（典禮台上、麥克風前、露肩禮服），噓星聞標題也寫「穿女裝淚奪視帝」；v1 開場正文再把「西裝」當人物穿著寫進去。同輪自己又差點在三處替來源補動作（舉獎座、女兒在台下、後台畫布景）。證據 memory/2026-09-19-003252-golden-bell-v2.md、reports/research/2026-09/金鐘獎-v2-stage36-audit.md §B
+- **instances**：
+- **可能層級**：操作規則（REWRITE Stage 3.6 圖說原子表加「看圖」一列；Stage 4 image 類 check 加人眼「alt 對照圖」一步）
+- **相關**：#69 每層自評都需要外部尺（照片是現成的外部尺，沒人用）、#75 Read ≠ verify（讀了圖說不等於看了圖）；MANIFESTO §10 第六型（場景動作細節）在圖說層的形狀
+- **verification_count**: 1
+
 ### 2026-09-18 golden-bell — milestone-inferred-from-source-layout：把來源網頁的欄位版型讀成史實里程碑，十五位冷讀者與三輪驗證都沒抓到，release 站主編才抓到
 
 - **pattern**: `milestone-inferred-from-source-layout`
