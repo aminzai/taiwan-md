@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T05:56:12+08:00",
-    "zhCommitHead": "015aeff35",
+    "lastUpdated": "2026-09-19T06:12:41+08:00",
+    "zhCommitHead": "9888ed8a7",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,26 +52,26 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1021,
-        "stale": 53,
+        "fresh": 1022,
+        "stale": 52,
         "metadata_stale": 12,
         "missing": 35,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 965,
+        "fresh": 967,
         "stale": 57,
-        "metadata_stale": 70,
+        "metadata_stale": 68,
         "missing": 29,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 860,
+        "fresh": 861,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 204,
+        "missing": 203,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 332,
+        "missing": 331,
         "orphan": 0
       }
     },
@@ -5514,7 +5514,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/taiwan-soundscape.md",
+          "translatedFrom": "Music/台灣聲音地景.md",
+          "sourceCommitSha": "bc6743fde",
+          "sourceContentHash": "sha256:e4fcea6f40bc1371",
+          "sourceBodyHash": "sha256:f8c06621cad90a0b",
+          "translatedAt": "2026-09-19T01:37:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-soundscape.md",
@@ -25813,7 +25824,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-bicycle-industry.md",
+          "translatedFrom": "Technology/台灣自行車產業.md",
+          "sourceCommitSha": "c39005c8d",
+          "sourceContentHash": "sha256:3fab2a74ac11d1b7",
+          "sourceBodyHash": "sha256:29363c705647bf15",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42449,18 +42471,16 @@
         "vi": {
           "path": "vi/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
           "translatedFrom": "Lifestyle/台灣回收與資源循環文化.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692a1090832374e5",
           "sourceBodyHash": "sha256:258baccfb653bebb",
-          "translatedAt": "2026-07-31T12:00:00Z",
+          "translatedAt": "2026-09-19T01:37:22+08:00",
           "translationLastCommit": "502c9338",
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
@@ -49851,18 +49871,16 @@
         "vi": {
           "path": "vi/Society/volunteering-and-civic-charity-in-taiwan.md",
           "translatedFrom": "Society/台灣志工文化與公益參與.md",
-          "sourceCommitSha": "165db3959",
-          "sourceContentHash": "sha256:83e68a6262dbf058",
-          "sourceBodyHash": "sha256:7149df720d9ca880",
-          "translatedAt": "2026-07-28T03:02:41+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:d51a48508554d6d4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T21:56:25.099079+00:00",
           "translationLastCommit": "72229f10",
           "translationLastModified": "2026-07-28T06:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/volunteering-and-civic-charity-in-taiwan.md",
@@ -74784,8 +74802,8 @@
           "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-09-19T01:37:21+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "9888ed8a",
+          "translationLastModified": "2026-09-19T05:56:13+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -145023,8 +145041,8 @@
           "sourceContentHash": "sha256:a9330a2eb23d9c97",
           "sourceBodyHash": "sha256:20dd14ee57321b53",
           "translatedAt": "2026-09-18T19:39:26.942707+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "9888ed8a",
+          "translationLastModified": "2026-09-19T05:56:13+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -147266,8 +147284,8 @@
           "sourceContentHash": "sha256:c532a9d95ccbcaaf",
           "sourceBodyHash": "sha256:530ea0ffb4d07e77",
           "translatedAt": "2026-09-19T01:37:21+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "9888ed8a",
+          "translationLastModified": "2026-09-19T05:56:13+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -176605,16 +176623,16 @@
         "fr": {
           "path": "fr/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-06-16T17:19:04Z",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7f4fc66b36800cb9",
+          "sourceBodyHash": "sha256:3e6fa91c9ef25405",
+          "translatedAt": "2026-09-19T01:37:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-furry-culture.md",
