@@ -354,7 +354,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補候選**：(a) FACTCHECK 月度巡邏的抽樣母體改成「`lastHumanReview: false` × date 最早 × 譯本數最多」加權，不抽 A/B 級；(b) 給它一條 routine（週一篇 Full mode 或月五篇），或併進 rewrite-daily 的選題訊號；(c) 把「譯本數」當放大係數寫進 ARTICLE-INBOX 的優先序判準——同樣的幻覺，十語譯本的比零譯本的先修。(a)(c) 改 pipeline 文字在自主權內——**已落 2026-09-18-083954 heartbeat**：FACTCHECK v2.1 §月度巡邏抽樣母體（含可跑的抽樣指令，實測母體 923 篇、前五名是 03-17 出生、12 語譯本的緣起故事／日治時期／張忠謀／李安／蔡英文）＋ ARTICLE-INBOX §優先序判準「譯本數是放大係數」；(b) 新增 routine 走 ROUTINE.md，仍待。
 - **可能層級**：特有教訓（綁 Taiwan.md 的巴別塔 × 三月初稿庫存這個歷史結構）；「巡邏抽樣層跟病灶層錯位」本身是 REFLEXES #82 proxy signal 的一種（抽 A 級的通過率是「站上事實正確」的替身）。
 - **相關**：REFLEXES #82、#16（讀者級事實最脆弱也最易漏）、MANIFESTO §10 幻覺鐵律六種 pattern（本次同時命中獎項以外的五種：人名填空、地點／族籍錯置、偽造引語、單方敘事、場景細節）、diary 2026-07-19「把聲音送出去，如果送錯了，比沉默更糟」（那篇講翻譯層送錯，本條講原文層送錯被翻譯層忠實放大）、LESSONS `every-gate-measures-form-none-measures-the-language`（同族：閘門量形式不量意義，本條是量忠實度不量真實度）、UNKNOWNS 🔴「歷史文章的事實錯誤實際規模」（2026-04-05 起未量化，本條給了第一個分層估計）
-- **verification_count**: 1
+- **verification_count**: 2（2026-09-18 14:39 heartbeat 對 `People/馬英九.md`（date 2026-03-30，lastHumanReview: false，12 語在線）跑 FACTCHECK Full：30 條非維基腳註 claim 對不上 12 條＝40%，72 原子 ❌ 17；最重的一條是 30 秒概覽把在世的人寫成「辭世」，十一語譯本各自忠實地譯成 passing／décès／死去／사망。同一格「未審初稿 × 已多語投射」第二次命中，且這篇不是 #64 那種單一族籍表，是流量最高的政治人物條目之一。修補候選 (a)(c) 已於 08:40 heartbeat 落 FACTCHECK v2.1 與 INBOX 優先序，(b) 巡邏 routine 仍缺——本輪是排程心跳順手接的，不是 routine 在跑）
 - **severity**: high（讀者級事實錯誤、對象是在世的原住民藝術家、族籍寫錯比錯字嚴重，且十語同步在線）
 
 ### 2026-09-16 twmd-maintainer-am — unpushed-divergence-silently-redirects-volunteer-effort：分岔不只是待解的合併債，它每天在把貢獻者的工時導向已經做完的工作
