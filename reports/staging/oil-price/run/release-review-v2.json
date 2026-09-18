@@ -1,0 +1,22 @@
+{
+  "revision": 69,
+  "submissionId": "150ec32a-70b7-43f3-8ce1-b8aeab1d6e2b",
+  "actor": "guide_release_editor (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "v1 要求的兩句都照改法落地且 commit 613e3fa075 只動這兩行：第 271 行「補貼跟增資那 4,147.69 億仍然是從國庫出去的錢」（不再把 70 億防汛併進補貼加增資，「那」字限定回 tw-bars 的 1,809.35＋2,338.34）；第 34 行「三個多禮拜過去，隔天零時它就要站上 32.2 元」（跟前句「搶的是隔天零時的那一刀」時態一致）。下游 compose v9／cold-read v5／verify v2 皆 accept；親跑 rewrite-stage-4 hard=0 warn=0。remainingLimits 七條誠實：前六條維持 v1 判定，新增第七條（4,147.69 緊接 4,217.69 讀者會停一下、同段「隔天零時」兩次、s7 可補掛 [^32]）是修正帶進來的句法層小副作用，不是事實層，留 EVOLVE 合理，無一擋 ship。humanReview「人類實際審閱狀態：無」如實（frontmatter lastHumanReview: false）；v1 附的條件已成立，在 Semiont 自主 ship、觀察者事後閱讀、更正走 EVOLVE 的慣例下給 ready-for-publication。立場維持 v1：政策機制題，無一句越 MANIFESTO §13。",
+  "contextDisclosure": "release-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "第 271 行「補貼跟增資那 4,147.69 億仍然是從國庫出去的錢」；第 34 行「隔天零時它就要站上 32.2 元」；commit 613e3fa075 diff 2+/2-"
+    },
+    {
+      "path": "reports/staging/oil-price/run/release-submission-v2.json",
+      "location": "data.remainingLimits 七條（第七條新增）；data.humanReview「人類實際審閱狀態：無」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/release-review-v2.md",
+      "location": "全文"
+    }
+  ]
+}
