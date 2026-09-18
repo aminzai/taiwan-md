@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.25'
-last_updated: 2026-09-07
-last_session: '2026-09-07-164559-audit-upgrade（將已決手動模式與有期限暫停分開，補 machine-readable 決策例外）'
+current_version: 'v2.26'
+last_updated: 2026-09-18
+last_session: '2026-09-18-132812-news-radar（news-lens-weekly 接回探測器第四源，解 138 天停擺；註 ²⁶）'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -43,7 +43,7 @@ upstream_canonical:
 | TaskId                            | Title                                | Cron (local +0800) | Skill                      | Model     | Cadence                             |
 | --------------------------------- | ------------------------------------ | ------------------ | -------------------------- | --------- | ----------------------------------- |
 | `twmd-rewrite-daily`              | TWMD rewrite (daily) ¹⁰ ⏸️           | `0 19 * * *`       | `/twmd-rewrite`            | Opus      | ⏸️ 兩台皆停（註 ²¹）                |
-| `twmd-news-lens-weekly`           | TWMD news lens (weekly) ⁶            | `0 1 * * 0`        | `/twmd-evolve`             | Sonnet    | 週日 01:00                          |
+| `twmd-news-lens-weekly`           | TWMD news lens (weekly) ⁶ ²⁶         | `0 1 * * 0`        | `/twmd-evolve`             | Sonnet    | 週日 01:00                          |
 | `twmd-weekly-report-sun`          | TWMD weekly 體檢 (sun) ¹⁵            | `0 2 * * 0`        | `/twmd-weekly-report`      | Opus      | 週日 02:00                          |
 | `twmd-distill-weekly`             | TWMD distill (weekly) ⁷              | `0 3 * * 0`        | `/twmd-distill`            | Opus      | 週日 03:00                          |
 | `twmd-self-evolve-weekly`         | TWMD self-evolve (weekly)            | `0 4 * * 0`        | `/twmd-self-evolve`        | Opus      | 週日 04:00                          |
@@ -117,6 +117,8 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 ²⁴ **terminology-trends monthly（v2.20，2026-08-04 哲宇拍板「排定期 routine，月度就好」）** — `twmd-terminology-trends-monthly` 每月 5 日 10:30，用語保存計劃的月度趨勢觀察：SC 需求缺口 → 6-8 切面搜索 → 缺口對照（雙防線查重 HARD）→ 高信心入庫 ≤20 條/輪（帶肉＋證據 URL＋誤判四型誠信標註）→ `reports/terminology-trends/YYYY-MM.md` 月度趨勢短報告。長期累積成台灣視角的語言滲透時間序列。姿態站查證與保存不站出征（MANIFESTO §13 語言層）。Canonical [TERMINOLOGY-TRENDS-PIPELINE](../pipelines/TERMINOLOGY-TRENDS-PIPELINE.md)（7 stage + 6 hard gate）；誕生於 2026-08-04 支語深度研究 session（首輪研究版：30 sonnet agent 艦隊 559 次搜索、913 詞條、49 入庫；[報告](../../reports/terminology-zhiyu-deep-research-2026-08-04.md)）。刪除類／政治敏感判定（「是支語嗎」徽章）／大批重分類一律進 OBSERVER-QUEUE。本檔標 ⏸️ 是為了讓 `flywheel-watch` 不把它報成靜默——SSOT 說該跑卻沒跑，才叫警報。
 
 ²⁵ **flywheel-watch 停用（2026-08-10 哲宇 directive「flywheel-watch 是我今天關的，因為幫助不大」）** — 每天一份「飛輪在轉」綠燈報告對觀察者資訊量太低：監看儀器的價值在異常時刻，日更綠燈是噪音。**這是暫停不是退休**：儀器 `flywheel-watch.py` 與 skill 原封不動，`/twmd-flywheel-watch` 手動可跑。註 ²⁰ 當初補的洞（飛輪缺席監看——曾靜默死 15 天全儀器無聲）由兩層承接：(a) `routine-status.sh` v2（同日 ship）在 BECOME groundtruth 補了 origin/main 雙視角——任何 session 在指揮部甦醒都會看到營運機過去 24hr 的 routine 痕跡，飛輪整體停轉時甦醒第一眼就是空清單，不需要專屬排程；(b) 週日 weekly-report 的 `routine-liveness-check.py` fire-vs-commit 對賬（週級，最長延遲 7 天）。兩層都是被動視角，補不回「主動 push 告警」——若未來需要，方向是 alert-only 模式（綠燈靜默、只在 WARN/CRITICAL 時 PushNotification），不是恢復日更。**解除條件**：alert-only 模式設計出來並哲宇拍板 ship，或哲宇主動要求恢復日更。**到期日**：due_date: 2026-10-06（30 天週期檢查，非哲宇未決則升 OBSERVER-QUEUE）。
+
+²⁶ **news-lens 接回探測器（v2.26，2026-09-18 哲宇「新聞雷達之後在 mouhouse 上應該也要一個禮拜跑一次」）** — 探測器（外部媒體掃描 × 知識庫缺口）自 2026-05-03 停擺 138 天：SENSES 凋亡去向表把 SOP 指到 EVOLVE Phase 1，但沒有 routine 接手執行，「探測器落後 > 7 天 🟡」那盞燈也隨 SENSES 一起消失（REFLEXES #56 v8）。不另立 cron：`twmd-news-lens-weekly` 本來就是週日 01:00 的「新聞透鏡」，只是先前只看 GA/SC/CF 三源，現在加第四源 [EVOLVE-PIPELINE §news-lens-probe-output](../pipelines/EVOLVE-PIPELINE.md)，產出 `reports/probe/YYYY-MM-DD.md` + INDEX，Tier 1 直接餵 ARTICLE-INBOX。選擇併入而非新 routine 的理由：(a) 同一個「世界這週在講什麼」的問題不該由兩條 routine 各答一半（REFLEXES #74 信號通膨）；(b) 不用在營運機新建排程項目，`twmd-routine-sync` 05:30 會把新 prompt 同步過去；(c) 週日 01:00 產出正好餵 03:00 distill 與之後一週的 rewrite 選題。model 維持 Sonnet；若連兩週 Tier 1 品質被哲宇 callout，升 Opus 走 §修改 cadence SOP。手動入口 `/twmd-probe`（skill 指標已修回 EVOLVE §news-lens-probe-output）。
 
 ²² **data refresh 整併一班（2026-07-26 哲宇 directive「data-refresh 我也想把 am／pm 整合成同一個」）** — 保留 06:00 那班（晨鏈 `data-refresh → spore-harvest 06:30 → feedback 07:00 → maintainer 08:30` 的前置，下游三條都吃它刷新的 dashboard 數據），23:00 夜班退休。夜班原本的服務對象是 19:00 的 rewrite，而 rewrite 2026-07-25 起改手動觸發（註 ²¹），夜班就失去理由。**taskId 仍是 `twmd-data-refresh-am`**：`-am` 後綴此後是歷史殘留不是語意，跟 `twmd-maintainer-daily` 同樣處置——改 taskId 要在每台機器 delete + create、mirror 改名、歷史 memory 的 grep 全斷，代價高於一個難看的後綴。真要改名再開一次工單。
 
@@ -517,11 +519,15 @@ prompt: |
       - Source-Mode REACTIVE 或 EXISTING-ARTICLE
       - Requested 欄位 `YYYY-MM-DD by twmd-news-lens-weekly (event: XX)`
       - Limit ≤ 7 entries/week 避免淹沒 SPORE-INBOX
+  (3) 探測器報告 reports/probe/YYYY-MM-DD.md + INDEX 一列（v2.26 新增，per EVOLVE-PIPELINE
+      §news-lens-probe-output）— 外部媒體四頻道 × 知識庫三邊對照 × Tier 1-3；Tier 1 直接
+      寫成 ARTICLE-INBOX entry，是 output (1) 的主要來源
 
   Stage 3 commit + push origin main — 直接 push（v2.0 main-direct）。
 
 quality_gate:
   - ARTICLE-INBOX 新增 ≥ 1 個 candidate
+  - reports/probe/YYYY-MM-DD.md 存在 + INDEX 對應列（v2.26）
   - SPORE-INBOX 新增 3-7 news-driven candidates（v2.5）
   - candidate 含 GA + SC 雙源資料 pointer
   - 推薦理由含「為什麼這篇 vs 其他」對比
