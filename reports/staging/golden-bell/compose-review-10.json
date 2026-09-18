@@ -1,0 +1,25 @@
+{
+  "revision": 55,
+  "submissionId": "e56db9cf-826c-48a3-84e9-ed80a5eefc4b",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第九次 delta）",
+  "verdict": "accept",
+  "rationale": "兩句都核實過。(1) 額度／入圍區分句與前文一致：額度＝每獎項最多報五件（[^23]「每一獎項，以五件為限」），「幾十個獎項」是對本文既有「27 個和 20 個獎項」的合理概括，未引進新數字，解釋了「額度收緊」與「入圍 60 項」不矛盾。(2) 轉場句拿掉「條文放寬之後」的因果暗示，收在「名單以前沒記過的一種人」，被下一句「金鐘辦了五十七年，這是第一次」[^31][^8] 直接支撐。footnote 70/70 不變。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L101（額度與入圍區分句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L200（27 個和 20 個獎項）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L121（轉場句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L122（這是第一次）"
+    }
+  ]
+}

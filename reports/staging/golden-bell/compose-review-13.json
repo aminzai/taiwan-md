@@ -1,0 +1,21 @@
+{
+  "revision": 70,
+  "submissionId": "2e6eb13f-3188-48fc-83d6-12f341c8f9ad",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十二次 delta）",
+  "verdict": "accept",
+  "rationale": "(1) curl 維基戲劇節目獎得獎列表確認 1993→1995→1997→1999，1994、1996、1998 皆缺席；本句區間只到 1997，改「扣掉 1994、1996 兩個」後區間內外一致，1998 已在 §2 交代，未漏資訊。(2)「最大的」→「常見的」為語氣軟化，非事實陳述。footnote 70/70 不變。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L71（扣掉 1994、1996）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L48（§2 三年空白交代）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L159（常見的）"
+    }
+  ]
+}

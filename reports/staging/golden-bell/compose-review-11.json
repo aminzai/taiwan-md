@@ -1,0 +1,25 @@
+{
+  "revision": 60,
+  "submissionId": "f0a20b40-e0a4-4523-833f-859bbf2b795a",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十次 delta）",
+  "verdict": "accept",
+  "rationale": "三處都核實過。(1) [^46] 明寫「戲劇類觀看人口近 257 萬」（59 屆單場），[^48] 明寫「兩場典禮電視總收視人口約 505.5 萬人次」（60 屆兩場加總），新句精確點出口徑落差；YouTube 與同時在線兩組兩年都標「戲劇類」，「同口徑幾乎翻倍」成立。(2) curl 自由娛樂確認「未能跨過三分之二評審同意門檻」；研究報告 L906 已逐字查核 109 年度廣播要點 GL001313 只寫「由特別獎項評審小組決定之」，「查無」而非「不存在」用詞精準。(3) frontmatter 同步。footnote 70/70。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L167（第 60 屆收視口徑修正）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L331／L335（[^46][^48] 定義）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L157（三分之二／要點查無）"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "L906（109 年度 GL001313 逐字查核）"
+    }
+  ]
+}

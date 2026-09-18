@@ -1,0 +1,21 @@
+{
+  "revision": 62,
+  "submissionId": "4974b538-337a-4ee6-9edc-9b55fd66a6fc",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent a92b305b80a271eae；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "兩項真問題：表格「公視與製作公司並列｜2016 起」錨欄把 2015 年非公視、早於趨勢起點的《16 個夏天》當「例外」卻未說明例外指什麼（單獨掛名 vs 與公視並列）；《良辰吉時》〈I Promise〉正文從未交代是什麼作品就冒出專名。其餘（253/1,113→280/1,096、257 萬 vs 505.5 萬已揭露、數字首尾呼應、門主題句、「這幾次」、「記的是這兩個名字」已被下句收回）屬裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L81 表格例外語意與時序——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L184《良辰吉時》專名無鋪墊——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L146／L165／L169／L91／L121／L200／L214——裁量"
+    }
+  ]
+}

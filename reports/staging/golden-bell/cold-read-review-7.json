@@ -1,0 +1,25 @@
+{
+  "revision": 67,
+  "submissionId": "0cf6cf34-13e1-423f-bc64-b4daf3a56aa5",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent acccc821747a3a58f；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "兩處真問題：(1) L71「1981 到 1997⋯扣掉 1994、1996、1998」——1998 在區間外卻被列入扣除清單，文章自身敘述錯誤，表格「老三台輪流 1981–1997」佐證 1998 是誤植；最小改法移除 1998。(2) L159「最大的一個誤讀」最高級判斷無比較依據，軟化為「常見的」。龍劭華 2019 在 §3／§7 為鋪陳與回收，非重複；其餘（額度段密度、不具名、表格例外、257 vs 505.5、H2 並置、主題句、「這幾次」、結尾）維持裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L71 扣除清單含區間外 1998——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L48／表格 L77 佐證 1998 誤植"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L159「最大的一個誤讀」——真問題（軟化）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L89 vs L186 龍劭華鋪陳與回收——裁量"
+    }
+  ]
+}

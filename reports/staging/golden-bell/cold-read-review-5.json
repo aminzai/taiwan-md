@@ -1,0 +1,25 @@
+{
+  "revision": 57,
+  "submissionId": "e9ac0464-5ab8-4331-81b4-a3d0412db6ff",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent a9f3658b74639f0b5；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "抓到前四輪沒抓到的數字層真問題：L169「同樣口徑的數字幾乎全部翻倍」把單場 257 萬（戲劇類典禮觀看人口）與兩場加總 505.5 萬（兩場典禮電視總收視人口人次）並列宣稱翻倍，分母不同；YouTube 78→136 萬與同時在線 8→17 萬才是同口徑。L157 特別獎門檻文章刻意不寫但未解釋為何不寫，補一句 hedge 揭露即可。其餘（曹瑞原原話、無主詞質疑、表格＋正文、策展人筆記呼應、「這幾次」）維持裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L165 單場 257 萬 vs L169 兩場 505.5 萬——分母不同，真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L172-176 tw-slope 只列同口徑的 YouTube 兩組，可證正文混口徑"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L157 特別獎門檻未解釋為何不寫——補 hedge 揭露"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L212-213／L80／L85／L91／L121——裁量"
+    }
+  ]
+}
