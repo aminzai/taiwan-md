@@ -1,25 +1,79 @@
 {
-  "_generated": "2026-09-18T12:42:58.584Z",
+  "_generated": "2026-09-18T18:41:14.327Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
       {
-        "title": "台灣油價機制與中油：牌價漲七毛，中油先吸收兩百億",
-        "desc": "2026 年 9 月 14 日，台灣 95 無鉛汽油每公升漲 0.7 元到 32.7 元，同一週國際指標原油漲了 15.79 美元。這套 2006 年起的浮動油價公式，把每公升切成三份：財政部當週少收的稅、你付的牌價、中油先吸收的那一段。開戰半年，中油那一段預估累到 198.5 億，追加預算卻寫 1,014 億，兩個數字量的不是同一段時間，品項也可能不同。",
+        "title": "誰算低薪：最低工資守住了本薪，低薪搬進了年終那一欄",
+        "desc": "出社會六年的公關企劃起薪兩萬八，章魚燒從四十五塊漲到七十塊，明年最低工資可能破三萬，地板追上了她。2026 年 9 月主計總處說，按月薪算台灣沒有人低薪，按一整年算有 126 萬人，差在年終那一欄：最低工資法守本薪，年終獎金沒有一條法律守。十年連漲把地板推過了國際低薪線，低薪沒有消失，它搬進了不發獎金的行業。",
+        "category": "society",
+        "href": "/society/%E8%AA%B0%E7%AE%97%E4%BD%8E%E8%96%AA",
+        "date": "2026-09-19T02:26:40+08:00",
+        "readingTime": 14,
+        "image": "/article-images/society/dgbas-guangbo-building-2023.webp"
+      },
+      {
+        "title": "金鐘獎：三台輪了十七年之後，台灣每年替「我們的電視」劃一次線",
+        "desc": "2022 年 10 月 22 日，陳亞蘭穿著西裝走上國父紀念館的台，用歌仔戲小生拿下戲劇節目男主角獎，五十七年來第一位女性。這座 1965 年為廣播鑄的鐘，有十七年只在台視、中視、華視三個名字之間輪；後來公視、客家劇、越南演員一個一個走進名單。金鐘每年頒的是演技，真正劃的是一條線：誰算得上台灣的電視，誰還在線外。",
+        "category": "culture",
+        "href": "/culture/%E9%87%91%E9%90%98%E7%8D%8E",
+        "date": "2026-09-19T01:13:22+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
+      {
+        "title": "台灣氣候危機與淨零轉型：核三公投沒過那天，物理上限的選擇才剛開始",
+        "desc": "2025 年 8 月 23 日核三延役公投：434 萬同意票、74% 贊成，投票率 29.53% 沒到門檻。公投沒過，隔天賴清德開出三原則，七個月後台電在 2026 年 3 月 27 日把延役申請送進核安會。98% 能源靠進口、9 兆台幣淨零、地熱目標 200 MW 只蓋出 7.4 MW、離岸風電裝置量全球第七、Onkalo 終極處置場、TerraPower 第四代核電——這座島嶼的能源題從來不是政治題，是物理上限題。",
+        "category": "nature",
+        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
+        "date": "2026-09-19T01:09:12+08:00",
+        "readingTime": 26,
+        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
+      },
+      {
+        "title": "電網韌性：停電之後，誰能先恢復城市",
+        "desc": "2017 年 815 與 2022 年 303 大停電，讓台灣看見電網真正脆弱的地方不只在發電量，而在集中化的節點、操作程序、輸配電設備與地方復原能力。當電力成為醫療、交通、通訊與產業的共同底座，韌性就不只是台電的工程問題，而是整座城市如何在失去電力後重新開始。",
+        "category": "society",
+        "href": "/society/%E9%9B%BB%E7%B6%B2%E9%9F%8C%E6%80%A7",
+        "date": "2026-09-19T01:09:12+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "台灣企業：台塑集團",
+        "desc": "台灣經營之神王永慶打造的石化王國，台塑四寶的製造傳奇",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E5%A1%91%E9%9B%86%E5%9C%98",
+        "date": "2026-09-19T01:09:12+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣油價機制與中油：省下的 36 元，先記在一家站在最前面的公司名下",
+        "desc": "2026 年 3 月 22 日晚上，雲林一位婦女趕在漲價前加滿二十公升，說省了 36 元。同一天行政院長說，經過加油站要跟中油說聲謝謝。從 2008 年凍漲七個月到今年開戰半年，台灣每次油價衝高都叫這家負債比 93% 的國營公司先扛，再用追加預算事後補回。便宜按公升平分給每個人，用得越多省得越多，誰用得最多，二十年來沒有人統計過。",
         "category": "economy",
         "href": "/economy/%E5%8F%B0%E7%81%A3%E6%B2%B9%E5%83%B9%E6%A9%9F%E5%88%B6%E8%88%87%E4%B8%AD%E6%B2%B9",
-        "date": "2026-09-18T19:53:08+08:00",
-        "readingTime": 20,
+        "date": "2026-09-19T01:09:12+08:00",
+        "readingTime": 18,
         "image": "/article-images/economy/cpc-tainan-chenggong-station-2023.webp"
       },
       {
-        "title": "誰算低薪：主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄",
-        "desc": "2026 年 9 月 14 日，主計總處一場說明給了兩個答案：按月薪算，沒有人低於 OECD 的低薪線，按年薪算有 126 萬人。兩個數字都對，差在年終那一欄。最低工資從 1968 年的 600 元漲到 2026 年的 29,500 元，守住本薪，年終沒有法律守，126 萬人住在兩欄之間，尺外還有三百多萬人不在分母裡。",
-        "category": "society",
-        "href": "/society/%E8%AA%B0%E7%AE%97%E4%BD%8E%E8%96%AA",
-        "date": "2026-09-18T19:41:19+08:00",
-        "readingTime": 17,
-        "image": "/article-images/society/dgbas-guangbo-building-2023.webp"
+        "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
+        "desc": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者的貪念替國家看住了店家有沒有報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權統治都活得久——直到 2024 年一場程式碼風波，才第一次讓人問出口：這套系統憑什麼還值得相信？",
+        "category": "economy",
+        "href": "/economy/%E7%99%BC%E7%A5%A8",
+        "date": "2026-09-19T01:09:12+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/invoice-tk3c-receipt-2007.webp"
+      },
+      {
+        "title": "張忠謀",
+        "desc": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
+        "category": "people",
+        "href": "/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
       },
       {
         "title": "馬英九：哈佛法律博士進蔣經國辦公室當英文翻譯，做了八年以「清廉」形象立足的總統，留下兩岸、太陽花跟 22K",
@@ -218,63 +272,18 @@
         "date": "2026-09-03T23:03:22+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "台灣行動支付：為什麼手機裡裝了好幾種支付，出門還是會帶現金？",
-        "desc": "2024 年第三季，資策會 MIC 的 5,000 份網路樣本中，92% 曾用、84% 常用行動支付。央行另一份全國成人調查卻顯示，73.8% 仍混用現金與非現金。從消費者、商家到 TWQR 的共同 QR，這篇拆開手機付款背後不同的工具、契約與確認流程，也回答為何高普及離不帶現金還有兩道門檻，並說明共同 QR 已解決什麼，又留下哪些受理與故障例外。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E8%A1%8C%E5%8B%95%E6%94%AF%E4%BB%98",
-        "date": "2026-09-02T00:58:27+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/taiwan-mobile-payments-merchant-2026.webp"
-      },
-      {
-        "title": "台灣不在籍投票：返鄉成本看得見，信任成本更難算",
-        "desc": "台灣多數選民仍須回戶籍地投票，但選務人員已有有限工作地投票，2026 年地方選舉也將實施原住民投票新制。從九合一選舉預估 8,896 種選舉票，到郵寄、移轉與提前投票的不同風險，這篇拆解不在籍投票如何降低返鄉門檻，又為何必須重新建立選票保管、秘密投票與公開開票的信任，並比較一條可公開驗證的漸進路線。",
-        "category": "politics",
-        "href": "/politics/%E5%8F%B0%E7%81%A3%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
-        "date": "2026-09-01T16:32:55+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "張忠謀",
-        "desc": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
-        "category": "people",
-        "href": "/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
-        "date": "2026-09-01T02:02:45Z",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "公館：日本帝國的研究室、戒嚴期的地下沙龍、台大學生的炸雞排，500 公尺三個世紀",
-        "desc": "1928 年日本人在台北南郊蓋了帝國第六所大學「台北帝國大學」，校門外的溫州街、青田街、永康街一帶是教授宿舍區。戰後 1949 年宿舍接收給外省學者，溫州街 18 巷 16 弄 1-1 號的小屋成了被軟禁的殷海光客廳，新生南路 3 段 16 巷的紫藤廬從關務署官舍變成黨外文青沙龍，溫州街 25 號是台靜農寫到 1990 年的書房，1972-75 年校園裡的台大哲學系事件牽連 13 位教授。1999 年捷運新店線通車，公館圓環變成台大學生的吃飯 ATM。日本帝國的研究室、戒嚴期的地下沙龍、當代學生的炸雞排，三個世紀疊在 500 公尺裡。",
-        "category": "geography",
-        "href": "/geography/%E5%85%AC%E9%A4%A8",
-        "date": "2026-08-27T13:44:07+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/gongguan-ntu-main-gate-2017.webp"
-      },
-      {
-        "title": "北投溫泉街：1697 採硫到 2026 浴博，同一片山泉換了四代住民",
-        "desc": "1697 年郁永河來這片山採硫、跟凱達格蘭族交換硫土；1896 年大阪人平田源吾在現在的光明路 234 號蓋下台灣第一家溫泉旅館「天狗庵」；1913 年森山松之助設計的紅磚公共浴場開幕；1923 年裕仁皇太子來泡了一次；1967 年《時代》雜誌一張照片讓蔣中正氣炸；1979 年李登輝市長廢娼後酒家熄燈；1998 年荒廢的紅磚浴場變博物館。同一片冒煙的山泉，被外人發現過三次，被四代住民適應過。",
-        "category": "geography",
-        "href": "/geography/%E5%8C%97%E6%8A%95%E6%BA%AB%E6%B3%89%E8%A1%97",
-        "date": "2026-08-27T13:44:07+08:00",
-        "readingTime": 25,
-        "image": "/article-images/geography/beitou-hot-spring-museum-2020.webp"
-      },
-      {
-        "title": "南投縣：唯一不靠海的縣，921 震央就在它的中心",
-        "desc": "1999 年 9 月 21 日凌晨一點四十七分，集集鎮地底車籠埔斷層錯動 102 秒，全台 2,415 人死亡，南投自己佔 886 人，中寮鄉九成建築受損。1930 年霧社公學校升旗那天，莫那魯道帶 6 社賽德克族砍下 134 個日本平民。1934 年武界壩升起 18.18 公尺淹掉邵族的拉魯島。1957 年中興新村蓋好作為省政府臨時辦公處，1998 年精省抽空只剩椰林大道。47 萬人住在這個從 100 公尺爬到 3,952 公尺、賽德克 + 布農 + 邵 + 鄒四族跟漢人同住的內陸縣。台灣最深的傷口都在這裡。",
-        "category": "geography",
-        "href": "/geography/%E5%8D%97%E6%8A%95%E7%B8%A3",
-        "date": "2026-08-27T13:44:07+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/sun-moon-lake-twilight.webp"
       }
     ],
     "en": [
+      {
+        "title": "Morris Chang",
+        "desc": "The semiconductor godfather and founder of TSMC, a legendary entrepreneur who transformed the global technology industry with the foundry model.",
+        "category": "people",
+        "href": "/en/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ma Ying-jeou: The Harvard Doctor of Law Who Entered Chiang Ching-kuo's Office as an English Interpreter, Served Eight Years as a President Grounded in a 'Clean' Image, and Left Behind Cross-Strait Policy, the Sunflower Movement, and 22K",
         "desc": "On November 7, 2015, at the Shangri-La in Singapore, he shook Xi Jinping's hand for 1 minute and 20 seconds: the first meeting between the top leaders on the two sides of the Taiwan Strait since 1949. Taiwan society still remembers the same photograph in two completely different ways: one side sees a historic breakthrough; the other sees a concession of subjectivity. His 'clean' image after eight years as president, cross-strait policy, 22K, and the Sunflower Movement, together with two post-presidency visits to China over the following decade and the 2026 family statement, remain unsettled to this day.",
@@ -535,18 +544,18 @@
         "date": "2026-09-05T17:28:09+08:00",
         "readingTime": 14,
         "image": ""
-      },
-      {
-        "title": "Wang Chi-lin and Lee Yang (The Lin-Yang Duo)",
-        "desc": "From middle school classmates to Olympic gold: The Lin-Yang Duo defeated China in straight sets within 34 minutes, winning Taiwan's first-ever Olympic gold medal in badminton",
-        "category": "people",
-        "href": "/en/people/lin-yang-duo-taiwan-badminton-champions",
-        "date": "2026-09-05T17:28:09+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "張忠謀（ちょう・ちゅうぼう／モリス・チャン）",
+        "desc": "半導体の教父、TSMC創業者、ウェハー受託製造モデルで世界のテクノロジー産業を変えた伝説的企業家",
+        "category": "people",
+        "href": "/ja/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "マ英九：ハーバード法学博士が蔣経国事務所の英語通訳に就任し、「清廉」のイメージで八年間大統領を務め、両岸関係・太陽花・22Kを遺した人物",
         "desc": "2015年11月7日、シンガポール・シャングリラにて、彼は習近平と1分20秒握手した。1949年以来、両岸の最高指導者として初めての会面であった。同じ写真を、台湾社会は今でもまったく異なる二つの方法で記憶している。一方は歴史的突破を見、もう一方は主体性の譲歩を見る。彼が八年の在任中に築いた「清廉」のイメージ、両岸関係、22K、太陽花に加え、退任後の二度の中国訪問と2026年の家族声明に至るまで、今日なお結論は出ていない。",
@@ -710,15 +719,6 @@
         "image": ""
       },
       {
-        "title": "張忠謀（ちょう・ちゅうぼう／モリス・チャン）",
-        "desc": "半導体の教父、TSMC創業者、ウェハー受託製造モデルで世界のテクノロジー産業を変えた伝説的企業家",
-        "category": "people",
-        "href": "/ja/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45Z",
-        "readingTime": null,
-        "image": ""
-      },
-      {
         "title": "サクラマス：氷河期の遺産が故郷へ帰る道 ― 絶滅の淵から流域全体の保全へと至る台湾の奇跡",
         "desc": "1917年、日本の学者・大島正満が台湾で氷河期の遺存生物「サクラマス（櫻花鉤吻鮭）」を発見しました。タイヤル族はこの魚を「Mnbang」と呼びます。生息地の破壊と個体数の激減により、1995年にはわずか200尾余りにまで追い込まれましたが、ダムの撤去、人工繁殖、そして革新的な「無水輸送」技術を通じて、2023年には1万8000尾という過去最高を記録しました。近年は変動が見られますが、1万5000尾以上の水準で安定しており、台湾における流域全体の保全の成功事例となっています。",
         "category": "nature",
@@ -819,6 +819,15 @@
       }
     ],
     "ko": [
+      {
+        "title": "장중머우 (Morris Chang)",
+        "desc": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
+        "category": "people",
+        "href": "/ko/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "마잉주: 하버드 법학박사가 장징궈 집무실에서 영어 통역을 맡고, 8년 동안 '청렴' 이미지를 기반으로 대통령직을 수행했으나 양안, 해바라기와 22K를 남긴 인물",
         "desc": "2015년 11월 7일 싱가포르 샹그릴라에서 그는 시진핑과 1분 20초 동안 악수했다. 1949년 이후 양안 최고지도자가 처음 만난 순간이었다. 같은 사진을 두고 대만 사회는 지금까지 완전히 다른 두 방식으로 기억한다. 한쪽은 역사적 돌파를 보고, 다른 한쪽은 주체성의 양보를 본다. 그가 8년 대통령 임기 동안 구축한 '청렴' 이미지, 양안, 22K와 해바라기, 여기에 퇴임 후 10년 사이 두 차례 중국 방문과 2026년 가족 성명까지 더해져, 오늘날까지도 평가는 정리되지 않았다.",
@@ -935,15 +944,6 @@
         "date": "2026-09-09T17:58:15+08:00",
         "readingTime": 14,
         "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
-      },
-      {
-        "title": "장중머우 (Morris Chang)",
-        "desc": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
-        "category": "people",
-        "href": "/ko/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45Z",
-        "readingTime": null,
-        "image": ""
       },
       {
         "title": "벚꽃 곤들매기: 빙하 시대 잔존종의 귀향길, 멸종 위기에서 유역 전체 보전으로 이끈 대만의 기적",
@@ -1091,6 +1091,15 @@
       }
     ],
     "es": [
+      {
+        "title": "Morris Chang (張忠謀)",
+        "desc": "El padrino de los semiconductores y fundador de TSMC, un empresario legendario que transformó la industria tecnológica mundial mediante el modelo de fundición de semiconductores.",
+        "category": "people",
+        "href": "/es/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ma Ying-jeou: el doctor en Derecho de Harvard que entró a la oficina de Chiang Ching-kuo como traductor de inglés, fue presidente durante ocho años apoyado en una imagen de “integridad” y dejó como legado las relaciones a través del Estrecho, el Movimiento Girasol y el 22K",
         "desc": "El 7 de noviembre de 2015, en el Shangri-La de Singapur, estrechó la mano de Xi Jinping durante 1 minuto y 20 segundos: fue el primer encuentro entre los máximos líderes de ambos lados del Estrecho desde 1949. Esa misma fotografía sigue siendo recordada por la sociedad taiwanesa de dos maneras completamente distintas: para unos, como una ruptura histórica; para otros, como una concesión de subjetividad política. Su imagen de “integridad” tras ocho años de presidencia, las relaciones a través del Estrecho, el 22K y el Movimiento Girasol, sumados a sus dos visitas a China en la década posterior a dejar el cargo y a la declaración de sus familiares en 2026, siguen sin una conclusión definitiva hasta hoy.",
@@ -1299,15 +1308,6 @@
         "image": ""
       },
       {
-        "title": "Morris Chang (張忠謀)",
-        "desc": "El padrino de los semiconductores y fundador de TSMC, un empresario legendario que transformó la industria tecnológica mundial mediante el modelo de fundición de semiconductores.",
-        "category": "people",
-        "href": "/es/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45Z",
-        "readingTime": null,
-        "image": ""
-      },
-      {
         "title": "La trucha de Formosa: el regreso de un relicto glacial, de la extinción inminente a un modelo de conservación de cuenca en Taiwán",
         "desc": "En 1917, el académico japonés Masao Ōshima descubrió en Taiwán la trucha de Formosa (*Oncorhynchus masou formosanus*), un organismo relicto de la era glacial que los pueblos atayal denominan «Mnbang». Tras décadas de degradación de su hábitat y un descenso poblacional que en 1915 la redujo a apenas unos 200 ejemplares, la demolición de presas, la cría artificial y una innovadora técnica de «transporte en secolo de huevos embrionados» permitieron que la población alcanzara un máximo de 18 000 ejemplares en 2023. Aunque en años recientes se han registrado fluctuaciones, la cifra se ha estabilizado por encima de los 15 000 ejemplares, convirtiéndose en un caso de éxito de conservación integral de cuencas hidrográficas en Taiwán.",
         "category": "nature",
@@ -1363,6 +1363,15 @@
       }
     ],
     "fr": [
+      {
+        "title": "Morris Chang (Zhang Zhongmou)",
+        "desc": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
+        "category": "people",
+        "href": "/fr/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ma Ying-jeou : docteur en droit de Harvard entré au bureau de Chiang Ching-kuo comme traducteur anglais, président pendant huit ans appuyé sur une image d'« intégrité », et qui a laissé derrière lui les deux rives, les Tournesols et les 22K",
         "desc": "Le 7 novembre 2015, au Shangri-La de Singapour, il serre la main de Xi Jinping pendant 1 minute 20 secondes : première rencontre entre les plus hauts dirigeants des deux rives depuis 1949. Une même photographie que la société taïwanaise continue de se rappeler de deux manières radicalement différentes : d'un côté, on y voit une percée historique ; de l'autre, une concession de subjectivité politique. Son image d'« intégrité » construite pendant huit ans de présidence, les relations entre les deux rives, les 22K et le Mouvement des Tournesols, puis deux visites en Chine durant la décennie qui suit son départ du pouvoir et la déclaration familiale de 2026, ne font toujours pas consensus aujourd'hui.",
@@ -1562,15 +1571,6 @@
         "image": "/article-images/economy/zhongli-city-taiwan.webp"
       },
       {
-        "title": "Morris Chang (Zhang Zhongmou)",
-        "desc": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
-        "category": "people",
-        "href": "/fr/people/tsmc-morris-chang",
-        "date": "2026-09-01T02:02:45Z",
-        "readingTime": null,
-        "image": ""
-      },
-      {
         "title": "L'Incident du 28 février 1947 — Dix jours qui ont changé Taïwan",
         "desc": "Comment le stand de cigarettes d'une veuve a allumé trente-huit ans de silence sur une île entière : les dix jours de février 1947 qui ont scellé le destin de Taïwan, et une blessure qui, soixante-dix-huit ans plus tard, n'est toujours pas refermée.",
         "category": "history",
@@ -1635,6 +1635,15 @@
       }
     ],
     "vi": [
+      {
+        "title": "Morris Chang",
+        "desc": "Cha đẻ của ngành bán dẫn, nhà sáng lập TSMC, nhà doanh nhân huyền thoại đã thay đổi toàn bộ ngành công nghệ toàn cầu bằng mô hình đúc khi",
+        "category": "people",
+        "href": "/vi/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Mã Anh Cửu: Tiến sĩ Luật Harvard vào làm thông dịch tiếng Anh cho Tưởng Kinh Quốc, làm tám năm tổng thống với hình ảnh \"liêm khiết\", để lại hai bờ eo biển, phong trào Hoa Hướng Dương và 22K",
         "desc": "Ngày 7 tháng 11 năm 2015 tại Shanghai-La Singapore, ông bắt tay với Tập Cận Bình 1 phút 20 giây, lần đầu tiên từ năm 1949 hai nhà lãnh đạo hay bờ gặp mặt. Cùng một bức ảnh, xã hội Đài Loan cho tới nay nhớ lại bằng hai cách hoàn toàn khác biệt: một bên thấy bước ngoặt lịch sử, bên kia thấy nhượng bộ chủ thể. Tám năm tổng thống của ông, hình ảnh \"liêm khiết\", hai bờ eo biển, 22K và phong trào Hoa Hướng Dương, cộng với mười năm sau khi rời nhiệm, hai lần viếng Trung Quốc và thông báo gia đình năm 2026, cho tới nay vẫn chưa có kết luận.",
@@ -1895,18 +1904,18 @@
         "date": "2026-07-27T19:03:33+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Sự kiện tàu Formosa: 181 người lính không thể đánh bại bằng lực, Trường Kiết Đức dùng 45 phút để thương lượng xong",
-        "desc": "Năm 1867, 181 quan chứng quân Mỹ trên bán đảo Hạ Long bị bộ đội Atayal đánh bại trong rừng rậm. Chỉ huy bị thương. Ba tháng sau, người lãnh sự Mỹ Li Xian de ngồi xuống và thương lượng trong 45 phút để ký thỏa thuận Bán Đất Nam. Thỏa thuận này giúp bảo vệ bộ đội, nhưng bên kia là Li Xian de, sau bảy năm mang cùng bản đồ đó đến với Đế quốc Nhật Bản, hỗ trợ lên kế hoạch xuất quân năm 1874.",
-        "category": "history",
-        "href": "/vi/history/rover-incident-and-tauketok",
-        "date": "2026-07-27T19:03:33+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "id": [
+      {
+        "title": "Morris Chang",
+        "desc": "Bapak industri semikonduktor, pendiri TSMC, pengusaha legendaris yang mengubah industri teknologi global dengan model usaha pure-play foundry",
+        "category": "people",
+        "href": "/id/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ma Ying-jeou: Doktor Hukum Harvard yang Masuk ke Kantor Chiang Ching-kuo sebagai Penerjemah Bahasa Inggris, Menjabat Presiden Delapan Tahun dengan Citra 'Bersih', Meninggalkan Warisan Hubungan Dua Pantai, Gerakan Bunga Matahari, dan 22K",
         "desc": "Pada 7 November 2015 di Shangri-La Singapura, ia berjabat tangan dengan Xi Jinping selama 1 menit 20 detik, pertemuan pertama pemimpin tertinggi kedua pantai sejak 1949. Foto yang sama, hingga kini diingat masyarakat Taiwan dengan dua cara yang berlawanan: satu sisi melihat terobosan sejarah, sisi lain melihat pengorbanan subjektivitas. Citra 'bersih' yang dibangunnya selama delapan tahun menjabat presiden, hubungan dua pantai, 22K, dan Bunga Matahari, ditambah kunjungan kedua ke Tiongkok sepuluh tahun pasca-jabatan serta pernyataan keluarga pada 2026, hingga hari ini belum memiliki kesimpulan pasti.",
@@ -2167,18 +2176,18 @@
         "date": "2026-09-10T03:30:44+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "Paper Windmill Theatre (紙風車劇團)：Tilting with Dreams Across Taiwan, a 30-Year Artistic Crusade",
-        "desc": "From 1992 theatrical dream to touring 368 townships, Paper Windmill Theatre embodies the spirit \"where there is wind, move; where there is no wind, create it,\" bringing art's first mile to Taiwan's children. Founded by Lee Yung-feng, the troupe rose from the 2020 fire and pandemic, using the majestic Rain Horse and local stories to weave collective memory across the island.",
-        "category": "art",
-        "href": "/id/art/paper-windmill-theater",
-        "date": "2026-09-10T03:30:44+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "pt": [
+      {
+        "title": "Morris Chang",
+        "desc": "Padrinho dos semicondutores, fundador da TSMC, o lendário empresário que transformou a indústria tecnológica global com o modelo de fundição de wafers",
+        "category": "people",
+        "href": "/pt/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ma Ying-jeou: doutor em Direito por Harvard entra no gabinete de Chiang Ching-kuo como tradutor de inglês, faz oito anos de presidente ancorado na imagem de \"integridade\", deixa legado de relações cross-strait, Movimento Girassol e 22K",
         "desc": "Em 7 de novembro de 2015, no Shangri-La de Singapura, ele aperta a mão de Xi Jinping por 1 minuto e 20 segundos, primeiro encontro entre líderes máximos dos dois lados do estreito desde 1949. A mesma foto gera duas leituras opostas em Taiwan: uns veem avanço histórico, outros veem concessão de soberania. Oito anos de presidência marcados pela imagem de \"integridade\", cross-strait, 22K e Girassol, somados a duas visitas à China após deixar o cargo e à declaração familiar de 2026, seguem sem consenso até hoje.",
@@ -2439,18 +2448,18 @@
         "date": "2026-08-09T07:49:34+08:00",
         "readingTime": 8,
         "image": "/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp"
-      },
-      {
-        "title": "Whyte?te: A aluna exemplar que cursou medicina por nove anos e apertou o botão de pausa com uma licença",
-        "desc": "Em 21 de agosto de 2021, Whyte?te subiu ao palco com chapéu preto e óculos escuros para receber o prêmio de Melhor Artista Novo na 32.ª edição do Golden Melody Awards. Diante das câmeras, disse: \"Por favor, não tenham medo.\" Seu nome de batismo é Lin Chih-yi, natural de Hsiang-shan, Hsinchu; formou-se na Hsinchu Girls' High School e cursou medicina na National Defense Medical Center por nove anos — incluindo o ano de licença no terceiro ano e um ano de prorrogação da formatura (o internato de dois anos levou três por não ter acompanhado consultas). Concluiu o internato médico, obteve o diploma de bacharel em medicina e, no dia da premiação, ainda passava os dias na sala de cirurgia, de máscara, como médica interna. Na trilha dos \"melhores alunos\" de Taiwan, ela apertou o botão de pausa naquele ano.",
-        "category": "people",
-        "href": "/pt/people/huai-te-indie-singer",
-        "date": "2026-08-09T07:49:34+08:00",
-        "readingTime": 16,
-        "image": ""
       }
     ],
     "hi": [
+      {
+        "title": "मॉरिस चांग",
+        "desc": "अर्धचालक गुरु, TSMC के संस्थापक, वेफर फाउंड्री मॉडल से वैश्विक तकनीक उद्योग को बदलने वाले दिग्गज उद्यमी",
+        "category": "people",
+        "href": "/hi/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "मा यिंग-जो: हार्वर्ड कानून डॉक्टरेट ने चियांग चिंग-कुओ के कार्यालय में अंग्रेजी अनुवादक के रूप में प्रवेश किया, आठ साल तक \"स्वच्छ\" छवि वाले राष्ट्रपति के रूप में रहे, दो किनारे, सनफ्लावर और 22K छोड़ गए",
         "desc": "7 नवंबर 2015 को सिंगापुर के शांगरी-ला में, उन्होंने शी जिनपिंग के साथ 1 मिनट 20 सेकंड तक हाथ मिलाया, 1949 के बाद से दो किनारों के सर्वोच्च नेताओं की पहली मुलाकात। उसी तस्वीर को ताइवानी समाज आज तक दो पूरी तरह से अलग तरीकों से याद करता है: एक तरफ ऐतिहासिक सफलता देखता है, दूसरी तरफ विषयगत रियायत देखता है। उनके आठ साल के राष्ट्रपति कार्यकाल की \"स्वच्छ\" छवि, दो किनारे, 22K और सनफ्लावर, साथ ही पद छोड़ने के बाद दस साल में दो बार चीन यात्रा और 2026 में परिवार का बयान, आज तक कोई निश्चित निष्कर्ष नहीं निकला है।",
@@ -2711,24 +2720,24 @@
         "date": "2026-09-10T03:30:44+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "ताइवान का ध्वनि परिदृश्य",
-        "desc": "कचरे की गाड़ी के आलीसा से लेकर बुनून जनजाति के आठ-भाग के सामंजस्य तक — कानों से ताइवान को जानें",
-        "category": "music",
-        "href": "/hi/music/taiwan-soundscape",
-        "date": "2026-09-10T03:30:44+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "ar": [
       {
+        "title": "موريس تشانغ",
+        "desc": "أبو أشباه الموصلات، مؤسس شركة TSMC، رائد الأعمال الأسطوري الذي غيّر صناعة التكنولوجيا العالمية بنموذج تصنيع الرقائق التعاقدي",
+        "category": "people",
+        "href": "/ar/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
         "title": "ما يينغ جيو: دكتوراه في القانون من هارفارد يدخل مكتب تشيانغ تشينغ كوه كمترجم إنجليزي، رئيس قام ثماني سنوات على صورة \"النزاهة\"، تاركًا العلاقات عبر المضيق، وحركة عباد الشمس، و22K",
-        "desc": "في 7 نوفمبر 2015، في فندق شانغريلا في سنغافورة، صافح شي جين بينغ لمدة دقيقة و20 ثانية، في أول لقاء بين أعلى قادة الجانبين منذ 1949. نفس الصورة، لا يزال المجتمع التايواني يتذكرها بطريقتين مختلفتين تمامًا: 한쪽 يرى اختراقًا تاريخيًا، والآخر يرى تنازلًا عن الذات. صورته \"النزيهة\" خلال ثماني سنوات رئاسية، والعلاقات عبر المضيق، و22K، وحركة عباد الشمس، بالإضافة إلى زيارتيه للصين بعد ترك المنصب وبيان عائلته عام 2026، لا تزال بلا حكم نهائي حتى اليوم.",
+        "desc": "في 7 نوفمبر 2015، في فندق شانغريلا في سنغافورة، صافح شي جين بينغ لمدة دقيقة و20 ثانية، في أول لقاء بين أعلى قادة الجانبين منذ 1949. نفس الصورة، لا يزال المجتمع التايواني يتذكرها بطريقتين مختلفتين تمامًا: أحدهما يرى اختراقًا تاريخيًا، والآخر يرى تنازلًا عن الذات. صورته \"النزيهة\" خلال ثماني سنوات رئاسية، والعلاقات عبر المضيق، و22K، وحركة عباد الشمس، بالإضافة إلى زيارتيه للصين بعد ترك المنصب وبيان عائلته عام 2026، لا تزال بلا حكم نهائي حتى اليوم.",
         "category": "people",
         "href": "/ar/people/ma-ying-jeou-cross-strait-reconciliation-leader",
-        "date": "2026-09-18T15:14:09+08:00",
+        "date": "2026-09-18T20:52:41+08:00",
         "readingTime": null,
         "image": "/article-images/people/ma-xi-meeting-singapore-2015.webp"
       },
@@ -2983,18 +2992,18 @@
         "date": "2026-09-10T03:30:44+08:00",
         "readingTime": 8,
         "image": "/article-images/food/taiwanese-douhua-tofu-pudding.webp"
-      },
-      {
-        "title": "أشان: بعد أحد عشر سنة من التحديثات اليومية، لماذا لا تزال هناك حلقات جديدة على الرغم من \"التوقف الدائم\"؟",
-        "desc": "في يوليو 2026، تعرض القناة الرئيسية لأشان \"تقاعدت، سأصنع الأفلام فقط عندما أشعر بالرضا\"، بينما يتم بث أفلام Minecraft جديدة من أمس. لمدة أحد عشر سنة، حولت التحديثات اليومية القناة الشخصية إلى جدول برامجي بحلقة جديدة كل يوم؛ لماذا لم يصبح \"التوقف الدائم\" قبل ثلاث سنوات مغادرة دائمة من المنصة؟",
-        "category": "people",
-        "href": "/ar/people/red-shin-minecraft-youtuber",
-        "date": "2026-09-10T03:30:44+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/ashan-2026-return-minecraft.webp"
       }
     ],
     "ru": [
+      {
+        "title": "Моррис Чанг",
+        "desc": "Отца полупроводников, основатель ТСМК, легендарный предприниматель, изменивший глобальную технологическую индустрию моделью чип-фаундри",
+        "category": "people",
+        "href": "/ru/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Ма Иньцзю: доктор права Гарварда, ставший переводчиком с английского в офисе Чан Цзин-гуо, прослужил восемь лет президентом, закрепившимся образом «неподкупного» лидера, оставившим после себя наследие в отношениях двух берегов, движении «Подсолнух» и «22K»",
         "desc": "7 ноября 2015 года в Сингапуре, в отеле «Шангри-Ла», он пожал руку Си Цзиньпину на 1 минуту 20 секунд — первая встреча высших лидеров двух берегов с 1949 года. Одну и ту же фотографию тайваньское общество до сих пор воспринимает двояко: одни видят исторический прорыв, другие — уступку суверенитету. Восьмилетний президентский мандат с образом «неподкупности», вопросы двух берегов, «22K» и движение «Подсолнух», а также повторный визит в Китай через десять лет после ухода с поста и заявление семьи 2026 года — до сих пор не имеют однозначной оценки",
@@ -3255,18 +3264,18 @@
         "date": "2026-09-10T03:30:44+08:00",
         "readingTime": 9,
         "image": "/article-images/food/kaohsiung-city-sunset.webp"
-      },
-      {
-        "title": "Чайное яйцо: Треснувшая скорлупа стала запахом тайваньского магазина удобства",
-        "desc": "В 1987 году Сюй Чжунжэнь положил треснувшее чайное яйцо в тайваньский 7-ELEVEN, кофе не стал бестселлером, но чайное яйцо осталось. От одного котла маринада, трещин на скорлупе до безопасности пищевых продуктов — это яйцо записало, как Тайвань превратил импортированную систему в повседневность, и помог нам заново увидеть стоимость дешёвых продуктов питания и заботу о них.",
-        "category": "food",
-        "href": "/ru/food/taiwan-tea-eggs",
-        "date": "2026-09-10T03:30:44+08:00",
-        "readingTime": 10,
-        "image": "/article-images/food/tea-egg-taiwan.webp"
       }
     ],
     "de": [
+      {
+        "title": "Morris Chang",
+        "desc": "Der Pate der Halbleiter und Gründer von TSMC: Der legendäre Unternehmer, der mit dem reinen Foundry-Modell die globale Technologiebranche veränderte.",
+        "category": "people",
+        "href": "/de/people/tsmc-morris-chang",
+        "date": "2026-09-18T21:24:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Jimmy Liao: Die Bilder, die als „heilsam“ gelten, hat ein Leukämie-Überlebender aus einem Glasaquarium zurückgebracht",
         "desc": "1995 wurde der 37-jährige Werbe-Art Director Liao Fu-bin mit akuter myeloischer Leukämie diagnostiziert und winkte Freunden im sterilen Zimmer durchs Glas zu. Nach der Entlassung wurden die „kleinen Menschen“, mit denen er sonst Geld verdient hatte, lebendig, und er begann „Der lächelnde Fisch“, „Der Mond vergisst“, „Nach links, nach rechts“ und „Die U-Bahn“ zu zeichnen. Hinter dem, was Taiwaner mit „heilsam“, „Kult“ oder dem Jimmy-Platz in Luodong, Yilan, verbinden, steht ein Mensch, der in der Hölle war und Tod und Einsamkeit in eine lesbare Form übersetzt hat – ein Werk, das später zu einem Imperium aus Film, Musical, Zirkus und öffentlicher Kunst wurde und 2026 noch eine 25-Jahre-Sonderausstellung in Hongkong eröffnete.",
@@ -3365,15 +3374,6 @@
         "date": "2026-09-08T19:23:41+08:00",
         "readingTime": null,
         "image": "/article-images/people/lo-ta-yu-2011.webp"
-      },
-      {
-        "title": "Morris Chang",
-        "desc": "Der Pate der Halbleiter und Gründer von TSMC: Der legendäre Unternehmer, der mit dem reinen Foundry-Modell die globale Technologiebranche veränderte.",
-        "category": "people",
-        "href": "/de/people/tsmc-morris-chang",
-        "date": "2026-09-08T18:43:50+08:00",
-        "readingTime": null,
-        "image": ""
       },
       {
         "title": "Sanmao: Die Frau, die das Weglaufen als Freiheit schrieb",

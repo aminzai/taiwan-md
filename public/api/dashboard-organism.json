@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T12:42:45.113Z",
+  "lastUpdated": "2026-09-18T18:41:00.914Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 14,
-        "articlesLast30Days": 176,
-        "totalArticles": 1121,
-        "selfProducedLast7Days": 3,
-        "selfProducedLast30Days": 4,
-        "contributedLast7Days": 11
+        "articlesLast7Days": 21,
+        "articlesLast30Days": 183,
+        "totalArticles": 1122,
+        "selfProducedLast7Days": 4,
+        "selfProducedLast30Days": 5,
+        "contributedLast7Days": 17
       }
     },
     {
@@ -29,12 +29,12 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 200,
-        "totalArticles": 1121,
+        "totalArticles": 1122,
         "humanReviewedPercent": 17.8,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
           "review_coverage": 19,
-          "plugin_pass_rate": 70.1,
+          "plugin_pass_rate": 70.2,
           "plugin_health": 100,
           "citation_density": 93.7,
           "tool_freshness": 60,
@@ -120,7 +120,7 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1121,
+          "zh-TW": 1122,
           "en": 1101,
           "ja": 935,
           "ko": 1080,
@@ -684,7 +684,7 @@
             },
             "articles": {
               "count": 858,
-              "pct": 77
+              "pct": 76
             },
             "score": 89
           },

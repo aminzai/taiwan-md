@@ -1,5 +1,5 @@
 {
-  "totalArticles": 12491,
+  "totalArticles": 12492,
   "totalCategories": 27,
   "estimatedContributors": 75,
   "totalTags": 8527,
@@ -82,7 +82,7 @@
     },
     {
       "name": "Culture",
-      "count": 113
+      "count": 114
     },
     {
       "name": "Geography",
@@ -196,15 +196,15 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 12491,
+    "zh-TW": 12492,
     "en": 0
   },
-  "lastUpdated": "2026-09-18T12:42:32.421Z",
+  "lastUpdated": "2026-09-18T18:40:47.764Z",
   "stars": 1180,
   "forks": 185,
-  "zhPages": 1121,
+  "zhPages": 1122,
   "languagePages": {
-    "zh-TW": 1121,
+    "zh-TW": 1122,
     "en": 1103,
     "ja": 937,
     "ko": 1082,
@@ -219,5 +219,5 @@
     "de": 157
   },
   "enPages": 1103,
-  "totalPages": 1121
+  "totalPages": 1122
 }
