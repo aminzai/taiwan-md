@@ -2,9 +2,7 @@
 title: 'Hsinchu County: A 235-Year Yimin Faith and Taiwan’s Highest Per Capita Income Along the Same Touqian River'
 description: 'In the winter of 1788, Baozhong Pavilion was founded on a hillside in Xinpu to collectively bury more than 200 Hakka yimin who died in the Lin Shuangwen Rebellion. Two hundred thirty-five years later, the rotating ritual circuit of the Yimin Festival on the twentieth day of the seventh lunar month is still running among the Fifteen Lianzhuang. Five kilometers away, Zhubei City ranked first among Taiwan’s 368 townships, towns, cities, and districts in 2025 with per capita income of NT$1.442 million, magnetized by TSMC’s Baoshan Phase II 2-nanometer wafer fab. Hsinchu County is 67.8% Hakka, the highest share in Taiwan. But among the 220,000 people in the county seat of Zhubei, fewer young Hakka people can afford homes in their own hometown.'
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Hsinchu',
@@ -21,19 +19,23 @@ tags:
     'TSMC',
     '22 Counties and Cities Series',
   ]
-readingTime: 17
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 17
+researchReport: 'reports/research/2026-05/新竹縣.md'
+series: '22 縣市系列（batch 2）'
+image: '/article-images/geography/hsinchu-county-hero.webp'
+imageCredit: 'Outlookxp'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg'
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: 'fe48ea49'
-sourceContentHash: 'sha256:eefcd1a536e4ddf5'
-sourceBodyHash: 'sha256:a716f79b2442afc5'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/hsinchu-county-hero.webp
-imageCredit: Outlookxp
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:bf74cbc86604e18b'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
+translatedAt: '2026-09-18T07:51:58.709146+00:00'
 ---
 
 # Hsinchu County: A 235-Year Yimin Faith and Taiwan’s Highest Per Capita Income Along the Same Touqian River
@@ -88,20 +90,20 @@ Jiang A-Hsin Mansion is often mistaken for a Japanese colonial period building. 
 
 > **✦** “**As long as I am here for one more day, bayin will not cease.**” (VERSE magazine quoting Beipu local bayin tradition bearer Peng Junyang[^14])
 
-## When the Jiujian Wind Blows Down: Dried Persimmons, Rice Noodles, and Pengfeng Tea
+## The Autumn Wind: Persimmon Cakes, Rice Noodles, and Lei Cha Tea
 
-Hsinchu County’s climate is determined by its terrain.
+Hsinchu County's climate is shaped by its terrain.
 
-The southwestern side of the Xueshan Range, the Xiangshan Hills, and the Hukou Plateau form a trumpet-shaped alluvial plain. After the northeast monsoon enters, it is constrained and strengthened by the terrain. Every year in the latter part of the ninth lunar month, around mid-October on the solar calendar, a dry, cold strong wind called the “Jiujian wind” begins to blow, with wind speeds reaching 20 meters per second[^17]. The Jiujian wind blows three things into Hsinchu County specialties: Hsinchu rice noodles around Zhubei, where soaked rice noodles are hung on bamboo racks and the north wind dries them more evenly than the sun; Xinpu dried persimmons in Hankeng Village from September to December, with at least 170 years of history and a seven-to-nine-day process of removing stems, peeling, sunning, air-drying, and shaping; and Guanxi mesona, harvested after the north wind dries it and used to make grass jelly and hot grass jelly. Guanxi Township in Hsinchu County accounts for more than 60% of Taiwan’s mesona output[^18].
+The foothills of the Xueshan Range, the Xiushan Hills, and the Lakehood Tableland form a trumpet-shaped alluvial plain. When the northeast monsoon arrives, the terrain amplifies it, and from the latter half of the ninth lunar month (around mid-October) each year, a dry, cold, strong wind known as the "autumn wind" blows, with gusts reaching up to 20 meters per second[^17]. The autumn wind shapes three of Hsinchu County's specialties: Hsinchu rice noodles (in the Zhubei area, the noodles are soaked in water and hung on bamboo racks to dry, where the north wind dries them more evenly than sun exposure), Beipu persimmon cakes (sun-dried in the Hanke Village from September to December, with a history of at least 170 years, taking 7 to 9 days through steps of de-stemming, peeling, sun-drying, wind-drying, and shaping), and Xiancao in Guanxi (dried by the north wind before harvesting, used to make xiancao jelly and stinky tofu, with Guanxi Township accounting for over 60% of Taiwan's xiancao production)[^18].
 
-![Beipu lei cha, April 2023. Hakka lei cha is a traditional Hakka drink made by grinding tea leaves, sesame, peanuts, and more than ten other ingredients in a ceramic bowl; during Beipu’s postwar tourism development, it became Hsinchu County’s most recognizable Hakka food experience.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_Beipu lei cha. Photo: Office of the President. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+![Lei cha in Beipu, April 2023. Hakka lei cha is a traditional Hakka drink made by grinding tea leaves, sesame, peanuts, and over ten other ingredients in a ceramic mortar. It became one of Hsinchu County's most distinctive Hakka food experiences during the post-war tourism development of Beipu.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
+_Beiu persimmon cake. Photo: Office of the President. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei%20cha%20at%20Beipu%2C%20Taiwan%202023-04-09.jpg)._
 
-Xinpu also has another street: a bantiao street. More than 200 bantiao shops cluster around Zhongzheng Road, Heping Street, and Chenggong Street, giving rise to the saying “**Xinpu in the north, Meinong in the south**”[^19]. Hakka bantiao, flat rice noodles, is an identifying Hakka food. It is the same food as what Hoklo speakers call “guotiao,” written differently.
+Beipu also has another street known as the noodle street. Along Zhongzheng Road, Peace Street, and Chenggong Street, there are over 200 noodle shops, giving rise to the saying "**North Beipu is thick, South Beipu is rich**"[^19]. Hakka noodles are an iconic element of Hakka cuisine, and are the same thing as the "pan mee" spoken of by Hokkien people, just written differently.
 
-Tea is another economic line in Hsinchu County’s hills. Beipu Township calls it “pengfeng tea,” while Emei Township calls it “Oriental Beauty tea”; they are in fact different local names for the same kind of tea. The key to production is that the tea leaves must first be bitten by small green leafhoppers, forming zheyan tea shoots; only then do the leaves produce their distinctive honey and ripe fruit aromas. Because the process depends on waiting for leafhoppers, pesticides cannot be sprayed; if sprayed, the insects leave[^20]. The fermentation level is 60% by the standard of the Taiwan Tea Research and Extension Station, while actual versions made by farmers in Hsinchu and Miaoli can reach 75-85%. The origin of the tea name is said to come from farmers carrying it into town to sell, having it all bought by foreign trading houses, and then being seen by fellow villagers as “pengfeng,” Hakka for “bragging.” Later, the story that “British merchants presented pengfeng tea made by Beipu Ruichang Tea Factory to Queen Victoria” spread widely, but the primary documentary source for Queen Victoria tasting the tea is unclear[^21]. It can be mentioned as cultural narrative, but should not be written as historical fact.
+Tea cultivation is another economic line in Hsinchu County's hilly areas. Beipu Township calls it "Bongfeng tea" and Emei Township calls it "Oriental Beauty tea," but they are actually the same tea known by different names in different townships. The key to making the tea: the tea leaves are first fed upon by the small green leafhopper, creating "tea shoots with insect bites," and only then do the leaves develop their special honey-like and ripe fruit fragrance; because the small green leafhopper must be present, pesticides cannot be sprayed (if sprayed, the insects would flee)[^20]. A fermentation level of 60% is the standard set by the Taiwan Tea Research and Extension Station, while the actual version used by farmers in Hsinchu and Miaoli can reach 75-85%. The origin of the tea name is said to come from farmers carrying their tea into the city to sell, only to have all of it purchased by foreign traders, leading villagers to think the farmers were "boasting" (in Hakka dialect, "blowing wind"). Later, the story that "British merchants presented Bongfeng tea made by Beipu Ruichang Tea Factory to Queen Victoria" became widely circulated, but the original source of Queen Victoria tasting tea is unclear[^21]. As a cultural narrative, it can be mentioned, but it should not be written as historical fact.
 
-The correspondence between the Jiujian wind and Hakka villages falls into the rhythm of everyday life: after late September, persimmons are drying, mesona is being harvested, rice noodles are hanging, and tea leaves are being rolled. The whole autumn in Hakka villages is a food map dried by wind.
+The autumn wind and Hakka villages correspond in the rhythm of daily life: after late September, persimmon cakes are sun-drying, xiancao is being harvested, rice noodles are hanging, and tea leaves are being rolled. The entire autumn in the Hakka villages is a map of food being dried by the wind.
 
 ## Smangus, Where the Tribal Council Says Land Is Held in Common
 
