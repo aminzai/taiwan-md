@@ -2,9 +2,7 @@
 title: 'Le comté de Hsinchu : 235 ans de culte des Yimin et le revenu par habitant le plus élevé de Taïwan, le long de la même rivière Touqian'
 description: "En hiver 1788, sur une colline de Xinpu, on posa les fondations d'un pavillon Bao-Zhong pour y enterrer ensemble plus de deux cents Yimin hakka tombés lors de l'affaire Lin Shuangwen. 235 ans plus tard, le rituel de rotation des quinze ligues de villages, célébré le 20e jour du septième mois lunaire lors de la fête des Yimin, se poursuit toujours. À 5 km de là, dans le district de Zhubei, le revenu par habitant a atteint 1,442 million de dollars taïwanais en 2025, se classant premier parmi les 368 cantons et districts de Taïwan, attiré par l'usine de wafers de 2 nm de TSMC à Baoshan phase 2. Le comté de Hsinchu compte 67,8 % de population hakka, le taux le plus élevé de Taïwan. Mais parmi les 220 000 habitants de Zhubei, siège du comté, les jeunes hakka capables d'acheter un logement dans leur ville natale sont de moins en moins nombreux."
 date: 2026-05-18
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Hsinchu',
@@ -21,19 +19,23 @@ tags:
     'TSMC',
     'Série des 22 comtés et villes',
   ]
-readingTime: 17
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: false
+readingTime: 17
+researchReport: 'reports/research/2026-05/新竹縣.md'
+series: '22 縣市系列（batch 2）'
+image: '/article-images/geography/hsinchu-county-hero.webp'
+imageCredit: 'Outlookxp'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg'
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: 'fe48ea49'
-sourceContentHash: 'sha256:eefcd1a536e4ddf5'
-sourceBodyHash: 'sha256:a716f79b2442afc5'
-translatedAt: '2026-06-22T00:30:00+08:00'
-image: /article-images/geography/hsinchu-county-hero.webp
-imageCredit: Outlookxp
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:bf74cbc86604e18b'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
+translatedAt: '2026-09-18T07:34:17.705840+00:00'
 ---
 
 # Le comté de Hsinchu : 235 ans de culte des Yimin et le revenu par habitant le plus élevé de Taïwan, le long de la même rivière Touqian
@@ -88,20 +90,20 @@ La maison de style occidental de Jiang Axin est souvent prise à tort pour une c
 
 > **✦** « **Tant que je serai là, la musique des huit sons ne cessera jamais.** » (Citation de Peng Junyang, transmetteur de la musique des huit sons de Beipu, dans le magazine VERSE[^14])
 
-## Le vent de Jiufeng souffle : gâteaux de kakis, vermicelles de riz, thé Pengfeng
+## Le vent de Jiufeng : les gâteaux de kakis, la pâte de riz et le thé Pengfeng
 
-Le climat du comté de Hsinchu est déterminé par la topographie.
+Le climat du comté de Hsinchu est déterminé par son relief.
 
-Le versant sud-ouest de la chaîne de montagnes Xueshan, les collines de Xiangshan et le plateau de Hukou forment une plaine alluviale en forme de trompette. Le vent de mousson du nord-est, en pénétrant, est renforcé par la topographie, et chaque année, à partir de la fin du neuvième mois lunaire (vers la mi-octobre du calendaire grégorien), souffle un vent froid et sec appelé « vent de Jiufeng », dont la vitesse peut atteindre 20 mètres par seconde[^17]. Le vent de Jiufeng a transformé trois produits en spécialités du comté de Hsinchu : les vermicelles de riz de Hsinchu (dans la région de Zhubei, les vermicelles trempées sont suspendues sur des supports en bambou, le vent du nord les séchant plus uniformément que le soleil), les gâteaux de kakis de Xinpu (dans le ravin de Hankeng, séchage au soleil de septembre à décembre, histoire d'au moins 170 ans, processus de 7 à 9 jours : retrait du pédoncule, épluchage, séchage au soleil, séchage au vent, mise en forme), et l'herbe de Xian de Guanxi (récoltée après séchage au vent, utilisée pour les gelées et les boissons chaudes ; le canton de Guanxi dans le comté de Hsinchu représente plus de 60 % de la production taïwanaise d'herbe de Xian)[^18].
+Un bassin sédimentaire en forme d'entonnoir, formé par la chaîne de montagnes de Xue Shan au sud-ouest, les collines de Xiangshan et le plateau de Houkou, se trouve dans cette zone. Lorsque la mousson du nord-est arrive, elle est renforcée par les contraintes topographiques, provoquant un vent sec et froid appelé « Jiufeng » (ou _Jiu Jiang Feng_) à partir de fin septembre chaque année (vers mi-octobre au calendrier grégorien), avec des vitesses pouvant atteindre 20 mètres par seconde[^17]. Le vent de Jiufeng façonne trois spécialités du comté de Hsinchu : la pâte de riz de Hsinchu (dans la région de Zhubei, où la pâte est suspendue à des étagères après trempage pour sécher uniformément sous l'effet du vent nord), les gâteaux de kakis de Xinpu (séchés au soleil entre décembre et janvier dans Han-Kengli, avec une histoire d'au moins 170 ans, un processus de 7 à 9 jours impliquant le retrait des pédoncules, le pelage, le séchage au soleil, le séchage au vent et le façonnage), et l'aloès de Guansi (récolté après séchage par le nord, utilisé pour faire du gel d'aloès ou brûler l'aloès ; la ville de Guansi dans le comté de Hsinchu représente plus de 60 % de la production nationale d'aloès)[^18].
 
-![Thé pilé de Beipu, avril 2023. Le thé pilé hakka est une boisson traditionnelle hakka préparée en broyant du thé, du sésame, des cacahuètes et une dizaine d'autres ingrédients dans un mortier en céramique. Il est devenu l'expérience culinaire hakka la plus emblématique du comté de Hsinchu au cours de la touristification de Beipu après-guerre.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_Thé pilé de Beipu. Photo : Bureau de la Présidence. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+![Thé Lei cha de Beipu, avril 2023. Le thé Lei cha Hakka est une boisson traditionnelle hakka moulue avec des feuilles de thé, des graines de sésame, des arachides et plus d'une douzaine d'autres ingrédients, qui est devenue l'expérience gastronomique hakka la plus reconnaissable du comté de Hsinchu lors de sa mise en valeur touristique après-guerre.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
+_Thé Lei cha de Beipu. Photo : Maison présidentielle. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei%20cha%20at%20Beipu%2C%20Taiwan%202023-04-09.jpg)._
 
-Xinpu possède également une rue célèbre pour ses _ban tiao_ (nouilles de riz plates). Le long des rues Zhongzheng, Heping et Chenggong se concentrent plus de 200 restaurants de _ban tiao_, d'où l'expression « **au nord Xinpu, au sud Meinong** »[^19]. Les _ban tiao_ hakka sont un marqueur identitaire de la cuisine hakka ; ce sont les mêmes nouilles que les Hoklo appellent _ban tiao_ avec une graphie différente.
+Xinpu possède également une autre rue : la rue des _ban tiao_. La zone comprenant les rues Zhongzheng, Heping et Chenggong abrite plus de 200 boutiques de _ban tiao_, d'où l'expression « **Beixinpu au nord, Meinong au sud** »[^19]. Le _ban tiao_ hakka est un marqueur gastronomique du peuple hakka ; il est identique à ce que les gens de He Luo appellent _nian tiao_, mais avec une écriture différente.
 
-L'industrie du thé constitue une autre ligne économique des collines du comté de Hsinchu. Le canton de Beipu l'appelle « thé Pengfeng », le canton de Emei l'appelle « thé Beauté orientale » ; il s'agit en réalité du même thé sous deux appellations locales différentes. La clé de la fabrication : les feuilles doivent d'abord être piquées par la cicadelle verte (_Jacobiasca formosana_) pour former du « thé Zhuyao », ce qui permet aux feuilles de développer un arôme de miel et de fruits mûrs caractéristiques ; comme il faut attendre les cicadelles, on ne peut pas pulvériser de pesticides (sinon les insectes fuient)[^20]. Le degré de fermentation standard de l'Institut de recherche et d'amélioration du thé de Taïwan est de 60 % ; la version réelle des agriculteurs de Hsinchu et Miaoli peut atteindre 75 à 85 %. L'origine du nom du thé est attribuée à un paysan qui, en apportant sa récolte en ville, fut entièrement racheté par une maison de commerce étrangère ; les villageois pensèrent que le paysan « pengfeng » (« se vanter » en hakka). L'histoire selon laquelle « un marchand britannique offrit le thé Pengfeng fabriqué par l'usine de thé Ruichang de Beipu à la reine Victoria » est largement répandue, mais la source documentaire originale de la dégustation par la reine Victoria n'est pas identifiée[^21] ; elle peut être mentionnée comme récit culturel, mais non comme fait historique.
+L'industrie du thé constitue une autre ligne économique des collines de Hsinchu. La localité de Beipu est connue pour son « Thé Pengfeng », tandis que la localité d'Emei est connue pour son « Thé Dongfang Meiren » ; il s'agit en réalité du même type de thé, mais avec des noms différents dans les deux localités. Le secret de la fabrication du thé réside dans le fait que les feuilles sont d'abord traitées par le psyllidium (_xiaolüyechan_) pour former un thé vert « _zhe chan_ », ce qui permet aux feuilles de développer une odeur sucrée et fruitée particulière ; comme il faut attendre le psyllidium, aucun pesticide ne peut être utilisé (car s'il y en a, les insectes s'enfuient)[^20]. Le standard du centre d'amélioration des thés de Taïwan est un degré d'oxydation de 60 %, mais la version réelle utilisée par les agriculteurs de Hsinchu et Miaoli peut atteindre 75-85 %. L'origine du nom du thé, selon la légende, remonte au fait que les agriculteurs le transportaient en ville pour le vendre, et qu'il fut intégralement racheté par des maisons de commerce étrangères. Les habitants auraient alors considéré que les agriculteurs « _pengfeng_ » (ce qui signifie "se vanter" en hakka). Plus tard, l'histoire selon laquelle « la maison de thé Pengfeng de Ruichang à Beipu a offert le Thé Pengfeng à la reine Victoria » s'est largement répandue, mais l'origine des documents originaux concernant le goûté par la Reine Victoria est inconnue[^21]. Bien que cela puisse être utilisé comme récit culturel, il ne doit pas être présenté comme un fait historique.
 
-La correspondance entre le vent de Jiufeng et les villages hakka se manifeste dans le rythme de la vie : après la fin septembre, les gâteaux de kakis sèchent au soleil, l'herbe de Xian est récoltée, les vermicelles de riz sont suspendues, le thé est malaxé. Tout l'automne, les villages hakka sont une carte alimentaire séchée par le vent.
+Le vent de Jiufeng et les villages hakka correspondent à un rythme de vie : fin septembre, on sèche les gâteaux de kakis, on récolte l'aloès, on suspend la pâte de riz, et on roule le thé. Le village hakka de l'automne est une carte alimentaire séchée par le vent.
 
 ## Smangus, le conseil tribal dit que la terre est commune
 
