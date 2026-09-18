@@ -1,0 +1,227 @@
+REF_AREA,Reference area,Measure,TIME_PERIOD,OBS_VALUE
+ARG,Argentina,Low pay incidence,2019,24.501076008
+ARG,Argentina,Low pay incidence,2020,24.414084098
+ARG,Argentina,Low pay incidence,2021,20.76840492
+ARG,Argentina,Low pay incidence,2022,23.63533334
+ARG,Argentina,Low pay incidence,2023,29.734368515
+ARG,Argentina,Low pay incidence,2024,27.562723374
+AUS,Australia,Low pay incidence,2019,16.51638654
+AUS,Australia,Low pay incidence,2020,18.60420531
+AUS,Australia,Low pay incidence,2021,17.875709972
+AUS,Australia,Low pay incidence,2022,16.672408585
+AUS,Australia,Low pay incidence,2023,17.49097695
+AUS,Australia,Low pay incidence,2024,19.027106084
+AUS,Australia,Low pay incidence,2025,17.676831032
+AUT,Austria,Low pay incidence,2019,14.744641086
+AUT,Austria,Low pay incidence,2020,14.67434242
+AUT,Austria,Low pay incidence,2021,14.956957691
+AUT,Austria,Low pay incidence,2022,14.36
+AUT,Austria,Low pay incidence,2023,14.263734774
+AUT,Austria,Low pay incidence,2024,14.433740311
+BEL,Belgium,Low pay incidence,2019,11.5
+BEL,Belgium,Low pay incidence,2020,12
+BEL,Belgium,Low pay incidence,2021,11.1
+BEL,Belgium,Low pay incidence,2022,10.7
+BEL,Belgium,Low pay incidence,2023,11.443371754
+BEL,Belgium,Low pay incidence,2024,11.608721502
+BGR,Bulgaria,Low pay incidence,2022,26.921305436
+BGR,Bulgaria,Low pay incidence,2023,26.015135373
+BGR,Bulgaria,Low pay incidence,2024,26.313370293
+BRA,Brazil,Low pay incidence,2019,19.005138879
+BRA,Brazil,Low pay incidence,2020,6.2758506747
+BRA,Brazil,Low pay incidence,2021,8.1788840584
+BRA,Brazil,Low pay incidence,2022,7.264483017
+BRA,Brazil,Low pay incidence,2023,25.826426545
+BRA,Brazil,Low pay incidence,2024,7.0573126846
+CAN,Canada,Low pay incidence,2019,19.37747765
+CAN,Canada,Low pay incidence,2020,18.674312545
+CAN,Canada,Low pay incidence,2021,19.543631583
+CAN,Canada,Low pay incidence,2022,19.1198295
+CAN,Canada,Low pay incidence,2023,19.158724973
+CAN,Canada,Low pay incidence,2024,17.959118429
+CHE,Switzerland,Low pay incidence,2020,12
+CHE,Switzerland,Low pay incidence,2022,12.1
+CHE,Switzerland,Low pay incidence,2024,12.4
+CHL,Chile,Low pay incidence,2020,11.812793927
+CHL,Chile,Low pay incidence,2021,8.7269483681
+CHL,Chile,Low pay incidence,2022,8.1676270939
+CHL,Chile,Low pay incidence,2023,8.3892643879
+CHL,Chile,Low pay incidence,2024,12.336271554
+COL,Colombia,Low pay incidence,2019,11.677027549
+COL,Colombia,Low pay incidence,2020,12.79860094
+COL,Colombia,Low pay incidence,2021,11.42434912
+COL,Colombia,Low pay incidence,2022,12.17517419
+COL,Colombia,Low pay incidence,2023,12.64462098
+COL,Colombia,Low pay incidence,2024,12.169294617
+COL,Colombia,Low pay incidence,2025,12.872370469
+CRI,Costa Rica,Low pay incidence,2019,11.593536686
+CRI,Costa Rica,Low pay incidence,2020,14.389350405
+CRI,Costa Rica,Low pay incidence,2021,11.630331248
+CRI,Costa Rica,Low pay incidence,2022,10.122474566
+CRI,Costa Rica,Low pay incidence,2023,9.1731832963
+CRI,Costa Rica,Low pay incidence,2024,8.8975705558
+CRI,Costa Rica,Low pay incidence,2025,8.8446884404
+CYP,Cyprus,Low pay incidence,2022,17.625922016
+CYP,Cyprus,Low pay incidence,2023,17.888360274
+CYP,Cyprus,Low pay incidence,2024,17.043139583
+CZE,Czechia,Low pay incidence,2019,18.36
+CZE,Czechia,Low pay incidence,2020,17.77
+CZE,Czechia,Low pay incidence,2021,17.25
+CZE,Czechia,Low pay incidence,2022,17.34
+CZE,Czechia,Low pay incidence,2023,17.49
+CZE,Czechia,Low pay incidence,2024,17.340002774
+CZE,Czechia,Low pay incidence,2025,16.46
+DEU,Germany,Low pay incidence,2019,17.766070794
+DEU,Germany,Low pay incidence,2020,17.451741749
+DEU,Germany,Low pay incidence,2021,16.234537999
+DEU,Germany,Low pay incidence,2022,16.399492296
+DEU,Germany,Low pay incidence,2023,31.747353524
+DEU,Germany,Low pay incidence,2024,15.147936014
+DNK,Denmark,Low pay incidence,2021,9.54
+DNK,Denmark,Low pay incidence,2022,9.772328657
+DNK,Denmark,Low pay incidence,2023,9.8279970375
+DNK,Denmark,Low pay incidence,2024,9.7179988251
+ESP,Spain,Low pay incidence,2022,11.376008054
+ESP,Spain,Low pay incidence,2023,9.7568756199
+ESP,Spain,Low pay incidence,2024,9.5080470405
+EST,Estonia,Low pay incidence,2022,21.30669396
+EST,Estonia,Low pay incidence,2023,20.80136246
+EST,Estonia,Low pay incidence,2024,22.359450314
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2019,13.0894710645933
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2020,13.6577349724914
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2021,13.2621242401277
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2022,13.9295589375176
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2023,14.8056117783471
+EU19OECD,European Union (19 countries) in OECD,Low pay incidence,2024,13.9662315754625
+EU27,European Union (27 countries),Low pay incidence,2019,14.2265166222342
+EU27,European Union (27 countries),Low pay incidence,2020,14.6293627512743
+EU27,European Union (27 countries),Low pay incidence,2021,14.0108195876936
+EU27,European Union (27 countries),Low pay incidence,2022,15.4871287865333
+EU27,European Union (27 countries),Low pay incidence,2023,15.615655819887
+EU27,European Union (27 countries),Low pay incidence,2024,15.1458350723409
+FIN,Finland,Low pay incidence,2019,8.6271557167
+FIN,Finland,Low pay incidence,2021,8.3592936194
+FIN,Finland,Low pay incidence,2022,8.8708691219
+FIN,Finland,Low pay incidence,2023,9.8808198006
+FRA,France,Low pay incidence,2022,12.623988293
+FRA,France,Low pay incidence,2023,12.358188613
+FRA,France,Low pay incidence,2024,11.688005056
+GBR,United Kingdom,Low pay incidence,2019,26.5
+GBR,United Kingdom,Low pay incidence,2020,26.8
+GBR,United Kingdom,Low pay incidence,2021,25.4
+GBR,United Kingdom,Low pay incidence,2022,24.7
+GBR,United Kingdom,Low pay incidence,2023,23.5
+GRC,Greece,Low pay incidence,2022,13.001403252
+GRC,Greece,Low pay incidence,2023,11.466441568
+GRC,Greece,Low pay incidence,2024,9.7346256349
+HRV,Croatia,Low pay incidence,2022,18.743332611
+HRV,Croatia,Low pay incidence,2023,20.933449746
+HRV,Croatia,Low pay incidence,2024,21.690130869
+HUN,Hungary,Low pay incidence,2019,20.264064334
+HUN,Hungary,Low pay incidence,2020,19.849249378
+HUN,Hungary,Low pay incidence,2021,21.036082766
+HUN,Hungary,Low pay incidence,2022,19.300624806
+HUN,Hungary,Low pay incidence,2023,19.317114839
+HUN,Hungary,Low pay incidence,2024,22.062460524
+IND,India,Low pay incidence,2019,22.229297032
+IND,India,Low pay incidence,2020,27.126741148
+IND,India,Low pay incidence,2021,24.446262754
+IND,India,Low pay incidence,2022,26.890193422
+IND,India,Low pay incidence,2023,27.835653327
+IND,India,Low pay incidence,2024,23.700831836
+IND,India,Low pay incidence,2025,20.854136382
+IRL,Ireland,Low pay incidence,2022,13.607140706
+IRL,Ireland,Low pay incidence,2023,12.463999629
+IRL,Ireland,Low pay incidence,2024,13.098413138
+ISR,Israel,Low pay incidence,2019,21.258181938
+ISR,Israel,Low pay incidence,2020,25.138158885
+ISR,Israel,Low pay incidence,2021,23.388478697
+ISR,Israel,Low pay incidence,2022,23.384379707
+ISR,Israel,Low pay incidence,2023,25.380241465
+ITA,Italy,Low pay incidence,2022,6.2045897719
+ITA,Italy,Low pay incidence,2023,5.8680773577
+ITA,Italy,Low pay incidence,2024,5.6323865289
+JPN,Japan,Low pay incidence,2019,11.787127954
+JPN,Japan,Low pay incidence,2020,10.884466422
+JPN,Japan,Low pay incidence,2021,10.660996984
+JPN,Japan,Low pay incidence,2022,10.295333884
+JPN,Japan,Low pay incidence,2023,10.398263163
+JPN,Japan,Low pay incidence,2024,10.470008463
+JPN,Japan,Low pay incidence,2025,10.674032072
+KOR,Korea,Low pay incidence,2019,16.962043242
+KOR,Korea,Low pay incidence,2020,15.961469244
+KOR,Korea,Low pay incidence,2021,15.63202257
+KOR,Korea,Low pay incidence,2022,16.939482235
+KOR,Korea,Low pay incidence,2023,16.241939793
+KOR,Korea,Low pay incidence,2024,16.083958665
+KOR,Korea,Low pay incidence,2025,15.82771571
+LTU,Lithuania,Low pay incidence,2022,20.369679375
+LTU,Lithuania,Low pay incidence,2023,19.875945875
+LTU,Lithuania,Low pay incidence,2024,19.585331562
+LUX,Luxembourg,Low pay incidence,2022,11.650428225
+LUX,Luxembourg,Low pay incidence,2023,11.630826848
+LUX,Luxembourg,Low pay incidence,2024,11.42032019
+LVA,Latvia,Low pay incidence,2022,23.971167736
+LVA,Latvia,Low pay incidence,2023,22.699913834
+LVA,Latvia,Low pay incidence,2024,24.862251532
+MEX,Mexico,Low pay incidence,2019,17.077021221
+MEX,Mexico,Low pay incidence,2020,16.850007061
+MEX,Mexico,Low pay incidence,2021,13.16892299
+MEX,Mexico,Low pay incidence,2022,15.676450879
+MEX,Mexico,Low pay incidence,2023,17.489236641
+MEX,Mexico,Low pay incidence,2024,14.529019474
+MEX,Mexico,Low pay incidence,2025,16.550327402
+MLT,Malta,Low pay incidence,2022,16.689299961
+MLT,Malta,Low pay incidence,2023,20.111635741
+MLT,Malta,Low pay incidence,2024,19.913401869
+NLD,Netherlands,Low pay incidence,2022,14.45535414
+NLD,Netherlands,Low pay incidence,2023,13.610414537
+NLD,Netherlands,Low pay incidence,2024,12.96078663
+NOR,Norway,Low pay incidence,2019,7.52
+NOR,Norway,Low pay incidence,2020,7.4
+NOR,Norway,Low pay incidence,2021,7.43
+NOR,Norway,Low pay incidence,2022,7.09
+NOR,Norway,Low pay incidence,2023,6.82
+NOR,Norway,Low pay incidence,2024,6.73
+NOR,Norway,Low pay incidence,2025,6.73
+NZL,New Zealand,Low pay incidence,2019,7.01
+NZL,New Zealand,Low pay incidence,2020,8.26
+NZL,New Zealand,Low pay incidence,2021,1.6
+NZL,New Zealand,Low pay incidence,2022,2.7014247392
+NZL,New Zealand,Low pay incidence,2023,3.4200187723
+NZL,New Zealand,Low pay incidence,2024,3.3950049919
+NZL,New Zealand,Low pay incidence,2025,4.9851958693
+OECD,OECD,Low pay incidence,2019,14.2786235622016
+OECD,OECD,Low pay incidence,2020,14.7876584929254
+OECD,OECD,Low pay incidence,2021,13.7690995423333
+OECD,OECD,Low pay incidence,2022,14.2183278425121
+OECD,OECD,Low pay incidence,2023,14.5613065303789
+OECD,OECD,Low pay incidence,2024,13.9235182767067
+PER,Peru,Low pay incidence,2020,22.90338495
+PER,Peru,Low pay incidence,2021,20.128899064
+PER,Peru,Low pay incidence,2022,21.251445652
+POL,Poland,Low pay incidence,2020,18.9
+POL,Poland,Low pay incidence,2022,18.5
+POL,Poland,Low pay incidence,2023,19.33114323
+PRT,Portugal,Low pay incidence,2022,2.197605736
+PRT,Portugal,Low pay incidence,2023,2.2822769632
+PRT,Portugal,Low pay incidence,2024,1.4465074226
+ROU,Romania,Low pay incidence,2022,24.310997429
+ROU,Romania,Low pay incidence,2023,13.88098663
+ROU,Romania,Low pay incidence,2024,12.624703099
+SVK,Slovak Republic,Low pay incidence,2019,16
+SVK,Slovak Republic,Low pay incidence,2020,16
+SVK,Slovak Republic,Low pay incidence,2021,14
+SVK,Slovak Republic,Low pay incidence,2022,15
+SVK,Slovak Republic,Low pay incidence,2023,16
+SVK,Slovak Republic,Low pay incidence,2024,16
+SVN,Slovenia,Low pay incidence,2022,11.605376482
+SVN,Slovenia,Low pay incidence,2023,11.445267114
+SVN,Slovenia,Low pay incidence,2024,11.086650642
+USA,United States,Low pay incidence,2019,23.379881617
+USA,United States,Low pay incidence,2020,23.81
+USA,United States,Low pay incidence,2021,22.69
+USA,United States,Low pay incidence,2022,22.66
+USA,United States,Low pay incidence,2023,23.275740859
+USA,United States,Low pay incidence,2024,22.704328124
+USA,United States,Low pay incidence,2025,22.514386387
