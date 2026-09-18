@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T18:10:37+08:00",
-    "zhCommitHead": "831f5842d",
+    "lastUpdated": "2026-09-18T18:53:48+08:00",
+    "zhCommitHead": "8240188c4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1027,
-        "stale": 54,
+        "fresh": 1028,
+        "stale": 53,
         "metadata_stale": 10,
         "missing": 30,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 986,
+        "fresh": 985,
         "stale": 63,
         "metadata_stale": 14,
-        "missing": 58,
+        "missing": 59,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 767,
+        "fresh": 768,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 347,
+        "missing": 346,
         "orphan": 0
       }
     },
@@ -8507,18 +8507,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -83213,18 +83202,16 @@
         "en": {
           "path": "en/People/bernard-tseng.md",
           "translatedFrom": "People/曾博恩.md",
-          "sourceCommitSha": "86db85f3d",
-          "sourceContentHash": "sha256:47cec189b7c7bcfc",
-          "sourceBodyHash": "sha256:db17e32fed11eadc",
-          "translatedAt": "2026-05-16T05:07:54+08:00",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T10:12:15.475936+00:00",
           "translationLastCommit": "4f72f613",
           "translationLastModified": "2026-08-31T08:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/bernard-tseng.md",
@@ -96500,8 +96487,8 @@
           "sourceContentHash": "sha256:6c3058ba108a44f9",
           "sourceBodyHash": "sha256:1043d3e7799eba77",
           "translatedAt": "2026-09-18T00:53:08+08:00",
-          "translationLastCommit": "d562f5ae",
-          "translationLastModified": "2026-09-01T09:00:22+08:00",
+          "translationLastCommit": "8240188c",
+          "translationLastModified": "2026-09-18T18:10:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -148293,7 +148280,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/us-aid.md",
+          "translatedFrom": "History/美援.md",
+          "sourceCommitSha": "fd38b4f67",
+          "sourceContentHash": "sha256:b5ab59defaace1b5",
+          "sourceBodyHash": "sha256:c2985aa6d661a10a",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
