@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-09-18
-last_session: '2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -175,6 +175,21 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 張忠謀 EVOLVE — 巡邏查核 ❌ 10.4% 超門檻，早年生活整章是生成的因果故事，退回 REWRITE Stage 2 重寫
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/張忠謀.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.2 母體第二篇）
+- **Notes**:
+  - **查核已跑完**（audit 在 `reports/research/2026-09/張忠謀.md`，這篇 03-17 初稿的第一份 research 檔）：140 原子 ✅ 76／⚠️ 42／❌ 22（去重 13／125＝10.4%）／🔴 0；20 條腳註 18 條指向兩個維基頁，[^9][^12][^13][^17] 的描述數字本身不在來源頁。依 FACTCHECK Phase 4 硬門檻 >10% 應退回 Stage 2 重寫，不只修補
+  - **已止血七處**（`89b721a3df`，主 session 親核 zh wiki／今周刊後改）：母親「徐韻徵」→「徐君偉」（12 語譯本同步）、1945 年 14 歲遷港 → 1945 遷上海／1948 年 17 歲遷港、資本額「220 億」→ 總投資 1.45 億美元三方比例、「領導突破 7/5/3 奈米」→ 5nm／3nm 是退休後、「仍在學習文學哲學」→ 每月兩本英文書「都不是文學」、史丹佛／MIT 名譽博士 → 清大／交大／台大、「2024 年破十兆」→ 2020 年 7 月破十兆／2024 年 3 月破二十兆
+  - **重寫要處理的**：早年生活整章（哈佛文學夢、因缺乏熱情轉 MIT、韓戰外籍生進不了軍方——自傳原文是父親安排的哈佛緩衝期、兩次博士資格考落榜才進職場，福特比希凡尼亞少一美元月薪）；42 條 ⚠️（年齡虛實歲、1983 離開 TI／通用儀器一年的職涯缺口沒寫、稱謂混用、七句無源填充句）；腳註結構每個具體數字各掛一手源，維基只留生平總覽一條
+  - **真人 People 條目**：脊椎判斷（一個把「跨界選擇」當主題的 lifeTree 要不要留）帶哲宇 review；文章 featured: true 且 12 語在線，放大係數最高
+- **Reference**: [reports/research/2026-09/張忠謀.md](../../reports/research/2026-09/張忠謀.md) §Critical issues（13 條 ❌ 各附刪改建議與替換來源）
 
 ### 金鐘獎 NEW — 從 1965 年廣播獎到金鐘 61：《與惡 2》13 項入圍與台劇的第二個黃金期
 
