@@ -176,24 +176,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### 台灣油價機制與中油 NEW — 油價凍漲的帳單：浮動油價、平穩措施與 6,076 億追加預算
-
-- **Type**: `NEW`
-- **Category**: Economy
-- **Priority**: `P0`
-- **Status**: `in-progress`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
-- **Notes**:
-  - 9/3 政院拍板史上最高 6,076 億追加預算，三大項：中油增資約 2,338 億、因應中東局勢的民生穩定 1,874 億、國防 1,457 億；追加預算內補貼中油吸收油氣價差 1,014.31 億（總補貼價差 1,809.35 億）
-  - 中東局勢把 7D3B 週均價推到每桶 115.61 美元；中油 9/12 宣布 9/14 起汽柴油各漲 0.7 / 0.6 元；自 2/28 至 9/13 專案平穩措施汽柴油合計吸收約 198.5 億
-  - 切角：從加油站排隊的畫面開場，講浮動油價公式（7D3B、亞鄰最低價原則）、「平穩措施」誰決定、198.5 億怎麼算、追加預算怎麼補；`tw-*` 畫國際油價 vs 國內零售價剪刀差
-  - 必驗：198.5 億起訖日、1,014.31 億與 1,809.35 億各指什麼、增資 2,338 億與「補貼」的關係（增資 ≠ 補貼，報導常混）
-  - 敏感度：低（政策機制題）；站上檔名含中油／油價／石油 = 0；本檔〈中央政府總預算十年〉P1 是總覽視角，兩篇互為姊妹
-- **Reference**: [鉅亨](https://news.cnyes.com/news/id/6605162) / [聯合](https://udn.com/news/story/7238/9750953) / [風傳媒](https://www.storm.mg/article/11161558) / [遠見](https://www.gvm.com.tw/article/132833)
-- **Dev log**:
-  - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
-  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑；同日哲宇「全部重開，繼續跑」，原 agent 接續
-
 ### 金鐘獎 NEW — 從 1965 年廣播獎到金鐘 61：《與惡 2》13 項入圍與台劇的第二個黃金期
 
 - **Type**: `NEW`

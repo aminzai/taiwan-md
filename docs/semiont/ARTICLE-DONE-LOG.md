@@ -59,6 +59,20 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣油價機制與中油 — 2026-09-18 oil-price 完成（牌價漲七毛，中油先吸收兩百億）
+
+- **Article**: [knowledge/Economy/台灣油價機制與中油.md](../../knowledge/Economy/台灣油價機制與中油.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 — NEW 模式 ＋ 互動式 REWRITE 協定（`twmd.mjs rewrite`，run id `oil-price-20260918`，orient→investigate→compose→cold-read→verify→release 六站全 accept、`ready-for-publication`）。run_profile: standard-lite（派工單指示；第三型依路由應為 standard，差額以 Stage 3 兩位 verifier＋定向再驗＋互動協定五輪冷讀補強）
+- **spine**：第三型多觀點立場議題探討矛盾型（矛盾驅動＋手法 5 並陳、手法 4 開場收尾），M3 事件追蹤
+- **論點**：牌價只漲七毛，因為同一公升被三份帳分攤（財政部當週少收的稅、你付的牌價、中油先記在自己帳上的那一份）；這場爭論吵的是第三份帳該用哪個口徑算（中油週報 198.5 億、追加預算 1,014.31 億、在野口中的「哪一種重大事故」彼此對不上），而利息、將來要還的錢、誰用得最多三筆還沒人端上桌
+- **Hook**：2026-03-22 週日晚上八點半，雲林雅虎加油站每個入口至少十輛車，站員用三角錐隔出動線；婦女加二十公升「省了36元，省就是賺」，八十多歲阿嬤騎車來時油箱是滿的
+- **品質**：5,854 CJK／51 腳註／3 張 CC 圖（本地 WebP）／12 個 `tw-*` 模組各附來源行／article-health 全掃、rewrite-stage-3-5、rewrite-stage-4 hard=0 warn=0／image-health 3 圖／wikilink、link-target 0／research-report-health depth PASS／Stage 3.5 幻覺稽核與 3.6 story-atom 稽核 PASS／footnote-url 24 warn 為 .gov.tw 憑證鏈與 UA 403，curl 逐條 200
+- **Research**: [reports/research/2026-09/台灣油價機制與中油.md](../../reports/research/2026-09/台灣油價機制與中油.md)（單檔 SSOT，三 lane 合成，§10 Stage 3 audit＋§11 冷讀回修查證八條；sources/ 逐字文本 40 檔）
+- **投影／編輯室**：[reports/article-projection/台灣油價機制與中油.md](../../reports/article-projection/台灣油價機制與中油.md)；2.0-R 三席、2.5-R 兩席＋四探針、Step 3.8 定稿手，全部乾淨 context；互動協定各站評閱與冷讀交件在 `reports/staging/oil-price/run/`
+- **大事實修正**：lane A 一句不存在的中油 4/8 聲明（「並無媒體所稱超漲⋯抹煞員工努力」）被 verifier 抓下改真逐字；2006 公式非週均 7D3B；資本額 1,301 億三源皆無不寫；[^20] 自由時報連結是 2012 舊文；香港 1.8→18 億港元；TVBS「NT$90.6 billion」誤譯；冷讀抓到「應漲 11.2 元」寫錯量（是公式價對前一週牌價的累積差距）、「回收條款還沒啟動」查無、1,014.31 含不含天然氣經濟部「油氣」與次長「汽柴油」兩說；定稿主編抓到 4,217.69 含 70 億防汛（補貼加增資是 4,147.69）與 32.2 元隔天零時才生效
+- **Cross-link**：forward 4（發票、台塑集團、電網韌性、氣候危機與淨零）；reverse 4（台塑、電網韌性原無延伸閱讀區塊，補上）
+- **待觀察者驗證**：IMF Fiscal Monitor 2026-04 p.18 頁碼；立院排審進度；貨物稅 3.7 對 3.415 的三毛、累計吸收「預估」算法、6 月底是否已「少跌」回收、四年 3,500 億與 2,338.34 億的關係，官方文件未解釋，正文只陳述缺口
+- **值得記的一件事**：五輪冷讀（fresh→reread×4）從九條困惑收斂到零實質困惑，抓到的都是編輯室六席與兩位 verifier 沒抓到的「讀者用文章自己的數字就能算出來」的錯——同一份稿，看過藍圖的人會替作者補完，沒看過的人才會停下來算
 ### 誰算低薪 — 2026-09-18 low-wage write session 完成（主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄）
 
 - **Article**: [knowledge/Society/誰算低薪.md](../../knowledge/Society/誰算低薪.md)
