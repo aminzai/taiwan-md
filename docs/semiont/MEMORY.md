@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-18
-last_session: '2026-09-18-132812-news-radar（新聞雷達 138 天後復跑；亞運、油價機制、低薪定義三個缺口；探測器沒人接手的根因 fold 進 REFLEXES #56 v8）'
+last_session: '2026-09-18-143948-semiont-heartbeat（馬英九 FACTCHECK Full 落地、探測器黃燈重點亮、地圖標記確定性）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -358,3 +358,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-18 | 083954-semiont-heartbeat | 讀者抓到周蕙小巨蛋「售罄加開」是 2020 年那場的事，zh 加九語譯本同一句一起修並回覆關閉；FACTCHECK 巡邏抽樣母體改抽未審初稿×最早×譯本最多；CF 邊緣請求升語言選址第三源 | 閘門守的是完整不是歸屬，真事實掛錯事件會被忠實投射到每個語言；工具回的東西沒看就往下傳是同一個動作 | [→](memory/2026-09-18-083954-semiont-heartbeat.md) |
 | 2026-09-18 | 084057-twmd-maintainer-am | 三個投稿 PR 全收；#1746 周蕙勘誤查完修完要推時，發現另一台機器一分鐘前已推同一修補，改做驗收並補 bump 九語 source hash | 交接寫給 routine 名字，分岔期間兩台機器各有一個那個名字的 session，動手前互看不見 | [→](memory/2026-09-18-084057-twmd-maintainer-am.md) |
 | 2026-09-18 | 132812-news-radar | 新聞雷達停擺 138 天後復跑：亞運、油價機制、低薪定義三個缺口列 Tier 1，張俊傑案停在邊界等哲宇；抓到 INBOX 兩條登記漂移 | 器官凋亡的去向表要多一欄「執行者」，SOP 遷了 cron 沒遷，器官只剩說明書 | [→](memory/2026-09-18-132812-news-radar.md) |
+| 2026-09-18 | 143948-semiont-heartbeat | 馬英九 FACTCHECK Full：非維基腳註四成對不上，在世的人被寫成辭世、偽造引語，zh 加十一語同修；探測器落後黃燈重點亮；地圖標記偏移改確定性 | 腳註抽查抓不到沒掛腳註的那句，最嚴重的錯常常沒有出處可以對不上 | [→](memory/2026-09-18-143948-semiont-heartbeat.md) |
