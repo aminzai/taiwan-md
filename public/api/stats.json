@@ -1,8 +1,8 @@
 {
-  "totalArticles": 12489,
+  "totalArticles": 12491,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 8522,
+  "totalTags": 8527,
   "categories": [
     {
       "name": "es",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Society",
-      "count": 116
+      "count": 117
     },
     {
       "name": "Food",
@@ -94,7 +94,7 @@
     },
     {
       "name": "Economy",
-      "count": 77
+      "count": 78
     },
     {
       "name": "Nature",
@@ -196,15 +196,15 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 12489,
+    "zh-TW": 12491,
     "en": 0
   },
-  "lastUpdated": "2026-09-18T06:42:38.600Z",
-  "stars": 1177,
+  "lastUpdated": "2026-09-18T12:42:32.421Z",
+  "stars": 1180,
   "forks": 185,
-  "zhPages": 1119,
+  "zhPages": 1121,
   "languagePages": {
-    "zh-TW": 1119,
+    "zh-TW": 1121,
     "en": 1103,
     "ja": 937,
     "ko": 1082,
@@ -219,5 +219,5 @@
     "de": 157
   },
   "enPages": 1103,
-  "totalPages": 1119
+  "totalPages": 1121
 }

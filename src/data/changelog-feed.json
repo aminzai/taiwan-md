@@ -1,7 +1,1042 @@
 {
-  "generatedAt": "2026-09-18T06:42:38.401Z",
+  "generatedAt": "2026-09-18T12:42:32.766Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e2ce30be285d466811eafc72dae36b338e475a3e",
+      "date": "2026-09-18T20:04:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — rebase 後重生編輯台看板資料",
+      "articles": []
+    },
+    {
+      "hash": "4689931765f08bdb9b2948ff3c75eb3f7dd022ac",
+      "date": "2026-09-18T20:02:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 油價機制與中油 ready-for-publication——五輪冷讀抓到席位全漏的算式錯，LESSONS 兩條 pattern 各補第二次驗證",
+      "articles": []
+    },
+    {
+      "hash": "91760f9131206c42574a2cf5beadb3ea8be32efb",
+      "date": "2026-09-18T20:00:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — INBOX 條目歸檔到 ARTICLE-DONE-LOG",
+      "articles": []
+    },
+    {
+      "hash": "c3944dfc9c3aff8359d3ea6e4577aa3dd3e615ac",
+      "date": "2026-09-18T19:59:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — release v2 定稿主編裁決（accept，ready-for-publication）",
+      "articles": []
+    },
+    {
+      "hash": "f2ef33276bd104d621e3372ba7166d09d8588f76",
+      "date": "2026-09-18T19:58:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — release v2 交件",
+      "articles": []
+    },
+    {
+      "hash": "eed19f990d1ff8e222e8572f2384f50b625840bb",
+      "date": "2026-09-18T19:58:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify v2 評閱（accept）",
+      "articles": []
+    },
+    {
+      "hash": "47ae085ee4da525a08045e6f02395272c0ba0ffa",
+      "date": "2026-09-18T19:55:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify v2 交件",
+      "articles": []
+    },
+    {
+      "hash": "b0bdf23669a7f4b37a33bef9708934164cfcd1ad",
+      "date": "2026-09-18T19:55:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify 工件對最終稿重跑",
+      "articles": []
+    },
+    {
+      "hash": "70bda03be23455acc8805a96db283d95d092855b",
+      "date": "2026-09-18T19:55:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第五輪評閱 JSON",
+      "articles": []
+    },
+    {
+      "hash": "0deeb519ea1149fa507e1d4fe131c992e4b6877f",
+      "date": "2026-09-18T19:55:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第五輪評閱（accept）",
+      "articles": []
+    },
+    {
+      "hash": "bcd3c388343ec9973c445ce0fff533df3d88fa5b",
+      "date": "2026-09-18T19:55:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀者第五次複讀交件",
+      "articles": []
+    },
+    {
+      "hash": "5383c8d7859e3a9f391db26fd8c1c67b969d7ecf",
+      "date": "2026-09-18T19:54:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v9 評閱",
+      "articles": []
+    },
+    {
+      "hash": "3d0b078b523395fbcc60857aa15cefdb5b54eee7",
+      "date": "2026-09-18T19:53:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v9 交件",
+      "articles": []
+    },
+    {
+      "hash": "c1f1fa2acbd438128db7b4a1410ccf87e50419f1",
+      "date": "2026-09-18T19:53:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 定稿主編兩處更正：補貼加增資是 4,147.69 億不含 70 億防汛、32.2 元隔天零時才生效",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "34b1a7ed4a40234147c3ea1ec4a72f57a2438a79",
+      "date": "2026-09-18T19:53:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — release 站定稿主編裁決（revise 兩句：4,217.69 應為 4,147.69、32.2 元隔天零時才生效）",
+      "articles": []
+    },
+    {
+      "hash": "74ce0382dac345b52896b6efe473433c0e2d8f8f",
+      "date": "2026-09-18T19:45:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — release 交件（主編推薦＋六條 remainingLimits＋人類審閱狀態：無）",
+      "articles": []
+    },
+    {
+      "hash": "9e38d7c4637667d5d0aad5998c9e27d21ab5a5c1",
+      "date": "2026-09-18T19:44:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify 評閱（乾淨 context 親跑五項、親核六原子，accept）",
+      "articles": []
+    },
+    {
+      "hash": "42055efe39be282efc4445db6a434c4f869f6a55",
+      "date": "2026-09-18T19:37:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify 交件（來源核對六項＋機械檢查十一項含退出碼與工件）",
+      "articles": []
+    },
+    {
+      "hash": "029703a620f0b4f26b267ee56fd5cc520e624214",
+      "date": "2026-09-18T19:35:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — verify 站機械檢查輸出工件（health 三 profile／image／wikilink／link／prose-flow／ingest／research-health／footnote-url＋curl）",
+      "articles": []
+    },
+    {
+      "hash": "507e6d778b9fc8648857ff4e6fda0e4f0afc0f06",
+      "date": "2026-09-18T19:31:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第四輪評閱 JSON",
+      "articles": []
+    },
+    {
+      "hash": "567939cfe168dd99d61a14cfe2462bc4426ce25e",
+      "date": "2026-09-18T19:31:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第四輪評閱（確認，accept）",
+      "articles": []
+    },
+    {
+      "hash": "d1be5d553c1ecc58dc6eec8416038a9d23bcfed9",
+      "date": "2026-09-18T19:30:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀者第四次複讀交件（確認輪）",
+      "articles": []
+    },
+    {
+      "hash": "d341a6efcdb76b02b0ca91cb67c84e6aea6ec059",
+      "date": "2026-09-18T19:29:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v8 評閱",
+      "articles": []
+    },
+    {
+      "hash": "75ed4059fcb899e45453fcd080b6aa817599dc37",
+      "date": "2026-09-18T19:28:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v8 交件",
+      "articles": []
+    },
+    {
+      "hash": "3878149ea4cfa52d3e05638a5439c3e4de7fa310",
+      "date": "2026-09-18T19:28:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — H2-4 去掉「四次」計數，改「一改再改」",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "6890c498521bf2b68fecb5207d615b9458eb0568",
+      "date": "2026-09-18T19:28:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v7 評閱（revise：H2-4「四次」計數無共同尺）",
+      "articles": []
+    },
+    {
+      "hash": "b6494faf717bb51ac0fde73e6b03347d0f5062d2",
+      "date": "2026-09-18T19:27:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v7 交件",
+      "articles": []
+    },
+    {
+      "hash": "06cf9cc94773ac4689542d6d746c95e6676227eb",
+      "date": "2026-09-18T19:27:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第三輪小修：tw-note 去掉因果句、3,500 對 2,338 關係補回、25% 級距明寫沒拆、H2-4 改「被重劃了四次」",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "9a07b61dbab6e1c656756a0b8b13479e79e23e6e",
+      "date": "2026-09-18T19:26:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第三輪評閱 JSON",
+      "articles": []
+    },
+    {
+      "hash": "f68d40f5180a6ed80a2895fe55d2d2a89357c90f",
+      "date": "2026-09-18T19:26:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第三輪評閱（主編分桶）",
+      "articles": []
+    },
+    {
+      "hash": "0dd761ce4e1671bbea51cd7ba73290442c74efa7",
+      "date": "2026-09-18T19:26:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀者第三次複讀交件",
+      "articles": []
+    },
+    {
+      "hash": "e1d60cd8b13f73727c616846f3b6c890f50f0e64",
+      "date": "2026-09-18T19:22:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v6 評閱（accept）",
+      "articles": []
+    },
+    {
+      "hash": "e705aaef1c1f14b01d8e82a7fbe46adfb406ccfc",
+      "date": "2026-09-18T19:21:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v6 交件",
+      "articles": []
+    },
+    {
+      "hash": "760b8b9d46b1555b4c031125ccef1d807d9685f5",
+      "date": "2026-09-18T19:21:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 公式價算式更正：32.7＋10.5＝43.2，不是 32.7＋11.2；11.2 明寫是對前一週 32.0 元",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "a5566cad4f19a0f45868470b469e47a13565baf9",
+      "date": "2026-09-18T19:21:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v5 評閱（revise：32.7＋11.2 把 0.7 算兩次）",
+      "articles": []
+    },
+    {
+      "hash": "9ce549467be65a8fc53b5cf5ca9c049ec8a90679",
+      "date": "2026-09-18T19:18:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v5 交件",
+      "articles": []
+    },
+    {
+      "hash": "4a9ef233a66405ee38b1063b04d46e37086ba62b",
+      "date": "2026-09-18T19:17:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第二輪回修：分攤圖改「公式價高出牌價」、吸收零補 6/20 稿來源、H2-4／H2-8 與正文對齊、130.54 解釋前移、「來源沒寫」句型收到四處、支持方段落前移",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "22d8fdd5be9d5088a927db763731b999e23ecc6f",
+      "date": "2026-09-18T19:17:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第二輪評閱 JSON",
+      "articles": []
+    },
+    {
+      "hash": "f9e93424b261bcfcc5317fd73484412ec2509b21",
+      "date": "2026-09-18T19:17:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀第二輪評閱（主編分桶）",
+      "articles": []
+    },
+    {
+      "hash": "a4b851ee025873dda6a9bfb69f5ae5f299003ae0",
+      "date": "2026-09-18T19:17:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀者複讀交件（draft-only-reread）",
+      "articles": []
+    },
+    {
+      "hash": "c53818479d2cc9223196438b83977e0c3c47e018",
+      "date": "2026-09-18T19:10:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v4 評閱（複讀，accept）",
+      "articles": []
+    },
+    {
+      "hash": "9a6b14c85065b71b94e3d675c31270e40031f843",
+      "date": "2026-09-18T19:09:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v4 交件",
+      "articles": []
+    },
+    {
+      "hash": "30a642ef2d1f5b6b82497381784f76fde8e311cc",
+      "date": "2026-09-18T19:09:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v3 評閱兩處：description 不再斷言含天然氣、s7 三份／兩份對齊；「官方沒寫」句型收斂兩處",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "a14e18bb867ab3832c6c27a11686ec8fc3efd5bc",
+      "date": "2026-09-18T19:09:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v3 評閱（revise 兩處內部不一致）",
+      "articles": []
+    },
+    {
+      "hash": "2e660d3b5ed89192189d5fa353b7c34ff5d224a1",
+      "date": "2026-09-18T19:04:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v3 交件（冷讀回修後）",
+      "articles": []
+    },
+    {
+      "hash": "b36e17d7257c4ac8c3d5da3cfe802bba14b453e2",
+      "date": "2026-09-18T19:04:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v4 評閱（複讀，accept）",
+      "articles": []
+    },
+    {
+      "hash": "c5e14611339137726a22fe2c29cfc6f3485c1912",
+      "date": "2026-09-18T19:02:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v4 交件 revision 對齊",
+      "articles": []
+    },
+    {
+      "hash": "e4bbfd04ec9db4e99a942dc02205f1a08920fdf0",
+      "date": "2026-09-18T19:02:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v6 評閱（複讀，accept）",
+      "articles": []
+    },
+    {
+      "hash": "d8118d1a436305215bd2ced8576c861d4cc22c41",
+      "date": "2026-09-18T19:01:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v6 交件（內容同 v5）",
+      "articles": []
+    },
+    {
+      "hash": "d23a39310038c6c9b19c6a03d18cce3eebf5385e",
+      "date": "2026-09-18T19:01:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — §11 第 3 條更正（四週吸收 0、第五週 0.3／1.1）＋ investigate v4 交件",
+      "articles": []
+    },
+    {
+      "hash": "88c98cd46ea5056e1ac1d780b9c15d58bc98832c",
+      "date": "2026-09-18T19:00:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v3 評閱（revise：§11 第 3 條「五週吸收 0」第五週實為 0.3/1.1）",
+      "articles": []
+    },
+    {
+      "hash": "5b6b21e87f8b7a249e57864d5ba9fba65cd8d6dd",
+      "date": "2026-09-18T18:55:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v3 交件 revision 對齊",
+      "articles": []
+    },
+    {
+      "hash": "a44a8c09dd9245511f6079d482898fd4c062f2dc",
+      "date": "2026-09-18T18:55:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v5 評閱（accept）",
+      "articles": []
+    },
+    {
+      "hash": "0f378e14dc20459719b3f21c557981ae3806dc70",
+      "date": "2026-09-18T18:52:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v5 交件（內容同 v4）",
+      "articles": []
+    },
+    {
+      "hash": "d65912e305d8b0af3da3cf5d8676d314e67f9195",
+      "date": "2026-09-18T18:52:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v3 交件（§11 冷讀回修查證）",
+      "articles": []
+    },
+    {
+      "hash": "3613d83c761e8368d4ea9a35e8807f18ee847592",
+      "date": "2026-09-18T18:51:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 研究報告 §11 冷讀回修查證（八條回原文本核對）",
+      "articles": []
+    },
+    {
+      "hash": "74056b6807b3ad9b1e84e1a4c6a46f544bdd70ec",
+      "date": "2026-09-18T18:51:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀回修：11.2 元是公式價與牌價的累積差距不是週漲幅、3.415 對 3.7 的三毛明說沒解釋、吸收線回落只陳述週報事實、1,014 億含不含天然氣官方兩說不斷言、回收條款啟動查無改「週報看不出來」、五處強推結論與兩句過場句撤掉",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "b41f6b93315a105703b5fb598717c18186adad9a",
+      "date": "2026-09-18T18:50:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀評閱 JSON",
+      "articles": []
+    },
+    {
+      "hash": "65a7cb3965238b40c149bc56a5a16ad89b7f5e00",
+      "date": "2026-09-18T18:50:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀評閱（主編分桶，accept 冷讀有效）",
+      "articles": []
+    },
+    {
+      "hash": "ee289ae23aff709c8792c4965f5064fc9b0d1e24",
+      "date": "2026-09-18T18:50:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 冷讀者交件（fresh Opus，只讀成品）",
+      "articles": []
+    },
+    {
+      "hash": "6d5597d7af9f3a64b24958f268ead9dbe0b7de29",
+      "date": "2026-09-18T18:40:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v2 複審（同評閱員複讀，accept）",
+      "articles": []
+    },
+    {
+      "hash": "f3fc6de3bc5ce7ab0a489935cfbff7057da54b6e",
+      "date": "2026-09-18T18:38:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose v2 交件",
+      "articles": []
+    },
+    {
+      "hash": "5f140c2bcef69217d27b01c57d8d42717d810dd8",
+      "date": "2026-09-18T18:37:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose 評閱五點修正：130.54 是 9/15 非同一天、雲林現場三處補寫的細節撤掉、監察院「二十年來一次」不寫、方振仁接任時點不寫、description 收到 160",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "b3fe2dddbb4d1b86744e007eb31d6876dda7a817",
+      "date": "2026-09-18T18:36:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose 評閱（乾淨 context Opus，revise 五點）",
+      "articles": []
+    },
+    {
+      "hash": "84d790322ff41a66a4be6f8520c5841d6933dcb1",
+      "date": "2026-09-18T18:26:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — compose 交件",
+      "articles": []
+    },
+    {
+      "hash": "f9b95b51d169ddc8f080f0ac892c467a593c2aad",
+      "date": "2026-09-18T18:26:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v2 評閱（乾淨 context 四條抽核，accept）",
+      "articles": []
+    },
+    {
+      "hash": "ec7a706a64ba0127e0585239fe17d17a162c5b66",
+      "date": "2026-09-18T18:20:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — investigate v2 交件（回填 Stage 3 更正）",
+      "articles": []
+    },
+    {
+      "hash": "8273f7ec8b47dd894bc68047f98dbee3f1d019ea",
+      "date": "2026-09-18T18:19:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v4 評閱（乾淨 context，accept）",
+      "articles": []
+    },
+    {
+      "hash": "11741af6a2e76bcf6e19d19580170380b63fa842",
+      "date": "2026-09-18T18:17:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — orient v4 交件（stale 退回後重交，內容同 v3）",
+      "articles": []
+    },
+    {
+      "hash": "119f1a8328ccf4089858d0d31ec8f208e6bcae2b",
+      "date": "2026-09-18T18:16:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — Stage 4/5 過閘，四篇 sibling 補反向延伸閱讀",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：台塑集團",
+          "name": "台灣企業：台塑集團"
+        },
+        {
+          "url": "/economy/發票",
+          "name": "發票"
+        },
+        {
+          "url": "/nature/台灣氣候危機與淨零轉型",
+          "name": "台灣氣候危機與淨零轉型"
+        },
+        {
+          "url": "/society/電網韌性",
+          "name": "電網韌性"
+        }
+      ]
+    },
+    {
+      "hash": "457d5c386c15808e90a60cf79b8c59dc9aa85d7f",
+      "date": "2026-09-18T18:10:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Step 3.8 定稿站——fresh Opus 定稿手全文重順，fact-atom-diff 九類原子守恆 PASS",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "bccd8243171ef5d0a216184a5ec3e0f1e40b6cb4",
+      "date": "2026-09-18T18:05:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 3 收驗——定向複驗 44 原子 42 綠、兩處小修，stage35／stage36 audit 落檔 PASS",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "d1db0f9e9da43ce22fd029a888e8fe8f50a2350f",
+      "date": "2026-09-18T17:50:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 大驗證輪批修——兩位查核員抓到十二處事實漂移，一次修完並回填研究報告",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "fc8a16777ed59c2fac1a2d7aed275ae184bf833c",
+      "date": "2026-09-18T16:50:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 2 初稿——fresh Opus 寫手交稿 5,505 字、48 條腳註、11 個資料模組",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        }
+      ]
+    },
+    {
+      "hash": "8a5a624399fd8d8fd9765c10beef692b1b18f243",
+      "date": "2026-09-18T16:28:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Step 2.0-R 投影編輯室——三席裁決 revise，藍圖依七條必改回修",
+      "articles": []
+    },
+    {
+      "hash": "9082b9fae3ac8b7b83b892c61cd61b77d3d59950",
+      "date": "2026-09-18T16:15:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Step 2.0 投影藍圖——八步帳的追索、六個 viz、十七條減法",
+      "articles": []
+    },
+    {
+      "hash": "e4c86c976461d9f0e70e309cd15a19a8b967a4bc",
+      "date": "2026-09-18T16:03:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 1B——十路讀者缺口稽核、三張 CC 中油站照入庫、媒體授權三表",
+      "articles": []
+    },
+    {
+      "hash": "05ec9ca70bbd0ec3ea480ca07f86f0665954a57c",
+      "date": "2026-09-18T15:54:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 1A 研究報告合成單檔——三 lane raw 併入 §8、fact-pack 35 條、depth gate 全綠",
+      "articles": []
+    },
+    {
+      "hash": "96d6d171648d4a068e50a575d7ee2f6ff85a1c5d",
+      "date": "2026-09-18T15:47:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 1A 三條研究 lane 收件——逐週油價表、二十年沿革與監察院糾正、亞鄰與人聲，三份都過收件閘",
+      "articles": []
+    },
+    {
+      "hash": "5dcfb3dd5180ee7921aa5c21058990645df6c5a1",
+      "date": "2026-09-18T14:53:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 orient 站過關——兩位乾淨 context 讀者 accept，核心矛盾降為待證偽假設",
+      "articles": []
+    },
+    {
+      "hash": "46e4c8251f907b39f568b57435e1b366ed9e5170",
+      "date": "2026-09-18T14:02:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 — 暫停存檔點（stage orient，attempt 2：外部評閱 revise 已記入 run）",
+      "articles": []
+    },
+    {
+      "hash": "4771603b96e851f0ee38ae8e58f47380840d2ed0",
+      "date": "2026-09-18T13:59:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣油價機制與中油 Stage 0 觀點成型——第三型多觀點議題、21 條探索搜尋、行政院與中油一手稿逐字落檔",
+      "articles": []
+    },
+    {
+      "hash": "93e638d45d5c348d3eda07940c6255ca621330e9",
+      "date": "2026-09-18T19:55:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 誰算低薪走完互動式 REWRITE 六站，十二位冷讀者三輪具名編輯，同一句收束被讀出三種立場",
+      "articles": []
+    },
+    {
+      "hash": "b27c1f73d44e92a65eff9018b81dded6cd833314",
+      "date": "2026-09-18T19:53:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——release 站具名編輯第三輪 ready-for-publication；INBOX 條目歸檔到 DONE-LOG",
+      "articles": []
+    },
+    {
+      "hash": "01e36d0bfded7488133f2f4aab00e208c15a1dbc",
+      "date": "2026-09-18T19:48:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——verify 第三輪與 release 第三次提交落檔",
+      "articles": []
+    },
+    {
+      "hash": "01c023955352df986ed5a8fcb3cf3ab0ae129536",
+      "date": "2026-09-18T19:41:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——release 第二輪退回：門外三百多萬人裡誰跟著 9/24 走、誰真的在最低工資法外，倒數第二段分清楚；第三節收尾只留一次兩欄之間",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "8f97f5c1d7fd0c9c4177696f01d782fe2c1e72ba",
+      "date": "2026-09-18T19:36:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——verify 第二輪與 release 第二次提交落檔",
+      "articles": []
+    },
+    {
+      "hash": "3e936f0f903f948d20e289f73fc4d2f79554d363",
+      "date": "2026-09-18T19:30:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——「批的正是這個順序」改「講法」，貼合在野黨原話",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "cca446b33c29c7c4720a09823f705189401471fb",
+      "date": "2026-09-18T19:28:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第十位冷讀者判 ship，「選擇」改回「說明順序」，同一句不再被兩邊讀成站邊",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "b9331cda3ef2f3141bcb70f40d008c996c14e663",
+      "date": "2026-09-18T19:25:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第九位冷讀者判 ship，兩句斬釘截鐵的收語降回證據撐得住的高度",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "3c1da36c82637e3bf1c1ec40505f1dcb34bf3323",
+      "date": "2026-09-18T19:20:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——release 站具名編輯退回三處：門外三百多萬改寫成「不在分母裡」、「差別全在年終」降回「主要」並補投保天數權數、description 壓到 160 字、結尾只留一次兩欄之間",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "2abb08721922f136b8b659dbdfea9e6b5bb57cf0",
+      "date": "2026-09-18T19:14:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——verify 站提交與評閱落檔（19 條機械檢查、13 條來源查核）",
+      "articles": []
+    },
+    {
+      "hash": "da02ac2f62dbc5e06c92f1f293343049354d79ae",
+      "date": "2026-09-18T19:05:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第七位冷讀者：「這一步是算術」收掉政治爭議的那半句拿掉，零人只寫成月薪那一欄依法量出的結果",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "27b8b846faad24a50fc21f6a04f0cef7d941a243",
+      "date": "2026-09-18T19:02:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——腳註 6 去掉「本文引用的」後台語，verify 站 prose-health 回到只剩引語內三個分號",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "5f603edea3a7fc524d484c57a00933ce1045d5f0",
+      "date": "2026-09-18T18:57:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——腳註 6 拿掉站不住的「僅一句」，照報導實況寫",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "61f1d40d634b6219c6dda8745cb7b5610f187ef2",
+      "date": "2026-09-18T18:53:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第四、五位冷讀者同指一處：許宇甄的指控照她的話放回去，不再轉譯成「只是先講哪一個」；先講哪一欄是主計總處的選擇這句寫明",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "5dfcb0a651adc007efae03bcaaeb10ec8e872119",
+      "date": "2026-09-18T18:49:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——verify 站：分行業獎金比重標明全體口徑、腳註 4 補 2024 年 70.93% 高點、移工與人力資源兩份一手來源落 raw",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "122886cb98ca9045db3df1d272d1aab60f815801",
+      "date": "2026-09-18T18:30:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第三位冷讀者：兩個 43.6 萬標明巧合、拿掉替主計總處背書的語氣、十分位改白話",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "8d5bf07ccf2da7302f94ce165cbbf4fb57b1dadf",
+      "date": "2026-09-18T18:24:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——第二位冷讀者兩處困惑補清：對照表分母標同一群人兩個年份、比率段補一句橋",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "ebb252669243bf3dd66ddc4263ea43ebef1e9699",
+      "date": "2026-09-18T18:17:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——定稿手全文順一遍、原子守恆閘過，三篇姊妹文補反向延伸閱讀",
+      "articles": [
+        {
+          "url": "/society/冷氣與能源貧窮議題",
+          "name": "冷氣與能源貧窮議題"
+        },
+        {
+          "url": "/society/台灣斜槓世代",
+          "name": "台灣斜槓世代"
+        },
+        {
+          "url": "/society/學習貧窮",
+          "name": "學習貧窮"
+        },
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "f1c6de327089b85951f3d942911db55fd8a865af",
+      "date": "2026-09-18T18:09:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——大驗證輪九席收件、二十四條修復單一次施工、定向複驗補三處",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "d246f308d9a09a23deb3bf9c9dbe13c4dcd5cffe",
+      "date": "2026-09-18T17:15:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——compose 與 cold-read 兩站評閱落檔，正文結構室兩席 pass、冷讀者列九條修復線索",
+      "articles": []
+    },
+    {
+      "hash": "feb5e9e7981e4a185b37d0406223ccdb52c44c5a",
+      "date": "2026-09-18T17:07:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——subcategory 改成分類表裡有的「人權與平等」",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "1c6f1a4d6fb9292ff3497853983d89f498c36743",
+      "date": "2026-09-18T17:07:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——正文初稿落地，6,500 字、37 條腳註、11 個資料模組",
+      "articles": [
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "2338d6b50c5f2053d92005d836eabbd6e51ec3cb",
+      "date": "2026-09-18T16:44:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——投影編輯室三輪收斂：H2 攻擊語入引號、資方聲音補進第七節、國家數字退進圖表",
+      "articles": []
+    },
+    {
+      "hash": "18682f6b070b0c990c9611ebc374d18f3f43404d",
+      "date": "2026-09-18T16:17:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——投影藍圖：八步論證，論點落在「哪一欄的錢算薪水、誰站在分母裡」",
+      "articles": []
+    },
+    {
+      "hash": "1a8a0ea366f686c973f946dbb194c630325ff90f",
+      "date": "2026-09-18T16:14:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——investigate 站評閱通過，八條反證改寫三個角度",
+      "articles": []
+    },
+    {
+      "hash": "57144286ab06bcda1e970014680253af270bbdc5",
+      "date": "2026-09-18T16:08:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——Stage 1B 十路讀者缺口稽核與媒體三表，補上尺外面的人",
+      "articles": []
+    },
+    {
+      "hash": "fb59c822ba1c3ed83b9d613ccebfe9b08fefe9dd",
+      "date": "2026-09-18T15:56:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——Stage 1A 研究報告合成單檔，三條 lane 全部 verbatim 併進 §8",
+      "articles": []
+    },
+    {
+      "hash": "a9773549cd2e655ffb4550400ea5b726741cea99",
+      "date": "2026-09-18T15:17:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——orient submission 改 prettier 格式重送，第八位評閱員 accept",
+      "articles": []
+    },
+    {
+      "hash": "98a41bc09245805df5811d4688f1b749a8be96d5",
+      "date": "2026-09-18T15:14:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——orient 站七輪外部評閱通過，觀點凍結快照落檔",
+      "articles": []
+    },
+    {
+      "hash": "95e430b170be69b7a65388e770168d7b378274d6",
+      "date": "2026-09-18T14:01:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪 — 暫停存檔點（stage orient）",
+      "articles": []
+    },
+    {
+      "hash": "bf692c51188e1fc80e1745b135bbe883a304dadf",
+      "date": "2026-09-18T14:00:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 誰算低薪——Stage 0 觀點成型，四個頭條數字追回主計總處與 OECD 一手",
+      "articles": []
+    },
+    {
+      "hash": "b83772670f235e8ec2472bb86b085ed3d7500f61",
+      "date": "2026-09-18T15:19:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-18 14:38 — 馬英九查核落地、探測器黃燈重點亮、地圖標記不再亂撒",
+      "articles": []
+    },
+    {
+      "hash": "421930e55cd4fb848e6c0a666d4928efa2163227",
+      "date": "2026-09-18T15:16:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 未審初稿被巴別塔放大那條教訓第二次命中，馬英九這篇補進去",
+      "articles": []
+    },
+    {
+      "hash": "2c64eb9e3a65069079044c41f50370fe3980cf55",
+      "date": "2026-09-18T15:14:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 馬英九 INBOX 條目記下查核已完成、剩兩節要重寫",
+      "articles": []
+    },
+    {
+      "hash": "8cc6a667e14024304b497a17edfbbac036ea22ee",
+      "date": "2026-09-18T15:14:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 馬英九——在世的人被寫成辭世、偽造的太陽花引語、十七處查無來源的細節，逐條查證後改回或撤掉（issue #1729）",
+      "articles": [
+        {
+          "url": "/people/馬英九",
+          "name": "馬英九"
+        }
+      ]
+    },
+    {
+      "hash": "ccc623f5dafcb05de43233f2320bb1836400c8fb",
+      "date": "2026-09-18T14:50:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 補上下午刷新漏 stage 的三個 src/data 統計檔",
+      "articles": []
+    },
+    {
+      "hash": "6ddaed2707981254762d8032bda6d03bb649a043",
+      "date": "2026-09-18T14:50:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 地圖標記的偏移改成確定性——同一篇文章每次 build 落在同一個點",
+      "articles": []
+    },
+    {
+      "hash": "e012bfff6d9291508ccd4df29643edcf1c4f5340",
+      "date": "2026-09-18T14:49:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 探測器落後的黃燈重新點亮——SENSES 凋亡時跟著消失的那盞燈搬進 dashboard-alerts",
+      "articles": []
+    },
+    {
+      "hash": "39f3e6e6475be0cc82aaa556212df0db643c9a52",
+      "date": "2026-09-18T14:47:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 三篇寫手重開，從各自 orient 存檔點接續",
+      "articles": []
+    },
+    {
+      "hash": "6814d7eb4778bb323029cd2e6bbd4e7bf90d0bb1",
+      "date": "2026-09-18T14:43:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 下午心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "3ca4acd3b6cfa66c3aa4b574b3114f92797ccec3",
+      "date": "2026-09-18T14:44:45+08:00",
+      "author": "Brian Huang",
+      "message": "fix: sync header scroll state across languages (#1747)",
+      "articles": []
+    },
     {
       "hash": "30e7e2af6724508dd0471ed3c4f5055b437550fd",
       "date": "2026-09-18T14:02:57+08:00",
@@ -82053,1124 +83088,6 @@
       "author": "Brian Hu",
       "message": "translate(ja): rewrite タピオカミルクティー (bubble-tea) for natural Japanese (#260)",
       "articles": []
-    },
-    {
-      "hash": "ebb34af0e5dc11acaef6604d0a09847b9b728ab7",
-      "date": "2026-03-28T13:48:16+08:00",
-      "author": "iigmir",
-      "message": "feat: 添加周子瑜的傳記 (#262)",
-      "articles": [
-        {
-          "url": "/people/周子瑜",
-          "name": "周子瑜"
-        }
-      ]
-    },
-    {
-      "hash": "57ebd7fb7d7b7633208a08ff6e9803fce581e2bb",
-      "date": "2026-03-28T13:46:16+08:00",
-      "author": "idlccp02",
-      "message": "Create 林宥嘉.md (#256)",
-      "articles": [
-        {
-          "url": "/people/林宥嘉",
-          "name": "林宥嘉"
-        }
-      ]
-    },
-    {
-      "hash": "ad327c218be62f22e51767c0a812e95927f08d21",
-      "date": "2026-03-28T13:45:32+08:00",
-      "author": "idlccp02",
-      "message": "Create 江蕙.md (#259)",
-      "articles": [
-        {
-          "url": "/people/江蕙",
-          "name": "江蕙"
-        }
-      ]
-    },
-    {
-      "hash": "aa005e6c85c89670b73823567dd6a3282b4db983",
-      "date": "2026-03-28T13:43:59+08:00",
-      "author": "Terry",
-      "message": "fix: replace inline copy handlers (#264)",
-      "articles": []
-    },
-    {
-      "hash": "897d485e0928b39b1d0ea7fed1bf8215f7468340",
-      "date": "2026-03-28T13:42:58+08:00",
-      "author": "idlccp02",
-      "message": "Update 黃震南.md (#258)",
-      "articles": [
-        {
-          "url": "/people/黃震南",
-          "name": "黃震南"
-        }
-      ]
-    },
-    {
-      "hash": "b1297b1e4236ffa911a33783cf079993a1a5d22d",
-      "date": "2026-03-28T01:24:01+08:00",
-      "author": "Che-Yu Wu",
-      "message": "rewrite: 台灣小吃 — S 級旗艦文章 + 整合 5 篇重複主題",
-      "articles": [
-        {
-          "url": "/culture/台灣夜市文化與小吃風情",
-          "name": "台灣夜市文化與小吃風情"
-        },
-        {
-          "url": "/food/_Food Hub",
-          "name": "_Food Hub"
-        },
-        {
-          "url": "/food/台灣地方小吃地圖",
-          "name": "台灣地方小吃地圖"
-        },
-        {
-          "url": "/food/台灣夜市小吃圖鑑",
-          "name": "台灣夜市小吃圖鑑"
-        }
-      ]
-    },
-    {
-      "hash": "98716b772cb9a45776e67e683bbad17fb61dc491",
-      "date": "2026-03-28T01:16:25+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #254 from idlccp02/patch-17",
-      "articles": []
-    },
-    {
-      "hash": "ed89eebc31183361a89fb495b8a33bf24ff9a1a9",
-      "date": "2026-03-28T01:04:27+08:00",
-      "author": "Che-Yu Wu",
-      "message": "rewrite: 流行音樂與金曲獎 — EDITORIAL v4 + Pipeline v2 (zh SSOT)",
-      "articles": [
-        {
-          "url": "/music/流行音樂與金曲獎",
-          "name": "流行音樂與金曲獎"
-        }
-      ]
-    },
-    {
-      "hash": "9dd24b8e41f35d0d3d285064288feb7ab3082e02",
-      "date": "2026-03-28T01:01:22+08:00",
-      "author": "idlccp02",
-      "message": "Update 巧固球.md",
-      "articles": [
-        {
-          "url": "/culture/巧固球",
-          "name": "巧固球"
-        }
-      ]
-    },
-    {
-      "hash": "6cd73aa3dd89dc48319d79da4f128bf12c264d36",
-      "date": "2026-03-28T00:45:55+08:00",
-      "author": "Che-Yu Wu",
-      "message": "fix(dashboard): expand to 8 organs, sticky header, UX polish",
-      "articles": []
-    },
-    {
-      "hash": "8d6c15b360b449553fb00da6f38c62445331336a",
-      "date": "2026-03-28T00:35:13+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat: add /dashboard — digital organism real-time monitor",
-      "articles": []
-    },
-    {
-      "hash": "3c64c560c599ab03eebdfc8c2b1c121a36a18a61",
-      "date": "2026-03-28T00:13:54+08:00",
-      "author": "Che-Yu Wu",
-      "message": "update: 小綠人 — 補充 2026 年移除跑步動畫新聞",
-      "articles": [
-        {
-          "url": "/lifestyle/小綠人",
-          "name": "小綠人"
-        }
-      ]
-    },
-    {
-      "hash": "402896db294db5d3c5e329aa67d3178b2da459c2",
-      "date": "2026-03-28T00:12:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "chore: repo cleanup — remove stale files, fix broken wikilinks",
-      "articles": [
-        {
-          "url": "/economy/新創生態系",
-          "name": "新創生態系"
-        }
-      ]
-    },
-    {
-      "hash": "c2d2d551687a15929b3fd737adaa0bd257babc2f",
-      "date": "2026-03-28T00:09:27+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat(about): 里程碑臺史博及數位資源加上超連結",
-      "articles": []
-    },
-    {
-      "hash": "987f80d214478652589f94da2df9cc1d8a221abe",
-      "date": "2026-03-28T00:07:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat(about): 新增臺史博為專業資料策展夥伴",
-      "articles": []
-    },
-    {
-      "hash": "3719a6cdfade26cab6b2c997fcef6b1da6bffa8d",
-      "date": "2026-03-27T23:50:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "chore: 更新專案數據與貢獻者名單",
-      "articles": []
-    },
-    {
-      "hash": "6c7539138bf464ce7be29de1bc36c991a6779635",
-      "date": "2026-03-27T23:48:09+08:00",
-      "author": "Che-Yu Wu",
-      "message": "rewrite: 九天玄女信仰 — EDITORIAL v4 + Pipeline v2 (zh + en)",
-      "articles": [
-        {
-          "url": "/culture/九天玄女信仰",
-          "name": "九天玄女信仰"
-        }
-      ]
-    },
-    {
-      "hash": "90bb6d1b90b2b5740cf86e5cb223e3b0d711a3c9",
-      "date": "2026-03-27T23:43:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat(about): 新增臺史博交流里程碑至 About 頁面時間軸",
-      "articles": []
-    },
-    {
-      "hash": "643de9700879028169ce2fa21b6c26f23c8e8357",
-      "date": "2026-03-27T23:28:00+08:00",
-      "author": "Che-Yu Wu",
-      "message": "rewrite: 民主化 — EDITORIAL v4 + Pipeline v2 (zh + en)",
-      "articles": [
-        {
-          "url": "/history/民主化",
-          "name": "民主化"
-        }
-      ]
-    },
-    {
-      "hash": "f31a435dbd1da122a9a2fe4595dc6db7ded046a7",
-      "date": "2026-03-27T23:14:59+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #243: translate(ja): 半導體產業 + 台積電企業",
-      "articles": []
-    },
-    {
-      "hash": "27f64657fe6cb2046ec1e70ba886718b3054839a",
-      "date": "2026-03-27T23:13:21+08:00",
-      "author": "Che-Yu Wu",
-      "message": "fix: 修正台灣森林開發史錯字與 markdown 粗體語法",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "bc41f48bbe65cd543b84f27b79983c5564e6ca7c",
-      "date": "2026-03-27T23:12:45+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #234: 增加參考資料和改善兩篇文章的關鍵引用數據",
-      "articles": []
-    },
-    {
-      "hash": "adfec18e047ba14530ecd439e8de1f3895380310",
-      "date": "2026-03-27T23:09:24+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #249: Add 巧固球.md - 新增台灣巧固球運動專題",
-      "articles": []
-    },
-    {
-      "hash": "282da86425d86958367de7bb33f00543ba9e813f",
-      "date": "2026-03-27T23:08:57+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #251: Create 擲筊.md - 新增台灣擲筊民俗文化專題",
-      "articles": []
-    },
-    {
-      "hash": "e0a07d2de68f50293be6ac3461df092e1cfbb9f5",
-      "date": "2026-03-27T23:07:52+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #252: Revise 林良.md - 改善敘事與修復frontmatter",
-      "articles": []
-    },
-    {
-      "hash": "9c40f38d00d91a700da3147fdecfea2c9f878942",
-      "date": "2026-03-27T23:07:23+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge PR #250: Update 台灣VTuber.md - 補充動物型VTuber段落",
-      "articles": []
-    },
-    {
-      "hash": "2bd5ba84e1045906b9ac41fc8b0f26c1ea1127b2",
-      "date": "2026-03-27T22:43:33+08:00",
-      "author": "idlccp02",
-      "message": "Revise description of Lin Liang's literary legacy",
-      "articles": [
-        {
-          "url": "/people/林良",
-          "name": "林良"
-        }
-      ]
-    },
-    {
-      "hash": "9cb8b90dea44b39fc56dc66ef500229ed1a8ead9",
-      "date": "2026-03-27T21:51:09+08:00",
-      "author": "idlccp02",
-      "message": "Create 擲筊.md",
-      "articles": [
-        {
-          "url": "/culture/擲筊",
-          "name": "擲筊"
-        }
-      ]
-    },
-    {
-      "hash": "f91cb3916e9ef334cc7461aa9cdd1f0d833a394a",
-      "date": "2026-03-27T21:38:47+08:00",
-      "author": "idlccp02",
-      "message": "Update 台灣VTuber.md",
-      "articles": [
-        {
-          "url": "/culture/台灣VTuber",
-          "name": "台灣VTuber"
-        }
-      ]
-    },
-    {
-      "hash": "13e5815ac2cc48c5b5303dc44e75b7b94d19a786",
-      "date": "2026-03-27T21:34:24+08:00",
-      "author": "idlccp02",
-      "message": "Add article on Tchoukball's history in Taiwan",
-      "articles": [
-        {
-          "url": "/culture/巧固球",
-          "name": "巧固球"
-        }
-      ]
-    },
-    {
-      "hash": "feb792799397a4ed92c2f92cb168d8109501db2e",
-      "date": "2026-03-27T20:23:28+08:00",
-      "author": "frank890417",
-      "message": "Fix YAML quotes in Guan Sheng Di Jun EN frontmatter",
-      "articles": []
-    },
-    {
-      "hash": "b743897b46bdf63ff93e57654c6376023a2b9ed4",
-      "date": "2026-03-27T20:04:14+08:00",
-      "author": "Dar",
-      "message": "translate(en,ja): 關聖帝君信仰 → guan-sheng-di-jun-belief (#241)",
-      "articles": []
-    },
-    {
-      "hash": "ed6633865bbdd5982be710697e965cd5f298a900",
-      "date": "2026-03-27T04:56:01-07:00",
-      "author": "Chao-Chun (Joe) Hsu",
-      "message": "fix: restore markdown typography and line breaks in article/hub pages (#240)",
-      "articles": []
-    },
-    {
-      "hash": "6b7b5e33a2697e5b27ceec50cffa52cc62045863",
-      "date": "2026-03-27T19:51:43+08:00",
-      "author": "idlccp02",
-      "message": "Create 洪醒夫.md (#246)",
-      "articles": [
-        {
-          "url": "/people/洪醒夫",
-          "name": "洪醒夫"
-        }
-      ]
-    },
-    {
-      "hash": "a23928e51b50109134f2d6e7bb98440630888c62",
-      "date": "2026-03-27T19:48:51+08:00",
-      "author": "iigmir",
-      "message": "feat: Add new resources (#238)",
-      "articles": []
-    },
-    {
-      "hash": "d6f4acde190f4d68338a05c8a02004493a268ecc",
-      "date": "2026-03-27T19:46:35+08:00",
-      "author": "idlccp02",
-      "message": "Create 林良 (#245)",
-      "articles": [
-        {
-          "url": "/people/林良",
-          "name": "林良"
-        }
-      ]
-    },
-    {
-      "hash": "03c308f086dd9ac4aa822bbf6f653dcba9ee75fc",
-      "date": "2026-03-27T19:20:26+08:00",
-      "author": "Fred Chu",
-      "message": "fix: move RandomDiscovery before FeatureCards on en homepage (#239)",
-      "articles": []
-    },
-    {
-      "hash": "6346fe1f385bd953e37894f60fc75776982abada",
-      "date": "2026-03-27T19:15:26+08:00",
-      "author": "YenTing Wu",
-      "message": "feat: implement AssetsTemplate (#236)",
-      "articles": []
-    },
-    {
-      "hash": "268c95147e8cfb239d208e6c6e759839162011ef",
-      "date": "2026-03-27T19:13:08+08:00",
-      "author": "Brian Huang",
-      "message": "style: 主頁十二主題改為瀑布流（masonry）排版 (#232)",
-      "articles": []
-    },
-    {
-      "hash": "6a8cee582c09f7f4965e23b9d98291a33849ede4",
-      "date": "2026-03-27T16:26:43+08:00",
-      "author": "frank890417",
-      "message": "Add island historiography articles to knowledge collections",
-      "articles": [
-        {
-          "url": "/history/台灣島史觀",
-          "name": "台灣島史觀"
-        }
-      ]
-    },
-    {
-      "hash": "656ecb88c07e83b753acbd18d3d4d0fdbd2f3f23",
-      "date": "2026-03-27T16:14:01+08:00",
-      "author": "frank890417",
-      "message": "Add English version of Taiwan island historiography article",
-      "articles": []
-    },
-    {
-      "hash": "12aee6def8613dec229303277d3a1f05d825768a",
-      "date": "2026-03-27T16:07:21+08:00",
-      "author": "frank890417",
-      "message": "Remove uncited pull quotes in Taiwan island historiography article",
-      "articles": []
-    },
-    {
-      "hash": "77aacd466eaf752c93f493c4cd1082e6d8b6323d",
-      "date": "2026-03-27T16:03:38+08:00",
-      "author": "frank890417",
-      "message": "Expand Taiwan island historiography article to S-level with additional sources and quotes",
-      "articles": []
-    },
-    {
-      "hash": "ac49ae870322b0cc8cc67eba50c51142e844fd07",
-      "date": "2026-03-27T15:47:59+08:00",
-      "author": "frank890417",
-      "message": "Add Taiwan island historiography article",
-      "articles": []
-    },
-    {
-      "hash": "5c3350d4cae1b62281b68247b507cae8a4223c58",
-      "date": "2026-03-27T11:43:48+08:00",
-      "author": "frank890417",
-      "message": "enhance: 鄭成功補充臺史博交叉驗證 — 東寧版圖、牛津永曆大統曆、英國東印度公司貿易",
-      "articles": [
-        {
-          "url": "/people/鄭成功",
-          "name": "鄭成功"
-        }
-      ]
-    },
-    {
-      "hash": "669838e6a0c48d29e2b968601da1120b5d3fd90f",
-      "date": "2026-03-27T11:26:00+08:00",
-      "author": "frank890417",
-      "message": "fix: 鄭成功 title 改為名字（People 慣例）",
-      "articles": [
-        {
-          "url": "/people/鄭成功",
-          "name": "鄭成功"
-        }
-      ]
-    },
-    {
-      "hash": "e107bca402328dc1ff79cb77683f80e392df5ed5",
-      "date": "2026-03-27T11:24:10+08:00",
-      "author": "frank890417",
-      "message": "fix: 鄭成功文章標題加上名字",
-      "articles": [
-        {
-          "url": "/people/鄭成功",
-          "name": "鄭成功"
-        }
-      ]
-    },
-    {
-      "hash": "46aea479129f5f9abe0cae830efc1887d3d4c8c1",
-      "date": "2026-03-27T11:21:11+08:00",
-      "author": "frank890417",
-      "message": "feat: 新增鄭成功深度文章 — A級141行，四政權四種詮釋，原住民視角編織",
-      "articles": [
-        {
-          "url": "/people/鄭成功",
-          "name": "鄭成功"
-        }
-      ]
-    },
-    {
-      "hash": "b4476e7ce7357752e7395049e111846a1e5fd4d3",
-      "date": "2026-03-27T10:52:40+08:00",
-      "author": "Dar",
-      "message": "translate(ja): 半導體產業 + 台積電企業 → semiconductor-industry, tsmc-taiwan-semiconductor",
-      "articles": []
-    },
-    {
-      "hash": "686e0d3dd01cad9209ad78ce88a571299cf585bf",
-      "date": "2026-03-26T21:41:39+08:00",
-      "author": "YiChengLu",
-      "message": "Merge branch 'frank890417:main' into main",
-      "articles": []
-    },
-    {
-      "hash": "2984497c5d6803be943fa1ebd087b932911c0f6d",
-      "date": "2026-03-26T17:24:21+08:00",
-      "author": "YiChengLu",
-      "message": "Refactor content in 台灣森林開發史.md",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "fe15dcbd2e2096227325056e40bfcd81fd6b5a5b",
-      "date": "2026-03-26T14:37:36+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #230 from fredchu/fix/deploy-fetch-depth",
-      "articles": []
-    },
-    {
-      "hash": "01d690667f7699c95c3d041a7c1481ed237e6f29",
-      "date": "2026-03-26T14:21:03+08:00",
-      "author": "Fred Chu",
-      "message": "fix: fetch full git history for accurate revision counts",
-      "articles": []
-    },
-    {
-      "hash": "048fc1c312dfb6a45bbdb97a65eea7bbc59e38e7",
-      "date": "2026-03-26T12:28:48+08:00",
-      "author": "Che-Yu Wu",
-      "message": "feat: add Git commit hash and revision count to article metadata and update site statistics data structure.",
-      "articles": []
-    },
-    {
-      "hash": "8ccbbadc3f7546126028643a9aa40e0d26664aaa",
-      "date": "2026-03-26T11:44:47+08:00",
-      "author": "Che-Yu Wu",
-      "message": "rewrite: 何飛鵬 — EDITORIAL v4 + Pipeline v2 (zh)",
-      "articles": [
-        {
-          "url": "/people/何飛鵬",
-          "name": "何飛鵬"
-        }
-      ]
-    },
-    {
-      "hash": "23fa33801e36e932451908fb44a311cde9a18482",
-      "date": "2026-03-26T11:38:03+08:00",
-      "author": "Che-Yu Wu",
-      "message": "docs: clear up. Delete `Chi-Po-lin-EN.md`, `hn-post.md`, and `threads-day3-update.txt` files in wrong place.",
-      "articles": []
-    },
-    {
-      "hash": "913d44c949d5002cdbb9fbd43d1c9f1cab9b1726",
-      "date": "2026-03-26T10:56:13+08:00",
-      "author": "frank890417",
-      "message": "fix: remove extra padding-top on article pages",
-      "articles": []
-    },
-    {
-      "hash": "ffd9440b369b1ef621aa6973b5bd4ce27bd9945b",
-      "date": "2026-03-26T10:49:23+08:00",
-      "author": "frank890417",
-      "message": "feat: add Content Curation Partner tier + replace medal emojis with category emojis",
-      "articles": []
-    },
-    {
-      "hash": "50eb863cc9446fa265ab9dcd706c83cf051161c9",
-      "date": "2026-03-26T10:33:19+08:00",
-      "author": "frank890417",
-      "message": "fix: update-stats.sh no longer touches about.template.astro",
-      "articles": []
-    },
-    {
-      "hash": "dd5b631cd2a2689396f526f0a6e64f32190530a4",
-      "date": "2026-03-26T10:31:30+08:00",
-      "author": "frank890417",
-      "message": "rename: GuanShengDiJun.md → 關聖帝君信仰.md（統一中文檔名）",
-      "articles": [
-        {
-          "url": "/culture/關聖帝君信仰",
-          "name": "關聖帝君信仰"
-        }
-      ]
-    },
-    {
-      "hash": "cd9f20f7d7c7a2092b2a62ee298929852d92d5ed",
-      "date": "2026-03-26T10:31:11+08:00",
-      "author": "frank890417",
-      "message": "fix: restore missing Sponsors + Contact sections on About page (again)",
-      "articles": []
-    },
-    {
-      "hash": "d1868d046fc36245660d328535c053277836bb87",
-      "date": "2026-03-26T10:29:49+08:00",
-      "author": "Wu Che Yu",
-      "message": "feat: 關聖帝君文章 (#224)",
-      "articles": []
-    },
-    {
-      "hash": "306b8f3adeb4e53dca8fcf0c0311d49efcae4642",
-      "date": "2026-03-26T10:29:47+08:00",
-      "author": "Wu Che Yu",
-      "message": "fix: population pyramid labels overflow (#225)",
-      "articles": []
-    },
-    {
-      "hash": "dcf35cb8576132625874de79594a566839178d1f",
-      "date": "2026-03-26T10:09:35+08:00",
-      "author": "YiChengLu",
-      "message": "Revise article and add clear citations",
-      "articles": [
-        {
-          "url": "/history/源興牛與牛肉湯的歷史",
-          "name": "源興牛與牛肉湯的歷史"
-        }
-      ]
-    },
-    {
-      "hash": "2cf74e2abea87bf7261ce0a3879ff232efef1350",
-      "date": "2026-03-26T09:42:53+08:00",
-      "author": "Link1515",
-      "message": "fix: prevent population pyramid labels from overflowing",
-      "articles": []
-    },
-    {
-      "hash": "00d60ddca9ba4090b8ca11bd205b52cfcf8989da",
-      "date": "2026-03-26T08:10:16+08:00",
-      "author": "Dar",
-      "message": "Add article: 關聖帝君 — 一個敗軍之將如何成為台灣的萬能之神",
-      "articles": [
-        {
-          "url": "/culture/GuanShengDiJun",
-          "name": "GuanShengDiJun"
-        }
-      ]
-    },
-    {
-      "hash": "fa158d92ff340c3cce81d9ae467e689e0a57c95f",
-      "date": "2026-03-26T00:13:08+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #223 from YenTingWu/fix/weird-floating-header",
-      "articles": []
-    },
-    {
-      "hash": "25cbed88637bfdb1b7a59dcc746cea9e68d7fc1c",
-      "date": "2026-03-26T00:12:29+08:00",
-      "author": "ytw",
-      "message": "fix: add missing code",
-      "articles": []
-    },
-    {
-      "hash": "9168fadf38adacce27e02362e6e8a7c996813f19",
-      "date": "2026-03-26T00:04:53+08:00",
-      "author": "ytw",
-      "message": "fix: fix the issue that if the switch language banner show and user scroll down the page, the banner will be scrolled up but header just hung there",
-      "articles": []
-    },
-    {
-      "hash": "50bdc2f43294e220084cb1e6e89dd798c688055d",
-      "date": "2026-03-26T00:01:06+08:00",
-      "author": "frank890417",
-      "message": "chore: daily stats update",
-      "articles": []
-    },
-    {
-      "hash": "ec597fbb7325f3e92af44c68c7db3691da4a39b1",
-      "date": "2026-03-25T23:59:04+08:00",
-      "author": "Wu Che Yu",
-      "message": "feat: 台灣森林開發史 + 源興牛牛肉湯 + 島嶼博物學 (#216)",
-      "articles": []
-    },
-    {
-      "hash": "1814d1c5192ab8d9787a1e67076e928dbee0abd5",
-      "date": "2026-03-25T23:46:04+08:00",
-      "author": "frank890417",
-      "message": "content: 新增莫那·魯道、小虎隊（社群投稿 #220 #218）",
-      "articles": [
-        {
-          "url": "/people/小虎隊",
-          "name": "小虎隊"
-        },
-        {
-          "url": "/people/莫那·魯道",
-          "name": "莫那·魯道"
-        }
-      ]
-    },
-    {
-      "hash": "df2f1b531a2d1e8ffcf2619213a1bf70e216c9ef",
-      "date": "2026-03-25T23:45:33+08:00",
-      "author": "YiChengLu",
-      "message": "Change featured status to false in 台灣島嶼博物學.md",
-      "articles": [
-        {
-          "url": "/nature/台灣島嶼博物學",
-          "name": "台灣島嶼博物學"
-        }
-      ]
-    },
-    {
-      "hash": "6265b6e4e0a2f5928aefcadc214ff1647754c769",
-      "date": "2026-03-25T23:43:43+08:00",
-      "author": "Wu Che Yu",
-      "message": "fix: unified fixed header across all pages (#222)",
-      "articles": []
-    },
-    {
-      "hash": "717892797f161cab1ff4d1faf82fdd7b0b5bc6fa",
-      "date": "2026-03-25T23:39:52+08:00",
-      "author": "YiChengLu",
-      "message": "Fix formatting issues in 台灣森林開發史.md",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "c674e9c815a96357d86a7a31175104f8e80b747d",
-      "date": "2026-03-25T23:39:47+08:00",
-      "author": "Wu Che Yu",
-      "message": "feat(search): prefix match for single-char search (#221)",
-      "articles": []
-    },
-    {
-      "hash": "7393966eb8932a95fac4173b061bac8828967b1b",
-      "date": "2026-03-25T23:38:35+08:00",
-      "author": "YiChengLu",
-      "message": "Fix featured flag typo and update headings",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "b1aa8eb2f60c15cf58163e1a995040a1579c3f71",
-      "date": "2026-03-25T23:02:22+08:00",
-      "author": "JacobMei",
-      "message": "fix(search): remove min-length guard blocking single-char queries",
-      "articles": []
-    },
-    {
-      "hash": "197df7b53d3dd1093cf3973e5a29b94d5eff03de",
-      "date": "2026-03-25T22:43:07+08:00",
-      "author": "YiChengLu",
-      "message": "Add history of Taiwan Wagyu and Tainan beef soup",
-      "articles": [
-        {
-          "url": "/history/源興牛與牛肉湯的歷史",
-          "name": "源興牛與牛肉湯的歷史"
-        }
-      ]
-    },
-    {
-      "hash": "097037a013f912644b9b15315288f333237a5dde",
-      "date": "2026-03-25T22:14:41+08:00",
-      "author": "YiChengLu",
-      "message": "Update Taiwan's forest development history content",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "c3193ad493bee41c8bb08b092672000ea3e11444",
-      "date": "2026-03-25T21:43:22+08:00",
-      "author": "Link1515",
-      "message": "fix: keep header fixed across pages",
-      "articles": []
-    },
-    {
-      "hash": "b752d12baab5d54f5d36378433b3181ad0df0539",
-      "date": "2026-03-25T21:09:24+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台海危機與兩岸關係發展 — EDITORIAL v4 深度重寫（場景進入+16引語+金門菜刀結尾）",
-      "articles": [
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        }
-      ]
-    },
-    {
-      "hash": "6c8b1c201b3ebae9424a3485c30951133c010747",
-      "date": "2026-03-25T20:58:13+08:00",
-      "author": "frank890417",
-      "message": "fix: export getMapRoutes (build failure from #217)",
-      "articles": []
-    },
-    {
-      "hash": "250169f5ba90ccbb271365e00feb7970337366ac",
-      "date": "2026-03-25T20:55:12+08:00",
-      "author": "Wu Che Yu",
-      "message": "Refactor: map template + i18n",
-      "articles": []
-    },
-    {
-      "hash": "c2e3a2e819c6c4b4a496731fd4fdc2ac194097d7",
-      "date": "2026-03-25T20:55:09+08:00",
-      "author": "Wu Che Yu",
-      "message": "Refactor: translation utils cleanup",
-      "articles": []
-    },
-    {
-      "hash": "9fbd4597d69f32073c90f0e5e327a5e6c5716911",
-      "date": "2026-03-25T18:28:17+08:00",
-      "author": "frank890417",
-      "message": "feat: PR content review — 四層免疫系統自動審核 (#review-pr)",
-      "articles": []
-    },
-    {
-      "hash": "381d47d104081ee63ae39a52487ce40f00da6d5b",
-      "date": "2026-03-25T17:43:35+08:00",
-      "author": "JacobMei",
-      "message": "feat(search): 支援單字搜尋（prefix match）",
-      "articles": []
-    },
-    {
-      "hash": "2add5a5a06abbb462e6594d0e5075573b1359b2e",
-      "date": "2026-03-25T17:17:34+08:00",
-      "author": "ytw",
-      "message": "fix: remove unused code",
-      "articles": []
-    },
-    {
-      "hash": "81430339706c3b8587f17d78f9afc2b12188959d",
-      "date": "2026-03-25T17:17:18+08:00",
-      "author": "ytw",
-      "message": "refactor: use original architecture",
-      "articles": []
-    },
-    {
-      "hash": "db755eb900fa6ff8e28e8ac05051e1d28ed03996",
-      "date": "2026-03-25T17:00:04+08:00",
-      "author": "ytw",
-      "message": "fix: remove unused data",
-      "articles": []
-    },
-    {
-      "hash": "3d271354ffeaa8f16300366b2cd237bd4413ecec",
-      "date": "2026-03-25T16:29:10+08:00",
-      "author": "ytw",
-      "message": "refactor: naming",
-      "articles": []
-    },
-    {
-      "hash": "d889d2fbc939bcbcc9b7e8cf5deaa9688ec1190f",
-      "date": "2026-03-23T23:11:51+08:00",
-      "author": "ytw",
-      "message": "feat: replace map-makers data with getMapMarkers function to fulfill i18n function",
-      "articles": []
-    },
-    {
-      "hash": "40c3a05565c6c0f61494180682445a1520634fe9",
-      "date": "2026-03-23T19:10:25+08:00",
-      "author": "ytw",
-      "message": "feat: replace map-routes data with getMapRoutes function to fulfill i18n function",
-      "articles": []
-    },
-    {
-      "hash": "52db59cb91e358cd377003876007a3658aeb7b13",
-      "date": "2026-03-23T19:08:37+08:00",
-      "author": "ytw",
-      "message": "feat: implement getMapRoutes",
-      "articles": []
-    },
-    {
-      "hash": "0490d5f38d1b6d04742663e498be1ebf1ed42b3f",
-      "date": "2026-03-23T18:11:31+08:00",
-      "author": "ytw",
-      "message": "feat: implement MapTemplate",
-      "articles": []
-    },
-    {
-      "hash": "69243f2f29af77b7dd7a1789b6bbd04cfa9e74cf",
-      "date": "2026-03-25T16:04:33+08:00",
-      "author": "YiChengLu",
-      "message": "Add historical overview of Taiwan's forest development",
-      "articles": [
-        {
-          "url": "/history/台灣森林開發史",
-          "name": "台灣森林開發史"
-        }
-      ]
-    },
-    {
-      "hash": "2d4dd354a6a06f743a8fc24523983182805467bb",
-      "date": "2026-03-25T16:01:47+08:00",
-      "author": "YiChengLu",
-      "message": "Merge branch 'frank890417:main' into main",
-      "articles": []
-    },
-    {
-      "hash": "387977cbfd6c0b96ab5562ca3705493570fcc458",
-      "date": "2026-03-25T14:46:52+08:00",
-      "author": "frank890417",
-      "message": "refine: 郁永河補充蔣勳重走+亦人也+康熙台北湖細節",
-      "articles": [
-        {
-          "url": "/people/郁永河",
-          "name": "郁永河"
-        }
-      ]
-    },
-    {
-      "hash": "02bc49940ebc3ab3946249b172cdef75806da763",
-      "date": "2026-03-25T14:33:46+08:00",
-      "author": "frank890417",
-      "message": "feat: 郁永河 — EDITORIAL v4 旗艦級新文章",
-      "articles": [
-        {
-          "url": "/people/郁永河",
-          "name": "郁永河"
-        }
-      ]
-    },
-    {
-      "hash": "aa74518eb3c485ca7fba8176f38837c26a1d80ac",
-      "date": "2026-03-25T14:26:52+08:00",
-      "author": "frank890417",
-      "message": "feat: 郁永河 — 台灣最早的旅行作家（EDITORIAL v4 深度新文章）",
-      "articles": [
-        {
-          "url": "/people/郁永河",
-          "name": "郁永河"
-        }
-      ]
-    },
-    {
-      "hash": "cfb9d9880b6fbbbd8a159cfb54ec2432a533a278",
-      "date": "2026-03-25T13:58:47+08:00",
-      "author": "YiChengLu",
-      "message": "Add Taiwan Island Biogeography document",
-      "articles": [
-        {
-          "url": "/nature/台灣島嶼博物學",
-          "name": "台灣島嶼博物學"
-        }
-      ]
-    },
-    {
-      "hash": "a203b931844cd424756f273c6d713ccb693733fc",
-      "date": "2026-03-25T13:28:26+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 齊柏林 — EDITORIAL v4 深度重寫+事實校正",
-      "articles": [
-        {
-          "url": "/people/齊柏林",
-          "name": "齊柏林"
-        }
-      ]
-    },
-    {
-      "hash": "ef23697169e970bc17ef3e31082622af2b153543",
-      "date": "2026-03-25T13:23:59+08:00",
-      "author": "frank890417",
-      "message": "docs: add THREADS-PLAYBOOK.md — 孢子散播系統寫作方法論 v1.0",
-      "articles": []
-    },
-    {
-      "hash": "6808f4352c6154f70e2e04e7ee419123a582092f",
-      "date": "2026-03-25T11:54:56+08:00",
-      "author": "frank890417",
-      "message": "fix: move try/catch inside file loop to prevent cascade failures (#215)",
-      "articles": []
-    },
-    {
-      "hash": "a6538115ec3aadadd24078244dce26b4c7f14483",
-      "date": "2026-03-25T11:42:23+08:00",
-      "author": "frank890417",
-      "message": "feat: detect-ai-hollow v2.1 — 新增破折號濫用偵測 + 塑膠句門檻降至≥1",
-      "articles": []
-    },
-    {
-      "hash": "b3c2ce22c18c3d35f073e244a160f89a769c93c8",
-      "date": "2026-03-25T11:31:31+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 科技園區發展 — EDITORIAL v4 深度重寫",
-      "articles": [
-        {
-          "url": "/technology/科技園區發展",
-          "name": "科技園區發展"
-        }
-      ]
-    },
-    {
-      "hash": "821e4cee726b9dede0cd474b9161e8464e169a3c",
-      "date": "2026-03-25T11:09:39+08:00",
-      "author": "frank890417",
-      "message": "fix: clean remaining 8 git conflict markers missed by PR #214",
-      "articles": []
-    },
-    {
-      "hash": "a5f082ee73109b865885e3064c1af695bffa4e0a",
-      "date": "2026-03-25T11:09:13+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #214 from Link1515/fix/git-conflict",
-      "articles": []
-    },
-    {
-      "hash": "359afeda8c6eb279f511783f636f84f57a0b22da",
-      "date": "2026-03-25T11:07:14+08:00",
-      "author": "frank890417",
-      "message": "fix: restore missing Sponsors + Contact sections on About page",
-      "articles": []
-    },
-    {
-      "hash": "a1538b625bbeafac7f091c6c9a36e9e9ee6b51f2",
-      "date": "2026-03-25T10:03:06+08:00",
-      "author": "Link1515",
-      "message": "fix: resolve merge conflict artifacts in knowledge articles",
-      "articles": []
-    },
-    {
-      "hash": "7d9b383ca81cd70bc91afabe58af8028883cc19c",
-      "date": "2026-03-25T09:49:49+08:00",
-      "author": "frank890417",
-      "message": "docs: update README stats — 930+ articles, 42 contributors, 854 stars, 4 languages",
-      "articles": []
-    },
-    {
-      "hash": "00c9191275cf33707bb7050f68f70f145e3c16d8",
-      "date": "2026-03-25T09:47:22+08:00",
-      "author": "frank890417",
-      "message": "chore: add translation sync report script + initial report",
-      "articles": []
-    },
-    {
-      "hash": "12c8e04ccbaef92a07ad674bced2f78658e24ee6",
-      "date": "2026-03-25T09:32:55+08:00",
-      "author": "frank890417",
-      "message": "style: reduce mobile font-size to 100% (was 118%)",
-      "articles": []
-    },
-    {
-      "hash": "0386edcb83bf8405924d97c4d685d9a236b71e97",
-      "date": "2026-03-25T09:22:15+08:00",
-      "author": "frank890417",
-      "message": "content: update ethnic identity survey data to 2016-2022",
-      "articles": [
-        {
-          "url": "/culture/族群（閩南客家原住民外省新住民）",
-          "name": "族群（閩南客家原住民外省新住民）"
-        }
-      ]
-    },
-    {
-      "hash": "cb430feab18575d095199013bdc90a1dfc2cf6f6",
-      "date": "2026-03-25T09:14:28+08:00",
-      "author": "frank890417",
-      "message": "style: knowledge graph — zh-only nodes, cluster force tuning, center-fixed Taiwan.md, zoom-to-fit",
-      "articles": []
-    },
-    {
-      "hash": "990d0c47b2d74ef53e0a62c3b3b896ffdc2a64b9",
-      "date": "2026-03-25T09:07:12+08:00",
-      "author": "frank890417",
-      "message": "style: map + about hero — serif titles, ink-green palette, wider layout",
-      "articles": []
-    },
-    {
-      "hash": "f63b56b5829b50ba69a7de5b81def9425b06341a",
-      "date": "2026-03-25T09:02:40+08:00",
-      "author": "frank890417",
-      "message": "style: unified hero design across pages — serif titles, ink-green palette, compact FeatureCards, nav emoji, spore trait",
-      "articles": []
-    },
-    {
-      "hash": "32b6d930e722add0c4ea6386ca09323c62c18d47",
-      "date": "2026-03-25T08:25:36+08:00",
-      "author": "frank890417",
-      "message": "style: CategoryGrid — serif title, gradient fade, 4-col grid, hover shadow, 12 Topics heading",
-      "articles": []
-    },
-    {
-      "hash": "dfbb9c3a4af64a0dc9b0a2ef2a61ba3833e84881",
-      "date": "2026-03-25T08:17:46+08:00",
-      "author": "frank890417",
-      "message": "refactor: CategoryGrid — serif title, inline count, gradient fade, 4-col equal-height grid",
-      "articles": []
-    },
-    {
-      "hash": "7cae9d25e93ed968cec110b38a4d8da242597c30",
-      "date": "2026-03-25T08:10:40+08:00",
-      "author": "frank890417",
-      "message": "refactor: revert masonry to grid, apply TopicCard typography (serif title, big count, arrow animation)",
-      "articles": []
-    },
-    {
-      "hash": "c8831ebb20e0d856a6def6dcbea367373dfd96c3",
-      "date": "2026-03-25T07:46:02+08:00",
-      "author": "frank890417",
-      "message": "fix: 便利商店文化 → 台灣便利商店文化 連結修正 (closes #213)",
-      "articles": [
-        {
-          "url": "/culture/台灣感性",
-          "name": "台灣感性"
-        },
-        {
-          "url": "/society/早餐店阿姨與社區情報網",
-          "name": "早餐店阿姨與社區情報網"
-        }
-      ]
-    },
-    {
-      "hash": "31d97c9350e1d0e8877a35225b01934dfdeff320",
-      "date": "2026-03-25T07:43:52+08:00",
-      "author": "frank890417",
-      "message": "fix: second pass wikilink repair (57 more links)",
-      "articles": []
-    },
-    {
-      "hash": "f2d8b623625866e372cb9a9c507c3cde8ccf7f85",
-      "date": "2026-03-25T07:43:30+08:00",
-      "author": "frank890417",
-      "message": "fix: auto-repair 611 broken wikilinks (path prefix, case, slug, title match)",
-      "articles": [
-        {
-          "url": "/culture/台灣茶道與生活美學",
-          "name": "台灣茶道與生活美學"
-        },
-        {
-          "url": "/culture/族群（閩南客家原住民外省新住民）",
-          "name": "族群（閩南客家原住民外省新住民）"
-        },
-        {
-          "url": "/economy/_Economy Hub",
-          "name": "_Economy Hub"
-        },
-        {
-          "url": "/economy/台灣企業：聯發科技",
-          "name": "台灣企業：聯發科技"
-        }
-      ]
     }
   ]
 }

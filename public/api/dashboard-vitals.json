@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-09-18T06:43:01.350Z",
-  "totalArticles": 1119,
+  "lastUpdated": "2026-09-18T12:42:45.113Z",
+  "totalArticles": 1121,
   "contributors": 75,
-  "stars": 1177,
+  "stars": 1180,
   "forks": 185,
-  "articlesLast7Days": 5,
-  "articlesLast30Days": 167,
-  "humanReviewedPercent": 17.9,
+  "articlesLast7Days": 14,
+  "articlesLast30Days": 176,
+  "humanReviewedPercent": 17.8,
   "curation": {
     "verified": 2,
     "incubating": 311,
-    "unmarked": 806
+    "unmarked": 808
   },
   "featuredPercent": 15.9,
   "avgRevision": 7,
   "languageCoverage": {
-    "zh-TW": 1119,
+    "zh-TW": 1121,
     "en": 1101,
     "ja": 935,
     "ko": 1080,
@@ -31,7 +31,7 @@
   },
   "bodyInternalLinks": {
     "zero_count": 944,
-    "total": 1119,
+    "total": 1121,
     "median": 0,
     "p25": 0
   }

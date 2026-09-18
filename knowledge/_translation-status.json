@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T14:42:25+08:00",
-    "zhCommitHead": "30e7e2af67",
-    "totalZh": 1121,
+    "lastUpdated": "2026-09-18T20:42:28+08:00",
+    "zhCommitHead": "e2ce30be28",
+    "totalZh": 1123,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1121,
-        "fresh": 994,
-        "stale": 84,
-        "metadata_stale": 19,
-        "missing": 24,
+        "total_zh": 1123,
+        "fresh": 987,
+        "stale": 89,
+        "metadata_stale": 21,
+        "missing": 26,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1121,
-        "fresh": 817,
-        "stale": 92,
-        "metadata_stale": 28,
-        "missing": 184,
+        "total_zh": 1123,
+        "fresh": 811,
+        "stale": 96,
+        "metadata_stale": 30,
+        "missing": 186,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1121,
-        "fresh": 982,
-        "stale": 81,
-        "metadata_stale": 19,
-        "missing": 39,
+        "total_zh": 1123,
+        "fresh": 975,
+        "stale": 86,
+        "metadata_stale": 21,
+        "missing": 41,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1121,
-        "fresh": 995,
-        "stale": 83,
-        "metadata_stale": 18,
-        "missing": 25,
+        "total_zh": 1123,
+        "fresh": 987,
+        "stale": 89,
+        "metadata_stale": 20,
+        "missing": 27,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1121,
-        "fresh": 995,
-        "stale": 85,
-        "metadata_stale": 19,
-        "missing": 22,
+        "total_zh": 1123,
+        "fresh": 987,
+        "stale": 91,
+        "metadata_stale": 21,
+        "missing": 24,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1121,
-        "fresh": 684,
-        "stale": 93,
-        "metadata_stale": 82,
-        "missing": 262,
+        "total_zh": 1123,
+        "fresh": 678,
+        "stale": 97,
+        "metadata_stale": 84,
+        "missing": 264,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1121,
-        "fresh": 833,
-        "stale": 57,
-        "metadata_stale": 8,
-        "missing": 223,
+        "total_zh": 1123,
+        "fresh": 827,
+        "stale": 61,
+        "metadata_stale": 10,
+        "missing": 225,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1121,
-        "fresh": 990,
-        "stale": 68,
-        "metadata_stale": 12,
-        "missing": 51,
+        "total_zh": 1123,
+        "fresh": 982,
+        "stale": 74,
+        "metadata_stale": 14,
+        "missing": 53,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1121,
-        "fresh": 912,
-        "stale": 49,
-        "metadata_stale": 10,
-        "missing": 150,
+        "total_zh": 1123,
+        "fresh": 906,
+        "stale": 53,
+        "metadata_stale": 12,
+        "missing": 152,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1121,
-        "fresh": 971,
-        "stale": 53,
-        "metadata_stale": 14,
-        "missing": 83,
+        "total_zh": 1123,
+        "fresh": 963,
+        "stale": 59,
+        "metadata_stale": 16,
+        "missing": 85,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1121,
-        "fresh": 1010,
-        "stale": 39,
-        "metadata_stale": 8,
-        "missing": 64,
+        "total_zh": 1123,
+        "fresh": 1002,
+        "stale": 45,
+        "metadata_stale": 10,
+        "missing": 66,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1121,
+        "total_zh": 1123,
         "fresh": 147,
         "stale": 7,
         "metadata_stale": 3,
-        "missing": 964,
+        "missing": 966,
         "orphan": 0
       }
     },
@@ -7480,10 +7480,10 @@
     },
     "Economy/發票.md": {
       "zh": {
-        "lastCommit": "4a923c64",
-        "lastModified": "2026-07-19T09:55:03+08:00",
-        "contentHash": "sha256:3de7677c1cc54d07",
-        "bodyHash": "sha256:1962c2279b937909"
+        "lastCommit": "119f1a83",
+        "lastModified": "2026-09-18T18:16:11+08:00",
+        "contentHash": "sha256:f325ef2b15e0248f",
+        "bodyHash": "sha256:b7a9729708b6463a"
       },
       "translations": {
         "en": {
@@ -7511,8 +7511,10 @@
           "translationLastModified": "2026-08-01T20:09:01+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Economy/taiwan-uniform-invoice.md",
@@ -7539,8 +7541,10 @@
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Economy/taiwan-uniform-invoice.md",
@@ -7553,8 +7557,10 @@
           "translationLastModified": "2026-07-31T09:33:30+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Economy/taiwan-uniform-invoice.md",
@@ -7567,8 +7573,10 @@
           "translationLastModified": "2026-08-09T09:39:01+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "status": "missing"
@@ -7584,8 +7592,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "status": "missing"
@@ -7601,8 +7611,10 @@
           "translationLastModified": "2026-07-27T04:56:25+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Economy/taiwan-uniform-invoice.md",
@@ -7615,8 +7627,10 @@
           "translationLastModified": "2026-08-04T08:48:14+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "status": "missing"
@@ -12855,10 +12869,10 @@
     },
     "Economy/台灣企業：台塑集團.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:542041b17da4dbbd",
-        "bodyHash": "sha256:81797ae5614d2f0c"
+        "lastCommit": "119f1a83",
+        "lastModified": "2026-09-18T18:16:11+08:00",
+        "contentHash": "sha256:d3c539560290bb80",
+        "bodyHash": "sha256:42c7603d80fc6987"
       },
       "translations": {
         "en": {
@@ -12872,8 +12886,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ja": {
           "path": "ja/Economy/formosa-plastics-group.md",
@@ -12886,8 +12902,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ko": {
           "path": "ko/Economy/formosa-plastics-group.md",
@@ -12900,8 +12918,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "es": {
           "path": "es/Economy/formosa-plastics-group.md",
@@ -12914,8 +12934,10 @@
           "translationLastModified": "2026-05-24T22:40:37+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "fr": {
           "path": "fr/Economy/formosa-plastics-group.md",
@@ -12928,8 +12950,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "vi": {
           "path": "vi/Economy/formosa-plastics-group.md",
@@ -12942,8 +12966,10 @@
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "id": {
           "status": "missing"
@@ -12959,8 +12985,10 @@
           "translationLastModified": "2026-07-26T04:55:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "hi": {
           "path": "hi/Economy/formosa-plastics-group.md",
@@ -12973,8 +13001,10 @@
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ar": {
           "path": "ar/Economy/formosa-plastics-group.md",
@@ -12987,8 +13017,10 @@
           "translationLastModified": "2026-08-04T06:39:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ru": {
           "path": "ru/Economy/formosa-plastics-group.md",
@@ -13001,8 +13033,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "de": {
           "status": "missing"
@@ -15222,6 +15256,52 @@
           "footnoteDefs": 5,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
+    "Economy/台灣油價機制與中油.md": {
+      "zh": {
+        "lastCommit": "c1f1fa2a",
+        "lastModified": "2026-09-18T19:53:08+08:00",
+        "contentHash": "sha256:73dc268a01bd482d",
+        "bodyHash": "sha256:7cae7de6b4b72f5d"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -44382,9 +44462,9 @@
     },
     "Society/學習貧窮.md": {
       "zh": {
-        "lastCommit": "9d671671",
-        "lastModified": "2026-07-17T11:42:04+08:00",
-        "contentHash": "sha256:87b9bdce32cd9e14",
+        "lastCommit": "ebb25266",
+        "lastModified": "2026-09-18T18:17:48+08:00",
+        "contentHash": "sha256:c17c5d1e33de608e",
         "bodyHash": "sha256:605da09515483b90"
       },
       "translations": {
@@ -44399,8 +44479,10 @@
           "translationLastModified": "2026-07-18T00:38:00+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/learning-poverty-in-taiwan.md",
@@ -44413,8 +44495,10 @@
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/learning-poverty-in-taiwan.md",
@@ -44427,8 +44511,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/learning-poverty-in-taiwan.md",
@@ -44441,8 +44527,10 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/learning-poverty-in-taiwan.md",
@@ -44455,8 +44543,10 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Society/learning-poverty-in-taiwan.md",
@@ -44469,8 +44559,10 @@
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Society/learning-poverty-in-taiwan.md",
@@ -44483,8 +44575,10 @@
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Society/learning-poverty-in-taiwan.md",
@@ -44497,8 +44591,10 @@
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Society/learning-poverty-in-taiwan.md",
@@ -44511,8 +44607,10 @@
           "translationLastModified": "2026-07-19T00:40:19+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Society/learning-poverty-in-taiwan.md",
@@ -44525,8 +44623,10 @@
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/learning-poverty-in-taiwan.md",
@@ -44539,8 +44639,10 @@
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "status": "missing"
@@ -44716,10 +44818,10 @@
     },
     "Society/電網韌性.md": {
       "zh": {
-        "lastCommit": "598a5a54",
-        "lastModified": "2026-08-18T18:35:50+08:00",
-        "contentHash": "sha256:2021a6224e30bd5e",
-        "bodyHash": "sha256:ab86534e207e2b33"
+        "lastCommit": "119f1a83",
+        "lastModified": "2026-09-18T18:16:11+08:00",
+        "contentHash": "sha256:22b6eabba5683dd6",
+        "bodyHash": "sha256:3b70e469f4e19f8d"
       },
       "translations": {
         "en": {
@@ -44733,8 +44835,10 @@
           "translationLastModified": "2026-09-11T14:05:49+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "ja": {
           "status": "missing"
@@ -44750,8 +44854,10 @@
           "translationLastModified": "2026-09-13T03:35:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "es": {
           "path": "es/Society/taiwan-grid-resilience.md",
@@ -44764,8 +44870,10 @@
           "translationLastModified": "2026-09-11T14:20:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "fr": {
           "path": "fr/Society/taiwan-grid-resilience.md",
@@ -44778,8 +44886,10 @@
           "translationLastModified": "2026-09-12T04:38:49+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "vi": {
           "status": "missing"
@@ -44795,8 +44905,10 @@
           "translationLastModified": "2026-09-17T11:23:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "pt": {
           "path": "pt/Society/taiwan-grid-resilience.md",
@@ -44809,8 +44921,10 @@
           "translationLastModified": "2026-09-13T01:02:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "hi": {
           "path": "hi/Society/taiwan-grid-resilience.md",
@@ -44823,8 +44937,10 @@
           "translationLastModified": "2026-09-12T16:23:10+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "ar": {
           "path": "ar/Society/taiwan-grid-resilience.md",
@@ -44837,8 +44953,10 @@
           "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "ru": {
           "path": "ru/Society/taiwan-grid-resilience.md",
@@ -44851,8 +44969,10 @@
           "translationLastModified": "2026-09-12T08:27:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+26 -10"
         },
         "de": {
           "status": "missing"
@@ -49084,6 +49204,52 @@
           "footnoteDefs": 12,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
+    "Society/誰算低薪.md": {
+      "zh": {
+        "lastCommit": "01c02395",
+        "lastModified": "2026-09-18T19:41:19+08:00",
+        "contentHash": "sha256:a41aa066afbbacae",
+        "bodyHash": "sha256:ba36301b18f42033"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -55777,10 +55943,10 @@
     },
     "Society/冷氣與能源貧窮議題.md": {
       "zh": {
-        "lastCommit": "2b1523b1",
-        "lastModified": "2026-08-18T19:03:16+08:00",
-        "contentHash": "sha256:355af10a54c14130",
-        "bodyHash": "sha256:f7547564791748fe"
+        "lastCommit": "ebb25266",
+        "lastModified": "2026-09-18T18:17:48+08:00",
+        "contentHash": "sha256:94c8ccfb2d437070",
+        "bodyHash": "sha256:ef799ec0f3c74f1b"
       },
       "translations": {
         "en": {
@@ -55794,8 +55960,10 @@
           "translationLastModified": "2026-09-12T00:40:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "ja": {
           "status": "missing"
@@ -55811,8 +55979,10 @@
           "translationLastModified": "2026-09-13T15:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "es": {
           "path": "es/Society/energy-poverty-and-cooling.md",
@@ -55825,8 +55995,10 @@
           "translationLastModified": "2026-09-13T07:34:11+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "fr": {
           "path": "fr/Society/energy-poverty-and-cooling.md",
@@ -55839,8 +56011,10 @@
           "translationLastModified": "2026-09-11T23:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "vi": {
           "status": "missing"
@@ -55856,8 +56030,10 @@
           "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "pt": {
           "path": "pt/Society/energy-poverty-and-cooling.md",
@@ -55870,8 +56046,10 @@
           "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "hi": {
           "path": "hi/Society/energy-poverty-and-cooling.md",
@@ -55884,8 +56062,10 @@
           "translationLastModified": "2026-09-13T16:22:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "ar": {
           "path": "ar/Society/energy-poverty-and-cooling.md",
@@ -55898,8 +56078,10 @@
           "translationLastModified": "2026-09-12T09:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "ru": {
           "path": "ru/Society/energy-poverty-and-cooling.md",
@@ -55912,8 +56094,10 @@
           "translationLastModified": "2026-09-12T01:10:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -10"
         },
         "de": {
           "status": "missing"
@@ -61446,9 +61630,9 @@
     },
     "Society/台灣斜槓世代.md": {
       "zh": {
-        "lastCommit": "2b1654fa",
-        "lastModified": "2026-07-25T23:09:34+08:00",
-        "contentHash": "sha256:06d77e5b551a9ae1",
+        "lastCommit": "ebb25266",
+        "lastModified": "2026-09-18T18:17:48+08:00",
+        "contentHash": "sha256:fac0fda46fb93458",
         "bodyHash": "sha256:1cd85dacd9f6f3a7"
       },
       "translations": {
@@ -61463,8 +61647,10 @@
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61477,8 +61663,10 @@
           "translationLastModified": "2026-07-26T16:37:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61491,8 +61679,10 @@
           "translationLastModified": "2026-07-26T16:36:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61505,8 +61695,10 @@
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61519,8 +61711,10 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61533,8 +61727,10 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61547,8 +61743,10 @@
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61561,8 +61759,10 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61575,8 +61775,10 @@
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61589,8 +61791,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -61603,8 +61807,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "status": "missing"
@@ -67774,10 +67980,10 @@
     },
     "Nature/台灣氣候危機與淨零轉型.md": {
       "zh": {
-        "lastCommit": "2da8b92f",
-        "lastModified": "2026-08-04T18:40:31+08:00",
-        "contentHash": "sha256:387f185bb5291526",
-        "bodyHash": "sha256:bdaf6e0f03c1164f"
+        "lastCommit": "119f1a83",
+        "lastModified": "2026-09-18T18:16:11+08:00",
+        "contentHash": "sha256:29246f072387ffcd",
+        "bodyHash": "sha256:1b2f12af202a1fcd"
       },
       "translations": {
         "en": {
@@ -67791,8 +67997,10 @@
           "translationLastModified": "2026-08-04T19:37:38+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67805,8 +68013,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67819,8 +68029,10 @@
           "translationLastModified": "2026-08-04T19:38:11+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67833,8 +68045,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67847,8 +68061,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "vi": {
           "path": "vi/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67861,8 +68077,10 @@
           "translationLastModified": "2026-08-09T08:49:34+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "id": {
           "path": "id/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67875,8 +68093,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "pt": {
           "path": "pt/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67889,8 +68109,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "status": "missing"
@@ -67906,8 +68128,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -67920,8 +68144,10 @@
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "de": {
           "status": "missing"
@@ -112333,10 +112559,10 @@
     },
     "People/馬英九.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:7ebf03343b7d94a6",
-        "bodyHash": "sha256:3ba24a255fbd26bc"
+        "lastCommit": "8cc6a667",
+        "lastModified": "2026-09-18T15:14:09+08:00",
+        "contentHash": "sha256:0c07b090d737b0e5",
+        "bodyHash": "sha256:e2df2e775fda5f60"
       },
       "translations": {
         "en": {
@@ -112346,12 +112572,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-06-16T16:59:03Z",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "ja": {
           "path": "ja/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112360,12 +112588,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-06-16T16:55:14Z",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "ko": {
           "path": "ko/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112374,12 +112604,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-06-16T16:55:29Z",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "es": {
           "path": "es/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112388,12 +112620,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-06-16T16:54:57Z",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "fr": {
           "path": "fr/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112402,12 +112636,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-06-16T16:54:51Z",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "vi": {
           "path": "vi/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112416,12 +112652,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-08-09T10:41:15+08:00",
-          "translationLastCommit": "162d0912",
-          "translationLastModified": "2026-08-09T10:54:03+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "id": {
           "path": "id/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112430,12 +112668,14 @@
           "sourceContentHash": "sha256:321dcc1f48006944",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-29T23:44:28.781886+00:00",
-          "translationLastCommit": "08cdd112",
-          "translationLastModified": "2026-07-30T08:53:24+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "pt": {
           "path": "pt/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112444,12 +112684,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "6476ef78",
-          "translationLastModified": "2026-07-29T11:22:55+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "hi": {
           "path": "hi/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112458,12 +112700,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-07-30T03:55:58+08:00",
-          "translationLastCommit": "2e824a26",
-          "translationLastModified": "2026-07-30T08:12:02+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "ar": {
           "path": "ar/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112472,12 +112716,14 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-07-30T03:55:59+08:00",
-          "translationLastCommit": "4ba6cfa1",
-          "translationLastModified": "2026-07-30T08:09:38+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "ru": {
           "path": "ru/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -112486,12 +112732,14 @@
           "sourceContentHash": "sha256:321dcc1f48006944",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-07T02:33:20.478357+00:00",
-          "translationLastCommit": "66e8626f",
-          "translationLastModified": "2026-08-09T07:49:34+08:00",
+          "translationLastCommit": "8cc6a667",
+          "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+50 -54"
         },
         "de": {
           "status": "missing"

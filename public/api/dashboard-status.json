@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T06:43:10.027Z",
+  "generated_at": "2026-09-18T12:42:51.024Z",
   "routines": {
     "fetched_at": "2026-09-09T06:16:02+08:00",
-    "stale_hours": 224.5,
+    "stale_hours": 230.4,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -594,7 +594,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -990,7 +990,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1306,13 +1306,13 @@
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "MEMORY.md 索引 inline 88 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "text": "MEMORY.md 索引 inline 91 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md"
     },
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "routine-live-state.json dump 齡 224.5h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "text": "routine-live-state.json dump 齡 230.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json"
     },
     {
@@ -1324,29 +1324,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-18T06:23:28Z",
+      "ts": "2026-09-18T12:19:48Z",
       "conclusion": "success",
       "title": "Routine stall alert: Routine stall alert"
     },
     {
-      "ts": "2026-09-18T06:03:18Z",
+      "ts": "2026-09-18T12:07:16Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] rewrite: 台灣油價機制與中油 — rebase 後重生編輯台看板資料"
+    },
+    {
+      "ts": "2026-09-18T11:56:24Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 誰算低薪走完互動式 REWRITE 六站，十二位冷讀者三輪具名編輯，同一句收束被讀出三種立場"
+    },
+    {
+      "ts": "2026-09-18T07:21:39Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: 低薪條目的最低工資數字修正——2026 年是 29,500，破三萬是 9/24 審議會對 2027 年的決定"
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-18 14:38 — 馬英九查核落地、探測…"
     },
     {
-      "ts": "2026-09-18T06:02:32Z",
+      "ts": "2026-09-18T07:14:57Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 三篇寫手依哲宇指示暫停在存檔點，INBOX 與 handoff 記下重開路徑"
-    },
-    {
-      "ts": "2026-09-18T05:47:22Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] evolve: 探測器接回 news-lens-weekly——每週日的新聞透鏡多一隻看外面的眼睛"
-    },
-    {
-      "ts": "2026-09-18T05:38:45Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] evolve: 新聞雷達九條進 ARTICLE-INBOX——低薪、油價機制、金鐘獎三條派 Opus 開寫，亞運 …"
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 馬英九 INBOX 條目記下查核已完成、剩兩節要重寫"
     }
   ]
 }
