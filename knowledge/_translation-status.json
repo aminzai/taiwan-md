@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T22:57:33+08:00",
-    "zhCommitHead": "1f8949a51",
+    "lastUpdated": "2026-09-19T00:30:20+08:00",
+    "zhCommitHead": "6f12dda86",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 851,
+        "fresh": 853,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 145,
+        "missing": 143,
         "orphan": 0
       },
       "ko": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 955,
-        "stale": 63,
+        "fresh": 958,
+        "stale": 61,
         "metadata_stale": 73,
-        "missing": 30,
+        "missing": 29,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 852,
+        "fresh": 854,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 212,
+        "missing": 210,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 772,
+        "fresh": 773,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 342,
+        "missing": 341,
         "orphan": 0
       }
     },
@@ -8523,7 +8523,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-orchids.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-18T22:35:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -19434,7 +19445,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/miin-music-app.md",
+          "translatedFrom": "Technology/迷音Miin.md",
+          "sourceCommitSha": "ce36d5427",
+          "sourceContentHash": "sha256:e317c3018b82f2b6",
+          "sourceBodyHash": "sha256:bbf79206e74e0a59",
+          "translatedAt": "2026-09-18T22:35:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -45177,7 +45199,18 @@
           "reason": "footnote-loss (17→0)"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-walking-green-man.md",
+          "translatedFrom": "Lifestyle/小綠人.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-18T22:35:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55029,8 +55062,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-18T13:15:35.547706+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "6f12dda8",
+          "translationLastModified": "2026-09-18T22:57:33+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -99683,7 +99716,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/waa-wei-singer.md",
+          "translatedFrom": "People/魏如萱.md",
+          "sourceCommitSha": "4a7c2bfc8",
+          "sourceContentHash": "sha256:f58a33f97c50539d",
+          "sourceBodyHash": "sha256:21b9be483a88d65c",
+          "translatedAt": "2026-09-18T22:35:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/waa-wei-singer.md",
@@ -128125,7 +128169,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T17:25:56.434545+00:00",
+          "translatedAt": "2026-09-18T14:53:17.830061+00:00",
           "translationLastCommit": "c69cd260",
           "translationLastModified": "2026-08-10T01:58:03+08:00",
           "inferred": false,
@@ -156045,16 +156089,16 @@
         "vi": {
           "path": "vi/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "f99a9959c",
-          "sourceContentHash": "sha256:2cef849f8ebc6df7",
-          "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-07-24T19:43:38+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:833f85e006d23e04",
+          "sourceBodyHash": "sha256:fa90458e0d20dada",
+          "translatedAt": "2026-09-18T22:35:08+08:00",
           "translationLastCommit": "965f23bc",
           "translationLastModified": "2026-07-24T20:05:08+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (13→0)"
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/tadian-mountain.md",
@@ -157294,7 +157338,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/trunk-railway.md",
+          "translatedFrom": "Geography/縱貫鐵路.md",
+          "sourceCommitSha": "77fa1a757",
+          "sourceContentHash": "sha256:70bb378dbb4d4234",
+          "sourceBodyHash": "sha256:82e8d65770b72f8e",
+          "translatedAt": "2026-09-18T22:35:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/trunk-railway.md",
@@ -159841,18 +159896,16 @@
         "vi": {
           "path": "vi/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:a5ce1cc1637b843d",
-          "sourceBodyHash": "sha256:3262816e651d35d1",
-          "translatedAt": "2026-07-26T08:50:49+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:61916e4f91798262",
+          "sourceBodyHash": "sha256:b069d77bfe98ff54",
+          "translatedAt": "2026-09-18T15:01:41.396617+00:00",
           "translationLastCommit": "4da9268b",
           "translationLastModified": "2026-07-26T10:51:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/offshore-islands-and-maritime-culture.md",
@@ -160890,7 +160943,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/tap-water.md",
+          "translatedFrom": "Geography/自來水.md",
+          "sourceCommitSha": "a9e791a05",
+          "sourceContentHash": "sha256:9b07db3bc18b0b72",
+          "sourceBodyHash": "sha256:300f2a84fb69ef78",
+          "translatedAt": "2026-09-18T22:35:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/tap-water.md",
@@ -166354,8 +166418,8 @@
           "sourceContentHash": "sha256:2fb0e2b29a78f122",
           "sourceBodyHash": "sha256:5db325d228abad28",
           "translatedAt": "2026-09-18T14:57:14.790084+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "6f12dda8",
+          "translationLastModified": "2026-09-18T22:57:33+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
