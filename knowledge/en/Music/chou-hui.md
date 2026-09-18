@@ -306,7 +306,7 @@ So the frame "she went to develop in China" is inaccurate. She worked in China, 
 
 Saturday night, April 25, 2026, Taipei Arena.
 
-This was Where Chou’s first Taipei Arena concert in her 27 years of debut[^5]. The concert was named _I Really Want to Love Where Chou_. The stage design was given to Golden Melody/Golden Horse veteran designer Li Shi-qi, adopting a kaleidoscope concept. The whole show was 3 hours, 25 songs[^34]. Tickets went on sale on January 22 at noon and sold out quickly, adding a show.
+This was Where Chou’s first Taipei Arena concert in her 27 years of debut[^5]. The concert was named _I Really Want to Love Where Chou_. The stage design was given to Golden Melody/Golden Horse veteran designer Li Shi-qi, adopting a kaleidoscope concept. The whole show was 3 hours, 25 songs[^34]. Tickets went on sale on January 22 at noon under real-name entry; it was a single night[^41].
 
 ![April 25, 2026, Where Chou on stage at the Taipei Arena *I Really Want to Love Where Chou* concert, first attack on the Arena after 27 years of debut](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _April 25, 2026 Taipei Arena *I Really Want to Love Where Chou* concert. Fair use editorial commentary. [Source via TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -451,3 +451,5 @@ This article uses screenshots from 3 public image works, all cached in `public/a
 [^39]: [YouTube: Where Chou "Substitute" Official MV](https://www.youtube.com/watch?v=WUKnbOlicps) — Where Chou Where Chou Official Channel "Substitute" Official MV, 2000 Hong Kong Astro Chinese TV _The Thousand-Faced Girl_ drama theme song; lyrics and music according to online lyrics site are Chi Chung-ping, but Fu-ma Music official song data not directly verified, listed as single-source.
 
 [^40]: [Chinese Wikipedia: People at Work](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — _People at Work_ drama Wiki entry, verified 2020-05-10 HBO Asia first broadcast, Where Chou plays Pei Pei (domestic violence victim, construction site singer).
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

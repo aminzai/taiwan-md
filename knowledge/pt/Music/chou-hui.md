@@ -306,7 +306,7 @@ Por isso "ela foi desenvolver na China" é impreciso. Teve trabalho na China, ma
 
 25 de abril de 2026, sábado à noite, Taipei Arena.
 
-Primeiro show na Taipei Arena em 27 anos de carreira[^5]. Nome: _Quero Te Amar Bem Chou Hui_, cenografia do designer de Golden Horse e Golden Melody Lai Shih-chi, conceito caleidoscópio, 3 horas, 25 músicas[^34]. Ingressos abriram ao meio-dia de 22 de janeiro, esgotaram rápido, abriu sessão extra.
+Primeiro show na Taipei Arena em 27 anos de carreira[^5]. Nome: _Quero Te Amar Bem Chou Hui_, cenografia do designer de Golden Horse e Golden Melody Lai Shih-chi, conceito caleidoscópio, 3 horas, 25 músicas[^34]. Ingressos abriram ao meio-dia de 22 de janeiro, com entrada nominal; foi uma única sessão[^41].
 
 ![25 de abril de 2026, Chou Hui no palco da Taipei Arena no show *Quero Te Amar Bem Chou Hui*, estreia na Arena aos 27 anos de carreira](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _2026-04-25 Taipei Arena *Quero Te Amar Bem Chou Hui*. Uso justo para comentário editorial. [Fonte via TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -451,3 +451,5 @@ Este artigo usa 3 capturas de obras audiovisuais públicas, todas em cache em `p
 [^39]: [YouTube: Chou Hui "Sósia" MV oficial](https://www.youtube.com/watch?v=WUKnbOlicps) — Canal oficial Chou Hui Where Chou "Sósia" MV oficial, 2000 tema série STAR Chinese Channel _Mulher de Mil Faces_; letra e música segundo sites de letra na rede seria Chi Chung-ping, mas dados oficiais Fumao não verificam diretamente, listado como single-source.
 
 [^40]: [Wikipédia em chinês: Trabalhadores](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Verbete drama _Trabalhadores_, verificado 2020-05-10 HBO Asia estreia, Chou Hui interpreta Pei-pei (trabalhadora temporária vítima de violência doméstica, canta no canteiro).
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。
