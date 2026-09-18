@@ -1,0 +1,32 @@
+{
+  "revision": 43,
+  "stage": "cold-read",
+  "actor": "cold-reader-5 (Sonnet agent af17e249267d1b248, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "同一場記者會，副處長先說月薪算低薪零人，接著說年薪算 126 萬人。差別在年終等非經常性薪資，本薪有最低工資法保護，年終沒有法律規定要發。文章拆三把尺、分母排除了誰，最後帶到 9 月 24 日審議會決定 2027 年月薪破不破三萬，年終那一欄永遠不在審議桌上。",
+    "changedUnderstanding": "原以為零人是硬凹話術，讀完知道兩個數字都是同一套統計算的；「粉飾太平」比較像先講哪一句的順序問題。但文章對「為什麼先講零人」沒有多想，像替官方順序找台階。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "confusions": [
+      "兩個 126 萬純屬巧合那句要回頭確認",
+      "43.6 萬出現兩次要重新對",
+      "862.7 萬 vs 753.1 萬中段要再確認分母"
+    ],
+    "repetitions": [
+      "月薪欄 vs 年薪欄核心對比講了四五次",
+      "「只代表發言者本人」免責在正文重複"
+    ],
+    "forcedConclusions": [
+      "對主計總處先講零人的順序選擇幾乎沒有追問，像替呈現方式背書",
+      "把藍白的粉飾太平批評重新框成「只是質疑先講哪一個」，轉譯太快，把政治指控收斂成統計技術問題"
+    ],
+    "readerVerdict": "revise",
+    "readerRationale": "四題答得出、資料紮實，但核心對比講太多次、相近數字要自己對齊、對官方話術順序缺乏追問。"
+  }
+}

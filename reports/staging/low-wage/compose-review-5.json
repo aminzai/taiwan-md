@@ -1,0 +1,23 @@
+{
+  "revision": 42,
+  "submissionId": "1fef3742-3784-46ec-a1ce-06d8c738ae44",
+  "actor": "compose-reviewer-5 (Sonnet agent aa4d01ad274398af2, fresh context, read diff + article + blueprint + 11506/11507 raw only)",
+  "verdict": "accept",
+  "rationale": "兩處改動皆與一手來源核對一致：11507 表五分行業表確為全體受僱員工口徑（金融 74,694×7 vs 930,090 → 43.8%），口徑澄清句屬實且必要；11506 本國籍全時序列 67.22/68.21/69.91/70.93/70.49/70.30，腳註 4 新文字精確捕捉非單調走勢。口徑澄清句略偏公告體但與全文簡短事實澄清句慣例一致，未造成新的母體混淆。八步骨架未被觸動。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11507-新聞稿.txt",
+      "location": "lines 188-217"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11506-新聞稿.txt",
+      "location": "lines 92-101, 141-145"
+    },
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第三節分行業段落與 tw-bars 圖說；腳註 4"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only",
+  "notes": "口徑澄清句可改夾註讓節奏更連貫，不影響 accept。"
+}
