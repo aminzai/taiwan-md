@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T07:23:51+08:00",
-    "zhCommitHead": "b519348b0",
+    "lastUpdated": "2026-09-19T07:26:46+08:00",
+    "zhCommitHead": "3e6e8cc3c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 153,
+        "missing": 152,
         "orphan": 0
       },
       "ru": {
@@ -21778,8 +21778,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-09-18T23:23:29.037978+00:00",
-          "translationLastCommit": "4c95322d",
-          "translationLastModified": "2026-08-04T13:40:08+08:00",
+          "translationLastCommit": "3e6e8cc3",
+          "translationLastModified": "2026-09-19T07:23:52+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -45190,8 +45190,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-19T01:37:19+08:00",
-          "translationLastCommit": "4c95322d",
-          "translationLastModified": "2026-08-04T13:40:08+08:00",
+          "translationLastCommit": "3e6e8cc3",
+          "translationLastModified": "2026-09-19T07:23:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -151586,7 +151586,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-19T01:37:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -153347,8 +153358,8 @@
           "sourceContentHash": "sha256:f212b82c110bd5ef",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T21:11:13.461124+00:00",
-          "translationLastCommit": "cbf4f232",
-          "translationLastModified": "2026-06-27T01:01:24+08:00",
+          "translationLastCommit": "3e6e8cc3",
+          "translationLastModified": "2026-09-19T07:23:52+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
