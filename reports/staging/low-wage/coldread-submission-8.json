@@ -1,0 +1,33 @@
+{
+  "revision": 56,
+  "stage": "cold-read",
+  "actor": "cold-reader-8 (Sonnet agent a46477a5847d16f08, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "主計總處 9 月 14 日記者會：月薪算沒人低薪，因最低工資撐住本薪；整年薪水算有 126 萬人落線下。差別在年終等非經常性薪資沒有法律保障。文章拆解分母之外三百多萬人沒被量過，點出 9 月 24 日審議會只會調本薪。",
+    "changedUnderstanding": "原以為硬拗粉飾，讀完知道兩個數字都是真的，差別在年終不受最低工資法保障；不是誰說謊，是選擇講哪一欄。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "沒有直接替任一方背書；收尾用詞較貼近「不要用統計粉飾」那一側（結尾兩句）。",
+    "confusions": [
+      "本國籍全時 vs 全體受僱兩種口徑交錯，看到說明框才回頭重讀",
+      "兩個 126 萬純屬巧合那句讀到當下有點卡",
+      "OECD SDMX 資料庫代號是雜訊"
+    ],
+    "repetitions": [
+      "「本薪有法律守著，年終沒有」至少三次",
+      "「126 萬人住在兩欄之間」三處"
+    ],
+    "forcedConclusions": [
+      "「兩個 126 萬純屬巧合」下得快",
+      "「移工過線靠的是加班」隔了一層推算"
+    ],
+    "readerVerdict": "revise",
+    "readerRationale": "四題答得出、資料紮實、無明顯背書，但兩種口徑交錯太多次、「兩欄之間」收尾重複三次，建議口徑對照表前移、砍重複收尾句。"
+  }
+}

@@ -1,0 +1,16 @@
+stage4	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --profile=rewrite-stage-4	Summary: hard=0  warn=0  info=5  passed=True (fail_on=hard)
+stage35	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --profile=rewrite-stage-3-5	Summary: hard=0  warn=0  info=2  passed=True (fail_on=hard)
+prose-health	1	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=prose-health	Summary: hard=0  warn=3  info=1  passed=False (fail_on=warn)
+viz-health	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=viz-health	Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)
+image-health	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=image-health	Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)
+footnote-url	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=footnote-url	Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)
+subcategory	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=subcategory-valid	Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)
+wikilink	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=wikilink-target	Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)
+link-target	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=link-target	Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)
+cross-ref	0	python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=cross-reference	Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)
+prose-flow	0	python3 scripts/tools/prose-flow.py knowledge/Society/誰算低薪.md	   Summary: 0/3 訊號亮起
+research-depth	0	python3 scripts/tools/research-report-health.py reports/research/2026-09/誰算低薪.md --tier=depth	   Summary: hard_fail=0 warn=0  → PASS
+room-health	0	python3 scripts/tools/editorial-room-health.py reports/editorial-room/誰算低薪-projection-review.md reports/editorial-room/誰算低薪-prose-structure-review.md	✅ reports/editorial-room/誰算低薪-projection-review.md
+image-ingest-hero	0	node scripts/tools/image-ingest.mjs check public/article-images/society/dgbas-guangbo-building-2023.webp --role hero	檢驗：0 hard / 0 warn
+image-ingest-inline	0	node scripts/tools/image-ingest.mjs check public/article-images/society/mol-main-entrance-2023.webp public/article-images/society/mol-minimum-wage-ten-year-chart-2025.webp	檢驗：0 hard / 0 warn
+fact-atom-diff	0	fact-atom-diff.py <da18e9bb9a~1 article> <closing.md>	fact-atom-diff: PASS

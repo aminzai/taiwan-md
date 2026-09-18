@@ -1,0 +1,26 @@
+{
+  "revision": 59,
+  "submissionId": "05131bfd-ec15-4d02-88cb-894070c40150",
+  "actor": "verify-reviewer (Sonnet agent afa8390990761b535, fresh context, submission + artifacts + raw only; 重跑 3 條、cat 3 條、抽驗 5 條來源)",
+  "verdict": "accept",
+  "rationale": "重跑 stage4/stage35/prose-health 與提交逐位元組一致；summary.tsv 16 列無誤；fact-atom-diff 九項 PASS；curl 38 條 ok=37 且 [^16] 403 相符。來源抽驗 5 條全對（11507 千人表 7,531／426／8,627；表 6 Q1 43.6、中位數 58.5；移工 3 萬／5.1 千／1.5 萬逐字；人力資源調查自營作業者 1,265 千）。prose-health 3 warn 全在逐字引語內。126 萬口頭試算在正文與腳註誠實揭露。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/verify/summary.tsv",
+      "location": "16 列"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11507-新聞稿.txt",
+      "location": "L17-65"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11507-人力資源調查.txt",
+      "location": "L6974"
+    },
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L246, 290"
+    }
+  ],
+  "contextDisclosure": "fresh-context-submission-and-artifacts-only"
+}

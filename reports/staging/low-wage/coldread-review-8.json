@@ -1,0 +1,18 @@
+{
+  "revision": 57,
+  "submissionId": "2bf6cfc8-5691-4bc4-ae38-8983a0e76685",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent a46477a5847d16f08（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "第八位冷讀者（第六輪修正後第三位）：回述正確、四題全答得出、sideTaking「沒有直接替任一方背書」。八位冷讀者累計：兩次同指的「替主計總處順序找台階」（4、5）與「這一步是算術」（4、7）已修，修後 6、7、8 均不再讀出黨派站邊；7 判 ship，6、8 的 revise 都落在口徑密度與回聲重複——口徑對照框位置在第二節開頭已是最前（緊接第一次出現 49,491 之處），「兩欄之間」三處是投影骨架的頭尾回聲（第三輪已由五處減至三處）。收尾「較貼近不要用統計粉飾那一側」屬 MANIFESTO §13 為尺外的人寫，不是替在野黨背書（正文同時保留主計總處全部原話）。「移工過線靠的是加班」句前一句即「依這組平均數推算」，限制已揭露。停在這裡，不再開新一輪（REFLEXES：冷讀迴圈無限收斂是規格債的另一種形式）。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第 43-50 行口徑對照框位置；第 61／226／251 行修正處"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission-8.json",
+      "location": "data.sideTaking / fourChecks / readerVerdict"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}
