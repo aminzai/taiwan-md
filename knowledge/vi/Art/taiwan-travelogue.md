@@ -25,19 +25,15 @@ imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
 sporeLinks:
-  - id: 84
-    platform: 'threads'
-    date: '2026-05-23'
-    url: 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'
-  - id: 85
-    platform: 'x'
-    date: '2026-05-23'
-    url: 'https://x.com/taiwandotmd/status/2058211699229134864'
+  [
+    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
+    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
+  ]
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
-sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:d4818d717761979b'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
+translatedAt: '2026-09-18T08:00:04.969470+00:00'
 ---
 
 ![Dương Tứ Tử tại lễ trao giải Giải thưởng Sách Quốc gia Mỹ lần thứ 75 ngày 20 tháng 11 năm 2024 tại New York, mặc áo khoác sẫm màu, đứng cạnh chiếc cúp vàng với biểu cảm bình tĩnh](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
@@ -144,31 +140,31 @@ Khi phỏng vấn với _Người Đưa Tin_, Dương Tứ Tử đặt vấn đ�
 
 > 📝 **Ghi chú của nhà phê bình**: Nhân sự đạt giải phổ biến là "người Đài Loan đầu tiên" "vinh dự cho đất nước". Nhưng nếu lắng nghe cẩn thận hai bài phát biểu nhận giải của Dương Tứ Tử, cách diễn đạt của cô rất phê phán. Cô nói "có thể sinh ra là người Đài Loan, là may mắn của tôi; có thể đứng tại đây với tư cách một nhà văn Đài Loan, là tự hào của tôi", không phải "vinh dự cho Đài Loan". Điểm khác biệt là gì? Cái trước nhúng chìm chính mình vào dòng chảy văn học trăm năm của Đài Loan, cái sau là xem giải thưởng như một bằng khen quốc gia. Cô hiểu rõ bản thân đang nắm lấy chiếc gậy "hơn một trăm năm đặt câu hỏi", không phải vinh dự cá nhân.
 
-## Lời kết được một người đã chết năm năm trước viết
+## Nhận xét bởi một người đã khuất năm năm trước
 
-Ngày 19 tháng 6 năm 2015 buổi tối, Dương Nhạc Hui từ phòng chăm sóc giảm nhẹ quay về và ngừng thở 11 ngày sau. Đêm hôm đó, Dương Nhạc Từ mở cuốn sổ tay đầu tiên mà em để lại, bắt đầu ghi chi tiêu của ngày hôm sau. Cô mất ba ngày để hiểu được những dấu kiểm, dấu vòng tròn, hình tam giác—những ký hiệu chỉ có em gái biết.
+Vào chiều ngày 19 tháng 6 năm 2015, Dương Nhạc Từ trở về từ phòng chăm sóc sức khỏe cuối đời, đúng 11 ngày sau đó cô đã ngừng thở. Trong ngày đó, Dương Nhạc Hui mở cuốn sổ nhật ký đầu tiên của người em gái, bắt đầu ghi chép chi phí cho ngày hôm sau. Cô mất ba ngày để giải mã những dấu tích, vòng tròn và tam giác — những mật mã chỉ có riêng người em mới hiểu.
 
-Đúng 11 cuốn sổ tay, ghi từ năm 1999 khi chị em 15 tuổi cho đến ngày trước khi em gái mất. Mỗi đồng xu đều được ghi lại.
+Đúng 11 cuốn sách, từ năm 1999 khi hai chị em còn 15 tuổi cho đến ngày trước khi người em qua đời. Mỗi đồng tiền đều được ghi chép.
 
-Năm năm sau, mùa xuân 2020, Xuân Sơn xuất bản một cuốn sách. Bìa sách ghi "Thanh Sơn Thiên Hạc Tử tác / Dương Tứ Tử dịch". Cuốn sách lật tới trang cuối cùng "Lời kết của dịch giả", ký tên "Dương Nhạc Hui". Đó là một người đã chết năm năm trước, với lối viết của một dịch giả, bổ sung bối cảnh của "tác giả gốc" Thanh Sơn Thiên Hạc Tử, liệt kê những chú thích hư cấu.
+Năm năm sau đó, vào mùa xuân năm 2020, nhà xuất bản Chương Sơn tung ra một cuốn sách. Bìa sách ghi tên "Thái Anh Văn · tác giả / Dương Nhị Đôi · dị giả". Lật đến trang cuối cùng, phần "Nhận xét của dị giả" ký tên là "Dương Nhạc Từ". Đó là một người đã khuất năm năm trước, trong lời nhận xét này, dùng giọng điệu của một người dị giả để kể lại câu chuyện của "tác giả gốc" Thái Anh Văn, kèm theo những chú thích giả tạo.
 
-Lại năm năm rưỡi sau, tháng 5 năm 2026 trên bục trao giải Luân Đôn, Dương Tứ Tử mặc đen lên bục, Kim Lăng bên cạnh. Năm vị đồng tác giả bình giám giải thưởng Booker vừa lựa chọn 6 cuốn sách từ 128 cuốn, sau đó chọn ra một cuốn tiểu thuyết tiếng Trung từ sáu cuốn đó. Dương Tứ Tử phát biểu bốn phút, không nhắc đến hai chữ "em gái".
+Năm năm và nửa sau đó, vào tháng 5 năm 2026 tại sân khấu London, Dương Nhị Đôi mặc trang phục đen lịch lãm lên sân khấu, Dương Nhạc Hui đứng bên cạnh. Dưới sân khấu, năm giám khảo Giải thưởng Booker vừa chọn ra 6 cuốn sách từ tổng số 128 cuốn, rồi lại chọn ra cuốn sách tiếng Việt duy nhất này. Dương Nhị Đôi nói trong bốn phút, không đề cập đến từ "em gái".
 
-Nhưng cô đã nói một câu trong cuộc phỏng vấn với _Nhân Vật Ưu_, có thể dùng làm chú thích cho bài phát biểu trên bục này: "Giá như kết quả này xuất hiện sớm hơn một chút, em gái cũng có thể thấy được."[^34]
+Nhưng cô từng nói trong cuộc phỏng vấn với tạp chí Nhân Vật Ưu, còng như một ghi chú sau buổi lễ này: "Thật tốt nếu kết quả này đến sớm hơn một chút, em có lẽ cũng sẽ được thấy."[^34]
 
-Sổ tay là bí mật mã Dương Nhạc Hui để lại cho chị. Cuốn sách là vị trí Dương Nhạc Từ để lại cho em.
+Cuốn sổ nhật ký là mật mã của Dương Nhạc Từ để lại cho người chị gái. Cuốn sách đó là vị trí của Dương Nhạc Hui để lại cho người em gái.
 
-![Dương Tứ Tử tại lễ chung kết Giải thưởng Sách Quốc gia Mỹ ngày 19 tháng 11 năm 2024 tại New York, tập trung đọc, đeo kính, nhìn xuống thảo thư](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
-_Ngày 19 tháng 11 năm 2024, lễ đọc của những cái tên đạt rút gọn (finalist reading) của Giải thưởng Sách Quốc gia Mỹ, Dương Tứ Tử tại New York đọc một đoạn trích tiếng Anh từ *Tân Lục Mạn Du Đài Loan*. Đêm hôm sau, cô chính thức giành Giải thưởng Văn học Dịch thuật. Photo: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg), CC BY-SA 4.0._
+![Dương Nhị Đôi vào ngày 19 tháng 11 năm 2024 tại buổi đọc truyện cho các ứng cử viên Giải thưởng Sách Quốc gia Mỹ tại New York, đang tập trung đọc, đeo kính và nhìn vào tài liệu](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
+_19 tháng 11 năm 2024, buổi đọc truyện cho các ứng cử viên cuối cùng của Giải thưởng Sách Quốc gia, Dương Nhị Đôi đọc đoạn tiếng Anh của 《Tân Lục Mạn Du Đài Loan》 tại New York. Đêm hôm đó cô chính thức giành giải Văn học Dị thuật. Ảnh: Bea Phi (Phibeatrice), [qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng%20Shu%C4%81ng-z%C7%90,%20writer,%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%203.jpg), CC BY-SA 4.0._
 
-**Đọc mở rộng**:
+**Đọc thêm**:
 
-- [Văn học thời kỳ Nhật trị](/art/日治時期文學) — Bối cảnh thời gian của _Tân Lục Mạn Du Đài Loan_ 1938, các tác giả như Dương Thiên Hạc, Lại Hoà, Long Anh Tông mở ra dòng viết về nữ tính và địa phương
-- [Văn học Đài Loan đương đại](/art/當代台灣文學) — Thế hệ của Dương Tứ Tử tiếp nối cách viết địa phương từ Ngô Minh Ích, Lâm Dạ Hàm, Lạc Dĩ Quân, bước vào thị trường văn học dịch quốc tế
-- [Văn học Đài Loan sau khi bãi bỏ thiết quân luật](/art/解嚴後台灣文學) — Từ năm 1987 khi bãi bỏ thiết quân luật đến những năm 2020, dòng viết nữ tính, dòng viết của người LGBTQ+, làn sóng văn học ngôn ngữ bản địa, truyền thống "百合" của Dương Tứ Tử đến từ đây
-- [Lịch sử văn học Đài Loan](/art/台灣文學史) — Bối cảnh toàn thể của "hơn một trăm năm đặt câu hỏi" mà Dương Tứ Tử nói đến khi nhận giải
-- [Chu Thiên Văn](/people/朱天文) — Nhà văn đại diện cho văn học nữ tính sau khi bãi bỏ thiết quân luật, các tác phẩm _Ghi chép kẻ lạc lõi_ và _Thành phố cổ_ có kỹ thuật giả dịch là tiền đề quan trọng của cấu trúc giả dịch trong văn học Đài Loan
-- [Ngô Minh Ích](/people/吳明益) — Một nhà văn đại diện Đài Loan khác trong làn sóng văn học dịch quốc tế những năm 2020, _Mắt kép_, _Ký sự mất xe đạp_ có tầm nhìn trong thế giới tiếng Anh
+- [Văn học thời kỳ Nhật thuần](/vi/art/taiwanese-literature-during-japanese-rule) — Bối cảnh thời gian của 《Tân Lục Mạn Du Đài Loan》 năm 1938, bối cảnh văn học của Đài Loan trong một trăm năm, cùng với bối cảnh phụ nữ và bản địa hóa của Thái Anh Văn, Lại Hòa, Long Doãn Tông
+- [Văn học Đài Loan hiện đại](/vi/art/contemporary-taiwanese-literature) — Thế hệ của Dương Nhị Đôi kế thừa bối cảnh bản địa hóa của Wu Bảo Lợi, Linh Dĩ Hân, Lạc Dĩ Quân, hướng tới thị trường văn học dị thuật quốc tế
+- [Văn học Đài Loan sau giải mã trận](/vi/art/post-martial-law-taiwanese-literature) — Từ năm 1987 giải mã trận cho đến những năm 2020, sóng gió của văn học phụ nữ, văn học đồng tính và văn học tiếng mẹ đẻ, truyền thống "lá phong" của Dương Nhị Đôi xuất phát từ đây
+- [Lịch sử văn học Đài Loan](/vi/art/history-of-taiwanese-literature) — Bối cảnh tổng thể tương ứng với câu nói "trăm năm tìm hiểu" của Dương Nhị Đôi khi nhận giải
+- [Chu Thiên Văn](/vi/people/chu-tien-wen) — Nhà văn đại diện cho văn học phụ nữ sau giải mã trận, 《Quê Nhớ》 và 《Kinh Thành》 của cô là tiền thân quan trọng cho cấu trúc dị giả hư lòng trong văn học Đài Loan
+- [Wu Bảo Lợi](/vi/people/wu-ming-yi) — Cũng là nhà văm học đại diện của Đài Loan trong sóng dị thuật quốc tế thập niên 2020, 《Người Mắt Nhiều》 và 《Nhật Ký Mất Xe Đạp》 đang được chú ý ở thế giới tiếng Anh
 
 ## Nguồn gốc hình ảnh
 

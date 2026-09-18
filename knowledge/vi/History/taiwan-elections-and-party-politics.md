@@ -24,10 +24,10 @@ updateLog:
     "{'date': '2026-05-27', 'changes': 'EVOLVE Round 2：append §2024 後的政治版圖（朝小野大 / 2025 大罷免 / 藍白合 2026/03/18 協議 / 民進黨派系演化 / 國民黨派系演化）+ 20 新腳註'}",
   ]
 translatedFrom: 'History/台灣選舉與政黨政治.md'
-sourceCommitSha: '2e0cc381d'
-sourceContentHash: 'sha256:f462ef48505faa9b'
-sourceBodyHash: 'sha256:019ea30197aa5f25'
-translatedAt: '2026-07-28T05:45:51+08:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:bee6db6cebb342a7'
+sourceBodyHash: 'sha256:cf2cbcf164430410'
+translatedAt: '2026-09-18T08:40:50.153946+00:00'
 ---
 
 # Chọn kỵ và chính trị đảng ở Đài Loan
