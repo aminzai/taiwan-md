@@ -1,0 +1,70 @@
+{
+  "revision": 58,
+  "submissionId": "a07937f0-05c0-4fb9-83f4-cc0cc703b710",
+  "actor": "guide_verify_reviewer (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "親跑 5 條 mechanicalChecks（article-health 全掃、--profile=rewrite-stage-4、prose-flow.py、image-ingest.mjs check 三張圖、research-report-health.py --tier=depth），退出碼與輸出內容跟 verify-*.txt 工件逐位元組完全相同（diff 無輸出）。footnote-url 網路檢查未整條重跑，改抽樣親 curl 24 條警告 URL 中的 6 條（ctee/cy.gov.tw/ftc.gov.tw/兩條 moea.gov.tw/law.moj.gov.tw），全部回 HTTP 200，與 verify-footnote-curl.txt 記錄一致。親核 5 條指定承重原子加 1 條自選：①中油 9/12 稿 115.61/99.82/12.29%/3.7/6.8/0.7/198.5 逐字命中本機 sources/ey-cpc-20260912.txt；②經濟部 9/3 稿 4,217.69/1,809.35/1,014.31/711.04/84/2,338.34/70 與『油氣』用語逐字命中本機 sources/ey-moea-4217.txt；③工商時報 3/22 現場五細節逐字命中本機 sources/ctee-queue-0322.txt；④中油 4/8 澄清稿（sources/ 目錄缺本機檔，改用 curl -sL -A Mozilla/5.0 親抓活頁 HTTP 200）逐字命中『不僅未超收⋯已逾90.6億元』與運費保險費貼水那段省略號節錄；⑤2018/5/11 平穩機制公告逐字命中本機 sources/cpc-2018-stabilization.txt 第254-260行四級距與比例；⑥（自選）經濟日報4/8稿（sources/亦缺本機檔，curl 活頁 HTTP 200）861/792/6,129/3,500/3,000/1,687 六數字逐字命中，另順手核對正文開頭『借款近7000億、利息100多億』（footnote 24）與『負債比近93%』（footnote 25）兩個不同來源的數字被併入同一句只掛一個腳註，屬歸屬精度小瑕疵但兩邊數字皆屬實非幻覺。tw-stack/tw-waffle/tw-figure 45.4 三張圖表回源核對：欄位加總與百分比換算算術自洽，且與來源逐字一致，43.2與45.4兩個不同週基準未被混為一談。unresolved 五條逐一比對正文，確認正文只寫『新聞稿沒有解釋/沒有寫/沒有對齊』而非偷渡斷言，未發現該列未列的斷言。唯一非阻擋性發現：sources/ 目錄對footnote 26、28（及24/25部分數字）缺本機逐字存檔，用活頁重新抓取驗證內容無誤，是可歸檔性缺口而非事實錯誤，建議記入 release remainingLimits，不影響本輪 verdict。",
+  "contextDisclosure": "fresh-context-verify-inputs",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/verify-submission.json",
+      "location": "全文，含 revision 57 sourceChecks 6 項、mechanicalChecks 11 項、unresolved 5 項"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "全文；重點段落：s2 中油9/12稿算式、tw-stack、s3 累計吸收線兩張 tw-line、s4 2018年公告段、s5 借款7000億/利息100億句、s6 tw-waffle 與 tw-bars、s7 亞鄰四國、s8 IMF/魏季宏/廖惠珠段、結尾 tw-figure 45.4、腳註 [^1][^4][^5][^19][^22][^24][^25][^26][^27][^28]"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§4 引語庫、§6 fact-pack、§7 驗證表 39 條、§10 12處更正回填、§11 查無事項記錄"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油-sources/ey-cpc-20260912.txt",
+      "location": "全文，115.61/99.82/12.29%/3.7/6.8/0.7/198.5"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油-sources/ey-moea-4217.txt",
+      "location": "第96-104行，4,217.69/1,809.35/1,014.31/711.04/84/2,338.34/70/28.9/45.4"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油-sources/ctee-queue-0322.txt",
+      "location": "全文，8點半排隊/三角錐/小發財車4-5油桶/婦女省36元/陳姓阿嬤油箱是滿的"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油-sources/cpc-2018-stabilization.txt",
+      "location": "第254-260行，107-05-11公告四級距25%/50%/75%"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油-sources/ltn-budget-breakdown.txt",
+      "location": "第85、88、91行，1875/1014/84/711/26/40億與賴建信引語"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-health-full.txt",
+      "location": "全文，與親跑 article-health.py 輸出 diff 相同"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-health-stage4.txt",
+      "location": "全文，與親跑 --profile=rewrite-stage-4 輸出 diff 相同"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-prose-flow.txt",
+      "location": "全文，與親跑 prose-flow.py 輸出 diff 相同"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-image-ingest.txt",
+      "location": "全文，與親跑 image-ingest.mjs check 輸出 diff 相同（去ANSI後）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-research-health.txt",
+      "location": "全文，與親跑 research-report-health.py 輸出 diff 相同"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-footnote-curl.txt",
+      "location": "全文，24條中抽樣6條親curl覆核一致"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-review.md",
+      "location": "全文"
+    }
+  ]
+}
