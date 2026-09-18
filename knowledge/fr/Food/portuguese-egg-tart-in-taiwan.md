@@ -1,137 +1,133 @@
 ---
-title: 'Tartelettes aux œufs : du monastère de Macao à la mémoire collective taïwanaise de l’« engouement collectif »'
-description: 'En 1998, une « crise des tartelettes aux œufs » faite d’essor fulgurant et d’effondrement brutal a non seulement défini à Taïwan les comportements de consommation « moutonniers », mais a aussi contraint KFC à s’y transformer en « boutique de tartelettes aux œufs retardée par le poulet frit ».'
+title: 'Le pastel de nata : du couvent de Macao à la mémoire collective « en essaim » de Taïwan'
+description: "L'émeute du pastel de nata de 1998, brève et intense, a non seulement défini le comportement de consommation « en essaim » de la société taïwanaise, mais a aussi contraint KFC à Taïwan à se reconvertir en « boutique de pastéis de nata dont le poulet frit a détourné la vocation »."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
-    'tartelette aux œufs',
-    'effet tartelette aux œufs',
+    'pastel de nata',
+    'effet pastel de nata',
     'KFC',
-    'cuisine taïwanaise',
+    'gastronomie taïwanaise',
     'psychologie de la consommation',
   ]
-readingTime: 6
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 6
 image: '/article-images/food/dan-ta-hero.webp'
 imageCredit: 'ProjectManhattan / Wikimedia Commons'
 imageLicense: 'CC0 1.0 Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Egg_tart.jpg'
 translatedFrom: 'Food/蛋撻.md'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:97dd164af6e04522'
-sourceBodyHash: 'sha256:c821b247831a9b89'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:e6a3985c0d14509b'
+sourceBodyHash: 'sha256:2199caf3c188c46a'
+translatedAt: '2026-09-18T00:53:04+08:00'
 ---
 
 > **Aperçu en 30 secondes :**
-> À Taïwan, la tartelette aux œufs n’est pas seulement un dessert : elle a donné son nom, en économie, à l’« effet tartelette aux œufs ». Depuis les files d’attente provoquées par l’arrivée des tartelettes portugaises en 1998 jusqu’à la fermeture de centaines de boutiques en quelques mois, ce petit disque feuilleté au caramel a enregistré l’anxiété et l’enthousiasme collectifs des consommateurs de l’île. Aujourd’hui, la tartelette aux œufs est passée du statut d’icône éphémère de la mode à celui de compétence centrale des chaînes de restauration rapide et de terrain d’expérimentation pour une nouvelle génération de techniques « millefeuille ».
+> Le pastel de nata à Taïwan n'est pas qu'une simple pâtisserie, c'est le nom de code de l'« effet pastel de nata » en économie. De la frénésie des files d'attente déclenchée par l'arrivée du pastel de nata portugais en 1998 à la faillite de centaines de boutiques en quelques mois, ce petit rond feuilleté aux taches caramélisées a consigné l'anxiété collective et la ferveur des consommateurs insulaires. Aujourd'hui, le pastel de nata a évolué, passant d'un totème éphémère à un atout concurrentiel central des chaînes de restauration rapide et à un terrain d'expérimentation pour la nouvelle génération de techniques « mille-feuilles ».
 
 ---
 
-## 1998 : l’anxiété collective d’une île
+## 1998 : l'anxiété collective de l'île cette année-là
 
-En 1998, dans la rue Dalian à Taipei, l’air était saturé d’un parfum dense de beurre et d’œuf. Ce n’était pas une simple odeur de boulangerie-pâtisserie, mais celle de l’« argent ». À l’époque, tout Taïwan était plongé dans une frénésie que les générations suivantes appelleraient la « crise des tartelettes aux œufs ». Les gens acceptaient de faire deux heures de queue sous un soleil brûlant pour acheter une boîte de tartelettes portugaises tout juste sorties du four, marquées de taches noircies.
+En 1998, sur la route Dalan à Taipei, l'air était saturé d'un parfum intense de beurre et d'œuf. Ce n'était pas l'odeur habituelle d'une boulangerie, mais le parfum de l'« argent ». À l'époque, toute Taïwan était plongée dans une frénésie que la postérité a baptisée « l'émeute du pastel de nata ». Les gens acceptaient de faire la queue deux heures sous un soleil de plomb, juste pour s'offrir une boîte de pastéis de nata tout juste sortis du four, arborant leurs taches noirâtres caractéristiques.
 
-Les reportages de l’époque décrivaient des boutiques de tartelettes surgissant partout, dans les grandes artères comme dans les ruelles, au point que même des magasins de téléphonie et des pharmacies se reconvertissaient dans leur vente. Pourtant, cet engouement s’est refroidi en moins d’un an : des centaines de commerces ont fermé les uns après les autres, ne laissant derrière eux que des enseignes vides et une expression ensuite largement citée : **l’« effet tartelette aux œufs »** [^1].
+Les médias de l'époque décrivaient les boutiques de pastéis de nata poussant comme des bambous après la pluie dans les rues et ruelles, au point que des magasins de téléphonie et des pharmacies se reconvertissaient dans la vente de pastéis de nata. Pourtant, cet engouement s'essouffla en moins d'un an, des centaines de points de vente fermèrent les uns après les autres, ne laissant derrière eux que des enseignes vides et un terme qui allait être largement cité par la suite : **l'« effet pastel de nata »** [^1].
 
-📝 Note du curateur : la passion des Taïwanais pour les tartelettes aux œufs ne relevait pas d’une simple quête de dessert, mais d’une expérience sociale autour de la « rareté » et de l’« anxiété collective ».
+📝 Note du commissaire : La frénésie des Taïwanais pour le pastel de nata ne relevait pas d'une quête gustative, mais d'une expérience sociale autour de la « rareté » et de l'« anxiété collective ».
 
-## Du monastère de Lisbonne à Coloane, Macao
+## Du couvent de Lisbonne à Coloane, Macao
 
-L’origine de la tartelette aux œufs portugaise, ou pastéis de nata, remonte au Lisbonne du XIXe siècle. Dans le quartier de Belém, au monastère des Hiéronymites (Mosteiro dos Jerónimos), les religieuses utilisaient de grandes quantités de blancs d’œufs pour amidonner les habits monastiques ; les jaunes restants étaient transformés en dessert [^2].
+L'origine du pastel de nata portugais (Pastéis de Nata) remonte au XIXe siècle, dans le quartier de Belém à Lisbonne. Au monastère des Hiéronymites (Mosteiro dos Jerónimos), les religieuses utilisaient de grandes quantités de blancs d'œuf pour amidonner leurs habits ; les jaunes restants furent transformés en pâtisserie [^2].
 
-Ce dessert a ensuite traversé les mers jusqu’à Macao. En 1989, le Britannique Andrew Stow ouvrit la Lord Stow’s Bakery dans la rue Taipa à Coloane, Macao. Il modifia la recette portugaise traditionnelle en abandonnant la poudre à crème, en utilisant de la crème, des œufs et du lait, et en réduisant la teneur en sucre : c’est ainsi qu’est née la « tartelette portugaise à la macanaise » que les Taïwanais connaissent aujourd’hui [^3]. Après le divorce d’Andrew et de son épouse Margaret Wong en 1997, Margaret établit sa propre enseigne sur la péninsule de Macao pour vendre le même type de tartelette, puis concéda la recette sous licence à KFC, ouvrant la légende des tartelettes portugaises dans les chaînes asiatiques [^4].
+Cette pâtisserie traversa ensuite l'océan pour atteindre Macao. En 1989, l'Anglais Andrew Stow ouvrit la « Andrew's Bakery » (安德魯餅店) sur la rue da Taipa à Coloane. Il modifia la recette traditionnelle portugaise : il abandonna la poudre à flan, remplaça par de la crème, des œufs et du lait, et réduisit le sucre, donnant naissance au « pastel de nata style Macao » que les Taïwanais connaissent aujourd'hui [^3]. Après son divorce d'avec sa femme Margaret Wong en 1997, cette dernière s'installa de son côté sur la péninsule de Macao pour vendre le même pastel de nata, puis céda la recette à KFC, ouvrant ainsi la légende du pastel de nata dans les réseaux de franchises asiatiques [^4].
 
-![Dans une rue de Macao, un bâtiment de brique rouge avec l’enseigne « Lord Stow’s Bakery » au-dessus de la porte ; quelques passants devant la devanture](/article-images/food/dan-ta-02-2023.webp)
-_Façade de la Lord Stow’s Bakery, rue Rua do Cunha à Taipa, Macao (février 2023). Le Britannique Andrew Stow y fonda l’enseigne en 1989, à Coloane ; sa recette portugaise revisitée fut la source de l’engouement taïwanais pour les tartelettes portugaises en 1998. Photo : LN9267. CC BY-SA 4.0 via Wikimedia Commons._
+![Une bâtisse en brique rouge dans une rue de Macao, l'enseigne Lord Stow's Bakery à l'entrée, des passants devant la boutique](/article-images/food/dan-ta-02-2023.webp)
+_Façade de Lord Stow's Bakery, rua do Regedor à Taipa, Macao (février 2023). L'Anglais Andrew Stow fonda cette boutique à Coloane en 1989 ; sa recette améliorée devint la source de la fièvre du pastel de nata à Taïwan en 1998. Photo : LN9267. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lord%20Stow%27s%20Bakery%20Rua%20do%20Cunha%20shop%2001-02-2023.jpg)._
 
-[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg)
+## La boutique de pastéis de nata dont le poulet frit a détourné la vocation
 
-## La boutique de tartelettes retardée par le poulet frit
+Avant 1998, le menu de KFC à Taïwan ne proposait pas de pastel de nata [^5]. Face à la fièvre du pastel de nata portugais, KFC introduisit la recette de Margaret Wong. Ironie du sort : alors que les boutiques spécialisées fermaient les unes après les autres, KFC, grâce à sa production standardisée et sa qualité stable, récupéra par inadvertance toute la demande résiduelle.
 
-Avant 1998, le menu de KFC à Taïwan ne proposait pas de tartelettes aux œufs [^5]. Pour répondre à l’engouement autour des tartelettes portugaises, KFC introduisit alors la recette de Margaret. Ironie de l’histoire : tandis que les boutiques spécialisées de tout Taïwan fermaient les unes après les autres, KFC, grâce à une production standardisée et à une qualité stable, récupéra par accident toute la demande qui subsistait sur le marché.
+Vers 2022, KFC lança une opération marketing laissant entendre l'arrêt imminent du pastel de nata, provoquant l'indignation générale des consommateurs taïwanais, inquiets de voir disparaître ce produit emblématique. Il s'avéra n'être qu'un coup de publicité pour lancer de nouvelles saveurs, mais cet épisode confirma une fois de plus le statut irremplaçable du pastel de nata dans le cœur des Taïwanais — il était passé du statut de « phénomène de mode » à celui de « tradition » [^6].
 
-Vers 2022, KFC lança une opération marketing laissant entendre que les tartelettes aux œufs allaient bientôt être retirées de la vente. Elle provoqua des lamentations parmi les consommateurs taïwanais, inquiets de voir ce produit classique disparaître. Il s’avéra finalement qu’il ne s’agissait que d’un coup publicitaire pour lancer une nouvelle saveur de tartelette, mais l’épisode confirma une nouvelle fois son caractère irremplaçable dans le cœur des Taïwanais : elle était passée de la « mode » à la « tradition » [^6].
+📝 Note du commissaire : Lorsqu'on plaisante en disant qu'une marque est « la boutique spécialisée dont l'activité principale a détourné la vocation », c'est généralement le signe que son succès dans l'activité secondaire est devenu un symbole culturel.
 
-📝 Note du curateur : lorsqu’une marque est qualifiée, sur le ton de la plaisanterie, de « boutique spécialisée empêchée », cela signifie généralement que ses réussites dans une activité secondaire sont déjà devenues un symbole culturel.
+## La querelle des variétés : de la pâte sablée au « mille-feuilles à petites fleurs »
 
-## La querelle des types : de la base biscuitée au « petit fleur » millefeuille
+Le marché taïwanais du pastel de nata ne se limite pas au style portugais. Avant l'arrivée de ce dernier, le pastel de nata le plus courant à Taïwan était le « pastel de nata traditionnel » à la croûte plus dure, hérité de la farine de l'aide américaine des années 1950 ; cette pâtisserie existe à Taïwan depuis un demi-siècle [^7].
 
-Le marché taïwanais des tartelettes aux œufs ne se limite pas au style portugais. Avant l’arrivée des tartelettes portugaises à Taïwan, la forme courante était la « tartelette aux œufs traditionnelle », à la pâte plus ferme, influencée par la farine de blé apportée par l’aide américaine dans les années 1950. Ce dessert existe à Taïwan depuis un demi-siècle [^7].
+### Pastel de nata portugais : taches de caramel et feuilletage plié
 
-### Tartelette portugaise : tigrures caramélisées et feuilletage laminé
+La caractéristique la plus visible du pastel de nata portugais (Pastel de Nata) réside dans ses **taches noires caramélisées** en surface. Ce n'est pas une surcuisson, mais le fruit de la réaction de Maillard entre les sucres et les matières grasses de la garniture à haute température, conférant au pastel de nata sa saveur unique, à la fois amère et douce [^10].
 
-La caractéristique la plus visible de la tartelette portugaise (pastel de nata) est la présence de **taches noires caramélisées** à sa surface. Elles ne signalent pas une cuisson excessive : elles proviennent de la réaction de Maillard entre les sucres de la garniture et le beurre à haute température, qui donne à la tartelette sa profondeur douce-amère particulière [^10].
+Sur le plan technique, le pastel de nata portugais utilise la méthode du « feuilletage plié en couches ». On enveloppe le beurre dans la pâte, on plie et réfrigère à répétition, on roule en cylindre, on tranche, puis on presse manuellement dans les moules. Cette technique donne au fond du pastel un motif en spirale, une texture épaisse et des couches nettes, produisant un « craquement » net à la morsure [^11].
 
-Sur le plan technique, la tartelette portugaise repose sur un feuilletage laminé. Il faut envelopper du beurre dans la pâte, la plier à plusieurs reprises, la réfrigérer, puis l’enrouler en cylindre avant de la découper en tranches et de la presser à la main dans un moule. Cette méthode produit une texture spiralée au fond de la tartelette, avec une bouchée dense et nettement stratifiée qui émet un « crac » bien distinct lorsqu’on la mord [^11].
+### Pastel de nata taïwanais et hongkongais : pâte pressée et feuilletage chinois, une simplicité authentique
 
-### Tartelettes taïwanaises et hongkongaises : simplicité de la pâte pincée et du feuilletage chinois
+Avant la mode du pastel de nata portugais, Taïwan et Hong Kong privilégiaient les pastéis de nata à croûte lisse. Ils se divisent en deux grandes familles :
 
-Avant la popularité des tartelettes portugaises, le courant dominant à Taïwan et à Hong Kong était la tartelette à pâte lisse. Ces tartelettes se divisent principalement en deux écoles :
+- **Pâte pressée (croûte sablée / 曲奇皮)** : C'est la méthode la plus traditionnelle du « dan ta » (蛋塔) à Taïwan. La croûte mélange beurre, farine et œufs, sans pliage ; sa texture se situe entre la pâte à tarte et le sablé. La garniture présente généralement une surface lisse et brillante, miroir, avec une texture ferme et un parfum lacté prononcé [^12].
+- **Feuilletage chinois** : Courant dans les cha chaan teng traditionnels. Contrairement au feuilletage occidental du pastel de nata portugais, le feuilletage chinois utilise traditionnellement du saindoux ou de l'huile végétale, selon la méthode du « feuilletage gras enveloppant la pâte à eau » (油酥包油皮) par pliages inversés. Ses couches sont d'une finesse extrême, friables au toucher, recherchant un parfum d'huile délicat plutôt qu'une richesse beurrée [^13].
 
-- **Pâte pincée, ou pâte sablée** : c’est la méthode la plus traditionnelle à Taïwan pour la « tartelette aux œufs ». La pâte est composée de beurre, de farine et d’œufs, sans pliage ; sa texture se situe entre la pâte à tarte et le biscuit. Sa garniture présente généralement une surface parfaitement lisse et brillante, avec une texture ferme et un parfum lacté prononcé [^12].
-- **Feuilletage chinois** : courant dans les cha chaan teng traditionnels, ces cafés-restaurants hongkongais populaires. Contrairement au feuilletage occidental des tartelettes portugaises, le feuilletage chinois utilise généralement du saindoux ou de l’huile végétale et recourt à la méthode traditionnelle consistant à envelopper une pâte huileuse dans une pâte détrempée, puis à la replier. Ses couches sont extrêmement friables, se brisant au moindre contact ; l’accent porte sur un parfum d’huile léger plutôt que sur une sensation riche de beurre [^13].
+![Sur un plateau en bois, trois pâtisseries de Tai Chong Bakery : pain à l'ananas beurré à gauche, pain cocktail au centre, pastel de nata signature à droite](/article-images/food/dan-ta-01-2019.webp)
+_Pastel de nata signature de Tai Chong Bakery (à droite) et pâtisseries hongkongaises, Banqiao, Nouveau Taipei, 2019. Tai Chong est une vieille enseigne hongkongaise implantée à Taïwan, illustrant le lignage du pastel de nata style Hong Kong dans les rues taïwanaises. Photo : bryan… (Flickr 91049143@N00). [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Food%20%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C%20%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C%20%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C%20%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C%20%E6%9D%BF%E6%A9%8B%2C%20%E6%96%B0%E5%8C%97%E5%B8%82%2C%20%E5%8F%B0%E7%81%A3%2C%20New%20Taipei%20City%2C%20Taiwan%20%2847201805022%29.jpg)._
 
-![Sur un plateau en bois, trois pâtisseries de la maison Tai Cheong Bakery alignées : à gauche un bolo de ananas au beurre, au milieu un cocktail bun, à droite une tartelette aux œufs « Royale »](/article-images/food/dan-ta-01-2019.webp)
-_La tartelette « Royale » de Tai Cheong Bakery (à droite) et d’autres pâtisseries de style hongkongais, à Banqiao, Nouvelle-Taipei, en 2019. Tai Cheong est une enseigne hongkongaise historique également implantée à Taïwan, qui incarne la filiation hongkongaise des tartelettes aux œufs dans les rues taïwanaises. Photo : bryan… (Flickr 91049143@N00). CC BY-SA 2.0 via Wikimedia Commons._
+### Mille-feuilles pastel de nata : le retour extrême de la technique en 2024
 
-[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C_%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C_%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C_%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C_%E6%9D%BF%E6%A9%8B%2C_%E6%96%B0%E5%8C%97%E5%B8%82%2C_%E5%8F%B0%E7%81%A3%2C_New_Taipei_City%2C_Taiwan_%2847201805022%29.jpg)
+En 2024, Taïwan a connu une nouvelle vague de « mille-feuilles pastel de nata ». Visuellement, ce pastel de nata arbore un motif rayonnant de « petites fleurs » ; sa différence technique majeure avec le pastel de nata portugais traditionnel réside dans le **façonnage et le moule**.
 
-### Tartelette millefeuille : renaissance technique extrême en 2024
+Le mille-feuilles pastel de nata utilise généralement du beurre français de haute qualité (comme le beurre Montaigu) et de la farine japonaise, pour une croustillance extrême. Au lieu de rouler et trancher le feuilletage, on presse directement les multiples couches de pâte dans des moules à petites fleurs spécialisés, qui s'épanouissent comme des pétales à la cuisson [^14]. La garniture emploie souvent de la crème fraîche à forte teneur en matière grasse (comme la crème Nakazawa), créant une texture de cœur coulant proche du pudding [^15].
 
-En 2024, Taïwan a connu une nouvelle vague d’engouement pour les « tartelettes millefeuille ». Visuellement, cette tartelette présente un séduisant motif radial en « petite fleur » ; sa principale différence technique avec la tartelette portugaise traditionnelle tient au **façonnage et au moule**.
+📝 Note du commissaire : Du « fond sablé » du pastel de nata traditionnel aux « pétales feuilletés » du mille-feuilles, l'histoire du pastel de nata est une course à l'armement taïwanaise pour la « croustillance » et le « parfum lacté ».
 
-La tartelette millefeuille utilise généralement un beurre français de haute qualité, comme le beurre Montaigu, et de la farine japonaise, dans une recherche de croustillant maximal. Au lieu d’enrouler la pâte feuilletée puis de la découper en tranches, on presse directement une pâte multilamellaire abaissée dans un moule spécial en forme de petite fleur, afin qu’elle s’ouvre à la cuisson comme des pétales [^14]. La garniture emploie souvent une crème fraîche plus riche en matière grasse, comme la crème Nakazawa, pour créer une texture coulante proche du pudding [^15].
+## Les leçons contemporaines de l'effet pastel de nata
 
-📝 Note du curateur : de la « base biscuitée » des tartelettes traditionnelles à la « pâte feuilletée en pétales » des tartelettes millefeuille, l’histoire de l’évolution des tartelettes aux œufs est une course à l’armement taïwanaise autour du « croustillant » et du « parfum lacté ».
-
-## Les enseignements contemporains de l’effet tartelette aux œufs
-
-L’« effet tartelette aux œufs » continue de se répéter à Taïwan aujourd’hui. Du citron vert jade de Ching Yu au poulet frit de Fat Daddy, puis plus récemment au poisson à la choucroute, le marché taïwanais obéit toujours à une logique d’« essor fulgurant et d’effondrement brutal » [^9]. En tant que phénomène fondateur, la tartelette aux œufs a depuis longtemps dépassé le seul registre alimentaire. Elle nous rappelle que derrière la folie collective se cachent souvent un désir extrême de nouveauté et la peur de manquer son billet d’entrée dans la tendance.
+L'« effet pastel de nata » se rejoue encore aujourd'hui à Taïwan. Du citron vert jade de Qingyu au poulet frit de Fat Daddy en passant par le poisson aigre-piquant récent, le marché taïwanais obéit toujours à la loi du « démarrage en flèche et chute brutale » [^9]. En tant que phénomène originel, le pastel de nata a depuis longtemps dépassé le stade alimentaire. Il nous rappelle que derrière la folie collective se cachent un désir extrême de nouveauté et la peur de manquer le train de la mode.
 
 ---
 
 ## Sources des images
 
-Cet article utilise 3 images du domaine public / sous licence CC, toutes mises en cache dans `public/article-images/food/` pour éviter le hotlink vers les serveurs sources :
+Cet article utilise 3 images du domaine public / sous licence CC, toutes mises en cache dans `public/article-images/food/` pour éviter le hotlinking :
 
-- [Tartelette portugaise](https://commons.wikimedia.org/wiki/File:Egg_tart.jpg) — Photo : ProjectManhattan, CC0 1.0 Domaine public
-- [Façade de la Lord Stow’s Bakery à Macao](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg) — Photo : LN9267, 2023, CC BY-SA 4.0
-- [Tartelette aux œufs hongkongaise chez Tai Cheong à Banqiao, Taïwan](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C_%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C_%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C_%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C_%E6%9D%BF%E6%A9%8B%2C_%E6%96%B0%E5%8C%97%E5%B8%82%2C_%E5%8F%B0%E7%81%A3%2C_New_Taipei_City%2C_Taiwan_%2847201805022%29.jpg) — Photo : bryan… (Flickr), 2019, CC BY-SA 2.0
+- [Pastel de nata portugais](https://commons.wikimedia.org/wiki/File:Egg_tart.jpg) — Photo : ProjectManhattan, CC0 1.0 Public Domain
+- [Façade de Lord Stow's Bakery à Macao](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg) — Photo : LN9267, 2023, CC BY-SA 4.0
+- [Pastel de nata style Hong Kong de Tai Chong Bakery, Banqiao](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C_%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C_%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C_%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C_%E6%9D%BF%E6%A9%8B%2C_%E6%96%B0%E5%8C%97%E5%B8%82%2C_%E5%8F%B0%E7%81%A3%2C_New_Taipei_City%2C_Taiwan_%2847201805022%29.jpg) — Photo : bryan… (Flickr), 2019, CC BY-SA 2.0
 
 ## Références
 
-[^1]: [蛋塔效應](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipédia : entrée sur l’effet tartelette aux œufs, expliquant que le terme provient de l’engouement et des files d’attente provoqués par l’arrivée des tartelettes portugaises sur le marché taïwanais en 1998, puis de son refroidissement rapide
+[^1]: [Effet pastel de nata](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipédia : article sur l'effet pastel de nata, expliquant que le terme provient de la frénésie des files d'attente et du refroidissement rapide provoqués par l'entrée du pastel de nata portugais sur le marché taïwanais en 1998
 
-[^2]: [烘焙故事丨春天，來個甜甜的蛋撻吧](https://sannenggroup.com/%E7%83%98%E7%84%99%E6%95%85%E4%BA%8B%E4%B8%A8%E6%98%A5%E5%A4%A9%EF%BC%8C%E4%BE%86%E5%80%8B%E7%94%9C%E7%94%9C%E7%9A%84%E8%9B%8B%E6%92%BB%E5%90%A7/) — Groupe Sanneng : voir le lien d’origine pour les compléments d’information dans le texte
+[^2]: [Histoire de la boulangerie | Le printemps, offrons-nous un doux pastel de nata](https://sannenggroup.com/%E7%83%98%E7%84%99%E6%95%85%E4%BA%8B%E4%B8%A8%E6%98%A5%E5%A4%A9%EF%BC%8C%E4%BE%86%E5%80%8B%E7%94%9C%E7%94%9C%E7%9A%84%E8%9B%8B%E6%92%BB%E5%90%A7/) — San Neng Group : voir le contenu détaillé du lien original
 
-[^3]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : mentionne qu’Andrew Stow ouvrit en 1989 la Lord Stow’s Bakery dans la rue Taipa à Coloane, Macao, et modifia la recette en abandonnant la poudre à crème, en recourant à la crème et en réduisant le sucre
+[^3]: [Pastel de nata portugais](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : relate qu'Andrew Stow (安德魯·史斗) a ouvert Andrew's Bakery à Coloane, Macao, en 1989, améliorant la recette en abandonnant la poudre à flan pour de la crème et en réduisant le sucre
 
-[^4]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : relate qu’après le divorce d’Andrew et de son épouse Margaret en 1997, Margaret établit sa propre enseigne sur la péninsule de Macao, avant que la recette n’entre dans le système de chaîne de KFC (voir aussi l’entrée anglaise « Egg tart » de en.wikipedia.org : « In 1999, Wong sold the recipe to KFC »)
+[^4]: [Pastel de nata portugais](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : relate le divorce d'Andrew et Margaret Wong en 1997, l'installation de cette dernière sur la péninsule de Macao, puis l'entrée de la recette dans le réseau de franchises KFC (voir aussi en.wikipedia.org Egg tart : « In 1999, Wong sold the recipe to KFC »)
 
-[^5]: [Egg tart](https://en.wikipedia.org/wiki/Egg_tart) — Wikipédia en anglais : indique que KFC introduisit les tartelettes sur les marchés asiatiques, dont Taïwan, après avoir obtenu la recette auprès de Margaret en 1999, ce qui concorde avec l’affirmation selon laquelle KFC Taïwan ne vendait pas de tartelettes avant 1998 (la page Facebook « Tainan Style » donne aussi ce récit, mais relève d’un contenu généré par les utilisateurs non officiel)
+[^5]: [Egg tart](https://en.wikipedia.org/wiki/Egg_tart) — Wikipédia anglophone : indique que KFC a obtenu la recette via Margaret Wong en 1999 et l'a introduite à Taïwan et sur d'autres marchés asiatiques, confirmant l'absence de pastel de nata chez KFC Taïwan avant 1998 (la page FB « Tainan Style » rapporte la même chose, mais source non officielle UGC)
 
-[^6]: [你知道嗎？在1998年以前，台灣的肯德基還沒有賣蛋撻哦](https://www.facebook.com/tainanstyle2020/posts/545427580564172/) — Tainan Style（page Facebook）: retrace le contexte historique des tartelettes aux œufs de KFC à Taïwan ; l’opération marketing de 2022 suggérant l’arrêt des tartelettes fut alors un sujet largement diffusé en ligne, mais les liens vers les déclarations officielles ou les articles d’origine ne sont plus valides ; ce billet sert ici à documenter les réactions des consommateurs à l’époque
+[^6]: [Le saviez-vous ? Avant 1998, KFC Taïwan ne vendait pas de pastel de nata](https://www.facebook.com/tainanstyle2020/posts/545427580564172/) — Tainan Style (page FB) : retrace l'historique du pastel de nata KFC à Taïwan ; l'opération marketing de 2022 laissant entendre l'arrêt du pastel de nata fut un sujet viral à l'époque, mais les communiqués officiels ou articles d'origine sont devenus inaccessibles ; on cite ici les discussions contemporaines comme preuve de la réaction des consommateurs
 
-[^7]: [台灣在1950s美援麵粉輸入後的蛋塔技術](https://www.threads.com/@sr.say100/post/DUKVVBWiTgy/) - Threads
+[^7]: [La technique du dan ta à Taïwan après l'importation de farine de l'aide américaine dans les années 1950](https://www.threads.com/@sr.say100/post/DUKVVBWiTgy/) - Threads
 
-[^8]: [千層蛋塔V.S酥皮蛋塔到底有那些差別？](https://www.youtube.com/shorts/uJntLuOkaOU) - Liz Gourmet
+[^8]: [Quelles sont les différences entre le mille-feuilles pastel de nata et le pastel de nata feuilleté ?](https://www.youtube.com/shorts/uJntLuOkaOU) - Liz Gourmet
 
-[^9]: [蛋塔效應](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipédia : énumère plusieurs cas taïwanais d’« effet tartelette aux œufs », dont le citron vert jade de Ching Yu, le thé au lait épais d’I-Mei et le poisson à la choucroute
+[^9]: [Effet pastel de nata](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipédia : énumère de multiples cas taïwanais d'« effet pastel de nata » : citron vert jade de Qingyu, thé au lait épais de Yimei, poisson aigre-piquant, etc.
 
-[^10]: [梅納反應](https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%8F%8D%E6%87%89) — Wikipédia : explique que la réaction de Maillard est une réaction chimique entre acides aminés et sucres réducteurs à haute température, principal mécanisme produisant les teintes dorées à brun foncé et les arômes complexes à la surface des produits de boulangerie-pâtisserie
+[^10]: [Réaction de Maillard](https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%8F%8D%E6%87%89) — Wikipédia : explique que la réaction de Maillard est une réaction chimique entre acides aminés et sucres réducteurs à haute température, mécanisme principal de la coloration brun-doré et des arômes complexes des produits de boulangerie
 
-[^11]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : décrit la technique de confection de la pâte feuilletée des tartelettes portugaises, notamment les pliages répétés du beurre ; pour la méthode complète du feuilletage laminé (puff pastry), voir aussi l’entrée « pâte feuilletée » sur le même site
+[^11]: [Pastel de nata portugais](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipédia : décrit le processus de fabrication du feuilletage du pastel de nata portugais, incluant les caractéristiques techniques du pliage répété au beurre ; la méthode complète du feuilletage (puff pastry) peut aussi être consultée dans l'article « Mille-feuilles » du même site
 
-[^12]: [港式經典蛋撻：中式酥皮VS 曲奇餅皮](https://www.facebook.com/o.lala.baking.studio/posts/1460253716114140/) - O'lala Baking Studio
+[^12]: [Pastel de nata classique hongkongais : feuilletage chinois VS croûte sablée](https://www.facebook.com/o.lala.baking.studio/posts/1460253716114140/) - O'lala Baking Studio
 
-[^13]: [傳統酥皮蛋撻｜同葡撻分別在豬油⁉️](https://www.youtube.com/watch?v=77OdZ_Mem1o) - YouTube
+[^13]: [Pastel de nata feuilleté traditionnel | La différence avec le pastel de nata portugais réside dans le saindoux ?](https://www.youtube.com/watch?v=77OdZ_Mem1o) - YouTube
 
-[^14]: [千層蛋塔跟酥皮蛋塔到底有什麼差別？](https://www.facebook.com/selftaughtgourmet/videos/1180523609806769/) - Liz Gourmet
+[^14]: [Quelle est la différence entre le mille-feuilles pastel de nata et le pastel de nata feuilleté ?](https://www.facebook.com/selftaughtgourmet/videos/1180523609806769/) - Liz Gourmet
 
-[^15]: [酥皮千層蛋撻今天開始試賣](https://www.instagram.com/p/C57fQMxvTNF/) - Instagram de Ballet Bread
+[^15]: [Le pastel de nata feuilleté mille-feuilles entre en phase de test vente aujourd'hui](https://www.instagram.com/p/C57fQMxvTNF/) - Instagram de Ballet Bakery

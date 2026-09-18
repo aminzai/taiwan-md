@@ -2,9 +2,7 @@
 title: "Rue thermale de Beitou : de l'extraction du soufre en 1697 au musée des bains en 2026, une même source de montagne pour quatre générations d'habitants"
 description: "En 1697, Yu Yonghe vint dans ces montagnes extraire du soufre et échanger des terres sulfureuses avec les Ketagalan ; en 1896, Hirata Gengo, originaire d'Osaka, construisit au 234 de l'actuelle Guangming Road le premier hôtel thermal de Taïwan, le Tengu-an ; en 1913 ouvrit le bain public de briques rouges conçu par Moriyama Matsunosuke ; en 1923, le prince héritier Hirohito vint s'y baigner une fois ; en 1967, une photographie du magazine Time mit Tchang Kaï-chek hors de lui ; en 1979, après l'abolition de la prostitution par le maire Lee Teng-hui, les cabarets éteignirent leurs lumières ; en 1998, le bain public de briques rouges abandonné devint un musée. La même source de montagne fumante a été découverte trois fois par des personnes venues d'ailleurs, et adaptée par quatre générations d'habitants."
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區'
 tags:
   [
     'Beitou',
@@ -29,19 +27,23 @@ tags:
     'vallée géothermale',
     'hokutolite',
   ]
-readingTime: 25
+subcategory: '歷史街區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
-translatedFrom: 'Geography/北投溫泉街.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fb76ac27fc6cd3ba'
-sourceBodyHash: 'sha256:a32189fb31dd0c7d'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 25
+researchReport: 'reports/research/2026-05/beitou-hot-spring.md'
+series: '歷史街區系列 (P1-8)'
 image: '/article-images/geography/beitou-hot-spring-museum-2020.webp'
 imageCredit: 'Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg'
+translatedFrom: 'Geography/北投溫泉街.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2c4fe0156269ff13'
+sourceBodyHash: 'sha256:123f0a9f012e26b6'
+translatedAt: '2026-09-18T05:19:28.678279+00:00'
 ---
 
 # Rue thermale de Beitou : de l'extraction du soufre en 1697 au musée des bains en 2026, une même source de montagne pour quatre générations d'habitants
@@ -128,24 +130,24 @@ Le terminus était le « point d'arrêt de Xinbeitou », devenu ensuite gare de 
 
 > **📝 Note de commissariat :** On peut considérer le bain public de 1913 et l'embranchement de Xinbeitou de 1916 comme deux pièces d'un même système. Le bâtiment construit par Moriyama Matsunosuke était au fond **une machine coloniale de propagande matérielle** : il transformait une source de montagne inconnue du public japonais en une marque associant « plus grand bain public d'Asie orientale », « première voie ferrée touristique de Taïwan », « à 20 minutes de Taipei » et, plus tard, « usage impérial ». Cette marque réussit : elle fit savoir aux voyageurs du Japon métropolitain qu'il existait, dans la colonie taïwanaise, une station thermale appelée Beitou. Mais elle n'était pas conçue pour les Ketagalan ni pour les migrants han installés depuis l'administration Qing. **Elle était conçue pour les voyageurs de l'Empire japonais.** Dès que le bain de briques rouges fut élevé en 1913, cette rue devint une salle d'exposition impériale.
 
-## 1923, la visite du prince héritier
+## 1923 : la visite de l'héritier
 
-![Photographie documentaire de l'époque montrant la visite du prince héritier Hirohito au bain public thermal de Beitou le 25 avril 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
-_Photographie documentaire de la visite du prince héritier Hirohito au bain public de Beitou en 1923. Photo: Public domain (戰前文書, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Prince_Hirohito%27s_visit_at_Hokutō_Public_Bathhouse_1923.jpg)._
+![Photo d'archives de la visite du prince héritier Hirohito au bain public de Beitou en avril 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
+_Photo d'archives de la visite du prince héritier Hirohito au bain public de Beitou. Photo : Domaine public (document pré-guerre, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown%20Prince%20Hirohito%27s%20visit%20at%20Hokutō%20Public%20Bathhouse%201923.jpg)._
 
-En avril 1923, 12e année de Taishō, le **prince héritier Hirohito**, futur empereur Shōwa, vint à Taïwan pour douze jours en qualité de régent, à la place de l'empereur Taishō[^6]. C'était la première visite de la famille impériale japonaise dans la colonie taïwanaise.
+En avril 1923 (Année Taishō 12), le **prince héritier Hirohito** (futur empereur Shōwa) est venu à Taïwan en tant que prince régent pour remplacer l'empereur Taishō, effectuant un séjour de douze jours [^6]. C'était la première visite de la famille impériale japonaise dans la colonie de Taïwan.
 
-Le 25 avril, son itinéraire le mena à Caoshan, l'actuel Yangmingshan, puis à Beitou. Pour l'accueillir, l'administration de Taipei avait lancé des travaux dès l'année précédente : au deuxième étage du bain public thermal de Beitou, elle ajouta **un « salon de repos impérial » de plus de 30 ping**, espace réservé au prince héritier, à l'emplacement de l'actuelle salle audiovisuelle du deuxième étage du musée[^6].
+Le 25 avril, le programme d'Hirohito comprenait une visite à Caoshan (aujourd'hui Yangmingshan) et à Beitou. Pour l'accueillir, l'administration du Taipei prépara en avance : au deuxième étage du bain public de Beitou, on a **construit plus de 30 pings d'« espace de repos impérial »** [^6], un espace de repos spécialement dédié au prince héritier, qui correspond aujourd'hui à la salle audiovisuelle du Musée des sources chaudes.
 
-Ce jour-là, Hirohito visita d'abord le bain public, puis se rendit au bord du ruisseau Beitou pour voir l'hokutolite ; le minerai découvert dix-huit ans plus tôt par Okamoto Yōhachirō était déjà une fierté scientifique de l'Empire japonais[^11]. Afin que le prince héritier puisse marcher dans le ruisseau et observer la pierre de Beitou, on posa spécialement au-dessus de la deuxième cascade des **tobiishi**, des pierres de gué en japonais[^20].
+Hirohito a d'abord visité le bain public, puis s'est rendu près du ruisseau de Beitou pour observer les « pierres de Beitou », ces minéraux découverts par Okamoto Yōtarō dix-huit ans plus tôt, qui constituaient déjà une fierté scientifique de l'Empire japonais [^11]. Pour permettre au prince héritier de marcher et d'observer les pierres de Beitou dans le ruisseau, on a spécialement posé des **« pierres sautantes » (_tobiişi_)** (le terme japonais pour les pavés) au-dessus du deuxième bassin [^20].
 
-En 1934, onze ans plus tard, les habitants érigèrent au bord de la deuxième cascade du ruisseau Beitou une **stèle commémorant le passage à gué de Son Altesse le prince héritier**[^20]. Après-guerre, cette stèle faillit être détruite ; elle fut heureusement préservée et se trouve encore aujourd'hui dans le jardin du bain Takinoyu[^20].
+Dix ans plus tard, en 1934, les habitants ont érigé un **« Monument commémoratif du passage de Sa Majesté le prince héritier »** sur la rive du deuxième bassin du ruisseau de Beitou [^20]. Ce monument a failli être détruit après la guerre, mais il a heureusement été conservé et se trouve encore dans le jardin du bain Takinoyu aujourd'hui [^20].
 
-Après ce bain de Hirohito, la réputation de Beitou comme lieu « approuvé par la famille impériale » se répandit dans tout le Japon. Pendant les années 1920-1930, les hôtels s'y multiplièrent. Le **Kazan Ryokan**, construit en 1921, était alors le bâtiment japonais en bois à deux étages le plus haut situé et le plus luxueux du secteur de Xinbeitou ; il est aujourd'hui l'un des derniers édifices de ce type à Taïwan. Après-guerre, il devint la maison d'hôtes Kazan du ministère des Affaires étrangères, puis fut repris en 1983 par Chang Chun-ming de San Fu Chemical et transformé en Maison des arts populaires taïwanais ; il est aujourd'hui le **Musée culturel de Beitou**[^21]. Le **Takinoyu**, construit en 1907, continua à exploiter des bains publics, sous le même nom après-guerre et jusqu'à aujourd'hui ; il connut sa première grande rénovation en 2016 et rouvrit en 2017[^22]. Au temple Puji, la Guanyin gardienne des bains continuait de recevoir les offrandes.
+Après cette visite d'Hirohito au spa, la réputation de « certification impériale » de Beitou s'est répandue dans tout le Japon. Tout au long des années 1920-1930, davantage d'hôtels ont vu le jour à Beitou : l'**Hôtel Jiasan**, construit en 1921, était un bâtiment japonais de deux étages en bois pur, situé au point le plus élevé et offrant les services les plus haut de gamme dans la région de Xinbeitou à l'époque. Il est l'un des rares bâtiments de ce type survivants à Taïwan (il a été transformé après la guerre en pensionnat du ministère des Affaires étrangères, puis repris par Chang Chun-ming de Chemex Industries en 1983 pour devenir le Musée des objets d'artisanat populaire de Taïwan, et est aujourd'hui le **Musée culturel de Beitou**) [^21]. Le **Bain Takinoyu**, construit en 1907, a continué à exploiter les bains publics (il a été renommé après la guerre pour se poursuivre jusqu'à aujourd'hui, avec une grande rénovation en 2016 et une réouverture en 2017) [^22]. Le Temple Puji conserve toujours l'encens de Guanyin.
 
-À quoi ressemblait Beitou à cette époque ? Des Japonais aisés de métropole venaient y passer leur lune de miel, des sociétés commerciales y organisaient des banquets, des officiers venaient s'y soigner, et des salariés taïwanais étaient parfois invités à les accompagner. Après le déclenchement de la guerre sino-japonaise en 1937, les hôtels de Beitou commencèrent à recevoir des militaires japonais ; le Kazan Ryokan fut même réquisitionné par l'armée comme « club des officiers japonais »[^21]. À la fin de la guerre, les pilotes kamikazes étaient envoyés à Beitou pour une semaine de fête avant leur départ, selon les récits oraux des anciens du lieu[^21].
+À quoi ressemblait Beitou à cette époque ? Des riches locaux venaient y passer leur lune de miel, des sociétés commerciales organisaient des banquets, et des officiers militaires venaient se soigner ; les employés taïwanais étaient parfois invités en tant qu'accompagnateurs. Après le déclenchement de la guerre sino-japonaise en 1937, les hôtels de Beitou ont commencé à accueillir des soldats japonais, et l'Hôtel Jiasan a été temporairement réquisitionné par l'armée pour devenir un « club d'officiers japonais » [^21]. À la fin de la guerre, il était rapporté (par des anciens locaux de Beitou) que les unités Kamikaze venaient faire la fête à Beitou une semaine avant leur départ en mission [^21].
 
-En août 1945, le Japon capitula. Tous les Japonais rentrèrent dans leur pays, laissant derrière eux une rue thermale vide et des Taïwanais qui ne savaient pas ce qui allait suivre.
+En août 1945, le Japon a capitulé. Tous les Japonais sont repartis dans leur pays d'origine, laissant derrière eux une rue thermale déserte et des Taïwanais qui ne savaient pas ce qu'il allait se passer ensuite.
 
 ## Les vingt années d'après-guerre : nakasi, cabarets et soldats américains
 

@@ -22,10 +22,10 @@ lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:8a77917ab93abd39'
-sourceBodyHash: 'sha256:6564b3269a2b9fa4'
-translatedAt: '2026-08-04T04:43:11.485342+00:00'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:b8c4015a34b3a79e'
+sourceBodyHash: 'sha256:9120e92d38401c8e'
+translatedAt: '2026-09-17T23:28:07.770097+00:00'
 ---
 
 # Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île
@@ -118,25 +118,25 @@ La tendance reste pourtant irréversible. Selon les derniers sondages, 84 % des 
 
 ---
 
-## Un cycle de vingt ans
+## Le cycle de vingt ans
 
-Avec le recul, les vingt dernières années du commerce électronique et du paiement numérique à Taïwan constituent un cycle de ruptures constantes.
+En regardant le passé, les deux décennies du commerce électronique et des paiements numériques à Taïwan constituent un cycle en constante perturbation.
 
-Dans les années 2000, PChome a défini la notion de « rapidité » avec la livraison en 24 heures. Dans les années 2010, Shopee a défini celle de « l'économie » grâce à la livraison gratuite. Dans les années 2020, momo a défini la « fiabilité » par son propre réseau logistique, tandis que Coupang tente de redéfinir la « rapidité » avec sa livraison express _Rocket_. À chaque cycle, les vain</strong>s pensent avoir creusé leurs douves, mais les nouveaux arrivants trouvent toujours un moyen de les contourner.
+Dans les années 2000, PChome a défini la « rapidité » avec la livraison en 24 heures. Dans les années 2010, Shopee a défini le « prix abordable » grâce à la livraison gratuite. Dans les années 2020, momo a défini la « fiabilité » grâce à sa propre logistique, et Coupang a tenté de redéfinir la « rapidité » avec son service de livraison express (Rocket). Chaque vainqueur d'une vague pensait avoir trouvé un fossé défensif, tandis que l'envahisseur de la vague suivante trouvait une manière de contourner ce fossé.
 
-Il en va de même pour le volet des paiements. Du paiement à la livraison à l'utilisation de la carte de crédit, du scan de LINE Pay à l'universalité du TWQR — chaque montée en gamme vers plus de « commodité » rend la version précédente obsolète et encombrante.
+C'est la même chose pour le côté paiement. Du paiement à la livraison, puis par carte de crédit, au scan LINE Pay, jusqu'à l'usage universel du TWQR — chaque mise à niveau de la « commodité » a rendu la « commodité » de la génération précédente maladroite.
 
-En décembre 2024, le groupe Uni-President a pris une participation dans PChome. Cette entreprise, qui a transformé le commerce de détail à Taïwan grâce au réseau 7-Eleven, s'apprête désormais à transformer l'e-commerce taïwanais. Il y a trente ans, les épiceries traditionnelles ont été remplacées par les magasins de proximité (_convenience stores_). Aujourd'hui, ce sont les propriétaires de ces magasins qui s'apprêtent à reprendre en main les décombres du commerce électronique.
+En décembre 2024, le groupe Uni-President est entré dans PChome. Cette entreprise qui avait transformé la distribution taïwanaise grâce au 7-Eleven s'apprête maintenant à transformer le commerce électronique taïwanais. Trente ans plus tôt, les épiceries traditionnelles avaient été remplacées par les supérettes. Aujourd'hui, ce sont les propriétaires de ces supérettes qui doivent gérer les restes du e-commerce.
 
-La guerre commerciale sur cette île ne s'arrêtera pas. Chaque nouveau QR code, chaque nouveau centre logistique, chaque nouvelle vague de subventions tente de répondre à la même question : qui parviendra à faire gagner une seconde au geste de dépenser des 23 millions d'habitants ?
+La guerre commerciale sur cette île ne s'arrêtera pas. Chaque nouveau code QR, chaque nouveau centre logistique, chaque nouvelle subvention répond à la même question : qui peut faire en sorte que l'acte de payer des vingt-trois millions de personnes soit une seconde plus rapide ?
 
 **Lectures complémentaires** :
 
-- [Développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Des banques purement numériques à l'Open Banking et aux bacs à sable réglementaires, panorama de la transformation numérique du secteur financier
-- [Construction du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — Comment les infrastructures 5G transforment le suivi logistique, le shopping en direct et le commerce intelligent
-- [Développement de l'industrie logicielle à Taïwan](/fr/technology/taiwan-software-industry-development) — De la sous-traitance aux marques propres, comment l'industrie du logiciel soutient la couche technologique des plateformes d'e-commerce
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — D'où proviennent les puces qui soutiennent le paiement numérique et les infrastructures de l'e-commerce
-- [Douanes taïwanaises et EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — La dernière étape pour les colis d'e-commerce transfrontaliers entrant à Taïwan : qui exploite l'application de déclaration en douane et comment sont fixés les seuils d'exonération de taxes
+- [Développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — De la banque purement en ligne à la banque ouverte, en passant par le bac à sable réglementaire, un panorama de la transformation numérique du secteur financier
+- [Paiement mobile à Taïwan](/fr/technology/taiwan-mobile-payment) — Des consommateurs aux commerçants, en passant par le TWQR, comprendre pourquoi l'argent liquide reste une réserve quotidienne après la généralisation des paiements mobiles
+- [Construction du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — Comment les infrastructures 5G changent le suivi logistique, l'achat en direct et la vente au détail intelligente
+- [Développement de l'industrie logicielle à Taïwan](/fr/technology/taiwan-software-industry-development) — Du sous-traitant à la marque propre, comment l'industrie du logiciel soutient les fondations techniques des plateformes e-commerce
+- [Douanes et EZ WAY à Taïwan](/fr/lifestyle/ezway) — La dernière étape pour les colis e-commerce internationaux entrant à Taïwan : qui gère l'application de mandat douanier, comment est fixé le seuil de franchise
 
 ## Références
 
