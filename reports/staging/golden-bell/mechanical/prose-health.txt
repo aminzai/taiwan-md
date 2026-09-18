@@ -1,0 +1,7 @@
+🧬 knowledge/Culture/金鐘獎.md
+   lang=zh-TW  category=Culture  slug=金鐘獎
+   ✅ prose-health  hard=0 warn=1 info=1
+      warn L123: 全形分號 (§quality-scan #8c 第 1/1 處)：…80家業者、1,096件作品報名參賽《；》計140件作品入圍⋯⋯29個獎項」，…
+      info : prose-health score: 1 (≤ 3 = pass) — 未人工審核
+
+Summary: hard=0  warn=1  info=1  passed=False (fail_on=warn)

@@ -1,0 +1,7 @@
+total 70 non-2xx 5
+('https://www.chinatimes.com/realtimenews/20241021002700-260404', '403')
+('https://star.ettoday.net/news/2839226', '000')
+('https://www.thenewslens.com/article/260067', '403')
+('https://www.chinatimes.com/realtimenews/20221101002327-260404', '403')
+('https://star.ettoday.net/news/2937', '000')
+note: chinatimes/thenewslens 403 = bot block (browser opens); ettoday 000 = 本機網路對 ettoday 全站連線重置（含首頁），非死鏈，研究報告 §2 log #24 WebFetch 取得逐字

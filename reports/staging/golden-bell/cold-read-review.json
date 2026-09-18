@@ -1,0 +1,41 @@
+{
+  "revision": 33,
+  "submissionId": "468e7858-3650-487e-886c-9eb990f635be",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent a9e1919cc70a75fda；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "冷讀六條 confusions 中兩條是真問題：宗教與族群頻道進場表格的 2002 年大愛《別來無恙》正文從未交代；特別獎從缺段落「金鐘獎的意義在於鼓勵，不是在於沒收」未標明發言者，引語歸屬不明。其餘三條 confusions（1970/1971、「並非本屆新增」澄清句、PTT 與 YouTube 對比）與 repetitions／forcedConclusions 全屬作者裁量：門的比喻三次各帶新案例；首尾呼應是結構選擇；「這幾次」已限定；40 項是數字對照；陳亞蘭／連炳發／楊小黎實為三例且措辭克制。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行74 表格「宗教與族群頻道進場」列 2002 大愛《別來無恙》，行80 正文未展開——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行152「金鐘獎的意義在於鼓勵，不是在於沒收」未標明發言者——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行41／行50 1970 前後 vs 1971 報紙——已 hedge 並揭露兩源，裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行96「並非本屆新增，也不針對誰」——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行164 PTT／YouTube 不同指標——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行86／116／207 門的比喻三次各帶新案例——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行197-198 40 項打平——純數字對照，裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行125-127 陳亞蘭／連炳發／楊小黎三例——裁量"
+    }
+  ]
+}

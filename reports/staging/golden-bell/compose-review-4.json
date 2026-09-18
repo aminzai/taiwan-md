@@ -1,0 +1,21 @@
+{
+  "revision": 31,
+  "submissionId": "f3d0cfd0-e5b8-47d7-86b9-7f3b5da4c59c",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread）",
+  "verdict": "accept",
+  "rationale": "兩處都核實過。(1) L164「兩個數字衡量的本來就不是同一件事」是標準中文「X的+謂語」省略句型，語法通順，取代了原本缺名詞的「數字量的」；(2) [^54] 新源 TVBS 2011-10-23 curl 確認可開，內文「金士傑和龍劭華…溫昇豪，他們都輸給了新秀潘瑋柏…龍劭華則說評審讓他很難心服口服」與新描述逐字相符；原噓星聞連結確認已 404。body L181 只用 [^54] 做交叉確認，引語仍掛 [^53]。footnote used=70/defs=70 無孤兒。無新增無來源事實。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L164（衡量的句子修正）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L342（[^54] 換源 TVBS）；新源 https://news.tvbs.com.tw/entertainment/70492 標題與內文逐字核對"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L181（[^53][^54] 引用處）"
+    }
+  ]
+}
