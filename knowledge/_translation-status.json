@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T21:09:40+08:00",
-    "zhCommitHead": "65a6e42dc",
+    "lastUpdated": "2026-09-18T21:16:19+08:00",
+    "zhCommitHead": "dc9bfd11b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 1030,
-        "stale": 52,
+        "fresh": 1031,
+        "stale": 51,
         "metadata_stale": 9,
         "missing": 30,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       },
       "ko": {
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 953,
-        "stale": 64,
+        "fresh": 954,
+        "stale": 63,
         "metadata_stale": 73,
         "missing": 31,
         "orphan": 0
@@ -40700,18 +40700,16 @@
         "vi": {
           "path": "vi/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4e009bcfd22dbae0",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T12:41:15.070699+00:00",
           "translationLastCommit": "ad96e35b",
           "translationLastModified": "2026-08-09T11:49:18+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-high-speed-rail.md",
@@ -47170,7 +47168,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/pigeon-racing-taiwan.md",
+          "translatedFrom": "Society/賽鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:f56149ea65f8ae88",
+          "sourceBodyHash": "sha256:03d653f96edfb95d",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/pigeon-racing-taiwan.md",
@@ -49291,8 +49300,8 @@
           "sourceContentHash": "sha256:31f2d67654f5ca72",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T12:52:10.547161+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "dc9bfd11",
+          "translationLastModified": "2026-09-18T21:09:41+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -55005,18 +55014,16 @@
         "en": {
           "path": "en/Society/national-museum-of-taiwan-history.md",
           "translatedFrom": "Society/國立臺灣歷史博物館.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:0a19013fbe675c85",
-          "sourceBodyHash": "sha256:16078470c5f07551",
-          "translatedAt": "2026-06-16T16:59:03Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-18T13:15:35.547706+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/national-museum-of-taiwan-history.md",
@@ -83218,8 +83225,8 @@
           "sourceContentHash": "sha256:8cc10fd808c3a1ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T10:12:15.475936+00:00",
-          "translationLastCommit": "4f72f613",
-          "translationLastModified": "2026-08-31T08:48:08+08:00",
+          "translationLastCommit": "dc9bfd11",
+          "translationLastModified": "2026-09-18T21:09:41+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "status": "fresh",
@@ -122087,8 +122094,8 @@
           "sourceContentHash": "sha256:4084ed4b3480a75a",
           "sourceBodyHash": "sha256:70f421624b5717be",
           "translatedAt": "2026-09-18T12:02:41.901655+00:00",
-          "translationLastCommit": "36aaa72e",
-          "translationLastModified": "2026-08-20T09:13:32+08:00",
+          "translationLastCommit": "dc9bfd11",
+          "translationLastModified": "2026-09-18T21:09:41+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
