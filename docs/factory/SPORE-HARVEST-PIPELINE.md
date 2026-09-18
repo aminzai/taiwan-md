@@ -3,9 +3,9 @@ title: 'SPORE-HARVEST-PIPELINE'
 description: '孢子回聲收割產線 v3.0 audience flywheel — metrics + reply content + 5-bucket factual challenge classifier + reader-driven EVOLVE trigger + reply draft + observer-gate ship + Chrome MCP execCommand pattern。核心哲學：人本 + 正確性 + 正直 + 透明度 + 誠懇'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.0'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup（post-ship verify 驗 canonical URL 不驗 feed/dialog）'
+current_version: 'v3.1'
+last_updated: 2026-09-19
+last_session: '2026-09-19-063613-twmd-spore-harvest-am（動態頁回覆分頁升為跨貼文新留言的第一道入口，連兩輪驗證）'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-WRITING.md'
@@ -1073,6 +1073,20 @@ mcp__Claude_in_Chrome__tabs_close_mcp {tabId}
 - Pair 後 `mcp__Claude_in_Chrome__list_connected_browsers` 應該回傳 deviceId
 - 之後 session 重啟仍可用該 deviceId 直接 `select_browser`（pairing 持久化）
 
+### 動態頁回覆分頁是跨貼文新留言的第一道入口（v3.1，2026-09-18／09-19 連兩輪驗證）
+
+現役批次超過 D+7 之後，每天逐篇打開同一批 permalink 只會看到「Δ 落在雜訊」，而全帳號其他一百多支舊孢子上的新留言完全不在視野裡。**收割窗口管的是回覆時效，不該同時當視野邊界。** 每輪 Stage 2 在打開任何 permalink 之前，先掃兩個動態頁：
+
+```
+https://www.threads.com/activity/replies   ← 先看這個：全帳號過去 1-3 週的讀者回覆，含「回覆我們回覆」的巢狀層
+https://www.threads.com/activity           ← 再看這個：按讚聚合 / 從你的貼文追蹤 / 轉發，用來決定要不要打開哪支舊孢子重抓數字
+```
+
+- **回覆分頁看得到 permalink 掃不到的那一層**：permalink 的 `[data-pressable-container]` 只渲染頂層留言（見 MEMORY §神經迴路 2026-08-10「巢狀回覆不留缺口記號」）；`/activity/replies` 會把「讀者回覆我們的回覆」逐則列出來（09-19 實證：@yvelisse 對我們的邪修回覆再回一句，只在這裡出現）。分桶（A-G）直接對這份清單跑，處置照 §5-Bucket 表。
+- **全部分頁只拿來決定要打開誰**：聚合通知（「darhon30 和另外 1.2 萬人」）看不出單筆時間，但能告訴你哪支舊孢子還在被推（09-18 靠它撈到 #29 李洋 D+157 按讚翻倍）；有動靜才進 permalink 重抓數字寫 `add-metrics`，沒動靜不寫。
+- **限制**：動態頁只回溯最近幾週，且 Threads 不保證每則回覆都進通知；它取代的是「逐篇打開找新留言」這個入口，不取代 D+0〜D+7 窗口內的 permalink 完整掃描。
+- **兩個分頁都掃完、沒有 A-D 桶、現役批次無新數字 → 本輪是合法的 no-op harvest**（commit 只含 memory + 索引，不寫空 batch log；把「掃了哪兩頁、看到什麼、為什麼不用回」寫進 memory，讓「看到才判斷不用回」跟「沒看到所以沒回」在紀錄上分得開）。
+
 ### Cleanup tab group（v2.3 — 結尾步驟）
 
 Harvest batch 完成（所有 spore 都 harvest 過 + batch log written + dashboard regen）後**必 close** 本 session 用的 tab group。長期累積 idle tab 會佔 browser memory + 視覺干擾哲宇。
@@ -1628,6 +1642,8 @@ _執行責任：AI 主責 Step 1-5 + 7-8；人類主責 Step 6（回覆留言）
 _每次執行留 log 到 `docs/factory/SPORE-HARVESTS/{N}-{slug}-{date}.md`_
 
 _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（D+1 → D+7 cadence + 6h decision gate + Reach×Accuracy trigger + atomic batch log SSOT 顯化）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 SPORE-PIPELINE / VERIFY / FACTCHECK / DATA-REFRESH 分工 + atomic batch log 寫入路徑強化）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。D+1-D+7 prose body 不動（已健康，5/8 Phase 6 SSOT cleanup 保留）。_
+
+_v3.1 | 2026-09-19 twmd-spore-harvest-am — 新增 §動態頁回覆分頁是跨貼文新留言的第一道入口：現役批次連續十輪 plateau 只盯同六支 permalink，09-18 改掃 `/activity/replies` + `/activity` 撈到兩支舊孢子長尾與兩則批次外新留言，09-19 再驗證一次並確認回覆分頁能看到 permalink 掃不到的巢狀層。同時定義 no-op harvest 的合法形狀（memory + 索引，不寫空 batch log）。「座標點留言圖示開 permalink」的操作備忘仍留在 batch-2026-09-18-2-spores.md，待再驗證一次再進本檔。_
 
 _v2.3 | 2026-05-23 2026-05-23-220053-manual session — Cleanup tab group 結尾步驟 (mirror SOCIAL-POSTING v0.6)_
 _v2.3 改動：新增 §Cleanup tab group section（harvest batch + dashboard regen 完後 `tabs_close_mcp` 關 current session group）+ Hard Gate Inventory 加 row「Cleanup tab group (v2.3)」+ Chrome MCP MVP 執行 step 5 補 cleanup + Chrome MCP harvest pattern code block 補 `tabs_close_mcp` 末步。Built-in safety: Chrome MCP `tabs_close_mcp` 只能關 current session's group enforce 不誤關別 session。_
