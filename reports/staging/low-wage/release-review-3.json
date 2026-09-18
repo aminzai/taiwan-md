@@ -1,0 +1,22 @@
+{
+  "revision": 88,
+  "submissionId": "bc4d025f-0bbc-415c-b6d9-208f7d67e1aa",
+  "actor": "release-editor-3 (Opus agent a52a9643adb2a1764, fresh context, named editor; 非前兩輪編輯)",
+  "verdict": "accept",
+  "rationale": "第二輪那一處修到位：倒數第二段三句逐句可查（最低工資法第 3／4 條、勞動部移工調查、第四節家庭看護工句），與 L121／L123／L263 一致，收得住；第三節刪重複後承接成立，「兩欄之間」只剩收尾一次。自己重算 27,598／1,902／71.3%／60.5%／47.4%／37.3%／22.9%／37.5 萬／43.6 萬全對；description 160 字。各方各自標欄位與分母，沒替誰收尾，合 §13。最後兩段沒有一句經不起查。ready-for-publication。noteForEvolve 四條記入 remainingLimits／EVOLVE。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L269；L271；L104→L106；L121／L123／L263；L3"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/mol-114年移工管理及運用調查統計結果.txt",
+      "location": "薪資配合最低工資調升；家庭看護工段"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11507-新聞稿.txt",
+      "location": "L23"
+    }
+  ],
+  "contextDisclosure": "fresh-context-named-editor"
+}

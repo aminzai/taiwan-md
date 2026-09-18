@@ -5,7 +5,7 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-08-23
+last_updated: 2026-09-18
 last_session: '2026-08-23-020617-twmd-weekly-report-sun（W34 體檢桶 1：補登 8/18-8/19 三篇走完產線卻沒登記的交付——陳致中／中央研究院／比國家還大的演算藝術，由上週新造的 §六 fail-loud 警告照出來）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
@@ -58,6 +58,20 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 誰算低薪 — 2026-09-18 low-wage write session 完成（主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄）
+
+- **Article**: [knowledge/Society/誰算低薪.md](../../knowledge/Society/誰算低薪.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 — NEW 模式，**互動式協議**（`twmd.mjs rewrite`，run `low-wage-20260918`，89 revisions／36 submissions，六站全 accept → `ready-for-publication`）＋既有 stage contract 全部 hard gate。run_profile: standard-lite（派發者指定；Step 0.1.6 規則 3 對第三型建議 standard）
+- **spine**：第三型多觀點矛盾＋P8 判斷框架式
+- **論點**：「零人」和「一百二十六萬人」都是真的：這場爭論吵的從來不是誰的數字對，是哪一欄的錢算薪水、誰站在分母裡——本薪那一欄有法律守著，年終那一欄沒有，而尺外面還站著三百多萬不在分母裡的人
+- **Hook**：2026-09-14 下午四點主計總處記者會，副處長譚文玲同一場先算月薪零人、再算年薪 126 萬人
+- **品質**：~10,400 CJK ／ 38 腳註零孤兒（37/38 curl 200，[^16] OECD 403 bot-block 文字已存 raw）／ 13 個 `tw-*` 模組 ／ 3 圖（hero 419KB hero 預算內）／ rewrite-stage-4 hard=0 warn=0 ／ stage-3-5 hard=0 ／ prose-health warn=3 全在逐字引語內 ／ prose-flow 0/3 ／ fact-atom-diff PASS ／ research depth PASS ／ 編輯室 health ✅×2
+- **Research**: [reports/research/2026-09/誰算低薪.md](../../reports/research/2026-09/誰算低薪.md)（116 次搜尋／56 來源／23 一手；raw 目錄 13 檔含主計總處 3 份新聞稿 txt＋3 張 xlsx、勞動部 3 份、OECD 3 份 CSV/頁面、人力資源調查）；投影 [reports/article-projection/誰算低薪.md](../../reports/article-projection/誰算低薪.md)；Stage 3 稽核 `誰算低薪-stage35-audit.md`／`-stage36-audit.md`
+- **乾淨 context 分席**：compose 評閱 14 位、冷讀者 12 位、verify 查核員 1＋復審 3、release 具名編輯 3（Opus，三輪：退 4 條→退 1 條→accept），全部獨立 agent，contextDisclosure 逐條記於 `reports/staging/low-wage/`
+- **冷讀迴圈教訓**：同一句收束（主計總處先講月薪）十二位讀者讀出三種方向（替主計總處／替在野黨／守勢），改到「說明順序＋講法」的事實中點才停；release 編輯抓到「三百多萬人不在會議室分母」把統計分母與法律適用混成一格——部分工時／產業移工受最低工資法保障，只有自營／雇主／無酬家屬／家庭看護工在法外
+- **Cross-link**：台灣斜槓世代／學習貧窮／冷氣與能源貧窮議題 三篇補反向延伸閱讀；外送專法因既有 34 條 prose 警告撞 pre-commit 預算延後
+- **EVOLVE 掛號**：9/24 最低工資審議會結果（正文寫「預估 30,975」與「地板會再往上移一次」需改成事實）；2025 年（114 年）中位數統計 11 月出爐（126 萬／16.8% 換新一年；若公布非整年在職者比例，收尾可校準）；L125／L269 家庭看護工「另計」對齊；title 可補「人」字
 
 ### 洪醒夫 EVOLVE — 2026-09-12 完成（全站 #1 搜尋流量 stub 深度進化）
 
