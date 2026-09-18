@@ -1,0 +1,18 @@
+{
+  "revision": 84,
+  "submissionId": "fda81789-268a-45db-bc6a-a86e20180c29",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent adaddc81e42f6ed46（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "第十二位冷讀者判 ship，whoIsOutside 一題答出 release-editor-2 要求的區分（誰跟 9/24 走、誰真的在法外），證明倒數第二段改寫有效。sideTaking「整體平衡」；那句收束句十二位讀者讀出三種方向（替主計總處／替在野黨／守勢），已是事實陳述的中點。其餘為前輪已裁決的密度與回聲。「沒有一方把話講到那麼細」是第七節逐句標欄位後的歸納，證據就是該節本身。停。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L269 三句；L251"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission-12.json",
+      "location": "data.fourChecks.whoIsOutside"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}

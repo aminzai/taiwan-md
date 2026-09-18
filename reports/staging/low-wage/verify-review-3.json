@@ -1,0 +1,22 @@
+{
+  "revision": 86,
+  "submissionId": "2be5474d-1af6-4522-88f7-2b8f51137c19",
+  "actor": "verify-reviewer-3 (Sonnet agent a5fc69b1e3e777780, fresh context; 重跑 4 條、diff 新句對法條原文與 raw)",
+  "verdict": "accept",
+  "rationale": "機械閘門重跑與 summary.tsv 一致。新句核對：最低工資法第 3／4 條與 law.moj.gov.tw 逐字相符；產業移工月薪隨最低工資調升見 mol-114 移工調查 L170；家庭看護工／自營作業者排除與第四節既有查證一致；腳註 3 補述與 113 新聞稿 L382-383 逐字相符。正文「兩欄之間」只剩收尾一次。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L104, L269, L271, L291"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/mol-114年移工管理及運用調查統計結果.txt",
+      "location": "L170"
+    },
+    {
+      "path": "reports/staging/low-wage/verify/summary.tsv",
+      "location": "16 行"
+    }
+  ],
+  "contextDisclosure": "fresh-context-submission-and-artifacts-only"
+}

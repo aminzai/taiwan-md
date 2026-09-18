@@ -1,7 +1,7 @@
 {
-  "revision": 76,
+  "revision": 85,
   "stage": "verify",
-  "actor": "主 session 重跑機械閘門（release 退回修正後，HEAD 07206361c0）並彙整；來源查核由 verify 站查核員 a1bc1166cda4c2b36 執行，後續各批微調由 compose-reviewer-5..13 對原文核",
+  "actor": "主 session 重跑機械閘門（HEAD 566a41b641）並彙整；來源查核由 verify 站查核員 a1bc1166cda4c2b36 執行，後續各批微調由 compose-reviewer-5..14 對原文核，verify-reviewer-1/2 復核",
   "artifacts": [
     "knowledge/Society/誰算低薪.md",
     "reports/staging/low-wage/verify/summary.tsv",
@@ -23,7 +23,8 @@
       "許宇甄段（記者轉述＋「按照定義，你不算低薪」）；腳註 6 描述 ｜ 來源：udn.com/news/story/6656/9755906（compose-reviewer-6/7 以 curl 開原頁核） ｜ ✅ 引號只落在報導加引號的短語；「僅一句」誤述已改（commit 932c0b5f93）",
       "直接引語（譚文玲／民眾黨／聯合報主筆室／楊書瑋／王燕杰／賴清德／卓榮泰） ｜ 來源：Stage 3 verifier-A/B 逐字表（reports/research/2026-09/誰算低薪-stage36-audit.md）；本輪查核員確認腳註分工（統計→官方新聞稿、發言→媒體）內部一致 ｜ ✅",
       "release 站退回後新增句「這份全年統計以投保天數當權數…」 ｜ 來源：raw/113-新聞稿.txt L380「以投保天數為權數，正確衡量其薪資所得之全年代表性」 ｜ ✅ compose-reviewer-10 對回原文",
-      "第七節許宇甄段引號與腳註 6（第六、七、十一輪三次修正） ｜ 來源：udn.com/news/story/6656/9755906 ｜ ✅ compose-reviewer-6/7/12/13 以 curl 開原頁核"
+      "第七節許宇甄段引號與腳註 6（第六、七、十一輪三次修正） ｜ 來源：udn.com/news/story/6656/9755906 ｜ ✅ compose-reviewer-6/7/12/13 以 curl 開原頁核",
+      "倒數第二段三句（部分工時時薪／產業移工月薪跟 9/24 走；自營作業者、雇主、無酬家屬、家庭看護工在最低工資法外） ｜ 來源：最低工資法第 3／4 條（law.moj.gov.tw N0030028）＋raw/mol-114年移工調查（隨最低工資調升）＋第四節家庭看護工不適用勞基法 ｜ ✅ compose-reviewer-14 對第四節與法條核"
     ],
     "mechanicalChecks": [
       {
