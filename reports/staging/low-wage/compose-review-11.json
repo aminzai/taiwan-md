@@ -1,0 +1,14 @@
+{
+  "revision": 67,
+  "submissionId": "e7a3802d-37f9-44da-886d-9b1b639ce19e",
+  "actor": "compose-reviewer-11 (Sonnet agent a8b64638b98847dc5, fresh context, read diff + §3 + §5)",
+  "verdict": "accept",
+  "rationale": "「最大的一塊」呼應「主要不是全部」的投保天數但書，仍是有立場的兌現句；「文本也沒有寫下」把主張收斂到文本可證範圍。僅「定義文本裡…文本也沒有」相鄰稍重複，風格瑕疵不影響通過。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "line 76 / 104 / 129"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}
