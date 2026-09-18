@@ -2,9 +2,7 @@
 title: "Taiwan Travelogue: un libro 'traducido por la hermana menor', de Spring Hill al podio de premiación en Londres"
 description: "El día de junio de 2015 en que murió su hermana menor Yang Ruo-hui, Yang Ruo-ci abrió los cuadernos de cuentas que ella había dejado y comenzó a registrar gastos; tardó tres días en descifrar el código de marcas y círculos. Cinco años después, Spring Hill publicó Taiwan Travelogue bajo la firma 'escrito por Aoyama Chizuko, traducido por Yang Shuang-zi': en la línea de la traductora figuraba la hermana menor fallecida. En los National Book Awards de Nueva York de 2024 y en el Booker Prize de Londres de 2026, tradujo con el nombre de su hermana menor un libro que no existe."
 date: 2026-05-23
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '文學作品'
 tags:
   [
     'literatura',
@@ -16,18 +14,26 @@ tags:
     'yuri',
     'Spring Hill Publishing',
   ]
+subcategory: '文學作品'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-23
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
-sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
-translatedAt: '2026-06-16T17:04:27Z'
+researchReport: 'reports/research/2026-05/taiwan-travelogue.md'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'
 imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
+sporeLinks:
+  [
+    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
+    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
+  ]
+translatedFrom: 'Art/臺灣漫遊錄.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:d4818d717761979b'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
+translatedAt: '2026-09-18T12:02:09.804937+00:00'
 ---
 
 ![Yang Shuang-zi el 20 de noviembre de 2024, en la ceremonia de los National Book Awards en Nueva York, de pie junto al trofeo con una chaqueta oscura y gesto sereno](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
@@ -134,31 +140,31 @@ En una entrevista con The Reporter, Yang Shuang-zi planteó el problema con aún
 
 > 📝 **Nota curatorial**: El relato habitual del premio es “la primera figura de la literatura taiwanesa”, “traer gloria al país”. Pero si se escuchan con cuidado los dos discursos de aceptación de Yang Shuang-zi, su vocabulario es contenido. Ella dice: “Poder nacer taiwanesa es mi fortuna; poder estar aquí como escritora taiwanesa es mi orgullo”, no “traer gloria a Taiwán”. ¿Cuál es la diferencia? Lo primero sitúa su propia posición dentro del largo río de cien años de la literatura taiwanesa; lo segundo convierte el premio en una condecoración nacional. Ella entiende que lo que recibe es el testigo de una “pregunta de cien años”, no una gloria personal.
 
-## El epílogo lo escribió una persona muerta hacía cinco años
+## Epílogo escrito por alguien que murió hace cinco años
 
-Al atardecer del 19 de junio de 2015, en el undécimo día desde que había vuelto a casa desde la unidad de cuidados paliativos, Yang Ruo-hui dejó de respirar. Ese mismo día, Yang Ruo-ci abrió el primer cuaderno de cuentas que su hermana menor había dejado y empezó a anotar los gastos del día siguiente. Tardó tres días en entender las marcas de verificación, los círculos y los triángulos, esos códigos que solo la hermana menor comprendía.
+A las seis de la tarde del 19 de junio de 2015, Yang Ruo-hui falleció en casa, once días después de ser dada de alta de una sala de cuidados paliativos. Ese día, Yang Ruo-ci abrió el primer cuaderno dejado por su hermana y comenzó a registrar los gastos del día siguiente. Le tomó tres días descifrar los códigos secretos —marcas de verificación, círculos y triángulos— que solo su hermana entendía.
 
-Once cuadernos completos, desde 1999, cuando las hermanas tenían 15 años, hasta el día anterior a la muerte de la menor. Cada dólar registrado.
+Un total de 11 cuadernos, desde cuando las hermanas tenían 15 años en 1999 hasta el día anterior a la muerte de la menor. Se registró cada centavo.
 
-Cinco años después, en la primavera de 2020, Spring Hill publicó un libro. En la cubierta figuraba: “Aoyama Chizuko, autora / Yang Shuang-zi, traductora”. Al llegar a la última página, el “epílogo de la traductora” estaba firmado “Yang Ruo-hui”. Era una persona muerta hacía cinco años que, en el epílogo, adoptaba la voz de una traductora para complementar el contexto de la “autora original” Aoyama Chizuko e incluir notas al pie ficticias.
+Cinco años después, en la primavera de 2020, Chunshan publicó un libro. En la cubierta aparecían los nombres: «Escrito por Qingshan Qian-ruzi / Traducido por Yang Shuang-zi». Al llegar a la última página, el «Epílogo del traductor», se firmaba con el nombre de Yang Ruo-hui. Era alguien que había muerto cinco años antes, y en ese epílogo, utilizando la voz de una traductora, complementaba la narrativa de la «autora original» Qingshan Qian-ruzi, listando notas a pie de página ficticias.
 
-Cinco años y medio más tarde, en mayo de 2026, en el podio de premiación de Londres, Yang Shuang-zi subió al escenario con un vestido negro; Lin King estaba a su lado. Abajo, cinco jurados del Booker acababan de elegir 6 libros entre 128, y luego, de esos 6, esta novela en chino. Yang Shuang-zi habló durante 4 minutos y no mencionó las dos palabras “hermana menor”.
+Medio año más tarde, en el escenario de la entrega de premios de Londres en mayo de 2026, Yang Shuang-zi subió con un vestido negro y Lin King a su lado. Los cinco miembros del jurado del Booker Prize que estaban en la audiencia acababan de seleccionar este libro en lengua china entre los 6 elegidos de 128 obras. Yang Shuang-zi dio un discurso de cuatro minutos sin mencionar la palabra «hermana».
 
-Pero en una entrevista con U People dijo una frase que podría colocarse como nota al pie de esa ceremonia: “Ojalá este resultado hubiera llegado un poco antes; quizá mi hermana menor habría podido verlo”[^34].
+Pero ella mencionó algo en una entrevista para _U People_ que podría servir como nota al pie después de esta ceremonia: «Ojalá este resultado hubiera llegado antes, quizás mi hermana lo habría podido ver» [^34].
 
-Los cuadernos de cuentas fueron el código que Yang Ruo-hui dejó a su hermana mayor. Ese libro fue el lugar que Yang Ruo-ci dejó para su hermana menor.
+El cuaderno era el código que Yang Ruo-hui dejó a su hermana. Ese libro era la posición que Yang Ruo-ci le dejó a su hermana.
 
-![Yang Shuang-zi leyendo con concentración el 19 de noviembre de 2024, en la lectura de finalistas de los National Book Awards en Nueva York, con lentes y la mirada puesta en el texto](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
-_19 de noviembre de 2024, lectura de finalistas de los National Book Awards: Yang Shuang-zi lee en Nueva York un fragmento en inglés de 《Taiwan Travelogue》. La noche siguiente obtuvo oficialmente el premio de literatura traducida. Photo: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg), CC BY-SA 4.0._
+![Yang Shuang-zi leyendo concentrada en la lectura de nominados del National Book Awards de EE. UU. en Nueva York el 19 de noviembre de 2024, mirando los manuscritos con gafas](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
+_Lectura de nominados del National Book Awards (finalistas), Yang Shuang-zi leyendo un extracto en inglés de *Taiwan Travelogue* en Nueva York el 19 de noviembre de 2024. La noche anterior, ganó formalmente un premio literario traducido. Foto: Bea Phi (Phibeatrice), [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng%20Shu%C4%81ng-z%C7%90,%20writer,%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%203.jpg), CC BY-SA 4.0._
 
 **Lecturas relacionadas**:
 
-- [Literatura del período de dominio japonés](/es/art/taiwanese-literature-during-japanese-rule) — Contexto histórico en el que se sitúa 《Taiwan Travelogue》 en 1938, y la genealogía de escritura femenina y local abierta por autoras y autores como Yang Chian-he, Lai He y Lung Ying-tsung
-- [Literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — Cómo la generación de Yang Shuang-zi continúa la escritura local de Wu Ming-yi, Lin Yi-han y Lo Yi-chin y avanza hacia el mercado internacional de la literatura traducida
-- [Literatura taiwanesa después del levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — Desde el levantamiento de la ley marcial en 1987 hasta la década de 2020: escritura femenina, escritura LGBTQ+ y literatura en lenguas maternas; de aquí proviene la tradición “yuri” de Yang Shuang-zi
-- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El contexto general al que corresponde la “pregunta de cien años” mencionada por Yang Shuang-zi al recibir el premio
-- [Chu Tien-wen](/es/people/chu-tien-wen) — Escritora representativa de la escritura femenina después del levantamiento de la ley marcial; las estrategias de atribución ficticia en 《Notas de un hombre desolado》 y 《La ciudad antigua》 son antecedentes importantes de la falsa traducción en la literatura taiwanesa
-- [Wu Ming-yi](/es/people/wu-ming-yi) — También escritor taiwanés representativo de la ola internacional de literatura traducida en la década de 2020; 《El hombre de los ojos compuestos》 y 《La bicicleta robada》 han alcanzado visibilidad en el mundo anglófono
+- [Literatura durante el período japonés](/es/art/taiwanese-literature-during-japanese-rule) — El contexto histórico de _Taiwan Travelogue_ (1938), donde se establecen las narrativas femeninas y locales creadas por Yang Qian, Lai He y Lung Ying-tsong.
+- [Literatura contemporánea de Taiwán](/es/art/contemporary-taiwanese-literature) — Cómo la generación a la que pertenece Yang Shuang-zi continúa la escritura local de Wu Ming-yi, Lin Yi-han y Luo Yi-jun, dirigiéndose al mercado internacional de la literatura traducida.
+- [Literatura de Taiwán después del levantamiento militar](/es/art/post-martial-law-taiwanese-literature) — La marea de escritura femenina, escritora gay y literatura en lengua materna desde el levantamiento militar de 1987 hasta la década de 2020; la tradición "yuri" de Yang Shuang-zi proviene de aquí.
+- [Historia literaria de Taiwán](/es/art/history-of-taiwanese-literature) — El contexto general del «interrogante centenario» mencionado por Yang Shuang-zi al recibir un premio.
+- [Chu Tien-wen](/es/people/chu-tien-wen) — Escritora representativa de la escritura femenina después del levantamiento militar, cuya técnica de falsas atribuciones en _Memoria de un hombre desquiciado_ y _La ciudad antigua_ es un precursor importante de las estructuras de falsa traducción en la literatura taiwanesa.
+- [Wu Ming-yi](/es/people/wu-ming-yi) — Otro escritor taiwanés representativo del movimiento internacional de la literatura traducida en la década de 2020; la visibilidad de _El hombre con doble visión_ y _Crónica de un robo de bicicleta_ en el mundo anglosajón.
 
 ## Fuentes de las imágenes
 

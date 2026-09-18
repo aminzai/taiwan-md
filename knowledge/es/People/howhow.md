@@ -2,9 +2,7 @@
 title: 'Howhow: el hombre que puso el contenido patrocinado a plena luz, y la honestidad cada vez más cara que sostuvo él solo'
 description: 'En 2015, un YouTuber con menos de cien mil seguidores fue llevado por Samsung a Nueva York. Creyó que lo llamaban para trabajar como camarógrafo y guardó el contacto como «Gran benefactor». Chen Tzu-hao convertiría después, con la frase «¡Entramos directo al tema patrocinado!», la publicidad que los creadores más querían esconder en su propia marca, y sostuvo 1,54 millones de suscriptores escribiendo, dirigiendo, actuando y editando solo. Pero detesta la soledad y siempre quiso tener un equipo; y los videos largos en los que insiste están justo en la pista más aplastada por los videos cortos.'
 date: 2026-05-13
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -15,19 +13,21 @@ tags:
     'SevenFat',
     'Savannah College of Art and Design',
   ]
-readingTime: 16
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-05
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/Howhow.md'
-sourceCommitSha: 'f5975a22'
-sourceContentHash: 'sha256:c742af5d03f4c9ab'
-sourceBodyHash: 'sha256:a358cb4047d78691'
-translatedAt: '2026-07-16T00:48:02+08:00'
+readingTime: 16
 image: '/article-images/people/howhow-sevenfat-band-2017.webp'
 imageCredit: 'RJ廉傑克曼'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:七月半.jpeg'
+translatedFrom: 'People/Howhow.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:25c8ad9313478f48'
+sourceBodyHash: 'sha256:d75a906a8210150b'
+translatedAt: '2026-09-18T12:27:53.033499+00:00'
 ---
 
 > **Panorama en 30 segundos:** Chen Tzu-hao (Howhow) hizo una de las cosas más contraintuitivas en la historia de YouTube en Taiwán. Mientras otros buscaban todas las formas posibles de ocultar el contenido patrocinado, él escribió en letras enormes «¡Entramos directo al tema patrocinado!» y convirtió lo más incómodo para un creador en su propia marca. Solo, escribiendo guiones, dirigiendo, actuando y editando, sostuvo el canal HowFun, con 1,54 millones de suscriptores y 760 millones de visualizaciones. Pero aquí hay tres capas de contradicción que quizá no esperabas: su elogiado «contenido patrocinado honesto» es precisamente el mecanismo engañoso que la academia describe como «publicidad que no parece publicidad»; su «equipo de una sola persona» es una etiqueta que otros le pusieron, mientras él detesta la soledad y siempre quiso tener equipo; y los videos largos de alto costo en los que insiste caen justo en la pista más castigada por los videos cortos. Este texto trata sobre cómo un creador conserva su propio ritmo, y sobre cómo esa insistencia se está volviendo más cara.
@@ -42,24 +42,24 @@ Lo que de verdad le hizo ver la magia de la imagen fue un cortometraje subido el
 
 Después de que el video de la graduación se hiciera famoso, tomó una decisión que iba contra la intuición de un estudiante de economía: tras cumplir el servicio militar, se fue a Estados Unidos para estudiar una maestría en animación y efectos visuales en el Savannah College of Art and Design (SCAD)[^1]. Describió a su familia como quienes «me mandaron al extranjero a beber esa tinta occidental»[^5]. En SCAD se especializó en animación y efectos visuales; esa «animación», que a menudo se omite, explica justamente por qué más tarde pudo meter tantos trucos visuales en sus videos trabajando solo. Los años de estudio en el extranjero también hicieron que eso de «enfrentarse solo a la cámara» pasara poco a poco de ser una circunstancia real a convertirse en la postura más familiar de su obra.
 
-## Poner la palabra «patrocinado» bajo el sol
+## Poniendo el "patrocinio" a la luz
 
-![Howhow (Chen Tzu-hao) durante una entrevista en un programa de internet: lleva anteojos de marco negro y una camiseta oscura, gesticula bajo la luz del estudio con una expresión tímida](/article-images/people/howhow-webtvasia-interview-2016.webp)
-_Howhow habla en una entrevista sobre su creación y su método para el contenido patrocinado. El «rey del contenido patrocinado», que puso la publicidad a plena luz, es en privado un chico de Chengchi que se define como marginal. Photo: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG_SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA_x_HOWFUN_02.png)._
+![Cómohow (Chen Tzu-hao) es entrevistado en un programa web, con gafas de montura negra y una prenda oscura, haciendo gestos bajo las luces del estudio, con una expresión tímida](/article-images/people/howhow-webtvasia-interview-2016.webp)
+_Cómohow fue entrevistado sobre su creación y su filosofía de patrocinio. El "rey del patrocinio" que pone la publicidad a la luz es en privado un chico universitario autodenominado marginado. Foto: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG%20SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA%20x%20HOWFUN%2002.png)._
 
-En septiembre de 2015, el destino llamó a su puerta de una forma que ni él mismo podía explicar. Samsung iba a celebrar en el Lincoln Center de Nueva York el evento Unpacked del Galaxy Note 5 y, a través de la agencia publicitaria Leo Burnett, contactó a Howhow, que en ese momento todavía tenía menos de cien mil seguidores[^6]. Él recuerda que entonces «todavía pensé que querían contratarme como camarógrafo», porque «en ese momento mi número de suscriptores y de me gusta no era alto», y no entendía por qué lo habían elegido[^7]. Incluso guardó el contacto de Samsung en su teléfono con tres caracteres: «Gran benefactor»[^7].
+En septiembre de 2015, el destino se le presentó de una manera que él mismo no podía explicar. Samsung contactó a Cómohow[^6], quien en ese momento tenía menos de cien mil seguidores, a través de la agencia publicitaria Leo Burnett para presentar el Galaxy Note 5 en un evento Unpacked en Lincoln Center de Nueva York. Él recuerda que pensó que lo estaban buscando como fotógrafo, ya que "mis suscriptores y 'me gusta' no eran altos", y no entendía por qué lo habían elegido[^7]. Incluso guardó el contacto de Samsung en su teléfono con el nombre de "Gran benefactor" (大恩人)[^7].
 
 > **📝 Nota del curador**
-> Las presentaciones habituales suelen escribir este episodio como «Samsung se fijó en su estilo visual», pero esa es una versión romantizada que invierte la causalidad. Lo que dice Howhow es exactamente lo contrario: no sabía por qué lo habían elegido e incluso pensó que lo llamaban para ser camarógrafo. Samsung apostó por alguien que aún no era famoso, pero cuyas obras generaban confianza. En esta industria, que primero haya confianza y después tráfico es una ruta mucho más rara que «primero acumular seguidores y luego aceptar encargos». El nombre de contacto «Gran benefactor» registra el asombro de un creador de canal pequeño en el momento en que el mundo lo eligió.
+> Una introducción común diría que "Samsung valoró su estilo visual", pero esta es una versión romantizada que invierte la causalidad. La explicación de Cómohow es completamente opuesta: no sabía por qué lo habían elegido e incluso pensó que era para ser fotógrafo. Samsung apostó por alguien que aún no era famoso, pero cuyas obras inspiraban confianza. En esta industria, tener primero la confianza y luego el tráfico es un camino más raro que "ganar seguidores primero y luego conseguir contratos". El nombre de contacto "Gran benefactor" registra la sorpresa de un creador de un canal pequeño siendo elegido por el mundo.
 
-Lo que de verdad convirtió a Howhow en el «rey del contenido patrocinado» fue su manera de manejarlo. Cuando un YouTuber común recibe un encargo de una marca, suele buscar todas las formas posibles de esconder la publicidad dentro de la trama, para que el público sea persuadido sin darse cuenta. Howhow hizo lo contrario: usó una trama que cambiaba abruptamente de tono y añadió un gran subtítulo que decía directamente «¡Entramos directo al tema patrocinado!»[^8]. El público suele rechazar que le cuelen publicidad a escondidas; él, en cambio, puso la publicidad a plena luz, y eso provocó una sonrisa cómplice.
+Lo que realmente convirtió a Cómohow en el "rey del patrocinio" fue su método para manejar los patrocinios. Mientras que otros YouTubers, al recibir una marca, intentan ocultar la publicidad dentro de la trama para que los espectadores sean promocionados sin darse cuenta, Cómohow hizo lo contrario: utilizó un segmento con un cambio de tono y un gran subtítulo que decía directamente: "¡Entramos directo en el tema del patrocinio!"[^8]. Los espectadores generalmente odian la publicidad encubierta, así que él simplemente puso la publicidad a plena vista, lo que paradójicamente hacía sonreír a la gente.
 
-Detrás de esa «franqueza» hay una filosofía que tenía muy pensada. Dijo: «Si haces que el público llegue al final y recién entonces descubra “vaya, era contenido patrocinado”, en realidad eso ya es una forma de éxito», porque «la forma de contar la historia es muy importante... si supera el rechazo al contenido patrocinado, hiciste lo correcto»[^9]. Si desmontamos esa frase, lo que le importa en realidad es si «la historia es entretenida»: tan entretenida que olvides que es publicidad. Ante la vieja pregunta de si «haber cobrado para servir a una marca no traiciona al público», su respuesta es muy pragmática: «Servirlos y hacer que les parezca gracioso basta»[^7].
+Detrás de esta "franqueza" hay una filosofía bien pensada. Él dice: "Si los espectadores descubren al final '¡esto es un patrocinio!', en realidad es un éxito", porque "la forma de contar la historia... es más importante que el disgusto por el patrocinio, eso significa que lo hicimos bien"[^9]. Desglosando esta frase, lo que le importa es si "la historia es buena", tan buena que te hace olvidar que es publicidad. Respecto a la vieja pregunta de "¿es malo servir a una marca por dinero?", su respuesta es práctica: "Servirlos y hacerles reír es suficiente"[^7].
 
-> **⚠️ Punto de vista polémico**
-> Este modelo de «contenido patrocinado honesto» suena impecable, pero la academia ve otra cara. Los estudios sobre publicidad nativa señalan que, incluso cuando se marca claramente «esto es publicidad», cerca de una cuarta parte del público no se da cuenta de que está viendo publicidad y por eso resulta influido[^10]. En otras palabras, el hecho mismo de «hacer atractiva la publicidad» es el mecanismo engañoso de la «publicidad que no parece publicidad»: cuanto más te ríes, más bajas la guardia. El «¡Entramos directo al tema patrocinado!» de Howhow llevó la señalización al extremo, pero su habilidad es también precisamente aquello que más preocupa a la academia: cuanto mejor es un anuncio, más hace olvidar que es un anuncio. El cansancio y la desconfianza de la sociedad taiwanesa ante el «yepei» (juego fonético con _yepei_, contenido patrocinado) forman parte de la misma ansiedad por la «publicidad que se infiltra en el contenido». También hubo espectadores que lo criticaron directamente: «¿Cómo es que en tu canal ya solo queda contenido patrocinado?»[^11]. Quien convierte el contenido patrocinado en su marca no puede escapar al efecto rebote de la pregunta: «¿no habrá quedado solo eso?».
+> **⚠️ Punto controvertido**
+> Esta "publicidad honesta" suena inexpugnable, pero el ámbito académico ve otra cosa. La investigación sobre la publicidad nativa (native advertising) indica que incluso cuando se etiqueta claramente como "esto es un anuncio", aproximadamente una cuarta parte de la audiencia no se da cuenta de que está viendo un anuncio y, por lo tanto, es influenciada[^10]. En otras palabras, el acto de "hacer que la publicidad sea bonita" es en sí mismo un mecanismo engañoso: cuanto más feliz te rías, menor será tu defensa. El "¡Entramos directo en el tema del patrocinio!" de Cómohow ciertamente lleva la etiqueta al extremo, pero su genialidad es precisamente lo que más alerta a la academia: cuanta más bonita sea la publicidad, más fácil es olvidar que es un anuncio. La fatiga y desconfianza de la sociedad taiwanesa hacia los "patrocinios disfrazados" (葉配) es lo mismo que la ansiedad por esta "infiltración publicitaria en el contenido". Algunos espectadores también han criticado directamente: "¿Por qué tu canal solo tiene patrocinios?".[^11] Quien convierte el patrocinio en marca no puede escapar de la reacción negativa de "solo hay patrocinios".
 
-La normativa taiwanesa también fue detrás de este fenómeno. En 2023, la Comisión de Comercio Justo modificó reglas relevantes y exigió que los influencers asumieran responsabilidad solidaria con los vendedores por los productos que recomiendan, una medida considerada entre las regulaciones más estrictas de Asia sobre publicidad de influencers[^12]. En un entorno que exige cada vez más transparencia, la práctica de Howhow de «te digo abiertamente que esto es patrocinado» parece haber quedado del lado correcto por adelantado. Pero la academia nos recuerda que la forma transparente no equivale a ausencia de influencia infiltrada.
+Las regulaciones de Taiwán también están siguiendo este tema. En 2023, la Comisión de Comercio Justo modificó las normas relacionadas, exigiendo que los _influencers_ asuman responsabilidad solidaria por los productos y vendedores recomendados, lo que constituye una de las normativas publicitarias para _influencers_ más estrictas de Asia[^12]. En este entorno cada vez más transparente, la做法 de Cómohow de "te digo abiertamente que es un patrocinio" parece haber tomado el lado correcto antes. Sin embargo, la academia nos recuerda que la forma transparente no equivale a una infiltración sin influencia.
 
 ## Solo, pero nunca quiso estar solo
 
