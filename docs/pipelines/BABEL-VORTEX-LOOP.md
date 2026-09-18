@@ -3,9 +3,9 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.55'
-last_updated: 2026-08-09
-last_session: '2026-08-09-vortex-babel（委派層 SOP 定型：三支新儀器＋四支修好＋三條元規則）'
+current_version: 'v1.57'
+last_updated: 2026-09-18
+last_session: '2026-09-18-semiont-heartbeat（target-language-check 補逐行外來文字尺：尾段韓文漂移）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
@@ -272,6 +272,23 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.57（2026-09-18 晚間心跳）：**整篇多數票看不到尾段換語言**。handoff 留了一條
+  「ar 馬英九 30 秒概覽混了一個韓文『한쪽』」的單檔小修，照 REFLEXES #24「單例不代表
+  集群」掃全庫：hi 370／ar 314／ru 265 篇非韓文譯文裡有韓文，2026-09 還在新增。
+  兩種形狀：(a) **尾段整段韓文**——媒體授權說明、「## 참고 자료」、腳註描述整段是
+  韓文而正文是天城文（本機模型長輸出翻到尾巴語言漂掉），hi 39 篇、ar 1 篇；
+  (b) **單字級融合殘留**（「कार्बन उत्सर्जन 추진 कर रहा है」），約 900 篇，是 #52
+  的韓文版。閘門為什麼全綠：`target-language-check` 是整篇字符占比多數票，尾段 25 行
+  韓文佔不到多數；`cjk-leak-check` 只看漢字四連且腳註行豁免，韓文對它不存在；
+  `cjk-residue-check` 看得見 Hangul 但從沒接上產線。修法：`target-language-check`
+  加第二把**逐行**尺 `foreign_script_check`——剝掉連結文字／引號／括號／網址／
+  blockquote 後，一行韓文 ≥ 4 字且不少於目標語言字母數即「外來文字行」，≥ 2 行或
+  單行 ≥ 20 字零目標字母 → fail，恰一行 warn；`babel-dispatch.verify_one` 把它記成
+  `foreign-script[ko]`（跟 `wrong-language` 分開，report.jsonl 才分得出「翻錯語言」
+  與「翻到一半換語言」）。校準：拉丁七語 0 誤殺（〈台灣感性〉的 대만감성、統一發票
+  的韓文來源標題都在豁免位置）；同一把尺量假名會在九語系各誤殺莫那·魯道的日文
+  遺言引句，所以只量韓文。存量 40 篇 → OBSERVER-QUEUE #69（<50 檔，#68 合併後可
+  自主降級 stale）；(b) 900 篇併 #52 處置。
 - v1.56（2026-09-09 觀察者驅動渦流）：**一輪裡浮出四個缺口，其中一個是隊伍本身**。
   (a) **212 篇文章十二個語言都排不進隊**：檔名是純中文、又還沒有任何語言翻過的
   文章，`build_slug_map()` 反推不出 slug，`collect_and_filter_groups()` 直接

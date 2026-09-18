@@ -368,7 +368,12 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     )
     if r0.returncode != 0:
         detected = re.search(r"看起來是 (\w+)", r0.stdout)
-        reason = f"wrong-language[{detected.group(1) if detected else '?'}]"
+        if "韓文漂入" in r0.stdout:
+            # 2026-09-18：整篇是目標語言、尾段漂成韓文（hi/ar/ru 1,100+ 篇存量的病）。
+            # 跟 wrong-language 分開記，report.jsonl 才分得出「翻錯語言」與「翻到一半換語言」。
+            reason = "foreign-script[ko]"
+        else:
+            reason = f"wrong-language[{detected.group(1) if detected else '?'}]"
         log(f"❌ GATE FAIL {trans_path} ({reason})")
         return False, reason
     r1 = subprocess.run(

@@ -26,6 +26,17 @@ target-language-check.py — 譯文到底是不是它宣稱的那個語言。
   所以輸出的是「最像哪個語言」加分差，讓呼叫端決定；只有在「判定語言 ≠ 目標
   語言且分差夠大」時才 hard fail。
 
+  整篇多數票看不到局部漂移（2026-09-18 heartbeat 補第二把尺）：
+  hi/ar/ru 有 1,100+ 篇譯文的**尾段**（媒體授權說明、參考資料區、腳註描述）整段是
+  韓文——本機模型翻到長輸出的尾巴語言漂到韓文，正文仍是天城文／阿拉伯文，所以
+  整篇字符占比的多數票照樣把它判成目標語言。cjk-leak-check 只看漢字四連且豁免
+  腳註行，看不見韓文。所以多加一條**逐行**判準：剝掉連結文字、引號、括號、網址
+  之後，一行裡韓文字 ≥ 4 且不少於目標語言字母數，就是「外來文字行」；兩行以上、
+  或單行 ≥ 20 個韓文字而目標語言字母為零，hard fail；恰一行 warn。
+  只量韓文不量假名：假名的合法提及密度太高（莫那·魯道的日文原句在九個語系都是
+  blockquote 引文），同一把尺對假名在 9 語系各誤殺 1 篇。單字級的融合殘留
+  （印地文句子裡掉一個「추진」）不在這把尺的射程，那是 cjk-residue-check 的事。
+
 用法：
   python3 scripts/tools/lang-sync/target-language-check.py knowledge/de/Foo/bar.md
   python3 scripts/tools/lang-sync/target-language-check.py --scan de        # 掃整個語言目錄
@@ -127,6 +138,60 @@ def cyrillic_sibling_check(text: str, target: str) -> str | None:
     return None
 
 
+# 外來文字行：局部語言漂移的尺（整篇多數票看不到）。剝除的是「提及」會住的位置——
+# 連結文字（韓文來源的標題）、引號／括號（「대만감성」這種被討論的詞）、網址、腳註標籤。
+# blockquote 整行豁免：原文引句（莫那·魯道的日文遺言）本來就該是外語。
+FOREIGN_STRIP = re.compile(
+    r"```.*?```|`[^`]*`|https?://\S+|\[[^\]]*\]\([^)]*\)|\([^)]*\)|（[^）]*）"
+    r"|\"[^\"]*\"|“[^”]*”|«[^»]*»|「[^」]*」|『[^』]*』|\[\[[^\]]*\]\]|\[\^[^\]]*\]:?",
+    re.S,
+)
+HANGUL = re.compile(r"[가-힣]")
+LATIN_LETTERS = r"[a-zA-ZÀ-ÿĀ-ž]"
+OWN_SCRIPT = {
+    "ru": SCRIPT_RANGES["ru"],
+    "ar": SCRIPT_RANGES["ar"],
+    "hi": SCRIPT_RANGES["hi"],
+    "ja": r"[぀-ゟ゠-ヿ一-鿿]",  # ja 的「自己的字」含漢字，韓文行才會是少數
+}
+FOREIGN_MIN_CHARS = 4      # 一行至少幾個韓文字才算數（低於這個是單字融合殘留，另一把尺）
+FOREIGN_SOLO_CHARS = 20    # 單行 ≥ 這個數且目標語言字母為零 → 直接 fail
+
+
+def foreign_script_check(text: str, target: str) -> tuple[str, str]:
+    """回傳 (verdict, note)：verdict ∈ {"ok", "warn", "fail"}。target 為 ko 不查。
+
+    吃原始全文而不是 body_of() 的產物：行號要對得回檔案（body_of 會把程式碼區塊
+    壓成一格，行號會漂），frontmatter 只跳過不重排。"""
+    if target == "ko":
+        return "ok", ""
+    own = re.compile(OWN_SCRIPT.get(target, LATIN_LETTERS))
+    start = 1
+    m = re.match(r"^---\n.*?\n---\n", text, re.S)
+    if m:
+        start = text[: m.end()].count("\n") + 1
+        text = text[m.end():]
+    bad: list[tuple[int, int, int, str]] = []
+    for i, line in enumerate(text.splitlines(), start):
+        if line.lstrip().startswith(">"):
+            continue
+        stripped = FOREIGN_STRIP.sub(" ", line)
+        h = len(HANGUL.findall(stripped))
+        if h < FOREIGN_MIN_CHARS:
+            continue
+        o = len(own.findall(stripped))
+        if h >= o:
+            bad.append((i, h, o, line.strip()[:60]))
+    if not bad:
+        return "ok", ""
+    first = bad[0]
+    note = (f"韓文漂入非韓文譯文：{len(bad)} 行以韓文為主，第一處 L{first[0]}"
+            f"（韓文 {first[1]} 字 vs {target} {first[2]} 字）「{first[3]}」")
+    if len(bad) >= 2 or any(o == 0 and h >= FOREIGN_SOLO_CHARS for _, h, o, _ in bad):
+        return "fail", note
+    return "warn", note
+
+
 def judge(path: Path, target: str) -> dict:
     text = path.read_text(encoding="utf-8", errors="replace")
     body = body_of(text)
@@ -137,6 +202,7 @@ def judge(path: Path, target: str) -> dict:
     tgt_s = scores.get(target, 0.0)
 
     sibling = cyrillic_sibling_check(body, target)
+    foreign_verdict, foreign_note = foreign_script_check(text, target)
     verdict = "ok"
     if sibling:
         verdict = "fail"
@@ -148,6 +214,13 @@ def judge(path: Path, target: str) -> dict:
         verdict = "fail"
     else:
         verdict = "warn"
+    # 整篇語言錯是更根本的病，先報它；整篇沒錯才輪到局部的韓文漂入
+    note = sibling or ""
+    if verdict in ("ok", "skip-too-short", "warn") and not sibling:
+        if foreign_verdict == "fail":
+            verdict, note = "fail", foreign_note
+        elif foreign_verdict == "warn" and verdict == "ok":
+            verdict, note = "warn", foreign_note
     return {
         "path": str(path.relative_to(REPO)),
         "target": target,
@@ -156,7 +229,7 @@ def judge(path: Path, target: str) -> dict:
         "target_score": round(tgt_s, 4),
         "detected_score": round(best_s, 4),
         "tokens": len(words),
-        "note": sibling or "",
+        "note": note,
     }
 
 
@@ -206,7 +279,10 @@ def main() -> None:
                 f"{r['detected']}（{r['detected_score']}）")
             print(f"❌ {r['path']}\n   {reason}")
         for r in warns:
-            print(f"⚠️  {r['path']}: 目標 {r['target']}({r['target_score']}) vs 最像 {r['detected']}({r['detected_score']}) — 分數接近，請人看")
+            if r.get("note"):
+                print(f"⚠️  {r['path']}: {r['note']} — 請人看")
+            else:
+                print(f"⚠️  {r['path']}: 目標 {r['target']}({r['target_score']}) vs 最像 {r['detected']}({r['detected_score']}) — 分數接近，請人看")
         print(f"\n{len(fails)} fail / {len(warns)} warn / {len(results)} 檔")
 
     sys.exit(1 if fails else 0)
