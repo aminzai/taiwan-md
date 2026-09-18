@@ -7,13 +7,13 @@
    ✅ cjk-punct  hard=0 warn=0
    ✅ chronicle-lead  hard=0 warn=0
    ✅ word-count  hard=0 warn=0 info=1
-      info : 字數統計：6924 CJK chars (154% of 4500 門檻)
+      info : 字數統計：7329 CJK chars (163% of 4500 門檻)
    ✅ image-health  hard=0 warn=0 info=1
       info : 圖片統計：4 inline + 1 hero (frontmatter) = 5 張
    ✅ paragraph-rhythm  hard=0 warn=0
    ✅ media-richness  hard=0 warn=0 info=2
       info : 媒體統計：1 iframe + 5 image (門檻 image ≥ 3 hard / iframe ≥ 1 info-only)
-      info : 媒體數量 advisory：圖+影片 6 < 11 (depth 11941 字，~1 媒體/1100 字；長文 (≥7000 字) 朝 圖+影片 ≥ 8)。 富媒體範本：設研院 5 圖 / 陳建年 8 (圖+影片) / 天下 6。
+      info : 媒體數量 advisory：圖+影片 6 < 11 (depth 12458 字，~1 媒體/1100 字；長文 (≥7000 字) 朝 圖+影片 ≥ 8)。 富媒體範本：設研院 5 圖 / 陳建年 8 (圖+影片) / 天下 6。
    ✅ viz-health  hard=0 warn=0
 
 Summary: hard=0  warn=0  info=4  passed=True (fail_on=hard)

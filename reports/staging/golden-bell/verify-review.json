@@ -1,0 +1,41 @@
+{
+  "revision": 94,
+  "submissionId": "5df4730a-0c82-46de-9f83-d984f80e71bf",
+  "actor": "verify 站評閱員（Sonnet，Agent a6e5226cb2cea120f；contextDisclosure: fresh-context-verify-only）",
+  "verdict": "accept",
+  "rationale": "7 條 sourceChecks 逐一 curl 原文核對全數為真（1965 八座七家與 1971 條文命中報時光；陳亞蘭三句與「男裝反串」命中中央社；2011 bamid 名單證實客家電視戲劇節目獎＋編劇獎；106 年度要點四條命中、105 年度確認皆缺；Netflix 2023 40 項 12 座；第 61 屆 122 家／824／883／135／101／27／20）。重跑 rewrite-stage-4、3-5、prose-health、prose-flow、footnote-url、image-health 六條，退出碼與輸出與存檔一致；footnote 70/70 無孤兒；url-check 三個 403 重現。unresolved 揭露的兩處 state.json 缺口檔案存在且吻合，判斷誠實。未發現造假或工件不存在。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "[^4][^31][^67][^23][^24][^60][^57] 逐字命中"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/rewrite-stage-4.txt",
+      "location": "重跑 exit 0 hard=0 warn=0 一致"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/prose-health.txt",
+      "location": "重跑 exit 1 唯一 warn L128 全形分號一致"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/prose-flow.txt",
+      "location": "重跑 exit 0 0/3 一致"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/footnote-url.txt",
+      "location": "重跑 exit 0；used=70 defs=70"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/url-check.txt",
+      "location": "curl 重現 3 個 403"
+    },
+    {
+      "path": "reports/staging/golden-bell/cold-read-review-2.json",
+      "location": "unresolved 揭露缺口檔案存在"
+    },
+    {
+      "path": "reports/staging/golden-bell/compose-review-8.json",
+      "location": "unresolved 揭露缺口檔案存在"
+    }
+  ]
+}

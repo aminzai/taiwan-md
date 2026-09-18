@@ -1,0 +1,21 @@
+{
+  "revision": 104,
+  "submissionId": "7205c0b1-24e4-4043-82e7-170a9a3b28e9",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ae1205b4752d20b9b；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "多數困惑屬前輪已判裁量或文章已揭露的 hedge（三分之二「查無」；教化典故在 L35、L130、L200 三處呼應，讀者看漏；公視段、陳亞蘭並置、三例打包、「這幾次」、門重複、Netflix 40、「一樣認真」）。唯一新真問題：L46「入圍即得獎」官方說法丟出後全文無最低限度脈絡，讀者重讀也解不開，補一個從屬子句說明其實際內容或明講只是話術。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L46「入圍即得獎」缺脈絡——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L35／L130／L200 教化典故三次呼應——讀者看漏"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L101／L157／L130-132／L91／L216——裁量"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "revision": 111,
+  "submissionId": "bbb82a04-5f67-451e-922a-e1da93e4d231",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent aac51890c5f5bce78；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "accept",
+  "rationale": "九點逐一對照原文，無一條是重讀也解不開的邏輯或事實缺口：表格首欄「階段」明示主題分組且另有「年份帶」；1979–1980 空白源自 [^2] 列表本身，正文已自限「從 1981 年往下讀」；H2「十七年」為年份跨度，L71 立即交代 1994、1996 例外；2007《危險心靈》屬「表格摘要＋正文補例」分工；三分之二為自曝落差的 hedge；額度段先鋪陳後翻轉；主題句兩次為不同小節重申；「這幾次」與結尾已限定。無必修項。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L75-83 表格「階段」＋「年份帶」——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L65／L243 從 1981 讀起、列表無 1979–1980——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L67／L71 十七年跨度＋例外——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L85／L157／L101／L91／L121——裁量"
+    }
+  ]
+}

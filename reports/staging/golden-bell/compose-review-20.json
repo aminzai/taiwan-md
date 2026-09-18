@@ -1,0 +1,13 @@
+{
+  "revision": 109,
+  "submissionId": "1015abae-19ee-446d-b3d4-4ad051b3fcc7",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十九次 delta）",
+  "verdict": "accept",
+  "rationale": "curl gba.tavis.tw/60th/about.html 確認 1984 條目逐字，新句對應原文（省略「社會相關人士」為合理精簡），直接引語逐字並標為官方說法，「擴大到入圍者」為合理詮釋。1981 句同頁核對成立。footnote 71/71，其餘未動。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L45（1984 金鐘禮讚句）"
+    }
+  ]
+}

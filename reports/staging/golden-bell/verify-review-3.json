@@ -1,0 +1,21 @@
+{
+  "revision": 115,
+  "submissionId": "ecfefc46-29b3-445e-8641-742710cdb83b",
+  "actor": "verify 站評閱員（Sonnet，Agent a6e5226cb2cea120f；contextDisclosure: prior-verify-reviewer-reread，第三輪）",
+  "verdict": "accept",
+  "rationale": "文章未動（prose-health、footnote-url、used/defs 71/71 重跑與上輪逐字相同）。新敘述逐項對齊 L83 與 [^21]（製作單位三家、參賽另兩家），2025 六家含台灣大哥大非領銜為背景佐證，與「良人行等」不衝突，上輪矛盾解除。其餘 18 條沿用已核實結果。可進 release 站。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L83 表格文字與新敘述一致"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "[^21] L281 製作單位三家逐字對齊"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/prose-health.txt",
+      "location": "重跑一致"
+    }
+  ]
+}

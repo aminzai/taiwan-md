@@ -4,8 +4,8 @@
    ✅ footnote-density  hard=0 warn=0
    ✅ correction-meta  hard=0 warn=0
    ✅ quote-fidelity  hard=0 warn=0 info=3
-      info L105: superlative 原子「史上第一位」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
-      info L107: superlative 原子「第一位」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
-      info L129: superlative 原子「唯一」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
+      info L110: superlative 原子「史上第一位」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
+      info L112: superlative 原子「第一位」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
+      info L134: superlative 原子「唯一」 — writer 自漂移高發區，Step 3.6.1 原子重驗優先驗證（≥2 源；單源請軟化措辭）。
 
 Summary: hard=0  warn=0  info=3  passed=True (fail_on=hard)
