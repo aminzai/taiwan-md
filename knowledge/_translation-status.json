@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T08:11:14+08:00",
-    "zhCommitHead": "cb4c0d998",
+    "lastUpdated": "2026-09-18T08:44:08+08:00",
+    "zhCommitHead": "08ebf5dd8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1036,
+        "fresh": 1037,
         "stale": 50,
-        "metadata_stale": 9,
+        "metadata_stale": 8,
         "missing": 26,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 760,
+        "fresh": 763,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 354,
+        "missing": 351,
         "orphan": 0
       }
     },
@@ -8608,18 +8608,16 @@
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "50617dc1",
-          "sourceContentHash": "sha256:25424dad4bf389f3",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "translatedAt": "2026-09-18T00:53:01+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/pxmart-supermarket.md",
@@ -8656,8 +8654,8 @@
           "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
           "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "08ebf5dd",
+          "translationLastModified": "2026-09-18T08:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -11868,8 +11866,8 @@
           "sourceContentHash": "sha256:4a1f10aaddce056e",
           "sourceBodyHash": "sha256:7f55fdd7f7687d07",
           "translatedAt": "2026-09-17T22:39:05.336373+00:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "08ebf5dd",
+          "translationLastModified": "2026-09-18T08:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -21769,8 +21767,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-09-17T22:54:53.364264+00:00",
-          "translationLastCommit": "68ff840a",
-          "translationLastModified": "2026-08-09T08:59:47+08:00",
+          "translationLastCommit": "08ebf5dd",
+          "translationLastModified": "2026-09-18T08:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -78033,7 +78031,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/3c.md",
+          "translatedFrom": "People/3度C.md",
+          "sourceCommitSha": "e64a7fba4",
+          "sourceContentHash": "sha256:71bd23c9a7becdb3",
+          "sourceBodyHash": "sha256:ac800d2068dd019e",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -127315,8 +127324,8 @@
           "sourceContentHash": "sha256:e6a3985c0d14509b",
           "sourceBodyHash": "sha256:2199caf3c188c46a",
           "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "e8265091",
-          "translationLastModified": "2026-08-09T11:18:44+08:00",
+          "translationLastCommit": "08ebf5dd",
+          "translationLastModified": "2026-09-18T08:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -138443,8 +138452,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-18T00:53:05+08:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "08ebf5dd",
+          "translationLastModified": "2026-09-18T08:11:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156608,7 +156617,18 @@
           "diffSummary": "+2 -2"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/gongguan.md",
+          "translatedFrom": "Geography/公館.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:02c38601d122ae9f",
+          "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -167328,7 +167348,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
