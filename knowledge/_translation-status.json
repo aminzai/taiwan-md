@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T18:53:48+08:00",
-    "zhCommitHead": "8240188c4",
+    "lastUpdated": "2026-09-18T19:07:23+08:00",
+    "zhCommitHead": "804fb015b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1024,
-        "stale": 59,
+        "fresh": 1025,
+        "stale": 58,
         "metadata_stale": 8,
         "missing": 30,
         "orphan": 0
@@ -55046,18 +55046,16 @@
         "es": {
           "path": "es/Society/national-museum-of-taiwan-history.md",
           "translatedFrom": "Society/國立臺灣歷史博物館.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:0a19013fbe675c85",
-          "sourceBodyHash": "sha256:16078470c5f07551",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-18T11:07:01.624280+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/national-museum-of-taiwan-history.md",
@@ -82169,8 +82167,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "804fb015",
+          "translationLastModified": "2026-09-18T18:53:48+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -148286,8 +148284,8 @@
           "sourceContentHash": "sha256:b5ab59defaace1b5",
           "sourceBodyHash": "sha256:c2985aa6d661a10a",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "804fb015",
+          "translationLastModified": "2026-09-18T18:53:48+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -176712,8 +176710,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-18T00:53:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "804fb015",
+          "translationLastModified": "2026-09-18T18:53:48+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
