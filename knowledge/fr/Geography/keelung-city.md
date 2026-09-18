@@ -2,9 +2,7 @@
 title: 'Keelung : le port le plus proche de Taipei, celui que Taipei voit le moins'
 description: "À quatre heures du matin, le marché aux poissons de Kanziding résonne encore des cris des enchères. Les criées en hoklo fixent les prix, et en quelques secondes un panier de poisson passe des bateaux de pêche de Hualien, Yilan et Badouzi aux restaurants japonais de l'est de Taipei. En 1626, les Espagnols plantent leur drapeau sur l'île de Hoping ; en 1875, Shen Baozhen transforme « Jilong » en « Keelung », « base prospère » ; en 1984, ce port est le septième port à conteneurs du monde. Puis trois choses se produisent simultanément : le port de Kaohsiung le dépasse, l'aéroport de Taoyuan ouvre, le bassin minier s'effondre. Aujourd'hui 360 000 personnes vivent ici, 39 % font la navette vers Taipei pour travailler. Taipei voit le déclin ; la mer voit un port qui n'a jamais quitté sa position."
 date: 2026-05-17
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Keelung',
@@ -19,19 +17,23 @@ tags:
     'Kanziding',
     'Série des 22 villes et comtés',
   ]
-readingTime: 14
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
+readingTime: 14
+researchReport: 'reports/research/2026-05/基隆市.md'
+series: '22 縣市系列（pilot）'
+image: '/article-images/geography/keelung-hero.webp'
+imageCredit: 'Taiwankengo'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg'
 translatedFrom: 'Geography/基隆市.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:d96d5a768e497ec1'
-sourceBodyHash: 'sha256:a875e0cc381f5fed'
-translatedAt: '2026-06-16T16:40:09Z'
-image: /article-images/geography/keelung-hero.webp
-imageCredit: Taiwankengo
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2fb0e2b29a78f122'
+sourceBodyHash: 'sha256:5db325d228abad28'
+translatedAt: '2026-09-18T11:37:31.897439+00:00'
 ---
 
 # Keelung : le port le plus proche de Taipei, celui que Taipei voit le moins
@@ -78,22 +80,22 @@ Les Français occupent Keelung pendant huit mois, mais ils découvrent vite qu'i
 
 Que laissent-ils derrière eux ? Outre le cimetière militaire français au bord de la mer (cimetière des héros nationaux), ils laissent une question que les habitants de Keelung devront résoudre plus tard : **que faire de ces plus de 700 âmes de soldats français sans sépulture ?**
 
-## Le festival des fantômes de Jilong, « Zhang tête, Xu queue »
+## Le festival du Zhongyuan de Zhangtou-Xuwei
 
-La manière dont les habitants de Keelung traitent les âmes des défunts remonte un peu plus tôt.
+La manière dont les habitants de Keelung gèrent les esprits est une histoire plus ancienne.
 
-En août 1851 (première année du règne de Xianfeng), les affrontements entre les communautés du Zhangzhou et du Quanzhou sont incessants. En 1853, un affrontement de grande ampleur a lieu à Fendang (aujourd'hui le cimetière de Nanrong), faisant plus de 100 morts et blessés. Les anciens et chefs des deux communautés, Zhangzhou et Quanzhou, interviennent pour négocier. Les ossements des deux camps sont appelés « Lao Da Gong » (les anciens maîtres) et sont enterrés ensemble dans un temple construit à cet effet, le « temple de Lao Da Gong ».
+En août 1851 (première année de Xianfeng), des bagarres entre les communautés de Zhang et de Quan se sont multipliées. En 1853, un grand affrontement a eu lieu à Tanding (aujourd'hui le cimetière de Nanrong), causant plus d'une centaine de morts et de blessés. Les chefs influents des familles de Zhang et de Quan sont intervenus pour arbitrer, et les restes des victimes, considérés comme « Daodagong » (les grands anciens), ont été inhumés ensemble lors d'un rituel funéraire, donnant naissance au « Temple de Daodagong ».
 
-Le résultat de la négociation est le suivant : **les familles patrilinéaires assurent la rotation de la cérémonie principale (主普), remplaçant le concept d'origine géographique par celui de parenté clanique**[^11]. En 1855 (cinquième année du règne de Xianfeng), le festival est officiellement inauguré. Un tirage au sort détermine l'ordre de 11 familles, commençant par Zhang et finissant par Xu, d'où le nom « Zhang tête, Xu queue » (張頭許尾) : Zhang-Lian-Jian, Wu, Liu-Tang-Du, Chen-Hu-Yao, Xie, Lin, Jiang, Zheng, He-Lan-Han, Lai, Xu.
+Le résultat de ces négociations fut : **l'alternance des noms de famille en tant que chefs principaux, remplaçant la conception géographique par les liens familiaux**[^11]. Le festival a été officiellement lancé en 1855 (cinquième année de Xianfeng), où l'ordre des onze noms de famille a été déterminé par tirage au sort, allant de Zhang à Xu, et nommé « Zhangtou-Xuwei » : Zhang Liao Jian, Wu, Liu Tang Du, Chen Hu Yao, Xie, Lin, Jiang, Zheng, He Lan Han, Lai, Xu.
 
-> **✦** « **Remplacer les combats à coups de tête par des concours de processions, afin d'atteindre l'harmonie sociale et la coexistence dans un monde de grande unité.** » (Banque nationale de la mémoire culturelle, article sur le festival des fantômes de Jilong[^12])
+> **✦** « **Remplacer les bagarres par des compétitions d'unités pour atteindre un monde harmonieux où l'on vit en communauté et prospère.** » (Banque de la mémoire culturelle nationale, texte du festival Zhongyuan de Jilong[^12])
 
-C'est l'esprit central du festival des fantômes de Jilong. Ce n'est pas seulement une cérémonie de la fête des fantômes. Partout à Taïwan, la fête des fantômes honore les âmes errantes sans maître, mais seul le festival de Jilong a institutionnalisé la mémoire d'un affrontement meurtrier en un rituel de rotation des familles patrilinéaires qui se perpétue depuis 170 ans. Les concours de processions sont une version ritualisée des combats : on continue à rivaliser, mais sans se battre, en déployant des dieux de procession richement décorés, des formations et des batteries de tambours, pour voir qui présente le plus grand spectacle.
+C'est l'esprit fondamental du festival de Jilong. Il ne s'agit pas seulement d'un rite funéraire général (_Zhongyuan Pudu_). Tout Taïwan honore les âmes errantes lors du Festival de Zhongyuan, mais seul le festival de Jilong a institutionnalisé la mémoire des morts issus de bagarres en un rituel annuel centenaire. La compétition des unités est une version ritualisée des combats : on doit toujours rivaliser, mais sans blesser personne, en se mesurant par l'opulence des divinités décorées, les formations et le rythme des tambours.
 
-![Autel principal du festival des fantômes de Jilong, octobre 2023. La tour octogonale du parc de Zhongzheng a été achevée au milieu des années 1970 et accueille chaque année la cérémonie de la fête des fantômes au septième mois lunaire. Au loin à droite de la tour se dresse le monument emblématique de Keelung, la Keelung Tower.](/article-images/geography/keelung-00.webp)
-_Autel principal et Keelung Tower, 23 octobre 2023. Photo : contributeur Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung_Tower_and_Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn_20231023.jpg)._
+![Autel principal du festival de Jilong, octobre 2023. Tour octogonale du parc Zhongzheng, achevée au milieu des années 1970, qui organise le _Zhongyuan Pudu_ chaque année en juillet lunaire. Au loin à droite de la tour se trouve la Keelung Tower, un repère de Keelung.](/article-images/geography/keelung-00.webp)
+_Autel principal et Tour de Keelung, 23/10/2023. Photo : contributeur Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung%20Tower%20and%20Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn%2020231023.jpg)._
 
-Après la guerre sino-française de 1884, ce rituel est à nouveau élargi. **Les âmes des plus de 700 soldats français sont intégrées à la cérémonie de la fête des fantômes.** « Les immigrants chinois, mus par la compassion, ont eu l'empathie de vénérer ces défunts sans sépulture »[^12]. Un rituel de réconciliation né d'un affrontement entre Zhangzhou et Quanzhou devient une cérémonie qui accueille jusqu'aux ennemis tombés au combat. De 1855 à aujourd'hui, il se déroule chaque année au septième mois lunaire à l'autel principal du parc de Zhongzheng. Le nouvel autel principal, achevé au milieu des années 1970, est une tour octogonale dont le premier étage abrite un musée des artefacts de la fête des fantômes[^13].
+Après la guerre sino-française en 1884, ce festival a été rehaussé. **Les plus de 700 âmes des soldats français ont été incluses dans le rite funéraire**. « Les migrants Han empreints de compassion ont manifesté de l'empathie pour ces défunts sans sépulture »[^12]. Un rituel de réconciliation issu d'une bagarre entre communautés de Zhang et de Quan s'est transformé en un festival qui accueille même les ennemis de guerre. De 1855 à aujourd'hui, il est célébré chaque juillet lunaire sur l'autel principal du parc Zhongzheng, le nouvel autel construit au milieu des années 1970, avec sa tour octogonale, dont le rez-de-chaussée abrite un musée des artefacts rituels de _Zhongyuan_[^13].
 
 ## Cinq phases de construction portuaire, le septième port mondial en 1984
 
@@ -131,30 +133,30 @@ Ce plat qui ressemble à des nouilles de riz condense trois strates d'histoire d
 
 Et le marché aux poissons de Kanziding (celui mentionné plus haut) est en réalité le véritable moteur du marché nocturne de Miaokou. Sans les enchères nocturnes de Kanziding, les tempuras (les _tempura_ de Keelung sont des _tianbula_, des beignets de poisson, sans aucun rapport avec les _tempura_ japonais), les glaces bulles, les anguilles braisées et les boulettes de crevettes de Miaokou ne pourraient pas exister. La structure culinaire de Keelung est un « goût de port » : les cris des enchères à quatre heures du matin deviennent, à six heures de l'après-midi, la saveur fraîche que les touristes mâchent.
 
-## En face des maisons colorées de Zhengbin, les ruines d'Agena
+## Face à la ruine d'Agena, en face des maisons colorées de Zhengbin
 
-![Maisons colorées de la rue du port de pêche de Zhengbin, août 2025. Sous le mandat du maire Lin You-chang, 55 couleurs ont été appliquées sur les vieilles maisons du port en collaboration avec Guo Qionying, directrice du département de paysagisme de l'Université culturelle. En face, dans le même cadre, se dressent les ruines du chantier naval Agena.](/article-images/geography/keelung-01.webp)
-_Maisons colorées du port de pêche de Zhengbin, 12 août 2025. Photo : contributeur Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
+![Les maisons colorées du port de pêche de Zhengbin, une rangée de vieilles maisons peintes de différentes couleurs le long du port, avec des bateaux de pêche garés côte à côte. Sous l'administration du maire Lin Yu-chang, la directrice Qu Qionging du département d'aménagement paysager de l'Université culturelle a fait peindre cette rangée de maisons en 55 couleurs.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
+_Les maisons colorées du port de pêche de Zhengbin, 12 août 2025. Photo : Saimmx, [CC0 via Wikimedia](https://commons.wikimedia.org/wiki/File:20250812%20105703%20正濱漁港彩色街屋.jpg)._
 
-Si vous voulez voir comment une ville gère ses ruines, allez au port de pêche de Zhengbin.
+Si vous souhaitez voir comment une ville gère ses ruines, rendez-vous au port de pêche de Zhengbin.
 
-Le port de pêche de Zhengbin se trouve à l'est du port de Keelung et était le principal port de pêche du nord de Taïwan à l'époque coloniale japonaise. Sous le mandat du maire Lin You-chang (2014-2022), en collaboration avec Guo Qionying, directrice du département de paysagisme de l'Université culturelle, et après « deux ans de travail pour éveiller la conscience participative des résidents », les vieilles maisons du port ont été peintes en couleurs. Les habitants ont baptisé les 55 couleurs les « couleurs de Zhengbin »[^23]. Aujourd'hui, c'est un lieu de prédilection pour les photos Instagram, mais ce n'est pas ce qui le touche le plus.
+Le port de pêche de Zhengbin est situé à l'est du port de Keelung et fut un port de pêche majeur dans le nord pendant la période japonaise à Taïwan. Sous l'administration du maire Lin Yu-chang (2014-2022), en collaboration avec la directrice Qu Qionging du département d'aménagement paysager de l'Université culturelle, et après avoir « persuadé les résidents locaux pendant 2 ans », ces vieilles maisons au bord du port ont été peintes en maisons colorées, et les habitants ont nommé les 55 couleurs utilisées « couleur de Zhengbin »[^23]. Aujourd'hui, c'est un point d'attraction sur Instagram, mais ce n'est pas son aspect le plus marquant.
 
-Ce qui le touche le plus, c'est que **tournant le coin, en face, se dressent les ruines du chantier naval Agena**.
+Ce qui est le plus marquant, c'est : **en tournant, on voit les ruines de l'usine navale d'Agena juste en face.**
 
-L'histoire d'Agena est la suivante : en 1919, c'est un dépôt de charbon de Huang Dongmao ; en 1937, il est transformé en quai pour le transport de minerai de sable. L'or extrait des mines de Jingoueshi est d'abord acheminé par téléphérique aérien vers Shuiandong, puis vers Badou, puis vers Niuchougang, d'où il est chargé sur des navires à destination du Japon[^24]. De 1966 à 1987, il devient le chantier naval Agena, exploité par Xue Guohang pour la sous-traitance de voiliers et yachts, un pionnier de la voile à Taïwan. En 1987, il fait faillite et est abandonné. En juillet 2016, il est inscrit comme bâtiment historique de la ville de Keelung.
+L'histoire d'Agena est la suivante : en 1919, il s'agissait du dépôt de charbon de Huang Dongmao ; en 1937, elle fut transformée en quai pour le transport de minerais de sable. L'or extrait par les mines de Jingguashi était d'abord acheminé par téléphérique à Shuinan-dong, puis à Badu, et enfin au port de Niu Chou, avant d'être chargé et expédié au Japon[^24]. De 1966 à 1987, le site devint l'usine navale d'Agena, gérée par Xue Guohang pour la fabrication de yachts de voile, marquant les débuts du mouvement de voile à Taïwan. Elle ferma et fut abandonnée en 1987. En juillet 2016, elle a été enregistrée comme bâtiment historique de la ville de Keelung.
 
-À côté des ruines de béton gris-noir se dressent les maisons colorées de Zhengbin. L'obscurité et la lumière, à moins de 100 mètres l'une de l'autre. Ce sont les deux faces du processus de modernisation de Keelung, compressées dans le champ de vision d'un touriste qui prend une photo avec son téléphone. De cette image, on peut lire tout le récit contemporain de Keelung : **nous n'avons pas démoli les ruines pour reconstruire, nous avons construit les maisons colorées à côté des ruines**.
+À côté des ruines en ciment gris foncé et noir se trouvent les maisons colorées et vibrantes de Zhengbin. L'une sombre, l'autre lumineuse, à moins de 100 mètres d'écart. C'est le double visage de la modernisation de Keelung, comprimé dans le champ de vision d'un touriste prenant une photo avec son téléphone. Cette image permet de lire un récit contemporain complet de Keelung : **nous ne démolissons pas les ruines pour reconstruire ; nous construisons les maisons colorées à côté des ruines.**
 
-### Lin You-chang, Hsieh Kuo-liang et le référendum de révocation
+### Lin Yu-chang, Hsieh Kuo-liang et le référendum
 
-La transformation de Lin You-chang se résume en une phrase : **« Le plus important est que cette ville ait un sujet qui rassemble à nouveau l'identité et la cohésion des citoyens, et que Keelung obtienne le droit de parole sur ce port. »**[^17] Parmi ses réalisations : en 2014, il empêche la démolition des entrepôts des quais ouest n° 2 et n° 3 (le ministre Long Yingtai soutient lors d'une inspection, le bureau de la culture les classe comme bâtiments historiques) ; en 2021, l'exposition « Nuit des nations » au port de pêche de Zhengbin ; en 2022, l'exposition urbaine « Design change la ville de départ : Keelung » ; le renouvellement du logo de la ville, la nouvelle version utilisant cinq couleurs : le vert représente la montagne, le jaune symbolise la vitalité, le noir rappelle l'ancienne industrie charbonnière de Keelung, le rouge incarne la passion, le bleu est le port de Keelung et l'océan[^25].
+Le projet de transformation de Lin Yu-chang peut être résumé par cette phrase : « **le plus important est que la ville ait un sujet qui puisse regrouper l'identité et la cohésion des citoyens, et obtenir la parole sur ce port pour la ville de Keelung** »[^17]. Ses actions incluent : le blocage de la démolition des entrepôts des quais Xi Er et Xi San en 2014 (avec le soutien du ministre Long Ying-tai et l'inscription au patrimoine par le Bureau de la culture) ; l'espace d'exposition « Nuit Mondiale » du port de pêche de Zhengbin en 2021 ; le salon urbain « Keelung, ville point de départ du changement par le design » en 2022 ; le remplacement du logo de la ville, la nouvelle version utilisant les cinq couleurs : le vert représentant la cité montagneuse, le jaune symbolisant la vitalité, le noir pour l'abondance passée de charbon à Keelung, le rouge pour la passion et le bleu pour le port et la mer de Keelung[^25].
 
-En 2022, Hsieh Kuo-liang (Kuomintang) est élu maire. Deux ans plus tard, le 13 octobre 2024, les habitants de Keelung votent lors d'un référendum de révocation. Votes défavorables : 86 014 (55,16 %), votes favorables : 69 934 (44,84 %), taux de participation : 50,44 %[^26]. La révocation échoue, Hsieh Kuo-liang conserve son poste de maire et ne peut plus être révoqué conformément à la loi. Keelung est le deuxième chef de gouvernement local élu à faire l'objet d'une proposition de révocation après Han Kuo-yu à Kaohsiung, et le premier au niveau de la division administrative secondaire.
+En 2022, Hsieh Kuo-liang (KMT) fut élu maire. Deux ans plus tard, le 13 octobre 2024, les habitants de Keelung ont organisé un vote de destitution. Les votes contre étaient de 86 014 (55,16 %), et les votes pour étaient de 69 934 (44,84 %), avec un taux de participation de 50,44 %[^26]. Le référendum a échoué, et Hsieh Kuo-liang est resté maire, ne pouvant donc être destitué légalement. Keelung est la deuxième municipalité élue après Kaohsiung à avoir fait l'objet d'une proposition de destitution, et elle est la première dans une zone administrative de niveau deux.
 
-La révocation n'est pas le sujet de cet article. Le sujet est pourquoi les habitants de Keelung sont allés voter. Une jeune femme revenue dans sa ville natale, Li Yanrong, déclare dans une interview au Reporter : **« Ma ville natale est Keelung, et le fait que j'aie déménagé ailleurs ne m'a pas fait perdre mon sentiment d'appartenance. »** Elle s'est fait tatouer les coordonnées géographiques de Keelung sur le corps et explique : « Je veux me souvenir de l'état dans lequel je suis partie. »[^27]
+Le référendum n'est pas le point principal de cet article. Le point principal est pourquoi les habitants de Keelung ont voté. Une jeune femme rentrée chez elle, Li Yanrong, a déclaré lors d'un entretien avec un journaliste : « **ma ville natale est Keelung ; je ne perds pas mon sentiment d'appartenance parce que je suis partie vivre ailleurs.** » Elle s'est tatouée les coordonnées géographiques de Keelung et a expliqué : « j'espère me souvenir à quoi je ressemble quand je pars. »[^27]
 
-C'est une petite ville de 360 000 habitants. Mais parmi ces 360 000 personnes, certaines sont revenues voter.
+C'est une petite ville de 360 000 habitants. Mais parmi ces 360 000 personnes, certaines sont revenues pour voter.
 
 ## 39 % des habitants travaillent à Taipei
 
@@ -272,7 +274,7 @@ Licence : [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [^29]: [Écologie du milan noir et de l'embouchure de la rivière Xuchuan dans le port de Keelung — Our Island](https://ourisland.pts.org.tw/) — Observation écologique : le milan noir est passé de 272 individus en 2013 à 808 en 2023, les restes de volaille et de poisson, les abats évacués par les égouts de l'embouchure de la rivière Xuchuan vers le port constituent leur source de nourriture.
 
-[^30]: Citation originale de Xie Bingying dans _Keelung, le port pluvieux_ : « Quand les gens sur la rive sont tremplés par la pluie et maudissent le ciel sans pitié, moi, je me réjouis en secret » — Cité dans [Taiwan Panorama : Le charme du port pluvieux de Keelung](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f).
+[^30]: [Taiwan Panorama : Le charme du port pluvieux de Keelung](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f) — Citation originale de Xie Bingying dans _Keelung, le port pluvieux_ : « Quand les gens sur la rive sont tremplés par la pluie et maudissent le ciel sans pitié, moi, je me réjouis en secret » — Cité dans.
 
 [^31]: [Le charme du port pluvieux de Keelung — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f) — Citation originale : « Pour un vieux Keelungais, qu'il pleuve ou qu'il fasse beau, on sort toujours avec un parapluie », documentant le rapport quotidien des habitants de Keelung à la pluie.
 

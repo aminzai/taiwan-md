@@ -2,9 +2,7 @@
 title: 'Musée national de l’histoire de Taïwan : la huitième section s’intitule « Vous aussi, vous écrivez l’histoire »'
 description: 'Ouvert en 2011, le Musée national de l’histoire de Taïwan possède une huitième section d’exposition permanente intitulée « Vous aussi, vous écrivez l’histoire ». Institution nationale de troisième niveau, il rend publiques 140 000 pièces de collection sous la Licence gouvernementale d’ouverture des données, version 1.0 ; son directeur Chang Lung-chih présente publiquement le musée comme un espace d’« écriture et de création collectives par toute la population ». Quand ce musée national rencontre, à l’ère de l’IA, une base de connaissances open source portée par une communauté, la mémoire collective prend une seconde forme curatoriale.'
 date: 2026-05-11
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '文化機構'
 tags:
   [
     'musée',
@@ -13,18 +11,21 @@ tags:
     'mémoire collective',
     'Chang Lung-chih',
   ]
+subcategory: '文化機構'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-11
 lastHumanReview: true
-featured: true
-translatedFrom: 'Society/國立臺灣歷史博物館.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:0a19013fbe675c85'
-sourceBodyHash: 'sha256:16078470c5f07551'
-translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/society/nmth-main-building-2011.webp'
 imageCredit: 'Fcuk1203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg'
+relatedDiary: ['2026-05-11-161037-kind-mirzakhani']
+translatedFrom: 'Society/國立臺灣歷史博物館.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:8427b2bc64bf300b'
+sourceBodyHash: 'sha256:d6d35035b4737919'
+translatedAt: '2026-09-18T11:08:51.317690+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Le 29 octobre 2011, après treize années de préparation, le Musée national de l’histoire de Taïwan a ouvert ses portes dans le district d’Annan, à Tainan. Il a donné une forme bâtie à l’« historiographie de l’île de Taïwan » proposée par Ts’ao Yung-ho en 1990 : l’exposition permanente « Cette terre, ces peuples — l’histoire de Taïwan » comprend huit grandes sections, depuis l’arrivée des peuples austronésiens jusqu’à la section contemporaine « Vous aussi, vous écrivez l’histoire ». Le musée rend publiques 140 000 pièces de collection sous la Licence gouvernementale d’ouverture des données, version 1.0 (équivalente à CC BY 4.0). Après son élévation en 2021 au rang d’institution de troisième niveau, son directeur Chang Lung-chih l’a défini comme une « plateforme d’action pour l’écriture et la création collectives par toute la population »[^13]. Quand ce musée national rencontre, à l’ère de l’IA, une base de connaissances open source portée par une communauté, la mémoire collective prend une seconde forme curatoriale.
@@ -49,24 +50,24 @@ Le NMTH inscrit la « participation du public à l’écriture de l’histoire �
 > **📝 Note curatoriale**
 > Les septième et huitième sections du NMTH sont une redéfinition, par un musée national, de sa propre mission. Le musée rend à ceux qui viennent voir la question « qui écrit l’histoire ? » ; lorsque Taiwan.md place la même invitation sur des rails open source favorables au fork, deux mécanismes curatoriaux se rencontrent sur une même mission. La différence tient à l’échelle, à la licence et à l’institutionnalité ; le chevauchement tient à la perspective historique et à l’objectif.
 
-## II. Treize ans pour construire un musée : matérialiser l’article de Ts’ao Yung-ho de 1990
+## II. Trente ans pour construire un musée, enraciné dans la thèse de Tsao Yung-ho de 1990
 
-En 1992, Lee Teng-hui et Lien Chan se rendirent au Musée provincial de Taïwan et donnèrent instruction de préparer la création d’un « Musée historique provincial de Taïwan »[^2]. C’est le point de départ du NMTH.
+En 1992, Li Den-hui et Lien Chan ont visité le Musée provincial de Taïwan (Taiwan Provincial Museum) et demandé l'établissement du « Musée historique provincial de Taïwan » [^2]. C'est ainsi qu'a commencé le NMTH.
 
-La préparation fut alors conduite par Wu Mi-cha, formé au département d’histoire de l’Université nationale de Taïwan, qui devint officiellement en 2007 le premier directeur du NMTH[^2]. Deux ans avant le lancement de ces préparatifs, en 1990, Ts’ao Yung-ho, de la bibliothèque de l’Université nationale de Taïwan, publia un article qui ébranla le milieu historiographique : « Une autre voie pour l’étude de l’histoire de l’île de Taïwan ». Ts’ao Yung-ho y soutenait que le sujet de l’histoire de Taïwan est « l’île de Taïwan » elle-même ; les régimes politiques montent sur scène à tour de rôle comme des acteurs, mais l’île demeure le plateau toujours présent. Dès le départ, le NMTH a vécu dans cette filiation intellectuelle.
+Au moment où il était en cours de préparation, Wu Mi-ch'a, diplômée du département d'histoire de l'Université nationale de Taïwan (NTU), est devenue la première directrice du NMTH en 2007 [^2]. Deux ans avant son lancement, en 1990, Tsao Yung-ho a publié un article qui a ébranlé le monde universitaire : « Une autre voie dans l'étude de l'histoire de Taïwan » (臺灣島史研究的另一途徑). Tsao Yung-ho soutenait que le sujet principal de l'histoire de Taïwan était l'« île de Taïwan » elle-même, les régimes étant comme des acteurs successifs, mais l'île restant la scène permanente. Le NMTH est né dans cette lignée académique.
 
-![Côté du bâtiment d’exposition et d’éducation du Musée national de l’histoire de Taïwan : le vocabulaire architectural formé par les panneaux photovoltaïques du mur de nuages et le bassin ; au loin, on distingue la passerelle de traversée maritime franchissant le plan d’eau, symbole des ancêtres traversant le « fossé noir » pour atteindre Taïwan](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
-_Côté du bâtiment d’exposition et d’éducation : le mur de nuages est composé de plus d’un millier de panneaux solaires et de verre sérigraphié, avec une production annuelle de 170 000 kWh. Photo : contributeur Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg)._
+![Vue latérale du bâtiment d'exposition éducative du Musée national de l'histoire de Taïwan, avec un vocabulaire architectural formé par le mur de nuages (cloud wall) composé de panneaux solaires et une piscine, où on aperçoit un chemin piétonnier traversant les paysages aquatiques au loin, symbolisant l'image historique des premiers peuples traversant la rivière Hei Shui pour atteindre Taïwan](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
+_Vue latérale du bâtiment d'exposition éducative : le mur de nuages est composé de plus de mille panneaux solaires et de verre estampé, produisant 170 000 kWh par an. Photo : contributeur Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%2002.jpg)._
 
-En 1997 fut publiée la nomination du directeur du bureau préparatoire ; en juillet 1998 fut officiellement créé le « Bureau préparatoire du Musée historique provincial de Taïwan »[^2]. En 2003, les travaux du bâtiment administratif et des réserves commencèrent[^21]. Conçu par Chien Hsueh-yi, responsable de l’agence Chien Architects & Associates, pour un coût total de plus de 1,5 milliard de nouveaux dollars taïwanais, le bâtiment articule quatre grands vocabulaires thématiques : « traversée maritime, Kun-shen, mur de nuages, fusion »[^22]. La « traversée maritime » est une passerelle en zigzag franchissant les bassins de part et d’autre, qui symbolise les ancêtres traversant le « fossé noir », expression historique désignant le périlleux détroit de Taïwan[^23] ; le « mur de nuages » est composé de plus d’un millier de panneaux solaires et de verre sérigraphié, avec une production annuelle de 170 000 kWh[^23]. C’est l’un des rares exemples en Asie où une infrastructure photovoltaïque est superposée au vocabulaire architectural d’un musée.
+Le chef du comité de préparation a émis un décret en 1997 ; le « Comité de préparation du Musée historique provincial de Taïwan » a été officiellement établi en juillet 1998 [^2]. Le bâtiment administratif a commencé la construction en 2003 [^21], conçu par l'agence d'architecture Jike, avec un coût total estimé à plus de 1,5 milliard de dollars taïwanais. Les quatre thèmes principaux sont « Traversée maritime (渡海), Corps insulaire (鯤身), Mur de nuages (雲牆), Fusion (融合) » [^22]. La « Traversée maritime » est le chemin en zigzag traversant les bassins d'eau, symbolisant la traversée des premiers peuples à la rivière Hei Shui [^23] ; le « Mur de nuages » est composé de plus de mille panneaux solaires et de verre estampé, produisant 170 000 kWh par an [^23]. C'est un exemple rare en Asie où l'infrastructure photovoltaïque est superposée au vocabulaire architectural d'un musée.
 
-Le 15 mars 2007, le Musée national de l’histoire de Taïwan fut officiellement créé[^2][^4]. Mais l’ensemble du musée ne devait ouvrir que le **29 octobre 2011**[^6][^2] : de la création du bureau préparatoire en 1998 à l’ouverture en 2011, treize années complètes se sont écoulées. Pendant cette période, Taïwan a connu les deux mandats de Chen Shui-bian puis l’arrivée au pouvoir de Ma Ying-jeou ; le Musée national du Palais a construit un second bâtiment à Taipei ; le Musée national des beaux-arts de Taïwan a achevé son extension. Ce que le NMTH construisait, lui, était un musée d’histoire prenant l’île de Taïwan pour sujet, situé à Tainan et non à Taipei.
+Le Musée national de l'histoire de Taïwan a été officiellement inauguré le 15 mars 2007 [^2][^4]. Cependant, l'ouverture complète du bâtiment n'a eu lieu que le **29 octobre 2011** [^6][^2], soit 13 ans entre la création du comité en 1998 et l'inauguration en 2011. Durant cette période, Taïwan a connu deux mandats de Chen Shui-bian, suivis par Ma Ying-jeou. Le Musée national de Chine (National Palace Museum) à Taipei a construit son deuxième bâtiment, et le National Museum of Fine Arts a achevé son expansion. Or, le NMTH est un musée centré sur l'île de Taïwan, et il est situé à Tainan, non pas à Taipei.
 
-Le lieu est en lui-même une décision curatoriale. Tainan est le plus ancien foyer d’établissement han à Taïwan ; c’est un point de croisement entre l’histoire du royaume de Zheng, de l’administration Qing et de la colonisation japonaise. Le NMTH n’a pas choisi la capitale : il a choisi le territoire où commence l’histoire de l’île de Taïwan.
+Le lieu est en soi une curation. Tainan est l'un des plus anciens établissements Han à Taïwan, un point de rencontre entre les dynasties Zheng, la période coloniale Qing et le colonialisme japonais. Le NMTH n'a pas choisi la capitale ; il a choisi le territoire où commence l'histoire de l'île de Taïwan.
 
-L’année 2021 marque le deuxième tournant du NMTH. Le 8 janvier, l’exposition permanente « Cette terre, ces peuples — l’histoire de Taïwan » rouvrit après une mise à jour : le musée avait été fermé quinze mois pour restructuration, et la planification avait duré cinq ans[^20]. Le 1er avril, Chang Lung-chih, ancien directeur adjoint de l’Institut d’histoire de Taïwan de l’Academia Sinica, prit ses fonctions comme cinquième directeur[^4][^5]. Il était précisément le chercheur qui avait dirigé en 2020 l’ouvrage _À la recherche de l’histoire de l’île : essais d’historiographie taïwanaise_ (publié par National Taiwan University Press), qui constitue la plus récente mise en ordre académique de l’historiographie insulaire de Ts’ao Yung-ho[^5]. Le 17 octobre, après l’adoption en troisième lecture par le Yuan législatif de la _Loi d’organisation du Musée national de l’histoire de Taïwan_, le NMTH passa d’une institution de quatrième niveau à une **institution de troisième niveau**[^17][^16], consolidant son statut national.
+L'année 2021 marque un deuxième tournant majeur pour le NMTH. Le 8 janvier, l'exposition permanente « Cette terre, ces peuples — l’histoire de Taïwan » a été mise à jour et réouverte après une période de fermeture et de rénovation de 15 mois et une planification de cinq ans [^20]. Le 1er avril, Chang Lung-chih, ancien directeur adjoint du Centre d'études historiques de NTU, est devenu le cinquième directeur [^4][^5]. C'est lui qui a édité en 2020 _Quête de l'histoire insulaire : Histoire des études sur Taïwan_ (臺大出版中心), un ouvrage qui représente la dernière synthèse académique de la vision historique insulaire de Tsao Yung-ho [^5]. Le 17 octobre, après que le législatif ait adopté la « Loi sur l'organisation du Musée national de l'histoire de Taïwan », le NMTH est passé d'une institution de quatrième niveau à une **institution de troisième niveau** [^17][^16], consolidant son statut national.
 
-De l’article de Ts’ao Yung-ho en 1990 à l’ouverture de 2011, puis à l’élévation institutionnelle de 2021, trente et une années ont tracé un chemin qui va du discours académique aux objets d’exposition, puis au dispositif institutionnel national.
+De l'article de Tsao Yung-ho en 1990, à l'ouverture en 2011, puis à la promotion en 2021, le NMTH a parcouru en 31 ans un chemin allant des discours académiques aux objets muséaux, pour aboutir à une institution de niveau national.
 
 ## III. Cette terre, ces peuples : la terre pour scène, les humains pour protagonistes
 

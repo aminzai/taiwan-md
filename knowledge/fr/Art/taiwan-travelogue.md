@@ -2,9 +2,7 @@
 title: 'Taiwan Travelogue : un « livre traduit par la sœur », de Chanshan au podium de Londres'
 description: "Le jour où sa sœur Yang Ruohui est décédée en juin 2015, Yang Ruizi a ouvert le carnet de comptes qu'elle avait laissé et a commencé à tenir les comptes ; il lui a fallu trois jours pour déchiffrer le code des coches et des cercles. Cinq ans plus tard, Taiwan Travelogue, publié par Chanshan, portait la mention « par Chihako Aoyama, traduit par Yang Shuangzi » — le nom du traducteur était celui de la sœur disparue. NBA à New York en 2024, Booker Prize à Londres en 2026 : elle a traduit un livre inexistant sous le nom de sa sœur."
 date: 2026-05-23
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '文學作品'
 tags:
   [
     'Littérature',
@@ -16,18 +14,26 @@ tags:
     'Yuri',
     'Chanshan Publishing',
   ]
+subcategory: '文學作品'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-23
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
-sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
-translatedAt: '2026-06-16T16:40:09Z'
+researchReport: 'reports/research/2026-05/taiwan-travelogue.md'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'
 imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
+sporeLinks:
+  [
+    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
+    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
+  ]
+translatedFrom: 'Art/臺灣漫遊錄.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:d4818d717761979b'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
+translatedAt: '2026-09-18T12:07:09.208146+00:00'
 ---
 
 ![Yang Shuangzi le 20 novembre 2024, lors de la cérémonie de remise du National Book Award à New York, debout à côté du trophée, vêtue d'un manteau sombre, le visage serein](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
@@ -134,31 +140,31 @@ Dans une interview au _Reporter_, Yang Shuangzi formule cette question encore pl
 
 > 📝 **Note du commissaire** : Le récit habituel des prix est « première personne de la littérature taïwanaise », « faire honneur au pays ». Mais en écoutant attentivement les deux discours de remise de prix de Yang Shuangzi, son langage est très mesuré. Elle dit : « Être né Taïwanais est ma chance ; me tenir ici en tant qu'écrivaine taïwanaise est ma fierté », et non « faire honneur à Taïwan ». Quelle est la différence ? La première s'inscrit dans le long fleuve de la littérature taïwanaise centenaire, la seconde fait du prix une médaille nationale. Elle sait qu'elle reprend le relais de la « quête centenaire », et non une gloire personnelle.
 
-## La postface est écrite par une personne morte depuis cinq ans
+## Postface rédigée par quelqu'un décédé depuis cinq ans
 
-Le 19 juin 2015, en début de soirée, Yang Ruohui, de retour de la chambre de soins palliatifs depuis 11 jours, cesse de respirer. Ce jour-là, Yang Ruizi ouvre le premier carnet de comptes laissé par sa sœur et commence à noter les dépenses du jour suivant à partir de ce jour-là. Il lui a fallu trois jours pour déchiffrer le code des coches, des cercles et des triangles que seule sa sœur pouvait comprendre.
+Le soir du 19 juin 2015, onze jours après son retour de l'hôpital Anning, Yang Ruohui a cessé de respirer. Ce jour-là, Yang Ruozi a ouvert le premier cahier laissé par sa sœur et a commencé à noter les dépenses du lendemain. Il lui a fallu trois jours pour déchiffrer ces codes — coches, cercles, triangles — que seule sa sœur comprenait.
 
-Onze carnets au total, de 1999, quand les sœurs avaient 15 ans, jusqu'au jour précédant la mort de la cadette. Chaque dollar est noté.
+Au total, onze carnets, allant de l'âge de 15 ans des sœurs en 1999 jusqu'à la veille du décès de la cadette. Chaque centime était comptabilisé.
 
-Cinq ans plus tard, au printemps 2020, Chanshan publie un livre. La couverture porte la mention « Chihako Aoyama, auteur / Yang Shuangzi, traductrice ». En tournant à la dernière page, le « Mot de la traductrice » est signé « Yang Ruohui ». C'est une personne morte depuis cinq ans qui, dans la postface, à la première personne d'une traductrice, complète le contexte de l'« auteure » Chihako Aoyama, avec des notes de bas de page fictives.
+Cinq ans plus tard, au printemps 2020, Chunshan a publié un livre. La couverture portait le nom « Aishan Qianhezi (écrit par) / Yang Shuangzi (traduction) ». À la dernière page, dans l'« Épilogue du traducteur », on trouvait la signature de « Yang Ruohui ». C'était une personne décédée depuis cinq ans, qui complétait le contexte d'Aishan Qianhezi, l'« auteure originale », avec le ton d'un traducteur et listait des notes de bas de page fictives.
 
-Cinq ans et demi plus tard, sur la scène du prix à Londres en mai 2026, Yang Shuangzi monte sur scène en robe noire, Lin King à ses côtés. Les cinq jurés du Booker Prize viennent de sélectionner 6 livres parmi 128, puis ce roman en mandarin parmi ces 6. Yang Shuangzi parle pendant 4 minutes, sans prononcer le mot « sœur ».
+Un peu plus de cinq ans après, lors de la cérémonie de remise du prix à Londres en 2026, Yang Shuangzi est montée sur scène vêtue d'une robe noire, Jin Ling à ses côtés. Les cinq membres du jury du Booker Prize avaient sélectionné six livres parmi les 128, et ce roman chinois parmi ces six. Yang Shuangzi a prononcé un discours de quatre minutes sans mentionner le mot « sœur ».
 
-Mais elle a dit une chose dans l'interview à _You Ren Wu_, qui peut servir de note de bas de page après cette cérémonie : « Si ce résultat était arrivé un peu plus tôt, ma sœur l'aurait peut-être vu. »[^34]
+Mais dans une interview pour _You Ren Wu_, elle a fait une remarque qui pourrait servir de postface à cette cérémonie : « Si ce résultat était arrivé plus tôt, peut-être que ma sœur l'aurait vu. »[^34]
 
-Les carnets de comptes sont le code que Yang Ruohui a laissé à sa sœur. Ce livre est la place que Yang Ruizi a laissée à sa sœur.
+Le cahier est le code laissé par Yang Ruohui à sa grande sœur. Ce livre est la place laissée par Yang Ruozi à sa petite sœur.
 
-![Yang Shuangzi le 19 novembre 2024, lors de la lecture des finalistes du National Book Award à New York, concentrée sur sa lecture, lunettes sur le nez, regardant son texte](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
-_19 novembre 2024, lecture des finalistes du NBA, Yang Shuangzi lit un extrait en anglais de Taiwan Travelogue à New York. Le soir suivant, elle remporte officiellement le prix de littérature traduite. Photo : Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg), CC BY-SA 4.0._
+![Yang Shuangzi lisant avec concentration lors de la lecture des finalistes du National Book Award aux États-Unis à New York le 19 novembre 2024, regardant son manuscrit](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
+_Lecture des finalistes du National Book Award (NBA), Yang Shuangzi lit un extrait anglais de Taiwan Travelogue à New York le 19 novembre 2024. La veille, elle a officiellement remporté le prix de la littérature traduite. Photo : Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng%20Shu%C4%81ng-z%C7%90,%20writer,%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%203.jpg), CC BY-SA 4.0._
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte historique dans lequel se situe Taiwan Travelogue en 1938, la tradition d'écriture féminine et locale inaugurée par Yang Chian-ho, Lai He, Long Yingzong et d'autres
-- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — Comment la génération de Yang Shuangzi poursuit l'écriture locale de Wu Ming-yi, Lin Yi-han et Luo Yijun, en se tournant vers le marché international de la littérature traduite
-- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — De la levée de la loi martiale en 1987 aux années 2020, l'écriture féminine, l'écriture queer et la vague de littérature en langues maternelles — la tradition « yuri » de Yang Shuangzi vient de là
-- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — La trame globale correspondant à la « quête centenaire » évoquée par Yang Shuangzi lors de la remise du prix
-- [Zhu Tianwen](/fr/people/chu-tien-wen) — Romancière majeure de l'écriture féminine après la levée de la loi martiale, dont les procédés de fausse attribution dans _Notes d'un homme sauvage_ et _La Vieille Capitale_ sont un précédent important de la structure de fausse traduction dans la littérature taïwanaise
-- [Wu Ming-yi](/fr/people/wu-ming-yi) — Autre écrivain taïwanais majeur de la vague de littérature traduite internationale des années 2020, dont _L'Homme aux yeux composés_ et _Le Vol du vélo_ ont une grande visibilité dans le monde anglophone
+- [Littérature de l'ère japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte historique du _Taiwan Travelogue_ en 1938, et le corpus d'écriture féminine et locale initié par Yang Qianhe, Lai He et Lung Ying-tsong.
+- [Littérature contemporaine de Taïwan](/fr/art/contemporary-taiwanese-literature) — Comment la génération à laquelle appartient Yang Shuangzi prolonge l'écriture locale de Wu Mingyi, Lin Yi-han et Luo Yijun pour atteindre le marché international de la littérature traduite.
+- [Littérature de Taïwan après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Les vagues d'écriture féminine, homosexuelle et linguistique indigène, de 1987 à nos jours ; l'héritage « Yuri » de Yang Shuangzi provient de là.
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Le contexte global correspondant au « questionnement centenaire » mentionné par Yang Shuangzi lors de sa réception du prix.
+- [Chu Tien-wen](/fr/people/chu-tien-wen) — Une auteure représentative de l'écriture féminine après la levée de la loi martiale, dont les techniques d'attribution fictive dans _Mémoires d'un homme errant_ et _La capitale ancienne_ sont un précurseur important des structures de fausse traduction dans la littérature taïwanaise.
+- [Wu Mingyi](/fr/people/wu-ming-yi) — Un autre auteur taïwanais représentatif de la vague internationale de littérature traduite des années 2020, dont les œuvres _The Double-Eyed Man_ et _Bicycle Theft Record_ ont une visibilité dans le monde anglophone.
 
 ## Crédits des images
 
