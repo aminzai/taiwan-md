@@ -7,26 +7,26 @@ current_version: 'v9.9-single'
 last_updated: 2026-09-07
 last_session: '2026-09-07-164559-audit-upgrade（v9.9：新增可執行 Rewrite Guide 入口，既有發布契約保留）'
 generated_from:
-  - 'REWRITE-PIPELINE.md@46935d4a5'
-  - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
-  - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
-  - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
-  - 'REWRITE-STAGE-2A-PROJECTION.md@5b2ef8b4d'
-  - 'REWRITE-STAGE-2B-ROOM-PROJECTION.md@70e08c91d'
-  - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e32'
-  - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d'
-  - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0'
-  - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5'
-  - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
-  - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-17T20:47:04+08:00'
+  - 'REWRITE-PIPELINE.md@46935d4a5c'
+  - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af37887'
+  - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbce'
+  - 'REWRITE-STAGE-1B-MEDIA.md@8d4f4b434d'
+  - 'REWRITE-STAGE-2A-PROJECTION.md@5b2ef8b4da'
+  - 'REWRITE-STAGE-2B-ROOM-PROJECTION.md@70e08c91d5'
+  - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e320'
+  - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d5'
+  - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0a'
+  - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5e'
+  - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b1'
+  - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d5'
+generated_at: '2026-09-19T03:01:37+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
 
 > **本檔由工具生成，不要手改**——改 v9 來源（[REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) 或任一 `REWRITE-STAGE-*.md`）後重跑 `python3 scripts/tools/build-rewrite-single-file.py` 重新生成。歷史 v8.0 快照在 [archive/REWRITE-PIPELINE-v8.0-single-file-2026-07-15.md](archive/REWRITE-PIPELINE-v8.0-single-file-2026-07-15.md)。
 
-<!-- ==== source: REWRITE-STAGE-0-VIEWPOINT.md @ 8a7af3788 ==== -->
+<!-- ==== source: REWRITE-STAGE-0-VIEWPOINT.md @ 8a7af37887 ==== -->
 
 ## Stage 0 contract — 觀點（模式判定＋編輯前思考）
 
@@ -764,7 +764,7 @@ REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-1A-RESEARCH.md @ 8d3e0ccbc ==== -->
+<!-- ==== source: REWRITE-STAGE-1A-RESEARCH.md @ 8d3e0ccbce ==== -->
 
 ## Stage 1 contract — 取材 A（研究 fan-out 與研究報告 SSOT）
 
@@ -1242,7 +1242,7 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-1B-MEDIA.md @ 70e08c91d ==== -->
+<!-- ==== source: REWRITE-STAGE-1B-MEDIA.md @ 8d4f4b434d ==== -->
 
 ## Stage 1 contract — 取材 B（媒體素材＋persona 讀者缺口，Step 1.9）
 
@@ -1522,7 +1522,7 @@ Stage 1 結束時 deliverable：
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-2A-PROJECTION.md @ 5b2ef8b4d ==== -->
+<!-- ==== source: REWRITE-STAGE-2A-PROJECTION.md @ 5b2ef8b4da ==== -->
 
 ## Stage 2.0 contract — 投影藍圖（研究 → 論點＋骨架）
 
@@ -1612,7 +1612,7 @@ Stage 1 結束時 deliverable：
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-2B-ROOM-PROJECTION.md @ 70e08c91d ==== -->
+<!-- ==== source: REWRITE-STAGE-2B-ROOM-PROJECTION.md @ 70e08c91d5 ==== -->
 
 ## Stage 2B contract — 投影編輯室（Step 2.0-R，乾淨 context 分席對抗）
 
@@ -1688,7 +1688,7 @@ review 檔加 `## 攻防` 段（challenge／defense／ruling 三欄——公開�
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-2C-WRITE.md @ 36d5c8e32 ==== -->
+<!-- ==== source: REWRITE-STAGE-2C-WRITE.md @ 36d5c8e320 ==== -->
 
 ## Stage 2 contract — 寫（fresh writer 照藍圖執行）
 
@@ -1990,7 +1990,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-2D-SOURCE-FIDELITY.md @ 70e08c91d ==== -->
+<!-- ==== source: REWRITE-STAGE-2D-SOURCE-FIDELITY.md @ 70e08c91d5 ==== -->
 
 ## Stage 2.5 contract — source-fidelity gate（來源逐字回溯＋staging 比對覆蓋）
 
@@ -2056,7 +2056,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-2E-ROOM-PROSE.md @ dddc05fa0 ==== -->
+<!-- ==== source: REWRITE-STAGE-2E-ROOM-PROSE.md @ dddc05fa0a ==== -->
 
 ## Stage 2E contract — 正文結構編輯室（Step 2.5-R）
 
@@ -2119,7 +2119,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 72eeeefa5 ==== -->
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 72eeeefa5e ==== -->
 
 ## Stage 3 contract — 驗（草稿驗＋成品總驗）
 
@@ -2433,6 +2433,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 - 人物圖貼著該人物的敘事段（worked example：熱狗圖從廠牌段移到他封王的金曲段、葛仲珊圖從 section 尾移到她的段落旁），不是堆在 section 結尾當裝飾
 - caption 呼應該段 narrative（不是泛用圖說）；兩個媒體不相鄰堆疊；section 收尾可留一個媒體做視覺閉合
 - 對應哲宇 directive 原句：「視覺同步檢查引用的多媒體跟文章的關聯性與閱讀感」
+- **看圖一列（v9.6，2026-09-19）**：每張本地圖用 Read 工具打開一次，alt 與斜體圖說裡的每個可見原子（地點、門牌、衣著、動作、招牌上的數字、是哪種物件）逐項對照畫面；畫面上看不到的一律不寫，Commons 檔名與機關地址都不算看過圖。金鐘獎 v1「後台手持獎座、身穿西裝」（台上、露肩禮服）、低薪「館前路志清大樓、中央自動門」（門楣寫松江路 207 號、旋轉門）、油價「加油機上的價格」（路邊招牌）三篇同日現形，全部走過冷讀與主編仍上線，因為所有席位讀的都是文字。`image-alt` 只查有沒有 alt、`image-health` 只查檔案存不存在，這一列是唯一拿照片本身當來源的動作
 
 **三關全過才算成品 ship。已 ship 後觸發（讀者 callout）→ 三關照跑，修正以 `heal:` commit 補。**
 
@@ -2547,7 +2548,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-4-FORMAT.md @ 5ad44270b ==== -->
+<!-- ==== source: REWRITE-STAGE-4-FORMAT.md @ 5ad44270b1 ==== -->
 
 ## Stage 4 contract — 形（format＋媒體插入）
 
@@ -2945,7 +2946,7 @@ _{source channel} 官方 MV：{跟文章 narrative 呼應的一句話描述}。_
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-5-CROSSLINK.md @ 70e08c91d ==== -->
+<!-- ==== source: REWRITE-STAGE-5-CROSSLINK.md @ 70e08c91d5 ==== -->
 
 ## Stage 5 contract — 連（雙向延伸閱讀＋relatedDiary＋Merge 收尾）
 
