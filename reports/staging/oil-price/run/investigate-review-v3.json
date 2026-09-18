@@ -1,0 +1,22 @@
+{
+  "revision": 28,
+  "submissionId": "ce1c45ba-ac3a-4735-9b47-be7e4f8e6e85",
+  "actor": "guide_investigate_reviewer_3 (Sonnet sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "diff 範圍確認符合聲明：v3 相對 v2 只新增 claim #12、searchLimits 第 9 條、changedMind 末段，claims[0..10]／counterEvidence／searchLimits[0..7] 逐條 diff 完全相同。§11 八條逐條核對原文本，三條重點親核中兩條準確：(1) 中油 9/12 稿「12.29%」與「10.5＋0.7＝11.2」——ey-cpc-20260912.txt L99 逐字確認 10.5（貨物稅3.7＋中油6.8）與牌價調漲0.7是原文分開的兩個欄位，§11 把 11.2 定性為公式價與牌價的累積差距、非週漲幅，且明說「新聞稿沒有列算式」，未過度推論，通過；(2) 1,014.31 億「油氣」（ey-moea-4217.txt L99-101）vs 賴建信記者會「汽柴油」（ltn-budget-breakdown.txt L88）——兩份文本用字確實不同，§11 只陳述兩說並存、不斷言哪個對，通過。第三條核對發現具體事實錯誤：§8.A 逐週表 6/20–7/18 五個公布日（累計177→172.6→167.1→160.7→155.6億）中，§11 聲稱「中油自己那欄吸收為0」，但表格第五列（2026-07-18公布，7/20-7/26生效）的『亞鄰＋專案平穩吸收』欄實際是0.3/1.1（非0），對應累計最低點155.6億剛好落在中油恢復吸收的那一週，跟『五週皆吸收0仍下降』的敘述矛盾。同一句錯誤同時存在於研究報告§11正文與本次investigate claim #12（『累計吸收6/20–7/18五週中油欄吸收0而累計數下降』），claim #12的support欄稱『逐字一致』，但這點對第五週不成立。底層洞察（累計吸收是預估值、非流水帳、6月下旬到7月中旬因牌價實際調降而真實走低）本身有充分支持不受影響，但『五週皆為0』是可獨立驗證且已被推翻的具體措辭，不是『官方未解釋』類型的缺口，需要修正後再交。另檢查claim #12的doesNotSupport欄（四項：不支持3.7vs3.415機制推測、不支持每週重算是官方說法、不支持回收條款尚未啟動、不支持杜拜一向較便宜），對照§11第2/3/4/7/8條正文用字，確認都停在『未解釋/未寫/未對齊』層次，沒有把官方未寫的缺口偷渡成機制斷言，這部分通過。",
+  "contextDisclosure": "fresh-context-investigate-inputs",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/investigate-submission-v3.json",
+      "location": "data.claims[11]（claim #12，冷讀回修八條查證整合條目）+ data.searchLimits[8] + data.changedMind 末段（v3 重交註記）"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§11 冷讀回修查證第1-8條（行1181-1189）；§8.A 逐週資料表 2026-06-20至2026-07-18五列（行501-505，含表頭定義，行480）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/investigate-review-v3.md",
+      "location": "全文，含 (a) diff 範圍確認、(b) §11 八條逐條核對表與三條重點親核詳述、(c) doesNotSupport 紀律檢查"
+    }
+  ]
+}
