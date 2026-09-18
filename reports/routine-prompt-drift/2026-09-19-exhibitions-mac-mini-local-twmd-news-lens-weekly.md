@@ -1,9 +1,9 @@
 ---
 name: twmd-news-lens-weekly
-description: TWMD news lens (weekly) — Sunday 01:00 三源交叉 + 探測器外部媒體掃描 + news-lens-spore-output (v3.1 probe 第四源, main-direct)
+description: TWMD news lens (weekly) — Sunday 01:00 三源交叉 + news-lens-spore-output 5-7 P1 candidates (v3.0 inline + STRICT BECOME, main-direct)
 ---
 
-🧬 Routine `twmd-news-lens-weekly` — Sunday 01:00 GA + SC + CF 三源交叉 + 探測器（外部媒體四頻道 × 知識庫缺口）→ Tier 1 進 ARTICLE-INBOX + reports/probe/ 報告；出口開啟時再 propose 5-7 P1 spore candidates。
+🧬 Routine `twmd-news-lens-weekly` — Sunday 01:00 GA + SC + CF 三源交叉 + news-lens 熱點掃描 → propose 5-7 P1 spore candidates append SPORE-INBOX。
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
@@ -28,17 +28,13 @@ git checkout main && git pull origin main
 
 ## Stage 3: 三源交叉 (DNA #4)
 
-| 源 | 意義 | 信號 |
-|---|---|---|
-| GA4 | 誰來了 + 站內行為 | page_view / scroll / session_duration / conversion |
-| SC | 誰想來但沒來 | query position > 10 + impressions > 100 = 高 demand 低 ranking |
-| Cloudflare | 誰在邊緣讀我 | AI crawler hit / cached request / 404 rate spike |
+| 源         | 意義              | 信號                                                           |
+| ---------- | ----------------- | -------------------------------------------------------------- |
+| GA4        | 誰來了 + 站內行為 | page_view / scroll / session_duration / conversion             |
+| SC         | 誰想來但沒來      | query position > 10 + impressions > 100 = 高 demand 低 ranking |
+| Cloudflare | 誰在邊緣讀我      | AI crawler hit / cached request / 404 rate spike               |
 
 至少 2 源確認的 signal 才升 candidate。
-
-## Stage 3.5: 探測器（v3.1，2026-09-18 接回；停擺 138 天的那隻眼睛）
-
-嚴格照 `/Users/cheyuwu/Projects/taiwan-md/docs/pipelines/EVOLVE-PIPELINE.md` §news-lens-probe-output 跑：同日已有 `reports/probe/$(date +%F).md` 就跳過；否則外部四頻道 WebSearch（主流媒體 / 國際英文 / DailyView+Threads 社群聲量 / 財經）+ Loop 6 時事日曆 → 每個熱點 `find knowledge/` + grep ARTICLE-INBOX + grep DONE-LOG 三邊對照 → Tier 1-3 → 報告落 `reports/probe/YYYY-MM-DD.md` + INDEX 一列（格式範本 `reports/probe/2026-09-18.md`）→ **Tier 1 寫成完整 entry append ARTICLE-INBOX §Pending**（這是 output (1) 的主要來源）。政治立場 / 在審案件 / 私人事件標「需哲宇裁定」不當 Tier 1。缺口確認要貼 find 結果，沒貼 = 沒查。
 
 ## Stage 4: News-lens spore output (v2.6)
 
@@ -55,7 +51,7 @@ Daily spore-pick-daily 看到 news-lens P1 count ≥ 3 自動 throttle（補 0-3
 
 ## Stage 5: 收官
 
-`/twmd-finale` chain → memory file 必含：BECOME ACK + 三源 signal 列表 + probe 報告路徑與 Tier 1 條數 + N news-driven candidates appended（或出口關閉說明）+ Handoff 三態 + Beat 5 反芻。
+`/twmd-finale` chain → memory file 必含：BECOME ACK + 三源 signal 列表 + N news-driven candidates appended + Handoff 三態 + Beat 5 反芻。
 
 ```bash
 git push origin main  # main-direct v2.0

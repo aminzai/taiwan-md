@@ -1,10 +1,11 @@
 ---
 name: twmd-news-lens
 description: |
-  Weekly news-lens 三源交叉 + news-driven spore candidate propose via EVOLVE-PIPELINE v2.0.
-  Routine fires Sunday 01:00. Manual /twmd-news-lens or "跑 news lens" or "新聞透鏡掃描".
+  Weekly news-lens 三源交叉 + 探測器外部媒體掃描 + news-driven spore candidate propose
+  via EVOLVE-PIPELINE. Routine fires Sunday 01:00. Manual /twmd-news-lens or "跑 news lens"
+  or "新聞透鏡掃描" or "新聞雷達".
   TRIGGER when: routine twmd-news-lens-weekly fires / user says "跑 news lens" /
-  "新聞透鏡掃描" / "三源交叉找熱點".
+  "新聞透鏡掃描" / "三源交叉找熱點" / "新聞雷達".
 allowed-tools:
   - Bash
   - Read
@@ -15,7 +16,7 @@ allowed-tools:
   - WebSearch
 ---
 
-# 🧬 Taiwan.md — News Lens (weekly) v3.0
+# 🧬 Taiwan.md — News Lens (weekly) v3.1
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
@@ -39,6 +40,10 @@ allowed-tools:
 
 至少 2 源確認的 signal 才升 candidate。
 
+## 探測器（v3.1，第四源）
+
+照 [EVOLVE-PIPELINE §news-lens-probe-output](../../../docs/pipelines/EVOLVE-PIPELINE.md) 跑：外部媒體四頻道 × `knowledge/` / ARTICLE-INBOX / DONE-LOG 三邊對照 × Tier 1-3 → `reports/probe/YYYY-MM-DD.md` + [INDEX](../../../reports/probe/INDEX.md) 一列 → Tier 1 寫成 ARTICLE-INBOX entry。同日已有報告就跳過。這是 2026-05-13 SENSES 凋亡後沒人接手、停擺 138 天的那隻眼睛（ROUTINE.md 註 ²⁶）。
+
 ## News-lens spore output (v2.5)
 
 propose 5-7 news-driven candidates append [SPORE-INBOX.md](../../../docs/factory/SPORE-INBOX.md)：
@@ -53,7 +58,7 @@ Daily spore-pick-daily 看到 news-lens P1 count ≥ 3 自動 throttle（補 0-3
 
 ## 收官
 
-`/twmd-finale` chain → memory file 必含：BECOME ACK + 三源 signal 列表 + N news-driven candidates appended + Handoff 三態 + Beat 5 反芻。
+`/twmd-finale` chain → memory file 必含：BECOME ACK + 三源 signal 列表 + probe 報告路徑與 Tier 1 條數 + N news-driven candidates appended + Handoff 三態 + Beat 5 反芻。
 
 完整 SOP：[EVOLVE-PIPELINE.md](../../../docs/pipelines/EVOLVE-PIPELINE.md)
 

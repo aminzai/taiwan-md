@@ -3,9 +3,9 @@ title: 'EVOLVE-PIPELINE'
 description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor + Mode 4 goal-driven design evolution (v3.7)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.7'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（共編規則對內層：gate 分流，解 OBSERVER-QUEUE #16）'
+current_version: 'v3.8'
+last_updated: 2026-09-18
+last_session: '2026-09-18-132812-news-radar（探測器接回 news-lens-weekly：§news-lens-probe-output 第四源，解 138 天停擺）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
@@ -338,6 +338,43 @@ N 降到 < 3 → daily routine 重新補 P2
 - 高敏感 candidate（兩岸 / 228 / 政治）必須 REACTIVE 且明示 frame 規則
 - entries 跨多 category（不全 People 或全 Food，避免單一 category overload）
 - 寫入 fail → silent skip + LESSONS entry（不影響 ARTICLE-INBOX 主流程）
+
+---
+
+## news-lens-probe-output（v3.8 新增，2026-09-18）— 探測器：外部媒體 × 知識庫缺口
+
+> News lens mode 的第 6 種 output，也是 Phase 1 SCAN 的**第四源**。前三源（GA4 / SC / CF）看的是「誰來了、誰想來、誰在邊緣讀」，全部是站內視角；探測器看的是「世界這週在講什麼」。2026-05-13 SENSES 凋亡時，探測器的 SOP 被指到本檔 Phase 1，但沒有 routine 接手執行，`reports/probe/` 從 2026-05-03 停到 2026-09-18 共 138 天，而且因為「探測器落後 > 7 天 🟡」那盞燈跟 SENSES 一起消失，停擺零警報（REFLEXES #56 v8）。本節把執行者釘回 `twmd-news-lens-weekly`。
+>
+> 報告格式 canonical 範本：[reports/probe/2026-09-18.md](../../reports/probe/2026-09-18.md)（frontmatter / TL;DR / 探測來源表 / Tier 1-3 / 內部訊號 / 跟上次 probe 對照 / 元觀察 / next steps / 待加入 INBOX 摘要）。索引：[reports/probe/INDEX.md](../../reports/probe/INDEX.md)。
+
+### Stage 任務（在 Phase 1 之後、Phase 2 之前跑；observer 觸發「新聞雷達／跑探測器」時單獨跑）
+
+0. **同日不重跑**：`test -f reports/probe/$(date +%F).md` 已存在 → 跳過本節，直接用它。
+1. **外部四頻道掃描**（WebSearch 各 ≥ 3 次，中文站 WebFetch 用中文 prompt 要逐字）：
+   - 主流媒體：公視一週大事 / 中央社 / 聯合 / 自由 / 風傳媒（政治、社會、司法、政策）
+   - 國際英文：Focus Taiwan / Taipei Times 頭版 / AEI-ISW China & Taiwan Update（外交、兩岸、國防）
+   - 社群聲量：網路溫度計 DailyView 首頁（WebFetch）+ Threads 趨勢（文化、生活、爭議）
+   - 財經：經濟日報 / 鉅亨 / 工商（台股、能源、產業、預算）
+   - 加 §Loop 6 時事日曆：未來 30 天內的節慶 / 典禮 / 選舉節點 / 賽事，當時效錨點
+2. **知識庫三邊對照**（每個熱點都要）：`find knowledge -maxdepth 2 -name "*.md" -path "knowledge/[A-Z]*" | grep <關鍵字>` 看有沒有條目、有的話 `date:` / `lastVerified` 多舊；grep ARTICLE-INBOX §Pending 有沒有 entry（Phase 4 CHECK，不重複）；grep ARTICLE-DONE-LOG 是不是剛 ship 過。
+3. **內部訊號補位**：讀 `public/api/dashboard-analytics.json` 的 `searchConsole7d.topQueries` / `opportunities` 與 `ga.topArticles7d`，把外部雷達照不到、但站內數據在叫的條目（高曝光低 CTR / 流量王帶病）列進報告 §內部訊號，跟既有 INBOX entry 對照後只做「升級／提醒」不重列。
+4. **Tier 排序**：Tier 1 立即開發（時效高 × 深度大 × 缺口大，通常 3-4 條）/ Tier 2 近期開發（持續性議題）/ Tier 3 孢子掛鉤（已有條目 × 熱點；出口關閉時只列不 append，同 §news-lens-spore-output Step 0）。每條寫：時效 / 重要性 / 缺口確認（貼 find 結果）/ 建議切角 / footnote 起點來源 / 必驗事實 / 敏感度。
+5. **§自主權邊界過濾**：政治立場、在審案件、私人事件當脊椎的題目（例：陳幸妤離婚），標「需哲宇裁定」或「不建議」並寫原因，不當 Tier 1。
+6. **落檔**：`reports/probe/YYYY-MM-DD.md` + `reports/probe/INDEX.md` 加一列（日期 / 熱點數 / 缺口數 / 關鍵發現 / link）。跑 `python3 scripts/tools/article-health.py reports/probe/YYYY-MM-DD.md --check=prose-health` 要 hard=0（warn 可接受，報告體例本來就 bullet 密）。
+7. **餵 ARTICLE-INBOX**：Tier 1 條目寫成完整 entry append §Pending（Priority P0 / P1，Requested 標 `YYYY-MM-DD by twmd-news-lens-weekly (probe)`，Notes 含缺口確認與必驗事實）。這就是本 routine legacy output (1)「≥ 1 candidate」的主要來源。需哲宇裁定的條目也 append，但 Notes 第一行寫「需哲宇裁定 framing」且 Status 維持 pending。
+8. **跟上次 probe 對照**：讀 INDEX 最後一列的報告，逐條標 ✅ ship / ⏳ 未動 / 🔁 被新事件取代，算推進率；連續兩次 ⏳ 的 P0 在報告建議降級。
+
+### Quality gate
+
+- `reports/probe/YYYY-MM-DD.md` 存在且 INDEX 有對應列（hard）
+- Tier 1 ≥ 1 條進 ARTICLE-INBOX（hard；零缺口的週要在報告寫「本週無 Tier 1」並說明掃了什麼）
+- 每條 Tier 1 有「缺口確認」貼 find/grep 結果（hard；沒貼 = 沒查）
+- 四頻道全掃（warn；某頻道抓不到寫「抓取狀態 ❌」不留白）
+- 距上次 probe > 14 天 → 報告 §元觀察必須寫停擺原因（warn）
+
+### 跟其他 stage 的關係
+
+探測器產出的 candidate 走 Phase 4 CHECK（不重複 INBOX）與 Phase 6 APPEND 同一條路；Phase 5 ENRICH 的「GA + SC 雙源 pointer」對純外部熱點的 NEW 題**不適用**（還沒有頁面可量），改以「缺口確認 + 必驗事實」代替，這是 v2.1 gate 分流表的 🟢 新建型延伸。
 
 ---
 
@@ -971,3 +1008,5 @@ _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAI
 _v3.6 | 2026-07-18 inbox-skill session — 新增 Mode 4「目標驅動設計進化」（THINK→DIVERGE→REPORT→IMPLEMENT 四相 + 5 hard gate + 四 mode 邊界表）。觸發：哲宇 /goal「把這樣自我進化的過程（思考 發散 報告 實作）做成 /twmd-evolve」。命名衝突決策：/twmd-evolve 是 twmd-finale 第三棒與 news-lens-weekly cron 的承重牆，語意擴展不取代——殼內 mode 分流，既有引用一條不斷。設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。_
 
 _v3.7 | 2026-09-05 fortnight-review — 新增「進化分數 gate 的適用範圍（v2.1）」：60 分 gate 收窄為只管 🔴 Rewrite 型，🟠 SEO 優化／🟡 翻譯／🟢 新建三型改用行動表既有的定性判準（Phase 1B「高曝光＋低 CTR（< 5%）」／Bump-vs-translate matrix／Top 5 第 3 條「曝光 ≥ 500」），不引入新量化門檻。同步在 ASCII spine 與 Hard Gate Inventory 的「進化分數 ≥ 60」補「（🔴 型）」限定，並在 sister_docs 加 CONTRIBUTING.md 互指。解 [OBSERVER-QUEUE #16](../semiont/OBSERVER-QUEUE.md)：BIM 英文版 metadata 案（58.2 分卡在 60 分 gate、但 100% 命中 🟠 SEO 型定性條件）是誕生案例。設計報告：[reports/design-co-editing-rules-2026-09-05.md](../../reports/design-co-editing-rules-2026-09-05.md)。_
+
+_v3.8 | 2026-09-18 news-radar — 新增 §news-lens-probe-output：探測器（外部媒體四頻道 × 知識庫三邊對照 × Tier 1-3 × 報告落 reports/probe/）接回 `twmd-news-lens-weekly` 當 Phase 1 第四源。觸發：哲宇「幫我執行新聞雷達」後發現 reports/probe/ 自 2026-05-03 停擺 138 天——SENSES 凋亡去向表遷了 SOP 沒遷執行者（REFLEXES #56 v8）。報告格式以 2026-09-18 版為範本；Tier 1 直接餵 ARTICLE-INBOX 成為 legacy output (1) 的主要來源。_
