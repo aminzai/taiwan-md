@@ -47,9 +47,9 @@ sporeLinks:
     date: '2026-05-28'
     url: 'https://x.com/taiwandotmd/status/2060010924015321462'
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f61'
-sourceContentHash: 'sha256:bad67aad8b965996'
-sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-08-09T09:26:48+08:00'
 ---
 

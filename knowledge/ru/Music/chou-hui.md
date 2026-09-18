@@ -43,9 +43,10 @@ sporeLinks:
     "{'id': 104, 'platform': 'x', 'date': '2026-05-28', 'url': 'https://x.com/taiwandotmd/status/2060010924015321462'}",
   ]
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f61'
-sourceContentHash: 'sha256:023ec1770793f2e9'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
 translatedAt: '2026-08-03T23:51:53.979738+00:00'
+sourceBodyHash: 'sha256:14a031263a904f69'
 ---
 
 # Чжоу Хуй: голос, певший «Обещание» 25 лет, от манга-куклы до Маленького гиганта — марафон
