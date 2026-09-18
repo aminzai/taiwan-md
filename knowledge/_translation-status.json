@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T12:31:44+08:00",
-    "zhCommitHead": "85fdaee61",
+    "lastUpdated": "2026-09-18T12:37:41+08:00",
+    "zhCommitHead": "0a6e19bc1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 943,
-        "stale": 72,
+        "fresh": 944,
+        "stale": 71,
         "metadata_stale": 74,
         "missing": 32,
         "orphan": 0
@@ -8931,8 +8931,8 @@
           "sourceContentHash": "sha256:3a34e0a0c6a0aba4",
           "sourceBodyHash": "sha256:118ca7651c90b0fe",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a6e19bc",
+          "translationLastModified": "2026-09-18T12:31:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -156702,18 +156702,16 @@
         "vi": {
           "path": "vi/Geography/hsinchu-county.md",
           "translatedFrom": "Geography/新竹縣.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:eefcd1a536e4ddf5",
-          "sourceBodyHash": "sha256:a716f79b2442afc5",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:bf74cbc86604e18b",
+          "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
+          "translatedAt": "2026-09-18T04:37:19.893586+00:00",
           "translationLastCommit": "162d0912",
           "translationLastModified": "2026-08-09T10:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -162200,8 +162198,8 @@
           "sourceContentHash": "sha256:97323b56bde19cd4",
           "sourceBodyHash": "sha256:1cf3a8a560e00934",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a6e19bc",
+          "translationLastModified": "2026-09-18T12:31:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -176463,8 +176461,8 @@
           "sourceContentHash": "sha256:b188920097cf9184",
           "sourceBodyHash": "sha256:bf6baa44f84e7aa1",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a6e19bc",
+          "translationLastModified": "2026-09-18T12:31:44+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",

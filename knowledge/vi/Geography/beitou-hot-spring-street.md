@@ -33,17 +33,17 @@ featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
 readingTime: 25
-researchReport: reports/research/2026-05/beitou-hot-spring.md
-series: 'Loạt Khu Phố Lịch Sử (P1-8)'
+researchReport: 'reports/research/2026-05/beitou-hot-spring.md'
+series: '歷史街區系列 (P1-8)'
 image: '/article-images/geography/beitou-hot-spring-museum-2020.webp'
 imageCredit: 'Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg'
 translatedFrom: 'Geography/北投溫泉街.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fb76ac27fc6cd3ba'
-sourceBodyHash: 'sha256:a32189fb31dd0c7d'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2c4fe0156269ff13'
+sourceBodyHash: 'sha256:123f0a9f012e26b6'
+translatedAt: '2026-09-18T03:12:20.509224+00:00'
 ---
 
 # Đường Suối Nóng Bắc Đầu: Từ Khai Thác Lưu Huỳnh 1697 Đến Bảo Tàng Tắm 2026, Cùng Một Dòng Suối Thay Đổi Bốn Thế Hệ Cư Dân
@@ -130,24 +130,24 @@ Ba năm sau, năm 1916 (Đại Chánh 5) ngày 1 tháng 4, **tuyến hỗ trợ 
 
 > **📝 Ghi chú Chuẩn bị:** Bạn có thể xem công trình tắm công cộng 1913 và tuyến hỗ trợ Tân Bắc Đầu 1916 như hai bộ phận của cùng một hệ thống. Tòa nhà được Mori Yamamoto xây bản chất là một **máy tuyên truyền vật liệu của thuộc địa**: biến một dòng suối nước sôi không được người Nhật biết đến thành "công trình tắm công cộng lớn nhất Đông Á" + "tuyến đường sắt du lịch Đài Loan đầu tiên" + "cách Đài Bắc 20 phút" + "sử dụng hoàng gia" (sẽ xảy ra sau) nhân hiệu thương hiệu tổng hợp. Thương hiệu này thành công, nó làm cho khách Nhật địa phương biết "Đài Loan thuộc địa, có một nơi gọi Bắc Đầu là địa điểm suối nóng". Nhưng thương hiệu này không được thiết kế cho tộc Khải Đạt Cách Lan, không được thiết kế cho người di cư Hán từ thời Thanh để lại, **được thiết kế cho khách du lịch của Đế quốc Nhật Bản**. Một khi công trình tắm gạch đỏ năm 1913 xây lên, đường phố này biến thành không gian trưng bày của đế quốc.
 
-## 1923, Thái tử Vương Đẹp Đã Tắm Một Lần
+## Năm 1923: Thái tử đến tắm suối nước nóng
 
-![Bức ảnh ghi lại ngày 25 tháng 4 năm 1923 Thái tử Vương Đẹp thăm công trình tắm công cộng Bắc Đầu](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
-_Ảnh ghi lại ngày Thái tử Vương Đẹp thăm công trình tắm công cộng Bắc Đầu năm 1923. Photo: Public domain (tài liệu trước chiến tranh, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Prince_Hirohito%27s_visit_at_Hokutō_Public_Bathhouse_1923.jpg)._
+![Ảnh tư liệu về chuyến thăm của Thái tử Hirohito tại nhà tắm công cộng Bắc Đầu năm 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
+_Ảnh tư liệu về chuyến thăm của Thái tử Hirohito đến nhà tắm công cộng Bắc Đầu năm 1923. Ảnh: Miền công cộng (Tài liệu trước chiến tranh, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown%20Prince%20Hirohito%27s%20visit%20at%20Hokutō%20Public%20Bathhouse%201923.jpg)._
 
-Năm 1923 (Đại Chánh 12) tháng 4, **Thái tử Vương Đẹp** (sau đó là Thiên Hoàng Showa - Hòa) với tư cách Thái Tử Vương Chánh thay thế Thiên Hoàng Đại Chính tuyến hành 12 ngày ở Đài Loan [^6]. Đây là lần đầu tiên hoàng gia Nhật Bản viếng thăm Đài Loan thuộc địa.
+Vào tháng 4 năm 1923 (năm Đại Thành thứ 12), **Thái tử Hirohito** (sau này là Thiên hoàng Shōwa) đã đến Đài Loan với tư cách người đại diện nhiếp chính để thực hiện chuyến thăm kéo dài 12 ngày[^6]. Đây là lần đầu tiên Hoàng gia Nhật Bản đến thăm thuộc địa Đài Loan.
 
-Ngày 25 tháng 4, chương trình của Vương Đẹp là đi Thảo Sơn (ngày nay là Dương Minh Sơn) với Bắc Đầu. Để chào đón ông, Cơ quan Đài Bắc đã sửa chữa sớm năm trước: công trình tắm công cộng Bắc Đầu tầng hai **thêm xây dựng 30 cây tươi "Nơi Nghỉ Ngơi Hoàng Gia"**, không gian nghỉ ngơi riêng của Thái tử, chính là vị trí phòng dạy hôm nay của Bảo Tàng Suối Nóng tầng hai [^6].
+Vào ngày 25 tháng 4, lịch trình của Thái tử bao gồm việc ghé thăm Thảo Sơn (nay là Dương Minh Sơn) và Bắc Đầu. Để đón tiếp ngài, Tỉnh trưởng Đài Bắc đã tiến hành tu sửa trước một năm: **Nhà tắm công cộng Bắc Đầu** đã được xây thêm hơn 30 trượng "Ngự nghỉ sở" ở tầng hai, đây là không gian nghỉ dưỡng dành riêng cho Thái tử, chính là vị trí phòng nghe nhìn ở tầng hai của Bảo tàng Suối nước nóng ngày nay[^6].
 
-Vương Đẹp ngày hôm đó trước tiên tham quan công trình tắm công cộng, rồi đi đến bên suối Bắc Đầu xem "Bắc Đầu Thạch", viên khoáng chất được Lương Bản Yêu Bát Lang phát hiện 18 năm trước đã trở thành niềm tự hào học thuật của Đế quốc Nhật [^11]. Để Thái tử có thể đi bộ trên suối Bắc Đầu quan sát Bắc Đầu Thạch, hiện trường đặc biệt lót một số từng tảng **"chim đá (とびいし)"** (tiếng Nhật là đá bước) [^20].
+Vào ngày hôm đó, Thái tử trước tiên tham quan nhà tắm công cộng, sau đó đi đến bờ suối Bắc Đầu để ngắm "Đá Bắc Đầu" (北投石), loại khoáng vật mà Okamoto Yōtarō đã phát hiện 18 năm trước và là niềm tự hào học thuật của Đế quốc Nhật Bản[^11]. Để Thái tử có thể đi dạo và quan sát Đá Bắc Đầu trên suối, tại hiện trường đặc biệt đã lát những phiến **"phi thạch"** (とびいし - đá bước) [^20] phía trên thác thứ hai.
 
-Năm 1934 (11 năm sau), dân chúng để tưởng niệm ngày này, tại bên bờ thác thứ hai suối Bắc Đầu lập một tảng **"Thái Tử Điện Hạ Ngự Độ Thiệp Ký Niệm Bích"** [^20]. Sau chiến tranh tảng bia này gần như bị phá huỷ, may mắn được bảo lưu, ngày nay tảng bia này vẫn còn trong sân vườn phòng tắm Thác Năng Dạy [^20].
+Vào năm 1934 (11 năm sau), người dân đã dựng một **"Đài tưởng niệm chuyến đi của Thái tử"** tại bờ suối Bắc Đầu để kỷ niệm sự kiện này[^20]. Tấm bia này suýt bị phá hủy sau chiến tranh, may mắn được bảo tồn và ngày nay vẫn nằm trong sân của nhà tắm Tùng Đài (瀧乃湯) [^20].
 
-Sau khi Vương Đẹp tắm suối nóng lần đó, danh tiếng "chứng thực hoàng gia" của Bắc Đầu lan truyền khắp Nhật Bản. Suốt những năm 1920-1930, Bắc Đầu dần dần mọc lên nhiều nhà khách hơn: nhà khách Jiǎ Sơn năm 1921 xây là tòa nhà gỗ hai tầng kiểu Nhật vị trí cao nhất, chi phí cao nhất khu vực Tân Bắc Đầu lúc bấy giờ, là tòa nhà kiểu tương tự hiếm hoi còn lại sau chiến tranh (sau chiến tranh thành Cơ quan Ngoài Giao Jiǎ Sơn Chiêu Đãi Sở, năm 1983 do Tam Phúc Hóa Công Trương Thuần Minh tiếp nhận chuyển thành Nhà Dân Tộc Văn Hóa Bắc Đầu, nay là **Bảo Tàng Dân Tộc Bắc Đầu**) [^21]. Thác Năng Dạy xây năm 1907 tiếp tục kinh doanh bể tắm công cộng (sau chiến tranh đổi tên kéo dài tới ngày nay, năm 2016 sửa chữa lớn lần đầu, năm 2017 tái khai trương) [^22]. Phổ Tế Tự vẫn còn hương khói Thang Thủ Quan Âm.
+Sau chuyến thăm suối nước nóng của Thái tử, danh tiếng "được hoàng gia chứng thực" của Bắc Đầu đã lan truyền khắp Nhật Bản. Trong suốt những năm 1920-1930, nhiều khách sạn khác nhau đã mọc lên ở Bắc Đầu: **Nhà trọ Gia Sơn** (佳山旅館), được xây dựng vào năm 1921, là một công trình kiến trúc kiểu Nhật hai tầng bằng gỗ nguyên khối cao nhất và sang trọng nhất trong khu vực Tân Bắc Đầu lúc bấy giờ; đây là loại hình kiến trúc còn sót lại duy nhất ở Đài Loan (sau chiến tranh đã được chuyển đổi thành nhà khách của Bộ Ngoại giao Gia Sơn, năm 1983 do Trương Thuần Minh của Công ty Hóa chất Tam Phúc tiếp quản và cải tạo thành Nhà trưng bày Văn hóa Dân gian Đài Loan, hiện là **Bảo tàng Bắc Đầu**)[^21]. **Tùng Đài** (瀧乃湯), được xây dựng năm 1907, vẫn duy trì hoạt động tắm công cộng (đổi tên sau chiến tranh và tiếp tục đến ngày nay, lần tu sửa lớn đầu tiên vào năm 2016, tái khai trương năm 2017)[^22]. Chùa Phổ Tế vẫn giữ ngọn nến thờ Quan Âm.
 
-Khu vực Bắc Đầu thời gian đó là cái gì? Người Nhật giàu có từ địa phương đến độc lập, công ty thương mại tổ chức tiệc tùng, quân sĩ đến điều dưỡng, tầng lớp nhân viên Đài Loan ít khi cũng được mời đến làm bạn. Sau khi Chiến tranh Trung-Nhật phát nổ năm 1937, nhà khách ở Bắc Đầu bắt đầu tiếp quân nhân Nhật, nhà khách Jiǎ Sơn từng bị quân đội lệnh dùng làm "Câu Lạc Bộ Sĩ Quan Quân Đội Nhật" [^21]. Thời kỳ cuối chiến tranh, đặc công thần phong trước một tuần sẽ được gửi đến Bắc Đầu để vui chơi (kể lại của những cụ già địa phương Bắc Đầu) [^21].
+Bắc Đầu thời đó trông như thế nào? Giới giàu có Nhật Bản đến đây trăng mật, các công ty thương mại tổ chức tiệc chiêu đãi, sĩ quan quân đội đến trị liệu, và đôi khi cả tầng lớp lao động Đài Loan cũng được mời tham gia. Sau khi Chiến tranh Trung-Nhật bùng nổ vào năm 1937, các nhà trọ ở Bắc Đầu bắt đầu tiếp nhận binh lính Nhật Bản; Nhà trọ Gia Sơn từng bị quân đội trưng dụng làm "Câu lạc bộ sĩ quan Nhật Bản"[^21]. Vào cuối chiến tranh, trước khi các phi công thần phong xuất kích, họ được đưa đến Bắc Đầu để tiệc tùng (theo lời kể của người cao niên địa phương ở Bắc Đầu)[^21].
 
-Ngày 8 tháng 8 năm 1945 Nhật Bản đầu hàng, tất cả người Nhật rút về quốc gia, để lại một đường phố trống trải của suối nóng, cùng một nhóm người Đài Loan không biết tiếp theo sẽ làm gì.
+Vào tháng 8 năm 1945, Nhật Bản đầu hàng, tất cả người Nhật đều rút về nước, bỏ lại một khu phố suối nước nóng vắng vẻ với những người Đài Loan không biết sẽ làm gì tiếp theo.
 
 ## Hai Mươi Năm Sau Chiến Tranh: Nakashi, Quán Rượu, Quân Sĩ Mỹ
 

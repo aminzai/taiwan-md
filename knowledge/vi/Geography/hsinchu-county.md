@@ -25,17 +25,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 17
-researchReport: reports/research/2026-05/Tân Trúc.md
-series: '22 tỉnh/thành phố series (batch 2)'
-image: /article-images/geography/hsinchu-county-hero.webp
-imageCredit: Outlookxp
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg
+researchReport: 'reports/research/2026-05/新竹縣.md'
+series: '22 縣市系列（batch 2）'
+image: '/article-images/geography/hsinchu-county-hero.webp'
+imageCredit: 'Outlookxp'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg'
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: fe48ea49d
-sourceContentHash: 'sha256:eefcd1a536e4ddf5'
-sourceBodyHash: 'sha256:a716f79b2442afc5'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:bf74cbc86604e18b'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
+translatedAt: '2026-09-18T04:37:19.893586+00:00'
 ---
 
 # Tân Trúc: 235 năm tin tưởng nghĩa dân, và thu nhập bình quân đầu tiên toàn quốc, sống cùng một dòng sông Đầu Tiền
@@ -90,20 +90,20 @@ Tòa lâu Kiương Á Tân thường bị nhầm với công trình xây dựng 
 
 > **✦** "**Miễn là tôi còn sống, nhạc tám âm sẽ không bao giờ bị đứt**." (Tạp chí VERSE dẫn lại lời của Bành Tuấn Dương, người dân Bắc Phố truyền thừa nghệ thuật nhạc tám âm[^14])
 
-## Gió hạ ngụa thổi xuống: bánh diếc, bánh tráng và trà phồng gió
+## Gió chín tháng chín thổi đến: bánh lụa, mì bột, trà ép
 
-Khí hậu của tỉnh Tân Trúc được quyết định bởi địa hình.
+Khí hậu của Hạ Bình quyết định bởi địa hình.
 
-Dãy núi Tuyết Sơn phía tây nam, những gò đồi Hương Sơn và cao nguyên Hồ Khẩu hình thành một vùng đất lầu thấp kiểu kèn trombone, sau khi gió mùa đông bắc vào được địa hình ấn chặt làm tăng cường lực, mỗi năm từ khoảng mồng 20 tháng chín âm lịch (khoảng giữa tháng 10 dương lịch) bắt đầu có một loại gió khô lạnh được gọi là "gió hạ ngụa", tốc độ gió có thể tới 20 mét trên giây[^17]. Gió hạ ngụa thổi thành ba thứ đặc sản của tỉnh Tân Trúc: bánh tráng Tân Trúc (vùng Trúc Bắc, bột gạo được ngâm trong nước rồi phơi trên giá tre, gió bắc thổi khô đều hơn phơi nắng), bánh diếc Tân Phủ (vùng Hoang Khảm tháng 9-12 phơi nắng, lịch sử ít nhất 170 năm, quá trình 7-9 ngày, tước cuống, bóc vỏ, phơi nắng, thổi khô, định hình), sắn bên Quán Tây (gió bắc thổi khô rồi thu hoạch, làm sắn đông, nướng sắn nóng, tỉnh Tân Trúc Quán Tây chiếm hơn 60% sản lượng sắn toàn quốc)[^18].
+Dãy núi Tuyết Sơn phía tây nam, đồng bằng Hương Sơn và bằng cao nguyên Hồ thành một đồng bằng cát lở hình thùng, hướng về phía đông. Khi gió mùa đông bắc thổi vào, nó bị chặn bởi địa hình và tăng cường, từ cuối tháng Chín âm lịch (khoảng giữa tháng Mười dương lịch) hàng năm thổi một cơn gió khô lạnh mạnh được gọi là "gió chín tháng chín", tốc độ lên tới 20 mét/giây[^17]. Gió chín tháng chín thổi tạo ra ba thứ khiến đặc sản của Hạ Bình trở nên nổi tiếng: mì bột Hạ Bình (khu vực Bắc Tân, sau khi ngâm nước, mì được treo lên trên khay gỗ, gió bắc khô nhanh hơn so với nắng trực tiếp), bánh lụa Tân Phú (làng khô hốc 9-12 tháng, ít nhất 170 năm lịch sử, quy trình 7-9 ngày: gỡ mỏng, gột vỏ, nắng khô, gió khô, định hình)[^18]。
 
-![Bông chè ở Bắc Phố, tháng 4 năm 2023. Bông chè Khách Gia là một loại nước uống truyền thống của người Khách Gia được tán bằng cối sứ để xay nhỏ những lá chè, vừng, lạc và hơn mười loại nguyên liệu khác, trong quá trình quan du lịch hoá Bắc Phố sau chiến tranh, nó đã trở thành trải nghiệm ẩm thực Khách Gia đặc trưng nhất của tỉnh Tân Trúc.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_Bông chè Bắc Phố. Photo: Phủ Tổng Thống. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+![Trà ép Bắc Phố, tháng Tư năm 2023。Trà ép là một đồ uống truyền thống của người Hoa sử dụng hũ gốm để xay xay lá trà, hạt mè, đậu phộng và hơn chụm nguyên liệu khác。Sau khi chiến tranh, quá trình du lịch hóa của Bắc Phố đã giúp cho nó trở thành trải nghiệm ẩm thực Hoa kiều đặc trưng nhất của Hạ Bình。](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
+_Trà ép Bắc Phố。Photo: Tổng thống phủ。[CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei%20cha%20at%20Beipu%2C%20Taiwan%202023-04-09.jpg)._
 
-Tân Phủ còn có một con phố khác là phố bánh tráng. Khu Trung Chính, phố Hoà Bình, phố Thành Công tập trung hơn 200 tiệm bánh tráng, có câu nói "Bắc là Tân Phủ, Nam là Mỹ Nông"[^19]. Bánh tráng Khách Gia là một vật phẩm đặc trưng của ẩm thực Khách Gia, giống với bánh trôi bánh nước của người Hô Lạc là cùng một thứ nhưng cách viết khác.
+Tân Phú cũng có một con phố khác là phố bánh lụa. Khu vực Trường Chung, đường Hòa Bình, đường Thành Công tập trung hơn 200 cửa hàng bánh lụa, có câu danh ngôn "Bắc Tân Phú, Nam Mỹ đặm"[^19]。Bánh lụa của người Hoa là một biểu tượng nhận dạng của ẩm thực Hoa, giống như cách người Hán giáp viết "bánh lụa" là hai cách viết khác nhau của cùng một món đồ ăn。
 
-Kinh doanh trà là một dòng kinh tế khác của vùng đồi Tân Trúc. Huyện Bắc Phố gọi là "trà phồng gió", huyện Nga Nhĩ gọi là "trà Nhân Hướng Mỹ Nhân", thực tế là cùng một loại trà ở hai nơi khác nhau của hai huyện có cách gọi khác nhau. Điểm mấu chốt của quá trình làm trà: những lá trà trước tiên phải bị ấu trùng côn trùng xanh nhỏ thích, hình thành "chứa ấu trùng" trà xanh, lá mới sẽ sản sinh hương thơm mật ong đặc biệt và hương quả chín; vì phải đợi ấu trùng côn trùng xanh, không được phun thuốc diệt cỏ (nếu phun thì côn trùng chạy mất rồi)[^20]. Mức độ lên men 60% là tiêu chuẩn của Trạm Cải Lương Công Nghiệp Trà Đài Loan, những nông dân Tân Trúc Diêu Lạc thực tế có thể đạt tới 75-85%. Tên trà được truyền đạt rằng những nông dân đem vào thành phố bán, bị những cửa hàng nước ngoài mua hết sạch, người trong làng cảm thấy những nông dân đang "phồng gió" (tiếng Khách Gia "nói dối"), sau đó câu chuyện "những nhà buôn Anh đã dâng trà phồng gió từ Nhà Máy Tuỳ Xương Bắc Phố cho Hoàng Hậu Tây Tòa" lưu truyền rộng rãi, tuy nhiên những tài liệu gốc về việc Hoàng Hậu Tây Tòa thưởng trà không rõ ràng[^21], là có thể để ghi như một câu chuyện văn hóa, nhưng không thể viết thành sự kiện lịch sử.
+Ngành trà là một dòng kinh tế khác ở những vùng đồng bằng của Hạ Bình。Vùng Bắc Phố gọi là "trà ép", vùng Hoa Nghiệp gọi là "trà tiên", thực ra chỉ là cùng một loại trà ở hai nơi khác nhau với cách gọi khác nhau。Quy trình sản xuất trà quan trọng: lá trà phải để côn trứng xanh ăn để tạo ra "vết côn" trên lá, mới sinh ra hương thơm ngọt và hương trái cây chín；Vì phải chờ côn trứng xanh, nên không thể phun thuốc trừ sâu（nếu phun thuốc, côn sẽ bay đi）[^20]。Mức độ lên men 60% là tiêu chuẩn của Trại Nghiên cứu Cải biên Trà của Đài Loan, nhưng phiên bản thực tế của nông dân Hạ Bình và Mông Cổ có thể lên tới 75-85%。Câu chuyện về nguồn gốc tên gọi trà được kể lại là nông dân bán hàng trong thành phố, người chủ cửa hàng đã mua hết, người dân cho rằng nông dân đang "ép gió"（trong tiếng Hoa, nghĩa là khoe khoang）, sau đó câu chuyện "vua Tư Bằng Victoria của Anh đã được dâng lên như một món quà từ nhà máy trà Bắc Phố - Thăng Long" lan truyền rộng rãi, nhưng nguồn gốc tài liệu gốc của việc Nữ hoàng Victoria uống trà không rõ ràng[^21]。Dùng như một câu chuyện văn hóa để kể, nhưng không thể viết như một sự kiện lịch sử thực tế。
 
-Gió hạ ngụa kết hợp với những làng Khách Gia trong nhịp sống sinh hoạt hàng ngày: từ cuối tháng 9 trở đi bánh diếc đang phơi nắng, sắn đang thu hoạch, bánh tráng đang treo, lá trà đang uốn. Toàn bộ mùa thu của những làng Khách Gia là một bản đồ thực phẩm bị gió thổi khô.
+Gió chín tháng chín và khu vực người Hoa tương ứng với nhau trong nhịp sống hàng ngày: vào cuối tháng Chín, bánh lụa đang được phơi khô, cây xanh đang được thu hoạch, mì bột đang được treo, lá trà đang được nhào。Toàn bộ mùa thu của khu vực người Hoa là một bản đồ thực phẩm đang được gió khô。
 
 ## Tu Mã Khố Tư, đại hội bộ lạc nói đất đai là tài sản chung
 
