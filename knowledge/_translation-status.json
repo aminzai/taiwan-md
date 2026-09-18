@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T06:13:09+08:00",
-    "zhCommitHead": "602a0040c",
+    "lastUpdated": "2026-09-19T06:38:54+08:00",
+    "zhCommitHead": "c8ee76891",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,26 +60,26 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 967,
+        "fresh": 968,
         "stale": 57,
-        "metadata_stale": 68,
+        "metadata_stale": 67,
         "missing": 29,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 861,
+        "fresh": 863,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 203,
+        "missing": 201,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 985,
+        "fresh": 987,
         "stale": 63,
         "metadata_stale": 14,
-        "missing": 59,
+        "missing": 57,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 784,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 332,
+        "missing": 330,
         "orphan": 0
       }
     },
@@ -7044,7 +7044,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-shipbuilding.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-19T01:37:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -12068,18 +12079,16 @@
         "vi": {
           "path": "vi/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "translatedAt": "2026-09-19T01:37:22+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwanese-companies-quanta-computer.md",
@@ -56171,7 +56180,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/betel-nut.md",
+          "translatedFrom": "Society/檳榔.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
+          "sourceBodyHash": "sha256:06a8ff16fd8332cb",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -119962,7 +119982,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/jiong-xingren.md",
+          "translatedFrom": "People/囧星人.md",
+          "sourceCommitSha": "c0d869b91",
+          "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
+          "sourceBodyHash": "sha256:657949e86efaa762",
+          "translatedAt": "2026-09-19T01:37:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jiong-xingren.md",
@@ -149432,7 +149463,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -156779,7 +156821,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-19T01:37:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -181224,7 +181277,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-historic-streets-and-commercial-districts.md",
+          "translatedFrom": "Culture/台灣老街文化與商業街區.md",
+          "sourceCommitSha": "fa2ca2e8e",
+          "sourceContentHash": "sha256:fa410e59dc40cf80",
+          "sourceBodyHash": "sha256:4c28ceadc8ee9c09",
+          "translatedAt": "2026-09-19T01:37:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-historic-streets-and-commercial-districts.md",
