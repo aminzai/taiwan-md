@@ -1,0 +1,30 @@
+{
+  "revision": 20,
+  "submissionId": "2abc563a-2018-4621-8c3f-0f54bb2c7fb0",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "前輪五處必改全部對回正文落地：(1) s3「前一天（9 月 15 日）布蘭特原油現貨每桶 130.54 美元」與 s8「跟前一天布蘭特的 130.54 美元」，與腳註 [^14] 逐字「本年9月15日」一致，正文剩下兩處「同一天」（s5 中油 4/8 聲明、s6 經濟部 9/3）都對；(2) s1「每個入口都排了至少十輛車」對工商時報「每一個入口至少排隊10輛」、「免得車龍回堵到大馬路上」整句刪、「記者周麗蘭那晚在現場，看見」改「周麗蘭那晚的報導記下」，其餘現場細節逐字仍對得上；(3) s4「二十年來⋯一次正式糾正」整句刪，並把「從來就包括立法院自己」改「也包括」；(4) s5 改「2025 年 1 月，董事長方振仁再報」，只寫受訪時點與職稱；(5) description 去空格實測 160 字，改動（試辦→起、每一公升→每公升、中東開戰→開戰）不動事實原子。不擋 ship 建議採納三條（s5 末段 7,000 億收掉、s8「留在損益表上」改「那筆年息不會出現在任何一張牌價上」、s8 末句改「加油站前大概還是會擺一排三角錐」不指名阿嬤）、刻意不採兩條（賴建信引號：自由時報原文可 Ctrl-F；s6 第 3 段與 tw-bars 並存：兩筆錢分野是本節論點）理由成立，editorialChoices「三節點」也已改為四節點。逐句看 diff 新增文字，沒有新腳註、新數字、新人名或新場景。article-health rewrite-stage-4 hard=0 warn=0，prose-health score 1。一處行政提醒：交件檔 revision 欄寫 19，派工訊息說 20，本 JSON 依派工訊息填 20。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「凍漲二十週、調降三週：中油帳上那條吸收線」首段「前一天（9 月 15 日）布蘭特」；H2「那 36 元，會分三種方式寄回來」倒數第二段「跟前一天布蘭特的 130.54 美元」與末段「加油站前大概還是會擺一排三角錐」"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「週日晚上八點半，雲林的加油站多了一排三角錐」第一段「每個入口都排了至少十輛車」「工商時報周麗蘭那晚的報導記下」；H2「2008 年一次漲足之後」第二段「要求中油少漲的，也包括立法院自己」；H2「先墊的人」首段「2025 年 1 月，董事長方振仁再報」與末段「那一年逾百億的利息」；frontmatter description（去空格 160 字）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v2.json",
+      "location": "data.editorialChoices 末尾 v2 段落（五點修正、三條採納、兩條刻意不採與理由、四節點）；頂層 revision 欄（19 vs 派工 20）"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§6.1 #8（9/15 布蘭特 130.54）；§8.C 2-5 工商時報逐字「每一個入口至少排隊10輛」；§8.A §3 賴建信「Ctrl-F 可驗部分」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v2.md",
+      "location": "全文"
+    }
+  ]
+}
