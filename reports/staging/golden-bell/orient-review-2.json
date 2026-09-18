@@ -1,0 +1,21 @@
+{
+  "revision": 5,
+  "submissionId": "97cb00c0-e107-4c6d-b8e8-30cf23d831eb",
+  "actor": "orient-reviewer-golden-bell-20260918 (Sonnet, Agent a6beee5812e9c59a9; contextDisclosure: fresh-context-brief-and-viewpoint-only)；另一位複讀者 Agent ac6a5ea87576fc8b1（draft-only-reread）給 accept，主編採較嚴者裁決",
+  "verdict": "revise",
+  "rationale": "readerQuestion 是真讀者會問的；subjectExplanation 交代清楚誰辦、幾類、幾場、誰能報，且沒有承接 brief「舒淇李心潔爭視后」的誤植。三個 candidateAngles 各有可推翻條件，spine 立體群像／P7 未把爭議拉成主軸。唯一問題在 uncertainties：「2017／2021 OTT 納入待一手」與報告不符——106 年度（2017，第 52 屆）OTT 報名資格已用 gba.tavis.tw/52nd 逐字對照 105 年度 GL001058 一手法規 diff 驗實，只有「2021 才納入」查無一手。把已一手驗證的事寫成「待一手」等於低估既有查證強度，需修正這條 uncertainty 再送出。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter verification.high_confidence 第 4 條：106 年度（2017，第 52 屆）OTT 平臺報名資格→採；「2021 才納入 OTT」查無一手→不寫"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§8.A 執行摘要「最重要的查證更正」第 (1) 點"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§3 §G 與 §5 護欄第 3 條：舒淇、李心潔為迷你劇集女主角入圍"
+    }
+  ]
+}

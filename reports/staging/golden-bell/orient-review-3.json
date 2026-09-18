@@ -1,0 +1,21 @@
+{
+  "revision": 7,
+  "submissionId": "0b60a600-fa61-4a02-bd72-d7e510227d6e",
+  "actor": "orient reviewer (fresh-context, Sonnet, Agent ad9550e266c421137; contextDisclosure: fresh-context-submission-and-verification-only)",
+  "verdict": "accept",
+  "rationale": "uncertainties 第 1 條已正確吸收 revise：改寫為 OTT 2017（106 年度／52 屆）已由要點原文對 105 年度一手 diff 驗實，與 frontmatter verification.high_confidence 第 4 條逐字對應；「2021 才納入」明確標「查無一手，不寫」。同條追加的四條款精確新增年仍卡在 2-4 年區間，與 unverified 段落吻合，未把已驗證與未驗證混寫，也未把「查無」寫成「不存在」。其餘 6 條 uncertainties 與 frontmatter single_source／unverified 段落一致，欄位判斷維持前次評閱。",
+  "evidence": [
+    {
+      "path": "reports/staging/golden-bell/orient-submission.json",
+      "location": "data.uncertainties[0]"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter verification.high_confidence 第 4 條（106 年度 OTT diff）"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter verification.unverified ＋ §2 negative findings「四條款精確新增年度」"
+    }
+  ]
+}
