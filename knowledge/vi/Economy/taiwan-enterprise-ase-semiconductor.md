@@ -17,12 +17,12 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
-sourceCommitSha: 'ef5765ab'
-sourceContentHash: 'sha256:1ae67a3e5fd7cb81e304c2bfde957acc56bc9d50525062985b6cb1562fdfeb7c'
-sourceBodyHash: 'sha256:e6e840a12587da83827a6df4a52ecd6951069913d2eb03997309b6a79336dfb9'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Nhà máy đóng gói và kiểm tra của ASE Holdings tại Cao Hùng, Đài Loan'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:275d7b3ee56db82a'
+sourceBodyHash: 'sha256:58739438cbba3247'
+translatedAt: '2026-09-18T22:54:52.189913+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 1984, Trương Yêu Hoàng Ảnh và hai con trai Trương Kiên Sinh, Trương Hồng Bản bỏ ngành xây dựng để khởi nghiệp trong lĩnh vực đóng gói bán dẫn, thành lập ASE Holdings (日月光). 40 năm sau, công ty trở thành nhà máy đóng gói bán dẫn lớn nhất thế giới với doanh thu 10,1 tỷ đô la Mỹ năm 2024, chiếm 45% thị phần toàn cầu. Mỗi chiếc iPhone, mỗi máy tính xách tay đều có thể dùng công nghệ của ASE — nó là nhà vô địch ẩn số giúp chip "mặc áo" và "khám phá bệnh".

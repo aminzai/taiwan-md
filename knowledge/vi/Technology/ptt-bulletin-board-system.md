@@ -14,15 +14,16 @@ tags:
   ]
 subcategory: 'Cộng đồng và văn hoá kỹ thuật số'
 author: 'p3nchan'
-featured: true
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:94e8eed3f44521db57b12c3c7097a7e7f9b63f4568dcfbcd22df0f99fa19b680'
-sourceBodyHash: 'sha256:a7c111bebb5249436b8376c125860e66c6156be64aae81b59a4618dd2e4a2f77'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:f28d98485199bc24'
+sourceBodyHash: 'sha256:110038d2fb23bc2a'
+translatedAt: '2026-09-18T23:11:21.565597+00:00'
 ---
 
 # PTT (Phê Thất Thất)：Quảng trường công cộng bất khuất của Đài Loan

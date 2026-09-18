@@ -1,14 +1,14 @@
 ---
-title: 'Bóng điệt khúc: Từ câu lạc bộ quân đội Mỹ đến sáu vàng tại Hội vận động châu Á Manh Tu, phật bát Đài Loan và di sản của nó'
-description: 'Thập niên 1990 là thời kỳ hào hùng nhất của bóng điệt khúc ở Đài Loan. Nhờ công nghệ tự chế "bóng điệt khúc" (UFO Ball), Đài Loan đã xuất sắc ở Hội vận động châu Á Manh Tu 1998 với sáu huy chương vàng, khiến toàn bảo đảo có hơn 600 quán bóng, với doanh thu trung bình mỗi ngày đạt tới 300.000 đồng.'
+title: 'Bảng bài: Từ câu lạc bộ quân đội Mỹ đến sáu huy chương vàng tại Asiad Bắc Bang: Sự lên và xuống cũng như di sản của bóng bảy trượt trên Đài Loan'
+description: 'Vào những năm 1990, bóng bảy trượt là môn thể thao nghiện ngút nhất trên Đài Loan. Nhờ phát minh riêng "kỹ thuật bóng trượt phi thuyền" (UFO Ball), Đài Loan đạt được sáu huy chương vàng tại Asiad Bắng 1998, với hơn 600 cửa hàng bóng trượt trên toàn đảo, và doanh thu hàng ngày lên tới 300.000 đồng.'
 date: 2026-06-27
 category: 'Lifestyle'
 tags:
   [
-    'Bóng điệt khúc',
-    'UFO Ball',
-    'Hội vận động châu Á Manh Tu',
-    'Trầm Tử Phân',
+    'Bóng bảy trượt',
+    'Bóng trượt phi thuyền',
+    'Asiad Bắng 1998',
+    'Từng Tốt Nhiên',
     'Lịch sử thể thao Đài Loan',
   ]
 subcategory: '休閒與娛樂'
@@ -17,84 +17,85 @@ featured: false
 lastVerified: 2026-06-27
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
 translatedFrom: 'Lifestyle/保齡球.md'
-sourceCommitSha: 'c212e14db'
-sourceContentHash: 'sha256:867b46c37c755d29'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:f310a917a5ec92ad'
 sourceBodyHash: 'sha256:9b87440ff4268438'
-translatedAt: '2026-07-28T08:51:46+08:00'
+translatedAt: '2026-09-19T01:37:22+08:00'
 ---
 
-> **Tổng quan trong 30 giây:**
-> Thập niên 1990 là thời kỳ vàng của bóng điệt khúc ở Đài Loan. Khi đó, người Đài Loan dùng kỹ thuật tự chế, vi phạm nguyên tắc vật lý của con người, "bóng điệt khúc" (UFO Ball), trên sân chơi quốc tế như không ai có, và tại Hội vận động châu Á Manh Tu 1998, họ ghi lại kỷ lục sáu vàng trong một lần. Tại đỉnh cao, toàn bảo đảo có hơn 600 quán bóng điệt khúc, là trung tâm xã hội và thể thao quan trọng nhất thời đó. Tuy nhiên, khi sự nghiệp giải trí mạng xã hội nở rộ và công nghệ bị thế giới phá bỏ, môn thể thao đã làm sôi lên trên bờ biển đảo này đã dần chuyển thành một ký ức hồi hộp chung.
+> **30 giây tóm tắt:**
+> Những năm 1990 là thời kỳ hoàng kim của bóng bảy trượt trên Đài Loan. Với kỹ thuật "bóng trượt phi thuyền" (UFO Ball) độc đáo và vi phạm địa lực học, người Đài Loan đã thống trị trên sân khấu quốc tế. Tại Asiad Bắng 1998, họ lập kỷ lục sáu huy chương vàng. Trong thời kỳ thịnh hành, toàn đảo có hơn 600 cửa hàng bóng trượt, trở thành trung tâm xã hội và thi đấu quan trọng nhất. Tuy nhiên, với sự bùng nổ của giải trí mạng và kỹ thuật bị các bên quốc tế phá vỡ, môn thể thao từng khiến đảo lớn sôi động này dần trở thành ký ức cũ.
 
 ---
 
-## Từ hoạt động quý tộc đến dân sản: Thời kỳ đổi một trận đấu lấy sáu bát thịt bò mì
+## Sự phổ hóa của môn thể thao quý tộc: Một trận bóng thay đổi sáu bát mì bò
 
-1946 năm, sau khi chiến tranh thế giới kết thúc, quân đội Mỹ đang hành trang tại Đài Loan đã mang bóng điệt khúc vào khu vực quân đội Nam và xã hội "Bạn bè Trung Quốc" ở Hà Nội.[^13] Thời đó đây là một hoạt động chỉ dành cho quý tộc và những người có địa vị cao. Vào năm 1963, quán bóng điệt khúc tư nhân đầu tiên ở Đài Loan "Quốc sao Bóng điệt khúc" đã khai trương tại phố Tây Đông, Hà Nội (hiện tại là cửa hàng Sinh Hoạt của Cherpri), đánh dấu sự bước vào của bóng điệt khúc vào dân sản.[^13]
+Năm 1946, sau khi chiến tranh thế giới thứ hai kết thúc, quân đội Mỹ đóng ở Đài Loan đã mang bóng bảy trượt đến khu vực quân sự Bắc Tp. và câu lạc bộ "Bạn bè Trung Hoa" ở Đài Bắc. [^13] Lúc đó, đây là môn thể thao chỉ dành cho các quan lãnh đạo và nhân vật nổi tiếng. Năm 1963, cửa hàng bóng bảy trượt đầu tiên tư nhân ở Đài Bắng — "Cửa hàng Bóng bảy trượt Vinh Dự" — khai mạc trên phố Tây Đông, Đài Bắc (hiện nay là cửa hàng Đời sống Đức Tâm ở phía nam), đánh dấu sự bước vào không gian công cộng của bóng bảy trượt. [^13]
 
-Trong thời đó, sự "quý tộc" của bóng điệt khúc là cụ thể: chơi một trận phải trả 20 đồng, trong khi một bát thịt bò mì chỉ tốn 3 đồng, thu nhập tháng của người văn phòng mới vào là khoảng 1200 đồng.[^13] Nói cách khác, chơi hai trận sẽ tốn hết một ngày lương. Đến năm 1966, khi quán bóng điệt khúc Round Mountain khai trương với vốn đầu tư 70 triệu đồng, có 36 con đường tự động hoàn toàn, mới thực sự khai phá bước lớn của bóng điệt khúc ở Đài Loan.[^12][^13]
+Trong thời đó, sự "quý" của bóng bảy trượt là rất cụ thể: một trận bóng tốn 20 đồng, trong khi một bát mì bò chỉ cần 3 đồng, và lương tháng của những người mới ra trường chỉ khoảng 1.200 đồng. [^13] Nói cách khác, chơi hai trận bóng đã tốn hết một ngày lương. Đến năm 1966, khi cửa hàng bóng bảy trượt Trường Thượng khai mạc với 70 triệu đồng, sở hữu 36 đường trượt tự động, thì thực sự mở ra một chương lịch sử lớn lao cho bóng bảy trượt trên Đài Loan. [^12][^13]
 
-## Sự xuất hiện của bóng điệt khúc: Con đường sống sót được tinh luyện trên "con đường xấu"
+## Sự xuất hiện của bóng trượt phi thuyền: Cách sống trên "con đường hỏng hóc"
 
-"Bóng điệt khúc chính là chơi một cách chân thành, nhưng khi còn trẻ thì quá muốn thắng, việc giữ vững tâm lý thường ngày lại là điều khó khăn nhất."[^1] Người chơi chuyên nghiệp Jì Trường Hành như vậy cảm nhận. Nhưng trong thập niên 1980, bảo trì sân bóng ở Đài Loan thường kém, đường dầu không đồng đều, nên cách chơi tròn trịnh truyền thống khó có thể triển khai.[^13] Để sống sót trong môi trường tệ nhất, các vận động viên Đài Loan đã tìm ra cách thủ công giống như ném xì xào (tiếng Đài Loan: sip-pat-á).[^2][^13]
+"Bóng bảy trượt là về việc chơi thẳng thắn và chăm chỉ, nhưng khi còn trẻ, tôi quá ham muốn thắng lợi, và việc giữ cho bình tĩnh lại là điều khó nhất." [^1] Cầu thủ chuyên nghiệp Quan Châu Hành chia sẻ như vậ. Nhưng vào những năm 1980, tình trạng bảo dưỡng các con đường bóng trượt trên Đài Loan rất kém, và dầu mỏi phân bố không đồng đều, khiến các cú ném cong truyền thống khó thực hiện. [^13] Để sống sót trong môi trường khắc nặng, các cầu thủ Đài Loan đã sáng tạo ra một kỹ thuật giống như tung xúc xắc (tiếng Quảng Đông: sip-pat-á). [^2][^13]
 
-Bóng điệt khúc (UFO Ball) yêu cầu người chơi khi bắn phải tay mở khỏu xuống, sử dụng vận tay và ngón tay xoắn nhanh chóng, để quả bóng quay nghiêng như quay vận động.[^3] Cách chơi này có thể tạo ra lực phá hủy ngang vượt trội hơn so với bóng nặng, va vào thì sẽ gây ra phản ứng chuỗi sụp đổ toàn bộ.[^4] Vào năm 1983, Chu Hữu Nhiên thắng Cúp thế giới AMF ở Mexico, trở thành huy chương vàng đầu tiên của Đài Loan trong một kỳ thi thế giới theo kỷ lục chính thức.[^14] Thời điểm đó, sự trở lại của ông tại quê hương đã biểu trưng cho sự lên ngôi chính thức của "vương quốc bóng điệt khúc".
+Bóng trượt phi thuyền (UFO Ball) yêu cầu cầu thủ hướng bàn tay xuống khi ném, sử dụng tốc độ quay nhanh của cánh tay và ngón tay để làm cho quả bóng quay ngang như một cái xoay. [^3] Cách chơi này có thể tạo ra lực phá hủy ngang vượt quá trọng lượng, khiến quả bóng va chạm vào chân bóng sẽ gây ra hiệu ứng domino toàn bộ. [^4] Năm 1983, Quan Hữu Định đạt giải nhất AMF World Cup ở Mexico, trở thành huy chương vàng đầu tiên của Đài Loan trong các trận đấu thể thao quốc tế. [^14] Khi ấy, sự trở lại của ông đã đánh dấu sự lên khởi chính thức của "Vương quốc bóng trượt phi thuyền".
 
-📝 Ghi chú của người dẫn xuất: Bóng điệt khúc là con đường sống sót được khám phá bởi sự sáng tạo và kiên trì của người Đài Loan trong hoàn cảnh thiếu thốn tài nguyên.
+📝 Ghi chú của người biên tập: Bóng trượt phi thuyền là con đường sống do người Đài Loan tự tay tạo ra trong hoàn cảnh thiếu hụt nguồn lực, bằng sự sáng tạo và kiên cường.
 
-## Hội vận động châu Á Manh Tu: Thời kỳ vàng với doanh thu 300.000 đồng mỗi ngày
+## Asiad Bắng 1998: Thời kỳ hoàng kim với doanh thu 300.000 đồng/ngày
 
-1998 năm, Hội vận động châu Á Manh Tu là khoảnh khắc sáng rực nhất trong lịch sử bóng điệt khúc của Đài Loan. Đội đại diện Trung Hoa Dân Quốc đã giành được 19 huy chương vàng, trong đó bóng điệt khúc góp phần 6 huy chương, chiếm hết các môn đơn nam, đôi nữ, ba người và năm người.[^5] Vào thời điểm đó, người thắng huy chương vàng đơn nam là Ngư Phú Lông, thậm chí đã nhận được lá chào từ Phó Tổng Thống.[^6]
+Năm 1998, Asiad Bắng trở thành khoảnh khắc rực rỡ nhất trong lịch sử bóng bảy trượt Đài Loan. Đoàn Đài Bắng đoạt được 19 huy chương vàng, trong đó bóng bảy trượt đóng góp 6 huy chương, bao gồm cả các trận đấu đơn nam, đôi, ba người và năm người. [^5] Giải nhất môn bóng bảy trượt đơn nam tại lúc ấy, Ngô Phú Long, còn nhận được thư chúc mừng từ Phó Tổng thống. [^6]
 
-Mức độ hoành tráng này phản ánh trong số liệu kinh tế: đầu tư một quán có 30 con đường cần khoảng 300 triệu đồng, nhưng trong giai đoạn cao điểm thập niên 1990, doanh thu mỗi ngày có thể đạt tới 200.000 đến 300.000 đồng, vòng hoạt động chỉ cần một năm.[^13] Quán bóng thường xuyên có trò chơi "Lọ đỏ" — nếu lọ đỏ xuất hiện ở vị trí số 1 và chơi thành công toàn bộ, trận đấu này miễn phí hoặc được tặng thưởng.[^13] Ban thời đó, quán bóng không chỉ là sân chơi mà còn là trung tâm xã hội 24 giờ không ngừng đóng cửa.[^8]
+Mức độ sôi động này được phản ánh rõ rệt trong số liệu kinh tế: Đầu tư vào một cửa hàng với 30 đường trượt tốn khoảng 30 triệu đồng, nhưng trong những năm 1990, doanh thu hàng ngày có thể lên tới 200.000–300.000 đồng, và thời gian hoàn vốn chỉ mất một năm. [^13] Trong cửa hàng, thường thấy trò chơi "bình đỏ" — nếu bình đỏ xuất hiện ở vị trí số 1 và đạt được tất cả, trận đấu sẽ miễn phí hoặc tặng quà. [^13] Những cửa hàng bóng bảy trượt không chỉ là nơi thi đấu, mà còn là trung tâm xã hội hoạt động 24 giờ không ngừng. [^8]
 
-## Công chúa bóng điệt khúc: Trầm Tử Phân và kết thúc của thời kỳ
+## Công chúa bóng trượt phi thuyền: Từng Tốt Nhiên và sự kết thúc của thời đại
 
-Trong số nhiều anh hùng, người được nhớ lại nhất là "Công chúa bóng điệt khúc" Trầm Tử Phân. Cô giành chứt vô địch nữ trong Cúp thế giới AMF tại Cairo năm 1997, trở thành cô gái nữ duy nhất của Đài Loan được chọn vào Hàm kỷ vang bóng điệt khúc thế giới.[^9] Tuy nhiên, truyền kứ này đã dừng lại vào năm 2002. Với chiều 28 tuổi, Trầm Tử Phân vì vấn đề tình cảm đã thiệt mạng, làm cho toàn bảo đảo phát cuốn.[^10]
+Trong số hàng triệu anh hùng, người ta nhớ nhất chính là "Công chúa bóng trượt phi thuyền" — Từng Tốt Nhiên. Cô giành giải nhất AMF World Cup ở Alexandria năm 1997, trở thành cầu thủ nữ duy nhất của Đài Loan được bầu vào Hồ sơ danh vọng danh giá thế giới về bóng bảy trượt. [^9] Tuy nhiên, câu chuyện này kết thúc vào năm 2002. Vào lúc 28 tuổi, Từng Tốt Nhiên tự sự tử vì vấn đề tình cảm, khiến cả đảo lớn bàng hoàng. [^10]
 
-Sự rời đi của cô như đang chỉ dẫn cho sự kết thúc của thời kỳ vàng. Vào lúc sáng sớm ngày 11 tháng 5 năm 1992, quán bóng điệt khúc Zeng-Ming đã bùng cháy, khiến 20 người thiệt mạng, làm hỏng hình ảnh an toàn công cộng của quán.[^15][^16] Khi sân chơi quốc tế điều chỉnh đường dầu để phá bỏ bóng điệt khúc, và sự nghiệp giải trí mạng xã hội nở rộ, các quán bóng bắt đầu từng ngày một tắt đèn.[^11][^13] Vào tháng 6 năm 2026, quán bóng điệt khúc Round Mountain, đã vận hành gần một thế kỷ, đột ngột đóng cửa không có cảnh báo, biểu trưng cho sự kết thúc của một thời kỳ.[^12][^13]
+Sự ra đi của cô như dự báo sự kết thúc của thời kỳ hoàng kim. Vào lúc 3 giờ sáng ngày 11 tháng 5 năm 1992, cửa hàng bóng bảy trượt Tự Vững ở Trung Hòa bốc cháy, khiến 20 người thiệt mạng, gây thiệt hại nghiêm trọng đến hình ảnh an toàn công cộng của các cửa hàng bóng bảy trượt. [^15][^16] Khi các sân thi đấu quốc tế điều chỉnh đường trượt để phá vỡ kỹ thuật bóng trượt phi thuyền, cùng với sự bùng nổ của giải trí mạng, các cửa hàng bóng bảy trượt bắt đầu đóng cửa một bởi một. [^11][^13] Vào tháng 6 năm 2026, cửa hàng bóng bảy trượt Trường Thượng, hoạt động gần một thế hệ, đóng cửa bất ngờ, đánh dấu sự kết thúc của một thời đại. [^12][^13]
 
-📝 Ghi chú của người dẫn xuất: Chúng ta nhớ không phải là quả bóng 15 pound, mà là thời kỳ các bạn bè đông đầm tụng họp bên bờ sân, cùng nhau hò reo vì thắng lợi suốt cả đêm.
+📝 Ghi chú của người biên tập: Những gì chúng ta nhớ nhớ không phải là quả bóng nặng 15 pound, mà là những ngày chúng ta cùng bạn bè quây quần bên đường trượt, vang lên tiếng hò reo cả đêm vì đạt được tất cả.
 
-## Thách thức và hồi sinh: Từ sân chơi đến không gian toàn tâm
+## Thách thức và tái sinh: Từ sân thi đấu đến không gian đa dạng
 
-Hiện nay, bóng điệt khúc đang phải đối mặt với hai thách thức. Năm 2023, Hội vận động châu Á Hangzhou không đưa môn này vào mục tiêu chính thức, khiến nó dần lụt bờ biên mặt cạn của sân chơi quốc tế.[^13] Jì Trường Hành quan sát, hiện các quán bóng đang chuyển từ chế độ chơi đơn thuần sang không gian toàn tâm kết hợp nhiều môn giải trí, như E7Play (trước đây là quán bóng飛龍) áp dụng chế độ "một vé chơi hết".[^1][^7][^13]
+Ngày nay, môn thể thao bóng bảy trượt phải đối mặt với hai thách thức lớn. Vào Asiad Hành Chính 2023, môn này không được đưa vào danh sách thi đấu chính thức, dần biến mất khỏi sân khấu thi đấu quốc tế. [^13] Quan Châu Hành cho rằng, mô hình kinh doanh của các cửa hàng ngày nay đang chuyển đổi từ việc tập trung vào thi đấu sang việc kết hợp nhiều hoạt động giải trí khác nhau, tạo thành không gian đa dạng cho mọi lứa tuổi, như mô hình "một vé chơi hết" của E7Play (trước đây là cửa hàng bóng bảy trượt Phong Long). [^1][^7][^13]
 
-Mặc dù bóng điệt khúc không còn là đều tài thể thao nữa, nhưng nó vẫn yên lặng quay trong một góc đó. Đối với những người Đài Loan đã trải qua thập niên 1990, tiếng vang sắc bén của quả bóng va vào lọ thì vẫn là tiếng Strike sáng nhất trong ký ức tuổi trẻ.
+Dù bóng bảy trượt không còn là tiêu đề hàng đầu trong tin tức thể thao, nó vẫn đang quay trở lại một cách êm dịu ở một số góc khuất. Đối với những người Đài Loan trải qua những năm 1990, tiếng va chạm của quả bóng và chân bóng vẫn là âm thanh rực rỡ nhất trong ký ức tuổi trẻ.
 
 ---
 
 ## Nguồn tham khảo
 
-[^1]: [Thập niên vàng của bóng điệt khúc ở Đài Loan trở thành ký ức xưa của thời đại, Jì Trường Hành dùng mạng xã hội để quảng bá khiến người dân có thể vào sân chơi](https://joumedia.pccu.edu.tw/article.php?id=2183) — Nhà báo Hoa Nhất 2025 phỏng vấn Jì Trường Hành Lê Tín Học
+[^1]: [Thời kỳ hoàng kim của bóng bảy trượt Đài Loan trở thành nỗi nhớ của thời đại: Quan Châu Hành thúc đẩy qua mạng internet để thu hút người dân đến cửa hàng](https://joumedia.pccu.edu.tw/article.php?id=2183) — Truyền thông Đại học Bắc Kinh 2025, phỏng vấn chuyên sâu với Quan Châu Hành
 
-[^2]: [Bóng điệt khúc… từ phát minh riêng bị phá bễ đến sự hồi sinh](https://sports.ltn.com.tw/news/paper/29826) — Báo Tự Do 2005 chuyên mục thể thao độc lập
+[^2]: [Bóng trượt phi thuyền… Từ sáng tạo độc lập bị phá vỡ đến sự tái sinh](https://sports.ltn.com.tw/news/paper/29826) — Tạp chí Thể thao Tự Do 2005, báo cáo chuyên đề
 
-[^3]: [Đài Loan phát minh ra bóng điệt khúc, nổi tiếng trên thế giới](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — Tình nguyện viên Tình yêu 2009 bài viết của Lê Ngọc Tính
+[^3]: [Đài Loan phát minh bóng trượt phi thuyền và được biết đến thế giới](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — Nhân dân 2009, cột của Nhân Dân
 
-[^4]: [Tính năng và vẻ đẹp đặc biệt của bóng điệt khúc từ Đài Loan thống trị toàn cầu là gì?](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Video giải thích trên Facebook Rô Rô Quốc Tế 2024
+[^4]: [Đặc điểm và sức hút độc đáo của bóng trượt phi thuyền từng được săn đón toàn cầu tại Đài Loan?](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Facebook Cộng đồng Quay Trở Lại 2024, video giải thích
 
-[^5]: [Hội vận động châu Á Hangzhou / Phản hồi 1998 năm Manh Tu 19 vàng lịch sử, bóng điệt khúc bị loại bỏ](https://www.nownews.com/news/6257390) — Báo NOWnews 2023 bài viết chuyên đề của Lốc Hoa Văn
+[^5]: [Asiad Hành Chính/ Nhìn lại: Lịch sử 1998 tại Bắng 19 huy chương vàng, bóng bảy trượt sáu huy chương bị loại bỏ](https://www.nownews.com/news/6257390) — Tin tức Hôm nay NOWnews 2023, bài viết của Lộ Hảo Vĩ
 
-[^6]: [Phó Tổng Thống gửi lời chúc mừng Ngư Phú Lông giành được huy chương vàng đơn nam tại Hội vận động châu Á Manh Tu 1998](https://www.president.gov.tw/NEWS/5152) — Nhà truyền thống Trung Hoa Dân Quốc 1998 bản tin
+[^6]: [Phó Tổng thống gửi thư chúc mừng Ngô Phú Long đoạt huy chương vàng bóng bảy trượt đơn nam tại Asiad Bắng 1998](https://www.president.gov.tw/NEWS/5152) — Văn phòng Tổng thống Cộng hòa Trung Hoa 1998, bản tin
 
-[^7]: [Thập niên vàng của bóng điệt khúc ở Đài Loan](https://www.peopo.org/news/802246) — Báo Thông tin Dân sản PeoPo 2025 bài viết của Jì Trường Hành
+[^7]: [Thời kỳ hoàng kim của bóng bảy trượt Đài Loan](https://www.peopo.org/news/802246) — Tin tức công dân PeoPo 2025, bài đăng của chính Quan Châu Hành
 
-[^8]: [Tại sao bóng điệt khúc không còn nổi tiếng? Các quán bóng điệt khúc từng ngày một tắt đèn, trở thành ký ức xưa của thời đại](https://www.gvm.com.tw/article/130878) — Tạp chí Quan sát 2026 chuyên đề phản hồi ngành nghề
+[^8]: [Tại sao bóng bảy trượt không còn phổ biến? Các cửa hàng bóng bảy trượt đóng cửa một bởi một, trở thành nỗi nhớ của thời đại](https://www.gvm.com.tw/article/130878) — Tạp chí Quan sát 2026, chuyên đề về sự lên và xuống của ngành
 
-[^9]: [Cô gái vô địch thế giới bóng điệt khúc của Đài Loan Trầm Tử Phân tự sát hôm qua](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Bóng điệt khúc Tinh Vọng 2002 báo tin ngay lập tức
+[^9]: [Cú độc tự tử của cú độc bóng bảy trượt vô địch thế giới của Bắc Trung Hoa — Từng Tốt Nhiên đã tự sát vào tối qua](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Tìm kiếm Thể thao 2002, tin tức thời sự
 
-[^10]: [Bị gọi là "Công chúa bóng điệt khúc"! Nhưng cô đã tự sát vào năm 2002](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Báo Truyền Thông Lưu Niên 2026 bài viết phản hồi trên Facebook
+[^10]: [Được ví như "Công chúa bóng trượt phi thuyền"! Nhưng cô lại tự sát vào năm 2002](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Facebook Thời gian Báo Cộng hòa 2026, bài viết hồi sinh
 
-[^11]: [Bóng điệt khúc và sự hồi hộp của ký ức tuổi trẻ](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — Nhà báo sinh viên Trường Đại học Trung Hoa Dân Quốc Báo E 2024
+[^11]: [Sự lên và xuống của bóng bảy trượt bảo vệ ký ức tuổi trẻ](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — Báo Đại học Trung Chính 2024, tin học sinh
 
-[^12]: [Quán bóng điệt khúc Round Mountain bất ngờ đóng cửa! Thập niên vàng của bóng điệt khúc trở thành ký ức xưa](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Threads 2026 bài viết chứng kiến trực tiếp bởi người dân địa phương
+[^12]: [Cửa hàng bóng bảy trượt Trường Thượng đóng cửa bất ngờ! Thời kỳ hoàng kim của bóng trượt phi thuyền trở thành ký ức](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Threads 2026, bài đăng của người dân địa phương chứng kiến hiện trường
 
-[^13]: [60 năm lịch sử bóng điệt khúc ở Đài Loan: Từ hoạt động quý tộc đến ký ức xưa của thời đại](https://m.youtube.com/watch?v=i7WGrfWthns) — YouTube Đi sâu vào lịch sử 2024 bộ phim tài liệu
+[^13]: [Lịch sử 60 năm của bóng bảy trượt Đài Loan: Từ môn thể thao quý tộc đến nỗi nhớ của thời đại](https://m.youtube.com/watch?v=i7WGrfWthns) — YouTube Đi vào Lịch sử 2024, phim tài liệu
 
-[^14]: [Chu Hữu Nhiên thắng Cúp thế giới bóng điệt khúc nam tại Mexico năm 1983](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Bài viết phản hồi lịch sử trên Facebook Người du lịch cô đơn 2024
+[^14]: [Quan Hữu Định giành giải nhất AMF World Cup bóng bảy trượt nam tại Mexico năm 1983](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Facebook Những người du lịch cô đơn 2024, bài viết hồi sinh lịch sử
 
-[^15]: [Vụ cháy quán bóng điệt khúc Zeng-Ming](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Bài viết Wikipedia tiếng Trung về thảm họa sân chơi bóng điệt khúc Zeng-Ming 1992
+[^15]: [Hỏa hoạn tại cửa hàng bóng bảy trượt Tự Vững](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Bài viết Wikipedia tiếng Trung 1992, sự cố bỏng ở Trung Hòa
 
-[^16]: [Sau vụ cháy 20 người chết tại quán bóng điệt khúc, xuất hiện các sự kiện siêu nhiên | Sự kiện Zeng-Ming 1992](https://time.udn.com/udntime/story/122833/6903311) — Báo Thông tin Tương Lai 2023 bài viết phản hồi lịch sử
+[^16]: [Cửa hàng bóng bảy trượt gây ra 20 vụ tử vong, sau đó còn có tin về hiện tượng siêu nhiên | Sự cố cửa hàng Tự Vững năm 1992](https://time.udn.com/udntime/story/122833/6903311) — Báo Cộng hòa 2023, bài xem lại thảm họa

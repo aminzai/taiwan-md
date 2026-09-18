@@ -1,14 +1,14 @@
 ---
-title: 'Xuân Bắc Bán Hàng: Hành Trình Từ Kệ Nước Ngọc Đến "Ngôi Sao Cứu Nguy Của Các Bậc Phụ Huynh" Của Đài Loan'
-description: 'Năm 1994, khi khởi nghiệp tại chợ đêm Xuân Bắc ở Tây Nguyên, Xuân Bắc Bán Hàng đã biến đổi từ một cửa hàng hải sản gần như phá sản thành chuỗi cửa hàng bán lẻ với hơn 190 địa điểm trên toàn quốc nhờ chiến lược "kinh doanh 24 giờ" và "bán những thứ mà người khác không bán". Đây là "ngôi sao cứu nguy" của các bậc phụ huynh, trạm bổ sung niềm vọng của công nhân lao động nước ngoài, và cả một cuộc cuộc sống khắc khổ nhất trong ngành bán lẻ Đài Loan.'
+title: 'Siêu thị Tiểu Bắc: Vua tạp hóa trong ánh đèn đêm, hành trình 30 năm từ quầy hải sản đến "vị cứu tinh của các bậc cha mẹ"'
+description: 'Ra mắt tại chợ đêm Tiểu Bắc Đài Nam năm 1994, Siêu thị Tiểu Bắc đã chuyển đổi từ một cửa hàng hải sản gần phá sản thành chuỗi cửa hàng vật tư lớn nhất toàn quốc với chiến lược "mở cửa 24 giờ" và "bán những thứ người khác không bán". Đây là vị cứu tinh đêm khuya của các bậc cha mẹ, trạm cung cấp nỗi nhớ quê hương cho công nhân di cư, và là một kỳ tích sinh tồn kiên cường nhất của ngành bán lẻ Đài Loan.'
 date: 2026-07-25
 category: 'Lifestyle'
 tags:
   [
     'Ngành bán lẻ',
-    'Tây Nguyên',
+    'Đài Nam',
     'Câu chuyện khởi nghiệp',
-    'Bán lẻ nội thất',
+    'Cửa hàng vật tư',
     'Chuyển đổi số',
   ]
 subcategory: '城市生活'
@@ -17,75 +17,67 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Lifestyle/小北百貨.md'
-sourceCommitSha: '08a8c5ec8'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:93955fe44e7691af'
 sourceBodyHash: 'sha256:08eacf8247ffcb10'
-translatedAt: '2026-07-27T22:12:14+08:00'
+translatedAt: '2026-09-19T01:37:22+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Vào năm 1994, một cửa hàng hải sản tại chợ đêm Xuân Bắc ở Tây Nguyên gần như phá sản do vấn đề kinh doanh. Người khởi nghiệp Hoàng Bốc Văn (Tsai Ing-wen, 黃卜文) quyết định đầu tư 100 ngàn USD còn lại để chuyển đổi thành cửa hàng bán lẻ nội thất giá rẻ. Nhờ một lần khách hàng trong đêm đập cửa kịp thời, Xuân Bắc đã khai sinh mô hình bán lẻ nội thất 24 giờ đầu tiên của Đài Loan. Không theo xu hướng "chất lượng diện tích" của thương mại hiện đại, Xuân Bắc giữ lại hàng tồn kho lạc quan, từ phụ kiện điện nước cho đến đĩa cắt âm thanh. Ngày nay, dưới sự dẫn dắt của thế hệ hai, Xuân Bắc đang trải qua giai đoạn chuyển đổi số khó khăn và tái sinh, cố gắng giữ lại giá trị "tiện lợi có tình cảm" trong kỷ nguyên thương mại điện tử.
+> **Tổng quan trong ba mươi giây:** Năm 1994, một cửa hàng hải sản tại chợ đêm Tiểu Bắc Đài Nam vì kinh doanh không tốt đã được người sáng lập Hoàng Bốc Văn quyết định cải tạo thành cửa hàng tạp hóa vật tư với số vốn còn lại là 1 triệu Đài tệ. Nhờ một sự cố khách hàng gõ cửa cầu cứu vào ban đêm, Tiểu Bắc đã khởi xướng mô hình bán lẻ vật tư 24 giờ đầu tiên tại Đài Loan. Cửa hàng này không theo đuổi "hiệu suất trên mét vuông" của bán lẻ hiện đại, mà kiên trì giữ lại những mặt hàng ít luân chuyển, từ phụ tùng điện nước chuyên nghiệp đến băng cassette. Ngày nay, dưới sự kế thừa của thế hệ thứ hai, Tiểu Bắc đang trải qua cơn đau và sự tái sinh trong quá trình chuyển đổi số, cố gắng gìn giữ sự "tiện lợi có tình người" trong kỷ nguyên thương mại điện tử.
 
-### Từ Nước Ngọc Đến Bán Lẻ Nội Thất: Hành Trình Chuyển Đổi
+### Sự chuyển mình ngoạn mục từ món chiên hải sản sang cửa hàng vật tư
 
-Năm 1990, chợ đêm Xuân Bắc ở Tây Nguyên là điểm tụ họp của ẩm thực và nhân đông. Khi người bệnh bé nhỏ Hoàng Bốc Văn và anh em trong gia đình kinh doanh hải sản nướng, dù một thời kinh doanh thành công, nhưng do cạnh tranh ngày càng khắc nghiệt trong ngành ẩm thực, lợi nhuận dần giảm sút[1](#user-content-fn-1). Vào năm 1994, Hoàng Bốc Văn gặp nguy cơ khủng hoảng lớn nhất trong suốt thời gian khởi nghiệp. Anh quyết định bán bỏ cửa hàng hải sản, bỏ vốn chỉ còn 100 ngàn USD, dựng lại kệ bán hàng bằng vật liệu đơn sơ, chuyển sang bán nội thất và giá rẻ, giữ tên gọi "Xuân Bắc Bán Hàng"[2](#user-content-fn-2).
+Chợ đêm Tiểu Bắc Đài Nam những năm 1990 là nơi tập trung của ẩm thực và dòng người qua lại. Lúc bấy giờ, Hoàng Bốc Văn cùng anh em trong gia đình kinh doanh quán chiên hải sản tại đây. Dù công việc từng thịnh vượng, nhưng khi sự cạnh tranh trên thị trường ăn uống ngày càng gay gắt, lợi nhuận dần suy giảm [1](#user-content-fn-1). Năm 1994, Hoàng Bốc Văn đối mặt với cuộc khủng hoảng lớn nhất kể từ khi khởi nghiệp; ông quyết định đóng cửa tiệm hải sản, dùng số vốn còn lại là 1 triệu Đài tệ để dựng một giàn đơn giản tại chỗ và chuyển sang bán đồ vật tư giá cả phải chăng, đồng thời giữ tên chợ đêm, đặt tên là "Siêu thị Tiểu Bắc" [2](#user-content-fn-2).
 
-Thời gian đầu chuyển đổi không dễ dàng. Hoàng Bốc Văn từng bị thướt chơi, mất đi 50 ngàn USD hàng tồn kho. Để bảo vệ tài sản, anh quyết định ngủ trong cửa hàng. Một đêm nọ, tiếng đập cửa khây phế đã làm giận dộc giấc mơ của anh. Thật vậy là có khách hàng cần mua ngay các vật dụng sinh hoạt. Trải nghiệm "mở cửa trong đêm" này khiến Hoàng Bốc Văn có một ý tưởng sáng tạo: nếu các cửa hàng tiện lợi có thể hoạt động 24 giờ, thì tại sao các cửa hàng bán lẻ nội thất không thể? Anh trai của anh, Hoàng Nghĩa Hùng, sau này kể lại chiến lược thành công với giọng điệu nhẹ nhàng nhưng thuyết phục:
+Những ngày đầu chuyển đổi không hề dễ dàng. Hoàng Bốc Văn từng bị trộm đột nhập, thiệt hại hàng hóa lên tới 500.000 Đài tệ. Để bảo vệ thành quả tâm huyết, ông quyết định ngủ ngay trong cửa hàng. Một đêm nọ, tiếng gõ cửa dồn dập đánh thức ông đang ngủ say; hóa ra là có khách cần mua đồ dùng sinh hoạt khẩn cấp. Trải nghiệm "mở cửa ban đêm" này đã khiến Hoàng Bốc Văn lóe lên một ý tưởng: Nếu cửa hàng tiện lợi có thể hoạt động 24 giờ, tại sao cửa hàng vật tư lại không được? [3](#user-content-fn-3) Em trai ông là Hoàng Nghĩa Hoành sau này hồi tưởng về bí quyết thành công này với giọng điệu thản nhiên nhưng ẩn chứa sự sắc bén:
 
-> "Vì chúng tôi luôn làm những việc mà người khác không muốn làm, bán những thứ mà người khác không muốn bán, và giữ lại những người mà người khác không giữ được!"[4](#user-content-fn-6)
+> "Bởi vì chúng tôi luôn làm những việc người khác không muốn làm, bán những thứ người khác không muốn bán, và giữ lại những thứ người khác không thể giữ!" [4](#user-content-fn-6)
 
-📝 Ghi chú của người hội họa: Thành công của Xuân Bắc không phải từ việc dự đoán chính xác bằng dữ liệu lớn, mà là phản ứng ngay từ trái tim của một nhà khởi nghiệp với nhu cầu của con người trong hoàn cảnh khó khăn.
+📝 Ghi chú của biên tập viên: Thành công của Siêu thị Tiểu Bắc không đến từ dự đoán dữ liệu lớn một cách tinh vi, mà bắt nguồn từ phản ứng trực giác nhất của một doanh nhân đối với nhu cầu "con người" trong nghịch cảnh.
 
-### "Ngôi Sao Cứu Nguy" Của Các Bậc Phụ Huynh Với Nền Mặt 24 Giờ
+### "Vị cứu tinh của các bậc cha mẹ" hoạt động 24 giờ
 
-Trên nền tảng xã hội của Đài Loan, tên gọi "ngôi sao cứu nguy của các bậc phụ huynh" là cách gọi phổ biến nhất để chỉ đến Xuân Bắc. Nhiều bậc phụ huynh đã từng trải qua trải nghiệm tương tự: vào giờ đêm, trẻ em đột nhiên nhớ đến vật dụng cần thiết cho bài tập hôm sau như giấy màu, tiêu âm thanh hoặc sợi dây nhảy, trong khi hầu hết các cửa hàng đã đóng cửa. Đó là lúc đèn sáng rực rỡ của Xuân Bắc trở thành hy vọng duy nhất[5](#user-content-fn-9). Chức năng "cứu nguy" này đã giúp Xuân Bắc xây dựng được mối liên kết cảm xúc cực kỳ cao với thị trường bán lẻ của Đài Loan[6](#user-content-fn-4).
+Trên các nền tảng cộng đồng tại Đài Loan, biệt danh được nhắc đến nhiều nhất về Siêu thị Tiểu Bắc là "vị cứu tinh của các bậc cha mẹ". Nhiều phụ huynh đã có trải nghiệm tương tự: vào đêm khuya, con cái đột nhiên nhớ ra cần giấy màu, sáo hoặc dây nhảy cho tiết mỹ thuật ngày mai, trong khi hầu hết các cửa hàng đã đóng cửa, Siêu thị Tiểu Bắc với ánh đèn sáng trưng trở thành hy vọng duy nhất [5](#user-content-fn-9). Chức năng xã hội "giải cứu khẩn cấp" này đã giúp Siêu thị Tiểu Bắc xây dựng mối liên kết cảm xúc rất cao trên thị trường bán lẻ Đài Loan [6](#user-content-fn-4).
 
-Triết lý sắp xếp hàng hóa của Xuân Bắc hoàn toàn khác với mục tiêu "hiệu quả sử dụng không gian" của các cửa hàng tiện lợi hiện đại. Họ kiên quyết "bán những thứ mà người khác không bán", dù là hàng lạc quan, chỉ bán ít trong vòng một năm như đĩa cắt âm thanh, phụ kiện máy urit đặc biệt, áo ấm của ngư dân, hay thậm chí là chén lạnh cho dịp cưới hỏi, cửa hàng vẫn luôn có sẵn kho[7](#user-content-fn-5). Các nhà quản lý coi trọng những mặt hàng này như hàng gia đình, khi khách hàng hỏi về tên "mắm" (đĩa trò chơi bóng) bằng tiếng địa phương, nhân viên luôn biết ngay vị trí tầng nào, kệ nào[7](#user-content-fn-5).
+Triết lý trưng bày của Siêu thị Tiểu Bắc đi ngược lại với "hiệu suất trên mét vuông" mà các siêu thị hiện đại theo đuổi. Họ kiên trì "bán những thứ người khác không bán"; ngay cả những mặt hàng ít luân chuyển, chỉ bán được vài cái một năm như băng cassette, phụ kiện bồn cầu thông số đặc biệt, tạp dề của ngư dân, hay thậm chí là sàng gạo dùng trong lễ cưới, cửa hàng vẫn luôn có tồn kho [7](#user-content-fn-5). Các chủ tiệm thuộc lòng những mặt hàng ít người mua; khi khách hỏi về "mã đa" (gậy bóng chày) bằng tiếng Đài ngữ, nhân viên có thể lập tức báo vị trí của nó ở tầng mấy kệ nào [7](#user-content-fn-5).
 
-| Loại                            | Sản phẩm lạc quan tiêu biểu                                    | Chức năng xã hội                                          |
-| ------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------- |
-| **Văn phòng, dụng cụ làm việc** | Tiêu âm thanh, sợi dây nhảy, giấy màu, bảng lớn                | Giải quyết khủng hoảng "cần gấp ngày mai" của học sinh    |
-| **Nội thất chuyên dụng**        | Phụ kiện máy urit đặc biệt, chổi giặt uốn, túi xách bếp lò đất | Đáp ứng nhu cầu sửa chữa điện nước và nấu ăn truyền thống |
-| **Vật dụng sinh hoạt**          | Đĩa cắt âm thanh, chén lạnh, áo mưa nhựa 9 USD                 | Phục vụ người cai tuổi và giữ gìn truyền thống văn hóa    |
+| Loại hình                       | Sản phẩm đặc biệt ít phổ biến                                              | Chức năng xã hội                                          |
+| :------------------------------ | :------------------------------------------------------------------------- | :-------------------------------------------------------- |
+| **Văn phòng phẩm/Làm thủ công** | Sáo, dây nhảy, giấy màu, báo tường khổ lớn                                 | Giải quyết khủng hoảng "ngày mai phải nộp" của học sinh   |
+| **Vật tư chuyên nghiệp**        | Phụ kiện bồn cầu thông số đặc biệt, bàn chải giặt uốn cong, túi gà đất sét | Đáp ứng nhu cầu sửa chữa điện nước và nấu ăn truyền thống |
+| **Đồ dùng sinh hoạt**           | Băng cassette, sàng gạo, áo mưa nhựa 9 Đài tệ                              | Phục vụ người cao tuổi và duy trì phong tục truyền thống  |
 
-### Khi Người Nghe Thấy Pháo Binh Quyết Định
+### Người có thể nghe thấy tiếng súng mới là người ra quyết định
 
-Khác với nhiều hệ thống liên kết chuỗi cửa hàng phụ thuộc vào quản lý tập trung, Xuân Bắc giao phó quyền lực lớn cho người quản lý cửa hàng. Tỷ lệ nhân viên chính thức trên 90%, người quản lý cửa hàng đa phần là nhân viên kinh nghiệm, thậm chí còn sở hữu cổ phần cửa hàng[4](#user-content-fn-6). Trước khi qua đời, Hoàng Bốc Văn có một bộ tiêu chuẩn tuyển chọn riêng: anh thường cho thêm 1.000 USD vào túi lương để kiểm tra xem nhân viên có chủ độo trả lại hay không, dùng cách này để tìm kiếm những người trung thực và tin cậy[3](#user-content-fn-3).
+Không giống như nhiều hệ thống chuỗi cửa hàng phụ thuộc vào quản lý tập trung hóa cao độ, Siêu thị Tiểu Bắc trao cho các chủ tiệm rất nhiều quyền hạn. Tại Tiểu Bắc, tỷ lệ nhân viên chính thức hơn chín mươi phần trăm, và đa số chủ tiệm là những nhân viên kỳ cựu, thậm chí còn sở hữu cổ phần của cửa hàng [4](#user-content-fn-6). Khi còn sống, Hoàng Bốc Văn có một tiêu chuẩn tuyển dụng độc đáo: ông sẽ bỏ thêm 1.000 Đài tệ vào phong bì lương để kiểm tra xem nhân viên có tự nguyện trả lại hay không, từ đó chọn ra những cán bộ trung thực và đáng tin cậy [3](#user-content-fn-3).
 
-Cách quản lý "lấy con người làm trung tâm" của họ phản ánh trong việc đi kèm theo sự khác biệt hoá kinh doanh tại từng cửa hàng. Ví dụ, các cửa hàng gần khu công nghiệp sẽ đặc biệt bổ sung kho dầu gió, shampoo phù hợp với nhu cầu của công nhân lao động nước ngoài; còn các cửa hàng gần khu dân cư, sẽ xếp văn phòng và dụng cụ làm việc ở vị trí nổi bật nhất. Thậm chí, dịch vụ "vận chuyển nước" (giúp khách hàng mang bình nước ngập tràn lên xe) dù tốn công sức nhưng lại được coi là tinh thần doanh nghiệp không thể thay đổi[8](#user-content-fn-15).
+Cách quản lý "lấy con người làm gốc" này được thể hiện qua sự khác biệt trong hoạt động của từng cửa hàng. Ví dụ, các chi nhánh gần khu công nghiệp sẽ đặc biệt tăng cường tồn kho dầu gội thơm mà lao động nước ngoài ưa chuộng; trong khi đó, các chi nhánh gần khu học tập lại trưng bày văn phòng phẩm và dụng cụ làm thủ công ở vị trí dễ thấy nhất. Ngay cả dịch vụ "mang nước" (giúp khách hàng mang một thùng nước lên xe) vốn là gánh nặng đối với nhân viên, cũng được coi là tinh thần doanh nghiệp không thể lay chuyển [8](#user-content-fn-15).
 
-### Nỗi Đau Và TầmNhìn Của "Chúa Tướng" Trẚn
+### Cơn đau số hóa và tầm nhìn của các chàng trai trẻ
 
-Vào năm 2017, người khởi nghiệp Hoàng Bốc Văn qua đời vì đình tim gè ép, chỉ 54 tuổi[9](#user-content-fn-7). Năm sau đó, thế hệ hai Hoàng Kiến Thịch (28 tuổi) lên ngôi giám đốc tổng, khởi động hành trình chuyển đổi số cho một ngành bán lẻ nội thất truyền thống. Đây là một thách thức "đấu trường với quái vật" đối với họ: Xuân Bắc bỏ qua thẻ thành viên thực tế, triển khai hệ thống thành viên qua ứng dụng di động, hiện đang có hơn 1,5 triệu thành viên[6](#user-content-fn-4)[10](#user-content-fn-16).
+Năm 2017, người sáng lập Hoàng Bốc Văn đột ngột qua đời vì nhồi máu cơ tim ở tuổi 54 [9](#user-content-fn-7). Năm sau, thế hệ thứ hai Hoàng Kiện Đường (Huang Jian Tang) tiếp quản vị trí tổng giám đốc ở tuổi 28, mở ra con đường số hóa cho cửa hàng vật tư truyền thống này. Đây là một thử thách "vượt cấp đánh quái": Tiểu Bắc đã bỏ qua thẻ thành viên vật lý và trực tiếp thúc đẩy hệ thống thành viên ứng dụng kỹ thuật số; hiện tại, số lượng thành viên đã vượt quá 1,5 triệu người [6](#user-content-fn-4)[10](#user-content-fn-16).
 
-Tuy nhiên, thách thức lớn nhất khi kế thừa không phải là hệ thống phần mềm, mà là giao tiếp với thế hệ cha. Hoàng Kiến Thịch từng nói thẳng:
+Tuy nhiên, thách thức lớn nhất của việc kế thừa không nằm ở hệ thống, mà là trong giao tiếp với thế hệ cha mình. Hoàng Kiện Đường từng thẳng thắn nói:
 
-> "Chúng tôi có 90% quyết định từ ông bà, nhưng thời đại hiện nay đã khác rồi."[8](#user-content-fn-15)
+> "Chú ơi, 90% phán đoán của chú đều đúng nên mới có ngày hôm nay, nhưng thời đại đã khác rồi." [8](#user-content-fn-15)
 
-Đối mặt với việc Poya (Poya) thành lập "hội gia đình" (宝家), Hoàng Kiến Thịch đồng thời đầu tư 1 tỷ USD xây dựng trung tâm logistics thông minh tại Hồ Gươm, Hải Phòng, đồng thời kiên quyết giữ lại các mặt hàng "không kiếm lời nhưng có thể phục vụ con người". Anh từ chối sao chép cách các đối thủ hủy bỏ dịch vụ đóng gói, cho rằng khi mọi người đều theo đuổi tốc độ và hy sinh dịch vụ, thì sự "chăm chú cẩn" của Xuân Bắc lại trở thành lợi thế cạnh tranh không thể thay thế[8](#user-content-fn-15).
+Đối mặt với sự thách thức từ Poya (寶雅), Hoàng Kiện Đường vừa đầu tư 1 tỷ Đài tệ để xây dựng trung tâm logistics thông minh tại Hồ Khẩu Tân Trúc, vừa kiên trì giữ lại những mặt hàng "không sinh lời nhưng có thể phục vụ người khác". Anh từ chối bắt chước đối thủ cạnh tranh hủy bỏ dịch vụ đóng gói, cho rằng khi người khác theo đuổi hiệu quả mà hy sinh dịch vụ, thì sự "làm nhiều hơn" của Tiểu Bắc lại trở thành lợi thế cạnh tranh mạnh mẽ nhất [8](#user-content-fn-15).
 
-📝 Ghi chú của người hội họa: Khi ngành bán lẻ đang hội tập về AI và tự động hóa, Xuân Bắc lại bằng chính cách "giản dị nhất" chứng minh: nếu bạn có thể giải quyết nỗi khó khăn của người khác, bạn sẽ là người không thể thay thế.
+📝 Ghi chú của biên tập viên: Ngành bán lẻ đương đại đều nói về AI và tự động hóa, nhưng Siêu thị Tiểu Bắc lại chứng minh bằng cách "thô sơ nhất": miễn là bạn có thể giải quyết khó khăn khẩn cấp của người khác, bạn chính là sự tồn tại không thể thay thế.
 
-### Tài liệu Tham Khảo
+### Tài liệu tham khảo
 
-## Footnotes
+## Chú thích cuối trang
 
-1. [Xuân Bắc Bán Hàng - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) [↩](#user-content-fnref-1)
-
-1. [Giới thiệu về Quỹ Từ thiện Xuân Bắc](https://www.showba.com.tw/foundation_page) [↩](#user-content-fnref-2)
-
-1. [Vì sao người bán nhỏ lớn lớn? - Truyền thông Tài chính](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2)
-
-1. ["Chỉ làm việc mà người khác không muốn làm" - Tài liệu tin tức về sự khuất phục của người khởi nghiệp Hoàng Bốc Văn - The News Lens](https://www.thenewslens.com/article/81726) [↩](#user-content-fnref-6) [↩2](#user-content-fnref-6-2)
-
-1. [Danh sách 10 sản phẩm bán chạy nhất của Xuân Bắc Bán Hàng! Khách hàng Nhật Bản cực động 2 mặt hàng - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) [↩](#user-content-fnref-9)
-
-1. [Tại sao chuỗi Xuân Bắc trở thành "phiên bản Đài Loan của Bát Câu Đế](https://www.managertoday.com.tw/articles/view/70262) [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
-
-1. [Biểu tượng của người bán lẻ Đài Loan - Tạp chí Kinh doanh](https://www.businessweekly.com.tw/business/indep/38576) [↩](#user-content-fnref-5) [↩2](#user-content-fnref-5-2)
-
-1. [Cuộc chiến tranh của "chúa tướng" trẚn Hoàng Kiến Thịch - Báo Kinh tế Hà Nội](https://money.udn.com/money/story/123622/9074721) [↩](#user-content-fnref-15) [↩2](#user-content-fnref-15-2) [↩3](#user-content-fnref-15-3)
-
-1. [Tin tức đột ngột về sự khuất phục của người khởi nghiệp Hoàng Bốc Văn, 54 tuổi - Yahoo! Tin tức](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B7%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) [↩](#user-content-fnref-7)
-
-1. [Xuân Bắc tăng trưởng mạnh mẽ dưới áp lực dịch bệnh, mở rộng đường bán hàng số hóa - Báo Hồng Hà](https://sunrisemedium.com/p/53/showba-digital-transformation) [↩](#user-content-fnref-16)
+1. [Siêu thị Tiểu Bắc - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8) [↩](#user-content-fnref-1)
+2. [Về việc thành lập Quỹ Từ thiện Tiểu Bắc](https://www.showba.com.tw/foundation_page) [↩](#user-content-fnref-2)
+3. [Truyền thuyết về sự nổi lên của Siêu thị Tiểu Bắc - Tạp chí Tài vụ Song Tuần](https://www.wealth.com.tw/articles/9d879a6c-6ea8-40fd-b4ec-93a2e95675e2) [↩](#user-content-fnref-3) [↩2](#user-content-fnref-3-2)
+4. [“Chỉ nhận những việc người khác không muốn làm” – Người sáng lập Siêu thị Tiểu Bắc Hoàng Bốc Văn qua đời - The News Lens Bình luận then chốt](https://www.thenewslens.com/article/81726) [↩](#user-content-fnref-6) [↩2](#user-content-fnref-6-2)
+5. [“TOP 10 sản phẩm bán chạy của Siêu thị Tiểu Bắc” được công bố! Khách Nhật quét sạch 2 món - LINE TODAY](https://today.line.me/tw/v3/article/JPqO0Ox) [↩](#user-content-fnref-9)
+6. [Siêu thị Tiểu Bắc từ cửa hàng vật tư thành "Takashimaya Đài Loan", có gì tự tin? - Kinh lý nhân](https://www.managertoday.com.tw/articles/view/70262) [↩](#user-content-fnref-4) [↩2](#user-content-fnref-4-2)
+7. [Truyền thuyết Vua tạp hóa Đài Loan - Tạp chí Thương mại Tuần](https://www.businessweekly.com.tw/business/indep/38576) [↩](#user-content-fnref-5) [↩2](#user-content-fnref-5-2)
+8. [Các chàng trai trẻ của Siêu thị Tiểu Bắc Hoàng Kiện Đường phát huy tinh thần "bán mọi thứ" - Báo Kinh tế Nhật báo](https://money.udn.com/money/story/123622/9074721) [↩](#user-content-fnref-15) [↩2](#user-content-fnref-15-2) [↩3](#user-content-fnref-15-3)
+9. [Người sáng lập Siêu thị Tiểu Bắc được cho là đột ngột qua đời ở tuổi 54 - Yahoo Kỳ Mã Tân Văn](https://tw.news.yahoo.com/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%B9%B454%E6%AD%B2-070814253.html) [↩](#user-content-fnref-7)
+10. [Siêu thị Tiểu Bắc tăng trưởng ngược trong đại dịch, mở rộng chiến tuyến bán lẻ vật lý bằng số hóa - Tạp chí Húc Thời](https://sunrisemedium.com/p/53/showba-digital-transformation) [↩](#user-content-fnref-16)

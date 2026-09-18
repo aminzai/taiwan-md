@@ -10,11 +10,12 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
 translatedFrom: 'Art/台灣現代詩.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e8df08af9340e575de3f9a3929f358786bdccf270010483be1144c967ccae165'
-sourceBodyHash: 'sha256:8d9c5a6744c7b9365354462bede8d5a53e81cc8420aff7466c8de5728f03c8ca'
-translatedAt: '2026-07-31T12:00:00Z'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:76772688d61c205f'
+sourceBodyHash: 'sha256:444e69e75502ca5e'
+translatedAt: '2026-09-18T23:44:08.723499+00:00'
 ---
 
 # Thơ hiện đại Đài Loan: Một lời tiên tri tình cờ
