@@ -311,8 +311,21 @@ function matchLocations(title, content) {
   return matches.slice(0, 3);
 }
 
+// 確定性偽隨機（FNV-1a → [0, 1)）：同一個 key 每次 build 都得到同一個偏移。
+// 2026-09-18 以前用 Math.random()，每次 prebuild 都把 ~1,600 顆 marker 重新亂撒，
+// 每一個資料刷新 commit 帶著 6,000+ 行純座標噪音進 git log。
+function hashUnit(key, salt) {
+  let h = 0x811c9dc5;
+  const str = `${salt}|${key}`;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return h / 0x100000000;
+}
+
 // 加入jitter避免重疊
-function addJitter(lat, lng, existingMarkers, city) {
+function addJitter(lat, lng, existingMarkers, city, key) {
   const sameLocationMarkers = existingMarkers.filter(
     (m) =>
       m.city === city &&
@@ -324,10 +337,10 @@ function addJitter(lat, lng, existingMarkers, city) {
     return { lat, lng };
   }
 
-  // ±0.008 度隨機偏移 (約800公尺)
+  // ±0.008 度偏移 (約800公尺)，方向由 key 決定，不隨 build 變
   const jitterRange = 0.008;
-  const jitterLat = lat + (Math.random() - 0.5) * jitterRange * 2;
-  const jitterLng = lng + (Math.random() - 0.5) * jitterRange * 2;
+  const jitterLat = lat + (hashUnit(key, 'lat') - 0.5) * jitterRange * 2;
+  const jitterLng = lng + (hashUnit(key, 'lng') - 0.5) * jitterRange * 2;
 
   return { lat: jitterLat, lng: jitterLng };
 }
@@ -436,6 +449,7 @@ function generateMarkers() {
           location.lng,
           markers,
           location.city,
+          `${filePath}|${location.city}`,
         );
 
         // 確保region有值，如果沒有從cities查找
