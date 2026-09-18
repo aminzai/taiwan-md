@@ -44,7 +44,7 @@ Sinh năm 1931 ở Chiết Giang Ninh Bộ, thành lập TSMC tại Đài Loan v
 ### Quá trình lớn lên trong thời kỳ động hỏa
 
 **Sinh ra và nền tảng gia đình:**
-Vào ngày 10 tháng 7 năm 1931, Morris Chang sinh ra tại thành phố Ninh Bộ, tỉnh Chiết Giang, Trung Quốc. Cha ông, Trương Vệ Quan, là một nhà ngân hàng, mẹ ông, Từ Vận Chính, xuất thân từ một gia đình văn nhân có giáo dục. Trong thời kỳ động hỏa đó, ông luôn giữ được một tầm nhìn nhân văn trên con đường kỹ thuật nhờ cha ông là người thông thạo lịch sử và văn hóa, với một thư viện gia đình phong phú.
+Vào ngày 10 tháng 7 năm 1931, Morris Chang sinh ra tại thành phố Ninh Bộ, tỉnh Chiết Giang, Trung Quốc. Cha ông, Trương Vệ Quan, là một nhà ngân hàng, mẹ ông, Từ Quân Vĩ, xuất thân từ một gia đình văn nhân có giáo dục. Trong thời kỳ động hỏa đó, ông luôn giữ được một tầm nhìn nhân văn trên con đường kỹ thuật nhờ cha ông là người thông thạo lịch sử và văn hóa, với một thư viện gia đình phong phú.
 
 **Kinh nghiệm di cư thời thơ ấu:**
 Do chiến tranh, thời thơ ấu của Morris Chang đầy những lần di cư. Từ Ninh Bộ đến Thượng Hải, Nam Kinh, Trùng Khánh, Thượng Hải lần nữa, rồi Quảng Châu, Hồng Kông, cuối cùng là Mỹ—những năm tháng lang thang du dương này đã tạo ra khả năng thích ứng và tầm nhìn quốc tế của ông.

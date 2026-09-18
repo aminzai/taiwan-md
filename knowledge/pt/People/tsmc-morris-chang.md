@@ -44,7 +44,7 @@ Nascido em 1931 em Ningbo, Zhejiang; fundou a TSMC em Taiwan em 1987: a vida de 
 ### Crescimento em tempos turbulentos
 
 **Nascimento e contexto familiar:**
-A 10 de julho de 1931, Morris Chang nasceu em Ningbo, província de Zhejiang, China. O seu pai, Chang Wei-kuan, era banqueiro; a sua mãe, Hsu Yun-cheng, provinha de uma família de estudiosos. Naqueles tempos conturbados, o pai, versado em literatura e história, mantinha uma vasta biblioteca doméstica — ambiente que lhe permitiu conservar uma perspectiva humanista ao longo de toda a carreira de engenharia.
+A 10 de julho de 1931, Morris Chang nasceu em Ningbo, província de Zhejiang, China. O seu pai, Chang Wei-kuan, era banqueiro; a sua mãe, Hsu Chun-wei, provinha de uma família de estudiosos. Naqueles tempos conturbados, o pai, versado em literatura e história, mantinha uma vasta biblioteca doméstica — ambiente que lhe permitiu conservar uma perspectiva humanista ao longo de toda a carreira de engenharia.
 
 **Experiência de deslocamentos na infância:**
 Devido à guerra, a infância de Morris Chang foi marcada por constantes mudanças. De Ningbo a Xangai, Nanjing, Chongqing, novamente Xangai, depois Cantão, Hong Kong e, por fim, Estados Unidos — essa experiência errante forjou a sua capacidade de adaptação e a sua visão internacional.

@@ -44,7 +44,7 @@ Lahir 1931 di Ningbo, Zhejiang; mendirikan TSMC 1987 di Taiwan: kehidupan Morris
 ### Perjalanan Dewasa di Era Kegemparan
 
 **Kelahiran dan Latar Belakang Keluarga:**
-10 Juli 1931, Morris Chang lahir di Kota Ningbo, Provinsi Zhejiang, Tiongkok. Ayahnya, Chang Wei-kuan (張蔚觀), adalah bankir; ibunya, Hsu Yun-cheng (徐韻徵), berasal dari keluarga sarjana. Di era kegemparan itu, ayahnya yang menguasai sastra dan sejarah, memiliki perpustakaan pribadi yang kaya — lingkungan ini membuatnya mempertahankan perspektif humanistik sepanjang karir tekniknya.
+10 Juli 1931, Morris Chang lahir di Kota Ningbo, Provinsi Zhejiang, Tiongkok. Ayahnya, Chang Wei-kuan (張蔚觀), adalah bankir; ibunya, Hsu Chun-wei (徐君偉), berasal dari keluarga sarjana. Di era kegemparan itu, ayahnya yang menguasai sastra dan sejarah, memiliki perpustakaan pribadi yang kaya — lingkungan ini membuatnya mempertahankan perspektif humanistik sepanjang karir tekniknya.
 
 **Pengalaman Pindah Tempat di Masa Kanak-kanak:**
 Karena perang, masa kanak-kanak Morris Chang penuh perpindahan. Dari Ningbo ke Shanghai, Nanjing, Chongqing, kembali ke Shanghai, lalu ke Guangzhou, Hong Kong, dan akhirnya ke Amerika Serikat — pengalaman mengembara ini melatih kemampuan adaptasi dan wawasan internasionalnya.
