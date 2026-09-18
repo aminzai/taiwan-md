@@ -1,5 +1,5 @@
 {
-  "revision": 24,
+  "revision": 27,
   "stage": "investigate",
   "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5) as orchestrator; research lanes A/B/C = Sonnet general-purpose sub-agents a15e552332d53bdab / ac6123cb63d8527a6 / a4a796068d7a9b10d; persona gap-audit = Sonnet a5579a74d6cc857e4 / a660e890a3d4b1586",
   "artifacts": ["reports/research/2026-09/台灣油價機制與中油.md"],
