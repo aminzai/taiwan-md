@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T06:46:09+08:00",
-    "zhCommitHead": "eb686ab4a",
+    "lastUpdated": "2026-09-19T06:53:29+08:00",
+    "zhCommitHead": "cb7b5244f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1041,
-        "stale": 46,
+        "fresh": 1040,
+        "stale": 47,
         "metadata_stale": 8,
         "missing": 26,
         "orphan": 0
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 835,
+        "fresh": 836,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 329,
+        "missing": 328,
         "orphan": 0
       }
     },
@@ -33743,8 +33743,8 @@
           "sourceContentHash": "sha256:ec862a3b3d59ce03",
           "sourceBodyHash": "sha256:9c9e15016b2f347e",
           "translatedAt": "2026-09-19T01:37:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb7b5244",
+          "translationLastModified": "2026-09-19T06:46:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -49951,7 +49951,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/volunteering-and-civic-charity-in-taiwan.md",
+          "translatedFrom": "Society/台灣志工文化與公益參與.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:83e68a6262dbf058",
+          "sourceBodyHash": "sha256:7149df720d9ca880",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74257,7 +74268,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/taiwan-absentee-voting.md",
+          "translatedFrom": "Politics/台灣不在籍投票.md",
+          "sourceCommitSha": "359df1839",
+          "sourceContentHash": "sha256:0263a8cc3c622c00",
+          "sourceBodyHash": "sha256:c88ce81293be71aa",
+          "translatedAt": "2026-09-19T01:37:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/taiwan-absentee-voting.md",
@@ -107541,8 +107563,8 @@
           "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
           "translatedAt": "2026-09-19T01:37:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb7b5244",
+          "translationLastModified": "2026-09-19T06:46:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -129853,8 +129875,8 @@
           "sourceContentHash": "sha256:2db6d7675892d196",
           "sourceBodyHash": "sha256:e6375c12b05a0b30",
           "translatedAt": "2026-09-19T01:37:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb7b5244",
+          "translationLastModified": "2026-09-19T06:46:09+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -176320,16 +176342,18 @@
         "ko": {
           "path": "ko/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "25b97c085",
-          "sourceContentHash": "sha256:82a373ca1ee51cf4",
-          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
-          "translatedAt": "2026-09-19T01:37:18+08:00",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:9a4380e463583d63",
+          "sourceBodyHash": "sha256:ffebfda3574ab04b",
+          "translatedAt": "2026-05-17T05:34:52+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -2"
         },
         "es": {
           "path": "es/Culture/taiwan-baseball-culture.md",
@@ -185506,8 +185530,8 @@
           "sourceContentHash": "sha256:4aad559049b3c7a7",
           "sourceBodyHash": "sha256:293b5ab02d696e13",
           "translatedAt": "2026-09-19T01:37:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb7b5244",
+          "translationLastModified": "2026-09-19T06:46:09+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
