@@ -859,3 +859,20 @@
 {"ts": "2026-09-18T06:43:08Z", "slug": "科技園區發展", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-09-18T06:43:08Z", "slug": "Threads在台灣", "stage": "inbox", "status": "pending", "source": "observed"}
 {"ts": "2026-09-18T06:43:08Z", "slug": "台海危機與兩岸關係發展", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "room_projection", "status": "pass", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "room_prose", "status": "pass", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "verify", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "誰算低薪", "stage": "ship", "status": "done", "source": "observed", "sha": "a47b09cdf40e"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "room_chief", "status": "revise", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "room_projection", "status": "revise", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "room_prose", "status": "revise", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "verify", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "ship", "status": "done", "source": "observed", "sha": "a62544386905"}
