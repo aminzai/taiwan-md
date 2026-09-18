@@ -332,6 +332,28 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-19 twmd-babel-nightly — threadpool-swallows-worker-death：worker 在成功路徑上炸掉，執行緒池把例外收進 future，產線看起來只是慢
+
+- **pattern**: `threadpool-swallows-worker-death`
+- **原則**：`ThreadPoolExecutor` 裡的 worker 迴圈若沒自己接例外，例外會被收進 future，直到主執行緒呼叫 `result()` 才冒出來——而主執行緒是在**所有** worker 都收工後才逐一呼叫。中間這條執行緒就消失了：不印 stderr、不寫 report、不留 log，其餘 worker 照跑，`ps` 看得到主進程，log 還在動。三重巡檢的「存活」與「生產」都過不了它——生產那一問看的是 45 分鐘內有沒有 report 列，而失敗家族本來就會讓前 25 分鐘零產出，兩種零長得一樣。最尖銳的是它只在**成功**路徑上死：翻譯失敗的任務都正常記 fail 列，翻譯成功的任務才走到 prettier 那一步炸掉，所以 report 只剩失敗，讀起來像「今晚模型全部不行」。
+- **觸發**：2026-09-19 01:11／01:16 兩篇 exit=0 的譯文（en 貓眼石、ja 307 公車）落地後沒有 report 列；01:33 `pgrep -P` 看到 dispatcher 零子進程、`ps -M` 只剩 4 條執行緒（該有 6 條）；stderr 零 traceback。追到 `subprocess.run(["npx","prettier",…])` 沒 try：launchd PATH 沒 `~/.local/bin`，`FileNotFoundError` 在 worker 裡拋出。48 分鐘 13 次嘗試零通過，其中 2 篇其實翻好了。→ memory/2026-09-19-004809-twmd-babel-nightly
+- **修補（已做）**：`worker_loop` 把 `process_task` 包進 try，例外寫成 `fail_reason="dispatcher exception: …"` 的 report 列加 💥 log，執行緒續活（單元測試：第一篇炸、第二篇照跑）。prettier 先找 `node_modules/.bin`，找不到就 log 後直接驗。wrapper PATH 補 node。
+- **可能層級**：折進 [REFLEXES #52](REFLEXES.md)（immune 沒 fail loud 比沒有更糟——這裡是產線的成功路徑沒 fail loud）或 [#38 (f)](REFLEXES.md)（存活≠生產的執行緒層變體：主進程活、部分執行緒死）。也可能是通用反射「並行執行單元的例外要在單元內接住，不能靠池子事後回報」。vc=1。
+- **相關**：REFLEXES #52、#38 (f)、#60（silent default——ThreadPoolExecutor 的預設就是吞例外）、LESSONS `supervisor-respawns-the-old-config`（同一晚同一根因：launchd 的隱形環境）
+- **verification_count**: 1
+- **severity**: structural（成功越多死得越快，而死亡的樣子跟「難篇先失敗」一模一樣）
+
+### 2026-09-19 twmd-babel-nightly — evidence-fragmented-across-scheduling-labels：同一個模型被拆成三個 label，弱適配的證據跟著被切成三份，警示只在其中一格響
+
+- **pattern**: `evidence-fragmented-across-scheduling-labels`
+- **原則**：實績聚合的單位要等於決策的單位。切軌（換模型、跳語言）的決策單位是「模型×語言」，但 `babel-preflight.py` 的實績格子按 worker label 聚合，而 fleet 對同一台 ollama 核發 macm4max1/2/3 三個 label——同一個 gemma4:e4b 的通過率被切成三份各自算 n≥8 門檻。結果雙向失真：**該響的沒響**（pt 三格各 n=20 上下，合起來 10/71=14% 才過線，但單格看有的在 15% 以上）與**不該響的響了**（macm4max3 × ar 6% n=31 被印成弱格，三個 label 合計 ar 卻不在 15% 以下——那 6% 是單一 label 分到的樣本剛好偏難）。兩種錯都不會叫：preflight 印的是它算出來的，算法本身「正確」。
+- **觸發**：2026-09-19 twmd-babel-nightly Stage 0 preflight 報 10 個弱格，本班要把它們餵進新加的 `--worker-skip-langs` 時先按 backend 重算一次（`babel-weak-lanes.py`），弱格從 10 變 7、名單不同：ar 整個消失，pt 從單格變成三 label 一起跳。若照 preflight 原表切軌，會讓 gemma 在 ar 上白白讓位（它其實不差），pt 卻只有一個 label 讓位（另兩個繼續燒）。→ memory/2026-09-19-004809-twmd-babel-nightly
+- **修補（已做的部分）**：`babel-weak-lanes.py` 按 `report.jsonl` 的 `backend` 欄聚合再對回 label 出旗標。**未做**：preflight 本身仍按 label 印表——兩把尺現在對同一份 report.jsonl 給不同名單，下一個讀 preflight 的人會照它的表切軌。候選：preflight 的 track_record 改成 backend×lang 主表、label 只做附註。
+- **可能層級**：折進 [REFLEXES #38](REFLEXES.md)（混維度的鏡像：那條是一個訊號承載兩種根因，這條是一種根因被拆進多個訊號格）或 [#82](REFLEXES.md)（label 是排程層的替身，模型才是 ground truth）。vc=1，先記。
+- **相關**：REFLEXES #38、#82、#66（gate threshold 要用真實產出校準——n≥8 門檻在拆格後實質變成 n≥24）、SQUEEZE §模型×語言適配（切軌規則的出處）
+- **verification_count**: 1
+- **severity**: structural（切軌決策直接吃這張表；表錯一夜就是幾十次 GPU 時間放錯地方，且不會有任何閘門變紅）
+
 ### 2026-09-17 twmd-feedback-triage — decision-queue-forked-with-the-tree-it-lives-in：載決策去找觀察者的那個器官，自己也跟著分岔了，同一個編號在兩邊指向兩個不同的決定
 
 - **pattern**: `decision-queue-forked-with-the-tree-it-lives-in`
@@ -694,10 +716,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **同族第二個面**：contract 的清理清單本身不完整——`config/article-aliases.json` 的死別名不在 §5.4 任何一步，是 `npm run build` 的 selftest 紅燈擋下來的（「別名指向不存在的中文文章」）。**build verify 這一關救了 contract 沒寫到的東西**，這也反過來說明為什麼 §5.4.4 不能省。
 - **instances**：
   - 2026-08-18 twmd-rewrite-breakfast-merge — 5 lang 寫死 vs 實際 8 語譯文；article-aliases 清理面缺席 → 本 entry
+  - 2026-09-19 twmd-babel-nightly — launchd wrapper `--langs en,ja,ko,es,fr,vi,id,pt,hi,ar,ru,de` 寫死 12 語，而 dispatcher 的 `--langs` 預設本來就從 langs.py 取「有缺口的語言」；routine prompt 自己把「寫死語言清單會讓新語言整批漏掉」列為活體標本病，wrapper 是它第 N 個 instance。修：搬進 repo 的 wrapper 拿掉 `--langs`，語言數以 registry 為準 → memory/2026-09-19-004809-twmd-babel-nightly
 - **可能層級**：操作規則（改 contract）＋ 通用反射候選（「寫死的數字必腐」已有近親：dna-audit §S2「行號寫死必腐」、BECOME §Step 0「~N 行」footprint、REFLEXES #82 proxy signal）
 - **相關**：REFLEXES #15（反覆浮現要儀器化）；dna-audit §S2 計數寫死同型病
 - **修法候選（未實作，交 distill 判）**：(a) §5.4.1/§5.4.2 改成「查 `knowledge/_translations.json` 反查該 slug 的所有語系，有幾語寫幾條」，不列語系清單；(b) 加一支 `merge-cleanup-audit.py` 掃描全部需要清理的面（translations / translation-status / aliases / Hub / 元件 URL / viz），取代人腦記憶清單。
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-08-27 twmd-maintainer-manual — silent-abort-in-the-path-that-only-runs-when-it-matters：hook 在 sh -e 下賦值失敗會無聲收工，而失敗條件正是那條路徑的常態
 
@@ -1274,9 +1297,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：連續三晚寫「同一個 dispatcher PID 健康活著」並在 handoff 認真討論「要不要主動輪替」，卻沒有一班問「它為什麼活著」。答案是 09-14 用 `launchctl submit` 加了 keepalive。kill 之後 4 分鐘 launchd 已經用 `/tmp/babel-launch-wrapper.sh` 裡的舊指令行重生一個沒帶新旗標的 dispatcher，pre-commit 的平行 writer 警告才讓本班發現。要換設定，得改 supervisor 讀的那份 wrapper 再 `launchctl kickstart -k`，對進程本身做什麼都沒用。
 - **觸發**：2026-09-18 00:45 kill PID 12398 → 00:49 launchd 自動起 PID 17728（舊 wrapper、無 `--exclude-file`），pre-commit 平行 writer 警告揪出 → 改寫 wrapper（去重清單＋fleet 核發 worker＋`--order forward`）→ `launchctl kickstart -k` 兩次才到位（PID 31458）。wrapper 住 /tmp，重開機就會消失，keepalive 那時會變成 exit 1 的無限重試。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
 - **instances**：
+  - 2026-09-19 twmd-babel-nightly — 第二面：supervisor 的**環境**也是設定的一部分。把 wrapper 從 /tmp 搬進 repo 重新 `launchctl submit`，第一輪就 crash-loop：launchd 沒有 shell profile，`python3` 解析到 Apple 3.9，status.py 的 `str | None` 當場炸。09-14 那次能跑是因為 submit 從帶 venv PATH 的 shell 發出，環境是繼承來的，不在任何檔案裡——kill 換回舊設定是第一面，重掛換掉隱形環境是第二面。修：wrapper 明寫 `PY=~/.venvs/taiwanmd/bin/python` 並驗 ≥3.10，否則 sleep 後退出不讓 keepalive 空轉。同一晚第二層：PATH 也沒有 node，成功路徑上的 `npx prettier` 炸掉（見 `threadpool-swallows-worker-death`），wrapper 再補 `~/.local/bin` 與 `node_modules/.bin` → memory/2026-09-19-004809-twmd-babel-nightly
 - **可能層級**：操作規則（BABEL-VORTEX-LOOP §三重巡檢應加第四問：「是誰讓它活著的、設定住哪裡」）＋ 通用反射候選
 - **相關**：REFLEXES #38 (f)「存活≠生產」（那條說活著不代表在做事，本條說活著也不代表是它自己在活）。REFLEXES #60 silent default（wrapper 沒寫 `--order` 就吃到 dispatcher 的 reverse 預設，跟 pipeline 「全軍 forward」的 directive 靜默背離四天）。REFLEXES #56 canonical↔production drift
-- **verification_count**: 1
+- **verification_count**: 2
 
 ## ✅ 已消化（保留 pointer）
 
