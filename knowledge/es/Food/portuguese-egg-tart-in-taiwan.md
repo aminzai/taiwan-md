@@ -1,133 +1,133 @@
 ---
-title: 'Tarta de huevo: del monasterio de Macao a la memoria colectiva del “comportamiento de rebaño” en Taiwán'
-description: 'La “revuelta de las tartas de huevo” de 1998, con su auge y desplome vertiginosos, no solo definió el consumo “en masa” de la sociedad taiwanesa, sino que además obligó a KFC en Taiwán a transformarse en “una tienda de tartas de huevo distraída por vender pollo frito”.'
+title: 'Pastel de nata: del convento de Macau a la euforia colectiva en Taiwán'
+description: 'La “tormenta del pastel de nata” de 1998 no solo definió el comportamiento de consumo “todo en un montón” de la sociedad taiwanesa, sino que obligó a KFC a transformarse en una “tienda de pasteles de nata que vende pollo frito”.'
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
-    'tarta de huevo',
-    'efecto de la tarta de huevo',
+    'pastel de nata',
+    'efecto pastel de nata',
     'KFC',
-    'gastronomía taiwanesa',
+    'comida taiwanesa',
     'psicología del consumo',
   ]
-readingTime: 6
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 6
 image: '/article-images/food/dan-ta-hero.webp'
 imageCredit: 'ProjectManhattan / Wikimedia Commons'
 imageLicense: 'CC0 1.0 Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Egg_tart.jpg'
 translatedFrom: 'Food/蛋撻.md'
-sourceCommitSha: '8a230ddb'
-sourceContentHash: 'sha256:97dd164af6e04522'
-sourceBodyHash: 'sha256:c821b247831a9b89'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:e6a3985c0d14509b'
+sourceBodyHash: 'sha256:2199caf3c188c46a'
+translatedAt: '2026-09-18T00:53:02+08:00'
 ---
 
-> **Resumen en 30 segundos:**
-> En Taiwán, la tarta de huevo no es solo un postre: dio nombre al “efecto de la tarta de huevo” en economía. Desde la fiebre de filas provocada por la llegada de la tarta de huevo portuguesa en 1998 hasta el cierre de cientos de tiendas en cuestión de meses, este pequeño pastel redondo de hojaldre caramelizado registró la ansiedad y el entusiasmo colectivos de los consumidores de la isla. Hoy, la tarta de huevo ha pasado de ser un tótem de moda pasajera a convertirse en una competencia central de las cadenas de comida rápida y en un campo de experimentación para una nueva generación de técnicas de “mil capas”.
-
----
-
-## 1998: la ansiedad colectiva de una isla en aquel año
-
-En 1998, en la calle Dalian de Taipéi, el aire estaba impregnado de un intenso aroma a mantequilla y huevo. No era un olor común de panadería, sino el olor del “dinero”. En ese momento, todo Taiwán estaba inmerso en una fiebre que las generaciones posteriores llamarían la “revuelta de las tartas de huevo”. La gente estaba dispuesta a hacer fila durante dos horas bajo el sol abrasador solo para comprar una caja recién salida del horno de tartas de huevo portuguesas, con manchas oscuras de caramelización en la superficie.
-
-Según las crónicas de los medios de la época, las tiendas de tartas de huevo surgían por todas partes como brotes después de la lluvia; incluso locales de telefonía y farmacias cambiaron de rubro para venderlas. Sin embargo, esta fiebre se enfrió rápidamente en menos de un año: cientos de locales cerraron uno tras otro, dejando solo letreros vacíos y un término que desde entonces sería citado ampliamente: **“efecto de la tarta de huevo”** [^1].
-
-📝 Nota curatorial: la fascinación taiwanesa por la tarta de huevo no nació de una búsqueda repostera, sino de un experimento social sobre “escasez” y “ansiedad colectiva”.
-
-## De los monasterios de Lisboa a Coloane, Macao
-
-El origen de la tarta de huevo portuguesa (Pastéis de Nata) se remonta al Lisboa del siglo XIX, en Portugal. En el Monasterio de los Jerónimos (Mosteiro dos Jerónimos), en el barrio de Belém, las monjas usaban grandes cantidades de claras de huevo para almidonar hábitos religiosos, y las yemas sobrantes se convertían en postres [^2].
-
-Este dulce cruzó luego el océano hasta llegar a Macao. En 1989, el británico Andrew Stow abrió Lord Stow’s Bakery en la Rua do Tassara, en Coloane, Macao. Modificó la receta portuguesa tradicional: dejó de usar natillas en polvo, incorporó crema, huevos y leche, y redujo el azúcar. Así evolucionó hasta convertirse en la “tarta portuguesa de estilo Macao” que hoy conocen los taiwaneses [^3]. Después de que Andrew se divorciara de su esposa Margaret Wong en 1997, Margaret estableció su propio negocio en la península de Macao vendiendo el mismo tipo de tarta de huevo, y posteriormente licenció la receta a KFC, abriendo la leyenda de la tarta portuguesa dentro de los sistemas de cadenas en Asia [^4].
-
-![Un edificio de ladrillo rojo en una calle de Macao, con el letrero de Lord Stow's Bakery sobre la puerta y transeúntes pasando frente a la tienda](/article-images/food/dan-ta-02-2023.webp)
-_Fachada de Lord Stow's Bakery en la Rua do Cunha, Taipa, Macao (febrero de 2023). El británico Andrew Stow fundó esta tienda en Coloane en 1989; tras modificar la receta portuguesa, se convirtió en el origen de la fiebre taiwanesa de la tarta portuguesa de 1998. Photo: LN9267. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg)._
-
-## La tienda especializada en tartas de huevo distraída por vender pollo frito
-
-Antes de 1998, el menú de KFC Taiwán no incluía tartas de huevo [^5]. En aquel momento, para responder a la fiebre de la tarta de huevo portuguesa, KFC introdujo la receta de Margaret. Lo irónico es que, mientras las tiendas especializadas de todo Taiwán cerraban una tras otra, KFC, gracias a su producción estandarizada y su calidad estable, terminó absorbiendo de forma inesperada toda la demanda de mercado que sobrevivió.
-
-Alrededor de 2022, KFC lanzó una maniobra de marketing que insinuaba la próxima suspensión de la venta de tartas de huevo, lo que provocó lamentos entre consumidores de todo Taiwán, preocupados por la posible desaparición de este producto clásico. Al final se demostró que era solo un recurso publicitario para presentar un nuevo sabor de tarta de huevo, pero también volvió a confirmar el carácter insustituible de este producto en el imaginario taiwanés: había dejado de ser una “moda” para convertirse en “tradición” [^6].
-
-📝 Nota curatorial: cuando se bromea diciendo que una marca es una “tienda especializada distraída” de su verdadero producto, por lo general significa que su logro secundario ya se ha convertido en un símbolo cultural.
-
-## La disputa entre tipos: de la base de galleta a la evolución “floral” de mil capas
-
-El mercado taiwanés de tartas de huevo no se limita a la versión portuguesa. Antes de la llegada de la tarta portuguesa a Taiwán, era común encontrar la “tarta de huevo tradicional”, con una masa más firme, influida por la harina introducida mediante la ayuda estadounidense en la década de 1950; este postre ya existía en Taiwán desde hacía medio siglo [^7].
-
-### Tarta de huevo portuguesa: manchas caramelizadas de tigre y hojaldre laminado
-
-La característica más visible de la tarta de huevo portuguesa (Pastel de Nata) son las **manchas negras de caramelo** en su superficie. No se trata de un exceso de cocción, sino de la reacción de Maillard producida a alta temperatura entre el azúcar del relleno y la mantequilla, que otorga a la tarta sus singulares capas agridulces [^10].
-
-En términos de técnica, la tarta portuguesa utiliza un proceso de “hojaldre laminado”. Para elaborarla, la masa se envuelve con mantequilla, se pliega y se refrigera repetidas veces; luego se enrolla en forma cilíndrica, se corta en rodajas y se presiona manualmente dentro del molde. Este método hace que la base de la tarta muestre una textura en espiral, con una mordida densa y bien estratificada, y un claro sonido crujiente al morder [^11].
-
-### Tartas taiwanesas y hongkonesas: masa prensada y hojaldre chino sin ostentación
-
-Antes de la popularidad de la tarta portuguesa, las versiones dominantes en Taiwán y Hong Kong eran tartas de huevo con una corteza lisa. Este tipo se divide principalmente en dos corrientes:
-
-- **Masa prensada o de galleta**: es el método más tradicional de la “tarta de huevo” taiwanesa. La corteza se hace mezclando mantequilla, harina y huevo, sin plegados, y su textura queda entre una masa de tarta y una galleta. El relleno suele presentar una superficie perfectamente lisa y brillante, con una textura firme y un intenso aroma lácteo [^12].
-- **Hojaldre chino**: frecuente en los cha chaan teng, cafeterías tradicionales de Hong Kong. A diferencia del hojaldre occidental de la tarta portuguesa, el hojaldre chino suele usar manteca de cerdo o aceite vegetal y emplea el método tradicional de envolver una masa grasa dentro de una masa de agua y aceite para luego plegarla. Sus capas son extremadamente quebradizas y se deshacen al contacto; lo que busca es un aroma aceitoso delicado, no una sensación intensa de mantequilla [^13].
-
-![Tres postres de Tai Cheong Bakery alineados sobre una bandeja de madera: a la izquierda, pan de piña con mantequilla; al centro, pan de cola; a la derecha, la tarta de huevo emblemática](/article-images/food/dan-ta-01-2019.webp)
-_La tarta de huevo emblemática (derecha) y postres al estilo hongkonés de Tai Cheong Bakery, en Banqiao, Nuevo Taipéi, fotografiados en 2019. Tai Cheong es una casa centenaria de Hong Kong con sucursales en Taiwán, y muestra el linaje hongkonés de las tartas de huevo en las calles taiwanesas. Photo: bryan… (Flickr 91049143@N00). [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C*%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C*%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C*%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C*%E6%9D%BF%E6%A9%8B%2C*%E6%96%B0%E5%8C%97%E5%B8%82%2C*%E5%8F%B0%E7%81%A3%2C*New_Taipei_City%2C_Taiwan*%2847201805022%29.jpg).\_
-
-### Tarta de huevo de mil capas: el renacimiento técnico extremo de 2024
-
-En 2024, Taiwán volvió a vivir una ola de popularidad de la “tarta de huevo de mil capas”. Visualmente, esta tarta presenta una atractiva forma radial de “flor pequeña”, y su mayor diferencia técnica respecto de la tarta portuguesa tradicional está en el **modelado y el molde**.
-
-La tarta de mil capas suele usar mantequilla francesa de alta calidad, como la mantequilla Montaigu, y harina japonesa, en busca de una crocancia extrema. Durante la elaboración, el hojaldre ya no se enrolla para luego cortarlo en rodajas, sino que las láminas ya prensadas se colocan directamente dentro de moldes especiales con forma de flor, lo que permite que se abran como pétalos durante el horneado [^14]. El relleno, por su parte, suele usar crema fresca con mayor contenido de grasa láctea, como la crema Nakazawa, para crear una textura fluida, casi de pudín [^15].
-
-📝 Nota curatorial: desde la “base de galleta” de la tarta tradicional hasta el “hojaldre de pétalos” de la tarta de mil capas, la historia evolutiva de la tarta de huevo es una carrera armamentista taiwanesa por la “crocancia” y el “aroma lácteo”.
-
-## Las lecciones contemporáneas del efecto de la tarta de huevo
-
-El “efecto de la tarta de huevo” sigue repitiéndose en el Taiwán actual. Desde la limonada esmeralda de Qingyu y el pollo frito de Fat Daddy hasta el pescado con col encurtida de los últimos años, el mercado taiwanés mantiene una pauta constante de “auge y desplome” [^9]. Como origen de este fenómeno, la tarta de huevo hace tiempo que superó el significado de la comida en sí. Nos recuerda que, detrás de la locura colectiva, a menudo se esconde un deseo extremo de novedad y el miedo a quedarse sin boleto de entrada a la moda.
+> **30 segundos de resumen:**
+> El pastel de nata en Taiwán no es solo un postre; es el nombre que da al “efecto pastel de nata” en economía. Desde la ola de puestos en 1998 hasta la quiebra de cientos de locales en cuestión de meses, este pequeño pastel redondo de masa caramelizada registró la ansiedad y el entusiasmo colectivos de la isla. Hoy, el pastel de nata ha evolucionado de un simple símbolo efímero de moda a una herramienta clave de diferenciación para marcas de comida rápida y un campo de pruebas para la nueva técnica de “mil hojas”.
 
 ---
 
-## Fuentes de las imágenes
+## 1998: la ansiedad colectiva de la isla
 
-Este artículo utiliza 3 imágenes de dominio público o con licencia CC, todas almacenadas en `public/article-images/food/` para evitar el hot-linking al servidor de origen:
+En la calle Da’an de Taipéi en 1998, el aire estaba impregnado del aroma intenso de mantequilla y huevo. No era solo un olor a horno; era el olor del “dinero”. En ese momento, toda Taiwán vivía una euforia que la historia posterior llamaría “la tormenta del pastel de nata”. La gente estaba dispuesta a hacer cola dos horas bajo el sol solo para comprar unos pasteles recién salidos del horno, con manchas oscuras por el caramelo.
 
-- [Tarta de huevo portuguesa](https://commons.wikimedia.org/wiki/File:Egg_tart.jpg) — Photo: ProjectManhattan, CC0 1.0 Public Domain
-- [Fachada de Lord Stow's Bakery en Macao](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg) — Photo: LN9267, 2023, CC BY-SA 4.0
-- [Tarta de huevo al estilo hongkonés de Tai Cheong Bakery en Banqiao, Taiwán](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C_%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C_%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C_%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C_%E6%9D%BF%E6%A9%8B%2C_%E6%96%B0%E5%8C%97%E5%B8%82%2C_%E5%8F%B0%E7%81%A3%2C_New_Taipei_City%2C_Taiwan_%2847201805022%29.jpg) — Photo: bryan… (Flickr), 2019, CC BY-SA 2.0
+Los medios de la época describían cómo los puestos de pasteles de nata aparecían como bambú después de la lluvia por toda la ciudad, incluso convirtiendo tiendas de teléfonos y farmacias en reposterías. Sin embargo, esta ola de entusiasmo se enfrió en menos de un año, dejando cientos de locales cerrados, con sus carteles vacíos y un término que desde entonces se usa ampliamente: **“efecto pastel de nata”** [^1]。
+
+📝 Nota del curador: la obsesión taiwanesa por el pastel de nata no proviene del deseo de postres, sino de un experimento social sobre “escasez” y “ansiedad colectiva”.
+
+## Del convento de Lisboa a la calle de Macau
+
+El origen del pastel de nata (Pastéis de Nata) se remonta al siglo XIX en Portugal. En el convento de los Jerónimos, en el barrio de Belém, las monjas necesitaban utilizar grandes cantidades de claras para coser sus hábitos, y las yemas sobrantes se convirtieron en postre [^2]。
+
+Este postre llegó después al otro lado del océano a Macau. En 1989, el británico Andrew Stow abrió “Andrew’s Bakery” en la calle de Taipa, en Macau. Mejoró la receta tradicional, reemplazando la harina de trigo con crema, huevos y leche, reduciendo el azúcar, lo que dio lugar al “pastel de nata estilo Macau” que hoy conocen en Taiwán [^3]。En 1997, tras divorciarse de su esposa Margaret Wong, ella abrió su propio local en Macau y posteriormente autorizó la receta a KFC, comenzando la leyenda del pastel de nata en cadenas asiáticas [^4]。
+
+![Fachada de Lord Stow's Bakery en una calle de Macau, con gente caminando frente a la tienda](/article-images/food/dan-ta-02-2023.webp)
+_ Fachada de Lord Stow's Bakery en Calle de Rua de Coloane, Macau (febrero 2023). El británico Andrew Stow fundó esta panadería en 1989 en Taipa, mejorando la receta tradicional y convirtiéndola en el punto de partida de la ola de 1998 en Taiwán. Foto: LN9267. [CC BY-SA 4.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lord%20Stow%27s%20Bakery%20Rua%20do%20Cunha%20shop%2001-02-2023.jpg)._
+
+## La tienda de pasteles de nata que vendía pollo frito
+
+Antes de 1998, el menú de KFC en Taiwán no incluía pasteles de nata [^5]。En ese momento, KFC adoptó la receta de Margaret Wong para competir con la ola del pastel de nata. Irónicamente, mientras cientos de tiendas especializadas cerraban, KFC, gracias a su producción estandarizada y calidad estable, terminó absorbiendo toda la demanda restante.
+
+Alrededor de 2022, KFC lanzó una campaña que insinuaba que dejaría de vender pasteles de nata, causando un aluvión de lamentos entre los consumidores taiwaneses. Finalmente, todo resultó ser solo un anuncio para promocionar un nuevo sabor, pero también reafirmó una vez más que el pastel de nata ya no es un “producto pasajero”, sino una “tradición” [^6]。
+
+📝 Nota del curador: cuando un jugador es burlado por ser una “tienda de pasteles de nata que vende pollo frito”, significa que su logro en el negocio secundario ya se ha convertido en un símbolo cultural.
+
+## La disputa de variedades: desde la base de galleta hasta el “mil hoja floreado”
+
+El mercado taiwanés de pasteles de nata no se limita al estilo portugués. Antes de la llegada del pastel de nata portugués, Taiwán ya tenía el “pastel de nata tradicional”, con una corteza dura influenciada por la harina de trigo importada de Estados Unidos en la década de 1950 [^7]。
+
+### Pastel de nata portugués: manchas de caramelo y capas superpuestas
+
+La característica más llamativa del pastel de nata portugués (Pastel de Nata) es su **mancha negra de caramelo** en la superficie. Esto no es un error de horneado; es el resultado de la reacción de Maillard entre el azúcar y la mantequilla a alta temperatura, que le da al pastel una textura amarga y dulce [^10]。
+
+En cuanto al proceso, el pastel de nata portugués utiliza la técnica de “masa superpuesta”. Se enrolla la masa con mantequilla, se dobla y se refrigera repetidamente, luego se enrolla en forma cilíndrica y se corta en rodajas. Finalmente, se presiona manualmente en moldes. Esto crea un patrón en espiral en la base del pastel, con una textura densa y bien estratificada, que crujirá claramente al morderlo (“crac”) [^11]。
+
+### Pastel de nata estilo taiwanés y hongkonés: masa quebradiza y textura china tradicional
+
+Antes de que el pastel de nata portugués se popularizara, Taiwán y Hong Kong preferían pasteles de nata con una corteza lisa. Estos pasteles se dividen principalmente en dos estilos:
+
+- **Masa quebradiza (corteza de galleta)**: esta es la forma más tradicional de “pastel de nata” en Taiwán. La corteza se hace con mantequilla, harina y huevos, sin necesidad de doblar capas. Su textura está entre la corteza de tarta y la galleta. El relleno suele tener un brillo liso perfecto, con una textura densa y un fuerte sabor a leche [^12]。
+- **Corteza china tradicional**: común en cafeterías tradicionales. A diferencia de la masa superpuesta occidental del pastel de nata portugués, la corteza china tradicional usa manteca de cerdo o aceite vegetal, aplicando el método tradicional de “envolver aceite con aceite”. Las capas son extremadamente crujientes y se deshacen al tacto, destacando un aroma suave a grasa en lugar del intenso sabor a mantequilla [^13]。
+
+![Bandeja de madera con tres pasteles de la panadería Tailin: a la izquierda mantequilla de piña, en el centro bollos de pollo, a la derecha el pastel de nata estrella](/article-images/food/dan-ta-01-2019.webp)
+_ Pastel de nata estrella de Tailin en Banqiao, Nueva Taipéi (2019). Tailin es una marca histórica de Hong Kong con presencia en Taiwán, mostrando la conexión de pasteles de nata estilo hongkonés en las calles de Taiwán. Foto: bryan…（Flickr 91049143@N00）. [CC BY-SA 2.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Food%20%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C%20%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C%20%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C%20%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C%20%E6%9D%BF%E6%A9%8B%2C%20%E6%96%B0%E5%8C%97%E5%B8%82%2C%20%E5%8F%B0%E7%81%A3%2C%20New%20Taipei%20City%2C%20Taiwan%20%2847201805022%29.jpg)._
+
+### Pastel de nata mil hoja: la reevolución de la técnica en 2024
+
+En 2024, Taiwán vivió nuevamente una ola de entusiasmo por el “pastel de nata mil hoja”. Visualmente, este pastel muestra un hermoso patrón radial de “flores pequeñas”. La diferencia técnica principal con respecto al pastel de nata tradicional radica en el **proceso de moldeado y el molde**。
+
+El pastel de nata mil hoja suele usar mantequilla francesa de alta calidad (como la mantequilla de Mont Blanc) y harina japonesa, buscando una crujiente extremada. En lugar de enrollar y cortar la masa superpuesta, se presiona directamente la masa de múltiples capas en moldes especiales con forma de flor, permitiendo que florezca como pétalos durante el horneado [^14]。El relleno suele usar crema de leche con alto contenido de grasa (como la crema de Nissin), creando una textura líquida similar a la del flan [^15]。
+
+📝 Nota del curador: desde la “base de galleta” del pastel de nata tradicional hasta la “corteza floreada” del pastel de nata mil hoja, la evolución del pastel de nata es como una carrera armamentista entre los taiwaneses por la “crujiente” y el “sabor a leche”.
+
+## Las enseñanzas del efecto pastel de nata hoy
+
+El “efecto pastel de nata” sigue reproduciéndose en Taiwán hoy. Desde el limón de Jadeite, el pollo frito de Fatty Daddy hasta los pescados agrios recientes, siempre hay patrones de “rápido ascenso y rápido declive” en el mercado taiwanés [^9]。Como el originario de este fenómeno, el pastel de nata trasciende ya el significado de un simple alimento. Nos recuerda que detrás de la locura colectiva, siempre hay un profundo deseo de novedad y un miedo a perder la oportunidad.
+
+---
+
+## Créditos de imágenes
+
+Este artículo utiliza 3 imágenes con licencia de dominio público o CC, todas almacenadas en caché en `public/article-images/food/` para evitar enlaces calientes:
+
+- [Pastel de nata portugués](https://commons.wikimedia.org/wiki/File:Egg_tart.jpg) — Foto: ProjectManhattan, CC0 1.0 Dominio público
+- [Fachada de Lord Stow's Bakery en Macau](https://commons.wikimedia.org/wiki/File:Lord_Stow%27s_Bakery_Rua_do_Cunha_shop_01-02-2023.jpg) — Foto: LN9267, 2023, CC BY-SA 4.0
+- [Pastel de nata estilo hongkonés de Tailin en Banqiao, Taiwán](https://commons.wikimedia.org/wiki/File:Food_%E7%9A%87%E7%89%8C%E8%9B%8B%E6%92%BB%2C_%E5%86%B0%E7%81%AB%E8%84%86%E7%9A%AE%E8%8F%A0%E8%98%BF%E6%B2%B9%2C_%E6%B3%B0%E6%98%8C%E9%9B%9E%E5%B0%BE%E5%8C%85%2C_%E6%B3%B0%E6%98%8C%E9%A4%85%E5%AE%B6%2C_%E6%9D%BF%E6%A9%8B%2C_%E6%96%B0%E5%8C%97%E5%B8%82%2C_%E5%8F%B0%E7%81%A3%2C_New_Taipei_City%2C_Taiwan_%2847201805022%29.jpg) — Foto: bryan… (Flickr), 2019, CC BY-SA 2.0
 
 ## Referencias
 
-[^1]: [蛋塔效應](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipedia: entrada sobre el efecto de la tarta de huevo; explica que el término se originó en la fiebre de filas y el rápido enfriamiento provocados por la entrada de la tarta de huevo portuguesa al mercado taiwanés en 1998
+[^1]: [Efecto pastel de nata](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipedia: entrada sobre el efecto pastel de nata, que explica que el término proviene de la ola de puestos en 1998 y el rápido declive posterior
 
-[^2]: [烘焙故事丨春天，來個甜甜的蛋撻吧](https://sannenggroup.com/%E7%83%98%E7%84%99%E6%95%85%E4%BA%8B%E4%B8%A8%E6%98%A5%E5%A4%A9%EF%BC%8C%E4%BE%86%E5%80%8B%E7%94%9C%E7%94%9C%E7%9A%84%E8%9B%8B%E6%92%BB%E5%90%A7/) — Grupo Sanneng: véase el texto del enlace original para información complementaria
+[^2]: [Historia de la repostería: primavera, vamos a disfrutar un pastel de nata dulce](https://sannenggroup.com/%E7%83%98%E7%84%99%E6%95%85%E4%BA%8B%E4%B8%A8%E6%98%A5%E5%A4%A9%EF%BC%8C%E4%BE%86%E5%80%8B%E7%94%9C%E7%94%9C%E7%9A%84%E8%9B%8B%E6%92%BB%E5%90%A7/) — Sanen Group: consulte los datos complementarios en el enlace original
 
-[^3]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra que Andrew Stow abrió Lord Stow’s Bakery en la Rua do Tassara, Coloane, Macao, en 1989, y que modificó la receta dejando de usar natillas en polvo, incorporando crema y reduciendo el azúcar
+[^3]: [Pastel de nata portugués](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra que Andrew Stow fundó Andrew’s Bakery en la calle de Taipa, Macau en 1989, mejorando la receta tradicional, reemplazando la harina de trigo con crema y reduciendo el azúcar
 
-[^4]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra que, tras el divorcio de Andrew y su esposa Margaret en 1997, Margaret estableció su propio negocio en la península de Macao, y que luego la receta ingresó al sistema de cadenas de KFC; véase también la entrada “Egg tart” de en.wikipedia.org: “In 1999, Wong sold the recipe to KFC”
+[^4]: [Pastel de nata portugués](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra que tras el divorcio de Andrew y su esposa Margaret Wong en 1997, ella abrió su propio local en Macau y luego autorizó la receta a KFC, comenzando la leyenda del pastel de nata en cadenas asiáticas (véase también la entrada en inglés de Wikipedia sobre “Egg tart”: “En 1999, Wong vendió la receta a KFC”)
 
-[^5]: [Egg tart](https://en.wikipedia.org/wiki/Egg_tart) — Wikipedia en inglés: registra que KFC introdujo la tarta en mercados asiáticos como Taiwán después de obtener la receta a través de Margaret en 1999, lo que coincide con la afirmación de que KFC Taiwán no vendía tartas de huevo antes de 1998; la página de Facebook “Tainan Style” también recoge la misma descripción, aunque se trata de UGC no oficial
+[^5]: [Egg tart](https://en.wikipedia.org/wiki/Egg_tart) — Wikipedia en inglés: registra que KFC introdujo el pastel de nata en mercados asiáticos como Taiwán en 1999, adquiriendo la receta de Margaret Wong, lo cual coincide con la afirmación de que antes de 1998 KFC en Taiwán no vendía pasteles de nata (también se menciona en la página oficial de Facebook de “Tainan Style”, aunque no es contenido oficial generado por usuarios)
 
-[^6]: [你知道嗎？在1998年以前，台灣的肯德基還沒有賣蛋撻哦](https://www.facebook.com/tainanstyle2020/posts/545427580564172/) — Tainan Style, página de Facebook: describe el contexto histórico de la tarta de huevo de KFC en Taiwán; la maniobra de marketing de 2022 en la que KFC insinuó que dejaría de vender tartas de huevo fue un tema ampliamente discutido en internet en ese momento, aunque el comunicado oficial o los enlaces periodísticos originales ya no están disponibles; aquí se usan publicaciones de discusión de la época como evidencia de la reacción de los consumidores
+[^6]: [¿Sabías que antes de 1998, KFC en Taiwán no vendía pasteles de nata?](https://www.facebook.com/tainanstyle2020/posts/545427580564172/) — Tainan Style (página oficial de Facebook): describe el contexto histórico del pastel de nata de KFC en Taiwán; la campaña de 2022 que insinuaba que KFC dejaría de vender pasteles de nata era un tema popular en internet en ese momento, aunque los enlaces originales a declaraciones oficiales o informes han caducado, por lo que se usan publicaciones relacionadas como evidencia del impacto en los consumidores
 
-[^7]: [台灣在1950s美援麵粉輸入後的蛋塔技術](https://www.threads.com/@sr.say100/post/DUKVVBWiTgy/) - Threads
+[^7]: [Tecnología de pasteles de nata taiwaneses tras la importación de harina de trigo de ayuda estadounidense en los años 50](https://www.threads.com/@sr.say100/post/DUKVVBWiTgy/) - Threads
 
-[^8]: [千層蛋塔V.S酥皮蛋塔到底有那些差別？](https://www.youtube.com/shorts/uJntLuOkaOU) - Liz Gourmet
+[^8]: [¿Cuál es la diferencia entre el pastel de nata mil hoja y el de corteza quebradiza?](https://www.youtube.com/shorts/uJntLuOkaOU) - Liz, experta en comida
 
-[^9]: [蛋塔效應](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipedia: enumera varios casos taiwaneses del “efecto de la tarta de huevo”, como la limonada esmeralda de Qingyu, el té con leche espeso de I-Mei y el pescado con col encurtida
+[^9]: [Efecto pastel de nata](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A1%94%E6%95%88%E6%87%89) — Wikipedia: enumera varios casos de “efecto pastel de nata” en Taiwán, incluyendo limón de Jadeite, leche de Nissin espesa y pescado agrio
 
-[^10]: [梅納反應](https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%8F%8D%E6%87%89) — Wikipedia: explica que la reacción de Maillard es una reacción química entre aminoácidos y azúcares reductores a altas temperaturas, y que constituye el mecanismo principal por el cual los productos horneados desarrollan colores que van del dorado al marrón oscuro y sabores complejos en la superficie
+[^10]: [Reacción de Maillard](https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%8F%8D%E6%87%89) — Wikipedia: explica que la reacción de Maillard es una reacción química entre aminoácidos y azúcares reducidos a alta temperatura, que es el mecanismo principal que da color dorado a marrón y sabores complejos a los alimentos horneados
 
-[^11]: [葡式蛋撻](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra la técnica de elaboración del hojaldre de la tarta de huevo portuguesa, incluidas las características técnicas de plegar repetidamente la mantequilla; para el método completo del hojaldre laminado, también puede consultarse la entrada “千層酥皮” del mismo sitio
+[^11]: [Pastel de nata portugués](https://zh.wikipedia.org/wiki/%E8%91%A1%E5%BC%8F%E8%9B%8B%E6%92%BB) — Wikipedia: registra la técnica de masa superpuesta del pastel de nata portugués, incluyendo las características técnicas de doblar la mantequilla; para conocer la técnica completa de masa superpuesta, consulte también la entrada de “mil hoja” en el mismo sitio
 
-[^12]: [港式經典蛋撻：中式酥皮VS 曲奇餅皮](https://www.facebook.com/o.lala.baking.studio/posts/1460253716114140/) - O'lala Baking Studio
+[^12]: [Pastel de nata clásico de Hong Kong: corteza china VS corteza de galleta](https://www.facebook.com/o.lala.baking.studio/posts/1460253716114140/) - O'lala Baking Studio
 
-[^13]: [傳統酥皮蛋撻｜同葡撻分別在豬油⁉️](https://www.youtube.com/watch?v=77OdZ_Mem1o) - YouTube
+[^13]: [Pastel de nata tradicional con corteza quebradiza | ¿la diferencia con el pastel de nata está en la manteca de cerdo?](https://www.youtube.com/watch?v=77OdZ_Mem1o) - YouTube
 
-[^14]: [千層蛋塔跟酥皮蛋塔到底有什麼差別？](https://www.facebook.com/selftaughtgourmet/videos/1180523609806769/) - Liz Gourmet
+[^14]: [¿Cuál es la diferencia entre el pastel de nata mil hoja y el de corteza quebradiza?](https://www.facebook.com/selftaughtgourmet/videos/1180523609806769/) - Liz, experta en comida
 
-[^15]: [酥皮千層蛋撻今天開始試賣](https://www.instagram.com/p/C57fQMxvTNF/) - Instagram de Ballet Bread
+[^15]: [Prueba de venta de pastel de nata mil hoja con corteza quebradiza hoy](https://www.instagram.com/p/C57fQMxvTNF/) - Instagram de Barret Bread
