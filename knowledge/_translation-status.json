@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T21:16:19+08:00",
-    "zhCommitHead": "dc9bfd11b",
+    "lastUpdated": "2026-09-18T22:00:30+08:00",
+    "zhCommitHead": "cb16f13a5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1017,
-        "stale": 56,
+        "fresh": 1018,
+        "stale": 55,
         "metadata_stale": 13,
         "missing": 35,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 954,
+        "fresh": 955,
         "stale": 63,
         "metadata_stale": 73,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 770,
+        "fresh": 772,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 344,
+        "missing": 342,
         "orphan": 0
       }
     },
@@ -6460,7 +6460,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/lifestyle-market.md",
+          "translatedFrom": "Economy/生活市集.md",
+          "sourceCommitSha": "e43a29ea4",
+          "sourceContentHash": "sha256:a28b59d150358ce1",
+          "sourceBodyHash": "sha256:45330c3b732890b9",
+          "translatedAt": "2026-09-18T00:53:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/lifestyle-market.md",
@@ -23173,8 +23184,8 @@
           "sourceContentHash": "sha256:1e2fca6dab4c2f1c",
           "sourceBodyHash": "sha256:62d9c6127e29bebe",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb16f13a",
+          "translationLastModified": "2026-09-18T21:16:20+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -47174,8 +47185,8 @@
           "sourceContentHash": "sha256:f56149ea65f8ae88",
           "sourceBodyHash": "sha256:03d653f96edfb95d",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb16f13a",
+          "translationLastModified": "2026-09-18T21:16:20+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -64799,8 +64810,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb16f13a",
+          "translationLastModified": "2026-09-18T21:16:20+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -101348,18 +101359,16 @@
         "fr": {
           "path": "fr/People/howhow.md",
           "translatedFrom": "People/Howhow.md",
-          "sourceCommitSha": "f5975a22",
-          "sourceContentHash": "sha256:c742af5d03f4c9ab",
-          "sourceBodyHash": "sha256:a358cb4047d78691",
-          "translatedAt": "2026-07-16T00:49:01+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:25c8ad9313478f48",
+          "sourceBodyHash": "sha256:d75a906a8210150b",
+          "translatedAt": "2026-09-18T13:17:12.106657+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/howhow.md",
@@ -142395,7 +142404,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/shimen-reservoir.md",
+          "translatedFrom": "History/石門水庫.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:d8b88408a353bacc",
+          "sourceBodyHash": "sha256:6772a9de43938945",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -162699,8 +162719,8 @@
           "sourceContentHash": "sha256:930e1cf08d9847c7",
           "sourceBodyHash": "sha256:ac8494ae079b5eb8",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb16f13a",
+          "translationLastModified": "2026-09-18T21:16:20+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -163309,7 +163329,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
