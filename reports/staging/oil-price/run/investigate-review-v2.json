@@ -1,0 +1,22 @@
+{
+  "revision": 15,
+  "submissionId": "dde97e2d-5377-491d-96af-85134f36acbd",
+  "actor": "guide_investigate_reviewer_2 (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "v2（revision 14）在已被前一位 reviewer accept 的 v1 基礎上，依研究報告 Stage 3 大驗證輪回填更正 claims #7、#9、#10 並新增 #11，diff 比對確認 changedMind 對改動範圍的描述完全誠實、其餘 7 條 claim 與 counterEvidence 前 6 條逐字未動。四欄（source/location/support/doesNotSupport）11 條全數齊全，事實／推論／查無分層維持（如 12.29% 標可復算、專案平穩＝75% 標單一來源推論）；新增的 counterEvidence 第 7 條摘要 Stage 3 六處更正與一處引語幻覺，逐一比對研究報告 §10 的 12 項 verifier 處置紀錄，範圍準確、未虛報；searchLimits 8 條全用「未取得／未查到／未找到」。親自 curl 四條（超過要求的三條）：claim #11 中油 4/8 澄清稿於 cpc.com.tw 與 moea.gov.tw 兩原頁逐字相符（含確認幻覺句已正確撤下）；claim #7 經濟日報 3/17 陳淑姿「四年3,500億」於 money.udn.com 原頁逐字相符；claim #10 香港「18億港元」於香港政府新聞公報 4/9、4/29 兩份原文逐字相符；額外抽核 claim #9 馬文君／吳思瑤兩篇 udn 原頁，證實馬文君「你審你的、我花我的」語境確實是國防特別預算項目、與中油油價無關，坐實 doesNotSupport 新增限縮句與『各自成源』更正皆正確。全部抽核均未發現新幻覺或誇大，予以 accept。",
+  "contextDisclosure": "fresh-context-investigate-inputs",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/investigate-submission-v2.json",
+      "location": "data.claims #7、#9、#10、#11；data.counterEvidence 第 7 條；data.changedMind v2 重交註記"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§7.1 來源 #23；§7.2 Verification Table；§10 Stage 3 audit 12 項處置"
+    },
+    {
+      "path": "reports/staging/oil-price/run/investigate-review-v2.md",
+      "location": "全文，含 §6 五個原頁 curl 逐字核對結果與 §1 v1→v2 diff 比對"
+    }
+  ]
+}
