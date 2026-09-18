@@ -1,424 +1,457 @@
 ---
-title: 'Morris Chang'
-description: 'Padrinho dos semicondutores, fundador da TSMC, o lendário empresário que transformou a indústria tecnológica global com o modelo de fundição de wafers'
+title: 'Morris Chang (Chang Chung-mo): O Pai de Semicondutores, Fundador da TSMC e Empresário Lendário que Mudou a Indústria Tecnológica Global com o Modelo de Fabricação por Contrato'
+description: 'O empresário lendário Morris Chang (張忠謀), fundador da Taiwan Semiconductor Manufacturing Company (TSMC), é celebrado como o "Pai dos Semicondutores" por criar um modelo de fabricação pura que redefiniu o ecossistema tecnológico mundial.'
 date: 2026-03-17
 category: 'People'
 tags:
   [
-    'Personalidades',
+    'Pessoa',
     'Morris Chang',
     'TSMC',
-    'Semicondutores',
+    'Semicondutor',
     'Empresário',
-    'Fundição de wafers',
-    'Montanha sagrada da pátria',
+    'Fabricação por Contrato',
+    'Monte da Defesa Nacional',
   ]
 subcategory: '科技與企業'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-01
 lastHumanReview: false
+lifeTree: "{'protagonist': '張忠謀（Morris Chang）', 'birthYear': 1931, 'span': '1931–', 'source': {'article': 'knowledge/People/張忠謀.md', 'commit': '2acf410b', 'commitDate': '2026-03-17', 'extractedBy': 'Taiwan.md (Semiont) β-r5', 'extractedAt': '2026-04-26 13:30 +0800', 'note': '原文無 footnote，source 推測基於 §參考資料區（自傳 / TSMC 年報 / 維基 / 工研院 / 清大）+ 公開歷史紀錄。少數心理動機 alternative 標 [推測]。'}, 'intro': '一個 14 歲流亡到香港、18 歲念哈佛文學、20 歲轉 MIT 工程的中國銀行家之子，54 歲離開美國副總職位回台灣創立台積電。這棵樹列出他每次跨界（地理、技能、商業模式、世代）選的路，也列出他沒選的——從哈佛文學的延續到留美安全路徑到 IDM 模式的延續。', 'themes': [{'id': 'homeland', 'label': '海外 vs 故土', 'color': '#10B981'}, {'id': 'expert-leader', 'label': '工程師 vs 管理者', 'color': '#8B5CF6'}, {'id': 'business-model', 'label': '自製 vs 代工', 'color': '#F59E0B'}, {'id': 'succession', 'label': '在位 vs 傳承', 'color': '#EC4899'}], 'nodes': [{'id': 'birth', 'year': 1931, 'age': 0, 'type': 'given', 'theme': 'homeland', 'label': '出生於浙江寧波', 'scene': '父親張蔚觀是銀行家，母親徐韻徵出身書香門第。動盪年代的書香家庭。'}, {'id': 'hong-kong', 'year': 1945, 'age': 14, 'type': 'choice', 'theme': 'homeland', 'scene': '童年在寧波 → 上海 → 南京 → 重慶 → 上海 → 廣州 → 香港之間遷徙。14 歲隨家人定居香港', 'chose': {'label': '在英國殖民教育體系下接受中學教育', 'consequence': '香港的國際化環境與英文訓練，為日後赴美奠定語言與視野基礎。也讓他對「邊緣身份在大國體制內運作」有早期感覺。'}, 'alternatives': [{'label': '留在中國大陸', 'plausibility': 'structural', 'note': '同代多數家庭沒能跟著遷移到香港。1949 後留在中國的銀行家後代命運與張忠謀完全分流，不會出現在矽谷。'}, {'label': '直接赴美', 'plausibility': 'structural', 'note': '少數富裕家庭 1940 年代末就直接送孩子赴美。沒有香港四年，英文與國際化基礎會更弱，哈佛申請會更難。'}]}, {'id': 'harvard-mit', 'year': 1950, 'age': 19, 'type': 'choice', 'theme': 'expert-leader', 'scene': '1949 年進哈佛念文學。一年後因對文學缺乏熱情、加上經濟考量', 'chose': {'label': '轉學 MIT 機械工程', 'consequence': 'MIT 嚴謹工程教育培養邏輯思維與解決問題能力。1952 拿機械工程學士。這個轉軌是「藝術 → 技術」的關鍵 fork。'}, 'alternatives': [{'label': '留在哈佛念文學', 'plausibility': 'speculative', 'note': '[推測] 如果留下，可能走學術或文學路徑。完全不會出現半導體事業。但「為什麼一個對文學有興趣的人能在 MIT 工程系成功」這個張力，後來變成他能用人文視角看技術產業的原因。'}, {'label': '轉去念商學', 'plausibility': 'structural', 'note': '同代華人留學生有人選哈佛商學院。但少了 engineering hands-on，後來 TI 的技術職位無法擔任，也無法理解半導體製程的精密性。'}]}, {'id': 'korea-war-civilian', 'year': 1952, 'age': 21, 'type': 'event', 'theme': 'homeland', 'label': 'MIT 畢業遇韓戰，外國學生身份無法進美國軍方相關工作', 'scene': '畢業時正值韓戰期間，國防工業對外籍生關閉。'}, {'id': 'sylvania', 'year': 1955, 'age': 24, 'type': 'choice', 'theme': 'expert-leader', 'scene': '畢業三年後找工作機會', 'chose': {'label': '進希凡尼亞做半導體三年', 'consequence': '首次接觸半導體行業。當時這個產業還在起步階段，但他敏銳察覺巨大潛力。學到半導體製程基礎，也培養對技術細節的關注。'}, 'alternatives': [{'label': '進其他成熟產業', 'plausibility': 'structural', 'note': '1950 年代的主流選擇是汽車、機械、化工。如果選成熟產業，不會在半導體萌芽期就累積經驗，後來 TI 的機會不會降臨。'}]}, {'id': 'ti-1958', 'year': 1958, 'age': 27, 'type': 'choice', 'theme': 'expert-leader', 'scene': '德州儀器（TI）正積極發展半導體業務', 'chose': {'label': '加入 TI 從半導體工程師做起', 'consequence': '改善公司製程、提高良率、節省成本。25 年從工程師升到副總，是 TI 改變他一生的舞台。'}, 'alternatives': [{'label': '留在希凡尼亞', 'plausibility': 'structural', 'note': '希凡尼亞後來逐漸退出半導體領域。如果留下，事業天花板會非常明顯。'}, {'label': '創業', 'plausibility': 'structural', 'note': '同期有人選擇離開大公司創業（如 Intel 創辦人 Noyce / Moore 1968 年離開 Fairchild）。但張忠謀走「大公司內部成長」路徑長達 25 年，這個耐性後來反而成為台積電「打長期仗」文化的根。'}]}, {'id': 'stanford-phd', 'year': 1961, 'age': 30, 'type': 'choice', 'theme': 'expert-leader', 'scene': 'TI 支持他前往史丹佛攻讀電機工程博士', 'chose': {'label': '念博士', 'consequence': '1964 年拿史丹佛 EE PhD。回 TI 後升上重要管理職（鍺、矽電晶體、IC 部門總經理）。技術 + 管理雙軌。'}, 'alternatives': [{'label': '只當工程師不念博士', 'plausibility': 'structural', 'note': '同代很多工程師不念博士，職涯天花板大致是 senior engineer / staff engineer。對於走技術管理線、後來坐到副總，PhD 是隱形必需品。'}]}, {'id': 'vp-1972', 'year': 1972, 'age': 41, 'type': 'choice', 'theme': 'expert-leader', 'scene': '在 TI 從工程師一路升上去 14 年後', 'chose': {'label': '升任德儀集團副總經理 + 半導體集團總經理', 'consequence': '當時美國大型企業中最高階的華人高管之一。突破種族天花板。負責 TI 最重要的業務部門。'}, 'alternatives': [{'label': '跳槽到競爭對手', 'plausibility': 'structural', 'note': '70 年代 Intel / AMD / Motorola 都在搶半導體高管。如果跳槽，可能拿到 CEO 級職位但失去 TI 累積的政治資本與人脈。'}]}, {'id': 'itri-call', 'year': 1985, 'age': 54, 'type': 'choice', 'theme': 'homeland', 'scene': '工研院董事長徐賢修、行政院長俞國華、政委李國鼎力邀', 'chose': {'label': '回台灣擔任工研院院長', 'consequence': '54 歲，在美國有成功事業與優渥生活。回台是充滿風險的決定。但這是台積電誕生的前提——沒有工研院院長身份，沒有後來的政府支持與股權結構。'}, 'alternatives': [{'label': '留在美國', 'plausibility': 'structural', 'note': '同代華人高管多數選擇留美直到退休。如果留下，職涯穩定但不會有台積電。台灣半導體產業發展軌跡會完全不同。'}, {'label': '回中國大陸', 'plausibility': 'structural', 'note': '1985 年中國改革開放第七年，亦曾邀請海外華人技術領袖。如果選大陸，會被綁進國家半導體計畫（如後來的中芯），路徑與商業模式自由度都不同。'}]}, {'id': 'tsmc-foundry', 'year': 1987, 'age': 56, 'type': 'choice', 'theme': 'business-model', 'scene': '工研院院長期間，思考一個革命性商業模式', 'chose': {'label': '創立台積電 + 提出「專業晶圓代工」純代工模式', 'consequence': '1987/2/21 成立，初始資本 220 億。打破當時 IDM（整合元件製造商）主流模式。客戶不必投入巨資建廠就能設計晶片。後來重塑全球半導體產業生態，催生 fabless 產業。'}, 'alternatives': [{'label': '走傳統 IDM 模式（自己設計+製造）', 'plausibility': 'structural', 'note': '當時主流模式（Intel、TI、Motorola 都是 IDM）。如果選 IDM，台積電會跟韓國三星、日本 NEC 同象限競爭，多半會輸。代工模式才是繞過西方 IDM 主場的關鍵。'}, {'label': '只做設計不做製造', 'plausibility': 'structural', 'note': '另一個方向：台版 fabless（如後來的聯發科）。但 1987 年台灣設計能力遠不及製造潛力，這條路會起步太晚。'}, {'label': '不創公司，留在工研院做政策', 'plausibility': 'structural', 'note': '部分海外回國技術領袖選擇純政策角色。如果如此，台積電不會出現，台灣半導體會多十年才追上韓國。'}]}, {'id': 'retire-2005', 'year': 2005, 'age': 74, 'type': 'choice', 'theme': 'succession', 'scene': '台積電已是全球代工龍頭', 'chose': {'label': '第一次退休 / 執行長交給蔡力行 / 自己保留董事長', 'consequence': '精心準備的接班計畫。為企業永續發展鋪路。但留住董事長職位讓他保有戰略決策權。'}, 'alternatives': [{'label': '完全退出', 'plausibility': 'structural', 'note': '完全退休是「乾淨退出」典範（如 Bill Gates 2008 退出微軟日常）。但 2008 金融危機如果張忠謀完全離場，台積電可能找不到回神能力。保留董事長是後來能復出的關鍵。'}]}, {'id': 'comeback-2009', 'year': 2009, 'age': 78, 'type': 'choice', 'theme': 'succession', 'scene': '2008 全球金融危機重創台積電。業績下滑、競爭加劇', 'chose': {'label': '78 歲復出重新擔任執行長', 'consequence': '穩定市場信心、領導公司度過困難。順便培養劉德音與魏哲家。「老將回鍋救火」的經典案例。'}, 'alternatives': [{'label': '不復出讓蔡力行硬撐', 'plausibility': 'structural', 'note': '尊重既定接班計畫的另一條路。但金融危機 + 接班人威信不足的雙重壓力，台積電可能失去 28nm 製程的關鍵機會窗。'}]}, {'id': 'retire-2018', 'year': 2018, 'age': 87, 'type': 'choice', 'theme': 'succession', 'scene': '台積電在他第二輪 9 年領導後達到製程全球領先', 'chose': {'label': '正式退休 + 建立雙首長制（劉德音董事長 / 魏哲家 CEO）', 'consequence': '功成身退典範。雙首長制平衡對外與對內。31 年傳奇生涯結束。被視為企業接班的教科書案例。'}, 'alternatives': [{'label': '單一接班人', 'plausibility': 'structural', 'note': '美國企業傳統路徑（Apple Cook / Microsoft Nadella 都是單一接班）。但台積電規模 + 兩位接班人都很強，雙首長制避免「兩虎相爭」也讓彼此互補。'}, {'label': '繼續任 90 歲', 'plausibility': 'structural', 'note': 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'}]}]}"
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:14127c407e7b0db7'
-sourceBodyHash: 'sha256:6d452360d79fae70'
-translatedAt: '2026-08-03T21:46:30+08:00'
+sourceCommitSha: '26d30c32f'
+sourceContentHash: 'sha256:6c3058ba108a44f9'
+sourceBodyHash: 'sha256:1043d3e7799eba77'
+translatedAt: '2026-09-18T00:53:08+08:00'
 ---
 
 # Morris Chang (張忠謀)
 
-Morris Chang, aclamado como o "padrinho dos semicondutores", é um empresário lendário, fundador da Taiwan Semiconductor Manufacturing Company (TSMC). Ele criou a primeira empresa de fundição de wafers dedicada do mundo, inaugurando um modelo de negócio que remodelou o ecossistema da indústria tecnológica global. De executivo sino-americano na Texas Instruments ao regresso a Taiwan para fundar a TSMC, a sua trajetória de vida testemunha a história do desenvolvimento da indústria global de semicondutores e consolidou a posição crítica de Taiwan na cadeia de abastecimento tecnológica mundial.
+Morris Chang (張忠謀), um empresário lendário aclamado como o "Pai dos Semicondutores", é fundador da Taiwan Semiconductor Manufacturing Company (TSMC). Ele criou a primeira empresa de fabricação por contrato especializada do mundo, inaugurando um modelo de negócios que remodelou o ecossistema tecnológico global. De executivo chinês na Texas Instruments nos Estados Unidos ao fundar a TSMC em Taiwan, sua trajetória pessoal testemunhou o desenvolvimento da indústria de semicondutores global e estabeleceu o status crucial de Taiwan na cadeia de suprimentos tecnológica mundial.
 
-## Visão geral em 30 segundos
+## Visão Geral em 30 Segundos
 
-**Por que o mundo deve conhecer Morris Chang?**
+**Por que o mundo deveria conhecer Morris Chang?**
 
-A TSMC, fundada por Morris Chang, é a empresa de maior valor de mercado no setor global de fundição de wafers e uma pedra angular da civilização digital moderna. Dos smartphones e computadores aos chips de inteligência artificial, a grande maioria dos semicondutores avançados do mundo é fabricada pela TSMC. O seu modelo de negócio de "fundição pura" permitiu que inúmeras empresas tecnológicas se concentrassem no design de chips, sem necessidade de investir somas colossais na construção de fábricas de wafers, transformando radicalmente o ecossistema da indústria tecnológica global.
+A TSMC, fundada por Morris Chang (張忠謀), é a empresa de fabricação por contrato com maior valor de mercado do mundo e um pilar fundamental da civilização digital moderna. A grande maioria dos semicondutores avançados no mundo — de smartphones e computadores a chips de inteligência artificial — são fabricados pela TSMC. O modelo de negócios de "fabricação pura" que ele estabeleceu permitiu que inúmeras empresas de tecnologia se concentrassem no design de chips sem ter que investir enormes somas para construir fábricas, reestruturando completamente o ecossistema tecnológico global.
 
-A TSMC é apelidada de "montanha sagrada da pátria" (護國神山) de Taiwan, possuindo uma posição estratégica insubstituível na geopolítica. Morris Chang é uma das raras figuras do século XX que verdadeiramente alterou a estrutura de uma indústria — ele redefiniu as fronteiras comerciais do setor de semicondutores, permitindo que Taiwan, a partir de uma base de manufatura por encomenda, se tornasse o nó central da cadeia de abastecimento tecnológica global.
+A TSMC é conhecida como o "Monte da Defesa Nacional" (護國神山) de Taiwan e possui um status estratégico irreplaceável na geopolítica. Morris Chang (張忠謀) foi um dos poucos a mudar estruturas industriais no século XX — ele redefiniu as fronteiras comerciais da indústria de semicondutores, permitindo que Taiwan, partindo do ponto de fabricação por contrato, se tornasse um nó central da cadeia de suprimentos tecnológica global.
 
-Nascido em 1931 em Ningbo, Zhejiang; fundou a TSMC em Taiwan em 1987: a vida de Morris Chang é, por si só, um microcosmo da ascensão tecnológica da Ásia no século XX.
+Nascido em Ningbo, Zhejiang, em 1931 e fundando a TSMC em Taiwan em 1987: a vida de Morris Chang (張忠謀) é um microcosmo da ascensão tecnológica asiática no século XX.
 
-## Infância e formação académica
+## Vida Jovem e Formação Educacional
 
-### Crescimento em tempos turbulentos
+### Crescimento em Tempos Turbulentos
 
-**Nascimento e contexto familiar:**
-A 10 de julho de 1931, Morris Chang nasceu em Ningbo, província de Zhejiang, China. O seu pai, Chang Wei-kuan, era banqueiro; a sua mãe, Hsu Yun-cheng, provinha de uma família de estudiosos. Naqueles tempos conturbados, o pai, versado em literatura e história, mantinha uma vasta biblioteca doméstica — ambiente que lhe permitiu conservar uma perspectiva humanista ao longo de toda a carreira de engenharia.
+**Nascimento e Contexto Familiar:**
+Em 10 de julho de 1931, Morris Chang (張忠謀) nasceu na cidade de Ningbo, província de Zhejiang, China[^1]. Seu pai, Chang Wei-kuan (張蔚觀), era um banqueiro, e sua mãe, Xu Yun-zheng (徐韻徵), vinha de uma família culta. Nesse período turbulento, seu pai, Chang Wei-kuan (張蔚觀), era erudito em história e literatura, e a casa possuía muitos livros, um ambiente que sempre manteve nele uma visão humanista na área da engenharia.
 
-**Experiência de deslocamentos na infância:**
-Devido à guerra, a infância de Morris Chang foi marcada por constantes mudanças. De Ningbo a Xangai, Nanjing, Chongqing, novamente Xangai, depois Cantão, Hong Kong e, por fim, Estados Unidos — essa experiência errante forjou a sua capacidade de adaptação e a sua visão internacional.
+**Experiências Migratórias na Infância:**
+Devido à guerra, a infância de Morris Chang (張忠謀) foi marcada por migrações. De Ningbo para Xangai, Nanjing, Chongqing, Xangai, e depois para Guangzhou, Hong Kong, e finalmente para os Estados Unidos, essa experiência de desamparo desenvolveu sua capacidade de adaptação e visão internacional.
 
-**Anos de estudo em Hong Kong:**
-Em 1945, aos 14 anos, Morris Chang mudou-se com a família para Hong Kong, onde recebeu educação secundária no sistema colonial britânico. O ambiente internacionalizado e o ensino em inglês de Hong Kong lançaram bases importantes para os seus futuros estudos e trabalho nos Estados Unidos.
+**Estudos em Hong Kong:**
+Em 1945, aos 14 anos, Morris Chang (張忠謀) mudou-se com a família para Hong Kong e recebeu educação secundária sob o sistema educacional colonial britânico. O ambiente internacionalizado e a educação em inglês de Hong Kong forneceram uma base importante para seus estudos e trabalho futuros nos Estados Unidos.
 
-### O ponto de viragem nos estudos nos EUA
+### Ponto de Virada Crucial nos Estudos nos EUA
 
-**Breve passagem por Harvard:**
-Em 1949, aos 18 anos, Morris Chang ingressou na Universidade de Harvard, inicialmente no curso de Letras. Contudo, um ano depois, por falta de paixão pela literatura e por razões económicas, transferiu-se para o Instituto de Tecnologia de Massachusetts (MIT).
+**Breve Estadia na Universidade de Harvard:**
+Em 1949, aos 18 anos, Morris Chang (張忠謀) ingressou na Universidade de Harvard[^2] para estudar literatura. No entanto, um ano depois, por falta de paixão pela literatura e por considerações econômicas, ele transferiu-se para o Massachusetts Institute of Technology (MIT).
 
-**Formação em engenharia no MIT:**
-No MIT, Morris Chang escolheu Engenharia Mecânica como especialidade. Essa escolha, aparentemente fortuita, deu-lhe intuição prática de primeira mão no cerne da manufatura de semicondutores (processos de mecânica de precisão), constituindo fundamento crucial para a sua posterior liderança na melhoria de processos na TSMC.
+**Educação em Engenharia no MIT:**
+No MIT, Morris Chang (張忠謀) escolheu engenharia mecânica como especialização principal. Essa escolha pareceu acidental, mas lhe proporcionou uma intuição de engenharia prática no cerne da fabricação de semicondutores (processos mecânicos de precisão), que se tornou um fundamento importante para sua posterior liderança na melhoria dos processos da TSMC.
 
-**Licenciatura em 1952:**
-Morris Chang graduou-se em Engenharia Mecânica pelo MIT em 1952. A formatura coincidiu com a Guerra da Coreia; por ser estudante estrangeiro, não pôde obter empregos relacionados com o setor militar dos EUA — restrição que, paradoxalmente, o direcionou para a indústria civil.
+**Graduação em 1952:**
+Morris Chang (張忠謀) obteve seu diploma de bacharelado em engenharia mecânica do MIT em 1952[^3]. Na época da formatura, estava ocorrendo a Guerra da Coreia, e ele não conseguiu conseguir um trabalho relacionado ao exército americano devido ao seu status de estudante estrangeiro; essa restrição o direcionou para a indústria civil.
 
-## Início da carreira profissional: Sylvania
+## Início da Carreira Profissional: Sylvania
 
-### Entrada na indústria de semicondutores
+### Entrada na Indústria de Semicondutores
 
-**A oportunidade de 1955:**
-Após a formatura, Morris Chang trabalhou três anos na Sylvania, o seu primeiro contacto com a indústria de semicondutores. Na época, o setor ainda estava na fase inicial, mas Chang percebeu agudamente o enorme potencial desta indústria nascente.
+**A Oportunidade em 1955:**
+Após a formatura, Morris Chang (張忠謀) trabalhou por três anos na Sylvania[^4], sua primeira exposição à indústria de semicondutores. Naquela época, a indústria de semicondutores estava apenas começando, mas Morris Chang (張忠謀) percebeu agudamente o enorme potencial deste setor emergente.
 
-**Desenvolvimento de competências técnicas:**
-Na Sylvania, Chang foi responsável pela manufatura de dispositivos semicondutores, aprendendo os conhecimentos fundamentais de processos de fabricação. Essa experiência fez-lhe compreender a complexidade e a exigência de precisão da manufatura de semicondutores, cultivando a sua atenção aos detalhes técnicos.
+**Desenvolvimento de Capacidades Técnicas:**
+Na Sylvania, ele foi responsável pela fabricação de dispositivos semicondutores e aprendeu os conhecimentos básicos dos processos de semicondutores. Essa experiência o fez entender a complexidade e a precisão da manufatura de semicondutores, cultivando sua atenção aos detalhes técnicos.
 
-**Manifestação inicial de talento gestor:**
-Mesmo em cargos técnicos de base, Morris Chang demonstrou excelente capacidade de gestão. Sabia organizar equipas e resolver problemas técnicos; esses três anos de experiência deram-lhe clareza sobre os requisitos rigorosos da manufatura de semicondutores.
+**Primeiros Sinais de Talento Gerencial:**
+Mesmo em um cargo técnico de base, Morris Chang (張忠謀) demonstrou excelentes habilidades gerenciais. Ele era bom em organizar equipes e resolver problemas técnicos, e esses três anos o fizeram compreender os requisitos de precisão da fabricação de semicondutores.
 
-## Período na Texas Instruments: revelação do talento gestor
+## Período na Texas Instruments: Demonstração de Talento Gerencial
 
-### O ponto de viragem de 1958
+### O Ponto de Inflexão de 1958
 
-**Ingresso na Texas Instruments:**
-Em 1958, Morris Chang juntou-se à Texas Instruments (TI) — momento decisivo da sua carreira. A TI expandia então agressivamente o negócio de semicondutores, precisando precisamente de talentos capazes de transitar entre engenharia e gestão.
+**Juntando-se à TI:**
+Em 1958, Morris Chang (張忠謀) se juntou à Texas Instruments (TI)[^5], um ponto de virada crucial em sua carreira. Naquela época, a TI estava expandindo agressivamente seu negócio de semicondutores e precisava de talentos que pudessem transitar entre engenharia e gestão.
 
-**De engenheiro a gestor:**
-Na TI, Chang começou como engenheiro de semicondutores, responsável pela produção de wafers. Destacou-se tecnicamente e revelou simultaneamente notável talento gestor, ganhando rapidamente a atenção da chefia.
+**De Engenheiro a Gerente:**
+Na Texas Instruments, Morris Chang (張忠謀) começou como engenheiro de semicondutores, responsável pela produção de wafers. Ele se destacou tecnicamente e demonstrou um talento gerencial excepcional, rapidamente ganhando o reconhecimento da alta gerência.
 
-**Contributos para a melhoria de processos:**
-Durante o período na TI, Morris Chang melhorou significativamente os processos de semicondutores da empresa, elevando o rendimento (yield) e a eficiência produtiva. Esses avanços técnicos pouparam à empresa quantias vultosas e granjearam-lhe reputação no setor.
+**Contribuições para Melhoria de Processos:**
+Durante seu tempo na Texas Instruments, Morris Chang (張忠謀) melhorou significativamente os processos de semicondutores da empresa, aumentando a taxa de rendimento e a eficiência da produção. Essas melhorias técnicas economizaram muitos custos para a empresa e lhe renderam reputação.
 
-### Aprofundamento académico em Stanford
+### Estudos Avançados em Stanford
 
-**Oportunidade de estudos em 1961:**
-Em 1961, a Texas Instruments patrocinou Morris Chang para doutoramento em Engenharia Elétrica na Universidade de Stanford. Foi um reconhecimento das suas capacidades e uma demonstração da importância que as empresas americanas atribuíam à formação de talentos.
+**A Oportunidade de 1961:**
+Em 1961, a Texas Instruments apoiou Morris Chang (張忠謀) para estudar Doutorado em Engenharia Elétrica na Universidade de Stanford. Isso foi um reconhecimento da capacidade dele pela empresa e demonstrou o foco das empresas americanas no desenvolvimento de talentos.
 
-**Conquistas do doutoramento:**
-Em 1964, Morris Chang obteve o doutoramento em Engenharia Elétrica por Stanford.[^3] Esse aprofundamento elevou-o em profundidade teórica e rede de contactos da indústria; ao regressar à TI, foi sucessivamente promovido.
+**Conquista do Doutorado:**
+Em 1964, Morris Chang (張忠謀) obteve seu doutorado em engenharia elétrica na Universidade de Stanford[^6]. Esse aprimoramento o elevou tanto em profundidade teórica quanto em contatos da indústria, e ele foi promovido logo após retornar à TI.
 
-**Novo papel no regresso à empresa:**
-Após o doutoramento, Chang regressou à TI para cargos de gestão superior. Sucedeu-se como gerente-geral das divisões de transístores de germânio, transístores de silício e circuitos integrados, vendo a sua posição na TI subir ano a ano com os resultados.
+**Novo Papel na Empresa:**
+Após obter o doutorado, Morris Chang (張忠謀) retornou à Texas Instruments para ocupar cargos gerenciais mais altos. Ele serviu sucessivamente como gerente geral dos departamentos de transistores de silício, transistores de semicondutores e circuitos integrados, vendo seu status crescer anualmente com os resultados da empresa.
 
-### Ruptura do teto de vidro racial
+### Rompendo o Teto Racial
 
-**Promoção histórica em 1972:**
-Em 1972, Morris Chang foi promovido a vice-presidente do grupo Texas Instruments, tornando-se um dos executivos de origem chinesa de mais alto escalão nas grandes corporações americanas da época. Numa América empresarial daqueles anos, tal promoção era conquista extremamente rara.
+**A Promoção Histórica de 1972:**
+Em 1972, Morris Chang (張忠謀) foi promovido a vice-presidente do grupo Texas Instruments[^7], tornando-se um dos executivos chineses mais sêniores em uma grande corporação americana na época. Essa promoção era um feito extremamente raro no ambiente de negócios americano daquele tempo.
 
-**Gerente-geral do grupo de semicondutores:**
-Chang assumiu simultaneamente a gerência-geral do grupo de semicondutores da TI, responsável pelo negócio nuclear da empresa. Sob a sua liderança, o negócio de semicondutores da TI desenvolveu-se rapidamente, convertendo-se num dos principais fornecedores mundiais.
+**Gerente Geral do Grupo de Semicondutores:**
+Morris Chang (張忠謀) também serviu como gerente geral do grupo de semicondutores da Texas Instruments, responsável pelas unidades centrais da empresa. Sob sua liderança, o negócio de semicondutores da TI cresceu rapidamente, tornando-se um fornecedor global importante.
 
-**Síntese de 25 anos nos EUA:**
-Nos 25 anos na TI, Morris Chang subiu de engenheiro de base a alto executivo, aprofundando a compreensão do ritmo tecnológico e da lógica comercial da indústria de semicondutores. Essa experiência fez com que, em 1987, ao regressar a Taiwan para empreender, o seu julgamento de mercado fosse muito mais preciso do que o de qualquer pessoa com formação puramente académica.
+**Resumo dos 25 Anos nos EUA:**
+Nos seus 25 anos na Texas Instruments, Morris Chang (張忠謀) ascendeu de engenheiro júnior a executivo sênior, compreendendo profundamente o ritmo tecnológico e a lógica comercial da indústria de semicondutores. Essa experiência permitiu-lhe fazer julgamentos de mercado muito mais precisos ao fundar uma empresa em Taiwan em 1987 do que qualquer pessoa com apenas formação acadêmica.
 
-## O chamamento de Taiwan: período como presidente do ITRI
+## O Chamado de Taiwan: Período como Diretor do SIRI
 
-### A viragem de 1985
+### A Virada da Vida em 1985
 
-**Convite de Sun Yun-suan:**
-Em 1985, Morris Chang foi convidado pelo ex-primeiro-ministro Sun Yun-suan[^1], pelo presidente do ITRI Hsu Hsien-chu, pelo primeiro-ministro Yu Kuo-hwa e pelo ministro sem pasta Li Kuo-ting a assumir a presidência do Instituto de Pesquisa Industrial de Tecnologia (ITRI). Sun Yun-suan, há muito empenhado em impulsionar a indústria de alta tecnologia de Taiwan, foi o principal articulador do convite. Essa decisão alterou a trajetória de vida de Chang e o destino da indústria tecnológica de Taiwan.
+**O Convite de Sun Yun-sze:**
+Em 1985, Morris Chang (張忠謀) foi convidado por Sun Yun-sze (孫運璿)[^8], ex-primeiro-ministro, Xu Hsien-shiu (徐賢修), o diretor da SIRI e Li Kuo-ding (李國鼎), um comissário político, para ser o diretor do Industrial Research Institute (IRI). Sun Yun-sze (孫運璿) havia promovido consistentemente o desenvolvimento da indústria de alta tecnologia em Taiwan, sendo um dos principais impulsionadores do convite a Morris Chang (張忠謀). Essa decisão mudou sua trajetória pessoal e o destino da indústria tecnológica de Taiwan.
 
-**Coragem de deixar a zona de conforto:**
-Aos 54 anos, Morris Chang gozava já de carreira consolidada e vida confortável nos EUA. Optar por regressar a Taiwan foi decisão arriscada e desafiadora, revelando o seu sentido de missão pelo desenvolvimento tecnológico de Taiwan.
+**A Coragem de Sair da Zona de Conforto:**
+Na época, aos 54 anos, Morris Chang (張忠謀) possuía uma carreira bem-sucedida e uma vida confortável nos EUA. Escolher retornar a Taiwan foi uma decisão cheia de riscos e desafios, demonstrando seu senso de missão para o desenvolvimento tecnológico de Taiwan.
 
-**Reforma do ITRI:**
-Durante a presidência do ITRI, Chang promoveu a estreita ligação entre I&D e indústria, reestruturando as direções de investigação do instituto com mentalidade de gestão americana. A sua visão internacional transformou o ITRI, de órgão de investigação governamental, numa incubadora tecnológica com maior consciência comercial.
+**Reforma do SIRI:**
+Como diretor do SIRI, Morris Chang (張忠謀) promoveu uma ligação estreita entre P&D e a indústria, reorganizando a direção da pesquisa do SIRI com uma mentalidade gerencial americana. Sua visão internacional transformou o SIRI de um órgão de pesquisa governamental em um incubador tecnológico mais orientado para os negócios.
 
-### Avaliação da indústria de semicondutores de Taiwan
+### Avaliação da Indústria de Semicondutores de Taiwan
 
-**Análise do ambiente industrial:**
-Morris Chang examinou detidamente o ambiente e as vantagens industriais de Taiwan. Considerava que Taiwan dispunha de excelentes talentos de engenharia, custos relativamente baixos e capacidade de manufatura flexível — condições muito adequadas ao desenvolvimento da manufatura de semicondutores.
+**Análise do Ambiente Industrial:**
+Morris Chang (張忠謀) avaliou cuidadosamente o ambiente e as vantagens industriais de Taiwan. Ele acreditava que Taiwan possuía talentos de engenharia excelentes, custos relativamente baixos e capacidade de fabricação flexível, condições ideais para desenvolver a indústria de semicondutores.
 
-**Conceção do modelo de fundição:**
-Durante o período no ITRI, Chang começou a refletir sobre um modelo de negócio revolucionário — a fundição profissional de wafers. Essa conceção nasceu da sua profunda percepção das tendências do setor e da cristalização de anos de experiência industrial.
+**Concepção do Modelo de Fabricação por Contrato:**
+Durante seu tempo no SIRI, Morris Chang (張忠謀) começou a pensar em um modelo de negócios revolucionário — a fabricação pura especializada. Essa concepção surgiu de sua profunda percepção das tendências industriais e era o ápice de seus anos de experiência industrial.
 
-**Importância do apoio governamental:**
-Chang percebeu que o desenvolvimento da indústria de semicondutores exigia apoio integral do governo, incluindo investimento financeiro, cooperação política e formação de talentos. Manteve comunicação estreita com as autoridades, assegurando para a fundação da TSMC a estrutura especial de licenciamento tecnológico do ITRI e participação acionária do Estado.
+**A Importância do Apoio Governamental:**
+Morris Chang (張忠謀) reconheceu que o desenvolvimento da indústria de semicondutores exigia apoio governamental completo, incluindo investimento financeiro, cooperação política e formação de talentos. Ele se comunicou intimamente com funcionários do governo para garantir a estrutura especial de licenciamento tecnológico do SIRI e participação acionária do governo na fundação da TSMC.
 
-## O nascimento da TSMC: a inovação de 1987
+## O Nascimento da TSMC: Inovação em 1987
 
-### Ruptura do conceito de fundição profissional
+### A Inovação do Modelo de Fabricação por Contrato Especializada
 
-**Inovação do conceito de fundição:**
-Em 1987, Morris Chang propôs o conceito inovador de "fundição profissional de wafers". Diferente do modelo tradicional de fabricantes integrados de dispositivos (IDM), a TSMC dedicar-se-ia exclusivamente à manufatura por encomenda de chips para clientes, sem desenhar produtos próprios.
+**O Avanço do Conceito de Contrato:**
+Em 1987, Morris Chang (張忠謀) propôs o conceito inovador de "fabricação pura especializada"[^11]. Diferente do modelo tradicional de Integrated Device Manufacturer (IDM), a TSMC se concentraria em fabricar chips para clientes sem projetar seus próprios produtos.
 
-**Revolucionário modelo de negócio:**
-O caráter revolucionário desse modelo reside em permitir que empresas sem capacidade para construir fábricas de wafers também pudessem desenhar chips avançados, baixando drasticamente a barreira de entrada na indústria de semicondutores e propiciando o crescimento exponencial de empresas de design (fabless) dos anos 1990 aos 2020.
+**A Revolução do Modelo de Negócios:**
+A revolução desse modelo residia no fato de que permitiu que muitas empresas sem capacidade de construir fábricas projetassem chips avançados, reduzindo drasticamente a barreira de entrada na indústria de semicondutores e impulsionando o crescimento exponencial das empresas de design de chips nas décadas de 1990 e 2000.
 
-**Impacto no ecossistema industrial:**
-O modelo de fundição profissional criou um ecossistema industrial totalmente novo, permitindo que empresas de design se concentrassem na inovação e fundições na manufatura, realizando uma divisão de trabalho especializada que elevou a eficiência de toda a indústria.
+**Impacto no Ecossistema Industrial:**
+O modelo de fabricação pura criou um ecossistema industrial totalmente novo, permitindo que as empresas de design se concentrassem na inovação e as fábricas se concentrassem na manufatura, alcançando a divisão profissional e aumentando a eficiência de toda a indústria.
 
-### Processo de fundação da TSMC
+### O Processo de Fundação da TSMC
 
-**O momento histórico de 21 de fevereiro de 1987:**
-A 21 de fevereiro de 1987, a Taiwan Semiconductor Manufacturing Company foi formalmente constituída, com capital inicial de 22 mil milhões de novos dólares taiwaneses. Foi fruto da cooperação entre governo, empresas privadas nacionais e investidores estrangeiros.
+**O Momento Histórico de 21 de Fevereiro de 1987:**
+Em 21 de fevereiro de 1987, a Taiwan Semiconductor Manufacturing Company (TSMC) foi oficialmente fundada, com um capital inicial de NT$ 22 bilhões[^9]. Este foi o resultado da cooperação entre governo, empresas privadas e investidores estrangeiros.
 
-**Desenho da estrutura acionária:**
-A estrutura acionária da TSMC incluía o ITRI, a Philips dos Países Baixos e empresas privadas taiwanesas. Essa estrutura diversificada trouxe à TSMC recursos tecnológicos, financeiros e de mercado.
+**O Design da Estrutura Acionária:**
+A estrutura acionária da TSMC incluía o SIRI, a Philips Holandesa e empresas privadas de Taiwan[^10]. Essa estrutura acionária diversificada proporcionou à TSMC recursos tecnológicos, financeiros e de mercado.
 
-**Dupla função de Morris Chang:**
-Chang assumiu a presidência do conselho de administração e a gerência-geral (posteriormente redesignada CEO), responsável pela estratégia global e operações diárias. O seu estilo de liderança combinava a eficiência da gestão americana com a sabedoria da cultura chinesa.
+**A Dupla Identidade de Morris Chang (張忠謀):**
+Morris Chang (張忠謀) serviu como presidente e gerente geral da TSMC (posteriormente renomeado CEO), responsável pela estratégia geral e operação diária da empresa. Seu estilo de liderança combinava a eficiência do gerenciamento americano com a sabedoria cultural chinesa.
 
-## Histórico de desenvolvimento da TSMC
+## A Trajetória de Desenvolvimento da TSMC
 
-### Desafios e rupturas iniciais
+### Desafios e Avanços Iniciais
 
-**1987–1990: período árduo de arranque:**
-Nos primórdios, a TSMC enfrentou enormes desafios. A fundição profissional era modelo comercial inédito; o mercado mostrava ceticismo e os clientes precisavam de tempo para aceitar o conceito. Chang teve de construir simultaneamente capacidade de manufatura e convencer clientes.
+**1987-1990: Período de Luta Empresarial:**
+A TSMC enfrentou enormes desafios em seus primeiros anos. A fabricação pura era um modelo de negócios totalmente novo, e o mercado estava cético quanto a ele; os clientes precisavam de tempo para aceitar esse conceito. Morris Chang (張忠謀) teve que construir a capacidade de manufatura e convencer os clientes simultaneamente.
 
-**Estabelecimento da capacidade tecnológica:**
-A tecnologia inicial da TSMC proveio da transferência do ITRI e da cooperação com a Philips. Chang liderou a equipa na rápida aprendizagem e melhoria de processos, estabelecendo capacidade de manufatura fiável.
+**Construção da Capacidade Técnica:**
+A tecnologia inicial da TSMC veio da transferência do SIRI e da cooperação com a Philips. Morris Chang (張忠謀) liderou a equipe para aprender e melhorar rapidamente as tecnologias de processo, estabelecendo uma capacidade de manufatura confiável.
 
-**Conquista dos primeiros clientes:**
-Os primeiros clientes da TSMC foram sobretudo empresas fabless americanas. Essas empresas necessitavam precisamente de serviços profissionais de fundição, fornecendo à TSMC a base de negócio inicial.
+**Desenvolvimento dos Primeiros Clientes:**
+Os primeiros clientes da TSMC eram principalmente empresas de semicondutores _fabless_ americanas. Essas empresas precisavam exatamente do serviço de fabricação por contrato, fornecendo a base comercial inicial para a TSMC.
 
-### Desenvolvimento rápido nos anos 1990
+### Crescimento Rápido na Década de 1990
 
-**Estratégia de liderança tecnológica:**
-Nos anos 1990, Morris Chang formulou a estratégia de "liderança tecnológica", investindo massivamente em I&D para garantir que a TSMC não ficaria para trás em nenhuma geração de processos. A TSMC construiu sucessivas fábricas de wafers em Taiwan, expandindo a base de clientes das primeiras empresas fabless americanas para as principais empresas de design globais, como Qualcomm, Broadcom e NVIDIA.
+**Estratégia de Liderança Tecnológica:**
+Na década de 1990, Morris Chang (張忠謀) estabeleceu a estratégia de "liderança tecnológica", investindo pesadamente em P&D para garantir que a TSMC não ficasse atrás dos concorrentes em nenhuma geração de processo. A TSMC construiu várias fábricas em Taiwan, e sua base de clientes se expandiu das empresas _fabless_ americanas iniciais para grandes projetistas globais como Qualcomm, Broadcom e Nvidia.
 
-### Liderança no século XXI
+### Posição Líder no Século XXI
 
-**Competição em processos avançados:**
-Entrado o século XXI, o desenvolvimento da tecnologia de processos de semicondutores tornou-se cada vez mais difícil e dispendioso. A TSMC, graças a investimentos anuais em I&D consistentemente superiores à média do setor, manteve a liderança no domínio de processos avançados.
+**Competição em Processos Avançados:**
+No século XXI, o desenvolvimento da tecnologia de processo de semicondutores tornou-se cada vez mais difícil e caro. A TSMC manteve sua posição de liderança na área de processos avançados graças ao investimento em P&D anual superior à média do setor.
 
-**Rupturas de 28 nm a 5 nm:**
-De 28 nm a 16 nm, 7 nm, e depois 5 nm e 3 nm, a TSMC manteve a liderança tecnológica em cada geração de processos avançados, consolidando a sua posição no mercado de alta gama.
+**Avanços de 28nm a 5nm:**
+De 28nm para 16nm, 7nm, e depois para 5nm e 3nm, a TSMC manteve a liderança tecnológica em cada geração avançada de processo, consolidando sua posição no mercado de ponta.
 
-**Marco da cooperação com a Apple:**
-A cooperação com a Apple, iniciada em 2013 com os chips da série A, trouxe à TSMC a fundição dos processadores nucleares de iPhones e iPads, gerando volume de encomendas massivo e submetendo a capacidade de processos avançados da TSMC à mais rigorosa validação comercial.[^2]
+**Marco da Parceria com a Apple:**
+A parceria com a Apple, que começou com os chips Série A em 2013, fez a TSMC fabricar processadores centrais para iPhone e iPad, gerando um enorme volume de pedidos e fornecendo a validação comercial mais rigorosa da capacidade avançada de processo da TSMC[^12].
 
-## Filosofia de gestão e pensamento directivo
+## Filosofia Gerencial e Conceito Operacional
 
-### Insistência na inovação tecnológica
+### A Persistência na Inovação Tecnológica
 
-**Valorização do investimento em I&D:**
-Morris Chang sempre sublinhou a importância da inovação tecnológica; a TSMC destina anualmente cerca de 8% da receita a I&D, assegurando que não fica tecnologicamente atrás dos concorrentes.[^3] Na era em que a Lei de Moore enfrenta limites físicos, Chang liderou a TSMC na sucessiva ruptura dos processos de 7 nm, 5 nm e 3 nm, fornecendo capacidade de manufatura para o desenvolvimento de toda a indústria de semicondutores.
+**Ênfase no Investimento em P&D:**
+Morris Chang (張忠謀) sempre enfatizou a importância da inovação tecnológica. A TSMC investiu cerca de 8% de sua receita anualmente em P&D, garantindo que não ficasse para trás tecnologicamente dos concorrentes[^13]. Em uma era onde a Lei de Moore enfrentava limites físicos, Morris Chang (張忠謀) liderou a TSMC a ultrapassar os processos de 7nm, 5nm e 3nm sucessivamente, fornecendo capacidade de manufatura para o desenvolvimento da indústria de semicondutores como um todo.
 
-**Equilíbrio entre tecnologia e mercado:**
-Chang soube encontrar o ponto de equilíbrio entre liderança tecnológica e procura de mercado, mantendo vantagem tecnológica sem deixar de assegurar valor comercial, evitando antecipação excessiva que encarecesse os custos.
+**Equilíbrio entre Tecnologia e Mercado:**
+Morris Chang (張忠謀) era habilidoso em encontrar um equilíbrio entre a liderança tecnológica e a demanda do mercado, precisando manter a vantagem técnica ao mesmo tempo que garantia o valor comercial da tecnologia, evitando custos excessivos por antecipação exagerada.
 
-### Formação de talentos e cultura empresarial
+### Desenvolvimento de Talentos e Cultura Empresarial
 
-**Cultura empresarial baseada na integridade:**
-Morris Chang estabeleceu na TSMC uma cultura empresarial centrada na integridade. Enfatizou os valores nucleares de "integridade, compromisso, inovação, confiança do cliente", que se tornaram os alicerces culturais da TSMC.
+**Cultura Corporativa de Integridade:**
+Morris Chang (張忠謀) estabeleceu uma cultura corporativa centrada na integridade na TSMC. Ele enfatizou os valores centrais de "integridade, compromisso, inovação e confiança do cliente", que se tornaram a base cultural da TSMC.
 
-**Ênfase no desenvolvimento de talentos:**
-Chang atribui grande importância à formação de talentos, criando na TSMC sistemas estruturados de treino e progressão de engenheiros. Considera o talento a competitividade nuclear da empresa; a TSMC mantém taxa de rotatividade muito abaixo da média do setor, tendo formado equipas nucleares que depois lideraram a empresa, como C.C. Wei e Mark Liu.
+**Valorização do Desenvolvimento de Pessoas:**
+Morris Chang (張忠謀) dava grande importância à formação de talentos. Na TSMC, ele estabeleceu um sistema sistemático de treinamento e promoção de engenheiros. Ele acreditava que o talento era a força competitiva central da empresa; enquanto a taxa de rotatividade da TSMC era muito menor do que a média da indústria, ele também formou equipes centrais como Liu De-yin (劉德音) e Wei Zhe-jia (魏哲家), que mais tarde lideraram a TSMC.
 
-**Estilo de gestão internacionalizado:**
-Chang introduziu na TSMC a eficiência e transparência da gestão americana, construindo uma estrutura moderna de governança corporativa. Simultaneamente, integrou a sabedoria da cultura chinesa, criando uma cultura empresarial única.
+**Estilo Gerencial Internacionalizado:**
+Morris Chang (張忠謀) introduziu a eficiência e a transparência do gerenciamento americano na TSMC, estabelecendo uma estrutura de governança corporativa moderna. Ao mesmo tempo, ele incorporou a sabedoria da cultura chinesa, criando uma cultura empresarial única.
 
-### Pensamento estratégico e capacidade de execução
+### Pensamento Estratégico e Execução
 
-**Formulação de estratégia de longo prazo:**
-Morris Chang possui notável capacidade de pensamento estratégico, sabendo perscrutar tendências do setor e formular estratégias de desenvolvimento de longo prazo. A estratégia de "liderança tecnológica" da TSMC é a encarnação da sua visão estratégica.
+**Estabelecimento de Estratégias de Longo Prazo:**
+Morris Chang (張忠謀) possuía um excelente pensamento estratégico, capaz de perceber tendências industriais e formular estratégias de desenvolvimento de longo prazo. A estratégia de "liderança tecnológica" da TSMC é uma manifestação de sua visão estratégica.
 
-**Valorização da execução:**
-Além da formulação estratégica, Chang dá enorme peso à execução. Estabeleceu sistemas de gestão precisos, fazendo com que os roteiros tecnológicos passem da decisão à implementação nas fábricas de wafers — razão chave para a TSMC acompanhar o ritmo de cada geração de processos.
+**Ênfase na Execução:**
+Além do planejamento estratégico, Morris Chang (張忠謀) também dava grande importância à execução. Ele estabeleceu um sistema de gestão preciso, permitindo que os planos tecnológicos fossem implementados desde a decisão até a fábrica de wafers, o que foi crucial para a TSMC acompanhar o ritmo de cada geração de processo.
 
-**Sabedoria na gestão de crises:**
-Perante diversas crises e desafios, Chang demonstrou excecional capacidade de liderança e sabedoria na gestão de crises, guiando a TSMC através de múltiplos períodos difíceis e mantendo o desenvolvimento estável da empresa.
+**Sabedoria na Resposta a Crises:**
+Ao enfrentar vários crises e desafios, Morris Chang (張忠謀) demonstrou uma excelente capacidade de liderança e sabedoria em resposta a crises, guiando a TSMC através de períodos difíceis e mantendo o desenvolvimento estável da empresa.
 
-## Reforma e sucessão
+## Aposentadoria e Legado
 
-### Primeira reforma em 2005
+### Primeira Aposentadoria em 2005
 
-**Lançamento do plano de sucessão:**
-Em 2005, aos 74 anos, Morris Chang anunciou a reforma, passando o cargo de CEO a Rick Tsai. Fez parte do seu meticuloso plano de sucessão, refletindo o seu sentido de responsabilidade pela continuidade da empresa.
+**Início do Plano de Sucessão:**
+Em 2005, aos 74 anos, Morris Chang (張忠謀) anunciou sua aposentadoria, passando o cargo de CEO para Tsai Li-hing (蔡力行)[^14]. Isso fazia parte de um plano de sucessão cuidadosamente preparado, demonstrando seu senso de responsabilidade pelo desenvolvimento sustentável da empresa.
 
-**Manutenção da presidência do conselho:**
-Embora deixando a CEO, Chang conservou a presidência do conselho, continuando a participar nas grandes decisões estratégicas, oferecendo orientação e apoio à equipa sucessora.
+**Manutenção do Cargo de Presidente:**
+Embora tenha renunciado ao cargo de CEO, Morris Chang (張忠謀) manteve o cargo de presidente, continuando a participar das decisões estratégicas importantes da empresa e fornecendo orientação e apoio à equipe sucessora.
 
-**Arranjos da vida pós-reforma:**
-Após a reforma, Chang não se afastou completamente das atividades empresariais; representou Taiwan em fóruns internacionais como a APEC e partilhou, em múltiplas palestras, a sua visão sobre geopolítica e futuro dos semicondutores.
+**Organização da Vida Pós-Aposentadoria:**
+Após a aposentadoria, Morris Chang (張忠謀) não se afastou completamente dos negócios; ele participava de fóruns internacionais como representante de Taiwan e compartilhava suas opiniões sobre geopolítica e o futuro dos semicondutores em várias palestras.
 
-### Regresso em 2009
+### Retorno em 2009
 
-**Desafio da crise financeira:**
-A crise financeira global de 2008 abalou severamente a TSMC, que enfrentou queda de resultados e intensificação da concorrência. Nesse momento crítico, Morris Chang decidiu regressar.
+**O Desafio da Crise Financeira:**
+A crise financeira global de 2008 afetou gravemente a TSMC, que enfrentou os desafios duplos do declínio das vendas e da intensificação da concorrência. Neste momento crucial, Morris Chang (張忠謀) decidiu retornar.
 
-**Reassunção do cargo de CEO:**
-Em 2009, aos 78 anos, Morris Chang reassumiu o cargo de CEO da TSMC, liderando pessoalmente a empresa na travessia do período difícil. O seu regresso estabilizou a confiança do mercado e forneceu liderança para a recuperação da empresa.
+**Retorno como CEO:**
+Em 2009, aos 78 anos, Morris Chang (張忠謀) retornou à TSMC como CEO[^15], liderando pessoalmente a empresa através do período difícil. Seu retorno estabilizou a confiança do mercado e forneceu liderança para a recuperação da empresa.
 
-**Formação de C.C. Wei e Mark Liu:**
-Durante o segundo mandato, Chang focou-se na formação de C.C. Wei e Mark Liu como sucessores, preparando o talento para o futuro desenvolvimento da empresa.
+**Formação de Liu De-yin e Wei Zhe-jia:**
+Em seu segundo mandato, Morris Chang (張忠謀) focou na formação de sucessores como Liu De-yin (劉德音) e Wei Zhe-jia (魏哲家), preparando talentos para o futuro desenvolvimento da empresa.
 
-### Reforma formal em 2018
+### Aposentadoria Oficial em 2018
 
-**Conclusão do plano de sucessão:**
-A 5 de junho de 2018, aos 87 anos, Morris Chang reformou-se formalmente, encerrando 31 anos de carreira lendária na TSMC. Passou a presidência do conselho a Mark Liu e o cargo de CEO a C.C. Wei.
+**Conclusão do Plano de Legado:**
+Em junho de 2018, aos 87 anos, Morris Chang (張忠謀) se aposentou oficialmente, encerrando sua lendária carreira na TSMC por 31 anos[^16]. Ele passou o cargo de presidente para Liu De-yin (劉德音) e o cargo de CEO para Wei Zhe-jia (魏哲家).
 
-**Estabelecimento do sistema de dupla liderança:**
-Chang instituiu o "sistema de dupla liderança": Mark Liu como presidente do conselho, responsável pelo externo; C.C. Wei como CEO, responsável pelo interno. Esse arranjo institucional favorece o desenvolvimento estável da empresa.
+**Estabelecimento da Dupla Liderança:**
+Morris Chang (張忠謀) estabeleceu um sistema de "dupla liderança": Liu De-yin (劉德音) como presidente, responsável pelo exterior, e Wei Zhe-jia (魏哲家) como CEO, responsável pelo interior. Esse arranjo ajudou no desenvolvimento estável da empresa.
 
-**Paradigma de retirada no auge:**
-A reforma de Morris Chang é considerada paradigma de sucessão empresarial; retirou-se no momento adequado, dando espaço pleno à nova geração de líderes, assegurando simultaneamente a transição estável da empresa.
+**Um Exemplo de Saída Honrosa:**
+A aposentadoria de Morris Chang (張忠謀) foi vista como um modelo de sucessão corporativa; ele saiu em um momento oportuno, dando espaço para a nova geração de líderes brilhar, ao mesmo tempo que garantiu uma transição estável da empresa.
 
-## Impacto na indústria global de semicondutores
+## Influência na Indústria Global de Semicondutores
 
-### Inovação do modelo de negócio
+### Inovação do Modelo de Negócios
 
-**Popularização do modelo de fundição profissional:**
-O modelo de fundição profissional criado por Morris Chang tornou-se um dos modelos de negócio padrão da indústria de semicondutores. Centenas de empresas fabless no mundo dependem dos serviços de fundição, modelo que impulsionou enormemente o desenvolvimento do setor.
+**Popularização do Contrato Especializado:**
+O modelo de fabricação pura criado por Morris Chang (張忠謀) tornou-se um dos modelos de negócios padrão da indústria de semicondutores. Centenas de empresas _fabless_ em todo o mundo dependem dos serviços das fábricas, e esse modelo impulsionou enormemente o desenvolvimento da indústria.
 
-**Reconfiguração do ecossistema industrial:**
-O modelo de fundição profissional reconfigurou o ecossistema da indústria de semicondutores, promovendo a divisão de trabalho especializada, elevando a eficiência industrial e baixando a barreira à inovação, permitindo que mais empresas participassem no design de chips.
+**Reestruturação do Ecossistema Industrial:**
+O modelo de fabricação pura reestruturou o ecossistema industrial de semicondutores, promovendo a divisão profissional, aumentando a eficiência da indústria e reduzindo a barreira à inovação, permitindo que mais empresas participassem do design de chips.
 
-**Estabelecimento da cadeia de abastecimento global:**
-A TSMC tornou-se nó crítico da cadeia de abastecimento global de semicondutores, fornecendo serviços de manufatura a empresas tecnológicas de todo o mundo, estabelecendo uma cadeia de abastecimento verdadeiramente globalizada.
+**Criação da Cadeia de Suprimentos Global:**
+A TSMC se tornou um nó crucial na cadeia de suprimentos global de semicondutores, fornecendo serviços de manufatura para empresas tecnológicas em todo o mundo e estabelecendo uma cadeia de suprimentos de semicondutores verdadeiramente globalizada.
 
-### Impulso ao progresso tecnológico
+### Impulso ao Progresso Tecnológico
 
-**Liderança em tecnologia de processos:**
-Sob a liderança de Morris Chang, a TSMC manteve posição de liderança global em tecnologia de processos, impulsionando o progresso tecnológico de toda a indústria de semicondutores e prolongando a vitalidade da Lei de Moore.
+**Liderança em Tecnologia de Processo:**
+Sob a liderança de Morris Chang (張忠謀), a TSMC manteve sua posição de liderança global em tecnologia de processo, impulsionando o progresso tecnológico da indústria de semicondutores como um todo e prolongando a vida útil da Lei de Moore.
 
-**Democratização de processos avançados:**
-Os serviços de processos avançados da TSMC permitem que empresas de design de menor dimensão também utilizem a tecnologia mais recente, realizando a "democratização" de processos avançados — uma startup fabless de poucas dezenas de pessoas pode mandar fabricar chips de 7 nm na TSMC.
+**Democratização dos Processos Avançados:**
+O serviço de processos avançados da TSMC permitiu que empresas de design menores também usassem as tecnologias mais recentes, realizando a "democratização" dos processos avançados — uma startup _fabless_ com algumas dezenas de funcionários poderia fazer a TSMC produzir chips de 7nm.
 
-**Abertura de novos domínios tecnológicos:**
-A capacidade de manufatura da TSMC abrange chips digitais, aceleradores de IA, semicondutores automóveis e outras áreas de aplicação, fornecendo base de manufatura para diversas tecnologias emergentes.
+**Exploração de Novas Áreas Tecnológicas:**
+A capacidade de fabricação da TSMC abrange diferentes áreas de aplicação, como chips digitais, aceleradores de IA e semicondutores automotivos, fornecendo uma base de manufatura para várias tecnologias emergentes.
 
-## Significado para Taiwan: fundador da ilha tecnológica
+## Significado para Taiwan: Fundador da Ilha Tecnológica
 
-### Desenvolvimento da indústria tecnológica
+### Desenvolvimento Industrial Tecnológico
 
-**Estabelecimento da montanha sagrada da pátria:**
-A TSMC é apelidada de "montanha sagrada da pátria" de Taiwan, não só pelo seu imenso valor económico, mas pela sua posição crítica na cadeia de abastecimento tecnológica global. Morris Chang dotou Taiwan deste ativo estratégico, o mais difícil de substituir fora da defesa nacional.
+**A Criação do "Monte da Defesa Nacional":**
+A TSMC é conhecida como o "Monte da Defesa Nacional" (護國神山) de Taiwan, não apenas por seu enorme valor econômico, mas também por sua posição crucial na cadeia de suprimentos tecnológica global. Morris Chang (張忠謀) estabeleceu este ativo estratégico mais irreplaceável para a defesa de Taiwan.
 
-**Formação de talentos tecnológicos:**
-O desenvolvimento da TSMC formou grande quantidade de profissionais de semicondutores; esses talentos não só sustentaram o crescimento da TSMC, como forneceram base de talentos para toda a indústria tecnológica de Taiwan.
+**Formação de Talentos Tecnológicos:**
+O desenvolvimento da TSMC formou um grande número de profissionais especializados em semicondutores, que não apenas sustentaram o desenvolvimento da TSMC, mas também forneceram uma base de talentos para toda a indústria tecnológica de Taiwan.
 
-**Formação de aglomerado industrial:**
-Em torno da TSMC, Taiwan formou um aglomerado industrial de semicondutores que abrange fornecedores de equipamentos, materiais e empresas de embalagem e teste, criando enorme valor industrial.
+**Formação de Aglomerados Industriais:**
+Com a TSMC no centro, Taiwan desenvolveu aglomerados industriais de semicondutores que abrangem fornecedores de equipamentos, fornecedores de materiais e fábricas de embalagem e teste, criando um enorme valor industrial.
 
-### Contributo para o desenvolvimento económico
+### Contribuição para o Desenvolvimento Econômico
 
-**Importante contributo para o PIB:**
-A TSMC tornou-se a maior empresa de Taiwan, com contributo muito significativo para o PIB. O sucesso da empresa impulsionou também o desenvolvimento de indústrias conexas, criando grande número de empregos.
+**Contribuição Importante para o PIB:**
+A TSMC se tornou a maior empresa de Taiwan e sua contribuição para o PIB taiwanês é muito importante. O sucesso da empresa também impulsionou o desenvolvimento de indústrias relacionadas, criando muitos empregos.
 
-**Pilar do comércio de exportação:**
-Os semicondutores representam cerca de um terço do total das exportações de Taiwan; o sucesso da TSMC elevou grandemente a posição de Taiwan no comércio global e reforçou a competitividade da economia taiwanesa.[^5]
+**Pilar do Comércio de Exportação:**
+Os semicondutores representam cerca de um terço do total das exportações de Taiwan, e o sucesso da TSMC aumentou significativamente o status de Taiwan no comércio global e fortaleceu a competitividade econômica de Taiwan[^17].
 
-**Melhoria do ambiente de investimento:**
-O caso de sucesso da TSMC atraiu mais investimento internacional, melhorou o ambiente de investimento de Taiwan e elevou a posição de Taiwan perante investidores globais.
+**Melhoria do Ambiente de Investimento:**
+O caso de sucesso da TSMC atraiu mais investimentos internacionais, melhorando o ambiente de investimento em Taiwan e elevando o status de Taiwan na mente dos investidores globais.
 
-### Impacto geopolítico
+### Influência Geopolítica
 
-**Importância da soberania tecnológica:**
-No atual ambiente geopolítico, a tecnologia de semicondutores tornou-se ficheiro central da competição entre grandes potências. A TSMC, detentora dos processos mais avançados do mundo, confere a Taiwan posição estratégica insubstituível na comunidade internacional.
+**A Importância da Soberania Tecnológica:**
+No atual cenário geopolítico, a tecnologia de semicondutores é um ativo central na competição entre grandes potências. A TSMC detém os processos mais avançados do mundo, dando a Taiwan um status estratégico irreplaceável na sociedade internacional.
 
-**Ficha nas relações internacionais:**
-A posição crítica da TSMC na cadeia de abastecimento tecnológica global dá a Taiwan, nas questões de semicondutores, poder de fala que as grandes potências são forçadas a levar a sério. EUA, UE e Japão têm sucessivamente convidado a TSMC a construir fábricas com subsídios, demonstrando o peso real desse estatuto.
+**Peça no Xadrez das Relações Internacionais:**
+A posição crucial da TSMC na cadeia de suprimentos tecnológica global dá a Taiwan uma voz que até as grandes potências precisam levar a sério em questões de semicondutores. Os Estados Unidos, a União Europeia e o Japão sucessivamente ofereceram subsídios para convidar a TSMC a construir fábricas, demonstrando o verdadeiro peso desse status.
 
-**Considerações de estratégia de segurança:**
-A atenção das nações à tecnologia de semicondutores traz a Taiwan novos desafios e oportunidades de segurança. Como equilibrar os interesses de todas as partes e manter a vantagem competitiva da TSMC é um dos temas nucleares da política externa e de segurança de Taiwan.
+**Considerações Estratégicas de Segurança:**
+A atenção mundial à tecnologia de semicondutores também apresenta novos desafios e oportunidades de segurança para Taiwan. Como equilibrar os interesses das partes e manter a vantagem competitiva da TSMC é uma questão central na política externa e de segurança de Taiwan.
 
-## Traços pessoais e estilo de liderança
+## Características Pessoais e Estilo de Liderança
 
-### Combinação de visão e execução
+### Combinação de Visão e Execução
 
-**Excecional visão estratégica:**
-O maior traço de Morris Chang é a excecional visão estratégica. Consegue perscrutar tendências do setor e antever direções futuras de desenvolvimento; essa visão de longo alcance é fator-chave do sucesso da TSMC.
+**Excelência em Visão Estratégica:**
+A maior característica de Morris Chang (張忠謀) é sua visão estratégica excepcional. Ele era capaz de perceber tendências industriais e prever direções futuras; essa perspicácia foi um fator chave para o sucesso da TSMC.
 
-**Capacidade de execução pragmática:**
-Além da visão, Chang possui notável capacidade de execução. Sabe converter conceitos estratégicos em planos de ação concretos e acompanhar cada detalhe de execução — combinação rara no mundo empresarial.
+**Capacidade Executiva Prática:**
+Além da visão, Morris Chang (張忠謀) possuía uma excelente capacidade executiva. Ele conseguia transformar concepções estratégicas em planos de ação concretos e acompanhar cada detalhe da execução; essa combinação de pensamento estratégico e execução é rara no mundo corporativo.
 
-**Atitude de aprendizagem contínua:**
-Mesmo em idade avançada, Chang mantém o hábito de leitura ampla e atenção ao desenvolvimento do setor. Declarou publicamente continuar a aprender literatura e filosofia; essa atitude mantém o seu pensamento agudo mesmo na velhice.
+**Atitude de Aprendizagem ao Longo da Vida:**
+Mesmo em idade avançada, Morris Chang (張忠謀) manteve o hábito de ler amplamente e se manter atualizado sobre o desenvolvimento industrial. Ele disse publicamente que ainda estudava literatura e filosofia, mantendo seu pensamento aguçado na velhice.
 
-### Características do estilo de liderança
+### Características do Estilo de Liderança
 
-**Liderança carismática:**
-Morris Chang possui forte carisma pessoal e poder de persuasão, capaz de motivar equipas para objetivos comuns. As suas palestras e artigos exprimem sempre conceitos complexos com clareza, granjeando profundo respeito de colaboradores e profissionais do setor.
+**Liderança Carismática:**
+Morris Chang (張忠謀) possuía um forte carisma pessoal e poder de persuasão, capaz de inspirar a equipe a trabalhar por objetivos comuns. Seus discursos e artigos sempre expressavam conceitos complexos de forma clara, sendo respeitados por funcionários e profissionais da indústria.
 
-**Insistência na decisão racional:**
-Perante grandes decisões, Chang mantém sempre análise racional, baseando juízos em factos e dados, evitando que emoções ou considerações políticas afetem a correção das decisões.
+**Insistência na Decisão Racional:**
+Ao enfrentar decisões importantes, Morris Chang (張忠謀) sempre insistia em análises racionais, tomando julgamentos baseados em fatos e dados, evitando que emoções ou considerações políticas afetassem a precisão das decisões.
 
-**Prática do pensamento de longo prazo:**
-Chang adere consistentemente ao pensamento de longo prazo, sem se deixar afetar por dificuldades ou interesses de curto prazo. No auge da crise financeira de 2008, manteve a aprovação do orçamento de I&D para processos avançados; foi essa perspetiva de longo prazo que permitiu à TSMC, após a crise, alargar a distância para os concorrentes.
+**Prática do Pensamento de Longo Prazo:**
+Morris Chang (張忠謀) sempre manteve o pensamento de longo prazo, não sendo afetado por dificuldades ou interesses de curto prazo. Mesmo no auge da crise financeira de 2008, ele aprovou orçamentos de P&D para processos avançados; essa perspectiva de longo prazo permitiu que a TSMC criasse uma distância em relação aos concorrentes após a crise.
 
-## Honrarias e reconhecimento
+## Honrarias e Reconhecimento
 
-### Prémios e reconhecimento internacionais
+### Prêmios e Reconhecimento Internacionais
 
-**Medalha de Honra da IEEE:**
-Morris Chang recebeu múltiplas Medalhas de Honra do Instituto de Engenheiros Eletricistas e Eletrónicos (IEEE), importante reconhecimento do seu contributo para o desenvolvimento da tecnologia de semicondutores.
+**Medalhas Honoríficas da IEEE:**
+Morris Chang (張忠謀) recebeu várias medalhas honoríficas da Institute of Electrical and Electronics Engineers (IEEE), um reconhecimento importante de sua contribuição para o desenvolvimento da tecnologia de semicondutores.
 
-**Doutoramentos honorários:**
-Incluindo Universidade de Stanford, MIT, Universidade Nacional Tsing Hua e outras prestigiosas universidades outorgaram a Morris Chang doutoramentos honorários, louvando o seu contributo para a indústria tecnológica e a educação.
+**Doutorados Honorários de Várias Nações:**
+Universidades renomadas, incluindo Stanford, MIT e Tsinghua University, concederam a Morris Chang (張忠謀) doutorados honorários em reconhecimento às suas contribuições para a indústria tecnológica e a educação.
 
-**Seleções de revistas de negócios:**
-Chang foi múltiplas vezes incluído pela _Fortune_, _BusinessWeek_ e outras revistas internacionais de negócios entre os líderes contemporâneos de topo da indústria tecnológica, consolidando o seu estatuto no mundo empresarial global.
+**Avaliações de Revistas Comerciais:**
+Morris Chang (張忠謀) foi várias vezes listado por revistas comerciais internacionais como _Forbes_ e _Fortune_ entre os líderes tecnológicos mais proeminentes da época, estabelecendo seu status no mundo dos negócios global.
 
 ### Reconhecimento em Taiwan
 
-**Condecorações governamentais:**
-O governo de Taiwan concedeu a Morris Chang múltiplas condecorações importantes, louvando a sua contribuição excecional para o desenvolvimento económico e progresso tecnológico de Taiwan.
+**Concessão de Medalhas Governamentais:**
+O governo de Taiwan concedeu a Morris Chang (張忠謀) várias medalhas importantes por sua contribuição excepcional para o desenvolvimento econômico e o progresso tecnológico de Taiwan.
 
-**Reverência da indústria:**
-Chang é reverenciado pela indústria taiwanesa como "padrinho dos semicondutores"; a sua experiência e sabedoria tornaram-se modelo de aprendizagem para as novas gerações de empresários.
+**Veneração da Indústria:**
+Morris Chang (張忠謀) é reverenciado pela indústria de Taiwan como o "Pai dos Semicondutores", e sua experiência e sabedoria servem de modelo para jovens empresários.
 
-**Reconhecimento da influência social:**
-Além das conquistas empresariais, a influência social de Chang obteve amplo reconhecimento; a sua contribuição para o desenvolvimento da sociedade taiwanesa é altamente avaliada por todos os setores.
+**Reconhecimento do Impacto Social:**
+Além das realizações comerciais, a influência social de Morris Chang (張忠謀) também foi amplamente reconhecida; sua contribuição para o desenvolvimento da sociedade taiwanesa recebeu alta avaliação de todos os setores.
 
-## Reflexão filosófica e sabedoria de vida
+## Reflexões Filosóficas e Sabedoria de Vida
 
-### Compreensão do sucesso
+### Compreensão do Sucesso
 
-**Combinação de capacidade e oportunidade:**
-Morris Chang considera que o sucesso requer a combinação de capacidade e oportunidade; a capacidade é a base, mas é preciso saber aproveitar o momento. Enfatiza a importância da preparação: a oportunidade favorece sempre quem está preparado.
+**Combinação de Força e Oportunidade:**
+Morris Chang (張忠謀) acreditava que o sucesso exigia a combinação de força e oportunidade; a força era a base, mas também era preciso aproveitar o momento. Ele enfatizava a importância da preparação: as oportunidades sempre são dadas àqueles que estão preparados.
 
-**Valor da persistência de longo prazo:**
-Sublinha a importância da persistência de longo prazo, considerando que o verdadeiro sucesso necessita de acumulação temporal, não podendo ser apressado. O sucesso da TSMC é resultado de persistência de longo prazo.
+**O Valor da Persistência de Longo Prazo:**
+Ele enfatizou a importância da persistência de longo prazo, acreditando que o verdadeiro sucesso requer acumulação de tempo e não pode ser apressado. O sucesso da TSMC é um resultado da perseverança de longo prazo.
 
-**Necessidade da inovação:**
-Chang entende que, na indústria tecnológica, a inovação é condição de sobrevivência. A história da TSMC demonstra: basta parar a ruptura em processos para que os concorrentes preencham o vazio.
+**A Necessidade da Inovação:**
+Morris Chang (張忠謀) considerava a inovação como uma condição necessária para a sobrevivência na indústria tecnológica. A história da TSMC demonstra: se parar o avanço do processo, os concorrentes preencherão o vácuo.
 
-### Sentimentos sobre a vida
+### Reflexões sobre a Vida
 
-**Equilíbrio entre trabalho e vida:**
-Apesar do enorme sucesso profissional, Chang valoriza o equilíbrio entre trabalho e vida. Gosta de ler e ouvir música; esses hobbies proporcionam-lhe nutrição espiritual.
+**Equilíbrio entre Trabalho e Vida:**
+Embora extremamente bem-sucedido profissionalmente, Morris Chang (張忠謀) também enfatizava a importância do equilíbrio entre trabalho e vida. Ele gostava de ler e ouvir música; esses hobbies lhe proporcionavam nutrição espiritual.
 
-**Assunção de responsabilidade social:**
-Chang considera que empresários de sucesso têm responsabilidade de retribuir à sociedade; doou à Universidade Nacional Tsing Hua e outras instituições académicas, participou em discussões de política educativa e apresentou propostas concretas para a reforma do ensino superior em Taiwan.[^4]
+**Assunção da Responsabilidade Social:**
+Morris Chang (張忠謀) acreditava que um empresário bem-sucedido tem o dever de retribuir à sociedade. Ele liderou a TSMC em doações a instituições acadêmicas como a Tsinghua University, e participou de discussões sobre políticas educacionais, fazendo sugestões concretas para a reforma da educação superior de Taiwan[^18].
 
-**Importância da transmissão:**
-Atribui grande importância à transmissão de conhecimento e experiência; não só formou sucessores no interior da empresa, como partilhou a sua experiência e sabedoria por diversas vias.
+**A Importância da Transmissão:**
+Ele dava grande importância à transmissão de conhecimento e experiência, não apenas formando sucessores dentro da empresa, mas também compartilhando suas experiências e sabedoria por vários meios.
 
-## Avaliação histórica
+## Avaliação Histórica
 
-Quando Morris Chang se reformou em 2018, o valor de mercado da TSMC superou o da Intel, tornando-se a empresa de semicondutores mais valiosa do mundo.[^5] Em 31 anos, ele verificou uma tese contra-intuitiva: uma fundição que não desenha os seus próprios chips pode tornar-se a base de manufatura de toda a era digital.
+Ao se aposentar em 2018, o valor de mercado da TSMC ultrapassou o da Intel, tornando-a uma das empresas de semicondutores mais valiosas do mundo[^19]. Ele validou com 31 anos um postulado contraintuitivo: uma fábrica que não projeta seus próprios chips pode se tornar a base de manufatura para toda a era digital.
 
-De Ningbo, Zhejiang, a Harvard, MIT, da alta gestão da Texas Instruments à renúncia, aos 54 anos, à vida confortável nos EUA para regressar a Taiwan, cada uma das suas voltas fugiu à escolha mainstream, mas todas apontaram na mesma direção. A posição da TSMC hoje é tanto resultado da competição tecnológica de semicondutores quanto da aposta, em 1987, num modelo de negócio em que poucos acreditavam.
+De Ningbo, Zhejiang, passando por Harvard e MIT, e de executivo da Texas Instruments à aposentadoria aos 54 anos renunciando ao conforto americano, cada mudança dele não foi uma escolha majoritária, mas todos os resultados apontaram para a mesma direção. O status atual da TSMC é o resultado da competição tecnológica em semicondutores e também do investimento no modelo de negócios que poucos acreditavam em 1987.
 
-Em 2024, o valor de mercado da TSMC ultrapassou os 10 biliões de novos dólares taiwaneses, convertendo-se numa das empresas tecnológicas de maior valor de mercado da Ásia — escala difícil de imaginar quando, em 1987, fez essa aposta; é a nota de rodapé mais nítida de toda a sua vida.
+Em 2024, o valor de mercado da TSMC ultrapassou dez trilhões de NTD[^20], uma escala inimaginável quando ele fez aquele investimento em 1987, e é o marco mais claro de sua vida.
 
-## Leituras complementares
+## Leitura Complementar
 
-- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — A montanha sagrada da pátria que ele fundou em 1987 com o modelo de fundição de wafers e que hoje vale mais de seis biliões, é, por si só, a nota de rodapé mais completa de Morris Chang
-- [Stan Shih](/pt/people/stan-shih) — Fundador da Acer que convidou para diretor da TSMC durante vinte e um anos, autor da "curva do sorriso"; e o "segmento de manufatura central" que a TSMC faz é precisamente o trecho que a curva depreciava mas que, na realidade, vale mais dinheiro
-- [Terry Gou](/pt/people/terry-gou) — Outro empresário taiwanês que mudou o mundo com "manufatura por encomenda"; a manufatura de montagem da Foxconn e a fundição de wafers da TSMC são as duas vias pela qual a manufatura de Taiwan chegou ao mundo
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA em 1976 à montanha sagrada da pátria, o campo de batalha industrial inteiro em que Morris Chang fez entrar Taiwan
-- [Richard Chang](/people/黃崇仁) — A pessoa que, no final dos anos 1990, quando a Vanguard (力晶) quase era absorvida pela UMC, correu a pedir ajuda a Morris Chang, trilhando outra vereda perigosa dos semicondutores de Taiwan
-- [Transformação e atualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A TSMC é o caso mais concreto da transformação de Taiwan de "ilha da manufatura por encomenda" em "ilha tecnológica", e a coordenada nuclear dessa transformação de quarenta anos
+- [Empresa Taiwan: TSMC](/pt/economy/tsmc) — O Monte da Defesa Nacional que foi fundado com o modelo de fabricação por contrato em 1987 e cujo valor ultrapassou sessenta trilhões hoje, é o registro mais completo de Morris Chang (張忠謀).
+- [Shi Zhenrong (施振榮)](/pt/people/stan-shih) — O fundador da Acer, que convidou para ser diretor da TSMC por vinte e um anos, e autor da "Curva do Sorriso"; a "manufatura intermediária" feita pela TSMC é o trecho dessa curva criticado, mas que se tornou o mais valioso na realidade.
+- [Kuo Tzu-ming (郭台銘)](/pt/people/terry-gou) — Outro empresário taiwanês que mudou o mundo com a "fabricação por contrato"; a fabricação por montagem da Foxconn e a fabricação de wafers da TSMC são os dois caminhos para a manufatura de Taiwan se globalizar.
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia RCA em 1976 ao Monte da Defesa Nacional, Morris Chang (張忠謀) foi quem levou todo o campo de batalha industrial taiwanês.
+- [Huang Chung-ren (黃崇仁)](/people/黃崇仁) — A pessoa que procurou Morris Chang (張忠謀) no final dos anos 1990 quando a Largan estava prestes a ser absorvida pela United Microelectronics Corporation, seguindo o outro caminho perigoso da semicondutores de Taiwan.
+- [Ascensão e Elevação Industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A TSMC é o caso mais concreto de Taiwan transformar-se de uma "Ilha de Fabricação por Contrato" em uma "Ilha Tecnológica", sendo a coordenada central dessa transformação de quarenta anos.
 
 ---
 
-[^1]: Sun Yun-suan (孫運璿, 1913–2006), ex-presidente da Taiwan Power Company, ministro da Economia, primeiro-ministro (1978–1984); durante o seu mandato impulsionou fortemente o desenvolvimento da indústria de semicondutores e tecnológica, sendo considerado importante impulsionador da indústria de alta tecnologia de Taiwan. Ver: verbete "Sun Yun-suan" na Wikipédia <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+## Referências
 
-[^2]: Data de fundação e capital inicial da TSMC. Ver: Relatório Anual da TSMC 1987. TSMC. <https://investor.tsmc.com/english/annual-reports>
+[^1]: Morris Chang (張忠謀) nasceu na cidade de Ningbo, província de Zhejiang, China, em 10 de julho de 1931. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^3]: Morris Chang obteve doutoramento em Engenharia Elétrica pela Universidade de Stanford em 1964. Ver: Autobiografia de Morris Chang (vol. 2), CommonWealth Magazine, 2019. <https://www.books.com.tw/products/0011005569>
+[^2]: Ingresso na Universidade de Harvard para estudar literatura em 1949 e transferência para o MIT para engenharia mecânica um ano depois. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^4]: Em 2018, o valor de mercado da TSMC já superava o da Intel, tornando-se uma das empresas de semicondutores de maior valor de mercado do mundo. Ver: verbete "Taiwan Semiconductor Manufacturing" na Wikipédia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+[^3]: Obtenção do diploma de bacharelado em engenharia mecânica do MIT em 1952. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^5]: Morris Chang reformou-se formalmente a 5 de junho de 2018, encerrando 31 anos de carreira na TSMC. Ver: verbete "Morris Chang" na Wikipédia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+[^4]: Três anos trabalhando na Sylvania (希凡尼亞) com fabricação de semicondutores a partir de 1955. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^5]: Início do trabalho como engenheiro de semicondutores na Texas Instruments (TI) em 1958. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^6]: Obtenção do doutorado em engenharia elétrica da Universidade de Stanford em 1964. Ver: artigo Wikipédia em inglês sobre "Morris Chang" <https://en.wikipedia.org/wiki/Morris_Chang>.
+
+[^7]: Promoção a vice-presidente do grupo Texas Instruments e gerente geral do grupo de semicondutores em 1972. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^8]: Sun Yun-sze (孫運璿) (1913–2006), ex-primeiro-ministro (1978–1984), que impulsionou a indústria de semicondutores e tecnologia. Ver: artigo Wikipédia sobre "Sun Yun-sze" <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>.
+
+[^9]: Fundação da TSMC em 21 de fevereiro de 1987, com capital inicial de NT$ 22 bilhões. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^10]: Os acionistas iniciais da TSMC incluíam a Philips Holandesa. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^11]: Morris Chang (張忠謀) propôs o modelo de negócios puro de fabricação por contrato em 1987. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^12]: A TSMC começou a fabricar processadores móveis como os da série Apple a partir da década de 2010, e se tornou um fornecedor principal dos chips centrais do iPhone após 2013. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^13]: A TSMC investiu consistentemente cerca de 8% da receita em P&D por muitos anos (a proporção variou ligeiramente anualmente). Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^14]: Em 2005, Morris Chang (張忠謀) renunciou ao cargo de CEO, sendo sucedido por Tsai Li-hing (蔡力行). Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^15]: Em 2009, aos 78 anos, Morris Chang (張忠謀) retornou à TSMC como CEO devido à crise financeira global. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^16]: Em 5 de junho de 2018, Morris Chang (張忠謀) se aposentou oficialmente; Liu De-yin (劉德音) assumiu como presidente e Wei Zhe-jia (魏哲家) como CEO. Ver: artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^17]: [Economia de Taiwan — Wikipedia em chinês](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — Os semicondutores representam historicamente cerca de um terço das exportações de Taiwan.
+
+[^18]: [Ato da Universidade Tsinghua sobre a construção do "Edifício TSMC" - Tsinghua University](https://www.nthu.edu.tw/hotNews/content/708) — A TSMC doou NT$ 180 milhões para construir o Departamento de Gestão Tecnológica da Tsinghua, concluído em abril de 2008; o doador foi a TSMC, não Morris Chang (張忠謀) pessoalmente.
+
+[^19]: Em 2018, quando Morris Chang (張忠謀) se aposentou, o valor de mercado da TSMC já havia ultrapassado o da Intel. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^20]: Na década de 2020, o valor de mercado da TSMC ultrapassou dez trilhões de NTD, tornando-a uma das empresas tecnológicas mais valiosas da Ásia. Ver: artigo Wikipédia sobre "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
 
 _Referências:_
 
-- [Autobiografia de Morris Chang (vol. 1 + vol. 2)](https://www.books.com.tw/products/0010784799)
-- [Relatórios anuais e materiais oficiais da TSMC](https://investor.tsmc.com/english/annual-reports)
-- [Instituto de Pesquisa Industrial de Tecnologia (ITRI)](https://www.itri.org.tw/)
-- [Verbete "Morris Chang" na Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
-- [Materiais relacionados com Morris Chang da Universidade Nacional Tsing Hua](https://www.nthu.edu.tw/)
+- [Biografia de Morris Chang (Volumes 1 e 2)](https://www.books.com.tw/products/0010784799)
+- [Relatórios Anuais e Documentos Oficiais da TSMC](https://investor.tsmc.com/english/annual-reports)
+- [Industrial Research Institute (IRI)](https://www.itri.org.tw/)
+- [Artigo Wikipédia sobre "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>]
+- [Documentos relacionados a Morris Chang (張忠謀) na Universidade Tsinghua <https://www.nthu.edu.tw/>]
