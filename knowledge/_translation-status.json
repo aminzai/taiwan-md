@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T11:41:10+08:00",
-    "zhCommitHead": "42a4c32c3",
+    "lastUpdated": "2026-09-18T11:49:55+08:00",
+    "zhCommitHead": "764c2d2f4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 850,
+        "fresh": 848,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 214,
+        "missing": 216,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 833,
+        "fresh": 831,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 241,
+        "missing": 243,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 154,
+        "missing": 153,
         "orphan": 0
       },
       "ru": {
@@ -8504,18 +8504,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-orchids.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Economy/taiwan-orchids.md",
@@ -27894,8 +27883,8 @@
           "sourceContentHash": "sha256:a7a044b9c6def84a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T03:12:45.855619+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "764c2d2f",
+          "translationLastModified": "2026-09-18T11:41:14+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -52679,15 +52668,26 @@
           "sourceContentHash": "sha256:a87fc88d09f6e189",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T03:18:05.037267+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a4c32c",
+          "translationLastModified": "2026-09-18T11:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/medical-care-act.md",
+          "translatedFrom": "Society/醫療法.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a87fc88d09f6e189",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T03:20:36.337749+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/medical-care-act.md",
@@ -84784,8 +84784,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "764c2d2f",
+          "translationLastModified": "2026-09-18T11:41:14+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -119685,8 +119685,8 @@
           "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
           "sourceBodyHash": "sha256:657949e86efaa762",
           "translatedAt": "2026-09-18T00:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a4c32c",
+          "translationLastModified": "2026-09-18T11:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -126868,8 +126868,8 @@
           "sourceContentHash": "sha256:64f19c58057c504d",
           "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
           "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "764c2d2f",
+          "translationLastModified": "2026-09-18T11:41:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -141077,8 +141077,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-18T00:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42a4c32c",
+          "translationLastModified": "2026-09-18T11:41:02+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -151135,18 +151135,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/History/chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-18T00:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "path": "ar/History/chiayi-agriculture-forestry.md",
@@ -156450,35 +156439,13 @@
           "reason": "same-commit"
         },
         "id": {
-          "path": "id/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-18T00:53:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-18T00:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
