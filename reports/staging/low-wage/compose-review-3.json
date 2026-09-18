@@ -1,0 +1,18 @@
+{
+  "revision": 34,
+  "submissionId": "099ecc7d-70b8-479b-81b8-e12e1b7d4c2d",
+  "actor": "compose-reviewer-3 (Sonnet agent a066b96b9e5283afb, fresh context, read blueprint + article + submission only)",
+  "verdict": "accept",
+  "rationale": "八步骨架逐一對應且順序不可重排；論點在 section 3（兩部法律）與 section 4（分母缺口）兌現；第三型紀律到位（攻擊語入引號含 H2、記者轉述不加引號並在腳註標明、每方只代表自己、學者缺席以 tw-note 當內容）；數字帶母體年份、自算標推算；tw-versus 兩個分母分列兩欄各標年份與推估、比率段有橋句；無背書、無兩國推通則、無陰謀反問；開場具體人事時、結尾薪資單畫面。觀察：H2「印了十年」與內文「印了將近十年」用詞落差，標題 punch 與內文精確度的常見差距，不退回。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "H2 列表；第 31-39 行；第 63-104 行；tw-versus；比率段橋句；section 7 但書與 tw-note；結尾段"
+    },
+    {
+      "path": "reports/article-projection/誰算低薪.md",
+      "location": "§2／§3／§6"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}
