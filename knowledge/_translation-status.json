@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T18:03:36+08:00",
-    "zhCommitHead": "dd7c261e4",
+    "lastUpdated": "2026-09-18T18:06:18+08:00",
+    "zhCommitHead": "70f1d3e58",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 850,
+        "fresh": 851,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "pt": {
@@ -55101,7 +55101,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/national-museum-of-taiwan-history.md",
+          "translatedFrom": "Society/國立臺灣歷史博物館.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-18T00:53:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/national-museum-of-taiwan-history.md",
@@ -122121,8 +122132,8 @@
           "sourceContentHash": "sha256:4084ed4b3480a75a",
           "sourceBodyHash": "sha256:70f421624b5717be",
           "translatedAt": "2026-09-18T10:03:15.006598+00:00",
-          "translationLastCommit": "36aaa72e",
-          "translationLastModified": "2026-08-20T09:13:32+08:00",
+          "translationLastCommit": "70f1d3e5",
+          "translationLastModified": "2026-09-18T18:03:36+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -156760,8 +156771,8 @@
           "sourceContentHash": "sha256:bf74cbc86604e18b",
           "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
           "translatedAt": "2026-09-18T07:34:17.705840+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "70f1d3e5",
+          "translationLastModified": "2026-09-18T18:03:36+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -162833,8 +162844,8 @@
           "sourceContentHash": "sha256:fe4751f1e66665bd",
           "sourceBodyHash": "sha256:7f19df1b99a37241",
           "translatedAt": "2026-09-18T08:32:07.173590+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "70f1d3e5",
+          "translationLastModified": "2026-09-18T18:03:36+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
