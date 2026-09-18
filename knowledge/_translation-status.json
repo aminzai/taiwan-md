@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T06:38:54+08:00",
-    "zhCommitHead": "c8ee76891",
+    "lastUpdated": "2026-09-19T06:46:09+08:00",
+    "zhCommitHead": "eb686ab4a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 857,
+        "fresh": 858,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 139,
+        "missing": 138,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1040,
-        "stale": 47,
+        "fresh": 1041,
+        "stale": 46,
         "metadata_stale": 8,
         "missing": 26,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 330,
+        "missing": 329,
         "orphan": 0
       }
     },
@@ -5520,8 +5520,8 @@
           "sourceContentHash": "sha256:e4fcea6f40bc1371",
           "sourceBodyHash": "sha256:f8c06621cad90a0b",
           "translatedAt": "2026-09-19T01:37:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3897c037",
+          "translationLastModified": "2026-09-19T06:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -60506,7 +60506,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/inclusive-travel-taiwan.md",
+          "translatedFrom": "Society/台灣全齡共融旅遊與生活文化.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:8a4d3295bf443494",
+          "sourceBodyHash": "sha256:be2327c5c3e0748e",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61110,8 +61121,8 @@
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
           "translatedAt": "2026-09-19T01:37:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3897c037",
+          "translationLastModified": "2026-09-19T06:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82303,8 +82314,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-19T01:37:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3897c037",
+          "translationLastModified": "2026-09-19T06:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -119988,8 +119999,8 @@
           "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
           "sourceBodyHash": "sha256:657949e86efaa762",
           "translatedAt": "2026-09-19T01:37:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3897c037",
+          "translationLastModified": "2026-09-19T06:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -129836,7 +129847,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/canned-pineapple.md",
+          "translatedFrom": "Food/鳳梨罐頭.md",
+          "sourceCommitSha": "6886602d6",
+          "sourceContentHash": "sha256:2db6d7675892d196",
+          "sourceBodyHash": "sha256:e6375c12b05a0b30",
+          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/canned-pineapple.md",
@@ -176298,18 +176320,16 @@
         "ko": {
           "path": "ko/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-05-17T05:34:52+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-19T01:37:18+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-baseball-culture.md",
@@ -181283,8 +181303,8 @@
           "sourceContentHash": "sha256:fa410e59dc40cf80",
           "sourceBodyHash": "sha256:4c28ceadc8ee9c09",
           "translatedAt": "2026-09-19T01:37:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3897c037",
+          "translationLastModified": "2026-09-19T06:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
