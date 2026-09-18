@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '24efd20f'
-sourceContentHash: 'sha256:dd735f0162ff1ad0'
-sourceBodyHash: 'sha256:9b07a151711a4285'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:dd196b4a3bebe6fe'
+sourceBodyHash: 'sha256:85923df8ecf92741'
+translatedAt: '2026-09-18T20:23:21.374885+00:00'
 ---
 
 > **Khái quát 30 giây**
@@ -154,24 +154,28 @@ Chunghwa Telecom phải đối mặt với cạnh tranh không chỉ từ các c
 
 ### Chiến lược ưu tiên AI
 
-Chunghwa Telecom tuyên bố năm 2025 sẽ "khởi động tương lai bằng AI", dự định tích hợp công nghệ AI trong tất cả các quy trình kinh doanh।Từ dịch vụ khách hàng, vận hành mạng đến phát triển sản phẩm mới, AI sẽ trở thành cốt lõi của lợi thế cạnh tranh của công ty।
+Chunghwa Telecom tuyên bố sẽ "khởi động tương lai bằng AI" vào năm 2025, có kế hoạch áp dụng công nghệ AI trong tất cả các quy trình kinh doanh. Từ dịch vụ khách hàng, vận hành mạng đến phát triển sản phẩm mới, AI sẽ trở thành cốt lõi lợi thế cạnh tranh của công ty.
 
-### Hệ sinh thái、quốc tế hoá và phát triển bền vững
+### Hệ sinh thái, quốc tế hóa và phát triển bền vững
 
-Một hướng khác của Chunghwa Telecom là chiến lược "nền tảng mở": thông qua API cho phép nhiều doanh nghiệp khác phát triển các dịch vụ sáng tạo dựa trên cơ sở hạ tầng của nó, chuyển đổi từ công ty viễn thông biệt lập thành một nút lõi của nền tảng hệ sinh thái।Về thị trường quốc tế, công ty dự định xuất khẩu kinh nghiệm chuyển đổi số tích lũy từ Đài Loan sang Đông Nam Á, trở thành nhà cung cấp dịch vụ ICT khu vực।Phương diện bền vững cũng được đưa vào các mục tiêu cốt lõi: ngoài cam kết trung hoà carbon, công ty cũng đang thúc đẩy các chỉ tiêu về toàn diện số hoá, đảm bảo các nhóm yếu thế không bị loại trừ khỏi làn sóng số hoá।
+Một hướng đi khác của Chunghwa Telecom là chiến lược "nền tảng mở": thông qua API cho phép nhiều doanh nghiệp phát triển các dịch vụ sáng tạo dựa trên cơ sở hạ tầng của mình, chuyển đổi từ một nhà cung cấp viễn thông biệt lập thành nút trung tâm của hệ sinh thái. Về thị trường quốc tế, công ty có kế hoạch xuất khẩu kinh nghiệm chuyển đổi số mà Đài Loan đã tích lũy sang Đông Nam Á, trở thành nhà cung cấp dịch vụ ICT khu vực. Khía cạnh bền vững cũng được liệt vào mục tiêu cốt lõi: bên cạnh cam kết trung hòa carbon, công ty cũng thúc đẩy tính bao trùm kỹ thuật số, đảm bảo các nhóm yếu thế không bị loại trừ bởi làn sóng số hóa.
 
-Câu chuyện về Chunghwa Telecom là tấm giang hoá thu nhỏ ba mươi năm của ngành viễn thông Đài Loan từ độc quyền đến cạnh tranh, rồi lên đến chuyển đổi। Từ cáp quang ở vùng sâu tới chăm sóc sức khoẻ thông minh 5G, bước tiếp theo của công ty này cũng sẽ ảnh hưởng đến hướng đi của cơ sở hạ tầng số hoá tổng thể của Đài Loan।
+Câu chuyện của Chunghwa Telecom là một lát cắt ba mươi năm của ngành viễn thông Đài Loan từ độc quyền sang cạnh tranh, rồi đến chuyển đổi. Từ cáp quang ở vùng nông thôn đến y tế thông minh 5G, bước đi tiếp theo của doanh nghiệp này cũng sẽ ảnh hưởng đến xu hướng cơ sở hạ tầng số chung của Đài Loan.
 
 ---
 
+**Đọc thêm**:
+
+- [Hải quan Đài Loan và EZ WAY](/vi/lifestyle/ezway) — Một trường hợp quản trị công ty cổ phần mà Bộ Tài chính nắm giữ dưới 50% vốn, nhưng hoạt động thực tế giao cho khu vực tư nhân: Quan Mậu (Guanmao) với tỷ lệ sở hữu 36.11% của Bộ Tài chính
+
 ## Tài liệu tham khảo
 
-[^1]: [Bảo tàng Kỹ thuật số Viễn thông — Lịch sử phát triển Viễn thông Đài Loan](https://telecom.nstm.gov.tw/Development) — Thành lập Cục Quản lý Viễn thông Đài Loan（năm 1949）cho đến quá trình tái cấu trúc Chunghwa Telecom
+[^1]: [Bảo tàng Kỹ thuật Viễn thông - Lịch sử phát triển viễn thông Đài Loan](https://telecom.nstm.gov.tw/Development) — Quá trình thành lập Cục Viễn thông Đài Loan (1949) đến cải tổ Trung Quốc Điện tín
 
-[^2]: [Wikipedia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Lịch trình tư nhân hoá、cấu trúc cổ phần và lịch sử công ty
+[^2]: [Wikipedia - Trung Quốc Điện tín](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Tiến trình tư nhân hóa, cơ cấu cổ phần và lịch sử công ty
 
-[^3]: [Chunghwa Telecom — Giới thiệu Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Mục đích thành lập công ty、phạm vi kinh doanh và những cột mốc phát triển
+[^3]: [Trung Quốc Điện tín - Về Trung Quốc](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Mục đích thành lập công ty, phạm vi kinh doanh và các cột mốc phát triển
 
-[^4]: [Chunghwa Telecom — Báo cáo kết quả hoạt động quý thứ tư năm 2024](https://www.cht.com.tw/) — Thành tích tài chính năm 2024 và dữ liệu kinh doanh
+[^4]: [Trung Quốc Điện tín - Báo cáo hoạt động quý IV năm 2024](https://www.cht.com.tw/) — Kết quả tài chính và dữ liệu kinh doanh năm 2024
 
-[^5]: [Chunghwa Telecom — Cổ đông chính](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Tỷ lệ nắm giữ hiện nay của chính phủ（Bộ Tài chính、Quỹ Phát triển Quốc gia）
+[^5]: [Trung Quốc Điện tín - Cổ đông chính](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Tỷ lệ sở hữu hiện tại của chính phủ (Bộ Tài chính, Quỹ Phát triển Quốc gia)

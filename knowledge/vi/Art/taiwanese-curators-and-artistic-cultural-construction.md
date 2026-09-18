@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:01e74babf94ac8da'
-sourceBodyHash: 'sha256:859c873057ee681d'
-translatedAt: '2026-07-25T04:46:07+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:9ea16a828e45af61'
+sourceBodyHash: 'sha256:b8ac47c9a8b9482f'
+translatedAt: '2026-09-18T20:44:16.663275+00:00'
 ---
 
 # Đài Loan các curát và xây dựng văn hoá nghệ thuật
@@ -94,17 +94,21 @@ Hiện tượng này phản ánh giai đoạn mới của sự phát triển cur
 **Ghi chú curát #3: Về giáo dục curát**  
 _Tứ Văn Nhựy đã chỉ ra rằng giáo dục curát cần phân biệt giữa curát độc lập và curát tổ chức, và nuôi dưỡng các giai đoạn sự nghiệp khác nhau. Curát độc lập cần khả năng tự chủ và tích hợp nguồn lực mạnh hơn, trong khi curát tổ chức cần nền tảng học thuật sâu hơn._
 
-## Triển vọng tương lai: Xây dựng phương pháp curát Đài Loan
+## Triển vọng tương lai: Xây dựng phương pháp học curát Đài Loan
 
-Xem xét 30 năm phát triển của curát Đài Loan, chúng ta có thể thấy một chuỗi tiến hóa rõ ràng: từ thử nghiệm tổ chức đầu tiên, tham gia hệ thống Biennale quốc tế, đến thực hành địa phương đa dạng gần đây. Curát Đài Loan không còn là người nhận thụ thuyết curát quốc tế một chiều, mà đã bắt đầu đề xuất phương pháp curát sáng tạo.
+Xem xét quỹ tích 30 năm phát triển của các curát Đài Loan, ta thấy một mạch lạc diễn biến rõ rệt: từ những thí nghiệm thể chế ban đầu, đến việc tham gia hệ thống biennale quốc tế, rồi đến những thực hành địa phương đa dạng gần đây. Các curát Đài Loan không còn là người tiếp nhận bị động trước ngôn luận curát quốc tế, mà bắt đầu đề xuất những phương pháp học curát mang tính độc đáo.
 
-Ví dụ, mô hình 'Khảo sát thực địa + xây dựng luận đề + kết nối địa phương' của Gông Trước Quân, góc nhìn curát 'Hỗn sắc + tầm nhìn quốc tế' của Cao Tín Nam, và danh tính 'nghệ sĩ + curát' của Vương Tân Kiệt, đều thể hiện sự đóng góp độc đáo của curát Đài Loan trong hệ sinh thái nghệ thuật toàn cầu.
+Ví dụ, mô hình "khảo sát thực địa + xây dựng luận述 + kết nối địa phương" của Khổng Trác Quân, góc nhìn curát "bối cảnh lai + tầm nhìn quốc tế" của Cao Tâm Tín Nam, cũng như danh tính kết hợp "nghệ sĩ + curát" của Vương Tuấn Kiệt, đều đại diện cho những đóng góp độc đáo của các curát Đài Loan trong hệ sinh thái nghệ thuật toàn cầu.
 
-Nhưng quan trọng nhất là curát Đài Loan đang học cách giữ vững sự quan tâm sâu sắc đến văn hoá địa phương trong khi tham gia vào cuộc đối thoại quốc tế. Khả năng cân bằng này, có thể là sức mạnh cạnh tranh cốt lõi của curát Đài Loan trong bản đồ nghệ thuật toàn cầu thế kỷ 21.
+Nhưng quan trọng nhất, các curát Đài Loan đang học được một điều: **làm thế nào để vừa tham gia đối thoại quốc tế, vừa giữ gìn sự quan tâm sâu sắc đối với văn hóa bản địa**. Khả năng cân bằng này, có lẽ chính là lợi thế cạnh tranh cốt lõi của các curát Đài Loan trong bản đồ nghệ thuật toàn cầu thế kỷ 21.
 
 ---
 
-_Bài viết này được viết dựa trên nhiều nguồn dữ liệu và phỏng vấn trực tiếp; tất cả tên và sự kiện đã được xác minh. Nếu phát hiện bất kỳ sai sót nào, xin hãy thông báo qua hệ thống Issue của Taiwan.md._
+_Trong quá trình viết bài, tác giả đã tham khảo lượng lớn tư liệu trực tiếp và nội dung phỏng vấn, tất cả tên người và sự kiện đều đã được kiểm chứng. Nếu phát hiện bất kỳ sai sót sự thực nào, vui lòng báo cáo qua hệ thống Issue của Taiwan.md._
+
+**Đọc thêm**:
+
+- [Mã Tổ Quốc tế Nghệ thuật Đảo](/vi/art/matsu-biennial) — Kế hoạch curát mười năm do Chính phủ huyện Liên Giang chủ辦,屆 thứ ba do năm vị curát cùng dẫn dắt, là một ví dụ cụ thể cho xu hướng chuyển về chế độ nhóm, phi tập trung của hệ sinh thái curát Đài Loan
 
 ## Tham khảo
 
