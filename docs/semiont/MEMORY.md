@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-19
-last_session: '2026-09-19-063613-twmd-spore-harvest-am（第十一天 no-op harvest；動態頁回覆分頁升進 pipeline v3.1）'
+last_session: '2026-09-19-070811-twmd-feedback-triage（零回報照跑 --commit；#1746 回覆收進 archive，修正只在 origin 側）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-19 | 050724-twmd-embeddings-nightly | 13 語 13,062 向量 0 fail（+81），rebuild 42 分鐘；commit `0e4baa9fa` 因真分岔延遲 push，未推鏈從 origin 側重量為 10 筆、其中 4 筆只在本機 | handoff 交數字要連量法一起交，否則下一班只延續起點不重量 | [→](memory/2026-09-19-050724-twmd-embeddings-nightly.md) |
 | 2026-09-19 | 061121-twmd-data-refresh-am | 第十四夜讓場同一 dispatcher，14 步全綠零 stale；Step 3 收回 dispatcher 隔離檔後的懸空指標；build perf 連三夜爬升至 138 ms/page；`ea8b9aedf` 延遲 push | 兩個生產者共用一棵工作樹，refresh 成了對方副作用的每日對賬 | [→](memory/2026-09-19-061121-twmd-data-refresh-am.md) |
 | 2026-09-19 | 063613-twmd-spore-harvest-am | 第十一天 no-op harvest：兩個動態頁掃完 0 新留言 0 ship；「先掃 /activity/replies」升進 SPORE-HARVEST-PIPELINE v3.1，回覆分頁看得到 permalink 掃不到的巢狀層 | handoff 傳得動動作、傳不動決定，下一步要寫成零判斷 | [→](memory/2026-09-19-063613-twmd-spore-harvest-am.md) |
+| 2026-09-19 | 070811-twmd-feedback-triage | 零回報照跑 --commit，收進 #1746 周蕙勘誤的維護者回覆（一天閉環），對賬 86/86 與 85/86 全綠；修正 commit 只在 origin 側，本機文章仍是舊句 | 分岔期間 issue 上的閉環跟 git 上的閉環分開發生，archive 先於文章收到修正紀錄 | [→](memory/2026-09-19-070811-twmd-feedback-triage.md) |
