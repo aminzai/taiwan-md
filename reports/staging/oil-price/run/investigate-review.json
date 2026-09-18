@@ -1,0 +1,22 @@
+{
+  "revision": 10,
+  "submissionId": "125f027f-1d35-4c66-a488-9239eab7e457",
+  "actor": "guide_investigate_reviewer (Sonnet sub-agent a068309bcfcb89e3f, fresh context)",
+  "verdict": "accept",
+  "rationale": "9 條 claims 四欄齊全；事實／推論／查無分層清楚（12.29% 官方原文、專案平穩＝頂層 75% 標推論、IMF 標通論）；counterEvidence 逐條命中 orient 預設可證偽條件、屬預期內修正不需退回；親自 curl 中油 9/12、經濟部 9/3、工商時報 3/22 三原頁逐字一致；searchLimits 用「未取得」不用「不存在」。非阻擋提醒：frontmatter core_contradiction 需同步 changedMind（已於本輪同步）。全文 reports/staging/oil-price/run/investigate-review.md。",
+  "contextDisclosure": "fresh-context-investigate-inputs",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/investigate-review.md",
+      "location": "全文含三原頁親核結果"
+    },
+    {
+      "path": "reports/staging/oil-price/run/investigate-submission.json",
+      "location": "data.claims #1、#2、#7；data.counterEvidence；data.changedMind"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "frontmatter；§3A–§3F；§5；§9.2"
+    }
+  ]
+}
