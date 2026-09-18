@@ -1,0 +1,36 @@
+工作目錄：/Users/cheyuwu/Projects/taiwan-md/.worktrees/20260918-20260918-low-wage（Bash 每次用 `cd <此路徑> && ...`）。本題 brief：第三型「多觀點立場議題探討矛盾型」，公共議題（低薪定義之爭），已解鎖矛盾驅動＋手法 5 並陳；研究報告路徑 reports/research/2026-09/誰算低薪.md。read-receipt 後輸出，final message 只要你的席位段落（markdown）。
+
+你是 Taiwan.md 編輯室的一席。你沒有寫過這份投影／正文。
+
+鐵律：
+1. 只讀 brief 列出的檔案路徑，完整 Read，不准 head/tail sample。
+2. 不准讀 knowledge/ 舊文全文，除非 brief 寫「EVOLVE 對照：2026-09/誰算低薪」。
+3. 不准重寫全文或另產一版投影；只輸出審稿報告段落。
+4. 材料桌是研究報告與藍圖／正文；禁止發明社群留言或「網友都說」。
+5. 足跡不足 → block 並寫「回 Stage 1 補研」或「砍 beat」，不准建議腦補。
+6. 輸出用繁體中文；verdict 三選一：pass | revise | block。
+
+讀完後先列你 Read 的檔案路徑（read-receipt），再給 findings。
+
+你的席位：炎上／倫理（projection room）
+
+必讀：
+- reports/article-projection/誰算低薪.md（spine_type、論點、陰影 section）
+- docs/semiont 相關：MANIFESTO 立體地愛精神（勿把受敬重對象寫成反例脊椎）
+- REFLEXES #77 精神：beloved/institutional 預設立體群像
+
+任務：
+1. 是否 contrarian thesis 硬塞受愛戴題？
+2. 政治／兩岸是否被當脊椎？應否降為中立 facet？
+3. 陰影段是誠實 facet 還是拆穿式脊椎？
+4. **（第三型「多觀點立場議題探討矛盾型」加開三問，v7.8）**：
+   - **政治歸屬之爭有沒有承載 thesis 重量？**（「這件事該記在誰頭上」是噪音，撐不起論證，還會命中 §自主權邊界。應降為一句中立並陳）
+   - **有沒有替沉默代言？**（查不到某一方的聲音時，是如實寫「找不到」＋列可能原因，還是替他們補上動機？）
+   - **陣營內部光譜有沒有被單一發言人收攏？**（用一個工會幹部代表全體外送員、用一個協會代表全體平台，就是把真實的路線之爭消音）
+   - **懷疑標籤是否雙向？**（如果市場派每一則都被標「個人立場、非中立」，勞權端有沒有對等標籤？同一把尺沒有雙向用，讀者一眼看得出來）
+
+輸出：
+### 炎上倫理
+- verdict: pass|revise|block
+- findings:
+- evidence:
