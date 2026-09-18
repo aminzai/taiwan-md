@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T13:19:50+08:00",
-    "zhCommitHead": "b754ba859",
+    "lastUpdated": "2026-09-18T14:45:49+08:00",
+    "zhCommitHead": "fd36cb65b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 152,
+        "missing": 151,
         "orphan": 0
       },
       "ko": {
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 944,
-        "stale": 71,
+        "fresh": 945,
+        "stale": 70,
         "metadata_stale": 74,
         "missing": 32,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 350,
+        "missing": 349,
         "orphan": 0
       }
     },
@@ -8607,8 +8607,8 @@
           "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
           "translatedAt": "2026-09-18T00:53:04+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "fd36cb65",
+          "translationLastModified": "2026-09-18T13:19:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -21731,8 +21731,8 @@
           "sourceContentHash": "sha256:b8c4015a34b3a79e",
           "sourceBodyHash": "sha256:9120e92d38401c8e",
           "translatedAt": "2026-09-17T23:28:07.770097+00:00",
-          "translationLastCommit": "39a979e4",
-          "translationLastModified": "2026-08-04T13:41:02+08:00",
+          "translationLastCommit": "fd36cb65",
+          "translationLastModified": "2026-09-18T13:19:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -114736,7 +114736,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tie-niu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-18T00:53:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -117971,7 +117982,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/wei-tsung-cheng.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/wei-tsung-cheng.md",
@@ -122077,18 +122099,16 @@
         "vi": {
           "path": "vi/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "fdd06c978",
-          "sourceContentHash": "sha256:9e044da79052e1d4",
-          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:4084ed4b3480a75a",
+          "sourceBodyHash": "sha256:70f421624b5717be",
+          "translatedAt": "2026-09-18T05:58:22.210822+00:00",
           "translationLastCommit": "36aaa72e",
           "translationLastModified": "2026-08-20T09:13:32+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/wu-ming-yi.md",
@@ -127354,8 +127374,8 @@
           "sourceContentHash": "sha256:e6a3985c0d14509b",
           "sourceBodyHash": "sha256:2199caf3c188c46a",
           "translatedAt": "2026-09-18T00:53:04+08:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "fd36cb65",
+          "translationLastModified": "2026-09-18T13:19:50+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -138482,8 +138502,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-18T00:53:04+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "fd36cb65",
+          "translationLastModified": "2026-09-18T13:19:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158193,8 +158213,8 @@
           "sourceContentHash": "sha256:2c4fe0156269ff13",
           "sourceBodyHash": "sha256:123f0a9f012e26b6",
           "translatedAt": "2026-09-18T05:19:28.678279+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "fd36cb65",
+          "translationLastModified": "2026-09-18T13:19:50+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
