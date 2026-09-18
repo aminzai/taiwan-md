@@ -1,0 +1,18 @@
+{
+  "revision": 40,
+  "submissionId": "55b66831-8497-4b01-a6de-c3c3cdfccdd3",
+  "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5) as chief editor",
+  "verdict": "accept",
+  "rationale": "同一位只讀草稿的讀者複讀，contextDisclosure draft-only-reread 誠實；七條困惑（含兩條新）、五條重複、八條強推各附位置，主編分桶後採納十二項（tw-stack 應漲→公式價高出、吸收零補 6/20 稿逐字來源、H2-4／H2-8 與正文對齊、130.54 解釋前移、來源沒寫句型 8→4 等），不採三項（25% 占比不推算、數字次數、立場再平衡）。冷讀有效，正文回修後退回 compose。",
+  "contextDisclosure": "chief-editor-full-context",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission-v2.json",
+      "location": "data.confusions[0-6]、data.forcedConclusions[0-7]、data.repetitions[0]"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-review-v2.md",
+      "location": "全文"
+    }
+  ]
+}
