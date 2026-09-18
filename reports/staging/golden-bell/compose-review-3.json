@@ -1,0 +1,17 @@
+{
+  "revision": 28,
+  "submissionId": "dbdd5950-4cb6-4081-b56c-492d52f7d3f1",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread）",
+  "verdict": "revise",
+  "rationale": "四處改動未引進新無來源事實；[^63][^64] 歸位後 used=70/defs=70 全對應。唯一問題：PTT 段末句「兩個數字量的原本就不是同一件事」語法不通，「量的」後缺名詞，讀者會卡；補這一處再過。刪掉的「差別只在能見度⋯」確與 H2 重複，無資訊流失。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "PTT 段末句"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "1984 金鐘禮讚句／策展人筆記「這幾次」／[^63][^64] 定義順序"
+    }
+  ]
+}
