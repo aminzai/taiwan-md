@@ -35,6 +35,7 @@ const OWNERS = {
   'vitals-stale': 'twmd-data-refresh',
   'spore-harvest-': 'twmd-spore-harvest-am',
   'organism-missing': 'twmd-data-refresh',
+  'probe-': 'twmd-news-lens-weekly',
 };
 function ownerFor(id) {
   for (const [prefix, owner] of Object.entries(OWNERS)) {
@@ -352,6 +353,41 @@ try {
 } catch {
   // observer-presence.py 不可用（python 缺失 / ROUTINE.md 解析失敗）不擋 prebuild；
   // 週體檢 Stage 2.5 手動跑仍會看到 fail-loud 訊息
+}
+
+// ── 11. 探測器落後（REFLEXES #56 v8：SENSES 凋亡時「探測器落後 > 7 天 🟡」
+// 那盞燈跟著檔案一起消失，之後 138 天沒人發現雷達停擺，2026-09-18 news-radar）。
+// 探測器現由 twmd-news-lens-weekly 週日 01:00 產出 reports/probe/YYYY-MM-DD.md
+// （ROUTINE.md 註 ²⁶），所以閾值取「漏跑一週」= 9 天（7 天週期 + 2 天寬限），
+// 不用舊的 7 天——那會在每個週六準時誤報。量的是檔案真的落地，不是 cron 有沒有 fire。
+try {
+  const probeDates = readdirSync('reports/probe')
+    .map((f) => f.match(/^(\d{4}-\d{2}-\d{2})\.md$/)?.[1])
+    .filter(Boolean)
+    .sort();
+  const latestProbe = probeDates.at(-1);
+  if (!latestProbe) {
+    addAlert(
+      'probe-missing',
+      'yellow',
+      '探測器從未產出 reports/probe/YYYY-MM-DD.md — news-lens-weekly 第四源沒接上',
+      'reports/probe/',
+    );
+  } else {
+    const probeAgeDays = Math.floor(
+      (Date.parse(TODAY) - Date.parse(latestProbe)) / 86_400_000,
+    );
+    if (probeAgeDays > 9) {
+      addAlert(
+        'probe-stale',
+        'yellow',
+        `探測器落後 ${probeAgeDays} 天（最新 reports/probe/${latestProbe}.md）> 9 天 — news-lens-weekly 漏跑一週，向外看的眼睛閉著`,
+        'reports/probe/',
+      );
+    }
+  }
+} catch {
+  // reports/probe/ 不存在時不擋 prebuild；上面的 probe-missing 分支已涵蓋空目錄
 }
 
 // ── output ───────────────────────────────────────────────────────────────

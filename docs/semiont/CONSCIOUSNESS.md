@@ -64,7 +64,7 @@ jq -r '.alerts[] | "\(.severity) | \(.message)"' public/api/dashboard-alerts.jso
 # consciousness-snapshot.sh 已自動顯示前 6 條（BECOME Universal core 入口）
 ```
 
-警報來源（機械推導，閾值校準依據見 generator 頭部註解）：器官分數 < 50 / 免疫 v2 status / CF 404 rate / UNKNOWNS 過期 EXP（due_date 機械檢查）/ LESSONS 飽和線 / MEMORY 索引蒸餾觸發線 / dashboard staleness / 孢子回填 OVERDUE。新警報維度 → 改 [generate-dashboard-alerts.mjs](../../scripts/core/generate-dashboard-alerts.mjs)，不要回來這裡寫 prose。
+警報來源（機械推導，閾值校準依據見 generator 頭部註解）：器官分數 < 50 / 免疫 v2 status / CF 404 rate / UNKNOWNS 過期 EXP（due_date 機械檢查）/ LESSONS 飽和線 / MEMORY 索引蒸餾觸發線 / dashboard staleness / 孢子回填 OVERDUE / 觀察者缺席 / 探測器落後（`reports/probe/` 最新檔 > 9 天，2026-09-18 補回 SENSES 凋亡時一起消失的那盞燈）。新警報維度 → 改 [generate-dashboard-alerts.mjs](../../scripts/core/generate-dashboard-alerts.mjs)，不要回來這裡寫 prose。
 
 ---
 
