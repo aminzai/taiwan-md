@@ -2,9 +2,7 @@
 title: 'National Museum of Taiwan History: The Eighth Gallery Is Called "You, Too, Are Someone Who Writes History"'
 description: 'The National Museum of Taiwan History, which opened in 2011, calls the eighth gallery of its permanent exhibition "You, Too, Are Someone Who Writes History." This national third-level agency has released 140,000 collection items under the Open Government Data License, version 1.0, while Director Chang Lung-chih has publicly positioned the museum as a project of "co-writing and co-creation by all." When this national museum meets a community-driven open-source knowledge base in the age of AI, collective memory gains a second curatorial form.'
 date: 2026-05-11
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '文化機構'
 tags:
   [
     'Museums',
@@ -13,18 +11,21 @@ tags:
     'Collective memory',
     'Chang Lung-chih',
   ]
+subcategory: '文化機構'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-11
 lastHumanReview: true
-featured: true
-translatedFrom: 'Society/國立臺灣歷史博物館.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:0a19013fbe675c85'
-sourceBodyHash: 'sha256:16078470c5f07551'
-translatedAt: '2026-06-16T16:59:03Z'
 image: '/article-images/society/nmth-main-building-2011.webp'
 imageCredit: 'Fcuk1203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg'
+relatedDiary: ['2026-05-11-161037-kind-mirzakhani']
+translatedFrom: 'Society/國立臺灣歷史博物館.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:8427b2bc64bf300b'
+sourceBodyHash: 'sha256:d6d35035b4737919'
+translatedAt: '2026-09-18T13:15:35.547706+00:00'
 ---
 
 > **30-second overview:** On October 29, 2011, after 13 years of preparation, the National Museum of Taiwan History opened in Annan District, Tainan. It turned Ts'ao Yung-ho's 1990 "Taiwan island historical perspective" into a physical exhibition space: the permanent exhibition "Our Land, Our People: The Story of Taiwan" has eight major galleries, from the arrival of Austronesian peoples to the contemporary "You, Too, Are Someone Who Writes History." The museum has released 140,000 collection items under the Open Government Data License, version 1.0 (equivalent to CC BY 4.0). After being elevated to a third-level agency in 2021, Director Chang Lung-chih positioned the museum as "an action platform for co-writing and co-creation by all"[^13]. When this national museum meets a community-driven open-source knowledge base in the age of AI, collective memory gains a second curatorial form.
@@ -49,24 +50,24 @@ NMTH places "visitors participating in writing history" into the discourse of th
 > **📝 Curator's note**
 > NMTH's seventh and eighth galleries redefine the mission of a national museum. The museum returns the question of "who gets to write history" to the people who come to see it. When Taiwan.md places the same invitation on a fork-friendly open-source track, two curatorial mechanisms meet on the same mission. The difference lies in scale, licensing, and institutionality; the overlap lies in historical perspective and purpose.
 
-## 2. Thirteen years to build a museum; what it built was Ts'ao Yung-ho's 1990 essay
+## II. Thirteen Years to Build a Museum, Built on Tsao Yung-ho's 1990 Paper
 
-In 1992, Lee Teng-hui and Lien Chan visited the Taiwan Provincial Museum and instructed officials to prepare the establishment of a "Taiwan Provincial Museum of History"[^2]. This was the beginning of NMTH.
+In 1992, Lee Teng-hui and Lien Chan visited the Taiwan Provincial Museum and instructed the establishment of the "Taiwan Provincial Museum of History"[^2]. This was the beginning of NMTH.
 
-The person then leading the preparations was Wu Mi-cha, who had trained in the Department of History at National Taiwan University and later formally became NMTH's first director in 2007[^2]. Two years before he began preparations, in 1990, Ts'ao Yung-ho of the National Taiwan University Library published an essay that shook the field of history: "An Alternative Approach to the Study of Taiwan Island History." Ts'ao argued that the subject of Taiwan history is "Taiwan island" itself. Political regimes appear onstage one after another like actors, but the island is the stage that has always existed. From the beginning, NMTH has lived within this scholarly lineage.
+Wu Mi-cha, a graduate of NTU's Department of History, led the preparatory work at the time, and formally became NMTH's first director in 2007[^2]. Two years before he initiated the preparations, in 1990, Tsao Yung-ho of the NTU Library published a paper that shook the historical community: "Another Approach to the Study of Taiwan Island History." Tsao argued that the subject of Taiwan's history is "Taiwan Island" itself; regimes appear like actors in succession, but the island is the stage that has always existed. NMTH has existed within this academic lineage from the very beginning.
 
-![Side view of the exhibition and education building at the National Museum of Taiwan History; the architectural vocabulary formed by the Cloud Wall photovoltaic panels and water pools, with the sea-crossing path visible in the distance crossing the waterscape, symbolizing the historical image of early settlers crossing the Black Ditch to reach Taiwan](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
-_Side view of the exhibition and education building: the Cloud Wall is assembled from more than 1,000 solar panels and embossed glass, generating 170,000 kWh of electricity per year. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg)._
+![National Museum of Taiwan History Exhibition and Education Building side view, architectural vocabulary of Cloud Wall photovoltaic panels and water pools, with the Crossing-the-Sea boardwalk visible in the distance traversing the waterscape, symbolizing the historical imagery of ancestors crossing the Black Ditch to reach Taiwan](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
+_Exhibition and Education Building side view: The Cloud Wall is assembled from over a thousand solar panels and fritted glass, with annual power generation reaching 170,000 kWh. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%2002.jpg)._
 
-The order appointing the director of the preparatory office was issued in 1997; in July 1998, the "Preparatory Office of the Taiwan Provincial Museum of History" was formally established[^2]. Construction on the administration and collection building began in 2003[^21]. Designed by Chien Hsueh-yi, principal of Chien Architects & Associates, the project cost more than NT$1.5 billion, and its four major thematic vocabularies were "crossing the sea, kunshen sandbanks, cloud wall, and fusion"[^22]. "Crossing the sea" is a zigzag path passing between water pools on both sides, symbolizing early settlers crossing the Black Ditch[^23]; the "Cloud Wall" is assembled from more than 1,000 solar panels and embossed glass, generating 170,000 kWh per year[^23]. This is one of the few cases in Asia in which photovoltaic infrastructure is layered into the architectural vocabulary of a museum.
+The appointment order for the preparatory office director was issued in 1997; the "Taiwan Provincial Museum of History Preparatory Office" was formally established in July 1998[^2]. Construction of the Administration and Collections Building began in 2003[^21], designed by Chien Hsueh-yi, principal of Chujian Architects & Associates, at a total cost of over NT$1.5 billion. The four key architectural vocabularies were "Crossing the Sea, Kun Body, Cloud Wall, Fusion"[^22]. "Crossing the Sea" is a zigzag boardwalk traversing water pools on both sides, symbolizing ancestors crossing the Black Ditch[^23]; the "Cloud Wall" is assembled from over a thousand solar panels and fritted glass, with annual power generation reaching 170,000 kWh[^23]. This is one of the few cases in Asia where photovoltaic infrastructure is integrated into museum architectural vocabulary.
 
-On March 15, 2007, the National Museum of Taiwan History was formally established[^2][^4]. But the full museum did not open until **October 29, 2011**[^6][^2]. From the 1998 preparatory office to the 2011 opening, it took a full 13 years. During that period, Taiwan went through Chen Shui-bian's two terms and Ma Ying-jeou's inauguration; the National Palace Museum in Taipei built a second building; the National Taiwan Museum of Fine Arts completed its expansion. What NMTH built, however, was a history museum with Taiwan island as its subject, and it chose Tainan rather than Taipei.
+On March 15, 2007, the National Museum of Taiwan History was formally established[^2][^4]. However, the full museum did not open until **October 29, 2011**[^6][^2] — a full 13 years from the preparatory office in 1998 to the opening in 2011. During this period, Taiwan saw two Chen Shui-bian terms and Ma Ying-jeou's inauguration; the National Palace Museum built a second building in Taipei, and the National Taiwan Museum of Fine Arts completed its expansion. NMTH, by contrast, built a history museum centered on Taiwan Island, and chose Tainan as its location, not Taipei.
 
-The location itself is curation. Tainan is Taiwan's earliest Han settlement and the point where the histories of the Zheng dynasty, Qing rule, and Japanese colonial rule intersect. NMTH did not choose the capital; it chose the land where Taiwan island history began.
+The location itself is curation. Tainan was the earliest Han settlement in Taiwan, the intersection of the Zheng dynasty, Qing rule, and Japanese colonial history. NMTH did not choose the capital; it chose the land where Taiwan's island history began.
 
-The year 2021 was NMTH's second key moment. On January 8, the permanent exhibition "Our Land, Our People: The Story of Taiwan" reopened after an update, following a 15-month closure and five years of planning[^20]. On April 1, Chang Lung-chih, former deputy director of the Institute of Taiwan History at Academia Sinica, became the fifth director[^4][^5]. He had edited _Exploring Island History: Essays on the Historiography of Taiwan History_, published by National Taiwan University Press in 2020, the latest scholarly consolidation of Ts'ao Yung-ho's Taiwan island historical perspective[^5]. On October 17, after the Legislative Yuan passed the _Organization Act of the National Museum of Taiwan History_ on its third reading, NMTH was **elevated from a fourth-level to a third-level agency**[^17][^16], establishing its national-level institutional status.
+2021 was NMTH's second key milestone. On January 8, the permanent exhibition "This Land, These People: The Story of Taiwan" reopened after renovation, having been closed for 15 months of reorganization and planned for 5 years[^20]. On April 1, former Academia Sinica Institute of Taiwan History Deputy Director Chang Lung-chih assumed office as the fifth director[^4][^5]; he was the chief editor of the 2020 volume _In Search of Island History: Collected Essays on Taiwan History — Historiography_ (published by NTU Press), which is the latest scholarly compilation of Tsao Yung-ho's Taiwan island history perspective[^5]. On October 17, after the Legislative Yuan passed the _Organization Act of the National Museum of Taiwan History_ on third reading, NMTH was **upgraded from a fourth-level agency to a third-level agency**[^17][^16], confirming its national-level status.
 
-From Ts'ao Yung-ho's 1990 essay, to the museum's 2011 opening, and then to its 2021 elevation, 31 years traced a path from scholarly discourse to exhibition objects and then to national-level institution.
+From Tsao Yung-ho's 1990 paper, to the 2011 opening, to the 2021 upgrade, 31 years traced a path from academic discourse to exhibition objects, and then to national-level institutionalization.
 
 ## 3. Our Land, Our People: land as stage, people as protagonists
 

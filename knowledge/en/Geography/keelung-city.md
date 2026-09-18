@@ -2,9 +2,7 @@
 title: 'Keelung City: The Port Closest to Taipei, the One Taipei Sees Least'
 description: "At 4 a.m., the Kanzaiteng fish market is still alive with the sound of auctions. Auctioneers chant prices in Hokkien, and within seconds a crate of fish moves from fishing boats in Hualien, Yilang, and Badouzi to a Japanese restaurant in Taipei's Eastern District. In 1626, the Spaniards planted a flag on Heping Island. In 1875, Shen Baozhen changed the name from 'Keelung' (Chicken Coop) to 'Keelung' (Base of Prosperity). In 1984, this was the world's seventh-largest container port. Then three things happened at once: Kaohsiung Port overtook it, Taoyuan Airport opened, and the mining economy collapsed. Today 360,000 people live here, and 39% commute to work in Taipei. What Taipei sees is decline. What the ocean sees is a port that has never left its position."
 date: 2026-05-17
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '縣市'
 tags:
   [
     'Keelung',
@@ -19,19 +17,23 @@ tags:
     'Kanzaiteng',
     '22 Counties and Cities Series',
   ]
-readingTime: 14
+subcategory: '縣市'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: Geography/基隆市.md
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:d96d5a768e497ec1'
-sourceBodyHash: 'sha256:a875e0cc381f5fed'
-translatedAt: '2026-06-16T17:03:25Z'
-image: /article-images/geography/keelung-hero.webp
-imageCredit: Taiwankengo
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg
+readingTime: 14
+researchReport: 'reports/research/2026-05/基隆市.md'
+series: '22 縣市系列（pilot）'
+image: '/article-images/geography/keelung-hero.webp'
+imageCredit: 'Taiwankengo'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg'
+translatedFrom: 'Geography/基隆市.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2fb0e2b29a78f122'
+sourceBodyHash: 'sha256:5db325d228abad28'
+translatedAt: '2026-09-18T14:57:14.790084+00:00'
 ---
 
 # Keelung City: The Port Closest to Taipei, the One Taipei Sees Least
@@ -78,22 +80,22 @@ The French occupied Keelung for eight months, but they soon found themselves tra
 
 What did they leave behind? Besides the French military cemetery on the waterfront (the National Martyrs' Cemetery), they left a question that Keelungers would later have to decide how to handle: **what to do with the more than 700 unburied French war dead?**
 
-## The Ghost Festival of "Zhang Head, Xu Tail"
+## The Mid-Autumn Festival of Zhangtou and Xuwei
 
-The Keelung way of handling the dead starts a bit earlier.
+The way Keelung residents dealt with the dead must be traced back even further.
 
-In the eighth month of 1851 (the first year of the Xianfeng reign), Zhangzhou-Quanzhou feuds were constant. In 1853, a large-scale battle broke out at Fongding (present-day Nanrong Cemetery), with over a hundred dead and wounded. Elders and leaders from both the Zhangzhou and Quanzhou sides mediated, referring to the remains of the fallen from both sides as "Lao Da Gong" (Venerable Ancestors), burying and venerating them together, and building the "Lao Da Gong Temple."
+In August 1851 (the first year of Xianfeng), conflicts between the Zhang and Quanzhou communities continued. In 1853, a large-scale fight occurred in Qanding (now Nanrong Cemetery), resulting in over a hundred casualties. Elders and leaders from the Zhang and Quanzhou communities intervened to mediate, naming the remains of those who died in the conflict as "Old Masters" ($\text{Lao Da Gong}$), burying them together for worship, and establishing the "Old Master Temple."
 
-The result of the negotiation was: **clan-based rotation of the Zhu Pu (chief officiant), replacing regional-origin identity with kinship bloodline identity**[^11]. It was formally established in 1855 (the fifth year of the Xianfeng reign), with the order of 11 surnames determined by lottery, starting with Zhang and ending with Xu — called "Zhang Head, Xu Tail": Zhang-Liao-Jian, Wu, Liu-Tang-Du, Chen-Hu-Yao, Xie, Lin, Jiang, Zheng, He-Lan-Han, Lai, Xu.
+The result of this negotiation was: **the rotation of ritual leadership based on surnames, replacing the concept of ancestral place of origin with kinship ties**[^11]. It officially began in 1855 (the fifth year of Xianfeng), with the order of the eleven surnames determined by lot, running from Zhang ($\text{Zhangtou}$) to Xu ($\text{Xuwei}$): Zhang, Liao, Jian, Wu, Liu, Tangdu, Chen, Huyao, Xie, Lin, Jiang, Zheng, He, Lanhan, Lai, and Xu.
 
-> **✦** "**Replacing feuds that break heads with competitive parade formations, in order to achieve social harmony, coexistence, and a great unity of the world.**" (National Cultural Memory Bank, Keelung Ghost Festival entry[^12])
+> **✦** "To replace the bloodshed of factional fights with a competition of ceremonial arrays, in order to achieve a great harmony and coexistence." (National Cultural Memory Bank, _Ji-long Mid-Autumn Festival Ritual Text_[^12])
 
-This is the core spirit of the Keelung Ghost Festival. It is not just the Ghost Festival. Ghost Festivals across Taiwan all venerate wandering spirits, but only the Keelung Ghost Festival institutionalizes the memory of a feud's deaths into a clan-rotation ritual that has continued for 170 years. The parade formations are a ritualized version of the feud: you still compete, but instead of hitting people, you use ornate deity statues, formations, and drum ensembles to see who puts on the grander spectacle.
+This is the core spirit of the Ji-long Mid-Autumn Festival. It is not merely a general ghost appeasement ceremony ($\text{Zhongyuan Pudu}$). While all of Taiwan holds ceremonies for unclaimed wandering souls during the Mid-Autumn Festival, only the Ji-long Mid-Autumn Festival institutionalized the memory of a factional fight into a surname rotation ritual that has continued for 170 years. The array competition is a ritualized version of the fighting: you still compete, but without violence, by showcasing which group has the grander display using elaborately decorated deities, formations, and drumming.
 
-![The Zhu Pu altar of the Keelung Ghost Festival, October 2023. The octagonal tower in Zhongzheng Park, completed in the mid-1970s, hosts the Ghost Festival every seventh lunar month. In the distance to the right of the tower is the Keelung landmark, Keelung Tower.](/article-images/geography/keelung-00.webp)
-_Zhu Pu altar and Keelung Tower, 2023-10-23. Photo: Wikimedia Commons contributor, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung_Tower_and_Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn_20231023.jpg)._
+![The main altar of the Ji-long Mid-Autumn Festival, October 2023. The octagonal tower in Zhongzheng Park was completed in the mid-1970s and hosts the Mid-Autumn Ghost Appeasement ceremony every lunar July. In the distance to the right of the tower is the Keelung Tower landmark.](/article-images/geography/keelung-00.webp)
+_The main altar and the Keelung Tower, 2023-10-23. Photo: Wikimedia Commons contributor, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung%20Tower%20and%20Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn%2020231023.jpg)._
 
-After the Sino-French War of 1884, this ritual was upgraded again. **Those 700-plus French war dead were incorporated into the universal salvation rites.** "Compassionate Han immigrants thus initiated empathy, venerating these unburied deceased"[^12]. A ritual of reconciliation from a Zhangzhou-Quanzhou feud evolved into a ceremony that even accommodates enemy soldiers from a war. From 1855 to today, it is held every seventh lunar month at the Zhu Pu altar in Zhongzheng Park. The new Zhu Pu altar, completed in the mid-1970s, is an octagonal tower, with the first floor housing the Ghost Festival Cultural Relics Museum[^13].
+After the Sino-French War in 1884, this set of ceremonies was elevated again. **The souls of those over 700 French soldiers were incorporated into the appeasement.** "Compassionate Han immigrants initiated empathy to worship these unburied departed."[^12] A reconciliation ritual from a Zhang-Quanzhou factional fight evolved into a ceremony that even accommodated enemy soldiers from wars. From 1855 to today, it is held annually in the main altar at Zhongzheng Park during the lunar July. The new main altar, an octagonal tower completed in the mid-1970s, has a museum of Mid-Autumn Festival artifacts on the first floor[^13].
 
 ## Five Phases of Port Construction, the World's Seventh-Largest Port in 1984
 
@@ -131,30 +133,30 @@ A few steps away is Li Ku Pastry. No. 90, Ren 3rd Road, Ren'ai District, opened 
 
 And the Kanzaiteng fish market (mentioned earlier) is actually the true engine of Miaokou Night Market. Without Kanzaiteng's midnight fish auctions, the tempura at Miaokou (what Keelungers call tempura is actually tianbula — fish cake — completely different from Japanese tempura), bubble ice, braised eel, and shrimp geng couldn't be made at all. Keelung's food culture is "harbor flavor": the auction sounds at 4 a.m. become the umami that tourists chew in their mouths at 6 p.m.
 
-## Across from Zhengbin's Colorful Houses, the Ruins of Argenna
+## Across from the Colorful Houses of Zhengbin are the Ruins of Argenna
 
-![Colorful row houses at Zhengbin Fishing Port, August 2025. During Mayor You Chang Lin's tenure, in collaboration with Guo Qiongying, chair of the Chinese Culture University Department of Landscape Architecture, old houses by the port were painted in 55 colors. Directly across, visible in the same frame, are the ruins of Argenna Shipyard.](/article-images/geography/keelung-01.webp)
-_Colorful row houses at Zhengbin Fishing Port, 2025-08-12. Photo: Wikimedia Commons contributor, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
+![Colorful houses of Zhengbin Fishing Port, a row of old houses along the waterfront painted in different colors with fishing boats moored in front. During Mayor Lin Yu-chang's term, they were painted in 55 colors in collaboration with Professor Kuo Ch'ing-ying from the Department of Landscape Architecture at National Taiwan University.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
+_Colorful houses of Zhengbin Fishing Port, August 12, 2025. Photo: Saimmx, [CC0 via Wikimedia](https://commons.wikimedia.org/wiki/File:20250812%20105703%20正濱漁港彩色街屋.jpg)._
 
-If you want to see how a city deals with its own ruins, go to Zhengbin Fishing Port.
+If you want to see how a city deals with its ruins, go to Zhengbin Fishing Port.
 
-Zhengbin Fishing Port, on the eastern side of Keelung Port, was the main fishing port in northern Taiwan during the Japanese colonial period. During Mayor You Chang Lin's tenure (2014–2022), in collaboration with Guo Qiongying, chair of the Chinese Culture University Department of Landscape Architecture, and after "spending two years grinding away before awakening residents' awareness of participation," the old houses by the port were painted into colorful houses. The locals named the 55 colors "Zhengbin Colors"[^23]. Today it is an Instagram check-in hotspot, but that is not its most moving feature.
+Zhengbin Fishing Port is on the east side of Keelung Harbor and was a major fishing port in northern Taiwan during the Japanese colonial period. During Mayor Lin Yu-chang's tenure (2014–2022), he collaborated with Professor Kuo Ch'ing-ying from the Department of Landscape Architecture at National Taiwan University, "after two years of working with local residents to awaken public participation awareness," painting the old houses along the harbor into colorful houses. Locals dubbed the 55 colors as "Zhengbin Colors" [^23]. Today, it is a popular spot for Instagram check-ins, but this is not its most moving aspect.
 
-The most moving feature is: **turn a corner, and directly across are the ruins of Argenna Shipyard.**
+The most moving aspect is: **turn around, and you see the ruins of Argenna Shipyard directly opposite.**
 
-Argenna's history goes like this: in 1919 it was Huang Dongmou's coal storage yard; in 1937 it was converted to an ore transport dock, where gold mined at Jinguashi was first sent by aerial tramway to Shuiandong, then to Badou, then to Niudu Harbor, and from here loaded onto ships bound for Japan[^24]. From 1966 to 1987 it became Argenna Shipyard, operated by Xue Guohang, a contract builder of sailboats and yachts — the pioneer of Taiwan's sailing movement. It went bankrupt and was abandoned in 2016. In July 2016 it was registered as a Keelung City historic building.
+Argenna has a history like this: in 1919, it was a coal storage facility operated by Huang Tung-mao; in 1937, it was converted into a pier for transporting sand. Gold mined from Kinguin Mining was first transported via cableway to Shuinan Cave, then to Badu, and finally to Niu-chou Port, from where ships were loaded and sent to Japan [^24]. From 1966 to 1987, it became the Argenna Shipyard, operated by Xue Kuo-hang, which manufactured sailboats and yachts, making it a pioneer of Taiwan's sailing movement. It went bankrupt and was abandoned in 1987. In July 2016, it was registered as a historical building of Keelung City.
 
-Next to the gray-black concrete ruins are the vibrant, colorful Zhengbin houses. Dark and bright, less than 100 meters apart. These are two faces of Keelung's modernization, compressed into the frame of a tourist's phone camera. From this image, you can read an entire contemporary narrative of Keelung: **we didn't demolish the ruins and rebuild — we built the colorful houses next to the ruins.**
+Next to the gray-black cement ruins are the colorful houses of Zhengbin. One dark, one bright; less than 100 meters apart. This is two sides of Keelung's modernization process, compressed within the view of a tourist taking a photo with their phone. From this scene, one can read an entire contemporary narrative of Keelung: **we are not demolishing the ruins and rebuilding; we are building colorful houses next to the ruins.**
 
-### You Chang Lin, Kuo Liang Hsieh, and the Recall Vote
+### Lin Yu-chang, Hsieh Kuo-liang, and the Recall Vote
 
-You Chang Lin's transformation can be summarized in one sentence: "**The most important thing is for this city to have an issue that rekindles citizens' identity and centripetal force, and to secure Keelung's voice over this port.**"[^17] His accomplishments include: in 2014, preventing the demolition of the West 2nd and West 3rd Pier Warehouses (Minister Lung Ying-tai visited and supported the site, and the Cultural Affairs Bureau designated them as historic buildings); in 2021, the "Night of Nations" exhibition area at Zhengbin Fishing Port; in 2022, the city expo "Design Transforms the Starting City: Keelung"; and replacing the city logo, with the new version using five colors: green for the mountain city, yellow for vitality, black because Keelung once produced abundant coal, red for passion, and blue for Keelung Port and the ocean[^25].
+Lin Yu-chang's transformation can be summarized in one sentence: "**The most important thing is that this city must have an issue to re-unify citizens' identity and cohesion, and gain a voice regarding this harbor for Keelung City.**" [^17] His work included: preventing the demolition of West 2 and West 3 piers warehouses in 2014 (supported by Minister Lung Ying-tai’s site inspection and designated as a historical building by the Bureau of Culture); the "International Night" exhibition area at Zhengbin Fishing Port in 2021; the "Design Changing Starting Point City: Keelung" city expo in 2022; changing the city logo, with the new version interpreting it in five colors: green representing a mountain city, yellow symbolizing vitality, black because Keelung was historically rich in coal mining, red representing passion, and blue representing Keelung Harbor and the ocean [^25].
 
-In 2022, Kuo Liang Hsieh (Kuomintang) was elected mayor. Two years later, on October 13, 2024, the people of Keelung cast a recall vote. Votes against recall: 86,014 (55.16%); votes in favor: 69,934 (44.84%); turnout: 50.44%[^26]. The recall failed, Kuo Liang Hsieh retained the mayor's office, and by law could not be recalled again. Keelung became the second elected local head, after Kaohsiung's Han Kuo-yu, to face a recall proposal, and the first at the sub-provincial level.
+In 2022, Hsieh Kuo-liang (Kuomintang) was elected mayor. Two years later, on October 13, 2024, the people of Keelung held a recall vote. The dissenting votes were 86,014 (55.16%), and the agreeing votes were 69,934 (44.84%), with a voter turnout of 50.44% [^26]. The recall failed, and Hsieh Kuo-liang retained his mayoral position, which legally prevents him from being recalled again. Keelung is the second local elected official to face a recall proposal after Kaohsiung's Han Kuo-yu, and it is the first of a secondary administrative district to do so.
 
-The recall is not the focus of this article. The focus is why people in Keelung went out to vote. A young returnee, Li Yanrong, said in a The Reporter interview: "**My hometown is Keelung — leaving to drift elsewhere doesn't mean I've lost my sense of belonging.**" She had Keelung's coordinates tattooed on her body and explained: "I hope to remember what I looked like when I left."[^27]
+The recall was not the focus of this article. The focus is why the people of Keelung went to vote in that election. Li Yan-rong, a young person who returned to her hometown, said in an interview with reporters: "**My hometown is Keelung; I did not lose my sense of belonging just because I drifted away to another place.**" She tattooed the latitude and longitude of Keelung on herself and explained: "I want to remember what it was like when I left." [^27]
 
-This is a small city of 360,000 people. But among those 360,000, some came back to vote.
+This is a small city of 360,000 people. But among these 360,000 people, some came back to vote.
 
 ## 39% of People Work in Taipei
 
@@ -272,7 +274,7 @@ License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [^29]: [Black Kites and the Ecology of the Xuchuan River Mouth at Keelung Port — Our Island](https://ourisland.pts.org.tw/) — Black kites grew from 272 in 2013 to 808 in 2023; poultry and fish scraps and offal from the Xuchuan River mouth at Keelung Port became their food source.
 
-[^30]: Xie Bingying, _Rain Port Keelung_, original text: "When everyone on shore is being drenched by the rain and can barely lift their heads, when everyone is cursing the heavens for their cruelty, I am secretly delighted" — cited from [_Taiwan Panorama: The Charming Allure of Rain Port Keelung_](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f).
+[^30]: [_Taiwan Panorama: The Charming Allure of Rain Port Keelung_](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f) — Xie Bingying, _Rain Port Keelung_, original text: "When everyone on shore is being drenched by the rain and can barely lift their heads, when everyone is cursing the heavens for their cruelty, I am secretly delighted" — cited from.
 
 [^31]: [The Charming Allure of Rain Port Keelung — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f) — Original text: "For old Keelungers, no matter the weather, they always carry an umbrella when they go out," documenting Keelungers' everyday relationship with rain.
 
