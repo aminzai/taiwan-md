@@ -2,9 +2,7 @@
 title: 'Beitou Hot Spring Street: From Sulfur Mining in 1697 to the Hot Spring Museum in 2026, the Same Mountain Spring Through Four Generations of Residents'
 description: "In 1697, Yu Yonghe came to these mountains to mine sulfur and traded cloth with the Ketagalan people for sulfurous soil; in 1896, Osaka native Hirata Gengo built Taiwan's first hot spring inn, Tenguan, at what is now No. 234, Guangming Road; in 1913, the red-brick public bathhouse designed by Moriyama Matsunosuke opened; in 1923, Crown Prince Hirohito came for a bath; in 1967, a photograph in Time magazine enraged Chiang Kai-shek; after Mayor Lee Teng-hui abolished the licensed hostess system in 1979, the wine houses went dark; in 1998, the abandoned red-brick bathhouse became a museum. The same steaming mountain spring was discovered by outsiders three times and adapted to by four generations of residents."
 date: 2026-05-21
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '歷史街區'
 tags:
   [
     'Beitou',
@@ -29,19 +27,23 @@ tags:
     'Thermal Valley',
     'Hokutolite',
   ]
-readingTime: 25
+subcategory: '歷史街區'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-21
 lastHumanReview: false
-featured: false
-translatedFrom: 'Geography/北投溫泉街.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fb76ac27fc6cd3ba'
-sourceBodyHash: 'sha256:a32189fb31dd0c7d'
-translatedAt: '2026-06-16T00:44:26+08:00'
+readingTime: 25
+researchReport: 'reports/research/2026-05/beitou-hot-spring.md'
+series: '歷史街區系列 (P1-8)'
 image: '/article-images/geography/beitou-hot-spring-museum-2020.webp'
 imageCredit: 'Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg'
+translatedFrom: 'Geography/北投溫泉街.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2c4fe0156269ff13'
+sourceBodyHash: 'sha256:123f0a9f012e26b6'
+translatedAt: '2026-09-18T04:58:46.041712+00:00'
 ---
 
 # Beitou Hot Spring Street: From Sulfur Mining in 1697 to the Hot Spring Museum in 2026, the Same Mountain Spring Through Four Generations of Residents
@@ -128,24 +130,24 @@ The terminus was “Xinbeitou Halt,” later Xinbeitou Station, a wooden station
 
 > **📝 Curator’s note:** You can think of the 1913 public bathhouse and the 1916 Xinbeitou Branch Line as two components of the same system. The building Moriyama Matsunosuke constructed was essentially **a colonial material publicity machine**: it packaged a mountain spring Japanese people had never heard of into a combined brand of “East Asia’s largest public bathhouse” + “Taiwan’s first tourist railway” + “20 minutes from Taipei” + “used by the imperial household,” which would come later. The brand succeeded. It taught travelers from Japan proper that “in the colony of Taiwan, there is a hot spring resort called Beitou.” But this brand was not designed for the Ketagalan people, nor for the Han reclamation settlers left from the Qing period. **It was designed for travelers of the Japanese empire.** Once the 1913 red-brick bathhouse went up, this street became an imperial showroom.
 
-## 1923, the Crown Prince Came for a Bath
+## A Visit by the Crown Prince in 1923
 
-![A documentary photograph from April 25, 1923, showing Crown Prince Hirohito visiting Beitou Hot Spring Public Bathhouse](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
-_Crown Prince Hirohito’s 1923 visit to the Beitou Public Bathhouse. Photo: Public domain (prewar document, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Prince_Hirohito%27s_visit_at_Hokutō_Public_Bathhouse_1923.jpg)._
+![A record photo of Crown Prince Hirohito visiting Beitou Public Bathhouse on April 25, 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
+_A record photo of Crown Prince Hirohito visiting the Beitou public bathhouse in 1923. Photo: Public domain (pre-war document, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown%20Prince%20Hirohito%27s%20visit%20at%20Hokutō%20Public%20Bathhouse%201923.jpg)._
 
-In April 1923, the 12th year of the Taishō era, **Crown Prince Hirohito**, later Emperor Shōwa, visited Taiwan for 12 days in his capacity as regent in place of Emperor Taishō[^6]. This was the first visit by the Japanese imperial household to colonial Taiwan.
+In April 1923 (Taishō 12), **Crown Prince Hirohito** (later Emperor Shōwa) visited Taiwan as regent for Emperor Taishō for 12 days[^6]. This was the first visit by the Japanese Imperial Family to the colony of Taiwan.
 
-On April 25, Hirohito’s itinerary took him to Caoshan, today’s Yangmingshan, and Beitou. To receive him, Taipei Prefecture began renovations the previous year: the second floor of the Beitou Hot Spring Public Bathhouse was **expanded with a more than 30-ping “imperial rest area”**, a private rest space for the crown prince, now the audiovisual room on the second floor of the Hot Spring Museum[^6].
+On April 25, Hirohito’s itinerary included a trip to Caoshan (now Yangmingshan) and Beitou. To prepare for his arrival, the Taipei Prefecture office had made renovations the previous year: the second floor of the Beitou Public Bathhouse was **expanded by over 30 pings** to create an "Imperial Rest Room," which was the location of the audiovisual room on the second floor of the Museum of Hot Springs today[^6].
 
-That day, Hirohito first visited the public bathhouse, then walked to Beitou Creek to view “Hokutolite.” The mineral Okamoto Yōhachirō had discovered 18 years earlier had already become an academic pride of the Japanese empire[^11]. To allow the crown prince to walk along Beitou Creek and observe Hokutolite, the site was specially laid with pieces of **_tobiishi_**, Japanese stepping stones, above the second waterfall[^20].
+Hirohito first toured the public bathhouse, then walked to the banks of the Beitou Stream to view the "Beitou Stones"—a mineral discovered 18 years earlier by Okamoto Yōhachirō, which was already an academic pride point for the Japanese Empire[^11]. To allow the Crown Prince to walk and observe the Beitou Stones along the stream, blocks of **"Tobishi"** (stepping stones in Japanese) were specially laid above the second waterfall[^20].
 
-In 1934, 11 years later, residents commemorated that day by erecting the **“Monument to His Imperial Highness the Crown Prince’s Crossing”** beside Beitou Creek’s second waterfall[^20]. After the war, this stele was nearly destroyed, but fortunately it was preserved. Today, it still stands in the courtyard of the Takinoyu bathhouse[^20].
+In 1934 (11 years later), locals erected a **"Monument Commemorating His Highness the Crown Prince's Crossing"** by the second waterfall of the Beitou Stream to commemorate this day[^20]. This monument nearly fell into ruin after the war but was fortunately preserved, and today it is located in the courtyard of Takinoyu Bathhouse[^20].
 
-After Hirohito’s hot spring visit, Beitou’s reputation for “imperial endorsement” spread throughout Japan. Across the 1920s and 1930s, more inns gradually appeared in Beitou. **Kazan Inn**, built in 1921, was then the highest-sited and most expensive purely wooden two-story Japanese-style building in the Xinbeitou area, and is now the only surviving building of its kind in Taiwan. After the war, it became the Ministry of Foreign Affairs’ Kazan Guest House; in 1983, Chang Chun-ming of San Fu Chemical took it over and converted it into the Taiwan Folk Arts Museum, now the **Beitou Museum**[^21]. **Takinoyu**, built in 1907, continued to operate as a public bath; after the war it kept operating under its changed name to the present day, undergoing its first major renovation in 2016 and reopening in 2017[^22]. Puji Temple still maintained the incense offerings for the Yumori Guanyin.
+After Hirohito’s visit, Beitou gained a reputation for "Imperial endorsement" throughout Japan. Throughout the 1920s and 1930s, more inns began to appear in Beitou: **Jiasan Hotel**, built in 1921, was a two-story wooden Japanese building that was the highest and most upscale establishment in the area of Xinbeitou at the time. It is one of the few surviving buildings of its kind in Taiwan (it was later converted into the Ministry of Foreign Affairs Jiasan Guest House, and in 1983, Zhang Chunming of Sanfu Chemical took over to convert it into the Taiwan Folk Art Museum, which is now the **Beitou Cultural and Historical Museum**)[^21]. **Takinoyu**, built in 1907, continued to operate as a public bathhouse (renamed after the war, continuing until its first major renovation in 2016 and reopening in 2017)[^22]. Puji Temple also maintained the incense offerings for Guanyin.
 
-What was Beitou like in that period? Wealthy people from Japan proper came for honeymoons, trading companies held banquets, military officers came for convalescence, and Taiwanese salaried workers were occasionally invited to accompany them. After the Second Sino-Japanese War broke out in 1937, Beitou’s inns began receiving Japanese soldiers. Kazan Inn was at one point requisitioned by the military as a “Japanese Officers’ Club”[^21]. In the final years of the war, kamikaze pilots were sent to Beitou for revelry in the week before departure, according to oral accounts from Beitou elders[^21].
+What was Beitou like during that period? Wealthy Japanese locals came here for honeymoons, trading companies held banquets, military officers sought recuperation, and Taiwanese salaried workers were occasionally invited to attend. After the Sino-Japanese War broke out in 1937, Beitou inns began hosting Japanese soldiers, and Jiasan Hotel was once requisitioned by the military as a "Japanese Officer Club." Near the end of the war, it is recounted by local elders that Kamikaze pilots were sent to Beitou for revelry one week before their deployment[^21].
 
-In August 1945, Japan surrendered. All Japanese residents returned to their home country, leaving behind an empty hot spring street and a group of Taiwanese people who did not know what would happen next.
+When Japan surrendered in August 1945, all Japanese people withdrew to their home country, leaving behind an empty hot spring town and a group of Taiwanese who did not know what would happen next.
 
 ## The Two Postwar Decades: Nakashi, Wine Houses, and U.S. Troops
 

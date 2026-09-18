@@ -1,88 +1,82 @@
 ---
-title: 'The Golden Croissant: An Accidental Mid-Air Encounter and a Taiwanese Croissant with a Han Pastry Soul'
-description: "The Sansia golden croissant did not originate in France — it began when a Han pastry chef had an accidental encounter with a Philippine bread on an airplane, and ultimately evolved into a hard-shell snack that holds up Sansia's olfactory identity."
-category: 'Food'
-tags:
-  [
-    'Sansia',
-    'golden croissant',
-    'Luo Fu-ching',
-    'souvenir',
-    'Taiwan street food',
-  ]
-author: 'Taiwan.md Contributors'
+title: 'Golden Horn: An In-Flight Serendipity and the Han-Pastry Soul of a Taiwanese Croissant'
+description: "Sanxia's Golden Horn did not originate in France, but from a Han-pastry master's serendipitous encounter with Filipino bread on a plane, eventually evolving into the hearty pastry that upholds Sanxia's olfactory memory."
 date: 2026-04-21
-readingTime: 6
+category: 'Food'
+tags: ['Sanxia', 'Golden Horn', 'Luo Fu-ching', 'souvenir', 'Taiwanese snacks']
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
+readingTime: 6
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c876a6c84ad1bc82'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-05-01T12:21:52+08:00'
-featured: false
+translatedAt: '2026-09-18T00:52:58+08:00'
 ---
 
-> **30-second overview:** The Sansia golden croissant (金牛角), a well-known souvenir across Taiwan, has an origin story far more interesting than most imagine. It did not come from a European croissant — it was created by Han pastry chef **Luo Fu-ching**, who was inspired by a "Philippine bread" he encountered on a flight, then returned to Taiwan and adapted it using Chinese pastry-making craft. Its distinctive "hard-shell" texture comes from the repeated pressing to remove air from the dough and the generous application of butter during baking, reflecting early Taiwanese society's pursuit of substantial, filling food. From a neighborhood snack to an old-street specialty, the golden croissant is not merely a taste memory — it is a distillation of Sansia's local culture and commercial development, holding up this small town's distinctive olfactory landmark.
+> **30-second overview:** Sanxia's Golden Horn, this famous Taiwanese souvenir, has a far more storied origin than you might imagine. It did not descend from the European croissant, but was created by Han-pastry master **Luo Fu-ching** during a flight, inspired by "Filipino bread," then refined back in Taiwan by fusing traditional Chinese pastry techniques. Its distinctive "hard-edged" texture comes from repeated dough pressing to remove air and baking with copious butter, reflecting early Taiwanese people's pursuit of substantial, satisfying food. From alleyway snack to Old Street signature product, the Golden Horn is not just a taste memory but a microcosm of Sanxia's local culture and commercial development, propping up this small town's unique olfactory landmark.
 
-If you walk into Sansia Old Street in New Taipei City, your nose will be occupied by a powerfully assertive milky fragrance before you even see the intricately carved stone pillars of the Qingshui Zushi Temple. That is not the light, elegant scent of a French bakery with its nuanced fermentation notes — it is more direct, richer, and carries hints of oil-pastry caramel. The source of this smell is Sansia's most iconic symbol: the golden croissant.
+If you walk into Sanxia Old Street in New Taipei City, before you even see the exquisitely carved stone pillars of Qingshui Zushi Temple, your nose will be seized by an extraordinarily domineering milky aroma. That is not the light, elegantly fermented scent of a French boulangerie, but something more direct, heavier, even carrying a hint of fried pastry fragrance — a distinctly Taiwanese smell. The source of this aroma is Sanxia's most famous symbol — the Golden Horn.
 
-### The Accidental Mid-Air Encounter
+### A Serendipitous Encounter on a Plane
 
-Many people assume the golden croissant is a localized version of the French croissant, but in fact its lineage is closer to Southeast Asia. **Luo Fu-ching**, the founder of Sansia's "Fu Mei Xuan Pastry Shop" (福美軒餅舖), established the shop in 1958, originally starting with wedding cakes.[^7] During a trip, he ate a firm-textured "Philippine bread" on an airplane[^1][^2]; other accounts say the inspiration came from eating small pastries while traveling in Australia and New Zealand.[^9] Already a seasoned Han pastry chef, he was struck by the chewiness of this bread — so different from Taiwanese soft bread. Back in Sansia, he did not copy it directly. Instead, he infused the "layer upon layer" logic he used in making Chinese moon cakes and oil pastry into this foreign snack.[^3]
+Many mistakenly believe the Golden Horn is a localized variant of the French croissant, but in fact its lineage is closer to Southeast Asia. **Luo Fu-ching**, founder of Sanxia's "Fumeixuan Bakery," established the shop in 1958 starting with wedding pastries [^7]. On one journey, he ate a firm-textured "Filipino bread" on a plane [^1] [^2]; some reports also say he found inspiration eating small buns while traveling in Australia and New Zealand [^9]. Already a veteran Han-pastry master at the time, he was stunned by the chew so different from Taiwanese soft breads. Returning to Sanxia, he did not simply copy it, but infused the "layer-upon-layer" logic of Chinese mooncake and flaky pastry making into this foreign pastry [^3].
 
-Luo Fu-ching ran the dough through a pressing machine multiple times, completely expelling the air, making the structure extremely dense. In Western baking this is forbidden — it destroys the bread's fluffiness — but in a Han pastry chef's eyes, this was precisely the expression of "substance." In the end, a snack shaped like a horn but with the texture of a hard biscuit emerged quietly from the alleys of Sansia.
+Luo Fu-ching ran the dough through a sheeter repeatedly, thoroughly expelling air until the crumb became extremely fine. This is taboo in Western baking because it destroys the bread's fluffiness, but in a Han-pastry master's eyes, this is precisely the manifestation of "substantiality." Finally, this pastry — shaped like a horn but with the texture of a hard biscuit — was quietly born in Sanxia's alleyways.
 
 ### Why Is It So "Hard"?
 
-The standard for judging an authentic Sansia golden croissant is not softness, but "crunch" and "fragrance." To achieve this effect, the chef must brush generous amounts of pure butter onto the surface of the bread during baking, so the exterior undergoes something like a frying effect in the oven.[^4]
+Judging an authentic Sanxia Golden Horn, the standard lies not in fluffiness but in "crispness" and "fragrance." To achieve this, the baker must brush the surface with a large amount of pure butter during baking, creating a quasi-frying effect in the oven [^4].
 
-| Characteristic | Sansia Golden Croissant                   | French Croissant                           |
-| :------------- | :---------------------------------------- | :----------------------------------------- |
-| **Core Soul**  | Han pastry oil-crumble craft              | Yeast fermentation and layered butter      |
-| **Texture**    | Firm, crispy-hard, no air pockets         | Light, crispy-flaky, honeycomb air pockets |
-| **Key Step**   | Repeated pressing to remove air           | Cold-temperature folding for layers        |
-| **Best Part**  | The two pointed tips (hardest, crispiest) | Central honeycomb structure                |
+| Characteristic    | Sanxia Golden Horn                | French Croissant                      |
+| :---------------- | :-------------------------------- | :------------------------------------ |
+| **Core Soul**     | Han-pastry flaky technique        | Yeast fermentation & laminated butter |
+| **Texture**       | Dense, crisp-hard, no air pockets | Light, flaky, honeycomb crumb         |
+| **Key Technique** | Repeated pressing to remove air   | Low-temperature folding & lamination  |
+| **Best Part**     | Two pointed tips (crispiest)      | Center honeycomb structure            |
 
-This "hard-shell" approach reflects the aesthetic of early Taiwanese society toward food: must be oily enough, fragrant enough, filling enough. For Sansia people, the two tips of the golden croissant — baked until caramelized and crispy, almost like biscuit — are where the whole bread finds its essence.
+This "hard-edged" method reflects early Taiwanese society's food aesthetic: it had to be oily enough, fragrant enough, filling enough. For Sanxia people, the two tips of the Golden Horn — baked to a charred crisp, almost like biscuits — are the very essence of the whole pastry.
 
-### From One Shop to One Street's Collective Memory
+### From One Shop to a Street's Collective Memory
 
-The golden croissant's fame was not built overnight. For decades it was just a neighborhood snack known only to Sansia locals. It was not until the early 2000s, with the renovation and touristification of Sansia Old Street, that this snack with its powerful olfactory identity officially became known as a "Sansia specialty."[^5] In particular, 2001 saw extensive media coverage that bound "Sansia" and "golden croissant" tightly together.[^8]
+The Golden Horn's rise to fame was not overnight. For decades it remained a local's private treat. Only in the early 2000s, with the renovation and touristification of Sanxia Old Street, did this pastry with its powerful olfactory identity officially ascend to "Sanxia specialty" status [^5]. Especially in 2001, extensive media coverage tightly bound "Sanxia" and "Golden Horn" together [^8].
 
-What followed was fierce brand competition and family infighting. On Sansia Old Street, you can see multiple brands side by side — "Gold Sansia" (金三峽), "Sanxia Yong" (三角湧), "Kang Xi Xuan" (康喜軒) — and there have been multiple legal disputes and naming wars.[^6][^7] This wild-growth process, though carrying commercial smoke and conflict, accidentally led the golden croissant to develop a range of flavors including chocolate, brown sugar, and pineapple bun — turning an originally plain hard bread into an indispensable part of Taiwanese souvenir culture.
+What followed was fierce brand competition and family infighting. On Sanxia Old Street you can see "Jin Sanxia," "Sanchongyong," "Kangxixuan" and other brands standing side by side, even triggering multiple lawsuits and disputes over naming rights [^6] [^7]. This wild growth, though reeking of commercial gunpowder, accidentally drove the Golden Horn to develop diverse flavors — chocolate, brown sugar, pineapple — letting this originally monotonous hard bread evolve into an indispensable link in Taiwan's souvenir culture.
 
-### Conclusion: Holding Up the Town's Skeleton
+### Conclusion: Propping Up the Town's Skeleton
 
-The story of the Sansia golden croissant is, at its core, a cultural experiment in "misunderstanding" and "transformation." A Han pastry chef stumbled into taking inspiration from the Philippines, applied Chinese craft, and planted it in the soil of Taiwan. It does not pursue French refinement or Japanese delicacy. Its near-stubbornly firm texture is like the stone pillars of the Qingshui Zushi Temple — heavy, but steadily holding up this small town's cultural weight and olfactory memory.
+The story of Sanxia's Golden Horn is essentially a cultural experiment in "misunderstanding" and "transformation." A Han-pastry master accidentally planted Filipino inspiration, using Chinese craft, on Taiwanese soil. It pursues neither French refinement nor Japanese delicacy; its near-stubborn substantiality, like the stone pillars inside Qingshui Zushi Temple, though heavy, steadily upholds this small town's cultural weight and olfactory memory.
 
-Next time you bite into that crispy, caramelized tip, remember: you are tasting not just bread, but an accidental legend that began at 30,000 feet in the air and settled in Sansia's alleys over half a century.
+Next time you bite into that charred-crisp horn tip, remember: you are tasting not just bread, but an accidental legend that began at ten thousand feet and settled in Sanxia's alleyways for half a century.
 
 ---
 
 ## Further Reading
 
-- **[Taiwan Street Food](/en/food/taiwanese-street-food)** — The golden croissant's position on the map of Taiwanese street food as a regional souvenir
-- **[Sansia Old Street](/geography/三峽老街)** — The cultural landscape where the golden croissant took root (if the entry does not exist, this is a future development direction)
-- **[Taiwan's Pastry Culture](/en/food/taiwan-pastry-culture)** — How Han pastry craft DNA entered new-style confectionery
-- **[Taiwan's Souvenir Economy](/economy/台灣伴手禮經濟)** — Old-street touristification × family trademark disputes as a case study in local economy
+- **[Taiwanese Snacks](/en/food/taiwanese-street-food)** — The Golden Horn's place in the Taiwanese snack landscape as a local souvenir
+- **[Sanxia Old Street](/en/history/sanxia-old-street)** — The cultural landscape where the Golden Horn originated (serves as future development if entry doesn't exist)
+- **[Taiwanese Pastry Culture](/en/food/taiwan-pastry-culture)** — How Han-pastry craft genes entered new-style pastries
+- **[Taiwan's Souvenir Economy](/economy/台灣伴手禮經濟)** — A local economic case of Old Street touristification × family trademark disputes
 
 ## References
 
-[^1]: [Luo Fu-ching — National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=275080) — National Cultural Memory Bank archival page — Luo Fu-ching's life and Fu Mei Xuan Pastry Shop
+[^1]: [Luo Fu-ching - National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=275080) — National Cultural Memory Bank collection page — Luo Fu-ching's life and Fumeixuan Bakery
 
-[^2]: [Invented on a Plane! The Legendary Sansia Golden Croissant Grandpa You've Definitely Eaten — iSanxia](https://www.facebook.com/iSanxia/posts/3198263976921162/) — iSanxia local journal fan page — Oral history of the golden croissant invented on an airplane
+[^2]: [【#Sanxia News】Golden Horn Invented on a Plane! Sanxia Founding Grandpa's Legend You've Surely Eaten... - iSanxia](https://www.facebook.com/iSanxia/posts/3198263976921162/) — iSanxia Sanxia local history fan page — Oral history of the Golden Horn invented on a plane
 
-[^3]: [Sansia Golden Croissant Went Viral! Turns Out It Came from a Philippine Bread? — Liberty Times](https://food.ltn.com.tw/article/1496) — Liberty Times food section — Investigation into Sansia golden croissant's Philippine bread origin
+[^3]: [Sanxia Golden Horn So Popular! Actually Originated from Filipino Bread? - Liberty Times](https://food.ltn.com.tw/article/1496) — Liberty Times Food Freedom — Investigation into Sanxia Golden Horn's Filipino bread origin
 
-[^4]: [Golden Croissant. Taiwan Golden Croissants (with cooking video) — Carole's Blog](https://caroleasylife.blogspot.com/2019/12/taiwan-golden-croissants.html) — Carole's Blog home cooking tutorial — Taiwanese golden croissant home recipe including cooking video
+[^4]: [Golden Horn. Taiwan Golden Croissants (with tutorial video) - Carole's Blog](https://caroleasylife.blogspot.com/2019/12/taiwan-golden-croissants.html) — Carole's Blog tutorial — Taiwanese Golden Horn home recipe with tutorial video
 
-[^5]: [Discover Taiwan Flavors: The Sansia Golden Croissant's Tenacious Spirit of Substance — TVBS](https://news.tvbs.com.tw/life/324060) — TVBS Discover Taiwan Flavors series — Sansia golden croissant human spirit feature
+[^5]: [【Discover Taiwan Flavors】Sanxia Golden Horn Legend: The Humanistic Spirit of Pragmatic Persistence - TVBS](https://news.tvbs.com.tw/life/324060) — TVBS Discover Taiwan Flavors series — Sanxia Golden Horn humanistic spirit feature
 
-[^6]: [Three Siblings-in-Law Fight Over the Name "Golden Croissant" — Family Feud Erupts — Matsu Daily](https://www.matsu-news.gov.tw/news/article/152707) — Matsu Daily — Three siblings-in-law family "golden croissant" naming dispute
+[^6]: [Three Brothers-in-Law Fight Over "Golden Horn" Name, Family Infighting Erupts - Matsu Daily](https://www.matsu-news.gov.tw/news/article/152707) — Matsu Daily — Three brothers-in-law family "Golden Horn" naming rights dispute
 
-[^7]: [The Sansia Croissant Whirlwind — A Family Feud — UDN News](https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E7%89%9B%E8%A7%92%E6%97%8B%E9%A2%A8-%E5%A0%B4%E5%88%86%E5%AE%B6%E5%85%A7%E9%AC%A5-215006433.html) — UDN News — The origin and course of the Sansia croissant family split and feud
+[^7]: [Sanxia Horn Whirlwind: A Family Split Infighting - United Daily News](https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E7%89%9B%E8%A7%92%E6%97%8B%E9%A2%A8-%E5%A0%B4%E5%88%86%E5%AE%B6%E5%85%A7%E9%AC%A5-215006433.html) — United Daily News — The full story of Sanxia Horn whirlwind family split infighting
 
-[^8]: [The Original Sansia Golden Croissant Shop — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2142994) — Liberty Times — Dispute over identifying the original Sansia golden croissant shop
+[^8]: [Sanxia Golden Horn Original Shop Finally Recognized! - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2142994) — Liberty Times — Sanxia Golden Horn original shop recognition dispute
 
-[^9]: [Golden Croissant Bread Creator Luo Fu-ching Develops Volunteer Welfare Field — UDN News](https://www.lnanews.com/news/98402) — UDN News (Labor News) — Luo Fu-ching's public interest volunteer field development coverage
+[^9]: [Golden Horn Bread Founder Luo Fu-ching Develops Volunteer Blessings - United Daily News](https://www.lnanews.com/news/98402) — United Daily News (Labor News) — Report on Luo Fu-ching's volunteer blessing field development

@@ -240,7 +240,7 @@
   "id:Geography/龜山島.md": 1,
   "ar:Music/台灣嘻哈與饒舌發展.md": 2,
   "pt:Music/周蕙.md": 1,
-  "hi:Food/台灣美食總覽.md": 2,
+  "hi:Food/台灣美食總覽.md": 3,
   "ar:Music/周蕙.md": 1,
   "pt:People/唐鳳.md": 7,
   "id:Music/周蕙.md": 1,
@@ -862,7 +862,7 @@
   "id:People/王福瑞.md": 1,
   "pt:Economy/中華菱利.md": 1,
   "ja:History/史前時代與原住民.md": 6,
-  "id:Geography/北投溫泉街.md": 1,
+  "id:Geography/北投溫泉街.md": 2,
   "pt:Technology/NVIDIA在台灣.md": 1,
   "ru:Technology/Computex.md": 1,
   "pt:People/壞特.md": 4,
@@ -3343,7 +3343,7 @@
   "vi:Music/台灣樂器製造.md": 1,
   "vi:Culture/台灣傳統工藝與無形文化資產.md": 1,
   "ko:People/陳致中.md": 2,
-  "es:People/陳致中.md": 1,
+  "es:People/陳致中.md": 2,
   "en:Food/台灣早餐文化.md": 1,
   "fr:Culture/台灣VTuber.md": 1,
   "ko:Food/台灣早餐文化.md": 1,
@@ -3364,5 +3364,6 @@
   "es:Technology/電子商務與數位支付生態系.md": 1,
   "vi:People/陳致中.md": 1,
   "en:Geography/公館.md": 1,
-  "fr:Geography/公館.md": 1
+  "fr:Geography/公館.md": 1,
+  "fr:People/陳致中.md": 1
 }
