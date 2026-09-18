@@ -1,0 +1,21 @@
+[0;32m✅[0m public/article-images/society/dgbas-guangbo-building-2023.webp [0;90m(2400x1476, aspect 1.626, mode=inline, range 0.75-2.5)[0m
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[1m📐 Aspect ratio 檢查（mode=inline, range 0.75-2.5）[0m
+   檢查: \033[1m1\033[0m 張
+   [0;32m✅ 全部通過[0m
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[0;32m✅[0m public/article-images/society/mol-main-entrance-2023.webp [0;90m(1600x1200, aspect 1.333, mode=inline, range 0.75-2.5)[0m
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[1m📐 Aspect ratio 檢查（mode=inline, range 0.75-2.5）[0m
+   檢查: \033[1m1\033[0m 張
+   [0;32m✅ 全部通過[0m
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[0;32m✅[0m public/article-images/society/mol-minimum-wage-ten-year-chart-2025.webp [0;90m(1040x720, aspect 1.444, mode=inline, range 0.75-2.5)[0m
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[1m📐 Aspect ratio 檢查（mode=inline, range 0.75-2.5）[0m
+   檢查: \033[1m1\033[0m 張
+   [0;32m✅ 全部通過[0m
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

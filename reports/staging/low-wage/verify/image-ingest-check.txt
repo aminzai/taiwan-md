@@ -1,0 +1,9 @@
+[0;32m✓ public/article-images/society/dgbas-guangbo-building-2023.webp[0m  [0;90mwebp 2400×1476 419KB [hero][0m
+
+[0;32m檢驗：0 hard / 0 warn[0m
+exit=0
+[0;32m✓ public/article-images/society/mol-main-entrance-2023.webp[0m  [0;90mwebp 1600×1200 214KB [inline][0m
+[0;32m✓ public/article-images/society/mol-minimum-wage-ten-year-chart-2025.webp[0m  [0;90mwebp 1040×720 54KB [inline][0m
+
+[0;32m檢驗：0 hard / 0 warn[0m
+exit=0

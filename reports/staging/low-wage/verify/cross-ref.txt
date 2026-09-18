@@ -1,0 +1,6 @@
+🧬 knowledge/Society/誰算低薪.md
+   lang=zh-TW  category=Society  slug=誰算低薪
+   ✅ cross-reference  hard=0 warn=0 info=1
+      info : 單向連結到 [[外送專法]] — 對方未連回 (informational; Stage 5 review 判斷該不該補)
+
+Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)
