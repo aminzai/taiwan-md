@@ -1,0 +1,21 @@
+{
+  "revision": 25,
+  "stage": "compose",
+  "actor": "taiwan-md-write-session 2026-09-18-134020-low-wage（主 session 投影＋三席投影編輯室三輪；fresh Opus writer a84c37763a5636a51 執筆；主編通讀修五處）",
+  "artifacts": [
+    "knowledge/Society/誰算低薪.md",
+    "reports/article-projection/誰算低薪.md",
+    "reports/editorial-room/誰算低薪-projection-review.md"
+  ],
+  "data": {
+    "draftPath": "knowledge/Society/誰算低薪.md",
+    "editorialChoices": "照投影藍圖八步論證寫（同一場記者會兩個答案 → 三把尺 → 本薪有法律守著年終沒有 → 分母門外三百多萬人 → 兩年前勞動部長也算過 → 15,840 印了將近十年然後連漲十年 → 每一方自己的話 → 9/24 二十一個人）。投影編輯室三輪收斂：H2 攻擊語入引號、資方聲音補進第七節、韓日法數字退進圖表、C5 編製方法壓成一句、人力資源調查只留自營作業者出正文。第七節每一句逐字後統一標「指的是哪一欄、哪個分母」，不對任何一方單獨背書；記者轉述（許宇甄、何佩珊、資方委員）不加引號。減法理由留在藍圖 §4，不進正文。三張圖：主計總處廣博大樓 hero、勞動部連十漲折線圖（官方自己怎麼畫這條線）、勞動部大門；11 個 tw-* 模組每張標來源。主編通讀後修：1984 年 6,150 元早於勞基法施行一個月（研究報告 D1 原寫反了，同步修）、凍漲寫「將近十年」（1997-10 到 2007-07）、分母門外三百多萬標「粗估、兩套調查相加」、學者評論缺席加「截至 9 月 18 日」、description 縮短。 subcategory 依 docs/taxonomy/SUBCATEGORY.md 改為「人權與平等」（原「法律與制度」不在 Society 合法值，外送專法等四篇同有此債，另案）。",
+    "unresolved": [
+      "9/24 審議會結果尚未出爐——若 ship 早於 9/24，第八節維持「預估 30,975」與各方訴求；9/24 後需 EVOLVE-delta 補結果",
+      "2025 年（114 年）本國籍全時年薪中位數 11 月出爐，屆時 126 萬／16.8% 會有新一年數字",
+      "OECD 各國 earnings 口徑不可比只能在 tw-note 揭露，無法根治",
+      "description 169 字元（含數字與空格），CJK 約 120，略高於 160 字元建議值",
+      "「其他服務業唯一中位數低於 39 萬」是就 DGBAS 表 6 列出的行業而言；superlative 交 verifier 重驗"
+    ]
+  }
+}
