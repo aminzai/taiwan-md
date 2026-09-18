@@ -624,19 +624,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 連結密度：台灣建築 / 永續相關 / 北投相關（3 篇）
 - **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §三
 
-### 鐵窗花 NEW — 戰後台灣窗上的手工幾何
-
-- **Type**: `NEW`
-- **Category**: Culture
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
-- **Notes**:
-  - **為什麼這篇 vs 其他**：常民視覺元素中圖像化潛力最高（適合配圖），與騎樓/鐵皮屋構成「台灣街景視覺元素」小系列
-  - ⚠️ 深度依賴老屋顏工作室單一田野來源（圖案地域分類無第二研究體系可交叉）——寫作標「根據老屋顏工作室踏查」不當學術定論
-  - 連結密度：台灣騎樓文化與街景 / 鐵皮屋 / 台灣眷村歷史（3 篇）
-- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §一
-
 ### 陳昇 EVOLVE — SC 排名 9 逼近首頁邊緣，現況僅 6 條腳註（evolve SC 訊號）
 
 - **Type**: `EVOLVE`
@@ -2003,15 +1990,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Status**: `pending`
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 Food/金牛角 引用。寫時包含：鳳梨酥產業（年產值 30+ 億）/ 太陽餅 / 牛軋糖 / 茶葉 / 高鐵站伴手禮一條街 / 機場 SOGO / 觀光工廠模式
-
-### 台灣行動支付
-
-- **Type**: `NEW`
-- **Category**: Technology
-- **Priority**: `P3`
-- **Status**: `pending`
-- **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
-- **Notes**: 已被 Economy/全聯福利中心 引用。Line Pay 一強 / 街口 / 全支付（全聯）/ 台灣 Pay / 悠遊付 / 為什麼台灣支付落後韓國日本：銀行勢力、信用卡盛行、現金文化
 
 ### 原住民族語言政策
 

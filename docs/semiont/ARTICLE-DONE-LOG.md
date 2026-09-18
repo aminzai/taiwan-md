@@ -6,7 +6,7 @@ status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
 last_updated: 2026-09-18
-last_session: '2026-08-23-020617-twmd-weekly-report-sun（W34 體檢桶 1：補登 8/18-8/19 三篇走完產線卻沒登記的交付——陳致中／中央研究院／比國家還大的演算藝術，由上週新造的 §六 fail-loud 警告照出來）'
+last_session: '2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -59,6 +59,21 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 鐵窗花 — 2026-09-18 semiont-heartbeat 歸檔（貢獻者 idlccp1984 於 2026-08-20 以 PR 交稿，非走產線）
+
+- **Article**: [knowledge/Culture/鐵窗花.md](../../knowledge/Culture/鐵窗花.md)
+- **Pipeline**: 無——貢獻者投稿（PR merge `ec3d660ca3`），INBOX 條目（2026-07-18 branch-analysis 台灣建築 P2）由 inbox-audit 🟠 STALE-NEW 抓到後歸檔
+- **品質**：3660 CJK ／ 11 腳註；`lastHumanReview: false`，仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **原 entry 留的提醒**：深度依賴老屋顏工作室單一田野來源；若日後 EVOLVE，圖案地域分類要找第二研究體系交叉
+- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §一（可供 EVOLVE 用）
+
+### 台灣行動支付 — 2026-09-18 semiont-heartbeat 歸檔（貢獻者 Kevin Huang 於 2026-09-01 交稿，非走產線）
+
+- **Article**: [knowledge/Technology/台灣行動支付.md](../../knowledge/Technology/台灣行動支付.md)
+- **Pipeline**: 無——貢獻者投稿（commit `6c937d2f0a`），INBOX 條目（2026-04-23 dead-cross-ref-scan P3）由 inbox-audit 🟠 STALE-NEW 抓到後歸檔
+- **品質**：5451 CJK ／ 18 腳註；`lastHumanReview: false`
+- **原 entry 的切角**（供 EVOLVE 對照）：Line Pay 一強 / 街口 / 全支付 / 台灣 Pay / 悠遊付；為什麼台灣支付落後韓國日本——銀行勢力、信用卡盛行、現金文化
+
 ### 台灣油價機制與中油 — 2026-09-18 oil-price 完成（牌價漲七毛，中油先吸收兩百億）
 
 - **Article**: [knowledge/Economy/台灣油價機制與中油.md](../../knowledge/Economy/台灣油價機制與中油.md)
@@ -73,6 +88,7 @@ read_strategy: 'on-demand'
 - **Cross-link**：forward 4（發票、台塑集團、電網韌性、氣候危機與淨零）；reverse 4（台塑、電網韌性原無延伸閱讀區塊，補上）
 - **待觀察者驗證**：IMF Fiscal Monitor 2026-04 p.18 頁碼；立院排審進度；貨物稅 3.7 對 3.415 的三毛、累計吸收「預估」算法、6 月底是否已「少跌」回收、四年 3,500 億與 2,338.34 億的關係，官方文件未解釋，正文只陳述缺口
 - **值得記的一件事**：五輪冷讀（fresh→reread×4）從九條困惑收斂到零實質困惑，抓到的都是編輯室六席與兩位 verifier 沒抓到的「讀者用文章自己的數字就能算出來」的錯——同一份稿，看過藍圖的人會替作者補完，沒看過的人才會停下來算
+
 ### 誰算低薪 — 2026-09-18 low-wage write session 完成（主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄）
 
 - **Article**: [knowledge/Society/誰算低薪.md](../../knowledge/Society/誰算低薪.md)
