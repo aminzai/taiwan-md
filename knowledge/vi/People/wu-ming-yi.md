@@ -23,23 +23,19 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-07-28
 lastHumanReview: false
-researchReport: reports/research/2026-07/吳明益.md
-translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'fdd06c978'
-sourceContentHash: 'sha256:9e044da79052e1d4'
-sourceBodyHash: 'sha256:0b3e476aa45a53ca'
-translatedAt: '2026-08-09T08:07:25+08:00'
+researchReport: 'reports/research/2026-07/吳明益.md'
 image: '/article-images/people/zhonghua-market-1965.jpg'
 imageCredit: '行政院新聞局（Public Domain）'
 imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
 difficulty: 'intermediate'
 readingTime: 24
-rationale:
-  why_this_hook: 'Mắt phức hợp = cách nhìn, chống lại tường thuật "hành trình lên ngôi vị": chợ Trung Hoa là cửa vào ký ức có cảm thụ'
-  whats_excluded: 'Dòng dõi giải thưởng, sự kiện quốc tịch làm xương sống, tóm lược chuyến phim, tiêu thụ đối chọi với Dương Tứ Tử'
-  where_it_hedges: 'Phân tầng "lần bán quyền nước ngoài đầu tiên"; phân tầng vốn công khai; tranh cãi "bánh ướt" về hàng hải — không leo thang thành lời tư pháp công luận'
-  whos_pushing_back: 'Chỉ trích sâu về viết tự nhiên, chính trị tái diễn đa tộc, sân chấp quốc tế của Booker những năm mà không vào shortlist'
+rationale: "{'why_this_hook': '複眼＝看的方法，對抗「得獎履歷」通行敘事；中華商場是可感記憶入口', 'whats_excluded': '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費', 'where_it_hedges': '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪', 'whos_pushing_back': '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'}"
+translatedFrom: 'People/吳明益.md'
+sourceCommitSha: '36aaa72e1'
+sourceContentHash: 'sha256:4084ed4b3480a75a'
+sourceBodyHash: 'sha256:70f421624b5717be'
+translatedAt: '2026-09-18T05:58:22.210822+00:00'
 ---
 
 # Nguyên Minh Nghĩa: Dùng đôi mắt phức hợp viết lại Đài Loan bị mất
@@ -83,47 +79,47 @@ Công tác Đông Hoa từ khoảng 2000 khởi sắc (Bộ Trung Hán, sau là 
 
 Khuôn mẫu viết tự nhiên rồi cũng xoay ông quay lại. Phi tiểu thuyết có thể viết loài và nơi ở rất chuẩn xác, nhưng khó chứa được đồng thời quẻ chiến tranh kim loại, ma quái chợ, và cách khổng lồ vô lý của bãi rác va chạm bờ đó — đó là một ý nghĩa hiện đại lớn. Ông cần tiểu thuyết, để mắt phức hợp kéo dài từ cánh đồng sâu vào thời gian trăm năm. Sớm kỳ viết tự nhiên Đài Loan hay bị chỉ trích dừng ở yêu quý chủ quan, thiếu sâu suy nghĩ, chính ông lên đến bàn luận khi xây bản đồ, chính là vẽ ra một tấm có thể bị bác bỏ. Viết và nghiên cứu trong ông dùng chung một mắt phức hợp: một tay lưới bắt tĩnh mạch cánh bướm, một tay ghim tọa độ lịch sử văn học vào viết đất Đài Loan sau 1980. Nếu độc giả chỉ thấy huy chương trên sách bìa tiểu thuyết, dễ quên ông từng trước tiên là người vẽ bản đồ.
 
-## Chợ Trung Hoa bị phá, ông viết lại nó
+## Chợ Trung Hoa bị phá, ông viết nó trở lại
 
-![Hình ngoài chợ Trung Hoa năm 1965, nhà liên kề công khai tổng hợp đứng bên cạnh Tây Môn Tử, đoàn người và xe cộ lưu thông](/article-images/people/zhonghua-market-1965.jpg)
-_Chợ Trung Hoa, 1965. Viện Tin tức Hành chính chụp. Nhà liên kề công khai hoạt động từ 1961 tháng 4 ngày 22 đến 1992 tháng 10 phá dỡ từng mảng, lý do gồm công trường đường sắt ngầm, tàu điện ngầm và kế hoạch đại lộ xanh Trung Hoa. Public Domain._
+![Ảnh ngoại thất của Chợ Trung Hoa năm 1965, một khu thương mại tổng hợp công cộng liền kề nằm ở một bên Tây Môn Tràng, nơi người và xe cộ qua lại](/article-images/people/zhonghua-market-1965.jpg)
+_Chợ Trung Hoa, 1965. Ảnh do Cục Tin tức Viện Hành chính chụp. Khu thương mại liền kề này, được sử dụng từ năm 1961 và bị phá dỡ vào năm 1992, là nguyên mẫu của cửa hàng giày trẻ thơ trong tác phẩm 《Phù Thủy Trên Cầu Vượt》. Miền công cộng._
 
-Chợ Trung Hoa năm 1961 tháng 4 ngày 22 khai trương, năm 1992 tháng 10 phá từng mảng, lý do gồm công trường đường sắt ngầm, tàu điện ngầm và kế hoạch đại lộ xanh Trung Hoa. [^1] Với thế hệ giữa qua Tây Môn Tử, nơi đó là mùi mái hiên và bóng cầu vượt, là mê cung sẽ lưng vào sau giờ học, chứ không phải trang mục lịch sử kiến trúc. Chợ rồi, ký ức chỉ còn ảnh và miệng kể. Tới năm 2011, _Thợ múa trên Cầu Vượt_ viết chợ Trung Hoa vào giấy. [^2]
+Chợ Trung Hoa đi vào hoạt động ngày 22 tháng 4 năm 1961 và được chia tách phá dỡ vào tháng 10 năm 1992, với lý do bao gồm việc ngầm hóa đường sắt, dự án đại lộ bóng mát trên phố Trung Hoa và tuyến tàu điện ngầm. [^1] Đối với thế hệ thanh niên lớn lên ở Tây Môn Tràng, nơi đó là mê cung của mùi mái hiên và bóng cầu vượt, là nơi họ tìm đến sau giờ học, chứ không phải một mục trong lịch sử kiến trúc. Sau khi khu chợ biến mất, ký ức chỉ còn lại trong ảnh và lời kể. Cho đến năm 2011, 《Phù Thủy Trên Cầu Vượt》 đã viết Chợ Trung Hoa của những năm 1980 trở lại trên giấy. [^2]
 
-Tiểu thuyết có thợ múa bí ẩn trên cầu vượt, ngựa gỉa lấp lánh, cậu bé nhỏ nhất nhà bán giày. Nguyên Minh Nghĩa nói với OKAPI: "Chợ Trung Hoa thực tình là chỗ kỳ lạ lắm, mọi thứ huyền diệu đều ở trong đó!" [^4] Huyền diệu ở đây mang nặng công trình. Chợ đã biến mất, huyền diệu làm không gian biến mất lại có thể đi lại được. Áp dụng xã hội đầu tiên của mắt phức hợp với "biến mất," rơi vào ký ức thành phố: ai còn nhớ người dân nấu cơm dưới mái hiên đó, ai còn sẽ chỉ thứ tự các mái Trung Hiếu Nhân đó.
+Trong tiểu thuyết có Phù thủy bí ẩn trên cầu vượt, chiếc xe giày trẻ con bé nhỏ và cửa hàng giày. Ngô Minh Ích từng nói với OKAPI: "Chợ Trung Hoa thực sự là một nơi kỳ lạ, tất cả những điều huyền ảo đều ở đó!"[^4] Sự huyền ảo ở đây mang chức năng cấu trúc. Bản thân khu chợ đã biến mất, nhưng sự huyền ảo giúp không gian đã mất trở nên có thể đi lại được. Ứng dụng xã hội đầu tiên đối với "sự biến mất" nằm trên ký ức đô thị: ai còn nhớ những gia đình từng nấu ăn dưới mái hiên, ai còn có thể chỉ ra thứ tự của các tòa nhà Chung Hiếu Nhân Ái?
 
-![Đêm chợ Trung Hoa với đèn neon và tàu neon, bảng hiệu và ánh sáng xếp thành bao tối mật độ 1980 ở Tây Môn Tử](/article-images/people/zhonghua-market-night.jpg)
+![Hình ảnh về sự nhộn nhịp và đèn neon của Chợ Trung Hoa trong đêm](/article-images/people/zhonghua-market-night.jpg)
 
-![Nhìn mái hiên một tầng mảng "Tín" chợ Trung Hoa: bảng hàng, hàng cột và quy mô bộ chân người](/article-images/people/zhonghua-market-xin.jpg)
-_Chợ Trung Hoa ban đêm (ảnh lịch sử). Neon trước phá dỡ và mái hiên, là ký ức hình ảnh mà tiểu thuyết và nước ngoài trực tuyến lặp lại. Ảnh qua Wikimedia Commons, CC BY 3.0._
+![Cảnh mái hiên tầng trệt tại khu "Tín" của Chợ Trung Hoa: biển hiệu, cột trụ và tỷ lệ người đi bộ](/article-images/people/zhonghua-market-xin.jpg)
+_Cảnh đêm Chợ Trung Hoa (hình ảnh lịch sử). Những chiếc đèn neon và mái hiên trước khi bị phá dỡ là ký ức thị giác mà tiểu thuyết và phim truyền hình công cộng liên tục quay lại. Ảnh qua Wikimedia Commons, CC BY 3.0._
 
-Năm 2021 tháng 2 ngày 20, hình truyền hình công cộng _Thợ múa trên Cầu Vượt_ lên sóng, đạo diễn Dương Nhã Trác. [^10] Phim trường Tất Chỉ khoảng hai đến hai phẩy năm hectare, báo chí ghi lại chi phí lắp ráp khoảng tám mươi triệu, hoàn toàn gần năm mươi tiểu bộ. Toàn bộ chi phí sản xuất báo chí ghi khoảng hai trăm triệu, phòng chương trình trần thuật mỗi tập khoảng hai mươi triệu. Ba con số có tầng độ khác nhau, không thể pha chung thành "chi tiền hai trăm triệu lắp ráp lại." [^11] Sau tối, chợ giả đó sẽ lại bị phá dỡ một lần: phá dỡ thực 1992, phá dỡ hư cấu 2020 trước đó, hai lần mất vào cùng một hàng lang. Báo chí còn kể rèn đường sắt và gara xe chạm tới mức tối đa, ứng với ký ức phim _Tình Yêu Trong Bụi Trần_ được quay của Hầu Hiếu Hiền. [^11] Âm thanh công nhân phá bảng hiệu tại phim trường, giống như một lần nữa hủy một thời đại đã kết thúc.
+Vào ngày 20 tháng 2 năm 2021, bộ phim truyền hình công cộng 《Phù Thủy Trên Cầu Vượt》 được phát sóng lần đầu, do đạo diễn Dương Nhã Triết thực hiện.[^10] Trường quay ở Tịch Chỉ rộng khoảng hai đến hai phẩy năm mẫu Anh vuông, báo cáo cho biết chi phí dựng cảnh khoảng tám mươi triệu, tái tạo gần năm mươi mặt bằng. Truyền thông nói tổng chi phí sản xuất là khoảng hai trăm triệu, trong khi bộ phận chương trình nói chi phí mỗi tập khoảng hai mươi triệu. Ba con số này thuộc các cấp độ khác nhau và không thể gộp chung thành "tốn hai trăm triệu để dựng cảnh".[^11] Sau khi hoàn thành, khu chợ giả đó lại bị phá một lần nữa: sự biến mất thực tế là năm 1992, còn sự biến mất ảo là khoảng năm 2020, hai lần biến mất chồng lên cùng một hành lang. Báo cáo cũng đề cập đến việc đường ray và nhà xe được dựng đầy đủ, tương ứng với tuyến mà Hầu Hiếu Hiền dùng để lấy bối cảnh trong 《Luyến Luyến Phong Trần》.[^11] Âm thanh công nhân phá biển hiệu tại trường quay giống như một lần kết thúc thời đại đã qua.
 
 ```tw-stat
-khoảng 2 tỷ | Toàn bộ chi phí sản xuất (báo chí ghi) | Gồm nhân sự, hiệu ứng, hậu kỳ
-khoảng 8.000 triệu | Phim trường lắp ráp | Tất Chỉ, gần 50 tiểu bộ
-khoảng 2.000 triệu | Chi phí mỗi tập (phòng chương trình trần thuật) | Khác với hai cái ở trước
-Nguồn: Tự do Nội dung/Tin Đài Loan/Ghi chép Hoạt động Đạm Giang; ba con số không thể pha chung viết
+Khoảng 200 triệu | Tổng chi phí sản xuất (theo truyền thông) | Bao gồm nhân sự, hiệu ứng, hậu kỳ
+Khoảng 80 triệu | Dựng cảnh tại trường quay | Tịch Chỉ, gần 50 mặt bằng
+Khoảng 20 triệu | Chi phí mỗi tập (theo lời bộ phận chương trình) | Khác cấp độ hai số trên
+Nguồn: Tự Do Giải Trí / Taiwan News / Ghi chép hoạt động Tam Giang; Ba con số không thể trộn lẫn
 ```
 
 ```tw-note
-Lưu ý
-Tin tức "tiền" của hình công khai "ba số" hay bị báo chí nặn thành một câu "chi tiền hai trăm triệu xây dựng lại chợ Trung Hoa." Bài này tách riêng: toàn bộ, lắp ráp, miệng chương trình, tránh pha tầng kế toán khác nhau thành một số kinh khủng.
+Giải thích
+Ba con số của phim truyền hình công cộng "Tiền" thường bị báo chí gộp thành một câu "tốn hai trăm triệu để tái dựng Chợ Trung Hoa". Bài viết này tách ra: tổng thể, dựng cảnh, mỗi tập theo lời nói, tránh việc gán các cấp độ kế toán khác nhau thành một con số kịch tính duy nhất.
 ```
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Giới thiệu Nước ngoài Truyền hình Công cộng _Thợ múa trên Cầu Vượt_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Trailer chính thức phim công cộng 《Phù Thủy Trên Cầu Vượt》" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Nguyên Minh Nghĩa trong thời kỳ trước mở của đoàn phim nói: ông muốn những người từng ở thời chợ nhìn nước ngoài này, không chỉ kêu gọi ký ức, mà giống như lại sống một lần thế giới bình hành. "Giống như bây giờ có thể dùng kỹ thuật số để sáng tạo sao Hỏa, để mọi người quân đội ma quái quả cầu. Tôi muốn thế hệ trẻ độc giả sẽ phát hiện ra: chợ Trung Hoa giống như bước chân đầu tiên của họ trên sao Hỏa vậy." [^12]
+Ngô Minh Ích nói trong giai đoạn quảng bá cho đoàn làm phim: ông hy vọng những người đã trải qua thời đại của khu chợ khi xem bộ phim này, không chỉ là gợi lại ký ức mà còn như được sống một lần khác trong dòng thời gian song song. "Giống như bây giờ chúng ta có thể dùng công nghệ số để tạo ra sao Hỏa, để mọi người hạ cánh ảo lên hành tinh đó. Tôi hy vọng thế hệ khán giả trẻ sẽ nhận ra: Chợ Trung Hoa giống như Sao Hỏa mà họ đặt chân đến lần đầu."[^12]
 
 ```tw-quote
-Chợ Trung Hoa giống như bước chân đầu tiên của họ trên sao Hỏa vậy
-Nguyên Minh Nghĩa | Thời kỳ trước nước ngoài Truyền hình Công cộng, Marie Claire/Tự do Tin tức giao cắt
+Chợ Trung Hoa giống như Sao Hỏa mà họ đặt chân đến lần đầu
+Ngô Minh Ích | Giai đoạn quảng bá phim công cộng, Marie Claire/Tự Do Giải Trí chéo
 ```
 
 > **💡 Bạn có biết không**
-> Chợ Trung Hoa phá dỡ theo "Trung→Hiếu Nhân→Ái Tín→Nghĩa Hoà Bình" từng mảng, quanh co khoảng mười ngày. Tiểu thuyết và hình truyền hình sau đó đã làm cho mê cung đã không tồn tại của chợ, biến thành cửa vào ký ức chung thế hệ.
+> Khi phá dỡ Chợ Trung Hoa, việc chia thành các khu theo thứ tự "Trung → Hiếu Nhân → Ái Tín → Nghĩa Hòa" diễn ra trong khoảng mười ngày. Tiểu thuyết và bộ phim sau này đã biến mê cung liền kề không còn tồn tại này thành một lối vào ký ức được sử dụng bởi nhiều thế hệ.
 
-Ký ức thành phố một khi viết lại, độc giả sẽ muốn hỏi câu hỏi còn to lớn hơn: còn cái gì khác biến mất, cũng xứng đáng dùng sức lực tương tự để tìm lại? Chợ là thời nhỏ, là hộp giày và mái hiên, là biểu diễn trên cầu vượt giữa phép lạ hoặc lường gạt mâu thuẫn. Chiến tranh và xe đạp, thì kéo tầm từ phố phường lên thành gia tộc và lịch sử đảo. Cùng một đôi mắt, bắt đầu phải cùng tiêu điểm thời gian ngắn của phố phường và thời gian dài của sang chấn.
+Một khi ký ức đô thị được viết lại, độc giả sẽ muốn đặt câu hỏi lớn hơn: Còn những thứ gì đã biến mất mà đáng để tìm lại bằng cùng một nỗ lực? Khu chợ là tuổi thơ, là hộp giày và mái hiên, là màn trình diễn trên cầu vượt không thể nói rõ là ảo thuật hay lừa đảo. Chiến tranh và đoàn tàu sắt thì kéo quy mô từ khu phố lên đến gia tộc và lịch sử hòn đảo. Cùng một đôi mắt bắt đầu phải tập trung đồng thời vào sự nhộn nhịp trong thời gian ngắn và những tổn thương kéo dài.
 
 ## Máy bay chiến đấu trong ngăn kéo cha, và chiếc xe đạp biến mất
 
@@ -193,32 +189,32 @@ khoảng hai tuần | Dánh nhãn đổi | Trang chính thức đổi Taiwan, Tr
 Nguồn: Guardian/Tự do Đạo báo/Sentinel Chuyển công khai/Bình luận Khóa
 ```
 
-## Hải Phong Khách Sạn ở Hoa Liên, với mây ở hai nghìn mét
+## Gió biển ở hiệu sách Hoa Liên, và tầng mây hai ngàn mét
 
-![肖像 Nguyên Minh Nghĩa trong công ước Đại học Đông Hoa: tóc ngắn, áo sơ mi màu nhạt, biểu cảm yên tĩnh](/article-images/people/wu-ming-yi-ndhu.jpg)
-_Nguyên Minh Nghĩa. Giáo sư Bộ Văn học tiếng Hoa Đại học Đông Hoa, lâu dài dạy học và sáng tác tại Hoa Liên. Ảnh: Đại học Quốc lập Đông Hoa / Ghi công._
+![Ảnh chân dung Ngô Minh Ích tại trường Đại học Đông Hoa: tóc ngắn, áo sơ mi nhạt, vẻ mặt điềm tĩnh](/article-images/people/wu-ming-yi-ndhu.jpg)
+_Ngô Minh Ích. Giáo sư Khoa Văn học Hán ngữ tại Đại học Đông Hoa, giảng dạy và sáng tác lâu năm tại Hoa Liên. Ảnh: Đại học Đông Hoa Quốc gia / Ghi công._
 
-Giải thưởng và bản dịch sau, mắt phức hợp còn có đời thứ hai: liên thể và địa phương. Năm 2014 _Nhoáng Sáng_ là tự nhiên chụp hình, nhà xuất bản mới kinh điển, kéo viết hình ảnh từ nhánh tự nhiên tành thí nghiệm độc lập. [^33] Năm 2019 tuyển truyện ngắn _Đất Mưa Khổ_ xuất bản, trong đó 《Mây Ở Hai Nghìn Mét》 kể luật sư sau khi vợ qua đời tìm tập tin tiểu thuyết không hoàn tất và ký ức da huyền đà Đài Loan. [^27] Năm 2025, Trần Tâm Hy làm VR 《Mây Ở Hai Nghìn Mét》 (_The Clouds Are Two Thousand Meters Up_), tại Hội chợ Phim Venice lần thứ 82 đơn vị Venice Immerrsive nhận Giải Lớn (Giải Lớn Đơn vị Ngập mình). [^28] Truyện ngắn văn học biến thành chiều cao có thể đi vào. Tháo mũ kỹ thuật ảo sau, du khách còn dừng giữa da huyền đà và tập tin không hoàn tất. Nhà tranh triển Bắc Sư Mỹ cũng từng làm triển lãm ngập mình vốn VR này, kéo ký ức rừng và da huyền đà trở lại thân thể du khách thành phố.
+Sau các giải thưởng và bản dịch, Phức nhãn còn có sự sống thứ hai: liên ngành và địa phương. Tác phẩm 《Phù Quang》 năm 2014 là tản văn nhiếp ảnh, do nhà xuất bản Tân Cảnh điển thực hiện, kéo việc viết bằng hình ảnh ra khỏi nhánh phụ của tản văn tự nhiên để trở thành một thử nghiệm độc lập.[^33] Tập truyện ngắn 《Vùng đất mưa khổ》 năm 2019 được xuất bản, trong đó có truyện ngắn 〈Mây ở hai ngàn mét〉 kể về luật sư tìm kiếm các tập tin tiểu thuyết chưa hoàn thành và ký ức da báo mây Đài Loan sau khi vợ qua đời.[^27] Năm 2025, Trần Tâm Nghi đã chuyển tác phẩm này thành VR 《Mây ở hai ngàn mét》 (_The Clouds Are Two Thousand Meters Up_), giành giải Grand Prize (Giải thưởng hạng mục nhập vai) tại Liên hoan phim Venice Immersive lần thứ 82.[^28] Truyện ngắn văn học trở thành một chiều cao có thể bước vào. Sau khi tháo mũ bảo hiểm, khán giả vẫn còn ở giữa da báo mây và các tập tin chưa hoàn thành. Bảo tàng Nghệ thuật Bắc Sư cũng từng sử dụng tác phẩm VR này làm cốt lõi cho triển lãm nhập vai, kết nối ký ức núi rừng và báo mây trở lại cơ thể người xem thành thị.
 
-Năm 2023, _Khách Sạn Hải Phong_ bởi chữ nhỏ xuất bản, nhận Giải Sách Hay Mở Sách năm năm sáng tác tiếng Hoa. [^29] Tiểu thuyết kéo nhìn gần như Xiêu Lâm, Hoà Bình Làng với quy mô địa lý bờ đông bộ (tên sách trong đổi thành "Hải Phong" v.v.), kể đất Đại Lỗ Các, thần thoại khổng lồ và ai kể chuyện. [^30] Nhân vật động vật cuối cùng là con mèo ăn cua ba chân. Ông đọc nhiều tài liệu Đại Lỗ Các, tham khảo luận văn thực địa, xin phép được tương tác. [^30] Chiến lược phát hành bản thân cũng là sự kiện công nghiệp: chỉ Cửa hàng Sách độc lập bán hàng và sự kiện, năm sáu ngày, tám mươi sáu trường, từ Hoa Liên Giờ Ánh Sách cũ hai tay một đường tới Tân Bắc Năm Cổ. [^29] Thói quen năm năm của tác giả chạy cửa hàng sách độc lập, trong năm ấy được phóng đại thành ghi chép cặn cỗi toàn đảo. Lúc sơ bản trong cửa sổ cửa hàng sách Hoa Liên xếp thành núi, tên địa danh Đại Lỗ Các và khói nhà máy xi măng đã gắn cạnh nhau trên cùng tấm đồ tiểu thuyết.
+Năm 2023, 《Khách sạn Hải Phong》 được nhà xuất bản Tiểu Tự viết, đoạt giải thưởng sáng tác tiếng Trung hàng năm của Openbook.[^29] Cuốn tiểu thuyết đã hướng cái nhìn đến khu vực bờ Đông gần Tú Lâm, Hòa Bình Thôn và khu nhà máy xi măng (tên địa danh trong sách được viết lại thành "Hải Phong" v.v.), kể về vùng đất Thái Lộc, thần thoại người khổng lồ và câu chuyện do ai kể.[^30] Nhân vật động vật cuối cùng là một con nhím ăn cua ba chân. Nó đã đọc rất nhiều tài liệu về Thái Lộc và tham khảo các luận văn thực địa, sau khi xin phép.[^30] Bản thân chiến lược phát hành cũng là một sự kiện của ngành: chỉ bán tại các hiệu sách độc lập và tổ chức sự kiện, trong 56 ngày, 86 buổi, từ Hiệu sách Cổ cũ Hoa Liên đến Ngũ Cổ Tân Bắc.[^29] Thói quen đi quanh các hiệu sách độc lập nhiều năm của tác giả đã được khuếch đại thành chuyến lưu diễn toàn Đài Loan trong năm này. Khi bản in đầu tiên chất đống như một ngọn núi bên cửa sổ hiệu sách Hoa Liên, tên địa danh Thái Lộc và ống khói nhà máy xi măng đã cùng tồn tại trên một tấm bản đồ tiểu thuyết.[^30]
 
 ```tw-stat
-năm sáu ngày | Ghi chép Khách Sạn Hải Phong Cửa hàng Sách độc lập | Báo cáo Mở Sách
-tám mươi sáu trường | Số trường sự kiện | Hoa Liên → Tân Bắc Năm Cổ
-khoảng mười triệu | Tiền hỗ trợ Giải Hải Phong/năm | Từ 2013, tên mẹ
-Nguồn: Mở Sách p-68257; Trang Hỗ trợ Quỹ Hải Phong
+56 ngày | Chuyến lưu diễn độc lập 《Khách sạn Hải Phong》 | Báo cáo Openbook
+86 buổi | Số lượng sự kiện | Hoa Liên → Ngũ Cổ Tân Bắc
+Khoảng 10 vạn | Tài trợ Quỹ Hắc Triều / năm | Từ năm 2013, dưới tên mẹ
+Nguồn: Openbook tr.68257; Trang tài trợ Quỹ Hắc Triều
 ```
 
-Sân phán cứu Kim Điển, có thẩm phán cho rằng một số nước nhân vật tác phẩm tương đối bồi hoà, vì vậy không phiểu cho nó. Đó là sự phân kỳ thẩm mỹ trong đoàn thẩm phán và tranh cãi công khai, không nên leo thang thành "cộng đồng bản địa chính thức phủ nhận tiểu thuyết" sự kiện thống nhất. [^31] Tác giả người Hàn viết chính trị tái diễn bờ đông xi măng, bản thân nên bị tranh cãi sắc bén. Độ sâu để giữ lại, tuyên bố định tội thì không.
+Tại hội đồng xét giải Kim Điển, có một giám khảo cho rằng việc xây dựng nhân vật trong sách còn khá khuôn mẫu nên đã không bỏ phiếu cho tác phẩm này. Đây là sự khác biệt về thẩm mỹ và cuộc tranh luận công khai nội bộ ban giám khảo, không nên nâng lên thành sự kiện thống nhất "cộng đồng bản địa chính thức phủ nhận tiểu thuyết".[^31] Việc tái hiện chính trị về cuộc đấu tranh chống xi măng Thái Lộc của tác giả người Hán vốn đã đáng được thảo luận gay gắt. Cần giữ độ dày (sự phức tạp), nhưng không cần kết tội tự sự.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Nguyên Minh Nghĩa TEDxTaipei: Văn học Gốc Vào Đất" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Ngô Minh Ích TEDxTaipei: Văn học bám rễ vào đất đai" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Thực hành môi trường cũng không dừng trên giấy. Ông lâu dài là phó chủ tịch thường vụ Hiệp hội Quan tâm Sinh thái, ủy viên Quỹ Giáo dục Biển Hải Phong. Từ năm 2013, dưới tên mẹ đặt Giải Hỗ trợ Hải Phong, mỗi năm khoảng mười triệu, khích lệ khoa triển, nghiên cứu, bảo tồn và sáng tác nghệ thuật theo chủ đề biển. [^32] Tới thập niên 2020 giữa, quỹ hỗ trợ này đã bước vào giai đoạn thứ mười ba, mười năm tích tụ vài chục người được giải hỗ trợ. [^32] Tường thuật gia ghi lại ông tại ba Đông Hoa Hoa Liên ra biển làm sạch, lớp học với chân thành không quá xa. [^7] Đám mây biển Đông Hoa Hoa Liên, lớp học bờ Hải Phong, quầy sách cửa hàng và lớp mây VR, là vài mặt của mắt phức hợp thời đại. Dạy học, địa phương, liên thể xoay chuyển cùng lúc.
+Thực hành môi trường cũng không dừng lại trên giấy. Ông lâu năm giữ chức ủy viên hội đồng quản trị Hiệp hội Quan tâm Sinh thái và thành viên hội đồng Quỹ Văn hóa Biển Hắc Triều. Từ năm 2013, ông đã lập ra quỹ hỗ trợ mang tên mẹ mình, với khoảng mười vạn mỗi năm, khuyến khích các triển lãm khoa học, nghiên cứu, bảo tồn và sáng tạo nghệ thuật lấy biển làm chủ đề.[^32] Đến giữa những năm 2020, quỹ này đã bước vào kỳ thứ mười ba, tích lũy hàng chục người nhận hỗ trợ trong mười năm.[^32] Người báo cáo có ghi chú về việc ông tham gia các hoạt động dọn bờ biển tại cửa sông Hoa Liên, khoảng cách giữa lớp học và mép triều không xa.[^7] Mây trên trường Đại học Đông Hoa Hoa Liên, lớp học ở bờ biển Hắc Triều, quầy sách và tầng mây VR là những khía cạnh của Phức nhãn trong thời đại này. Giảng dạy, địa phương, liên ngành cùng chuyển đổi.
 
-Mắt phức hợp tới đây, đã mọc thành huấn luyện quan sát lớp học, chọn lựa công nghiệp ghi chép cửa hàng sách, tiền hỗ trợ bờ Hải Phong, và lớp mây hai nghìn mét trong kính. Ông tại TEDxTaipei nói qua "Văn học Gốc Vào Đất": học sinh trong lớp huấn luyện, là cách cùng tiêu điểm một loài, một phố, một dòng di sản chiến tranh, không kéo chúng thành các chủ đề làm bài xáo trộn lẫn nhau.
+Phức nhãn đến đây đã trở thành sự rèn luyện quan sát trên lớp, lựa chọn ngành nghề qua chuyến lưu diễn hiệu sách, quỹ hỗ trợ bờ biển Hắc Triều, và tầng mây hai ngàn mét trong mũ bảo hiểm. Ông đã nói về "Văn học bám rễ vào đất đai" tại TEDxTaipei: sinh viên luyện tập trên lớp là cách đồng thời tập trung vào một loài, một con phố, một di chứng chiến tranh mà không tách chúng thành các đề bài văn không liên quan.
 
-> **⚠️ Quan điểm tranh cãi**
-> _Khách Sạn Hải Phong_ tại sân Kim Điển kích động tranh cãi "bồi hoà", nhắc nhở độc giả một sự vụ: khi viết đa tộc bờ đông xi măng và ký ức bộ lạc, tái diễn bản thân chính là chính trị. Nguyên Minh Nghĩa chọn bước vào vùng rủi ro này, bình luận sân tranh cãi không tự động tương đương bộ tác phẩm tắc, cũng không tương đương phán xét thống nhất của cộng đồng bản địa.
+> **⚠️ Quan điểm gây tranh cãi**
+> Cuộc thảo luận về sự "khuôn mẫu" của 《Khách sạn Hải Phong》 tại giải Kim Điển nhắc nhở độc giả một điều: khi viết xuyên chủng tộc về xi măng bờ Đông và ký ức bộ lạc, chính sự tái hiện đã là chính trị. Ngô Minh Ích chọn bước vào khu vực rủi ro này, những lời chỉ trích trên diễn đàn không tự động đồng nghĩa với thất bại của tác phẩm, cũng không đồng nghĩa với phán quyết thống nhất của cộng đồng bản địa.
 
 ## Mắt Phức Hợp Còn Xoay
 

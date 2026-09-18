@@ -1,11 +1,6 @@
 ---
 title: 'Bảo Tàng Lịch Sử Quốc Gia Đài Loan: Khu Trưng Bày Thứ Tám Gọi Là "Bạn Cũng Là Người Viết Lịch Sử"'
 description: 'Bảo Tàng Lịch Sử Quốc Gia Đài Loan khai trương năm 2011, khu trưng bày thường xuyên thứ tám có tên gọi "Bạn Cũng Là Người Viết Lịch Sử". Một định chế ba cấp đã công khai mở 140.000 hiện vật bằng Điều Khoản Giấy Phép Mở Dữ Liệu Chính Phủ 1.0, với giám đốc bảo tàng Trương Long Chí công khai định vị bảo tàng là một "Nền Tảng Hành Động Viết Chung Toàn Dân". Khi viện bảo tàng quốc gia cấp ba gặp gỡ một thư viện kiến thức mã nguồn mở do cộng đồng điều khiển ở thời đại AI, ký ức tập thể có được hình thái curatorship thứ hai.'
-translatedFrom: 'Society/國立臺灣歷史博物館.md'
-sourceCommitSha: 'bb411ee07'
-sourceContentHash: 'sha256:0a19013fbe675c85'
-sourceBodyHash: 'sha256:16078470c5f07551'
-translatedAt: '2026-08-09T10:41:15+08:00'
 date: 2026-05-11
 category: 'Society'
 tags:
@@ -25,8 +20,12 @@ image: '/article-images/society/nmth-main-building-2011.webp'
 imageCredit: 'Fcuk1203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8.jpg'
-relatedDiary:
-  - 2026-05-11-161037-kind-mirzakhani
+relatedDiary: ['2026-05-11-161037-kind-mirzakhani']
+translatedFrom: 'Society/國立臺灣歷史博物館.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:8427b2bc64bf300b'
+sourceBodyHash: 'sha256:d6d35035b4737919'
+translatedAt: '2026-09-18T07:03:59.926867+00:00'
 ---
 
 > **Tổng quan 30 giây:** Ngày 29 tháng 10 năm 2011, Bảo Tàng Lịch Sử Quốc Gia Đài Loan — đã chuẩn bị trong 13 năm — khai trương tại Khu Thị trấn An Nam, Đài Nam. Nó chuyển bài luận "Quan Điểm Lịch Sử Đảo Đài Loan" của Tào Vĩnh Hòa năm 1990 thành các phòng trưng bày vật lý: tám khu vực trưng bày chính thức "Đất Này, Dân Này — Câu Chuyện Đài Loan", từ các bộ tộc Đảo Quần bước vào cho đến "Bạn Cũng Là Người Viết Lịch Sử" đương đại[^13]. Bảo tàng sử dụng Điều Khoản Giấy Phép Mở Dữ Liệu Chính Phủ 1.0 (tương đương CC BY 4.0) để công khai 140.000 hiện vật, và sau khi nâng cấp thành định chế ba cấp năm 2021, giám đốc Trương Long Chí định vị bảo tàng như một "nền tảng hành động viết chung, tạo chung toàn dân"[^13]. Khi viện bảo tàng quốc gia cấp ba gặp gỡ một cơ sở kiến thức mã nguồn mở do cộng đồng điều khiển ở thời đại AI — CC0 authorize, chỉ vài trăm bài năm 2026 — ký ức tập thể có được hình thái curatorship thứ hai.
@@ -51,24 +50,24 @@ NMTH đặt "người khán thả tham gia viết lịch sử" vào phần luậ
 > **📝 Ghi Chú Người Curate**
 > Khu thứ bảy, thứ tám của NMTH là sự định nghĩa lại của viện bảo tàng với nhiệm vụ của chính nó. Bảo tàng trao câu hỏi "Ai viết lịch sử" cho những người đến xem; khi Taiwan.md đặt cùng lời mời trên nhịp độ mã nguồn mở thân thiện fork, hai cơ chế curatorship gặp nhau trên cùng một nhiệm vụ. Sự khác biệt nằm ở quy mô, ủy quyền và tính chất định chế, sự trùng lặp ở quan điểm lịch sử và mục đích.
 
-## Hai, Mười Ba Năm Xây Dựng Một Viện Bảo Tàng, Cấu Trúc Bài Luận Năm 1990 Của Tào Vĩnh Hòa
+## Hai, Xây Dựng Một Cái Nhà Trong 13 Năm — Nhà Được Xây Là Luận Văn Của Cao Vĩnh Hòa Năm 1990
 
-Năm 1992, Lý Đăng Huy và Liên Chiến thăm Bảo Tàng Tỉnh Đài Loan, chỉ thị xây dựng "Bảo Tàng Lịch Sử Tỉnh Đài Loan"[^2]. Đây là khởi đầu của NMTH.
+Năm 1992, Thái Anh Văn và Lại Thanh Đức thăm quan Bảo Tàng Quốc Gia Đài Loan, chỉ đạo lập kế hoạch xây dựng "Bảo Tàng Lịch Sử Quốc Gia Đài Loan"[^2]. Đây chính là khởi nguồn của NMTH.
 
-Người chủ đạo chuẩn bị thời đó là Ngô Mật Sát, từ Khoa Lịch Sử Đại Học Đài Bắc, sau đó chính thức trở thành giám đốc đầu tiên của NMTH năm 2007[^2]. Hai năm trước khi ông khởi động chuẩn bị, năm 1990, Tào Vĩnh Hòa từ Thư Viện Đại Học Đài Bắc công bố một bài luận rung chuyển cả học giới lịch sử: "Một Đường Lối Khác Để Nghiên Cứu Lịch Sử Đảo Đài Loan". Tào Vĩnh Hòa chủ trương chủ thể của lịch sử Đài Loan là "Đảo Đài Loan" chính nó, các chính quyền giống như những diễn viên lần lượt bước ra sân khấu, nhưng đảo mới là sân khấu luôn tồn tại. NMTH từ lúc khởi đầu đã sống trong mạch học này.
+Trong thời gian đó, người chịu trách nhiệm lập kế hoạch là Thẩm Khánh, tốt nghiệp khoa Lịch Sử trường Đại học Quốc gia Đài Loan, sau này chính thức trở thành giám đốc NMTH đầu tiên năm 2007[^2]. Hai năm trước khi ông khởi động kế hoạch xây dựng, năm 1990, Thái Vĩnh Hòa tại thư viện Đại học Quốc gia Đài Loan đã công bố một bài luận gây sốc cho cộng đồng học giả lịch sử: 〈Một Con Đường Khác Để Nghiên Cứu Lịch Sử Đảo Đài Loan〉. Thái Vĩnh Hòa cho rằng chủ thể của lịch sử Đài Loan chính là "Đảo Đài Loan" chính nó, các quyền lực như các diễn viên liên tiếp xuất hiện, nhưng hòn đảo mới là sân khấu luôn tồn tại. NMTH từ đầu đã sống trong dòng chảy học thuật này.
 
-![Bảo Tàng Lịch Sử Quốc Gia Đài Loan, mặt bên của tòa nhà giáo dục trưng bày, tường mây bảng năng lượng mặt trời và bể nước tạo nên từ vựng kiến trúc, từ xa có thể nhìn thấy bước đi vượt biển xuyên suốt khung cảnh nước, tượng trưng ý tưởng lịch sử con người thời xưa vượt qua Biển Đen Nước nước đến Đài Loan](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
-_Mặt bên của tòa nhà giáo dục trưng bày: tường mây được ghép từ hơn một ngàn bảng năng lượng mặt trời và kính in thép, năng lượng phát sinh hàng năm đạt 170.000 độ. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg)._
+![Mặt tiếp cận tòa nhà giáo dục trưng bày của Bảo Tàng Lịch Sử Quốc Gia Đài Loan, bao gồm tường mây và bảng điện năng, với con đường bộ băng qua khu vực nước ở xa, biểu tượng cho hình ảnh lịch sử những người tiến vào bờ biển Đài Loan sau chuyến hàng biển](/article-images/society/nmth-architecture-cloud-wall-2011.webp)
+_Thành bề mặt tòa nhà giáo dục trưng bày: Tường mây được lắp đặt từ hơn ngàn tấm pin năng lượng mặt trời và kính ép thép, với năng suất điện hàng năm lên tới 170.000 kWh. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%2002.jpg)._
 
-Năm 1997 công bố lệnh nhiệm vụ giám đốc chuẩn bị; Tháng 7 năm 1998 chính thức thành lập "Cơ Sở Chuẩn Bị Bảo Tàng Lịch Sử Tỉnh Đài Loan"[^2]. Năm 2003 tòa lâu đài kỹ thuật lưu trữ khởi công[^21], thiết kế bởi người chủ trì Văn Phòng Kiến Trúc Liên Hợp Trúc Gian Đơn Học Nghĩa, tổng chi phí khoảng 1,5 tỷ Đài tệ, bốn yếu tố chủ đề chính là "vượt biển, cơ thể cá voi, tường mây, hợp nhất"[^22]. "Vượt biển" là đường đi hình chữ Z xuyên qua hai bể nước hai bên, tượng trưng con người thời xưa vượt qua Biển Đen Nước[^23]; "tường mây" được ghép từ hơn một ngàn bảng năng lượng mặt trời và kính in thép, năng lượng phát sinh hàng năm đạt 170.000 độ[^23]. Đây là một trong số ít các trường hợp ở Châu Á đặt cơ sở hạ tầng năng lượng mặt trời lên nền tảng kiến trúc bảo tàng.
+Năm 1997 công bố mệnh lệnh của giám đốc lập kế hoạch; tháng 7 năm 1998 chính thức thành lập "Văn Phòng Lập Kế Hoạch Bảo Tàng Lịch Sử Quốc Gia Đài Loan"[^2]. Năm 2003 khởi công tòa nhà kho lưu trữ hành chính[^21], do kiến trúc sư kiến trúc Trúc Gian làm chủ, Thái Học Nghệ, thiết kế, tổng vốn đầu tư hơn 1,5 tỷ đồng Đài Loan, bốn chủ đề ngôn ngữ chính là "Thuyền qua, Bình thản, Tường mây, Hòa trộn"[^22]. "Thuyền qua" là con đường đi bộ hình chữ S chéo qua hai hồ nước hai bên, biểu tượng cho hành trình của những người tiến vào bờ biển Đài Loan sau chuyến hàng biển[^23]; "Tường mây" được lắp đặt từ hơn ngàn tấm pin năng lượng mặt trời và kính ép thép, với năng suất điện hàng năm lên tới 170.000 kWh[^23]. Đây là một trong những trường hợp hiếm có ở châu Á kết hợp hạ tầng năng lượng điện với ngôn ngữ kiến trúc bảo tàng.
 
-Ngày 15 tháng 3 năm 2007, Bảo Tàng Lịch Sử Quốc Gia Đài Loan chính thức thành lập[^2][^4]. Nhưng toàn bộ viện phải chờ đến **ngày 29 tháng 10 năm 2011** mới khai trương[^6][^2], từ cơ sở chuẩn bị năm 1998 cho đến khai trương năm 2011, chính xác 13 năm. Trong giai đoạn này, Đài Loan trải qua hai nhiệm kỳ của Trần Thủy Biển, Mã Anh Cửu lên nắm quyền, Viện Bảo Tàng Cố Cung xây dựng tòa nhà thứ hai ở Đài Bắc, Viện Mỹ Thuật Quốc Gia hoàn thành mở rộng. NMTH xây dựng lại là một viện bảo tàng lịch sử có Đảo Đài Loan làm chủ thể, và chọn vị trí ở Đài Nam, không ở Đài Bắc.
+Ngày 15 tháng 3 năm 2007, Bảo Tàng Lịch Sử Quốc Gia Đài Loan chính thức thành lập[^2][^4]. Tuy nhiên, toàn bộ tòa nhà chỉ mở cửa vào **ngày 29 tháng 10 năm 2011**[^6][^2], từ năm 1998 văn phòng lập kế hoạch đến năm 2011 khánh thành, đúng 13 năm. Trong thời gian này, Đài Loan trải qua hai nhiệm kỳ của Thẩm Nước Đơn, sau đó là sự lên ngôi của Ma Vĩnh Kỳ, Bảo Tàng Hoàng Gia đã xây dựng tòa nhà thứ hai tại Đài Bắc, và viện nghệ thuật quốc gia hoàn thành dự án mở rộng. NMTH xây dựng một bảo tàng lịch sử với chủ thể là Đảo Đài Loan, và chọn vị trí tại Đài Nam, không phải Đài Bắc.
 
-Vị trí chính nó là curatorship. Đài Nam là nơi định cư người Hán sớm nhất của Đài Loan, là điểm giao thoa của triều đại Minh Trịnh, triều Thanh, và lịch sử thuộc địa Nhật. NMTH không chọn thủ đô, mà chọn đất đó là nơi lịch sử đảo Đài Loan bắt đầu.
+Vị trí chính là sự lựa chọn trưng bày. Đài Nam là nơi sinh thái cộng đồng người Hán sớm nhất trên Đài Loan, là giao điểm giữa triều đại chúa Zing, thời kỳ Thanh xuống, và thời kỳ thuộc địa Nhật Bản. NMTH không chọn thủ đô, mà chọn mảnh đất nơi lịch sử Đài Loan bắt đầu.
 
-Năm 2021 là mốc thứ hai quan trọng của NMTH. Ngày 8 tháng 1, triển lãm thường xuyên "Đất Này, Dân Này — Câu Chuyện Đài Loan" cập nhật sau khi khai trương lại, đóng cửa sửa chữa 15 tháng, lập kế hoạch 5 năm[^20]. Ngày 1 tháng 4, cựu phó giám đốc Viện Nghiên Cứu Lịch Sử Đài Loan của Viện Trung Ương Trương Long Chí tiếp nhận chức vị giám đốc thứ năm[^4][^5], chính là học giả người chủ biên "Tìm Kiếm Lịch Sử Đảo: Tuyển Tập Bài Luận Lịch Sử Đài Loan" năm 2020 (do Trung Tâm Xuất Bản Đại Học Đài Bắc phát hành)[^5], cuốn sách này là tổng hợp học thuật gần đây nhất của quan điểm lịch sử đảo của Tào Vĩnh Hòa[^5]. Ngày 17 tháng 10, sau khi Viện Lập Pháp ba lần đọc thông qua "Luật Tổ Chức Bảo Tàng Lịch Sử Quốc Gia Đài Loan", NMTH từ định chế cấp bốn **nâng cấp lên định chế cấp ba**[^17][^16], trình độ quốc gia được xác lập.
+Năm 2021 là điểm mấu chốt thứ hai của NMTH. Ngày 8 tháng 1, triển lãm thường xuyên "Đất Này, Dân Này — Câu Chuyện Đài Loan" được cập nhật và mở cửa lại sau thời gian đóng cửa để tái cấu trúc trong 15 tháng, lên kế hoạch trong 5 năm[^20]. Ngày 1 tháng 4, trưởng ban nghiên cứu lịch sử Đài Loan của Viện Nghiên Cứu Trung Ương, Trần Long Trí, nhậm chức giám đốc thứ năm[^4][^5], ông chính là nhà biên soạn năm 2020 của cuốn sách 《Tìm Kiếm Lịch Sử Đảo Đài Loan: Tập Luận Văn Lịch Sử Đài Loan》(Được phát hành bởi Trung Tâm Xuất Bản Đại học Quốc gia Đài Loan), cuốn sách này là tổng hợp học thuật mới nhất về quan điệm lịch sử Đảo Đài Loan của Thái Vĩnh Hòa[^5]. Ngày 17 tháng 10, Hội đồng Lập pháp thông qua dự luật "Luật Tổ Chức Bảo Tàng Lịch Sử Quốc Gia Đài Loan" trong ba đọc, và NMTH chính thức được nâng cấp từ cơ quan cấp bốn lên cấp ba[^17][^16], khẳng định vị thế cấp quốc gia.
 
-Từ bài luận của Tào Vĩnh Hòa năm 1990, qua khai trương năm 2011, rồi đến nâng cấp năm 2021, 31 năm đi ra một đường từ luận thuật học thuật đến vật thể trưng bày, rồi đến định chế quốc gia.
+Từ luận văn học thuật của Thái Vĩnh Hòa năm 1990, đến khánh thành năm 2011, và cuối cùng là nâng cấp năm 2021, trong vòng 31 năm, NMTH đã tạo ra một con đường đi từ lý luận học thuật tới các hiện vật trưng bày, và cuối cùng là cơ chế quản lý cấp quốc gia.
 
 ## Ba, Đất Này, Dân Này: Lấy Đất Làm Sân Khấu, Lấy Con Người Làm Nhân Vật Chính
 

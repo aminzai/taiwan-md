@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T14:50:03+08:00",
-    "zhCommitHead": "2d68e5106",
+    "lastUpdated": "2026-09-18T15:35:49+08:00",
+    "zhCommitHead": "85694b1ce",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 846,
+        "fresh": 847,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 150,
+        "missing": 149,
         "orphan": 0
       },
       "ko": {
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1009,
-        "stale": 64,
+        "fresh": 1010,
+        "stale": 63,
         "metadata_stale": 13,
         "missing": 35,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 945,
-        "stale": 70,
-        "metadata_stale": 74,
+        "fresh": 948,
+        "stale": 68,
+        "metadata_stale": 73,
         "missing": 32,
         "orphan": 0
       },
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "de": {
@@ -2512,7 +2512,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/taiwan-hip-hop-and-rap.md",
+          "translatedFrom": "Music/台灣嘻哈與饒舌發展.md",
+          "sourceCommitSha": "3d2adaeb8",
+          "sourceContentHash": "sha256:d3459042301dfb22",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T07:18:08.993316+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -49349,18 +49360,16 @@
         "vi": {
           "path": "vi/Society/taiwan-design-research-institute.md",
           "translatedFrom": "Society/台灣設計研究院.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:dc9a16af37eefe47",
-          "sourceBodyHash": "sha256:f7df18837078b48f",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:31f2d67654f5ca72",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-18T06:28:10.787766+00:00",
           "translationLastCommit": "e1f04dfc",
           "translationLastModified": "2026-08-09T11:10:45+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-design-research-institute.md",
@@ -55071,18 +55080,16 @@
         "vi": {
           "path": "vi/Society/national-museum-of-taiwan-history.md",
           "translatedFrom": "Society/國立臺灣歷史博物館.md",
-          "sourceCommitSha": "bb411ee07",
-          "sourceContentHash": "sha256:0a19013fbe675c85",
-          "sourceBodyHash": "sha256:16078470c5f07551",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:8427b2bc64bf300b",
+          "sourceBodyHash": "sha256:d6d35035b4737919",
+          "translatedAt": "2026-09-18T07:03:59.926867+00:00",
           "translationLastCommit": "c2e980e7",
           "translationLastModified": "2026-08-09T11:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -117988,8 +117995,8 @@
           "sourceContentHash": "sha256:2f3feb8df34cdc45",
           "sourceBodyHash": "sha256:3e236311319150f0",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "85694b1c",
+          "translationLastModified": "2026-09-18T14:50:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -154072,8 +154079,8 @@
           "sourceContentHash": "sha256:47d89dc0ac03a566",
           "sourceBodyHash": "sha256:7079616fec64f3a7",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "85694b1c",
+          "translationLastModified": "2026-09-18T14:50:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -156728,18 +156735,16 @@
         "fr": {
           "path": "fr/Geography/hsinchu-county.md",
           "translatedFrom": "Geography/新竹縣.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:eefcd1a536e4ddf5",
-          "sourceBodyHash": "sha256:a716f79b2442afc5",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:bf74cbc86604e18b",
+          "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
+          "translatedAt": "2026-09-18T07:34:17.705840+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/hsinchu-county.md",
@@ -162579,7 +162584,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/taichung-metro.md",
+          "translatedFrom": "Geography/台中捷運.md",
+          "sourceCommitSha": "65acd39dc",
+          "sourceContentHash": "sha256:930e1cf08d9847c7",
+          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
+          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/taichung-metro.md",
@@ -166276,18 +166292,16 @@
         "vi": {
           "path": "vi/Geography/keelung-city.md",
           "translatedFrom": "Geography/基隆市.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:d96d5a768e497ec1",
-          "sourceBodyHash": "sha256:a875e0cc381f5fed",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2fb0e2b29a78f122",
+          "sourceBodyHash": "sha256:5db325d228abad28",
+          "translatedAt": "2026-09-18T07:35:28.003399+00:00",
           "translationLastCommit": "c2e980e7",
           "translationLastModified": "2026-08-09T11:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/keelung-city.md",
@@ -170318,8 +170332,8 @@
           "sourceContentHash": "sha256:d6b33427d383d025",
           "sourceBodyHash": "sha256:d806fd1fb93df2e0",
           "translatedAt": "2026-09-18T00:52:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "85694b1c",
+          "translationLastModified": "2026-09-18T14:50:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",

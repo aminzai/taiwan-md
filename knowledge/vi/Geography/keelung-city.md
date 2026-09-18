@@ -23,17 +23,17 @@ featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
 readingTime: 14
-researchReport: reports/research/2026-05/基隆市.md
-series: '22 Tỉnh Thành Loạt Bài (pilot)'
-image: /article-images/geography/keelung-hero.webp
-imageCredit: Taiwankengo
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg
+researchReport: 'reports/research/2026-05/基隆市.md'
+series: '22 縣市系列（pilot）'
+image: '/article-images/geography/keelung-hero.webp'
+imageCredit: 'Taiwankengo'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg'
 translatedFrom: 'Geography/基隆市.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:d96d5a768e497ec1'
-sourceBodyHash: 'sha256:a875e0cc381f5fed'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2fb0e2b29a78f122'
+sourceBodyHash: 'sha256:5db325d228abad28'
+translatedAt: '2026-09-18T07:35:28.003399+00:00'
 ---
 
 # Cơ Long: Bến cảng gần Đài Bắc nhất, những gì Đài Bắc không thấy
@@ -78,22 +78,22 @@ Quân Pháp chiếm Cơ Long tám tháng, nhưng họ sớm nhận ra mình bị
 
 Họ để lại cái gì? Ngoài nghĩa trang quân Pháp bên bờ biển (Thương Tưởng Anh Hùng Mộ), họ để lại một vấn đề để người Cơ Long sau này quyết định: **hơn 700 linh hồn lính Pháp chết mà không ai chôn cất phải xử lý như thế nào**?
 
-## Lễ Trung Nguyên "Tên Đầu Họng Cuối"
+## Lễ Trung Nguyên Trương Đầu Hứa Vĩ
 
-Cách xử lý với linh hồn của người Cơ Long, cần kể từ sớm hơn.
+Cách người Cơ Long xử lý linh hồn đã bắt đầu từ thời điểm sớm hơn.
 
-Năm 1851 (Tây Phong Nguyên Niên) tháng 8, những cuộc xô xát giữa Trương và Quân tiếp diễn. Năm 1853 hai bên xảy ra xô xát quy mô lớn ở Phốc Định (nay là Nghĩa Vinh Công Trang Tâm), tử vong và bị thương hơn một trăm. Những danh nhân lớn Trương tộc, Quân tộc ra mặt hòa giải, đặt xương của những người chết ở cả hai phía gọi là "Lão Đại Công", chôn chung và tế tự, xây dựng "Miếu Lão Đại Công".
+Vào tháng 8 năm 1851 (Năm Hàm Phong thứ nhất), các cuộc giao tranh giữa dân Trương và dân Tuyền liên tục xảy ra. Năm 1853, hai bên đã có một trận giao chiến quy mô lớn tại Địch Đỉnh (nay là Nghĩa trang Nam Vinh), với hơn trăm người chết và bị thương. Các trưởng lão và thủ lĩnh từ dòng họ Trương và Tuyền đã đứng ra hòa giải, gọi những hài cốt của người chết không danh tính là "Lão Đại Công" (Ông Lớn), rồi chôn cất chung và thờ cúng tại "Miếu Lão Đại Công".
 
-Kết quả thương thuyết là: **những người có cùng chữ tên thay phiên chủ trì lễ phục vụ, dùng quan hệ máu mủ tông anh em thay thế khái niệm địa vực theo quê quán**[^11]. Năm 1855 (Tây Phong Nguyên Niên) chính thức mở chương, sau khi rút thăm quyết định thứ tự của 11 chữ tên, từ Trương bắt đầu đến Hứa kết thúc, gọi là "Tên Đầu Họng Cuối": Trương Liễu Đơn, Ngô, Lưu Đường Đỗ, Trần Hồ Diêu, Tạ, Lâm, Giang, Trịnh, Hà Lam Hàn, Lại, Hứa.
+Kết quả của cuộc thương thảo là: **dựa trên họ chữ để luân phiên chủ trì, thay thế quan niệm địa lý tổ quán bằng huyết thống tông thân**[^11]. Lễ hội chính thức bắt đầu vào năm 1855 (Năm Hàm Phong thứ năm), với trình tự 11 họ được quyết định bằng cách bốc thăm, từ Trương Đầu đến Hứa Vĩ, gọi là "Trương Đầu Hứa Vĩ": Trương Liệu Giản, Ngô, Lưu Đường Đỗ, Trần Hồ Dao, Tạ, Lâm, Giang, Trịnh, Hà Lam Hàn, Lại, Hứa.
 
-> **✦** "**Dùng cuộc thi đội rước để thay thế xô xát đánh vỡ đầu, để đạt tới thế giới đại đồng của hòa hợp xã hội, chung sống và thịnh vượng chung**." (Thư Viện Ký Ức Văn Hóa Quốc Gia, Mục từ Lễ Trung Nguyên Gà Long[^12])
+> **✦** “**Lấy các trận đấu tập hợp để thay thế việc đánh nhau phá đầu, nhằm đạt đến một thế giới đại đồng hài hòa và cùng thịnh vượng.**” (Kho Lưu trữ Văn hóa Quốc gia, Từ điển Lễ Trung Nguyên Kê Lung[^12])
 
-Đây là tinh thần lõi của Lễ Trung Nguyên Cơ Long. Nó không chỉ là lễ phục vụ Trung Nguyên. Toàn bộ Đài Loan đều tế tự những linh hồn vô chủ vào Tết Trung Nguyên, nhưng chỉ có Lễ Trung Nguyên Cơ Long biến ký ức cái chết từ xô xát, thành một lễ tế thay phiên theo chữ tên kéo dài 170 năm được khắc sâu trong thể chế. Cuộc thi đội rước là phiên bản chính thức hoá của xô xát: các bạn vẫn phải thi, nhưng không đánh người, dùng những vị thần được trang trí lộng lẫy, hình thành, ghi nhạc, thi xem ai to hơn.
+Đây là tinh thần cốt lõi của Lễ Trung Nguyên Kê Lung. Nó không chỉ là lễ cúng cô hồn trong dịp Tết Thanh Minh. Toàn bộ Đài Loan đều thờ cúng các linh hồn vô chủ trong dịp Tết Trung Nguyên, nhưng chỉ có Lễ Trung Nguyên Kê Lung đã hệ thống hóa ký ức về một cuộc giao tranh bằng cách biến nó thành một nghi thức luân phiên theo họ chữ kéo dài 170 năm. Các trận đấu tập hợp là phiên bản nghi lễ hóa của các cuộc giao chiến: bạn vẫn phải thi đấu, nhưng không đánh người, mà dùng các vị thần trang trí lộng lẫy, đội hình và tiếng trống để xem ai có màn trình diễn hoành tráng hơn.
 
-![Bàn thờ chủ phục vụ Lễ Trung Nguyên Cơ Long, tháng 10 năm 2023. Tháp bát giác ở Công viên Trung Chính, hoàn thành giữa những năm 1970, mỗi năm âm lịch tháng bảy tổ chức lễ phục vụ Trung Nguyên. Tháp ở phía bên phải xa là điểm nhấn Cơ Long Keelung Tower.](/article-images/geography/keelung-00.webp)
-_Bàn thờ Chủ Phục Vụ Và Tháp Cơ Long, 2023-10-23. Photo: Wikimedia Commons contributor, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung_Tower_and_Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn_20231023.jpg)._
+![Sân chủ lễ Trung Nguyên Kê Lung, tháng 10 năm 2023. Tháp hình bát giác tại Công viên Trung Chính, hoàn thành giữa những năm 1970, tổ chức lễ cúng cô hồn vào tháng Bảy âm lịch hàng năm. Ở xa bên phải tháp là cột mốc Keelung Tower của Cơ Long.](/article-images/geography/keelung-00.webp)
+_Sân chủ và Tháp Kê Lung, 23-10-2023. Ảnh: Người đóng góp Wikimedia Commons, [CC BY-SA qua Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung%20Tower%20and%20Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn%2020231023.jpg)._
 
-Sau Chiến tranh Pháp-Trung năm 1884, bộ lễ tế này lại nâng cấp lần nữa. **Hơn 700 linh hồn lính Pháp được đưa vào lễ phục vụ**. "Những người di cư Hàn tộc tâm từ nhân từ hiện thực hôm đó phát tâm thiêng thái, tế tự nhóm vô chủ những người chết không ai chôn cất"[^12]. Một nghi lễ hoà giải từ xô xát Trương Quân, phát triển thành lễ tế chứa cả những quân địch trong chiến tranh. Từ 1855 đến hôm nay, nó được tổ chức mỗi năm tháng bảy âm lịch ở bàn thờ chủ phục vụ ở Công viên Trung Chính, bàn thờ chủ phục vụ mới hoàn thành những năm 1970, tháp bát giác, tầng một là bảo tàng di vật Lễ Trung Nguyên[^13].
+Sau Chiến tranh Pháp-Trung năm 1884, nghi thức này lại được nâng cấp. **Hơn 700 linh hồn lính Pháp đã được đưa vào lễ cúng.** "Những người di cư Hán mang lòng trắc ẩn đã khởi xướng sự đồng cảm để thờ phụng những người đã khuất không nơi chôn cất này"[^12]. Một nghi thức hòa giải của cuộc giao tranh Trương-Tuyền đã phát triển thành một lễ hội thu nhận cả quân địch trong chiến tranh. Từ năm 1855 đến nay, nó được tổ chức hàng năm vào tháng Bảy âm lịch tại sân chủ chính ở Công viên Trung Chính; sân chủ mới hoàn thành giữa những năm 1970 là tháp hình bát giác, và tầng một là Bảo tàng di vật lễ cúng Trung Nguyên[^13].
 
 ## Xây Dựng Cảng Lần Thứ Năm, Cảng Cơ Long Lớn Thứ Bảy Thế Giới Năm 1984
 
@@ -131,30 +131,30 @@ Thứ trông giống như bánh tráng của nó, nén ba đoạn lịch sử v�
 
 Còn chợ cá Kanaitei (đã nhắc tới phía trước) thực chất mới là động cơ thực sự của chợ Miếu Khẩu. Không có việc đấu giá hải sản nửa đêm ở Kanaitei, chợ Miếu Khẩu những món chiên không khí (người Cơ Long nói chiên không khí nhưng hoàn toàn khác với chiên không khí kiểu Nhật), kem bong bóng, tằm nước đốm đỏ, canh tôm không làm nên. Kết cấu ẩm thực Cơ Long là "hương vị cửa biển": tiếng đấu giá lúc bốn giờ sáng, lúc sáu giờ chiều biến thành hương vị tươi sống trong miệng khách du lịch.
 
-## Đối Diện Những Ngôi Nhà Đầy Màu Sắc Chính Tân, Là Công Trường Tàu Argentina Hoỏng
+## Đối diện với nhà màu sắc ở Chính Tân là đống đổ nát của Argentina
 
-![Những ngôi nhà đầy màu sắc ở cảng cá Chính Tân, tháng 8 năm 2025. Dưới thời Lâm Hữu Xương làm thị trưởng, hợp tác với giám đốc Quách Kiêu Anh của khoa Cảnh quan Đại học Văn Hóa để sơn những ngôi nhà cũ bên cảng thành 55 thứ màu sắc. Đối diện chính là tàn tích công trường tàu Argentina trong cùng một khung hình.](/article-images/geography/keelung-01.webp)
-_Những ngôi nhà đầy màu sắc cảng cá Chính Tân, 2025-08-12. Photo: Wikimedia Commons contributor, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
+![Những ngôi nhà phố nhiều màu sắc ở cảng Chính Tân, một hàng nhà cũ được sơn các màu khác nhau dọc bờ cảng, và thuyền đánh cá đậu san sát phía trước. Trong nhiệm kỳ Thị trưởng Lâm Hữu Xương, ông đã hợp tác với Giám đốc Khoa Cảnh quan Đại học Văn hóa để sơn những ngôi nhà này thành 55 màu.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
+_Những ngôi nhà phố nhiều màu sắc ở cảng Chính Tân, 12-08-2025. Ảnh: Saimmx, [CC0 qua Wikimedia](https://commons.wikimedia.org/wiki/File:20250812%20105703%20正濱漁港彩色街屋.jpg)._
 
-Nếu bạn muốn xem một thành phố cách xử lý tàn tích của mình, hãy tới cảng cá Chính Tân.
+Nếu bạn muốn xem một thành phố xử lý đống đổ nát của mình như thế nào, hãy đến cảng Chính Tân.
 
-Cảng cá Chính Tân ở phía đông cảng Cơ Long, là cảng cá chính của Miền Bắc thời kỳ Nhật trị Đài Loan. Dưới thời Lâm Hữu Xương làm thị trưởng (2014-2022), hợp tác với giám đốc Quách Kiêu Anh của khoa Cảnh quan Đại học Văn Hóa, với cư dân địa phương "mài những năm mới kéo lại ý thức tham gia của nhân dân", sơn những ngôi nhà cũ bên cảng thành những ngôi nhà đầy màu sắc, dân địa phương lấy 55 thứ màu đặt tên "màu Chính Tân"[^23]. Hôm nay nó là điểm check-in Instagram nóng, nhưng đây không phải chỗ làm người cảm động nhất.
+Cảng Chính Tân nằm ở phía đông Cảng Cơ Long, là một trong những cảng cá lớn ở miền Bắc thời Nhật Bản cai trị Đài Loan. Trong nhiệm kỳ Thị trưởng Lâm Hữu Xương (2014-2022), ông đã hợp tác với Giám đốc Khoa Cảnh quan Đại học Văn hóa để "dần dần đánh thức ý thức tham gia của người dân địa phương" và sơn những ngôi nhà cũ ven cảng thành nhà màu sắc, người dân địa phương gọi 55 màu này là "màu Chính Tân" [^23]. Ngày nay nơi đây là điểm check-in nổi tiếng trên Instagram, nhưng đó không phải là điều ấn tượng nhất.
 
-Chỗ cảm động nhất là: **quay qua quanh góc, đối diện chính là tàn tích công trường tàu Argentina**.
+Điều ấn tượng nhất là: **rẽ một góc, ngay đối diện là đống đổ nát của nhà máy đóng tàu Argentina**.
 
-Argentina trong lịch sử là như vậy: 1919 là kho lưu trữ than của Hoàng Đông Mao; 1937 đổi thành bến cảng vận chuyển cát khoáng, vàng ở Kim Quầu Thạch được kéo lên qua cáp lộ lơ lửng đến Thủy Nam Động, rồi tới Bát Đủ, rồi tới Ngưu Tẩu Cảng, từ đây lên tàu chuyển tới Nhật Bản[^24]. Từ 1966 đến 1987 đổi thành công trường tàu Argentina, do Tạ Quốc Hàng kinh doanh tàu buồm du lịch thay thế, là ông tổ của phong trào buồm Đài Loan. 1987 đóng cửa hoang tàn. 2016 tháng 7 được đăng ký là di tích lịch sử Cơ Long.
+Argentina trong lịch sử đã trải qua nhiều giai đoạn: năm 1919 là lò than của Hoàng Đông Mậu; năm 1937 được chuyển thành bến vận chuyển quặng cát, vàng từ khai thác ở Kim Qua Thạch được đưa bằng cáp treo lên Thủy Nam Động, rồi đến Bát Đổ, và cuối cùng là Cừu Thấu, nơi tàu được đóng để chở sang Nhật Bản [^24]. Từ năm 1966 đến 1987, nó trở thành nhà máy Argentina, chuyên sản xuất thuyền buồm theo hợp đồng cho Xuyên Quốc Hàng, và là người khai phá phong trào thuyền buồm ở Đài Loan. Năm 1987, nơi này đóng cửa và bị bỏ hoang. Tháng 7 năm 2016, nó được đăng ký là di tích lịch sử của thành phố Cơ Long.
 
-Bên cạnh tàn tích xi măng xám đen, chính là những ngôi nhà đầy màu sắc Chính Tân. Một tối một sáng, khoảng cách không tới 100 mét. Đây là hai mặt của tiến trình hiện đại hóa Cơ Long, nén chặt trong khung hình một du khách chụp ảnh bằng điện thoại. Từ bức ảnh này có thể đọc một bộ bộ học thuật Cơ Long đương đại: **chúng tôi không phá hủy tàn tích để xây mới, chúng tôi xây những ngôi nhà đầy màu sắc bên cạnh tàn tích**.
+Bên cạnh đống đổ nát bằng xi măng xám đen là những ngôi nhà màu sắc rực rỡ của Chính Tân. Một sáng một tối, cách nhau chưa đầy 100 mét. Đây là hai mặt của quá trình hiện đại hóa Cơ Long, bị nén lại trong tầm nhìn của một du khách đang chụp ảnh bằng điện thoại. Từ khung cảnh này, người ta có thể đọc được toàn bộ câu chuyện đương đại của Cơ Long: **chúng tôi không phá hủy đống đổ nát để xây mới, chúng tôi dựng nhà màu sắc bên cạnh đống đổ nát**.
 
-### Lâm Hữu Xương, Tạ Quốc Lương, Vụ Bãi Miễn Chức
+### Lâm Hữu Xương, Tạ Quốc Lương và vụ bỏ phiếu bãi nhiệm
 
-Sự chuyển mình của Lâm Hữu Xương tóm tắt bằng một câu: "**Điều quan trọng nhất là thành phố này phải có một vấn đề, yên định lại sự công nhân và hướng tâm của người dân thành phố, và chiếm được tiếng nói Cơ Long đối với cảng này**."[^17] Những việc anh ta làm bao gồm: 2014 ngăn chặn kho hàng Tây Nhị, Tây Tam bị phá dỡ (Bộ trưởng Long Ứng Đài họp pháp lý hỗ trợ, Cục Văn Hóa liệt làm di tích lịch sử); 2021 cảng cá Chính Tân khu triển lãm "Đêm Các Quốc Gia"; 2022 "Thiết kế Thay Đổi Thành Phố Khởi Điểm: Cơ Long" triển lãm thành phố; đổi logo thành phố, phiên bản mới dùng năm màu giải thích: xanh lá cây đại diện cho thành phố núi, vàng tượng trưng năng lượng, đen vì Cơ Long từng sản xuất rất nhiều than, đỏ đại diện nhiệt huyết, xanh dương là cảng Cơ Long và biển[^25].
+Sự chuyển mình của Lâm Hữu Xương có thể được tóm gọn bằng một câu: "**Điều quan trọng nhất là thành phố này cần có một chủ đề để tái tập hợp nhận thức và sức hút của người dân, đồng thời giành lấy tiếng nói về cảng biển này cho thành phố Cơ Long**" [^17]. Những việc ông đã làm bao gồm: ngăn chặn việc phá hủy nhà kho tại bến Tây Nhị và Tây Tam vào năm 2014 (được sự ủng hộ của Bộ trưởng Long Ứng Đài và Cục Văn hóa liệt kê là di tích lịch sử); khu triển lãm "Đêm Quốc tế" ở cảng Chính Tân vào năm 2021; Triển lãm thành phố "Điểm khởi đầu thay đổi thiết kế: Cơ Long" vào năm 2022; thay đổi logo thành phố, phiên bản mới dùng năm màu để diễn giải: màu xanh lá cây tượng trưng cho thành phố miền núi, màu vàng tượng trưng cho sức sống, màu đen vì quá khứ Cơ Long sản xuất than đá thịnh vượng, màu đỏ tượng trưng cho sự nhiệt huyết và màu xanh lam là cảng biển và đại dương của Cơ Long [^25].
 
-Năm 2022 Tạ Quốc Lương (Quốc Dân Đảng) được bầu làm thị trưởng. Hai năm sau, ngày 13 tháng 10 năm 2024, người Cơ Long bỏ phiếu một cuộc bãi miễn. Phiếu không đồng ý 86.014 (55,16%), phiếu đồng ý 69.934 (44,84%), tỷ lệ tham gia bầu cử 50,44%[^26]. Bãi miễn thất bại, Tạ Quốc Lương giữ chức thị trưởng, theo quy định pháp luật không được bãi miễn lại. Cơ Long là vị chứ nhân nhân dân thứ hai sau Kim Quốc Dân là các vị Cao Hùng bị đề xuất bãi miễn, cũng là thứ nhất của các khu hành chính cấp hai.
+Năm 2022, Tạ Quốc Lương (Đảng Quốc Dân) đắc cử chức Thị trưởng. Hai năm sau, vào ngày 13 tháng 10 năm 2024, người dân Cơ Long đã bỏ phiếu bãi nhiệm. Số phiếu không đồng ý là 86.014 (55,16%), số phiếu đồng ý là 69.934 (44,84%), tỷ lệ cử tri đi bầu là 50,44% [^26]. Cuộc bỏ phiếu bãi nhiệm thất bại, Tạ Quốc Lương đã giữ vững chức vụ Thị trưởng và không thể bị bãi nhiệm theo quy định pháp luật. Cơ Long là chính quyền địa phương được bầu thứ hai sau Cao Hùng ở Cao Hùng có đề xuất bãi nhiệm, và cũng là đơn vị hành chính cấp hai đầu tiên.
 
-Bãi miễn không phải trọng tâm của bài viết này. Trọng tâm là người Cơ Long tại sao chạy đi bỏ phiếu cuộc đó. Một thanh niên trở về quê Lý Yên Vinh trong phỏng vấn của Báo Cáo Viên nói: "**Quê hương của tôi là Cơ Long, không phải mình trôi ngoài thì mất cảm giác thuộc về**." Cô ấy trên người mình xăm tọa độ địa lý Cơ Long, và giải thích: "Tôi hy vọng nhớ lại hình dáng lúc bỏ đi của mình."[^27]
+Vụ bỏ phiếu bãi nhiệm không phải là trọng tâm của bài viết này. Trọng tâm là tại sao người dân Cơ Long lại đi bỏ phiếu đó. Lý Yến Dung, một thanh niên trở về quê hương, nói trong cuộc phỏng vấn với phóng viên: "**Quê tôi là Cơ Long, chứ không phải khi tôi lang thang nơi khác mà mất cảm giác thuộc về**." Cô đã xăm kinh độ và vĩ độ của Cơ Long trên người mình và giải thích: "Tôi muốn ghi nhớ dáng vẻ của mình trước khi rời đi" [^27].
 
-Đây là một thành phố 360.000 người. Nhưng trong 360.000 người này, có người chạy về bỏ phiếu.
+Đây là một thành phố nhỏ với 360.000 dân. Nhưng trong số 360.000 người này, có những người đã quay về để bỏ phiếu.
 
 ## 39% Người Đi Làm Ở Đài Bắc
 
