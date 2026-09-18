@@ -1,7 +1,7 @@
 {
-  "revision": 58,
+  "revision": 76,
   "stage": "verify",
-  "actor": "主 session 跑機械閘門並彙整；來源查核由 verify 站乾淨 context 查核員 Sonnet agent a1bc1166cda4c2b36（fresh-context-article-and-raw-sources-only）執行，兩條 mustFix 已修並經 compose-reviewer-5 復審",
+  "actor": "主 session 重跑機械閘門（release 退回修正後，HEAD 07206361c0）並彙整；來源查核由 verify 站查核員 a1bc1166cda4c2b36 執行，後續各批微調由 compose-reviewer-5..13 對原文核",
   "artifacts": [
     "knowledge/Society/誰算低薪.md",
     "reports/staging/low-wage/verify/summary.tsv",
@@ -21,7 +21,9 @@
       "OECD 低薪發生率 15 國 tw-bars；OECD 定義英文逐字引語 ｜ 來源：raw/oecd-low-pay-incidence-total.csv；raw/oecd-incidence-of-low-and-high-pay-page.md ｜ ✅ 15 國全部吻合；引語逐字相符、刪節號正確",
       "分行業非經常性薪資比重 44/39/13/13/12/11% ｜ 來源：raw/11507-新聞稿.txt 表五（全體受僱員工口徑） ｜ ✅ 可重現；依 mustFix 正文與圖說補標「全體受僱員工口徑」（commit a3b06e6dfd）",
       "許宇甄段（記者轉述＋「按照定義，你不算低薪」）；腳註 6 描述 ｜ 來源：udn.com/news/story/6656/9755906（compose-reviewer-6/7 以 curl 開原頁核） ｜ ✅ 引號只落在報導加引號的短語；「僅一句」誤述已改（commit 932c0b5f93）",
-      "直接引語（譚文玲／民眾黨／聯合報主筆室／楊書瑋／王燕杰／賴清德／卓榮泰） ｜ 來源：Stage 3 verifier-A/B 逐字表（reports/research/2026-09/誰算低薪-stage36-audit.md）；本輪查核員確認腳註分工（統計→官方新聞稿、發言→媒體）內部一致 ｜ ✅"
+      "直接引語（譚文玲／民眾黨／聯合報主筆室／楊書瑋／王燕杰／賴清德／卓榮泰） ｜ 來源：Stage 3 verifier-A/B 逐字表（reports/research/2026-09/誰算低薪-stage36-audit.md）；本輪查核員確認腳註分工（統計→官方新聞稿、發言→媒體）內部一致 ｜ ✅",
+      "release 站退回後新增句「這份全年統計以投保天數當權數…」 ｜ 來源：raw/113-新聞稿.txt L380「以投保天數為權數，正確衡量其薪資所得之全年代表性」 ｜ ✅ compose-reviewer-10 對回原文",
+      "第七節許宇甄段引號與腳註 6（第六、七、十一輪三次修正） ｜ 來源：udn.com/news/story/6656/9755906 ｜ ✅ compose-reviewer-6/7/12/13 以 curl 開原頁核"
     ],
     "mechanicalChecks": [
       {
@@ -124,7 +126,8 @@
       "126 萬／16.8% 為主計總處副處長口頭試算，無書面統計表可獨立重算（正文與腳註已標示；2025 年中位數統計 11 月出爐後可 EVOLVE）",
       "[^16] OECD 指標頁對 curl 回 403（bot block），頁面文字已存 raw，瀏覽器可開",
       "prose-health 3 warn 全在逐字引語內的全形分號（中央社、民眾黨聲明、聯合報主筆室原文），不得改",
-      "9/24 審議會結果在 ship 之後，需 EVOLVE-delta"
+      "9/24 審議會結果在 ship 之後，需 EVOLVE-delta",
+      "全年總薪資統計以投保天數為權數，非整年在職者對 126 萬的貢獻比例主計總處未公布（正文與 where_it_hedges 已揭露）"
     ]
   }
 }
