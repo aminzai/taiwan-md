@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-09-17T18:42:09.290Z",
+  "generatedAt": "2026-09-18T00:41:50.926Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "ae354f67bf48baf19bf937fd2e5483aca8288fb4",
+      "date": "2026-09-18T03:01:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-18 02:38 — 掛了八天的單檔勘誤查完、待決佇列有了數欄位的尺、時區假警報第三次撞到改尺",
+      "articles": []
+    },
+    {
+      "hash": "14a0287a2661f20a5761616509ff6fa80c019bb3",
+      "date": "2026-09-18T02:58:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 待決佇列每列都要有預設選項，補一把尺數欄位並把六列缺的欄補上",
+      "articles": []
+    },
+    {
+      "hash": "0bad2cb5ff52f136a3c9097f7bc4ff9b92d36031",
+      "date": "2026-09-18T02:54:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 凌晨心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "7a1277f27f6325aeea268abcc093c461071030b9",
+      "date": "2026-09-18T02:54:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 資料刷新第 11 步改看 analytics 的齡，台北凌晨跑不再誤報昨天的資料是舊的",
+      "articles": []
+    },
+    {
+      "hash": "5f683a19c81165c3f30bde2da9671a4bea0fc4dc",
+      "date": "2026-09-18T02:54:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 台灣原住民當代藝術——逐位查證後改回正確族籍，撤掉查無來源的作品與引語",
+      "articles": [
+        {
+          "url": "/art/台灣原住民當代藝術",
+          "name": "台灣原住民當代藝術"
+        }
+      ]
+    },
     {
       "hash": "b4e59d6d566f5db372d29b07e141734835979510",
       "date": "2026-09-17T20:54:21+08:00",
@@ -83166,46 +83206,6 @@
           "name": "台灣企業：台積電"
         }
       ]
-    },
-    {
-      "hash": "8aff3825172b7721206435e7903afa2953e96d3c",
-      "date": "2026-03-25T01:53:16+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣企業：聯發科技 — EDITORIAL v4 + Pipeline v2.1 (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：聯發科技",
-          "name": "台灣企業：聯發科技"
-        }
-      ]
-    },
-    {
-      "hash": "55b00fe30da8cf7755596c6fed1fec7b807f54b7",
-      "date": "2026-03-25T01:34:25+08:00",
-      "author": "iigmir",
-      "message": "feat: Add Mistral AI Crawlers",
-      "articles": []
-    },
-    {
-      "hash": "997368cb662c21c6fdd0e55bbadba5f82dc3e360",
-      "date": "2026-03-25T01:30:58+08:00",
-      "author": "JacobMei",
-      "message": "fix(search): 修正 try/catch 範圍、tags 型別防禦、isCJK 擴充",
-      "articles": []
-    },
-    {
-      "hash": "606af9a47c88385c4e3d32a846ce381042e7ff36",
-      "date": "2026-03-25T00:52:13+08:00",
-      "author": "Johnwang",
-      "message": "fix: 修復英文 People 分類 64 篇文章的 YAML frontmatter 錯誤 (#209)",
-      "articles": []
-    },
-    {
-      "hash": "34adaf78752179dc7e009a2d42e97c9bf1dd78ee",
-      "date": "2026-03-25T00:51:31+08:00",
-      "author": "Brian Huang",
-      "message": "fix: improve header navigation layout and z-index",
-      "articles": []
     }
   ]
 }

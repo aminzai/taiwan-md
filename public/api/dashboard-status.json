@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T18:42:28.560Z",
+  "generated_at": "2026-09-18T00:42:09.441Z",
   "routines": {
     "fetched_at": "2026-09-09T06:16:02+08:00",
-    "stale_hours": 212.4,
+    "stale_hours": 218.4,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -66,7 +66,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -330,7 +330,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -405,7 +405,7 @@
         "cron": "30 8 * * *",
         "cadence_human": "每天 08:30",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-09-17T08:51:50+08:00",
         "grid14": [
           {
@@ -462,7 +462,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -726,7 +726,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -858,7 +858,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -924,7 +924,7 @@
           },
           {
             "date": "2026-09-18",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1306,13 +1306,13 @@
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "MEMORY.md 索引 inline 84 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "text": "MEMORY.md 索引 inline 85 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md"
     },
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "routine-live-state.json dump 齡 212.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "text": "routine-live-state.json dump 齡 218.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json"
     },
     {
@@ -1324,29 +1324,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-17T18:17:20Z",
+      "ts": "2026-09-18T00:36:51Z",
       "conclusion": "success",
       "title": "Routine stall alert: Routine stall alert"
     },
     {
-      "ts": "2026-09-17T12:54:52Z",
+      "ts": "2026-09-17T21:24:45Z",
       "conclusion": "success",
-      "title": "Engineering contracts: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-17 20:37 — 飛輪其實全勤、產出全…"
+      "title": "PR Frontmatter Gate: translate(id): 社會運動與公民參與 → social-movements-and-civic-participation"
     },
     {
-      "ts": "2026-09-17T12:54:52Z",
+      "ts": "2026-09-17T21:24:45Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-17 20:37 — 飛輪其實全勤、產出全…"
+      "title": "Translation PR Check: translate(id): 社會運動與公民參與 → social-movements-and-civic-participation"
     },
     {
-      "ts": "2026-09-17T12:54:52Z",
+      "ts": "2026-09-17T21:24:45Z",
       "conclusion": "success",
-      "title": "Python tests: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-17 20:37 — 飛輪其實全勤、產出全…"
+      "title": "PR Content Review: translate(id): 社會運動與公民參與 → social-movements-and-civic-participation"
     },
     {
-      "ts": "2026-09-17T12:20:40Z",
+      "ts": "2026-09-17T21:24:03Z",
       "conclusion": "success",
-      "title": "Routine stall alert: Routine stall alert"
+      "title": "Translation PR Check: translate(vi): 電視布袋戲 → taiwan-tv-glove-puppetry"
     }
   ]
 }

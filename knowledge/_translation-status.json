@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-18T02:42:04+08:00",
-    "zhCommitHead": "b4e59d6d56",
+    "lastUpdated": "2026-09-18T08:41:46+08:00",
+    "zhCommitHead": "ae354f67bf",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,88 +20,88 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 995,
-        "stale": 83,
+        "fresh": 994,
+        "stale": 84,
         "metadata_stale": 19,
         "missing": 24,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 818,
-        "stale": 91,
+        "fresh": 817,
+        "stale": 92,
         "metadata_stale": 28,
         "missing": 184,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 983,
-        "stale": 80,
+        "fresh": 982,
+        "stale": 81,
         "metadata_stale": 19,
         "missing": 39,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 996,
-        "stale": 82,
+        "fresh": 995,
+        "stale": 83,
         "metadata_stale": 18,
         "missing": 25,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 996,
-        "stale": 84,
+        "fresh": 995,
+        "stale": 85,
         "metadata_stale": 19,
         "missing": 22,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 684,
-        "stale": 92,
+        "fresh": 683,
+        "stale": 93,
         "metadata_stale": 82,
         "missing": 263,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 833,
-        "stale": 56,
+        "fresh": 832,
+        "stale": 57,
         "metadata_stale": 8,
         "missing": 224,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 991,
-        "stale": 67,
+        "fresh": 990,
+        "stale": 68,
         "metadata_stale": 12,
         "missing": 51,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 913,
-        "stale": 48,
+        "fresh": 912,
+        "stale": 49,
         "metadata_stale": 10,
         "missing": 150,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 972,
-        "stale": 52,
+        "fresh": 971,
+        "stale": 53,
         "metadata_stale": 14,
         "missing": 83,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 1011,
-        "stale": 38,
+        "fresh": 1010,
+        "stale": 39,
         "metadata_stale": 8,
         "missing": 64,
         "orphan": 0
@@ -32623,10 +32623,10 @@
     },
     "Art/台灣原住民當代藝術.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:8e3303199d60c0c9",
-        "bodyHash": "sha256:83f9f1bad3cb5feb"
+        "lastCommit": "5f683a19",
+        "lastModified": "2026-09-18T02:54:30+08:00",
+        "contentHash": "sha256:95cf1ca6d1302123",
+        "bodyHash": "sha256:a6d8e0ae74d03252"
       },
       "translations": {
         "en": {
@@ -32640,8 +32640,8 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "ja": {
           "path": "ja/Art/contemporary-indigenous-art-taiwan.md",
@@ -32654,8 +32654,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "ko": {
           "path": "ko/Art/contemporary-indigenous-art-taiwan.md",
@@ -32668,8 +32668,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "es": {
           "path": "es/Art/contemporary-indigenous-art-taiwan.md",
@@ -32682,8 +32682,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "fr": {
           "path": "fr/Art/contemporary-indigenous-art-taiwan.md",
@@ -32696,8 +32696,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "vi": {
           "path": "vi/Art/contemporary-indigenous-art-taiwan.md",
@@ -32710,8 +32710,8 @@
           "translationLastModified": "2026-08-09T12:18:23+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "id": {
           "path": "id/Art/contemporary-indigenous-art-taiwan.md",
@@ -32724,8 +32724,8 @@
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "pt": {
           "path": "pt/Art/contemporary-indigenous-art-taiwan.md",
@@ -32738,8 +32738,8 @@
           "translationLastModified": "2026-07-30T10:02:54+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "hi": {
           "path": "hi/Art/contemporary-indigenous-art-taiwan.md",
@@ -32752,8 +32752,8 @@
           "translationLastModified": "2026-09-10T01:47:43+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "ar": {
           "path": "ar/Art/contemporary-indigenous-art-taiwan.md",
@@ -32766,8 +32766,8 @@
           "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "ru": {
           "path": "ru/Art/contemporary-indigenous-art-taiwan.md",
@@ -32780,8 +32780,8 @@
           "translationLastModified": "2026-09-05T22:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→6)"
         },
         "de": {
           "status": "missing"

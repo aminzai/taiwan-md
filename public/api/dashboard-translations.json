@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T18:42:22.305Z",
+  "lastUpdated": "2026-09-18T00:42:03.542Z",
   "languages": [
     "zh-TW",
     "en",
@@ -27,57 +27,57 @@
     "en": {
       "total": 1097,
       "percentage": 97.9,
-      "fresh": 995,
+      "fresh": 994,
       "metadataStale": 19,
-      "stale": 83,
+      "stale": 84,
       "missing": 24,
       "orphan": 0,
       "deficit": 24,
-      "freshPct": 88.8,
-      "bodyFreshPct": 90.5
+      "freshPct": 88.7,
+      "bodyFreshPct": 90.4
     },
     "ja": {
       "total": 937,
       "percentage": 83.6,
-      "fresh": 818,
+      "fresh": 817,
       "metadataStale": 28,
-      "stale": 91,
+      "stale": 92,
       "missing": 184,
       "orphan": 0,
       "deficit": 184,
-      "freshPct": 73,
-      "bodyFreshPct": 75.5
+      "freshPct": 72.9,
+      "bodyFreshPct": 75.4
     },
     "ko": {
       "total": 1082,
       "percentage": 96.5,
-      "fresh": 983,
+      "fresh": 982,
       "metadataStale": 19,
-      "stale": 80,
+      "stale": 81,
       "missing": 39,
       "orphan": 0,
       "deficit": 39,
-      "freshPct": 87.7,
-      "bodyFreshPct": 89.4
+      "freshPct": 87.6,
+      "bodyFreshPct": 89.3
     },
     "es": {
       "total": 1096,
       "percentage": 97.8,
-      "fresh": 996,
+      "fresh": 995,
       "metadataStale": 18,
-      "stale": 82,
+      "stale": 83,
       "missing": 25,
       "orphan": 0,
       "deficit": 25,
       "freshPct": 88.8,
-      "bodyFreshPct": 90.5
+      "bodyFreshPct": 90.4
     },
     "fr": {
       "total": 1099,
       "percentage": 98,
-      "fresh": 996,
+      "fresh": 995,
       "metadataStale": 19,
-      "stale": 84,
+      "stale": 85,
       "missing": 22,
       "orphan": 0,
       "deficit": 22,
@@ -87,74 +87,74 @@
     "vi": {
       "total": 858,
       "percentage": 76.5,
-      "fresh": 684,
+      "fresh": 683,
       "metadataStale": 82,
-      "stale": 92,
+      "stale": 93,
       "missing": 263,
       "orphan": 0,
       "deficit": 263,
-      "freshPct": 61,
-      "bodyFreshPct": 68.3
+      "freshPct": 60.9,
+      "bodyFreshPct": 68.2
     },
     "id": {
       "total": 897,
       "percentage": 80,
-      "fresh": 833,
+      "fresh": 832,
       "metadataStale": 8,
-      "stale": 56,
+      "stale": 57,
       "missing": 224,
       "orphan": 0,
       "deficit": 224,
-      "freshPct": 74.3,
-      "bodyFreshPct": 75
+      "freshPct": 74.2,
+      "bodyFreshPct": 74.9
     },
     "pt": {
       "total": 1070,
       "percentage": 95.5,
-      "fresh": 991,
+      "fresh": 990,
       "metadataStale": 12,
-      "stale": 67,
+      "stale": 68,
       "missing": 51,
       "orphan": 0,
       "deficit": 51,
-      "freshPct": 88.4,
-      "bodyFreshPct": 89.5
+      "freshPct": 88.3,
+      "bodyFreshPct": 89.4
     },
     "hi": {
       "total": 971,
       "percentage": 86.6,
-      "fresh": 913,
+      "fresh": 912,
       "metadataStale": 10,
-      "stale": 48,
+      "stale": 49,
       "missing": 150,
       "orphan": 0,
       "deficit": 150,
       "freshPct": 81.4,
-      "bodyFreshPct": 82.3
+      "bodyFreshPct": 82.2
     },
     "ar": {
       "total": 1038,
       "percentage": 92.6,
-      "fresh": 972,
+      "fresh": 971,
       "metadataStale": 14,
-      "stale": 52,
+      "stale": 53,
       "missing": 83,
       "orphan": 0,
       "deficit": 83,
-      "freshPct": 86.7,
-      "bodyFreshPct": 88
+      "freshPct": 86.6,
+      "bodyFreshPct": 87.9
     },
     "ru": {
       "total": 1057,
       "percentage": 94.3,
-      "fresh": 1011,
+      "fresh": 1010,
       "metadataStale": 8,
-      "stale": 38,
+      "stale": 39,
       "missing": 64,
       "orphan": 0,
       "deficit": 64,
-      "freshPct": 90.2,
-      "bodyFreshPct": 90.9
+      "freshPct": 90.1,
+      "bodyFreshPct": 90.8
     },
     "de": {
       "total": 156,
@@ -261,78 +261,78 @@
       "zh-TW": 48,
       "en": {
         "count": 46,
-        "fresh": 45,
-        "stale": 1,
+        "fresh": 44,
+        "stale": 2,
         "missing": 1,
         "deficit": 2
       },
       "ja": {
         "count": 44,
-        "fresh": 41,
-        "stale": 3,
+        "fresh": 40,
+        "stale": 4,
         "missing": 3,
         "deficit": 4
       },
       "ko": {
         "count": 47,
-        "fresh": 46,
-        "stale": 1,
+        "fresh": 45,
+        "stale": 2,
         "missing": 1,
         "deficit": 1
       },
       "es": {
         "count": 46,
-        "fresh": 44,
-        "stale": 2,
+        "fresh": 43,
+        "stale": 3,
         "missing": 2,
         "deficit": 2
       },
       "fr": {
         "count": 46,
-        "fresh": 44,
-        "stale": 2,
+        "fresh": 43,
+        "stale": 3,
         "missing": 1,
         "deficit": 2
       },
       "vi": {
         "count": 42,
-        "fresh": 38,
-        "stale": 4,
+        "fresh": 37,
+        "stale": 5,
         "missing": 6,
         "deficit": 6
       },
       "id": {
         "count": 43,
-        "fresh": 40,
-        "stale": 3,
+        "fresh": 39,
+        "stale": 4,
         "missing": 5,
         "deficit": 5
       },
       "pt": {
         "count": 47,
-        "fresh": 43,
-        "stale": 4,
+        "fresh": 42,
+        "stale": 5,
         "missing": 1,
         "deficit": 1
       },
       "hi": {
         "count": 40,
-        "fresh": 39,
-        "stale": 1,
+        "fresh": 38,
+        "stale": 2,
         "missing": 8,
         "deficit": 8
       },
       "ar": {
         "count": 44,
-        "fresh": 43,
-        "stale": 1,
+        "fresh": 42,
+        "stale": 2,
         "missing": 4,
         "deficit": 4
       },
       "ru": {
         "count": 48,
-        "fresh": 48,
-        "stale": 0,
+        "fresh": 47,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -2542,6 +2542,7 @@
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md"
     ],
     "de": [
+      "Art/台灣原住民當代藝術.md",
       "Geography/苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長.md",
       "Lifestyle/台灣市場文化：一座市場不只賣菜，也保存城市的記憶.md",
       "Lifestyle/台灣吉祥物：從大同寶寶的贈品，到地方角色的全域出場.md",
@@ -3384,7 +3385,6 @@
       "People/李智凱.md",
       "Society/環保與永續發展.md",
       "Technology/PTT 批踢踢：台灣最頑固的公共廣場.md",
-      "Art/台灣原住民當代藝術.md",
       "Culture/台灣街頭藝術與塗鴉文化.md",
       "Economy/中鋼：鐵頭部長與十大建設的鋼鐵傳奇.md",
       "Economy/兆豐金控：四家行庫合併、台商全球金融夥伴、2016 紐約罰款風暴.md",
