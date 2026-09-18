@@ -1,0 +1,47 @@
+🧬 knowledge/Economy/台灣油價機制與中油.md
+   lang=zh-TW  category=Economy  slug=台灣油價機制與中油
+   ✅ ai-residue  hard=0 warn=0
+   ✅ attribution-vague  hard=0 warn=0
+   ✅ body-internal-links  hard=0 warn=0 info=1
+      info : 正文站內連結：3 個（wikilink 3 + md-link 0），密度 0.46/千字
+   ✅ chronicle-lead  hard=0 warn=0
+   ✅ cjk-punct  hard=0 warn=0
+   ✅ correction-meta  hard=0 warn=0
+   ✅ cross-reference  hard=0 warn=0
+   ✅ curation-consistency  hard=0 warn=0
+   ✅ fence-prose  hard=0 warn=0
+   ✅ footnote-density  hard=0 warn=0
+   ✅ footnote-format  hard=0 warn=0
+   ✅ footnote-url  hard=0 warn=0
+   ✅ format-structure  hard=0 warn=0
+   ✅ frontmatter-format  hard=0 warn=0
+   ✅ frontmatter-title  hard=0 warn=0
+   ✅ gh-footnote-leak  hard=0 warn=0
+   ✅ image-alt  hard=0 warn=0
+   ✅ image-health  hard=0 warn=0 info=1
+      info : 圖片統計：2 inline + 1 hero (frontmatter) = 3 張
+   ✅ link-target  hard=0 warn=0
+   ✅ link-url-mangle  hard=0 warn=0
+   ✅ media-richness  hard=0 warn=0 info=3
+      info : 媒體統計：0 iframe + 3 image (門檻 image ≥ 3 hard / iframe ≥ 1 info-only)
+      info : iframe 0 < 1（缺影片素材，soft signal — 立體呈現理想配 video，但不阻擋 spore-publish ship）
+      info : 媒體數量 advisory：圖+影片 3 < 9 (depth 10236 字，~1 媒體/1100 字；長文 (≥7000 字) 朝 圖+影片 ≥ 8)。 富媒體範本：設研院 5 圖 / 陳建年 8 (圖+影片) / 天下 6。
+   ✅ paragraph-rhythm  hard=0 warn=0
+   ✅ prose-health  hard=0 warn=0 info=1
+      info : prose-health score: 1 (≤ 3 = pass) — 未人工審核
+   ✅ quote-fidelity  hard=0 warn=0
+   ✅ rationale-presence  hard=0 warn=0
+   ✅ seo-meta  hard=0 warn=0 info=1
+      info : frontmatter SEO: title=22字 description=112字 (canonical 120-160字)
+   ✅ spore-writing  hard=0 warn=0
+   ✅ subcategory-translation-parity  hard=0 warn=0
+   ✅ subcategory-valid  hard=0 warn=0
+   ✅ terminology  hard=0 warn=0 info=2
+      info : 可能歧義「算法」(1 處) — 建議改用台灣用語：「演算法」（語境決定）
+      info : 可能歧義「網絡」(2 處) — 建議改用台灣用語：「網路」（語境決定）
+   ✅ viz-health  hard=0 warn=0
+   ✅ wikilink-target  hard=0 warn=0
+   ✅ word-count  hard=0 warn=0 info=1
+      info : 字數統計：5850 CJK chars (130% of 4500 門檻)
+
+Summary: hard=0  warn=0  info=10  passed=True (fail_on=warn)

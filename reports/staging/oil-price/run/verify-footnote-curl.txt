@@ -1,0 +1,23 @@
+# curl -sL -A Mozilla/5.0 -o /dev/null -w %{http_code} 對 footnote-url 警告的每個 URL（2026-09-18 19:32 +0800）
+200  https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0020019
+200  https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340076&flno=10
+200  https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=79
+200  https://newtalk.tw/news/view/2026-09-03/1057666
+200  https://ws.cpc.com.tw/CPCDA/files/804-30.pdf
+200  https://www.cna.com.tw/news/afe/202409200204.aspx
+200  https://www.cna.com.tw/news/afe/202501170212.aspx
+200  https://www.cpc.com.tw/News_Content.aspx?n=28&s=112028
+200  https://www.cpc.com.tw/News_Content.aspx?n=28&s=112174
+200  https://www.cpc.com.tw/News_Content.aspx?n=28&s=112541
+200  https://www.cpc.com.tw/News_Content.aspx?n=28&s=112549
+200  https://www.cpc.com.tw/News_Content.aspx?n=28&s=212
+200  https://www.cpc.com.tw/News_Content.aspx?n=31&s=817
+200  https://www.ctee.com.tw/news/20260322700647-431401
+200  https://www.cy.gov.tw/message_1.asp?msg_id=2827
+200  https://www.ftc.gov.tw/upload/719fff9d-4b02-4baf-8ab1-7c8729b22755.pdf
+000  https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=12
+000  https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=122111
+000  https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=122174
+200  https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=122237
+200  https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=123075
+重試（--max-time 90）：122111 → 200；122174 → 200（前次 000 為單次逾時）
