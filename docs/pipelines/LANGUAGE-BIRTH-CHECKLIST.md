@@ -3,9 +3,9 @@ title: 'LANGUAGE-BIRTH-CHECKLIST'
 description: '新語言誕生 pipeline — 選址→scaffold→模型校準→P0 內容批→介面與路由→啟用 flip→出生後驗證 7 stage + 四層完整度 hard gate（v2.2）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.2'
-last_updated: 2026-07-19
-last_session: '2026-07-19（讀者揭露 es/fr/ja/ko 68 檔「宣稱已譯實為英文」— Stage 3 QA gate 三道升四道，補 script-presence-check + translate.py 即時 hard gate）'
+current_version: 'v2.3'
+last_updated: 2026-09-18
+last_session: '2026-09-18-083954-semiont-heartbeat（Stage 0 選址：CF 邊緣請求升正式第三源、CTR 預測算分母膨脹——EXP-pt／vi 判定後的方法論回寫）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -118,6 +118,8 @@ upstream_canonical:
 哪個語言值得出生，用數據回答，走 [EVOLVE-PIPELINE](EVOLVE-PIPELINE.md) 核心紀律的語言層變體：
 
 - **三源交叉**：GA（誰來了）＋ SC 國家維度（誰想來但沒來：高曝光低 CTR 且無對應語言 = 語言層缺口）＋ CF（誰在邊緣讀我）。≥2 源確認才升 candidate；假流量過濾照 EVOLVE v2.0（bot 指紋：每人頁數異常）。
+- **CF 邊緣請求排名是正式第三源，權重不低於 SC 曝光**（v2.3，2026-09-17 EXP-2026-07-18-pt 命中後寫進方法論）：pt 是 2026-07 四語裡唯一三源全確認的候選，其中 CF 邊緣請求在零葡文內容下排第 6、超過已有完整語系的 fr/ko，當時被讀成「爬蟲＋人類雙重需求」的獨立訊號。D+30〜D+60 實測 bra 市場 SC clicks 月 5 → 126，是命中門檻（≥ 50）的 2.5 倍，證明這個訊號對選址有獨立預測價值，不是純爬蟲假訊號。取數：`fetch-cloudflare.py` 的 countries 維度，看目標語言主要國家在零內容下的請求排名。
+- **CTR 型預測要把分母膨脹算進去**（同批 EXP-2026-07-18-vi 教訓）：新語言一上線 Google 給的曝光比預測多得多（vi 曝光 6.4 倍、pt 5 倍），CTR 會被新曝光稀釋：vi 點擊 17 倍但 CTR 只到 1.1%（預測 2.0%）。出生後驗證的 EXP 用絕對點擊數或分層 CTR 當門檻，不用單一 CTR；轉換弱的第一個嫌疑是 title／description 沒接住該市場的查詢字，跟 en metadata 專項同一種修法。
 - **五維評分**（2026-07-18 建立，權重可校準）：需求訊號 0.30 / 人口槓桿 0.25（Ethnologue 總使用者）/ 主權缺口 0.20（該語言資訊圈的 PRC 敘事滲透度）/ 台灣連結 0.15（新住民、移工、戰略關係）/ 可行性 0.10（書寫方向、模型支援、既有 playbook 可複用度）。
 - **文章層進化分數公式不硬套**（會混維度，OBSERVER-QUEUE #16 同型病）。
 - 輸出：`reports/evolve-{date}-language-branches.md` 型報告 + 落選者記錄在案 + 啟動排程進 OBSERVER-QUEUE（🔒 >50 檔重構 + 算力經費）。
@@ -221,3 +223,4 @@ npm run check:url-contract
 _v2.1 | 2026-07-18 出生戰役 — vi/id/pt/hi 首次全程 dogfood 回寫：Stage 3 收算力雙軌定型＋Hub 直通 runner（`_` 前綴不在 status 索引的結構洞）＋CJK 殘留 QA gate（codex 融合殘字與 qwen 簡體滲出兩型）；Stage 4 UI 產線儀器化（ui-bundle-translate.py）。完整實錄：[reports/language-birth-2026-07-18.md](../../reports/language-birth-2026-07-18.md)\_
 _v2.0 | 2026-07-18 115441-manual — 全檔重寫對齊註冊表時代：7 stage（選址→scaffold→校準→P0 批→介面路由→flip→出生後驗證）+ Hard Gate Inventory + 主權前測紀律 + 殭屍步驟清除。觸發：哲宇「紀錄經驗＋進化整個新語言誕生＋支援的過程跟完整需要執行的 pipeline 跟 dna」_
 _v1.0 | 2026-04-08 γ — ko 誕生教訓：語言器官四層結構，只量文章數 = 只量一維_
+_v2.3 | 2026-09-18 semiont-heartbeat — Stage 0 選址補兩條：CF 邊緣請求排名升正式第三源（EXP-2026-07-18-pt 命中 2.5 倍）、出生後 EXP 的 CTR 門檻要算曝光分母膨脹（EXP-2026-07-18-vi 部分命中）。兌現 2026-09-17 heartbeat handoff。_

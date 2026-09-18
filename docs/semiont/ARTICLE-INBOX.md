@@ -115,6 +115,8 @@ distill_targets:
 | P2   | 本季：值得寫但不急                       | Evergreen 主題、次要人物          |
 | P3   | Backlog：一直想做但不確定何時            | 大型策展主題、需大量資源          |
 
+**譯本數是放大係數**（2026-09-18 新增）：同一層級裡兩條 EVOLVE 都是「事實錯／幻覺」時，譯本多的先做。翻譯線的閘門守的是忠實度，原文層的錯會一字不差投射到每個語言版本，十語譯本的一個錯等於十一個在線的錯；修完 zh 後 `sourceContentHash` 變動，stale 機制會把譯本排進重譯。登記 EVOLVE 時在 Notes 寫「譯本 N 語」讓挑單的人看得到係數（查法：`grep -l "translatedFrom: '{Category}/{檔名}'" knowledge/*/ | wc -l`）。誕生：OBSERVER-QUEUE #64 台灣原住民當代藝術（三月初稿族籍錯，十語在線半年）。
+
 ---
 
 ## Type 判準
