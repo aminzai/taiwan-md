@@ -758,6 +758,34 @@ def append_observer_queue_row(lang: str, zh_path: str, fail_count: int, first_se
 FRESH_WINDOW_DAYS = 5   # 見 build_worklist：新文章的最高優先窗口
 
 
+EXCLUDE_REFRESH_MIN = int(os.environ.get("BABEL_EXCLUDE_REFRESH_MIN", "90"))  # 去重清單多久算舊
+
+
+def refresh_exclusions_if_stale(path: Path | None, log: "Logger") -> None:
+    """去重清單超過 EXCLUDE_REFRESH_MIN 分鐘就重算（git fetch + babel-origin-exclude.py）。
+
+    2026-09-19：wrapper 只在起跑時算一次，但一個 run 跑數天，origin 那側每天多翻
+    一百多篇，清單越跑越舊，本機又開始翻 origin 已經翻好的檔——09-18 handoff 第二條。
+    重算失敗只 log，沿用舊檔（load_exclusions 每輪都重讀，所以新檔一落地下一輪就生效）。
+    """
+    if path is None:
+        return
+    try:
+        age_min = (time.time() - path.stat().st_mtime) / 60 if path.exists() else float("inf")
+    except OSError:
+        age_min = float("inf")
+    if age_min < EXCLUDE_REFRESH_MIN:
+        return
+    log(f"  exclude-file 已 {age_min:.0f} 分鐘沒更新（門檻 {EXCLUDE_REFRESH_MIN}）— 重算 origin 去重清單")
+    subprocess.run(["git", "fetch", "-q", "origin", "main"], cwd=REPO, capture_output=True, text=True)
+    r = subprocess.run([sys.executable, "scripts/tools/lang-sync/babel-origin-exclude.py"],
+                       cwd=REPO, capture_output=True, text=True)
+    if r.returncode != 0:
+        log(f"  ⚠️ babel-origin-exclude.py exit={r.returncode}，沿用舊清單\n{r.stderr[-600:]}")
+    else:
+        log("  " + (r.stderr.strip().splitlines() or ["去重清單已重算"])[-1])
+
+
 def load_exclusions(path: Path | None, log: "Logger") -> set:
     """讀 `--exclude-file`（TSV：`<lang>\t<zh_path>` 或 `*\t<zh_path>`）。
 
@@ -1773,6 +1801,7 @@ def main() -> None:
         except Exception:
             pass
 
+        refresh_exclusions_if_stale(args.exclude_file, log)
         exclusions = load_exclusions(args.exclude_file, log)
         if args.exclude_file is not None:
             log(f"  exclude-file: {len(exclusions)} (lang, zh) pairs skipped this round")
