@@ -55,7 +55,7 @@
     "leak": 1
   },
   "pt:Society/毒馬鈴薯認知作戰.md": {
-    "no output written by translate.py (exit=1)": 5,
+    "no output written by translate.py (exit=1)": 6,
     "leak": 1
   },
   "en:Technology/Computex.md": {
@@ -86,7 +86,7 @@
   },
   "ko:Society/苯駢芘食安事件.md": {
     "no backend available to translate.py (exit=1)": 3,
-    "no output written by translate.py (exit=1)": 30,
+    "no output written by translate.py (exit=1)": 31,
     "health": 1,
     "health [footnote-format, wikilink-target]": 2,
     "verify=1 [URL count]": 2,
@@ -121,7 +121,7 @@
   },
   "en:People/阿神.md": {
     "no backend available to translate.py (exit=1)": 1,
-    "verify=1 [frontmatter not untranslated]": 5,
+    "verify=1 [frontmatter not untranslated]": 6,
     "verify=4 [translation ratio, footnote count, section count, URL count]": 2,
     "health [footnote-format, image-health]": 1,
     "no output written by translate.py (exit=1)": 1,
@@ -144,7 +144,7 @@
   },
   "es:Society/苯駢芘食安事件.md": {
     "verify=1 [URL count]": 3,
-    "no output written by translate.py (exit=1)": 31,
+    "no output written by translate.py (exit=1)": 32,
     "leak": 4,
     "health [footnote-format]": 3,
     "no output written by translate.py (exit=-15)": 1,
@@ -220,7 +220,7 @@
     "no backend available to translate.py (exit=1)": 1,
     "verify=5 [translatedFrom, translation ratio, footnote count, section count]": 1,
     "verify=3 [translation ratio, footnote count, URL count]": 3,
-    "no output written by translate.py (exit=1)": 2,
+    "no output written by translate.py (exit=1)": 3,
     "health [footnote-format]": 1,
     "verify=1 [frontmatter not untranslated]": 1
   },
@@ -254,7 +254,7 @@
   },
   "es:Art/笠詩社.md": {
     "verify=2 [section count, frontmatter not untranslated]": 2,
-    "no output written by translate.py (exit=1)": 25,
+    "no output written by translate.py (exit=1)": 26,
     "verify=1 [frontmatter not untranslated]": 2,
     "verify=2 [URL count, frontmatter not untranslated]": 1,
     "health [footnote-format]": 1
@@ -302,7 +302,7 @@
     "patch candidate rejected by verify trio (exit=1)": 14
   },
   "ru:Music/台灣影視配樂.md": {
-    "no output written by translate.py (exit=1)": 2,
+    "no output written by translate.py (exit=1)": 3,
     "verify=2 [URL count, tags ASCII]": 1,
     "verify=1 [URL count]": 2
   },
@@ -416,7 +416,7 @@
     "leak": 1
   },
   "pt:Food/台灣素食文化.md": {
-    "verify=1 [frontmatter not untranslated]": 15,
+    "verify=1 [frontmatter not untranslated]": 16,
     "no output written by translate.py (exit=1)": 1
   },
   "id:Food/蛋撻.md": {
@@ -515,7 +515,7 @@
     "leak": 3
   },
   "pt:People/羅大佑.md": {
-    "verify=1 [frontmatter not untranslated]": 10,
+    "verify=1 [frontmatter not untranslated]": 11,
     "leak": 1
   },
   "id:Art/紙風車劇團.md": {
@@ -606,12 +606,12 @@
     "health [image-health, wikilink-target]": 1
   },
   "en:Society/苯駢芘食安事件.md": {
-    "no output written by translate.py (exit=1)": 25,
+    "no output written by translate.py (exit=1)": 26,
     "verify=1 [URL count]": 1,
     "health [wikilink-target]": 1
   },
   "fr:Society/苯駢芘食安事件.md": {
-    "no output written by translate.py (exit=1)": 27,
+    "no output written by translate.py (exit=1)": 28,
     "verify=1 [URL count]": 2,
     "health [footnote-format]": 2
   },
@@ -696,14 +696,14 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Geography/北投溫泉街.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Geography/寶藏巖.md": {
     "no output written by translate.py (exit=1)": 2
   },
   "ru:Geography/北投溫泉街.md": {
     "verify=1 [tags ASCII]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Geography/寶藏巖.md": {
     "no output written by translate.py (exit=1)": 2
@@ -852,7 +852,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "id:Geography/嘉義市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Geography/大稻埕.md": {
     "verify=1 [section count]": 1,
@@ -893,7 +893,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Geography/嘉義市.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3,
+    "verify=1 [section count]": 1
   },
   "ar:People/李洋.md": {
     "verify=1 [tags ASCII]": 1,
@@ -917,7 +918,8 @@
     "patch candidate rejected by verify trio (exit=1)": 2
   },
   "pt:Food/台灣早餐文化.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 4,
+    "no output written by translate.py (exit=1)": 1
   },
   "hi:Art/江賢二.md": {
     "no output written by translate.py (exit=1)": 2
@@ -929,11 +931,11 @@
     "verify=1 [tags not identical to zh]": 3
   },
   "pt:Music/台灣民歌運動.md": {
-    "verify=1 [URL count]": 5,
+    "verify=1 [URL count]": 6,
     "leak": 1
   },
   "pt:Music/台灣台語歌曲演進.md": {
-    "verify=1 [URL count]": 4,
+    "verify=1 [URL count]": 5,
     "no output written by translate.py (exit=1)": 2
   },
   "hi:Geography/彰化縣.md": {
@@ -1185,10 +1187,10 @@
     "leak": 3
   },
   "id:Society/外送專法.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Society/毒馬鈴薯認知作戰.md": {
-    "verify=1 [frontmatter not untranslated]": 4,
+    "verify=1 [frontmatter not untranslated]": 5,
     "verify=1": 1,
     "no output written by translate.py (exit=1)": 2
   },
@@ -1205,17 +1207,17 @@
   },
   "ar:Music/台灣嘻哈與饒舌發展.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:Food/台灣美食總覽.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ar:Music/周蕙.md": {
     "leak": 1
   },
   "hi:Society/外送專法.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "en:Music/周蕙.md": {
     "health": 1,
@@ -1223,11 +1225,11 @@
   },
   "ar:Society/外送專法.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Society/外送專法.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "pt:People/唐鳳.md": {
     "leak": 1,
@@ -1303,7 +1305,7 @@
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1
   },
   "ar:Music/台灣流行音樂.md": {
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 3,
     "verify=1": 1,
     "verify=2 [frontmatter not untranslated, tags ASCII]": 1
   },
@@ -1311,11 +1313,12 @@
     "leak": 1
   },
   "id:Society/苯駢芘食安事件.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "pt:Society/苯駢芘食安事件.md": {
     "verify=3 [translatedFrom, footnote count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "en:Technology/台灣鎢供應鏈.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -1324,23 +1327,24 @@
   },
   "hi:Society/苯駢芘食安事件.md": {
     "verify=3 [translatedFrom, footnote count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Society/苯駢芘食安事件.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Music/周蕙.md": {
     "no output written by translate.py (exit=1)": 2
   },
   "ar:Lifestyle/台灣的公車系統.md": {
     "leak": 1,
-    "verify=2 [section count, frontmatter not untranslated]": 1
+    "verify=2 [section count, frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:Society/苯駢芘食安事件.md": {
     "health": 1,
     "health [wikilink-target]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ko:History/大罷免.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 2,
@@ -1388,7 +1392,8 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "ar:Art/造山者世紀的賭注.md": {
-    "leak": 2
+    "leak": 2,
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Society/台北吸菸室.md": {
     "leak": 2
@@ -1405,7 +1410,7 @@
     "health": 4
   },
   "en:Food/台灣辦桌文化.md": {
-    "no output written by translate.py (exit=1)": 11,
+    "no output written by translate.py (exit=1)": 12,
     "verify=1 [frontmatter not untranslated]": 1,
     "verify=2 [footnote count, frontmatter not untranslated]": 1,
     "health [footnote-format]": 1
@@ -1413,7 +1418,7 @@
   "pt:Food/台灣辦桌文化.md": {
     "leak": 1,
     "verify=1 [frontmatter not untranslated]": 4,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:About/為什麼台灣需要自己的知識庫.md": {
     "health": 1,
@@ -1424,7 +1429,7 @@
     "verify=4": 1
   },
   "hi:Lifestyle/台灣的公車系統.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ru:Technology/台灣鎢供應鏈.md": {
     "health": 1
@@ -1435,12 +1440,12 @@
     "health": 2
   },
   "en:Lifestyle/收費站.md": {
-    "no output written by translate.py (exit=1)": 11,
+    "no output written by translate.py (exit=1)": 12,
     "health [footnote-format]": 1,
     "verify=1 [frontmatter not untranslated]": 2
   },
   "ru:Food/台灣辦桌文化.md": {
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 3,
     "no output written by translate.py (exit=1)": 1
   },
   "fr:About/為什麼台灣需要自己的知識庫.md": {
@@ -1465,7 +1470,8 @@
   "ar:Food/台灣辦桌文化.md": {
     "leak": 1,
     "health": 1,
-    "verify=2 [section count, frontmatter not untranslated]": 1
+    "verify=2 [section count, frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "es:Technology/台灣鎢供應鏈.md": {
     "no output written by translate.py (exit=1)": 5,
@@ -1476,12 +1482,12 @@
     "leak": 1,
     "verify=3 [translatedFrom, footnote count, URL count]": 1,
     "verify=1 [frontmatter not untranslated]": 2,
-    "no output written by translate.py (exit=1)": 2,
+    "no output written by translate.py (exit=1)": 3,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "id:Lifestyle/收費站.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Food/台灣辦桌文化.md": {
     "no output written by translate.py (exit=1)": 1
@@ -1494,7 +1500,7 @@
   "hi:Lifestyle/收費站.md": {
     "health": 1,
     "verify=2 [translation ratio, frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Culture/台灣茶文化.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -1521,7 +1527,7 @@
     "health": 1,
     "leak": 1,
     "verify=2 [URL count, frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:People/林昶佐.md": {
     "health": 1,
@@ -1531,7 +1537,9 @@
     "verify=2 [section count, URL count]": 1
   },
   "hi:Food/台灣辦桌文化.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "ja:Technology/台灣鎢供應鏈.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
@@ -1557,11 +1565,12 @@
   "ar:Lifestyle/收費站.md": {
     "verify=1 [frontmatter not untranslated]": 1,
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Culture/台灣茶文化.md": {
     "leak": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "fr:Culture/台灣茶文化.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 2,
@@ -1584,7 +1593,8 @@
   "pt:Technology/台灣教師與AI教學.md": {
     "verify=3 [translatedFrom, footnote count, section count]": 2,
     "health": 4,
-    "verify=3": 1
+    "verify=3": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "hi:Technology/台灣教師與AI教學.md": {
     "verify=3 [translatedFrom, footnote count, section count]": 1,
@@ -1714,7 +1724,7 @@
   "ko:Culture/台灣茶文化.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 2,
     "health": 1,
-    "no output written by translate.py (exit=1)": 1,
+    "no output written by translate.py (exit=1)": 2,
     "verify=4": 1
   },
   "ar:Culture/台灣宗教與寺廟文化.md": {
@@ -1939,7 +1949,7 @@
   },
   "ko:History/二二八事件.md": {
     "verify=1 [URL count]": 2,
-    "patch candidate rejected by verify trio (exit=1)": 3
+    "patch candidate rejected by verify trio (exit=1)": 5
   },
   "es:Culture/雜誌.md": {
     "verify=1 [tags ASCII]": 2,
@@ -2056,11 +2066,11 @@
   },
   "pt:Lifestyle/高速公路.md": {
     "verify=1 [frontmatter not untranslated]": 5,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Economy/台灣企業：宏碁.md": {
     "leak": 2,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Geography/龜山島.md": {
     "leak": 2,
@@ -2103,7 +2113,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Music/台灣流行音樂.md": {
-    "no output written by translate.py (exit=1)": 2,
+    "no output written by translate.py (exit=1)": 3,
     "leak": 1,
     "verify=1 [frontmatter not untranslated]": 1
   },
@@ -2119,7 +2129,7 @@
   },
   "ar:Society/台北吸菸室.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "id:Society/偏遠地區學校教育發展條例全解.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -2171,7 +2181,7 @@
   },
   "ar:Music/台灣樂器製造.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Society/一個教師的誕生：台灣師資培育制度.md": {
     "no output written by translate.py (exit=1)": 2
@@ -2181,7 +2191,7 @@
   },
   "ar:Economy/SLP台北創業領導計畫.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Culture/台灣茶文化.md": {
     "verify=1 [frontmatter not untranslated]": 2,
@@ -2195,7 +2205,7 @@
   },
   "ru:Music/台灣樂器製造.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:People/瘂弦.md": {
     "health": 1
@@ -2217,14 +2227,14 @@
   },
   "ru:Economy/SLP台北創業領導計畫.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "id:Art/謝德慶.md": {
     "leak": 1
   },
   "hi:Music/台灣樂器製造.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Society/泛科學.md": {
     "health": 1,
@@ -2232,7 +2242,8 @@
   },
   "hi:Culture/台灣茶文化.md": {
     "health": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "vi:History/二二八事件.md": {
     "health": 1
@@ -2257,7 +2268,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:Society/醫療法.md": {
-    "leak": 1
+    "leak": 1,
+    "verify=1 [section count]": 1
   },
   "ru:Society/泛科學.md": {
     "health": 1,
@@ -2298,7 +2310,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Geography/用數據看台灣22縣市.md": {
-    "verify=1 [frontmatter not untranslated]": 13,
+    "verify=1 [frontmatter not untranslated]": 14,
     "no output written by translate.py (exit=1)": 2,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
@@ -2307,7 +2319,7 @@
   },
   "hi:Technology/國家太空中心.md": {
     "leak": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "pt:Society/台灣有哪些動物園.md": {
     "health": 1
@@ -2331,7 +2343,7 @@
   },
   "ar:Technology/國家太空中心.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:History/台灣轉型正義.md": {
     "health": 1
@@ -2344,12 +2356,12 @@
   },
   "ko:Geography/金瓜石.md": {
     "health": 1,
-    "patch candidate rejected by verify trio (exit=1)": 4,
+    "patch candidate rejected by verify trio (exit=1)": 5,
     "health [link-url-mangle]": 1
   },
   "ru:Technology/國家太空中心.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "vi:History/跨黨派的好政策.md": {
     "no output written by translate.py (exit=1)": 1
@@ -2389,7 +2401,7 @@
   },
   "pt:Technology/國家太空中心.md": {
     "leak": 1,
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 3,
     "no output written by translate.py (exit=1)": 1
   },
   "vi:Geography/龜山島.md": {
@@ -2430,7 +2442,7 @@
   "ko:Culture/台灣感性.md": {
     "verify=5 [translatedFrom, translation ratio, footnote count, section count]": 1,
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
-    "no output written by translate.py (exit=1)": 1,
+    "no output written by translate.py (exit=1)": 2,
     "health [footnote-format]": 1
   },
   "hi:Music/蘇打綠.md": {
@@ -2442,7 +2454,8 @@
   },
   "ar:Music/蘇打綠.md": {
     "leak": 1,
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "vi:Technology/台灣網路社群遷徙史.md": {
     "verify=1 [URL count]": 1
@@ -2482,7 +2495,7 @@
   },
   "hi:People/許倬雲.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Art/紀柏豪.md": {
     "no output written by translate.py (exit=1)": 1
@@ -2512,10 +2525,10 @@
   },
   "ru:Lifestyle/高速公路.md": {
     "verify=1 [frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ar:Lifestyle/高速公路.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ko:People/聶永真.md": {
     "verify=4 [translatedFrom, footnote count, section count, URL count]": 1,
@@ -2529,7 +2542,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "en:Culture/台灣茶文化.md": {
-    "no output written by translate.py (exit=1)": 11,
+    "no output written by translate.py (exit=1)": 12,
     "verify=2 [URL count, frontmatter not untranslated]": 2
   },
   "fr:People/聶永真.md": {
@@ -2553,7 +2566,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ar:People/許倬雲.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:People/王小棣.md": {
     "verify=1 [tags ASCII]": 1
@@ -2576,12 +2589,12 @@
     "patch candidate rejected by verify trio (exit=1)": 4
   },
   "pt:People/聶永真.md": {
-    "verify=1 [frontmatter not untranslated]": 3,
+    "verify=1 [frontmatter not untranslated]": 4,
     "health [ai-residue]": 1
   },
   "ru:People/許倬雲.md": {
     "health": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Lifestyle/台灣醫療與全民健保.md": {
     "leak": 1
@@ -2601,7 +2614,8 @@
   },
   "ru:Economy/台灣企業：宏碁.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 2,
+    "verify=1 [URL count]": 1
   },
   "vi:Lifestyle/台灣醫療與全民健保.md": {
     "no output written by translate.py (exit=1)": 1
@@ -2631,7 +2645,7 @@
   },
   "pt:People/許倬雲.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "vi:Society/天下雜誌.md": {
     "no output written by translate.py (exit=1)": 1
@@ -2691,7 +2705,7 @@
     "no output written by translate.py (exit=1)": 3
   },
   "pt:Culture/台灣聲景.md": {
-    "verify=1 [frontmatter not untranslated]": 7,
+    "verify=1 [frontmatter not untranslated]": 9,
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Society/天下雜誌.md": {
@@ -2709,7 +2723,7 @@
   },
   "ar:Technology/台灣網路社群遷徙史.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "id:People/簡立峰.md": {
     "leak": 1
@@ -2729,14 +2743,14 @@
   },
   "ru:Technology/台灣網路社群遷徙史.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "en:History/二二八事件.md": {
     "health": 1
   },
   "hi:Society/偏遠地區學校教育發展條例全解.md": {
     "health": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Society/偏遠地區學校教育發展條例全解.md": {
     "health": 1,
@@ -3011,7 +3025,7 @@
   },
   "hi:Economy/AAMA台北搖籃計畫.md": {
     "verify=1 [frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Geography/大龍峒.md": {
     "no output written by translate.py (exit=1)": 2
@@ -3228,7 +3242,7 @@
   "ru:People/羅大佑.md": {
     "leak": 1,
     "verify=1 [frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Culture/台灣廣告史.md": {
     "no output written by translate.py (exit=1)": 1
@@ -3248,24 +3262,27 @@
     "verify=1 [section count]": 1
   },
   "hi:Technology/NVIDIA在台灣.md": {
-    "leak": 2
+    "leak": 2,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:Technology/NVIDIA在台灣.md": {
     "verify=1 [tags ASCII]": 1,
-    "no output written by translate.py (exit=1)": 1,
+    "no output written by translate.py (exit=1)": 2,
     "verify=1 [section count]": 1
   },
   "id:Technology/NVIDIA在台灣.md": {
     "leak": 3
   },
   "hi:Geography/公館.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:Geography/公館.md": {
     "leak": 1
   },
   "ar:Geography/公館.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:People/楊德昌.md": {
     "leak": 1
@@ -3290,7 +3307,7 @@
   },
   "ru:Geography/大龍峒.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "id:Geography/中山北路條通.md": {
     "leak": 1,
@@ -3353,7 +3370,7 @@
   },
   "ru:Politics/2026 九合一選舉.md": {
     "leak": 2,
-    "health [wikilink-target]": 2
+    "health [wikilink-target]": 3
   },
   "hi:People/柯智棠.md": {
     "verify=1 [section count]": 1,
@@ -3368,14 +3385,14 @@
   },
   "pt:Geography/艋舺.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "id:Society/國定假日.md": {
     "health [footnote-format]": 1
   },
   "ru:Geography/新竹縣.md": {
-    "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "leak": 2,
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Food/台灣水果王國.md": {
     "leak": 1,
@@ -3470,7 +3487,8 @@
     "leak": 1
   },
   "hi:Society/國立臺灣歷史博物館.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ar:People/陳建年.md": {
     "leak": 1
@@ -3521,13 +3539,15 @@
     "leak": 1
   },
   "id:People/王福瑞.md": {
-    "leak": 1
+    "leak": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "pt:Economy/中華菱利.md": {
     "leak": 1
   },
   "id:Geography/北投溫泉街.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "pt:Technology/NVIDIA在台灣.md": {
     "leak": 1
@@ -3545,7 +3565,7 @@
   },
   "ru:Technology/雷亞遊戲.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ar:Technology/雷亞遊戲.md": {
     "leak": 1,
@@ -3602,7 +3622,8 @@
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
     "leak": 2,
     "health [footnote-format]": 1,
-    "verify=4": 1
+    "verify=4": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "en:About/視覺化模組型錄.md": {
     "verify=3 [footnote count, section count, URL count]": 1
@@ -3615,7 +3636,8 @@
   },
   "ko:Society/台灣高等教育擴張與退場.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 2,
-    "health [footnote-format, image-health]": 1
+    "health [footnote-format, image-health]": 1,
+    "health [wikilink-target]": 1
   },
   "es:History/大罷免.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
@@ -3674,7 +3696,7 @@
   },
   "ko:Food/台灣水果王國.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "health [footnote-format]": 2
   },
   "es:Society/我是OO人.md": {
@@ -3684,7 +3706,7 @@
     "verify=4": 1
   },
   "en:Society/台灣志工文化與公益參與.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "fr:Culture/台灣傳統工藝與無形文化資產.md": {
     "patch candidate rejected by verify trio (exit=1)": 1,
@@ -3707,7 +3729,7 @@
   },
   "fr:People/阿神.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "fr:People/簡立峰.md": {
@@ -3718,7 +3740,7 @@
   "ko:People/阿神.md": {
     "verify=4 [translation ratio, footnote count, section count, URL count]": 1,
     "health [footnote-format]": 1,
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "leak": 1
   },
   "en:History/史前時代與原住民.md": {
@@ -3760,7 +3782,8 @@
     "no output written by translate.py (exit=1)": 2,
     "health [image-health]": 1,
     "leak": 1,
-    "verify=4": 1
+    "verify=4": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "en:Economy/台灣企業：統一企業.md": {
     "no output written by translate.py (exit=1)": 2,
@@ -3973,7 +3996,7 @@
   },
   "pt:Music/台灣流行音樂.md": {
     "verify=1": 1,
-    "verify=1 [frontmatter not untranslated]": 3,
+    "verify=1 [frontmatter not untranslated]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "vi:Food/台灣美食總覽.md": {
@@ -4002,7 +4025,7 @@
   },
   "ru:Food/台灣美食總覽.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ru:People/鄭文琦.md": {
     "verify=4": 1,
@@ -4017,7 +4040,8 @@
   },
   "ru:Society/黑熊學院.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3,
+    "verify=1 [section count]": 1
   },
   "vi:Music/陳嫺靜.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4027,7 +4051,7 @@
   },
   "hi:Economy/台灣企業：統一企業.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Music/台灣流行音樂.md": {
     "leak": 2
@@ -4048,7 +4072,8 @@
   },
   "ar:Culture/斗笠.md": {
     "leak": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [section count]": 1
   },
   "hi:About/為什麼台灣需要自己的知識庫.md": {
     "no output written by translate.py (exit=1)": 2
@@ -4130,17 +4155,18 @@
   },
   "pt:Economy/台灣企業：統一企業.md": {
     "verify=1 [frontmatter not untranslated]": 2,
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "ru:People/壞特.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:Geography/士林.md": {
     "leak": 1
   },
   "ru:People/李洋.md": {
     "verify=1 [tags ASCII]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2,
+    "health [wikilink-target]": 1
   },
   "id:Politics/直轄市山地原住民區長.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -4173,7 +4199,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Geography/嘉義市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Music/大象體操.md": {
     "no output written by translate.py (exit=1)": 2,
@@ -4204,7 +4230,7 @@
     "verify=1 [URL count]": 1
   },
   "pt:Society/我是OO人.md": {
-    "no output written by translate.py (exit=1)": 2,
+    "no output written by translate.py (exit=1)": 3,
     "verify=1 [frontmatter not untranslated]": 2
   },
   "id:People/林宥嘉.md": {
@@ -4221,7 +4247,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:People/阿神.md": {
-    "verify=2 [frontmatter not untranslated, tags ASCII]": 3,
+    "verify=2 [frontmatter not untranslated, tags ASCII]": 4,
     "verify=1 [frontmatter not untranslated]": 2
   },
   "id:Technology/台灣太空產業發展.md": {
@@ -4235,7 +4261,7 @@
   },
   "pt:Society/馬英九迷因.md": {
     "no output written by translate.py (exit=1)": 5,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "hi:Society/太陽花學運.md": {
     "health [wikilink-target]": 1
@@ -4280,7 +4306,7 @@
   },
   "ar:Society/複雜生活節.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [section count]": 1
+    "verify=1 [section count]": 2
   },
   "ar:Geography/台北市.md": {
     "no output written by translate.py (exit=1)": 5
@@ -4347,7 +4373,8 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "ru:Society/我是OO人.md": {
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 3,
+    "no output written by translate.py (exit=1)": 1
   },
   "id:Society/我是OO人.md": {
     "verify=1 [frontmatter not untranslated]": 2,
@@ -4386,7 +4413,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Food/台灣早餐文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "id:Geography/新竹市.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4448,7 +4476,7 @@
   },
   "ar:Food/台灣早餐文化.md": {
     "verify=1 [frontmatter not untranslated]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Technology/Threads在台灣.md": {
     "no output written by translate.py (exit=1)": 6
@@ -4554,14 +4582,14 @@
     "health [footnote-format]": 1
   },
   "ru:People/吳哲宇.md": {
-    "verify=1 [section count]": 2,
+    "verify=1 [section count]": 3,
     "no output written by translate.py (exit=1)": 1
   },
   "id:People/張忠謀.md": {
     "leak": 3
   },
   "pt:About/為什麼台灣需要自己的知識庫.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ar:People/曾博恩.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4591,7 +4619,7 @@
   },
   "ru:Food/營養午餐.md": {
     "health [ai-residue]": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:People/曹興誠.md": {
     "patch candidate rejected by verify trio (exit=1)": 5
@@ -4629,7 +4657,7 @@
     "verify=1 [URL count]": 1
   },
   "ru:People/阿神.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "id:People/林青霞.md": {
     "verify=1 [URL count]": 2
@@ -4678,7 +4706,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ru:Economy/台灣企業：統一企業.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ar:Art/數位荒原.md": {
     "no output written by translate.py (exit=1)": 1
@@ -4724,7 +4752,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "es:Technology/蕃薯藤.md": {
-    "verify=1 [tags ASCII]": 1
+    "verify=1 [tags ASCII]": 2
   },
   "fr:Technology/蕃薯藤.md": {
     "verify=1 [tags ASCII]": 1
@@ -4894,10 +4922,12 @@
     "health [footnote-format]": 1
   },
   "es:History/蓬萊米.md": {
-    "leak": 1
+    "leak": 1,
+    "verify=1 [URL count]": 1
   },
   "fr:History/蓬萊米.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [URL count]": 1
   },
   "es:History/動保.md": {
     "verify=1 [URL count]": 1
@@ -4960,10 +4990,10 @@
     "no output written by translate.py (exit=1)": 4
   },
   "en:Geography/中山北路條通.md": {
-    "patch candidate rejected by verify trio (exit=1)": 2
+    "patch candidate rejected by verify trio (exit=1)": 3
   },
   "es:Geography/中山北路條通.md": {
-    "patch candidate rejected by verify trio (exit=1)": 2
+    "patch candidate rejected by verify trio (exit=1)": 3
   },
   "fr:Geography/中山北路條通.md": {
     "patch candidate rejected by verify trio (exit=1)": 2
@@ -4998,7 +5028,8 @@
   },
   "en:Food/台灣水果王國.md": {
     "no output written by translate.py (exit=1)": 17,
-    "health [footnote-format]": 18
+    "health [footnote-format]": 18,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "es:Nature/黑冠麻鷺.md": {
     "patch candidate rejected by verify trio (exit=1)": 5,
@@ -5181,13 +5212,14 @@
     "no output written by translate.py (exit=1)": 5
   },
   "ar:Economy/台灣企業：統一企業.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Society/複雜生活節.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Society/台灣高等教育擴張與退場.md": {
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "hi:Music/當代原住民創作歌手.md": {
     "verify=1 [tags ASCII]": 1,
@@ -5197,10 +5229,12 @@
     "no output written by translate.py (exit=1)": 2
   },
   "hi:Food/台灣早餐文化.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "id:Food/台灣早餐文化.md": {
-    "health [ai-residue]": 1
+    "health [ai-residue]": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "ar:About/文章如何誕生.md": {
     "verify=1 [section count]": 1
@@ -5212,15 +5246,15 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "en:Art/馬祖國際藝術島.md": {
-    "no output written by translate.py (exit=1)": 13,
+    "no output written by translate.py (exit=1)": 14,
     "health [footnote-format]": 1
   },
   "es:Art/馬祖國際藝術島.md": {
-    "no output written by translate.py (exit=1)": 13,
+    "no output written by translate.py (exit=1)": 14,
     "health [footnote-format]": 1
   },
   "fr:Art/馬祖國際藝術島.md": {
-    "no output written by translate.py (exit=1)": 11,
+    "no output written by translate.py (exit=1)": 12,
     "health [footnote-format]": 2
   },
   "ko:Art/馬祖國際藝術島.md": {
@@ -5388,7 +5422,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:Nature/台灣黑熊.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags ASCII]": 1
   },
   "hi:People/方序中.md": {
     "no output written by translate.py (exit=1)": 1
@@ -6809,7 +6844,7 @@
   },
   "pt:Food/丹丹漢堡.md": {
     "no output written by translate.py (exit=1)": 2,
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "ru:Music/小虎隊.md": {
     "verify=1 [URL count]": 2,
@@ -7013,7 +7048,7 @@
   },
   "pt:Food/豆花.md": {
     "no output written by translate.py (exit=1)": 4,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "en:Food/豆花.md": {
     "verify=1 [frontmatter not untranslated]": 2,
@@ -7029,7 +7064,7 @@
     "verify=1 [tags ASCII]": 1
   },
   "es:Food/國際品牌在地化.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "id:Culture/新竹都城隍廟.md": {
     "no output written by translate.py (exit=1)": 1
@@ -7110,7 +7145,7 @@
   },
   "pt:Food/茶葉蛋.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [frontmatter not untranslated]": 5
+    "verify=1 [frontmatter not untranslated]": 6
   },
   "ar:Geography/桃園埤塘.md": {
     "health [footnote-format]": 1
@@ -7164,7 +7199,7 @@
     "verify=1 [frontmatter not untranslated]": 4
   },
   "pt:Food/擔仔麵.md": {
-    "verify=1 [frontmatter not untranslated]": 4,
+    "verify=1 [frontmatter not untranslated]": 5,
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Food/擔仔麵.md": {
@@ -7184,7 +7219,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ko:People/楊傳廣.md": {
-    "patch candidate rejected by verify trio (exit=1)": 3
+    "patch candidate rejected by verify trio (exit=1)": 4
   },
   "vi:Food/蘿蔔糕.md": {
     "verify=1 [frontmatter not untranslated]": 4,
@@ -7222,7 +7257,7 @@
     "verify=1 [URL count]": 1
   },
   "fr:Lifestyle/台灣行道樹.md": {
-    "no output written by translate.py (exit=1)": 3,
+    "no output written by translate.py (exit=1)": 4,
     "health [wikilink-target]": 1
   },
   "ja:People/楊傳廣.md": {
@@ -7230,14 +7265,14 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ko:Lifestyle/台灣行道樹.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "en:Food/蘿蔔糕.md": {
     "no output written by translate.py (exit=1)": 1,
     "verify=1 [frontmatter not untranslated]": 5
   },
   "en:Lifestyle/台灣行道樹.md": {
-    "health [wikilink-target]": 3,
+    "health [wikilink-target]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "ko:Food/蘿蔔糕.md": {
@@ -7253,7 +7288,7 @@
     "verify=2 [frontmatter not untranslated, tags ASCII]": 1
   },
   "fr:Food/蘿蔔糕.md": {
-    "verify=1 [frontmatter not untranslated]": 6
+    "verify=1 [frontmatter not untranslated]": 7
   },
   "ja:Food/蘿蔔糕.md": {
     "no output written by translate.py (exit=1)": 4
@@ -7284,7 +7319,7 @@
     "verify=1 [URL count]": 3
   },
   "es:Lifestyle/台灣行道樹.md": {
-    "health [wikilink-target]": 1,
+    "health [wikilink-target]": 2,
     "no output written by translate.py (exit=1)": 3
   },
   "id:Food/蘿蔔糕.md": {
@@ -7295,7 +7330,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ko:Culture/台灣棒球文化.md": {
-    "verify=1 [URL count]": 2,
+    "verify=1 [URL count]": 3,
     "no output written by translate.py (exit=1)": 1
   },
   "en:Culture/台灣棒球文化.md": {
@@ -7326,7 +7361,7 @@
   },
   "es:People/黃崇仁.md": {
     "health [wikilink-target]": 2,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Geography/台北市.md": {
     "verify=1 [section count]": 1
@@ -7335,7 +7370,7 @@
     "health [footnote-format]": 1
   },
   "ko:People/黃崇仁.md": {
-    "no output written by translate.py (exit=1)": 3,
+    "no output written by translate.py (exit=1)": 4,
     "health [wikilink-target]": 1
   },
   "vi:People/有感筆電.md": {
@@ -7352,7 +7387,7 @@
   },
   "en:People/黃崇仁.md": {
     "no output written by translate.py (exit=1)": 2,
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 2
   },
   "pt:Geography/新北市.md": {
     "verify=1 [section count]": 1,
@@ -7366,7 +7401,7 @@
   },
   "fr:People/黃崇仁.md": {
     "health [wikilink-target]": 3,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:Geography/嘉義縣.md": {
     "patch candidate rejected by verify trio (exit=1)": 4
@@ -7403,7 +7438,7 @@
     "no output written by translate.py (exit=1)": 4
   },
   "es:Culture/台灣聲景.md": {
-    "no output written by translate.py (exit=1)": 1,
+    "no output written by translate.py (exit=1)": 2,
     "verify=1 [frontmatter not untranslated]": 3
   },
   "de:Geography/澎湖縣.md": {
@@ -7428,7 +7463,7 @@
   },
   "ko:Culture/台灣聲景.md": {
     "no output written by translate.py (exit=1)": 2,
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "vi:History/婦女運動.md": {
     "no output written by translate.py (exit=1)": 1
@@ -7445,7 +7480,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "fr:Culture/台灣聲景.md": {
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 3,
     "no output written by translate.py (exit=1)": 2
   },
   "ja:Culture/光華雜誌.md": {
@@ -7589,7 +7624,7 @@
   },
   "vi:Music/台灣台語歌曲演進.md": {
     "verify=1 [URL count]": 2,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "vi:Nature/國家公園.md": {
     "no output written by translate.py (exit=1)": 1
@@ -7682,13 +7717,14 @@
     "no output written by translate.py (exit=1)": 1
   },
   "vi:Music/台灣音樂產業與串流時代.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5,
+    "health [footnote-format, wikilink-target]": 1
   },
   "id:Society/馬英九迷因.md": {
     "health [footnote-format]": 1
   },
   "en:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "de:History/清法戰爭.md": {
     "verify=1 [URL count]": 2
@@ -7731,7 +7767,7 @@
     "health [footnote-format]": 1
   },
   "vi:People/林青霞.md": {
-    "verify=1 [URL count]": 4
+    "verify=1 [URL count]": 5
   },
   "de:History/阿里山：帝國的林場與高一生的山.md": {
     "health [footnote-format]": 1
@@ -7744,7 +7780,7 @@
   },
   "vi:Music/台灣客家音樂.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [URL count]": 2
+    "verify=1 [URL count]": 3
   },
   "fr:Economy/Pinkoi.md": {
     "no output written by translate.py (exit=1)": 1
@@ -7790,13 +7826,13 @@
     "no output written by translate.py (exit=1)": 1
   },
   "es:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 6
   },
   "es:People/木曜4超玩.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ko:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 5
   },
   "en:Economy/Yahoo-kimo.md": {
     "health [image-health]": 4
@@ -7812,7 +7848,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "es:Economy/Yahoo-kimo.md": {
-    "health [image-health]": 3,
+    "health [image-health]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Economy/Pinkoi.md": {
@@ -7820,10 +7856,10 @@
   },
   "fr:Economy/Yahoo-kimo.md": {
     "health [image-health]": 3,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Economy/Yahoo-kimo.md": {
-    "health [image-health]": 2
+    "health [image-health]": 3
   },
   "ru:Economy/Yahoo-kimo.md": {
     "health [image-health]": 2
@@ -7833,7 +7869,7 @@
     "health [image-health]": 2
   },
   "fr:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 6
   },
   "id:Culture/語言多樣性與母語文化.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8791,7 +8827,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:Food/鬍鬚張.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "de:People/王福瑞.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8806,13 +8843,14 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "de:Lifestyle/小綠人.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "de:Economy/Yahoo-kimo.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [image-health]": 1
   },
   "de:History/台灣白色恐怖.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8842,7 +8880,7 @@
     "no output written by translate.py (exit=1)": 3
   },
   "id:People/曾博恩.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:People/鐵牛杰哥.md": {
     "no output written by translate.py (exit=1)": 2
@@ -8860,7 +8898,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/台灣漁業起源.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "ja:Culture/台灣漆器.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8891,7 +8930,8 @@
     "health [footnote-format]": 1
   },
   "ja:Lifestyle/307taipeibus.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [section count, URL count]": 1
   },
   "vi:People/黃土水.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8918,7 +8958,7 @@
   },
   "vi:Lifestyle/307taipeibus.md": {
     "verify=2 [section count, URL count]": 2,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Lifestyle/307taipeibus.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -8934,7 +8974,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:People/陳思宏.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "ja:People/黑貓老師.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8943,7 +8983,8 @@
     "no output written by translate.py (exit=1)": 2
   },
   "de:People/嚴長壽.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ja:History/台灣廣播史.md": {
     "no output written by translate.py (exit=1)": 1
@@ -8967,7 +9008,8 @@
     "health [ai-residue, fence-prose]": 1
   },
   "ja:Food/青草茶.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [image-health]": 1
   },
   "en:Culture/阿貴動畫.md": {
     "verify=1 [URL count]": 1
@@ -9020,10 +9062,11 @@
     "health [image-health]": 1
   },
   "ja:People/陳幸妤.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [footnote count, tags not identical to zh]": 1
   },
   "de:Food/青草茶.md": {
-    "health [image-health]": 1
+    "health [image-health]": 2
   },
   "es:People/蔣經國.md": {
     "verify=1 [tags ASCII]": 1
@@ -9049,7 +9092,8 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ja:Geography/蘇澳冷泉.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [frontmatter not untranslated, tags not identical to zh]": 1
   },
   "fr:People/陳幸妤.md": {
     "verify=1 [footnote count]": 2,
@@ -9084,7 +9128,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:People/陳幸妤.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "fr:Geography/蘇澳冷泉.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9131,7 +9175,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Culture/鹽水蜂炮.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:People/館長陳之漢.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9152,7 +9196,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/北一女.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "ru:Culture/鹽水蜂炮.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9161,7 +9206,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:Culture/鹽水蜂炮.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:History/北一女.md": {
     "health [footnote-format]": 1
@@ -9174,23 +9219,24 @@
   },
   "en:Culture/貓眼石.md": {
     "verify=2 [section count, frontmatter not untranslated]": 1,
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "es:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 4
   },
   "vi:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 3,
+    "health [wikilink-target]": 1
   },
   "fr:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "ru:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ja:Culture/貓眼石.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "fr:Food/麥當樂.md": {
     "verify=1 [URL count]": 1,
@@ -9201,30 +9247,32 @@
     "verify=1 [URL count]": 1
   },
   "ja:Food/麥當樂.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [URL count]": 1
   },
   "pt:Culture/貓眼石.md": {
     "verify=1 [frontmatter not untranslated]": 2,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ko:Culture/貓眼石.md": {
     "no output written by translate.py (exit=1)": 2,
     "verify=2 [URL count, frontmatter not untranslated]": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "es:Food/麥當樂.md": {
     "no output written by translate.py (exit=1)": 2,
     "health [image-health]": 1
   },
   "hi:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "id:People/鐵牛杰哥.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "ar:Culture/貓眼石.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ko:Food/麥當樂.md": {
     "health [image-health]": 3,
@@ -9232,17 +9280,17 @@
   },
   "ru:Food/麥當樂.md": {
     "no output written by translate.py (exit=1)": 1,
-    "health [image-health]": 1
+    "health [image-health]": 2
   },
   "vi:Food/麥當樂.md": {
     "health [image-health]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "id:Culture/貓眼石.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "pt:Food/麥當樂.md": {
-    "health [image-health]": 3
+    "health [image-health]": 4
   },
   "hi:Food/麥當樂.md": {
     "health [image-health]": 1
@@ -9251,7 +9299,7 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ar:Food/麥當樂.md": {
-    "health [image-health]": 2
+    "health [image-health]": 3
   },
   "ja:Lifestyle/中華民國台灣護照.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9264,10 +9312,10 @@
     "health [footnote-format]": 1
   },
   "id:Food/麥當樂.md": {
-    "health [image-health]": 1
+    "health [image-health]": 2
   },
   "vi:People/Cheap.md": {
-    "verify=1 [tags ASCII]": 3
+    "verify=1 [tags ASCII]": 4
   },
   "ja:People/Cheap.md": {
     "leak": 1
@@ -9279,22 +9327,26 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:People/Cheap.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [footnote-format]": 1
   },
   "de:Geography/北投溫泉街.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:Culture/國家圖書館.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Society/居住正義.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [footnote-format]": 1
   },
   "es:Society/居住正義.md": {
     "health [footnote-format]": 1
   },
   "de:Food/台灣早餐文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "vi:Geography/樂生療養院.md": {
     "verify=1 [URL count]": 1
@@ -9303,13 +9355,14 @@
     "leak": 1
   },
   "de:Geography/新竹縣.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:People/蒼藍鴿.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [section count, tags not identical to zh]": 1
   },
   "de:Geography/嘉義市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "en:Technology/台灣行動支付.md": {
     "health [footnote-format]": 1
@@ -9321,13 +9374,15 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:People/蒼藍鴿.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ja:Society/民主進步黨成立.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/1935新竹臺中地震.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [footnote-format]": 1
   },
   "vi:Society/民主進步黨成立.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9336,7 +9391,7 @@
     "verify=1 [section count]": 1
   },
   "de:Geography/基隆市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Society/民主進步黨成立.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9345,10 +9400,12 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/台灣漁業現代化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "ja:Culture/燈會.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "vi:Culture/燈會.md": {
     "verify=2 [section count, frontmatter not untranslated]": 1
@@ -9366,19 +9423,20 @@
     "verify=1 [section count]": 1
   },
   "de:History/台灣選舉與政黨政治.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:Lifestyle/電線桿與變電箱.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:People/林佳辰.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "de:People/鐵牛杰哥.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Society/韓國人在台灣.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Lifestyle/電線桿與變電箱.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9396,13 +9454,14 @@
     "verify=1 [URL count]": 1
   },
   "de:Food/麥當樂.md": {
-    "health [image-health]": 1
+    "health [image-health]": 2
   },
   "es:Society/賽鴿.md": {
     "verify=1 [URL count]": 1
   },
   "ja:Politics/台灣不在籍投票.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "es:Politics/台灣不在籍投票.md": {
     "health [wikilink-target]": 2
@@ -9427,7 +9486,7 @@
     "verify=1 [URL count]": 1
   },
   "hi:Politics/台灣不在籍投票.md": {
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 2
   },
   "de:Culture/國家圖書館.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9454,10 +9513,10 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:History/87水災.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 2
   },
   "ja:Culture/電鍋.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Culture/電鍋.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9472,13 +9531,14 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:Technology/台灣行動支付.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "de:Lifestyle/電線桿與變電箱.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "de:Politics/投票權門檻歷史.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 1,
+    "health [wikilink-target]": 1
   },
   "ja:History/西螺大橋.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9487,7 +9547,7 @@
     "verify=1 [URL count]": 1
   },
   "ja:Culture/彈珠檯.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:Culture/彈珠檯.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9524,7 +9584,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Geography/板南線.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [URL count, tags not identical to zh]": 1
   },
   "ar:Politics/原住民族正名.md": {
     "verify=1 [URL count]": 2
@@ -9553,7 +9614,7 @@
     "verify=1 [URL count]": 1
   },
   "vi:People/韋宗成.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "es:History/石門水庫.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9562,19 +9623,20 @@
     "no output written by translate.py (exit=1)": 2
   },
   "ru:People/韋宗成.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:People/韋宗成.md": {
-    "verify=1 [section count]": 1
+    "verify=1 [section count]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "id:History/石門水庫.md": {
     "verify=1 [frontmatter not untranslated]": 1
   },
   "ar:People/韋宗成.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ja:History/石門水庫.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:People/韋宗成.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9583,7 +9645,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:People/韋宗成.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "hi:People/鍾肇政.md": {
     "verify=1 [tags ASCII]": 1
@@ -9632,22 +9694,24 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:People/陳幸妤.md": {
-    "verify=1 [footnote count]": 1
+    "verify=1 [footnote count]": 2
   },
   "de:Culture/鹽水蜂炮.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "de:Culture/貓眼石.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "ja:People/林心如.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "de:People/Cheap.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "de:People/韋宗成.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "de:History/石門水庫.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9656,31 +9720,31 @@
     "no output written by translate.py (exit=1)": 1
   },
   "fr:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "vi:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "en:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ko:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "es:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "id:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "hi:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "de:Society/中央研究院.md": {
     "no output written by translate.py (exit=1)": 1
@@ -9689,7 +9753,7 @@
     "health [wikilink-target]": 2
   },
   "ar:Society/中央研究院.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ja:Culture/台灣原住民族姓名.md": {
     "no output written by translate.py (exit=1)": 2
@@ -9787,7 +9851,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:Culture/痞客邦.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ru:Culture/痞客邦.md": {
     "verify=1 [tags ASCII]": 1
@@ -9942,25 +10006,26 @@
     "health [wikilink-target]": 1
   },
   "pt:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ko:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ar:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "en:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "es:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "de:Culture/電視布袋戲.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ko:Economy/文化內容策進院.md": {
-    "health [wikilink-target]": 4
+    "health [wikilink-target]": 4,
+    "no output written by translate.py (exit=1)": 1
   },
   "ja:Economy/文化內容策進院.md": {
     "health [wikilink-target]": 1,
@@ -9971,56 +10036,61 @@
     "health [image-health]": 1
   },
   "vi:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "id:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ru:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "de:Lifestyle/排隊.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 3,
+    "health [wikilink-target]": 1
   },
   "en:Economy/文化內容策進院.md": {
     "verify=1 [URL count]": 1,
     "health [wikilink-target]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:Food/叭噗冰.md": {
     "no output written by translate.py (exit=1)": 1,
     "verify=1 [tags not identical to zh]": 1
   },
   "es:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 3,
+    "no output written by translate.py (exit=1)": 4,
     "health [wikilink-target]": 1
   },
   "fr:Lifestyle/排隊.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "vi:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 3,
+    "health [wikilink-target]": 1
   },
   "id:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "hi:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "ru:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 2,
+    "health [wikilink-target]": 1
   },
   "fr:Economy/文化內容策進院.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "de:Economy/文化內容策進院.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10051,7 +10121,8 @@
     "health [footnote-format]": 1
   },
   "id:Technology/台灣科技說故事.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "id:People/陳文郁.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10116,7 +10187,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "id:People/酷的夢.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:History/亞泥新城山礦場事件.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10235,7 +10306,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Culture/泰雅族.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 2
   },
   "ja:Culture/藍白拖.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10250,40 +10321,40 @@
     "no output written by translate.py (exit=1)": 1
   },
   "fr:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ko:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "ja:About/比國家還大的演算藝術.md": {
     "no output written by translate.py (exit=1)": 2
   },
   "en:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "vi:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 3
+    "no output written by translate.py (exit=1)": 4
   },
   "pt:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "ar:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "id:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 1
-  },
-  "ru:About/比國家還大的演算藝術.md": {
     "no output written by translate.py (exit=1)": 2
   },
+  "ru:About/比國家還大的演算藝術.md": {
+    "no output written by translate.py (exit=1)": 3
+  },
   "de:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:About/比國家還大的演算藝術.md": {
-    "no output written by translate.py (exit=1)": 4
+    "no output written by translate.py (exit=1)": 5
   },
   "es:Food/台灣滷味.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10292,10 +10363,12 @@
     "verify=1 [section count]": 1
   },
   "de:People/囧星人.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [URL count]": 1
   },
   "hi:Food/台灣滷味.md": {
-    "health [footnote-format, wikilink-target]": 1
+    "health [footnote-format, wikilink-target]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ar:Food/台灣滷味.md": {
     "health [footnote-format]": 2
@@ -10319,10 +10392,11 @@
   },
   "en:History/臺灣民報.md": {
     "no output written by translate.py (exit=1)": 2,
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "id:People/囧星人.md": {
-    "health [footnote-format]": 1
+    "health [footnote-format]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ja:Politics/歡樂無法黨.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10350,7 +10424,7 @@
     "verify=1 [URL count]": 1
   },
   "de:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ja:History/臺灣民報.md": {
     "no output written by translate.py (exit=1)": 2
@@ -10360,46 +10434,48 @@
     "health [wikilink-target]": 1
   },
   "fr:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "health [footnote-format]": 2
   },
   "ko:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "id:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 1
-  },
-  "hi:History/臺灣民報.md": {
+    "verify=1 [frontmatter not untranslated]": 1,
     "no output written by translate.py (exit=1)": 1
   },
+  "hi:History/臺灣民報.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
   "es:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "verify=2 [frontmatter not untranslated, tags ASCII]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "ar:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "vi:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 3,
+    "no output written by translate.py (exit=1)": 1
   },
   "de:History/蓬萊米.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 2
   },
   "id:Politics/歡樂無法黨.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:History/台灣農會史.md": {
     "no output written by translate.py (exit=1)": 1,
     "verify=1 [tags not identical to zh]": 1
   },
   "pt:History/臺灣民報.md": {
-    "health [footnote-format]": 2,
+    "health [footnote-format]": 3,
     "verify=1 [frontmatter not untranslated]": 2
   },
   "ru:History/臺灣民報.md": {
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "en:Technology/台灣顯示器產業.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10415,7 +10491,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:Technology/台灣顯示器產業.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ar:Technology/台灣顯示器產業.md": {
     "no output written by translate.py (exit=1)": 2
@@ -10494,40 +10570,41 @@
     "health [image-health]": 1
   },
   "en:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 3
+    "verify=1 [URL count]": 4
   },
   "es:History/高雄加工出口區.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [URL count]": 2
-  },
-  "fr:History/高雄加工出口區.md": {
     "verify=1 [URL count]": 3
   },
+  "fr:History/高雄加工出口區.md": {
+    "verify=1 [URL count]": 4
+  },
   "ko:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 3,
+    "verify=1 [URL count]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "id:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 2
   },
   "hi:History/高雄加工出口區.md": {
     "verify=1 [URL count]": 1
   },
   "de:History/高雄加工出口區.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [URL count]": 1
   },
   "pt:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 3,
+    "verify=1 [URL count]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "ko:Food/金門高粱.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ar:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 2
+    "verify=1 [URL count]": 3
   },
   "ru:History/高雄加工出口區.md": {
-    "verify=1 [URL count]": 2
+    "verify=1 [URL count]": 3
   },
   "ja:Food/金門高粱.md": {
     "no output written by translate.py (exit=1)": 1,
@@ -10545,22 +10622,22 @@
   },
   "es:Food/醬油.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [frontmatter not untranslated]": 3
+    "verify=1 [frontmatter not untranslated]": 4
   },
   "en:Food/醬油.md": {
     "verify=1 [frontmatter not untranslated]": 2,
-    "verify=2 [URL count, frontmatter not untranslated]": 2
+    "verify=2 [URL count, frontmatter not untranslated]": 3
   },
   "fr:Food/醬油.md": {
     "verify=1 [frontmatter not untranslated]": 2,
-    "verify=2 [URL count, frontmatter not untranslated]": 1,
+    "verify=2 [URL count, frontmatter not untranslated]": 2,
     "health [footnote-format]": 1
   },
   "ko:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "id:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ar:Food/金門高粱.md": {
     "verify=1 [URL count]": 2
@@ -10569,25 +10646,26 @@
     "verify=1 [URL count]": 2
   },
   "pt:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 3,
+    "verify=1 [frontmatter not untranslated]": 4,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "hi:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 1
-  },
-  "vi:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 2,
-    "no output written by translate.py (exit=1)": 1
-  },
-  "de:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 1
-  },
-  "ar:Food/醬油.md": {
     "verify=1 [frontmatter not untranslated]": 1,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
+  "vi:Food/醬油.md": {
+    "verify=1 [frontmatter not untranslated]": 3,
+    "no output written by translate.py (exit=1)": 1
+  },
+  "de:Food/醬油.md": {
+    "verify=1 [frontmatter not untranslated]": 2
+  },
+  "ar:Food/醬油.md": {
+    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=2 [URL count, frontmatter not untranslated]": 1
+  },
   "ru:Food/醬油.md": {
-    "verify=1 [frontmatter not untranslated]": 1,
+    "verify=1 [frontmatter not untranslated]": 2,
     "verify=2 [frontmatter not untranslated, tags ASCII]": 1
   },
   "ja:History/台灣糖業鐵路.md": {
@@ -10616,10 +10694,10 @@
   },
   "ko:Food/新竹米粉.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [URL count]": 3
+    "verify=1 [URL count]": 4
   },
   "en:Food/新竹米粉.md": {
-    "verify=1 [URL count]": 4
+    "verify=1 [URL count]": 5
   },
   "hi:People/諸葛四郎.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10631,7 +10709,7 @@
     "verify=1 [URL count]": 3
   },
   "ar:Food/新竹米粉.md": {
-    "verify=1 [URL count]": 2
+    "verify=1 [URL count]": 3
   },
   "ru:Food/新竹米粉.md": {
     "verify=1 [URL count]": 1
@@ -10712,7 +10790,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Culture/拼板舟.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "pt:Geography/三鶯線.md": {
     "verify=8 [translatedFrom, sourceCommitSha, sourceContentHash, translatedAt]": 1
@@ -10854,47 +10932,50 @@
   },
   "ko:Culture/東港迎王船.md": {
     "verify=2 [inline image paths, section count]": 1,
-    "verify=1 [inline image paths]": 3
+    "verify=1 [inline image paths]": 4,
+    "no output written by translate.py (exit=1)": 1
   },
   "ar:Culture/東港迎王船.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=2 [inline image paths, section count]": 1
+    "verify=2 [inline image paths, section count]": 2
   },
   "pt:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 3,
+    "verify=1 [inline image paths]": 4,
     "health [footnote-format]": 1
   },
   "de:Culture/東港迎王船.md": {
     "verify=1 [inline image paths]": 1
   },
   "fr:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 1,
+    "verify=1 [inline image paths]": 2,
     "verify=2 [inline image paths, frontmatter not untranslated]": 1,
     "no output written by translate.py (exit=1)": 1,
     "verify=2 [inline image paths, section count]": 1
   },
   "en:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 3
+    "verify=1 [inline image paths]": 4
   },
   "id:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 1
+    "verify=1 [inline image paths]": 2
   },
   "es:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 3,
+    "verify=1 [inline image paths]": 4,
     "no output written by translate.py (exit=1)": 1
   },
   "vi:Culture/東港迎王船.md": {
     "health [footnote-format]": 2,
-    "verify=2 [inline image paths, URL count]": 1
+    "verify=2 [inline image paths, URL count]": 1,
+    "verify=1 [inline image paths]": 1
   },
   "ja:Food/台灣鐵路便當.md": {
     "leak": 1
   },
   "ru:Culture/東港迎王船.md": {
-    "verify=1 [inline image paths]": 2
+    "verify=1 [inline image paths]": 3
   },
   "hi:Culture/東港迎王船.md": {
-    "verify=2 [inline image paths, URL count]": 1
+    "verify=2 [inline image paths, URL count]": 1,
+    "verify=1 [inline image paths]": 1
   },
   "es:Food/台灣鐵路便當.md": {
     "no output written by translate.py (exit=1)": 1
@@ -10978,7 +11059,7 @@
     "verify=1 [URL count]": 1
   },
   "en:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "ja:Geography/九份.md": {
     "leak": 1,
@@ -10988,41 +11069,42 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "ko:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 4,
+    "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "fr:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 2,
+    "verify=1 [frontmatter not untranslated]": 3,
     "verify=2 [URL count, frontmatter not untranslated]": 1
   },
   "id:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "ja:Society/水道頭.md": {
     "no output written by translate.py (exit=1)": 2
   },
   "vi:Society/水道頭.md": {
     "verify=2 [URL count, frontmatter not untranslated]": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "hi:Society/水道頭.md": {
-    "verify=2 [URL count, frontmatter not untranslated]": 1
+    "verify=2 [URL count, frontmatter not untranslated]": 2
   },
   "pt:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 4
+    "verify=1 [frontmatter not untranslated]": 5
   },
   "ja:Society/哈哈台.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Society/水道頭.md": {
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "ru:Society/水道頭.md": {
     "verify=2 [URL count, frontmatter not untranslated]": 1,
-    "verify=1 [frontmatter not untranslated]": 1
+    "verify=1 [frontmatter not untranslated]": 2
   },
   "es:Society/水道頭.md": {
     "no output written by translate.py (exit=1)": 1,
-    "verify=1 [frontmatter not untranslated]": 2
+    "verify=1 [frontmatter not untranslated]": 3
   },
   "id:History/九二一集集地震.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11097,7 +11179,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:Lifestyle/台灣郵政.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "fr:Lifestyle/台灣郵政.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11128,7 +11210,7 @@
     "no output written by translate.py (exit=1)": 4
   },
   "de:People/吳明益.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Art/歌仔戲.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11182,7 +11264,8 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/太平輪.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "ru:Culture/台灣口語特色.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11368,7 +11451,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "de:People/理科太太.md": {
-    "verify=1 [tags ASCII]": 1
+    "verify=1 [tags ASCII]": 2
   },
   "ar:People/Joeman.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11443,7 +11526,7 @@
   },
   "ja:People/廖添丁.md": {
     "verify=1 [section count]": 1,
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "de:People/廖添丁.md": {
     "health [footnote-format]": 1
@@ -11456,7 +11539,8 @@
     "verify=1 [tags not identical to zh]": 1
   },
   "ja:People/啾啾鞋.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=2 [URL count, tags not identical to zh]": 1
   },
   "ja:Geography/自來水.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11472,7 +11556,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ar:Geography/阿里山林業鐵路.md": {
-    "verify=1 [section count]": 1,
+    "verify=1 [section count]": 2,
     "no output written by translate.py (exit=1)": 1
   },
   "ja:History/嘉義農林.md": {
@@ -11489,7 +11573,7 @@
     "verify=1 [frontmatter not untranslated]": 1
   },
   "de:History/嘉義農林.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:Society/台灣新冠疫情與疫苗.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11524,35 +11608,38 @@
     "verify=1 [section count]": 1
   },
   "ar:Lifestyle/台灣行道樹.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:People/黃崇仁.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Lifestyle/台灣行道樹.md": {
-    "health [wikilink-target]": 2
+    "health [wikilink-target]": 2,
+    "no output written by translate.py (exit=1)": 1
   },
   "ru:People/沈伯洋.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "ru:Lifestyle/台灣行道樹.md": {
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "ar:Society/醫療法.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ar:People/黃崇仁.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ja:Geography/台中捷運.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "ru:People/黃崇仁.md": {
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 2,
+    "health [wikilink-target]": 1
   },
   "pt:People/黃崇仁.md": {
     "health [wikilink-target]": 1,
-    "no output written by translate.py (exit=1)": 2
+    "no output written by translate.py (exit=1)": 3
   },
   "de:People/丁日昌.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11561,7 +11648,8 @@
     "verify=1 [section count]": 1
   },
   "ja:People/丁日昌.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [tags not identical to zh]": 1
   },
   "ru:Society/台灣動物用藥爭議.md": {
     "no output written by translate.py (exit=1)": 2
@@ -11574,10 +11662,10 @@
     "no output written by translate.py (exit=1)": 1
   },
   "pt:Society/台灣新冠疫情與疫苗.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "ko:History/台灣白色恐怖.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 3
   },
   "hi:People/沈伯洋.md": {
     "verify=1 [section count]": 1
@@ -11605,7 +11693,7 @@
     "verify=1 [URL count]": 1
   },
   "ko:Society/台灣公共衛生與防疫體系.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "ar:Economy/台灣蘭花.md": {
     "verify=1 [tags ASCII]": 1
@@ -11629,22 +11717,25 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ko:About/文章如何誕生.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "es:People/劉安婷.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 3
   },
   "fr:People/王福瑞.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 1,
+    "health [footnote-format]": 1
   },
   "ko:People/劉安婷.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "en:People/王福瑞.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [footnote-format]": 1,
+    "verify=1 [URL count]": 1
   },
   "ko:Food/國際品牌在地化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "id:Economy/台灣造船業.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11662,22 +11753,25 @@
     "no output written by translate.py (exit=1)": 1
   },
   "en:Lifestyle/小綠人.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ko:People/HUR-plus.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "ar:People/林宥嘉.md": {
     "verify=3 [URL count, frontmatter not untranslated, tags ASCII]": 1
   },
   "en:History/蓬萊米.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [URL count]": 1
   },
   "hi:Technology/迷音Miin.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [wikilink-target]": 1
   },
   "ko:History/蓬萊米.md": {
-    "verify=1 [URL count]": 1
+    "verify=1 [URL count]": 2
   },
   "pt:History/嘉義農林.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11686,25 +11780,26 @@
     "verify=1 [URL count]": 1
   },
   "es:Lifestyle/小綠人.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ko:People/嚴長壽.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "id:Geography/阿里山林業鐵路.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "hi:People/阿神.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:Economy/台灣蘭花.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "es:Lifestyle/台灣垃圾車音樂.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "health [footnote-format]": 1
   },
   "fr:Geography/漯底山.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:People/康士坦的變化球.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11722,10 +11817,10 @@
     "no output written by translate.py (exit=1)": 1
   },
   "fr:Music/五月天.md": {
-    "verify=1 [tags ASCII]": 1
+    "verify=1 [tags ASCII]": 2
   },
   "hi:Lifestyle/台灣行道樹.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "vi:People/楊德昌.md": {
     "no output written by translate.py (exit=1)": 1
@@ -11737,7 +11832,7 @@
     "no output written by translate.py (exit=1)": 1
   },
   "en:People/陳致中.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "ko:Geography/公館.md": {
     "patch candidate rejected by verify trio (exit=1)": 1
@@ -11749,54 +11844,159 @@
     "no output written by translate.py (exit=1)": 1
   },
   "ko:People/陳致中.md": {
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 2
   },
   "es:People/陳致中.md": {
-    "health [wikilink-target]": 1
-  },
-  "en:Food/台灣早餐文化.md": {
+    "health [wikilink-target]": 1,
     "no output written by translate.py (exit=1)": 1
   },
+  "en:Food/台灣早餐文化.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
   "hi:People/黃崇仁.md": {
-    "health [wikilink-target]": 1
+    "health [wikilink-target]": 1,
+    "no output written by translate.py (exit=1)": 1
   },
   "fr:Culture/台灣VTuber.md": {
     "verify=2 [section count, URL count]": 1
   },
   "ko:Food/台灣早餐文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "es:Food/台灣早餐文化.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [frontmatter not untranslated]": 1
   },
   "hi:Economy/發票.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:Society/台灣高等教育擴張與退場.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:People/呂冠緯.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "hi:Society/認知作戰.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:About/文章如何誕生.md": {
-    "patch candidate rejected by verify trio (exit=1)": 1
+    "patch candidate rejected by verify trio (exit=1)": 2
   },
   "en:Society/台灣設計研究院.md": {
     "no output written by translate.py (exit=1)": 1
   },
   "es:Society/台灣設計研究院.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "es:Geography/基隆市.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 3
   },
   "hi:Society/中華台北.md": {
-    "no output written by translate.py (exit=1)": 1
+    "no output written by translate.py (exit=1)": 2
   },
   "hi:Music/大象體操.md": {
+    "no output written by translate.py (exit=1)": 1,
+    "verify=1 [section count]": 1
+  },
+  "vi:Society/台灣新冠疫情與疫苗.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ar:Society/台灣新冠疫情與疫苗.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "ru:Society/台灣新冠疫情與疫苗.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "hi:Society/台灣新冠疫情與疫苗.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "en:People/Howhow.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Politics/投票權門檻歷史.md": {
+    "health [wikilink-target]": 1,
+    "no output written by translate.py (exit=1)": 1
+  },
+  "vi:People/HUR-plus.md": {
+    "verify=1 [tags ASCII]": 1
+  },
+  "ko:History/迪士尼.md": {
+    "no output written by translate.py (exit=1)": 2
+  },
+  "fr:People/HUR-plus.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "vi:History/蓬萊米.md": {
+    "verify=1 [URL count]": 1
+  },
+  "en:People/HUR-plus.md": {
+    "verify=1 [URL count]": 1
+  },
+  "pt:Technology/台灣機器人產業.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "es:Economy/台灣金融科技發展.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "es:Technology/電子商務與數位支付生態系.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "id:Lifestyle/台灣行道樹.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "vi:People/陳致中.md": {
+    "health [wikilink-target]": 1
+  },
+  "en:Geography/公館.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Geography/公館.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "id:People/黃崇仁.md": {
+    "health [wikilink-target]": 1
+  },
+  "fr:People/陳致中.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "vi:Geography/嘉義市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Food/台灣早餐文化.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "id:Society/台灣高等教育擴張與退場.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "fr:People/張忠謀.md": {
+    "health [footnote-format]": 1
+  },
+  "fr:People/曾博恩.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "es:People/曾博恩.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:People/張忠謀.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "vi:People/Howhow.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "fr:Society/台灣設計研究院.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "ko:People/曾博恩.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "hi:Society/台灣高等教育擴張與退場.md": {
+    "no output written by translate.py (exit=1)": 1
+  },
+  "en:Geography/基隆市.md": {
+    "patch candidate rejected by verify trio (exit=1)": 1
+  },
+  "vi:Nature/櫻花鉤吻鮭.md": {
     "no output written by translate.py (exit=1)": 1
   }
 }
