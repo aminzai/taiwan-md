@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-18 golden-bell — milestone-inferred-from-source-layout：把來源網頁的欄位版型讀成史實里程碑，十五位冷讀者與三輪驗證都沒抓到，release 站主編才抓到
+
+- **pattern**: `milestone-inferred-from-source-layout`
+- **原則**：來源的**呈現格式**（維基表格哪一年開始分「製作公司／電視公司」兩欄、清單哪一行換行、infobox 有沒有某欄）跟來源**記載的事實**是兩層。從版型推出「X 年第一次出現 Y」是幻覺六型之外的一個穩定變體：句子裡每個名詞都真（永續傳播、大愛、2010），組合出來的「並排」「第一次」卻是排版給的。它特別難抓，因為驗證員去對來源時，來源頁真的長那樣——驗證成立的是「頁面確實這樣排」，不是「歷史確實這樣發生」。
+- **觸發**：2026-09-18 金鐘獎 rewrite，§3「2010《情義月光》得獎單位第一次把製作公司永續傳播跟頻道並排寫」寫進本文最核心的那張表。這句過了 2.5-R 兩席、3.6.1 verifier、compose 站十九次 delta 評閱、十五位獨立冷讀者、verify 站三輪；release 站主編（Opus）抓 bamid 99 年名單原文只寫「情義月光（永續傳播有限公司）」、無頻道，「並排」來自維基第 45 屆頁的兩欄版型（第 44 屆頁同樣兩欄）。真正的事實（得獎單位那一欄 1981 年以來第一次寫進製作公司而不是頻道）反而更支持論點，逐筆掃 1981–2009 得獎單位後改正並補一手腳註。同 session 另一次同型：「戲劇節目獎 1981 年才設」——列表從 1981 起列「戲劇節目」，但 1971–1978 有「大眾娛樂性節目」前身，改成獎名沿革才站得住。證據：`reports/staging/golden-bell/release-review.json`、`compose-review-15.json`、memory/2026-09-18-134142-golden-bell.md。
+- **為什麼閘門看不到**：驗證員的動作是「找來源頁上有沒有這個字」，格式推論的句子在來源頁上找得到全部名詞；冷讀者看的是文章內部邏輯，一個看起來像里程碑的句子不會觸發困惑。只有把「第一次」當成需要**全序列掃描**才能成立的主張（而不是單頁核對）的人會抓到——release 站主編是用主編視角逐屆首列重核，不是逐字對頁。
+- **修補候選**：(a) RESEARCH-AGENT-PROMPT／verifier prompt 加一條：凡「第一次／首度／從 X 年起」的主張，驗證動作是**掃前面所有年份**，不是核對該年那一頁；(b) 研究報告 §7.2 表把「維基索引層級」的 milestone 標成「格式觀察」而非「事實」，Stage 2 不得直接升級成正文斷言；(c) quote-fidelity 的 superlative 原子清單已抓「第一」「唯一」，可把「第一次」「並排」「起」納入 info 提示。
+- **可能層級**：REFLEXES #31 (g) form vs meaning 的來源側鏡像（那條講閘門守形不守意，本條講來源的形被讀成意）；也可能是 MANIFESTO §10 幻覺六型的第七型候選。
+- **相關**：REFLEXES #31 (g)、#16 跨源驗證、MANIFESTO §10；本 session 另兩條操作面觀察不入庫：Rewrite Guide 的 review 必須在改稿**之前**記錄（改了稿依賴 hash 變、review 進不了 state.json，兩次踩到），以及冷讀站需要多位讀者才收斂（十五位讀者每位仍有 1–2 條真問題，第十一與十三位才 accept）——這兩條寫在 memory Beat 5，屬 REWRITE-GUIDE 操作規則候選。
+- **verification_count**: 2（同 session 兩例：2010 並排、1981 設立）
+- **severity**: structural（任何以「列表／表格」為索引層來源的 milestone 主張都會再犯）
+
 ### 2026-09-18 twmd-maintainer-am — handoff-addressed-to-a-routine-name-lands-on-two-machines：交接寫給「08:30 maintainer-am」，兩台機器各有一個 08:30 的 session 讀到它，兩個都動手修同一則 issue
 
 - **pattern**: `handoff-addressed-to-a-routine-name-lands-on-two-machines`

@@ -876,3 +876,11 @@
 {"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "write", "status": "staged", "source": "observed"}
 {"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "verify", "status": "done", "source": "observed"}
 {"ts": "2026-09-18T12:04:27Z", "slug": "台灣油價機制與中油", "stage": "ship", "status": "done", "source": "observed", "sha": "a62544386905"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "viewpoint", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "research", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "projection", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "room_projection", "status": "pass", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "write", "status": "staged", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "verify", "status": "done", "source": "observed"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "金鐘獎", "stage": "ship", "status": "done", "source": "observed", "sha": "24b9a685a7f6"}
+{"ts": "2026-09-18T15:07:21Z", "slug": "張忠謀", "stage": "inbox", "status": "pending", "source": "observed"}
