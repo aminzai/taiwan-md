@@ -1086,7 +1086,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：候選 REFLEXES（#69 的下一層）或 EDITORIAL-ROOM 席位表修法。具體修法草案：(a) 總編室六探針加一席「**外行冷讀**」，prompt 禁止提供藍圖與研究報告，只給成品，問「這是什麼／能不能複述／哪裡困惑」 (b) PERSONA-PIPELINE 的 gap-audit 目前只在研究後對**材料**跑一次，成品階段沒有讀者視角——應在 Stage 3 對**成品**再跑一次 (c) 投影 gate 五題加第六題：「一個完全不認識這個主題的讀者，照這個骨架讀完，能不能說出這是什麼？」
 - **✅ 部分落地（2026-08-06 文體類型學 mode4）**：草案 (c) 已落 [PROJECTION §五 gate 第 6 題冷讀測試](../editorial/PROJECTION.md)＋零認知主題另立 [PROJECTION-PATTERNS §M1 認識導覽前置](../editorial/PROJECTION-PATTERNS.md)（座標縫進第一節物質細節）。草案 (a) 已在馬祖 v4→r2 臨場新設並 dogfood 兩輪（6/10→7/10，抓到的問題其他 13 席全抓不到，見 [memory/2026-08-06-164219-manual.md](memory/2026-08-06-164219-manual.md)），**升常設席位**與草案 (b) 仍涉席位表與 run 成本，留待哲宇拍板（設計報告 §八 待決清單第 2 條）。
 - **相關**：REFLEXES #69 (g)「form gate ≠ meaning gate」——**差異在**：#69 處理「缺意義尺」，本條處理「**意義尺齊全但共用同一個錯誤參考系**」，修法完全不同（前者加席位，後者要求某一席與作者意圖斷開）。REFLEXES #31「self-report 是線索不是 oracle」——本條是該原則在「席位設計」層的形狀：席位本身也是一種 self-report，因為它讀了作者的藍圖。同族但不同維度的前兩例：2026-08-03 黃崇仁（十一關全綠、四十原子零漂移，哲宇指出六處皆非事實錯誤）、2026-08-04 EZ WAY 孢子（閘門全綠但排序倫理沒被量）——那兩例是「沒有那把尺」，本例是「有八把尺但參考系錯了」。
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-18 oil-price 台灣油價機制與中油：互動協定 cold-read 站（fresh Opus 只給成品）抓到九條困惑，全是「讀者用文章自己的數字就能算出來」的錯（「應漲 11.2 元」把公式價對牌價的累積差距寫成週漲幅、「回收條款還沒啟動」查無、1,014 億含不含天然氣正文兩說），2.0-R 三席、2.5-R 六探針、兩位 verifier、定稿手全沒抓到；五輪（fresh→reread×4）收斂到零實質困惑。草案 (a) 在互動協定裡已是常設站 → [memory/2026-09-18-134106-oil-price.md](memory/2026-09-18-134106-oil-price.md)
+- **verification_count**: 2
 
 ### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
 
@@ -1200,7 +1202,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：Issue #1257 讀者指出鄭文琦條目「到 2024 年第 56 期（廣島原爆主題「ピカッ！」）」錯誤。查證 `data/NML/raw/issues-meta.json` 逐期比對後發現：「ピカッ！」實際是第 5 期（2012 年 9 月），第 56 期（最後一期，2023 年 3 月）主題其實是〈關照日常〉。錯誤源頭是 `reports/NML-semiont-analysis-2026-05-04.md` 第 335 行本身寫錯（"Issue 56 (2024) 是日本廣島「ピカッ！」一期"），文章 footnote 只是引用了這份報告，沒有回頭對照原始 56 期清單逐一核對。錯誤隨翻譯流程複製到 zh-TW/en/ja/ko/es/fr/pt 七語言版本（ru 尚未落地此文，未受影響）。
 - **可能層級**：(a) 通用反射候選：「引用自己寫的內部報告當 source 時，具體事實 claim（期數/日期/人名/數字）仍要對照 raw data 驗證一次，不能因為是自己寫的就免驗」；(b) 操作規則：REWRITE-PIPELINE Stage 3.5 hallucination audit 對「內部報告」類 footnote 目前只查「URL 真實存在」，可以加一條「若 source 是 repo 內自產報告，claim 需可在對應 raw data（如 data/NML/raw/\*.json）逐一核對，不能只信報告文字」
 - **相關**：REFLEXES #16 Peer / probe 是線索不是 source（本條是同源家族的新分支：連自己寫的報告都不是免驗證的 primary source）/ REFLEXES #75 Read ≠ verify（sub-agent 產出的報告本身也要 fetch-verify，不因為是「自己人」寫的就豁免）
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-18 oil-price 台灣油價機制與中油：Stage 1A 研究 lane A 把一句原頁不存在的中油 4/8 聲明（「並無媒體所稱超漲之情事⋯抹煞員工努力」）寫進 §3 引語庫並標「Ctrl-F 可驗 ✓」，收件閘 `agent-report-health.py` 只驗 provenance 覆蓋率不驗引語真偽，一路活到 Stage 3 才被 verifier B 對 cpc s=112174 原頁抓下。差異：來源不是自產分析報告而是研究 lane 的逐字轉錄，但同一個病——URL 真的、引語假的、閘門只看 URL → [memory/2026-09-18-134106-oil-price.md](memory/2026-09-18-134106-oil-price.md)
+- **verification_count**: 2
 
 ### 2026-07-14 twmd-babel-nightly — diff-patch-current-translation-cross-entry：`diff-patch-prepare.py` 產出的批次 JSON 內 `current_translation` 欄位跨 entry 汙染
 
