@@ -1,215 +1,215 @@
 ---
-title: 'La justice transitionnelle à Taïwan'
-description: "Taïwan a annulé près de six mille condamnations prononcées sous le régime autoritaire, mais presque aucun bourreau n'a eu à rendre de comptes — cet écart est plus difficile à expliquer que la Terreur blanche elle-même."
+title: 'La justice transitionnelle à Taïwan : un bilan incomplet'
+description: "Taïwan a annulé près de six mille condamnations de l'ère autoritaire, mais presque aucun coupable n'a été poursuivi — ce décalage est plus difficile à expliquer que le terrorisme blanc lui-même."
 date: 2026-03-31
+category: 'History'
 tags:
   [
-    histoire,
-    justice transitionnelle,
-    démocratisation,
-    droits humains,
-    Terreur blanche,
+    'Histoire',
+    'justice transitionnelle',
+    'démocratisation',
+    'droits humains',
+    'terreur blanche',
   ]
-subcategory: 'Histoire contemporaine'
-category: 'History'
+subcategory: '現代歷史'
 author: 'Taiwan.md'
-readingTime: 14
 featured: false
-translatedFrom: 'History/台灣轉型正義.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
-sourceCommitSha: '6c2f8ea8'
-sourceContentHash: 'sha256:4b593cb72efe470a'
-sourceBodyHash: 'sha256:3af35384af2f52c5'
-translatedAt: '2026-05-29T00:35:00+08:00'
+translatedFrom: 'History/台灣轉型正義.md'
+sourceCommitSha: '7c73f6a55'
+sourceContentHash: 'sha256:c532a9d95ccbcaaf'
+sourceBodyHash: 'sha256:530ea0ffb4d07e77'
+translatedAt: '2026-09-19T01:37:21+08:00'
 ---
 
-> **En 30 secondes :** En 1950, dans la ville de Qingshui, un jeune homme de vingt ans fut arrêté parce qu'un inconnu était venu lui rendre visite. Il passa dix ans emprisonné sur l'île de Green Island, avant de fonder, à sa libération, le premier magazine de bandes dessinées pour enfants de Taïwan. Il vécut jusqu'à quatre-vingt-treize ans, et jusqu'à la fin il revenait toujours à la même question : « Qui exactement a tué mes amis ? » La justice transitionnelle taïwanaise a obtenu l'annulation des condamnations de près de six mille personnes — mais elle n'a toujours pas répondu à cette question.
-
----
-
-Le 10 septembre 1950, Tsai Kun-lin était chez lui à Qingshui, dans le comté de Taichung, quand un inconnu vint frapper à sa porte. Cet homme fut arrêté peu après, et lors de son interrogatoire, il cita le nom de Tsai. Les services de renseignement du Kuomintang n'en eurent pas besoin de plus : sans véritable procès, Tsai, vingt ans à peine, fut expédié sur l'île de Green Island.
-
-Il y demeura dix ans.
-
-En 2023, Tsai Kun-lin s'éteignit à quatre-vingt-treize ans. Dans ses dernières interviews, il ne parlait pas de l'injustice subie. Il posait une question : « Je veux savoir qui a tué mes amis. »[^10] Nombre de ses codétenus sur Green Island n'étaient jamais ressortis vivants.
-
-Il a fallu trente ans à Taïwan pour se doter d'un organe officiel chargé de promouvoir la justice transitionnelle — et quatre ans supplémentaires pour le dissoudre. Ce que cette période a permis d'élucider, ce qu'elle a laissé en suspens : c'est ce que cet article se propose d'examiner.
+> **Aperçu de 30 secondes :** En 1950, un jeune homme de vingt ans, capturé par une visiteur non identifié à Qingshui, fut emprisonné sur l'île de Green Island pendant dix ans. Après sa libération, il fonda le premier magazine de bandes dessinées pour enfants de Taïwan. Il vécut jusqu'à l'âge de quatre-vingt-treize ans, et toute sa vie a été consacrée à poser la même question : « Qui a vraiment tué mon ami ? » La justice transitionnelle de Taïwan a annulé les condamnations de près de six mille personnes, mais elle n'a toujours pas répondu à cette question.
 
 ---
 
-## Le système autoritaire : qui l'a bâti, comment il fonctionnait
+Le 10 septembre 1950, Tsai Kun-lin était chez quelqu'un à Qingshui, Taïnan, lorsque une personne qu'il ne connaissait pas vint le voir. Cette personne fut plus tard arrêtée, et son nom figurait dans ses dépositions. Les cercles politiques du Kuomintang (KMT) emprisonnèrent cet homme de vingt ans sur l'île de Green Island sans procédure judiciaire.
 
-Pour comprendre les difficultés de la justice transitionnelle à Taïwan, il faut d'abord mesurer la profondeur du régime qu'il s'agissait de solder.
+Il y resta dix ans.
 
-L'Incident du 28 Février 1947 fut une répression de grande envergure menée par les soldats continentaux contre la population locale taïwanaise. Le nombre de victimes reste contesté : les estimations vont de quelques milliers à vingt mille morts.[^6] Deux ans plus tard, la loi martiale fut officiellement proclamée : le 20 mai 1949, le Commandement de la garnison de la province de Taïwan décréta l'état de guerre, qui allait durer trente-huit ans — jusqu'au 15 juillet 1987. Trente-huit ans : la plus longue période de loi martiale du XXe siècle à l'échelle mondiale.[^1]
+En 2023, Tsai Kun-lin est décédé à quatre-vingt-treize ans. Lors d'interviews tardives, il ne parlait pas de son injustice, mais d'une question : « Je veux savoir qui a vraiment tué mon ami ? »[^10] : parmi ses compagnons de prison sur Green Island, beaucoup n'ont jamais survécu.
 
-La Terreur blanche taïwanaise reposait juridiquement sur deux textes : la « Loi punissant la rébellion » et la « Loi sur l'élimination des agents communistes en période de suppression de la rébellion ». Toute personne soupçonnée de « rébellion » ou d'être un « agent ennemi » pouvait être traduite devant un tribunal militaire, sans garanties judiciaires normales. La base de données établie ultérieurement par la Commission pour la promotion de la justice transitionnelle répertorie plus de quatorze mille cas de personnes jugées dans des affaires politiques.[^8] Parmi eux, Tchang Kaï-chek est personnellement intervenu dans plus de trois mille dossiers ; on recense huit cent soixante-seize condamnations à mort confirmées.[^11]
-
-| 14 946 dossiers                                                 | 876 dossiers                    |
-| --------------------------------------------------------------- | ------------------------------- |
-| Personnes jugées dans des affaires politiques (base de données) | Condamnations à mort confirmées |
-
-Le nombre total de victimes de la Terreur blanche, tel qu'établi avec certitude en 2022, dépasse les vingt-deux mille. Mais le mot « certitude » est lui-même problématique : avant que la Commission ne commence à compiler les archives, même une estimation approximative restait impossible.
+Taïwan a fallu trente ans pour établir officiellement un organisme de justice transitionnelle, et quatre ans pour le dissoudre. C'est ce que cet article se propose d'analyser : combien de réponses ont été trouvées durant ce processus, et quelles questions restent en suspens.
 
 ---
 
-## Quarante ans de silence : la fin de la loi martiale ne signifie pas l'épuration
+## La structure autoritaire : qui l'a bâtie et comment elle fonctionnait
 
-En 1987, la levée de la loi martiale fut accueillie avec soulagement. Mais cette levée ne fit qu'abroger le décret : elle n'inaugura pas un processus d'épuration politique.
+Pour comprendre la difficulté de la justice transitionnelle à Taïwan, il faut d'abord saisir la profondeur du système qu'il fallait purger.
 
-La « Loi punissant la rébellion » ne fut abolie qu'en 1991. L'article 100 de l'ancien Code pénal — qui criminalisait la pensée — ne fut modifié qu'en 1992. Et la « Loi sur la sécurité nationale », adoptée dès 1987, précisait encore que les jugements définitifs rendus par des tribunaux militaires pendant la période de loi martiale ne pouvaient faire l'objet d'aucun recours. En d'autres termes, les condamnations de la Terreur blanche furent verrouillées dans un coffre-fort juridique, rendant toute réhabilitation impossible avant le XXIe siècle.
+L'incident de 228 (/fr/history/228-incident/) s'est produit en 1947, lors d'une répression massive des troupes étrangères contre les habitants locaux. Le nombre de morts est estimé entre plusieurs milliers et vingt mille personnes, un sujet qui fait toujours débat.[^6] Deux ans plus tard, la période de l'état d'urgence (/fr/history/martial-law-era/) a commencé officiellement — le 20 mai 1949, le commandement des forces de police provinciales de Taïwan a déclaré l'état d'urgence. Ce statut dura trente-huit ans avant d'être levé le 15 juillet 1987.[^1]
 
-> **💡 Le saviez-vous ?**
-> La première excuse officielle du gouvernement taïwanais après la levée de la loi martiale fut présentée par Lee Teng-hui en 1995, au nom de l'État, aux familles des victimes du 28 Février. La loi sur le règlement et l'indemnisation de l'Incident du 28 Février fut adoptée à cette occasion, et une fondation commémorative vit le jour. Les mécanismes d'indemnisation pour la Terreur blanche suivirent peu après — mais l'indemnisation est une chose, la mise en cause des responsabilités en est une autre. Taïwan n'a fait que la première.
+La base légale du terrorisme blanc (/fr/history/taiwan-white-terror/) était le Règlement sur la répression des rébellions et le Règlement sur l'inspection des espions en période de troubles. Toute personne soupçonnée d'« rébellion » ou d'être un « espion » pouvait être jugée par les tribunaux militaires sans procédure judiciaire normale. La « Base de données de justice transitionnelle de Taïwan », établie après la Transition Committee (促轉會), a enregistré plus de quatorze mille dossiers de cas politiques.[^8] Parmi ceux-ci, plus de trois mille condamnations impliquant personnellement Chiang Kai-shek ont été rendues, avec huit cent soixante-seize peines de mort.[^11]
 
-Le silence des années qui suivirent la levée de la loi martiale s'explique par des facteurs structurels. Le chercheur Wu Nai-teh, de l'Institut de sociologie de l'Academia Sinica, propose trois raisons dans ses travaux : la démocratisation taïwanaise fut conduite par le Kuomintang lui-même (un modèle de « révolution tranquille »), si bien que le parti au pouvoir conserva une légitimité politique même dans la transition ; les performances économiques des dernières années du régime autoritaire amenèrent de nombreux citoyens à percevoir Chiang Ching-kuo davantage comme un bienfaiteur que comme un responsable de crimes ; enfin, la distance temporelle avec la répression s'était creusée, et les bourreaux étaient pour la plupart morts ou très âgés.[^7]
+| 14 946 dossiers                                                              | 876 cas                         |
+| :--------------------------------------------------------------------------- | :------------------------------ |
+| Dossiers des personnes jugées dans les affaires politiques (Base de données) | Condamnations à mort confirmées |
 
-C'est seulement après la première alternance politique de 2000 que l'expression « justice transitionnelle » commença à s'imposer dans le débat public. Mais sous les huit ans du gouvernement Chen Shui-bian, les avancées réelles restèrent limitées, se cantonnant le plus souvent au plan symbolique — débaptisations de rues, démontage de statues, actions ponctuelles sans cadre juridique systématique.
-
----
-
-## La loi et la Commission pour la promotion de la justice transitionnelle : une institution trente ans en retard
-
-C'est en 2016, lorsque le Parti démocrate progressiste remporta à la fois le pouvoir exécutif et la majorité législative, que la législation progressa vraiment. Même ainsi, le processus ne fut pas simple : le Kuomintang fit obstruction à l'Assemblée législative et déposa même une demande d'interprétation constitutionnelle. La loi fut finalement adoptée le 5 décembre 2017, définissant la « période de gouvernance autoritaire » du 15 août 1945 au 6 novembre 1992.
-
-Le 31 mai 2018, la Commission pour la promotion de la justice transitionnelle (CPTJ) fut officiellement créée — première institution d'État de l'histoire taïwanaise à porter ce mandat. Rattachée au Yuan exécutif, elle était dotée d'un mandat légal de deux ans, prolongé à deux reprises, avant d'être dissoute le 31 mai 2022, soit après mille quatre cent soixante jours d'existence.[^2]
-
-La Commission connut une crise dès son lancement. En septembre 2018, des enregistrements révélèrent que le vice-président Tchang T'ien-chin avait ciblé des personnalités de l'opposition lors d'une réunion interne. La Commission fut raillée sous le sobriquet de « Cour de l'Est » — référence aux redoutés services secrets impériaux. Le président et le vice-président démissionnèrent l'un après l'autre. Ce départ difficile pesa sur la crédibilité de l'institution pendant toute la durée de son mandat.[^3]
-
-> **⚠️ Perspectives contradictoires**
-> La Commission se trouva constamment prise en tenaille : pour le camp bleu (Kuomintang), elle n'était qu'un instrument de « règlement de comptes politiques » ; pour une partie de l'indépendantisme et de nombreuses familles de victimes, elle manquait de force et esquivait la question des responsabilités individuelles. Li Chao-li, porte-parole du Parti de la force populaire, déclara à la BBC que « de nombreuses élites qui avaient prospéré sous le système du parti unique à l'époque autoritaire ont pu reconquérir le pouvoir dans la transition démocratique ».[^4]
+Le nombre total estimé de victimes du terrorisme blanc, au plus tard en 2022, est confirmé à plus de vingt-deux mille.[^1] Mais le mot « confirmé » pose déjà un problème : avant que la Transition Committee ne commence à organiser les archives, même l'estimation était difficile.
 
 ---
 
-## Bilan de quatre ans : ce qui fut accompli, ce qui resta en suspens
+## Quarante ans de silence : lever l'état d'urgence n'est pas synonyme de purification
 
-1. **31/05/2018** — La Commission est inaugurée ; Huang Huang-hsiung en devient le premier président.
-2. **04/10/2018** — Première vague d'annulation de condamnations : 1 270 noms.
-3. **26/02/2020** — La base de données de la justice transitionnelle taïwanaise est mise en ligne ; les interventions personnelles de Tchang Kaï-chek dans les jugements sont rendues publiques pour la première fois.
-4. **30/03/2021** — Première série de 25 « lieux de l'injustice » officiellement désignés.
-5. **27/03/2021** — Cinquième à septième vague d'annulations : total cumulé de 5 942 dossiers.
-6. **22/02/2022** — Deuxième série de 17 lieux de l'injustice liés à la Terreur blanche.
-7. **31/05/2022** — La Commission est officiellement dissoute ; ses missions sont transférées aux différents ministères.
+Le levée de l'état d'urgence en 1987 fut accueillie par des acclamations dans la société taïwanaise. Mais le démantèlement de l'état d'urgence n'a été qu'une annulation du décret, et non le début d'une purification politique.
 
-### La réhabilitation judiciaire : le bilan le plus tangible
+Le Règlement sur la répression des rébellions n'a été aboli qu'en 1991, et l'article 100 du Code pénal ancien (la clause de culpabilité par pensée) n'a été modifié qu'en 1992. De plus, la Loi sur la sécurité nationale adoptée en 1987 stipulait que les décisions rendues par les tribunaux militaires pendant l'état d'urgence ne pouvaient faire l'objet d'appels. Cela équivalait à enfermer les résultats des procès du terrorisme blanc dans un coffre-fort légal, reportant la possibilité de réhabilitation des victimes au XXIe siècle.
 
-Au terme de son mandat, la Commission avait obtenu l'annulation de **5 983 condamnations**[^1], parmi lesquelles des affaires emblématiques : l'Incident de Formosa (美麗島事件), l'affaire de Luku, l'affaire des paysans du 520, l'affaire de Taïyuan. C'est le domaine où la progression fut la plus nette, car la base légale permettant à un organe administratif d'annuler des jugements avait été établie, et chaque vague d'annulations donna lieu à une cérémonie publique avec une liste nominative.
+> **💡 Saviez-vous que**
+> La première excuse officielle du gouvernement après le levée de l'état d'urgence date de 1995, lorsque Lee Teng-hui (/fr/people/lee-teng-hui/) a présenté des excuses aux familles des victimes de l'incident de 228 et a établi la Fondation commémorative de l'incident de 228 par le biais du Règlement sur le traitement et l'indemnisation de l'incident de 228. La législation d'indemnisation pour le terrorisme blanc est venue quelques années plus tard, mais l'indemnisation est une chose, la poursuite des coupables en est une autre — Taïwan n'a fait que la première.
 
-Il faut cependant distinguer « annuler des condamnations » et « identifier ceux qui les ont fait condamner ». La première action, Taïwan l'a menée. La seconde reste presque entièrement en friche.
+Le silence après le levée de l'état d'urgence a des raisons structurelles. Wu Nai-teck, chercheur à l'Institute of Sociology, a avancé trois explications dans son article : la transition démocratique de Taïwan était menée par le KMT (modèle de la « révolution tranquille »), le parti au pouvoir conservait une légitimité politique même après la démocratisation ; les réalisations économiques de la fin de l'ère autoritaire ont conduit beaucoup à considérer Chiang Ching-kuo comme un méritant plutôt qu'un criminel ; en plus, le temps écoulé depuis la répression a fait que les coupables étaient soit morts, soit âgés.[^7]
 
-### Les archives politiques : ce qui est ouvert, ce qui est encore fermé
+Après le premier changement de parti en 2000, la « justice transitionnelle » est devenue un vocabulaire public. Mais au cours des huit années du gouvernement Chen Shui-bian, les progrès réels sont restés relativement limités, se concentrant davantage sur des gestes symboliques — changer des noms de rues ou démanteler des statues — sans cadre juridique systémique.
 
-La Commission a examiné **6 306 dossiers** d'archives politiques conservées par des organes de l'État, ainsi que **7 572 documents** provenant du patrimoine partisan du Kuomintang.[^1] Ces fonds comprennent les « directives du Generalissimo » — les documents annotés de la main de Tchang Kaï-chek, où l'on peut voir ses corrections transformant des peines de prison en condamnations à mort.
+---
 
-Mais le processus s'est heurté à de fortes résistances. Le Kuomintang avait d'abord prétendu n'avoir « plus aucune archive à déclarer ». La Commission finit par découvrir que le parti détenait encore un volume considérable de documents non transmis issus des archives de la branche provinciale de Taïwan, contenant des informations précieuses sur l'Incident du 28 Février, les affectations de personnels dans les appareils du parti et de l'État, et la saisie des actifs du parti.
+## Le Règlement et la Transition Committee : un organisme en retard de trente ans
 
-### Les symboles du régime autoritaire : les chiffres, et ce qu'ils cachent
+En 2016, le Parti progressiste (DPP) a obtenu à la fois les pouvoirs exécutif et législatif, faisant avancer réellement l'élaboration du Règlement sur la promotion de la justice transitionnelle. Même ainsi, le processus n'a pas été sans heurts : le KMT a fortement obstrué au parlement, allant même jusqu'à demander un contrôle constitutionnel. Le règlement a finalement été adopté en lecture définitive le 5 décembre 2017, définissant la « période de domination autoritaire » du 15 août 1945 au 6 novembre 1992.
 
-La Commission a recensé l'ensemble des symboles du régime autoritaire présents sur le territoire national — principalement les statues et les espaces portant le nom des deux Chiang — et en a dénombré **1 546 au total**. Au moment de sa dissolution, 27,05 % des symboles relevant des administrations centrales avaient été supprimés ou traités, et 26,74 % de ceux relevant des gouvernements locaux. En comptant les cas « approuvés pour traitement », le taux national global s'établissait à environ 33,2 %.[^1]
+Le 31 mai 2018, le Comité pour la promotion de la justice transitionnelle (促轉會) a été officiellement créé. C'est la première entité à Taïwan à promouvoir la justice transitionnelle sous le nom d'un organisme d'État. Il était rattaché au gouvernement exécutif, avec une durée légale de deux ans. Après deux renouvellements, il a finalement été dissous le 31 mai 2022, ayant existé pendant mille quatre cent soixante-dix jours.[^2]
 
-Autrement dit, plus des deux tiers des statues de Chiang Kaï-chek ou Chiang Ching-kuo étaient toujours en place en 2022.
+Dès sa création, la Transition Committee a rencontré des crises. En septembre 2018, le vice-président Chang Tian-qin fut révélé dans un enregistrement attaquant des personnalités de l'opposition lors d'une réunion interne, et la Transition Committee fut moquée par l'extérieur comme une « agence secrète » (東廠), forçant le président et le vice-président à démissionner successivement. Ce début a obligé la Transition Committee à travailler sans relâche pour établir sa crédibilité tout au long de son mandat.[^3]
 
-La question la plus emblématique — le Mémorial national de Chiang Kaï-chek — fit l'objet, sous le mandat de la Commission, de plusieurs ateliers de concertation et d'aménagements partiels de l'espace d'exposition. Avant sa dissolution, la Commission formula une recommandation : transformer le lieu en « Musée de la mémoire historique démocratique » agrémenté d'un « Parc de réflexion sur l'histoire autoritaire ».[^2] Mais le sort de la statue n'est toujours pas réglé à ce jour ; c'est le ministère de la Culture qui a pris le relais.
+> **⚠️ Point de vue controversé**
+> La situation politique de la Transition Committee fut toujours doublement hostile : pour les partisans du KMT, elle était un « outil de purification politique » ; pour certains nationalistes et les familles des victimes, elle manquait d'efficacité et esquivait la poursuite des coupables. Li Zhao-li, porte-parole de the Era Power (時代力量), a déclaré à la BBC : « De nombreux élites qui dépendaient du système d'un seul parti pendant l'ère autoritaire peuvent encore ressurgir lors de la transition démocratique. »[^4]
+
+---
+
+## Les quatre années de la Transition Committee : ce qu'elle a fait et ce qu'elle n'a pas fait
+
+1. **31/05/2018** — Création officielle de la Transition Committee, nomination du premier président Huang Huang-xiong
+2. **04/10/2018** — Publication de la première liste d'annulation de condamnations : 1 270 personnes
+3. **26/02/2020** — Mise en ligne de la Base de données de justice transitionnelle de Taïwan, premières informations sur les jugements impliquant Chiang Kai-shek publiées
+4. **30/03/2021** — Première annonce officielle des 25 sites d'injustice
+5. **27/03/2021** — Cinquième à septième vague d'annulation, totalisant 5 942 cas
+6. **22/02/2022** — Annonce de la deuxième série des 17 sites d'injustice du terrorisme blanc
+7. **31/05/2022** — Dissolution officielle de la Transition Committee, transfert des tâches aux ministères
+
+### Réparer les injustices judiciaires : le résultat le plus concret
+
+Au cours de ses quatre années, la Transition Committee a annulé un total de **5 983 condamnations**[^1], y compris les affaires célèbres de l'incident de Beilidou, du cas de Lukou, du mouvement paysan de 520 et du cas Taixuan. C'était le domaine où la Transition Committee a montré le progrès le plus clair, car la base légale pour que un organisme administratif annule des jugements judiciaires était établie, chaque vague d'annulation ayant une cérémonie publique et une liste associée.
+
+Cependant, « annuler les condamnations » et « trouver qui les a emprisonnés » sont deux choses différentes. Taïwan a réussi la première ; la seconde est restée presque vide.
+
+### Les archives politiques : ce qui est ouvert et ce qui reste fermé
+
+La Transition Committee a examiné **6 306 dossiers** d'archives politiques détenues par des organismes d'État, et **7 572 documents** d'archives politiques du patrimoine du KMT.[^1] Parmi eux se trouvaient les « signatures de présidents » — des documents signés personnellement par Chiang Kai-shek, montrant comment il a modifié une peine de prison ferme en peine de mort.
+
+Mais ce processus était semé d'embûches. Le KMT avait soutenu qu'il n'y avait « plus de dossiers à transmettre », mais la Transition Committee a finalement découvert que le parti conservait encore de nombreux dossiers du « bureau provincial de Taïwan » non transmis, contenant des documents précieux concernant l'incident de 228, les nominations du parti et les réquisitions de biens.
+
+### Les symboles autoritaires : les difficultés derrière les chiffres
+
+La Transition Committee a comptabilisé un total de **1 546 éléments/sites** (principalement statues et noms) des symboles autoritaires à travers Taïwan. Au moment de sa dissolution, le taux d'élimination par l'administration centrale était de 27,05 %, celui des municipalités locales de 26,74 %, avec un total cumulé d'environ 33,2 % après avoir comptabilisé les « actions approuvées ».[^1]
+
+Autrement dit, plus des deux tiers des statues de Chiang Kai-shek ou Chiang Ching-kuo sont restées en place en 2022.
+
+Le Mémorial du Président Chiang (中正紀念堂), qui a été le plus médiatisé, a organisé plusieurs ateliers et modifié certaines zones d'exposition pendant le mandat de la Transition Committee, proposant une suggestion avant sa dissolution : transformer l'endroit en un « Musée de la mémoire démocratique » associé à un « Parc historique de la réflexion sur l'autoritarisme ».[^2] Mais si les statues ont été retirées ou non reste un sujet en suspens, géré par le Ministère de la culture.
 
 > **📝 Note du curateur**
-> Un détail illustre bien la complexité de la situation : les statues de Chiang Kaï-chek démontées aux quatre coins du pays ont pour beaucoup été rassemblées à Cihu, dans le district de Daxi à Taoyuan, où elles forment désormais un « parc de sculptures commémoratives » devenu une attraction touristique prisée. La zone grise entre suppression et conservation se donne ici à voir dans toute sa densité.
+> Un détail illustre bien la complexité du problème : beaucoup des statues de Chiang Kai-shek retirées dans tout le pays ont été regroupées à Cihu, Daxi, Taoyuan, où elles forment désormais un « Parc de sculptures commémoratives », une attraction touristique populaire. La zone grise entre le retrait et la préservation est entièrement exposée dans ce parc.
 
-### Les lieux de l'injustice : transformer les blessures du passé en espaces publics
+### Les sites d'injustice : les plaies du passé devenues espace public
 
-La Commission a désigné au total **42 lieux de l'injustice** en deux séries[^1], notamment le parc commémoratif de Jingmei (Nouveau-Taipei), le parc commémoratif de Green Island, et le Centre d'accueil d'Ankang à Taipei. Ce dernier est particulièrement précieux car il a été conservé dans son état d'origine : lieu d'interrogatoires politiques sous le régime autoritaire, il permet encore aujourd'hui, en y entrant, de ressentir l'emprise spatiale de cette architecture oppressante.
+La Transition Committee a annoncé au total **42 sites d'injustice**[^1], y compris le Parc commémoratif de Jingmei (Taïwan, Taipei) pour le terrorisme blanc, le Parc commémoratif de Green Island (Taïwan, Taitung) pour le terrorisme blanc et le centre d'accueil Ankang à Taipei. Le centre d'accueil Ankang est particulièrement précieux car il a été conservé dans son état d'origine — c'était un lieu d'interrogatoire politique pendant l'ère autoritaire, où l'on peut encore ressentir la conception spatiale oppressive de l'époque.
 
-Le Musée national des droits de l'homme, rattaché au ministère de la Culture, continue d'assurer les expositions sur les deux sites de Jingmei et de Green Island, et met en ligne la « Banque de mémoire des droits de l'homme » ainsi que la « Base de données des lieux de l'injustice ».
-
----
-
-## Ce qui n'a pas été résolu : où sont les bourreaux ?
-
-Lorsque la Commission fut dissoute, elle laissa derrière elle un rapport de synthèse de missions long de 1,77 million de caractères. Il y consigne de nombreux récits de victimes et décrit en détail les mécanismes du régime autoritaire. Mais une chose restait vide à la fin de ces quatre années : **la mise en cause individuelle des responsables**.
-
-Ce n'est pas un défi propre à Taïwan — mais la situation taïwanaise présente une spécificité.
-
-En Allemagne de l'Est, après la réunification, fut créée la « Behörde für die Stasi-Unterlagen » (Agence pour les archives de la Stasi), permettant aux citoyens allemands de consulter les dossiers de leur surveillance personnelle. Les informations concernant plus de cent soixante-dix mille personnes ayant servi d'informateurs furent rendues publiques.[^12] La Commission taïwanaise avait eu des échanges avec cette agence, mais Taïwan n'a jamais adopté une loi comparable de « lustration » — mécanisme permettant d'examiner systématiquement si d'anciens serviteurs du régime autoritaire occupaient encore des fonctions publiques.
-
-L'expérience sud-coréenne s'approche davantage d'une justice pleinement menée à son terme : les responsables de la répression du soulèvement de Gwangju en 1980, dont les anciens présidents Chun Doo-hwan et Roh Tae-woo, furent poursuivis en 1995, après la démocratisation, et condamnés en 1997 — l'un à mort (peine commuée), l'autre à la prison à vie.[^9] À Taïwan, le principal responsable de la répression politique, Tchang Kaï-chek, était mort en 1975 : toute poursuite judiciaire devenait impossible. Mais les autres acteurs du système — juges militaires, agents des services de renseignement, informateurs — n'ont, pour l'immense majorité, jamais été publiquement désignés.
-
-> **✦** « Ne pas poursuivre les complices d'un régime criminel, c'est conclure une grande réconciliation avec les criminels — et au bout du compte, les assassins restent parmi nous. » — Ralph Giordano, écrivain allemand (1923–2014), cité dans des commentaires de la Taiwan Covenants Alliance[^5]
-
-Cette phrase est reprise dans des travaux de chercheurs taïwanais spécialisés en droit de la justice transitionnelle. L'ironie est amère : Taïwan a précisément évolué dans la direction décrite.
+Le Musée national des droits humains, rattaché au Ministère de la culture, continue d'exposer dans les parcs de Jingmei et Green Island, et a mis en ligne le « Répertoire de la mémoire des droits humains » et la « Base de données des sites d'injustice ».
 
 ---
 
-## À quel point la justice transitionnelle est-elle « accomplie » ?
+## Les questions non résolues : où sont les coupables ?
 
-C'est une question que la société taïwanaise continue de débattre — avec le paradoxe que les mécontentements viennent de deux directions opposées.
+Au moment de sa dissolution, la Transition Committee a laissé un rapport de synthèse de sept cent dix-sept mille mots. Il contient de nombreux récits de victimes et une description du fonctionnement du système autoritaire. Mais il y a une chose qui est restée vide à la fin des quatre années : **la poursuite individuelle des coupables**.
 
-**Ceux qui estiment que « c'est suffisant, voire excessif » :** représentés principalement par le Kuomintang, ils affirment que la Commission n'était qu'un instrument politique au service du PDP, que les réalisations de l'ère autoritaire (le « miracle économique taïwanais ») ne sauraient être effacées d'un trait, et que Tchang Kaï-chek figure encore en tête de plusieurs sondages désignant le président « ayant le plus contribué à Taïwan ».[^13]
+Ce n'est pas un problème propre à Taïwan, mais la situation taïwanaise a ses spécificités.
 
-**Ceux qui estiment que « c'est loin d'être suffisant » :** associations de défense des droits humains, descendants de victimes et une partie des universitaires soulignent que la justice transitionnelle taïwanaise n'a toujours que des victimes — jamais de bourreaux —, qu'aucune loi de lustration n'a jamais été adoptée, que le traitement des actifs du parti manque de transparence, que les espaces liés aux Chiang restent omniprésents, et que les récits sur l'histoire autoritaire dans le système éducatif font encore l'objet de controverses.[^12]
+L'Allemagne de l'Est, après sa réunification, a créé une « Agence d'archives Stasi » (史塔西檔案局), où les citoyens allemands pouvaient consulter leurs dossiers de surveillance ; plus de cent soixante-dix mille informations sur des citoyens ayant servi d'informateurs sont devenues publiques.[^12] La Transition Committee de Taïwan a échangé avec cette agence, mais Taïwan n'a jamais adopté une loi similaire de « _lustration_ » (purification) — un mécanisme qui soumettrait les anciens complices autoritaires à un examen systémique dans la fonction publique.
 
-**Une troisième voix — celle qui remet en cause le cadre lui-même :** certains chercheurs (comme le professeur de sciences politiques de l'Université nationale de Taïwan Cheng Chih-yung) soutiennent que la justice transitionnelle à Taïwan a été trop partisane, qu'elle est devenue le prolongement du combat entre les tenants de l'indépendance et ceux de la réunification, rendant impossible le consensus qui aurait pu se former autour de nombreuses mesures.
+L'expérience de la Corée du Sud est plus proche d'une « poursuite jusqu'au bout » : en 1995, les oppresseurs de l'incident de Gwangju en 1980, y compris l'ancien président Chun Doo-hwan et Roh Tae-woo, ont été poursuivis ; ils ont reçu respectivement une peine à mort (réduite) et une réclusion à perpétuité en 1997.[^9] Chiang Kai-shek, le maître de la répression politique taïwanaise, était décédé en 1975, rendant toute poursuite légale impossible ; mais les autres au sein de son système — juges militaires, officiers de renseignement, informateurs — n'ont jamais été publiquement nommés dans leur grande majorité.
 
-Les « Lignes directrices pour la justice transitionnelle » publiées par les Nations unies en 2010 identifient cinq axes de travail : poursuites contre les auteurs de violations, droit à la vérité, rétablissement des droits des victimes, réforme institutionnelle, dialogue et participation citoyenne.[^12] Taïwan a accompli un travail relativement complet sur « l'indemnisation des victimes », a rendu le droit à la vérité partiellement accessible via les bases de données, mais dans les domaines des « poursuites contre les responsables » et des « réformes institutionnelles » (notamment dans l'éducation), d'immenses chantiers restent ouverts.
+> **✦** « Ne pas poursuivre les complices d'un régime passé, c'est faire la paix avec le criminel ; finalement, le meurtrier est toujours parmi nous. » — Ralph Giordano (1923-2014), écrivain allemand, cité dans une critique de l'Association Yongshe à Taïwan[^5]
 
-> **⚠️ Perspectives contradictoires**
-> Après la dissolution de la Commission, les travaux de justice transitionnelle ont été repris par le « Comité de coordination pour la promotion de la justice transitionnelle » du Yuan exécutif et par les différents ministères. Les critiques redoutent que ce mode de transfert dispersé ne fasse perdre toute dynamique à un travail politiquement très sensible — en particulier, la mission d'« identification et de mise en cause des responsables » a été confiée au ministère de la Justice, lequel n'est pas à l'abri des pressions politiques. En 2022, Yeh Hung-ling, dernière présidente par intérim de la Commission, déclara : « C'est aux autres de nous mettre une note. »[^14]
-
----
-
-## Le Mouvement des tournesols et le lien générationnel avec la justice transitionnelle
-
-Un moment mérite d'être relevé : l'avancée législative de la justice transitionnelle à Taïwan coïncide précisément avec la recomposition politique qui suivit le Mouvement des tournesols de 2014. Ce mouvement transforma le paysage politique taïwanais, rendant possible la victoire totale du PDP en 2016 — et c'est sous cette majorité que fut adoptée la Loi pour la promotion de la justice transitionnelle.
-
-La question centrale du Mouvement des tournesols était la souveraineté et la démocratie, mais il fut aussi le signe d'une génération réagissant contre l'héritage autoritaire — rejetant un système politique encore dominé par un parti issu de l'ancien appareil d'État. En un sens, la justice transitionnelle devint le canal institutionnel d'une conscience générationnelle des dettes historiques.[^2]
-
-Mais l'histoire de Cheng Nan-jung nous rappelle que ce chemin est bien plus long que quiconque ne l'avait anticipé. En 1989, Cheng Nan-jung s'immola pour résister à un mandat d'arrestation du Kuomintang, devenant martyr de la liberté d'expression à Taïwan. Trente ans après sa mort, le pays se dotait enfin d'un organe officiel chargé de la justice transitionnelle. Trente-quatre ans après sa mort, cet organe était déjà dissous — et la justice qu'il avait envisagée n'est toujours pas accomplie.
+Cette citation est utilisée par les chercheurs en droit de la justice transitionnelle à Taïwan pour ironiser sur le fait que la justice transitionnelle taïwanaise a effectivement évolué dans cette direction.
 
 ---
 
-## Note du curateur : un chantier sans ligne d'arrivée
+## Quel niveau de réalisation équivaut à une fin ?
+
+C'est un débat constant dans la société taïwanaise, et les raisons d'insatisfaction des différentes factions sont diamétralement opposées.
+
+**Les voix qui estiment que « c'est suffisant, voire excessif » :** Représentés par le KMT, ils considèrent la Transition Committee comme un outil politique du DPP, arguant que les réalisations de l'ère autoritaire (comme le « miracle économique taïwanais ») ne devraient pas être effacées. Chiang Kai-shek est toujours considéré dans de nombreux sondages comme le « président qui a le plus contribué à Taïwan ».[^13]
+
+**Les voix qui estiment que « ce n'est absolument pas assez » :** Les organisations des droits humains, les descendants des victimes et certains universitaires soulignent que la justice transitionnelle de Taïwan a toujours été « seulement pour les victimes, sans coupables ». La _lustration_ n'a jamais été adoptée, le traitement du patrimoine du parti est opaque, et il existe encore une grande quantité d'espaces liés à Chiang Kai-shek ; le discours du système éducatif sur l'histoire autoritaire reste controversé.[^12]
+
+**La troisième voix — celle qui juge que le cadre lui-même est problématique :** Certains universitaires (comme le professeur Cheng Chih-yong de l'Université nationale de Taïwan) soutiennent que la justice transitionnelle à Taïwan est trop politisée, devenant un champ de bataille étendu entre les lignes pro-indépendance et pro-unité, ce qui a conduit à des mesures qui auraient pu créer un consensus à être arrachées dans une politique identitaire.
+
+Le « Guide sur la justice transitionnelle » publié par l'ONU en 2010 divise le travail en cinq axes : poursuite des coupables, réalisation du droit à savoir, réparation des victimes, réforme systémique et dialogue participatif. Taïwan a fait un travail relativement complet sur l'« indemnisation des victimes », dispose d'une base de données pour le « droit à savoir », mais beaucoup de travail reste à faire sur la « poursuite des coupables » et la « réforme systémique » (en particulier dans l'éducation).
+
+> **⚠️ Point de vue controversé**
+> Après la dissolution de la Transition Committee, les travaux de justice transitionnelle ont été repris par le gouvernement exécutif via le « Bulletin de promotion de la justice transitionnelle » et divers ministères. Les critiques craignent que cette répartition décentralisée ne fasse perdre de l'élan à un travail hautement sensible — en particulier lorsque l'« identification et la poursuite des coupables » est transférée au Ministère de la justice, qui n'est pas indépendant des pressions politiques. Ye Hong-ling, la présidente intérimaire de la Transition Committee lors de sa dernière année, a déclaré : « Laissez les notes aux autres. »[^14]
+
+---
+
+## Le lien générationnel entre le mouvement du fleur de soleil (/fr/society/sunflower-movement/) et la justice transitionnelle
+
+Un moment intéressant mérite d'être noté : l'avancement législatif de la justice transitionnelle à Taïwan s'est produit dans le contexte politique qui a suivi le mouvement du fleur de soleil (/fr/society/sunflower-movement/) en 2014. Le fleur de soleil a changé la carte politique de Taïwan, rendant possible la prise de pouvoir complète par le DPP en 2016, et c'est après cette prise de pouvoir totale que le Règlement sur la promotion de la justice transitionnelle a été adopté.
+
+Le thème central du fleur de soleil était la souveraineté et la démocratie, mais c'était aussi une réaction d'une génération au legs autoritaire — une résistance contre un système politique dominé par un parti issu des machines du vieux régime nationaliste. Dans un certain sens, la justice transitionnelle est l'expression institutionnelle de cette conscience historique de dette pour cette génération.[^2]
+
+Mais l'histoire de Zheng Nanrong (/fr/people/zheng-nanrong/) nous rappelle que ce chemin est plus long que quiconque ne le prévoyait. En 1989, Zheng Nanrong s'est suicidé pour résister à un mandat d'arrestation du KMT, devenant une martyre de la liberté d'expression à Taïwan. Trente ans après sa mort, Taïwan a finalement établi un organisme officiel pour promouvoir la justice transitionnelle. Trente-quatre ans après sa mort, cet organisme est dissous, et la justice qu'il espérait n'est toujours pas achevée.
+
+---
+
+## Note du curateur : un projet sans fin
 
 > **📝 Note du curateur**
-> La justice transitionnelle dispose d'une définition académique normalisée. Mais à Taïwan, elle a toujours été un terrain occupé par la politique vivante. À chaque élection, elle cesse d'être un travail historique pour devenir une arme électorale — ce qui épuise celles et ceux qui souhaitent s'y engager sérieusement.
+> La justice transitionnelle a une définition standard dans le milieu académique, mais à Taïwan, elle est toujours un mot occupé par la politique vivante. Avant chaque élection, elle passe d'un travail historique à une arme de campagne, épuisant ceux qui s'y consacrent réellement.
 >
-> La question que posait Tsai Kun-lin à quatre-vingt-treize ans — « Qui exactement a tué mes amis ? » — n'est pas une question à laquelle des statistiques peuvent répondre. Elle appelle une société prête à dire clairement : cette époque-là, qui a fait quoi, et pourquoi.
+> La question posée par Tsai Kun-lin à quatre-vingt-treize ans — « Qui a vraiment tué mon ami ? » — n'est pas une question qui peut être résolue par des chiffres. Elle nécessite qu'une société soit prête à dire clairement : quel était ce temps, qui a fait quoi et pourquoi.
 >
-> La vraie difficulté de la justice transitionnelle à Taïwan n'est pas le manque de données. C'est l'absence de consensus sur ce qu'on ferait une fois qu'on aurait tout dit. Réhabiliter les victimes — la majorité est d'accord. Mettre en cause les bourreaux — le consensus se fracture.
+> La véritable difficulté de la justice transitionnelle à Taïwan n'est pas de trouver les archives, mais le manque de consensus sur « que faire après avoir tout dit ». Les victimes ont majoritairement consenti à leur réhabilitation ; mais le consensus sur la poursuite des coupables est brisé.
 >
-> Cette fracture est peut-être plus difficile à traiter que les statues elles-mêmes.
+> Cette fissure est peut-être plus difficile à gérer que les statues elles-mêmes.
 
-**Pour aller plus loin :**
+**Lectures complémentaires :**
 
-- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — musée créé par l'État pour commémorer les victimes de persécutions politiques, inauguré en 2018, budget gelé en 2025
-- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — le fond historique visé par l'annulation des condamnations
-- [La loi martiale à Taïwan](/fr/history/martial-law-era) — contenant juridique de 1949 à 1987
-- [L'Incident du 28 Février](/fr/history/228-incident) — la répression de 1947 dans le Taïwan de l'après-guerre, autre ligne de travail de la justice transitionnelle
+- [Musée national des droits humains](/fr/history/national-human-rights-museum) — Le musée construit par la nation pour commémorer les victimes politiques, inauguré en 2018, avec un budget gelé en 2025.
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L'entité historique visée par l'annulation des condamnations.
+- [Période de l'état d'urgence](/fr/history/martial-law-era) — Le contenant légal de 1949-1987.
+- [Incident de 228](/fr/history/228-incident) — La répression post-guerre de Taïwan en 1947, une autre ligne du travail de justice transitionnelle.
+- [Facture : le papier de 1951 qui a fait des citoyens des inspecteurs fiscaux](/fr/economy/taiwan-uniform-invoice) — Le processus de réhabilitation de Han Hsien-ch'un (qui a conçu les factures unifiées), traversant les mandats de Ma Ying-jeou et Tsai Ing-wen, est un cas concret du travail de justice transitionnelle.
 
 ## Références
 
-[^1]: [Site officiel de la Commission pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/)
+[^1]: [Site officiel du Comité pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/) — Voir les informations complémentaires dans le lien original.
 
-[^2]: [Plain Law Movement : Après la dissolution de la Commission, quelle suite pour la justice transitionnelle ? (2024)](https://plainlaw.me/posts/tjc)
+[^2]: [Mouvement de vulgarisation juridique : La suite de la Transition Committee après sa dissolution (2024)](https://plainlaw.me/posts/tjc) — Mouvement de vulgarisation juridique.
 
-[^3]: [The News Lens : Une course contre la montre pour la justice transitionnelle (2022)](https://www.thenewslens.com/feature/transitionaljustice/166787)
+[^3]: [Rapport critique en ligne : Le travail de justice transitionnelle contre la montre (2022)](https://www.thenewslens.com/feature/transitionaljustice/166787) — Voir les informations complémentaires dans le lien original.
 
-[^4]: [BBC Chinois : Taïwan continue de débattre d'une « justice transitionnelle » que personne ne trouve satisfaisante (2019)](https://www.bbc.com/zhongwen/trad/chinese-news-47449363)
+[^4]: [BBC chinois : Taïwan continue son débat houleux sur la souveraineté et l'unité](https://www.bbc.com/zhongwen/trad/chinese-news-47449363) — Reportage de BBC News en chinois.
 
-[^5]: [The Reporter : Lin Chia-ho / Comment la justice transitionnelle doit-elle traiter les auteurs de violations ?](https://www.twreporter.org/a/opinion-how-to-investigate-the-offenders)
+[^5]: [Reporter : Lin Jia-ho / Comment la justice transitionnelle gère les « coupables » ?](https://www.twreporter.org/a/opinion-how-to-investigate-the-offenders) — Voir les informations complémentaires dans le lien original.
 
-[^6]: [Taiwan Truth and Reconciliation Committee : Introduction à la Terreur blanche](https://taiwantrc.org/taiwan-history/white-terror-history/)
+[^6]: [Association pour la vérité et la réconciliation civile à Taïwan : Brève présentation du terrorisme blanc](https://taiwantrc.org/taiwan-history/white-terror-history/) — Voir les informations complémentaires dans le lien original.
 
-[^7]: [Wu Nai-teh : Justice transitionnelle et mémoire historique — tâches inachevées de la démocratisation taïwanaise](https://www.ios.sinica.edu.tw/people/personal/wnd/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%92%8C%E6%AD%B7%E5%8F%B2%E8%A8%98%E6%86%B6.pdf)
+[^7]: [Wu Nai-teck : Justice transitionnelle et mémoire historique : l'œuvre inachevée de la démocratisation de Taïwan](https://www.ios.sinica.edu.tw/people/personal/wnd/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%92%8C%E6%AD%B7%E5%8F%B2%E8%A8%98%E6%86%B6.pdf) — Academia Sinica.
 
-[^8]: [Base de données de la justice transitionnelle taïwanaise](https://twtjcdb.nhrm.gov.tw/)
+[^8]: [Base de données de justice transitionnelle à Taïwan](https://twtjcdb.nhrm.gov.tw/) — Voir les informations complémentaires dans le lien original.
 
-[^9]: [Taipei Times : Seoul does transitional justice right (2023)](https://www.taipeitimes.com/News/editorials/archives/2023/04/09/2003797573)
+[^9]: [Taipei Times : Seoul does transitional justice right (2023)](https://www.taipeitimes.com/News/editorials/archives/2023/04/09/2003797573) — Voir les informations complémentaires dans le lien original.
 
-[^10]: [Openbook : Le rêve du magazine « Prince » d'un prisonnier politique — entretien avec Tsai Kun-lin (2023)](https://www.openbook.org.tw/article/p-68031)
+[^10]: [Openbook Reading Magazine : Le rêve de « Prince » d'un prisonnier politique — Interview de Tsai Kun-lin (2023)](https://www.openbook.org.tw/article/p-68031) — Voir les informations complémentaires dans le lien original.
 
-[^11]: [Liberty Times : La base de données de la justice transitionnelle en ligne — 3 000 jugements portant la marque de Chiang Kaï-chek (2020)](https://news.ltn.com.tw/news/politics/breakingnews/3081399)
+[^11]: [Liberty Times : Mise en ligne de la base de données de justice transitionnelle, 3000 cas impliquant Chiang Kai-shek (2020)](https://news.ltn.com.tw/news/politics/breakingnews/3081399) — Reportage du Liberty Times.
 
-[^12]: [Chang-Liao & Chen, "Transitional Justice in Taiwan: Changes and Challenges", Washington International Law Journal (2020)](https://digitalcommons.law.uw.edu/wilj/vol28/iss3/5/)
+[^12]: [Chang-Liao & Chen, "Transitional Justice in Taiwan: Changes and Challenges", Washington International Law Journal (2020)](https://digitalcommons.law.uw.edu/wilj/vol28/iss3/5/) — Voir les informations complémentaires dans le lien original.
 
-[^13]: Source à compléter
+[^13]: La critique politique du KMT envers la Transition Committee est une position publique au sein du parti ; les sondages sur l'évaluation de Chiang Kai-shek sont disponibles auprès du centre de sondage TVBS.
 
-[^14]: Source à compléter
+[^14]: L'expression « laissez les notes aux autres » (分數留給外界打) par Ye Hong-ling a été rapportée dans plusieurs médias avant la dissolution de la Transition Committee en 2022 (CNA, Liberty Times, etc.).

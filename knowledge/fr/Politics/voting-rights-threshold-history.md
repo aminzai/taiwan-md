@@ -1,17 +1,17 @@
 ---
-title: 'Historique du seuil du droit de vote : de 20 à 18 ans, vingt ans de révision constitutionnelle inachevée'
-description: "Le 26 novembre 2022 à seize heures, les agents des bureaux de vote et de dépouillement de tout le pays ont commencé à ouvrir les urnes du référendum de révision constitutionnelle — c'était la première fois, depuis que Taïwan a adopté la procédure de révision constitutionnelle par référendum en 2005, qu'un projet de révision constitutionnelle parcourait l'ensemble du processus. 5,64 millions de voix pour, 5,02 millions contre, un taux d'approbation de 53 %, mais le seuil du référendum de révision constitutionnelle étant fixé à « la moitié du total des électeurs = 9,62 millions de voix favorables », il manquait 3,97 millions de voix pour le franchir. Cet article retrace le parcours depuis l'article 130 de la Constitution lors de sa promulgation en 1947 jusqu'au référendum de révision constitutionnelle échoué de 2022, documentant les raisons structurelles pour lesquelles le seuil d'âge du droit de vote à Taïwan n'a pas changé en soixante-quinze ans."
+title: 'Histoire du seuil de vote : de 20 à 18 ans, vingt ans de réforme constitutionnelle inachevée'
+description: "Le 26 novembre 2022, à 16 heures, les employés des bureaux de vote de toute l'île commencent à sceller les urnes du référendum constitutionnel. C’est la première fois, depuis que Taïwan a adopté le scrutin référendaire en 2005, qu’un projet de réforme constitutionnelle parcourt l’ensemble du processus. Cinq millions six cent quarante-sept mille voix pour, cinq millions dix-sept mille contre, soit 53 % de « oui », mais le seuil du référendaire exigeait la moitié des électeurs inscrits (9,62 millions de voix « oui »). À 3,97 million de voix près, le projet a échoué. Cet article retrace l’histoire du seuil d’âge pour voter, de l’article 130 de la Constitution de 1947 jusqu’au référendum de 2022, en analysant pourquoi l’âge légal pour voter n’a pas changé depuis soixante-quinze ans."
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'droit de vote',
-    'révision constitutionnelle',
-    'droit de vote à 18 ans',
-    'référendum',
-    'référendum 2022',
-    'système électoral',
-    'élections 2026',
+    'Droit de vote',
+    'Réforme constitutionnelle',
+    'Droits civiques à 18 ans',
+    'Référendum',
+    'Référendum 2022',
+    'Système électoral',
+    'Élections 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -19,244 +19,244 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
-translatedFrom: Politics/投票權門檻歷史.md
-sourceCommitSha: '488ba3ae'
-sourceContentHash: 'sha256:9f186591ee3109a8'
+translatedFrom: 'Politics/投票權門檻歷史.md'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:eb0a0062b5494500'
 sourceBodyHash: 'sha256:a759a5339dd81f4b'
-translatedAt: 2026-05-28T05:08:35+08:00
+translatedAt: '2026-09-19T01:37:21+08:00'
 ---
 
-# Historique du seuil du droit de vote : de 20 à 18 ans, vingt ans de révision constitutionnelle inachevée
+# Histoire du seuil de vote : de 20 à 18 ans, vingt ans de réforme constitutionnelle inachevée
 
-## Ce jour-là, à seize heures
+## Cette après-midi-là, à 16 heures
 
-Le 26 novembre 2022, à seize heures, les 17 773 bureaux de vote et de dépouillement de tout le pays ont simultanément fermé et scellé leurs urnes[^1]. Ce jour-là, Taïwan votait simultanément pour neuf types de postes dans le cadre des élections unifiées (maires de municipalités spéciales, maires de comtés et municipalités, conseillers municipaux, maires de cantons et bourgs, chefs de quartier, chefs de districts autonomes autochtones, représentants des districts autonomes autochtones) — la dernière bulletin déposé dans l'urne. Outre ces neuf bulletins de vote, de nombreux électeurs avaient en main un dixième bulletin, portant sur sa couverture l'inscription « Amendement à la Constitution de la République de Chine ».
+Le 26 novembre 2022, à 16 heures, les 17 773 bureaux de vote de toute Taïwan ferment simultanément leurs portes et scellent leurs urnes[^1]. Ce jour-là, Taïwan élisait neuf types de postes dans le cadre des élections unies (maires de villes directement administrées, maires de comtés, députés, maires de villes et de districts, chefs de villages et de quartiers, chefs de districts autochtones, représentants des districts autochtones). La dernière feuille de vote est déposée dans l’urne : en plus de ces neuf bulletins, beaucoup d’électeurs tenaient un dixième, portant à la couverture les mots « Projet de révision de la Constitution de la République de Chine ».
 
-C'était la première fois, depuis la septième révision constitutionnelle de 2005 qui avait aboli l'Assemblée nationale de mission et adopté la procédure « proposition par le Yuan législatif + référendum national de ratification », qu'**un projet de révision constitutionnelle parcourait l'ensemble du processus jusqu'à la phase de référendum**[^2]. L'amendement ne comportait qu'une seule disposition : remplacer « ayant atteint l'âge de vingt ans » par « ayant atteint l'âge de dix-huit ans » à l'article 130 de la Constitution.
+C’était la première fois, depuis la septième révision constitutionnelle de 2005 qui avait supprimé l’Assemblée nationale de mission et adopté le système « proposition par le Parlement + référendum d’approbation », qu’un projet de réforme constitutionnelle suivait l’ensemble du processus et entrait dans la phase de référendum[^2]. Le projet ne comportait qu’un seul article : remplacer dans l’article 130 de la Constitution l’expression « dès l’âge de vingt ans » par « dès l’âge de dix-huit ans ».
 
-Les urnes scellées à seize heures, les résultats ont commencé à se dessiner à dix-sept heures trente. Le soir même, la Commission électorale centrale a annoncé : 5 647 102 voix favorables, 5 016 427 voix défavorables, un taux d'approbation d'environ 53 %, un taux de participation de 59,10 %[^3]. Les voix favorables dépassaient les voix défavorables de 600 000 voix, avec une majorité favorable dans l'ensemble des vingt-deux comtés et municipalités du pays — mais comme le seuil du référendum de révision constitutionnelle était fixé à « un vote de ratification par les électeurs de la zone libre de la République de Chine, les voix favorables dépassant la moitié du total des électeurs » (soit 9 619 697 voix à l'époque), ce projet de révision constitutionnelle manquait de 3,97 millions de voix favorables pour franchir le seuil[^4].
+À 16 heures, les urnes sont scellées ; à 17h30, les résultats commencent à apparaître. Dans la soirée, la Commission électorale nationale annonce : 5 647 102 voix « pour », 5 016 427 « contre », soit environ 53 % de « oui », et un taux de participation de 59,10 %[^3]. Les voix « pour » l’emportent sur les voix « contre » de 600 000 bulletins, ce qui signifie que la majorité des 22 comtés et villes a voté « pour » : mais le seuil du référendum était fixé à « la majorité des électeurs inscrits dans la zone libre de la République de Chine » (soit 9 619 697 voix à l’époque), et ce projet manquait de 3 970 000 voix pour franchir ce seuil[^4].
 
-Les élections unifiées de 2026 (九合一選舉 2026) se poursuivront selon les mêmes neuf types de postes, le système des élections unifiées (九合一選舉是什麼) n'a pas changé, la structure des électeurs n'a pas changé, et ce seuil du droit de vote à vingt ans n'a pas changé non plus — la question à laquelle cet article tente de répondre est simple : pourquoi l'âge du droit de vote à Taïwan n'a-t-il pas changé en soixante-quinze ans ?
-
----
-
-## L'article de 1947 : le point de départ à vingt ans
-
-La Constitution de la République de Chine a été adoptée en troisième lecture par l'Assemblée nationale constituante le 25 décembre 1946, promulguée le 1er janvier 1947 et entrée en vigueur le 25 décembre 1947[^5]. L'article 130 était ainsi rédigé :
-
-> « Tout citoyen de la République de Chine ayant atteint l'âge de vingt ans a le droit de vote conformément à la loi ; sauf disposition contraire de la présente Constitution ou d'autres lois, tout citoyen ayant atteint l'âge de vingt-trois ans a le droit d'être élu conformément à la loi. »[^6]
-
-Voter à vingt ans, être éligible à vingt-trois ans — cet article n'a pas changé d'un iota depuis la promulgation de la Constitution jusqu'à aujourd'hui, en 2026, soit soixante-dix-neuf ans. Comparé aux autres articles, la stabilité de l'article 130 est remarquable : les articles additionnels ont été révisés neuf fois, portant sur plus de vingt articles, l'article relatif au drapeau national (article 6) a été modifié, les articles relatifs au Yuan des examens (articles 83-89) ont été modifiés, et la structure des cinq Yuan a également fait l'objet d'ajustements majeurs, mais l'article sur l'âge électoral est resté silencieusement en place.
-
-La manière dont ce chiffre de vingt ans a été déterminé à l'époque n'a pas laissé beaucoup de traces dans les archives constituantes — le contexte de l'époque était la 35e année de la République de Chine, la Seconde Guerre mondiale venait de se terminer, la guerre civile entre le Kuomintang et le Parti communiste était sur le point d'éclater, et la démocratie n'avait pas encore véritablement fonctionné. Vingt ans était considéré à l'époque comme un âge « adulte » raisonnable, et par rapport aux normes de la plupart des pays à la même période (États-Unis, Royaume-Uni, Japon étaient tous à 21 ans à l'époque), c'était même légèrement inférieur[^7].
-
-Il est à noter que, de la promulgation de la Constitution à la pratique électorale de Taïwan d'après-guerre, **l'âge du droit de vote est toujours resté à vingt ans, sans jamais avoir changé**. On entend parfois dans le milieu populaire l'affirmation selon laquelle « c'était 21 ans avant, puis ça a été changé à 20 ans » — cette affirmation ne correspond pas au texte constitutionnel. Il pourrait s'agir d'une confusion entre l'histoire du 26e amendement américain de 1971 (21 → 18) et l'histoire locale taïwanaise [NEEDS-VERIFY origine de la rumeur populaire 21→20].
+Les [[2026 九合一選舉]] suivent le même format de neuf postes, le système des [[九合一選舉是什麼]] reste inchangé, la structure électorale reste inchangée, et ce seuil de vingt ans pour le droit de vote reste inchangé : la question à laquelle cet article cherche à répondre est simple : pourquoi l’âge légal pour voter n’a pas changé depuis soixante-quinze ans à Taïwan ?
 
 ---
 
-## Le seuil de 2005 : quand réviser la Constitution est devenu très difficile
+## L’article de 1947 : le point de départ à vingt ans
 
-Pour comprendre pourquoi 5,64 millions de voix favorables en 2022 n'ont pas suffi, il faut revenir au 7 juin 2005 — jour où l'Assemblée nationale de mission a adopté le septième amendement aux articles additionnels de la Constitution, accomplissant deux choses : **abolir l'Assemblée nationale et adopter le référendum pour la révision constitutionnelle**[^8].
+La Constitution de la République de Chine a été adoptée à l’Assemblée constituante le 25 décembre 1946, publiée le 1er janvier 1947 et mise en application le 25 décembre 1947[^5]. L’article 130 stipule :
 
-L'article 12 modifié des articles additionnels était ainsi rédigé :
+> « Les nationaux de la République de Chine qui ont atteint l’âge de vingt ans ont le droit de vote selon les lois ; sauf disposition contraire de la présente Constitution ou des lois, les personnes de vingt-trois ans ont le droit d’être élues selon les lois. »[^6]
 
-> « La modification de la Constitution nécessite une proposition d'un quart des membres du Yuan législatif, la présence des trois quarts des membres, et une résolution adoptée par les trois quarts des membres présents, pour soumettre un amendement constitutionnel ; après un délai de publication de six mois, celui-ci est soumis à un vote de ratification par les électeurs de la zone libre de la République de Chine, et est adopté si les voix favorables dépassent la moitié du total des électeurs. »[^9]
+Vingt ans pour voter, vingt-trois ans pour se présandre : cet article n’a pas été modifié d’un seul mot depuis l’époque de la rédaction de la Constitution jusqu’à aujourd’hui, en 2026 — soixante-dix-neuf ans. Comparé aux autres articles, la stabilité de l’article 130 est remarquable : les neuf révisions successives ont modifié plus de vingt articles, l’article relatif au drapeau national (article 6) a été modifié, les articles relatifs au Conseil des examens (articles 83 à 89) ont été modifiés, et la structure des cinq institutions a été largement réorganisée, mais l’âge légal pour voter est resté silencieux et immuable.
 
-Cet article a établi ce qui est considéré comme l'un des seuils de révision constitutionnelle les plus élevés au monde :
+Il n’existe pas de nombreuses traces de débats sur la fixation de cet âge de vingt ans dans les archives de la rédaction de la Constitution : le contexte de l’époque était l’année 35 du calendrier républicain (1946), la Seconde Guerre mondiale vient de se terminer, la guerille civile entre nationaux et communistes est sur le point d’éclater, et la démocratie n’est pas encore pleinement opérationnelle. À l’époque, vingt ans était considéré comme un âge raisonnable pour l’« âge de la majorité », et par rapport aux normes similaires dans la plupart des pays à l’époque (les États-Unis, le Royaume-Uni et le Japon exigeaient alors 21 ans), il était même légèrement plus bas[^7].
 
-1. **Proposition par 1/4 des membres du Yuan législatif** (1/4 de 113 sièges = 29 sièges)
-2. **Présence de 3/4 des membres du Yuan législatif** (3/4 de 113 = 85 sièges)
-3. **Adoption par 3/4 des membres présents** (3/4 de 85 présents = 64 voix favorables ; si tous sont présents, 85 voix favorables)
-4. **Publication pendant six mois, puis soumission au référendum**
-5. **Majorité de la moitié du total des électeurs nationaux** (9,62 millions de voix en 2022)
-
-Le cinquième point est le véritable seuil dur. Le « total des électeurs » ne signifie pas « la moitié des votes exprimés », mais « **la moitié de la population ayant droit de vote dans tout le pays** » — en d'autres termes, **ceux qui ne votent pas équivalent à avoir voté « contre »**. Même avec un taux de participation de 100 %, plus de la moitié de l'ensemble des électeurs doit cocher « favorable » pour que ce soit adopté.
-
-À quel point ce seuil est-il élevé ? Comparaison avec l'élection présidentielle : en 2020, Tsai Ing-wen a été réélue avec 8,17 millions de voix, le score le plus élevé de l'histoire[^10] ; en 2024, Lai Ching-te a été élu avec 5,58 millions de voix, avec un score de 40,05 %[^11]. **Aucun président dans l'histoire de Taïwan n'a obtenu plus de voix que le seuil de 9,62 millions requis pour un projet de révision constitutionnelle.**
-
-Lorsque les délégués de l'Assemblée nationale de mission de 2005 ont conçu ce seuil, l'intention originale était que « la révision constitutionnelle devrait être ultra-difficile et ne pas être facilement exploitée par le parti majoritaire » — cette intention est compréhensible. Mais le résultat concret vingt ans plus tard est le suivant : **depuis le passage au référendum en 2005, la Constitution de Taïwan est de facto gelée**. Le référendum de 2022 sur le droit de vote à 18 ans a été la première tentative après la réforme, et reste à ce jour la seule.
+Il convient de noter que, depuis la rédaction de la Constitution jusqu’à la mise en œuvre concrète des élections à Taïwan après la guerre civile, **l’âge légal pour voter est resté à vingt ans, sans jamais être modifié**. On entend parfois l’idée reçue selon laquelle « auparavant, c’était 21 ans, et ensuite, cela a été changé à 20 ans » : cette idée ne correspond pas au texte constitutionnel. Il se peut que cette croyance provienne d’une confusion entre l’histoire locale de Taïwan et l’histoire des États-Unis, notamment l’adoption de la 26e amendement des États-Unis en 1971 (passant de 21 à 18 ans) [NEEDS-VERIFY origine de l’idée reçue 21→20].
 
 ---
 
-## Vingt ans d'appels : de 2005 à 2022
+## La barrière de 2005 : la réforme constitutionnelle devient extrêmement difficile
 
-L'abaissement de l'âge du droit de vote à 18 ans à Taïwan n'est pas une revendication apparue en 2022. En déroulant la chronologie, on peut constater au moins vingt ans d'accumulation :
+Pour comprendre pourquoi 5,64 millions de voix « pour » n’ont pas suffi en 2022, il faut remonter au 7 juin 2005 — le jour où l’Assemblée nationale de mission a adopté la septième révision des articles additionnels de la Constitution, accomplissant deux choses : **abolir l’Assemblée nationale et réformer la révision constitutionnelle par référendum**[^8].
 
-- **2005** : Deuxième année d'application de la Loi sur le référendum, les associations civiles « Fondation pour la jeunesse » et « Alliance 95 pour le travail des jeunes » commencent à discuter des seuils de participation politique des jeunes[^12]
-- **2014** : Après le [Mouvement des tournesols](/fr/society/sunflower-movement/), l'éveil de la conscience politique des jeunes générations fait du « droit de vote à 18 ans » une revendication commune des organisations de jeunesse transpartisanes[^13]
-- **2017** : Le Conseil national de développement du Yuan exécutif convoque une « Conférence nationale sur la vision de la jeunesse », dont l'une des conclusions est « recommander l'abaissement de l'âge du droit de vote à 18 ans »[^14]
-- **2018** : L'âge de la majorité civile est abaissé à 18 ans (modification de l'article 12 du Code civil), mais l'article 7 de la Loi sur le référendum abaisse simultanément l'âge du vote référendaire de 20 à 18 ans, créant un décalage institutionnel où « 18 ans permet de voter aux référendums mais pas aux élections présidentielles »[^15]
-- **2020** : Le Comité de révision constitutionnelle du Yuan législatif est établi pour discuter de la révision de l'article 130 de la Constitution
-- **25 mars 2022** : Le Comité de révision constitutionnelle du Yuan législatif adopte à l'unanimité (109 voix sur 109) la proposition de révision constitutionnelle sur le « droit de vote à 18 ans », établissant un rare record de consensus transpartisan dans l'histoire de la révision constitutionnelle taïwanaise[^16]
-- **26 novembre 2022** : Référendum de ratification constitutionnelle, 5,64 millions pour, 5,02 millions contre, seuil non atteint
+L’article 12 de la révision modifiée stipule :
 
-Il convient de noter particulièrement le vote parlementaire de mars 2022 à l'unanimité de 109 voix. Ce jour-là, les législateurs du Kuomintang, du Parti démocrate progressiste, du Parti populaire, du Nouveau pouvoir et les indépendants étaient tous présents et ont tous voté en faveur — il est presque impossible de trouver un second exemple de ce type dans le paysage politique du Yuan législatif taïwanais. **Le consensus transpartisan n'a pas manqué ; ce qui a manqué, c'est la mobilisation des électeurs lors de la phase de référendum.**
+> « La modification de la Constitution doit être proposée par un quart des députés au Parlement, obtenir les deux-tiers de la présence et les deux-tiers des députés présents, puis être soumise à un référendum d’approbation par les électeurs inscrits dans la zone libre de la République de Chine, après avoir été publiée pendant six mois. Elle est adoptée lorsque les voix « pour » valables dépassent la moitié des électeurs inscrits. »[^9]
 
----
+Cet article établit l’un des seuils de réforme constitutionnelle les plus élevés au monde :
 
-## Ce slogan : « payer des impôts, faire le service militaire, ne pas pouvoir voter »
+1. **Proposition par un quart des députés au Parlement** (1/4 de 113 sièges = 29 sièges)
+2. **Deux-tiers de la présence au Parlement** (2/3 de 113 sièges = 76 sièges)
+3. **Deux-tiers des députés présents** (2/3 des 76 sièges présents = 51 sièges « pour » ; si tous les députés sont présents, ce sont 76 sièges « pour »)
+4. **Publication six mois avant le référendum**
+5. **Majorité des électeurs inscrits** (9,62 millions de voix en 2022)
 
-Le point central du mouvement pour le droit de vote à 18 ans est une comparaison structurellement très simple :
+Le cinquième point est la véritable barrière. Le « seuil des électeurs inscrits » ne signifie pas « la majorité des voix exprimées », mais bien « **la moitié de la population électorale totale** » — autrement dit, **ceux qui ne votent pas équivalent à un vote « contre »**. Même si le taux de participation atteint 100 %, la moitié des électeurs inscrits doivent cocher « pour » pour que le projet soit adopté.
 
-> « Je paie des impôts, je dois faire le service militaire, mais je ne peux pas élire le président. »
+À quel point ce seuil est-il élevé ? Comparons-le aux élections présidentielles : en 2020, Tsai Ing-wen a remporté sa réélection avec 8,17 millions de voix, le record le plus élevé de l’histoire[^10] ; en 2024, Lai Ching-te a remporté l’élection avec 5,58 millions de voix, soit 40,05 % des voix[^11]. **Il n’y a jamais eu, dans l’histoire de Taïwan, un président dont le nombre de voix a dépassé le seuil de 9,62 millions de voix « pour » exigé par la réforme constitutionnelle.**
 
-Le Code civil de la République de Chine a abaissé l'âge de la majorité de 20 à 18 ans à partir de 2023[^17] — à 18 ans, on peut se marier, signer des contrats, assumer indépendamment des responsabilités civiles, faire le service militaire, assumer des responsabilités pénales, payer l'impôt sur le revenu, voter aux référendums (selon l'article 7 de la Loi sur le référendum), **mais on ne peut toujours pas voter pour le président, les législateurs ou les élections locales**.
-
-Ce décalage institutionnel est devenu le récit principal du mouvement en 2022. L'argument des partisans est le suivant : puisque toutes les autres obligations civiques commencent à 18 ans, il n'y a aucune raison que le droit de vote reste fixé à 20 ans. Les arguments des opposants se répartissent en trois catégories : (1) la maturité mentale à 18 ans est discutable, (2) le couplage du projet de révision constitutionnelle avec le référendum soulève des doutes procéduraux, (3) une fois abaissé, il pourrait être à nouveau abaissé à 16 ans.
-
-Les arguments des deux côtés ne sont pas ce que cet article cherche à juger — ce que cet article cherche à documenter, c'est la structure institutionnelle : **la majorité civile à 18 ans, le droit de vote référendaire à 18 ans, le droit de vote électoral bloqué à 20 ans — cette asymétrie est elle-même l'héritage de l'échec de la révision constitutionnelle.**
+Lorsque l’Assemblée nationale de mission a conçu ce seuil en 2005, l’intention était claire : « la réforme constitutionnelle devrait être extrêmement difficile, et ne devrait pas être facilement manipulée par un parti majoritaire ». Cette intention est compréhensible. Mais vingt ans plus tard, l’effet réel est le suivant : **depuis la réforme de 2005, la Constitution de Taïwan est pratiquement gelée**. Le référendum de 2022 sur les droits civiques à 18 ans est la première tentative depuis la réforme, et à ce jour, la seule.
 
 ---
 
-## Comparaison internationale : la position de Taïwan à vingt ans dans le contexte mondial
+## Vingt ans d’appels : de 2005 à 2022
 
-En élargissant la perspective à l'international, l'âge de vote de 20 ans à Taïwan est relativement minoritaire parmi les démocraties.
+Baisser l’âge légal pour voter à 18 ans n’est pas une idée nouvelle en 2022. En élargissant la perspective temporelle, on peut voir au moins vingt ans d’accumulation :
 
-### États-Unis : 26e amendement de 1971, motivé par la conscription du Vietnam
+- **2005** : Deuxième année d’application de la Loi sur les référendums, les organisations de la société civile « Jeunesse en plateau » et « Syndicat des jeunes travailleurs 95 » commencent à débattre des seuils d’âge pour la participation politique[^12]
+- **2014** : Après [太陽花學運](/fr/society/sunflower-movement/), la conscience politique des jeunes générations s’éveille, et « les droits civiques à 18 ans » deviennent une revendication partagée par des organisations de jeunesse transpartisanes[^13]
+- **2017** : Le Conseil national du développement administratif organise la « Conférence nationale sur la vision des jeunes », dont l’une des conclusions est « d’encourager la réduction de l’âge légal pour voter à 18 ans »[^14]
+- **2018** : L’âge de la majorité dans le Code civil est abaissé à 18 ans (modification de l’article 12 du Code civil), mais l’article 7 de la Loi sur les référendums abaisse également l’âge pour voter dans les référendums de 20 à 18 ans, créant un déséquilibre institutionnel : « il est possible de voter dans un référendum à 18 ans, mais pas dans les élections présidentielles ou locales »[^15]
+- **2020** : La commission de révision constitutionnelle du Parlement est créée, pour débattre de la modification de l’article 130
+- **25 mars 2022** : La commission de révision constitutionnelle du Parlement vote à l’unanimité (109 : 0) pour adopter le projet de réforme « droits civiques à 18 ans », établissant un record rare de consensus transpartisan dans l’histoire de la réforme constitutionnelle de Taïwan[^16]
+- **26 novembre 2022** : Référendum constitutionnel, 5,64 millions de « pour », 5,02 millions de « contre », sans atteindre le seuil
 
-Le 26e amendement de la Constitution américaine a été proposé par le Congrès le 23 mars 1971 et **a obtenu la ratification des trois quarts des États en trois mois et demi, entrant en vigueur le 1er juillet** — c'est l'amendement adopté le plus rapidement dans l'histoire des amendements constitutionnels américains[^18]. Le texte est simple :
-
-> « The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or any State on account of age. »
-
-La motivation venait de la guerre du Vietnam. Dans les années 1960, l'âge de la conscription dans l'armée américaine était de 18 ans, mais l'âge du vote était de 21 ans. « **Assez vieux pour se battre, assez vieux pour voter** » (« Old enough to fight, old enough to vote ») est devenu le slogan du mouvement. Lors de son adoption en 1971, la guerre du Vietnam était déjà en phase terminale, 58 000 soldats américains avaient péri, la plupart étant des conscrits de 18 à 20 ans[^19].
-
-### Royaume-Uni : Representation of the People Act de 1969
-
-Le Royaume-Uni a devancé les États-Unis en adoptant le Representation of the People Act de 1969, abaissant l'âge du vote de 21 à 18 ans[^20]. Cette loi n'a pas nécessité de révision constitutionnelle (le Royaume-Uni n'a pas de Constitution écrite) — elle a été adoptée par une majorité parlementaire, ce qui illustre la flexibilité de la souveraineté parlementaire.
-
-### Japon : réforme de la Loi sur les élections publiques de 2015, première révision en 70 ans
-
-Le 17 juin 2015 (27e année de l'ère Heisei), la « Loi portant réforme partielle de la Loi sur les élections publiques » (Loi n° 43 de la 27e année Heisei) a été adoptée en troisième lecture, **abaissant l'âge du droit de vote de 20 à 18 ans**[^21]. Entrée en vigueur le 19 juin 2016, l'élection du Sénat du 10 juillet 2016 est la première à laquelle la nouvelle règle s'est appliquée, ajoutant environ 2,4 millions de nouveaux électeurs de 18-19 ans à l'échelle nationale.
-
-Cette révision japonaise est la **première modification de l'âge électoral en 70 ans d'après-guerre** — de 1945 (20e année de l'ère Shōwa) où il avait été fixé à 20 ans, à 2015 où il a été abaissé à 18 ans. Le contexte de la révision était d'une part la réponse aux critiques sur la « démocratie argentée » (politique excessivement orientée vers les électeurs âgés), et d'autre part l'alignement avec l'amendement de 2014 à la Loi sur le référendum national (abaissant l'âge du référendum constitutionnel à 18 ans).
-
-### Corée du Sud : réforme de la Loi sur les élections publiques de 2020
-
-En décembre 2019, la Corée du Sud a adopté un amendement à la Loi sur les élections publiques, **abaissant l'âge du droit de vote de 19 à 18 ans**, entré en vigueur en janvier 2020[^22]. Cette révision était synchronisée avec l'élection des membres de l'Assemblée nationale d'avril 2020, ajoutant environ 530 000 nouveaux électeurs de 18 ans.
-
-Il est à noter que la Corée du Sud n'était qu'à 19 ans à l'origine (pas 20 ans comme Taïwan ou le Japon), ce qui en fait un rare pays en Asie à « compter à partir de 19 ans » — cet historique de 19 ans remonte aux lois électorales de la fondation de la République de Corée en 1948.
-
-### Tendance mondiale : 18 ans est déjà la norme dans les démocraties
-
-En compilant l'âge de vote des 38 pays de l'OCDE :
-
-- **18 ans** : 36 pays (États-Unis, Royaume-Uni, France, Allemagne, Canada, Australie, Nouvelle-Zélande, Japon, Corée du Sud, Pologne, République tchèque, la grande majorité des membres de l'UE)
-- **19 ans** : 0 pays (la Corée du Sud a abaissé en 2020)
-- **20 ans** : 1 pays (**Taïwan** — Taïwan n'étant pas membre de l'OCDE, il est listé ici à titre comparatif)
-- **16 ans** : Autriche au niveau national (depuis 2007), certains Länder allemands pour les élections locales, certains cas pour les élections locales en Écosse, Brésil (vote facultif à 16-17 ans)[^23]
-
-En d'autres termes : **les 20 ans de Taïwan constituent un cas isolé parmi les démocraties de niveau OCDE**. Même sans compter l'OCDE, en élargissant la perspective aux autres régimes démocratiques asiatiques (Japon, Corée du Sud, Indonésie, Philippines, Malaisie abaissé à 18 ans en 2019), 18 ans est la norme.
+Il convient de noter particulièrement le vote à l’unanimité de 109 sièges en mars 2022. Ce jour-là, tous les députés du Parti nationaliste chinois (KMT), du Parti démocrate progressiste (DPP), du Parti de l’ère (TFP), de l’Alliance de l’ère (TAF), et les députés indépendants ont participé et voté « pour » — un phénomène presque inédit dans la géographie politique de l’Assemblée du Parlement de Taïwan. **Le consensus transpartisan n’a pas manqué ; ce qui manque, c’est la mobilisation des électeurs lors de la phase du référendum.**
 
 ---
 
-## La controverse du couplage référendum-élections : une autre variable structurelle
+## Ce slogain : « payer ses impôts, faire le soldat, mais ne pas pouvoir voter »
 
-Le référendum de révision constitutionnelle du 26 novembre 2022 avait un autre contexte structurel souvent négligé : c'était le **dernier « référendum tenu le même jour qu'une élection »** pour une ratification constitutionnelle.
+Le point central du mouvement pour les droits civiques à 18 ans est une comparaison extrêmement simple :
 
-Après le vote de quatre référendums nationaux le 18 décembre 2021, le Yuan législatif a adopté un amendement à la Loi sur le référendum, **déconnectant de manière obligatoire les référendums des élections** — les référendums ordinaires doivent être organisés séparément des élections, à une date distincte[^24]. Mais le projet de révision constitutionnelle adopté en mars 2022 comportait une clause spéciale : **le référendum de ratification constitutionnel était couplé aux élections unifiées du 26 novembre 2022**, un compromis conçu par le Yuan législatif pour réduire les coûts et augmenter la participation.
+> « Je paie mes impôts, je fais le soldat, mais je ne peux pas choisir le président. »
 
-Cette conception a engendré deux contradictions :
+Le Code civil de la République de Chine a abaissé l’âge de la majorité de 20 à 18 ans à partir de 2023[^17] — à 18 ans, on peut se marier, signer des contrats, assumer des responsabilités civiles, servir dans l’armée, assumer des responsabilités pénales, payer des impôts sur le revenu, et voter dans les référendums (selon l’article 7 de la Loi sur les référendums), **mais pas voter aux élections présidentielles, législatives ou locales**.
 
-1. **Augmenter la participation** : en profitant de la dynamique des élections unifiées, le taux de participation global du 26/11 a atteint 59,86 %, bien supérieur au taux de 41 % du référendum isolé de décembre 2021
-2. **Diluer l'attention portée au référendum** : en entrant dans le bureau de vote, les électeurs se concentraient en priorité sur les neuf types d'élections, le dixième bulletin de révision constitutionnelle étant souvent perçu comme une « option accessoire », certains électeurs ignorant même l'existence de ce bulletin
+Ce déséquilibre institutionnel est devenu le récit principal du mouvement en 2022. Les arguments des partisans sont : puisque toutes les autres obligations civiles commencent à 18 ans, pourquoi le droit de vote resterait-il bloqué à 20 ans ? Les arguments des opposants se divisent en trois catégories : (1) la maturité mentale des 18 ans est discutable ; (2) le lien entre réforme constitutionnelle et référendum soulève des doutes sur la procédure ; (3) une fois l’âge abaissé, il pourrait être abaissi davantage, éventuellement à 16 ans.
 
-Les données finales révèlent une tension intéressante : **taux de participation non faible (59 %), taux d'approbation non faible (53 %), consensus transpartisan complet (109:0 au Yuan législatif) — mais seuil trop élevé (9,62 millions)**. Ces trois « non faibles » additionnés manquaient encore de 3,97 millions de voix favorables.
+Les arguments des deux côtés ne sont pas l’objet d’évaluation dans cet article — il s’agit ici de documenter la structure institutionnelle : le fait que l’âge de la majorité soit 18 ans, que le droit de vote dans les référendums soit 18 ans, mais que le droit de vote dans les élections reste à 20 ans, ce déséquilibre lui-même est le legs laissé par l’échec de la réforme.
 
 ---
 
-## Après l'échec de la révision constitutionnelle : le silence institutionnel
+## Comparaison internationale : la position de Taïwan dans le paysage mondial
 
-Le 27 novembre 2022, au lendemain de l'échec du référendum, les législateurs du Kuomintang et du Parti démocrate progressiste ont fait des déclarations globalement cohérentes sur les résultats. Les groupes parlementaires des deux partis ont publié des déclarations saluant le « consensus transpartisan », mais concernant les prochaines étapes, **aucun calendrier concret n'a été proposé**[^25].
+En élargissant le champ à l’international, l’âge de 20 ans pour le droit de vote est relativement rare parmi les pays démocratiques.
 
-De novembre 2022 à mai 2026, **le Yuan législatif n'a pas initié de nouveau projet de révision constitutionnelle**. Bien que les législateurs de différents partis aient mentionné à diverses reprises qu'« il convient de relancer la révision constitutionnelle sur le droit de vote à 18 ans », dans la pratique :
+### États-Unis : la 26e amendement de 1971, motivée par la guerre du Vietnam
 
-- Aucune nouvelle proposition de révision constitutionnelle n'a été soumise au Comité de révision constitutionnelle
-- Aucun nouveau vote de présence et d'adoption aux 3/4 du Yuan législatif n'a eu lieu
-- Aucun second référendum de ratification n'a été organisé
+L’amendement 26 de la Constitution des États-Unis a été proposé par le Congrès le 23 mars 1971, **approuvé par les trois quarts des États en à peine trois mois et demi, et entré en vigueur le 1er juillet** — c’est l’amendement le plus rapidement adopté dans l’histoire des États-Unis[^18]. Le texte est simple :
 
-En 2026, l'âge du droit de vote à Taïwan est toujours de 20 ans. La mention « ayant atteint l'âge de vingt ans » de l'article 130 de la Constitution n'a pas bougé. **Soixante-dix-neuf ans depuis la promulgation de la Constitution.**
+> « Le droit de vote des citoyens des États-Unis qui ont au moins dix-huit ans ne peut être refusé ou restreint par les États-Unis ou par tout État en raison de l’âge. »
 
-La fréquence de révision constitutionnelle dans les démocraties n'est généralement pas élevée (il est de notoriété publique constitutionnelle que la révision devrait être difficile), mais « **un seuil trop élevé conduisant à un gel de facto** » est une autre question. Zéro révision constitutionnelle réussie à Taïwan en 21 ans depuis 2005 — ce chiffre est lui-même l'une des conséquences de la conception institutionnelle.
+Le moteur de cette réforme est la guerre du Vietnam. Dans les années 1960, l’âge minimum pour être conscrit dans l’armée était de 18 ans, mais l’âge minimum pour voter était de 21 ans. Le slogan « **Assez âgé pour combattre, assez âgé pour voter** » (« Old enough to fight, old enough to vote ») est devenu le cri de ralliement du mouvement[^19].
+
+### Royaume-Uni : la Loi sur la représentation du peuple de 1969
+
+Le Royaume-Uni a abaissé l’âge de vote de 21 à 18 ans avant les États-Unis, en 1969, grâce à la Loi sur la représentation du peuple (Representation of the People Act 1969)[^20]. Cette loi n’a pas nécessité de révision constitutionnelle (le Royaume-Uni n’a pas de constitution écrite), mais a simplement été adoptée par la majorité parlementaire — c’est ainsi que fonctionne la souveraineté parlementaire.
+
+### Japon : la réforme de la loi électorale en 2015, la première en 70 ans
+
+Le 17 juin 2015 (année 27 de l’ère Heise), la Loi sur les élections pour les postes publics a été révisée pour la troisième lecture, **abaissant l’âge de vote de 20 à 18 ans**[^21]. Entrée en vigueur le 19 juin 2016, elle a été appliquée pour la première fois lors des élections sénatoriales de juillet 2016, ajoutant environ 2,4 millions de nouveaux électeurs âgés de 18 à 19 ans dans tout le pays.
+
+Cette réforme au Japon est **la première modification de l’âge de vote depuis la fondation de la République de Chine en 1945** — l’âge de 20 ans avait été fixé en 1945 (année 20 de l’ère Showa), et abaissé à 18 ans en 2015. Les motivations derrière cette réforme sont doubles : d’une part, répondre aux critiques selon que les politiques sont trop orientées vers les électeurs âgés (« démocratie des sénateurs »), et d’autre part, s’aligner sur la réforme de la Loi sur les référendums nationaux de 2014 (abaissant l’âge de vote dans les référendums à 18 ans).
+
+### Corée du Sud : réforme de la loi électorale en 2020
+
+La Corée du Sud a adopté une réforme de la Loi sur les élections pour les postes publics en décembre 2019, **abaissant l’âge de vote de 19 à 18 ans**, entrée en vigueur en janvier 2020[^22]. Cette réforme a été appliquée pour les élections législatives de avril 2020, ajoutant environ 530 000 nouveaux électeurs de 18 ans.
+
+Il convient de noter que la Corée du Sud n’avait que 19 ans (et non 20 comme Taïwan ou le Japon), ce qui la rend l’un des rares pays d’Asie de l’Est à commencer le droit de vote à 19 ans — cette pratique remonte à la fondation de la République de Corée en 1948.
+
+### Tendance mondiale : 18 ans est la norme dans les pays démocratiques
+
+En résumé des données des 38 pays de l’OCDE :
+
+- **18 ans** : 36 pays (États-Unis, Royaume-Uni, France, Allemagne, Canada, Australie, Nouvelle-Zélande, Japon, Corée du Sud, Pologne, République tchèque, presque tous les membres de l’UE)
+- **19 ans** : 0 pays (la Corée du Sud a déjà abaissé à 18 ans)
+- **20 ans** : 1 pays (**Taïwan** — bien sûr, Taïwan n’est pas membre de l’OCDE, elle est listée ici à titre de comparaison)
+- **16 ans** : l’Autriche (depuis 2007), certaines élections locales en Allemagne, certaines élections locales en Écosse, le Brésil (optionnel pour 16-17 ans)[^23]
+
+Autrement dit : **Taïwan est un cas isolé parmi les pays démocratiques de niveau OCDE**. Même si l’on élargit le champ à d’autres pays démocratiques en Asie (Japon, Corée du Sud, Indonésie, Philippines, Malaisie qui a changé à 18 ans en 2019), 18 ans reste la norme.
+
+---
+
+## La controverse du référendum lié aux élections : une autre variable structurelle
+
+Un autre contexte structurel souvent négligé lors du référendum constitutionnel du 26 novembre 2022 : c’était **la dernière fois que Taïwan tiendrait un référendum lié à une élection générale**.
+
+Après le référendum national du 18 décembre 2021, le Parlement a adopté une révision de la Loi sur les référendums, **séparant strictement les référendums des élections** — les référendums ordinaires doivent être organisés à une date distincte des élections[^24]. Cependant, le projet de réforme constitutionnelle adopté en mars 2022 contenait une disposition spéciale : **le référendum constitutionnel devait être lié à l’élection unie du 26 novembre 2022**, une mesure prise par le Parlement pour réduire les coûts et augmenter le taux de participation.
+
+Cette mesure a généré deux contradictions :
+
+1. **Augmenter le taux de participation** : en profitant de l’élection unie, le taux de participation global le 26 novembre atteignait 59,86 %, bien au-dessus des 41 % de participation lors du référendum ordinaire de décembre 2021.
+2. **Diluer l’attention sur le référendum** : les électeurs, en se rendant aux bureaux de vote, se concentraient prioritairement sur les neuf types de postes électoraux, et le dixième bulletin (le référendum constitutionnel) était souvent traité comme une « option supplémentaire ». Certains électeurs ne savaient même pas qu’ils avaient ce bulletin.
+
+Les données finales révèlent une tension intéressante : **le taux de participation n’est pas bas (59 %), le taux de « pour » n’est pas bas (53 %), le consensus transpartisan est complet (109 : 0 à l’Assemblée) — mais le seuil est trop élevé (96,2 millions)**. Ces trois « pas bas » additionnés ne suffisent toujours pas : il manque 3,97 millions de voix « pour ».
+
+---
+
+## Après l’échec du référendum : le silence des institutions
+
+Le 27 novembre 2022, le lendemain de l’échec du référendum, les députés de tous les partis ont réagi de manière similaire au résultat. Le groupe du Parti nationaliste chinois (KMT) et le groupe du Parti démocrate progressiste (DPP) ont tous deux publié des déclarations saluant le « consensus transpartisan », mais **aucun n’a fourni de calendrier concret pour la prochaine étape**[^25].
+
+De novembre 2022 à mai 2026, **aucun nouveau projet de réforme constitutionnelle n’a été lancé à l’Assemblée**. Bien que des députés de différents partis aient mentionné à diverses occasions qu’il fallait « relancer la réforme constitutionnelle pour les droits civiques à 18 ans », en pratique :
+
+- Aucun nouveau projet de réforme n’a été soumis à la commission de révision constitutionnelle
+- Aucun vote à l’Assemblée n’a eu lieu avec deux-tiers de présence et deux-tiers d’approbation
+- Aucun second référendum n’a eu lieu
+
+En 2026, aujourd’hui, l’âge légal pour voter à Taïwan est toujours de 20 ans. L’article 130 de la Constitution, qui stipule « dès l’âge de vingt ans », n’a pas été modifié. **Depuis la rédaction de la Constitution, soixante-dix-neuf ans se sont écoulés.**
+
+La fréquence des réformes constitutionnelles dans les pays démocratiques est généralement basse (il est normal que la réforme constitutionnelle soit difficile, c’est une connaissance courante en science politique), mais le fait que **« un seuil trop élevé entraîne un gel effectif »** est une autre question. En 21 ans, depuis la réforme de 2005, Taïwan n’a connu aucune réforme constitutionnelle réussie — ce chiffre lui-même est le résultat d’un design institutionnel.
 
 ---
 
 ## Pourquoi ce chiffre est important
 
-En élargissant encore la perspective, dans les récits de la [démocratisation](/fr/history/taiwan-democratization-history/) et de la [transition démocratique taïwanaise](/fr/history/taiwan-democratization/), le seuil du droit de vote est souvent traité comme une « question formelle » — moins visible que l'équité électorale, l'alternance politique ou la liberté de la presse. Mais ce seuil d'âge touche à la **définition fondamentale de « qui est citoyen »** :
+En élargissant encore le champ, dans les récits de [民主化](/fr/history/taiwan-democratization-history/) et de [台灣民主轉型](/fr/history/taiwan-democratization/), le seuil d’âge pour voter est souvent traité comme une « question formelle » — contrairement à l’égalité des droits de vote, la rotation des partis, ou la liberté de la presse, il ne suscite pas beaucoup d’intérêt. Mais ce seuil d’âge touche à **la définition fondamentale de « qui est un citoyen »** :
 
-- Le seuil de 20 ans signifie que la société taïwanaise considère par défaut que les jeunes de 18-19 ans « **ne sont pas encore des citoyens politiques à part entière** »
-- Or ces mêmes personnes sont **déjà des sujets de responsabilité civile à part entière, des sujets de responsabilité pénale, des contribuables, des assujettis au service militaire**
-- Cet écart n'affecte pas la vie quotidienne, mais est remis en lumière à chaque année électorale (élection présidentielle tous les quatre ans, élections unifiées tous les quatre ans)
+- Un seuil de 20 ans implique que la société taïwanaise considère implicitement que les jeunes de 18 à 19 ans ne sont pas encore des « citoyens politiques complets »
+- Pourtant, ces personnes **sont déjà des sujets civils complets, des sujets pénaux complets, des contribuables, et des personnes soumises à l’obligation militaire**
+- Cette incohérence n’affecte pas la vie quotidienne, mais chaque année électorale (les élections présidentielles tous les quatre ans, les élections unies tous les quatre ans) la révèle à nouveau
 
-En novembre 2026 se tiendront les prochaines élections unifiées. Si le Yuan législatif n'a pas relancé la procédure de révision constitutionnelle d'ici là, les jeunes de 18-19 ans en 2026 (nés en 2007-2008) ne pourront toujours pas voter — ils devront attendre 2028 (élection présidentielle) ou 2030 (prochaines élections unifiées) pour obtenir le droit de vote. Parmi ces jeunes, beaucoup étaient encore à l'école primaire lors du [Mouvement des tournesols](/fr/society/sunflower-movement/) en 2014 ; quand ils auront l'âge de voter, le mouvement aura déjà 14 ans.
+Les élections unies de novembre 2026 approchent. Si l’Assemblée ne relance pas la procédure de réforme constitutionnelle d’ici là, les jeunes de 18 à 19 ans en 2026 (nés entre 2007 et 2008) ne pourront toujours pas voter — ils devront attendre les élections présidentielles de 2028 ou les prochaines élections unies en 2030 pour obtenir le droit de vote. Parmi ces jeunes, beaucoup étaient encore en primaire en 2014 lors de [太陽花學運](/fr/society/sunflower-movement/) ; quand ils seront enfin suffisamment âgés pour voter, le mouvement de printemps de l’école a déjà une quinzaine d’années.
 
-L'échelle de temps des institutions démocratiques est plus longue qu'une génération. Les 20 ans fixés lors de la promulgation de la Constitution en 1947 affectent aujourd'hui la génération née en 2007. **L'année à partir de laquelle cette ligne pourra être abaissée n'a pas encore de réponse.**
+L’échelle de temps des institutions démocratiques est plus longue que celle d’une génération. L’âge de 20 ans fixé en 1947 influence aujourd’hui les jeunes nés en 2007. **Il n’y a pas encore de réponse à la question de l’année à partir de laquelle cet âge pourra être abaissé.**
 
 ---
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- Élections unifiées (九合一選舉是什麼) : origine du système d'élections locales à neuf types de postes qui se tiendra en novembre 2026
-- Élections unifiées 2026 (2026 九合一選舉) : calendrier, nominations et suivi des enjeux de ces élections
-- [Mouvement des tournesols](/fr/society/sunflower-movement/) : l'événement emblématique de l'éveil de la conscience politique des jeunes générations en 2014
-- [Démocratisation](/fr/history/taiwan-democratization-history/) : la structure à long terme de la démocratisation de Taïwan d'après-guerre
-- [Transition démocratique taïwanaise](/fr/history/taiwan-democratization/) : la transition institutionnelle de l'autoritarisme à la démocratie
-- Portail politique : panorama des connaissances sur le système politique taïwanais
+- [九合一選舉是什麼](/fr/politics/nine-in-one-elections-explained) : origine institutionnelle des élections unies à neuf postes, à voter en novembre 2026
+- [2026 九合一選舉](/politics/2026 九合一選舉) : calendrier, candidatures et suivi des enjeux de cette élection
+- [太陽花學運](/fr/society/sunflower-movement) : événement marquant de la prise de conscience politique des jeunes générations en 2014
+- [民主化](/fr/history/taiwan-democratization-history) : structure à long terme de la démocratisation de Taïwan après la guerre civile
+- [台灣民主轉型](/fr/history/taiwan-democratization) : transformation institutionnelle de l’autorité à la démocratie
+- [政治 Hub](/politics) : aperçu des connaissances sur les institutions politiques de Taïwan
 
 ---
 
 ## Notes de bas de page
 
-[^1]: [Commission électorale centrale — Statistiques des bureaux de vote et de dépouillement pour l'élection des responsables locaux du 26 novembre 111](https://www.cec.gov.tw/) — Annonce du nombre de bureaux de vote à l'échelle nationale pour les élections unifiées de 2022
+[^1]: [Commission électorale nationale — Statistiques des bureaux de vote pour les élections des fonctionnaires locaux le 26 novembre 2022](https://www.cec.gov.tw/) — annonce du nombre total de bureaux de vote lors des élections unies de 2022
 
-[^2]: [Wikipédia — Amendement constitutionnel de la République de Chine de 2022](https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88) — Premier projet de révision constitutionnelle ayant parcouru l'ensemble de la procédure de référendum de ratification après la septième révision constitutionnelle de 2005
+[^2]: [Wikipedia — Projet de révision constitutionnelle de 2022 de la République de Chine](https://zh.wikipedia.org/wiki/2022%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88) — le premier projet de réforme constitutionnelle à suivre l’ensemble du processus de référendum depuis la réforme de 2005
 
-[^3]: [Agence centrale de presse — Le projet de révision constitutionnelle sur le droit de vote à 18 ans n'a pas été adopté, seulement 5,64 millions de voix favorables, seuil non atteint](https://www.cna.com.tw/news/aipl/202211265010.aspx) — Annonce de la CEC du 26/11/2022 : 5 647 102 pour, 5 016 427 contre, taux de participation 59,10 %
+[^3]: [Agence centrale de presse — Le référendum constitutionnel sur les droits civiques à 18 ans échoue, avec seulement 5,64 millions de voix « pour »](https://www.cna.com.tw/news/aipl/202211265010.aspx) — annonce de la Commission électorale nationale le 26 novembre 2022 : 5 647 102 « pour », 5 016 427 « contre », taux de participation 59,10 %
 
-[^4]: [The Reporter — Le référendum de révision constitutionnelle sur le droit de vote à 18 ans n'a pas été adopté, il manquait 3,97 millions de voix](https://www.twreporter.org/a/2022-referendum-on-lowering-voting-age-to-18-result) — Le seuil du référendum de ratification était de 9 619 697 voix (moitié du total des électeurs), les voix favorables manquaient de 3,97 millions
+[^4]: [Reporters de Taïwan — Le référendum constitutionnel sur les droits civiques à 18 ans échoue, manquant de 3,97 millions de voix](https://www.twreporter.org/a/2022-referendum-on-lowering-voting-age-to-18-result) — le seuil du référendum est la majorité des électeurs inscrits, soit 9 619 697 voix, et les voix « pour » manquent de 3,97 millions
 
-[^5]: [Base de données des lois nationales — Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — Adoptée par l'Assemblée nationale constituante le 25/12/1946, promulguée le 01/01/1947, entrée en vigueur le 25/12/1947
+[^5]: [Base de données juridique nationale — Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — adoptée par l’Assemblée constituante le 25 décembre 1946, publiée le 1er janvier 1947, mise en application le 25 décembre 1947
 
-[^6]: [Base de données des lois nationales — Article 130 de la Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=130) — Texte original : « Tout citoyen de la République de Chine ayant atteint l'âge de vingt ans a le droit de vote conformément à la loi »
+[^6]: [Base de données juridique nationale — Article 130 de la Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=130) — texte original : « Les nationaux de la République de Chine qui ont atteint l’âge de vingt ans ont le droit de vote selon les lois »
 
-[^7]: [Yuan législatif — Étude juridique sur l'abaissement de l'âge du droit de vote en République de Chine](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=191753) — Étude du Bureau juridique du Yuan législatif sur l'évolution historique et la comparaison internationale de l'âge du droit de vote
+[^7]: [Assemblée législative — Analyse juridique de la réduction de l’âge de vote](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=191753) — recherche de l’Assemblée législative sur l’évolution historique de l’âge de vote et les comparaisons internationales
 
-[^8]: [Wikipédia — Articles additionnels de la Constitution de la République de Chine](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95%E5%A2%9E%E4%BF%AE%E6%A2%9D%E6%96%87) — La septième révision constitutionnelle de 2005 a aboli l'Assemblée nationale et adopté le référendum pour la révision constitutionnelle
+[^8]: [Wikipedia — Articles additionnels de la Constitution de la République de Chine](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95%E5%A2%9E%E4%BF%AE%E6%A2%9D%E6%96%87) — septième révision constitutionnelle de 2005, suppression de l’Assemblée nationale, réforme de la révision constitutionnelle par référendum
 
-[^9]: [Base de données des lois nationales — Article 12 des Articles additionnels de la Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=A0000002) — Procédure de révision constitutionnelle : « proposition d'un quart, présence de trois quarts, adoption par les trois quarts des présents + référendum de ratification par la moitié des électeurs »
+[^9]: [Base de données juridique nationale — Article 12 des articles additionnels de la Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=A0000002) — procédure de révision constitutionnelle : « un quart des députés proposent, deux-tiers de la présence, deux-tiers des députés présents décident + référendum d’approbation par la majorité des électeurs inscrits »
 
-[^10]: [Commission électorale centrale — Nombre de voix des candidats à la 15e élection présidentielle et vice-présidentielle](https://web.cec.gov.tw/) — Tsai Ing-wen a obtenu 8,17 millions de voix en 2020, record historique de voix présidentielles
+[^10]: [Commission électorale nationale — Résultats des élections présidentielles et vice-présidentielles de la 15e session](https://web.cec.gov.tw/) — Tsai Ing-wen a obtenu 8,17 millions de voix en 2020, le record le plus élevé de l’histoire
 
-[^11]: [Commission électorale centrale — Résultats de la 16e élection présidentielle et vice-présidentielle](https://web.cec.gov.tw/) — Lai Ching-te a obtenu 5,58 millions de voix en 2024, avec un score de 40,05 %
+[^11]: [Commission électorale nationale — Résultats des élections présidentielles et vice-présidentielles de la 16e session](https://web.cec.gov.tw/) — Lai Ching-te a obtenu 5,58 millions de voix en 2024, soit 40,05 % des voix
 
-[^12]: [Conseil national de développement — Rapport de conclusions de la Conférence nationale sur la vision de la jeunesse](https://www.ndc.gov.tw/) — La Conférence nationale sur la vision de la jeunesse de 2017 a recommandé l'abaissement de l'âge du droit de vote à 18 ans [NEEDS-VERIFY URL spécifique du rapport]
+[^12]: [Conseil national du développement — Rapport des conclusions de la conférence nationale sur la vision des jeunes](https://www.ndc.gov.tw/) — la conférence de 2017 a recommandé de réduire l’âge de vote à 18 ans [NEEDS-VERIFY URL exact du rapport]
 
-[^13]: [Wikipédia — Mouvement des tournesols](https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B) — L'événement emblématique de l'éveil de la conscience politique de participation des jeunes générations en 2014
+[^13]: [Wikipedia — Mouvement de printemps de l’école](https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B) — événement marquant de la prise de conscience politique des jeunes générations en 2014
 
-[^14]: [The Reporter — Le référendum de révision constitutionnelle sur le droit de vote à 18 ans n'a pas été adopté, il manquait 3,97 millions de voix](https://www.twreporter.org/a/2022-referendum-on-lowering-voting-age-to-18-result) — Chronologie du mouvement de vingt ans de 2005 à 2022
+[^14]: [Reporters de Taïwan — Le référendum constitutionnel sur les droits civiques à 18 ans échoue, manquant de 3,97 millions de voix](https://www.twreporter.org/a/2022-referendum-on-lowering-voting-age-to-18-result) — résumé des vingt ans de mouvement de 2005 à 2022
 
-[^15]: [Base de données des lois nationales — Article 7 de la Loi sur le référendum](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020050) — La révision de la Loi sur le référendum de 2018 a abaissé l'âge du vote référendaire à 18 ans, et la majorité civile a également été abaissée à 18 ans (entrée en vigueur en 2023)
+[^15]: [Base de données juridique nationale — Loi sur les référendums, article 7](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020050) — en 2018, la loi a abaissé l’âge de vote dans les référendums à 18 ans, et l’âge de la majorité dans le Code civil a également été abaissé à 18 ans (entré en vigueur en 2023)
 
-[^16]: [Commercial Times — Les 109 législateurs votent à l'unanimité pour l'inscription du droit de vote à 18 ans dans la Constitution](https://ctee.com.tw/news/policy/616371.html) — Le 25/03/2022, le Comité de révision constitutionnelle du Yuan législatif a adopté à l'unanimité (109:0) la proposition de révision constitutionnelle sur le droit de vote à 18 ans
+[^16]: [Journal du commerce — Les 109 députés de l’Assemblée législative votent à l’unanimité pour les droits civiques à 18 ans](https://ctee.com.tw/news/policy/616371.html) — le 25 mars 2022, la commission de révision constitutionnelle a voté à l’unanimité (109 : 0) pour adopter le projet de réforme des droits civiques à 18 ans
 
-[^17]: [Base de données des lois nationales — Article 12 du Code civil de la République de Chine](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=12) — L'âge de la majorité civile est passé de 20 à 18 ans, entré en vigueur le 01/01/2023
+[^17]: [Base de données juridique nationale — Article 12 du Code civil de la République de Chine](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=12) — l’âge de la majorité dans le Code civil a été abaissé de 20 à 18 ans, entré en vigueur le 1er janvier 2023
 
-[^18]: [Constitution Center — 26th Amendment Right to Vote at Age 18](https://constitutioncenter.org/the-constitution/amendments/amendment-xxvi) — Le 26e amendement américain proposé le 23/03/1971, entré en vigueur le 01/07/1971, amendement adopté le plus rapidement de l'histoire
+[^18]: [Centre constitutionnel — Le droit de vote à 18 ans : 26e amendement](https://constitutioncenter.org/the-constitution/amendments/amendment-xxvi) — le 26e amendement des États-Unis a été proposé le 23 mars 1971, entré en vigueur le 1er juillet 1971, l’amendement le plus rapidement adopté de l’histoire
 
-[^19]: [National WWII Museum — Old Enough to Fight, Old Enough to Vote](https://www.nationalww2museum.org/war/articles/voting-age-26th-amendment) — L'origine du slogan du mouvement « assez vieux pour se battre, assez vieux pour voter » à l'époque de la guerre du Vietnam
+[^19]: [Musée national de la Seconde Guerre mondiale — Assez âgé pour combattre, assez âgé pour voter](https://www.nationalww2museum.org/war/articles/voting-age-26th-amendment) — origine du slogan du mouvement pendant la guerre du Vietnam
 
-[^20]: [UK Parliament — Representation of the People Act 1969](https://www.parliament.uk/) — Le Royaume-Uni a abaissé l'âge du vote de 21 à 18 ans en 1969, sans nécessiter de révision constitutionnelle
+[^20]: [Parlement britannique — Loi sur la représentation du peuple de 1969](https://www.parliament.uk/) — le Royaume-Uni a abaissé l’âge de vote de 21 à 18 ans en 1969, sans révision constitutionnelle, par une simple loi parlementaire
 
-[^21]: [Xinhua — Le Parlement japonais adopte l'amendement à la Loi sur les élections publiques](http://www.xinhuanet.com/world/2015-06/17/c_1115646470.htm) — Adopté en troisième lecture le 17/06/2015 (27e année Heisei), entré en vigueur le 19/06/2016, première révision en 70 ans d'après-guerre
+[^21]: [Xinhua Net — Le Japon a adopté une révision de la loi électorale pour les postes publics](http://www.xinhuanet.com/world/2015-06/17/c_1115646470.htm) — le 17 juin 2015 (année 27 de l’ère Heise), troisième lecture adoptée, entrée en vigueur le 19 juin 2016, première modification de l’âge de vote depuis 1945
 
-[^22]: [The Reporter — Hsu Jen-shuo / Quand le droit de vote à 18 ans tombe du ciel](https://www.twreporter.org/a/opinion-lower-voting-age-to-18-japan-expenrience) — La Corée du Sud a amendé la Loi sur les élections publiques en décembre 2019, abaissant l'âge du droit de vote de 19 à 18 ans
+[^22]: [Reporters de Taïwan — Par Kuo-tzu-hsuan : quand les droits civiques à 18 ans descendent du ciel](https://www.twreporter.org/a/opinion-lower-voting-age-to-18-japan-expenrience) — en décembre 2019, la Corée du Sud a révisé la loi électorale pour les postes publics, abaissant l’âge de vote de 19 à 18 ans
 
-[^23]: [Wikipedia — Voting age by country](https://en.wikipedia.org/wiki/Voting_age) — Statistiques sur l'âge de vote dans les 38 pays de l'OCDE : 36 pays à 18 ans, Autriche à 16 ans, Taïwan comme cas isolé à 20 ans
+[^23]: [Wikipedia — Âge légal pour voter par pays](https://en.wikipedia.org/wiki/Voting_age) — statistiques des 38 pays de l’OCDE : 36 pays à 18 ans, l’Autriche à 16 ans, Taïwan comme cas isolé à 20 ans
 
-[^24]: [Base de données des lois nationales — Révision de la Loi sur le référendum de 2021](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020050) — La révision de la Loi sur le référendum de 2021 a déconnecté de manière obligatoire les référendums des élections, mais les référendums de ratification constitutionnelle peuvent être couplés au jour des élections
+[^24]: [Base de données juridique nationale — Révision de la Loi sur les référendums de 2021](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020050) — en 2021, la loi a séparé strictement les référendums des élections, mais les référendums constitutionnels restent liés aux jours d’élection
 
-[^25]: [Agence centrale de presse — Le projet de révision constitutionnelle sur le droit de vote à 18 ans n'a pas été adopté](https://www.cna.com.tw/news/aipl/202211265010.aspx) — Réponses des législateurs du Kuomintang et du Parti démocrate progressiste à l'échec de la révision constitutionnelle le 27/11/2022, sans calendrier concret pour les prochaines étapes
+[^25]: [Agence centrale de presse — Le référendum constitutionnel sur les droits civiques à 18 ans échoue](https://www.cna.com.tw/news/aipl/202211265010.aspx) — réactions des députés de tous les partis le 27 novembre 2022, sans calendrier concret pour la prochaine étape
 
 ---
 
-_Cet article fait partie de la série électorale 2026, article institutionnel permanent de niveau 1.1, respectant le principe de symétrie (pas de tendance partisane, seulement l'évolution institutionnelle) + niveau institutionnel principal (pas de contenu au niveau des candidats) + auto-application des trois filtres (MANIFESTO § limites de l'autonomie / REFLEXES #16 vérification multi-sources / classification en cinq catégories). Dernière date de vérification : 2026-05-27._
+_Article de la série électorale 2026, niveau 1.1, article éternel. Conforme au principe de symétrie (ne pas prendre parti, se concentrer uniquement sur l’évolution institutionnelle) + au niveau institutionnel (ne pas se concentrer sur les candidats) + aux trois filtres d’auto-évaluation (MANIFESTO § frontières d’autodétermination / REFLEXES #16 vérification croisée / cinq catégories)._ Dernière vérification : 27 mai 2026.\_

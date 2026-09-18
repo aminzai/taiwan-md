@@ -4,26 +4,27 @@ description: "Chaque répression engendre davantage de résistants. De 228 à la
 date: 2026-03-24
 category: 'History'
 tags:
-  - 'démocratie'
-  - 'justice transitionnelle'
-  - 'histoire politique'
-  - "droits de l'homme"
-  - 'mouvements sociaux'
+  [
+    'démocratie',
+    'justice transitionnelle',
+    'histoire politique',
+    "droits de l'homme",
+    'mouvements sociaux',
+  ]
 subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07
 lastHumanReview: true
 sporeLinks:
-  - id: 10
-    platform: 'threads'
-    date: '2026-04-07'
-    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
-translatedFrom: History/台灣民主轉型.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:85252455c0ed43e6'
-sourceBodyHash: 'sha256:5c7fc1f11ad28097'
-translatedAt: 2026-06-10T16:45:50Z
+  [
+    "{'id': 10, 'platform': 'threads', 'date': '2026-04-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'}",
+  ]
+translatedFrom: 'History/台灣民主轉型.md'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:a9330a2eb23d9c97'
+sourceBodyHash: 'sha256:20dd14ee57321b53'
+translatedAt: '2026-09-18T19:39:26.942707+00:00'
 ---
 
 # Transformation démocratique de Taïwan – La tombe que le régime autoritaire s'est creusée lui-même
@@ -153,35 +154,38 @@ Le 24 mai, le premier jour d’application, 526 couples de même sexe s’inscri
 
 Cet événement dépasse le cadre du mariage. Il montre que la démocratie taïwanaise ne se limite pas à la règle de la majorité, mais qu’elle protège les droits des minorités, même lorsque la majorité, via référendum, vote contre. Passer d’une interdiction totale de l’homosexualité sous la loi martiale à la première légalisation en Asie a pris plus de trente ans.
 
-## La course sur le tapis roulant
+## La liberté sur le tapis roulant
 
-Freedom House, rapport 2024 : Taïwan obtient 94/100, deuxième en Asie, septième dans le monde. [^16] L’Indice de démocratie économique 2024 : premier en Asie, douzième au niveau mondial. [^17]
+Rapport Freedom House 2024 : Taïwan 94 points (sur 100), deuxième en Asie, septième mondial.[^16] Indice de démocratie de l'Economist 2024 : premier en Asie, douzième mondial.[^17]
 
-Les chiffres sont impressionnants. Les défis le sont tout autant. La guerre de l’information en provenance de Chine s’intensifie, les réseaux sociaux aggravent la polarisation politique, la participation électorale des jeunes diminue. Le Comité pour la justice transformatrice, qui a achevé sa mission en 2022, n’a pas encore totalement ouvert les archives politiques, la responsabilité des auteurs reste quasi inexistante, et le débat autour du mémorial de Chiang‑Kai‑shek demeure non résolu. [^18]
+Les chiffres sont flatteurs. Les défis sont bien réels. La guerre informationnelle en provenance de Chine s'intensifie, les réseaux sociaux exacerbent la polarisation politique, la participation électorale des jeunes baisse. Le Comité pour la justice transformatrice a achevé sa mission en 2022, mais les archives politiques ne sont pas encore entièrement ouvertes, la responsabilité des auteurs n'a presque pas été poursuivie, et la controverse sur la transformation du Mémorial Chiang Kai-shek reste en suspens.[^18]
 
-> **⚠️ Point de vue controversé**  
-> La place de Chiang Ching‑kuo dans l’histoire reste l’un des sujets les plus polarisés de la société taïwanaise. Ses partisans voient la levée de la loi martiale comme un cadeau. Ses détracteurs soulignent qu’il a dirigé le système de sécurité pendant la Terreur blanche, et que la levée fut le résultat d’une pression interne et externe. Les deux récits reposent sur des faits ; le choix de mettre l’accent sur l’un ou l’autre constitue déjà une position politique.
+> **⚠️ Point de vue controversé**
+> La place de Chiang Ching-kuo dans l'histoire reste l'un des sujets les plus clivants de la société taïwanaise. Ses partisans voient la levée de la loi martiale comme sa bienfaisance. Ses détracteurs soulignent qu'il a dirigé le système de renseignement pendant la Terreur blanche, et que la levée de la loi martiale n'était qu'un calcul forcé par les pressions internes et externes. Ces deux narratifs reposent sur des faits, mais le choix de l'un ou l'autre constitue en soi une prise de position politique.
 
-La démocratie n’est pas un trophée, c’est un tapis roulant. Si vous vous arrêtez, il recule.
+La démocratie n'est pas un trophée, c'est un tapis roulant. Dès que vous vous arrêtez, elle recule.
 
-En 1980, Chen Ju, alors âgée de vingt‑neuf ans, écrivit une lettre d’adieu en prison, disant adieu à la Taïwan qu’elle aimait. Elle cita la lettre de Paul : « Le bon combat que j’ai déjà mené. »[^19] Elle ne fut pas exécutée, mais purgea six ans de prison. Après sa libération, elle contribua à fonder le DPP, devint directrice du Service social de Taipei, présidente du Comité du travail, puis maire de Kaohsiung pendant douze ans. En 2020, elle fut nommée présidente du Contrôle administratif.
+En 1980, Chen Ju, âgée de vingt-neuf ans, écrit son testament en prison, faisant ses adieux à la Taïwan qu'elle aime profondément. Elle cite l'épître de Paul : « J'ai combattu le bon combat. »[^19]
 
-Même personne, même île. La seule différence : en 1979, ses idées étaient considérées comme criminelles. En 2020, cette ancienne prisonnière politique était chargée d’enquêter sur les éventuels crimes du gouvernement.
+Elle n'a pas été fusillée. Elle a purgé six ans de prison. Après sa libération, elle a contribué à fonder le DPP (Parti démocrate progressiste), a été directrice du Bureau des affaires sociales de Taipei, ministre du Conseil des affaires du travail, maire de Kaohsiung pendant douze ans. En 2020, elle a été nommée présidente du Yuan de contrôle.
 
-Quarante‑et‑une ans, de la lettre d’adieu à la présidence du Contrôle administratif. Voilà ce que signifie la transformation démocratique. Ce n’est pas une courbe lisse d’inspiration, mais une expérience politique remplie d’absurdités, de contradictions et de coûts irréversibles. Les initiateurs ne savaient pas qu’ils réussiraient. Beaucoup pensaient mourir. L’expérience continue.
+La même personne. La même île. La seule différence : en 1979, ses idées étaient un crime. En 2020, cette ancienne prisonnière politique est chargée d'enquêter sur les éventuels crimes du gouvernement.
+
+Du testament à la présidence du Yuan de contrôle, quarante et un ans. C'est cela que signifie la transition démocratique. Ce n'est pas un arc narratif inspirant et fluide, c'est une expérience politique remplie d'absurdité, de contradictions et de coûts irréversibles. Ceux qui l'ont commencée ne savaient pas si elle réussirait. Beaucoup pensaient qu'ils y laisseraient la vie. L'expérience se poursuit.
 
 **Lectures complémentaires** :
 
-- [Événement du 228](/fr/history/228-incident) — Comment le traumatisme de 1947 est devenu le point de départ de la conscience démocratique taïwanaise
-- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Panorama des affaires politiques et des violations des droits humains pendant les trente‑huit ans de loi martiale
-- [Période de la loi martiale](/fr/history/martial-law-era) — Fondement juridique du plus long état d’urgence mondial et mécanismes de contrôle social
-- [Affaire de la Belle île](/fr/history/kaohsiung-incident-formosa-incident) — Chronologie complète de l’incident de Kaohsiung 1979 et son impact historique
-- [Élections et partis politiques à Taïwan](/fr/history/taiwan-elections-and-party-politics) — De l’« Congrès national à vie » aux quatre alternances, évolution du système électoral
-- [Résolution sur l’avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — Document du DPP de 1999 qui ouvrit la voie à la première alternance en 2000
-- [Justice transformatrice à Taïwan](/fr/history/taiwan-transitional-justice) — Comment la société a confronté les traumatismes du régime autoritaire après la démocratisation
-- [Mouvement Sunflower](/fr/society/sunflower-movement) — Chronique complète de l’occupation du Parlement en 2014, du déclencheur de trente secondes à la désindustrialisation économique douze ans plus tard
-- [Réunion 2026 entre Zheng et Xi : dix minutes après dix ans](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Pourquoi l’AIT insiste sur le « dialogue avec les dirigeants élus » ? Les racines de ce principe résident dans cette histoire de démocratisation
-- [Jhou Zi‑yu](/fr/people/tzuyu) — Vidéo d’excuse de 90 secondes la veille des élections de 2016, la note la plus lourde de la troisième alternance
+- [Incident du 228](/fr/history/228-incident) — Comment le traumatisme de 1947 est devenu le point de départ de la conscience démocratique de Taïwan
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L'ensemble des affaires politiques et violations des droits humains pendant les trente-huit ans de loi martiale
+- [Période de la loi martiale](/fr/history/martial-law-era) — Fondements juridiques et mécanismes de contrôle social de la plus longue loi martiale au monde
+- [Incident de Kaohsiung](/fr/history/kaohsiung-incident-formosa-incident) — Déroulement complet et impact historique de l'événement de Kaohsiung en 1979
+- [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics) — Évolution du système électoral, du « Parlement à vie » aux quatre alternances partisanes
+- [Résolution sur l'avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — En 1999, le DPP opère un virage stratégique via un document délibérément ambigu, ouvrant la voie à la première alternance partisane en 2000
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Après la démocratisation, comment la société fait face aux traumatismes historiques de la période autoritaire
+- [Grande vague de révocation](/fr/history/great-recall-movement-2024) — La plus grande vague de révocation de l'histoire en 2025 : trois vagues de vote, 33 cas, tous rejetés, révélant les limites et le coût des outils de démocratie directe post-transition
+- [Mouvement des Tournesols](/fr/society/sunflower-movement) — Chronique complète de l'occupation du Parlement en 2014, des trente secondes d'effraction aux conséquences économiques douze ans plus tard
+- [Rencontre Cheng-Xi 2026 : dix minutes de retrouvailles entre dirigeants du KMT et du PCC après dix ans](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Pourquoi l'AIT insiste-t-elle sur le « dialogue avec la direction élue » ? Les fondements de ce principe résident dans cette histoire de démocratisation
+- [Tzuyu (Chou Tzu-yu)](/fr/people/tzuyu) — La vidéo d'excuses de 90 secondes à la veille de l'élection de 2016, le poids le plus lourd de la troisième alternance partisane de Taïwan
 
 ## Références
 

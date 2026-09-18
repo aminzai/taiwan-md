@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T05:34:44+08:00",
-    "zhCommitHead": "1c1691c80",
+    "lastUpdated": "2026-09-19T05:56:12+08:00",
+    "zhCommitHead": "015aeff35",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,32 +28,32 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 1039,
-        "stale": 48,
+        "fresh": 1040,
+        "stale": 47,
         "metadata_stale": 8,
         "missing": 26,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1028,
-        "stale": 56,
+        "fresh": 1029,
+        "stale": 55,
         "metadata_stale": 7,
         "missing": 30,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1020,
-        "stale": 54,
+        "fresh": 1021,
+        "stale": 53,
         "metadata_stale": 12,
         "missing": 35,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 781,
+        "fresh": 782,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 333,
+        "missing": 332,
         "orphan": 0
       }
     },
@@ -3388,18 +3388,16 @@
         "ko": {
           "path": "ko/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-14T00:51:45+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-19T01:37:18+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/megaport-festival.md",
@@ -7325,8 +7323,8 @@
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
           "translatedAt": "2026-09-19T01:37:22+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12612,8 +12610,8 @@
           "sourceContentHash": "sha256:31e1b73206428a5a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-18T19:24:40.594267+00:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -13134,8 +13132,8 @@
           "sourceContentHash": "sha256:dd196b4a3bebe6fe",
           "sourceBodyHash": "sha256:85923df8ecf92741",
           "translatedAt": "2026-09-18T20:23:21.374885+00:00",
-          "translationLastCommit": "502c9338",
-          "translationLastModified": "2026-08-01T00:13:09+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -21630,8 +21628,8 @@
           "sourceContentHash": "sha256:6c1de6e7d125ff24",
           "sourceBodyHash": "sha256:fa56609bf3ed1f63",
           "translatedAt": "2026-09-18T20:52:28.133633+00:00",
-          "translationLastCommit": "e1d4e6d7",
-          "translationLastModified": "2026-07-31T23:47:11+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -35609,8 +35607,8 @@
           "sourceContentHash": "sha256:9ea16a828e45af61",
           "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
           "translatedAt": "2026-09-18T20:44:16.663275+00:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45156,16 +45154,16 @@
         "es": {
           "path": "es/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-19T01:37:19+08:00",
           "translationLastCommit": "4c95322d",
           "translationLastModified": "2026-08-04T13:40:08+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-walking-green-man.md",
@@ -60570,8 +60568,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-09-19T01:37:22+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -107499,7 +107497,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/liao-qiong-zhi.md",
+          "translatedFrom": "People/廖瓊枝.md",
+          "sourceCommitSha": "a15e6712c",
+          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceBodyHash": "sha256:169c56cb9e4f77d3",
+          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/liao-qiong-zhi.md",
@@ -142853,8 +142862,8 @@
           "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
           "translatedAt": "2026-09-19T01:37:22+08:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "907839df",
+          "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -147253,18 +147262,16 @@
         "fr": {
           "path": "fr/History/taiwan-transitional-justice.md",
           "translatedFrom": "History/台灣轉型正義.md",
-          "sourceCommitSha": "6c2f8ea8",
-          "sourceContentHash": "sha256:4b593cb72efe470a",
-          "sourceBodyHash": "sha256:3af35384af2f52c5",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-09-19T01:37:21+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/taiwan-transitional-justice.md",
@@ -152772,7 +152779,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/pingpu-peoples.md",
+          "translatedFrom": "History/平埔族.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:a919906028755e92",
+          "sourceBodyHash": "sha256:a29e7e59d8da2652",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
