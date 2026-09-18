@@ -1,0 +1,18 @@
+{
+  "revision": 26,
+  "submissionId": "1e94fbfe-8ed6-4278-822a-0b3d9c4fde1f",
+  "actor": "guide_orient_reviewer_5 (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "python 逐欄比對確認 v5 與 v4 的 data 除 uncertainties[8]（重交註記，流程性說明本次退回/重交原因，非內容主張）外逐字相同，readerQuestion/subjectExplanation/candidateAngles[0-3]/uncertainties[0-7] 完全相等。獨立以全新眼光重新檢視四項標準：readerQuestion 是貼近 brief 讀者、具體場景化的真實疑問而非分析框架偽裝；subjectExplanation 全程用白話與具體數字（32→32.7 元 vs 半年吸收近兩百億、千億補貼、兩千多億增資）把機制講成一般人能感受到的落差，未出現 7D3B／亞鄰最低價原則等術語；candidateAngles 四個（≥2）彼此正交（金流歸屬／機制演變／決策授權／福利分配效果），每個都附上可用 Stage 1 材料直接檢驗的具體推翻條件（如 1,014.31 億對應年度預估價差而非週報累計 198.5 億、2025/12 門檻在專案機制下是否仍實際運作、石油管理法是否本就授權行政部門、中油用油結構是否流向產業柴油），沒有任何一條提前宣判金流形狀或責任歸屬的答案；uncertainties 前八條皆為具體必驗未知（金額十倍差距待驗、三種金額寫法版本分歧、專案機制與既有級距對應關係未定、待補 PDF 材料、現場報導缺口坦承查無不等於沒發生、立法院審議進度確定性邊界、2018 回收條款是否曾執行），第九條為本次重交流程記錄不稀釋前八條密度也非空話充數。未發現前四輪評閱遺漏的問題，v5 唯一差異的重交註記純屬流程性、不影響上述判斷。",
+  "contextDisclosure": "fresh-context-orient-inputs-only",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v5.json",
+      "location": "data.readerQuestion；data.subjectExplanation；data.candidateAngles[0-3]；data.uncertainties[0-8]（[8] 為本次重交註記）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v5.md",
+      "location": "全文"
+    }
+  ]
+}
