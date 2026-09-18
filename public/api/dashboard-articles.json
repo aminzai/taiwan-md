@@ -11641,7 +11641,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": true,
       "hi": true,
@@ -17405,7 +17405,7 @@
     "lastHumanReview": false,
     "curation": null,
     "featured": false,
-    "wordCount": 9688,
+    "wordCount": 9829,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -17422,7 +17422,7 @@
       "ru": true,
       "de": false
     },
-    "revision": 7,
+    "revision": 8,
     "commitHash": "c40c53f6",
     "commitSubject": "🧬 [semiont] polish: 周蕙.md 標點淨化（破折號 1→1、分號 22→12）",
     "description": "1999 年福茂發行《周蕙精選》，封面用一隻叫蕙兒的漫畫娃娃代替她本人的臉。〈約定〉走進每一間 KTV、走過 25 年，她的本人卻始終比歌晚一步被認出來。從福茂五張到 BMG 雪藏，從群石、華研到 2025 自任監製跨進 Disco，12 張專輯走過 26 年。2026 年 4 月 25 日她第一次站上小巨蛋，演唱會尾聲卻宣布聲帶萎縮，「不曉得這會不會是最後一次唱歌給大家聽」。",
@@ -17431,7 +17431,7 @@
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 39,
+    "fnCount": 40,
     "bodyInternalLinks": 0,
     "bodyInternalLinksZero": true
   },
@@ -21311,7 +21311,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -22491,7 +22491,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "3011828b",

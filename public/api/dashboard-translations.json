@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T00:42:03.542Z",
+  "lastUpdated": "2026-09-18T06:43:01.350Z",
   "languages": [
     "zh-TW",
     "en",
@@ -85,28 +85,28 @@
       "bodyFreshPct": 90.5
     },
     "vi": {
-      "total": 858,
-      "percentage": 76.5,
-      "fresh": 683,
+      "total": 859,
+      "percentage": 76.6,
+      "fresh": 684,
       "metadataStale": 82,
       "stale": 93,
-      "missing": 263,
+      "missing": 262,
       "orphan": 0,
-      "deficit": 263,
-      "freshPct": 60.9,
-      "bodyFreshPct": 68.2
+      "deficit": 262,
+      "freshPct": 61,
+      "bodyFreshPct": 68.3
     },
     "id": {
-      "total": 897,
-      "percentage": 80,
-      "fresh": 832,
+      "total": 898,
+      "percentage": 80.1,
+      "fresh": 833,
       "metadataStale": 8,
       "stale": 57,
-      "missing": 224,
+      "missing": 223,
       "orphan": 0,
-      "deficit": 224,
-      "freshPct": 74.2,
-      "bodyFreshPct": 74.9
+      "deficit": 223,
+      "freshPct": 74.3,
+      "bodyFreshPct": 75
     },
     "pt": {
       "total": 1070,
@@ -157,16 +157,16 @@
       "bodyFreshPct": 90.8
     },
     "de": {
-      "total": 156,
-      "percentage": 13.9,
-      "fresh": 146,
+      "total": 157,
+      "percentage": 14,
+      "fresh": 147,
       "metadataStale": 3,
       "stale": 7,
-      "missing": 965,
+      "missing": 964,
       "orphan": 0,
-      "deficit": 965,
-      "freshPct": 13,
-      "bodyFreshPct": 13.3
+      "deficit": 964,
+      "freshPct": 13.1,
+      "bodyFreshPct": 13.4
     }
   },
   "matrix": {
@@ -382,11 +382,11 @@
         "deficit": 3
       },
       "vi": {
-        "count": 66,
-        "fresh": 61,
+        "count": 67,
+        "fresh": 62,
         "stale": 5,
-        "missing": 35,
-        "deficit": 47
+        "missing": 34,
+        "deficit": 46
       },
       "id": {
         "count": 87,
@@ -598,11 +598,11 @@
         "deficit": 8
       },
       "de": {
-        "count": 13,
-        "fresh": 10,
+        "count": 14,
+        "fresh": 11,
         "stale": 3,
-        "missing": 75,
-        "deficit": 76
+        "missing": 74,
+        "deficit": 75
       }
     },
     "geography": {
@@ -1259,11 +1259,11 @@
         "deficit": 35
       },
       "id": {
-        "count": 85,
-        "fresh": 82,
+        "count": 86,
+        "fresh": 83,
         "stale": 3,
-        "missing": 31,
-        "deficit": 31
+        "missing": 30,
+        "deficit": 30
       },
       "pt": {
         "count": 108,
@@ -1860,7 +1860,6 @@
       "Technology/台灣科技說故事：100 分的晶片，60 分的麥克風.md",
       "Art/衛武營國家藝術文化中心：一座軍營如何變成沒有圍牆的劇場.md",
       "Culture/痞客邦：一個平台如何把台灣人的日常保存成公共記憶.md",
-      "Culture/掌上風雲一世紀：從黃海岱的五洲園到轟動武林的電視布袋戲演變史.md",
       "Food/叭噗冰淇淋：喇叭先抵達街角，冰桶才跟著出現.md",
       "History/圓山大飯店：紅色宮殿裡的祕密隧道與權力交替.md",
       "People/林郁婷：從新莊地下拳館到巴黎奧運金牌，孤獨拳后與她背起的整個台灣.md",
@@ -2096,7 +2095,6 @@
       "Culture/台灣聲景：垃圾車的古典樂、捷運的鳥鳴，和一座只聽見卻很少聆聽的島.md",
       "People/聶永真：台灣首位 AGI 會員，從金曲包裝到國家識別系統的二十年.md",
       "Technology/開放文化基金會：幫台灣最不受控的一群人，做最無聊的那件事.md",
-      "Society/社會運動與公民參與.md",
       "Economy/AAMA 台北搖籃計畫：一群本可退休的人，用最慢的方式把手藝交出去.md",
       "Geography/西門町：日本人 1896 蓋的娛樂街，130 年後還是台北最年輕的街.md",
       "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
@@ -2987,7 +2985,6 @@
       "Culture/台灣花布.md",
       "Culture/客家文化與語言.md",
       "Culture/藍染：兩百年後，種回同一株馬藍.md",
-      "Food/凌晨五點的溫體：台南牛肉湯的供應鏈與新鮮度.md",
       "Food/27 秒的精準：台南鱔魚意麵的日治起源與廖家傳承.md",
       "Geography/湖口老街：1929 年火車一搬走，紅磚老街被留在原地一百年.md",
       "Geography/金瓜石：一座山上疊起來的許多層命，從砂金、戰俘到還沒洗乾淨的砷土.md",

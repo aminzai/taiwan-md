@@ -102,13 +102,13 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇰🇷 한국어 (ko)                 | 1082  |
 | 🇪🇸 Español (es)                | 1096  |
 | 🇫🇷 Français (fr)               | 1099  |
-| 🇻🇳 Tiếng Việt (vi)             | 859   |
-| 🇮🇩 Bahasa Indonesia (id)       | 897   |
+| 🇻🇳 Tiếng Việt (vi)             | 860   |
+| 🇮🇩 Bahasa Indonesia (id)       | 898   |
 | 🇵🇹 Português (pt)              | 1070  |
 | 🇮🇳 हिन्दी (hi)                 | 971   |
 | 🇸🇦 العربية (ar)                | 1038  |
 | 🇷🇺 Русский (ru)                | 1057  |
-| 🌐 Deutsch (de)                | 156   |
+| 🌐 Deutsch (de)                | 157   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |

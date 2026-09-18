@@ -16320,7 +16320,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/music/chou-hui",
-    "readingTime": 93,
+    "readingTime": 94,
     "featured": false,
     "date": "2026-05-19",
     "path": "ja/Music/chou-hui.md"
@@ -16331,7 +16331,7 @@
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/music/%E5%91%A8%E8%95%99",
-    "readingTime": 75,
+    "readingTime": 76,
     "featured": false,
     "date": "2026-05-28",
     "path": "Music/周蕙.md"
@@ -40093,7 +40093,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/music/chou-hui",
-    "readingTime": 168,
+    "readingTime": 169,
     "featured": false,
     "date": "2026-05-19",
     "path": "pt/Music/chou-hui.md"
@@ -40339,7 +40339,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/music/chou-hui",
-    "readingTime": 192,
+    "readingTime": 193,
     "featured": false,
     "date": "2026-05-28",
     "path": "vi/Music/chou-hui.md"
@@ -51918,6 +51918,24 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "id/Culture/indigenous-language-revitalization-movement.md"
+  },
+  {
+    "title": "Gerakan Sosial dan Partisipasi Sipil",
+    "description": "Dari Lili Liar hingga Bunga Matahari, bagaimana Taiwan mempraktikkan demokrasi dan mendorong kemajuan sosial melalui gerakan sosial",
+    "category": "id",
+    "tags": [
+      "Gerakan Sosial",
+      "Partisipasi Sipil",
+      "Demokrasi",
+      "Gerakan Mahasiswa Lili Liar",
+      "Gerakan Bunga Matahari",
+      "Reformasi Sosial"
+    ],
+    "url": "https://taiwan.md/id/society/social-movements-and-civic-participation",
+    "readingTime": 78,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Society/social-movements-and-civic-participation.md"
   },
   {
     "title": "Gerakan Sosial Taiwan pada Masa Pendudukan Jepang",
@@ -74009,6 +74027,24 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "vi/About/how-an-article-is-born.md"
+  },
+  {
+    "title": "Một Thế Kỷ Gió Mây Trên Bàn Tay: Từ Ngũ Châu Viên Đến Múa Rối Truyền Hình Chấn Động Võ Lâm",
+    "description": "Từ những gánh múa rối bàn tay truyền thống trên phố Hổ Vĩ, Vân Lâm, đến bộ phim truyền hình \"Vân Châu Đại Nho Hiệp\" khiến cả nước đổ ra đường xem, rồi tái sinh xuyên biên giới với kỹ xảo hiện đại và múa rối kỹ thuật số — gia tộc Hoàng Hải Đại đã dùng đôi bàn tay khéo léo nâng đỡ nền giải trí bình dân và ký ức văn hóa của Đài Loan suốt hàng chục năm như thế nào?",
+    "category": "vi",
+    "tags": [
+      "Múa rối bàn tay",
+      "Hoàng Hải Đại",
+      "Vân Châu Đại Nho Hiệp",
+      "Tố Hoàn Chân",
+      "Văn hóa Đài Loan",
+      "Nghệ thuật truyền thống"
+    ],
+    "url": "https://taiwan.md/vi/culture/taiwan-tv-glove-puppetry",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-08-12",
+    "path": "vi/Culture/taiwan-tv-glove-puppetry.md"
   },
   {
     "title": "Một trăm năm biến đổi của tranh nước Đài Loan: Từ Ishikawa Kinichiro đến Tiễn Trung Uy",
@@ -101657,6 +101693,24 @@
     "path": "id/Society/taiwanese-overseas-and-diaspora.md"
   },
   {
+    "title": "Wärme um fünf Uhr morgens: Lieferkette und Frische der Tainan-Rindfleischsuppe",
+    "description": "Tainans Rindfleischsuppe ist seit weniger als zwanzig Jahren ein „Aushängeschild\" der Stadt, doch der Grund, weshalb sich das Anstehen um fünf Uhr morgens lohnt, ist real: warmes Rindfleisch aus dem Schlachthof von Shanhua, eine Kühlkette, die innerhalb weniger Stunden abgeschlossen ist, und ein Knochenbrühe-Topf, der schon im Morgengrauen zu köcheln beginnt.",
+    "category": "de",
+    "tags": [
+      "Tainan",
+      "Rindfleischsuppe",
+      "Warmes Rindfleisch",
+      "Shanhua",
+      "Zhongxi-Bezirk",
+      "Streetfood"
+    ],
+    "url": "https://taiwan.md/de/food/beef-soup",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-07-02",
+    "path": "de/Food/beef-soup.md"
+  },
+  {
     "title": "Watchout : Une décennie de technologie citoyenne à Taïwan, du Parlement sans double au défensement de la population",
     "description": "Fondée en 2013, Watchout est un pionnier de la technologie citoyenne et des médias indépendants à Taïwan. De la diffusion d'informations lors de la Révolution des boutons de magnolia à l'éducation critique de l'Académie citoyenne, en passant par la publication conjointe avec des ONG internationales d'un guide de défense civile, comment Watchout protège-t-il la démocratie taïwanaise grâce aux outils numériques ?",
     "category": "fr",
@@ -101996,7 +102050,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/music/chou-hui",
-    "readingTime": 213,
+    "readingTime": 214,
     "featured": false,
     "date": "2026-05-19",
     "path": "es/Music/chou-hui.md"
@@ -102007,7 +102061,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/music/chou-hui",
-    "readingTime": 188,
+    "readingTime": 189,
     "featured": false,
     "date": "2026-05-19",
     "path": "en/Music/chou-hui.md"
@@ -115296,7 +115350,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/music/chou-hui",
-    "readingTime": 185,
+    "readingTime": 186,
     "featured": false,
     "date": "2026-05-19",
     "path": "ru/Music/chou-hui.md"
@@ -148252,7 +148306,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/music/chou-hui",
-    "readingTime": 107,
+    "readingTime": 108,
     "featured": false,
     "date": "2026-05-19",
     "path": "ko/Music/chou-hui.md"

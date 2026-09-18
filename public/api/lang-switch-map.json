@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:41:47.972Z",
+  "generated_at": "2026-09-18T06:42:30.300Z",
   "languages": [
     "en",
     "ja",
@@ -14,7 +14,7 @@
     "ru",
     "de"
   ],
-  "total_entries": 33844,
+  "total_entries": 33853,
   "registry": {
     "en": {
       "toZh": {
@@ -15993,6 +15993,7 @@
         "/vi/culture/taiwan-street-art-and-graffiti-culture": "/culture/%E5%8F%B0%E7%81%A3%E8%A1%97%E9%A0%AD%E8%97%9D%E8%A1%93%E8%88%87%E5%A1%97%E9%B4%89%E6%96%87%E5%8C%96",
         "/vi/culture/taiwan-tea-ceremony-and-aesthetic-living": "/culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
         "/vi/culture/taiwan-temple-festivals-and-performance-troupes": "/culture/%E5%8F%B0%E7%81%A3%E5%BB%9F%E6%9C%83%E8%88%87%E9%99%A3%E9%A0%AD%E6%96%87%E5%8C%96",
+        "/vi/culture/taiwan-tv-glove-puppetry": "/culture/%E9%9B%BB%E8%A6%96%E5%B8%83%E8%A2%8B%E6%88%B2",
         "/vi/culture/taiwan-variety-shows": "/culture/%E5%8F%B0%E7%81%A3%E7%B6%9C%E8%97%9D",
         "/vi/culture/taiwan-vtuber": "/culture/%E5%8F%B0%E7%81%A3VTuber",
         "/vi/culture/taiwan-youtuber-industry": "/culture/%E5%8F%B0%E7%81%A3YouTuber%E7%94%A2%E6%A5%AD%E8%88%87%E6%96%87%E5%8C%96",
@@ -16967,6 +16968,8 @@
         "/culture/台灣茶道與生活美學": "/vi/culture/taiwan-tea-ceremony-and-aesthetic-living",
         "/culture/%E5%8F%B0%E7%81%A3%E5%BB%9F%E6%9C%83%E8%88%87%E9%99%A3%E9%A0%AD%E6%96%87%E5%8C%96": "/vi/culture/taiwan-temple-festivals-and-performance-troupes",
         "/culture/台灣廟會與陣頭文化": "/vi/culture/taiwan-temple-festivals-and-performance-troupes",
+        "/culture/%E9%9B%BB%E8%A6%96%E5%B8%83%E8%A2%8B%E6%88%B2": "/vi/culture/taiwan-tv-glove-puppetry",
+        "/culture/電視布袋戲": "/vi/culture/taiwan-tv-glove-puppetry",
         "/culture/%E5%8F%B0%E7%81%A3%E7%B6%9C%E8%97%9D": "/vi/culture/taiwan-variety-shows",
         "/culture/台灣綜藝": "/vi/culture/taiwan-variety-shows",
         "/culture/%E5%8F%B0%E7%81%A3VTuber": "/vi/culture/taiwan-vtuber",
@@ -19238,6 +19241,7 @@
         "/id/society/paraguay-taiwan": "/society/%E5%B7%B4%E6%8B%89%E5%9C%AD%E8%88%87%E5%8F%B0%E7%81%A3",
         "/id/society/public-housing-justice": "/society/%E5%9C%8B%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
         "/id/society/social-housing-and-housing-justice": "/society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
+        "/id/society/social-movements-and-civic-participation": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
         "/id/society/sport-stacking": "/society/%E7%96%8A%E6%9D%AF",
         "/id/society/sunflower-movement": "/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B",
         "/id/society/taipei-rat-problem": "/society/%E5%8F%B0%E5%8C%97%E9%BC%A0%E6%82%A3",
@@ -20909,6 +20913,8 @@
         "/society/國宅與居住正義": "/id/society/public-housing-justice",
         "/society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9": "/id/society/social-housing-and-housing-justice",
         "/society/社會住宅與居住正義": "/id/society/social-housing-and-housing-justice",
+        "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87": "/id/society/social-movements-and-civic-participation",
+        "/society/社會運動與公民參與": "/id/society/social-movements-and-civic-participation",
         "/society/%E7%96%8A%E6%9D%AF": "/id/society/sport-stacking",
         "/society/疊杯": "/id/society/sport-stacking",
         "/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B": "/id/society/sunflower-movement",
@@ -33470,6 +33476,7 @@
         "/de/culture/wretch": "/culture/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99",
         "/de/economy/zhongli": "/economy/%E4%B8%AD%E5%A3%A2",
         "/de/food/ah-po-iron-eggs": "/food/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B",
+        "/de/food/beef-soup": "/food/%E7%89%9B%E8%82%89%E6%B9%AF",
         "/de/food/bubble-tea": "/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
         "/de/food/din-tai-fung": "/food/%E9%BC%8E%E6%B3%B0%E8%B1%90",
         "/de/food/military-dependents-village-cuisine": "/food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
@@ -33643,6 +33650,8 @@
         "/economy/中壢": "/de/economy/zhongli",
         "/food/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B": "/de/food/ah-po-iron-eggs",
         "/food/阿婆鐵蛋": "/de/food/ah-po-iron-eggs",
+        "/food/%E7%89%9B%E8%82%89%E6%B9%AF": "/de/food/beef-soup",
+        "/food/牛肉湯": "/de/food/beef-soup",
         "/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6": "/de/food/bubble-tea",
         "/food/珍珠奶茶": "/de/food/bubble-tea",
         "/food/%E9%BC%8E%E6%B3%B0%E8%B1%90": "/de/food/din-tai-fung",

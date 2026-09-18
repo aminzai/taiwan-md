@@ -1,7 +1,138 @@
 {
-  "generatedAt": "2026-09-18T00:41:50.926Z",
+  "generatedAt": "2026-09-18T06:42:38.401Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "30e7e2af6724508dd0471ed3c4f5055b437550fd",
+      "date": "2026-09-18T14:02:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 低薪條目的最低工資數字修正——2026 年是 29,500，破三萬是 9/24 審議會對 2027 年的決定",
+      "articles": []
+    },
+    {
+      "hash": "8249bad857380ab027d07a052c70fb8841665504",
+      "date": "2026-09-18T14:00:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 三篇寫手依哲宇指示暫停在存檔點，INBOX 與 handoff 記下重開路徑",
+      "articles": []
+    },
+    {
+      "hash": "35927d79586b5f07365ad5e2cf2f0a1d175c1aeb",
+      "date": "2026-09-18T13:44:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 探測器接回 news-lens-weekly——每週日的新聞透鏡多一隻看外面的眼睛",
+      "articles": []
+    },
+    {
+      "hash": "e412eadeb02ff060597ccd33db7110e421d547a4",
+      "date": "2026-09-18T13:38:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新聞雷達九條進 ARTICLE-INBOX——低薪、油價機制、金鐘獎三條派 Opus 開寫，亞運 P0 待派",
+      "articles": []
+    },
+    {
+      "hash": "9303207ea6213af42214144ed0320a014fd8bcce",
+      "date": "2026-09-18T13:34:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: news-radar @ 2026-09-18 13:28 — 新聞雷達 138 天後復跑，探測器沒人接手的根因補進 REFLEXES #56",
+      "articles": []
+    },
+    {
+      "hash": "3595ed0f837034c941938e263243db427fa6c1ff",
+      "date": "2026-09-18T13:32:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: 新聞雷達復跑——138 天後第一份探測器報告，亞運、油價機制、低薪定義三個缺口列 Tier 1",
+      "articles": []
+    },
+    {
+      "hash": "7c2a91a7b8ed74b3dfc29be4c4c1af1ad4204196",
+      "date": "2026-09-18T08:57:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-18 08:40 — 三個投稿 PR 全收；#1746 勘誤被另一台機器搶先落地，改做驗收",
+      "articles": []
+    },
+    {
+      "hash": "1ef7d9a3f077ba1a4fee9a4d311a64e3c80dea10",
+      "date": "2026-09-18T08:57:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] heal: 周蕙九語譯本 source hash 對齊到 a2811a4f0，已手修的那句不再被 babel 判 stale 重翻",
+      "articles": []
+    },
+    {
+      "hash": "06432f23a5bf21e3c9ab3319ac088b85153eb1e7",
+      "date": "2026-09-18T08:51:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-18 08:40 — 讀者抓到周蕙的加開是 2020 年的事、十語同修；巡邏改抽未審初稿；語言選址寫進 CF 第三源",
+      "articles": []
+    },
+    {
+      "hash": "cb003e4e2c1e8855545bd270ff5c20e969cc1c2c",
+      "date": "2026-09-18T08:48:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 事實巡邏改抽未審初稿而不是 A 級，語言選址把 CF 邊緣請求升為正式第三源",
+      "articles": []
+    },
+    {
+      "hash": "a2811a4f03be48e069b323566be71dbd1ce04534",
+      "date": "2026-09-18T08:44:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 周蕙——2026 小巨蛋只辦一場，撤掉查無來源的「售罄加開」，十語同修 per Joanne Yap（issue #1746）",
+      "articles": [
+        {
+          "url": "/music/周蕙",
+          "name": "周蕙"
+        }
+      ]
+    },
+    {
+      "hash": "efda2ad3f07abf4067c5424558365edcdc02e0aa",
+      "date": "2026-09-18T08:43:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 早上心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "7a8f806176ad6a7b2b5d35376886948379fc87f6",
+      "date": "2026-09-18T08:44:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1745 from aminzai/translate/id-social-movements-and-civic-participation",
+      "articles": []
+    },
+    {
+      "hash": "319458ae2367cafb019a7f664c710fb741f91e04",
+      "date": "2026-09-18T08:44:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1744 from aminzai/translate/vi-taiwan-tv-glove-puppetry",
+      "articles": []
+    },
+    {
+      "hash": "7ae57d8e9190bafd886145217adfd78bb17c0b6a",
+      "date": "2026-09-18T08:44:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1743 from aminzai/translate/de-beef-soup",
+      "articles": []
+    },
+    {
+      "hash": "f38a7e9dff7a53eebbb64c473ab4fe201c1ad32e",
+      "date": "2026-09-18T05:24:10+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 社會運動與公民參與 → social-movements-and-civic-participation",
+      "articles": []
+    },
+    {
+      "hash": "4991ed49715ebf971cf43876b6969c2f6dfc679e",
+      "date": "2026-09-18T05:23:32+08:00",
+      "author": "aminzai",
+      "message": "translate(vi): 電視布袋戲 → taiwan-tv-glove-puppetry",
+      "articles": []
+    },
+    {
+      "hash": "49b0daab8c7290da4a2d5469e773608b446df63a",
+      "date": "2026-09-18T05:22:51+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 牛肉湯 → beef-soup",
+      "articles": []
+    },
     {
       "hash": "ae354f67bf48baf19bf937fd2e5483aca8288fb4",
       "date": "2026-09-18T03:01:50+08:00",
@@ -83038,172 +83169,6 @@
         {
           "url": "/economy/台灣企業：聯發科技",
           "name": "台灣企業：聯發科技"
-        }
-      ]
-    },
-    {
-      "hash": "d83a8edd275e257aa2583cf4d5aa87e0da7d867f",
-      "date": "2026-03-25T07:38:55+08:00",
-      "author": "frank890417",
-      "message": "fix: History Hub — 移除刪除文章的死連結，修正民主運動→民主轉型",
-      "articles": [
-        {
-          "url": "/history/_History Hub",
-          "name": "_History Hub"
-        }
-      ]
-    },
-    {
-      "hash": "768e296b38f55f7d68b098d2f1a3fe725a51ff61",
-      "date": "2026-03-25T07:37:25+08:00",
-      "author": "frank890417",
-      "message": "remove: 刪除重疊文章「二二八事件與白色恐怖：台灣威權統治下的創傷與記憶」",
-      "articles": [
-        {
-          "url": "/history/二二八事件與白色恐怖：台灣威權統治下的創傷與記憶",
-          "name": "二二八事件與白色恐怖：台灣威權統治下的創傷與記憶"
-        }
-      ]
-    },
-    {
-      "hash": "905dadbabf6a67fca930539afc4f3467bcbbe0ea",
-      "date": "2026-03-25T07:35:07+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 鄭南榕 — EDITORIAL v4 A級深度重寫",
-      "articles": [
-        {
-          "url": "/people/鄭南榕",
-          "name": "鄭南榕"
-        }
-      ]
-    },
-    {
-      "hash": "53de7057b8cdad659534a5a7a685bd72d615bd19",
-      "date": "2026-03-25T07:31:56+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 二二八事件 — EDITORIAL v4 S級旗艦重寫",
-      "articles": [
-        {
-          "url": "/history/二二八事件",
-          "name": "二二八事件"
-        }
-      ]
-    },
-    {
-      "hash": "a8337df8ea17c61c9f1be1b89aa8f7ed84d046f0",
-      "date": "2026-03-25T07:26:19+08:00",
-      "author": "frank890417",
-      "message": "fix: repair 53 broken YAML frontmatter files in en/ translations",
-      "articles": []
-    },
-    {
-      "hash": "be5c96bbd0ad3ca290b8b77fa442642ad8647de4",
-      "date": "2026-03-25T07:22:26+08:00",
-      "author": "frank890417",
-      "message": "fix: CI frontmatter check — fetch-depth:2 for git diff, skip on diff failure",
-      "articles": []
-    },
-    {
-      "hash": "a87854e9b0cd94237dd16194d5a379d86d83ffe1",
-      "date": "2026-03-25T07:20:19+08:00",
-      "author": "frank890417",
-      "message": "feat: pre-commit frontmatter validation via husky",
-      "articles": []
-    },
-    {
-      "hash": "7557219a43ef722ad6d82d927458f63300504d50",
-      "date": "2026-03-25T07:17:49+08:00",
-      "author": "frank890417",
-      "message": "feat: frontmatter validation + CI integration",
-      "articles": []
-    },
-    {
-      "hash": "739ee3833155ee2e4592fb3089e719e7e21beff1",
-      "date": "2026-03-25T07:08:21+08:00",
-      "author": "frank890417",
-      "message": "feat: post-build smoke test + fix safeMatter scope in all 4 page routes",
-      "articles": []
-    },
-    {
-      "hash": "1b00a40dc24b99af0b2af9cbc8675e5110561175",
-      "date": "2026-03-25T07:01:25+08:00",
-      "author": "frank890417",
-      "message": "fix: restore [slug].astro getStaticPaths — move safeMatter inside function scope (fixes all article pages disappearing)",
-      "articles": []
-    },
-    {
-      "hash": "5711c500197a67ea799ade18b2ae1b8424cd95ee",
-      "date": "2026-03-25T06:52:20+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #212 from iigmir/main",
-      "articles": []
-    },
-    {
-      "hash": "a80d31327d2eff1e6012e8d90e65f83f1ad265f7",
-      "date": "2026-03-25T06:44:20+08:00",
-      "author": "frank890417",
-      "message": "fix: merge PR #210 UI fixes, resolve conflicts with #207 MiniSearch, remove generated files",
-      "articles": []
-    },
-    {
-      "hash": "cc04c04dcd3c187c4c3763681bbae0e78df74b69",
-      "date": "2026-03-25T06:39:41+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #207 from notoriouslab/feat/minisearch-bigram",
-      "articles": []
-    },
-    {
-      "hash": "e65982062e22876da8ae7c15b4c2e6feb8df2970",
-      "date": "2026-03-25T06:37:33+08:00",
-      "author": "frank890417",
-      "message": "fix: merge PR #211 + fix huang-chun-ming tags (was overwritten with huang-zhen-nan tags)",
-      "articles": []
-    },
-    {
-      "hash": "c4ca1d86faaa54fecc3732f2810c1f395f2e5132",
-      "date": "2026-03-25T05:54:42+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 黃仁勳 — EDITORIAL v4 + Pipeline v2.1 (zh + en)",
-      "articles": [
-        {
-          "url": "/people/黃仁勳",
-          "name": "黃仁勳"
-        }
-      ]
-    },
-    {
-      "hash": "33af20e93d314302679e128460b91fd348efa63f",
-      "date": "2026-03-25T04:52:50+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣茶道與生活美學 — EDITORIAL v4 + Pipeline v2.1 (zh + en)",
-      "articles": [
-        {
-          "url": "/culture/台灣茶道與生活美學",
-          "name": "台灣茶道與生活美學"
-        }
-      ]
-    },
-    {
-      "hash": "3866709cac31dcac708832f6fdef793c205701bb",
-      "date": "2026-03-25T03:54:43+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣機車文化 — EDITORIAL v4 + Pipeline v2.1 (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/台灣機車文化",
-          "name": "台灣機車文化"
-        }
-      ]
-    },
-    {
-      "hash": "607e7f69c635253ecfd4a61431959d25f69e8fc7",
-      "date": "2026-03-25T02:54:46+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣企業：台積電 — EDITORIAL v4 + Pipeline v2.1 (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：台積電",
-          "name": "台灣企業：台積電"
         }
       ]
     }
