@@ -191,7 +191,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: [Newtalk](https://newtalk.tw/news/view/2026-09-15/1059843) / [聯合](https://udn.com/news/story/7238/9754045) / [NOWnews](https://www.nownews.com/news/6874964)
 - **Dev log**:
   - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
-  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑
+  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑；同日哲宇「全部重開，繼續跑」，原 agent 接續
 
 ### 台灣油價機制與中油 NEW — 油價凍漲的帳單：浮動油價、平穩措施與 6,076 億追加預算
 
@@ -209,7 +209,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: [鉅亨](https://news.cnyes.com/news/id/6605162) / [聯合](https://udn.com/news/story/7238/9750953) / [風傳媒](https://www.storm.mg/article/11161558) / [遠見](https://www.gvm.com.tw/article/132833)
 - **Dev log**:
   - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
-  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑
+  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑；同日哲宇「全部重開，繼續跑」，原 agent 接續
 
 ### 金鐘獎 NEW — 從 1965 年廣播獎到金鐘 61：《與惡 2》13 項入圍與台劇的第二個黃金期
 
@@ -226,7 +226,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: [TVBS 入圍名單](https://news.tvbs.com.tw/entertainment/variety/4020179) / [JUKSY 典禮資訊](https://www.juksy.com/article/149150) / [維基 第61屆金鐘獎](https://zh.wikipedia.org/wiki/%E7%AC%AC61%E5%B1%86%E9%87%91%E9%90%98%E7%8D%8E)
 - **Dev log**:
   - 2026-09-18 by news-radar: 派 Opus sub-agent 走互動式 REWRITE（`twmd.mjs rewrite`）
-  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑
+  - 2026-09-18 by news-radar: 哲宇「先暫停（不要關掉）隨時可以重開」——寫手在存檔點 commit 進各自 worktree（`.worktrees/20260918-*`），run state 在 `.taiwanmd/rewrite-runs/<id>/`，同 run id 續跑；同日哲宇「全部重開，繼續跑」，原 agent 接續
 
 ### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
 
