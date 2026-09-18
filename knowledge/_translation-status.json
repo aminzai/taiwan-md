@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T06:53:29+08:00",
-    "zhCommitHead": "cb7b5244f",
+    "lastUpdated": "2026-09-19T07:23:51+08:00",
+    "zhCommitHead": "b519348b0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 858,
+        "fresh": 860,
         "stale": 94,
         "metadata_stale": 31,
-        "missing": 138,
+        "missing": 136,
         "orphan": 0
       },
       "ko": {
@@ -44,34 +44,34 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 1029,
-        "stale": 55,
+        "fresh": 1030,
+        "stale": 54,
         "metadata_stale": 7,
         "missing": 30,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 1022,
-        "stale": 52,
+        "fresh": 1023,
+        "stale": 51,
         "metadata_stale": 12,
         "missing": 35,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 968,
-        "stale": 57,
-        "metadata_stale": 67,
+        "fresh": 972,
+        "stale": 54,
+        "metadata_stale": 66,
         "missing": 29,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 863,
+        "fresh": 865,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 201,
+        "missing": 199,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 790,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 328,
+        "missing": 324,
         "orphan": 0
       }
     },
@@ -3418,18 +3418,16 @@
         "fr": {
           "path": "fr/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-24T01:10:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-19T01:37:21+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/megaport-festival.md",
@@ -9825,16 +9823,16 @@
         "vi": {
           "path": "vi/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "ef5765ab",
-          "sourceContentHash": "sha256:1ae67a3e5fd7cb81e304c2bfde957acc56bc9d50525062985b6cb1562fdfeb7c",
-          "sourceBodyHash": "sha256:e6e840a12587da83827a6df4a52ecd6951069913d2eb03997309b6a79336dfb9",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:275d7b3ee56db82a",
+          "sourceBodyHash": "sha256:58739438cbba3247",
+          "translatedAt": "2026-09-18T22:54:52.189913+00:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -21776,18 +21774,16 @@
         "es": {
           "path": "es/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T04:42:30.391348+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-18T23:23:29.037978+00:00",
           "translationLastCommit": "4c95322d",
           "translationLastModified": "2026-08-04T13:40:08+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -23205,7 +23201,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/backslash-in-function-character.md",
+          "translatedFrom": "Technology/功字裡的那根反斜線.md",
+          "sourceCommitSha": "5dcaeea42",
+          "sourceContentHash": "sha256:57b41e308a296fb4",
+          "sourceBodyHash": "sha256:9af4500f829effce",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28470,18 +28477,16 @@
         "vi": {
           "path": "vi/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:94e8eed3f44521db57b12c3c7097a7e7f9b63f4568dcfbcd22df0f99fa19b680",
-          "sourceBodyHash": "sha256:a7c111bebb5249436b8376c125860e66c6156be64aae81b59a4618dd2e4a2f77",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f28d98485199bc24",
+          "sourceBodyHash": "sha256:110038d2fb23bc2a",
+          "translatedAt": "2026-09-18T23:11:21.565597+00:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/ptt-bulletin-board-system.md",
@@ -28554,7 +28559,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/ptt-bulletin-board-system.md",
+          "translatedFrom": "Technology/PTT批踢踢.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f28d98485199bc24",
+          "sourceBodyHash": "sha256:110038d2fb23bc2a",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35801,18 +35817,16 @@
         "vi": {
           "path": "vi/Art/new-taipei-city-museum-of-art.md",
           "translatedFrom": "Art/新北市美術館.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6437448f28af9601",
-          "sourceBodyHash": "sha256:c5c8b0370d628478",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-09-18T23:05:02.455674+00:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/new-taipei-city-museum-of-art.md",
@@ -45558,18 +45572,16 @@
         "vi": {
           "path": "vi/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-09-19T01:37:22+08:00",
           "translationLastCommit": "a2e068fd",
           "translationLastModified": "2026-07-28T04:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/xiaobei-department-store.md",
@@ -47640,7 +47652,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/huang-wu-hsiung-community-university.md",
+          "translatedFrom": "Society/社區大學黃武雄.md",
+          "sourceCommitSha": "097c838b2",
+          "sourceContentHash": "sha256:ee2c6b428739de29",
+          "sourceBodyHash": "sha256:56a4506a2e90295b",
+          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/huang-wu-hsiung-community-university.md",
@@ -55281,8 +55304,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-19T01:37:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6ea787a",
+          "translationLastModified": "2026-09-19T06:53:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -74274,8 +74297,8 @@
           "sourceContentHash": "sha256:0263a8cc3c622c00",
           "sourceBodyHash": "sha256:c88ce81293be71aa",
           "translatedAt": "2026-09-19T01:37:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6ea787a",
+          "translationLastModified": "2026-09-19T06:53:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -122217,7 +122240,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chen-san-huo.md",
+          "translatedFrom": "People/陳三火.md",
+          "sourceCommitSha": "8cc323782",
+          "sourceContentHash": "sha256:eedc983e2ea9d824",
+          "sourceBodyHash": "sha256:7efe5656906a3904",
+          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chen-san-huo.md",
@@ -148103,7 +148137,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-maritime-trade-history.md",
+          "translatedFrom": "History/台灣海洋貿易史.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:3828ee010a982636",
+          "sourceBodyHash": "sha256:1b234f51be7edbb9",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -156862,7 +156907,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-19T01:37:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/alishan-forest-railway.md",
@@ -180585,7 +180641,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/tv-puppet-theater.md",
+          "translatedFrom": "Culture/電視布袋戲.md",
+          "sourceCommitSha": "55d991e82",
+          "sourceContentHash": "sha256:ad2ea2b7426872e8",
+          "sourceBodyHash": "sha256:efe2be1b9ec46e77",
+          "translatedAt": "2026-09-19T01:37:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -181522,8 +181589,8 @@
           "sourceContentHash": "sha256:69f8f034dcafc5a6",
           "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
           "translatedAt": "2026-09-19T01:37:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6ea787a",
+          "translationLastModified": "2026-09-19T06:53:29+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -181666,7 +181733,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/pixnet.md",
+          "translatedFrom": "Culture/痞客邦.md",
+          "sourceCommitSha": "65e6d03a4",
+          "sourceContentHash": "sha256:5d755db85cc865b7",
+          "sourceBodyHash": "sha256:260176da7ff3515f",
+          "translatedAt": "2026-09-19T01:37:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/pixnet.md",
