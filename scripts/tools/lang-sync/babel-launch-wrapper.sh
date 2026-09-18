@@ -26,7 +26,9 @@ cd /Users/musebase/Projects/taiwan-md || exit 1
 PY=/Users/musebase/.venvs/taiwanmd/bin/python
 [ -x "$PY" ] || PY="$(command -v python3.12 || command -v python3.11 || command -v python3.10 || command -v python3)"
 "$PY" -c 'import sys; assert sys.version_info >= (3, 10)' 2>/dev/null || { echo "wrapper: 找不到 Python ≥3.10（PY=$PY），停手不空轉" >&2; sleep 600; exit 1; }
-export PATH="$(dirname "$PY"):$PATH"
+# node（prettier）也不在 launchd 的 PATH 上：~/.local/bin 是 .zprofile 加的，repo 的
+# node_modules/.bin 有 prettier。兩個都掛上，dispatcher 的 npx 才找得到東西。
+export PATH="$(dirname "$PY"):$HOME/.local/bin:/Users/musebase/Projects/taiwan-md/node_modules/.bin:$PATH"
 git fetch -q origin main 2>/dev/null || echo "wrapper: git fetch 失敗，沿用舊的 origin/main ref" >&2
 "$PY" scripts/tools/lang-sync/babel-origin-exclude.py >&2 || echo "wrapper: 去重清單產生失敗，沿用上一份 .taiwanmd/babel-exclude.tsv" >&2
 

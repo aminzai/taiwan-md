@@ -1312,8 +1312,18 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         # so un-normalized output can pass the single-file gate and still fail
         # at commit (2026-07-24 smoke test: 0 issues pre-stage → 11
         # footnote-format violations post-prettier on the same file).
-        subprocess.run(["npx", "prettier", "--write", trans_path],
-                       cwd=REPO, capture_output=True, text=True)
+        # 2026-09-19：launchd 環境的 PATH 沒有 node，`npx` 直接 FileNotFoundError，
+        # 而這個例外在 ThreadPoolExecutor 裡不會印出來——worker 執行緒靜默死亡，
+        # 譯文落了地卻永遠沒有 report 列（兩篇 exit=0 的成品就這樣消失）。改成
+        # 先找 repo 內的 node_modules/.bin/prettier，找不到再退 npx，兩者都沒有
+        # 就 log 一行照樣往下驗（gate 會看到未正規化的位元組，寧可 verify fail
+        # 也不要執行緒死掉）。
+        prettier_bin = REPO / "node_modules" / ".bin" / "prettier"
+        prettier_cmd = ([str(prettier_bin)] if prettier_bin.exists() else ["npx", "prettier"]) + ["--write", trans_path]
+        try:
+            subprocess.run(prettier_cmd, cwd=REPO, capture_output=True, text=True)
+        except FileNotFoundError as e:
+            log(f"   ⚠️ prettier 不可用（{e}）— 跳過正規化直接驗，commit hook 會再跑一次")
         # passthrough 欄位機械 heal（2026-07-25）：模型常漏抄 image/imageCredit/
         # featured/readingTime 這類「本來就不該翻譯、逐字照抄即可」的欄位，
         # verify 把它算 hard fail 於是整篇好譯文被退掉重翻。實測本輪 verify=1
@@ -1604,8 +1614,30 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
         lang, group_path, zh_path = task
         with state.lock:
             state.in_flight.add(f"{lang}:{zh_path}")
-        process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log,
-                     engine=engine, no_patch=no_patch, no_noop_bump=no_noop_bump)
+        try:
+            process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log,
+                         engine=engine, no_patch=no_patch, no_noop_bump=no_noop_bump)
+        except Exception as e:  # noqa: BLE001
+            # 2026-09-19：ThreadPoolExecutor 把 worker 的例外收進 future，直到主執行緒
+            # 呼叫 result() 才會冒出來——中間這條執行緒就消失了，log 沒有、report 沒有、
+            # stderr 也沒有；剩下的 worker 照跑，看起來像產線只是慢。實撞：launchd 下
+            # PATH 沒 node，成功翻完的兩篇在 prettier 那一步 FileNotFoundError，兩個
+            # 地端 worker 就此靜默退場。這裡把例外變成一筆 fail 記錄，worker 繼續活。
+            import traceback
+            tb = traceback.format_exc()
+            log(f"💥 worker={worker.label} lang={lang} zh={zh_path} dispatcher 例外（執行緒續活）：{e}\n{tb[-1200:]}")
+            try:
+                report.write({
+                    "ts": datetime.now().astimezone().isoformat(timespec="seconds"),
+                    "lang": lang, "zh": zh_path, "worker": worker.label, "ok": False,
+                    "backend": worker.cascade_spec, "engine": engine,
+                    "fail_reason": f"dispatcher exception: {type(e).__name__}: {str(e)[:160]}",
+                    "disposition": "exception",
+                })
+            except Exception:
+                pass
+            with state.lock:
+                state.in_flight.discard(f"{lang}:{zh_path}")
 
 
 # ────────────────────────── main ──────────────────────────
