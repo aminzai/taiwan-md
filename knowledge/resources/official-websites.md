@@ -7,7 +7,7 @@ tags: ['resources', 'government', 'official', 'Taiwan.md']
 subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-17
+lastVerified: 2026-09-19
 lastHumanReview: false
 ---
 
@@ -343,7 +343,7 @@ lastHumanReview: false
 
 ### [典藏台灣](https://digitalarchives.tw/) 🌐
 
-中研院數位文化典藏，數位人文
+中研院數位文化典藏，數位人文。⚠️ 2026 年 9 月查核時站點回 503，可能停機維護；中研院數位文化中心的「開放博物館」（openmuseum.tw）可作替代入口
 
 ### [國家檔案管理局](https://www.archives.gov.tw/) 🌐
 
@@ -449,9 +449,9 @@ lastHumanReview: false
 
 選舉委員會官方網站，民主制度
 
-### [促進轉型正義委員會](https://www.tjc.gov.tw/) 🌐
+### [轉型正義（行政院人權及轉型正義處）](https://www.ey.gov.tw/Page/448DE008087A1971/be17db14-1d39-4f5d-add4-8805b1aa05ab) 🌐
 
-轉型正義推動（已完成任務），歷史清理
+促進轉型正義委員會於 2022 年 5 月 30 日任期屆滿解散，原網站已下線；工作依任務性質移交法務、內政、文化、衛福、教育與國發會六個主管機關，行政院設「推動轉型正義會報」與「人權及轉型正義處」統合協調。連結為行政院院會議案「促轉會轉型正義推動成果及任務移交」。
 
 ---
 
