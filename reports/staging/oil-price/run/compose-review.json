@@ -1,0 +1,42 @@
+{
+  "revision": 17,
+  "submissionId": "d789915c-ce60-4b02-b382-bc07d8a3d668",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "稿子完整、能讀、有脊椎：s1 排隊現場→s2 新聞稿算式（tw-stack 11.2 元切三份）→s3「這條線會回落，因為它從第一週起就是一個每週重算的預估值」→s6「1,014.31 跟 198.5 兩個數字可以同時是真的，只是不能相減」一路由動作推著走，第三型並陳守住 MANIFESTO §13（支持／批評／中油／在野各一句逐字，不評該不該補）。抽查 editorialChoices 七條（title、H2-4／5／8 還原、貨物稅段前移到 s2 末段、s8 tw-figure 45.4 元標估算與基準、許宇甄獨段）與減法四條（台電 711、12.29% 算式、動機評論、監察院兩點）都落在正文；unresolved 五條與研究報告 negative findings 對得上。擋在 accept 前的是五處一行改法的事實／紀實精度：(1) s3 與 s8 兩處把 9/15 的布蘭特 130.54 寫成跟行政院 9/16 新聞稿「同一天」，腳註 [^14] 逐字「本年9月15日」自己拆穿；(2) s1 三個研究報告 §8.C 逐字裡沒有的細節——「兩邊入口」（原文「每一個入口」）、「免得車龍回堵到大馬路上」（動機是補的）、「記者周麗蘭那晚在現場」（只有署名報導）；(3) s4「二十年來，這是監察院對這套公式本身提出的一次正式糾正」隱含唯一，研究報告未查過其他件；(4) s5「隔年 1 月接任的方振仁」接任時點查無，改「2025 年 1 月，董事長方振仁再報」；(5) description 去空格 164 字，交件寫「≤160」只在純 CJK 計法（116）下成立，需說明計法或再砍一句。另有不擋 ship 的建議：s6 第 3 段與 tw-bars 數字重複、s5 首末段 7,000 億／百億利息二擇一、「留在損益表上」三次同句型、賴建信八字引號可去、s4「從來就包括立法院自己」去「從來就」、s8 末句對真實阿嬤的未來想像改成不指名畫面；交件 editorialChoices「三節點」與正文四節點不一致。改完即可 accept。",
+  "contextDisclosure": "fresh-context-compose-inputs（草稿＋藍圖＋主編裁決＋研究報告）",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「凍漲二十週、調降三週：中油帳上那條吸收線」首段「同一天布蘭特原油現貨每桶 130.54 美元」；H2「那 36 元，會分三種方式寄回來」倒數第二段「跟同一天布蘭特的 130.54 美元」；腳註 [^14]"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「週日晚上八點半，雲林的加油站多了一排三角錐」第一段：「兩邊入口各排了至少十輛車」「免得車龍回堵到大馬路上」「工商時報記者周麗蘭那晚在現場」"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「2008 年一次漲足之後，公式每改一次都在處理上一次凍漲」第二段「二十年來，這是監察院對這套公式本身提出的一次正式糾正」；H2「先墊的人」首段「隔年 1 月接任的方振仁」；frontmatter description"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§4 引語庫；§6.1 #8（9/15 布蘭特 130.54）、#32；§8.C 2-5 工商時報逐字（「每一個入口至少排隊10輛」）；§8.B 2-3（立院決議與 189 億脈絡）；§8.A §3 賴建信「記者轉述非直引」"
+    },
+    {
+      "path": "reports/article-projection/台灣油價機制與中油.md",
+      "location": "§2 骨架八段；§3 s4 正文四節點、s7 局部承載 (b)(f)；§4 減法（台電 711、12.29%、動機評論、條目級刪除）；§6 title／description 雛形"
+    },
+    {
+      "path": "reports/editorial-room/台灣油價機制與中油-chief-review.md",
+      "location": "必改清單 #2（title／description ≤160）、#3（H2-4／5／8、貨物稅段前移）、#4（利息句與凍漲句去重）、#5（許宇甄獨段）、#7（s8 tw-figure）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission.json",
+      "location": "data.editorialChoices（「description ≤160」「正文只留⋯三節點」）；data.unresolved 五條"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review.md",
+      "location": "全文"
+    }
+  ]
+}
