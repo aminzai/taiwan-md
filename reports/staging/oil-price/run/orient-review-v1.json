@@ -1,0 +1,22 @@
+{
+  "revision": 2,
+  "submissionId": "83d96116-b818-4391-8082-47e1f98881bf",
+  "actor": "guide_orient_reviewer (Sonnet sub-agent aaeb3ece15f396fcf, fresh context)",
+  "verdict": "revise",
+  "rationale": "subjectExplanation 是塞滿數字的摘要不是朋友話；候選角度 A 與 C 共用「先墊、之後才付」同一未證結論骨架，只有 B 獨立，等於在 orient 站先宣判核心矛盾；unlock_reason 用現在式斷言「追加預算正在審議」但 uncertainties 自陳審議進度未查到，且「9/14 首漲」已塵埃落定不算戰場。要改：重寫 subjectExplanation 砍到 2-3 個數字錨點；角度 C 換成不預設中油先墊骨架的獨立角度（環團／節能訊號或預算法要件之爭）或 A+C 合併；unlock_reason 拿掉 9/14、把審議進度不確定寫進本文。uncertainties 第 5 點「搜不到不等於沒發生」合格。完整原文見 reports/staging/oil-price/run/orient-review-v1.md。",
+  "contextDisclosure": "fresh-context-orient-inputs-only",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v1.md",
+      "location": "全文"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-submission.json",
+      "location": "data.subjectExplanation 全段；data.candidateAngles 第 1、3 點；data.uncertainties 第 6 點"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "frontmatter unlock_reason；§脊椎 核心矛盾一行；§預想讀者帶走的那一件事"
+    }
+  ]
+}
