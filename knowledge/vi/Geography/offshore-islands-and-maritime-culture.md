@@ -23,10 +23,10 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: 'a05d24314'
-sourceContentHash: 'sha256:a5ce1cc1637b843d'
-sourceBodyHash: 'sha256:3262816e651d35d1'
-translatedAt: '2026-07-26T08:50:49+08:00'
+sourceCommitSha: '217edf31a'
+sourceContentHash: 'sha256:61916e4f91798262'
+sourceBodyHash: 'sha256:b069d77bfe98ff54'
+translatedAt: '2026-09-18T15:01:41.396617+00:00'
 ---
 
 > **30 giây tóm tắt:** Toàn cầu chỉ có dưới 600 con thạch sích (công cụ cổ xưa đánh cá), ngay cả Đài Bắc cũng có hơn 574 con. Độ sâu này xứng đáng là hàng đầu thế giới. Còn ở Lan Nhã, ngài Tà Dật tộc đã phát triển "quy tắc cấm đoán" của mùa cá bay thành hệ thống quản lý tài nguyên hải dương siêu hi precision nhất thế giới — không phải là quan niệm, mà là khoa học. Những đảo này không chỉ là biên giới của Đài Loan, mà còn là bảo tàng trí tuệ hải dương của loài người.
@@ -196,41 +196,45 @@ Lục Đảo có một kỳ quan hải dương hiếm có — hồi sinh hải d
 
 **Thêm một chút đặc biệt là thời gian**: hồi sinh hải dương Lục Đảo phù hợp nhất là vào lúc 5-6 sáng. Khi ánh mặt trời đầu tiên lên từ vựng biển, bạn đang tắm rửa trong nước ấm áp, chào đón bình minh — đây chính là trải nghiệm bình minh độc đáo nhất tại Đài Bắc.
 
-## Tri thức hải dương của các đảo: Đối với thế giới hiện đại
+## Trí tuệ biển đảo: Gợi mở cho thế giới hiện đại
 
-### Giải pháp cổ xưa cho nông nghiệp bền vững
+### Giải pháp cổ xưa cho nghề cá bền vững
 
-Thạch sích ở Đài Bắc, mùa cá bay ở Lan Nhã, đều là thực hành của nông nghiệp bền vững. Khi nông nghiệp hiện đại đang đối mặt với nguy cơ đánh cá quá mức, tri thức truyền thống này cung cấp những lời khuyên quan trọng:
+Các ngư cụ đá ở Bành Hồ (Penglai) và mùa cá bay ở Lan Dữ (Lanyu) đều là những thực hành "ngư nghiệp bền vững" cổ xưa. Khi nghề cá hiện đại đối mặt với khủng hoảng khai thác quá mức, trí tuệ truyền thống này đã cung cấp những gợi mở quan trọng:
 
-- **Quản lý mùa**: chiến lược bắt cá theo chu kỳ sinh vật
-- **Công nghệ sinh thái**: thạch sích không dùng keo dán nhựa, là công trình sinh thái đầu tiên
-- **Quản lý cộng đồng**: xây dựng và bảo trì thạch sích cần sự hợp tác của cả cộng đồng
-- **Văn hóa bảo tồn**: giao nhập quản lý nông nghiệp vào văn hóa truyền thống, tăng mức độ tuân thủ
+- **Quản lý theo mùa**: Chiến lược đánh bắt phù hợp với chu kỳ sống của các loài cá
+- **Kỹ thuật sinh thái**: Ngư cụ đá không sử dụng keo nhân tạo, là một ví dụ về kỹ thuật sinh thái sơ khai nhất
+- **Quản lý cộng đồng**: Việc xây dựng và bảo trì ngư cụ đòi hỏi sự hợp tác của cả cộng đồng
+- **Bảo tồn văn hóa**: Lồng ghép quản lý nghề cá vào truyền thống văn hóa để tăng tính tuân thủ
 
-### Kinh nghiệm điều chỉnh lại cho quốc gia đảo
+### Kinh nghiệm biến đổi khí hậu của các quốc đảo
 
-Đối mặt với nguy cơ dây nước tăng, các đảo cung cấp kinh nghiệm điều chỉnh lại đáng kể:
+Đối mặt với mối đe dọa nước biển dâng, các đảo xa đã cung cấp những kinh nghiệm thích ứng quý giá:
 
-- **Năng lượng đa dạng**: lãnh thổ Mạch Tây năng lượng gió, Đài Bắc năng lượng mặt trời
-- **Lọc nước biển**: tích lũy công nghệ giải quyết thiếu vắng nguồn nước ngọt
-- **Du lịch sinh thái**: chuyển đổi thành công từ ngành nông nghiệp truyền thống sang du lịch bền vững
-- **Sức mạnh văn hóa**: cách giữ được văn hóa truyền thống trong quá trình hiện đại hóa
+- **Năng lượng đa dạng**: Điện gió ở Mã Tổ (Matsu), hệ thống năng lượng mặt trời ở Bành Hồ
+- **Khử muối**: Sự tích lũy công nghệ giải quyết vấn đề thiếu nước ngọt
+- **Du lịch sinh thái**: Mô hình thành công chuyển đổi từ ngành công nghiệp truyền thống sang du lịch bền vững
+- **Sức sống văn hóa**: Cách bảo tồn văn hóa truyền thống trong quá trình hiện đại hóa
 
 ### Ý nghĩa toàn cầu của tư duy đảo
 
-Kinh nghiệm của các đảo Đài Bắc có giá trị tham khảo quan trọng đối với các quốc gia đảo trên thế giới. Từ các đảo của Tây Oan, đến các đảo của Đại Tây Dương như Quần đảo Maldives, đều đang đối mặt với những thách thức tương tự:
+Kinh nghiệm của các đảo thuộc Đài Loan có giá trị tham khảo quan trọng đối với các quốc gia đảo trên toàn thế giới. Từ Palau và quần đảo Micronesia ở Thái Bình Dương, đến Maldives ở Đại Tây Dương, tất cả đều phải đối mặt với những thách thức tương tự:
 
-Làm sao phát triển mô hình kinh tế bền vững trên tài nguyên hạn hữu hạn?
-Làm sao giữ được bản sắc văn hóa riêng biệt trong làn sóng hiện đại hóa?
-Làm sao duy trì sức mạnh xã hội khi đối mặt với biến đổi khí hậu?
+Làm thế nào để phát triển mô hình kinh tế bền vững trên nguồn tài nguyên đất đai hữu hạn?
+Làm thế nào để duy trì tính độc đáo của văn hóa trong làn sóng toàn cầu hóa?
+Làm thế nào để duy trì sức sống xã hội dưới mối đe dọa biến đổi khí hậu?
 
-**Ba trăm năm tri thức sinh tương với hải dương của Đài Bắc đã trả lời những câu hỏi quan trọng của thế kỷ 21.**
+**Các đảo thuộc Đài Loan đã trả lời những câu hỏi then chốt của thế kỷ 21 bằng trí tuệ sinh thái biển kéo dài ba trăm năm.**
 
-> **✦** "Hải dương không phải là rào cản, mà là sự kết nối. Những người sống trên các đảo này đã dùng đá xây dựng những công cụ bắt cá, dùng các quy tắc cấm đoán để xây dựng luật phá sinh thái, dùng hồi sinh hải dương để chào ngày mới, dùng tiếng hát để nhớ hành trình của cá bay. Họ kể cho chúng ta biết: con người có thể sống hòa hợp với hải dương, không chỉ thống trị, mà còn cùng sinh tồn."
+> **✦** "Đại dương không phải là rào cản, mà là sự kết nối. Người dân trên các hòn đảo này dùng đá xây bẫy cá, dùng điều cấm kỵ dệt nên luật pháp bền vững, dùng suối nước nóng đón chào mặt trời, và dùng tiếng hát để ghi nhớ đường bay của cá bay. Họ dạy chúng ta: con người có thể chung sống hài hòa với đại dương, không chỉ là chinh phục, mà còn là cùng sinh tồn."
 
-Khi bạn đứng trên bàn quan sát của thạch sích hai trái tim ở Bảy Mỡ, nhìn thấy những tường đá tuyền 300 năm trước phản chiếu bóng mặt trời; Khi bạn ngồi lắng nghe ngài Tà Dật tộc già lão ca từng truyền thống của mùa cá bay; Khi bạn lặn trong nước trong của Đảo Nhỏ Lục nhìn thấy mắt mật ong biển — bạn đang nghe không chỉ là tiếng sóng biển, mà còn là tiếng vang của tri thức giao tiếp với hải dương trong bốn ngàn năm.
+Khi bạn đứng trên đài quan sát ngư cụ đá Song Tâm Thất Mỹ (Qimei) và ngắm nhìn những bức tường đá bazan hàng trăm năm tuổi lấp lánh trong ánh hoàng hôn; khi bạn lắng nghe các trưởng lão dân tộc Đạt Ngộ (Datoga) hát bài ca lao động cổ xưa ở Lan Dữ; khi bạn đối diện với rùa xanh trong làn nước trong vắt của Tiểu Lưu Cầu — những gì bạn nghe không chỉ là tiếng sóng biển, mà còn là tiếng vọng trí tuệ hàng ngàn năm của hòn đảo này trò chuyện cùng đại dương.
 
-Những tiếng vang này nhắc nhở chúng ta: chúng ta không phải là chủ nhân của hải dương, mà là con cái của hải dương.
+Những âm thanh đó nhắc nhở chúng ta: chúng ta không phải là chủ nhân của đại dương, mà là con cái của đại dương.
+
+**Đọc thêm**:
+
+- [Quần đảo Mã Tổ Quốc tế Nghệ thuật](/vi/art/matsu-biennial) — Ngoài "Nước mắt xanh" và các đường hầm, trong mười năm qua, Mã Tổ cũng đã tạo ra ngôn ngữ triển lãm riêng: ba chủ đề 《島嶼釀》 (Rượu Đảo), 《生紅過夏》 (Đỏ Rực Mùa Hè) và 《拍楸》 (Chụp Thược), đều được lấy từ các thành ngữ địa phương Miền Đông Phúc Kiến.
 
 ## Tài liệu tham khảo
 
