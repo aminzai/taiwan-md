@@ -1,0 +1,54 @@
+工作目錄：/Users/cheyuwu/Projects/taiwan-md/.worktrees/20260918-20260918-low-wage（Bash 每次用 `cd <此路徑> && ...`；Write／Read 用絕對路徑）。前景串行執行，禁止 run_in_background。禁止上網（研究已完成，所有材料在研究報告）。禁止讀 knowledge/ 下其他文章正文（只准 `ls knowledge/Society/` 確認 crosslink 目標檔名存在，以及 `sed -n '1,45p' knowledge/Society/外送專法.md` 看 frontmatter 格式範例）。
+
+## Frontmatter 機械規格（照 knowledge/Society/外送專法.md 的欄位順序；❌/✅ 對照）
+- title：冒號三明治，用藍圖 §6 雛形「誰算低薪：主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄」或更好的版本（遮住「誰算低薪」副標仍成立）。❌ 'title: 誰算低薪' ✅ 'title: '誰算低薪：⋯''
+- description：120-160 字，三段（具體 scene＋軌跡＋核心矛盾 ending），單引號包，內含撇號要用雙撇號跳脫
+- date: 2026-09-18；category: 'Society'；subcategory: '法律與制度'；tags: 5 個（低薪、最低工資、薪資中位數、主計總處、OECD）；author: 'Taiwan.md'；readingTime: 依字數估（分鐘）；featured: false；lastVerified: 2026-09-18；lastHumanReview: false；viewpoint_formed: true；researchReport: reports/research/2026-09/誰算低薪.md；projectionBlueprint: reports/article-projection/誰算低薪.md
+- rationale 四欄（why_this_hook／whats_excluded／where_it_hedges／whos_pushing_back）：各一段散文，whats_excluded 用藍圖 §6 清單，where_it_hedges 列出所有標「推算」「試算」「記者轉述」的地方，whos_pushing_back 列各方與其立場（含資方）
+- image／imageCredit／imageLicense／imageSource：hero 那張
+- ❌ 不寫 relatedDiary、sporeLinks（工具寫入）；❌ 不寫 `translatedFrom`
+- 正文以 `# {title}` 起，接 `> **30 秒概覽：**` blockquote（100-200 字，跟 description 不互相複寫），再進 8 節 H2；文末依序 `## 延伸閱讀`（3-5 條標準 Markdown 連結＋一句描述）、`## 圖片來源`、`## 參考資料`（腳註定義 `[^n]: [來源標題](URL) — 描述`，每條 URL 只用研究報告 §7 參考文獻裡的，禁止自造 URL；腳註密度目標 ≥ 25 條）
+- ❌ 不用半形標點於中文句；❌ 不用「——」超過 15 處；❌ 「不是 X，是 Y」全文 ≤ 3 處；❌ 全形分號散文中 ≤ 3；❌ 段落 >280 字
+- 寫完自跑：`python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --profile=rewrite-stage-4` 與 `--profile=rewrite-stage-3-5` 與 `--check=prose-health`，把輸出貼進 final message；hard>0 自己修到 0 再交（pre-existing 問題也要接住）
+
+你是 Taiwan.md REWRITE-PIPELINE Stage 2 的 fresh writer。你在乾淨 context 裡像第一次寫這篇，
+但握有完整研究與一份投影藍圖。所有寫作紀律住在下面五份 canonical 裡——你的第一個工作是把它們真的讀完。
+最重要的一份是投影藍圖：它已經替你想好論點與骨架，你的工作是把它執行成句子，不是重新設計結構。
+
+## 任務
+主題：誰算低薪——2026-09-14 主計總處說明引發的低薪定義之爭：同一批薪資，按月算零人低薪，按年算 126 萬人（模式：Fresh）
+spine：矛盾驅動——第三型「多觀點立場議題探討矛盾型」（手法 5 多元視角並陳為主、手法 7 好奇／謎題為輔；P8 判斷框架式；M2 解釋器 call-out 一則）；核心矛盾「同一批薪資，按月算零人低薪，按年算 126 萬人」；論點「零人和 126 萬都是真的：吵的是哪一欄的錢算薪水、誰站在分母裡——本薪那一欄有法律守著，年終那一欄沒有，尺外面還站著三百多萬人」
+結構：8 節，H2 與每節全局功能、局部承載、viz 全在藍圖 §3（1 同一場記者會零人與 126 萬 → 2 三把尺 → 3 本薪有法律守著年終沒有 → 4 分母門外三百多萬人 → 5 兩年前勞動部長也算過 → 6 15,840 印了十年然後連漲十年 → 7 「粉飾太平」還是尺的問題：每一方自己的話 → 8 9 月 24 日二十一個人）；hook 用藍圖 §3 section 1 的 H1 場景；結尾用 §6 審定的薪資單兩欄畫面
+字數 ≥ 5000 CJK。
+
+## 【第 0 步｜必讀五份 + 讀取回執】動筆前必做，回執放 final message 最前面
+完整 Read（不 skim、不 head/tail、含範例段）：
+0. `reports/article-projection/誰算低薪.md` 整份——**你的主要規格（v8.0）**：論點、骨架（動作序列）、每 section 的全局功能、減法、echo map。**照這份骨架寫，不按面向重排、不自己發明結構、藍圖說砍的（§減法）不要寫進去。** 藍圖是結構命令，research report 是材料來源。
+1. `reports/research/2026-09/誰算低薪.md` 整份——§6 fact-pack 是導航，§8 raw verbatim 才有血肉（場景/引語/數字 texture）。
+2. `docs/editorial/EDITORIAL.md` 全檔——風格、禁令、Before/After 範例。
+3. `docs/pipelines/REWRITE-PIPELINE.md` 的 Stage 2 全段——流程與 7 條自檢。
+4. `docs/editorial/graph.md`——視覺化模組型錄＋何時用哪種（模組數以其 §四 為準；藍圖 §審定已列視覺化候選，你據此做）。要找現成寫法就翻 `docs/editorial/VIZ-RECIPES.md`（題材 → 可整塊複製的 starter，數字換成本篇查證過的、來源列一定要改）。
+
+**讀完先寫「讀取回執」（逐字 quote 造假不了，這是防 skim 的閘門）**：
+- 【骨架複述】逐 section 複述藍圖給它的**全局功能**（這一段替論點做什麼），一句一段——證明你讀懂的是論證不是面向清單
+- 【§8 texture】從 research §8 抄 3 個會用進文章的具體細節（各附 §8 子節位置）
+- 【EDITORIAL 引例】quote 1 個 Before/After 或禁令範例＋你會怎麼套用
+- 【viz 宣告】對照 [REWRITE-STAGE-2A Step 2.0.5](REWRITE-STAGE-2A-PROJECTION.md) 的十五類資料關係**逐類答一句「用／不用＋為什麼」**，不是只列想到的那幾個——沒被點名的類別要被明確排除，不能靜默跳過（六個模組零使用就是這樣來的）。要用的再補：哪個 `tw-*`、放哪節。全部不用則引 graph.md §九 說明理由
+- 【論點＋結尾】一句藍圖論點宣告＋收尾畫面（結尾先行）
+主 session 會逐項核對真偽；骨架複述對不上藍圖、或 quote 不出來 = 沒讀 = 退回。
+
+## 【本篇素材】（research 產物，非規則）
+- 幻覺護欄（違反=整篇降級）：(1) 2026 年最低工資是 29,500 元／時薪 196，「破三萬」是 9/24 審議會對 2027 年的決定（賴清德 8/7「只要再加一次就超過3萬」），全文任何地方不得寫「2026 年破三萬」；(2) 每個數字帶母體與年份：49,491／39,629／70.03% 是「全體受僱員工」（含部分工時與外籍）；52,528／41,397／27,598／70.30% 是「本國籍全時受僱員工」2026 年 7 月每月經常性薪資；77.6 萬／58.5 萬／39 萬／126 萬／16.8% 是 2024 年本國籍全時「全年總薪資」——三組不可混寫在同一句當同一群人；(3) 126 萬／16.8% 是主計總處副處長譚文玲 9/14 的試算，主計總處沒有書面表；分母寫「約 747 萬（2024 年上半年本國籍全時，推估）」，禁止寫 126÷751；(4) 不寫「OECD 中位數含獎金」也不寫「不含」——OECD 定義文本沒寫；台灣 71.3%（29,500／41,397，分子分母都是不含獎金的月薪）與 60.5%（354,000／585,000，分子不含獎金、分母含）兩個口徑不同，寫出來必須揭露；韓 59.6／日 46.4／法 62.5 只進圖表資料列不進散文；(5) 「粉飾太平」「文字遊戲」「不懂民間疾苦」只在引號內歸給發言者；不評任何一方動機；政府對 9/15 批評沒有第二輪回應→只寫「沒有回應」，不寫原因；每一方逐字後面用同一把尺標「這句指的是哪一欄、哪個分母」，不對任何一方單獨加「這句是對的」；楊書瑋、王燕杰（台北市產業總工會副理事長，勞方）、資方委員都只代表自己或其團體；(6) 直接引語只能用研究報告 §4 引語庫 Ctrl-F ✓ 的句子逐字；記者轉述（許宇甄 Q5/Q6、何佩珊 Q18、資方委員 Q17）不加引號改轉述；OECD 英文定義可引原文；(7) 最低工資法 2023-12-27 公布、2024-01-01 施行，2025 年 1 月 1 日的 28,590 是新法第一次公告、取代基本工資；1997-10-16 15,840 到 2007-07-01 17,280 是「十年沒動」；2024 年 27,470 是基本工資最後一次；(8) 「低於平均比率創有統計以來新高」不寫——PDF 表只到 2021 年；寫「連六年上升、2026 年上半年首次破七成（全體口徑 70.03%）」；(9) 自算數字（36.4 萬≈第 17 百分位、金融獎金占比四成多、移工年化 43.6／37.5 萬）一律標「推算」或「依主計總處平均數推算」，不寫小數、不寫「一樣」只寫「差不多」；(10) 不用「這座島」代稱台灣；不寫「台灣沒有低薪定義」當成政府從沒用過這把尺——正確說法是沒有法定或行政命令層級的定義，但勞動部長何佩珊 2024-10-17 在立法院用過
+- 深度外連（sibling 各有專文，每節點一個 facet + link 不重寫）：[[外送專法]]（第三型姊妹篇，勞動議題）、[[冷氣與能源貧窮議題]]（Society 另一條貧窮線）、[[學習貧窮]]（貧窮的定義題）、[[台灣斜槓世代]]（非典型工作）——每個只在最相關的一節點一個 facet 加連結，不重寫；延伸閱讀用標準 Markdown 連結 `/society/slug` 格式（見 EDITORIAL），不用 wikilink
+- 在庫媒體（絕對路徑去 public 前綴）：hero：/article-images/society/dgbas-guangbo-building-2023.webp（主計總處廣博大樓，CC BY-SA 4.0，Yu_tptw，https://commons.wikimedia.org/wiki/File:Guangbo_Building_20230306.jpg）→ frontmatter image/imageCredit/imageLicense/imageSource；inline 1（第 6 節段首）：/article-images/society/mol-minimum-wage-ten-year-chart-2025.webp（勞動部 2025-09-26 新聞稿附圖 3，OGDL-Taiwan-1.0，https://www.mol.gov.tw/1607/1632/1633/84947/post），caption 講「官方自己怎麼畫這條線」；inline 2（第 8 節段首）：/article-images/society/mol-main-entrance-2023.webp（勞動部大門，CC BY-SA 4.0，Solomon203，https://commons.wikimedia.org/wiki/File:ROC-MOL_main_entrance_20230812.jpg）。三張都要在文末「## 圖片來源」段列出（格式見 EDITORIAL／研究報告 §媒體授權矩陣）。無官方影片、無 iframe。tw-* 模組依藍圖 §3／§6：至少 tw-bars（三把尺）、tw-waffle（16.8%）、tw-stack（862.7 萬組成）、tw-line（最低工資弧線 1968-2026）、tw-bars 排序（OECD 各國，台灣 * 強調）、tw-slope（最低工資 vs 中位數成長）、tw-versus（月薪口徑 vs 年薪口徑）、tw-note×2、tw-quote；每個資料模組加「來源：」列；語法照 graph.md §四
+
+## 輸出（機械契約）
+- Fresh=Evolution → Write 到 `knowledge/Society/誰算低薪.md`（staging 全新檔，不碰 knowledge/）；Fresh → 直寫 canonical。
+- final message：先讀取回執（五項，含骨架複述）→ 再 3-5 bullet（字數/footnote 數/viz 模組數/哪節最花力氣）。
+  檔案結尾不寫任何「已完成/policy」元敘述。
+
+## Anti-examples（別學）
+| 1 | 不讀 report 只吃 fact-pack（2026-06-15） | orchestrator 把 report 二次摘要塞 prompt、叫 writer 別讀 report → raw texture 全漏 → 哲宇 callout「難怪最近文章都變爛」。§6 只是導航，必須親讀 §8。 |
+| 3 | writer 自長幻覺引語（2026-06-01 賈樟柯） | writer 自報全綠，主 session 抓到它新長出一句杜撰引語（cited source 無此句）。引語只能用 research 標「Ctrl-F 可驗 ✓」的。 |
+| 4 | 零視覺化（2026-07-12 茶文化 v1） | 6,400 字資料密集文（出口量三級跳/比賽茶 60 倍/海拔帶/世界座標）成品零 tw-* 模組——writer 與 orchestrator 都沒讀 graph.md。哲宇 callout「也沒讀 graph.md，也沒有任何資訊視覺化」。 |
+| 6 | 英式短句開場骨架（2026-08-19 比國家還大的演算藝術） | 「這些翻譯很多是在我家跑的。我家裡有一張 3090⋯」「純粹之後才輪到後面那一段。我們在搜尋引擎上⋯」——每段先甩一句短平述句定調再展開，工具全綠，哲宇同日兩次點同一篇，改稿前 15 處。段首句接進敘事，或用人事時地起頭（EDITORIAL §歐化 第 9 病第三輪有五組 before/after）。 |
