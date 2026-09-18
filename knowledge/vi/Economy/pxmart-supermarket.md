@@ -1,14 +1,14 @@
 ---
-title: 'Centra Lợi ích Quốc gia: Từ trạm lợi ích xã hội bẩn thối đến vị vua của ngành bán lẻ ở Đài Loan'
-description: 'Năm 1998, Lin Minh Hồng (Tsai Min-hung, 林敏雄) nhận nhầm 66 cửa hàng "bẩn thối" còn lại của Trung tâm Hỗ trợ Xã hội Quân đội và Công chúc, nhờ chương trình "giá rẻ 20%, lợi nhuận chỉ 2%" duy trì quy tắc thép, trong vòng 25 năm mở rộng thành 1.200 cửa hàng. Đây không chỉ là một cuộc cách mạng bán lẻ mà còn là truyền thuyết về một doanh nhân xây dựng bằng cách dùng "lợi ích chung" biến siêu thị thành nền tảng sống cao tần của người Đài Loan.'
+title: 'Chuỗi siêu thị PX Mart: Cuộc phục hưng từ cửa hàng phúc lợi "xấu xí" đến ông trùm bán lẻ Đài Loan'
+description: 'Năm 1998, Lâm Mẫn Hùng tiếp quản 66 cơ sở cung cấp phúc lợi quân đội và giáo dục vốn bị thua lỗ triền miên. Với kỷ luật sắt đá "giá rẻ 20%, lợi nhuận 2%", ông đã mở rộng lên 1.200 cửa hàng trong hai mươi lăm năm. Đây không chỉ là một cuộc cách mạng bán lẻ, mà còn là câu chuyện về cách một đại gia bất động sản biến siêu thị thành nền tảng sinh hoạt tần suất cao của người dân Đài Loan bằng logic "giảm giá".'
 date: 2026-04-21
 category: 'Economy'
 tags:
   [
-    'Centra Lợi ích',
-    'Lin Minh Hồng',
+    'PX Mart',
+    'Lâm Mẫn Hùng',
     'ngành bán lẻ',
-    'Toàn thanh toán',
+    'thanh toán toàn diện (AllPay)',
     'kinh tế Đài Loan',
   ]
 subcategory: '企業列傳'
@@ -18,67 +18,69 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '50617dc14'
-sourceContentHash: 'sha256:25424dad4bf389f3'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:6ebac68ebf527a7d'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-07-28T08:16:22+08:00'
+translatedAt: '2026-09-18T00:53:05+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Năm 1998, doanh nhân xây dựng Lin Minh Hồng nhận nhầm các cửa hàng hỗ trợ xã hội quân đội và công chúc đang lỗ gần như tận trường, chỉ còn 66 cửa hàng. Ông nhận định một cách thẳng thắn: "Tôi chưa từng đến quận này trước khi nhận nhầm, lần đầu tiên đi qua thì tôi chỉ muốn nói: Trời ơi, sao bẩn thối như vậy, ai mà đến mua hàng được!" — như vậy, Lin Minh Hồng đã khởi nguồn một cuộc cách mạng bán lẻ bằng cách xây dựng một quy tắc sống: hàng hóa phải rẻ hơn đối thủ 20%, nhưng lợi nhuận chỉ 2%. Trong khi các nhà bán lẻ lớn như Walmart và Carrefour cạnh tranh bằng giá cả, và các chuỗi tiện lợi như 7-Eleven chiếm ưu thế về sự tiện lợi, Lin Minh Hồng đã chọn con đường khó khăn nhất: **giá rẻ cực đoan**.
+> **Tóm tắt 30 giây:** Năm 1998, đại gia bất động sản Lâm Mẫn Hùng tiếp nhận các cơ sở phúc lợi quân đội và giáo dục vốn thua lỗ triền miên với chỉ 66 cửa hàng. Với tư cách một "người ngoài cuộc", ông đã đặt ra ranh giới sinh tồn là "giá rẻ 20%, lợi nhuận 2%", và bằng cách nào đó, đã tạo ra con đường sống cho siêu thị giữa sự cạnh tranh của các tập đoàn bách hóa và cửa hàng tiện lợi. Ngày nay, PX Mart là một bá chủ bán lẻ với doanh thu hàng năm vượt 200 tỷ Đài tệ và sở hữu 1.200 cửa hàng, nhưng những tranh cãi về độc quyền và cơn đau chuyển đổi số đằng sau sự mở rộng nhanh chóng này đang thử thách hai mươi năm tiếp theo của "nền tảng sinh hoạt" này.
 
-### Lý do "lợi ích chung" của doanh nhân xây dựng
+"Nói thật, trước khi nhận việc tôi chưa từng ghé qua, lần đầu tiên bước vào trong lòng chỉ nghĩ: Ồ, sao mà xấu xí và cũ kỹ thế, ai lại đến mua đồ ở đây!" Năm 2018, tại buổi ra mắt sách mới, Chủ tịch PX Mart Lâm Mẫn Hùng đã thẳng thắn hồi tưởng về cú sốc khi ông tiếp nhận "Hợp tác xã PX" từ chính phủ vào năm 1998. Khi đó, ông là chủ tịch của công ty bất động sản Nguyên Lợi (Yuanli), một đại gia bất động sản hoàn toàn không am hiểu ngành bán lẻ, nhưng lại tình cờ trở thành người châm ngòi cho cuộc cách mạng siêu thị ở Đài Loan.
 
-Năm 1998, Chính phủ quyết định tự do hóa Trung tâm Hợp tác Xã Quốc gia của Nhà nước Trung Hoa Dân Quốc (Centra Lợi ích). Vào thời điểm đó, trang thiết bị cũ kỹ, đèn chiếu sáng tối kém, và chỉ cho phép nhân viên quân đội và công chúc vào, Centra Lợi ích gần như không còn cơ hội cạnh tranh trong thị trường tự do. Khi nhận nhầm, Lin Minh Hồng tiêu biểu nhất là việc phá vỡ các rào cản, mở cửa để mọi người dân ở toàn Đài Loan có thể vào mua sắm.
+### Logic "Giảm Giá" của Đại Gia Bất Động Sản
 
-Tuy nhiên, ông phải đối mặt với một thị trường khắc nghiệt: phía trên có các siêu thị lớn như Walmart và Carrefour kéo xuống giá, phía dưới là các chuỗi tiện lợi 7-Eleven lan tỏa khắp Đài Loan với tính tiện lợi. Lin Minh Hồng chọn con đường nhất thời nhưng cứng nhắc nhất: **giá rẻ cực đoan**.
+Năm 1998, chính quyền hành pháp quyết định tư nhân hóa "Hợp tác xã Liên hiệp Trung Hoa Dân Quốc" (PX). Vào thời điểm đó, PX có thiết bị cũ kỹ, ánh sáng lờ mờ và chỉ giới hạn cho quân nhân, công chức và giáo viên vào mua sắm; trong môi trường cạnh tranh thị trường tự do, nó gần như không có cơ hội nào. Sau khi Lâm Mẫn Hùng tiếp quản, việc đầu tiên ông làm là phá bỏ rào cản, cho phép người dân toàn Đài Loan vào mua sắm.
 
-Ông đặt ra một "quy tắc sống": hàng hóa trong Centra Lợi ích phải rẻ hơn đối thủ 20%, nhưng lợi nhuận chỉ được 2%. Điều này trong kinh doanh bán lẻ tại thời điểm đó trông giống hệt một hành động tự hủy hoại. Lin Minh Hồng từng kể lại, trong giai đoạn khởi nghiệp, mỗi chiều tuần, đội ngũ lại tụ tập quanh một bàn giá rẻ để cùng nhau suy nghĩ, mục tiêu duy nhất là "quy mô". Ông hiểu rằng, chỉ khi có đủ số cửa hàng, mới có thể đàm phán với các nhà cung cấp để giảm giá mua vào, từ đó duy trì được lợi nhuận chỉ 2%.
+Tuy nhiên, ông phải đối mặt với một thị trường cực kỳ tàn nhẫn: phía trên có các siêu thị như Carrefour (Ga-le-fu), Dajunfa (Đại Tuấn Phát) ép giá, còn bên dưới là sự tiện lợi của chuỗi cửa hàng tiện lợi 7-Eleven phủ khắp Đài Loan. Lâm Mẫn Hùng đã chọn con đường đơn giản nhất nhưng cứng rắn nhất: **giá cực kỳ rẻ**.
 
-📝 Ghi chú của người hỗ trợ: Thành công của Centra Lợi ích không phải do nó hiểu về ngành bán lẻ, mà do nó hiểu về "lợi ích chung". Lin Minh Hồng dùng kinh nghiệm từ ngành xây dựng để quản lý từng đồng tiền thành "lợi nhuận nhỏ bé".
+Ông đặt ra một "điều khoản tối cao": sản phẩm của PX phải rẻ hơn đối thủ 20%, nhưng lợi nhuận chỉ được lấy 2%. Điều này, trong mắt ngành bán lẻ lúc bấy giờ, chẳng khác nào hành động tự sát. Lâm Mẫn Hùng từng hồi tưởng rằng, vào những ngày đầu khởi nghiệp, đội ngũ thường họp quanh một chiếc bàn giá rẻ mỗi chiều thứ Hai, mục tiêu duy nhất là "quy mô". Ông hiểu rõ, chỉ khi số lượng cửa hàng đủ nhiều, họ mới có thể đàm phán được giá nhập hàng thấp hơn với nhà cung cấp, từ đó duy trì mức lợi nhuận ít ỏi 2%.
 
-### Từ "giá rẻ thực sự" đến "Nghệ thuật sống của Centra Lợi ích"
+📝 Ghi chú của Biên tập viên: Thành công của PX không phải vì nó giỏi bán lẻ, mà vì nó hiểu "sự nhượng bộ". Lâm Mẫn Hùng đã dùng sự rộng mở của ngành xây dựng để quản lý từng đồng lợi nhuận nhỏ.
 
-Thời điểm chuyển mình của Centra Lợi ích xuất hiện vào năm 2006. Khi đó, Centra Lợi ích hợp tác với Ogilvy Advertising, ra mắt một loạt quảng cáo với nhân vật chính là người đàn ông "Centra Lợi ích" bạn邱彥翔 (Qiu Yan-hsiang, 邱彥翔) diễn. Trong các quảng cáo, không có bố trí sang trọng, chỉ có người Centra Lợi ích lặng lẽ liệt kê cách Centra Lợi ích đã tiết kiệm chi phí quảng cáo, tiết kiệm chi phí áo đồng phục đẹp nhưng chỉ để giảm giá. Loại humor "thật sự nhưng hơi xấu hổ" này đã chạm đến trái tim của người tiêu dùng Đài Loan, biến Centra Lợi ích từ "chỗ mua hàng rẻ cho người nghèo" thành "biểu tượng của người tiêu dùng khảo tác".
+### Từ "Thực Sự Rẻ" đến "Thẩm Mỹ Sống Của PX Mart"
 
-Khi số lượng cửa hàng vượt quá 250, Centra Lợi ích cuối cùng chuyển đổi từ lỗ sang lời. Lin Minh Hồng bắt đầu thể hiện tinh thần mua chuộc, sau đó đã hụi hợp các thương hiệu như Tiện lợi Đông Hồ, Siêu thị nông sản Hà Nội, và vào năm 2021 đã gây bất ngờ cho ngành bán lẻ với vụ "hụi hợp Carrefour". Loạt các thao tác này khiến Centra Lợi ích không còn là một siêu thị đơn thuần, mà mở rộng sang bán lẻ và thực phẩm tươi sống, hoàn toàn thay đổi thói quen mua sắm của người Đài Loan.
+Bước ngoặt của PX xuất hiện vào năm 2006. Khi đó, PX tìm đến quảng cáo Ogilvy và ra mắt loạt quảng cáo do "Anh chàng PX" (Qiu Yanxiang) đóng chính. Trong các quảng cáo không có trang trí lộng lẫy nào, chỉ có Anh chàng PX với vẻ mặt vô cảm đang đếm cặn kẽ cách PX tiết kiệm chi phí quảng cáo, tiết kiệm chi phí đồng phục đẹp, tất cả chỉ để giảm giá. Sự hài hước "thành thật đến mức hơi ngượng ngùng" này đã đánh trúng tâm lý người tiêu dùng Đài Loan, biến PX từ "cửa hàng người nghèo ghé vào" thành "biểu tượng của việc tiêu dùng thông minh".
 
-"Điều chỉnh giá, chính là quy tắc sống của tổng thống." Chủ tịch điều hành của Centra Lợi ích Xie Jian-nan (Jensen Huang, 謝健南) từng mô tả như vậy về sự kiên nhẫn của Lin Minh Hồng đối với mức giá thấp. Dù đang vào năm 2025 với mức giá tăng cao, Centra Lợi ích vẫn thông qua các mô hình hợp tác như "đậu đỏ chim cánh cụt" để cân bằng giá cả nông sản ổn định và chi phí của người tiêu dùng.
+Khi số lượng cửa hàng vượt qua 250, PX cuối cùng cũng chuyển từ thua lỗ sang có lãi. Lâm Mẫn Hùng bắt đầu thể hiện tham vọng mua lại, lần lượt thâu tóm các siêu thị như Shansi De (Thiện Mỹ Đắc), Taipei Nongchan (Đài Bắc Nông Sản), Qanmai (Toàn Mãi), và vụ "PX sáp nhập Carrefour" gây chấn động ngành vào năm 2021. Chuỗi hành động này đã giúp PX vượt ra khỏi phạm vi siêu thị đơn thuần, vươn vào lĩnh vực bách hóa và thực phẩm tươi sống, thay đổi hoàn toàn thói quen mua sắm của người dân Đài Loan.
 
-### Đau khổ chuyển đổi số: Khủng hoảng "Toàn thanh toán"
+"Việc điều chỉnh giá chính là quy tắc tối cao của Chủ tịch." Giám đốc điều hành PX Xie Jiannan từng mô tả sự kiên trì của Lâm Mẫn Hùng đối với giá cả. Ngay cả trong thời đại lạm phát năm 2025, PX vẫn cố gắng cân bằng giữa giá nông sản ổn định và túi tiền người tiêu dùng thông qua các mô hình hợp tác như "Lão Ưng Hồng Đậu".
 
-Tuy nhiên, sự tăng trưởng nhanh chóng và chuyển đổi số cũng mang lại những thách thức chưa từng có. Năm 2022, Centra Lợi ích ra mắt dịch vụ thanh toán điện tử "Toàn thanh toán" (PXPay Plus), nhờ lượng thành viên mạnh mẽ đã nhanh chóng chiếm top ba thị phần thanh toán di động tại Đài Loan. Tuy nhiên, thành công này đã gặp phải một nghiên cứu nghiêm trọng vào cuối năm 2025.
+### Cơn đau chuyển đổi số: Khủng hoảng "mất kết nối" của AllPay
 
-Vào tháng 11 năm 2025, Toàn thanh toán bùng phát nhiều vụ gian lận. Một số người dùng bị trừ tiền liên tục 20 khoản trong vòng vài phút, thiệt hại lên tới 80.000 USD. Dù Toàn thanh toán khẳng định hệ thống an toàn không có vấn đề, cho rằng đây là các nhóm gian lận dùng kỹ thuật lừa đảo bằng tin nhắn để kéo người dùng nhập thông tin, nhưng cách xử lý tiếc nhắn khiến người dùng phát cuồng.
+Tuy nhiên, sự mở rộng nhanh chóng và quá trình chuyển đổi số cũng mang lại những thách thức chưa từng có. Năm 2022, PX ra mắt dịch vụ thanh toán điện tử "AllPay" (PXPay Plus), nhờ cơ sở khách hàng mạnh mẽ mà nhanh chóng lọt vào top ba thị phần thanh toán điện tử Đài Loan. Nhưng thành công này đã gặp phải một cuộc khủng hoảng niềm tin nghiêm trọng vào cuối năm 2025.
 
-Trên các nền tảng xã hội như Threads và Facebook, người dùng đã khởi xướng hành động "hủy hợp đồng", liệt kê các "nguyên nhân lớn" của Centra Lợi ích: chợt lợi thế thị trường, nghi ngờ an ninh mạng, ghi nhãn sai lệch, nhân viên cứng đầu và thái độ không quan tâm đối với các vụ việc tranh cãi. Vụ bùng phát này phản ánh Centra Lợi ích khi chuyển từ "siêu thị làng nghề" sang "nền tảng tài chính kỹ thuật số" thì chất lượng dịch vụ và khả năng xử lý khủng hoảng chưa kịp thích nghi với quy mô khổng lồ của họ.
+Vào tháng 11 năm 2025, AllPay bùng phát nhiều vụ gian lận thẻ. Một số người dùng bị trừ liên tục 20 giao dịch chỉ trong vài phút, thiệt hại lên tới 80.000 Đài tệ. Mặc dù AllPay chính thức nhấn mạnh hệ thống an toàn và cho rằng đây là hành vi lừa đảo của các nhóm lừa đảo thông qua tin nhắn rác (phishing), thái độ thụ động trong quá trình xử lý đã gây ra cơn thịnh nộ trên mạng xã hội.
 
-📝 Ghi chú của người hỗ trợ: Khi một thương hiệu trở nên "xuyên khắp mọi nơi", nó không còn quyền được xin tha thứ vì bí mật. Khủng hoảng của Centra Lợi ích không phải do gian lận mà là vì nó có nhớ tiếp tục với "bàn giá rẻ" ban đầu không.
+Trên các nền tảng mạng xã hội Threads và Facebook, người dùng đã phát động "hành động ngắt kết nối" (đoạn tuyệt), liệt kê "năm tội lỗi lớn" của PX: độc quyền thị trường, nghi ngờ an ninh mạng, ghi nhãn không trung thực, đối xử khắc nghiệt với nhân viên và sự kiêu ngạo trước các vụ tranh cãi. Sự kiện bùng nổ này phản ánh việc chất lượng dịch vụ và khả năng xử lý khủng hoảng của PX vẫn chưa theo kịp quy mô khổng lồ khi nó chuyển mình từ "siêu thị khu phố" sang "nền tảng tài chính số".
 
-### Kết luận: Thập kỷ tới của nền tảng sống
+📝 Ghi chú của Biên tập viên: Khi một thương hiệu trở nên "có mặt khắp nơi", nó không chỉ đánh mất sự bí ẩn, mà còn mất đi quyền được tha thứ. Khủng hoảng của PX không nằm ở việc bị gian lận, mà là liệu nó có còn nhớ đến lý tưởng ban đầu tại chiếc "bàn giá rẻ" năm xưa hay không.
 
-Đến năm 2026, Centra Lợi ích tại Đài Loan đã có hơn 1.250 cửa hàng, mục tiêu doanh thu năm 2026 đặt mục tiêu lên tới 230 tỷ USD. Nó không còn là trạm lợi ích xã hội bẩn thối nữa, mà là sinh vật bán lẻ kết hợp đơn hàng nhanh chóng, dịch vụ thanh toán Toàn thanh toán, thậm chí là Carrefour.
+### Kết luận: Nền tảng sinh hoạt cho hai mươi năm tiếp theo
 
-Lin Minh Hồng từng nói, Centra Lợi ích là "trung tâm lợi ích của người Đài Loan". Câu nói này vào năm 1998 là sự cứu trợ, nhưng vào năm 2026 lại trở thành trách nhiệm nặng nề. Khi Tập đoàn Tương lai hợp nhập Walmart và các đôi bánh lúa bán lẻ đang đối mặt với quyết định của "kỷ nguyên mới của Centra Lợi ích", khả năng nền tảng sống này có thể giữ lại lòng tin của người tiêu dùng đồng thời duy trì quy mô sẽ quyết định liệu nó có thể giữ vững ngăn đóng của người Đài Loan hay không.
+Tính đến năm 2026, PX đã sở hữu hơn 1.250 cửa hàng trên toàn Đài Loan, với mục tiêu doanh thu hàng năm hướng tới 230 tỷ Đài tệ. Nó không còn chỉ là cái cơ sở phúc lợi xấu xí ngày nào, mà đã trở thành một quái thú bán lẻ tích hợp dịch vụ giao hàng tận nhà trong vài giờ, tài chính AllPay và thậm chí cả siêu thị bách hóa Dajunfa.
+
+Lâm Mẫn Hùng từng nói, PX là "trung tâm phúc lợi của người dân Đài Loan". Câu nói này vào năm 1998 là cứu cánh, còn vào năm 2026 lại là một trách nhiệm nặng nề. Trong "Kỷ nguyên Toàn Liên" khi Tập đoàn United (Tongyi) mua lại Carrefour và hai gã khổng lồ bán lẻ đối đầu nhau, liệu nền tảng sinh hoạt này có thể giành lại lòng tin của người tiêu dùng trong khi vẫn theo đuổi quy mô hay không, sẽ quyết định nó có thể tiếp tục giữ vững chiếc tủ lạnh cho người dân Đài Loan hay không.
 
 ---
 
 ## Đọc thêm
 
-- **[Biểu tượng](/vi/lifestyle/mascot-culture-in-taiwan)** — Gấu hỗ trợ của Centra Lợi ích và Open 1: Nghiên cứu về quản lý quyền sử dụng IP của biểu tượng thương hiệu bán lẻ
-- **[Văn hóa siêu thị Đài Loan](/culture/台灣便利商店文化)** — Vị trí của Centra Lợi ích, 7-Eleven, và Cửa hàng tiện lợi trong ngành bán lẻ Đài Loan
-- **[Kinh tế giao hàng tại Đài Loan](/economy/台灣外送經濟)** — Cách Centra Lợi ích chạm vào thị trường foodpanda / Uber Eats
-- **[Thanh toán di động tại Đài Loan](/technology/台灣行動支付)** — Cạnh tranh giữa Toàn thanh toán, StreetEasy, và LINE Pay trên thị trường thanh toán di động
-- **[Lịch sử quảng cáo tại Đài Loan](/culture/台灣廣告史)** — Ogilvy đằng sau nghệ thuật kinh tế của Centra Lợi ích, và 100 năm lịch sử quảng cáo Đài Loan từ thu hút sự chú ý đến tiếp xúc cảm xúc
-- **[Doanh nghiệp tại Đài Loan: Tập đoàn Tương lai](/economy/台灣企業：統一企業)** — Tương lai hợp nhập Walmart, Centra Lợi ích hợp nhập Carrefour, câu chuyện đối nghịch của hai đôi bánh lúa bán lẻ
+- **[Linh vật](/vi/lifestyle/mascot-culture-in-taiwan)** — Học thuyết vận hành IP linh vật PX và Open: Quản lý thương hiệu đại diện bán lẻ
+- **[Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture)** — Vị trí của PX Mart, 7-Eleven và FamilyMart trong ngành bán lẻ Đài Loan
+- **[Kinh tế giao hàng tận nhà Đài Loan](/economy/台灣外送經濟)** — PX Mart tích hợp vào thị trường foodpanda / Uber Eats như thế nào
+- **[Thanh toán di động Đài Loan](/vi/technology/taiwan-mobile-payment)** — Hiểu sự khác biệt giữa phổ cập và tính phổ quát, từ AllPay và nhiều công cụ khác đến việc chấp nhận của thương gia và dự phòng tiền mặt
+- **[Lịch sử quảng cáo Đài Loan](/vi/culture/taiwan-advertising-history)** — Ogilvy đằng sau "thẩm mỹ kinh tế" của PX, và lịch sử 100 năm của quảng cáo Đài Loan từ độc quyền sự chú ý đến tiếp thị cảm xúc
+- **[Doanh nghiệp Đài Loan: Tập đoàn United](/vi/economy/taiwan-enterprise-uni-president)** — Câu chuyện còn lại về việc United mua Carrefour và PX sáp nhập Dajunfa, hai gã khổng lồ bán lẻ Đài Loan
 
 ## Tài liệu tham khảo
 
-[^1]: [50 nhân vật có ảnh hưởng: Chủ tịch của Centra Lợi ích Lin Minh Hồng, người dẫn dắt cuộc cách mạng bán lẻ nội địa Đài Loan - Báo Tuổi Trẻ Kinh tế](https://www.wealth.com.tw/articles/0229b5fa-a360-4b39-9398-2b6967a4a662) — Báo cáo chuyên đề về cuộc chiến của Lin Minh Hồng khi nhận nhầm Centra Lợi ích, bao gồm "quy tắc sống giá rẻ 20%, lợi nhuận chỉ 2%"
+[^1]: [50 nhân vật có ảnh hưởng: Lâm Mẫn Hùng - người phục hưng cuộc cách mạng bán lẻ trong nước - Tạp chí Cai Xun Song Zhoukan](https://www.wealth.com.tw/articles/0229b5fa-a360-4b39-9398-2b6967a4a662) — Bài báo chuyên đề về hành trình đấu tranh của Lâm Mẫn Hùng khi tiếp quản PX, bao gồm điều khoản "giá rẻ 20%, lợi nhuận 2%".
 
-[^2]: [Siêu thị không chuyên về bán lẻ đang sáng tạo trạm lợi ích cũ kỹ: 20 năm chiến đấu không được biết đến của Lin Minh Hồng - Tạp chí Quan sát](https://www.gvm.com.tw/article/55420) — Nhận xét về cuộc sống đầu tiên của Lin Minh Hồng tại buổi lễ ra mắt sách năm 2018, nhớ lại ấn tượng đầu tiên về "trạm lợi ích bẩn thối" + lịch sử hợp nhập
+[^2]: [Người ngoài ngành bán lẻ làm sáng tỏ trung tâm phúc lợi cũ kỹ: Hành trình hai mươi năm ít ai biết của Lâm Mẫn Hùng - Tạp chí Nianjian](https://www.gvm.com.tw/article/55420) — Buổi ra mắt sách mới năm 2018 của Lâm Mẫn Hùng hồi tưởng ấn tượng đầu tiên về "xấu xí và cũ kỹ" + quá trình sáp nhập.
 
-[^3]: [Toàn thanh toán bị lừa đảo! Người dùng chỉ "1 hành động" bị trừ 80.000 USD - Yahoo! Tin tức](https://tw.news.yahoo.com/%E5%85%A8%E6%94%AF%E4%BB%98%E7%88%86%E8%A9%90%E9%A8%99-%E6%B0%91%E7%9C%BE-1%E8%88%89%E5%8B%95-%E9%81%AD%E7%9B%9C%E5%88%B78%E8%90%AC%E6%81%90%E8%BF%BD%E4%B8%8D%E5%9B%9E-%E5%AE%98%E6%96%B9%E6%80%A5%E7%99%BC4%E9%BB%9E%E8%81%B2%E6%98%8E-080300886.html) — Báo cáo vụ gian lận Toàn thanh toán tháng 11/2025, trừ tiền liên tục 20 khoản 80.000 USD cho cá nhân
+[^3]: [AllPay bị lừa đảo! Người dân bị trừ 8 vạn do hành động "1" mà khó đòi lại - Tin tức Yahoo Kimo](https://tw.news.yahoo.com/%E5%85%A8%E6%94%AF%E4%BB%98%E7%88%86%E8%A9%90%E9%A8%99-%E6%B0%91%E7%9C%BE-1%E8%88%89%E5%8B%95-%E9%81%AD%E7%9B%9C%E5%88%B78%E8%90%AC%E6%81%90%E8%BF%BD%E4%B8%8D%E5%9B%9E-%E5%AE%98%E6%96%B9%E6%80%A5%E7%99%BC4%E9%BB%9E%E8%81%B2%E6%98%8E-080300886.html) — Báo cáo vụ gian lận AllPay tháng 11 năm 2025, người dùng bị trừ liên tục 20 giao dịch với số tiền 80.000 Đài tệ.
 
-[^4]: [Centra Lợi ích 2026 doanh thu mục tiêu 230 tỷ USD, số lượng cửa hàng mục tiêu 1.280 - Báo Kinh tế](https://money.udn.com/money/story/5612/9433606) — Thông báo mục tiêu doanh thu và số lượng cửa hàng năm 2026 của Centra Lợi ích
+[^4]: [PX Mart mục tiêu doanh thu 230 tỷ Đài tệ và 1.280 cửa hàng vào năm 2026 - Báo Kinh tế Nhật báo](https://money.udn.com/money/story/5612/9433606) — Thông báo mục tiêu doanh thu và số lượng cửa hàng năm 2026.
 
-[^5]: [Sự kiện bùng phát "hủy hợp đồng" của Centra Lợi ích: Phân tích đầy đủ từ "giá rẻ thực sự" đến sự phản động của người tiêu dùng - CG2010Studio](https://cg2010studio.com/2026/01/04/%E5%85%A8%E8%81%AF%E3%80%8C%E6%96%B7%E8%81%AF%E3%80%8D%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6%E7%B0%BF%EF%BC%9A%E5%BE%9E%E3%80%8C%E5%AF%A6%E5%9C%A8%E7%9C%9F%E4%BE%BF%E5%AE%9C%E3%80%8D%E5%88%B0%E5%85%A8/) — Tổng hợp luận điểp xã hội về vụ gian lận Toàn thanh toán: 5 nguyên nhân lớn và hành động hủy hợp đồng
+[^5]: [Sổ tay sự kiện "ngắt kết nối" của PX: Từ "thực sự rẻ" đến sự tẩy chay toàn dân - CG2010Studio](https://cg2010studio.com/2026/01/04/%E5%85%A8%E8%81%AF%E3%80%8C%E6%96%B7%E8%81%AF%E3%80%8D%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6%E7%B0%BF%EF%BC%9A%E5%BE%9E%E3%80%8C%E5%AF%A6%E5%9C%A8%E7%9C%9F%E4%BE%BF%E5%AE%9C%E3%80%8D%E5%88%B0%E5%85%A8/) — Tổng hợp dư luận trên mạng về vụ AllPay: Năm tội lỗi và hành động ngắt kết nối.
