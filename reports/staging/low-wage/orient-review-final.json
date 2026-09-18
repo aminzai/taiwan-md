@@ -1,0 +1,22 @@
+{
+  "revision": 17,
+  "submissionId": "baac6d91-e661-497b-8d72-78b2e7ba69e2",
+  "actor": "orient-reviewer-7 (Sonnet agent ad5adb03082f2165c, fresh context, read brief + frozen stage0 snapshot + submission only)。歷輪：r1 ae56f5b93c50c0171 revise（分母混口徑）→ r2 a45e6389074f2f307 accept → r3 a8a2be9ef3a9700aa revise（跨期分母／MIN2AVE）→ r4 a006fda7668e6f58f revise（71% 未被推翻條件覆蓋／CSV 不自證）→ r5 ab055e1b305620416 accept → 改錨凍結快照 → r6 a36a6bb226d57db2c revise（角度二推翻條件打歸因）→ r7 accept",
+  "verdict": "accept",
+  "rationale": "(a) subjectExplanation 是機制說明非宣判；(b) 三角度不同且各被自己的推翻條件蓋住——角度二改為兩個直接打「地板」的量化反例（部分工時／移工折算年薪是否多數高於 39 萬；全體口徑 54.6 萬×2/3≈36.4 萬以下比例是否低於 16.8%，算術正確），附帶提醒 Stage 1 要把「比例」與「頭數」兩種反例分開列；(c) 搜不到未當不存在；(d) 數字逐一對回凍結快照探索紀錄條目 1、2、5、7、13、16、17、19、21、27、35 一致，且第一輪抓到的兩個錯（2026 破三萬、NOWnews 58.1 萬）已修；(e) 同意第三型與三道 self-check。orient 交付目的達成，退回條件不成立。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/orient-submission.json",
+      "location": "data.candidateAngles[1]（角度二）"
+    },
+    {
+      "path": "reports/staging/low-wage/stage0-viewpoint-frozen.md",
+      "location": "§探索搜尋紀錄 條目 5 與 27；§脊椎（第三型）與 Step 0.6.7"
+    },
+    {
+      "path": "reports/staging/low-wage/brief.md",
+      "location": "§已知／§立場與紅線"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}
