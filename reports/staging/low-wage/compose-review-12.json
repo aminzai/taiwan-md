@@ -1,0 +1,14 @@
+{
+  "revision": 70,
+  "submissionId": "0ddb0fbc-dd37-48e3-90d3-f3448f47002e",
+  "actor": "compose-reviewer-12 (Sonnet agent ae64a99d3aaae38fd, fresh context, read diff + §1 + §7)",
+  "verdict": "revise",
+  "rationale": "刪去「選擇」後不再暗示意圖，兩邊都不站；但「在野黨批的正是這個順序」是作者歸納——許宇甄／民眾黨原話批的是拿月薪口徑當結論、重新定義低薪、粉飾太平，指向講法而非先後順序；建議改「講法」。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第一節順序句；第七節許宇甄段；tw-note"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}
