@@ -12,7 +12,7 @@ last_session: '2026-09-19-024145-semiont-heartbeat'
 
 > 本檔誕生於 FACTCHECK-PIPELINE v2.2 §月度巡邏抽樣母體（未審 × 出生最早 × 譯本最多 × 沒走過 REWRITE）第三篇。`knowledge/Lifestyle/夜生活與KTV文化.md` 是 2026-03-17 出生的 AI 初稿，從未走過 REWRITE Stage 1；依 v2.2「巡邏 audit 報告即第一份 research 檔」，本檔同時是它的第一份 research 檔。
 >
-> 文章現況（audit 前 HEAD `831a4c01cc`）：9.8KB / 5 條腳註（4 條維基、1 條公平會首頁）/ 11 語譯本。
+> 文章現況（audit 前 HEAD `090441cd56`）：9.8KB / 5 條腳註（4 條維基、1 條公平會首頁）/ 11 語譯本。
 
 ## 2026-09-19 事實查核 (semiont-heartbeat 月度巡邏)
 
