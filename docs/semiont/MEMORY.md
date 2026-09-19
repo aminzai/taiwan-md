@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-19
-last_session: '2026-09-19-084102-twmd-maintainer-am（3 PR 先認領再收；Step 3.0 落地；量出 en 六組同源雙檔）'
+last_session: '2026-09-18-132812-news-radar（新聞雷達復跑→三篇上線→哲宇打回→單檔型重做→產線對齊單檔型；LESSONS third-type-thesis-defaults-to-meta-observation）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -357,7 +357,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-18 | 025418-semiont-heartbeat | 掛了八天的 #64 逐位查證：一篇十語在線半年的原住民藝術文章族籍多處寫錯、一位人物憑空捏造；待決佇列補數欄位的尺並補齊六列缺欄；時區假警報第三次撞到改尺 | 翻譯閘守忠實度守得越好，原文層的幻覺放大得越忠實；沒有預設選項的待決項是分析不是決策 | [→](memory/2026-09-18-025418-semiont-heartbeat.md) |
 | 2026-09-18 | 083954-semiont-heartbeat | 讀者抓到周蕙小巨蛋「售罄加開」是 2020 年那場的事，zh 加九語譯本同一句一起修並回覆關閉；FACTCHECK 巡邏抽樣母體改抽未審初稿×最早×譯本最多；CF 邊緣請求升語言選址第三源 | 閘門守的是完整不是歸屬，真事實掛錯事件會被忠實投射到每個語言；工具回的東西沒看就往下傳是同一個動作 | [→](memory/2026-09-18-083954-semiont-heartbeat.md) |
 | 2026-09-18 | 084057-twmd-maintainer-am | 三個投稿 PR 全收；#1746 周蕙勘誤查完修完要推時，發現另一台機器一分鐘前已推同一修補，改做驗收並補 bump 九語 source hash | 交接寫給 routine 名字，分岔期間兩台機器各有一個那個名字的 session，動手前互看不見 | [→](memory/2026-09-18-084057-twmd-maintainer-am.md) |
-| 2026-09-18 | 132812-news-radar | 新聞雷達停擺 138 天後復跑：亞運、油價機制、低薪定義三個缺口列 Tier 1，張俊傑案停在邊界等哲宇；抓到 INBOX 兩條登記漂移 | 器官凋亡的去向表要多一欄「執行者」，SOP 遷了 cron 沒遷，器官只剩說明書 | [→](memory/2026-09-18-132812-news-radar.md) |
+| 2026-09-18 | 132812-news-radar | 新聞雷達 138 天後復跑，三篇 Tier 1 派 Opus 寫完上線被哲宇打回（文謅謅／堆砌／數字過重），單檔型重做後對味；產線回單檔型、冷讀站拿掉、論點要敢押、研究找人 | 形式閘門全綠卻沒主見是規則的產物：「不收束」給了「不主張」的出口 | [→](memory/2026-09-18-132812-news-radar.md) |
 | 2026-09-18 | 143948-semiont-heartbeat | 馬英九 FACTCHECK Full：非維基腳註四成對不上，在世的人被寫成辭世、偽造引語，zh 加十一語同修；探測器落後黃燈重點亮；地圖標記偏移改確定性 | 腳註抽查抓不到沒掛腳註的那句，最嚴重的錯常常沒有出處可以對不上 | [→](memory/2026-09-18-143948-semiont-heartbeat.md) |
 | 2026-09-18 | 134020-low-wage | 〈誰算低薪〉走完互動式 REWRITE 六站：十二位冷讀者、三輪具名編輯（退 4→退 1→accept）後 ready-for-publication 並 ship | 同一句收束被讀出三種立場，只剩事實才沒方向；修上一輪意見時順手寫的收尾句最容易把兩個集合混成一格 | [→](memory/2026-09-18-134020-low-wage.md) |
 | 2026-09-18 | 134106-oil-price | 〈台灣油價機制與中油〉NEW 從研究到互動協定六站 ready-for-publication；五輪冷讀從九條困惑收斂到零，抓到編輯室與 verifier 全漏的「文章自己的數字算不出來」的錯 | 看過藍圖的席位核「有沒有做到自己說的」，只有沒看藍圖的讀者會拿文章的數字去算 | [→](memory/2026-09-18-134106-oil-price.md) |
