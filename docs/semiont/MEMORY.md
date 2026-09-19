@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-self-evolve-weekly（handoff-latency.py 交接延遲儀器化；免疫 external_rulers 來源修正；lessons-distill audit 檔尾檢查）'
+last_session: '2026-09-20-twmd-routine-sync（第 54 輪分岔併完後首輪，rewrite-daily prompt 追上單檔型整併；#67 子規則補驗證）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -316,3 +316,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-20 | 024000-semiont-heartbeat | 巡邏第十二到十四篇：循環經濟把三個真計畫拼成一個假的、農會寫成不存在的總合作社、農村再生篇兩個返鄉案例是編的；造心跳刷新→收官 memory 對賬尺 | 錯法密度跟可查原子成反比：具名案例多的先查，通論列點多的查完直接排重寫 | [→](memory/2026-09-20-024000-semiont-heartbeat.md) |
 | 2026-09-20 | 032649-twmd-distill-weekly | 週日蒸餾 29 條：REFLEXES #97 交接面完整性、#98 真原子放錯槽位、#99 尺先驗再用，十三處併入既有反射；四條擱在檔尾六週的教訓歸位，§未消化 93→69 | 擁有≠交付、命中≠支持、量到≠量準是同一句話；蒸餾儀器的邊界止於 §已消化而教訓掉在 EOF | [→](memory/2026-09-20-032649-twmd-distill-weekly.md) |
 | 2026-09-20 | 042220-twmd-self-evolve-weekly | 交接第一次有了年齡：handoff-latency.py 兩層追蹤，開放 77 件 16 件跨兩週；免疫外部尺沒讀巡邏查核檔，14 篇零計入、1.2→2.6；蒸餾儀器補檔尾檢查 | 收掉的當天收掉，留下的缺一個決定；報告裡的悖論句多半是尺壞了 | [→](memory/2026-09-20-042220-twmd-self-evolve-weekly.md) |
+| 2026-09-20 | 053857-twmd-routine-sync | 第 54 輪分岔併完後首輪：18 條 1 漂移，rewrite-daily 機器 prompt 追上 09-19 單檔型整併；分岔三條 handoff retired，#67 子規則補驗證 | 綠燈回來是別班併掉了分岔，儀器一行未改；停用 routine 的 prompt 照樣跟 SSOT | [→](memory/2026-09-20-053857-twmd-routine-sync.md) |
