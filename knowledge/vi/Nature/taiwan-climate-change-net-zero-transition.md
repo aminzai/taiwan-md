@@ -30,10 +30,10 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:387f185bb5291526'
-sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:e17f8ccac18bf65b'
+sourceBodyHash: 'sha256:65e86904ae441416'
+translatedAt: '2026-09-19T10:32:50.064109+00:00'
 ---
 
 # Khủng hoảng khí hậu Đài Loan và chuyển đổi tới tiêu chuẩn net-zero: Ngày công đồng về lò phản ứng số ba không thông qua, những lựa chọn về giới hạn vật lý mới bắt đầu
@@ -281,41 +281,42 @@ Báo cáo Khoa học Thay đổi Khí hậu Quốc gia 2024 do Hứa Hoàng Hùn
 
 Từ góc độ dân số 23 triệu người, lượng phát thải carbon của Đài Loan lớn không tương xứng: tính theo khí cacbonic từ nhiên liệu hóa thạch, lượng phát thải hàng năm khoảng 2,8 trăm triệu tấn, mỗi người bình quân khoảng 11,7 tấn, thuộc tầng cao toàn cầu; nếu tính từ cơ sở dữ liệu và cách thống kê khác nhau, xếp hạng khoảng 20 nhiều tên thế giới[^8]. Phát thải tập trung cao trong sử dụng năng lượng và cung ứng điện, bộ phận năng lượng chiếm tỷ lệ cao nhất, bộ phận phát thải lõi chính vẫn là cơ cấu phát điện. Gốc rễ vấn đề nằm ở cơ cấu phát điện: năm 2024 cơ cấu phát điện Đài Loan, khí tự nhiên khoảng 42,4%, than khoảng 39,3%, khí tự nhiên lần đầu cao hơn than; năng lượng tái tạo khoảng 11,6%, năng lượng hạt nhân khoảng 4,2%[^20]. **Đây là một hệ thống năng lượng vẫn phụ thuộc cao độ vào nhiên liệu hóa thạch, và Đài Loan 98% năng lượng phụ thuộc nhập khẩu. An ninh năng lượng và khủng hoảng khí hậu, là cùng một vấn đề**.
 
-## Dân chủ và vật lý song song
+## Dân chủ và Vật lý song hành
 
-Sáng 23 tháng 8 năm 2025, công đồng gia hạn lò phản ứng số ba, đưa mọi mâu thuẫn của vấn đề này lên màn hình kiểm phiếu.
+Cuộc trưng cầu dân ý về nhà máy điện hạt nhân số 3 diễn ra vào chiều ngày 23 tháng 8 năm 2025 đã đẩy tất cả những mâu thuẫn của vấn đề này lên màn hình kiểm phiếu.
 
-74% tán thành, 29,53% bỏ phiếu, không thông qua, Tập đoàn Năng lượng Đài Loan 2026 27 tháng 3 gửi đơn, sớm nhất 2028 khởi động. Đồng thời: Lam Dã 97.672 thùng, Phần Lan Onkalo 50 năm, địa nhiệt 27 lần, năng lượng biển 100 kW, năng lượng hạt nhân thế hệ 4 đến 2045. Mỗi một con số đều hỏi: **tốc độ dân chủ, có theo kịp tốc độ vật lý không?**
+Với tỷ lệ tán thành 74%, tỷ lệ cử tri đi bỏ phiếu là 29,53% và không đạt ngưỡng, Đài lưới điện (Taipower) sẽ nộp hồ sơ vào tháng 3 năm 2026, với thời gian khởi động sớm nhất là năm 2028. Đồng thời: 97.672 thùng ở Lãnh Tự (Lanyu), Onkalo của Phần Lan đã tốn 50 năm, chênh lệch địa nhiệt gấp 27 lần, năng lượng đại dương vẫn chỉ đạt 100 kW, và năng lượng hạt nhân thế hệ thứ tư cần đến năm 2045. Mỗi con số đều đặt ra câu hỏi: **Tốc độ của nền dân chủ có theo kịp tốc độ của vật lý không?**
 
-| Lịch trình dân chủ               | Lịch trình vật lý                        |
-| -------------------------------- | ---------------------------------------- |
-| 2025/08/23 công đồng kiểm phiếu  | Lam Dã 1982 khởi động, 2057 có thể vẫn ở |
-| 2025/08/25 ba nguyên tắc họp báo | Chất thải hạt nhân cách ly 10 vạn năm    |
-| 2026/03/27 Tập đoàn gửi đơn      | Nơi lưu giữ cuối cùng Phần Lan 50 năm    |
-| 2028 sớm nhất khởi động          | Địa nhiệt 27 lần                         |
-| 2050 mục tiêu net-zero           | Năng lượng biển 100 kW thử nghiệm        |
+| Lịch trình Dân chủ                    | Lịch trình Vật lý                                  |
+| :------------------------------------ | :------------------------------------------------- |
+| Bầu cử ngày 23/08/2025                | Lãnh Tự vận hành từ năm 1982, có thể còn đến 2057  |
+| Họp báo Ba Nguyên tắc ngày 25/08/2025 | Cách ly chất thải hạt nhân trong 10 vạn năm        |
+| Taipower nộp hồ sơ ngày 27/03/2026    | Nhà máy xử lý cuối cùng ở Phần Lan mất 50 năm      |
+| Khởi động sớm nhất năm 2028           | Chênh lệch địa nhiệt gấp 27 lần                    |
+| Mục tiêu Net Zero năm 2050            | Thử nghiệm năng lượng đại dương vẫn chỉ đạt 100 kW |
 
-9 nghìn tỷ đô la Đài Loan có thể mua được một tương lai khác, không ai biết. Nhưng hậu quả không chi tiền này, chúng tôi đã bắt đầu thấy rồi: 2060 không mùa đông của Hứa Hoàng Hùng, 2.884 mm của Morakot, 513 ngừng điện tuần hoàn, xé rách công đồng tảo biển yêu quý, Lam Dã 44 năm chờ đợi.
+Không ai biết liệu 9 nghìn tỷ Đài tệ có thể mua được một tương lai khác hay không. Nhưng hậu quả của việc không chi số tiền này, chúng ta đã bắt đầu nhìn thấy: cái lạnh năm 2060 của Hứa Hoảng Hùng (Xu Huangxiong), độ dày 2.884 mm của Morakot, sự cắt điện luân phiên của vụ 513, sự chia rẽ từ trưng cầu dân ý về san hô tảo, và sự chờ đợi 44 năm của Lãnh Tự.
 
-[Báo cáo PanSci trích dẫn sự đồng thuận ngành công nghiệp chỉ ra](https://pansci.asia/archives/367417), «**nơi lưu giữ cuối cùng toàn cầu tiến độ nhanh nhất, là dự án Onkalo Phần Lan, năm 2024 tháng 8 được cấp phép thử nghiệm. Dự án này từ những năm 1970 quy hoạch bắt đầu, mất gần nửa thế kỷ mới đến bước thử nghiệm này**»[^29]. Nơi lưu giữ cuối cùng của Đài Loan thậm chí chưa định chọn địa điểm. Ngay cả nếu lò phản ứng 3 2028 khởi động, trong thời kỳ khởi động mỗi một cốt lõi nhiên liệu mới được tạo ra, cũng phải tìm nơi để đặt.
+[Báo cáo PanSci](https://pansci.asia/archives/367417) trích dẫn nhận thức chung của ngành rằng: "Những nơi xử lý cuối cùng tiến bộ nhất trên toàn cầu là dự án Onkalo của Phần Lan, được cấp phép vận hành thử nghiệm vào tháng 8 năm 2024. Dự án này đã được quy hoạch từ những năm 1970 và mất gần nửa thế kỷ mới đến giai đoạn vận hành thử nghiệm" [^29]. Đài Loan thậm chí còn chưa xác định được địa điểm cho nơi xử lý cuối cùng của mình. Ngay cả khi nhà máy điện hạt nhân số 3 khởi động lại vào năm 2028, mỗi thanh nhiên liệu mới được tạo ra trong quá trình khởi động lại cũng cần một nơi để chứa.
 
-Những 97.672 thùng ở Lam Dã sẽ không biến mất vì công đồng thông qua hay không thông qua. Chúng bây giờ ở đó, 2029 có lẽ vẫn ở đó, 2057 (nếu di chuyển lại trì hoãn) vẫn ở đó.
+97.672 thùng chất thải ở Lãnh Tự sẽ không biến mất dù cuộc trưng cầu dân ý thông qua hay không. Chúng đang ở đó bây giờ, và rất có thể vẫn sẽ ở đó vào năm 2029, và vẫn sẽ ở đó vào năm 2057 (nếu việc di dời bị trì hoãn).
 
-✦ **Ngày 23 tháng 8 năm 2025, công đồng không thông qua. Ngày 27 tháng 3 năm 2026, Tập đoàn Năng lượng Đài Loan vẫn gửi đơn. Trong hai ngày này, giới hạn vật lý không thay đổi một lần. Thay đổi, là chúng ta có sẵn lòng thừa nhận, hòn đảo 98% năng lượng phụ thuộc nhập khẩu này, đang xếp hàng chờ đối mặt với tất cả những giới hạn vật lý mà không ai muốn đối mặt.**
+✦ **Ngày 23 tháng 8 năm 2025, cuộc trưng cầu dân ý đã không thông qua. Ngày 27 tháng 3 năm 2026, Taipower vẫn nộp hồ sơ. Giữa hai ngày này, giới hạn vật lý chưa hề thay đổi dù chỉ một lần. Điều thay đổi là việc chúng ta có sẵn lòng thừa nhận rằng hòn đảo phụ thuộc 98% vào năng lượng nhập khẩu này đang xếp hàng đối mặt với tất cả những giới hạn vật lý mà không ai muốn đối diện.**
 
 ---
 
 **Đọc thêm:**
 
-- [Đài Loan và thảo luận hạt nhân](/society/đài-loan-và-thảo-luận-hạt-nhân) — Bài viết này nói năng lượng và giới hạn vật lý, bài đó nói chính bản thân cuộc tranh luận hạt nhân: phản hạt nhân/ủng hộ hạt nhân bốn mươi năm, ba công đồng và góc giành tâm lý xã hội của Lam Dã chất thải hạt nhân
-- [Lịch sử phong trào môi trường Đài Loan](/nature/lịch-sử-phong-trào-môi-trường-đài-loan) — Từ phản hạt nhân đến phản ô nhiễm không khí, Lam Dã dân tộc Tao, Mỹ Phước phản đập nước, tảo biển công đồng như thế nào tạo hình nền chính trị năng lượng hôm nay
-- [Thách thức quản lý ô nhiễm biển Đài Loan và bảo vệ](/nature/thách-thức-quản-lý-ô-nhiễm-biển-đài-loan-và-bảo-vệ) — 80% san hô ở vùng nước thải nhà máy lò phản ứng 3 trắng, chất thải biển và giao điểm sinh thái gió ngoài khơi
-- [Suối nước nóng và địa nhiệt Đài Loan](/nature/suối-nước-nóng-và-địa-nhiệt-đài-loan) — Từ thất bại địa nhiệt Thanh Thủy 1981 đến khởi động lại 2024, 30 năm im lặng địa nhiệt như thế nào hình thành
-- [Công lý môi trường và tranh chấp hàng xóm Đài Loan](/society/công-lý-môi-trường-và-tranh-chấp-hàng-xóm-đài-loan) — Lam Dã, tảo biển, Mỹ Phước: chính trị phân bổ chi phí chuyển đổi năng lượng
-- [Nâng cấp chuyển đổi công nghiệp Đài Loan](/economy/nâng-cấp-chuyển-đổi-công-nghiệp-đài-loan) — Từ sản xuất tiêu thụ năng lượng cao tới công nghiệp năng lượng xanh, Tập đoàn Bán dẫn Đài Loan RE100, CBAM, vệ sỹ quốc gia tài khoản năng lượng
-- [Cây bóng mặt đường Đài Loan](/lifestyle/cây-bóng-mặt-đường-đài-loan) — Cây bóng đường phố làm thích ứng đảo nóng thành thị vị trí và tỷ lệ thời gian: cây cần mười năm để che nóng, là cái không thể chờ nhất trên đường dây này
-- [Phát triển hiện đại hóa nông nghiệp Đài Loan](/economy/phát-triển-hiện-đại-hóa-nông-nghiệp-đài-loan) — Áp lực chuyển đổi nông nghiệp đằng sau nông điện kết hợp và xung đột sử dụng đất
-- [Mưa theo gió](/nature/mưa-theo-gió) — Quan sát bản địa thay đổi khí hậu «gió không mưa, mưa lũ tập trung» ở Đài Loan
+- [Thảo luận về năng lượng hạt nhân ở Đài Loan](/vi/society/taiwan-nuclear-debate) — Bài viết này nói về giới hạn năng lượng và vật lý, bài kia nói về cuộc tranh luận về năng lượng hạt nhân: sự đấu tranh xã hội kéo dài bốn mươi năm giữa phe phản đối và ủng hộ hạt nhân, ba cuộc trưng cầu dân ý và chất thải hạt nhân Lãnh Tự.
+- [Lịch sử phong trào môi trường Đài Loan](/vi/nature/taiwan-environmental-movement-history) — Từ chống hạt nhân đến chống ô nhiễm không khí, người bản địa Lãnh Tự (Atayal), sự phản đối hồ chứa ở Mỹ Nông, và trưng cầu dân ý về san hô tảo đã định hình chính trị năng lượng ngày nay như thế nào.
+- [Quản lý và thách thức bảo tồn ô nhiễm biển Đài Loan](/vi/nature/marine-pollution-governance-and-conservation) — Giao điểm sinh thái giữa sự tẩy trắng 80% san hô từ cửa xả của nhà máy điện hạt nhân số 3, rác thải đại dương và điện gió ngoài khơi.
+- [Suối nước nóng và địa nhiệt Đài Loan](/vi/nature/taiwan-hot-springs-and-geothermal-energy) — Từ sự thất bại của địa nhiệt Thanh Thủy năm 1981 đến việc khởi động lại vào năm 2024, sự im lặng về địa nhiệt trong 30 năm đã hình thành như thế nào.
+- [Công bằng môi trường và tranh chấp NIMBY ở Đài Loan](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Lãnh Tự, san hô tảo, Mỹ Nông: chính trị phân bổ chi phí chuyển đổi năng lượng.
+- [Nâng cấp chuyển đổi công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Từ sản xuất tiêu thụ nhiều năng lượng đến ngành công nghiệp năng lượng xanh, hóa đơn năng lượng của TSMC RE100, CBAM và "thần núi bảo hộ".
+- [Cây phố ở Đài Loan](/vi/lifestyle/taiwan-street-trees) — Vị trí và thang thời gian điều chỉnh đảo nhiệt đô thị bằng bóng mát cây: cây cần ít nhất mười năm để che bóng là một trong những yếu tố không thể chờ đợi trên tuyến này.
+- [Phát triển hiện đại hóa nông nghiệp Đài Loan](/vi/economy/taiwan-agricultural-modernization) — Áp lực chuyển đổi nông nghiệp và xung đột sử dụng đất đằng sau sự cộng sinh điện - nông nghiệp.
+- [Mùa mưa](/vi/nature/meiyu-stagnant-front) — Quan sát địa phương về biến đổi khí hậu: "mưa xuân không đến, mùa mưa tập trung".
+- [Cơ chế giá dầu và Đài Loan (CPC)](/economy/台灣油價機制與中油) — Sự giằng co giữa trợ cấp nhiên liệu hóa thạch và tín hiệu tiết kiệm năng lượng: việc đóng băng giá khiến người dùng nhiều hơn thì tiết kiệm hơn, nhưng trong nửa năm này không ai có bảng tính xem ai đã sử dụng nhiều nhất.
 
 ## Nguồn ảnh
 

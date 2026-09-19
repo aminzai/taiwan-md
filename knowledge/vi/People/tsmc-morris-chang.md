@@ -1,424 +1,457 @@
 ---
-title: 'Morris Chang'
-description: 'Cha đẻ của ngành bán dẫn, nhà sáng lập TSMC, nhà doanh nhân huyền thoại đã thay đổi toàn bộ ngành công nghệ toàn cầu bằng mô hình đúc khi'
+title: 'Trương Trung Mô (Morris Chang): Nhà kiến tạo ngành bán dẫn, người sáng lập TSMC và doanh nhân huyền thoại đã thay đổi công nghiệp công nghệ toàn cầu bằng mô hình sản xuất theo hợp đồng'
+description: 'Ông là nhà tư tưởng kiệt xuất, người đã khai sinh ra mô hình "sản xuất chuyên biệt" (fabless), định vị Đài Loan vào trung tâm chuỗi cung ứng công nghệ thế giới.'
 date: 2026-03-17
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'Morris Chang',
+    'Nhân vật',
+    'Trương Trung Mô',
     'TSMC',
-    'bán dẫn',
-    'nhà doanh nhân',
-    'đúc khi',
-    'ngọn núi bảo vệ',
+    'Bán dẫn',
+    'Doanh nhân',
+    'Sản xuất theo hợp đồng',
+    'Núi thần bảo hộ',
   ]
 subcategory: '科技與企業'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-18
 lastHumanReview: false
+lifeTree: "{'protagonist': '張忠謀（Morris Chang）', 'birthYear': 1931, 'span': '1931–', 'source': {'article': 'knowledge/People/張忠謀.md', 'commit': '2acf410b', 'commitDate': '2026-03-17', 'extractedBy': 'Taiwan.md (Semiont) β-r5', 'extractedAt': '2026-04-26 13:30 +0800', 'note': '原文無 footnote，source 推測基於 §參考資料區（自傳 / TSMC 年報 / 維基 / 工研院 / 清大）+ 公開歷史紀錄。少數心理動機 alternative 標 [推測]。'}, 'intro': '一個 17 歲流亡到香港、18 歲進哈佛、19 歲轉 MIT 工程的中國銀行家之子，54 歲離開美國副總職位回台灣創立台積電。這棵樹列出他每次跨界（地理、技能、商業模式、世代）選的路，也列出他沒選的——從哈佛文學的延續到留美安全路徑到 IDM 模式的延續。', 'themes': [{'id': 'homeland', 'label': '海外 vs 故土', 'color': '#10B981'}, {'id': 'expert-leader', 'label': '工程師 vs 管理者', 'color': '#8B5CF6'}, {'id': 'business-model', 'label': '自製 vs 代工', 'color': '#F59E0B'}, {'id': 'succession', 'label': '在位 vs 傳承', 'color': '#EC4899'}], 'nodes': [{'id': 'birth', 'year': 1931, 'age': 0, 'type': 'given', 'theme': 'homeland', 'label': '出生於浙江寧波', 'scene': '父親張蔚觀是銀行家，母親徐君偉出身書香門第。動盪年代的書香家庭。'}, {'id': 'hong-kong', 'year': 1948, 'age': 17, 'type': 'choice', 'theme': 'homeland', 'scene': '童年在寧波 → 南京 → 廣州 → 香港 → 重慶 → 上海 → 香港之間遷徙。1948 年國共內戰，17 歲隨家人再度遷往香港', 'chose': {'label': '從香港赴美求學', 'consequence': '中學讀的是重慶南開與上海南洋模範；1949 年從香港赴美進哈佛。少年時代一路遷徙，讓他對「邊緣身份在大國體制內運作」有早期感覺。'}, 'alternatives': [{'label': '留在中國大陸', 'plausibility': 'structural', 'note': '同代多數家庭沒能跟著遷移到香港。1949 後留在中國的銀行家後代命運與張忠謀完全分流，不會出現在矽谷。'}, {'label': '直接赴美', 'plausibility': 'structural', 'note': '少數富裕家庭 1940 年代末就直接送孩子赴美。沒有香港四年，英文與國際化基礎會更弱，哈佛申請會更難。'}]}, {'id': 'harvard-mit', 'year': 1950, 'age': 19, 'type': 'choice', 'theme': 'expert-leader', 'scene': '1949 年進哈佛念文學。一年後因對文學缺乏熱情、加上經濟考量', 'chose': {'label': '轉學 MIT 機械工程', 'consequence': 'MIT 嚴謹工程教育培養邏輯思維與解決問題能力。1952 拿機械工程學士。這個轉軌是「藝術 → 技術」的關鍵 fork。'}, 'alternatives': [{'label': '留在哈佛念文學', 'plausibility': 'speculative', 'note': '[推測] 如果留下，可能走學術或文學路徑。完全不會出現半導體事業。但「為什麼一個對文學有興趣的人能在 MIT 工程系成功」這個張力，後來變成他能用人文視角看技術產業的原因。'}, {'label': '轉去念商學', 'plausibility': 'structural', 'note': '同代華人留學生有人選哈佛商學院。但少了 engineering hands-on，後來 TI 的技術職位無法擔任，也無法理解半導體製程的精密性。'}]}, {'id': 'korea-war-civilian', 'year': 1952, 'age': 21, 'type': 'event', 'theme': 'homeland', 'label': 'MIT 畢業遇韓戰，外國學生身份無法進美國軍方相關工作', 'scene': '畢業時正值韓戰期間，國防工業對外籍生關閉。'}, {'id': 'sylvania', 'year': 1955, 'age': 24, 'type': 'choice', 'theme': 'expert-leader', 'scene': '畢業三年後找工作機會', 'chose': {'label': '進希凡尼亞做半導體三年', 'consequence': '首次接觸半導體行業。當時這個產業還在起步階段，但他敏銳察覺巨大潛力。學到半導體製程基礎，也培養對技術細節的關注。'}, 'alternatives': [{'label': '進其他成熟產業', 'plausibility': 'structural', 'note': '1950 年代的主流選擇是汽車、機械、化工。如果選成熟產業，不會在半導體萌芽期就累積經驗，後來 TI 的機會不會降臨。'}]}, {'id': 'ti-1958', 'year': 1958, 'age': 27, 'type': 'choice', 'theme': 'expert-leader', 'scene': '德州儀器（TI）正積極發展半導體業務', 'chose': {'label': '加入 TI 從半導體工程師做起', 'consequence': '改善公司製程、提高良率、節省成本。25 年從工程師升到副總，是 TI 改變他一生的舞台。'}, 'alternatives': [{'label': '留在希凡尼亞', 'plausibility': 'structural', 'note': '希凡尼亞後來逐漸退出半導體領域。如果留下，事業天花板會非常明顯。'}, {'label': '創業', 'plausibility': 'structural', 'note': '同期有人選擇離開大公司創業（如 Intel 創辦人 Noyce / Moore 1968 年離開 Fairchild）。但張忠謀走「大公司內部成長」路徑長達 25 年，這個耐性後來反而成為台積電「打長期仗」文化的根。'}]}, {'id': 'stanford-phd', 'year': 1961, 'age': 30, 'type': 'choice', 'theme': 'expert-leader', 'scene': 'TI 支持他前往史丹佛攻讀電機工程博士', 'chose': {'label': '念博士', 'consequence': '1964 年拿史丹佛 EE PhD。回 TI 後升上重要管理職（鍺、矽電晶體、IC 部門總經理）。技術 + 管理雙軌。'}, 'alternatives': [{'label': '只當工程師不念博士', 'plausibility': 'structural', 'note': '同代很多工程師不念博士，職涯天花板大致是 senior engineer / staff engineer。對於走技術管理線、後來坐到副總，PhD 是隱形必需品。'}]}, {'id': 'vp-1972', 'year': 1972, 'age': 41, 'type': 'choice', 'theme': 'expert-leader', 'scene': '在 TI 從工程師一路升上去 14 年後', 'chose': {'label': '升任德儀集團副總經理 + 半導體集團總經理', 'consequence': '當時美國大型企業中最高階的華人高管之一。突破種族天花板。負責 TI 最重要的業務部門。'}, 'alternatives': [{'label': '跳槽到競爭對手', 'plausibility': 'structural', 'note': '70 年代 Intel / AMD / Motorola 都在搶半導體高管。如果跳槽，可能拿到 CEO 級職位但失去 TI 累積的政治資本與人脈。'}]}, {'id': 'itri-call', 'year': 1985, 'age': 54, 'type': 'choice', 'theme': 'homeland', 'scene': '工研院董事長徐賢修、行政院長俞國華、政委李國鼎力邀', 'chose': {'label': '回台灣擔任工研院院長', 'consequence': '54 歲，在美國有成功事業與優渥生活。回台是充滿風險的決定。但這是台積電誕生的前提——沒有工研院院長身份，沒有後來的政府支持與股權結構。'}, 'alternatives': [{'label': '留在美國', 'plausibility': 'structural', 'note': '同代華人高管多數選擇留美直到退休。如果留下，職涯穩定但不會有台積電。台灣半導體產業發展軌跡會完全不同。'}, {'label': '回中國大陸', 'plausibility': 'structural', 'note': '1985 年中國改革開放第七年，亦曾邀請海外華人技術領袖。如果選大陸，會被綁進國家半導體計畫（如後來的中芯），路徑與商業模式自由度都不同。'}]}, {'id': 'tsmc-foundry', 'year': 1987, 'age': 56, 'type': 'choice', 'theme': 'business-model', 'scene': '工研院院長期間，思考一個革命性商業模式', 'chose': {'label': '創立台積電 + 提出「專業晶圓代工」純代工模式', 'consequence': '1987/2/21 成立，總投資約 1.45 億美元。打破當時 IDM（整合元件製造商）主流模式。客戶不必投入巨資建廠就能設計晶片。後來重塑全球半導體產業生態，催生 fabless 產業。'}, 'alternatives': [{'label': '走傳統 IDM 模式（自己設計+製造）', 'plausibility': 'structural', 'note': '當時主流模式（Intel、TI、Motorola 都是 IDM）。如果選 IDM，台積電會跟韓國三星、日本 NEC 同象限競爭，多半會輸。代工模式才是繞過西方 IDM 主場的關鍵。'}, {'label': '只做設計不做製造', 'plausibility': 'structural', 'note': '另一個方向：台版 fabless（如後來的聯發科）。但 1987 年台灣設計能力遠不及製造潛力，這條路會起步太晚。'}, {'label': '不創公司，留在工研院做政策', 'plausibility': 'structural', 'note': '部分海外回國技術領袖選擇純政策角色。如果如此，台積電不會出現，台灣半導體會多十年才追上韓國。'}]}, {'id': 'retire-2005', 'year': 2005, 'age': 74, 'type': 'choice', 'theme': 'succession', 'scene': '台積電已是全球代工龍頭', 'chose': {'label': '第一次退休 / 執行長交給蔡力行 / 自己保留董事長', 'consequence': '精心準備的接班計畫。為企業永續發展鋪路。但留住董事長職位讓他保有戰略決策權。'}, 'alternatives': [{'label': '完全退出', 'plausibility': 'structural', 'note': '完全退休是「乾淨退出」典範（如 Bill Gates 2008 退出微軟日常）。但 2008 金融危機如果張忠謀完全離場，台積電可能找不到回神能力。保留董事長是後來能復出的關鍵。'}]}, {'id': 'comeback-2009', 'year': 2009, 'age': 78, 'type': 'choice', 'theme': 'succession', 'scene': '2008 全球金融危機重創台積電。業績下滑、競爭加劇', 'chose': {'label': '78 歲復出重新擔任執行長', 'consequence': '穩定市場信心、領導公司度過困難。順便培養劉德音與魏哲家。「老將回鍋救火」的經典案例。'}, 'alternatives': [{'label': '不復出讓蔡力行硬撐', 'plausibility': 'structural', 'note': '尊重既定接班計畫的另一條路。但金融危機 + 接班人威信不足的雙重壓力，台積電可能失去 28nm 製程的關鍵機會窗。'}]}, {'id': 'retire-2018', 'year': 2018, 'age': 87, 'type': 'choice', 'theme': 'succession', 'scene': '台積電在他第二輪 9 年領導後達到製程全球領先', 'chose': {'label': '正式退休 + 建立雙首長制（劉德音董事長 / 魏哲家 CEO）', 'consequence': '功成身退典範。雙首長制平衡對外與對內。31 年傳奇生涯結束。被視為企業接班的教科書案例。'}, 'alternatives': [{'label': '單一接班人', 'plausibility': 'structural', 'note': '美國企業傳統路徑（Apple Cook / Microsoft Nadella 都是單一接班）。但台積電規模 + 兩位接班人都很強，雙首長制避免「兩虎相爭」也讓彼此互補。'}, {'label': '繼續任 90 歲', 'plausibility': 'structural', 'note': 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'}]}]}"
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:14127c407e7b0db7'
-sourceBodyHash: 'sha256:6d452360d79fae70'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '89b721a3d'
+sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
+sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
+translatedAt: '2026-09-19T11:59:06+08:00'
 ---
 
-# Morris Chang
+# Trương Trung Mô (Morris Chang)
 
-Morris Chang (Trương Trung Mưu, 張忠謀) là một nhà doanh nhân huyền thoại được mệnh danh là "cha đẻ của ngành bán dẫn", nhà sáng lập của Công ty Sản xuất Linh kiện Tích hợp Đài Loan (TSMC). Ông đã tạo ra công ty đúc khi chuyên nghiệp toàn cầu đầu tiên, mở ra một mô hình kinh doanh làm nên sự thay đổi toàn bộ hệ sinh thái ngành công nghệ toàn cầu. Từ một quản lý cao cấp người Hoa tại Công ty Texas Instruments ở Mỹ, cho đến việc quay về Đài Loan thành lập TSMC, cuộc sống của ông là minh chứng cho sự phát triển của ngành bán dẫn toàn cầu, đồng thời cũng xác định vị trí quan trọng của Đài Loan trong chuỗi cung ứng công nghệ toàn cầu.
+Trương Trung Mô, nhà doanh nhân huyền thoại được mệnh danh là "Cha đẻ ngành bán dẫn", là người sáng lập Công ty Sản xuất Mạch tích hợp Đài Loan (TSMC). Ông đã tạo ra công ty sản xuất theo hợp đồng chuyên nghiệp đầu tiên trên thế giới và khai phá mô hình kinh doanh tái định hình hệ sinh thái công nghệ toàn cầu. Từ một giám đốc người Hoa tại Texas Instruments ở Mỹ, đến việc trở về Đài Loan sáng lập TSMC, hành trình cuộc đời ông đã chứng kiến sự phát triển của ngành bán dẫn toàn cầu và đặt vị trí then chốt của Đài Loan trong chuỗi cung ứng công nghệ thế giới.
 
 ## Tổng quan 30 giây
 
-**Tại sao thế giới nên biết về Morris Chang?**
+**Tại sao thế giới cần biết Trương Trung Mô?**
 
-TSMC được Morris Chang thành lập là công ty đúc khi bán dẫn có giá trị thị trường cao nhất toàn cầu, đồng thời cũng là nền tảng quan trọng của nền văn minh kỹ thuật số hiện đại. Từ các điện thoại thông minh, máy tính cho đến các chip trí tuệ nhân tạo, phần lớn các bán dẫn tiên tiến trên thế giới đều được TSMC sản xuất. Mô hình kinh doanh "đúc khi thuần túy" do ông khởi xướng đã cho phép vô số công ty công nghệ tập trung vào thiết kế chip mà không cần phải đầu tư một khoản tiền khổng lồ vào việc xây dựng nhà máy, hoàn toàn thay đổi hệ sinh thái ngành công nghệ toàn cầu.
+TSMC do Trương Trung Mô sáng lập là doanh nghiệp có giá trị thị trường sản xuất theo hợp đồng lớn nhất thế giới và là nền tảng quan trọng của văn minh kỹ thuật số hiện đại. Hầu hết các loại bán dẫn tiên tiến trên thế giới, từ điện thoại thông minh, máy tính đến chip trí tuệ nhân tạo, đều do TSMC sản xuất. Mô hình kinh doanh "sản xuất thuần túy" (pure-fab) mà ông khai phá đã cho phép vô số công ty công nghệ tập trung vào thiết kế chip mà không cần đầu tư khổng lồ để xây dựng nhà máy bán dẫn, hoàn toàn tái cấu trúc hệ sinh thái công nghiệp công nghệ toàn cầu.
 
-TSMC được gọi là "ngọn núi bảo vệ" của Đài Loan, có vị trí chiến lược không thể thay thế trong địa chính trị. Morris Chang là một trong số ít những người trong thế kỷ 20 thực sự đã thay đổi cấu trúc của ngành công nghiệp—ông đã định nghĩa lại ranh giới kinh doanh của ngành bán dẫn, giúp Đài Loan từ điểm khởi đầu của dịch vụ đúc khi trở thành nút trung tâm của chuỗi cung ứng công nghệ toàn cầu.
+TSMC được mệnh danh là "Núi thần bảo hộ" của Đài Loan và có vị thế chiến lược không thể thay thế trong địa chính trị. Trương Trung Mô là một trong số ít người trong thế kỷ 20 thực sự thay đổi cơ cấu ngành—ông đã định nghĩa lại ranh giới kinh doanh của ngành bán dẫn, giúp Đài Loan khởi đầu từ vai trò nhà sản xuất theo hợp đồng để trở thành nút giao trung tâm của chuỗi cung ứng công nghệ toàn cầu.
 
-Sinh năm 1931 ở Chiết Giang Ninh Bộ, thành lập TSMC tại Đài Loan vào năm 1987: cuộc sống của Morris Chang chính là tóm tắt sự trỗi dậy của công nghệ Á Châu trong thế kỷ 20.
+Sinh năm 1931 tại Ninh Ba, Chiết Giang; sáng lập TSMC vào năm 1987: Bản thân cuộc đời Trương Trung Mô là một lát cắt thu nhỏ về sự trỗi dậy công nghệ châu Á trong thế kỷ 20.
 
-## Những năm đầu và nền tảng giáo dục
+## Tuổi trẻ và nền tảng giáo dục
 
-### Quá trình lớn lên trong thời kỳ động hỏa
+### Quá trình trưởng thành trong thời kỳ biến động
 
-**Sinh ra và nền tảng gia đình:**
-Vào ngày 10 tháng 7 năm 1931, Morris Chang sinh ra tại thành phố Ninh Bộ, tỉnh Chiết Giang, Trung Quốc. Cha ông, Trương Vệ Quan, là một nhà ngân hàng, mẹ ông, Từ Quân Vĩ, xuất thân từ một gia đình văn nhân có giáo dục. Trong thời kỳ động hỏa đó, ông luôn giữ được một tầm nhìn nhân văn trên con đường kỹ thuật nhờ cha ông là người thông thạo lịch sử và văn hóa, với một thư viện gia đình phong phú.
+**Xuất thân và gia đình:**
+Vào ngày 10 tháng 7 năm 1931, Trương Trung Mô sinh ra tại Ninh Ba, tỉnh Chiết Giang, Trung Quốc[^1]. Cha ông là một ngân hàng viên, mẹ là bà Từ Quân Vĩ xuất thân từ một gia đình có truyền thống học vấn. Trong thời kỳ biến động đó, cha ông thông thạo văn sử, nhà có nhiều sách quý, môi trường này đã giúp ông luôn giữ được tầm nhìn nhân văn trên con đường kỹ thuật.
 
-**Kinh nghiệm di cư thời thơ ấu:**
-Do chiến tranh, thời thơ ấu của Morris Chang đầy những lần di cư. Từ Ninh Bộ đến Thượng Hải, Nam Kinh, Trùng Khánh, Thượng Hải lần nữa, rồi Quảng Châu, Hồng Kông, cuối cùng là Mỹ—những năm tháng lang thang du dương này đã tạo ra khả năng thích ứng và tầm nhìn quốc tế của ông.
+**Trải nghiệm di cư thời thơ ấu:**
+Do chiến tranh, tuổi thơ của Trương Trung Mô đầy rẫy những cuộc di chuyển. Từ Ninh Ba đến Thượng Hải, Nam Kinh, Trùng Khánh, Thượng Hải, rồi đến Quảng Châu, Hồng Kông, và cuối cùng là Mỹ—trải nghiệm lênh đênh này đã tôi luyện khả năng thích ứng và tầm nhìn quốc tế của ông.
 
-**Những năm học tập ở Hồng Kông:**
-Năm 1945, lúc 14 tuổi, Morris Chang cùng gia đình chuyển tới Hồng Kông, nơi ông tiếp tục giáo dục trung học trong hệ thống giáo dục Anh quốc. Môi trường quốc tế hóa và giáo dục tiếng Anh ở Hồng Kông đã tạo nên nền tảng quan trọng cho việc học tập và làm việc của ông tại Mỹ sau này.
+**Thời gian học tập tại Hồng Kông:**
+Sau khi chiến tranh chống Nhật kết thúc vào năm 1945, gia đình chuyển đến Thượng Hải, ông theo học tại Trường Trung học Nam Dương Mô Phạm; nhưng do Nội chiến Quốc-Cộng vào năm 1948, Trương Trung Mô, lúc 17 tuổi, lại cùng gia đình di cư đến Hồng Kông[^1]. Năm sau, ông rời Hồng Kông sang Mỹ du học.
 
-### Những bước ngoặt quan trọng trong học tập tại Mỹ
+### Bước ngoặt quan trọng khi du học tại Mỹ
 
-**Thời gian ngắn tại Đại học Harvard:**
-Năm 1949, lúc 18 tuổi, Morris Chang nhập học Đại học Harvard, ban đầu học ngành Văn học. Tuy nhiên, chỉ một năm sau vì mất hứng thú với Văn học, cộng với lý do tài chính, ông đã chuyển học sang Học viện Công nghệ Massachusetts (MIT).
+**Trải nghiệm ngắn ngủi tại Đại học Harvard:**
+Năm 1949, Trương Trung Mô, lúc 18 tuổi, vào Đại học Harvard[^2] ban đầu theo học ngành Văn học. Tuy nhiên, sau một năm vì thiếu đam mê với văn học và cân nhắc về kinh tế, ông đã chuyển sang Viện Công nghệ Massachusetts (MIT).
 
 **Giáo dục kỹ thuật tại MIT:**
-Tại MIT, Morris Chang chọn chuyên ngành Cơ khí. Quyết định này dường như tình cờ, nhưng nó đã cho ông tích lũy trực giác kỹ thuật về lõi của sản xuất bán dẫn (qui trình chính xác về cơ khí), là nền tảng quan trọng cho việc ông lãnh đạo cải tiến qui trình ở TSMC sau này.
+Tại MIT, Trương Trung Mô chọn Kỹ thuật Cơ khí làm chuyên ngành chính. Sự lựa chọn này tưởng chừng ngẫu nhiên, nhưng nó đã giúp ông tích lũy trực giác kỹ thuật thực tế trong lĩnh vực cốt lõi của sản xuất bán dẫn (quy trình cơ khí chính xác), trở thành nền tảng quan trọng cho sự cải tiến quy trình sau này tại TSMC.
 
-**Tốt nghiệp năm 1952:**
-Morris Chang nhận bằng cấp Cử nhân Cơ khí từ MIT năm 1952. Vào thời điểm tốt nghiệp, chiến tranh Triều Tiên đang diễn ra, và với tư cách là một sinh viên nước ngoài, ông không thể xin được các công việc liên quan đến quân đội Mỹ, một giới hạn này lại đã dẫn ông vào lĩnh vực công nghiệp dân sự.
+**Tốt nghiệp Cử nhân năm 1952:**
+Trương Trung Mô nhận bằng Cử nhân Kỹ thuật Cơ khí từ MIT vào năm 1952[^3]. Khi tốt nghiệp, ông đang trong thời kỳ Chiến tranh Triều Tiên; do thân phận sinh viên nước ngoài không thể tìm được công việc liên quan đến quân đội Mỹ, giới hạn này lại dẫn ông đến ngành công nghiệp dân sự.
 
-## Bước đầu tiên vào sự nghiệp: Công ty Sylvania
+## Khởi đầu sự nghiệp: Công ty Sylvania
 
-### Bước vào lĩnh vực bán dẫn
+### Bước chân vào ngành bán dẫn
 
 **Cơ hội năm 1955:**
-Sau khi tốt nghiệp, Morris Chang đã làm việc tại công ty Sylvania trong ba năm, đây là lần đầu tiên ông tiếp xúc với ngành công nghiệp bán dẫn. Lúc đó ngành công nghiệp bán dẫn vẫn còn ở giai đoạn khởi đầu, nhưng Morris Chang đã nhạy bén nhận ra tiềm năng khổng lồ của ngành công nghiệp mới này.
+Sau khi tốt nghiệp, Trương Trung Mô làm việc tại công ty Sylvania trong ba năm[^4], đây là lần đầu tiên ông tiếp xúc với ngành bán dẫn. Vào thời điểm đó, ngành bán dẫn vẫn đang ở giai đoạn sơ khai, nhưng Trương Trung Mô nhạy bén nhận ra tiềm năng to lớn của ngành mới nổi này.
 
-**Phát triển khả năng kỹ thuật:**
-Tại Sylvania, Morris Chang chịu trách nhiệm công việc sản xuất thiết bị bán dẫn, học hỏi kiến thức cơ bản về qui trình bán dẫn. Kinh nghiệm này đã giúp ông hiểu rõ sự phức tạp và tính chính xác của sản xuất bán dẫn, đồng thời cũng phát triển sự chú ý đối với các chi tiết kỹ thuật.
+**Rèn luyện năng lực kỹ thuật:**
+Tại Sylvania, Trương Trung Mô phụ trách công việc sản xuất các linh kiện bán dẫn và học được kiến thức cơ bản về quy trình bán dẫn. Kinh nghiệm này giúp ông hiểu được sự phức tạp và tính chính xác của sản xuất bán dẫn, đồng thời bồi dưỡng sự chú ý đến chi tiết kỹ thuật.
 
-**Sự hiện lên của tài năng quản lý:**
-Ngay cả ở các vị trí kỹ thuật cơ bản, Morris Chang đã thể hiện khả năng quản lý xuất sắc. Ông giỏi tổ chức nhóm, giải quyết các vấn đề kỹ thuật, ba năm này đã giúp ông hiểu rõ những yêu cầu chính xác của sản xuất bán dẫn.
+**Sự thể hiện ban đầu năng lực quản lý:**
+Ngay cả ở vị trí kỹ thuật cấp cơ sở, Trương Trung Mô đã thể hiện khả năng quản lý vượt trội. Ông giỏi tổ chức đội ngũ và giải quyết các vấn đề kỹ thuật; ba năm kinh nghiệm này giúp ông nhận thức được yêu cầu khắt khe về độ chính xác trong sản xuất bán dẫn.
 
-## Thời kỳ Texas Instruments: Sự hiển thị của tài năng quản lý
+## Giai đoạn tại Texas Instruments: Thể hiện tài năng quản lý
 
 ### Bước ngoặt quan trọng năm 1958
 
 **Tham gia Texas Instruments:**
-Năm 1958, Morris Chang gia nhập Texas Instruments (TI), đây là một bước ngoặt quan trọng trong sự nghiệp của ông. Lúc đó Texas Instruments đang toàn lực mở rộng kinh doanh bán dẫn, chính xác cần những tài năng có thể kết nối kỹ thuật với quản lý.
+Năm 1958, Trương Trung Mô gia nhập Texas Instruments (TI)[^5], đây là một bước ngoặt quan trọng trong sự nghiệp của ông. Vào thời điểm đó, TI đang đẩy mạnh kinh doanh bán dẫn và cần những nhân tài có khả năng kết nối giữa kỹ thuật và quản lý.
 
-**Từ kỹ sư đến người quản lý:**
-Tại Texas Instruments, Morris Chang bắt đầu từ vị trí kỹ sư bán dẫn, chịu trách nhiệm công việc sản xuất wafer. Ông thể hiện xuất sắc về mặt kỹ thuật, đồng thời cũng cho thấy tài năng quản lý vượt trội, nhanh chóng được sự chú ý của cấp trên.
+**Từ kỹ sư đến nhà quản lý:**
+Tại TI, Trương Trung Mô bắt đầu với vai trò kỹ sư bán dẫn, phụ trách các vấn đề sản xuất wafer. Ông thể hiện sự xuất sắc về mặt kỹ thuật, đồng thời cho thấy tài năng quản lý vượt trội, nhanh chóng được cấp trên chú ý.
 
-**Đóng góp cải tiến qui trình:**
-Trong thời kỳ tại Texas Instruments, Morris Chang đã cải tiến đáng kể qui trình bán dẫn của công ty, nâng cao tỉ lệ sản phẩm tốt và hiệu suất sản xuất. Những cải tiến kỹ thuật này đã tiết kiệm rất nhiều chi phí cho công ty, đồng thời cũng mang lại danh tiếng cho ông.
+**Đóng góp vào cải tiến quy trình:**
+Trong thời gian làm việc tại TI, Trương Trung Mô đã cải tiến đáng kể quy trình bán dẫn của công ty, nâng cao tỷ lệ sản phẩm đạt chuẩn và hiệu suất sản xuất. Những cải tiến kỹ thuật này giúp công ty tiết kiệm rất nhiều chi phí và mang lại danh tiếng cho ông.
 
-### Học tập tiếp tục tại Đại học Stanford
+### Học tập chuyên sâu tại Đại học Stanford
 
 **Cơ hội học tập năm 1961:**
-Năm 1961, Texas Instruments hỗ trợ Morris Chang học tiếp tại Đại học Stanford lấy bằng tiến sĩ kỹ thuật điện. Đây là sự công nhận khả năng của ông từ công ty, cũng thể hiện sự chú trọng của các doanh nghiệp Mỹ đối với phát triển nhân tài.
+Năm 1961, TI đã hỗ trợ Trương Trung Mô sang Đại học Stanford để lấy bằng Tiến sĩ Kỹ thuật Điện. Đây là sự công nhận năng lực của công ty đối với ông và cũng thể hiện sự coi trọng mà các doanh nghiệp Mỹ dành cho việc bồi dưỡng nhân tài.
 
-**Thành quả từ bằng tiến sĩ:**
-Năm 1964, Morris Chang nhận được bằng Tiến sĩ Kỹ thuật Điện từ Đại học Stanford. [^3] Thời gian học tập này đã nâng cao độ sâu lý thuyết và mối quan hệ trong ngành, quay lại TI sau đó ông ngay lập tức được thăng chức.
+**Thành tựu của bằng Tiến sĩ:**
+Năm 1964, Trương Trung Mô nhận bằng Tiến sĩ Kỹ thuật Điện từ Đại học Stanford[^6]. Quá trình học tập này giúp ông nâng cao cả chiều sâu lý thuyết lẫn mạng lưới quan hệ trong ngành; sau khi trở về TI, ông nhanh chóng được thăng chức.
 
-**Vai trò mới khi quay lại công ty:**
-Sau khi tốt nghiệp tiến sĩ, Morris Chang quay lại Texas Instruments với các vị trí quản lý cao hơn. Ông lần lượt giữ các chức vụ Tổng giám đốc bộ phận Tranzistor Germani, bộ phận Tranzistor Silicon, bộ phận Mạch tích hợp, vị trí của ông tại TI ngày càng nâng cao theo thành tích.
+**Vai trò mới tại công ty:**
+Sau khi tốt nghiệp tiến sĩ, Trương Trung Mô quay lại Texas Instruments và đảm nhận các vị trí quản lý cấp cao hơn. Ông lần lượt giữ chức Tổng giám đốc của bộ bán dẫn, bộ silicon, và bộ mạch tích hợp tại TI; địa vị của ông liên tục thăng tiến theo thành tích công việc.
 
-### Vượt qua trần kính chứng của chủng tộc
+### Vượt qua "trần kính" chủng tộc
 
-**Sự thăng chức mang tính lịch sử năm 1972:**
-Năm 1972, Morris Chang được thăng chức lên chức Phó chủ tịch Tập đoàn Texas Instruments, trở thành một trong số những quản lý cao cấp người Hoa ở các công ty lớn Mỹ lúc đó. Sự thăng chức này là một thành tích cực kỳ hiếm trong môi trường kinh doanh Mỹ thời bấy giờ.
+**Thăng chức lịch sử năm 1972:**
+Năm 1972, Trương Trung Mô được bổ nhiệm làm Phó Tổng giám đốc tập đoàn Texas Instruments[^7], trở thành một trong những giám đốc người Hoa cấp cao nhất tại các tập đoàn lớn của Mỹ vào thời điểm đó. Thành tựu này là cực kỳ hiếm hoi trong môi trường kinh doanh Mỹ lúc bấy giờ.
 
 **Tổng giám đốc bộ phận bán dẫn:**
-Morris Chang đồng thời giữ chức Tổng giám đốc bộ phận Bán dẫn của Texas Instruments, chịu trách nhiệm bộ phận kinh doanh cốt lõi của công ty. Dưới sự lãnh đạo của ông, kinh doanh bán dẫn của Texas Instruments phát triển nhanh chóng, trở thành một trong những nhà cung cấp bán dẫn hàng đầu toàn cầu.
+Trương Trung Mô đồng thời giữ chức Tổng giám đốc bộ phận bán dẫn của Texas Instruments, phụ trách các bộ phận cốt lõi của công ty. Dưới sự lãnh đạo của ông, mảng kinh doanh bán dẫn của TI phát triển nhanh chóng và trở thành nhà cung cấp bán dẫn chủ lực toàn cầu.
 
-**Tổng kết 25 năm sự nghiệp tại Mỹ:**
-Trong 25 năm tại Texas Instruments, Morris Chang từ một kỹ sư cấp dưới lên tới những vị trí quản lý cao nhất, hiểu sâu về nhịp điệu kỹ thuật và logic kinh doanh của ngành bán dẫn. Kinh nghiệm này đã giúp ông có cái nhìn chính xác hơn bất kỳ ai chỉ có nền tảng học thuật khi quay về Đài Loan khởi nghiệp năm 1987.
+**Tổng kết 25 năm tại Mỹ:**
+Trong suốt 25 năm tại Texas Instruments, Trương Trung Mô đã vươn lên từ một kỹ sư cơ sở đến một giám đốc cấp cao, thấu hiểu nhịp độ công nghệ và logic kinh doanh của ngành bán dẫn. Kinh nghiệm này giúp ông đưa ra những đánh giá thị trường chính xác hơn bất kỳ ai chỉ có nền tảng học thuật thuần túy khi trở về sáng lập vào năm 1987.
 
-## Tiếng gọi của Đài Loan: Thời kỳ làm Giám đốc Viện ITRI
+## Sự kêu gọi từ Đài Loan: Giai đoạn Viện Nghiên cứu Công nghiệp
 
-### Bước ngoặt cuộc sống năm 1985
+### Bước ngoặt cuộc đời năm 1985
 
-**Lời mời của Sun Yun-xuan:**
-Năm 1985, Morris Chang được cựu Thủ tướng Sun Yun-xuan[^1], Chủ tịch ITRI (Viện Nghiên cứu Công nghệ Công nghiệp) Từ Hiền Tu, Thủ tướng Dư Quốc Hoa, và Ủy viên Chính phủ Lý Quốc Đình mời làm Giám đốc Viện Nghiên cứu Công nghệ Công nghiệp. Sun Yun-xuan từng lâu nay thúc đẩy sự phát triển ngành công nghệ cao của Đài Loan, là người đẩy chiều đưa Morris Chang quay lại Đài Loan. Quyết định này đã thay đổi quỹ đạo cuộc sống của ông, cũng thay đổi số phận của ngành công nghệ Đài Loan.
+**Lời mời của Tôn Vận Tuần:**
+Năm 1985, Trương Trung Mô được sự mời gọi mạnh mẽ từ cựu Hành chính viện trưởng Tôn Vận Tuần[^8], Chủ tịch Viện Nghiên cứu Công nghiệp (ITRI) Từ Hiền Tú, và các quan chức cấp cao khác, để đảm nhiệm vị trí Viện trưởng Viện Nghiên cứu Công nghiệp. Tôn Vận Tuần đã thúc đẩy sự phát triển công nghiệp công nghệ cao của Đài Loan trong thời gian dài, là nhân tố quan trọng mời Trương Trung Mô trở về Đài Loan. Quyết định này đã thay đổi quỹ đạo cuộc đời ông và vận mệnh ngành công nghệ Đài Loan.
 
-**Dũng cảm rời khỏi vùng thoải mái:**
-Vào thời điểm đó, Morris Chang 54 tuổi, đã sở hữu sự nghiệp thành công và cuộc sống sung túc tại Mỹ. Chọn quay lại Đài Loan là một quyết định đầy rủi ro và thách thức, thể hiện trách nhiệm lịch sử của ông đối với sự phát triển công nghệ Đài Loan.
+**Dũng khí rời khỏi vùng an toàn:**
+Vào năm 54 tuổi, Trương Trung Mô đã có một sự nghiệp thành công và cuộc sống sung túc tại Mỹ. Việc lựa chọn trở về Đài Loan là một quyết định đầy rủi ro và thách thức, thể hiện ý thức trách nhiệm của ông đối với sự phát triển khoa học kỹ thuật của Đài Loan.
 
-**Cải cách tại ITRI:**
-Khi làm Giám đốc ITRI, Morris Chang thúc đẩy sự kết hợp chặt chẽ giữa nghiên cứu và phát triển với ngành công nghiệp, sử dụng tư duy quản lý theo phong cách Mỹ để chỉnh lại hướng nghiên cứu của ITRI. Tầm nhìn quốc tế của ông đã chuyển ITRI từ một cơ quan nghiên cứu chính phủ sang một tổ chức ươm mầm công nghệ có ý thức kinh doanh hơn.
+**Cải cách Viện Nghiên cứu Công nghiệp:**
+Trong thời gian làm Viện trưởng ITRI, Trương Trung Mô thúc đẩy mối liên kết chặt chẽ giữa nghiên cứu và công nghiệp, sắp xếp lại định hướng nghiên cứu của Viện theo tư duy quản lý kiểu Mỹ. Tầm nhìn quốc tế của ông đã giúp ITRI chuyển đổi từ một cơ quan nghiên cứu nhà nước thành một vườn ươm công nghệ mang tính thương mại cao hơn.
 
-### Đánh giá ngành công nghiệp bán dẫn Đài Loan
+### Đánh giá về ngành bán dẫn Đài Loan
 
-**Phân tích môi trường ngành:**
-Morris Chang cẩn thận đánh giá môi trường ngành công nghiệp và những lợi thế của Đài Loan. Ông tin rằng Đài Loan sở hữu những kỹ sư tài năng, chi phí thấp hơn, cũng như khả năng sản xuất linh hoạt—những điều kiện này rất thích hợp cho sự phát triển ngành công nghiệp sản xuất bán dẫn.
+**Phân tích môi trường công nghiệp:**
+Trương Trung Mô đã đánh giá kỹ lưỡng môi trường và lợi thế của Đài Loan. Ông nhận thấy Đài Loan sở hữu nguồn nhân lực kỹ thuật xuất sắc, chi phí tương đối thấp và năng lực sản xuất linh hoạt—những điều kiện rất phù hợp để phát triển ngành sản xuất bán dẫn.
 
-**Khái niệm về mô hình đúc khi:**
-Trong thời kỳ làm Giám đốc ITRI, Morris Chang bắt đầu suy nghĩ về một mô hình kinh doanh mang tính cách mạng—đúc khi wafer chuyên nghiệp. Ý tưởng này xuất phát từ sự hiểu biết sâu sắc của ông về xu hướng ngành, cũng là kết tinh của nhiều năm kinh nghiệm ngành công nghiệp.
+**Ý tưởng về mô hình sản xuất theo hợp đồng:**
+Trong thời gian tại ITRI, Trương Trung Mô bắt đầu suy nghĩ về một mô hình kinh doanh mang tính cách mạng—sản xuất chuyên biệt (fabless). Ý tưởng này đến từ sự thấu hiểu sâu sắc của ông về xu hướng ngành và là kết tinh của nhiều năm kinh nghiệm công nghiệp.
 
 **Tầm quan trọng của sự hỗ trợ chính phủ:**
-Morris Chang nhận thấy để phát triển ngành công nghiệp bán dẫn cần sự hỗ trợ đầy đủ từ chính phủ, bao gồm đầu tư tài chính, hợp tác chính sách và đào tạo nhân tài. Ông liên lạc chặt chẽ với các quan chức chính phủ, tranh thủ được sự ủng hộ chính phủ và cơ cấu vốn đặc biệt bao gồm chuyển giao công nghệ từ ITRI và đầu tư vốn chính phủ cho sự thành lập của TSMC.
+Trương Trung Mô nhận ra rằng việc phát triển ngành bán dẫn cần có sự hỗ trợ đầy đủ từ chính phủ, bao gồm đầu tư vốn, sự phối hợp chính sách và đào tạo nhân tài. Ông đã trao đổi chặt chẽ với các quan chức chính phủ để giành được cấu trúc đặc biệt cho sự thành lập TSMC: cấp phép công nghệ của ITRI và sự tham gia vốn của nhà nước.
 
-## Sự ra đời của TSMC: Sự đổi mới năm 1987
+## Sự ra đời của TSMC: Đổi mới năm 1987
 
-### Đổi mới của mô hình đúc khi chuyên nghiệp
+### Sáng tạo mô hình sản xuất chuyên biệt
 
-**Sự đột phá của ý tưởng đúc khi:**
-Năm 1987, Morris Chang đề xuất khái niệm đổi mới "đúc khi wafer chuyên nghiệp". Khác với mô hình truyền thống của các nhà sản xuất linh kiện tích hợp (IDM), TSMC sẽ tập trung vào việc đúc khi sản xuất chip cho khách hàng, không thiết kế sản phẩm của riêng mình.
+**Đột phá ý tưởng theo hợp đồng:**
+Năm 1987, Trương Trung Mô đưa ra khái niệm đổi mới "sản xuất chuyên biệt" (pure-fab)[^11]. Khác với mô hình nhà sản xuất tích hợp (IDM) truyền thống, TSMC tập trung vào việc sản xuất chip theo hợp đồng cho khách hàng mà không tự thiết kế sản phẩm.
 
 **Tính cách mạng của mô hình kinh doanh:**
-Tính cách mạng của mô hình này nằm ở chỗ nó cho phép nhiều công ty không có khả năng xây dựng nhà máy wafer cũng có thể thiết kế chip tiên tiến, giảm đáng kể rào cản vào ngành công nghiệp bán dẫn, khiến công ty thiết kế chip tăng trưởng theo cấp số mũ từ thập niên 1990 đến năm 2020.
+Tính cách mạng của mô hình này là nó cho phép nhiều công ty không có khả năng xây dựng nhà máy bán dẫn vẫn có thể thiết kế các loại chip tiên tiến, giảm đáng kể rào cản gia nhập ngành bán dẫn, thúc đẩy sự tăng trưởng theo cấp số nhân của các công ty thiết kế từ những năm 1990 đến những năm 2020.
 
-**Tác động đối với hệ sinh thái ngành:**
-Mô hình đúc khi chuyên nghiệp tạo ra một hệ sinh thái ngành công nghiệp toàn mới, cho phép các công ty thiết kế tập trung vào đổi mới, các nhà máy đúc khi tập trung vào sản xuất, thực hiện sự phân công chuyên môn hóa, nâng cao hiệu suất của toàn ngành.
+**Ảnh hưởng đến hệ sinh thái công nghiệp:**
+Mô hình sản xuất chuyên biệt đã tạo ra một hệ sinh thái công nghiệp hoàn toàn mới: công ty thiết kế tập trung vào đổi mới, nhà sản xuất theo hợp đồng tập trung vào sản xuất, đạt được sự phân công lao động chuyên môn hóa và nâng cao hiệu quả của toàn bộ ngành.
 
 ### Quá trình thành lập TSMC
 
-**Thời điểm lịch sử ngày 21 tháng 2 năm 1987:**
-Vào ngày 21 tháng 2 năm 1987, Công ty Sản xuất Linh kiện Tích hợp Đài Loan chính thức được thành lập, với vốn khởi động là 22 tỷ Đài tệ mới. Đây là kết quả của sự hợp tác chung giữa chính phủ, các doanh nghiệp tư nhân và những nhà đầu tư nước ngoài.
+**Khoảnh khắc lịch sử ngày 21 tháng 2 năm 1987:**
+Vào ngày 21 tháng 2 năm 1987, Công ty Sản xuất Mạch tích hợp Đài Loan chính thức được thành lập với tổng vốn đầu tư khoảng 145 triệu USD: trong đó nhà nước đầu tư 70 triệu USD chiếm 48.3%, Philips Hà Lan đầu tư 40 triệu USD chiếm 27.5%, và các bên tư nhân đóng góp 35 triệu USD chiếm 24.2%[^9]. Đây là thành quả hợp tác của chính phủ, doanh nghiệp tư nhân và nhà đầu tư nước ngoài.
 
-**Thiết kế cơ cấu vốn:**
-Cơ cấu vốn của TSMC bao gồm ITRI, công ty Philips Hà Lan và các doanh nghiệp tư nhân Đài Loan. Cơ cấu vốn đa dạng này đã mang lại công nghệ, tài chính và các nguồn lực thị trường cho TSMC.
+**Thiết kế cơ cấu cổ phần:**
+Cơ cấu cổ phần của TSMC bao gồm ITRI, Philips Hà Lan và các doanh nghiệp tư nhân Đài Loan[^10]. Cơ cấu vốn đa dạng này đã mang lại cho TSMC nguồn lực về công nghệ, tài chính và thị trường.
 
-**Vai trò kép của Morris Chang:**
-Morris Chang giữ chức Chủ tịch kiêm Tổng giám đốc TSMC (sau gọi là Tổng giám đốc điều hành), chịu trách nhiệm về chiến lược tổng thể và vận hành hàng ngày của công ty. Phong cách lãnh đạo của ông kết hợp hiệu suất của quản lý theo kiểu Mỹ với sự thông thái của văn hóa Hoa.
+**Vai trò kép của Trương Trung Mô:**
+Trương Trung Mô đảm nhiệm chức Chủ tịch kiêm Tổng giám đốc (sau đổi thành Giám đốc điều hành) của TSMC, chịu trách nhiệm về chiến lược tổng thể và hoạt động hàng ngày của công ty. Phong cách lãnh đạo của ông kết hợp sự hiệu quả của quản lý kiểu Mỹ với trí tuệ văn hóa Hoa ngữ.
 
 ## Quá trình phát triển của TSMC
 
-### Những thách thức và bước đột phá ban đầu
+### Thách thức và đột phá ban đầu
 
-**1987-1990: Giai đoạn khởi nghiệp khó khăn:**
-TSMC phải đối mặt với những thách thức khổng lồ khi mới thành lập. Đúc khi chuyên nghiệp là một mô hình kinh doanh hoàn toàn mới, thị trường còn hoài nghi, khách hàng cần thời gian để chấp nhận khái niệm này. Morris Chang phải đồng thời xây dựng khả năng sản xuất và thuyết phục khách hàng.
+**1987-1990: Giai đoạn khởi nghiệp gian nan:**
+TSMC đối mặt với những thách thức to lớn trong giai đoạn đầu. Sản xuất theo hợp đồng là một mô hình kinh doanh hoàn toàn mới, thị trường còn nghi ngờ về nó, và khách hàng cần thời gian để chấp nhận khái niệm này. Trương Trung Mô phải vừa xây dựng năng lực sản xuất vừa thuyết phục khách hàng.
 
-**Xây dựng khả năng kỹ thuật:**
-Công nghệ ban đầu của TSMC đến từ sự chuyển giao công nghệ của ITRI và sự hợp tác với Philips. Morris Chang lãnh đạo đội ngũ học hỏi nhanh chóng và cải tiến công nghệ qui trình, xây dựng khả năng sản xuất đáng tin cậy.
+**Xây dựng năng lực kỹ thuật:**
+Công nghệ ban đầu của TSMC đến từ sự chuyển giao của ITRI và sự hợp tác với Philips. Trương Trung Mô đã dẫn dắt đội ngũ học hỏi và cải tiến công nghệ quy trình một cách nhanh chóng, thiết lập được năng lực sản xuất đáng tin cậy.
 
 **Mở rộng khách hàng đầu tiên:**
-Những khách hàng đầu tiên của TSMC chủ yếu là những công ty bán dẫn không có nhà máy của Mỹ (Fabless). Những công ty này chính xác cần dịch vụ đúc khi chuyên nghiệp, cung cấp nền tảng kinh doanh sơ khai cho TSMC.
+Những khách hàng đầu tiên của TSMC chủ yếu là các công ty bán dẫn không có nhà máy (Fabless) của Mỹ. Những công ty này vừa vặn cần dịch vụ sản xuất theo hợp đồng chuyên nghiệp, cung cấp nền tảng kinh doanh ban đầu cho TSMC.
 
-### Sự phát triển nhanh chóng trong thập niên 1990
+### Phát triển nhanh chóng trong những năm 1990
 
-**Chiến lược dẫn đầu công nghệ:**
-Trong thập niên 1990, Morris Chang thiết lập chiến lược "dẫn đầu công nghệ", đầu tư lớn vào nghiên cứu và phát triển, đảm bảo TSMC không tụt lại so với đối thủ ở mỗi thế hệ qui trình. TSMC xây dựng nhiều nhà máy wafer liên tiếp tại Đài Loan, khách hàng từ những công ty thiết kế không có nhà máy ở Mỹ sơ khai mở rộng thành những công ty thiết kế chính hãng toàn cầu như Qualcomm, Broadcom, NVIDIA.
+**Chiến lược dẫn đầu về công nghệ:**
+Trong những năm 1990, Trương Trung Mô đã xây dựng chiến lược "dẫn đầu về công nghệ", đầu tư mạnh vào R&D để đảm bảo TSMC không bị tụt lại phía sau đối thủ ở bất kỳ thế hệ quy trình nào. TSMC liên tục xây dựng nhiều nhà máy wafer tại Đài Loan; nhóm khách hàng mở rộng từ các công ty Fabless ban đầu sang các công ty thiết kế lớn toàn cầu như Qualcomm, Broadcom, Nvidia.
 
-### Vị trí dẫn đầu trong thế kỷ 21
+### Vị thế dẫn đầu trong thế kỷ 21
 
-**Cạnh tranh trong qui trình tiên tiến:**
-Vào thế kỷ 21, công nghệ qui trình bán dẫn phát triển ngày càng khó khăn và tốn kém. TSMC dựa vào mức đầu tư nghiên cứu và phát triển hàng năm cao hơn mức trung bình ngành để duy trì vị trí dẫn đầu trong lĩnh vực qui trình tiên tiến.
+**Cạnh tranh về quy trình tiên tiến:**
+Bước vào thế kỷ 21, sự phát triển của công nghệ quy trình bán dẫn ngày càng trở nên khó khăn và tốn kém. TSMC duy trì vị thế dẫn đầu trong lĩnh vực quy trình tiên tiến nhờ mức độ đầu tư R&D hàng năm cao hơn mức trung bình ngành.
 
-**Bước đột phá từ 28 nanomet đến 5 nanomet:**
-Từ 28 nanomet đến 16 nanomet, rồi 7 nanomet, 5 nanomet và 3 nanomet, TSMC duy trì vị trí dẫn đầu công nghệ ở mỗi thế hệ qui trình tiên tiến, bao vệ vị trí của mình ở thị trường cao cấp.
+**Đột phá từ 28 nm đến 5 nm:**
+Từ 28 nanomet đến 16 nanomet, 7 nanomet, và sau đó là 5 nanomet và 3 nanomet, TSMC đã duy trì vị thế dẫn đầu về công nghệ ở mỗi thế hệ quy trình tiên tiến, củng cố vị thế của mình trên thị trường cao cấp.
 
 **Cột mốc hợp tác với Apple:**
-Sự hợp tác với Apple bắt đầu từ năm 2013 với chip loạt A, TSMC cung cấp dịch vụ đúc khi cho bộ xử lý cốt lõi của iPhone và iPad, mang lại khối lượng đơn đặt hàng khổng lồ, đồng thời giúp khả năng qui trình tiên tiến của TSMC được kiểm chứng bởi yêu cầu kinh doanh khắt khe nhất.[^2]
+Sự hợp tác với Apple bắt đầu từ chip dòng A vào năm 2013; TSMC sản xuất bộ xử lý cốt lõi cho iPhone và iPad, mang lại quy mô đơn hàng khổng lồ và là sự kiểm chứng thương mại nghiêm ngặt nhất đối với năng lực quy trình tiên tiến của TSMC[^12].
 
-## Triết lý quản lý và Triết học lãnh đạo
+## Triết lý kinh doanh và triết lý quản lý
 
-### Sự kiên trì trong đổi mới công nghệ
+### Kiên định đổi mới công nghệ
 
-**Trọng tâm đầu tư nghiên cứu:**
-Morris Chang luôn nhấn mạnh tầm quan trọng của đổi mới công nghệ, TSMC hàng năm đầu tư khoảng 8% doanh thu vào nghiên cứu và phát triển, đảm bảo không tụt lại so với đối thủ về công nghệ.[^3] Trong thời đại Quy luật Moore đang đối mặt với giới hạn vật lý, Morris Chang lãnh đạo TSMC liên tục vượt qua qui trình 7 nanomet, 5 nanomet, 3 nanomet, cung cấp khả năng sản xuất cho toàn bộ sự phát triển ngành công nghiệp bán dẫn.
+**Chú trọng đầu tư R&D:**
+Trương Trung Mô luôn nhấn mạnh tầm quan trọng của sự đổi mới công nghệ. Hàng năm, TSMC dành khoảng 8% doanh thu cho R&D để đảm bảo không bị tụt hậu về mặt kỹ thuật so với đối thủ[^13]. Trong thời đại mà Định luật Moore đang chạm đến giới hạn vật lý, ông đã giám sát việc sản xuất thương mại quy trình 7 nanomet; còn 5 nanomet (2020) và 3 nanomet (2022) là thành quả của đội ngũ kế nhiệm sau khi ông nghỉ hưu; sự tiến bộ liên tục qua các thế hệ quy trình tiên tiến đã cung cấp năng lực sản xuất cho sự phát triển của toàn ngành bán dẫn.
 
-**Cân bằng giữa công nghệ và nhu cầu thị trường:**
-Morris Chang giỏi tìm ra điểm cân bằng giữa dẫn đầu công nghệ và nhu cầu thị trường, vừa duy trì lợi thế công nghệ, vừa đảm bảo giá trị kinh doanh của công nghệ, tránh vượt quá trước khiến chi phí quá cao.
+**Cân bằng giữa công nghệ và thị trường:**
+Trương Trung Mô giỏi tìm ra điểm cân bằng giữa việc dẫn đầu về công nghệ và nhu cầu thị trường; ông vừa phải duy trì lợi thế kỹ thuật, vừa phải đảm bảo giá trị thương mại của công nghệ, tránh tình trạng quá tiên tiến gây chi phí quá cao.
 
-### Phát triển nhân tài và văn hóa doanh nghiệp
+### Đào tạo nhân tài và văn hóa doanh nghiệp
 
-**Văn hóa doanh nghiệp lấy trung thực làm trung tâm:**
-Morris Chang xây dựng văn hóa doanh nghiệp với trung thực làm lõi tại TSMC. Ông nhấn mạnh các giá trị cốt lõi của "trung thực, cam kết, đổi mới, tin tưởng của khách hàng", những giá trị này trở thành nền tảng văn hóa của TSMC.
+**Văn hóa doanh nghiệp chính trực:**
+Trương Trung Mô đã xây dựng một nền văn hóa doanh nghiệp lấy sự chính trực làm cốt lõi tại TSMC. Ông nhấn mạnh các giá trị cốt lõi "chính trực, cam kết, đổi mới, tin cậy của khách hàng", những giá trị này trở thành nền tảng văn hóa của TSMC.
 
-**Trọng tâm phát triển nhân tài:**
-Morris Chang rất chú trọng đến phát triển nhân tài, xây dựng hệ thống đào tạo kỹ sư có hệ thống và thăng tiến tại TSMC. Ông tin rằng nhân tài là lõi cạnh tranh của doanh nghiệp, TSMC duy trì tỉ lệ rời bỏ việc làm thấp hơn mức trung bình ngành, đồng thời cũng đã đào tạo những nhân vật lãnh đạo TSMC về sau như Lưu Đức Âm, Ngụy Triết Gia.
+**Chú trọng phát triển nhân tài:**
+Trương Trung Mô rất coi trọng việc bồi dưỡng nhân tài; ông đã thiết lập một hệ thống đào tạo và thăng tiến kỹ sư có hệ thống tại TSMC. Ông tin rằng con người là năng lực cạnh tranh cốt lõi của doanh nghiệp, và trong khi tỷ lệ nghỉ việc của TSMC thấp hơn đáng kể so với mức trung bình ngành, công ty cũng đã nuôi dưỡng các đội ngũ nòng cốt như Lưu Đức Ân (Liu Deyin) và Ngụy Triết Gia (Wei Zhejia) sau này lãnh đạo TSMC.
 
-**Phong cách quản lý quốc tế hóa:**
-Morris Chang đưa hiệu suất và tính minh bạch của quản lý theo kiểu Mỹ vào TSMC, xây dựng cơ cấu quản trị doanh nghiệp hiện đại. Đồng thời cũng hòa nhập sự thông thái của văn hóa Hoa, tạo ra một văn hóa doanh nghiệp độc đáo.
+**Phong cách quản lý quốc tế:**
+Trương Trung Mô đã đưa sự hiệu quả và tính minh bạch của quản lý kiểu Mỹ vào TSMC, thiết lập một cấu trúc quản trị doanh nghiệp hiện đại. Đồng thời, ông cũng dung hợp trí tuệ văn hóa Hoa ngữ, tạo ra một nền văn hóa doanh nghiệp độc đáo.
 
-### Tư duy chiến lược và khả năng thực thi
+### Tư duy chiến lược và năng lực thực thi
 
 **Xây dựng chiến lược dài hạn:**
-Morris Chang sở hữu khả năng tư duy chiến lược vượt trội, có thể nhìn thấu xu hướng ngành, xây dựng chiến lược phát triển dài hạn. Chiến lược "dẫn đầu công nghệ" của TSMC chính là biểu hiện của tầm nhìn chiến lược của ông.
+Trương Trung Mô sở hữu khả năng tư duy chiến lược xuất sắc; ông có thể nhìn thấu xu hướng ngành và xây dựng các chiến lược phát triển dài hạn. Chiến lược "dẫn đầu về công nghệ" của TSMC chính là sự thể hiện tầm nhìn chiến lược của ông.
 
-**Trọng tâm khả năng thực thi:**
-Ngoài việc xây dựng chiến lược, Morris Chang cũng rất chú trọng khả năng thực thi. Ông xây dựng một hệ thống quản lý chính xác, cho phép các bản vẽ công nghệ từ quyết định đến nhà máy wafer, đây là lý do chính TSMC có thể theo nhịp mỗi thế hệ qui trình.
+**Chú trọng năng lực thực thi:**
+Ngoài việc hoạch định chiến lược, Trương Trung Mô cũng rất coi trọng khả năng thực thi. Ông đã thiết lập một hệ thống quản lý chính xác, giúp bản vẽ kỹ thuật được chuyển từ quyết định đến nhà máy wafer; đây là lý do cốt lõi giúp TSMC theo kịp nhịp độ của mỗi thế hệ quy trình.
 
-**Sự thông thái trong ứng phó với khủng hoảng:**
-Khi đối mặt với các loại khủng hoảng và thách thức, Morris Chang thể hiện khả năng lãnh đạo vượt trội và sự thông thái trong ứng phó với khủng hoảng, dẫn dắt TSMC vượt qua nhiều thời kỳ khó khăn, duy trì sự phát triển ổn định của doanh nghiệp.
+**Trí tuệ ứng phó khủng hoảng:**
+Khi đối mặt với các cuộc khủng hoảng và thách thức khác nhau, Trương Trung Mô đã thể hiện khả năng lãnh đạo và trí tuệ ứng phó khủng hoảng xuất sắc, dẫn dắt TSMC vượt qua nhiều giai đoạn khó khăn và duy trì sự phát triển ổn định của doanh nghiệp.
 
-## Nghỉ hưu và sự truyền thừa
+## Nghỉ hưu và sự kế thừa
 
-### Lần nghỉ hưu đầu tiên năm 2005
+### Lần nghỉ hưu đầu tiên vào năm 2005
 
-**Bắt đầu kế hoạch kế thừa:**
-Năm 2005, Morris Chang 74 tuổi công bố nghỉ hưu, chuyển chức Tổng giám đốc điều hành cho Thái Lực Hành. Đây là một phần của kế hoạch kế thừa được chuẩn bị kỹ lưỡng, thể hiện trách nhiệm của ông đối với sự phát triển bền vững của doanh nghiệp.
+**Khởi động kế hoạch kế nhiệm:**
+Năm 2005, Trương Trung Mô, lúc 74 tuổi, tuyên bố nghỉ hưu, giao chức Giám đốc điều hành cho Thái Lực Hành (Cai Lixing)[^14]. Đây là một phần của kế hoạch kế nhiệm được ông chuẩn bị kỹ lưỡng, thể hiện ý thức trách nhiệm của ông đối với sự phát triển bền vững của doanh nghiệp.
 
-**Giữ chức Chủ tịch:**
-Mặc dù từ chức Tổng giám đốc điều hành, Morris Chang vẫn giữ chức Chủ tịch, tiếp tục tham gia những quyết định chiến lược lớn của công ty, cung cấp hướng dẫn và hỗ trợ cho đội ngũ kế thừa.
+**Giữ lại vai trò Chủ tịch:**
+Mặc dù đã từ chức Giám đốc điều hành, Trương Trung Mô vẫn giữ chức Chủ tịch, tiếp tục tham gia vào các quyết định chiến lược quan trọng của công ty, cung cấp sự hướng dẫn và hỗ trợ cho đội ngũ kế nhiệm.
 
-**Sắp xếp cuộc sống nghỉ hưu:**
-Sau khi nghỉ hưu, Morris Chang không hoàn toàn rời khỏi hoạt động kinh doanh, ông tham gia các diễn đàn quốc tế như APEC là đại diện Đài Loan, cũng tham gia nhiều bài diễn thuyết để chia sẻ quan điểm về địa chính trị và tương lai bán dẫn.
+**Sắp xếp cuộc sống sau khi nghỉ hưu:**
+Sau khi nghỉ hưu, Trương Trung Mô không hoàn toàn rời xa hoạt động kinh doanh; ông tham dự các diễn đàn quốc tế như APEC với tư cách đại diện của Đài Loan, và cũng chia sẻ quan điểm của mình về địa chính trị và tương lai bán dẫn trong nhiều bài nói chuyện.
 
-### Quay trở lại năm 2009
+### Sự trở lại vào năm 2009
 
-**Thách thức từ cuộc khủng hoảng tài chính:**
-Cuộc khủng hoảng tài chính toàn cầu năm 2008 gây tác động lớn lao đến TSMC, công ty phải đối mặt với tình trạng doanh thu giảm và cạnh tranh tăng cường gấp đôi. Ở thời điểm quan trọng này, Morris Chang quyết định quay trở lại.
+**Thách thức từ khủng hoảng tài chính:**
+Khủng hoảng tài chính toàn cầu năm 2008 đã gây ra ảnh hưởng lớn đến TSMC, công ty đối mặt với thách thức kép là doanh thu sụt giảm và cạnh tranh gia tăng. Trong thời điểm quan trọng này, Trương Trung Mô quyết định trở lại.
 
-**Tái nhậm chức Tổng giám đốc điều hành:**
-Năm 2009, Morris Chang 78 tuổi tái nhậm chức Tổng giám đốc điều hành của TSMC, trực tiếp lãnh đạo công ty vượt qua thời kỳ khó khăn. Sự quay trở lại của ông ổn định được lòng tin của thị trường, cũng cung cấp lãnh đạo cho sự phục hồi của công ty.
+**Tái nhậm chức Giám đốc điều hành:**
+Năm 2009, Trương Trung Mô, lúc 78 tuổi, tái nhậm chức Giám đốc điều hành của TSMC[^15], đích thân dẫn dắt công ty vượt qua giai đoạn khó khăn. Sự trở lại của ông đã ổn định niềm tin thị trường và cung cấp năng lực lãnh đạo cho sự phục hồi của công ty.
 
-**Phát triển Lưu Đức Âm và Ngụy Triết Gia:**
-Trong nhiệm kỳ thứ hai, Morris Chang tập trung phát triển những kế thừa viên tiềm năng như Lưu Đức Âm và Ngụy Triết Gia, chuẩn bị nhân tài cho sự phát triển tương lai của công ty.
+**Bồi dưỡng Lưu Đức Ân và Ngụy Triết Gia:**
+Trong nhiệm kỳ thứ hai, Trương Trung Mô tập trung bồi dưỡng các người kế nhiệm như Lưu Đức Ân và Ngụy Triết Gia, chuẩn bị nhân tài cho sự phát triển tương lai của công ty.
 
-### Nghỉ hưu chính thức năm 2018
+### Nghỉ hưu chính thức vào năm 2018
 
 **Hoàn thành kế hoạch truyền thừa:**
-Tháng 6 năm 2018, Morris Chang 87 tuổi nghỉ hưu chính thức, kết thúc 31 năm sự nghiệp huyền thoại của ông tại TSMC. Ông chuyển chức Chủ tịch cho Lưu Đức Âm, chức Tổng giám đốc điều hành cho Ngụy Triết Gia.
+Vào tháng 6 năm 2018, Trương Trung Mô, lúc 87 tuổi, chính thức nghỉ hưu, kết thúc sự nghiệp huyền thoại kéo dài 31 năm tại TSMC[^16]. Ông giao chức Chủ tịch cho Lưu Đức Ân và chức Giám đốc điều hành cho Ngụy Triết Gia.
 
-**Thiết lập chế độ lưỡng thủ lĩnh:**
-Morris Chang thiết lập "chế độ lưỡng thủ lĩnh", Lưu Đức Âm làm Chủ tịch chịu trách nhiệm đối ngoại, Ngụy Triết Gia làm Tổng giám đốc điều hành chịu trách nhiệm đối nội, cơ cấu quyền lực này giúp ích cho sự phát triển ổn định của công ty.
+**Thiết lập mô hình "Song chủ tịch":**
+Trương Trung Mô đã thiết lập mô hình "song chủ tịch": Lưu Đức Ân làm Chủ tịch phụ trách đối ngoại, còn Ngụy Triết Gia làm Giám đốc điều hành phụ trách nội bộ; sự sắp xếp này đã giúp công ty phát triển ổn định.
 
-**Mẫu số thành công rồi từ bỏ:**
-Sự nghỉ hưu của Morris Chang được coi là mẫu số của việc kế thừa doanh nghiệp, ông rút lui vào đúng thời điểm, cho những người lãnh đạo mới có không gian đầy đủ phát huy, đồng thời cũng đảm bảo sự chuyển giao ổn định của doanh nghiệp.
+**Mô hình hoàn thành sứ mệnh:**
+Sự nghỉ hưu của Trương Trung Mô được coi là một mô hình về việc kế thừa doanh nghiệp; ông rút lui vào thời điểm thích hợp, tạo không gian đầy đủ cho thế hệ lãnh đạo mới thể hiện năng lực, đồng thời đảm bảo sự chuyển giao ổn định của doanh nghiệp.
 
-## Tác động đối với ngành công nghiệp bán dẫn toàn cầu
+## Ảnh hưởng đến ngành bán dẫn toàn cầu
 
 ### Đổi mới mô hình kinh doanh
 
-**Phổ biến của mô hình đúc khi chuyên nghiệp:**
-Mô hình đúc khi chuyên nghiệp được Morris Chang tạo ra đã trở thành một trong những mô hình kinh doanh tiêu chuẩn của ngành công nghiệp bán dẫn. Toàn cầu có hàng trăm công ty bán dẫn không có nhà máy dựa vào dịch vụ của các nhà máy đúc khi, mô hình này đã thúc đẩy đáng kể sự phát triển ngành công nghiệp.
+**Sự phổ biến của sản xuất theo hợp đồng:**
+Mô hình sản xuất chuyên biệt do Trương Trung Mô tạo ra đã trở thành một trong những mô hình kinh doanh tiêu chuẩn của ngành bán dẫn. Hàng trăm công ty bán dẫn không có nhà máy trên toàn thế giới phụ thuộc vào dịch vụ của các nhà sản xuất theo hợp đồng; mô hình này đã thúc đẩy sự phát triển của ngành rất lớn.
 
-**Định hình lại hệ sinh thái ngành công nghiệp:**
-Mô hình đúc khi chuyên nghiệp đã định hình lại hệ sinh thái ngành công nghiệp bán dẫn, thúc đẩy chuyên môn hóa, nâng cao hiệu suất ngành, cũng hạ thấp rào cản đối với đổi mới, cho phép nhiều công ty tham gia vào thiết kế chip.
+**Tái cấu trúc hệ sinh thái công nghiệp:**
+Sản xuất chuyên biệt đã tái định hình hệ sinh thái ngành bán dẫn, thúc đẩy phân công lao động chuyên môn hóa, nâng cao hiệu quả ngành và giảm rào cản đổi mới, cho phép nhiều công ty tham gia vào thiết kế chip.
 
 **Xây dựng chuỗi cung ứng toàn cầu:**
-TSMC trở thành nút then chốt của chuỗi cung ứng bán dẫn toàn cầu, cung cấp dịch vụ sản xuất cho các công ty công nghệ khắp thế giới, xây dựng chuỗi cung ứng ngành công nghiệp bán dẫn thực sự toàn cầu.
+TSMC trở thành một nút giao quan trọng trong chuỗi cung ứng bán dẫn toàn cầu, cung cấp dịch vụ sản xuất cho các công ty công nghệ trên toàn thế giới, tạo ra một chuỗi cung ứng ngành bán dẫn thực sự mang tính toàn cầu.
 
 ### Thúc đẩy tiến bộ công nghệ
 
-**Dẫn đầu công nghệ qui trình:**
-Dưới sự lãnh đạo của Morris Chang, TSMC duy trì vị trí dẫn đầu toàn cầu về công nghệ qui trình, thúc đẩy tiến bộ kỹ thuật của toàn bộ ngành công nghiệp bán dẫn, kéo dài sự sống của Quy luật Moore.
+**Dẫn đầu về công nghệ quy trình:**
+Dưới sự lãnh đạo của Trương Trung Mô, TSMC duy trì vị thế dẫn đầu toàn cầu về công nghệ quy trình, thúc đẩy sự tiến bộ kỹ thuật của toàn ngành bán dẫn và tiếp nối sức sống của Định luật Moore.
 
-**Dân chủ hóa qui trình tiên tiến:**
-Dịch vụ qui trình tiên tiến của TSMC cho phép các công ty thiết kế quy mô nhỏ cũng có thể sử dụng công nghệ mới nhất, thực hiện "dân chủ hóa" của qui trình tiên tiến—một công ty khởi nghiệp vài chục người cũng có thể khiến TSMC sản xuất hàng loạt chip 7 nanomet.
+**Dân chủ hóa quy trình tiên tiến:**
+Dịch vụ quy trình tiên tiến của TSMC cho phép các công ty thiết kế nhỏ hơn cũng có thể sử dụng công nghệ mới nhất; điều này đã hiện thực hóa sự "dân chủ hóa" quy trình tiên tiến—một startup Fabless với vài chục người cũng có thể nhờ TSMC sản xuất hàng loạt chip 7 nanomet.
 
-**Khai phá những lĩnh vực công nghệ mới:**
-Khả năng sản xuất của TSMC bao gồm chip kỹ thuật số, bộ tăng tốc trí tuệ nhân tạo, bán dẫn cho ô tô và những lĩnh vực ứng dụng khác nhau, cung cấp nền tảng sản xuất cho các công nghệ mới nổi.
+**Mở rộng lĩnh vực công nghệ mới:**
+Năng lực sản xuất của TSMC bao gồm các ứng dụng khác nhau như chip kỹ thuật số, bộ tăng tốc AI và bán dẫn ô tô, cung cấp nền tảng sản xuất cho nhiều công nghệ mới nổi.
 
-## Ý nghĩa Đài Loan: Người đặt nền tảng cho đảo công nghệ
+## Ý nghĩa đối với Đài Loan: Người khai phá hòn đảo công nghệ
 
-### Phát triển ngành công nghệ
+### Phát triển ngành công nghiệp công nghệ cao
 
-**Xây dựng ngọn núi bảo vệ:**
-TSMC được gọi là "ngọn núi bảo vệ" của Đài Loan, không chỉ vì giá trị kinh tế khổng lồ mà còn vì vị trí then chốt của nó trong chuỗi cung ứng công nghệ toàn cầu. Morris Chang đã xây dựng cho Đài Loan một chiếc bài cấp chiến lược khó thay thế nhất ngoài quốc phòng.
+**Sự ra đời của "Núi thần bảo hộ":**
+TSMC được mệnh danh là "Núi thần bảo hộ" của Đài Loan, không chỉ vì giá trị kinh tế khổng lồ mà còn vì vị thế then chốt của nó trong chuỗi cung ứng công nghệ toàn cầu. Trương Trung Mô đã tạo ra một đòn bẩy chiến lược gần như không thể thay thế ngoài lĩnh vực quốc phòng cho Đài Loan.
 
-**Phát triển nhân tài công nghệ:**
-Sự phát triển của TSMC đã đào tạo được rất nhiều nhân tài bán dẫn chuyên nghiệp, những nhân tài này không chỉ hỗ trợ sự phát triển của TSMC, mà còn cung cấp nền tảng nhân tài cho toàn bộ ngành công nghệ Đài Loan.
+**Bồi dưỡng nhân tài công nghệ cao:**
+Sự phát triển của TSMC đã đào tạo ra số lượng lớn nhân tài chuyên môn bán dẫn; những nhân tài này không chỉ hỗ trợ sự phát triển của TSMC mà còn cung cấp nền tảng nhân lực cho toàn bộ ngành công nghệ Đài Loan.
 
 **Hình thành cụm công nghiệp:**
-Với TSMC làm trung tâm, Đài Loan đã hình thành một cụm công nghiệp bán dẫn bao gồm các nhà cung cấp thiết bị, nhà cung cấp vật liệu, các nhà máy đóng gói và kiểm tra, tạo ra giá trị công nghiệp khổng lồ.
+Lấy TSMC làm trung tâm, Đài Loan đã hình thành một cụm công nghiệp bán dẫn bao gồm các nhà cung cấp thiết bị, nhà cung cấp vật liệu và các xưởng đóng gói/kiểm tra, tạo ra giá trị công nghiệp to lớn.
 
-### Đóng góp phát triển kinh tế
+### Đóng góp vào phát triển kinh tế
 
 **Đóng góp quan trọng vào GDP:**
-TSMC đã trở thành doanh nghiệp lớn nhất của Đài Loan, đóng góp vô cùng quan trọng vào GDP của Đài Loan. Sự thành công của công ty cũng thúc đẩy sự phát triển của các ngành liên quan, tạo ra rất nhiều cơ hội việc làm.
+TSMC đã trở thành doanh nghiệp lớn nhất Đài Loan và có đóng góp rất quan trọng vào GDP của quốc đảo này. Sự thành công của công ty cũng thúc đẩy sự phát triển của các ngành liên quan, tạo ra số lượng lớn việc làm.
 
-**Trụ cột xuất khẩu thương mại:**
-Bán dẫn chiếm khoảng một phần ba tổng giá trị xuất khẩu Đài Loan, sự thành công của TSMC đã nâng cao đáng kể vị trí của Đài Loan trong thương mại toàn cầu, cũng tăng cường sức cạnh tranh của nền kinh tế Đài Loan.[^5]
+**Trụ cột xuất khẩu:**
+Bán dẫn chiếm khoảng một phần ba tổng kim ngạch xuất khẩu của Đài Loan; thành công của TSMC đã nâng cao đáng kể vị thế của Đài Loan trong thương mại toàn cầu và tăng cường năng lực cạnh tranh kinh tế của quốc đảo này[^17].
 
 **Cải thiện môi trường đầu tư:**
-Trường hợp thành công của TSMC đã thu hút nhiều đầu tư nước ngoài hơn, cải thiện môi trường đầu tư của Đài Loan, cũng nâng cao vị trí của Đài Loan trong lòng những nhà đầu tư toàn cầu.
+Trường hợp thành công của TSMC đã thu hút nhiều nhà đầu tư quốc tế hơn, cải thiện môi trường đầu tư của Đài Loan và nâng cao vị thế của Đài Loan trong mắt các nhà đầu tư toàn cầu.
 
-### Tác động địa chính trị
+### Ảnh hưởng địa chính trị
 
 **Tầm quan trọng của chủ quyền công nghệ:**
-Trong bối cảnh địa chính trị hiện tại, công nghệ bán dẫn trở thành chiếc bài tranh giành lõi của các cường quốc lớn. TSMC nắm giữ qui trình tiên tiến nhất toàn cầu, khiến Đài Loan sở hữu vị trí chiến lược khó thay thế trong xã hội quốc tế.
+Trong bối cảnh địa chính trị hiện tại, công nghệ bán dẫn là một đòn bẩy cốt lõi mà các cường quốc tranh giành. TSMC nắm giữ quy trình tiên tiến nhất thế giới, mang lại cho Đài Loan một vị thế chiến lược khó thay thế trên trường quốc tế.
 
-**Bài đánh trong quan hệ quốc tế:**
-Vị trí then chốt của TSMC trong chuỗi cung ứng công nghệ toàn cầu cho Đài Loan quyền nói lên lớn lao trong những vấn đề bán dẫn mà cả các cường quốc đều phải chú trọng. Mỹ, Liên minh Châu Âu, Nhật Bản lần lượt dùng trợ cấp để mời TSMC xây dựng nhà máy, minh chứng cho tầm quan trọng thực sự của vị trí này.
+**Đòn bẩy trong quan hệ quốc tế:**
+Vị trí then chốt của TSMC trong chuỗi cung ứng công nghệ toàn cầu giúp Đài Loan có tiếng nói mà các cường quốc buộc phải chú ý về vấn đề bán dẫn. Mỹ, EU, Nhật Bản lần lượt đưa ra các gói trợ cấp để mời TSMC xây dựng nhà máy, cho thấy tầm quan trọng thực sự của vị thế này.
 
-**Xem xét trong chiến lược an toàn:**
-Sự chú trọng của các nước đối với công nghệ bán dẫn cũng khiến Đài Loan phải đối mặt với những thách thức và cơ hội an toàn mới. Cách cân bằng lợi ích các bên, duy trì lợi thế cạnh tranh của TSMC, là một trong những vấn đề cốt lõi của chính sách ngoại giao và an toàn của Đài Loan.
+**Cân nhắc chiến lược an ninh:**
+Sự coi trọng công nghệ bán dẫn của các quốc gia cũng khiến Đài Loan đối mặt với những thách thức và cơ hội an ninh mới. Làm thế nào để cân bằng lợi ích của các bên và duy trì ưu thế cạnh tranh của TSMC là một trong những vấn đề cốt lõi trong chính sách ngoại giao và an ninh của Đài Loan.
 
-## Đặc điểm cá nhân và Phong cách lãnh đạo
+## Đặc điểm cá nhân và phong cách lãnh đạo
 
-### Sự kết hợp của tầm nhìn xa và khả năng thực thi
+### Sự kết hợp giữa tầm nhìn và năng lực thực thi
 
-**Tầm nhìn chiến lược vượt trội:**
-Đặc điểm lớn nhất của Morris Chang là tầm nhìn chiến lược vượt trội. Ông có thể nhìn thấu xu hướng ngành, dự báo hướng phát triển trong tương lai, tầm nhìn xa vời này là yếu tố then chốt cho sự thành công của TSMC.
+**Tầm nhìn chiến lược xuất sắc:**
+Đặc điểm lớn nhất của Trương Trung Mô là tầm nhìn chiến lược vượt trội. Ông có khả năng thấu thị xu hướng ngành, dự đoán hướng phát triển tương lai; tầm nhìn này là yếu tố then chốt cho sự thành công của TSMC.
 
-**Khả năng thực thi thực tế:**
-Ngoài tầm nhìn xa, Morris Chang cũng sở hữu khả năng thực thi xuất sắc. Ông có thể chuyển hoá ý tưởng chiến lược thành kế hoạch hành động cụ thể, theo dõi từng chi tiết thực thi, khả năng này kết hợp tư duy chiến lược và thực thi là hiếm gặp trong thế giới kinh doanh.
+**Năng lực thực thi thực tế:**
+Ngoài tầm nhìn, Trương Trung Mô còn sở hữu năng lực thực thi xuất sắc. Ông có thể chuyển đổi ý tưởng chiến lược thành kế hoạch hành động cụ thể và theo dõi từng chi tiết thực hiện; khả năng kết hợp tư duy chiến lược và năng lực thực thi này là vô cùng hiếm trong giới doanh nghiệp.
 
 **Thái độ học tập suốt đời:**
-Ngay cả ở tuổi cao, Morris Chang vẫn duy trì thói quen đọc sách rộng, chú ý đến sự phát triển ngành. Ông từng công khai nói rằng ông vẫn đang học tập văn học, triết học, thái độ này khiến tư duy của ông vẫn sắc bén ngay khi lớn tuổi.
+Ngay cả khi về già, Trương Trung Mô vẫn giữ thói quen đọc sách rộng và quan tâm đến sự phát triển của ngành. Ông duy trì thói quen đọc hai cuốn sách tiếng Anh mỗi tháng, chưa bao giờ ngừng đọc tạp chí _New York_ trong bảy mươi năm; ông tự nhận rằng những cuốn sách đó "không phải văn học". Thái độ này giúp tư duy của ông vẫn sắc bén khi về già.
 
 ### Đặc điểm phong cách lãnh đạo
 
-**Lãnh đạo quyến rũ:**
-Morris Chang sở hữu sức hút cá nhân mạnh mẽ và khả năng thuyết phục, có thể truyền cảm hứng cho đội ngũ nỗ lực vì mục tiêu chung. Những bài diễn thuyết và bài viết của ông luôn có thể diễn giải rõ ràng các khái niệm phức tạp, được tôn trọng sâu sắc bởi nhân viên và chuyên gia ngành.
+**Lãnh đạo lôi cuốn:**
+Trương Trung Mô có sức hút cá nhân và khả năng thuyết phục mạnh mẽ, có thể truyền cảm hứng cho đội ngũ nỗ lực vì mục tiêu chung. Các bài nói chuyện và bài viết của ông luôn diễn đạt rõ ràng các khái niệm phức tạp, được sự kính trọng của nhân viên và giới công nghiệp.
 
-**Kiên trì quyết định lý tính:**
-Khi đối mặt với những quyết định lớn, Morris Chang luôn kiên trì sử dụng phân tích lý tính, đưa ra quyết định dựa trên sự kiện và dữ liệu, tránh bị cảm xúc hoặc xem xét chính trị ảnh hưởng đến sự chính xác của quyết định.
+**Kiên định ra quyết định lý trí:**
+Khi đối mặt với các quyết định lớn, Trương Trung Mô luôn kiên trì phân tích một cách lý trí, đưa ra phán đoán dựa trên sự thật và dữ liệu, tránh để cảm tính hoặc cân nhắc chính trị ảnh hưởng đến tính chính xác của quyết định.
 
 **Thực hành tư duy dài hạn:**
-Morris Chang luôn kiên trì tư duy dài hạn, không bị ảnh hưởng bởi những khó khăn hoặc lợi ích ngắn hạn. Năm 2008 khi cuộc khủng hoảng tài chính ở mức sâu nhất, ông vẫn phê duyệt ngân sách nghiên cứu và phát triển qui trình tiên tiến, chính tầm nhìn dài hạn này đã khiến TSMC lại mở rộng khoảng cách với đối thủ sau khủng hoảng.
+Trương Trung Mô luôn kiên trì với tầm nhìn dài hạn, không bị ảnh hưởng bởi khó khăn hay lợi ích ngắn hạn. Ngay cả trong thời kỳ khủng hoảng tài chính năm 2008 tồi tệ nhất, ông vẫn phê duyệt ngân sách R&D cho quy trình tiên tiến; chính góc nhìn dài hạn này đã giúp TSMC tạo ra khoảng cách với đối thủ sau khủng hoảng.
 
-## Danh dự và sự công nhận
+## Vinh dự và sự công nhận
 
-### Giải thưởng quốc tế và sự công nhận
+### Giải thưởng quốc tế
 
 **Huy chương danh dự IEEE:**
-Morris Chang đã nhận được nhiều huy chương danh dự từ Học viện Kỹ sư Điện tử Điện (IEEE), đây là sự công nhận quan trọng đối với đóng góp của ông trong sự phát triển công nghệ bán dẫn.
+Trương Trung Mô đã nhận được nhiều huy chương danh dự từ Hiệp hội Kỹ sư Điện và Điện tử (IEEE), đây là sự công nhận quan trọng cho những đóng góp của ông vào sự phát triển công nghệ bán dẫn.
 
-**Tiến sĩ danh dự từ nhiều đại học:**
-Bao gồm Đại học Stanford, MIT, Đại học Tsinghua và nhiều đại học nổi tiếng khác đã trao bằng Tiến sĩ danh dự cho Morris Chang, tôn vinh đóng góp của ông đối với công nghệ công nghiệp và giáo dục.
+**Bằng tiến sĩ danh dự từ các quốc gia:**
+Các trường đại học như Đại học Tsinghua, Đại học giao thông và Đài Loan đã trao bằng Tiến sĩ danh dự cho Trương Trung Mô để ghi nhận những đóng góp của ông trong ngành công nghiệp công nghệ cao và giáo dục.
 
-**Lựa chọn từ các tạp chí kinh doanh:**
-Morris Chang đã nhiều lần được các tạp chí kinh doanh quốc tế như Fortune, Business Week liệt kê là một trong những nhà lãnh đạo công nghệ hàng đầu thời đại, khẳng định vị trí của ông trong thế giới kinh doanh toàn cầu.
+**Đánh giá của các tạp chí kinh doanh:**
+Trương Trung Mô nhiều lần được các tạp chí kinh doanh quốc tế như _Fortune_ và _Business Weekly_ liệt kê là nhà lãnh đạo hàng đầu trong ngành công nghệ đương đại, khẳng định vị thế của ông trong giới kinh doanh toàn cầu.
 
-### Sự tôn vinh tại Đài Loan
+### Sự biểu dương từ Đài Loan
 
-**Trao tặng huy chương chính phủ:**
-Chính phủ Đài Loan đã trao tặng Morris Chang nhiều huy chương quan trọng, tôn vinh đóng góp xuất sắc của ông đối với sự phát triển kinh tế và tiến bộ công nghệ của Đài Loan.
+**Trao giải thưởng của chính phủ:**
+Chính phủ Đài Loan đã trao cho Trương Trung Mô nhiều huy chương quan trọng để ghi nhận những đóng góp xuất sắc của ông vào sự phát triển kinh tế và tiến bộ công nghệ của quốc đảo này.
 
-**Tôn kính từ giới công nghiệp:**
-Morris Chang được ngành công nghiệp Đài Loan tôn kính là "cha đẻ của ngành bán dẫn", kinh nghiệm và trí tuệ của ông trở thành mẫu số để những nhà doanh nhân thế hệ sau học hỏi.
+**Sự tôn kính của giới công nghiệp:**
+Trương Trung Mô được giới công nghiệp Đài Loan tôn vinh là "Cha đẻ ngành bán dẫn"; kinh nghiệm và trí tuệ của ông trở thành hình mẫu để các doanh nhân trẻ học tập.
 
-**Công nhận tác động xã hội:**
-Ngoài thành tựu kinh doanh, tác động xã hội của Morris Chang cũng được công nhận rộng rãi, đóng góp của ông đối với sự phát triển xã hội Đài Loan được đánh giá cao từ các bên.
+**Sự công nhận về ảnh hưởng xã hội:**
+Ngoài thành tựu kinh doanh, tầm ảnh hưởng xã hội của Trương Trung Mô cũng được công nhận rộng rãi; những đóng góp của ông cho sự phát triển xã hội Đài Loan đã được mọi giới đánh giá cao.
 
-## Suy tư triết học và Trí tuệ cuộc sống
+## Suy ngẫm triết học và trí tuệ cuộc đời
 
-### Hiểu biết về thành công
+### Quan niệm về thành công
 
-**Sự kết hợp giữa thực lực và cơ hội:**
-Morris Chang tin rằng thành công cần sự kết hợp của thực lực và cơ hội, thực lực là nền tảng, nhưng cũng cần nắm bắt thời cơ. Ông nhấn mạnh tầm quan trọng của chuẩn bị, cơ hội luôn dành cho những người có chuẩn bị.
+**Sự kết hợp giữa năng lực và cơ hội:**
+Trương Trung Mô tin rằng thành công cần có sự kết hợp giữa năng lực và cơ hội; năng lực là nền tảng, nhưng cũng cần nắm bắt thời cơ. Ông nhấn mạnh tầm quan trọng của sự chuẩn bị: cơ hội luôn dành cho người đã sẵn sàng.
 
 **Giá trị của sự kiên trì dài hạn:**
-Ông nhấn mạnh tầm quan trọng của sự kiên trì dài hạn, tin rằng thành công thực sự cần thời gian tích lũy, không thể vội vàng. Sự thành công của TSMC chính là kết quả của sự kiên trì dài hạn.
+Ông nhấn mạnh tầm quan trọng của sự bền bỉ, tin rằng thành công thực sự cần có sự tích lũy theo thời gian và không thể vội vàng. Thành công của TSMC chính là kết quả của sự kiên trì lâu dài.
 
 **Sự cần thiết của đổi mới:**
-Morris Chang tin rằng trong ngành công nghệ, đổi mới là điều kiện cần thiết để tồn tại. Lịch sử TSMC chứng minh rằng: chỉ cần dừng lại trong sự đột phá qui trình, đối thủ cạnh tranh sẽ lấp đầy chỗ trống.
+Trương Trung Mô cho rằng trong ngành công nghệ, đổi mới là điều kiện tiên quyết để tồn tại. Lịch sử của TSMC đã chứng minh: chỉ cần ngừng đột phá về quy trình, đối thủ sẽ lấp đầy khoảng trống đó.
 
-### Cảm nhận về cuộc sống
+### Suy ngẫm về cuộc đời
 
 **Cân bằng giữa công việc và cuộc sống:**
-Mặc dù sự nghiệp vô cùng thành công, Morris Chang cũng nhấn mạnh tầm quan trọng của cân bằng giữa công việc và cuộc sống. Ông yêu thích đọc sách, nghe nhạc, những sở thích này cung cấp nuôi dưỡng tinh thần cho ông.
+Mặc dù sự nghiệp vô cùng thành công, Trương Trung Mô cũng nhấn mạnh tầm quan trọng của sự cân bằng giữa công việc và cuộc sống. Ông thích đọc sách, nghe nhạc; những sở thích này đã mang lại cho ông sự nuôi dưỡng tinh thần.
 
-**Gánh vác trách nhiệm xã hội:**
-Morris Chang tin rằng những nhà doanh nhân thành công có trách nhiệm trả lại cho xã hội, ông đã quyên góp cho Đại học Tsinghua và các cơ quan học thuật khác, cũng tham gia thảo luận về chính sách giáo dục, đề xuất những gợi ý cụ thể đối với cải cách giáo dục đại học Đài Loan.[^4]
+**Trách nhiệm xã hội:**
+Trương Trung Mô tin rằng một doanh nhân thành công có trách nhiệm đóng góp cho xã hội. Ông đã dẫn dắt TSMC quyên góp cho các cơ sở học thuật như Đại học Tsinghua, và cũng tham gia thảo luận về chính sách giáo dục, đưa ra những đề xuất cụ thể về cải cách giáo dục đại học Đài Loan[^18].
 
-**Tầm quan trọng của sự truyền thừa:**
-Ông rất chú trọng đến sự truyền thừa kiến thức và kinh nghiệm, không chỉ đào tạo kế thừa trong doanh nghiệp, mà còn chia sẻ kinh nghiệm và trí tuệ của mình qua những con đường khác nhau.
+**Tầm quan trọng của sự kế thừa:**
+Ông rất coi trọng việc truyền thụ kiến thức và kinh nghiệm; không chỉ đào tạo người kế nhiệm trong nội bộ doanh nghiệp mà còn chia sẻ kinh nghiệm và trí tuệ của mình qua nhiều con đường.
 
 ## Đánh giá lịch sử
 
-Khi Morris Chang nghỉ hưu năm 2018, giá trị thị trường của TSMC vượt quá Intel, trở thành doanh nghiệp bán dẫn có giá trị cao nhất toàn cầu.[^5] Ông đã dùng 31 năm để kiểm chứng một mệnh đề phản trực giác: một nhà máy đúc khi không thiết kế chip của riêng mình, có thể trở thành nền tảng sản xuất của toàn bộ thời đại kỹ thuật số.
+Khi Trương Trung Mô nghỉ hưu vào năm 2018, giá trị thị trường của TSMC đã vượt qua Intel, trở thành công ty bán dẫn có giá trị nhất thế giới[^19]. Trong 31 năm, ông đã chứng minh một mệnh đề phản trực giác: một nhà sản xuất theo hợp đồng không tự thiết kế chip lại có thể trở thành nền tảng sản xuất cho toàn bộ kỷ nguyên kỹ thuật số.
 
-Từ Chiết Giang Ninh Bộ tới Harvard, MIT, rồi từ quản lý cao cấp của Texas Instruments đến 54 tuổi từ bỏ cuộc sống thoải mái ở Mỹ để quay lại Đài Loan, mỗi bước ngoặt của ông đều không phải lựa chọn chính thống, nhưng kết quả lại chỉ hướng tới cùng một hướng. Vị trí của TSMC ngày hôm nay, vừa là kết quả của cạnh tranh công nghệ bán dẫn, cũng là kết quả của quyết định chấp nhận rủi ro vào mô hình kinh doanh ít ai tin tưởng vào năm 1987 của ông.
+Từ Ninh Ba, Chiết Giang đến Harvard, MIT, rồi từ giám đốc cấp cao của Texas Instruments đến việc từ bỏ cuộc sống an nhàn ở Mỹ năm 54 tuổi để về Đài Loan—mỗi sự chuyển hướng của ông đều không phải là lựa chọn chính thống, nhưng kết quả đều dẫn đến cùng một hướng. Vị thế ngày nay của TSMC vừa là kết quả của sự cạnh tranh công nghệ bán dẫn, vừa là kết quả của việc đặt cược vào mô hình kinh doanh mà ít người tin vào năm 1987.
 
-Năm 2024 giá trị thị trường của TSMC vượt quá mười tỷ Đài tệ, trở thành một trong những doanh nghiệp công nghệ có giá trị thị trường cao nhất Á Châu, đây là quy mô mà ông khó có thể hình dung được khi chấp nhận quyết định năm 1987, cũng là dòng chữ rõ ràng nhất trong cuộc đời ông.
+Giá trị thị trường của TSMC lần đầu tiên vượt mười nghìn tỷ Đài tệ vào tháng 7 năm 2020 và vượt hai mươi nghìn tỷ vào tháng 3 năm 2024[^20], đây là quy mô không thể tưởng tượng được khi ông đặt cược vào năm 1987, và cũng là dấu ấn rõ ràng nhất trong cuộc đời ông.
 
 ## Đọc thêm
 
-- [Doanh nghiệp Đài Loan: TSMC](/economy/台灣企業：台積電) — Công ty ông thành lập năm 1987 với mô hình đúc khi, giá trị thị trường hiện nay phá sáu chục tỷ, chính là "ngọn núi bảo vệ" được biết đến rộng rãi nhất, chính nó là tóm tắt đầy đủ nhất về Morris Chang
-- [施振榮](/people/施振榮) — Nhà sáng lập Acer mà ông mời làm thành viên Hội đồng quản trị TSMC trong hai mươi mốt năm, cũng là tác giả "Đường cong nụ cười"; mô hình "sản xuất ở giữa" của TSMC chính là phần được đánh giá thấp nhất nhưng lại giá trị nhất trên đường cong đó
-- [郭台銘](/people/郭台銘) — Một nhà doanh nhân Đài Loan khác nhờ "đúc khi" mà thay đổi thế giới, dịch vụ đúc khi lắp ráp của Foxconn và dịch vụ đúc khi wafer của TSMC là hai con đường để sản xuất Đài Loan hướng tới toàn cầu
-- [Ngành công nghiệp bán dẫn](/technology/半導體產業) — Từ chuyển giao công nghệ RCA năm 1976 đến "ngọn núi bảo vệ", Morris Chang đã tự tay đưa Đài Loan vào toàn bộ chiến trường ngành công nghiệp này
-- [黃崇仁](/people/黃崇仁) — Người chạy tới tìm Morris Chang vào cuối thập niên 1990 khi Lực Tinh (PSMC) sắp bị Liên Điện sáp nhập, đi theo một con đường bán dẫn khác của Đài Loan có vách núi
-- [Chuyển đổi và nâng cấp ngành công nghiệp Đài Loan](/economy/台灣產業轉型升級) — TSMC là trường hợp cụ thể nhất cho sự chuyển đổi từ "đảo đúc khi" sang "đảo công nghệ", cũng là tọa độ lõi của cuộc chuyển đổi bốn mươi năm này
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — "Núi thần bảo hộ" mà ông sáng lập bằng mô hình sản xuất theo hợp đồng vào năm 1987 và có giá trị thị trường hơn sáu mươi nghìn tỷ ngày nay, chính là dấu ấn trọn vẹn nhất của Trương Trung Mô.
+- [Thâu Chấn Vinh](/vi/people/stan-shih) — Ông đã mời người sáng lập Foxconn (Acer), người làm việc tại TSMC hai mươi mốt năm, và cũng là tác giả của "Đường cong nụ cười"; còn phần "sản xuất trung gian" mà TSMC thực hiện chính là đoạn đường cong bị chê bai nhưng lại có giá trị nhất.
+- [Quách Đài Minh](/vi/people/terry-gou) — Một doanh nhân Đài Loan khác đã thay đổi thế giới bằng "sản xuất theo hợp đồng"; dịch vụ sản xuất lắp ráp của Foxconn và sản xuất wafer của TSMC là hai con đường để ngành sản xuất Đài Loan vươn ra toàn cầu.
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ sự chuyển giao công nghệ RCA năm 1976 đến "Núi thần bảo hộ", Trương Trung Mô đã đưa toàn bộ chiến trường ngành này vào Đài Loan.
+- [Hoàng Sùng Nhân](/vi/people/frank-huang-psmc) — Người đã tìm đến Trương Trung Mô khi gần bị United Microelectronics Corporation (UMC) thôn tính vào cuối những năm 1990; người đó đi trên con đường khác của bán dẫn Đài Loan, một con đường đầy vực thẳm.
+- [Nâng cấp chuyển đổi công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC là trường hợp cụ thể nhất cho thấy Đài Loan đã từ "hòn đảo sản xuất theo hợp đồng" trở thành "hòn đảo công nghệ", và cũng là tọa độ cốt lõi của sự chuyển đổi bốn thập kỷ này.
 
 ---
 
-[^1]: Sun Yun-xuan (1913–2006), từng làm Tổng giám đốc Công ty Điện lực Tỉnh Đài Loan, Bộ trưởng Kinh tế, Thủ tướng (1978–1984), lâu nay thúc đẩy phát triển ngành bán dẫn và công nghệ, được coi là nhân vật then chốt thúc đẩy sự phát triển ngành công nghệ cao của Đài Loan. Xem: Wikipedia "Sun Yun-xuan" <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+## Tài liệu tham khảo
 
-[^2]: Thời gian thành lập và vốn khởi động của TSMC. Xem: Báo cáo năm 1987 của TSMC. TSMC. <https://investor.tsmc.com/english/annual-reports>
+[^1]: Trương Trung Mô sinh ngày 10 tháng 7 năm 1931 tại Ninh Ba, Chiết Giang, Trung Quốc. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^3]: Morris Chang lấy bằng Tiến sĩ Kỹ thuật Điện từ Đại học Stanford năm 1964. Xem: Tự truyện Morris Chang (tập dưới), Farview Publications, 2019. <https://www.books.com.tw/products/0011005569>
+[^2]: Năm 1949 vào Đại học Harvard theo học Văn học, một năm sau chuyển sang MIT Kỹ thuật Cơ khí. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^4]: Giá trị thị trường của TSMC năm 2018 đã vượt quá Intel, trở thành một trong những doanh nghiệp bán dẫn có giá trị thị trường cao nhất toàn cầu. Xem: Mục từ Wikipedia "Công ty Sản xuất Linh kiện Tích hợp Đài Loan" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+[^3]: Nhận bằng Cử nhân Kỹ thuật Cơ khí từ MIT vào năm 1952. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^5]: Morris Chang chính thức nghỉ hưu ngày 5 tháng 6 năm 2018, kết thúc 31 năm sự nghiệp tại TSMC. Xem: Mục từ Wikipedia "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+[^4]: Làm việc tại Sylvania (Sylvania) trong ba năm, bắt đầu từ năm 1955, liên quan đến sản xuất bán dẫn. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^5]: Gia nhập Texas Instruments (TI) vào năm 1958 với vai trò kỹ sư bán dẫn. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^6]: Nhận bằng Tiến sĩ Kỹ thuật Điện từ Đại học Stanford vào năm 1964. Xem: Mục "Morris Chang" trên Wikipedia tiếng Anh <https://en.wikipedia.org/wiki/Morris_Chang>.
+
+[^7]: Năm 1972 được thăng chức Phó Tổng giám đốc tập đoàn Texas Instruments kiêm Tổng giám đốc bộ phận bán dẫn. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^8]: Tôn Vận Tuần (1913–2006), từng là Hành chính viện trưởng (1978–1984), người đã thúc đẩy mạnh mẽ ngành bán dẫn và công nghệ. Xem: Mục "Tôn Vận Tuần" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>.
+
+[^9]: TSMC thành lập ngày 21 tháng 2 năm 1987; vốn đầu tư bao gồm 70 triệu USD của chính phủ (48.3%), 40 triệu USD của Philips (27.5%) và 35 triệu USD từ tư nhân (24.2%). Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^10]: Các cổ đông ban đầu của TSMC bao gồm công ty Philips Hà Lan. Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^11]: Năm 1987, Trương Trung Mô đưa ra mô hình kinh doanh sản xuất thuần túy "sản xuất chuyên biệt". Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^12]: TSMC bắt đầu sản xuất theo hợp đồng cho các bộ xử lý di động như dòng A của Apple từ những năm 2010, và trở thành nhà cung cấp chip cốt lõi chính cho iPhone sau năm 2013. Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^13]: TSMC nhiều năm dành khoảng 8% doanh thu cho R&D (tỷ lệ có dao động nhẹ theo báo cáo thường niên). Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^14]: Năm 2005, Trương Trung Mô từ chức Giám đốc điều hành và nhường lại cho Thái Lực Hành. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^15]: Năm 2009, Trương Trung Mô, lúc 78 tuổi, trở lại làm Giám đốc điều hành của TSMC do khủng hoảng tài chính toàn cầu. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^16]: Ngày 5 tháng 6 năm 2018, Trương Trung Mô chính thức nghỉ hưu; Lưu Đức Ân làm Chủ tịch và Ngụy Triết Gia làm Giám đốc điều hành. Xem: Mục "Trương Trung Mô" trên Wikipedia <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^17]: [Kinh tế Đài Loan — Wikipedia tiếng Việt](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — Bán dẫn chiếm khoảng một phần ba tổng kim ngạch xuất khẩu của Đài Loan trong nhiều năm.
+
+[^18]: [Sự kiện học thuật: "Viện quản lý công nghệ - TSMC Hall" hoàn thành tại Đại học Tsinghua Quốc lập](https://www.nthu.edu.tw/hotNews/content/708) — TSMC đã quyên góp 180 triệu Nhân dân tệ để xây dựng "TSMC Hall" của Khoa Quản lý Công nghệ tại Đại học Tsinghua, khánh thành tháng 4 năm 2008; đơn vị đóng góp là TSMC, không phải cá nhân Trương Trung Mô.
+
+[^19]: Khi Trương Trung Mô nghỉ hưu vào năm 2018, giá trị thị trường của TSMC đã vượt qua Intel. Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^20]: Giá trị thị trường của TSMC lần đầu tiên vượt mười nghìn tỷ Nhân dân tệ vào ngày 21 tháng 7 năm 2020 và vượt hai mươi nghìn tỷ vào ngày 8 tháng 3 năm 2024. Xem: Mục "Sản xuất Mạch tích hợp Đài Loan" trên Wikipedia <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
 
 _Tài liệu tham khảo:_
 
-- [Tự truyện Morris Chang (tập trên + tập dưới)](https://www.books.com.tw/products/0010784799)
-- [Báo cáo năm hàng năm và tài liệu chính thức của TSMC](https://investor.tsmc.com/english/annual-reports)
-- [Viện Nghiên cứu Công nghệ Công nghiệp (ITRI)](https://www.itri.org.tw/)
-- [Mục từ Wikipedia "Morris Chang"](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
-- [Tài liệu liên quan Morris Chang của Đại học Quốc gia Thanh Hoa](https://www.nthu.edu.tw/)
+- [Tiểu sử Trương Trung Mô (Quyển trên + Quyển dưới)](https://www.books.com.tw/products/0010784799)
+- [Báo cáo thường niên và tài liệu chính thức của TSMC](https://investor.tsmc.com/english/annual-reports)
+- [Viện Nghiên cứu Công nghiệp (ITRI)](https://www.itri.org.tw/)
+- [Mục "Trương Trung Mô" trên Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
+- [Tài liệu liên quan đến Trương Trung Mô tại Đại học Tsinghua Quốc lập](https://www.nthu.edu.tw/)
