@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T03:49:09+08:00",
-    "zhCommitHead": "dad097320",
+    "lastUpdated": "2026-09-20T04:18:58+08:00",
+    "zhCommitHead": "d5a44d1f6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1029,
-        "stale": 63,
+        "fresh": 1030,
+        "stale": 62,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 106,
         "metadata_stale": 28,
-        "missing": 92,
+        "missing": 91,
         "orphan": 0
       },
       "ko": {
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 61,
+        "fresh": 1034,
+        "stale": 60,
         "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 977,
-        "stale": 66,
+        "fresh": 979,
+        "stale": 64,
         "metadata_stale": 64,
         "missing": 17,
         "orphan": 0
@@ -18328,7 +18328,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/yahoo-kimo-taiwan.md",
+          "translatedFrom": "Economy/Yahoo-kimo.md",
+          "sourceCommitSha": "77e6f2321",
+          "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
+          "sourceBodyHash": "sha256:854e7c117a8a7154",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/yahoo-kimo-taiwan.md",
@@ -39305,16 +39316,16 @@
         "fr": {
           "path": "fr/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-20T00:52:39+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -42495,16 +42506,16 @@
         "vi": {
           "path": "vi/Lifestyle/taiwan-garbage-truck-music.md",
           "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
-          "sourceCommitSha": "f99a9959c",
-          "sourceContentHash": "sha256:e97d739884de9be4",
-          "sourceBodyHash": "sha256:2afb135f1c4dd795",
-          "translatedAt": "2026-07-26T15:32:43+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "a6b4758f",
           "translationLastModified": "2026-07-26T18:00:18+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (19→0)"
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-garbage-truck-music.md",
@@ -46371,16 +46382,16 @@
         "en": {
           "path": "en/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T12:41:09+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-20T00:52:34+08:00",
           "translationLastCommit": "e9059f94",
           "translationLastModified": "2026-08-04T13:43:18+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-walking-green-man.md",
@@ -47837,8 +47848,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-09-20T00:52:44+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
+          "translationLastCommit": "d5a44d1f",
+          "translationLastModified": "2026-09-20T03:49:10+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -131851,7 +131862,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-18T14:53:17.830061+00:00",
+          "translatedAt": "2026-09-19T19:51:49.638431+00:00",
           "translationLastCommit": "ae24f71b",
           "translationLastModified": "2026-09-19T00:42:29+08:00",
           "inferred": false,
@@ -182458,16 +182469,16 @@
         "vi": {
           "path": "vi/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-07-25T03:42:36+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:623ca6c131e6b41f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T19:38:26.968663+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-furry-culture.md",
