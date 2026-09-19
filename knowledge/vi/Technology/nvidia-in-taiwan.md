@@ -25,10 +25,10 @@ researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
 relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'Technology/NVIDIA在台灣.md'
-sourceCommitSha: '67e5b3684'
-sourceContentHash: 'sha256:b56a9c2f52721e09'
-sourceBodyHash: 'sha256:4f355b3d3c9b0f43'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:b9e05b9a2ffc12db'
+sourceBodyHash: 'sha256:5412b8ae390af1fa'
+translatedAt: '2026-09-18T23:56:13.251136+00:00'
 ---
 
 # NVIDIA ở Đài Loan: Công ty đắt tiền nhất thế giới, không sản xuất một con chip nào
@@ -254,34 +254,35 @@ Nhưng điểm thú vị lại là chuyện khác. Thông tấn xã Trung Ương
 
 > 📝 **Ghi chú của nhà sưu tập**: Im lặng này, để lộ vị trí thực sự của quyền lực. Trung Quốc cần chip của NVIDIA, vì thế dù Jensen Huang nói câu chữ Bắc Kinh không thể chấp nhận nhất, phương tiện truyền thông Đại lục cũng chọn không báo, không phóng đại, sợ làm tổn thương quan hệ với vị "Giáo chủ AI" này. Một câu chuyện lưu truyền rộng——Trung Quốc cần Nvidia, nhưng Nvidia không cần Trung Quốc[^65]. Trong mối quan hệ này, ngay cả thị trường lớn kia ở bên kia eo biển, cũng bị một công ty Mỹ chuỗi cung ứng kẹp chặn cổ họng. Đây chính là vị thế kỳ lạ của hòn đảo Đài Loan: toàn thế giới, kể cả phía muốn thay đổi vị thế của nó, cũng rời khỏi không được chip sản xuất tại đây. Chỉ là "toàn thế giới rời khỏi bạn không được", và "vì thế bạn an toàn, bạn nói được tiếng nói", vẫn là hai chuyện khác nhau. Tác giả không phán xét chính trị cho Đài Loan, nhưng căng thẳng này riêng, xứng đáng mỗi độc giả tự cân lượng.
 
-## Rời khỏi nó, không bằng lấy được quyền nói
+## Không thể tách rời, không đồng nghĩa với việc quyết định
 
-Quay về bức tường 55 công ty logo.
+Quay trở lại bức tường logo của 55 công ty.
 
-Mỗi tên trên bức tường, đều là thật. Chúng là thân thể của cuộc cách mạng AI trên Trái Đất, không có chúng, NVIDIA năm nghìn tỷ đô la không thể giao một con chip nào. Tính không thể thay thế này, là sự thật kỹ thuật, không phải tu từ. Đài Loan hoàn toàn xứng đáng tự hào về điều này.
+Mỗi cái tên trên đó đều là thật. Chúng là thân xác của cuộc cách mạng AI trên Trái Đất; nếu không có chúng, NVIDIA trị giá năm tỷ đô la cũng không thể tạo ra nổi một con chip nào. Sự không thể thay thế này là sự thật kỹ thuật, chứ không phải lời hoa mỹ. Đài Loan lẽ ra nên tự hào về điều này.
 
-Nhưng qua hết, ánh sáng, ước tính, quyền quyết định, rơi vào tay người vẽ bức tường; 5% lợi nhuận gộp, nước điện bị kéo kiệt, giá nhà tăng cao tới mua không được, rủi ro chiến tranh áp trên hòn đảo, rơi trên các tên trên tường. Đài Loan nắm giữ công tắc toàn cầu mà ai không thể tắt, nhưng không vì thế nói được tiếng nói. Và quân bài này, vẫn có một thời hạn bảo quản ghi sát năm 2028.
+Nhưng nhìn lại chặng đường đã qua, ánh hào quang, định giá và quyền quyết định đều nằm trong tay những người tạo ra bức tường này; còn 5% lợi nhuận gộp, nguồn điện bị rút cạn, giá nhà đất đẩy lên mức không thể mua nổi, cùng rủi ro chiến tranh neo giữ trên đảo, lại đổ dồn lên các cái tên gắn trên tường. Đài Loan nắm giữ công tắc mà cả thế giới không thể ngắt, nhưng điều đó chưa đủ để họ làm chủ tình hình. Hơn nữa, quân bài này còn có hạn sử dụng gần năm 2028.
 
-Đài Loan không phải không chuyển động. Năm 2025 Lại Thanh Đức đưa ra muốn để Đài Loan trở thành "trung tâm tính toán toàn cầu hàng đầu năm", phát triển "AI chủ quyền"[^66]; Foxconn đang xây một siêu máy tính quốc gia ở Cao Hùng dùng một vạn con chip Blackwell[^67]; Viện Hành pháp "Mười Đại Công trình AI Mới" sẽ đầu tư vượt 100 tỷ, mục tiêu là 15 nghìn tỷ sản lượng[^68]. Đây là từ "thay người khác sản xuất" dài ra "tính toán cho chính mình" dự tính: từ đáy đường cong nụ cười, leo lên một bậc.
+Đài Loan không hề đứng yên. Lại Thanh Đức đã đề xuất vào năm 2025 biến Đài Loan thành "trung tâm điện toán hàng đầu thế giới trong top 5", phát triển "AI chủ quyền" [^66]; Foxconn đang xây dựng một siêu máy tính quốc gia tại Cao Hùng sử dụng mười nghìn con chip Blackwell [^67]; và "Mười dự án lớn về AI" của chính phủ dự kiến rót hơn 100 tỷ, với mục tiêu giá trị sản xuất đạt 15 nghìn tỷ [^68]. Đây là nỗ lực vươn lên từ đáy đường cong nụ cười trong lĩnh vực "gia công cho người khác", hướng tới việc "tự vận hành".
 
-Nhưng con đường này vẫn còn rất dài. Mô hình ngôn ngữ của chính Đài Loan TAIDE, được mô tả như "học sinh cấp ba", còn các hãng quốc tế đã là "học sinh cao học" mức độ[^69]. Hàn Quốc chính phủ cùng lúc mua 26 vạn GPU, Đài Loan đây vẫn còn vì một mảnh đất, một tiền hủy hợp đồng kéo lê lỏng lẻo[^70]. Từ bắt được một cuộc gọi từ Morris Chang, tới bắt được tính toán của toàn thế giới, Đài Loan mất gần ba mươi năm leo lên tường. Nhưng leo tường, với nắm bút, là hai chuyện.
+Tuy nhiên, con đường này còn rất xa. Mô hình ngôn ngữ của chính Đài Loan, TAIDE, lại bị mô tả như cấp độ "học sinh trung học", trong khi các tập đoàn quốc tế đã đạt đến trình độ "sau đại học" [^69]. Chính phủ Hàn Quốc mua một lần 260 nghìn GPU, còn phía Đài Loan vẫn đang vật lộn với một mảnh đất và một khoản tiền bồi thường hợp đồng [^70]. Từ việc nhận cuộc điện thoại của Trương Trung Mô cho đến việc nắm giữ sức mạnh tính toán của cả thế giới, Đài Loan đã mất gần ba mươi năm để đi đến bức tường này. Nhưng đứng trên bức tường và cầm bút là hai chuyện khác nhau.
 
-Bức tường sẽ tiếp tục sáng. Lần Computex tiếp theo, bảng nền Jensen Huang sẽ nhiều logo hơn. Năm 2026 anh ta tia lộ, NVIDIA mỗi năm ở Đài Loan chi tiêu đã khoảng 150 tỷ đô la, năm năm trước chỉ có 10 tới 15 tỷ thôi[^71]. "Đài Loan có quan trọng hay không" câu hỏi này đã có câu trả lời rồi. Đài Loan phải trả lời là khó hơn: khi toàn thế giới rời khỏi không được thứ bạn làm, bạn chỉ làm thế nào để "rời khỏi không được", dần dần thành "nói được tiếng nói".
+Bức tường đó vẫn sẽ tiếp tục tỏa sáng. Tại Computex lần tới, lưng áo của Hoàng Nhân Tuần sẽ có thêm nhiều logo hơn. Năm 2026, ông tiết lộ NVIDIA chi khoảng 150 tỷ đô la mỗi năm tại Đài Loan, trong khi năm năm trước chỉ là 10 đến 15 tỷ [^71]. Vấn đề "Đài Loan có quan trọng không" đã có câu trả lời. Điều mà Đài Loan cần giải đáp lại khó hơn: Khi cả thế giới đều không thể tách rời những gì bạn làm, làm thế nào để sự "không thể tách rời" đó dần trở thành "quyết định được"?
 
-Tên trên bức tường ngày càng nhiều. Người nắm bút, liệu có phải tự mình——những bút này, Đài Loan mới chỉ bắt đầu mau.
+Số lượng tên trên tường ngày càng nhiều. Liệu người cầm bút có thay đổi thành chính mình—cây bút này, Đài Loan mới chỉ bắt đầu chạm tới.
 
 ---
 
 **Đọc thêm**:
 
-- [Jensen Huang: Từ Thằng bé lau vệ sinh tới Thầy dạy da đen năm nghìn tỷ đế chế](/people/Jensen-Huang) — Lịch sử sống của người sáng lập NVIDIA, bài này chỉ nhẹ nhàng chạm, câu chuyện Đài Nam quê và tăng trưởng của anh ở đây
-- [Ngành công nghiệp bán dẫn](/technology/ngành-công-nghiệp-bán-dẫn) — Tại sao Đài Loan lại có thể trở thành trung tâm sản xuất chip toàn cầu, chuỗi cung ứng được nói ở bài này có ngữ cảnh hoàn chỉnh hơn ở đây
-- [Công ty Đài Loan: TSMC](/economy/công-ty-đài-loan-tsmc) — "Vòng tròn bảo vệ quốc gia" thay NVIDIA sản xuất mỗi con chip, và nó bị kéo kiệt mặt khác
-- [Morris Chang: Người nhận lá thư đó, và đế chế tạo quy mô wafer anh xây dựng](/people/Morris-Chang) — Năm 1996 người nhận lá thư của Jensen Huang, người sáng lập TSMC
-- [Computex: Triển lãm máy tính Đài Bắc, thế nào nó trở thành lễ khai mạc AI toàn cầu](/technology/Computex) — Sân khấu mà bức tường 55 logo sáng lên, sân chính hàng năm của ngành công nghệ Đài Loan
-- [Ngành công nghiệp AI Trí tuệ nhân tạo](/technology/ngành-công-nghiệp-AI-Trí-tuệ-nhân-tạo) — Từ sản xuất chip NVIDIA tới xây dựng hệ sinh thái AI, vị trí của Đài Loan trong sóng cao AI
-- [Phát triển Trí tuệ nhân tạo Đài Loan và Chiến lược tương lai](/technology/phát-triển-trí-tuệ-nhân-tạo-đài-loan-và-chiến-lược-tương-lai) — AI chủ quyền, TAIDE và dự tính quốc gia Đài Loan leo từ đáy đường cong trở lên
-- [Công ty Đài Loan: Foxconn Precision](/economy/công-ty-đài-loan-foxconn-precision) — Ông lớn sản xuất lắp ráp lắp ráp khung AI, bàn tay lớn nhất ở đáy đường cong nụ cười
+- [Hoàng Nhân Tuần: Từ thiếu niên quét dọn đến giáo chủ áo da của đế chế năm tỷ đô la](/vi/people/jensen-huang) — Tiểu sử cá nhân của người sáng lập NVIDIA, bài này chỉ đề cập sơ qua, câu chuyện về gia đình và sự trưởng thành ở Đài Nam của ông được kể chi tiết tại đây
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Tại sao Đài Loan có thể trở thành trung tâm sản xuất chip toàn cầu, chuỗi cung ứng mà bài này đề cập được trình bày đầy đủ hơn tại đây
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — "Ngọn núi quốc gia" tạo ra mọi con chip cho NVIDIA và mặt trái của nó khi bị rút cạn
+- [Trương Trung Mô: Người nhận bức thư, và đế chế sản xuất wafer mà ông đã xây dựng](/vi/people/tsmc-morris-chang) — Nhà sáng lập TSMC, người nhận bức thư từ Hoàng Nhân Tuần vào năm 1996
+- [Computex: Triển lãm máy tính tại Đài Bắc trở thành nghi thức khai mạc AI toàn cầu như thế nào](/vi/technology/computex) — Sân khấu nơi bức tường logo tỏa sáng, sân nhà hàng năm của ngành công nghệ Đài Loan
+- [Ngành công nghiệp trí tuệ nhân tạo](/vi/technology/artificial-intelligence-industry) — Từ việc sản xuất chip NVIDIA đến xây dựng hệ sinh thái AI, vị thế của Đài Loan trong làn sóng AI
+- [Phát triển và chiến lược AI của Đài Loan](/vi/technology/artificial-intelligence-development-strategy) — AI chủ quyền, TAIDE và nỗ lực quốc gia của Đài Loan vươn lên từ gia công
+- [Câu chuyện công nghệ Đài Loan: Con chip 100 điểm, micro 60 điểm](/vi/technology/taiwan-tech-stories) — Hai cách kể về cùng một con chip: sự chênh lệch giá trị mà NVIDIA kiếm được và ngành công nghệ Đài Loan cần học hỏi như thế nào
+- [Doanh nghiệp Đài Loan: Foxconn Precision](/vi/economy/foxconn-precision-industry) — Người khổng lồ gia công lắp ráp 40% máy chủ AI toàn cầu, đôi tay lớn nhất ở đáy đường cong nụ cười
 
 ## Nguồn ảnh
 
