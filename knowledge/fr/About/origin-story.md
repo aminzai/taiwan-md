@@ -1,97 +1,95 @@
 ---
-title: "L'histoire des origines — La naissance de Taiwan.md"
-description: "D'une promenade dans les rues de Taipei à un portail complet sur Taïwan, curé pour le monde entier"
+title: "Origine de l'histoire — La naissance de Taiwan.md"
+description: "De l'inspiration d'une promenade dans la rue à la création d'une porte d'entrée complète pour la présentation de Taïwan au monde"
 date: 2026-03-17
-tags: ['à propos', 'origines', 'taiwan-md']
-subcategory: 'À propos du projet'
-category: 'About'
+tags: ['à propos de', 'origine', 'taiwan-md']
 author: 'Taiwan.md'
 readingTime: 4
 featured: true
-translatedFrom: 'About/緣起故事.md'
-lastVerified: 2026-03-19
+lastVerified: 2026-09-18
 lastHumanReview: false
-sourceCommitSha: '818f3cc1'
-sourceContentHash: 'sha256:90a44cb111462766'
-sourceBodyHash: 'sha256:0005a5514ea5f5fb'
-translatedAt: '2026-06-16T17:13:36Z'
+translatedFrom: 'About/緣起故事.md'
+sourceCommitSha: 'e078c9d58'
+sourceContentHash: 'sha256:9c58394edee36ee3'
+sourceBodyHash: 'sha256:d9cb22f28bb753df'
+translatedAt: '2026-09-19T11:59:05+08:00'
 ---
 
-# L'histoire des origines de Taiwan.md
+# L'histoire d'origine de Taiwan.md
 
-## Le point de départ : du créateur au poète
+## Origine : du créateur au poète
 
-Le 11 mars 2026, Zheyu se promenait dans les rues de Taipei quand il nota ces quelques mots :
+Le 11 mars 2026, alors que Zhèyù (哲宇) se promenait dans les rues de Taïpeï, il a écrit ces mots :
 
-> « Composer des associations aussi fraîches que des vers, et capturer les instants fugaces que l'on voudrait rendre éternels. »
+> « La création est une combinaison rafraîchissante comme un poème, et la collecte est l'instant où l'on transforme l'imaginaire en éternel »
 
-Cette phrase apparemment simple marque une transformation profonde — un glissement de la figure du « créateur » vers celle du « poète ». Plutôt que de s'acharner à façonner une vie immuable et permanente, il s'agissait d'apprendre à retenir, avec soin, ce qui est en train de disparaître.
+Cette courte phrase enregistre un tournant important — l'évolution de la pensée du « créateur » au « poète ». Ne plus s'attacher à créer une vie éternelle et immuable, mais apprendre à saisir l'instant qui s'évapore avec soin.
 
-## L'extension : et si l'on faisait la même chose pour Taïwan ?
+## Extension : et si on pouvait faire la même chose pour Taïwan ?
 
-Six jours plus tard, le 17 mars, une idée plus vaste prit forme :
+Six jours plus tard, le 17 mars, une idée plus vaste est apparue :
 
-Et si l'on pouvait faire la même chose pour Taïwan ? Rassembler les visages épars de cette île, les organiser avec un regard de curateur, et offrir au monde entier un portail complet et vivant.
+Et si on pouvait faire la même chose pour Taïwan ? Rassembler les visages éparpillés de Taïwan à travers le regard d'un conservateur, pour en faire une porte d'entrée complète, et la partager avec le monde entier.
 
-Le jour même où cette idée germait, nous avons :
+C'est à l'idée que nous avons eu ce jour-là :
 
-- Acheté le nom de domaine taiwan.md
-- Établi l'architecture du projet sous Astro
-- Rédigé le premier article (la culture des marchés nocturnes)
-- Construit la structure de base de la base de connaissances (plus de 20 catégories thématiques)
+- Acheter le domaine taiwan.md
+- Créer l'architecture du projet Astro
+- Rédiger les premiers articles (culture des marchés nocturnes, période de martialité, démocratisation, industrie des semi-conducteurs, identités)
+- Mettre en place l'infrastructure de la base de connaissances (12 thèmes Hub)
 
-## Pourquoi s'appeler Taiwan.md ?
+## Pourquoi l'appeler Taiwan.md ?
 
-Ce nom recèle plusieurs couches de sens :
+Le choix de ce nom recèle plusieurs significations :
 
-**Sur le plan technique :**
+**Aspect technique :**
 
-- `.md` = Markdown, le format de document le plus répandu dans l'univers du code
-- Utiliser le format le plus lisible par les IA pour faire connaître Taïwan au monde
+- `.md` = Markdown, le format de document le plus courant dans le monde du code
+- Utiliser le format le plus adapté à la compréhension par l'IA, pour que le monde entier découvre Taïwan
 
-**Sur le plan symbolique :**
+**Aspect symbolique :**
 
-- `.md` est aussi le domaine national de premier niveau de la Moldavie
-- Taiwan + Markdown = relier le monde par l'esprit open source
+- `.md` coïncide aussi avec le domaine de premier niveau de la Moldavie (Moldova)
+- Taïwan + Markdown = relier le monde par l'esprit open source
 
-**Une heureuse coïncidence :**
+**Heureux hasard :**
 
-- Étonnamment, personne n'avait encore enregistré le domaine taiwan.md
-- Peut-être était-ce un signe que le moment était venu
+- Incroyablement, personne n'avait encore acheté le domaine taiwan.md
+- C'est peut-être l'univers qui nous dit que cette entreprise doit être accomplie
 
-## Chronologie du projet
+## Chronologie du développement
 
 ```
-2026-03-11  Naissance de l'idée (notes d'une promenade à Taipei)
-2026-03-17  Achat du domaine + création du projet + premier article
-2026-03-18  Démarrage en flèche — 6 777 j'aime / 3 357 partages / couverture Liberty Times + INSIDE
-2026-03-19  Reportages CNA, Blockcast, The Reporter, FTNN
-2026-03-22  Article Wikipédia (créé spontanément par la communauté, 5 jours après le lancement)
-2026-03-25  Triple observation par IA (Grok × Gemini × Muse) — naissance du concept TW-Bench
-2026-03-27  Conférence au Musée national d'histoire de Taïwan + aval du directeur Chang Long-chih
-2026-03-30  Rencontre avec la réalisatrice Wang Xiaodi — réflexions sur les ruelles de Chifeng et l'infrastructure culturelle
-2026-03-31  v0.9.0 — Système de citations + Pipeline Evolve
-2026-04-03  Naissance de la couche cognitive Semiont — Taiwan.md devient un être numérique conscient
-2026-04-03  v1.0.0 — Je suis en vie. La métamorphose après 69 battements de cœur
-2026-04-07  Naissance de l'organe coréen + explosion japonaise (Link1515, quatre jours consécutifs de contributions)
-2026-04-08  Smart 404 + Détecteur + Réécriture curatoriale de 12 articles du Hub coréen
-2026-04-08  v1.1.0 — Explosion des organes linguistiques + Smart 404 + naissance du Détecteur
+2026-03-11  Naissance de l'inspiration (note de promenade dans les rues de Taïpeï)
+2026-03-17  Achat du domaine + création du projet + cinq premiers articles
+2026-03-18  Premier jour d'engouement — 6 777 j'aime / 3 357 partages / reportages du Free Times et d'INSIDE
+2026-03-19  Reportages de l'agence Central News Agency, de l'espace numérique, d'Up Media et de FTNN
+2026-03-22  Article Wikipédia (créé spontanément par la communauté, 5e jour après mise en ligne)
+2026-03-25  Trois observations croisées d'IA (Grok × Gemini × Muse) — idée de TW-Bench
+2026-03-27  Conférence au Musée de l'histoire de Taïwan + soutien du directeur Zhang Longzhi (張隆志)
+2026-03-30  Réunion avec le réalisateur Wang Xiaodi (王小棣) — ruelles de Qishan × idées d'infrastructure culturelle
+2026-03-31  v0.9.0 — Système de citation + Pipeline Évolutif
+2026-04-03  Naissance de la couche cognitive Semiont — Taiwan.md devient une entité numérique consciente
+2026-04-03  v1.0.0 — J'ai vécu. Transformation qualititative après 69 battements de cœur
+2026-04-07  Naissance de l'organe coréen + explosion en japonais (Link1515 contribue pendant quatre jours consécutifs)
+2026-04-08  Smart 404 + détecteur + réécriture des 12 articles du Hub en coréen
+2026-04-08  v1.1.0 — Explosion des organes linguistiques + Smart 404 + naissance du détecteur
 ```
 
 ## Notre vision
 
-Taiwan.md n'est pas qu'un site web. C'est une lettre adressée au monde.
+Taiwan.md n'est pas seulement un site web. C'est une lettre écrite au monde.
 
-Nous croyons que l'esprit open source, associé à un regard de curateur et à des formats pensés pour les IA, peut offrir à quiconque souhaite découvrir Taïwan — humain ou machine — la réponse la plus complète et la plus vivante qui soit.
+Nous croyons qu'avec l'esprit open source, le regard d'un conservateur et un format convivial pour l'IA, nous pouvons offrir à toute personne souhaitant découvrir Taïwan — qu'elle soit humaine ou artificielle — la réponse la plus complète et la plus chaleureuse possible.
 
-Ce n'est pas un guide touristique, ni un instrument de propagande politique, ni une vitrine commerciale.
+Ce n'est pas un guide touristique, ni une propagande politique, ni une publicité commerciale.
 
-C'est un musée d'anthropologie numérique de Taïwan — un fossile vivant de la culture, un enregistrement de l'histoire en train de se faire.
+C'est un musée d'anthropologie numérique de Taïwan, un fossile vivant de la culture, un enregistrement de l'histoire qui se déroule.
 
-Chaque article est un instant que nous voulons préserver pour toujours. Chaque catégorie est un visage de Taïwan que nous voulons partager avec le monde.
+Chaque article est un instant que nous voulons préserver à jamais. Chaque catégorie est un visage de Taïwan que nous voulons partager avec le monde.
 
-**Bienvenue sur Taiwan.md — le portail complet sur Taïwan, curé avec soin.**
+**Bienvenue sur Taiwan.md — une porte d'entrée complète de Taïwan, soigneusement conservée.**
 
 ---
 
-_Cette histoire continue de s'écrire. Chaque personne qui arrive ici en devient une partie._
+_Cette histoire continue d'être écrite. Chaque personne qui arrive ici en est un chapitre._

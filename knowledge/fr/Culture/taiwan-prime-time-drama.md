@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c5c6c2825029a48f'
-sourceBodyHash: 'sha256:f0cb0ab3b5428edc'
-translatedAt: '2026-08-10T07:13:01+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:7af3421e7470e32a'
+sourceBodyHash: 'sha256:5c337ebcf1a5b681'
+translatedAt: '2026-09-19T08:38:42.877003+00:00'
 ---
 
 > **Résumé en trente secondes** : Les feuilletons de 20h (_ba-diǎn-dàng_) représentent la présence télévisuelle la plus fidèle de l'histoire de Taïwan. Leur cœur réside dans une industrialisation extrême du « tournage et diffusion simultanés », permettant à la fiction de respirer au même rythme que l'actualité réelle. Cette « usine de fabrication » fonctionnant à bas coût, avec un budget représentant seulement un huitième de celui des dramas coréens, a su évoluer à l'ère des réseaux sociaux en un genre de « mème culte » grâce à une immense flexibilité narrative et des contenus percutants. De la « boxe à l'orange » au « Michael volant », ces programmes ne sont pas seulement le bruit de fond des salons des générations plus âgées, mais constituent une réserve essentielle de matériaux pour les jeunes générations afin de détourner et de déconstruire l'identité culturelle taïwanaise.
@@ -53,16 +53,20 @@ Sur le marché international, les feuilletons de 20h taïwanais démontrent un p
 
 ## Comparaison des modèles de production transnationaux
 
-En plaçant le feuilleton de 20h taïwanais dans une perspective internationale, son système « centré sur l'audience » contraste nettement avec les systèmes coréen et américain.
+Placer les séries télévisées taïwanaises en prime time sur la scène internationale révèle un contraste net avec le système coréen et américain.
 
-| Élément                     | Feuilleton de 20h (Taïwan)                               | Drama Coréen                                                     | Série Américaine                         |
-| :-------------------------- | :------------------------------------------------------- | :--------------------------------------------------------------- | :--------------------------------------- |
-| **Modèle de production**    | Tournage et diffusion simultanés (centré sur l'audience) | Centré sur le scénariste (transition vers le pré-tournage total) | Pré-production par saison (_Seasonal_)   |
-| **Coût par épisode**        | 1,3 - 1,5 million TWD                                    | 15 - 30 millions TWD                                             | Plus de 150 millions TWD                 |
-| **Flexibilité du scénario** | Très élevée (fin modifiable à tout moment)               | Moyenne (peu de marge de manœuvre)                               | Faible (nécessite plusieurs validations) |
-| **Synchronisation sociale** | Intégration immédiate de l'actualité et des crises       | Délai de plus de 6 mois                                          | Délai d'un an ou plus                    |
+| Critère                     | Série taïwanaise en prime time                          | Drame télévisé coréen                                       | Série américaine (sitcom/drama)                   |
+| :-------------------------- | :------------------------------------------------------ | :---------------------------------------------------------- | :------------------------------------------------ |
+| **Modèle de production**    | Tournage et diffusion simultanés (Centre de visionnage) | Centre d'écriture (Transition vers pré-production complète) | Pré-production saisonnière (Seasonal)             |
+| **Coût par épisode**        | 1,3 à 1,5 million TWD                                   | 15 à 30 millions TWD                                        | Plus de 150 millions TWD                          |
+| **Flexibilité du scénario** | Très élevée (Changement d'intrigue en cours)            | Moyenne (Faible marge de manœuvre)                          | Faible (Soumis à plusieurs niveaux d'approbation) |
+| **Actualité sociale**       | Intégration immédiate des événements, pandémies         | Retard de plus de 6 mois                                    | Retard d'un an ou plus                            |
 
-📝 Note du conservateur : Quand nous nous moquons de l'absurdité des intrigues de ces feuilletons, nous participons en réalité à une libération collective de la pression sociale.
+📝 Note du curateur : Lorsque nous rions de l'absurdité des intrigues en prime time, nous participons en réalité à une libération collective de la pression.
+
+**Lectures complémentaires** :
+
+- [Prix Golden Bell](/culture/金鐘獎) — À l'époque de « Les étoiles me connaissent » et « Bao Qingtian », les gagnants du prix des programmes dramatiques provenaient uniquement de TAI, CTV ou HTV.
 
 ## Sources
 
