@@ -1,102 +1,103 @@
 ---
-title: 'Đời sống đêm và văn hoá KTV'
-description: 'Từ các phòng hát Cashbox đến những tiệm ăn đêm khuya, nhịp sống 24/7 của hòn đảo không ngủ'
+title: 'Văn hóa đêm và KTV: Từ phòng riêng đến quán ăn khuya, cuộc sống không ngủ 24 giờ của hòn đảo'
+description: 'Từ các phòng karaoke sang những quán ăn khuya, nhịp sống không ngừng nghỉ 24 giờ của hòn đảo.'
 date: 2026-03-17
 category: 'Lifestyle'
-tags: ['cuộc sống', 'đời sống đêm', 'KTV', 'tiệm ăn đêm khuya', 'Đài Loan']
-subcategory: 'Giải trí và thư giãn'
+tags: ['Đời sống', 'Đêm', 'KTV', 'Quán ăn khuya', 'Đài Loan']
+subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '18157ab5'
-sourceContentHash: 'sha256:3a356e2fbd9898dc'
-sourceBodyHash: 'sha256:5171611c1ca72679'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Đêm ở Đài Loan: ánh đèn neon sáng lên, tiếng ca hát từ các phòng KTV, những tiệm ăn đêm khuya rộng mở'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:b34cbc0681b4b3a1'
+sourceBodyHash: 'sha256:4439d8751309731f'
+translatedAt: '2026-09-20T00:52:41+08:00'
 ---
 
-# Đời sống đêm và văn hoá KTV
+# Văn hóa đêm và KTV
 
-> **Tóm tắt 30 giây:** Đời sống đêm ở Đài Loan xoay quanh ba trụ cột chính: các phòng hát KTV, những tiệm ăn đêm khuya và chợ đêm, hỗ trợ nhịp sống 24/7 của "hòn đảo không ngủ". Văn hoá KTV phát triển mạnh mẽ từ những năm 1990 và trở thành hình thức tập hợp toàn dân. Vụ cháy tại Cashbox Đài Bắc năm 2020 khiến 5 người thiệt mạng, thúc đẩy ngành công nghiệp đầu tư vào những cải cách về an toàn.
+> **Tóm tắt trong 30 giây:** Cuộc sống về đêm ở Đài Loan được cấu thành bởi ba trụ cột: phòng karaoke (KTV), các quán ăn khuya và chợ đêm. Các dịch vụ tiện lợi hoạt động suốt 24 giờ đã duy trì nhịp điệu của "hòn đảo không ngủ". Văn hóa phòng KTV phát triển sau khi phổ biến vào những năm 1990; vụ hỏa hoạn tại cửa hàng Lin Sen của Cashbox ở Đài Bắc năm 2020 đã buộc các cơ quan quản lý phải tiến hành thanh tra toàn bộ ngành KTV trên toàn đảo.
 
-Khi bóng tối buông xuống Đài Loan, hòn đảo này lộ diện một bộ mặt khác. Ánh sáng neon sáng rực, từ các phòng hát KTV vang lên tiếng cười nói vui vẻ, những tiệm ăn đêm khuya sáng đèn suốt đêm, những tấm biển "mở 24/7" nổi bật trong bóng tối. Bữa cơm gặp gỡ sau giờ làm, những bữa tiệc mừng sau kỳ thi của học sinh, những cuộc trò chuyện sâu đêm giữa bạn bè — tất cả đều tìm thấy sân khấu thích hợp nhất vào ban đêm.
+Khi màn đêm buông xuống Đài Loan, hòn đảo này khoác lên mình một bộ mặt khác. Đèn neon thắp sáng đường phố, tiếng cười nói vang vọng từ các phòng KTV, ánh đèn rực rỡ của các quán ăn khuya, và những biển hiệu hoạt động 24 giờ nổi bật giữa màn đêm. Các buổi tụ họp sau giờ làm của dân văn phòng, lễ kỷ niệm sau kỳ thi của sinh viên, hay những cuộc trò chuyện thâu đêm của bạn bè, tất cả đều tìm thấy sân khấu phù hợp trong đêm.
 
-## Văn hoá KTV: một song song vũ trụ trong phòng hát
+## Văn hóa KTV: Vũ trụ song song trong phòng riêng
 
-KTV (Karaoke TV) là lõi của đời sống đêm ở Đài Loan. Những phòng hát KTV riêng biệt ra đời vào những năm 1990, sau đó các thương hiệu như Cashbox, Holiday, Star Karaoke liên tiếp mở rộng, đồng hành cùng người Đài Loan qua vô số cuộc tập hợp. Mỗi khi đẩy cửa phòng hát KTV, bạn bước vào một không gian tương đối cô lập với thế giới bên ngoài — trước chiếc microphone, khoảng cách về vị trí công việc và tuổi tác tạm thời rút lui.
+KTV (Karaoke TV) là cốt lõi của đời sống về đêm ở Đài Loan. Sau khi hình thức KTV phòng riêng nổi lên vào những năm 1990, các thương hiệu như Cashbox, Holiday và Star Judian lần lượt phát triển rุ่งเรือง, đồng hành cùng người dân Đài Loan qua vô số dịp tụ họp. Mỗi khi mở cửa phòng KTV, người ta bước vào một không gian tương đối tách biệt với thế giới bên ngoài; trước micro, sự khác biệt về nghề nghiệp và tuổi tác tạm thời bị gác lại.
 
-Mật độ KTV ở Đài Loan xếp hàng đầu toàn cầu. Theo hồ sơ đăng ký của Bộ Kinh tế, số lượng KTV tại Đài Bắc duy trì ở mức trên một trăm cơ sở (bao gồm chuỗi và độc lập), phân bố không đồng đều giữa các quận, với ba quận Tín Nghĩa, Đại An và Trung Sơn có mật độ cao nhất. Từ những phòng tổng thống xa hoa đến các phòng vui vẻ giá rẻ, những lựa chọn giá khác nhau khiến KTV trở thành giải trí cho toàn dân. Một phòng hát cho 10 người, chi phí 3 giờ vào ngày thường khoảng 1.500 đến 2.500 đồng Đài Loan (bao gồm tiêu tối thiểu thức ăn uống), các gói hội viên thương hiệu chuỗi lớn hoặc những giờ thấp điểm sẽ tốt hơn. Màn hình chọn bài cảm ứng sở hữu trên 100.000 bài hát, bao gồm các bài hát tiếng Quan Thoại, tiếng Mân Nam Đài Loan, tiếng Anh, tiếng Nhật và Hàn Quốc, đáp ứng nhu cầu của những thế hệ khác nhau. [^1]
+Mật độ KTV của Đài Loan đứng đầu toàn cầu. Chỉ riêng tại Thành phố Đài Bắc, có hàng trăm cơ sở từ các chuỗi lớn đến các quán nhỏ độc lập. Từ những phòng tổng thống sang trọng đến các phòng giải trí giá cả phải chăng, mức giá khác nhau đã khiến KTV trở thành hình thức giải trí đại chúng; một phòng cho 10 người trong 3 giờ ban ngày có chi phí dao động từ 1.500 Đài tệ đến 2.500 Đài tệ (bao gồm chi phí ăn uống tối thiểu), còn các gói thành viên của chuỗi lớn hoặc vào giờ thấp điểm thì ưu đãi hơn. Màn hình chọn bài hát cảm ứng chứa hơn 100.000 bài hát, đầy đủ các thể loại tiếng Quan thoại, tiếng Đài ngữ, tiếng Anh và Nhật Bản/Hàn Quốc, đáp ứng nhu cầu của nhiều thế hệ. [^1]
 
-Mừng sinh nhật, tiệc cuối năm công ty, tụ họp bạn cũ, hẹn hò — KTV là nơi chọn chính xác cho mọi dịp tập hợp của người Đài Loan. Bầu không khí riêng tư của phòng hát cho phép mọi người hạ chiến đấu, thỏa sức bộc lộ. Vị quản lý nghiêm túc thường ngày nhảy múa trong phòng hát, đồng nghiệp hướng nội bỗng dưng trở thành "thần hát", sự tương phản này chính là lý do văn hoá KTV kéo dài không phai.
+Sinh nhật, tiệc cuối năm công ty, họp mặt bạn bè, hẹn hò lãng mạn—KTV là địa điểm tụ tập được người dân Đài Loan lựa chọn cho mọi dịp. Bầu không khí riêng tư của phòng giúp mọi người có thể gỡ bỏ sự dè dặt và bộc lộ bản thân một cách thoải mái. Những vị quản lý nghiêm nghị thường ngày lại nhảy nhót trong phòng, còn những đồng nghiệp hướng nội đột nhiên trở thành "ngôi sao mic", sự tương phản này chính là lý do khiến văn hóa KTV tồn tại bền vững.
 
-## Cashbox và Holiday: cạnh tranh hai ông lớn và các sự cố an toàn
+## Cashbox và Holiday: Sự cạnh tranh của hai gã khổng lồ và tai nạn an toàn
 
-Cashbox (Kế tố bộ) và Holiday (Hô li đặc) là hai ông lớn của KTV ở Đài Loan, những năm cạnh tranh liên tục thúc đẩy sự nâng cấp trong thiết bị âm thanh, thiết kế phòng hát và dịch vụ thức ăn uống. Cashbox nổi tiếng với định vị cao cấp, chủ yếu phục vụ khách hàng kinh doanh; Holiday theo con đường giá rẻ thân thiện, được yêu thích bởi học sinh.
+Cashbox và Holiday là hai đầu tàu lớn trong ngành KTV Đài Loan, sự cạnh tranh hàng thập kỷ đã thúc đẩy việc nâng cấp thiết bị âm thanh, thiết kế phòng và dịch vụ ăn uống. Cashbox nổi tiếng với định vị cao cấp, chủ yếu phục vụ khách hàng công tác; còn Holiday theo đuổi hướng đi bình dân thân thiện, được giới sinh viên yêu thích.
 
-**Vụ cháy Trung Long Cashbox năm 1995** là sự cố thương vong nặng nề nhất trong lịch sử KTV ở Đài Loan, đám cháy gây ra tử vong cho nhiều người, buộc chính phủ lần đầu tiên yêu cầu các nhà kinh doanh KTV hoàn thiện thiết bị phòng cháy chữa cháy, đây là điểm cấp tiến đầu tiên của các quy tắc an toàn trong ngành. [^2]
+KTV phòng riêng mới xuất hiện chưa lâu đã phải trả một cái giá đắt. **Vào tháng 11 năm 1992, "Thần Thoại Thế Giới KTV" ở phố Fushen, Đài Bắc bị đốt phá, khiến 16 người thiệt mạng**, đây là một trong những vụ hỏa hoạn thương vong nặng nề nhất trong lịch sử KTV Đài Loan, và lần đầu tiên vấn đề thoát hiểm của không gian kín như phòng đã được toàn xã hội nhìn nhận. [^2]
 
-**Năm 2017, Ủy ban Giao dịch Công bằng** đã xem xét vụ sáp nhập Holiday của Cashbox (tập đoàn KK BOX), quyết định cho phép có điều kiện, yêu cầu hai bên duy trì cạnh tranh tại những quận/tỉnh nhất định, ngăn chặn thâu tóm thị trường. Vụ việc này đánh dấu sự chuyển biến cơ cấu thị trường KTV ở Đài Loan từ cạnh tranh hai ông lớn sang kiểm soát bởi một tập đoàn duy nhất. [^4]
+Hai gã khổng lồ này cũng nhiều lần tìm cách sáp nhập. **Vào tháng 8 năm 2019, Ủy ban Cạnh tranh Công bằng lần thứ tư cấm Cashbox và Holiday hợp nhất**, lý do là cả hai vốn là đối thủ cạnh tranh chính của nhau, nếu hợp nhất thị phần sẽ đạt bốn mươi lăm phần trăm, gây bất lợi cho lợi ích kinh tế chung hơn là hạn chế cạnh tranh; Cashbox đã đệ đơn kiện hành chính, và Tòa án Hành chính Cao cấp Đài Bắc đã phán quyết thua kiện Cashbox vào tháng 11 năm 2020. [^4] Thị trường KTV Đài Loan cho đến nay vẫn duy trì sự song hành của hai gã khổng lồ, chứ không phải do một tập đoàn đơn lẻ thống trị.
 
-Tháng 4 năm 2020, một phòng Cashbox KTV ở Trung Tiêu Đông Đường, Đài Bắc lại bốc cháy, gây tử vong cho 5 người. Sự cố lộ rõ những thiếu sót trong quản lý an toàn của những tòa nhà cũ kỹ, các cơ quan chịu trách nhiệm tiến hành thanh tra toàn diện trên toàn Đài Loan các KTV, các nhà kinh doanh lần lượt nâng cấp thiết bị phòng cháy chữa cháy. [^2]
+Vào ngày 26 tháng 4 năm 2020, vụ hỏa hoạn xảy ra tại cửa hàng Lin Sen của Cashbox ở đường Bắc Lâm Sơn, Đài Bắc, khiến 6 người chết và hàng chục người bị thương; nguyên nhân cháy là do pin đang sạc trong phòng chứa đồ, và hệ thống cảnh báo cháy lúc đó đã bị tắt. Ngày hôm sau, chính quyền Thành phố Đài Bắc đã tiến hành thanh tra chung các chi nhánh khác của Cashbox, bốn cửa hàng bị buộc phải tạm ngừng hoạt động để chỉnh đốn vì thiết bị phòng cháy chữa cháy không đạt tiêu chuẩn, khiến tất cả các cửa hàng của Cashbox trên toàn đảo tạm ngưng kinh doanh một tuần. [^5]
 
-**Năm 2021, vào thời kỳ cảnh báo 3 cấp về COVID-19** (tháng 5-7), chính phủ đã ra lệnh cấm hoạt động tại các nơi như KTV, quán bar, những thành phố đêm, v.v., lần đầu tiên trong lịch sử ngành công nghiệp KTV ở Đài Loan phải đối mặt với tình trạng bị bắt buộc đóng cửa kéo dài vài tuần. Nhiều nhà kinh doanh gặp áp lực về dòng tiền, một số KTV quy mô nhỏ và vừa sau đại dịch không mở cửa trở lại. Đại dịch đẩy nhanh tập trung thị trường KTV — những thương hiệu chuỗi lớn nhờ hệ thống đặt chỗ trực tuyến và phòng hát tinh tế vượt qua thời thấp điểm, tỷ lệ sống sót rõ ràng cao hơn các cơ sở độc lập.
+Trong thời gian **cảnh báo cấp ba COVID-19 năm 2021** (tháng 5-7), chính phủ đã cấm tuyệt đối hoạt động của KTV, quán bar, hộp đêm và các địa điểm tương tự; đây là lần đầu tiên ngành KTV Đài Loan phải đối mặt với việc đóng cửa bắt buộc kéo dài nhiều tuần. Nhiều doanh nghiệp gặp khó khăn về dòng tiền, một số KTV vừa và nhỏ đã không thể tái khai trương sau đại dịch. Đại dịch đã đẩy nhanh quá trình tập trung hóa thị trường KTV—các chuỗi lớn vượt qua giai đoạn suy thoái nhờ hệ thống đặt hàng trực tuyến và các phòng tinh tế, tỷ lệ sống sót cao hơn đáng kể so với các cửa hàng độc lập.
 
-## Tiệm ăn đêm khuya: văn hoá quán rượu kiểu Đài Loan
+## Quán ăn khuya: Văn hóa quán rượu kiểu Đài Loan
 
-Khi phong cách quán rượu Nhật Bản gặp gỡ văn hoá xào nấu nóng của Đài Loan, nó sinh ra một dạng tiệm ăn đêm khuya kiểu Đài Loan độc đáo. Những tiệm này thường mở cửa đến sáng sớm, phục vụ các món xào nấu, đồ ăn vặt, bia, là nơi tập hợp của nhân viên văn phòng và những người đêm khuya. Khu phố Sư Đại ở Đài Bắc, vùng Công Viện, những khu vực xung quanh chợ đêm Thúy Phong ở Cao Hùng, đều có những cụm tiệm ăn đêm khuya mật độ cao.
+Khi phong cách quán rượu Nhật Bản gặp gỡ văn hóa món xào nóng (hotpot) của Đài Loan, nó đã tạo ra một hình thái quán ăn khuya đặc trưng của Đài Loan. Những cơ sở này thường mở cửa đến sáng sớm, cung cấp các món xào nóng, đồ nhắm nhỏ và bia, là nơi tụ họp của dân văn phòng tan ca và những người thức đêm. Các cụm quán ăn khuya tập trung dày đặc tại khu thương mại Shida ở Đài Bắc, xung quanh Gongguan, và gần chợ đêm Ruifeng ở Cao Hùng.
 
-Bàn ghế gỗ, ánh sáng vàng tờm, bia Đài Loan lạnh lẽo, gà chiên muối vừa nóng hổi, tạo thành bộ tiêu chuẩn của tiệm ăn đêm khuya kiểu Đài Loan. Gà 3 chén, gà lạc Công Bảo, dưa chuột gỏi lạnh, thịt lợn luộc với tỏi — những món ăn gia đình thường ngày được yêu thích đặc biệt vào đêm khuya, kèm theo một chai bia Đài Loan, có tác dụng giải tỏa hiệu quả mệt mỏi của một ngày.
+Bàn ghế gỗ, ánh đèn vàng vọt, bia Đài Loan lạnh, gà chiên muối nóng hổi tạo thành bộ trang bị tiêu chuẩn của quán ăn khuya Đài Loan. Các món ăn dân dã như gà ba chén (San Bei Ji), gà Kung Pao, dưa chuột trộn tỏi và thịt heo trắng trộn tỏi rất được ưa chuộng vào đêm khuya, kết hợp với một chai bia Đài Loan, giúp xoa dịu sự mệt mỏi trong ngày.
 
-Bầu không khí của tiệm ăn đêm khuya kiểu Đài Loan khác với sự trang trọng của quán rượu Nhật Bản, gần hơn với phong cách xã giao tự tại, nồng nhiệt của người Đài Loan. Những người xa lạ nói chuyện với nhau không phải điều hiếm, cùng một bàn dài có thể cùng lúc ngồi những nhóm rượu khác nhau, sự linh hoạt của không gian chia sẻ này khiến tiệm ăn đêm khuya vừa có chức năng xã giao vừa có chức năng ăn uống.
+Bầu không khí của quán ăn khuya kiểu Đài Loan khác với sự dè dặt của quán rượu Nhật Bản; nó gần gũi hơn với phong cách giao tiếp tự nhiên và nhiệt tình của người dân Đài Loan. Việc trò chuyện giữa những người xa lạ không phải là điều hiếm, một chiếc bàn lớn có thể cùng lúc phục vụ nhiều nhóm khách uống bia khác nhau, sự linh hoạt của không gian chia sẻ này đã mang lại cho quán ăn khuya chức năng kép vừa giao tiếp vừa ẩm thực.
 
-## Quán bar và nơi nhảy đêm: nhịp đập của đêm phố thị
+## Hộp đêm và Quán bar: Nhịp đập của màn đêm đô thị
 
-Các quán nhảy nổi tiếng nhất ở Đài Loan tập trung quanh vùng Tín Nghĩa, Đài Bắc. Âm nhạc điện tử, trình diễn ánh sáng và sàn nhảy tạo nên cảnh tượng sôi động nhất của đêm phố thị, trong khoảng cuối tuần những dòng người thường kéo dài từ đêm khuya đến sáng sớm. Văn hoá nhảy đêm ở Đài Loan chịu ảnh hưởng sâu sắc từ phương Tây, nhưng những DJ phát các bản nhạc pop Trung Quốc phiên bản điện tử, những cách mà thanh niên địa phương thông dịch với phong cách Đài Loan, khiến nó hình thành những đặc trưng địa phương.
+Khu vực Xinyi ở Đài Bắc tập trung những hộp đêm nổi tiếng nhất Đài Loan. Âm nhạc điện tử, trình diễn ánh sáng và sàn nhảy tạo nên khung cảnh sôi động nhất của màn đêm đô thị, lượng khách vào cuối tuần thường kéo dài từ nửa đêm đến sáng sớm. Văn hóa hộp đêm Đài Loan chịu ảnh hưởng sâu sắc từ Châu Âu và Mỹ, nhưng hiện tượng DJ phát các bản remix EDM nhạc pop tiếng Quan thoại, cùng với cách người trẻ địa phương diễn giải theo phong cách Đài Loan, đã tạo nên nét đặc trưng riêng.
 
-Văn hoá quán bar lại đa dạng hơn. Từ quán bar cocktail cao cấp, quán bar thể thao, cửa hàng chuyên về whisky, vườn bia — mỗi loại thu hút những bộ phận khác nhau. Khu vực Điều thông ở Trung Sơn, Đài Bắc giữ lại màu sắc Nhật Bản đặc sắc, là một trong những khu vực quán bar lâu đời nhất của Đài Bắc, từ những năm 1980 mật độ quán bar và nhà hàng đã khá cao, được yêu thích bởi các nhân viên kinh doanh và du khách Nhật Bản.
+Văn hóa quán bar thì đa dạng hơn. Các quán cocktail cao cấp, quán bar thể thao, cửa hàng chuyên về rượu whisky và vườn bia mỗi nơi đều thu hút các nhóm khách khác nhau. Khu phố Tiao Thông ở quận Trung Sơn, Đài Bắc, vẫn giữ được phong cách Nhật Bản đậm nét, là một trong những khu vực uống rượu lâu đời nhất của Đài Bắc; mật độ quán bar và nhà hàng ở đây luôn cao, rất được giới doanh nhân và du khách Nhật Bản yêu thích.
 
-Văn hoá pha chế đã phát triển nhanh chóng ở Đài Loan trong những năm gần đây, Đài Bắc có nhiều quán bar được tuyển chọn vào danh sách top 100 quán bar pha chế trên toàn cầu, thúc đẩy chuyên nghiệp hóa công việc bồi pha rượu và phổ biến kiến thức về thức uống. Phong trào bia thủ công và rượu nho tự nhiên cũng thấm sâu vào cảnh quán bar của đêm Đài Loan, khiến lựa chọn đồ uống chi tiết hơn.
+Văn hóa pha chế đồ uống gần đây đã phát triển nhanh chóng ở Đài Loan; nhiều quán bar tại Đài Bắc đã lọt vào danh sách top trăm quán bar toàn cầu, thúc đẩy sự chuyên nghiệp hóa của các bartender và phổ biến kiến thức thưởng thức rượu. Xu hướng bia thủ công và rượu vang tự nhiên cũng len lỏi vào bối cảnh đêm của Đài Loan, làm cho lựa chọn đồ uống trở nên tinh tế hơn.
 
-## Văn hoá mở cửa 24/7: cơ sở hạ tầng của thành phố không ngủ
+## Văn hóa hoạt động 24 giờ: Cơ sở hạ tầng của thành phố không ngủ
 
-Văn hoá mở cửa 24/7 ở Đài Loan cung cấp hỗ trợ cơ sở hạ tầng thực sự cho đời sống đêm. Những tiệm tạp hóa, nhà thuốc, phòng tập thể dục, thậm chí một số hiệu sách, đều cung cấp dịch vụ toàn ngày, cho phép mọi người sống theo nhịp độ riêng của họ.
+Văn hóa hoạt động 24 giờ của Đài Loan cung cấp nền tảng vật chất vững chắc cho đời sống về đêm. Cửa hàng tiện lợi, hiệu thuốc, phòng tập thể dục, và thậm chí một số hiệu sách đều cung cấp dịch vụ suốt ngày đêm, cho phép mọi người sống theo nhịp độ của riêng mình.
 
-Cửa hàng sách T誠品 Đốn Nam từ năm 1999 trở thành hiệu sách mở cửa 24 giờ đầu tiên ở Đài Loan, có vị trí biểu tượng trong nhóm những người đêm khuya ở Đài Bắc, cũng là một trường hợp phổ biến khi các phương tiện truyền thông nước ngoài báo cáo về văn hoá đời sống đêm của Đài Loan. Nó ngừng hoạt động năm 2020, nhưng các điểm như cửa hàng nước ngoài T誠品 Tín Nghĩa vẫn duy trì giờ mở cửa trong đêm, khiến chuyện đọc sách trở thành một lựa chọn cho đời sống đêm. [^3]
+Cửa hàng Eslite Dunnan đã hoạt động 24 giờ kể từ năm 1999, có vị thế mang tính biểu tượng đối với giới "người thức khuya" ở Đài Bắc và là một ví dụ thường thấy trong các bài báo của truyền thông nước ngoài về văn hóa đêm Đài Loan. Nó đã đóng cửa vào cuối tháng 5 năm 2020 do hết hợp đồng thuê; hiệu sách 24 giờ sau đó được tiếp nối bởi Eslite Xinyi, và sau khi chi nhánh Xinyi kết thúc hoạt động vào cuối năm 2023, nó lại được Eslite Songyan tiếp nối, khiến việc đọc sách vẫn là một lựa chọn trong đời sống về đêm của Đài Loan. [^3]
 
-Sự nổi lên của phòng tập thể dục mở cửa 24 giờ đem lại một nơi ổn định cho vận động đêm khuya, một số nhân viên văn phòng thích tập thể dục trong không gian yên tĩnh của đêm khuya. Loại nhịp sống phân tán giữa những khoảng thời gian khác nhau này, là chiến lược thích ứng tự nhiên sinh ra từ mật độ sinh sống thành phố của Đài Loan, cũng tạo thành cơ sở hạ tầng nền tảng của cách nói "hòn đảo không ngủ".
+Sự xuất hiện của các phòng gym 24 giờ đã cung cấp nơi ổn định cho việc tập luyện ban đêm; một số dân văn phòng có thói quen tận hưởng môi trường tập luyện yên tĩnh vào đêm khuya. Nhịp sống phân tán theo từng thời điểm này là một chiến lược thích ứng tự nhiên phát sinh trong mật độ đô thị của Đài Loan, và cũng cấu thành cơ sở hạ tầng nền tảng cho khái niệm "hòn đảo không ngủ".
 
-## Chợ đêm: sân khấu chính của đời sống đêm của thường dân
+## Chợ đêm: Sân khấu chính của đời sống dân dã
 
-Chợ đêm là hình thức đời sống đêm thô sơ nhất của Đài Loan. Chợ Tây Lâm, chợ Ninh Hạ, chợ Phùng Giai, chợ Lục Hợp, mỗi chợ đêm đều có nét cá tính độc đáo và món ăn nổi tiếng riêng. Gia đình ba thế hệ, cặp tình nhân, những nhóm bạn bè tập hợp lại, mỗi người tìm thấy niềm vui riêng tại chợ đêm, chợ đêm vì thế trở thành nơi tập hợp chung toàn bộ độ tuổi của Đài Loan.
+Chợ đêm là hình thức giải trí dân dã nhất của Đài Loan. Các chợ như Shilin, Ningxia, Fengjia và Liuhe đều có tính cách độc đáo và các món ăn đặc trưng riêng. Các gia đình ba thế hệ cùng nhau tụ họp, các cặp đôi, nhóm bạn bè tìm thấy niềm vui riêng tại chợ đêm; do đó, chợ đêm trở thành nơi giao lưu xã hội chung cho mọi lứa tuổi ở Đài Loan.
 
-Giờ mở cửa của chợ đêm thường là từ buổi chiều muộn đến đêm khuya, phù hợp với nhịp sống của người Đài Loan. Những trò chơi nhỏ khác nhau, các quầy hàng hóa, biểu diễn của những người nghệ sĩ đường phố khiến chợ đêm có chức năng vừa là nơi ăn uống, vừa là nơi mua sắm lẫn vui chơi. Đối với du khách nước ngoài, chợ đêm cũng là lối vào trực tiếp để hiểu biết văn hoá ăn uống thường dân của Đài Loan, hầu hết mọi tờ hướng dẫn du lịch Đài Loan đều sẽ liệt kê danh sách này.
+Giờ hoạt động của chợ đêm thường từ chiều đến khuya, phù hợp với nhịp sống của người dân Đài Loan. Các trò chơi nhỏ, các quầy hàng và màn trình diễn đường phố khiến chợ đêm vừa có chức năng ẩm thực, mua sắm vừa giải trí. Đối với du khách nước ngoài, chợ đêm là cánh cửa trực tiếp nhất để tìm hiểu văn hóa ẩm thực dân dã của Đài Loan, gần như mọi cuốn cẩm nang du lịch về Đài Loan đều liệt kê nó.
 
-Hình thái của từng chợ đêm khác nhau ở mỗi địa phương. Chợ Ninh Hạ ở Đài Bắc nổi tiếng với các món ăn vặt truyền thống kiểu Đài Loan, chợ Phùng Giai ở Đài Trung nổi tiếng với các món ăn vặt sáng tạo và các quầy hàng được ưa thích cao, chợ Lục Hợp ở Cao Hùng chạy con đường quan du lịch, đều có những khách hàng địa phương cố định riêng và tỷ lệ du khách ngoài vào khác nhau, tạo thành những mặt cắt đa dạng của văn hoá ăn uống thường dân Đài Loan. [^5]
+Các hình thái chợ đêm khác nhau ở mỗi nơi. Chợ đêm Ningxia ở Đài Bắc nổi tiếng với các món ăn truyền thống kiểu Đài Loan; chợ Fengjia ở Đài Trung nổi danh với các món ăn sáng tạo và các quầy hàng được yêu thích; còn chợ Liuhe ở Cao Hùng theo hướng du lịch, đều có lượng khách địa phương cố định và tỷ lệ khách du lịch ngoại quốc riêng biệt, cấu thành nên nhiều khía cạnh đa dạng của văn hóa ẩm thực dân dã Đài Loan. [^6]
 
-## Sự phát triển và những thách thức của đời sống đêm
+## Sự tiến hóa và thách thức của đời sống về đêm
 
-Đời sống đêm ở Đài Loan tồn tại sự khác biệt rõ ràng về thế hệ: những người lớn tuổi thích karaoke và tiệm ăn đêm khuya, nhóm tuổi trung niên có xu hướng chọn nhà hàng cao cấp hoặc quán bar whisky, thế hệ trẻ lại say mê những quán nhảy đêm, quán bar pha chế và nhà hàng chủ đề. Trong giai đoạn dịch bệnh, những hình thức như karaoke trực tuyến, pha chế rượu tại nhà tạm thời lấp đầy khoảng trống của những cuộc tập hợp trực tiếp, sau 2021 khi các hạn chế được nới lỏng, những nơi trực tiếp lần lượt hồi phục sự nổi bật.
+Đời sống về đêm ở Đài Loan tồn tại sự khác biệt rõ rệt giữa các thế hệ: người lớn tuổi thích karaoke và quán ăn khuya; nhóm trung niên có xu hướng ưa chuộng nhà hàng cao cấp hoặc quán bar rượu whisky; trong khi thế hệ trẻ lại đam mê hộp đêm, quán cocktail và nhà hàng theo chủ đề. Trong thời gian đại dịch, các hình thức KTV trực tuyến, pha chế tại nhà đã tạm thời lấp đầy khoảng trống của các cuộc tụ họp thực tế; sau khi các quy định được nới lỏng từ năm 2021, các địa điểm thực tế dần phục hồi sức hút.
 
-Sự phổ biến của những nền tảng giao hàng khiến lựa chọn thức ăn đêm khuya trở nên đa dạng hơn, không cần ra khỏi nhà cũng có thể tận hưởng các món ăn vặt chợ đêm hay đồ ăn xào nấu. Dịch vụ gọi xe làm cho di chuyển đêm khuya trở nên an toàn hơn, định vị GPS và thanh toán điện tử giảm bớt những mối quan tâm về đi lại đêm khuya. Những dịch vụ hỗ trợ này cùng nhau thúc đẩy sự tiến hoá của hệ sinh thái đời sống đêm ở Đài Loan.
+Sự phổ biến của các nền tảng giao đồ ăn đã làm cho lựa chọn ẩm thực đêm trở nên đa dạng hơn, người ta có thể thưởng thức món ăn chợ đêm hoặc món xào nóng mà không cần ra ngoài. Dịch vụ gọi xe giúp việc di chuyển vào ban đêm an toàn hơn; định vị GPS và thanh toán điện tử đã giảm bớt lo lắng khi đi lại vào đêm khuya. Các dịch vụ hỗ trợ này cùng nhau thúc đẩy sự tiến hóa của hệ sinh thái đời sống về đêm Đài Loan.
 
-Vấn đề bền vững của nền kinh tế đêm cũng đang được bàn luận. Những chợ đêm quan du lịch tập trung quá mức mang lại rác thải và vấn đề ô nhiễm tiếng ồn, một số tòa nhà KTV cũ kỹ những mối lo ngại về an toàn cần những quy tắc mới lạ, tình trạng lao động của những người làm việc vào ban đêm cũng nhận được sự chú ý. Những mặt cắt phong phú của đời sống đêm ở Đài Loan, được xây dựng trên sự hỗ trợ của những lực lượng dịch vụ đêm lớn, đây là một thực tế cấu trúc dễ bị bỏ qua đằng sau hình ảnh "hòn đảo không ngủ".
+Các vấn đề bền vững của kinh tế ban đêm cũng đang được thảo luận. Các chợ đêm du lịch quá tập trung gây ra vấn đề rác thải và tiếng ồn; các cơ sở KTV cũ có những lo ngại về an toàn cần được cập nhật quy định; điều kiện lao động của người làm việc vào ban đêm cũng đang thu hút sự chú ý. Sự phong phú của đời sống về đêm Đài Loan được xây dựng trên nền tảng lực lượng dịch vụ ban đêm khổng lồ, đây là một thực tế cấu trúc dễ bị bỏ qua đằng sau hình ảnh "hòn đảo không ngủ".
 
 ## Tài liệu tham khảo
 
-[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Tổng quan về nguồn gốc KTV và phát triển ngành công nghiệp KTV phòng hát kiểu Đài Loan.
+[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Tổng quan về nguồn gốc KTV và sự phát triển của ngành KTV phòng riêng Đài Loan.
 
-[^2]: [Vụ cháy Cashbox KTV — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8C%A2%E6%AB%83KTV%E7%81%AB%E7%81%BD) — Vụ cháy tòa nhà Trung Tiêu Đông Đường, Cashbox KTV, Đài Bắc tháng 4 năm 2020, diễn biến 5 người thiệt mạng và những cải cách an toàn sau đó.
+[^2]: [Tang Minh Hùng (湯銘雄) — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%8A%98%E9%9B%84) — Vụ hỏa hoạn tại "Thần Thoại Thế Giới KTV" ở phố Fushen, Đài Bắc ngày 21 tháng 11 năm 1992, khiến 16 người thiệt mạng.
 
-[^3]: [Hiệu sách T誠品 — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Lịch sử phát triển của hiệu sách T誠品, bao gồm khởi động dịch vụ 24 giờ của cửa hàng Đốn Nam và bản ghi ngừng hoạt động năm 2020.
+[^3]: [Eslite Books — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Lịch sử Eslite: Cửa hàng Dunnan hoạt động 24 giờ từ năm 1999; đóng cửa vào ngày 31 tháng 5 năm 2020, được tiếp nối bởi chi nhánh Xinyi; và sau đó là chi nhánh Songyan vào cuối năm 2023.
 
-[^4]: [Ủy ban Giao dịch Công bằng — Quyết định kết hợp công ty](https://www.ftc.gov.tw/) — Vụ sáp nhập Holiday của Cashbox năm 2017, quyết định phê duyệt có điều kiện.
+[^4]: [Ủy ban Công bằng cấm hai gã khổng lồ Holiday và Cashbox lần thứ tư vì ba lý do — Tạp chí Far Eastern Economic Weekly](https://www.gvm.com.tw/article/67870) — Ủy ban cấm hợp nhất vào tháng 8 năm 2019, ba lý do và "thị phần đạt bốn mươi lăm phần trăm"; xem thêm [Cashbox kiện Ủy ban Công bằng sau khi bị cấm kết hôn với Holiday – Thông tấn xã Trung ương](https://www.cna.com.tw/news/firstnews/202011260308.aspx), Tòa án Hành chính Cao cấp Đài Bắc phán quyết Cashbox thua vào ngày 26 tháng 11 năm 2020.
 
-[^5]: [Chợ đêm Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Phân bố các chợ đêm chính của Đài Loan, đặc trưng văn hóa và giới thiệu các chợ đêm đại diện, bao gồm Ninh Hạ, Phùng Giai, Lục Hợp, v.v.
+[^5]: [Vụ cháy lớn tại Cashbox Lâm Sơn, Đài Bắc — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E9%8C%A2%E6%AB%83%E5%A4%A7%E7%81%AB) — Vụ hỏa hoạn tại cửa hàng Lin Sen của Cashbox vào ngày 26 tháng 4 năm 2020: 6 người chết, 72 người bị thương; cháy do sạc pin, hệ thống cảnh báo bị tắt; ngày hôm sau, bốn chi nhánh bị tạm ngừng hoạt động để chỉnh đốn.
+
+[^6]: [Chợ đêm Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Phân bố các chợ đêm chính của Đài Loan, đặc điểm văn hóa và giới thiệu các chợ tiêu biểu như Ningxia, Fengjia, Liuhe.
 
 ## Đọc thêm
 
-- [Hệ thống giao thông Đài Loan](/lifestyle/台灣交通系統) — Cách giao thông đêm hỗ trợ văn hoá đời sống đêm
-- [Văn hoá cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化) — Mối quan hệ giữa cửa hàng tiện lợi 24 giờ và văn hoá thành phố không ngủ
-- [Tín ngưỡng tôn giáo Đài Loan](/culture/台灣宗教與寺廟文化) — Hội hè đêm và đời sống đêm của những lễ hội truyền thống
+- [Hệ thống giao thông Đài Loan](/vi/lifestyle/transportation-system) — Giao thông ban đêm hỗ trợ văn hóa đời sống về đêm
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Mối quan hệ giữa cửa hàng tiện lợi 24 giờ và thành phố không ngủ
+- [Tín ngưỡng tôn giáo Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Đời sống về đêm của các lễ hội truyền thống và chợ chùa ban đêm

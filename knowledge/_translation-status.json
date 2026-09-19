@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T06:41:12+08:00",
-    "zhCommitHead": "44f6dc37e",
+    "lastUpdated": "2026-09-20T06:50:10+08:00",
+    "zhCommitHead": "f43f52824",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1040,
-        "stale": 59,
+        "fresh": 1041,
+        "stale": 58,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 978,
-        "stale": 62,
+        "fresh": 979,
+        "stale": 61,
         "metadata_stale": 14,
         "missing": 70,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 14,
         "metadata_stale": 4,
-        "missing": 291,
+        "missing": 290,
         "orphan": 0
       }
     },
@@ -6968,8 +6968,8 @@
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "4324ae32",
+          "translationLastModified": "2026-09-20T06:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -6978,16 +6978,16 @@
         "ko": {
           "path": "ko/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:9913b1fbaa8895dd",
-          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
-          "translatedAt": "2026-05-15T13:52:06+08:00",
+          "sourceCommitSha": "2e88c5e31",
+          "sourceContentHash": "sha256:df07b8f5f0dd46a8",
+          "sourceBodyHash": "sha256:2f404ef3aa8b254f",
+          "translatedAt": "2026-09-20T00:52:36+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (9→7)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -35167,8 +35167,8 @@
           "sourceContentHash": "sha256:95cf1ca6d1302123",
           "sourceBodyHash": "sha256:a6d8e0ae74d03252",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "4324ae32",
+          "translationLastModified": "2026-09-20T06:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -35275,16 +35275,16 @@
         "ar": {
           "path": "ar/Art/contemporary-indigenous-art-taiwan.md",
           "translatedFrom": "Art/台灣原住民當代藝術.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:8e3303199d60c0c9",
-          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
-          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "sourceCommitSha": "5f683a19c",
+          "sourceContentHash": "sha256:95cf1ca6d1302123",
+          "sourceBodyHash": "sha256:a6d8e0ae74d03252",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "ec31f5d9",
           "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (17→6)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/contemporary-indigenous-art-taiwan.md",
@@ -49647,8 +49647,8 @@
           "sourceContentHash": "sha256:c31283732f5c82a4",
           "sourceBodyHash": "sha256:95652e4e6a2b2202",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4324ae32",
+          "translationLastModified": "2026-09-20T06:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -153369,8 +153369,8 @@
           "sourceContentHash": "sha256:623c5c57e9b6b622",
           "sourceBodyHash": "sha256:7e48fca3fca65812",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4324ae32",
+          "translationLastModified": "2026-09-20T06:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -162228,7 +162228,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
