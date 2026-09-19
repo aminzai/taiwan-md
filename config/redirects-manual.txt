@@ -165,3 +165,11 @@
 
 # 2026-09-19: vi 同源雙檔（台灣攝影兩份譯文，其中一份檔名譯成「越南攝影」），留與 en 同名那份，舊 URL 導回。
 /vi/art/vietnamese-photography /vi/art/taiwanese-photography/ 301
+
+# 2026-09-19: 合併營運機分岔後對齊 slug（en 為 canonical）；這幾個舊網址上線過，導回新檔名。
+/en/society/oo /en/society/i-am-from/ 301
+/es/technology/computex-taipei /es/technology/computex/ 301
+/fr/technology/computex-taipei /fr/technology/computex/ 301
+/ja/technology/computex-taipei /ja/technology/computex/ 301
+/ko/technology/computex-taipei /ko/technology/computex/ 301
+/ru/technology/miin /ru/technology/miin-music-app/ 301
