@@ -22,16 +22,12 @@ image: '/article-images/society/pts-building-b-2024.webp'
 imageCredit: 'Yu tptw / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Public_Television_Service_B_Building_20240316.jpg'
+rationale: "{'why_this_hook': '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。', 'whats_excluded': 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。', 'where_it_hedges': '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。', 'whos_pushing_back': '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'}"
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '81f10131f'
-sourceContentHash: 'sha256:5d55767b0e73ce88'
-sourceBodyHash: 'sha256:55150dbbe846399a'
-translatedAt: '2026-08-09T09:26:48+08:00'
-rationale:
-  why_this_hook: 'Bắt đầu từ sự kiện bị đuổi khỏi hội trường ngày 7/5/2026, kéo dài dòng thời gian 28 năm: 1997 thỏa hiệp pháp lý → 23 năm siết chặt → 2023 sửa luật rã đông → 2025 hỗn loạn cắt ngân sách → 2026 sự kiện hội trường. Hook không phải «Đài Loan Công cộng thiếu tiền» (cách viết v1), mà là «siết chặt gỡ bỏ sau khi logic chính trị tương tự được đặt hướng lại» - tuyến lỗi này.'
-  whats_excluded: 'Chi tiết quy trình biên tập nội bộ TaiwanPlus (sự kiện báo cáo Trump của Louise Watt đã đề cập các case tượng trưng, không khai triển toàn bộ 6 tranh chấp); lịch sử phát triển độc lập của kênh Khách Gia / kênh Đài ngữ / kênh Dân tộc (subcategory khác, dành cho bài viết chuyên biệt); danh sách hoàn chỉnh các giải thưởng sản xuất-phát hành của Đài Loan Công cộng (chi tiết giải Chuông vàng có giá trị thấp với độc giả, chỉ tham chiếu 32 giải của lần thứ 60); toàn bộ luận điểm của Đảng Xanh «TaiwanPlus là miệng loa của Đảng Dân chủ Tiến bộ» (đã sử dụng ankh Trần Học Thánh + Trần Ngọc Châu, không lặp lại khai triển).'
-  where_it_hedges: '«9 tỷ ngân sách nuôi phim ấn tượng» thực tế là 9 tỷ + trợ cấp dự án của Bộ Văn hoá + cộng tác quốc tế kết hợp (như «Mây xanh rực» Bộ Văn hoá trợ cấp 600 triệu, «Cô gái liên lạc ngoài cõi» cộng tác HBO Asia), trong bài dùng khái quát «ngân sách cơ bản 9 tỷ + lớp trợ cấp dự án tăng thêm từng lớp», không liệt kê chi tiết ngân sách mỗi phim. «2026 giấy thử độ trưởng thành dân chủ» là quan điểm, không phải bằng chứng thực nghiệm — dùng câu hỏi kết thúc để dành cho độc giả, không kết luận định đoạt.'
-  whos_pushing_back: 'Cử nhân Quốc Dân Đảng Trần Ngọc Châu, La Trí Cường, Trần Học Thánh (nghi ngờ tăng ngân sách, TaiwanPlus lệch lạc chính trị); nhà kinh doanh truyền hình thương mại (lo lắng lâu dài về mở rộng của Đài Loan Công cộng); bình thường với quan điểm «Đài Loan Công cộng không ai xem» (tỷ suất xem dài ngày thấp). Ba phía đều có chú thích chú dẫn.'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:672f8b4df1c422b7'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
+translatedAt: '2026-09-19T14:46:13.939211+00:00'
 ---
 
 > **Tóm tắt 30 giây:**

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T00:30:00+08:00",
-    "zhCommitHead": "acc6edd46",
+    "lastUpdated": "2026-09-20T00:38:55+08:00",
+    "zhCommitHead": "9624ea7be",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 61,
-        "metadata_stale": 65,
+        "metadata_stale": 64,
         "missing": 19,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 814,
+        "fresh": 815,
         "stale": 10,
         "metadata_stale": 4,
-        "missing": 296,
+        "missing": 295,
         "orphan": 0
       }
     },
@@ -47774,18 +47774,16 @@
         "vi": {
           "path": "vi/Society/learning-poverty-in-taiwan.md",
           "translatedFrom": "Society/學習貧窮.md",
-          "sourceCommitSha": "9d6716713",
-          "sourceContentHash": "sha256:87b9bdce32cd9e14",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
-          "translatedAt": "2026-07-18T18:59:52+08:00",
+          "translatedAt": "2026-09-19T11:59:06+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/learning-poverty-in-taiwan.md",
@@ -67263,7 +67261,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/About/how-an-article-is-born.md",
+          "translatedFrom": "About/文章如何誕生.md",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -67282,8 +67291,8 @@
           "sourceContentHash": "sha256:9c58394edee36ee3",
           "sourceBodyHash": "sha256:d9cb22f28bb753df",
           "translatedAt": "2026-09-19T11:59:01+08:00",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "9624ea7b",
+          "translationLastModified": "2026-09-20T00:30:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -99184,8 +99193,8 @@
           "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
           "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
           "translatedAt": "2026-09-19T11:59:01+08:00",
-          "translationLastCommit": "89b721a3",
-          "translationLastModified": "2026-09-18T21:24:38+08:00",
+          "translationLastCommit": "9624ea7b",
+          "translationLastModified": "2026-09-20T00:30:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -187539,8 +187548,8 @@
           "sourceContentHash": "sha256:7af3421e7470e32a",
           "sourceBodyHash": "sha256:5c337ebcf1a5b681",
           "translatedAt": "2026-09-19T08:36:39.851153+00:00",
-          "translationLastCommit": "7bfd013e",
-          "translationLastModified": "2026-08-09T09:34:54+08:00",
+          "translationLastCommit": "9624ea7b",
+          "translationLastModified": "2026-09-20T00:30:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",

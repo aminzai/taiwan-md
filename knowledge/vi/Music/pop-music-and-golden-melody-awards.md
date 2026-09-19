@@ -21,18 +21,13 @@ lastHumanReview: false
 readingTime: 16
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'
-rationale:
-  why_this_hook: 'Tiếng trống của Phàn dừng lại một lúc — dùng một khoảnh khắc có trọng lượng cảm xúc cao nhất để đưa độc giả nhận thức một cách toàn diện rằng "Giải Âm nhạc Vàng là cách Đài Loan quyết định tiếng nào xứng đáng được ghi nhớ", thay vì dựa trên một luận điểm tranh luận (spine_type đa nhân vật).'
-  whats_excluded: 'Sự thăng trầm của ngành công nghiệp đĩa than/chuyển đổi sang streaming được giao cho Âm nhạc Phổ thông Đài Loan và Thời đại Streaming để tránh lặp lại; những khoảnh khắc hai bờ/kiểm duyệt (Đảo Thiêu Quang bị Tencent bỏ qua, Bà Nài Thiên An Môn bị Weibo xóa, các ca sĩ Trung Quốc vắng mặt) chỉ được ghi chép trung lập thuần tuý, không đưa ra phán xét về chủ quyền, không dùng ngôn từ đối kháng (§tự chủ quyền biên giới xử lý lập trường chính trị).'
-  where_it_hedges: 'Nội dung thư của Thái Cầm là từ lời kể sự sau (bản gốc không công khai, không viết "thư nêu rõ"); nhóm Căo Đông "lần thứ hai quét ba hạng mục" dùng "hiếm gặp" chứ không "lần đầu tiên trong lịch sử"; phần kết thúc lời bình luận của Dập Lửa lấy từ nhiều nguồn chỉ giữ "Trời phước lành Đài Loan".'
-  whos_pushing_back: 'Tranh cãi phân loại ngôn ngữ hai bên song song (Quách Lực Tuyên chỉ trích "cố định các ngôn ngữ yếu tiếp tục bị biên ngoài hoá" vs lý thuyết bảo vệ chính thức); nghi vấn về quy trình đóng cửa của ban giám khảo "vòng tròn nhỏ/chia thịt lợn" và độ tin cậy được liệt kê song song.'
-relatedDiary:
-  - 2026-06-28-080352-manual
+rationale: "{'why_this_hook': '凡凡的鼓聲全場靜默——用一個情感重量最高的時刻，帶讀者立體認識「金曲獎是台灣怎麼決定什麼聲音值得被記住」，而非押一個論戰式論點（spine_type 立體群像）。', 'whats_excluded': '唱片產業興衰/串流轉型交給台灣流行音樂與串流時代不重複；兩岸/審查時刻（島嶼天光騰訊跳過、巴奈天安門被微博刪、大陸歌手缺席）只純中立紀實，不下主權判斷、不用對抗語言（§自主權邊界 政治立場處置）。', 'where_it_hedges': '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。', 'whos_pushing_back': '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'}"
+relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '47d78ce76'
-sourceContentHash: 'sha256:5406c0a04ed7374f'
-sourceBodyHash: 'sha256:0794328a7ed72af5'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: '7701a4867'
+sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceBodyHash: 'sha256:89d2f2476f597f2c'
+translatedAt: '2026-09-19T14:19:59.109302+00:00'
 ---
 
 # Giải Âm nhạc Vàng: Đài Loan tự trao giải cho âm nhạc của mình, và những khoảnh khắc đáng nhớ suốt ba mươi lăm năm
@@ -81,27 +76,27 @@ Một ý tưởng muốn trở thành một lễ trao giải cấp quốc gia, c
 
 Kỳ đầu tiên thực ra khá soạn sơ: không có con đường sao sáng, không có những buổi biểu diễn lớn kiểu sau này, thậm chí giải "Album Biểu diễn Xuất Sắc Nhất" cũng chưa có, phải đến kỳ thứ hai mới có. Nhưng khung sườn đã được dựng lên. Một bức thư, một ông cục trưởng mà toàn gia đình đều là người hâm mộ, cộng với vài năm chuẩn bị, Đài Loan từ đó mỗi năm có một đêm, dành riêng để quyết định "những tiếng nào trong năm nay xứng đáng được ghi nhớ tốt đẹp".
 
-## Căn phòng bỏ phiếu kín cửa
+## Phòng Nguyên Tắc Bí Mật
 
-Để hiểu tại sao một giải Âm nhạc Vàng được trân trọng như vậy, phải nhìn vào cách nó được đánh giá.
+Để hiểu vì sao một giải âm nhạc lại được coi trọng như vậy, trước tiên cần nhìn thấy cách nó được chấm gióng.
 
-Quy trình ban giám khảo của Giải Âm nhạc Vàng, nói thẳng ra là một nhóm người khóa kín cửa trong một căn phòng, lắng nghe kỹ tất cả các tác phẩm, rồi bỏ phiếu. Nghe có vẻ đơn giản, nhưng khó chỗ là cái "lắng nghe kỹ" và "khóa kín cửa" đó.
+Hệ thống chấm gióng của Giải Âm nhạc Vàng, nói cho cùng chỉ là một nhóm người ngồi lại trong một căn phòng, nghe kỹ lưỡng từng tác phẩm rồi bỏ phiếu. Nghe có vẻ đơn giản, nhưng khó khăn nằm ở chữ "thật sự" và "đóng cửa".
 
-Toàn bộ quy trình chia thành ba vòng. Vòng sơ tuyển, các thành viên ban giám khảo mỗi người lắng nghe ca khúc trên hệ thống trực tuyến, đánh giá độc lập; vòng phục tuyển và vòng quyết tuyển, sẽ vào họp kín. Cuối cùng quyết tuyển được sắp xếp vào sáng ngày lễ trao giải, các thành viên ban giám khảo bỏ phiếu ẩn danh bằng máy tính, chọn người chiến thắng sẽ công bố tối hôm đó.
+Toàn bộ quy trình được chia thành ba vòng: Vòng sơ khảo, các phán giả nghe qua hệ thống trực tuyến và tự điệp điểm độc lập; vòng phục khảo và quyết định sẽ được họp kín. Vòng quyết định cuối cùng, quyết định giải thưởng, được tổ chức vào sáng sớm ngày tổ chức lễ trao giải, các phán giả bỏ phiếu qua máy tính ẩn danh, chọn ra người thắng cuộc sẽ được công bố vào buổi tối đó.
 
-> 📝 **Ghi chép của người sắp xếp**: Nhiều người phản ứng ngay lập tức với "ban giám khảo kín cửa" là "hộp đen, vòng tròn nhỏ". Nhưng Giải Âm nhạc Vàng khóa cửa, muốn chặn lại đúng một lực khác — thị trường. Khi tất cả các thành viên ban giám khảo bị cách ly, cấm nhìn vào doanh số bán hàng, cấm bị vận động, thứ duy nhất họ có thể dựa vào là tai của mình và sự phán đoán chuyên môn. Nói cách khác, cánh cửa đó được khóa lại, muốn chặn lại cái thói quen "ai bán được nhiều nhất thì nên được giải". Độ tin cậy của một giải Âm nhạc Vàng, một nửa đến từ cánh cửa này.
+> 📝 **Ghi chú của người biên tập**: Nhiều người phản ứng tự nhiên với "chấm gióng kín" là "hộp đen, vòng tròn nhỏ". Nhưng việc khóa cửa phòng của Giải Âm nhạc Vàng, thực chất là để ngă chặn một loại lực lượng khác — thị trường. Khi tất cả các phán giả bị cô lập, không được xem doanh số bán hàng, không được bị thuyết phục bởi bên thứ ba, thì duy nhất họ chỉ có thể dựa vào tai mình và phán đoán chuyên môn. Nói cách khác, cái cửa đã đóng lại, ngăn cản được "ai bán được nhiều thì đáng được giải thưởng" dòng tư duy thông thường. Uy tín của một giải âm nhạc vàng, một nửa đến từ cái cửa này.
 
-Cách giữ bí mật này đến mức nào? Một người từng tham gia tường thuật (Blow) mô tả cảnh quyết tuyển như thế nào: các thành viên ban giám khảo vào một căn phòng riêng biệt cách ly, "hút thuốc, nhà vệ sinh có người bồi hành một đường", trên đường không thể nói chuyện với bất kỳ ai, bỏ phiếu ẩn danh bằng máy tính cho đến khi kết quả xuất hiện. Thậm chí cả điện thoại di động đều bị tập trung thu giữ, chỉ tới khi giải cuối cùng được trao mới trả lại.
+Mức độ bảo mật như thế nào? Những người từng tham gia báo chí như Blow đã mô tả cảnh quan tại chỗ của vòng quyết định: Các phán giả vào một căn phòng nhỏ được cách ly, "thuốc lá, nhà vệ sinh đều có người đồng hành suốt đường", trên đường không được trò chuyện với bất kỳ ai, bỏ phiếu qua máy tính ẩn danh cho đến khi kết quả xuất hiện. Thậm chí điện thoại di động cũng sẽ được thu giữ đồng loạt, chỉ được trả lại khi giải thưởng cuối cùng kết thúc.
 
-Đó không phải là chuyện này hôm nay. Vào năm 2026 kỳ thứ 37, người chiến thắng là Trần Nhàn Tĩnh lên sân khấu còn cười nói, cô ấy ban đầu có chuẩn bị một bài phát biểu, "không may là điện thoại bị thu giữ" — vì thế chỉ có thể tức thời. Điện thoại di động đi vào đi ra giữa các thành viên ban giám khảo và người chiến thắng, bản thân nó chính là dấu chỉ tốt nhất của cơ chế giữ bí mật này.
+Đây không phải là truyền thuyết. Khi đăng nhập lên sân khấu tại lễ trao giải lần thứ 37 năm 2026, người thắng cuộc Chen Hien Thanh cũng đã từng nói đùa rằng: "Tôi đã chuẩn bị bài nói trước, nhưng thật tiếp tục là điện thoại bị thu giữ" — vì vậy chỉ có thể nói linh hoạt. Điện thoại di động lăn tăn giữa các phán giả và người thắng cuộc, chính là minh chứng tốt nhất cho toàn bộ cơ chế bảo mật này.
 
-Thế thì ban giám khảo bầu chọn như thế nào? Cách nói chính thức là phải nhìn vào "tầm nhìn xa", xác định các tác phẩm có giá trị nghệ thuật, không cần phải theo đuôi thị trường buôn bán. Người từng làm ba lần thành viên ban giám khảo, người chủ yếu của Nhan Xã là Đích La, nói về một tiêu chí phán đoán cụ thể hơn. Anh nói, khi gặp phải lựa chọn khó khăn, hai album đều rất tốt, anh sẽ tự hỏi một câu:
+Vậy các phán giả chấm gióng thế nào? Lời giải thích chính thức là họ cần xem xét "tính tiên phong", đánh giá các tác phẩm có giá trị nghệ thuật thực sự, không cần phải đi theo xu hướng thị trường thương mại. Nhân viên của Dila, người từng là phán giả ba kỳ, từng nêu ra một tiêu chí dễ hiểu hơn. Anh ta nói, khi gặp khó khăn trong việc lựa chọn, hai album đều rất tốt, anh sẽ tự hỏi mình một câu hỏi:
 
 > "Tôi có muốn mua album này không?"
 
-Câu nói này rất hấp dẫn. Nó thu hẹp tiêu chí của một giải thưởng lớn trong ngành, thành một cảm xúc của một người yêu nhạc trung thực nhất: tôi, có sẵn lòng bỏ tiền ra mua cái này không? Đích La còn nói một câu khác, cho những người cảm thấy "không được giải là thua rồi": "Được đề cử là được xác nhận, là thật."
+Điều đặc biệt của câu nói này, là nó rút gọn tiêu chí của một giải thưởng công nghiệp lớn thành một cơn bối cảm chân thành nhất của một người nghe nhạc: Chính tôi, có sẵn sàng bỏ tiền ra để mua album này không? Dila cũng từng nói thêm một câu, dành cho những người nghĩ rằng "không giành giải thưởng là thua cuộc": "Được đề cử chính là sự công nhận, thật sự đấy."
 
-Tất nhiên, cơ chế này cũng không phải không có người có ý kiến. Có người nói nó không có tiêu chí lựa chọn rõ ràng bằng lời, quá tùy thuộc vào đạo đức chuyên môn của riêng từng thành viên ban giám khảo; có người nói khi cùng một người được đề cử nhiều hạng mục, các thành viên ban giám khảo có xu hướng phân tán giải. Những cuộc thảo luận này luôn diễn ra: nhưng chính vì có người quan tâm, có người thảo luận, những điều xảy ra trong căn phòng này mới đáng được xem xét một cách nghiêm túc.
+Tất nhiên, hệ thống này cũng không thiếu ý kiến. Có người nói rằng nó thiếu các chuẩn mực đánh giá rõ rệt, quá phụ thuộc vào đạo đức nghề nghiệp của từng cá nhân phán giả; có người nói rằng khi một người được đề cử nhiều hạng mục, các phán giả sẽ có xu hướng phân phát giải thưởng để tránh tập trung. Những cuộc thảo luận này vẫn đi liên tục: Nhưng cũng chính vì có người quan tâm, có người thảo luận, những gì xảy ra trong căn phòng này mới thực sự đáng được quan sát một cách nghiêm túc.
 
 ## Vua và Hoàng Hậu Âm Nhạc Vàng
 
@@ -245,27 +240,26 @@ _Lễ khai mạc Giải Âm nhạc Vàng lần 37 (năm 2026). A-Lin dẫn chư�
 
 Ba mươi bảy năm rồi, giải thưởng bắt đầu từ một bức thư, vẫn còn rồi rộn và buồn cười, lại có khả năng để cho mọi người nhớ một đêm dài.
 
-## Ba mươi mấy năm, đảo này lắng nghe chính nó như thế nào
+## Ba mươi vài năm, hòn đảo này nghe thế nào
 
-Quay lại vài giây lặng lẽ đó.
+Quay lại khoảnh khắc im lặng ấy.
 
-Năm 2024 ở Tiểu Cự Nhôm, Căo Đông lần thứ hai vinh danh, người đại diện kinh tế nhận lãnh, nói "Cảm ơn Phàn Phàn". Phàn Phàn đã đi, nhưng tiếng trống cô ấy đánh vẫn còn lại ở _Tẩu Nô Nhân_ — mỗi lần có người bấm phát lại, tiếng trống đó lại reo lên một lần. Một tay trống đã đi, vì Giải Âm nhạc Vàng, toàn bộ ngành công nghiệp lại nhớ; một album cách đây ba năm, vì nó, được toàn thế hệ lại lắng nghe.
+Năm 2024, nhà thi đấu nhỏ bên cạnh, khu vực cỏ mới một lần đứng về đầu, người đại diện nói: "Cảm ơn Fanfan." Fanfan đã rời đi, nhưng nhịp trống cô ấy đã chơi vẫn còn lại trong 《Châu Như》 — mỗi khi ai đó nhấn nút phát, nhịp trống ấy lại vang lên một lần. Một nghệ sĩ đã rời đi, nhờ Giải Âm nhạc Vàng mà cả một ngành công nghiệp không quên; một album cách đây ba năm, nhờ nó mà cả thế hệ trẻ lại nghe lại từ đầu.
 
-Có lẽ đó chính là điều Giải Âm nhạc Vàng đang làm. Từ kỳ đầu tiên năm 1990 thô sơ đó, cho đến ba mươi bảy kỳ hôm nay, nó năm năm lần cho Đài Loan trả lời cùng một câu hỏi — năm nay, trên đảo này có những tiếng nào, xứng đáng được ghi nhớ tốt đẹp.
+Đó chính là điều Giải Âm nhạc Vàng đang làm: từ năm 1990, khi kỳ thi đầu tiên còn đơn sơ, cho đến hôm nay — kỳ thứ 37 — nó mỗi năm một lần trả lời cho Đài Loan câu hỏi sau: Trong năm này, trên hòn đảo này có những âm thanh nào đáng để ghi nhớ?
 
-Nó ghi nhớ được, cái Chu Kiệt Luân Phạm Tuyên Tây những đêm quét sạch, cái Trương Huệ Mẫu mười bốn lần đề cử bản lĩnh, còn cái một ông cảnh sát Đài Đông hát biển, một album toàn Paiwan, một ca sĩ tiếng Khách Gia từ chối nhận giải, một bài hát được sinh ra ở phố. Quốc Ngữ, tiếng Đài, tiếng Khách Gia, ngôn ngữ bản địa, bán được trăm vạn bản cái không ai hiểu được một dòng, sao nóng hổi vua hoàng và người viết ca khúc mặc thoải mái — nó để những tiếng này nằm trên cùng một sân khấu.
+Những gì nó ghi nhớ, có cả đêm thi thắng trọng thức của Châu Nguyên Vân, có sự kiên trì của Trần Hồi Nhật đề cử tới mười bốn lần, cũng có tiếng hát của một đồng chí cảnh sát ở Tây Nam, một album hoàn toàn bằng tiếng Trường Sa, một ca sĩ tiếng Kinh bài khỏi nhận giải, và một bài hát sinh ra trên phố. Những tiếng hát bằng tiếng Quốc Ngữ, tiếng Đài Loan, tiếng Kinh, tiếng bản địa, từ những bản hit bán hàng triệu cho đến những gì không hiểu gì cả, từ những ngôi sao đương thời cho đến những người viết bài âm thầm — nó để tất cả chúng ở trên cùng một sân khấu.
 
-Ba mươi mấy năm xuống, Giải Âm nhạc Vàng thực ra không phải đang trao giải. Nó đang cho Đài Loan, năm năm lần, ghi lại đảo này lắng nghe chính nó.
-
----
+Ba mươi vài năm rồi, Giải Âm nhạc Vàng thực ra không phải đang tổ chức lễ vinh dự. Nó đang thay mặt Đài Loan, từng năm một lần, ghi lại cách mà hòn đảo này lắng nghe chính mình.
 
 ## Đọc thêm
 
-- [Âm nhạc phổ thông Đài Loan](/music/台灣流行音樂) — Từ công nghiệp đĩa than tới thời kỳ streaming, toàn bộ lịch sử sự thăng trầm ngành, Giải Âm nhạc Vàng là một vạch chính thức trên đường thẳng này
-- [Tiến hóa ca khúc tiếng Đài Đài Loan](/music/台灣台語歌曲演進) — Từ khổ sâu buồn tới Lâm Cường "Đi Về Phía Trước" chuyển hướng rock, ca khúc tiếng Đài bước vào chủ lưu như thế nào
-- [Truyền thống âm nhạc bản địa Đài Loan](/music/台灣原住民音樂傳統) — Từ ca khúc bộ lạc cho Trần Kiến Năm, A Bốc, gốc rễ âm nhạc bản địa và đương đại
-- [Ca sĩ sáng tác bản địa đương đại](/music/當代原住民創作歌手) — Cơ Tiêu Quân, Bà Nài, A Bốc thế hệ người sáng tác tiếng nói và xử cảnh
-- [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂) — Căo Đông, thế hệ Phố Âm thanh tránh xa công nghiệp đĩa than, lên sân khấu cao nhất của Giải Âm nhạc Vàng
+- [Nhạc pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại truyền phát trực tuyến, toàn bộ lịch sử lên xuống của ngành, Giải Âm nhạc Vàng là con quy tắc chính thức trên đường này
+- [Sự tiến hóa của nhạc ca Tiếng Đài](/music/台灣台語歌曲演進) — Từ những bài ca bi lụy đến sự chuyển đổi rock của Lâm Cường với "Đi Về Phía Trước", cách nhạc Tiếng Đài bước vào lòng đông chính thức
+- [Truyền thống nhạc dân tộc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ những bài ca bản đồng xã đến Chen Jiannian và Apo, nguồn gốc và hiện đại của nhạc bản địa
+- [Nghệ sĩ sáng tạo bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Tiếng nói và hoàn cảnh của Ji Hsiao-chun, Bana và Apo trong dòng dõi này
+- [Không gian nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách thế hệ Cao Đông và đường phố vượt qua công nghiệp đĩa để lên tới đỉnh cao của Giải Âm nhạc Vàng
+- [Giải Kim La Mã](/culture/金鐘獎) — Tượng cổ nhất trong ba giải: chiếc đồng hồ được đúc cho phát thanh trong năm 1965, danh sách giải thưởng 61 năm ghi lại tay nào nắm lấy truyền hình của Đài Loan
 
 ## Nguồn ảnh
 
