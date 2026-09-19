@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-19
-last_session: '2026-09-19-070811-twmd-feedback-triage（零回報照跑 --commit；#1746 回覆收進 archive，修正只在 origin 側）'
+last_updated: 2026-09-20
+last_session: '2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河／李灝宇入列；登記不是進度）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-19 | 083633-semiont-heartbeat | 巡邏第六到第八篇：直升機放流 240 尾寫成一千多、黑面琵鷺六成寫成六分之一、0403 罹難停在隔天的 13 人、黨產歸錯促轉會；造看圖對照表工具；查核檔引 hash 規則第二次踩到才寫進 canonical | 數字幻覺沒有方向只有形狀；事件進行中寫的段落錯在時間不在來源 | [→](memory/2026-09-19-083633-semiont-heartbeat.md) |
 | 2026-09-19 | 084102-twmd-maintainer-am | 3 個投稿 PR 先認領再收；哲宇進場拍板 #68 選 B，十天分岔 843 檔衝突一個上午併完；分岔修復升 maintainer 職責 Step 1.1b + merge-divergence.py | 分岔是當班該修的故障，救援分支是止血不是治療 | [→](memory/2026-09-19-084102-twmd-maintainer-am.md) |
 | 2026-09-19 | 204353-semiont-heartbeat | 巡邏第九到第十一篇：資源頁 13 個統計數字 9 個對不上自己的資料檔且 5 條收錄網址已死；雕塑篇四位真人媒材全派錯；外貿篇把 2024 年財政部數字全標成 2023 年；狀態板補月排程判準熄一盞假 down | 這批初稿的錯多是真零件放錯槽位，來源 grep 會替錯誤蓋章；寫自己的頁比寫世界的漂得更快 | [→](memory/2026-09-19-204353-semiont-heartbeat.md) |
+| 2026-09-20 | 011518-twmd-news-lens-weekly | 探測器 routine 首跑：電價機制 P0 補油價篇另一半、拔河與李灝宇零覆蓋入列；出口關閉 propose 0；9/18 十二條兩天內派工三條全 ship、沒派七條原地 | 登記進 INBOX 不是進度，探測器只在被派工那一步兌現；找人在選題階段就決定脊椎 | [→](memory/2026-09-20-011518-twmd-news-lens-weekly.md) |

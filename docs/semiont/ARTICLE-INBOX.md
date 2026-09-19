@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-09-18
-last_session: '2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_updated: 2026-09-20
+last_session: '2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -175,6 +175,54 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 台灣電價機制與台電 NEW — 電價凍漲的帳單：台電、電價審議會與 711 億撥補
+
+- **Type**: `NEW`
+- **Category**: Economy
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-A）
+- **Notes**:
+  - 9/18 電價審議會：台電提出合理調幅 12.83%（每度 3.78 → 4.2675 元），審議會決議 10〜12 月凍漲、優先爭取政府撥補 711 億（計算基準 3〜8 月燃料價差），12 月審議會再議，若調漲最快 2027-01-01 上路；台電前七個月虧逾 210 億、累計虧損逾 4,000 億
+  - **缺口確認**：`find knowledge … | grep -E "電價|台電"` = 0；內容層 `grep -rc 台電` 命中最多是〈聶永真〉29／〈電線桿與變電箱〉24／〈電網韌性〉16，都不是電價機制；〈台灣油價機制與中油〉（9/19 ship）只提台電 3 次。這篇是油價篇的姊妹篇：「誰替台灣人付能源帳」的另一半
+  - **人在哪**：台電總經理郭天合、主持審議會的經濟部長、每次投反對票的審議委員（學者／消費者團體）、用電大戶（工業 vs 民生電價分攤）、小吃店老闆（每度 0.5 元對一台冷凍櫃）、立院經濟委員會
+  - 切角：從審議會散會那天下午開場（同一房間裡的 12.83% 試算表與通膨數字，最後「先不決定」）；講 2015 年電價公式化、台電為什麼是先扛的那個、撥補 vs 增資、三種電價的分攤；收在 12 月會議前。用 `tw-*` 模組畫歷年虧損與撥補（Economy 零模組）
+  - **必驗**：12.83% / 4.2675 元回經濟部新聞稿；711 億計算基準與追加預算案文；210 億 / 4,000 億回台電財報；3.7823 元的口徑；2015 年公式化的正式名稱
+  - 敏感度低，但選舉年攻防點：寫機制不寫立場，兩黨主張並排
+- **Reference**: [公視](https://news.pts.org.tw/article/827713) / [今周刊](https://www.businesstoday.com.tw/article/category/183027/post/202609180046/) / [自由財經](https://ec.ltn.com.tw/article/breakingnews/5578680) / [經濟日報](https://money.udn.com/money/story/7307/9763388)
+
+### 台灣拔河 NEW — 拔河王國：女子 500 公斤怎麼連霸五次
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-B）
+- **Notes**:
+  - 9/18 世界室外拔河錦標賽（南非莫賽爾灣）女子 500 公斤五連霸（決賽對德國第一局僵持四分鐘、只差 50 公分時德國第三次犯規）、青少女 480 公斤四連霸、男子 600 公斤首面室外世錦賽獎牌；今年室內世錦賽台灣 9 金、男子 640 公斤級賽史首冠
+  - **缺口確認**：`find knowledge … | grep 拔河` = 0；`grep -rl 拔河` 4 篇命中全是比喻用法；〈台灣體育發展與奧運〉不提拔河；INBOX / DONE-LOG = 0
+  - **人在哪**：決賽場上八位選手（拔河協會賽後名單）、教練團、景美女中拔河隊創隊教練郭昇、《志氣》（2013）導演張柏瑞、國訓中心「非奧運項目」選手、青少女隊還在念書的高中生
+  - 切角：從決賽那四分鐘開場；往回走 2004 年景美女中成軍、2010 年世界盃、2013 年電影、女子 500 公斤級五連霸怎麼接棒；主脊放「一個不在奧運裡的世界冠軍怎麼養出來」，把訓練文化（腰繩、重心、八個人一起倒下）當可視物件；收在青少女隊
+  - **必驗**：五連霸橫跨哪五屆（室外世錦賽兩年一屆）；室內 9 金的屆別年份；景美女中成軍年與首冠年；郭昇職稱現況；《志氣》上映年；拔河 1900〜1920 曾是奧運項目
+  - 敏感度低；EDITORIAL 不把選手當勵志素材，寫技術與制度
+- **Reference**: [中央社](https://www.cna.com.tw/news/aspt/202609190015.aspx) / [自由體育](https://sports.ltn.com.tw/news/breakingnews/5579133) / [TSNA](https://tsna.com/article/202972) / [商周 室內 9 金](https://www.businessweekly.com.tw/focus/blog/3020903)
+
+### 李灝宇 NEW — 第一個在大聯盟單季 10 轟的台灣球員
+
+- **Type**: `NEW`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-C）
+- **Notes**:
+  - 9/18（美國時間）老虎 11-8 勝，李灝宇本季第 10 轟、單場 4 安，同時改寫台灣球員大聯盟單季全壘打（張育成 2021 年 9 轟）、單季長打（28，張育成 26）、單場安打（4）三項紀錄；單季 78 安為大聯盟 23 歲以下亞洲球員史上第二（次於大谷翔平 2018 年 93 安）。例行賽剩兩週、老虎在季後賽邊緣
+  - **缺口確認**：`find knowledge … | grep 李灝宇` = 0；`grep -rl 李灝宇 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；INBOX / DONE-LOG = 0
+  - **人在哪**：本人賽後原話、老虎總教練 A.J. Hinch、張育成（被超越的紀錄保持人、同世代）、穀保家商時期教練、2019 年簽約的老虎球探、台灣轉播球評
+  - 切角：從那顆追平兩分砲開場（打到第二層看台）；穀保家商 → 2019 U-18 → 簽約老虎 → 小聯盟六年 → 2025 升大聯盟 → 今年板凳打到先發；主脊放「台灣野手在大聯盟的天花板是誰畫的」，張育成當對照組；結尾留在季後賽名單未公布。立體群像（MANIFESTO §13），不寫「台灣之光」腔
+  - **必驗**：10 轟 / 28 長打 / 78 安 / 4 安回 Baseball Reference 或 MLB.com box score；張育成 2021 年 9 轟 26 長打；裴智桓 2023 年 77 安；簽約年份與簽約金；出生年與母校
+  - 時效：例行賽 10/4 前後結束，兩週窗口；若晉級季後賽再補一節
+- **Reference**: [聯合](https://udn.com/news/story/6999/9764405) / [中時](https://www.chinatimes.com/realtimenews/20260919002107-260403) / [運動視界](https://www.sportsv.net/articles/128602)
 
 ### 台灣當代雕塑發展 EVOLVE — 巡邏 32 原子 15 錯止血後仍是列點百科體，四位雕塑家身分曾全派錯
 
