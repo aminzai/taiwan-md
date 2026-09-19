@@ -282,7 +282,7 @@
   "ar:Culture/台灣茶文化.md": 5,
   "id:Economy/SLP台北創業領導計畫.md": 1,
   "pt:Society/台灣統獨光譜.md": 2,
-  "id:Lifestyle/收費站.md": 2,
+  "id:Lifestyle/收費站.md": 3,
   "id:People/林昶佐.md": 5,
   "pt:History/台灣鐵道史.md": 4,
   "ar:Culture/台灣傳統工藝與無形文化資產.md": 1,
@@ -706,7 +706,7 @@
   "en:Culture/澎湖民俗文化.md": 10,
   "fr:People/聶永真.md": 17,
   "ko:Culture/台灣感性.md": 4,
-  "en:People/王小棣.md": 2,
+  "en:People/王小棣.md": 3,
   "fr:People/吳明益.md": 1,
   "es:People/聶永真.md": 1,
   "es:People/吳明益.md": 4,
@@ -2081,7 +2081,7 @@
   "hi:People/韋宗成.md": 3,
   "ar:People/韋宗成.md": 5,
   "ar:History/台灣漁業現代化.md": 1,
-  "ru:People/韋宗成.md": 5,
+  "ru:People/韋宗成.md": 6,
   "hi:History/87水災.md": 3,
   "id:Culture/阿美族年齡階級.md": 1,
   "ar:History/台灣漁業起源.md": 1,
@@ -3648,7 +3648,7 @@
   "ar:Culture/台灣綜藝.md": 1,
   "ru:Lifestyle/台灣市場文化與傳統市場.md": 1,
   "en:Art/植劇場.md": 2,
-  "es:Art/植劇場.md": 1,
+  "es:Art/植劇場.md": 2,
   "ja:Art/植劇場.md": 2,
   "ar:Nature/國家公園.md": 1,
   "en:Technology/台灣電視產業史.md": 2,
@@ -3682,5 +3682,6 @@
   "ar:Society/公視.md": 1,
   "es:Lifestyle/吉祥物.md": 1,
   "fr:Society/學習貧窮.md": 1,
-  "hi:Culture/台灣綜藝.md": 1
+  "hi:Culture/台灣綜藝.md": 1,
+  "hi:Economy/台灣外貿與全球供應鏈.md": 1
 }
