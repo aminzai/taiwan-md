@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-4-FORMAT'
 description: 'REWRITE v9 stage contract — Stage 4：article-health 7 維度 / 多語 visual smoke / 媒體插入 6 子步（v9.0 修 4.3.6 撞號 → 4.3.7）'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.10'
+last_updated: 2026-09-19
+last_session: '2026-09-19-news-radar（v9.10：opening-readability.py 進 Step 4.1 與交付條件；tw-* 單篇 ≤ 4）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -37,6 +37,7 @@ upstream_canonical:
 ## 交付條件（stage 完成的定義）
 
 - [ ] `article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4` hard=0
+- [ ] `opening-readability.py knowledge/{Cat}/{slug}.md` ✅（前四段數字 ≤ 5／百字、句長 ≤ 45、口徑詞 < 4；WARN 級，超線要在 memory 說為什麼）；正文 `tw-*` 模組 ≤ 4
 - [ ] `--check=image-health` pass（depth：媒體 ≥ max(3, round(prose-CJK/1200))）
 - [ ] 文末 `## 圖片來源` 段與授權矩陣一致；`check-aspect.sh` 過
 - [ ] （i18n 改動時）多語 visual smoke 6 步過
@@ -61,11 +62,14 @@ upstream_canonical:
 
 ### Step 4.1: article-health.py --profile=rewrite-stage-4
 
-#### 強制執行（不是建議，是反射）
+#### 強制執行
 
 ```bash
 python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profile=rewrite-stage-4
+python3 scripts/tools/opening-readability.py knowledge/{Category}/{文章}.md   # 前四段可讀性（v9.10）
 ```
+
+`opening-readability.py` 量三件機械化得了的事：前四段數字密度、平均句長、口徑限定詞重複次數，基準線是〈黃魚鴞〉（1.5／百字、31 字）。它抓不到「有沒有人」——2026-09-18〈金鐘獎〉v1 開場是八家電台的名單，在這把尺上是綠的。有沒有人靠 Stage 1A 交付條件「正文有人」與 Stage 0 的論點。
 
 `rewrite-stage-4` profile plugin（HARD all；清單與數量以 `article-health.py --list-checks` 為準）：
 

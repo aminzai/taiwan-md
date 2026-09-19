@@ -96,7 +96,7 @@ AI 最大的問題是「知道一點就開始編」。Taiwan.md 的做法是反�
 
 #### 搜尋量化標準（depth article，2026-06-04 v1.3 對標研究所論文升級）
 
-> canonical 數值在 [REWRITE-PIPELINE Step 1.1](../pipelines/REWRITE-PIPELINE.md)（Stage 0 探索 ≥20 + Stage 1 ≥80 = 全篇 ≥100）。本表是 depth-article 的來源多樣性配額，由 `research-report-health.py` 驗收。
+> canonical 數值在 [REWRITE-PIPELINE Step 1.1](../pipelines/REWRITE-PIPELINE.md)（Stage 0 探索 ~20 + Stage 1 ~80 = 全篇 ~100，天花板不是下限；v9.10）。本表是 depth-article 的來源多樣性配額，由 `research-report-health.py` 驗收。
 
 | 來源類別                   | 最低配額 | 目標                                              |
 | -------------------------- | -------- | ------------------------------------------------- |

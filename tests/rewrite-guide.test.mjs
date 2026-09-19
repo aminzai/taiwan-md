@@ -51,10 +51,6 @@ function submission(g) {
     input.data.draftPath = 'draft.md';
     input.artifacts = ['draft.md'];
   }
-  if (task.stage === 'cold-read') {
-    input.data.contextDisclosure = 'fresh-context-draft-only';
-    input.artifacts = ['draft.md'];
-  }
   return input;
 }
 function review(g, verdict = 'accept') {
@@ -70,14 +66,14 @@ function advance(g) {
   g.submit('case', submission(g));
   return g.review('case', review(g));
 }
-test('all six stages need external decisions; section never becomes a published article', (t) => {
+test('all five stages need external decisions; section never becomes a published article', (t) => {
   const { guide: g } = fixture(t);
-  for (let i = 0; i < 6; i++) advance(g);
+  for (let i = 0; i < 5; i++) advance(g);
   const state = g.status('case');
   assert.equal(state.status, 'section-draft-ready');
   assert.equal(state.published, false);
   assert.equal(state.original.text, 'Original article');
-  assert.equal(Object.keys(state.accepted).length, 6);
+  assert.equal(Object.keys(state.accepted).length, 5);
   assert.throws(() => g.submit('case', submission(g)), /not accepting/);
 });
 test('wrong stage, stale task, missing field, empty evidence and self review cannot advance', (t) => {
@@ -137,7 +133,7 @@ test('editing a draft invalidates composition onward without losing accepted res
   advance(g);
   writeFileSync(join(root, 'draft.md'), 'Revised draft');
   assert.throws(
-    () => g.backtrack('case', 'cold-read', 'Reread'),
+    () => g.backtrack('case', 'verify', 'Recheck'),
     /backtrack to compose/,
   );
   g.backtrack('case', 'compose', 'Correct the conclusion');
@@ -159,19 +155,6 @@ test('revise and block preserve history, and forward skipping is rejected', (t) 
   assert.throws(() => g.submit('case', submission(g)), /not accepting/);
   g.backtrack('case', 'orient', 'New evidence resolves the block');
   assert.equal(g.status('case').submissions.length, 2);
-});
-test('cold reader must disclose the context boundary', (t) => {
-  const { guide: g } = fixture(t);
-  advance(g);
-  advance(g);
-  advance(g);
-  assert.deepEqual(g.next('case').inputs, ['draft.md']);
-  const input = submission(g);
-  input.data.contextDisclosure = 'I read the blueprint';
-  g.submit('case', input);
-  assert.throws(() => g.review('case', review(g)), /new reader/);
-  g.review('case', review(g, 'block'));
-  assert.equal(g.status('case').status, 'blocked');
 });
 test('path escapes, unsafe ids, storage symlinks and concurrent writers fail closed', (t) => {
   const { guide: g, root } = fixture(t);
@@ -204,7 +187,7 @@ test('HTML export escapes submitted prose and review content', (t) => {
   const html = renderRun(g.status('case'));
   assert.ok(html.includes('&lt;script&gt;'));
   assert.ok(!html.includes('<script>'));
-  assert.equal((html.match(/<svg /g) || []).length, 6);
+  assert.equal((html.match(/<svg /g) || []).length, 5);
 });
 
 test('CLI returns machine-readable errors for malformed JSON and unknown commands', (t) => {

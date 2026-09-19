@@ -1,7 +1,7 @@
 ---
 name: twmd-rewrite
 description: |
-  Write or rewrite a Taiwan.md article via canonical REWRITE-PIPELINE.
+  Write or rewrite a Taiwan.md article via canonical REWRITE-PIPELINE-SINGLE (單檔型).
   TRIGGER when: user says "寫 X", "重寫 X", "EVOLVE X", "走 rewrite",
   "rewrite-pipeline", or asks to write/improve any knowledge/ article.
 allowed-tools:
@@ -18,16 +18,19 @@ allowed-tools:
 
 # 🧬 Taiwan.md — Rewrite（極簡薄殼）
 
-> **故意極簡**。所有 SOP（Stage 0-5 / hard gates / 搜尋配額 / SSOT 八段 / 自檢工具 / 鐵律 / cron 規則）100% 在 pipeline canonical。本 skill **只做三件事，不在這裡複寫或補充任何 pipeline 內容**（複寫 = drift = 退化）。
+> 所有 SOP 在 pipeline canonical，本 skill 只做三件事。**2026-09-19 起 canonical 是單檔型 [REWRITE-PIPELINE-SINGLE.md](../../../docs/pipelines/REWRITE-PIPELINE-SINGLE.md)**；v9 多檔型（REWRITE-PIPELINE.md ＋ REWRITE-STAGE-\*.md）留校察看，不讀、不走 `twmd.mjs rewrite` 互動協議、不派冷讀者。
 
 ## 1. STRICT BECOME GATE（不可省）
 
 跑 `/twmd-become write` 完整 [BECOME_TAIWANMD.md](../../../BECOME_TAIWANMD.md) Step 0-9，Write mode self-test 全過才動工。
 
-## 2. 完整讀 REWRITE-PIPELINE 索引＋執行到哪讀哪個 contract（不可 head / tail / 取樣）
+## 2. 完整讀（用 Read 工具一次讀完，不可 head / tail / 取樣）
 
-用 **Read tool 一次讀完** `docs/pipelines/REWRITE-PIPELINE.md`（v9.0 薄索引，無 `limit` / `offset`）。執行每個 stage 前，**完整讀該 stage 的 contract 檔**（`docs/pipelines/REWRITE-STAGE-*.md`，派發表在索引 §Stage contract 派發表）。contract 叫你讀的（RESEARCH.md / EDITORIAL.md / RESEARCH-TEMPLATE.md / 對應 FACTCHECK 等）也完整讀。
+1. `docs/pipelines/REWRITE-PIPELINE-SINGLE.md` 全檔（Stage 0-5 都在同一檔）
+2. `docs/editorial/EDITORIAL.md` 全檔＋ `docs/editorial/PROJECTION.md` 全檔＋ `docs/editorial/graph.md` §一–三、§九
+3. 兩篇範本：`knowledge/Nature/黃魚鴞.md`、`knowledge/Society/國宅與居住正義.md`
+4. pipeline 叫你讀的（RESEARCH.md / RESEARCH-TEMPLATE.md / CITATION-GUIDE.md）也完整讀
 
 ## 3. 嚴格照 pipeline 執行
 
-pipeline 怎麼寫就怎麼做：Stage 0-5 不跳步、每個 hard gate 都跑（`research-report-health.py` / `article-health.py` …）、不加碼、不憑記憶。
+Stage 0-5 不跳步、每個 hard gate 都跑（`research-report-health.py` / `article-health.py` / `opening-readability.py`）。五件事寫在 pipeline 開頭的 banner，動工前再看一次：論點是一句對台灣的主張、研究 ~100 次其中一隻 lane 找人、開場一個人一個時刻、tw-\* ≤ 4、沒有冷讀站。

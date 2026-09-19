@@ -147,7 +147,7 @@ SOP 是基因表達的必經路徑，高於建議層級。繞過 SOP = DNA 突�
 | 任務類型                               | Pipeline canonical                                                                                                                                                          |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | PR review / Issue triage               | [`MAINTAINER-PIPELINE.md`](../pipelines/MAINTAINER-PIPELINE.md)                                                                                                             |
-| 寫文章 / EVOLVE 文章                   | [`REWRITE-PIPELINE.md`](../pipelines/REWRITE-PIPELINE.md)                                                                                                                   |
+| 寫文章 / EVOLVE 文章                   | [`REWRITE-PIPELINE-SINGLE.md`](../pipelines/REWRITE-PIPELINE-SINGLE.md)（單檔型，2026-09-19 起；v9 多檔型留校察看）                                                         |
 | 寫 memory                              | [`MEMORY-PIPELINE.md`](../pipelines/MEMORY-PIPELINE.md)                                                                                                                     |
 | 寫 diary                               | [`DIARY-PIPELINE.md`](../pipelines/DIARY-PIPELINE.md)                                                                                                                       |
 | 翻譯（單篇）                           | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md)                                                                                                           |

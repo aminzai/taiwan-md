@@ -11,7 +11,7 @@ export const STAGES = [
       'uncertainties',
     ],
     prompt:
-      '先用朋友聽得懂的話說明主題本身。讀者為什麼打開？提出至少兩個可被材料推翻的角度，不急著宣判核心矛盾。列出未知；不要把缺少搜尋結果當成現實缺席。',
+      '先用朋友聽得懂的話說明主題本身。讀者為什麼打開？提出至少兩個可被材料推翻的角度，每個角度都是一句對台灣的主張，主詞是人、機構、制度或事件，不是「這場討論」本身。列出未知；不要把缺少搜尋結果當成現實缺席。',
   },
   {
     id: 'investigate',
@@ -19,7 +19,7 @@ export const STAGES = [
     role: 'researcher',
     fields: ['claims', 'counterEvidence', 'searchLimits', 'changedMind'],
     prompt:
-      '每個承重主張附來源 URL、原始段落位置、查閱日期、支持到哪裡與不支持什麼。分開事實、推論和查無。搜尋數不是品質證明；哪份反證改變了原先角度？必要時退回 orient。',
+      '每個承重主張附來源 URL、原始段落位置、查閱日期、支持到哪裡與不支持什麼。分開事實、推論和查無。至少三個站在不同位置的真實的人（特寫、訪談、逐字感言、社群原帖），找不到就寫找不到。搜尋數不是品質證明；哪份反證改變了原先角度？必要時退回 orient。',
   },
   {
     id: 'compose',
@@ -27,22 +27,7 @@ export const STAGES = [
     role: 'writer',
     fields: ['draftPath', 'editorialChoices', 'unresolved'],
     prompt:
-      '寫完整且能讀的稿；局部試寫只完成指定範圍。讓動作、場景、轉折和有意義的材料推動理解，勿虛構紀實場景。可以改順序；發現論點錯了就 backtrack。刪減理由留在工作紀錄，不灌進正文替自己辯護。',
-  },
-  {
-    id: 'cold-read',
-    title: '把稿交給沒看過藍圖的人',
-    role: 'reader',
-    fields: [
-      'contextDisclosure',
-      'retelling',
-      'changedUnderstanding',
-      'confusions',
-      'repetitions',
-      'forcedConclusions',
-    ],
-    prompt:
-      '只讀這份稿，不看研究與作者藍圖。用自己的話說這是什麼、發生了什麼；指出哪個細節改變你的理解、哪裡困惑或重複、哪裡被強推結論。不是檢查作者是否完成自己的計畫。若已看過藍圖，明說不是獨立盲讀並換讀者。',
+      '寫完整且能讀的稿；局部試寫只完成指定範圍。開場是一個人在一個時刻做一件事，不是機關公布數字。讓動作、場景、轉折和有意義的材料推動理解，勿虛構紀實場景；每段最多一個要讀者記住的數字，口徑限定詞正文只解釋一次，其餘進腳註。可以改順序；發現論點錯了就 backtrack。',
   },
   {
     id: 'verify',
@@ -72,9 +57,6 @@ export const FIELD_TYPES = {
   counterEvidence: 'notes',
   searchLimits: 'notes',
   unresolved: 'notes',
-  confusions: 'notes',
-  repetitions: 'notes',
-  forcedConclusions: 'notes',
   sourceChecks: 'notes',
   remainingLimits: 'notes',
 };

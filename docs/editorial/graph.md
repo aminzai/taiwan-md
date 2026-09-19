@@ -4,8 +4,8 @@ description: '文章內視覺化的 DNA 層 canonical：何時用哪種圖、怎
 type: 'editorial-canonical'
 status: 'canonical'
 current_version: 'v3.1'
-last_updated: 2026-08-19
-last_session: '2026-08-19-tw-article-embed'
+last_updated: 2026-09-19
+last_session: '2026-09-19-news-radar（v3.1：單篇 tw-* 上限 4；採用率算文章佔比不算單篇模組數）'
 sister_docs:
   - 'EDITORIAL.md'
   - 'RESEARCH.md'
@@ -453,6 +453,7 @@ v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption �
 ## 九、邊界 + v4 候選
 
 - **不是每篇都要有圖**。沒有適合的資料就誠實不加（避免 chartjunk）。REWRITE-PIPELINE Stage 2 只要求**評估過**視覺化候選，不要求硬塞。
+- **單篇上限 4 個模組**（2026-09-19）。2026-09-18 三篇各塞 11-13 個，哲宇讀後「過度強調數字」；隔天砍到 2-4 個重做，文章反而看得見人。一張圖回答一個資料關係，第五張通常是把腳註畫出來。採用率的指標算「有模組的文章佔比」，不算「單篇模組數」——後者只會獎勵堆砌。〈國宅與居住正義〉5 個、〈黃魚鴞〉0 個，兩篇都是哲宇點名喜歡的。
 - **Hub 頁 / 短修正 / 純人物抒情文**：可不用。
 - **markdown 資料表 vs 模組的分界**（2026-07-16 審計，161 篇用表格是用模組的 3.2 倍）：**數值矩陣／趨勢／現況-目標類轉模組**（讀者要看形狀）；**質性對照／規格型錄留表格**（機型表、制度手法表——表格本身是一等視覺化，不是退路，Datawrapper 2025 使用數據第一名就是 table）。
 - **模組外的複雜需求**：退回 prose + 資料表，不硬幹重 JS。HARD 類型都有 EASY 替代：

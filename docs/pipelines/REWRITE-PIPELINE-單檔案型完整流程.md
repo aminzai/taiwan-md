@@ -4,8 +4,8 @@ description: '文章改寫流程單檔閱讀版（工具生成，不要手改）
 type: 'pipeline-canonical'
 status: 'canonical'
 current_version: 'v9.9-single'
-last_updated: 2026-09-07
-last_session: '2026-09-07-164559-audit-upgrade（v9.9：新增可執行 Rewrite Guide 入口，既有發布契約保留）'
+last_updated: 2026-09-19
+last_session: '2026-09-19-news-radar（留校察看：v9 多檔型暫停，/twmd-rewrite 對齊單檔型 REWRITE-PIPELINE-SINGLE.md v6.8）'
 generated_from:
   - 'REWRITE-PIPELINE.md@46935d4a5c'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af37887'
@@ -16,10 +16,10 @@ generated_from:
   - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e320'
   - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d5'
   - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0a'
-  - 'REWRITE-STAGE-3-VERIFY.md@f4d1643ac6'
+  - 'REWRITE-STAGE-3-VERIFY.md@b29031d380'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b1'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d5'
-generated_at: '2026-09-19T08:58:17+08:00'
+generated_at: '2026-09-19T10:06:38+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
@@ -211,14 +211,14 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 **跟前兩型的差別（一張表）**：
 
-|              | 立體群像                     | **多觀點立場議題探討矛盾型**                       | 矛盾驅動（單軸）               |
-| ------------ | ---------------------------- | -------------------------------------------------- | ------------------------------ |
-| 適用         | 受愛戴的人／機構／傳統／地方 | **公共議題，多方都有正當立場**                     | 內在張力人物、單一可辯 claim   |
-| 矛盾的地位   | 一個 facet（手法 1 為輔）    | **脊椎，但矛盾是結構性且未解的**                   | 脊椎，文章替一個 thesis 辯護   |
-| 論點形態     | 統合式洞見                   | **「這場爭論的形狀是什麼」＋「誰的帳沒被算」**     | 可被反駁的主張，文章證明它     |
-| 收束         | 慶祝＋理解＋廣度             | **不收束成一方勝出**；但明確指出重心被放錯在哪     | 收束成一個立場                 |
-| 讀者離場     | 「原來如此，真好」           | **「我知道在吵什麼，也知道自己還缺哪塊判斷依據」** | 「我被說服了／我想反駁」       |
-| 最大失敗模式 | 慶祝式面向清單（維基化）     | **(a) 退回立體＝把不對稱寫平 (b) 滑成單軸＝選邊**  | contrarian thesis 硬塞受愛戴題 |
+|              | 立體群像                     | **多觀點立場議題探討矛盾型**                                                                 | 矛盾驅動（單軸）               |
+| ------------ | ---------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------ |
+| 適用         | 受愛戴的人／機構／傳統／地方 | **公共議題，多方都有正當立場**                                                               | 內在張力人物、單一可辯 claim   |
+| 矛盾的地位   | 一個 facet（手法 1 為輔）    | **脊椎，但矛盾是結構性且未解的**                                                             | 脊椎，文章替一個 thesis 辯護   |
+| 論點形態     | 統合式洞見                   | **一句對台灣的主張，讀者可以反駁**（跟單軸一樣要押；差別只在文章替多方留位置，不替一方辯護） | 可被反駁的主張，文章證明它     |
+| 收束         | 慶祝＋理解＋廣度             | 收束成那句主張；各方的正當立場是主張的證據，不是替代品                                       | 收束成一個立場                 |
+| 讀者離場     | 「原來如此，真好」           | 「我知道在吵什麼，也知道這篇認為什麼、我同不同意」                                           | 「我被說服了／我想反駁」       |
+| 最大失敗模式 | 慶祝式面向清單（維基化）     | **(a) 退回立體＝把不對稱寫平 (b) 滑成單軸＝選邊 (c) 後設論點＝把「這場討論長什麼樣」當主張** | contrarian thesis 硬塞受愛戴題 |
 
 **判準（v7.9 起三問，取代舊的兜底）**：
 
@@ -239,6 +239,8 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 4. **但沉默不可被代言**。查不到某一方的聲音 → 如實寫「找不到」＋列出可能原因，**不選一個當結論**。
 5. **關於「討論本身」的 negative finding 是合法內容**（例：查無任何人用「妥協」框架定性此法）。第三型特別容易誘發「為了平衡而製造反方」，negative finding 是對治工具。
 6. **官方的「不回答」是可寫的主體**。公共議題幾乎都有一層「大家以為它說了什麼」——**把二手 gloss 跟法條／官方文件原文分開查**（外送專法的「去身分、重權益」全網通行，但不是法條文字）。
+
+**論點不准後設（v9.10，2026-09-19）**：v7.8 到 v7.9 這一格寫的是「這場爭論的形狀是什麼＋誰的帳沒被算，不收束成一方勝出」。2026-09-18 三篇第三型（誰算低薪／油價機制／金鐘獎）同日照這條寫出「吵的是哪一欄」「吵的是哪個口徑」「它記錄，它不決定」三句論點，全部通過編輯室、冷讀與 release，哲宇讀後：「像堆砌，不像有主見的分析」。爭論的形狀可以當骨架，不能當主張；論點的主詞必須是人、機構、制度或事件，不是「這場討論」。隔天同三篇換成「最低工資守住了本薪，低薪搬進了年終那一欄」「便宜靠中油站在最前面先扛，誰用最多沒人統計」「金鐘每年替『我們的電視』劃一次線」重做，閱讀感明顯不同（LESSONS `third-type-thesis-defaults-to-meta-observation`）。
 
 **校準數據（外送專法實跑，供後續同型參考）**：7 節、9,700 CJK、62 腳註、6 個 tw-\* 模組。H2 篇幅平衡（706–1,962 CJK）**但四方提及次數嚴重不均**（外送員 128／平台 101／消費者 27／店家 19）——**這是第三型的系統性傾向**：可得來源最少的一方必然最薄。正確處置不是硬湊平衡，是**把那個不對稱本身寫成一個 facet**（該篇 s6 的作法）。
 
@@ -526,7 +528,7 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
   - 找出未知的支線敘事與多元面貌（讓我知道有哪些角度可以深挖）
   - **盤點來源地圖**：這題有哪些中文一手（官方/年報/法規/學術）、哪些英文/國際/學術視角、哪些反方陣營——標出來給 Stage 1 deep-dive 排程
   - 確認類型加權矩陣的問題能不能對應到具體素材
-- **Stage 1.1 深度搜尋**：**≥ 80 次**（v6.4 升級），目的是**驗證 / 反駁觀點 + triangulate + 累積寫作素材**
+- **Stage 1.1 深度搜尋**：**~80 次天花板**（v9.10；其中約 15 次找人），目的是**驗證 / 反駁觀點 + triangulate + 累積寫作素材**
 
 **全部 ≥ 20 次探索搜尋的 query + 一句話發現必須寫進 research report §探索搜尋紀錄**（per Step 1.7 SSOT 鐵律——搜了沒寫回 = 沒搜）。觀點不需要在 Stage 0 完全鎖死，Stage 1 會 refine；但「先搜夠 20 次再下觀點」是硬要求，避免 searched-first 補丁式觀點。
 
@@ -775,14 +777,14 @@ REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）
 
 ### 執行卡
 
-|                  |                                                                                                                                                                                                  |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **職責**         | 帶 Stage 0 問題執行搜尋（**全篇 ~150 總量中的 Stage 1 份額 ~120-130，四隻各 ~30**；中≥40/英≥20/一手≥15/反方≥5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）**       |
-| **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                    |
-| **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                 |
-| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                      |
-| **GATES**        | 每份分部報告收件當下：`python3 scripts/tools/agent-report-health.py {file} --claimed {配額}`（FAIL 不准合成）；stage 終：`python3 scripts/tools/research-report-health.py {report} --tier=depth` |
-| **context 預算** | orchestrator 本檔＋收件；各研究 agent 只吃 RESEARCH-AGENT-PROMPT 填槽 prompt                                                                                                                     |
+|                  |                                                                                                                                                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 帶 Stage 0 問題執行搜尋（**全篇 ~100 總量中的 Stage 1 份額 ~80，三隻各 ~25-30、四隻各 ~20**；人~15/中~30/英~15/一手~15/反方~5）、收斂矛盾或組織主軸、組裝八段研究報告 SSOT、**整合與清理（1.7.5 六判準）** |
+| **執行者**       | orchestrator（主 session）＋ N 個 parallel Sonnet 研究 agent（prompt 一律 [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md) 填槽，禁即興）                                                              |
+| **INPUTS**       | research report §觀點成型（Stage 0 產物）；RESEARCH.md；RESEARCH-AGENT-PROMPT.md                                                                                                                           |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md`（八段合成單檔；sibling raw 收件後 consolidate 刪除）                                                                                                                |
+| **GATES**        | 每份分部報告收件當下：`python3 scripts/tools/agent-report-health.py {file} --claimed {配額}`（FAIL 不准合成）；stage 終：`python3 scripts/tools/research-report-health.py {report} --tier=depth`           |
+| **context 預算** | orchestrator 本檔＋收件；各研究 agent 只吃 RESEARCH-AGENT-PROMPT 填槽 prompt                                                                                                                               |
 
 ### AGENT PROMPT
 
@@ -796,6 +798,7 @@ REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）
 - [ ] **整合與清理六條判準過（Step 1.7.5）**——合成層零任務指涉、verification 三層是「決定」形態、Findings 事實自足
 - [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0／**合成層過程噪音 ≤3**）
 - [ ] frontmatter 核心矛盾（或組織主軸＋facet）已鎖
+- [ ] **正文有人**：研究報告 §4 引語庫裡至少三個站在不同位置的真實的人（當事人／付錢或做決定的人／算尺或評論的人），沒有就在 §5 護欄寫「找不到」＋原因，不准 Stage 2 用官員與立委的公文引語填。誕生：2026-09-18 三篇（誰算低薪／油價機制／金鐘獎）研究全挖官方文件，正文只有副處長與立委說話，哲宇「沒有人味、像堆砌」；隔天各補一輪只找人的研究（14-30 次）就找到 8-15 個人，文章換了一張臉（v9.10）
 
 ### HANDOFF（stage 完成時）
 
@@ -818,50 +821,25 @@ REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）
 - `docs/editorial/RESEARCH.md`（方法論：搜尋策略、來源判斷、避坑指南）
 - `docs/editorial/RESEARCH-TEMPLATE.md`（填空模板）
 
-#### Step 1.1: 搜尋深度 — **一篇文章總量 ~150 次**（v9.1，2026-08-15 哲宇 directive；含來源多樣性配額）
+#### Step 1.1: 搜尋深度 — **一篇文章總量 ~100 次，天花板**（v9.10，2026-09-19 哲宇「找的多不如聰明的找，太多雜訊也沒用」）
 
-> 🚨 **150 是「整篇文章的總搜尋量」，不是每隻 agent 的量**（2026-08-15 哲宇校正）。
-> 誤讀成 per-agent 會把全篇推到 400-600 次——**實測「每隻 agent 100」效果沒有比較好**，
-> 多出來的只是待驗證線索與攻防敘事。
+**總量分配**：全篇 ~100 次＝ **Stage 0 探索 ~20** ＋ **Stage 1 fan-out 合計 ~80**。三隻 agent 各 ~25-30、四隻各 ~20，**到量即收**。prompt 一律寫「配額 N 次、到量即收」，不寫「下限／至少／越多越好」——同樣的數字換個詞，實跑會從 80 衝到 245（2026-08-15 文策院實證）。配額內沒挖完的子題在 §5 誠實記缺口，不加碼硬挖。
 
-**總量分配**：全篇 ~150 次＝ **Stage 0 探索 20-30** ＋ **Stage 1 fan-out 合計 ~120-130**。
-四隻 agent 分工 → **每隻 ~30 次（30-40 帶），到量即收**；三隻則各 ~40。
+| 來源類別                                 | 最低配額 | 為什麼                                                            |
+| ---------------------------------------- | -------- | ----------------------------------------------------------------- |
+| **人**（特寫／訪談／逐字感言／社群原帖） | ~15      | 正文要有站在不同位置的真實的人，不然只剩官員與立委在說話（v9.10） |
+| **中文**（報導、社群、在地）             | ~30      | 在地視角、當地報導、社群記憶                                      |
+| **英文 / 國際 / 學術**                   | ~15      | 國際視角 + triangulation；`research-report-health` en==0 是 HARD  |
+| **一手**（官方/政府/年報/法規/學術論文） | ~15      | claim 要追到原始來源，不是二手新聞的二手；primary==0 是 HARD      |
+| **反方 / 批評**（perspective scan）      | ~5       | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                |
 
-⚠️ **配額的措辭會決定超跑**（本 session 實證）：文策院四隻 agent 的 prompt 寫「搜尋**下限** 25 次」，
-實跑 58／71／52／39＝220，全篇衝到 245。**prompt 一律寫「配額 N 次、到量即收」，
-禁用「下限／至少／越多越好」**——同樣的數字換個詞，行為完全不同。診斷與量測斷代：
-[reports/research-report-hygiene-evolution-2026-08-15.md](../../reports/research-report-hygiene-evolution-2026-08-15.md)。
-
-| 來源類別                                 | 最低配額 | 為什麼                                                             |
-| ---------------------------------------- | -------- | ------------------------------------------------------------------ |
-| **中文**                                 | ≥ 40     | 在地視角、當地報導、社群記憶                                       |
-| **英文 / 國際 / 學術**                   | **≥ 20** | 國際視角 + triangulation；攻擊「57% 報告英文來源 = 0」的系統性缺口 |
-| **一手**（官方/政府/年報/法規/學術論文） | ≥ 15     | 對標論文：claim 要追到原始來源，不是二手新聞的二手                 |
-| **反方 / 批評**（perspective scan）      | ≥ 5      | 跨陣營對立 spectrum，落 `rationale.whats_excluded`                 |
-
-> **v9.1 收斂理由**（2026-08-15 哲宇 directive「分頭 search 要求降低」＋兩次校正定案：
-> 「以文章**總**搜尋量為基準，每隻 agent 100 效果沒有比較好」→「全篇抓 150 次左右，
-> Stage 0 20-30」）：v6.4 的「≥80 **下限**、超跑光榮」文化讓實際量膨脹到 245 次；量測顯示
-> **品質不隨量升**——4-6 月的報告（justfont 全篇 120、651 行零 meta-noise）養出的文章比
-> 245 次時代的好。**改動的是「下限→天花板」與「per-agent 明確化」，不是砍研究深度**：
-> 全篇 150 其實高於 v6.4 名目的 100，只是不再獎勵無上限超跑。多樣性配額原樣保留
-> （它防單源依賴，跟總量無關）。
->
-> **v6.4 歷史**（2026-06-04）：量測 226 份歷史 report — 57% 英文來源 = 0、42% distinct ≤ 10，
-> 哲宇 directive「搜尋總數 80+、對標研究所論文標準」把下限從 40 提到 80。**「對標論文」的
-> 正解是信度結構（每 claim 標信度、一手可溯、negative findings 誠實），不是行數與搜尋次數**
-> ——毒馬鈴薯 gold standard 的厚是事實密度的厚，不是過程敘事的厚。4 條配額仍由
-> `research-report-health.py` 儀器化驗收（en==0 / primary==0 = HARD）。
+> 量的歷史：v5.1 ≥40 → v6.4 ≥80 下限 → v9.1 ~150 天花板 → v9.10 回到 ~100。實測品質不隨次數升：4-6 月 100-120 次時代的報告養出的文章比 245 次時代的好，多出來的只是待驗證線索與攻防敘事。變的是分配——三成給找人。
 
 - **多語系不是 nice-to-have**：英文/國際來源是 default 不是例外。真正只有中文來源的題目（極在地的兩岸/戒嚴細節）→ 在 §搜尋日誌 明寫「本題英文來源稀少，因為 X」，不要靜默跳過（對應 research-report-health en==0 HARD）
 
-> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**每 agent 配額 = 120-130 ÷ agent 數，四隻即 ~30、三隻即 ~40；prompt 明寫「配額 N 次、到量即收」**）。單 agent 自跑適合 standard tier（~40）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**——挖不完是誠實的缺口，硬挖是報告肥大的來源。
+> ⚠️ **fan-out 分工**：照 [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents) 派 N 個 parallel research sub-agent（按 §A/§B/§C/§D 子領域切，**其中一隻的題目就是「找人」**——這篇裡站在不同位置的真實的人：特寫、訪談、逐字感言、社群原帖、質詢逐字；**每 agent 配額 = 80 ÷ agent 數，prompt 明寫「配額 N 次、到量即收」**）。配額內沒挖完的子題 → 在 §4 negative findings 誠實記缺口，不加碼硬挖。**研究廣度（4 子題 + 反方 + 一手 + 英文）優先於搜尋次數**——挖不完是誠實的缺口，硬挖是報告肥大的來源。
 
-**v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
-
-**v2.17 原版觸發**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
-
-**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。fan-out 配額（~120-130）的分配建議：40% 驗證 Stage 0.6 hypothesis、25% 反駁/深化 hypothesis、20% 補英文/國際/學術視角（配額）、15% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
+**Stage 0.6 → Stage 1.1 銜接**：帶著 Stage 0.6 §觀點成型 列出的「研究方向（要搜什麼可以驗證）」+「核心矛盾候選 A/B/C」+「pre-search source map」進來。fan-out 配額（~80）的分配建議：35% 驗證 Stage 0.6 hypothesis、20% 反駁/深化、20% 找人、15% 英文/國際/學術、10% 探索預期之外的支線。如果搜完發現 Stage 0.6 觀點完全錯了，那是好結果 — Stage 1.4 找矛盾鎖定會自動修正。
 
 #### Step 1.2: 結尾素材鎖定
 
@@ -1017,7 +995,7 @@ stage: 1-research
 date: YYYY-MM-DD
 session: { handle }
 agents: [Explore×N / general-purpose]
-search_count: { stage0: N, stage1: M, total: N+M } # Stage0 ≥20 / Stage1 ≥80
+search_count: { stage0: N, stage1: M, total: N+M } # Stage0 ~20 / Stage1 ~80 天花板
 source_count: { distinct: X, zh: A, en: B, primary: C, opposition: D } # en/primary ≠ 0
 core_contradiction: 一句話（≤ 30 字）
 viewpoint_formed: true
@@ -2119,7 +2097,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ f4d1643ac6 ==== -->
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ b29031d380 ==== -->
 
 ## Stage 3 contract — 驗（草稿驗＋成品總驗）
 
@@ -2575,6 +2553,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 ### 交付條件（stage 完成的定義）
 
 - [ ] `article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4` hard=0
+- [ ] `opening-readability.py knowledge/{Cat}/{slug}.md` ✅（前四段數字 ≤ 5／百字、句長 ≤ 45、口徑詞 < 4；WARN 級，超線要在 memory 說為什麼）；正文 `tw-*` 模組 ≤ 4
 - [ ] `--check=image-health` pass（depth：媒體 ≥ max(3, round(prose-CJK/1200))）
 - [ ] 文末 `## 圖片來源` 段與授權矩陣一致；`check-aspect.sh` 過
 - [ ] （i18n 改動時）多語 visual smoke 6 步過
@@ -2599,11 +2578,14 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 #### Step 4.1: article-health.py --profile=rewrite-stage-4
 
-##### 強制執行（不是建議，是反射）
+##### 強制執行
 
 ```bash
 python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profile=rewrite-stage-4
+python3 scripts/tools/opening-readability.py knowledge/{Category}/{文章}.md   # 前四段可讀性（v9.10）
 ```
+
+`opening-readability.py` 量三件機械化得了的事：前四段數字密度、平均句長、口徑限定詞重複次數，基準線是〈黃魚鴞〉（1.5／百字、31 字）。它抓不到「有沒有人」——2026-09-18〈金鐘獎〉v1 開場是八家電台的名單，在這把尺上是綠的。有沒有人靠 Stage 1A 交付條件「正文有人」與 Stage 0 的論點。
 
 `rewrite-stage-4` profile plugin（HARD all；清單與數量以 `article-health.py --list-checks` 為準）：
 
