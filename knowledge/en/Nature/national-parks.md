@@ -1,176 +1,187 @@
 ---
-title: 'National Parks'
-description: "36,197 square kilometers hold 9 national parks, an exceptionally high density and one of the world's leading conservation miracles"
+title: 'National Parks: A Conservation Miracle with 9 Parks in 36,197 Square Kilometers'
+description: "With a density that ranks among the world's best, Taiwan houses nine national parks within 36,197 square kilometers, representing an ecological marvel."
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'Nature'
+tags:
+  [
+    'Nature',
+    'National Park',
+    'Ecological Conservation',
+    'Tourism',
+    'Environmental Protection',
+  ]
 subcategory: '國家公園與步道'
-tags: ['Nature', 'National parks', 'Ecological conservation', 'Tourism', 'Environmental protection']
-readingTime: 8
-lastVerified: 2026-03-22
-lastHumanReview: false
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-09-19
+lastHumanReview: false
+readingTime: 8
 translatedFrom: 'Nature/國家公園.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:b67fcedd0e7a43f6'
-sourceBodyHash: 'sha256:7e2f50f483b073fb'
-translatedAt: '2026-05-20T05:08:27+08:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:8fb4efae01fb8f38'
+sourceBodyHash: 'sha256:d14d99364c1c4106'
+translatedAt: '2026-09-19T11:59:01+08:00'
 ---
 
 # National Parks
 
-> **30-second overview:** Taiwan has only 36,197 square kilometers of land, yet it contains 9 national parks, placing it among the highest-density systems in the world.
-> Within this most crowded conservation system, Taiwan's black bear population doubled within 20 years, black-faced spoonbills increased from 288 to 6,988 individuals,
-> and Formosan landlocked salmon surged from an endangered 200 fish to 16,000. A small island, large-scale conservation.
+> **30-Second Overview:** Taiwan has only 36,197 square kilometers but hosts nine national parks, a density that ranks among the highest globally.
+> In this most compact conservation system, the Taiwanese black bear population doubled within 20 years, the global population of the Black-faced Spoonbill increased from 288 to 7,746 (six tenths overwinter in Taiwan), and the Formosan Red-billed Firefly Salmon surged from a critically endangered 200 individuals to 16,020. A small island, great conservation.
 
-How can an island smaller than Switzerland fit 9 national parks? In 1984, when Kenting National Park became Taiwan's first formally established national park (planning was announced in 1982), no one imagined that this would mark the beginning of a density experiment.[^1] Forty-two years later, Taiwan has 9 national parks and 1 national nature park across 36,197 square kilometers of land, protecting 750,000 hectares. This density ranks among the highest in the world's national park systems.
+How can nine national parks fit onto an island smaller than Switzerland? In 1984, when Kenting National Park became Taiwan's first officially established national park (with planning announcements beginning in 1982), no one imagined this would be the start of a density experiment. After 42 years, Taiwan possesses nine national parks and one national nature park across 36,197 square kilometers, covering an area of 750,000 hectares—a high density that ranks among the top in global national park systems.
 
-In Taiwan, where population density reaches 640 people per square kilometer, large wildlife and rare fish have nevertheless managed to survive, and even continue recovering, within such limited space. This most crowded conservation system has delivered results that surprised the global conservation community.
+In Taiwan, with a population density of 640 people per square kilometer, large wild animals and rare fish have managed to survive and even recover within such limited space. This most compact conservation system has delivered a surprisingly good report card to the global conservation community.
 
-| 288 → 6,988                           | 200 → 16,020                     | Population doubled          |
-| ------------------------------------- | -------------------------------- | --------------------------- |
-| Global black-faced spoonbill total (1989→2024) | Formosan landlocked salmon (1990s→2025) | Taiwan black bear (within 20 years) |
+|                  288 → 7,746                   |                  200 → 16,020                   |          Population Doubling           |
+| :--------------------------------------------: | :---------------------------------------------: | :------------------------------------: |
+| Global Black-faced Spoonbill Count (1989→2026) | Formosan Red-billed Firefly Salmon (1990s→2025) | Taiwanese Black Bear (within 20 years) |
 
 ## The Density Experiment: How Taiwan Became an Island of National Parks
 
-**The 42-year expansion history of Taiwan's national park map:**
+**The History of National Park Expansion Over 42 Years:**
 
-1. **1984-1986** — The first three giants: Kenting, Yushan, Yangmingshan
-2. **1987-1995** — Mountains and seas filled in: Taroko, Shei-Pa
-3. **1995-2014** — A turn toward diversity: Kinmen (battlefield historic sites), Dongsha Atoll (entirely marine), Taijiang (wetlands), South Penghu Marine (basalt)
-4. **2011** — An urban oasis: Shoushan National Nature Park (inside Kaohsiung's urban area)
+1. **1984-1986** — The First Trio: Kenting, Yushan, Yangmingshan
+2. **1986-1992** — Filling Mountains and Seas: Taroko, Xueba
+3. **1995-2014** — Diversification: Kinmen (War Site), Dongsha (Pure Marine), Taijiang (Wetland), Penghu Islands (Basalt)
+4. **2011** — Urban Oasis: Shoushan National Nature Park (within Kaohsiung City)
 
-On September 20, 2023, the National Park Service of the Ministry of the Interior was formally established and upgraded into an independent agency-level body, taking over unified management of national park affairs across Taiwan and replacing the previous fragmented management structure.[^2]
+On September 20, 2023, the National Parks Administration under the Ministry of the Interior was officially established and upgraded to an independent agency, consolidating the management of all national parks in Taiwan, replacing the previous decentralized structure.[^2]
 
-Each step challenged the traditional definition of a national park. Kinmen centers on battlefield historic sites, Dongsha is 99.9% marine area, Taijiang combines human culture and wetlands, and South Penghu Marine National Park is an uninhabited maritime refuge.
+Each step challenged traditional definitions of a national park. Kinmen is primarily a war site; Dongsha is 99.9% marine area; Taijiang integrates culture and wetlands; and the Penghu Islands are uninhabited marine havens.
 
-> **📝 Curator's note**
-> The evolution of Taiwan's national parks is unusual: it began with "wilderness protection" (the American national park model),
-> shifted toward "equal emphasis on culture and nature" (the European protected-area concept), and finally developed Taiwan's own
-> model of a "three-dimensional protection network across sea, land, and air."
+> **📝 Curator's Note**
+> The evolution path of Taiwan's national parks is unique: moving from "Wilderness Protection" (American National Park concept) to "Humanities and Nature Coexistence" (European Protected Area concept), finally developing a distinctive "Three-Dimensional Marine, Land, Air Protective Network."
 
-This density is almost unprecedented internationally. For comparison: Yellowstone National Park in the United States alone covers 8,991 square kilometers. Taiwan's entire territory is only four times that size, yet it contains 9 national parks.
+This level of density is almost unprecedented internationally. For comparison: Yellowstone National Park in the United States alone covers 8,991 square kilometers, yet Taiwan's entire territory is four times larger and still managed to fit nine national parks.
 
-## Taiwan's Miracles of Species Restoration
+## The Taiwanese Miracle of Species Restoration
 
-### Black-faced Spoonbill: From the Brink of Extinction to One-sixth of the Global Population Wintering in Taiwan
+### Black-faced Spoonbill: From Endangered to Six Tenths Globally in Taiwan
 
-In 1989, the Hong Kong Bird Watching Society conducted the first global count of black-faced spoonbills: 288 individuals. The number shocked conservationists around the world. A species was standing so close to extinction.
+In 1989, the Hong Kong Bird Club first surveyed the global population of the Black-faced Spoonbill: 288 individuals. This figure shocked the global conservation community, as the species was so close to extinction.
 
-Thirty-five years later, the 2024 global census showed that the black-faced spoonbill population had reached 6,988 individuals, while the Taijiang National Park area hosts more than 1,000 each winter, making it one of the world's most important wintering habitats.[^3]
+A global synchronized survey in January 2026 found the total number of Black-faced Spoonbills reached 7,746, with Taiwan recording 4,719 individuals, accounting for approximately 61%; the Taijiang area alone has 2,034 individuals, making it one of the world's most important overwintering sites.[^3][^7]
 
-Taijiang National Park protects more than 40,000 hectares of wetlands and also works with fishers and salt workers so that traditional industries and ecological protection can coexist. This restoration has depended on precise engineering: habitat designation, fishing regulations, and cooperation from local communities. None of these elements can be missing. Every autumn and winter, when the first black-faced spoonbills land at the Sicao wetlands, people in Tainan know that the signboard of an internationally significant wetland is still lit.
+Within the nearly 40,000-hectare range of Taijiang National Park (approximately 4,900 hectares of land), not only have wetlands been protected, but traditional industries—in cooperation with fishermen and salt workers—have coexisted with ecological protection. This restoration relies on precise engineering: habitat zoning, fishing regulations, and the cooperation of local communities are all indispensable. Every autumn and winter, when the first batch of Black-faced Spoonbills lands in Sicao Wetlands, the people of Tainan know that the sign of an international wetland is still lit.
 
-### Formosan Landlocked Salmon: A Restoration Legend from 200 Fish to 16,000
+### Formosan Red-billed Firefly Salmon: The Legend of Revival from 200 to 16,020
 
-In the 1990s, the Formosan landlocked salmon population fell to its lowest point, with only about 200 remaining in the wild and the species on the brink of extinction. This Ice Age relict, known as Taiwan's "national treasure fish," can survive only in streams above 1,500 meters in elevation with water temperatures below 17°C. Climate change and habitat destruction left it with nowhere to retreat.
+In the 1990s, the population of the Formosan Red-billed Firefly Salmon plummeted, with only about 200 individuals remaining in the wild and facing extinction. This "national treasure fish," a relict species from the Ice Age, can only survive in streams above 1,500 meters in altitude with water temperatures below 17°C; climate change and habitat destruction left them nowhere to escape.
 
-Shei-Pa National Park took 30 years to raise that number to 16,000.[^4]
+Xueba National Park took 30 years to increase this number to 16,020.[^4]
 
-> **💡 Did you know?**
-> In September 2025, the Shei-Pa Headquarters used helicopter sling-load transport for the first time
-> to release more than 1,000 salmon fry into the upper reaches of the Sijielan River. This was Taiwan's
-> first "aerial restoration release," allowing fry to reach optimal habitat quickly.
+> **💡 Did You Know**
+> On September 4, 2025, the Xueba Management Office first collaborated with Jinjie Airlines to airlift 240 Formosan Red-billed Firefly Salmon, about 16 cm in length, to upstream areas of Sijielan Stream for stocking. Previously, this journey required a six-hour trek on foot; now, it takes just over ten minutes by helicopter.[^4]
 
-The success of the restoration lies in patience, not technology. Wuling Farm reclaimed 8.1 hectares of abandoned farmland, the Qijiawan River underwent a 20-year reforestation program, and cross-watershed release strategies were planned step by step over many years. Today, stable populations exist in the Sijielan River, Qijiawan River, and Hehuan River. The Formosan landlocked salmon is no longer a regular entry on the endangered species list.
+The success of the restoration lies in patience, not technology. The reforestation plans spanning two decades at Wuling Farm, and the cross-watershed stocking strategies, each took years of planning. Today, Sijielan Stream, Qixiawan Stream, and Hehuan Stream all have stable populations, and the Formosan Red-billed Firefly Salmon is no longer a frequent guest on the endangered species list.
 
-### Taiwan Black Bear: From Endangered to "No Longer at Risk of Imminent Extinction"
+### Taiwanese Black Bear: From Endangered to "No Longer Endangered"
 
-In April 2025, the Forestry and Nature Conservation Agency publicly stated for the first time that the Taiwan black bear's "population status is no longer at risk of imminent extinction" and that the population had increased by "definitely more than several times" compared with 20 years earlier.[^5]
+In April 2025, the Forestry and Nature Conservation Agency publicly stated that the "population status of the Taiwanese black bear is no longer endangered," with the population increasing by "more than double" in 20 years.[^5]
 
-Behind this statement lies 40 years of accumulated conservation work. High-elevation national parks such as Yushan, Taroko, and Shei-Pa have provided core habitat for Taiwan black bears. In recent years, black bear activity has begun expanding into lower mountain areas below 1,200 meters in elevation, indicating that the population has become stable enough to expand naturally.
+Behind this statement lies 40 years of conservation accumulation. High-altitude national parks such as Yushan, Taroko, and Xueba provide core habitats for the Taiwanese black bear, and the recent expansion of their range to lower mountain slopes below 1,200 meters indicates that the population has stabilized enough to begin natural expansion.
 
-> **⚠️ The cost of success**
-> The successful restoration of Taiwan black bears has also brought new challenges. In 2025, a
-> 120-kilogram black bear in Zhuoxi, Hualien, repeatedly preyed on poultry and domestic dogs and was ultimately shot.
-> Human-bear conflict will be a key focus of the next phase of conservation work.
+> **⚠️ The Cost of Success**
+> The successful restoration of the Taiwanese black bear also brought new challenges. On April 21, 2025, a male bear weighing over 100 kilograms in Zhongzheng Village, Zhuoxi Township, Hualien, was shot by patrol personnel after killing four dogs within two weeks and repeatedly breaking into chicken coops; the injured bear required humane treatment.[^8] Human-bear conflict will be a focus of future conservation efforts.
 
-## A World-class High-density Conservation Model
+## A World-Class High-Density Conservation Model
 
-The success of Taiwan's national park system lies not in the size of its protected areas, but in its **diversity of types and precision of management**.
+The success of Taiwan's national park system is not measured by its size, but by its **diversity of types and precision of management**.
 
-From Yushan Main Peak at 3,952 meters above sea level to the Dongsha Atoll below sea level; from the volcanic geology of Yangmingshan to the basalt columnar joints of South Penghu Marine National Park; from Kinmen's battlefield historic sites to Shoushan's urban forest. The 9 national parks cover all of Taiwan's major ecosystems and geological types.
+From the summit of Yushan at 3,952 meters to the Dongsha Atoll below sea level; from the volcanic landscape of Yangmingshan to the basaltic columns of the Penghu Islands; from the war site of Kinmen to the urban forest of Shoushan. The nine national parks cover all major ecosystems and geological types in Taiwan.
 
-**This is a three-dimensional protection network with a clear division of labor by ecological zone:**
+**This is a three-dimensional protective net, with clear functional divisions by ecosystem:**
 
-**Three terrestrial zones**:
-- Alpine zone: Yushan, Shei-Pa, and Taroko protect alpine ecosystems and large mammals
-- Volcanic zone: Yangmingshan safeguards the Tatun Volcano Group and temperate vegetation
-- Coastal zone: Kenting and South Penghu Marine protect coral reef ecosystems
+**Terrestrial Zones:**
 
-**Land-water interfaces**:
-- Wetland zone: Taijiang maintains internationally significant wetlands and migratory bird routes
-- Offshore island zone: Kinmen and Dongsha respectively undertake conservation of battlefield cultural history and marine ecosystems
+- **High Mountain Zone:** Yushan, Xueba, Taroko protect alpine ecosystems and large mammals.
+- **Volcanic Zone:** Yangmingshan guards the Datun volcanic group and temperate vegetation.
+- **Coastal Zone:** Kenting, Penghu Islands protect coral reef ecosystems.
 
-### The National Park Experiment Inside the City
+**Land-Water Interface:**
 
-In 2011, Shoushan National Nature Park was established, becoming Taiwan's first national-level protected area located within a metropolitan area. In the southwestern corner of Kaohsiung, 1,131 hectares of coral reef limestone terrain protect the Taiwan-endemic Formosan macaque and the island's largest stand of Buchanania arborescens vegetation.
+- **Wetland Zone:** Taijiang maintains international wetlands and migratory bird routes.
+- **Island Zone:** Kinmen and Dongsha each bear the responsibility of war history preservation and marine ecosystem conservation.
 
-**This experiment challenges a traditional assumption: must national parks be far from cities?** Shoushan proves that even on the edge of a metropolitan area, strict protection management can still maintain ecological integrity.
+### The National Park Experiment in the City
 
-> **✦** "Large-scale conservation on a small island: Taiwan proves that density is not the enemy of conservation; precision is."
+In December 2011, Shoushan National Nature Park was established, becoming the first national-level protected area located within an urban area in Taiwan. In the southwest corner of Kaohsiung City, within a coral limestone terrain covering about 1,123 hectares, it protects endemic Taiwanese macaques and the largest wild pig population in Taiwan.
 
-## Challenges and Controversies: Growing Pains
+**This experiment challenges a traditional notion: must national parks be far from cities?** Shoushan proves that even on the edge of an urban area, strict protective management can maintain ecological integrity.
 
-### Recreation Pressure: National Parks Are Not Amusement Parks
+> **✦** "Great Conservation on a Small Island—Taiwan proves that density is not the enemy of conservation; precision is."
 
-The greatest controversy facing Taiwan's national parks comes from a fundamental misunderstanding: many people treat a "national park" as a "park built by the state."
+## Challenges and Controversies: The Troubles of Growth
 
-An observation made in 2015 by Professor Wang Chen-ling of Feng Chia University's Department of Land Management still applies: "Most people, and even the government, misunderstand the term 'national park' literally."[^6] The large numbers of tourists entering Kenting and Taroko each year demand guardrails and warning signs; some have even proposed installing electrical cables at the summit of Yushan or building hotels at Macao in Yangmingshan.
+### Recreational Pressure: National Parks Are Not Amusement Parks
 
-**Article 1 of the National Park Law clearly states that national parks are established to protect nationally unique natural scenery, wildlife, and historic sites, "and to provide recreation and education for the public."** "Recreation and education" is an additional purpose, and it is limited to recreation areas and general controlled areas. It must not conflict with conservation objectives.
+The biggest controversy facing Taiwan's national parks stems from a fundamental misunderstanding: many citizens treat "National Park" as merely "a park built by the state."
+
+Professor Wang Zhen-ling from the Department of Land Management at Feng Chia University noted in 2015, "Most citizens, and even the government, have a misunderstanding of 'national parks' based on superficial reading."[^6] The large number of tourists flocking to Kenting and Taroko each year demand guardrails, warning signs, and some have proposed installing power lines on Yushan or building hotels in Yangmingshan stables.
+
+**Article 1 of the National Park Act clearly stipulates: "to protect the unique natural scenery, wildlife, and historical sites of the nation, AND to provide recreation for the people."** "Recreation" is a secondary purpose, and it is limited only to recreational areas and general control zones, and must not conflict with conservation objectives.
 
 ### The 2024 Taroko Earthquake: The Dilemma of Conservation and Reconstruction
 
-On April 3, 2024, a powerful earthquake struck Hualien (Central Weather Administration M_L 7.2 / USGS M_w 7.4), and Taroko National Park was among the hardest-hit areas. Multiple trails collapsed, some controlled-access roads were completely closed, the earthquake caused casualties, and normal conservation work in the park was interrupted for months.
+On April 3, 2024, a major earthquake severely damaged Hualien (Central Weather Administration M_L 7.2 / USGS M_w 7.4), and Taroko National Park was one of the most heavily affected areas. Several trails collapsed, some controlled roads were completely closed, and the earthquake caused casualties, interrupting normal park conservation work for several months.
 
-The Taroko earthquake raised a question that any conservation system must confront: in Taiwan's complex geological environment, how should the boundary between mountain forest conservation and tourism recreation be set? This is not only a management issue, but also a disaster-prevention policy issue.
+The Taroko earthquake raised a question that any conservation system must face: how to delineate the boundary between mountain forest conservation and tourism recreation in Taiwan's complex geological environment—this is not just a management issue, but also a disaster prevention policy.
 
-### Climate Change: A Survival Crisis for Alpine Species
+### Climate Change: The Survival Crisis of Alpine Species
 
-Seventy percent of Taiwan's national park area lies above 1,000 meters in elevation, making alpine ecosystems especially vulnerable to climate change. When temperatures rise by 1°C, the distribution zones of alpine plants must move upward by 150-200 meters. But mountains are only so high; there is no higher refuge left.
+70% of Taiwan's national park area is above 1,000 meters in altitude, making alpine ecosystems particularly vulnerable to climate change impacts. A 1°C temperature rise forces the distribution range of alpine plants to shift upwards by 150–200 meters, but there is no higher ground to retreat to.
 
-The successful restoration of the Formosan landlocked salmon is, in a sense, a race against time. Once stream temperatures exceed 17°C, the national treasure fish cannot survive. Climate change has turned restoration into a race between rising temperatures and the speed of conservation.
+The successful restoration of the Formosan Red-billed Firefly Salmon is, in a way, a race against time. When stream water temperatures exceed 17°C, the national treasure fish cannot survive. Climate change turns conservation into a competition between temperature and preservation speed.
 
 ### Indigenous Rights: Balancing Conservation and Tradition
 
-Seventy-five percent of Taiwan's national parks overlap with the traditional territories of Indigenous peoples. How to balance conservation needs with Indigenous rights has always been a sensitive issue. The Bunun of Yushan, the Atayal of Shei-Pa, and the Truku of Taroko were the earliest guardians of these lands, yet conservation regulations may now restrict their traditional ways of life.
+The large areas of high-mountain national parks in Taiwan overlap with traditional territories of indigenous peoples. How to balance conservation needs with indigenous rights has always been a sensitive issue. The Bunun people of Yushan, the Atayal people of Xueba, and the Taroko people of Taroko are the earliest guardians of this land, yet they may now have their traditional lifestyles restricted by conservation regulations.
 
-In recent years, national park headquarters have begun working with Indigenous and local communities to promote a "community conservation" model: hiring local residents in Kinmen as conservation volunteers and working with fishers in Taijiang to maintain wetland ecosystems. This model shifts conservation work from "external control" toward "local participation."
+In recent years, national park management offices have begun cooperating with tribes to promote a "community conservation" model: local residents in Kinmen are hired as conservation volunteers, and fishermen cooperate in Taijiang to maintain wetland ecosystems. This model shifts conservation from "external control" to "local participation."
 
-## The Next 40 Years: The Era of Marine National Parks?
+## The Next 40 Years: An Era of Marine National Parks?
 
-If Taiwan spent the first 40 years building an extremely dense national park system, then the focus of the next 40 years will be the **ocean**.
+If the last 40 years were about establishing a high-density national park system in Taiwan, the focus for the next 40 years will be **the ocean**.
 
-Dongsha Atoll National Park is 99.5% marine area, and marine areas also account for 98% of South Penghu Marine National Park. This trend reflects a shift in global conservation thinking: from "land first" toward "equal emphasis on land and sea."
+Dongsha Atoll National Park is 99.9% marine area, and the Penghu Islands National Park also covers approximately 99% marine area. This trend reflects a global shift in conservation thinking: moving from "land-first" to "marine and land coexistence."
 
-The conservation potential of the seas around Taiwan is indeed considerable. The Kuroshio Current brings rich marine biodiversity, coral reef coverage exceeds 60% in some areas, and seagrass ecosystems provide carbon sink functions. But marine conservation is far more complex than terrestrial conservation: maritime jurisdiction, fishery rights, and international law are each hundreds of times more difficult than designating land-based protected areas.
+The conservation potential of Taiwan's surrounding waters is indeed considerable. The Kuroshio Current brings rich marine biodiversity, with coral reef coverage exceeding 60% in some areas, and seagrass ecosystems providing carbon sequestration functions. However, the complexity of marine conservation far exceeds that of terrestrial areas: maritime jurisdiction, fishing rights, international regulations—each is a hundred times more difficult than establishing land protected areas.
 
-> **📊 Future outlook data**
-> According to National Park Service planning, Taiwan's target for marine protected areas is to reach 10% of its exclusive economic zone by 2030,
-> or about 200,000 square kilometers. This is equivalent to
-> the area of six Taiwan main islands.
+> **📊 Status of Marine Protected Areas**
+> Of Taiwan's existing marine protected areas, four national parks account for over 80% of the marine area; the UN "30x30" goal passed in 2022 requires countries to protect at least 30% of oceans by 2030. The Marine Conservation Act, read in March 2024, is Taiwan's starting point for alignment.[^9]
 
-## A Small Island with a Large Vision
+## The Grand Picture of a Small Island
 
-Returning to the original question: why does an island smaller than Switzerland need 9 national parks?
+Returning to the original question: why does an island smaller than Switzerland need nine national parks?
 
-The answer may lie not in how small Taiwan is, but in how complex it is. Within 36,197 square kilometers of land, this island contains climate zones from the tropics to the frigid zone, a complete geological history of plate collision, cultural layers from Austronesian peoples to Han communities, and nodes along migratory bird routes.
+The answer may not be how small Taiwan is, but how complex it is. On 36,197 square kilometers of land, this island houses all climatic zones from tropical to cold temperate, a complete geological history of plate collision, cultural layers from the South Island languages to Han culture, and nodes in migratory bird routes.
 
-What is most valuable about Taiwan's national park system is not its area, but the completeness of its types. It protects not merely 9 points, but the life code of an island.
+What makes Taiwan's national park system precious is not its area, but the completeness of its types. It protects not just nine points, but the life code of an island.
 
-Forty-two years ago, when Kenting National Park had just been established, Taiwan was still under martial law. Today, on this island with an extremely high density of national parks, black-faced spoonbills have increased 24-fold, the Formosan landlocked salmon population has multiplied 80-fold, and the Taiwan black bear is no longer endangered. This may be one of the world's most successful high-density conservation experiments: even in the narrowest of spaces, precise conservation work can still create miracles.
+42 years ago, when Kenting National Park was first established, Taiwan was under martial law. Today, on this island with such high national park density, the global population of the Black-faced Spoonbill has increased 27 times, the Formosan Red-billed Firefly Salmon population has multiplied by 80, and the Taiwanese black bear is no longer endangered. This may be one of the world's most successful high-density conservation experiments: creating miracles through meticulous conservation work in the smallest space.
 
 ## References
 
-[^1]: [National Park Service, Ministry of the Interior: Kenting National Park](https://ktnp.gov.tw/) — Confirms the 1982 planning announcement and 1984 formal establishment of Kenting National Park.
-[^2]: [National Park Service, Ministry of the Interior](https://www.nps.gov.tw/) — Confirms the formal establishment of the National Park Service on September 20, 2023.
-[^3]: [Taijiang National Park: Black-faced Spoonbill](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistics on black-faced spoonbill habitat in Taijiang and conservation measures.
-[^4]: [Formosan landlocked salmon population stable at 16,000 — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Confirms recent population numbers.
-[^5]: [Forestry and Nature Conservation Agency: Taiwan black bear numbers have increased; population no longer at risk of imminent extinction — Central News Agency](https://www.cna.com.tw/news/ahel/202504230093.aspx) — April 2025 statement by the Forestry and Nature Conservation Agency.
-[^6]: [Is a national park a park built by the state or a state-level park? — Feng Chia University](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Professor Wang Chen-ling's 2015 observation on public misunderstanding.
+[^1]: [National Parks Administration, Ministry of the Interior: Kenting National Park](https://www.ktnp.gov.tw/) — Confirms the planning announcement of Kenting National Park in 1982 and its official establishment in 1984.
+
+[^2]: [National Parks Administration, Ministry of the Interior](https://www.nps.gov.tw/) — Confirms the official establishment of the National Parks Administration on September 20, 2023.
+
+[^3]: [Taijiang National Park: Black-faced Spoonbill](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistics and conservation measures for Black-faced Spoonbills in Taijiang.
+
+[^4]: [Don't Fear Typhoons or Earthquakes! National Treasure Fish Population Stable: Formosan Red-billed Firefly Salmon Maintains 16,020—Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Reports from January 2026 regarding the 2025 survey of 16,020 individuals, the recovery of 8.1 hectares of Wuling abandoned farmland, and the first helicopter release in September; 240 individuals were transported by helicopter, seen on [CNA News Sept 4, 2025](https://news.pts.org.tw/article/769065).
+
+[^5]: [Forestry and Nature Conservation Agency: Taiwanese Black Bear Population Increased, Species No Longer Endangered—Central News Agency](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Statement by the Forestry and Nature Conservation Agency in April 2025.
+
+[^6]: [Is a National Park a State-Built Park or a National Park?—Feng Chia University](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observation by Professor Wang Zhen-ling regarding public misunderstanding in 2015.
+
+[^7]: [Results of the 2026 Global Black-faced Spoonbill Synchronized Survey Released, Species Reaches New High—Forestry and Nature Conservation Agency](https://www.forest.gov.tw/news/0078204) — Published on April 10, 2026: 7,746 globally, 4,719 in Taiwan (approx. 61%), 2,034 in Tainan.
+
+[^8]: [Shooting, Feeding Dogs, Population Expansion? Zhuoxi Black Bear Incident Controversy—Wowa](https://wuo-wuo.com/report/instantnews/2217-20250424news) — On April 21, 2025, the black bear YNP-BB02 in Zhongzheng Village, Zhuoxi Township was injured by patrol personnel after killing four dogs within two weeks; humane treatment followed.[^8] The report of "eating 4 dogs in two weeks" is seen on [Reporter](https://www.twreporter.org/a/after-a-formosan-black-bear-shot-dead-in-hualien-zhuoxi-2).
+
+[^9]: [Introduction to Taiwan's Marine Protected Areas—Ocean Affairs Council](https://www.oca.gov.tw/ch/home.jsp?id=349&parentpath=0%2C295%2C348) — Current marine protected areas are "primarily 81.28% of national park area"; the UN 30x30 vision requires protecting at least 30% of land, inland waters, coasts, and oceans by 2030.
 
 **Further Reading**
 
-- [Introduction to National Parks — Executive Yuan](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
-- [Dongsha Atoll National Park](https://dongsha.gov.tw/)
+- [Introduction to National Parks—Executive Yuan](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
+- [Marine Protected Area Management Office (Dongsha Atoll / Penghu Islands)](https://www.marine.gov.tw/)

@@ -1,101 +1,103 @@
 ---
 title: 'Nightlife and KTV Culture'
-description: 'From Cashbox private rooms to late-night eateries, the 24-hour nonstop nightlife of an island that never sleeps'
+description: "From Cashbox booths to late-night diners, the island's 24-hour nightlife never sleeps"
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
+tags: ['Lifestyle', 'Nightlife', 'KTV', 'Late-night Diner', 'Taiwan']
 subcategory: '休閒與娛樂'
-tags: ['生活', '夜生活', 'KTV', '深夜食堂', '台灣']
-lastVerified: 2026-03-19
-lastHumanReview: false
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-09-19
+lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '1818157ab5d'
-sourceContentHash: 'sha256:3a356e2fbd9898dc'
-sourceBodyHash: 'sha256:5171611c1ca72679'
-translatedAt: '2026-05-15T15:39:39+08:00'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:b34cbc0681b4b3a1'
+sourceBodyHash: 'sha256:4439d8751309731f'
+translatedAt: '2026-09-19T11:59:01+08:00'
 ---
 
 # Nightlife and KTV Culture
 
-> **30-second overview:** Taiwan's nightlife is built on three pillars — KTV private rooms, late-night eateries, and night markets — supported by round-the-clock convenience services that sustain the rhythm of an "island that never sleeps." KTV private-room culture became a universal social gathering format after its popularization in the 1990s; a 2020 fire at a Cashbox KTV in Taipei killed 5 people and spurred industry-wide safety reforms.
+> **30-Second Overview:** Taiwanese nightlife is composed of three pillars: KTV booths, late-night diners, and night markets. These provide 24-hour convenience that sustains the rhythm of a "City That Never Sleeps." The KTV booth culture developed after its popularization in the 1990s as a form of mass gathering; the fire at Cashbox Lin-sen store in Taipei in 2020, which resulted in 6 fatalities, prompted regulatory agencies to inspect KTV establishments across Taiwan.
 
-When night falls over Taiwan, the island puts on a different face. Neon lights illuminate the streets, KTV private rooms echo with laughter and song, late-night eateries glow with warm light, and 24-hour signs shine especially bright in the darkness. Office workers' after-hours dinners, students' post-exam celebrations, late-night heart-to-hearts among friends — the night provides the perfect stage for all of them.
+When night falls over Taiwan, the island puts on another face. Neon lights illuminate the streets, laughter echoes from KTV booths, and late-night diners glow brightly; 24-hour signs stand out vividly in the darkness. Post-work gatherings for office workers, celebrations after exams for students, and late-night heart-to-hearts among friends all find their perfect stage at night.
 
-## KTV Culture: A Parallel Universe Inside the Private Room
+## KTV Culture: Parallel Universes within a Booth
 
-KTV (karaoke television) is the core of Taiwan's nightlife. After the rise of private-room KTV in the 1990s, brands such as Cashbox, Holiday, and Sing Go Point expanded across the island, accompanying Taiwanese people through countless gatherings. Every time you push open the door of a KTV private room, you enter a space relatively sealed off from the outside world; before the microphone, the gaps of profession and age temporarily recede.
+KTV (Karaoke TV) is the core of Taiwanese nightlife. After emerging in the 1990s, brands such as Cashbox (錢櫃), Holiday (好樂迪), and Xingju Dian (星聚點) have proliferated, accompanying Taiwanese people through countless gatherings. Every time one opens a KTV booth door, they enter a space relatively isolated from the outside world; before the microphone, differences in profession and age are temporarily set aside.
 
-Taiwan's KTV density ranks among the highest in the world. According to Ministry of Economic Affairs business registration data, the number of KTV establishments in Taipei City has long remained above one hundred (including chain and independent stores), unevenly distributed across districts — Xinyi, Da'an, and Zhongshan have the highest concentrations. From luxury presidential rooms to budget-friendly party rooms, a range of price points makes KTV accessible entertainment for all. A 10-person private room on a weekday runs between NT$1,500 and NT$2,500 for three hours (including minimum food and beverage spend), with chain membership plans and off-peak hours offering even better rates. Touch-screen song selection systems offer over 100,000 tracks spanning Mandarin, Taiwanese Hokkien, English, Japanese, and Korean, satisfying the tastes of every generation.[^1]
+Taiwan has a high density of KTVs globally. In Taipei alone, there are hundreds, ranging from large chains to independent small shops. With different price points—from luxurious presidential booths to affordable fun rooms—KTV serves as entertainment for all citizens; a 10-person booth might cost between NT$1,500 and NT$2,500 for three hours on a weekday (including minimum dining charges), while membership plans or off-peak hours at large chains offer better deals. The touch-screen song selection often contains over 100,000 songs, with Mandarin, Tâi-gí, English, and Japanese/Korean tracks available, satisfying the needs of different generations.[^1]
 
-Birthday celebrations, company year-end banquets, class reunions, dates — KTV is the go-to gathering venue for every occasion in Taiwan. The intimate atmosphere of the private room lets people drop their guard and express themselves freely. A normally serious boss dancing and singing in the room, a quiet colleague suddenly becoming the microphone hog — this kind of contrast is precisely why KTV culture has endured for so long.
+Birthdays, company year-end parties, classmate reunions, and dates—KTV is a preferred gathering place for various occasions in Taiwan. The private atmosphere of the booth allows people to let down their guard and express themselves freely. A usually serious supervisor might dance wildly in a booth, while an introverted colleague suddenly becomes the "mic master"—this contrast is precisely why KTV culture endures.
 
-## Cashbox and Holiday: Duopoly Competition and Safety Incidents
+## Cashbox and Holiday: Rivalry and Safety Incidents
 
-Cashbox and Holiday are the two dominant players in Taiwan's KTV industry. Decades of competition between them have driven upgrades in audio equipment, room design, and food-and-beverage service. Cashbox is known for its high-end positioning, catering mainly to business entertainment clientele; Holiday takes an affordable, approachable route, beloved by students.
+Cashbox (錢櫃) and Holiday (好樂迪) are two major leaders in Taiwanese KTV, and decades of competition have driven upgrades in sound equipment, booth design, and food service. Cashbox is known for its high-end positioning, catering mainly to business clientele; Holiday follows a more affordable and popular path, favored by students.
 
-**The 1995 Zhonglun Cashbox fire** was the deadliest accident in Taiwan's KTV history, killing multiple people and prompting the government to mandate, for the first time, that KTV operators improve fire safety equipment — the first turning point in industry safety standards.[^2]
+Not long after the rise of booth KTV, there was a tragic price paid. **In November 1992, "Myth World KTV" in Fushun Street, Taipei, was set on fire, killing 16 people**, making it one of the deadliest fires in Taiwanese KTV history and forcing society to confront the escape issues of closed spaces for the first time.[^2]
 
-**In 2017, the Fair Trade Commission** reviewed the Cashbox acquisition of Holiday (KK BOX Group) and approved it with conditions, requiring both brands to maintain competition in specific counties and cities to prevent market monopoly. This case marked a structural shift in Taiwan's KTV market from duopoly competition to single-group dominance.[^4]
+The two leaders have repeatedly attempted mergers. **In August 2019, the Fair Trade Commission (公平交易委員會) blocked a merger between Cashbox and Holiday for the fourth time**, citing that they were already major competitors, and a combined market share of 45% would restrict competition more than it benefited the overall economy; Cashbox filed an administrative lawsuit, and the Taipei High Administrative Court ruled against Cashbox in November 2020.[^4] The Taiwanese KTV market continues to maintain its dual leadership rather than being dominated by a single group.
 
-In April 2020, a fire broke out again at a Cashbox KTV on Zhongxiao East Road in Taipei, killing 5 people. The incident exposed safety management deficiencies in aging buildings, prompting authorities to launch special inspections of KTV venues island-wide and operators to carry out fire safety upgrades.[^2]
+On April 26, 2020, the Cashbox Lin-sen store in North Road, Taipei, caught fire, resulting in 6 deaths and dozens of injuries; the cause was batteries charging in a storage room, and the fire alarm system had been disabled at the time. The day after the incident, the Taipei City Government jointly inspected other Cashbox branches, ordering four to suspend operations for rectification due to non-compliant fire safety equipment, leading to a one-week temporary suspension of all Cashbox stores across Taiwan.[^5]
 
-**During the COVID-19 Level 3 alert** (May–July 2021), the government ordered the closure of KTVs, bars, nightclubs, and similar venues. This was the first time in Taiwan's KTV history that the industry faced weeks of mandatory shutdown. Many operators faced cash-flow strain, and some small and mid-sized KTVs never reopened after the pandemic. The crisis accelerated market concentration — large chain brands survived the downturn through online booking systems and premium private-room experiences, with significantly higher survival rates than independent stores.
+During the **Level 3 Alert period of COVID-19 in 2021 (May–July)**, the government strictly prohibited businesses like KTVs and bars from operating, marking the first time Taiwanese KTV industry faced forced closure for several weeks. Many operators struggled with cash flow, and some small and medium-sized KTVs failed to reopen after the pandemic. The pandemic accelerated the concentration of the KTV market—large chains survived the downturn through online reservation systems and sophisticated booths, showing a significantly higher survival rate than independent shops.
 
-## Late-Night Eateries: Taiwanese Izakaya Culture
+## Late-night Diners: Taiwanese Izakaya Culture
 
-When Japanese izakaya style meets Taiwan's stir-fry (熱炒) culture, a uniquely Taiwanese form of late-night eatery is born. These establishments typically operate until dawn, serving stir-fried dishes, small plates, and beer — gathering spots for off-duty workers and night owls. Areas around Taipei's Shida neighborhood and Gongguan, as well as the vicinity of Kaohsiung's Ruifeng Night Market, host dense clusters of late-night eateries.
+When Japanese izakaya style meets Taiwan's stir-fry culture, it gives birth to the unique form of Taiwanese late-night diners. These establishments usually operate until dawn, offering hot stir-fries, side dishes, and beer, serving as meeting places for office workers and night owls. Clusters of these late-night diners can be found in commercial areas like Shida University in Taipei, or around Ningxia Night Market in Kaohsiung.
 
-Wooden tables and chairs, warm amber lighting, ice-cold Taiwan Beer, and piping-hot salt-and-pepper chicken make up the standard setup of a Taiwanese late-night eatery. Home-style dishes like three-cup chicken, kung pao chicken, cold cucumber salad, and garlic pork belly are especially popular late in the evening; paired with a bottle of Taiwan Beer, they effectively ease the fatigue of the day.
+Wooden tables and chairs, dim lighting, chilled Taiwan Beer (台啤), and piping hot fried chicken (鹽酥雞) constitute the standard equipment of a Taiwanese late-night diner. Home-style dishes such as Three-Cup Chicken (三杯雞), Kung Pao Chicken (宮保雞丁), cucumber salad (涼拌小黃瓜), and minced pork with garlic (蒜泥白肉) are particularly popular late at night, perfectly complemented by a bottle of Taiwan Beer to relieve the day's fatigue.
 
-The atmosphere of Taiwanese late-night eateries differs from the restraint of a Japanese izakaya, leaning instead toward the casual, warm social style Taiwanese people are known for. It is not unusual for strangers to strike up conversations; a single large table might simultaneously host multiple drinking parties. This flexibility of shared space gives late-night eateries a dual function — both social and culinary.
+The atmosphere of Taiwanese late-night diners is less reserved than Japanese izakayas; it leans more toward the casual and enthusiastic social style of Taiwanese people. It is not uncommon for strangers to strike up conversations, and different drinking parties might sit at the same large table—this flexibility of shared space gives late-night diners both a social and dining function.
 
 ## Nightclubs and Bars: The Pulse of the Urban Night
 
-The Xinyi District of Taipei is home to Taiwan's most well-known nightclubs. Electronic music, light shows, and dance floors create the most energetic scenes of the urban night, with weekend crowds often lasting from late at night until dawn. Taiwan's nightclub culture is heavily influenced by Western trends, but DJs spinning EDM remixes of Chinese pop songs and local young people interpreting the scene in their own Taiwanese way have given it a distinctly local character.
+The Xinyi District in Taipei concentrates the most famous nightclubs in Taiwan. Electronic music, light shows, and dance floors create the liveliest scenes of the urban night; crowds often continue from late night until dawn on weekends. Taiwanese club culture is heavily influenced by European and American styles, but phenomena like DJs playing electronic versions of Chinese pop songs or local youth interpreting things in a Tâi-gí style give it a local flavor.
 
-Bar culture is even more diverse. Craft cocktail bars, sports bars, whiskey specialists, and beer gardens each attract different crowds. The条通 (Tiaotong) area in Taipei's Zhongshan District retains a strong Japanese ambiance and is one of Taipei's oldest drinking districts. Since the 1980s, it has had a high density of bars and restaurants, popular with business professionals and Japanese visitors.
+Bar culture is more diverse. Boutique cocktail bars, sports bars, whisky specialty shops, and beer gardens each attract different demographics. The Tiaotong area in Zhongshan District, Taipei, retains a strong Japanese atmosphere and is one of the city's oldest drinking areas; the density of bars and restaurants has been consistently high for decades, favored by businesspeople and Japanese tourists.
 
-Cocktail culture has developed rapidly in Taiwan in recent years. Several Taipei bars have been listed among the world's top 100 cocktail bars, driving the professionalization of bartending and the popularization of tasting knowledge. The craft beer and natural wine movements have also permeated Taiwan's nightlife scene, further segmenting drinking choices.
+The cocktail culture has developed rapidly in Taiwan in recent years. Several bars in Taipei have been selected for global top-tier cocktail lists, promoting the professionalization of mixologists and popularizing tasting knowledge. The trends of craft beer and natural wine have also permeated the Taiwanese nightlife scene, leading to more specialized drinking choices.
 
-## 24-Hour Operations: The Infrastructure of a City That Never Sleeps
+## 24-Hour Operation Culture: Infrastructure of the City That Never Sleeps
 
-Taiwan's 24-hour operations culture provides the tangible infrastructure underpinning its nightlife. Convenience stores, pharmacies, gyms, and even some bookstores offer round-the-clock service, allowing people to live at their own pace.
+Taiwan's 24-hour operation culture provides a tangible foundation for its nightlife. Convenience stores, pharmacies, gyms, and even some bookstores offer round-the-clock services, allowing people to live according to their own pace.
 
-Eslite Dunnan Store became Taiwan's first 24-hour bookstore when it launched the service in 1999, holding an iconic status among Taipei's night owls and frequently cited in foreign media coverage of Taiwan's nightlife culture. It ceased operations in 2020, but Eslite's Xinyi flagship and other locations continue to maintain late-night hours, keeping reading an option within the nightlife landscape.[^3]
+Eslite Dunnan Store has been operating 24 hours since 1999, holding an iconic status among Taipei's night owls and serving as a common case in foreign media reports on Taiwanese nightlife culture. It closed at the end of May 2020 when its lease expired; the 24-hour bookstore was succeeded by Eslite Xinyi Store, which was then succeeded by Eslite Songyan Store at the end of 2023, allowing reading to remain an option in Taiwanese nightlife.[^3]
 
-The rise of 24-hour gyms has given late-night exercise a stable venue; some office workers have grown accustomed to enjoying a quiet workout environment in the middle of the night. This distribution of daily rhythms across all hours is an adaptation strategy naturally emerging from the density of Taiwanese urban life, and it forms the underlying infrastructure behind the "island that never sleeps" label.
+The rise of 24-hour gyms provides stable places for late-night exercise, and some office workers habitually enjoy a quiet fitness environment late at night. This lifestyle rhythm, dispersed across different time slots, is an adaptation strategy naturally derived from the high population density of urban Taiwan, forming the underlying infrastructure of the concept "City That Never Sleeps."
 
 ## Night Markets: The Main Stage of Grassroots Nightlife
 
-Night markets are the most grassroots form of Taiwanese nightlife. Shilin Night Market, Ningxia Night Market, Fengjia Night Market, Liuhe Night Market — each has its own distinct personality and signature foods. Three-generation families, couples, and groups of friends each find their own pleasures at night markets, making them a social space shared across all ages in Taiwan.
+Night markets are the most grassroots form of nightlife in Taiwan. Shilin Night Market, Ningxia Night Market, Fengjia Night Market, and Liuhe Night Market—each night market has its unique character and signature food. Families across three generations, couples, and groups of friends find their own enjoyment at these markets, making them social venues shared by all ages in Taiwan.
 
-Night market hours typically run from evening to late at night, fitting naturally into the rhythm of Taiwanese life. Games, merchandise stalls, and street performances give night markets a triple function — food, shopping, and entertainment. For foreign visitors, night markets are also the most direct entry point into Taiwanese grassroots food culture, appearing in virtually every Taiwan travel guide.
+Night markets typically operate from evening until late night, aligning with the lifestyle of Taiwanese people. Various small games, product stalls, and street performer shows give night markets functions of food, shopping, and entertainment. For foreign tourists, night markets are the most direct entry point to understanding Taiwanese grassroots food culture; almost every Taiwan travel guide includes them.
 
-Night markets vary in character from place to place. Taipei's Ningxia Night Market is known for traditional Taiwanese street food; Taichung's Fengjia Night Market is famous for creative snacks and high-traffic stalls; Kaohsiung's Liuhe Night Market leans toward the tourist route. Each has its own fixed ratio of local regulars and outside visitors, together forming diverse cross-sections of Taiwanese grassroots food culture.[^5]
+The forms of night markets vary by location. Ningxia Night Market in Taipei is famous for traditional Tâi-gí snacks; Fengjia Night Market in Taichung is known for creative snacks and popular stalls; and Liuhe Night Market in Kaohsiung focuses on tourism. Each has its fixed local clientele and proportion of foreign visitors, forming diverse facets of Taiwanese grassroots food culture.[^6]
 
-## The Evolution and Challenges of Nightlife
+## Evolution and Challenges of Nightlife
 
-Taiwan's nightlife shows clear generational divides: older generations favor karaoke and late-night eateries; middle-aged groups lean toward upscale restaurants or whiskey bars; younger generations are passionate about nightclubs, cocktail bars, and themed restaurants. During the pandemic, online KTV and at-home mixography briefly filled the gap left by the absence of in-person gatherings; after restrictions eased in 2021, physical venues gradually regained their popularity.
+Taiwanese nightlife shows clear generational differences: older generations prefer karaoke and late-night diners; middle-aged groups tend to favor fine dining or whisky bars; while the younger generation is enthusiastic about nightclubs, cocktail bars, and themed restaurants. During the pandemic, online KTV and home mixology temporarily filled the gap left by physical gatherings, and after restrictions were eased in 2021, physical venues gradually regained popularity.
 
-The spread of food delivery platforms has diversified late-night dining options — you can enjoy night market snacks or stir-fried dishes without leaving home. Ride-hailing services have made late-night transportation safer, with GPS tracking and electronic payment reducing the concerns of going out after dark. These supporting services collectively underpin the evolution of Taiwan's nightlife ecosystem.
+The popularization of food delivery platforms has diversified late-night dining options, allowing people to enjoy night market snacks or stir-fry dishes without leaving home. Ride-hailing services have made late-night travel safer, and GPS tracking and electronic payments reduce concerns about going out late at night. These supporting services collectively sustain the evolution of Taiwan's nightlife ecosystem.
 
-Sustainability issues in the nighttime economy are also under discussion. Overly concentrated tourist night markets bring garbage and trash and noise problems; safety concerns in aging KTV buildings require updated regulations; and the working conditions of late-night workers have also drawn attention. The richness of Taiwan's nightlife is built on the labor of a vast nighttime service workforce — a structural fact that is easily overlooked behind the "island that never sleeps" image.
+The sustainability of the nighttime economy is also under discussion. Overly concentrated tourist night markets bring issues of garbage and noise; safety concerns regarding some old KTV buildings require updated regulations, and the working conditions of late-night workers are also a focus. The rich facets of Taiwanese nightlife are supported by a large workforce in nighttime services—this is a structural reality often overlooked behind the image of the "City That Never Sleeps."
 
 ## References
 
-[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Overview of KTV origins and the development of Taiwan's private-room KTV industry.
+[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Overview of KTV origins and the development of the Taiwanese booth KTV industry.
 
-[^2]: [Cashbox KTV Fire — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8C%A2%E6%AB%83KTV%E7%81%AB%E7%81%BD) — The April 2020 fire at Cashbox KTV Zhongxiao in Taipei, in which 5 people died, and subsequent safety reforms.
+[^2]: [Tang Ming-hsiung — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B9%AF%E9%8A%98%E9%9B%84) — The November 21, 1992, "Myth World KTV" arson case in Fushun Street, Taipei, which killed 16 people.
 
-[^3]: [Eslite Bookstore — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — History of Eslite Bookstore, including the launch of 24-hour service at the Dunnan store and its 2020 closure.
+[^3]: [Eslite Bookstore — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — History of Eslite Bookstores: Dunnan Store operated 24 hours from 1999 until it closed on May 31, 2020; the Xinyi Store succeeded the 24-hour operation, and the Songyan Store took over in December 2023.
 
-[^4]: [Fair Trade Commission — Merger Decision](https://www.ftc.gov.tw/) — The 2017 Cashbox acquisition of Holiday merger case, approved with conditions.
+[^4]: [Fair Trade Commission blocks Holiday and Cashbox merger for a fourth time for three reasons — Yuanjian Magazine](https://www.gvm.com.tw/article/67870) — The Fair Trade Commission blocked the merger four times in August 2019, citing three reasons and a combined market share of 45%; see also [Cashbox sues Fair Trade Commission after being prohibited from marrying Holiday — Central News Agency (CNA)](https://www.cna.com.tw/news/firstnews/202011260308.aspx), where the Taipei High Administrative Court ruled against Cashbox on November 26, 2020.
 
-[^5]: [Taiwan Night Markets — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Distribution, cultural characteristics, and profiles of major night markets in Taiwan, including Ningxia, Fengjia, and Liuhe.
+[^5]: [Taipei Lin-sen Cashbox Fire — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E6%9E%97%E6%A3%AE%E9%8C%A2%E6%AB%83%E5%A4%A7%E7%81%AB) — The April 26, 2020, Cashbox Lin-sen store fire: 6 deaths and 72 injuries; the battery charging caused the fire, and the alarm system was disabled; four branches were ordered to suspend operations for rectification the next day.
+
+[^6]: [Night Markets of Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Distribution, cultural characteristics, and introduction of major night markets in Taiwan, including Ningxia, Fengjia, and Liuhe.
 
 ## Further Reading
 
 - [Taiwan Transportation System](/en/lifestyle/transportation-system) — How nighttime transportation supports nightlife culture
-- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The relationship between 24-hour convenience stores and the city-that-never-sleeps culture
-- [Taiwan Religious Beliefs](/en/culture/taiwan-religion-and-temple-culture) — Nighttime temple fairs and traditional festival nightlife
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The relationship between 24-hour convenience stores and the City That Never Sleeps culture
+- [Taiwan Religious Beliefs](/en/culture/taiwan-religion-and-temple-culture) — Nighttime temple fairs and traditional festivals' nightlife

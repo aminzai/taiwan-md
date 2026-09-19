@@ -1,499 +1,510 @@
 ---
-title: 'official-websites'
+title: 'Taiwan Official Website Resource Compendium 🏛️'
+description: "Taiwan's official websites not only provide government services and policy information but are also vital windows into understanding Taiwan's political system, cultural development, and social governance. These sites reflect the transparency of Taiwan's democratic politics, the progress of digital governance, and the emphasis on cultural preservation and promotion. This resource compendium is a guide to authoritative sources for those researching or seeking official information about Taiwan."
 date: 2026-03-17
-tags: [resources, government, official, Taiwan.md]
-description: "Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic g"
-translatedFrom: 'resources/official-websites.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0d481ed818da82f8'
-sourceBodyHash: 'sha256:6713c8a6c615e62a'
-translatedAt: '2026-05-01T14:11:02+08:00'
+category: 'resources'
+tags: ['resources', 'government', 'official', 'Taiwan']
+subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-17
+lastVerified: 2026-09-19
 lastHumanReview: false
-category: 'resources'
+translatedFrom: 'resources/official-websites.md'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:029227bd7721737f'
+sourceBodyHash: 'sha256:0c3be7e5f653ab89'
+translatedAt: '2026-09-19T11:59:01+08:00'
 ---
 
-# Taiwan Official Websites Directory 🏛️
+# Taiwan Official Website Resource Compendium 🏛️
 
-> **30-Second Overview:** Comprehensive collection of 81+ official websites covering Taiwan's government agencies, cultural institutions, and open data platforms. From the five-branch government system to museums, from the Presidential Office to open data platforms - your complete guide to Taiwan's official digital resources.
+> **30-Second Overview:** A complete collection of 81 official websites, including government agencies, cultural and artistic institutions, and open data platforms, providing a one-stop entry point for government services, policy information, cultural content, and statistics. From the five-branch system to various ministries, from the National Palace Museum to open data platforms, this offers comprehensive access to Taiwan's official digital resources.
 
-## Why This Matters
+## Why It Is Important
 
-Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic governance, cultural development, and social policy implementation. These sites reflect Taiwan's commitment to transparency, digital governance innovation, and cultural preservation. For researchers, investors, tourists, or anyone seeking authoritative information about Taiwan, this directory provides the most reliable entry points.
+Taiwan's official websites not only provide government services and policy information but are also vital windows into understanding Taiwan's political system, cultural development, and social governance. These sites reflect the transparency of Taiwan's democratic politics, the progress of digital governance, and the emphasis on cultural preservation and promotion. For those researching Taiwan, seeking to understand Taiwan, or needing official information, this resource compendium provides a guide to the most authoritative sources.
 
-## Core Categories
+## Core Classifications
 
-### 💫 Central Government (Five Branches)
+### 💫 Central Government Agencies (The Five Branches)
 
 #### 🏛️ Presidential Office
 
-### [Office of the President](https://www.president.gov.tw/) 🌐
+### [President of the Republic of China](https://www.president.gov.tw/) 🌐
 
-Official website of the Presidential Office, national leadership information and policy announcements
+The official website of the President's Office, providing information on the head of state and policy pronouncements.
 
-### [Office of the President (English)](https://english.president.gov.tw/) 🇬🇧
+### [English Version of the Presidential Office](https://english.president.gov.tw/) 🇬🇧
 
-English version of the Presidential Office website, international communications hub
+The English official website of the Presidential Office, serving as an international interface.
 
-#### ⚖️ Five-Branch System
+#### ⚖️ The Five Branches System
 
 ### [Executive Yuan](https://www.ey.gov.tw/) 🇹🇼
 
-Highest administrative organ, policy execution and coordination
+The highest executive organ, responsible for policy implementation and coordination.
 
 ### [Legislative Yuan](https://www.ly.gov.tw/) 🇹🇼
 
-National legislative body, bill review and government oversight
+The national legislative body, responsible for bill review and oversight.
 
 ### [Judicial Yuan](https://www.judicial.gov.tw/) 🇹🇼
 
-Supreme judicial authority, judicial policy and system governance
+The highest judicial organ, managing judicial policy and systems.
 
-### [Examination Yuan](https://www.exam.gov.tw/) 🇹🇼
+### [Control Yuan](https://www.exam.gov.tw/) 🇹🇼
 
-Civil service examination and personnel management, national examination information
+Responsible for examinations and civil service management; provides national examination information.
 
-### [Control Yuan](https://www.cy.gov.tw/) 🇹🇼
+### [Control Yuan (Oversight)](https://www.cy.gov.tw/) 🇹🇼
 
-Government oversight and impeachment authority, administrative supervision
+The oversight and impeachment body, fulfilling government supervisory functions.
 
 ---
 
-### 🏢 Executive Yuan Ministries & Commissions
+### 🏢 Ministries of the Executive Yuan
 
-#### 🌐 Foreign Relations & Digital Development
+#### 🌐 Foreign Relations and Digital Development
 
 ### [Ministry of Foreign Affairs](https://www.mofa.gov.tw/) 🌐
 
-Foreign policy and international relations, consular services
+Foreign policy and international relations; consular services.
 
-### [Ministry of Digital Affairs (moda)](https://moda.gov.tw/) 🌐
+### [Ministry of Digital Affairs](https://moda.gov.tw/) 🌐
 
-Digital transformation and smart nation policies, digital infrastructure development
+Digital transformation and smart nation policies; digital infrastructure.
 
-#### 🎨 Culture & Education
+#### 🎨 Culture and Education
 
 ### [Ministry of Culture](https://www.moc.gov.tw/) 🇹🇼
 
-Cultural policy and arts promotion, cultural heritage preservation
+Cultural policy and art promotion; preservation of cultural assets.
 
 ### [Ministry of Education](https://www.moe.gov.tw/) 🇹🇼
 
-Educational policy and academic development, educational administration
+Educational policy and academic development; management of education at various levels.
 
-#### 💼 Economy & Industry
+#### 💼 Economy and Industry
 
 ### [Ministry of Economic Affairs](https://www.moea.gov.tw/) 🌐
 
-Economic policy and industrial development, investment promotion
+Economic policy and industrial development; investment promotion.
 
 ### [Ministry of Agriculture](https://www.moa.gov.tw/) 🇹🇼
 
-Agricultural policy and food safety, agricultural modernization
+Agricultural policy and food safety; agricultural modernization.
 
 #### 🏥 Social Services
 
 ### [Ministry of Health and Welfare](https://www.mohw.gov.tw/) 🌐
 
-Public health and social welfare, healthcare policy
+Public health and social welfare; medical policies.
 
 ### [Ministry of Labor](https://www.mol.gov.tw/) 🇹🇼
 
-Labor affairs and employment policy, workers' rights
+Labor affairs and employment policy; labor rights.
 
 #### 🚗 Infrastructure
 
-### [Ministry of Transportation and Communications](https://www.motc.gov.tw/) 🇹🇼
+### [Ministry of Transportation](https://www.motc.gov.tw/) 🇹🇼
 
-Transportation policy and infrastructure, traffic safety
+Transportation policy and transport infrastructure; traffic safety.
 
 ### [Ministry of Environment](https://www.moenv.gov.tw/) 🌐
 
-Environmental protection and climate policy, sustainable development
+Environmental protection and climate policy; sustainable development.
 
-#### 🛡️ Security & Governance
+#### 🛡️ Security and Governance
 
 ### [Ministry of National Defense](https://www.mnd.gov.tw/) 🌐
 
-Defense affairs and military policy, national security
+National defense affairs and military policy; national security.
 
 ### [Ministry of the Interior](https://www.moi.gov.tw/) 🇹🇼
 
-Domestic affairs and civil administration, household registration services
+Domestic affairs and civil affairs management; household registration services.
 
 ### [Ministry of Justice](https://www.moj.gov.tw/) 🇹🇼
 
-Legal affairs and judicial administration, correctional services
+Legal affairs and judicial administration; correctional work.
 
 ### [Ministry of Finance](https://www.mof.gov.tw/) 🌐
 
-Fiscal policy and tax administration, treasury management
+Fiscal policy and tax management; national treasury management.
 
-#### 🔬 Research & Planning
+#### 🔬 R&D and Planning
 
-### [National Science and Technology Council](https://www.nstc.gov.tw/) 🌐
+### [Academia Sinica](https://www.nstc.gov.tw/) 🌐
 
-Science and technology policy, academic research promotion
+Science and technology policy and R&D; promotion of academic research.
 
-### [National Development Council](https://www.ndc.gov.tw/) 🌐
+### [Executive Yuan, National Development Council](https://www.ndc.gov.tw/) 🌐
 
-National development planning and policy, forward-looking programs
+National development planning and policy; forward-looking projects.
 
 #### 🌏 Specialized Commissions
 
-### [Mainland Affairs Council](https://www.mac.gov.tw/) 🌐
+### [Cross-Strait Affairs Council](https://www.mac.gov.tw/) 🌐
 
-Cross-strait affairs and policy, cross-strait exchange management
+Cross-strait affairs and policy; cross-strait exchange management.
 
-### [Council of Indigenous Peoples](https://www.cip.gov.tw/) 🌐
+### [Indigenous Peoples Commission](https://www.cip.gov.tw/) 🌐
 
-Indigenous affairs and culture, ethnic rights
+Indigenous peoples affairs and culture; ethnic rights.
 
 ### [Hakka Affairs Council](https://www.hakka.gov.tw/) 🌐
 
-Hakka culture and affairs, language and cultural promotion
+Hakka culture and affairs; language and cultural promotion.
 
-### [Overseas Community Affairs Council](https://www.ocac.gov.tw/ocac/) 🌐
+### [Overseas Chinese Affairs Council](https://www.ocac.gov.tw/ocac/) 🌐
 
-Overseas Chinese affairs and services, diaspora community support
+Consular services and policy for overseas citizens.
 
-#### 🏦 Financial & Professional
+#### 🏦 Finance and Professional Bodies
 
 ### [Financial Supervisory Commission](https://www.fsc.gov.tw/) 🌐
 
-Financial supervision and regulation, financial market stability
+Financial supervision and management; financial market stability.
 
 ### [Ocean Affairs Council](https://www.oac.gov.tw/) 🌐
 
-Marine affairs and policy, maritime domain management
+Marine affairs and policy; maritime area management.
 
-### [Veterans Affairs Council](https://www.vac.gov.tw/) 🌐
+### [National Service Training Center for Veterans](https://www.vac.gov.tw/) 🌐
 
-Veterans support and services, employment assistance
+Guidance and services for discharged military personnel; employment placement.
 
-### [Public Construction Commission](https://www.pcc.gov.tw/) 🌐
+### [Public Works Commission](https://www.pcc.gov.tw/) 🌐
 
-Public works policy and procurement oversight, construction quality
+Public works policy and procurement supervision; engineering quality.
 
 ---
 
-### 🏛️ Major Government Agencies
+### 🏛️ Important Subsidiary Agencies
 
-#### 🌦️ Essential Services
+#### 🌦️ Basic Services
 
 ### [Central Weather Administration](https://www.cwa.gov.tw/) 🌐
 
-Weather, climate, and earthquake forecasting, disaster prevention information
+Weather, climate, and earthquake forecasting; disaster prevention information.
 
 ### [National Health Insurance Administration](https://www.nhi.gov.tw/) 🇹🇼
 
-Universal health insurance system, medical service coverage
+The National Health Insurance system; medical service payments.
 
-#### 🛂 Immigration & Security
+#### 🛂 Immigration and Security
 
-### [Tourism Administration](https://eng.taiwan.net.tw/) 🇬🇧
+### [Taiwan Tourism Bureau (under Ministry of Transportation)](https://eng.taiwan.net.tw/) 🇬🇧
 
-Tourism promotion and travel information, international marketing
+Tourism promotion and travel information; international marketing.
 
-### [National Immigration Agency](https://www.immigration.gov.tw/) 🌐
+### [National Immigration Agency (under Ministry of the Interior)](https://www.immigration.gov.tw/) 🌐
 
-Border control and immigration services, foreign resident services
+Entry and exit management and immigration services; services for foreign nationals.
 
-#### 🏥 Specialized Regulation
+#### 🏥 Professional Regulation
 
-### [Centers for Disease Control](https://www.cdc.gov.tw/) 🌐
+### [CDC (Center for Disease Control, under MOHW)](https://www.cdc.gov.tw/) 🌐
 
-Disease prevention and public health, infectious disease surveillance
+Epidemic prevention and public health; infectious disease monitoring.
 
-### [Taiwan Food and Drug Administration](https://www.fda.gov.tw/) 🌐
+### [TFDA (Food and Drug Administration, under MOHW)](https://www.fda.gov.tw/) 🌐
 
-Food and drug safety regulation, consumer protection
+Food and drug safety management; consumer protection.
 
-#### 💼 Economic Specialization
+#### 💼 Trade Professionals
 
-### [Taiwan Intellectual Property Office](https://www.tipo.gov.tw/) 🌐
+### [Intellectual Property Office (under MOEA)](https://www.tipo.gov.tw/) 🌐
 
-Intellectual property protection and management, patents and trademarks
+Protection and management of intellectual property rights; patents and trademarks.
 
-### [Bureau of Foreign Trade](https://www.trade.gov.tw/) 🌐
+### [International Trade Bureau (under MOEA)](https://www.trade.gov.tw/) 🌐
 
-International trade policy and promotion, export facilitation
+International trade policy and promotion; export promotion.
 
-### [Bureau of Standards, Metrology & Inspection](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
+### [Standards Testing International (STI, under MOEA)](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
 
-Standards development and product inspection, quality assurance
+Standard setting and product testing; quality assurance.
 
 ---
 
-### 🎭 Cultural & Arts Institutions
+### 🎭 Cultural and Artistic Institutions
 
 #### 🏛️ National Museums
 
 ### [National Palace Museum](https://www.npm.gov.tw/) 🌐
 
-Chinese cultural treasures collection, world-class artifacts exhibition
+A collection of Chinese cultural treasures; world-class artifact exhibition.
 
 ### [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/) 🌐
 
-Taiwan contemporary art exhibition and research, arts education
+Exhibition and research of modern Taiwanese art; art education.
 
-### [National Museum of Taiwan History](https://www.nmth.gov.tw/) 🌐
+### [National Taiwan History Museum](https://www.nmth.gov.tw/) 🌐
 
-Taiwan historical and cultural collections, local cultural research
+Research and collection of Taiwanese history and culture; local culture.
 
 ### [National Taiwan Museum](https://www.ntm.gov.tw/) 🌐
 
-Taiwan natural history and cultural collections, science education
+Collection of Taiwanese natural history and humanities; science education.
 
 ### [National Museum of Natural Science](https://www.nmns.edu.tw/ch/) 🌐
 
-Natural science education and research, science popularization
+Natural science education and research; popular science promotion.
 
-### [National Science and Technology Museum](https://www.nstm.gov.tw) 🌐
+### [National Museum of Science and Technology](https://www.nstm.gov.tw) 🌐
 
-Technology applications and crafts exhibition, industrial education
+Technology application and craft exhibition; industrial education.
 
-### [National Museum of Marine Biology & Aquarium](https://www.nmmba.gov.tw/) 🌐
+### [National Museum of Marine Life Science](https://www.nmmba.gov.tw/) 🌐
 
-Marine biology research and education, ecological conservation
+Marine life research and education; ecological conservation.
 
 #### 🎨 Metropolitan Art Institutions
 
-### [Taipei Fine Arts Museum](https://www.tfam.museum/) 🌐
+### [Taipei Municipal Museum of Fine Arts](https://www.tfam.museum/) 🌐
 
-Contemporary art exhibitions and collections, urban arts
+Exhibition and collection of contemporary art; metropolitan art.
 
-### [Kaohsiung Museum of Fine Arts](https://www.kmfa.gov.tw/) 🌐
+### [Kaohsiung Municipal Museum of Art](https://www.kmfa.gov.tw/) 🌐
 
-Modern art exhibitions and southern Taiwan arts, regional culture
+Modern art exhibitions and Southern Taiwan art; regional culture.
 
 #### 🎭 Performing Arts Centers
 
-### [National Theater & Concert Hall](https://npac-ntch.org/zh) 🌐
+### [National Theater and Performing Arts Center](https://npac-ntch.org/zh) 🌐
 
-National-level performing arts center, classical performances
+A national-level performing arts center for classic performances.
 
-### [National Kaohsiung Center for the Arts](https://www.npac-weiwuying.org/) 🌐
+### [Weiwu International Performing Arts Center](https://www.npac-weiwuying.org/) 🌐
 
-World's largest single-building performing arts center, modern architecture
+The world's largest single-building performing arts center; modern architecture.
 
-### [National Taichung Theater](https://www.npac-ntt.org/index) 🌐
+### [Taichung State Theater](https://www.npac-ntt.org/index) 🌐
 
-Modern architectural performing arts venue, architectural aesthetics
+A performance venue with modern architectural aesthetics.
 
-#### 🎬 Cultural Promotion Organizations
+#### 🎬 Cultural Promotion Institutions
 
-### [Taiwan Cultural Memory Bank](https://tcmb.culture.tw/zh-tw) 🌐
+### [National Cultural Heritage Archives](https://tcmb.culture.tw/zh-tw) 🌐
 
-Taiwan cultural memory digital archive, cultural preservation
+Digital collection of Taiwan's cultural memory; cultural preservation.
 
-### [Taiwan Creative Content Agency (TAICCA)](https://taicca.tw/) 🌐
+### [TAICCA (Cultural Industry Promotion Agency)](https://taicca.tw/) 🌐
 
-Cultural content industry development, creative economy
+Promotion of cultural content industry; creative economy.
 
-### [Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/zh/) 🌐
+### [National Film and Sound Arts Center](https://www.tfai.org.tw/zh/) 🌐
 
-Film and audiovisual culture archive and promotion, cinema culture
+Collection and promotion of film and audiovisual culture; film culture.
+
+#### 📰 Arts and Literature Media
+
+### [Tianzang ARTouch](https://artouch.com/) 🌐
+
+A leading media outlet in Taiwan for art news and in-depth reviews, covering contemporary art, ancient art, the art market, and exhibition critiques. Since the launch of _Tianzang Art_ magazine in 1992, it has continuously documented Taiwanese and international artistic trends and is an important source for studying the Taiwanese art ecosystem.
 
 ---
 
-### 📊 Open Data & Digital Infrastructure
+### 📊 Open Data and Digital Infrastructure
 
 #### 📚 Academic Research
 
-### [National Central Library](https://www.ncl.edu.tw/) 🇹🇼
+### [National Library of Taiwan](https://www.ncl.edu.tw/) 🇹🇼
 
-National library and document archive, academic resources
+A national library with collections of documents and academic resources.
 
 ### [Academia Sinica](https://www.sinica.edu.tw/) 🌐
 
-Taiwan's highest academic research institution, fundamental research
+Taiwan's highest national academic research institution; fundamental research.
 
-### [Taiwan Empirical Survey Data Platform](https://tesd.survey.sinica.edu.tw/) 🇹🇼
+### [Taiwan Experience Empirical Survey Data Platform](https://tesd.survey.sinica.edu.tw/) 🇹🇼
 
-Academia Sinica platform integrating eight major social science survey databases (Taiwan Social Change Survey, Taiwan Election and Democratization Study, Asian Barometer Survey, and more), providing online statistical analysis tools and data downloads across politics, society, demographics, law, communication, and child development
+This platform integrates eight major social science databases from Academia Sinica (such as the Taiwan Social Change Survey, Taiwan Election and Democratization Survey, Asian Democracy Dynamics Survey), providing online statistical analysis tools and data downloads covering areas like politics, society, population, law, media, and child development.
 
-### [Taiwan Communication Survey (TCS)](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
+### [Taiwan Media Survey Database](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
 
-NYCU-hosted academic research platform collecting and sharing communication-related survey data, covering longitudinal studies on media use patterns, political communication, social media effects, misinformation, and media trust. ⚠️ As of 2026, TCS is migrating into the Taiwan Empirical Survey Data Platform (tesd.survey.sinica.edu.tw) — the legacy site is scheduled to close, and TCS data will be accessible from the new unified platform
+An academic research platform in communication built by National Yang Ming Chiao Tung University that collects and shares survey data related to communication, including long-term tracking studies on media usage behavior, political communication, social media effects, and media trust. ⚠️ Note: This database is migrating to the "Taiwan Experience Empirical Survey Data Platform" (tesd.survey.sinica.edu.tw) starting in 2026; the original site is scheduled for closure, so please check the new platform for communication survey data.
 
 #### 🌏 International Academic Resources
 
-### [Brill Encyclopedia of Taiwan Studies Online (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
+### [Brill Taiwan Studies Encyclopedia (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
 
-The world's first English-language encyclopedia dedicated to Taiwan studies, published by Brill (Netherlands). Editor-in-Chief: Hsin-Huang Michael Hsiao (Academia Sinica), with 400+ international scholars contributing ~600 entries across 15 fields: archaeology, history, linguistics, anthropology, sociology, political science, international relations, Indigenous studies, literature, gender studies, media studies, film & documentary, music, and visual arts. Subscription-based academic resource available through university libraries.
+The first encyclopedia on Taiwan published by a global academic publisher. Edited by Hsiao Shin-huang from Academia Sinica, it features approximately 600 entries written by over 400 international scholars across 15 disciplines: archaeology, history, linguistics, anthropology, sociology, political science, international relations, indigenous studies, literature, gender studies, media studies, film and documentary, music, and visual arts. This is a paid academic resource available through university library subscriptions.
 
 #### 💾 Digital Archives
 
 ### [Government Open Data Platform](https://data.gov.tw/) 🇹🇼
 
-Unified government open data platform, data governance
+A unified platform for government open data management.
 
-### [g0v Taiwan](https://g0v.tw/) 🌐
+### [g0v Zero-Hour Government](https://g0v.tw/) 🌐
 
-Open-source civic technology community, collaborative governance
+An open-source citizen technology community focused on collaborative governance.
 
-### [Taiwan Digital Archives](https://digitalarchives.tw/) 🌐
+### [Taiwan Submarine Cable Dynamics Map](https://smc.peering.tw/) 🌐
 
-Academia Sinica digital cultural archive, digital humanities
+A real-time monitoring map of undersea cables developed by the private developer Uri Heng, which integrates public data from the Ministry of Digital Affairs and international cable information to visually display the operational status of Taiwan's 15 international and 10 domestic submarine cables. It has been an important reference source for media and fact-checking organizations during multiple submarine cable incidents in 2025, highlighting Taiwan's high reliance on undersea cable communication security as a small island nation. This is a paradigm example of citizen technology and information transparency.
+
+### [Tianzang Taiwan](https://digitalarchives.tw/) 🌐
+
+A digital cultural archive from Academia Sinica; digital humanities. ⚠️ Note: The site returned a 503 error during checks in September 2026, possibly due to maintenance; the "Open Museum" (openmuseum.tw) of Academia Sinica can serve as an alternative entry point.
 
 ### [National Archives Administration](https://www.archives.gov.tw/) 🌐
 
-National archives preservation and application, historical materials
+Preservation and application of national archives; historical data.
 
-### [SciTech Vista](https://scitechvista.nat.gov.tw/) 🌐
+### [Science Park](https://scitechvista.nat.gov.tw/) 🌐
 
-NSTC popular science platform, science education
+A popular science knowledge platform from the Academy of Science and Technology.
 
 ---
 
-### 📺 International Promotion & Media
+### 📺 External Promotion and International Media
 
 #### 🌐 Government Promotion
 
-### [Government Portal](https://www.taiwan.gov.tw/) 🌐
+### [Government Portal Site](https://www.taiwan.gov.tw/) 🌐
 
-Unified government information portal, one-stop services
+A unified entry point for government information; one-stop service.
 
 ### [Taiwan Excellence](https://www.taiwanexcellence.org/en) 🌐
 
-Taiwan Excellence Award, showcasing quality Taiwan products
+The Taiwan Excellence Awards, showcasing high-quality Taiwanese products.
 
-### [Invest Taiwan](https://investtaiwan.nat.gov.tw/) 🌐
+### [Invest in Taiwan](https://investtaiwan.nat.gov.tw/) 🌐
 
-Investment environment and policy information, investment promotion
+Information on the investment environment and policies; attraction of investment.
 
 ### [Study in Taiwan](https://www.studyintaiwan.org/) 🇬🇧
 
-Study in Taiwan information and scholarships, educational internationalization
+Information on studying in Taiwan and scholarships; internationalization of education.
 
 #### 📰 Official Media
 
-### [Central News Agency](https://www.cna.com.tw) 🌐
+### [Central News Agency (CNA)](https://www.cna.com.tw) 🌐
 
-National news agency, authoritative news source
+The national news agency; an authoritative source of news.
 
 ### [Focus Taiwan](https://focustaiwan.tw/) 🇬🇧
 
-CNA English news website, international perspective
+CNA's English news website, offering an international perspective.
 
-### [Radio Taiwan International](https://www.rti.org.tw/) 🌐
+### [Taiwan Radio Broadcasting System](https://www.rti.org.tw/) 🌐
 
-International broadcasting station, multilingual services
+An external broadcasting station providing multilingual services.
 
 ### [Taiwan Today](https://www.taiwantoday.tw/) 🌐
 
-Taiwan's official news platform, policy communication
+A Taiwanese official news platform for policy dissemination.
 
-### [Taiwan Panorama](https://www.taiwan-panorama.com/) 🌐
+### [Taiwan Guanghua Magazine](https://www.taiwan-panorama.com/) 🌐
 
-Taiwan cultural promotion magazine, soft power showcase
+A magazine promoting Taiwanese culture; a display of soft power.
 
-### [Taiwan Public Television Service](https://www.pts.org.tw/) 🌐
+### [Public Television](https://www.pts.org.tw/) 🌐
 
-Public media services, quality content production
+Public media services and high-quality content production.
 
 ---
 
-### 💰 Economy & Finance
+### 💰 Economy and Finance
 
 ### [Taiwan Stock Exchange](https://www.twse.com.tw/) 🌐
 
-Taiwan's primary securities trading market, capital market
+Taiwan's major securities trading market; capital markets.
 
-### [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/) 🌐
+### [Industrial Research Institute of Taiwan (IRIT)](https://www.itri.org.tw/) 🌐
 
-Industrial technology R&D institution, innovation-driven development
+An industrial technology R&D institution driving innovation.
 
-### [Small and Medium Enterprise and Startup Administration](https://www.sme.gov.tw/) 🌐
+### [SME and Startup Agency](https://www.sme.gov.tw/) 🌐
 
-SME development and startup support, entrepreneurial ecosystem
-
----
-
-### ⚖️ Legal & Public Services
-
-### [Laws & Regulations Database](https://law.moj.gov.tw/) 🌐
-
-Comprehensive legal regulation query system, rule of law foundation
-
-### [Bureau of Labor Insurance](https://www.bli.gov.tw/) 🌐
-
-Labor insurance and social security, workers' rights
-
-### [Taiwan Jobs](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
-
-Job matching and career services, human resources
-
-### [Judicial Yuan Legal Research Database](https://lawsearch.judicial.gov.tw/) 🌐
-
-Legal research database, judicial practice
+Support for small and medium-sized enterprises and startups; entrepreneurial ecosystem.
 
 ---
 
-### 🏛️ Human Rights & Democratic Institutions
+### ⚖️ Regulations and Public Services
+
+### [National Legal Database](https://law.moj.gov.tw/) 🌐
+
+A comprehensive legal query system; the foundation of the rule of law.
+
+### [Labor Insurance Bureau (under Ministry of Labor)](https://www.bli.gov.tw/) 🌐
+
+Labor insurance and social security; labor rights.
+
+### [Taiwan Job Bank](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
+
+Job matching and career services; human resources.
+
+### [Judicial Yuan Legal Data Retrieval System](https://lawsearch.judicial.gov.tw/) 🌐
+
+A system for querying legal data in judicial practice.
+
+---
+
+### 🏛️ Human Rights and Democratic Systems
 
 ### [National Human Rights Commission](https://nhrc.cy.gov.tw/) 🌐
 
-Human rights protection and promotion, rights oversight
+Human rights protection and promotion; rights monitoring.
 
 ### [Central Election Commission](https://web.cec.gov.tw/central) 🌐
 
-Central Election Commission official website, democratic institutions
+The official website of the election commission; democratic systems.
 
-### [Transitional Justice Commission](https://www.tjc.gov.tw/) 🌐
+### [Justice Transition (Ministry of Executive Yuan's Human Rights and Justice Transition Office)](https://www.ey.gov.tw/Page/448DE008087A1971/be17db14-1d39-4f5d-add4-8805b1aa05ab) 🌐
 
-Transitional justice promotion (mission completed), historical reconciliation
+This committee expired on May 30, 2022, and its original website has been taken offline. Its functions have been transferred to the Ministries of Justice, Interior, Culture, Health and Welfare, Education, and National Development Council based on task nature. The Executive Yuan established the "Transition Justice Promotion Newsletter" and the "Human Rights and Justice Transition Office" for integrated coordination, as per the Executive Yuan meeting resolution.
 
 ---
 
 ## Usage Guide
 
-### How to Leverage These Resources
+### How to Make Good Use of These Resources
 
-#### 🎯 Use by Category
+#### 🎯 Classification by Need
 
-- **Policy Research**: Follow ministry and commission websites for policy white papers
-- **Cultural Exploration**: From the National Palace Museum to various museums, experience Taiwan's cultural depth
-- **Data Analysis**: Open data platforms provide rich statistical information
-- **Legal Inquiry**: National laws and regulations database is the most authoritative legal reference
+- **Policy Research:** Pay attention to policy white papers from various ministries and commissions' websites.
+- **Cultural Exploration:** Experience Taiwan's culture in depth, from the National Palace Museum to major museums.
+- **Data Analysis:** Open data platforms provide rich statistical data.
+- **Legal Inquiry:** The National Legal Database is the most authoritative legal reference.
 
-#### 🔍 Multilingual Resource Utilization
+#### 🔍 Utilizing Multilingual Resources
 
-- **Chinese Primary**: Most websites provide complete Traditional Chinese content
-- **Bilingual Services**: Important external agencies offer English versions
-- **International Promotion**: Specific websites designed for international users
+- **Chinese Primary:** Most websites offer complete content in Traditional Chinese.
+- **Bilingual Services:** Many key external agencies have English versions.
+- **International Promotion:** Specific websites are designed for international users.
 
-#### 📱 Mobile Friendly
+#### 📱 Mobile Friendliness
 
-Most government websites support responsive design for normal viewing on phones and tablets
+Most government websites support responsive design and can be browsed normally on mobile phones and tablets.
 
 ---
 
 ## Extended Applications
 
-### Academic Research Applications
+### Academic Research Application
 
-These official websites serve as primary sources for research on Taiwan's politics, society, and culture, particularly suitable for:
+These official websites are primary sources for researching Taiwan's politics, society, and culture, particularly suitable for:
 
-- Political Science and Public Administration research
-- Sociology and Anthropology field studies
+- Political science and public administration studies
+- Sociological and anthropological fieldwork
 - Economic statistical analysis
 - Cultural and comparative studies
 
-### Business Applications
+### Business Application
 
-- **Investors**: Understand industrial policies through economic ministry websites
-- **Foreign Businesses**: Use Invest Taiwan website to grasp investment environment
-- **Entrepreneurs**: SME Administration provides startup resources and guidance
+- **Investors:** Understand industry policies through the economic sector websites.
+- **Foreign Companies:** Utilize the Invest in Taiwan website to grasp the investment environment.
+- **Entrepreneurs:** The SME Agency provides entrepreneurial resources and guidance.
 
-### Civic Engagement
+### Citizen Participation
 
-- **Policy Monitoring**: Follow policy developments through ministry websites
-- **Rights Protection**: Use relevant agency websites to understand rights and application procedures
-- **Cultural Participation**: Arts institution websites provide rich cultural activity information
+- **Policy Oversight:** Monitor policy trends through various ministry websites.
+- **Rights Protection:** Use relevant agency websites to understand rights and application procedures.
+- **Cultural Engagement:** Art and cultural institution websites provide rich information on cultural activities.
 
 ---
 
@@ -501,4 +512,4 @@ These official websites serve as primary sources for research on Taiwan's politi
 
 ---
 
-_This directory covers 81+ official websites and serves as a comprehensive guide to understanding Taiwan's government operations, cultural development, and social services. Recommend bookmarking for future reference and categorized use._
+_This resource compendium covers 81 official websites and serves as a complete guide to understanding Taiwan's government operations, cultural development, and social services. It is recommended to save for reference and use according to specific needs._

@@ -2,9 +2,7 @@
 title: 'Taiwanese Enterprise: Formosa Plastics Group'
 description: "The petrochemical empire built by Taiwan's God of Management Wang Yung-ching, and the manufacturing legend of the Formosa Plastics Four Treasures"
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economy',
@@ -14,15 +12,17 @@ tags:
     'Traditional Industries',
     'Formosa Plastics Four Treasures',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:542041b17da4dbbd'
-sourceBodyHash: 'sha256:81797ae5614d2f0c'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:00c7be1d98e156ab'
+sourceBodyHash: 'sha256:55c1707afcbd7a73'
+translatedAt: '2026-09-19T08:03:15.361955+00:00'
 ---
 
 > **30-Second Overview**
@@ -126,42 +126,46 @@ At the same time, however, Formosa Plastics also faces environmental controversi
 ## Challenges and Outlook
 
 **Pressure from Net-Zero Transition**:
-The global trend toward net-zero emissions puts enormous pressure on the petrochemical industry. Formosa Plastics must invest in clean production technologies, improve energy efficiency, and even shift toward producing bio-based chemicals. These transformation investments will affect profitability in the short term, but in the long term they are necessary for survival.
+The global trend toward net-zero emissions places immense pressure on the petrochemical industry. Formosa Plastics must invest in clean production technologies, improve energy efficiency, and even transition to producing green chemicals. While these transformation investments affect profitability in the short term, they are essential for long-term survival.
 
-**Fluctuations in Raw Material Costs**:
-The petrochemical industry is deeply affected by crude oil prices, and FCFC’s 2025 losses were related to rising raw material costs. Formosa Plastics needs to use financial instruments for hedging, or adjust its product structure to reduce risk.
+**Raw Material Cost Fluctuations**:
+The petrochemical industry is heavily influenced by crude oil prices; Formosa Plastics' losses in 2025 were linked to rising raw material costs. Formosa Plastics needs to hedge risks through financial instruments or adjust its product structure to mitigate these risks.
 
-**Tightening Environmental Regulations**:
-Environmental regulations are becoming stricter around the world, and emission standards for the petrochemical industry are being raised year by year. Formosa Plastics must invest in environmental protection equipment and develop more environmentally friendly products and processes.
+**Stricter Environmental Regulations**:
+Environmental regulations are tightening globally, with emission standards for the petrochemical industry being raised year by year. Formosa Plastics must invest in environmental protection equipment and develop greener products and processes.
 
-**Intensifying Market Competition**:
-The Middle East and the U.S. shale oil revolution have brought new competitors, while the petrochemical industries of emerging Asian markets are also developing rapidly. Formosa Plastics must strengthen its competitiveness to maintain an advantage amid intense competition.
+**Intensified Market Competition**:
+New competitors from the Middle East and the US shale oil revolution have emerged, alongside the rapid development of the petrochemical industry in emerging Asian markets. Formosa Plastics must enhance its competitiveness to maintain an edge amid intense competition.
 
 **Future Outlook**:
-Facing these challenges, Formosa Plastics Group has proposed a “five major transformations” strategy:
+Facing these challenges, the Formosa Plastics Group has proposed a "Five Major Transformations" strategy:
 
-1. **Low-Carbon Transformation**: develop carbon capture technologies, produce bio-based plastics, and reduce carbon emissions
-2. **Energy Transformation**: invest in renewable energy and develop energy storage technologies
-3. **Medical and Healthcare**: apply chemical expertise to enter the field of medical materials
-4. **Battery Materials**: provide key materials for the electric vehicle revolution
-5. **Electronic Products**: expand semiconductor materials and electronic chemicals businesses
+1. **Low-Carbon Transformation**: Developing carbon capture technology and producing green plastics to reduce carbon emissions.
+2. **Energy Transformation**: Investing in renewable energy and developing energy storage technologies.
+3. **Healthcare**: Utilizing chemical expertise to enter the medical materials sector.
+4. **Battery Materials**: Providing key materials for the electric vehicle revolution.
+5. **Electronic Products**: Expanding businesses in semiconductor materials and electronic chemicals.
 
-These transformation directions show that Formosa Plastics is working to transform from a “petrochemical company” into a “materials science company.” With its deep foundation in chemical engineering and manufacturing experience, Formosa Plastics has the potential to find growth opportunities in emerging fields.
+These transformation directions show that Formosa is striving to transition from a "petrochemical company" to a "materials science company." With its deep foundation in chemical engineering and manufacturing experience, Formosa has the potential to find growth opportunities in emerging fields.
 
-Formosa Plastics is redefining the “social responsibility of a petrochemical enterprise.” From pursuing profit maximization to also assuming environmental protection and social responsibility, Formosa Plastics’ transformation path will provide a reference case for Taiwan’s traditional manufacturing sector.
+Formosa is redefining the "social responsibility of a petrochemical enterprise." Moving from maximizing profit to simultaneously bearing environmental protection and social responsibilities, Formosa's transformation path offers a case study for Taiwan's traditional manufacturing sector.
 
-The story of Formosa Plastics Group is a microcosm of Taiwan’s industrialization. It witnessed Taiwan’s journey from poverty to prosperity, and from an agricultural society to an industrial society. In the new era, whether Formosa Plastics can transform successfully will determine the competitiveness of traditional manufacturing in the trend toward sustainable development. This is not only the challenge of a single company, but also an important indicator for the transformation of Taiwan’s entire industrial sector.
+The story of the Formosa Plastics Group is a microcosm of Taiwan's industrialization process. It has witnessed Taiwan moving from poverty to prosperity, from an agricultural society to an industrial one. In this new era, whether Formosa can successfully transform will determine the competitiveness of traditional manufacturing in the trend of sustainable development. This is not just a challenge for one company, but an important indicator of the entire transformation of Taiwanese industry.
 
 ---
 
+**Further Reading**:
+
+- [Taiwan Oil Price Mechanism and CPC](/economy/台灣油價機制與中油) — The situation of CPC, another refinery in Taiwan outside of Formosa Plastics: every time oil prices surge, it is called to bear the brunt first; they are distributed equally per liter without anyone tracking who uses the most.
+
 ## References
 
-[^1]: [StoryStudio — Formosa Plastics founding story](https://storystudio.tw/) — History of the founding of Formosa Plastics Group, including the initial shareholder structure and the background of U.S. aid loans; records of capital contributions vary, and it was not simply a private investment of NT$500,000
+[^1]: [StoryStudio — Formosa Founding Story](https://storystudio.tw/) — The history of the Formosa Group, including the initial shareholder structure and the US aid loan background; records of investment from various parties differ, and it was not simply a private investment of NT$500,000
 
-[^2]: [Wikipedia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching was born on January 15, 1917, and died on October 15, 2008, at the age of 92 by traditional East Asian age reckoning
+[^2]: [Wikipedia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching was born on January 15, 1917, and passed away on October 15, 2008, at the age of 92 (by year count)
 
-[^3]: [Commercial Times, January 13, 2026 — Formosa Plastics Four Treasures year-end bonus of three months](https://ctee.com.tw/) — Formosa Plastics Group issued employee year-end bonuses equal to three months of base salary based on 2025 performance, reflecting the group’s corporate culture of sharing profits
+[^3]: [Commercial Times January 13, 2026 — Formosa Plastics Group Year-End Bonus for Three Months](https://ctee.com.tw/) — Formosa Enterprises awarded employees a three-month salary as a year-end bonus in 2025, reflecting the group's corporate culture of sharing profits
 
-[^4]: [Wikipedia — Formosa Plastics Group](https://zh.wikipedia.org/wiki/台塑集團) — The Formosa Plastics Four Treasures (Formosa Plastics, Nan Ya, FCFC, and Formosa Petrochemical) have the largest combined annual revenue scale among Taiwan’s private enterprises
+[^4]: [Wikipedia — Formosa Group](https://zh.wikipedia.org/wiki/台塑集團) — The combined annual revenue scale of Formosa Plastics Group (Formosa, Sanyac, Formosa Plastics, and Formosa Chemicals) is the largest among Taiwan's private enterprises
 
-[^5]: [MoneyDJ — Formosa Petrochemical company profile](https://www.moneydj.com/) — The first naphtha cracker at the Mailiao Sixth Naphtha Cracker complex began operations in 1998, formally completing Formosa Plastics Group’s upstream, midstream, and downstream vertical integration
+[^5]: [MoneyDJ — Introduction to Formosa Plastics Corporation](https://www.moneydj.com/) — The first light crude cracking plant in Maoli began operation in 1998, marking the completion of vertical integration from upstream to downstream by the Formosa Group
