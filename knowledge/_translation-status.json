@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T07:01:20+08:00",
-    "zhCommitHead": "348ea9197",
+    "lastUpdated": "2026-09-20T07:07:22+08:00",
+    "zhCommitHead": "7bbc57a0a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 984,
+        "fresh": 985,
         "stale": 60,
-        "metadata_stale": 63,
+        "metadata_stale": 62,
         "missing": 17,
         "orphan": 0
       },
@@ -93,9 +93,9 @@
       "ar": {
         "total_zh": 1124,
         "fresh": 979,
-        "stale": 61,
+        "stale": 60,
         "metadata_stale": 14,
-        "missing": 70,
+        "missing": 71,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 14,
         "metadata_stale": 4,
-        "missing": 290,
+        "missing": 289,
         "orphan": 0
       }
     },
@@ -7080,8 +7080,8 @@
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
           "translatedAt": "2026-09-20T00:52:47+08:00",
-          "translationLastCommit": "76629c70",
-          "translationLastModified": "2026-08-04T04:55:00+08:00",
+          "translationLastCommit": "7bbc57a0",
+          "translationLastModified": "2026-09-20T07:01:23+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -7269,7 +7269,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35279,8 +35290,8 @@
           "sourceContentHash": "sha256:95cf1ca6d1302123",
           "sourceBodyHash": "sha256:a6d8e0ae74d03252",
           "translatedAt": "2026-09-20T00:52:47+08:00",
-          "translationLastCommit": "ec31f5d9",
-          "translationLastModified": "2026-08-03T11:31:25+08:00",
+          "translationLastCommit": "7bbc57a0",
+          "translationLastModified": "2026-09-20T07:01:23+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -70754,18 +70765,16 @@
         "vi": {
           "path": "vi/Nature/taiwan-environmental-movement-history.md",
           "translatedFrom": "Nature/台灣環境運動史.md",
-          "sourceCommitSha": "44238bb4",
-          "sourceContentHash": "sha256:5ce21d3d3c3acbd6",
-          "sourceBodyHash": "sha256:11166779b46079e7",
-          "translatedAt": "2026-07-31T12:00:00Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:762c2cb912d919af",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T22:54:46.226590+00:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/taiwan-environmental-movement-history.md",
@@ -73624,16 +73633,16 @@
         "ar": {
           "path": "ar/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "2a6e2d13",
           "translationLastModified": "2026-07-27T00:47:17+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/national-parks.md",
@@ -156741,8 +156750,8 @@
           "sourceContentHash": "sha256:3dc0c353cf547397",
           "sourceBodyHash": "sha256:01899a9de634067d",
           "translatedAt": "2026-09-20T00:52:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7bbc57a0",
+          "translationLastModified": "2026-09-20T07:01:23+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -162211,18 +162220,7 @@
           "reason": "same-commit"
         },
         "ar": {
-          "path": "ar/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-20T00:52:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -189153,8 +189151,8 @@
           "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-09-20T00:52:47+08:00",
-          "translationLastCommit": "ccaef080",
-          "translationLastModified": "2026-07-25T10:42:11+08:00",
+          "translationLastCommit": "7bbc57a0",
+          "translationLastModified": "2026-09-20T07:01:23+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
