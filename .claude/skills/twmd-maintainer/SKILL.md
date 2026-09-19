@@ -52,6 +52,7 @@ bash scripts/tools/routine-status.sh
 - **PR**：A/B 路徑（A 已 deprecated v2.1 — routine v2.0 main-direct 無 routine PR；B contributor PR 走 5 層免疫審核）
 - **Issue 重複回應檢查**（Step 2.4 前置 gate）：對 last-active issue 跑 `gh issue view N --json comments -q '.comments[-1]'`，避免維護者連續自答
 - **🔴 紅旗 check**（Step 2.3.1 ground-truth check）— 命中即 abort + LESSONS append
+- **動手前先認領**（Step 3.0，2026-09-19）：要改的 issue / PR 先 `gh issue/pr edit N --add-assignee @me`；已有他人 assignee ＝ 另一台機器在做，跳過（09-18 #1746 兩台同修）
 
 ---
 

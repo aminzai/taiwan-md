@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.10'
-last_updated: 2026-09-05
-last_session: '2026-09-05-154128-fortnight-review（三條投稿判例：人物門檻／覆寫既有文／About 第一人稱）'
+current_version: 'v2.11'
+last_updated: 2026-09-19
+last_session: '2026-09-19-084102-twmd-maintainer-am（Step 3.0 動手前先認領：跨機器平行偵測的第三層）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -278,6 +278,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 | Gate                                             | 觸發 stage  | 條件                                                     | 工具                                                                                                   | 不過 = ?                     |
 | ------------------------------------------------ | ----------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
 | 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                 | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                    |
+| **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事         |
 | 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                  | manual diff scan                                                                                       | close + reason               |
 | [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記    | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流  |
 | ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR） | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct |
@@ -302,7 +303,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 1. **§1c Issue 要修不是要分類** ⭐ — cycle 結束時 issue 只是被分類得更整齊 = 這個 cycle 沒有產出（2026-08-11 哲宇校正）
 2. **§1b Git merge 優先** ⭐ — 收 PR = `gh pr merge` 先；**禁** content 進 main 後 `gh pr close`（2026-07-23 哲宇校正）
 3. **§1b P1 格式債直接 push 到對方分支** ⭐ v2.8 — `maintainerCanModify` 時不寫「請你自己修」等對方；診斷用 `contributor-pr-heal.py --from-pr N` 帶進 main 樹跑，**禁 checkout PR 分支**；draft 先分 ready / draft 再報數（2026-08-18）
-4. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
+4. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）；**Step 3.0 動手前先 `--add-assignee @me`**，已有他人 assignee 就是別台機器在做（2026-09-18 #1746 兩台同修）
 5. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
 6. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
 7. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）
@@ -828,6 +829,20 @@ done
 ## Stage 3: Act（決策 + 執行，預算 50-60%）
 
 **目標**：依 Stage 2 分類，對每個 item 走對應的 hard gate + 執行動作。
+
+### Step 3.0: 動手前先認領（2026-09-19 新增，跨機器平行偵測的第三層）
+
+> 誕生：2026-09-18 兩台機器（musebase 的 maintainer-am 與 commander-macbook 的 heartbeat）各自讀到同一條「給 08:30 maintainer-am」的交接，各自把 #1746 查證修完，push 被拒那一刻才看見對方（LESSONS `handoff-addressed-to-a-routine-name-lands-on-two-machines`）。`check-parallel-actor.sh` 量的是本機 process 與 git-ref，Step 2.4 查的是「最新留言是誰」，而對方的留言是修完才留的——**認領訊號出現在工作結束那一刻，等於沒有認領訊號**。GitHub 是分岔期間兩台機器唯一共看的那棵樹，所以認領要落在 GitHub 上，落在動手之前。
+
+**規則**：對任何要動手改的 issue / PR，Stage 3 第一個動作是把自己掛上去；已經有 assignee 且不是自己 → 那件事有人在做，跳過，不重做。
+
+```bash
+gh issue view N --json assignees -q '[.assignees[].login] | join(",")'   # 空 → 可接；非空且不是自己 → 跳過
+gh issue edit N --add-assignee @me            # issue 認領
+gh pr   edit N --add-assignee @me             # PR 認領（審核前就掛，不等 merge 才留言）
+```
+
+做完後結果留言（Step 3.7）照舊；認領本身不多一則留言。分靈節點 PR 的「draft = 認領中」（§C 路徑）是同一個協議在節點側的形狀，本步是 issue／contributor PR 側缺的那一格。
 
 ### ~~Step 3.1: PR A 路徑 act（routine + owner）~~ ⚠️ DEPRECATED v2.1
 
@@ -1481,6 +1496,8 @@ Branch protection：需 1 approval，`enforce_admins: false`。目前策略：�
 
 ---
 
+_v2.11 | 2026-09-19 twmd-maintainer-am — **Step 3.0 動手前先認領**：09-18 兩台機器各自讀到同一條交接、各自把 #1746 修完，push 被拒才看見對方；本機的平行偵測與 Step 2.4 都看不到另一台機器上正在進行的 session，因為對方的留言是修完才留的。修法是把認領落在兩台共看的 GitHub 上、落在動手之前：`gh issue/pr edit N --add-assignee @me`，已有他人 assignee 就跳過。Hard Gate Inventory 與 Top-N 同步。LESSONS `handoff-addressed-to-a-routine-name-lands-on-two-machines` 修補候選 (a) 落地；(b) handoff 第四態未動。_
+
 _v2.10 | 2026-09-05 fortnight-review — **三條投稿判例補進 canonical**（哲宇 fortnight-review session 對 OBSERVER-QUEUE #30／#32／#33 拍板）：(1) §人物文章知名度門檻 補「自媒體時代表演者」判例——主流媒體報導排除平台目錄頁／自營頻道／表演者身分上節目三種型態，維基條目存否改直接打 API 查、不用腳註網域推，源自 KENJI／黑貓老師／Cheap／蔡黑皮／三度C 五案；(2) §Step 3.7 三級判斷表後補第五路徑「已查證成品被整篇覆寫 → EVOLVE 接住＋Co-authored」，判準看 `lastHumanReview`／`researchReport`／`sporeLinks` 三欄位，源自陳士駿／台灣便利商店文化／台灣高鐵三案；(3) §外向留言分層 補「投稿者以 Taiwan.md 第一人稱寫自述文」判例——About/ 只收 Taiwan.md 或哲宇本人第一人稱，投稿者觀察即使內容正確也不進 About/，源自 PR #1407／#1411。三案後續工作（EVOLVE 接住／exams feature）同時登記進 [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)。_
 
 _v2.9 | 2026-08-19 — **同日兩波獨立寫下同兩段，rebase 合成聯集**。8/19 早班 routine（v2.7 標記）與 8/18 manual session（v2.8 標記）在不知道彼此的情況下，各自把「格式債 default 走 P1 推對方分支」與「診斷把內容帶進 main 樹跑」寫進 canonical——同一批 idlccp1984 PR 逼出同樣的兩條結論，是這兩條規則的獨立雙重驗證。合併取聯集：Step 1.5b 取早班的儀器化版（`pr-ci-armed.sh` 三態判準，優於 manual 版的 snippet），Draft PR 處置與 Step 1.3「先分 ready／draft 再報數」取 manual 版（早班沒有），§1c 還原只有 manual 版有（早班那份仍站在被覆寫的 v2.6 上，沒察覺回歸）。下方 v2.7／v2.8 兩條原文一併保留作證據鏈。_
@@ -1510,6 +1527,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.11**（2026-09-19 twmd-maintainer-am）— Step 3.0 動手前先認領（`--add-assignee @me`），跨機器平行偵測的第三層
 - **v2.10**（2026-09-05 fortnight-review）— 三條投稿判例：人物知名度門檻自媒體變體明文化／覆寫既有查證文第五路徑 EVOLVE 接住／About 第一人稱自述文收錄邊界
 - **v2.9**（2026-08-19 合併）— 早班 routine 與 8/18 manual session 同日獨立寫同兩段，取聯集：儀器化 Step 1.5b ＋ Draft PR 處置 ＋ §1c 還原
 - **v2.7**（2026-08-19 twmd-maintainer-am）— Step 1.5b 儀器化（`pr-ci-armed.sh`，三態判準）+ §1b 格式債 default 走 P1 推對方分支 + Stage 2 診斷紀律「內容進 main 樹，不 checkout PR 樹」
