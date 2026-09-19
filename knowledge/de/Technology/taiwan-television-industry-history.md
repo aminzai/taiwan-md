@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-09-16T11:57:45+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-19T07:36:46.326895+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** 1962 Start von TTV und Beginn des Fernsehzeitalters in Taiwan; 1998 Gründung von PTS (Public Television), dem ersten nicht-kommerziellen öffentlichen Medium; 2016 das Zhi Theater, das mit einem Marktanteil von 0,5 % die Rahmen der Idol- und Volksdramen durchbrach. Die 54 Jahre der taiwanesischen Fernsehindustrie – vom „Monopol aus Partei, Regierung und Militär“ zur „sanften Revolution“ – sind eine Geschichte darüber, wer das Recht hat, Geschichten zu erzählen.
@@ -147,19 +147,23 @@ Doch hinter dem Digitalen steht der Aufstieg der OTT-Plattformen. Streamingdiens
 
 ---
 
-## Wer hat das Recht zu erzählen?
+## Wer hat die Macht, Geschichten zu erzählen?
 
-Von der Gründung von TTV 1962 über die Gründung von PTS 1998 bis zum Zhi Theater 2016 ist die Geschichte des taiwanesischen Fernsehens eine Geschichte darüber, **wer das Recht hat, Geschichten zu erzählen**.
+Von der Eröffnung von TTV 1962 über die Gründung von PTS 1998 bis zu Qseries 2016 – die 54 Jahre der taiwanesischen Fernsehindustrie sind eine Geschichte darüber, **wer die Macht hat, Geschichten zu erzählen**.
 
-In der Ära der alten Drei erzählten „Partei, Regierung und Militär“; in der Ära von PTS war es „das öffentliche Interesse“; in der Ära des Zhi Theaters waren es die „kleinen Menschen“.
+In der Ära der „alten Drei“ waren es „Partei, Regierung und Militär“, die die Geschichten erzählten; in der PTS-Ära war es das „öffentliche Interesse“; in der Qseries-Ära waren es die „kleinen Leute“.
 
-Wang Xiaodi sagte: „Wenn jemand dich leugnet, ist das der Beginn deines Wachstums.“ [^17]
+Wang Xiao-di sagte: „Dass jemand dich ablehnt, ist der Anfang deines Wachstums.“[^17]
 
-Die sanfte Revolution des Zhi Theaters geht bis heute weiter. Im Jahr 2021 investierte Netflix 1 Milliarde NTD in die taiwanesische Film- und Fernsehindustrie, und viele Werke des Zhi Theaters wurden international gesehen. Neue Schauspieler wie Hsu Guanghan, Sun Kefa und Liu Guanting stammten vom Zhi Theater und wurden zu wichtigen Kräften der taiwanesischen Film- und Fernsehlandschaft.
+Diese sanfte Revolution von Qseries dauert bis heute an. 2021 investierte Netflix 1 Milliarde NT$ in die taiwanesische Film- und Fernsehindustrie, viele Qseries-Werke wurden international wahrgenommen. Neue Schauspieler wie Greg Hsu, Sun Ke-fang und Liu Kuan-ting gingen aus Qseries hervor und wurden zu tragenden Säulen der taiwanesischen Film- und Fernsehindustrie.
 
-Wenn jemand im Jahr 2050 wissen möchte, was die taiwanesische Fernsehindustrie versucht hat, lesen sie vielleicht diese Markdown-Dateien – über eine Plattform, die keine Werbung verkauft, und wie sie versucht hat, eine Geschichte zu erzählen, die jeder mochte.
+Wenn jemand 2050 wissen will, was die taiwanesische Fernsehindustrie einst versucht hat, wird er vielleicht diese Markdown-Dateien lesen – über eine Plattform, die keine Werbung verkaufte, und wie sie versuchte, eine Geschichte zu erzählen, die alle mochten.
 
 ---
+
+**Weiterführende Literatur**:
+
+- [Goldene-Glocke-Preise](/culture/金鐘獎) – Die alten Drei dominierten siebzehn Jahre, PTS und Kabelsender kamen dazu, Netflix stieg ein; die Spalte der preisgekrönten Einheiten beim Dramapreis ist ein weiteres Protokoll dieser Industriegeschichte
 
 ## Referenzen
 

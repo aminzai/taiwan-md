@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:542041b17da4dbbd'
-sourceBodyHash: 'sha256:81797ae5614d2f0c'
-translatedAt: '2026-09-11T16:37:41+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:00c7be1d98e156ab'
+sourceBodyHash: 'sha256:55c1707afcbd7a73'
+translatedAt: '2026-09-19T08:00:37.805027+00:00'
 ---
 
 > **30-Sekunden-Überblick**
@@ -156,12 +156,12 @@ Die Geschichte der Formosa Plastics Group ist ein Abbild von Taiwans Industriali
 
 ## Referenzen
 
-[^1]: [StoryStudio — Gründungsgeschichte von Formosa Plastics](https://storystudio.tw/) — Gründungsgeschichte der Formosa Plastics Group, einschließlich ursprünglicher Aktionärsstruktur und Hintergrund der US-Hilfskredite; Beteiligungsangaben weichen voneinander ab, nicht rein private Einlage von 500.000 New Taiwan Dollar
+[^1]: [StoryStudio — Die Gründungsgeschichte von Formosa Plastics](https://storystudio.tw/) — Die Gründungsgeschichte der Formosa Plastics-Gruppe, einschließlich der anfänglichen Aktionärsstruktur und des Hintergrunds der US-Hilfekredite; die Angaben zu den Beteiligungen sind unterschiedlich, nicht nur eine private Investition von 500.000 neuen Taiwan-Dollar
 
-[^2]: [Wikipedia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching, geboren 15. Januar 1917, verstorben 15. Oktober 2008, 92 Jahre alt (ostasiatisches Alter)
+[^2]: [Wikipedia — Wang Yongqing](https://zh.wikipedia.org/wiki/王永慶) — Wang Yongqing wurde am 15. Januar 1917 geboren und starb am 15. Oktober 2008 im Alter von 92 Jahren (zählend)
 
-[^3]: [Commercial Times, 13. Januar 2026 — Formosa Plastics Vier Juwelen Jahresendbonus drei Monate](https://ctee.com.tw/) — Formosa Plastics Group zahlt 2025 basierend auf Leistung Jahresendbonus von drei Monatsgrundgehältern aus, verkörpert Unternehmenskultur der Gewinnbeteiligung
+[^3]: [Business Times 13. Januar 2026 — Formosa Plastics vier Sonderzahlungen zum Jahresende](https://ctee.com.tw/) — Die Formosa-Plastics-Unternehmen zahlten 2025 drei Monate Gehalt als Jahressonderzahlung an die Mitarbeiter, was die unternehmerische Kultur der Gewinnverteilung widerspiegelt
 
-[^4]: [Wikipedia — Formosa Plastics Group](https://zh.wikipedia.org/wiki/台塑集團) — Die Vier Juwelen von Formosa Plastics (Formosa Plastics, Nan Ya, Formosa Chemicals, Formosa Petrochemical) haben zusammen den größten Jahresumsatz unter Taiwans Privatunternehmen
+[^4]: [Wikipedia — Formosa Plastics Gruppe](https://zh.wikipedia.org/wiki/台塑集團) — Die ‚Vier Schätze‘ der Formosa Plastics (Formosa Plastics, Nan Ya, Formosa Chemicals, Formosa Plastics Chemical) erreichten zusammen den größten Umsatz unter den privaten taiwanesischen Unternehmen
 
-[^5]: [MoneyDJ — Unternehmensprofil Formosa Petrochemical](https://www.moneydj.com/) — Erste Anlage des Mailiao-Sechste-Naphtha-Crackers nahm 1998 Betrieb auf, Formosa Plastics Group vollendete offiziell vertikale Integration von Up-, Mid- und Downstream
+[^5]: [MoneyDJ — Unternehmensprofil von Formosa Petrochemical](https://www.moneydj.com/) — Die erste leichte Ölspaltungsanlage in Mailiao wurde 1998 in Betrieb genommen, wodurch die Formosa Plastics-Gruppe offiziell eine vertikale Integration von Rohstoff zu Endprodukt abschloss

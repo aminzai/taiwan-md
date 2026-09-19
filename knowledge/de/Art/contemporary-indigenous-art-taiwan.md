@@ -1,176 +1,148 @@
 ---
-title: 'Taiwanische indigenerer zeitgenössische Kunst'
-description: 'Von traditioneller Handwerkskunst zu zeitgenössischer Schöpfung: Taiwanische indigene Künstler*innen finden auf der globalen Kunstbühne ihre Stimme und definieren neu das Gespräch zwischen indigenen Identitäten und zeitgenössischer Kunst'
+title: 'Taiwanesische indigene zeitgenössische Kunst'
+description: 'Von traditionellem Handwerk bis zur zeitgenössischen Kreation: Erkundung, wie taiwanesische indigene Künstler auf der globalen Kunstbühne Gehör finden und den Dialog zwischen indigener Identität und zeitgenössischer Kunst neu definieren.'
 date: 2026-03-20
 category: 'Art'
 tags:
   [
     'Indigene Völker',
-    'zeitgenössische Kunst',
-    'traditionelle Handwerkskunst',
+    'Zeitgenössische Kunst',
+    'Traditionelles Handwerk',
     'Identität',
-    'Künstler*innen',
-    'kulturelle Revitalisierung',
+    'Künstler',
+    'Kulturelle Revitalisierung',
   ]
 subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-09-18
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Art/台灣原住民當代藝術.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:8e3303199d60c0c9'
-sourceBodyHash: 'sha256:83f9f1bad3cb5feb'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '5f683a19c'
+sourceContentHash: 'sha256:95cf1ca6d1302123'
+sourceBodyHash: 'sha256:a6d8e0ae74d03252'
+translatedAt: '2026-09-19T11:59:12+08:00'
 ---
 
-# Taiwanische indigenerer zeitgenössische Kunst
+# Taiwanesische indigene zeitgenössische Kunst
 
-Die zeitgenössische Kunst taiwanischer Indigener durchlief in den letzten 30 Jahren einen tiefgreifenden Wandel. Von den 1990er Jahren an traten eine Gruppe indigener Künstler*innen aus ihren Dörfern heraus in die dominante Kunstwelt ein und definierten mit ihrer Arbeit neu, was „indigene Kunst“ bedeutet. Sie waren nicht nur Hüter*innen traditioneller Handwerkskunen, sondern auch Schöpfer\*innen, die sich mit aktuellen gesellschaftlichen Themen auseinandersetzen und die Kultur der taiwanischen Indigenen auf verschiedenen künstlerischen Bühnen präsentieren[^1]。
+Taiwanesische indigene zeitgenössische Kunst hat in den vergangenen 30 Jahren eine tiefgreifende Transformation durchlaufen. Ab den 1990er Jahren traten eine Gruppe indigener Künstler aus ihren Dörfern heraus, betraten die Mainstream-Kunstwelt und nutzten ihre Kreationen, um neu zu definieren, was „indigene Kunst“ bedeutet. Sie wurden nicht nur zu Bewahrern traditioneller Handwerkskunst, sondern auch zu Schöpfern, die mit zeitgenössischen Themen in Dialog treten, und präsentierten das Antlitz der taiwanesischen indigenen Kultur auf verschiedenen Kunstbühnen[^2].
 
-## Von traditioneller Handwerkskunst zur Moderne
+## Vom traditionellen Handwerk zur zeitgenössischen Transformation
 
-### Traditionelle Handwerkskunst als künstlerische Grundlage
+### Die künstlerische Grundlage des traditionellen Handwerks
 
-Jede indigene Gruppe Taiwans verfügt über hochstehende traditionelle Handwerkskunst; diese Fähigkeiten bilden die Nährung für zeitgenössische kreative Arbeiten. Die Webekunst der Tsou, die Holzschnitzereien der Paiwan, die Töpferkunst der Amis und die Schiffbauhandwerkskunst der Tao – jede dieser Techniken birgt tiefe kulturelle Bedeutung und ästhetische Konzepte.
+Alle indigenen Völker Taiwans verfügen über exquisite traditionelle Handwerkstechniken, die wichtige Nährstoffe für die zeitgenössische Kreation darstellen. Die Webkunst der Atayal, die Holzschnitzerei der Paiwan, die Töpferkunst der Amis, die Schiffsbaukunst der Tao (Yami) – jede dieser Techniken birgt tiefe kulturelle Bedeutung und ästhetische Konzepte.
 
-Die Webekunst der Tsou ist besonders fein. Traditionell auf einem Kastenwebstuhl hergestellte Stoffe verwenden geometrische Muster wie Rauten und Streifen; jedes Muster trägt einen spezifischen Namen und eine Bedeutung. Das Muster „Auge der Vorfahren“ steht für den Schutz der Ahnen, während „Sonnenstrahlen“ das Lebensgefühl symbolisieren. Diese Muster dienen nicht nur der Dekoration, sondern sind Träger der kollektiven Erinnerung der Gruppe.
+Die Webkunst der Atayal ist am feinsten ausgearbeitet. Die auf traditionellen Webstühlen gewebten Stoffe verwenden Rauten-, Streifen- und andere geometrische Muster, und jedes Muster hat einen spezifischen Namen und eine Bedeutung. Das Muster „Auge der Ahnengeister“ repräsentiert den Schutz der Vorfahren, „Sonnenstrahlen“ symbolisieren Lebenskraft. Diese Muster sind nicht bloß Dekoration, sondern Träger des kollektiven Gedächtnisses der Völker.
 
-Die Holz- und Steinschnitzereien der Paiwan sind ebenso beeindruckend. Die Muster von Giftschlangen, Menschenköpfen und Sonnen sind klassische Elemente, die die Ehrfurcht der Paiwan vor der Natur und den Ahnen ausdrücken. Traditionelle Holzschnitzereien wurden oft zur Dekoration der Häuser von Anführern verwendet und verkörperten den Adel und den gesellschaftlichen Status.
+Die Holz- und Steinschnitztechniken der Paiwan sind ebenso beeindruckend. Das Hundertschritt-Schlangen-Muster, Menschenkopf-Muster und Sonnen-Muster sind die klassischsten Elemente und verkörpern die Verehrung der Paiwan für die Natur und die Ahnen. Traditionelle Holzschnitzereien dienten 주로 der Verzierung der Häuser der Häuptlinge und demonstrierten aristokratische Identität und sozialen Status.
 
-Diese traditionellen Fähigkeiten stehen heute vor der Herausforderung des Erhalts, bieten aber gleichzeitig reiche Materialien und Inspirationen für die zeitgenössische kreative Arbeit. Viele indigene Künstler\*innen interpretieren diese traditionellen Elemente neu und lassen die alten Techniken im modernen Kontext neu erblühen.
+Diese traditionellen Techniken stehen in der Gegenwart vor einer Weitergabe-Krise, bieten gleichzeitig aber reiches Material und Inspirationsquellen für die zeitgenössische Kunstschaffung. Viele indigene Künstler interpretieren diese traditionellen Elemente in ihren Werken neu und lassen alte Techniken im modernen Kontext neu aufleben.
 
-### Der Übergang von Tradition zu Moderne
+#### Der Übergang vom Traditionellen zum Zeitgenössischen
 
-In den späten 1980er Jahren begann die taiwanesische Gesellschaft, die Vielfalt der Kulturen zu schätzen, und die Sichtbarkeit indigener Kunst stieg. 1988 fand die „Ausstellung der taiwanischen indigenen Kunst“ statt, was als Startpunkt für die Einführung indigener Kunst in das etablierte Kunstsystem gilt[^1]。 Diese Veranstaltung zeigte nicht nur traditionelle Handwerkskunst, sondern ermutigte auch innovative kreative Arbeiten.
+Ende der 1980er Jahre begann die taiwanesische Gesellschaft, multikulturelle Werte zu schätzen, und die Sichtbarkeit indigener Kunst nahm zu. Ab den 1990er Jahren verließen Schöpfer wie Sakuliu Pavavaljung (撒古流‧巴瓦瓦隆) und Rahic Talif (拉黑子‧達立夫) den Rahmen des dörflichen Handwerks und traten mit Skulptur, Installation und Performancekunst in Dialog mit dem Mainstream-Kunstsystem. Die „Ausstellung zeitgenössischer indigener Kunst“ 1998 im Taipei Fine Arts Museum wird oft als Knotenpunkt genannt; An Sheng-hui (安聖惠) wurde in jenem Jahr eingeladen, teilzunehmen, und ging von ihrem Blumenatelier in die künstlerische Kreation[^1].
 
-In derselben Zeit begannen einige indigene Künstler\*innen, sich einer modernen künstlerischen Ausbildung zu unterwerfen und lernten Ölmalerei, Skulptur, Druckgrafik und andere westliche künstlerische Techniken. Während des Lernprozesses überlegten sie, wie traditionelle Kultur mit moderner Kunst verbunden werden könnte, was die Erforschung des „Modernisierens traditioneller Handwerkskunst“ einleitete.
+In derselben Periode begannen einige indigene Künstler, moderne Kunstausbildung zu erhalten und westliche Techniken wie Ölmalerei, Skulptur und Druckgrafik zu erlernen. Im Lernprozess reflektierten sie, wie sie traditionelle Kultur mit moderner Kunst verbinden könnten, und eröffneten die Erkundung der „Zeitgenössisierung traditionellen Handwerks“.
 
-Dieser Übergang war nicht gerade glatt. Frühe kreative Arbeiten wurden oft als „nicht genug traditionell“ oder „nicht genug modern“ kritisch betrachtet; die Künstler\*innen mussten das Gleichgewicht zwischen kultureller Authentizität und künstlerischer Innovation finden. Nach jahrelanger Erkundung entwickelte sich die zeitgenössische Kunst der taiwanischen Indigenen zu einer eigenständigen Stilistik und Sprache.
+Dieser Übergangsprozess verlief nicht reibungslos. Frühe Werke wurden oft als „nicht traditionell genug“ oder „nicht zeitgenössisch genug“ kritisiert; Künstler mussten zwischen der Wahrung kultureller Authentizität und dem Streben nach künstlerischer Innovation ein Gleichgewicht finden. Nach jahrelanger Erkundung entwickelte die taiwanesische indigene zeitgenössische Kunst allmählich ihre eigenen Charakteristika und Vokabulare.
 
-## Wichtige Künstler\*innen und kreative Entwicklung
+## Wichtige Künstler und ihr Schaffensweg
 
-### Die Pioniere der ersten Generation
+### Die erste Generation der Pioniere
 
-**Sakinu Pawavalung** (Paiwan) ist ein bedeutender Vordenker der zeitgenössischen indigenen Kunst Taiwans. Diese Paiwanische Künstler begann in den 1980er Jahren zu schaffen; seine Werke verbinden traditionelle Paiwanische Holzschnitztechniken mit Konzepten der zeitgenössischen Installation. Seine Serie „Traditionelle Wohnung“ verwandelte das traditionelle Wohnkonzept in großformatige Installationen und rekonreierte den heiligen Raum der Paiwan in Museumsräumen.
+**Sakuliu Pavavaljung (撒古流‧巴瓦瓦隆，1960 geboren)** stammt aus dem Dorf Davalan (達瓦蘭部落) in der Gemeinde Sandimen (三地門鄉), Landkreis Pingtung (屏東), und entstammt einer Paiwan-Kunsthandwerkerfamilie über drei Generationen. 1978 gründete er das Gulu-Studio (古流工作室); sein Schaffen umfasst Malerei, Skulptur, Keramik und Architektur. Er widmete sich langfristig der Dokumentation und Revitalisierung der Paiwan-Steinplattenhäuser und traditionellen Ästhetik. 2018 wurde er der erste indigene Künstler, der den Nationalen Preis für Kunst und Literatur in der Kategorie Bildende Kunst erhielt[^3][^4]. Diese Geschichte erhielt später eine weitere Facette. 2021 wurde er als Vertreter Taiwans für die 59. Venedig-Biennale ausgewählt, anschließend namentlich der sexuellen Übergriffe beschuldigt; das Taipei Fine Arts Museum beendete im Januar 2022 seine Vertretung. Im April 2026 wurde das Urteil des Obersten Gerichtshofs rechtskräftig, und der National Culture and Arts Foundation (國藝會) entzog ihm die Auszeichnung[^3][^5].
 
-Sakinus kreative Arbeit konzentriert sich auf die kulturelle Revitalisierung. Er gründete ein Atelier in Sanhe Town in Pingtung County, wo er junge Menschen in der Holzschnitztechnik unterrichtet und die traditionellen Fähigkeiten an städtische indigene Jugendliche vermittelt (siehe [Kulturzentrum für indigene Entwicklung des Ministeriums für indigene Völker](https://www.tacp.gov.tw/) für detaillierte Informationen zu seiner kreativen Philosophie).
+**Yuma Taru (尤瑪‧達陸)** ist eine zentrale Treiberin der Revitalisierung der Atayal-Webkunst. Sie stammt aus dem Dorf Xiangbi (象鼻部落) in Miaoli (苗栗) und verbrachte fast zwanzig Jahre damit, die traditionellen Trachten der verschiedenen Atayal-Gruppen nachzufertigen. Sie gründete die „Wild Tung Tree Werkstatt“ (野桐工坊) und arbeitet mit den Weberinnen des Dorfes zusammen. Sie wurde vom Kulturministerium als wichtige Bewahrerin der traditionellen Atayal-Färbe- und Webkunst registriert[^6][^7]. Ihre Arbeit verwandelte das Weben vom Museumsstück in der Vitrine zurück zu einer lebendigen Technik, die im Dorf noch getragen, gewebt und gelehrt wird.
 
-**Yuma Taru** (Tsou) ist eine Schlüsselfigur in der Wiederbelebung der Tsou Webekunst. Sie widmete sich seit den 1990er Jahren der Wiederbelebung traditioneller Webetechniken; nicht nur bewahrte sie die alten Fähigkeiten, sondern führte die Webekunst auch in die zeitgenössische Kunstwelt ein. Ihre gegründete Werkstatt „Yuan Tong“ ist ein zentraler Akteur für die Verbreitung der Tsou Webekultur[^2]。
+### Die zweite Generation der Durchbrecher
 
-Yumas textile Werke bewahren traditionelle Techniken bei, wagen jedoch auch neue Farbkombinationen und Muster. Ihre großformatige textile Installation „Die Stimme der Ahnen“ wurde 2010 auf der Taipeher Dualen Biennale gezeigt und brachte die zeitgenössische Schönheit der Tsou Webekunst auf die internationale Bühne.
+**Rahic Talif (拉黑子‧達立夫，1962 geboren)** ist ein Amis-Künstler aus dem Hafen-Dorf Makota'ay (港口部落/豐濱港口部落) in Hualien (花蓮). Sein Schaffen spannt Skulptur, Installation, Performancekunst und Möbeldesign; er schreibt auch Essays. Von den frühen Werken „Moderner Versammlungssaal“ (《現代集會所》), „Stehender Tanz“ (《站立之舞》), „Überreste“ (《殘》) (1993) über das „Taifun-Projekt“ (2008–2013), „Fünfzig Schritte Raum“ (2013–2018) bis hin zu „Meer Schön / Kein Museum“ (2018–2020) durchwanderte er wiederholt die Küste, sammelte Treibholz und Meeresmüll als Material und fügte die Lage des Dorfes und den Wandel der Küstenlinie in seine Werke ein[^8]. Der Name „Fünfzig Schritte Raum“ stammt von einem Satz seines verstorbenen Vaters: „Wir haben nur noch fünfzig Schritte.“
 
-### Die Durchbrüchler der zweiten Generation
+**An Sheng-hui (安聖惠，indigener Name: Eleng Luluan, 峨冷‧魯魯安，1968 geboren)** stammt aus einer Häuptlingsfamilie der Rukai (魯凱族) im alten Haocha-Dorf (好茶部落) am Dawu-Berg (大武山) in Pingtung. Sie führte ursprünglich ein Blumenatelier, trat 1998 nach einer Einladung zur Ausstellung zeitgenössischer indigener Kunst im Nordmuseum (北美館) in die künstlerische Kreation ein und zog Anfang der 2000er Jahre nach Taitung (台東), wo sie sich dem „Bewusstseins-Dorf“ (意識部落) am Jinzun-Strand (金樽海灘) anschloss und vor Ort schuf. Sie beherrscht Mixed-Media-Skulptur und Umgebungsinstallation; ihr repräsentatives Werk „Zwischen Traum und Traum“ (《夢與夢之間》) webt weiße Styroporstangen, Verpackungsbeutel und Verpackungspapier zu einer großen, mutterleibähnlichen Installation. 2019 lud die National Gallery of Canada zur „Globalen indigenen zeitgenössischen Kunst-Fünfjahresausstellung“ siebzig Künstler ein; sie war die einzige eingeladene indigene Künstlerin Taiwans[^1].
 
-**Rahic Talif** (Amis) ist ein zeitgenössischer Künstler aus der Amis Gruppe; seine kreative Arbeit stellt kühn die Grenzen zwischen Tradition und Moderne in Frage. Er nahm mehrfach an bedeutenden internationalen Ausstellungen teil und zählt zu den sichtbarsten indigenen Künstler\*innen Taiwans auf internationalen Bühnen[^2]。
+### Die dritte Generation der Innovatoren
 
-Rahics Werk „Wunsch/Quelle“ erforscht die Komplexität indigener Identität. Er verwendet Schiffswrackholz, Abfallmaterialien und moderne Materialien für großformatige Installationen, um die Lebenslage der Indigenen in der modernen Gesellschaft widerzuspiegeln. Das Schiffswrackholz symbolisiert die verwurzelten Indigenen, während es zugleich ihre unerschütterliche Lebenskraft zeigt.
+**Lin Chieh-wen (林介文，indigener Name: Labay Eyong，1982 geboren)** ist eine Truku-Künstlerin (太魯閣族) aus dem Hongye-Dorf (紅葉部落) in der Gemeinde Wanrong (萬榮鄉), Hualien. 2008 absolvierte sie die Fakultät für Temporäres Raumdesign an der Architekturschule der Autonomen Universität Barcelona (巴塞隆納自治大學). Nach der Rückkehr ins Dorf lernte sie den traditionellen Bodenwebstuhl Ubung von Ältesten wie Liao A-hao (廖阿好), verband Weben mit Metallkunst und schuf Weichskulpturen, Videos und öffentliche Kunst. 2014 und 2016 gewann sie zweimal den Ersten Preis des Pulima-Kunstpreises. 2021 initiierte sie im Rui-xin-Bergbaugebiet (瑞欣礦區) neben dem Hongye-Dorf die Aktionsperformance „Berg umhüllen Dungku Asang“ (《裹山 Dungku Asang“), bei der sie den abgebauten Bergkörper mit Gewebe umhüllte[^9][^10][^11].
 
-Seine kreative Methode verbindet Performancekunst, Installationskunst und Medienkunst und überschreitet die Grenzen traditioneller Medien. Bei seiner Arbeit „Wenn du in der Mitte der Welt nach Liebe schreibst“ auf der Biennale von Venedig kombinierte er die traditionelle Amis Gesangsmelodie mit modernen Bildtechnologien, um eine beeindruckende audiovisuelle Erfahrung zu schaffen.
-
-**An Sheng-hui** (Paiwan) ist eine Töpferin; ihre kreative Arbeit führt die traditionelle Töpferkunst der Paiwan in die moderne Töpferkunst ein. Ihre Werke verbinden die Form und das Feuer der traditionellen Paiwan Töpferkunst, wobei die Form und das Konzept freier und experimenteller sind.
-
-An Sheng-huis Werk „Erinnerung an den Boden“ dokumentiert die Landschaft und Erinnerungen der Paiwan Dörfer durch Töpfern. Sie sammelte Boden aus verschiedenen Dörfern, vermischte ihn und formte Töpferwaren, wobei jedes Werk die Geschichte und Erinnerung eines bestimmten Ortes trägt.
-
-### Die Innovatoren der dritten Generation
-
-**Eleng Luluan** (Rukai) ist eine Kuratorin und Künstlerin aus der Rukai Gruppe; sie hat sich über viele Jahre der Förderung der Entwicklung zeitgenössischer indigener Kunst gewidmet. Ihre organisierte Kunstfestspiele „Kunstfest auf dem Hang“ ist eine wichtige Plattform für die Präsentation der kreativen Kraft junger indigener Künstler\*innen (siehe Informationen der Stiftung für indigene Kulturprojekte).
-
-Elengs kuratorische Philosophie betont die „Des Zentrums Entfernung“; sie glaubt, dass indigene Kunst nicht als „besonders“ oder „anderweitig“ betrachtet werden sollte, sondern ein wichtiger Bestandteil der zeitgenössischen Kunst Taiwans sein muss. Ihre Ausstellung „Wie es eigentlich ist“ ordnete die Entwicklungsliniie der taiwanischen indigenen Kunst neu und erhielt höchste Anerkennung in der Kunstwelt.
-
-**Lin Jie-wen** (Amis) ist ein junger Künstler aus der Amis Gruppe; seine kreative Arbeit nutzt umfassend neue Medientechnologien. Sein VR Werk „Das Meer der Amis“ lässt die Zuschauer in die Meereskultur der Amis eintauchen und das traditionelle Fischereileben erfahren.
-
-Lin Jie-wens kreative Arbeit spiegelt die kulturellen Erfahrungen indigener Jugendlicher in der digitalen Ära wider. Er sagte: „Wir, die jüngere Generation der Indigenen, sind von klein auf in der digitalen Welt aufgewachsen; es ist ganz natürlich, digitale Medien zur Schöpfung zu verwenden. Der Schlüssel ist, wie man moderne Technologie verwendet, um die alte Weisheit zu vermitteln.“
+**Etan Pavavalung (伊誕‧巴瓦瓦隆)** stammt ebenfalls aus dem Davalan-Dorf der Pavavalung-Familie. Sein Schaffen umfasst Poesie, Essays, Malerei, Druckgrafik, Schnitzerei, Installation und Videodokumentation. 2009 entwickelte er seine selbst benannte „Muster-Schicht-Schnitzmalerei“ (紋砌刻畫): Er schnitzt mit dem Meißel die „Muster“ (紋) von Land und Wald, die geschichtete „Schichtung“ (砌) der Steinplattenhäuser als Linien heraus und „malt“ (畫) die Farben der Jahreszeiten darauf. Im selben Jahr stellte er unter dem Titel „Der Wind auf dem Berg duftet gut“ (《山上的風很香》) im Nordmuseum aus[^12].
 
 ## Zeitgenössische Themen und kultureller Dialog
 
-### Die Suche nach Identität
+### Erkundung der Identität
 
-Ein zentrales Thema, mit dem sich zeitgenössische indigene Künstler\*innen auseinandersetzen, ist die Identität. Die meisten von ihnen wuchs in der von Han-Chinesen dominierten städtischen Gesellschaft auf und hat möglicherweise einen Bruch oder eine Verwischung in der Verbindung zu ihrer traditionellen Kultur. Wie man seine kulturellen Wurzeln neu verbinden und gleichzeitig eine moderne Identität aufbauen kann, ist ein wichtiges Thema vieler kreativer Werke.
+Der Kern, dem indigene zeitgenössische Künstler gegenüberstehen, ist die Identität. Die meisten wuchsen in einer von Han-Chinesen dominierten städtischen Gesellschaft auf; ihre Verbindung zur traditionellen Kultur mag unterbrochen oder unklar sein. Wie man die kulturellen Wurzeln neu verknüpft und gleichzeitig eine zeitgenössische Identität aufbaut, ist ein wichtiges Thema vieler Künstler. Mehrere der oben genannten Künstler haben als Ausgangspunkt das „Zurückkehren“: Siki Sufin (希巨‧蘇飛) von der Taipei-Baustelle zurück nach Dulan, Iyo Kacaw (伊祐‧噶照) von Taipei zurück ins Hafen-Dorf, Lin Chieh-wen von Barcelona zurück nach Hongye. Erst nach der Rückkehr begannen sie, Holzschnitzen und Weben zu lernen, und drückten das Gelernte dann in zeitgenössischem Vokabular aus.
 
-**Etan Pavavalung** (Paiwan) dokumentiert in seiner fotografischen Serie „Wir sind wer“ das Lebensbild der städtischen Indigenen. Er fotografierte indigene Arbeiter, Studenten und Angestellte, die in Taipeh arbeiten, und zeigte, wie sie in der städtischen Umgebung ihre kulturelle Identität bewahren.
+### Land- und Umweltthemen
 
-In diesen Fotos sehen wir Angestellte, die zwar in der Businesskleidung erscheinen, aber traditionelle Halsketten tragen; Studenten, die in Convenience Stores arbeiten, aber ihre Muttersprache sprechen; Familien, die in Wohneinheiten leben, aber weiterhin traditionelle Rituale durchführen. Diese Bilder spiegeln die Komplexität und Vielschichtigkeit der modernen indigenen Identität wider.
+Land ist die Grundlage der indigenen Kultur und ein wichtiges Thema der zeitgenössischen Kunstschaffung. Viele Künstler drücken durch ihre Werke Besorgnis über Landentwicklung und Umweltzerstörung aus und erheben ihre Stimme für die Landrechte der indigenen Völker.
 
-### Land und Umweltthemen
+**Siki Sufin (希巨‧蘇飛，1966 geboren)** ist ein Amis-Holzschnitzkünstler aus Dulan (都蘭) in Taitung. In jungen Jahren arbeitete er auf Baustellen in Taipei; 1995 kündigte er und kehrte an die Ostküste zurück, lernte im Atelier von Rahic Talif im Hafen-Dorf Holzschnitzen und mietete um das Jahr 2000 das dritte Lagerhaus der Dulan-Zuckerfabrik (都蘭糖廠), wodurch er der erste Künstler wurde, der dort einzog. Seit 2006 schafft er fortlaufend die Serie „Flügel der Takasago“ (「高砂的翅膀」), die sich den während der japanischen Kolonialzeit rekrutierten Takasago-Freiwilligen (高砂義勇隊) und taiwanesischen Veteranen widmet; er möchte für jene Seelen, die nicht heimkehren konnten, einen Weg schnitzen[^13].
 
-Land ist das Fundament der indigenen Kultur und ein wichtiges Thema der zeitgenössischen kreativen Arbeit. Viele Künstler\*innen drücken durch ihre Werke ihre Sorge um Landentwicklungen und Umweltzerstörungen aus und sprechen für die indigenen Landrechte.
+**Adaw Palaf Langasan (阿道‧巴辣夫‧冉而山，1949 geboren)** ist ein Amis-Theatermacher und Dichter aus dem Tabalong-Dorf (太巴塱部落) in Guangfu (光復), Hualien. 1991 trat er den „Ursprünglichen Tänzern“ (原舞者) bei, 2012 kehrte er nach Tabalong zurück und gründete das „Langasan-Theater“ (冉而山劇場), dessen Name vom heiligen Berg Cilangasan in der Amis-Mythologie herrührt. Das Theaterstück 《Misa-Lisin 彌莎．禮信》 nahm 2014 als Schwerpunktteam der „Taiwan-Saison“ am Edinburgh Festival Fringe teil[^14][^15].
 
-**Siki Sufin** (Tsou) ist eine Künstlerin, deren großformatige Landschaftsarbeiten „Ruf der Mutter“ in der County-Nummer Nanchuan in Hsinchu gezeigt wurden. Das Werk verwendet lokale Steine, um eine riesige Spiralstruktur zu bilden, die das sanftmütterliche Herz der Erde symbolisiert. Um das Werk herum wurden traditionelle Pflanzen gepflanzt, um das Wissen der Tsou über Pflanzenanwendung zu rekonreieren.
+### Meer und Dorf-Erinnerung
 
-Dieses Werk verbindet nicht nur künstlerische Schönheit mit Umweltbildung, sondern ist auch ein Ort der kulturellen Überlieferung. Die Zuschauer lernen beim Betrachten des Werks gleichzeitig die ökologische Weisheit der Tsou kennen.
+Das Hafen-Dorf ist ein besonderes Beispiel: Aus demselben Dorf gingen nacheinander Rahic Talif, Iyo Kacaw und Sapud Kacaw (撒部‧噶照) hervor – mehrere Künstler, die mit Treibholz arbeiten, und ihre Werke drehen sich alle um das Meer.
 
-**Adaw Palaf Langasan** (Paiwan) ist eine Künstlerin, deren medienbasierte Arbeiten „Das Lied der nuklearen Abfälle“ die Proteste der Tao auf Lanyu gegen die Lagerung von nuklearen Abfällen dokumentieren. In dem Werk äußern die älteren Tao durch traditionelle Lieder ihre Wut und Trauer über die Umweltverschmutzung.
+**Iyo Kacaw (伊祐‧噶照)** kehrte 2002 aus Taipei ins Hafen-Dorf zurück, lernte Treibholz-Kreation von Rahic Talif und verdiente seinen Lebensunterhalt gleichzeitig mit Hummerfang und Fischerei. Diese körperlichen Erfahrungen auf dem Meer wurden zum Vokabular seiner Werke: zerbrochene oder sezierte Holzstücke werden wiederholt verbunden und gestapelt, forming Formen, die an Meeresströmungslinien erinnern. 2018 gewann er den Ersten Preis in der Holzschnitzkategorie des Silly-Wald-Skulpturen-Kunstfestivals in Belgien[^16].
 
-Diese kreative Arbeit zeigt die gesellschaftliche Verantwortung der indigenen Künstler*innen: Sie sind nicht nur kreative Schöpfer*innen und Kulturbewahrer\*innen, sondern auch Stimmen der Umweltthemen.
+**Sapud Kacaw (撒部‧噶照)** schöpft seine Inspiration oft aus Dorfgeschichten und integriert Erdreich, Treibholz und andere natürliche Materialien aus dem Lebensumfeld in Bautechniken. Sein neues öffentliches Kunstwerk 《ngasaw》 an der Küste von Fengbin (豐濱海岸) verwendet große Mengen bunter Wollknäuel und Treibholz, um mit Farben und Rotationsbildern die Clan-Struktur der Amis darzustellen[^17].
 
-### Geschlecht und Familienerinnerung
+## Internationale Bühne und globaler Dialog
 
-In den letzten Jahren wird die Stimme weiblicher indigener Künstler\*innen immer wichtiger. Von der Perspektive von Frauen und Müttern erforschen sie die Geschlechterrollen und die Familienerbesträge in der indigenen Kultur.
+In den letzten Jahren ist die Sichtbarkeit taiwanesischer indigener Künstler in internationalen Ausstellungen gestiegen. An Sheng-hui wurde 2019 zur Globalen indigenen zeitgenössischen Kunst-Fünfjahresausstellung der National Gallery of Canada eingeladen[^1], das Langasan-Theater von Adaw trat beim Edinburgh Festival Fringe auf[^14], Iyo Kacaw wurde in Belgien ausgezeichnet[^16] – sie alle bewegen sich im Netzwerk „indigene Künstler für indigene Künstler“, tauschen sich mit indigenen Schöpfern in Kanada, Australien, Neuseeland und anderswo aus; diese grenzüberschreitende Verbindung vereint künstlerischen Austausch und indigene Rechtsbewegung in doppelter Natur.
 
-**Iyo Kacaw** (Amis) ist eine weibliche Künstlerin, deren installationsbasierte Arbeit „Die Hand der Mutter“ den Alltag der Amis Frauen rekonstruiert. In der Mitte des Werks steht eine riesige Steinmühle, umgeben von traditionellen Alltagsgegenständen, die die wichtige Rolle der Frauen in der kulturellen Überlieferung der Gruppe symbolisieren.
-
-Die Amis Gesellschaft ist eine Muttergesellschaft, in der Frauen eine wichtige Rolle spielen. Iyos Werk erinnert die Zuschauer daran, dass die Weisheit und Beiträge von Frauen in der indigenen Kultur oft übersehen werden und neu entdeckt und geschätzt werden müssen.
-
-**Wan-mao Lu Sen-bao** (Paiwan) ist eine weibliche Künstlerin, deren faserbasierte Skulpturen „Die Geschichte der Großmutter“ traditionelle Webetechniken in moderne Skulpturen umwandeln. In dem Werk verschränken sich verschiedene Pflanzenfasern zu komplexen Netzstrukturen, die die Überlieferung der Familienerinnerung symbolisieren.
-
-Sie sagte: „Die Geschichte der Großmutter ist durch das Weben der Hände entstanden; jedes Knoten ist eine Erinnerung, jede Schnur ist eine Geschichte. Mein Werk soll diese unsichtbaren Geschichten sichtbar machen.“
-
-## Internationale Bühne und globale Dialoge
-
-### Die Biennale von Venedig und internationale Bühnen
-
-In den letzten Jahren stieg die Sichtbarkeit taiwanischer indigener Künstler\*innen bei internationalen Ausstellungen, und die Biennale von Venedig ist einer der wichtigsten Schauplätze. Rahics Werk „Wenn du in der Mitte der Welt nach Liebe schreibst“ wurde in mehreren internationalen Ausstellungen gezeigt; als Hintergrundmusik diente das traditionelle Amis Lied „Die alten trinken Alkohol“, sodass Zuschauer aus aller Welt die Stimme der taiwanischen Indigenen hörten[^2]。
-
-Die Teilnahme taiwanischer indigener Künstler\*innen an internationalen Bühnen hat symbolische Bedeutung für die Selbstbestimmung der indigenen Kultur. Ein Künstler, der von einem indigenen Dorf Taiwans kommt und auf internationalen künstlerischen Bühnen für seine indigene Gruppe spricht, war vor den 1990er Jahren nahezu unmöglich.
-
-### Internationale Netzwerke indigener Kunst
-
-Taiwanische indigene Künstler*innen haben grenzüberschreitende Verbindungen aufgebaut und mit Künstler*innen aus Kanada, Australien, Neuseeland und anderen Ländern zusammengearbeitet[^7]。 Diese internationalen Verbindungen verbinden künstlerischen Austausch mit der indigenen Rechtsbewegung[^7]。
-
-2018 fand im Museum für Moderne Kunst in Taipeh die Ausstellung „Zeitgenössische Kunst der pazifischen Inselindigenen“ statt und lud Künstler\*innen aus Taiwan, Philippinen, Indonesien, Australien und anderen Ländern zur gemeinsamen Ausstellung ein. Diese Ausstellung zeigte die Vielfalt und Gemeinsamkeiten der südchinesischen Sprachgruppen.
-
-**Dong Yangzi** und andere nicht-indigene Künstler*innen beteiligen sich aktiv an der Förderung der Entwicklung indigener Kunst und arbeiten mit mehreren indigenen Künstler*innen zusammen, um den interkulturellen Dialog zu fördern. Dieses Modell der intergruppenübergreifenden Zusammenarbeit hat neue Perspektiven und Möglichkeiten für die taiwanische Kunstwelt geschaffen.
+Dass ein Schöpfer aus einem taiwanesischen indigenen Dorf in internationalen Kunstfeldern für indigene Völker Stimme erhebt – diese kulturelle Sichtbarkeit war vor den 1990er Jahren praktisch nicht existent. Sie besitzt eine symbolische Bedeutung, die über die Ausstellungen hinausgeht für die Etablierung indigener kultureller Subjektivität.
 
 ## Marktentwicklung und Industrialisierung
 
-### Chancen und Herausforderungen auf dem Kunstmarkt
+Die Marktbekanntheit taiwanesischer indigener zeitgenössischer Kunst hat in den letzten Jahren zugenommen, doch Herausforderungen bleiben. Traditionelle Handwerksprodukte verfügen über einen stabilen Sammlermarkt, aber die Marktakzeptanz zeitgenössischer Kunstwerke hat noch Wachstumspotenzial. Das Kaohsiung Museum of Fine Arts (高雄市立美術館), das Taipei Fine Arts Museum (台北市立美術館) und andere öffentliche Museen haben bereits beträchtliche Mengen indigener zeitgenössischer Kunstwerke gesammelt; die „Taiwan International Austronesian Art Triennial“ (臺灣國際南島藝術三年展) des Zentrums für Kulturentwicklung der indigenen Völker (原住民族文化發展中心) unter dem Council of Indigenous Peoples (原住民族委員會) integriert diese Schöpfer in ein größeres Ausstellungssystem[^9][^^16].
 
-In den letzten Jahren stieg das Bewusstsein für zeitgenössische indigene Kunst Taiwans auf dem Kunstmarkt, doch es gibt immer noch Herausforderungen. Traditionelle Handwerkskunst hat einen stabilen Sammlungsmarkt, doch die Marktbekanntheit zeitgenössischer kreativer Werke hat noch Raum für Wachstum.
+Ein wichtiger Trend ist die Diskussion um „kulturelle Authentizität“. Sammler und Kuratoren legen zunehmend Wert auf den kulturellen Hintergrund der Werke und die Identität der Schöpfer; für indigene Künstler ist dies Chance und Herausforderung zugleich. Indigene Kunst verbindet sich auch mit der Kultur- und Kreativindustrie, entwickelt Textilaccessoires, Alltagsgegenstände und Modedesigns mit traditionellen Mustern, doch das Gleichgewicht zwischen „Kommerzialisierung“ und „kultureller Authentizität“ ist eine Aufgabe, der sich die industrielle Entwicklung stellen muss.
 
-Das Museum für Moderne Kunst in Kaohsiung und das Museum für Moderne Kunst in Taipeh haben bereits eine beträchtliche Anzahl zeitgenössischer Werke indigener Künstler\*innen gesammelt, was die Marktstandards etabliert[^3]。 Private Galerien und Sammler begonnen, sich diesem Bereich zu widmen, doch die Gesamtmarktgröße bleibt begrenzt.
+Taiwanesische indigene zeitgenössische Kunst hat in den vergangenen 30 Jahren den Weg vom Rand ins Zentrum zurückgelegt. Die Künstler beweisen mit ihren Kreationen, dass indigene Kultur nicht nur ein zu schützendes Erbe ist, sondern auch eine zeitgenössische Kraft, die mit der ganzen Welt in Dialog treten kann.
 
-Ein wichtiger Trend ist die Diskussion über „kulturelle Authentizität“. Sammler und Kurator*innen achten zunehmend auf die kulturelle Hintergrundgeschichte der Werke und die Identität der Künstler*innen; dies ist sowohl eine Chance als auch eine Herausforderung für indigene Künstler\*innen.
-
-### Entwicklung kultureller kreativer Industrien
-
-Indigene Kunst entwickelt sich nicht nur im Bereich der reinen Kunst, sondern wird auch mit kulturellen kreativen Industrien kombiniert, um vielfältige Produkte und Dienstleistungen zu entwickeln.
-
-Das „Cluster kultureller kreativer Industrien für indigene Völker“ wurde in Taitung County erfolgreich errichtet und vereint viele indigene Künstler*innen und Handwerker*innen, um kreative Produkte mit kulturellem Charakter zu entwickeln. Die Produkte umfassen modernisierte Webzubehör, Alltagsgegenstände mit traditionellen Mustern und Modeentwürfe mit indigenen Elementen.
-
-Diese Industrialisierungsversuche stehen vor der Herausforderung, das Gleichgewicht zwischen „Kommerzialisierung“ und „kultureller Authentizität“ zu finden. Wie man bei der kommerziellen Entwicklung die kulturelle Bedeutung bewahrt, ist eine Herausforderung, die die Industrieentwicklung bewältigen muss.
-
-Die zeitgenössische Kunst der taiwanischen Indigenen hat in den letzten 30 Jahren den Weg vom Rand zum Zentrum gegangen. Mit ihrer kreativen Arbeit beweisen die Künstler\*innen, dass indigene Kultur nicht nur ein zu schützendes kulturelles Erbe ist, sondern auch eine moderne Kraft, die mit der Welt kommunizieren kann.
-
-Rahics Installationen, Sakinus Fotografie, Iyos Webestücke – diese Werke haben die Grenzen des „Dorfkunsthandwerks“ bereits überschritten und sind zu Werken geworden, die in Venedig, Taipeh und New York neben der globalen zeitgenössischen Kunst bestehen. Ihre Werke zeigen nicht nur die Vielfalt der indigenen Kultur, sondern bringen auch unersetzliche Lebenskraft in die taiwanische zeitgenössische Kunst ein.
-
-In der Ära der Globalisierung erscheinen die Stimmen aus den Dörfern umso wertvoller und wichtiger – denn sie tragen Erinnerungen und Erfahrungen, die nirgendwo anders zu finden sind.
+Rahic Talifs Küsteninstallationen, An Sheng-huis Styropor-Mutterleib, Lin Chieh-wens den Berg umhüllendes Gewebe – diese Werke haben den Rahmen des „Dorfhandwerks“ längst überschritten und sind zu Werken geworden, die in Taipei, Ottawa, Edinburgh und anderen Feldern mit der globalen zeitgenössischen Kunst koexistieren. Im Zeitalter der Globalisierung erscheinen diese Stimmen aus den Dörfern umso wertvoller und wichtiger, weil sie Erinnerungen und Erfahrungen tragen, die an keinem anderen Ort der Welt replizierbar sind.
 
 ## Referenzen
 
-[^1]: [Kulturzentrum für indigene Kunstentwicklung](https://www.tacp.gov.tw/) — Informationen zur Entwicklung zeitgenössischer indigener Kunst
+[^1]: [Zwischen Berg und Meer, Traum und Traum: Neuverweben der verlorenen Wurzeln – Exklusivinterview mit der Rukai-Künstlerin An Sheng-hui](https://e-info.org.tw/node/232401) — Umwelt-Informationszentrum, An Sheng-huis Dorfherkunft, Teilnahme an der Nordmuseum-Ausstellung 1998, Bewusstseins-Dorf, 《Zwischen Traum und Traum》 und die Fünfjahresausstellung der National Gallery of Canada 2019
 
-[^2]: [„Feldnotizen zur taiwanischen indigenen Kunst“](https://www.books.com.tw/products/0010192578) — Lin Jian-cheng (2002), Künstlerverlag
+[^2]: [《Taiwanesische indigene Kunst Feldnotizen》](https://www.books.com.tw/products/0010192578) — Lin Chien-cheng (林建成) (2002), Künstler-Verlag
 
-[^3]: [Taipeher Dualen Biennale](https://www.museum.ntm.gov.tw/) — Informationen zur zeitgenössischen Kunstausstellung
+[^3]: [Sakuliu Pavavaljung](https://zh.wikipedia.org/zh-tw/%E6%92%92%E5%8F%A4%E6%B5%81%C2%B7%E5%B7%B4%E7%93%A6%E7%93%A6%E9%9A%86) — Wikipedia, Geburtsjahr und Dorf, 1978 Gulu-Studio, Nationaler Kunstpreis 2018, Beendigung der Venedig-Biennale-Vertretung durch Nordmuseum 2022, rechtskräftiges Urteil 2026 und Aberkennung des Preises
 
-[^4]: [Pavillon Taiwans auf der Biennale von Venedig](https://www.venezia.culture.tw/) — Informationen zu den taiwanischen Pavilions über die Jahre
+[^4]: [Ich bin bloß der Pulima der Paiwan – Exklusivinterview mit dem indigenen Nationalpreisträger Sakuliu](https://www.twreporter.org/a/interview-sakuliu-pavavalung) — The Reporter, Sakulius Kunsthandwerkerfamilienhintergrund und Schaffensbereiche
 
-[^5]: [„Schnittpunkte: Taiwans Bergkriege, Kolonialherrschaft und Bildmaterial“](https://www.books.com.tw/products/0010768319) — Gao Jun-hong (2017), Farbe Kultur
+[^5]: [Im Bachbett Inspiration finden! Paiwan-Künstler Sakuliu sexueller Übergriff auf Studentin, endgültiges Urteil 4,5 Jahre Haft](https://news.nextapple.com/local/20260417/5650BE56912C327CA9FEA2E72149847F) — Apple Daily 2026-04-17, dreifaches Urteil rechtskräftig
 
-[^7]: [Datenbank taiwanischer zeitgenössischer indigener Literatur und Kultur](http://140.109.24.175/iplm/) — Nationaluniversität Sun Yat-sen
+[^6]: [Die Atayal-Weberin, die Kultur durch Weben weitergibt: Yuma Taru](https://mag.ncafroc.org.tw/article_detail.html?id=297ef722723767c201723b33614d000a) — National Culture and Arts Foundation Online-Magazin, Xiangbi-Dorf, zwanzig Jahre Trachtennachfertigung, Wild Tung Tree Werkstatt
+
+[^7]: [Atayal Weaver | Yuma Taru](https://www.moc.gov.tw/en/News_Content2.aspx?n=486&s=17620) — Kulturministerium, Registrierung als wichtige Bewahrerin traditioneller Kunst
+
+[^8]: [Rahic Talif — Künstlerporträt](https://rahictalif.com/about/artist/) — Offizielle Künstlerwebsite, Geburtsjahr, Hafen-Dorf, Werkchronologie und Küsten-Sammelmethode
+
+[^9]: [Labay Eyong Lin Chieh-wen](https://tiaat.tacp.gov.tw/%E6%9E%97%E4%BB%8B%E6%96%87/) — Taiwan International Austronesian Art Triennial, Hongye-Dorf Truku, Pulima-Kunstpreis-Erster-Preis, 《Berg umhüllen》
+
+[^10]: [Lin Chieh-wen | Taiwan Women's Art Association](https://waa.org.tw/members/labay-eyong/) — Ausbildung, Großmutter-Weben 2014 und Schaffensweg
+
+[^11]: [In 《Berg umhüllen》 heilen Land und Menschlichkeit im Weben durch Stoff](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&sms=12639&s=103452) — Chuan-Yi Online, Erlernen des Ubung-Bodenwebstuhls von Ältesten, 《Berg umhüllen Dungku Asang》 Aktionsperformance 2021
+
+[^12]: [【Personenporträt】Etan Pavavalung: Taiwaner sollten den Rahmen der 400-jährigen Geschichte sprengen](https://www.matataiwan.com/2014/04/21/etan-pavavaljung/) — Mata Taiwan, Davalan-Dorf, Entstehung der Muster-Schicht-Schnitzmalerei und Nordmuseum-Ausstellung
+
+[^13]: [Von der Taipei-Baustelle zur Dulan-Zuckerfabrik: Siki Sufin, der kulturelle Schutzweg eines Amis-Künstlers](https://www.verse.com.tw/article/dulan-siki) — VERSE, 1966 geboren, 1995 Holzschnitzen bei Rahic Talif, Dulan-Zuckerfabrik drittes Lagerhaus, „Flügel der Takasago“
+
+[^14]: [Adaw Palaf Langasan](https://aborgpedia.alcd.center/detail?cat=0&id=11554&race=0) — Taiwan Indigenous Peoples Encyclopedia, 1949 geboren, Tabalong, 1991 Beitritt zu den Ursprünglichen Tänzern, 2012 Gründung des Langasan-Theaters, 2014 Edinburgh Festival Fringe
+
+[^15]: [Über das Langasan-Theater](https://langasan.wordpress.com/%E9%97%9C%E6%96%BC%E5%86%89%E8%80%8C%E5%B1%B1-about/) — Offizielle Website des Langasan-Theaters, Theatername und heiliger Berg Cilangasan
+
+[^16]: [Iyo Kacaw](https://tiaat.tacp.gov.tw/%E4%BC%8A%E7%A5%90%EF%BC%8E%E5%99%B6%E7%85%A7/) — Taiwan International Austronesian Art Triennial, Hafen-Dorf, Schaffensvokabular, 2018 Belgien Holzschnitz-Erster-Preis
+
+[^17]: [„Ort der Energie“ neues Wahrzeichen: Sapud Kacaws neues öffentliches Kunstwerk an der Fengbin-Küste und seine Bedeutung](https://artouch.com/art-views/art-exhibition/content-54185.html) — ARTouch, 《ngasaw》 und Schaffensmaterialien
 
 ---
 
-_Weiterführende Literatur: [[台灣原住民族歷史與正名運動]] · [[台灣原住民族土地正義與傳統領域]] · [Karte der 16 indigenen Gruppen Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Bewegung zur Wiederbelebung indigener Sprachen Taiwans](/de/culture/indigenous-language-revitalization-movement/) · [[台灣原住民飲食文化]] · [[台灣原住民生態智慧與環境保育]]_
+_Weiterführende Literatur: [Geschichte und Rectifikationsbewegung der taiwanesischen indigenen Völker (nur zh — 台灣原住民族歷史與正名運動)] · [Landgerechtigkeit und traditionelle Gebiete der taiwanesischen indigenen Völker (nur zh — 台灣原住民族土地正義與傳統領域)] · [Kulturelle Landkarte der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Bewegung zur Revitalisierung der indigenen Sprachen Taiwans](/de/culture/indigenous-language-revitalization-movement/) · [Esskultur der taiwanesischen Indigenen (nur zh — 台灣原住民飲食文化)] · [Ökologische Weisheit und Umweltschutz der taiwanesischen Indigenen (nur zh — 台灣原住民生態智慧與環境保育)]_

@@ -1,173 +1,186 @@
 ---
 title: 'Nationalparks'
-description: '36.197 Quadratkilometer Platz für 9 Nationalparks – eine der dichtesten Naturschutzsysteme der Welt'
+description: '36.197 Quadratkilometer beherbergen 9 Nationalparks, eine Dichte, die weltweit zu den höchsten zählt – ein Erhaltungswunder'
 date: 2026-03-17
 category: 'Nature'
-tags: ['Natur', 'Nationalparks', 'Ökologie', 'Tourismus', 'Umweltschutz']
+tags: ['Natur', 'Nationalparks', 'Artenschutz', 'Tourismus', 'Umweltschutz']
 subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Nature/國家公園.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:b67fcedd0e7a43f6'
-sourceBodyHash: 'sha256:7e2f50f483b073fb'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:8fb4efae01fb8f38'
+sourceBodyHash: 'sha256:d14d99364c1c4106'
+translatedAt: '2026-09-19T11:59:12+08:00'
 ---
 
 # Nationalparks
 
-> **30-Sekunden-Überblick:** Taiwan hat mit lediglich 36.197 Quadratkilometern nur 9 Nationalparks – die Dichte ist weltweit unter den ersten. Innerhalb dieses extrem engen Schutzrahmens hat sich die Population der taiwanesischen Bär 20 Jahre innerhalb verdoppelt, die schwarzen Reiher stiegen von 288 auf 6.988 Exemplare und die taiwanesische Kirschforelle stiegen von 200 in Gefahr der Ausrottung auf 16.000 Exemplare. Eine kleine Insel, ein großer Naturschutz.
+> **30-Sekunden-Überblick:** Taiwan hat nur 36.197 Quadratkilometer, besitzt aber 9 Nationalparks – eine Dichte, die weltweit zu den höchsten zählt.
+> In diesem dichtesten Erhaltungssystem verdoppelte sich der Bestand des Taiwan-Schwarzbären in 20 Jahren, die Weltpopulation des Schwarzgesicht-Löfflers stieg von 288 auf 7.746 Tiere (60 % überwintern in Taiwan),
+> der Taiwan-Kirschlachs (Oncorhynchus masou formosanus) erholte sich von 200 auf 16.000 Exemplare. Kleine Insel, großer Artenschutz.
 
-Wie passt man 9 Nationalparks auf eine Insel, die kleiner als die Schweiz ist? Als 1984 der Nationalpark Kenting offiziell eröffnet wurde (die Planung begann bereits 1982), ahnte niemand, dass dies der Beginn eines Experiments mit extrem hoher Dichte wäre. 42 Jahre später verfügt Taiwan auf 36.197 Quadratkilometern über 9 Nationalparks und einen Nationalnaturpark, der insgesamt 750.000 Hektar schützt – eine Dichte, die in der Welt der Nationalparks Spitzenreiter ist.
+Eine Insel, kleiner als die Schweiz, wie passen da 9 Nationalparks hinein? 1984, als der Kenting-Nationalpark Taiwans erster offiziell gegründeter Nationalpark wurde (die Planungsbekanntmachung datiert auf 1982), ahnte niemand, dass dies der Beginn eines Dichte-Experiments sein würde.[^1] 42 Jahre später verfügt Taiwan auf 36.197 Quadratkilometern über 9 Nationalparks und 1 Nationalen Naturpark, die Schutzfläche beträgt 750.000 Hektar – diese Dichte gehört im weltweiten Vergleich der Nationalparksysteme zur Spitzengruppe.
 
-In einem Land mit 640 Einwohnern pro Quadratkilometer überleben selbst große Wildtiere und seltene Fischarten in so begrenztem Raum nicht nur, sondern erholen sich sogar. Dieses dichteste Schutzsystem hat eine Bilanz vorgelegt, die die Weltgemeinschaft der Naturschutzgemeinschaft überraschte.
+In Taiwan mit einer Bevölkerungsdichte von 640 Einwohnern pro Quadratkilometer gelingt es Großwild und seltenen Fischarten nicht nur, in diesem begrenzten Raum zu überleben, sondern sich sogar stetig zu erholen. Dieses dichteste Erhaltungssystem liefert eine Bilanz, die die internationale Naturschutzgemeinschaft überrascht.
 
-| 288 → 6.988                         | 200 → 16.020                              | Verdopplung der Population              |
-| ----------------------------------- | ----------------------------------------- | --------------------------------------- |
-| Schwarzer Reiher global (1989→2024) | taiwanesische Kirschforelle (1990er→2025) | taiwanesischer Bär (innerhalb 20 Jahre) |
+| 288 → 7.746                                    | 200 → 16.020                     | Bestandsverdopplung              |
+| ---------------------------------------------- | -------------------------------- | -------------------------------- |
+| Schwarzgesicht-Löffler Weltbestand (1989→2026) | Taiwan-Kirschlachs (1990er→2025) | Taiwan-Schwarzbär (in 20 Jahren) |
 
-## Dichte Experiment: Wie Taiwan zur Insel der Nationalparks wurde
+## Dichte-Experiment: Wie Taiwan zur Nationalpark-Insel wurde
 
-**42 Jahre Expansion der Nationalparkgrenzen:**
+**42 Jahre Expansionsgeschichte der Nationalparks:**
 
-1. **1984–1986** – Erster Dreiklang: Kenting, Yushan, Yangmingshan
-2. **1987–1995** – Berge und Meer füllen sich: Taroko, Shehuang
-3. **1995–2014** – Vielfältige Richtungen: Kinmen (Kriegsgeschichte), Dongsha (rein maritim), Jiathou (Feuchtgebiet), Penghu Nanfongsi (Basalt)
-4. **2011** – Stadtoase: Shoushan-Nationalnaturpark (mitten in Kaohsiung)
+1. **1984–1986** — Erste Drei: Kenting, Yushan, Yangmingshan
+2. **1986–1992** — Berge und Meere: Taroko, Shei-Pa
+3. **1995–2014** — Diversifizierung: Kinmen (Schlachtfeld-Geschichte), Dongsha (reines Meeresgebiet), Taijiang (Feuchtgebiete), Penghu-Südliche Vier Inseln (Basalt)
+4. **2011** — Urbane Oase: Shoushan Nationaler Naturpark (im Stadtgebiet von Kaohsiung)
 
-Am 20. September 2023 wurde die Nationalpark-Agentur des Innenministeriums offiziell eröffnet und zur eigenständigen Behörde aufgestiegen, wodurch die bisher verteilte Verwaltung einheitlich koordiniert wurde.
+Am 20. September 2023 wurde das Nationalparkamt des Innenministeriums offiziell als eigenständige Amtsbehörde etabliert, das die Verwaltung aller Nationalparks zentral steuert und die bisher verstreute Verwaltungsstruktur ablöst.[^2]
 
-Jeder Schritt stellte die traditionelle Definition eines Nationalparks in Frage. Kinmen konzentriert sich auf Kriegsgeschichte, Dongsha besteht zu 99,9 % aus Meer, Jiathou verbindet Kultur und Feuchtgebiete, und Penghu Nanfongsi ist ein unbewohntes Meerparadies.
+Jeder Schritt forderte die traditionelle Definition eines Nationalparks heraus. Kinmen steht primär für Schlachtfeld-Geschichte, Dongsha besteht zu 99,9 % aus Meeresgebiet, Taijiang verbindet Kultur und Feuchtgebiete, die Penghu-Südlichen Vier Inseln sind unbewohnte Meeresparadiese.
 
-> **📝 Anmerkung der Kuratorin**
-> Der Weg der taiwanesischen Nationalparks ist einzigartig: Von „Natur schützen“ (US-ähnlich) zu „Kultur und Natur gleichermaßen“ (europäisch inspiriert) und schließlich zur Entwicklung eines eigenen „dreidimensionalen Schutznetzes“ aus Land, Meer und Luft.
+> **📝 Kuratorennotiz**
+> Der Entwicklungsweg Taiwans Nationalparks ist besonders: Vom „Schutz der Wildnis“ (US-amerikanisches Nationalpark-Modell)
+> hin zu „Kultur und Natur gleichwertig“ (europäisches Schutzgebiets-Konzept), schließlich entstand ein einzigartiges
+> „dreidimensionales Schutznetz aus Meer, Land und Luft“.
 
-Diese Dichte ist international einzigartig. Zum Vergleich: Der amerikanische Yellowstone-Nationalpark allein hat 8.991 Quadratkilometer – und Taiwans gesamtes Territorium ist nur viermal so groß, doch hier befinden sich 9 Nationalparks.
+Eine solche Dichte ist international nahezu beispiellos. Zum Vergleich: Der Yellowstone-Nationalpark in den USA misst allein 8.991 Quadratkilometer, Taiwans gesamte Landfläche ist nur das Vierfache davon, muss aber 9 Nationalparks aufnehmen.
 
-## Wunder der Artenerholung in Taiwan
+## Das taiwanesische Wunder der Artenerholung
 
-### Schwarzer Reiher: Vom Aussterben zur globalen Spitze in Taiwan
+### Schwarzgesicht-Löffler: Vom Aussterben bedroht zu 60 % Weltbestand in Taiwan
 
-1989 zählte der Verein für den Schutz der Reiher in Hongkong weltweit nur 288 Exemplare des schwarzen Reihers – eine Zahl, die die Naturschutzgemeinschaft erschütterte, da die Art kurz davor stand, auszusterben.
+1989 führte der Hongkonger Vogelbeobachtungsverein die erste weltweite Zählung des Schwarzgesicht-Löfflers durch: 288 Exemplare. Diese Zahl schockierte die globale Naturschutzgemeinschaft – eine Art stand so kurz vor dem Aussterben.
 
-35 Jahre später, im Jahr 2024, ergab eine globale Zählung 6.988 Exemplare, davon sammeln sich in der Region des Nationalparks Jiathou jedes Jahr im Winter mehr als 1.000 Exemplare ein und bilden das wichtigste Überwinterungsgebiet weltweit.
+Bei der weltweiten Synchronzählung im Januar 2026 betrug der Gesamtbestand bereits 7.746 Tiere, davon wurden in Taiwan 4.719 gezählt – etwa 61 % des Weltbestands; allein im Raum Tainan waren es 2.034, der Taijiang-Nationalpark und die umliegenden Fischteiche sind das weltweit wichtigste Überwinterungsgebiet.[^3][^7]
 
-Der Nationalpark Jiathou schützt nicht nur 40.000 Hektar Feuchtgebiete, sondern arbeitet eng mit Fischern und Salzhandwerkern zusammen, sodass traditionelle Industrien und Ökologie koexistieren können. Der Erfolg beruht auf präzisen Maßnahmen: Lebensraumplanung, Fischereibestimmungen und lokale Gemeinschaftsbeteiligung. Jedes Jahr im Herbst und Winter, wenn die ersten schwarzen Reiher in den vier Grasseen landen, wissen die Menschen in Tainan: Das Schächtchen für internationale Feuchtgebiete leuchtet weiter.
+In den fast 40.000 Hektar des Taijiang-Nationalparks (Landfläche ca. 4.900 Hektar) werden nicht nur Feuchtgebiete geschützt, sondern in Kooperation mit Fischern und Salinarbeitern gelingt das Zusammenleben traditioneller Wirtschaft und Ökologie. Diese Erholung beruht auf präziser Planung: Habitat-Abgrenzung, Fangregeln, Mitwirkung der lokalen Gemeinschaft – keines darf fehlen. Jeden Herbst und Winter, wenn die ersten Schwarzgesicht-Löffler im Sicao-Feuchtgebiet landen, wissen die Tainaner: Das Gütesiegel eines international bedeutenden Feuchtgebiets leuchtet weiter.
 
-### taiwanesische Kirschforelle: Vom Aussterben zu 16.000 Exemplaren
+### Taiwan-Kirschlachs: Von 200 auf 16.000 – eine Wiederauferstehung
 
-In den 1990er Jahren fiel die Population der taiwanesischen Kirschforelle auf ein Rekordtief, wobei nur etwa 200 Exemplare in freier Wildbahn übrig waren – kurz vor dem Aussterben. Dieser Überbleibsel der Eiszeit konnte nur in Flüssen über 1.500 Metern Höhe und bei Wasser Temperaturen unter 17°C überleben, was durch Klimawandel und Lebensraumverlust zunehmend bedroht wurde.
+In den 1990er Jahren sank der Bestand des Taiwan-Kirschlachs auf ein Tief, in freier Wildbahn blieben nur etwa 200 Exemplare, die Art stand vor dem Aussterben. Dieser „Nationalfisch“, ein Relikt der Eiszeit, überlebt nur in Bächen über 1.500 Metern Seehöhe bei Wassertemperaturen unter 17 °C – Klimawandel und Habitatzerstörung ließen ihm keinen Rückzugsort.
 
-Der Nationalpark Shehuang brauchte 30 Jahre, um die Zahl auf 16.000 Exemplare zu steigern.
+Der Shei-Pa-Nationalpark brauchte 30 Jahre, um diese Zahl auf 16.000 zu steigern.[^4]
 
 > **💡 Wussten Sie schon?**
-> Im September 2025 setzte das Shehuang-Management erstmals einen Hubschrauber ein, um 1.000 Setzlinge per Kabelseil in den Fluss Sichuanzan abzusetzen. Dies war Taiwans erste „Luftabwurftechnik“ für die Artenerholung, wodurch die Jungtiere schneller in ihren idealen Lebensraum gebracht werden konnten.
+> Am 4. September 2025 kooperierte die Shei-Pa-Verwaltung erstmals mit Daily Air, per Hubschrauber
+> wurden 240 Kirschlachse von ca. 16 cm Länge in den Oberlauf des Chijiawan-Bachs ausgesetzt,
+> ein Weg, der zu Fuß sechs Stunden gedauert hätte, war per Flug in wenigen Minuten zurückgelegt.[^4]
 
-Der Erfolg der Erholung beruht auf Geduld, nicht auf Technik. Die Agrarstation Wuling sammelte 8,1 Hektar stillgelegte Ackerflächen, der Bach Qijia durchlief 20 Jahre Waldplantagen und eine grenzüberschreitende Setzstrategie – jede Maßnahme dauerte mehrere Jahre Planung. Heute leben stabile Populationen in den Flüssen Sichuanzan, Qijia und Hehuan – die taiwanesische Kirschforelle ist nicht mehr auf der Roten Liste der gefährdeten Arten.
+Der Erfolg der Wiederansiedlung beruht auf Geduld, nicht auf Technik. Die Rückgewinnung von 8,1 Hektar Brachland auf der Wuling-Farm, 20 Jahre Aufforstung am Qijiawan-Bach, die grenzüberschreitende Aussetzungsstrategie – jeder Schritt erforderte Jahre der Planung. Heute weisen der Chijiawan-Bach, der Qijiawan-Bach und der Hehuan-Bach stabile Populationen auf, der Taiwan-Kirschlach steht nicht mehr auf der Roten Liste der gefährdeten Arten.
 
-### taiwanesischer Bär: Vom Aussterben zu „keine Gefahr mehr“
+### Taiwan-Schwarzbär: Von „stark gefährdet“ zu „keine Aussterbegefahr mehr“
 
-Im April 2025 äußerte das Ministerium für Landwirtschaft und Naturschutz offiziell: Die Population des taiwanesischen Bären befindet sich „in keinem Gefährdungszustand mehr“, und die Zahl der Tiere habe sich innerhalb der letzten 20 Jahre „um ein Vielfaches“ erhöht.
+Im April 2025 erklärte die Forst- und Naturschutzbehörde erstmals offiziell: Der Taiwan-Schwarzbär „weist keine Aussterbegefahr mehr auf“, der Bestand habe sich „absolut um ein Vielfaches“ gegenüber vor 20 Jahren erhöht.[^5]
 
-Dieses Ergebnis basiert auf 40 Jahren Naturschutz. Die Nationalparks Yushan, Taroko und Shehuang bieten den Bären ideale Kernhabitate, und in den letzten Jahren begann die Population, sich auch in niedrigeren Lagen unter 1.200 Metern Höhe auszubreiten – ein klares Zeichen dafür, dass die Population stabil genug ist, um sich natürlich zu vermehren.
+Hinter diesem Satz stehen 40 Jahre kumulativer Schutzarbeit. Yushan, Taroko, Shei-Pa und andere Hochgebirgs-Nationalparks boten dem Taiwan-Schwarzbären Kernhabitate, in jüngerer Zeit dehnt sich das Vorkommen bis unter 1.200 Meter Seehöhe aus – ein Zeichen, dass die Population stabil genug für natürliche Expansion ist.
 
-> **⚠️ Die Kosten des Erfolgs**
-> Der Erfolg der Bärenpopulation bringt neue Herausforderungen. Im April 2025 griff ein 120 Kilogramm schwerer Bär in der Gemeinde Zhuxi in Hualien wiederholt Hühner und Hunde und musste schließlich getötet werden. Konflikte zwischen Menschen und Tieren werden zu einem Schwerpunkt der künftigen Naturschutzarbeit.
+> **⚠️ Der Preis des Erfolgs**
+> Die erfolgreiche Erholung des Taiwan-Schwarzbären bringt neue Herausforderungen. Im April 2025 fraß ein über 100 kg schwerer Männchen im Truku-Stamm der Gemeinde Zhuoxi in Hualien innerhalb von zwei Wochen vier Hunde und drang mehrfach in Hühnerställe ein; Patrouillen schossen in Notwehr, der verletzte Bär wurde tierschutzgerecht euthanasiert.[^8] Mensch-Bär-Konflikte werden der Schwerpunkt der nächsten Schutzphase sein.
 
-## Weltweit führendes Modell für dichte Naturschutzgebiete
+## Weltweites Vorbild hochdichter Erhaltung
 
-Der Erfolg des taiwanesischen Nationalparksystems liegt nicht in der Größe, sondern in der **Vielfalt der Schutzformen und der Präzision der Verwaltung**.
+Der Erfolg des taiwanesischen Nationalparksystems liegt nicht in der Flächengröße, sondern in **Typenvielfalt und Managementpräzision**.
 
-Von der 3.952 Meter hohen Gipfelspitze des Yushan-Magns, über die Unterwasserwelten des Dongsha-Riffs, von den vulkanischen Landschaften des Yangmingshan bis zu den basaltischen Säulen des Penghu-Nationalparks – von den Kriegsdenkmälern von Kinmen bis zu den städtischen Wäldern von Shoushan. Die 9 Nationalparks decken alle wichtigen Ökosysteme und geologischen Formationen Taiwans ab.
+Vom 3.952 Meter hohen Yushan-Hauptgipfel bis zum Dongsha-Atoll unter Meeresspiegel; vom Vulkanismus des Yangmingshan bis zu den Basaltsäulen der Penghu-Südlichen Vier Inseln; von den Schlachtfeldern Kinmens bis zum Stadtwald Shoushan. 9 Nationalparks decken alle wichtigen Ökosysteme und Geologietypen Taiwans ab.
 
-**Dies ist ein dreidimensionales Schutznetz, das nach ökologischen Zonen aufgeteilt ist:**
+**Dies ist ein dreidimensionales Schutznetz mit klarer Arbeitsteilung nach Ökozonen:**
 
-**Landschaftsdrei Zonen:**
+**Drei Landgürtel**:
 
-- Hochlagenzone: Yushan, Shehuang, Taroko schützen Hochlagenökologie und Großwild
-- Vulkanzone: Yangmingshan bewahrt das Tatung-Vulkanfeld und gemäßigte Vegetation
-- Küstenzone: Kenting, Penghu-Nanfongsi schützen Korallenriffe
+- Hochgebirgsgürtel: Yushan, Shei-Pa, Taroko schützen Hochgebirgsökologie und Großsäuger
+- Vulkangürtel: Yangmingshan bewahrt die Datun-Vulkangruppe und warm-gemäßigte Vegetation
+- Küstenstreifen: Kenting, Penghu-Südliche Vier Inseln schützen Korallenriff-Ökologie
 
-**Wasser-Land-Übergänge:**
+**Wasser-Land-Schnittstellen**:
 
-- Feuchtgebietszone: Jiathou erhält international anerkannte Feuchtgebiete und Zugrouten für Zugvögel
-- Inselzone: Kinmen und Dongsha übernehmen jeweils Kriegsgeschichte und Meeresökologie
+- Feuchtgebietsgürtel: Taijiang erhält international bedeutende Feuchtgebiete und Zugvogelrouten
+- Inselgürtel: Kinmen, Dongsha übernehmen jeweils Schlachtfeld-Geschichte und Meeresökologie
 
-### Experiment eines Nationalparks in der Stadt
+### Das Experiment: Nationalpark in der Stadt
 
-2011 wurde der Shoushan-Nationalnaturpark eröffnet – das erste staatliche Schutzgebiet in ganz Taiwan, das innerhalb eines Ballungsraums liegt. Im südwestlichen Teil der Stadt Kaohsiung schützt er auf 1.131 Hektar Korallenkalksteine, heimische Formen des makakischen Affen und den größten Bestand der Stierhecke auf der Insel.
+Im Dezember 2011 wurde der Shoushan Nationale Naturpark gegründet – Taiwans erstes nationales Schutzgebiet im Ballungsraum. Im Südwesten Kaohsiungs schützen auf rund 1.123 Hektar Korallenkalkstein-Gelände der Taiwan-Makak (Macaca cyclopis) und das größte Vorkommen der Art _Ficus microcarpa_ var. _pusillifolia_ der Insel.
 
-**Dieses Experiment stellte eine Grundannahme in Frage: Muss ein Nationalpark immer von der Stadt entfernt sein?** Shoushan beweist, dass selbst am Rande einer Metropole strengere Schutzmaßnahmen die ökologische Integrität erhalten können.
+**Dieses Experiment stellt eine traditionelle Annahme infrage: Müssen Nationalparks fernab der Städte liegen?** Shoushan beweist, dass auch am Stadtrand strenges Schutzmanagement die ökologische Integrität wahren kann.
 
-> **✦** „Kleine Insel, großer Naturschutz – Taiwan beweist, dass Dichte nicht der Feind von Naturschutz ist, sondern Präzision.“
+> **✦** „Großer Artenschutz auf kleiner Insel – Taiwan beweist: Dichte ist nicht der Feind des Schutzes, Präzision ist es.“
 
-## Herausforderungen und Debatten: Die Probleme des Wachstums
+## Herausforderungen und Kontroversen: Wachstumsschmerzen
 
-### Erholungsdruck: Ein Nationalpark ist kein Freizeitpark
+### Erholungsdruck: Nationalparks sind keine Vergnügungsparks
 
-Die größte Kontroverse, vor der taiwanesische Nationalparks stehen, entsteht aus einem grundlegenden Missverständnis: Viele Menschen verstehen „Nationalpark“ fälschlicherweise als „vom Staat errichteter Park“.
+Die größte Kontroverse um Taiwans Nationalparks entspringt einem grundlegenden Missverständnis: Viele Menschen sehen im „Nationalpark“ einen „staatlich gebauten Park“.
 
-Beobachtungen von Professorin Wang Chengxia von der Nationalen Universität für Landmanagement (2015) sind bis heute relevant: „Die meisten Menschen – selbst Regierungen – irren sich in ihrer Erwartungshaltung bezüglich ‚Nationalparks‘.“ Kenting und Taroko werden jährlich von Massen Touristen überflutet, die den Bau von Geländern, das Aufstellen von Schildern und sogar Vorschläge für Seilbahnen bis hinauf zum Gipfel des Yushan oder Hotels am Maultierstall des Yangmingshan fordern.
+Die 2015 geäußerte Beobachtung von Prof. Wang Zhenling, Department of Land Management, Chaoyang University of Technology, gilt bis heute: „Die Mehrheit der Bevölkerung, ja sogar der Regierung, missversteht ‚Nationalpark‘ wörtlich.“[^6] Die Massen an Touristen in Kenting und Taroko fordern Geländer, Warnschilder, mancher schlug sogar Stromkabel auf den Yushan-Gipfel oder Hotels auf dem Matoushan im Yangmingshan vor.
 
-**§1 des Nationalparkgesetzes legt klar fest: Schützen der natürlichen Landschaften, Wildtiere und Kulturerbestücke Taiwans, „und dienen der Erholung der Bevölkerung“.** Erholung ist ein sekundäres Ziel und beschränkt sich nur auf Erholungszonen und allgemeine Kontrollbereiche – niemals darf es mit dem Schutz konkurrieren.
+**Artikel 1 des Nationalparkgesetzes stellt klar: Schutz der landeseigenen Naturschönheiten, Wildtiere und Kulturdenkmäler, „und Erholung für die Bevölkerung“.** „Erholung“ ist nachrangiges Ziel und auf Erholungszonen und allgemeine Kontrollzonen beschränkt, sie darf dem Schutzziel nicht widersprechen.
 
-### Erdbeben in Taroko 2024: Naturschutz im Konflikt mit Wiederaufbau
+### Das Erdbeben von Taroko 2024: Dilemma zwischen Schutz und Wiederaufbau
 
-Am 3. April 2024 erschütterte ein starker Erdbeben (ML 7,2 von der Zentralen Meteorologischen Behörde / Mw 7,4 von USGS) das östliche Taiwans. Taroko-Nationalpark war eines der am stärksten betroffenen Gebiete. Mehrere Wanderwege brachen zusammen, einige Kontrolldrohnen wurden vollständig gesperrt, und das Erdbeben verursachte Verletzte und unterbrach das normale Schutzprogramm für mehrere Monate.
+Am 3. April 2024 traf ein starkes Beben Hualien (CWB M_L 7,2 / USGS M_w 7,4), der Taroko-Nationalpark war eines der schwersten betroffenen Gebiete. Zahlreiche Wanderwege stürzten ein, Teile der Kontrollstraßen wurden vollständig gesperrt, das Beben forderte Menschenleben und unterbrach die reguläre Schutzarbeit monatelang.
 
-Das Erdbeben in Taroko stellte eine Frage, die das gesamte Schutzsystem betrifft: Wie lassen sich Schutz von Wander- und Erholungsflächen in Taiwans komplexer geologischer Umgebung trennen? Dies ist nicht nur eine Verwaltungsfrage, sondern auch eine Katastrophenschutzpolitik.
+Das Taroko-Erdbeben konfrontiert das Erhaltungssystem mit einer Frage, die es lösen muss: In Taiwans komplexer Geologie, wo verläuft die Grenze zwischen Bergwaldschutz und Tourismus – nicht nur eine Managementfrage, sondern auch Katastrophenvorsorge.
 
-### Klimawandel: Existenzbedrohung für Hochlagenarten
+### Klimawandel: Existenzkrise der Hochgebirgsarten
 
-70 % der Fläche der taiwanesischen Nationalparks liegen über 1.000 Metern Höhe, wo Hochlagenökologie besonders empfindlich auf Klimawandel reagiert. Eine Temperaturerhöhung von 1°C verschiebt die Verbreitung von Pflanzen um 150–200 Meter nach oben – doch der Gipfel ist endlich hoch.
+70 % der Fläche Taiwans Nationalparks liegen über 1.000 Meter Seehöhe, Hochgebirgsökosysteme sind besonders klimasensibel. Bei 1 °C Erwärmung verschiebt sich die Verbreitungszone hochgebirgiger Pflanzen um 150–200 Meter nach oben, doch der Gipfel ist begrenzt – es gibt kein „weiter oben“.
 
-Der Erfolg der Erholung der taiwanesischen Kirschforelle ist in gewissem Maße ein Rennen gegen die Zeit. Sobald die Wasser Temperatur 17°C überschreitet, kann die Schutzart nicht mehr überleben. Klimawandel verwandelt den Naturschutz in ein Rennen zwischen Temperatur und Schutzziele.
+Die erfolgreiche Wiederansiedlung des Taiwan-Kirschlachses ist gewissermaßen ein Wettlauf mit der Zeit. Sobald die Bachtemperatur 17 °C übersteigt, kann der Nationalfisch nicht überleben. Der Klimawandel macht die Erhaltungsarbeit zum Rennen zwischen Temperaturanstieg und Schutzgeschwindigkeit.
 
-### Rechte der indigenen Völker: Ausgleich zwischen Schutz und Tradition
+### Indigene Rechte: Balance zwischen Schutz und Tradition
 
-75 % der taiwanesischen Nationalparks überschneiden sich mit traditionellen Gebieten der indigenen Völker. Wie man Schutzbedürfnisse mit den Rechten der indigenen Völker in Einklang bringt, ist ein sensibles Thema. Die Atayal in Yushan, die Bunun in Shehuang und die Truku in Taroko waren die ursprünglichen Hüter dieser Länder – doch heute könnten Schutzvorschriften ihre traditionellen Lebensweisen behindern.
+Taiwans Hochgebirgs-Nationalparks überlappen großflächig mit traditionellen Gebieten indigener Völker. Wie man Schutzbedarf und indigene Rechte in Einklang bringt, bleibt ein sensibles Thema. Die Bunun im Yushan, die Atayal im Shei-Pa, die Truku im Taroko – sie sind die ältesten Hüter dieses Landes, sehen sich heute aber durch Schutzvorschriften in ihrer traditionellen Lebensweise eingeschränkt.
 
-In den letzten Jahren begannen die Nationalpark-Verwaltungen, mit Dörfern zusammenzuarbeiten und ein Modell des „Gemeinschaftsschutzes“ zu fördern: In Kinmen wurden Einheimische als Freiwillige für den Naturschutz engagiert, und in Jiathou arbeiteten Fischer mit dem Schutzteam zusammen, um das Feuchtgebiet zu erhalten. Dieses Modell wandelt den Schutz von „externer Kontrolle“ zu „lokalaler Beteiligung“.
+In jüngerer Zeit begannen Nationalparkverwaltungen mit Dorfgemeinschaften zu kooperieren und „Community Conservation“ voranzutreiben: In Kinmen werden Einheimische als Schutz-Freiwillige angestellt, in Taijiang arbeiten Fischer an der Feuchtgebiets-Pflege mit. Dieses Modell wandelt Schutz von „externer Kontrolle“ zu „lokaler Partizipation“.
 
-## Die nächsten 40 Jahre: Ära der Meeresparks?
+## Die nächsten 40 Jahre: Das Zeitalter der Meeres-Nationalparks?
 
-Wenn die vergangenen 40 Jahre die Gründung eines dichten Nationalparksystems in Taiwan markierten, so konzentrieren sich die nächsten 40 Jahre auf **das Meer**.
+Wenn die ersten 40 Jahre Taiwans Aufbau eines extrem dichten Nationalparksystems galten, dann wird der Fokus der nächsten 40 Jahre auf dem **Meer** liegen.
 
-Der Dongsha-Nationalpark besteht zu 99,5 % aus Wasserflächen, und der Penghu-Nanfongsi-Nationalpark hat einen Meeranteil von 98 %. Dieser Trend spiegelt die globale Entwicklung der Meeresökologie wider: Von „Land zuerst“ zu „Land und Meer gleichermaßen“.
+Der Dongsha-Atoll-Nationalpark besteht zu 99,9 % aus Meeresgebiet, beim Penghu-Südliche-Vier-Inseln-Nationalpark macht die Meeresfläche rund 99 % aus. Dieser Trend spiegelt den globalen Paradigmenwechsel wider: von „Land zuerst“ zu „Meer und Land gleichwertig“.
 
-Taiwan hat ein enormes Potenzial für den Schutz der Meeresumwelt. Die Kuroshio-Current bringt reiche Meeresbiomasse, Korallenriffe mit einer Deckungsquote von bis zu 60 % in einigen Regionen, und Seegraswiesen, die Kohlenstoff binden. Doch die Komplexität des Meersschutzes ist weit größer als der des Landesschutzes: Hoheitsrechte auf See, Fischereirechte und internationale Gesetze – jede Herausforderung ist hundertmal schwieriger als der Schutz von Landgebieten.
+Das Erhaltungspotenzial der Gewässer um Taiwan ist beachtlich. Der Kuroshio bringt reiche marine Biodiversität, die Korallenriffbedeckung übersteigt in manchen Gebieten 60 %, Seegraswiesen leisten Kohlenstoffsenken-Funktion. Doch Meereserhaltung ist um Vielfaches komplexer als an Land: Hoheitsrechte auf See, Fischereirechte, Völkerrecht – jeder Aspekt ist hundertmal schwieriger als die Ausweisung von Landschutzgebieten.
 
-> **📊 Zukunftsprognose**
-> Laut dem Plan der Nationalpark-Agentur soll die geschützte Meeresfläche Taiwans bis 2030 10 % der ausschließlichen Wirtschaftszone erreichen – etwa 200.000 Quadratkilometer. Das entspricht der Fläche von sechs Taiwans.
+> **📊 Stand der Meeres-Schutzgebiete**
+> In Taiwans bestehenden Meeres-Schutzgebieten entfallen über 80 % der Meeresfläche auf vier Nationalparks;
+> das 2022 von den Vereinten Nationen beschlossene „30×30“-Ziel fordert, bis 2030 mindestens 30 % der Meere zu schützen, das 2024 in dritter Lesung verabschiedete „Meereserhaltungsgesetz“ ist Taiwans Einstieg in diese Zielvorgabe.[^9]
 
-## Das große Bild der kleinen Insel
+## Großes Format auf kleiner Insel
 
-Zurück zur ursprünglichen Frage: Warum braucht eine Insel, die kleiner als die Schweiz ist, 9 Nationalparks?
+Zurück zur Eingangsfrage: Warum braucht eine Insel, kleiner als die Schweiz, 9 Nationalparks?
 
-Die Antwort liegt nicht darin, wie klein Taiwan ist, sondern wie komplex es ist. Auf 36.197 Quadratkilometern vereint diese Insel alle Klimazonen von tropisch bis subarktisch, eine vollständige Geschichte der tektonischen Plattenkollision, eine kulturelle Schichtung von austronesischen Sprachen bis zu chinesischen Einflüssen und Knotenpunkte der Zugvogelrouten.
+Die Antwort liegt vielleicht nicht in Taiwans Kleinheit, sondern in seiner Komplexität. Auf 36.197 Quadratkilometern vereint diese Insel alle Klimazonen von tropisch bis kühl, eine vollständige Plattenkollision-Geologie, kulturelle Schichten von Austronesiern bis Han-Chinesen, und sie ist Knotenpunkt von Zugvogelrouten.
 
-Das Besondere am taiwanesischen Nationalparkssystem ist nicht seine Größe, sondern seine Vollständigkeit. Es schützt nicht nur 9 einzelne Punkte, sondern das Lebensgeheimnis einer ganzen Insel.
+Das Wertvollste am taiwanesischen Nationalparksystem ist nicht die Fläche, sondern die Vollständigkeit der Typen. Es schützt nicht 9 Punkte, sondern den Lebenscode einer Insel.
 
-42 Jahre ago, als der Nationalpark Kenting gerade eröffnet wurde, lebte Taiwan noch unter der Militärregierung. Heute, auf einer Insel mit einer der dichsten Nationalparkdichten der Welt, hat sich die Population der schwarzen Reiher um das 24-Fache gesteigert, die taiwanesische Kirschforelle um das 80-Fache und der taiwanesische Bär ist nicht mehr gefährdet. Vielleicht ist dieses eine der erfolgreichsten Experimente mit hoher Dichte im Naturschutz weltweit: In dem kleinsten Raum können präzise Schutzmaßnahmen immer noch Wunder bewirken.
+Vor 42 Jahren, als der Kenting-Nationalpark gegründet wurde, stand Taiwan noch unter **Kriegsrecht**. Heute, auf dieser Insel mit extrem hoher Nationalparkdichte, wuchs der Weltbestand des Schwarzgesicht-Löfflers um das 27-fache, die Population des Taiwan-Kirschlachses um das 80-fache, der Taiwan-Schwarzbär ist nicht mehr gefährdet. Dies ist vielleicht eines der weltweit erfolgreichsten Experimente hochdichter Erhaltung: Im engsten Raum vermag präzise Schutzarbeit weiterhin Wunder zu wirken.
 
 ## Quellen
 
-[^1]: [Nationalpark-Agentur des Innenministeriums: Kenting-Nationalpark](https://ktnp.gov.tw/) — Bestätigt die Planung von Kenting-Nationalpark 1982 und offizielle Eröffnung 1984.
+[^1]: [Innenministerium Nationalparkamt: Kenting-Nationalpark](https://www.ktnp.gov.tw/) — Bestätigung: Kenting-Nationalpark 1982 Planungsbekanntmachung, 1984 offizielle Gründung.
 
-[^2]: [Nationalpark-Agentur des Innenministeriums](https://www.nps.gov.tw/) — Bestätigt die offizielle Eröffnung der Nationalpark-Agentur am 20. September 2023.
+[^2]: [Innenministerium Nationalparkamt](https://www.nps.gov.tw/) — Bestätigung: Am 20. September 2023 offizielle Gründung des Nationalparkamts.
 
-[^3]: [Nationalpark Jiathou: Schwarzer Reiher](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistiken und Schutzmaßnahmen für den schwarzen Reiher in Jiathou.
+[^3]: [Taijiang-Nationalpark: Schwarzgesicht-Löffler](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistiken und Schutzmaßnahmen zum Schwarzgesicht-Löffler im Taijiang.
 
-[^4]: [ taiwanesische Kirschforelle Population stabil bei 16.000 Exemplaren — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Bestätigt die aktuelle Populationsgröße.
+[^4]: [Unbeeindruckt von Taifun und Erdbeben! Nationalfisch-Bestand stabil: Taiwan-Kirschlachs hält 16.000 Exemplare — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Januar 2026 Bericht über 2025-Zählung 16.020 Exemplare, Rückgewinnung 8,1 Hektar Wuling-Brachland, September erstmals Hubschrauber-Aussetzung; Hubschrauber-Transport 240 Exemplare siehe [PTS News 2025-09-04](https://news.pts.org.tw/article/769065).
 
-[^5]: [Landwirtschaftsministerium: taiwanesischer Bär nicht mehr gefährdet — Central News Agency](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Erklärung des Ministeriums für Landwirtschaft und Naturschutz im April 2025.
+[^5]: [Forstschutzbehörde: Taiwan-Schwarzbär-Bestand gestiegen, Population nicht mehr vom Aussterben bedroht — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Erklärung der Forst- und Naturschutzbehörde, April 2025.
 
-[^6]: [Ist ein Nationalpark ein Staatspark oder ein staatlicher Park? — Fengjia Universität](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Beobachtung von Professorin Wang Chengxia 2015 über Missverständnisse der Öffentlichkeit.
+[^6]: [Ist der Nationalpark ein staatlich gebauter Park oder ein nationaler Park? — Chaoyang University of Technology](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Beobachtung von Prof. Wang Zhenling 2015 zum öffentlichen Missverständnis.
+
+[^7]: [Ergebnisse der weltweiten Synchronzählung des Schwarzgesicht-Löfflers 2026 veröffentlicht, Bestand erneut auf Rekordhoch — Forst- und Naturschutzbehörde](https://www.forest.gov.tw/news/0078204) — Veröffentlichung am 10. April 2026: Weltweit 7.746, Taiwan 4.719 (ca. 61 %), Tainan 2.034.
+
+[^8]: [Schusswaffeneinsatz, Hunde gefüttert, Populationsexpansion? Kontroverse um Bärenvorfall in Zhuoxi — Wowa](https://wuo-wuo.com/report/instantnews/2217-20250424news) — Am 21. April 2025 Bär YNP-BB02 im Truku-Stamm Zhuoxi nach Schuss durch Patrouille verletzt und tierschutzgerecht euthanasiert; „fraß in zwei Wochen 4 Hunde“ siehe [The Reporter](https://www.twreporter.org/a/after-a-formosan-black-bear-shot-dead-in-hualien-zhuoxi-2).
+
+[^9]: [Taiwans Meeres-Schutzgebiete — Ozean-Kommission Meereserhaltungsamt](https://www.oca.gov.tw/ch/home.jsp?id=349&parentpath=0%2C295%2C348) — Bestehende Meeres-Schutzgebiete: „vier Nationalparks machen 81,28 % der Meeresfläche aus“; 30×30-Vision: „bis 2030 mindestens 30 % Land, Binnengewässer, Küsten und Meere schützen“.
 
 **Weiterführende Literatur**
 
-- [Einführung in die Nationalparks — Regierung](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
-- [Dongsha-Riff-Nationalpark](https://dongsha.gov.tw/)
+- [Nationalpark-Übersicht — Exekutiv-Yuan](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
+- [Meeres-Nationalpark-Verwaltung (Dongsha-Atoll · Penghu-Südliche Vier Inseln)](https://www.marine.gov.tw/)
