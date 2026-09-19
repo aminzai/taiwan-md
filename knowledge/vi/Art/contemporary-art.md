@@ -1,6 +1,6 @@
 ---
 title: 'Nghệ thuật đương đại Đài Loan'
-description: 'Từ viện bảo tàng Bắc Mỹ đến Triển lãm Thượng Hải kép Đài Loan, nghệ thuật đương đại Đài Loan chiếm vị trí độc đáo trên sân đấu toàn cầu'
+description: 'Từ nhà hát nghệ thuật Bắc Mỹ đến triển lãm song niên kỷ ở Venice, nghệ thuật đương đại Đài Loan chiếm vị trí độc đáo trên sân khấu toàn cầu'
 date: 2026-03-17
 category: 'Art'
 tags: ['nghệ thuật', 'đương đại', 'văn hóa', 'bảo tàng']
@@ -8,93 +8,97 @@ subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/當代藝術.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:cff95ee8efddcd2b'
-sourceBodyHash: 'sha256:33541e305c90768c'
-translatedAt: '2026-09-10T03:36:16+08:00'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:3041eabbe02feebf'
+sourceBodyHash: 'sha256:71f7a0b38a49387b'
+translatedAt: '2026-09-19T11:59:06+08:00'
 ---
 
 # Nghệ thuật đương đại Đài Loan
 
-> **30 giây tổng quan:** Từ khi viện bảo tàng Bắc Mỹ khánh thành năm 1983 đến nay, cảnh quan nghệ thuật Đài Loan trải qua ba giai đoạn: bùng nổ sáng tạo sau giải mã, quốc tế hóa và chuyển đổi số. Các nghệ sĩ Đài Loan hoạt động sôi nổi tại Triển lãm Thượng Hải kép, Art Basel, Lễ hội Nghệ thuật Điện tử Linz và các sân chơi quốc tế khác, lấy kinh nghiệm lịch sử về thuộc địa, đàn áp và dân chủ hóa làm nguồn cảm hứng sáng tạo.
+> **30 giây tổng quan:** Từ khi nhà hát nghệ thuật Bắc Mỹ khánh thành năm 1983 đến nay, cảnh quan nghệ thuật Đài Loan trải qua ba giai đoạn: bùng nổ sáng tạo sau giải mãn, quốc tế hóa và chuyển đổi số. Các nghệ sĩ Đài Loan hoạt động sôi nổi trên các sân khấu quốc tế như triển lãm Venice, Art Basel, lễ hội điện tử ở Linz, lấy kinh nghiệm lịch sử về thuộc địa, thời kỳ cấm chế và quá trình dân chủ hóa làm nguồn cảm hứng sáng tạo.
 
-## Tại sao quan trọng
+## Tại sao điều này quan trọng
 
-Sau khi giải mã (1987), các nghệ sĩ Đài Loan được phép xử lý công khai những đề tài chính trị nhạy cảm, ký ức dân tộc và giới tính, với phạm vi chủ đề và phương tiện truyền đạt rõ rệt mở rộng. Khi tự do ngôn luận được bảo đảm vững chắc, cảnh quan nghệ thuật Đài Loan tạo ra mối quan hệ sáng tạo trực tiếp với những liệu cầm tay chỉ việc về thuộc địa, đàn áp và chuyển đổi dân chủ.
+Sau khi giải mãn (1987), các nghệ sĩ Đài Loan được phép xử lý công khai các chủ đề chính trị nhạy cảm, ký ức dân tộc và vấn đề giới tính, với phạm vi chủ đề và phương tiện truyền đạt rõ rệt mở rộng. Khi tự do ngôn luận được bảo đảm, cảnh quan nghệ thuật Đài Loan tạo ra mối quan hệ sáng tạo trực tiếp với tài liệu lịch sử về thuộc địa, thời kỳ cấm chế và quá trình dân chủ hóa.
 
-## Các cơ sở bảo tàng quan trọng
+## Các cơ sở quan trọng
 
-### Bảo tàng Đương đại Thành phố Đài Bắc (Bảo tàng Bắc Mỹ)
+### Bảo tàng Nghệ thuật Thành phố Đài Bắc (Bảo tàng Bắc Mỹ)
 
-Khánh thành năm 1983, đây là bảo tàng nghệ thuật hiện đại đầu tiên tại Đài Loan.[^1] Bảo tàng Bắc Mỹ chịu trách nhiệm lên kế hoạch cho Gian hàng Đài Loan tại Triển lãm Thượng Hải kép, là cơ cấu tiêu biểu của nghệ thuật đương đại Đài Loan.
+Khánh thành năm 1983, đây là bảo tàng nghệ thuật hiện đại đầu tiên của Đài Loan.[^1] Bảo tàng Bắc Mỹ chịu trách nhiệm lên kế hoạch cho gian hàng Đài Loan tại triển lãm Venice, là cơ quan tiêu biểu của nghệ thuật đương đại Đài Loan.
 
-### Quốc gia Bảo tàng Nghệ thuật Đài Loan (Bảo tàng Quốc gia)
+### Bảo tàng Quốc gia Đài Loan (Bảo tàng Quốc gia)
 
-Nằm tại Tây Trung, nổi tiếng với nghiên cứu lịch sử nghệ thuật Đài Loan và tàng trữ nghệ thuật số.[^2] Gần đây, trọng tâm phát triển là nghệ thuật công nghệ, với bộ sưu tập phủ sóng từ thời kỳ thuộc địa Nhật đến hiện đại. Sau khi hoàn thiện năm 2022, khu phố trước bảo tàng cũng được trang bày khu vực điêu khắc ngoài trời, kéo dài không gian trưng bày ra ngoài trời.
+Nằm ở Đài Trung, đây là bảo tàng quốc gia đầu tiên của Đài Loan, nổi tiếng với nghiên cứu lịch sử nghệ thuật Đài Loan và tích chứng nghệ thuật số.[^2] Gần đây, bảo tàng tập trung phát triển vào nghệ thuật công nghệ, với tích chứng phủ sóng từ thời kỳ thuộc địa Nhật cho đến hiện đại; khu vườn điêu khắc bên ngoài mở rộng không gian trưng bày ra ngoài trời.
 
-### Bảo tàng Đương đại Thành phố Hải Dương (Bảo tàng Hải Dương)
+### Bảo tàng Nghệ thuật Thành phố Cao Hùng (Bảo tàng Cao Hùng)
 
-Là điểm dừng nghệ thuật đương đại ở miền nam Đài Loan, tiền thân là Bảo tàng Đương đại Thành phố Hải Dương được thành lập năm 1994. Gần đây đã hoàn thiện công tác sửa chữa (thời gian hoàn thành chính xác theo thông báo của cơ quan), định vị lại với góc nhìn "Nam Nam lớn". Bảo tàng tập trung vào mối liên kết giữa nghệ thuật Đông Nam Á và đảo nhiệt đới.[^3] Khung "Nam Nam lớn" cố gắng phá vỡ thói quen dài hạn đặt trung tâm ở Đài Bắc trong luận lý nghệ thuật Đài Loan, đưa góc nhìn nhiệt đới và biển xuống trong các cuộc thảo luận về nghệ thuật đương đại.
+Là điểm truy cập nghệ thuật đương đại ở phía nam Đài Loan, tiền thân là Bảo tàng Nghệ thuật Thành phố Cao Hùng được thành lập năm 1994. Gần đây, bảo tàng hoàn thành công tác sửa chữa (thời gian hoàn thành chính xác theo thông báo của cơ quan), định vị lại với góc nhìn "Châu Nam", tập trung vào kết nối giữa nghệ thuật Đông Nam Á và các vùng biển nam. [^3] Khung cảnh "Châu Nam" cố gắng phá vỡ thói quen lâu dài của luận văn nghệ thuật Đài Loan dựa trên trung tâm là Đài Bắc, mang góc nhìn nhiệt đới và biển xuống thảo luận nghệ thuật đương đại.
 
-### Bảo tàng Quốc gia Thành phố Đài Nam
+### Bảo tàng Quốc gia Đài Nam
 
-Tháng 3 năm 2025, bộ phận chuẩn bị Bảo tàng Quốc gia Thành phố Đài Nam chính thức thành lập; tháng 1 năm 2026 chịu trách nhiệm vận hành hàng ngày; dự kiến năm 2027 sẽ chính thức đi vào hoạt động, trở thành bảo tàng quốc gia thứ hai của Đài Loan.[^4] Với triển lãm thường xuyên tập trung vào nghệ thuật Đài Loan hiện đại từ năm 1895 đến 1960, bảo tàng lấp đầy khoảng trống thiếu hụt cơ quan chuyên trách trong giai đoạn lịch sử này. mái nhà gãy vụn do Bảo Thiết thiết kế, tự nhiên trở thành một trong những biểu tượng nổi bật nhất của Đài Nam.
+Ngày 25 tháng 3 năm 2025, bộ phận chuẩn bị cho Bảo tàng Quốc gia Đài Nam được thành lập tại Bảo tàng Thành phố Đài Nam số 2; từ đầu năm 2026, bảo tàng số 2 sẽ được vận hành bởi bộ phận chuẩn bị, đây là bảo tàng quốc gia thứ hai của Đài Loan. [^4] Nó dự kiến sẽ tập trung vào nghệ thuật hiện đại và cận đại của Đài Loan từ năm 1895 đến 1960, lấp đầy khoảng trống thiếu hụt cơ quan chuyên trách trong thời gian lịch sử này. Tòa nhà mái vòm đứt gãy do kiến sư Thạch Châu Vĩnh và công ty kiến trúc Nhật Bản Sakurai thiết kế, tự nhiên trở thành một trong những biểu tượng nổi bật nhất của Đài Nam.
 
-### Bảo tàng Quan Độ
+### Bảo tàng Khuận Tử
 
-Thuộc về Đại học Nghệ thuật Đài Bắc, nổi tiếng với các triển lãm thí nghiệm và nghệ sĩ trẻ mới, là cầu nối giữa giáo dục nghệ thuật và sáng tạo đương đại của Đài Loan. Hàng năm tổ chức "Triển lãm Bán niên ở Quan Độ", là một trong những nền tảng khám phá nghệ sĩ thế hệ mới ở châu Á. Khác với các bảo tàng công lớn, Bảo tàng Quan Độ tập trung vào quy mô trưng bày nhỏ gọn và linh hoạt, tập trung vào ranh giới thí nghiệm của nghệ thuật đương đại, là không gian trưng bày chính thức đầu tiên của nhiều nghệ sĩ Đài Loan.
+Trực thuộc Đại học Nghệ thuật Đài Bắc Quốc gia, nổi tiếng với các triển lãm thí nghiệm và nghệ sĩ trẻ mới, là giao diện giữa giáo dục nghệ thuật và sáng tạo đương đại của Đài Loan. Hàng năm tổ chức "Triển lãm song niên kỷ Khuận Tử", là một trong những nền tảng khám phá các nghệ sĩ trẻ châu Á. Khác với các bảo tàng công lớn, Khuận Tử tập trung vào ranh giới thí nghiệm của nghệ thuật đương đại với quy mô triển lãm nhỏ gọn và linh hoạt, là không gian trưng bày chính thức đầu tiên của nhiều nghệ sĩ Đài Loan.
 
-## Sân chơi quốc tế
+## Sân khấp quốc tế
 
-### Gian hàng Đài Loan tại Triển lãm Thượng Hải kép
+### Gian hàng Đài Loan tại Triển lãm Venice
 
-Từ năm 1995, Đài Loan liên tục tham gia Triển lãm Thượng Hải kép.[^5] Do là quốc gia không phải thành viên Liên Hợp Quốc, Gian hàng Đài Loan tham gia dưới tên gọi "Bảo tàng Đương đại Thành phố Đài Bắc", thể hiện sức mạnh của nghệ thuật vượ qua chính trị. Các nghệ sĩ đại diện qua các năm bao gồm Lin Minh Hồng, Lý Minh Viện và khác thích. (Cảm ơn Đặng Đức, với năm hành động hàng năm tại New York từ năm 1978 đến 1986, đã định hình khả năng nhận diện quốc tế của nghệ thuật Đài Loan, và thời gian sáng tạo của ông trước khi Gian hàng Đài Loan được thành lập, thuộc dòng thời gian khác.)
+Từ năm 1995, Đài Loan liên tục tham gia Triển lãm Venice. [^5] Từ năm 2003 do sự can thiệp của Trung Quốc, gian hàng Đài Loan bị gỡ khỏi danh sách các gian hàng quốc gia, chuyển sang trưng bày dưới danh nghĩa "Bảo tàng Nghệ thuật Thành phố Đài Bắc" với triển lãm song song. Những năm đầu, gian hàng Đài Loan chủ yếu là triển lãm nhóm; từ năm 2015 chuyển sang trưng bày đơn nghệ sĩ: Thạch Thiên Chương (2015), Tạ Đức Quý (2017, "Làm thời gian"), Chèng Thụ Lợi (2019, nghệ sĩ nữ đầu tiên có triển lãm đơn tại gian hàng Đài Loan) lần lượt đại diện cho Đài Loan; triển lãm "Đây không phải là một gian hàng Đài Loan" vào năm 2013 do Hứa Gia Viễn, Bernd Behr và Kateřina Šedá cùng triển khai.
 
-**Hsu Chia-wei** (Hsu Chia-wei) là một trong những nghệ sĩ Đài Loan có khả năng nhận diện cao nhất tại sân chơi nghệ thuật đương đại quốc tế trong những năm gần đây, nổi tiếng với các bản cài đặt video kết hợp nghiên cứu tài liệu và kỹ thuật phim. Sáng tạo của ông khai thác rộng rãi lịch sử thuộc địa của Đài Loan, di sản lạnh chiến và tài liệu chính trị, đặc biệt là các tác phẩm "Võ thuật" và "Trọng lực ngược" được các nhà giám đốc quốc tế chú ý. Năm 2019, tại Triển lãm Thượng Hải kép lần thứ 58, Hsu Chia-wei đại diện Đài Loan tham gia, với tác phẩm mới "Máy bay" khám phá vị tiên Phong Quang Vũ, nhà tiên phong hàng không của Đài Loan, và sự chuyển giao công nghệ Nhật trong thời kỳ thuộc địa. Ông từng giành giải thưởng địa phương lớn như Giải thưởng Nghệ thuật Đài Loan mới, cũng thường xuyên được lự chọn cho các triển lãm chủ đề tại các lễ hội nghệ thuật quan trọng ở châu Âu, là người đại diện cho "kể chuyện hậu thuộc địa" của Đài Loan.[^5]
+**Hứa Gia Viễn** (Hsu Chia-wei, sinh năm 1983 tại Đài Trung) là một trong những nghệ sĩ có tầm nhìn rộng nhất trong cộng đồng nghệ thuật đương đại quốc tế của Đài Loan, nổi tiếng với các bản cài đặt video kết hợp nghiên cứu hồ sơ. Tác phẩm sáng tạo của ông khai thác rộng rãi các di tích chiến tranh lạnh và lịch sử biên giới của Đài Loan: bản cài đặt video "Thiên Thạch Vương" trưng bày tại gian hàng Đài Loan Venice năm 2013, theo dõi kết nối giữa niềm tin thần thoái ở Mẫu Sơn và tỉnh Giang Tây; "Quay lại làng Mô" quay lại những người con của quân đội miền Nam ở vùng biên giới phía bắc Thái Lan, giúp ông giành giải thưởng lớn nhất của Giải thưởng Nghệ thuật Đài Loan - Nhật Bản năm thứ 15. [^8]
 
-Tại Triển lãm Thượng Hải kép lần thứ 60 năm 2024, Yuan Quang Đông đại diện Đài Loan tham gia, với các bản cài đặt video tập trung vào chủ đề sự mong manh của dân chủ, mang lại sự chú ý quốc tế cho Gian hàng Đài Loan.[^6]
+Năm 2024, lần thứ 60 của Triển lãm Venice, Yuan Quang Minh đại diện Đài Loan tham gia, với các bản cài đặt video tập trung vào vấn đề về tính dễ vỡ của dân chủ, mang lại sự chú ý quốc tế cho gian hàng Đài Loan. [^6]
 
-### Hội chợ nghệ thuật quốc tế và phòng tranh thương mại
+### Hội chợ nghệ thuật quốc tế và các phòng trưng bày thương mại
 
-Triển lãm Đương đại Đài Bắc (Taipei Dangdai) tổ chức hàng năm từ năm 2019, nhanh chóng trở thành một điểm dừng trên thị trường nghệ thuật châu Á, thu hút các phòng tranh hàng đầu thế giới tham gia. Sự hiện diện của các phòng tranh thương mại như Eslite, Lisson Gallery không gian Đài Bắc, cũng giúp Đài Bắc vững chắc vị thế trong thị trường nghệ thuật châu Á - Thái Lan.
+Triển lãm nghệ thuật đương đại Đài Bắc (Taipei Dangdai) được tổ chức từ năm 2019, nhanh chóng trở thành một điểm núi trong thị trường nghệ thuật châu Á, với sự tham gia của các phòng trưng bày quốc tế như Lisson Gallery. Các phòng trưng bày địa phương như Chen Pin Gallery, TKG+, và Geng Gallery, cùng với White Stone Gallery (Whitestone Gallery) của Nhật Bản đặt trung tâm tại khu vực Thụy Sĩ năm 2017, cũng giúp Đài Bắc vững chắc vị thế trong thị trường nghệ thuật châu Á Thái Bình Dương. [^9]
 
-### Nghệ thuật đa phương tiện số
+### Nghệ thuật đa phương tiện mới
 
-Đài Loan nổi bật trong lĩnh vực nghệ thuật đa phương tiện số. Các nghệ sĩ như Wu Trí Dũng, Hao La Sĩ, Wang Liên Trinh, trong các hội chợ quốc tế như Lễ hội Điện tử Ars Electronica, SIGGRAPH, liên tục được công nhận. Nền tảng công nghiệp bán dẫn của Đài Loan cung cấp đất tảo kỹ thuật cho nghệ thuật công nghệ, đây là lợi thế cấu trúc khó thể sao chép của môi trường nghệ thuật khác.
+Đài Loan nổi bật trong lĩnh vực nghệ thuật đa phương tiện mới. Huang Xin Jian, Haw Lan Keng và Wang Lian Cheng cùng các nhóm nghệ sĩ liên tục xuất hiện trên sân khấp quốc tế như Lễ hội Điện tử Ars Electronica ở Linz; tác phẩm VR của Huang Xin Jian "Luân Hồi" giành giải thưởng Danh dựng Hoạt họa Máy tính tại Linz năm 2022. Nền tảng công nghiệp bán dẫn của Đài Loan cung cấp đất chất cho nghệ thuật công nghệ, đây là lợi thế cấu trúc khó thể sao chép của các hệ sinh thái nghệ thuật khác (xem thêm [Nghệ thuật đa phương tiện mới của Đài Loan](/vi/art/taiwan-new-media-art)).
 
-## Hệ sinh thái nghệ thuật
+## Sinh thái nghệ thuật
 
-Sau khi giải mã, Đài Loan bùng nổ nhiều không gian thay thế (alternative spaces), như Công viên Í Tông, Xưởng làm việc Chuềi Trúc, Trạm nghệ thuật đương đại Mở ra và khác thích. Những không gian này không bị ràng buộc bởi logic phòng tranh thương mại, trở thành nơi ủ ấm cho sáng tạo thí nghiệm, cũng nuôi dưỡng tiếng nói độc lập trong luận lý nghệ thuật đương đại của Đài Loan. Song hành với đó là mạng lưới quốc tảo nghệ sĩ nghệ thuật, bao gồm Làng nghệ thuật Biển Cát Trắng Quốc tế, Xưởng làm việc Chuềi Trúc và các cơ sở nội địa, kết hợp với các chương trình nghệ sĩ nghệ thuật ở Paris Tây Tặc, New York, Berlin và các nơi khác, tạo điều kiện cho sự trao đổi tầm nhìn liên tục giữa bản địa và nước ngoài của các nghệ sĩ Đài Loan.
+Sau giải mãn, Đài Loan bùng nổ với nhiều không gian thay thế (alternative spaces), như công viên Yee Tong, xưởng làm việc Chùm Tre, trạm nghệ thuật mở ra Đài Bắc và các không gian tương tự. Những nơi này không bị ràng buộc bởi logic của các phòng trưng bày thương mại, trở thành nơ sinh ra các sáng tạo thí nghiệm, cũng nuôi dưỡng tiếng nói độc lập trong luận văn nghệ thuật đương đại của Đài Loan. Paralell với sự phát triển này là mạng lưới nghệ sĩ nghỉ dưỡng quốc tế, bao gồm khu nghỉ dưỡng nghệ thuật Quốc tế Bao Thạch, xưởng làm việc Chùm Tre và các cơ sở trong nước, cùng các chương trình nghỉ dưỡng ở Paris Tây Tây, New York, Berlin và nhiều nơi khác, tạo điều kiện cho các nghệ sĩ Đài Loan trao đổi quan điểm liên tục giữa bản địa và nước ngoài.
 
-"Quy chế lắp đặt nghệ thuật công cộng" yêu cầu các dự án công trình công cộng phân bổ ngân sách để lắp đặt nghệ thuật công cộng, giúp Đài Loan sở hữu số lượng lớn các tác phẩm nghệ thuật công cộng, từ nhà ga tàu điện ngầm đến bệnh viện, nghệ thuật ngấm vào cuộc sống hàng ngày. Năm 2019 thành lập Viện Nội dung Văn hóa Đài Loan (TAICCA), chuyên tập trung vào việc thúc đẩy quốc tế hóa nội dung văn hóa của Đài Loan, bao gồm các lĩnh vực như điện ảnh, trò chơi, xuất bản, nghệ thuật và khác thích, là động cơ chính sách cho việc đưa ngành công nghiệp văn hóa của Đài Loan ra thị trường quốc tế.[^7]
+"Quy định lắp đặt nghệ thuật công cộng" yêu cầu các dự án xây dựng công cộng phân bổ ngân sách lắp đặt nghệ thuật công cộng, giúp Đài Loan sở hữu số lượng lớn các tác phẩm nghệ thuật công cộng, từ các trạm tàu điện ngầm đến bệnh viện, nghệ thuật ngấm vào cuộc sống hàng ngày. Năm 2019, Viện Nội dung Văn hóa Đài Loan (TAICCA) được thành lập, chuyên tập trung vào việc thúc đẩy quốc tế hóa nội dung văn hóa của Đài Loan, bao gồm các lĩnh vực như phim ảnh, trò chơi, xuất bản và nghệ thuật, là động cơ chính sách cho ngành công nghiệp văn hóa của Đài Loan hướng tới quốc tế. [^7]
 
-## xu hướng hiện tại
+## Xu hướng hiện tại
 
-Trong những năm gần đây, các trục phát triển chính của nghệ thuật đương đại Đài Loan đã trở nên rõ rệt. Nghệ thuật kết hợp AI, thuật toán, thiết bị tương tác đang được chú ý quốc tế quan tâm, và lợi thế của các nghệ sĩ Đài Loan trong lĩnh vực này đến từ nền tảng kỹ thuật công nghiệp bán dẫn. Khả năng nhận diện quốc tế của các nghệ sĩ bản độc ngày càng tăng, và sự kết nối với vòng văn hóa đảo nhiệt đới Nam Thái Lan mang lại cho nghệ thuật Đài Loan một góc nhìn khác biệt so với các quan điểm Đông Á. Sự hợp tác liên ngành giữa nghệ thuật, công nghệ, biểu diễn và âm nhạc ngày càng phổ biến, và sự mờ nhòe của ranh giới trở thành một ngôn ngữ sáng tạo.
+Trong những năm gần đây, một số xu hướng phát triển chính của nghệ thuật đương đại Đài Loan đã trở nên rõ rệt. Nghệ thuật kết hợp AI, thuật toán và thiết bị tương tác đang nhận được sự chú ý quốc tế, và lợi thế của các nghệ sĩ Đài Loan trong lĩnh vực này đến từ nền tảng kỹ thuật của ngành công nghiệp bán dẫn. Tầm nhìn quốc tế của các nghệ sĩ bản đồ còn đang được nâng cao, và kết nối với vòng văn hóa biển Đông Nam Á mang lại cho nghệ thuật Đài Loan một góc nhìn khác biệt so với các quan điểm Đông Á. Sự hợp tác liên ngành giữa nghệ thuật, công nghệ, biểu diễn và âm nhạc đang trở nên phổ biến, và sự mờ nhòe của ranh giới trở thành một ngôn ngữ sáng tạo.
 
-Năng lượng nghệ thuật không chỉ tập trung ở Đài Bắc nữa, Đài Trung, Đài Nam, Hải Dương mỗi thành phố đều có nhịp sống nghệ thuật riêng, và tiếng nói từ miền trung và miền đông ngày càng xuất hiện trong các triển lãm quốc tế. Xu hướng phi tập trung này phù hợp với hướng đi của chính sách văn hóa của Đài Loan trong những năm gần đây, nhấn mạnh sáng tạo địa phương.
+Năng lượng nghệ thuật không chỉ tập trung ở Đài Bắc nữa, mà còn ở Đài Trung, Đài Nam và Cao Hùng, mỗi thành phố đều có nhịp sống nghệ thuật riêng. Xu hướng phi tập trung này phù hợp với hướng dẫn chính sách văn hóa của Đài Loan trong những năm gần đây nhấn mạnh vào sáng tạo địa phương.
 
 ## Tài liệu tham khảo
 
-[^1]: [Bảo tàng Đương đại Thành phố Đài Bắc](https://www.tfam.museum/) — Lịch sử khánh thành, lên kế hoạch Gian hàng Đài Loan tại Triển lãm Thượng Hải kép.
+[^1]: [Bảo tàng Nghệ thuật Thành phố Đài Bắc](https://www.tfam.museum/) — Lịch sử khánh thành, lên kế hoạch gian hàng Đài Loan tại Venice.
 
-[^2]: [Quốc gia Bảo tàng Nghệ thuật Đài Loan](https://www.ntmofa.gov.tw/) — Nghiên cứu lịch sử nghệ thuật Đài Loan và tàng trữ.
+[^2]: [Bảo tàng Quốc gia Đài Loan](https://www.ntmofa.gov.tw/) — Nghiên cứu lịch sử nghệ thuật Đài Loan và tích chứng.
 
-[^3]: [Bảo tàng Đương đại Thành phố Hải Dương](https://www.kmfa.gov.tw/) — Hoàn thiện sửa chữa năm 2023, giới thiệu định vị "Nam Nam lớn".
+[^3]: [Bảo tàng Nghệ thuật Thành phố Cao Hùng](https://www.kmfa.gov.tw/) — Giải thích định vị "Châu Nam".
 
-[^4]: [Bảo tàng Quốc gia Thành phố Đài Nam](https://www.momatainan.gov.tw/) — Thời gian thành lập bộ phận chuẩn bị (2025/3), tiếp quản (2026/1), dự kiến hoạt động (2027).
+[^4]: [Bảo tàng Quốc gia Đài Nam — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8D%97%E5%9C%8B%E5%AE%B6%E7%BE%8E%E8%A1%93%E9%A4%A8) — Bộ phận chuẩn bị thành lập ngày 25 tháng 3 năm 2025, tiếp quản hoạt động bảo tàng số 2 từ đầu năm 2026, "bảo tàng quốc gia thứ hai trong cả nước", định vị nghệ thuật hiện đại và cận đại từ năm 1895 đến 1960, kiến trúc cùng Thạch Châu Vĩnh và Sakurai thiết kế. Trang web: [Bộ phận chuẩn bị Bảo tàng Quốc gia Đài Nam](https://www.momatainan.gov.tw/).
 
-[^5]: [Dữ liệu lịch sử Gian hàng Đài Loan tại Triển lãm Thượng Hải kép — Bảo tàng Đương đại Thành phố Đài Bắc](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw) — Lần tham gia đầu tiên năm 1995 và các nghệ sĩ đại diện qua các năm.
+[^5]: [Triển lãm Venice — Wikipedia](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E9%9B%99%E5%B9%B4%E5%B1%95) — Lần thứ 46 năm 1995, gian hàng Đài Loan tham gia lần đầu (Wu Maw Lien, Lin De Cheng, Huang Jin He, Hou Chun Ming, Wang Zhi Yang); năm 2019, Chèng Thụ Lợi trở thành nghệ sĩ nữ đầu tiên có triển lãm đơn tại gian hàng Đài Loan; năm 2026, Li Yi Fan; xem thêm [Gian hàng Đài Loan tại Triển lãm Venice — Cơ sở dữ liệu Nghệ thuật Đương đại Đài Loan TCAA](https://tcaaarchive.org/Keyword/Entry/1806) (điểm chuyển mình từ năm 2003 "Vùng cảm xúc" trở i, từ năm 2015 chuyển sang trưng bày đơn nghệ sĩ) và [Hyperallergic: Taiwan Features Tehching Hsieh at the 2017 Venice Biennale](https://hyperallergic.com/373049/taiwan-features-tehching-hsieh-at-the-2017-venice-biennale/).
 
-[^6]: [Yuan Quang Đông 2024 tại Triển lãm Thượng Hải kép — Bảo tàng Đương đại Thành phố Đài Bắc](https://www.tfam.museum/) — Hồ sơ tham gia Gian hàng Đài Loan tại Triển lãm Thượng Hải kép lần thứ 60.
+[^6]: [Yuan Quang Minh 2024 tại Triển lãm Venice — Bảo tàng Nghệ thuật Thành phố Đài Bắc](https://www.tfam.museum/) — Hồ sơ tham gia gian hàng Đài Loan tại lần thứ 60 của Triển lãm Venice.
 
-[^7]: [Viện Nội dung Văn hóa Đài Loan TAICCA](https://taicca.tw/) — Nền tảng và hoạt động quốc tế hóa của Viện Nội dung Văn hóa Đài Loan.
+[^7]: [Viện Nội dung Văn hóa TAICCA](https://taicca.tw/) — Nền tảng và hoạt động quốc tế hóa của Viện Nội dung Văn hóa Đài Loan.
+
+[^8]: [Hứa Gia Viễn — Cơ sở dữ liệu Nghệ thuật Đương đại Đài Loan TCAA](https://tcaaarchive.org/Artist/Detail/1395) — Sinh năm 1983 tại Đài Trung; lần thứ 55 của Triển lãm Venice "Đây không phải là một gian hàng Đài Loan" (2013); "Quay lại làng Mô" giành giải thưởng lớn nhất của Giải thưởng Nghệ thuật Đài Loan - Nhật Bản lần thứ 15. Xem thêm [Gian hàng Đài Loan tại lần thứ 55 của Triển lãm Venice — Bảo tàng Nghệ thuật Thành phố Đài Bắc](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?id=486&ddlLang=en-us).
+
+[^9]: [Đài Bắc — White Stone Gallery](https://www.whitestone-gallery.com/blogs/locations/taipei) — White Stone Gallery mở không gian tại khu vực Thụy Sĩ, Đài Bắc năm 2017; xem thêm [Thông báo về buổi trình chiếu của Lisson Gallery tại Taipei Dangdai — Lisson Gallery](https://www.lissongallery.com/news/announcing-lisson-gallery-s-presentation-at-taipei-dangdai).
 
 **Đọc thêm**
 
-- [Đặng Đức](/vi/art/tehching-hsieh-performance-artist) — Nghệ sĩ hành vi hàng đầu của Đài Loan tại New York năm 1980, tọa độ sớm cho khả năng nhận diện quốc tế của nghệ thuật đương đại
-- [Wang Sin-nhiên (Alao)](/vi/art/wang-hsin-jen-artist) — Nghệ sĩ nghệ thuật sinh học đầu tiên của Đài Loan đăng ký trên Art Blocks năm 2021, đại diện cho dự án FAB DAO và nghệ thuật khối chuỗi khối
-- [Thư Trí: 12 năm đưa cảnh quan nghệ thuật Đài Loan vào bán đảo Malay](/vi/people/cheng-wen-chi) — Biên tập viên của "Tuyền đồng bằng số", bốn khung cảnh: đảo, biên giới, giải thuộc địa và Thái Lan - Hoa Đông, thêm góc nhìn phương nam vào bản đồ luận lý nghệ thuật đương đại
+- [Tạ Đức Quý](/vi/art/tehching-hsieh-performance-artist) — Nhà sáng lập nghệ thuật hành vi từ những năm 1980 ở New York, là một tọa độ sớm trong tầm nhìn quốc tế của nghệ thuật đương đại
+- [Wang Xin Ren (Araro)](/vi/art/wang-hsin-jen-artist) — Nghệ sĩ sinh thái đầu tiên của Đài Loan đăng ký trên Art Blocks năm 2021, đại diện cho dự án nghệ thuật khối chuỗi khối và FAB DAO
+- [Chèng Văn Thư: 12 năm đưa vòng quay nghệ thuật Đài Loan tới Malaysian Islands](/vi/people/cheng-wen-chi) — Biên tập viên của "Thảo nguyên Số", bốn khung cảnh: đảo, biên giới, giải tận dụng và Thái Bình Dương, thêm góc nhìn phương nam vào luận văn nghệ thuật đương đại

@@ -410,7 +410,7 @@
   "ar:Food/埔里紹興酒.md": 1,
   "ar:Economy/旺旺.md": 1,
   "ru:Economy/旺旺.md": 2,
-  "ar:Culture/八點檔.md": 1,
+  "ar:Culture/八點檔.md": 2,
   "hi:Lifestyle/小北百貨.md": 2,
   "pt:History/國民政府遷台與戰後重建.md": 1,
   "ru:People/蔡健雅.md": 1,
@@ -2733,7 +2733,7 @@
   "de:History/阿里山：帝國的林場與高一生的山.md": 1,
   "vi:People/李昂.md": 1,
   "de:History/淡江中學.md": 1,
-  "vi:Music/台灣客家音樂.md": 5,
+  "vi:Music/台灣客家音樂.md": 6,
   "fr:Economy/Pinkoi.md": 1,
   "id:History/清治時期.md": 1,
   "id:People/林義雄.md": 1,
@@ -3658,5 +3658,7 @@
   "fr:Lifestyle/夜生活與KTV文化.md": 1,
   "ar:Society/人權與性別平等.md": 1,
   "en:Society/人權與性別平等.md": 1,
-  "fr:Society/人權與性別平等.md": 1
+  "fr:Society/人權與性別平等.md": 1,
+  "ja:Art/當代藝術.md": 1,
+  "ko:About/緣起故事.md": 1
 }

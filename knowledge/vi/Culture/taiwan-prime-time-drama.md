@@ -17,11 +17,12 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '08a8c5ec8'
-sourceContentHash: 'sha256:c5c6c2825029a48f'
-sourceBodyHash: 'sha256:f0cb0ab3b5428edc'
-translatedAt: '2026-07-27T22:12:14+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:7af3421e7470e32a'
+sourceBodyHash: 'sha256:5c337ebcf1a5b681'
+translatedAt: '2026-09-19T08:35:13.782743+00:00'
 ---
 
 > **Tóm tắt 30 giây**: Tứ Giờ Chiều là sự bao bọc kéo dài nhất trong lịch sử truyền hình Đài Loan, trung tâm của nó nằm ở "quay ngay phát ngay" - một phong trào công nghiệp hoá siêu tốc, giúp các câu chuyện tưởng tượng hòa thaum với các sự kiện thực tế đang diễn ra. Đó là một "xưởng sản xuất" với chi phí thấp, dù chỉ bằng một phần tám chi phí của các bộ phim Hàn Quốc, nhưng nhờ tính linh hoạt cao và nội dung cay nhọo, Tứ Giờ Chiều đã biến thành một thể loại "thần học kỳ quái" độc đáo trong kỷ nguyên mạng xã hội. Từ "Đòn Đánh Dưa Hành" đến "McCoy Bay Cơ" - Tứ Giờ Chiều không chỉ là nhạc nền cho gia đình các thế hệ trung và cao tuổi, mà còn trở thành kho nguyên liệu quan trọng cho thế hệ trẻ phá hủy và phản biện tính chủ quyền văn hóa của Đài Loan.
@@ -50,18 +51,22 @@ Mặc dù gần đây bị ảnh hưởng bởi xu hướng streaming, tỷ lệ
 
 Trên thị trường quốc tế, Tứ Giờ Chiều của Đài Loan cho thấy hiệu quả dài dẳng mạnh mẽ. "Ngày Xưa Tôi Cũng Từng Yêu" tại Việt Nam đã tạo ra chuỗi phát liên tục hơn 5 năm và được phát lại không dứt. [14](#user-content-fn-14) Cấu trúc các chủ đề gia đình và báo ăn nghiệt vụ với tính chất lan tỏa, những bộ phim có chi phí thấp hơn so với các bộ phim ngôi sao hoá chiếm vị trí tốt hơn trong vòng người Hoa Đông Nam Á.
 
-## So sánh mô hình sản xuất quốc tế
+## So sánh mô hình sản xuất xuyên quốc gia
 
-Đặt Tứ Giờ Chiều của Đài Loan vào góc độ quốc tế, mô hình "chính trị tỷ lệ khán giả" của nó tạo ra sự khác biệt rõ rệt so với các hệ thống Hàn Quốc và Mỹ.
+Khi đặt phim truyền hình buổi tối của Đài Loan vào bối cảnh quốc tế, nó tạo ra sự tương phản rõ rệt với hệ thống Hàn Quốc và Mỹ.
 
-| Mục tiêu                    | Tứ Giờ Chiều Đài Loan                          | Phim truyền hình Hàn Quốc                                    | Phim hành động Mỹ              |
-| --------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------ |
-| **Mô hình sản xuất**        | Quay ngay phát ngay (chính trị tỷ lệ khán giả) | Chuyên trung biên kịch (theo dõi toàn bộ trước khi sản xuất) | Chu kỳ sản xuất (theo mùa)     |
-| **Chi phí mỗi tập**         | 13-15 triệu nhân dân tệ                        | 150-300 triệu nhân dân tệ                                    | Trên 15 triệu nhân dân tệ      |
-| **Tính linh hoạt kịch bản** | Rất cao (thay đổi kết thúc bất kỳ lúc nào)     | Trung bình (không nhiều không gian thay đổi)                 | Thấp (cần qua nhiều lớp duyệt) |
-| **Đồng bộ xã hội**          | Ghi nhận ngay các sự kiện thời sự, dịch bệnh   | Trễ 6 tháng trở lên                                          | Trễ 1 năm trở lên              |
+| Hạng mục                    | Phim truyền hình buổi tối Đài Loan        | Phim truyền hình Hàn Quốc                                | Phim truyền hình Mỹ               |
+| :-------------------------- | :---------------------------------------- | :------------------------------------------------------- | :-------------------------------- |
+| **Mô hình sản xuất**        | Quay và phát sóng (Trung tâm khán giả)    | Hệ thống biên kịch (Chuyển sang tiền sản xuất hoàn toàn) | Tiền sản xuất theo mùa (Seasonal) |
+| **Chi phí mỗi tập**         | 1,3 - 1,5 triệu Đài tệ                    | 15 - 30 triệu Đài tệ                                     | Trên 150 triệu Đài tệ             |
+| **Tính linh hoạt kịch bản** | Rất cao (Thay đổi kết cục bất cứ lúc nào) | Trung bình (Không gian thay đổi nhỏ)                     | Thấp (Cần nhiều cấp phê duyệt)    |
+| **Đồng bộ xã hội**          | Tích hợp thời sự, dịch bệnh tức thời      | Chậm hơn 6 tháng trở lên                                 | Chậm hơn 1 năm trở lên            |
 
-📝 Ghi chú của người dẫn chương trình: Khi chúng ta cười nhẹ về sự kỳ quái của câu chuyện trong Tứ Giờ Chiều, chúng ta thực sự đang tham gia vào một cuộc chiến giải phóng căng thẳng tập thể.
+📝 Ghi chú của người biên tập: Khi chúng ta chế giễu sự phi lý trong cốt truyện phim buổi tối, thực chất chúng ta đang tham gia vào một màn giải tỏa áp lực tập thể.
+
+**Đọc thêm**:
+
+- [Giải thưởng Kim Tông](/culture/金鐘獎) — Trong thời kỳ 《Ngôi sao biết lòng tôi》《Bao Thanh Thiên», các đơn vị đoạt giải chương trình truyền hình chưa bao giờ rời Đài Thị, Trung Thị, Hoa Thị
 
 ## Các nguồn tham khảo
 

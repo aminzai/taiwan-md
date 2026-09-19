@@ -19,11 +19,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '24efd20f'
-sourceContentHash: 'sha256:542041b17da4dbbd'
-sourceBodyHash: 'sha256:81797ae5614d2f0c'
-translatedAt: 2026-07-31T00:00:00Z
-imageAlt: 'Tập đoàn Formosa Plastics: Đế chế hóa dầu của Đài Loan'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:00c7be1d98e156ab'
+sourceBodyHash: 'sha256:55c1707afcbd7a73'
+translatedAt: '2026-09-19T07:48:54.340808+00:00'
 ---
 
 > **Tổng quan 30 giây**
@@ -126,43 +125,47 @@ Nhưng đồng thời, Formosa Plastics cũng phải đối mặt với tranh c�
 
 ## Thách thức và triển vọng
 
-**Áp lực chuyển đổi lưới carbon zero**:
-Xu hướng lưới carbon zero toàn cầu gây áp lực khổng lồ với ngành hóa dầu. Formosa Plastics phải đầu tư vào công nghệ sản xuất sạch, tăng hiệu suất năng lượng, thậm chí chuyển hướng sản xuất hóa chất sinh học. Những khoản đầu tư chuyển đổi này trong ngắn hạn sẽ ảnh hưởng tới sinh lợi, nhưng lâu dài là cần thiết cho sự tồn tại.
+**Áp lực chuyển đổi net-zero**:
+Xu hướng phát thải net-zero toàn cầu tạo ra áp lực lớn cho ngành hóa chất dầu. Tập đoàn Formosa Plastics phải đầu tư vào công nghệ sản xuất sạch, nâng cao hiệu suất năng lượng, thậm chí chuyển sang sản xuất hóa chất cơ sở sinh học. Những khoản đầu tư chuyển đổi này trong ngắn hạn sẽ ảnh hưởng đến lợi nhuận, nhưng về dài hạn là điều kiện tồn tại.
 
-**Dao động giá nguyên liệu**:
-Ngành hóa dầu chịu tác động sâu sắc từ giá dầu thô, năm 2025 Taiwan Chemical & Fibre thua lỗ liên quan tới tăng chi phí nguyên liệu. Formosa Plastics cần dùng công cụ tài chính để trốn rủi ro, hoặc điều chỉnh cấu trúc sản phẩm để giảm rủi ro.
+**Biến động chi phí nguyên liệu**:
+Ngành hóa chất dầu chịu ảnh hưởng sâu sắc bởi giá dầu nguyên, thiệt hại của Formosa Petrochemical năm 2025 liên quan đến việc chi phí nguyên liệu tăng lên. Formosa Plastics cần thông qua công cụ tài chính phòng ngừa rủi ro, hoặc điều chỉnh cấu trúc sản phẩm để giảm thiểu rủi ro.
 
-**Luật lệ bảo vệ môi trường ngày càng chặt chẽ**:
-Luật lệ bảo vệ môi trường của nhiều quốc gia ngày càng chặt chẽ, tiêu chuẩn thải khí cho ngành hóa dầu tăng hàng năm. Formosa Plastics phải đầu tư vào thiết bị bảo vệ môi trường, phát triển sản phẩm và quy trình sản xuất thân thiện hơn với môi trường.
+**Quy định môi trường ngày càng chặt chẽ**:
+Quy định môi trường của các nước ngày càng chặt chẽ, tiêu chuẩn phát thải đối với ngành hóa chất dầu được nâng cao hàng năm. Formosa Plastics phải đầu tư thiết bị bảo vệ môi trường, và phát triển sản phẩm cùng quy trình sản xuất thân thiện hơn với môi trường.
 
-**Cạnh tranh thị trường gia tăng**:
-Các quốc gia Trung Đông, cuộc cách mạng dầu phiến Hoa Kỳ mang tới những đối thủ cạnh tranh mới, ngành hóa dầu các thị trường mới nổi Á châu cũng phát triển nhanh chóng. Formosa Plastics phải nâng cao sức cạnh tranh mới có thể duy trì lợi thế trong cuộc cạnh tranh gay gắt.
+**Cạnh tranh thị trường gay gắt**:
+Cách mạng dầu mỏ đá tại Trung Đông và Mỹ mang lại các đối thủ cạnh tranh mới, ngành hóa chất dầu tại các thị trường mới nổi châu Á cũng phát triển nhanh chóng. Formosa Plastics phải nâng cao khả năng cạnh tranh, mới có thể duy trì lợi thế trong cuộc cạnh tranh khốc liệt.
 
 **Triển vọng tương lai**:
-Đối mặt với thách thức, Tập đoàn Formosa Plastics đưa ra chiến lược "năm lĩnh vực chuyển đổi":
+Đối mặt với thách thức, Tập đoàn Formosa Plastics đưa ra chiến lược «ngũ đại chuyển đổi»:
 
-1. **Chuyển đổi carbon thấp**: phát triển công nghệ quay lại carbon, sản xuất nhựa sinh học, giảm thải carbon
-2. **Chuyển đổi năng lượng**: đầu tư vào năng lượng tái tạo, phát triển công nghệ lưu trữ năng lượng
-3. **Sức khỏe y tế**: dùng chuyên môn hoá học bước vào lĩnh vực vật liệu y tế
-4. **Vật liệu pin**: cung cấp vật liệu quan trọng cho cuộc cách mạng xe điện
-5. **Sản phẩm điện tử**: mở rộng hoạt động vật liệu bán dẫn và hóa chất điện tử
+1. **Chuyển đổi thấp carbon**: Phát triển công nghệ bắt carbon, sản xuất nhựa cơ sở sinh học, giảm phát thải carbon
+2. **Chuyển đổi năng lượng**: Đầu tư năng lượng tái tạo, phát triển công nghệ lưu trữ năng lượng
+3. **Y tế sức khỏe**: Ứng dụng chuyên môn hóa học tiến vào lĩnh vực vật liệu y tế
+4. **Vật liệu pin**: Cung cấp vật liệu then chốt cho cuộc cách mạng xe điện
+5. **Sản phẩm điện tử**: Mở rộng kinh doanh vật liệu bán dẫn và hóa chất điện tử
 
-Những hướng chuyển đổi này cho thấy Formosa Plastics đang nỗ lực chuyển từ "công ty hóa dầu" tới "công ty khoa học vật liệu". Dựa trên nền tảng kỹ thuật hóa học sâu sắc và kinh nghiệm sản xuất, Formosa Plastics có tiềm năng tìm được cơ hội tăng trưởng trong các lĩnh vực mới nổi.
+Các hướng chuyển đổi này cho thấy Formosa Plastics đang nỗ lực chuyển từ «công ty hóa chất dầu» thành «công ty khoa học vật liệu». Dựa trên nền tảng sâu厚 của kỹ thuật hóa học và kinh nghiệm sản xuất, Formosa Plastics có tiềm lực tìm thấy cơ hội tăng trưởng trong các lĩnh vực mới nổi.
 
-Formosa Plastics đang định nghĩa lại "trách nhiệm xã hội của doanh nghiệp hóa dầu". Từ theo đuổi tối đa hoá lợi nhuận, tới đồng thời gánh vác trách nhiệm bảo vệ môi trường và xã hội, con đường chuyển đổi của Formosa sẽ cung cấp trường hợp tham khảo cho ngành sản xuất truyền thống Đài Loan.
+Formosa Plastics đang định nghĩa lại «trách nhiệm xã hội của doanh nghiệp hóa chất dầu». Từ việc theo đuổi tối đa hóa lợi nhuận, đến đồng thời gánh vác trách nhiệm bảo vệ môi trường và trách nhiệm xã hội, lộ trình chuyển đổi của Formosa Plastics sẽ cung cấp trường hợp tham khảo cho ngành sản xuất truyền thống của Đài Loan.
 
-Câu chuyện của Tập đoàn Formosa Plastics là sự rút gọn quá trình công nghiệp hoá Đài Loan. Nó chứng kiến Đài Loan từ bước ra khỏi nghèo đói tới giàu có, từ xã hội nông nghiệp chuyển hướng sang xã hội công nghiệp. Trong thời đại mới, liệu Formosa Plastics có thể chuyển đổi thành công sẽ quyết định sức cạnh tranh của ngành sản xuất truyền thống trong dòng chảy phát triển bền vững. Đây không chỉ là thách thức của một doanh nghiệp, mà còn là chỉ số quan trọng cho sự chuyển đổi công nghiệp toàn Đài Loan.
+Câu chuyện của Tập đoàn Formosa Plastics là bản thu nhỏ của quá trình công nghiệp hóa Đài Loan. Nó chứng kiến Đài Loan từ nghèo đói đi tới giàu có, từ xã hội nông nghiệp chuyển sang xã hội công nghiệp. Trong kỷ nguyên mới, Formosa Plastics có thành công chuyển đổi hay không, sẽ quyết định khả năng cạnh tranh của ngành sản xuất truyền thống trong xu hướng phát triển bền vững. Đây không chỉ là thách thức của một doanh nghiệp, mà còn là chỉ số quan trọng của toàn bộ quá trình chuyển đổi sản nghiệp Đài Loan.
 
 ---
 
+**Đọc thêm**:
+
+- [Cơ chế giá xăng dầu Đài Loan và CPC](/economy/台灣油價機制與中油) — Hoàn cảnh của CPC, đơn vị luyện dầu lớn thứ hai của Đài Loan bên cạnh Formosa Petrochemical: mỗi khi giá xăng tăng vọt đều bị yêu cầu đứng ở hàng đầu gánh vác, giá rẻ được chia đều theo lít cho mỗi người, ai dùng nhiều nhất không ai thống kê.
+
 ## Tài liệu tham khảo
 
-[^1]: [StoryStudio — Câu chuyện khởi nghiệp Formosa](https://storystudio.tw/) — Lịch sử thành lập Tập đoàn Formosa Plastics, bao gồm cấu trúc cổ đông ban đầu và bối cảnh vay mượn hỗ trợ Mỹ; cách ghi lại góp vốn từ các bên không thống nhất, không phải đơn giản là góp vốn cá nhân 500.000 đồng Đài Loan
+[^1]: [StoryStudio — Câu chuyện khởi nghiệp của Formosa Plastics](https://storystudio.tw/) — Lịch sử thành lập Tập đoàn Formosa Plastics, bao gồm cấu trúc cổ đông ban đầu và bối cảnh vay viện trợ Mỹ; các bên ghi nhận vốn đóng góp không thống nhất, không đơn thuần là 500.000 NTD vốn tư nhân.
 
-[^2]: [Bách khoa toàn thư — Vương Vĩnh Khiêm](https://zh.wikipedia.org/wiki/王永慶) — Vương Vĩnh Khiêm sinh 15 tháng 1 năm 1917, từ trần 15 tháng 10 năm 2008, hưởng thọ 92 tuổi (tuổi theo tính tuổi âm)
+[^2]: [Wikipedia — Vương Vĩnh Khánh](https://zh.wikipedia.org/wiki/王永慶) — Vương Vĩnh Khánh sinh ngày 15 tháng 1 năm 1917, qua đời ngày 15 tháng 10 năm 2008, hưởng thọ 92 tuổi (tuổi âm).
 
-[^3]: [Công Thương Thời báo 13 tháng 1 năm 2026 — Tứ bảo Formosa ba tháng cuối năm](https://ctee.com.tw/) — Formosa Plastics chi trả thưởng cuối năm cho nhân viên ba tháng tiền lương cơ bản dựa trên biểu hiện năm 2025, thể hiện văn hoá doanh nghiệp chia sẻ thành quả sinh lợi
+[^3]: [Công Thương Thời Báo ngày 13 tháng 1 năm 2026 — Bốn công ty con của Formosa Plastics phát thưởng Tết ba tháng](https://ctee.com.tw/) — Doanh nghiệp Formosa Plastics năm 2025 phát thưởng cuối năm cho nhân viên ba tháng lương cơ bản dựa trên hiệu quả kinh doanh, thể hiện văn hóa doanh nghiệp chia sẻ lợi nhuận của tập đoàn.
 
-[^4]: [Bách khoa toàn thư — Tập đoàn Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Tứ bảo Formosa (Formosa Plastics, Nan Ya, Taiwan Chemical & Fibre, Formosa Petrochemical) kết hợp doanh thu hàng năm xếp hàng đầu doanh nghiệp tư nhân Đài Loan
+[^4]: [Wikipedia — Tập đoàn Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Tổng quy mô doanh thu hàng năm của Bốn công ty con của Formosa Plastics (Formosa Plastics, Nan Ya, Formosa Chemicals, Formosa Petrochemical) đứng đầu các doanh nghiệp tư nhân tại Đài Loan.
 
-[^5]: [MoneyDJ — Tổng quan doanh nghiệp Formosa Petrochemical](https://www.moneydj.com/) — Mỹ Liêu Nhà máy tách khí nhẹ thứ nhất năm 1998 đi vào vận hành, Tập đoàn Formosa Plastics chính thức hoàn thành tích hợp dọc trên trung hạ hạng
+[^5]: [MoneyDJ — Giới thiệu doanh nghiệp Formosa Petrochemical](https://www.moneydj.com/) — Nhà máy phân giải dầu nhẹ đầu tiên của Cửu Khúc (Mailiao) đi vào vận hành năm 1998, Tập đoàn Formosa Plastics chính thức hoàn thành tích hợp dọc từ thượng nguồn đến hạ nguồn.

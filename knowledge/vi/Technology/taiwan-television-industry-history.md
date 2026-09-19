@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-09-16T11:57:32+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-19T07:20:16.712695+00:00'
 ---
 
 > **Tổng quan 30 giây:** TTV lên sóng năm 1962, đánh dấu kỷ nguyên truyền hình ở Đài Loan; Truyền thông công chúng đầu tiên ra đời vào năm 1998; Q Series Drama năm 2016 với tỷ suất người xem chỉ 0.5%, nhưng đã đưa kịch bản Đài Loan thoát khỏi khuôn khổ phim thần tượng và phim nông thôn. 54 năm của ngành truyền hình Đài Loan, từ "độc quyền chính trị-quân sự" đến "cuộc cách mạng dịu dàng", là một lịch sử về việc ai có quyền kể chuyện.
@@ -147,19 +147,23 @@ Nhưng đằng sau sự số hóa là sự trỗi dậy của các nền tảng 
 
 ---
 
-## Ai Có Quyền Kể Chuyện?
+## Ai có quyền kể câu chuyện?
 
-Từ khi TTV lên sóng năm 1962, đến khi Truyền thông công chúng thành lập năm 1998, và rồi Q Series Drama vào năm 2016, 54 năm của ngành truyền hình Đài Loan là một lịch sử về **ai có quyền kể chuyện**.
+Trong 54 năm của ngành truyền hình Đài Loan, từ khi Đài Truyền hình (TVS) bắt đầu phát sóng vào năm 1962, đến khi Đài Truyền hình Công cộng (PTS) thành lập vào năm 1998, và sau đó là Thời kỳ Thị trường Giải trí Trẻ (Zhi Gezhe) vào năm 2016, đây là một lịch sử về **ai có quyền kể câu chuyện**.
 
-Trong thời kỳ Ba Đài Cổ, người kể chuyện là "chính trị-quân sự"; trong thời kỳ Truyền thông công chúng, người kể chuyện là "lợi ích công cộng"; và trong thời kỳ Q Series Drama, người kể chuyện là "những con người bình thường".
+Trong thời kỳ các đài tư nhân cũ ("Lão Tam Đài"), người kể chuyện là "Đảng - Chính trị - Quân sự"; trong thời kỳ PTS, người kể chuyện là "lợi ích công cộng"; và trong Thời kỳ Thị trường Giải trí Trẻ, người kể chuyện là "những con người nhỏ bé".
 
-Vương Tiểu Đệ nói: "Có người phủ nhận bạn, đó là khởi đầu của sự trưởng thành của bạn."[^17]
+Vương Tiểu Đệ nói: "Có người phủ nhận bạn, đó là khởi đầu của sự trưởng thành."[^17]
 
-Cuộc cách mạng dịu dàng này của Q Series Drama vẫn đang tiếp diễn. Năm 2021, Netflix đã đầu tư 1 tỷ Đài tệ vào ngành điện ảnh và truyền hình Đài Loan, nhiều tác phẩm của Q Series Drama đã được quốc tế chú ý. Các diễn viên mới như Hứa Quang Hán, Tôn Khả Phương, Lưu Quan Đình đã trưởng thành từ Q Series Drama và trở thành lực lượng nòng cốt của điện ảnh và truyền hình Đài Loan.
+Cuộc cách mạng nhẹ nhàng mang tên Thị trường Giải trí Trẻ vẫn đang tiếp diễn. Năm 2021, Netflix đã đầu tư 1 tỷ Đài tệ vào ngành công nghiệp điện ảnh và truyền hình Đài Loan, và nhiều tác phẩm của Thời kỳ Thị trường Giải trí Trẻ đã được quốc tế chú ý. Các diễn viên mới như Hứa Quang Hán, Tôn Khả Phương, Lưu Quan Đình đã rời khỏi Thời kỳ Thị trường Giải trí Trẻ để trở thành lực lượng nòng cốt trong làng điện ảnh và truyền hình Đài Loan.
 
-Nếu vào năm 2050 có ai muốn biết ngành truyền hình Đài Loan đã cố gắng gì, thì họ có thể đọc những tệp Markdown này—về một nền tảng không bán quảng cáo, đã cố gắng kể một câu chuyện mà mọi người đều yêu thích.
+Nếu vào năm 2050 có ai muốn biết ngành truyền hình Đài Loan đã cố gắng điều gì, thì những tài liệu Markdown này có lẽ chính là thứ họ sẽ đọc — về một nền tảng không bán quảng cáo đã cố gắng kể một câu chuyện mà mọi người đều yêu thích như thế nào.
 
 ---
+
+**Đọc thêm**:
+
+- [Giải thưởng Kim Chung](/culture/金鐘獎) — Trong 17 năm độc quyền của các đài tư nhân cũ, sự xuất hiện của PTS và truyền hình cáp, cùng với việc Netflix tham gia, là một ghi chép khác trong lịch sử ngành này.
 
 ## Tài liệu Tham khảo
 
