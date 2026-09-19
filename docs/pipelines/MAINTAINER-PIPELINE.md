@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.11'
+current_version: 'v2.12'
 last_updated: 2026-09-19
-last_session: '2026-09-19-084102-twmd-maintainer-am（Step 3.0 動手前先認領：跨機器平行偵測的第三層）'
+last_session: '2026-09-19 分岔合併（哲宇 directive：分岔修復是 maintainer 職責 → Step 1.1b + merge-divergence.py）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -275,24 +275,25 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                                             | 觸發 stage  | 條件                                                     | 工具                                                                                                   | 不過 = ?                     |
-| ------------------------------------------------ | ----------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                 | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                    |
-| **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事         |
-| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                  | manual diff scan                                                                                       | close + reason               |
-| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記    | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流  |
-| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR） | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct |
-| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                | 紅旗 + CI + close-hard-gate decision matrix                                                            | per-tier action              |
-| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                            | 「我接手 X min 內可以修嗎」self-check                                                                  | 改 polish 不 close           |
-| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                 | `gh pr merge` 先於 heal；禁 close-as-ship                                                              | 改 merge + heal / leave open |
-| **CI armed 確認** ⭐ v2.7                        | Stage 1.5b  | 每個 open PR，每次新 push 後                             | `bash scripts/tools/pr-ci-armed.sh`                                                                    | UNARMED → 核准後才進 Stage 3 |
-| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                               | 抽樣 ≥ 3 footnote URL WebFetch                                                                         | request changes              |
-| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                         | `.husky/pre-commit`                                                                                    | 不 commit                    |
-| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                          | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal       |
-| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                   | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                |
-| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                               | manual checklist 7 條                                                                                  | 不算完成 cycle               |
-| **Issue 有修或有判斷** ⭐ v2.7                   | Stage 3.6   | 有 fresh issue 的 cycle                                  | commit hash 或 memory 裡的不修理由                                                                     | cycle 無產出                 |
-| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                               | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複       |
+| Gate                                             | 觸發 stage  | 條件                                                            | 工具                                                                                                   | 不過 = ?                     |
+| ------------------------------------------------ | ----------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                        | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                    |
+| **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                       | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事         |
+| **分岔當班修** ⭐ v2.12                          | Stage 1.1b  | `git rev-list --left-right --count main...origin/main` 兩邊 > 0 | `scripts/tools/merge-divergence.py` + §Step 1.1b 12 步                                                 | 分岔活過一天、衝突面每天長   |
+| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                         | manual diff scan                                                                                       | close + reason               |
+| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記           | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流  |
+| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR）        | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct |
+| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                       | 紅旗 + CI + close-hard-gate decision matrix                                                            | per-tier action              |
+| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                                   | 「我接手 X min 內可以修嗎」self-check                                                                  | 改 polish 不 close           |
+| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                        | `gh pr merge` 先於 heal；禁 close-as-ship                                                              | 改 merge + heal / leave open |
+| **CI armed 確認** ⭐ v2.7                        | Stage 1.5b  | 每個 open PR，每次新 push 後                                    | `bash scripts/tools/pr-ci-armed.sh`                                                                    | UNARMED → 核准後才進 Stage 3 |
+| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                                      | 抽樣 ≥ 3 footnote URL WebFetch                                                                         | request changes              |
+| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                                | `.husky/pre-commit`                                                                                    | 不 commit                    |
+| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                                 | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal       |
+| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                          | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                |
+| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                                      | manual checklist 7 條                                                                                  | 不算完成 cycle               |
+| **Issue 有修或有判斷** ⭐ v2.7                   | Stage 3.6   | 有 fresh issue 的 cycle                                         | commit hash 或 memory 裡的不修理由                                                                     | cycle 無產出                 |
+| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                                      | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複       |
 
 ---
 
@@ -300,6 +301,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 > 從 LESSONS-INBOX / memory 抽 ship-then-retract / friction 高的 step。Cycle 開始前主動掃一次。
 
+0. **§Step 1.1b 分岔當班修** ⭐ v2.12 — 本機與 origin 兩邊都領先 = 本班的第一件事，不留 handoff、不進佇列、不開救援分支（2026-09-19 哲宇 directive）
 1. **§1c Issue 要修不是要分類** ⭐ — cycle 結束時 issue 只是被分類得更整齊 = 這個 cycle 沒有產出（2026-08-11 哲宇校正）
 2. **§1b Git merge 優先** ⭐ — 收 PR = `gh pr merge` 先；**禁** content 進 main 後 `gh pr close`（2026-07-23 哲宇校正）
 3. **§1b P1 格式債直接 push 到對方分支** ⭐ v2.8 — `maintainerCanModify` 時不寫「請你自己修」等對方；診斷用 `contributor-pr-heal.py --from-pr N` 帶進 main 樹跑，**禁 checkout PR 分支**；draft 先分 ready / draft 再報數（2026-08-18）
@@ -377,8 +379,44 @@ git status  # confirm clean
 
 **失敗處置**：
 
-- 撞 conflict → abort cycle + LESSONS entry（不要在 routine 內做手動 conflict resolve）
+- 撞 conflict 且是**真分岔**（本機與 origin 各自領先）→ **不 abort，走 §Step 1.1b 當班修好**（2026-09-19 哲宇 directive；v2.12 前這裡寫「abort cycle + LESSONS entry」，那條規矩讓 09-09 起的分岔在交接之間被準確傳遞了十天而沒人動手）
 - main repo dirty artifacts → stash + pull + `git checkout HEAD -- <generated-file>`（per refresh-pm cycle SOP）
+
+### Step 1.1b: 分岔修復是 maintainer 的職責（v2.12，2026-09-19 哲宇 directive）
+
+> 誕生：2026-09-09 營運機（musebase）的 babel 與 routine 產出開始只到本地，origin 同時收投稿 PR 與另一台機器的翻譯。分岔十天，衝突面 172 → 770 → 843 檔；這件事在 OBSERVER-QUEUE 兩側各登記一次（本機 #56、origin #68）、在每一條 routine 的 handoff 之間被準確地傳遞，沒有任何一班動手——因為當時的規矩是「>50 檔 = 🔒紅線，等哲宇」。09-19 哲宇 in-session 拍板 #68 選 B 並下 directive：**「if this divergence happened again, you have to fix it, this is your duty」**。從此分岔修復不再是待決事項，是 maintainer 每班的 Stage 1 職責，>50 檔紅線對這件事不適用。
+
+**偵測**（每班必跑，`check-parallel-actor.sh` 甦醒時已印一次）：
+
+```bash
+git fetch -q origin && git rev-list --left-right --count main...origin/main   # "A B"：A=本機領先 B=origin 領先
+```
+
+- `0 B`：純落後，`git pull --ff-only`，不是分岔
+- `A 0`：純領先，push（pre-push 會自己 rebase）
+- `A B` 兩邊都 > 0：**真分岔，本班修，不留 handoff、不進 OBSERVER-QUEUE**
+
+**修法 = 策略 B（origin 版優先），照下面順序跑；機械步驟由 [`scripts/tools/merge-divergence.py`](../../scripts/tools/merge-divergence.py) 做，判斷步驟自己做**：
+
+1. **凍結寫入者**：`launchctl remove com.taiwanmd.babel.nightly` + kill dispatcher（launchd keepalive 只 kill 會重生，09-18 教訓）。工作樹裡未 commit 的譯文先整份 cp 到 scratch 保存，等合併完再打撈（三閘全過才 commit）。
+2. **隔離**：`git worktree add --detach <scratch> main`，在裡面 `git merge --no-commit --no-ff origin/main`，記下合併前的 `origin/main` sha（下面的 `--base`）。**不在主工作樹上解衝突**。
+3. **機械解衝突**：`merge-divergence.py resolve --apply` — 譯文與衍生檔取 origin、`reports/babel` 三個狀態 JSON 取聯集、列出留給人的檔。
+4. **判斷解衝突**（留給人的那批）：
+   - `docs/semiont/{MEMORY,DIARY,LESSONS-INBOX,REFLEXES}.md`：兩邊全留（索引列取聯集，frontmatter 取較晚那邊、版本號取大再 +1）。
+   - `docs/semiont/OBSERVER-QUEUE.md`：兩邊各自往下編號會撞號——origin 的表為底，本機獨有的條目改編到 origin 最大號之後，改編對照寫進 frontmatter last_session；同一件事兩邊都有的（如本次 #56＝#68）只留 origin 那條。
+   - `scripts/`：兩邊各自長出的功能都留（本次 babel-dispatch 同時保留本機的 origin 去重清單與 origin 的 max_zh_bytes）；同一個修法兩邊各寫一次的取 origin 版、把本機那版的證據併進註解。`python3 -m py_compile` 每一檔。
+5. **去重**：`merge-divergence.py dedupe --base <sha> --apply` — 同語言同源雙檔留 origin 那份（本次 1,008 + 10 篇）。origin 既有的雙檔（en 六組）不動，留 handoff。
+6. **驗留下來的本機譯文**：`merge-divergence.py verify --base <sha> --apply` — target-language-check 判不是目標語言的直接丟（本次 1 篇 de 是英文）；接著 `article-health --profile=ci-deploy` 掃全部本機帶進來的檔，hard>0 的修（本次 4 篇 ja 是 prettier 弄壞斜體圖說裡的底線網址，連結移出斜體、出處補 §Image sources）。
+7. **檔名對齊**：`merge-divergence.py align --base <sha> --apply` — 本機譯文改到 en 檔名；en 是本機側新翻而其他語言早用另一個檔名上線的，反過來改 en；**印出 LIVE 的改名一律補 `config/redirects-manual.txt` 301** 再 `node scripts/core/generate-redirects.mjs`。
+8. **重整登記**：`python3 scripts/tools/sync-translations-json.py && python3 scripts/tools/lang-sync/status.py`，`check-slug-consistency.py --all` 只該剩既有雙檔家族，`uv run --with pytest --with pyyaml python -m pytest tests -q` 全綠。
+9. **commit 合併**（訊息寫策略、數字、丟了什麼、改了什麼，人話）→ `git push origin HEAD:main` → 主工作樹 `git merge --ff-only origin/main`。
+10. **打撈**第 1 步保存的未 commit 譯文：origin 現在已有同源檔的丟，其餘跑三閘 + `check-slug-consistency.py --files` 再 commit。
+11. **重掛 dispatcher**：`launchctl submit -l com.taiwanmd.babel.nightly -o /tmp/babel-launchd.out -e /tmp/babel-launchd.err -- /bin/bash <repo>/scripts/tools/lang-sync/babel-launch-wrapper.sh`。
+12. memory 記：分岔天數、衝突檔數、丟了幾篇、留了幾篇、改名幾篇、LIVE 301 幾條。
+
+**預防**：分岔的根因是本機 push 被拒後 routine 選擇「推到救援分支等真人」。maintainer 每班 Stage 1 看到 `A B` 就修，分岔不會活過一天，衝突面也不會長到需要判斷的規模（09-09 當天只有幾十檔）。**不要**再開救援分支代替合併——救援分支是止血，不是治療。
+
+**邊界**：本步只處理 git 層的分岔。哪一側譯文品質較好不逐篇判（那是策略 C，被拍板否決）；en 既有雙檔、投稿者譯文被 babel 覆蓋（#67）仍走各自的佇列。
 
 ### Step 1.2: gh issue list
 
@@ -1496,6 +1534,8 @@ Branch protection：需 1 approval，`enforce_admins: false`。目前策略：�
 
 ---
 
+_v2.12 | 2026-09-19 分岔合併 session（哲宇 in-session）— **Step 1.1b 分岔修復是 maintainer 的職責**：09-09 起營運機分岔十天、843 檔衝突，在兩側佇列與每條 handoff 之間被準確傳遞而無人動手，因為規矩寫「>50 檔等哲宇」。哲宇拍板 #68 選 B 並 directive「分岔再發生你要自己修，這是你的職責」。本版把當天手工做完的合併寫成 12 步 SOP，機械步驟收進 `scripts/tools/merge-divergence.py`（resolve／dedupe／verify／align，五個 pytest），Step 1.1 的「撞 conflict → abort」改成「真分岔 → 當班修」。同班數字：捨去本機 1,019 篇跟 origin 撞檔名的譯文、留 1,205 篇 origin 沒有的、改名 389 篇對齊 en、6 條 LIVE 301。_
+
 _v2.11 | 2026-09-19 twmd-maintainer-am — **Step 3.0 動手前先認領**：09-18 兩台機器各自讀到同一條交接、各自把 #1746 修完，push 被拒才看見對方；本機的平行偵測與 Step 2.4 都看不到另一台機器上正在進行的 session，因為對方的留言是修完才留的。修法是把認領落在兩台共看的 GitHub 上、落在動手之前：`gh issue/pr edit N --add-assignee @me`，已有他人 assignee 就跳過。Hard Gate Inventory 與 Top-N 同步。LESSONS `handoff-addressed-to-a-routine-name-lands-on-two-machines` 修補候選 (a) 落地；(b) handoff 第四態未動。_
 
 _v2.10 | 2026-09-05 fortnight-review — **三條投稿判例補進 canonical**（哲宇 fortnight-review session 對 OBSERVER-QUEUE #30／#32／#33 拍板）：(1) §人物文章知名度門檻 補「自媒體時代表演者」判例——主流媒體報導排除平台目錄頁／自營頻道／表演者身分上節目三種型態，維基條目存否改直接打 API 查、不用腳註網域推，源自 KENJI／黑貓老師／Cheap／蔡黑皮／三度C 五案；(2) §Step 3.7 三級判斷表後補第五路徑「已查證成品被整篇覆寫 → EVOLVE 接住＋Co-authored」，判準看 `lastHumanReview`／`researchReport`／`sporeLinks` 三欄位，源自陳士駿／台灣便利商店文化／台灣高鐵三案；(3) §外向留言分層 補「投稿者以 Taiwan.md 第一人稱寫自述文」判例——About/ 只收 Taiwan.md 或哲宇本人第一人稱，投稿者觀察即使內容正確也不進 About/，源自 PR #1407／#1411。三案後續工作（EVOLVE 接住／exams feature）同時登記進 [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)。_
@@ -1527,6 +1567,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.12**（2026-09-19 分岔合併）— Step 1.1b 分岔當班修（策略 B 12 步 + `merge-divergence.py`），「撞 conflict → abort」廢止
 - **v2.11**（2026-09-19 twmd-maintainer-am）— Step 3.0 動手前先認領（`--add-assignee @me`），跨機器平行偵測的第三層
 - **v2.10**（2026-09-05 fortnight-review）— 三條投稿判例：人物知名度門檻自媒體變體明文化／覆寫既有查證文第五路徑 EVOLVE 接住／About 第一人稱自述文收錄邊界
 - **v2.9**（2026-08-19 合併）— 早班 routine 與 8/18 manual session 同日獨立寫同兩段，取聯集：儀器化 Step 1.5b ＋ Draft PR 處置 ＋ §1c 還原

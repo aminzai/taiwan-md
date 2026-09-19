@@ -31,6 +31,8 @@ allowed-tools:
 
 ## Stage 1: SCAN — 開放工作面（必跑完才能進 Stage 2）
 
+**🚨 分岔當班修（2026-09-19 哲宇 directive：「if this divergence happened again, you have to fix it, this is your duty」）**：`git fetch -q origin && git rev-list --left-right --count main...origin/main` 印出兩個數字都 > 0 = 本機與 origin 真分岔。**這是本班的第一件事**，不留 handoff、不進 OBSERVER-QUEUE、不開救援分支、不套「>50 檔等哲宇」。修法固定是策略 B（origin 版優先），12 步在 [MAINTAINER-PIPELINE §Step 1.1b](../../../docs/pipelines/MAINTAINER-PIPELINE.md)，機械步驟跑 `python3 scripts/tools/merge-divergence.py {resolve,dedupe,verify,align} --base <合併前 origin sha> --apply`。先 `launchctl remove com.taiwanmd.babel.nightly` 凍結寫入者，合併完再重掛。09-09 起分岔十天沒人動手的代價：843 檔衝突、捨去 1,019 篇重複譯文、改名 389 篇。
+
 ```bash
 git pull origin main
 gh issue list --state open --limit 30 --json number,title,labels,updatedAt
@@ -97,6 +99,7 @@ bash scripts/tools/routine-status.sh
 | BECOME ACK 一行記憶體頂                                               | ✅/❌ |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry                                   | ✅/❌ |
 | **有 fresh issue 的 cycle，至少一件被修掉或明確寫出為什麼不修**       | ✅/❌ |
+| **本機與 origin 無真分岔（兩邊領先數不同時 > 0）**                    | ✅/❌ |
 
 **Handoff 三態**（必寫 memory file）：
 

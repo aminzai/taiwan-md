@@ -17,6 +17,10 @@ description: TWMD maintainer (am @ 08:30) — daytime contributor PR review (v4.
 
 跑 `/twmd-maintainer`（Skill 工具會把 [SKILL.md](/Users/cheyuwu/Projects/taiwan-md/.claude/skills/twmd-maintainer/SKILL.md) 全文載入 context——跟上面 `/twmd-become` 同一種機制）。SCAN → TRIAGE → ACT → WRAP 四階段、quality gate 7 條、報告格式，全部在該 skill，**本殼不複寫**。
 
+## 🚨 分岔當班修（2026-09-19 哲宇 directive，inline 不 pointer）
+
+Stage 1 第一件事：`git fetch -q origin && git rev-list --left-right --count main...origin/main`。兩個數字都 > 0 = 本機與 origin 真分岔，**本班修好**：不留 handoff、不進 OBSERVER-QUEUE、不開救援分支、不套「>50 檔等哲宇」——哲宇原話「if this divergence happened again, you have to fix it, this is your duty」。修法固定策略 B（origin 版優先），12 步在 MAINTAINER-PIPELINE §Step 1.1b，機械步驟 `python3 scripts/tools/merge-divergence.py {resolve,dedupe,verify,align} --base <合併前 origin sha> --apply`。動手前 `launchctl remove com.taiwanmd.babel.nightly` 凍結 babel，合併推上後照 wrapper 檔頭重掛。
+
 ## 🚨 空場鐵律（2026-05-28 新增，cron 最會用「healthy empty」自我合理化，故 inline）
 
 連續 ≥ 3 cycle empty queue → **必須**寫 LESSONS-INBOX entry「maintainer-am schedule 撞期 morning chain」+ escalate observer。Morning chain 已清完可動 backlog 時，vc=N 空場是 schedule mismatch 不是 organism healthy，不准自我合理化。
