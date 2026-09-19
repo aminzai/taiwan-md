@@ -1,288 +1,291 @@
 ---
-title: 'Đài Loan, Thương mại ngoài quốc và chuỗi cung ứng toàn cầu'
-description: 'Từ kinh tế hướng ra ngoài đến nút giao thương trọng yếu: Đài Loan duy trì ưu thế cạnh tranh trong cuộc đối đầu Mỹ–Trung'
+title: 'Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu'
+description: 'Từ định hướng xuất khẩu đến nút then chốt của chuỗi cung ứng: Làm thế nào Đài Loan duy trì lợi thế thương mại trong sự đối đầu giữa Mỹ và Trung'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'thương mại',
-    'chuỗi cung ứng toàn cầu',
-    'kinh tế hướng ra ngoài',
-    'chiến tranh thương mại Mỹ–Trung',
+    'Ngoại thương',
+    'Chuỗi cung ứng toàn cầu',
+    'Định hướng xuất khẩu',
+    'Chiến tranh thương mại Mỹ-Trung',
     'ECFA',
-    'thỏa thuận thương mại quốc tế',
-    'bán dẫn',
+    'Hiệp định thương mại quốc tế',
+    'Bán dẫn thể',
   ]
 subcategory: '經濟發展'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:9913b1fbaa8895dd'
-sourceBodyHash: 'sha256:ec73a2d32ea085c0'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '2e88c5e31'
+sourceContentHash: 'sha256:35c0f36d5edfc140'
+translatedAt: '2026-09-19T20:22:20.442025+00:00'
 ---
 
-# Đài Loan, Thương mại ngoài quốc và chuỗi cung ứng toàn cầu
+# Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu
 
-Cảng Đài Bắc, những bến bãi chứa container của nó mỗi ngày xử lý hàng ngàn container chuẩn khác, vận chuyển đi khắp nơi trên thế giới. Những chiếc hộp sắt tưởng chừng bình thường này chứa chấp bí mật của kỳ tích kinh tế Đài Loan — từ quần áo may sẵn và đồ chơi plastic thời những năm 1960, đến chip bán dẫn ngày nay, Đài Loan nhờ thương mại xuất khẩu chiếm giữ một vị trí then chốt trên sân khấu quốc tế. Dù diện tích đất đai chỉ 3,6 vạn km², theo tính toán giá trị xuất khẩu năm 2023, Đài Loan xếp hạng thứ 16 trong số những nền kinh tế xuất khẩu lớn nhất thế giới[^2], và nắm giữ vị trí không thể thay thế được trong những lĩnh vực then chốt như bán dẫn, sản phẩm thông tin truyền thông.
+Cảng container Đài Bắc mỗi ngày có hàng nghìn container tiêu chuẩn được dỡ tải tại đây, vận chuyển đến khắp nơi trên thế giới. Trong những chiếc thùng sắt trông bình thường này, chứa đựng bí mật của kỳ tích kinh tế Đài Loan — từ quần áo và đồ chơi những năm 1960, đến vi mạch bán dẫn ngày nay, Đài Loan nhờ thương mại xuất khẩu chiếm vị trí then chốt trên sân khấu quốc tế. Dù diện tích lãnh thổ chỉ 36.000 km², tính theo giá trị xuất khẩu năm 2023, Đài Loan xếp hạng thứ 16 thế giới về quy mô kinh tế xuất khẩu[^2], hơn nữa trong các lĩnh vực then chốt như bán dẫn, sản phẩm công nghệ thông tin và truyền thông thì nắm giữ vị thế không thể thay thế.
 
-> Năm 2023, tổng lượng thương mại ngoài quốc của Đài Loan đạt 869,54 tỷ đôla Mỹ (xuất khẩu 475,07 tỷ đôla, nhập khẩu 394,47 tỷ đôla)[^1], độ phụ thuộc nhập xuất khẩu cao tới 100%, là nền kinh tế điển hình định hướng thương mại. Trong đó, khối lượng giao dịch với Trung Quốc (bao gồm Hồng Kông) chiếm 35% tổng khối lượng giao dịch, khối lượng giao dịch với Hoa Kỳ chiếm 15%, nổi bật vị trí vi tế của Đài Loan trong mối quan hệ tam giác Mỹ–Trung.
+> Năm 2024, tổng giá trị thương mại đối ngoại của Đài Loan đạt 8.694 tỷ USD (xuất khẩu 4.750 tỷ USD, nhập khẩu 3.944 tỷ USD, cùng tạo kỷ lục lịch sử)[^1], tổng giá trị xuất nhập khẩu xấp xỉ quy mô GDP, là kinh tế thể hướng về thương mại điển hình. Trong đó, xuất khẩu sang Trung Quốc (kể cả Hồng Kông) chiếm 31,7% tổng xuất khẩu, xuất khẩu sang Mỹ chiếm 23,5% và lần đầu vượt mốc 1.000 tỷ USD[^1], làm nổi bật vị trí tinh vi của Đài Loan trong quan hệ tam giác Mỹ-Trung.
 
-## Tại sao điều này lại quan trọng
+## Vì sao vấn đề này quan trọng
 
-Thương mại ngoài quốc của Đài Loan là chiến lược sinh tồn. Trên một hòn đảo thiếu tài nguyên thiên nhiên, Đài Loan phải thông qua thương mại để lấy được hàng hoá dân sinh thiết yếu và năng lượng, đồng thời xuất khẩu những sản phẩm chuyên sâu công nghệ nhằm tạo dựng của cải. Khi chuỗi cung ứng toàn cầu do địa chính trị mà tái tổ chức, vị trí chiến lược của Đài Loan càng trở nên rõ ràng — vừa là tiền đồn công nghệ của Hoa Kỳ để vây chặn Trung Quốc, đồng thời cũng là nhà cung cấp công nghệ không thể thiếu của Trung Quốc. Cách duy trì cân bằng trong mối quan hệ tam giác này liên quan trực tiếp đến sinh kế của 2,3 tỷ người.
+Ngoại thương của Đài Loan là chiến lược sinh tồn. Trên đảo thiếu tài nguyên thiên nhiên, Đài Loan phải thông qua thương mại để có được nhu yếu phẩm dân sinh và năng lượng, đồng thời xuất khẩu sản phẩm công nghệ cao tạo ra của cải. Khi chuỗi cung ứng toàn cầu bị tổ chức lại do địa chính trị, vị thế chiến lược của Đài Loan càng thêm rõ nét — vừa là trạm tiền phong công nghệ của Mỹ trong việc vây hãm Trung Quốc, vừa là nhà cung cấp công nghệ không thể thiếu của Trung Quốc. Làm sao duy trì cân bằng trong quan hệ tam giác này, quyết định sinh kế của 23 triệu người.
 
-## Hình thành kinh tế hướng ra ngoài
+## Hình thành kinh tế hướng xuất khẩu
 
-### 1960–1980: Chiến lược thay thế xuất khẩu
+### 1960-1980: Chiến lược hướng xuất khẩu
 
 **Hạn chế của chiến lược thay thế nhập khẩu:**
-Những năm 1950, Đài Loan áp dụng chính sách thay thế nhập khẩu, bảo vệ phát triển công nghiệp trong nước. Nhưng thị trường nội địa hẹp, rất nhanh chóng gặp phải vấn đề tắc nghẽn phát triển.
+Thập niên 1950 Đài Loan áp dụng chính sách thay thế nhập khẩu, bảo vệ phát triển công nghiệp nội địa. Nhưng thị trường nội nhu hẹp, nhanh chóng gặp ngõ cụt phát triển.
 
-**Chuyển hướng sang kinh tế hướng ra ngoài:**
-Từ những năm 1960, bắt đầu thúc đẩy công nghiệp hóa hướng ra ngoài:
+**Chuyển đổi hướng xuất khẩu:**
+Thập niên 1960 bắt đầu thúc đẩy công nghiệp hóa hướng xuất khẩu:
 
-Chính phủ thiết lập các khu chế xuất, thu hút vốn nước ngoài đặt nhà máy, đồng thời cung cấp ưu đãi thuế và lao động giá rẻ nhằm thu hút đơn hàng. Cùng lúc đó, thành lập các cơ quan xúc tiến thương mại (Hiệp hội Phát triển Thương mại Ngoài quốc Trung Hoa Dân Quốc), kết hợp với chiến lược khiếm giá tiền tệ để nâng cao sức cạnh tranh xuất khẩu.
+Chính phủ thiết lập các khu chế xuất, thu hút vốn đầu tư nước ngoài thiết lập nhà máy, và cung cấp ưu đãi thuế cùng lao động giá rẻ để thu hút đơn hàng. Đồng thời thành lập cơ quan thúc đẩy thương mại (Hiệp hội Phát triển Thương mại Trung Hoa Dân Quốc (Đài Loan)), kết hợp chiến lược khử giá tiền tệ để nâng cao khả năng cạnh tranh xuất khẩu.
 
-**Ba ngành công nghiệp xuất khẩu chính:**
+**Ba động lực xuất khẩu chính:**
 
-1. **Dệt may:** Tận dụng nguồn lực lao động phong phú và nền tảng kỹ thuật
-2. **Lắp ráp điện tử:** Nhận lấy đơn hàng đóng thầu từ các nhà sản xuất Châu Âu và Mỹ
-3. **Đồ chơi plastic:** Sản phẩm lao động chuyên sâu công nghệ thấp
+1. **Dệt may thành phẩm:** Tận dụng nguồn lao động dồi dào và cơ sở kỹ thuật
+2. **Lắp ráp điện tử:** Chấp nhận đơn hàng gia công từ các hãng Âu-Mỹ
+3. **Đồ chơi nhựa:** Sản phẩm tập trung lao động, ngưỡng công nghệ thấp
 
-**Thương mại tăng trưởng nhanh chóng:** Năm 1960, khối lượng xuất khẩu chỉ 164 triệu đôla Mỹ, đến năm 1980 đã đạt 19,9 tỷ đôla Mỹ, trong 20 năm tăng 121 lần; độ phụ thuộc xuất khẩu cùng kỳ từ 11% tăng lên 52%, đánh dấu Đài Loan hoàn thành chuyển hướng sang kinh tế hướng ra ngoài.
+**Tăng trưởng nhanh chóng của thương mại:** Năm 1960 kim ngạch xuất khẩu mới 1,64 tỷ USD, năm 1980 đã đạt 19,9 tỷ USD, tăng 121 lần trong 20 năm; hệ số phụ thuộc xuất khẩu cùng kỳ từ 11% lên 52%, đánh dấu Đài Loan hoàn tất chuyển đổi hướng xuất khẩu.
 
-### 1980–2000: Nâng cấp và chuyển đổi ngành công nghiệp
+### 1980-2000: Chuyển đổi nâng cấp công nghiệp
 
-Đối mặt với cuộc cạnh tranh chi phí thấp từ Hàn Quốc và Đông Nam Á, Đài Loan bị buộc phải nâng cấp sang những ngành công nghiệp chuyên sâu công nghệ:
+Đối mặt với cạnh tranh chi phí thấp từ Hàn Quốc và Đông Nam Á, Đài Loan buộc phải nâng cấp sang các ngành công nghiệp tập trung công nghệ:
 
-**Ngành công nghiệp công nghệ nổi lên:**
+**Sự trỗi dậy của ngành công nghệ:**
 
-Năm 1980, Công viên Khoa học Tân Trúc được thành lập, thúc đẩy công nghiệp bán dẫn và công nghiệp thông tin đặt chân tới Đài Loan, hình thành các cụm lao động nghiên cứu và sản xuất, đồng thời đào tạo nhân lực công nghệ nội địa, thiết lập toàn bộ hiệu ứng tập hợp ngành công nghiệp.
+Năm 1980 Khu Khoa học Tân Trúc được thành lập, thúc đẩy ngành bán dẫn và công nghệ thông tin đặt chân tại Đài Loan, hình thành các cụm nghiên cứu phát triển – sản xuất, đồng thời đào tạo nhân tài công nghệ bản địa, thiết lập hiệu ứng tập trung ngành công nghiệp hoàn chỉnh.
 
-**Mô hình sản xuất đóng thầu:**
-Các doanh nghiệp Đài Loan phát triển một mô hình ODM/OEM độc đáo: OEM cung cấp dịch vụ sản xuất đóng thầu thuần tuý; ODM tích hợp thiết kế và sản xuất, tạo ra sản phẩm theo yêu cầu riêng cho các thương hiệu quốc tế, hình thành một hệ sinh thái đóng thầu toàn diện.
+**Mô hình sản xuất thuê (OEM/ODM):**
+Các doanh nghiệp Đài Loan phát triển mô hình ODM/OEM độc đáo: OEM cung cấp dịch vụ sản xuất thuê thuần túy; ODM thì tích hợp thiết kế và sản xuất, chế tác sản phẩm theo yêu cầu cho các thương hiệu quốc tế, hình thành hệ sinh thái sản xuất chuỗi kín.
 
-**Cấu trúc xuất khẩu thay đổi:** Trọng lượng của dệt may truyền thống, đồ chơi giảm, sản phẩm thông tin điện tử thay thế và trở thành sức mạnh xuất khẩu chính, độ chuyên sâu công nghệ tăng đáng kể.
+**Thay đổi cấu trúc xuất khẩu:** Tỷ trọng dệt may, đồ chơi truyền thống giảm xuống, sản phẩm điện tử tin học thay thế trở thành động lực xuất khẩu chính, cường độ công nghệ tăng đáng kể.
 
-### 2000–Hiện nay: Tích hợp chuỗi cung ứng toàn cầu
+### 2000-nay: Tích hợp chuỗi cung ứng toàn cầu
 
-**Làn sóng đầu tư của nhà đầu tư Đài Loan sang Trung Quốc:**
-Sau năm 2000, các nhà đầu tư Đài Loan đổ xô sang Tây, tận dụng lao động chi phí thấp và đất đai của Trung Quốc để phục vụ các thương hiệu Châu Âu và Mỹ ngay từ đó, hình thành mô hình "Đài Loan nhận đơn hàng, Trung Quốc sản xuất" đặc biệt, thúc đẩy thương mại hai bờ eo biển tăng trưởng nhanh chóng.
+**Làn sóng đầu tư vào Trung Quốc:**
+Sau năm 2000, các thương nhân Đài Loan tiến quân về phía tây mạnh mẽ, tận dụng lao động và đất đai chi phí thấp của Trung Quốc để phục vụ gần gũi các hãng thương hiệu Âu-Mỹ, hình thành mô hình đặc trưng "Đài Loan tiếp đơn, Trung Quốc sản xuất", thúc đẩy thương mại hai bờ tăng trưởng nhanh chóng.
 
 **Mô hình thương mại tam giác:**
-Đài Loan, Trung Quốc, Châu Âu và Mỹ hình thành mối quan hệ thương mại ba chiều chặt chẽ:
+Đài Loan, Trung Quốc, Âu-Mỹ hình thành mối quan hệ thương mại tam giác chặt chẽ:
 
-1. **Đài Loan:** Nghiên cứu phát triển công nghệ, sản xuất linh kiện then chốt, trung tâm thương mại
-2. **Trung Quốc:** Lắp ráp hoàn thiện, cơ sở sản xuất chi phí thấp
-3. **Châu Âu và Mỹ:** Kinh doanh thương hiệu, tiêu thụ thị trường cuối cùng
+1. **Đài Loan**: Nghiên cứu phát triển công nghệ, sản xuất linh kiện then chốt, trung tâm thương mại
+2. **Trung Quốc**: Sản xuất lắp ráp cuối cùng, cơ sở sản xuất chi phí thấp
+3. **Âu-Mỹ**: Tiếp thị thương hiệu, tiêu dùng thị trường cuối
 
 ## Vai trò của Đài Loan trong chuỗi cung ứng toàn cầu
 
 ### Vương quốc bán dẫn
 
 **Hiệu ứng TSMC:**
-TSMC (Taiwan Semiconductor Manufacturing Company) đã trở thành nhà lãnh đạo đúc khuôn wafer toàn cầu, chiếm giữ thị phần trên 50%:
+TSMC (Taiwan Semiconductor Manufacturing Company) đã trở thành龍頭 (dragon head - dẫn đầu) toàn cầu trong lĩnh vực sản xuất thuê tấm wafer (foundry), với thị phần vượt quá 50%:
 
-- Kiểm soát công nghệ sản xuất tiên tiến nhất (3 nanomet, 2 nanomet)
-- Nhà cung cấp duy nhất cho các nhà sản xuất lớn như Apple, NVIDIA, AMD
-- Thúc đẩy phát triển chuỗi cung ứng thượng và hạ lưu
+- Nắm giữ công nghệ quy trình tiên tiến nhất (3 nm, 2 nm)
+- Là nhà cung cấp chính cho các dòng chip quy trình tiên tiến của Apple, NVIDIA, AMD
+- Đẩy mạnh phát triển chuỗi cung ứng thượng - hạ du
 
 **Hệ sinh thái bán dẫn hoàn chỉnh:**
 
-Ở phía thiết kế IC có các công ty thiết kế như MediaTek, Realtek, Novatek; phía đúc khuôn wafer được TSMC, UMC, VTSMC chi phối; lĩnh vực đóng gói kiểm thử do ASE, SPIL, ChipMOS nắm giữ; các nhà sản xuất thiết bị vật liệu như Siliconware, ChipMOS, GlobalWafers hình thành sự hỗ trợ thượng lưu hoàn chỉnh.
+Phía thiết kế IC có MediaTek, Realtek, Novatek và các công ty thiết kế khác; sản xuất thuê tấm wafer do TSMC, UMC (United Microelectronics), VIS (Vanguard International Semiconductor) dẫn dắt; lĩnh vực đóng gói và kiểm thử (OSAT) do ASE, SPIL, PTI nắm giữ; còn HannStar, Macronix, GlobalWafers và các nhà cung cấp thiết bị - vật liệu khác cấu thành đệm hỗ trợ thượng du hoàn chỉnh.
 
 **Tầm quan trọng chiến lược:**
-Bán dẫn là nền tảng của công nghệ hiện đại, Đài Loan kiểm soát toàn cầu:
+Bán dẫn là đáy nền của công nghệ hiện đại, Đài Loan nắm kiểm soát toàn cầu:
 
-- Đúc khuôn wafer: Dẫn đầu là TSMC, toàn bộ Đài Loan dự kiến chiếm thị phần trên 70% (2023–2024, riêng TSMC một công ty đạt 55–67%)[^3]
-- Sản lực công nghệ tiên tiến vượt quá 90%
-- Sản lực đóng gói kiểm thử trên 50%
+- Sản xuất thuê tấm wafer: Dưới sự dẫn dắt của TSMC, thị phần tổng thể của Đài Loan ước tính vượt quá 70% (năm 2023-2024, chỉ riêng TSMC đã đạt 55-67%)[^3]
+- Sản năng quy trình tiên tiến vượt quá 90%
+- Sản năng đóng gói - kiểm thử trên 50%
 
-### Chuỗi sản phẩm thông tin truyền thông
+### Chuỗi cung ứng công nghệ thông tin - truyền thông
 
 **Vương quốc sản xuất máy tính xách tay:**
-Các thương hiệu Đài Loan và nhà sản xuất đóng thầu Đài Loan tính chung chiếm khoảng 85–90% dụng cụ sản xuất máy tính xách tay toàn cầu (bao gồm nhà sản xuất đóng thầu Đài Loan ở Trung Quốc đại lục, dữ liệu 2024), tỷ lệ sản xuất trực tiếp trên đảo Đài Loan đã giảm đáng kể[^4]:
+Thương hiệu Đài Loan cùng các nhà máy của thương nhân Đài Loan tại hải ngoại hợp lại chiếm khoảng 85-90% sản xuất thuê máy tính xách tay toàn cầu (bao gồm cả các nhà máy của thương nhân Đài Loan tại Trung Quốc đại lục, dữ liệu 2024), tỷ lệ sản xuất trực tiếp tại đảo chính Đài Loan đã giảm mạnh[^4]:
 
-- **Quanta Services:** Nhà sản xuất đóng thầu chính của Apple MacBook
-- **Compal Electronics:** Đóng thầu máy tính xách tay Lenovo, Dell
-- **Pegatron:** Sản xuất máy tính xách tay Asus, Sony
+- **Quanta (廣達)**: Nhà sản xuất thuê chính cho MacBook của Apple
+- **Compal (仁寶)**: Sản xuất thuê máy tính xách tay cho Lenovo, Dell
+- **Pegatron (和碩)**: Chế tạo máy tính xách tay cho ASUS, Sony
 
-**Thiết bị máy chủ và đám mây:**
+**Máy chủ và thiết bị đám mây:**
 
-- 70% máy chủ toàn cầu được thiết kế và sản xuất tại Đài Loan
-- Các nhà cung cấp chính cho các công ty dịch vụ đám mây (Google, Amazon, Facebook)
-- Nhà sản xuất thiết bị 5G then chốt
+- Đa số máy chủ toàn cầu do các doanh nghiệp Đài Loan thiết kế và sản xuất thuê
+- Nhà cung cấp chính cho các ông lớn dịch vụ đám mây (Google, Amazon, Facebook)
+- Doanh nghiệp quan trọng trong lĩnh vực cơ sở hạ tầng 5G
 
-**Linh kiện cần thiết:**
+**Linh kiện then chốt:**
 
-- **Linh kiện thụ động:** Yageo, Walton Advanced Electronics (thị phần top 3 toàn cầu)
-- **Đầu nối:** Foxconn, Foxlink (nhà cung cấp chính cho Apple)
-- **Bảng mạch in:** Tripod Technology, Unimicron (dẫn đầu về công nghệ)
+- **Thành phần bị động (Passive components)**: Yageo (國巨), Walsin (華新科) (xếp top 3 toàn cầu)
+- **Bộ kết nối (Connectors)**: Foxconn (鴻海), Zhen Ding (正崴) (nhà cung cấp chính của Apple)
+- **Mạch in (PCB)**: Tripod (臻鼎), Unimicron (欣興) (dẫn đầu công nghệ)
 
 ### Máy móc chính xác và máy công cụ
 
-Năm 2023, xuất khẩu máy công cụ Đài Loan xếp hạng giảm xuống vị trí thứ bảy toàn cầu (so với đỉnh cao trước đó), bị Hoa Kỳ, Hàn Quốc vượt qua[^5], công nghệ máy móc chính xác vẫn có sức cạnh tranh:
+Năm 2023 xuất khẩu máy công cụ của Đài Loan đạt 2,6 tỷ USD, giảm 14% so với năm trước, xếp hạng toàn cầu xuống thứ bảy, sau Đức, Trung Quốc, Nhật Bản, Ý, Hàn Quốc và Mỹ (năm 2021 từng đứng thứ năm)[^5], tuy nhiên công nghệ máy móc chính xác vẫn giữ 경쟁力 (competitiveness - khả năng cạnh tranh):
 
-- **Thiết bị gia công chính xác điện thoại:** Công ty được sử dụng của chuỗi cung ứng TSMC và Apple
-- **Linh kiện ô tô:** HTC Industries, Oriental Corporation
-- **Chuỗi sản phẩm xe đạp:** Giant, Merida và các nhà sản xuất thượng hạ lưu
+- **Thiết bị gia công chính xác cho điện thoại**: Đượcupply chain (chuỗi cung ứng) của TSMC, Apple ưu tiên sử dụng
+- **Linh kiện ô tô**: Hotai (和大工業), Tong Yang (東陽工業)
+- **Chuỗi cung ứng xe đạp**: Giant, Merida và các doanh nghiệp thượng - hạ du
 
-## Quan hệ thương mại hai bờ eo biển
+## Quan hệ thương mại hai bờ
 
 ### ECFA và thương mại hai bờ
 
 **Ký kết ECFA năm 2010:**
-Hiệp định Khung hợp tác kinh tế hai bờ eo biển mang lại lợi ích thực tế:
+《Hiệp định khung hợp tác kinh tế hai bờ》 mang lại hiệu quả thực tế:
 
-Danh sách vàng giai đoạn đầu ECFA giảm nhiều loại thuế, thúc đẩy xuất khẩu của Đài Loan sang Trung Quốc đại lục tăng trưởng nhanh chóng, cùng với mở cửa thị trường dịch vụ, thiết lập khung hợp tác đầu tư bảo vệ.
+Danh sách thu hoạch sớm của ECFA hạ thấp nhiều loại thuế quan, thúc đẩy xuất khẩu của Đài Loan sang Trung Quốc tăng trưởng nhanh chóng, đồng thời mở thị trường dịch vụ và thiết lập khung hiệp định bảo vệ đầu tư.
 
 **Dữ liệu thương mại:**
 
-- Thương mại hai bờ năm 2023 (các thống kê khác nhau về phương pháp: thống kê thương mại trực tiếp của Bộ Tài chính khoảng 223,9 tỷ đôla; phương pháp tính toán bao gồm thương mại gián tiếp ước tính cao hơn, 284,7 tỷ đôla là nguồn tham chiếu khác)[^7]
+- Tổng giá trị thương mại hai bờ năm 2023 (các tiêu chí thống kê không thống nhất: thống kê thương mại trực tiếp của Cục Hải quan Bộ Tài chính khoảng 2.239 tỷ USD; bao gồm ước tính thương mại gián tiếp thì cao hơn, 2.847 tỷ USD là một nguồn trích dẫn khác) [^7]
 - Trung Quốc là đối tác thương mại lớn nhất của Đài Loan
-- Xuất khẩu của Đài Loan sang Trung Quốc đạt thặng dư khoảng 80 tỷ đôla
-- Hạng mục xuất khẩu chính: bán dẫn, bảng hiển thị, thiết bị máy móc
+- Thặng dư thương mại của Đài Loan với Trung Quốc khoảng 800 tỷ USD
+- Các mặt hàng xuất khẩu chính: bán dẫn, màn hình, thiết bị máy móc
 
-### Đầu tư và chuyển dịch ngành công nghiệp
+### Đầu tư và chuyển dịch sản nghiệp
 
-**Lịch sử các nhà đầu tư Đài Loan chuyển tới Tây:**
+**Lịch trình "tây tiến" của doanh nhân Đài Loan:**
 
-1. **Những năm 1990:** Chuyển dịch công nghiệp sản xuất truyền thống (dệt may, công nghiệp giày)
-2. **Những năm 2000:** Ngành công nghiệp điện tử thông tin đổ xô sang Tây
-3. **Những năm 2010:** Ngành dịch vụ bắt đầu phát triển thị trường Trung Quốc
+1. **Thập niên 1990:** Chuyển dịch sản xuất truyền thống (dệt may, giày dép)
+2. **Thập niên 2000:** Ngành điện tử tin học tiến quân mạnh mẽ sang Trung Quốc
+3. **Thập niên 2010:** Ngành dịch vụ bắt đầu triển khai thị trường Trung Quốc
 
-**Mô hình phân công ngành công nghiệp:** Đài Loan chịu trách nhiệm nghiên cứu phát triển thiết kế, linh kiện chính và quản lý thương hiệu, Trung Quốc tiếp nhận sản xuất lắp ráp, thị trường nội địa và tích hợp chuỗi cung ứng, hình thành cơ cấu phân công dọc độ cao phụ thuộc lẫn nhau.
+**Mô hình phân công sản nghiệp:** Đài Loan chịu trách nhiệm nghiên cứu phát triển thiết kế, linh kiện then chốt và kinh doanh thương hiệu, Trung Quốc tiếp nhận chế tạo lắp ráp, thị trường nội tiêu và tích hợp chuỗi cung ứng, hình thành cấu trúc phân công dọc phụ thuộc lẫn nhau cao độ.
 
-**Rủi ro và thách thức:** Chi phí của mô hình này là phụ thuộc quá mức vào một thị trường duy nhất, kèm theo nguy hiểm rò rỉ công nghệ và rủi ro địa chính trị ngày càng tăng.
+**Rủi ro và thách thức:** Chi phí của mô hình này là sự phụ thuộc quá nặng vào một thị trường đơn lẻ, kèm theo mối đe dọa rò rỉ công nghệ và rủi ro địa chính trị ngày càng gia tăng.
 
-## Ảnh hưởng của cuộc chiến tranh thương mại Mỹ–Trung
+## Tác động của cuộc chiến tranh thương mại Mỹ-Trung
 
-### Tác động của chiến tranh công nghệ
+### Tác động của cuộc chiến tranh công nghệ
 
 **Hiệu ứng lệnh cấm Huawei:**
-Hoa Kỳ áp dụng biện pháp trừng phạt các doanh nghiệp Trung Quốc như Huawei, ảnh hưởng đến các nhà cung cấp của Đài Loan:
+Mỹ trừng phạt Huawei và các doanh nghiệp Trung Quốc khác, ảnh hưởng đến các nhà cung cấp Đài Loan:
 
-- TSMC dừng sản xuất đóng thầu cho Huawei
-- MediaTek, Largan Precision mất đi các khách hàng then chốt
-- Bị buộc phải lựa chọn phe bạn trong tình thế đặc biệt khó khăn
+- TSMC ngừng sản xuất thuê cho Huawei
+- MediaTek, Largan Precision và các công ty khác mất khách hàng quan trọng
+- Bị ép buộc chọn phe, rơi vào thế lưỡng nan
 
-**Cạnh tranh chiến lược bán dẫn:** Luật Chip Act của Hoa Kỳ cấp phát ngân sách khuyến khích TSMC cố gắng thiết lập nhà máy tại Mỹ, Trung Quốc cùng lúc đó tăng đầu tư nghiên cứu phát triển bán dẫn tự chủ, Đài Loan trong bế tắc giữa hai cường quốc phải đối mặt với nguy hiểm rò rỉ công nghệ.
+**Cạnh tranh chiến lược bán dẫn:** Đạo luật Chips (CHIPS Act) của Mỹ cấp trợ cấp hút kéo TSMC đến Mỹ thiết lập nhà máy, Trung Quốc đồng thời tăng cường đầu tư tự chủ nghiên cứu phát triển bán dẫn, Đài Loan trong sự kéo co giữa hai cường quốc đối mặt với rủi ro rò rỉ công nghệ.
 
-### Cơ hội tái tổ chức chuỗi cung ứng
+### Cơ hội tái cấu trúc chuỗi cung ứng
 
-**Hiệu ứng chuyển dịch đơn hàng:**
-Cuộc chiến tranh thương mại Mỹ–Trung mang lại cơ hội chuyển dịch đơn hàng: các nhà sản xuất Hoa Kỳ giảm mua hàng từ Trung Quốc, Đài Loan tiếp nhận phần đơn hàng chuyển dịch, hai lĩnh vực thiết bị máy móc và sản phẩm điện tử nhận được lợi ích rõ rệt nhất.
+**Hiệu ứng chuyển đơn:**
+Cuộc chiến tranh thương mại Mỹ-Trung mang lại cơ hội chuyển đơn: Các doanh nghiệp Mỹ giảm thiểu mua sắm từ Trung Quốc, Đài Loan đón nhận một phần đơn hàng chuyển dịch, hai ngành máy móc thiết bị và sản phẩm điện tử được hưởng lợi rõ rệt nhất.
 
-**Chính sách Ngoại giao kinh tế mới về Nam:**
-Chính phủ thúc đẩy chính sách Ngoại giao kinh tế mới về Nam, mục tiêu hướng tới là thiết lập bố cục đầu tư tại mười quốc gia ASEAN, sáu quốc gia Nam Á cùng Australia và New Zealand, cùng lúc đó thúc đẩy trao đổi nhân lực, hợp tác kỹ thuật và hợp tác tài chính cơ sở hạ tầng, nhằm giảm bớt sự phụ thuộc vào Trung Quốc.
+**Chính sách Hướng Nam Mới:**
+Chính phủ thúc đẩy Chính sách Hướng Nam Mới, mục tiêu là tại 10 quốc gia ASEAN, 6 quốc gia Nam Á và Úc - New Zealand thiết lập bố cục đầu tư, đồng thời triển khai trao đổi nhân tài, hợp tác công nghệ và hợp tác tài chính cơ sở hạ tầng, để giảm bớt sự phụ thuộc vào Trung Quốc.
 
-**Xu hướng giao khoán ngoài tất cả (Nearshoring):** Dưới áp lực đàn hồi chuỗi cung ứng, các doanh nghiệp đa quốc gia phân tán bố cục địa lý, Đài Loan nhờ hệ thống quản trị dân chủ và độ tin cậy công nghệ, đã trở thành điểm lựa chọn ưu tiên khi doanh nghiệp chuyển dịch sản lực.
+**Xu hướng ngoại包 gần bờ (Nearshoring):** Các tập đoàn đa quốc gia dưới áp lực sự bền bỉ của chuỗi cung ứng phân tán bố cục địa lý, Đài Loan nhờ thể chế quản trị dân chủ và độ tin cậy công nghệ, đã trở thành điểm đến ưu tiên khi doanh nghiệp chuyển dịch sản năng.
 
-## Tham gia thỏa thuận thương mại quốc tế
+## Tham gia các hiệp định thương mại quốc tế
 
 ### Thách thức trong bố cục FTA
 
-**Hạn chế của yếu tố chính trị:**
-Do chính sách "một Trung Quốc", Đài Loan phải đối mặt với khó khăn khi tham gia tích hợp kinh tế khu vực:
+**Hạn chế do yếu tố chính trị：**
+Do chính sách "Một Trung Quốc", Đài Loan gặp khó khăn khi tham gia hội nhập kinh tế khu vực：
 
-- Không thể tham gia RCEP (Hiệp định Khu vực toàn diện kinh tế Đông Á)
-- Hồ sơ đơn xin tham gia CPTPP (Hiệp định Đối tác toàn diện và tiến bộ xuyên Thái Bình Dương) tiến triển chậm lại
-- Đàm phán hiệp định FTA song phương bị chặn
+- Không thể tham gia RCEP (Hiệp định Đối tác Kinh tế Toàn diện Khu vực)
+- Hồ sơ xin gia nhập CPTPP (Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương) tiến triển chậm
+- Đàm phán FTA song phương bị cản trở
 
-**Thỏa thuận thương mại hiện có:**
+**Các hiệp định thương mại hiện hành：**
 
-- Ký kết FTA với 7 quốc gia như Panama, Guatemala, Honduras, Nicaragua
-- Nối lại đàm phán TIFA (Hiệp định Khung Thương mại và Đầu tư) với Hoa Kỳ
-- Thúc đẩy BIA (Hiệp định Đầu tư song phương) với Liên minh Châu Âu
+- Hiện đang có hiệu lực các Hiệp định Thương mại Tự do với Panama (2004), Guatemala (2006), El Salvador và Honduras (2008), cũng như các Hiệp định Hợp tác Kinh tế với New Zealand (2013), Singapore (2014), Paraguay (2018), Eswatini (2018), Belize (2022)[^8]; FTA với Nicaragua ngừng áp dụng từ tháng 7/2022 sau khi Nicaragua đứt quan hệ năm 2021[^9]
+- Tiếp tục đàm phán TIFA (Hiệp định Khung Thương mại và Đầu tư) với Hoa Kỳ
+- Thúc đẩy BIA (Hiệp định Đầu tư Song phương) với EU
 
-### Bước ngoặt trong chiến lược kinh tế thương mại
+### Đột phá chiến lược kinh tế - thương mại
 
-**Hợp tác thương mại kỹ thuật số:** Đài Loan với Hoa Kỳ ký kết Khung hợp tác Thương mại Kỹ thuật số và Đầu tư, cùng lúc đó tham gia đàm phán DEPA (Hiệp định Đối tác Kinh tế Kỹ thuật số), ở các sân chơi đa phương thúc đẩy hạn định qui luật thương mại kỹ thuật số có lợi cho Đài Loan.
+**Hợp tác thương mại số:** Đài Loan và Hoa Kỳ ký kết Khung Hợp tác Thương mại và Đầu tư Công nghệ, đồng thời bày tỏ mong muốn gia nhập DEPA (Hiệp định Đối tác Kinh tế Số), thúc đẩy việc xây dựng các quy tắc thương mại số có lợi cho Đài Loan tại các diễn đàn đa phương.
 
-**Hợp tác chuỗi cung ứng:** Sáng kiến Thương mại Thế kỷ 21 Mỹ–Đài Loan cùng với Khung hợp tác Thương mại Kỹ thuật số và Đầu tư Mỹ–Đài Loan cung cấp khung hành chính song phương, đồng thời tham gia vào hợp tác đa phương thiết lập chuỗi cung ứng khoáng chất then chốt cùng với các đồng minh.
+**Hợp tác chuỗi cung ứng:** Kháng nghị Thương mại thế kỷ 21 Mỹ-Đài và Khung Hợp tác Thương mại và Đầu tư Công nghệ Mỹ-Đài cung cấp khung thể chế song phương, đồng thời tham gia hợp tác đa phương với các đồng minh để xây dựng chuỗi cung ứng khoáng sản then chốt.
 
 ## Chuyển đổi cấu trúc thương mại
 
-### Tiến hoá hàng hóa xuất khẩu
+### Diễn tiến hàng hóa xuất khẩu
 
-**Những năm 1960:** Hàng dệt may, quần áo, sản phẩm plastic
-**Những năm 1980:** Sản phẩm điện tử thông tin, thiết bị máy móc
-**Những năm 2000:** Bán dẫn, bảng hiển thị, máy tính xách tay
-**Những năm 2020:** Bán dẫn tiên tiến, thiết bị 5G, linh kiện xe điện
+**Thập niên 1960:** Dệt may, thành trang, sản phẩm nhựa
+**Thập niên 1980:** Sản phẩm điện tử tin học, thiết bị máy móc
+**Thập niên 2000:** Bán dẫn, màn hình, máy tính xách tay
+**Thập niên 2020:** Bán dẫn tiên tiến, thiết bị 5G, linh kiện xe điện
 
-**Hàng hóa xuất khẩu chính lúc này (2023):**
+**Hàng hóa xuất khẩu chính hiện tại (2024, Phân loại 11 nhóm hàng hóa của Bộ Tài chính)[^1]：**
 
-1. **Mạch tích hợp** (36,7%)
-2. **Thiết bị máy móc** (9,8%)
-3. **Sản phẩm hoá chất dầu** (7,2%)
-4. **Thiết bị quang học** (5,1%)
-5. **Kim loại cơ bản** (4,9%)
+1. **Linh kiện điện tử** (37,3%, trong đó mạch tích hợp chiếm phần lớn)
+2. **Sản phẩm tin học truyền thông và nghe nhìn** (27,9%, máy chủ AI và card đồ họa kéo tăng 59% so với năm trước)
+3. **Kim loại cơ bản và sản phẩm từ kim loại cơ bản** (6,0%)
+4. **Máy móc** (5,1%)
+5. **Nhựa cao su và sản phẩm từ nhựa cao su** (4,1%)
 
-### Thay đổi của đối tác thương mại
+### Thay đổi đối tác thương mại
 
-**Phân bố thị trường xuất khẩu (2023):**
+**Phân bố thị trường xuất khẩu (2024)[^1]：**
 
-1. **Trung Quốc (bao gồm Hồng Kông)** (31,7%)[^6]
-2. **Hoa Kỳ** (14,8%)
-3. **Liên minh Châu Âu** (8,9%)
-4. **ASEAN** (8,2%)
-5. **Nhật Bản** (6,7%)
+1. **Trung Quốc (kể cả Hồng Kông)** (1.506 tỷ USD, 31,7%)
+2. **Mỹ** (1.114 tỷ USD, 23,5%)
+3. **ASEAN** (878 tỷ USD, 18,5%)
+4. **Châu Âu** (386 tỷ USD, 8,1%)
+5. **Nhật Bản** (258 tỷ USD, 5,4%)
 
 **Xu hướng đa dạng hóa:**
 
-Trọng lượng xuất khẩu đến Trung Quốc (bao gồm Hồng Kông) từ đỉnh cao 42% năm 2021 giảm xuống 31,7% năm 2023 (thống kê Bộ Tài chính)[^6], xuất khẩu đến Hoa Kỳ và ASEAN cùng kỳ lấp đầy một phần chỗ trống đó, các thị trường mới nổi như Ấn Độ, Mexico cũng cho thấy tăng trưởng nhanh chóng.
+Tỷ trọng xuất khẩu sang Trung Quốc (kể cả Hồng Kông) giảm từ đỉnh cao 42% năm 2021 xuống 35,2% năm 2023, 31,7% năm 2024 (thống kê Bộ Tài chính)[^1][^6]; cùng kỳ xuất khẩu sang Mỹ tăng trưởng dương liên tục tám năm, năm 2024 tăng 46%, xuất khẩu sang ASEAN cũng đạt mức kỷ lục, hai thị trường này lấp đầy khoảng trống.
 
-## Những thách thức và cơ hội tương lai
+## Thách thức và cơ hội trong tương lai
 
 ### Rủi ro địa chính trị
 
-**Đối đầu công nghệ Mỹ–Trung:** Cấp độ kiểm soát công nghệ bán dẫn tăng lên từng năm, sự phe phái hoá chuỗi cung ứng và sự khác biệt tiêu chuẩn kỹ thuật đang tăng tốc độ hình thành, vị trí của Đài Loan phải đối mặt với áp lực đàm phán lại.
+**Đối đầu công nghệ Mỹ - Trung:** Các biện pháp kiểm soát công nghệ bán dẫn leo thang năm năm, sự chia rẽ thành phe phái trong chuỗi cung ứng và sự khác biệt về tiêu chuẩn kỹ thuật đang hình thành nhanh chóng, khiến định vị của Đài Loan đối mặt áp lực đàm phán lại.
 
-**Ảnh hưởng tình hình eo biển Đài Loan:** Nhà đầu tư tăng đánh giá rủi ro, doanh nghiệp quốc tế tăng tốc độ bố cục phân tán, chi phí bảo hiểm và vận chuyển tăng đồng bộ — những chi phí cuối cùng sẽ phản ánh trong sức cạnh tranh xuất khẩu của Đài Loan.
+**Ảnh hưởng của tình hình Eo biển Đài Loan:** Đánh giá rủi ro của nhà đầu tư tăng cao, việc các doanh nghiệp quốc tế phân tán bố cục tăng tốc, chi phí bảo hiểm và vận tải đồng loạt tăng lên — những chi phí này cuối cùng sẽ phản ánh lên khả năng cạnh tranh xuất khẩu của Đài Loan.
 
-### Cơ hội chuyển đổi ngành công nghiệp
+### Cơ hội chuyển đổi sản nghiệp
 
-Mặc dù áp lực địa chính trị mang lại sự bất định, nó cũng mở ra ba hành lang chuyển hướng cho Đài Loan: công nghệ năng lượng, cơ sở hạ tầng kỹ thuật số, công nghệ sinh học và y dược. Đài Loan đã có nền tảng sản xuất trong ba lĩnh vực này, liệu có thể làm sâu sắc các bức tường kỹ thuật hay không, quyết định sức cạnh tranh xuất khẩu của thập niên tới.
+Áp lực địa chính trị dù mang lại sự không chắc chắn, nhưng cũng mở ra ba hành lang chuyển đổi cho Đài Loan: công nghệ năng lượng, cơ sở hạ tầng số, y sinh - y tế. Đài Loan đã có cơ sở sản xuất trong ba lĩnh vực này, việc có thể sâu hóa rào cản kỹ thuật sẽ quyết định khả năng cạnh tranh xuất khẩu của thập kỷ tới.
 
-**Xu hướng phát thải net-zero carbon:** Tỷ lệ thị phần toàn cầu của pin năng lượng mặt trời Đài Loan xếp hạng hàng đầu, chuỗi cung ứng gió ngoài khơi đang hình thành, linh kiện xe điện trở thành điểm tăng trưởng xuất khẩu mới.
+**Xu hướng phát thải ròng bằng không:** Tỷ lệ thị phần toàn cầu của pin mặt trời Đài Loan nằm ở nhóm đầu, chuỗi cung ứng điện gió ngoài khơi đang hình thành, linh kiện xe điện trở thành điểm tăng trưởng xuất khẩu mới.
 
-**Nhu cầu chuyển đổi kỹ thuật số:** Xây dựng cơ sở hạ tầng 5G thúc đẩy nhu cầu IoT và điện toán biên, sự bùng nổ sức mạnh AI khiến khả năng thiết kế chip AI của Đài Loan trực tiếp được hưởng lợi.
+**Nhu cầu chuyển đổi số:** Việc xây dựng cơ sở hạ tầng 5G thúc đẩy nhu cầu Internet vạn vật và điện toán biên, sự bùng nổ của sức mạnh tính toán AI càng làm cho khả năng thiết kế chip trí tuệ nhân tạo của Đài Loan trực tiếp được hưởng lợi.
 
-**Ngành công nghiệp công nghệ sinh học y dược:** COVID-19 làm nổi bật khả năng phát triển vaccine và sản xuất thiết bị y dược chính xác của Đài Loan, giải pháp sức khỏe kỹ thuật số là loại hạng mục xuất khẩu mới đang hình thành.
+**Ngành y sinh - y tế:** COVID-19 làm nổi bật khả năng nghiên cứu phát triển vắc-xin và sản xuất thiết bị y tế chính xác của Đài Loan, giải pháp sức khỏe số là thể loại xuất khẩu mới đang hình thành.
 
 ### Xây dựng chuỗi cung ứng có khả năng phục hồi
 
-Đối đầu Mỹ–Trung và rủi ro eo biển Đài Loan buộc doanh nghiệp phải đánh giá lại mức độ tập trung chuỗi cung ứng. Chiến lược ứng phó của Đài Loan là hai luồng song song: hướng ra ngoài tránh phụ thuộc quá mức vào thị trường đơn nhất, thiết lập nhiều nguồn cung ứng đa dạng; hướng vào trong giữ lại công nghệ then chốt và sản lực tại Đài Loan, kết hợp với kho dự trữ vật tư chiến lược an toàn, duy trì mức độ tự chủ kiểm soát chuỗi sản xuất. Nâng cao khả năng nhìn thấy chuỗi cung ứng là nhu cầu cơ sở hạ tầng chung của hai luồng.
+Đối đầu Mỹ - Trung và rủi ro Eo biển Đài Loan buộc các doanh nghiệp phải đánh giá lại mức độ tập trung chuỗi cung ứng. Chiến lược ứng phó của Đài Loan là song song hai làn đường: đối ngoại tránh phụ thuộc quá mức vào một thị trường đơn lẻ, thiết lập nhiều nguồn cung đa dạng; đối nội giữ lại công nghệ then chốt và sản năng tại Đài Loan, kết hợp với kho dự trữ an ninh vật tư chiến lược, duy trì mức độ tự chủ nắm kiểm soát chuỗi sản nghiệp. Nâng cao tính nhìn thấy chuỗi cung ứng là nhu cầu cơ sở hạ tầng chung cho cả hai làn đường.
 
 ## Lời kết
 
-Sáu mươi năm lịch sử thương mại ngoài quốc, Đài Loan từ quần áo may sẵn và đồ chơi bước lên đúc khuôn wafer và máy chủ AI, mỗi lần chuyển đổi đều là lựa chọn chủ động khi đối mặt với áp lực. Trước tình hình Chiến tranh Lạnh mới của cuộc đối đầu Mỹ–Trung, Đài Loan trong khi duy trì ưu thế công nghệ hiện tại, phải tăng tốc độ bố cục vòng chu kỳ sản xuất kế tiếp.
+Sáu mươi năm lịch sử thương mại đối ngoại, Đài Loan từ may mặc đồ chơi tiến tới sản xuất thuê tấm wafer và máy chủ AI, mỗi lần chuyển đổi đều là lựa chọn chủ động khi đối mặt áp lực. Trước bố cục chiến tranh lạnh mới của đối đầu Mỹ - Trung, Đài Loan trong khi duy trì lợi thế công nghệ hiện hữu, phải đẩy nhanh việc bố cục cho chu kỳ sản nghiệp tiếp theo.
 
-Tái tổ chức chuỗi cung ứng không chỉ mang lại rủi ro mà còn mở ra những cơ hội: ưu thế tập trung độc quyền của Đài Loan ở ba lĩnh vực đúc khuôn wafer, sản xuất máy chủ đóng thầu, máy móc chính xác, khiến doanh nghiệp không thể dễ dàng vòng qua Đài Loan. Chuyển đổi cấu trúc thương mại từ xuất khẩu lao động chuyên sâu thành nút giao thương chuỗi cung ứng công nghệ, bố cục thị trường đa dạng hóa lại là cột trụ chính chống lại rủi ro địa chính trị.
+Việc tái cấu trúc chuỗi cung ứng không chỉ mang lại rủi ro: lợi thế tập trung của Đài Loan trong ba lĩnh vực sản xuất thuê tấm wafer, sản xuất thuê máy chủ, máy móc chính xác khiến các doanh nghiệp khó lòng bỏ qua Đài Loan. Cấu trúc thương mại từ xuất khẩu tập trung lao động chuyển sang nút chuỗi cung ứng tập trung công nghệ, bố cục thị trường đa dạng hóa là trụ cột then chốt đối phó rủi ro địa chính trị.
 
 ## Tài liệu tham khảo
 
-[^1]: [Bộ Tài chính Việt Nam — Tổng quan xuất nhập khẩu của Đài Loan năm 2023](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Xác nhận xuất khẩu năm 2023 475,07 tỷ đôla, nhập khẩu 394,47 tỷ đôla.
-
-[^2]: [TechNews Tạp chí Công nghệ — Đài Loan xuất khẩu năm 2023 xếp hạng thứ 16 toàn cầu](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Xác nhận giá trị xuất khẩu năm 2023 xếp hạng thứ 16 toàn cầu, cao thứ ba lịch sử.
-
-[^3]: [TrendForce — Báo cáo thị phần đúc khuôn wafer 2023–2024](https://www.trendforce.com/) — TSMC chiếm thị phần 55–67%, Đài Loan toàn bộ trên 70%.
-
-[^4]: [TrendForce — Xếp hạng nhà sản xuất máy tính xách tay năm 2024](https://www.trendforce.com/) — Các thương hiệu Đài Loan và nhà sản xuất đóng thầu Đài Loan tính chung chiếm khoảng 85–90% sản xuất máy tính xách tay toàn cầu; tỷ lệ sản xuất trực tiếp trên đảo Đài Loan đã giảm đáng kể.
-
-[^5]: [Hiệp hội Công nghiệp Máy công cụ và Linh kiện Đài Loan — Thống kê xuất khẩu máy công cụ năm 2023](https://www.tmba.org.tw/) — Năm 2023, xuất khẩu máy công cụ Đài Loan xếp hạng giảm xuống thứ bảy toàn cầu.
-
-[^6]: [Bộ Tài chính — Thống kê khu vực xuất khẩu chính năm 2023](https://service.mof.gov.tw/) — Năm 2023, tỷ lệ xuất khẩu Đài Loan sang Trung Quốc đại lục (bao gồm Hồng Kông) 31,7%.
-
-[^7]: [Ủy ban Lục tứ — Dữ liệu thống kê quan hệ kinh tế thương mại hai bờ](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Khối lượng giao dịch hai bờ do phương pháp thống kê (thương mại trực tiếp vs. bao gồm thương mại gián tiếp) mà khác nhau, các nguồn trích dẫn dữ liệu không nhất quán, khuyến nghị dùng thống kê trực tiếp của Bộ Tài chính Hải quan làm tiêu chuẩn.
-
 ## Đọc thêm
 
-- [Doanh nghiệp vừa và nhỏ Đài Loan và những công ty ẩn danh](/economy/doanh-nghiep-vua-va-nho-taiwan-va-nhung-cong-ty-an-danh) (zh only)
-- [Nông nghiệp Đài Loan và tái sinh nông thôn](/economy/nong-nghiep-taiwan-va-tai-sinh-nong-thon) (zh only)
-- [Hệ sinh thái khởi nghiệp](/economy/he-sinh-thai-khoi-nghiep) (zh only)
-- [Doanh nghiệp Đài Loan: Foxconn Precision](/economy/doanh-nghiep-taiwan-foxconn-precision) — Bố cục toàn cầu 24 quốc gia 90 vạn người, là thí nghiệm lớn nhất trong quản trị qua biên giới công nghiệp sản xuất Đài Loan (zh only)
+- [Doanh nghiệp vừa và nhỏ Đài Loan với các "Hidden Champions"](/vi/economy/taiwan-smes-and-hidden-champions)
+- [Nông nghiệp và tái sinh nông thôn Đài Loan](/vi/economy/taiwan-agriculture-and-rural-revitalization)
+- [Hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview)
+- [Doanh nghiệp Đài Loan: Foxconn Precision](/vi/economy/foxconn-precision-industry) — Bố cục toàn cầu 24 quốc gia 900 nghìn người, là thử nghiệm lớn nhất về quản trị biên giới của ngành sản xuất Đài Loan
+
+[^1]: [Cục Thống kê Bộ Tài chính — Tổng quan xuất nhập khẩu năm 113 (2024)](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Năm 2024 xuất khẩu 4.750 tỷ USD, nhập khẩu 3.944 tỷ USD; xuất khẩu sang Trung Quốc đại lục và Hồng Kông 1.506 tỷ (31,7%), Mỹ 1.114 tỷ (tăng 46,1% so với năm trước, lần đầu vượt 1.000 tỷ), ASEAN 878 tỷ, Châu Âu 386 tỷ, Nhật Bản 258 tỷ; bảng tỷ trọng 11 nhóm hàng hóa.
+
+[^2]: [TechNews Báo Công nghệ — Xuất khẩu Taiwan năm 2023 xếp hạng 16 toàn cầu](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Năm 2023 giá trị xuất khẩu 4.324 tỷ USD, chiếm 1,8% toàn cầu, xếp hạng 16 thế giới, là mức cao thứ ba kể từ khi có thống kê năm 2001.
+
+[^3]: [TrendForce — Báo cáo thị phần sản xuất thuê tấm wafer 2023-2024](https://www.trendforce.com/) — TSMC một mình chiếm 55-67% thị phần, toàn Taiwan vượt 70%.
+
+[^4]: [TrendForce — Xếp hạng sản xuất thuê máy tính xách tay 2024](https://www.trendforce.com/) — Thương hiệu Taiwan và nhà máy hải ngoại của doanh nhân Taiwan cùng承 nhận khoảng 85-90% sản xuất thuê máy tính xách tay toàn cầu; tỷ lệ sản xuất trực tiếp tại đảo Taiwan đã giảm mạnh.
+
+[^5]: [Hiệp hội Công nghiệp Máy công cụ và Linh kiện Taiwan — Dữ liệu sản xuất xuất khẩu 10 quốc gia nhập khẩu máy công cụ lớn nhất và 10 quốc gia tiêu dùng máy công cụ lớn nhất thế giới năm 2023](https://www.tmba.org.tw/zh-TW/news/traditionandbusiness/1566) — Năm 2023 xuất khẩu máy công cụ Taiwan 2,6 tỷ USD, giảm 14% so với năm trước, xếp hạng 7 toàn cầu.
+
+[^6]: [Cục Thống kê Bộ Tài chính — Tổng quan xuất nhập khẩu năm 112 (2023)](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Năm 2023 xuất khẩu 4.324 tỷ USD, nhập khẩu 3.514 tỷ USD; xuất khẩu sang Trung Quốc đại lục và Hồng Kông 1.522 tỷ USD (giảm 18,1% so với năm trước).
+
+[^7]: [Ủy ban Sự vụ Lục địa — Số liệu thống kê quan hệ kinh tế thương mại hai bờ](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Giá trị thương mại hai bờ khác nhau do chênh lệch phạm vi thống kê (thương mại trực tiếp so với bao gồm gián tiếp), các nguồn trích dẫn con số không thống nhất, khuyến nghị lấy thống kê trực tiếp của Tổng cục Hải quan Bộ Tài chính làm chuẩn.
+
+[^8]: [Cổng thông tin ECA/FTA Taiwan](https://fta.trade.gov.tw/) — Cục Thương mại Quốc tế Bộ Kinh tế: Danh sách và ngày có hiệu lực các FTA/ECA đã生效 của nước ta.
+
+[^9]: [Báo Tự do — Quốc hội thông qua chấm dứt FTA với Nicaragua; Bộ Ngoại giao, Bộ Kinh tế: Tác động đến thương mại của chúng ta có hạn](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Bên Nicaragua đơn phương chấm dứt tháng 12/2021, bên chúng ta ngừng áp dụng từ ngày 1/7/2022.

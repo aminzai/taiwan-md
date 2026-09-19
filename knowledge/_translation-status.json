@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T04:47:42+08:00",
-    "zhCommitHead": "a7b310852",
+    "lastUpdated": "2026-09-20T04:49:00+08:00",
+    "zhCommitHead": "d9ec0f10f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 944,
+        "fresh": 945,
         "stale": 57,
         "metadata_stale": 11,
-        "missing": 112,
+        "missing": 111,
         "orphan": 0
       },
       "ar": {
@@ -39292,8 +39292,8 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "d9ec0f10",
+          "translationLastModified": "2026-09-20T04:47:42+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -48123,8 +48123,8 @@
           "sourceContentHash": "sha256:b47bd1e69ecf0593",
           "sourceBodyHash": "sha256:57a68bead4c3e5e8",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "68adc03c",
-          "translationLastModified": "2026-09-13T03:35:51+08:00",
+          "translationLastCommit": "d9ec0f10",
+          "translationLastModified": "2026-09-20T04:47:42+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -90055,7 +90055,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/jimmy-liao.md",
+          "translatedFrom": "People/幾米.md",
+          "sourceCommitSha": "10fe99c59",
+          "sourceContentHash": "sha256:676de125f3707dd4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T20:19:34.846274+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 54,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/jimmy-liao.md",
@@ -131859,8 +131870,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-19T19:51:49.638431+00:00",
-          "translationLastCommit": "ae24f71b",
-          "translationLastModified": "2026-09-19T00:42:29+08:00",
+          "translationLastCommit": "d9ec0f10",
+          "translationLastModified": "2026-09-20T04:47:42+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
