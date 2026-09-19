@@ -2512,7 +2512,7 @@
   "fr:About/比國家還大的演算藝術.md": 6,
   "fr:Food/醬油.md": 6,
   "fr:Culture/拼板舟.md": 1,
-  "fr:History/高雄加工出口區.md": 6,
+  "fr:History/高雄加工出口區.md": 7,
   "fr:People/諸葛四郎.md": 1,
   "fr:Geography/安坑輕軌.md": 1,
   "fr:Food/新竹米粉.md": 6,
@@ -2568,7 +2568,7 @@
   "ko:Society/手語視訊轉譯.md": 4,
   "ko:Society/冷氣與能源貧窮議題.md": 1,
   "ko:History/九二一集集地震.md": 3,
-  "ko:History/高雄加工出口區.md": 6,
+  "ko:History/高雄加工出口區.md": 7,
   "ko:Food/台灣滷味.md": 3,
   "ko:Food/飛魚.md": 1,
   "ko:Food/新竹米粉.md": 6,
@@ -3400,7 +3400,7 @@
   "fr:Food/金門高粱.md": 1,
   "ar:Food/金門高粱.md": 2,
   "ru:Food/金門高粱.md": 2,
-  "vi:Food/醬油.md": 4,
+  "vi:Food/醬油.md": 5,
   "de:Food/醬油.md": 2,
   "ar:History/台灣糖業鐵路.md": 1,
   "hi:People/陳三火.md": 1,
@@ -3641,5 +3641,7 @@
   "vi:Society/台灣公共衛生與防疫體系.md": 1,
   "vi:Lifestyle/台灣騎樓文化與街景.md": 1,
   "id:Society/學習貧窮.md": 1,
-  "en:Culture/台灣綜藝.md": 1
+  "en:Culture/台灣綜藝.md": 1,
+  "de:Lifestyle/台灣垃圾車音樂.md": 1,
+  "vi:resources/official-websites.md": 1
 }
