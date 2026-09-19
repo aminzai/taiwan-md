@@ -1007,19 +1007,36 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
         log(f"⏭️  {len(oversized)} 篇超過 {max_zh_bytes // 1000}KB，本軌跳過交委派層："
             + "、".join(oversized[:3]) + ("…" if len(oversized) > 3 else ""))
 
+    # 累計失敗到 cascade_exhausted 門檻的，整條佇列最尾（跨桶沉底，不排除）。
+    # 2026-09-20：失敗沉底原本只在桶內排序——新鮮窗裡若只剩一篇難篇，它就是隊首，
+    # 每次 dispatcher 重啟五個 worker 裡四個先去啃 91 腳註的〈台灣新冠疫情與疫苗〉
+    # 二十幾分鐘（09-19 memory 記了兩晚）。canonical 說的「沉底」是整條佇列的底。
+    def _split_exhausted(bucket: list) -> tuple[list, list]:
+        keep = [e for e in bucket if e[2] < CASCADE_EXHAUSTED_FAIL_COUNT]
+        tail = [e for e in bucket if e[2] >= CASCADE_EXHAUSTED_FAIL_COUNT]
+        return keep, tail
+    fresh, ex_f = _split_exhausted(fresh)
+    p0, ex_0 = _split_exhausted(p0)
+    p1, ex_1 = _split_exhausted(p1)
+    exhausted = ex_f + ex_0 + ex_1
+    if exhausted and log:
+        log(f"⤵️  {lang}: {len(exhausted)} 篇累計失敗 ≥{CASCADE_EXHAUSTED_FAIL_COUNT} 次，排到本語言佇列最尾（不排除）："
+            + "、".join(z for z, _, _, _ in exhausted[:3]) + ("…" if len(exhausted) > 3 else ""))
+    ex_paths = [z for z, _, _, _ in exhausted]
+
     fresh_p0 = [z for z, _, _, tier in fresh if tier == 0]
     fresh_p1 = [z for z, _, _, tier in fresh if tier == 1]
     p0_paths = fresh_p0 + [z for z, _, _, _ in p0]
     p1_paths = fresh_p1 + [z for z, _, _, _ in p1]
     if priority == "all":
-        # 新鮮窗整批（含 stale）優先於一般 P0
+        # 新鮮窗整批（含 stale）優先於一般 P0；耗盡篇壓陣
         return ([z for z, _, _, _ in fresh]
-                + [z for z, _, _, _ in p0] + [z for z, _, _, _ in p1])
+                + [z for z, _, _, _ in p0] + [z for z, _, _, _ in p1] + ex_paths)
     if priority == "p0":
-        return p0_paths
+        return p0_paths + [z for z, _, _, t in exhausted if t == 0]
     if priority == "p1":
-        return p1_paths
-    return p0_paths + p1_paths  # all: P0 first, then P1
+        return p1_paths + [z for z, _, _, t in exhausted if t == 1]
+    return p0_paths + p1_paths + ex_paths  # all: P0 first, then P1, 耗盡篇壓陣
 
 
 def build_slug_map(run_dir: Path) -> Path:
