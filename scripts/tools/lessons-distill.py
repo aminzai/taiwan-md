@@ -137,6 +137,25 @@ def cmd_audit(args):
         if v >= 2:
             print(f"     vc={v}  {b[0][4:][:60]}")
 
+    # 掉在檔尾的 entry（2026-09-20 distill：四條教訓擱在 §❌ 已歸檔 之後六週沒人看見——
+    # 本工具的邊界原本止於 §未消化，session 把教訓 append 到 EOF 就落在所有尺之外）。
+    # 規則：§❌ 已歸檔 標 `_（空）_` 卻有 `### ` entry，或 entry 出現在版本 footer（`_vN.N |`）之後，
+    # 都是「放錯槽位」而不是歸檔。
+    arch = find_first(lines, ARCHIVED_RE)
+    stray = []
+    if arch is not None:
+        footer = next((i for i in range(arch + 1, len(lines)) if re.match(r"^_v\d", lines[i])), len(lines))
+        arch_empty = any(lines[i].strip() == "_（空）_" for i in range(arch + 1, footer))
+        for i in range(arch + 1, len(lines)):
+            if ENTRY_RE.match(lines[i]) and (i > footer or arch_empty):
+                stray.append(i)
+    if stray:
+        print(f"\n   🚨 掉在 §❌ 已歸檔 之後／footer 之後的 entry：{len(stray)} 條（不在任何一段的尺裡，搬回 §未消化）")
+        for i in stray[: args.top]:
+            print(f"     L{i+1}  {lines[i][4:][:64]}")
+    else:
+        print(f"\n   檔尾 stray entry：0（§❌ 已歸檔 之後乾淨）")
+
     if n >= 200:
         print(f"\n   → 建議：`lessons-distill.py chunk --agents N` 起 fan-out 分析（見 §Distill SOP §分析方法）")
     return 0
