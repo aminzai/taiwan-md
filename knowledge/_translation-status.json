@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T02:45:46+08:00",
-    "zhCommitHead": "d5b37f013",
+    "lastUpdated": "2026-09-20T02:48:43+08:00",
+    "zhCommitHead": "cd2f33d7d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 899,
+        "fresh": 900,
         "stale": 103,
         "metadata_stale": 28,
-        "missing": 94,
+        "missing": 93,
         "orphan": 0
       },
       "ko": {
@@ -45677,8 +45677,8 @@
           "sourceContentHash": "sha256:4b052a359a9d9447",
           "sourceBodyHash": "sha256:3fe6546421aedaf5",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd2f33d7",
+          "translationLastModified": "2026-09-20T02:45:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -122636,8 +122636,8 @@
           "sourceContentHash": "sha256:7ba5e76325c5339a",
           "sourceBodyHash": "sha256:04d4784a133b2499",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd2f33d7",
+          "translationLastModified": "2026-09-20T02:45:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -160932,7 +160932,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/jiufen.md",
+          "translatedFrom": "Geography/九份.md",
+          "sourceCommitSha": "7a1e87e46",
+          "sourceContentHash": "sha256:f6fbbce0517a5d1c",
+          "sourceBodyHash": "sha256:ec15193c5eaa241b",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/jiufen.md",
@@ -191128,8 +191139,8 @@
           "sourceContentHash": "sha256:b0294f51e65e00c0",
           "sourceBodyHash": "sha256:1f1dbba771873780",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd2f33d7",
+          "translationLastModified": "2026-09-20T02:45:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
