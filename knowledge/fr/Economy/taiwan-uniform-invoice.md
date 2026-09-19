@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:TK3C_307_uniform_invoice_9
 rationale: "{'why_this_hook': '用超商結帳「要不要載具」這個每個台灣人一天做好幾次、卻從沒細想過的三秒鐘動作開場，因為全篇論點正是「這套制度靠的不是稽查，是一個不用思考的反射」。從讀者自己的手開始，比「統一發票是 1951 年的稅制」這種身分句更能立刻讓人意識到「這件事我每天在做卻不知道為什麼」，也直接把主軸錨立在動作本身。', 'whats_excluded': '砍掉華視開獎特別節目的人名與精確日期（安鵬／連漪／1973 開播），因為唯一來源是無引註維基、兩份官方一手史料反證沉默，只保留「集體記憶 vs 官方沉默」的落差本身；砍掉宣傳歌旋律取自迪士尼《小小世界》的說法（該曲 1962 年才存在、與 1951 年時序矛盾），只用可驗證的歌詞；砍掉「2029 年全面取消免用發票」（已被事實查核判為誇大）、「新加坡香港也有消費稅抽獎」（前提錯誤，香港根本沒消費稅）、感熱紙化學細節、任顯群學經歷（會稀釋第三段核心張力）、委辦費爭議的政黨攻防細節（只留「法定該給的錢每年可能被裁量刪減」）；Step 2.5-R 結構主編審回後再砍掉寫手自行加入的 2026 詐騙簡訊冒名案例（原第五段末段、原註 25）——藍圖 v2 明訂該段只承載集點樹演算法爭議＋創世弊案兩則材料（委辦費已於同一輪審稿移出），這則材料未經投影審查即由寫手加入，重新湊成三則陰影材料扎堆核心轉折段，正是 v2 才修掉的 SSODT 疊加風險；且案件本質是外部歹徒冒名詐騙，與該段「官方公平性」命題的貼合度也弱於前兩則，故整段連同該註一併移除，收尾「我相信」句式相應由三分句收回兩分句。', 'where_it_hedges': '任顯群出獄寫「1958 年 1 月保釋」（官方檔案），不寫維基自承缺來源的「1959 年張群求情」；入獄真因改寫三種流傳說法（蔣經國心結／派系鬥爭／救國團經費，見想想論壇）並列，不押單一敘事；檢舉成功率兩版並陳（自媒體轉述台北市不到一成 vs TVBS 全類型約兩成）；千萬富翁用最新的 957 位不用過時的 870；Joana Naritomi 只寫「同一類行為經濟學機制」不暗示她研究了台灣；防偽暗記寫「透過媒體證實」不寫官網證實；集點樹調查分行政（「尚符合本活動抽獎條件」）與司法（媒體簡化「查無不法」，中央社正文原文是「尚無涉及不法情事」）兩階段用語；國際比較不寫「世界第一」只寫查證範圍內最早；1950 年頒布兩辦法的具體日期只寫「年底」不主張「12 月 12 日」（查無一手支撐）；坦尚尼亞案例改引 CMI 田野研究（原引註誤植成一份無關的大學生實驗室研究）；千萬得主案例只保留可查證的「花 2 元中千萬」，砍掉查無實據的「正本遺失」個案。Stage 2.5 source-fidelity 由主 session 親自 live-fetch 6 條高風險 footnote + 獨立 fact-check agent 查核其餘 19 條，共修正 7 處來源問題（1 處嚴重引註誤植、1 處虛構個案、2 處引註掛錯集數/年份範圍、2 處引語誤植出處、1 處未驗證日期）。Stage 3.6.1 五路 adversarial verifier 逐原子重驗全文，另修正約 20 處：**最嚴重一處**是把陳國樑 2025-01 對財政部的批評誤植為「法律明明白紙黑字寫『應』訂定給獎辦法」——三方交叉查證（現行法條、Wayback Machine 舊版法條、他本人原文）確認他批評當時法條寫的是「得」非「應」，「應」是他發文三個月後（2025-05）才修法出現的字，他實際論證依據是政府自己的預算分類文件；其餘修正含 2 處虛構精確數字（「303 張已屆期充公」查無來源、創世捐贈「1.14 億張」原文僅為「1 億 1 千多萬張」的模糊值）、1 處虛構場景細節（任顯群「聽任方旭談過往事」）、1 處遺漏來源實際敘事主線（入獄真因想想論壇原文以顧正秋三角戀為主、非與其餘兩說並列互斥）、2 處國際比較與來源脫節（喬治亞「成效不彰」是官方說法、ISET 智庫自己的分析認為真因是預算不足；韓國廢止後留下的是檢舉獎金非報稅扣抵）、1 處圖表量錯尺（坦尚尼亞僅一次三個月區域試點、無法支撐與韓國喬治亞同軸比較的「4 年」數字，已移出 tw-bars 圖表）、2 處具體事實缺引註（九萬多人參加集點樹活動＋iPhone/iPad 品項、宣傳歌歌詞）、1 處時序壓縮（創世弊案 2020 年即被國稅局發現異常、2025 年才是案件曝光年）、其餘為日期精確度（稅捐稽徵法修正日期、愛國獎券 37 年起訖日）與過度精確措辭（「整整一年」）修正。'}"
 relatedDiary: ['2026-07-18-105326-manual']
 translatedFrom: 'Economy/發票.md'
-sourceCommitSha: '4a923c640'
-sourceContentHash: 'sha256:3de7677c1cc54d07'
-sourceBodyHash: 'sha256:1962c2279b937909'
-translatedAt: '2026-07-31T08:23:54+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:ac044c6ba9c6ce5c'
+sourceBodyHash: 'sha256:54db8d12b45ad9b3'
+translatedAt: '2026-09-19T14:44:23.939435+00:00'
 ---
 
 # La facture : ce papier de 1951 qui a transformé le peuple entier en agents du fisc
@@ -152,34 +152,35 @@ _Tutoriel de l'application officielle de paiement du Bureau des impôts du Minis
 
 En les mettant ensemble, on constate un fait survenu pour la première fois en 75 ans. Dans le passé, ce système fonctionnait grâce à un accord tacite non dit : je crois que cette série de numéros est tirée au hasard, je crois que la facture que je jette dans la boîte sera traitée honnêtement. Mais lorsque « qui gagnera » devient un programme dont les poids peuvent être conçus, lorsque la « bienveillance » doit reposer sur des mécanismes de prévention des abus pour exister, ce système qui a survécu 75 ans en reposant sur « je crois » est contraint pour la première fois de répondre concrètement : pourquoi me faire encore confiance ?
 
-## Taïwan a maintenu cette conception comme le plus long marathon du monde
+## Taïwan a tenu cette conception en course, la plus longue course du monde
 
-Pour pouvoir être interrogé de la sorte, il faut d'abord avoir survécu assez longtemps. Taïwan n'est pas le seul endroit à avoir eu cette idée, mais à ce jour, aucun autre n'a vu cette pratique devenir un réflexe quotidien pendant plus de soixante-dix ans. L'économiste comportemental Joana Naritomi a étudié un mécanisme structurellement similaire à São Paulo, au Brésil, et a découvert que les ventes déclarées par les fournisseurs ont augmenté d'au moins 21 % en quatre ans : transformer les consommateurs en superviseurs fiscaux est effectivement efficace[^20]. Mais « efficace » et « survivre longtemps » sont deux choses différentes.
+Tenir jusqu’à ce qu’on puisse se poser une telle question, il faut déjà tenir assez longtemps. Taïwan n’est pas le seul endroit à avoir eu cette idée, mais d’après les vérifications disponibles, aucun autre cas n’a encore été trouvé qui ait tenu une telle mécanique en cours pendant soixante-dix ou quatre-vingts ans. L’économiste comportementaliste Joana Naritomi a étudié un mécanisme similaire à São Paulo au Brésil, et a constaté que le chiffre d’affaires déclaré par les commerçants avait augmenté d’au moins vingt et un pour cent en quatre ans : transformer les consommateurs en inspecteurs fiscaux fonctionne vraiment[^20]. Mais « efficace » et « durable » ne sont pas la même chose.
 
-En 2012, la Géorgie a ramené cette idée similaire, et la raison officielle de l'arrêt était « inefficacité », mais le think tank qui a produit cette recherche a lui-même admis qu'aucune analyse publique ne soutenait cette affirmation — la raison réelle semblait être l'argent : le volume quotidien de déclarations de justificatifs éligibles est passé d'un pic de plus de deux millions à seulement 300 000 avant la fermeture ; le nouveau gouvernement n'a pas investi le budget pour maintenir des chances de gain attrayantes, et a fermé boutique en moins d'un an[^21] ; la Corée du Sud a fonctionné de 2005 à 2011, abandonnant finalement le tirage au sort, ne laissant que le mécanisme de prime pour la dénonciation des commerçants ne délivrant pas de reçus[^22] ; et en Afrique, la Tanzanie a commencé des tests pilotes en 2022 et prévoit de lancer une version nationale en 2026[^23]. Partout ailleurs, cela ne dure souvent pas longtemps ; Taïwan a tenu 75 ans, sans aucune interruption de tirage.
+La Géorgie a ramené une idée similaire chez elle en 2012. La raison officielle de l’arrêt est « sans effets probants », mais le think tank qui a proposé cette étude lui-même déclare que cette phrase n’a jamais été étayée publiquement — la vraie raison semble être l’argent : le nombre de déclarations quotidiennes valides est passé de plus de deux millions à seulement trois cent mille avant la fermeture ; le nouvel gouvernement n’a pas injecté le budget nécessaire pour maintenir des probabilités de gain attractives, et le système s’est effondré en moins d’un an[^21] ; la Corée a essayé de 2005 à 2011, puis a également abandonné le tirage au sort, ne conservant que le mécanisme de récompense pour les dénonciations[^22] ; et même en Afrique, la Tanzanie n’a commencé que l’année 2022, avec un déploiement national prévu pour 2026[^23]. Ailleurs, le système ne tient pas longtemps. Taïwan, elle, tient depuis soixante-quinze ans, sans interruption d’une période à l’autre.
 
 ```tw-bars
-Taïwan : 75 ans sans interruption, aucun autre cas n'a tenu aussi longtemps
-*Taïwan | 75 | Depuis 1951, sans interruption
-Corée du Sud | 6 | 2005–2011, fermeture, conservation du prix de dénonciation
-Géorgie | 1 | Lancement en 2012, fermeture en moins d'un an
-Source : Ministère des Finances, Institut de recherche politique ISET, Administration fiscale de Corée du Sud
+Taïwan : 75 ans sans interruption, aucun autre cas ne tient aussi longtemps
+*Taïwan | 75 | 1951 à aujourd’hui, sans interruption
+Corée du Sud | 6 | 2005–2011, arrêté, ne gardant que les récompenses pour dénonciation
+Géorgie | 1 | lancé en 2012, arrêté en moins d’un an
+Source : Ministère des Finances, ISET Policy Research Institute, Service des impôts coréen
 ```
 
-La Tanzanie n'est pas incluse dans ce graphique — à ce jour, on ne trouve qu'un enregistrement de test régional de trois mois en 2022 ; il est inconnu si ces années intermédiaires ont été une opération continue, une pause ou une reprise, sans données publiques, ce qui ne correspond pas à la règle de comparaison des cycles de vie complets « lancement à fermeture » de la Corée du Sud et de la Géorgie, et ne convient pas à un graphique en barres comparatif.
+La Tanzanie n’est pas incluse dans ce graphique — à ce jour, on ne trouve qu’un seul enregistrement de test régional de trois mois en 2022 ; les années intermédiaires ne sont pas documentées publiquement quant à leur fonctionnement, suspension ou redémarrage, donc on ne peut pas les comparer aux données complètes du cycle de vie des systèmes coréens et géorgiens, et il n’est pas approprié de les placer sur le même graphique comparatif.
 
-Les 75 ans accumulés ont produit une longue série de chiffres. Jusqu'en juin 2026, cette série de numéros a tiré 1 264 prix spéciaux de dix millions de dollars NT, dont 307 n'ont jamais été réclamés et sont devenus perdus à jamais après l'expiration du délai de réclamation[^11]. Ces millions non réclamés sont principalement dus à l'oubli des gens de vérifier les numéros ; mais il y a aussi des gens à la chance incroyable : dans le dernier lot de gagnants de 2026, le plus chanceux a simplement dépensé 2 dollars NT pour un sac de courses dans un McDonald's à Tucheng, dans le Nouveau Taipei, et a gagné le gros prix de dix millions[^24].
+Soixante-quinze ans d’accumulation ont généré une longue série de chiffres. À juin 2026, parmi mille deux cent soixante-quatre numéros gagnants de la catégorie spéciale de dix millions de dollars, trois cent sept n’ont jamais été réclamés — ils ont dépassé la période de validité et ne peuvent plus jamais être récupérés[^11]. La plupart de ces dix millions non réclamés sont simplement dus au fait que les gens ont oublié de regarder leurs reçus — mais certains ont eu une chance incroyable : parmi les gagnants les plus récents en 2026, le plus chanceux n’a dépensé que deux dollars NT pour un sac en plastique dans un McDonald’s à Tucheng à New Taipei, et a gagné le gros lot[^24].
 
-Ainsi, la prochaine fois, lorsque vous paierez au dépanneur, que le caissier vous demandera « voulez-vous un appareil électronique », que vous tendrez la main pour prendre cette fine feuille encore tiède, ou la laisserez flotter dans le nuage — vous n'aurez pas seulement accompli une transaction. Vous prolongerez un réflexe qui a survécu 75 ans, survivant à tout homme qui l'a poussé, et même à l'entité politique qui l'a fait naître. Mais cette fois, ce geste porte discrètement une question qu'il n'était pas nécessaire de répondre auparavant : est-ce que cette série de numéros vous gagnera, est-ce une pure chance, ou est-ce que quelqu'un l'a déjà calculé pour vous ?
+Alors la prochaine fois, quand vous faites votre achat dans un supermarché et que le caissier vous demande « Voulez-vous un reçu électronique ? », que vous preniez cette feuille encore tiède entre vos mains, ou qu’elle parte directement dans le cloud — vous ne réalisez jamais qu’une seule transaction. Vous continuez un réflexe qui a déjà soixante-quinze ans, plus longtemps que quiconque ne l’a poussé à le faire, et même plus longtemps que l’État qui l’a créé. Et cette fois, ce geste porte en lui une question supplémentaire qu’on n’avait pas à se poser avant : ce numéro va-t-il vous toucher, par pure chance, ou est-ce déjà quelqu’un qui l’a calculé pour vous ?
 
 ---
 
-**Lectures complémentaires** :
+**Lecture complémentaire** :
 
-- [Miracle économique](/fr/economy/economic-miracle) — Les années 1950, où est née la facture unifiée, constituent la même histoire de mobilisation où Taïwan est passé du gouffre financier au décollage économique.
-- [Culture des dépanneurs à Taïwan](/fr/lifestyle/convenience-store-culture) — Le lieu où le plus grand nombre réclament les gains de la facture et disent « 919 » pour donner la facture se trouve devant les caisses des quatre grands supermarchés.
-- [Terrorisme Blanc à Taïwan](/fr/history/taiwan-white-terror) — L'époque où l'inventeur de la facture, Ren Xianqun, a été emprisonné pour « savoir qu'il s'agit de communistes sans le dénoncer », une accusation suffisante pour être mortelle.
-- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — La réhabilitation de Ren Xianqun, traversant deux gouvernements et prenant des années, est un processus concret par lequel Taïwan fait face à son histoire autoritaire.
+- [Miracle économique](/fr/economy/economic-miracle) — Les années 1950 où la facture unifiée a vu le jour coïncident exactement avec la période où Taïwan est passé d’un précipice financier à un décollage économique.
+- [Culture des magasins de proximité à Taïwan](/fr/lifestyle/convenience-store-culture) — Les endroits où l’on échange le plus souvent des reçus gagnants et où l’on prononce le plus souvent « 919 » pour faire un don de ses reçus.
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L’époque où le concepteur de la facture unifiée, Ren Xianqun, a été emprisonné pour « non-dénonciation d’espion ».
+- [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Le parcours de Ren Xianqun à travers deux gouvernements, qui a mis plusieurs années à obtenir réhabilitation.
+- [Le mécanisme des prix du pétrole et CPC Corp. à Taïwan](/economy/台灣油價機制與中油) — Une autre façon d’utiliser un document administratif comme règle : comment un communiqué de presse sur le prix du pétrole divise un litre en trois parts, laissant CPC porter le coût, les prix divisés par litre, sans jamais savoir qui en profite le plus.
 
 ## Sources des images
 

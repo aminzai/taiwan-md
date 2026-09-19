@@ -30,10 +30,10 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:387f185bb5291526'
-sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
-translatedAt: '2026-08-04T10:45:55.033199+00:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:e17f8ccac18bf65b'
+sourceBodyHash: 'sha256:65e86904ae441416'
+translatedAt: '2026-09-19T14:07:02.711513+00:00'
 ---
 
 # Crise climatique et transition vers le zéro émission nette à Taïwan : le jour où le référendum sur la centrale nucléaire no 3 a échoué, le choix des limites physiques ne faisait que commencer
@@ -281,39 +281,42 @@ Le _Rapport scientifique national 2024 sur le changement climatique_, dirigé pa
 
 Pour une île de 23 millions d’habitants, les émissions de carbone de Taïwan sont disproportionnées : en termes d’émissions de CO₂ issues des combustibles fossiles, elles atteignent environ 280 millions de tonnes par an, soit environ 11,7 tonnes par habitant, un niveau parmi les plus élevés du monde ; selon les bases de données et les méthodes statistiques, le classement se situe autour du top 20 mondial[^8]. Les émissions sont fortement concentrées dans l’usage de l’énergie et l’approvisionnement électrique, le secteur énergétique étant le plus important ; la structure de production électrique demeure le cœur de la pression de décarbonation. La racine du problème est la structure de production : en 2024, le mix électrique de Taïwan était composé d’environ 42,4 % de gaz, 39,3 % de charbon, le gaz dépassant pour la première fois le charbon ; les renouvelables représentaient environ 11,6 %, le nucléaire environ 4,2 %[^20]. **C’est un système énergétique encore très dépendant des combustibles fossiles, et 98 % de l’énergie de Taïwan dépend des importations. La sécurité énergétique et la crise climatique sont une seule et même question**.
 
-## La démocratie et la physique en parallèle
+## Démocratie et physique en parallèle
 
-Le soir du 23 août 2025, le référendum sur la centrale nucléaire no 3 a projeté toutes les contradictions de cette question sur l’écran du dépouillement.
+Le soir du 23 août 2025, le référendum sur la centrale nucléaire no 3 a projeté toutes les contradictions de cette question sur les écrans de dépouillement.
 
-74 % de oui, 29,53 % de participation, seuil non atteint, dossier déposé par Taipower en mars 2026, redémarrage possible dès 2028. Dans le même temps : 97 672 fûts à Lanyu, 50 ans pour Onkalo en Finlande, un retard géothermique d’un facteur 27, une énergie marine encore à 100 kW, un nucléaire de quatrième génération qui attendra 2045. Chaque chiffre pose la même question : **la vitesse de la démocratie peut-elle suivre celle de la physique ?**
+74 % de votes pour, 29,53 % de participation, seuil non atteint, Taipower dépose son dossier en mars 2026, redémarrage au plus tôt en 2028. Simultanément : 97 672 fûts à Lanyu, 50 ans pour Onkalo en Finlande, géothermie en retard de 27 fois, énergie marine encore à 100 kW, nucléaire de quatrième génération pas avant 2045. Chaque chiffre pose la question : **la vitesse de la démocratie peut-elle suivre la vitesse de la physique ?**
 
-| Calendrier démocratique                                 | Calendrier physique                                  |
-| ------------------------------------------------------- | ---------------------------------------------------- |
-| 23/08/2025 dépouillement du référendum                  | Lanyu ouvert en 1982, peut-être encore là en 2057    |
-| 25/08/2025 conférence de presse sur les trois principes | Isolement des déchets nucléaires pendant 100 000 ans |
-| 27/03/2026 dépôt du dossier par Taipower                | Le site définitif finlandais a pris 50 ans           |
-| 2028 redémarrage le plus rapide                         | Géothermie en retard d’un facteur 27                 |
-| 2050 objectif zéro émission nette                       | Énergie marine encore au stade d’essai de 100 kW     |
+| Calendrier démocratique                                 | Calendrier physique                                          |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+| 23/08/2025 dépouillement du référendum                  | Lanyu mis en service en 1982, possiblement encore là en 2057 |
+| 25/08/2025 conférence de presse sur les trois principes | Déchets nucléaires isolés pendant 100 000 ans                |
+| 27/03/2026 Taipower dépose son dossier                  | Site de stockage définitif : 50 ans pour la Finlande         |
+| 2028 redémarrage au plus tôt                            | Géothermie en retard de 27 fois                              |
+| 2050 objectif zéro net                                  | Énergie marine encore à 100 kW en phase d'essai              |
 
-Personne ne sait si 9 000 milliards de dollars taïwanais suffiront à acheter un autre avenir. Mais nous commençons déjà à voir les conséquences de ne pas dépenser cette somme : le 2060 sans hiver de Hsu Huang-hsiung, les 2 884 millimètres de Morakot, les délestages tournants du 513, les fractures du référendum sur les récifs algaires, les 44 ans d’attente de Lanyu.
+Personne ne sait si 9 000 milliards de dollars taïwanais peuvent acheter un avenir différent. Mais les conséquences de ne pas dépenser cette somme, nous commençons déjà à les voir : le 2060 sans hiver de Hsu Huang-hsiung, les 2 884 mm de Morakot, les coupures tournantes du 513, la déchirure du référendum sur les récifs d'algues, les 44 ans d'attente de Lanyu.
 
-[PanSci rapporte](https://pansci.asia/archives/367417), en citant un consensus du secteur, que « **le site de stockage définitif le plus avancé au monde est le projet Onkalo en Finlande, qui a obtenu en août 2024 une autorisation d’essai d’exploitation. Ce projet est planifié depuis les années 1970 et a pris près d’un demi-siècle pour atteindre cette étape** »[^29]. À Taïwan, le site de stockage définitif n’est même pas choisi. Même si la centrale no 3 redémarre en 2028, chaque nouvelle barre de combustible produite pendant la période de redémarrage devra elle aussi trouver un endroit où être entreposée.
+Selon un [reportage de PanSci](https://pansci.asia/archives/367417) citant le consensus de l'industrie, **« le site de stockage définitif le plus avancé au monde est le projet Onkalo en Finlande, qui a obtenu son permis d'essai en août 2024. Ce projet, planifié depuis les années 1970, a mis près d'un demi-siècle pour atteindre cette étape »**[^29]. Le site de stockage définitif de Taïwan n'a même pas encore de lieu choisi. Même si la centrale no 3 redémarre en 2028, chaque nouveau combustible produit pendant la période de redémarrage devra trouver un endroit où être stocké.
 
-Les 97 672 fûts de Lanyu ne disparaîtront pas parce qu’un référendum passe ou échoue. Ils sont là aujourd’hui, seront très probablement encore là en 2029, et seront encore là en 2057 si le transfert est à nouveau reporté.
+Les 97 672 fûts de Lanyu ne disparaîtront pas, que le référendum passe ou non. Ils sont là maintenant, ils y seront probablement encore en 2029, et ils y seront encore en 2057 (si le transfert est à nouveau reporté).
 
-✦ **Le 23 août 2025, le référendum a échoué. Le 27 mars 2026, Taipower a tout de même déposé son dossier. Entre ces deux dates, les limites physiques n’ont pas changé une seule fois. Ce qui a changé, c’est notre volonté, ou non, de reconnaître que cette île dont 98 % de l’énergie dépend des importations fait la queue pour affronter toutes les limites physiques que personne ne veut regarder en face.**
+✦ **Le 23 août 2025, le référendum a échoué. Le 27 mars 2026, Taipower a tout de même déposé son dossier. Entre ces deux dates, les limites physiques n'ont pas changé une seule fois. Ce qui a changé, c'est notre volonté de reconnaître que cette île dont 98 % de l'énergie dépend des importations fait la queue pour affronter toutes les limites physiques que personne ne veut affronter.**
 
 ---
 
-**Lectures complémentaires** :
+**Pour aller plus loin** :
 
-- [Histoire du mouvement environnemental taïwanais](/fr/nature/taiwan-environmental-movement-history) — Du mouvement antinucléaire à la lutte contre la pollution de l’air, comment les Tao de Lanyu, le mouvement anti-barrage de Meinong et le référendum sur les récifs algaires ont façonné la politique énergétique actuelle
-- [Gouvernance de la pollution marine et défis de conservation à Taïwan](/fr/nature/marine-pollution-governance-and-conservation) — 80 % de coraux blanchis à la sortie d’eau de la centrale nucléaire no 3, déchets marins et croisement écologique de l’éolien en mer
-- [Sources chaudes et géothermie à Taïwan](/fr/nature/taiwan-hot-springs-and-geothermal-energy) — De l’échec de Qingshui en 1981 à sa relance en 2024, comment s’est formé un silence géothermique de 30 ans
-- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, récifs algaires, Meinong : la politique de répartition des coûts de la transition énergétique
-- [Transformation et montée en gamme de l’industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De l’industrie manufacturière énergivore aux industries vertes, le compte énergétique de TSMC, RE100, CBAM et de la « montagne sacrée protégeant le pays »
-- [Modernisation de l’agriculture taïwanaise](/fr/economy/taiwan-agricultural-modernization) — Les pressions de transformation agricole et les conflits d’usage des sols derrière l’agrivoltaïsme
-- [Pluie de prunes](/fr/nature/meiyu-stagnant-front) — Observation locale du changement climatique : « les pluies de printemps ne viennent plus, les pluies de prunes se concentrent »
+- [Taïwan et le débat sur le nucléaire](/fr/society/taiwan-nuclear-debate) — Cet article traite de l'énergie et des limites physiques, l'autre traite du débat sur le nucléaire lui-même : quarante ans d'anti-nucléaire/pro-nucléaire, trois référendums et la lutte sociale autour des déchets nucléaires de Lanyu
+- [Histoire du mouvement environnemental à Taïwan](/fr/nature/taiwan-environmental-movement-history) — De l'anti-nucléaire à l'anti-pollution de l'air, comment les Tao de Lanyu, l'opposition au barrage de Meinong et le référendum sur les récifs d'algues ont façonné la politique énergétique d'aujourd'hui
+- [Gouvernance et défis de conservation de la pollution marine à Taïwan](/fr/nature/marine-pollution-governance-and-conservation) — 80 % de blanchiment des coraux à la sortie d'eau de la centrale no 3, déchets marins et carrefour écologique de l'éolien en mer
+- [Sources chaudes et géothermie à Taïwan](/fr/nature/taiwan-hot-springs-and-geothermal-energy) — De l'échec de la géothermie de Chingshui en 1981 à son redémarrage en 2024, comment 30 ans de silence géothermique se sont formés
+- [Justice environnementale et conflits NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, récifs d'algues, Meinong : la politique de répartition des coûts de la transition énergétique
+- [Transformation et mise à niveau industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufacture à haute intensité énergétique à l'industrie de l'énergie verte, le compte énergétique de TSMC RE100, CBAM, la montagne sacrée protectrice du pays
+- [Arbres d'alignement de Taïwan](/lifestyle/台灣行道樹) — L'ombrage des arbres d'alignement comme adaptation aux îlots de chaleur urbains, position et échelle temporelle : un arbre a besoin d'au moins dix ans pour grandir assez pour faire de l'ombre, c'est l'élément le plus urgent sur cette ligne
+- [Développement de la modernisation agricole de Taïwan](/fr/economy/taiwan-agricultural-modernization) — Pressions de transformation agricole et conflits d'utilisation des terres derrière l'agrivoltaïsme
+- [Pluie de mousson](/fr/nature/meiyu-stagnant-front) — Observation locale du changement climatique : « pas de pluie au printemps, mousson concentrée »
+- [Mécanisme des prix du pétrole à Taïwan et CPC](/economy/台灣油價機制與中油) — Tiraillement entre subventions aux combustibles fossiles et signaux d'économie d'énergie : le gel des prix rend l'essence bon marché au litre pour tous, plus on en utilise plus on économise, et personne n'a calculé qui en a le plus profité ces six derniers mois.
 
 ## Sources des images
 
