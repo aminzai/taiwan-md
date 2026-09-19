@@ -131,6 +131,11 @@ def check_track_record(days: int = 2) -> dict:
                     continue
                 if r.get("ts", "") < cut:
                     continue
+                if r.get("event") or "ok" not in r:
+                    # cascade_exhausted / cap_reached 等事件列不是嘗試——2026-09-20 前
+                    # 這裡把 26 筆 exhausted 事件當成 worker「?」的 26 次失敗印出
+                    # 「? × en = 0%」（babel-weak-lanes.py 早有同一條豁免，兩處判準對齊）
+                    continue
                 worker = r.get("worker", "?")
                 # 同一個 fleet label 會隨 workload profile 換模型；只按 label 聚合
                 # 會把舊 12b 與新 32b 的實績混成一條，讓「切軌或換模型」失去依據。

@@ -197,3 +197,27 @@ def test_validate_footnotes_rejects_markdown_in_translated_title():
     assert MODULE.validate_footnotes(defs, translated) == [
         "footnote 1: title contains markdown/newline"
     ]
+
+
+def test_translate_frontmatter_copies_subcategory_verbatim_from_zh():
+    """subcategory 是分類頁的分群鍵（buildSubcategoryGroups 完全比對），譯文必須
+    原樣保留 zh 值；2026-09-20 前 Phase F 會查 i18n 表或送模型翻，全庫 1,795 篇
+    因此掉進「其他」組（OBSERVER-QUEUE #51）。"""
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            import json
+            payload = json.loads(user)
+            assert "subcategory" not in payload, "subcategory 不該再進 prompt"
+            out = {k: f"vi:{v}" if isinstance(v, str) else [f"vi:{t}" for t in v]
+                   for k, v in payload.items()}
+            return json.dumps(out, ensure_ascii=False)
+
+    zh_fm = {
+        "title": "周蕙", "description": "歌手", "subcategory": "歌手",
+        "category": "Music", "tags": ["a", "b"], "date": "2026-01-01",
+    }
+    block = MODULE.translate_frontmatter(zh_fm, "", "Music/周蕙.md", "vi", Backend(), {})
+    assert "subcategory: '歌手'" in block
+    assert "title: 'vi:周蕙'" in block

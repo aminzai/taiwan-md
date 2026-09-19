@@ -867,6 +867,62 @@ def load_exclusions(path: Path | None, log: "Logger") -> set:
         return set()
 
 
+class ExclusionCache:
+    """去重清單的即時視圖，給 claim 時的 hard gate 用（2026-09-20）。
+
+    09-19 把「每 90 分鐘重算」接進 dispatcher，但接在**輪次開頭**——而一輪是
+    10 × worker 數 × 語言數（12 語 × 5 worker = 560 篇），實跑 12.6 小時還在
+    Round 1，重算一次都沒發生。清單只在 build_worklist 用一次，輪中另一台機器
+    推上來的譯文完全看不見。修法把「讀清單」跟「用清單」都搬到 claim 時：
+    本類按 mtime 快取（檔案沒變不重讀），refresher 執行緒負責讓檔案變。
+    """
+
+    def __init__(self, path: Optional[Path], log: "Logger"):
+        self.path = path
+        self.log = log
+        self._mtime: Optional[float] = None
+        self._set: set = set()
+        self._lock = threading.Lock()
+
+    def current(self) -> set:
+        if self.path is None:
+            return set()
+        try:
+            mtime = self.path.stat().st_mtime
+        except OSError:
+            mtime = None
+        with self._lock:
+            if mtime != self._mtime:
+                self._set = load_exclusions(self.path, self.log)
+                self._mtime = mtime
+                self.log(f"  exclude-file 重新載入：{len(self._set)} (lang, zh) pairs（claim 時即時生效）")
+            return self._set
+
+    def excluded(self, lang: str, zh_path: str) -> bool:
+        cur = self.current()
+        return (lang, zh_path) in cur or ("*", zh_path) in cur
+
+
+def start_exclusion_refresher(path: Optional[Path], log: "Logger",
+                              stop: threading.Event, poll_s: float = 60.0) -> Optional[threading.Thread]:
+    """背景執行緒：每 poll_s 看一次去重清單的檔齡，過期就重算（原本只在輪次
+    開頭做，長輪次下等於永不重算）。daemon，主執行緒收工它就跟著走。回傳
+    thread 方便三重巡檢的第五問對執行緒數（現在是 worker 數 + 主 + 本執行緒）。"""
+    if path is None:
+        return None
+
+    def _loop() -> None:
+        while not stop.wait(poll_s):
+            try:
+                refresh_exclusions_if_stale(path, log)
+            except Exception as e:  # noqa: BLE001
+                log(f"  ⚠️ exclusion refresher 例外（沿用舊清單）：{e}")
+
+    t = threading.Thread(target=_loop, name="exclusion-refresher", daemon=True)
+    t.start()
+    return t
+
+
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
                     fail_counts: dict | None = None, max_zh_bytes: int | None = None,
                     log: Logger | None = None, exclude: set | None = None) -> list:
@@ -1650,11 +1706,14 @@ def make_restricted_task_filter(worker: Worker, state: RunState, report: JsonlWr
     return _eligible
 
 
-def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: Logger):
-    """Compose the two hard gates a worker can carry: Tier 6/7 eligibility
-    (make_restricted_task_filter) and the per-worker language skip list
-    (`--worker-skip-langs`, 2026-09-19). Either alone returns its own
-    closure; both present → AND; neither → None (unrestricted).
+def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: Logger,
+                     excl_cache: Optional["ExclusionCache"] = None):
+    """Compose the hard gates a worker can carry: Tier 6/7 eligibility
+    (make_restricted_task_filter), the per-worker language skip list
+    (`--worker-skip-langs`, 2026-09-19), and the live origin dedupe list
+    (`ExclusionCache`, 2026-09-20 — same gate for every worker, so a pair
+    that origin has since translated is dropped by whoever claims it, mid-round).
+    Absent gates return None (unrestricted); present ones → AND.
 
     為什麼有 skip list：SQUEEZE §模型×語言適配寫「弱適配開專軌繞過，不要加大
     重試」，但統一調度器沒有軌可切——preflight 連夜報 gemma4:e4b × ar 6%／× pt
@@ -1663,24 +1722,27 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
     的語言；starvation guard 在 main() 做（某語言不能被所有 worker 同時跳過）。
     """
     tier_filter = make_restricted_task_filter(worker, state, report, log)
-    if not worker.skip_langs:
-        return tier_filter
     skip = worker.skip_langs
+    live_excl = excl_cache if (excl_cache is not None and excl_cache.path is not None) else None
+    if not skip and live_excl is None:
+        return tier_filter
 
-    def _lang_ok(lang: str, zh_path: str) -> bool:
-        if lang in skip:
+    def _ok(lang: str, zh_path: str) -> bool:
+        if skip and lang in skip:
+            return False
+        if live_excl is not None and live_excl.excluded(lang, zh_path):
             return False
         return tier_filter(lang, zh_path) if tier_filter is not None else True
 
-    return _lang_ok
+    return _ok
 
 
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
                  engine: str = "whole", no_patch: bool = False,
-                 no_noop_bump: bool = False) -> None:
-    task_filter = make_task_filter(worker, state, report, log)
+                 no_noop_bump: bool = False, excl_cache: Optional["ExclusionCache"] = None) -> None:
+    task_filter = make_task_filter(worker, state, report, log, excl_cache)
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -1715,6 +1777,29 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
                 pass
             with state.lock:
                 state.in_flight.discard(f"{lang}:{zh_path}")
+        flush_stale_pending(state, no_commit, log)
+
+
+PENDING_FLUSH_AGE_S = 5400   # 零頭放超過 90 分鐘就 commit（同 process_task 內的年齡門檻與輪末 flush）
+
+
+def flush_stale_pending(state: RunState, no_commit: bool, log: Logger,
+                        max_age_s: float = PENDING_FLUSH_AGE_S) -> list:
+    """任一 worker 做完一篇後，掃**所有**語言的零頭，放超過 max_age_s 的就 commit。
+
+    2026-09-20：既有的年齡檢查只在「同一語言下一次成功」時算，輪末 flush 又只在
+    輪次結束跑。ar 的 7 篇 15:19 起懸在工作樹，nemo 切軌後 ar 八小時零成功，
+    沒有人替它算年齡——被 launchd 重啟或並行 session 的 merge 掃到就是 09-18
+    那種打撈工。回傳本次 flush 的語言清單（方便測試）。
+    """
+    now = time.monotonic()
+    with state.lock:
+        due = [lang for lang, since in state.pending_since.items()
+               if since is not None and now - since >= max_age_s and state.pending_ok.get(lang, 0) > 0]
+    for lang in due:
+        log(f"  零頭 {lang} 懸空超過 {max_age_s/60:.0f} 分鐘（{state.pending_ok.get(lang, 0)} 篇）— 跨語言年齡 flush")
+        do_commit(lang, state, no_commit, log)
+    return due
 
 
 # ────────────────────────── main ──────────────────────────
@@ -1864,6 +1949,13 @@ def main() -> None:
     for w in workers:
         if w.skip_langs:
             log(f"  worker {w.label}: skip_langs={','.join(sorted(w.skip_langs))}（弱適配切軌）")
+    # 去重清單即時視圖＋背景重算（2026-09-20）：輪次開頭那一次重算在 12 小時的
+    # 長輪次裡從沒輪到；改成 refresher 每分鐘看檔齡、worker 在 claim 時讀最新清單。
+    excl_cache = ExclusionCache(args.exclude_file, log)
+    excl_stop = threading.Event()
+    excl_thread = start_exclusion_refresher(args.exclude_file, log, excl_stop)
+    if excl_thread is not None:
+        log(f"  exclusion refresher 執行緒已啟動（每 60s 看檔齡，門檻 {EXCLUDE_REFRESH_MIN} 分鐘）")
     if any(w.tier != "normal" for w in workers):
         log(f"  tier6_nightly_cap={args.tier6_nightly_cap} tier7_nightly_cap={args.tier7_nightly_cap} "
             "(OBSERVER-QUEUE #18，2026-09-05 拍板)")
@@ -1964,7 +2056,8 @@ def main() -> None:
             futures = [
                 pool.submit(worker_loop, w, workers, queue, state, report, freezes,
                             args.no_commit, args.commit_every, log,
-                            engine=args.engine, no_patch=args.no_patch, no_noop_bump=args.no_noop_bump)
+                            engine=args.engine, no_patch=args.no_patch, no_noop_bump=args.no_noop_bump,
+                            excl_cache=excl_cache)
                 for w in workers
             ]
             for f in futures:

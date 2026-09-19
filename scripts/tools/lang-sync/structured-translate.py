@@ -10,7 +10,7 @@ structured-translate.py — Structured segmented translation engine (pilot, 2026
 
     - Frontmatter：passthrough 欄位（author/date/category/... 見 PASSTHROUGH，讀
       verify-translation.py 同源）工具機械複製，根本不進 prompt；只有 title/
-      description/tags（+ subcategory 缺 i18n 對照時）送模型。YAML 由工具組裝
+      description/tags 送模型（subcategory 是分群鍵，09-20 起原樣複製 zh）。YAML 由工具組裝
       （單引號 + 撇號雙寫跳脫），模型只回一段 JSON。
     - Footnotes：URL 與編號永遠不進 prompt，工具原樣保留；模型只收 {n, title, desc}
       JSON 陣列，只回 title/desc 譯文。條數 / URL byte-equal / 編號集合在構造上保證
@@ -291,32 +291,27 @@ def git_short_sha(zh_rel_path: str) -> str:
 
 def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
                            backend, metrics: dict) -> str:
-    """Phase F. 只把 title/description/tags（+ subcategory 缺 i18n 對照時）送模型；
-    其餘欄位工具機械複製，永遠不進 prompt。回傳組好的 YAML frontmatter 區塊文字
-    （不含前後 --- fence，main() 負責包）。"""
-    sub_i18n = load_subcategory_i18n()
+    """Phase F. 只把 title/description/tags 送模型；其餘欄位工具機械複製，永遠
+    不進 prompt。回傳組好的 YAML frontmatter 區塊文字（不含前後 --- fence，
+    main() 負責包）。
+
+    subcategory 從 2026-09-20 起**原樣複製 zh 值**，不查 i18n 表也不送模型。
+    07-25 版把它當顯示標籤翻（查 `subcategory-i18n.json`，缺對照就送模型），
+    前提是 verify-translation.py 07-24 那條「subcategory 是 rendered label」的
+    註解；但分類頁 `buildSubcategoryGroups()` 是拿 frontmatter 值**完全比對**分群，
+    顯示文字才查 i18n 表（category-hub.template.astro）——翻過的值讓那篇自成一群、
+    再被併進「其他」。09-08 `subcategory-translation-parity` 上線時全庫 1,634 篇
+    已經這樣掉隊，09-20 量到 1,795 篇：存量在漲，漲的來源就是這個分支（統一調度器
+    的閘門只看 hard，這條是 WARN）。存量清理 >50 檔屬 OBSERVER-QUEUE #51 等哲宇；
+    本函式只堵新增。"""
 
     payload = {}
     for k in TRANSLATABLE_FM_FIELDS:
         if zh_fm.get(k) is not None:
             payload[k] = zh_fm[k]
 
-    subcat_source = zh_fm.get("subcategory")
-    subcat_mode = None       # 'i18n' (deterministic lookup) | 'model' (缺對照表, fallback)
-    subcat_final = None
-    if subcat_source:
-        mapped = sub_i18n.get(subcat_source, {}).get(lang)
-        if mapped:
-            subcat_mode = "i18n"
-            subcat_final = mapped
-        else:
-            # src/data/subcategory-i18n.json 目前只覆蓋 en/ja/ko/es/fr/vi/id/pt/hi
-            # 9 語，ar/ru 是缺口（2026-07-25 pilot 發現）。缺對照表時退化成跟
-            # title/description 同待遇送模型翻，而不是靜默留 zh 原文
-            # （既有 pipeline 在 hi/Food/taiwan-coffee-culture.md 就留了一個
-            # 「飲品文化」verbatim 沒翻的活案例 — 明明 i18n 表裡有 hi 對照）。
-            subcat_mode = "model"
-            payload["subcategory"] = subcat_source
+    # subcategory：分群鍵，原樣複製 zh 值（見 docstring）。不進 payload、不查表。
+    subcat_final = zh_fm.get("subcategory")
 
     lang_name = LANG_NAMES.get(lang, lang)
     system = (
@@ -330,8 +325,6 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
         "- 'title'/'description': natural accurate translation, no machine-translate "
         "tells, no added or invented facts.\n"
         "- 'tags': translate each tag value; the array length MUST stay identical.\n"
-        "- 'subcategory' (if present): a short category label (1-3 words), same "
-        "register as 'tags'.\n"
     )
     user = json.dumps(payload, ensure_ascii=False)
 
@@ -370,9 +363,6 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
             f"{', '.join(leaks)}. Re-translate ALL fields fully into {lang_name} — "
             "no Chinese characters should remain anywhere in the output."
         )
-
-    if subcat_mode == "model":
-        subcat_final = str(data.get("subcategory", subcat_source))
 
     lines: list[str] = []
     for key in zh_fm.keys():

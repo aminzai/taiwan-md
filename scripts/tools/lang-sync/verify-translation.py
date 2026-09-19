@@ -94,10 +94,13 @@ def _strip_ansi(s: str) -> str:
 
 
 # Frontmatter fields that MUST match between zh and en (passthrough)
-# NOTE: `subcategory` deliberately excluded (2026-07-24) — it's a rendered
-# taxonomy label (terminology page, graph.astro nodes), not an internal key,
-# so per-language subcategory-i18n.json translation is correct, not drift.
-# Canonical map: src/data/subcategory-i18n.json.
+# NOTE: `subcategory` 不在 PASSTHROUGH——但不是因為它該被翻（07-24 那條「它是
+# rendered label，翻了不算 drift」的前提已被分類頁的 buildSubcategoryGroups()
+# 證偽：分群拿 frontmatter 值完全比對，顯示才查 subcategory-i18n.json）。正確值
+# 是 zh 原值；把它放進 PASSTHROUGH 會讓既有 1,795 篇翻過的譯文在 patch 重驗時
+# 全部 hard fail、被 HEAD-restore 卡在 stale，那是 OBSERVER-QUEUE #51 的閾值決策。
+# 這裡先維持 WARN 級由 article-health `subcategory-translation-parity` 守；
+# 產線端 structured-translate.py 自 2026-09-20 起原樣複製 zh，存量不再增加。
 PASSTHROUGH = [
     "author", "date", "featured", "readingTime",
     "lastVerified", "lastHumanReview", "category",
