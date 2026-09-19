@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T22:08:40+08:00",
-    "zhCommitHead": "94ef5dc6c",
+    "lastUpdated": "2026-09-19T22:39:02+08:00",
+    "zhCommitHead": "a42d112ce",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 976,
-        "stale": 63,
+        "fresh": 977,
+        "stale": 62,
         "metadata_stale": 66,
         "missing": 19,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 948,
-        "stale": 52,
+        "fresh": 949,
+        "stale": 51,
         "metadata_stale": 11,
         "missing": 113,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 812,
-        "stale": 11,
+        "fresh": 813,
+        "stale": 10,
         "metadata_stale": 4,
         "missing": 297,
         "orphan": 0
@@ -5770,18 +5770,16 @@
         "vi": {
           "path": "vi/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce76",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-19T14:19:59.109302+00:00",
           "translationLastCommit": "5ce04bf5",
           "translationLastModified": "2026-08-09T09:51:37+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -6286,16 +6284,16 @@
         "hi": {
           "path": "hi/Music/chou-hui.md",
           "translatedFrom": "Music/周蕙.md",
-          "sourceCommitSha": "c40c53f61",
-          "sourceContentHash": "sha256:023ec1770793f2e9",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-18T11:14:04.684012+00:00",
+          "sourceCommitSha": "a2811a4f0",
+          "sourceContentHash": "sha256:76ee7588d6cf7537",
+          "sourceBodyHash": "sha256:14a031263a904f69",
+          "translatedAt": "2026-09-19T14:33:14.400287+00:00",
           "translationLastCommit": "38310753",
           "translationLastModified": "2026-09-18T22:34:06+08:00",
           "inferred": false,
-          "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "footnote-loss (40→39)"
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/chou-hui.md",
@@ -67419,8 +67417,8 @@
           "sourceContentHash": "sha256:9c58394edee36ee3",
           "sourceBodyHash": "sha256:d9cb22f28bb753df",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "8b7cb6d7",
-          "translationLastModified": "2026-07-25T05:59:13+08:00",
+          "translationLastCommit": "a42d112c",
+          "translationLastModified": "2026-09-19T22:08:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73050,8 +73048,8 @@
           "sourceContentHash": "sha256:e17f8ccac18bf65b",
           "sourceBodyHash": "sha256:65e86904ae441416",
           "translatedAt": "2026-09-19T14:08:18.219213+00:00",
-          "translationLastCommit": "c3219c49",
-          "translationLastModified": "2026-09-10T02:34:19+08:00",
+          "translationLastCommit": "a42d112c",
+          "translationLastModified": "2026-09-19T22:08:40+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -99330,18 +99328,16 @@
         "de": {
           "path": "de/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "26d30c32f",
-          "sourceContentHash": "sha256:6c3058ba108a44f9",
-          "sourceBodyHash": "sha256:1043d3e7799eba77",
-          "translatedAt": "2026-09-08T18:35:55+08:00",
+          "sourceCommitSha": "89b721a3d",
+          "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
+          "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
           "translationLastCommit": "89b721a3",
           "translationLastModified": "2026-09-18T21:24:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -187673,8 +187669,8 @@
           "sourceContentHash": "sha256:7af3421e7470e32a",
           "sourceBodyHash": "sha256:5c337ebcf1a5b681",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "7b0c2b4c",
-          "translationLastModified": "2026-08-05T05:32:56+08:00",
+          "translationLastCommit": "a42d112c",
+          "translationLastModified": "2026-09-19T22:08:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",

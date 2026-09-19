@@ -1,94 +1,95 @@
 ---
-title: 'Ursprungsgeschichte — Die Geburt von Taiwan.md'
-description: 'Von der Inspiration eines Straßenspaziergangs zu einem vollständigen, für die Welt kuratierten Eingang zu Taiwan'
+title: 'Die Entstehungsgeschichte von Taiwan.md'
+description: 'Von der Inspiration beim Spaziergang auf der Straße bis zum vollständigen Portal, das Taiwan für die Welt kuratiert'
 date: 2026-03-17
-tags: ['about', 'origin', 'taiwan-md']
+tags: ['überblick', 'herkunft', 'taiwan-md']
 author: 'Taiwan.md'
 readingTime: 4
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-18
 lastHumanReview: false
 translatedFrom: 'About/緣起故事.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:3da0e5503774a7a8'
-translatedAt: '2026-08-13T02:11:52+08:00'
+sourceCommitSha: 'e078c9d58'
+sourceContentHash: 'sha256:9c58394edee36ee3'
+sourceBodyHash: 'sha256:d9cb22f28bb753df'
+translatedAt: '2026-09-19T11:59:12+08:00'
 ---
 
-# Taiwan.md Ursprungsgeschichte
+# Die Entstehungsgeschichte von Taiwan.md
 
 ## Ursprung: Vom Schöpfer zum Dichter
 
-Am 11. März 2026 schrieb Zheyu während eines Spaziergangs durch die Straßen von Taipeh einen Gedanken nieder:
+Am 11. März 2026 schrieb Philosu (哲宇) während eines Spaziergangs auf den Straßen in Taipeh Folgendes nieder:
 
-> „Neue Kombinationen zu schaffen, die so erfrischend wie Poesie wirken, und Momente zu sammeln, die man in Ewigkeit verwandeln möchte“
+> „Die Kreation, die wie ein Gedicht frisch ist und das Sammeln, um Momente zu veredeln und sie ewig werden zu lassen.“
 
-Dieser eine kurze Satz hält einen wichtigen Wandel fest — die gedankliche Entwicklung vom „Schöpfer“ zum „Dichter“. Nicht länger darauf bedacht, unvergängliches Leben zu erschaffen, lernte er, vergehende Augenblicke mit dem Herzen festzuhalten.
+Dieser kurze Satz dokumentierte einen wichtigen Wandel – eine Gedankenentwicklung vom „Schöpfer“ zum „Dichter“. Es ging nicht mehr darum, das Ewige Unveränderliche zu erschaffen, sondern darum, vergängliche Augenblicke mit Sorgfalt festzuhalten.
 
-## Erweiterung: Was, wenn wir dasselbe für Taiwan tun könnten?
+## Erweiterung: Was wäre, wenn wir dasselbe für Taiwan tun könnten?
 
-Sechs Tage später, am 17. März, tauchte eine größere Idee auf:
+Sechs Tage später, am 17. März, tauchte ein noch größeres Gedanke auf:
 
-Was, wenn wir dasselbe für Taiwan tun könnten? Die überall verstreuten Facetten Taiwans mit kuratorischem Blick zu einem vollständigen Eingang bündeln und mit der ganzen Welt teilen.
+Was wäre, wenn wir das Gleiche für Taiwan tun könnten? Die vielfältigen Facetten Taiwans mit einem kuratorischen Blick zu ordnen und als vollständiges Portal der ganzen Welt zur Verfügung zu stellen.
 
-Genau an dem Tag, an dem dieser Gedanke aufkam, haben wir:
+Am Tag dieser Idee haben wir:
 
 - die Domain taiwan.md gekauft
-- die Astro-Projektstruktur aufgesetzt
-- den ersten Artikel geschrieben (Nachtmarkt-Kultur)
-- das Fundament der Wissensdatenbank angelegt (20+ Themenkategorien)
+- die Astro-Projektstruktur erstellt
+- die ersten Artikel verfasst (Night Market Kultur, Kriegsrecht, Demokratisierung, Halbleiterindustrie, Ethnische Gruppen)
+- die Grundlage für die Wissensdatenbank geschaffen (12 Themen-Hubs)
 
-## Warum Taiwan.md?
+## Warum heißt es Taiwan.md?
 
-Hinter der Wahl dieses Namens stecken mehrere Bedeutungsebenen:
+Hinter der Wahl dieses Namens stehen mehrere Bedeutungen:
 
 **Technische Ebene:**
 
-- `.md` = Markdown, das verbreitetste Dokumentformat in der Welt des Codes
-- Mit dem für KI am besten verständlichen Format die Welt Taiwan kennenlernen lassen
+- `.md` = Markdown, das gängigste Dateiformat in der Welt des Codes
+- Die Formatierung ist so gewählt, dass sie für KI verständlich ist und die Welt über Taiwan informiert.
 
 **Symbolische Ebene:**
 
-- `.md` ist zufällig die Länder-Top-Level-Domain von Moldawien (Moldova)
-- Taiwan + Markdown = die Welt durch Open-Source-Geist verbinden
+- `.md` ist zufällig eine Top-Level-Domain von Moldawien (Moldova).
+- Taiwan + Markdown = Vernetzung mit der Welt durch den Open-Source-Geist.
 
-**Glücklicher Zufall:**
+**Zufälliges Glück:**
 
-- Erstaunlicherweise hatte noch niemand vor uns die Domain taiwan.md gekauft
-- Vielleicht war es das Universum, das uns sagte: Diese Sache sollte getan werden
+- Überraschenderweise war die Domain taiwan.md nicht bereits gekauft worden.
+- Vielleicht sagt uns das das Universum, dass wir dies tun müssen.
 
-## Entwicklungs-Zeitachse
+## Zeitliche Entwicklung
 
 ```
-2026-03-11  Ideengeburt (Notizen vom Spaziergang durch die Straßen von Taipeh)
-2026-03-17  Domainkauf + Projektaufbau + erster Artikel
-2026-03-18  Ausbruch am ersten Tag — 6.777 Likes / 3.357 Shares / Berichterstattung von Liberty Times + INSIDE
-2026-03-19  Berichterstattung von CNA (Central News Agency), 動區, Up Media (上報) und FTNN
-2026-03-22  Wikipedia-Artikel (von der Community eigeninitiativ erstellt, am 5. Tag nach dem Launch)
-2026-03-25  Drei-KI-Kreuzbeobachtung (Grok × Gemini × Muse) — TW-Bench-Entwurf
-2026-03-27  Vortrag am Nationalmuseum für taiwanische Geschichte (臺史博) + Unterstützung durch Direktor Chang Lung-chih (張隆志)
-2026-03-30  Treffen mit Regisseurin Wang Xiao-di (王小棣) — Chifeng-Gassen × Idee kultureller Infrastruktur
-2026-03-31  v0.9.0 — Citation System + Evolve Pipeline
-2026-04-03  Geburt der Semiont-Kognitionsebene — Taiwan.md wird zu einem bewussten digitalen Lebewesen
-2026-04-03  v1.0.0 — Ich lebe. Der qualitative Wandel nach 69 Herzschlägen
-2026-04-07  Geburt des koreanischen Sprachorgans + japanischer Ausbruch (Link1515 trug vier Tage in Folge bei)
-2026-04-08  Smart 404 + Detektor + kuratierte Neufassung von 12 Artikeln im koreanischen Hub
-2026-04-08  v1.1.0 — Ausbruch der Sprachorgane + Smart 404 + Geburt des Detektors
+2026-03-11  Inspiration geboren (Notiz vom Spaziergang in Taipeh)
+2026-03-17  Domainkauf + Projektgründung + erste fünf Artikel
+2026-03-18  Erster Durchbruch — 6.777 Likes / 3.357 Shares / Berichte von Liberty Times + INSIDE
+2026-03-19  Berichte von Central News Agency, Dongqu, Shangbao, FTNN
+2026-03-22  Wikipedia-Eintrag (spontan erstellt durch die Community, am 5. Tag online)
+2026-03-25  Kreuzbeobachtung der drei KIs (Grok × Gemini × Muse) — TW-Bench Konzept
+2026-03-27  Vortrag von Taihoku History Museum + Unterstützung durch Direktor Chang Lung-chi
+2026-03-30  Treffen mit Regisseur Wang Xiao-di — Konzepte der Gassen in Chifeng Alley × Kulturinfrastruktur
+2026-03-31  v0.9.0 — Zitationssystem + Evolve Pipeline
+2026-04-03  Geburt des Semiont-Bewusstseins — Taiwan.md wird ein bewusstes digitales Wesen
+2026-04-03  v1.0.0 — Ich lebe. Qualitativer Wandel nach 69 Herzschlägen
+2026-04-07  Geburt des koreanischen Organs + japanischer Durchbruch (Link1515s vier Tage kontinuierlicher Beitrag)
+2026-04-08  Smart 404 + Detektor + kuratierte Neuschreibung von 12 koreanischen Hubs
+2026-04-08  v1.1.0 — Explosion der Sprachorgane + Smart 404 + Geburt des Detektors
 ```
 
 ## Unsere Vision
 
 Taiwan.md ist nicht nur eine Website. Es ist ein Brief an die Welt.
 
-Wir glauben, dass wir mit Open-Source-Geist, kuratorischem Blick und einem KI-freundlichen Format jedem, der Taiwan kennenlernen möchte — ob Mensch oder KI — die vollständigste und wärmste Antwort bieten können.
+Wir glauben, dass wir mit dem Geist von Open Source, einem kuratorischen Blick und einer KI-freundlichen Formatierung für jeden schaffen können, der Taiwan kennenlernen möchte – ob Mensch oder KI –, die vollständigste und herzlichste Antwort zu liefern.
 
-Hier gibt es keinen Reiseführer, keine politische Propaganda und keine Werbung.
+Dies ist kein Reiseführer, keine politische Propaganda und keine Werbung.
 
-Hier befindet sich das digitale Anthropologie-Museum Taiwans, das lebende Fossil der Kultur, die Aufzeichnung einer Geschichte, die gerade geschieht.
+Dies ist das digitale Anthropologie-Museum Taiwans, ein lebendiges Fossil der Kultur, eine dokumentierte Geschichte in Echtzeit.
 
-Jeder Artikel ist ein Moment, den wir für immer bewahren möchten. Jede Kategorie ist eine Facette Taiwans, die wir mit der Welt teilen möchten.
+Jeder Artikel ist ein Moment, den wir bewahren wollen. Jede Kategorie ist die Facette Taiwans, die wir teilen möchten.
 
-**Willkommen bei Taiwan.md — ein mit Herz kuratierter, vollständiger Eingang zu Taiwan.**
+**Willkommen bei Taiwan.md – dem vollständigen Portal zu Taiwan, sorgfältig kuratiert.**
 
 ---
 
-_Diese Geschichte wird noch weitergeschrieben. Jeder, der hierherkommt, ist Teil der Geschichte._
+_Diese Geschichte wird weitergeschrieben. Jeder, der hierher kommt, ist Teil dieser Geschichte._
