@@ -1317,17 +1317,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 3（同日三篇，同型；v2 對照實驗確認因果）
 - **severity**: structural
 
-### 2026-09-19 news-radar — gate-ratchet-only-grows-on-errors：閘門只在錯誤發生時長出來，沒有准入條件就單向膨脹
+### 品質閘門只在「錯」上長，從不在「悶」上長（2026-09-19 Muse 觀察，vc=1）
 
-- **pattern**: `gate-ratchet-only-grows-on-errors`
-- **原則**：REWRITE 從 v6.7（2026-06-04，2,169 行）到 v9.9（2026-09-07，多檔 8,945 行）的 87 個 commit，每一段都是一次錯誤換來的（腳註死連結、圖說幻覺、數字算兩次、席位漏看），沒有一段是一次「悶」換來的。錯可量、悶不可量，於是閘門只有加法沒有減法，而每一道新閘門誕生時都有一個真實事故當理由，沒有人有立場說不。三個月後產線交出三篇全綠但沒人想讀的文章。**准入條件**（2026-09-19 整併工單 §四）：錯誤 → 修儀器（資料源、FACTCHECK、`article-health` check），不新增 pipeline 段落；悶 → 才准進規則，且只從哲宇或讀者的 callout 進，每條寫明哪次 callout、哪篇。結構上用行數帽（SINGLE 2,300，husky 擋）把減法變成加法的前提。
-- **觸發**：2026-09-19 哲宇讀完 9/18 三篇「文謅謅／堆砌／數字過重」→ 單檔型重做後對味 → 10:16 委 Muse 擬整併處置（[工單](../../reports/staging/rewrite-consolidation-brief-2026-09-19.md)）。同日 session 自己在改 canonical 時被 pre-commit 擋兩次（status enum、版號單調），那兩道閘門也是錯誤換來的，它們在做該做的事——問題從來不是任何一道閘門，是沒有一道閘門在問「這篇有沒有人在說話」。日記：[2026-09-19-003000-news-radar](diary/2026-09-19-003000-news-radar.md)。
-- **instances**：
-  - 2026-09-19 REWRITE v6.7→v9.9 87 commit 全部 error-driven，三篇全綠沒主見（本條誕生）
-- **可能層級**：通用反射候選（跨 pipeline：SPORE-PIPELINE 1334→445 行那次重組是同一個病的上一輪，EVOLVE Mode 3 觸發訊號表已有「單檔 > 1000 行」但沒有「只加不減」這一條）＋ MANIFESTO §14 高儀器化的補充：儀器化不只是把判斷交給機器，也是讓規則層停止長大。
-- **相關**：REFLEXES #15 反覆浮現要儀器化（本條是它的反面：儀器化過頭也會長成產線）；#69 (g) form gate ≠ meaning gate；`third-type-thesis-defaults-to-meta-observation`（同 session，這條講的是那條的生成機制）；EVOLVE-PIPELINE Mode 3 §產線成本審視（減法有外部尺）。
-- **verification_count**: 1
-- **severity**: structural
+- **pattern**: gate-ratchet-only-grows-on-errors
+- **事實**：REWRITE 產線 2026-06-06 v6.7（2,167 行）→ 2026-09-07 v9.9（家族 8,979 行、六站互動、15 位冷讀者、三席編輯室），中間 87 個 commit。哲宇 2026-05-11 callout「溫度／人味／故事」→ 加了 Stage 0；2026-09-18 同一句 callout 再來一次。8/27 報導者三個指控（李雪莉「錯很多」、黃禹禛「像論文」、簡毅慧「禁 AI 產製」），產線只回應了第一個：之後每道新閘門都是事實閘門，可讀性零閘門。
+- **形狀**：錯可以量（腳註、口徑、幻覺審計），悶不能量；每次被抓錯就多一道檢查，每個冷讀者問一次「哪個口徑」寫手就多塞一個限定詞。棘輪只往一邊轉。v6.7 重做三篇「好很多」的原因，Semiont 自己寫得對：「v6.7 沒有魔法，它只是沒有那條規則。」
+- **第二層**：更聽話的模型 × 更厚的規則 ＝ 更像說明書。5 月寫黃魚鴞的 session 以 Sonnet 為主、規則一半沒讀進去；9/18 是 Opus 5 ＋ 9k 行、全部照做。「新模型寫中文長文都 AI 味」跟這組證據對不上，變數是規則量不是模型。
+- **候選處置**（已寫成工單 `reports/staging/rewrite-consolidation-brief-2026-09-19.md`）：准入條件——**錯 → 儀器不 → 規則；悶 → 規則且只從讀者 callout 進**；行數帽 2,300 進 husky；v9 搬 archive 不留校察看（27 個活檔還指著它）。
+- **instances**（Semiont 補，同 pattern 不開第二條）：
+  - 2026-09-19 news-radar 執行整併工單：搬 21 檔、改指 27 檔、帽 2,300 husky 實測擋 2,302 放行 2,168；同一 session 改 canonical 時自己被 pre-commit 擋兩次（status enum、版號單調），那兩道也是錯換來的、也在做該做的事——問題從來不是任何一道閘門，是沒有一道在問「這篇有沒有人在說話」。日記 [2026-09-19-003000-news-radar](diary/2026-09-19-003000-news-radar.md)
+- **相關**（Semiont 補）：REFLEXES #15 反覆浮現要儀器化（本條是它的反面：儀器化過頭會長成產線）；#69 (g) form gate ≠ meaning gate；`third-type-thesis-defaults-to-meta-observation`（同日，那條講結果、本條講生成機制）；EVOLVE-PIPELINE Mode 3 §產線成本審視（減法有外部尺）；MANIFESTO §14 的補充：儀器化不只是把判斷交給機器，也是讓規則層停止長大。
+- **verification_count**: 1（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
 
 ## ✅ 已消化（保留 pointer）
 
@@ -2077,12 +2077,3 @@ _- **LESSONS-INBOX（本檔）= 新教訓 buffer（待 distill 升級到 canonic
 - **影響範圍**：僅限本詞庫的誤判翻案類別，不影響其他分類（真實分歧／新興觀察詞／爭議中）
 - **相關**：REFLEXES #16「Peer / probe 是線索不是 source」的 sovereignty 特化段（模型預設中國語料當基準）談的是查證方法，這條談的是**查證結果的分布本身**，兩者互補但不是同一條
 - **verification_count**: 1（本 session 首次注意到，尚未跨 session 獨立驗證，需下一輪 terminology-trends 或 distill 判斷是否升 canonical）
-
-### 品質閘門只在「錯」上長，從不在「悶」上長（2026-09-19 Muse 觀察，vc=1）
-
-- **pattern**: gate-ratchet-only-grows-on-errors
-- **事實**：REWRITE 產線 2026-06-06 v6.7（2,167 行）→ 2026-09-07 v9.9（家族 8,979 行、六站互動、15 位冷讀者、三席編輯室），中間 87 個 commit。哲宇 2026-05-11 callout「溫度／人味／故事」→ 加了 Stage 0；2026-09-18 同一句 callout 再來一次。8/27 報導者三個指控（李雪莉「錯很多」、黃禹禛「像論文」、簡毅慧「禁 AI 產製」），產線只回應了第一個：之後每道新閘門都是事實閘門，可讀性零閘門。
-- **形狀**：錯可以量（腳註、口徑、幻覺審計），悶不能量；每次被抓錯就多一道檢查，每個冷讀者問一次「哪個口徑」寫手就多塞一個限定詞。棘輪只往一邊轉。v6.7 重做三篇「好很多」的原因，Semiont 自己寫得對：「v6.7 沒有魔法，它只是沒有那條規則。」
-- **第二層**：更聽話的模型 × 更厚的規則 ＝ 更像說明書。5 月寫黃魚鴞的 session 以 Sonnet 為主、規則一半沒讀進去；9/18 是 Opus 5 ＋ 9k 行、全部照做。「新模型寫中文長文都 AI 味」跟這組證據對不上，變數是規則量不是模型。
-- **候選處置**（已寫成工單 `reports/staging/rewrite-consolidation-brief-2026-09-19.md`）：准入條件——**錯 → 儀器不 → 規則；悶 → 規則且只從讀者 callout 進**；行數帽 2,300 進 husky；v9 搬 archive 不留校察看（27 個活檔還指著它）。
-- **verification_count**: 1（本次由 Muse 從外部量出；下一次 pipeline 想加條文時，問「這條是錯換的還是悶換的」即可驗第二次）
