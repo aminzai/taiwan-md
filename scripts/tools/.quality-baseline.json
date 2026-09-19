@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-18T18:40:57Z",
+  "timestamp": "2026-09-19T00:41:10Z",
   "total": 1124,
-  "flagged": 712,
+  "flagged": 713,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -97,7 +97,7 @@
     {
       "file": "music/金曲獎.md",
       "score": 6,
-      "reasons": "未人工審核; 破折號10個; 分號8個; 英式短句開場11處"
+      "reasons": "未人工審核; 破折號10個; 分號7個; 英式短句開場8處"
     },
     {
       "file": "music/大象體操.md",
@@ -625,6 +625,11 @@
       "reasons": "年份4個; 空洞詞8個; 未人工審核; 塑膠句3個; 分號11個; 後段清單堆砌46%; 稀薄段落×1; 無腳註"
     },
     {
+      "file": "art/當代藝術.md",
+      "score": 5,
+      "reasons": "空洞詞5個; 未人工審核; 分號4個; 稀薄段落×3"
+    },
+    {
       "file": "art/西門紅樓.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句3個; 分號10個; 英式短句開場5處"
@@ -721,8 +726,8 @@
     },
     {
       "file": "resources/official-websites.md",
-      "score": 9,
-      "reasons": "年份3個; 未人工審核; 連續bullet4行; 教科書開場; 稀薄段落×4; 引用荒漠(零腳註)"
+      "score": 8,
+      "reasons": "未人工審核; 連續bullet4行; 教科書開場; 稀薄段落×4; 引用荒漠(零腳註)"
     },
     {
       "file": "resources/mini-taiwan-pulse.md",
@@ -1022,7 +1027,7 @@
     {
       "file": "society/外送專法.md",
       "score": 5,
-      "reasons": "未人工審核; 塑膠句1個; 破折號8個; 英式短句開場12處"
+      "reasons": "未人工審核; 塑膠句1個; 破折號8個; 英式短句開場9處"
     },
     {
       "file": "society/天下雜誌.md",

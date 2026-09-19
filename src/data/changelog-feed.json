@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-09-18T18:40:48.176Z",
+  "generatedAt": "2026-09-19T00:41:00.933Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a61020722702079f8aa453680d0d48eacd065fde",
+      "date": "2026-09-19T03:05:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-19 02:41 — 巡邏三篇抓到兩起虛構事件與一位錯屆的藝術家，圖說看圖對出第二第三例",
+      "articles": []
+    },
+    {
+      "hash": "46526e805594039eaf873848da5bae3ab0453570",
+      "date": "2026-09-19T03:02:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 兩份巡邏查核檔的 audit 前 HEAD 改成 amend 後的 hash",
+      "articles": []
+    },
+    {
+      "hash": "1908213ff020879a2395d0cf83c6250dc9839fa5",
+      "date": "2026-09-19T03:02:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 巡邏的 C 級也要落 research 檔，不然抽樣指令看不見它巡過；當代藝術止血後登記 P2 重寫",
+      "articles": []
+    },
+    {
+      "hash": "f4d1643ac6a1545b6431165b747a3b2bacc59726",
+      "date": "2026-09-19T03:01:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 驗證站補「看圖一列」——圖說的每個可見原子要對著照片核，三篇同日現形讓這條教訓升到第三次",
+      "articles": []
+    },
+    {
+      "hash": "89e3c1d6c5d8eaf7692cb42d907d22b67660dfb3",
+      "date": "2026-09-19T03:00:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 低薪與油價兩篇圖說看圖對過——勞動部大門在松江路不在館前路，草港站那排數字是路邊招牌不是加油機",
+      "articles": [
+        {
+          "url": "/economy/台灣油價機制與中油",
+          "name": "台灣油價機制與中油"
+        },
+        {
+          "url": "/society/誰算低薪",
+          "name": "誰算低薪"
+        }
+      ]
+    },
+    {
+      "hash": "83975eef39f4659ca8a5a2a632d51992fb152fa8",
+      "date": "2026-09-19T02:59:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 外送專法——三個英文式短句開場併回段落，補上往「誰算低薪」的延伸閱讀",
+      "articles": [
+        {
+          "url": "/society/外送專法",
+          "name": "外送專法"
+        }
+      ]
+    },
+    {
+      "hash": "7701a486786d60386f224a3e5948fe77e84c9a06",
+      "date": "2026-09-19T02:58:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 金曲獎——三個英文式短句開場併回段落，補上往金鐘獎的延伸閱讀（#1748）",
+      "articles": [
+        {
+          "url": "/music/金曲獎",
+          "name": "金曲獎"
+        }
+      ]
+    },
+    {
+      "hash": "228056aba54ac26a8b60e3b6e5fbb4da4827388a",
+      "date": "2026-09-19T02:58:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏三篇——1995 年錢櫃大火查無此事、公平會從未放行錢櫃併好樂迪、許家維不是 2019 年威尼斯代表、里森畫廊沒有台北空間",
+      "articles": [
+        {
+          "url": "/art/當代藝術",
+          "name": "當代藝術"
+        },
+        {
+          "url": "/lifestyle/夜生活與KTV文化",
+          "name": "夜生活與KTV文化"
+        }
+      ]
+    },
+    {
+      "hash": "090441cd56f8d7327cd586cec9580fdc333f77ee",
+      "date": "2026-09-19T02:41:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 凌晨心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
     {
       "hash": "de3a0a56e3386cbb93e9822b9513d9ba90fea7e0",
       "date": "2026-09-19T02:30:11+08:00",
@@ -83068,86 +83159,6 @@
       "date": "2026-03-28T22:49:41+08:00",
       "author": "frank890417",
       "message": "feat: OG card pages at /og/[category]/[slug] — standalone 1200×630 card for social sharing",
-      "articles": []
-    },
-    {
-      "hash": "df9e4e93155b66d2305060de48adf8d3f49eb183",
-      "date": "2026-03-28T22:38:15+08:00",
-      "author": "frank890417",
-      "message": "docs: 孢子工廠 (docs/factory/) — 完整社群散播 pipeline",
-      "articles": []
-    },
-    {
-      "hash": "3ca6f9f6db6c9c80134fe9958dbd9270aa46654c",
-      "date": "2026-03-28T22:23:03+08:00",
-      "author": "frank890417",
-      "message": "feat(contribute): replace translation progress with CLI section + nav dropdown",
-      "articles": []
-    },
-    {
-      "hash": "2e45ea0f8d864ab4a2a7ae3321a509556e2abcb0",
-      "date": "2026-03-28T22:15:45+08:00",
-      "author": "frank890417",
-      "message": "feat(art): 台灣新媒體藝術終極版 — 合併3篇+深度研究+16位藝術家 (6000+字)",
-      "articles": [
-        {
-          "url": "/art/_Art Hub",
-          "name": "_Art Hub"
-        },
-        {
-          "url": "/art/台灣實驗與新媒體藝術",
-          "name": "台灣實驗與新媒體藝術"
-        },
-        {
-          "url": "/art/台灣新媒體藝術",
-          "name": "台灣新媒體藝術"
-        },
-        {
-          "url": "/art/新媒體藝術",
-          "name": "新媒體藝術"
-        }
-      ]
-    },
-    {
-      "hash": "79c525cd609200f1b0a7db4992ae730412733008",
-      "date": "2026-03-28T22:15:24+08:00",
-      "author": "frank890417",
-      "message": "chore(cli): add .npmrc to gitignore, fix bin path (npm pkg fix)",
-      "articles": []
-    },
-    {
-      "hash": "85bdb084e625170bb44402f88e1719444118a0f5",
-      "date": "2026-03-28T20:57:37+08:00",
-      "author": "frank890417",
-      "message": "feat(cli): Phase 3 — rag, contribute, validate + README update (v0.4.0)",
-      "articles": []
-    },
-    {
-      "hash": "735eebbdf8e350c06699d2d64037487e5504be6c",
-      "date": "2026-03-28T20:53:41+08:00",
-      "author": "frank890417",
-      "message": "feat(cli): Phase 2 — today, quiz, explore, diff, graph commands (v0.3.0)",
-      "articles": []
-    },
-    {
-      "hash": "488d9295ec50a79e5815a572123a2fa21864fcff",
-      "date": "2026-03-28T20:46:05+08:00",
-      "author": "frank890417",
-      "message": "feat(cli): Phase 1 — auto-sync, remote fallback, multilingual read (v0.2.0)",
-      "articles": []
-    },
-    {
-      "hash": "eccaefcde55c2b6c60273917983a9d3819185acc",
-      "date": "2026-03-28T19:08:14+08:00",
-      "author": "frank890417",
-      "message": "fix: tidy header z-index 9999→1001, dropdown 1000→1100",
-      "articles": []
-    },
-    {
-      "hash": "d2a5343ecedbbf29943eceeed3055d282e9c809e",
-      "date": "2026-03-28T19:07:54+08:00",
-      "author": "Terry",
-      "message": "fix: keep header above overlapping content (#269)",
       "articles": []
     }
   ]

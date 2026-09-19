@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T18:41:06.819Z",
+  "generated_at": "2026-09-19T00:41:19.615Z",
   "routines": {
     "fetched_at": "2026-09-09T06:16:02+08:00",
-    "stale_hours": 236.4,
+    "stale_hours": 242.4,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -66,7 +66,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -330,7 +330,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -405,7 +405,7 @@
         "cron": "30 8 * * *",
         "cadence_human": "每天 08:30",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-09-18T08:40:57+08:00",
         "grid14": [
           {
@@ -462,7 +462,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -726,7 +726,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -858,7 +858,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -924,7 +924,7 @@
           },
           {
             "date": "2026-09-19",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1306,13 +1306,13 @@
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "MEMORY.md 索引 inline 96 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "text": "MEMORY.md 索引 inline 97 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md"
     },
     {
       "ts": "2026-09-17",
       "level": "yellow",
-      "text": "routine-live-state.json dump 齡 236.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "text": "routine-live-state.json dump 齡 242.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json"
     },
     {
@@ -1324,29 +1324,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-18T18:30:59Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 誰算低薪 v2 收官——單檔 pipeline 實驗的低薪篇，論點換了、人找到了、數字退場"
-    },
-    {
-      "ts": "2026-09-18T18:15:45Z",
+      "ts": "2026-09-19T00:36:06Z",
       "conclusion": "success",
       "title": "Routine stall alert: Routine stall alert"
     },
     {
-      "ts": "2026-09-18T17:19:05Z",
+      "ts": "2026-09-18T21:26:24Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: golden-bell-v2 @ 2026-09-19 01:15 — 金鐘獎用單檔 pipeli…"
+      "title": "PR Content Review: translate(id): 台灣企業：台塑集團 → formosa-plastics-group"
     },
     {
-      "ts": "2026-09-18T17:11:31Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: oil-price-v2 @ 2026-09-19 01:12 — 油價機制照 v6.7 單檔 p…"
+      "ts": "2026-09-18T21:26:24Z",
+      "conclusion": "success",
+      "title": "PR Frontmatter Gate: translate(id): 台灣企業：台塑集團 → formosa-plastics-group"
     },
     {
-      "ts": "2026-09-18T16:33:58Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: LESSONS——第三型「不收束」規則讓三篇同日長出沒主見的後設論點，形式閘門全綠"
+      "ts": "2026-09-18T21:26:24Z",
+      "conclusion": "success",
+      "title": "Translation PR Check: translate(id): 台灣企業：台塑集團 → formosa-plastics-group"
+    },
+    {
+      "ts": "2026-09-18T21:22:15Z",
+      "conclusion": "success",
+      "title": "Translation PR Check: translate(vi): 臺灣的鯨豚 → cetaceans-of-taiwan"
     }
   ]
 }
