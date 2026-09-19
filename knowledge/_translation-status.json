@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T14:38:19+08:00",
-    "zhCommitHead": "e95a1b465",
+    "lastUpdated": "2026-09-19T14:40:18+08:00",
+    "zhCommitHead": "302e517e6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1022,
-        "stale": 69,
+        "fresh": 1023,
+        "stale": 68,
         "metadata_stale": 11,
         "missing": 22,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 930,
-        "stale": 70,
+        "fresh": 931,
+        "stale": 69,
         "metadata_stale": 11,
         "missing": 113,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 970,
+        "fresh": 971,
         "stale": 66,
         "metadata_stale": 15,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 800,
+        "fresh": 798,
         "stale": 19,
         "metadata_stale": 4,
-        "missing": 301,
+        "missing": 303,
         "orphan": 0
       }
     },
@@ -7229,18 +7229,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -35129,16 +35118,16 @@
         "en": {
           "path": "en/Art/contemporary-indigenous-art-taiwan.md",
           "translatedFrom": "Art/台灣原住民當代藝術.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:8e3303199d60c0c9",
-          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "5f683a19c",
+          "sourceContentHash": "sha256:95cf1ca6d1302123",
+          "sourceBodyHash": "sha256:a6d8e0ae74d03252",
+          "translatedAt": "2026-09-19T11:59:01+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (17→6)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/contemporary-indigenous-art-taiwan.md",
@@ -60153,18 +60142,16 @@
         "id": {
           "path": "id/Society/energy-poverty-and-cooling.md",
           "translatedFrom": "Society/冷氣與能源貧窮議題.md",
-          "sourceCommitSha": "2b1523b1c",
-          "sourceContentHash": "sha256:355af10a54c14130",
-          "sourceBodyHash": "sha256:f7547564791748fe",
-          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:089b9a12e2ebe8d8",
+          "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
+          "translatedAt": "2026-09-19T11:59:07+08:00",
           "translationLastCommit": "7f4b79c7",
           "translationLastModified": "2026-09-12T10:29:21+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+13 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/energy-poverty-and-cooling.md",
@@ -155818,8 +155805,8 @@
           "sourceContentHash": "sha256:ab0a67468952c0db",
           "sourceBodyHash": "sha256:45e92c81cd544142",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "302e517e",
+          "translationLastModified": "2026-09-19T14:38:23+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -156181,8 +156168,8 @@
           "sourceContentHash": "sha256:1c4df7a1034d9237",
           "sourceBodyHash": "sha256:decacb8f3924c150",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "302e517e",
+          "translationLastModified": "2026-09-19T14:38:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -156659,7 +156646,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-19T11:59:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -162119,18 +162117,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -189034,8 +189021,8 @@
           "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "b63eb591",
-          "translationLastModified": "2026-09-10T18:18:42+08:00",
+          "translationLastCommit": "302e517e",
+          "translationLastModified": "2026-09-19T14:38:23+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
