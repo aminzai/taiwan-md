@@ -1,173 +1,156 @@
 ---
-title: 'Cultura de mercado e mercados tradicionais de Taiwan'
-description: 'Do microcosmo da vida popular, vê-se a resiliência e a transformação da sociedade taiwanesa'
-date: 2026-03-18
-author: 'Taiwan.md'
+title: 'Cultura de mercado em Taiwan: um mercado não vende apenas alimentos, também preserva a memória da cidade'
+description: 'Dos mercados públicos da era colonial japonesa aos movimentos populacionais do pós-guerra, da relocalização do Mercado Jianguo aos pagamentos eletrônicos em Taipé, compreenda como os mercados tradicionais de Taiwan assumem simultaneamente o abastecimento alimentar, a economia popular, as relações comunitárias e a memória urbana, buscando seu próximo lugar entre segurança, conveniência e humanidade.'
+date: 2026-09-13
 category: 'Lifestyle'
-subcategory: '飲食生活'
 tags:
   [
-    'Mercados tradicionais',
-    'Cultura popular',
-    'Função social',
-    'Planeamento urbano',
-    'Economia comunitária',
+    'mercados tradicionais',
+    'cultura popular',
+    'memória urbana',
+    'transformação de mercados',
+    'vida comunitária',
   ]
-lastVerified: 2026-03-19
-lastHumanReview: false
+subcategory: '飲食生活'
+author: 'Taiwan.md Contributors'
 featured: false
+lastVerified: 2026-09-13
+lastHumanReview: false
+curation: 'incubating'
+image: '/article-images/lifestyle/nanmen-market-2023.webp'
+readingTime: 8
+rationale: "{'why_this_hook': '從南門、新富與建國三座市場切入，追蹤市場如何由衛生制度、人口移動與住商混合長成城市基礎設施；核心不是歌頌老市場，而是說明它為何值得在更新中保留選擇。', 'whats_excluded': '不把傳統市場寫成單純懷舊，也不把所有市場改建或數位化都視為成功；不沿用原稿未能對應文章頁的統計與泛稱案例。', 'where_it_hedges': '市場數量與營業額採經濟部計畫的特定統計口徑；歷史沿革分別依官方市場、文化機構與編輯媒體文章核對，不把單一市場經驗推論為全台市場。', 'whos_pushing_back': '文章同時呈現市場的衛生與安全問題、超市與網路通路的便利，以及都市更新對攤商、住戶、信仰與地方記憶造成的落差。'}"
 translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0334fef76cff5db1'
-sourceBodyHash: 'sha256:1f68acc56a66c3d5'
-translatedAt: '2026-07-25T15:39:18+08:00'
+sourceCommitSha: '5c8070d07'
+sourceContentHash: 'sha256:e0d72befdb935fe7'
+sourceBodyHash: 'sha256:35b8626f07740119'
+translatedAt: '2026-09-19T11:59:08+08:00'
 ---
 
-# Cultura de mercado e mercados tradicionais de Taiwan
+> **Resumo em 30 segundos:** os mercados tradicionais de Taiwan não são resquícios da cidade moderna, mas infraestruturas urbanas moldadas em conjunto por saúde pública, movimentos populacionais, economia popular e relações cotidianas. O Mercado Nanmen, o Mercado Xinfu e o Mercado Jianguo mostram que mercados podem ser reformados, relocalizados e digitalizados, mas o que realmente precisa ser preservado não são os velhos edifícios escuros, mas a rede de vida que permite às pessoas encontrar alimentos, conhecimento e confiança mútua.
 
-Às cinco e meia da manhã, os feirantes do Mercado Dongmen já começam a arrumar as frutas e legumes do dia.
-A avó empurra o carrinho de compras devagar, para na banca familiar e, sem precisar dizer uma palavra, a vendedora já sabe o que ela quer.
-Não é apenas uma transação; é um diálogo humano que dura décadas.
-Em Taiwan, os mercados tradicionais nunca foram apenas locais de compra e venda; são o microcosmo da vida popular, o veículo das emoções comunitárias, as testemunhas da memória urbana.
+# Cultura de mercado em Taiwan: um mercado não vende apenas alimentos, também preserva a memória da cidade
 
-## Sedimentação histórica: de aglomerados de feirantes a mercados institucionalizados
+Em 1909, moradores da área fora do Portão Sul de Taipé, por ficarem longe de Dadaocheng e Wanhua, começaram a se reunir para fazer compras perto do portão da cidade. Em 1935, o Mercado Xinfu de Wanhua abriu as portas com mais de 30 bancas; em 1972, o Mercado Jianguo de Taichung empilhou mercado, moradia e fé em um mesmo edifício.[^1] [^2] [^3]
 
-A origem dos mercados tradicionais de Taiwan remonta aos mercados de rua e feiras de adro de templos do período Qing.
-Naquela época, os comerciantes reuniam-se ao longo das estradas principais ou nos arredores dos templos, formando espaços de troca naturais.
-Esses mercados iniciais carregavam a lógica de troca da sociedade agrária — agricultores traziam seus próprios vegetais e frutas, artesãos levavam suas ferramentas feitas à mão, encontravam-se em horários e locais fixos para uma dupla troca de mercadorias e afetos.
+Esses três anos explicam algo contra-intuitivo: os mercados tradicionais não são resíduos fora da cidade moderna. Eles sempre foram infraestrutura urbana moldada em conjunto por planejamento urbano, saúde pública, movimentos populacionais e vida familiar.
 
-Durante o período de domínio japonês, o Governo-Geral de Taiwan, visando «melhorar a higiene» e «gestão modernizada», começou a incorporar esses aglomerados dispersos de feirantes no sistema de planeamento urbano.
-Após 1895, o governo japonês estabeleceu gradualmente um sistema de mercados modernizados, delimitando terrenos fixos para mercados, definindo normas para bancas e criando mecanismos de gestão.
-Embora esse processo tenha trazido melhorias na ordem e na higiene, também marcou uma importante inflexão: a transição dos mercados tradicionais de uma agregação natural para uma gestão institucionalizada.
+![Bancas do primeiro andar do Mercado Nanmen, a arquitetura do mercado e os feirantes registram juntos a transformação da cidade. Fonte da imagem: Governo da Cidade de Taipé, Wikimedia Commons; Licença de Dados Abertos do Governo da Cidade de Taipé](/article-images/lifestyle/nanmen-market-2023.webp)
 
-Após a guerra, o Governo Nacionalista deu continuidade e desenvolveu esse sistema de mercados.
-A partir dos anos 1950, com base em considerações como «melhorar a higiene», «estabilizar preços» e «aumentar as finanças locais», o governo construiu em grande quantidade mercados públicos.
-Segundo estatísticas do Ministério da Economia de 2019, existiam 834 mercados tradicionais públicos e privados em toda Taiwan; esses mercados não apenas resolveram o problema urbano da proliferação de feirantes, mas, mais importante, desempenharam uma função de assistência social — através do arrendamento pelo governo, permitiram que pessoas em situação de pobreza pudessem empreender com uma barreira de entrada relativamente baixa.
+📝 Nota do curador: o que mais vale a pena preservar em um mercado não é o adjetivo "velho", mas como ele faz uma cidade ser usada, ser lembrada.
 
-## Função social: não apenas espaços de compra e venda
+## Da concentração à beira da rua ao mercado público
 
-Ao entrar em qualquer mercado tradicional de Taiwan, você descobrirá que suas funções sociais vão muito além das transações comerciais superficiais.
-O mercado é um centro de troca de informações; as senhoras discutem nas bancas de legumes qual loja tem produtos mais frescos, onde há promoções, e ao mesmo tempo trocam fofocas de vizinhança e notícias familiares.
-Essas interações que parecem conversa fiada, na verdade, constroem a rede social da comunidade.
+No período Qing, o comércio podia ocorrer em pátios de templos, ruas ou bordas de aglomerados. Esse tipo de mercado operava segundo rotinas familiares e costumes locais, não necessariamente tinha edifícios fixos, nem era gerido por uma única instituição. No início do período colonial japonês, o Governo-Geral ainda manteve parte das práticas antigas. Após a peste bubônica de 1896, a higiene dos mercados tornou-se questão de governança, e a partir de 1904 impulsionou-se gradualmente a reforma dos mercados.[^4]
 
-Para muitos idosos, o mercado é, sobretudo, um importante espaço de sociabilidade.
-Não têm pressa em terminar as compras; desfrutam do processo de interação com feirantes e outros clientes.
-Esse ritmo de «vida lenta» contrasta fortemente com a alta eficiência dos supermercados modernos.
-O calor humano do mercado manifesta-se no feirante que lembra as preferências dos clientes habituais, que dá um pouco mais de legumes nos dias de tufão, que aceita fiado quando o cliente está apertado.
-Essas pequenas interações acumulam-se num capital social difícil de quantificar, mas extremamente precioso para a comunidade.
+A reforma não consistia apenas em mover bancas para interiores. Introduziu simultaneamente regras de mercado, gestão de bancas, taxas de saúde pública e divisão profissional de trabalho. No período Taisho, a meta dos mercados expandiu-se da mera melhoria da higiene para torná-los órgãos econômicos eficientes.[^4]
 
-O mercado é também um local importante de transmissão cultural.
-Aqui, feirantes mais velhos ensinam os mais novos a escolher ingredientes, a lidar com vegetais e frutas de diferentes estações.
-Mães que levam os filhos ao mercado não estão apenas a cumprir uma tarefa doméstica, mas a transmitir sabedoria de vida.
-Nesse processo, as crianças aprendem a distinguir a qualidade dos ingredientes, a compreender a relação entre estações e alimentação, a vivenciar a calorosa interação entre pessoas.
+O Mercado Xinfu é a materialização concreta desse sistema. Inaugurado em 1935, além de bancas de carne, peixe fresco, legumes e mercearia, contava com escritórios, dormitórios, estacionamento, depósito de lixo e banheiros públicos. Sua planta em forma de ferradura e o poço de luz central permitiram que ventilação, iluminação natural e fluxo de compras fossem incorporados ao desenho.[^2]
 
-## Ecologia económica: o microcosmo da economia popular
+Esses arranjos mostram que o mercado nunca foi mero conjunto de bancas. É uma tecnologia urbana que coloca alimentos, higiene, transporte, gestão e vida de vizinhança no mesmo espaço.
 
-Sob a ótica da economia, os mercados tradicionais apresentam uma ecologia microeconómica relativamente completa.
-Aqui existe a mais direta relação de oferta e procura — vegetais e frutas da estação têm preços baixos, produtos escassos veem os preços subirem.
-Os feirantes precisam captar com aguçada sensibilidade as tendências do mercado, ajustar estratégias de abastecimento; essa intuição de mercado costuma ser mais precisa do que modelos económicos complexos.
+📝 Nota do curador: a arquitetura de um mercado costuma dizer com mais honestidade do que slogans urbanos o que as pessoas da época acreditavam ser a "boa vida".
 
-A concorrência no mercado é suave e humanizada.
-Embora bancas de produtos semelhantes possam ficar lado a lado, os feirantes costumam formar uma espécie de entendimento tácito e relação de cooperação.
-Cuidam das bancas uns dos outros, partilham informações de mercado, apoiam-se mutuamente quando o movimento está fraco.
-Esse modelo de negócio de «concorrência com cooperação» reflete a característica cultural taiwanesa de «coexistência harmoniosa».
+## Mercado Nanmen: como o movimento populacional mudou uma mesa
 
-Para muitas pequenas e médias empresas e economias familiares, o mercado oferece uma importante plataforma de empreendedorismo.
-Comparado a abrir uma loja, alugar uma banca no mercado tem custo relativamente mais baixo e é mais fácil criar uma clientela fixa.
-Muitas marcas alimentares de sucesso começaram a partir de bancas de mercado.
-Essa característica de «empreendedorismo de baixa barreira» faz do mercado um importante canal de mobilidade social.
+A história do Mercado Nanmen é como uma história populacional de Taipé em miniatura. O Mercado Fora do Portão Sul, fundado em 1909, servia inicialmente aos novos moradores que aumentavam gradualmente na área fora do Portão Sul, abastecendo também o cotidiano de funcionários japoneses e moradores taiwaneses; em 1922, com a reforma de nomes de bairros em Taipé, a área passou a se chamar Chitose-chō, e o mercado foi renomeado Mercado Chitose-chō. Após a guerra, o mercado voltou a se chamar Mercado Nanmen; depois de 1949, com a população que veio com o governo para Taiwan, trouxeram memórias alimentares de várias regiões, fazendo o mercado formar a característica de encontro entre produtos do norte e do sul, comidas prontas e culinária dos continentais.[^1] [^5]
 
-## Memória espacial: fósseis vivos da cultura urbana
+Os "produtos do norte e do sul" aqui não são sabores regionais abstratos, mas secos e molhados, frutos do mar, bolos e molhos que se podem segurar na mão. O mercado transformou a memória dos migrantes em alimentos que podiam ser comprados, cozinhados e postos à mesa de casa.
 
-Cada mercado tradicional carrega memórias urbanas específicas e características locais.
-O Mercado Nanmen de Taipé é famoso pela culinária de fora da província, refletindo a cultura alimentar dos imigrantes _waishengren_ após 1949;
-O Mercado Dongcai de Tainan preserva grande quantidade de petiscos tradicionais, testemunhando a tradição gastronômica da antiga capital.
-Esses mercados não são apenas espaços comerciais, mas componentes importantes da paisagem cultural.
+Em 1969, o Mercado Nanmen mudou-se temporariamente para a Rua Nanhai devido a obras municipais. Em 1981, os feirantes voltaram ao mercado recém-construído. O primeiro andar e o subsolo mantiveram a função de mercado, o segundo andar incorporou espaço de lojas de departamento e alimentação. Essa reforma mostra que o mercado não tem apenas as opções "preservar" ou "desaparecer"; também pode, através de reconfiguração, ajustar seu papel na cidade.[^5]
 
-A forma arquitetónica dos mercados reflete também o pensamento de planeamento urbano de diferentes períodos.
-Os mercados iniciais adotavam sobretudo desenho aberto, enfatizando ventilação e iluminação natural;
-Os mercados construídos posteriormente dão mais atenção a instalações modernizadas e eficiência de gestão.
-Essas transformações arquitetónicas registram a trajetória do desenvolvimento urbano de Taiwan.
+No entanto, a reforma nem sempre é eficaz. Em 2012, laudo detectou problema de concreto com areia do mar no edifício; o Mercado Nanmen, acompanhando as obras do metrô, foi demolido, entrou primeiro no mercado de transição, e só em 2023 reabriu em novo edifício para operação experimental. A continuidade do mercado, portanto, não existe apenas nas paredes originais, mas em saber se feirantes, mercadorias, clientes e marca conseguem atravessar juntos a relocalização.[^1] [^5]
 
-Alguns mercados com longa história tornaram-se até símbolos culturais da cidade.
-Não servem apenas os moradores locais, mas também atraem turistas de fora que vêm experimentar o «verdadeiro sabor de Taiwan».
-O desenvolvimento dessa função de turismo cultural injetou nova vitalidade nos mercados tradicionais e forneceu material importante para a promoção da cidade.
+## O mercado vende ingredientes, também vende "como viver"
 
-## Desafios modernos: em busca de novos caminhos na transformação
+O Ministério da Economia descreve os mercados tradicionais como centros iniciais de atividade comercial local e centros de abastecimento de bens de primeira necessidade do povo. Seu plano de elevação aprovado em 2020 registra que, em toda Taiwan, há 577 mercados públicos e áreas concentradas de ambulantes legalmente supervisionados, 81.819 bancas, cerca de 190 mil trabalhadores, faturamento anual de cerca de 57,6 bilhões de NTD.[^6]
 
-No entanto, os mercados tradicionais enfrentam também numerosos desafios na sociedade moderna.
-O surgimento de supermercados e hipermercados, oferecendo ambientes de compra mais convenientes e padronizados, atraiu grande parte da clientela que antes pertencia aos mercados.
-Os hábitos de consumo das gerações mais jovens mudaram; tendem mais para compras online ou supermercados onde se resolve tudo de uma vez, tendo menos tempo e paciência para escolher calmamente e regatear no mercado.
+Esses números não provam diretamente que cada mercado seja próspero, mas nos lembram: o mercado não é hobby nostálgico de poucos, mas sistema de vida com escala de emprego, abastecimento e economia local.
 
-A pressão da renovação urbana também coloca muitos mercados antigos diante do destino de demolição e reconstrução.
-A controvérsia sobre a demolição do Mercado Jianguo de Taichung evidenciou a tensão entre mercados tradicionais e desenvolvimento urbano moderno.
-No processo de busca pela modernização da cidade, como preservar esses espaços que carregam as memórias do povo comum tornou-se um importante tema de governação urbana.
+```tw-stat
+577 locais | Mercados públicos e áreas concentradas de ambulantes legalmente supervisionados | Ministério da Economia, plano 2020
+81.819 bancas | Bancas de mercados e áreas concentradas de ambulantes | Ministério da Economia, plano 2020
+~190 mil pessoas | Trabalhadores | Ministério da Economia, plano 2020
+57,6 bi NTD | Faturamento anual | Ministério da Economia, plano 2020
+Fonte: Escritório Regional Central do Ministério da Economia, 2020
+```
 
-O envelhecimento dos feirantes é outro desafio severo.
-Em muitos mercados, a idade dos feirantes é avançada, os filhos não querem dar continuidade, enfrentando-se dificuldades de sucessão.
-Quando feirantes experientes se aposentam, perde-se não apenas o conhecimento profissional sobre ingredientes, mas também se rompem os laços afetivos com a comunidade.
+Mas o valor do mercado não se compõe apenas de faturamento. Feirantes explicam a origem dos ingredientes e métodos de preparo, fregueses habituais compram a quantidade exata segundo sua necessidade, vizinhos trocam notícias no corredor. Essas interações fazem o mercado ser simultaneamente ponta da cadeia de abastecimento alimentar, nó de informação comunitária e recipiente de memória local.[^7]
 
-## Inovação e transformação: a fusão da sabedoria antiga com as necessidades modernas
+O _The Reporter_ em sua reportagem visual sobre o Mercado Jianguo chamou o mercado de "memória e tagarelice dos comuns na cidade".[^3] O foco dessa frase não está em romantizar o mercado, mas em apontar que as relações de troca no mercado costumam carregar tempo: quem está aqui há décadas, qual banca já criou uma família, qual templo acompanhou os feirantes nas oscilações do negócio.
 
-Diante desses desafios, muitos mercados começaram a refletir sobre possibilidades de transformação inovadora.
-Alguns mercados introduziram instalações e formas de gestão modernizadas, melhorando o ambiente de compra e elevando a qualidade do serviço.
-O Mercado Shidong de Taipé, após reconstrução, combinou o calor humano do mercado tradicional com a conveniência do comércio moderno, tornando-se um caso de transformação bem-sucedida.
+📝 Nota do curador: o supermercado torna a compra rápida, o mercado reconecta a compra a uma relação. Não se trata de quem é mais sofisticado, mas de oferecerem escolhas de vida diferentes.
 
-A aplicação da tecnologia também trouxe novas possibilidades aos mercados.
-Alguns feirantes começaram a usar pagamentos móveis, a criar plataformas de venda online, ampliando o alcance do serviço.
-O governo também promove a política de «digitalização dos mercados tradicionais», ajudando os feirantes a adaptarem-se aos modelos de negócio da era digital.
+## Mercado Jianguo: quando o mercado também é casa
 
-A entrada da indústria criativa injetou nova vitalidade nos mercados.
-Alguns designers e trabalhadores criativos instalaram-se nos mercados, combinando ofícios tradicionais com estética moderna, criando produtos culturais e criativos com a cara do mercado.
-Esse modelo de «espaço antigo, nova criatividade» não apenas preserva as características culturais do mercado, como também atrai a atenção dos jovens.
+O Mercado Jianguo de Taichung, construído em 1972, foi planejado originalmente para reassentar moradores às margens do Córrego Verde e ambulantes temporários. Seu primeiro e segundo andares são mercado, terceiro e quarto são moradia, subsolo é estacionamento; a mistura de mercado e residência faz feirantes e moradores serem ao mesmo tempo colegas e vizinhos.[^8]
 
-## Construção comunitária: redefinindo o valor do mercado
+Esse arranjo espacial trouxe conveniência, mas deixou custos de gestão e segurança a longo prazo. Após o terremoto de 21 de setembro, o edifício apresentou rachaduras e infiltrações, parte dos moradores foi saindo gradualmente. Quando o mercado foi relocalizado devido ao plano urbanístico da área da estação, os feirantes puderam mudar para o novo endereço, mas os moradores que viviam nos andares superiores do mercado não tiveram a mesma opção habitacional.[^3] [^8]
 
-Nos últimos anos, o conceito de construção comunitária também começou a ser praticado nos mercados.
-Alguns mercados não apenas oferecem função de compra e venda, mas assumem também a responsabilidade de educação comunitária e atividades culturais.
-Promovem aulas de culinária, atividades de reconhecimento de ingredientes, espetáculos culturais, transformando o mercado em centro cultural da comunidade.
+O mais difícil de mover na relocalização costuma não ser a placa da banca, mas as relações que originalmente não precisavam ser escritas no plano urbanístico. O antigo Mercado Jianguo tinha templo de Mazu e templo do Deus da Terra; o novo mercado inicialmente não previu espaço de fé, e os feirantes só depois conseguiram coordenar um local para instalar as divindades.[^8]
 
-Essa transformação reflete uma redefinição do valor do mercado.
-O mercado deixa de ser apenas espaço comercial para se tornar parte importante da vida comunitária.
-Oferece não apenas mercadorias, mas oportunidades de socialização, aprendizagem, experiência cultural.
-Esse desenvolvimento multifuncional oferece novos caminhos para a gestão sustentável dos mercados.
+Esse detalhe é pequeno, mas revela a distância entre planejadores e usuários: para o plano, aquilo podia ser apenas espaço não assinalado; para a gente do mercado, é o lugar por onde se passa todo dia ao abrir a banca, onde se vai falar quando o negócio não vai bem.
 
-## Imaginar o futuro: coexistência harmoniosa entre tradição e modernidade
+"Ficar muito tempo no mercado, ele vira seu" é o sentimento de feirante registrado pelo _The Reporter_.[^3] Essa frase não é reivindicação jurídica de propriedade do mercado, mas descrição do tempo: quando uma pessoa põe décadas na mesma banca, o mercado deixa de ser apenas local alugado.
 
-Olhando para o futuro, os mercados tradicionais de Taiwan precisam encontrar o ponto de equilíbrio entre manter suas características e adaptar-se às mudanças.
-Precisam preservar valores centrais como o calor humano, as características locais, a transmissão cultural, ao mesmo tempo em que se adaptam às necessidades dos consumidores modernos, elevando a qualidade e a conveniência do serviço.
+## Modernização não pode se resumir a paredes claras
 
-O modelo ideal de desenvolvimento de mercado deveria ser a fusão orgânica entre sabedoria tradicional e tecnologia moderna.
-Mantém tanto o ritmo e a temperatura humana da «vida lenta», quanto a capacidade de oferecer produtos e serviços de alta qualidade.
-É ao mesmo tempo local de compras para necessidades diárias e janela importante para experimentar a cultura local.
+As dificuldades dos mercados tradicionais são muito concretas. O Ministério da Economia lista como pontos fracos: edifícios e instalações velhos, impressão de higiene precária, estacionamento insuficiente, horário de funcionamento curto, envelhecimento dos feirantes e recursos de marketing limitados; a concorrência externa inclui supermercados, hipermercados, lojas de conveniência, compras online e mudança de estilos de vida.[^6]
 
-Na sociedade moderna de rápidas transformações, os mercados tradicionais lembram-nos a essência da vida — a origem dos alimentos, a conexão entre pessoas, o calor da comunidade.
-São oásis na cidade, raros espaços de lentidão na vida moderna.
-Como fazer com que esses preciosos ativos culturais prossigam na transformação não é apenas uma questão comercial, mas um desafio cultural.
+Portanto, melhorar o ambiente do mercado é necessário. Segurança, higiene, iluminação, ventilação, refrigeração e tratamento de lixo são condições básicas que clientes e feirantes não deveriam ter de trocar por "humanidade". O valor cultural do mercado não pode servir de desculpa para encobrir infiltrações, estruturas perigosas ou problemas de higiene alimentar.
 
-Quando fazemos compras rapidamente no ar condicionado do supermercado, valeria a pena entrar ocasionalmente num mercado tradicional, sentir aquele calor humano que o tempo não apaga.
-Ali, cada transação é uma história, cada banca é um pedaço de história.
-A cultura de mercado de Taiwan transmite-se justamente nessas interações quotidianas, minúsculas, silenciosamente, e busca nova vida na transformação.
+Mas, inversamente, transformar o mercado em um espaço de venda com aparência padronizada também não traz automaticamente a cultura de mercado. A controvérsia entre mercado e renovação urbana costuma estar aqui: o governo vê eficiência do solo, trânsito e segurança do edifício; os usuários do mercado veem rotas de fregueses, relações de bancas, fé, moradia e memória local.[^7] [^8]
 
-## Conclusão: vendo a alma de Taiwan no mercado
+O Mercado Xinfu oferece outro caminho. Entrou em declínio nos anos 1990 devido a supermercados, estrutura familiar e hábitos de consumo, foi designado monumento histórico municipal em 2006, restaurou-se em 2013, e depois virou mercado cultural. O próprio estancamento fez o edifício preservar mais rastros históricos, e permitiu que o mercado fosse reentendido, de "decadente", como ativo cultural.[^2]
 
-Passada a algazarra da manhã, o mercado tradicional regressa gradualmente à tranquilidade à tarde, mas as manchas de água no chão, o cheiro de peixe e o aroma de comidas cozidas que pairam no ar ainda sussurram a vitalidade desta cidade.
-O que compramos no mercado não são apenas ingredientes, mas uma forma de nos ligarmos à terra, aos vizinhos, ao passado.
-No mundo moderno de produção padronizada, esse espaço de transação que carrega imperfeições, aleatoriedade e temperatura humana mostra-se extremamente precioso.
-A cultura de mercado de Taiwan continuará a evoluir, em novos edifícios, com o auxílio de ferramentas digitais, protegendo essa estética de vida popular mais original e pura.
+📝 Nota do curador: a verdadeira renovação de mercado não é transformar todos os mercados no mesmo azulejo branco, mas fazer segurança, conveniência e localidade coexistirem.
 
-## Vozes locais: os ecos quotidianos de um mercado
+## Ferramentas digitais podem estender relações, não substituí-las
 
-Os pregões da madrugada são o despertador da cidade.
-O som de cortar legumes e o de pesar na balança entrelaçam-se num ritmo.
-Uma frase do feirante — «Chegou hoje mesmo» — é o começo da confiança.
-Uma frase do cliente habitual — «O de sempre» — é a prova do entendimento tácito.
-Esses sons fazem do mercado o teatro mais caloroso da cidade.
+A próxima transformação do mercado também não ocorre só no edifício. A partir de 2018, Taipé passou a orientar feirantes a adotar pagamentos eletrônicos, e com comércio eletrônico, entregas e atividades de marketing de mercado, ajudar feirantes a alcançar novos consumidores. Em agosto de 2023, Taipé tinha 48 mercados, 7.170 bancas com pagamento eletrônico.[^9]
+
+O pagamento digital resolve problemas de troco, registro de transações e compra à distância; não resolve automaticamente qualidade da mercadoria, sucessão de feirantes ou posicionamento do mercado. O celular permite que o freguês habitual faça pedido quando não pode ir ao mercado, mas não substitui o conhecimento de origem acumulado pelo feirante ao longo do tempo, nem responde pelo mercado à pergunta "por que vir aqui".
+
+O caso do Mercado Dazhi mostra que melhoria do ambiente, gestão de marca e pagamento eletrônico podem ocorrer juntos. Clientes jovens fotografam, pagam e compartilham pelo celular, parte dos idosos ainda escolhe dinheiro; o mercado, assim, não salta de um modo antigo para um novo de uma vez, mas acolhe diferentes velocidades no mesmo corredor.[^9]
+
+Essa transformação também tem limites. Se a digitalização só aumenta o custo de equipamento do feirante, mas não traz apoio operacional claro, a ferramenta vira nova barreira. O mercado digital deve servir o feirante, não exigir que todo feirante vire antes gestor profissional de loja online.
+
+## O futuro do mercado: manter a escolha, não guardar a amostra
+
+Para um mercado tradicional continuar existindo, são necessários pelo menos três trabalhos simultâneos. Primeiro, consertar o hardware visível: estrutura, drenagem, refrigeração, ventilação, iluminação e circulação sem barreiras. Segundo, cuidar da rede invisível: sucessão de feirantes, autogestão, relações com fregueses, fé e atividades comunitárias. Terceiro, permitir que o mercado se conecte a novos tempos de vida: estender parte do horário, oferecer comidas prontas e semiprontas, criar reserva e entrega, mas manter a vantagem da escolha de ingredientes e da troca face a face.[^6] [^9]
+
+Essas três coisas não podem ser substituídas por um botão de "reforma". Atualização do edifício sem participação dos feirantes pode deixar espaço bonito, mas ruim de usar; preservação cultural que recusa melhorias pode prender feirantes e clientes em nostalgia insegura.
+
+O que a cultura de mercado realmente precisa preservar não são manchas de água, cheiro de peixe ou corredores escuros em si, mas como as pessoas na cidade se cuidam mutuamente, trocam conhecimento, compartilham alimentos, e transformam estranhos em fregueses.
+
+Por isso, da próxima vez que entrar num mercado, pode primeiro não perguntar se ele parece com o passado. Vale mais perguntar: aqui ainda permite que uma família recém-chegada encontre o necessário do dia a dia? Ainda permite que um jovem assuma a banca do seu jeito? Ainda permite que uma cidade, depois de atualizada, guarde razões para o encontro entre pessoas?
+
+📝 Nota do curador: o fim do mercado não é ser selado como monumento, mas em cada compra, pergunta de preço e cumprimento, continuar sendo tempo presente.
+
+## Leitura complementar
+
+Para entender melhor a tensão entre mercado e renovação urbana, pode ler [notas laterais sobre instituições culturais antes e depois da relocalização do Mercado Jianguo de Taichung](https://umkt.jutfoundation.org.tw/mkt_library/2813), e confrontar com [os marcos históricos oficiais do Mercado Nanmen](https://www.tpnanmen.org.tw/article/202). Os dois artigos completam, respectivamente a partir da experiência do usuário e da evolução do mercado, os detalhes de campo que este texto não desenvolveu.
+
+## Fonte das imagens
+
+Fonte da imagem: Governo da Cidade de Taipé〈Bancas do primeiro andar do Mercado Nanmen〉, fornecido pela [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nanmen_Market_20231007_02.jpg). Autor/titular dos direitos: Governo da Cidade de Taipé, sob Licença de Dados Abertos do Governo da Cidade de Taipé, permite reprodução, adaptação e uso comercial, mas exige indicação da fonte; imagem em cache em `public/article-images/lifestyle/nanmen-market-2023.webp`.
 
 ## Referências
 
-1. Editorial da Revista Clássica (2020). «À procura da segunda primavera: a contra-ofensiva dos mercados tradicionais». _Revista Clássica_. Disponível em: https://www.rhythmsmonthly.com/?p=29361
-2. Editorial de Olhos na Cidade (2016). «O mercado é o lugar — co-construindo a fonte da cultura urbana». _Olhos na Cidade_. Disponível em: https://eyesonplace.net/2016/09/09/3440/
-3. Editorial da Uantau (2020). «Olá! Começando pelo mercado para conhecer a vida quotidiana de Taiwan». _Uantau_. Disponível em: https://utimes.today/2020/03/11/taiwan-market/
-4. Departamento de Estatística do Ministério da Economia (2019). «Inquérito à situação atual de operação dos mercados tradicionais». Disponível em: https://www.moea.gov.tw/
-5. Editores da Wikipédia (2021). «Mercados tradicionais de Taiwan». _Wikipédia_. Disponível em: https://zh.wikipedia.org/zh-tw/台灣傳統市場
+[^1]: [Bureau de Turismo e Comunicação do Governo da Cidade de Taipé: A vicissitude do mercado centenário: Mercado Nanmen](https://www.travel.taipei/zh-tw/pictorial/article/23996) — Fundação, reforma, relocalização e mudanças populacionais e alimentares do Mercado Nanmen.
+
+[^2]: [Fundação Cultural e Artística de Arquitetura Chung Tai: História do Mercado Xinfu](https://umkt.jutfoundation.org.tw/about/history) — Arquitetura, bancas, mudanças de gestão, designação como monumento e reutilização do Mercado Xinfu.
+
+[^3]: [_The Reporter_: Xu Zhen-tang / A próxima milha do Mercado Jianguo de Taichung (II)](https://www.twreporter.org/a/photo-taichung-jian-guo-market-part2) — Vida de mercado, fé, moradores e situação antes e depois da relocalização do Mercado Jianguo.
+
+[^4]: [Rede de Crítica Essencial: Mercado tradicional é só sujo e caótico? Venha ver esses mercados da era colonial japonesa que pareciam mansões ocidentais](https://www.thenewslens.com/article/14337) — Reforma dos mercados no início do período colonial, política de higiene e desenvolvimento de mercados públicos.
+
+[^5]: [Mercado Público Nanmen de Taipé: Marcos do mercado](https://www.tpnanmen.org.tw/article/202) — Evolução oficial do Mercado Nanmen desde a feira de 1906, renomeação pós-guerra, reforma, mercado de transição até operação experimental do novo edifício.
+
+[^6]: [Escritório Regional Central do Ministério da Economia: Plano de inovação e virada de mercados tradicionais e noturnos](https://www.cto.moea.gov.tw/upload/project_upload/110-114%E5%B9%B4%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4%E8%88%87%E5%A4%9C%E5%B8%82%E5%89%B5%E6%96%B0%E7%BF%BB%E8%BD%89%E6%8F%90%E5%8D%87%E8%A8%88%E7%95%AB.pdf) — Escala econômica, pontos fortes e fracos, contexto político e estratégias de transformação dos mercados tradicionais.
+
+[^7]: [Olhos da Cidade: Uma cidade, duas imaginações: mercado tradicional e renovação urbana](https://eyesonplace.net/2016/09/14/3484/) — Análise do mercado como memória urbana, espaço social e controvérsia da renovação urbana.
+
+[^8]: [Fundação Cultural e Artística de Arquitetura Chung Tai: Notas de palestra | Antes e depois da relocalização — o que se moveu e o que não se pôde levar com o mercado](https://umkt.jutfoundation.org.tw/mkt_library/2813) — Mistura residencial-comercial do Mercado Jianguo, distância da relocalização, espaço de fé e coordenação no novo mercado.
+
+[^9]: [Rede de Informação Industrial de Taipé: Avançando passos da transformação de mercados rumo ao ecossistema digital](https://taipeiecon.taipei/Topics/more?id=1220251636731264605) — Pagamento eletrônico de mercados de Taipé, transformação digital, Mercado Dazhi e dados de orientação para mercados.

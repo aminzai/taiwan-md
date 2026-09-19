@@ -1,188 +1,186 @@
 ---
 title: 'Parques Nacionais'
-description: '36.197 km² abrigam 9 parques nacionais, uma densidade entre as mais altas do mundo — um milagre de conservação'
+description: '36.197 km² abrigam 9 parques nacionais — uma densidade que coloca Taiwan entre os maiores milagres de conservação do mundo'
 date: 2026-03-17
 category: 'Nature'
 tags:
   [
-    'Natureza',
-    'Parques Nacionais',
-    'Conservação Ecológica',
-    'Turismo',
-    'Proteção Ambiental',
+    'natureza',
+    'parques nacionais',
+    'conservação ecológica',
+    'turismo',
+    'proteção ambiental',
   ]
 subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Nature/國家公園.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:b67fcedd0e7a43f6'
-sourceBodyHash: 'sha256:7e2f50f483b073fb'
-translatedAt: '2026-07-26T07:02:07+08:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:8fb4efae01fb8f38'
+sourceBodyHash: 'sha256:d14d99364c1c4106'
+translatedAt: '2026-09-19T11:59:08+08:00'
 ---
 
 # Parques Nacionais
 
-> **Visão geral em 30 segundos:** Taiwan tem apenas 36.197 km², mas possui 9 parques nacionais, uma densidade que figura entre as mais altas do planeta.
-> Neste sistema de conservação mais apertado, a população de urso-negro-formosano dobrou em 20 anos, a colhereiro-de-cara-preta passou de 288 para 6.988 indivíduos,
-> e o salmão-cerejeira-formosano saltou de 200 exemplares criticamente ameaçados para 16 mil. Pequena ilha, grande conservação.
+> **30 segundos de visão geral:** Taiwan tem apenas 36.197 km², mas abriga 9 parques nacionais — uma densidade que lidera globalmente. Dentro desse sistema de conservação mais apertado do mundo, a população de ursos de Taiwan duplicou em 20 anos, a garça-palito aumentou de 288 para 7.746 exemplares (60% invernam em Taiwan) e a salmão-palhaço de Taiwan cresceu de 200 para 16.000 exemplares. Uma ilha pequena, uma conservação imensa.
 
-Uma ilha menor que a Suíça consegue acomodar 9 parques nacionais? Em 1984, quando o Parque Nacional de Kenting se tornou o primeiro parque nacional formalmente estabelecido de Taiwan (o anúncio de planeamento data de 1982), ninguém imaginava que seria o início de um experimento de densidade.[^1] 42 anos depois, Taiwan abriga 9 parques nacionais e 1 parque natural nacional em 36.197 km² de terra, com área protegida de 750 mil hectares — uma densidade que, no panorama global de sistemas de parques nacionais, ocupa posições de destaque.
+Como uma ilha menor que a Suíça abriga 9 parques nacionais? Em 1984, quando o Parque Nacional de Kenting se tornou o primeiro parque nacional oficial de Taiwan (planejado desde 1982), ninguém imaginava que isso marcaria o início de um experimento de densidade. 42 anos depois, Taiwan possui 9 parques nacionais e 1 parque natural nacional em 36.197 km², protegendo 750.000 hectares — uma densidade sem precedentes no sistema global de parques nacionais.
 
-Num país com densidade populacional de 640 hab./km², grandes animais selvagens e peixes rarais conseguem sobreviver em espaço tão exíguo, e até recuperar continuamente. Este sistema de conservação mais apertado entregou um boletim que surpreendeu a comunidade conservacionista mundial.
+Em uma Taiwan com densidade populacional de 640 habitantes/km², grandes animais selvagens e peixes raros sobrevivem e se recuperam mesmo em espaços tão limitados. Esse sistema de conservação mais apertado entregou uma avaliação que surpreendeu o mundo da conservação.
 
-| 288 → 6.988                                 | 200 → 16.020                            | População dobrada              |
-| ------------------------------------------- | --------------------------------------- | ------------------------------ |
-| Colhereiro-de-cara-preta global (1989→2024) | Salmão-cerejeira-formosano (1990s→2025) | Urso-negro-formosano (20 anos) |
+| 288 → 7.746                     | 200 → 16.020                          | Aumento populacional     |
+| ------------------------------- | ------------------------------------- | ------------------------ |
+| Garça-palita global (1989→2026) | Salmão-palhaço de Taiwan (1990s→2025) | Urso de Taiwan (20 anos) |
 
-## O experimento da densidade: como Taiwan se tornou a ilha dos parques nacionais
+## Experimento de densidade: como Taiwan se tornou uma ilha de parques nacionais
 
-**42 anos de expansão do mapa dos parques nacionais:**
+**42 anos de expansão territorial de parques nacionais:**
 
-1. **1984-1986** — Primeira tríade: Kenting, Yushan, Yangmingshan
-2. **1987-1995** — Montanhas e mar preenchidos: Taroko, Shei-Pa
-3. **1995-2014** — Virada para a diversidade: Kinmen (sítios de batalha), Dongsha (puramente marinho), Taijiang (zonas húmidas), Quatro Ilhas do Sul de Penghu (basalto)
-4. **2011** — Oásis urbano: Parque Natural Nacional de Shoushan (dentro da cidade de Kaohsiung)
+1. **1984-1986** — Primeiro trio: Kenting, Yushan, Yangmingshan
+2. **1986-1992** — Preenchimento montanha-mar: Taroko, Shei-Pa
+3. **1995-2014** — Diversificação: Kinmen (história de combate), Dongsha (marinho puro), Zeelandia (pântano), Penghu Nansha (basalto vulcânico)
+4. **2011** — Oásis urbano: Parque Natural de Shoushan (dentro da cidade de Kaohsiung)
 
-Em 20 de setembro de 2023, a Direção dos Parques Nacionais do Ministério do Interior foi formalmente estabelecida, elevada a órgão de nível de direcção-geral independente, centralizando a gestão de todos os parques nacionais de Taiwan, substituindo a arquitetura de gestão dispersa do passado.[^2]
+Em 20 de setembro de 2023, o Departamento de Parques Nacionais foi oficialmente elevado à categoria de órgão subordinado direto, assumindo a gestão integrada de todos os parques nacionais de Taiwan, substituindo a antiga estrutura descentralizada.
 
-Cada passo desafiou a definição tradicional de parque nacional. Kinmen foca-se em sítios históricos de batalha, Dongsha é 99,9% mar, Taijiang funde património humano e zonas húmidas, as Quatro Ilhas do Sul de Penghu são um paraíso marinho desabitado.
+Cada passo desafiava a definição tradicional de parque nacional. Kinmen é baseado em histórias de combate, Dongsha é 99,9% marítimo, Zeelandia combina cultura e pântanos, Penghu Nansha é um paraíso marinho desabitado.
 
 > **📝 Nota do curador**
-> A trajetória evolutiva dos parques nacionais de Taiwan é peculiar: partiu de «proteger o selvagem» (modelo americano de parque nacional)
-> rumo a «valorizar igualmente humano e natureza» (conceito europeu de área protegida), até desenvolver o seu próprio
-> modelo de «rede de proteção tridimensional mar-terra-ar».
+> A evolução dos parques nacionais de Taiwan é única: de "proteger a natureza selvagem" (modelo norte-americano) para "equilíbrio entre cultura e natureza" (conceito europeu de zonas de proteção), até desenvolver o próprio modelo de "rede de proteção tridimensional mar-terra-ar".
 
-Tal densidade é praticamente inédita no cenário internacional. Compare-se: o Parque Nacional de Yellowstone, nos EUA, tem sozinho 8.991 km²; o território inteiro de Taiwan é apenas 4 vezes maior, mas precisa acomodar 9 parques nacionais.
+Essa densidade é quase inédita internacionalmente. Para comparar: o Parque Nacional de Yellowstone, nos EUA, sozinho ocupa 8.991 km² — Taiwan tem toda a sua área territorial quatro vezes maior, mas abriga 9 parques nacionais.
 
-## Os milagres da recuperação de espécies
+## Milagre da recuperação de espécies: Taiwan
 
-### Colhereiro-de-cara-preta: de beira da extinção a 1/6 do global em Taiwan
+### Garça-palita: de quase extinta a 60% da população global em Taiwan
 
-Em 1989, a Sociedade de Observação de Aves de Hong Kong fez o primeiro censo global do colhereiro-de-cara-preta: 288 indivíduos. O número chocou a conservação mundial — uma espécie à beira da extinção.
+Em 1989, a Hong Kong Bird Watching Society realizou a primeira contagem global da garça-palita: 288 indivíduos. Esse número abalou o mundo da conservação — uma espécie tão próxima da extinção.
 
-35 anos depois, o censo global de 2024 aponta 6.988 colhereiros-de-cara-preta, e a área do Parque Nacional de Taijiang acolhe anualmente no inverno mais de 1.000 exemplares, tornando-se o principal sítio de invernada global.[^3]
+Na contagem global sincronizada de janeiro de 2026, a garça-palita atingiu 7.746 indivíduos, dos quais Taiwan registrou 4.719 (cerca de 61%), e apenas em Tainan havia 2.034 — os pântanos de Zeelandia e as açudes adjacentes são os principais locais de inverno do mundo.
 
-O Parque Nacional de Taijiang não só protege mais de 40 mil hectares de zonas húmidas, como colabora com pescadores e salineiros, permitindo a coexistência de indústria tradicional e proteção ecológica. Esta recuperação assenta em engenharia precisa: delimitação de habitat, normas de pesca, cooperação das comunidades locais — nenhum elemento dispensável. A cada outono-inverno, quando o primeiro bando de colhereiros-de-cara-preta pousa nas lagoas de Sicao, os tainanenses sabem: a placa de zona húmida de nível internacional continua acesa.
+Os 40.000 hectares do Parque Nacional de Zeelandia não apenas protegem pântanos, mas colaboram com pescadores e trabalhadores do sal, permitindo que indústrias tradicionais e conservação ecológica coexistam. Essa recuperação depende de engenharia precisa: delimitação de habitats, regulamentação da pesca, cooperação comunitária. A cada outono e inverno, quando as primeiras garças-palitas pousam nos pântanos de Caocao, os habitantes de Tainan sabem que o selo de pântano internacional continua brilhando.
 
-### Salmão-cerejeira-formosano: da lenda de 200 para 16 mil exemplares
+### Salmão-palhaço de Taiwan: da beira do abismo a 16.000 exemplares
 
-Nos anos 1990, a população de salmão-cerejeira-formosano tocou o fundo: restavam cerca de 200 exemplares na natureza, à beira da extinção. Este «peixe tesouro nacional», relíquia da era glacial, só sobrevive em correntes acima de 1.500 m de altitude, com temperatura da água abaixo de 17 °C; a mudança climática e a destruição de habitat deixaram-no sem refúgio.
+Na década de 1990, a população de salmão-palhaço de Taiwan caiu à mínima de cerca de 200 indivíduos no meio selvagem, à beira da extinção. Este "peixe-tesouro" da era glacial sobrevive apenas em rios acima de 1.500 metros de altitude, com temperatura da água abaixo de 17°C — mudanças climáticas e destruição de habitats deixaram poucas opções.
 
-O Parque Nacional de Shei-Pa levou 30 anos para levar esse número a 16 mil.[^4]
+O Parque Nacional de Shei-Pa levou 30 anos para elevar esse número para 16.000 exemplares.
 
-> **💡 Sabia que**
-> Em setembro de 2025, a administração de Shei-Pa usou pela primeira vez helicóptero para transportar e soltar
-> mais de 1.000 alevinos no alto curso do rio Chichiawan. Foi o primeiro «repopovoamento aéreo» de Taiwan,
-> permitindo que os alevinos atingissem rapidamente o habitat mais adequado.
+> **💡 Sabia que...**
+> Em 4 de setembro de 2025, a divisão de gestão de Shei-Pa colaborou pela primeira vez com a Jetstar Airways para transportar 240 salmões-palhaço de cerca de 16 cm de comprimento para o rio Shih-Chieh Lan, usando helicópteros — uma tarefa que antes exigia seis horas de caminhada a pé agora leva apenas alguns minutos de voo.
 
-O sucesso da recuperação deve-se à paciência, não à tecnologia. A recuperação de 8,1 hectares de terras abandonadas na Fazenda Wuling, 20 anos de reflorestação no rio Qijiawan, estratégias de soltura interbacias — cada passo consumiu anos de planeamento. Hoje, os rios Chichiawan, Qijiawan e Hehuan abrigam populações estáveis; o salmão-cerejeira-formosano já não figura como presença constante nas listas de espécies ameaçadas.
+O segredo do sucesso está na paciência, não na tecnologia. A fazenda de Wuling recuperou 8,1 hectares de terra agrícola abandonada, o rio Qiajigou manteve um plano de reflorestação por 20 anos, e a estratégia de liberação entre bacias fluviais exigiu anos de planejamento. Hoje, os rios Shih-Chieh Lan, Qiajigou e Hehuan mantêm populações estáveis, e o salmão-palhaço de Taiwan deixou de ser um frequentador constante da lista de espécies ameaçadas.
 
-### Urso-negro-formosano: de ameaçado a «já não corre risco de extinção»
+### Urso de Taiwan: de espécie ameaçada a "sem risco iminente de extinção"
 
-Em abril de 2025, a Direção de Silvicultura e Conservação da Natureza declarou pela primeira vez: o urso-negro-formosano «a situação populacional já não apresenta risco de extinção», com números «absolutamente no nível de multiplicação» face a 20 anos atrás.[^5]
+Em abril de 2025, o Departamento de Silvicultura e Conservação Natural divulgou pela primeira vez que a população de ursos de Taiwan "não corre mais risco iminente de extinção", com números significativamente acima do dobro em relação a 20 anos atrás.
 
-Por trás desta frase estão 40 anos de acumulação conservacionista. Yushan, Taroko, Shei-Pa e outros parques nacionais de alta altitude forneceram habitat nuclear ao urso-negro-formosano, e nos últimos anos a área de ocorrência começou a expandir-se para abaixo dos 1.200 m, indicando que a população se estabilizou ao ponto de iniciar expansão natural.
+Atrás dessa declaração estão 40 anos de esforços de conservação. Os parques nacionais de Yushan, Taroko e Shei-Pa forneceram habitats centrais para os ursos, e recentemente a distribuição dos ursos começou a se expandir para altitudes mais baixas (abaixo de 1.200 metros), indicando que a população já é estável o suficiente para se expandir naturalmente.
 
 > **⚠️ O preço do sucesso**
-> A recuperação do urso-negro-formosano traz novos desafios. Em 2025, na aldeia Zhuoxi em Hualien, um urso de 120 kg predou aves e cães domésticos por dias consecutivos, acabando por ser abatido.
-> O conflito homem-urso será o foco da próxima fase do trabalho conservacionista.
+> O sucesso na recuperação dos ursos também trouxe novos desafios. Em abril de 2025, em uma aldeia indígena em Zhuoxi, Taitung, um urso de mais de 100 kg comeu quatro cães em duas semanas e invadiu várias galinheiras, o que levou os patrulheiros a atirar em legítima defesa — o urso foi eutanasiado devido à gravidade das lesões.
 
-## Modelo de conservação de alta densidade de nível mundial
+## Modelo de conservação de alta densidade de classe mundial
 
-O sucesso do sistema de parques nacionais de Taiwan não reside na extensão, mas na **diversidade de tipologias e precisão de gestão**.
+O sucesso do sistema de parques nacionais de Taiwan não está na extensão territorial, mas na **diversidade de tipos e precisão da gestão**.
 
-Do pico principal de Yushan a 3.952 m, ao atol de Dongsha abaixo do nível do mar; da geologia vulcânica de Yangmingshan, aos pilares basálticos das Quatro Ilhas do Sul de Penghu; dos sítios de batalha de Kinmen, à floresta urbana de Shoushan. Os 9 parques nacionais cobrem todos os principais ecossistemas e tipos geológicos de Taiwan.
+Desde o pico do Monte Yushan a 3.952 metros acima do nível do mar, até os recifes de Dongsha abaixo do nível do mar; desde as formações vulcânicas de Yangmingshan, até as colunas de basalto do Parque Nacional de Penghu Nansha; desde as trilhas de combate de Kinmen, até as florestas urbanas de Shoushan. Os 9 parques nacionais cobrem todos os principais ecossistemas e tipos geológicos de Taiwan.
 
-**É uma rede de proteção tridimensional, com divisão clara por faixas ecológicas:**
+**Essa é uma rede de proteção tridimensional, com divisões claras por ecossistemas:**
 
-**Três faixas terrestres**:
+**Três faixas terrestres:**
 
-- Faixa alpina: Yushan, Shei-Pa, Taroko protegem ecologia alpina e grandes mamíferos
-- Faixa vulcânica: Yangmingshan guarda o grupo vulcânico Datun e vegetação temperada
-- Faixa costeira: Kenting, Quatro Ilhas do Sul de Penghu protegem ecologia de recifes de coral
+- Faixa de montanha: Yushan, Shei-Pa, Taroko protegem ecossistemas de montanha e grandes mamíferos
+- Faixa vulcânica: Yangmingshan cuida do grupo vulcânico Daoxiong e vegetação temperada
+- Faixa costeira: Kenting, Penghu Nansha protegem recifes de corais
 
-**Interfaces água-terra**:
+**Zonas de transição:**
 
-- Faixa de zonas húmidas: Taijiang mantém zonas húmidas de nível internacional e rotas migratórias de aves
-- Faixa insular: Kinmen, Dongsha assumem respectivamente património histórico de batalha e conservação marinha
+- Faixa de pântanos: Zeelandia mantém pântanos internacionais e rotas migratórias de aves
+- Faixa insular: Kinmen, Dongsha assumem responsabilidades de preservação de histórias de combate e ecossistemas marinhos
 
-### O experimento do parque nacional na cidade
+### Experimento de parque nacional dentro da cidade
 
-Em 2011, nasceu o Parque Natural Nacional de Shoushan, a primeira área protegida de nível nacional situada dentro de uma área metropolitana. No sudoeste de Kaohsiung, 1.131 hectares de relevo calcário de recife de coral protegem o macaco-formosano, espécie endémica, e a maior população de _Rhododendron oldhamii_ de Taiwan.
+Em dezembro de 2011, o Parque Natural de Shoushan foi estabelecido — a primeira unidade de proteção nacional do país localizada dentro de uma área metropolitana. Na esquina sudoeste de Kaohsiung, em cerca de 1.123 hectares de recifes de corais e rochas calcárias, são protegidas a espécie endêmica do macaco de Taiwan e a maior população de árvores de montanha do país.
 
-**Este experimento desafia uma noção tradicional: parque nacional tem de ficar longe da cidade?** Shoushan provou que, mesmo na orla metropolitana, gestão de proteção rigorosa consegue manter a integridade ecológica.
+**Esse experimento desafia uma noção tradicional: parques nacionais precisam estar distantes das cidades?** Shoushan provou que mesmo na beira da cidade, uma gestão rigorosa de proteção pode manter a integridade ecológica.
 
-> **✦** «Grande conservação numa pequena ilha — Taiwan provou que densidade não é inimiga da conservação, a precisão é.»
+> **✦** "Grande conservação em uma pequena ilha — Taiwan provou que densidade não é inimiga da conservação, precisão é."
 
-## Desafios e controvérsias: dores do crescimento
+## Desafios e controvérsias: os problemas do crescimento
 
-### Pressão recreativa: parque nacional não é parque de diversões
+### Pressão turística: parques nacionais não são parques de diversões
 
-A maior controvérsia dos parques nacionais de Taiwan vem de um mal-entendido fundamental: muita gente trata «parque nacional» como «parque construído pelo Estado».
+A maior controvérsia enfrentada pelos parques nacionais de Taiwan vem de um equívoco fundamental: muitas pessoas confundem "parque nacional" com "parque construído pelo governo".
 
-A observação da professora Wang Chen-ling, do Departamento de Gestão de Terras da Universidade Feng Chia, em 2015, continua válida: «A maioria dos cidadãos, e até o governo, entende mal 'parque nacional' pelo sentido literal das palavras».[^6] Kenting e Taroko recebem anualmente enormes fluxos de turistas que exigem corrimãos, placas de aviso; há até quem proponha levar cabo de aço ao cume de Yushan, ou construir hotel em Maqiao, Yangmingshan.
+A observação da professora Wang Chen-chin da Universidade Feng Chia em 2015 ainda é válida: "A maioria das pessoas, incluindo o governo, tem uma compreensão equivocada do termo 'parque nacional'". Os parques de Kenting e Taroko recebem milhares de turistas por ano, exigindo a instalação de barreiras, sinalização de alerta, e até propostas de instalar teleféricos no pico de Yushan ou hotéis no estábulo de Yangmingshan.
 
-**O Artigo 1.º da Lei dos Parques Nacionais estipula claramente: proteger paisagens naturais características, vida selvagem e sítios históricos do país, «e prover recreio educativo aos nacionais».** O «recreio educativo» é finalidade acessória, limitada a áreas de recreio e áreas de gestão geral, não podendo conflitar com o objetivo de conservação.
+**O primeiro artigo da Lei de Parques Nacionais estabelece claramente: proteger paisagens naturais, vida selvagem e sítios históricos típicos de Taiwan, "e também servir para o lazer do povo".** "Lazer" é um objetivo secundário, limitado apenas a áreas de lazer e regulamentação geral, e não pode entrar em conflito com os objetivos de conservação.
 
-### Terremoto de Taroko em 2024: o dilema entre conservação e reconstrução
+### Terremoto de 2024 em Taroko: dilema entre conservação e reconstrução
 
-Em 3 de abril de 2024, forte sismo atingiu Hualien (CWA M_L 7,2 / USGS M_w 7,4), e o Parque Nacional de Taroko foi uma das áreas mais severamente afetadas. Muitas trilhas desabaram, trechos de estradas controladas fecharam completamente; o sismo causou vítimas e interrompeu o trabalho normal de conservação por meses.
+Em 3 de abril de 2024, um forte terremoto atingiu Hualien (ML 7,2 da Agência Meteorológica Central / Mw 7,4 da USGS), com Taroko entre as áreas mais afetadas. Vários trilhas desabaram, algumas estradas de acesso foram totalmente bloqueadas, e o evento causou ferimentos entre o pessoal e interrompeu os trabalhos de conservação por meses.
 
-O sismo de Taroko colocou um problema que o sistema de conservação deve enfrentar: no complexo ambiente geológico de Taiwan, onde traçar a fronteira entre conservação florestal e recreio turístico não é apenas questão de gestão, mas também de política de prevenção de desastres.
+O terremoto em Taroko levantou uma questão que qualquer sistema de conservação precisa enfrentar: em um ambiente geológico complexo como o de Taiwan, como definir os limites entre conservação florestal e turismo recreativo? Essa não é apenas uma questão de gestão, mas também de política de desastres.
 
-### Mudança climática: crise de sobrevivência das espécies alpinas
+### Mudanças climáticas: crise de sobrevivência para espécies de montanha
 
-70% da área dos parques nacionais de Taiwan situa-se acima de 1.000 m; ecossistemas alpinos são especialmente vulneráveis à mudança climática. Aumento de 1 °C empurra a faixa de distribuição de plantas alpinas 150-200 m para cima, mas o cume tem altura finita — não há para onde recuar.
+Cerca de 70% da área dos parques nacionais de Taiwan está acima de 1.000 metros de altitude, e ecossistemas de montanha são especialmente sensíveis às mudanças climáticas. Um aumento de 1°C na temperatura faz com que as plantas de montanha se desloquem 150-200 metros para cima — mas o pico da montanha não sobe mais.
 
-A recuperação bem-sucedida do salmão-cerejeira-formosano é, em certa medida, uma corrida contra o tempo. Quando a temperatura da corrente ultrapassa 17 °C, o peixe tesouro não sobrevive. A mudança climática transforma o trabalho de recuperação numa competição entre temperatura e velocidade de conservação.
+A recuperação bem-sucedida do salmão-palhaço de Taiwan é, em certa medida, uma corrida contra o tempo. Quando a temperatura da água do rio excede 17°C, o peixe-tesouro não sobrevive. As mudanças climáticas transformaram o trabalho de recuperação em uma competição entre temperatura e velocidade de conservação.
 
-### Direitos indígenas: equilíbrio entre conservação e tradição
+### Direitos indígenas: equilibrando conservação e tradições
 
-75% dos parques nacionais de Taiwan sobrepõem-se a territórios tradicionais indígenas. Como equilibrar necessidades de conservação com direitos dos povos indígenas é tema sensível contínuo. Os Bunun de Yushan, os Atayal de Shei-Pa, os Taroko de Taroko — são os guardiões mais antigos destas terras, mas hoje podem ver os seus modos de vida tradicionais restringidos por regulamentos de conservação.
+Os parques nacionais de montanha de Taiwan se sobrepõem amplamente às terras tradicionais dos povos indígenas, e equilibrar necessidades de conservação com direitos indígenas sempre foi um tema delicado. Os povos Bunun em Yushan, Atayal em Shei-Pa e Truku em Taroko são os primeiros guardiões desta terra, mas podem ter suas formas de vida tradicionais restringidas por regulamentações de conservação.
 
-Nos últimos anos, as administrações dos parques nacionais começaram a colaborar com aldeias, promovendo modelo de «conservação comunitária»: em Kinmen contratam moradores locais como voluntários de conservação, em Taijiang colaboram com pescadores na manutenção da ecologia de zonas húmidas. Este modelo faz o trabalho de conservação transitar de «controlo externo» para «participação local».
+Nos últimos anos, as divisões de gestão dos parques começaram a colaborar com comunidades locais, promovendo o modelo de "conservação comunitária": contratação de voluntários locais em Kinmen, cooperação com pescadores na manutenção de ecossistemas de pântanos em Zeelandia. Esse modelo transformou a conservação de "gestão externa" para "participação local".
 
-## Os próximos 40 anos: a era dos parques nacionais marinhos?
+## Próximos 40 anos: a era dos parques nacionais marinhos?
 
-Se nos primeiros 40 anos Taiwan construiu um sistema de parques nacionais de densidade extrema, nos próximos 40 o foco será o **mar**.
+Se os primeiros 40 anos estabeleceram um sistema de parques nacionais com densidade extrema, os próximos 40 anos focarão em **áreas marítimas**.
 
-O Parque Nacional do Atol de Dongsha é 99,5% marinho, e a área marinha do Parque Nacional das Quatro Ilhas do Sul de Penghu ocupa 98%. Esta tendência reflete a mudança global no pensamento conservacionista: de «prioridade à terra» para «terra e mar em pé de igualdade».
+O Parque Nacional de Dongsha é 99,9% marítimo, e o Parque Nacional de Penghu Nansha também tem cerca de 99% de área marítima. Essa tendência reflete a mudança global na percepção da conservação: de "priorizar terra" para "equilíbrio entre mar e terra".
 
-O potencial de conservação dos mares ao redor de Taiwan é de facto considerável. A Corrente Kuroshio traz rica biodiversidade marinha; a cobertura de recifes de coral em certas áreas supera 60%; ecossistemas de prados marinhos fornecem função de sumidouro de carbono. Mas a complexidade da conservação marinha supera em muito a terrestre: jurisdição marítima, direitos de pesca, direito internacional — cada item é cem vezes mais difícil do que delimitar área protegida em terra.
+O potencial de conservação marinha ao redor de Taiwan é imenso. A corrente de Kuroshio traz riqueza biológica marinha, a cobertura de recifes de corais em algumas áreas excede 60%, e ecossistemas de gramíneas marinhas oferecem funções de sequestro de carbono. No entanto, a complexidade da conservação marinha é muito maior que a terrestre: jurisdição marítima, interesses pesqueiros, legislação internacional — cada aspecto é muito mais difícil de resolver do que a demarcação de áreas terrestres de proteção.
 
-> **📊 Dados de perspectivas futuras**
-> Segundo planeamento da Direção dos Parques Nacionais, a meta de área de zonas marinhas protegidas de Taiwan é atingir 10% da zona económica exclusiva até 2030, cerca de 200 mil km². Isso equivale a
-> 6 vezes a área da ilha principal de Taiwan.
+> **📊 Situação atual das áreas marinhas de proteção**
+> Entre as áreas marinhas de proteção existentes em Taiwan, os quatro parques nacionais marinhos representam mais de 80% da área total; a meta "30×30" aprovada pelas Nações Unidas em 2022 exige que cada país proteja pelo menos 30% de seus oceanos até 2030, e a Lei de Conservação Marinha aprovada em 2024 é o primeiro passo de Taiwan nessa direção.
 
-## O grande formato da pequena ilha
+## Visão geral da pequena ilha
 
-Voltamos à pergunta inicial: por que uma ilha menor que a Suíça precisa de 9 parques nacionais?
+Voltando à pergunta inicial: por que uma ilha menor que a Suíça precisa de 9 parques nacionais?
 
-A resposta talvez não esteja no quão pequena é Taiwan, mas no quão complexa. Em 36.197 km², esta ilha comprime todas as zonas climáticas do tropical ao subártico, história geológica completa de colisão de placas, estratificação cultural de austronésios a han, e ainda nó de rotas migratórias de aves.
+A resposta pode não estar em Taiwan ser pequena, mas em Taiwan ser complexa. Em 36.197 km², esta ilha abriga todos os tipos de clima do trópico ao frio, uma história geológica completa de colisão de placas tectônicas, camadas culturais da língua Austronésia ao chinês, e pontos de parada em rotas migratórias de aves.
 
-O mais valioso do sistema de parques nacionais de Taiwan não é a área, mas a completude tipológica. Protege não apenas 9 pontos, mas o código de vida de uma ilha.
+O mais notável do sistema de parques nacionais de Taiwan não é sua extensão, mas sua completude de tipos. Ele não protege apenas 9 pontos, mas o código genético de uma ilha inteira.
 
-Há 42 anos, quando o Parque Nacional de Kenting nasceu, Taiwan ainda estava sob lei marcial. Hoje, nesta ilha de densidade extrema de parques nacionais, colhereiros-de-cara-preta cresceram 24 vezes, salmão-cerejeira-formosano multiplicou-se 80 vezes, urso-negro-formosano deixou de ser ameaçado. Isto é talvez um dos experimentos de conservação de alta densidade mais bem-sucedidos do globo: no espaço mais exíguo, trabalho conservacionista refinado ainda consegue criar milagres.
+42 anos atrás, quando o Parque Nacional de Kenting foi estabelecido, Taiwan ainda estava sob regime de emergência militar. Hoje, nesta ilha com densidade extrema de parques nacionais, a garça-palita triplicou globalmente, o salmão-palhaço de Taiwan aumentou 80 vezes, e os ursos de Taiwan deixaram de ser ameaçados. Talvez esta seja uma das maiores experiências de conservação de alta densidade do mundo: em espaços tão pequenos, trabalhos de conservação tão precisos ainda podem criar milagres.
 
 ## Referências
 
-[^1]: [Direção dos Parques Nacionais do Ministério do Interior: Parque Nacional de Kenting](https://ktnp.gov.tw/) — Confirma anúncio de planeamento de Kenting em 1982, estabelecimento formal em 1984.
+[^1]: [Departamento de Parques Nacionais: Parque Nacional de Kenting](https://www.ktnp.gov.tw/) — Confirma que o Parque Nacional de Kenting foi planejado em 1982 e oficialmente estabelecido em 1984.
 
-[^2]: [Direção dos Parques Nacionais do Ministério do Interior](https://www.nps.gov.tw/) — Confirma estabelecimento formal da Direção dos Parques Nacionais em 20 de setembro de 2023.
+[^2]: [Departamento de Parques Nacionais](https://www.nps.gov.tw/) — Confirma a elevação oficial do departamento à categoria de órgão subordinado direto em 20 de setembro de 2023.
 
-[^3]: [Parque Nacional de Taijiang: Colhereiro-de-cara-preta](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Estatísticas de habitat do colhereiro-de-cara-preta em Taijiang e medidas de conservação.
+[^3]: [Parque Nacional de Zeelandia: garça-palita](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Estatísticas e medidas de conservação da garça-palita em Zeelandia.
 
-[^4]: [População de salmão-cerejeira-formosano estável, mantém 16 mil — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Confirma números populacionais recentes.
+[^4]: [Resistindo a tempestades e terremotos! População de peixe-tesouro estável, salmão-palhaço de Taiwan mantém 16.000 exemplares — Liberdade Diário](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Reportagem de janeiro de 2026 sobre a contagem de 16.020 exemplares em 2025, recuperação de 8,1 hectares de terra agrícola abandonada em Wuling, e primeira liberação por helicóptero em setembro; detalhes do transporte de 240 exemplares no [Noticiário da TV Pública 2025-09-04](https://news.pts.org.tw/article/769065).
 
-[^5]: [Direção de Silvicultura e Conservação da Natureza: números de urso-negro-formosano aumentam, população já não corre risco de extinção — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Declaração da Direção de Silvicultura e Conservação da Natureza em abril de 2025.
+[^5]: [Departamento de Silvicultura e Conservação Natural: população de ursos de Taiwan aumenta, sem risco iminente de extinção — Agência Central de Notícias](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Declaração do departamento em abril de 2025.
 
-[^6]: [Parque nacional é parque construído pelo Estado ou parque de nível nacional? — Universidade Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observação da professora Wang Chen-ling em 2015 sobre mal-entendido popular.
+[^6]: [Parque nacional é um parque construído pelo governo ou um parque nacional? — Universidade Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observações da professora Wang Chen-chin sobre equívocos populares em 2015.
 
-**Leitura complementar**
+[^7]: [Resultados da contagem global sincronizada de garça-palita de 2026 revelam nova marca histórica — Departamento de Silvicultura e Conservação Natural](https://www.forest.gov.tw/news/0078204) — Publicado em 10 de abril de 2026: 7.746 indivíduos globalmente, 4.719 em Taiwan (cerca de 61%), 2.034 em Tainan.
 
-- [Introdução aos parques nacionais — Yuan Executivo](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
-- [Parque Nacional do Atol de Dongsha](https://dongsha.gov.tw/)
+[^8]: [Disparos, cães alimentados, expansão populacional? Controvérsia sobre o caso do urso de Zhuoxi — Womai](https://wuo-wuo.com/report/instantnews/2217-20250424news) — Em 21 de abril de 2025, o urso YNP-BB02 do distrito de Zhuoxi foi atirado por patrulheiros em legítima defesa e posteriormente eutanasiado devido à gravidade das lesões; detalhes sobre "ter comido quatro cães em duas semanas" no [relato](https://www.twreporter.org/a/after-a-formosan-black-bear-shot-dead-in-hualien-zhuoxi-2).
+
+[^9]: [Introdução às áreas marinhas de proteção de Taiwan — Comissão de Conservação Marinha](https://www.oca.gov.tw/ch/home.jsp?id=349&parentpath=0%2C295%2C348) — Entre as áreas marinhas de proteção existentes, "os parques nacionais têm a maior proporção, com 81,28% da área total"; a visão "30×30" determina que "até 2030, pelo menos 30% da terra, águas interiores, costa e oceanos devem ser protegidos".
+
+**Leitura recomendada**
+
+- [Introdução aos parques nacionais — Gabinete Executivo](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
+- [Divisão de Gestão de Parques Nacionais Marinhos (Dongsha e Penghu Nansha)](https://www.marine.gov.tw/)

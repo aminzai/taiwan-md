@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T15:08:34+08:00",
-    "zhCommitHead": "ef68b70c9",
+    "lastUpdated": "2026-09-19T15:28:53+08:00",
+    "zhCommitHead": "8b6a5151d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1024,
-        "stale": 67,
+        "fresh": 1026,
+        "stale": 65,
         "metadata_stale": 11,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 886,
+        "fresh": 887,
         "stale": 108,
         "metadata_stale": 30,
-        "missing": 100,
+        "missing": 99,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1029,
-        "stale": 67,
+        "fresh": 1032,
+        "stale": 64,
         "metadata_stale": 10,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1022,
-        "stale": 74,
+        "fresh": 1023,
+        "stale": 73,
         "metadata_stale": 8,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1024,
-        "stale": 69,
+        "fresh": 1027,
+        "stale": 66,
         "metadata_stale": 12,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 964,
-        "stale": 73,
+        "fresh": 966,
+        "stale": 72,
         "metadata_stale": 67,
-        "missing": 20,
+        "missing": 19,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 932,
-        "stale": 69,
+        "fresh": 935,
+        "stale": 66,
         "metadata_stale": 10,
         "missing": 113,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 985,
-        "stale": 81,
+        "fresh": 986,
+        "stale": 80,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 937,
-        "stale": 61,
+        "fresh": 939,
+        "stale": 59,
         "metadata_stale": 11,
         "missing": 115,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 972,
-        "stale": 65,
+        "fresh": 973,
+        "stale": 63,
         "metadata_stale": 15,
-        "missing": 72,
+        "missing": 73,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1008,
-        "stale": 51,
+        "fresh": 1010,
+        "stale": 49,
         "metadata_stale": 9,
         "missing": 56,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 800,
+        "fresh": 803,
         "stale": 17,
         "metadata_stale": 4,
-        "missing": 303,
+        "missing": 300,
         "orphan": 0
       }
     },
@@ -2163,7 +2163,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/taiwan-music-industry-and-the-streaming-era.md",
+          "translatedFrom": "Music/台灣音樂產業與串流時代.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f71f072559f005b7",
+          "sourceBodyHash": "sha256:39fa5a6a860830cc",
+          "translatedAt": "2026-09-19T11:59:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/taiwan-music-industry-and-the-streaming-era.md",
@@ -5814,8 +5825,8 @@
           "sourceContentHash": "sha256:a6a639d332e8f086",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-09-19T05:09:12.505605+00:00",
-          "translationLastCommit": "abfd59a3",
-          "translationLastModified": "2026-09-13T18:12:41+08:00",
+          "translationLastCommit": "8b6a5151",
+          "translationLastModified": "2026-09-19T15:08:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -8779,7 +8790,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -25184,18 +25206,16 @@
         "vi": {
           "path": "vi/Technology/taiwan-television-industry-history.md",
           "translatedFrom": "Technology/台灣電視產業史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f8c3d1432bd47fe6",
-          "sourceBodyHash": "sha256:48b4e5475f2d12a8",
-          "translatedAt": "2026-09-16T11:57:32+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:cb8e72badaad3e3c",
+          "sourceBodyHash": "sha256:2f45cbda208db1c2",
+          "translatedAt": "2026-09-19T07:20:16.712695+00:00",
           "translationLastCommit": "3b25726c",
           "translationLastModified": "2026-09-16T17:05:56+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-television-industry-history.md",
@@ -35202,16 +35222,16 @@
         "id": {
           "path": "id/Art/contemporary-indigenous-art-taiwan.md",
           "translatedFrom": "Art/台灣原住民當代藝術.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:8e3303199d60c0c9",
-          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
-          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "sourceCommitSha": "5f683a19c",
+          "sourceContentHash": "sha256:95cf1ca6d1302123",
+          "sourceBodyHash": "sha256:a6d8e0ae74d03252",
+          "translatedAt": "2026-09-19T11:59:07+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (17→6)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/contemporary-indigenous-art-taiwan.md",
@@ -38548,18 +38568,16 @@
         "ko": {
           "path": "ko/Art/qseries-drama-platform.md",
           "translatedFrom": "Art/植劇場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:37996f439df838f6",
-          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
-          "translatedAt": "2026-05-13T01:08:20Z",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T07:19:49.534110+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/qseries-drama-platform.md",
@@ -38580,18 +38598,16 @@
         "fr": {
           "path": "fr/Art/qseries-drama-platform.md",
           "translatedFrom": "Art/植劇場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:37996f439df838f6",
-          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
-          "translatedAt": "2026-05-13T01:08:41Z",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T07:25:55.430536+00:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/qseries-drama-platform.md",
@@ -38642,53 +38658,58 @@
         "hi": {
           "path": "hi/Art/qseries-drama-platform.md",
           "translatedFrom": "Art/植劇場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:37996f439df838f6",
-          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
-          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T07:22:16.691375+00:00",
           "translationLastCommit": "9d20fd22",
           "translationLastModified": "2026-07-26T01:17:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/qseries-drama-platform.md",
           "translatedFrom": "Art/植劇場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:37996f439df838f6",
-          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
-          "translatedAt": "2026-07-26T11:16:51+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T07:22:36.065308+00:00",
           "translationLastCommit": "7e937944",
           "translationLastModified": "2026-07-26T13:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/qseries-drama-platform.md",
           "translatedFrom": "Art/植劇場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:37996f439df838f6",
-          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
-          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T07:21:52.537513+00:00",
           "translationLastCommit": "8096ea4e",
           "translationLastModified": "2026-07-26T03:09:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/qseries-drama-platform.md",
+          "translatedFrom": "Art/植劇場.md",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:fa35ce866d7f44e8",
+          "sourceBodyHash": "sha256:449507a2e31a92cb",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -39657,18 +39678,16 @@
         "id": {
           "path": "id/resources/official-websites.md",
           "translatedFrom": "resources/official-websites.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0d481ed818da82f8",
-          "sourceBodyHash": "sha256:6713c8a6c615e62a",
-          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "sourceCommitSha": "228056aba",
+          "sourceContentHash": "sha256:029227bd7721737f",
+          "sourceBodyHash": "sha256:0c3be7e5f653ab89",
+          "translatedAt": "2026-09-19T11:59:07+08:00",
           "translationLastCommit": "d1136a27",
           "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/resources/official-websites.md",
@@ -39707,8 +39726,8 @@
           "sourceContentHash": "sha256:029227bd7721737f",
           "sourceBodyHash": "sha256:0c3be7e5f653ab89",
           "translatedAt": "2026-09-19T11:59:10+08:00",
-          "translationLastCommit": "83044859",
-          "translationLastModified": "2026-07-26T04:13:39+08:00",
+          "translationLastCommit": "8b6a5151",
+          "translationLastModified": "2026-09-19T15:08:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39717,18 +39736,16 @@
         "ru": {
           "path": "ru/resources/official-websites.md",
           "translatedFrom": "resources/official-websites.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0d481ed818da82f8",
-          "sourceBodyHash": "sha256:6713c8a6c615e62a",
-          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "sourceCommitSha": "228056aba",
+          "sourceContentHash": "sha256:029227bd7721737f",
+          "sourceBodyHash": "sha256:0c3be7e5f653ab89",
+          "translatedAt": "2026-09-19T11:59:11+08:00",
           "translationLastCommit": "8096ea4e",
           "translationLastModified": "2026-07-26T03:09:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/resources/official-websites.md",
@@ -40148,16 +40165,16 @@
         "en": {
           "path": "en/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:01+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -40176,44 +40193,44 @@
         "ko": {
           "path": "ko/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-04-14T04:35:32+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:03+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:04+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-04-15T17:34:27+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:05+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -40232,16 +40249,16 @@
         "id": {
           "path": "id/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:07+08:00",
           "translationLastCommit": "19b0a39c",
           "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -40260,30 +40277,30 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:09+08:00",
           "translationLastCommit": "9d20fd22",
           "translationLastModified": "2026-07-26T01:17:01+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-07-26T05:17:40+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:10+08:00",
           "translationLastCommit": "e9e365ce",
           "translationLastModified": "2026-07-26T07:13:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -40300,7 +40317,18 @@
           "reason": "footnote-loss (9→0)"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+          "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47834,8 +47862,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-09-19T11:59:10+08:00",
-          "translationLastCommit": "3d3b12ab",
-          "translationLastModified": "2026-07-28T10:32:06+08:00",
+          "translationLastCommit": "8b6a5151",
+          "translationLastModified": "2026-09-19T15:08:38+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -48191,8 +48219,8 @@
           "sourceContentHash": "sha256:b47bd1e69ecf0593",
           "sourceBodyHash": "sha256:57a68bead4c3e5e8",
           "translatedAt": "2026-09-19T11:59:10+08:00",
-          "translationLastCommit": "7aeee405",
-          "translationLastModified": "2026-09-13T10:22:46+08:00",
+          "translationLastCommit": "8b6a5151",
+          "translationLastModified": "2026-09-19T15:08:38+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -60172,8 +60200,8 @@
           "sourceContentHash": "sha256:089b9a12e2ebe8d8",
           "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
           "translatedAt": "2026-09-19T11:59:10+08:00",
-          "translationLastCommit": "aa7d7b68",
-          "translationLastModified": "2026-09-12T09:39:07+08:00",
+          "translationLastCommit": "8b6a5151",
+          "translationLastModified": "2026-09-19T15:08:38+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73476,16 +73504,16 @@
         "en": {
           "path": "en/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-19T11:59:01+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Nature/national-parks.md",
@@ -73504,16 +73532,16 @@
         "ko": {
           "path": "ko/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-19T11:59:03+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/national-parks.md",
@@ -73532,16 +73560,16 @@
         "fr": {
           "path": "fr/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-19T11:59:05+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Nature/national-parks.md",
@@ -73574,16 +73602,16 @@
         "pt": {
           "path": "pt/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-19T11:59:08+08:00",
           "translationLastCommit": "bdce1787",
           "translationLastModified": "2026-07-26T08:48:56+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/national-parks.md",
@@ -156617,18 +156645,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-19T11:59:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -187775,7 +187792,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/rukai-lily.md",
+          "translatedFrom": "Culture/魯凱族百合花.md",
+          "sourceCommitSha": "27cda7cd4",
+          "sourceContentHash": "sha256:40afb2d50aafb904",
+          "sourceBodyHash": "sha256:741df566dca09227",
+          "translatedAt": "2026-09-19T11:59:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/rukai-lily.md",
