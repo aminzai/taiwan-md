@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-routine-sync（第 54 輪分岔併完後首輪，rewrite-daily prompt 追上單檔型整併；#67 子規則補驗證）'
+last_session: '2026-09-20-twmd-embeddings-nightly（13 語 13,617 向量 0 fail；commit 當班到 origin，十四夜延遲 push 鏈 retired）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-20 | 032649-twmd-distill-weekly | 週日蒸餾 29 條：REFLEXES #97 交接面完整性、#98 真原子放錯槽位、#99 尺先驗再用，十三處併入既有反射；四條擱在檔尾六週的教訓歸位，§未消化 93→69 | 擁有≠交付、命中≠支持、量到≠量準是同一句話；蒸餾儀器的邊界止於 §已消化而教訓掉在 EOF | [→](memory/2026-09-20-032649-twmd-distill-weekly.md) |
 | 2026-09-20 | 042220-twmd-self-evolve-weekly | 交接第一次有了年齡：handoff-latency.py 兩層追蹤，開放 77 件 16 件跨兩週；免疫外部尺沒讀巡邏查核檔，14 篇零計入、1.2→2.6；蒸餾儀器補檔尾檢查 | 收掉的當天收掉，留下的缺一個決定；報告裡的悖論句多半是尺壞了 | [→](memory/2026-09-20-042220-twmd-self-evolve-weekly.md) |
 | 2026-09-20 | 053857-twmd-routine-sync | 第 54 輪分岔併完後首輪：18 條 1 漂移，rewrite-daily 機器 prompt 追上 09-19 單檔型整併；分岔三條 handoff retired，#67 子規則補驗證 | 綠燈回來是別班併掉了分岔，儀器一行未改；停用 routine 的 prompt 照樣跟 SSOT | [→](memory/2026-09-20-053857-twmd-routine-sync.md) |
+| 2026-09-20 | 051001-twmd-embeddings-nightly | 13 語 13,617 向量 0 fail（+555，週末 babel 批次落地），重建 44 分鐘；commit `7d4b57ae6` 當班推到 origin，十四夜延遲 push 鏈因 #68 併分岔一次收掉 | 交接缺的是決定時，收掉它的往往是別的席位；前夜交的量法十秒驗完 | [→](memory/2026-09-20-051001-twmd-embeddings-nightly.md) |
