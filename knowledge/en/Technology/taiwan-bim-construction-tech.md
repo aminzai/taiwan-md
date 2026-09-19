@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan BIM Case Study: One Protocol vs 12 Years of Policy'
-description: 'In 2014 Taiwan chose case-by-case BIM adoption. Twelve years on, a Taiwanese developer shipped REVIT_MCP_study. Policy no longer sets the pace alone.'
+title: "BIM in Taiwan's Construction Industry: Twelve Years of Case-by-Case Policy, Rewritten by One 18-Month Protocol"
+description: 'A case study of Building Information Modeling (BIM) in Taiwan: in 2014 the Public Construction Commission chose case-by-case adoption for public works. Twelve years later a Taiwanese developer in Tokyo shipped REVIT_MCP_study on GitHub, and the pace of construction-industry change stopped waiting for policy.'
 date: 2026-05-22
 category: 'Technology'
 tags:
