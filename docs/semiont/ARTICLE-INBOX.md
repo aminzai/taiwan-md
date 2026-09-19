@@ -462,7 +462,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **訊號**：SC 7d（2026-08-07→08-13）opportunities 清單裡，前十條有九條是**英文 query、排名在第一頁、點擊數 0**。`c. c. wei` pos 5.73／imp 261／clicks 0；`asus origin country` pos 9.98／imp 154／clicks 0；`brigitte lin` pos 10.67／imp 448／clicks 0；`chen chih-chung` pos 4.14／imp 139／clicks 0；`blue uas cleared list 台灣廠商 2026` pos 5.03／imp 152／clicks 0
   - **已排除的解釋**：英文頁全部存在（`en/People/cc-wei.md`、`en/People/brigitte-lin-legendary-actress.md`、`en/People/chen-chih-chung.md`、`en/Economy/asus-computer.md`），也不是排名問題（多條在 pos 4-6）。**排到位、被看見、被拒絕**
   - **兩種失敗形態**：(1) **履歷式標題**——`cc-wei` 的 description 是「Born in 1953. B.S. and M.S. in Electronics Engineering...; Ph.D. ...; Career path: Texas Instruments → STM...」，分號與箭頭串起的學經歷，沒有一個鉤子 (2) **意圖錯配**——查 `asus origin country` 的人要一個事實（華碩是哪國公司），`asus-computer` 的 description 承諾的是「The inspiring story of a small motherboard maker」，既是塑膠句也答非所問
-  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/REWRITE-STAGE-2D-SOURCE-FIDELITY.md) 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
+  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-2D-SOURCE-FIDELITY.md)（v9，已歸檔） 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
   - **建議做法**：先拿 SC opportunities 全表（不只前十）撈出所有 `clicks=0 且 position<11 且 impressions>50` 的英文 query，對應回英文檔，批次重寫 title/description。這是**門面句層的批次 EVOLVE，不動正文**，成本低、可量測（下一週期同批 query 的 CTR 就是驗收）
   - **可能連帶**：若成立，babel pipeline 該補一道英文門面句 gate，讓翻譯不只是語言正確、也是入口正確
 - **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
@@ -1364,7 +1364,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 > 1. **對稱原則**：寫 candidate A 就一起寫 candidate B / 全 22 縣市對手都寫，不寫部分 — 不對稱 = endorsement signal。1.3 候選人系列若哲宇只 pick 部分，必須在文章 footer 明示「本系列尚未涵蓋 {對手姓名}，會持續補完」。
 > 2. **制度層為主**：「觀點」鎖在制度／歷史／方法層（為什麼這個制度值得珍惜 / 民主轉型不容易 / 透明度為什麼重要），**不下放到 candidate-level / policy-stance-level**。
 > 3. **選前 30 天 spore freeze**（2026-10-29 → 11-28）：禁止發任何 candidate-specific 孢子，避免選前 viral 期被讀為背書。寫進 [SPORE-PIPELINE](../factory/SPORE-PIPELINE.md) hard gate（待 ship 後加 plugin enforce）。
-> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
+> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE-SINGLE Stage 3 驗](../pipelines/REWRITE-PIPELINE-SINGLE.md#stage-3-驗預算-15-20)（3.3 FACTCHECK ＋ 3.4 story atom audit） 嚴格 enforce。
 > 5. **三道濾網 self-apply**：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) — 對 creator 預設加分 / multi-observer drift / editorial voice / 外部 critique default 不執行。
 >
 > **跟既有 article 的關係**：[History/大罷免.md](../../knowledge/History/大罷免.md) + [History/民主化.md](../../knowledge/History/民主化.md) + [History/台灣民主轉型.md](../../knowledge/History/台灣民主轉型.md) + [History/台灣轉型正義.md](../../knowledge/History/台灣轉型正義.md) + [History/台灣選舉與政黨政治.md](../../knowledge/History/台灣選舉與政黨政治.md) + [Technology/開源社群與g0v.md](../../knowledge/Technology/開源社群與g0v.md) 已 ship；本系列補制度層 + 縣市選舉脈絡層 + 候選人層三個 gap。

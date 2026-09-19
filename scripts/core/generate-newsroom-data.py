@@ -506,15 +506,15 @@ done_entries = re.findall(r"### (.+?) — (\d{4}-\d{2}-\d{2})", read(DONE_LOG))[
 # stage 進度表：wall-clock 帳本（下一節）跟 next_step 推導（再下一節）都要用，
 # 移到兩者之前先定義一次。
 ORDER = [
-    ("inbox", "REWRITE-STAGE-0-VIEWPOINT.md"),
-    ("viewpoint", "REWRITE-STAGE-0-VIEWPOINT.md"),
-    ("research", "REWRITE-STAGE-1A-RESEARCH.md"),
-    ("projection", "REWRITE-STAGE-2A-PROJECTION.md"),
-    ("room_projection", "REWRITE-STAGE-2B-ROOM-PROJECTION.md"),
-    ("write", "REWRITE-STAGE-2C-WRITE.md"),
-    ("room_prose", "REWRITE-STAGE-2E-ROOM-PROSE.md"),
-    ("verify", "REWRITE-STAGE-3-VERIFY.md"),
-    ("ship", "REWRITE-STAGE-4-FORMAT.md → REWRITE-STAGE-5-CROSSLINK.md"),
+    ("inbox", "SINGLE Step 0.1 模式判定"),
+    ("viewpoint", "SINGLE Step 0.6 觀點成型"),
+    ("research", "SINGLE Stage 1 取材"),
+    ("projection", "SINGLE Step 2.2-2.4 結尾先行／開場／小標"),
+    ("room_projection", "SINGLE Step 2.7 自檢套件"),
+    ("write", "SINGLE Step 2.5 寫正文"),
+    ("room_prose", "SINGLE Step 3.6.2 順稿"),
+    ("verify", "SINGLE Stage 3 驗"),
+    ("ship", "SINGLE Stage 4 形 → Stage 5 連"),
 ]
 
 # ── 9. wall-clock 事件帳本：補新事件 + 用帳本改寫 stages[stage].at ──

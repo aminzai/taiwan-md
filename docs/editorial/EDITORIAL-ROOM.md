@@ -199,7 +199,7 @@ rounds: 1
 > 如果構成一個主軸。」哲宇：「需要總編輯獨立一個 agent，用對抗性的方式把標題的
 > 觀點性、整篇文章的脈絡做總評。」
 
-**REWRITE 錨點**：Step 3.7（[REWRITE-STAGE-3-VERIFY.md](../pipelines/REWRITE-STAGE-3-VERIFY.md)
+**REWRITE 錨點**：Step 3.7（v9 多檔型，2026-09-19 已歸檔——現行單檔型不設多席編輯室，本檔留作歷史脈絡：[archive/REWRITE-STAGE-3-VERIFY.md](../pipelines/archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-3-VERIFY.md)
 §總編對抗總評）。**觸發面**：A 級／大眾文 HARD，standard WARN。與 3.6 同 round 可平行。
 
 **與 2.5-R 的分工**：2.5-R 驗「正文有沒有執行藍圖」（對圖施工驗收）；總編室**不看藍圖**，

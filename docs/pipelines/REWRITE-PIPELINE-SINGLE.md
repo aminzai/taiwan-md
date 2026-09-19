@@ -15,7 +15,6 @@ sister_docs:
   - 'PEER-INGESTION-PIPELINE.md'
   - 'MEMORY-PIPELINE.md'
   - 'DIARY-PIPELINE.md'
-  - 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../semiont/DNA.md'
@@ -24,7 +23,7 @@ upstream_canonical:
 
 # REWRITE-PIPELINE-SINGLE.md — 文章改寫主流程 v6.8（單檔型，現行）
 
-> **現行 canonical（2026-09-19 起）。** v9 多檔型（[REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) 薄索引＋十個 `REWRITE-STAGE-*.md` contract）留校察看、先不使用。這份從 2026-06-06〈國宅與居住正義〉ship 當天的 v6.7 續行，只加了五件 9/18-19 三篇實驗證明重要的事：**(1) 論點是一句對台灣的主張**，主詞是人、機構、制度或事件，「這場討論的形狀」不算論點（Step 0.6.5）；**(2) 研究 ~100 次天花板，其中一隻 lane 專門找人**（Step 1.1）；**(3) 開場是一個人在一個時刻做一件事，每段最多一個要讀者記住的數字**（Step 2.3）；**(4) tw-\* 模組單篇 ≤ 4**（Step 2.8）；**(5) 沒有冷讀站**——可讀性由 Step 2.3 與 `opening-readability.py` 接住（Step 4.1）。背景：[LESSONS `third-type-thesis-defaults-to-meta-observation`](../semiont/LESSONS-INBOX.md)、工單 [reports/staging/humanize-brief-2026-09-19.md](../../reports/staging/humanize-brief-2026-09-19.md)。工具名以現行 `scripts/tools/` 為準（`article-health.py` 家族）。
+> **現行 canonical（2026-09-19 起）。行數帽 2,300（husky 擋），只走 v6.x patch，升 minor 要哲宇拍板＋等量減法。不長回來的三樣：不設冷讀站、不設多席編輯室、不加後設論點形態。規則准入：錯誤修儀器不修句子，悶才進規則，且只從讀者 callout 進、每條寫明哪次 callout 哪篇。** v9 多檔型已搬 [archive/rewrite-v9.9-2026-09-19/](archive/rewrite-v9.9-2026-09-19/README.md)。這份從 2026-06-06〈國宅與居住正義〉ship 當天的 v6.7 續行，只加了五件 9/18-19 三篇實驗證明重要的事：**(1) 論點是一句對台灣的主張**，主詞是人、機構、制度或事件，「這場討論的形狀」不算論點（Step 0.6.5）；**(2) 研究 ~100 次天花板，其中一隻 lane 專門找人**（Step 1.1）；**(3) 開場是一個人在一個時刻做一件事，每段最多一個要讀者記住的數字**（Step 2.3）；**(4) tw-\* 模組單篇 ≤ 4**（Step 2.8）；**(5) 沒有冷讀站**——可讀性由 Step 2.3 與 `opening-readability.py` 接住（Step 4.1）。背景：[LESSONS `third-type-thesis-defaults-to-meta-observation`](../semiont/LESSONS-INBOX.md)、工單 [reports/staging/humanize-brief-2026-09-19.md](../../reports/staging/humanize-brief-2026-09-19.md)。工具名以現行 `scripts/tools/` 為準（`article-health.py` 家族）。
 
 > **第一性原理**：所有文章都走同一條 6-stage pipeline，每篇都跑過。模式判定 + 編輯前思考收斂在 **Stage 0 觀點**（Step 0.1-0.6），Stage 1 變純取材，Stage 2-5 完全 mode-agnostic。
 >
@@ -1526,7 +1525,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 ```bash
 python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profile=rewrite-stage-4
-python3 scripts/tools/opening-readability.py knowledge/{Category}/{文章}.md   # 前四段：數字 ≤ 5／百字、句長 ≤ 45、口徑詞 < 4（WARN）
+python3 scripts/tools/opening-readability.py knowledge/{Category}/{文章}.md   # 前四段：band 由範本定（WARN 3.6／百字、38 字；HARD ×1.3），exit 2 = 退回改寫
 ```
 
 `opening-readability.py` 只量得到數字密度與句長，量不到「有沒有人」——那靠 Step 2.3 與 Step 1.1 的找人 lane。

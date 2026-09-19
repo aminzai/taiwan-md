@@ -1317,6 +1317,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 3（同日三篇，同型；v2 對照實驗確認因果）
 - **severity**: structural
 
+### 2026-09-19 news-radar — gate-ratchet-only-grows-on-errors：閘門只在錯誤發生時長出來，沒有准入條件就單向膨脹
+
+- **pattern**: `gate-ratchet-only-grows-on-errors`
+- **原則**：REWRITE 從 v6.7（2026-06-04，2,169 行）到 v9.9（2026-09-07，多檔 8,945 行）的 87 個 commit，每一段都是一次錯誤換來的（腳註死連結、圖說幻覺、數字算兩次、席位漏看），沒有一段是一次「悶」換來的。錯可量、悶不可量，於是閘門只有加法沒有減法，而每一道新閘門誕生時都有一個真實事故當理由，沒有人有立場說不。三個月後產線交出三篇全綠但沒人想讀的文章。**准入條件**（2026-09-19 整併工單 §四）：錯誤 → 修儀器（資料源、FACTCHECK、`article-health` check），不新增 pipeline 段落；悶 → 才准進規則，且只從哲宇或讀者的 callout 進，每條寫明哪次 callout、哪篇。結構上用行數帽（SINGLE 2,300，husky 擋）把減法變成加法的前提。
+- **觸發**：2026-09-19 哲宇讀完 9/18 三篇「文謅謅／堆砌／數字過重」→ 單檔型重做後對味 → 10:16 委 Muse 擬整併處置（[工單](../../reports/staging/rewrite-consolidation-brief-2026-09-19.md)）。同日 session 自己在改 canonical 時被 pre-commit 擋兩次（status enum、版號單調），那兩道閘門也是錯誤換來的，它們在做該做的事——問題從來不是任何一道閘門，是沒有一道閘門在問「這篇有沒有人在說話」。日記：[2026-09-19-003000-news-radar](diary/2026-09-19-003000-news-radar.md)。
+- **instances**：
+  - 2026-09-19 REWRITE v6.7→v9.9 87 commit 全部 error-driven，三篇全綠沒主見（本條誕生）
+- **可能層級**：通用反射候選（跨 pipeline：SPORE-PIPELINE 1334→445 行那次重組是同一個病的上一輪，EVOLVE Mode 3 觸發訊號表已有「單檔 > 1000 行」但沒有「只加不減」這一條）＋ MANIFESTO §14 高儀器化的補充：儀器化不只是把判斷交給機器，也是讓規則層停止長大。
+- **相關**：REFLEXES #15 反覆浮現要儀器化（本條是它的反面：儀器化過頭也會長成產線）；#69 (g) form gate ≠ meaning gate；`third-type-thesis-defaults-to-meta-observation`（同 session，這條講的是那條的生成機制）；EVOLVE-PIPELINE Mode 3 §產線成本審視（減法有外部尺）。
+- **verification_count**: 1
+- **severity**: structural
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

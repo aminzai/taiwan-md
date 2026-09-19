@@ -13,7 +13,7 @@ upstream_canonical:
   - 'graph.md'
 related:
   - '../../reports/design-viz-adoption-2026-08-02.md'
-  - '../pipelines/REWRITE-STAGE-2A-PROJECTION.md'
+  - '../pipelines/REWRITE-PIPELINE-SINGLE.md'
 ---
 
 # VIZ-RECIPES — 從題材找圖，不是從圖種找題材
@@ -295,7 +295,7 @@ related:
 
 - **新增用例的條件**：某個模組在真實文章裡被用起來、而且寫法值得別篇抄，就把那個寫法收進來。**用例來自真實文章，不是憑空設計的示範**，這一份第一版的樣本資料全部取自型錄頁已查證的數據。
 - **模組數量、語法欄位、設計原則**一律以 [graph.md](graph.md) 為準，本檔不寫死也不複寫。
-- **零使用模組追蹤**：如果某個模組又長期零真實使用，先問「§二 索引有沒有它的入口」，再問「[REWRITE-STAGE-2A Step 2.0.5](../pipelines/REWRITE-STAGE-2A-PROJECTION.md) 的十五類有沒有點名它」。2026-08-02 那次的答案是兩個都沒有。
+- **零使用模組追蹤**：如果某個模組又長期零真實使用，先問「§二 索引有沒有它的入口」，再問「[v9 Step 2.0.5 十五類資料關係](../pipelines/archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-2A-PROJECTION.md)（已歸檔；現行走 graph.md §二 型錄）有沒有點名它」。2026-08-02 那次的答案是兩個都沒有。
 
 🧬
 

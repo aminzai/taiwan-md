@@ -10,7 +10,7 @@ sister_docs:
   - 'PROJECTION.md'
   - 'EDITORIAL.md'
   - 'EDITORIAL-ROOM.md'
-  - '../pipelines/REWRITE-STAGE-0-VIEWPOINT.md'
+  - '../pipelines/REWRITE-PIPELINE-SINGLE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - 'PROJECTION.md'
@@ -22,7 +22,7 @@ upstream_canonical:
 > 每個文體族＝一組經實戰驗證的「論點形態＋骨架形狀＋舉證義務＋失敗模式」成套規格，
 > 讓 Stage 0 與 Step 2.0 不必每篇在編輯室裡重新發明同一套規則。
 >
-> **使用順序**：先照 [REWRITE-STAGE-0-VIEWPOINT Step 0.1.5](../pipelines/REWRITE-STAGE-0-VIEWPOINT.md) 判三型（不變）→ 再查本檔選族（**optional**，查不到就用通用立體群像照舊跑）→ 再選手法（不變）。選了族就把 `spine_pattern: P{N} {名稱}` 寫進 research report frontmatter。
+> **使用順序**：先照 [SINGLE Step 0.1 模式識別](../pipelines/REWRITE-PIPELINE-SINGLE.md#step-01-模式識別) 判定（v9 的三型判準原文在 [archive](../pipelines/archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-0-VIEWPOINT.md)；論點規則現在只有一條：一句對台灣的主張，見 PROJECTION §三）→ 再查本檔選族（**optional**，查不到就用通用立體群像照舊跑）→ 再選手法（不變）。選了族就把 `spine_pattern: P{N} {名稱}` 寫進 research report frontmatter。
 >
 > **本檔管不到的事，先講明**：文體族的 checklist 管骨架選擇，管不到意義校準（具體數字有沒有象徵重量、中立語氣有沒有誤縮份量、後台語言有沒有洩漏進正文——黃崇仁六處 callout 那一層）。那一層住在 [EDITORIAL](EDITORIAL.md) 與編輯室外部尺。查了表不等於品質保證。
 

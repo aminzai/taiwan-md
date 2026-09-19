@@ -33,7 +33,7 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 
 ## Orchestrator 派發 SOP（五步）
 
-1. **前置**：Stage 1 已合成單檔 research report（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）+ `research-report-health.py` PASS。writer 只讀一個 research 檔。
+1. **前置**：Stage 1 已合成單檔 research report（[SINGLE Step 1.7](REWRITE-PIPELINE-SINGLE.md#step-17-研究報告--ssot對標研究所論文標準-)）+ `research-report-health.py` PASS。writer 只讀一個 research 檔。
 2. **填槽** → copy 模板整塊，只動 `{SLOT}`，禁增刪改寫模板文字。
 3. **Spawn**：`general-purpose` + Opus，fresh context（per [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。
 4. **驗 read-receipt**（收件第一動作）：四項逐一核對——(a) §8 texture quote 真在 research 檔、(b) EDITORIAL 引例真存在、(c) **graph.md 模組宣告**（十五類資料關係逐類答用／不用，不是只列想到的；要用的補哪個 `tw-*`＋回答什麼關係；或引 graph.md §九 明寫「評估過、無適合資料」）、(d) spine＋結尾宣告與 research §0 一致。**任一造假／缺席 = SendMessage 退回重讀**，不是放行。
@@ -83,7 +83,7 @@ spine：{SPINE}
 - 【骨架複述】逐 section 複述藍圖給它的**全局功能**（這一段替論點做什麼），一句一段——證明你讀懂的是論證不是面向清單
 - 【§8 texture】從 research §8 抄 3 個會用進文章的具體細節（各附 §8 子節位置）
 - 【EDITORIAL 引例】quote 1 個 Before/After 或禁令範例＋你會怎麼套用
-- 【viz 宣告】對照 [REWRITE-STAGE-2A Step 2.0.5](REWRITE-STAGE-2A-PROJECTION.md) 的十五類資料關係**逐類答一句「用／不用＋為什麼」**，不是只列想到的那幾個——沒被點名的類別要被明確排除，不能靜默跳過（六個模組零使用就是這樣來的）。要用的再補：哪個 `tw-*`、放哪節。全部不用則引 graph.md §九 說明理由
+- 【viz 宣告】對照 [graph.md §二 型錄](../editorial/graph.md) 的資料關係**答「用哪幾個、各回答什麼」，單篇 ≤ 4**（v9 的十五類逐類作答已歸檔），不是只列想到的那幾個——沒被點名的類別要被明確排除，不能靜默跳過（六個模組零使用就是這樣來的）。要用的再補：哪個 `tw-*`、放哪節。全部不用則引 graph.md §九 說明理由
 - 【論點＋結尾】一句藍圖論點宣告＋收尾畫面（結尾先行）
 主 session 會逐項核對真偽；骨架複述對不上藍圖、或 quote 不出來 = 沒讀 = 退回。
 

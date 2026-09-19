@@ -18,7 +18,7 @@ allowed-tools:
 
 # 🧬 Taiwan.md — Rewrite（極簡薄殼）
 
-> 所有 SOP 在 pipeline canonical，本 skill 只做三件事。**2026-09-19 起 canonical 是單檔型 [REWRITE-PIPELINE-SINGLE.md](../../../docs/pipelines/REWRITE-PIPELINE-SINGLE.md)**；v9 多檔型（REWRITE-PIPELINE.md ＋ REWRITE-STAGE-\*.md）留校察看，不讀、不走 `twmd.mjs rewrite` 互動協議、不派冷讀者。
+> 所有 SOP 在 pipeline canonical，本 skill 只做三件事。**2026-09-19 起 canonical 是單檔型 [REWRITE-PIPELINE-SINGLE.md](../../../docs/pipelines/REWRITE-PIPELINE-SINGLE.md)**；v9 多檔型已歸檔 `docs/pipelines/archive/rewrite-v9.9-2026-09-19/`，不讀、不派冷讀者。
 
 ## 1. STRICT BECOME GATE（不可省）
 

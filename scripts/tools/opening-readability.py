@@ -11,15 +11,17 @@
   3. 口徑限定詞在前 N 段重複幾次（本國籍全時受僱員工／經常性薪資／稅前批售價 這類
      為了防冷讀者「哪個口徑」而長出來的詞）
 
-基準線是哲宇點名喜歡的文章（黃魚鴞 4.2 / 43 字；嚴長壽 0.7 / 34 字），不是絕對真理；
-數字只告訴你往哪個方向走，人味本身要靠冷讀者「讀到哪裡想關掉」那一題。
+口徑（2026-09-19 統一）：先剝掉 [^n] 腳註標記再數，年份也算數字。humanize brief 病灶表量到的
+黃魚鴞 4.2 是連腳註數字一起算的舊口徑，本工具的 1.5 才是現行口徑。
+基準線由範本定，不發明數字：哲宇點名喜歡的五篇在這把尺上——黃魚鴞 1.5／31 字、嚴長壽 0.4／27、
+陳樹菊 1.4／19、居住正義 0.8／38、國宅與居住正義 3.6／28。WARN ＝ 範本上緣（數字 3.6／百字、句長 38），
+HARD ＝ 範本上緣 × 1.3（4.7／49）。口徑限定詞 4 次 WARN、6 次 HARD。哲宇讀第一段仍是最終尺，儀器只擋明顯的。
 
 用法：
   python3 scripts/tools/opening-readability.py knowledge/Society/誰算低薪.md [--paras 4] [--json]
   python3 scripts/tools/opening-readability.py a.md b.md c.md      # 多檔並列比較
 
-Exit code：0 = 在基準內；1 = 任一面向超出 WARN 線（數字 > 5/百字、句長 > 45、口徑詞 ≥ 4）。
-WARN 線是 2026-09-19 用七篇對照定的初值，下次 self-evolve 用真實產出重校（REFLEXES #66）。
+Exit code：0 = 在基準內；1 = 任一面向超出 WARN；2 = 任一面向超出 HARD。
 """
 from __future__ import annotations
 
@@ -29,9 +31,12 @@ import re
 import sys
 from pathlib import Path
 
-WARN_NUM_PER_100 = 5.0
-WARN_AVG_SENT = 45
+WARN_NUM_PER_100 = 3.6
+HARD_NUM_PER_100 = 4.7
+WARN_AVG_SENT = 38
+HARD_AVG_SENT = 49
 WARN_QUALIFIERS = 4
+HARD_QUALIFIERS = 6
 
 QUALIFIER_RE = re.compile(
     r"本國籍全時受僱員工|全時受僱|經常性薪資|非經常性薪資|口徑|稅前批售價|批售價|"
@@ -71,11 +76,18 @@ def measure(path: Path, n_paras: int) -> dict:
     quals = len(QUALIFIER_RE.findall(joined_nofn))
     num_per_100 = nums / cjk * 100 if cjk else 0.0
     warns = []
-    if num_per_100 > WARN_NUM_PER_100:
+    hards = []
+    if num_per_100 > HARD_NUM_PER_100:
+        hards.append(f"數字密度 {num_per_100:.1f}/百字 > {HARD_NUM_PER_100}")
+    elif num_per_100 > WARN_NUM_PER_100:
         warns.append(f"數字密度 {num_per_100:.1f}/百字 > {WARN_NUM_PER_100}")
-    if avg_sent > WARN_AVG_SENT:
+    if avg_sent > HARD_AVG_SENT:
+        hards.append(f"平均句長 {avg_sent:.0f} 字 > {HARD_AVG_SENT}")
+    elif avg_sent > WARN_AVG_SENT:
         warns.append(f"平均句長 {avg_sent:.0f} 字 > {WARN_AVG_SENT}")
-    if quals >= WARN_QUALIFIERS:
+    if quals >= HARD_QUALIFIERS:
+        hards.append(f"口徑限定詞 {quals} 次 ≥ {HARD_QUALIFIERS}")
+    elif quals >= WARN_QUALIFIERS:
         warns.append(f"口徑限定詞 {quals} 次 ≥ {WARN_QUALIFIERS}")
     return {
         "file": str(path),
@@ -87,6 +99,7 @@ def measure(path: Path, n_paras: int) -> dict:
         "longest_sentence": max(sent_lens) if sent_lens else 0,
         "qualifiers": quals,
         "warns": warns,
+        "hards": hards,
     }
 
 
@@ -103,11 +116,13 @@ def main() -> int:
         print(f"{'檔案':<28} {'字':>5} {'數字/百字':>8} {'句長':>5} {'最長句':>6} {'口徑詞':>6}  判定")
         for r in results:
             name = Path(r["file"]).stem[:14]
-            flag = "⚠️ " + "；".join(r["warns"]) if r["warns"] else "✅"
+            flag = ("❌ " + "；".join(r["hards"])) if r["hards"] else (("⚠️ " + "；".join(r["warns"])) if r["warns"] else "✅")
             print(
                 f"{name:<28} {r['cjk']:>5} {r['num_per_100']:>8} {r['avg_sentence']:>5.0f} "
                 f"{r['longest_sentence']:>6} {r['qualifiers']:>6}  {flag}"
             )
+    if any(r["hards"] for r in results):
+        return 2
     return 1 if any(r["warns"] for r in results) else 0
 
 
