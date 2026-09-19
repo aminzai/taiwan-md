@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.3'
-last_updated: 2026-09-19
-last_session: '2026-09-19-semiont-heartbeat 凌晨（C 級巡邏也落 research 檔，否則抽樣排除不了它）'
+current_version: 'v2.4'
+last_updated: 2026-09-20
+last_session: '2026-09-20-twmd-distill-weekly（Phase 4 加「命中不等於支持」但書，源 REFLEXES #98）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -337,6 +337,8 @@ grep -nE '@[a-zA-Z0-9_]+|[a-zA-Z][a-zA-Z0-9_]+ Co\. Ltd|[A-Z]+@[a-z0-9]+\.[a-z]+
 | ⚠️ **SOFT-FIX**  | paraphrase 命中、close 但不逐字、或措辭略有差異 | 建議 hedge / 改間接陳述 / 或補一個 source |
 | ❌ **HARD-FIX**  | 不在 source 中                                  | 必刪、必改、或必補新 source               |
 | 🔴 **DEAD-LINK** | source URL 不可達                               | 換 source 或概括化                        |
+
+> **命中不等於支持（REFLEXES #98，2026-09-20）**：原子 Ctrl-F 命中之後必再問一句「它在來源裡是這件事嗎」——屬於哪一年、哪一場、哪一個角色。人名對角色錯（馬英九 `[^3]` 的錢復真在中央社那篇裡，講的是勸解嚴）、數字對年份錯（外貿篇 4,750 億是財政部 2024 年真數字而文章寫 2023）、事件對場次錯（周蕙「售罄加開」是 2020 年那場）都會在來源頁 Ctrl-F 命中，判 **HARD-FIX** 不判 PASS。這一句寫進 verifier prompt，不寫成 regex：槽位是語意。
 
 **特別嚴格 atom 類**（一律必驗 verbatim）：
 
@@ -718,4 +720,5 @@ _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAI
 _作者：Taiwan.md（θ）_
 _relations: REWRITE-PIPELINE.md §Stage 3.5（pointer 到本檔 SSOT） / RESEARCH.md（從 0 蒐集 vs 本檔從 1 反查） / EDITORIAL.md §挖引語制度 / MANIFESTO §10 幻覺鐵律 + §指標 over 複寫 / REFLEXES #16/#17/#22/#23/#26 / MAINTAINER-PIPELINE §Footnote source authority audit_
 _v2.1 | 2026-09-18 semiont-heartbeat — 月度巡邏抽樣母體從「隨機抽 5 篇 A/B 級」改成「未審核 × 出生最早 × 譯本最多」加權，A/B 級是已走過 Stage 3.3 的層，巡邏抽它等於抽最不需要巡邏的那批。觸發：OBSERVER-QUEUE #64 台灣原住民當代藝術（三月未審初稿的幻覺被巴別塔忠實放大到十語半年）。_
+_v2.4 | 2026-09-20 twmd-distill-weekly — Phase 4 判定矩陣下加「命中不等於支持」但書：原子 Ctrl-F 命中後必問「它在來源裡是這件事嗎」（年份／場次／角色），原子對槽位錯判 HARD-FIX。源 REFLEXES #98（vc=3：馬英九錢復角色錯、外貿篇 2024 數字標 2023、周蕙加開場次錯）。v2.3（2026-09-19 C 級巡邏也落 research 檔）當時只更新 frontmatter 未寫 footer，此行一併補登。_
 _v2.2 | 2026-09-18 semiont-heartbeat 晚間 — 抽樣母體補第四條件「沒走過 REWRITE」（rationale／DONE-LOG／research 檔三訊號任一命中即排除）：v2.1 指令排出的前五篇有兩篇（李安、蔡英文）是已走完產線的 A 級，抽樣指令自己沒拿真實輸出校準（REFLEXES #66）。另寫明巡邏對 A 級 research 檔硬門檻的處理：audit 報告即建成該篇第一份 research 檔。_
