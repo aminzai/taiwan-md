@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T14:19:25+08:00",
-    "zhCommitHead": "31eb00818",
+    "lastUpdated": "2026-09-19T14:24:11+08:00",
+    "zhCommitHead": "c3f5b7b17",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1021,
+        "fresh": 1022,
         "stale": 71,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 19,
         "orphan": 0
       },
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 929,
-        "stale": 71,
+        "fresh": 930,
+        "stale": 70,
         "metadata_stale": 11,
         "missing": 113,
         "orphan": 0
@@ -48172,18 +48172,16 @@
         "id": {
           "path": "id/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "598a5a547",
-          "sourceContentHash": "sha256:2021a6224e30bd5e",
-          "sourceBodyHash": "sha256:ab86534e207e2b33",
-          "translatedAt": "2026-09-15T02:46:22+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:b47bd1e69ecf0593",
+          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
+          "translatedAt": "2026-09-19T11:59:07+08:00",
           "translationLastCommit": "b44548b9",
           "translationLastModified": "2026-09-17T11:23:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+26 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-grid-resilience.md",
@@ -60101,8 +60099,8 @@
           "sourceContentHash": "sha256:089b9a12e2ebe8d8",
           "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
           "translatedAt": "2026-09-19T11:59:03+08:00",
-          "translationLastCommit": "a311064f",
-          "translationLastModified": "2026-09-13T15:20:59+08:00",
+          "translationLastCommit": "c3f5b7b1",
+          "translationLastModified": "2026-09-19T14:19:25+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -123501,8 +123499,8 @@
           "sourceContentHash": "sha256:7a0754dc62002a77",
           "sourceBodyHash": "sha256:f80ea3550618f493",
           "translatedAt": "2026-09-19T11:59:03+08:00",
-          "translationLastCommit": "6631c004",
-          "translationLastModified": "2026-08-04T15:27:38+08:00",
+          "translationLastCommit": "c3f5b7b1",
+          "translationLastModified": "2026-09-19T14:19:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -188895,8 +188893,8 @@
           "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-09-19T11:59:03+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "c3f5b7b1",
+          "translationLastModified": "2026-09-19T14:19:25+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -188921,18 +188919,16 @@
         "fr": {
           "path": "fr/Culture/taiwan-variety-shows.md",
           "translatedFrom": "Culture/台灣綜藝.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:a2572613f79ed394",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
-          "translatedAt": "2026-05-02T01:17:16+08:00",
+          "translatedAt": "2026-09-19T11:59:05+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/taiwan-variety-shows.md",
