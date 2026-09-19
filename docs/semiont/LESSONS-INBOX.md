@@ -476,6 +476,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：[REFLEXES #82](REFLEXES.md) proxy signal 家族——「人名有沒有出現」是「這句話有沒有被支持」的替身。也接 [#75](REFLEXES.md)「Read ≠ verify」：讀到了、搜到了，都不等於驗過。
 - **候選修法**：(a) 查核腳註時，抓到人名命中要再問一句「它在來源裡做的是這件事嗎」，把這句寫進 FACTCHECK 的 verifier prompt（不是寫成 regex）；(b) 若要儀器輔助，能做的只到「把命中的那句連同前後文撈出來給人看」，不能做到判定；(c) 這條的對象是在世政治人物，錯誤成本偏高，屬 FACTCHECK Full mode 優先掃描的類別。
 - **severity**: structural
+- **verification_count**: 3（2026-09-19 20:43 heartbeat 巡邏兩篇把這條從「人名」放大成「真原子放錯格」的家族：`Art/台灣當代雕塑發展` 四位真人雕塑家——廖迎晰、陳正雄、蒲浩明、李億勳——名字全對、媒材全是別人的（木雕家被寫成石雕禪意、馬賽克家被寫成青銅寫實）；`Economy/台灣外貿與全球供應鏈` 出口 4,750 億、對中港 31.7% 全是財政部真數字，只是屬 2024 年而文章寫 2023、腳註掛 2023 年 PDF，讀者去財政部網站 Ctrl-F 會找到那個數字然後替錯誤蓋章。加上 09-18 周蕙「售罄加開」是 2020 年那場的真事掛到 2026 年，三天三種載體：人名對角色錯、數字對年份錯、事件對場次錯。三例共同點是**每個原子單獨查都查得到**，錯在原子與槽位的配對，任何「拿原子去來源頁 grep」的儀器都會回報命中。判定只能在讀懂那個原子在來源裡屬於哪一年、哪一場、哪一個角色之後——這是 FACTCHECK Phase 4 verifier prompt 該多問的那一句「它在來源裡是這件事嗎」的通用版）
 - **相關**：[Issue #1729](https://github.com/frank890417/taiwan-md/issues/1729) / ARTICLE-INBOX P0「馬英九 FACTCHECK Full」/ [MANIFESTO §10](MANIFESTO.md) 幻覺六型 / LESSONS `adding-a-live-url-to-an-unverifiable-quote-looks-like-an-upgrade`（2026-09-04，同樣是「引文與網址的關係看起來成立但不成立」的另一種形狀）
 
 ### 2026-09-10 twmd-maintainer-am — pipeline-requeues-what-a-contributor-is-already-translating：產線的待翻佇列看不見開著的投稿 PR，於是跟投稿者搶同一篇
