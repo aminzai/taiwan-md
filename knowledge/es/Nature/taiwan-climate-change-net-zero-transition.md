@@ -30,10 +30,10 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:387f185bb5291526'
-sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
-translatedAt: '2026-08-04T10:44:03.918882+00:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:e17f8ccac18bf65b'
+sourceBodyHash: 'sha256:65e86904ae441416'
+translatedAt: '2026-09-19T13:41:27.124432+00:00'
 ---
 
 # Crisis climática y transición hacia el cero neto en Taiwán: la elección del límite físico comenzó el día que falló el referéndum de la planta nuclear Nucles 3
@@ -281,40 +281,42 @@ El «Informe Científico Nacional sobre el Cambio Climático 2024», coordinado 
 
 Para una isla de 23 millones de personas, las emisiones de carbono de Taiwán son desproporcionadamente altas: en términos de $\text{CO}_2$ por combustibles fósiles, emite unos 280 millones de toneladas anuales (unos 11,7 toneladas per cápita), situándose entre los niveles más altos del mundo; según diversas bases de datos, se ubica aproximadamente en el puesto veinte a nivel global[^8]. Las emisiones se concentran en el uso de energía y la generación eléctrica. El núcleo del problema es la estructura de generación: en 2024, el gas natural representó el 42,4 % y el carbón el 39,3 % (el gas superó al carbón por primera vez); las renovables fueron el 11,6 % y la nuclear el 4,2 %[^20]. **Este es un sistema energético aún muy dependiente de combustibles fósiles, y Taiwán importa el 98 % de su energía. La seguridad energética y la crisis climática son el mismo problema.**
 
-## El paralelismo entre la democracia y la física
+## La Paralelismo entre la Democracia y la Física
 
-El referéndum de Nucles 3 de la tarde del 23 de agosto de 2025 puso todas las contradicciones sobre la pantalla de recuento.
+La consulta popular sobre Nucles 3 del 23 de agosto de 2025 puso todos los矛盾 (contradicciones) de este tema en el escrutinio.
 
-74 % a favor, 29,53 % de participación, umbral no alcanzado, solicitud enviada por Taipower en marzo de 2026, reapertura más rápida en 2028. Simultáneamente: 97.672 barriles en Lanyu, Onkalo en Finlandia tardando 50 años, la geotermia a 27 veces de su meta, la energía oceánica en pruebas de 100 kW y la cuarta generación nuclear para 2045. Cada cifra pregunta: **¿puede la velocidad de la democracia seguir el ritmo de la velocidad de la física?**
+Con un 74% a favor, un 29.53% de participación, sin alcanzar el umbral, la entrega por parte de Taipower en marzo de 2026 y una posible reactivación más temprana en 2028. Al mismo tiempo: 97.672 barriles en Lanyu, Onkalo en Finlandia durante 50 años, una diferencia geotérmica de 27 veces, la energía oceánica aún en 100 kW y la energía nuclear de cuarta generación para 2045. Cada número pregunta: **¿El ritmo de la democracia puede seguir el ritmo de la física?**
 
-| Cronograma Democrático                     | Cronograma Físico                                        |
-| :----------------------------------------- | :------------------------------------------------------- |
-| 23/08/2025 Recuento referéndum             | Lanyu inaugurado en 1982, posible permanencia hasta 2057 |
-| 25/08/2025 Rueda de prensa tres principios | Aislamiento de residuos nucleares por 100.000 años       |
-| 27/03/2026 Taipower envía solicitud        | Repositorio final en Finlandia tardó 50 años             |
-| Reapertura más rápida 2028                 | Geotermia a 27 veces del objetivo                        |
-| Objetivo cero neto 2050                    | Energía oceánica aún en pruebas de 100 kW                |
+| Cronograma Democrático                                        | Cronograma Físico                                     |
+| :------------------------------------------------------------ | :---------------------------------------------------- |
+| Votación del 23/08/2025                                       | Puesta en marcha de Lanyu en 1982, posible hasta 2057 |
+| Conferencia de prensa sobre los Tres Principios el 25/08/2025 | Aislamiento de residuos nucleares por 100.000 años    |
+| Entrega de Taipower el 27/03/2026                             | Finlandia tarda 50 años en la disposición final       |
+| Posible reactivación más temprana en 2028                     | Diferencia geotérmica de 27 veces                     |
+| Objetivo Net Zero en 2050                                     | Pruebas de energía oceánica aún en 100 kW             |
 
-Nadie sabe si 9 billones de TWD pueden comprar un futuro diferente. Pero ya empezamos a ver las consecuencias de no invertir ese dinero: el 2060 sin invierno de Hsu Huang-hsiung, los 2.884 mm de Morakot, las rondas de cortes eléctricos del «513», la fractura del referéndum de los arrecifes y la espera de 44 años en Lanyu.
+Nadie sabe si los 9 trillones de dólares pueden comprar un futuro diferente. Pero ya estamos viendo las consecuencias de no gastar ese dinero: el invierno sin frío de Hsu Huang-hsiung en 2060, los 2.884 mm y 513 de Morakot, la división causada por la consulta sobre los arrecifes de algas y la espera de Lanyu durante 44 años.
 
-Un informe de [PanSci](https://pansci.asia/archives/367417) cita el consenso industrial: «**El proyecto con el avance más rápido en repositorios finales es Onkalo en Finlandia, que obtuvo su licencia experimental en agosto de 2024. Este plan comenzó en la década de 1970 y tardó casi medio siglo en llegar a este paso**»[^29]. Taiwán ni siquiera ha fijado el sitio de su repositorio final. Incluso si Nucles 3 reabre en 2028, cada nueva barra de combustible generada deberá encontrar un lugar donde almacenarse.
+[Reporte de PanSci](https://pansci.asia/archives/367417) cita el consenso de la industria para señalar que "el proyecto Onkalo en Finlandia, el más avanzado a nivel mundial en disposición final, obtuvo permiso de prueba en agosto de 2024. Este proyecto se planificó desde la década de 1970 y tardó casi medio siglo en llegar a esta etapa de pruebas" [^29]. A Taiwán aún no le ha quedado claro ni dónde ubicar su disposición final. Incluso si Nucles 3 se reactiva en 2028, cada barra de combustible nueva generada durante la reactivación debe encontrar un lugar para ser depositada.
 
-Los 97.672 barriles de Lanyu no desaparecerán porque un referéndum se apruebe o no. Están allí ahora, probablemente seguirán allí en 2029 y, si el traslado vuelve a fallar, seguirán allí en 2057.
+Los 97.672 barriles de Lanyu no desaparecerán porque la consulta haya sido aprobada o rechazada. Están ahí ahora, probablemente seguirán ahí en 2029, y seguirán ahí en 2057 (si el traslado se retrasa de nuevo).
 
-✦ **El 23 de agosto de 2025, el referéndum no prosperó. El 27 de marzo de 2026, Taipower presentó la solicitud de todos modos. Entre estas dos fechas, el límite físico no cambió ni una sola vez. Lo que cambió fue nuestra voluntad de admitir que esta isla, dependiente en un 98 % de importaciones energéticas, está haciendo cola para enfrentar todos los límites físicos que nadie quiere enfrentar.**
+✦ **El 23 de agosto de 2025, la consulta no fue aprobada. El 27 de marzo de 2026, Taipower aún entregó su informe. Entre estas dos fechas, el límite físico no ha cambiado ni una sola vez. Lo que ha cambiado es si estamos dispuestos a reconocer que esta isla, cuya energía depende en un 98% de las importaciones, está haciendo cola para enfrentar todos los límites físicos que nadie quiere afrontar.**
 
 ---
 
-**Lecturas recomendadas**:
+**Lecturas relacionadas**:
 
-- [El debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — Mientras este artículo trata la energía y los límites físicos, aquel analiza el debate nuclear: cuarenta años de pro/contra, tres referéndums y la lucha social por los residuos de Lanyu.
-- [Historia del movimiento ambiental en Taiwán](/es/nature/taiwan-environmental-movement-history) — Desde la energía nuclear hasta la contaminación del aire; cómo el pueblo Tao de Lanyu, el rechazo a la presa de Meinong y el referéndum de los arrecifes moldearon la política energética actual.
-- [Desafíos de conservación y gestión de la contaminación marina en Taiwán](/es/nature/marine-pollution-governance-and-conservation) — Blanqueo del 80 % de los corales en las salidas de agua de Nucles 3, residuos marinos y el cruce ecológico con la eólica marina.
-- [Aguas termales y geotermia en Taiwán](/es/nature/taiwan-hot-springs-and-geothermal-energy) — Del fracaso de Qingshui en 1981 a su reinicio en 2024; cómo se formó el silencio geotérmico de 30 años.
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, arrecifes y Meinong: la política de distribución de los costes de la transición energética.
-- [Transformación y actualización industrial en Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufactura intensiva en energía a las industrias verdes; el balance energético de TSMC (RE100), CBAM y la «Montaña Dios Protector».
-- [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — La presión de transformación agrícola y los conflictos de uso de suelo detrás de la agrivoltaica.
-- [Lluvias de mayo (Meiyu)](/es/nature/meiyu-stagnant-front) — Observaciones locales sobre el cambio climático: «la lluvia de primavera no llega, la de mayo se concentra».
+- [Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — Este artículo trata sobre la energía y los límites físicos; aquel trata sobre el debate nuclear en sí: cuarenta años de lucha social entre anti-nuclear y pro-nuclear, tres consultas y la gestión de residuos nucleares de Lanyu.
+- [Historia del movimiento ambiental en Taiwán](/es/nature/taiwan-environmental-movement-history) — Desde contra la energía nuclear hasta contra la contaminación atmosférica, cómo los pueblos indígenas de Lanyu, el rechazo al embalse de Meinong y la consulta sobre los arrecifes de algas han moldeado la política energética actual.
+- [Gobernanza y desafíos de la contaminación marina en Taiwán](/es/nature/marine-pollution-governance-and-conservation) — El cruce ecológico entre el vertido de Nucles 3 (80% blanqueamiento de coral), los desechos marinos y la eólica marina.
+- [Aguas termales y energía geotérmica en Taiwán](/es/nature/taiwan-hot-springs-and-geothermal-energy) — Desde el fracaso de la geotermia de Qingshui en 1981 hasta su reactivación en 2024, cómo se ha formado este silencio geotérmico de 30 años.
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, arrecifes de algas, Meinong: la política de distribución del costo de la transición energética.
+- [Mejora de la transformación industrial en Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufactura de alto consumo a la industria verde, el balance energético de TSMC RE100, CBAM y la protección del Dios Guardián.
+- [Árboles viales en Taiwán](/lifestyle/台灣行道樹) — La escala temporal y espacial del sombreado proporcionado por los árboles urbanos: para que un árbol dé sombra se necesitan al menos diez años, lo cual es una adaptación de la que no se puede esperar.
+- [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — La presión de la transformación agrícola y los conflictos por el uso del suelo detrás de la simbiosis energía-agricultura.
+- [Mei (lluvia de temporada)/frente estancado](/es/nature/meiyu-stagnant-front) — Observaciones locales del cambio climático: "la lluvia primaveral no llega, y la temporada de lluvias se concentra".
+- [Mecanismo de precios del petróleo en Taiwán y CPC](/economy/台灣油價機制與中油) — La tensión entre subsidiar los combustibles fósiles y las señales de ahorro energético: el congelamiento de precios hace que lo barato sea repartido por litro, y quien más consuma ahorra más, pero nadie ha hecho una tabla para saber quién fue el mayor consumidor en estos seis meses.
 
 ## Fuentes de imágenes
 

@@ -1,100 +1,104 @@
 ---
 title: 'Arte contemporáneo de Taiwán'
-description: 'Desde el Museo de Arte de Taipéi hasta el Pabellón de Taiwán en la Bienal de Venecia: la posición singular del arte contemporáneo taiwanés en el escenario global'
+description: 'Desde el Museo Norteamericano hasta la sede taiwanesa en la Bienal de Venecia: la posición única del arte contemporáneo de Taiwán en el escenario global'
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'Art'
+tags: ['arte', 'contemporáneo', 'cultura', 'museos']
 subcategory: '當代藝術'
-tags: ['art', 'contemporary', 'culture', 'museums']
+author: 'Taiwan.md Contributors'
 readingTime: 8
-lastVerified: 2026-03-19
-lastHumanReview: false
 featured: false
-translatedFrom: Art/當代藝術.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:cff95ee8efddcd2b
-sourceBodyHash: sha256:33541e305c90768c
-translatedAt: 2026-05-15T15:39:40+08:00
+lastVerified: 2026-09-19
+lastHumanReview: false
+translatedFrom: 'Art/當代藝術.md'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:3041eabbe02feebf'
+sourceBodyHash: 'sha256:71f7a0b38a49387b'
+translatedAt: '2026-09-19T11:59:04+08:00'
 ---
 
 # Arte contemporáneo de Taiwán
 
-> **Panorama en 30 segundos:** Desde la inauguración del Museo de Arte de Taipéi (TFAM) en 1983, la escena artística taiwanesa ha atravesado tres etapas: el estallido creativo tras la levantamiento de la ley marcial, la internacionalización y la transformación digital. Los artistas taiwaneses participan activamente en escenarios internacionales como la Bienal de Venecia, Art Basel y el Festival de Arte Electrónico de Linz, nutriendose de la historia colonial, la experiencia bajo ley marcial y el proceso de democratización como materia prima creativa.
+> **Resumen de 30 segundos:** Desde la apertura del Museo Norteamericano en 1983, la escena artística de Taiwán ha pasado por tres fases: la explosión creativa posterior a la desmilitarización, la internacionalización y la transformación digital. Los artistas taiwaneses participan activamente en escenarios internacionales como la Bienal de Venecia, Art Basel y el Festival de Arte Electrónico de Linz, utilizando las experiencias históricas del colonialismo, la represión militar y la democratización como nutriente para su creación.
 
-## Por qué importa
+## ¿Por qué es importante?
 
-Tras la levantamiento de la ley marcial (1987), los artistas taiwaneses pudieron abordar abiertamente temas políticamente tabú, la memoria étnica y las cuestiones de género, ampliando de manera notable el alcance temático y de medios. Una vez garantizada la libertad de expresión, la escena artística taiwanesa desarrolló una tensión creativa directa con los materiales históricos del colonialismo, la ley marcial y la transición democrática.
+Tras la desmilitarización (1987), los artistas taiwaneses pudieron abordar abiertamente tabúes políticos, memorias étnicas y temas de género, lo que amplió significativamente el alcance temático y material de su obra. Una vez garantizada la libertad de expresión, la escena artística de Taiwán desarrolló una tensión creativa directa con el material histórico del colonialismo, la represión militar y la transición democrática.
 
-## Espacios importantes
+## Lugares importantes
 
-### Museo de Arte de Taipéi (TFAM)
+### Museo Municipal de Taipéi (Museo Norteamericano)
 
-Inaugurado en 1983, es el primer museo de arte moderno de Taiwán.[^1] El TFAM es responsable de la organización del Pabellón de Taiwán en la Bienal de Venecia y constituye la institución insignia del arte contemporáneo taiwanés.
+Inaugurado en 1983, es el primer museo de arte moderno de Taiwán.[^1] El Museo Norteamericano es responsable de curar la sede taiwanesa en la Bienal de Venecia y es una institución insignia del arte contemporáneo de Taiwán.
 
-### Museo Nacional de Bellas Artes de Taiwán (NTMoFA)
+### Museo Nacional de Taiwán (Museo Nacional)
 
-Ubicado en Taichung, destaca por su investigación en historia del arte taiwanés y su colección de arte digital.[^2] En los últimos años ha centrado su desarrollo en el arte tecnológico, con una colección que abarca desde el período colonial japonés hasta la contemporaneidad. Tras su renovación en 2022, la plaza frente al museo incorporó también una zona de escultura al aire libre, extendiendo el espacio expositivo al exterior.
+Ubicado en Taichung, es el primer museo nacional de Taiwán y destaca por su investigación de la historia del arte taiwanesa y su colección de arte digital.[^2] Recientemente ha centrado su desarrollo en el arte tecnológico, con una colección que abarca desde el período de gobierno japonés hasta la actualidad; el parque escultórico exterior extiende el espacio de exhibición al aire libre.
 
-### Museo de Arte de Kaohsiung (KMFA)
+### Museo Municipal de Kaohsiung (Museo Nacional)
 
-Referente del arte contemporáneo en el sur de Taiwán, fundado originalmente en 1994 como Museo Municipal de Arte de Kaohsiung. Recientemente completó una remodelación (la fecha exacta de conclusión debe confirmarse con el museo), reorientándose bajo la perspectiva del "Gran Sur" y enfocándose en los vínculos con el arte del Sudeste Asiático y de los pueblos austronesios.[^3] El marco del "Gran Sur" busca romper con el hábito de centrar el discurso artístico taiwanés en Taipéi, introduciendo perspectivas tropicales y oceánicas en la discusión del arte contemporáneo.
+Es un punto neurálgico del arte contemporáneo del sur de Taiwán, cuyo antecedente es el Museo Municipal de Kaohsiung fundado en 1994. Recientemente ha completado una renovación (la fecha exacta de finalización está sujeta al anuncio del museo), reubicándose bajo la perspectiva de "Gran Sur", prestando atención a las conexiones con el arte del Sudeste Asiático y de Oceanía.[^3] El marco de "Gran Sur" intenta romper con la costumbre de que el discurso artístico taiwaneso se centre históricamente en Taipéi, permitiendo que las perspectivas tropicales y oceánicas entren en el debate del arte contemporáneo.
 
-### Museo Nacional de Arte de Tainan
+### Museo Nacional de Tainan
 
-En marzo de 2025 se estableció formalmente la oficina preparatoria del Museo Nacional de Arte de Tainan; en enero de 2026 asumió la gestión de las instalaciones y la operación diaria; se espera su inauguración oficial en 2027, convirtiéndolo en el segundo museo nacional de bellas artes de Taiwán.[^4] Su eje expositivo permanente se centra en el arte taiwanés moderno y contemporáneo entre 1895 y 1960, llenando un vacío institucional para este período histórico. El edificio con techo fractal diseñado por Shigeru Ban es en sí mismo uno de los hitos arquitectónicos más comentados de Tainan.
+El Comité de Preparación del Museo Nacional de Tainan fue registrado en el Museo Municipal de Tainan 2 el 25 de marzo de 2025; a partir del Año Nuevo de 2026, el Museo 2 será operado y gestionado por este comité, marcando el inicio del segundo museo nacional de Taiwán.[^4] Planea centrarse en el arte moderno y contemporáneo de Taiwán entre 1895 y 1960, llenando un vacío institucional para ese período histórico. Su arquitectura con tejados fractales, diseñada conjuntamente por el arquitecto Shi Chao-yong y el estudio japonés Sakimoto Architects, es ya uno de los hitos más comentados de Tainan.
 
-### Museo de Arte de Kuandu
+### Museo Guandu
 
-Adscrito a la Universidad Nacional de las Artes de Taipéi, es conocido por sus exposiciones experimentales y su apoyo a artistas emergentes, funcionando como interfaz entre la educación artística y la creación contemporánea en Taiwán. Cada año organiza la "Bienal de Kuandu", una de las plataformas para descubrir artistas emergentes de Asia. A diferencia de los grandes museos públicos, Kuandu opera con una escala expositiva pequeña y flexible, enfocada en los límites experimentales del arte contemporáneo, y ha sido para muchos artistas taiwaneses su primer espacio de exhibición importante.
+Perteneciente a la Universidad Nacional de Arte de Taipéi, es conocido por sus exposiciones experimentales y artistas emergentes, sirviendo como interfaz entre la educación artística y la creación contemporánea en Taiwán. Organiza la "Bienal de Guandu" cada año, siendo una plataforma para descubrir a los artistas asiáticos jóvenes. A diferencia de los grandes museos públicos, Guandu se enfoca en las fronteras experimentales del arte contemporáneo con una escala pequeña y ágil, siendo el ámbito de primera exposición importante para muchos artistas taiwaneses.
 
 ## Escenario internacional
 
-### Pabellón de Taiwán en la Bienal de Venecia
+### Sede Taiwanesa en la Bienal de Venecia
 
-Desde 1995, Taiwán ha participado de manera continua en la Bienal de Venecia.[^5] Debido a su condición especial de no ser miembro de las Naciones Unidas, el Pabellón de Taiwán participa bajo el nombre del "Museo de Arte de Taipéi", demostrando el poder del arte para trascender la política. Entre los artistas representantes a lo largo de los años se encuentran Ming-Jung Lin (Lin Minghong) y Lee Mingwei (Li Mingwei), entre otros. (Tehching Hsieh (Xie Deqing) estableció la visibilidad internacional del arte taiwanés con sus cinco performances de un año realizadas en Nueva York entre 1978 y 1986; su cronología creativa es anterior a la creación del Pabellón de Taiwán y pertenece a otra línea de desarrollo.)
+Taiwán ha participado continuamente en la Bienal de Venecia desde 1995.[^5] A partir de 2003, debido a la intervención china, la sede fue retirada de la lista de museos nacionales y comenzó a participar en exposiciones paralelas bajo el nombre del "Museo Municipal de Taipéi". En sus inicios, las sedes eran a menudo colectivas; a partir de 2015, se promovieron artistas individuales: Wu Tian-zhang (2015), Hsieh De-ching (2017, "Hacer Tiempo"), y Cheng Shu-li (2019, la primera artista en exhibición individual para la sede taiwanesa) representaron a Taiwán; además, en 2013 hubo una exposición colectiva titulada "Esto no es un museo de Taiwán", con Hsu Chia-wei, Bernd Behr y Kateřina Šedá.
 
-**Hsu Chia-wei (Xu Jiawei)** es uno de los artistas taiwaneses con mayor visibilidad en el circuito internacional del arte contemporáneo en los últimos años, reconocido por sus instalaciones de video que combinan investigación de archivo con técnicas cinematográficas. Su obra explora extensamente la historia colonial de Taiwán, los vestigios de la Guerra Fría y los archivos políticos, destacando especialmente piezas como _Martial Arts_ (_Wushu_) y _Anti-Gravity_ (_Fan Zhongli_), que han atraído la atención de curadores internacionales. En la 58.ª Bienal de Venecia de 2019, Hsu Chia-wei representó a Taiwán con la nueva obra _Aircraft_ (_Feixingqi_), que examina la relación entre el pionero de la aviación taiwanesa Wang Zhongmin y la transferencia tecnológica japonesa durante el período colonial. Ha recibido premios locales como el Taishin Arts Award y ha sido seleccionado en múltiples ocasiones para exposiciones temáticas en importantes festivales de arte europeos, consolidándose como una figura representativa de la "narrativa poscolonial" en la creación taiwanesa.[^5]
+**Hsu Chia-wei** (nacido en Taichung en 1983) es uno de los artistas con mayor visibilidad en el círculo internacional del arte contemporáneo taiwanes durante los últimos años, conocido por sus instalaciones de video que combinan la investigación de archivos y técnicas cinematográficas. Su obra explora en gran medida los vestigios de la Guerra Fría y la historia fronteriza de Taiwán: _El Mariscal Blindado_, expuesto en la sede taiwanesa de Venecia en 2013, rastrea la conexión entre el culto del sapo de Mazu y Jiangxi; y _Regreso a Mo Village_ retrata a los descendientes de las tropas aisladas del norte de Taiwán, ganando el Gran Premio anual del Festival de Arte de Taishin en 2016.[^8]
 
-En la 60.ª Bienal de Venecia de 2024, Yuan Goang-Ming (Yuan Guangming) representó a Taiwán con una instalación de video centrada en la fragilidad de la democracia, atrayendo la atención internacional hacia el Pabellón de Taiwán.[^6]
+En la 60ª Bienal de Venecia en 2024, Yuan Guangming representó a Taiwán, y su instalación de video se centró en la fragilidad de la democracia, atrayendo atención internacional para la sede taiwanesa.[^6]
 
-### Ferias internacionales de arte y galerías comerciales
+### Ferias internacionales y galerías comerciales
 
-La Feria de Arte Contemporáneo de Taipéi (Taipei Dangdai), celebrada anualmente desde 2019, se ha convertido rápidamente en un nodo del mercado artístico asiático, atrayendo a galerías de primer nivel mundial. La llegada de galerías comerciales como Eslite Gallery y el espacio de Lisson Gallery en Taipéi también ha consolidado la posición de la ciudad en el mercado artético de Asia-Pacífico.
+La Feria de Arte Contemporáneo de Taipéi (Taipei Dangdai) comenzó en 2019 y rápidamente se convirtió en un nodo del mercado artístico asiático; galerías internacionales como Lisson Gallery han participado. Galerías locales como Chengpin Gallery, TKG+ y Geng Gallery, junto con la Whitestone Gallery japonesa que abrió una sede en Neihu en 2017, han ayudado a que Taipéi se establezca en el mercado artístico del Pacífico asiático.[^9]
 
 ### Arte de nuevos medios
 
-Taiwán destaca especialmente en el campo del arte de nuevos medios. Artistas como Che-Yu Wu (Wu Zheyu), Luxury Logico (Haolang Langjigong) y Lien-Cheng Wang (Wang Liansheng) han obtenido reconocimiento reiterado en eventos internacionales como el Festival de Arte Electrónico de Linz (Ars Electronica) y SIGGRAPH. El trasfondo de la industria de semiconductores de Taiwán proporciona un suelo técnico para el arte tecnológico, una ventaja estructural difícil de replicar en otros ecosistemas artísticos.
+Taiwán tiene un desempeño destacado en el campo del arte de nuevos medios. Artistas y equipos como Huang Xin-jian, Hou Jia-langji, y Wang Liancheng han estado constantemente expuestos en escenarios internacionales como el Festival de Ars Electronica; la obra VR _Reencarnación_ de Huang Xin-jian ganó el Premio de Animación por Computadora de Linz en 2022. El trasfondo de la industria de semiconductores de Taiwán proporciona un sustrato tecnológico para el arte tecnológico, una ventaja estructural que otros ecosistemas artísticos no pueden replicar (ver [Arte de nuevos medios de Taiwán](/es/art/taiwan-new-media-art)).
 
 ## Ecosistema artístico
 
-Tras la levantamiento de la ley marcial, surgieron en Taiwán numerosos espacios alternativos (_alternative spaces_), como IT Park (Yitong Park), Bamboo Curtain Studio (Zhuwei Studio) y Open Contemporary Art Station (Dakai Dangdai Yishu Gongzuozhan). Estos espacios, libres de la lógica de las galerías comerciales, se convirtieron en terreno fértil para la creación experimental y dieron voz independiente al discurso del arte contemporáneo taiwanés. En paralelo, se desarrolló una red de residencias artísticas internacionales: bases locales como el Treasure Hill Artist Village (Baoyanyi Guoji Yishucun) y Bamboo Curtain Studio, junto con programas de residencia en el extranjero como la Cité Internationale des Arts de París, y programas en Nueva York y Berlín, permitieron a los artistas taiwaneses mantener un intercambio continuo de perspectivas entre lo local y lo foráneo.
+Tras la desmilitarización, surgieron numerosos espacios alternativos en Taiwán, como Parque Yitong, Tzukwei Studio y Art Space Open. Estos espacios no están atados a la lógica de las galerías comerciales, convirtiéndose en incubadoras para la creación experimental y dando lugar a voces independientes dentro del discurso artístico taiwanes. Paralelamente, existe una red internacional de residencias artísticas; bases nacionales como el Pueblo Internacional de Arte Baozangyan y Tzukwei Studio, junto con programas de residencia en el extranjero en París (Westfield), Nueva York y Berlín, permiten un intercambio continuo de perspectivas entre los artistas taiwaneses en casa y fuera.
 
-Las "Regulaciones para la Instalación de Arte Público" exigen que los proyectos de construcción pública destinen fondos a la instalación de arte público, lo que ha dado a Taiwán una alta densidad de obras de arte público, desde estaciones de metro hasta hospitales, integrando el arte en la vida cotidiana. La Taiwan Creative Content Agency (TAICCA), fundada en 2019, se dedica a promover la internacionalización de los contenidos culturales taiwaneses, abarcando cine, videojuegos, publicaciones y arte, funcionando como motor político para la proyección internacional de la industria cultural taiwanesa.[^7]
+El "Reglamento para la Instalación de Arte Público" exige que los proyectos de construcción pública destinen fondos para arte público, lo que ha resultado en una alta densidad de obras de arte en Taiwán, integrando el arte en la vida cotidiana, desde estaciones de metro hasta hospitales. El Instituto de Desarrollo de Contenido Cultural de Taiwán (TAICCA), fundado en 2019, se dedica a promover la internacionalización del contenido cultural taiwanes, abarcando áreas como cine, juegos, publicaciones y arte; es el motor político para llevar la industria cultural taiwanesa al ámbito internacional.[^7]
 
 ## Tendencias actuales
 
-En los últimos años, varios ejes de desarrollo del arte contemporáneo taiwánés se han definido con mayor claridad. El arte tecnológico que combina IA, algoritmos e instalaciones interactivas ha captado la atención internacional; la ventaja de los artistas taiwaneses en este campo proviene de la base técnica de la industria de semiconductores. La visibilidad internacional de los artistas indígenas continúa en aumento, y la conexión con el círculo cultural austronesio del Pacífico otorga al arte taiwanés una posición diferenciada respecto a la perspectiva de Asia Oriental. La colaboración interdisciplinaria entre arte, performance, música y tecnología es cada vez más frecuente, y el difuminamiento de fronteras se ha convertido en un lenguaje creativo en sí mismo.
+En los últimos años, varias líneas de desarrollo del arte contemporáneo de Taiwán se han vuelto cada vez más claras. El arte tecnológico que combina IA, algoritmos e instalaciones interactivas está recibiendo atención internacional; la ventaja de los artistas taiwaneses en este campo proviene de la base tecnológica de la industria de semiconductores. La visibilidad internacional de los artistas indígenas sigue aumentando, y la conexión con el círculo cultural del Pacífico Sur aporta una perspectiva distinta al arte taiwanés en comparación con la visión del Este de Asia. La colaboración transdisciplinaria entre arte, tecnología, performance y música se vuelve cada vez más común, y esta difuminación de fronteras se convierte en un lenguaje creativo.
 
-La energía artística ya no se concentra únicamente en Taipéi; Taichung, Tainan y Kaohsiung tienen cada uno su propio ritmo artístico, y las voces del centro-sur y del este del país comienzan a aparecer en exposiciones internacionales. Esta tendencia hacia la descentralización coincide con la dirección de las políticas culturales taiwanesas recientes, que enfatizan la revitalización local.
+La energía artística ya no está concentrada solo en Taipéi; Taichung, Tainan y Kaohsiung tienen sus propios ritmos artísticos, y las voces del centro-sur y el este comienzan a aparecer en exposiciones internacionales. Esta tendencia descentralizada concuerda con la dirección de la política cultural taiwanesa reciente, que enfatiza la revitalización local.
 
 ## Referencias
 
-[^1]: [Museo de Arte de Taipéi](https://www.tfam.museum/) — Historia de la inauguración, organización del Pabellón de Taiwán en la Bienal de Venecia.
+[^1]: [Museo Municipal de Taipéi](https://www.tfam.museum/) — Historia de apertura y curaduría de la sede taiwanesa en la Bienal de Venecia.
 
-[^2]: [Museo Nacional de Bellas Artes de Taiwán](https://www.ntmofa.gov.tw/) — Investigación en historia del arte taiwanés y colecciones.
+[^2]: [Museo Nacional de Taiwán](https://www.ntmofa.gov.tw/) — Investigación e historia del arte taiwanés.
 
-[^3]: [Museo de Arte de Kaohsiung](https://www.kmfa.gov.tw/) — Finalización de la remodelación en 2023, descripción de la orientación "Gran Sur".
+[^3]: [Museo Municipal de Kaohsiung](https://www.kmfa.gov.tw/) — Explicación de la reubicación bajo el marco "Gran Sur".
 
-[^4]: [Museo Nacional de Arte de Tainan](https://www.momatainan.gov.tw/) — Cronología: establecimiento de la oficina preparatoria (2025/3), asunción de gestión (2026/1), inauguración prevista (2027).
+[^4]: [Museo Nacional de Tainan - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8D%97%E5%9C%8B%E5%AE%B6%E7%BE%8E%E8%A1%93%E9%A4%A8) — Registro del comité en 25 de marzo de 2025, toma de control operativo del Museo 2 a partir del Año Nuevo de 2026, posicionamiento como el segundo museo nacional de Taiwán, enfoque en arte moderno y contemporáneo entre 1895 y 1960, diseño conjunto por Shi Chao-yong y Sakimoto. Sitio web: [Comité de Preparación del Museo Nacional de Tainan](https://www.momatainan.gov.tw/).
 
-[^5]: [Archivo histórico del Pabellón de Taiwán en la Bienal de Venecia — Museo de Arte de Taipéi](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?ddlLang=zh-tw) — Primera participación en 1995 y artistas representantes de ediciones anteriores.
+[^5]: [Bienal de Venecia - Wikipedia](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E9%9B%99%E5%B9%B4%E5%B1%95) — Primera participación en la edición 46 en 1995 (Wu Mali, Lien De-cheng, Huang Jinhe, Hou Junming, Wang Zhiyang), Cheng Shu-li como primera artista individual para la sede taiwanesa en 2019, Li Yi-fan en 2026; ver también [Base de datos del arte contemporáneo de Taiwán - Sede Taiwanesa de Venecia](https://tcaaarchive.org/Keyword/Entry/1806) (el punto de inflexión de "Zona Sentimental" en 2003 y la promoción de artistas individuales a partir de 2015) e [Hyperallergic: Taiwan Features Tehching Hsieh at the 2017 Venice Biennale](https://hyperallergic.com/373049/taiwan-features-tehching-hsieh-at-the-2017-venice-biennale/).
 
-[^6]: [Yuan Goang-Ming en el Pabellón de Taiwán de la Bienal de Venecia 2024 — Museo de Arte de Taipéi](https://www.tfam.museum/) — Registro de participación en la 60.ª Bienal de Venecia.
+[^6]: [Yuan Guangming Bienal de Venecia 2024 Sede Taiwanesa - Museo Municipal de Taipéi](https://www.tfam.museum/) — Registro de la participación de la sede taiwanesa en la 60ª Bienal de Venecia.
 
-[^7]: [TAICCA](https://taicca.tw/) — Contexto de fundación de la Taiwan Creative Content Agency y actividades de internacionalización.
+[^7]: [TAICCA (Instituto de Desarrollo Cultural)](https://taicca.tw/) — Contexto y actividades internacionales del Instituto de Desarrollo de Contenido Cultural de Taiwán.
+
+[^8]: [Hsu Chia-wei - Base de datos del arte contemporáneo de Taiwán TCAA](https://tcaaarchive.org/Artist/Detail/1395) — Nacido en Taichung en 1983; "Esto no es un museo de Taiwán" (2013) en la 55ª Bienal de Venecia; _Regreso a Mo Village_ ganó el Gran Premio anual del Festival de Arte de Taishin. Ver también [55ª Bienal de Venecia Sede Taiwanesa - Museo Municipal de Taipéi](https://www.tfam.museum/Exhibition/Exhibition_page.aspx?id=486&ddlLang=en-us).
+
+[^9]: [Taipei — Whitestone Gallery](https://www.whitestone-gallery.com/blogs/locations/taipei) — Apertura de la galería Whitestone en Neihu, Taipéi en 2017; ver también [Anunciando la presentación de Lisson Gallery en Taipei Dangdai - Lisson Gallery](https://www.lissongallery.com/news/announcing-lisson-gallery-s-presentation-at-taipei-dangdai).
 
 **Lecturas complementarias**
 
-- [Tehching Hsieh (Xie Deqing)](/es/art/tehching-hsieh-performance-artist) — Pionero del arte de performance taiwanés con sus cinco performances de un año en Nueva York en la década de 1980, coordenada temprana de la visibilidad internacional del arte contemporáneo
-- [Wang Xinren (Aluan)](/es/art/wang-hsin-jen-artist) — Primer artista generativo taiwanés en Art Blocks (2021), figura representativa del arte blockchain y del proyecto Baishan de FAB DAO
-- [Zheng Wenqi: 12 años impulsando el círculo artístico taiwanés hacia el archipiélago malayo](/es/people/cheng-wen-chi) — Editor de _Digital Wilderness_ (_Shuipang Huangyuan_), cuatro marcos — archipiéliferos/periferia/descolonización/circum Pacífico — que añaden una perspectiva meridional al mapa discursivo del arte contemporáneo
+- [Cheng Shu-li](/es/art/tehching-hsieh-performance-artist) — Pionera del arte performático taiwaneso en Nueva York durante la década de 1980, una coordenada temprana de la visibilidad internacional del arte contemporáneo.
+- [Wang Xinren (A Luan)](/es/art/wang-hsin-jen-artist) — Primer artista generativo taiwanés en Art Blocks en 2021, figura clave en el arte blockchain y el proyecto FAB DAO.
+- [Cheng Wenqi: 12 años impulsando la escena artística de Taiwán hacia las islas del archipiélago](/es/people/cheng-wen-chi) — Editora de _Desierto Digital_, añadiendo una perspectiva meridional al mapa del discurso contemporáneo con los marcos de Archipiélago / Frontera / Descolonización / Pacífico.
