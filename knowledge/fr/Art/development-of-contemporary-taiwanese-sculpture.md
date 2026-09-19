@@ -1,561 +1,572 @@
 ---
-title: 'Le développement de la sculpture contemporaine à Taïwan'
-description: "De Yang Yingfeng et Zhu Ming aux nouvelles générations, explorer la trajectoire d'évolution et l'esprit créatif de l'art sculptural taïwanais"
+title: 'Le développement de la sculpture contemporaine taïwanaise'
+description: "De Yang Ying-feng à Chu Ming, en passant par la nouvelle génération, exploration de l'évolution et de l'esprit créatif de la sculpture taïwanaise"
 date: 2026-03-18
 category: 'Art'
-subcategory: '視覺藝術'
 tags:
-  ['雕塑', '朱銘', '楊英風', '林舜龍', '洪易', '公共藝術', '當代藝術', '木雕']
+  [
+    'Sculpture',
+    'Chu Ming',
+    'Yang Ying-feng',
+    'Lin Shun-long',
+    'Hong Yi',
+    'Art public',
+    'Art contemporain',
+    'Sculpture sur bois',
+  ]
+subcategory: '視覺藝術'
 author: 'Taiwan.md'
-readingTime: 18
-lastVerified: 2026-03-19
-lastHumanReview: false
-featured: false
-translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:91ce45b4be5f77a7'
-sourceBodyHash: 'sha256:fe5beda00418f863'
-translatedAt: '2026-05-20T05:08:34+08:00'
 difficulty: 'intermediate'
+readingTime: 18
+featured: false
+lastVerified: 2026-09-19
+lastHumanReview: false
+translatedFrom: 'Art/台灣當代雕塑發展.md'
+sourceCommitSha: 'b8f50ebb3'
+sourceContentHash: 'sha256:9e576e02178fac1e'
+sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
+translatedAt: '2026-09-20T00:52:39+08:00'
 ---
 
-# Le développement de la sculpture contemporaine à Taïwan
+# Le développement de la sculpture contemporaine taïwanaise
 
 ## Aperçu en 30 secondes
 
-La sculpture contemporaine taïwanaise s'est développée à partir de la tradition artisanale de la sculpture sur bois. Elle a traversé trois générations majeures : Huang Tu-shui a posé les bases de la sculpture moderne, Yang Yingfeng a établi le vocabulaire de la sculpture contemporaine, et Zhu Ming a intégré l'esprit oriental dans une perspective internationale. Depuis le mouvement de sculpture moderne des années 1960, les sculpteurs taïwanais ont réalisé des avancées significatives dans l'utilisation des matériaux, l'expression thématique et la conception spatiale. Aujourd'hui, des espaces d'exposition tels que le Musée Zhu Ming et de nombreux parcs de sculptures en plein air sont répartis sur tout le territoire taïwanais. Les artistes de la nouvelle génération, comme Lin Shunlong et Hong Yi, continuent de promouvoir le développement diversifié de l'art sculptural, tandis que la sculpture taïwanaise a accumulé une certaine visibilité et une reconnaissance dans les collections au niveau des expositions internationales.
+La sculpture contemporaine taïwanaise émerge de l'artisanat traditionnel de la sculpture sur bois. Elle s'est développée à travers trois générations marquantes : Huang Tu-shih a posé les bases de la sculpture moderne, Yang Ying-feng a établi le langage de la sculpture contemporaine, et Chu Ming a fusionné l'esprit oriental avec une vision internationale. Depuis le mouvement de sculpture moderne des années 1960, les sculpteurs taïwanais ont apporté des avancées significatives dans l'utilisation des matériaux, l'expression thématique et la conception spatiale. Aujourd'hui, le musée Chu Ming et les parcs de sculptures en plein air sont répartis à travers toute l'île. Les artistes de la nouvelle génération comme Lin Shun-long et Hong Yi continuent de promouvoir le développement diversifié de la sculpture. La sculpture taïwanaise a également acquis une certaine visibilité et une reconnaissance dans les collections lors des expositions internationales.
 
-Zhu Ming est décédé en mai 2023 à l'âge de 85 ans. Le musée et l'héritage créatif qu'il a établis de son vivant constituent des coordonnées essentielles pour comprendre comment la sculpture taïwanaise s'est ouverte à l'international[^1].
+Chu Ming est décédé en avril 2023, à l'âge de 85 ans. Le musée et l'héritage artistique qu'il a laissés sont des repères essentiels pour comprendre comment la sculpture taïwanaise a gagné en reconnaissance internationale[^1]。
 
-La lecture de cet article prend environ 18 minutes et s'adresse aux lecteurs intéressés par l'histoire de l'art taïwanais, l'art public ou les matériaux sculpturaux.
+La lecture de cet article prend environ 18 minutes et convient aux lecteurs intéressés par l'histoire de l'art taïwanais, l'art public ou les médias sculpturaux.
 
-**Mots-clés** : Série Taiji, Série du Monde des Hommes, sculpture moderne, art public, innovation matérielle, esthétique orientale
+**Mots-clés** : série Taiji, série Humaine, sculpture moderne, art public, innovation matérielle, esthétique orientale
 
 ## Pourquoi c'est important
 
-Le développement de la sculpture contemporaine à Taïwan revêt une signification à plusieurs niveaux. D'une part, les œuvres sculpturales retracent la transition de la société taïwanaise d'une société agricole à une culture postmoderne en passant par l'industrialisation ; d'autre part, la mise en œuvre de politiques d'art public a permis à la sculpture de sortir des musées pour investir les espaces du quotidien, transformant ainsi la relation entre le grand public et les œuvres d'art.
+Le développement de la sculpture contemporaine taïwanaise a une signification multidimensionnelle. D'une part, les œuvres sculpturales documentent le processus de transformation de la société taïwanaise, du monde rural à l'industrialisation, puis à la culture post-moderne. D'autre part, la mise en œuvre des politiques d'art public a fait sortir la sculpture des musées pour l'intégrer dans l'environnement quotidien, modifiant ainsi la relation entre le grand public et les œuvres artistiques.
 
-Pour ceux qui s'intéressent à la politique culturelle, le développement de la sculpture taïwanaise constitue également un cas d'étude sur « comment les politiques façonnent un écosystème artistique » — du système éducatif aux subventions de création en passant par les réglementations sur l'art public, chaque maillon a façonné le paysage sculptural d'aujourd'hui.
+Pour ceux qui s'intéressent aux politiques culturelles, le développement de la sculpture taïwanaise constitue également un cas d'étude sur la manière dont les politiques peuvent stimuler l'écosystème artistique — du système éducatif, en passant par les subventions à la création, jusqu'aux réglementations relatives à l'art public, chaque maillon a façonné le paysage sculptural actuel.
 
-Des thèmes ruraux aux enjeux contemporains, les œuvres sculpturales reflètent les transformations sociales et l'identité culturelle de Taïwan ; les techniques traditionnelles de sculpture sur bois, entre les mains d'artistes contemporains, se transforment en un nouveau vocabulaire expressif, préservant et approfondissant la mémoire de l'artisanat culturel.
+Des thèmes locaux aux questions contemporaines, les œuvres sculpturales reflètent les changements sociaux et l'identité culturelle de la société taïwanaise. Les techniques traditionnelles de sculpture sur bois ont été transformées par les artistes contemporains en de nouveaux langages exprimés, préservant et enrichissant ainsi la mémoire culturelle des arts du bois.
 
-- **Statut sur la scène artistique internationale** : Les sculpteurs taïwanais ont remporté de nombreux prix dans des expositions internationales, renforçant le soft power culturel de Taïwan.
-- **Embellissement de l'espace public** : Un grand nombre d'œuvres sculpturales de qualité ont été installées dans l'espace public, améliorant la qualité esthétique urbaine.
-- **Valeur éducative et transmission** : Mise en place d'un système éducatif structuré pour la sculpture, formant les créateurs de la nouvelle génération.
+- **Position internationale** : Les sculpteurs taïwanais ont remporté de nombreux prix lors d'expositions internationales, renforçant la puissance culturelle douce de Taïwan
+- **Aménagement de l'espace public** : De nombreuses œuvres sculpturales de qualité ont été installées dans des espaces publics, améliorant la qualité esthétique urbaine
+- **Valeur pédagogique** : Établissement d'un système éducatif systématique pour la sculpture, formant de nouveaux talents créatifs
 
-## La trajectoire du développement de la sculpture taïwanaise
+## Contexte historique de la sculpture taïwanaise
 
-L'histoire de la sculpture taïwanienne peut être divisée en trois strates : la tradition artisanale populaire représentée par la sculpture sur bois des temples, la transformation moderne introduite par la sculpture réaliste occidentale durant la période coloniale japonaise, et la génération des maîtres qui ont établi le vocabulaire de l'art contemporain après-guerre. Ces trois strates ne sont pas étanches mais se superposent, constituant la diversité de la sculpture taïwanaise d'aujourd'hui.
+L'histoire de la sculpture taïwanaise peut être divisée en trois niveaux : les traditions artisanales populaires représentées par la sculpture sur bois dans les temples, la transformation moderne introduite pendant la période coloniale japonaise avec la sculpture naturaliste occidentale, et la génération de grands maîtres qui a établi le langage de l'art contemporain après la guerre. Ces trois niveaux ne sont pas strictement séparés, mais s'entrecroisent pour former la diversité actuelle de la sculpture taïwanaise.
 
-Les racines de la tradition artisanale se sont implantées dans la société d'immigration, et les besoins en sculpture religieuse ont soutenu l'ensemble du système de maîtrise artisanale. Le système d'expositions officielles de la période coloniale japonaise a ouvert une fenêtre sur les techniques réalistes occidentales, tandis que la mise en place du système d'éducation artistique d'après-guerre a fourni le terreau fertile pour la génération des maîtres.
+Les racines des traditions artisanales se sont ancrées dans la société migratrice, où la demande de sculptures religieuses a soutenu l'ensemble du système des maîtres artisans. Le système des expositions officielles pendant la période coloniale a ouvert une fenêtre sur les techniques naturalistes occidentales, tandis que la mise en place du système éducatif artistique après la guerre a fourni le sol fertile pour la formation des grands maîtres.
 
-Depuis l'œuvre de Huang Tu-shui _Eau douce_ (甘露水), sélectionnée à l'Exposition impériale (帝展) en 1920, jusqu'à l'accession de la sculpture taïwanaise sur la scène des expositions internationales dans les années 1990, cette évolution s'étend sur soixante-dix ans et traverse trois contextes historiques distincts : l'éducation coloniale, la construction culturelle d'après-guerre et la mondialisation.
+En partant de Huang Tu-shih, qui a été le premier Taïwanais à être sélectionné pour l'Exposition impériale en 1920 avec son œuvre _Le Joueur de flûte du bois_, puis à nouveau en 1921 avec _L'eau bénite_, jusqu'aux années 1990 où la sculpture taïwanaise a pris la scène internationale, cette évolution s'étend sur soixante-dix ans, impliquant trois contextes historiques distincts : l'éducation coloniale, la construction culturelle post-guerre et la mondialisation.
 
-### Les fondements traditionnels : les racines profondes de l'artisanat populaire
+### Fondations traditionnelles : Les racines profondes de l'artisanat populaire
 
-**La tradition de la sculpture sur bois dans les temples** :
+**Tradition de la sculpture sur bois dans les temples** :
 
-- Techniques de sculpture apportées par les immigrants durant les dynasties Ming et Qing
-- Savoir-faire exquis dans la sculpture de statues divines et la décoration architecturale
-- Système de transmission technique par le régime de maîtrise artisanale
+- Techniques de sculpture transmises par les immigrants dès les dynasties Ming et Qing
+- Techniques élaborées pour la sculpture des idoles et la décoration architecturale
+- Système de transmission des compétences des maîtres artisans
 
-**Les caractéristiques de la sculpture artisanale** :
+**Caractéristiques de la sculpture artisanale** :
 
 - Accent mis sur la fonction pratique et l'effet décoratif
-- Thèmes riches issus des récits populaires et de la mythologie
-- Techniques manuelles minutieuses et maîtrise des outils
+- Thèmes riches en histoires populaires et mythes
+- Techniques manuelles fines et utilisation d'outils
 
-**Les différences de style régional** :
+**Différences régionales de style** :
 
-- Nord : sobre et épuré
-- Centre : décoration complexe et somptueuse
-- Sud : passionné, exubérant et libre
+- Nord de l'île : style sobre et simple
+- Centre de l'île : décorations complexes et élaborées
+- Sud de l'île : expression libre et énergique
 
-### La transformation moderne : du métier d'art à l'art
+### Transformation moderne : De l'artisanat à l'art
 
-**Huang Tu-shui (1895-1930)** : Premier sculpteur moderne de Taïwan
+**Huang Tu-shih (1895-1930)** : Premier sculpteur moderne taïwanais
 
-- Caractéristiques de ses œuvres : fusion du réalisme japonais et de la ruralité taïwanaise
-- Œuvres majeures : _Eau douce_ (甘露水), _Faisan Mikado_ (帝雉), _Pays du Sud_ (南國)
-- Signification historique : ouverture de la voie à la sculpture moderne taïwanaise
+- Caractéristiques de l'œuvre : Fusion du naturalisme japonais et du thème local taïwanais
+- Œuvres représentatives : _L'eau bénite_ (1921), _L'impératrice_ (1922), _Le Vaste Buffle_ (1930)[^2]
+- Importance historique : Ouverture de la voie à la sculpture moderne taïwanaise
 
-**Le développement durant la période coloniale japonaise** :
+**Développement pendant la période coloniale** :
 
-- Le système d'expositions officielles a introduit les concepts de sculpture occidentale
-- Mise en place progressive d'un système d'éducation artistique
-- Modernisation des matériaux et des techniques
+- Le système des expositions officielles a introduit les concepts occidentaux de sculpture
+- Mise progressive en place du système éducatif artistique
+- Modernisation des techniques et des matériaux
 
-### L'établissement contemporain : les fondations de la génération des maîtres
+### Affirmation contemporaine : La génération des grands maîtres
 
-**Yang Yingfeng (1926-1997)** : Fondateur de la sculpture moderne
+**Yang Ying-feng (1926-1997)** : Fondateur de la sculpture moderne[^16]
 
-**Philosophie artistique** :
+**Idées artistiques** :
 
-- Pionnier de la « modernisation de la sculpture chinoise »
-- Accent mis sur la spiritualité et l'esthétique orientale
-- Promoteur du concept de « sculpture paysagère »
+- Accent mis sur l'aspect spirituel et l'esthétique orientale
+- Proposition du concept de « sculpture paysagère » (Lifescape Sculpture) vers les années 1980[^3]
 
-**Œuvres majeures** :
+**Œuvres importantes** :
 
-- _Le Phénix accueilli_ (鳳凰來儀) : emblème de l'aéroport international de Taipei
-- _Taroko_ (太魯閣) : représentation abstraite de la beauté des montagnes taïwanaises
-- _Porte du Dragon_ (龍門) : interprétation moderne d'une imagerie traditionnelle avec des matériaux contemporains
+- _L'arrivée de la phoenix_ : Sculpture paysagère géante en acier rouge pour l'exposition universelle de Osaka en 1970 au pavillon de la République de Chine[^3]
+- Série des montagnes de Taroko : Expression abstraite de la beauté montagneuse de Taïwan
+- Projets de sculptures paysagères pour le hall d'entrée et l'aéroport international de Kaohsiung[^3]
 
 **Caractéristiques créatives** :
 
-- Utilisation innovante de l'acier inoxydable
-- Combinaison d'abstraction géométrique et de formes organiques
-- Considération globale de l'espace environnant
+- Innovation dans l'utilisation de l'acier inoxydable
+- Combinaison de formes géométriques abstraites et de formes organiques
+- Consideration globale de l'espace environnant
 
-## Zhu Ming : de la ruralité à l'international, un sculpteur taïwanais
+## Chu Ming : Du local à l'international
 
-Zhu Ming (1938-2023) est l'artiste jouissant de la plus grande notoriété internationale dans l'histoire de la sculpture taïwanaise[^1]. Sa création, issue de la tradition de la sculpture sur bois apprise auprès d'un maître, s'est orientée vers le domaine de l'art contemporain sous la direction de Yang Yingfeng, développant deux grands systèmes créatifs : la Série Taiji et la Série du Monde des Hommes. Ses œuvres sont collectionnées en Europe, en Amérique et en Asie.
+Chu Ming (1938-2023) est l'artiste taïwanais le plus connu à l'échelle internationale dans l'histoire de la sculpture[^1]。Sa carrière artistique a débuté dans le domaine de la sculpture sur bois traditionnelle, puis l'a guidée vers l'art contemporain grâce à Yang Ying-feng. Il a développé deux systèmes créatifs majeurs : la série Taiji et la série Humaine, dont les œuvres sont exposées dans les collections d'Europe, d'Amérique du Nord, d'Asie et d'autres régions.
 
-### Parcours artistique et évolution stylistique
+### Parcours artistique et évolution du style
 
-**La première période rurale (années 1970)** :
+**Série locale des années 1970** :
 
-**Formation** :
+**Formation artistique** :
 
-- 1953-1957 : apprentissage de la sculpture sur bois traditionnelle auprès de Li Jinchuan
-- 1968-1976 : étude de la sculpture moderne auprès de Yang Yingfeng comme maître
-- Transition d'artisan à artiste contemporain
+- En 1953, il a suivi la formation de l'artiste sculpteur Li Jin-chuan à l'ancien temple de Cihui à Taichung pendant trois ans et quatre mois
+- En 1968, il a suivi Yang Ying-feng pour apprendre la sculpture moderne pendant huit ans[^5]
+- Transition d'un artisan du bois à un artiste contemporain
 
 **Œuvres représentatives** :
 
-- _Le Petit Berger_ (牧童) : représentation de la vie rurale dans sa simplicité
-- _Travailler d'un même cœur_ (同心協力) : représentation vivante de la vie paysanne
-- _Le Buffle d'eau_ (水牛) : alliance parfaite de la force et de la beauté
+- _Le Jeune berger_ : Représentation de la vie rurale simple
+- _La coopération mutuelle_ : Présentation vivante de la vie rurale
+- _Le Buffle_ : Parfaite combinaison de force et de beauté
 
 **Caractéristiques créatives** :
 
-- Conservation de l'essence des techniques traditionnelles de sculpture sur bois
-- Accent mis sur l'expression de la vitalité des œuvres
-- Dépouillement des formes pour ne conserver que l'esprit
+- Préservation de l'essence des techniques traditionnelles de sculpture sur bois
+- Accent mis sur l'expression de la vitalité de l'œuvre
+- Méthode de simplification pour conserver l'esprit tout en abandonnant la forme
 
-### La Série Taiji : une fusion parfaite des cultures orientale et occidentale
+### Série Taiji : Fusion parfaite entre l'Est et l'Ouest
 
 **Philosophie créative** :
 
-- Transformation des mouvements corporeaux du taiji quan en vocabulaire sculptural
-- Recherche d'une esthétique d'équilibre entre mouvement et immobilité
-- Incarnation de la pensée philosophique chinoise de l'harmonie du yin et du yang
+- Transformation des mouvements corporels du Taiji en langage sculptural
+- Recherche d'une esthétique de l'équilibre entre mouvement et calme
+- Expression de la pensée chinoise sur l'harmonie entre le yin et le yang
 
 **Caractéristiques techniques** :
 
-- Conservation des traces larges de coups de hache
-- Simplification des formes pour souligner la dynamique
-- Mode d'expression à la fois abstrait et figuratif
+- Conservation des traces de hachures dans les grandes surfaces
+- Simplification des formes pour accentuer le mouvement
+- Méthode d'expression à la fois abstraite et figurative
 
-**Œuvres majeures** :
+**Œuvres importantes** :
 
-- _Série Taiji — Simple fouet en position basse_ (太極系列-單鞭下勢)
-- _Série Taiji — Exercice à deux_ (太極系列-對練)
-- _Série Taiji — Position de départ_ (太極系列-起勢)
+- _Série Taiji - Bras unique baissé_
+- _Série Taiji - Entraînement en double_
+- _Série Taiji - Position initiale_
 
-**Impact international** :
+**Influence internationale** :
 
-- Exposition personnelle retentissante au Musée central de Tokyo en 1977
-- Grande exposition sur la Place Vendôme à Paris en 1997
-- Établissement de la place de la sculpture taïwanaise sur la scène artistique internationale
+- Exposition individuelle au musée central d'art de Tokyo en 1977 a fait un énorme succès
+- Exposition à la place Vendôme à Paris en 1997
+- Établissement de la position de la sculpture taïwanaise sur la scène internationale
 
-### La Série du Monde des Hommes : une observation profonde de la vie contemporaine
+### Série Humaine : Observation profonde de la vie contemporaine
 
-**Tournant créatif** :
+**Orientation créative** :
 
-- Nouvelle phase créative débutant dans les années 1980
-- Passage de la culture traditionnelle à l'observation de la société contemporaine
-- Expérimentation de l'utilisation diversifiée de matériaux
+- Nouvelle phase créative commencée dans les années 1980
+- Passage des thèmes culturels traditionnels à l'observation de la société contemporaine
+- Expérimentation diversifiée dans l'utilisation des matériaux
 
-**Contenu thématique** :
+**Thèmes abordés** :
 
-La série militaire interroge la guerre et la paix, tandis que la série des athlètes met en valeur la beauté dynamique du corps humain.
+La série militaire réfléchit à la guerre et à la paix, tandis que la série des sportifs montre la beauté du mouvement humain.
 
-- **Série Ballet** : dialogue entre les arts oriental et occidental
-- **Série des Trois Armées** : interprétation artistique de la culture militaire
+- **Série de ballet** : Dialogue entre les arts orientaux et occidentaux
+- **Série militaire** : Interprétation artistique de la culture militaire
 
-**Innovation dans les matériaux** :
+**Innovation matérielle** :
 
-- Argile : conservation du toucher manuel et des qualités rustiques
-- Éponge : audacieuse expérimentation avec un matériau expérimental
-- Acier inoxydable : utilisation de matériaux industriels modernes
-- Polystyrène : exploration de matériaux légers
-- Bronze : interprétation moderne d'un matériau traditionnel
+- Argile : Conservation de la texture et de la simplicité
+- Éponge : Expérimentation audacieuse avec des matériaux non traditionnels
+- Acier inoxydable : Utilisation de matériaux industriels modernes
+- Styrofoam : Exploration de matériaux légers
+- Bronze : Interprétation moderne des matériaux traditionnels
 
-### Le Musée Zhu Ming : un lieu majeur d'éducation artistique
+### Musée Chu Ming : Un important pôle d'éducation artistique
 
-**Contexte de création** :
+**Contexte d'installation** :
 
-Le Musée Zhu Ming a été fondé en 1999 dans le district de Jinshan, dans la municipalité de Nouveau Taipei. C'est le premier musée personnel consacré à un seul artiste à Taïwan, présentant le parcours créatif complet de Zhu Ming, de la sculpture sur bois rurale à la Série du Monde des Hommes[^6]. Zhu Ming est décédé en mai 2023 à l'âge de 85 ans ; le musée reste ouvert au public et constitue la principale institution de préservation de son héritage artistique[^1].
+Le musée Chu Ming a ouvert ses portes en 1999 dans le district de Jinshan à New Taipei City. De 1987 à l'ouverture, il a fallu douze ans pour le construire. C'est le premier musée au monde dédié à un seul artiste, présentant l'ensemble du parcours créatif de Chu Ming, de la sculpture sur bois locale aux séries Humaines[^6]。Chu Ming est décédé le 22 avril 2023, à l'âge de 85 ans ; le musée reste ouvert au public et devient l'institution principale chargée de préserver son héritage artistique[^1]。
 
-**Conception spatiale** :
+**Conception de l'espace** :
 
 - Combinaison d'un parc de sculptures en plein air et d'espaces d'exposition intérieurs
-- Installation dans un environnement naturel entre montagne et mer
-- Dialogue harmonieux entre les œuvres d'art et leur environnement
+- Installation dans un environnement naturel bordé par la mer et entouré de montagnes
+- Dialogue harmonieux entre les œuvres et l'environnement
 
 **Fonctions éducatives** :
 
-- Programmes de promotion de l'éducation sculpturale
-- Mécanisme de résidences de création pour artistes
-- Plateforme d'échange international de sculpture
+- Programmes de sensibilisation à la sculpture
+- Mécanisme d'accueil des artistes résidents
+- Plateforme internationale d'échanges en sculpture
 
-## Les explorations diversifiées des sculpteurs de la nouvelle génération
+## Exploration diversifiée des sculpteurs de la nouvelle génération
 
-Les sculpteurs nés dans les années 1960-1970, tels que Lin Shunlong et Hong Yi, ont tracé dans l'écosystème de l'art contemporain taïwanais une voie créative partant de l'espace public. Leurs œuvres sont largement implantées dans les espaces urbains publics, en contact direct avec le grand public, formant une relation sociale différente de celle de la génération des maîtres.
+Lin Shun-long, Hong Yi et autres sculpteurs nés entre 1950 et 1970 ont tracé une voie créative distincte à partir de l'espace public dans l'écosystème artistique contemporain taïwanais. Leurs œuvres sont largement installées dans les espaces publics urbains, entrant en contact direct avec le grand public, formant ainsi des relations sociales différentes de celles des générations précédentes.
 
-Lin Shunlong excelle dans l'art de la terre (land art), utilisant des matériaux naturels comme le bambou pour créer de grandes installations en extérieur ; Hong Yi est quant à lui connu pour ses sculptures d'animaux aux couleurs vives, fusionnant des éléments de l'art populaire taïwanais, avec des œuvres accessibles et immédiatement identifiables. Par ailleurs, des artistes comme Liao Yingxi, Chen Zhengxiong et Pu Haoming se sont respectivement spécialisés dans le soudage métallique, la sculpture sur pierre d'inspiration zen, et les installations multimatériaux.
+Lin Shun-long est reconnu pour ses œuvres d'art terrien utilisant des matériaux naturels tels que le bambou dans des installations en plein air de grande taille ; Hong Yi est célèbre pour ses sculptures animales colorées, intégrant des éléments de l'art populaire taïwanais, avec des œuvres accessibles et reconnaissables. En outre, des artistes de générations différentes tels que Liao Ying-xi, Chen Zheng-xiong, Pu Hao-ming et Li Yi-xun ont chacun approfondi leurs domaines respectifs dans la peinture sur acier inoxydable, la sculpture sur bois, les portraits en bronze et l'art public en mosaïque.
 
-La période de formation de ces sculpteurs de la nouvelle génération coïncide précisément avec la décennie de mise en œuvre à grande échelle de la politique d'art public à Taïwan. Les opportunités de création et le soutien offerts par cette politique ont, dans une certaine mesure, façonné la trajectoire créative de cette génération d'artistes.
+La période de formation de ces sculpteurs de la nouvelle génération coïncide avec l'ère de la mise en œuvre à grande échelle des politiques d'art public. Les opportunités créatives et le soutien du marché fournis par ces politiques ont façonné la voie artistique de cette génération à un certain égard.
 
-### Lin Shunlong : le poète de l'environnement
+### Lin Shun-long : Le poète de l'art environnemental
 
 **Philosophie créative** :
 
-- Attention portée à l'écologie environnementale et à la dimension humaine
-- Utilisation de matériaux naturels pour des créations de land art
-- Accent mis sur la relation symbiotique entre l'art et l'environnement
+- Préoccupation pour l'écologie environnementale et la bienveillance envers l'humanité
+- Création d'œuvres d'art terrien en utilisant des matériaux naturels
+- Accent mis sur la relation de coexistence entre l'art et l'environnement
 
-**Œuvres majeures** :
+**Œuvres importantes** :
 
-- _Le Poisson-Lune_ (月亮魚) : art paysager pour l'Exposition florale de Taichung 2018
-- _Écouter la fleur s'ouvrir_ (聆聽花開的聲音) : forêt arborée de l'Exposition florale de Taichung
-- _Le Bateau de graines_ (種子船) : art environnemental au Parc naturel de Guandu
+- _Traversée nationale - Mer_ (Bateau-graine) : En 2013, un bateau-graine en forme de noix de coco réalisé à partir de bois flotté, exposé lors de la fête de l'art Setouchi 2016, et collecté à perpétuité par le comté de Kagawa[^8]
+- _Graine - Une graine tombée du ciel_ : En 2018, au parc forestier de Houli de l'exposition florale de Taichung, une graine géante de 12 mètres de diamètre et 15 mètres de hauteur réalisée avec des tiges de bambou de type Mengzong[^9]
+- _Traversée nationale - Vagues_ : En 2019, lors de la fête de l'art Setouchi sur l'île de Kojima, une installation en forme de pierre à étoile composée de plus de 4000 tiges de bambou[^10]
 
 **Caractéristiques créatives** :
 
-- Utilisation ingénieuse de matériaux naturels comme le bambou
-- Intégration environnementale de grandes installations extérieures
-- Capacité à créer des espaces empreints de poésie
+- Utilisation ingénieuse des matériaux naturels tels que le bambou
+- Intégration environnementale des installations en plein air de grande taille
+- Capacité à créer des espaces poétiques
 
-### Hong Yi : une expression contemporaine haute en couleur
+### Hong Yi : L'expression colorée de l'art contemporain
 
 **Style artistique** :
 
-- Sculptures d'animaux aux couleurs vives
-- Fusion d'éléments de l'art populaire taïwanais
+- Sculptures animales colorées et vives
+- Intégration des éléments de l'art populaire taïwanais
 - Combinaison de matériaux modernes et de motifs traditionnels
 
 **Œuvres représentatives** :
 
-- Série _Le Bœuf_ (牛) : interprétation contemporaine du buffle d'eau taïwanais
-- _Le Singe de la Fortune et de la Prospérité_ (福祿猴) : lanterne principale du Festival des lanternes de Taipei 2016
-- _Le Roi des Singes_ (美猴王) : combinaison de la mythologie traditionnelle et de l'esthétique moderne
+- Série _Le Buffle_ : Interprétation contemporaine du buffle taïwanais
+- _Le singe fortune et beauté_ : Lampe principale du festival des lumières de Taipei en 2016
+- _Le roi singe_ : Combinaison des mythes traditionnels et de l'esthétique moderne
 
 **Caractéristiques créatives** :
 
-- Maîtrise de l'utilisation de la fibre de verre
-- Transformation moderne de motifs de bon augure populaires
-- Qualités d'accessibilité de l'art public
+- Maîtrise experte des matériaux de fibre de verre
+- Transformation moderne des motifs populaires heureux
+- Caractère accessible de l'art public
 
 ### Autres sculpteurs contemporains importants
 
-**Liao Yingxi** :
+**Liao Ying-xi (1968-)** :
 
-- Pionnier de la sculpture par soudage métallique
-- Transformation artistique de matériaux industriels
-- Expression épurée des formes abstraites
+- Diplômé du département de peinture à l'institut des beaux-arts de l'Université de Donghai, il a changé de discipline en 2008 pour se concentrer sur la création tridimensionnelle
+- Utilisation de l'acier inoxydable peint et de formes colorées, poursuivant le concept de lignes de séquences génétiques
+- Artistes et commissaires d'exposition internationaux[^11]
 
-**Chen Zhengxiong** :
+**Chen Zheng-xiong (1942-)** :
 
-- Exploration approfondie du matériau pierre
-- Interprétation sculpturale de la philosophie zen orientale
-- Expression de l'esprit zen par des formes épurées
+- Sculpteur sur bois basé à Tainan, il a commencé à apprendre l'artisanat en 1955 sous la direction des maîtres de la boutique des statues bouddhistes de Beigang et de Li Hsien-guang à Lukang, et a terminé sa formation en 1958
+- Technique de sculpture combinant les maîtres de la région de Tangshan, les statues bouddhistes taïwanaises, la sculpture japonaise à la lame unique et le naturalisme occidental
+- Récompensé par le prix Wu San-lien en 1983 et le prix Nihon Sōzō en 1989 ; exposition individuelle au musée des beaux-arts de Tainan en 2021[^12]
 
-**Pu Haoming** :
+**Pu Hao-ming (1944-)** :
 
-- Sculpture composite multimatériaux
-- Attention portée aux enjeux sociaux contemporains
-- Expérimentation spatiale en art installation
+- Fils de l'artiste sculpteur Pu Tian-sheng, il a participé à la création de statues pendant treize ans sous la direction de son père
+- En 1980, il a étudié à l'Académie royale des beaux-arts de Bruxelles en Belgique et à Paris en France
+- Portraits en bronze naturalistes ; exposition « Température : Pu Tian-sheng × Pu Hao-ming, father and son sculpture exhibition » au musée du sud de Taipei en 2024[^13]
 
-**Li Yixun** :
+**Li Yi-xun** :
 
-- Spécialiste de la technique de moulage en bronze
-- Représentation vivante de la figure humaine
-- Interprétation contemporaine du style réaliste
+- Création d'art public en utilisant des matériaux composites et de la mosaïque
 
-## L'art public et l'espace urbain
+## Art public et espace urbain
 
-En 1992, le _Règlement d'encouragement aux arts et à la culture_ (文化藝術獎助條例) a instauré la politique de « 1 % d'art public », exigeant que 1 % du budget des travaux publics soit consacré à l'installation d'œuvres d'art[^9]. Cette politique a transformé le mode de production de la sculpture taïwanaise : les artistes disposaient de sources de commandes stables, et les espaces urbains ont ainsi accumulé un grand nombre d'œuvres sculpturales.
+En 1992, la _Loi sur les subventions culturelles et artistiques_ a officialisé la politique de « l'art public à 1 % », exigeant que 1 % des fonds des projets publics soient alloués à l'installation d'œuvres artistiques[^17]。Cette politique a transformé la manière dont la sculpture taïwanaise est produite : les artistes ont obtenu des sources de commande stables, et les espaces urbains se sont enrichis de nombreuses œuvres sculpturales.
 
-À ce jour, plus de 3 000 œuvres d'art public ont été installées à Taïwan, dans des nœuds de transport, des campus, des parcs et des bâtiments gouvernementaux[^7]. Derrière ce chiffre se cache un système complexe composé de comités d'évaluation, de participation communautaire et de concours pour les artistes, dont l'efficacité et les controverses font toujours l'objet de débats dans le milieu de la politique culturelle.
+Selon les statistiques du ministère de la Culture, d'ici décembre 2023, Taïwan a réalisé 5 537 œuvres d'art publices, impliquant plus de 2 000 artistes et chercheurs, réparties dans les hubs de transport, les écoles, les parcs et les institutions gouvernementales[^7]。Ce chiffre cache une machine institutionnelle complexe composée de comités de sélection, de participation communautaire et de processus d'appel d'offres pour les artistes, dont l'efficacité et les controverses restent des sujets de débat dans le domaine des politiques culturelles.
 
-Maintenir la qualité artistique dans les limites budgétaires et les processus administratifs constitue un défi de longue date pour la politique d'art public ; certaines œuvres, faute d'entretien, ont été endommagées ou retirées, suscitant également des discussions sur la pérennité de l'art public.
+Maintenir la qualité artistique dans les contraintes budgétaires et les procédures administratives est un défi persistant pour la politique d'art public ; certaines œuvres, faute d'entretien, se sont dégradées ou ont été supprimées, suscitant ainsi des discussions sur la durabilité de l'art public.
 
-### Le développement de la politique d'art public
+### Développement de la politique d'art public
 
-**Processus de législation** :
+**Processus législatif** :
 
-- _Règlement d'encouragement aux arts et à la culture_ de 1992
-- Élaboration de réglementations pour l'installation d'art public
-- Mise en œuvre de la politique du « 1 % d'art public »
+- _Loi sur les subventions culturelles et artistiques_ de 1992
+- Élaboration du règlement sur l'installation d'œuvres d'art public
+- Mise en œuvre de la politique de « l'art public à 1 % »
 
-**Mécanismes d'installation** :
+**Mécanisme d'installation** :
 
-- Les travaux publics doivent consacrer 1 % de leur budget à l'installation d'œuvres d'art
-- Système d'évaluation par des comités professionnels
-- Programmes de création participative communautaire
+- Les projets publics doivent allouer 1 % des fonds pour l'installation d'œuvres artistiques
+- Système de sélection par des comités professionnels
+- Programmes de création participatifs communautaires
 
 **Évaluation des résultats** :
 
-- Plus de 3 000 œuvres d'art public installées à travers Taïwan
+- Total de 5 537 œuvres d'art publices réalisées à travers toute l'île (d'ici décembre 2023)[^7]
 - Amélioration de la qualité esthétique urbaine
-- Promotion des opportunités de création pour les artistes
+- Promotion des opportunités créatives pour les artistes
 
-### Cas importants de sculptures publiques
+### Études de cas importantes d'œuvres sculpturales publiques
 
-**Emblèmes de nœuds de transport** :
+**Monuments symboliques aux hubs de transport** :
 
-- _Le Phénix accueilli_ (鳳凰來儀) de Yang Yingfeng à l'aéroport de Taoyuan
-- _La Coupole de lumière_ (光之穹頂) de Narcissus à la station Formosa Boulevard du métro de Kaohsiung
-- _La Fleur de sagesse_ (智慧之花) conçue par Issey Miyake pour le Taipei 101
+- _Voûte céleste_ à la station du métro Meili-dao à Kaohsiung (artiste italien en verre Narcissus Quagliata, surnommé « maître Narcisse » en Taïwan)
+- Sculptures paysagères de Yang Ying-feng à l'aéroport international de Kaohsiung[^3]
 
-**Sculptures paysagères urbaines** :
+**Œuvres d'art publiques dans les lieux commerciaux** :
 
-- _Le Cœur de Taichung_ (台中之心) à l'hôtel de ville de Taichung
-- _Le Bateau de l'amour_ (愛之船) sur l'Aihe à Kaohsiung
-- _Le Parc culturel du Temple de Confucius_ (孔廟文化園區) à Tainan
+- _LOVE_ de Robert Indiana, _1-0_ de Robert Indiana, _Vie infinie_ de Kang Mu-xing (réalisé avec des câbles d'ascenseur usagés)[^14]
 
-**Art sur les campus scolaires** :
+**Éducation artistique dans les écoles** :
 
-- Installation de sculptures éducatives dans les écoles à tous les niveaux
-- Programmes de résidences d'artistes dans les écoles
-- Mécanismes de création conjointe enseignants-élèves
+- Installation d'œuvres sculpturales éducatives dans les écoles primaires et secondaires
+- Programmes d'accueil des artistes dans les écoles
+- Mécanismes de création participative entre enseignants et élèves
 
 ### Parcs de sculptures et espaces d'exposition
 
-**Espaces d'exposition spécialisés** :
+**Espaces professionnels d'exposition** :
 
-- **Musée Zhu Ming** : district de Jinshan, municipalité de Nouveau Taipei
-- **Parc de sculptures du Musée Chimei** : district de Rende, Tainan
-- **Parc de sculptures du Musée national des beaux-arts de Taïwan** : district ouest de Taichung
+- **Musée Chu Ming** : District de Jinshan à New Taipei City
+- **Parc du musée Chi-Mei** : District de Ren'de à Tainan
+- **Parc du musée des beaux-arts nationaux de Taïwan** : District de Xitun à Taichung
 
 **Parcs de sculptures urbains** :
 
-- Parc forestier de Daan à Taipei
-- Parc forestier d'Aozihdi à Kaohsiung
-- Parc de sculptures de Fengle à Taichung
+- Parc de sculptures Fengshui à Taichung
 
-**Expositions internationales de sculpture** :
+**Expositions internationales de sculptures** :
 
-- Exposition internationale de sculpture en plein air de Guandu
-- Exposition annuelle internationale de sculpture de Taichung
-- Festival international de sculpture sur pierre de Hualien
+- Festival international de la sculpture sur pierre à Hualien
 
-## L'innovation dans les matériaux et les techniques
+## Innovation dans les techniques et les matériaux
 
-L'évolution des matériaux et des techniques dans la sculpture taïwanaise reflète les changements des conditions matérielles de l'ensemble de l'écosystème artistique. De l'artisanat manuel de la sculpture sur bois des temples à l'exploration de l'acier inoxydable et du bronze dans les années 1960-1980, puis à l'utilisation généralisée de matériaux composites et d'outils numériques par les artistes contemporains, chaque transition de matériaux s'est accompagnée d'une formation artisanale et d'un soutien industriel correspondants.
+Le développement des techniques et des matériaux dans la sculpture taïwanaise refllette les changements des conditions matérielles de l'écosystème artistique. Des techniques manuelles traditionnelles de la sculpture sur bois dans les temples, à l'exploration des années 1960-1980 de l'acier inoxydable et du bronze, jusqu'aux expérimentations actuelles des artistes contemporains avec des matériaux composites et des outils numériques, chaque changement de matériau est accompagné d'une éducation artisanale et d'un soutien industriel correspondants.
 
-L'utilisation innovante de l'acier inoxydable par Yang Yingfeng et l'expérimentation de matériaux non traditionnels comme l'éponge et le polystyrène par Zhu Ming ont suscité des débats dans le monde artistique de leur époque. La nouvelle génération d'artistes a introduit l'impression 3D et la découpe laser, modifiant à la fois les seuils de réalisation et les possibilités formelles de la sculpture.
+L'innovation de Yang Ying-feng dans l'utilisation de l'acier inoxydable, ainsi que les expérimentations de Chu Ming avec l'éponge et le Styrofoam, ont suscité des débats dans le milieu artistique de l'époque. Les artistes de la nouvelle génération ont intégré l'impression 3D et la découpe laser, modifiant ainsi les seuils de création et les possibilités de forme de la sculpture.
 
-La tradition taïwanaise de formation en techniques artisanales (en particulier la sculpture sur bois et le travail des métaux) a fourni une base de main-d'œuvre technique pour l'art sculptural. Des établissements universitaires comme l'Université nationale des arts de Taïwan et l'Université nationale des arts de Tainan ont également formé des créateurs possédant une maîtrise approfondie des matériaux[^11].
+La tradition taïwanaise de l'enseignement des techniques artisanales (notamment la sculpture sur bois et le travail du métal) a fourni une base de main-d'œuvre technique pour l'art de la sculpture. Les universités nationales de Taïwan et de Tainan ont formé une génération d'artistes maîtrisant profondément les matériaux[^18]。
 
-### L'interprétation moderne des matériaux traditionnels
+### Interprétation moderne des matériaux traditionnels
 
 **Innovation dans les techniques de sculpture sur bois** :
 
 - Élévation artistique des techniques traditionnelles
-- Introduction et application de nouveaux outils
+- Introduction et application des outils modernes
 - Amélioration des techniques de conservation et de traitement
 
-**La sculpture sur pierre** :
+**Sculpture sur pierre** :
 
-- Exploitation et utilisation des pierres locales taïwanaises
-- Travail fin du marbre et du granite
-- Combinaison de machines modernes et de travail manuel
+- Développement et utilisation des pierres locales taïwanaises
+- Traitement précis du marbre et du granit
+- Combinaison de la technologie moderne et de la main d'œuvre manuelle
 
-**La fonte métallique** :
+**Coulée en métal** :
 
-- Localisation de la technique de moulage en bronze
-- Utilisation d'alliages modernes
-- Développement de techniques de moulage précis
+- Localisation des techniques de coulée du bronze
+- Utilisation de nouveaux alliages modernes
+- Développement des techniques de moulage précis
 
-### L'expérimentation avec les matériaux contemporains
+### Exploration expérimentale des matériaux contemporains
 
 **Matériaux industriels** :
 
 - Possibilités créatives de l'acier inoxydable
-- Avantage de la légèreté des alliages d'aluminium
+- Avantages de la légèreté de l'alliage d'aluminium
 - Expression structurelle des matériaux en acier
 
 **Matériaux composites** :
 
-- Combinaison de résine et de fibre
-- Alliance de céramique et de métal
-- Dialogue entre matériaux naturels et artificiels
+- Combinaison de résines et de fibres
+- Association de céramiques et de métaux
+- Dialogue entre matériaux naturels et synthétiques
 
 **Technologies émergentes** :
 
-- Application artistique de la technologie d'impression 3D
-- Logiciels de conception de sculpture numérique
-- Usinage de précision par découpe laser
+- Application artistique de l'impression 3D
+- Logiciels numériques de conception sculpturale
+- Découpe laser pour un traitement précis
 
-### Formation technique et transmission
+### Éducation et transmission techniques
 
-**Système d'éducation universitaire** :
+**Système éducatif universitaire** :
 
-- Programmes de sculpture dans les départements des beaux-arts
-- Filières de sculpture artisanale dans le système d'enseignement professionnel et technique
-- Formation spécialisée approfondie au niveau du troisième cycle
+- Cours de sculpture dans les départements d'arts plastiques
+- Programmes techniques spécialisés dans les écoles professionnelles
+- Formation approfondie au niveau des études supérieures
 
-**Système de transmission par les maîtres artisans** :
+**Système de transmission des maîtres artisans** :
 
-- Système de certification des maîtres artisans traditionnels
-- Promotion des programmes de transmission technique
-- Mécanismes de formation des jeunes apprentis
+- Système de reconnaissance des maîtres artisans traditionnels
+- Promotion des programmes de formation technique
+- Mécanismes de formation des apprentis jeunes
 
 **Culture des ateliers** :
 
-- Ateliers personnels d'artistes
+- Ateliers individuels des artistes
 - Modèles d'ateliers partagés
-- Résidences de création internationales et échanges
+- Échanges de création artistique en résidence internationale
 
 ## Échanges internationaux et influence à l'étranger
 
-La visibilité internationale de la sculpture taïwanaise s'est principalement établie par deux voies : les expositions personnelles d'artistes à l'étranger (notamment l'exposition de Zhu Ming à Tokyo en 1977 et celle sur la Place Vendôme à Paris en 1997), et la participation institutionnelle pilotée par le gouvernement, telle que le Pavillon de Taïwan à la Biennale de Venise[^7]. Ces deux voies se complètent mutuellement et ont collectivement façonné l'image de la sculpture taïwanaise à l'étranger.
+La visibilité internationale de la sculpture taïwanaise s'est principalement établie à travers deux canaux : les expositions individuelles à l'étranger des artistes (comme l'exposition de Chu Ming au musée central d'art de Tokyo en 1977 et à la place Vendôme à Paris en 1997), et la participation institutionnelle soutenue par le gouvernement, telle que le pavillon de Taïwan à la Biennale de Venise. Ces deux approches se complètent mutuellement pour façonner l'image internationale de la sculpture taïwanaise.
 
-Il est à noter que la visibilité de la sculpture taïwanaise à l'étranger dépend fortement de la réputation d'artistes individuels — le nom de Zhu Ming est presque synonyme de sculpture taïwanaise sur la scène internationale. Ce phénomène de forte concentration témoigne d'une part des réalisations véritablement exceptionnelles de Zhu Ming, et d'autre part d'un potentiel de développement pour un travail systématique de promotion de la marque de la sculpture taïwanaise.
+Il convient de noter que la visibilité internationale de la sculpture taïwanaise dépend fortement de la renommée individuelle des artistes — le nom de Chu Ming est presque devenu synonyme de la sculpture taïwanaise à l'échelle internationale. Ce phénomène fortement concentré démontre à la fois l'exceptionnelle réussite de Chu Ming, mais aussi le manque d'efforts systématiques pour promouvoir la marque de la sculpture taïwanaise.
 
-Les programmes de résidences d'artistes à l'étranger promus par le ministère de la Culture et les gouvernements municipaux ont offert ces dernières années davantage d'opportunités aux sculpteurs taïwanais d'entrer en contact avec l'écosystème artistique international, accumulant ainsi une représentativité internationale diversifiée au-delà de Zhu Ming[^9].
+Les programmes gouvernementaux menés par le ministère de la Culture et les gouvernements locaux, tels que les résidences artistiques à l'étranger, offrent ces derniers temps plus d'opportunités aux sculpteurs taïwanais pour entrer en contact avec l'écosystème artistique international, accumulant ainsi des représentations internationales diverses au-delà de Chu Ming[^17]。
 
-### La visibilité internationale de la sculpture taïwanaise
+### Visibilité internationale de la sculpture taïwanaise
 
-**Expositions internationales majeures** :
+**Expositions internationales importantes** :
 
-- Participation au Pavillon de Taïwan à la Biennale de Venise
-- Section asiatique de la Biennale de São Paulo
-- Invitation à la Documenta de Cassel
+- Participation du pavillon de Taïwan à la Biennale de Venise
+- Fête de l'art Setouchi et festival d'art de Gokayama (Lin Shun-long)[^8]
 
-**Expositions personnelles à l'étranger** :
+**Expositions individuelles à l'étranger** :
 
-- Exposition personnelle de Zhu Ming à Paris (1997)
-- Exposition personnelle de Yang Yingfeng à New York (années 1980)
-- Tournées européennes et américaines d'artistes de la nouvelle génération
+- Exposition individuelle de Chu Ming au musée central d'art de Tokyo (1977) et grande exposition à la place Vendôme à Paris (1997)[^1]
+- Exposition individuelle de Yang Ying-feng à Milan (1964)[^3]
 
-**Reconnaissance par les collections internationales** :
+**Reconnaissance internationale des collections** :
 
-- Acquisitions par de grands musées européens et américains
-- Participation à des foires d'art internationales
-- Faveur des collectionneurs privés
+- Collections dans des musées importants d'Europe et d'Amérique du Nord
+- Participation aux salons internationaux de l'art
+- Intérêt des collectionneurs privés
 
-### Diplomatie culturelle et échanges artistiques
+### Coopération culturelle et échanges artistiques
 
 **Programmes gouvernementaux** :
 
-- Résidences d'artistes à l'étranger du ministère de la Culture
-- Échanges internationaux de formation en sculpture
-- Mise en œuvre d'accords culturels bilatéraux
+- Résidences artistiques à l'étranger soutenues par le ministère de la Culture
+- Échanges de formation et de recherche en sculpture
+- Mise en œuvre des accords culturels bilatéraux
 
-**Coopération et échanges académiques** :
+**Coopérations académiques** :
 
-- Colloques internationaux de sculpture
-- Programmes de coopération créative transnationaux
-- Visites d'échange de techniques et de savoir-faire
+- Conférences internationales sur la sculpture
+- Programmes de création artistique transnationaux
+- Échanges mutuels de techniques artisanales
 
-**Opportunités d'expansion du marché** :
+**Développement du marché** :
 
-- Participation au marché de l'art international
-- Promotion à l'étranger par des galeries
+- Participation aux marchés internationaux de l'art
+- Promotion par les galeries à l'international
 - Augmentation de la valeur d'investissement des collections
 
-## Enjeux contemporains et perspectives d'avenir
+## Questions contemporaines et perspectives d'avenir
 
-Les défis auxquels fait face la sculpture taïwanaise contemporaine sont passés de « comment établir un vocabulaire contemporain » à « comment maintenir une perspective propre dans le contexte de la mondialisation ». L'écologie environnementale, la diversité culturelle et les technologies numériques sont les trois thèmes les plus discutés dans le milieu de la sculpture taïwanaise aujourd'hui.
+Les défis auxquels la sculpture taïwanaise contemporaine est actuellement confrontée ont évolué : elles ne sont plus seulement « comment établir un langage contemporain », mais « comment maintenir notre propre perspective dans un contexte globalisé ». Les thèmes de l'écologie environnementale, de la diversité culturelle et de la technologie numérique sont les sujets les plus discutés dans le milieu artistique taïwanais.
 
-L'émergence de la sculpture contemporaine autochtone est un phénomène important dans le champ sculptural taïwanais ces dernières années : Rahic Talif (拉黑子·達立夫) crée à partir de tôles en fer en combinant la mémoire culturelle Amis, tandis que Sakuliu Pavavalung (撒古流·巴瓦瓦隆) part des motifs traditionnels Paiwan pour développer un langage sculptural contemporain unique. Ces créations sont à la fois des expressions artistiques et des affirmations de la subjectivité culturelle autochtone[^11].
+L'émergence de la sculpture contemporaine autochtone représente un phénomène important récent dans le domaine de la sculpture taïwanaise : Rahic Talif utilise du bois flotté et des déchets marins comme matériaux, intégrant la mémoire culturelle de l'éthnie Amis[^15]；Sakuliu Pavavalung part des totems traditionnels de l'éthnie Paiwan pour développer un langage sculptural contemporain unique. Ces créations sont à la fois des expressions artistiques et des affirmations de l'identité culturelle autochtone[^18]。
 
-La visibilité des femmes sculpteurs s'est également accrue ces dernières années. Les questions de genre, la politique du corps et l'éthique écologique apportent de nouveaux niveaux de discours à la sculpture contemporaine taïwanaise, élargissant les discussions dans ce domaine au-delà de la technique et de la forme.
+La visibilité des sculpteurs femmes a également connu une amélioration récente. Les thèmes abordés tels que les questions de genre, la politique corporelle et l'éthique environnementale ont apporté de nouveaux niveaux de réflexion à la sculpture taïwanaise contemporaine, élargissant ainsi les débats au-delà des techniques et des formes.
 
-### Réponses artistiques aux enjeux sociaux
+### Réponse artistique aux questions sociales
 
-**Conscience de la protection de l'environnement** :
+**Conscience environnementale** :
 
-- Création à partir de matériaux recyclés
-- Thèmes liés à la préservation de l'écologie environnementale
+- Création à partir de déchets recyclés
+- Thèmes liés à la préoccupation pour l'environnement
 - Promotion de l'utilisation de matériaux durables
 
-**Dialogue multiculturel** :
+**Dialogue interculturel** :
 
-- Renouveau culturel de la sculpture autochtone
-- Expression de la fusion culturelle des nouveaux résidents
-- Coopération artistique interethnique
+- Renaissance de la culture sculpturale autochtone
+- Expressions fusionnantes des cultures des nouveaux immigrants
+- Collaborations artistiques interethniques
 
-**Expression de l'égalité des genres** :
+**Expression égale entre les genres** :
 
-- Amélioration du statut des femmes sculpteurs
-- Exploration des questions de genre dans les œuvres
-- Déconstruction des stéréotypes de genre traditionnels
+- Amélioration du statut des sculpteurs femmes
+- Exploration des thèmes de genre dans les œuvres
+- Dépassement des stéréotypes de genre traditionnels
 
-### Les nouveaux défis de l'ère numérique
+### Nouveaux défis dans l'ère numérique
 
 **Intégration de la réalité virtuelle** :
 
-- Application de la technologie VR à la présentation de sculptures
-- Outils de conception de sculpture numérique
-- Expérience de visite de musées en ligne
+- Application de la technologie VR dans les expositions sculpturales
+- Outils numériques de conception sculpturale
+- Expérience de visite virtuelle des musées en ligne
 
 **Influence des médias sociaux** :
 
-- Transformation des modes de diffusion des œuvres
-- Innovation dans les modes de participation du public
-- Mécanismes de rétroaction interactive en temps réel
+- Changements dans les modes de diffusion des œuvres
+- Innovation des modèles de participation du public
+- Mécanismes de rétroaction en temps réel
 
-**NFT et collection numérique** :
+**NFT et collections numériques** :
 
-- Certification d'œuvres sculpturales numériques
+- Certification des œuvres sculpturales numériques
 - Application de la technologie blockchain
-- Nouveaux modèles de collection et d'investissement
+- Nouveaux modèles d'investissement dans les collections
 
-### Tendances de développement futur
+### Tendances d'avenir
 
-**Diversification des thèmes de création** :
+**Diversification des thèmes créatifs** :
 
-- Attention portée aux enjeux de la mondialisation
-- Exploration approfondie de la culture locale
+- Préoccupation pour les questions globales
+- Exploration approfondie des cultures locales
 - Augmentation des collaborations interdisciplinaires
 
-**Pérennité de l'innovation technique** :
+**Innovation technologique continue** :
 
 - Développement continu de nouveaux matériaux
-- Amélioration et perfectionnement des techniques de fabrication
+- Amélioration continue des techniques de fabrication
 - Intégration approfondie des technologies numériques
 
-**Approfondissement de l'éducation et de la diffusion** :
+**Approfondissement de l'éducation** :
 
-- Enracinement de l'éducation esthétique dès le plus jeune âge
-- Augmentation de la participation communautaire à l'art
-- Intensification des échanges internationaux
+- Ancrage des enseignements esthétiques dès l'école primaire
+- Amélioration de la participation communautaire à l'art
+- Fréquentisation des échanges internationaux
 
 ## Conclusion
 
-Le parcours de développement de la sculpture contemporaine à Taïwan est une histoire fascinante allant de l'artisanat traditionnel à la scène artistique internationale. Du début de la modernisation par Huang Tu-shui, à la construction de la contemporanéité par Yang Yingfeng, puis à la percée internationale de Zhu Ming, chaque génération de sculpteurs a ajouté de nouvelles couches et de nouvelles significations à l'art sculptural taïwanais.
+Le parcours du développement de la sculpture contemporaine taïwanaise raconte l'histoire fascinante de la transition de l'artisanat traditionnel à la scène internationale. Du début de la modernité par Huang Tu-shih, à la construction de l'art contemporain par Yang Ying-feng, jusqu'à la percée internationale par Chu Ming, chaque génération d'artistes a apporté de nouvelles dimensions et significations à l'art de la sculpture taïwanaise[^4]。
 
-À l'ère de la mondialisation, les sculpteurs taïwanais font face à de nouvelles opportunités et à de nouveaux défis. Comment maintenir les spécificités culturelles tout en s'ouvrant aux courants internationaux ; comment préserver l'essence artistique dans l'innovation technique ; comment défendre les idéaux créatifs face aux considérations commerciales — ce sont là des questions essentielles auxquelles le développement de la sculpture contemporaine doit réfléchir.
+Dans l'ère de la mondialisation, les sculpteurs taïwanais font face à de nouvelles opportunités et défis. Comment conserver les caractéristiques culturelles tout en absorbant les tendances internationales ; comment maintenir l'essence artistique dans l'innovation technologique ; comment concilier les considérations commerciales avec les idéaux créatifs, voilà les questions cruciales que le développement contemporain de la sculpture doit examiner.
 
-De la création du Musée Zhu Ming à la construction de parcs de sculptures à travers le pays, de la promotion de la politique d'art public à l'approfondissement des échanges internationaux, l'art sculptural taïwanais évolue vers une direction toujours plus diversifiée, ouverte et internationalisée. Ces précieux atouts culturels enrichissent non seulement le paysage artistique taïwan, mais constituent également un pont important reliant le passé et l'avenir, le local et l'international.
+Du musée Chu Ming à la création des parcs de sculptures dans diverses villes, de la promotion des politiques d'art public à l'approfondissement des échanges internationaux, l'art de la sculpture taïwanaise se dirige vers un avenir plus diversifié, ouvert et internationalisé. Ces précieux patrimoines culturels non seulement ont enrichi le paysage artistique de Taïwan, mais constituent également des ponts essentiels reliant le passé au futur, le local à l'international.
 
-À travers chaque œuvre sculpturale, nous percevons non seulement l'ingéniosité et le savoir-faire des artistes, mais aussi la profondeur et l'étendue de la culture taïwanaise. Dans l'espace tridimensionnel, les sculpteurs taïwanais, de leurs mains, gravent la mémoire et les rêves de l'île.
+À travers chaque œuvre sculpturale, nous voyons non seulement l'ingéniosité et la technique des artistes, mais aussi la profondeur et l'étendue de la culture taïwanaise. Dans l'espace tridimensionnel, les sculpteurs taïwanais, de leurs propres mains, ont sculpté les souvenirs et les rêves de l'île.
 
 ## Références
 
-[^1]: [Article Wikipédia « Zhu Ming (sculpteur) »](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — Biographie de Zhu Ming, parcours créatif et présentation du musée (édition mise à jour en 2025)
+[^1]: [Wikipedia《Chu Ming (sculpteur)》](<https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98_(%E9%9B%95%E5%A1%91%E5%AE%B6)>) — Biographie de Chu Ming, formation, expositions à Tokyo en 1977 et à Paris en 1997, douze ans de préparation du musée, décès le 22 avril 2023
 
-[^2]: [Maison de ventes Ravenel](https://ravenel.com/) — Fichier officiel de l'artiste Zhu Ming et données de marché
+[^2]: [Wikipedia《Huang Tu-shih》](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%9C%9F%E6%B0%B4) — Sélection pour la deuxième exposition impériale en 1920 avec _Le Joueur de flûte du bois_, sélection pour la troisième exposition impériale en 1921 avec _L'eau bénite_, _L'impératrice_ (1922), _Le Vaste Buffle_ (1930)
 
-[^3]: [Page du cours d'éducation générale de l'Université chinoise de culture, « Trois sommets de la sculpture taïwanaise »](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Conférence du professeur Xiao Qiongri, comparaison des trois générations Huang Tu-shui, Yang Yingfeng et Zhu Ming (2022)
+[^3]: [Wikipedia《Yang Ying-feng》](https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%8B%B1%E9%A2%A8) — _L'arrivée de la phoenix_ pour l'exposition universelle d'Osaka en 1970, exposition individuelle à Milan en 1964, série des montagnes de Taroko, concept de sculpture paysagère, commande pour l'aéroport international de Kaohsiung
 
-[^4]: [China Times, « Le parcours du maître Zhu Ming : Yang Yingfeng organise une exposition, le disciple se révèle, la Série Taiji fait sensation au Japon »](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Exposition de Zhu Ming à Tokyo en 1977 et relation de maître à disciple avec Yang Yingfeng (23 avril 2023)
+[^4]: [Cours d'enseignement général de l'Université chinoise de Taïwan《Les trois géants de la sculpture taïwanaise — De Huang Tu-shih, Yang Ying-feng à Chu Ming》](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Conférence animée par le professeur Xiao Qiong-rui de l'Université nationale de Chengdu, comparaison des trois générations
 
-[^5]: [Vocus, reportage spécial « Le sculpteur taïwanais Zhu Ming et ses liens avec Hong Kong »](https://vocus.cc/article/644cd3f8fd897800015f9262) — Liens créatifs et expositions entre Zhu Ming et le monde artistique de Hong Kong (2024)
+[^5]: [China Times News Network《Le parcours de Chu Ming — L'exposition organisée par Yang Ying-feng a révélé ses talents, la série Taiji a fait le tour du Japon》](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Relations entre Chu Ming et Yang Ying-feng lors de l'exposition de 1977 (23 avril 2023)
 
-[^6]: [Musée Zhu Ming](https://www.juming.org.tw/) — Site officiel, informations sur les expositions, catalogue raisonné et programmes éducatifs
+[^6]: [Musée Chu Ming](https://www.juming.org.tw/) — Site officiel, informations sur les expositions, l'œuvre complète et la promotion éducative
 
-[^7]: [Musée national des beaux-arts de Taïwan](https://www.ntmofa.gov.tw/) — Rapport de recherche « Histoire du développement de la sculpture contemporaine à Taïwan » (2021)
+[^7]: [Communiqué de presse du ministère de la Culture sur la révision du《Règlement sur l'installation d'œuvres d'art public》](https://www.moc.gov.tw/News_Content.aspx?n=105&s=221837) — 2024-08-02 : « Au total, 5 537 œuvres ont été réalisées d'ici décembre de l'année dernière, impliquant plus de 2 000 artistes et chercheurs »
 
-[^8]: [Musée Yang Yingfeng](https://yuyuyang.org.tw/) — Archives numériques des _Œuvres complètes de Yang Yingfeng_ et informations sur les expositions
+[^8]: [Programme de création interdisciplinale du ministère de la Culture 藺舜龍【Le bateau-graine】retour au《Festival international de l'art Setouchi 2016》](https://www.moc.gov.tw/information_250_44251.html) — En 2013, _Traversée nationale - Mer_ (bateau-graine en bois flotté), exposé lors de la fête de l'art Setouchi 2016, collecté à perpétuité par le comté de Kagawa
 
-[^9]: [Site officiel de l'art public du ministère de la Culture](https://publicart.moc.gov.tw/) — Politique d'art public à Taïwan, réglementation et cas d'installation
+[^9]: [Liberté Times《Une graine tombée du ciel ! L'œuvre de l'expo florale transmet l'espoir et la vitalité》](https://news.ltn.com.tw/news/life/breakingnews/2583320) — _Graine - Une graine tombée du ciel_ au parc forestier de Houli de l'exposition florale de Taichung en 2018, tiges de bambou de type Mengzong et de type Gui, 12 mètres de diamètre, 15 mètres de haut
 
-[^11]: [Université nationale des arts de Taïwan](https://www.ntua.edu.tw/) — Programmes du département de sculpture et informations sur les revues de recherche
+[^10]: [MOT TIMES 専訪 Lin Shun-long : L'espace créé avec 4 000 tiges de bambou](http://www.mottimes.com/cht/interview_detail.php?serial=427) — _Traversée nationale - Vagues_ lors de la fête de l'art Setouchi 2019 sur l'île de Kojima
 
-[^12]: [Musée des beaux-arts de Taipei](https://www.tfam.museum/) — Catalogue d'exposition « La sculpture taïwanaise 1945-2020 » (2020)
+[^11]: [Site artistique non chinois《Page artistique de Liao Ying-xi》](https://artemperor.tw/artist/9115) — Né en 1968 à Taichung, diplômé du département de peinture à l'institut des beaux-arts de l'Université de Donghai, a changé de discipline en 2008 pour se concentrer sur la création tridimensionnelle, également commissaire d'exposition internationale
+
+[^12]: [Musée des beaux-arts de Tainan《Anping · Ping'an · People — Exposition préparatoire de la sculpture de Chen Zheng-xiong 2021》](https://www.tnam.museum/exhibition/detail/195) — Né en 1942 à Tainan, a commencé à apprendre l'artisanat en 1955, diplômé en 1958, récompensé par le prix Wu San-lien en 1983 et le prix Nihon Sōzō en 1989
+
+[^13]: [Musée des beaux-arts de Tainan《Température : Exposition de sculptures father and son de Pu Tian-sheng × Pu Hao-ming》](https://www.tnam.museum/exhibition/detail/584) — Pu Hao-ming diplômé du département des beaux-arts de l'Académie culturelle en 1967, a appris sous la direction de son père pendant treize ans, étudié à Bruxelles et Paris en 1980
+
+[^14]: [Wikipedia《Taipei 101》§ Art public](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101) — _LOVE_ de Robert Indiana, _1-0_ de Robert Indiana, _Vie infinie_ de Kang Mu-xing (câbles d'ascenseur usagés), _Anneau du monde_ de Zhuang Pu, etc.
+
+[^15]: [Wikipedia《Rahic Talif》](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%BB%91%E5%AD%90%C2%B7%E9%81%94%E7%AB%8B%E5%A4%AB) — Artistes Amis, spécialisé dans la sculpture sur bois utilisant du bois flotté, avec des matériaux tels que des déchets marins, des filets de pêche, des barres de fer, etc.
+
+[^16]: [Musée Yang Ying-feng](https://yuyuyang.org.tw/) — Numérisation numérique de l'œuvre complète et informations sur les expositions
+
+[^17]: [Site officiel du ministère de la Culture sur l'art public](https://publicart.moc.gov.tw/) — Politiques, réglementations et exemples d'installation d'art public à Taïwan
+
+[^18]: [Université nationale des beaux-arts de Taïwan](https://www.ntua.edu.tw/) — Informations sur les cours du département de sculpture
