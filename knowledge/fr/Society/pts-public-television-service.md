@@ -25,10 +25,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Public_Television_Service_B_Building_20240316.jpg'
 rationale: "{'why_this_hook': '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。', 'whats_excluded': 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。', 'where_it_hedges': '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。', 'whos_pushing_back': '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'}"
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '81f10131f'
-sourceContentHash: 'sha256:5d55767b0e73ce88'
-sourceBodyHash: 'sha256:55150dbbe846399a'
-translatedAt: '2026-07-27T05:09:57+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:672f8b4df1c422b7'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
+translatedAt: '2026-09-19T17:35:17.181763+00:00'
 ---
 
 > **En 30 secondes :**
@@ -152,33 +152,34 @@ La fin de fonctionnement de la CPB se produit la même année que le chaos budg�
 
 Placer les 2,3 milliards de PTS dans cette carte mondiale : 67 fois moins que la BBC, 54 fois moins que la NHK, environ 20 fois moins que la KBS, 7 fois moins que la CPB (avant sa fin). Le niveau de ressources des médias publics de Taïwan n'a jamais véritablement atteint le niveau d'un « média public de taille moyenne », mais sa production de contenu (les enregistrements de coproduction internationale ou de licence inverse de _The Maidens_, _With Evil_ et _Gold Leaf_) a déjà dépassé les limites de l'échelle sur plusieurs aspects. Ce décalage est en soi une surperformance de Taïwan, et aussi la racine de la fragilité des médias publics de Taïwan : il dépend trop des choix personnels de quelques scénaristes, réalisateurs et producteurs, sans le pipeline de production de contenu institutionnalisé de la BBC ou de la NHK.
 
-## Le papier témoin de 28 ans
+## 28 ans d’essai
 
-Revenons aux 30 minutes du 7 mai 2026.
+Revenons au 7 mai 2026, à cette demi-heure.
 
-Lorsque Hu Yuan-hui s'est levé et a quitté l'hémicycle, il était le deuxième président du conseil d'administration de l'histoire des médias publics taïwanais à être poussé hors de son poste par la pression politique (le premier était Feng Hsien-hsien en 2010, bien qu'il fût directeur général). Il s'est écoulé 16 ans entre les deux.
+Lorsque Hu Yuan-hui s’est levé pour quitter l’hémicycle, il était le deuxième président de l’histoire de la télévision publique de Taïwan à avoir été éjecté sous pression politique (le premier étant Feng Hsien-hsien en 2010, bien que sous le titre de directeur général). Un intervalle de 16 ans s’était écoulé.
 
-Du lancement du 1er juillet 1998 à l'expulsion de l'hémicycle du 7 mai 2026, PTS a parcouru 28 ans. Entre-temps, il y a eu 23 ans de « sortilège » des 900 millions, 3 ans de déblocage par la loi, et 19 mois de nouvelles cibles politiques. Lever le « sortilège » ne signifie pas retirer le cercle d'or de la tête de Sun Wukong. À tout moment, un nouveau sortilège peut être récité.
+Du 1er juillet 1998, date de lancement, au 7 mai 2026, date de l’expulsion de l’hémicycle, PTS a traversé 28 ans. Parmi eux, 23 ans de quota de 900 millions, 3 ans de réforme législative dégelée, puis 19 mois après une nouvelle cible politique. L’affaiblissement du quota ne signifie pas forcément l’enlèvement du bandeau d’or sur la tête de Sun Wukong. À tout moment, un nouveau sortilège peut être récité.
 
-Mais au cours de ces 28 ans, cette institution a également accumulé certaines choses, que le déblocage ou le gel des 900 millions ne changeront pas :
+Mais en 28 ans, cette institution a accumulé quelque chose qui ne changera pas que le budget de 900 millions soit levé ou gelé :
 
-500 documentaires diffusés en première par PTS[^21], 5 séries phares ayant ému la société, 1,22 million d'abonnés à PTS+[^42], les critères éditoriaux en collaboration avec le Centre taïwanais de vérification des faits pour lutter contre les deepfakes[^43], et la carte des chaînes multilingues construite en collaboration avec le Conseil des affaires Hakka, le Conseil des affaires des Autochtones et le ministère de la Culture. Ces choses ont été accumulées cas par cas par des générations de travailleurs de la télévision au cours des 28 dernières années ; le montant du budget ne peut pas les acheter.
+500 documentaires de première diffusion de PTS[^21]、5 séries phares bouleversant la société、1,22 million d’abonnés à PTS+[^42]、des normes de rédaction et de production collaborant avec le Centre taïwanais de vérification des faits pour lutter contre les fausses informations profondes[^43]、une carte linguistique multilingue établie en collaboration avec la Commission des Hakka, l’Office des langues nationales et le ministère de la Culture. Tout cela a été accumulé cas par cas par plusieurs générations de travailleurs de la télévision ; l’importance du budget ne peut l’acheter.
 
-Le rapport sur les nouvelles numériques 2024 de l'Institut Reuters : la confiance globale dans les médias à Taïwan est de 33 %, seulement supérieure à celle de la Corée du Sud (31 %) en Asie-Pacifique. Mais dans cet environnement de faible confiance globale, PTS est classée comme « l'une des marques les plus fiables »[^43]. Une chaîne que personne ne regarde produit des drames de guérison collective ; une institution dont le budget n'est que 1/67e de celui de la BBC est classée par les lecteurs comme la marque la plus fiable.
+Rapport mondial de l’Agence centrale des communications sur l’information numérique 2024 : la confiance globale des médias à Taïwan est de 33 %, seulement supérieure à la Corée du Sud (31 %) dans la région de l’Asie-Pacifique. Pourtant, dans cet environnement globalement peu fiable, PTS est considéré comme « l’une des marques les plus fiables »[^43]。Une chaîne que personne ne regarde, qui produit des drames de guérison collective ; une institution dont le budget n’est que 1/67 de celui de la BBC, classée parmi les marques les plus fiables.
 
-La vraie question que PTS se pose depuis 28 ans n'est pas « avons-nous assez d'argent », mais « sommes-nous assez matures » — assez matures pour soutenir un espace public qui ne sert ni la publicité ni le gouvernement ? Cette question n'a pas encore de réponse. La réduction budgétaire de janvier 2025 et l'expulsion de l'hémicycle de mai 2026 posent la même phrase.
+Après 28 ans, la vraie question posée par PTS n’est pas « avons-nous assez d’argent ? » mais « sommes-nous suffisamment mûres ? » — suffisamment mûres pour soutenir un espace public qui ne sert ni la publicité ni le gouvernement ? Cette question n’a pas encore de réponse. Les coupes budgétaires de janvier 2025 et l’expulsion de l’hémicycle de mai 2026 posent toutes deux la même question.
 
-Peut-être que les prochaines 28 ans donneront une réponse. Peut-être pas. Mais une chose est prouvée par PTS au cours de ces 28 ans : le fait qu'elle pose cette question chaque année est en soi le papier témoin de la maturité démocratique de Taïwan.
+Peut-être que les 28 prochaines années apporteront une réponse. Peut-être pas. Mais une chose est déjà prouvée en 28 ans par PTS : le fait qu’elle se pose cette question chaque année est elle-même un réacteur de la maturité démocratique de Taïwan.
 
-**Pour aller plus loin** :
+**Lecture complémentaire** :
 
-- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — PTS en tant que maillon de l'écosystème des médias, et son interaction avec l'environnement global de la liberté de la presse
-- [Magazine Global Views](/fr/society/commonwealth-magazine) — Comment les médias commerciaux et financiers gèrent la même difficulté de « à qui les médias devraient-ils rendre des comptes », survivant grâce aux abonnés payants et à l'écosystème des entreprises, formant un contraste avec la voie budgétaire publique de PTS
-- [Variétés à Taïwan](/fr/culture/taiwan-variety-shows) — Contraste avec les programmes de variétés des chaînes commerciales, pour comprendre pourquoi PTS a choisi de faire de la fiction et des documentaires
-- [Musique de fond pour l'audiovisuel à Taïwan](/fr/music/taiwan-screen-scoring-from-cinema-to-games) — La position de la musique de fond des drames phares de PTS dans l'industrie musicale taïwanaise
-- [Industrie de l'animation sous-traitante à Taïwan](/fr/economy/taiwan-creator-economy) — Contraste avec l'industrie des marques commerciales, la logique différente de PTS dans le choix des sujets d'animation
-- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — La contribution à long terme du documentaire de PTS _Record Viewpoint_ à la préservation de la mémoire culturelle taïwanaise
-- [Institut de recherche sur le design de Taïwan](/fr/society/taiwan-design-research-institute) — Une autre fondation publique qui marche sur la corde raide entre « être vu » et le caractère public, transformant le design en méthode de service gouvernemental au peuple
+- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — PTS en tant que partie intégrante de l’écosystème médiatique, et son interaction avec l’environnement global de la liberté d’expression
+- [Commonwealth Magazine](/fr/society/commonwealth-magazine) — Comment les médias commerciaux traitent la même question : « à qui doit être responsable le média ? », en s’appuyant sur des abonnés payants et une économie d’entreprise, contrastant avec le financement public de PTS
+- [Variétés taïwanaises](/fr/culture/taiwan-variety-shows) — En contraste avec les émissions de variétés des chaînes commerciales, pour comprendre pourquoi PTS a choisi de produire des drames et des documentaires
+- [Musique de cinéma et d’écran à Taïwan](/fr/music/taiwan-screen-scoring-from-cinema-to-games) — La place de la musique de PTS dans l’industrie musicale taïwanaise
+- [Sous-traitance d’animation à Taïwan](/fr/economy/taiwan-creator-economy) — En contraste avec l’industrie commerciale des propriétés intellectuelles, les logiques différentes de PTS dans le choix des sujets d’animation
+- [Festivités et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — La contribution à long terme de PTS à la préservation de la mémoire culturelle de Taïwan à travers le documentaire _Record Viewpoint_
+- [Institut taïwanais de recherche sur le design](/fr/society/taiwan-design-research-institute) — Une autre fondation publique qui marche sur un fil entre la visibilité et la dimension publique, transformant le design en un moyen par lequel l’État dessert les citoyens
+- [Prix du bouclier de la télévision et de la radio](/culture/金鐘獎) — De _Ever_ en 2000 au 61e édition avec 60 nominations, comment la case « unité primée » des programmes de drama indique PTS, ainsi que ses trois identités de diffusion, d’inscription et de quota d’inscription
 
 ## Sources des images
 
