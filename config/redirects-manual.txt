@@ -162,3 +162,6 @@
 /en/food/Taiwan%20Regional%20Street%20Food%20Map /en/food/taiwan-regional-street-food-map/ 301
 /en/music/Taiwan%20Folk%20Music%20and%20Songs /en/music/taiwan-folk-music-and-songs/ 301
 /en/nature/Taiwan%20Hot%20Springs%20and%20Geothermal%20Energy /en/nature/taiwan-hot-springs-and-geothermal-energy/ 301
+
+# 2026-09-19: vi 同源雙檔（台灣攝影兩份譯文，其中一份檔名譯成「越南攝影」），留與 en 同名那份，舊 URL 導回。
+/vi/art/vietnamese-photography /vi/art/taiwanese-photography/ 301
