@@ -16,10 +16,10 @@ generated_from:
   - 'REWRITE-STAGE-2C-WRITE.md@36d5c8e320'
   - 'REWRITE-STAGE-2D-SOURCE-FIDELITY.md@70e08c91d5'
   - 'REWRITE-STAGE-2E-ROOM-PROSE.md@dddc05fa0a'
-  - 'REWRITE-STAGE-3-VERIFY.md@72eeeefa5e'
+  - 'REWRITE-STAGE-3-VERIFY.md@f4d1643ac6'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b1'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d5'
-generated_at: '2026-09-19T03:01:37+08:00'
+generated_at: '2026-09-19T08:58:17+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
@@ -2119,7 +2119,7 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 
 ---
 
-<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ 72eeeefa5e ==== -->
+<!-- ==== source: REWRITE-STAGE-3-VERIFY.md @ f4d1643ac6 ==== -->
 
 ## Stage 3 contract — 驗（草稿驗＋成品總驗）
 
@@ -2433,7 +2433,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 - 人物圖貼著該人物的敘事段（worked example：熱狗圖從廠牌段移到他封王的金曲段、葛仲珊圖從 section 尾移到她的段落旁），不是堆在 section 結尾當裝飾
 - caption 呼應該段 narrative（不是泛用圖說）；兩個媒體不相鄰堆疊；section 收尾可留一個媒體做視覺閉合
 - 對應哲宇 directive 原句：「視覺同步檢查引用的多媒體跟文章的關聯性與閱讀感」
-- **看圖一列（v9.6，2026-09-19）**：每張本地圖用 Read 工具打開一次，alt 與斜體圖說裡的每個可見原子（地點、門牌、衣著、動作、招牌上的數字、是哪種物件）逐項對照畫面；畫面上看不到的一律不寫，Commons 檔名與機關地址都不算看過圖。金鐘獎 v1「後台手持獎座、身穿西裝」（台上、露肩禮服）、低薪「館前路志清大樓、中央自動門」（門楣寫松江路 207 號、旋轉門）、油價「加油機上的價格」（路邊招牌）三篇同日現形，全部走過冷讀與主編仍上線，因為所有席位讀的都是文字。`image-alt` 只查有沒有 alt、`image-health` 只查檔案存不存在，這一列是唯一拿照片本身當來源的動作
+- **看圖一列（v9.6，2026-09-19）**：每張本地圖用 Read 工具打開一次，alt 與斜體圖說裡的每個可見原子（地點、門牌、衣著、動作、招牌上的數字、是哪種物件）逐項對照畫面；畫面上看不到的一律不寫，Commons 檔名與機關地址都不算看過圖。金鐘獎 v1「後台手持獎座、身穿西裝」（台上、露肩禮服）、低薪「館前路志清大樓、中央自動門」（門楣寫松江路 207 號、旋轉門）、油價「加油機上的價格」（路邊招牌）三篇同日現形，全部走過冷讀與主編仍上線，因為所有席位讀的都是文字。`image-alt` 只查有沒有 alt、`image-health` 只查檔案存不存在，這一列是唯一拿照片本身當來源的動作。**先跑 `python3 scripts/tools/image-caption-table.py <article.md>` 拿到對照表**（每張圖一列：alt／圖說／可直接 Read 的本地路徑，本地檔缺失退出碼 2），照表逐列開圖——表不是判斷，表是保證沒有一張圖被跳過
 
 **三關全過才算成品 ship。已 ship 後觸發（讀者 callout）→ 三關照跑，修正以 `heal:` commit 補。**
 

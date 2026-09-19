@@ -140,17 +140,18 @@ _v2.0 建立原因_：session η 留下的 27 工具實情已 drift 9 個未列�
 
 按操作 layer 把 18 standalone 拆四類，給未來 session 一份「哪個 layer 用哪個工具」reference：
 
-### Class A — Article-layer complementary（5 個）
+### Class A — Article-layer complementary（6 個）
 
 跟 article-health.py plugin **同 domain 但功能正交**。Plugin 沒覆蓋的特定 mode / use case。
 
-| Tool                             | Plugin 差異                                                                                                            |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `check-cjk-punct.py`             | Plugin facade — 保留 contributors muscle memory + `--fix` 模式                                                         |
-| `check-canonical-frontmatter.py` | 掃 canonical doc frontmatter（sister_docs / promotion_rule 等），vs plugin `frontmatter-format` 掃 article frontmatter |
-| `people-title-check.sh`          | People 類 title 冒號三明治 advisory KPI（不擋 commit，dashboard 用）                                                   |
-| `check-aspect.sh`                | 圖片 aspect ratio 護欄 — plugin `image-health` 是 count gate，aspect 是 ratio gate（互補）                             |
-| `footnote-format-fix.py`         | 4 source format auto-fix + 60+ domain → desc resolve；唯一保留的 `.py` auto-fix（DNA #48 canonical）                   |
+| Tool                             | Plugin 差異                                                                                                                                                                                         |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `check-cjk-punct.py`             | Plugin facade — 保留 contributors muscle memory + `--fix` 模式                                                                                                                                      |
+| `check-canonical-frontmatter.py` | 掃 canonical doc frontmatter（sister_docs / promotion_rule 等），vs plugin `frontmatter-format` 掃 article frontmatter                                                                              |
+| `people-title-check.sh`          | People 類 title 冒號三明治 advisory KPI（不擋 commit，dashboard 用）                                                                                                                                |
+| `check-aspect.sh`                | 圖片 aspect ratio 護欄 — plugin `image-health` 是 count gate，aspect 是 ratio gate（互補）                                                                                                          |
+| `footnote-format-fix.py`         | 4 source format auto-fix + 60+ domain → desc resolve；唯一保留的 `.py` auto-fix（DNA #48 canonical）                                                                                                |
+| `image-caption-table.py`         | 看圖對照表（alt／圖說／可 Read 的本地路徑，每圖一列）— plugin `image-alt` 查 alt 品質、`image-health` 查檔案存在，這支把照片本身推到驗證者面前（REWRITE-STAGE-3-VERIFY 3.6.3 看圖一列，2026-09-19） |
 
 ### Class B — Repo / system-layer（7 個）
 
