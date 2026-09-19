@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-19T08:41:13.419672",
+  "lastUpdated": "2026-09-19T14:42:47.350809",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 58,
+  "immuneScore": 56,
   "status": "漂移 — 多維度退化中",
   "components": {
     "review_coverage": 19.0,
     "plugin_pass_rate": 70.2,
     "plugin_health": 100.0,
     "citation_density": 93.7,
-    "tool_freshness": 60,
+    "tool_freshness": 40,
     "drift_velocity": 90.0,
     "external_rulers": 1.2
   },
@@ -21,6 +21,56 @@
     "tool_freshness": 0.1,
     "drift_velocity": 0.05,
     "external_rulers": 0.1
+  },
+  "weightedGaps": [
+    {
+      "dimension": "review_coverage",
+      "score": 19.0,
+      "weight": 0.25,
+      "pointsLost": 20.25
+    },
+    {
+      "dimension": "external_rulers",
+      "score": 1.2,
+      "weight": 0.1,
+      "pointsLost": 9.88
+    },
+    {
+      "dimension": "tool_freshness",
+      "score": 40,
+      "weight": 0.1,
+      "pointsLost": 6.0
+    },
+    {
+      "dimension": "plugin_pass_rate",
+      "score": 70.2,
+      "weight": 0.2,
+      "pointsLost": 5.96
+    },
+    {
+      "dimension": "citation_density",
+      "score": 93.7,
+      "weight": 0.15,
+      "pointsLost": 0.94
+    },
+    {
+      "dimension": "drift_velocity",
+      "score": 90.0,
+      "weight": 0.05,
+      "pointsLost": 0.5
+    },
+    {
+      "dimension": "plugin_health",
+      "score": 100.0,
+      "weight": 0.15,
+      "pointsLost": 0.0
+    }
+  ],
+  "topGap": {
+    "dimension": "review_coverage",
+    "score": 19.0,
+    "weight": 0.25,
+    "pointsLost": 20.25
   },
   "tierBreakdown": {
     "T1": {
@@ -74,13 +124,13 @@
     "files_with_grade": 1122
   },
   "freshnessDetail": {
-    "editorial_days_old": 14,
+    "editorial_days_old": 999,
     "avg_plugin_days_old": 60.9,
     "plugin_count": 33,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 494,
+    "new_articles_7d": 1874,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -89,7 +139,7 @@
     "plugin_count": 33,
     "healthy_count": 33,
     "unhealthy_count": 0,
-    "editorial_age_days": 14,
+    "editorial_age_days": 0,
     "age_watch_days": 30,
     "plugins": [
       {

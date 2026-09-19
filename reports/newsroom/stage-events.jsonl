@@ -893,3 +893,6 @@
 {"ts": "2026-09-19T00:41:18Z", "slug": "誰算低薪", "stage": "ship", "status": "done", "source": "observed", "sha": "07a134f7d273"}
 {"ts": "2026-09-19T00:41:18Z", "slug": "台灣油價機制與中油", "stage": "ship", "status": "done", "source": "observed", "sha": "9e2f37aa52b7"}
 {"ts": "2026-09-19T00:41:18Z", "slug": "當代藝術", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-19T06:42:53Z", "slug": "誰算低薪", "stage": "ship", "status": "done", "source": "observed", "sha": "5836eed5459c"}
+{"ts": "2026-09-19T06:42:53Z", "slug": "台灣油價機制與中油", "stage": "ship", "status": "done", "source": "observed", "sha": "2d81d4368dcf"}
+{"ts": "2026-09-19T06:42:53Z", "slug": "金鐘獎", "stage": "ship", "status": "done", "source": "observed", "sha": "08d20df0be0c"}
