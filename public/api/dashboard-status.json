@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T12:45:56.796Z",
+  "generated_at": "2026-09-19T13:15:49.182Z",
   "routines": {
     "fetched_at": "2026-09-19T06:14:58+08:00",
-    "stale_hours": 14.5,
+    "stale_hours": 15,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -1063,66 +1063,66 @@
       {
         "id": "twmd-terminology-trends-monthly",
         "cron": "30 10 5 * *",
-        "cadence_human": "每天 10:30",
+        "cadence_human": "每月 5 日 10:30",
         "enabled": true,
-        "status": "down",
-        "last_fire": "2026-08-05T10:49:01+08:00",
+        "status": "operational",
+        "last_fire": "2026-09-05T10:50:46+08:00",
         "grid14": [
           {
             "date": "2026-09-06",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-07",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-08",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-09",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-10",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-11",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-12",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-13",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-14",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-15",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-16",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-17",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-18",
-            "state": "missed"
+            "state": "idle"
           },
           {
             "date": "2026-09-19",
-            "state": "missed"
+            "state": "idle"
           }
         ]
       },
