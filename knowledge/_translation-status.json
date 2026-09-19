@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T21:44:23+08:00",
-    "zhCommitHead": "7918f8081",
+    "lastUpdated": "2026-09-19T21:45:35+08:00",
+    "zhCommitHead": "3389eb360",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 991,
-        "stale": 75,
+        "fresh": 992,
+        "stale": 74,
         "metadata_stale": 11,
         "missing": 47,
         "orphan": 0
@@ -67335,8 +67335,8 @@
           "sourceContentHash": "sha256:9c58394edee36ee3",
           "sourceBodyHash": "sha256:d9cb22f28bb753df",
           "translatedAt": "2026-09-19T11:59:05+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "3389eb36",
+          "translationLastModified": "2026-09-19T21:44:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73015,18 +73015,16 @@
         "pt": {
           "path": "pt/Nature/taiwan-climate-change-net-zero-transition.md",
           "translatedFrom": "Nature/台灣氣候危機與淨零轉型.md",
-          "sourceCommitSha": "2da8b92f2",
-          "sourceContentHash": "sha256:387f185bb5291526",
-          "sourceBodyHash": "sha256:bdaf6e0f03c1164f",
-          "translatedAt": "2026-08-04T17:06:57.661822+00:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:e17f8ccac18bf65b",
+          "sourceBodyHash": "sha256:65e86904ae441416",
+          "translatedAt": "2026-09-19T13:45:13.308196+00:00",
           "translationLastCommit": "c3219c49",
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -162093,8 +162091,8 @@
           "sourceContentHash": "sha256:02c38601d122ae9f",
           "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
           "translatedAt": "2026-09-19T13:44:01.777438+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "3389eb36",
+          "translationLastModified": "2026-09-19T21:44:24+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -187569,8 +187567,8 @@
           "sourceContentHash": "sha256:7af3421e7470e32a",
           "sourceBodyHash": "sha256:5c337ebcf1a5b681",
           "translatedAt": "2026-09-19T08:38:42.877003+00:00",
-          "translationLastCommit": "de5f2e28",
-          "translationLastModified": "2026-08-10T11:46:54+08:00",
+          "translationLastCommit": "3389eb36",
+          "translationLastModified": "2026-09-19T21:44:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
