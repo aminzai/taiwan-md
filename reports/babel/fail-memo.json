@@ -2253,7 +2253,7 @@
   "hi:Food/醬油.md": 3,
   "ja:Economy/新台幣.md": 2,
   "ja:Food/鳳梨罐頭.md": 2,
-  "id:History/高雄加工出口區.md": 2,
+  "id:History/高雄加工出口區.md": 3,
   "pt:Lifestyle/戰鬥陀螺.md": 2,
   "ja:Culture/台灣口語特色.md": 2,
   "id:Food/醬油.md": 3,
@@ -2453,7 +2453,7 @@
   "en:Culture/台灣活版印刷.md": 5,
   "es:People/蔡瑞月.md": 7,
   "en:About/比國家還大的演算藝術.md": 7,
-  "en:Food/醬油.md": 7,
+  "en:Food/醬油.md": 8,
   "es:About/比國家還大的演算藝術.md": 7,
   "en:History/高雄加工出口區.md": 8,
   "es:Food/醬油.md": 7,
@@ -3644,5 +3644,6 @@
   "en:Culture/台灣綜藝.md": 1,
   "de:Lifestyle/台灣垃圾車音樂.md": 1,
   "vi:resources/official-websites.md": 1,
-  "ja:Art/台灣原住民當代藝術.md": 1
+  "ja:Art/台灣原住民當代藝術.md": 1,
+  "ar:Culture/台灣綜藝.md": 1
 }
