@@ -18,7 +18,7 @@ tags:
     'सैन्य नियंत्रित क्षेत्र',
     'द्वीप',
   ]
-subcategory: 'बाहरी द्वीप'
+subcategory: '離島'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-24

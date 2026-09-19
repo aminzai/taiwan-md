@@ -12,7 +12,7 @@ tags:
     'Partai, Pemerintahan, dan Militer Mundur dari Media',
     'Prinsip Jarak Lengan',
   ]
-subcategory: 'Media dan Kebebasan Berpendapat'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-27

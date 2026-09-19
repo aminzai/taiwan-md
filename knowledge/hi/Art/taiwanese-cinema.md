@@ -16,7 +16,7 @@ tags:
     'सी सेवन',
     'किंगमा पुरस्कार',
   ]
-subcategory: 'फ़िल्म'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-13
