@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T15:04:37+08:00",
-    "zhCommitHead": "8d58e5e1a",
+    "lastUpdated": "2026-09-19T15:08:34+08:00",
+    "zhCommitHead": "ef68b70c9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 963,
-        "stale": 74,
+        "fresh": 964,
+        "stale": 73,
         "metadata_stale": 67,
         "missing": 20,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 984,
-        "stale": 82,
+        "fresh": 985,
+        "stale": 81,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
@@ -92,18 +92,18 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 971,
-        "stale": 66,
+        "fresh": 972,
+        "stale": 65,
         "metadata_stale": 15,
         "missing": 72,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1009,
+        "fresh": 1008,
         "stale": 51,
         "metadata_stale": 9,
-        "missing": 55,
+        "missing": 56,
         "orphan": 0
       },
       "de": {
@@ -5828,8 +5828,8 @@
           "sourceContentHash": "sha256:a6a639d332e8f086",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-09-19T05:26:38.341662+00:00",
-          "translationLastCommit": "207f1fe0",
-          "translationLastModified": "2026-07-27T21:13:33+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -35262,8 +35262,8 @@
           "sourceContentHash": "sha256:95cf1ca6d1302123",
           "sourceBodyHash": "sha256:a6d8e0ae74d03252",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "d74bb233",
-          "translationLastModified": "2026-09-05T22:24:44+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -39703,18 +39703,16 @@
         "ar": {
           "path": "ar/resources/official-websites.md",
           "translatedFrom": "resources/official-websites.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0d481ed818da82f8",
-          "sourceBodyHash": "sha256:6713c8a6c615e62a",
-          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "sourceCommitSha": "228056aba",
+          "sourceContentHash": "sha256:029227bd7721737f",
+          "sourceBodyHash": "sha256:0c3be7e5f653ab89",
+          "translatedAt": "2026-09-19T11:59:10+08:00",
           "translationLastCommit": "83044859",
           "translationLastModified": "2026-07-26T04:13:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/resources/official-websites.md",
@@ -40248,16 +40246,16 @@
         "pt": {
           "path": "pt/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0334fef76cff5db1",
-          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
-          "translatedAt": "2026-07-25T15:39:18+08:00",
+          "sourceCommitSha": "5c8070d07",
+          "sourceContentHash": "sha256:e0d72befdb935fe7",
+          "sourceBodyHash": "sha256:35b8626f07740119",
+          "translatedAt": "2026-09-19T11:59:08+08:00",
           "translationLastCommit": "6c1bc16f",
           "translationLastModified": "2026-07-25T17:52:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -47850,8 +47848,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "3d3b12ab",
-          "translationLastModified": "2026-07-28T10:32:06+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -48207,8 +48205,8 @@
           "sourceContentHash": "sha256:b47bd1e69ecf0593",
           "sourceBodyHash": "sha256:57a68bead4c3e5e8",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "04857235",
-          "translationLastModified": "2026-09-12T08:27:32+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -54887,8 +54885,8 @@
           "sourceContentHash": "sha256:672f8b4df1c422b7",
           "sourceBodyHash": "sha256:ff708086fed4d9aa",
           "translatedAt": "2026-09-19T05:41:38.901720+00:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -60188,8 +60186,8 @@
           "sourceContentHash": "sha256:089b9a12e2ebe8d8",
           "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "da449fad",
-          "translationLastModified": "2026-09-12T01:10:31+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73548,16 +73546,16 @@
         "vi": {
           "path": "vi/Nature/national-parks.md",
           "translatedFrom": "Nature/國家公園.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
-          "sourceBodyHash": "sha256:7e2f50f483b073fb",
-          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:8fb4efae01fb8f38",
+          "sourceBodyHash": "sha256:d14d99364c1c4106",
+          "translatedAt": "2026-09-19T11:59:06+08:00",
           "translationLastCommit": "65e5368b",
           "translationLastModified": "2026-09-15T22:37:53+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/national-parks.md",
@@ -162087,18 +162085,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -188987,8 +188974,8 @@
           "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-09-19T11:59:11+08:00",
-          "translationLastCommit": "646cfd09",
-          "translationLastModified": "2026-07-25T08:55:53+08:00",
+          "translationLastCommit": "ef68b70c",
+          "translationLastModified": "2026-09-19T15:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
