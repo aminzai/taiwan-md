@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T22:14:16.891Z",
+  "generated_at": "2026-09-19T22:21:05.236Z",
   "routines": {
-    "fetched_at": "2026-09-20T02:07:42+08:00",
-    "stale_hours": 4.1,
+    "fetched_at": "2026-09-20T06:16:02+08:00",
+    "stale_hours": 0.1,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -1312,29 +1312,29 @@
   ],
   "deploys": [
     {
+      "ts": "2026-09-19T22:18:46Z",
+      "conclusion": "success",
+      "title": "Engineering contracts: 🧬 [routine] refresh: 每日資料刷新，14 步完成（Step 1 因平行 babel dispatcher 跳過）"
+    },
+    {
+      "ts": "2026-09-19T22:18:46Z",
+      "conclusion": "in_progress",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] refresh: 每日資料刷新，14 步完成（Step 1 因平行 babel dispatcher 跳過）"
+    },
+    {
       "ts": "2026-09-19T22:03:36Z",
-      "conclusion": "failure",
+      "conclusion": "cancelled",
       "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-20 05:10 — 13 語…"
     },
     {
       "ts": "2026-09-19T21:57:10Z",
-      "conclusion": "failure",
+      "conclusion": "cancelled",
       "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
     },
     {
       "ts": "2026-09-19T21:57:10Z",
       "conclusion": "success",
       "title": "Engineering contracts: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
-    },
-    {
-      "ts": "2026-09-19T21:42:36Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-09-20 05:38 — 分岔併完後第 54 …"
-    },
-    {
-      "ts": "2026-09-19T21:40:57Z",
-      "conclusion": "success",
-      "title": "PR Content Review: translate(ar): 紙風車劇團 → paper-windmill-theater"
     }
   ]
 }

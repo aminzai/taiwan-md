@@ -245,7 +245,7 @@ const opsDeploys = opsStatus?.deploys ?? null;
           {opsDeploys.map((d) => (
             <div class="ops-deploy-row">
               <span
-                class={`ops-dot ${d.conclusion === 'success' ? 'ops-dot-operational' : 'ops-dot-down'}`}
+                class={`ops-dot ${d.conclusion === 'success' ? 'ops-dot-operational' : d.conclusion === 'in_progress' ? 'ops-dot-degraded' : d.conclusion === 'cancelled' ? 'ops-dot-disabled' : 'ops-dot-down'}`}
               />
               <span class="ops-deploy-title">{d.title}</span>
               <span class="ops-deploy-ts">{opsRelTime(d.ts)}</span>

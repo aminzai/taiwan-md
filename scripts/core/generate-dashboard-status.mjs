@@ -392,13 +392,24 @@ function buildIncidents() {
 
 function buildDeploys() {
   const raw = execSync(
-    'gh run list --limit 5 --json displayTitle,conclusion,createdAt,workflowName',
+    'gh run list --limit 5 --json displayTitle,conclusion,status,createdAt,workflowName',
     { encoding: 'utf8', timeout: 15_000 },
   );
   const runs = JSON.parse(raw);
   return runs.map((r) => ({
     ts: r.createdAt,
-    conclusion: r.conclusion === 'success' ? 'success' : 'failure',
+    // 三種「不是 success」各自分開（REFLEXES #38 混維度，2026-09-20）：
+    //   in_progress = 還在跑，conclusion 是空字串，過去被畫成紅點；
+    //   cancelled   = 被 deploy.yml latest-wins 併發策略取代，是設計不是故障；
+    //   failure     = 真的掛了。只有這種該亮紅。
+    conclusion:
+      r.status !== 'completed'
+        ? 'in_progress'
+        : r.conclusion === 'success'
+          ? 'success'
+          : r.conclusion === 'cancelled'
+            ? 'cancelled'
+            : 'failure',
     title: `${r.workflowName}: ${r.displayTitle}`,
   }));
 }
