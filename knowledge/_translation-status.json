@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T04:18:58+08:00",
-    "zhCommitHead": "d5a44d1f6",
+    "lastUpdated": "2026-09-20T04:37:26+08:00",
+    "zhCommitHead": "a422447ec",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1029,
+        "fresh": 1030,
         "stale": 68,
-        "metadata_stale": 7,
+        "metadata_stale": 6,
         "missing": 20,
         "orphan": 0
       },
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 979,
-        "stale": 64,
+        "fresh": 980,
+        "stale": 63,
         "metadata_stale": 64,
         "missing": 17,
         "orphan": 0
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 943,
+        "fresh": 944,
         "stale": 57,
         "metadata_stale": 11,
-        "missing": 113,
+        "missing": 112,
         "orphan": 0
       },
       "ar": {
@@ -7011,16 +7011,16 @@
         "vi": {
           "path": "vi/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:9913b1fbaa8895dd",
-          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "2e88c5e31",
+          "sourceContentHash": "sha256:35c0f36d5edfc140",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T20:22:20.442025+00:00",
           "translationLastCommit": "231daa8d",
           "translationLastModified": "2026-08-09T12:18:41+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (9→7)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -18334,8 +18334,8 @@
           "sourceContentHash": "sha256:7df2ff2e71f9fe3f",
           "sourceBodyHash": "sha256:854e7c117a8a7154",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a9ed6416",
+          "translationLastModified": "2026-09-20T04:18:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -47782,18 +47782,16 @@
         "es": {
           "path": "es/Society/learning-poverty-in-taiwan.md",
           "translatedFrom": "Society/學習貧窮.md",
-          "sourceCommitSha": "9d671671",
-          "sourceContentHash": "sha256:87b9bdce32cd9e14",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
-          "translatedAt": "2026-05-01T20:54:23+08:00",
+          "translatedAt": "2026-09-20T00:52:38+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/learning-poverty-in-taiwan.md",
@@ -146179,8 +146177,8 @@
           "sourceContentHash": "sha256:d72e5afc75c149c9",
           "sourceBodyHash": "sha256:5057c04dea867ce3",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a9ed6416",
+          "translationLastModified": "2026-09-20T04:18:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -161022,8 +161020,8 @@
           "sourceContentHash": "sha256:f6fbbce0517a5d1c",
           "sourceBodyHash": "sha256:ec15193c5eaa241b",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a9ed6416",
+          "translationLastModified": "2026-09-20T04:18:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -180619,7 +180617,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T19:59:37.347685+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-advertising-history.md",
