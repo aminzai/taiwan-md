@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T03:07:27+08:00",
-    "zhCommitHead": "8c70ace20",
+    "lastUpdated": "2026-09-20T03:48:45+08:00",
+    "zhCommitHead": "9beaf50f6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,88 +20,88 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1032,
-        "stale": 60,
+        "fresh": 1029,
+        "stale": 63,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 900,
-        "stale": 103,
+        "fresh": 898,
+        "stale": 106,
         "metadata_stale": 28,
-        "missing": 93,
+        "missing": 92,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1040,
-        "stale": 58,
+        "fresh": 1039,
+        "stale": 59,
         "metadata_stale": 8,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1031,
-        "stale": 66,
+        "fresh": 1029,
+        "stale": 68,
         "metadata_stale": 7,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 58,
+        "fresh": 1033,
+        "stale": 61,
         "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 979,
-        "stale": 63,
+        "fresh": 977,
+        "stale": 66,
         "metadata_stale": 64,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 945,
-        "stale": 58,
+        "fresh": 943,
+        "stale": 61,
         "metadata_stale": 9,
-        "missing": 112,
+        "missing": 111,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 990,
-        "stale": 77,
+        "fresh": 987,
+        "stale": 80,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 946,
-        "stale": 54,
+        "fresh": 943,
+        "stale": 57,
         "metadata_stale": 11,
         "missing": 113,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 975,
-        "stale": 61,
+        "fresh": 974,
+        "stale": 63,
         "metadata_stale": 15,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1019,
-        "stale": 41,
+        "fresh": 1016,
+        "stale": 44,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
@@ -109,9 +109,9 @@
       "de": {
         "total_zh": 1124,
         "fresh": 812,
-        "stale": 13,
+        "stale": 16,
         "metadata_stale": 4,
-        "missing": 295,
+        "missing": 292,
         "orphan": 0
       }
     },
@@ -5782,7 +5782,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-20T00:52:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/pop-music-and-golden-melody-awards.md",
@@ -8987,10 +8998,10 @@
     },
     "Economy/台灣農業現代化發展.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:6abff98edbff2fbe",
-        "bodyHash": "sha256:5dcfc71454466970"
+        "lastCommit": "05aa5b7b",
+        "lastModified": "2026-09-20T03:02:28+08:00",
+        "contentHash": "sha256:8c2c2c2ee5f2b237",
+        "bodyHash": "sha256:c2c5a393d951d7c5"
       },
       "translations": {
         "en": {
@@ -9004,8 +9015,8 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "ja": {
           "path": "ja/Economy/taiwan-agricultural-modernization.md",
@@ -9018,8 +9029,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "ko": {
           "path": "ko/Economy/taiwan-agricultural-modernization.md",
@@ -9032,8 +9043,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "es": {
           "path": "es/Economy/taiwan-agricultural-modernization.md",
@@ -9046,8 +9057,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "fr": {
           "path": "fr/Economy/taiwan-agricultural-modernization.md",
@@ -9060,8 +9071,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "vi": {
           "path": "vi/Economy/taiwan-agricultural-modernization.md",
@@ -9074,8 +9085,8 @@
           "translationLastModified": "2026-08-09T12:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "id": {
           "path": "id/Economy/taiwan-agricultural-modernization.md",
@@ -9088,8 +9099,8 @@
           "translationLastModified": "2026-08-06T05:06:16+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "pt": {
           "path": "pt/Economy/taiwan-agricultural-modernization.md",
@@ -9102,8 +9113,8 @@
           "translationLastModified": "2026-07-26T13:07:31+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "hi": {
           "path": "hi/Economy/taiwan-agricultural-modernization.md",
@@ -9116,8 +9127,8 @@
           "translationLastModified": "2026-07-27T04:04:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "ar": {
           "path": "ar/Economy/taiwan-agricultural-modernization.md",
@@ -9130,8 +9141,8 @@
           "translationLastModified": "2026-07-27T00:47:17+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "ru": {
           "path": "ru/Economy/taiwan-agricultural-modernization.md",
@@ -9144,8 +9155,8 @@
           "translationLastModified": "2026-07-26T21:32:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         },
         "de": {
           "path": "de/Economy/taiwan-agricultural-modernization.md",
@@ -9158,8 +9169,8 @@
           "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→9)"
         }
       }
     },
@@ -13229,10 +13240,10 @@
     },
     "Economy/台灣循環經濟與資源再利用.md": {
       "zh": {
-        "lastCommit": "f944f63b",
-        "lastModified": "2026-07-19T09:48:53+08:00",
-        "contentHash": "sha256:1f3ebd8f501cc764",
-        "bodyHash": "sha256:09a7619ad7b7047a"
+        "lastCommit": "705fe253",
+        "lastModified": "2026-09-20T03:02:18+08:00",
+        "contentHash": "sha256:b945d3a9f265b5de",
+        "bodyHash": "sha256:9cb708cf066e8c05"
       },
       "translations": {
         "en": {
@@ -13246,8 +13257,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ja": {
           "path": "ja/Economy/circular-economy-and-resource-recycling.md",
@@ -13260,8 +13271,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ko": {
           "path": "ko/Economy/circular-economy-and-resource-recycling.md",
@@ -13274,8 +13285,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "es": {
           "path": "es/Economy/circular-economy-and-resource-recycling.md",
@@ -13288,8 +13299,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "fr": {
           "path": "fr/Economy/circular-economy-and-resource-recycling.md",
@@ -13302,8 +13313,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "vi": {
           "path": "vi/Economy/circular-economy-and-resource-recycling.md",
@@ -13316,8 +13327,8 @@
           "translationLastModified": "2026-07-28T08:16:06+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "id": {
           "path": "id/Economy/circular-economy-and-resource-recycling.md",
@@ -13330,8 +13341,8 @@
           "translationLastModified": "2026-09-09T23:17:10+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "pt": {
           "path": "pt/Economy/circular-economy-and-resource-recycling.md",
@@ -13344,8 +13355,8 @@
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "hi": {
           "path": "hi/Economy/circular-economy-and-resource-recycling.md",
@@ -13358,8 +13369,8 @@
           "translationLastModified": "2026-07-28T03:16:15+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ar": {
           "path": "ar/Economy/circular-economy-and-resource-recycling.md",
@@ -13372,8 +13383,8 @@
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ru": {
           "path": "ru/Economy/circular-economy-and-resource-recycling.md",
@@ -13386,8 +13397,8 @@
           "translationLastModified": "2026-07-28T04:47:58+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "de": {
           "path": "de/Economy/circular-economy-and-resource-recycling.md",
@@ -13400,8 +13411,8 @@
           "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         }
       }
     },
@@ -16191,10 +16202,10 @@
     },
     "Economy/台灣農業與農村再生.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:95d473c7b6d24541",
-        "bodyHash": "sha256:a996bea328f05c29"
+        "lastCommit": "35a9b46c",
+        "lastModified": "2026-09-20T03:02:40+08:00",
+        "contentHash": "sha256:bea7a776566a0bbd",
+        "bodyHash": "sha256:760025faea8ce9a0"
       },
       "translations": {
         "en": {
@@ -16208,8 +16219,8 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "ja": {
           "path": "ja/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16222,8 +16233,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "ko": {
           "path": "ko/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16236,8 +16247,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "es": {
           "path": "es/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16250,8 +16261,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "fr": {
           "path": "fr/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16264,8 +16275,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "vi": {
           "path": "vi/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16278,8 +16289,8 @@
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "id": {
           "path": "id/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16292,8 +16303,8 @@
           "translationLastModified": "2026-09-13T07:49:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "pt": {
           "path": "pt/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16306,8 +16317,8 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "hi": {
           "path": "hi/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16320,8 +16331,8 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "ar": {
           "path": "ar/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16334,8 +16345,8 @@
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "ru": {
           "path": "ru/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16348,8 +16359,8 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         },
         "de": {
           "path": "de/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -16362,8 +16373,8 @@
           "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (11→5)"
         }
       }
     },
@@ -39266,16 +39277,16 @@
         "ko": {
           "path": "ko/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-20T00:52:36+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39364,16 +39375,16 @@
         "ar": {
           "path": "ar/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "ec31f5d9",
           "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -46598,8 +46609,8 @@
           "sourceContentHash": "sha256:62a0444682031043",
           "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
           "translatedAt": "2026-09-20T00:52:39+08:00",
-          "translationLastCommit": "ac058436",
-          "translationLastModified": "2026-09-09T18:30:10+08:00",
+          "translationLastCommit": "617f2836",
+          "translationLastModified": "2026-09-20T03:07:28+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -48099,18 +48110,16 @@
         "ko": {
           "path": "ko/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "598a5a547",
-          "sourceContentHash": "sha256:2021a6224e30bd5e",
-          "sourceBodyHash": "sha256:ab86534e207e2b33",
-          "translatedAt": "2026-09-13T02:00:01+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:b47bd1e69ecf0593",
+          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
+          "translatedAt": "2026-09-20T00:52:36+08:00",
           "translationLastCommit": "68adc03c",
           "translationLastModified": "2026-09-13T03:35:51+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+26 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-grid-resilience.md",
@@ -54813,8 +54822,8 @@
           "sourceContentHash": "sha256:672f8b4df1c422b7",
           "sourceBodyHash": "sha256:ff708086fed4d9aa",
           "translatedAt": "2026-09-19T17:35:17.181763+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "617f2836",
+          "translationLastModified": "2026-09-20T03:07:28+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -102167,7 +102176,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/liu-an-ting-teach-for-taiwan.md",
+          "translatedFrom": "People/劉安婷.md",
+          "sourceCommitSha": "75479a4ea",
+          "sourceContentHash": "sha256:3dee896f2b15c3b8",
+          "sourceBodyHash": "sha256:efca1efad60ae65f",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -131803,7 +131823,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-18T19:00:41.533020+00:00",
+          "translatedAt": "2026-09-19T19:08:15.584315+00:00",
           "translationLastCommit": "4e14877e",
           "translationLastModified": "2026-09-19T07:40:20+08:00",
           "inferred": false,
@@ -133412,7 +133432,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/mai-dang-le-burger.md",
+          "translatedFrom": "Food/麥當樂.md",
+          "sourceCommitSha": "b79e85b11",
+          "sourceContentHash": "sha256:1eec7db88151a213",
+          "sourceBodyHash": "sha256:09d674a05740ab52",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -134587,7 +134618,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/shulin-red-yeast-rice.md",
+          "translatedFrom": "Food/紅麴.md",
+          "sourceCommitSha": "e8de5c169",
+          "sourceContentHash": "sha256:887c3be39222e6b9",
+          "sourceBodyHash": "sha256:140c52cfad734a21",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -146120,7 +146162,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/921-jiji-earthquake.md",
+          "translatedFrom": "History/九二一集集地震.md",
+          "sourceCommitSha": "cae851f89",
+          "sourceContentHash": "sha256:d72e5afc75c149c9",
+          "sourceBodyHash": "sha256:5057c04dea867ce3",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/921-jiji-earthquake.md",
@@ -152684,7 +152737,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-railway-history.md",
+          "translatedFrom": "History/台灣鐵道史.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:711d78906f27f250",
+          "sourceBodyHash": "sha256:74b314b2dea62382",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -155506,18 +155570,16 @@
         "es": {
           "path": "es/History/taiwan-elections-and-party-politics.md",
           "translatedFrom": "History/台灣選舉與政黨政治.md",
-          "sourceCommitSha": "2e0cc381",
-          "sourceContentHash": "sha256:f462ef48505faa9b",
-          "sourceBodyHash": "sha256:019ea30197aa5f25",
-          "translatedAt": "2026-05-28T05:08:34+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:bee6db6cebb342a7",
+          "sourceBodyHash": "sha256:cf2cbcf164430410",
+          "translatedAt": "2026-09-19T19:14:49.950740+00:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-elections-and-party-politics.md",
@@ -156589,7 +156651,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/kano-chiayi-agriculture-forestry.md",

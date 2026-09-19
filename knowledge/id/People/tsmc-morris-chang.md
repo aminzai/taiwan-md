@@ -1,6 +1,6 @@
 ---
-title: 'Morris Chang'
-description: 'Bapak industri semikonduktor, pendiri TSMC, pengusaha legendaris yang mengubah industri teknologi global dengan model usaha pure-play foundry'
+title: 'Morris Chang (Chang Zhongmou): Sang Bapak Semikonduktor, Pendiri TSMC, Pengusaha Legendaris yang Mengubah Industri Teknologi Global dengan Model Fabless'
+description: 'Biografi Morris Chang, pendiri Taiwan Semiconductor Manufacturing Company (TSMC), seorang pengusaha legendaris yang mengubah industri teknologi global melalui model manufaktur semikonduktor murni.'
 date: 2026-03-17
 category: 'People'
 tags:
@@ -10,415 +10,448 @@ tags:
     'TSMC',
     'Semikonduktor',
     'Pengusaha',
-    'Pure-play Foundry',
-    'Gunung Suci Pelindung',
+    'Fabless',
+    'Gunung Penjaga Negara',
   ]
 subcategory: '科技與企業'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-18
 lastHumanReview: false
+lifeTree: "{'protagonist': '張忠謀（Morris Chang）', 'birthYear': 1931, 'span': '1931–', 'source': {'article': 'knowledge/People/張忠謀.md', 'commit': '2acf410b', 'commitDate': '2026-03-17', 'extractedBy': 'Taiwan.md (Semiont) β-r5', 'extractedAt': '2026-04-26 13:30 +0800', 'note': '原文無 footnote，source 推測基於 §參考資料區（自傳 / TSMC 年報 / 維基 / 工研院 / 清大）+ 公開歷史紀錄。少數心理動機 alternative 標 [推測]。'}, 'intro': '一個 17 歲流亡到香港、18 歲進哈佛、19 歲轉 MIT 工程的中國銀行家之子，54 歲離開美國副總職位回台灣創立台積電。這棵樹列出他每次跨界（地理、技能、商業模式、世代）選的路，也列出他沒選的——從哈佛文學的延續到留美安全路徑到 IDM 模式的延續。', 'themes': [{'id': 'homeland', 'label': '海外 vs 故土', 'color': '#10B981'}, {'id': 'expert-leader', 'label': '工程師 vs 管理者', 'color': '#8B5CF6'}, {'id': 'business-model', 'label': '自製 vs 代工', 'color': '#F59E0B'}, {'id': 'succession', 'label': '在位 vs 傳承', 'color': '#EC4899'}], 'nodes': [{'id': 'birth', 'year': 1931, 'age': 0, 'type': 'given', 'theme': 'homeland', 'label': '出生於浙江寧波', 'scene': '父親張蔚觀是銀行家，母親徐君偉出身書香門第。動盪年代的書香家庭。'}, {'id': 'hong-kong', 'year': 1948, 'age': 17, 'type': 'choice', 'theme': 'homeland', 'scene': '童年在寧波 → 南京 → 廣州 → 香港 → 重慶 → 上海 → 香港之間遷徙。1948 年國共內戰，17 歲隨家人再度遷往香港', 'chose': {'label': '從香港赴美求學', 'consequence': '中學讀的是重慶南開與上海南洋模範；1949 年從香港赴美進哈佛。少年時代一路遷徙，讓他對「邊緣身份在大國體制內運作」有早期感覺。'}, 'alternatives': [{'label': '留在中國大陸', 'plausibility': 'structural', 'note': '同代多數家庭沒能跟著遷移到香港。1949 後留在中國的銀行家後代命運與張忠謀完全分流，不會出現在矽谷。'}, {'label': '直接赴美', 'plausibility': 'structural', 'note': '少數富裕家庭 1940 年代末就直接送孩子赴美。沒有香港四年，英文與國際化基礎會更弱，哈佛申請會更難。'}]}, {'id': 'harvard-mit', 'year': 1950, 'age': 19, 'type': 'choice', 'theme': 'expert-leader', 'scene': '1949 年進哈佛念文學。一年後因對文學缺乏熱情、加上經濟考量', 'chose': {'label': '轉學 MIT 機械工程', 'consequence': 'MIT 嚴謹工程教育培養邏輯思維與解決問題能力。1952 拿機械工程學士。這個轉軌是「藝術 → 技術」的關鍵 fork。'}, 'alternatives': [{'label': '留在哈佛念文學', 'plausibility': 'speculative', 'note': '[推測] 如果留下，可能走學術或文學路徑。完全不會出現半導體事業。但「為什麼一個對文學有興趣的人能在 MIT 工程系成功」這個張力，後來變成他能用人文視角看技術產業的原因。'}, {'label': '轉去念商學', 'plausibility': 'structural', 'note': '同代華人留學生有人選哈佛商學院。但少了 engineering hands-on，後來 TI 的技術職位無法擔任，也無法理解半導體製程的精密性。'}]}, {'id': 'korea-war-civilian', 'year': 1952, 'age': 21, 'type': 'event', 'theme': 'homeland', 'label': 'MIT 畢業遇韓戰，外國學生身份無法進美國軍方相關工作', 'scene': '畢業時正值韓戰期間，國防工業對外籍生關閉。'}, {'id': 'sylvania', 'year': 1955, 'age': 24, 'type': 'choice', 'theme': 'expert-leader', 'scene': '畢業三年後找工作機會', 'chose': {'label': '進希凡尼亞做半導體三年', 'consequence': '首次接觸半導體行業。當時這個產業還在起步階段，但他敏銳察覺巨大潛力。學到半導體製程基礎，也培養對技術細節的關注。'}, 'alternatives': [{'label': '進其他成熟產業', 'plausibility': 'structural', 'note': '1950 年代的主流選擇是汽車、機械、化工。如果選成熟產業，不會在半導體萌芽期就累積經驗，後來 TI 的機會不會降臨。'}]}, {'id': 'ti-1958', 'year': 1958, 'age': 27, 'type': 'choice', 'theme': 'expert-leader', 'scene': '德州儀器（TI）正積極發展半導體業務', 'chose': {'label': '加入 TI 從半導體工程師做起', 'consequence': '改善公司製程、提高良率、節省成本。25 年從工程師升到副總，是 TI 改變他一生的舞台。'}, 'alternatives': [{'label': '留在希凡尼亞', 'plausibility': 'structural', 'note': '希凡尼亞後來逐漸退出半導體領域。如果留下，事業天花板會非常明顯。'}, {'label': '創業', 'plausibility': 'structural', 'note': '同期有人選擇離開大公司創業（如 Intel 創辦人 Noyce / Moore 1968 年離開 Fairchild）。但張忠謀走「大公司內部成長」路徑長達 25 年，這個耐性後來反而成為台積電「打長期仗」文化的根。'}]}, {'id': 'stanford-phd', 'year': 1961, 'age': 30, 'type': 'choice', 'theme': 'expert-leader', 'scene': 'TI 支持他前往史丹佛攻讀電機工程博士', 'chose': {'label': '念博士', 'consequence': '1964 年拿史丹佛 EE PhD。回 TI 後升上重要管理職（鍺、矽電晶體、IC 部門總經理）。技術 + 管理雙軌。'}, 'alternatives': [{'label': '只當工程師不念博士', 'plausibility': 'structural', 'note': '同代很多工程師不念博士，職涯天花板大致是 senior engineer / staff engineer。對於走技術管理線、後來坐到副總，PhD 是隱形必需品。'}]}, {'id': 'vp-1972', 'year': 1972, 'age': 41, 'type': 'choice', 'theme': 'expert-leader', 'scene': '在 TI 從工程師一路升上去 14 年後', 'chose': {'label': '升任德儀集團副總經理 + 半導體集團總經理', 'consequence': '當時美國大型企業中最高階的華人高管之一。突破種族天花板。負責 TI 最重要的業務部門。'}, 'alternatives': [{'label': '跳槽到競爭對手', 'plausibility': 'structural', 'note': '70 年代 Intel / AMD / Motorola 都在搶半導體高管。如果跳槽，可能拿到 CEO 級職位但失去 TI 累積的政治資本與人脈。'}]}, {'id': 'itri-call', 'year': 1985, 'age': 54, 'type': 'choice', 'theme': 'homeland', 'scene': '工研院董事長徐賢修、行政院長俞國華、政委李國鼎力邀', 'chose': {'label': '回台灣擔任工研院院長', 'consequence': '54 歲，在美國有成功事業與優渥生活。回台是充滿風險的決定。但這是台積電誕生的前提——沒有工研院院長身份，沒有後來的政府支持與股權結構。'}, 'alternatives': [{'label': '留在美國', 'plausibility': 'structural', 'note': '同代華人高管多數選擇留美直到退休。如果留下，職涯穩定但不會有台積電。台灣半導體產業發展軌跡會完全不同。'}, {'label': '回中國大陸', 'plausibility': 'structural', 'note': '1985 年中國改革開放第七年，亦曾邀請海外華人技術領袖。如果選大陸，會被綁進國家半導體計畫（如後來的中芯），路徑與商業模式自由度都不同。'}]}, {'id': 'tsmc-foundry', 'year': 1987, 'age': 56, 'type': 'choice', 'theme': 'business-model', 'scene': '工研院院長期間，思考一個革命性商業模式', 'chose': {'label': '創立台積電 + 提出「專業晶圓代工」純代工模式', 'consequence': '1987/2/21 成立，總投資約 1.45 億美元。打破當時 IDM（整合元件製造商）主流模式。客戶不必投入巨資建廠就能設計晶片。後來重塑全球半導體產業生態，催生 fabless 產業。'}, 'alternatives': [{'label': '走傳統 IDM 模式（自己設計+製造）', 'plausibility': 'structural', 'note': '當時主流模式（Intel、TI、Motorola 都是 IDM）。如果選 IDM，台積電會跟韓國三星、日本 NEC 同象限競爭，多半會輸。代工模式才是繞過西方 IDM 主場的關鍵。'}, {'label': '只做設計不做製造', 'plausibility': 'structural', 'note': '另一個方向：台版 fabless（如後來的聯發科）。但 1987 年台灣設計能力遠不及製造潛力，這條路會起步太晚。'}, {'label': '不創公司，留在工研院做政策', 'plausibility': 'structural', 'note': '部分海外回國技術領袖選擇純政策角色。如果如此，台積電不會出現，台灣半導體會多十年才追上韓國。'}]}, {'id': 'retire-2005', 'year': 2005, 'age': 74, 'type': 'choice', 'theme': 'succession', 'scene': '台積電已是全球代工龍頭', 'chose': {'label': '第一次退休 / 執行長交給蔡力行 / 自己保留董事長', 'consequence': '精心準備的接班計畫。為企業永續發展鋪路。但留住董事長職位讓他保有戰略決策權。'}, 'alternatives': [{'label': '完全退出', 'plausibility': 'structural', 'note': '完全退休是「乾淨退出」典範（如 Bill Gates 2008 退出微軟日常）。但 2008 金融危機如果張忠謀完全離場，台積電可能找不到回神能力。保留董事長是後來能復出的關鍵。'}]}, {'id': 'comeback-2009', 'year': 2009, 'age': 78, 'type': 'choice', 'theme': 'succession', 'scene': '2008 全球金融危機重創台積電。業績下滑、競爭加劇', 'chose': {'label': '78 歲復出重新擔任執行長', 'consequence': '穩定市場信心、領導公司度過困難。順便培養劉德音與魏哲家。「老將回鍋救火」的經典案例。'}, 'alternatives': [{'label': '不復出讓蔡力行硬撐', 'plausibility': 'structural', 'note': '尊重既定接班計畫的另一條路。但金融危機 + 接班人威信不足的雙重壓力，台積電可能失去 28nm 製程的關鍵機會窗。'}]}, {'id': 'retire-2018', 'year': 2018, 'age': 87, 'type': 'choice', 'theme': 'succession', 'scene': '台積電在他第二輪 9 年領導後達到製程全球領先', 'chose': {'label': '正式退休 + 建立雙首長制（劉德音董事長 / 魏哲家 CEO）', 'consequence': '功成身退典範。雙首長制平衡對外與對內。31 年傳奇生涯結束。被視為企業接班的教科書案例。'}, 'alternatives': [{'label': '單一接班人', 'plausibility': 'structural', 'note': '美國企業傳統路徑（Apple Cook / Microsoft Nadella 都是單一接班）。但台積電規模 + 兩位接班人都很強，雙首長制避免「兩虎相爭」也讓彼此互補。'}, {'label': '繼續任 90 歲', 'plausibility': 'structural', 'note': 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'}]}]}"
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:14127c407e7b0db7'
-sourceBodyHash: 'sha256:6d452360d79fae70'
-translatedAt: '2026-08-05T06:07:22+08:00'
+sourceCommitSha: '89b721a3d'
+sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
+sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
+translatedAt: '2026-09-20T00:52:42+08:00'
 ---
 
-# Morris Chang (張忠謀)
+# 張忠謀 (Morris Chang)
 
-Morris Chang (張忠謀), yang dijuluki "Bapak Industri Semikonduktor", adalah pengusaha legendaris dan pendiri Taiwan Semiconductor Manufacturing Company (TSMC, 台積電). Ia menciptakan perusahaan pure-play foundry pertama di dunia, memulai model bisnis yang membentuk ulang ekosistem industri teknologi global. Dari eksekutif华人 di Texas Instruments (TI) Amerika Serikat, hingga kembali ke Taiwan mendirikan TSMC, lintasan hidupnya menyaksikan sejarah perkembangan industri semikonduktor global, serta meneguhkan posisi kunci Taiwan dalam rantai pasok teknologi global.
+Morris Chang, seorang pengusaha legendaris yang dijuluki "Bapak Semikonduktor," adalah pendiri Taiwan Semiconductor Manufacturing Company (TSMC). Ia menciptakan perusahaan manufaktur semikonduktor murni pertama di dunia dan memperkenalkan model bisnis yang membentuk kembali ekosistem industri teknologi global. Dari eksekutif Tionghoa di Texas Instruments, hingga mendirikan TSMC di Taiwan, lintasan hidupnya menyaksikan perkembangan industri semikonduktor global dan meletakkan posisi kunci Taiwan dalam rantai pasokan teknologi dunia.
 
-## Ringkasan 30 Detik
+## Sekilas Pandang (30 Detik)
 
-**Mengapa dunia harus mengenal Morris Chang?**
+**Mengapa Dunia Perlu Mengenal Morris Chang?**
 
-TSMC yang didirikan Morris Chang adalah perusahaan dengan kapitalisasi pasar tertinggi di pasar pure-play foundry global, serta batu angker penting peradaban digital modern. Dari smartphone, komputer, hingga chip kecerdasan buatan (AI), mayoritas besar semikonduktor canggih dunia diproduksi oleh TSMC. Model bisnis "pure-play foundry" yang ia ciptakan memungkinkan tak terhitung perusahaan teknologi fokus pada desain chip, tanpa harus menginvestasikan dana masif untuk membangun pabrik wafer (fab), sehingga secara fundamental membentuk ulang ekosistem industri teknologi global.
+TSMC, yang didirikan oleh Morris Chang, adalah perusahaan manufaktur semikonduktor murni dengan kapitalisasi pasar tertinggi di dunia dan merupakan pilar penting peradaban digital modern. Sebagian besar semikonduktor canggih di dunia—mulai dari ponsel pintar, komputer, hingga chip kecerdasan buatan—diproduksi oleh TSMC. Model bisnis "manufaktur murni" yang ia rintis memungkinkan banyak perusahaan teknologi untuk fokus pada desain chip tanpa perlu menginvestasikan modal besar untuk membangun pabrik semikonduktor (fab), sehingga secara fundamental mengubah ekosistem industri teknologi global.
 
-TSMC disebut "Gunung Suci Pelindung" (護國神山) Taiwan, memiliki posisi strategis tak tergantikan dalam geopolitik. Morris Chang adalah salah satu orang langka di abad ke-20 yang benar-benar mengubah struktur industri — ia mendefinisikan ulang batas-batas bisnis industri semikonduktor, memungkinkan Taiwan berangkat dari titik awal sebagai pusat manufaktur kontrak (OEM), menjadi simpul inti (core node) rantai pasok teknologi global.
+TSMC dijuluki sebagai "Gunung Penjaga Negara" Taiwan dan memiliki posisi strategis yang tak tergantikan dalam geopolitik. Morris Chang adalah salah satu dari sedikit orang di abad ke-20 yang benar-benar mengubah struktur industri—ia mendefinisikan ulang batas komersial industri semikonduktor, memungkinkan Taiwan bertransisi dari titik awal manufaktur menjadi simpul inti dalam rantai pasokan teknologi global.
 
-Lahir 1931 di Ningbo, Zhejiang; mendirikan TSMC 1987 di Taiwan: kehidupan Morris Chang sendiri adalah cerminan bangkitnya teknologi Asia di abad ke-20.
+Lahir pada 10 Juli 1931 di Ningbo, Tiongkok; mendirikan TSMC di Taiwan pada tahun 1987: kehidupan Morris Chang adalah miniatur kebangkitan teknologi Asia di abad ke-20.
 
 ## Kehidupan Awal dan Latar Belakang Pendidikan
 
-### Perjalanan Dewasa di Era Kegemparan
+### Perjalanan Pertumbuhan di Masa yang Bergejolak
 
 **Kelahiran dan Latar Belakang Keluarga:**
-10 Juli 1931, Morris Chang lahir di Kota Ningbo, Provinsi Zhejiang, Tiongkok. Ayahnya, Chang Wei-kuan (張蔚觀), adalah bankir; ibunya, Hsu Chun-wei (徐君偉), berasal dari keluarga sarjana. Di era kegemparan itu, ayahnya yang menguasai sastra dan sejarah, memiliki perpustakaan pribadi yang kaya — lingkungan ini membuatnya mempertahankan perspektif humanistik sepanjang karir tekniknya.
+Pada tanggal 10 Juli 1931, Morris Chang lahir di Ningbo, Provinsi Zhejiang, Tiongkok[^1]. Ayahnya, Zhang Weiguan, adalah seorang bankir, sementara ibunya, Xu Junwei, berasal dari keluarga terpelajar. Di masa yang penuh gejolak itu, ayah Chang sangat menguasai sejarah dan sastra, dan rumah mereka kaya akan buku-buku, lingkungan ini selalu memberinya perspektif humaniora dalam perjalanan karier tekniknya.
 
-**Pengalaman Pindah Tempat di Masa Kanak-kanak:**
-Karena perang, masa kanak-kanak Morris Chang penuh perpindahan. Dari Ningbo ke Shanghai, Nanjing, Chongqing, kembali ke Shanghai, lalu ke Guangzhou, Hong Kong, dan akhirnya ke Amerika Serikat — pengalaman mengembara ini melatih kemampuan adaptasi dan wawasan internasionalnya.
+**Pengalaman Migrasi di Masa Kecil:**
+Karena perang, masa kecil Morris Chang dipenuhi dengan perpindahan. Dari Ningbo ke Shanghai, Nanjing, Chongqing, Shanghai, lalu ke Guangzhou, Hong Kong, dan akhirnya ke Amerika Serikat—pengalaman pengembaraan ini menumbuhkan kemampuan adaptasi dan wawasan internasionalnya.
 
 **Masa Sekolah di Hong Kong:**
-1945, berusia 14 tahun, Morris Chang ikut keluarga pindah ke Hong Kong, menerima pendidikan menengah di bawah sistem kolonial Inggris. Lingkungan internasional dan pendidikan bahasa Inggris di Hong Kong menempatkan fondasi penting untuk studinya dan karirnya di Amerika Serikat kemudian.
+Setelah kemenangan perang pada tahun 1945, keluarga mereka pindah ke Shanghai, dan ia bersekolah di South Ocean Model High School; namun, karena Perang Saudara Nasionalis-Komunis pada tahun 1948, Morris Chang yang berusia 17 tahun harus berpindah lagi ke Hong Kong bersama keluarganya[^1]. Keesokan harinya, ia berangkat dari Hong Kong untuk belajar di Amerika Serikat.
 
-### Titik Balik Kunci: Studi di Amerika Serikat
+### Titik Balik Kunci dalam Studi di Amerika
 
-**Pengalaman Singkat di Universitas Harvard:**
-1949, berusia 18 tahun, Morris Chang masuk Universitas Harvard, awalnya mengambil jurusan Sastra. Namun, satu tahun kemudian, karena minim minat pada sastra ditambah pertimbangan ekonomi, ia pindah ke Institut Teknologi Massachusetts (MIT).
+**Pengalaman Singkat di Harvard:**
+Pada tahun 1949, Morris Chang yang berusia 18 tahun masuk ke Universitas Harvard[^2] dan awalnya mengambil jurusan sastra. Namun, setahun kemudian, karena kurangnya minat pada sastra ditambah pertimbangan ekonomi, ia pindah ke Massachusetts Institute of Technology (MIT).
 
 **Pendidikan Teknik di MIT:**
-Di MIT, Morris Chang memilih Teknik Mesin sebagai jurusan utamanya. Pilihan yang tampak kebetulan ini justru membuatnya mengumpulkan intuisi teknik pertama di inti manufaktur semikonduktor (proses manufaktur presisi), menjadi fondasi penting untuk memimpin perbaikan proses TSMC kemudian.
+Di MIT, Morris Chang memilih teknik mesin sebagai jurusan utama. Pilihan ini tampak kebetulan, namun memberinya intuisi rekayasa langsung dalam inti manufaktur semikonduktor (proses mekanik presisi), yang menjadi dasar penting bagi perbaikan proses TSMC di kemudian hari.
 
-**Lulus Sarjana 1952:**
-1952, Morris Chang memperoleh gelar Sarjana Teknik Mesin dari MIT. Saat lulus, Perang Korea sedang berlangsung; karena statusnya sebagai mahasiswa asing, ia tidak bisa mendapatkan pekerjaan terkait militer AS — keterbatasan ini justru mengarahkannya ke industri sipil.
+**Lulus Sarjana pada Tahun 1952:**
+Morris Chang memperoleh gelar sarjana teknik mesin dari MIT pada tahun 1952[^3]. Saat kelulusan, Perang Korea sedang berlangsung, dan karena statusnya sebagai mahasiswa asing, ia tidak bisa mendapatkan pekerjaan terkait militer AS; batasan ini justru membawanya ke industri sipil.
 
-## Awal Karir: Perusahaan Sylvania
+## Awal Karier di Tempat Kerja: Sylvania
 
-### Masuk ke Industri Semikonduktor
+### Memasuki Industri Semikonduktor
 
-**Peluang 1955:**
-Lulus kuliah, Morris Chang bekerja tiga tahun di perusahaan Sylvania, ini pertama kalinya ia menyentuh industri semikonduktor. Saat itu industri semikonduktor masih di tahap awal, tapi Morris Chang dengan tajam menangkap potensi raksasa industri baru ini.
+**Kesempatan pada Tahun 1955:**
+Setelah lulus, Morris Chang bekerja selama tiga tahun di perusahaan Sylvania[^4], yang merupakan kontak pertamanya dengan industri semikonduktor. Pada saat itu, industri semikonduktor masih dalam tahap awal, tetapi Chang secara tajam menyadari potensi besar dari industri baru ini.
 
-**Pengasuhan Kemampuan Teknis:**
-Di Sylvania, Morris Chang bertanggung jawab atas manufaktur perangkat semikonduktor, mempelajari pengetahuan dasar proses semikonduktor. Pengalaman ini membuatnya memahami kompleksitas dan presisi manufaktur semikonduktor, serta mengasah perhatiannya pada detail teknis.
+**Pengembangan Kemampuan Teknis:**
+Di Sylvania, Morris Chang bertanggung jawab atas manufaktur perangkat semikonduktor dan mempelajari dasar-dasar proses semikonduktor. Pengalaman ini membuatnya memahami kompleksitas dan presisi dalam pembuatan semikonduktor, serta menumbuhkan perhatiannya terhadap detail teknis.
 
-**Tampaknya Bakat Manajemen Awal:**
-Bahkan di posisi teknis tingkat dasar, Morris Chang sudah menunjukkan kemampuan manajemen yang luar biasa. Ia pandai mengorganisir tim, memecahkan masalah teknis; pengalaman tiga tahun ini membuatnya paham betapa ketatnya persyaratan presisi manufaktur semikonduktor.
+**Munculnya Bakat Manajerial Awal:**
+Bahkan pada posisi teknis tingkat bawah, Morris Chang menunjukkan kemampuan manajerial yang luar biasa. Ia mahir mengorganisasi tim dan memecahkan masalah teknis; pengalaman tiga tahun ini membuatnya memahami tuntutan presisi dalam manufaktur semikonduktor.
 
-## Era Texas Instruments: Demonstrasi Bakat Manajemen
+## Periode Texas Instruments: Manifestasi Bakat Manajerial
 
-### Titik Balik Penting 1958
+### Titik Balik Penting pada Tahun 1958
 
-**Bergabung dengan Texas Instruments:**
-1958, Morris Chang bergabung dengan Texas Instruments (TI), ini adalah titik balik kunci karirnya. Saat itu TI sedang agresif memperluas bisnis semikonduktor, tepat butuh bakat yang mampu melintasi teknik dan manajemen.
+**Bergabung dengan Texas Instruments (TI):**
+Pada tahun 1958, Morris Chang bergabung dengan Texas Instruments (TI)[^5], yang merupakan titik balik penting dalam kariernya. Pada saat itu, TI sedang gencar mengembangkan bisnis semikonduktor dan membutuhkan talenta yang mampu menjembatani rekayasa dan manajemen.
 
-**Dari Insinyur ke Manajer:**
-Di TI, Morris Chang memulai sebagai insinyur semikonduktor, bertanggung jawab produksi wafer. Ia berprestasi di bidang teknis, sekaligus menunjukkan bakat manajemen yang cemerlang, cepat mendapat perhatian atasan.
+**Dari Insinyur menjadi Manajer:**
+Di TI, Morris Chang memulai sebagai insinyur semikonduktor, bertanggung jawab atas urusan produksi wafer. Ia menunjukkan kinerja teknis yang luar biasa sekaligus bakat manajerial yang unggul, sehingga dengan cepat mendapatkan perhatian atasan.
 
-**Kontribusi Perbaikan Proses:**
-Selama di TI, Morris Chang secara signifikan memperbaiki proses semikonduktor perusahaan, meningkatkan yield (tingkat produk baik) dan efisiensi produksi. Perbaikan teknis ini menghemat biaya besar bagi perusahaan, sekaligus membangun reputasinya.
+**Kontribusi Peningkatan Proses:**
+Selama di TI, Morris Chang secara signifikan meningkatkan proses semikonduktor perusahaan, meningkatkan tingkat rendemen dan efisiensi produksi produk. Perbaikan teknis ini menghemat banyak biaya bagi perusahaan dan memberinya reputasi.
 
-### Studi Lanjut di Universitas Stanford
+### Studi Lanjutan di Stanford University
 
-**Peluang Belajar 1961:**
-1961, TI mendukung Morris Chang ke Universitas Stanford mengejar doktor Teknik Elektro. Ini adalah pengakuan perusahaan atas kemampuannya, juga menunjukkan betapa pentingnya pengembangan bakat bagi perusahaan AS.
+**Kesempatan Belajar pada Tahun 1961:**
+Pada tahun 1961, TI mendukung Morris Chang untuk melanjutkan studi doktoral teknik elektro di Stanford University. Ini adalah pengakuan perusahaan terhadap kemampuannya dan menunjukkan perhatian perusahaan Amerika terhadap pengembangan talenta.
 
-**Hasil Gelar Doktor:**
-1964, Morris Chang memperoleh gelar Doktor Teknik Elektro dari Universitas Stanford. [^3] Periode studi ini memperdalam kedalaman teoritis dan jaringan industri, setelah kembali ke TI ia segera dipromosikan.
+**Hasil Studi Doktoral:**
+Pada tahun 1964, Morris Chang memperoleh gelar doktor teknik elektro dari Stanford University[^6]. Pendidikan lanjutan ini membuatnya lebih mendalam secara teoritis dan memiliki jaringan profesional yang lebih luas; ia segera dipromosikan setelah kembali ke TI.
 
-**Peran Baru Pasca-Doktor:**
-Lulus doktor, Morris Chang kembali ke TI, menjabat posisi manajemen lebih tinggi. Ia berturut-turut menjabat General Manager Divisi Transistor Germanium, Divisi Transistor Silikon, dan Divisi Sirkuit Terintegrasi (IC), posisinya di TI naik seiring prestasi.
+**Peran Baru di Perusahaan:**
+Setelah lulus doktoral, Morris Chang kembali ke Texas Instruments untuk memegang posisi manajemen tingkat yang lebih tinggi. Ia secara berurutan menjabat sebagai manajer umum departemen transistor, silikon, dan sirkuit terpadu (IC) di TI, dengan statusnya meningkat seiring kinerja perusahaan.
 
-### Menembus Plafon Ras
+### Menembus Langit-langit Rasial
 
-**Promosi Sejarah 1972:**
-1972, Morris Chang dipromosikan jadi Vice President Grup TI, menjadi salah satu eksekutif华人 tertinggi di perusahaan besar AS saat itu. Promosi ini di lingkungan bisnis AS waktu itu adalah pencapaian sangat langka.
+**Promosi Historis pada Tahun 1972:**
+Pada tahun 1972, Morris Chang dipromosikan menjadi Wakil Presiden Grup Texas Instruments[^7], menjadikannya salah satu eksekutif Tionghoa tingkat tertinggi di perusahaan besar Amerika saat itu. Promosi ini adalah pencapaian yang sangat langka dalam lingkungan bisnis Amerika pada masa itu.
 
-**General Manager Grup Semikonduktor:**
-Morris Chang serentak menjabat General Manager Grup Semikonduktor TI, memimpin divisi bisnis inti perusahaan. Di bawah kepemimpinannya, bisnis semikonduktor TI berkembang pesat, menjadi salah satu pemasok semikonduktor utama global.
+**Manajer Umum Grup Semikonduktor:**
+Morris Chang juga menjabat sebagai Manajer Umum Grup Semikonduktor TI, bertanggung jawab atas unit bisnis inti perusahaan. Di bawah kepemimpinannya, bisnis semikonduktor TI berkembang pesat dan menjadi pemasok utama semikonduktor global.
 
-**Ringkasan 25 Tahun Hidup di AS:**
-25 tahun di TI, Morris Chang naik dari insinyur tingkat dasar ke eksekutif senior, memahami secara mendalam ritme teknis dan logika bisnis industri semikonduktor. Pengalaman ini membuat penilaiannya soal pasar saat kembali ke Taiwan berwirausaha 1987 jauh lebih presisi dari siapa pun dengan latar belakang murni akademis.
+**Ringkasan 25 Tahun di Amerika:**
+Selama 25 tahun di Texas Instruments, Morris Chang naik dari insinyur tingkat bawah ke eksekutif senior, memahami ritme teknis dan logika bisnis industri semikonduktor secara mendalam. Pengalaman ini membuatnya lebih akurat dalam menilai pasar ketika ia memulai usaha kembali di Taiwan pada tahun 1987 dibandingkan siapa pun yang hanya memiliki latar belakang akademis murni.
 
-## Panggilan Taiwan: Era Presiden ITRI
+## Panggilan dari Taiwan: Periode Direktur RIIA (Industrial Research Institute)
 
-### Titik Balik Kehidupan 1985
+### Titik Balik Kehidupan pada Tahun 1985
 
-**Undangan Sun Yun-suan:**
-1985, Morris Chang menerima undangan kuat dari mantan Premier Sun Yun-suan (孫運璿) [^1], Ketua ITRI Hsu Hsien-hsiu (徐賢修), Premier Yu Kuo-hwa (俞國華), dan Menteri Tanpa Portefeuille Li Kuo-ting (李國鼎), menjabat Presiden Lembaga Penelitian Teknologi Industri (ITRI, 工研院). Sun Yun-suan lama mendorong pengembangan industri high-tech Taiwan, adalah dorong penting mengundang Morris Chang kembali. Keputusan ini mengubah lintasan hidupnya, sekaligus mengubah nasib industri teknologi Taiwan.
+**Undangan dari Sun Yun-sze:**
+Pada tahun 1985, Morris Chang diundang oleh mantan kepala eksekutif, Sun Yun-sze[^8], direktur RIIA (Industrial Research Institute), Yu Hsien-shiu, kepala eksekutif kabinet, dan anggota komite politik Li Kuo-ding untuk menjabat sebagai Direktur Institut Penelitian Industri. Sun Yun-sze telah lama mendorong pengembangan industri teknologi tinggi Taiwan, dan ia adalah pendorong utama di balik undangan Morris Chang kembali ke Taiwan. Keputusan ini mengubah lintasan hidupnya dan nasib industri teknologi Taiwan.
 
-**Keberanian Meninggalkan Zona Nyaman:**
-Saat itu berusia 54 tahun, Morris Chang di AS sudah punya karir sukses dan kehidupan nyaman. Memilih kembali ke Taiwan adalah keputusan penuh risiko dan tantangan, menunjukkan rasa misinya atas perkembangan teknologi Taiwan.
+**Keberanian Keluar dari Zona Nyaman:**
+Pada saat itu berusia 54 tahun, Morris Chang memiliki karier yang sukses dan kehidupan yang nyaman di Amerika. Memilih untuk kembali ke Taiwan adalah keputusan yang penuh risiko dan tantangan, menunjukkan rasa tanggung jawabnya terhadap perkembangan teknologi Taiwan.
 
-**Reformasi ITRI:**
-Selama menjabat Presiden ITRI, Morris Chang mendorong integrasi erat R&D dengan industri, menggunakan pemikiran manajemen bergaya AS mengarahkan ulang arah penelitian ITRI. Wawasan internasionalnya mengubah ITRI dari lembaga penelitian pemerintah menjadi inkubator teknologi dengan kesadaran bisnis yang lebih kuat.
+**Reformasi RIIA:**
+Selama menjabat sebagai direktur RIIA, Morris Chang mendorong integrasi erat antara penelitian dan industri, merestrukturisasi arah penelitian RIIA dengan pola pikir manajemen ala Amerika. Wawasan internasionalnya mengubah RIIA dari lembaga penelitian pemerintah menjadi inkubator teknologi yang lebih berorientasi bisnis.
 
-### Penilaian Industri Semikonduktor Taiwan
+### Evaluasi Industri Semikonduktor Taiwan
 
 **Analisis Lingkungan Industri:**
-Morris Chang menilai teliti lingkungan industri dan keunggulan Taiwan. Ia percaya Taiwan memiliki talenta insinyur unggul, biaya relatif rendah, dan kemampuan manufaktur fleksibel, kondisi ini sangat cocok mengembangkan industri manufaktur semikonduktor.
+Morris Chang secara cermat mengevaluasi lingkungan dan keunggulan industri Taiwan. Ia percaya bahwa Taiwan memiliki tenaga kerja insinyur yang unggul, biaya yang relatif rendah, dan kemampuan manufaktur yang fleksibel—semua kondisi ini sangat cocok untuk mengembangkan industri semikonduktor.
 
-**Konsep Model Foundry:**
-Di masa ITRI, Morris Chang mulai merenungkan model bisnis revolusioner — pure-play foundry (專業晶圓代工). Konsep ini lahir dari wawasan mendalamnya soal tren industri, serta kristalisasi pengalaman industri bertahun-tahun.
+**Konsep Fabless:**
+Selama di RIIA, Morris Chang mulai memikirkan model bisnis revolusioner—manufaktur murni (fabless). Konsep ini berasal dari wawasan mendalamnya tentang tren industri dan merupakan kristalisasi dari pengalaman industrinya selama bertahun-tahun.
 
 **Pentingnya Dukungan Pemerintah:**
-Morris Chang sadar mengembangkan industri semikonduktor butuh dukungan penuh pemerintah, termasuk investasi dana, kebijakan, dan pelatihan talenta. Ia komunikasi erat dengan pejabat pemerintah, meraih struktur khusus lisensi teknologi ITRI dan investasi saham pemerintah untuk pendirian TSMC.
+Morris Chang menyadari bahwa pengembangan industri semikonduktor memerlukan dukungan penuh dari pemerintah, termasuk investasi modal, dukungan kebijakan, dan pelatihan talenta. Ia berkomunikasi erat dengan pejabat pemerintah untuk mengamankan struktur khusus bagi pendirian TSMC, yang mencakup lisensi teknologi RIIA dan investasi saham pemerintah.
 
-## Kelahiran TSMC: Inovasi 1987
+## Kelahiran TSMC: Inovasi Tahun 1987
 
-### Terobosan Model Pure-play Foundry
+### Inovasi Model Manufaktur Murni (Fabless)
 
-**Terobosan Konsep Foundry:**
-1987, Morris Chang mengusung konsep inovatif "pure-play wafer foundry" (專業晶圓代工). Berbeda dengan model Integrated Device Manufacturer (IDM) tradisional, TSMC fokus memproduksi chip untuk klien, **tidak** merancang produk sendiri.
+**Terobosan Konsep Fabless:**
+Pada tahun 1987, Morris Chang mengajukan konsep inovatif "manufaktur murni"[^11]. Berbeda dengan model produsen komponen terintegrasi tradisional (IDM), TSMC berfokus pada pembuatan chip untuk klien tanpa merancang produknya sendiri.
 
-**Kerevolusioneran Model Bisnis:**
-Kerevolusioneran model ini在于: ia memungkinkan banyak perusahaan tanpa kemampuan membangun fab juga bisa merancang chip canggih, drastis menurunkan ambang masuk industri semikonduktor, membuat perusahaan desain chip tumbuh eksponensial dari 1990-an hingga 2020-an.
+**Revolusi Model Bisnis:**
+Sifat revolusioner dari model ini adalah bahwa hal itu memungkinkan banyak perusahaan yang tidak mampu membangun pabrik semikonduktor untuk tetap merancang chip canggih, secara drastis menurunkan hambatan masuk ke industri semikonduktor, mendorong pertumbuhan eksponensial perusahaan desain chip dari tahun 1990-an hingga 2020-an.
 
 **Dampak pada Ekosistem Industri:**
-Model pure-play foundry menciptakan ekosistem industri baru sepenuhnya, memungkinkan perusahaan desain fokus inovasi, foundry fokus manufaktur, realisasi spesialisasi pembagian kerja profesional, meningkatkan efisiensi seluruh industri.
+Model manufaktur murni menciptakan ekosistem industri yang benar-benar baru, memungkinkan perusahaan desain untuk fokus pada inovasi sementara pabrik manufaktur berfokus pada produksi, mencapai spesialisasi pembagian kerja dan meningkatkan efisiensi seluruh industri.
 
 ### Proses Pendirian TSMC
 
 **Momen Sejarah 21 Februari 1987:**
-21 Februari 1987, Taiwan Semiconductor Manufacturing Company Limited (台灣積體電路製造股份有限公司) resmi didirikan, modal awal NT$ 22 miliar. Ini adalah hasil kolaborasi pemerintah, perusahaan swasta Taiwan, dan investor asing.
+Pada tanggal 21 Februari 1987, Taiwan Semiconductor Manufacturing Company (TSMC) secara resmi didirikan dengan total investasi sekitar $145 juta: Pemerintah menginvestasikan $70 juta (48.3%), Philips Belanda menginvestasikan $40 juta (27.5%), dan pihak swasta menginvestasikan $35 juta (24.2%)[^9]. Ini adalah hasil kolaborasi antara pemerintah, perusahaan swasta, dan investor asing.
 
-**Desain Struktur Kepemilikan Saham:**
-Struktur kepemilikan TSMC meliputi ITRI, Philips Belanda, dan perusahaan swasta Taiwan. Struktur kepemilikan beragam ini membawa teknologi, dana, dan sumber daya pasar bagi TSMC.
+**Desain Struktur Kepemilikan:**
+Struktur kepemilikan TSMC mencakup RIIA, Philips Belanda, dan perusahaan swasta Taiwan[^10]. Struktur kepemilikan yang terdiversifikasi ini memberikan TSMC sumber daya teknologi, modal, dan pasar.
 
-**Peran Ganda Morris Chang:**
-Morris Chang menjabat Chairman sekaligus President (kemudian gelar berubah jadi CEO), bertanggung jawab strategi keseluruhan dan operasional harian. Gaya kepemimpinannya menggabungkan efisiensi manajemen bergaya AS dengan kebijaksanaan budaya华人.
+**Identitas Ganda Morris Chang:**
+Morris Chang menjabat sebagai Ketua Dewan Direksi sekaligus CEO (kemudian diubah menjadi Direktur Utama) TSMC, bertanggung jawab atas strategi keseluruhan dan operasi sehari-hari perusahaan. Gaya kepemimpinannya menggabungkan efisiensi manajemen ala Amerika dengan kearifan budaya Tionghoa.
 
-## Perjalanan Perkembangan TSMC
+## Perkembangan TSMC
 
 ### Tantangan dan Terobosan Awal
 
-**1987-1990: Masa Sulit Pendirian:**
-Awal berdirinya TSMC menghadapi tantangan masif. Pure-play foundry adalah model bisnis baru sepenuhnya, pasar ragu, klien butuh waktu menerima konsep ini. Morris Chang harus membangun kemampuan manufaktur sambil meyakinkan klien.
+**1987–1990: Masa Sulit Pendirian:**
+TSMC menghadapi tantangan besar pada masa awal pendiriannya. Manufaktur murni adalah model bisnis yang benar-benar baru, dan pasar meragukan hal itu; klien membutuhkan waktu untuk menerima konsep ini. Morris Chang harus membangun kemampuan manufaktur sambil meyakinkan klien.
 
-**Pembentukan Kemampuan Teknis:**
-Teknologi awal TSMC berasal dari transfer ITRI dan kolaborasi Philips. Morris Chang memimpin tim belajar dan memperbaiki teknologi proses dengan cepat, membangun kemampuan manufaktur andal.
+**Pembangunan Kapabilitas Teknis:**
+Teknologi awal TSMC berasal dari transfer RIIA dan kerja sama dengan Philips. Morris Chang memimpin tim untuk mempelajari dan meningkatkan teknologi proses dengan cepat, membangun kapabilitas manufaktur yang andal.
 
 **Pengembangan Klien Pertama:**
-Klien awal TSMC terutama perusahaan fabless semikonduktor AS. Perusahaan-perusahaan ini justru butuh jasa foundry profesional, menyediakan dasar bisnis awal bagi TSMC.
+Klien pertama TSMC sebagian besar adalah perusahaan semikonduktor tanpa pabrik (Fabless) di Amerika Serikat. Perusahaan-perusahaan ini membutuhkan layanan manufaktur murni, memberikan dasar bisnis awal bagi TSMC.
 
-### Perkembangan Pesat 1990-an
+### Perkembangan Pesat pada Tahun 1990-an
 
 **Strategi Kepemimpinan Teknologi:**
-1990-an, Morris Chang merumuskan strategi "Kepemimpinan Teknologi" (技術領先), masif investasi R&D, memastikan TSMC di setiap generasi proses tidak tertinggal lawan. TSMC berturut-turut membangun banyak fab di Taiwan, basis klien dari fabless AS awal memperluas ke Qualcomm, Broadcom, NVIDIA, dan perusahaan desain global utama lainnya.
+Pada tahun 1990-an, Morris Chang menetapkan strategi "kepemimpinan teknologi," menginvestasikan besar-besaran dalam R&D untuk memastikan bahwa TSMC tidak tertinggal dari pesaing di setiap generasi proses. TSMC secara bertahap membangun beberapa pabrik semikonduktor di Taiwan, dan basis klien berkembang dari perusahaan Fabless awal menjadi perusahaan desain utama global seperti Qualcomm, Broadcom, dan Nvidia.
 
-### Kepemimpinan Abad ke-21
+### Posisi Kepemimpinan Abad ke-21
 
-**Kompetisi Proses Canggih:**
-Masuk abad ke-21, perkembangan teknologi proses semikonduktor semakin sulit dan mahal. TSMC berkat investasi R&D tahunan melebihi rata-rata industri, mempertahankan kepemimpinan di bidang proses canggih.
+**Persaingan Proses Canggih:**
+Memasuki abad ke-21, pengembangan teknologi proses semikonduktor menjadi semakin sulit dan mahal. TSMC mempertahankan posisi kepemimpinan di bidang proses canggih berkat investasi R&D yang lebih tinggi dari rata-rata industri setiap tahun.
 
-**Terobosan 28nm ke 5nm:**
-Dari 28 nanometer ke 16nm, 7nm, lalu 5nm dan 3nm, TSMC di setiap generasi proses canggih mempertahankan kepemimpinan teknis, mengukuhkan posisinya di pasar high-end.
+**Terobosan dari 28nm hingga 5nm:**
+Dari 28 nanometer ke 16 nm, 7 nm, dan kemudian 5 nm serta 3 nm, TSMC mempertahankan kepemimpinan teknologi di setiap generasi proses canggih, memperkuat posisinya di pasar kelas atas.
 
-**Milestone Kolaborasi Apple:**
-Kolaborasi dengan Apple dimulai 2013 dari chip seri A, TSMC memproduksi prosesor inti iPhone dan iPad, menghadirkan volume pesanan masif, juga membuat kemampuan proses canggih TSMC lolos verifikasi komersial paling ketat. [^2]
+**Tonggak Kerja Sama dengan Apple:**
+Kerja sama dengan Apple dimulai dengan chip seri A pada tahun 2013, di mana TSMC memproduksi prosesor inti untuk iPhone dan iPad, menghasilkan skala pesanan yang sangat besar dan memberikan validasi komersial paling ketat terhadap kemampuan proses canggih TSMC[^12].
 
-## Filosofi Manajemen dan Pemikiran Kepemimpinan
+## Filosofi Operasional dan Manajemen
 
-### Ketekunan pada Inovasi Teknologi
+### Keharusan Inovasi Teknologi
 
-**Penekanan Investasi R&D:**
-Morris Chang selalu menekankan pentingnya inovasi teknologi, TSMC tiap tahun menginvestasikan ~8% pendapatan ke R&D, memastikan tidak tertinggal lawan di bidang teknis. [^3] Di era Hukum Moore menghadapi batas fisik, Morris Chang memimpin TSMC menembus beruntun proses 7nm, 5nm, 3nm, menyediakan kemampuan manufaktur bagi perkembangan seluruh industri semikonduktor.
+**Penekanan pada Investasi R&D:**
+Morris Chang selalu menekankan pentingnya inovasi teknologi. TSMC menginvestasikan sekitar 8% dari pendapatan setiap tahun untuk R&D, memastikan bahwa perusahaan tidak tertinggal secara teknologi dari pesaing[^13]. Di era ketika Hukum Moore menghadapi batas fisik, TSMC berhasil memproduksi massal pada proses 7 nm di bawah kepemimpinannya; sedangkan 5 nm (2020) dan 3 nm (2022) adalah hasil kerja tim penerusnya setelah ia pensiun; proses canggih yang terus menurun ini menyediakan kemampuan manufaktur bagi perkembangan seluruh industri semikonduktor.
 
 **Keseimbangan Teknologi dan Pasar:**
-Morris Chang pandai mencari titik keseimbangan antara kepemimpinan teknis dan kebutuhan pasar,既要 mempertahankan keunggulan teknis,又要 memastikan nilai komersial teknologi, menghindari terlalu super-mendahului menyebabkan biaya terlalu tinggi.
+Morris Chang mahir menemukan keseimbangan antara kepemimpinan teknologi dan permintaan pasar, memastikan keunggulan teknologi sambil menjamin nilai komersial dari teknologi tersebut, menghindari biaya yang terlalu tinggi akibat terlalu jauh melampaui kebutuhan.
 
 ### Pengembangan Talenta dan Budaya Perusahaan
 
-**Budaya Perusahaan Berbasis Integritas:**
-Morris Chang membangun budaya perusahaan dengan integritas (誠信正直) sebagai inti di TSMC. Ia menekankan nilai inti "Integritas, Komitmen, Inovasi, Kepercayaan Klien" (誠信正直、承諾、創新、客戶信任), nilai-nilai ini menjadi batu angker budaya TSMC.
+**Budaya Korporat Integritas:**
+Morris Chang membangun budaya perusahaan yang berpusat pada integritas di TSMC. Ia menekankan nilai inti "integritas, komitmen, inovasi, kepercayaan pelanggan," yang menjadi landasan budaya TSMC.
 
-**Penekanan Pengembangan Talenta:**
-Morris Chang sangat memperhatikan pengasuhan talenta, membangun sistem pelatihan dan promosi insinyur sistematis di TSMC. Ia percaya talenta adalah daya saing inti perusahaan, TSMC dengan turnover rate jauh di bawah rata-rata industri, juga melahirkan Mark Liu (劉德音), C.C. Wei (魏哲家) dll tim inti pemimpin TSMC generasi berikutnya.
+**Penekanan pada Pengembangan Talenta:**
+Morris Chang sangat mementingkan pengembangan talenta, mendirikan sistem pelatihan dan promosi insinyur yang terstruktur di TSMC. Ia percaya bahwa manusia adalah daya saing inti perusahaan; sementara tingkat pengunduran diri TSMC jauh di bawah rata-rata industri, ia juga melatih tim inti seperti Liu Deyin dan Wei Zhejia yang kemudian memimpin TSMC.
 
 **Gaya Manajemen Internasional:**
-Morris Chang membawa efisiensi dan transparansi manajemen bergaya AS ke TSMC, membangun struktur tata kelola perusahaan modern. Sementara itu juga memadukan kebijaksanaan budaya华人, menciptakan budaya perusahaan unik.
+Morris Chang memperkenalkan efisiensi dan transparansi manajemen ala Amerika ke dalam TSMC, membangun struktur tata kelola perusahaan modern. Pada saat yang sama, ia mengintegrasikan kearifan budaya Tionghoa, menciptakan budaya korporat yang unik.
 
 ### Pemikiran Strategis dan Eksekusi
 
 **Perumusan Strategi Jangka Panjang:**
-Morris Chang memiliki kemampuan pemikiran strategis luar biasa, mampu menembus tren industri, merumuskan strategi perkembangan jangka panjang. Strategi "Kepemimpinan Teknologi" TSMC adalah manifestasi wawasan strategisnya.
+Morris Chang memiliki kemampuan berpikir strategis yang luar biasa; ia mampu melihat tren industri dan merumuskan strategi pengembangan jangka panjang. Strategi "kepemimpinan teknologi" TSMC adalah manifestasi dari pandangan strategisnya.
 
-**Penekanan Eksekusi:**
-Selain merumuskan strategi, Morris Chang juga sangat menekankan eksekusi. Ia membangun sistem manajemen presisi, membuat peta jalan teknologi (technology roadmap) dari keputusan sampai落地 di fab, ini adalah alasan kunci TSMC bisa mengikuti ritme setiap generasi proses.
+**Penekanan pada Eksekusi:**
+Selain perumusan strategi, Morris Chang sangat mementingkan eksekusi. Ia membangun sistem manajemen yang presisi, memastikan bahwa cetak biru teknis dapat diimplementasikan dari pengambilan keputusan hingga pabrik semikonduktor; ini adalah alasan mengapa TSMC dapat mengikuti ritme setiap generasi proses.
 
-**Kebijaksanaan Menghadapi Krisis:**
-Menghadapi berbagai krisis dan tantangan, Morris Chang menunjukkan kemampuan kepemimpinan dan kebijaksanaan tanggap krisis yang cemerlang, memimpin TSMC melewati banyak masa sulit, mempertahankan perkembangan stabil perusahaan.
+**Kebijaksanaan dalam Menghadapi Krisis:**
+Ketika menghadapi berbagai krisis dan tantangan, Morris Chang menunjukkan kemampuan kepemimpinan dan kebijaksanaan penanganan krisis yang luar biasa, memimpin TSMC melewati banyak masa sulit sambil mempertahankan stabilitas perusahaan.
 
-## Pensiun dan Warisan
+## Pensiun dan Pewarisan
 
-### Pensiun Pertama 2005
+### Pensiun Pertama pada Tahun 2005
 
-**Peluncuran Rencana Pewarisan:**
-2005, berusia 74 tahun, Morris Chang mengumumkan pensiun, menyerahkan jabatan CEO ke Rick Tsai (蔡力行). Ini adalah bagian dari rencana pewarisan yang disiapkan matang, mewujudkan rasa tanggung jawabnya atas kelangsungan perusahaan.
+**Memulai Rencana Suksesi:**
+Pada tahun 2005, Morris Chang yang berusia 74 tahun mengumumkan pengunduran dirinya sebagai CEO, menyerahkan jabatan tersebut kepada Tsai Li-hing[^14]. Ini adalah bagian dari rencana suksesi yang ia siapkan dengan cermat, menunjukkan rasa tanggung jawabnya terhadap keberlanjutan perusahaan.
 
-**Menjabat Chairman:**
-Meski mundur dari CEO, Morris Chang mempertahankan jabatan Chairman, terus berpartisipasi keputusan strategis mayor perusahaan, memberikan bimbingan dan dukungan bagi tim pewaris.
+**Mempertahankan Jabatan Ketua Dewan:**
+Meskipun mengundurkan diri sebagai CEO, Morris Chang tetap mempertahankan jabatan Ketua Dewan Direksi, terus berpartisipasi dalam pengambilan keputusan strategis besar perusahaan dan memberikan bimbingan serta dukungan kepada tim penerus.
 
-**Pengaturan Hidup Pensiun:**
-Pascapensiun Morris Chang tidak sepenuhnya meninggalkan aktivitas bisnis, ia menghadiri APEC dll forum internasional sebagai wakil Taiwan, juga di banyak pidato berbagi pandangan soal geopolitik dan masa depan semikonduktor.
+**Pengaturan Kehidupan Pensiun:**
+Setelah pensiun, Morris Chang tidak sepenuhnya meninggalkan kegiatan bisnis; ia menghadiri forum internasional seperti APEC sebagai perwakilan Taiwan, dan berbagi pandangannya tentang geopolitik dan masa depan semikonduktor dalam banyak ceramah.
 
-### Kembali 2009
+### Kembalinya pada Tahun 2009
 
 **Tantangan Krisis Keuangan:**
-2008 krisis keuangan global menimpa dampak besar TSMC, perusahaan menghadapi penurunan performa dan kompetisi yang semakin ketat. Di momen kritis ini, Morris Chang memutuskan kembali.
+Krisis keuangan global tahun 2008 berdampak besar pada TSMC; perusahaan menghadapi tantangan ganda penurunan pendapatan dan meningkatnya persaingan. Pada saat kritis ini, Morris Chang memutuskan untuk kembali.
 
-**Kembali Menjabat CEO:**
-2009, berusia 78 tahun, Morris Chang kembali menjabat CEO TSMC, memimpin perusahaan keluar masa sulit secara langsung. Kembalinya menstabilkan kepercayaan pasar, juga menyediakan kepemimpinan bagi pemulihan perusahaan.
+**Mengambil Kembali Jabatan CEO:**
+Pada tahun 2009, Morris Chang yang berusia 78 tahun mengambil kembali jabatan CEO TSMC[^15], memimpin perusahaan melalui masa sulit secara pribadi. Kembalinya ia menstabilkan kepercayaan pasar dan memberikan kepemimpinan bagi pemulihan perusahaan.
 
-**Pengasuhan Mark Liu dan C.C. Wei:**
-Di masa jabatan kedua, Morris Chang fokus mengasuh Mark Liu dan C.C. Wei sebagai calon pewaris, menyiapkan talenta bagi perkembangan masa depan perusahaan.
+**Pengembangan Liu Deyin dan Wei Zhejia:**
+Selama periode kedua, Morris Chang berfokus pada pengembangan penerus seperti Liu Deyin dan Wei Zhejia, mempersiapkan talenta untuk perkembangan masa depan perusahaan.
 
-### Pensiun Resmi 2018
+### Pensiun Resmi pada Tahun 2018
 
 **Penyelesaian Rencana Pewarisan:**
-Juni 2018, berusia 87 tahun, Morris Chang resmi pensiun, mengakhiri karir legendaris 31 tahun di TSMC. Ia menyerahkan jabatan Chairman ke Mark Liu, CEO ke C.C. Wei.
+Pada tanggal 5 Juni 2018, Morris Chang yang berusia 87 tahun resmi pensiun, mengakhiri karier legendarisnya selama 31 tahun di TSMC[^16]. Ia menyerahkan jabatan Ketua Dewan kepada Liu Deyin dan jabatan CEO kepada Wei Zhejia.
 
-**Pembentukan Sistem Kepala Ganda:**
-Morris Chang membangun "Sistem Kepala Ganda" (雙首長制), Mark Liu menjabat Chairman bertanggung jawab eksternal, C.C. Wei menjabat CEO bertanggung jawab internal, tata kelola ini membantu perkembangan stabil perusahaan.
+**Pembentukan Sistem Dua Kepala:**
+Morris Chang menciptakan "sistem dua kepala," di mana Liu Deyin menjabat sebagai Ketua Dewan yang bertanggung jawab ke luar, dan Wei Zhejia menjabat sebagai CEO yang bertanggung jawab ke dalam; pengaturan sistem ini membantu perkembangan stabil perusahaan.
 
-**Teladan Pensiun Sempurna:**
-Pensiun Morris Chang dianggap teladan pewarisan perusahaan, ia mundur pada waktu yang tepat, memberi ruang penuh bagi pemimpin generasi baru berperan, sekaligus memastikan transisi stabil perusahaan.
+**Teladan Pensiun yang Sukses:**
+Pensiun Morris Chang dianggap sebagai teladan suksesi korporat; ia mundur pada waktu yang tepat, memberikan ruang bagi pemimpin generasi baru untuk berkembang, sekaligus memastikan transisi perusahaan yang stabil.
 
-## Dampak pada Industri Semikonduktor Global
+## Dampak terhadap Industri Semikonduktor Global
 
 ### Inovasi Model Bisnis
 
-**Penyebaran Model Pure-play Foundry:**
-Model pure-play foundry yang diciptakan Morris Chang, sudah menjadi salah satu model bisnis standar industri semikonduktor. Ratusan perusahaan fabless global bergantung pada jasa foundry, model ini sangat memajukan perkembangan industri.
+**Adopsi Model Fabless:**
+Model manufaktur murni (fabless) yang diciptakan Morris Chang telah menjadi salah satu model bisnis standar dalam industri semikonduktor. Ratusan perusahaan semikonduktor tanpa pabrik di seluruh dunia bergantung pada layanan pabrikan, dan model ini sangat mendorong perkembangan industri.
 
-**Pembentukan Ulang Ekosistem Industri:**
-Model pure-play foundry membentuk ulang ekosistem industri semikonduktor, memajukan spesialisasi pembagian kerja profesional, meningkatkan efisiensi industri, juga menurunkan ambang inovasi, memungkinkan lebih banyak perusahaan berpartisipasi desain chip.
+**Pembentukan Ekosistem Industri:**
+Model manufaktur murni membentuk kembali ekosistem industri semikonduktor, mempromosikan spesialisasi pembagian kerja, meningkatkan efisiensi industri, dan menurunkan hambatan inovasi, memungkinkan lebih banyak perusahaan berpartisipasi dalam desain chip.
 
-**Pembentukan Rantai Pasok Global:**
-TSMC menjadi simpul kunci rantai pasok semikonduktor global, menyediakan jasa manufaktur bagi perusahaan teknologi seluruh dunia, membangun rantai pasok industri semikonduktor benar-benar global.
+**Pembangunan Rantai Pasokan Global:**
+TSMC menjadi simpul kunci dalam rantai pasokan semikonduktor global, menyediakan layanan manufaktur untuk perusahaan teknologi di seluruh dunia, membangun rantai pasokan industri semikonduktor yang benar-benar global.
 
-### Dorongan Kemajuan Teknologi
+### Mendorong Kemajuan Teknologi
 
 **Kepemimpinan Teknologi Proses:**
-Di bawah kepemimpinan Morris Chang, TSMC di bidang teknologi proses mempertahankan kepemimpinan global, mendorong kemajuan teknologi seluruh industri semikonduktor, melanjutkan kehidupan Hukum Moore.
+Di bawah kepemimpinan Morris Chang, TSMC mempertahankan posisi terdepan secara global dalam teknologi proses, mendorong kemajuan teknologi seluruh industri semikonduktor dan melanjutkan vitalitas Hukum Moore.
 
 **Demokratisasi Proses Canggih:**
-Jasa proses canggih TSMC memungkinkan perusahaan desain skala kecil juga bisa menggunakan teknologi terbaru, mewujudkan "demokrasi" proses canggih — startup fabless berpuluh orang pun bisa minta TSMC memproduksi massal chip 7nm.
+Layanan proses canggih dari TSMC memungkinkan perusahaan desain yang lebih kecil untuk menggunakan teknologi terbaru, mewujudkan "demokratisasi" proses canggih—bahkan startup Fabless dengan beberapa puluh orang dapat memproduksi chip 7 nm di TSMC.
 
-**Pembukaan Bidang Teknologi Baru:**
-Kemampuan manufaktur TSMC mencakup chip digital, akselerator AI, semikonduktor otomotif dll bidang aplikasi berbeda, menyediakan fondasi manufaktur bagi berbagai teknologi baru.
+**Ekspansi ke Area Teknologi Baru:**
+Kemampuan manufaktur TSMC mencakup berbagai aplikasi seperti chip digital, akselerator AI, dan semikonduktor otomotif, menyediakan dasar manufaktur untuk teknologi baru yang beragam.
 
-## Makna bagi Taiwan: Pendiri Pulau Teknologi
+## Signifikansi Taiwan: Pendiri Pulau Teknologi
 
 ### Perkembangan Industri Teknologi
 
-**Pembentukan Gunung Suci Pelindung:**
-TSMC disebut "Gunung Suci Pelindung" Taiwan, bukan hanya karena nilai ekonominya masif, tapi karena posisinya kunci di rantai pasok teknologi global. Morris Chang untuk Taiwan membangun kartu strategis paling sulit digantikan di luar pertahanan nasional.
+**Pendirian Gunung Penjaga Negara:**
+TSMC dijuluki "Gunung Penjaga Negara" Taiwan, bukan hanya karena nilai ekonominya yang besar, tetapi juga karena posisinya yang penting dalam rantai pasokan teknologi global. Morris Chang telah membangun batu sandungan strategis yang paling sulit digantikan bagi Taiwan di luar pertahanan negara.
 
-**Pengasuhan Talenta Teknologi:**
-Perkembangan TSMC mengasuh talenta profesional semikonduktor masif, talenta ini tidak hanya menopang perkembangan TSMC, juga menyediakan fondasi talenta bagi seluruh industri teknologi Taiwan.
+**Pengembangan Talenta Teknologi:**
+Perkembangan TSMC telah menghasilkan banyak talenta profesional semikonduktor; talenta-talenta ini tidak hanya mendukung perkembangan TSMC, tetapi juga menyediakan dasar sumber daya manusia untuk seluruh industri teknologi Taiwan.
 
-**Pembentukan Klaster Industri:**
-Berpusat pada TSMC, Taiwan membentuk klaster industri semikonduktor mencakup pemasok peralatan, pemasok material, pabrik packaging/testing, menciptakan nilai industri masif.
+**Pembentukan Kluster Industri:**
+Dengan TSMC sebagai pusatnya, Taiwan membentuk kluster industri semikonduktor yang mencakup pemasok peralatan, pemasok bahan baku, dan pabrik pengemasan/pengujian, menciptakan nilai industri yang sangat besar.
 
-### Kontribusi Perkembangan Ekonomi
+### Kontribusi terhadap Pembangunan Ekonomi
 
-**Kontribusi Penting bagi PDB:**
-TSMC sudah menjadi perusahaan terbesar Taiwan, kontribusinya bagi PDB Taiwan sangat penting. Kesuksesan perusahaan juga mendorong perkembangan industri terkait, menciptakan lapangan kerja masif.
+**Kontribusi Penting pada PDB:**
+TSMC telah menjadi perusahaan terbesar di Taiwan dan memberikan kontribusi yang sangat penting bagi PDB Taiwan. Keberhasilan perusahaan ini juga mendorong perkembangan industri terkait, menciptakan banyak lapangan kerja.
 
-**Tiang Utama Ekspor Perdagangan:**
-Semikonduktor sekitar 1/3 total ekspor Taiwan, kesuksesan TSMC besar meningkatkan posisi Taiwan di perdagangan global, juga memperkuat daya saing ekonomi Taiwan. [^5]
+**Pilar Perdagangan Ekspor:**
+Semikonduktor menyumbang sekitar sepertiga dari total ekspor Taiwan; keberhasilan TSMC telah meningkatkan posisi Taiwan dalam perdagangan global dan memperkuat daya saing ekonomi Taiwan[^17].
 
 **Perbaikan Lingkungan Investasi:**
-Kasus kesuksesan TSMC menarik lebih banyak investasi internasional, memperbaiki lingkungan investasi Taiwan, juga meningkatkan posisi Taiwan di hati investor global.
+Kasus sukses TSMC menarik lebih banyak investasi internasional, memperbaiki lingkungan investasi di Taiwan, dan meningkatkan status Taiwan di mata investor global.
 
 ### Dampak Geopolitik
 
 **Pentingnya Kedaulatan Teknologi:**
-Di lingkungan geopolitik saat ini, teknologi semikonduktor menjadi kartu inti kompetisi kekuatan besar. TSMC menguasai proses paling canggih global, membuat Taiwan memiliki posisi strategis tak tergantikan di masyarakat internasional.
+Dalam lingkungan geopolitik saat ini, teknologi semikonduktor telah menjadi alat perebutan utama antar negara besar. Karena TSMC menguasai proses paling canggih secara global, Taiwan memiliki posisi strategis yang sulit digantikan di panggung internasional.
 
-**Kartu Hubungan Internasional:**
-Posisi kunci TSMC di rantai pasok teknologi global, membuat Taiwan di isu semikonduktor memiliki hak bicara yang harus dihitungkan kekuatan besar. AS, Uni Eropa, Jepang berturut-turut mengundang TSMC bangun fab dengan subsidi, menjelaskan bobot nyata posisi ini.
+**Alat Tawar dalam Hubungan Internasional:**
+Posisi kunci TSMC dalam rantai pasokan teknologi global memberikan Taiwan kekuatan bicara mengenai isu semikonduktor yang harus diperhatikan oleh negara-negara besar. Amerika Serikat, Uni Eropa, dan Jepang secara berurutan menawarkan subsidi untuk mengajak TSMC membangun pabrik, menunjukkan bobot nyata dari posisi ini.
 
 **Pertimbangan Strategi Keamanan:**
-Perhatian negara-negara atas teknologi semikonduktor, juga membuat Taiwan menghadapi tantangan dan peluang keamanan baru. Bagaimana menyeimbangkan kepentingan semua pihak, mempertahankan keunggulan kompetitif TSMC, menjadi salah satu isu inti kebijakan luar negeri dan keamanan Taiwan.
+Perhatian berbagai negara terhadap teknologi semikonduktor juga membuat Taiwan menghadapi tantangan dan peluang keamanan baru. Bagaimana menyeimbangkan kepentingan semua pihak sambil mempertahankan keunggulan kompetitif TSMC adalah salah satu isu inti dalam kebijakan luar negeri dan keamanan Taiwan.
 
-## Sifat Pribadi dan Gaya Kepemimpinan
+## Karakter Pribadi dan Gaya Kepemimpinan
 
-### Gabungan Wawasan Jauh dan Eksekusi
+### Kombinasi Visi dan Eksekusi
 
-**Wawasan Strategis Luar Biasa:**
-Sifat terbesar Morris Chang adalah wawasan strategis luar biasa. Ia mampu menembus tren industri, memprediksi arah perkembangan masa depan, wawasan jauh ini adalah faktor kunci kesuksesan TSMC.
+**Kehebatan Pandangan Strategis:**
+Karakteristik terbesar Morris Chang adalah pandangan strategisnya yang luar biasa. Ia mampu melihat tren industri, memprediksi arah perkembangan di masa depan; visi ini adalah faktor kunci keberhasilan TSMC.
 
-**Kemampuan Eksekusi Pragmatis:**
-Selain wawasan jauh, Morris Chang juga punya kemampuan eksekusi cemerlang. Ia mampu mengubah konsep strategis jadi rencana aksi konkret, dan mengejar setiap detail eksekusi, kemampuan gabungan pemikiran strategis dan eksekusi ini di dunia usaha sangat langka.
+**Kemampuan Eksekusi yang Pragmatis:**
+Selain visi, Morris Chang juga memiliki kemampuan eksekusi yang sangat baik. Ia mampu mengubah konsep strategis menjadi rencana tindakan konkret dan melacak setiap detail pelaksanaan; kombinasi antara pemikiran strategis dan eksekusi ini jarang ditemukan di dunia korporat.
 
-**Sikap Belajar Sepanjang Hayat:**
-Meski usia lanjut, Morris Chang tetap menjaga kebiasaan membaca luas, memperhatikan perkembangan industri. Ia pernah terbuka menyatakan masih belajar sastra, filsafat, sikap ini membuat pemikirannya di usia lanjut tetap tajam.
+**Sikap Belajar Seumur Hidup:**
+Bahkan pada usia lanjut, Morris Chang mempertahankan kebiasaan membaca luas dan mengikuti perkembangan industri. Ia secara rutin membaca dua buku bahasa Inggris setiap bulan, dan ia tidak pernah berhenti membaca _New Yorker_ selama tujuh puluh tahun; ia sendiri mengatakan bahwa buku-buku itu "bukan sastra." Sikap ini menjaga pikirannya tetap tajam di masa tua.
 
-### Ciri-ciri Gaya Kepemimpinan
+### Ciri Khas Gaya Kepemimpinan
 
 **Kepemimpinan Karismatik:**
-Morris Chang memiliki karisma pribadi dan daya meyakinkan kuat, mampu menginspirasi tim berjuang untuk tujuan bersama. Pidato dan tulisannya selalu mampu ungkapkan konsep kompleks dengan jelas, sangat dihormati karyawan dan orang industri.
+Morris Chang memiliki daya tarik pribadi dan kemampuan persuasi yang kuat, mampu memotivasi tim untuk bekerja menuju tujuan bersama. Pidato dan tulisannya selalu menyampaikan konsep yang kompleks dengan jelas, sehingga sangat dihormati oleh karyawan dan profesional industri.
 
-**Keteguhan Keputusan Rasional:**
-Menghadapi keputusan mayor, Morris Chang selalu teguh analisis rasional, berbasis fakta dan data membuat penilaian, menghindari emosi atau pertimbangan politik mengganggu kebenaran keputusan.
+**Konsistensi Pengambilan Keputusan Rasional:**
+Ketika menghadapi keputusan besar, Morris Chang selalu berpegang pada analisis rasional, membuat penilaian berdasarkan fakta dan data, menghindari emosi atau pertimbangan politik yang memengaruhi keakuratan pengambilan keputusan.
 
 **Praktik Pemikiran Jangka Panjang:**
-Morris Chang selalu teguh pemikiran jangka panjang, tidak terpengaruh kesulitan atau kepentingan jangka pendek. Saat krisis keuangan 2008 paling dalam, ia tetap setujui anggaran R&D proses canggih, perspektif jangka panjang inilah yang membuat TSMC pasca-krisis justru menarik jarak dengan lawan.
+Morris Chang selalu menjunjung tinggi pemikiran jangka panjang, tidak terpengaruh oleh kesulitan atau keuntungan jangka pendek. Ketika krisis keuangan 2008 mencapai puncaknya, ia tetap menyetujui anggaran R&D untuk proses canggih; sudut pandang jangka panjang inilah yang memungkinkan TSMC justru memperlebar kesenjangan dengan pesaing setelah krisis.
 
 ## Penghargaan dan Pengakuan
 
-### Penghargaan dan Pengakuan Internasional
+### Penghargaan Internasional
 
 **Medali Kehormatan IEEE:**
-Morris Chang memperoleh banyak Medali Kehormatan Institute of Electrical and Electronics Engineers (IEEE), ini adalah pengakuan penting atas kontribusinya di bidang perkembangan teknologi semikonduktor.
+Morris Chang menerima beberapa medali kehormatan dari Institute of Electrical and Electronics Engineers (IEEE), yang merupakan pengakuan penting atas kontribusinya terhadap perkembangan teknologi semikonduktor.
 
-**Doktor Kehormatan Berbagai Negara:**
-Termasuk Universitas Stanford, MIT, Universitas Tsinghua dll banyak universitas ternama menganugerahkan gelar Doktor Kehormatan kepada Morris Chang, mengapresiasi kontribusinya di bidang industri teknologi dan pendidikan.
+**Doktor Honoris Causa dari Berbagai Negara:**
+Beberapa universitas, termasuk Tsinghua University, National Taiwan University, dan National Cheng Kung University, menganugerahkan gelar doktor honoris causa kepada Morris Chang untuk menghargai kontribusinya pada industri teknologi dan pendidikan.
 
 **Penilaian Majalah Bisnis:**
-Morris Chang berkali-kali masuk daftar pemimpin industri teknologi kontemporer teratas versi majalah bisnis internasional seperti _Fortune_, _BusinessWeek_, meneguhkan posisinya di dunia bisnis global.
+Morris Chang berulang kali dicantumkan oleh majalah bisnis internasional seperti _Fortune_ dan _Business Weekly_ sebagai pemimpin industri teknologi terkemuka di era modern, menegaskan posisinya dalam dunia bisnis global.
 
-### Penghargaan Taiwan
+### Penghargaan dari Taiwan
 
 **Penganugerahan Medali Pemerintah:**
-Pemerintah Taiwan menganugerahkan banyak medali penting kepada Morris Chang, mengapresiasi kontribusi luarbiasanya bagi perkembangan ekonomi dan kemajuan teknologi Taiwan.
+Pemerintah Taiwan menganugerahkan beberapa medali penting kepada Morris Chang untuk menghargai kontribusinya yang luar biasa terhadap perkembangan ekonomi dan kemajuan teknologi Taiwan.
 
 **Penghormatan Industri:**
-Morris Chang dihormati industri Taiwan sebagai "Bapak Industri Semikonduktor", pengalaman dan kebijaksanaannya menjadi teladan yang dipelajari pengusaha generasi berikutnya.
+Morris Chang dihormati oleh industri Taiwan sebagai "Bapak Semikonduktor," dan pengalaman serta kebijaksanaannya menjadi teladan bagi para pengusaha muda.
 
-**Pengakuan Dampak Sosial:**
-Selain pencapaian bisnis, dampak sosial Morris Chang juga mendapat pengakuan luas, kontribusinya bagi perkembangan masyarakat Taiwan mendapat penilaian tinggi dari berbagai kalangan.
+**Pengakuan Pengaruh Sosial:**
+Selain prestasi bisnis, pengaruh sosial Morris Chang juga diakui secara luas; kontribusinya terhadap perkembangan masyarakat Taiwan dihargai oleh berbagai kalangan.
 
-## Renungan Filsafat dan Kebijaksanaan Hidup
+## Pemikiran Filosofis dan Kebijaksanaan Hidup
 
-### Pemahaman atas Kesuksesan
+### Pemahaman tentang Kesuksesan
 
-**Gabungan Kemampuan dan Peluang:**
-Morris Chang percaya kesuksesan butuh gabungan kemampuan dan peluang, kemampuan adalah fondasi, tapi juga butuh menangkap momen. Ia menekankan pentingnya persiapan, peluang selalu diserahkan pada orang yang siap.
+**Kombinasi Kekuatan dan Peluang:**
+Morris Chang percaya bahwa kesuksesan memerlukan kombinasi kekuatan (kapabilitas) dan peluang; kekuatan adalah dasarnya, tetapi juga perlu memanfaatkan momen yang tepat. Ia menekankan pentingnya persiapan—kesempatan selalu diberikan kepada mereka yang siap.
 
 **Nilai Ketekunan Jangka Panjang:**
-Ia menekankan pentingnya ketekunan jangka panjang, percaya kesuksesan sejati butuh akumulasi waktu, tidak bisa tergesa-gesa. Kesuksesan TSMC adalah hasil ketekunan jangka panjang.
+Ia menekankan pentingnya ketekunan jangka panjang, percaya bahwa kesuksesan sejati memerlukan akumulasi waktu dan tidak bisa dicapai secara terburu-buru. Keberhasilan TSMC adalah hasil dari ketekunan jangka panjang.
 
-**Keperluasan Inovasi:**
-Morris Chang percaya di industri teknologi, inovasi adalah syarat kelangsungan hidup. Sejarah TSMC membuktikan: selama berhenti terobosan di proses, lawan akan mengisi kekosongan.
+**Keharusan Inovasi:**
+Morris Chang berpendapat bahwa inovasi adalah syarat mutlak untuk bertahan hidup dalam industri teknologi. Sejarah TSMC menunjukkan: selama inovasi proses dihentikan, pesaing akan mengisi kekosongan tersebut.
 
-### Renungan Hidup
+### Refleksi tentang Kehidupan
 
 **Keseimbangan Kerja dan Hidup:**
-Meski karir sangat sukses, Morris Chang juga menekankan pentingnya keseimbangan kerja dan hidup. Ia suka membaca, mendengar musik, hobi-hobi ini menyediakan nutrisi spiritual baginya.
+Meskipun sangat sukses secara profesional, Morris Chang juga menekankan pentingnya keseimbangan kerja dan hidup. Ia menikmati membaca dan mendengarkan musik; hobi ini memberinya nutrisi spiritual.
 
-**Pengambilan Tanggung Jawab Sosial:**
-Morris Chang percaya pengusaha sukses punya tanggung jawab kembali ke masyarakat, ia menyumbang ke Universitas Tsinghua dll lembaga akademik, juga berpartisipasi diskusi kebijakan pendidikan, mengusulkan saran konkret untuk reformasi pendidikan tinggi Taiwan. [^4]
+**Tanggung Jawab Sosial:**
+Morris Chang percaya bahwa pengusaha yang sukses memiliki tanggung jawab untuk memberi kembali kepada masyarakat. Ia memimpin TSMC untuk menyumbang ke lembaga akademis seperti Tsinghua University, dan berpartisipasi dalam diskusi kebijakan pendidikan, memberikan saran spesifik untuk reformasi pendidikan tinggi Taiwan[^18].
 
 **Pentingnya Pewarisan:**
-Ia sangat memperhatikan pewarisan pengetahuan dan pengalaman, tidak hanya mengasuh pewaris internal perusahaan, juga melalui berbagai saluran berbagi pengalaman dan kebijaksanaannya.
+Ia sangat mementingkan pewarisan pengetahuan dan pengalaman, tidak hanya melatih penerus di dalam perusahaan tetapi juga berbagi pengalaman dan kebijaksanaannya melalui berbagai saluran.
 
-## Penilaian Sejarah
+## Evaluasi Sejarah
 
-Saat Morris Chang pensiun 2018, kapitalisasi pasar TSMC melampaui Intel, menjadi perusahaan semikonduktor bernilai tertinggi global. [^5] Ia pakai 31 tahun membuktikan satu proposisi anti-intuisi: sebuah foundry yang **tidak** desain chip sendiri, bisa jadi fondasi manufaktur seluruh era digital.
+Pada tahun 2018 ketika Morris Chang pensiun, kapitalisasi pasar TSMC telah melampaui Intel, menjadikannya perusahaan semikonduktor paling berharga di dunia[^19]. Selama 31 tahun, ia membuktikan proposisi yang tidak intuitif: pabrik manufaktur tanpa merancang chip sendiri dapat menjadi dasar manufaktur untuk seluruh era digital.
 
-Dari Ningbo, Zhejiang ke Harvard, MIT, lagi dari eksekutif TI ke 53 tahun (seharusnya 54) melepaskan kehidupan nyaman AS kembali ke Taiwan, setiap beloknya bukan pilihan mainstream, tapi hasil semuanya menunjuk ke arah yang sama. Posisi TSMC hari ini,既是 hasil kompetisi teknologi semikonduktor,也是 hasil taruhan model bisnis 1987 yang sedikit dipercaya.
+Dari Ningbo, Zhejiang ke Harvard dan MIT, lalu dari eksekutif Texas Instruments hingga meninggalkan kehidupan nyaman di Amerika pada usia 54 tahun untuk kembali ke Taiwan—setiap perubahannya bukanlah pilihan arus utama, tetapi hasilnya selalu mengarah pada satu arah yang sama. Posisi TSMC hari ini adalah hasil persaingan teknologi semikonduktor, dan juga hasil taruhan pada model bisnis yang diragukan oleh sedikit orang pada tahun 1987.
 
-2024 kapitalisasi pasar TSMC tembus NT$ 10 triliun, menjadi salah satu perusahaan teknologi kapitalisasi pasar tertinggi Asia, ini adalah skala yang sulit dibayangkan saat ia taruh taruhan 1987, juga adalah catatan kaki paling jelas hidupnya ini.
+Kapitalisasi pasar TSMC pertama kali melampaui sepuluh triliun Dolar Taiwan pada Juli 2020, dan melampaui dua puluh triliun pada Maret 2024[^20], skala ini sulit dibayangkan ketika ia membuat taruhan pada tahun 1987, dan merupakan catatan paling jelas dari seluruh hidupnya.
 
 ## Bacaan Lanjutan
 
-- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung Suci Pelindung yang didirikan 1987 dengan model pure-play foundry, kini kapitalisasi pasar tembus NT$ 60 triliun, sendiri adalah catatan kaki paling lengkap Morris Chang
-- [Stan Shih (施振榮)](/people/施振榮) — Pendiri Acer yang menjabat Komisaris TSMC 21 tahun, penulis "Kurva Senyum" (微笑曲線); manufaktur "tengah" yang dilakukan TSMC, justru adalah segmen yang dikritik kurva itu, tapi di realita paling bernilai
-- [Terry Gou (郭台銘)](/id/people/terry-gou) — Pengusaha Taiwan lain yang mengubah dunia lewat "OEM", OEM perakitan Foxconn dan pure-play foundry TSMC, adalah dua jalan manufaktur Taiwan ke global
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA 1976 ke Gunung Suci Pelindung, seluruh medan perang industri yang Morris Chang bawa Taiwan masuk
-- [Huang Chung-jen (黃崇仁)](/people/黃崇仁) — Orang yang lari ke Morris Chang saat Powerchip (力晶) hampir digulingkan UMC (聯電) akhir 1990-an, menemanin jalan lain industri semikonduktor Taiwan yang penuh tebing
-- [Transformasi dan Upgrade Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah kasus paling konkret Taiwan dari "Pulau OEM" jadi "Pulau Teknologi", juga koordinat inti transformasi 40 tahun ini
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung Penjaga Negara yang didirikan dengan model manufaktur murni pada tahun 1987 dan kini bernilai lebih dari enam puluh triliun, adalah catatan terlengkap dari Morris Chang.
+- [Shi Zhenrong](/people/施振榮) — Pendiri Foxconn yang mengundang untuk menjadi direktur TSMC selama dua puluh satu tahun, dan penulis "Kurva Senyum"; sementara "manufaktur menengah" yang dilakukan TSMC adalah bagian dari kurva tersebut yang dicemooh tetapi ternyata paling berharga.
+- [Kuo Tsai-ming](/id/people/terry-gou) — Pengusaha Taiwan lainnya yang mengubah dunia melalui "manufaktur murni"; manufaktur perakitan Foxconn dan manufaktur wafer TSMC adalah dua jalan bagi manufaktur Taiwan untuk mencapai globalisasi.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA pada tahun 1976 hingga Gunung Penjaga Negara, Morris Chang secara pribadi membawa seluruh medan perang industri ini ke Taiwan.
+- [Huang Chongren](/people/黃崇仁) — Orang yang datang mencari Morris Chang ketika Powerchip hampir diambil alih oleh United Microelectronics Corporation (UMC) di akhir tahun 1990-an; ia mewakili jalur lain dari semikonduktor Taiwan yang penuh jurang.
+- [Peningkatan Transformasi Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah kasus paling konkret dari transformasi Taiwan dari "Pulau Manufaktur" menjadi "Pulau Teknologi," dan merupakan koordinat inti dari transformasi empat puluh tahun ini.
 
 ---
 
-[^1]: Sun Yun-suan (孫運璿, 1913–2006), pernah menjabat General Manager Taiwan Power Company, Menteri Ekonomi, Premier (1978–1984), masa jabatannya agresif mendorong pengembangan industri semikonduktor dan teknologi, dianggap dorong penting perkembangan industri high-tech Taiwan. Lihat: Wikipedia "Sun Yun-suan" <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+## Referensi
 
-[^2]: Waktu pendirian TSMC dan modal awal. Lihat: TSMC Annual Report 1987. TSMC. <https://investor.tsmc.com/english/annual-reports>
+[^1]: Morris Chang lahir di Ningbo, Zhejiang, Tiongkok pada 10 Juli 1931. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^3]: Morris Chang memperoleh gelar Doktor Teknik Elektro Universitas Stanford 1964. Lihat: Autobiografi Morris Chang (Jilid 2), Farseeing Publishing, 2019. <https://www.books.com.tw/products/0011005569>
+[^2]: Masuk ke Harvard University untuk mempelajari sastra pada tahun 1949, lalu pindah ke MIT Teknik Mesin setahun kemudian. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^4]: Kapitalisasi pasar TSMC 2018 sudah melampaui Intel, menjadi salah satu perusahaan semikonduktor kapitalisasi pasar tertinggi global. Lihat: Wikipedia "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+[^3]: Memperoleh gelar sarjana teknik mesin dari MIT pada tahun 1952. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
 
-[^5]: Morris Chang 5 Juni 2018 resmi pensiun, mengakhiri karir 31 tahun TSMC. Lihat: Wikipedia "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+[^4]: Bekerja di Sylvania selama sekitar tiga tahun dalam manufaktur semikonduktor mulai tahun 1955. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^5]: Bergabung dengan Texas Instruments (TI) sebagai insinyur semikonduktor pada tahun 1958. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^6]: Memperoleh gelar doktor teknik elektro dari Stanford University pada tahun 1964. Lihat: Entri Wikipedia bahasa Inggris "Morris Chang" <https://en.wikipedia.org/wiki/Morris_Chang>.
+
+[^7]: Dipromosikan menjadi Wakil Presiden Grup Texas Instruments dan Manajer Umum Grup Semikonduktor pada tahun 1972. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^8]: Sun Yun-sze (1913–2006), mantan kepala eksekutif kabinet (1978–1984), yang secara aktif mendorong industri semikonduktor dan teknologi. Lihat: Entri Wikipedia tentang "Sun Yun-sze" <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>.
+
+[^9]: TSMC didirikan pada 21 Februari 1987; investasi pemerintah sebesar $70 juta (48.3%), Philips sebesar $40 juta (27.5%), dan swasta sebesar $35 juta (24.2%). Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^10]: Pemegang saham awal TSMC termasuk Philips Belanda. Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^11]: Morris Chang mengajukan model bisnis manufaktur murni (fabless) pada tahun 1987. Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^12]: Sejak dekade 2010-an, TSMC memproduksi prosesor seluler seperti seri A untuk Apple; setelah 2013, ia menjadi pemasok utama chip inti iPhone. Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^13]: TSMC secara bertahun-tahun menginvestasikan sekitar 8% dari pendapatan untuk R&D (persentase sedikit bervariasi berdasarkan laporan tahunan). Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^14]: Morris Chang mengundurkan diri sebagai CEO pada tahun 2005, digantikan oleh Tsai Li-hing. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^15]: Pada tahun 2009, Morris Chang yang berusia 78 tahun kembali dan menjabat sebagai CEO TSMC karena krisis keuangan global. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^16]: Pada tanggal 5 Juni 2018, Morris Chang resmi pensiun; Liu Deyin menjadi Ketua Dewan dan Wei Zhejia menjadi CEO. Lihat: Entri Wikipedia tentang "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>.
+
+[^17]: [Ekonomi Taiwan — Wikipedia Bahasa Mandarin](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F) — Semikonduktor telah menyumbang sekitar sepertiga dari ekspor Taiwan selama bertahun-tahun.
+
+[^18]: [Pencapaian Akademik Korporat: "Akademi Manajemen Teknologi - TSMC Hall" di National Tsing Hua University](https://www.nthu.edu.tw/hotNews/content/708) — TSMC mendonasikan 180 juta Dolar Taiwan untuk membangun Akademi Manajemen Teknologi NTU, yang selesai pada April 2008; donatur adalah TSMC, bukan Morris Chang secara pribadi.
+
+[^19]: Pada tahun 2018 saat Morris Chang pensiun, kapitalisasi pasar TSMC telah melampaui Intel. Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
+
+[^20]: Kapitalisasi pasar TSMC pertama kali melampaui sepuluh triliun Dolar Taiwan pada 21 Juli 2020, dan melampaui dua puluh triliun pada 8 Maret 2024. Lihat: Entri Wikipedia tentang "Taiwan Semiconductor Manufacturing" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>.
 
 _Referensi:_
 
-- [Autobiografi Morris Chang (Jilid 1 + 2)](https://www.books.com.tw/products/0010784799)
-- [Laporan Tahunan TSMC dan Data Resmi](https://investor.tsmc.com/english/annual-reports)
-- [Lembaga Penelitian Teknologi Industri (ITRI)](https://www.itri.org.tw/)
-- [Wikipedia "Morris Chang"](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
-- [Materi Terkait Morris Chang Universitas Tsinghua Nasional](https://www.nthu.edu.tw/)
+- [Biografi Morris Chang (Jilid Atas + Jilid Bawah)](https://www.books.com.tw/products/0010784799)
+- [Laporan Tahunan dan Dokumen Resmi TSMC](https://investor.tsmc.com/english/annual-reports)
+- [Industrial Research Institute (RIIA)](https://www.itri.org.tw/)
+- [Entri Wikipedia tentang "Morris Chang"](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
+- [Dokumen Terkait Morris Chang di National Tsing Hua University](https://www.nthu.edu.tw/)
