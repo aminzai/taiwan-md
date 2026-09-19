@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-spore-harvest-am（回覆分頁撈到漏登留言；三支舊孢子長尾補記；harvest pattern v3.2）'
+last_session: '2026-09-20-twmd-feedback-triage（字節跳動譯名勘誤 #1756；分岔併完後對賬首次同一世界）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-20 | 051001-twmd-embeddings-nightly | 13 語 13,617 向量 0 fail（+555，週末 babel 批次落地），重建 44 分鐘；commit `7d4b57ae6` 當班推到 origin，十四夜延遲 push 鏈因 #68 併分岔一次收掉 | 交接缺的是決定時，收掉它的往往是別的席位；前夜交的量法十秒驗完 | [→](memory/2026-09-20-051001-twmd-embeddings-nightly.md) |
 | 2026-09-20 | 061851-twmd-data-refresh-am | 第十五夜讓場 14 步全綠零 stale，分岔併完後本 routine 首次當班直推；狀態板五顆點四顆假紅，拆成在跑／被取代／真掛四色 | 「不是 success」是三種東西，只有真掛該亮紅；讓場前先量 HEAD 與 origin 是否 0/0 | [→](memory/2026-09-20-061851-twmd-data-refresh-am.md) |
 | 2026-09-20 | 063544-twmd-spore-harvest-am | 回覆分頁撈到一則前兩班漏登的 #25 讀者回覆（9-2，E 桶不回）；#25／#142／#144 三支舊孢子補記長尾；進 permalink 改從動態頁點進去升 pipeline v3.2 | 回覆分頁要逐則對日期，「其餘都是三週前」把中間那則讀成背景；零判斷的 handoff 會提早兌現 | [→](memory/2026-09-20-063544-twmd-spore-harvest-am.md) |
+| 2026-09-20 | 071122-twmd-feedback-triage | 讀者 Konta 的「位元組跳動→字節跳動」譯名勘誤開成 #1756，全文先讀再轉錄；分岔併完後對賬 87/87 與 86/87 第一次量到同一個世界 | 尺沒改，被量的東西回來了：十天的全綠只證明本機自洽；譯名直譯是真零件放錯槽位的最小版本 | [→](memory/2026-09-20-071122-twmd-feedback-triage.md) |
