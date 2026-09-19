@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-19T18:42:37Z",
+  "timestamp": "2026-09-19T22:14:04Z",
   "total": 1124,
   "flagged": 713,
   "files": [
@@ -251,8 +251,8 @@
     },
     {
       "file": "economy/台灣循環經濟與資源再利用.md",
-      "score": 5,
-      "reasons": "未人工審核; 分號12個; 稀薄段落×8"
+      "score": 6,
+      "reasons": "未人工審核; 連續bullet4行; 分號12個; 稀薄段落×8"
     },
     {
       "file": "economy/台灣企業：台泥.md",

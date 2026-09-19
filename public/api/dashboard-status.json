@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T18:42:48.563Z",
+  "generated_at": "2026-09-19T22:14:16.891Z",
   "routines": {
     "fetched_at": "2026-09-20T02:07:42+08:00",
-    "stale_hours": 0.6,
+    "stale_hours": 4.1,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -141,7 +141,7 @@
         "cron": "0 6 * * *",
         "cadence_human": "每天 06:00",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-09-19T06:11:21+08:00",
         "grid14": [
           {
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -208,7 +208,7 @@
         "cadence_human": "每週日 03:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-13T03:30:32+08:00",
+        "last_fire": "2026-09-20T03:26:49+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -264,7 +264,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -274,7 +274,7 @@
         "cadence_human": "每天 05:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-19T05:07:24+08:00",
+        "last_fire": "2026-09-20T05:10:01+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -330,7 +330,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -670,7 +670,7 @@
         "cadence_human": "每天 05:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-19T05:39:00+08:00",
+        "last_fire": "2026-09-20T05:38:57+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -726,7 +726,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -736,7 +736,7 @@
         "cadence_human": "每週日 04:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-13T04:24:23+08:00",
+        "last_fire": "2026-09-20T04:22:20+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -792,7 +792,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -1306,35 +1306,35 @@
     {
       "ts": "2026-07-05",
       "level": "yellow",
-      "text": "免疫 v3=58：漂移 — 多維度退化中，最大缺口 review_coverage=19（少 20.25 分）",
+      "text": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=19（少 20.25 分）",
       "source": "dashboard-immune.json"
     }
   ],
   "deploys": [
     {
-      "ts": "2026-09-19T18:20:08Z",
+      "ts": "2026-09-19T22:03:36Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: twmd-weekly-report-sun @ 2026-09-20 02:04 — W38 週…"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-20 05:10 — 13 語…"
     },
     {
-      "ts": "2026-09-19T18:14:22Z",
+      "ts": "2026-09-19T21:57:10Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
+    },
+    {
+      "ts": "2026-09-19T21:57:10Z",
       "conclusion": "success",
-      "title": "Routine stall alert: Routine stall alert"
+      "title": "Engineering contracts: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
     },
     {
-      "ts": "2026-09-19T18:04:12Z",
+      "ts": "2026-09-19T21:42:36Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: twmd-babel-nightly @ 2026-09-20 00:30 — 分岔 merge …"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-09-20 05:38 — 分岔併完後第 54 …"
     },
     {
-      "ts": "2026-09-19T17:27:25Z",
-      "conclusion": "failure",
-      "title": "Engineering contracts: 🧬 [routine] twmd-news-lens-weekly: 探測器接回後第一次自轉——電價機制、拔河、李灝宇三條零覆蓋入列，9/…"
-    },
-    {
-      "ts": "2026-09-19T17:27:25Z",
+      "ts": "2026-09-19T21:40:57Z",
       "conclusion": "success",
-      "title": "Python tests: 🧬 [routine] twmd-news-lens-weekly: 探測器接回後第一次自轉——電價機制、拔河、李灝宇三條零覆蓋入列，9/…"
+      "title": "PR Content Review: translate(ar): 紙風車劇團 → paper-windmill-theater"
     }
   ]
 }

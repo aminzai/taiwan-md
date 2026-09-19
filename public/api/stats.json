@@ -1,8 +1,8 @@
 {
-  "totalArticles": 13726,
+  "totalArticles": 13748,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 8981,
+  "totalTags": 8994,
   "categories": [
     {
       "name": "es",
@@ -22,15 +22,15 @@
     },
     {
       "name": "ja",
-      "count": 1027
+      "count": 1035
     },
     {
       "name": "vi",
-      "count": 1105
+      "count": 1107
     },
     {
       "name": "hi",
-      "count": 1011
+      "count": 1014
     },
     {
       "name": "ru",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 1011
+      "count": 1013
     },
     {
       "name": "ar",
-      "count": 1051
+      "count": 1054
     },
     {
       "name": "pt",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 829
+      "count": 833
     },
     {
       "name": "Lifestyle",
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13726,
+    "zh-TW": 13748,
     "en": 0
   },
-  "lastUpdated": "2026-09-19T18:42:26.365Z",
+  "lastUpdated": "2026-09-19T22:13:50.767Z",
   "stars": 1182,
   "forks": 186,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
     "en": 1108,
-    "ja": 1027,
+    "ja": 1035,
     "ko": 1106,
     "es": 1104,
     "fr": 1105,
-    "vi": 1105,
-    "id": 1011,
+    "vi": 1107,
+    "id": 1013,
     "pt": 1077,
-    "hi": 1011,
-    "ar": 1051,
+    "hi": 1014,
+    "ar": 1054,
     "ru": 1068,
-    "de": 829
+    "de": 833
   },
   "enPages": 1108,
   "totalPages": 1122

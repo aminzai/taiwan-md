@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T05:55:59+08:00",
-    "zhCommitHead": "7d4b57ae6",
+    "lastUpdated": "2026-09-20T06:13:43+08:00",
+    "zhCommitHead": "a8adcd6ec",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 901,
+        "fresh": 903,
         "stale": 104,
         "metadata_stale": 28,
-        "missing": 91,
+        "missing": 89,
         "orphan": 0
       },
       "ko": {
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1035,
+        "fresh": 1036,
         "stale": 59,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 981,
-        "stale": 62,
+        "fresh": 982,
+        "stale": 61,
         "metadata_stale": 64,
         "missing": 17,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 63,
         "metadata_stale": 15,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       },
       "ru": {
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 814,
-        "stale": 15,
+        "fresh": 815,
+        "stale": 14,
         "metadata_stale": 4,
         "missing": 291,
         "orphan": 0
@@ -4025,18 +4025,16 @@
         "vi": {
           "path": "vi/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-08-09T12:06:28+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "f11ac976",
           "translationLastModified": "2026-09-09T18:36:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/mayday-band.md",
@@ -33918,8 +33916,8 @@
           "sourceContentHash": "sha256:7881c6e8b38a5fa7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-19T20:42:12.988810+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10ad329e",
+          "translationLastModified": "2026-09-20T05:55:59+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -39396,8 +39394,8 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "174a83b6",
-          "translationLastModified": "2026-09-10T05:31:49+08:00",
+          "translationLastCommit": "10ad329e",
+          "translationLastModified": "2026-09-20T05:55:59+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -49643,7 +49641,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/tzu-chi-foundation.md",
+          "translatedFrom": "Society/慈濟.md",
+          "sourceCommitSha": "6c39d5c4a",
+          "sourceContentHash": "sha256:c31283732f5c82a4",
+          "sourceBodyHash": "sha256:95652e4e6a2b2202",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/tzu-chi-foundation.md",
@@ -60248,18 +60257,16 @@
         "de": {
           "path": "de/Society/energy-poverty-and-cooling.md",
           "translatedFrom": "Society/冷氣與能源貧窮議題.md",
-          "sourceCommitSha": "2b1523b1c",
-          "sourceContentHash": "sha256:355af10a54c14130",
-          "sourceBodyHash": "sha256:f7547564791748fe",
-          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:089b9a12e2ebe8d8",
+          "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+13 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -90081,8 +90088,8 @@
           "sourceContentHash": "sha256:676de125f3707dd4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-19T20:19:34.846274+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10ad329e",
+          "translationLastModified": "2026-09-20T05:55:59+08:00",
           "inferred": false,
           "footnoteDefs": 54,
           "status": "fresh",
@@ -108216,18 +108223,16 @@
         "fr": {
           "path": "fr/People/hur-plus-band.md",
           "translatedFrom": "People/HUR-plus.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:f585a86608bf6a28",
-          "sourceBodyHash": "sha256:396a9fed148c94a2",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:fdd5821ca0875f61",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-19T21:48:16.377642+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/hur-plus-band.md",
@@ -153360,7 +153365,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-salt-industry.md",
+          "translatedFrom": "History/台灣鹽業.md",
+          "sourceCommitSha": "a61bd414b",
+          "sourceContentHash": "sha256:623c5c57e9b6b622",
+          "sourceBodyHash": "sha256:7e48fca3fca65812",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-salt-industry.md",
@@ -156721,7 +156737,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/kano-chiayi-agriculture-forestry.md",
@@ -180661,8 +180688,8 @@
           "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-19T19:59:37.347685+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10ad329e",
+          "translationLastModified": "2026-09-20T05:55:59+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "fresh",
