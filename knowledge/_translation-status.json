@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T07:48:53+08:00",
-    "zhCommitHead": "88fba3e36",
+    "lastUpdated": "2026-09-20T07:55:25+08:00",
+    "zhCommitHead": "18e4193d9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 61,
+        "fresh": 1035,
+        "stale": 59,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 904,
-        "stale": 104,
+        "fresh": 905,
+        "stale": 103,
         "metadata_stale": 28,
         "missing": 88,
         "orphan": 0
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 989,
+        "fresh": 990,
         "stale": 57,
-        "metadata_stale": 61,
+        "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
       },
@@ -92,24 +92,24 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 981,
-        "stale": 59,
+        "fresh": 982,
+        "stale": 58,
         "metadata_stale": 13,
         "missing": 71,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1018,
-        "stale": 42,
+        "fresh": 1019,
+        "stale": 41,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 819,
-        "stale": 13,
+        "fresh": 820,
+        "stale": 12,
         "metadata_stale": 4,
         "missing": 288,
         "orphan": 0
@@ -25259,8 +25259,8 @@
           "sourceContentHash": "sha256:cb8e72badaad3e3c",
           "sourceBodyHash": "sha256:2f45cbda208db1c2",
           "translatedAt": "2026-09-19T23:22:57.487584+00:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "18e4193d",
+          "translationLastModified": "2026-09-20T07:48:53+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -35269,8 +35269,8 @@
           "sourceContentHash": "sha256:95cf1ca6d1302123",
           "sourceBodyHash": "sha256:a6d8e0ae74d03252",
           "translatedAt": "2026-09-20T00:52:44+08:00",
-          "translationLastCommit": "235bb419",
-          "translationLastModified": "2026-07-30T10:02:54+08:00",
+          "translationLastCommit": "18e4193d",
+          "translationLastModified": "2026-09-20T07:48:53+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -66978,30 +66978,30 @@
         "en": {
           "path": "en/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-07-25T12:45:14+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-20T00:52:34+08:00",
           "translationLastCommit": "b41d3660",
           "translationLastModified": "2026-07-25T19:42:13+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-07-25T21:33:42+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
           "translationLastCommit": "bc251e0d",
           "translationLastModified": "2026-07-26T03:40:42+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/About/taiwan-official-resources.md",
@@ -67104,44 +67104,44 @@
         "ar": {
           "path": "ar/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-07-27T09:40:33+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-07-27T09:40:34+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-20T00:52:48+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
           "translationLastCommit": "723152cd",
           "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -86672,18 +86672,16 @@
         "vi": {
           "path": "vi/People/ahn-ji-hyun.md",
           "translatedFrom": "People/安芝儇.md",
-          "sourceCommitSha": "859d7316",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b13816d98f58f322",
           "sourceBodyHash": "sha256:56208a71719992d2",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 2,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/ahn-ji-hyun.md",
@@ -152824,18 +152822,16 @@
         "en": {
           "path": "en/History/prehistoric-era-and-indigenous-peoples.md",
           "translatedFrom": "History/史前時代與原住民.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:4a4d8e8b71bb4388",
-          "sourceBodyHash": "sha256:518e01925b760cf5",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "a1eb11f45",
+          "sourceContentHash": "sha256:3b733793cef0fe14",
+          "sourceBodyHash": "sha256:e6a1e14a24970623",
+          "translatedAt": "2026-09-19T23:49:45.480576+00:00",
           "translationLastCommit": "19e5cf0e",
           "translationLastModified": "2026-07-16T16:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+5 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/prehistoric-era-and-indigenous-peoples.md",
