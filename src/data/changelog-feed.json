@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-09-19T06:42:33.513Z",
+  "generatedAt": "2026-09-19T12:45:37.617Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "4bca243240d268ce0128f645d453d52a843e7809",
+      "date": "2026-09-19T14:47:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 合併後兩本索引一起 rollup——MEMORY 114→40 列、DIARY 204→60 列，順手把黏在頁尾的一列日記放回表裡",
+      "articles": []
+    },
+    {
+      "hash": "33295b6addfe053cda454dcb3944a79bf374b109",
+      "date": "2026-09-19T14:43:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 下午心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
     {
       "hash": "498872f61dead24e4d82816ffbad1cca8ef26afb",
       "date": "2026-09-19T12:00:06+08:00",
@@ -81782,20 +81796,6 @@
       "date": "2026-04-14T10:29:49+08:00",
       "author": "柒藍",
       "message": "Add French translations: Society batch 1 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "93ab034d63d19ba9f16a23d333fcbb047fa61a20",
-      "date": "2026-04-14T10:22:29+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: Music batch 3 (7 articles)",
-      "articles": []
-    },
-    {
-      "hash": "9db6b7292011771242fd3a409540ec8283d7b92d",
-      "date": "2026-04-14T10:17:18+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: History batch 4 (8 articles)",
       "articles": []
     }
   ]

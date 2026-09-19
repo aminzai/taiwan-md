@@ -3,33 +3,9 @@
   "total_en": 1108,
   "coverage_en": 8.8,
   "categories": {
-    "hi": {
-      "zh": 1007,
+    "fr": {
+      "zh": 1104,
       "en": 0
-    },
-    "id": {
-      "zh": 1010,
-      "en": 0
-    },
-    "ru": {
-      "zh": 1068,
-      "en": 0
-    },
-    "Culture": {
-      "zh": 114,
-      "en": 112
-    },
-    "de": {
-      "zh": 819,
-      "en": 0
-    },
-    "ar": {
-      "zh": 1051,
-      "en": 0
-    },
-    "Food": {
-      "zh": 89,
-      "en": 87
     },
     "es": {
       "zh": 1103,
@@ -39,65 +15,89 @@
       "zh": 1106,
       "en": 0
     },
-    "fr": {
-      "zh": 1104,
-      "en": 0
-    },
-    "Geography": {
-      "zh": 82,
-      "en": 80
-    },
-    "ja": {
-      "zh": 1019,
-      "en": 0
-    },
-    "vi": {
-      "zh": 1103,
+    "ar": {
+      "zh": 1051,
       "en": 0
     },
     "pt": {
       "zh": 1077,
       "en": 0
     },
+    "vi": {
+      "zh": 1103,
+      "en": 0
+    },
+    "de": {
+      "zh": 819,
+      "en": 0
+    },
     "Society": {
       "zh": 117,
       "en": 113
     },
-    "People": {
-      "zh": 290,
-      "en": 291
+    "id": {
+      "zh": 1010,
+      "en": 0
     },
-    "Economy": {
-      "zh": 78,
-      "en": 77
+    "ru": {
+      "zh": 1068,
+      "en": 0
     },
-    "Politics": {
-      "zh": 16,
-      "en": 16
+    "hi": {
+      "zh": 1007,
+      "en": 0
     },
-    "Lifestyle": {
-      "zh": 46,
-      "en": 43
-    },
-    "Nature": {
-      "zh": 41,
-      "en": 41
-    },
-    "Art": {
-      "zh": 48,
-      "en": 48
-    },
-    "History": {
-      "zh": 87,
-      "en": 85
+    "ja": {
+      "zh": 1019,
+      "en": 0
     },
     "Technology": {
       "zh": 68,
       "en": 67
     },
+    "Food": {
+      "zh": 89,
+      "en": 87
+    },
+    "Geography": {
+      "zh": 82,
+      "en": 80
+    },
+    "Culture": {
+      "zh": 114,
+      "en": 112
+    },
+    "People": {
+      "zh": 290,
+      "en": 291
+    },
+    "Lifestyle": {
+      "zh": 46,
+      "en": 43
+    },
+    "History": {
+      "zh": 87,
+      "en": 85
+    },
+    "Art": {
+      "zh": 48,
+      "en": 48
+    },
     "Music": {
       "zh": 37,
       "en": 37
+    },
+    "Economy": {
+      "zh": 78,
+      "en": 77
+    },
+    "Nature": {
+      "zh": 41,
+      "en": 41
+    },
+    "Politics": {
+      "zh": 16,
+      "en": 16
     },
     "About": {
       "zh": 9,
