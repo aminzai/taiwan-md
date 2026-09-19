@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-19T22:39:02+08:00",
-    "zhCommitHead": "a42d112ce",
+    "lastUpdated": "2026-09-20T00:02:15+08:00",
+    "zhCommitHead": "dd4f7437b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 100,
         "metadata_stale": 28,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "ko": {
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 58,
+        "fresh": 1037,
+        "stale": 57,
         "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 977,
-        "stale": 62,
-        "metadata_stale": 66,
+        "fresh": 979,
+        "stale": 61,
+        "metadata_stale": 65,
         "missing": 19,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 10,
         "metadata_stale": 4,
-        "missing": 297,
+        "missing": 296,
         "orphan": 0
       }
     },
@@ -5845,7 +5845,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-19T11:59:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8025,18 +8036,16 @@
         "fr": {
           "path": "fr/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-07-31T08:23:54+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
+          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
+          "translatedAt": "2026-09-19T14:44:23.939435+00:00",
           "translationLastCommit": "d5df9d07",
           "translationLastModified": "2026-07-31T09:33:30+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-uniform-invoice.md",
@@ -35436,8 +35445,8 @@
           "sourceContentHash": "sha256:3041eabbe02feebf",
           "sourceBodyHash": "sha256:71f7a0b38a49387b",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -41841,8 +41850,8 @@
           "sourceContentHash": "sha256:b34cbc0681b4b3a1",
           "sourceBodyHash": "sha256:4439d8751309731f",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "5430a11f",
-          "translationLastModified": "2026-09-11T19:11:07+08:00",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -54802,18 +54811,16 @@
         "vi": {
           "path": "vi/Society/pts-public-television-service.md",
           "translatedFrom": "Society/公視.md",
-          "sourceCommitSha": "81f10131f",
-          "sourceContentHash": "sha256:5d55767b0e73ce88",
-          "sourceBodyHash": "sha256:55150dbbe846399a",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:672f8b4df1c422b7",
+          "sourceBodyHash": "sha256:ff708086fed4d9aa",
+          "translatedAt": "2026-09-19T14:46:13.939211+00:00",
           "translationLastCommit": "e7f1ca19",
           "translationLastModified": "2026-08-27T15:57:55+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/pts-public-television-service.md",
@@ -64638,8 +64645,8 @@
           "sourceContentHash": "sha256:154996399630e9d4",
           "sourceBodyHash": "sha256:2e750ef70b22356f",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -67431,8 +67438,8 @@
           "sourceContentHash": "sha256:9c58394edee36ee3",
           "sourceBodyHash": "sha256:d9cb22f28bb753df",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "8c539a47",
-          "translationLastModified": "2026-08-13T02:52:07+08:00",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -80002,7 +80009,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/joeman.md",
+          "translatedFrom": "People/Joeman.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:19eba63c27c61c88",
+          "sourceBodyHash": "sha256:18e7518b3acc71b4",
+          "translatedAt": "2026-09-19T11:59:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/joeman.md",
@@ -91778,18 +91796,16 @@
         "vi": {
           "path": "vi/People/tsai-heipi.md",
           "translatedFrom": "People/蔡黑皮.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
-          "translatedAt": "2026-09-07T01:00:18+08:00",
+          "translatedAt": "2026-09-19T11:59:06+08:00",
           "translationLastCommit": "e75b621d",
           "translationLastModified": "2026-09-10T00:44:33+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/tsai-heipi.md",
@@ -99332,8 +99348,8 @@
           "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
           "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "89b721a3",
-          "translationLastModified": "2026-09-18T21:24:38+08:00",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -187683,8 +187699,8 @@
           "sourceContentHash": "sha256:7af3421e7470e32a",
           "sourceBodyHash": "sha256:5c337ebcf1a5b681",
           "translatedAt": "2026-09-19T11:59:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd4f7437",
+          "translationLastModified": "2026-09-19T22:39:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
