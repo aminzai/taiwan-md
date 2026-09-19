@@ -1,162 +1,179 @@
 ---
-title: 'Movimiento de placas tectónicas y actividad sísmica en Taiwán'
-description: 'Exploración de las características geológicas de Taiwán, situado en la frontera convergente entre la placa euroasiática y la placa del Mar de Filipinas, así como las causas de su frecuente actividad sísmica'
+title: 'Movimiento de placas en Taiwán y actividad sísmica'
+description: 'Explora las características geológicas de Taiwán en la convergencia entre la placa euroasiática y la placa del mar de Filipinas, y las causas de su frecuente actividad sísmica'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
+tags:
+  [
+    'Geología',
+    'movimiento de placas',
+    'sismos',
+    'fallas activas',
+    'desastres naturales',
+  ]
 subcategory: '地形與地質'
-tags: ['Geología', 'Movimiento de placas', 'Sismos', 'Fallas activas', 'Desastres naturales']
-readingTime: 16
-lastVerified: 2026-03-19
-lastHumanReview: false
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-09-19
+lastHumanReview: false
+readingTime: 16
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:ac660158a4c72aea'
-sourceBodyHash: 'sha256:57ab1d8681d0c528'
-translatedAt: '2026-05-20T05:08:32+08:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:e5a1373630fd1073'
+sourceBodyHash: 'sha256:6ce2095cf81ca454'
+translatedAt: '2026-09-19T11:59:04+08:00'
 ---
 
-# Movimiento de placas tectónicas y actividad sísmica en Taiwán
+# Movimiento de placas en Taiwán y actividad sísmica
 
-## Panorama en 30 segundos
+## Resumen en 30 segundos
 
-Taiwán se encuentra en la frontera convergente entre la placa continental euroasiática y la placa del Mar de Filipinas. La violenta colisión de placas ha generado una estructura geológica única y una frecuente actividad sísmica en la isla. En todo el territorio se distribuyen 36 fallas activas: la zona sísmica occidental presenta hipocentros más someros pero afecta zonas densamente pobladas, mientras que la zona sísmica oriental tiene hipocentros más profundos pero una actividad más frecuente.
+Taiwán se encuentra en la convergencia entre la placa euroasiática y la placa del mar de Filipinas, donde la intensa colisión entre placas genera una estructura geológica única y frecuente actividad sísmica. En toda la isla se distribuyen 36 fallas activas, siendo el corredor sísmico del oeste más superficial pero con alta densidad poblacional, y el del este más profundo y activo.
 
-El terremoto del 21 de septiembre de 1999 (magnitud 7.3 en la escala de Richter) fue el desastre sísmico más grave de la historia moderna de Taiwán. El mapa de fallas actualizado en 2021 por el Centro de Investigación Geológica constituye hoy la base fundamental de la planificación de la prevención de desastres. La densidad sísmica de Taiwán se encuentra entre las más altas del mundo, y la isla es también un campo de investigación clave para la tectónica de placas.
+El terremoto de 921 de 1999 (magnitud de Richter 7.3) fue el desastre sísmico más grave de la era moderna en Taiwán; el mapa de fallas actualizado en 2021 por el Centro de Investigación Geológica es la base actual para la planificación de prevención de desastres. Taiwán tiene una de las densidades sísmicas más altas del mundo, y es un importante campo de investigación en tectónica de placas.
 
 Palabras clave: convergencia de placas, fallas activas, zonas sísmicas, falla de Chelungpu, orogénesis
 
 ## Por qué es importante
 
-## La identidad geológica de Taiwán
+### La historia geológica de Taiwán
 
-La existencia misma de Taiwán es un milagro geológico. Hace aproximadamente 5 millones de años, Taiwán era aún un océano. No fue hasta que la placa del Mar de Filipinas comenzó a empujar hacia el noroeste, colisionando con la placa euroasiática, que la isla emergió gradualmente del mar. Este violento proceso geológico continúa hasta hoy, lo que convierte a Taiwán en uno de los mejores escenarios del mundo para el estudio de la tectónica de placas.
+La existencia misma de Taiwán es un milagro geológico. Hace aproximadamente 5 millones de años, Taiwán era un extenso océano hasta que la placa del mar de Filipinas se empujó hacia el noroeste y colisionó con la placa euroasiática, elevando gradualmente la tierra firme. Esta intensa actividad geológica continúa hoy, convirtiendo a Taiwán en uno de los mejores lugares del mundo para estudiar la tectónica de placas.
 
-La colisión de placas avanza a una velocidad de 7-8 centímetros por año, lo que provoca el levantamiento continuo de la superficie de Taiwán y hace que los terremotos sean un destino inevitable de esta isla.
+La colisión de placas avanza a una velocidad de 7-8 cm por año, manteniendo la elevación continua de la superficie terrestre y convirtiendo a los terremotos en un destino ineludible para la isla.
 
-## Vivir sobre una Tierra dinámica
+### Vivir en un planeta dinámico
 
-Para los taiwaneses, los terremotos forman parte del telón de fondo de la vida cotidiana. Desde los códigos de construcción con diseño sismorresistente hasta la educación generalizada en prevención de desastres, la sociedad taiwanesa ha desarrollado una cultura de coexistencia con los sismos. Comprender las características geológicas de Taiwán contribuye a la prevención y mitigación de desastres, y profundiza nuestro conocimiento de esta tierra.
+Para los taiwaneses, los terremotos son parte de la vida cotidiana. Desde los diseños de resistencia sísmica en la normativa de construcción hasta la divulgación educativa en prevención de desastres, la sociedad taiwanesa ha desarrollado una cultura de convivencia con los terremotos. Comprender las características geológicas de Taiwán ayuda a la prevención y mitigación de desastres, y profundiza nuestro conocimiento sobre esta tierra.
 
-Tras el terremoto del 21 de septiembre de 1999, las normas de resistencia sísmica de los edificios de Taiwán fueron revisadas en su totalidad, y el sistema de alerta temprana de terremotos se modernizó progresivamente hasta convertirse en uno de los más avanzados de Asia.
+Tras el terremoto de 921 de 1999, Taiwán revisó completamente la normativa de construcción resistente a sismos, y el sistema de alerta sísmica de Taiwán se convirtió progresivamente en uno de los más avanzados de Asia.
 
-## Tectónica de placas y contexto geológico
+## Estructura tectónica y contexto geológico
 
-## Ubicación geográfica entre dos placas
+### Posición geográfica de la colisión de dos placas
 
-Taiwán se sitúa exactamente en uno de los límites de placas más activos del planeta. Al oeste de Taiwán se encuentra la estable placa euroasiática; al este, la activa placa del Mar de Filipinas. Estas dos placas se empujan mutuamente a una velocidad de aproximadamente 7-8 centímetros por año, equivalente a la velocidad de crecimiento de una uña: aparentemente lenta, pero con una fuerza asombrosa.
+Taiwán se encuentra exactamente en uno de los límites de placas más activos del planeta. Al oeste de Taiwán se encuentra la estable placa euroasiática; al este, la activa placa del mar de Filipinas. Estas dos placas se empujan a una velocidad de aproximadamente 7-8 cm por año, similar al ritmo de crecimiento de las uñas — lento a simple vista, pero con una fuerza impresionante.
 
-En el mar al noreste de Taiwán, la placa del Mar de Filipinas se subduce bajo la placa euroasiática, formando la fosa de Ryukyu. En el mar al sureste, la situación es inversa: la placa euroasiática se subduce bajo la placa del Mar de Filipinas, formando la fosa de Manila. Taiwán se encuentra precisamente en la zona de transición entre estas dos direcciones de subducción opuestas, lo que genera una estructura geológica extremadamente compleja.
+En el noreste del mar de Taiwán, la placa del mar de Filipinas se subduce bajo la placa euroasiática, formando la grieta de Ryukyu; al sureste de Taiwán, ocurre lo contrario, con la placa euroasiática subducida bajo la placa del mar de Filipinas, formando la grieta de Manila. Taiwán se encuentra justo en la zona de transición entre estas dos direcciones opuestas de subducción, creando una estructura geológica extremadamente compleja.
 
-## La orogénesis en curso
+### El proceso de orogénesis
 
-La formación de las montañas de Taiwán es un proceso aún en desarrollo. La Cordillera Central es el producto más directo de la colisión de placas; la mayoría de las cumbres superiores a 3000 metros de altitud se concentran en ella. La orogénesis de Taiwán no es uniforme: la región oriental se eleva aproximadamente 3-4 milímetros al año, mientras que la región occidental es relativamente estable, e incluso algunas zonas costeras están en subsidencia.
+La formación de las montañas de Taiwán es un proceso aún en curso. La Cordillera Central es el producto más directo de la colisión de placas, y la mayoría de las montañas con más de 3,000 metros de altura se concentran allí. La orogénesis en Taiwán no es uniforme: la Cordillera Central y el este de Taiwán se elevan entre varios milímetros y casi un centímetro por año, mientras que el oeste de Taiwán es relativamente estable, e incluso algunas zonas costeras se hunden.
 
-Este "levantamiento asimétrico" explica por qué el este de Taiwán presenta montañas escarpadas y el oeste se caracteriza por llanuras y colinas. El paisaje geográfico de Taiwán sigue en constante evolución: el Taiwán que vemos hoy es radicalmente diferente del que existía hace un millón de años o del que existirá dentro de otro millón.
+Esta "elevación asimétrica" explica por qué el este de Taiwán es montañoso y escarpado, mientras que el oeste es llano y ondulado. El paisaje de Taiwán sigue evolucionando — la Taiwán que vemos hoy es completamente diferente a la de hace un millón de años o a la de dentro de un millón de años.
 
 ## Distribución de las zonas sísmicas de Taiwán
 
-## Zona sísmica occidental: amenaza somera en zonas densamente pobladas
+### Zona sísmica del oeste: amenaza de capas superficiales en zonas densamente pobladas
 
-La zona sísmica occidental abarca toda la región occidental de Taiwán, desde la cuenca de Taipéi hasta la llanura de Pingtung. Esta zona presenta varias características:
+La zona sísmica del oeste abarca toda la región oeste de Taiwán, desde la cuenca de Taipéi hasta la llanura de Pingtung. Esta zona sísmica tiene varias características:
 
-**Hipocentros someros**: la mayoría de los terremotos tienen profundidades focales entre 10 y 20 kilómetros, correspondientes a fallamiento dentro de la corteza terrestre. Aunque los sismos someros no necesariamente alcanzan grandes magnitudes, al estar cerca de la superficie suelen generar sacudidas intensas y daños considerables.
+**Profundidad de los focos**: La mayoría de los terremotos tienen focos entre 10 y 20 km de profundidad, pertenecientes a fallas en la corteza terrestre. Aunque los sismos superficiales no siempre tienen gran magnitud, debido a su proximidad a la superficie suelen causar intensas sacudidas y mayores daños.
 
-**Sistema de fallas complejo**: la zona sísmica occidental alberga múltiples fallas activas, entre ellas la falla de Chelungpu, la falla de Changhua y la falla de Xincheng. La mayoría de estas fallas son inversas, reflejando un entorno tectónico de compresión en dirección este-oeste.
+**Sistema de fallas complejo**: La zona sísmica del oeste contiene múltiples fallas activas, incluyendo la falla de Chelungpu, la falla de Changhua y la falla de Xincheng. La mayoría de estas fallas son de tipo inverso, reflejando un entorno estructural de compresión este-oeste.
 
-**Gran amenaza para la población**: dado que aproximadamente el 80 % de la población de Taiwán vive en la región occidental, cualquier actividad sísmica de gran magnitud en esta zona podría causar graves pérdidas humanas y económicas. El terremoto del 21 de septiembre de 1999 es el ejemplo más elocuente.
+**Amenaza significativa para la población**: Dado que aproximadamente el 80% de la población de Taiwán vive en el oeste, cualquier actividad sísmica de gran magnitud en esta zona podría causar graves heridas y pérdidas económicas. El terremoto de 921 de 1999 es un ejemplo paradigmático.
 
-## Zona sísmica oriental: vibraciones frecuentes por subducción oceánica profunda
+### Zona sísmica del este: vibraciones frecuentes en el océano profundo
 
-La zona sísmica oriental se extiende principalmente desde el mar al este de Taiwán hasta la costa oriental. Sus características son muy diferentes a las de la zona occidental:
+La zona sísmica del este se encuentra principalmente en el océano al este de Taiwán y en tierra en el este de la isla, con características muy distintas a las del oeste:
 
-**Gran variación en la profundidad focal**: se registran desde terremotos someros de pocos kilómetros hasta sismos profundos de 300 kilómetros, formando una banda de distribución sísmica inclinada hacia el oeste, evidencia directa de la subducción de la placa del Mar de Filipinas.
+**Gran variación en profundidad de focos**: Desde sismos superficiales de unos pocos kilómetros hasta sismos profundos de 300 km, formando una zona sísmica inclinada hacia el oeste, lo cual es evidencia de la subducción de la placa del mar de Filipinas.
 
-**Frecuencia sísmica muy elevada**: la frecuencia de terremotos en la región oriental es muy superior a la de la zona occidental, con sismos de diversa magnitud prácticamente todos los días. Sin embargo, debido a la menor densidad de población, el impacto en términos de desastre suele ser menor.
+**Alta frecuencia sísmica**: La frecuencia de sismos en el este de Taiwán es mucho mayor que en el oeste, con sismos de diversas magnitudes casi todos los días. Sin embargo, debido a la menor densidad poblacional, el impacto suele ser menor.
 
-**Riesgo de terremotos con tsunami**: los grandes terremotos en el mar oriental pueden generar tsunamis que amenazan las zonas costeras del este. El terremoto de Taitung del 18 de septiembre de 2022 es un ejemplo típico de la actividad de la zona sísmica oriental.
+**Riesgo de tsunami**: Terremotos de gran magnitud en el océano al este pueden desencadenar tsunamis que amenazan las costas del este. El terremoto de Piscu de 918 de 2022 es un ejemplo típico de actividad en la zona sísmica del este.
 
-## Zona sísmica del noreste: sinfonía de volcanes y terremotos
+### Zona sísmica del noreste: sinfonía de volcanes y sismos
 
-La región noreste de Taiwán, incluida el área metropolitana de Taipéi, está influenciada por la expansión de la cuenca de Okinawa y la actividad volcánica, formando un entorno sísmico singular. El grupo volcánico de Datun, aunque actualmente en estado de reposo, aún presenta una leve actividad sísmica que nos recuerda la amenaza volcánica potencial en el norte de Taiwán.
+En el noreste de Taiwán, incluyendo el área metropolitana de Gran Taipéi, la actividad se ve influenciada por la extensión de la grieta de Okinawa y la actividad volcánica, formando un entorno sísmico único. Aunque el grupo volcánico Dazhun está actualmente en estado de inactividad, aún muestra débiles actividades sísmicas, recordándonos la amenaza volcánica potencial en el norte de Taiwán.
 
 ## Distribución y características de las fallas activas
 
-## Situación actual de las fallas activas
+### Situación actual de las fallas activas
 
-Taiwán cuenta actualmente con 36 fallas activas confirmadas (según la versión más reciente de 2021 del Centro de Investigación Geológica y Administración Minera[^2]), entre las que se incluyen la falla de Milun, la falla de Chishang y la falla de Chelungpu. El antiguo sistema de clasificación por grado de actividad ha sido unificado y eliminado, y actualmente se gestiona mediante un mecanismo de delimitación de zonas geológicamente sensibles. El potencial sísmico de cada falla varía y constituye la base fundamental de la planificación de la prevención de desastres.
+Actualmente se han confirmado 36 fallas activas en Taiwán (según la última edición del Centro de Investigación Geológica del Ministerio de Economía de 2021[^2])，incluyendo la falla de Mialun, la falla de Piscu, la falla de Chelungpu, entre otras. El antiguo sistema de clasificación de actividad se ha cancelado por completo, y ahora se gestiona mediante el mecanismo de delimitación de zonas sensibles geológicas. Las amenazas potenciales de cada falla varían, y son la base fundamental para la planificación de prevención de desastres.
 
-## Restricciones de construcción en zonas de falla
+### Restricciones de construcción en zonas de fallas
 
-Para reducir los daños por terremotos, el gobierno aplica controles estrictos de uso del suelo en las fallas activas. En una franja de 15 metros a cada lado de la línea de afloramiento de la falla (la denominada "zona de falla"), la construcción en terrenos públicos está completamente prohibida, mientras que en terrenos privados se limita a edificaciones de dos plantas y una altura máxima de 7 metros. Aunque esta normativa restringe el desarrollo del suelo, resulta fundamental para proteger la vida de la población.
+Para reducir los daños causados por terremotos, el gobierno ha implementado estrictas regulaciones de uso del suelo en torno a las fallas activas. Dentro del área de 15 metros a ambos lados de la línea de la falla (es decir, la "zona de falla"), se prohíbe completamente la construcción en tierras públicas, y en tierras privadas solo se permite construir de dos pisos o estructuras de menos de 7 metros de altura. Aunque esta normativa limita el desarrollo del suelo, tiene un significado crucial para garantizar la seguridad de la vida de las personas.
 
-## La lección de la falla de Chelungpu
+### Lecciones de la falla de Chelungpu
 
-La falla de Chelungpu fue la falla principal del terremoto del 21 de septiembre de 1999. Con una longitud de aproximadamente 105 kilómetros, el sismo generó un desplazamiento vertical máximo de 8 metros, provocando directamente rupturas superficiales y derrumbes de edificios. Las investigaciones posteriores al terremoto revelaron que los daños más graves se concentraron en un radio de 200 metros en el bloque superior y 100 metros en el bloque inferior de la falla. Este hallazgo influyó directamente en las revisiones posteriores de las normas de construcción.
+La falla de Chelungpu fue la falla principal del terremoto de 921 de 1999, con una longitud de aproximadamente 105 km y un desplazamiento vertical máximo de 8 metros durante el terremoto, causando roturas de la superficie terrestre y el derrumbe de edificios. Tras el terremoto, los estudios revelaron que los daños a edificios eran más graves dentro de un radio de 200 metros por encima y 100 metros por debajo de la falla, un hallazgo que influyó directamente en la posterior revisión de las normativas de construcción.
 
-## Grandes terremotos recientes
+### Eventos sísmicos significativos en la era moderna
 
-**Terremoto de Jiji del 21 de septiembre (21/9/1999)**
+**Terremoto de JiJi 921 (1999/9/21)**
 
-El 21 de septiembre de 1999, a la 1:47 de la madrugada, un terremoto de magnitud 7.3 en la escala de Richter sacudió las cercanías del municipio de Jiji, en el condado de Nantou, con una intensidad máxima de grado 7. El sismo causó 2.415 fallecidos, 11.305 heridos, más de 100.000 edificios total o parcialmente derrumbados y pérdidas económicas directas estimadas en más de 300.000 millones de dólares taiwaneses, convirtiéndolo en el desastre natural más devastador del siglo XX en Taiwán. La ruptura superficial a lo largo de la falla de Chelungpu se extendió aproximadamente 105 kilómetros, con desplazamientos verticales de hasta 8 metros en algunos puntos. El terremoto del 921 impulsó una revisión integral de las normas de resistencia sísmica de los edificios en Taiwán y fortaleció significativamente la capacidad de investigación en ingeniería sísmica, sentando las bases del sistema moderno de protección sísmica de la isla.[^5]
+El 21 de septiembre de 1999, a la 1:47 de la madrugada, estalló un terremoto de magnitud de Richter 7.3 cerca de la ciudad de JiJi en la región de Nantou, con intensidad máxima de 7 grados. Este terremoto causó 2,415 muertos y 11,305 heridos, con más de 100,000 edificios completamente o parcialmente derrumbados, y se estima que las pérdidas económicas directas superaron los 300,000 millones de dólares taiwaneses, convirtiéndolo en el desastre natural con mayor número de víctimas desde la fundación de Taiwán (el terremoto de Hsinchu-Taichung de 1935 con 3,276 muertos sigue siendo el peor del siglo XX)[^5]
 
-**Terremoto de Hualien del 3 de abril (3/4/2024)**
+**Terremoto de Hualien 0403 (2024/4/3)**
 
-El 3 de abril de 2024, a las 7:58 de la mañana, un terremoto de M_L 7.2 (magnitud local) / M_w 7.4 (magnitud de momento) sacudió las aguas orientales de Taiwán (frente a la costa de Hualien), siendo el de mayor magnitud desde el terremoto del 921 de 1999. El sismo causó 13 fallecidos y más de 1.000 heridos, y varios edificios de gran altura en la ciudad de Hualien sufrieron inclinaciones severas. El sendero de Shakadang experimentó un deslizamiento masivo de tierra y rocas provocado por el terremoto, sepultando a varios excursionistas; las operaciones de rescate se prolongaron durante varios días. El sistema de alerta temprana de terremotos de la Administración Central de Meteorología emitió alertas a nivel nacional en aproximadamente 10 segundos tras el sismo principal, constituyendo un caso de verificación operativa importante para los sistemas de alerta temprana (EEW).[^1]
+El 3 de abril de 2024, a las 7:58 de la mañana, estalló un terremoto de magnitud local ML 7.2 / magnitud de momento MW 7.4 cerca de Hualien en el mar de Taiwán, siendo el de mayor magnitud desde el terremoto de 921 de 1999. El terremoto causó 18 muertos y 1,155 heridos, con varios edificios en la ciudad de Hualien severamente inclinados. El sendero de Sanshihkou se desencadenó una gran avalancha de tierra y roca por el terremoto, sepultando a varios visitantes, y las operaciones de rescate se prolongaron durante varios días. El primer aviso del sistema de alerta sísmica estimó la magnitud en 6.2, y dado que la intensidad estimada en la región metropolitana de Taipéi no alcanzó el umbral de 4 grados, no se emitió ninguna alerta, convirtiéndolo en un caso clave para la posterior revisión del sistema de alerta sísmica[^1][^10]
 
-## Sistemas de monitoreo y alerta temprana de terremotos
+## Monitoreo sísmico y sistema de alerta temprana
 
-## Red de monitoreo densa
+### Densada red de monitoreo
 
-Taiwán ha establecido una de las redes de monitoreo sísmico más densas del mundo. El Centro de Monitoreo Sísmico de la Administración Central de Meteorología ha instalado más de 150 estaciones de monitoreo en tiempo real en toda la isla, con un punto de monitoreo por cada 300 kilómetros cuadrados en promedio. Esta red densa permite determinar la ubicación del epicentro y la magnitud en un plazo de 20 a 30 segundos tras la ocurrencia de un terremoto.
+Taiwán ha establecido una de las redes de monitoreo sísmico más densas del mundo. El Centro de Monitoreo Sismológico de la Administración Central Meteorológica, desde su fundación en 1989 con 71 estaciones, se amplió a más de 170 estaciones de monitoreo en tiempo real tras el lanzamiento de la nueva generación de redes en 2012, con un punto de monitoreo cada aproximadamente 200 km².[^1] Esta densa red puede determinar la ubicación y magnitud del epicentro en un plazo de 20-30 segundos después del terremoto.
 
-## Sistema de alerta temprana de terremotos
+### Sistema de alerta temprana de terremotos
 
-El sistema de alerta temprana de terremotos (EEW) de Taiwán es uno de los más avanzados de Asia. Cuando ocurre un sismo fuerte, el sistema puede emitir una alerta entre varios segundos y decenas de segundos antes de la llegada de las ondas sísmicas, ganando un tiempo valioso de evacuación para la población. Aunque el tiempo de alerta es limitado, resulta crucial para trenes de alta velocidad, equipos industriales de precisión y otras aplicaciones clave en la prevención de desastres.
+El sistema de alerta temprana de terremotos (EEW) de Taiwán es uno de los más avanzados de Asia. Cuando ocurre un fuerte terremoto, el sistema puede emitir una alerta varios segundos o decenas de segundos antes de que las ondas sísmicas lleguen, proporcionando un valioso tiempo de evacuación para la población. Aunque el tiempo de alerta es limitado, tiene un valor crucial para la prevención de desastres en trenes de alta velocidad, equipos industriales de alta precisión y otros escenarios críticos.
 
-## Servicio de alerta instantánea de sismos fuertes
+### Servicio de alerta inmediata para terremotos fuertes
 
-El servicio de alerta instantánea de sismos fuertes, puesto en funcionamiento en 2016, emite alertas automáticas a través de televisión, radio y notificaciones móviles cuando la intensidad estimada alcanza el grado 4 o superior. Taiwán fue uno de los primeros países en implementar un sistema de alerta sísmica para toda la población, siendo pionero en la región asiática.
+El servicio de alerta inmediata para terremotos fuertes, puesto en marcha en 2016, emite automáticamente alertas cuando la intensidad estimada alcanza o supera los 4 grados, a través de canales como televisión, radio y notificaciones push en smartphones. Taiwán es uno de los primeros países en establecer un sistema de alerta sísmica para toda la población, y es un pionero en la región de Asia.
 
-## Los terremotos y la sociedad taiwanesa
+## Terremotos y sociedad taiwanesa
 
-## Desarrollo de la tecnología de construcción sismorresistente
+### Desarrollo de tecnologías de construcción resistente a sismos
 
-La tecnología de resistencia sísmica de los edificios de Taiwán se ha perfeccionado progresivamente a través de cada desastre. Desde el diseño estático sismorresistente inicial hasta las actuales tecnologías de aislamiento sísmico y disipación de energía, la capacidad de resistencia sísmica de los edificios taiwaneses ha alcanzado un nivel avanzado a nivel mundial. El amortiguador de masa sintonizada (TMD) del Taipei 101 es una aplicación célebre de la tecnología de disipación de energía sísmica.
+Las tecnologías de construcción resistente a sismos de Taiwán han evolucionado a través de las experiencias acumuladas en cada desastre sísmico. Desde los primeros diseños estáticos de resistencia sísmica hasta las tecnologías actuales de aislamiento y amortiguación, la capacidad de resistencia sísmica de los edificios taiwaneses ha alcanzado un nivel internacional avanzado. El amortiguador de masa torsional (TMD) del edificio Taipei 101 es un ejemplo destacado de la aplicación de tecnologías de amortiguación.
 
-## La formación de una cultura sísmica
+### Formación de una cultura sísmica
 
-La actitud de los taiwaneses hacia los terremotos es a la vez prudente y serena. Desde los simulacros de evacuación sísmica en la escuela primaria hasta la preparación de mochilas de emergencia en el hogar, pasando por la reacción instintiva de "agacharse, cubrirse y sujetarse" durante un sismo, todo ello forma parte de la cultura taiwanesa.
+La actitud de los taiwaneses hacia los terremotos es tanto prudente como tranquila. Desde los ejercicios de evacuación por terremotos en la escuela primaria, la preparación de kits de emergencia en los hogares, hasta la reacción de "agácharse, protegerse, mantenerse quieto" durante un terremoto, todo esto se ha convertido en una parte de la cultura taiwanesa.
 
-La frase "los taiwaneses no le temen a los terremotos" no significa que los taiwaneses sean indiferentes a los sismos, sino que han aprendido a convivir con ellos, reduciendo el riesgo de desastres mediante la ciencia y la tecnología, al tiempo que mantienen un profundo respeto por la naturaleza.
+La frase "los taiwaneses no temen los terremotos" no significa que los taiwaneses desprecien los terremotos, sino que han aprendido a convivir con ellos, respetando la naturaleza y utilizando la ciencia y la tecnología para reducir los riesgos de desastres.
 
-## Contribución a la investigación sísmica internacional
+### Contribuciones internacionales a la investigación sísmica
 
-El entorno geológico singular de Taiwán y su abundante registro sísmico han atraído a investigadores de terremotos de numerosos países para colaborar en estudios. Los resultados de la investigación taiwanesa en campos como el comportamiento de las fallas y la alerta temprana han sido publicados en revistas internacionales, aportando un valor de referencia directo para las prácticas globales de prevención de desastres.
+El entorno geológico de Taiwán es único y los datos sísmicos son abundantes, lo que atrae a investigadores sísmicos de todo el mundo para colaborar en estudios en Taiwán. Los resultados de investigación de Taiwán en áreas como el comportamiento de fallas y alertas tempranas se han publicado en revistas internacionales, y tienen un valor de referencia directo para la práctica de prevención de desastres en todo el mundo.
 
-## Desafíos de cara al futuro
+## Desafíos futuros
 
-## La nueva amenaza del cambio climático
+### Nuevas amenazas del cambio climático
 
-En los últimos años, los científicos han descubierto que el cambio climático podría influir en la actividad sísmica. El aumento de las precipitaciones extremas podría alterar la presión del agua subterránea, afectando a su vez la estabilidad de las fallas. Taiwán necesita incorporar estos nuevos factores de riesgo en la planificación de la prevención de desastres sísmicos.
+En los últimos años, los científicos han descubierto que el cambio climático podría afectar la actividad sísmica. Las lluvias extremas pueden alterar la presión del agua subterránea, afectando así la estabilidad de las fallas. Taiwán necesita incorporar estos nuevos factores de riesgo en la planificación de prevención de desastres sísmicos.
 
-## El doble impacto de la urbanización
+### Doble impacto de la urbanización
 
-El proceso de urbanización de Taiwán tiene un doble impacto: por un lado, el rendimiento sismorresistente de los edificios modernos ha mejorado considerablemente; por otro, la concentración creciente de población y activos hace que las pérdidas potenciales en caso de un gran terremoto sean cada vez mayores. Lograr un equilibrio entre desarrollo y seguridad constituye un desafío a largo plazo para Taiwán.
+El proceso de urbanización de Taiwán trae consigo un doble impacto: por un lado, el rendimiento de resistencia sísmica de los edificios modernos se ha mejorado significativamente; por otro lado, la población y los activos cada vez se concentran más, por lo que si ocurre un gran terremoto, las pérdidas potenciales también serán mayores. Cómo equilibrar el desarrollo y la seguridad es un desafío a largo plazo para Taiwán.
 
-## Oportunidades de innovación tecnológica
+### Oportunidades de innovación tecnológica
 
-Las nuevas tecnologías, como la inteligencia artificial, el análisis de macrodatos y el internet de las cosas, abren nuevas posibilidades para la investigación sísmica y la prevención de desastres. Taiwán está explorando el uso de estas tecnologías para mejorar la predicción de terremotos y los sistemas de alerta temprana, haciendo que el trabajo de prevención de desastres sea más preciso y eficaz.
+Tecnologías emergentes como inteligencia artificial, análisis de big data e Internet de las cosas ofrecen nuevas posibilidades para la investigación sísmica y la prevención de desastres. Taiwán está explorando cómo utilizar estas tecnologías para mejorar la predicción sísmica y el sistema de alerta temprana, haciendo que las actividades de prevención de desastres sean más precisas y efectivas.
 
 ## Referencias
 
-[^1]: Centro de Monitoreo Sísmico de la Administración Central de Meteorología, [Cien preguntas sobre terremotos](https://scweb.cwa.gov.tw/).
-[^2]: Centro de Investigación Geológica y Administración Minera del Ministerio de Asuntos Económicos, [Red de fallas activas del Centro de Investigación Geológica](https://fault.gsmma.gov.tw/) (versión más reciente de 2021, 36 fallas activas).
-[^3]: Departamento de Ciencias Geológicas de la Universidad Nacional de Taiwán, [Actividad sísmica en Taiwán](http://www.gl.ntu.edu.tw/).
-[^4]: Instituto de Ciencias de la Tierra de la Academia Sinica, [Actividad sísmica y estudios tectónicos en la región de Taiwán](https://www.earth.sinica.edu.tw/).
-[^5]: Academia Nacional de Investigación, [Centro Nacional de Investigación en Ingeniería Sísmica](https://www.ncree.narl.org.tw/).
-[^6]: Administración Nacional de Gestión del Territorio del Ministerio del Interior, [Información relacionada con las zonas geológicamente sensibles de fallas activas](https://www.nlmb.gov.tw/).
-[^7]: Centro de Ciencias Sísmicas de Taiwán, [Informes de investigación en ciencias sísmicas](https://tec.earth.sinica.edu.tw/).
-[^8]: Sociedad Geológica de la República de China, [Colección de estudios geológicos de Taiwán](https://www.gst.org.tw/).
-[^9]: Instituto de Geofísica de la Universidad Nacional Central, [Investigación en tectónica de placas y sismología](https://www.gep.ncu.edu.tw/).
+[^1]: [Introducción a las diversas redes de monitoreo](https://scweb.cwa.gov.tw/zh-tw/page/observationnetwork) — Centro de Monitoreo Sismológico de la Administración Central Meteorológica
+
+[^2]: [Red de fallas activas del Centro de Investigación Geológica](https://fault.gsmma.gov.tw/) — Centro de Investigación Geológica del Ministerio de Economía（2021, última edición, 36 fallas activas).
+
+[^3]: [Actividad sísmica de Taiwán](http://www.gl.ntu.edu.tw/) — Departamento de Ciencias de la Tierra de la Universidad Nacional de Taiwán.
+
+[^4]: [Estudios de actividad sísmica y estructura en Taiwán](https://www.earth.sinica.edu.tw/) — Instituto de Ciencias de la Tierra de la Academia Sinica.
+
+[^5]: [Centro Nacional de Ingeniería Sísmica](https://www.ncree.narl.org.tw/) — Instituto Nacional de Investigación Experimental.
+
+[^6]: [Información sobre zonas sensibles geológicas de fallas activas](https://www.nlma.gov.tw/) — Comisión de Gestión de Tierras del Ministerio del Interior.
+
+[^7]: [Informes de investigación sísmica](https://tec.earth.sinica.edu.tw/) — Centro de Ciencias Sísmicas de Taiwán.
+
+[^8]: [Recopilación de investigaciones geológicas de Taiwán](https://www.gst.org.tw/) — Sociedad Geológica de la República de China.
+
+[^9]: [Investigaciones en tectónica de placas y sismología](https://www.gep.ncu.edu.tw/) — Instituto de Geofísica de la Universidad Nacional Central.
+
+[^10]: [Reporte del terremoto de Hualien 0403 de magnitud 7.2: 18 muertos y más de mil heridos, fractura de falla inversa hacia el norte — Reporteros](https://www.twreporter.org/a/taiwan-0403earthquake) — hasta el 25 de abril de 2024, 18 muertos y 1,155 heridos; la primera alerta estimó la magnitud en 6.2, y la región metropolitana de Taipéi no alcanzó la intensidad de 4 grados sin emitir alerta.

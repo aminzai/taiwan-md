@@ -2,9 +2,7 @@
 title: 'Empresas de Taiwán: Grupo Formosa Plastics'
 description: 'El reino petroquímico construido por Wang Yung-ching, el dios de la gestión empresarial de Taiwán, y la leyenda manufacturera de las Cuatro Joyas de Formosa Plastics'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Economía',
@@ -14,15 +12,17 @@ tags:
     'Industrias tradicionales',
     'Cuatro Joyas de Formosa Plastics',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:542041b17da4dbbd'
-sourceBodyHash: 'sha256:81797ae5614d2f0c'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:00c7be1d98e156ab'
+sourceBodyHash: 'sha256:55c1707afcbd7a73'
+translatedAt: '2026-09-19T08:10:10.226494+00:00'
 ---
 
 > **Panorama en 30 segundos**
@@ -156,12 +156,12 @@ La historia del Grupo Formosa Plastics es una síntesis del proceso de industria
 
 ## Referencias
 
-[^1]: [StoryStudio — historia fundacional de Formosa Plastics](https://storystudio.tw/) — Historia de la fundación del Grupo Formosa Plastics, incluida la estructura inicial de accionistas y el contexto de los préstamos de ayuda estadounidense; las fuentes difieren sobre los aportes de cada parte, y no se trató simplemente de una inversión privada de 500.000 nuevos dólares taiwaneses
+[^1]: [StoryStudio — Historia fundacional de Formosa Plastics](https://storystudio.tw/) — Historia de la fundación del grupo Formosa, incluyendo la estructura accionaria inicial y el contexto del préstamo estadounidense; las contribuciones de las partes varían, no se trata solo de una inversión privada de 500.000 NTD
 
-[^2]: [Wikipedia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching nació el 15 de enero de 1917 y falleció el 15 de octubre de 2008, a los 92 años según el cómputo tradicional de edad
+[^2]: [Wikipedia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching nació el 15 de enero de 1917 y falleció el 15 de octubre de 2008, a la edad de 92 años (edad cronológica)
 
-[^3]: [Commercial Times, 13 de enero de 2026 — bono anual de tres meses en las Cuatro Joyas de Formosa Plastics](https://ctee.com.tw/) — Por el desempeño de 2025, Formosa Plastics Group otorgó a sus empleados un bono anual equivalente a tres meses de salario base, reflejando la cultura corporativa del grupo de compartir utilidades
+[^3]: [Commercial Times 13 de enero de 2026 — Bonificación de fin de año de Formosa Plastics en tres meses](https://ctee.com.tw/) — La empresa Formosa pagó a sus empleados una bonificación de fin de año equivalente a tres meses de salario base en 2025, lo que refleja la cultura empresarial del grupo para compartir ganancias
 
-[^4]: [Wikipedia — Grupo Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Las Cuatro Joyas de Formosa Plastics —Formosa Plastics, Nan Ya, Formosa Chemicals & Fibre y Formosa Petrochemical— ocupan en conjunto el primer lugar por ingresos anuales entre las empresas privadas de Taiwán
+[^4]: [Wikipedia — Grupo Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Formosa Plastics (Formosa, Nanya, Formosa Plastics, Formosa Petrochemical) tiene el mayor volumen de ingresos anuales entre las empresas privadas de Taiwán
 
-[^5]: [MoneyDJ — perfil empresarial de Formosa Petrochemical](https://www.moneydj.com/) — La primera unidad de craqueo de nafta del sexto complejo de Mailiao entró en operación en 1998, con lo cual el Grupo Formosa Plastics completó formalmente su integración vertical aguas arriba, media y abajo
+[^5]: [MoneyDJ — Breve descripción de la empresa petroquímica de Formosa](https://www.moneydj.com/) — La primera planta de cracking ligero en Maoli comenzó a operar en 1998, y el grupo Formosa completó oficialmente la integración vertical ascendente y descendente
