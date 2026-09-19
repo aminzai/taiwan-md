@@ -133,14 +133,14 @@
   },
   {
     "title": "台灣當代雕塑發展",
-    "lat": 25.036681,
-    "lng": 121.569998,
+    "lat": 22.999,
+    "lng": 120.227,
     "category": "art",
-    "region": "north",
+    "region": "south",
     "link": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
     "lang": "zh-TW",
     "desc": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
-    "city": "台北"
+    "city": "台南"
   },
   {
     "title": "台灣策展人與藝術文化建構",
@@ -155,8 +155,8 @@
   },
   {
     "title": "台灣藝術教育與學院發展",
-    "lat": 22.999,
-    "lng": 120.227,
+    "lat": 22.991979,
+    "lng": 120.223063,
     "category": "art",
     "region": "south",
     "link": "/art/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E6%95%99%E8%82%B2%E8%88%87%E5%AD%B8%E9%99%A2%E7%99%BC%E5%B1%95",
@@ -9119,6 +9119,17 @@
     "city": "台北"
   },
   {
+    "title": "Taipeh Hauptbahnhof: Die unterirdische Stadt, die Menschen fortschickt, und doch zum Bleiben einlädt",
+    "lat": 25.034491,
+    "lng": 121.562756,
+    "category": "history",
+    "region": "north",
+    "link": "/history/taipei-main-station",
+    "lang": "zh-TW",
+    "desc": "Vom Bahnsteig am Tamsui-Fluss nahe Dadaocheng bis zum 1989 eröffneten vierten unterirdischen Stationsbauwerk: Heute kreuzen sich hier TRA, THSR, Taipei Metro und Taoyuan Airport MRT – ein Ort, der nicht nur Abreise ermöglicht, sondern in Halle, Untergrundpassagen, Bahnsteigen und Bahnhofsbentōs Aufenthalt, Begegnung und städtische Erinnerung stiftet.",
+    "city": "台北"
+  },
+  {
     "title": "Die Hochgebiete Taiwans und die glazialen Relikte",
     "lat": 23.469912,
     "lng": 120.956188,
@@ -10868,17 +10879,6 @@
     "city": "宜蘭"
   },
   {
-    "title": "AC Bukan Barang Mewah: Kemiskinan Energi Taiwan dan Tata Kelola Publik Keamanan Panas Hunian",
-    "lat": 25.02617,
-    "lng": 121.566451,
-    "category": "society",
-    "region": "north",
-    "link": "/society/energy-poverty-and-cooling",
-    "lang": "zh-TW",
-    "desc": "Kemiskinan energi di Taiwan tidak hanya berarti tidak mampu membayar tagihan listrik, tetapi juga mencakup tinggal di rumah tua dengan isolasi buruk, menggunakan peralatan rumah tangga boros energi, takut menyalakan AC, serta terpaksa menukar kesehatan dengan tagihan yang terjangkau di tengah suhu tinggi. Artikel ini merekonstruksi masalah kemiskinan energi Taiwan dari pertemuan pengeluaran energi, kondisi perumahan, dan cedera panas, serta mengusulkan arah kebijakan berpusat pada keamanan panas hunian, diagnosis ke rumah, transformasi komunitas, dan tata kelola data, menjelaskan bagaimana transisi energi dapat menyeimbangkan martabat hidup dan keamanan kesehatan rumah tangga rentan.",
-    "city": "台北"
-  },
-  {
     "title": "Orang Korea di Taiwan: Dari Sekolah Korea Kaohsiung ke Jaringan Hidup di Layar Ponsel",
     "lat": 22.634348,
     "lng": 120.30813,
@@ -11352,6 +11352,17 @@
     "city": "台南"
   },
   {
+    "title": "ブヌン族の小米の年中行事：種子が畑に戻り、時が共同体へと還る",
+    "lat": 23.741139,
+    "lng": 120.693709,
+    "category": "culture",
+    "region": "central",
+    "link": "/ja/culture/bunun-millet-rituals",
+    "lang": "ja",
+    "desc": "ブヌン族の儀式は収穫後に始まるものではなく、播種から除草、貯蔵に至るまでの生活時間そのものです。小米が再び畑に現れるとき、途絶えていた記憶も再接続され始めます。",
+    "city": "南投"
+  },
+  {
     "title": "カポ：猫らしくない猫が、いかに台湾人のチャット言語になったか",
     "lat": 25.033235,
     "lng": 121.559429,
@@ -11603,6 +11614,17 @@
     "lang": "ja",
     "desc": "47号、4年間、写真と文字によって始動した静かな革命——台湾ルポルタージュ文学の起点",
     "city": "桃園"
+  },
+  {
+    "title": "ルカイ族の百合：一輪の花は装飾ではなく、部落が授ける身分である",
+    "lat": 22.682912,
+    "lng": 120.487594,
+    "category": "culture",
+    "region": "south",
+    "link": "/ja/culture/rukai-lily",
+    "lang": "ja",
+    "desc": "屏東霧台では、百合の花は誰もが身に着けられる白い花ではなかった。男性は狩猟で勇士の資格を得、女性は品徳・婚姻・配花儀式を通じて佩用権を得た。貴族の授権、キビと豚肉の贈与交換、七部落による儀式の再演へと、この花が真に守ってきたのは純潔ではなく、誰が部落に認められる資格を持つかという問いである。",
+    "city": "屏東"
   },
   {
     "title": "天燈：1820年の安否を知らせる信号、2019年の326キロの山林ゴミ、同じ平溪の人々が二つの身分を背負う",
@@ -13592,7 +13614,7 @@
     "region": "north",
     "link": "/ja/geography/tectonic-plates-and-seismic-activity",
     "lang": "ja",
-    "desc": "台湾がユーラシアプレートとフィリピン海プレートの境界に位置する地質特性、および頻繁な地震活動の原因について考察する",
+    "desc": "台湾がユーラシアプレートとフィリピン海プレートの境界に位置する地質的特性、および頻繁な地震活動の原因を探る",
     "city": "台北"
   },
   {
@@ -14190,6 +14212,17 @@
     "city": "台北"
   },
   {
+    "title": "海賊王国：模倣の歳月が逆向工程となり、TSMCの信頼の遺伝子に刻まれた",
+    "lat": 25.03431,
+    "lng": 121.569638,
+    "category": "history",
+    "region": "north",
+    "link": "/ja/history/taiwan-piracy-era",
+    "lang": "ja",
+    "desc": "1970年代から1990年代にかけて、台湾は国際メディアから「海賊王国」と呼ばれた。本稿は模倣産業の興亡、「六一二大限」と特別301条がいかに制度転換を強いたかをたどり、TSMCの「顧客と競争しない」という信頼モデルがいかにこの歴史の反転となったかを解説する。",
+    "city": "台北"
+  },
+  {
     "title": "音には住所がない：台湾の放送がいかに国家の喇叭から地域の公共空間へと変わったか",
     "lat": 25.040328,
     "lng": 121.566645,
@@ -14377,14 +14410,14 @@
     "city": "台北"
   },
   {
-    "title": "夜生活とKTV文化",
+    "title": "ナイトライフとKTV文化",
     "lat": 25.03125,
     "lng": 121.566936,
     "category": "lifestyle",
     "region": "north",
     "link": "/ja/lifestyle/nightlife-and-ktv-culture",
     "lang": "ja",
-    "desc": "錢櫃の個室から深夜食堂まで、24時間営業の島の夜生活",
+    "desc": "銭筒（チャイニーズ・タイペイ）の個室から深夜食堂まで、24時間眠らない島の夜の営み",
     "city": "台北"
   },
   {
@@ -14495,6 +14528,17 @@
     "link": "/ja/lifestyle/taiwan-scooter-culture",
     "lang": "ja",
     "desc": "世界で最もバイク密度が高い国は、人々がバイクを愛しているからではない。他の選択肢がないからである。そして今、この島は皮肉にも電動二輪車の世界的な実験場となっている。",
+    "city": "台北"
+  },
+  {
+    "title": "台湾の市場文化：一座の市場が菜を売るだけでなく、都市の記憶をも保存する",
+    "lat": 25.036318,
+    "lng": 121.563066,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/ja/lifestyle/taiwan-traditional-markets-and-market-culture",
+    "lang": "ja",
+    "desc": "日治公設市場、戦後の人口移動、建国市場の移築、そして台北市の電子決済まで。台湾の伝統市場が食料供給、庶民経済、地域関係、そして都市の記憶を同時に負う方法、そして安全・便利・人情の間で次の位置を探す方法を理解する。",
     "city": "台北"
   },
   {
@@ -14960,15 +15004,15 @@
     "city": "台北"
   },
   {
-    "title": "国立公園",
-    "lat": 24.163819,
-    "lng": 121.619988,
+    "title": "国家公園",
+    "lat": 23.473848,
+    "lng": 120.962999,
     "category": "nature",
-    "region": "east",
+    "region": "central",
     "link": "/ja/nature/national-parks",
     "lang": "ja",
-    "desc": "36,197 平方キロメートルの土地に 9 つの国立公園が収まっており、その密度の高さは世界でもトップクラスの保全の奇跡です",
-    "city": "花蓮"
+    "desc": "36,197平方キロメートルの狭隘な土地に9つの国家公園を立ち入れ、その密度は世界トップレベルの保護奇跡",
+    "city": "南投"
   },
   {
     "title": "蘭嶼（ランユー）の生態系：黒潮の辺境が秘める生命の暗号",
@@ -15642,6 +15686,17 @@
     "city": "高雄"
   },
   {
+    "title": "鍾肇政（しょう・ちょうせい／チョン・チャオチェン）：大学学位を取得しなかった一人の人物が、台湾人の長い歴史の流れを書き上げた",
+    "lat": 24.989307,
+    "lng": 121.304953,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/chung-chao-cheng",
+    "lang": "ja",
+    "desc": "1925年、桃園（タオユエン）龍潭（ロンタン）に生まれた鍾肇政は、日本語教育と病気のため台大中文系を中退したが、小学校教師から小説家、編集者、客家（はっか）運動家へと歩みを進めた。『魯冰花（ロビンファ）』で僻地の教育を描き、二つの三部曲で台湾人の歴史記憶を保存した。彼の文学は書棚にとどまらず、龍潭の文学生活園区にも息づいている。",
+    "city": "桃園"
+  },
+  {
     "title": "Cicada：2009年のモーラコット台風から2025年の半球を越える氷河まで、十六年のフィールド録音",
     "lat": 22.027118,
     "lng": 121.543246,
@@ -15981,6 +16036,17 @@
     "lang": "ja",
     "desc": "10歳で北投の酒家で歌い歩き、ミリオンヒットの台湾語歌后となった江蕙。その歌声で台湾庶民文化の地位を書き換えた彼女が、絶頂期に秘密の抗がん闘病のために引退を選んだ。",
     "city": "台北"
+  },
+  {
+    "title": "Joeman：eスポーツ解説者から百万チャンネルへ、レンズの中の長期クリエイター",
+    "lat": 25.006254,
+    "lng": 121.47033,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/joeman",
+    "lang": "ja",
+    "desc": "eスポーツ解説者やMicro-Star製品マネージャーから、開封レビュー、比較、旅行、チーム番組を運営するYouTuberに至るまでのJoeman氏の軌跡は、台湾のYouTuberがトラフィック、分業、信頼性、そして社会的責任の間で自己を調整していく過程を記録しています。",
+    "city": "新北"
   },
   {
     "title": "林義傑（りん・ぎけつ／リン・イージェ）",
@@ -16995,6 +17061,17 @@
     "city": "桃園"
   },
   {
+    "title": "台湾の不在籍投票：返郷コストは見えるが、信頼のコストは計りにくい",
+    "lat": 23.992612,
+    "lng": 121.597123,
+    "category": "politics",
+    "region": "east",
+    "link": "/ja/politics/absentee-voting-taiwan",
+    "lang": "ja",
+    "desc": "台湾の多数の選民は依然として戸籍地で投票する必要がありますが、選務員には限定された職場投票が既に存在し、2026年の地方選挙でも原住民投票の新制が導入されます。9合1選挙で推定8,896種類の選票、郵送・移転・早期投票など様々なリスクを検討し、不在籍投票がどのように返郷のハードルを下げ、選票の保管・秘密投票・公開開票の信頼を再構築するか、そして検証可能な段階的アプローチを比較していきます。",
+    "city": "花蓮"
+  },
+  {
     "title": "議員制度：なぜ立法委員と異なるのか、SNTVが地方政治に残り続けた30年",
     "lat": 25.03652,
     "lng": 121.55794,
@@ -17180,6 +17257,17 @@
     "lang": "ja",
     "desc": "台湾先住民族の土地権利の歴史的背景、法的発展、伝統領域画定の論争、および先住民族転換正義委員会の活動成果を考察する",
     "city": "花蓮"
+  },
+  {
+    "title": "韓国人在台湾：高雄韓僑学校からスマホ画面までの生活ネットワーク",
+    "lat": 22.625806,
+    "lng": 120.293325,
+    "category": "society",
+    "region": "south",
+    "link": "/ja/society/koreans-in-taiwan",
+    "lang": "ja",
+    "desc": "台湾における韓国人は、見られる influencer だけではありません。高雄の老舗コミュニティ、二言語教育、若者交流、留学生、そして家族が共に織り成す日常があります。",
+    "city": "高雄"
   },
   {
     "title": "台湾の長期介護制度の発展",
@@ -17523,14 +17611,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の斜め（スラン）世代——一人多職の生存と選択",
+    "title": "台湾の「斜槓世代」——一人多仕事の生存戦略と選択",
     "lat": 25.035815,
     "lng": 121.570189,
     "category": "society",
     "region": "north",
     "link": "/ja/society/taiwan-slash-generation-multi-job-economy",
     "lang": "ja",
-    "desc": "修士号を得ても台北の一人暮らし用ワンルームの家賃に消えるとき、副業は選択ではなく、生き残るための数学的な問いとなる",
+    "desc": "碩士学位が台北のワンルームの家賃にもならない時代、副業は選択ではなく生存の数学だ",
     "city": "台北"
   },
   {
@@ -18015,17 +18103,6 @@
     "link": "/ja/technology/wikipedia-in-taiwan",
     "lang": "ja",
     "desc": "2007年の台北Wikimania開催から2021年の財団によるグローバルな対応まで、台湾のウィキコミュニティはクラウド上での系統的な浸透と戦うだけでなく、ウィキペディア愛古蹟（Wiki Loves Monuments）・GLAM連携・教育プロジェクトを通じて、台湾の文化遺産・学術的視点・先住民族語を国際社会へ発信し続けている。これは真の姿を守り、文化的レジリエンスを深める長い歩みだ。",
-    "city": "台北"
-  },
-  {
-    "title": "official-websites",
-    "lat": 25.099555,
-    "lng": 121.545346,
-    "category": "resources",
-    "region": "north",
-    "link": "/ja/resources/official-websites",
-    "lang": "ja",
-    "desc": "台湾の公式ウェブサイトは、政府サービスや政策情報を提供するだけでなく、台湾の政治体制、文化発展、社会統治を理解するための重要な窓口です。これらのサイトは、台湾の民主政治の透明性、デジタルガバナンスの進歩度、そして文化の保存と推進への取り組みを反映しています。台湾を研究する、台湾を理解する、あるいは公式情報が必要なすべての方にとって、このリソース大全は最も信頼できる情報源のガイドです。",
     "city": "台北"
   },
   {
@@ -19633,6 +19710,17 @@
     "lang": "zh-TW",
     "desc": "Điều thực sự nâng đỡ nền kinh tế Đài Loan không phải là những tập đoàn lớn bảo vệ quốc gia, mà là 1,71 triệu doanh nghiệp vừa và nhỏ tưởng chừng bình thường nhưng tạo ra 79% cơ hội việc làm, trong đó nhiều \"nhà vô địch ẩn danh\" đang thống trị các thị trường ngách toàn cầu.",
     "city": "彰化"
+  },
+  {
+    "title": "Hoá đơn thống nhất: Cái giấy năm 1951 biến toàn bộ dân số thành cán bộ kiểm tra thuế",
+    "lat": 25.037715,
+    "lng": 121.572375,
+    "category": "economy",
+    "region": "north",
+    "link": "/economy/taiwan-uniform-invoice",
+    "lang": "zh-TW",
+    "desc": "Năm 1951, trưởng Sở Tài chính Nhâm Hiển Quần in mã trúng thưởng lên các hoá đơn, khiến tham vọng của người tiêu dùng thay thế cho quyền lực nhà nước để giám sát xem các cửa hàng có khai báo thuế hay không—chỉ trong một năm, doanh thu thuế kinh doanh tăng vọt 75%. Hơn 70 năm sau đó, hệ thống này sống lâu hơn người sáng chế, thậm chí còn lâu hơn cả chính quyền độc tài thời kỳ đó — cho tới khi 2024, một cuộc tranh cãi về thuật toán mới lần đầu tiên buộc mọi người phải hỏi to: vì sao hệ thống này còn đáng tin cậy?",
+    "city": "台北"
   },
   {
     "title": "Hộp cơm Chishang: Từ hộp gỗ mỏng trên sân ga đến biểu tượng của cơm ngon toàn Đài Loan",

@@ -1,7 +1,372 @@
 {
-  "generatedAt": "2026-09-19T12:45:37.617Z",
+  "generatedAt": "2026-09-19T18:42:26.368Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d5b37f013549729ad58309dc81f6810792f4b662",
+      "date": "2026-09-20T02:19:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: twmd-weekly-report-sun @ 2026-09-20 02:04 — W38 週體檢：分岔已併、三篇各寫兩次、四輪巡邏；外部尺那格跌到 1.2 的同一週真正的外部尺出現三次",
+      "articles": []
+    },
+    {
+      "hash": "5f46a9250a39d7aed5695d5cdea03c80d354004e",
+      "date": "2026-09-20T02:17:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] report: weekly 2026-09-20 — 分岔一個上午併完、三篇各寫兩次、四輪巡邏抓到虛構事件；免疫黃燈第 77 天而真正的外部尺這週出現了三次 — Resend id 01a0bae2-b0fb-7488-8c62-868076e1688d",
+      "articles": []
+    },
+    {
+      "hash": "d5c0cd6cf7a088444066af6776a81e682689ec30",
+      "date": "2026-09-20T02:12:12+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] diagnose: 週體檢前刷新 routine live dump（14 條啟用、4 條關閉），fire-vs-commit 對賬讀的是今天的排程狀態",
+      "articles": []
+    },
+    {
+      "hash": "7cd75e291ee138bcd5838690e0c65bc0b7564157",
+      "date": "2026-09-20T02:12:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 進化規劃 W38 就地 roll——結案兩項（e1 鎖判讀已修、P0-3 補標領取），新進三項（SC 機會缺口榜首疑似機器查詢、INBOX 缺切角時效欄、合併後 git gc 被擋）",
+      "articles": []
+    },
+    {
+      "hash": "753dde91d7c48ff21bdaca2a4b2d1b4556fb827a",
+      "date": "2026-09-20T02:10:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 英文 BIM 條目的標題與描述改成搜尋者打的字——「Building Information Modeling」「construction industry」「case study」三個詞從此在門面上",
+      "articles": []
+    },
+    {
+      "hash": "a416e54f2bf55cb9bf8632237eb06617693db3eb",
+      "date": "2026-09-20T02:03:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: twmd-babel-nightly @ 2026-09-20 00:30 — 分岔 merge 回 origin、三道掛在輪次邊界上的檢查搬到任務路徑、structured 引擎不再翻 subcategory；LESSONS 兩條、#51 補記",
+      "articles": []
+    },
+    {
+      "hash": "2286d4c8093f73409497efdab5abc09a405fc0b1",
+      "date": "2026-09-20T02:02:52+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 收進 09-19 run 的失敗記憶與 cascade 耗盡清單（新增 26 筆，14 篇全在 en/es/fr）",
+      "articles": []
+    },
+    {
+      "hash": "e1e70f96b21c11dd3e8892162cca1708f505d98f",
+      "date": "2026-09-20T02:02:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 日記巴別塔補最新 70 篇 × 5 語（126 篇譯文，nemotron，整合性 audit 1,420 篇 0 critical）",
+      "articles": []
+    },
+    {
+      "hash": "778f33dfea555247fd72aaa8cf06d06fe5167e3d",
+      "date": "2026-09-20T01:26:45+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-news-lens-weekly: 探測器接回後第一次自轉——電價機制、拔河、李灝宇三條零覆蓋入列，9/18 派工的三條兩天內全 ship — 2026-09-20",
+      "articles": []
+    },
+    {
+      "hash": "8165d678fd51f840fc2f1b62722d5eefade4ba27",
+      "date": "2026-09-20T00:52:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: babel 調度器把累計失敗滿八次的文章排到整條佇列最尾——新鮮窗裡只剩一篇難篇時它不再每次重啟都當隊首",
+      "articles": []
+    },
+    {
+      "hash": "bea982d2ab026747ac3335b9a794341c6d0c4a55",
+      "date": "2026-09-20T00:50:38+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: babel 調度器的去重清單改在 claim 時生效、零頭跨語言到齡就 commit；structured 引擎不再翻 subcategory",
+      "articles": []
+    },
+    {
+      "hash": "68969a6fc2df41e88ce20a92d9a955429a89d6d5",
+      "date": "2026-09-20T00:50:36+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] heal: 三篇今晚翻好的譯文把 subcategory 也翻掉了，改回中文原值——分類頁是拿這個值分群，翻過的會掉進「其他」",
+      "articles": []
+    },
+    {
+      "hash": "c44401ddb0bfc4ae95a7ebdb99f1dc57146140ae",
+      "date": "2026-09-20T00:47:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 德文打撈 2 篇擱在工作樹的完稿（dispatcher 換版前結清，verify_one 2/2 過，worker=macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "f8372bc87383eb5add04139832af4d7b3454d435",
+      "date": "2026-09-20T00:47:07+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 印地文打撈 2 篇擱在工作樹的完稿（dispatcher 換版前結清，verify_one 2/2 過，worker=macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "e9cab8100d07a8e3f4fd411c22238bb5c20e84b3",
+      "date": "2026-09-20T00:47:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 法文打撈 2 篇擱在工作樹的完稿（dispatcher 換版前結清，verify_one 2/2 過，worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "a5c765110d19ee45e16d88ee1ab2c1ba42282ef4",
+      "date": "2026-09-20T00:47:04+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 阿拉伯文打撈 7 篇擱在工作樹的完稿（dispatcher 換版前結清，verify_one 7/7 過，worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "93edd49c4f97006127c8081ff8783e436a3dcbe3",
+      "date": "2026-09-20T00:41:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] merge: 把 origin 這一晚的心跳巡邏併回營運機，讓 dispatcher 這 33 個 babel commit 不再堆成下一次分岔",
+      "articles": []
+    },
+    {
+      "hash": "c1d256fc2e7e9e18d7b00fec51bcb0288905deec",
+      "date": "2026-09-20T00:38:55+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "9624ea7be74c65fd7012eb044e9112bcbb7ca8b1",
+      "date": "2026-09-20T00:30:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 4 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "acc6edd4674d8754c6e2c7a1d86db6f80d3b97a9",
+      "date": "2026-09-20T00:02:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 3 篇（unified dispatcher, worker=macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "dd4f7437bc4559e6eaaefc1046307cd063775246",
+      "date": "2026-09-19T22:39:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "a42d112ce85174f2879f42ff3a9c032ab6064e6f",
+      "date": "2026-09-19T22:08:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 4 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "94ef5dc6c86489fef8ea5adcc5bc594c4c782a2d",
+      "date": "2026-09-19T22:07:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 4 篇（unified dispatcher, worker=macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "96d3aa3ef2565173fc9c3165de55f641f649c27f",
+      "date": "2026-09-19T21:45:36+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 8 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "3389eb360c0a06fe424829783028354184b08b7c",
+      "date": "2026-09-19T21:44:24+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "7918f80819780f066a347b4874cf672a69ba7779",
+      "date": "2026-09-19T21:44:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 5 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "f0eaee5f13096e2287c2b36f433644816c62c7ba",
+      "date": "2026-09-19T21:41:51+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 5 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "fe30c12a27ffe950ba369c32b9a9b5e33d637e90",
+      "date": "2026-09-19T21:21:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-19 20:43 — 巡邏第九到第十一篇十一篇十一中、外貿篇把 2024 年寫成 2023 年、狀態板學會讀月排程",
+      "articles": []
+    },
+    {
+      "hash": "e524fd3c4ba2c44f36b2e52a34a07f0ea408c386",
+      "date": "2026-09-19T21:16:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: cross-domain: 營運狀態板學會讀月排程——用語趨勢那條 routine 不再每天被記一次缺席",
+      "articles": []
+    },
+    {
+      "hash": "49f0940828b398bf5b0bf4bcc8bbce19016c9903",
+      "date": "2026-09-19T21:14:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "2e88c5e3193d0386efc6ce3d8dd784357f99aa77",
+      "date": "2026-09-19T21:13:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第十一篇——外貿篇把 2024 年的貿易數字全標成 2023 年，東協出口佔比寫成一半、資通產品那 28% 整類漏掉",
+      "articles": [
+        {
+          "url": "/economy/台灣外貿與全球供應鏈",
+          "name": "台灣外貿與全球供應鏈"
+        }
+      ]
+    },
+    {
+      "hash": "b8f50ebb30e475d146f0681da58b041d9cb51ff4",
+      "date": "2026-09-19T21:08:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第十篇——台灣當代雕塑發展 32 原子錯 15：朱銘死在四月不是五月、鳳凰來儀在大阪萬博不在桃園機場、林舜龍的花博作品是竹種子不是豪華朗機工的機械花、四位雕塑家的媒材全派錯",
+      "articles": [
+        {
+          "url": "/art/台灣當代雕塑發展",
+          "name": "台灣當代雕塑發展"
+        }
+      ]
+    },
+    {
+      "hash": "0f26e4f9492c259bffcb6e773d78f29622277879",
+      "date": "2026-09-19T20:58:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: cross-domain: 巡邏第九篇——官方網站資源的統計數字全是三月手抄快照，改成對得上資料檔的九月快照；收錄的 169 條網址戳過一遍，五條死鏈四改一刪",
+      "articles": [
+        {
+          "url": "/about/台灣官方網站資源",
+          "name": "台灣官方網站資源"
+        }
+      ]
+    },
+    {
+      "hash": "2498b88e3d994f682f2d72646d581ae1792aedf5",
+      "date": "2026-09-19T20:47:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 晚間心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "846dfca0900689d4a18700a8f8e2935c635071eb",
+      "date": "2026-09-19T18:43:21+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "5bfe9182b9cf4f2f2915ca9a61405c1e681d0211",
+      "date": "2026-09-19T16:43:28+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "424adadac1159d2407a5fbb49f864775ceb51d0a",
+      "date": "2026-09-19T16:42:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 11 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "2ea72277fe8c37ca2fbf292aa675d76ff09b635f",
+      "date": "2026-09-19T16:33:14+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "192b4f3c08852bb030776810a217c0a74155e4e2",
+      "date": "2026-09-19T16:31:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "cc1a3c7b050d33207975399bbb7ab31b21b40f14",
+      "date": "2026-09-19T16:30:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "9c07f584343fbbaf883ee4b1e1eb7cf688d19dcc",
+      "date": "2026-09-19T16:24:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 11 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5f5e7220cc353e2fffb358f14058a328d86df411",
+      "date": "2026-09-19T16:21:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 10 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "0edede53d4df2a25bb09ca0b43c50426af01b7cb",
+      "date": "2026-09-19T16:14:51+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "2b212e5b844cd259b4fc55ab33eafa7af4b9e62e",
+      "date": "2026-09-19T16:01:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 9 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "64df00cab1ce96283013079c1e193a508375a9a7",
+      "date": "2026-09-19T16:01:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max3+nemo，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "c37dcc5da28f51a30a352b21aee8079efd091e1d",
+      "date": "2026-09-19T15:29:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "18f3b0c119bc3082c5b7d2a7760d5d8d39ace92b",
+      "date": "2026-09-19T15:28:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 6 篇（unified dispatcher, worker=lagunas+nemo，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "8b6a5151daf3349554ca9edafddfa6c48ae5dd21",
+      "date": "2026-09-19T15:08:38+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "ef68b70c985a335a381eb7dccc322f123f525f9f",
+      "date": "2026-09-19T15:04:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 9 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "8d58e5e1a2651d95a597f28bfc15f0c2aa82da37",
+      "date": "2026-09-19T14:56:45+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 7 篇（unified dispatcher, worker=lagunas+macm4max3+nemo，post-quarantine retry）",
+      "articles": []
+    },
     {
       "hash": "4bca243240d268ce0128f645d453d52a843e7809",
       "date": "2026-09-19T14:47:04+08:00",
@@ -14,6 +379,55 @@
       "date": "2026-09-19T14:43:47+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] heartbeat: 下午心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "fd63cde270c1cbea2445a6808d6dab5a4a630da9",
+      "date": "2026-09-19T14:40:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 5 篇（unified dispatcher, worker=macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "302e517e654a80f0e6fcd1828257f4b9b81f3632",
+      "date": "2026-09-19T14:38:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 6 篇（unified dispatcher, worker=macm4max2+macm4max3+nemo，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "e95a1b4653eed0aa4b700095ba65471837692192",
+      "date": "2026-09-19T14:32:17+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 5 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "8e4744aac1d944095b7045d5d97fd17aa46dc556",
+      "date": "2026-09-19T14:29:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "ea71e4b77d1b14171da683b41aaa317c1afbee7c",
+      "date": "2026-09-19T14:24:12+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "c3f5b7b17e235254a6346a27456ae95f4a6c428c",
+      "date": "2026-09-19T14:19:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "31eb008183082788080b60956c20a20cf0f45b44",
+      "date": "2026-09-19T14:12:03+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=macm4max1+macm4max2）",
       "articles": []
     },
     {
@@ -81397,405 +81811,6 @@
       "date": "2026-04-14T11:23:36+08:00",
       "author": "Che-Yu Wu",
       "message": "Merge pull request #429 from ceruleanstring/429",
-      "articles": []
-    },
-    {
-      "hash": "2cf239be38833e84066246dcd9cbac89a7555bb5",
-      "date": "2026-04-14T11:23:31+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #428 from ceruleanstring/428",
-      "articles": []
-    },
-    {
-      "hash": "9ea9e55502af32f9f9a3bcd144aecb6a79493e9a",
-      "date": "2026-04-14T11:23:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #427 from ceruleanstring/427",
-      "articles": []
-    },
-    {
-      "hash": "d6ca490578726779847d237ca58dcda7dc2f0885",
-      "date": "2026-04-14T11:23:21+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #426 from ceruleanstring/426",
-      "articles": []
-    },
-    {
-      "hash": "d19fd24bb26f0e7bc5c2441f168b51b56e3d34ea",
-      "date": "2026-04-14T11:23:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #425 from ceruleanstring/425",
-      "articles": []
-    },
-    {
-      "hash": "ccf6e709ee8419859dbfb4a818a7a4ffe221fd0e",
-      "date": "2026-04-14T11:23:12+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #419 from ceruleanstring/419",
-      "articles": []
-    },
-    {
-      "hash": "078aba4e065e8a13e5543e641890f0f522f13e15",
-      "date": "2026-04-14T11:23:06+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #418 from ceruleanstring/418",
-      "articles": []
-    },
-    {
-      "hash": "5f5ef9eff3db1720f775e8d2c8566675a1deff4b",
-      "date": "2026-04-14T11:23:01+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #417 from ceruleanstring/417",
-      "articles": []
-    },
-    {
-      "hash": "4dfcd6a87c9765c08fcd209a0f4eeb23801f38f7",
-      "date": "2026-04-14T11:22:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #424 from ceruleanstring/424",
-      "articles": []
-    },
-    {
-      "hash": "c2d4d4b572f0b6b04aca59bbb1a8b7aebc9810c5",
-      "date": "2026-04-14T11:22:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #423 from ceruleanstring/423",
-      "articles": []
-    },
-    {
-      "hash": "d2d1319558360fc6e4cc19fe9614b1015846683d",
-      "date": "2026-04-14T11:22:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #422 from ceruleanstring/422",
-      "articles": []
-    },
-    {
-      "hash": "1ccdad031bfcdb6e51204a1f14970fddf129813b",
-      "date": "2026-04-14T11:22:36+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #421 from ceruleanstring/421",
-      "articles": []
-    },
-    {
-      "hash": "7b520a31e666d2dffa791b07f614ba5acfc57357",
-      "date": "2026-04-14T11:22:31+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #420 from ceruleanstring/420",
-      "articles": []
-    },
-    {
-      "hash": "995bcc5307aef1a8326de10bc6ee851ff0b5f5e2",
-      "date": "2026-04-14T11:22:21+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #415 from ceruleanstring/415",
-      "articles": []
-    },
-    {
-      "hash": "1ab6b6dc01b276253205a90339b78127fb194862",
-      "date": "2026-04-14T11:22:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #414 from ceruleanstring/414",
-      "articles": []
-    },
-    {
-      "hash": "c1737d8f96d533c927581e5000f9750f50302ab6",
-      "date": "2026-04-14T11:22:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #413 from ceruleanstring/413",
-      "articles": []
-    },
-    {
-      "hash": "edb00c4f3c43d239f38e19d365353c586403a18f",
-      "date": "2026-04-14T11:22:06+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #412 from ceruleanstring/412",
-      "articles": []
-    },
-    {
-      "hash": "579b66d3bdb0a82b4e6eb038da7027188d0db2dc",
-      "date": "2026-04-14T11:22:00+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #411 from ceruleanstring/411",
-      "articles": []
-    },
-    {
-      "hash": "181b930c20f84fc349ee28b77d07cf0978dabc30",
-      "date": "2026-04-14T11:21:55+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #410 from ceruleanstring/410",
-      "articles": []
-    },
-    {
-      "hash": "937a727581f94496e52aa4aa4f90beceaeac4b5d",
-      "date": "2026-04-14T11:21:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #409 from ceruleanstring/409",
-      "articles": []
-    },
-    {
-      "hash": "1b8223bec67cb27b4f228ad300a6cb46bc6ccb44",
-      "date": "2026-04-14T11:21:45+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #408 from ceruleanstring/408",
-      "articles": []
-    },
-    {
-      "hash": "6929e1ddbf0d67ab93877dbb1ec8991f1917102b",
-      "date": "2026-04-14T11:21:40+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #407 from ceruleanstring/407",
-      "articles": []
-    },
-    {
-      "hash": "bf23f3df95fdc7b7588ae9ffb7ad2c99846b85f2",
-      "date": "2026-04-14T11:21:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #454 from ceruleanstring/454",
-      "articles": []
-    },
-    {
-      "hash": "c927aaac80689eeca2079cdfdfb31693d84c26c7",
-      "date": "2026-04-14T11:21:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #453 from ceruleanstring/453",
-      "articles": []
-    },
-    {
-      "hash": "8a3744d484dccdf9e136bc09582cea92c773d980",
-      "date": "2026-04-14T11:21:13+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #450 from ceruleanstring/450",
-      "articles": []
-    },
-    {
-      "hash": "30dea531efba3918d9fe3f1fc7452f018ac571d0",
-      "date": "2026-04-14T11:21:08+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #446 from ceruleanstring/446",
-      "articles": []
-    },
-    {
-      "hash": "39873034558c69fe71b005a961d95d042186fae4",
-      "date": "2026-04-14T11:21:03+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #458 from ceruleanstring/458",
-      "articles": []
-    },
-    {
-      "hash": "468d8f978a66d9f5942f87f04a7806af7d6c98a8",
-      "date": "2026-04-14T11:20:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #434 from ceruleanstring/434",
-      "articles": []
-    },
-    {
-      "hash": "60de608c7c6b742cec480df9192271490c182a04",
-      "date": "2026-04-14T11:20:54+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #432 from ceruleanstring/432",
-      "articles": []
-    },
-    {
-      "hash": "52543bddeb79d4a52712ae0da59c16c47d532f4f",
-      "date": "2026-04-14T11:20:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #431 from ceruleanstring/431",
-      "articles": []
-    },
-    {
-      "hash": "1f05c5c5742e3177be804c5fdfbbff647891780e",
-      "date": "2026-04-14T11:20:45+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #444 from ceruleanstring/444",
-      "articles": []
-    },
-    {
-      "hash": "94a0e3eec33c49e78cfad35dd3385ce91ec44e35",
-      "date": "2026-04-14T11:20:40+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #440 from ceruleanstring/440",
-      "articles": []
-    },
-    {
-      "hash": "23040f1e0c4a847eb355b58f0b24be9861994d0c",
-      "date": "2026-04-14T11:20:36+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #406 from ceruleanstring/406",
-      "articles": []
-    },
-    {
-      "hash": "89ada08ced3d7497c03930249f2cf076a174b5a5",
-      "date": "2026-04-14T11:20:31+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #404 from ceruleanstring/404",
-      "articles": []
-    },
-    {
-      "hash": "06ca3280158f2ab4cf0dd98857fe763f870fc7de",
-      "date": "2026-04-14T11:19:57+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge pull request #403 from ceruleanstring (test)",
-      "articles": []
-    },
-    {
-      "hash": "2e0dec5f835a75a0c3bf35d58c659449d00a4951",
-      "date": "2026-04-14T11:19:25+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: _translations.json union merge driver",
-      "articles": []
-    },
-    {
-      "hash": "6b2a1504a80545fda8a703a6470f816f1685f105",
-      "date": "2026-04-14T11:17:56+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #437 from ceruleanstring/ko/music-batch-1-fix",
-      "articles": []
-    },
-    {
-      "hash": "b78b4939cddc786a57484d41e301c874ae6a27c0",
-      "date": "2026-04-14T11:17:36+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #405 from ceruleanstring/ko/lifestyle-batch-1",
-      "articles": []
-    },
-    {
-      "hash": "df044f60bda83c7dc68e761adcd1fae9150f4c03",
-      "date": "2026-04-14T11:16:35+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #402 from ceruleanstring/ko/food-batch-1",
-      "articles": []
-    },
-    {
-      "hash": "6e1291cc074a4815dd4d5950882f14944a7ea6b0",
-      "date": "2026-04-14T11:15:39+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Culture batch 4 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "1f32e9b7ce4b8001b9962d68d217156f4f383385",
-      "date": "2026-04-14T11:14:40+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ζ session 收官 — 58 PR 海嘯診斷 + 工具進化",
-      "articles": []
-    },
-    {
-      "hash": "960b9158b05e23d0f863cf0f30916374eaf73037",
-      "date": "2026-04-14T11:12:03+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Culture batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "455688e6abc5a7341fe9b15d27ab8eb43cbb795d",
-      "date": "2026-04-14T11:10:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: review-pr.sh 三層修復 + bulk-pr-analyze.sh 新工具",
-      "articles": []
-    },
-    {
-      "hash": "edfa3c4e24e8ad6e647b80268a0b5dcc5231466b",
-      "date": "2026-04-14T11:08:34+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Culture batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "dca23d46e4038b559fabcfc9797b073618449017",
-      "date": "2026-04-14T11:06:19+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: About batch 1 (6 articles)",
-      "articles": []
-    },
-    {
-      "hash": "9e232ad28868b82a7e6fc52d0316b5a86f103a9e",
-      "date": "2026-04-14T11:04:50+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Culture batch 1 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "07ca941fda1048d8f15621c772ab5ed1fc273ab4",
-      "date": "2026-04-14T11:00:50+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Technology batch 4 (5 articles)",
-      "articles": []
-    },
-    {
-      "hash": "ad08e30d620e0825e812e42ca1477b67f6a158d5",
-      "date": "2026-04-14T10:58:26+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Technology batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "b4e218d037191a9151aa79dc31ec4af4149607a0",
-      "date": "2026-04-14T10:56:44+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: Nature batch 4 (1 article)",
-      "articles": []
-    },
-    {
-      "hash": "e97a517524ebb63458aa01234bc9a752b1f4be9d",
-      "date": "2026-04-14T10:55:17+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: Nature batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "03344cf909c6e868813183f8dfb603797374261b",
-      "date": "2026-04-14T10:54:26+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Technology batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "17cc0c5b07c543caae919017c485dcccdc5480dc",
-      "date": "2026-04-14T10:51:34+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Technology batch 1 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "53f743ca05c47d23d495234769d4f85360626532",
-      "date": "2026-04-14T10:48:03+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: Nature batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "48d98f2c0bb0dc000e6dd0c68bebb43ef3d9c62f",
-      "date": "2026-04-14T10:45:21+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Society batch 4 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "057557c8747ed8e4d0e379cfc949c233119a8d09",
-      "date": "2026-04-14T10:44:46+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Society batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "fcb181763161fdd2f4d57f0f39c44c60ad8bc46a",
-      "date": "2026-04-14T10:38:31+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Society batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "32560b35af907df44c8790b713a9cd4f3385bb7b",
-      "date": "2026-04-14T10:34:15+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: Nature batch 1 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "20d238892fa7f94ef9d0f0054a2e2f9a05a0c898",
-      "date": "2026-04-14T10:29:49+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: Society batch 1 (8 articles)",
       "articles": []
     }
   ]

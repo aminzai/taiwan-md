@@ -1,12 +1,12 @@
 {
-  "totalArticles": 13699,
+  "totalArticles": 13726,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 8995,
+  "totalTags": 8981,
   "categories": [
     {
       "name": "es",
-      "count": 1103
+      "count": 1104
     },
     {
       "name": "ko",
@@ -14,7 +14,7 @@
     },
     {
       "name": "fr",
-      "count": 1104
+      "count": 1105
     },
     {
       "name": "en",
@@ -22,15 +22,15 @@
     },
     {
       "name": "ja",
-      "count": 1019
+      "count": 1027
     },
     {
       "name": "vi",
-      "count": 1103
+      "count": 1105
     },
     {
       "name": "hi",
-      "count": 1007
+      "count": 1011
     },
     {
       "name": "ru",
@@ -46,7 +46,7 @@
     },
     {
       "name": "id",
-      "count": 1010
+      "count": 1011
     },
     {
       "name": "ar",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 819
+      "count": 829
     },
     {
       "name": "Lifestyle",
@@ -128,7 +128,7 @@
     },
     {
       "name": "YouTuber",
-      "count": 47
+      "count": 48
     },
     {
       "name": "科技與企業",
@@ -144,7 +144,7 @@
     },
     {
       "name": "原住民族",
-      "count": 29
+      "count": 30
     },
     {
       "name": "文學",
@@ -171,6 +171,10 @@
       "count": 25
     },
     {
+      "name": "원주민",
+      "count": 25
+    },
+    {
       "name": "기업",
       "count": 25
     },
@@ -183,10 +187,6 @@
       "count": 24
     },
     {
-      "name": "원주민",
-      "count": 24
-    },
-    {
       "name": "音樂",
       "count": 23
     },
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13699,
+    "zh-TW": 13726,
     "en": 0
   },
-  "lastUpdated": "2026-09-19T12:45:37.406Z",
+  "lastUpdated": "2026-09-19T18:42:26.365Z",
   "stars": 1182,
   "forks": 186,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
     "en": 1108,
-    "ja": 1019,
+    "ja": 1027,
     "ko": 1106,
-    "es": 1103,
-    "fr": 1104,
-    "vi": 1103,
-    "id": 1010,
+    "es": 1104,
+    "fr": 1105,
+    "vi": 1105,
+    "id": 1011,
     "pt": 1077,
-    "hi": 1007,
+    "hi": 1011,
     "ar": 1051,
     "ru": 1068,
-    "de": 819
+    "de": 829
   },
   "enPages": 1108,
   "totalPages": 1122

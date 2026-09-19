@@ -1,8 +1,26 @@
 {
-  "_generated": "2026-09-19T12:46:04.794Z",
+  "_generated": "2026-09-19T18:42:59.121Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣外貿與全球供應鏈",
+        "desc": "從出口導向到供應鏈關鍵節點：台灣如何在美中對抗中維持貿易優勢",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%A4%96%E8%B2%BF%E8%88%87%E5%85%A8%E7%90%83%E4%BE%9B%E6%87%89%E9%8F%88",
+        "date": "2026-09-19T21:13:56+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台灣當代雕塑發展",
+        "desc": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
+        "category": "art",
+        "href": "/art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E9%9B%95%E5%A1%91%E7%99%BC%E5%B1%95",
+        "date": "2026-09-19T21:08:43+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
       {
         "title": "金鐘獎：三台輪了十七年之後，台灣每年替「我們的電視」劃一次線",
         "desc": "2022 年 10 月 22 日，陳亞蘭穿著西裝走上國父紀念館的台，用歌仔戲小生拿下戲劇節目男主角獎，五十七年來第一位女性。這座 1965 年為廣播鑄的鐘，有十七年只在台視、中視、華視三個名字之間輪；後來公視、客家劇、越南演員一個一個走進名單。金鐘每年頒的是演技，真正劃的是一條線：誰算得上台灣的電視，誰還在線外。",
@@ -254,27 +272,18 @@
         "date": "2026-09-07T17:52:24+08:00",
         "readingTime": 18,
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
-      },
-      {
-        "title": "雪山隧道：從「不可能的任務」到台灣工程血淚奇蹟",
-        "desc": "1997 年 12 月 15 日，一場湧水意外險些奪走三百條人命，更讓造價十億的挖掘神器 TBM 成了廢鐵。這座被《大英百科全書》列為全球最艱鉅工程之一的隧道，不只是交通動脈，更是由 25 位殉職者與無數無名英雄，在比鋼還硬的四稜砂岩中鑿出的血淚奇蹟。",
-        "category": "technology",
-        "href": "/technology/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93",
-        "date": "2026-09-07T17:52:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
-        "desc": "尊從國二拍遊戲實況，到 19 歲成為當時台灣最年輕的百萬 YouTuber，再把副頻道也帶過百萬。跨越十四個曆年的資料，記下他面對創作包袱、家人風暴與業配失誤，慢慢長成大人的過程。",
-        "category": "people",
-        "href": "/people/%E5%B0%8A",
-        "date": "2026-09-07T17:52:24+08:00",
-        "readingTime": 11,
-        "image": "/article-images/people/zun-new-home-2025.webp"
       }
     ],
     "en": [
+      {
+        "title": "BIM in Taiwan's Construction Industry: Twelve Years of Case-by-Case Policy, Rewritten by One 18-Month Protocol",
+        "desc": "A case study of Building Information Modeling (BIM) in Taiwan: in 2014 the Public Construction Commission chose case-by-case adoption for public works. Twelve years later a Taiwanese developer in Tokyo shipped REVIT_MCP_study on GitHub, and the pace of construction-industry change stopped waiting for policy.",
+        "category": "technology",
+        "href": "/en/technology/taiwan-bim-construction-tech",
+        "date": "2026-09-20T02:10:40+08:00",
+        "readingTime": 22,
+        "image": "/article-images/technology/freecad-bim-example-2024.webp"
+      },
       {
         "title": "Taiwan's Tech Narrative: 100-Point Chips, 60-Point Microphones",
         "desc": "Taiwan produces 100-point chips but tends to describe them with the tone of a supplier presentation. For the same chip, Qualcomm makes a myth, while MediaTek provides a spec sheet; NVIDIA doesn't make any and earns twice as much profit as its foundry partner. The market has long calculated this 40-point gap, and the bill is printed on net profit margins.",
@@ -321,8 +330,8 @@
         "image": ""
       },
       {
-        "title": "Morris Chang",
-        "desc": "The semiconductor godfather and founder of TSMC, a legendary entrepreneur who transformed the global technology industry with the foundry model.",
+        "title": "Morris Chang (Zhang Zhongmou)",
+        "desc": "Semiconductor patriarch, founder of TSMC, legendary entrepreneur who changed the global tech industry with the wafer foundry model",
         "category": "people",
         "href": "/en/people/tsmc-morris-chang",
         "date": "2026-09-18T21:24:38+08:00",
@@ -535,15 +544,6 @@
         "date": "2026-09-07T17:52:24+08:00",
         "readingTime": null,
         "image": "/article-images/art/jinma-hostel-contemporary-art-museum-2025.webp"
-      },
-      {
-        "title": "Taiwan Folk Music and Songs: From Cultural Theft to Global Recognition",
-        "desc": "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears.",
-        "category": "music",
-        "href": "/en/music/taiwan-folk-music-and-songs",
-        "date": "2026-09-07T17:52:24+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "ja": [
@@ -1908,6 +1908,15 @@
     ],
     "id": [
       {
+        "title": "Televisi Publik: Dari Kutukan 9 Miliar hingga Pengusiran dari Ruang Sidang, 28 Tahun Kemerdekaan Masih Belum Selesai",
+        "desc": "Pada saat PTS mulai siaran pada 1998, Undang-Undang PTS menetapkan anggaran hibah pemerintah yang berkurang setiap tahun, hingga dibekukan pada 9 miliar per tahun; pasal ini mengikat selama 23 tahun. Selama periode ini lahir lima drama unggulan yang mengguncang masyarakat: \"The World Between Us\", \"Seqalu: Formosa 1867\", \"The Teenage Psychic\", \"Wake Up\", dan \"A Touch of Green\". Pada Mei 2023, amandemen membuka kutukan tersebut, anggaran dilipatgandakan menjadi 23 miliar, namun 19 bulan kemudian anggaran dikurangi 1%, dibekukan 25%; setahun kemudian pada Mei 2026, ketua dewan pengarah Hu Yuan-hui diminta keluar dari ruang sidang Legislatif. Selama 28 tahun, PTS membuktikan: membuka kutukan tidak berarti kemerdekaan telah terbangun.",
+        "category": "society",
+        "href": "/id/society/pts-public-television-service",
+        "date": "2026-09-20T00:50:36+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/pts-building-b-2024.webp"
+      },
+      {
         "title": "Banjir 8/7: Bagaimana Banjir Mengubah Kampung dan Negara di Taiwan",
         "desc": "Banjir 8/7 Agustus 1959 menghantam bagian selatan dan tengah Taiwan, menyebabkan 667 kematian, 408 orang hilang, dan lebih dari 300.000 orang menjadi pengungsi. Melalui hujan lebat di Douliu, jembatan yang retak, helikopter militer AS yang memetakan udara, laporan pasca bencana, dan kenangan seorang pekerja wanita yang kembali ke kampung halamannya, banjir 8/7 bukan hanya bencana alam—tetapi juga titik balik bagaimana negara menghitung, menyelamatkan, membangun kembali, dan mengatur kembali kehidupan lokal.",
         "category": "history",
@@ -2166,15 +2175,6 @@
         "href": "/id/people/three-degrees-c-youtuber",
         "date": "2026-09-19T11:51:58+08:00",
         "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Tsai Yen-ming: Ingin Menulis Ulang Wikipedia-nya Sendiri, Pengadilan Pertama Bertanya Siapa yang Memegang Pena Itu",
-        "desc": "Pada 2024, Tsai Yen-ming karena tidak puas dengan isi Wikipedia bahasa Tionghoa yang mencatatkan akuisisi medianya dan hubungan lintas selat, menuntut Wikimedia Taiwan Association mentolerir pengeditan bebasnya; kalah di tingkat pertama dan banding. Perkara ini sekadar berbicara nama baik di permukaan, yang sebenarnya dibongkar adalah batas kekuasaan platform, asosiasi, administrator, dan penyunting anonim.",
-        "category": "people",
-        "href": "/id/people/tsai-eng-meng",
-        "date": "2026-09-19T11:51:58+08:00",
-        "readingTime": 10,
         "image": ""
       }
     ],
@@ -2452,6 +2452,24 @@
     ],
     "hi": [
       {
+        "title": "गुईशान टापू: यीलान के लोगों का रोज़ देखने वाला घर, लेकिन द्वीप पर रहने वाले वापस नहीं जा पाते हैं",
+        "desc": "दादी हुआंग चेन यू ग्वाईशान टापू से तौचेंग चली गईं और तीस साल बाद भी हर रात सपने में द्वीप पर जीवन देखती रहती हैं। दूसरी तरफ के यीलान के लोगों के लिए, गुईशान टापू लानयांग के आठ दृश्यों में पहला स्थान है, यह वह निर्देशांक है जहाँ 'घर आ रहा है' जैसे शियुए सुरंग का निकास होता है; लेकिन जो लोग वास्तव में गुईशान टापू पर रहते थे, उनके लिए यह 1970 के दशक में एक बिना मुआवज़े वाले विस्थापन से छीना गया घर था। देखा जा सकता है, ऊपर नहीं चढ़ सकते; ऊपर जाया जा सकता है, लेकिन रह नहीं सकते। लेखक वू मिनशियान ने इसे 1975 में 'एक ऐसा द्वीप जिसे लोग भूलने वाले हैं' लिखा था, आधा सदी बाद यह भुलाया नहीं गया है, बल्कि परिदृश्य और किंवदंतियों को याद किया जाता है, जो ऊपर रहने वाले लोगों को भुला दिया गया है।",
+        "category": "geography",
+        "href": "/hi/geography/gueishan-island",
+        "date": "2026-09-20T00:50:36+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/guishan-hero.webp"
+      },
+      {
+        "title": "ताइवान की राष्ट्रीय फिल्में: स्क्रीन के बगल में बोलने वाले व्यक्ति और एक मृत फिर जीवित हुई फिल्म का इतिहास",
+        "desc": "1930 के दशक में, थिएटरों में, वक्ता मूक फिल्मों के लिए ताइगोंग (Taiwanese Hokkien) में तात्कालिक संवाद प्रस्तुत करते थे; नौ दशकों बाद, 'सी सेवन' ने पांच भाषाओं को स्क्रीन पर वापस ला दिया। ताइगोंग फिल्में कभी वैश्विक स्तर पर तीसरी सबसे बड़ी फीचर फिल्म उत्पादक थीं लेकिन उन्हें मार दिया गया; वे वर्ष जब नई फिल्में वेनिस में गोल्डन लायन जीतीं, थिएटरों में राष्ट्रीय फिल्मों का बॉक्स ऑफिस केवल 0.36% तक गिर गया था। राष्ट्रीय सिनेमा खराब से अच्छा होने वाली एक सीधी रेखा नहीं है, बल्कि एक ऐसी कहानी है जिसे बार-बार मृत घोषित किया गया और फिर जीवित कर दिया गया।",
+        "category": "art",
+        "href": "/hi/art/taiwanese-cinema",
+        "date": "2026-09-20T00:50:36+08:00",
+        "readingTime": 18,
+        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
+      },
+      {
         "title": "एशिया सीमेंट नई सिटी माउंटेन खडाना: एक पत्र के विलंबित सेवादेणी रद्द, पहाड़ी नीचे के बुनियादी ढाँचे की तरफ़ अभी भी सुरक्षा के जवाब का इंतज़ार",
         "desc": "1957 में खन सेवाएँ प्राप्त, 1974 में खड़ाई शुरू करने वाला हुईलिएन का नई सिटी माउंटेन खडाना, 2017 में एक और 20 वर्ष की खड़ाई की मंज़ूरी प्राप्त की, लेकिन मूल निवासियों की सल्लह मंज़ूरी प्राप्त करने के बिना 2021 में सर्वोच्च प्रशासनकी अदालत द्वारा सेवादेणी रद्द कर दी गई। निर्णय ने प्रक्रिया बदल दी, पर फुसफुसाहट तुरंत रुकी नहीं; 2026 में पर्यावरणीय मूल्यांकन के समय, सुरक्षा, भूमि वापसी और बंद करने की योजना अभी भी बुनियादी ढाँचे द्वारा पूछ रहा है।",
         "category": "history",
@@ -2701,24 +2719,6 @@
         "href": "/hi/culture/indigenous-naming-taiwan",
         "date": "2026-09-10T04:30:04+08:00",
         "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "ताइवान की स्वदेशी बुनाई संस्कृति: पारिवारिक स्मृति को बुनाई में वापस लाना",
-        "desc": "Atayal की जूट, Saisiyat की सदी-पुरानी पोशाक से लेकर Puyuma की अंतर-बुनाई तकनीक तक, समझिए कि ताइवान की स्वदेशी बुनाई कैसे महिलाओं की जीवन, पारिवारिक पैटर्न, जातीय पहचान, अनुष्ठानिक क्रम और समकालीन सांस्कृतिक पुनरुज्जीवन से जुड़ी हुई है। साथ ही, संग्रहालय संग्रह, गांव के प्रशिक्षण और सांस्कृतिक धरोहर प्रणाली की परंपरागत तकनीकों को संरक्षित करने में जिम्मेदारी और सीमाओं की जांच करें।",
-        "category": "culture",
-        "href": "/hi/culture/indigenous-weaving-taiwan",
-        "date": "2026-09-10T04:30:04+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "ताइवान मूल निवासी पारिस्थितिक ज्ञान और पर्यावरण संरक्षण",
-        "desc": "ताइवान के मूल निवासी लोगों द्वारा हज़ारों साल तक संचित पारंपरिक पारिस्थितिक ज्ञान, और आधुनिक पर्यावरण संरक्षण में उसके महत्वपूर्ण मूल्य और व्यावहारिक तरीकों की खोज",
-        "category": "nature",
-        "href": "/hi/nature/taiwanese-indigenous-ecological-wisdom-conservation",
-        "date": "2026-09-10T04:30:04+08:00",
-        "readingTime": 9,
         "image": ""
       }
     ],
