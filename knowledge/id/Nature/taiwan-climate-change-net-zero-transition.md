@@ -30,9 +30,10 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '2da8b92f2'
-sourceContentHash: 'sha256:62ebba53e36804d0'
-translatedAt: '2026-08-05T14:36:18.787132+00:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:e17f8ccac18bf65b'
+sourceBodyHash: 'sha256:65e86904ae441416'
+translatedAt: '2026-09-19T08:43:05.133311+00:00'
 ---
 
 # Krisis Iklim Taiwan dan Transisi Menuju Netral Karbon: Setelah Referendum Nuklir-3 Gagal, Pilihan Batas Fisik Baru Saja Dimulai
@@ -277,41 +278,42 @@ Laporan Ilmiah Perubahan Iklim Nasional 2024 yang dipimpin oleh Hsu Huang-hsiung
 
 Sebagai pulau dengan 23 juta penduduk, emisi karbon Taiwan tidak sebanding secara proporsional: berdasarkan emisi CO₂ dari bahan bakar fosil, emisi tahunan sekitar 280 juta ton, per kapita sekitar 11,7 ton, masuk golongan teratas global; tergantung basis data dan metodologi statistik berbeda, peringkat sekitar dua puluhan teratas global[^8]. Emisi sangat terkonsentrasi pada penggunaan energi dan pasokan listrik, di mana sektor energi mendominasi proporsi tertinggi, struktur pembangkitan tetap menjadi inti tekanan pengurangan karbon. Akar masalah ada pada struktur pembangkitan: dalam struktur pembangkitan Taiwan 2024, gas sekitar 42,4%, batu bara sekitar 39,3%, gas pertama kali melebihi batu bara; energi terbarukan sekitar 11,6%, nuklir sekitar 4,2%[^20]. **Ini adalah sistem energi yang masih sangat bergantung pada bahan bakar fosil, dan 98% energi Taiwan bergantung pada impor. Keamanan energi dan krisis iklim, adalah satu persoalan yang sama**.
 
-## Demokrasi dan Fisika Berjalan Beriringan
+## Paralelisme antara Demokrasi dan Fisika
 
-Pada sore hari 23 Agustus 2025, referandum Nuklir-3 mendorong semua kontradiksi isu ini ke layar penghitungan suara.
+Pemungutan suara nuklir Tiga (Nuklir-3) pada malam 23 Agustus 2025 mendorong semua kontradiksi ini ke layar penghitungan.
 
-74% setuju, 29,53% tingkat partisipasi, tidak melewati ambang batas, Taipower mengajukan dokumen Maret 2026, paling cepat restart 2028. Sementara itu: Lanyu 97.672 drum, Onkalo Finlandia butuh 50 tahun, geothermal ketinggalan 27 kali, energi laut masih di 100 kW, nuklir generasi ke-4 baru 2045. Setiap angka bertanya: **apakah kecepatan demokrasi bisa mengejar kecepatan fisika?**
+74% setuju, tingkat partisipasi 29,53%, tidak mencapai ambang batas, diserahkan oleh Taiwan Power Company (Taipower) pada Maret 2026, dan paling cepat dilanjutkan pada tahun 2028. Sementara itu: 97.672 barel di Lanyu, Onkalo Finlandia menghabiskan 50 tahun, perbedaan panas bumi 27 kali lipat, energi laut masih 100 kW, dan tenaga nuklir generasi keempat baru akan tiba pada 2045. Setiap angka bertanya: **Apakah kecepatan demokrasi dapat mengimbangi kecepatan fisika?**
 
-| Jadwal Demokrasi                        | Jadwal Fisika                                    |
-| --------------------------------------- | ------------------------------------------------ |
-| 2025/08/23 Pemungutan suara referandum  | Lanyu diaktifkan 1982, 2057 mungkin masih ada    |
-| 2025/08/25 Konferensi pers Tiga Prinsip | Limbah nuklir diisolasi 100.000 tahun            |
-| 2026/03/27 Taipower mengajukan dokumen  | Tempat pembuangan akhir Finlandia butuh 50 tahun |
-| 2028 Paling cepat restart               | Geothermal ketinggalan 27 kali                   |
-| 2050 Target netral karbon               | Energi laut masih uji coba 100 kW                |
+| Linimasa Demokrasi                       | Linimasa Fisika                                               |
+| :--------------------------------------- | :------------------------------------------------------------ |
+| Penghitungan pemungutan suara 23/08/2025 | Pengoperasian Lanyu sejak 1982, mungkin masih ada hingga 2057 |
+| Konferensi pers Tiga Prinsip 25/08/2025  | Isolasi limbah nuklir selama 100.000 tahun                    |
+| Penyerahan Taipower 27/03/2026           | Tempat pembuangan akhir di Finlandia membutuhkan 50 tahun     |
+| Paling cepat dilanjutkan pada 2028       | Perbedaan panas bumi 27 kali lipat                            |
+| Target netralitas karbon 2050            | Uji coba energi laut masih 100 kW                             |
 
-Apakah 9 triliun dolar Taiwan bisa membeli masa depan yang berbeda, tidak ada yang tahu. Tapi konsekuensi tidak mengeluarkan uang ini sudah terlihat: 2060 tanpa musim dingin versi Hsu Huang-hsiung, 2.884 milimeter Morakot, pemadaman bergiliran 513, kebocoran referandum terumbu algal, 44 tahun menunggu Lanyu.
+Tidak ada yang tahu apakah 9 triliun dolar Taiwan dapat membeli masa depan yang berbeda. Tetapi konsekuensi dari tidak menggunakan uang ini sudah mulai terlihat: Masa Depan Tanpa Musim Dingin Hsu Huang-hsiung pada tahun 2060, 2.884 milimeter Morak, pembatasan listrik 513, perpecahan pemungutan suara terumbu karang, dan penantian Lanyu selama 44 tahun.
 
-[Laporan PanSci](https://pansci.asia/archives/367417) mengutip konsensus industri menyatakan, **\"Proyek tempat pembuangan akhir tercepat di dunia adalah proyek Onkalo Finlandia, yang memperoleh izin uji coba operasi Agustus 2024. Proyek ini mulai direncanakan pada 1970-an, memakan hampir setengah abad baru mencapai tahap uji coba.\"**[^29]. Tempat pembuangan akhir Taiwan bahkan lokasinya belum ditentukan. Bahkan jika Nuklir-3 restart 2028, setiap batang bahan bakar baru yang dihasilkan selama restart juga harus dicari tempatnya.
+[Laporan PanSci](https://pansci.asia/archives/367417) mengutip konsensus industri yang menyatakan bahwa "rencana Onkalo Finlandia adalah yang paling cepat dalam kemajuan tempat pembuangan akhir global, dengan izin uji coba diperoleh pada Agustus 2024. Proyek ini telah direncanakan sejak tahun 1970-an dan baru mencapai tahap uji coba setelah hampir setengah abad" [^29]. Taiwan bahkan belum menentukan lokasi untuk tempat pembuangan akhirnya. Bahkan jika Nuklir-3 dilanjutkan pada tahun 2028, setiap batang bahan bakar baru yang dihasilkan selama masa peluncuran harus menemukan tempat pembuangan.
 
-97.672 drum di Lanyu tidak akan hilang karena referandum lolos atau tidak. Drum-drum itu ada di sana sekarang, 2029 besar kemungkinan masih di sana, 2057 (jika relokasi tertunda lagi) masih akan di sana.
+97.672 barel di Lanyu tidak akan hilang karena pemungutan suara disetujui atau ditolak. Mereka ada di sana sekarang, kemungkinan masih ada di sana pada tahun 2029, dan mungkin masih ada di sana pada tahun 2057 (jika penempatan ulang tertunda).
 
-✦ **23 Agustus 2025, referandum gagal. 27 Maret 2026, Taipower tetap mengajukan dokumen. Di antara kedua tanggal itu, batas fisika tidak berubah sekali pun. Yang berubah, adalah apakah kita mau mengakui, bahwa pulau ini dengan 98% ketergantungan impor energi, sedang berantre menghadapi semua batas fisika yang tak seorang pun ingin hadapi.**
+✦ **Pada tanggal 23 Agustus 2025, pemungutan suara gagal. Pada tanggal 27 Maret 2026, Taipower tetap mengajukan dokumen. Di antara kedua tanggal ini, batas fisik tidak pernah berubah. Yang berubah adalah apakah kita bersedia mengakui bahwa pulau yang bergantung pada impor energi sebesar 98% ini sedang mengantre menghadapi semua batasan fisik yang tidak ingin dihadapi siapa pun.**
 
 ---
 
 **Bacaan Lanjutan**:
 
-- [Diskusi Taiwan dan Nuklir](/id/society/taiwan-nuclear-debate) — Artikel ini menulis tentang energi dan batas fisika, artikel itu menulis tentang debat nuklir itu sendiri: empat puluh tahun anti-nuklir/pro-nuklir, tiga referandum, dan perdebatan sosial limbah nuklir Lanyu
-- [Sejarah Gerakan Lingkungan Taiwan](/id/nature/taiwan-environmental-movement-history) — Dari anti-nuklir ke anti-polusi udara, bagaimana suku Tao Lanyu, anti-waduk Meinong, referandum terumbu algal membentuk politik energi hari ini
-- [Pengelolaan dan Tantangan Konservasi Pencemaran Laut Taiwan](/id/nature/marine-pollution-governance-and-conservation) — 80% pembelahan karang di saluran pembuangan Nuklir-3, sampah laut, dan persimpangan ekologi pembangkit angin lepas pantai
-- [Mata Air Panas dan Geothermal Taiwan](/id/nature/taiwan-hot-springs-and-geothermal-energy) — Dari kegagalan geothermal Chingshui 1981 hingga restart 2024, bagaimana 30 tahun diam geothermal terbentuk
-- [Keadilan Lingkungan dan Kontroversi NIMBY Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, terumbu algal, Meinong: politik distribusi biaya transisi energi
-- [Transformasi dan Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari manufaktur tinggi energi ke industri hijau, perhitungan energi TSMC RE100, CBAM, gunung penunggu negara
-- [Pohon Jalanan Taiwan](/lifestyle/台灣行道樹) — Naungan pohon jalanan sebagai adaptasi pulau panas kota pada skala lokasi dan waktu: pohon butuh minimal sepuluh tahun tumbuh hingga bisa menayungi, adalah adaptasi paling tak bisa ditunda di garis ini
-- [Pengembangan Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Tekanan transformasi pertanian dan konflik penggunaan lahan di balik simbiose pertanian-listrik
-- [Musim Hujan Mei-yu](/id/nature/meiyu-stagnant-front) — Observasi lokal perubahan iklim: \"hujan musim semi tidak datang, hujan mei-yu terkonsentrasi\"
+- [Diskusi Taiwan dan Energi Nuklir](/id/society/taiwan-nuclear-debate) — Artikel ini membahas batas energi dan fisika, sementara artikel itu membahas perdebatan nuklir itu sendiri: pergulatan sosial selama empat puluh tahun antara anti-nuklir/pro-nuklir, tiga pemungutan suara, dan limbah nuklir Lanyu.
+- [Sejarah Gerakan Lingkungan Taiwan](/id/nature/taiwan-environmental-movement-history) — Dari anti-nuklir ke anti-polusi udara, bagaimana suku Atayal di Lanyu, penolakan waduk Minong, dan pemungutan suara terumbu karang membentuk politik energi hari ini.
+- [Tata Kelola dan Tantangan Konservasi Polusi Laut Taiwan](/id/nature/marine-pollution-governance-and-conservation) — Titik temu ekologis antara 80% pemutihan karang dari saluran keluar PLTN Tiga, limbah laut, dan tenaga angin lepas pantai.
+- [Air Panas dan Energi Panas Bumi Taiwan](/id/nature/taiwan-hot-springs-and-geothermal-energy) — Bagaimana keheningan panas bumi selama 30 tahun terbentuk, mulai dari kegagalan panas bumi Qingshui pada tahun 1981 hingga dilanjutkan pada tahun 2024.
+- [Keadilan Lingkungan dan Sengketa NIMBY Taiwan](/id/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, terumbu karang, Minong: politik pembagian biaya transisi energi.
+- [Peningkatan Transformasi Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari manufaktur berenergi tinggi ke industri energi hijau, tagihan energi dari TSMC RE100, CBAM, dan "Dewa Penjaga Negara".
+- [Pohon di Trotoar Taiwan](/lifestyle/台灣行道樹) — Posisi dan skala waktu penyesuaian pulau panas sebagai naungan pohon jalan: pohon harus tumbuh setidaknya selama sepuluh tahun untuk memberikan keteduhan, ini adalah salah satu penyesuaian yang paling tidak bisa ditunda.
+- [Pembangunan Modernisasi Pertanian Taiwan](/id/economy/taiwan-agricultural-modernization) — Tekanan transformasi pertanian dan konflik penggunaan lahan di balik simbiosis energi surya dan pertanian.
+- [Musim Hujan](/id/nature/meiyu-stagnant-front) — Pengamatan lokal perubahan iklim "hujan musim semi tidak datang, hujan monsun terkonsentrasi".
+- [Mekanisme Harga Minyak Taiwan dan CPC](/economy/台灣油價機制與中油) — Tarikan antara subsidi bahan bakar fosil dan sinyal efisiensi energi: kenaikan yang dibekukan membagi harga per liter secara merata, semakin banyak digunakan semakin hemat, tetapi tidak ada tabel yang menghitung siapa yang paling banyak menggunakannya selama setengah tahun ini.
 
 ## Sumber Gambar
 

@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-19T07:39:39.660085+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 1962 TTV mulai siaran, Taiwan memasuki era televisi; pada 1998 PTS didirikan, media publik non-komersial pertama lahir; pada 2016 Qseries dengan rating 0,5% justru mengeluarkan drama Taiwan dari bingkai drama idol dan drama pedesaan. Dari "monopoli partai-pemerintahan-militer" ke "revolusi lembut", 54 tahun industri televisi Taiwan adalah sejarah tentang siapa yang berhak menceritakan cerita.
@@ -147,19 +147,23 @@ Tapi di balik digital, bangkitnya platform OTT. YouTube, Netflix, Hami Video dll
 
 ---
 
-## Siapa yang Berhak Menceritakan Cerita?
+## Siapa yang Berhak Bercerita?
 
-Dari 1962 TTV siaran, ke 1998 PTS berdiri, lagi ke 2016 Qseries, 54 tahun industri televisi Taiwan, adalah sejarah tentang **siapa yang berhak menceritakan cerita**.
+Dari TTV mulai siaran pada 1962, hingga PTS didirikan pada 1998, lalu Qseries pada 2016, 54 tahun industri televisi Taiwan adalah sejarah tentang **siapa yang berhak bercerita**.
 
-Era Tiga Stasiun Tua, yang cerita adalah "partai-pemerintahan-militer"; era PTS, yang cerita adalah "kepentingan publik"; era Qseries, yang cerita adalah "orang kecil".
+Pada era Tiga Stasiun Tua, yang bercerita adalah "partai, pemerintah, dan militer"; pada era PTS, yang bercerita adalah "kepentingan publik"; pada era Qseries, yang bercerita adalah "orang kecil".
 
-Wang Xiao-di bilang: "Ada yang menyangkal kamu, itu awal tumbuhmu."[^17]
+Wang Hsiao-ti berkata: "Ada yang menyangkalmu, itulah awal pertumbuhanmu."[^17]
 
-Revolusi lembut Qseries, hingga kini masih berlangsung. 2021, Netflix investasi industri film TV Taiwan 1 miliar Yuan, banyak karya Qseries dilihat internasional. Xu Guang-han, Sun Ke-fang, Liu Kuan-ting dll pemain baru, dari Qseries keluar, jadi tenaga inti film TV Taiwan.
+Revolusi lembut Qseries ini berlangsung hingga kini. Pada 2021, Netflix berinvestasi 10 miliar pada industri film dan televisi Taiwan, banyak karya Qseries dilihat oleh internasional. Aktor baru seperti Hsu Kuang-han, Sun Ke-fang, Liu Kuan-ting, keluar dari Qseries, menjadi kekuatan inti film dan televisi Taiwan.
 
-Kalau 2050 ada orang mau tau industri TV Taiwan pernah coba apa, yang dia baca mungkin file Markdown ini——soal platform yang tak jual iklan, bagaimana berusaha ceritakan cerita yang disukai semua orang.
+Jika pada 2050 ada yang ingin tahu apa yang pernah dicoba industri televisi Taiwan, yang mereka baca mungkin justru file-file Markdown ini — tentang bagaimana sebuah platform yang tidak menjual iklan, mencoba bercerita sebuah cerita yang disukai semua orang.
 
 ---
+
+**Bacaan Lanjutan**:
+
+- [Penghargaan Golden Bell](/culture/金鐘獎) — Tiga Stasiun Tua mendominasi tujuh belas tahun, PTS dan stasiun kabel masuk nominasi, Netflix hadir, kolom unit pemenang penghargaan acara drama adalah catatan lain dari sejarah industri ini
 
 ## Referensi
 

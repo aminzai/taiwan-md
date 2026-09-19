@@ -1,6 +1,6 @@
 ---
-title: 'Taman Nasional'
-description: '36.197 kilometer persegi dipadatkan ke dalam 9 taman nasional, kepadatan yang sangat tinggi, menjadikannya keajaiban konservasi terkemuka di dunia.'
+title: 'Taman Nasional: Keajaiban Konservasi di Pulau Kecil'
+description: 'Dengan 9 taman nasional yang menempati area seluas 36.197 kilometer persegi, kepadatan ini adalah keajaiban konservasi kelas dunia.'
 date: 2026-03-17
 category: 'Nature'
 tags:
@@ -11,181 +11,180 @@ tags:
     'Pariwisata',
     'Perlindungan Lingkungan',
   ]
-subcategory: 'Taman Nasional dan Jalur Pendakian'
+subcategory: '國家公園與步道'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-09-19
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Nature/國家公園.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:e37b15292b517151'
-translatedAt: '2026-08-06T19:07:05.108125+00:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:8fb4efae01fb8f38'
+sourceBodyHash: 'sha256:d14d99364c1c4106'
+translatedAt: '2026-09-19T11:59:07+08:00'
 ---
 
 # Taman Nasional
 
-> **Ringkasan 30 detik:** Taiwan hanya seluas 36.197 kilometer persegi, namun memiliki 9 taman nasional, kepadatannya berada di peringkat teratas dunia.
-> Dalam sistem konservasi paling padat ini, populasi beruang hitam Taiwan melipatgandakan dalam 20 tahun, burung spoonbill muka hitam meningkat dari 288 ekor menjadi 6.988 ekor,
-> ikan masu salmon Taiwan dari terancam punah 200 ekor melonjak menjadi 16.000 ekor. Pulau kecil, konservasi besar.
+> **Ringkasan 30 Detik:** Taiwan hanya memiliki area seluas 36.197 kilometer persegi, namun menampung 9 taman nasional dengan kepadatan yang berada di jajaran teratas dunia.
+> Di sistem konservasi paling padat ini, populasi beruang hitam Taiwan berlipat ganda dalam 20 tahun; jumlah global bangau pesisir (Black-faced Spoonbill) meningkat dari 288 ekor menjadi 7.746 ekor (enam puluh persen menghabiskan musim dingin di Taiwan); dan ikan salmon hias Taiwan (Taiwan Salmon) melonjak drastis dari status terancam punah sebanyak 200 ekor menjadi 16.020 ekor. Pulau kecil, konservasi besar.
 
-Sebuah pulau yang lebih kecil dari Swiss, bagaimana bisa memuat 9 taman nasional? Pada tahun 1984, ketika Taman Nasional Kenting menjadi taman nasional pertama yang resmi didirikan di Taiwan (pengumuman perencanaan dimulai pada 1982), tidak ada yang menyangka ini akan menjadi awal eksperimen kepadatan.[^1] 42 tahun kemudian, Taiwan di atas lahan seluas 36.197 kilometer persegi memiliki 9 taman nasional dan 1 taman alam nasional, luas area lindung mencapai 750.000 hektar, kepadatan yang begitu tinggi ini menempati peringkat teratas di sistem taman nasional global.
+Bagaimana sebuah pulau yang lebih kecil dari Swiss dapat menampung 9 taman nasional? Pada tahun 1984, ketika Taman Nasional Kenting didirikan sebagai taman nasional resmi pertama di Taiwan (pengumuman perencanaan dimulai pada tahun 1982), tidak ada yang menyangka bahwa ini akan menjadi awal dari eksperimen kepadatan. [^1] Empat puluh dua tahun kemudian, Taiwan memiliki 9 taman nasional dan 1 taman alam nasional di lahan seluas 36.197 kilometer persegi, dengan luas perlindungan mencapai 750.000 hektar; kepadatan ini menempatkan Taiwan di jajaran teratas sistem taman nasional global.
 
-Di Taiwan dengan kepadatan penduduk 640 orang/kilometer persegi, satwa liar besar dan ikan langka justru mampu bertahan hidup di ruang yang sangat terbatas, bahkan terus pulih. Sistem konservasi paling padat ini, menghasilkan pencapaian yang mengejutkan komunitas konservasi global.
+Di Taiwan, dengan kepadatan penduduk 640 orang/km², mamalia liar besar dan ikan langka mampu bertahan bahkan pulih dalam ruang yang sangat terbatas. Sistem konservasi paling padat ini telah memberikan rekor yang mengejutkan bagi komunitas konservasi global.
 
-| 288 → 6.988                                    | 200 → 16.020                     | Populasi melipatgandakan         |
-| ---------------------------------------------- | -------------------------------- | -------------------------------- |
-| Total global spoonbill muka hitam（1989→2024） | Masu salmon Taiwan（1990s→2025） | Beruang hitam Taiwan（20 tahun） |
+|               288 → 7.746                |           200 → 16.020            |           Lipatan Populasi            |
+| :--------------------------------------: | :-------------------------------: | :-----------------------------------: |
+| Jumlah Global Bangau Pesisir (1989→2026) | Salmon Hias Taiwan (1990-an→2025) | Beruang Hitam Taiwan (dalam 20 tahun) |
 
 ## Eksperimen Kepadatan: Bagaimana Taiwan Menjadi Pulau Taman Nasional
 
-**Sejarah 42 tahun ekspansi wilayah taman nasional:**
+**Sejarah Ekspansi Peta Taman Nasional Selama 42 Tahun:**
 
-1. **1984-1986** — Tiga raksasa pertama: Kenting, Yushan, Yangmingshan
-2. **1987-1995** — Mengisi gunung dan laut: Taroko, Sheipa
-3. **1995-2014** — Pergeseran ke beragam: Kinmen (situs sejarah perang), Dongsha (murni lautan), Taijiang (rawa), Keempat Pulau Selatan Penghu (gunung api batu)
-4. **2011** — Oase urban: Taman Nasional Alam Shoushan (di wilayah perkotaan Kaohsiung)
+1. **1984–1986** — Tiga Besar Gelombang Pertama: Kenting, Yushan, Yangmingshan
+2. **1986–1992** — Pengisian Gunung dan Laut: Taroko, Xueba
+3. **1995–2014** — Diversifikasi: Kinmen (Situs Sejarah Medan Perang), Dongsha (Murni Laut), Taijiang (Rawa), Empat Pulau Selatan Penghu (Basalt)
+4. **2011** — Oase Kota: Taman Alam Nasional Shoushan (di dalam kota Kaohsiung)
 
-Pada 20 September 2023, Kementerian Dalam Negeri, Kantor Taman Nasional resmi didirikan, ditingkatkan menjadi lembaga tingkat署 (direktorat jenderal) yang mandiri, mengoordinasikan pengelolaan seluruh taman nasional Taiwan, menggantikan arsitektur manajemen terpecah di masa lalu.[^2]
+Pada tanggal 20 September 2023, Biro Taman Nasional Kementerian Urusan Dalam Negeri secara resmi didirikan dan ditingkatkan menjadi badan independen untuk mengelola semua urusan taman nasional di seluruh Taiwan, menggantikan struktur manajemen yang sebelumnya terfragmentasi. [^2]
 
-Setiap langkah menantang definisi tradisional taman nasional. Kinmen berfokus pada situs sejarah perang, Dongsha 99,9% lautan, Taijiang memadukan budaya dan rawa, sedangkan Keempat Pulau Selatan Penghu adalah surga laut tanpa penghuni.
+Setiap langkah menantang definisi tradisional tentang taman nasional. Kinmen berfokus pada situs sejarah medan perang; Dongsha adalah 99,9% perairan; Taijiang memadukan budaya dan rawa; sementara Empat Pulau Selatan Penghu adalah surga laut yang tidak berpenghuni.
 
 > **📝 Catatan Kurator**
-> Jalur evolusi taman nasional Taiwan cukup unik: dari "melindungi liar" (konsep taman nasional bergaya AS)
-> beralih ke "manusia dan alam selaras" (konsep cagar alam bergaya Eropa), dan akhirnya mengembangkan model
-> "jaringan perlindungan lautan-darat-udara tiga dimensi" yang khas.
+> Evolusi taman nasional Taiwan sangat unik: dari "melindungi alam liar" (konsep taman nasional ala Amerika)
+> beralih ke "keseimbangan budaya dan alam" (konsep zona perlindungan ala Eropa), dan akhirnya mengembangkan model khas
+> "jaring perlindungan tiga dimensi laut, darat, udara".
 
-Kepadatan seperti ini hampir tak pernah ditemukan di tingkat internasional. Bandingkan saja: Taman Nasional Yellowstone AS sendiri seluas 8.991 km², sedangkan seluruh wilayah Taiwan hanya 4 kali lipatnya, namun harus memuat 9 taman nasional.
+Kepadatan semacam ini hampir belum pernah terjadi di tingkat internasional. Sebagai perbandingan: Taman Nasional Yellowstone di Amerika Serikat saja seluas 8.991 kilometer persegi, sedangkan seluruh daratan Taiwan adalah empat kali lebih besar dari itu, namun harus menampung 9 taman nasional.
 
-## Mukjizat Pemulihan Spesies Taiwan
+## Keajaiban Pemulihan Spesies Taiwan
 
-### Spoonbill Muka Hitam: Dari Ambang Kepunahan hingga 1/6 Populasi Global di Taiwan
+### Bangau Pesisir: Dari Terancam Punah Menjadi Enam Puluh Persen di Taiwan
 
-Tahun 1989, Hong Kong Bird Watching Society pertama kali menghitung populasi global Spoonbill Muka Hitam: 288 ekor. Angka itu mengejutkan komunitas konservasi dunia, sebuah spesies begitu dekat dengan kepunahan.
+Pada tahun 1989, Hong Kong Bird Club pertama kali mencatat jumlah global bangau pesisir: 288 ekor. Angka ini mengejutkan komunitas konservasi global karena spesies tersebut sangat dekat dengan kepunahan.
 
-35 tahun kemudian, sensus global 2024 menunjukkan total Spoonbill Muka Hitam telah mencapai 6.988 ekor, sedangkan wilayah Taman Nasional Taijiang setiap musim dingin mengumpulkan lebih dari 1.000 ekor, menjadikannya habitat musim dingin utama paling penting di dunia.[^3]
+Survei sinkron global pada Januari 2026 menunjukkan bahwa total populasi bangau pesisir telah mencapai 7.746 ekor, di mana Taiwan mencatat 4.719 ekor, sekitar 61% dari total; wilayah Tainan saja memiliki 2.034 ekor, dan Taman Nasional Taijiang serta tambak-tambak di sekitarnya adalah habitat musim dingin utama secara global. [^3][^7]
 
-Taman Nasional Taijiang tidak hanya melindungi lebih dari 40.000 hektar lahan basah, tetapi juga bekerja sama dengan nelayan dan pekerja garam, memungkinkan industri tradisional dan perlindungan ekologi berdampingan. Pemulihan ini didasarkan pada rekayasa presisi: penentuan habitat, regulasi penangkapan ikan, kerja sama komunitas lokal — tidak ada yang bisa dikurangi. Setiap musim gugur dan dingin, ketika gugusan pertama Spoonbill Muka Hitam mendarat di Lahan Basah Sicao, warga Tainan tahu: reputasi lahan basah kelas internasional tetap bersinar.
+Di area seluas hampir 40.000 hektar di Taman Nasional Taijiang (sekitar 4.900 hektar daratan), tidak hanya melindungi lahan basah, tetapi juga berkolaborasi dengan nelayan dan pekerja garam untuk memungkinkan keberlangsungan industri tradisional bersamaan dengan perlindungan ekologi. Pemulihan ini bergantung pada rekayasa yang cermat: zonasi habitat, regulasi penangkapan ikan, dan kerja sama komunitas lokal, semuanya sangat penting. Setiap musim gugur dan musim dingin, ketika gelombang pertama bangau pesisir mendarat di lahan basah Sicao, penduduk Tainan tahu bahwa papan nama situs basah kelas internasional itu masih menyala.
 
-### Masu Salmon Taiwan: Legenda Kebangkitan dari 200 Ekor ke 16.000 Ekor
+### Salmon Hias Taiwan: Legenda Kebangkitan dari 200 Ekor menjadi 16.000 Ekor
 
-Tahun 1990-an, populasi Masu Salmon Taiwan turun ke titik terendah, di alam liar hanya tersisa sekitar 200 ekor, terancam punah. Ikan "pusaka nasional" sisa era es batu ini hanya bisa bertahan di aliran sungai di ketinggian 1.500 meter ke atas, dengan suhu air di bawah 17°C; perubahan iklim dan kerusakan habitat membuatnya tidak punya tempat lari.
+Pada tahun 1990-an, populasi salmon hias Taiwan mencapai titik terendah, hanya tersisa sekitar 200 ekor di alam liar, dan berada di ambang kepunahan. Ikan "harta nasional" yang merupakan relik dari zaman es ini hanya dapat bertahan di sungai dengan ketinggian di atas 1.500 meter dan suhu air di bawah 17°C; perubahan iklim dan kerusakan habitat membuat mereka tidak punya tempat untuk lari.
 
-Taman Nasional Shei-Pa menghabiskan 30 tahun, mengubah angka itu menjadi 16.000 ekor.[^4]
+Taman Nasional Xueba membutuhkan waktu 30 tahun untuk meningkatkan angka ini menjadi 16.020 ekor. [^4]
 
 > **💡 Tahukah Anda**
-> September 2025, Balai Taman Nasional Shei-Pa pertama kali menggunakan metode
-> helikopter,
-> melepaskan lebih dari 1.000 benih ikan salmon ke hulu Sungai Jiesilan. Ini
-> adalah "pemulihan udara" pertama di Taiwan, memungkinkan benih ikan
-> cepat tiba di habitat paling sesuai.
+> Pada tanggal 4 September 2025, Kantor Manajemen Xueba bekerja sama dengan Jinjie Airlines untuk pertama kalinya, menggunakan helikopter untuk menaikkan 240 ekor salmon hias berukuran sekitar 16 cm dan melepaskannya di hulu Sungai Sijielan. Sebelumnya, perjalanan dengan berjalan kaki membutuhkan enam jam; kini hanya butuh belasan menit dengan pesawat khusus. [^4]
 
-Kesuksesan pemulihan terletak pada kesabaran, bukan teknologi. Perkebunan Wuling mengembalikan 8,1 hektar lahan pertanian terlantar, program penanaman hutan 20 tahun di Sungai Qijiawan, strategi pelepasan lintas aliran sungai — setiap langkah memerlukan perencanaan bertahun-tahun. Kini Sungai Jiesilan, Sungai Qijiawan, Sungai Hehuan semuanya memiliki populasi stabil, Masu Salmon Taiwan tidak lagi menjadi tamu tetap daftar spesies terancam.
+Keberhasilan pemulihan terletak pada kesabaran, bukan teknologi semata. Pemulihan ini melibatkan pengembalian 8,1 hektar lahan bekas pertanian oleh Panti Agung Wuling, dan rencana reboisasi selama 20 tahun di Sungai Qixiawan; strategi pelepasan lintas-DAS (Daerah Aliran Sungai) membutuhkan perencanaan bertahun-tahun. Kini, Sungai Sijielan, Sungai Qixiawan, dan Sungai Hehuan memiliki populasi yang stabil, dan salmon hias Taiwan tidak lagi menjadi tamu tetap dalam daftar spesies terancam punah.
 
-### Beruang Hitam Taiwan: Dari Terancam Punah ke "Tidak Ada Ancaman Kepunahan Lagi"
+### Beruang Hitam Taiwan: Dari Terancam Punah Menjadi "Tidak Ada Lagi Ancaman Kepunahan"
 
-April 2025, Badan Kehutanan dan Konservasi Alam pertama kali menyatakan secara terbuka: Beruang Hitam Taiwan "kondisi populasi sudah tidak memiliki ancaman kepunahan lagi", jumlah populasi dibanding 20 tahun lalu meningkat "pasti lebih dari kelipatan".[^5]
+Pada April 2025, Biro Kehutanan dan Konservasi Alam secara resmi menyatakan untuk pertama kalinya bahwa "kondisi populasi beruang hitam Taiwan tidak lagi terancam punah," dengan jumlah populasi yang meningkat "lebih dari dua kali lipat" dibandingkan 20 tahun sebelumnya. [^5]
 
-Di balik pernyataan itu ada 40 tahun akumulasi konservasi. Taman Nasional Gunung Yushan, Taroko, Shei-Pa di dataran tinggi menyediakan habitat inti bagi Beruang Hitam Taiwan, dan beberapa tahun terakhir jangkauan Beruang Hitam mulai menyebar ke dataran rendah di bawah ketinggian 1.200 meter, menunjukkan populasi sudah stabil hingga mulai ekspansi alami.
+Di balik pernyataan ini adalah akumulasi konservasi selama 40 tahun. Taman nasional dataran tinggi seperti Yushan, Taroko, dan Xueba menyediakan habitat inti bagi beruang hitam Taiwan, sementara perluasan jangkauan keberadaan beruang ke lereng gunung yang lebih rendah dari 1.200 meter dalam beberapa tahun terakhir menunjukkan bahwa populasi telah stabil hingga mulai berkembang secara alami.
 
-> **⚠️ Harga Kesuksesan**
-> Kesuksesan pemulihan Beruang Hitam Taiwan juga membawa tantangan baru. Tahun 2025,
-> di Komunitas Adat Zhuoxi, Hualien, seekor Beruang Hitam berat 120 kg
-> beberapa hari berturut-turut memangsa unggas dan anjing rumah tangga,
-> akhirnya terpaksa ditembak mati.
-> Konflik manusia-beruang akan menjadi fokus kerja konservasi tahap selanjutnya.
+> **⚠️ Biaya Keberhasilan**
+> Pemulihan beruang hitam Taiwan juga membawa tantangan baru. Pada April 2025, seekor beruang jantan seberat lebih dari 100 kg di Desa Zhongzheng, Kecamatan Zhuoxi, Hualien, dilaporkan memakan empat anjing dalam dua minggu dan berkali-kali menerobos kandang ayam; petugas patroli menembak untuk membela diri, dan beruang tersebut kemudian menjalani penanganan manusiawi setelah terluka. [^8] Konflik antara manusia dan beruang akan menjadi fokus pekerjaan konservasi di tahap berikutnya.
 
-## Model Konservasi Berkepadatan Tinggi Berkelas Dunia
+## Model Konservasi Kepadatan Kelas Dunia
 
-Keberhasilan sistem taman nasional Taiwan tidak terletak pada luas wilayah, melainkan pada **keanekaragaman tipe dan presisi manajemen**.
+Keberhasilan sistem taman nasional Taiwan tidak terletak pada luas areanya, tetapi pada **keanekaragaman tipe dan presisi manajemen**.
 
-Dari puncak Yushan (玉山) pada ketinggian 3.952 meter, hingga Terumbu Karang Dongsha (東沙環礁) di bawah permukaan laut; dari geologi gunung berapi Yangmingshan (陽明山), hingga susunan kolom basalt Kepulauan Selatan Penghu (澎湖南方四島); dari situs sejarah medan perang Kinmen (金門), hingga hutan urban Shoushan (壽山). 9 taman nasional menutupi semua ekosistem utama dan tipe geologi Taiwan.
+Dari puncak Yushan setinggi 3.952 meter, hingga terumbu karang Dongsha di bawah permukaan laut; dari gunung berapi Yangmingshan, hingga formasi kolom basal di Empat Pulau Selatan Penghu; dari situs sejarah medan perang Kinmen, hingga hutan kota Shoushan. Kesembilan taman nasional ini mencakup semua ekosistem utama dan tipe geologi di Taiwan.
 
-**Ini adalah jaringan perlindungan tiga dimensi dengan pembagian tugas yang jelas menurut zona ekologi:**
+**Ini adalah jaring perlindungan tiga dimensi yang terbagi secara jelas berdasarkan zona ekologis:**
 
-**Tiga Zona Darat**:
+**Tiga Zona Darat:**
 
-- Zona Pegunungan Tinggi: Yushan, Shei-Pa (雪霸), Taroko (太魯閣) melindungi ekologi pegunungan tinggi dan mamalia besar
-- Zona Vulkanik: Yangmingshan menjaga Kompleks Gunung Berapi Datun (大屯火山群) dan vegetasi subtropis
-- Zona Pesisir: Kenting (墾丁), Kepulauan Selatan Penghu melindungi ekologi terumbu karang
+- **Zona Dataran Tinggi:** Yushan, Xueba, Taroko melindungi ekosistem dataran tinggi dan mamalia besar
+- **Zona Vulkanik:** Yangmingshan menjaga kelompok gunung berapi Datun dan vegetasi sedang
+- **Zona Pesisir:** Kenting, Empat Pulau Selatan Penghu melindungi ekosistem terumbu karang
 
-**Perbatasan Air-Darat**:
+**Perbatasan Darat dan Air:**
 
-- Zona Lembah Basah: Taijiang (台江) memelihara lembah basah kelas internasional dan rute migrasi burung migran
-- Zona Pulau Terpencil: Kinmen, Dongsha masing-masing memikul konservasi sejarah medan perang dan ekologi laut
+- **Zona Rawa:** Taijiang memelihara lahan basah kelas internasional dan rute migrasi burung
+- **Zona Kepulauan:** Kinmen dan Dongsha masing-masing bertanggung jawab atas konservasi sejarah medan perang dan ekologi laut
 
-### Eksperimen Taman Nasional di Tengah Perkotaan
+### Eksperimen Taman Nasional di Kota
 
-Pada 2011, Taman Nasional Alam Shoushan (壽山國家自然公園) didirikan, ini adalah kawasan lindung tingkat nasional pertama di Taiwan yang terletak di wilayah metropolitan. Di sudut barat daya Kota Kaohsiung, di tengah 1.131 hektare topografi batu kapur terumbu karang, dilindungi spesies endemik Taiwan monyet Taiwan (台灣獼猴) dan populasi terbesar di Taiwan tanaman _Rhododendron kanehirae_ (山豬枷).
+Pada Desember 2011, Taman Alam Nasional Shoushan didirikan, menjadikannya zona perlindungan tingkat nasional pertama yang terletak di kawasan perkotaan. Di area batuan kapur terumbu karang seluas sekitar 1.123 hektar di barat daya kota Kaohsiung, taman ini melindungi kera liar Taiwan endemik dan kelompok tanaman bambu terbesar di seluruh Taiwan.
 
-**Eksperimen ini menantang pandangan tradisional: apakah taman nasional harus jauh dari perkotaan?** Shoushan membuktikan bahwa bahkan di pinggiran wilayah metropolitan, manajemen perlindungan yang ketat pun mampu menjaga integritas ekologi.
+**Eksperimen ini menantang pandangan tradisional: apakah taman nasional harus jauh dari kota?** Shoushan membuktikan bahwa bahkan di pinggiran perkotaan, manajemen perlindungan yang ketat dapat mempertahankan integritas ekologis.
 
-> **✦** 「Konservasi Besar di Pulau Kecil——Taiwan membuktikan bahwa kepadatan bukan musuh konservasi, presisilah yang menentukan.」
+> **✦** "Konservasi besar di pulau kecil—Taiwan membuktikan bahwa kepadatan bukanlah musuh konservasi, melainkan presisi."
 
-## Tantangan dan Kontroversi: Rasa Sakit Tumbuh
+## Tantangan dan Kontroversi: Beban Pertumbuhan
 
-### Tekanan Rekreasi: Taman Nasional Bukan Taman Hiburan
+### Tekanan Rekreasi: Taman Nasional Bukan Tempat Hiburan
 
-Taman Nasional Taiwan menghadapi kontroversi terbesar yang berasal dari satu kesalahpahaman fundamental: banyak masyarakat menganggap "Taman Nasional" sebagai "taman yang dibangun negara".
+Kontroversi terbesar yang dihadapi taman nasional Taiwan berasal dari kesalahpahaman mendasar: banyak masyarakat menganggap "taman nasional" sebagai "taman buatan negara".
 
-Observasi Profesor Wang Zhenling dari Jurusan Manajemen Lahan, Universitas Feng Chia, pada 2015 tetap berlaku: "Mayoritas masyarakat, bahkan pemerintah, salah mengerti 'Taman Nasional' secara harfiah." [^6] Kenting dan Taralu setiap tahun diserbu wisatawan massal yang menuntut pemasangan pagar pengaman, penempatan tanda peringatan, bahkan ada yang mengusulkan pemasangan kabel listrik di puncak Gunung Yushan, dan pembangunan hotel di area Matou Gunung Yangming.
+Pengamatan Profesor Wang Zhenling dari Departemen Manajemen Lahan Universitas Feng Chia pada tahun 2015 masih berlaku: "Kebingungan umum, bahkan pemerintah, mengenai 'taman nasional'." [^6] Banyak wisatawan yang datang ke Kenting dan Taroko setiap tahun menuntut pemasangan pagar pembatas, penempelan papan peringatan, dan bahkan ada usulan untuk memasang kabel listrik di puncak Yushan atau membangun hotel di kandang kuda Yangmingshan.
 
-**Pasal 1 Undang-Undang Taman Nasional secara tegas mengatur: melindungi pemandangan alam khas negara, satwa liar, dan situs sejarah, "dan menyediakan rekreasi bagi warga negara".** "Rekreasi" adalah tujuan tambahan, dan dibatasi hanya pada kawasan rekreasi dan kawasan pengendalian umum, tidak boleh bertentangan dengan tujuan konservasi.
+**Pasal 1 Undang-Undang Taman Nasional secara tegas menyatakan: "melindungi pemandangan alam khas negara, satwa liar, dan situs bersejarah, 'serta memberikan rekreasi bagi rakyat'."** Kata "rekreasi" adalah tujuan tambahan, dan hanya berlaku di zona rekreasi dan zona kontrol umum, tidak boleh bertentangan dengan tujuan konservasi.
 
-### Gempa Taralu 2024: Dilema Konservasi dan Rekonstruksi
+### Gempa Taroko 2024: Dilema Konservasi dan Rekonstruksi
 
-Pada 3 April 2024, gempa kuat melanda Hualien (Badan Meteorologi Pusat M_L 7.2 / USGS M_w 7.4), Taman Nasional Taralu menjadi salah satu area paling parah terdampak. Banyak jalur trekking runtuh, sebagian jalan pengendalian ditutup total, gempa menyebabkan korban jiwa, dan menghentikan pekerjaan konservasi normal di area taman selama beberapa bulan.
+Pada tanggal 3 April 2024, gempa kuat melanda Hualien (BM 7.2 / Mw 7.4), dan Taman Nasional Taroko adalah salah satu area yang paling parah terkena dampak. Banyak jalur pendakian runtuh, beberapa jalan kontrol sepenuhnya tertutup, dan gempa menyebabkan korban jiwa, serta menghentikan pekerjaan konservasi normal di taman selama beberapa bulan.
 
-Gempa Taralu mengajukan satu masalah yang harus dihadapi sistem konservasi: di lingkungan geologi Taiwan yang kompleks, batas antara konservasi hutan dan wisata rekreasi harus ditetapkan bagaimana, bukan hanya soal manajemen, tapi juga kebijakan mitigasi bencana.
+Gempa Taroko mengajukan masalah yang harus dihadapi oleh sistem konservasi: bagaimana menetapkan batas antara perlindungan hutan dan rekreasi wisata dalam lingkungan geologis Taiwan yang kompleks? Ini bukan hanya masalah manajemen, tetapi juga kebijakan mitigasi bencana.
 
-### Perubahan Iklim: Krisis Kelangsungan Hidup Spesies Pegunungan Tinggi
+### Perubahan Iklim: Krisis Kelangsungan Hidup Spesies Dataran Tinggi
 
-70% luas Taman Nasional Taiwan berada di ketinggian 1.000 meter di atas permukaan laut, ekosistem pegunungan tinggi sangat rentan terhadap dampak perubahan iklim. Suhu naik 1°C, zona persebaran tumbuhan pegunungan tinggi harus bergeser ke atas 150-200 meter, tapi puncak gunung hanya setinggi itu, tidak ada tempat mundur.
+70% area taman nasional di Taiwan berada di atas ketinggian 1.000 meter, dan ekosistem dataran tinggi sangat rentan terhadap dampak perubahan iklim. Peningkatan suhu sebesar 1°C memaksa zona distribusi tanaman dataran tinggi untuk bergerak naik sejauh 150–200 meter, tetapi puncaknya sudah terlalu tinggi untuk mundur.
 
-Keberhasilan pemulihan salmon Taiwan (Taiwan Masu Salmon), pada tingkat tertentu adalah balapan melawan waktu. Ketika suhu air sungai melebihi 17°C, ikan harta karun negara tidak bisa bertahan hidup. Perubahan iklim menjadikan pekerjaan pemulihan menjadi kompetisi kecepatan antara suhu udara dan konservasi.
+Pemulihan salmon hias Taiwan adalah perlombaan melawan waktu sampai batas tertentu. Ketika suhu air sungai melebihi 17°C, ikan harta nasional itu tidak dapat bertahan hidup. Perubahan iklim mengubah pekerjaan pemulihan menjadi kompetisi antara suhu dan kecepatan konservasi.
 
-### Hak Masyarakat Adat: Keseimbangan Konservasi dan Tradisi
+### Hak Masyarakat Adat: Keseimbangan Antara Konservasi dan Tradisi
 
-75% Taman Nasional Taiwan tumpang tindih dengan wilayah tradisional masyarakat adat, bagaimana menyeimbangkan kebutuhan konservasi dengan hak masyarakat adat, selalu jadi isu sensitif. Suku Bunun di Gunung Yushan, suku Atayal di Shei-Pa, suku Taroko di Taralu, mereka adalah penjaga paling awal tanah ini, kini justru mungkin terbatas gaya hidup tradisional karena regulasi konservasi.
+Area taman nasional dataran tinggi di Taiwan tumpang tindih dengan wilayah tradisional masyarakat adat, sehingga bagaimana menyeimbangkan kebutuhan konservasi dengan hak-hak masyarakat adat selalu menjadi isu sensitif. Orang Bunun di Yushan, Tayi di Xueba, dan suku Taroko di Taroko adalah penjaga pertama tanah ini, namun kini mereka mungkin dibatasi dalam cara hidup tradisional karena peraturan konservasi.
 
-Tahun-tahun terakhir Kantor Manajemen Taman Nasional mulai bekerja sama dengan komunitas desa, mendorong model "konservasi komunitas": di Kinmen merekrut warga lokal menjadi relawan konservasi, di Taijiang bekerjasama dengan nelayan memelihara ekosistem lahan basah. Model ini mengubah pekerjaan konservasi dari "pengendalian asing" menuju "partisipasi lokal".
+Dalam beberapa tahun terakhir, kantor manajemen taman nasional mulai bekerja sama dengan komunitas untuk mempromosikan model "konservasi berbasis masyarakat": merekrut penduduk lokal sebagai sukarelawan konservasi di Kinmen, dan berkolaborasi dengan nelayan di Taijiang untuk memelihara ekologi lahan basah. Model ini mengubah pekerjaan konservasi dari "kontrol eksternal" menjadi "partisipasi lokal".
 
-## 40 Tahun Berikutnya: Era Taman Nasional Laut?
+## 40 Tahun ke Depan: Era Taman Nasional Laut?
 
-Jika 40 tahun pertama Taiwan membangun sistem taman nasional dengan kepadatan sangat tinggi, maka fokus 40 tahun berikutnya akan berupa **lautan**.
+Jika 40 tahun sebelumnya Taiwan membangun sistem taman nasional dengan kepadatan sangat tinggi, maka fokus 40 tahun berikutnya adalah **laut**.
 
-Taman Nasional Dongsha Atoll (東沙環礁國家公園) 99,5% adalah wilayah laut, dan luas wilayah laut Taman Nasional Empat Pulau Selatan Penghu (澎湖南方四島國家公園) juga mencapai 98%. Tren ini mencerminkan pergeseran pemikiran konservasi global: dari "prioritas darat" menuju "darat dan laut setara".
+Taman Nasional Terumbu Karang Dongsha 99,9% adalah perairan, dan luas perairan Taman Nasional Empat Pulau Selatan Penghu juga sekitar 99%. Tren ini mencerminkan perubahan pemikiran konservasi global: dari "prioritas daratan" menuju "kesetaraan laut dan darat".
 
-Potensi konservasi perairan sekitar Taiwan memang signifikan. Arus Kuroshio membawa keanekaragaman hayati laut yang kaya, tutupan terumbu karang di beberapa wilayah melebihi 60%, dan ekosistem padang lamun menyediakan fungsi penyerapan karbon. Namun kompleksitas konservasi laut jauh melebihi darat: yurisdiksi perairan, hak perikanan, hukum internasional — setiap aspeknya ratusan kali lebih sulit dibandingkan penentuan kawasan lindung di darat.
+Potensi konservasi di perairan sekitar Taiwan memang sangat besar. Arus Kuroshio membawa keanekaragaman hayati laut yang kaya, dengan cakupan terumbu karang melebihi 60% di beberapa area, dan ekosistem padang lamun menyediakan fungsi penyerapan karbon. Namun, kompleksitas konservasi laut jauh melampaui daratan: yurisdiksi perairan, hak-hak perikanan, peraturan internasional—setiap aspeknya seratus kali lebih sulit daripada menetapkan zona perlindungan darat.
 
-> **📊 Data Prospek Masa Depan**
-> Berdasarkan perencanaan Kantor Taman Nasional, target luas kawasan konservasi laut Taiwan adalah mencapai 10% Zona Ekonomi Eksklusif pada tahun 2030, sekitar 200.000 kilometer persegi. Ini setara dengan luas 6 kali Pulau Taiwan.
+> **📊 Kondisi Zona Perlindungan Laut**
+> Di antara zona perlindungan laut yang ada di Taiwan, empat taman nasional menyumbang delapan puluh persen atau lebih dari area perairan;
+> Tujuan "30x30" yang disahkan PBB pada tahun 2022 menuntut negara-negara untuk melindungi setidaknya 30% lautan sebelum tahun 2030. Undang-Undang Konservasi Laut yang dibaca tiga kali pada tahun 2024 adalah titik awal Taiwan dalam mengikuti tren ini. [^9]
 
-## Pola Besar di Pulau Kecil
+## Gambaran Besar Pulau Kecil
 
-Kembali ke pertanyaan awal: sebuah pulau yang lebih kecil dari Swiss, mengapa memerlukan 9 taman nasional?
+Kembali ke pertanyaan awal: mengapa sebuah pulau yang lebih kecil dari Swiss membutuhkan 9 taman nasional?
 
-Jawabannya mungkin tidak terletak pada seberapa kecil Taiwan, melainkan pada seberapa kompleks Taiwan. Di lahan seluas 36.197 kilometer persegi, pulau ini memuat semua zona iklim dari tropis hingga subarktik, sejarah geologi tabrakan lempeng yang lengkap, lapisan budaya dari Austronesia hingga etnis Han, serta titik nodal rute migrasi burung migran.
+Jawabannya mungkin bukan karena Taiwan sekecil itu, tetapi karena Taiwan sangat kompleks. Di lahan seluas 36.197 kilometer persegi ini, pulau ini menampung semua zona iklim dari tropis hingga sub-artik, sejarah geologi tumbukan lempeng yang lengkap, lapisan budaya mulai dari bahasa Austronesia hingga Han, dan titik migrasi burung.
 
-Sistem taman nasional Taiwan yang paling langka bukanlah luasnya, melainkan kelengkapan tipologinya. Yang dilindunginya bukan hanya 9 titik, melainkan kode kehidupan sebuah pulau.
+Yang paling berharga dari sistem taman nasional Taiwan bukanlah luasnya, melainkan kelengkapan tipenya. Ia tidak hanya melindungi 9 titik, tetapi kode kehidupan sebuah pulau.
 
-42 tahun lalu, saat Taman Nasional Kenting baru didirikan, Taiwan masih di bawah hukum darurat. Kini, di pulau ini dengan kepadatan taman nasional yang sangat tinggi, populasi spoonbill muka hitam tumbuh 24 kali lipat, populasi ikan masu salmon Taiwan melonjak 80 kali lipat, dan beruang hitam Taiwan tidak lagi terancam punah. Ini mungkin merupakan salah satu eksperimen konservasi kepadatan tinggi paling berhasil di dunia: di ruang paling sempit, pekerjaan konservasi yang cermat tetap mampu menciptakan keajaiban.
+42 tahun lalu, ketika Taman Nasional Kenting baru didirikan, Taiwan masih di bawah status darurat militer. Kini, di pulau dengan kepadatan taman nasional yang sangat tinggi ini, jumlah global bangau pesisir telah meningkat 27 kali lipat, populasi salmon hias Taiwan berlipat ganda sebanyak 80 kali, dan beruang hitam Taiwan tidak lagi terancam punah. Ini mungkin adalah salah satu eksperimen konservasi padat paling sukses di dunia: menciptakan keajaiban melalui kerja konservasi yang presisi dalam ruang terkecil sekalipun.
 
 ## Referensi
 
+[^1]: [Biro Taman Nasional Kementerian Urusan Dalam Negeri: Taman Nasional Kenting](https://www.ktnp.gov.tw/) — Mengonfirmasi pengumuman perencanaan Taman Nasional Kenting pada tahun 1982 dan pendirian resmi pada tahun 1984.
+
+[^2]: [Biro Taman Nasional Kementerian Urusan Dalam Negeri](https://www.nps.gov.tw/) — Mengonfirmasi pendirian Biro Taman Nasional pada tanggal 20 September 2023.
+
+[^3]: [Taman Nasional Taijiang: Bangau Pesisir](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistik habitat dan tindakan konservasi bangau pesisir di Taijiang.
+
+[^4]: [Tidak Takut Badai atau Gempa! Populasi Harta Nasional Stabil, Salmon Hias Taiwan Mencapai 16.000 Ekor — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Laporan Januari 2026 yang melaporkan 16.020 ekor pada survei tahun 2025, pengembalian lahan bekas pertanian Wuling seluas 8,1 hektar, dan pelepasan pertama dengan helikopter pada September; 240 ekor diangkut oleh helikopter terlihat [CCTV News 2025-09-04](https://news.pts.org.tw/article/769065).
+
+[^5]: [Biro Kehutanan dan Konservasi Alam: Jumlah Beruang Hitam Taiwan Meningkat, Populasi Tidak Lagi Terancam Punah — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Pernyataan Biro Kehutanan dan Konservasi Alam pada April 2025.
+
+[^6]: [Taman Nasional Adalah Taman Buatan Negara atau Taman Tingkat Nasional? — Universitas Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Pengamatan Profesor Wang Zhenling tentang kesalahpahaman masyarakat pada tahun 2015.
+
+[^7]: [Hasil Survei Sinkron Global Bangau Pesisir 2026 Dirilis, Populasi Mencapai Rekor Baru — Biro Kehutanan dan Konservasi Alam](https://www.forest.gov.tw/news/0078204) — Diterbitkan pada tanggal 10 April 2026: Total global 7.746 ekor, Taiwan 4.719 ekor (sekitar 61%), Tainan 2.034 ekor.
+
+[^8]: [Penembakan, Pemberian Makan Anjing, Ekspansi Populasi? Kontroversi Beruang Zhuoxi — Wowa](https://wuo-wuo.com/report/instantnews/2217-20250424news) — Pada tanggal 21 April 2025, beruang di Desa Zhongzheng, Kecamatan Zhuoxi, dilaporkan terluka setelah ditembak oleh petugas patroli; "memakan 4 anjing dalam dua minggu" terlihat [Reporter](https://www.twreporter.org/a/after-a-formosan-black-bear-shot-dead-in-hualien-zhuoxi-2).
+
+[^9]: [Pengenalan Zona Perlindungan Laut Taiwan — Biro Konservasi Kelautan Komisi Kelautan](https://www.oca.gov.tw/ch/home.jsp?id=349&parentpath=0%2C295%2C348) — Zona perlindungan laut yang ada saat ini memiliki area perairan yang mencakup lebih dari 81,28% dari taman nasional; Tujuan "30x30" yang disahkan PBB pada tahun 2022 menuntut negara-negara untuk melindungi setidaknya 30% daratan, perairan pedalaman, pesisir, dan laut sebelum tahun 2030.
+
 **Bacaan Lanjutan**
 
-- [Perkenalan Taman Nasional — Yuan Administratif](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
-- [Taman Nasional Terumbu Karang Dongsha](https://dongsha.gov.tw/)
-
-[^1]: [Kementerian Dalam Negeri, Kantor Taman Nasional: Taman Nasional Kenting](https://ktnp.gov.tw/) — Mengonfirmasi pengumuman perencanaan Taman Nasional Kenting tahun 1982, resmi didirikan tahun 1984.
-
-[^2]: [Kementerian Dalam Negeri, Kantor Taman Nasional](https://www.nps.gov.tw/) — Mengonfirmasi Kantor Taman Nasional resmi didirikan pada 20 September 2023.
-
-[^3]: [Taman Nasional Taijiang: Spoonbill Muka Hitam](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistik habitat dan langkah konservasi Spoonbill Muka Hitam di Taijiang.
-
-[^4]: [Populasi Masu Salmon Taiwan Stabil, Tetap 16.000 Ekor — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Mengonfirmasi jumlah populasi terkini.
-
-[^5]: [Kantor Konservasi Hutan: Populasi Beruang Hitam Taiwan Bertambah, Tidak Lagi Terancam Punah — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Pernyataan Kantor Kehutanan dan Konservasi Alam bulan April 2025.
-
-[^6]: [Apakah Taman Nasional Adalah Taman yang Dibangun Negara atau Taman Tingkat Nasional? — Universitas Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observasi Profesor Wang Zhenling tahun 2015 tentang kesalahpahaman masyarakat.
+- [Pengantar Taman Nasional — Executive Yuan](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
+- [Biro Manajemen Taman Nasional Laut (Terumbu Karang Dongsha/Empat Pulau Selatan Penghu)](https://www.marine.gov.tw/)

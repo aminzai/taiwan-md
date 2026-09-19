@@ -1,131 +1,141 @@
 ---
-title: 'Generasi Slash di Taiwan — Bertahan Hidup dan Pilihan dengan Banyak Pekerjaan'
-description: "Ketika gelar magister hanya bisa ditukar dengan biaya sewa studio di Taipei, menjadi 'slash' bukanlah pilihan, melainkan soal matematika untuk bertahan hidup."
+title: 'Generasi slanting Taiwan — Bertahan dan Memilih dalam Dunia yang Menuntut Banyak Pekerjaan'
+description: 'Ketika gelar sarjana hanya bisa menghasilkan sewa kamar kecil di Taipei, slanting bukanlah pilihan, melainkan rumus matematika untuk bertahan hidup'
 date: 2026-03-29
 category: 'Society'
-tags: ['Slash', 'Ekonomi Gig', 'Gaji', 'Harga Properti', 'Pengangguran Pemuda']
-subcategory: 'Generasi dan Masyarakat'
+tags:
+  [
+    'slanting',
+    'ekonomi kerja paruh waktu',
+    'gaji',
+    'harga rumah',
+    'pekerjaan pemuda',
+  ]
+subcategory: '世代與社會'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: '2b1654faa'
-sourceContentHash: 'sha256:06d77e5b551a9ae1'
+sourceCommitSha: 'c2191ba3a'
+sourceContentHash: 'sha256:627811afe042fd80'
 sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
-translatedAt: '2026-07-27T11:34:05.162648+00:00'
+translatedAt: '2026-09-19T11:59:07+08:00'
 ---
 
-> Pemuda berusia 25-35 tahun di Taiwan sedang menjalani sebuah eksperimen bertahan hidup yang tidak pernah diumumkan dimulainya. Median gaji berhenti di angka 38.000 TWD, sementara sewa studio di Taipei dimulai dari 14.000 TWD. Satu pekerjaan tetap tidaklah cukup, sehingga setelah jam kerja mereka membuka aplikasi pengiriman makanan, mengambil proyek sampingan pada akhir pekan, dan mengedit video hingga larut malam. Ini bukan "tren gaya hidup slash", melainkan strategi bertahan hidup yang dipicu oleh kesulitan struktural.
+> Pemuda Taiwan berusia 25–35 sedang menjalani eksperimen bertahan hidup yang tidak pernah diumumkan secara resmi. Median gaji berada di 38.000, sementara sewa kamar kecil di Taipei mulai dari 14.000. Satu pekerjaan tidak cukup, sehingga setelah pulang dia membuka aplikasi pengiriman makanan, akhir pekan mengerjakan proyek, dan larut malam mengedit video. Ini bukan "gelombang slanting", melainkan strategi bertahan yang dipaksakan oleh kondisi sistemik.
 
-Xiao-jie, 28 tahun, lulusan jurusan bahasa Inggris dari universitas swasta. Siang hari ia bekerja sebagai editor komunitas di sebuah perusahaan pemasaran menengah dengan gaji bulanan sebesar 33.000 TWD. Setiap sore setelah jam lima, ia mengendarai motor dan berganti identitas: membuka aplikasi Uber Eats untuk melakukan pengiriman hingga pukul sepuluh malam. Pada akhir pekan, ia mengambil proyek penerjemahan di platform luar negeri; satu naskah 3.000 kata dari bahasa Mandarin ke Inggris dihargai 2.500 TWD. Dengan tiga pekerjaan yang digabungkan, pendapatan bulanannya mencapai sekitar 52.000 TWD. Setelah dikurangi biaya sewa studio seluas delapan ping (sekitar 26 meter persegi) di Distrik Songshan, Taipei sebesar 13.500 TWD, biaya bensin motor, biaya makan, dan cicilan pinjaman pendidikan, uang yang bisa ia simpan setiap bulan kurang dari 8.000 TWD.
+Xiao Qiao, 28 tahun, lulusan jurusan Bahasa Inggris di universitas swasta. Di siang hari ia bekerja sebagai editor komunitas di sebuah perusahaan pemasaran menengah, dengan gaji bulanan 33.000 yuan. Setiap hari pukul 18.00, ia turun dari sepeda motor dan beralih peran: membuka aplikasi Uber Eats, mengantarkan makanan hingga pukul 22.00. Di akhir pekan, ia menerima proyek terjemahan di jaringan luar negeri 104, dengan tarif 2.500 yuan untuk sebuah dokumen terjemahan dari bahasa Mandarin ke Inggris sekitar 3.000 kata. Dengan tiga pekerjaan, pendapatan bulanannya mencapai sekitar 52.000 yuan. Setelah membayar sewa kamar kecil di distrik Songshan, Taipei sebesar 13.500 yuan, bensin sepeda motor, uang makan, dan cicilan pinjaman pendidikan, uang yang bisa disimpan setiap bulan kurang dari 8.000 yuan.
 
-"Bukannya saya tidak bekerja keras, tapi satu gaji saja benar-benar tidak cukup untuk hidup," katanya.
+"Saya bukan tidak berusaha, tetapi satu gaji memang tidak cukup untuk hidup."
 
-Ini adalah potret kecil dari generasi slash di Taiwan. Bukan narasi "karier ganda" yang tampak mengkilap di LinkedIn, melainkan rumus bertahan hidup yang diperjuangkan oleh kaum muda di bawah tekanan stagnasi struktur gaji dan lonjakan harga properti.
-
----
-
-## Angka Berbicara: Gaji Tidak Mengejar Sewa
-
-Mari lihat dari sisi gaji. Berdasarkan statistik tahun 2025 dari Kantor Statistik Utama Administrasi Eksekutif, median gaji tetap untuk seluruh karyawan adalah 38.319 TWD. Perlu dicatat, ini adalah "median"—artinya setengah dari pekerja menerima upah bulanan di bawah angka tersebut. Rata-rata gaji awal bagi lulusan baru universitas adalah sekitar 34.000 TWD; jika bukan dari jurusan teknik atau sains, sangat umum berada di kisaran 28.000 hingga 32.000 TWD.
-
-Sekarang lihat biaya sewa. Rata-rata sewa bulanan untuk studio independen di Kota Taipei adalah 14.400 TWD, bahkan jika mundur ke Kota Taipei Baru (New Taipei City) tetap mencapai 13.100 TWD. Berdasarkan standar internasional umum bahwa "biaya sewa tidak boleh melebihi tiga puluh persen dari pendapatan", seseorang yang menyewa studio di Taipei setidaknya harus memiliki gaji bulanan minimal 43.000 TWD untuk dianggap sehat secara finansial. Namun, bagi mereka yang lulus kuliah dengan gaji awal 34.000 TWD, biaya sewa saja sudah memakan 42% dari pendapatan mereka.
-
-Ini baru sekadar menyewa. Jika berbicara tentang membeli rumah, rasio harga properti terhadap pendapatan di Kota Taipei mencapai 16,36 kali lipat pada akhir tahun 2024. Artinya, sebuah keluarga yang tidak makan dan minum serta menabung seluruh pendapatannya membutuhkan waktu lebih dari 16 tahun untuk dapat membeli satu unit rumah. Angka ini melampaui London, New York, dan Toronto, menempatkannya di jajaran teratas di kota-kota utama dunia.
-
-Seberapa besar gelar magister bisa memperbaiki keadaan? Rata-rata gaji awal bagi lulusan pascasarjana adalah sekitar 38.000 hingga 42.000 TWD (di luar industri teknologi). Meskipun lebih tinggi beberapa ribu dibandingkan lulusan sarjana, biaya sewa studio di Taipei tidak akan berkurang hanya karena gelar akademik Anda. Bagi pemegang gelar magister sastra, gaji awal mereka di Taipei mungkin hanya cukup untuk menutupi biaya sewa satu unit studio ditambah biaya hidup dasar. Selisih gaji yang didapat dari belajar dua tahun lebih lama hampir habis ditelan oleh biaya sewa rumah.
+Inilah cerminan generasi slanting Taiwan. Bukan narasi "karier ganda" yang indah di LinkedIn, melainkan rumus bertahan yang dipersempit oleh stagnasi gaji struktural dan kenaikan harga rumah yang cepat.
 
 ---
 
-## Platform Pengiriman: Bantalan Keselamatan Satu Generasi
+## Angka Bicara: Gaji Tidak Mampu Menyamai Sewa Rumah
 
-Jumlah kurir pengiriman di Taiwan melonjak dari 45.000 orang pada tahun 2019 menjadi 145.000 orang pada tahun 2022. Jumlahnya berlipat tiga dalam tiga tahun.
+Mari lihat gaji terlebih dahulu. Menurut statistik Badan Statistik Nasional Exekutif Presiden tahun 2025, median gaji tetap pekerja yang disewa adalah 38.319 yuan. Perhatikan, ini adalah "median" — artinya setengah pekerja menerima kurang dari angka ini setiap bulan. Rata-rata gaji pertama lulusan sarjana baru sekitar 34.000 yuan, dan bagi mereka yang tidak berasal dari jurusan teknik fisika, angka antara 28.000 hingga 32.000 yuan sangat umum.
 
-Siapa saja 145.000 orang ini? Berdasarkan analisis 8.402 CV yang memiliki pengalaman pengiriman oleh Bank Tenaga Kerja 104, 42,9% kurir pengiriman mulai beraktivitas saat berusia di bawah 24 tahun, dengan jumlah besar di antaranya masih mahasiswa dan pemuda di bawah usia 29 tahun. Median gaji bulanan adalah 36.000 NTD, dengan median pengalaman kerja hanya 0,9 tahun: artinya, sebagian besar orang berhenti dalam waktu kurang dari satu tahun.
+Sekarang mari lihat sewa rumah. Rata-rata sewa kamar kecil di kota Taipei adalah 14.400 yuan per bulan, bahkan di New Taipei City pun tetap di sekitar 13.100 yuan. Menurut standar internasional "sewa tidak boleh melebihi 30% dari pendapatan", untuk menyewa sebuah kamar kecil di Taipei, pendapatan bulanan minimal harusnya adalah 43.000 yuan. Namun, bagi lulusan sarjana yang menerima gaji 34.000 yuan, biaya sewa saja sudah menghabiskan 42% dari pendapatannya.
 
-Pengiriman bukanlah tujuan akhir karier, melainkan transisi. Ia berfungsi sebagai bantalan keselamatan ketika gaji pekerjaan utama tidak mencukupi, dan sebagai bantalan penyangga ketika tidak dapat menemukan pekerjaan ideal setelah lulus.
+Ini hanya sewa. Jika bicara beli rumah, rasio harga rumah terhadap pendapatan di kota Taipei mencapai 16,36 kali pada akhir tahun 2024 — artinya sebuah keluarga harus menghemat seluruh pendapatan selama lebih dari 16 tahun tanpa bersantap sama sekali untuk bisa membeli sebuah rumah. Angka ini melampaui London, New York, dan Toronto, serta menempati peringkat teratas di antara kota-kota utama dunia.
 
-Pada Januari 2026, Yuan Legislatif mengesahkan _Undang-Undang Jaminan Hak Kurir Pengiriman dan Manajemen Platform Pengiriman_ (_Wàisòngyuán Quányí Bǎozhàng jí Wàisòng Píngtái Guǎnlǐfǎ_) dalam pembacaan ketiga, yang menetapkan bahwa upah dasar per pesanan tidak boleh kurang dari 45 NTD, dan upah per jam tidak boleh kurang dari 1,25 kali upah minimum; undang-undang ini resmi berlaku mulai pukul 00.00 pada 21 Juli tahun yang sama (lihat [[外送專法]]). Ini adalah tambalan sistem yang terlambat. Sebelumnya, kurir pengiriman berada dalam area abu-abu Hukum Dasar Tenaga Kerja selama bertahun-tahun: tidak dianggap sebagai hubungan kerja formal, tanpa jaminan sosial dan kesehatan tenaga kerja, tanpa jaminan kecelakaan kerja, dan tanpa upah dasar. Platform dapat menurunkan harga pesanan secara sepihak, sementara kurir pengiriman tidak memiliki kemampuan negosiasi.
-
-Adanya "regulasi hukum" memang merupakan kemajuan, namun hal ini juga secara tidak langsung menunjukkan satu hal: bentuk pekerjaan yang menjadi tumpuan hidup ratusan ribu orang membutuhkan waktu hampir tujuh tahun untuk mendapatkan jaminan hukum dasar.
-
-## Bukan Hanya Pengiriman: Berbagai Wajah Pekerjaan Sampingan
-
-Pengiriman hanyalah jenis yang paling mudah untuk dimasuki. Spektrum pekerjaan sampingan pemuda Taiwan jauh lebih luas dari yang dibayangkan.
-
-**Desain dan Teknik Proyek.** Melalui jaringan luar 104, Tasker, atau langsung melalui media sosial. Seorang anak muda yang mahir desain UI mungkin mendapatkan gaji 38 ribu di siang hari, lalu mengambil proyek pembuatan _Landing Page_ di malam hari dengan bayaran 15.000 hingga 30.000 TWD. Kondisi pengembang perangkat lunak lebih baik: satu proyek pengembangan _front-end_ React dapat ditawarkan di atas 50.000 TWD. Keuntungan mengambil proyek adalah upah per jam yang tinggi, namun kekurangannya adalah sumber proyek yang tidak stabil; "bulan ini sangat menguntungkan, bulan depan makan tanah" adalah hal yang lumrah.
-
-**Pengajaran Online dan Monetisasi Pengetahuan.** Hahow Good School memiliki lebih dari 1.000 kursus online dengan 800.000 anggota platform. PressPlay Academy memiliki lebih dari 500 pembuat konten. Satu kursus populer dapat menghasilkan pendapatan jutaan bahkan puluhan juta, tetapi itu adalah puncak piramida. Sebagian besar pengajar memiliki pendapatan yang jauh di bawah skala tersebut, namun biaya waktu untuk membuat kursus sangat tinggi: syuting, penyuntingan, dan pemasaran bisa memakan waktu tiga hingga enam bulan.
-
-**Pengelolaan Media Mandiri.** YouTube, Instagram, Threads, Podcast. Ambang batasnya paling rendah, tetapi langit-langitnya tidak pasti. YouTuber Taiwan memerlukan jumlah pengikut biasanya di atas 100.000 untuk mencapai pendapatan iklan yang stabil. Sebelum itu, media mandiri lebih seperti "pekerjaan sampingan yang mengorbankan waktu".
-
-**Jasa Titip dan E-commerce.** Jastip Jepang-Korea, penjual Shopee. Margin keuntungan tipis tetapi arus kas cepat. Banyak anak muda memulai dari jasa titip dan perlahan membangun jalan menuju e-commerce skala kecil.
-
-Berdasarkan survei 104 Human Resource Bank tahun 2025, 39% pekerja kantoran memiliki pekerjaan sampingan. Jika dilihat berdasarkan generasi, angkanya lebih mengejutkan: Generasi Z (lahir sekitar tahun 1997 atau setelahnya) memiliki proporsi pekerjaan sampingan hingga 57%, sementara Milenial mencapai 48%. Survei dari situs lowongan kerja yes123 bahkan lebih ekstrem: 93,2% orang menyatakan minat untuk menjadi "orang slash".
-
-Apa alasan utama ingin melakukan pekerjaan sampingan? 78,8% orang menjawab "menambah pendapatan". Bukan demi pencapaian diri, tetapi karena uang tidak cukup.
+Seberapa banyak gelar magister bisa membantu? Rata-rata gaji pertama lulusan magister berada di antara 38.000 hingga 42.000 yuan (di luar industri teknologi). Meskipun hanya beberapa ribu yuan lebih dari lulusan sarjana, sewa kamar kecil di Taipei tidak akan memberikan diskon hanya karena kamu memiliki gelar magister. Gaji pertama seorang magister di Taipei mungkin hanya cukup untuk menutupi biaya sewa kamar kecil dan kebutuhan hidup dasar. Selisih gaji dari dua tahun belajar tambahan hampir seluruhnya terserap oleh biaya sewa.
 
 ---
 
-## Pekerja Lepas di Toko Kelontong
+## Platform Pengiriman: Selipan Keselamatan untuk sebuah Generasi
 
-Taiwan memiliki pemandangan yang jarang ditemukan di seluruh dunia: barisan orang duduk bekerja di dalam toko kelontong (convenience store).
+Jumlah kurir pengiriman di Taiwan tumbuh dari 45.000 orang pada 2019 menjadi 145.000 orang pada 2022 — tiga kali lipat dalam tiga tahun.
 
-Ada lebih dari 13.000 toko kelontong di seluruh Taiwan, dan hampir setiap toko memiliki area tempat duduk, Wi-Fi gratis, dan stopkontak. Secangkir kopi Americano seharga 45 TWD bisa membuat seseorang duduk sepanjang sore. Bagi pekerja lepas dan orang "slash" yang tidak memiliki anggaran untuk menyewa ruang kerja bersama (co-working space), 7-ELEVEN dan FamilyMart adalah kantor bergerak termurah.
+Siapa yang 145.000 orang ini? Menurut analisis 104 Bank Sumber Daya Manusia terhadap 8.402 resume dengan pengalaman pengiriman, 42,9% dari mereka belum berusia 24 tahun ketika mulai mengirim, banyak di antaranya adalah mahasiswa yang masih kuliah dan pemuda di bawah 29 tahun. Median gaji mereka adalah 36.000 yuan, dengan median pengalaman kerja hanya 0,9 tahun — artinya sebagian besar meninggalkan pekerjaan ini dalam waktu kurang dari satu tahun.
 
-Kafe juga demikian. Kepadatan kafe tanpa batas waktu di Taiwan sangat tinggi, dengan ratusan tempat yang terdaftar di situs Cafe Nomad yang mencantumkan kecepatan Wi-Fi, jumlah stopkontak, dan tingkat kebisingan. Hal ini sendiri menunjukkan betapa besarnya kebutuhan tersebut: ada seluruh kelompok orang yang membutuhkan tempat murah untuk duduk dan menggunakan laptop demi menghasilkan uang.
+Pengiriman bukanlah tujuan akhir karier, melainkan transisi. Ini adalah kenycamanan ketika gaji tetap tidak cukup, dan penyangga ketika lulusan baru belum menemukan pekerjaan yang diinginkan.
 
-Taiwan menempati peringkat ke-12 dalam laporan _Global Digital Nomad_ tahun 2024, tertinggi di Asia. Di balik peringkat ini, tidak semuanya disebabkan oleh pekerja jarak jauh asing yang datang ke Taiwan untuk menikmati biaya hidup rendah. Sebagian besar didorong oleh ekosistem yang dibangun oleh pekerja lepas dan orang "slash" lokal di Taiwan.
+Pada Januari 2026, Dewan Legislatif meengesahkan _Undang-Undang Perlindungan dan Pengelolaan Platform Pengiriman Kurir_ (lihat [[外送專法]]), yang menetapkan gaji minimum per pesanan sebesar 45 yuan dan upah minimum 1,25 kali lipat upah minimum nasional. Undang-undang ini mulai berlaku pada 21 Juli 2026 pukul 00.00. Ini adalah patch sistem yang sudah lama tertunda. Sebelumnya, kurir pengiriman lama berada di zona abu-abu hukum ketenagakerjaan: bukan merupakan hubungan pekerja tetap, tidak memiliki jaminan kesehatan, tidak memiliki perlindungan kecelakaan kerja, dan tidak memiliki gaji pokok. Platform dapat menurunkan tarif secara sepihak, sementara kurir tidak memiliki kekuatan untuk bernegosiasi.
 
----
-
-## Zona Abu-abu: Realitas yang Tidak Terkejar Hukum
-
-Undang-Undang Ketenagakerjaan Taiwan tidak melarang karyawan melakukan pekerjaan paruh waktu. Posisi Kementerian Tenaga adalah: pekerja berhak melakukan pekerjaan lain di luar jam kerja normal, dan majikan tidak boleh menghukum karyawan karena alasan tersebut.
-
-Terdengar sangat terbuka. Namun kenyataannya lebih kompleks daripada pasal hukum.
-
-Banyak peraturan perusahaan atau kontrak kerja yang menyembunyikan klausul "larangan kompetisi" atau "klausa eksklusivitas", yang meminta karyawan untuk tidak melakukan pekerjaan berbayar lainnya. Meskipun secara hukum validitas klausa semacam ini diperdebatkan: larangan kompetisi memerlukan kompensasi yang wajar dan durasi maksimal dua tahun; namun sebagian besar pekerja muda tidak memahami hal ini dan tidak berani berdebat dengan perusahaan. Hasilnya adalah: mereka melakukan pekerjaan sampingan, tetapi tidak berani memberitahu perusahaan.
-
-Zona abu-abu lainnya adalah pajak. Pendapatan dari proyek, pengiriman, dan e-commerce secara teori harus dilaporkan untuk pajak penghasilan. Namun banyak transaksi kecil—proyek desain seharga tiga ribu TWD, atau tambahan sepuluh ribu TWD dari pengiriman dalam sebulan—sering kali berada di bawah radar sistem pelaporan. Bukan sengaja menghindari pajak, melainkan desain sistem yang belum mengikuti kecepatan ekonomi gig.
-
-Celah perlindungan tenaga kerja bahkan lebih besar. Populasi pekerja non-tipikal di Taiwan mencapai 804.000 orang pada tahun 2024, mencakup 6,95% dari total jumlah tenaga kerja. Angka ini terlihat tidak tinggi, tetapi itu hanya menghitung mereka yang "pekerjaan utama" mereka adalah non-tipikal. Mereka yang memiliki pekerjaan tetap di siang hari dan melakukan pengiriman atau mengambil proyek di malam hari, identitas sampingan mereka sama sekali tidak masuk dalam statistik ketenagakerjaan. Tanpa asuransi tenaga kerja, tanpa perlindungan kecelakaan kerja, dan tanpa kontribusi dana pensiun. Jika terjadi kecelakaan lalu lintas saat mengantar makanan, asuransi dari perusahaan utama tidak akan menanggungnya karena itu bukan dalam perjalanan berangkat atau pulang kerja.
+"Memiliki hukum yang dapat ditegakkan" tentu saja adalah kemajuan, namun hal ini juga mengungkapkan sesuatu: pekerjaan yang menjadi hidup 145.000 orang butuh hampir tujuh tahun untuk mendapatkan perlindungan hukum dasar.
 
 ---
 
-## Masalah Struktural Tidak Bisa Diselesaikan oleh Upaya Individu
+## Bukan Hanya Pengiriman: Spektrum Pekerjaan Sampingan
 
-Satu fakta yang kejam adalah: rasio harga properti terhadap pendapatan di Taiwan melonjak 77% dari tahun 2012 hingga 2023, sementara pada periode yang sama, median gaji hanya naik 14%. Kesenjangan ini tidak bisa dikejar hanya dengan "mengambil satu pekerjaan tambahan".
+Pengiriman hanyalah salah satu bentuk pekerjaan sampingan yang paling mudah dimulai. Spektrum pekerjaan sampingan pemuda Taiwan jauh lebih luas dari yang terbayangkan.
 
-Survei 104 menunjukkan bahwa 57% dari Generasi Z memiliki pekerjaan sampingan. Angka ini sering dikemas sebagai "anak muda sangat ambisius" atau "slash adalah tren baru". Namun jika diletakkan kembali ke dalam konteksnya—lebih dari separuh orang di satu generasi merasa pendapatan dari satu pekerjaan penuh waktu tidak cukup untuk menopang kehidupan—ini bukan tren, melainkan peringatan.
+**Desain dan Pengembangan Proyek.** Di jaringan luar negeri 104, Tasker, bahkan langsung melalui media sosial. Seorang pemuda yang mahir desain UI, di siang hari menerima gaji 38.000 yuan, dan di malam hari mengerjakan satu halaman landing page dengan tarif 15.000 hingga 30.000 yuan. Untuk insinyur program, hasilnya bahkan lebih baik: satu proyek frontend React bisa ditawarkan dengan harga 50.000 yuan. Kelebihan pekerjaan sarian adalah upah yang tinggi, namun kekurangannya adalah ketidakpastian sumber proyek — "bulan ini cukup menjanjikan, bulan depan mungkin kekurangan" adalah hal yang wajar.
 
-Industri AI Taiwan mendorong ekspor semikonduktor, dengan ekspor produk informasi elektronik meningkat 52% pada tahun 2024. Angka PDB terlihat bagus, dan peringkat pendapatan per kapita berada di jajaran atas di Asia. Namun Kantor Statistik juga menunjukkan bahwa proporsi pekerja yang dibayar di bawah rata-rata telah mencapai rekor tertinggi sebesar 69,77%. Buah dari pertumbuhan ekonomi terkonsentrasi tinggi pada rantai industri tertentu; sebagian besar orang tidak mendapatkan bagiannya.
+**Mengajar Online dan Komersialisasi Pengetahuan.** Hahow mengumpulkan lebih dari 1.000 kursus online, dengan 800.000 anggota. PressPlay Academy memiliki lebih dari 500 pembuat konten. Satu kursus yang viral bisa menghasilkan pendapatan jutaan bahkan puluh juta yuan, namun itu hanya di puncak piramida. Sebagian besar pembuat kursus tidak mencapai skala pendapatan tersebut, sementara biaya waktu untuk membuat kursus sangat tinggi: merekam, mengedit, memasarkan, dan butuh waktu tiga hingga enam bulan.
 
-Kaum muda melihat dengan jelas. Mereka tidak mengeluh, mereka membuka aplikasi pengiriman. Mereka tidak menunggu kebijakan membaik, mereka mengambil proyek di akhir pekan. Mereka tidak berharap bisa membeli rumah, mereka menghitung bagaimana cara bertahan hidup.
+**Mengelola Media Sosial Pribadi.** YouTube, Instagram, Threads, Podcast. Hambatan masuknya rendah, namun ambang maksimalnya tidak pasti. Untuk seorang YouTuber di Taiwan mencapai pendapatan iklan yang stabil, jumlah pengikut biasanya harus melebihi 100.000. Sebelum itu, media sosial lebih seperti "pekerjaan sampingan yang menghabiskan waktu".
 
-Kisah generasi "slash" pada dasarnya adalah soal matematika: ketika kecepatan pertumbuhan pendapatan selamanya tidak dapat mengejar biaya hidup, Anda harus memilih untuk menerima kondisi menjadi semakin miskin, atau mengubah diri Anda menjadi beberapa orang sekaligus.
+**Jasa Belanja dan E-commerce.** Membeli atas nama orang lain dari Jepang dan Korea, penjual di Shopee. Marginnya tipis, namun alirannya cepat. Banyak pemuda yang mulai dari jasa belanja, lalu secara bertahap menemukan jalannya sendiri dalam bisnis e-commerce kecil.
 
-Pemuda di Taiwan memilih yang terakhir. Namun hal ini tidak seharusnya dipuji sebagai prestasi. Hal ini harus dianggap sebagai masalah yang perlu diselesaikan.
+Menurut survei 104 Bank Sumber Daya Manusia tahun 2025, 39% pekerja memiliki pekerjaan sampingan. Jika dilihat dari generasi, angka ini semakin mengejutkan: Generasi Z (yang lahir sekitar tahun 1997) memiliki 57% dengan pekerjaan sampingan, sementara Generasi Milenial mencapai 48%. Survei dari yes123 lebih ekstrim lagi: 93,2% orang menyatakan ingin menjadi generasi slanting.
+
+Apa alasan utama ingin memiliki pekerjaan sampingan? 78,8% orang menjawab "untuk meningkatkan pendapatan". Bukan untuk mencapai realisasi diri, melainkan karena uang tidak cukup.
+
+---
+
+## Pekerja Jalanan di Toko Kelontong
+
+Taiwan memiliki fenomena yang langka di dunia: para pekerja yang duduk di dalam toko kelontong.
+
+Lebih dari 13.000 toko kelontong di seluruh negeri, hampir semuanya dilengkapi dengan area duduk, Wi-Fi gratis, dan colokan listrik. Dengan sekiranya kopi seharga 45 yuan, seseorang bisa duduk seharian penuh. Bagi para pekerja bebas dan generasi slanting yang tidak memiliki anggaran untuk menyewa kantor bersama, 7-ELEVEN dan Familymart adalah kantor mobile paling terjangkau.
+
+Kafe juga demikian. Taiwan memiliki kepadatan kafe tanpa batas waktu yang sangat tinggi. Situs Cafe Nomad mencantumkan ratusan kafe yang cocok untuk bekerja, lengkap dengan kecepatan Wi-Fi, jumlah colokan, dan tingkat kebisingan. Fakta bahwa ada seluruh komunitas yang membutuhkan tempat murah untuk duduk dan bekerja dengan laptop mengungkapkan betapa besar kebutuhan ini.
+
+Taiwan menduduki peringkat ke-12 dalam laporan global nomad digital tahun 2024, teratas di Asia. Di balik peringkat ini, tidak hanya para pekerja remote asing yang datang ke Taiwan untuk menikmati biaya hidup yang rendah. Sebagian besar adalah ekonomi lokal para pekerja bebas dan generasi slanting yang mendukung ekosistem ini.
+
+---
+
+## Zona Abu-abu: Realitas yang Tertinggal dari Hukum
+
+Hukum ketenagakerjaan Taiwan tidak melarang pekerja tetap memiliki pekerjaan sampingan. Kementerian Ketenagakerjaan berpendapat bahwa pekerja berhak untuk bekerja di luar jam kerja normal, dan majikan tidak boleh menghukum pekerja karena hal ini.
+
+Terdengar progresif. Namun, realitanya jauh lebih kompleks dari peraturan yang tertulis.
+
+Banyak perusahaan menyimpan klausul "larangan kompetitor" atau "ketentuan eksklusivitas" dalam aturan kerja atau kontrak, yang mengharuskan pekerja tidak boleh memiliki pekerjaan berbayar lainnya. Meskipun secara hukum kekuatan klausul ini diperdebatkan: larangan kompetitor membutuhkan kompensasi yang wajar dan masa berlaku paling lama dua tahun — namun kebanyakan pekerja muda tidak menyadarinya, dan tidak berani melawan perusahaan. Akibatnya: pekerjaan sampingan dilakukan, namun tidak boleh diketahui oleh perusahaan.
+
+Zona abu-abu lainnya adalah pajak. Pendapatan dari proyek, pengiriman, dan e-commerce secara teoritis harus dideklarasikan sebagai penghasilan pajak. Namun, banyak transaksi kecil — seperti proyek desain seharga 3.000 yuan, atau tambahan pendapatan dari pengiriman sebesar 15.000 yuan per bulan — seringkali lolong di sistem pelaporan. Bukan karena sengaja menghindari pajak, melainkan karena sistem pajak belum mengikuti perkembangan ekonomi kerja paruh waktu.
+
+Proteksi ketenagakerjaan juga terlewat. Pekerja non-standar di Taiwan mencapai 804.000 orang pada 2024, setara dengan 6,95% dari total pekerja. Angka ini tampak rendah, namun hanya menghitung mereka yang memiliki "pekerjaan utama" yang tidak standar. Bagi mereka yang memiliki pekerjaan tetap di siang hari dan mengirim makanan atau mengerjakan proyek di malam hari, identitas pekerjaan sampingan mereka tidak tercantum dalam statistik resmi. Tanpa jaminan kesehatan, tanpa perlindungan kecelakaan kerja, tanpa kontribusi pensiun. Jika terjadi kecelakaan lalu lintas saat mengirim, asuransi kesehatan dari pekerjaan tetap tidak akan membantu, karena bukan bagian dari perjalanan pulang-pergi kerja.
+
+---
+
+## Masalah Sistemik Tidak Bisa Diselesaikan oleh Usaha Individu
+
+Fakta yang menyakitkan adalah: rasio harga rumah terhadap pendapatan di Taiwan meningkat 77% antara 2012 hingga 2023, sementara median gaji hanya naik 14% selama periode yang sama. Selisih ini tidak bisa ditutup hanya dengan "membuat satu pekerjaan tambahan".
+
+Survei 104 menunjukkan bahwa 57% dari Generasi Z memiliki pekerjaan sampingan. Angka ini sering disajikan sebagai "pemuda Taiwan penuh semangat" atau "slanting adalah tren baru". Namun, jika kita melihatnya dalam konteks — lebih dari setengah generasi merasa bahwa pendapatan dari satu pekerjaan penuh tidak cukup untuk hidup — ini bukanlah tren, melainkan sinyal bahaya.
+
+Industri AI Taiwan mendorong ekspor setengah konduktif, dengan ekspor produk elektronik naik 52% pada 2024. Angka GDP terlihat baik, dan pendapatan per kapita Taiwan berada di peringkat atas di Asia. Namun, Badan Statistik Nasional Exekutif Presiden juga melaporkan bahwa proporsi pekerja yang menerima gaji di bawah rata-rata mencapai 69,77% — rekor tertinggi dalam sejarah. Buah dari pertumbuhan ekonomi hampir seluruhnya terkonsentrasi pada rantai pasok tertentu, sementara sebagian besar orang tidak mendapat bagiannya.
+
+Pemuda Taiwan jelas melihatnya. Mereka tidak mengeluh, mereka membuka aplikasi pengiriman. Mereka tidak menunggu kebijakan perbaikan, mereka mengerjakan proyek di akhir pekan. Mereka tidak berharap bisa membeli rumah, mereka menghitung cara untuk bertahan.
+
+Cerita generasi slanting pada akhirnya adalah soal matematika: ketika laju kenaikan pendapatan tidak pernah menyusul biaya hidup, kamu harus memilih antara menjadi semakin miskin, atau mengubah dirimu menjadi beberapa orang sekaligus.
+
+Pemuda Taiwan memilih jalan kedua. Namun, ini tidak seharusnya dipuji. Ini seharusnya dianggap sebagai masalah yang perlu diselesaikan.
 
 ---
 
 ## Referensi
 
-1. [Kantor Statistik Utama Administrasi Eksekutif: Statistik Median dan Distribusi Gaji](https://www.stat.gov.tw/cl.aspx?n=2715) — Median gaji tetap tahun 2025 sebesar 38.319 TWD
-2. [104 Human Resource Bank: Laporan Survei Kesejahteraan dan Gaji Wilayah Taiwan 2025-2026](https://blog.104.com.tw/104data/) — 39% pekerja kantor memiliki pekerjaan sampingan, mencapai 57% untuk Generasi Z
-3. [Platform Informasi Properti Kementerian Dalam Negeri: Statistik Rasio Harga Properti terhadap Pendapatan](https://pip.moi.gov.tw/Publicize/Info/E1050) — Rasio harga properti di Kota Taipei sebesar 16,36 kali lipat
-4. [Direktorat Keselamatan dan Kesehatan Kerja Kementerian Tenaga: Statistik Jumlah Pengantar Makanan](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — Jumlah pengantar makanan di seluruh negeri mencapai 145.000 pada tahun 2022
-5. [Era Digital: Undang-Undang Khusus Pengiriman 2026 Menetapkan Minimum 45 TWD per Pesan](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Yuanliwin mengesahkan Undang-Undang Perlindungan Hak Pengantar Makanan
-6. [Berita 591: Penyewa Rumah Mengalami Kesulitan, Rata-rata Sewa di Seluruh Taiwan Mulai dari 6 Ribu TWD](https://news.591.com.tw/news/11622) — Rata-rata sewa bulanan studio independen di Kota Taipei adalah 14.400 TWD
-7. [The News Lens Edisi Internasional: Krisis Perumahan Taiwan — Harga Rumah Termasuk yang Tertinggi secara Global](https://international.thenewslens.com/article/182910) — Perbandingan harga properti dan gaji di Taiwan dengan internasional
-8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Laporan bahasa Inggris mengenai kesulitan pemuda membeli rumah di Taipei
-9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Dampak stagnasi gaji terhadap demokrasi Taiwan
-10. [Renmin Fubao: Proporsi Pekerja Non-Tipikal Mencapai Titik Terendah dalam 10 Tahun pada 2024, Kelompok Kerja Paruh Waktu Mencatat Rekor Tertinggi](https://www.merit-times.com/news/76429) — Statistik pekerjaan non-tipikal dari Kantor Statistik
+1. [Badan Statistik Nasional Exekutif Presiden: Statistik Gaji Median dan Distribusi](https://www.stat.gov.tw/cl.aspx?n=2715) — Median gaji tetap tahun 2025 adalah 38.319 yuan
+2. [104 Bank Sumber Daya Manusia: Laporan Survei Gaji dan Kesejahteraan Taiwan 2025~2026](https://blog.104.com.tw/104data/) — 39% pekerja memiliki pekerjaan sampingan, Generasi Z mencapai 57%
+3. [Platform Informasi Properti Kementerian Dalam Negeri: Statistik Rasio Harga Rumah Terhadap Pendapatan](https://pip.moi.gov.tw/Publicize/Info/E1050) — Rasio harga rumah terhadap pendapatan di kota Taipei adalah 16,36 kali
+4. [Kementerian Ketenagakerjaan, Departemen Keselamatan dan Kesehatan Kerja: Statistik Jumlah Kurir Pengiriman](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — Jumlah kurir pengiriman nasional mencapai 145.000 orang pada 2022
+5. [Era Digital: Undang-Undang Pengiriman Kurir 2026 Menetapkan Gaji Minimum per Pesanan 45 Yuan](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Dewan Legislatif mengesahkan Undang-Undang Perlindungan Kurir Pengiriman
+6. [591 Berita: Penyewa Rumah Sangat Tertekan, Rata-Rata Sewa di Seluruh Negeri Mulai dari 6.000 Yuan](https://news.591.com.tw/news/11622) — Rata-rata sewa kamar kecil di kota Taipei adalah 14.400 yuan per bulan
+7. [The News Lens Edisi Internasional: Krisis Perumahan Taiwan — Harga Rumah di Antara Tertinggi di Dunia](https://international.thenewslens.com/article/182910) — Perbandingan harga rumah dan gaji di Taiwan secara internasional
+8. [Taipei Times: Krisis Perumahan Masih Membuat Pemuda Tidak Mampu Beli Rumah (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Laporan berita dalam bahasa Inggris tentang kesulitan pemuda Taipei membeli rumah
+9. [Ketagalan Media: Taiwan Perlu Meningkatkan Gaji Lebih Cepat untuk Melindungi Demokrasi (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Dampak stagnasi gaji terhadap demokrasi Taiwan
+10. [People Daily: Proporsi Pekerja Non-standar Mencapai Rekor Terendah dalam 10 Tahun pada 2024, Sementara Kelompok Pekerja Paruh Waktu Mencapai Rekor Tertinggi](https://www.merit-times.com/news/76429) — Statistik pekerja non-standar dari Badan Statistik Nasional
 
 ---
 
-## Bacaan Lanjutan
+## Baca Juga
 
-- [Hukum Khusus Pengiriman Makanan](/society/外送專法) — Setelah "tambalan sistem yang terlambat" ini berlaku: apa yang terjadi pada lantai harga 45 yuan yang jatuh ke tubuh manusia nyata, serta dua hal yang tidak dijawabnya
+- [Undang-Undang Pengiriman Kurir](/society/外送專法) — Setelah "patch sistem yang terlambat" diluncurkan: apa yang terjadi ketika lantai 45 yuan benar-benar jatuh ke tubuh nyata, serta dua pertanyaan yang belum terjawab
+- [Siapa yang Dianggap Gaji Rendah](/society/誰算低薪) — Gaji minimum melebihi garis gaji rendah, gaji rendah masuk ke kolom bonus akhir tahun, dan bagi mereka yang bekerja paruh waktu, gaji minimum saja pun tidak cukup untuk mengukur mereka
