@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Culture/八點檔.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c5c6c2825029a48f'
-sourceBodyHash: 'sha256:f0cb0ab3b5428edc'
-translatedAt: '2026-08-09T08:01:31+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:7af3421e7470e32a'
+sourceBodyHash: 'sha256:5c337ebcf1a5b681'
+translatedAt: '2026-09-19T08:36:39.851153+00:00'
 ---
 
 > **30-Second Overview**: The 8 o'clock drama is the most enduring companion in the history of Taiwanese television. Its core lies in the extreme industrialization of "filming and broadcasting simultaneously," allowing fictional plots to breathe in sync with current events. This "manufacturing plant," operating on a low budget, has only one-eighth the budget of Korean dramas, yet it achieves astonishing viewership ratings exceeding 15%. Relying on extreme narrative flexibility and spicy content, it has evolved in the social media era into a unique "cult meme." From the "Orange-Breaking Fist" to the "Flying Michael," 8 o'clock dramas are not just background noise for middle-aged and elderly viewers in their living rooms, but have become a crucial material library for younger generations to remix and deconstruct Taiwan's cultural subjectivity.
@@ -51,18 +51,22 @@ Although viewership for 8 o'clock dramas has mostly fallen into the 2% to 4% ran
 
 In the international market, Taiwan's 8 o'clock dramas demonstrate a powerful "long-tail effect." _The Indelible Memory_ (Yi Nan Wang) set a record in Vietnam with continuous broadcasting for over five years and endless reruns. [14](#user-content-fn-14) The universal structure of family ethics and karmic retribution allows these low-budget dramas to take root more easily in the Southeast Asian Chinese community than exquisite idol dramas.
 
-## Comparison of Cross-Border Production Models
+## Comparison of Cross-National Production Models
 
-Placing Taiwan's 8 o'clock dramas in an international perspective, their "viewership-centric system" forms a sharp contrast with the Korean and American systems.
+When placing Taiwanese _eight o'clock dramas_ (local prime-time soap operas) on the international stage, they form a sharp contrast with the Korean and American systems through their "viewership-centric production model."
 
-| Item                       | Taiwan 8 O'Clock Drama                              | Korean TV Drama                                | American TV Series                       |
-| -------------------------- | --------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
-| **Production Model**       | Filming while broadcasting (Viewership-centric)     | Writer-centric (Shifted to fully pre-produced) | Seasonal pre-production                  |
-| **Cost per Episode**       | 1.3 - 1.5 million NTD                               | 15 - 30 million NTD                            | Over 150 million NTD                     |
-| **Script Flexibility**     | Extremely High (Endings can be changed at any time) | Medium (Little room for change)                | Low (Requires multiple layers of review) |
-| **Social Synchronization** | Immediate inclusion of current events, pandemics    | Delayed by over 6 months                       | Delayed by over 1 year                   |
+| Item                       | Taiwanese Eight O'Clock Dramas                       | Korean Television Dramas                       | American Series                          |
+| :------------------------- | :--------------------------------------------------- | :--------------------------------------------- | :--------------------------------------- |
+| **Production Model**       | Filming while broadcasting (Viewership-centric)      | Screenwriter-centric (Shift to pre-production) | Seasonal pre-production                  |
+| **Episode Cost**           | NT$1.3 - 1.5 million                                 | NT$15 - 30 million                             | Over NT$150 million                      |
+| **Script Flexibility**     | Extremely high (Endings can be changed at any time)  | Medium (Limited room for changes)              | Low (Requires multiple layers of review) |
+| **Social Synchronization** | Real-time incorporation of current events, epidemics | Delayed by 6 months or more                    | Delayed by over 1 year                   |
 
-📝 Curator's Note: When we mock the absurdity of 8 o'clock drama plots, we are actually participating in a collective stress release.
+📝 Curator's Note: When we mock the absurdity of _eight o'clock drama_ plots, we are actually participating in a collective pressure release.
+
+**Further Reading**:
+
+- [Golden Bell Awards](/culture/金鐘獎) — In the era of 《Stars Know My Heart》 and 《Bao Qingtian》, the award recipients for television dramas never left TAI TV, CTV, or HTV.
 
 ## References
 

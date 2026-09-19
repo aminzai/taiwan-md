@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T00:02:15+08:00",
-    "zhCommitHead": "dd4f7437b",
+    "lastUpdated": "2026-09-20T00:30:00+08:00",
+    "zhCommitHead": "acc6edd46",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1032,
-        "stale": 59,
+        "fresh": 1033,
+        "stale": 58,
         "metadata_stale": 11,
         "missing": 22,
         "orphan": 0
@@ -80015,8 +80015,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-09-19T11:59:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "acc6edd4",
+          "translationLastModified": "2026-09-20T00:02:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -99180,18 +99180,16 @@
         "en": {
           "path": "en/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:14127c407e7b0db7",
-          "sourceBodyHash": "sha256:6d452360d79fae70",
-          "translatedAt": "2026-08-03T22:55:36+08:00",
+          "sourceCommitSha": "89b721a3d",
+          "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
+          "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
+          "translatedAt": "2026-09-19T11:59:01+08:00",
           "translationLastCommit": "89b721a3",
           "translationLastModified": "2026-09-18T21:24:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+70 -38"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/tsmc-morris-chang.md",
@@ -154519,8 +154517,8 @@
           "sourceContentHash": "sha256:b8045765d1db3274",
           "sourceBodyHash": "sha256:a195178fa37b285e",
           "translatedAt": "2026-09-19T11:59:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "acc6edd4",
+          "translationLastModified": "2026-09-20T00:02:15+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
