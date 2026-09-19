@@ -2,9 +2,7 @@
 title: 'Q Series: как человек из ноутбуковой индустрии посеял семена возрождения тайваньского телесериала'
 description: 'В 2016 году технологический магнат Тун Цзысянь выделил финансирование, чтобы Вань Сяоди возглавила группу ведущих тайваньских режиссеров в проекте, идущем наперекор коммерческой логике: не снимать блокбастеры, а растить новичков.'
 date: 2026-03-30
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'Кино'
 tags:
   [
     'Q Series',
@@ -13,15 +11,17 @@ tags:
     'Сю Гуаньхань',
     'Золотой колокол',
   ]
-readingTime: 7
+subcategory: 'Кино'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
-featured: false
+readingTime: 7
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:37996f439df838f6'
-sourceBodyHash: 'sha256:0818e9fb5c8333f5'
-translatedAt: '2026-07-26T00:17:01+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:fa35ce866d7f44e8'
+sourceBodyHash: 'sha256:449507a2e31a92cb'
+translatedAt: '2026-09-19T07:21:52.537513+00:00'
 ---
 
 # Q Series: как человек из ноутбуковой индустрии посеял семена возрождения тайваньского телесериала
