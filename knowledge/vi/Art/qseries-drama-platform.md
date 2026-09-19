@@ -18,11 +18,10 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c5abd7149e79a1b715537c06b51caef75222f8f942367ecfb2fd321364770f45'
-sourceBodyHash: 'sha256:c573a2bd180e9b2ebfa262ea4cb3ee4e0fcca4928fdeb05c3a99fc391034f6f1'
-translatedAt: 2026-07-31T04:30:00Z
-imageAlt: 'Hình ảnh đạo diễn Vương Tiểu Hàng với các diễn viên trong chương trình Q Series'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:fa35ce866d7f44e8'
+sourceBodyHash: 'sha256:449507a2e31a92cb'
+translatedAt: '2026-09-19T06:56:16.300796+00:00'
 ---
 
 # Q Series: Một người làm máy tính xách tay đã cách nào trồng hạt giống cho nền công nghiệp phim truyền hình Đài Loan phục hưng

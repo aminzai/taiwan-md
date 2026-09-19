@@ -1,179 +1,148 @@
 ---
-translatedFrom: 'Art/台灣原住民當代藝術.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:8e3303199d60c0c9'
-sourceBodyHash: 'sha256:83f9f1bad3cb5feb'
-translatedAt: '2026-08-09T11:16:34+08:00'
-title: 'Nghệ thuật đương đại của người bản địa Đài Loan'
-description: 'Từ thủ công truyền thống đến sáng tạo đương đại, khám phá cách những nghệ sĩ bản địa Đài Loan phát ngôn trên sân khấu nghệ thuật toàn cầu, tái định nghĩa đối thoại giữa bản sắc bản địa và nghệ thuật đương đại'
+title: 'Nghệ thuật đương đại của các dân tộc bản địa Đài Loan'
+description: 'Từ thủ công truyền thống đến sáng tạo đương đại, khám phá cách các nghệ sĩ bản địa Đài Loan lên tiếng trên sân khấu nghệ thuật toàn cầu, định nghĩa lại bản sắc bản địa và cuộc đối thoại với nghệ thuật hiện đại.'
 date: 2026-03-20
 category: 'Art'
 tags:
   [
-    'người bản địa Đài Loan',
-    'nghệ thuật đương đại',
-    'thủ công truyền thống',
-    'bản sắc',
-    'nghệ sĩ',
-    'hồi sinh văn hóa',
+    'Dân tộc bản địa',
+    'Nghệ thuật đương đại',
+    'Thủ công truyền thống',
+    'Bản sắc',
+    'Nghệ sĩ',
+    'Hồi sinh văn hóa',
   ]
 subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-09-18
 lastHumanReview: false
 readingTime: 8
-relatedDiary: []
-sporeLinks: []
-imageCredit: []
+translatedFrom: 'Art/台灣原住民當代藝術.md'
+sourceCommitSha: '5f683a19c'
+sourceContentHash: 'sha256:95cf1ca6d1302123'
+sourceBodyHash: 'sha256:a6d8e0ae74d03252'
+translatedAt: '2026-09-19T11:59:06+08:00'
 ---
 
-# Nghệ thuật đương đại của người bản địa Đài Loan
+# Nghệ thuật đương đại của các dân tộc bản địa Đài Loan
 
-Nghệ thuật đương đại của người bản địa Đài Loan đã trải qua những biến đổi sâu sắc trong 30 năm qua. Bắt đầu từ những năm 1990, một nhóm nghệ sĩ bản địa rời khỏi các bộ lạc, bước vào thế giới nghệ thuật chính thống, dùng sáng tạo của họ để tái định nghĩa khái niệm "nghệ thuật bản địa" là gì. Ngoài vai trò là những người bảo tồn thủ công truyền thống, họ còn trở thành những người sáng tạo đối thoại với những vấn đề đương đại, thể hiện khuôn mặt của văn hóa bản địa Đài Loan trên các sân khấu nghệ thuật khác nhau[^1].
+Nghệ thuật đương đại của các dân tộc bản địa Đài Loan đã trải qua những chuyển đổi sâu sắc trong ba thập kỷ qua. Bắt đầu từ những năm 1990, một nhóm nghệ sĩ bản địa đã rời khỏi các bộ lạc để bước vào thế giới nghệ thuật chính thống, định nghĩa lại khái niệm "nghệ thuật bản địa" thông qua các tác phẩm của họ. Họ không chỉ là người gìn giữ thủ công truyền thống mà còn là những nhà sáng tạo đối thoại với các vấn đề đương đại trên nhiều sân khấu nghệ thuật, thể hiện diện mạo văn hóa dân tộc bản địa Đài Loan [^2].
 
-## Từ thủ công truyền thống đến sáng tạo đương đại
+## Từ thủ công truyền thống đến chuyển hóa đương đại
 
 ### Nền tảng nghệ thuật của thủ công truyền thống
 
-Tất cả các nhóm tộc người bản địa Đài Loan đều sở hữu những kỹ thuật thủ công truyền thống tinh tế, những kỹ năng này là những nguồn dinh dưỡng quan trọng cho sáng tạo đương đại. Nghệ thuật dệt của người Thái Raiya, chạm khắc gỗ của người Bạn Liêu, nghệ thuật gốm của người A Mĩ, kỹ thuật đóng tàu của người Đạt Hoàn — mỗi kỹ thuật đều chứa đựng ý nghĩa văn hóa sâu sắc và những lý tưởng thẩm mỹ.
+Các dân tộc bản địa khác nhau ở Đài Loan đều sở hữu những kỹ thuật thủ công tinh xảo, và những kỹ năng này là nguồn dinh dưỡng quan trọng cho sự sáng tạo đương đại. Dệt may của người Thái Nhã (Atayal), điêu khắc gỗ của người Bành Loan (Paiwan), gốm sứ của người A Mi (Amis), và nghề đóng thuyền của người Đạt Ngộ (Tagalan) – mỗi kỹ thuật đều chứa đựng ý nghĩa văn hóa sâu sắc và lý tưởng thẩm mỹ.
 
-Nghệ thuật dệt của người Thái Raiya là tinh tế nhất. Vải được dệt trên khung dệt truyền thống, sử dụng các họa tiết hình học như hình thoi và sọc, mỗi họa tiết đều có tên riêng và ý nghĩa. Họa tiết "Mắt Tổ tiên" đại diện cho sự bảo vệ của ông bà, "Ánh sáng mặt trời" tượng trưng cho sức sống. Những họa tiết này không chỉ là trang trí, mà còn là những tải thể của ký ức nhóm tộc.
+Nghệ thuật dệt may của người Thái Nhã là tinh xảo nhất. Các tấm vải được dệt bằng khung cửi truyền thống sử dụng các họa tiết hình thoi, sọc, v.v., mỗi hoa văn đều có tên gọi và ý nghĩa riêng. Hoa văn "Mắt tổ linh" đại diện cho sự bảo hộ của tổ tiên, còn "Ánh mặt trời" tượng trưng cho sức sống. Những hoa văn này không chỉ là trang trí mà còn là vật mang ký ức của bộ tộc.
 
-Nghệ thuật chạm khắc gỗ và chạm khắc đá của người Bạn Liêu cũng không kém phần tuyệt vời. Họa tiết rắn trăm bước, họa tiết đầu người, họa tiết mặt trời là những yếu tố cổ điển nhất, thể hiện sự kính trọng của người Bạn Liêu đối với thiên nhiên và ông bà. Chạm khắc gỗ truyền thống được sử dụng chủ yếu để trang trí nhà của thủ lĩnh, thể hiện địa vị quý tộc và vị thế xã hội.
+Kỹ thuật điêu khắc gỗ và chạm khắc đá của người Bành Loan cũng vô cùng ấn tượng. Các họa tiết như rắn trăm bước, đầu người, và mặt trời là những yếu tố kinh điển, thể hiện sự tôn kính của người Bành Loan đối với tự nhiên và tổ tiên. Thủ công mỹ nghệ truyền thống thường được dùng để trang trí nhà tù trưởng, thể hiện địa vị quý tộc và xã hội.
 
-Những kỹ thuật truyền thống này đang phải đối mặt với khủng hoảng truyền thừa trong thời đại đương đại, nhưng đồng thời chúng cũng cung cấp những chất liệu và nguồn cảm hứng phong phú cho sáng tạo nghệ thuật hiện đại. Nhiều nghệ sĩ bản địa đã tái diễn giải những yếu tố truyền thống này trong sáng tạo của họ, cho phép những kỹ thuật cổ xưa tái sinh sức sống trong bối cảnh hiện đại.
+Những kỹ thuật truyền thống này đang đối mặt với khủng hoảng kế thừa trong thời đại mới, nhưng đồng thời cũng cung cấp nguồn tư liệu và cảm hứng phong phú cho sáng tạo đương đại. Nhiều nghệ sĩ bản địa đã tái diễn giải các yếu tố truyền thống này trong tác phẩm của mình, giúp những kỹ năng cổ xưa được hồi sinh trong bối cảnh hiện đại.
 
-### Quá trình chuyển đổi từ truyền thống đến đương đại
+#### Sự chuyển giao từ truyền thống sang đương đại
 
-Vào cuối những năm 1980, xã hội Đài Loan bắt đầu coi trọng các văn hóa đa dạng, khả năng hiển thị của nghệ thuật bản địa có phần nào được nâng cao. Tổ chức "Mùa nghệ thuật bản địa Đài Loan" năm 1988 là điểm khởi đầu cho sự đưa nghệ thuật bản địa vào hệ thống nghệ thuật chính thống[^1]. Sự kiện này không chỉ trưng bày thủ công truyền thống, mà còn khuyến khích sáng tạo đổi mới.
+Vào cuối những năm 1980, xã hội Đài Loan bắt đầu chú trọng đến văn hóa đa dạng, và khả năng hiển thị của nghệ thuật bản địa đã tăng lên. Từ những năm 1990, thế hệ các nhà sáng tạo như Sách Cổ Lưu Ba Va Va Lũng (Sakuliu Pavavaljung) và La Hắc Tử Đạt Lập Phu (Rahic Talif) lần lượt thoát khỏi khuôn khổ thủ công bộ lạc để đối thoại với hệ thống nghệ thuật chính thống thông qua điêu khắc, sắp đặt và nghệ thuật trình diễn. "Triển lãm Nghệ thuật Bản địa Đương đại tại Bảo tàng Thành phố Đài Bắc" năm 1998 là một cột mốc thường được nhắc đến; An Thánh Huệ (Eleng Luluan) đã được mời tham gia triển lãm vào năm đó, chuyển từ xưởng hoa sang sáng tạo nghệ thuật [^1].
 
-Trong cùng thời kỳ, một số nghệ sĩ bản địa bắt đầu nhận giáo dục nghệ thuật hiện đại, học các kỹ thuật nghệ thuật phương Tây như vẽ dầu, điêu khắc, khắc xưởng. Trong quá trình học tập, họ suy tư về cách kết hợp văn hóa truyền thống với nghệ thuật hiện đại, mở ra cuộc khám phá về "thủ công truyền thống đương đại hoá".
+Cùng thời điểm đó, một số nghệ sĩ bản địa bắt đầu tiếp thu giáo dục nghệ thuật hiện đại, học các kỹ thuật phương Tây như hội họa sơn dầu, điêu khắc và in ấn. Trong quá trình học tập, họ suy ngẫm về cách kết hợp văn hóa truyền thống với nghệ thuật hiện đại, mở ra sự khám phá về "hiện đại hóa thủ công truyền thống".
 
-Quá trình chuyển đổi này không diễn ra suôn sẻ. Những tác phẩm sáng tạo sơ kỳ thường bị nghi ngờ là "không đủ truyền thống" hoặc "không đủ đương đại", nghệ sĩ phải tìm sự cân bằng giữa giữ gìn tính xác thực của văn hóa và theo đuổi sự đổi mới về nghệ thuật. Sau nhiều năm khám phá, nghệ thuật đương đại của người bản địa Đài Loan dần dần phát triển thành một đặc điểm và từ vựng riêng của mình.
+Quá trình chuyển giao này không hề suôn sẻ. Các tác phẩm ban đầu thường bị chất vấn là "chưa đủ truyền thống" hoặc "chưa đủ đương đại"; các nghệ sĩ phải tìm kiếm sự cân bằng giữa việc giữ gìn tính chân thực văn hóa và theo đuổi sự đổi mới nghệ thuật. Sau nhiều năm khám phá, nghệ thuật đương đại của các dân tộc bản địa Đài Loan dần phát triển nên phong cách và ngôn ngữ riêng.
 
-## Những nghệ sĩ quan trọng và quá trình sáng tạo
+## Các nghệ sĩ tiêu biểu và quá trình sáng tạo
 
-### Những người sáng lập thế hệ đầu
+### Thế hệ tiên phong
 
-**Sakinu Pawavalung** (撒古流‧巴瓦瓦隆) là một tiên phong quan trọng của nghệ thuật đương đại của người bản địa Đài Loan. Vị nghệ sĩ người Bạn Liêu này bắt đầu sáng tạo từ những năm 1980, kết hợp kỹ thuật chạm khắc gỗ truyền thống của người Bạn Liêu với khái niệm lắp đặt nghệ thuật đương đại. Loạt tác phẩm "Nhà của tổ tiên" của anh ấy biến khái niệm nhà truyền thống thành những tác phẩm lắp đặt quy mô lớn, tái hiện không gian thiêng liêng của người Bạn Liêu trong không gian bảo tàng.
+**Sách Cổ Lưu Ba Va Va Lũng** (Sakuliu Pavavaljung, sinh năm 1960) đến từ bộ lạc Đạt Oa Lan ở Tam Địa Môn, huyện Bình Đông, là thành viên của một gia đình nghệ nhân Bành Loan qua ba thế hệ. Ông thành lập xưởng Cổ Lưu vào năm 1978, với các tác phẩm trải dài trên hội họa, điêu khắc, gốm sứ và kiến trúc; ông đã cống hiến lâu dài cho việc ghi chép và hồi sinh kiến trúc nhà đá truyền thống Bành Loan và thẩm mỹ truyền thống. Năm 2018, ông trở thành nghệ sĩ bản địa đầu tiên nhận giải thưởng Mỹ thuật của Giải thưởng Văn nghệ Quốc gia [^3][^4]. Tuy nhiên, lịch sử này có một mặt khác. Năm 2021, ông được chọn làm đại diện Đài Loan tại Triển lãm Mùa xuân Venice lần thứ 59, sau đó bị cáo buộc quấy rối tình dục; Bảo tàng Thành phố Đài Bắc đã chấm dứt tư cách đại diện của ông vào tháng 1 năm 2022. Năm 4 năm 2026, Tòa án Tối cao đã ra phán quyết, và Hội Văn nghệ Quốc gia đã thu hồi danh hiệu giải thưởng của ông [^3][^5].
 
-Sáng tạo của Sakinu Pawavalung xoay quanh việc hồi sinh văn hóa là lõi. Anh ấy thành lập một xưởng ở Tam Địa Môn, tỉnh Bình Đông, huấn luyện thế hệ trẻ về kỹ thuật chạm khắc gỗ, truyền lại kỹ thuật truyền thống cho thanh niên bản địa thành thị (để biết thêm về lý tưởng sáng tạo, xem trang giới thiệu nghệ sĩ của [Trung tâm phát triển văn hóa dân tộc bản địa](https://www.tacp.gov.tw/)).
+**Du Mã Đạt Lục** (Yuma Taru) là một nhân tố quan trọng trong việc phục hưng nghề dệt may Thái Nhã. Bà xuất thân từ bộ lạc Tượng Tị, Miêu Lật, và đã dành gần hai mươi năm để tái tạo trang phục truyền thống của các nhóm Thái Nhã khác nhau, thành lập "Xưởng Dệt Phong Đồng" (Yě Tóng Gōngfāng) cùng những người phụ nữ dệt trong bộ lạc, và được Bộ Văn hóa ghi danh là một nghệ nhân bảo tồn nghề dệt nhuộm Thái Nhã quan trọng [^6][^7]. Công việc của bà đã biến nghề dệt từ cổ vật trong tủ bảo tàng trở thành kỹ năng sống đang được mặc, dệt và dạy lại trong bộ lạc.
 
-**Yuma Taru** (尤瑪‧達陸) là một người đi đầu quan trọng trong nghệ thuật dệt của người Thái Raiya. Từ những năm 1990, bà đã tham gia vào công việc hồi sinh dệt truyền thống, không chỉ bảo tồn kỹ thuật truyền thống mà còn đưa nghệ thuật dệt vào lĩnh vực nghệ thuật đương đại. Cơ sở "Công xưởng Thích Hợp" được bà thành lập là một nơi quan trọng để thúc đẩy văn hóa dệt của người Thái Raiya[^2].
+### Thế hệ đột phá
 
-Những tác phẩm dệt của Yuma Taru vừa giữ lại kỹ thuật truyền thống, vừa dám thử các kết hợp màu sắc và họa tiết mới mẻ. Tác phẩm dệt quy mô lớn "Lời nói của tổ tiên" của bà được trưng bày tại Lễ hội hai năm Đài Bắc năm 2010, cho phép thế giới nghệ thuật quốc tế nhìn thấy sức hấp dẫn đương đại của nghệ thuật dệt của người bản địa Đài Loan.
+**La Hắc Tử Đạt Lập Phu** (Rahic Talif, sinh năm 1962) là một nghệ sĩ A Mi đến từ bộ lạc Cảng Khẩu (Makota'ay), Hoa Liên. Tác phẩm của ông trải dài trên điêu khắc, sắp đặt, nghệ thuật trình diễn và thiết kế đồ nội thất; ông cũng viết tản văn. Từ các tác phẩm như _Tập hợp Hiện đại_, _Vũ điệu Đứng dậy_, _Dư_ (1993), đến "Dự án Bão" (2008–2013), "Không gian Năm Mươi Bước" (2013–2018) và "Biển Mỹ/Bảo Tàng Vô" (2018–2020), ông liên tục đi dọc bờ biển, nhặt gỗ trôi dạt và rác thải biển làm vật liệu, đưa hoàn cảnh của bộ lạc cùng sự thay đổi của đường bờ biển vào tác phẩm [^8]. Tên "Không gian Năm Mươi Bước" bắt nguồn từ một câu nói của cha ông: chúng ta chỉ còn năm mươi bước.
 
-### Những người đi đầu thế hệ thứ hai
+**An Thánh Huệ** (Eleng Luluan, sinh năm 1968) đến từ gia đình tù trưởng Rukuai ở bộ lạc Cựu Hảo Trà, Bình Đông. Ban đầu bà điều hành xưởng hoa, và sau khi được mời tham dự triển lãm nghệ thuật bản địa đương đại của Bảo tàng Bắc Mỹ vào năm 1998, bà đã bước vào sáng tạo nghệ thuật. Đầu những năm 2000, bà chuyển đến Đài Tồng, gia nhập "Bộ lạc Ý Thức" tại bãi biển Kim Trân để sáng tác tại chỗ. Bà chuyên về điêu khắc đa vật liệu và sắp đặt môi trường; tác phẩm tiêu biểu _Giấc mơ và Giấc mơ_ là một tác phẩm sắp đặt lớn giống như mẫu thể (mother body), được dệt từ các thanh nhựa polypropylene màu trắng, túi đóng gói và giấy gói. Năm 2019, "Triển lãm Nghệ thuật Bản địa Đương đại Toàn cầu năm năm" của Phòng trưng bày Quốc gia Canada đã mời bảy mươi nghệ sĩ, và bà là nghệ sĩ bản địa duy nhất Đài Loan được mời [^1].
 
-**Rahic Talif** (拉黑子‧達立夫) là một nghệ sĩ đương đại sinh ra từ người A Mĩ, sáng tạo của anh ấy dám thách thức ranh giới giữa truyền thống và hiện đại. Anh ấy đã tham gia vào nhiều triển lãm quốc tế quan trọng, là một trong những nghệ sĩ bản địa Đài Loan có khả năng hiển thị cao nhất trong lĩnh vực quốc tế[^2].
+### Thế hệ đổi mới
 
-Loạt tác phẩm "Nguyện/Nguyên" của Rahic Talif khám phá tính phức tạp của bản sắc bản địa. Anh ấy tạo ra những tác phẩm lắp đặt quy mô lớn bằng gỗ trôi dạt, đồ vật bỏ đi và vật liệu hiện đại, phản ánh tình cảnh của người bản địa trong xã hội hiện đại. Gỗ trôi dạt trong tác phẩm tượng trưng cho sự mất gốc của người bản địa, nhưng đồng thời cũng thể hiện sức sống bền bỉ.
+**Lam Giới Văn** (Labay Eyong, sinh năm 1982) là một nghệ sĩ Thái Lộc Cốc đến từ bộ lạc Hồng Diệp, Hoa Liên. Năm 2008, bà tốt nghiệp Khoa Thiết kế Không gian Tạm thời của Đại học Tự trị Barcelona. Sau khi trở về bộ lạc, bà đã học kỹ thuật dệt khung cửi truyền thống Ubung từ các trưởng lão như Liêu A Hảo, kết hợp dệt may với kim hoàn để tạo ra điêu khắc mềm, video và nghệ thuật công cộng; bà đã giành giải Nhất tại Giải thưởng Nghệ thuật Pulima hai lần vào năm 2014 và 2016. Năm 2021, bà đã thực hiện một buổi trình diễn hành động mang tên _Bao Sơn Dungku Asang_ gần khu mỏ Thụy Tân ở bộ lạc Hồng Diệp, sử dụng dệt may để bao bọc khối núi đang được khai thác [^9][^10][^11].
 
-Phương pháp sáng tạo của anh ấy kết hợp nghệ thuật biểu diễn, nghệ thuật lắp đặt và nghệ thuật hình ảnh, phá vỡ những hạn chế của các phương tiện truyền thống. Tác phẩm "Nếu em đứng ở tâm điểm của thế giới hét lên tình yêu" tại Lễ hội hai năm Venice sử dụng những bài hát truyền thống của người A Mĩ và công nghệ hình ảnh đương đại, tạo ra một trải nghiệm thị giác-thính giác rung động.
+**Y Đán Ba Va Va Lũng** (Etan Pavavalung) cũng xuất thân từ gia đình Ba Va Va Lũng của bộ lạc Đạt Oa Lan, với các tác phẩm trải dài trên thơ, tản văn, hội họa, in ấn, điêu khắc, sắp đặt và ghi hình. Năm 2009, ông phát triển một kỹ thuật do chính mình đặt tên là "Khắc hoa văn" (Wén Qì Kè Huà): dùng dao điêu khắc để tạo ra các đường nét của "hoa văn" đất đai và rừng núi, kết cấu xếp chồng của nhà đá; sau đó "vẽ" lên màu sắc theo mùa, và trưng bày tác phẩm _Gió trên Núi Thơm_ tại Bảo tàng Bắc Mỹ cùng năm [^12].
 
-**An Sheng-hui** (安聖惠) là một nghệ sĩ gốm sứ người Bạn Liêu, sáng tạo của cô ấy đưa kỹ thuật gốm truyền thống lên cao độ của gốm đương đại. Tác phẩm của cô ấy kết hợp hình dáng và kỹ thuật nung của gốm truyền thống của người Bạn Liêu, nhưng về hình thức và khái niệm lại tự do và thử nghiệm hơn.
-
-Loạt tác phẩm "Ký ức đất đai" của An Sheng-hui sử dụng đất sét để ghi lại không gian bộ lạc và ký ức cuộc sống của người Bạn Liêu. Cô ấy thu thập đất từ các bộ lạc khác nhau, trộn lẫn và nung chúng thành gốm, để mỗi tác phẩm đều mang lại lịch sử và ký ức của một địa điểm cụ thể.
-
-### Những nhà sáng tạo thế hệ thứ ba
-
-**Eleng Luluan** (峨冷‧魯魯安) là một nhà làm cuộc triển lãm và nghệ sĩ sinh ra từ người Lộc Khải, cô ấy lâu dài tận tâm thúc đẩy phát triển nghệ thuật đương đại của người bản địa. "Lễ hội nghệ thuật trên sườn dốc" được cô ấy tiến hành là một nền tảng quan trọng để thể hiện năng lượng sáng tạo của những nghệ sĩ bản địa thế hệ mới (xem thông tin liên quan của Quỹ phát triển sự nghiệp văn hóa dân tộc bản địa).
-
-Lý tưởng làm cuộc triển lãm của Eleng Luluan nhấn mạnh "loại bỏ biên giới", cô ấy tin rằng nghệ thuật bản địa không nên được xem là "đặc biệt" hay "khác", mà nên là một phần quan trọng của nghệ thuật đương đại Đài Loan. Triển lãm "Hóa ra là như vậy" được cô ấy tiến hành đã sắp xếp lại quỹ đạo phát triển của nghệ thuật bản địa Đài Loan, nhận được đánh giá cao từ giới nghệ thuật.
-
-**Lin Jie-wen** (林介文) là một nghệ sĩ thế hệ trẻ sinh ra từ người A Mĩ, sáng tạo của anh ấy sử dụng rộng rãi công nghệ phương tiện mới. Tác phẩm VR "Biển của người A Mĩ" của anh ấy cho phép khán giả hòa mình vào văn hóa biển của người A Mĩ, trải nghiệm cuộc sống thợ cá săn bắn truyền thống.
-
-Sáng tạo của Lin Jie-wen phản ánh kinh nghiệm văn hóa của thế hệ bản địa số. Anh ấy nói: "Thế hệ bản địa của chúng tôi lớn lên trong một thế giới kỹ thuật số, sử dụng các phương tiện kỹ thuật số để sáng tạo là rất tự nhiên. Chìa khóa là làm thế nào để sử dụng công nghệ hiện đại để truyền tải những hiểu biết cổ xưa."
-
-## Những vấn đề đương đại và đối thoại văn hóa
+## Các vấn đề đương đại và đối thoại văn hóa
 
 ### Khám phá bản sắc
 
-Vấn đề cốt lõi mà những nghệ sĩ đương đại bản địa phải đối mặt là bản sắc. Phần lớn trong số họ lớn lên trong xã hội thành thị do người Hán chủ đạo, sự kết nối với văn hóa truyền thống có thể gián đoạn hoặc mơ hồ. Làm thế nào để tái kết nối với gốc rễ văn hóa, đồng thời thiết lập một bản sắc đương đại, là một chủ đề quan trọng trong sáng tạo của nhiều nghệ sĩ.
-
-Tác phẩm nhiếp ảnh "Chúng tôi là ai" của **Etan Pavavalung** (伊誕‧巴瓦瓦隆) ghi lại các hình thái cuộc sống của người bản địa thành thị. Anh ấy chụp ảnh những công nhân, sinh viên và nhân viên văn phòng bản địa làm việc tại Đài Bắc, thể hiện những nỗ lực của họ trong việc giữ gìn bản sắc văn hóa trong cuộc sống thành thị.
-
-Trong những bức ảnh này, chúng ta thấy những nhân viên văn phòng mặc áo vest nhưng đeo vòng cổ truyền thống, những sinh viên làm việc tại cửa hàng tiện lợi nhưng nói tiếng dân tộc, những gia đình sống trong chung cư nhưng vẫn thực hiện những nghi lễ truyền thống. Những hình ảnh này phản ánh tính phức tạp và đa dạng của bản sắc bản địa đương đại.
+Vấn đề cốt lõi mà các nghệ sĩ bản địa đương đại phải đối mặt là bản sắc. Hầu hết họ lớn lên trong xã hội đô thị do người Hán thống trị, và có thể có sự đứt gãy hoặc mơ hồ trong mối liên kết với văn hóa truyền thống. Làm thế nào để tái kết nối với cội nguồn văn hóa đồng thời xây dựng bản sắc đương đại là chủ đề quan trọng trong sáng tạo của nhiều nghệ sĩ. Nhiều nghệ sĩ được đề cập ở trên đều bắt đầu từ việc "quay về": Hi Cự Tô Phi trở về Đô Lan từ công trường Đài Bắc, Y Hữu Cát Chiếu trở về bộ lạc Cảng Khẩu từ Đài Bắc, Lam Giới Văn trở về Hồng Diệp từ Barcelona. Chỉ sau khi quay về họ mới bắt đầu học điêu khắc gỗ, học dệt may, và dùng ngôn ngữ đương đại để diễn đạt những gì đã học được.
 
 ### Vấn đề đất đai và môi trường
 
-Đất đai là nền tảng của văn hóa bản địa, đồng thời cũng là một chủ đề quan trọng trong sáng tạo nghệ thuật đương đại. Nhiều nghệ sĩ thể hiện qua tác phẩm của họ những mối quan tâm đến sự phát triển đất đai, phá hoại môi trường, bênh vực quyền lợi đất đai của các dân tộc bản địa.
+Đất đai là cội rễ của văn hóa bản địa, và cũng là chủ đề quan trọng trong sáng tạo nghệ thuật đương đại. Nhiều nghệ sĩ bày tỏ sự quan tâm đến việc phát triển đất đai và phá hủy môi trường thông qua tác phẩm, lên tiếng cho quyền lợi đất đai của các dân tộc bản địa.
 
-**Siki Sufin** (希巨‧蘇飛) là một nghệ sĩ của người Thái Raiya, tác phẩm cảnh quan quy mô lớn "Tiếng gọi của người mẹ" được trưng bày tại huyện Tiêu Thạch, tỉnh Tân Trúc. Tác phẩm này được xếp chồng bằng đá địa phương thành một cấu trúc xoắn ốc khổng lồ, tượng trưng cho vòng tay của Mẹ Đất. Các loại thực vật truyền thống được trồng xung quanh tác phẩm, tái hiện kiến thức sử dụng thực vật của người Thái Raiya.
+**Hi Cự Tô Phi** (Siki Sufin, sinh năm 1966) là một nghệ nhân điêu khắc gỗ A Mi ở Đô Lan, Đài Tồng. Khi còn trẻ ông làm việc tại công trường Đài Bắc, và vào năm 1995 đã nghỉ việc trở về bờ biển phía Đông; ông học điêu khắc gỗ tại xưởng của La Hắc Tử ở bộ lạc Cảng Khẩu, và khoảng năm 2000, ông thuê Nhà kho số 3 của nhà máy đường Đô Lan, trở thành nghệ sĩ đầu tiên định cư tại nhà máy. Loạt tác phẩm "Cánh của Cao Sa" (Gao Sha De Bi Dang), được sáng tạo liên tục từ năm 2006, quan tâm đến các đội dân quân Cao Sa bị trưng dụng trong thời kỳ Nhật Bản và các cựu binh Đài Loan, muốn khắc một con đường cho những linh hồn chưa thể trở về [^13].
 
-Tác phẩm này vừa có chức năng thẩm mỹ vừa giáo dục môi trường, đồng thời cũng là một không gian truyền thừa văn hóa. Khán giả trong khi chiêm ngưỡng tác phẩm cũng học hỏi được trí tuệ sinh thái của người Thái Raiya.
+**A Đạo Ba Lạp Phu Nhiệm Nhi Sơn** (Adaw Palaf Langasan, sinh năm 1949) là một nhà làm sân khấu và nhà thơ A Mi đến từ bộ lạc Thái Ba Mạc ở Quang Phục, Hoa Liên. Ông gia nhập "Nguyên Vũ Giả" vào năm 1991, và vào năm 2012 đã thành lập "Nhà hát Nhiệm Nhi Sơn" tại Thái Ba Mạc; tên đoàn kịch bắt nguồn từ ngọn núi linh thiêng Cilangasan trong thần thoại A Mi. Tác phẩm sân khấu _Misa-Lisin_ (彌莎．禮信) năm 2014 đã tham gia Liên hoan Sân khấu Edinburgh với tư cách là đội trọng điểm của "Quý Đài Loan" [^14][^15].
 
-**Adaw Palaf Langasan** (阿道‧巴辣夫‧冉而山) là một nghệ sĩ của người Bìn Nam, tác phẩm hình ảnh "Giọng hát của chất thải hạt nhân" ghi lại cuộc đấu tranh của người Đạt Hoàn tại Lan Tự chống lại trữ trữ chất thải hạt nhân. Trong tác phẩm, những bậc lão của người Đạt Hoàn sử dụng những bài hát truyền thống để thể hiện sự tức giận và sorrow (nỗi buồn) đối với ô nhiễm môi trường.
+### Ký ức về biển và bộ lạc
 
-Những sáng tạo này thể hiện trách nhiệm xã hội của những nghệ sĩ bản địa: họ vừa là những người sáng tạo thẩm mỹ, vừa là những người bảo vệ văn hóa, và cũng là những người phát ngôn vì các vấn đề môi trường.
+Bộ lạc Cảng Khẩu là một ví dụ đặc biệt: cùng một bộ lạc lại sinh ra các nghệ sĩ như La Hắc Tử, Y Hữu Cát Chiếu, Sách Bộ Cát Chiếu, những người sáng tác bằng gỗ trôi dạt, và các tác phẩm của họ đều xoay quanh biển.
 
-### Giới tính và ký ức gia đình
+**Y Hữu Cát Chiếu** (Iyo Kacaw) trở về bộ lạc Cảng Khẩu từ Đài Bắc vào năm 2002, học làm nghệ thuật gỗ trôi dạt với La Hắc Tử; đồng thời kiếm sống bằng cách bắt tôm và đánh cá. Những kinh nghiệm thể chất trên biển này đã trở thành ngôn ngữ trong tác phẩm của ông: các thanh gỗ bị vỡ hoặc cắt rời được kết nối, xếp chồng lên nhau lặp đi lặp lại, tạo thành hình dáng giống như đường dòng chảy của biển. Năm 2018, ông giành giải Nhất hạng mục Điêu khắc Gỗ tại Liên hoan Nghệ thuật Rừng Quốc tế Sily-Bỉ [^16].
 
-Trong những năm gần đây, giọng nói của những nghệ sĩ bản địa nữ ngày càng trở nên quan trọng. Họ từ góc độ của nữ tính và vai trò mẹ, khám phá các vai trò giới tính trong văn hóa bản địa và truyền thừa gia đình.
-
-**Iyo Kacaw** (伊佑‧噶照) là một nghệ sĩ nữ của người A Mĩ, tác phẩm lắp đặt "Bàn tay của người mẹ" tái hiện không gian cuộc sống của những phụ nữ A Mĩ. Tại tâm điểm của tác phẩm là một cối xay lớn, các vật dụng cuộc sống truyền thống khác được đặt xung quanh, tượng trưng cho vị thế quan trọng của phụ nữ trong truyền thừa văn hóa nhóm tộc.
-
-Người A Mĩ là một xã hội mẫu hệ, phụ nữ giữ vị thế quan trọng trong gia đình. Tác phẩm của Iyo Kacaw nhắc nhở khán giả rằng trí tuệ và đóng góp của phụ nữ trong văn hóa bản địa thường bị bỏ qua, đáng để phát hiện và tôn trọng lại.
-
-**Wan-mao Lu Sen-bao** (芫茂‧陸森寶) là một nghệ sĩ nữ của người Bìn Nam, tác phẩm nghệ thuật sợi "Câu chuyện của bà" của cô sử dụng kỹ thuật dệt truyền thống để tạo ra một bức điêu khắc hiện đại. Trong tác phẩm, các sợi thực vật khác nhau được dệt thành một cấu trúc lưới phức tạp, tượng trưng cho sự truyền thừa ký ức gia đình.
-
-Cô ấy nói: "Câu chuyện của bà được dệt bằng tay, mỗi nút là một ký ức, mỗi sợi dây là một đoạn lịch sử. Tác phẩm của tôi là để làm cho những câu chuyện vô hình này trở nên nhìn thấy được."
+Sự sáng tạo của **Sách Bộ Cát Chiếu** (Sapud Kacaw) thường liên quan đến các câu chuyện bộ lạc, kết hợp vật liệu tự nhiên xung quanh như đất và gỗ trôi dạt vào kỹ thuật kiến trúc. Tác phẩm nghệ thuật công cộng _ngasaw_ tại bờ biển Phong Bành của ông sử dụng số lượng lớn quả bóng len màu và gỗ trôi dạt để thể hiện cấu trúc thị tộc A Mi bằng ý niệm về màu sắc và sự xoay tròn [^17].
 
 ## Sân khấu quốc tế và đối thoại toàn cầu
 
-### Lễ hội hai năm Venice và sân khấu quốc tế
+Trong những năm gần đây, khả năng hiển thị của các nghệ sĩ bản địa Đài Loan trong các triển lãm quốc tế đã được nâng cao. An Thánh Huệ được mời tham gia Triển lãm Nghệ thuật Bản địa Đương đại Toàn cầu năm năm của Phòng trưng bày Quốc gia Canada vào năm 2019 [^1]; Nhà hát Nhiệm Nhi Sơn của A Đạo đã tham dự Liên hoan Sân khấu Edinburgh [^14]; Y Hữu Cát Chiếu giành giải thưởng tại Bỉ [^16]. Họ đều đi trên "mạng lưới nghệ sĩ bản địa đối thoại với nghệ sĩ bản địa", giao lưu với các nhà sáng tạo bản địa từ Canada, Úc, New Zealand và các nơi khác. Sự kết nối xuyên quốc gia này mang tính hai mặt: vừa là trao đổi nghệ thuật, vừa là phong trào quyền lợi dân tộc bản địa.
 
-Những nghệ sĩ bản địa Đài Loan gần đây có khả năng hiển thị cao hơn tại các triển lãm quốc tế, Lễ hội hai năm Venice là một trong những sân khấu quan trọng. Tác phẩm "Nếu em đứng ở tâm điểm của thế giới hét lên tình yêu" của Rahic Talif từng được trưng bày tại nhiều triển lãm quốc tế, sử dụng bài hát truyền thống A Mĩ "Bài hát uống rượu của những người già" làm nền âm thanh, cho phép khán giả từ khắp nơi trên thế giới nghe thấy tiếng nói của những người bản địa Đài Loan[^2].
-
-Sự tham gia của những nghệ sĩ bản địa Đài Loan trong lĩnh vực quốc tế mang ý nghĩa tượng trưng đối với việc thiết lập chủ thể của văn hóa bản địa. Một người sáng tạo từ một bộ lạc bản địa Đài Loan, phát ngôn vì các dân tộc bản địa trong một lĩnh vực nghệ thuật quốc tế, loại khả năng hiển thị văn hóa này gần như không tồn tại trước những năm 1990.
-
-### Mạng lưới quốc tế của nghệ thuật bản địa
-
-Những nghệ sĩ bản địa Đài Loan đã thiết lập những kết nối xuyên quốc gia, trao đổi và hợp tác với những nghệ sĩ bản địa ở Canada, Úc, New Zealand và các quốc gia khác[^7]. Loại kết nối xuyên quốc gia này vừa mang tính chất trao đổi nghệ thuật vừa mang tính chất phong trào quyền lợi dân tộc bản địa[^7].
-
-Năm 2018 "Triển lãm nghệ thuật đương đại bản địa đảo Thái Bình Dương" được tổ chức tại Bảo tàng Nghệ thuật Đài Bắc, mời những nghệ sĩ bản địa từ Đài Loan, Phi Luật Tân, Indonesia, Úc và các quốc gia khác cùng tham gia triển lãm. Triển lãm này thể hiện tính đa dạng và điểm chung của văn hóa Đảo Nam.
-
-Một số nghệ sĩ không phải bản địa như **Dong Yang-zhi** (董陽孜) cũng tham gia hỗ trợ phát triển nghệ thuật bản địa, cô ấy hợp tác với nhiều nghệ sĩ bản địa để thúc đẩy đối thoại xuyên văn hóa. Loại mô hình hợp tác xuyên tộc người này mang lại những tầm nhìn và khả năng mới cho giới nghệ thuật Đài Loan.
+Việc một nhà sáng tạo đến từ bộ lạc bản địa Đài Loan lên tiếng cho các dân tộc bản địa trên trường nghệ thuật quốc tế là điều gần như không tồn tại trước những năm 1990. Nó mang ý nghĩa biểu tượng vượt ra ngoài phạm vi của chính triển lãm, trong việc xây dựng tính chủ thể văn hóa của người bản địa.
 
 ## Phát triển thị trường và công nghiệp hóa
 
-### Cơ hội và thách thức của thị trường nghệ thuật
+Nhận thức về nghệ thuật đương đại của các dân tộc bản địa Đài Loan trên thị trường đã được cải thiện trong những năm gần đây, nhưng vẫn còn đối mặt với một số thách thức. Các sản phẩm thủ công truyền thống có thị trường sưu tập ổn định, nhưng nhận thức thị trường đối với tác phẩm đương đại vẫn còn dư địa để phát triển. Các bảo tàng công lập như Bảo tàng Thành phố Cao Hùng và Bảo tàng Thành phố Đài Bắc đã sưu tầm một số lượng đáng kể các tác phẩm nghệ thuật bản địa đương đại; "Triển lãm Nghệ thuật Nam Đảo Quốc tế Đài Loan" của Trung tâm Phát triển Văn hóa Dân tộc Bản địa cũng đưa những nhà sáng tạo này vào hệ thống triển lãm lớn hơn [^9][^16].
 
-Nghệ thuật đương đại của người bản địa Đài Loan gần đây có phần nào nâng cao ý thức thị trường, nhưng vẫn phải đối mặt với một số thách thức. Những sản phẩm thủ công truyền thống có một thị trường sưu tập ổn định, nhưng ý thức thị trường đối với những tác phẩm nghệ thuật đương đại vẫn còn khoảng trống phát triển.
+Một xu hướng quan trọng là cuộc thảo luận về "tính chân thực văn hóa". Các nhà sưu tập và người quản lý triển lãm ngày càng coi trọng bối cảnh văn hóa và bản sắc của người sáng tạo, đây vừa là cơ hội vừa là thách thức đối với các nghệ sĩ bản địa. Nghệ thuật bản địa cũng kết hợp với ngành công nghiệp sáng tạo văn hóa, phát triển phụ kiện dệt may, đồ dùng sinh hoạt và thiết kế trang phục kết hợp hoa văn truyền thống, nhưng sự cân bằng giữa "thương mại hóa" và "tính chân thực văn hóa" là một nhiệm vụ mà sự phát triển của ngành phải đối mặt.
 
-Những bảo tàng nghệ thuật công lập như Bảo tàng Nghệ thuật Cao Hùng, Bảo tàng Nghệ thuật Đài Bắc đã sưu tập một lượng đáng kể những tác phẩm nghệ thuật đương đại của người bản địa, thiết lập những tiêu chuẩn cho thị trường[^3]. Các phòng trưng bày tư nhân và những nhà sưu tập cũng bắt đầu quan tâm đến lĩnh vực này, nhưng quy mô thị trường tổng thể vẫn còn hạn chế.
+Nghệ thuật đương đại của các dân tộc bản địa Đài Loan đã đi từ vị trí bên lề đến trung tâm trong 30 năm qua. Các nghệ sĩ đã chứng minh bằng tác phẩm của mình rằng, văn hóa bản địa không chỉ là di sản cần được bảo vệ mà còn là một sức mạnh đương đại có thể đối thoại với toàn thế giới.
 
-Một xu hướng quan trọng là cuộc thảo luận về "tính xác thực văn hóa". Những nhà sưu tập và những người làm cuộc triển lãm ngày càng coi trọng bối cảnh văn hóa của các tác phẩm và bản sắc của người sáng tạo, điều này đối với những nghệ sĩ bản địa vừa là một cơ hội vừa là một thách thức.
-
-### Phát triển của công nghiệp văn hóa sáng tạo
-
-Nghệ thuật bản địa không chỉ phát triển trong lĩnh vực nghệ thuật tinh khiết, mà còn kết hợp với công nghiệp văn hóa sáng tạo, phát triển ra những sản phẩm và dịch vụ đa dạng.
-
-"Ngành công nghiệp văn hóa sáng tạo bản địa" được thành lập tại thành phố Thành Công, tỉnh Đài Đông, tập hợp nhiều nghệ sĩ bản địa và những người thợ thủ công, phát triển những sản phẩm sáng tạo đặc thù văn hóa. Các sản phẩm bao gồm những phụ kiện dệt hiện đại, những vật dụng cuộc sống kết hợp những họa tiết truyền thống, thiết kế quần áo với yếu tố bản địa, v.v.
-
-Những thử nghiệm công nghiệp hóa này phải đối mặt với vấn đề cân bằng giữa "công nghiệp hóa" và "tính xác thực văn hóa". Làm thế nào để tiếp tục phát triển thương mại đồng thời giữ gìn nội hàm văn hóa, là một vấn đề mà phát triển công nghiệp phải đối mặt.
-
-Nghệ thuật đương đại của người bản địa Đài Loan đã đi qua một con đường từ các biên lề tới trung tâm trong 30 năm qua. Những nghệ sĩ bằng những tác phẩm của họ đã chứng minh rằng, văn hóa bản địa không chỉ là một di sản văn hóa cần được bảo vệ, mà còn là một sức mạnh đương đại có thể đối thoại với toàn bộ thế giới.
-
-Những tác phẩm lắp đặt của Rahic Talif, nhiếp ảnh của những người sáng tạo khác, những tác phẩm điêu khắc dệt của Iyo Kacaw — những tác phẩm này đã vượt qua khung "thủ công bộ lạc", trở thành những tác phẩm cùng tồn tại với nghệ thuật đương đại toàn cầu trong những lĩnh vực nghệ thuật như Venice, Đài Bắc, New York. Những tác phẩm của họ không chỉ thể hiện sự phong phú của văn hóa bản địa, mà còn đưa vào nghệ thuật đương đại Đài Loan một sức sống không thể thay thế.
-
-Trong thời đại toàn cầu hóa, những giọng nói từ các bộ lạc này lại trở nên quý báu và quan trọng hơn — vì bởi vì chúng mang lại những ký ức và kinh nghiệm không thể sao chép được ở bất cứ nơi nào khác.
+Các sắp đặt bờ biển của La Hắc Tử, mẫu thể nhựa polypropylene của An Thánh Huệ, dệt may bao bọc núi của Lam Giới Văn – những tác phẩm này đã vượt ra ngoài khuôn khổ "thủ công bộ lạc", trở thành các tác phẩm tồn tại cùng nghệ thuật đương đại toàn cầu tại Đài Bắc, Ottawa, Edinburgh và nhiều nơi khác. Trong thời đại toàn cầu hóa, những tiếng nói đến từ các bộ lạc này lại càng trở nên quý giá và quan trọng hơn, bởi vì chúng mang trong mình ký ức và kinh nghiệm mà không nơi nào khác có thể sao chép được.
 
 ## Tài liệu tham khảo
 
+[^1]: [Trong núi và biển, giữa giấc mơ và giấc mơ, dệt lại cội rễ đã mất – Phỏng vấn nghệ sĩ Rukuai An Thánh Huệ](https://e-info.org.tw/node/232401) — Trung tâm Thông tin Môi trường, xuất thân bộ lạc của An Thánh Huệ, tham gia Bảo tàng Bắc Mỹ năm 1998, Bộ lạc Ý Thức, _Giấc mơ và Giấc mơ_ và Triển lãm Năm năm của Phòng trưng bày Quốc gia Canada năm 2019.
+
+[^2]: [《Ghi chép thực địa nghệ thuật dân tộc bản địa Đài Loan》](https://www.books.com.tw/products/0010192578) — Lâm Kiến Thành (2002), Nhà xuất bản Nghệ sĩ.
+
+[^3]: [Sách Cổ Lưu Ba Va Va Lũng](https://zh.wikipedia.org/zh-tw/%E6%92%92%E5%8F%A4%E6%B5%81%C2%B7%E5%B7%B4%E7%93%A6%E7%93%A6%E9%9A%86) — Wikipedia, năm sinh và bộ lạc, xưởng Cổ Lưu năm 1978, Giải thưởng Văn nghệ Quốc gia năm 2018, chấm dứt tư cách đại diện Triển lãm Mùa xuân Venice năm 2022, phán quyết và thu hồi giải thưởng năm 2026.
+
+[^4]: [Tôi chỉ là người Bành Loan – Phỏng vấn người đoạt Giải Văn nghệ Quốc gia Sách Cổ Lưu](https://www.twreporter.org/a/interview-sakuliu-pavavalung) — Người báo cáo, bối cảnh gia đình nghệ nhân và lĩnh vực sáng tạo của Sách Cổ Lưu.
+
+[^5]: [Tìm cảm hứng trong lòng suối! Nghệ sĩ Bành Loan Sách Cổ Lưu bị buộc tội quấy rối nữ sinh viên kết án 4 năm rưỡi sẽ vào tù](https://news.nextapple.com/local/20260417/5650BE56912C327CA9FEA2E72149847F) — Nhất Bình Tân Văn Võng, 17-04-2026, phán quyết xét xử cấp ba.
+
+[^6]: [Nghệ nhân Thái Dệt may truyền thừa văn hóa: Du Mã Đạt Lục](https://mag.ncafroc.org.tw/article_detail.html?id=297ef722723767c201723b33614d000a) — Tạp chí trực tuyến của Hội Văn nghệ Quốc gia, bộ lạc Tượng Tị, tái tạo trang phục hai mươi năm, Xưởng Dệt Phong Đồng.
+
+[^7]: [Atayal Weaver | Yuma Taru](https://www.moc.gov.tw/en/News_Content2.aspx?n=486&s=17620) — Bộ Văn hóa, ghi danh người bảo tồn nghệ thuật truyền thống quan trọng.
+
+[^8]: [Rahic Talif La Hắc Tử Đạt Lập Phu – Giới thiệu nghệ sĩ](https://rahictalif.com/about/artist/) — Trang web chính thức của nghệ sĩ, năm sinh, bộ lạc Cảng Khẩu, niên biểu tác phẩm tiêu biểu và phương pháp sáng tạo nhặt rác ven biển.
+
+[^9]: [Labay Eyong Lam Giới Văn](https://tiaat.tacp.gov.tw/%E6%9E%97%E4%BB%8B%E6%96%87/) — Triển lãm Nghệ thuật Nam Đảo Quốc tế Đài Loan, Thái Lộc Cốc, bộ lạc Thái Lộc Cốc, giải Nhất Giải thưởng Pulima, _Bao Sơn_.
+
+[^10]: [Lam Giới Văn | Hiệp hội Nghệ sĩ Nữ Đài Loan](https://waa.org.tw/members/labay-eyong/) — Học vấn, quá trình sáng tạo dệt may năm 2014.
+
+[^11]: [Đất đai và nhân văn trong _Bao Sơn_ được chữa lành qua dệt may](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&sms=12639&s=103452) — Truyền Nghệ Online, học khung cửi truyền thống Ubung từ các trưởng lão, buổi trình diễn hành động _Bao Sơn Dungku Asang_ năm 2021.
+
+[^12]: [【Phỏng vấn nhân vật】Y Đán Ba Va Va Lũng: Người Đài Loan nên thoát khỏi khuôn khổ lịch sử 400 năm](https://www.matataiwan.com/2014/04/21/etan-pavavaljung/) — Mata Taiwan, bộ lạc Đạt Oa Lan, nguồn gốc và trưng bày tại Bảo tàng Bắc Mỹ của kỹ thuật Khắc hoa văn.
+
+[^13]: [Từ công trường Đài Bắc đến nhà máy đường Đô Lan: Siki Hi Cự Tô Phi, con đường người nghệ sĩ A Mi bảo vệ văn hóa](https://www.verse.com.tw/article/dulan-siki) — VERSE, sinh năm 1966, học điêu khắc gỗ từ La Hắc Tử năm 1995, Nhà kho số 3 nhà máy đường Đô Lan, "Cánh của Cao Sa".
+
+[^14]: [A Đạo Ba Lạp Phu Nhiệm Nhi Sơn Adaw Palaf Langasan](https://aborgpedia.alcd.center/detail?cat=0&id=11554&race=0) — Bách khoa toàn thư Dân tộc Bản địa Đài Loan, sinh năm 1949, Thái Ba Mạc, gia nhập Nguyên Vũ Giả năm 1991, thành lập Nhà hát Nhiệm Nhi Sơn năm 2012, Liên hoan Sân khấu Edinburgh năm 2014.
+
+[^15]: [Về Nhiệm Nhi Sơn](https://langasan.wordpress.com/%E9%97%9C%E6%96%BC%E5%86%89%E8%80%8C%E5%B1%B1-about/) — Trang web chính thức của Nhà hát Nhiệm Nhi Sơn, tên đoàn kịch và ngọn núi linh thiêng Cilangasan.
+
+[^16]: [Iyo Kacaw Y Hữu Cát Chiếu](https://tiaat.tacp.gov.tw/%E4%BC%8A%E7%A5%90%EF%BC%8E%E5%99%B6%E7%85%A7/) — Triển lãm Nghệ thuật Nam Đảo Quốc tế Đài Loan, bộ lạc Cảng Khẩu, ngôn ngữ sáng tạo, giải Nhất hạng mục điêu khắc gỗ Bỉ năm 2018.
+
+[^17]: [Địa danh mới của "Vùng năng lượng": Tác phẩm nghệ thuật công cộng _ngasaw_ của Sách Bộ Cát Chiếu và ý nghĩa của nó](https://artouch.com/art-views/art-exhibition/content-54185.html) — Bảo tàng ARTouch, _ngasaw_ và vật liệu sáng tạo.
+
 ---
 
-_Đọc thêm: [Phong trào hồi sinh ngôn ngữ bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement/) · [Bản đồ văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map/) · [Ẩm thực bản địa Đài Loan](/vi/food/taiwan-indigenous-foodways/) · [Công lý đất đai bản địa Đài Loan và lãnh thổ truyền thống](/vi/society/indigenous-land-justice-and-traditional-territories/) · [Lịch sử và phong trào đặt tên lại dân tộc bản địa Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement/) · [Trí tuệ sinh thái bản địa Đài Loan và bảo tồn môi trường](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
-
-[^1]: [Trung tâm phát triển văn hóa dân tộc bản địa](https://www.tacp.gov.tw/) — Thông tin phát triển nghệ thuật đương đại bản địa
-
-[^2]: [《Ghi chép thực địa nghệ thuật bản địa Đài Loan》](https://www.books.com.tw/products/0010192578) — Lâm Kiến Thành (2002), Nhà xuất bản Nghệ sĩ
-
-[^3]: [Lễ hội hai năm mỹ thuật Đài Loan](https://www.museum.ntm.gov.tw/) — Thông tin triển lãm nghệ thuật đương đại
-
-[^4]: [Triển lãm Đài Loan tại Lễ hội hai năm Venice](https://www.venezia.culture.tw/) — Dữ liệu các kỳ triển lãm
-
-[^5]: [《Ký sự cắt ngang: Chiến tranh rừng núi Đài Loan, Đế quốc và hình ảnh》](https://www.books.com.tw/products/0010768319) — Cao Tôn Hồng (2017), Nhà xuất bản Viễn Túc
-
-[^7]: [Cơ sở dữ liệu văn học và văn hóa bản địa đương đại Đài Loan](http://140.109.24.175/iplm/) — Được xây dựng bởi Đại học Trung Sơn
+_Đọc thêm: [Lịch sử dân tộc bản địa Đài Loan và phong trào đặt tên chính danh](/vi/history/indigenous-peoples-history-and-naming-movement/) · [Công lý đất đai và lãnh thổ truyền thống của các dân tộc bản địa Đài Loan](/vi/society/indigenous-land-justice-and-traditional-territories/) · [Bản đồ văn hóa 16 bộ lạc dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map/) · [Phong trào hồi sinh ngôn ngữ dân tộc bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement/) · [Văn hóa ẩm thực dân tộc bản địa Đài Loan](/vi/food/taiwan-indigenous-foodways/) · [Trí tuệ sinh thái và bảo tồn môi trường của các dân tộc bản địa Đài Loan](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
