@@ -2,9 +2,7 @@
 title: 'História da Indústria Televisiva de Taiwan: Dos Três Canais Antigos à Revolução Suave do Q-Series'
 description: 'Da estreia da TTV em 1962 ao Q-Series em 2016, 54 anos da indústria televisiva de Taiwan, do "monopólio do partido-Estado-exército" à "ascensão da mídia pública". Como uma plataforma que não vende publicidade contou uma história que todos gostaram?'
 date: 2026-03-31
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '影視與媒體'
 tags:
   [
     'televisão',
@@ -14,14 +12,16 @@ tags:
     'reforma da mídia',
     'drama taiwanês',
   ]
+subcategory: '影視與媒體'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
-featured: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-07-25T17:25:36+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-19T23:22:57.487584+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 1962, a TTV iniciou as transmissões e Taiwan entrou na era da televisão; em 1998, a PTS foi criada, nascendo a primeira mídia pública não comercial; em 2016, o Q-Series alcançou 0,5% de audiência, mas fez o drama taiwanês sair dos moldes de _idol drama_ e drama rural. Do "monopólio do partido-Estado-exército" à "revolução suave", os 54 anos da indústria televisiva de Taiwan são uma história sobre quem tem o poder de contar histórias.
