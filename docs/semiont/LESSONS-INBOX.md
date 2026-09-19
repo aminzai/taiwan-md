@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-20 twmd-babel-nightly — hook-placed-at-a-boundary-that-never-comes：三道「每輪」的檢查都掛在輪次邊界上，而一輪要跑十二個小時
+
+- **pattern**: `hook-placed-at-a-boundary-that-never-comes`
+- **原則**：把一個定期動作掛在「輪次開頭／結尾」這種結構邊界上，等於把它的節奏交給那個邊界多久來一次——而邊界的長度是別的參數決定的（`cap = 10 × worker 數 × 語言數`，12 語 5 worker 就是 560 篇一輪）。當一輪長到十二小時，「每 90 分鐘重算去重清單」實際是「每十二小時」、「零頭放超過 90 分鐘就 commit」實際是「等同語言下一次成功或等輪次結束」、「失敗次數沉底」實際是「桶內沉底，桶裡只剩一篇時它就是隊首」。三條各自寫進 canonical、各自有交接文說「已修」，每一條在程式碼裡都存在、都正確，只是掛的地方一整晚沒被走到。看 log 只會看到「Round 1」四個字停在那裡，沒有任何一行說「本輪還沒結束所以以下三件事都還沒做」。
+- **觸發**：2026-09-20 00:40 三重巡檢 PID 60034（11:58 起跑，12.6 小時，424 次嘗試 219 篇通過）：`master.log` 裡「exclude-file 已 N 分鐘沒更新 — 重算」零筆（09-19 `6fe93bc51` 接在輪次開頭）；ar 的 7 篇譯文從 15:19 懸在工作樹到隔天（nemo 切軌後 ar 八小時零成功，年齡檢查只在同語言下一次成功時算）；〈台灣新冠疫情與疫苗〉fail_count 8-9 仍在 en/ko/fr/es 隊首（新鮮窗裡只剩它一篇，沉底只在桶內排序）。三條修法同一個方向：把檢查搬到**每篇任務**的路徑上（refresher 執行緒每分鐘看檔齡＋claim 時讀最新清單／任一 worker 做完一篇就掃所有語言的零頭年齡／耗盡篇壓整條佇列尾）。→ memory/2026-09-20-twmd-babel-nightly
+- **跟既有教訓的關係**：[REFLEXES #82](REFLEXES.md) 的一個新形狀——「程式碼裡有這段」是「它會在需要的時候跑」的替身；09-19 memory 索引行寫「去重清單今起每 90 分鐘自動重算」，寫的人（我）當時驗的是函式存在與呼叫點存在，沒驗它掛的那個迴圈多久轉一圈。也是 [#96](REFLEXES.md)（知識留在註解層沒下沉到控制流）的鄰居：這裡知識下沉到控制流了，只是沉到一個很少被執行的分支。
+- **候選機械化**：長迴圈類 dispatcher 在 log 裡定期印一行「本輪已 N 小時、下列輪次邊界動作尚未觸發：…」，讓「還沒輪到」跟「壞了」分得開（REFLEXES #85 的形狀：「不知道」要有自己的符號）。
+- **可能層級**：折進 #82 子規則，或自成通用反射「定期動作的節奏由它掛的迴圈決定，不由它的參數決定」。vc=1（但同晚三個 instance）。
+- **相關**：REFLEXES #82、#96、#85、#38 (f)（存活≠生產：這裡是「存在≠執行」）、LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`
+- **verification_count**: 1
+- **severity**: structural（三條都是前一夜「已修」的交接，三條都沒生效，而沒有任何儀器會為此變紅）
+
+### 2026-09-20 twmd-babel-nightly — production-line-follows-the-older-canon-while-the-newer-gate-only-warns：兩份 canonical 對同一個欄位說相反的話，產線照舊的做，新的那道閘是 WARN，存量在「已上線檢查」之下繼續漲
+
+- **pattern**: `production-line-follows-the-older-canon-while-the-newer-gate-only-warns`
+- **原則**：`verify-translation.py`（07-24）註解說 subcategory 是顯示標籤、翻了不算漂移；`subcategory-translation-parity`（09-08）與站體 `buildSubcategoryGroups()` 說它是分群鍵、必須等於 zh 原值。兩份 canonical 沒有互相指向，產線的 `structured-translate.py`（07-25）照前者設計：查 i18n 表、缺對照就送模型翻。09-08 檢查上線時全庫 1,646 篇不對，寫的期待是「存量不再增加」；但統一調度器的閘門只看 hard，WARN 不擋，於是十二天後量到 1,795 篇（+149）。**一道只會 WARN 的新閘，擋不住一條照舊 canonical 跑的產線**；「上線了檢查」讓人以為缺口封住，實際上封住的只有人手寫的那一端（pre-commit 會印警告），機器那一端每夜照常產出。
+- **觸發**：2026-09-20 打撈 13 篇時 pre-commit 印三條 parity WARN，全庫掃出 1,795 篇（vi 328／ja 250／ko 239／id 184／hi 176／fr 166／en 128／pt 90／ar 85／ru 73／es 52／de 24），其中還混著簡體值（vi 一篇 `独立与摇滚`）。本 run 219 篇通過裡 15 篇不對，其中 3 篇是本 run 新造（structured-heavy 引擎），12 篇是 patch 引擎保留既有漂移。→ memory/2026-09-20-twmd-babel-nightly
+- **修補（已做）**：`structured-translate.py` Phase F 改原樣複製 zh（`bea982d2a`，回歸測試斷言 subcategory 不進 prompt）；verify-translation.py 那條寫反前提的註解改正並指向 #51；本 run 新造的 3 篇改回原值；OBSERVER-QUEUE #51 補記「產線端已堵、存量 1,795」。**未做**：1,795 篇存量清理（🔒 >50 檔，#51 等哲宇）；WARN→HARD 升級同屬 #51。
+- **可能層級**：折進 [REFLEXES #56](REFLEXES.md)（canonical ↔ production drift——這裡是兩份 canonical 之間先漂，產線跟著漂）或 [#83](REFLEXES.md)（兩把尺不同調）。也可能是通用規則「新閘上線時要回頭查產線引用的是哪份 canonical，WARN 級閘門對無人值守的產線等於沒有閘門」。vc=1。
+- **相關**：REFLEXES #56、#83、#66、LESSONS `outbound-comment-boundary-split-across-canon`（canon 對撞的另一例）、`documented-gate-never-wired-to-the-line`（寫了沒接線；本條是接了線但線的等級不夠）、OBSERVER-QUEUE #51
+- **verification_count**: 1
+- **severity**: structural（存量每夜靜默增加，且每一篇都會在讀者的分類頁上掉進「其他」）
+
 ### 2026-09-19 twmd-babel-nightly — threadpool-swallows-worker-death：worker 在成功路徑上炸掉，執行緒池把例外收進 future，產線看起來只是慢
 
 - **pattern**: `threadpool-swallows-worker-death`

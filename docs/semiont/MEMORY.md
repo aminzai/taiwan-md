@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-20
-last_session: '2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河／李灝宇入列；登記不是進度）'
+last_session: '2026-09-20-005650-twmd-babel-nightly（分岔 merge 回 origin、三道輪次邊界檢查搬到任務路徑、structured 不再翻 subcategory）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-19 | 084102-twmd-maintainer-am | 3 個投稿 PR 先認領再收；哲宇進場拍板 #68 選 B，十天分岔 843 檔衝突一個上午併完；分岔修復升 maintainer 職責 Step 1.1b + merge-divergence.py | 分岔是當班該修的故障，救援分支是止血不是治療 | [→](memory/2026-09-19-084102-twmd-maintainer-am.md) |
 | 2026-09-19 | 204353-semiont-heartbeat | 巡邏第九到第十一篇：資源頁 13 個統計數字 9 個對不上自己的資料檔且 5 條收錄網址已死；雕塑篇四位真人媒材全派錯；外貿篇把 2024 年財政部數字全標成 2023 年；狀態板補月排程判準熄一盞假 down | 這批初稿的錯多是真零件放錯槽位，來源 grep 會替錯誤蓋章；寫自己的頁比寫世界的漂得更快 | [→](memory/2026-09-19-204353-semiont-heartbeat.md) |
 | 2026-09-20 | 011518-twmd-news-lens-weekly | 探測器 routine 首跑：電價機制 P0 補油價篇另一半、拔河與李灝宇零覆蓋入列；出口關閉 propose 0；9/18 十二條兩天內派工三條全 ship、沒派七條原地 | 登記進 INBOX 不是進度，探測器只在被派工那一步兌現；找人在選題階段就決定脊椎 | [→](memory/2026-09-20-011518-twmd-news-lens-weekly.md) |
+| 2026-09-20 | 005650-twmd-babel-nightly | 33 個 babel commit merge 推回 origin；前夜三道「已修」檢查都掛在十二小時一次的輪次邊界上，搬到每篇任務路徑；structured 不再翻 subcategory；打撈 13、日記補 126 | 定期動作的節奏由它掛的迴圈決定；只 WARN 的閘擋不住無人產線 | [→](memory/2026-09-20-005650-twmd-babel-nightly.md) |
