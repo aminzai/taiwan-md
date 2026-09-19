@@ -1199,6 +1199,28 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #16「Peer / probe 是線索不是 source」的 sovereignty 特化段（模型預設中國語料當基準）談的是查證方法，這條談的是**查證結果的分布本身**，兩者互補但不是同一條
 - **verification_count**: 1（本 session 首次注意到，尚未跨 session 獨立驗證，需下一輪 terminology-trends 或 distill 判斷是否升 canonical）
 
+### 2026-09-20 twmd-distill-weekly — inbox-audit-boundary-stops-before-where-entries-actually-fall：蒸餾儀器只掃 §未消化，而 session 把教訓 append 在檔案 EOF，四條教訓在邊界外躺了六週
+
+- **pattern**: `inbox-audit-boundary-stops-before-where-entries-actually-fall`
+- **原則**：`lessons-distill.py audit` 的 §未消化 邊界止於「## ✅ 已消化」，它印「1 section，無漂移」時只保證邊界內乾淨；session 若把新 entry append 到檔案最後（footer 之後、§❌ 已歸檔「_（空）_」底下），儀器對它一無所知，distill 也不會讀到。量的邊界跟東西掉落的位置不同，儀器就會對著一個乾淨的房間說「都收好了」。
+- **觸發**：2026-09-20 distill 讀 `grep -n "^### "` 全檔時發現 footer 之後有四條 entry：08-08 新冠三層教訓、08-18/09-05「檢查器站錯位置」vc=5、09-05 支語誤判方向偏誤、09-18 alert-caption-lags-threshold。09-06 與 09-13 兩次 distill 都沒處理，其中 vc=5 那條早過量門檻。四條寫入者不同（manual rewrite、fortnight-review、terminology-trends、data-refresh-am），都是「append 到檔尾」這個最省事的動作。→ memory/2026-09-20-032649-twmd-distill-weekly
+- **候選機械化**：audit 加一項「§❌ 已歸檔 之後不得有 `### ` entry」（有即 ⚠️ 列出）；或 `inbox-signal.sh` 的 count 改掃全檔 `### ` 再減去 §已消化 內的 🧬 block。
+- **可能層級**：通用反射候選（任何「buffer 檔 + 掃描儀器」都適用：儀器邊界要等於寫入者實際會落筆的範圍），vc=1 先進 buffer
+- **相關**：REFLEXES #24（形式 4 的鏡像：不是單例代表集群，是掃描範圍小於落筆範圍）、#82（「無漂移」是「邊界內無漂移」的替身）、#85（「沒掃到」跟「沒有」共用同一個綠燈）
+- **verification_count**: 1
+- **severity**: structural（vc=5 的教訓延遲六週升 canonical，且沒有任何燈為此變黃）
+
+### 2026-09-20 twmd-distill-weekly — merge-keeps-both-resurrects-swept-buffer-entries：分岔合併對 buffer 檔採「兩邊全留」，把已經蒸餾移除的 entry 從另一側帶回來
+
+- **pattern**: `merge-keeps-both-resurrects-swept-buffer-entries`
+- **原則**：對 canonical 檔「兩邊全留」是安全預設，對 buffer 檔（LESSONS-INBOX §未消化）是錯的：buffer 的每一次移除都是一次蒸餾工作，另一側還留著舊 entry 時「全留」等於把工作退回去，而且回來的 entry 讀起來跟新 entry 一模一樣。
+- **觸發**：`documented-gate-never-wired-to-the-line` 09-13 distill 已 fold 進 REFLEXES #91 並從 §未消化 移除（§已消化 09-13 表第 8 列可查）；09-19 分岔合併時 LESSONS v3.5 寫「兩邊全留」，origin 側那份還帶著它，於是它回到 §未消化 且帶著 vc=2；09-20 distill 差一步把它當新 entry 再 fold 一次。→ memory/2026-09-20-032649-twmd-distill-weekly
+- **候選處置**：`merge-divergence.py` 對 LESSONS-INBOX 的分類改「§未消化 移除方勝出、新增方保留」，實作可用 §已消化 traceability block 裡的 pattern id 當豁免清單：合併後掃 §未消化，pattern 已出現在任一 🧬 block 的即為復活 entry。
+- **可能層級**：REFLEXES #68（多核心 git 協調）的 buffer 檔變體，或 #92 twin-artifact（§未消化 與 §已消化 是一對該互斥的產物，中間沒有東西在對賬）。vc=1 先進 buffer
+- **相關**：REFLEXES #68、#92、`merge-divergence.py`（HAND 類目前把 docs/ 整包交給人判）
+- **verification_count**: 1
+- **severity**: tactical
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
