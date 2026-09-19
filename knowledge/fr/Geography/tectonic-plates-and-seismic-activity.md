@@ -1,162 +1,179 @@
 ---
-title: 'Mouvement des plaques tectoniques et activité sismique à Taïwan'
-description: 'Étude des caractéristiques géologiques de Taïwan, situé à la frontière convergente entre la plaque Eurasienne et la plaque de la mer des Philippines, ainsi que des causes de son activité sismique fréquente'
+title: 'Tectonique des plaques et activité sismique à Taïwan'
+description: 'Examen des caractéristiques géologiques de Taïwan, située à la jonction des plaques Eurasienne et Philippine, et des causes de son activité sismique fréquente.'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
+tags:
+  [
+    'Géologie',
+    'Tectonique des plaques',
+    'Séisme',
+    'Faille active',
+    'Catastrophe naturelle',
+  ]
 subcategory: '地形與地質'
-tags: ['Géologie', 'Mouvement des plaques', 'Séismes', 'Failles actives', 'Catastrophes naturelles']
-readingTime: 16
-lastVerified: 2026-03-19
-lastHumanReview: false
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-09-19
+lastHumanReview: false
+readingTime: 16
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:ac660158a4c72aea'
-sourceBodyHash: 'sha256:57ab1d8681d0c528'
-translatedAt: '2026-05-20T05:08:34+08:00'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:e5a1373630fd1073'
+sourceBodyHash: 'sha256:6ce2095cf81ca454'
+translatedAt: '2026-09-19T11:59:05+08:00'
 ---
 
-# Mouvement des plaques tectoniques et activité sismique à Taïwan
+# Tectonique des plaques et activité sismique à Taïwan
 
 ## Aperçu en 30 secondes
 
-Taïwan se situe à la frontière convergente entre la plaque continentale Eurasienne et la plaque de la mer des Philippines. La collision intense de ces plaques a façonné la structure géologique unique de Taïwan et engendré une activité sismique fréquente. L'île compte 36 failles actives réparties sur son territoire. La zone sismique de l'ouest présente des foyers sismiques peu profonds mais se trouve dans une région densément peuplée, tandis que la zone sismique de l'est présente des foyers plus profonds mais une activité plus fréquente.
+Taïwan est située au point de convergence entre la plaque continentale Eurasienne et la plaque Philippine. La collision tectonique intense a donné naissance à une structure géologique unique et à une activité sismique fréquente sur l'île. Trente-six failles actives sont réparties sur le territoire, avec des foyers peu profonds mais densément peuplés dans la ceinture sismique occidentale, et des foyers plus profonds mais actifs dans la ceinture orientale.
 
-Le séisme du 21 septembre 1999 (magnitude 7,3 sur l'échelle de Richter) constitue la catastrophe sismique la plus grave de l'histoire moderne de Taïwan. La carte des failles mise à jour en 2021 par le Centre d'études géologiques constitue aujourd'hui la base essentielle de la planification de la prévention des catastrophes. La densité sismique de Taïwan figure parmi les plus élevées au monde, et l'île constitue un site de recherche majeur pour la tectonique des plaques.
+Le grand tremblement de terre de 921 (magnitude 7,3) en 1999 reste la catastrophe sismique la plus grave de l'histoire moderne de Taïwan ; la carte des failles mise à jour par le Centre d'investigation géologique en 2021 constitue actuellement la base principale de la planification de la prévention des catastrophes. La densité sismique de Taïwan est parmi les plus élevées au monde, faisant de ce lieu un site de recherche majeur en tectonique des plaques.
 
-Mots-clés : convergence des plaques, failles actives, zones sismiques, faille de Chelungpu, orogenèse
+Mots-clés : Convergence des plaques, Faille active, Ceinture sismique, Faille de Chulongpu, Orogenèse
 
 ## Pourquoi c'est important
 
-## L'identité géologique de Taïwan
+### Le passé géologique de Taïwan
 
-L'existence même de Taïwan relève du miracle géologique. Il y a environ 5 millions d'années, Taïwan n'était encore qu'un vaste océan. Ce n'est que lorsque la plaque de la mer des Philippines a commencé à pousser vers le nord-ouest, entrant en collision avec la plaque continentale Eurasienne, que la terre a progressivement émergé de la mer. Ce processus géologique intense se poursuit encore aujourd'hui, faisant de Taïwan l'un des meilleurs sites au monde pour l'étude de la tectonique des plaques.
+L'existence même de Taïwan est un miracle géologique. Il y a environ 5 millions d'années, Taïwan était une étendue d'eau jusqu'à ce que la plaque Philippine pousse vers le nord-ouest et entre en collision avec la plaque continentale Eurasienne, provoquant son émergence progressive au-dessus de la mer. Ce processus géologique intense est toujours en cours, faisant de Taïwan l'un des meilleurs sites pour étudier la tectonique des plaques.
 
-La collision des plaques se poursuit à un rythme de 7 à 8 centimètres par an, provoquant un soulèvement continu de la surface de Taïwan et faisant des séismes une réalité permanente pour cette île.
+La collision des plaques progresse à un rythme annuel de 7 à 8 centimètres, ce qui fait constamment s'élever la surface de Taïwan et rend le séisme une fatalité pour cette île.
 
-## Vivre sur une Terre dynamique
+### Vivre sur une Terre dynamique
 
-Pour les Taïwanais, les séismes font partie du quotidien. Des normes parasismiques dans les codes de construction à la généralisation de l'éducation à la prévention des catastrophes, la société taïwanaise a développé une culture de coexistence avec les séismes. Comprendre les caractéristiques géologiques de Taïwan contribue à la prévention et à la réduction des catastrophes, tout en approfondissant notre connaissance de cette terre.
+Pour les Taïwanais, le tremblement de terre est un arrière-plan quotidien. De la conception parasismique des codes du bâtiment à la diffusion de l'éducation en matière de prévention des catastrophes, la société taïwanaise a développé une culture de coexistence avec le séisme. Comprendre les caractéristiques géologiques de Taïwan contribue à la réduction des risques et approfondit notre connaissance de ce territoire.
 
-Après le séisme du 21 septembre 1999, les normes parasismiques de construction à Taïwan ont été entièrement révisées, et le système d'alerte sismique a été progressivement modernisé pour devenir l'un des plus avancés d'Asie.
+Après le grand tremblement de terre de 921 en 1999, les réglementations sismiques pour la construction à Taïwan ont été entièrement révisées, et le système d'alerte sismique de Taïwan est progressivement devenu l'un des plus avancés d'Asie.
 
 ## Tectonique des plaques et contexte géologique
 
-## Une position géographique entre deux plaques
+### Position géographique au milieu de deux plaques
 
-Taïwan se trouve précisément sur l'une des frontières de plaques les plus actives de la planète. À l'ouest de Taïwan se trouve la plaque continentale Eurasienne, relativement stable ; à l'est, la plaque de la mer des Philippines, très active. Ces deux plaques se poussent mutuellement à une vitesse d'environ 7 à 8 centimètres par an, soit à peu près la vitesse de croissance des ongles — un mouvement apparemment lent mais d'une force considérable.
+Taïwan se situe à l'une des frontières de plaques les plus actives de la Terre. À l'ouest de Taïwan se trouve la plaque continentale Eurasienne, stable ; à l'est, on trouve la plaque Philippine, active. Ces deux plaques s'étirent l'une contre l'autre à un rythme d'environ 7 à 8 centimètres par an, ce qui équivaut au rythme de croissance des ongles : cela semble lent, mais la force est impressionnante.
 
-Au large de la côte nord-est de Taïwan, la plaque de la mer des Philippines plonge sous la plaque Eurasienne, formant la fosse des Ryūkyū. Au large de la côte sud-est, la situation s'inverse : la plaque Eurasienne plonge sous la plaque de la mer des Philippines, formant la fosse de Manille. Taïwan se situe exactement à la jonction entre ces deux zones de subduction opposées, créant une structure géologique d'une grande complexité.
+Au large nord-est de Taïwan, la plaque Philippine plonge sous la plaque Eurasienne, formant le fossé de Ryukyu ; au large sud-est de Taïwan, c'est l'inverse, où la plaque Eurasienne plonge sous la plaque Philippine, formant le fossé de Manille. Taïwan se trouve dans une zone de transition entre ces deux directions d'subduction opposées, ce qui crée une structure géologique extrêmement complexe.
 
-## Une orogenèse en cours
+### L'évolution de l'orogenèse
 
-La formation des chaînes de montagnes de Taïwan est un processus toujours en cours. La chaîne centrale est le produit le plus direct de la collision des plaques, et la plupart des sommets dépassant 3 000 mètres d'altitude s'y concentrent. L'orogenèse taïwanaise n'est pas uniforme : la région orientale s'élève d'environ 3 à 4 millimètres par an, tandis que la région occidentale reste relativement stable, certaines zones côtières s'enfonçant même légèrement.
+La formation des montagnes de Taïwan est un processus en cours. La chaîne centrale est le produit le plus direct de la collision des plaques ; les hautes montagnes au-dessus de 3000 mètres y sont majoritairement concentrées. L'orogenèse de Taïwan n'est pas uniforme : la chaîne centrale et l'est s'élèvent de quelques millimètres à près d'un centimètre par an, tandis que la région ouest est relativement stable, certaines zones côtières même en subsidence.
 
-Ce « soulèvement asymétrique » explique pourquoi l'est de Taïwan est dominé par des montagnes escarpées, tandis que l'ouest présente davantage de plaines et de collines. Le paysage géographique de Taïwan continue d'évoluer — le Taïwan que nous connaissons aujourd'hui est radicalement différent de celui d'il y a un million d'années, et il le sera tout autant de celui dans un million d'années.
+Cette « élévation asymétrique » explique pourquoi l'est de Taïwan est caractérisé par des montagnes escarpées et l'ouest par des plaines vallonnées. Le paysage de Taïwan continue d'évoluer — le Taïwan que nous voyons aujourd'hui sera radicalement différent du Taïwan d'il y a des millions d'années ou dans des millions d'années.
 
-## Répartition des zones sismiques à Taïwan
+## Répartition des ceintures sismiques à Taïwan
 
-## La zone sismique de l'ouest : une menace peu profonde en zone densément peuplée
+### Ceinture sismique occidentale : menace peu profonde et densément peuplée
 
-La zone sismique de l'ouest couvre l'ensemble de la région occidentale de Taïwan, du bassin de Taipei jusqu'à la plaine de Pingtung. Cette zone présente plusieurs caractéristiques :
+La ceinture sismique occidentale couvre toute la partie ouest de Taïwan, s'étendant du bassin de Taipei jusqu'à la plaine de Pingtung. Cette ceinture présente plusieurs caractéristiques :
 
-**Foyers sismiques peu profonds** : la plupart des séismes ont leur foyer entre 10 et 20 kilomètres de profondeur, résultant de mouvements de failles dans la croûte terrestre. Bien que les séismes peu profonds ne soient pas nécessairement de grande magnitude, leur proximité avec la surface engendre souvent des secousses ressenties plus fortes et des dommages plus importants.
+**Profondeur des foyers faible** : La plupart des séismes se produisent à une profondeur comprise entre 10 et 20 kilomètres, ce qui correspond à des failles crustales. Bien que les séismes peu profonds ne soient pas toujours de grande magnitude, ils provoquent souvent une forte sensation sismique et des dégâts plus importants en raison de leur proximité avec la surface.
 
-**Système de failles complexe** : la zone sismique de l'ouest comporte de nombreuses failles actives, notamment la faille de Chelungpu, la faille de Changhua et la faille de Xincheng. Ces failles sont principalement des failles inverses, reflétant un environnement tectonique de compression est-ouest.
+**Système de failles complexe** : La ceinture sismique occidentale est traversée par plusieurs failles actives, dont la faille de Chulongpu, la faille de Changhua et la faille de Xincheng. Ces failles sont majoritairement des failles inverses, reflétant un environnement compressif d'orientation est-ouest.
 
-**Menace démographique considérable** : environ 80 % de la population taïwanaise réside dans la région occidentale. Tout séisme de grande ampleur dans cette zone pourrait donc entraîner des pertes humaines et économiques considérables. Le séisme du 21 septembre 1999 en est l'exemple le plus frappant.
+**Menace démographique énorme** : Étant donné qu'environ 80 % de la population de Taïwan réside dans la partie ouest, toute activité sismique majeure dans cette ceinture pourrait entraîner d'importantes pertes humaines et économiques. Le grand tremblement de terre de 921 en 1999 est l'exemple le plus frappant.
 
-## La zone sismique de l'est : une activité fréquente liée à la subduction en eaux profondes
+### Ceinture sismique orientale : vibrations fréquentes dues à la subduction marine profonde
 
-La zone sismique de l'est s'étend principalement de la côte orientale de Taïwan aux eaux offshore de l'est. Ses caractéristiques diffèrent fondamentalement de celles de l'ouest :
+La ceinture sismique orientale se situe principalement au large et sur la partie est de Taïwan, avec des caractéristiques très différentes de celles de l'ouest :
 
-**Profondeur des foyers très variable** : les séismes se produisent à des profondeurs allant de quelques kilomètres à 300 kilomètres, formant une zone de distribution sismique inclinée vers l'ouest — preuve directe de la subduction de la plaque de la mer des Philippines.
+**Grande variation de profondeur des foyers** : On trouve des séismes peu profonds de quelques kilomètres jusqu'à des séismes profonds de 300 kilomètres, formant une zone sismique inclinée vers l'ouest, ce qui est la preuve de la subduction de la plaque Philippine.
 
-**Fréquence sismique très élevée** : la fréquence des séismes dans la région orientale dépasse largement celle de l'ouest, avec des tremblements de terre de magnitudes variables se produisant presque quotidiennement. Toutefois, en raison de la densité de population relativement faible, les conséquences en termes de dommages sont généralement moindres.
+**Fréquence sismique très élevée** : La fréquence des séismes dans la région orientale est beaucoup plus élevée que dans l'ouest, avec des événements d'une ou une autre taille presque tous les jours. Cependant, comme la densité de population y est relativement faible, l'impact des catastrophes est généralement moindre.
 
-**Risque de séismes tsunamigènes** : les séismes de grande ampleur au large de la côte est peuvent déclencher des tsunamis, menaçant les zones côtières orientales. Le séisme du 18 septembre 2022 à Taitung (séisme de Chihshang) est un exemple typique de l'activité de la zone sismique de l'est.
+**Risque sismique de tsunami** : Les grands tremblements de terre au large de l'est peuvent provoquer des tsunamis, constituant une menace pour les zones côtières orientales. Le séisme de Chishang en 2022 est un exemple typique de l'activité de la ceinture orientale.
 
-## La zone sismique du nord-est : une symphonie de volcans et de séismes
+### Ceinture sismique nord-est : symphonie entre volcan et séisme
 
-La région nord-est de Taïwan, incluant la métropole de Taipei, est influencée par l'expansion du bassin d'Okinawa et par l'activité volcanique, créant un environnement sismique unique. Le groupe volcanique de Tatun, bien qu'actuellement en sommeil, présente encore une faible activité sismique, nous rappelant la menace volcanique potentielle dans le nord de Taïwan.
+La région du nord-est de Taïwan, y compris la grande zone de Taipei, est soumise à l'expansion du fossé de Okinawa et à l'activité volcanique, créant un environnement sismique unique. Bien que le groupe volcanique de Datun soit actuellement dormant, il présente une activité sismique faible qui nous rappelle la menace volcanique potentielle dans le nord de Taïwan.
 
 ## Répartition et caractéristiques des failles actives
 
-## État actuel des failles actives
+### État actuel des failles actives
 
-Taïwan compte actuellement 36 failles actives confirmées (selon la version la plus récente de 2021 du Centre de gestion des études géologiques et des mines[^2]), parmi lesquelles figurent notamment la faille de Milun, la faille de Chihshang et la faille de Chelungpu. L'ancien système de classification par niveau d'activité a été uniformément supprimé et remplacé par un mécanisme de délimitation des zones géologiquement sensibles. Le potentiel sismique de chaque faille varie et constitue la base essentielle de la planification de la prévention des catastrophes.
+Taïwan compte actuellement 36 failles actives confirmées (selon la dernière édition du Centre d'investigation géologique en 2021[^2]), dont la faille de Milun, la faille de Chishang et la faille de Chulongpu. L'ancien système de classification de l'activité a été unifié et remplacé par un mécanisme de zonage de sensibilité géologique. Le potentiel de menace sismique de chaque faille est différent, ce qui constitue une base essentielle pour la planification de la prévention des catastrophes.
 
-## Restrictions de construction dans les zones de faille
+### Restrictions d'utilisation du sol le long des failles
 
-Afin de réduire les risques de catastrophes sismiques, le gouvernement a mis en place un contrôle strict de l'utilisation des sols le long des failles actives. Dans une bande de 15 mètres de chaque côté de la ligne de surface de la faille (la « zone de faille »), toute construction est interdite sur les terrains publics, tandis que les terrains privés sont limités à des bâtiments de deux étages maximum et de moins de 7 mètres de hauteur. Bien que cette réglementation restreigne le développement foncier, elle revêt une importance cruciale pour la protection de la vie des populations.
+Pour réduire les dégâts sismiques, le gouvernement impose un contrôle strict de l'utilisation des terres autour des failles actives. Dans un rayon de 15 mètres de chaque côté de la ligne de rupture (la « zone de faille »), la construction sur des terrains publics est totalement interdite, et sur les terrains privés, seules sont autorisées des constructions de deux étages ou moins de 7 mètres. Bien que cette réglementation limite le développement foncier, elle est cruciale pour garantir la sécurité des citoyens.
 
-## Les leçons de la faille de Chelungpu
+### Les leçons de la faille de Chulongpu
 
-La faille de Chelungpu est la faille principale du séisme du 21 septembre 1999. Longue d'environ 105 kilomètres, elle a généré un déplacement vertical maximal de 8 mètres lors du séisme, provoquant directement des ruptures de surface et des effondrements de bâtiments. Les études menées après le séisme ont révélé que les dommages aux bâtiments étaient les plus graves dans une zone de 200 mètres au-dessus du plan de faille (mur supérieur) et de 100 mètres en dessous (mur inférieur). Cette découverte a directement influencé la révision ultérieure des normes de construction.
+La faille de Chulongpu était la faille principale du grand tremblement de terre de 921 en 1999. S'étendant sur environ 105 kilomètres, elle a généré un déplacement vertical maximal de 8 mètres lors du séisme, provoquant une rupture de surface et l'effondrement de bâtiments. Les études post-sismiques ont révélé que les dommages aux bâtiments dans un rayon de 200 mètres au-dessus et 100 mètres en dessous de la faille étaient les plus graves, une découverte qui a directement influencé la révision des codes du bâtiment ultérieurs.
 
-## Événements sismiques majeurs récents
+### Événements sismiques majeurs modernes
 
-## Séisme de Jiji du 21 septembre (21 septembre 1999)
+**Grand tremblement de terre de Jiuji (921) (21/09/1999)**
 
-Le 21 septembre 1999, à 1 h 47 du matin, un séisme de magnitude 7,3 sur l'échelle de Richter a frappé la région de Jiji, dans le comté de Nantou, avec une intensité maximale de 7. Ce séisme a causé 2 415 morts et 11 305 blessés, plus de 100 000 bâtiments étant entièrement ou partiellement effondrés. Les pertes économiques directes sont estimées à plus de 300 milliards de dollars taïwanais, ce qui en fait la catastrophe naturelle la plus meurtrière du XXe siècle à Taïwan. La rupture de surface le long de la faille de Chelungpu s'est étendue sur environ 105 kilomètres, avec des déplacements verticaux atteignant localement 8 mètres. Le séisme du 21 septembre a conduit à une révision complète des normes parasismiques de construction à Taïwan et a considérablement renforcé les capacités de recherche en génie sismique, posant les bases du système moderne de protection antisismique de Taïwan.[^5]
+À 1h47 du matin, le 21 septembre 1999, un séisme de magnitude 7,3 s'est produit près de la ville de Jiuji dans le comté de Nantou, avec une intensité maximale de 7. Ce tremblement de terre a causé 2 415 morts et 11 305 blessés, entraînant l'effondrement total ou partiel de plus de 100 000 bâtiments, avec des pertes économiques directes estimées à plus de 300 milliards de dollars taïwanais. C'est la catastrophe naturelle la plus meurtrière de Taïwan après-guerre (le séisme de Hsinchu et Taichung en 1935 a causé 3 276 morts, restant le pire du XXe siècle). La rupture de surface le long de la faille de Chulongpu s'est étendue sur environ 105 kilomètres, avec un déplacement vertical allant jusqu'à 8 mètres à certains endroits. Le séisme de 921 a conduit Taïwan à réviser entièrement les normes parasismiques et à renforcer considérablement la recherche en ingénierie sismique, jetant les bases du système moderne de prévention des tremblements de terre à Taïwan[^5].
 
-## Séisme de Hualien du 3 avril (3 avril 2024)
+**Séisme de Hualien (403) (03/04/2024)**
 
-Le 3 avril 2024, à 7 h 58 du matin, un séisme de M_L 7,2 (magnitude locale) / M_w 7,4 (magnitude de moment) a frappé les eaux offshore de la côte est de Taïwan (au large de Hualien), le plus puissant depuis le séisme du 21 septembre 1999. Le séisme a causé 13 morts et plus de 1 000 blessés, et plusieurs immeubles de grande hauteur à Hualien ont été gravement inclinés. Le sentier de Shakadang a été le lieu d'un effondrement massif de terrain déclenché par le séisme, ensevelissant plusieurs randonneurs. Les opérations de recherche et de sauvetage se sont prolongées pendant plusieurs jours. Le système d'alerte sismique précoce de l'Administration météorologique centrale a diffusé une alerte à l'ensemble de l'île dans les 10 secondes suivant le séisme principal, constituant un cas de validation majeur pour les systèmes d'alerte sismique précoce (EEW).[^1]
+Le 3 avril 2024, à 7h58 du matin, un séisme de M_L 7,2 / M_w 7,4 s'est produit au large de la côte est de Taïwan (au large de Hualien), marquant le plus grand événement depuis le séisme de 921 en 1999. Le tremblement de terre a causé 18 morts et 1 155 blessés, avec de nombreux immeubles fortement inclinés à Hualien. Le sentier de Shanika est tombé en éboulement suite au séisme, ensevelissant plusieurs randonneurs, et les opérations de recherche se sont poursuivies pendant plusieurs jours. Le premier rapport d'alerte sismique avait estimé la magnitude à 6,2, et comme Taipei et New Taipei n'avaient pas atteint le seuil de l'intensité 4, aucune alerte n'a été donnée, ce qui est devenu un cas d'examen important pour le système d'alerte[^1][^10].
 
 ## Surveillance sismique et systèmes d'alerte
 
-## Un réseau de surveillance dense
+### Réseau de surveillance dense
 
-Taïwan a mis en place l'un des réseaux de surveillance sismique les plus denses au monde. Le Centre de surveillance sismique de l'Administration météorologique centrale a installé plus de 150 stations de surveillance sismique en temps réel sur l'ensemble de l'île, soit en moyenne une station pour 300 kilomètres carrés. Ce réseau dense permet de déterminer l'épicentre et la magnitude d'un séisme dans les 20 à 30 secondes suivant sa survenue.
+Taïwan possède l'un des réseaux de surveillance sismique les plus denses au monde. Le réseau d'observation en temps réel du Centre de surveillance sismique de l'Administration météorologique centrale, qui a commencé avec 71 stations en 1989, s'est étendu à plus de 170 stations d'observation en temps réel après le déploiement du nouveau réseau en 2012. Il y a environ un point de surveillance tous les 200 kilomètres carrés[^1]. Ce réseau dense permet de déterminer la position et la magnitude du foyer dans les 20 à 30 secondes suivant le séisme.
 
-## Système d'alerte sismique précoce
+### Système d'alerte sismique précoce (EEW)
 
-Le système d'alerte sismique précoce (EEW) de Taïwan est l'un des plus avancés d'Asie. Lorsqu'un séisme puissant se produit, le système peut émettre une alerte quelques secondes à plusieurs dizaines de secondes avant l'arrivée des ondes sismiques, offrant un temps précieux d'évacuation à la population. Bien que le délai d'alerte soit limité, il revêt une valeur cruciale pour la prévention des catastrophes, notamment pour les trains à grande vitesse et les équipements industriels de précision.
+Le système d'alerte sismique précoce (EEW) de Taïwan est l'un des plus avancés d'Asie. En cas de tremblement de terre majeur, le système émet une alerte quelques secondes à quelques dizaines de secondes avant que les ondes n'arrivent, offrant aux citoyens un temps précieux pour évacuer. Bien que le temps d'alerte soit limité, il est crucial pour des moyens de transport comme les trains à grande vitesse ou les équipements industriels de précision.
 
-## Service d'alerte sismique en temps réel pour les séismes forts
+### Service d'alerte sismique en temps réel
 
-Mis en service en 2016, le service d'alerte sismique en temps réel pour les séismes forts diffuse automatiquement des alertes par télévision, radio et notifications mobiles lorsque l'intensité estimée atteint 4 ou plus. Taïwan est l'un des premiers pays à avoir mis en place un système d'alerte sismique pour l'ensemble de la population, se positionnant comme un pionnier en Asie.
+Le service d'alerte sismique en temps réel, lancé en 2016, diffuse automatiquement une alerte lorsque l'intensité estimée atteint le niveau 4 ou plus, via la télévision, la radio et les notifications mobiles. Taïwan est l'un des pays à avoir construit un système national d'alerte sismique précoce, ce qui lui confère un rôle pionnier dans la région asiatique.
 
-## Les séismes et la société taïwanaise
+## Séisme et société taïwanaise
 
-## Le développement des techniques de construction parasismique
+### Développement de la technologie parasismique
 
-Les techniques de construction parasismique de Taïwan se sont perfectionnées au fil des catastrophes sismiques. Des premières approches de conception parasismique statique aux technologies actuelles d'isolation sismique et d'amortissement, la résistance sismique des bâtiments taïwanais a atteint un niveau de classe mondiale. Le amortisseur à masse accordée (TMD) de la tour Taipei 101 est une application célèbre de la technologie d'amortissement sismique.
+La technologie parasismique de Taïwan s'est perfectionnée à travers les catastrophes sismiques successives. Des conceptions statiques antérieures aux technologies modernes d'isolation et d'amortissement, la résilience des bâtiments taïwanais a atteint un niveau avancé au monde. L'amortisseur à masse accordée (TMD) du Taipei 101 est une application célèbre de cette technologie d'amortissement.
 
-## La formation d'une culture sismique
+### Formation d'une culture sismique
 
-L'attitude des Taïwanais face aux séismes est à la fois prudente et sereine. Des exercices d'évacuation sismique dès l'école primaire à la préparation de kits d'urgence familiaux, en passant par la réaction instinctive « se mettre à l'abri, se protéger, se stabiliser » lors d'un séisme, tout cela fait désormais partie intégrante de la culture taïwanaise.
+L'attitude des Taïwanais face aux séismes est à la fois prudente et sereine. Les exercices d'évacuation sismique depuis l'école primaire, la préparation des trousses d'urgence familiales, et la réaction de « s'accroupir, se couvrir, tenir bon » lors d'un tremblement de terre sont devenus partie intégrante de la culture taïwanaise.
 
-L'expression « les Taïwanais n'ont pas peur des séismes » ne signifie pas que les Taïwanais sont indifférents aux séismes, mais plutôt qu'ils ont appris à coexister avec eux, en faisant preuve de respect face à la nature tout en utilisant la science et la technologie pour réduire les risques de catastrophe.
+L'expression « Les Taïwanais n'ont pas peur des séismes » ne signifie pas qu'ils sont indifférents aux séismes ; cela signifie qu'ils ont appris à coexister avec eux, en réduisant les risques de catastrophe par la science et la technologie tout en respectant la nature.
 
-## Contribution à la recherche sismique internationale
+### Contribution à la recherche sismique internationale
 
-L'environnement géologique unique de Taïwan et la richesse de ses données sismiques attirent des chercheurs de nombreux pays pour des collaborations. Les résultats de la recherche taïwanaise dans les domaines du comportement des failles et de l'alerte précoce ont été publiés dans des revues internationales et constituent une référence directe pour les pratiques de prévention des catastrophes à l'échelle mondiale.
+L'environnement géologique particulier de Taïwan et l'abondance des données sismiques attirent des chercheurs internationaux pour collaborer sur place. Les résultats de la recherche taïwanaise ont été publiés dans des revues internationales concernant le comportement des failles et les systèmes d'alerte précoce, offrant une référence directe à la pratique mondiale en matière de prévention des catastrophes.
 
-## Les défis à venir
+## Défis futurs
 
-## Les nouvelles menaces du changement climatique
+### La nouvelle menace du changement climatique
 
-Ces dernières années, les scientifiques ont découvert que le changement climatique pouvait influencer l'activité sismique. L'augmentation des précipitations extrêmes peut modifier la pression des eaux souterraines et affecter ainsi la stabilité des failles. Taïwan doit intégrer ces nouveaux facteurs de risque dans sa planification de la prévention des catastrophes sismiques.
+Ces dernières années, des scientifiques ont découvert que le changement climatique pourrait influencer l'activité sismique. L'augmentation des précipitations extrêmes peut modifier la pression des eaux souterraines, affectant ainsi la stabilité des failles. Taïwan doit intégrer ces nouveaux facteurs de risque dans sa planification de prévention des catastrophes.
 
-## La double influence de l'urbanisation
+### Les doubles impacts de l'urbanisation
 
-Le processus d'urbanisation de Taïwan engendre une double influence : d'une part, la performance parasismique des constructions modernes s'est considérablement améliorée ; d'autre part, la concentration croissante de la population et des biens signifie qu'un séisme majeur pourrait entraîner des pertes potentielles de plus en plus importantes. Trouver un équilibre entre développement et sécurité constitue un défi de long terme pour Taïwan.
+Le processus d'urbanisation à Taïwan présente un double impact : d'une part, les performances parasismiques des bâtiments modernes sont considérablement améliorées ; d'autre part, la concentration croissante de population et d'actifs signifie que les pertes potentielles augmentent en cas de grand séisme. Trouver un équilibre entre le développement et la sécurité est un défi à long terme pour Taïwan.
 
-## Les opportunités de l'innovation technologique
+### Les opportunités de l'innovation technologique
 
-L'intelligence artificielle, l'analyse des mégadonnées (big data), l'Internet des objets et d'autres nouvelles technologies offrent de nouvelles possibilités pour la recherche sismique et la prévention des catastrophes. Taïwan explore l'utilisation de ces technologies pour améliorer la prévision sismique et les systèmes d'alerte précoce, rendant ainsi le travail de prévention des catastrophes plus précis et plus efficace.
+Les nouvelles technologies telles que l'intelligence artificielle, l'analyse de mégadonnées (Big Data) et l'Internet des objets (IoT) apportent de nouvelles possibilités à la recherche sismique et à la prévention des catastrophes. Taïwan explore l'utilisation de ces technologies pour améliorer les systèmes de prévision et d'alerte sismique précoces, rendant le travail de prévention plus précis et efficace.
 
 ## Références
 
-[^1]: Centre de surveillance sismique de l'Administration météorologique centrale, [Cent questions sur les séismes](https://scweb.cwa.gov.tw/).
-[^2]: Centre de gestion des études géologiques et des mines, Ministère de l'Économie, [Réseau des failles actives du Centre d'études géologiques](https://fault.gsmma.gov.tw/) (version la plus récente de 2021, 36 failles actives).
-[^3]: Département des sciences géologiques, Université nationale de Taïwan, [L'activité sismique à Taïwan](http://www.gl.ntu.edu.tw/).
-[^4]: Institut des sciences de la Terre, Académie sinique, [Activité sismique et recherche tectonique dans la région de Taïwan](https://www.earth.sinica.edu.tw/).
-[^5]: Académie nationale de recherche, [Centre national de recherche en génie sismique](https://www.ncree.narl.org.tw/).
-[^6]: Agence nationale de gestion du territoire, Ministère de l'Intérieur, [Informations relatives aux zones géologiquement sensibles des failles actives](https://www.nlmb.gov.tw/).
-[^7]: Centre taïwanais de sciences sismiques, [Rapports de recherche en sciences sismiques](https://tec.earth.sinica.edu.tw/).
-[^8]: Société géologique de la République de Chine, [Recueil d'articles de recherche géologique sur Taïwan](https://www.gst.org.tw/).
-[^9]: Institut de géophysique, Université nationale centrale, [Recherche en tectonique des plaques et en sismologie](https://www.gep.ncu.edu.tw/).
+[^1]: [Présentation des divers réseaux d'observation](https://scweb.cwa.gov.tw/zh-tw/page/observationnetwork) — Centre de surveillance sismique de l'Administration météorologique centrale
+
+[^2]: [Réseau des failles actives](https://fault.gsmma.gov.tw/) — Centre d'investigation géologique et de gestion minière du Ministère de l'économie(dernière édition en 2021, 36 failles actives).
+
+[^3]: [Activité sismique à Taïwan](http://www.gl.ntu.edu.tw/) — Département des sciences de la Terre de l'Université nationale de Taïwan.
+
+[^4]: [Recherche sur l'activité et la tectonique sismique dans la région de Taïwan](https://www.earth.sinica.edu.tw/) — Institut des sciences de la Terre de l'Académie chinoise des sciences.
+
+[^5]: [Centre de recherche en ingénierie sismique nationale](https://www.ncree.narl.org.tw/) — Institut national de recherche.
+
+[^6]: [Informations sur les zones sensibles géologiques des failles actives](https://www.nlma.gov.tw/) — Bureau de gestion territoriale du Ministère de l'Intérieur.
+
+[^7]: [Rapport de recherche en sciences sismiques](https://tec.earth.sinica.edu.tw/) — Centre scientifique sismique de Taïwan.
+
+[^8]: [Recueil d'articles de recherche géologique sur Taïwan](https://www.gst.org.tw/) — Société de géologie de la République de Chine.
+
+[^9]: [Recherche sur la tectonique des plaques et la sismologie](https://www.gep.ncu.edu.tw/) — Institut de géophysique de l'Université nationale de Zhonghua.
+
+[^10]: [Séisme de Hualien (403) de magnitude 7.2 : 18 morts et plus de mille blessés ; faille inverse se brise vers le nord — Reporter](https://www.twreporter.org/a/taiwan-0403earthquake) — Au 25 avril 2024, 18 morts et 1 155 blessés ; le premier rapport d'alerte a estimé la magnitude à 6,2, et Taipei/New Taipei n'a pas émis d'alerte car l'intensité était inférieure au seuil de 4.

@@ -2,6 +2,7 @@
 title: 'Histoire de la télévision taïwanaise : de la trinité des chaînes à la révolution douce de la Q-Series'
 description: "De l'ouverture de TTV en 1962 à la Q-Series en 2016, l'industrie télévisuelle de Taïwan a traversé 54 ans de transformation — du monopole du parti, de l'armée et de l'État vers l'essor d'un audiovisuel public. Comment une plateforme sans publicité a-t-elle réussi à raconter des histoires que tout le monde voulait entendre ?"
 date: 2026-03-31
+category: 'Technology'
 tags:
   [
     'télévision',
@@ -11,17 +12,16 @@ tags:
     'réforme des médias',
     'drama taïwanais',
   ]
-category: 'Technology'
 subcategory: 'Audiovisuel et médias'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
-translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-05-16T22:35:54Z'
 lastHumanReview: true
+translatedFrom: 'Technology/台灣電視產業史.md'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-19T07:33:39.129400+00:00'
 ---
 
 > **En 30 secondes :** Lancée en 1962, la télévision taïwanaise a d'abord été verrouillée par le parti, l'armée et l'État pendant trente ans. En 1998, la création de PTS — première chaîne publique réellement indépendante — marque un tournant. En 2016, la Q-Series affiche seulement 0,5 % d'audience, mais elle libère le drama taïwanais du carcan des soap operas et des feuilletons ruraux. Ces 54 ans racontent, avant tout, la question de qui détient le droit de raconter des histoires.
@@ -143,19 +143,23 @@ Mais derrière la montée en puissance du numérique se profilent YouTube, Netfl
 
 ---
 
-## Qui a le droit de raconter des histoires ?
+## Qui a le droit de raconter l'histoire ?
 
-De TTV en 1962 à PTS en 1998, puis à la Q-Series en 2016, ces 54 ans d'histoire télévisuelle taïwanaise posent au fond une seule question : **qui détient le pouvoir de raconter des histoires ?**
+De l'ouverture de CTS en 1962 à la création de PTS en 1998, puis à l'avènement de _Plant d'histoires_ en 2016, les 54 ans de l'industrie télévisuelle taïwanaise forment l'histoire de **qui a le droit de raconter l'histoire**.
 
-À l'époque des trois grandes chaînes, c'est le parti, l'État et l'armée qui tiennent le micro. À l'ère de PTS, c'est l'intérêt public qui prend la parole. Avec la Q-Series, ce sont les gens ordinaires.
+Durant l'ère des « trois grands », c'est le « parti, l'État et l'armée » qui racontait l'histoire ; durant l'ère de PTS, c'est le « bien commun » ; durant l'ère de _Plant d'histoires_, c'est la « petite personne ».
 
-Wang Hsiao-di a dit : « Quand quelqu'un vous nie, c'est là que votre croissance commence. »[^17]
+Wang Hsin-chieh a déclaré : « Celui ou celle qui vous nie, c'est le début de votre épanouissement. »[^17]
 
-La révolution douce de la Q-Series est toujours en cours. En 2021, Netflix investit 1 milliard de TWD dans l'audiovisuel taïwanais, et plusieurs productions de la Q-Series trouvent un public international.許光漢 (Greg Hsu), 孫可芳 (Aviis Zhong), 劉冠廷 (Liu Kuan-ting) — ces acteurs révélés par la Q-Series sont désormais au cœur de l'industrie taïwanaise du spectacle.
+Cette douce révolution qu'est _Plant d'histoires_ est toujours en marche. En 2021, Netflix a investi 1 milliard de nouveaux dollars taïwanais dans l'industrie du cinéma et de la télévision taïwanaise, et de nombreuses œuvres de _Plant d'histoires_ ont été vues à l'international. Des acteurs comme Xavier Hsieh, Sonia Li et Liu Kuan-ting sont passés par _Plant d'histoires_ pour devenir des figures majeures de l'audiovisuel taïwanais.
 
-Si, en 2050, quelqu'un veut savoir ce que la télévision taïwanaise a tenté de construire, il lira peut-être ces fichiers Markdown — le récit d'une plateforme sans publicité qui a essayé de raconter des histoires que tout le monde avait envie d'entendre.
+Si, en 2050, quelqu'un voulait savoir ce que l'industrie télévisuelle taïwanaise a tenté de faire, il se pourrait qu'il lise ces fichiers Markdown — l'histoire d'une plateforme qui ne vend pas de publicités et qui tente de raconter une histoire que tout le monde aime.
 
 ---
+
+**Lecture complémentaire** :
+
+- [Prix du Golden Bell](/culture/金鐘獎) — Les trois grands y ont dominé pendant dix-sept ans, PTS et les chaînes câblées ont été récompensés, et l'arrivée de Netflix a marqué une nouvelle ère pour les prix décernés aux programmes dramatiques, témoignant de cette histoire industrielle.
 
 ## Références
 

@@ -1,174 +1,156 @@
 ---
-title: 'La culture des marchés à Taïwan : les marchés traditionnels'
-description: 'Un miroir de la vie populaire, reflet de la résilience et de la transformation de la société taïwanaise'
-date: 2026-03-18
+title: 'La culture des marchés taïwanais : un marché ne vend pas seulement des légumes, il préserve les souvenirs de la ville'
+description: 'Du marché public sous la domination japonaise, en passant par les déplacements de population après-guerre, la relocalisation du marché Jianguo jusqu’aux paiements électroniques à Taipei, comprendre comment les marchés traditionnels taïwanais assument à la fois l’approvisionnement alimentaire, l’économie populaire, les relations communautaires et la mémoire urbaine, tout en cherchant leur place entre sécurité, commodité et relations humaines.'
+date: 2026-09-13
+category: 'Lifestyle'
 tags:
   [
     'marchés traditionnels',
     'culture populaire',
-    'fonctions sociales',
-    'urbanisme',
-    'économie communautaire',
+    'mémoire urbaine',
+    'transformation des marchés',
+    'vie de quartier',
   ]
-subcategory: 'Alimentation et vie quotidienne'
-category: 'Lifestyle'
-author: 'Taiwan.md'
-readingTime: 12
+subcategory: '飲食生活'
+author: 'Taiwan.md Contributors'
 featured: false
-translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
-lastVerified: 2026-03-19
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0334fef76cff5db1'
-sourceBodyHash: 'sha256:1f68acc56a66c3d5'
-translatedAt: '2026-04-15T17:34:27+08:00'
+lastVerified: 2026-09-13
 lastHumanReview: false
+curation: 'incubating'
+image: '/article-images/lifestyle/nanmen-market-2023.webp'
+readingTime: 8
+rationale: "{'why_this_hook': '從南門、新富與建國三座市場切入，追蹤市場如何由衛生制度、人口移動與住商混合長成城市基礎設施；核心不是歌頌老市場，而是說明它為何值得在更新中保留選擇。', 'whats_excluded': '不把傳統市場寫成單純懷舊，也不把所有市場改建或數位化都視為成功；不沿用原稿未能對應文章頁的統計與泛稱案例。', 'where_it_hedges': '市場數量與營業額採經濟部計畫的特定統計口徑；歷史沿革分別依官方市場、文化機構與編輯媒體文章核對，不把單一市場經驗推論為全台市場。', 'whos_pushing_back': '文章同時呈現市場的衛生與安全問題、超市與網路通路的便利，以及都市更新對攤商、住戶、信仰與地方記憶造成的落差。'}"
+translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
+sourceCommitSha: '5c8070d07'
+sourceContentHash: 'sha256:e0d72befdb935fe7'
+sourceBodyHash: 'sha256:35b8626f07740119'
+translatedAt: '2026-09-19T11:59:05+08:00'
 ---
 
-# La culture des marchés à Taïwan : les marchés traditionnels
+> **Résumé en 30 secondes :** Les marchés traditionnels taïwanais ne sont pas le vestige de la ville moderne, mais une infrastructure urbaine façonnée par la santé publique, les déplacements de population, l’économie populaire et les relations quotidiennes. Nanmen Market, Xinfu Market et Jianguo Market montrent que les marchés peuvent être rénovés, délocalisés et numérisés, mais ce qu’il faut vraiment conserver, ce n’est pas un vieux bâtiment sombre, c’est le réseau de vie qui permet aux gens de trouver de la nourriture, des connaissances et de la confiance mutuelle.
 
-À cinq heures et demie du matin, les commerçants du marché Dongmen sont déjà en train d'installer leurs étals de légumes et de fruits.
-Une grand-mère pousse lentement son panier à provisions, s'arrête devant son stand habituel — sans même ouvrir la bouche, la marchande sait déjà ce qu'elle veut.
-Ce n'est pas une simple transaction commerciale : c'est un dialogue humain qui dure depuis des décennies.
-À Taïwan, les marchés traditionnels n'ont jamais été de simples lieux d'achat et de vente. Ils sont le miroir de la vie populaire, le vecteur des émotions communautaires, les témoins de la mémoire urbaine.
+# La culture des marchés taïwanais : un marché ne vend pas seulement des légumes, il préserve les souvenirs de la ville
 
-## Une sédimentation historique : des regroupements de marchands ambulants aux marchés institutionnalisés
+En 1909, les résidents de Nanmen, à l’extérieur de la porte sud de Taipei, commencent à s’assembler pour faire leurs courses, car ils sont trop éloignés du grand port de Dadaocheng et de Dajia. En 1935, le marché Xinfu à Wanhua ouvre avec plus de trente étals ; en 1972, le marché Jianguo à Taichung superpose marché, logements et lieux de culte dans le même immeuble.[^1] [^2] [^3]
 
-Les origines des marchés traditionnels taïwanais remontent aux marchés de rue et aux places de temple de l'époque Qing.
-À cette période, les commerçants se rassemblaient naturellement le long des grands axes ou autour des temples, formant des espaces d'échange spontanés.
-Ces marchés primitifs portaient la logique d'échange propre à la société agricole — les paysans y apportaient leurs légumes et fruits cultivés, les artisans leurs objets fabriqués, se retrouvant à heure et lieu fixes pour un double échange : de marchandises et d'émotions.
+Ces trois dates expliquent un phénomène contre-intuitif : les marchés traditionnels ne sont pas des reliques en dehors de la ville moderne. Ils sont en réalité une infrastructure urbaine façonnée par l’urbanisme, la santé publique, les déplacements de population et la vie familiale.
 
-Sous l'ère coloniale japonaise, le gouvernement général de Taïwan entreprit, au nom de « l'hygiène améliorée » et de la « modernisation administrative », d'intégrer ces regroupements de marchands ambulants dispersés dans le système d'urbanisme.
-Après 1895, le gouvernement japonais instaura progressivement un système de marchés modernes : il délimita des zones commerciales fixes, établit des règlements pour les étals et mit en place des mécanismes de gestion.
-Si ce processus apporta ordre et améliorations sanitaires, il marqua aussi un tournant décisif — le passage du rassemblement naturel à la gestion institutionnelle.
+![Intérieur du premier étage du marché Nanmen, où l’architecture du marché et les étals enregistrent ensemble les changements de la ville. Source : gouvernement de la ville de Taipei, Wikimedia Commons ; licence des données ouvertes du gouvernement de Taipei](/article-images/lifestyle/nanmen-market-2023.webp)
 
-Après la Seconde Guerre mondiale, le gouvernement du Kuomintang poursuivit et développa ce système de marchés.
-Dès les années 1950, poussé par des considérations d'« hygiène publique », de « stabilisation des prix » et d'« augmentation des recettes locales », il construisit massivement des marchés publics.
-Selon les statistiques du ministère de l'Économie de 2019, Taïwan comptait 834 marchés traditionnels publics et privés. Ces marchés ne résolurent pas seulement le problème des commerçants ambulants envahissant les villes — plus important encore, ils remplirent une fonction d'aide sociale : en proposant des locations à des tarifs accessibles, ils permirent à des personnes dans la précarité de se lancer en affaires avec un seuil d'entrée relativement bas.
+📝 Note du conservateur : ce qui mérite d’être conservé dans un marché, ce n’est pas l’adjectif « ancien », mais la manière dont une ville est utilisée et se souvient d’elle-même.
 
-## Fonctions sociales : bien plus qu'un espace marchand
+## Des rassemblements de rue aux marchés publics
 
-Entrez dans n'importe quel marché traditionnel taïwanais et vous découvrirez que ses fonctions sociales dépassent de loin la simple transaction commerciale.
-Le marché est un centre d'échange d'informations : les tantes s'attardent devant les étals de légumes pour discuter de la fraîcheur comparée des produits ou des promotions du moment, tout en échangeant les potins du quartier et les nouvelles familiales.
-Ces bavardages qui semblent anodins tissent en réalité les filets du réseau social communautaire.
+À l’époque Qing, les échanges pouvaient se dérouler dans les places de temples, sur les rues ou aux abords des villages. Ces marchés fonctionnaient selon des itinéraires familiers et des coutumes locales, sans nécessairement posséder un bâtiment fixe, ni être gérés par un seul organisme. Au début de la période de domination japonaise, le gouvernement colonial a toutefois conservé une partie de ces coutumes. Après l’épidémie de peste de 1896, l’hygiène des marchés devient un problème de gouvernance ; à partir de 1904, des réformes des marchés sont progressivement mises en œuvre.[^4]
 
-Pour nombre de personnes âgées, le marché est un espace social essentiel.
-Elles ne sont pas pressées de terminer leurs courses — elles savourent le plaisir d'interagir avec les commerçants et les autres clients.
-Ce rythme de « vie lente » contraste fortement avec l'efficacité du supermarché moderne.
-La chaleur humaine du marché se manifeste dans les petites attentions : un commerçant qui se souvient des préférences de ses habitués, qui glisse un peu plus de légumes les jours de typhon, qui accepte volontiers de faire crédit quand un client traverse une période difficile.
-Ces interactions minuscules s'accumulent pour former un capital social communautaire impossible à chiffrer, mais d'une valeur inestimable.
+Ces réformes ne consistent pas seulement à déplacer les étals à l’intérieur. Elles introduisent également des règles de marché, une gestion des étals, des frais d’hygiène publique et une spécialisation professionnelle. Durant la période Taishō, l’objectif des marchés évolue du simple amélioration de l’hygiène vers la transformation du marché en une institution économique efficace.[^4]
 
-Le marché est aussi un lieu important de transmission culturelle.
-Les commerçants expérimentés y apprennent aux jeunes à sélectionner les ingrédients, à traiter les légumes et fruits selon les saisons.
-Une mère qui emmène son enfant au marché ne fait pas que remplir une obligation ménagère : elle lui transmet une sagesse pratique de la vie.
-L'enfant apprend ainsi à distinguer la qualité des aliments, à comprendre les liens entre les saisons et l'alimentation, à ressentir la chaleur des relations humaines.
+Le marché Xinfu est l’incarnation concrète de ce système. Créé en 1935, il comprend des étals de viande, de poisson frais, de légumes et d’épicerie, ainsi que des bureaux, des dortoirs, un parking, une décharge et des toilettes publiques. La forme en fer de luth et la cour centrale du marché intègrent la ventilation, la luminosité naturelle et la fluidité des clients dans le design. [^2]
 
-## Écologie économique : un microcosme de l'économie populaire
+Ces dispositions montrent que le marché n’a jamais été qu’un simple ensemble d’étals. C’est une technologie urbaine qui place la nourriture, l’hygiène, le transport, la gestion et la vie de quartier dans le même espace.
 
-D'un point de vue économique, le marché traditionnel présente une écologie microéconomique relativement complète.
-On y trouve la relation offre-demande la plus directe qui soit — les légumes et fruits de saison abondants sont bon marché, les produits rares voient leur prix grimper.
-Les commerçants doivent saisir avec finesse les dynamiques du marché et ajuster leurs stratégies d'approvisionnement. Cette perception intuitive du marché s'avère souvent plus précise que les modèles économiques complexes.
+📝 Note du conservateur : l’architecture d’un marché raconte souvent plus sincèrement ce que les gens considèrent comme « une bonne vie » que les slogans urbains.
 
-La concurrence y est douce et humaine.
-Même si des étals proposant des produits similaires peuvent se trouver côte à côte, les commerçants développent souvent entre eux une complicité et une forme de coopération tacite.
-Ils se surveillent mutuellement les étals, partagent les informations du marché, se soutiennent même dans les moments de creux.
-Ce modèle commercial où « la coopération coexiste avec la concurrence » reflète le trait culturel de « cohabitation harmonieuse » propre à la société taïwanaise.
+## Nanmen Market : comment les déplacements de population transforment une table de repas
 
-Pour de nombreuses petites entreprises et économies familiales, le marché offre une plateforme d'entrepreneuriat accessible.
-Comparé à l'ouverture d'un commerce en dur, la location d'un emplacement au marché coûte bien moins cher et permet plus facilement de fidéliser une clientèle.
-Nombreuses sont les marques alimentaires qui ont commencé leur histoire sur un étal de marché.
-Cette caractéristique de « faible barrière à l'entrée » fait du marché un vecteur important de mobilité sociale.
+L’histoire de Nanmen Market ressemble à une version condensée de l’histoire démographique de Taipei. Le marché de Nanmen, créé en 1909, dessert initialement les nouveaux résidents croissants de Nanmen, tout en fournissant aux officiels japonais et aux habitants taïwanais les produits de base du quotidien ; en 1922, quand Taipei instaure la réforme des noms de quartiers, cette zone est rebaptisée Qianyuan, et le marché devient Qianyuan Market. Après la guerre, le marché est renommé Nanmen Market ; après 1949, avec l’arrivée de populations politiques émigrées de Chine continentale, le marché développe un caractère particulier mêlant produits du nord et du sud, plats cuits et cuisine de province. [^1] [^5]
 
-## Mémoire de l'espace : un fossile vivant de la culture urbaine
+Le « commerce du nord et du sud » ici n’est pas une simple spécialité régionale, mais des produits secs, fruits de mer, pâtisseries et sauces que l’on peut tenir dans ses mains. Le marché transforme les souvenirs des immigrants en aliments que l’on peut acheter, cuisiner et servir à table.
 
-Chaque marché traditionnel porte la mémoire particulière d'une ville et son caractère local.
-Le marché Nanmen de Taipei est réputé pour sa cuisine de la Chine continentale, reflet de la culture alimentaire des migrants venus après 1949.
-Le marché Est de Tainan conserve quant à lui un grand nombre de plats traditionnels, témoignant de la tradition culinaire de l'ancienne capitale.
-Ces marchés ne sont pas seulement des espaces commerciaux ; ils constituent une composante essentielle du paysage culturel.
+En 1969, Nanmen Market est temporairement délocalisé à Nanhai Road pour les travaux urbains. En 1981, les étals reviennent dans le nouveau marché. Le premier étage et le sous-sol conservent les fonctions de marché ; le deuxième étage ajoute des commerces et des espaces de restauration. Cette rénovation montre que le marché n’offre pas seulement deux options : « conserver » ou « disparaître » ; il peut aussi, par une reconfiguration, ajuster son rôle dans la ville.[^5]
 
-La forme architecturale des marchés reflète aussi les conceptions urbanistiques de chaque époque.
-Les marchés de la première génération adoptaient souvent une architecture ouverte, privilégiant la ventilation et la lumière naturelle.
-Ceux construits plus tard accordèrent davantage d'importance aux équipements modernes et à l'efficacité de gestion.
-Ces évolutions architecturales enregistrent la trajectoire du développement urbain taïwanais.
+Cependant, la rénovation n’est pas toujours durable. En 2012, une évaluation révèle des problèmes de « maisons de sable » dans le bâtiment, et Nanmen Market est démoli pour les travaux du métro ; il est d’abord installé dans un marché provisoire, et reprend ses activités dans la nouvelle salle en 2023. La continuité du marché ne réside donc pas seulement dans les murs d’origine, mais aussi dans la capacité des étals, des produits, des clients et des marques à traverser le déménagement ensemble.[^1] [^5]
 
-Certains marchés aux longues histoires sont même devenus des symboles culturels de leur ville.
-Ils ne servent plus seulement les habitants locaux — ils attirent également des visiteurs de loin venus goûter « le vrai goût de Taïwan ».
-Ce développement d'une fonction touristico-culturelle insuffle une nouvelle vitalité aux marchés traditionnels et fournit un matériau précieux pour la valorisation des villes.
+## Le marché vend des ingrédients, mais aussi « comment vivre »
 
-## Défis contemporains : trouver de nouvelles voies dans la transformation
+Le ministère de l’Économie décrit les marchés traditionnels comme le centre des activités commerciales locales et le centre de ressources pour la vie courante des classes populaires. Selon le plan approuvé en 2020, il y a 577 marchés publics et zones de vente légales gérées, avec 81 819 étals, environ 190 000 employés, et un chiffre d’affaires annuel d’environ 57,6 milliards de dollars taïwanais. [^6]
 
-Cependant, les marchés traditionnels font face à de nombreux défis dans la société moderne.
-L'essor des supermarchés et des grandes surfaces, qui offrent un environnement d'achat plus pratique et standardisé, a attiré une grande partie de la clientèle qui fréquentait autrefois les marchés.
-Les habitudes de consommation des jeunes générations ont changé : elles préfèrent les achats en ligne ou le guichet unique du supermarché et ont peu de temps ni de patience pour flâner au marché et négocier les prix.
+Ces chiffres ne prouvent pas directement que chaque marché est prospère, mais ils nous rappellent que le marché n’est pas un simple goût de nostalgie pour quelques-uns, mais un système de vie disposant d’emplois, d’approvisionnement et d’échelle économique locale.
 
-La pression du renouvellement urbain condamne aussi bien des marchés anciens à la démolition ou à la reconstruction.
-La controverse autour de la démolition du marché Jianguo de Taichung a mis en lumière les tensions entre les marchés traditionnels et le développement urbain moderne.
-Dans la course à la modernisation des villes, comment préserver ces espaces qui portent la mémoire populaire est devenu un enjeu majeur de gouvernance urbaine.
+```tw-stat
+577 endroits | Marchés publics et zones de vente légales | Plan 2020 du ministère de l’Économie
+81,819 étals | Nombre d’étals dans les marchés et zones de vente légales | Plan 2020 du ministère de l’Économie
+Environ 190 000 personnes | Personnel employé | Plan 2020 du ministère de l’Économie
+57,6 milliards de dollars | Chiffre d’affaires annuel | Plan 2020 du ministère de l’Économie
+Source : Bureau du ministère de l’Économie à Taichung, 2020
+```
 
-Le vieillissement des commerçants constitue un autre défi sérieux.
-Dans de nombreux marchés, les marchands sont d'un âge avancé et leurs enfants refusent de reprendre l'activité, posant un problème aigu de transmission.
-Quand un commerçant expérimenté part à la retraite, ce ne sont pas seulement des savoirs précieux sur les produits alimentaires qui disparaissent — c'est aussi le lien affectif tissé avec la communauté qui se rompt.
+Mais la valeur du marché ne se mesure pas seulement au chiffre d’affaires. Les étals peuvent expliquer l’origine des ingrédients et les méthodes de cuisson ; les clients fidèles peuvent acheter exactement la quantité dont ils ont besoin ; les voisins échangent des nouvelles dans les couloirs. Ces interactions font du marché à la fois la fin de la chaîne d’approvisionnement alimentaire, un nœud d’informations communautaires et un conteneur de mémoire locale. [^7]
 
-## Innovation et transformation : conjuguer sagesse ancestrale et besoins contemporains
+Dans son reportage visuel sur le marché Jianguo, _The Reporter_ décrit le marché comme « la mémoire et les conversations du peuple dans la ville ».[^3] L’accent de cette phrase n’est pas sur le romantisme du marché, mais sur le fait que les relations commerciales dans le marché portent souvent le temps : combien d’années une personne travaille dans le même étal, quel étal a élevé une famille, quel temple a accompagné un vendeur à travers les hauts et les bas des affaires.
 
-Face à ces défis, de nombreux marchés ont commencé à réfléchir aux possibilités de se réinventer.
-Certains ont introduit des équipements modernes et des modes de gestion nouveaux pour améliorer l'environnement d'achat et rehausser la qualité du service.
-Le marché Shidong à Taipei, après rénovation, a réussi à conjuguer la chaleur humaine du marché traditionnel et la commodité d'une grande surface moderne — un exemple de reconversion réussie.
+📝 Note du conservateur : les supermarchés rendent les achats rapides, tandis que les marchés ramènent les achats à une relation. Ce ne’est pas une question de supériorité, mais de choix de vie différents.
 
-Le recours à la technologie ouvre aussi de nouvelles perspectives pour les marchés.
-Certains commerçants ont commencé à accepter les paiements mobiles, à créer des plateformes de vente en ligne pour élargir leur champ d'action.
-Le gouvernement pousse également une politique de « numérisation des marchés traditionnels » pour aider les marchands à s'adapter aux modèles commerciaux de l'ère numérique.
+## Jianguo Market : quand le marché est aussi une maison
 
-L'irruption de l'industrie créative a insufflé une nouvelle vie aux marchés.
-Des designers et créatifs se sont installés dans certains marchés, associant savoir-faire traditionnels et esthétique contemporaine pour créer des produits créatifs portant l'identité du marché.
-Ce modèle « vieux espaces, nouvelles idées » ne conserve pas seulement les traits culturels du marché, il attire aussi l'attention des jeunes générations.
+Le marché Jianguo à Taichung a été construit en 1972, initialement pour loger les habitants de Green Lane et les étals temporaires. Les étages 1 et 2 sont dédiés au marché, les étages 3 et 4 sont des logements, et le sous-sol est un parking. Cette combinaison de marché et de logements fait des étals et des résidents à la fois des collègues et des voisins. [^8]
 
-## Animation communautaire : redéfinir la valeur du marché
+Cet agencement spatial apporte de la commodité, mais aussi des coûts à long terme en termes de gestion et de sécurité. Après le séisme de 1999 (séisme de Jiujiaoying), des fissures et des fuites apparaissent dans le bâtiment, et certains résidents déménagent progressivement. Lorsque le marché est délocalisé pour le projet urbain autour de la gare, les étals peuvent être déplacés à la nouvelle adresse, mais les personnes qui vivaient au-dessus du marché n’ont pas la même option de logement. [^3] [^8]
 
-Ces dernières années, le concept d'animation communautaire a commencé à prendre vie dans les marchés.
-Certains d'entre eux ne se contentent plus de leur seule fonction marchande — ils assument aussi des responsabilités d'éducation communautaire et d'animation culturelle.
-Cours de cuisine, ateliers de découverte des produits alimentaires, spectacles culturels : le marché se transforme en centre culturel de quartier.
+Ce qui est le plus difficile à déplacer lors d’un déménagement, ce n’est souvent pas le panneau de l’étal, mais les relations qui n’étaient pas inscrites dans le plan urbain. L’ancien marché Jianguo abritait un temple Matsu et un temple Tudigong ; le nouveau marché n’a pas réservé d’espace pour la religion, et les étals ont dû négocier à nouveau un lieu pour installer les dieux. [^8]
 
-Cette mutation reflète une nouvelle manière de comprendre la valeur du marché.
-Il n'est plus seulement un espace commercial, mais une composante essentielle de la vie communautaire.
-Il offre non pas uniquement des marchandises, mais des occasions de socialiser, d'apprendre et de vivre des expériences culturelles.
-Ce développement multifonctionnel trace de nouvelles pistes pour la pérennité des marchés.
+Ce détail semble infime, mais il révèle l’écart entre les concepteurs et les utilisateurs : pour les plans d’urbanisme, cela peut être un espace non marqué ; pour les gens du marché, c’est un lieu qu’ils traversent chaque matin avant d’ouvrir, et où ils vont parler quand les affaires ne vont pas bien.
 
-## Visions d'avenir : la coexistence harmonieuse du traditionnel et du moderne
+« Celui qui reste longtemps au marché, c’est comme chez soi », rapporte _The Reporter_. [^3] Cette phrase ne fait pas référence à la propriété légale du marché, mais au temps : quand une personne consacre plusieurs dizaines d’années à un étal, le marché cesse d’être un simple lieu de location.
 
-À l'horizon, les marchés traditionnels de Taïwan devront trouver un équilibre entre la préservation de leur caractère propre et l'adaptation aux transformations.
-Ils devront conserver leurs valeurs fondamentales — la chaleur humaine, l'ancrage local, la transmission culturelle — tout en répondant aux attentes des consommateurs modernes en matière de qualité de service et de commodité.
+## La modernisation ne peut pas se limiter à des murs éclairés
 
-Le modèle idéal de développement serait une fusion organique entre sagesse traditionnelle et technologie moderne.
-Un espace qui maintiendrait le rythme de la « vie lente » et la chaleur des relations humaines, tout en proposant des produits et services de haute qualité.
-Un lieu qui serait à la fois un endroit pour satisfaire les besoins du quotidien et une fenêtre pour vivre la culture locale.
+Les défis auxquels font face les marchés traditionnels sont concrets. Les faiblesses identifiées par le ministère de l’Économie incluent : des bâtiments et installations vieillissants, une mauvaise image d’hygiène, un manque de places de stationnement, des horaires de fermeture tôt, un vieillissement des étals et des ressources de marketing limitées ; la concurrence externe provient des supermarchés, des hypermarchés, des commerces de proximité, du commerce en ligne et du changement de mode de vie. [^6]
 
-Dans une société qui change à toute vitesse, les marchés traditionnels nous rappellent l'essence même de la vie — l'origine de la nourriture, les liens entre les personnes, la chaleur de la communauté.
-Ils sont les oasis de la ville, de rares îlots de lenteur dans le tourbillon de la vie moderne.
-Comment faire perdurer ces précieux patrimoines culturels au fil des transformations n'est pas seulement une question commerciale — c'est une question de civilisation.
+Il est donc nécessaire d’améliorer l’environnement des marchés. La sécurité, l’hygiène, la luminosité naturelle, la ventilation, le réfrigération et le traitement des déchets sont des conditions de base que les clients et les étals ne devraient pas avoir à échanger contre « l’atmosphère humaine ». La valeur culturelle du marché ne devrait pas devenir une excuse pour cacher des fuites, des structures dangereuses ou des problèmes d’hygiène alimentaire.
 
-Quand nous terminons nos courses en vitesse dans l'air conditionné d'un supermarché, il vaut la peine, de temps à autre, de faire un détour par le marché traditionnel et de laisser pénétrer en soi cette chaleur humaine que le temps n'efface pas.
-Là-bas, chaque transaction est une histoire, chaque étal est un fragment d'histoire.
-La culture des marchés taïwanais se transmet discrètement dans ces interactions quotidiennes et infimes, cherchant dans le mouvement une nouvelle vitalité.
+En revanche, transformer le marché en un local nettoyé et rangé ne suffit pas à lui-même à apporter la culture du marché. Les controverses autour des marchés et de la rénovation urbaine se situent souvent ici : le gouvernement voit l’efficacité des terrains, le transport et la sécurité des bâtiments ; les utilisateurs du marché voient les itinéraires des clients fidèles, les relations entre étals, la religion, le logement et la mémoire locale. [^7] [^8]
 
-## Conclusion : dans le marché, contempler l'âme de Taïwan
+Le marché Xinfu offre une autre voie. Dans les années 1990, avec l’arrivée des supermarchés, l’évolution des structures familiales et des habitudes de consommation, le marché entre dans une période de déclin ; il est classé comme monument historique municipal en 2006, rénové en 2013, puis transformé en marché culturel. L’absence de modifications préservées a conservé davantage de traces historiques, et le marché est ainsi réinterprété « délabré » comme un patrimoine culturel. [^2]
 
-Après l'effervescence du matin, le marché traditionnel retrouve peu à peu son calme dans l'après-midi — mais les traces d'eau sur le sol, les odeurs de poisson et de plats cuisinés qui persistent dans l'air murmurent encore la vitalité de cette cité.
-Ce que nous achetons au marché n'est pas seulement de la nourriture : c'est une façon de rester reliés à la terre, au voisinage, au passé.
-Dans un monde de production standardisée, ces espaces de transaction imparfaits, aléatoires et porteurs d'une chaleur humaine, sont d'autant plus précieux.
-La culture des marchés taïwanais continuera d'évoluer — dans de nouveaux bâtiments, assistée par les outils numériques — gardant intacte cette esthétique populaire la plus originelle et la plus pure.
+📝 Note du conservateur : une véritable rénovation des marchés ne consiste pas à transformer tous les marchés en carreaux blancs identiques, mais à permettre la coexistence de la sécurité, de la commodité et de l’originalité locale.
 
-## Voix locales : les échos quotidiens d'un marché
+## Les outils numériques peuvent prolonger les relations, mais ne peuvent pas les remplacer
 
-Les cris du matin sont le réveil de la ville.
-Le bruit des couteaux et des balances tisse un rythme.
-Un commerçant qui dit « C'est arrivé ce matin » — voilà comment commence la confiance.
-Un habitué qui dit « Comme d'habitude » — voilà la preuve d'une complicité.
-Ces voix font du marché le théâtre le plus chaleureux de la ville.
+La prochaine transformation des marchés ne se limite pas aux bâtiments. Depuis 2018, la ville de Taipei encourage les étals à adopter les paiements électroniques, et utilise le commerce électronique, la livraison et le marketing des marchés pour aider les étals à toucher de nouveaux clients. En août 2023, 48 marchés et 7 170 étals à Taipei ont installé des paiements électroniques. [^9]
+
+Les paiements numériques résolvent des problèmes comme la monnaie à rendre, les enregistrements de transactions et les achats à distance ; ils ne résolvent pas automatiquement la qualité des produits, la succession des étals ou la position du marché. Un téléphone portable permet aux clients fidèles de commander quand ils ne peuvent pas se déplacer au marché, mais ne peut remplacer les connaissances accumulées par les étals sur les origines des produits, ni répondre à la question « pourquoi venir ici ? ».
+
+L’exemple du marché Daoxiang montre que l’aménagement de l’environnement, la gestion de la marque et les paiements électroniques peuvent se dérouler ensemble. Les jeunes clients prennent des photos, paient et partagent via leur téléphone portable ; certains personnes âgées préfèrent toujours l’espèce. Ainsi, le marché ne passe pas d’un mode ancien à un mode nouveau en une seule étape, mais accueille différentes vitesses sur le même couloir. [^9]
+
+Cette transformation a aussi ses limites. Si la numérisation augmente simplement le coût des équipements des étals sans offrir d’assistance claire, les outils deviennent un nouveau obstacle. Les marchés numériques devraient servir les étals, et non exiger qu’un étal devienne un expert en commerce électronique.
+
+## L’avenir des marchés : conserver le choix, pas les spécimens
+
+Pour qu’un marché traditionnel continue d’exister, trois types de travail doivent être effectués simultanément. Premièrement, réparer l’infrastructure visible : structure, drainage, réfrigération, ventilation, éclairage et accessibilité. Deuxièmement, prendre soin du réseau invisible : la succession des étals, les associations de quartier, les relations avec les clients fidèles, la religion et les activités communautaires. Troisièmement, permettre au marché de s’adapter aux nouveaux rythmes de vie : prolonger certains horaires d’ouverture, proposer des plats cuits et des demi-produits, créer des systèmes de réservation et de livraison, tout en conservant l’avantage de la sélection d’ingrédients et des échanges en face à face. [^6] [^9]
+
+Ces trois objectifs ne peuvent pas être remplacés par un seul bouton de « rénovation ». Sans la participation des étals, une rénovation architecturale peut laisser un espace beau mais inutilisable ; une conservation culturelle qui refuse d’améliorer les conditions peut piéger les étals et les clients dans un nostalgie dangereuse.
+
+Ce que la culture des marchés doit vraiment conserver, ce n’est pas les taches d’eau, l’odeur de poisson ou les couloirs sombres, mais la capacité des gens à se faire confiance dans la ville, à échanger des connaissances, à partager de la nourriture et à transformer des inconnus en clients fidèles.
+
+Ainsi, la prochaine fois que vous entrerez dans un marché, ne vous demandez pas trop vite s’il ressemble à l’ancien. Ce qui vaut plus la peine d’être demandé, c’est : ici, un nouveau foyer peut-il encore trouver ce dont il a besoin au quotidien ? Un jeune peut-il reprendre un étal à sa manière ? Une ville peut-elle, après la rénovation, conserver la raison d’être de se rencontrer ?
+
+📝 Note du conservateur : le but du marché n’est pas d’être conservé comme un musée, mais de continuer d’être vécu dans chaque achat, chaque négociation et chaque salut mutuel.
+
+## Lectures complémentaires
+
+Pour mieux comprendre la tension entre les marchés et la rénovation urbaine, lire [Le marché Jianguo de Taichung : un témoignage culturel avant et après la relocalisation](https://umkt.jutfoundation.org.tw/mkt_library/2813), puis comparer avec [les jalons officiels de l’histoire du marché Nanmen](https://www.tpnanmen.org.tw/article/202). Ces deux articles complètent les détails de terrain non développés dans cet article, l’un par l’expérience utilisateur, l’autre par l’évolution du marché.
+
+## Sources des images
+
+Source des images : gouvernement de la ville de Taipei, « Étals intérieurs du premier étage du marché Nanmen », fourni par [la page de fichier de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nanmen_Market_20231007_02.jpg). L’auteur et le détenteur des droits sont le gouvernement de la ville de Taipei, sous licence des données ouvertes du gouvernement de Taipei, autorisant la reproduction, la modification et l’utilisation commerciale, à condition de citer la source ; l’image est mise en cache dans `public/article-images/lifestyle/nanmen-market-2023.webp`.
 
 ## Références
 
-1. 經典雜誌編輯部（2020）。〈尋找第二春：傳統市場的逆襲〉。《經典雜誌》。取自：https://www.rhythmsmonthly.com/?p=29361
-2. 眼底城事編輯部（2016）。〈市場即是地方─共築城市文化的來源〉。《眼底城事》。取自：https://eyesonplace.net/2016/09/09/3440/
-3. 灣兜編輯部（2020）。〈哈囉！從市場走起 認識台灣日常生活〉。《灣兜 uantau》。取自：https://utimes.today/2020/03/11/taiwan-market/
-4. 經濟部統計處（2019）。〈傳統市場營運現況調查〉。取自：https://www.moea.gov.tw/
-5. 維基百科編輯群（2021）。〈台灣傳統市場〉。《維基百科》。取自：https://zh.wikipedia.org/zh-tw/台灣傳統市場
+[^1]: [Bureau de la promotion du tourisme de la ville de Taipei : L’évolution d’un marché d’un siècle : Nanmen Market](https://www.travel.taipei/zh-tw/pictorial/article/23996) — Naissance, rénovation, déménagement et changements alimentaires de Nanmen Market.
+
+[^2]: [Fondation culturelle et artistique Zhongtai : Histoire du marché Xinfu](https://umkt.jutfoundation.org.tw/about/history) — Architecture, étals, changements d’exploitation, classement historique et réutilisation du marché Xinfu.
+
+[^3]: [The Reporter : Xu Zhentang / La prochaine étape du marché Jianguo de Taichung (2)](https://www.twreporter.org/a/photo-taichung-jian-guo-market-part2) — Vie au marché Jianguo, religion, résidents et situation avant et après la relocalisation.
+
+[^4]: [Commentaires clés : Les marchés traditionnels sont-ils sales et en désordre ? Regardez ces marchés élégants de l’époque de la domination japonaise](https://www.thenewslens.com/article/14337) — Réformes des marchés, politiques sanitaires et développement des marchés publics à l’époque de la domination japonaise.
+
+[^5]: [Marché public de Nanmen à Taipei : Jalons du marché](https://www.tpnanmen.org.tw/article/202) — Historique officiel du marché Nanmen depuis le marché de 1906, le changement de nom après la guerre, les rénovations, les marchés temporaires jusqu’aux essais dans la nouvelle salle.
+
+[^6]: [Bureau du ministère de l’Économie à Taichung : Plan de transformation et de modernisation innovante des marchés traditionnels et des marchés nocturnes](https://www.cto.moea.gov.tw/upload/project_upload/110-114%E5%B9%B4%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4%E8%88%87%E5%A4%9C%E5%B8%82%E5%89%B5%E6%96%B0%E7%BF%BB%E8%BD%89%E6%8F%90%E5%8D%87%E8%A8%88%E7%95%AB.pdf) — Échelle économique, forces et faiblesses, contexte politique et stratégies de transformation des marchés traditionnels.
+
+[^7]: [Ville à l’œil nu : Deux imaginations d’une ville : marchés traditionnels et rénovation urbaine](https://eyesonplace.net/2016/09/14/3484/) — Analyse des marchés en tant que mémoire urbaine, espace social et controverses sur la rénovation urbaine.
+
+[^8]: [Fondation culturelle et artistique Zhongtai : Compte rendu d’une conférence | À l’occasion du déménagement — Ce qui part et ce qui reste avec le marché](https://umkt.jutfoundation.org.tw/mkt_library/2813) — Logements et étals dans le marché Jianguo, distance de déménagement, espaces religieux et coordination avec le nouveau marché.
+
+[^9]: [Réseau d’information économique de Taipei : Promouvoir la transformation des marchés vers l’écosystème numérique](https://taipeiecon.taipei/Topics/more?id=1220251636731264605) — Données sur les paiements électroniques des marchés, transformation numérique, marché Daoxiang et soutien aux marchés de Taipei.

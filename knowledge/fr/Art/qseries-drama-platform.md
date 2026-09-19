@@ -2,6 +2,7 @@
 title: "Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais"
 description: 'En 2016, le patron technologique Tung Tzu-hsien a financé un projet hors du commun : confier à Wang Hsiao-ti et aux plus grands réalisateurs de Taïwan une mission anti-commerciale — ne pas tourner de blockbusters, mais former de nouveaux talents.'
 date: 2026-03-30
+category: 'Art'
 tags:
   [
     'Q Series',
@@ -10,18 +11,17 @@ tags:
     'Greg Hsu',
     'Golden Bell Awards',
   ]
-category: 'Art'
 subcategory: 'Cinéma et télévision'
 author: 'Taiwan.md'
-readingTime: 7
 featured: false
 lastVerified: 2026-03-30
-translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:37996f439df838f6'
-sourceBodyHash: 'sha256:0818e9fb5c8333f5'
-translatedAt: '2026-05-13T01:08:41Z'
 lastHumanReview: false
+readingTime: 7
+translatedFrom: 'Art/植劇場.md'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:fa35ce866d7f44e8'
+sourceBodyHash: 'sha256:449507a2e31a92cb'
+translatedAt: '2026-09-19T07:25:55.430536+00:00'
 ---
 
 # Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais
@@ -136,26 +136,30 @@ Elle reconnut publiquement ne pas avoir cherché à défier un système, mais qu
 Si la société Good Wind Creative fit face à des réorganisations après la première saison, cela ne signifiait pas la fin de l'expérience.
 Son héritage le plus durable : avoir prouvé que le public taïwanais a du goût, et qu'il attend des histoires humaines qui sortent des sentiers battus.
 
-## Zhuo Juchang : la croissance des graines plantées
+## Zhuo Theater : l'épanouissement des graines semées
 
-En 2021, l'esprit du Q Series renaît officiellement sous le nom de Zhuo Juchang (茁劇場), Wang Hsiao-ti rassemblant une nouvelle génération de réalisateurs et de scénaristes pour prolonger cette révolution de la formation.
-Cette fois, le projet élargit son regard au-delà de la découverte d'acteurs, pour s'intéresser aussi à l'adaptation de la littérature taïwanaise, cherchant à renforcer l'épaisseur textuelle du drama local.
-Les graines plantées par la première saison sont aujourd'hui de grands arbres qui donnent de l'ombre.
+En 2021, l'esprit de Q Series revit officiellement sous le nom de « Zhuo Theater », Wang Hsiao-ti réunissant une nouvelle génération de réalisateurs et scénaristes pour prolonger cette révolution des talents.
+Au-delà de la découverte d'acteurs, ils se tournent vers l'adaptation de la littérature taïwanaise, pour épaissir le texte des séries.
+Les graines de la première saison sont devenues de grands arbres dans l'audiovisuel taïwanais.
 
-Greg Hsu, Liu Kuan-ting, Sun Ko-fang, Chen Yu, Chiang Yi-jung — ces noms figurent désormais en bonne place au palmarès des Golden Horse et des Golden Bell Awards.
-Ils ne sont plus des « petits QQ » cherchant leur place, mais des acteurs accomplis, capables de porter une série et de faire bouger les indicateurs d'audience comme de prestige.
-Plus profondément, le Q Series a changé le regard de l'industrie sur le concept même de « nouveau talent » : avec un cadre systématique adapté, les débutants sont la force de renouvellement la plus puissante de tout secteur.
-Cette logique — investir dans les personnes plutôt que dans les flux — est l'une des pierres angulaires qui permet aujourd'hui au drama taïwanais de rayonner sur les plateformes internationales.
+Hsu Kuang-han, Liu Kuan-ting, Sun Ko-fang, Chen Yu, Chiang Yi-jung… ces noms sont désormais habitués des Golden Horse et Golden Bell Awards.
+Fini les « petits Q » fébriles : ce sont des pros qui portent l'audience et l'exigence artistique.
+Q Series a changé le regard de l'industrie sur les « nouveaux venus » : avec un encadrement systémique, ils deviennent la force vive du renouveau.
+Cette logique d'« investir dans l'humain, pas le trafic » fonde le rayonnement international récent des séries taïwanaises.
+
+---
+
+2024 : on cite Netflix et Disney+ pour la renaissance des séries taïwanaises.
+Mais avant leur arrivée officielle, des gens avaient semé ces graines indociles en深夜 sur TTV et PTS.
+Une victoire sans big data ni stars bankables, juste par exigence professionnelle.
+
+L'héritage n'est pas quelques bonnes séries, mais une réponse qui germe encore : les séries taïwanaises peuvent être autre chose.
 
 ---
 
-En 2024, quand on retrace l'histoire de la renaissance du drama taïwanais, on évoque souvent l'arrivée des capitaux de Netflix et Disney+.
-Mais avant que ces grandes plateformes internationales ne posent le pied à Taïwan, il y avait un groupe de personnes qui, dans des créneaux tardifs sur TTV et PTS, avaient planté ces graines indociles.
-C'était une bataille remportée sans data science prédictive, sans vedettes garantissant l'audience — uniquement par la conviction et l'exigence professionnelle envers le drama.
+**Lectures complémentaires** :
 
-Ce qu'ils ont laissé derrière eux, ce n'est pas seulement quelques bonnes séries. C'est une réponse qui continue de germer : le drama taïwanais peut être tellement plus que ça.
-
----
+- [Golden Bell Awards](/culture/金鐘獎) — 《天黑請閉眼》《花甲男孩轉大人》 deux fois prix du meilleur drame, première apparition de « Hao Feng Guang » parmi les lauréats
 
 ## Références
 

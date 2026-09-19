@@ -2,9 +2,7 @@
 title: 'Entreprises taïwanaises : le groupe Formosa Plastics'
 description: 'Le royaume pétrochimique bâti par Wang Yung-ching, le « dieu du management » à Taïwan, et la légende industrielle des quatre sociétés phares de Formosa Plastics'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Économie',
@@ -14,15 +12,17 @@ tags:
     'industries traditionnelles',
     'quatre sociétés phares de Formosa Plastics',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:542041b17da4dbbd'
-sourceBodyHash: 'sha256:81797ae5614d2f0c'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: 'e80217d19'
+sourceContentHash: 'sha256:00c7be1d98e156ab'
+sourceBodyHash: 'sha256:55c1707afcbd7a73'
+translatedAt: '2026-09-19T08:04:03.221975+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes**
@@ -156,12 +156,12 @@ L’histoire du groupe Formosa Plastics est un condensé du processus d’indust
 
 ## Références
 
-[^1]: [StoryStudio — histoire de la fondation de Formosa Plastics](https://storystudio.tw/) — Histoire de la création du groupe Formosa Plastics, incluant la structure initiale des actionnaires et le contexte des prêts de l’aide américaine ; les sources divergent sur les apports des différentes parties, et il ne s’agissait pas simplement d’un investissement privé de 500 000 nouveaux dollars taïwanais
+[^1]: [StoryStudio — L'histoire de la fondation de Formosa Plastics](https://storystudio.tw/) — Histoire de la création du groupe Formosa Plastics, comprenant la structure initiale des actionnaires et le contexte des prêts d'aide américaine ; les enregistrements des apports varient selon les sources, et il ne s'agit pas simplement d'un investissement privé de 500 000 nouveaux Taiwan dollars
 
-[^2]: [Wikipédia — Wang Yung-ching](https://zh.wikipedia.org/wiki/王永慶) — Wang Yung-ching est né le 15 janvier 1917 et décédé le 15 octobre 2008, à l’âge de 92 ans selon le décompte d’âge traditionnel
+[^2]: [Wikipédia — Wang Yong-qing](https://zh.wikipedia.org/wiki/王永慶) — Wang Yong-qing est né le 15 janvier 1917 et est décédé le 15 octobre 2008, à l'âge de 92 ans (âge compté en années chinoises)
 
-[^3]: [Commercial Times, 13 janvier 2026 — trois mois de prime de fin d’année pour les quatre sociétés phares de Formosa Plastics](https://ctee.com.tw/) — Formosa Plastics Group a versé aux employés une prime de fin d’année équivalant à trois mois de salaire de base au titre de la performance de 2025, illustrant la culture d’entreprise du groupe consistant à partager les bénéfices
+[^3]: [Commercial Times, 13 janvier 2026 — Les quatre trésors de Formosa Plastics à Noël](https://ctee.com.tw/) — Les entreprises de Formosa Plastics ont attribué des primes de fin d'année équivalentes à trois mois de salaire à leurs employés en 2025, reflétant la culture d'entreprise de partage des bénéfices du groupe
 
-[^4]: [Wikipédia — groupe Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Les quatre sociétés phares de Formosa Plastics, à savoir Formosa Plastics, Nan Ya, Formosa Chemicals & Fibre et Formosa Petrochemical, affichent ensemble le plus grand chiffre d’affaires annuel parmi les entreprises privées taïwanaises
+[^4]: [Wikipédia — Groupe Formosa Plastics](https://zh.wikipedia.org/wiki/台塑集團) — Les quatre trésors de Formosa Plastics (Formosa Plastics, Nan Ya, Formosa Chemicals, Formosa Plastics Chemical) totalisent le plus grand volume de chiffre d'affaires parmi les entreprises privées de Taïwan
 
-[^5]: [MoneyDJ — présentation de Formosa Petrochemical](https://www.moneydj.com/) — La première unité de craquage de naphta du sixième vapocraqueur de Mailiao est entrée en service en 1998, marquant l’achèvement officiel de l’intégration verticale amont, intermédiaire et aval du groupe Formosa Plastics
+[^5]: [MoneyDJ — Présentation de l'entreprise Formosa Petrochemical](https://www.moneydj.com/) — La première usine de cracking du lourd de Mailiao a été mise en service en 1998, marquant l'intégration verticale complète du groupe Formosa Plastics du haut (pétrole) vers le bas (chimie)

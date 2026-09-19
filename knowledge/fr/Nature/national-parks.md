@@ -1,174 +1,186 @@
 ---
-title: "Parcs nationaux"
-description: "36 197 kilomètres carrés abritant 9 parcs nationaux : une densité parmi les plus élevées au monde, un miracle de conservation."
+title: 'Parcs nationaux'
+description: '36 197 km² logent 9 parcs nationaux : une densité exceptionnelle, parmi les plus élevées au monde, qui fait de Taïwan un véritable miracle de la conservation.'
 date: 2026-03-17
-author: "Taiwan.md Contributors"
-category: "Nature"
-subcategory: "國家公園與步道"
-tags: ["nature", "parcs nationaux", "conservation écologique", "tourisme", "protection de l'environnement"]
-readingTime: 8
-lastVerified: 2026-03-22
-lastHumanReview: false
+category: 'Nature'
+tags:
+  [
+    'nature',
+    'parcs nationaux',
+    'conservation de la biodiversité',
+    'tourisme',
+    "protection de l'environnement",
+  ]
+subcategory: '國家公園與步道'
+author: 'Taiwan.md Contributors'
 featured: false
-translatedFrom: "Nature/國家公園.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:b67fcedd0e7a43f6"
-sourceBodyHash: "sha256:7e2f50f483b073fb"
-translatedAt: "2026-05-20T05:08:34+08:00"
+lastVerified: 2026-09-19
+lastHumanReview: false
+readingTime: 8
+translatedFrom: 'Nature/國家公園.md'
+sourceCommitSha: '426c8cbd1'
+sourceContentHash: 'sha256:8fb4efae01fb8f38'
+sourceBodyHash: 'sha256:d14d99364c1c4106'
+translatedAt: '2026-09-19T11:59:05+08:00'
 ---
 
 # Parcs nationaux
 
-> **Aperçu en 30 secondes :** Taïwan ne couvre que 36 197 kilomètres carrés, et pourtant l'île compte 9 parcs nationaux, une densité parmi les plus élevées au monde.
-> Dans ce système de conservation le plus dense, la population d'ours noirs de Taïwan a doublé en 20 ans, celle des spatules à face noire est passée de 288 à 6 988 individus, et celle du saumon masou de Formose, au bord de l'extinction avec 200 spécimens, a bondi à 16 000. Petite île, grande conservation.
+> **Aperçu en 30 secondes :** Taïwan ne couvre que 36 197 km², mais abrite 9 parcs nationaux. Cette densité est parmi les plus élevées au monde. Dans ce système de protection extrêmement serré, la population de l'ours noir de Taïwan a doublé en 20 ans, le nombre d'ibis noir dans le monde est passé de 288 à 7 746 (soit 60 % en Taïwan), et le saumon à nageoire de Taïwan est passé de 200 individus en danger à 16 000. Une petite île, une grande conservation.
 
-Une île plus petite que la Suisse peut-elle abriter 9 parcs nationaux ? En 1984, lorsque le parc national de Kenting est devenu le premier parc national officiellement créé à Taïwan (le plan ayant été annoncé dès 1982), personne n'imaginait que cela marquerait le début d'une expérience de densité sans précédent.[^1] Quarante-deux ans plus tard, Taïwan compte 9 parcs nationaux et 1 parc naturel national sur 36 197 kilomètres carrés, protégeant une superficie de 750 000 hectares — une densité qui se classe parmi les plus élevées des systèmes de parcs nationaux dans le monde.
+Comment une île plus petite que la Suisse peut-elle contenir 9 parcs nationaux ? En 1984, lorsque le parc national de Kenting devient le premier parc national officiellement établi en Taïwan (la planification ayant commencé en 1982), personne ne soupçonnait que cela marquerait le début d'une expérience de densité. 42 ans plus tard, Taïwan possède 9 parcs nationaux et 1 parc naturel national sur un territoire de 36 197 km², couvrant 750 000 hectares — une densité parmi les plus élevées au monde dans le système des parcs nationaux.
 
-Dans un pays où la densité de population atteint 640 habitants au kilomètre carré, de grands animaux sauvages et des espèces de poissons rares parviennent non seulement à survivre dans un espace aussi restreint, mais aussi à se reconstituer de façon continue. Ce système de conservation le plus dense a produit des résultats qui ont surpris la communauté internationale de la conservation.
+Dans un pays où la densité est de 640 habitants/km², il est remarquable que des espèces sauvages de grande taille et des poissons rares puissent survivre, et même se rétablir, dans un espace si limité. Ce système de protection le plus serré a livré un rapport de résultats qui a surpris la communauté internationale de la conservation.
 
-| 288 → 6 988 | 200 → 16 020 | Population doublée |
-| --- | --- | --- |
-| Spatules à face noire dans le monde (1989→2024) | Saumon masou de Formose (années 1990→2025) | Ours noir de Taïwan (en 20 ans) |
+| 288 → 7 746                                        | 200 → 16 020                                   | Multiplication de la population |
+| -------------------------------------------------- | ---------------------------------------------- | ------------------------------- |
+| Nombre total d'ibis noir dans le monde (1989→2026) | Saumon à nageoire de Taïwan (années 1990→2025) | Ours noir de Taïwan (20 ans)    |
 
-## L'expérience de densité : comment Taïwan est devenue l'île des parcs nationaux
+## Expérience de densité : comment Taïwan est devenue une île de parcs nationaux
 
-**L'expansion du réseau des parcs nationaux en 42 ans :**
+**Historique des 42 ans d’expansion des parcs nationaux :**
 
-1. **1984-1986** — Le trio fondateur : Kenting, Yushan, Yangmingshan
-2. **1987-1995** — Mer et montagne : Taroko, Shei-Pa
-3. **1995-2014** — Diversification : Kinmen (mémoire de guerre), Dongsha (exclusivement marin), Taijiang (zones humides), Îles du sud de Penghu (basalte)
-4. **2011** — Oasis urbain : Parc naturel national de Shoushan (en pleine ville de Kaohsiung)
+1. **1984-1986** — Les trois piliers initiaux : Kenting, Yushan, Yangmingshan
+2. **1986-1992** — Montagnes et mer : Taroko, Xueshan
+3. **1995-2014** — Diversification : Jinmen (patrimoine de guerre), Dongsha (principalement marin), Jiathiang (zones humides), Pénhu Nansha (volcans de lave)
+4. **2011** — Oasis urbaine : Parc naturel national de Shoushan (dans la ville de Kaohsiung)
 
-Le 20 septembre 2023, l'Agence des parcs nationaux du ministère de l'Intérieur a été officiellement créée, élevée au rang d'autorité indépendante chargée de coordonner la gestion de l'ensemble des parcs nationaux de Taïwan, remplaçant les structures de gestion auparavant dispersées.[^2]
+Le 20 septembre 2023, l’Administration des parcs nationaux du ministère de l’Intérieur a été officiellement créée, devenant un organisme autonome de niveau départemental, chargé de la gestion de tous les parcs nationaux de Taïwan, remplaçant l’ancienne structure fragmentée.[^2]
 
-Chaque étape a redéfini la notion traditionnelle de parc national. Kinmen est centré sur la mémoire de guerre, Dongsha est constitué à 99,9 % de domaine maritime, Taijiang mêle patrimoine humain et zones humides, et les Îles du sud de Penghu sont un paradis maritime inhabité.
+Chaque étape a remis en question la définition traditionnelle des parcs nationaux. Jinmen se concentre sur le patrimoine de guerre, Dongsha est composé à 99,9 % de zones maritimes, Jiathiang combine culture et zones humides, et Pénhu Nansha est un paradis insulaire sans habitants.
 
-> **📝 Note du commissaire**
-> L'évolution des parcs nationaux taïwanais est singulière : du « sauvage à protéger » (modèle américain du parc national)
-> vers une approche « patrimoine humain et naturel sur un pied d'égalité » (concept européen d'aire protégée), pour aboutir à un modèle proprement taïwanais
-> de « réseau de protection tridimensionnel terre-mer-air ».
+> **📝 Notes du conservateur**
+> Le parcours évolutif des parcs nationaux de Taïwan est particulier : il est passé de « protéger la nature sauvage » (modèle américain des parcs nationaux) à « concilier nature et culture » (concept européen des zones de protection), pour finalement développer un modèle unique de « réseau de protection tridimensionnel ».
 
-Cette densité est quasi sans précédent à l'échelle internationale : le parc national de Yellowstone aux États-Unis couvre à lui seul 8 991 kilomètres carrés, soit environ un quart de la superficie totale de Taïwan, qui doit pourtant accueillir 9 parcs nationaux.
+Cette densité est presque inédite au niveau international. Pour comparaison : le parc national de Yellowstone aux États-Unis couvre lui seul 8 991 km² — ce qui est quatre fois la superficie totale de Taïwan, qui doit contenir 9 parcs nationaux.
 
-## Les miracles de la restauration des espèces à Taïwan
+## Miracle taïwanais de la récupération des espèces
 
-### La spatule à face noire : de la quasi-extinction au sixième mondial à Taïwan
+### Ibis noir : de l’espèce en danger critique à 60 % de la population mondiale en Taïwan
 
-En 1989, la Hong Kong Bird Watch Society a réalisé le premier recensement mondial des spatules à face noire : 288 individus. Ce chiffre a choqué la communauté internationale de la conservation, révélant à quel point une espèce pouvait être proche de l'extinction.
+En 1989, la Hong Kong Bird Watching Society a effectué le premier recensement mondial de l’ibis noir : 288 individus. Ce chiffre a choqué la communauté internationale de la conservation — une espèce si proche de l’extinction.
 
-Trente-cinq ans plus tard, le recensement mondial de 2024 a montré que la population totale de spatules à face noire avait atteint 6 988 individus, tandis que la zone du parc national de Taijiang accueille chaque hiver plus de 1 000 oiseaux, devenant ainsi le principal site d'hivernage au monde.[^3]
+Lors du recensement mondial synchronisé de janvier 2026, le nombre total d’ibis noirs atteignait 7 746 individus, dont 4 719 en Taïwan, soit environ 61 % du total mondial ; la région de Tainan comptait elle-même 2 034 individus, le parc national de Jiathiang et ses marais environnants étant le principal site d’hivernage mondial.[^3][^7]
 
-Le parc national de Taijiang ne se contente pas de protéger plus de 40 000 hectares de zones humides : il travaille avec les pêcheurs et les paludiers pour faire coexister les industries traditionnelles et la conservation écologique. Cette restauration repose sur un travail d'ingénierie minutieuse : délimitation des habitats, réglementation de la pêche, coopération des communautés locales — chaque élément étant indispensable. Chaque automne et hiver, lorsque les premières spatules à face noire se posent dans les marais de Sihcao, les habitants de Tainan savent que le label de zone humide de classe internationale brille toujours.
+Le parc national de Jiathiang, qui s’étend sur près de 40 000 hectares (dont environ 4 900 hectares de terres émergées), ne se limite pas à la protection des zones humides : il collabore avec les pêcheurs et les travailleurs du sel, permettant à l’industrie traditionnelle et à la conservation de coexister. Cette réussite repose sur une ingénierie précise : délimitation des habitats, réglementation de la pêche, et coordination des communautés locales. Chaque automne et hiver, lorsque les premiers ibis noirs atterrissent dans les marais de Cicao, les habitants de Tainan savent que le sceau de l’habitat international est de nouveau allumé.
 
-### Le saumon masou de Formose : la résurrection de 200 à 16 000 individus
+### Saumon à nageoire de Taïwan : de 200 individus à 16 000 — une légende de résurrection
 
-Dans les années 1990, la population du saumon masou de Formose a chuté au plus bas, avec seulement environ 200 spécimens sauvages, au bord de l'extinction. Ce « poisson national », relique de l'ère glaciaire, ne peut survivre que dans les cours d'eau situés à plus de 1 500 mètres d'altitude, où la température de l'eau reste inférieure à 17 °C. Le changement climatique et la destruction de l'habitat ne lui laissaient aucune échappatoire.
+Dans les années 1990, la population de saumon à nageoire de Taïwan avait atteint son plus bas niveau, avec seulement environ 200 individus sauvages, au bord de l’extinction. Ce « trésor national » datant de l’ère glaciaire ne pouvait survivre que dans des rivières situées à plus de 1 500 mètres d’altitude, où la température de l’eau reste inférieure à 17 °C. Le changement climatique et la dégradation des habitats laissaient peu d’espoir.
 
-Le parc national de Shei-Pa a mis 30 ans pour porter ce chiffre à 16 000 individus.[^4]
+Le parc national de Xueshan a mis 30 ans pour porter ce chiffre à 16 000 individus.[^4]
 
-> **💡 Le saviez-vous ?**
-> En septembre 2025, l'office de gestion de Shei-Pa a utilisé pour la première fois un hélicoptéropour transporter par voie aérienne
-> plus de 1 000 alevins jusqu'au cours supérieur de la rivière Sijielan. Il s'agissait de la première « restauration par largage aérien » à Taïwan,
-> permettant aux alevins d'atteindre rapidement l'habitat le plus favorable.
+> **💡 Saviez-vous ?**
+> Le 4 septembre 2025, le bureau de gestion de Xueshan a collaboré pour la première fois avec l’compagnie aérienne EVA Air pour transporter 240 saumons d’environ 16 cm de long en hélicoptère et les relâcher en amont de la rivière Jijie Lan — un trajet qui prenait autrefois six heures à pied pourrait désormais être accompli en quelques minutes par hélicoptère.[^4]
 
-Le succès de la restauration tient à la patience plutôt qu'à la technologie. La récupération de 8,1 hectares de terres agricoles abandonnées dans la ferme de Wuling, un programme de reboisement de 20 ans dans le ruisseau Qijiawan, une stratégie de repeuplement inter-bassins — chaque étape a nécessité des années de planification. Aujourd'hui, la rivière Sijielan, le ruisseau Qijiawan et la rivière Hehuan abritent tous des populations stables, et le saumon masou de Formose ne figure plus régulièrement sur les listes des espèces menacées.
+La réussite de cette réintroduction repose sur la patience, et non sur la technologie. La ferme de Wuling a récupéré 8,1 hectares de terres agricoles abandonnées, le projet de reforestation de la rivière Qijiawan a duré 20 ans, et la stratégie de relâchement inter-cours a nécessité des années de planification. Aujourd’hui, les rivières Jijie Lan, Qijiawan et Hehuan abritent des populations stables, et le saumon à nageoire de Taïwan n’apparaît plus régulièrement sur les listes d’espèces menacées.
 
-### L'ours noir de Taïwan : de l'espèce menacée à « plus en danger d'extinction »
+### Ours noir de Taïwan : de l’espèce menacée à « plus aucun risque d’extinction »
 
-En avril 2025, l'Agence des forêts et de la conservation de la nature a déclaré publiquement pour la première fois que l'ours noir de Taïwan « n'était plus en danger d'extinction » et que sa population avait augmenté « très certainement de plus du double » en 20 ans.[^5]
+En avril 2025, l’Office de la foresterie et de la conservation de la nature a officiellement déclaré pour la première fois que la population d’ours noir de Taïwan « n’était plus en danger d’extinction », avec un nombre d’individus supérieur à un multiple absolu par rapport à 20 ans plus tôt.[^5]
 
-Derrière cette déclaration se cachent 40 ans d'efforts de conservation. Les parcs nationaux de haute altitude — Yushan, Taroko, Shei-Pa — offrent à l'ours noir de Taïwan un habitat central, et ces dernières années, son aire de répartition a commencé à s'étendre vers les basses montagnes, en dessous de 1 200 mètres d'altitude, signe que la population est désormais suffisamment stable pour s'étendre naturellement.
+Cette déclaration est le fruit de 40 ans d’efforts de conservation. Les parcs nationaux de haute altitude tels que Yushan, Taroko et Xueshan ont fourni des habitats essentiels pour les ours noirs. Récemment, la portée des ours noirs s’est étendue vers des zones plus basses, autour de 1 200 mètres d’altitude, ce qui indique que la population est suffisamment stable pour s’étendre naturellement.
 
 > **⚠️ Le prix du succès**
-> Le succès de la restauration de l'ours noir de Taïwan a aussi engendré de nouveaux défis. En 2025, un ours noir de 120 kg dans le village de Zhuoxi, dans le comté de Hualien, a attaqué du bétail et des chiens domestiques pendant plusieurs jours, avant d'être finalement abattu.
-> Les conflits entre humains et ours constitueront un enjeu majeur de la prochaine phase de travail de conservation.
+> La réussite de la conservation des ours noirs a également généré de nouveaux défis. En avril 2025, un ours de plus de 100 kg dans le village de Zhongzheng à Huadong a mangé quatre chiens en deux semaines et a plusieurs fois envahi des poulaillers, obligeant les agents de surveillance à tirer pour se protéger, l’ours a ensuite été euthanasié en raison de ses blessures graves.[^8] Les conflits entre humains et ours seront un défi majeur pour la conservation future.
 
-## Un modèle de conservation de haute densité de classe mondiale
+## Modèle taïwanais de conservation à haute densité, de niveau mondial
 
-Le succès du système de parcs nationaux taïwanais ne tient pas à la superficie, mais à la **diversité des types d'habitats et à la précision de la gestion**.
+Le succès du système des parcs nationaux de Taïwan ne réside pas dans la taille, mais dans la **diversité des types de parcs et la précision de la gestion**.
 
-Du sommet du mont Yushan à 3 952 mètres d'altitude au récif de Dongsha sous le niveau de la mer ; du volcanisme de Yangmingshan aux orgues basaltiques des Îles du sud de Penghu ; de la mémoire de guerre de Kinmen à la forêt urbaine de Shoushan. Les 9 parcs nationaux couvrent l'ensemble des principaux écosystèmes et types géologiques de Taïwan.
+Des sommets à 3 952 mètres d’altitude comme le pic de Yushan, aux récifs coralliens sous-marins de Dongsha ; des volcans géologiques de Yangmingshan, aux colonnes de lave de Pénhu Nansha ; des sites historiques de Jinmen, aux forêts urbaines de Shoushan. Les 9 parcs nationaux couvrent tous les écosystèmes et les types géologiques majeurs de Taïwan.
 
-**Il s'agit d'un réseau de protection tridimensionnel, avec une répartition claire par zone écologique :**
+**C’est un réseau de protection tridimensionnel, organisé selon les bandes écologiques :**
 
 **Trois bandes terrestres :**
-- Zone alpine : Yushan, Shei-Pa et Taroko protègent les écosystèmes de haute montagne et les grands mammifères
-- Zone volcanique : Yangmingshan préserve le massif volcanique de Datun et la végétation tempérée
-- Zone côtière : Kenting et les Îles du sud de Penghu protègent les écosystèmes coralliens
 
-**Interfaces terre-mer :**
-- Zone humide : Taijiang maintient des zones humides de classe internationale et les routes de migration des oiseaux
-- Zone insulaire : Kinmen et Dongsha assurent respectivement la conservation du patrimoine historique de guerre et de l'écosystème marin
+- **Bande montagneuse** : Yushan, Xueshan, Taroko protègent les écosystèmes de montagne et les grands mammifères
+- **Bande volcanique** : Yangmingshan veille sur le groupe des montagnes Datun et la végétation tempérée
+- **Bande côtière** : Kenting, Pénhu Nansha protègent les écosystèmes de récifs coralliens
 
-### L'expérience d'un parc national en milieu urbain
+**Zones de transition terre-mer :**
 
-En 2011, le parc naturel national de Shoushan a été créé, devenant la première aire protégée de niveau national située en zone urbaine. Dans le sud-ouest de Kaohsiung, sur 1 131 hectares de formations calcaires coralliennes, il abrite le macaque de Taïwan, espèce endémique, ainsi que la plus grande formation végétale de *Villebrunea pedunculata* de l'île.
+- **Bande des zones humides** : Jiathiang maintient des zones humides internationales et des routes migratoires d’oiseaux
+- **Bande insulaire** : Jinmen, Dongsha assument chacun la conservation du patrimoine culturel de guerre et de l’écologie marine
 
-**Cette expérience a remis en question une idée reçue : un parc national doit-il nécessairement être éloigné des villes ?** Shoushan a prouvé qu'en périphérie urbaine, une gestion stricte de la protection peut tout à fait préserver l'intégrité écologique.
+### Expérience d’un parc national en milieu urbain
 
-> **✦** « Grande conservation sur une petite île — Taïwan prouve que la densité n'est pas l'ennemie de la conservation, la précision l'est. »
+En décembre 2011, le parc naturel national de Shoushan a été créé — le premier grand site de protection national au sein d’une agglomération urbaine. Dans le coin sud-ouest de Kaohsiung, sur environ 1 123 hectares de paysages de pierre calcaire de récifs coralliens, vivent l’espèce endémique du singe de Taïwan et la plus grande population de sangliers de l’île.
 
-## Défis et controverses : les douleurs de la croissance
+**Cette expérience remet en question une idée reçue : un parc national doit-il toujours être loin des villes ?** Shoushan prouve qu’avec une gestion stricte de la protection, même en périphérie urbaine, l’intégrité écologique peut être préservée.
 
-### Pression touristique : un parc national n'est pas un parc d'attractions
+> **✦** « Grande conservation sur une petite île — Taïwan prouve que la densité n’est pas l’ennemie de la conservation, c’est la précision qui compte. »
 
-La plus grande controverse à laquelle font face les parcs nationaux taïwanais provient d'une confusion fondamentale : de nombreux citoyens assimilent « parc national » à « parc construit par l'État ».
+## Défis et controverses : les maux de la croissance
 
-L'observation de la professeure Wang Zhenling, du département de gestion foncière de l'université de Feng Chia, formulée en 2015, reste d'actualité : « La majorité de la population, voire le gouvernement lui-même, se méprend sur le sens littéral de "parc national" ».[^6] L'afflux massif de touristes à Kenting et Taroko exige l'installation de garde-corps, la pose de panneaux d'avertissement, et certains vont jusqu'à proposer de tirer des câbles électriques jusqu'au sommet du mont Yushan ou de construire des hôtels à Meche, dans le Yangmingshan.
+### Pression touristique : un parc national n’est pas un parc d’attractions
 
-**L'article premier de la Loi sur les parcs nationaux stipule clairement : protéger les paysages naturels, la faune et les sites historiques caractéristiques du pays, « et offrir des loisirs au peuple ».** Les « loisirs » constituent un objectif accessoire, limité aux zones récréatives et aux zones de contrôle général, et ne doivent pas entrer en conflit avec l'objectif de conservation.
+La plus grande controverse concernant les parcs nationaux de Taïwan provient d’un malentendu fondamental : beaucoup de gens confondent « parc national » avec « parc construit par l’État ».
 
-### Le séisme de Taroko en 2024 : le dilemme entre conservation et reconstruction
+L’observation de Wang Chen-liang, professeur au département de gestion foncière de l’Université Feng Chia, datant de 2015, reste d’actualité : « La plupart des citoyens, y compris le gouvernement, ont un malentendu sur la signification de « parc national ». »[^6] Kenting et Taroko reçoivent chaque année des vagues massives de touristes, qui exigent la construction de barrières, l’installation de panneaux d’avertissement, et certains ont même proposé d’installer un téléphérique sur le sommet de Yushan ou de construire un hôtel sur le bassin de Yangmingshan.
 
-Le 3 avril 2024, un puissant séisme a frappé Hualien (M_L 7,2 selon l'Agence météorologique centrale / M_w 7,4 selon l'USGS), et le parc national de Taroko a été l'une des zones les plus gravement touchées. De nombreux sentiers se sont effondrés, certaines routes réglementées ont été entièrement fermées, le séisme a fait des victimes et a interrompu les travaux de conservation normaux dans le parc pendant plusieurs mois.
+**L’article premier de la loi sur les parcs nationaux stipule clairement : protéger les paysages naturels, la faune et les monuments nationaux propres à Taïwan, « et offrir aux citoyens des loisirs ».** Les loisirs sont un objectif secondaire, et limités aux zones de loisirs et aux zones de réglementation générales, ne devant jamais entrer en conflit avec les objectifs de conservation.
 
-Le séisme de Taroko a soulevé une question à laquelle tout système de conservation doit faire face : dans l'environnement géologique complexe de Taïwan, comment définir la frontière entre conservation forestière et tourisme récréatif — ce n'est pas seulement un problème de gestion, mais aussi une politique de prévention des catastrophes.
+### Séisme de Taroko en 2024 : dilemme entre conservation et reconstruction
 
-### Changement climatique : la crise de survie des espèces de haute montagne
+Le 3 avril 2024, un puissant séisme a frappé Hualien (ML 7,2 selon l’Observatoire météorologique central, Mw 7,4 selon USGS), et le parc national de Taroko a été l’un des secteurs les plus touchés. Plusieurs sentiers ont effondré, certaines routes de réglementation ont été complètement bloquées, et le séisme a causé des blessés parmi le personnel, interrompant pendant plusieurs mois les activités normales de conservation du site.
 
-70 % de la superficie des parcs nationaux taïwanais se situe à plus de 1 000 mètres d'altitude, et les écosystèmes alpins sont particulièrement vulnérables aux impacts du changement climatique. Une hausse de température de 1 °C déplace la zone de répartition des plantes alpines de 150 à 200 mètres vers le haut, mais le sommet n'est pas extensible — il n'y a nulle part où reculer.
+Le séisme de Taroko a soulevé une question que tout système de conservation doit affronter : dans un environnement géologique complexe comme celui de Taïwan, comment définir les frontières entre la conservation forestière et le tourisme ? Ce n’est pas seulement une question de gestion, mais aussi de politique de prévention des catastrophes.
 
-Le succès de la restauration du saumon masou de Formose est, d'une certaine manière, une course contre la montre. Lorsque la température de l'eau d'un cours d'eau dépasse 17 °C, le poisson national ne peut plus survivre. Le changement climatique transforme le travail de restauration en une compétition entre la vitesse de la hausse des températures et celle de la conservation.
+### Changement climatique : crise de survie pour les espèces de montagne
 
-### Droits des peuples autochtones : l'équilibre entre conservation et traditions
+70 % des parcs nationaux de Taïwan se trouvent à plus de 1 000 mètres d’altitude, et les écosystèmes de montagne sont particulièrement vulnérables au changement climatique. Une élévation de 1 °C entraîne un déplacement de 150 à 200 mètres de la zone de répartition des plantes de montagne, mais le sommet de la montagne est fixe — il n’y a nulle part où aller.
 
-75 % des parcs nationaux taïwanais chevauchent les territoires traditionnels des peuples autochtones. Comment équilibrer les impératifs de conservation et les droits des peuples autochtones est une question sensible de longue date. Les Bunun du mont Yushan, les Atayal de Shei-Pa, les Truku de Taroko — ce sont les premiers gardiens de ces terres, et pourtant la réglementation de la conservation peut aujourd'hui limiter leurs modes de vie traditionnels.
+La réussite de la réintroduction du saumon à nageoire de Taïwan est en quelque sorte une course contre la montre. Lorsque la température de l’eau des rivières dépasse 17 °C, le trésor national ne peut plus survivre. Le changement climatique transforme les efforts de conservation en une compétition entre la température et la vitesse de la conservation.
 
-Ces dernières années, les offices de gestion des parcs nationaux ont commencé à coopérer avec les communautés tribales pour promouvoir un modèle de « conservation communautaire » : à Kinmen, des résidents locaux sont recrutés comme bénévoles de la conservation ; à Taijiang, les pêcheurs participent à la préservation de l'écosystème des zones humides. Ce modèle fait évoluer le travail de conservation d'un « contrôle extérieur » vers une « participation locale ».
+### Droits des Autochtones : équilibrer conservation et traditions
 
-## Les 40 prochaines années : l'ère des parcs nationaux marins ?
+Les grands parcs nationaux de montagne de Taïwan chevauchent largement les territoires traditionnels des Autochtones. Trouver un équilibre entre les besoins de conservation et les droits des Autochtones est un sujet sensible. Les Bunun de Yushan, les Atayal de Xueshan, les Truku de Taroko — eux-mêmes les premiers gardiens de cette terre — risquent aujourd’hui de voir leur mode de vie tradition limité par les lois de conservation.
 
-Si les 40 premières années ont permis à Taïwan d'établir un système de parcs nationaux d'une densité remarquable, l'enjeu des 40 prochaines années sera **la mer**.
+Ces dernières années, les bureaux de gestion des parcs nationaux ont commencé à collaborer avec les villages autochtones pour promouvoir un modèle de « conservation communautaire » : à Jinmen, des habitants locaux sont employés comme bénévoles de conservation ; à Jiathiang, les pêcheurs collaborent à la préservation des écosystèmes des zones humides. Ce modèle transforme la conservation d’un « contrôle externe » à une « participation locale ».
 
-Le parc national du récif de Dongsha est constitué à 99,5 % de domaine maritime, et la superficie marine du parc national des Îles du sud de Penghu représente également 98 % de sa superficie totale. Cette tendance reflète l'évolution de la pensée mondiale en matière de conservation : de la « priorité terrestre » vers un « équilibre terre-mer ».
+## Les 40 prochaines années : l’ère des parcs nationaux marins ?
 
-Le potentiel de conservation des eaux environnant Taïwan est considérable. Le courant de Kuroshio apporte une riche biodiversité marine, le taux de couverture corallienne dépasse 60 % dans certaines zones, et les herbiers marins fournissent une fonction de puits de carbone. Mais la complexité de la conservation marine dépasse de loin celle de la conservation terrestre : juridiction maritime, droits de pêche, réglementation internationale — chaque aspect est cent fois plus difficile que la création d'aires protégées terrestres.
+Si les 40 premières années de Taïwan ont vu l’établissement d’un système de parcs nationaux à haute densité, les 40 prochaines années se concentreront probablement sur **la mer**.
 
-> **📊 Données prospectives**
-> Selon les plans de l'Agence des parcs nationaux, l'objectif en matière d'aires marines protégées est d'atteindre
-> 10 % de la zone économique exclusive d'ici 2030, soit environ 200 000 kilomètres carrés.
-> Cela équivaut à 6 fois la superficie de l'île principale de Taïwan.
+Le parc national de Dongsha couvre 99,9 % de zones maritimes, et celui de Pénhu Nansha couvre environ 99 % de zones maritimes. Cette tendance reflète un changement de pensée dans la conservation mondiale : du « priorité au continent » au « continent et mer ».
 
-## Petite île, grande vision
+Le potentiel de conservation maritime autour de Taïwan est considérable. Les courants chauds apportent une grande biodiversité marine, les récifs coralliens couvrent plus de 60 % des zones côtières dans certaines régions, et les prairies de posidonies offrent des services de stockage de carbone. Cependant, la complexité de la conservation marine dépasse celle de la conservation terrestre : juridiction maritime, droits des pêcheurs, réglementations internationales — chacun de ces facteurs est bien plus complexe que la délimitation des zones terrestres protégées.
+
+> **📊 Situation actuelle des zones marines protégées**
+> Parmi les zones marines protégées existantes à Taïwan, les zones maritimes des quatre parcs nationaux représentent plus de 80 % ; l’objectif « 30×30 » adopté par les Nations Unies en 2022 exige que chaque pays protège au moins 30 % de ses océans d’ici 2030, et la loi sur la conservation marine adoptée en 2024 est le point de départ de Taïwan pour y parvenir.[^9]
+
+## La grande image d’une petite île
 
 Revenons à la question initiale : pourquoi une île plus petite que la Suisse a-t-elle besoin de 9 parcs nationaux ?
 
-La réponse ne tient peut-être pas à la petite taille de Taïwan, mais à sa complexité. Sur 36 197 kilomètres carrés, cette île concentre toutes les zones climatiques des tropiques à la zone froide, une histoire géologique complète de collision de plaques tectoniques, une stratification culturelle des peuples austronésiens aux Han, ainsi qu'un nœud sur les routes de migration des oiseaux.
+La réponse ne réside peut-être pas dans la petitesse de Taïwan, mais dans sa complexité. En 36 197 km², cette île contient tous les écosystèmes des tropiques aux régions polaires, une histoire géologique complète de collision de plaques tectoniques, des couches culturelles allant des langues austronésiennes aux langues chinoises, et des routes migratoires d’oiseaux.
 
-Ce qui rend le système de parcs nationaux taïwanais le plus précieux, ce n'est pas sa superficie, mais l'exhaustivité de ses types d'habitats. Il ne protège pas seulement 9 points, mais le code génétique d'une île.
+Ce qui est le plus précieux dans le système des parcs nationaux de Taïwan, ce n’est pas la taille, mais l’intégrité des types de parcs. Ce n’est pas seulement 9 points qui sont protégés, mais le code génétique de toute une île.
 
-Il y a 42 ans, lorsque le parc national de Kenting venait d'être créé, Taïwan était encore sous la loi martiale. Aujourd'hui, sur cette île à la densité de parcs nationaux parmi les plus élevées au monde, le nombre de spatules à face noire a été multiplié par 24, la population du saumon masou de Formose a été multipliée par 80, et l'ours noir de Taïwan n'est plus en danger. C'est peut-être l'une des expériences de conservation de haute densité les plus réussies au monde : dans l'espace le plus restreint, un travail de conservation minutieux peut encore créer des miracles.
+Il y a 42 ans, lorsque le parc national de Kenting venait d’être créé, Taïwan était encore sous martialité. Aujourd’hui, sur cette île où la densité des parcs nationaux est extrêmement élevée, l’ibis noir a vu son nombre mondial multiplier par 27, le saumon à nageoire de Taïwan a vu sa population multiplier par 80, et l’ours noir de Taïwan n’est plus en danger. Cela constitue l’un des exemples les plus réussis de conservation à haute densité au monde : dans un espace si restreint, une conservation rigoureuse peut toujours créer des miracles.
 
 ## Références
 
-[^1]: [Agence des parcs nationaux du ministère de l'Intérieur : Parc national de Kenting](https://ktnp.gov.tw/) — Confirmation de l'annonce du plan en 1982 et de la création officielle en 1984 du parc national de Kenting.
-[^2]: [Agence des parcs nationaux du ministère de l'Intérieur](https://www.nps.gov.tw/) — Confirmation de la création officielle de l'Agence des parcs nationaux le 20 septembre 2023.
-[^3]: [Parc national de Taijiang : Spatules à face noire](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistiques sur l'habitat des spatules à face noire à Taijiang et mesures de conservation.
-[^4]: [Population du saumon masou de Formose stable à 16 000 individus — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Confirmation des chiffres récents de la population.
-[^5]: [Agence des forêts : la population d'ours noirs de Taïwan augmente, l'espèce n'est plus en danger d'extinction — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Déclaration de l'Agence des forêts et de la conservation de la nature en avril 2025.
-[^6]: [Un parc national est-il un parc construit par l'État ou un parc de niveau national ? — Université de Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observation de la professeure Wang Zhenling en 2015 sur les méprises du public.
+[^1]: [Administration des parcs nationaux du ministère de l’Intérieur : Parc national de Kenting](https://www.ktnp.gov.tw/) — Confirme que le parc national de Kenting a été planifié en 1982 et officiellement établi en 1984.
 
-**Pour aller plus loin**
+[^2]: [Administration des parcs nationaux du ministère de l’Intérieur](https://www.nps.gov.tw/) — Confirme la création officielle de l’Administration des parcs nationaux le 20 septembre 2023.
 
-- [Présentation des parcs nationaux — Yuan exécutif](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
-- [Parc national du récif de Dongsha](https://dongsha.gov.tw/)
+[^3]: [Parc national de Jiathiang : Ibis noir](https://www.tjnp.gov.tw/cp.aspx?n=19010) — Statistiques et mesures de conservation de l’habitat de l’ibis noir à Jiathiang.
+
+[^4]: [Résistant aux ouragans et aux séismes ! Le saumon à nageoire de Taïwan maintient sa population à 16 000 individus — Liberté quotidienne](https://news.ltn.com.tw/news/life/breakingnews/5300480) — Rapport de janvier 2026 indiquant que le recensement de 2025 a compté 16 020 individus, la récupération de 8,1 hectares de terres agricoles abandonnées à Wuling, et la première opération de relâchement par hélicoptère en septembre ; les 240 individus transportés par hélicoptère sont visibles dans les actualités de [Public Television 2025-09-04](https://news.pts.org.tw/article/769065).
+
+[^5]: [Office de la foresterie et de la conservation de la nature : La population d’ours noir augmente, plus aucun risque d’extinction — Agence centrale de presse](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Déclaration de l’Office de la foresterie et de la conservation de la nature en avril 2025.
+
+[^6]: [Un parc national est-il un parc construit par l’État ou un parc national ? — Université Feng Chia](https://blogcastle.lib.fcu.edu.tw/archives/4559) — Observations de Mme Wang Chen-liang en 2015 sur les malentendus du public.
+
+[^7]: [Résultats du recensement mondial synchronisé de l’ibis noir 2026 publiés : la population atteint un nouveau record — Office de la foresterie et de la conservation de la nature](https://www.forest.gov.tw/news/0078204) — Publié le 10 avril 2026 : 7 746 individus dans le monde, 4 719 en Taïwan (environ 61 %), 2 034 à Tainan.
+
+[^8]: [Conflits entre ours, chiens et expansion de la population ? Controverse autour de l’incident de l’ours de Zhudong — WUWU](https://wuo-wuo.com/report/instantnews/2217-20250424news) — L’ours du village de Zhongzheng à Zhudong a été abattu après avoir été blessé par un agent de surveillance le 21 avril 2025 ; le fait qu’il ait mangé quatre chiens en deux semaines est mentionné dans [Reporters](https://www.twreporter.org/a/after-a-formosan-black-bear-shot-dead-in-hualien-zhuoxi-2).
+
+[^9]: [Présentation des zones marines protégées de Taïwan — Bureau de la conservation marine du Conseil des ressources maritimes](https://www.oca.gov.tw/ch/home.jsp?id=349&parentpath=0%2C295%2C348) — Les zones marines protégées actuelles « ont la plus grande proportion de surface parmi les parcs nationaux, à 81,28 % » ; la vision « 30×30 » exige « qu’au moins 30 % des terres, des eaux intérieures, des côtes et des océans soient protégés d’ici 2030 ».
+
+**Lecture complémentaire**
+
+- [Présentation des parcs nationaux — Conseil des ministres](https://www.ey.gov.tw/state/4447F4A951A1EC45/dc08391a-c57c-4cf7-af9a-cc0d9e4ebb1c)
+- [Bureau de gestion des parcs nationaux marins (Dongsha et Pénhu Nansha)](https://www.marine.gov.tw/)
