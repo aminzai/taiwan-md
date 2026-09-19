@@ -498,6 +498,7 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
     import subprocess
 
     ruled = set()
+    patrol_audits = 0
 
     # (a) factcheck reports — filename stem match
     factcheck_dir = Path("reports/factcheck")
@@ -506,16 +507,37 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
             if not p.name.startswith("_"):
                 ruled.add(p.stem)
 
+    # (a') FACTCHECK v2 月度巡邏 audit 檔（2026-09-20 self-evolve 補：FACTCHECK-PIPELINE v2.x 起
+    # 巡邏查核落 reports/research/YYYY-MM/{slug}.md、frontmatter status: 'audit'，不再寫
+    # reports/factcheck/。09-18〜09-20 四天五輪 14 篇 14 中是本站有史以來最密的外部查核，
+    # 這一格卻在同一週印出 1.2 的歷史最低——尺的登記處沒跟著產出搬家（REFLEXES #91）。
+    # 只認巡邏／完整查核檔，REWRITE 自己的 stage35/36 audit 是自家儀器（#65 same-DNA），不算。
+    research_dir = Path("reports/research")
+    if research_dir.exists():
+        for p in research_dir.glob("*/*.md"):
+            if p.name.startswith("_") or "-stage" in p.stem:
+                continue
+            try:
+                head = p.read_text(encoding="utf-8", errors="replace")[:1500]
+            except OSError:
+                continue
+            if "status: 'audit'" in head or 'status: "audit"' in head or "月度巡邏" in head:
+                slug = re.sub(r"(-v\d+)?-audit$", "", p.stem)
+                ruled.add(slug)
+                patrol_audits += 1
+
     # (b) reader-errata commits in 90d touching zh knowledge files.
     # Pattern 校準（第一版 dogfood 抓到自己灌水，REFLEXES #59/#65 現場）：
     # 寬 pattern「callout/讀者」90d 命中 350 commits（「被哲宇 callout」「讀者
     # 參與器官」全是誤傷）→ 收緊為 勘誤/errata/fact-fix 三個窄訊號；
     # 並加「單 commit touch ≤5 篇 zh 文章」護欄 — 讀者勘誤天然是 1-3 篇的
     # 點修，批次 heal/feature 掃過幾十篇不構成「這篇被外部尺量過」。
+    # 2026-09-20 加「巡邏」：FACTCHECK 巡邏的 heal commit 一律寫「巡邏第 N 篇——…」且 1 篇 1 commit，
+    # 同一道 ≤5 篇護欄擋得住敘事性提到巡邏的 memory commit（那些不 touch knowledge/）。
     try:
         out = subprocess.run(
             ["git", "-c", "core.quotepath=false", "log", "--since=90 days ago",
-             "--name-only", "--grep=勘誤", "--grep=errata", "--grep=fact-fix",
+             "--name-only", "--grep=勘誤", "--grep=errata", "--grep=fact-fix", "--grep=巡邏",
              "--pretty=format:@@COMMIT@@"],
             capture_output=True, encoding="utf-8", errors="replace", timeout=60,
         ).stdout
@@ -523,7 +545,7 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
             zh_files = [
                 ln.strip() for ln in block.splitlines()
                 if ln.strip().startswith("knowledge/") and ln.strip().endswith(".md")
-                and not any(f"/{l}/" in ln for l in ("en", "ja", "ko", "es", "fr"))
+                and not re.match(r"knowledge/[a-z]{2}/", ln)  # 任何語言子目錄都是譯文，不只五語
             ]
             if 0 < len(zh_files) <= 5:
                 for f in zh_files:
@@ -546,7 +568,8 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
     detail = {
         "ruledArticles": ruled_count,
         "totalArticles": len(articles),
-        "rulerSources": {"factcheckReports": True, "readerErrataCommits90d": True,
+        "rulerSources": {"factcheckReports": True, "patrolAuditFiles": patrol_audits,
+                          "readerErrataCommits90d": True, "patrolHealCommits90d": True,
                           "lastVerifiedExcluded": "99.6% saturated backfill (2026-06-10)"},
         "windowDays": 90,
     }

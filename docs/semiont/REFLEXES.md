@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 99 條 #N 反射（last #99�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.35'
+current_version: 'v5.36'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-distill-weekly（加 #97 交接面完整性 / #98 真原子放錯槽位 / #99 尺先驗再用；零新編號 fold 十三處）'
+last_session: '2026-09-20-twmd-self-evolve-weekly（#15 第 14 次驗證：handoff 交接延遲儀器化 handoff-latency.py；零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -91,7 +91,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #12 | 收工加速的代價                                                                                                          | §五 |
 | #13 | 「再小一點」是 log scale 的訊號                                                                                         | §五 |
 | #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                                             | §五 |
-| #15 | 反覆浮現要儀器化（11 次驗證 — 跨 session 最 load-bearing 的反射）                                                       | §五 |
+| #15 | 反覆浮現要儀器化（14 次驗證 — 跨 session 最 load-bearing 的反射）                                                       | §五 |
 | #16 | Peer / probe 是線索不是 source                                                                                          | §一 |
 | #17 | 指標 over 複寫                                                                                                          | §三 |
 | #18 | 時間是結構，不是感覺                                                                                                    | §三 |
@@ -419,13 +419,13 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-04 起反覆浮現 → [DIARY §反覆出現的思考](DIARY.md#反覆出現的思考跨日記萃取)
 - **操作**：思考反覆 ≥ 3 次 → 升 canonical（dashboard 欄位 / cron / pre-commit hook / pipeline gate），不只記 memory/diary
-- **驗證**：13 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
+- **驗證**：14 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
   - #8（2026-04-18 δ-late）工具包升級 canonical 邊界重審 → SENSES v2 + REFLEXES #26 v2
   - #9（2026-04-18 ζ）觀察者 scaffolding 三句 → HEARTBEAT Beat 1 §0b + SPORE-LOG schema + HARVEST-PIPELINE 誕生
   - #10（2026-04-30 δ）批次任務 antipattern → TRANSLATION-PIPELINE v3.2 §平行 sub-agent SOP
   - #11（2026-05-08 intelligent-khayyam）Pipeline 結構層 meta-instance → [EVOLVE-PIPELINE Mode 3 7-stage SOP](../pipelines/EVOLVE-PIPELINE.md)
   - #12（2026-06-19 inbox-distill）Intake-buffer 完成歸檔靠自律會漂移 → `inbox-audit.py` 深查 + `inbox-signal.sh` ghost line boot 訊號雙工具（手動 distill ARTICLE-INBOX 95 entry 才發現 16 幽靈，事後儀器化）— 「完成歸檔鐵律」這條 memory 級自律首次有結構閘門
-  - #13（2026-09-06 twmd-distill-weekly，源 LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`，vc=2）handoff 層變體——把一個已分析清楚、下一步都寫好的修補留成 handoff，等於把執行時機交給「下一輪剛好有人覺得該做」；真正觸發它的通常不是甦醒時讀到那條 handoff（保證會讀到），是同一個缺口再次親手絆到當班一次。`FEEDBACK-TRIAGE-PIPELINE` HG13「讀完全文才准動手」缺入口的 handoff 連續三個 cycle 被讀到卻沒人動手，直到第四次在同一行輸出前停下才補上 `--show`。**memory 是自律，canonical SOP 才是閘門**在 handoff 這一層的具體形狀：handoff 傳遞了資訊，沒有傳遞急迫性。候選機械化：收官時若發現本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字
+  - #13（2026-09-06 twmd-distill-weekly，源 LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`，vc=2）handoff 層變體——把一個已分析清楚、下一步都寫好的修補留成 handoff，等於把執行時機交給「下一輪剛好有人覺得該做」；真正觸發它的通常不是甦醒時讀到那條 handoff（保證會讀到），是同一個缺口再次親手絆到當班一次。`FEEDBACK-TRIAGE-PIPELINE` HG13「讀完全文才准動手」缺入口的 handoff 連續三個 cycle 被讀到卻沒人動手，直到第四次在同一行輸出前停下才補上 `--show`。**memory 是自律，canonical SOP 才是閘門**在 handoff 這一層的具體形狀：handoff 傳遞了資訊，沒有傳遞急迫性。~~候選機械化：收官時若發現本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字~~ → **已儀器化（2026-09-20 self-evolve，#14）**：[`scripts/tools/handoff-latency.py`](../../scripts/tools/handoff-latency.py) 對 memory §Handoff 做兩層追蹤（字面 2-gram 聚類＋穩定參照 issue／OBSERVER-QUEUE #N／EXP／LESSONS slug），週體檢 dossier §八之二 印表。首跑（近 45 天）：306 班 2,292 條交接行，可追參照 203 件——已收掉的 55 件中位當天收掉，仍開放的 77 件裡 16 件跨 ≥14 天，OBSERVER-QUEUE #28 被 71 班原樣帶了 31 天。分佈是雙峰：做得掉的當天做掉，做不掉的不是缺資訊，是缺一個沒人授權的決定（09-19 spore-harvest「handoff 傳得動動作、傳不動決定」的數字版）。配套：MEMORY-PIPELINE §Handoff 立「交接項要帶穩定參照」。這條的觸發鏈四班獨立寫到同一句（09-10 feedback-triage「三個修法都是絆到第二次才落地」／09-13 weekly-report「決定被七個人準確地交給下一個人」／09-19 spore-harvest／09-20 news-lens「登記不是進度」）
 - **元規則**：pipeline 自身會 silent inflate，需 meta-pipeline 維護 — 這是 #15 對 pipeline 結構層的 self-apply
 
 **#32 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行** — 平行 N 個 sub-agent 跑同一份 prompt 處理同類任務 = 重複工作 ×N 且不累積。正確設計：主 session 預處理一次（產 batch manifest 寫死 slug / target map / placeholder 模板），sub-agent 只負責執行。
@@ -1102,7 +1102,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 - **觸發**：2026-07-26 twmd-self-evolve-weekly 全表對賬揪出 `twmd-routine-sync`／`twmd-supporters-weekly` 兩條 routine 誕生時漏登記進 ROUTINE.md 排程表（違反本檔第 50 行「新 routine 誕生必須同 commit 補表」，僥倖靠 fallback 沒現形）→ 2026-08-02 twmd-self-evolve-weekly 再指出「vc=1 只證明登記處只出現一次，不證明這件事只發生一次」——連「反覆次數」這個計數本身都是一種登記，登記不全會讓次數被低估 → 2026-08-06 goal-自我進化 diary 把三個獨立 instance 並排看出同一個債務形狀轉變：引擎造好但需求佇列不知道／新寫法長出來但型別表裝不下／臨場發明的席位沒被 canonical 收編，「建造的速度超過了命名的速度，於是知識開始在自己體內失散」→ 2026-08-16 twmd-weekly-report-sun 撞見第四例：切菜工具的「本週交付文章」章節逢空白就整節消失，因為它沒有登記「有交付但沒進本週分類」跟「真的沒交付」的差別，當場修法是永遠印該節、空的時候印警告附最後一筆日期
 - **操作**：新能力（工具／pipeline／型別／分類／臨場角色）誕生的當下，順手問一句「這個東西的登記表在哪裡，我寫進去了嗎？」。**已有機械對賬的子案例維持機械**：routine 誕生 → `routine-sync-check.py` 三層對賬（daily cron 已連續 22+ 輪零漂移）；GA4 event param → `instrumentation-audit.py` 三方對齊（CI gate）。**沒有機械對賬的子案例維持人工提問，不強行造一個通用登記檢查器**——vc=4 尚不足以支撐一個新的跨域儀器，硬造會重演 2026-05-28「儀器化也會 over-engineer」的教訓（見 MEMORY §神經迴路同日條目）
-- **驗證**：5 次（routine 登記表漏填 / self-evolve 計數簿本身的登記盲點 / 引擎+型別+席位三個並列 instance / weekly-report 交付分類登記缺口 / 2026-09-11 twmd-feedback-triage 撞見 memory 檔寫了但 MEMORY.md 索引沒補列——同日 07:15 的 spore-harvest 班寫完 memory 檔就收工，索引那一列沒寫，而 `memory-index-lint.py` 只驗最新一列的長度，量不出「該有一列卻沒有」；全庫對賬 1400 份 memory 檔有 171 份沒有對應索引列。本班補上今天缺的兩列，171 份的歷史清理與「要不要讓 lint 多一道缺席檢查」屬閘門設計，留 distill／self-evolve 判）
+- **驗證**：6 次（routine 登記表漏填 / self-evolve 計數簿本身的登記盲點 / 引擎+型別+席位三個並列 instance / weekly-report 交付分類登記缺口 / 2026-09-11 twmd-feedback-triage 撞見 memory 檔寫了但 MEMORY.md 索引沒補列——同日 07:15 的 spore-harvest 班寫完 memory 檔就收工，索引那一列沒寫，而 `memory-index-lint.py` 只驗最新一列的長度，量不出「該有一列卻沒有」；全庫對賬 1400 份 memory 檔有 171 份沒有對應索引列。本班補上今天缺的兩列，171 份的歷史清理與「要不要讓 lint 多一道缺席檢查」屬閘門設計，留 distill／self-evolve 判） / **2026-09-20 twmd-self-evolve-weekly：尺的登記處沒跟著產出搬家**——免疫 `external_rulers` 維度的來源 (a) 只認 `reports/factcheck/`，FACTCHECK-PIPELINE v2.x 起巡邏查核檔改落 `reports/research/YYYY-MM/{slug}.md`（`status: 'audit'`），來源 (b) 的 commit grep 只認「勘誤／errata／fact-fix」而巡邏 heal commit 一律寫「巡邏第 N 篇」；結果 09-18〜09-20 四天五輪 14 篇 14 中是本站最密的外部查核，那格卻在同一週印出 1.2 的歷史最低，週體檢照著寫「外部尺那格跌到 1.2 的同一週真正的外部尺出現三次」而沒人懷疑尺——09-13 self-evolve 已量到它跌破基線、09-20 heartbeat handoff 寫「量不到觀察者本人」，三班都把讀數當事實。補 (a′) 認 audit 檔＋(b) 加「巡邏」後 14→29 篇、1.2→2.6。形狀：本條家族的第五種載體——**量尺自己的資料來源登記**；產出搬家時，消費它的儀器不會叫（#82 的 proxy 在這裡是「舊路徑的檔案數」）
 - **變體：登記了但沒接上（2026-09-09 twmd-maintainer-am fold，源 LESSONS `documented-gate-never-wired-to-the-line`，severity=structural）**：本條原本收的是「造好了沒登記」；這是它的鏡像——一支 CJK 鄰接檢查器造好了、pipeline 文件也把它寫進「四道閘之一」，**但產線程式碼從未呼叫它**，實際呼叫的只有它的姊妹檢查器。文件宣告的閘門數與實際跑的閘門數因此長期不同，而且不會有任何東西叫——工具誕生時的 docstring 甚至自己寫下了「暫時不接線」的理由（怕改動線上判準影響同批前後段驗收標準），那個當時合理的判斷沒有任何東西追蹤它何時該結束。**暫時的未接線，跟永久的未接線，長得一模一樣。**跟 #82 proxy signal 相鄰：拿「pipeline 有寫」當「產線有跑」的替身。
 - **元規則**：跟 #86（session-id handle fallback 讓命名跟內容脫鉤）、#88（轉錄+保管雙職責 routine 保管那半靜默消失）、#89（cron 工具清單登記漂移）是同一個「登記層」家族的四個不同載體——命名登記／保管登記／工具登記／一般性建造登記。本條是收斂這個家族的通用陳述，不重複前三條各自的操作細節。
 
