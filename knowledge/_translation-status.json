@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T07:17:52+08:00",
-    "zhCommitHead": "573482545",
+    "lastUpdated": "2026-09-20T07:32:47+08:00",
+    "zhCommitHead": "f82d92385",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 104,
         "metadata_stale": 28,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "ko": {
@@ -44,72 +44,72 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1033,
+        "fresh": 1034,
         "stale": 65,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1038,
-        "stale": 57,
+        "fresh": 1039,
+        "stale": 56,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 985,
-        "stale": 60,
+        "fresh": 987,
+        "stale": 58,
         "metadata_stale": 62,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 943,
+        "fresh": 944,
         "stale": 61,
         "metadata_stale": 9,
-        "missing": 111,
+        "missing": 110,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 79,
+        "fresh": 989,
+        "stale": 78,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 948,
-        "stale": 56,
+        "fresh": 949,
+        "stale": 55,
         "metadata_stale": 11,
         "missing": 109,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 979,
-        "stale": 60,
-        "metadata_stale": 14,
+        "fresh": 981,
+        "stale": 59,
+        "metadata_stale": 13,
         "missing": 71,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1016,
-        "stale": 44,
+        "fresh": 1017,
+        "stale": 43,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 817,
-        "stale": 14,
+        "fresh": 818,
+        "stale": 13,
         "metadata_stale": 4,
         "missing": 289,
         "orphan": 0
@@ -6982,8 +6982,8 @@
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "f82d9238",
+          "translationLastModified": "2026-09-20T07:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -7090,30 +7090,30 @@
         "ru": {
           "path": "ru/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:9913b1fbaa8895dd",
-          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
-          "translatedAt": "2026-07-26T12:49:20+08:00",
+          "sourceCommitSha": "2e88c5e31",
+          "sourceContentHash": "sha256:df07b8f5f0dd46a8",
+          "sourceBodyHash": "sha256:2f404ef3aa8b254f",
+          "translatedAt": "2026-09-20T00:52:48+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (9→7)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:9913b1fbaa8895dd",
-          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
-          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "sourceCommitSha": "2e88c5e31",
+          "sourceContentHash": "sha256:df07b8f5f0dd46a8",
+          "sourceBodyHash": "sha256:2f404ef3aa8b254f",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
           "translationLastCommit": "3042415f",
           "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (9→7)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -25244,18 +25244,16 @@
         "pt": {
           "path": "pt/Technology/taiwan-television-industry-history.md",
           "translatedFrom": "Technology/台灣電視產業史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f8c3d1432bd47fe6",
-          "sourceBodyHash": "sha256:48b4e5475f2d12a8",
-          "translatedAt": "2026-07-25T17:25:36+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:cb8e72badaad3e3c",
+          "sourceBodyHash": "sha256:2f45cbda208db1c2",
+          "translatedAt": "2026-09-19T23:22:57.487584+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/taiwan-television-industry-history.md",
@@ -27662,18 +27660,16 @@
         "es": {
           "path": "es/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-06T02:20:21+08:00",
+          "translatedAt": "2026-09-20T00:52:38+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/yam-yam-taiwan-portal.md",
@@ -39737,18 +39733,16 @@
         "hi": {
           "path": "hi/resources/official-websites.md",
           "translatedFrom": "resources/official-websites.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0d481ed818da82f8",
-          "sourceBodyHash": "sha256:6713c8a6c615e62a",
-          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "sourceCommitSha": "228056aba",
+          "sourceContentHash": "sha256:029227bd7721737f",
+          "sourceBodyHash": "sha256:0c3be7e5f653ab89",
+          "translatedAt": "2026-09-20T00:52:45+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/resources/official-websites.md",
@@ -41799,16 +41793,16 @@
         "fr": {
           "path": "fr/Lifestyle/nightlife-and-ktv-culture.md",
           "translatedFrom": "Lifestyle/夜生活與KTV文化.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:3a356e2fbd9898dc",
-          "sourceBodyHash": "sha256:5171611c1ca72679",
-          "translatedAt": "2026-05-15T15:39:40+08:00",
+          "sourceCommitSha": "228056aba",
+          "sourceContentHash": "sha256:b34cbc0681b4b3a1",
+          "sourceBodyHash": "sha256:4439d8751309731f",
+          "translatedAt": "2026-09-20T00:52:39+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/nightlife-and-ktv-culture.md",
@@ -60874,18 +60868,16 @@
         "vi": {
           "path": "vi/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3ce4a541b6ce34e3",
-          "sourceBodyHash": "sha256:cd63c30ef144f27a",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:c40e9256e5031f97",
+          "sourceBodyHash": "sha256:b933f7d83c83a92f",
+          "translatedAt": "2026-09-19T23:21:34.548657+00:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/the-buffet-aunties-intuitive-pricing.md",
@@ -64675,18 +64667,16 @@
         "ar": {
           "path": "ar/Society/human-rights-and-gender-equality.md",
           "translatedFrom": "Society/人權與性別平等.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:22a18952ed1d65bb",
-          "sourceBodyHash": "sha256:8495c26241a6b1ab",
-          "translatedAt": "2026-07-26T12:49:19+08:00",
+          "sourceCommitSha": "426c8cbd1",
+          "sourceContentHash": "sha256:154996399630e9d4",
+          "sourceBodyHash": "sha256:2e750ef70b22356f",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "7e937944",
           "translationLastModified": "2026-07-26T13:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/human-rights-and-gender-equality.md",
@@ -66393,18 +66383,16 @@
         "ar": {
           "path": "ar/Society/taiwan-slash-generation-multi-job-economy.md",
           "translatedFrom": "Society/台灣斜槓世代.md",
-          "sourceCommitSha": "2b1654faa",
-          "sourceContentHash": "sha256:06d77e5b551a9ae1",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:627811afe042fd80",
           "sourceBodyHash": "sha256:1cd85dacd9f6f3a7",
-          "translatedAt": "2026-07-26T17:46:02+08:00",
+          "translatedAt": "2026-09-20T00:52:47+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -71288,18 +71276,16 @@
         "vi": {
           "path": "vi/Nature/orchid-island-ecosystem.md",
           "translatedFrom": "Nature/蘭嶼生態系.md",
-          "sourceCommitSha": "82e98bfd4",
-          "sourceContentHash": "sha256:74332f1aa587ae82",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-25T05:43:36.415062+00:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:c5b9ea1f1f0ebfd3",
+          "sourceBodyHash": "sha256:31718e0ce0828285",
+          "translatedAt": "2026-09-19T23:28:16.067430+00:00",
           "translationLastCommit": "2cc7a67d",
           "translationLastModified": "2026-08-09T10:46:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/orchid-island-ecosystem.md",
@@ -94259,7 +94245,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-09-20T00:52:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tu-pan-fangke.md",
@@ -108204,8 +108201,8 @@
           "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
           "sourceBodyHash": "sha256:396a9fed148c94a2",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "f82d9238",
+          "translationLastModified": "2026-09-20T07:17:52+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -154510,7 +154507,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/typhoon-morakot.md",
+          "translatedFrom": "History/莫拉克風災.md",
+          "sourceCommitSha": "67688b3a5",
+          "sourceContentHash": "sha256:a825535e058db34c",
+          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/typhoon-morakot.md",
