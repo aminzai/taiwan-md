@@ -18,10 +18,10 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:37996f439df838f6'
-sourceBodyHash: 'sha256:0818e9fb5c8333f5'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:fa35ce866d7f44e8'
+sourceBodyHash: 'sha256:449507a2e31a92cb'
+translatedAt: '2026-09-19T07:29:00.973531+00:00'
 ---
 
 # Zhi Theater: Bagaimana Seseorang yang Membuat Laptop Menanam Benih Kebangkitan Drama Taiwan
@@ -136,26 +136,30 @@ Dalam tanggapan publik, ia mengakui, bukan sengaja menantang sistem besar apa pu
 Meskipun setelah musim pertama berakhir, Good Wind Creative Executive Company mengalami penyesuaian organisasi, ini bukan berarti akhir dari eksperimen.
 Aset terbesar yang ditinggalkan oleh eksperimen ini adalah memberi tahu generasi berikutnya: penonton Taiwan memiliki selera, mereka menunggu cerita manusia yang tidak biasa.
 
-## Zhuo Theater: Pertumbuhan Setelah Benih Mendarat
+## Teater Zhi: Benih yang Tumbuh Subur Setelah Mendarat
 
-Pada tahun 2021, semangat Zhi Theater secara resmi dimulai kembali dengan nama "Zhuo Theater", Wang Xiao-di kembali mengumpulkan sutradara dan penulis naskah generasi baru, mencoba melanjutkan revolusi talenta ini.
-Kali ini, mereka tidak hanya fokus pada penemuan aktor, tetapi juga mengarahkan pandangan pada adaptasi sastra lokal Taiwan, mencoba memperkuat ketebalan teks drama Taiwan.
-Benih-benih yang ditanam di musim pertama, kini telah tumbuh menjadi pohon besar yang memberi naungan di industri film dan televisi Taiwan.
+Pada 2021, semangat Teater Zhi (植劇場) secara resmi dimulai kembali dengan nama "Teater Zhi" (茁劇場), Wang Hsiao-ti kembali mengumpulkan generasi baru sutradara dan penulis skenario, berusaha melanjutkan revolusi bakat ini.
+Kali ini, mereka tidak hanya fokus pada penggalian bakat aktor, melainkan juga mengarahkan pandangan ke adaptasi sastra lokal Taiwan, berusaha memperkuat kedalaman naskah drama Taiwan.
+Segumpal benih yang ditanam pada musim pertama, kini telah tumbuh menjadi pohon-pohon rindang di industri film dan televisi Taiwan.
 
-Nama-nama seperti Hsu Kuang-han, Kuan-ting Liu, Ke-fang Sun, Yu Chen, dan Yi-jung Chiang, kini adalah常客 (pengunjung tetap) di daftar nominasi Golden Horse dan Golden Bell Award.
-Mereka bukan lagi "Xiao Q" yang gemetar, melainkan aktor profesional yang dapat berdiri sendiri, membawa rating dan indikator seni.
-Yang lebih penting, Zhi Theater mengubah pandangan industri film dan televisi Taiwan terhadap "talenta baru": selama ada dukungan sistematis, talenta baru adalah kekuatan terkuat untuk menghidupkan industri.
-Logika "berinvestasi pada orang, bukan pada流量 (traffic)" ini, telah menjadi batu fondasi penting bagi drama Taiwan yang bersinar di platform internasional dalam beberapa tahun terakhir.
+Nama-nama seperti Hsu Kuang-han, Liu Kuan-ting, Sun Ke-fang, Chen Yu, Chiang Yi-jung, kini telah menjadi tamu tetap di daftar nominasi Golden Horse dan Golden Bell.
+Mereka tidak lagi adalah 「小Q」 yang gemetar, melainkan aktor profesional yang mampu berdiri sendiri, mendorong rating dan menjadi tolok ukur artistik.
+Lebih penting lagi, Teater Zhi mengubah pandangan industri film dan televisi Taiwan terhadap "pemula": selama ada sistem pendukung yang sistematis, pemula adalah kekuatan terkuat untuk revitalisasi industri.
+Logika "berinvestasi pada manusia, bukan pada trafik" ini, telah menjadi fondasi penting drama Taiwan bersinar di platform internasional belakangan ini.
+
+---
+
+Pada 2024, meninjau sejarah kebangkitan drama Taiwan, orang sering menyebut masuknya dana Netflix dan Disney+.
+Namun, sebelum platform-platform internasional besar secara resmi mendarat di Taiwan, sudah ada sekelompok orang yang menanam benih-benih liar ini di slot malam TTV dan PTS.
+Itu adalah pertarungan keras yang dimenangkan murni dengan keteguhan profesional terhadap drama, tanpa prediksi big data, tanpa endorse bintang trafik.
+
+Yang ditinggalkan bukan hanya beberapa drama bagus, melainkan sebuah jawaban yang hingga kini terus berkecambah: ternyata drama Taiwan bisa tidak hanya seperti itu.
 
 ---
 
-Pada tahun 2024, meninjau sejarah kebangkitan drama Taiwan, orang sering menyebutkan masuknya dana Netflix dan Disney+.
-Namun, sebelum platform besar internasional resmi mendarat di Taiwan, ada sekelompok orang yang terlebih dahulu menanam benih yang tidak tenang ini di slot tengah malam Taiwan Television dan PTS.
-Ini adalah pertempuran keras yang dimenangkan murni dengan ketekunan profesional terhadap drama, tanpa prediksi big data, tanpa dukungan bintang流量 (traffic).
+**Bacaan Lanjutan**:
 
-Yang ditinggalkannya bukan hanya beberapa drama bagus, melainkan jawaban yang terus berkecambah hingga kini: ternyata drama Taiwan bisa tidak hanya seperti ini.
-
----
+- [Golden Bell](/culture/金鐘獎) — 《天黑請閉眼》《花甲男孩轉大人》 dua kali berturut-turut memenangkan Penghargaan Program Drama, nama 「好風光」 pertama kali muncul di kolom unit pemenang
 
 ## Referensi
 

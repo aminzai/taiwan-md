@@ -1,173 +1,156 @@
 ---
-title: 'Budaya Pasar Taiwan dan Pasar Tradisional'
-description: 'Melihat ketahanan dan transformasi masyarakat Taiwan melalui cermin kecil kehidupan rakyat biasa'
-date: 2026-03-18
+title: 'Budaya Pasar Taiwan: Sebuah Pasar Tidak Hanya Menjual Sayuran, tetapi Juga Menyimpan Memori Kota'
+description: 'Memahami bagaimana pasar tradisional di Taiwan secara bersamaan menampung pasokan makanan, ekonomi rakyat, hubungan komunitas, dan memori kota—mulai dari pasar publik era kolonial Jepang, migrasi pasca-perang, hingga pembayaran elektronik di Taipei—sambil mencari posisi berikutnya di antara keamanan, kenyamanan, dan sentuhan manusiawi.'
+date: 2026-09-13
 category: 'Lifestyle'
 tags:
   [
     'Pasar Tradisional',
     'Budaya Rakyat',
-    'Fungsi Sosial',
-    'Perencanaan Kota',
-    'Ekonomi Komunitas',
+    'Memori Kota',
+    'Transformasi Pasar',
+    'Kehidupan Komunitas',
   ]
 subcategory: '飲食生活'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-13
 lastHumanReview: false
+curation: 'incubating'
+image: '/article-images/lifestyle/nanmen-market-2023.webp'
+readingTime: 8
+rationale: "{'why_this_hook': '從南門、新富與建國三座市場切入，追蹤市場如何由衛生制度、人口移動與住商混合長成城市基礎設施；核心不是歌頌老市場，而是說明它為何值得在更新中保留選擇。', 'whats_excluded': '不把傳統市場寫成單純懷舊，也不把所有市場改建或數位化都視為成功；不沿用原稿未能對應文章頁的統計與泛稱案例。', 'where_it_hedges': '市場數量與營業額採經濟部計畫的特定統計口徑；歷史沿革分別依官方市場、文化機構與編輯媒體文章核對，不把單一市場經驗推論為全台市場。', 'whos_pushing_back': '文章同時呈現市場的衛生與安全問題、超市與網路通路的便利，以及都市更新對攤商、住戶、信仰與地方記憶造成的落差。'}"
 translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0334fef76cff5db1'
-sourceBodyHash: 'sha256:1f68acc56a66c3d5'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '5c8070d07'
+sourceContentHash: 'sha256:e0d72befdb935fe7'
+sourceBodyHash: 'sha256:35b8626f07740119'
+translatedAt: '2026-09-19T11:59:07+08:00'
 ---
 
-# Budaya Pasar Taiwan dan Pasar Tradisional
+> **Ringkasan 30 Detik:** Pasar tradisional Taiwan bukanlah bayangan kota modern, melainkan infrastruktur perkotaan yang dibentuk bersama oleh kesehatan publik, migrasi penduduk, ekonomi rakyat, dan hubungan sehari-hari. Pasar Nanmen, Xinfu, dan Jianshui menunjukkan bahwa pasar dapat direnovasi, dipindahkan, dan didigitalisasi, tetapi yang benar-benar perlu dilestarikan bukanlah bangunan tua yang remang-remang, melainkan jaringan kehidupan tempat orang menemukan makanan, pengetahuan, dan kepercayaan satu sama lain.
 
-Pukul setengah enam pagi, para pedagang di Pasar Dongmen sudah mulai menata buah dan sayuran untuk hari ini.
-Para nenek mendorong gerobak belanja sayur berjalan perlahan, berhenti di depan stan yang sudah mereka kenal, tanpa perlu mengucapkan sepatah kata pun, sang pemilik stan sudah tahu apa yang ingin dibelinya.
-Ini bukan sekadar transaksi, melainkan percakapan kekeluargaan yang telah berlangsung selama puluhan tahun.
-Di Taiwan, pasar tradisional bukan hanya tempat untuk membeli dan menjual barang; ia adalah cermin kecil kehidupan rakyat biasa, wadah bagi emosi komunitas, dan saksi bagi memori kota.
+# Budaya Pasar Taiwan: Sebuah Pasar Tidak Hanya Menjual Sayuran, tetapi Juga Menyimpan Memori Kota
 
-## Akumulasi Sejarah: Dari Pemukiman Pedagang Keliling ke Pasar yang Terlembaga
+Pada tahun 1909, penduduk di luar Gerbang Selatan Taipei mulai berkumpul untuk berbelanja karena terlalu jauh dari Dàdào Chéng dan Měngjiǎ. Pada tahun 1935, Pasar Xinfu di Wanhua dibuka dengan lebih dari 30 kios; pada tahun 1972, Pasar Jianshui di Taichung menumpuk pasar, tempat tinggal, dan tempat ibadah dalam satu bangunan. [^1] [^2] [^3]
 
-Asal-usul pasar tradisional Taiwan dapat ditelusuri kembali ke pasar jalanan dan pasar di area kuil pada masa Dinasti Qing.
-Pada masa itu, para pedagang berkumpul di sepanjang jalan utama atau di sekitar kuil, membentuk ruang transaksi yang alami.
-Pasar-pasar awal ini memuat logika pertukaran masyarakat agraris—para petani membawa buah dan sayuran hasil tanamannya sendiri, pengrajin membawa alat yang mereka buat, bertemu pada waktu dan tempat yang tetap, melakukan pertukaran barang dan emosi secara bersamaan.
+Tiga tahun ini menunjukkan sesuatu yang kontra-intuitif: pasar tradisional bukanlah sisa dari kota modern. Ia pada dasarnya adalah infrastruktur perkotaan yang dibentuk bersama oleh perencanaan kota, kesehatan publik, migrasi penduduk, dan kehidupan keluarga.
 
-Pada masa pendudukan Jepang, Pemerintah Jenderal Taiwan mulai memasukkan pemukiman pedagang keliling yang tersebar di berbagai tempat ke dalam sistem perencanaan kota demi "perbaikan sanitasi" dan "manajemen modernisasi".
-Setelah 1895, pemerintah Jepang secara bertahap membangun sistem pasar modern, menetapkan lahan pasar yang tetap, membuat regulasi stan, dan membangun mekanisme manajemen.
-Proses ini meskipun membawa perbaikan pada ketertiban dan sanitasi, juga menandai titik balik penting di mana pasar tradisional beralih dari agregasi alami menuju manajemen yang terlembaga.
+![Kios di lantai satu Pasar Nanmen, bangunan pasar dan pedagang mencatat perubahan kota. Sumber gambar: Pemerintah Kota Taipei, Wikimedia Commons; Data Terbuka Pemerintah Kota Taipei](/article-images/lifestyle/nanmen-market-2023.webp)
 
-Pasca-perang, Pemerintah Nasionalis melanjutkan dan mengembangkan sistem pasar ini.
-Mulai tahun 1950-an, pemerintah membangun banyak pasar milik publik berdasarkan pertimbangan "perbaikan sanitasi", "stabilitas harga", dan "peningkatan pendapatan fiskal daerah".
-Menurut statistik Kementerian Urusan Ekonomi tahun 2019, seluruh Taiwan memiliki 834 pasar tradisional milik publik dan warga. Pasar-pasar ini tidak hanya menyelesaikan masalah pedagang yang berdiri berjejer di perkotaan, yang lebih penting lagi adalah menyediakan fungsi bantuan sosial—melalui cara penyewaan pemerintah, memungkinkan orang dengan kondisi hidup yang sulit untuk memulai usaha dan mencapai kemandirian dengan ambang batas yang relatif rendah.
+📝 Catatan Kurator: Yang paling layak dilestarikan dari sebuah pasar bukanlah kata sifat "tua", melainkan bagaimana ia membuat sebuah kota digunakan dan diingat oleh orang-orang.
 
-## Fungsi Sosial: Ruang yang Lebih Kaya dari Transaksi Komersial Saja
+## Dari Berkumpul di Pinggir Jalan Menjadi Pasar Publik
 
-Masuk ke pasar tradisional mana pun di Taiwan, Anda akan menemukan bahwa fungsi sosial di sini jauh lebih kaya daripada transaksi komersial yang tampak di permukaan.
-Pasar adalah pusat pertukaran informasi; para ibu berdiskusi di depan stan sayur tentang哪家 sayur lebih segar, di mana ada barang diskon, sambil juga bertukar gosip tetangga dan kabar keluarga.
-Interaksi yang tampaknya sekadar ngobrol ini sebenarnya membangun jaringan sosial komunitas.
+Selama periode kolonial, transaksi dapat terjadi di halaman kuil, jalanan, atau pinggiran permukiman. Jenis pasar ini beroperasi mengikuti rute yang akrab dan kebiasaan lokal; ia belum tentu memiliki bangunan tetap, dan tidak selalu dikelola oleh satu institusi tunggal. Pada awal masa pemerintahan Jepang, gubernur masih menggunakan beberapa kebiasaan lama. Setelah wabah pes pada tahun 1896, sanitasi pasar mulai menjadi masalah tata kelola, dan reformasi pasar secara bertahap didorong sejak tahun 1904. [^4]
 
-Bagi banyak lansia, pasar adalah ruang sosial yang sangat penting.
-Mereka tidak terburu-buru menyelesaikan belanja, melainkan menikmati proses interaksi dengan pedagang dan pelanggan lain.
-Irama "kehidupan lambat" ini membentuk kontras yang tajam dengan efisiensi tinggi supermarket modern.
-Kehangatan manusia di pasar tercermin dari pedagang yang mengingat selera pelanggan tetap, memberikan lebih banyak sayuran pada hari badai, dan bersedia memberikan kredit ketika pelanggan sedang kesulitan keuangan.
-Interaksi-interaksi kecil ini terakumulasi menjadi modal sosial yang sulit diukur namun sangat berharga dalam komunitas.
+Reformasi bukan hanya memindahkan kios ke dalam ruangan. Ia juga memperkenalkan aturan pasar, manajemen kios, biaya kesehatan publik, dan spesialisasi profesional. Pada periode Taishō, tujuan pasar meluas dari sekadar meningkatkan sanitasi menjadi menjadikan pasar sebagai mekanisme ekonomi yang efisien. [^4]
 
-Pasar juga merupakan tempat penting untuk pewarisan budaya.
-Di sini, pedagang lansia mengajarkan kepada kaum muda cara memilih bahan makanan, cara mengolah buah dan sayuran musim yang berbeda.
-Ibu membawa anak-anak berkeliling pasar, bukan hanya untuk menyelesaikan tugas rumah, tetapi juga untuk mengajarkan kearifan hidup.
-Anak-anak dalam proses ini belajar membedakan kualitas bahan makanan, memahami hubungan antara musim dan makanan, serta merasakan interaksi hangat antarmanusia.
+Pasar Xinfu adalah objek konkret dari sistem ini. Pasar ini selesai dibangun pada tahun 1935, selain kios daging, ikan segar, sayuran, dan barang dagangan, ia juga dilengkapi dengan kantor, asrama, tempat parkir, tempat sampah, dan toilet umum. Tata letak berbentuk tapal kuda pasar dan atrium pusat menyatukan ventilasi, pencahayaan, dan alur belanja dalam desainnya. [^2]
 
-## Ekosistem Ekonomi: Alam Semesta Mikro Ekonomi Rakyat Biasa
+Pengaturan ini menunjukkan bahwa pasar tidak pernah hanya sekumpulan kios. Ia adalah teknologi perkotaan yang menempatkan makanan, sanitasi, transportasi, manajemen, dan kehidupan lingkungan di ruang yang sama.
 
-Dari sudut pandang ekonomi, pasar tradisional menampilkan ekosistem ekonomi mikro yang relatif lengkap.
-Di sini terdapat hubungan penawaran dan permintaan yang paling langsung—buah dan sayuran musiman yang melimpah harganya murah, barang langka harganya naik.
-Pedagang stan perlu memiliki kepekaan terhadap pergerakan pasar, menyesuaikan strategi pembelian, dan intuisi terhadap pasar ini sering kali lebih akurat daripada model ekonomi yang rumit.
+📝 Catatan Kurator: Arsitektur sebuah pasar sering kali mengatakan dengan lebih jujur tentang apa yang dipercaya orang pada masa itu sebagai "kehidupan yang baik" daripada slogan kota.
 
-Persaingan di pasar bersifat lembut dan manusiawi.
-Meskipun stan dengan barang sejenis mungkin bersebelahan, antarpedagang sering kali membentuk kesepakatan dan hubungan kerja sama tertentu.
-Mereka saling menjaga stan, berbagi informasi pasar, bahkan saling mendukung saat bisnis sepi.
-Model bisnis "kompetisi dengan kerjasama" ini mencerminkan karakteristik budaya "koeksistensi harmonis" dalam masyarakat Taiwan.
+## Pasar Nanmen: Bagaimana Migrasi Mengubah Meja Makan
 
-Bagi banyak usaha kecil dan menengah serta ekonomi keluarga, pasar menyediakan platform kewirausahaan yang penting.
-Dibandingkan dengan membuka toko, biaya menyewa stan di pasar relatif lebih rendah dan lebih mudah membangun basis pelanggan tetap.
-Banyak merek makanan yang sukses memulai dari stan pasar.
-Karakteristik "kewirausahaan berambang rendah" ini menjadikan pasar sebagai saluran penting bagi mobilitas sosial.
+Sejarah Pasar Nanmen seperti sejarah populasi Taipei yang menyusut. Pasar luar Gerbang Selatan, didirikan pada tahun 1909, awalnya melayani penduduk baru yang semakin banyak di luar gerbang selatan, sekaligus memasok kebutuhan sehari-hari bagi pejabat Jepang dan warga Taiwan; pada tahun 1922, Taipei melakukan reformasi nama jalan, area ini dinamai Qianse Town, dan pasar pun berganti nama menjadi Pasar Qianse Town. Setelah perang, pasar diganti namanya menjadi Pasar Nanmen, dan setelah tahun 1949, penduduk yang datang bersama pemerintah ke Taiwan membawa memori kuliner ke berbagai tempat, sehingga pasar ini memiliki ciri khas pertemuan barang utara dan selatan, makanan jadi, dan masakan luar provinsi. [^1] [^5]
 
-## Memori Ruang: Fosil Hidup Budaya Kota
+"Barang Utara dan Selatan" di sini bukanlah cita rasa lokal yang abstrak, melainkan bahan kering, hasil laut, kue-kue, dan saus yang dapat digenggam. Pasar mengubah memori migrasi menjadi makanan yang dapat dibeli, dimasak, dan disajikan di meja makan rumah.
 
-Setiap pasar tradisional memuat memori kota tertentu dan ciri khas lokal.
-Pasar Nanan di Taipei terkenal dengan masakan kelompok etnis minoritas (Wai Sheng), mencerminkan budaya kuliner para imigran dari kelompok etnis minoritas pasca-1949;
-Pasar Sayur Timur (Dongcaishi) di Tainan menyimpan banyak小吃 (makanan ringan) tradisional, menyaksikan tradisi kuliner kota kuno.
-Pasar-pasar ini bukan hanya ruang komersial, melainkan juga bagian penting dari lanskap budaya.
+Pada tahun 1969, Pasar Nanmen sementara dipindahkan ke Jalan Nanhai untuk pembangunan kota. Pada tahun 1981, pedagang kembali ke pasar baru. Lantai satu dan ruang bawah tanah mempertahankan fungsi pasar, sedangkan lantai dua menambahkan ruang department store dan makanan. Renovasi ini menunjukkan bahwa pasar tidak hanya memiliki pilihan "melestarikan" atau "menghilang"; ia juga dapat menyesuaikan perannya di kota melalui penataan ulang. [^5]
 
-Bentuk arsitektur pasar juga mencerminkan pemikiran perencanaan kota pada periode yang berbeda.
-Pasar-pasar awal banyak menggunakan desain terbuka, menekankan ventilasi dan pencahayaan;
-Pasar yang dibangun kemudian lebih menekankan fasilitas modern dan efisiensi manajemen.
-Perubahan arsitektur ini mencatat jejak perkembangan perkotaan Taiwan.
+Namun, renovasi tidak selalu berhasil. Pada tahun 2012, ditemukan masalah bangunan yang terbuat dari pasir laut; Pasar Nanmen diturunkan untuk proyek MRT dan sementara pindah ke pasar transit, baru beroperasi kembali di gedung baru pada tahun 2023. Kontinuitas pasar karenanya tidak hanya ada dalam dinding aslinya, tetapi juga dalam kemampuan pedagang, barang dagangan, pelanggan, dan merek untuk melalui pemindahan bersama. [^1] [^5]
 
-Beberapa pasar yang bersejarah bahkan telah menjadi simbol budaya kota.
-Mereka tidak hanya melayani penduduk lokal, tetapi juga menarik wisatawan dari luar daerah untuk mengalami "cita rasa Taiwan yang sesungguhnya".
-Pengembangan fungsi pariwisata budaya ini memberikan kehidupan baru bagi pasar tradisional, dan juga menyediakan materi penting untuk pemasaran kota.
+## Pasar Menjual Bahan Makanan, Juga Menjual "Cara Hidup"
 
-## Tantangan Modern: Mencari Jalan Baru dalam Transformasi
+Kementerian Ekonomi menggambarkan pasar tradisional sebagai pusat aktivitas komersial lokal awal dan pusat pasokan sumber daya rakyat. Catatan rencana peningkatan yang disetujui pada tahun 2020 mencatat bahwa di seluruh Taiwan terdapat 577 pasar publik dan zona konsentrasi pedagang terdaftar yang sah, dengan 81.819 kios, sekitar 190.000 pekerja, dan pendapatan tahunan sekitar 57,6 miliar dolar Tiongkok daratan [^6].
 
-Namun, pasar tradisional juga menghadapi banyak tantangan di masyarakat modern.
-Munculnya supermarket dan toko serba ada menyediakan lingkungan belanja yang lebih nyaman dan terstandarisasi, menarik banyak pelanggan yang sebelumnya berasal dari pasar.
-Perubahan kebiasaan konsumsi generasi muda; mereka lebih cenderung berbelanja online atau membeli semua kebutuhan di supermarket satu tempat, dan jarang memiliki waktu serta kesabaran untuk memilih dan menawar perlahan di pasar.
+Angka-angka ini tidak secara langsung membuktikan bahwa setiap pasar makmur, tetapi mengingatkan kita: pasar bukanlah hobi nostalgia segelintir orang, melainkan sistem kehidupan yang memiliki skala pekerjaan, pasokan, dan ekonomi lokal.
 
-Tekanan pembaruan perkotaan juga membuat banyak pasar tua menghadapi nasib pembongkaran dan pembangunan ulang.
-Kontroversi pembongkaran Pasar Jianguo di Taichung menyoroti hubungan tegang antara pasar tradisional dan perkembangan perkotaan modern.
-Dalam proses mengejar modernisasi kota, bagaimana cara melestarikan ruang yang memuat memori rakyat biasa ini menjadi isu tata kelola perkotaan yang penting.
+```tw-stat
+577 Tempat | Pasar Publik & Zona Konsentrasi Pedagang Terdaftar | Rencana Kementerian Ekonomi 2020
+81.819 Kios | Jumlah Kios di Zona Konsentrasi Pasar & Pedagang | Rencana Kementerian Ekonomi 2020
+Sekitar 190 Ribu Orang | Pekerja | Rencana Kementerian Ekonomi 2020
+57,6 Miliar Dolar Tiongkok daratan | Pendapatan Tahunan | Rencana Kementerian Ekonomi 2020
+Sumber: Kantor Pusat Kementerian Ekonomi Tengah, 2020
+```
 
-Penuaan pedagang stan adalah tantangan serius lainnya.
-Umur banyak pedagang stan di pasar cukup tinggi, anak-anak tidak ingin meneruskan usaha, menghadapi kesulitan dalam pewarisan.
-Ketika pedagang lansia yang berpengalaman pensiun, tidak hanya pengetahuan bahan makanan profesional yang hilang, tetapi juga hubungan emosional dengan komunitas terputus.
+Tetapi nilai pasar tidak hanya terdiri dari pendapatan. Para pedagang menjelaskan asal usul bahan makanan dan metode memasak; pelanggan tetap dapat membeli porsi yang pas sesuai kebutuhan, sementara tetangga bertukar kabar di lorong. Interaksi ini membuat pasar menjadi ujung rantai pasokan makanan, simpul informasi komunitas, dan wadah memori lokal secara bersamaan. [^7]
 
-## Transformasi Inovatif: Integrasi Kebijaksanaan Kuno dengan Kebutuhan Modern
+Dalam liputan foto Pasar Jianshui oleh _Reporter_, pasar disebut sebagai "memori rakyat dan obrolan di kota". [^3] Poin dari kalimat ini bukanlah romantisasi pasar, melainkan penekanan bahwa hubungan transaksi di pasar sering kali membawa dimensi waktu: siapa yang telah berada di sini selama puluhan tahun, kios mana yang pernah membesarkan sebuah keluarga, kuil mana yang menemani pedagang menghadapi pasang surut bisnis.
 
-Menyikapi tantangan-tantangan ini, banyak pasar mulai memikirkan kemungkinan transformasi inovatif.
-Beberapa pasar memperkenalkan fasilitas dan metode manajemen modern, memperbaiki lingkungan belanja, meningkatkan kualitas layanan.
-Pasar Shidong di Taipei setelah direnovasi, menggabungkan kehangatan manusia pasar tradisional dengan kenyamanan pusat penjualan modern, menjadi contoh transformasi yang sukses.
+📝 Catatan Kurator: Supermarket membuat belanja menjadi cepat, sementara pasar mengembalikan belanja ke dalam suatu hubungan. Keduanya bukanlah tentang siapa yang lebih tinggi, melainkan menawarkan pilihan hidup yang berbeda.
 
-Penerapan teknologi juga membawa kemungkinan baru bagi pasar.
-Beberapa pedagang mulai menggunakan pembayaran seluler, membangun platform penjualan online, memperluas jangkauan layanan.
-Pemerintah juga mendorong kebijakan "digitalisasi pasar tradisional", membantu pedagang beradaptasi dengan model bisnis era digital.
+## Pasar Jianshui: Ketika Pasar Juga Adalah Rumah
 
-Intervensi industri kreatif memberikan energi baru bagi pasar.
-Beberapa desainer dan pekerja industri kreatif masuk ke pasar, menggabungkan keterampilan tradisional dengan estetika modern, menciptakan produk kreatif dengan ciri khas pasar.
-Model "ruang lama, ide baru" ini tidak hanya melestarikan ciri khas budaya pasar, tetapi juga menarik perhatian generasi muda.
+Pasar Jianshui di Taichung dibangun pada tahun 1972, awalnya direncanakan untuk menampung penduduk di dekat Lǜchuān dan pedagang sementara. Lantai satu dan dua adalah pasar, lantai tiga dan empat adalah tempat tinggal, dan ruang bawah tanah adalah tempat parkir; perpaduan antara pasar dan perumahan menjadikan para pedagang dan penghuni sebagai rekan kerja sekaligus tetangga. [^8]
 
-## Pembangunan Komunitas: Mendefinisikan Ulang Nilai Pasar
+Pengaturan ruang ini membawa kenyamanan, tetapi juga meninggalkan biaya manajemen jangka panjang dan keamanan. Setelah gempa bumi 921, bangunan mengalami retakan dan kebocoran, menyebabkan beberapa penghuni pindah secara bertahap. Ketika pasar direnovasi karena rencana kota di sekitar stasiun, para pedagang dapat pindah ke lokasi baru, tetapi orang-orang yang tinggal di atas pasar tidak memiliki pilihan perumahan yang sama. [^3] [^8]
 
-Dalam beberapa tahun terakhir, konsep pembangunan komunitas mulai dipraktikkan di pasar.
-Beberapa pasar tidak hanya menyediakan fungsi jual-beli, tetapi juga memikul tanggung jawab pendidikan komunitas dan kegiatan budaya.
-Mereka mengadakan kursus memasak, kegiatan pengenalan bahan makanan, pertunjukan budaya, mengubah pasar menjadi pusat budaya komunitas.
+Hal tersulit untuk dipindahkan seringkali bukanlah papan nama kios, melainkan hubungan yang seharusnya tidak tercantum dalam rencana kota. Pasar Jianshui lama memiliki Kuil Mazu dan Kuil Tanah Dewa; pasar baru awalnya belum menyediakan ruang ibadah, sehingga para pedagang kemudian mengatur penempatan dewa-dewa tersebut. [^8]
 
-Transformasi ini mencerminkan pemahaman ulang terhadap nilai pasar.
-Pasar bukan lagi hanya ruang komersial, melainkan bagian penting dari kehidupan komunitas.
-Ia tidak hanya menyediakan barang, tetapi juga kesempatan untuk bersosialisasi, belajar, dan mengalami budaya.
-Pengembangan fungsi-fungsi多元 (beragam) ini memberikan思路 (gagasan) baru bagi keberlanjutan operasional pasar.
+Detail kecil ini menunjukkan kesenjangan antara perencana dan pengguna: bagi peta perencanaan, itu mungkin hanya ruang yang tidak ditandai; bagi orang-orang di pasar, itu adalah tempat yang mereka lewati sebelum membuka toko setiap hari, atau tempat untuk berbicara ketika bisnis sedang sulit.
 
-## Imajinasi Masa Depan: Koeksistensi Harmonis antara Tradisi dan Modernitas
+"Pasar akan bertahan selama Anda ada," adalah perasaan pedagang yang dicatat oleh _Reporter_. [^3] Kalimat ini bukanlah klaim hukum atas hak milik pasar, melainkan deskripsi tentang waktu: ketika seseorang menempatkan puluhan tahun di satu kios, pasar tidak lagi hanya tempat sewa.
 
-Melihat ke masa depan, pasar tradisional Taiwan perlu menemukan titik keseimbangan antara mempertahankan ciri khas dan beradaptasi dengan perubahan.
-Mereka perlu melestarikan nilai-nilai inti seperti kehangatan manusia, ciri khas lokal, dan pewarisan budaya, sambil juga beradaptasi dengan kebutuhan konsumen modern, meningkatkan kualitas layanan dan kenyamanan.
+## Modernisasi Tidak Hanya Bisa Berarti Dinding Cerah
 
-Model pengembangan pasar yang ideal seharusnya merupakan integrasi organik antara kebijaksanaan tradisional dan teknologi modern.
-Ia tetap mempertahankan irama "kehidupan lambat" dan kehangatan interpersonal, sekaligus menyediakan barang dan layanan berkualitas tinggi.
-Ia bukan hanya tempat belanja untuk memenuhi kebutuhan sehari-hari, tetapi juga jendela penting untuk mengalami budaya lokal.
+Kesulitan yang dihadapi pasar tradisional sangat konkret. Kelemahan yang tercantum dalam Kementerian Ekonomi termasuk bangunan dan fasilitas yang tua, persepsi sanitasi, kurangnya parkir, jam operasional yang pendek, penuaan pedagang, dan keterbatasan sumber daya pemasaran; persaingan eksternal mencakup supermarket, hypermarket, minimarket, belanja online, dan perubahan gaya hidup. [^6]
 
-Dalam masyarakat modern yang berubah cepat, pasar tradisional mengingatkan kita pada esensi kehidupan—sumber makanan, koneksi antarmanusia, kehangatan komunitas.
-Mereka adalah oasis di kota, ruang lambat yang langka dalam kehidupan modern.
-Bagaimana让这些 (membiarkan) aset budaya yang berharga ini berlanjut dalam perubahan, bukan hanya masalah komersial, melainkan juga tugas budaya.
+Oleh karena itu, perbaikan lingkungan pasar adalah suatu keharusan. Keamanan, sanitasi, pencahayaan, ventilasi, pendinginan, dan pembuangan sampah adalah kondisi dasar yang tidak boleh diminta untuk ditukar dengan "sentuhan manusiawi" oleh pelanggan dan pedagang. Nilai budaya pasar tidak boleh menjadi alasan untuk menutupi masalah kebocoran, struktur berbahaya, atau kebersihan makanan.
 
-Ketika kita menyelesaikan belanja dengan cepat di udara dingin supermarket, tidak ada salahnya sesekali masuk ke pasar tradisional, merasakan kehangatan manusia yang tidak dilunturkan waktu.
-Di sana, setiap transaksi adalah sebuah cerita, setiap stan adalah sebuah sejarah.
-Budaya pasar Taiwan, justru dalam interaksi-interaksi sehari-hari yang kecil ini, secara diam-diam meneruskan, dan juga mencari kehidupan baru dalam perubahan.
+Namun, sebaliknya, mengubah pasar menjadi tempat belanja yang rapi secara eksterior juga tidak akan secara otomatis membawa budaya pasar. Kontroversi antara pasar dan pembaruan kota sering terjadi di sini: pemerintah melihat efisiensi lahan, transportasi, dan keamanan bangunan; pengguna pasar melihat rute pelanggan tetap, hubungan kios, keagamaan, perumahan, dan memori lokal. [^7] [^8]
 
-## Penutup: Melihat Jiwa Taiwan di Pasar
+Pasar Xinfu menawarkan jalan lain. Pasar ini mengalami kemunduran pada tahun 1990-an karena supermarket, perubahan struktur keluarga, dan kebiasaan konsumsi; pasar ditetapkan sebagai cagar budaya kota pada tahun 2006, direstorasi pada tahun 2013, dan kemudian diubah menjadi pasar budaya. Stagnasi awal membuat bangunan mempertahankan lebih banyak jejak sejarah, dan juga memungkinkan pasar dipahami kembali dari "kehancuran" sebagai aset budaya. [^2]
 
-Melewati keriuhan pagi, pasar tradisional perlahan kembali tenang pada siang hari, tetapi noda air di lantai, bau ikan dan aroma makanan matang yang sulit hilang di udara, masih berbisik tentang vitalitas kota ini.
-Yang kita beli di pasar bukan hanya bahan makanan, melainkan juga cara terhubung dengan tanah, dengan tetangga, dan dengan masa lalu.
-Di dunia produksi terstandarisasi modern, ruang transaksi yang memiliki cacat, penuh dengan keacakan dan kehangatan manusia ini,显得 (terlihat) sangat berharga.
-Budaya pasar Taiwan akan terus berevolusi, dalam bangunan baru, di bawah bantuan alat digital, menjaga estetika kehidupan rakyat biasa yang paling asli dan murni.
+📝 Catatan Kurator: Pembaruan pasar yang sejati bukanlah mengubah semua pasar menjadi ubin putih yang sama, melainkan membuat keamanan, kenyamanan, dan lokalitas dapat hidup berdampingan.
 
-## Suara Lokal: Gema Harian Sebuah Pasar
+## Alat Digital Dapat Memperpanjang Hubungan, Tidak Bisa Menggantikannya
 
-Suara berjualan di pagi hari adalah jam alarm kota.
-Suara memotong sayuran dan menimbang timbangan terjalin menjadi irama.
-Ucapan pedagang "baru tiba hari ini" adalah awal kepercayaan.
-Ucapan pelanggan tetap "biarkan saja seperti biasa" adalah bukti kesepakatan.
-Suara-suara ini menjadikan pasar sebagai teater paling hangat di kota.
+Transformasi berikutnya dari pasar juga tidak hanya terjadi di dalam bangunan. Sejak tahun 2018, Pemerintah Kota Taipei telah membimbing para pedagang untuk mengadopsi pembayaran elektronik, dan membantu mereka menjangkau konsumen baru melalui e-commerce, pengiriman makanan, dan kegiatan pemasaran pasar. Hingga Agustus 2023, ada 48 pasar di Taipei dengan 7.170 kios yang menyediakan pembayaran elektronik. [^9]
+
+Pembayaran digital menyelesaikan masalah kembalian uang, catatan transaksi, dan pembelian jarak jauh; namun, itu tidak secara otomatis menyelesaikan kualitas produk, suksesi pedagang, atau penentuan posisi pasar. Ponsel memungkinkan pelanggan tetap memesan ketika mereka tidak nyaman datang ke pasar, tetapi tidak dapat menggantikan pengetahuan asal usul yang dikumpulkan oleh pedagang selama bertahun-tahun, juga tidak bisa menjawab pertanyaan "mengapa harus datang ke sini" bagi pasar.
+
+Kasus Pasar Dàzhí menunjukkan bahwa perbaikan lingkungan, manajemen merek, dan pembayaran elektronik dapat terjadi bersamaan. Pelanggan muda memfoto, membayar, dan berbagi melalui ponsel, sementara sebagian lansia masih memilih uang tunai; oleh karena itu, pasar tidak melompat langsung dari mode lama ke mode baru, tetapi menampung kecepatan yang berbeda di jalur yang sama. [^9]
+
+Transformasi ini juga memiliki batas. Jika digitalisasi hanya menambah biaya peralatan bagi pedagang tanpa bantuan operasional yang jelas, alat tersebut akan menjadi hambatan baru. Pasar digital seharusnya melayani pedagang, bukan menuntut setiap pedagang untuk terlebih dahulu menjadi operator profesional toko online.
+
+## Masa Depan Pasar: Mempertahankan Pilihan, Bukan Hanya Spesimen
+
+Agar sebuah pasar tradisional dapat terus ada, setidaknya diperlukan tiga jenis pekerjaan yang dilakukan secara bersamaan. Pertama adalah perbaikan perangkat keras yang terlihat: struktur, drainase, pendinginan, ventilasi, pencahayaan, dan jalur aksesibilitas. Kedua adalah merawat jaringan yang tidak terlihat: suksesi pedagang, asosiasi mandiri, hubungan pelanggan tetap, keagamaan, dan kegiatan komunitas. Ketiga adalah membuat pasar dapat terhubung dengan waktu hidup baru: memperpanjang jam operasional sebagian, menyediakan makanan jadi dan setengah jadi, membangun pemesanan dan pengiriman, tetapi tetap mempertahankan keunggulan pilihan bahan makanan dan interaksi tatap muka. [^6] [^9]
+
+Ketiga hal ini tidak dapat digantikan oleh satu tombol "renovasi". Pembaruan bangunan tanpa partisipasi pedagang mungkin meninggalkan ruang yang indah tetapi tidak fungsional; pelestarian budaya yang menolak perbaikan juga dapat menjebak pedagang dan pelanggan dalam nostalgia yang tidak aman.
+
+Yang benar-benar perlu dilestarikan dari budaya pasar bukanlah noda air, bau ikan, atau lorong yang remang-remang itu sendiri, melainkan kemampuan manusia untuk saling peduli, bertukar pengetahuan, berbagi makanan di kota, dan mengubah orang asing menjadi pelanggan tetap.
+
+Jadi, ketika Anda memasuki pasar lain kali, jangan terburu-buru bertanya apakah ia terlihat seperti masa lalu. Lebih pantas ditanyakan: apakah tempat ini masih bisa menyediakan kebutuhan sehari-hari bagi keluarga yang baru pindah? Apakah masih bisa memungkinkan kaum muda untuk mengambil alih kios dengan cara mereka sendiri? Dan apakah sebuah kota dapat mempertahankan alasan untuk bertemu orang setelah pembaruan?
+
+📝 Catatan Kurator: Akhir dari pasar bukanlah diarsipkan sebagai cagar budaya, melainkan terus menjadi masa kini dalam setiap pembelian sayuran, pertanyaan harga, dan sapaan.
+
+## Bacaan Lanjutan
+
+Untuk memahami ketegangan antara pasar dan pembaruan kota lebih lanjut, silakan baca [Catatan Institusi Budaya Sebelum dan Sesudah Renovasi Pasar Jianshui](https://umkt.jutfoundation.org.tw/mkt_library/2813), lalu bandingkan dengan [Tonggak Sejarah Resmi Pasar Nanmen](https://www.tpnanmen.org.tw/article/202). Kedua artikel tersebut melengkapi detail lapangan yang tidak dikembangkan dalam teks ini dari perspektif pengalaman pengguna dan evolusi pasar.
+
+## Sumber Gambar
+
+Sumber gambar: Pemerintah Kota Taipei 〈Kios di Lantai Satu Pasar Nanmen〉, disediakan oleh [Halaman Arsip Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nanmen_Market_20231007_02.jpg). Penulis/pemegang hak cipta adalah Pemerintah Kota Taipei, menggunakan Data Terbuka Pemerintah Kota Taipei, yang mengizinkan reproduksi, adaptasi, dan penggunaan komersial, tetapi harus mencantumkan sumber; gambar di-cache pada `public/article-images/lifestyle/nanmen-market-2023.webp`.
 
 ## Referensi
 
-1. Redaksi Majalah Classic (2020). "Mencari Musim Semi Kedua: Serangan Balik Pasar Tradisional". _Majalah Classic_. Diakses dari: https://www.rhythmsmonthly.com/?p=29361
-2. Redaksi Eye on City (2016). "Pasar Adalah Tempat—Membangun Bersama Sumber Budaya Kota". _Eye on City_. Diakses dari: https://eyesonplace.net/2016/09/09/3440/
-3. Redaksi Wantown (2020). "Halo! Mulai dari Pasar, Mengenal Kehidupan Sehari-hari Taiwan". _Wantown uantau_. Diakses dari: https://utimes.today/2020/03/11/taiwan-market/
-4. Biro Statistik Kementerian Urusan Ekonomi (2019). "Survei Situasi Operasional Pasar Tradisional". Diakses dari: https://www.moea.gov.tw/
-5. Redaksi Wikipedia (2021). "Pasar Tradisional Taiwan". _Wikipedia_. Diakses dari: https://zh.wikipedia.org/zh-tw/
+[^1]: [Departemen Promosi Pariwisata Kota Taipei: Evolusi Pasar Seratus Tahun: Pasar Nanmen](https://www.travel.taipei/zh-tw/pictorial/article/23996) — Pendirian, renovasi, pemindahan, dan perubahan pola makan penduduk di Pasar Nanmen.
+
+[^2]: [Yayasan Budaya Seni Arsitektur Chung Tai: Sejarah Pasar Xinfu](https://umkt.jutfoundation.org.tw/about/history) — Arsitektur, kios, perubahan operasional, penetapan cagar budaya, dan penggunaan kembali Pasar Xinfu.
+
+[^3]: [Reporter: Hsu Zhen-tang / Jalan Berikutnya Pasar Jianshui (2)](https://www.twreporter.org/a/photo-taichung-jian-guo-market-part2) — Kehidupan pasar di Jianshui, keagamaan, penghuni, dan kondisi sebelum serta sesudah pemindahan.
+
+[^4]: [Situs Ulasan Kunci: Apakah Pasar Tradisional Kotor dan Kacau? Mari Lihat Pasar yang Seperti Rumah Mewah pada Masa Pemerintahan Jepang](https://www.thenewslens.com/article/14337) — Reformasi pasar awal masa pemerintahan Jepang, kebijakan sanitasi, dan perkembangan pasar publik.
+
+[^5]: [Pasar Publik Nanmen Kota Taipei: Tonggak Sejarah](https://www.tpnanmen.org.tw/article/202) — Evolusi resmi Pasar Nanmen dari pasar kota tahun 1906, penggantian nama pasca-perang, renovasi, transit, hingga operasi di gedung baru.
+
+[^6]: [Kantor Pusat Kementerian Ekonomi Tengah: Rencana Inovasi dan Transformasi Pasar Tradisional dan Pasar Malam](https://www.cto.moea.gov.tw/upload/project_upload/110-114%E5%B9%B4%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4%E8%88%87%E5%A4%9C%E5%B8%82%E5%89%B5%E6%96%B0%E7%BF%BB%E8%BD%89%E6%8F%90%E5%8D%87%E8%A8%88%E7%95%AB.pdf) — Skala ekonomi pasar tradisional, kelebihan dan kekurangan, latar belakang kebijakan, dan strategi transformasi.
+
+[^7]: [Eye-Level City Affairs: Dua Imajinasi Kota: Pasar Tradisional dan Pembaruan Kota](https://eyesonplace.net/2016/09/14/3484/) — Analisis pasar sebagai memori kota, ruang sosial, dan kontroversi pembaruan perkotaan.
+
+[^8]: [Yayasan Budaya Seni Arsitektur Chung Tai: Catatan Kuliah | Sebelum dan Sesudah Pemindahan—Yang Dibawa dan Yang Tidak Bisa Dibawa Bersama Pasar](https://umkt.jutfoundation.org.tw/mkt_library/2813) — Perpaduan komersial-perumahan di Jianshui, jarak pemindahan, ruang keagamaan, dan koordinasi pasar baru.
+
+[^9]: [Situs Informasi Industri Taipei: Mendorong Transformasi Pasar Menuju Ekosistem Digital](https://taipeiecon.taipei/Topics/more?id=1220251636731264605) — Data pembayaran elektronik, transformasi digital, Pasar Dàzhí, dan bimbingan pasar di Kota Taipei.

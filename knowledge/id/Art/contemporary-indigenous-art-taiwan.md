@@ -1,176 +1,148 @@
 ---
-title: 'Seni Kontemporer Masyarakat Adat Taiwan'
-description: 'Dari kerajinan tradisional hingga kreasi kontemporer, menjelajahi bagaimana seniman dari masyarakat adat Taiwan berseru di panggung seni global dan mendefinisikan ulang dialog antara identitas masyarakat adat dan seni kontemporer'
+title: 'Seni Kontemporer Pribumi Taiwan'
+description: 'Dari kerajinan tradisional hingga kreasi kontemporer, mengeksplorasi bagaimana seniman pribumi Taiwan bersuara di panggung seni global, mendefinisikan ulang identitas pribumi dan dialog dengan seni kontemporer.'
 date: 2026-03-20
 category: 'Art'
 tags:
   [
-    'masyarakat adat',
-    'seni kontemporer',
-    'kerajinan tradisional',
-    'identitas',
-    'seniman',
-    'revitalisasi budaya',
+    'Pribumi',
+    'Seni Kontemporer',
+    'Kerajinan Tradisional',
+    'Identitas',
+    'Seniman',
+    'Revitalisasi Budaya',
   ]
 subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-09-18
 lastHumanReview: false
 readingTime: 8
-translatedFrom: Art/台灣原住民當代藝術.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:8e3303199d60c0c9
-sourceBodyHash: sha256:83f9f1bad3cb5feb
-translatedAt: 2026-09-09T15:32:33+08:00
+translatedFrom: 'Art/台灣原住民當代藝術.md'
+sourceCommitSha: '5f683a19c'
+sourceContentHash: 'sha256:95cf1ca6d1302123'
+sourceBodyHash: 'sha256:a6d8e0ae74d03252'
+translatedAt: '2026-09-19T11:59:07+08:00'
 ---
 
-# Seni Kontemporer Masyarakat Adat Taiwan
+# Seni Kontemporer Pribumi Taiwan
 
-Seni kontemporer masyarakat adat Taiwan telah mengalami transformasi mendalam dalam 30 tahun terakhir. Sejak tahun 1990-an, sekelompok seniman dari masyarakat adat keluar dari desa-desa mereka dan memasuki dunia seni arus utama, menghidupkan kembali makna «seni masyarakat adat» melalui karya-karya mereka. Di luar peran mereka sebagai pemelihara kerajinan tradisional, mereka juga menjadi pencipta yang berdialog dengan isu-isu kontemporer, menampilkan wajah budaya masyarakat adat Taiwan di berbagai panggung seni[^1].
+Seni kontemporer pribumi Taiwan telah mengalami transformasi mendalam selama tiga dekade terakhir. Sejak tahun 1990-an, sekelompok seniman pribumi keluar dari komunitas mereka dan memasuki dunia seni arus utama, mendefinisikan ulang apa artinya "seni pribumi" melalui karya mereka. Mereka tidak hanya menjadi penjaga kerajinan tradisional, tetapi juga pencipta yang berdialog dengan isu-isu kontemporer di berbagai panggung seni untuk menampilkan wajah budaya pribumi Taiwan[^2].
 
-## Dari Kerajinan Tradisional hingga Transformasi Kontemporer
+## Transisi dari Tradisi ke Kontemporer
 
-### Fondasi Seni dalam Kerajinan Tradisional
+### Dasar Seni Kerajinan Tradisional
 
-Setiap kelompok etnis dari masyarakat adat Taiwan memiliki keahlian kerajinan tradisional yang luar biasa. Keterampilan-keterampilan ini adalah harta karun bagi kreasi kontemporer. Tenun kain Atayal, pahatan kayu Paiwan, tembikar Pangcah, dan keahlian pembuatan perahu Tao — setiap keterampilan membawa makna budaya yang mendalam dan konsep estetika yang kaya.
+Setiap kelompok etnis pribumi di Taiwan memiliki teknik kerajinan tradisional yang sangat mahir, dan keterampilan ini merupakan nutrisi penting bagi kreasi kontemporer. Tenun suku Atayal, ukiran kayu suku Paiwan, keramik suku Amis, dan seni pembuatan kapal suku Dasami—setiap teknik mengandung makna budaya dan konsep estetika yang mendalam.
 
-Keahlian tenun kain Atayal adalah yang paling halus. Kain yang ditenun dengan alat tenun tradisional menampilkan pola geometris seperti belah ketupat dan garis-garis, setiap pola memiliki nama dan makna khusus. Motif «Mata Roh Leluhur» melambangkan perlindungan leluhur, sementara «Cahaya Matahari» menyimbolkan kekuatan kehidupan. Pola-pola ini bukan sekadar hiasan, tetapi pembawa memori kolektif suku.
+Teknik tenun suku Atayal sangat halus. Kain yang ditenun pada alat tenun tradisional menggunakan pola geometris seperti berlian dan garis-garis, di mana setiap pola memiliki nama dan arti tertentu. Motif "Mata Leluhur" melambangkan perlindungan leluhur, sementara "Sinar Matahari" melambangkan kekuatan kehidupan. Pola-pola ini bukan sekadar hiasan, tetapi pembawa memori kelompok etnis tersebut.
 
-Keahlian pahatan kayu dan batu Paiwan sama mengesankannya. Pola ular seratus langkah, pola kepala manusia, dan pola matahari adalah elemen paling klasik, menampilkan penghormatan Paiwan terhadap alam dan leluhur. Pahatan kayu tradisional sering digunakan untuk menghiasi rumah-rumah kepala adat, menunjukkan status bangsawan dan posisi sosial.
+Keahlian ukir kayu dan pahat batu suku Paiwan juga mengagumkan. Motif ular seratus langkah, motif kepala manusia, dan motif matahari adalah elemen klasik yang mencerminkan penghormatan suku Paiwan terhadap alam dan leluhur. Ukiran tradisional sering digunakan untuk dekorasi rumah kepala suku, menunjukkan status bangsawan dan sosial.
 
-Keahlian tradisional ini menghadapi krisis pewarisan di era kontemporer, namun sekaligus menyediakan bahan baku dan sumber inspirasi yang melimpah untuk kreasi seni kontemporer. Banyak seniman dari masyarakat adat mereinterpretasi elemen-elemen tradisional ini dalam karya mereka, memberi kehidupan baru pada keterampilan kuno dalam konteks modern.
+Teknik-teknik tradisional ini menghadapi krisis pewarisan di era kontemporer, namun pada saat yang sama menyediakan materi dan sumber inspirasi yang kaya bagi kreasi seni modern. Banyak seniman pribumi menafsirkan kembali elemen tradisional ini dalam karya mereka, menghidupkan kembali teknik kuno dalam konteks modern.
 
-### Transisi dari Tradisional ke Kontemporer
+#### Transisi dari Tradisi ke Kontemporer
 
-Pada akhir tahun 1980-an, masyarakat Taiwan mulai menghargai keberagaman budaya, dan visibilitas seni masyarakat adat meningkat. Penyelenggaraan «Festival Seni Masyarakat Adat Taiwan» pada tahun 1988 adalah titik awal masyarakat adat masuk ke sistem seni arus utama[^1]. Acara ini tidak hanya menampilkan kerajinan tradisional tetapi juga mendorong kreasi inovatif.
+Pada akhir tahun 1980-an, masyarakat Taiwan mulai memperhatikan budaya multikultural, dan visibilitas seni pribumi meningkat. Sejak tahun 1990-an, para pencipta seperti Sakuliu Pavavaljung dan Rahic Talif secara berturut-turut keluar dari kerangka kerja kerajinan komunitas untuk berdialog dengan sistem seni arus utama melalui patung, instalasi, dan seni pertunjukan. "Pameran Seni Pribumi Kontemporer di Museum Kota Taipei" pada tahun 1998 adalah titik penting yang sering dibicarakan; An Seng-hui diundang untuk berpartisipasi pada tahun itu, beralih dari studio bunga ke kreasi seni[^1].
 
-Pada periode yang sama, beberapa seniman dari masyarakat adat mulai menerima pendidikan seni modern, mempelajari cat minyak, patung, dan teknik seni cetak Barat. Dalam proses pembelajaran, mereka merenungkan bagaimana menggabungkan budaya tradisional dengan seni modern, membuka eksplorasi «kontemporerisasi kerajinan tradisional».
+Pada periode yang sama, beberapa seniman pribumi mulai menerima pendidikan seni modern, mempelajari teknik Barat seperti lukisan cat minyak, patung, dan cetak. Dalam proses belajar mereka, mereka memikirkan cara menggabungkan budaya tradisional dengan seni modern, membuka eksplorasi "modernisasi kerajinan tradisional".
 
-Proses transisi ini tidak lancar. Kreasi awal sering dikritik sebagai «tidak cukup tradisional» atau «tidak cukup kontemporer», seniman harus menemukan keseimbangan antara mempertahankan keaslian budaya dan mengejar inovasi seni. Setelah bertahun-tahun eksplorasi, seni kontemporer masyarakat adat Taiwan secara bertahap mengembangkan ciri dan bahasa visual unik mereka sendiri.
+Proses transisi ini tidak mulus. Karya-karya awal sering dipertanyakan "kurang tradisional" atau "kurang kontemporer", dan seniman harus menemukan keseimbangan antara mempertahankan keaslian budaya dan mengejar inovasi artistik. Setelah bertahun-tahun eksplorasi, seni kontemporer pribumi Taiwan secara bertahap mengembangkan ciri khas dan vokabulariumnya sendiri.
 
-## Seniman Penting dan Perjalanan Kreatif
+## Seniman Penting dan Lintasan Kreatif
 
-### Pendiri Generasi Pertama
+### Pionir Generasi Pertama
 
-**Sakinu Pawavalung** adalah pelopor penting seni kontemporer masyarakat adat Taiwan. Seniman Paiwan ini memulai kreasi pada tahun 1980-an, menggabungkan teknik pahatan kayu tradisional Paiwan dengan konsep seni instalasi kontemporer. Karya serialnya «Rumah Leluhur» mengubah konsep rumah tradisional Paiwan menjadi instalasi berskala besar, menciptakan kembali ruang sakral Paiwan dalam ruang galeri seni.
+**Sakuliu Pavavaljung** (lahir tahun 1960) berasal dari komunitas Dawalan di Desa Dasha, Kecamatan Sandimen, Pingtung, dan merupakan bagian dari keluarga pengrajin Paiwan yang telah tiga generasi. Ia mendirikan Studio Gu-liu pada tahun 1978, dengan karya yang mencakup lukisan, patung, keramik, dan arsitektur. Ia secara konsisten terlibat dalam dokumentasi dan revitalisasi rumah papan batu dan estetika tradisional Paiwan, dan pada tahun 2018 ia menjadi seniman pribumi pertama yang menerima Penghargaan Seni Nasional di kategori seni[^3][^4]. Sejarah ini kemudian memiliki sisi lain. Pada tahun 2021, ia terpilih sebagai perwakilan Taiwan untuk Biennale Venesia ke-59, namun kemudian dituduh melakukan pelecehan seksual secara bernama, dan Museum Kota Taipei menghentikan statusnya pada Januari 2022. Pengadilan tertinggi memutuskan kasus ini pada April 2026, dan Akademi Seni Nasional mencabut kualifikasi penghargaan seni nasionalnya[^3][^5].
 
-Kreasi Sakinu berpusat pada revitalisasi budaya. Dia mendirikan studio di Sandimen, Kabupaten Pingtung, melatih generasi muda dalam teknik pahatan kayu tradisional, mengajarkan keahlian kuno kepada pemuda adat perkotaan (untuk rincian filosofi kreasi lebih lanjut, lihat halaman pengenalan seniman di [Pusat Pengembangan Budaya Masyarakat Adat Dewan Masyarakat Adat](https://www.tacp.gov.tw/)).
+**Yuma Taru** adalah pendorong penting dalam revitalisasi tenun suku Atayal. Ia berasal dari komunitas Xiangbi di Miaoli, dan menghabiskan hampir dua puluh tahun untuk merekonstruksi pakaian tradisional berbagai kelompok etnis Atayal. Ia mendirikan "Bengkel Ye-tong" bekerja bersama para penenun komunitas, dan terdaftar oleh Kementerian Kebudayaan sebagai penjaga seni tradisional tenun Atayal yang penting[^6][^7]. Pekerjaannya mengubah tenun dari artefak di lemari museum menjadi keterampilan hidup yang masih dikenakan, ditenun, dan diajarkan di komunitas.
 
-**Yuma Taru** adalah pendorong penting seni tenun kain Atayal. Sejak tahun 1990-an, dia terlibat dalam pekerjaan revitalisasi tenun kain tradisional, tidak hanya melestarikan teknik tradisional tetapi juga membawa seni tenun ke ranah seni kontemporer. Ateliernya yang bernama «Bengkel Pohon Liar» adalah pusat inti promosi budaya tenun Atayal[^2].
+### Pelopor Generasi Kedua
 
-Karya tenun Yuma mempertahankan teknik tradisional sekaligus berani mencoba kombinasi warna dan pola baru. Instalasi tenun berskala besarnya «Suara Leluhur» dipamerkan pada Biennale Taiwan 2010, memungkinkan komunitas seni internasional menyaksikan pesona seni tenun kontemporer masyarakat adat Taiwan.
+**Rahic Talif** (lahir tahun 1962) adalah seniman suku Amis dari komunitas Makota'ay di Penghu, Taiwan, dengan karya yang mencakup patung, instalasi, seni pertunjukan, dan desain furnitur, serta menulis prosa. Dari _Modern Gathering Place_, _Dance of Standing_, dan _Remnants_ pada tahun 1993, hingga "Proyek Topan" (2008–2013), "Ruang Seratus Langkah" (2013–2018), dan "Laut/Museum Laut" (2018–2020), ia berulang kali berjalan di sepanjang pantai, mengumpulkan kayu apung dan sampah laut sebagai bahan, memasukkan kondisi komunitas dan perubahan garis pantai ke dalam karyanya[^8]. Nama "Ruang Seratus Langkah" berasal dari perkataan ayahnya semasa hidup: kita hanya memiliki seratus langkah.
 
-### Terobosan Generasi Kedua
-
-**Rahic Talif** adalah seniman kontemporer keturunan Pangcah yang kreasi-kreasinya berani menantang batas antara tradisional dan modern. Dia telah berpartisipasi dalam berbagai pameran internasional penting dan merupakan salah satu seniman masyarakat adat Taiwan dengan visibilitas tertinggi di panggung internasional[^2].
-
-Seri karya Rahic «Keinginan/Asal» mengeksplorasi kompleksitas identitas masyarakat adat. Dia menggunakan kayu hanyutan, barang bekas, dan material modern untuk menciptakan instalasi berskala besar yang mencerminkan kondisi masyarakat adat dalam masyarakat modern. Kayu hanyutan dalam karya menyimbolkan masyarakat adat yang kehilangan akar, namun sekaligus menampilkan kekuatan hidup yang tangguh.
-
-Metode kreasi Rahic menggabungkan seni pertunjukan, seni instalasi, dan seni video, mengatasi keterbatasan medium tradisional. Dalam karya «Jika Kamu Berdiri di Pusat Dunia dan Berteriak Cinta» yang ditampilkan di Biennale Venesia, dia menggunakan lagu-lagu tradisional Pangcah dan teknologi video kontemporer untuk menciptakan pengalaman audiovisual yang mengguncang.
-
-**An Sheng-hui** adalah seniman tembikar Paiwan yang kreasi-kreasinya membawa kerajinan tembikar tradisional ke tingkat seni tembikar modern. Karyanya menggabungkan bentuk dan teknik pembakaran tembikar tradisional Paiwan, namun dalam bentuk dan konsep yang lebih bebas dan eksperimental.
-
-Seri karya «Memori Tanah» An Sheng-hui mencatat ruang desa dan memori kehidupan masyarakat Paiwan menggunakan tanah liat. Dia mengumpulkan tanah dari berbagai desa, mencampurnya dan membakarnya menjadi tembikar, sehingga setiap karya membawa sejarah dan memori tempat tertentu.
+**An Seng-hui** (suku Eleng Luluan, lahir tahun 1968) berasal dari keluarga kepala suku Lukai di komunitas Jiawushan Lama, Pingtung. Awalnya ia mengelola studio bunga, dan setelah diundang untuk menghadiri pameran seni pribumi kontemporer di Galeri Amerika Utara pada tahun 1998, ia memasuki kreasi seni. Pada awal tahun 2000-an, ia pindah ke Taitung dan berkreasi di tempat di "Komunitas Kesadaran" di Pantai Jinzun. Ia mahir dalam patung media campuran dan instalasi lingkungan; karya representatifnya, _Dream and Dream_, adalah instalasi besar yang menyerupai tubuh induk, ditenun dari batang polipropilena putih, kantong plastik, dan kertas kemasan. Pada tahun 2019, "Pameran Seni Pribumi Kontemporer Global Lima Tahun" di Galeri Nasional Kanada mengundang tujuh puluh seniman, dan ia adalah satu-satunya seniman pribumi Taiwan yang diundang[^1].
 
 ### Inovator Generasi Ketiga
 
-**Eleng Luluan** adalah kurator dan seniman keturunan Rukai yang telah lama berkomitmen untuk mendorong perkembangan seni kontemporer masyarakat adat. Festival seni yang dia kurasi bernama «Festival Seni di Tebing Curam» adalah platform penting untuk menampilkan energi kreatif seniman-seniman adat generasi baru (untuk informasi lebih lanjut, lihat informasi terkait dari Yayasan Usaha Budaya Masyarakat Adat).
+**Labay Eyong** (lahir tahun 1982) adalah seniman suku Taroko dari komunitas Hongye di Hualien. Pada tahun 2008, ia lulus dari Departemen Desain Ruang Sementara, Fakultas Arsitektur Universitas Autonom Barcelona. Setelah kembali ke komunitasnya, ia belajar alat tenun tradisional Ubung dari tetua seperti Liao Ah-hao, menggabungkan tenun dengan metalurgi untuk membuat patung lunak, video, dan seni publik. Ia memenangkan Grand Prize Penghargaan Seni Pulima pada tahun 2014 dan 2016. Pada tahun 2021, ia memulai pameran aksi _Dungku Asang_ di area tambang Ruixin di dekat komunitas Hongye, menggunakan tenun untuk membungkus massa gunung yang ditambang[^9][^10][^11].
 
-Filosofi kurasi Eleng menekankan «penghilangan marginalisasi», dia percaya bahwa seni masyarakat adat tidak harus dipandang sebagai «khusus» atau «yang lain», melainkan harus menjadi bagian penting dari seni kontemporer Taiwan. Pameran yang dia kurasi berjudul «Sebenarnya Begini» merangkai kembali lintasan perkembangan seni masyarakat adat Taiwan, mendapatkan apresiasi tinggi dari kalangan seni.
-
-**Lin Jie-wen** adalah seniman muda Pangcah yang kreasi-kreasinya banyak menggunakan teknologi media baru. Karya VR-nya «Laut Bangsa Pangcah» memungkinkan penonton terhanyut dalam budaya laut Pangcah, mengalami kehidupan berburu tradisional.
-
-Kreasi Lin Jie-wen mencerminkan pengalaman budaya generasi adat era digital. Dia berkata: «Generasi kami tumbuh dalam dunia digital sejak kecil, menciptakan dengan media digital adalah hal yang alami. Kunci adalah bagaimana menggunakan teknologi modern untuk menyampaikan kebijaksanaan kuno.»
+**Etan Pavavalung** juga berasal dari keluarga Pavavaljung di komunitas Dawalan, dan karyanya mencakup puisi, prosa, lukisan, cetak, pahat, instalasi, dan dokumentasi video. Pada tahun 2009, ia mengembangkan "ukiran pola" yang ia namai sendiri: garis-garis tekstur "pola" tanah dan hutan, lapisan "susunan" rumah papan batu, diukir dengan pisau ukir, lalu "dilukis" dengan warna musim, dan dipamerkan di Galeri Amerika Utara dengan judul _Wind is Fragrant on the Mountain_ pada tahun yang sama[^12].
 
 ## Isu Kontemporer dan Dialog Budaya
 
 ### Eksplorasi Identitas
 
-Isu inti yang dihadapi seniman kontemporer masyarakat adat adalah identitas. Sebagian besar dari mereka tumbuh dalam masyarakat perkotaan yang didominasi Han, hubungan mereka dengan budaya tradisional mungkin terputus atau kabur. Bagaimana menghubungkan kembali akar budaya sambil membangun identitas kontemporer adalah tema penting dalam kreasi banyak seniman.
-
-Karya fotografi **Etan Pavavalung** berjudul «Siapa Kita» mencatat kehidupan masyarakat adat perkotaan. Dia memotret pekerja, siswa, dan pegawai kantoran adat yang bekerja di Taipei, menampilkan upaya mereka mempertahankan identitas budaya dalam kehidupan perkotaan.
-
-Dalam foto-foto ini, kita melihat pegawai kantoran yang mengenakan setelan jas tetapi memakai kalung tradisional, siswa yang bekerja di toko swalayan tetapi masih lancar berbahasa suku, keluarga yang tinggal di apartemen tetapi tetap menyelenggarakan upacara adat tradisional. Gambar-gambar ini mencerminkan kompleksitas dan pluralitas identitas masyarakat adat kontemporer.
+Isu inti bagi seniman kontemporer pribumi adalah identitas. Sebagian besar dari mereka tumbuh dalam masyarakat perkotaan yang didominasi oleh orang Han, sehingga mungkin ada pemutusan atau keabuan dalam koneksi dengan budaya tradisional. Bagaimana menghubungkan kembali akar budaya sambil membangun identitas kontemporer adalah tema penting dalam karya banyak seniman. Beberapa seniman yang disebutkan di atas semuanya memulai dari "kembali": Siki Sufin kembali dari lokasi konstruksi Taipei ke Dulan, Iyo Kacaw kembali dari Taipei ke komunitas Penghu, dan Labay Eyong kembali dari Barcelona ke Hongye. Setelah kembali, mereka mulai belajar ukir kayu, belajar menenun, dan kemudian mengungkapkan apa yang telah mereka pelajari menggunakan vokabularium kontemporer.
 
 ### Isu Tanah dan Lingkungan
 
-Tanah adalah fondasi budaya masyarakat adat dan juga tema penting dalam kreasi seni kontemporer. Banyak seniman mengekspresikan keprihatinan mereka tentang pembangunan tanah dan kerusakan lingkungan melalui karya mereka, berseru atas hak tanah masyarakat adat.
+Tanah adalah dasar budaya pribumi dan juga tema penting dalam kreasi seni kontemporer. Banyak seniman menyuarakan kepedulian terhadap pembangunan lahan dan kerusakan lingkungan melalui karya mereka, membela hak tanah masyarakat pribumi.
 
-**Siki Sufin**, seniman Atayal, menciptakan karya lanskap berskala besar berjudul «Panggilan Ibu» yang dipamerkan di Jianshi, Kabupaten Hsinchu. Karya ini menumpuk batu-batu lokal menjadi struktur spiral raksasa, melambangkan pelukan Ibu Bumi. Tanaman tradisional ditanam di sekitar karya untuk menciptakan kembali pengetahuan pemanfaatan tanaman Atayal.
+**Siki Sufin** (lahir tahun 1966) adalah seniman ukir kayu suku Amis dari Dulan, Taitung. Ketika muda ia bekerja di lokasi konstruksi Taipei, pada tahun 1995 ia mengundurkan diri dan kembali ke pesisir timur, belajar ukir kayu di studio Rahic Talif di komunitas Penghu. Sekitar tahun 2000, ia menyewa Gudang Nomor Tiga Pabrik Gula Dulan dan menjadi seniman pertama yang menetap di pabrik gula tersebut. Seri "Sayap Highsand" yang terus dibuat sejak tahun 2006 mengkhawatirkan Pasukan Sukarelawan Highsand selama periode pemerintahan Jepang dan veteran Taiwan, berusaha mengukir jalan bagi jiwa-jiwa yang tidak dapat pulang[^13].
 
-Karya ini memiliki fungsi estetika sekaligus pendidikan lingkungan, dan juga merupakan tempat untuk transmisi budaya. Ketika penonton mengapresiasi karya, mereka juga belajar tentang kebijaksanaan ekologi Atayal.
+**Adaw Palaf Langasan** (lahir tahun 1949) adalah pekerja teater dan penyair suku Amis dari komunitas Taiba'an Guangfu di Hualien. Ia bergabung dengan "Penari Pribumi" pada tahun 1991, dan mendirikan "Teater Ran-er-shan" di Taiba'an pada tahun 2012, nama kelompok teater diambil dari gunung suci Cilangasan dalam mitologi Amis. Karya teater _Misa-Lisin_ pada tahun 2014 berpartisipasi sebagai tim fokus di Festival Fringe Edinburgh[^14][^15].
 
-**Adaw Palaf Langasan**, seniman Puyuma, menggunakan karya video berjudul «Lagu Limbah Nuklir» untuk mencatat perjuangan masyarakat Tao di Pulau Orchid melawan lokasi penyimpanan limbah nuklir. Dalam karya, para tetua Tao mengekspresikan kemarahan dan kesedihan mereka terhadap pencemaran lingkungan menggunakan lagu-lagu tradisional.
+### Memori Laut dan Komunitas
 
-Kreasi-kreasi ini menunjukkan tanggung jawab sosial seniman masyarakat adat: mereka sekaligus adalah pencipta estetika, penjaga budaya, dan suara untuk isu-isu lingkungan.
+Komunitas Penghu adalah contoh khusus: komunitas yang sama telah melahirkan seniman seperti Rahic Talif, Iyo Kacaw, dan Sapud Kacaw yang berkarya dengan kayu apung, dan karya mereka semuanya berpusat pada laut.
 
-### Gender dan Memori Keluarga
+**Iyo Kacaw** kembali ke komunitas Penghu dari Taipei pada tahun 2002, belajar membuat karya dari kayu apung dari Rahic Talif, sambil mencari nafkah dengan menangkap udang dan ikan. Pengalaman tubuh di laut ini menjadi vokabularium dalam karyanya: potongan atau irisan kayu yang saling terhubung dan ditumpuk berulang kali membentuk bentuk seperti garis arus laut. Pada tahun 2018 ia memenangkan Grand Prize kategori patung kayu dari Festival Seni Hutan Internasional Sili-Beli di Belgia[^16].
 
-Dalam tahun-tahun terakhir, suara seniman wanita dari masyarakat adat semakin penting. Dari perspektif perempuan dan ibu, mereka mengeksplorasi peran gender dan transmisi keluarga dalam budaya masyarakat adat.
-
-**Iyo Kacaw** adalah seniman wanita Pangcah yang karya instalasi berjudul «Tangan Ibu» menciptakan kembali ruang kehidupan wanita Pangcah. Pusat karya adalah mortir batu raksasa, dikelilingi oleh berbagai alat kehidupan tradisional, melambangkan posisi penting wanita dalam transmisi budaya suku.
-
-Pangcah adalah masyarakat matrilineal, wanita memiliki posisi penting dalam keluarga. Karya Iyo mengingatkan penonton bahwa kebijaksanaan dan kontribusi wanita dalam budaya masyarakat adat sering diabaikan, layak untuk digali kembali dan dihormati.
-
-**Wan-mao Lu Sen-bao** adalah seniman wanita Puyuma yang karya seni serat berjudul «Cerita Nenek» menggunakan teknik menganyam tradisional untuk menciptakan patung modern. Dalam karya, berbagai serat tanaman terjalin menjadi struktur jaring kompleks, melambangkan transmisi memori keluarga.
-
-Dia berkata: «Cerita nenek ditenun dengan tangan, setiap simpul adalah sebuah memori, setiap benang adalah sebuah sejarah. Karya saya bertujuan membuat cerita-cerita yang tak terlihat ini menjadi terlihat.»
+**Sapud Kacaw** sering mengaitkan ide kreatifnya dengan cerita komunitas, menggabungkan bahan alami di sekitarnya seperti tanah dan kayu apung ke dalam metode konstruksi. Dalam karya seni publiknya _ngasaw_ di pesisir Penghu, ia menggunakan banyak bola benang berwarna dan kayu apung untuk menampilkan struktur klan Amis melalui citra warna dan rotasi[^17].
 
 ## Panggung Internasional dan Dialog Global
 
-### Biennale Venesia dan Panggung Internasional
+Seniman pribumi Taiwan telah meningkatkan visibilitas mereka dalam pameran internasional baru-baru ini. An Seng-hui diundang pada tahun 2019 ke Pameran Seni Pribumi Kontemporer Global Lima Tahun di Galeri Nasional Kanada[^1], Teater Ran-er-shan milik Adaw tampil di Festival Fringe Edinburgh[^14], dan Iyo Kacaw memenangkan penghargaan di Belgia[^16]. Mereka semua berinteraksi dalam jaringan "seniman pribumi dengan seniman pribumi", bertukar dengan para pencipta dari negara seperti Kanada, Australia, dan Selandia Baru. Koneksi lintas negara ini memiliki sifat ganda: pertukaran seni dan gerakan hak-hak pribumi.
 
-Seniman masyarakat adat Taiwan dalam tahun-tahun terakhir memiliki visibilitas yang meningkat dalam pameran internasional, Biennale Venesia adalah salah satu panggung penting. Karya Rahic Talif berjudul «Jika Kamu Berdiri di Pusat Dunia dan Berteriak Cinta» telah dipamerkan di berbagai pameran internasional, menggunakan lagu tradisional Pangcah «Lagu Peminum Tua» sebagai latar belakang suara, memungkinkan penonton dari seluruh dunia mendengarkan suara masyarakat adat Taiwan[^2].
-
-Partisipasi seniman masyarakat adat Taiwan dalam arena internasional memiliki makna simbolis bagi pembangunan subjektivitas budaya masyarakat adat. Seorang pencipta dari desa-desa masyarakat adat Taiwan berseru demi masyarakat adat di arena seni internasional, tingkat visibilitas budaya semacam ini hampir tidak ada sebelum tahun 1990-an.
-
-### Jaringan Internasional Seni Masyarakat Adat
-
-Seniman masyarakat adat Taiwan telah membangun koneksi lintas negara, bertukar dan berkolaborasi dengan seniman adat dari Kanada, Australia, Selandia Baru, dan negara lainnya[^7]. Koneksi lintas negara ini memiliki dua dimensi sekaligus: pertukaran seni dan gerakan hak-hak masyarakat adat[^7].
-
-Pada tahun 2018, pameran «Pameran Seni Kontemporer Masyarakat Adat Pulau-Pulau Pasifik» diselenggarakan di Museum Seni Kota Taipei, mengundang seniman adat dari Taiwan, Filipina, Indonesia, Australia, dan negara-negara lainnya untuk pameran bersama. Pameran ini menampilkan keragaman dan kesamaan budaya bahasa Austronesia.
-
-**Tung Yang-tze** dan seniman non-adat lainnya juga terlibat dalam mendukung perkembangan seni masyarakat adat, dia berkolaborasi dengan banyak seniman adat untuk mendorong dialog antarbudaya. Model kolaborasi lintas kelompok etnis ini membawa perspektif baru dan kemungkinan baru bagi kalangan seni Taiwan.
+Seorang pencipta dari komunitas pribumi Taiwan menyuarakan masyarakat pribumi di arena seni internasional; hal ini hampir tidak ada sebelum tahun 1990-an. Hal ini memiliki makna simbolis yang melampaui pameran itu sendiri, dalam membangun subjek budaya pribumi.
 
 ## Perkembangan Pasar dan Industrialisasi
 
-### Peluang dan Tantangan Pasar Seni
+Pengenalan seni kontemporer pribumi Taiwan di pasar telah meningkat baru-baru ini, tetapi masih menghadapi tantangan. Produk kerajinan tradisional memiliki pasar koleksi yang stabil, tetapi pengakuan pasar untuk karya seni kontemporer masih memiliki ruang untuk berkembang. Museum publik seperti Museum Kota Kaohsiung dan Museum Kota Taipei telah mengoleksi sejumlah besar karya seni kontemporer pribumi, dan "Pameran Seni Kepulauan Selatan Internasional Taiwan" dari Pusat Pengembangan Budaya Pribumi Nasional juga menempatkan para pencipta ini dalam sistem pameran yang lebih besar[^9][^16].
 
-Seni kontemporer masyarakat adat Taiwan dalam tahun-tahun terakhir memiliki pengetahuan pasar yang meningkat, namun masih menghadapi beberapa tantangan. Kerajinan tradisional memiliki pasar koleksi yang stabil, tetapi pengetahuan pasar karya seni kontemporer masih memiliki ruang pertumbuhan.
+Salah satu tren penting adalah diskusi tentang "keaslian budaya". Kolektor dan kurator semakin mementingkan latar belakang budaya karya dan identitas seniman, yang merupakan peluang sekaligus tantangan bagi seniman pribumi. Seni pribumi juga digabungkan dengan industri kreatif budaya, mengembangkan aksesori tenun, barang sehari-hari, dan desain pakaian yang menggabungkan pola tradisional, tetapi keseimbangan antara "komersialisasi" dan "keaslian budaya" adalah tugas yang harus dihadapi oleh perkembangan industri.
 
-Museum Seni Kota Kaohsiung, Museum Seni Kota Taipei, dan galeri-galeri seni publik lainnya telah mengumpulkan sejumlah besar karya seni kontemporer masyarakat adat, menetapkan standar untuk pasar[^3]. Galeri swasta dan kolektor juga mulai memperhatikan bidang ini, tetapi skala pasar keseluruhan masih terbatas.
+Seni kontemporer pribumi Taiwan telah melalui jalan dari pinggiran ke pusat dalam 30 tahun terakhir. Para seniman membuktikan melalui karya mereka bahwa budaya pribumi bukan hanya warisan yang perlu dilindungi, tetapi juga kekuatan kontemporer yang dapat berdialog dengan seluruh dunia.
 
-Tren penting adalah diskusi tentang «keaslian budaya». Kolektor dan kurator semakin menekankan pentingnya latar belakang budaya karya dan identitas pencipta, ini adalah peluang sekaligus tantangan bagi seniman adat.
-
-### Perkembangan Industri Kreativitas Budaya
-
-Seni masyarakat adat tidak hanya berkembang dalam ranah seni murni, tetapi juga menggabungkan dengan industri kreativitas budaya, mengembangkan produk dan layanan yang beragam.
-
-«Pusat Konglomerat Industri Kreativitas Budaya Masyarakat Adat» didirikan di Chenggong, Kabupaten Taitung, mengumpulkan banyak seniman dan pengrajin adat, mengembangkan produk kreatif yang memiliki ciri budaya khas. Produk termasuk aksesori kain modern, barang-barang kehidupan yang menggabungkan pola tradisional, desain pakaian dengan elemen masyarakat adat, dan lainnya.
-
-Upaya industrialisasi ini menghadapi masalah keseimbangan antara «komersialisasi» dan «keaslian budaya». Bagaimana menjaga kelestarian budaya dalam pengembangan komersial adalah tantangan yang harus dihadapi industri.
-
-Seni kontemporer masyarakat adat Taiwan dalam 30 tahun terakhir telah menempuh jalan dari pinggiran ke pusat. Dengan kreasi-kreasi mereka, para seniman membuktikan bahwa budaya masyarakat adat tidak hanya warisan budaya yang perlu dilindungi, tetapi juga kekuatan kontemporer yang dapat berdialog dengan seluruh dunia.
-
-Instalasi Rahic Talif, fotografi Sabu Kacaw, patung tekstil Iyo Kacaw — karya-karya ini telah melampaui kerangka «kerajinan desa», menjadi karya-karya yang hidup bersama seni kontemporer global di arena seni seperti Venesia, Taipei, dan New York. Karya-karya mereka tidak hanya menampilkan kekayaan budaya masyarakat adat, tetapi juga menyuntikkan kehidupan yang tak tergantikan ke dalam seni kontemporer Taiwan.
-
-Di era globalisasi, suara-suara dari desa-desa ini justru menjadi semakin berharga dan penting — karena mereka membawa memori dan pengalaman yang tidak dapat direplikasi di tempat lain manapun.
+Instalasi pantai Rahic Talif, tubuh polipropilena An Seng-hui, tenun Labay Eyong yang membungkus gunung—karya-karya ini telah melampaui kerangka "kerajinan komunitas" dan menjadi karya yang hidup bersama seni kontemporer global di tempat-tempat seperti Taipei, Ottawa, dan Edinburgh. Di era globalisasi, suara-suara dari komunitas ini justru tampak lebih berharga dan penting, karena mereka membawa memori dan pengalaman yang tidak dapat direplikasi di tempat lain.
 
 ## Referensi
 
-[^1]: [Pusat Pengembangan Budaya Masyarakat Adat](https://www.tacp.gov.tw/) — Informasi perkembangan seni kontemporer masyarakat adat
+[^1]: [Di Gunung dan Laut, Antara Mimpi dan Mimpi, Menenun Kembali Akar yang Hilang—Wawancara dengan Seniman Lukai An Seng-hui](https://e-info.org.tw/node/232401) — Pusat Informasi Lingkungan, latar belakang komunitas An Seng-hui, pameran Galeri Amerika Utara tahun 1998, Komunitas Kesadaran, _Dream and Dream_, dan Pameran Lima Tahun Galeri Nasional Kanada pada tahun 2019.
 
-[^2]: Lin Jian-cheng (2002) [_Catatan Kerja Lapangan Seni Masyarakat Adat Taiwan_](https://www.books.com.tw/products/0010192578), Penerbit Seniman
+[^2]: [《Catatan Lapangan Seni Pribumi Taiwan》](https://www.books.com.tw/products/0010192578) — Lin Chien-cheng (2002), Penerbit Seniman.
 
-[^3]: [Biennale Seni Taiwan](https://www.museum.ntm.gov.tw/) — Informasi pameran seni kontemporer
+[^3]: [Sakuliu Pavavaljung](https://zh.wikipedia.org/zh-tw/%E6%92%92%E5%8F%A4%E6%B5%81%C2%B7%E5%B7%B4%E7%93%A6%E7%93%A6%E9%9A%86) — Wikipedia, tahun lahir dan komunitas, Studio Gu-liu pada tahun 1978, Penghargaan Seni Nasional pada tahun 2018, penghentian status perwakilan Biennale Venesia oleh Galeri Amerika Utara pada tahun 2022, keputusan pengadilan dan pencabutan penghargaan pada tahun 2026.
 
-[^4]: [Paviliun Taiwan di Biennale Venesia](https://www.venezia.culture.tw/) — Data paviliun Taiwan dari berbagai tahun
+[^4]: [Saya Pulima dari Paiwan—Wawancara Sakuliu Penerima Penghargaan Seni Nasional](https://www.twreporter.org/a/interview-sakuliu-pavavalung) — Reporter, latar belakang keluarga pengrajin dan bidang kreasi Sakuliu.
 
-[^5]: Gao Jun-hong (2017) [_Catatan Lintas Potong: Perang Hutan Taiwan, Kerajaan, dan Citra_](https://www.books.com.tw/products/0010768319), Penerbit Jauh
+[^5]: [Mencari Inspirasi di Dasar Sungai! Siswi yang Didera oleh Seniman Paiwan Sakuliu Divonis 4 Tahun Setengah Masuk Penjara](https://news.nextapple.com/local/20260417/5650BE56912C327CA9FEA2E72149847F) — Ipin News Net, 2026-04-17, putusan pengadilan tingkat ketiga.
 
-[^7]: [Basis Data Literatur dan Budaya Kontemporer Masyarakat Adat Taiwan](http://140.109.24.175/iplm/) — Dibangun oleh Universitas Sun Yat-sen
+[^6]: [Penjahit Atayal yang Mewariskan Budaya: Yuma Taru](https://mag.ncafroc.org.tw/article_detail.html?id=297ef722723767c201723b33614d000a) — Majalah Online Akademi Seni Nasional, komunitas Xiangbi, rekonstruksi pakaian selama dua puluh tahun, Bengkel Ye-tong.
+
+[^7]: [Atayal Weaver | Yuma Taru](https://www.moc.gov.tw/en/News_Content2.aspx?n=486&s=17620) — Kementerian Kebudayaan, pendaftaran penjaga seni tradisional penting.
+
+[^8]: [Rahic Talif—Pengenalan Seniman](https://rahictalif.com/about/artist/) — Situs web resmi seniman, tahun lahir, komunitas Penghu, kronologi karya representatif dan metode kreasi dari pantai.
+
+[^9]: [Labay Eyong](https://tiaat.tacp.gov.tw/%E6%9E%97%E4%BB%8B%E6%96%87/) — Pameran Seni Kepulauan Selatan Internasional Taiwan, suku Taroko Hongye, Grand Prize Penghargaan Seni Pulima, _Dungku Asang_.
+
+[^10]: [Labay Eyong | Asosiasi Seniman Wanita Taiwan](https://waa.org.tw/members/labay-eyong/) — Pendidikan, proses tenun dan kreasi dengan nenek pada tahun 2014.
+
+[^11]: [Tanah dan Kepedulian Budaya dalam _Dungku Asang_ Disembuhkan Melalui Tenunan](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&sms=12639&s=103452) — Transi Online, belajar alat tenun tradisional Ubung dari tetua, Pameran Aksi _Dungku Asang_ tahun 2021.
+
+[^12]: [【Wawancara Tokoh】Etan Pavavalung: Orang Taiwan Harus Keluar dari Kerangka Sejarah 400 Tahun](https://www.matataiwan.com/2014/04/21/etan-pavavaljung/) — Mata Taiwan, komunitas Dawalan, asal-usul dan pameran _ukiran pola_ di Galeri Amerika Utara.
+
+[^13]: [Dari Lokasi Konstruksi Taipei ke Pabrik Gula Dulan: Siki Sufin, Jalan Penjaga Budaya Seniman Amis](https://www.verse.com.tw/article/dulan-siki) — VERSE, lahir tahun 1966, belajar ukir kayu dari Rahic Talif pada tahun 1995, Gudang Nomor Tiga Pabrik Gula Dulan, "Sayap Highsand".
+
+[^14]: [Adaw Palaf Langasan](https://aborgpedia.alcd.center/detail?cat=0&id=11554&race=0) — Ensiklopedia Pribumi Taiwan, lahir tahun 1949, Taiba'an, bergabung dengan Penari Pribumi pada tahun 1991, mendirikan Teater Ran-er-shan pada tahun 2012, Festival Fringe Edinburgh pada tahun 2014.
+
+[^15]: [Tentang Ran-er-shan](https://langasan.wordpress.com/%E9%97%9C%E6%96%BC%E5%86%89%E8%80%8C%E5%B1%B1-about/) — Situs web resmi Teater Ran-er-shan, nama kelompok teater dan gunung suci Cilangasan.
+
+[^16]: [Iyo Kacaw](https://tiaat.tacp.gov.tw/%E4%BC%8A%E7%A5%90%EF%BC%8E%E5%99%B6%E7%85%A7/) — Pameran Seni Kepulauan Selatan Internasional Taiwan, komunitas Penghu, vokabularium kreasi, Grand Prize kategori patung kayu di Belgia pada tahun 2018.
+
+[^17]: [Landmark Baru "Tempat Energi": Karya Seni Publik Sapud Kacaw di Pantai Penghu dan Maknanya](https://artouch.com/art-views/art-exhibition/content-54185.html) — Koleksi ARTouch, _ngasaw_ dan bahan kreasi.
 
 ---
 
-_Bacaan Lanjutan: [Sejarah dan gerakan perenamaan masyarakat adat Taiwan](/id/history/indigenous-peoples-history-and-naming-movement/) · [Keadilan tanah dan wilayah tradisional masyarakat adat Taiwan](/id/society/indigenous-land-justice-and-traditional-territories/) · [Peta budaya 16 suku asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map/) · [Gerakan revitalisasi bahasa masyarakat adat Taiwan](/id/culture/indigenous-language-revitalization-movement/) · [Budaya kuliner masyarakat adat Taiwan](/id/food/taiwan-indigenous-foodways/) · [Kearifan ekologis dan konservasi lingkungan masyarakat adat Taiwan](/nature/台灣原住民生態智慧與環境保育)_
+_Bacaan Lanjutan: [Sejarah dan Gerakan Penamaan Pribumi Taiwan](/id/history/indigenous-peoples-history-and-naming-movement/) · [Keadilan Tanah dan Wilayah Tradisional Pribumi Taiwan](/id/society/indigenous-land-justice-and-traditional-territories/) · [Peta Budaya 16 Suku Pribumi Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map/) · [Gerakan Revitalisasi Bahasa Pribumi Taiwan](/id/culture/indigenous-language-revitalization-movement/) · [Budaya Pangan Pribumi Taiwan](/id/food/taiwan-indigenous-foodways/) · [Kebijaksanaan Ekologis dan Konservasi Lingkungan Pribumi Taiwan](/id/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_

@@ -1,78 +1,78 @@
 ---
-title: 'Situs Web Resmi Taiwan'
-description: 'Situs web resmi Taiwan tidak hanya menyediakan layanan pemerintah dan informasi kebijakan, tetapi juga merupakan jendela penting untuk memahami sistem politik, perkembangan budaya, dan tata kelola sosial Taiwan. Situs-situs ini mencerminkan transparansi politik demokrasi Taiwan, tingkat kemajuan tata kelola digital, serta perhatian terhadap pelestarian dan promosi budaya. Bagi berbagai pihak yang mempelajari Taiwan, memahami Taiwan, atau membutuhkan informasi resmi, kumpulan sumber ini menyediakan panduan sumber informasi paling otoritatif.'
+title: 'official-websites'
+description: 'Situs web resmi Taiwan tidak hanya menyediakan layanan pemerintah dan informasi kebijakan, tetapi juga menjadi jendela penting untuk memahami sistem politik, perkembangan budaya, dan tata kelola sosial Taiwan. Situs-situs ini mencerminkan transparansi politik demokrasi Taiwan, tingkat kemajuan tata kelola digital, dan pentingnya pelestarian serta promosi budaya. Untuk mereka yang meneliti Taiwan, ingin memahami Taiwan, atau membutuhkan informasi resmi, koleksi sumber daya ini'
 date: 2026-03-17
 category: 'resources'
-tags: ['sumber daya', 'pemerintah', 'resmi', 'Taiwan.md']
+tags: ['resources', 'government', 'official', 'Taiwan.md']
 subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-17
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'resources/official-websites.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0d481ed818da82f8'
-sourceBodyHash: 'sha256:6713c8a6c615e62a'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:029227bd7721737f'
+sourceBodyHash: 'sha256:0c3be7e5f653ab89'
+translatedAt: '2026-09-19T11:59:07+08:00'
 ---
 
-# Kumpulan Sumber Daya Situs Web Resmi Taiwan 🏛️
+# Koleksi Sumber Daya Situs Web Resmi Taiwan 🏛️
 
-> **Ringkasan 30 detik:** Mencakup lengkap 81 situs web resmi dari lembaga pemerintah Taiwan, institusi seni dan budaya, serta platform data terbuka, menyediakan pintu masuk satu atap untuk layanan pemerintah, informasi kebijakan, konten budaya, dan data statistik. Mulai dari sistem lima yuan hingga kementerian, dari Museum Palace Nasional hingga platform data terbuka, kuasai secara menyeluruh sumber daya digital resmi Taiwan.
+> **30 detik ikhtisar:** Koleksi lengkap 81 situs web resmi pemerintah Taiwan, lembaga budaya dan seni, platform data terbuka, dan lain-lainnya, menyediakan layanan pemerintah, informasi kebijakan, konten budaya, data statistik, dan pintu gerbang tunggal. Dari struktur lima dewan hingga berbagai kementerian, dari Istana Kuno hingga platform data terbuka, kuasai semua sumber daya digital resmi Taiwan secara menyeluruh.
 
-## Mengapa Hal Ini Penting
+## Mengapa Ini Penting
 
-Situs web resmi Taiwan tidak hanya menyediakan layanan pemerintah dan informasi kebijakan, tetapi juga merupakan jendela penting untuk memahami sistem politik, perkembangan budaya, dan tata kelola sosial Taiwan. Situs-situs ini mencerminkan transparansi politik demokrasi Taiwan, tingkat kemajuan tata kelola digital, serta perhatian terhadap pelestarian dan promosi budaya. Bagi berbagai pihak yang mempelajari Taiwan, memahami Taiwan, atau membutuhkan informasi resmi, kumpulan sumber ini menyediakan panduan sumber informasi paling otoritatif.
+Situs web resmi Taiwan tidak hanya menyediakan layanan pemerintah dan informasi kebijakan, tetapi juga menjadi jendela penting untuk memahami sistem politik, perkembangan budaya, dan tata kelola sosial Taiwan. Situs-situs ini mencerminkan transparansi politik demokrasi Taiwan, tingkat kemajuan tata kelola digital, dan pentingnya pelestarian serta promosi budaya. Untuk mereka yang meneliti Taiwan, ingin memahami Taiwan, atau membutuhkan informasi resmi, koleksi sumber daya ini menyediakan panduan sumber informasi paling otoritatif.
 
 ## Kategori Inti
 
-### 💫 Lembaga Pemerintah Pusat (Lima Yuan)
+### 💫 Kementerian Pemerintah Pusat (Lima Dewan)
 
-#### 🏛️ Kantor Presiden Republik Tiongkok (Taiwan)
+#### 🏛️ Istana Presiden
 
-### [Kantor Presiden Republik Tiongkok (Taiwan)](https://www.president.gov.tw/) 🌐
+### [Istana Presiden Republik Tiongkok (Taiwan)](https://www.president.gov.tw/) 🌐
 
-Situs web resmi Kantor Presiden, informasi terkait kepala negara dan pernyataan kebijakan
+Situs web resmi Istana Presiden, informasi kepala negara dan pengumuman kebijakan
 
-### [Versi Bahasa Inggris Kantor Presiden](https://english.president.gov.tw/) 🇬🇧
+### [Versi Inggris Istana Presiden](https://english.president.gov.tw/) 🇬🇧
 
-Situs web resmi bahasa Inggris Kantor Presiden, jendela luar negeri
+Situs web resmi Inggris Istana Presiden, jendela luar negeri
 
-#### ⚖️ Sistem Lima Yuan
+#### ⚖️ Struktur Lima Dewan
 
-### [Yuan Eksekutif](https://www.ey.gov.tw/) 🇹🇼
+### [Dewan Eksekutif](https://www.ey.gov.tw/) 🇹🇼
 
-Lembaga eksekutif tertinggi, pelaksanaan dan koordinasi kebijakan
+Lembaga eksekutif tertinggi, pelaksanaan kebijakan dan koordinasi
 
-### [Yuan Legislatif](https://www.ly.gov.tw/) 🇹🇼
+### [Dewan Legislatif](https://www.ly.gov.tw/) 🇹🇼
 
-Lembaga legislatif negara, pembahasan undang-undang dan pengawasan
+Lembaga legislatif nasional, pembahasan rancangan undang-undang dan pengawasan
 
-### [Yuan Yudikatif](https://www.judicial.gov.tw/) 🇹🇼
+### [Dewan Yudikatif](https://www.judicial.gov.tw/) 🇹🇼
 
 Lembaga yudikatif tertinggi, kebijakan dan sistem peradilan
 
-### [Yuan Eksaminasi](https://www.exam.gov.tw/) 🇹🇼
+### [Dewan Eksaminasi](https://www.exam.gov.tw/) 🇹🇼
 
-Eksaminasi dan manajemen pegawai negeri, informasi ujian negara
+Pengujian dan pengelolaan pegawai negeri, informasi ujian nasional
 
-### [Yuan Pengawasan](https://www.cy.gov.tw/) 🇹🇼
+### [Dewan Pengawas](https://www.cy.gov.tw/) 🇹🇼
 
-Lembaga pengawasan dan impeachment, fungsi pengawasan pemerintah
+Lembaga pengawasan dan pengaduan, kewenangan pengawasan pemerintah
 
 ---
 
-### 🏢 Kementerian dan Komisi di bawah Yuan Eksekutif
+### 🏢 Kementerian di Bawah Dewan Eksekutif
 
 #### 🌐 Hubungan Luar Negeri dan Pengembangan Digital
 
 ### [Kementerian Luar Negeri](https://www.mofa.gov.tw/) 🌐
 
-Kebijakan luar negeri dan hubungan internasional, layanan konsuler
+Kebijakan diplomasi dan hubungan internasional, layanan konsuler
 
 ### [Kementerian Pengembangan Digital](https://moda.gov.tw/) 🌐
 
-Kebijakan transformasi digital dan negara cerdas, infrastruktur digital
+Transformasi digital dan kebijakan negara cerdas, infrastruktur digital
 
 #### 🎨 Budaya dan Pendidikan
 
@@ -82,13 +82,13 @@ Kebijakan budaya dan promosi seni, pelestarian warisan budaya
 
 ### [Kementerian Pendidikan](https://www.moe.gov.tw/) 🇹🇼
 
-Kebijakan pendidikan dan perkembangan akademik, manajemen pendidikan berbagai tingkat
+Kebijakan pendidikan dan pengembangan akademik, pengelolaan pendidikan semua tingkatan
 
 #### 💼 Ekonomi dan Industri
 
 ### [Kementerian Ekonomi](https://www.moea.gov.tw/) 🌐
 
-Kebijakan ekonomi dan pengembangan industri, promosi investasi
+Kebijakan ekonomi dan pengembangan industri, pendorong investasi
 
 ### [Kementerian Pertanian](https://www.moa.gov.tw/) 🇹🇼
 
@@ -96,19 +96,19 @@ Kebijakan pertanian dan keamanan pangan, modernisasi pertanian
 
 #### 🏥 Layanan Sosial
 
-### [Kementerian Kesejahteraan Sosial dan Kesehatan](https://www.mohw.gov.tw/) 🌐
+### [Kementerian Kesehatan dan Kesejahteraan](https://www.mohw.gov.tw/) 🌐
 
-Kesehatan masyarakat dan kesejahteraan sosial, kebijakan medis
+Kesehatan masyarakat dan kesejahteraan sosial, kebijakan kesehatan
 
-### [Kementerian Tenaga Kerja](https://www.mol.gov.tw/) 🇹🇼
+### [Kementerian Ketenagakerjaan](https://www.mol.gov.tw/) 🇹🇼
 
-Urusan pekerja dan kebijakan ketenagakerjaan, hak-hak pekerja
+Urusan tenaga kerja dan kebijakan penempatan, hak-hak pekerja
 
 #### 🚗 Infrastruktur Dasar
 
 ### [Kementerian Transportasi](https://www.motc.gov.tw/) 🇹🇼
 
-Kebijakan transportasi dan infrastruktur transportasi, keamanan transportasi
+Kebijakan transportasi dan infrastruktur, keselamatan lalu lintas
 
 ### [Kementerian Lingkungan](https://www.moenv.gov.tw/) 🌐
 
@@ -118,245 +118,245 @@ Perlindungan lingkungan dan kebijakan iklim, pembangunan berkelanjutan
 
 ### [Kementerian Pertahanan](https://www.mnd.gov.tw/) 🌐
 
-Urusan pertahanan dan kebijakan militer, keamanan negara
+Urushan pertahanan dan kebijakan militer, keamanan nasional
 
 ### [Kementerian Dalam Negeri](https://www.moi.gov.tw/) 🇹🇼
 
-Urusan dalam negeri dan manajemen sipil, layanan pendaftaran penduduk
+Urushan internal dan administrasi sipil, layanan kelengkapan keluarga
 
-### [Kementerian Kehakiman](https://www.moj.gov.tw/) 🇹🇼
+### [Kementerian Hukum](https://www.moj.gov.tw/) 🇹🇼
 
-Urusan hukum dan administrasi peradilan,業務 korektif
+Urushan hukum dan administrasi peradilan, penanganan pemasyarakatan
 
 ### [Kementerian Keuangan](https://www.mof.gov.tw/) 🌐
 
-Kebijakan fiskal dan manajemen pajak, manajemen kas negara
+Kebijakan keuangan dan pengelolaan pajak, pengelolaan kas negara
 
 #### 🔬 Riset dan Perencanaan
 
-### [Komisi Sains dan Teknologi Nasional](https://www.nstc.gov.tw/) 🌐
+### [Komite Nasional Ilmu Pengetahuan dan Teknologi](https://www.nstc.gov.tw/) 🌐
 
-Kebijakan sains dan teknologi serta riset, promosi penelitian akademik
+Kebijakan ilmiah dan riset, dorongan riset akademis
 
-### [Komisi Pembangunan Nasional](https://www.ndc.gov.tw/) 🌐
+### [Komite Nasional Pengembangan](https://www.ndc.gov.tw/) 🌐
 
-Perencanaan dan kebijakan pembangunan nasional, rencana prospektif
+Perencanaan dan kebijakan pembangunan nasional, inisiatif masa depan
 
-#### 🌏 Komisi Khusus
+#### 🌏 Komite Khusus
 
-### [Komisi Urusan Daratan Tiongkok](https://www.mac.gov.tw/) 🌐
+### [Komite Pengawal Pulau Tiongkok](https://www.mac.gov.tw/) 🌐
 
-Urusan lintas selat dan kebijakan, manajemen pertukaran lintas selat
+Urushan pulau Tiongkok dan kebijakan, pengelolaan pertukaran pulau selat
 
-### [Komisi Urusan Orang Asli Taiwan](https://www.cip.gov.tw/) 🌐
+### [Komite Pengawal Suku Asli](https://www.cip.gov.tw/) 🌐
 
-Urusan dan budaya orang asli Taiwan, hak-hak kelompok etnis
+Urushan suku asli dan budaya, hak-hak kelompok etnis
 
-### [Komisi Urusan Hakka](https://www.hakka.gov.tw/) 🌐
+### [Komite Pengawal Komunitas Hakka](https://www.hakka.gov.tw/) 🌐
 
 Budaya dan urusan Hakka, promosi bahasa dan budaya
 
-### [Komisi Urusan Diaspora](https://www.ocac.gov.tw/ocac/) 🌐
+### [Komite Pengawal Keturangan](https://www.ocac.gov.tw/ocac/) 🌐
 
-Layanan dan kebijakan diaspora, layanan kepada warga di luar negeri
+Layanan keterampilan dan kebijakan, pelayanan keturangan di luar negeri
 
 #### 🏦 Keuangan dan Profesional
 
-### [Komisi Pengawasan dan Manajemen Keuangan](https://www.fsc.gov.tw/) 🌐
+### [Komite Pengawas Keuangan](https://www.fsc.gov.tw/) 🌐
 
-Pengawasan dan manajemen keuangan, stabilitas pasar keuangan
+Pengawasan dan pengelolaan keuangan, stabilitas pasar keuangan
 
-### [Komisi Kelautan](https://www.oac.gov.tw/) 🌐
+### [Komite Laut](https://www.oac.gov.tw/) 🌐
 
-Urusan kelautan dan kebijakan, manajemen wilayah laut
+Urushan laut dan kebijakan, pengelolaan perairan
 
-### [Komisi Bantu dan Bimbingan Pensiunan Tentara](https://www.vac.gov.tw/) 🌐
+### [Komite Pensiun Mantan Pegawai Militer](https://www.vac.gov.tw/) 🌐
 
-Bantuan dan layanan untuk pensiunan tentara, penempatan kerja
+Pembantu dan layanan mantan pegawai militer, penempatan kerja
 
-### [Komisi Teknik Publik](https://www.pcc.gov.tw/) 🌐
+### [Komite Proyek Umum](https://www.pcc.gov.tw/) 🌐
 
-Kebijakan teknik publik dan pengawasan pengadaan, kualitas teknik
+Kebijakan proyek umum dan pengawasan pengadaan, kualitas proyek
 
 ---
 
-### 🏛️ Lembaga Afiliasi Penting
+### 🏛️ Lembaga Pendukung Penting
 
 #### 🌦️ Layanan Dasar
 
-### [Administrasi Meteorologi Pusat](https://www.cwa.gov.tw/) 🌐
+### [Badan Meteorologi Pusat](https://www.cwa.gov.tw/) 🌐
 
-Prakiraan cuaca, iklim, dan gempa bumi, informasi pencegahan bencana
+Prakiraan cuaca, iklim, gempa bumi, informasi bencana
 
-### [Administrasi Asuransi Kesehatan Nasional](https://www.nhi.gov.tw/) 🇹🇼
+### [Badan Asuransi Kesehatan Nasional](https://www.nhi.gov.tw/) 🇹🇼
 
-Sistem asuransi kesehatan nasional, pembayaran layanan medis
+Sistem asuransi kesehatan nasional, pembayaran layanan kesehatan
 
-#### 🛂 Keluar-Masuk dan Keamanan
+#### 🛂 Imigrasi dan Keamanan
 
-### [Administrasi Pariwisata Kementerian Transportasi](https://eng.taiwan.net.tw/) 🇬🇧
+### [Badan Pariwisata Kementerian Transportasi](https://eng.taiwan.net.tw/) 🇬🇧
 
-Promosi pariwisata dan informasi perjalanan, pemasaran internasional
+Promosi pariwisata dan informasi wisata, pemasaran internasional
 
-### [Administrasi Imigrasi Kementerian Dalam Negeri](https://www.immigration.gov.tw/) 🌐
+### [Badan Imigrasi Kementerian Dalam Negeri](https://www.immigration.gov.tw/) 🌐
 
-Manajemen keluar-masuk dan layanan imigrasi, layanan bagi orang asing
+Pengelolaan masuk dan keluar, layanan imigran asing
 
 #### 🏥 Pengawasan Profesional
 
-### [Administrasi Pengendalian Penyakit Kementerian Kesejahteraan Sosial dan Kesehatan](https://www.cdc.gov.tw/) 🌐
+### [Badan Pengendalian Penyakit Kementerian Kesehatan dan Kesejahteraan](https://www.cdc.gov.tw/) 🌐
 
-Pencegahan penyakit dan kesehatan masyarakat, pemantauan penyakit menular
+Pencegahan penyakit dan kesehatan masyarakat, pengawasan penyakit menular
 
-### [Administrasi Makanan dan Obat-obatan Kementerian Kesejahteraan Sosial dan Kesehatan](https://www.fda.gov.tw/) 🌐
+### [Badan Pengawas Obat dan Makanan Kementerian Kesehatan dan Kesejahteraan](https://www.fda.gov.tw/) 🌐
 
-Keamanan makanan dan obat-obatan, perlindungan konsumen
+Pengelolaan keamanan makanan dan obat-obatan, perlindungan konsumen
 
-#### 💼 Perdagangan dan Ekonomi Profesional
+#### 💼 Profesional Dagang
 
-### [Administrasi Hak Kekayaan Intelektual Kementerian Ekonomi](https://www.tipo.gov.tw/) 🌐
+### [Kantor Hak Cipta Cerdas Kementerian Ekonomi](https://www.tipo.gov.tw/) 🌐
 
-Perlindungan dan manajemen hak kekayaan intelektual, paten dan merek dagang
+Perlindungan dan pengelolaan hak cipta, paten dan merek dagang
 
-### [Administrasi Perdagangan Internasional Kementerian Ekonomi](https://www.trade.gov.tw/) 🌐
+### [Kantor Dagang Internasional Kementerian Ekonomi](https://www.trade.gov.tw/) 🌐
 
-Kebijakan perdagangan internasional dan promosi, promosi ekspor
+Kebijakan dan promosi dagang internasional, dorongan ekspor
 
-### [Administrasi Standar dan Inspeksi Kementerian Ekonomi](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
+### [Kantor Standar dan Pengujian Kementerian Ekonomi](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
 
-Penetapan standar dan inspeksi produk, jaminan kualitas
+Penetapan standar dan pengujian produk, jaminan kualitas
 
 ---
 
-### 🎭 Institusi Seni dan Budaya
+### 🎭 Lembaga Seni dan Budaya
 
 #### 🏛️ Museum Nasional
 
-### [Museum Palace Nasional](https://www.npm.gov.tw/) 🌐
+### [Museum Nasional Istana Kuno](https://www.npm.gov.tw/) 🌐
 
-Koleksi permadani budaya Tionghoa, pameran artefak kelas dunia
+Koleksi khazanah budaya Tionghoa, pameran warisan dunia
 
-### [Galeri Seni Nasional Taiwan](https://www.ntmofa.gov.tw/) 🌐
+### [Museum Seni Modern Taiwan](https://www.ntmofa.gov.tw/) 🌐
 
-Pameran dan penelitian seni modern Taiwan, pendidikan seni
+Pameran dan riset seni modern Taiwan, pendidikan seni
 
-### [Museum Sejarah Nasional Taiwan](https://www.nmth.gov.tw/) 🌐
+### [Museum Sejarah Taiwan](https://www.nmth.gov.tw/) 🌐
 
-Penelitian dan koleksi budaya sejarah Taiwan, budaya lokal
+Riset koleksi sejarah dan budaya Taiwan, budaya lokal
 
-### [Museum Nasional Taiwan](https://www.ntm.gov.tw/) 🌐
+### [Museum Taiwan](https://www.ntm.gov.tw/) 🌐
 
-Koleksi sejarah alam dan humaniora Taiwan, pendidikan sains
+Koleksi sains alam dan kemanusiaan Taiwan, pendidikan ilmiah
 
-### [Museum Sains Nasional](https://www.nmns.edu.tw/ch/) 🌐
+### [Museum Ilmu Pengetahuan Alam Nasional](https://www.nmns.edu.tw/ch/) 🌐
 
-Pendidikan dan penelitian sains alam, promosi sains populer
+Pendidikan dan riset ilmu pengetahuan alam, promosi ilmiah
 
-### [Museum Seni Industri dan Teknologi Nasional](https://www.nstm.gov.tw) 🌐
+### [Museum Ilmu Pengetahuan dan Teknologi Nasional](https://www.nstm.gov.tw) 🌐
 
-Pameran aplikasi teknologi dan industri, pendidikan industri
+Pameran aplikasi teknologi dan kerajinan, pendidikan industri
 
-### [Museum Biologi Kelautan Nasional](https://www.nmmba.gov.tw/) 🌐
+### [Museum Biologi Laut Nasional](https://www.nmmba.gov.tw/) 🌐
 
-Penelitian dan pendidikan biologi kelautan, pelestarian ekologi
+Riset dan pendidikan biologi laut, pelestarian ekosistem
 
-#### 🎨 Institusi Seni Metropolitan
+#### 🎨 Lembaga Seni Kota
 
-### [Galeri Seni Nasional Kota Taipei](https://www.tfam.museum/) 🌐
+### [Museum Seni Kota Taipei](https://www.tfam.museum/) 🌐
 
-Pameran dan koleksi seni kontemporer, seni metropolitan
+Pameran seni kontemporer dan koleksi, seni kota
 
-### [Galeri Seni Nasional Kota Kaohsiung](https://www.kmfa.gov.tw/) 🌐
+### [Museum Seni Kota Kaohsiung](https://www.kmfa.gov.tw/) 🌐
 
-Pameran seni modern dan seni Taiwan Selatan, budaya regional
+Pameran seni modern dan seni selatan Taiwan, budaya regional
 
 #### 🎭 Pusat Seni Pertunjukan
 
-### [Yuan Seni Pertunjukan Nasional](https://npac-ntch.org/zh) 🌐
+### [Dewan Kedua Lembaga Seni](https://npac-ntch.org/zh) 🌐
 
-Pusat seni pertunjukan tingkat nasional, pertunjukan klasik
+Pusat pertunjukan seni nasional, pertunjukan klasik
 
-### [Pusat Budaya Seni Nasional Weiwuying](https://www.npac-weiwuying.org/) 🌐
+### [Pusat Seni dan Budaya Nasional Wuhu](https://www.npac-weiwuying.org/) 🌐
 
-Pusat seni pertunjukan bangunan tunggal terbesar di dunia, arsitektur modern
+Pusat pertunjukan seni terbesar di satu bangunan di dunia, arsitektur modern
 
-### [Teater Opera Nasional Taichung](https://www.npac-ntt.org/index) 🌐
+### [Opera Nasional Taichung](https://www.npac-ntt.org/index) 🌐
 
-Venue seni pertunjukan arsitektur modern, estetika arsitektur
+Gedung pertunjukan seni dengan arsitektur modern, estetika bangunan
 
-#### 🎬 Institusi Promosi Budaya
+#### 🎬 Lembaga Promosi Budaya
 
-### [Bank Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw) 🌐
+### [Arsip Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw) 🌐
 
 Koleksi digital memori budaya Taiwan, pelestarian budaya
 
-### [TAICCA (Institut Konten Budaya)](https://taicca.tw/) 🌐
+### [Lembaga Kreatif TAICCA](https://taicca.tw/) 🌐
 
-Majukan industri konten budaya, ekonomi kreatif
+Dorongan industri konten budaya, ekonomi kreatif
 
-### [Pusat Budaya Film dan Audiovisual Nasional](https://www.tfai.org.tw/zh/) 🌐
+### [Pusat Film dan Audio Visual Nasional](https://www.tfai.org.tw/zh/) 🌐
 
-Koleksi dan promosi budaya film dan audiovisual, budaya film
+Koleksi dan promosi budaya audio visual, budaya film
 
 #### 📰 Media Seni dan Budaya
 
-### [ARTouch (Diancang)](https://artouch.com/) 🌐
+### [ARTouch Koleksi](https://artouch.com/) 🌐
 
-Media berita seni dan ulasan mendalam paling berindikator di Taiwan, mencakup seni kontemporer, seni kuno, pasar seni, dan ulasan pameran. Sejak peluncuran majalah _Diancang Art_ pada tahun 1992 hingga kini, terus mencatat dinamika seni Taiwan dan internasional, merupakan sumber media penting untuk mempelajari ekosistem seni Taiwan.
+Media berita seni paling berpengaruh di Taiwan, mencakup seni kontemporer, seni klasik, pasar seni, kritik pameran. Sejak didirikan majalah _ARTouch_ pada 1992, terus merekam dinamika seni Taiwan dan internasional, menjadi sumber media penting untuk mengkaji ekosistem seni Taiwan.
 
 ---
 
 ### 📊 Data Terbuka dan Infrastruktur Digital
 
-#### 📚 Riset Akademik
+#### 📚 Riset Akademis
 
-### [Perpustakaan Nasional Republik Tiongkok (Taiwan)](https://www.ncl.edu.tw/) 🇹🇼
+### [Perpustakaan Nasional](https://www.ncl.edu.tw/) 🇹🇼
 
-Perpustakaan dan koleksi literatur tingkat nasional, sumber akademik
+Perpustakaan nasional dan koleksi dokumen, sumber daya akademis
 
-### [Akademia Sinica](https://www.sinica.edu.tw/) 🌐
+### [Akademi Riset Pusat](https://www.sinica.edu.tw/) 🌐
 
-Lembaga riset akademik tertinggi negara, riset dasar
+Lembaga riset akademis tertinggi nasional, riset dasar
 
-### [Platform Data Empiris Pengalaman Taiwan](https://tesd.survey.sinica.edu.tw/) 🇹🇼
+### [Platform Survei Pengalaman Empiris Taiwan](https://tesd.survey.sinica.edu.tw/) 🇹🇼
 
-Akademia Sinica mengintegrasikan delapan basis data survei ilmu sosial utama (Survei Perubahan Sosial Taiwan, Survei Pemilihan dan Demokratisasi Taiwan, Survei Dinamika Demokrasi Asia, dll.), menyediakan alat analisis statistik daring dan unduhan data, mencakup bidang politik, sosial, demografi, hukum, komunikasi, dan perkembangan anak
+Akademi Riset Pusat menggabungkan delapan database survei ilmu sosial besar (Survei Perubahan Sosial Taiwan, Survei Demokrasi dan Pemilu Taiwan, Survei Dinamika Demokrasi Asia, dll.), menyediakan alat analisis statistik online dan unduh data, mencakup bidang politik, sosial, penduduk, hukum, komunikasi, perkembangan anak-anak
 
-### [Basis Data Survei Komunikasi Taiwan](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
+### [Database Survei Komunikasi Taiwan](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
 
-Platform riset akademik komunikasi yang dibangun oleh Universitas Nasional Tsing Hua dan Universitas Teknologi Yuan Ze (Yuan Ze University/National Chiao Tung University context implied), mengumpulkan dan berbagi data survei terkait komunikasi, mencakup penelitian survei jangka panjang tentang perilaku penggunaan media, komunikasi politik, efek media sosial, dan kepercayaan media. ⚠️ Mulai tahun 2026, sedang dalam proses migrasi dan integrasi ke "Platform Data Empiris Pengalaman Taiwan" (tesd.survey.sinica.edu.tw); situs asli diperkirakan akan ditutup, silakan cari data survei komunikasi di platform baru di masa depan
+Platform riset akademis komunikasi yang dibangun oleh Universitas Yangming-Pusan, mengumpulkan dan berbagi data survei terkait komunikasi, mencakup perilaku penggunaan media, komunikasi politik, efek media sosial, kepercayaan media, dan riset panjang kait. ⚠️ Mulai 2026 sedang dalam proses migrasi dan integrasi ke "Platform Survei Pengalaman Empiris Taiwan" (tesd.survey.sinica.edu.tw), situs lama diharapkan akan ditutup, silakan cari data survei komunikasi di platform baru
 
-#### 🌏 Sumber Akademik Internasional
+#### 🌏 Sumber Daya Akademis Internasional
 
-### [Ensiklopedia Riset Taiwan Brill (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
+### [Ensiklopedia Studi Taiwan Brill (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
 
-Ensiklopedia Taiwan pertama yang diterbitkan oleh penerbit akademik internasional. Diedit oleh Hsiao Hsin-huang dari Akademia Sinica, ditulis oleh lebih dari 400 sarjana internasional dalam sekitar 600 entri, mencakup 15 bidang disiplin: arkeologi, sejarah, linguistik, antropologi, sosiologi, ilmu politik, hubungan internasional, riset orang asli, sastra, studi gender, studi media, film dan dokumenter, musik, seni visual. Sumber akademik berbayar, dapat disubskripsi oleh perpustakaan universitas.
+Ensiklopedia pertama di dunia yang diterbitkan oleh penerbit akademis internasional. Disusun oleh Akademisi Riset Pusat, disunting oleh Xiao Xinhuang, dengan partisipasi lebih dari 400 ahli internasional menulis sekitar 600 artikel, mencakup 15 bidang disiplin ilmu: arkeologi, sejarah, linguistik, antropologi, sosiologi, politik, hubungan internasional, studi suku asli, sastra, studi ganderang, studi media, film dokumenter, musik, seni visual. Sumber daya akademis berbayar, perpustakaan universitas dapat berlangganan.
 
 #### 💾 Koleksi Digital
 
 ### [Platform Data Terbuka Pemerintah](https://data.gov.tw/) 🇹🇼
 
-Platform terpusat data terbuka pemerintah, tata kelola data
+Platform data terbuka pemerintah terpusat, tata kelola data
 
-### [g0v (Pemerintah Nol Waktu)](https://g0v.tw/) 🌐
+### [g0v Pemerintah Nol Waktu](https://g0v.tw/) 🌐
 
 Komunitas teknologi sipil sumber terbuka, tata kelola kolaboratif
 
 ### [Peta Dinamis Kabel Laut Taiwan](https://smc.peering.tw/) 🌐
 
-Peta pemantauan kabel laut real-time yang dibangun oleh pengembang warga Yu Li-heng, mengintegrasikan data terbuka dari Kementerian Pengembangan Digital dan informasi kabel laut internasional, menyajikan status operasional 15 kabel laut internasional dan 10 kabel laut domestik Taiwan secara visual. Menjadi sumber informasi penting yang dikutip oleh media dan lembaga verifikasi fakta selama berbagai peristiwa kabel laut pada tahun 2025, juga menyoroti ketergantungan tinggi Taiwan sebagai negara kepulauan pada keamanan komunikasi kabel laut. Contoh teladan teknologi sipil dan transparansi informasi.
+Peta pemantauan kabel laut secara real-time yang dikembangkan oleh pengembang independen You Liheng, menggabungkan data terbuka dari Kementerian Pengembangan Digital dan informasi kabel laut internasional, menyajikan visualisasi operasional 15 kabel laut internasional dan 10 kabel laut domestik Taiwan. Pada 2025, menjadi sumber informasi penting yang dikutip oleh media dan lembaga verifikasi fakta, menonjolkan ketergantungan tinggi Taiwan sebagai pulau terhadap keamanan komunikasi kabel laut. Contoh kasus teknologi sipil dan transparansi informasi.
 
-### [Diancang Taiwan](https://digitalarchives.tw/) 🌐
+### [Koleksi Digital Taiwan](https://digitalarchives.tw/) 🌐
 
-Koleksi budaya digital Akademia Sinica, humaniora digital
+Koleksi digital budaya Akademi Riset Pusat, humaniora digital. ⚠️ Pada September 2026, saat diperiksa, situs mengembalikan kode 503, mungkin sedang dalam pemeliharaan; "Museum Terbuka" dari Pusat Budaya Digital Akademi Riset Pusat (openmuseum.tw) dapat menjadi pintu masuk alternatif
 
-### [Administrasi Arsip Nasional](https://www.archives.gov.tw/) 🌐
+### [Arsip Nasional Pengelolaan Berkas](https://www.archives.gov.tw/) 🌐
 
-Penyimpanan dan aplikasi arsip nasional, data sejarah
+Penyimpanan dan penggunaan arsip nasional, dokumen sejarah
 
-### [Taman Besar Sains dan Teknologi](https://scitechvista.nat.gov.tw/) 🌐
+### [Taman Ilmu Pengetahuan Teknologi](https://scitechvista.nat.gov.tw/) 🌐
 
-Platform pengetahuan sains populer Komisi Sains dan Teknologi Nasional, pendidikan sains
+Platform pengetahuan populer KST, pendidikan ilmiah
 
 ---
 
@@ -364,45 +364,45 @@ Platform pengetahuan sains populer Komisi Sains dan Teknologi Nasional, pendidik
 
 #### 🌐 Promosi Pemerintah
 
-### [Situs Web Portal Pemerintah](https://www.taiwan.gov.tw/) 🌐
+### [Situs Portal Pemerintah](https://www.taiwan.gov.tw/) 🌐
 
-Pintu masuk informasi pemerintah terpusat, layanan satu atap
+Portal informasi pemerintah terpusat, layanan satu pintu
 
 ### [Taiwan Excellence](https://www.taiwanexcellence.org/en) 🌐
 
-Penghargaan Taiwan Excellence, menampilkan produk berkualitas tinggi Taiwan
+Penghargaan Produk Unggul Taiwan, menampilkan produk berkualitas Taiwan
 
-### [Investasi di Taiwan](https://investtaiwan.nat.gov.tw/) 🌐
+### [Investasi Taiwan](https://investtaiwan.nat.gov.tw/) 🌐
 
-Informasi lingkungan investasi dan kebijakan, menarik investasi
+Informasi lingkungan dan kebijakan investasi, daya tarik investasi
 
 ### [Study in Taiwan](https://www.studyintaiwan.org/) 🇬🇧
 
-Informasi studi di Taiwan dan beasiswa, internasionalisasi pendidikan
+Informasi studi di Taiwan dan beasisana, internasionalisasi pendidikan
 
 #### 📰 Media Resmi
 
-### [Agensi Berita Central (CNA)](https://www.cna.com.tw) 🌐
+### [Kantor Berita Nasional](https://www.cna.com.tw) 🌐
 
-Agensi berita negara, sumber berita otoritatif
+Kantor berita nasional, sumber berita otoritatif
 
 ### [Focus Taiwan](https://focustaiwan.tw/) 🇬🇧
 
-Situs web berita bahasa Inggris CNA, wawasan internasional
+Situs berita Inggris Kantor Berita Nasional, perspektif internasional
 
-### [Radio Taiwan Internasional (BRT)](https://www.rti.org.tw/) 🌐
+### [Radio Televisi Nasional](https://www.rti.org.tw/) 🌐
 
-Stasiun radio siaran luar negeri, layanan multi-bahasa
+Stasiun radio luar negeri, layanan multibahasa
 
 ### [Taiwan Today](https://www.taiwantoday.tw/) 🌐
 
 Platform berita resmi Taiwan, promosi kebijakan
 
-### [Majalah Guanghua Taiwan](https://www.taiwan-panorama.com/) 🌐
+### [Taiwan Light and Fortunes](https://www.taiwan-panorama.com/) 🌐
 
-Majalah promosi budaya Taiwan,展示 kekuatan lunak
+Majalah promosi budaya Taiwan, menampilkan kekuatan lembut
 
-### [Public Television (PTS)](https://www.pts.org.tw/) 🌐
+### [Televisi Umum](https://www.pts.org.tw/) 🌐
 
 Layanan media publik, produksi konten berkualitas
 
@@ -412,97 +412,99 @@ Layanan media publik, produksi konten berkualitas
 
 ### [Bursa Efek Taiwan](https://www.twse.com.tw/) 🌐
 
-Pasar perdagangan sekuritas utama Taiwan, pasar modal
+Pasar efek utama Taiwan, pasar modal
 
-### [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/) 🌐
+### [ITRI](https://www.itri.org.tw/) 🌐
 
 Lembaga riset teknologi industri, pendorong inovasi
 
-### [Administrasi Usaha Kecil dan Menengah serta Perusahaan Startup](https://www.sme.gov.tw/) 🌐
+### [Kantor UMK dan Startup Baru](https://www.sme.gov.tw/) 🌐
 
-Pengembangan usaha kecil dan menengah serta dukungan startup, ekosistem kewirausahaan
+Pengembangan UMK dan dukungan startup, ekosistem kewirausahaan
 
 ---
 
-### ⚖️ Regulasi dan Layanan Publik
+### ⚖️ Peraturan dan Layanan Publik
 
-### [Basis Data Regulasi Nasional](https://law.moj.gov.tw/) 🌐
+### [Database Nasional Peraturan](https://law.moj.gov.tw/) 🌐
 
-Sistem pencarian regulasi lengkap, dasar hukum
+Sistem pencarian peraturan lengkap, fondasi penegakan hukum
 
-### [Badan Asuransi Tenaga Kerja Kementerian Tenaga Kerja](https://www.bli.gov.tw/) 🌐
+### [Kantor Asuransi Tenaga Kerja Kementerian Ketenagakerjaan](https://www.bli.gov.tw/) 🌐
 
-Asuransi tenaga kerja dan jaminan sosial, hak-hak tenaga kerja
+Asuransi tenaga kerja dan jaminan sosial, hak-hak pekerja
 
-### [Taiwan Employment Network](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
+### [Taiwan Job Bank](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
 
 Pencocokan pekerjaan dan layanan karier, sumber daya manusia
 
-### [Sistem Pencarian Data Hukum Yudikatif](https://lawsearch.judicial.gov.tw/) 🌐
+### [Sistem Pencarian Literatur Hukum Mahkamah Tinggi](https://lawsearch.judicial.gov.tw/) 🌐
 
-Sistem pencarian data hukum, praktik peradilan
+Sistem pencarian literatur hukum, praktik peradilan
 
 ---
 
-### 🏛️ Hak Asasi Manusia dan Sistem Demokrasi
+### 🏛️ Hak Asasi Manusia dan Demokrasi
 
-### [Komisi Hak Asasi Manusia Nasional](https://nhrc.cy.gov.tw/) 🌐
+### [Komite Nasional Hak Asasi Manusia](https://nhrc.cy.gov.tw/) 🌐
 
-Perlindungan dan promosi hak asasi manusia, pengawasan hak
+Pelindungan dan promosi hak asasi manusia, pengawasan hak
 
-### [Komisi Pemilihan Nasional](https://web.cec.gov.tw/central) 🌐
+### [Komite Pemilihan Nasional](https://web.cec.gov.tw/central) 🌐
 
-Situs web resmi Komisi Pemilihan, sistem demokrasi
+Situs web resmi komite pemilihan, demokrasi
 
-### [Komisi Keadilan Transisional](https://www.tjc.gov.tw/) 🌐
+### [Transformasi Keadilan (Kantor Hak Asasi Manusia dan Transformasi Keadilan Dewan Eksekutif)](https://www.ey.gov.tw/Page/448DE008087A1971/be17db14-1d39-4f5d-add4-8805b1aa05ab) 🌐
 
-Majukan keadilan transisional (tugas telah selesai), pembersihan sejarah
+Komite Transformasi Keadilan yang didirikan pada 30 Mei 2022 bubar setelah masa jabatan berakhir, situs web lama sudah tidak aktif; tugasnya dialihkan ke enam kementerian yang bertanggung jawab, yaitu Kementerian Hukum, Dalam Negeri, Budaya, Kesehatan dan Kesejahteraan, Pendidikan, dan Komite Nasional Pengembangan, dengan mendirikan "Pertemuan Transformasi Keadilan" dan "Kantor Hak Asasi Manusia dan Transformasi Keadilan" di Dewan Eksekutif untuk koordinasi terpadu. Tautan ke "Rapat Dewan Eksekutif: Capaian dan Pengalihan Tugas Transformasi Keadilan".
+
+---
 
 ## Panduan Penggunaan
 
 ### Cara Memanfaatkan Sumber Daya Ini
 
-#### 🎯 Gunakan Berdasarkan Kategori Kebutuhan
+#### 🎯 Klasifikasikan Berdasarkan Kebutuhan
 
-- **Riset Kebijakan**: Perhatikan buku putih kebijakan dari situs web kementerian dan komisi
-- **Eksplorasi Budaya**: Dari Museum Palace hingga berbagai museum, rasakan kedalaman budaya Taiwan
+- **Kebijakan Riset**: Ikuti kebijakan putih dari situs web kementerian dan komite
+- **Eksplorasi Budaya**: Dari Istana Kuno hingga berbagai museum, rasakan kedalaman budaya Taiwan
 - **Analisis Data**: Platform data terbuka menyediakan data statistik yang kaya
-- **Pencarian Regulasi**: Basis Data Regulasi Nasional adalah dasar hukum paling otoritatif
+- **Pencarian Peraturan**: Database Nasional Peraturan adalah dasar hukum yang paling otoritatif
 
-#### 🔍 Manfaatkan Sumber Daya Multi-bahasa
+#### 🔍 Manfaatkan Sumber Daya Multibahasa
 
-- **Utama Bahasa Mandarin**: Sebagian besar situs web menyediakan konten lengkap bahasa Mandarin tradisional
-- **Layanan Bilingual**: Lembaga luar negeri penting umumnya memiliki versi bahasa Inggris
-- **Promosi Internasional**: Situs web tertentu dirancang khusus untuk pengguna internasional
+- **Bahasa Mandarin sebagai bahasa utama**: Kebanyakan situs menyediakan konten lengkap dalam bahasa Mandarin tradisional
+- **Layanan biling**: Lembaga penting yang berinteraksi dengan luar negeri biasanya memiliki versi bahasa Inggris
+- **Promosi Internasional**: Beberapa situs dirancang khusus untuk pengguna internasional
 
 #### 📱 Ramah Seluler
 
-Sebagian besar situs web pemerintah telah mendukung desain responsif, dapat dinavigasi dengan normal di ponsel dan tablet
+Kebanyakan situs pemerintah telah mendukung desain responsif dan dapat diakses dengan baik di ponsel dan tablet
 
 ---
 
 ## Aplikasi Lanjutan
 
-### Aplikasi Riset Akademik
+### Aplikasi Riset Akademis
 
-Situs web resmi ini adalah sumber data primer untuk mempelajari politik, sosial, dan budaya Taiwan, sangat cocok untuk:
+Situs web resmi ini adalah sumber data primer untuk mengkaji politik, sosial, dan budaya Taiwan, sangat cocok untuk:
 
-- Riset ilmu politik dan administrasi publik
+- Riset politik dan administrasi publik
 - Survei lapangan sosiologi dan antropologi
 - Analisis statistik ekonomi
-- Riset budaya dan studi komparatif
+- Studi budaya dan riset perbandingan
 
 ### Aplikasi Bisnis
 
-- **Investor**: Pahami kebijakan industri melalui situs web departemen ekonomi
-- **Investor Asing**: Manfaatkan situs web "Investasi di Taiwan" untuk memahami lingkungan investasi
-- **Wirausahawan**: Administrasi UKM menyediakan sumber daya dan bimbingan kewirausahaan
+- **Investor**: Melalui situs web kementerian ekonomi, pahami kebijakan industri
+- **Perusahaan asing**: Manfaatkan situs web Investasi Taiwan untuk memahami lingkungan investasi
+- **Pengusaha**: Kantor UMK dan Startup Baru menyediakan sumber daya dan bimbingan untuk berwirausaha
 
-### Partisipasi Warga
+### Partisipasi Sipil
 
-- **Pengawasan Kebijakan**: Perhatikan dinamika kebijakan melalui situs web kementerian
-- **Perlindungan Hak**: Pahami hak dan prosedur aplikasi melalui situs web lembaga terkait
-- **Partisipasi Budaya**: Situs web institusi seni dan budaya menyediakan informasi kegiatan budaya yang kaya
+- **Pengawasan Kebijakan**: Melalui situs web kementerian, ikuti perkembangan kebijakan
+- **Pelindungan Hak**: Manfaatkan situs web lembaga terkait untuk memahami hak dan prosedur pengajuan
+- **Partisipasi Budaya**: Situs web lembaga seni dan budaya menyediakan informasi aktivitas budaya yang kaya
 
 ---
 
@@ -510,4 +512,4 @@ Situs web resmi ini adalah sumber data primer untuk mempelajari politik, sosial,
 
 ---
 
-_Kumpulan sumber ini mencakup 81 situs web resmi, merupakan panduan lengkap untuk memahami operasi pemerintah Taiwan, perkembangan budaya, dan layanan sosial. Disarankan untuk menyimpan sebagai referensi dan menggunakannya berdasarkan kategori kebutuhan._
+_Koleksi sumber daya ini mencakup 81 situs web resmi, merupakan panduan lengkap untuk memahami operasional pemerintah Taiwan, perkembangan budaya, dan layanan sosial. Disarankan untuk disimpan dan digunakan sesuai kebutuhan._
