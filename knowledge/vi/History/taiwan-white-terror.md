@@ -1,10 +1,8 @@
 ---
 title: 'Khủng bố Trắng tại Đài Loan'
 description: 'Thiết quân luật kéo dài 38 năm không được duy trì nhờ vài nghìn mật vụ, mà nhờ chế độ “bảo chứng liên đới”, buộc hai triệu gia đình trên khắp Đài Loan phải bảo lãnh lẫn nhau để được đi làm, nhập học và kết hôn. Trần Trí Hùng, Thi Thủy Hoàn, Cao Nhất Sinh, Bá Dương — bốn cái tên, bốn lý do bị bắt, cùng một bộ máy.'
-date: '2026-04-05'
-author: 'Taiwan.md'
+date: 2026-04-05
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     'lịch sử',
@@ -15,15 +13,17 @@ tags:
     'Đảo Xanh',
     'Mã Trường Đinh',
   ]
-readingTime: '11'
-lastVerified: '2026-04-05'
-lastHumanReview: 'false'
-featured: 'true'
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
+lastVerified: 2026-04-05
+lastHumanReview: false
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-18T18:59:51+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-19T17:18:46.730544+00:00'
 ---
 
 # Khủng bố Trắng tại Đài Loan
@@ -155,29 +155,30 @@ Vào Ngày Nhân quyền Thế giới năm 2013, con trai Cao Nhất Sinh là Ca
 
 ---
 
-## Vì sao giai đoạn lịch sử này vẫn chưa kết thúc
+## Tại sao lịch sử này vẫn chưa kết thúc
 
-Thật dễ để nói rằng “Khủng bố Trắng đã là chuyện quá khứ”. Thiết quân luật được dỡ bỏ năm 1987, Điều lệ trừng trị phản loạn bị bãi bỏ năm 1991, quỹ bồi thường được thành lập năm 1995 và Ủy ban Thúc đẩy Công lý Chuyển tiếp bắt đầu hoạt động năm 2018. Đã 38 năm kể từ khi bộ máy nhà nước ngừng giết người.
+Việc nói rằng "Khủng bố Trắng đã qua" là điều dễ dàng. Sau khi dỡ bỏ lệnh giới nghiêm năm 1987, bãi bỏ Quy chế xét xử phản loạn năm 1991 và thành lập Quỹ Bồi thường năm 1995, cùng với sự ra đời của quá trình chuyển đổi dân chủ vào năm 2018, bộ máy nhà nước đã không còn giết người được 38 năm.
 
-Nhưng nếu mở lịch sử gia đình của bất kỳ người Đài Loan nào sinh từ thập niên 1950 đến 1980 và lật đến những trang viết về cha mẹ họ, hai chữ “bảo lãnh” thường sẽ xuất hiện, theo sau là một khoảng ngập ngừng. Chú của người ấy từng từ chối bảo lãnh, hàng xóm từng đứng ra bảo lãnh, ông ngoại từng suýt mất việc vì không có người bảo lãnh. Chính khoảng ngập ngừng đó là nơi Khủng bố Trắng vẫn chưa kết thúc.
+Nhưng nếu mở bất kỳ cuốn gia phả nào của một người Đài Loan sinh từ những năm 1950-1980, và lật đến trang của cha mẹ họ, hai chữ "bảo lãnh" (作保) thường xuất hiện, rồi dừng lại một chút. Chú họ từ chối bảo lãnh, hàng xóm của họ từng bảo lãnh, còn ông ngoại vì không có người bảo lãnh mà suýt bị mất việc. Khoảnh khắc ngưng đọng đó chính là nơi Khủng bố Trắng chưa kết thúc.
 
-Trần Trí Hùng bị xử bắn tại Mã Trường Đinh năm 1963. Cao Nhất Sinh bị xử bắn tại Đài Bắc năm 1954. Thi Thủy Hoàn bị xử bắn tại Đài Bắc năm 1956. Gia đình họ phải mất nửa thế kỷ mới dám công khai nhắc đến những cái tên ấy. Công cuộc công lý chuyển tiếp tại Đài Loan đã hủy bỏ 5.983 bản án có tội,[^3] thành lập các công viên tưởng niệm và dựng bia tưởng niệm.
+Trần Trí Hùng (陳智雄) bị bắn chết năm 1963 tại Mã Trường. Cao Nhất Sinh (高一生) bị bắn chết năm 1954 tại Đài Bắc. Thi Thủy Hoàn (施水環) bị bắn chết năm 1956 tại Đài Bắc. Gia đình họ đã mất nửa thế kỷ mới dám công khai nhắc đến những cái tên này. Công lý chuyển tiếp của Đài Loan đã hủy bỏ 5.983 bản án kết tội, [^3] thành lập các khu tưởng niệm và dựng bia tưởng niệm.
 
-Tuy nhiên, hậu duệ của 5.000 người cung cấp tin trong các trường đại học vẫn đang sinh sống, làm việc và bỏ phiếu tại Đài Loan. Không có đạo luật thanh lọc nào buộc họ phải trình bày rõ cha hoặc ông mình từng làm gì.[^6] Cái gọi là “quá khứ” chưa bao giờ được công khai đối chiếu sổ sách.
+Nhưng con cháu của khoảng 5.000 người dân trong các trường đại học vẫn đang sống, làm việc và bầu cử tại Đài Loan. Việc cha hay ông họ đã làm gì không có cơ chế nào buộc họ phải nói rõ. [^6] Cái gọi là "quá khứ" chưa bao giờ được đối chiếu công khai.
 
-Đây không phải là thù hận, mà là sổ nợ. Ngày Khủng bố Trắng kết thúc sẽ không phải là ngày thiết quân luật được dỡ bỏ, cũng không phải ngày Ủy ban Thúc đẩy Công lý Chuyển tiếp giải thể. Đó sẽ là ngày xã hội Đài Loan sẵn lòng thừa nhận rằng dấu vết của chế độ từng biến hai triệu gia đình thành mạng lưới giám sát lẫn nhau vẫn hằn sâu trong nỗi bất an của chúng ta đối với hàng xóm, người xa lạ và hai chữ “bảo lãnh”.
+Đây không phải là thù hận, mà là sổ sách kế toán. Ngày Khủng bố Trắng kết thúc sẽ không phải là ngày dỡ bỏ lệnh giới nghiêm, cũng không phải là ngày giải tán quá trình chuyển đổi dân chủ. Mà là khi xã hội Đài Loan sẵn lòng thừa nhận: cái chế độ đã biến hai triệu hộ gia đình thành một mạng lưới giám sát lẫn nhau đó, dấu vết của nó vẫn còn khắc trong sự bất an của chúng ta đối với hàng xóm, đối với người xa lạ, và đối với hai chữ "bảo lãnh".
 
 **Đọc thêm**:
 
-- [Chuyển đổi dân chủ tại Đài Loan](/vi/history/taiwan-democratization) — toàn cảnh bốn thập niên chuyển đổi từ thiết quân luật sang một trong những thể chế dân chủ tự do nhất châu Á
-- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — khuôn khổ pháp lý kéo dài 38 năm 56 ngày và tiến trình dỡ bỏ thiết quân luật
-- [Công lý chuyển tiếp tại Đài Loan](/history/台灣轉型正義) — công cuộc điều tra sự thật và truy cứu người gây hại còn dang dở sau khi thiết quân luật được dỡ bỏ
-- [Bảo tàng Nhân quyền Quốc gia](/history/國家人權博物館) — cơ quan quản lý hai công viên tưởng niệm Khủng bố Trắng tại Cảnh Mỹ và Đảo Xanh, từ sáu năm chuẩn bị đến việc ngân sách bị đóng băng năm 2025
-- [Sự kiện 28 tháng 2](/history/二二八事件) — khúc dạo đầu của Khủng bố Trắng và cách cuộc đàn áp năm 1947 báo trước chế độ thiết quân luật
-- [Sự kiện Mỹ Lệ Đảo](/history/美麗島事件) — bước ngoặt quan trọng trong giai đoạn cuối của Khủng bố Trắng năm 1979
-- [A Lý Sơn: lâm trường của đế quốc và ngọn núi của Cao Nhất Sinh](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — câu chuyện về ngọn núi của Cao Nhất Sinh và một cộng đồng sắc tộc bị buộc phải im tiếng
-- [Hóa đơn: tờ giấy năm 1951 biến toàn dân thành thanh tra thuế](/economy/發票) — bản thân Nhậm Hiển Quần, người thiết kế chế độ hóa đơn, cũng sống trong cùng thời đại; năm 1955, ông bị bỏ tù vì “biết có cộng sản mà không tố giác” — chỉ một chiếc mũ tội danh cũng đủ đoạt mạng
-- [Ân Hải Quang](/vi/people/yin-haiguang-liberalism-philosopher) — giáo sư triết học Đại học Quốc lập Đài Loan bị quản thúc tại ngõ 18 đường Ôn Châu sau vụ Lôi Chấn năm 1960, một trong những người đặt nền móng cho chủ nghĩa tự do tại Đài Loan
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Toàn cảnh quá trình chuyển đổi bốn thập kỷ từ lệnh giới nghiêm đến thể chế dân chủ tự do nhất châu Á
+- [Thời kỳ giới nghiêm](/vi/history/martial-law-era) — Vỏ bọc pháp lý và quá trình dỡ bỏ lệnh giới nghiêm kéo dài 38 năm 56 ngày
+- [Công lý chuyển tiếp Đài Loan](/vi/history/taiwan-transitional-justice) — Công cuộc điều tra sự thật sau khi dỡ bỏ lệnh giới nghiêm và truy cứu thủ phạm chưa hoàn thành
+- [Bảo tàng Nhân quyền Quốc gia](/vi/history/national-human-rights-museum) — Cơ quan quản lý hai khu tưởng niệm Khủng bố Trắng ở Cảnh Mỹ và Lục Đảo, từ sáu năm chuẩn bị đến việc ngân sách bị đóng băng vào năm 2025
+- [Sự kiện Hai Hai Ba](/vi/history/228-incident) — Tiền đề của Khủng bố Trắng, sự đàn áp năm 1947 đã báo trước chế độ giới nghiêm
+- [Sự kiện Cao Hùng](/vi/history/kaohsiung-incident-formosa-incident) — Bước ngoặt quan trọng vào cuối thời kỳ Khủng bố Trắng năm 1979
+- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Cơ quan đã xuất bản các cuộc phỏng vấn truyền miệng về 《Ký ức Trắng》 của Viện Lịch sử Đài Loan, và giai đoạn chuyển hướng đối tượng nghiên cứu sang hòn đảo này
+- [Ây Sơn: Vườn cây của đế quốc và Cao Nhất Sinh](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — Câu chuyện về núi của Cao Nhất Sinh và sự bịt miệng của các dân tộc bản địa
+- [Hóa đơn: Tờ giấy năm 1951 biến toàn dân thành nhân viên kiểm tra thuế](/vi/economy/taiwan-uniform-invoice) — Bản thân người thiết kế hệ thống hóa đơn, Nhậm Hiển Quần (任顯群), cũng sống trong cùng thời đại, bị bắt giam vào năm 1955 với tội "biết kẻ thù mà không báo cáo", một chiếc mũ đủ để gây chết người
+- [Ân Hải Quang](/vi/people/yin-haiguang-liberalism-philosopher) — Giáo sư khoa Triết học Đại học Đài Loan bị giam lỏng tại Ngõ 18, Ôn Châu sau vụ án Lôi Chấn năm 1960, người khai sinh ra chủ nghĩa tự do ở Đài Loan
 
 ## Tài liệu tham khảo
 
