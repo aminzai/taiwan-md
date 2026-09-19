@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-19T12:45:50.219Z",
+  "lastUpdated": "2026-09-19T18:42:40.919Z",
   "totalArticles": 1122,
   "contributors": 75,
   "stars": 1182,
   "forks": 186,
-  "articlesLast7Days": 28,
-  "articlesLast30Days": 190,
+  "articlesLast7Days": 31,
+  "articlesLast30Days": 193,
   "humanReviewedPercent": 17.8,
   "curation": {
     "verified": 2,
@@ -13,21 +13,21 @@
     "unmarked": 809
   },
   "featuredPercent": 15.9,
-  "avgRevision": 7,
+  "avgRevision": 7.1,
   "languageCoverage": {
     "zh-TW": 1122,
     "en": 1106,
-    "ja": 1017,
+    "ja": 1025,
     "ko": 1104,
-    "es": 1101,
-    "fr": 1102,
-    "vi": 1101,
-    "id": 1008,
+    "es": 1102,
+    "fr": 1103,
+    "vi": 1103,
+    "id": 1009,
     "pt": 1075,
-    "hi": 1005,
+    "hi": 1009,
     "ar": 1049,
     "ru": 1066,
-    "de": 817
+    "de": 827
   },
   "bodyInternalLinks": {
     "zero_count": 944,
