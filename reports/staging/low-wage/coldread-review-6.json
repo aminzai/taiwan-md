@@ -1,0 +1,18 @@
+{
+  "revision": 49,
+  "submissionId": "66b514d9-ccb0-4dc5-8b77-f583e0bbc294",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent a6024b10f23e408b4（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "第六位冷讀者：回述正確、四題全答得出、sideTaking 判「沒有替任一政黨或資方說話」——第四、五位同指的「替主計總處順序找台階」在第六輪修正後不再出現，這是本站要驗的承重點。其餘兩條 forcedConclusions 正文已各自揭露限制：第 159 行原句即「至少在這幾個國家」，第 199 行原句即「兩組年份、兩種口徑」並列而非合併；讀者的保留是對已揭露限制的口味，不是理解斷裂。兩條困惑（70.03／70.30、43.6×2）與兩條重複（核心句回聲、句型）為題材密度與投影回聲設計，前五輪已裁決。「較同情被排除者」屬 MANIFESTO §13 為尺外的人寫的立場，非黨派站邊。不回 compose。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第 159 行「至少在這幾個國家」；第 199 行「兩組年份、兩種口徑」；第 226／251 行（第六輪修正處）"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission-6.json",
+      "location": "data.sideTaking / fourChecks"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}

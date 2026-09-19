@@ -1,18 +1,18 @@
 ---
-title: 'Republik Tiongkok (Taiwan) Pindah ke Taiwan dan Pembangunan Pasca-Perang'
-description: 'Tsai Ing-wen berasal dari Fujian, menyaksikan sejarah Republik Tiongkok pindah ke Taiwan pada 1949. 1,2 juta militer dan warga sipil, 38 tahun masa penjajahan, reformasi tanah — bagaimana sejarah ini mengubah Taiwan?'
+title: 'Migrasi Pemerintah Republik Tiongkok ke Taiwan dan Rekonstruksi Pasca-Perang'
+description: 'Yen Chia-kan berjalan dari Fujian, menyaksikan sejarah migrasi Pemerintah Republik Tiongkok ke Taiwan pada tahun 1949. 1,2 juta militer dan warga sipil, 38 tahun darurat militer, reformasi lahan — bagaimana sejarah ini membentuk kembali Taiwan?'
 date: 2026-03-18
 category: 'History'
 tags:
   [
-    'Republik Tiongkok',
-    'pindah pemerintah',
-    'pembangunan pasca-perang',
+    'Pemerintah Republik Tiongkok',
+    'Migrasi Pemerintah ke Taiwan',
+    'Rekonstruksi Pasca-Perang',
     '1949',
-    'perang Republik Tiongkok',
-    'imigran dari luar',
-    'Tsai Ing-wen',
-    'masa penjajahan',
+    'Perang Saudara Tiongkok',
+    'Migrasi Waishengren',
+    'Yen Chia-kan',
+    'Periode Darurat Militer',
   ]
 subcategory: '戰後與威權'
 author: 'Taiwan.md'
@@ -24,156 +24,156 @@ translatedFrom: 'History/國民政府遷台與戰後重建.md'
 sourceCommitSha: '9c5ad569a'
 sourceContentHash: 'sha256:a28bcadbb01460c5'
 sourceBodyHash: 'sha256:fdd1a6127fff34df'
-translatedAt: '2026-09-17T06:43:41+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-# Republik Tiongkok (Taiwan) Pindah ke Taiwan dan Pembangunan Pasca-Perang
+# Migrasi Pemerintah Republik Tiongkok ke Taiwan dan Rekonstruksi Pasca-Perang
 
-> **30 detik gambaran:** Pada 1949, Republik Tiongkok (Taiwan) mengalami kekalahan dalam perang saudara Republik Tiongkok dan mengungsi dari Tiongkok daratan ke Taiwan. Sekitar 1,2 juta militer dan warga sipil mengikuti pemerintah ke Taiwan, membawa perubahan drastis pada struktur penduduk. Republik Tiongkok (Taiwan) mendirikan sistem otoriter di Taiwan, menjaga masa penjajahan selama 38 tahun, sekaligus melakukan reformasi tanah dan pembangunan ekonomi. Para imigran dari luar ini dan keturunannya kini merepresentasikan sekitar 15% penduduk Taiwan, secara mendalam mengubah struktur sosial Taiwan.
+> **Ikhtisar 30 detik:** Pada tahun 1949, Pemerintah Republik Tiongkok (Taiwan) mengalami kekalahan dalam Perang Saudara Tiongkok dan menarik diri dari Tiongkok daratan ke Taiwan. Sekitar 1,2 juta militer dan warga sipil mengikuti pemerintah ke Taiwan, membawa perubahan dramatis pada struktur populasi. Pemerintah Republik Tiongkok membangun rezim otoritarian di Taiwan, menerapkan darurat militer selama 38 tahun, sambil juga melakukan reformasi lahan dan pekerjaan rekonstruksi ekonomi. Gelombang imigran dari daratan ini dan keturunan mereka kini menyusun sekitar 15% dari populasi Taiwan, telah mengubah secara mendalam struktur sosial Taiwan.
 
-> **📝 Catatan kurator**
-> Tsai Ing-wen berasal dari Fujian, menyaksikan migrasi Republik Tiongkok dari Tiongkok daratan ke Taiwan. Reformasi keuangan dan moneternya menjadi dasar ekonomi Taiwan, dan ia disebut sebagai "ayah mata uang Taiwan". Ia adalah penerima jabatan dari Chiang Ching-kuo, menyaksikan transisi dari otoriter ke demokrasi.
+> **📝 Catatan Kurator**
+> Yen Chia-kan berjalan dari Changting, Fujian, menyaksikan migrasi Pemerintah Republik Tiongkok dari daratan ke Taiwan. Reformasi keuangannya menjadi dasar ekonomi Taiwan dan diakui sebagai "Bapak Dolar Baru Taiwan". Dia adalah penerus yang ditunjuk oleh Chiang Ching-kuo, menyaksikan transisi dari otoritarianisme menuju demokrasi.
 
-## Presiden yang Berasal dari Fujian
+## Presiden dari Fujian
 
-Tsai Ing-wen, lahir pada 1905, bekerja sebagai Kepala Departemen Keuangan di Fujian pada 1930-an, dan secara langsung menyaksikan proses pengunduran diri Republik Tiongkok dari Tiongkok daratan ke Taiwan. Pada 1949, ia mengikuti pemerintah ke Taiwan dan menjadi Menteri Keuangan, mendorong emisi mata uang Taiwan dan reformasi mata uang[^1]。
+Yen Chia-kan, yang lahir pada tahun 1905, pada tahun 1930-an melayani sebagai kepala direktorat jenderal keuangan di Fujian, menyaksikan secara langsung proses penarikan diri Pemerintah Republik Tiongkok dari Tiongkok daratan ke Taiwan. Pada tahun 1949, dia datang ke Taiwan bersama pemerintah, bertindak sebagai Menteri Keuangan, mendorong penerbitan Mata Uang Dolar Baru Taiwan dan reformasi sistem mata uang[^1].
 
-> **「Saya tidak memiliki pilihan, itu keputusan pemilik tanah.」** — Petani sewa di Taiwan (dari《Tsai Ing-wen: Catatan Wawancara tentang Etika Presiden》)
+> **"Saya tidak memiliki hak pilih, itu adalah keputusan tuan tanah."** —— Petani penyewa Taiwan (dikutip dari _Rekam Jejak Presiden Yen Chia-kan_)
 
-Kalimat ini muncul di pedesaan Taiwan pada 1949. Pada saat itu, kebijakan pengurangan sewa 3/7.5 sedang diterapkan, di mana petani hanya perlu memberikan 37,5% hasil panen kepada pemilik tanah. Kebijakan ini memicu perubahan mendasar pada struktur sosial Taiwan — dari hubungan pemilik tanah dan penyewa menjadi masyarakat petani mandiri[^2]。
+Kalimat ini muncul di desa-desa Taiwan tahun 1949. Pada saat itu, kebijakan pengurangan sewa 37,5% sedang diterapkan, petani penyewa hanya perlu menyerahkan 37,5% dari panen mereka kepada tuan tanah. Kebijakan ini memicu transformasi fundamental dalam struktur sosial Taiwan — dari hubungan tuan tanah-petani penyewa, menjadi masyarakat petani pemilik[^2].
 
-Tsai Ing-wen berkata: "Ini adalah ketentuan sejarah, juga adalah ketiadaan pilihan zaman." Ini adalah penilaiannya terhadap migrasi pemerintah Republik Tiongkok pada 1949, juga komentar tentang seluruh zaman itu[^3]。
+Yen Chia-kan berkata: "Ini adalah keharusan sejarah, juga keterpaksaan zaman." Ini adalah penilaiannya tentang migrasi pemerintah ke Taiwan tahun 1949, sekaligus komentar tentang seluruh era[^3].
 
-## Migrasi 1,2 Juta Orang
+## 1,2 Juta Orang dalam Migrasi Besar
 
-Pada 1949, perang saudara Republik Tiongkok hampir selesai. Partai Republik Tiongkok mengalami kekalahan beruntun dalam tiga kampanye besar: Kampanye Liaoshen, Kampanye Huaihai, dan Kampanye Pingjin, dengan kehilangan banyak pasukan elit. Menghadapi situasi yang memburuk di Tiongkok daratan, Chiang Kai-shek mulai mempertimbangkan strategi "menjaga Taiwan" sejak 1948[^4]。
+Pada tahun 1949, Perang Saudara Tiongkok memasuki tahap akhir. Kuomintang (KMT) mengalami kekalahan berturut-turut dalam Pertempuran Liaoshen, Pertempuran Huaihai, dan Pertempuran Ping-Jin, dengan kerugian pasukan elite yang berat. Menghadapi memburuknya situasi perang di Tiongkok daratan, Chiang Kai-shek sudah mempertimbangkan strategi "pertahanan Taiwan" sejak tahun 1948[^4].
 
-Dari akhir 1948 hingga 1950, sekitar 1,2 juta militer dan warga sipil mengikuti Republik Tiongkok ke Taiwan[^5]。 Sekitar 600.000 orang adalah militer, yang berasal dari berbagai wilayah seperti Manchuria, Northern China, dan Eastern China. Banyak pejabat pemerintah dan intelek seperti profesor universitas, insinyur, dan dokter juga pindah ke sana. Di kalangan masyarakat umum, pedagang, pekerja keterampilan, dan mahasiswa memilih untuk pindah karena ketakutan akan pemerahan Komunis.
+Dari akhir 1948 hingga 1950, sekitar 1,2 juta militer dan warga sipil mengikuti Pemerintah Republik Tiongkok datang ke Taiwan[^5]. Personel militer berjumlah sekitar 600.000 orang, mundur dari wilayah Timur Laut, Utara, Timur dan daerah lainnya. Pejabat pemerintah dan intelektual berdatangan dalam jumlah besar, termasuk profesor universitas, insinyur, dokter dan lainnya. Di antara penduduk umum, pengusaha, pekerja teknis, pelajar dan lainnya memilih untuk pergi karena takut terhadap pemerintahan komunis.
 
-Pada 7 Desember 1949, pemerintah Republik Tiongkok secara resmi pindah ke Taipei. Pada 10 Desember, Chiang Kai-shek terbang dari Chengdu ke Taipei dan tidak pernah kembali ke Tiongkok daratan[^6]。
+Pada tanggal 7 Desember 1949, Pemerintah Republik Tiongkok secara resmi memindahkan kantor pusatnya ke Taipei. Pada tanggal 10 Desember, Chiang Kai-shek terbang dari Chengdu ke Taipei, tidak pernah kembali ke Tiongkok daratan sepanjang hidupnya[^6].
 
-> **📊 Sumber data**
-> Menurut arsip Kementerian Sejarah, total militer dan warga sipil yang pindah ke Taiwan pada 1949 mencapai sekitar 1,2 juta orang, dengan sekitar 600.000 orang adalah militer, sekitar 400.000 orang adalah pejabat pemerintah dan keluarga mereka, dan sekitar 200.000 orang adalah warga sipil biasa.
+> **📊 Sumber Data**
+> Menurut arsip pusat studi sejarah nasional, jumlah total militer dan warga sipil yang mundur ke Taiwan pada tahun 1949 adalah sekitar 1,2 juta orang, di antaranya tentara sekitar 600.000 orang, pejabat pemerintah dan keluarga mereka sekitar 400.000 orang, dan warga sipil biasa sekitar 200.000 orang.
 
-## Peraturan Penjajahan dan Teror Putih
+## Darurat Militer dan Teror Putih
 
-Pada 19 Mei 1949, Kepala Pemerintah Provinsi Taiwan dan Komandan Jenderal Keamanan Chen Cheng mengeluarkan "Peraturan Penjajahan Provinsi Taiwan", yang secara resmi diterapkan pada 20 Mei pukul 00:00[^7]。 Ini adalah penjajahan pertama di Taiwan, kemudian dimasukkan dalam lingkup penjajahan nasional.
+Pada tanggal 19 Mei 1949, Chen Cheng, yang menjabat Ketua Pemerintah Provinsi Taiwan sekaligus Komandan Tertinggi Keamanan, mengeluarkan "Perintah Darurat Militer Provinsi Taiwan", yang mulai berlaku secara resmi pada tanggal 20 Mei pukul 00:00[^7]. Ini adalah darurat militer pertama kali di Taiwan, dan kemudian dimasukkan dalam jangkauan perintah darurat militer nasional.
 
-Peraturan penjajahan ini berlangsung selama 38 tahun dan 2 bulan, hingga 15 Juli 1987 ketika Presiden Chiang Ching-kuo melegakannya[^8]。 Ini dikenal sebagai salah satu masa penjajahan terpanjang dalam sejarah dunia.
+Perintah darurat militer berlaku selama 38 tahun 2 bulan, hingga tanggal 15 Juli 1987 baru dicabut oleh Presiden saat itu Chiang Ching-kuo[^8]. Ini dianggap sebagai salah satu periode darurat militer terpanjang dalam sejarah dunia.
 
-Selama masa penjajahan, sekitar 140.000 orang terlibat dalam kasus politik, dengan sekitar 1.061 orang dieksekusi[^9]。 Para korban ini meliputi berbagai lapisan masyarakat, dari intelek, mahasiswa, hingga warga sipil biasa, baik dari kalangan pribumi maupun imigran.
+Selama darurat militer, sekitar 140.000 orang terlibat dalam kasus-kasus politik, di antaranya sekitar 1.061 orang dieksekusi[^9]. Korban-korban ini termasuk dari berbagai lapisan sosial, dari intelektual, pelajar hingga penduduk biasa, termasuk baik benshengren (penduduk lokal) maupun waishengren (migran daratan).
 
-Dasar hukum penjajahan adalah "Undang-Undang Sementara untuk Masa Kemergency", yang membekukan ketentuan konstitusi tentang hak kebebasan rakyat dan memberikan presiden hampir tanpa batasan. Kementerian Keamanan (Komandan Jenderal Keamanan) menjadi lembaga paling berpengaruh selama masa penjajahan, bertanggung jawab untuk menjaga keamanan, menyensor publikasi, dan memantau pemikiran masyarakat.
+Dasar hukum darurat militer adalah Klausul Sementara Periode Mobilisasi Menekan Pemberontakan, yang membekukan ketentuan konstitusional tentang hak kebebasan rakyat dan memberikan kepada presiden kekuasaan yang hampir tanpa batas. Komando Tertinggi Keamanan menjadi lembaga paling berkuasa selama periode darurat militer, bertanggung jawab untuk memelihara ketertiban publik, menyensor publikasi, dan memantau pemikiran rakyat.
 
-> **⚠️ Pendapat kontroversial**
-> Angka korban teroris putih yang tepat bervariasi antar sumber. Statistik resmi menyebutkan sekitar 140.000 orang terlibat, tetapi organisasi sipil memperkirakan hingga 200.000 orang. Sekitar 1.000 hingga 1.500 orang dieksekusi.
+> **⚠️ Pandangan Kontroversial**
+> Mengenai angka spesifik Teror Putih, berbagai sumber berbeda pendapat. Statistik resmi menyebutkan sekitar 140.000 orang terlibat, namun kelompok-kelompok masyarakat memperkirakan mungkin mencapai 200.000 orang. Sekitar 1.000-1.500 orang dieksekusi.
 
-## Tiga Tahap Reformasi Tanah
+## Tiga Tahap Reformasi Lahan
 
-Untuk memecahkan masalah pedesaan dan mengamankan pemerintahan, Republik Tiongkok (Taiwan) menerapkan reformasi tanah skala besar yang terdiri dari tiga tahap[^10]：
+Untuk mengatasi masalah pedesaan dan menstabilkan rezim, Pemerintah Republik Tiongkok melaksanakan reformasi lahan skala besar di Taiwan, yang dibagi menjadi tiga tahap[^10]:
 
-### Pengurangan Sewa 3/7.5 (1949)
+### Pengurangan Sewa 37,5% (1949)
 
-Menurunkan tarif sewa lahan pertanian hingga tidak melebihi 37,5% hasil panen, untuk mengurangi beban penyewa. Ini adalah langkah pertama dan paling penting dari reformasi tanah Taiwan.
+Tingkat sewa lahan pertanian diturunkan hingga tidak melebihi 37,5% dari hasil panen, mengurangi beban petani penyewa. Ini adalah langkah pertama dan paling penting dalam reformasi lahan Taiwan.
 
-### Pemberian Lahan Umum (1951-1976)
+### Penyaluran Tanah Publik (1951-1976)
 
-Menjual lahan umum dari masa kolonial Jepang dengan syarat yang menguntungkan kepada penyewa. Dari 1951 hingga 1976, sekitar 138.957 hektar lahan diberikan kepada 286.287 keluarga petani[^11]。
+Tanah milik publik dari periode kolonial Jepang dijual kepada petani penyewa dengan syarat yang menguntungkan. Dari 1951 hingga 1976, total 138.957 hektar tanah disalurkan kepada 286.287 rumah tangga petani[^11].
 
-### Lahan Milik Petani (1953)
+### Petani Memiliki Tanahannya Sendiri (1953)
 
-Menguhi lahan milik pemilik tanah yang melebihi 3 hektar, lalu menjualnya kembali kepada penyewa. Pada tahun ini, 139.249 hektar lahan dikucai, dan 194.823 keluarga petani mandiri terbentuk[^12]。
+Pengambilalihan paksa tanah pertanian tuan tanah yang memiliki lebih dari 3 jia (sekitar 2,9 hektar), kemudian dijual kembali kepada petani penyewa. Pada tahun itu, 139.249 hektar tanah disita dan 194.823 petani pemilik didirikan[^12].
 
-Reformasi tanah berhasil menghilangkan kelas pemilik tanah besar, mewujudkan impian "lahan milik petani". Sekitar 194.000 keluarga penyewa mendapatkan lahan, dan struktur sosial pedesaan mengalami perubahan mendasar. Pemilik tanah asli menerima bon hutang tanah dan saham perusahaan publik sebagai ganti rugi, banyak dari mereka beralih ke investasi industri dan perdagangan, yang menjadi modal bagi perkembangan industri Taiwan di masa mendatang.
+Reformasi lahan berhasil menghilangkan kelas tuan tanah besar dan mewujudkan cita-cita "Petani Memiliki Tanahannya Sendiri". Sekitar 194.000 keluarga petani penyewa memperoleh tanah, dan struktur sosial pedesaan mengalami perubahan fundamental. Tuan tanah lama menerima obligasi tanah dan saham perusahaan negara sebagai kompensasi, dan banyak yang beralih ke investasi komersial dan industri, menyediakan modal bagi pengembangan industri Taiwan di kemudian hari.
 
-> **📝 Catatan kurator**
-> Reformasi tanah adalah revolusi sosial. Ia mengubah struktur kelas Taiwan, mengubah petani menjadi pemilik tanah, dan mengubah pemilik tanah menjadi kapitalis. Ini adalah kunci transformasi Taiwan dari masyarakat pertanian ke masyarakat industri.
+> **📝 Catatan Kurator**
+> Reformasi lahan adalah sebuah revolusi sosial. Ia mengubah struktur kelas Taiwan, mengubah petani menjadi tuan tanah, dan tuan tanah menjadi pengusaha. Ini adalah kunci transformasi Taiwan dari masyarakat pertanian menuju masyarakat industri.
 
-## Pembangunan Ekonomi dan Bantuan dari AS
+## Rekonstruksi Ekonomi dan Bantuan Amerika
 
-Pada awalnya setelah pindah ke Taiwan, Republik Tiongkok (Taiwan) menghadapi krisis ekonomi yang parah. Penurunan drastis penduduk, inflasi yang cepat, dan kelangkaan mata uang asing membuat ekonomi hampir runtuh.
+Pada awal periode setelah Pemerintah Republik Tiongkok pindah ke Taiwan, Taiwan menghadapi krisis ekonomi yang serius. Arus masuk populasi yang besar, inflasi yang parah, dan kekurangan valuta asing membuat ekonomi hampir di ambang runtuh.
 
-Pada 15 Juni 1949, reformasi mata uang diterapkan, mencetak mata uang Taiwan baru untuk menggantikan mata uang lama, dengan kurs pertukaran 1:40.000, yang secara signifikan mengurangi jumlah uang beredar dan mengendalikan inflasi yang buruk. Tsai Ing-wen sebagai Menteri Keuangan adalah tokoh sentral dalam reformasi ini[^13]。
+Pada tanggal 15 Juni 1949, reformasi sistem mata uang dilaksanakan, mata uang baru Taiwan dikeluarkan untuk menggantikan mata uang lama, dengan nilai tukar 1:40.000, secara drastis mengurangi jumlah pasokan uang, dan berhasil mengendalikan inflasi ganas. Yen Chia-kan sebagai Menteri Keuangan adalah tokoh kunci dalam reformasi ini[^13].
 
-Setelah Perang Korea meletup pada 1950, Amerika Serikat memulihkan bantuan ekonomi ke Taiwan. Dari 1951 hingga 1965, total bantuan ekonomi AS ke Taiwan mencapai 148,2 juta dolar AS[^14]。 Bantuan dari AS membantu Taiwan menstabilkan kurs mata uang, mengendalikan inflasi, dan mendorong pengembangan pertanian dan industri.
+Setelah Perang Korea meletus pada tahun 1950, Amerika mengaktifkan kembali bantuan ekonomi kepada Taiwan. Dari 1951 hingga 1965, jumlah total bantuan ekonomi yang diberikan Amerika kepada Taiwan mencapai $1.482 miliar[^14]. Bantuan Amerika memungkinkan Taiwan menstabilkan nilai tukar, mengendalikan inflasi, dan mendorong pengembangan pertanian dan industri.
 
-Bantuan dari AS juga membawa teknologi dan pengalaman manajemen. Para ahli AS membantu Taiwan mendirikan sistem keuangan modern, dan mendorong pengembangan pertanian dan industri.
+Bantuan Amerika membawa teknologi dan pengalaman manajemen. Para ahli Amerika membantu Taiwan membangun sistem keuangan fiskal yang modern, mendorong pengembangan pertanian dan industri.
 
-## Reorganisasi Sosial dan Budaya
+## Restrukturisasi Sosial dan Budaya
 
-Para 1,2 juta orang yang pindah ke Taiwan dari luar ini mengubah struktur dan komposisi sosial Taiwan.
+Migrasi Pemerintah Republik Tiongkok ke Taiwan membawa 1,2 juta penduduk, yang mengubah struktur populasi dan komposisi sosial Taiwan.
 
-**Pembentukan kesadaran provinsi**: Pribumi, orang yang tinggal di Taiwan sejak masa kolonial Jepang ("orang dalam provinsi"), dan orang yang pindah ke Taiwan setelah perang ("orang dari luar provinsi"), membentuk hubungan provinsi yang kompleks. Perbedaan ini memengaruhi masyarakat Taiwan selama lama.
+**Pembentukan kesadaran provinsi asal**: Masyarakat adat Taiwan, penduduk lokal yang sudah tinggal di Taiwan sejak periode kolonial Jepang yang disebut "benshengren (penduduk lokal)", dan "waishengren (migran daratan)" yang datang setelah perang, membentuk hubungan provinsi asal yang kompleks. Perbedaan ini mempengaruhi masyarakat Taiwan untuk waktu yang lama.
 
-**Pembentukan kampung militer**: Untuk menampung pasukan militer yang pindah, pemerintah mendirikan kampung militer di berbagai tempat. Kampung militer menjadi komunitas tempat orang dari luar provinsi tinggal, dan menjaga karakter budaya khas dari berbagai provinsi di Tiongkok.
+**Pendirian kampung tentara**: Untuk menampung keluarga tentara yang datang ke Taiwan, pemerintah mendirikan kampung tentara di berbagai tempat. Kampung tentara menjadi komunitas tempat tinggal kelompok etnis migran daratan, mempertahankan corak budaya berbagai provinsi dari Tiongkok daratan.
 
-**Peningkatan populasi terdidik**: Proporsi intelek yang tinggi di kalangan orang yang pindah meningkatkan tingkat pendidikan Taiwan secara keseluruhan, dan juga mendorong pengembangan pendidikan di masa mendatang.
+**Peningkatan populasi terdidik**: Tingginya persentase intelektual di antara pendatang meningkatkan tingkat pendidikan keseluruhan Taiwan, dan mendorong pengembangan pendidikan di kemudian hari.
 
-Dalam kebijakan budaya, Republik Tiongkok (Taiwan) memandang Taiwan sebagai "Tiongkok bebas", menekankan otoritas budaya Tionghoa. Pemerintah secara keras mendorong penggunaan bahasa Mandarin (bahasa standar), dan mewajibkannya di sekolah, militer, dan kantor pemerintah, sementara penggunaan bahasa daerah seperti bahasa Hokkien semakin terbatas.
+Dalam kebijakan budaya, Pemerintah Republik Tiongkok memandang Taiwan sebagai "Tiongkok Bebas", menekankan ortopoksi budaya Tiongkok. Pemerintah aktif mempromosikan Bahasa Mandarin Baku (bahasa Tiongkok standar), mewajibkan penggunaannya di sekolah, tentara, lembaga pemerintah, sementara bahasa lokal seperti bahasa Taiwan mengalami pembatasan penggunaan.
 
 ## Perubahan Status Internasional
 
-Pada awalnya setelah pindah, Republik Tiongkok (Taiwan) masih mempertahankan kursi Republik Tiongkok di PBB, mewakili Tiongkok dalam urusan internasional. Di bawah latar belakang Perang Dingin AS-Soviet, Taiwan sebagai bagian dari "dunia bebas" mendapat dukungan dari AS dan negara-negara Barat lainnya.
+Pada awal periode setelah pindah ke Taiwan, Pemerintah Republik Tiongkok masih mempertahankan kursi Republik Tiongkok di Perserikatan Bangsa-Bangsa (PBB), mewakili Tiongkok dalam berpartisipasi dalam urusan internasional. Dalam latar belakang Perang Dingin Amerika-Soviet, Taiwan sebagai bagian dari dunia bebas, mendapat dukungan dari Amerika dan negara-negara Barat lainnya.
 
-Seiring dengan pemisahan Selat Taiwan yang semakin tetap, muncul situasi "dua Tiongkok" yang kompleks di kancah internasional. Beberapa negara mengakui Taipei, beberapa negara mengakui Beijing, dan masyarakat internasional mengalami pemecahan.
+Seiring dengan stabilisasi perpecahan di kedua sisi Selat Taiwan, situasi internasional yang rumit tentang "dua Tiongkok" muncul. Beberapa negara mengakui Taipei, sementara yang lain mengakui Beijing, dan masyarakat internasional mengalami perpecahan.
 
-Pada 1971, PBB mengesahkan resolusi, mengakui Republik Rakyat Tiongkok sebagai perwakilan tunggal Tiongkok, dan Republik Tiongkok kehilangan kursi di PBB. Ini adalah titik balik penting dalam status internasional Taiwan.
+Pada tahun 1971, Perserikatan Bangsa-Bangsa melewatkan sebuah resolusi yang mengakui Republik Rakyat Tiongkok sebagai perwakilan tunggal Tiongkok, Republik Tiongkok (Taiwan) kehilangan kursinya di PBB. Ini menjadi titik balik yang signifikan dalam status internasional Taiwan.
 
-> **📝 Catatan kurator**
-> Status internasional Taiwan, dari anggota PBB pada 1949, ke keluarnya dari PBB pada 1971, hingga "kemerdekaan faktis, kesulitan diplomasi" saat ini, adalah cerita yang kompleks tentang kedaulatan, politik realistis, dan pengakuan internasional.
+> **📝 Catatan Kurator**
+> Status internasional Taiwan, dari keanggotaan PBB pada tahun 1949, hingga pengunduran diri dari PBB pada tahun 1971, lalu hingga hari ini dengan "kemerdekaan de facto, namun jalan buntu diplomatik", adalah sebuah cerita rumit tentang kedaulatan, realpolitik, dan pengakuan internasional.
 
-## Transisi dari Otoriter ke Demokrasi
+## Transisi dari Otoritarianisme ke Demokrasi
 
-Pada 4 April 1975, Chiang Kai-shek meninggal. Menurut konstitusi, Tsai Ing-wen yang saat itu menjabat sebagai Wakil Presiden sukseden sebagai Presiden[^15]。 Pada 1978, Tsai Ing-wen selesai masa jabatannya dan memberikan tugasnya kepada Chiang Ching-kuo yang saat itu menjabat sebagai Kepala Kantor Exekutif.
+Pada tanggal 5 April 1975, Chiang Kai-shek meninggal dunia. Sesuai dengan konstitusi, Yen Chia-kan yang menjabat sebagai Wakil Presiden pada waktu itu mewarisi posisi presiden[^15]. Pada tahun 1978, Yen Chia-kan menyelesaikan masa jabatannya dan menyerahkan kekuasaan kepada Chiang Ching-kuo yang pada waktu itu menjabat sebagai Perdana Menteri.
 
-Chiang Ching-kuo selama masa jabatannya mendorong berbagai reformasi, termasuk pencabutan penjajahan (1987), pembukaan terhadap partai politik (1987), pembukaan terhadap pencabutan sensor (1988), dan pembukaan terhadap kunjungan keluarga (1987). Reformasi-reformasi ini membuka jalan bagi proses demokratisasi Taiwan yang konkret.
+Selama masa jabatannya, Chiang Ching-kuo mendorong serangkaian reformasi, termasuk pencabutan darurat militer (1987), pembukaan kebebasan partai politik (1987), pembukaan kebebasan pers (1988), dan pembukaan perjalanan kekeluargaan (1987). Reformasi-reformasi ini membuka proses konkret demokratisasi Taiwan.
 
-> **✦** 「Ini adalah ketentuan sejarah, juga adalah ketiadaan pilihan zaman.」—— Tsai Ing-wen
+> **✦** "Ini adalah keharusan sejarah, juga keterpaksaan zaman." —— Yen Chia-kan
 
-Kalimat ini muncul dalam rekaman wawancara Kementerian Sejarah. Ini adalah penilaian Tsai Ing-wen terhadap migrasi pemerintah Republik Tiongkok pada 1949, juga komentar tentang seluruh zaman itu. Dari otoriter ke demokrasi, transisi Taiwan tidak melibatkan transfer yang damai atau revolusi berdarah — ia adalah proses pelebaran yang perlahan dengan gaya "ketentuan sejarah, ketiadaan pilihan zaman".
+Kalimat ini muncul dalam catatan wawancara di pusat studi sejarah nasional. Ini baik merupakan penilaian Yen Chia-kan tentang migrasi pemerintah ke Taiwan tahun 1949, juga merupakan komentar tentang seluruh era. Dari otoritarianisme menuju demokrasi, transisi Taiwan tidak memiliki pengalihan kekuasaan damai maupun revolusi yang menumpahkan darah — ini adalah semacam relaksasi lambat dari "keharusan historis yang terpaksa".
 
-## Echos Sejarah
+## Gema Sejarah
 
-Pada tengah malam 15 Juli 1987, Chiang Ching-kuo mencabut penjajahan. Malam itu, tidak ada suara kembang api di jalan-jalan Taiwan, tidak ada upacara, hanya banyak keluarga yang diam-diam menonton berita di televisi. Satu zaman berakhir, seperti yang dikatakan Tsai Ing-wen: "Ini adalah ketentuan sejarah, juga adalah ketiadaan pilihan zaman."
+Pada tanggal 15 Juli 1987 pukul 00:00, Chiang Ching-kuo mencabut darurat militer. Malam itu, tidak ada bunyi kembang api di jalan-jalan Taiwan, tidak ada perayaan, hanya jutaan keluarga yang diam-diam menonton berita di depan televisi. Sebuah era berakhir, seperti yang dikatakan Yen Chia-kan: "Ini adalah keharusan sejarah, juga keterpaksaan zaman."
 
-Hari ini, sekitar 15% penduduk Taiwan adalah keturunan orang dari luar provinsi. Nama mereka, ingatan mereka, bahasa mereka, telah menjadi bagian dari Taiwan. Sejarah pindah dan pembangunan pasca-perang Republik Tiongkok, dari kerangka "kekuasaan asing" tunggal, semakin dipahami sebagai sejarah interaksi dan reorganisasi antara komunitas imigran dan masyarakat lokal.
+Saat ini, sekitar 15% penduduk Taiwan adalah keturunan kelompok etnis migran daratan. Nama mereka, ingatan mereka, bahasa mereka, telah menjadi bagian dari Taiwan. Sejarah migrasi Pemerintah Republik Tiongkok ke Taiwan dan rekonstruksi pasca-perang, dari kerangka "rezim asing", secara bertahap dipahami sebagai sebuah cerita tentang "komunitas imigran" dan reorganisasi masyarakat lokal.
 
-Jika pada 2050 seseorang ingin tahu apa yang penting bagi orang Taiwan pada 1949, mungkin yang mereka baca adalah berkas Markdown ini.
-
----
-
-## Referensi
-
-[^1]: [《Tsai Ing-wen: Catatan Wawancara tentang Etika Presiden》](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — diterbitkan oleh Kementerian Sejarah, dalam rangkaian kenangan 20 tahun meninggalnya Tsai Ing-wen pada 2013, mengumpulkan wawancara lisan dengan kerabat dan temannya, merekonstruksi penuh pengalamannya dari reformasi keuangan hingga masa kepresidenannya.
-
-[^2]: [Lahan Milik Petani](https://zh.wikipedia.org/wiki/%E8%80%95%E8%80%85%E6%9C%89%E5%85%B6%E7%94%B0) — artikel Wikipedia, mengumpulkan data sejarah dan kebijakan rinci dari tiga tahap reformasi tanah Taiwan.
-
-[^3]: [《Tsai Ing-wen: Catatan Wawancara tentang Etika Presiden》](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — rekaman wawancara lisan Kementerian Sejarah, mengumpulkan penilaian dan pengamatan Tsai Ing-wen terhadap migrasi pemerintah Republik Tiongkok pada 1949.
-
-[^4]: [Migrasi Pemerintah Republik Tiongkok](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — artikel Wikipedia, mengumpulkan latar belakang sejarah lengkap mengenai pengunduran diri Republik Tiongkok dari Tiongkok daratan ke Taiwan selama perang saudara Republik Tiongkok.
-
-[^5]: Sumber yang sama — mengumpulkan statistik migrasi 1,2 juta militer dan warga sipil dari 1948 hingga 1950.
-
-[^6]: Sumber yang sama — mengumpulkan peta migrasi Chiang Kai-shek dari Chengdu ke Taipei pada Desember 1949.
-
-[^7]: [Peraturan Penjajahan Provinsi Taiwan](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — artikel Wikipedia, mengumpulkan dasar hukum dan detail pelaksanaan penjajahan yang dikeluarkan Chen Cheng pada 19 Mei 1949.
-
-[^8]: Sumber yang sama — mengumpulkan kronologi lengkap penjajahan selama 38 tahun dan 2 bulan, hingga Chiang Ching-kuo mencabutnya pada 1987.
-
-[^9]: [Migrasi Pemerintah Republik Tiongkok](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — artikel Wikipedia, mengumpulkan statistik korban kasus politik selama masa penjajahan, sekitar 140.000 orang.
-
-[^10]: [Lahan Milik Petani](https://zh.wikipedia.org/wiki/%E8%80%95%E8%80%85%E6%9C%89%E5%85%B6%E7%94%B0) — artikel Wikipedia, mengumpulkan kebijakan dan efek ketiga tahap reformasi tanah.
-
-[^11]: Sumber yang sama — mengumpulkan data rinci tentang pemberian lahan umum dari 1951 hingga 1976, sekitar 138.957 hektar lahan diberikan kepada 286.287 keluarga petani.
-
-[^12]: Sumber yang sama — mengumpulkan statistik tentang kebijakan Lahan Milik Petani pada 1953, menguhi 139.249 hektar lahan dan menciptakan 194.823 keluarga petani mandiri.
-
-[^13]: [《Tsai Ing-wen: Catatan Wawancara tentang Etika Presiden》](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — diterbitkan oleh Kementerian Sejarah, mengumpulkan pengalaman lengkap Tsai Ing-wen sebagai Menteri Keuangan dalam mencetak mata uang Taiwan baru dan reformasi mata uang.
-
-[^14]: [Migrasi Pemerintah Republik Tiongkok](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — artikel Wikipedia, mengumpulkan data sejarah tentang bantuan ekonomi AS ke Taiwan dari 1951 hingga 1965, total 148,2 juta dolar AS.
-
-[^15]: [Tsai Ing-wen](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E5%AE%B6%E6%B7%A6) — artikel Wikipedia, mengumpulkan pengalaman lengkap Tsai Ing-wen setelah meninggalnya Chiang Kai-shek pada 1975, menjadi Presiden dan memberikan tugasnya kepada Chiang Ching-kuo pada 1978.
+Jika pada tahun 2050 seseorang ingin tahu apa yang peduli bagi orang Taiwan pada tahun 1949, mungkin dia akan membaca file-file Markdown ini.
 
 ---
 
-**Bacaan lanjutan**: [Masa Penjajahan](/id/history/martial-law-era/)、Teror Putih、[[二二八事件]]、[Pemandangan Ekonomi](/id/economy/economic-miracle/)
+## Bahan Bacaan
+
+[^1]: [_Rekam Jejak Presiden Yen Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Dipublikasikan oleh Pusat Studi Sejarah Nasional, buku peringatan 20 tahun kematian Yen Chia-kan tahun 2013, berisi wawancara lisan dengan orang-orang terdekat dan teman-temannya, menggambarkan perjalanan lengkapnya dari reformasi keuangan hingga masa jabatan presidennya.
+
+[^2]: [Petani Memiliki Tanahannya Sendiri](https://zh.wikipedia.org/wiki/%E8%80%95%E8%80%85%E6%9C%89%E5%85%B6%E7%94%B0) — Entri Wikipedia, berisi data sejarah terperinci dan konten kebijakan untuk tiga tahap reformasi lahan Taiwan.
+
+[^3]: [_Rekam Jejak Presiden Yen Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Catatan wawancara lisan sejarah dari pusat studi sejarah nasional, berisi penilaian Yen Chia-kan tentang migrasi pemerintah ke Taiwan tahun 1949 dan pengamatan zaman.
+
+[^4]: [Migrasi Pemerintah Republik Tiongkok ke Taiwan](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — Entri Wikipedia, berisi konteks sejarah lengkap tentang penarikan diri Pemerintah Republik Tiongkok dari Tiongkok daratan ke Taiwan selama Perang Saudara Tiongkok.
+
+[^5]: Ibid — Berisi data statistik sekitar 1,2 juta militer dan warga sipil yang pindah ke Taiwan dari 1948-1950.
+
+[^6]: Ibid — Berisi rute historis perjalanan Chiang Kai-shek dari Chengdu ke Taipei pada Desember 1949.
+
+[^7]: [Perintah Darurat Militer Provinsi Taiwan](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Entri Wikipedia, berisi dasar hukum dan detail implementasi darurat militer yang diumumkan oleh Chen Cheng pada tanggal 19 Mei 1949.
+
+[^8]: Ibid — Berisi garis waktu lengkap darurat militer yang berlangsung selama 38 tahun 2 bulan, hingga dicabut oleh Chiang Ching-kuo pada tahun 1987.
+
+[^9]: [Migrasi Pemerintah Republik Tiongkok ke Taiwan](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — Entri Wikipedia, berisi data statistik sekitar 140.000 korban kasus-kasus politik selama darurat militer.
+
+[^10]: [Petani Memiliki Tanahannya Sendiri](https://zh.wikipedia.org/wiki/%E8%80%95%E8%80%85%E6%9C%89%E5%85%B6%E7%94%B0) — Entri Wikipedia, berisi konten kebijakan dan hasil efektivitas untuk tiga tahap reformasi lahan Taiwan.
+
+[^11]: Ibid — Berisi data terperinci tentang penyaluran tanah publik dari 1951-1976, total 138.957 hektar tanah disalurkan kepada 286.287 rumah tangga petani.
+
+[^12]: Ibid — Berisi data statistik reformasi lahan tahun 1953, 139.249 hektar tanah disita dan 194.823 petani pemilik didirikan.
+
+[^13]: [_Rekam Jejak Presiden Yen Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Dipublikasikan oleh pusat studi sejarah nasional, berisi perjalanan lengkap Yen Chia-kan sebagai Menteri Keuangan dalam mendorong penerbitan mata uang baru Taiwan dan reformasi sistem mata uang.
+
+[^14]: [Migrasi Pemerintah Republik Tiongkok ke Taiwan](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — Entri Wikipedia, berisi data sejarah bantuan ekonomi Amerika pada periode 1951-1965, total bantuan ekonomi Amerika kepada Taiwan mencapai $1.482 miliar.
+
+[^15]: [Yen Chia-kan](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E5%AE%B6%E6%B7%A6) — Entri Wikipedia, berisi perjalanan lengkap Yen Chia-kan mewarisi presidensi setelah kematian Chiang Kai-shek pada tahun 1975, dan menyerahkan kekuasaan kepada Chiang Ching-kuo pada tahun 1978.
+
+---
+
+**Bacaan Lanjutan**: [Masa Darurat Militer (戒嚴時期)](/id/history/martial-law-era/), Teror Putih, Peristiwa 228 (二二八事件), [Keajaiban Ekonomi (經濟奇蹟)](/id/economy/economic-miracle/)

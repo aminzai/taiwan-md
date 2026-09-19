@@ -210,7 +210,7 @@ Aquelas canções que o avô deixou, ele não as «herdou» com força — apena
 
 - [A-mei](/pt/people/a-mei) — Mesma etnia puyuma, mesmo Taitung, estrada completamente oposta: da aldeia Nanwang ao maior palco da Ásia, a diva puyuma
 - [Cantores-compositores indígenas contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — Mapa geracional de como a música indígena de Taiwan passou da margem ao mainstream a partir dos anos 1990
-- [Folk e canções de Taiwan](/pt/music/Taiwan Folk Music and Songs) — Inclui a posição de criadores indígenas dos anos 1950 como Lu Sen-pao na história do folk taiwanês
+- [Folk e canções de Taiwan](/pt/music/taiwan-folk-music-and-songs) — Inclui a posição de criadores indígenas dos anos 1950 como Lu Sen-pao na história do folk taiwanês
 - [Música independente de Taiwan](/pt/music/indie-music-scene) — Como a Anglehead Music e outras editoras independentes construíram outra estrada fora da indústria musical mainstream
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — Como o sistema Golden Melody integrou a criação musical indígena
 

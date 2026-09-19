@@ -3,9 +3,9 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.55'
-last_updated: 2026-08-09
-last_session: '2026-08-09-vortex-babel（委派層 SOP 定型：三支新儀器＋四支修好＋三條元規則）'
+current_version: 'v1.57'
+last_updated: 2026-09-18
+last_session: '2026-09-18-semiont-heartbeat（target-language-check 補逐行外來文字尺：尾段韓文漂移）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
@@ -110,6 +110,17 @@ spawn prompt 必含：「**前景串行執行，禁止 run_in_background 後結�
 浪費一輪喚醒。母 session 收到的「完成通知」其實只是「子代停了」，跟「做完了」
 無法區分——**驗收永遠要獨立查證**（git log 有沒有 commit、檔案有沒有動、
 process 在不在），不能只讀它的回報。
+
+**變體：子代自己再往下派一層（2026-09-09）**。一隻 vi 委派 agent 的最終回報
+是「子代理正在執行翻譯。我會等待完成通知後回報結果。」——它沒有用
+`run_in_background`，它是**再 spawn 了一個 agent**，然後等一個同樣不會來的通知。
+檔案從來沒被寫出來，而回報讀起來像進行順利。原本的禁令只寫了「禁止
+`run_in_background` 後結束回合」，沒堵住「往下再派一層」這條路；同一個結構
+（等一個在你的環境裡不會到達的通知）換了個載體就穿過去了。
+
+spawn prompt 因此要寫兩句而不是一句：「**全部自己前景做完，不 spawn 子代理、
+不 `run_in_background`**」。並且驗收一律查檔案在不在——今天這隻靠 `ls` 一秒
+就現形，靠讀回報則完全看不出來。
 
 ## 鐵律集（違反任一 = 本輪不合格）
 
@@ -260,6 +271,49 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.57（2026-09-18 晚間心跳）：**整篇多數票看不到尾段換語言**。handoff 留了一條
+  「ar 馬英九 30 秒概覽混了一個韓文『한쪽』」的單檔小修，照 REFLEXES #24「單例不代表
+  集群」掃全庫：hi 370／ar 314／ru 265 篇非韓文譯文裡有韓文，2026-09 還在新增。
+  兩種形狀：(a) **尾段整段韓文**——媒體授權說明、「## 참고 자료」、腳註描述整段是
+  韓文而正文是天城文（本機模型長輸出翻到尾巴語言漂掉），hi 39 篇、ar 1 篇；
+  (b) **單字級融合殘留**（「कार्बन उत्सर्जन 추진 कर रहा है」），約 900 篇，是 #52
+  的韓文版。閘門為什麼全綠：`target-language-check` 是整篇字符占比多數票，尾段 25 行
+  韓文佔不到多數；`cjk-leak-check` 只看漢字四連且腳註行豁免，韓文對它不存在；
+  `cjk-residue-check` 看得見 Hangul 但從沒接上產線。修法：`target-language-check`
+  加第二把**逐行**尺 `foreign_script_check`——剝掉連結文字／引號／括號／網址／
+  blockquote 後，一行韓文 ≥ 4 字且不少於目標語言字母數即「外來文字行」，≥ 2 行或
+  單行 ≥ 20 字零目標字母 → fail，恰一行 warn；`babel-dispatch.verify_one` 把它記成
+  `foreign-script[ko]`（跟 `wrong-language` 分開，report.jsonl 才分得出「翻錯語言」
+  與「翻到一半換語言」）。校準：拉丁七語 0 誤殺（〈台灣感性〉的 대만감성、統一發票
+  的韓文來源標題都在豁免位置）；同一把尺量假名會在九語系各誤殺莫那·魯道的日文
+  遺言引句，所以只量韓文。存量 40 篇 → OBSERVER-QUEUE #69（<50 檔，#68 合併後可
+  自主降級 stale）；(b) 900 篇併 #52 處置。
+- v1.56（2026-09-09 觀察者驅動渦流）：**一輪裡浮出四個缺口，其中一個是隊伍本身**。
+  (a) **212 篇文章十二個語言都排不進隊**：檔名是純中文、又還沒有任何語言翻過的
+  文章，`build_slug_map()` 反推不出 slug，`collect_and_filter_groups()` 直接
+  `skip`——而跳過不留痕跡，於是每一輪都跳過同一批。212 × 12 = 2,544 個任務，
+  佔全部缺口 59%。`knowledge/_slug-map.json` 這個補位機制 2026-07-27 就建好了，
+  當時缺口 7 篇、之後沒人補，長到 212 篇（REFLEXES #91 建造與登記不同步）。補齊
+  207 條後全庫零篇查不到 slug，重啟後 fleet 軌 Round 1 的 skip 訊息歸零。新工具
+  `sibling-slug-map.py` 把「slug 先從兄弟語言反查」這個手工步驟儀器化。
+  (b) **沒有一道閘在問「這是不是目標語言」**：委派 agent 交回英文寫進
+  `knowledge/de/`，結構對靶 55/55、verify 17 pass、leak 0、adjacency 0、
+  health hard=0 —— 全綠。閘門量的都是形式，一篇英文文章滿足這些的程度跟德文
+  一樣。新造 `target-language-check.py`（非拉丁看字符集、拉丁看功能詞佔比，
+  刻意不引入 langdetect），接進 `verify_one()` 第一關；全庫掃出 65 篇同型存量
+  （ja 22／ko 17／es 13／fr 9），屬 >50 檔紅線 → OBSERVER-QUEUE #53。
+  (c) **大文章該離開免費池**：cloud 軌 52 分鐘只嘗試 1 篇、0 通過，每篇都耗在
+  40-90KB 的深度文上直到腳註階段逾時。排序「由新到舊」是對的，副作用是最新的
+  文章往往也最大，產線一開機就撞最硬的那批。分派表新增「原稿 >40KB 或腳註 >50
+  → 委派」，判準用篇幅不用失敗次數（後者是事後才知道的）。
+  (d) **委派契約與主權詞表搬進派工單**（`write-agent-brief.py`）：prompt 版的
+  同一條 tags/subcategory 規則連兩隻 agent 讀錯，改寫進派工單後的批次全部正確。
+  派工單是 agent 必讀的檔案，所以仍滿足 §Z2.0 內嵌要求，而且不必每派一隻重打
+  一次（重打就會漂）。
+  同輪三次驗證 REFLEXES #31：九篇裡兩篇 agent 自報「檢查器誤判」實測是真問題
+  （tags 整排沒翻、URL multiset 真的不符），一篇把 `tw-*` 視覺化模組整塊中文
+  判成「資料表格是已知誤判」也不是。**agent 對誤判的判斷本身要被判斷。**
 
 - v1.55（2026-08-09 vi 委派兩批 200 篇）：**委派層長出自己的 SOP**，canonical 在
   [SQUEEZE §委派層 SOP](SQUEEZE-MODELS-MAX-PIPELINE.md)。vi 是十一語裡唯一

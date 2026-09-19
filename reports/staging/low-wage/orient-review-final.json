@@ -1,0 +1,22 @@
+{
+  "revision": 20,
+  "submissionId": "eced9734-b80d-4d72-9b62-e78cc8f63d28",
+  "actor": "orient-reviewer-8 (Sonnet agent a898de9aaa5e8e230, fresh context, read brief + frozen stage0 snapshot + submission only)。同內容前一版由 reviewer-7 ad5adb03082f2165c accept；本輪因 prettier 重排 JSON 觸發重審",
+  "verdict": "accept",
+  "rationale": "(a) 說明非宣判；(b) 三角度各自被自己的推翻條件打中且互不重複；(c) 搜不到未當不存在；(d) 數字對回凍結快照條目 13、21、27 一致；(e) 同意第三型與三道 self-check。瑕疵一條交下游：uncertainties 第 6 條說「brief 寫 2026 破三萬」已是舊況（brief 已修），措辭在 investigate 順手更新。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/brief.md",
+      "location": "第 9 行"
+    },
+    {
+      "path": "reports/staging/low-wage/stage0-viewpoint-frozen.md",
+      "location": "§探索搜尋紀錄 條目 13、21、27；§脊椎；§Step 0.6.7"
+    },
+    {
+      "path": "reports/staging/low-wage/orient-submission.json",
+      "location": "data.subjectExplanation；data.candidateAngles；data.uncertainties[5]"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

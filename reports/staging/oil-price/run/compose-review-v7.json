@@ -1,0 +1,30 @@
+{
+  "revision": 51,
+  "submissionId": "f83b689d-4351-4497-acf7-0ca25f767c94",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "五處小修四處成立：tw-note 改成時間並列「三次降價的那幾週回落」無因果；s5 補回「跟四年 3,500 億是什麼關係，9 月 3 日的新聞稿沒有寫」對研究報告 §11 #6；s2「32.7 元落在平穩措施 25% 那一級」對 s2 級距表 32.5–34.9 → 25%，「沒拆哪一道占多少」對 9/12 稿逐字只給 6.8；s3「跟 9 月同一組數字」對 6/20 與 9/12 稿的 3.7／2.1。新增句無未經來源細節，health 全掃與 rewrite-stage-4 hard=0 warn=0，prose-health 1。擋下新 H2-4「中油那一份被重劃了四次」：「四次」是絕對計數，主編算的是 2008/8、2012、2018、2025/12，但 2012 合理化只在圖說與 timeline 不在正文，而正文 s4 第二段「中油 99 年 12 月起減半調漲」同樣是重劃中油那一份卻沒被算進去——讀正文數到 2008、2010、2018、2025，讀圖說數到五，標題不該扛一個沒有共同尺的數字（同前輪「二十年來一次正式糾正」一類）。改法：去掉計數，「從 2008 年一次漲足到 2025 年門檻上修，中油那一份一改再改」或「被重劃了一次又一次」。改完即 accept。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「從 2008 年一次漲足到 2025 年門檻上修，中油那一份被重劃了四次」；同節第二段「中油 99 年 12 月起減半調漲」；田尾站圖說與 tw-timeline 2012 列"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「一份新聞稿裡的算式」分攤句「32.7 元落在平穩措施 25% 那一級⋯沒拆哪一道占多少」與級距表；H2「凍漲二十週」tw-note 與「跟 9 月同一組數字」；H2「先墊的人」3,500 句"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v7.json",
+      "location": "data.editorialChoices 末段 v7"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission-v3.json",
+      "location": "第三輪複讀（分桶見 cold-read-review-v3.md）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v7.md",
+      "location": "全文"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "revision": 75,
+  "submissionId": "a7237132-e3d2-455e-a793-8f4467cd8029",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent a645e69c1a1d3bad9（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "第十一位冷讀者判 ship：回述正確、四題全答得出、title/description 兌現、sideTaking 讀成「問題存在但不是造假」的中間立場——第七節收束句在「選擇」→「說明順序」→「講法」兩次修正後，不再被任一邊讀成站邊（reader-4/5 讀成替主計總處、reader-10 讀成替在野黨，reader-11 讀成中間）。十一位冷讀者累計 ship 5（4、7、9、10、11）、revise 6，其中四次同指處（順序／算術／全→主要／三百多萬措辭）皆已修；剩餘為分母密度與頭尾回聲，前輪已裁決。「政策把地板推過線」句前有兩組漲幅數字支撐，且是第六節的論點兌現句，不改。停在這裡。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L251 收束句；L199 漲幅段"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission-11.json",
+      "location": "data.sideTaking / fourChecks / titleDescriptionHonest"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}

@@ -1,0 +1,21 @@
+{
+  "revision": 43,
+  "submissionId": "4aaebed6-2084-4b20-8113-b18f80cb7044",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第六次 delta）",
+  "verdict": "accept",
+  "rationale": "正文零改動，只動 frontmatter。description 以專案 _cjk_count 量得 127 字落在 120-160 區間；五個事實逐條對回正文（電視不在 1965 範圍、《與惡 II》與《忘了我記得》各 13 項、老三台十七年、公視與客家電視上榜、OTT 要點）。rationale.where_it_hedges 五處全部核對正文原句存在（1970 年前後；2002／2008 維基索引層級；門檻不寫三分之二；「這幾次」；停在名單）；whos_pushing_back 四種對應既有段落，未引進新指控。footnote 70/70 不變，無後台洩漏。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "frontmatter description（CJK 127 字）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "frontmatter rationale.where_it_hedges 五處"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "frontmatter rationale.whos_pushing_back 四種"
+    }
+  ]
+}

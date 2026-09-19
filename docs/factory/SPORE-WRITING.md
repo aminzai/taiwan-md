@@ -281,7 +281,7 @@ PIPELINE 管 process（5 stage 線性），WRITING 管 craft（怎麼寫好）�
 
 **⛔ 自我豁免禁令（vc=2 pattern）**：儀器或 mental grep 命中後，**不准現場發明規則裡沒有的豁免類別**（「接話式呼應」「節奏需要」「這句其實是⋯」）。歷史：5/27-28「等效 prime」自我合理化三連發 → v4.0 HARD 才止血；2026-08-03 #165 v6 作者對命中的短句開場自判「接話式呼應不算」放行，**改寫出來的還是同一個病**（「他兩條都沒走」→「他兩個都不接」）——耳朵會習慣自己的腔，這正是需要外部尺的原因。要豁免只有一條路：**寫進 blueprint 留痕**（同 §字數超標決策 pattern：具體理由 + 不冒充合規），讓觀察者看得見這個判斷。
 
-**每輪 revise 後重跑 gate**：callout → 改寫 → 必須重跑 plugin 再送，不得以「我重讀過了」代替（#165 v6 就是 revise 後沒重跑，儀器抓得到的句子帶著豁免出門）。這是 [REWRITE Step 3.6.4](../pipelines/REWRITE-STAGE-3-VERIFY.md)「主 session 親改 prose 必重量測」的孢子層版本，對應 [REFLEXES #69 (h)](../semiont/REFLEXES.md)。
+**每輪 revise 後重跑 gate**：callout → 改寫 → 必須重跑 plugin 再送，不得以「我重讀過了」代替（#165 v6 就是 revise 後沒重跑，儀器抓得到的句子帶著豁免出門）。這是 [REWRITE-PIPELINE-SINGLE Step 2.7.2](../pipelines/REWRITE-PIPELINE-SINGLE.md#step-272-prose-health-plugin-gate對位句型--破折號--ai-metaphor-全交給工具)「主 session 親改 prose 必重量測」的孢子層版本，對應 [REFLEXES #69 (h)](../semiont/REFLEXES.md)。
 
 ### 禁止清單
 

@@ -1,0 +1,6 @@
+total 71 non-2xx 4
+('https://www.bamid.gov.tw/News_Content.aspx?n=3483&s=123356', '000 → 重試兩次皆 200，瞬時逾時')
+('https://www.chinatimes.com/realtimenews/20241021002700-260404', '403')
+('https://www.thenewslens.com/article/260067', '403')
+('https://www.chinatimes.com/realtimenews/20221101002327-260404', '403')
+note: chinatimes/thenewslens 403 = bot block (browser opens); ettoday 000 if any = local network reset, not dead

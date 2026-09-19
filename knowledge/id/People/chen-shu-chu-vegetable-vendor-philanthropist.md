@@ -22,7 +22,7 @@ translatedFrom: 'People/陳樹菊.md'
 sourceCommitSha: '2344309a0'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-09T12:33:28.492319+00:00'
+translatedAt: '2026-09-09T10:45:09.151793+00:00'
 ---
 
 > **Ringkasan 30 detik:** Chen Shu-chu, lahir tahun 1950, adalah pedagang sayur di Pasar Sentral Taitung. Pada usia 13 tahun ia berhenti sekolah untuk berjualan sayur setelah ibunya meninggal saat melahirkan. Sejak itu, selama lebih dari lima puluh tahun, ia telah menyumbangkan puluhan juta NT dolar kepada sekolah, panti asuhan, dan rumah sakit. Pada tahun 2010 ia masuk dalam daftar 100 Orang Paling Berpengaruh di Dunia versi majalah _TIME_; sutradara Ang Lee sendiri yang menulis profil pencalonannya. Ketika ia pergi ke New York untuk menerima penghargaan, ia berkata: "Saya cuma seorang penjual sayur."[^1]
@@ -93,9 +93,9 @@ Tahun 2025, Universitas Nasional Taitung menganugerahinya gelar doktor kehormata
 
 ## Bacaan Lanjutan
 
-- [Budaya Pasar Tradisional Taiwan](/id/lifestyle/taiwan-traditional-markets-and-market-culture) — Chen Shu-chu yang berjualan di pasar Taitung Central selama lima puluh tahun hidup di tengah ekosistem pasar tradisional ini
-- [Budaya Sukarelawan dan Partisipasi Kebaikan di Taiwan](/id/society/volunteering-and-civic-charity-in-taiwan) — Dari Tzu Chi di bawah pengawasan Master Cheng Yen hingga gerai sayur Chen Shu-chu, dua contoh filantropis warga di Taiwan
-- [Pendidikan Terpencil di Taiwan](/id/society/taiwan-rural-education) — Riwayat kontribusi Chen Shu-chu selama bertahun-tahun: dukungan jangka panjang untuk perpustakaan, sekolah, dan panti asuhan
+- [Budaya Pasar dan Pasar Tradisional Taiwan](/id/lifestyle/taiwan-traditional-markets-and-market-culture) — Pasar Pusat Taitung tempat Chen Shu-chu berjualan selama lima puluh tahun, hidup di dalam ekosistem pasar tradisional ini
+- [Kultur Relawan dan Partisipasi Amal Taiwan](/id/society/volunteering-and-civic-charity-in-taiwan) — Dari Tzu Chi Bhikkhuni Cheng Yen hingga kiosk sayur Chen Shu-chu, dua contoh amal rakyat Taiwan
+- [Pendidikan Pedesaan Taiwan](/id/society/taiwan-rural-education) — Aliran utama donasi Chen Shu-chu selama bertahun-tahun: perpustakaan, sekolah, panti asuhan, konteks dukungan jangka panjang
 
 ## Daftar Pustaka
 

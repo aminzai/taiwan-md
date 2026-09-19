@@ -1,0 +1,34 @@
+{
+  "revision": 13,
+  "submissionId": "1d2e4acc-e8d5-438a-945b-bdd45595649e",
+  "actor": "guide_orient_reviewer_4 (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "python 逐欄比對確認 v4 與 v3 的 data 除 uncertainties 尾端一條重交註記（流程性說明，非內容主張）外逐字相同，其中 readerQuestion/subjectExplanation/candidateAngles 與 uncertainties[0-7] 完全相等；獨立重新檢視四項評閱標準：readerQuestion 是真讀者會問的問題而非論點、subjectExplanation 用具體數字與比喻把機制講成一般人聽得懂的故事、candidateAngles 有四個（≥2）彼此正交的角度且每個都寫了具體可被 Stage 1 材料推翻的條件、沒有任何一條宣判核心矛盾的答案、uncertainties 九條皆為具體必驗未知非空話，皆通過，未發現前兩輪評閱遺漏的問題，v4 唯一差異的重交註記不影響上述判斷。",
+  "contextDisclosure": "fresh-context-orient-inputs-only",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v4.json",
+      "location": "data.readerQuestion；data.subjectExplanation；data.candidateAngles[0-3]；data.uncertainties[8]（重交註記）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v3.json",
+      "location": "data（全欄，逐欄比對基準）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v3.json",
+      "location": "rationale（前一版獨立評閱結論）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v2.md",
+      "location": "全文（v2 兩位讀者 accept 理由）"
+    },
+    {
+      "path": "reports/staging/oil-price/brief.md",
+      "location": "讀者、讀者問題段落"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v4.json",
+      "location": "全文"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "revision": 13,
+  "submissionId": "215ff320-6e8f-4aad-b44e-0e91b2cf1f39",
+  "actor": "investigate 站評閱編輯（Sonnet，Agent a5dd7ca74e4d0f315，乾淨 context；抽驗 curl 直讀 stars.udn.com／cna.com.tw／commons API 四項；其餘 claims 沿用前評閱 revision 9 accept；contextDisclosure: fresh-context-inputs-only）",
+  "verdict": "accept",
+  "rationale": "Stage 1B 新增 2 條 claim 逐字命中：原視 61 屆「5 檔節目入圍、合計 8 項大獎」四項分項與林傳凱姓名一致；中央社「2 人將把一半獎金捐給外籍移工在台基金會，剩下獎金跟劇組慶祝」與正文一致，兌現查無已如實標註。§9 兩張圖 Commons API：45 屆主舞台 CC BY-SA 2.0／☼うみ目覚めたら，陳亞蘭 2022 CC BY 3.0／三立娛樂星聞，與矩陣相符。§10 反向閥門「不重判 spine」理由有 §5 護欄同步紀錄；「公視球員兼裁判」改三事實並列非迴避；超 scope 九項對應既有 whats_excluded，非新塞入逃避。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§D 原視 8 項／連炳發捐款兩條"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§9 圖片素材表（45 屆主舞台、陳亞蘭 2022）"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§10 分類表與反向閥門結論"
+    },
+    {
+      "path": "reports/staging/golden-bell/investigate-submission.json",
+      "location": "data.claims 第 5、8 條與 counterEvidence"
+    }
+  ]
+}

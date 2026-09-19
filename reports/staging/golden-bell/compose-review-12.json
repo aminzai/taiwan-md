@@ -1,0 +1,21 @@
+{
+  "revision": 65,
+  "submissionId": "e4ed18d6-362d-46ba-8370-bad1097b03d7",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十一次 delta）",
+  "verdict": "accept",
+  "rationale": "兩處都核實過。(1) 表格錨欄改寫只是把上一輪已核過的兩筆事實講明邏輯定位，[^2] 列表中 2015 聯意製作、2023 十三月皆單一公司獨立掛名，未引進新事實。(2) [^52] 中時被 Cloudflare 擋下，改用維基第 57 屆金鐘獎 §爭議交叉：「《良辰吉時》主題曲《I Promise》⋯原獲得了該屆的主題歌曲獎⋯取消得獎資格，並改由《俗女養成記2》插曲《蚵仔麵線》成為主題歌曲獎的得獎者」逐字支撐新句。footnote 70/70 不變。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L76（表格錨欄改寫）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L182（良辰吉時／I Promise 新句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L343（[^52] 定義）"
+    }
+  ]
+}

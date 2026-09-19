@@ -1,0 +1,22 @@
+{
+  "revision": 54,
+  "submissionId": "cfc3753c-6055-456f-8d15-c01028979ebe",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "v7 唯一必改照改法落地：H2-4 改「從 2008 年一次漲足到 2025 年門檻上修，中油那一份一改再改」，去掉沒有共同尺的「四次」計數，兩端載體具體、主詞與動作可還原；正文「四次」0 次。diff 只有這一行，沒有新腳註、新數字、新人名。article-health rewrite-stage-4 與全掃 hard=0 warn=0，prose-health score 1。前輪所有判定維持。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「從 2008 年一次漲足到 2025 年門檻上修，中油那一份一改再改」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v8.json",
+      "location": "data.editorialChoices 末段 v8"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v8.md",
+      "location": "全文"
+    }
+  ]
+}

@@ -38,7 +38,7 @@ translatedAt: '2026-05-16T05:07:56+08:00'
 
 ## Chi Po-hao: el hombre que pasó de la economía al sonido y usa algoritmos para formular una pregunta: ¿realmente estás escuchando?
 
-> **30 秒概覽：** 紀柏豪（Pohao Chi），1989 年生，聲音藝術家、作曲家、策展人。台大經濟系畢業，赴倫敦金匠學院（Goldsmiths）取得音樂碩士，2021 年以 MIT Art, Culture and Technology 碩士身份拿下 Harold and Arlene Schnitzer Prize 視覺藝術首獎[^1]。2014 年以合成器手身份參與 Hello Nico《浮游城市》EP[^2]，同年作品《空間的節奏》入選台北美術獎[^3]、獲國美館贊助赴荷蘭 V2 鹿特丹駐村、獲選雲門舞集第 11 屆「流浪者計劃」[^4]。2015 年走訪青海、甘肅、寧夏，沿河西走廊跨越一千多公里[^22]，隨後駐村巴黎西帖、西班牙 LABoral（2016）、香港 Asia Art Archive（2016）、桃園憲光二村（2017）、紐約 Artists Space PRACTICE（透過台北國際藝術村選送，2018）、杭州兩岸文化交流中心（2018）、英國 FACT 利物浦（2018）、Medialab Prado 馬德里（2021）、洛杉磯 18th Street Arts Center（2022）、工研院 Arts@ITRI（2025）等十餘次國際與本地駐村[^7]。2017 年創立融聲創意 Zone Sound Creative 工作室。2025 年於 C-LAB 聲響藝術節 DIVERSONICS 發表《朗誦者 2.0》[^5]，並以《水景迴路 Cybernetics of Waterscape》參與 C-LAB 策劃的台灣館 Polyphony，在奧地利林茲 Ars Electronica 藝術節 POSTCITY 展出[^23][^24]。2026 年 3 月以《朗誦者(s) Reciter(s)》參與巴黎 IRCAM Forum Workshops[^25]；同年 4 月 24 日至 6 月 28 日，沉浸數位藝術作品《Life in Motion》在洛杉磯 The Music Center 的 Jerry Moss Plaza 展出[^21]。他用演算法、GPS、AI 合成聲音量測世界，卻始終追問同一件事：「聽」這個行為還有沒有自己的意志。
+> **Resumen en 30 segundos:** Chi Po-hao (紀柏豪, Pohao Chi), nacido en 1989, es artista sonoro, compositor y comisario. Se licenció en Economía por la Universidad Nacional de Taiwán, cursó un máster en música en Goldsmiths (Londres) y en 2021, como estudiante del máster en Art, Culture and Technology del MIT, ganó el primer premio de artes visuales Harold and Arlene Schnitzer[^1]. En 2014 participó como sintetista en el EP 《浮游城市》 de Hello Nico[^2]; ese mismo año su obra 《空間的節奏》 fue seleccionada para el Premio de Arte de Taipéi[^3], recibió el patrocinio del NTMoFA para una residencia en V2 (Róterdam, Países Bajos) y fue elegido para la 11.ª edición del programa «Wanderer» de Cloud Gate[^4]. En 2015 recorrió Qinghai, Gansu y Ningxia, atravesando más de mil kilómetros por el Corredor de Hexi[^22]; después encadenó más de una decena de residencias internacionales y locales: Cité internationale des arts (París), LABoral (España, 2016), Asia Art Archive (Hong Kong, 2016), Xianguang Village n.º 2 (Taoyuan, 2017), Artists Space PRACTICE (Nueva York, seleccionado a través del Taipei Artist Village, 2018), Centro de Intercambio Cultural a Través del Estrecho (Hangzhou, 2018), FACT Liverpool (Reino Unido, 2018), Medialab Prado (Madrid, 2021), 18th Street Arts Center (Los Ángeles, 2022) y Arts@ITRI (2025)[^7]. En 2017 fundó el estudio Zone Sound Creative (融聲創意). En 2025 presentó 《朗誦者 2.0》 en DIVERSONICS, el festival de arte sonoro de C-LAB[^5], y participó con 《水景迴路 Cybernetics of Waterscape》 en Polyphony, el pabellón taiwanés comisariado por C-LAB, exhibido en POSTCITY dentro del festival Ars Electronica de Linz (Austria)[^23][^24]. En marzo de 2026 llevó 《朗誦者(s) Reciter(s)》 a los IRCAM Forum Workshops de París[^25]; y del 24 de abril al 28 de junio de ese mismo año su obra digital inmersiva 《Life in Motion》 se expuso en la Jerry Moss Plaza del Music Center de Los Ángeles[^21]. Mide el mundo con algoritmos, GPS y voces sintetizadas por IA, pero siempre para preguntar lo mismo: si el acto de «escuchar» conserva todavía una voluntad propia.
 
 ---
 
@@ -50,7 +50,7 @@ El público entraba al espacio, sacaba el teléfono, escaneaba un código QR y a
 
 La descripción de la obra decía:
 
-> 「本作品的靈感源於 2000 年思科（Cisco）公司廣為人知的商業廣告『賦權互聯網世代』。當時，廣告中不同族裔的孩童不斷詢問：『你準備好了嗎』，傳遞出對高度互聯與全球化的美好願景。時至今日，語音助理應用表面上實現了跨國界的承諾，但這些合成聲音也逐漸從新奇走向日常，成為一種『慣習媒介』，並徘徊在過時的邊緣。」[^5]
+> «Esta obra se inspira en el conocido anuncio de Cisco del año 2000, “Empowering the Internet Generation”. En él, niños de distintas etnias preguntaban una y otra vez: “¿Estás listo?”, transmitiendo una visión luminosa de un mundo hiperconectado y globalizado. Hoy las aplicaciones de asistente de voz cumplen en apariencia esa promesa de traspasar fronteras, pero esas voces sintéticas han pasado de la novedad a la rutina: se han convertido en un “medio habitual” que ronda ya el borde de la obsolescencia.»[^5]
 
 Leída en 2025, esa frase no contiene ni una pizca del optimismo tecnológico de los años 2000. Siri, Alexa, Google Assistant, el modo de voz de ChatGPT: las voces sintéticas pasaron de ser una novedad inquietante a convertirse en ruido de fondo, y dejamos de escucharlas. La respuesta de Chi Po-hao no es un comentario, sino una instalación: hacer que una voz sintetizada aparezca colectivamente en numerosos teléfonos en el lugar, se desfase y se desintegre, obligando a las personas a **volver a escuchar** qué es exactamente esa voz.
 
@@ -68,7 +68,7 @@ Tras graduarse, no entró al sector financiero. Desde 2011 se convirtió en letr
 
 Cuando la revista en línea del National Culture and Arts Foundation lo entrevistó en 2017, citó una frase del compositor canadiense R. Murray Schafer:
 
-> 「我們的耳朵沒有蓋子，注定會一直聽著；但這並不表示，我們有一雙開放的耳朵。」[^9]
+> «Nuestros oídos no tienen tapa: están condenados a oír siempre. Pero eso no significa que tengamos un par de oídos abiertos.»[^9]
 
 Esa frase explica por qué todo su recorrido creativo posterior parece disperso pero en realidad es coherente: desde los arreglos de sintetizador para Hello Nico hasta las instalaciones sonoras de su residencia en V2, desde la espacialización del sonido hasta las obras web con voz de IA, solo ha hecho una cosa: separar **“hear”** —la recepción fisiológica del sonido— de **“listen”** —la voluntad activa de escuchar—, para que las personas vuelvan a elegir.
 
@@ -159,7 +159,7 @@ Esa es la clave para entender a Chi Po-hao. Sus obras no son autobiográficas, n
 La página principal de su sitio web personal dice:
 
 > "work with sound, everyday technology, and interactive systems, often exploring participatory forms that encourage people to connect and reflect"
-> （以聲音、日常科技與互動系統為創作媒介，經常探索鼓勵人們連結與反思的參與式形式）[^19]
+> (Trabaja con el sonido, la tecnología cotidiana y los sistemas interactivos como medios de creación, y explora a menudo formas participativas que invitan a las personas a conectarse y a reflexionar.)[^19]
 
 La palabra clave de esa autodescripción en inglés, **participatory**, “participativo”, es la postura de trabajo que asumió después de regresar del corredor de Hexi, no un simple término de diseño. Usa algoritmos, GPS, voces sintetizadas por IA y sensores para medir el mundo, pero el objetivo de esa medición es **obligar a las personas a tomar una decisión perceptiva**, no reemplazar su percepción.
 

@@ -178,7 +178,7 @@ Bài viết này sử dụng 6 hình ảnh được cấp phép CC từ Wikimedi
 
 [^4]: [Trang kênh YouTube Thái Hắc Bì](https://www.youtube.com/@jin_an0528) — Thống kê trực tiếp về số lượng khoảng 260 nghìn người đăng ký, 227 video, các series (Diễn đàn Giao thông Đài Loan, Đài Loan Tam Lục Linh, Thái Hắc Bì Kể Về Thành Phố Cổ) và lượt xem của các tác phẩm tiêu biểu.
 
-[^5]: [[[PTT MRT Board: [Tin tức] Cuộc thảo luận về việc YouTuber ngành giao thông "Hắc Bì" nhận giải Đặc biệt Kim Lộ (2025-12-08)](](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html))) — Tham khảo tài liệu bổ sung trong liên kết gốc.
+[^5]: [PTT MRT Board: [Tin tức] Cuộc thảo luận về việc YouTuber ngành giao thông "Hắc Bì" nhận giải Đặc biệt Kim Lộ (2025-12-08)](https://www.ptt.cc/bbs/MRT/M.1765182739.A.5C0.html) — Tham khảo tài liệu bổ sung trong liên kết gốc.
 
 [^6]: [Facebook Hội Giao thông Đài Loan: Tọa đàm tháng 5/6 mời YouTuber giao thông Hắc Bì (2021)](https://www.facebook.com/100077498171484/posts/330022631891460/) — Tài liệu ghi lại sự kiện Hội Giao thông Đài Loan mời anh đến chia sẻ quá trình sản xuất video với danh xưng "Chuyên gia video giao thông Thái Cẩm An (Thái Hắc Bì)".
 

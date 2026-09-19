@@ -1,0 +1,12 @@
+🧬 fact-atom-diff  BEFORE=/private/tmp/claude-501/-Users-cheyuwu-Projects-taiwan-md/9f9fc3a3-c457-4720-9efe-4be8076ad14e/scratchpad/article-pre-closing.md  AFTER=reports/article-evolve/誰算低薪-closing.md
+   ✅ Frontmatter 逐位元組
+   ✅ 直接引語「...」
+   ✅ 數字原子
+   ✅ 腳註引用 [^n]
+   ✅ 腳註定義 [^n]:
+   ✅ URL
+   ✅ Wikilink [[...]]
+   ✅ H2 小標（順序）
+   ✅ 表格／程式碼區塊／HTML 區塊
+
+fact-atom-diff: PASS

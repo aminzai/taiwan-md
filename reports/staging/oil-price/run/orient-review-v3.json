@@ -1,0 +1,18 @@
+{
+  "revision": 8,
+  "submissionId": "0c74024e-8ffd-465e-843a-cb1723b9914b",
+  "actor": "guide_orient_reviewer_3 (Sonnet sub-agent a3251997f44bfc715, fresh context)",
+  "verdict": "accept",
+  "rationale": "v3 data 與 v2 逐字相同（python json diff 僅 uncertainties 尾端新增一條重交註記），四角度各有可被推翻之處、未宣判核心矛盾、8 條未知完整；artifacts 拿掉研究報告參照屬站間依賴收斂不影響 orient 交付內容；與已 accept 的 v2 實質無異。",
+  "contextDisclosure": "fresh-context-orient-inputs-only",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v3.json",
+      "location": "data.uncertainties[7] 重交註記；candidateAngles[0-3] 與 v2 逐字相同"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v2.md",
+      "location": "全檔（v2 兩位讀者 accept 理由）"
+    }
+  ]
+}

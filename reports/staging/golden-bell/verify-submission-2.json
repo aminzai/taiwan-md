@@ -1,0 +1,96 @@
+{
+  "revision": 114,
+  "stage": "verify",
+  "actor": "verify 站第二輪（release 站主編 revise 回修後）：來源覆核＝乾淨 context 驗證員（a8fa2d36112a48c13）14 條＋ compose 站 delta 評閱員（aba7455ab923815c8）對回修四輪逐句 curl；機械檢查＝主 session 重跑並存檔",
+  "artifacts": [
+    "knowledge/Culture/金鐘獎.md",
+    "reports/staging/golden-bell/mechanical/rewrite-stage-4.txt",
+    "reports/staging/golden-bell/mechanical/rewrite-stage-3-5.txt",
+    "reports/staging/golden-bell/mechanical/image-health.txt",
+    "reports/staging/golden-bell/mechanical/prose-health.txt",
+    "reports/staging/golden-bell/mechanical/prose-flow.txt",
+    "reports/staging/golden-bell/mechanical/footnote-url.txt",
+    "reports/staging/golden-bell/mechanical/url-check.txt",
+    "reports/staging/golden-bell/mechanical/footnote-balance.txt",
+    "reports/research/2026-09/金鐘獎-stage35-audit.md",
+    "reports/research/2026-09/金鐘獎-stage36-audit.md",
+    "reports/article-evolve/金鐘獎-closing.md"
+  ],
+  "data": {
+    "sourceChecks": [
+      "1965-07-10 中山堂第一屆、八座金鐘、七家電台（中廣兩座）、電視不在範圍 [^4] → 報時光轉載 1965-07-11 聯合報原文逐字八座得主與 1971-03-03「從今年起將電視節目納入」→ ✅",
+      "106 年度要點四條（OTT／以一播送頻道計算／評審切結與名單公開／迷你劇集電視電影分家）[^23]，105 年度無此四條 [^24] → gba.tavis.tw 106 年度要點原文逐字四條；法規系統 105 年度只有客家原民頻道另計 → ✅",
+      "「每一獎項，以五件為限」報名額度 [^23] → 106 年度要點第七條逐字 → ✅",
+      "2011 第 46 屆戲劇節目獎《客家劇場—雲頂天很藍》客家電視台、黃雨佳編劇獎、朱芯儀《犀利人妻》女配角 [^67] → bamid 100 年得獎名單逐字 → ✅（此條推翻研究報告與 Stage 0 的《犀利人妻》版本，3-bis 待回填）",
+      "2007 第 42 屆《危險心靈》公視 [^17] → bamid 96 年得獎名單為清單格式「（一）戲劇節目獎　危險心靈（財團法人公共電視文化事業基金會）」→ ⚠️→已修：原描述把兩行拼成一句誤標「原文」，正文與 [^17] 改為清單陳述",
+      "陳亞蘭感言三句逐字 [^31]；「男裝反串」[^31] → 中央社 2022-10-22 逐字 → ✅",
+      "第 61 屆 122 家、戲劇 824／節目 883、135／101 入圍、27／20 獎項 [^57][^58] → more-news 與華視 9/15 記者會兩源一致 → ✅；廣播 280 家 1,096 件 140 入圍 29 獎項 [^44] → bamid 115 年度新聞稿逐字 → ✅",
+      "第 59／60 屆 YouTube 78→136 萬、同時在線 8→17 萬、電視 257 萬（單場）與 505.5 萬人次（兩場加總）[^46][^47][^48] → chinatimes／thenewslens 403 bot block，ettoday 本輪已可達；數字依腳註描述與研究 §2 log 對回，口徑差異已在正文明寫「不能直接比」→ 🚫 兩源無法本機重驗、非死鏈",
+      "2023 Netflix 40 項 12 座 [^60] → Netflix Newsroom 英文原文 2+7+14+17=40 → ✅；2026 Netflix 40 項、《忘了我記得》13、「29 項大幅攀升」「創下歷史新高」[^64] → stufftaiwan 轉載 13+10+9+6+2=40 → ✅；矛盾判定：[^64]「歷史新高」與 [^60] 2023 已 40 項衝突，來源公關稿錯，正文明寫「同一個數字，不是新高」",
+      "曹瑞原逐字回應 [^62] → NOWnews 逐字一致，報導未載質疑方（正文已寫明）→ ✅；《零日攻擊》短劇集報名說明 [^63] → 自由娛樂記者轉述，正文不加引號 → ✅",
+      "客家電視 26 項、《屋下無人》8、《都市開基祖》7 [^36] → 客新聞原文 → ✅；原視 8 項、《hata la 異世界》4 項 [^38] → 噓星聞原文 → ✅",
+      "《我們與惡的距離 II》首播平台不含 Netflix [^59] → 維基條目平台清單 → ✅",
+      "廣播特別獎從缺、三分之二門檻（報導）、「鼓勵不是沒收」為獲推薦者本人直言 [^45] → 自由娛樂原文逐字；丁文祺頭銜「廣播商業同業公會理事長」→ ⚠️→已修（原誤植「廣播電視公會」）；109 年度廣播要點 GL001313 查無量化門檻（研究 §3 記錄）→ 正文寫「公開的獎勵要點裡查無」",
+      "表格得獎單位：2002 大愛《別來無恙》、2010 大愛劇場《情義月光》永續傳播、2015《16 個夏天》聯意製作、2016《一把青》與 2022《斯卡羅》公視／台北創造電影、2023《村裡來了個暴走女外科》十三月、2024《有生之年》豐采文創等、2025《影后》良人行等 [^2][^21][^34][^41] → 維基得獎列表得獎標記逐筆、bamid 113 年度、公視＋劇夠 → ✅（compose 評閱員逐輪 curl）",
+      "戲劇節目獎獎名沿革：1971–1978「大眾娛樂性節目」得主中視×5、台視×2、華視×1；1981 第 16 屆起「戲劇節目」，導言「1981 年首屆金鐘獎設戲劇節目獎」[^2] → 維基列表全文 → ✅（compose 評閱員先誤判後更正）",
+      "[^54] 原噓星聞頁 404 → 換 TVBS 2011-10-23 原報導，標題與內文逐字對應 → ✅；[^52] 中時 Cloudflare 擋 → 以維基第 57 屆金鐘獎 §爭議 交叉確認〈I Promise〉撤銷與〈蚵仔麵線〉遞補 → ✅",
+      "2010《情義月光》得獎單位只列製作公司永續傳播、1981–2009 得獎單位逐筆皆為頻道／電視公司／基金會 [^2][^71] → bamid 99 年名單逐字＋維基列表逐年（compose 評閱員 curl）→ ✅（取代原「跟頻道並排」的格式推論，release 站主編指出）",
+      "表格製作公司列（現稿 L83「十三月《村裡來了個暴走女外科》、豐采文創等三家《有生之年》、良人行等《影后》」）：2023 十三月單獨；2024 製作單位三家（豐采文創、有影拍浪、聯利媒體，[^21] 官方頁；參賽單位另有百聿數碼、時創影業）；2025 良人行影業領銜六家聯名含台灣大哥大（電信商，非領銜）[^2][^34] → 維基列表＋bamid 113 年度＋公視＋劇夠 → ✅；錨欄措辭「得獎單位裡沒有頻道，領銜的都是製作公司」三年皆成立",
+      "1984 金鐘禮讚酒會「強調『入圍即得獎』的精神」擴大表揚範圍 [^1] → gba.tavis.tw/60th/about.html 沿革逐字 → ✅"
+    ],
+    "mechanicalChecks": [
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Culture/金鐘獎.md --profile=rewrite-stage-4",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=4  passed=True (fail_on=hard)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Culture/金鐘獎.md --profile=rewrite-stage-3-5",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=3  passed=True (fail_on=hard)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Culture/金鐘獎.md --check=image-health",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Culture/金鐘獎.md --check=prose-health",
+        "exitCode": 1,
+        "output": "Summary: hard=0  warn=1  info=1  passed=False (fail_on=warn)；唯一 warn L128 為影視局新聞稿逐字引文內全形分號，引文保留"
+      },
+      {
+        "command": "python3 scripts/tools/prose-flow.py knowledge/Culture/金鐘獎.md",
+        "exitCode": 0,
+        "output": "   Summary: 0/3 訊號亮起"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Culture/金鐘獎.md --check=footnote-url",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 <curl 逐條腳註 URL，見 mechanical/url-check.txt>",
+        "exitCode": 0,
+        "output": "total 71 non-2xx 4 | ('https://www.bamid.gov.tw/News_Content.aspx?n=3483&s=123356', '000 → 重試兩次皆 200，瞬時逾時') | ('https://www.chinatimes.com/realtimenews/20241021002700-260404', '403') | ('https://www.thenewslens.com/article/260067', '403') | ('https://www.chinatimes.com/realtimenews/20221101002327-260404', '403') | note: chinatimes/thenewslens 403 = bot block (browser opens); ettoday 000 if any = local network reset, not dead"
+      },
+      {
+        "command": "python3 <footnote used/defs 對應>",
+        "exitCode": 0,
+        "output": "used 71 defs 71 orphans [] undefined []"
+      },
+      {
+        "command": "python3 scripts/tools/fact-atom-diff.py（Step 3.8，reports/article-evolve/金鐘獎-closing.md）",
+        "exitCode": 0,
+        "output": "PASS；其後每輪回修由 compose 評閱員 curl 核，無未經核的新事實原子"
+      }
+    ],
+    "unresolved": [
+      "研究報告 reports/research/2026-09/金鐘獎.md §3 §C／§D、§5 #5、§7.2、frontmatter single_source 仍寫 2011 客家台是編劇獎（錯，正確為戲劇節目獎《雲頂天很藍》）；另 1965 八家→七家、公視非「最多」、廣播早一週各屆日期、108 年度官方頁、[^54] TVBS、戲劇節目獎 1971 前身、丁文祺頭銜、2010 製作公司（非並排）、1984 禮讚酒會——3-bis fact-pack 回填排在 release accept 之後、ship 之前（研究報告是本 run 依賴檔，中途改動會 stale 全站）",
+      "[^46][^48]（chinatimes／thenewslens）本機 403，第 59／60 屆收視與直播數字只能對回腳註描述與研究 §2 log，無法本輪重抓原文",
+      "典禮 10/17、10/23、10/24 尚未舉行，文章停在名單已印；頒獎後需 EVOLVE-delta 補結果",
+      "run 事件紀錄兩處缺口：cold-read 第 2 輪（429e1f24）與 compose 第 9 次提交（f062a882）的 revise 評閱因主 session 先改稿後記錄而未進 state.json，verdict 留在 staging/cold-read-review-2.json 與 compose-review-8.json，backtrack reason 有註明",
+      "沈春華十三座、良辰吉時決議逐字（中時 403，維基交叉）為殘餘 ⚠️，正文分別未寫／已交叉"
+    ]
+  }
+}

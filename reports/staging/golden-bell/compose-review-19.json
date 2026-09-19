@@ -1,0 +1,13 @@
+{
+  "revision": 102,
+  "submissionId": "6654cce6-8246-4585-9bee-890dd347045e",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十八次 delta）",
+  "verdict": "accept",
+  "rationale": "核對 [^2] 三年：2023 十三月單獨；2024 五家皆製作公司，領銜豐采文創；2025 六家無電視頻道、台灣大哥大在第 4 位、領銜良人行影業。新句「沒有頻道，領銜的都是製作公司」兩件事三年皆成立。footnote 71/71，其餘未動。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L76（製作公司單獨掛名列錨欄）"
+    }
+  ]
+}

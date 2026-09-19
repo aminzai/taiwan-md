@@ -1,0 +1,17 @@
+{
+  "revision": 85,
+  "submissionId": "9bd5e2bf-9c8d-469c-a761-7712dc2b8a55",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十五次 delta）",
+  "verdict": "accept",
+  "rationale": "重新 curl 維基頁三點核實通過，並更正上輪漏讀：導言明寫「1981年首屆金鐘獎設戲劇節目獎後」。(a) 第 16 屆章節標題「戲劇節目」；(b) 1971–1978 八屆得主中視×5、台視×2、華視×1，無第四家；(c)「設戲劇節目獎」支撐 [^2]「首次頒發為 1981 年」的白話轉述。新句精準區分獎名（1981 起）與前身「大眾娛樂性節目」（1971–1978）。footnote 70/70。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L54（1981 獎名句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L243（[^2] 定義）"
+    }
+  ]
+}

@@ -1,20 +1,24 @@
 ---
-title: 'Tình nguyện viên cứu hỏa Đài Loan: Sau giờ làm, họ mặc đồng phục để tạo nên đội cứu hộ thứ hai của địa phương'
-description: 'Các tình nguyện viên cứu hỏa được gọi là tình nguyện viên, nhưng lại có tổ chức pháp lý, huấn luyện chuyên nghiệp, chỉ huy nhiệm vụ và bảo hiểm cứu trợ. Từ các đội phòng cháy chữa cháy thời Nhật Bản đến công tác tìm kiếm cứu nạn miền núi ngày nay, lực lượng địa phương này đã bù đắp khoảng trống trong hệ thống phòng cháy, đồng thời bộc lộ những vấn đề về tuyển dụng, huấn luyện, trang bị an toàn, sự hỗ trợ của gia đình và duy trì lâu dài.'
+title: 'Đội phòng chữa cháy tình nguyện Đài Loan: Sau giờ làm việc mặc đồng phục, địa phương mới có lực lượng cứu hỏa thứ hai'
+description: 'Những người lính cứu hỏa tình nguyện được gọi là tình nguyện viên, nhưng họ có tổ chức được quy định pháp luật, đào tạo chuyên nghiệp, chỉ huy trực, và bảo hiểm ứng phó thảm họa. Từ những tổ chức phòng chữa cháy dưới thời Nhật trị đến những hoạt động tìm kiếm và cứu hộ khu vực núi ngày hôm nay, lực lượng địa phương này làm thế nào để lấp đầy khoảng trống thời gian trong hệ thống cứu hỏa, và cũng để lộ ra những vấn đề về tuyển dụng, đào tạo, trang bị an toàn, hỗ trợ gia đình và duy trì lâu dài.'
 date: 2026-08-21
 category: 'Society'
 tags:
   [
-    'Tình nguyện viên cứu hỏa',
-    'Phòng cháy chữa cháy',
-    'Phòng chống thiên tai',
-    'Tình nguyện',
-    'Khả năng phục hồi cộng đồng',
+    'Lính cứu hỏa tình nguyện',
+    'Phòng chữa cháy',
+    'Ứng phó thảm họa',
+    'Tình nguyện viên',
+    'Sức chống chịu của cộng đồng',
   ]
 subcategory: '社會韌性'
 author: 'Taiwan.md Contributors'
 featured: false
-rationale: "{'why_this_hook': '用下班後穿上消防制服的地方場景切入，讓義消同時具有志願身分與法定隊伍的核心張力。文章把制度、歷史、女性防火宣導與地方人物放在同一條線上。', 'whats_excluded': '不寫全台消防制度總覽、不逐一列出各縣市編制、不把義消浪漫化成消防人力不足的單一解方，也不延伸成消防員勞動權益專文。', 'where_it_hedges': '全台人數引用消防署 2026 年 1 月 1 日資料，明確區分組織總量與單一災害的即時可出勤量。人物故事只採官方頁面可核對的轉述，不把心得改造成未查證的直接引語。', 'whos_pushing_back': '消防實務者可能認為文章仍低估義消專業化與現場分工，志工管理研究者可能要求更多地方個案，而義消家庭則可能提醒讀者，出勤成本不只發生在火場。'}"
+rationale:
+  why_this_hook: 'Cắt từ cảnh địa phương mặc đồng phục phòng chữa cháy sau giờ làm việc, làm cho nhân viên tình nguyện có cả vai trò tình nguyện và mâu thuẫn lực lượng được quy định pháp luật cốt lõi. Bài viết đặt chế độ, lịch sử, công tác tuyên truyền phòng cháy chữa cháy phụ nữ và những nhân vật địa phương trên cùng một dòng.'
+  whats_excluded: 'Không viết tổng quan hệ thống cứu hỏa toàn nước, không liệt kê cụ thể từng tỉnh thành, không lãng mạn hóa nhân viên tình nguyện thành giải pháp đơn lẻ cho thiếu hụt lực lượng cứu hỏa, cũng không mở rộng thành bài viết chuyên đề về quyền lợi lao động của nhân viên cứu hỏa.'
+  where_it_hedges: 'Toàn quốc con số được trích dẫn từ dữ liệu ngày 1 tháng 1 năm 2026 của Cuc Phòng cháy chữa cháy, rõ ràng phân biệt tổng lượng tổ chức và số lượng có thể xuất phát trong một thảm họa cụ thể. Câu chuyện nhân vật chỉ được chuyển thuật từ trang trang web chính thức có thể xác minh, không biến cảm nhận thành lời dẫn trực tiếp chưa được xác minh.'
+  whos_pushing_back: 'Các chuyên gia thực tiễn cứu hỏa có thể cảm thấy bài viết vẫn đánh giá thấp tính chuyên nghiệp hóa và phân công công việc tại hiện trường của nhân viên tình nguyện, những nhà nghiên cứu quản lý tình nguyện viên có thể yêu cầu thêm các trường hợp cụ thể địa phương, trong khi các gia đình nhân viên tình nguyện có thể nhắc nhở độc giả rằng, chi phí xuất phát không chỉ xảy ra tại hiện trường cháy.'
 lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
@@ -22,177 +26,177 @@ image: '/article-images/society/taipei-firefighting-truck.webp'
 imageCredit: 'CEphoto, Uwe Aranas / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg'
-curation: 'incubating'
+curation: incubating
 translatedFrom: 'Society/義消.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:a1c5d1e234e46093'
 sourceBodyHash: 'sha256:b982084e2fb1e6c4'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-09-09T15:01:50+08:00'
 ---
 
-> **Tổng quan 30 giây:** Các tình nguyện viên cứu hỏa (義消 - Yìxiāo) của Đài Loan đã trở thành lực lượng ứng phó tại chỗ được tổ chức theo Luật Phòng cháy chữa cháy, qua huấn luyện và kiểm tra, dưới sự chỉ huy của cơ quan phòng cháy. Lịch sử của họ có thể truy ngược về các đội PCCC thời Nhật Bản, và ngày nay đã phân hóa thành các vai trò chuyên môn như tìm kiếm cứu nạn miền núi, cứu hộ thủy vực, sơ cứu và tuyên truyền phòng cháy. Điểm đáng hiểu nhất về Yìxiāo là việc họ đưa khái niệm "tự nguyện" vào một hệ thống chính thức, đồng thời gắn kết an toàn PCCC với vòng đời sinh hoạt của từng đơn vị địa phương.
+> **Nhìn lại 30 giây:** Những người lính cứu hỏa tình nguyện Đài Loan từ những cư dân tình cờ tới giúp đỡ, đã trở thành lực lượng ứng phó thảm họa địa phương được tổ chức theo Luật Phòng cháy chữa cháy, được huấn luyện, được đánh giá và tuân theo sự chỉ huy của cơ quan cứu hỏa. Lịch sử của nó có thể được truy tìm đến các tổ chức phòng chữa cháy của thời Nhật trị, và ngày hôm nay lại được phân hóa thành các vai trò chuyên nghiệp như tìm kiếm và cứu hộ khu vực núi, cứu hộ nước, cấp cứu và tuyên truyền phòng cháy. Điều đáng hiểu nhất về nhân viên tình nguyện cứu hỏa, là nó đặt "tình nguyện" vào một hệ thống chính thức, và cũng đưa an toàn phòng cháy trở lại vào từng khu vực lân cận của các đơn vị cụm địa phương.
 
-![Xe cứu hỏa Cảnh sát Phòng cháy chữa cháy Thành phố Đài Bắc đậu gần Bưu điện Bắc Môn](/article-images/society/taipei-firefighting-truck.webp)
+![Xe cứu hỏa của Sở Cứu hỏa Đài Bắc đỗ gần Bưu điện Bắc Môn](/article-images/society/taipei-firefighting-truck.webp)
 
-_Ảnh: Xe cứu hỏa Cảnh sát Phòng cháy chữa cháy Thành phố Đài Bắc, Photo bởi CEphoto, Uwe Aranas, CC BY-SA 3.0. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg)._
+_Hình ảnh: Xe cứu hỏa của Sở Cứu hỏa Đài Bắc, Ảnh của CEphoto, Uwe Aranas, CC BY-SA 3.0. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg)._
 
-## Trước khi còi báo động vang lên, đồng phục đã chờ sẵn
+## Tiếng còi vang lên trước khi đồng phục có sẵn
 
-Sau các thảm họa quy mô lớn, quản lý thiên tai của Đài Loan bắt đầu chú trọng hơn đến sự phối hợp giữa chính quyền địa phương, cơ quan PCCC và các tổ chức dân sự. Các nghiên cứu về các đội PCCC địa phương chỉ ra rằng, các tổ chức tình nguyện không phải là lực lượng hỗ trợ đột xuất xuất hiện khi có tai nạn, mà là mối quan hệ hợp tác cần được bồi dưỡng thường xuyên trong hệ thống phòng chống thiên tai của địa phương.[^1]
+Sau các thảm họa lớn, quản lý thảm họa Đài Loan bắt đầu coi trọng hơn cách chính phủ địa phương, cơ quan cứu hỏa và các tổ chức dân sự làm việc cùng nhau. Nghiên cứu về các đơn vị cứu hỏa địa phương cho thấy các tổ chức tình nguyện không phải là sự trợ giúp bên ngoài xuất hiện tạm thời vào lúc thảm họa, mà là một mối quan hệ hợp tác cần được nuôi dưỡng hàng ngày trong hệ thống phòng chống thảm họa địa phương.[^1]
 
-Nhưng câu chuyện về Yìxiāo còn sớm hơn cả những quy định này. Sau khi Nhật Bản cai trị Đài Loan vào năm 1895, người Nhật đến Đài Loan đã thành lập các đội PCCC dựa trên kinh nghiệm quê nhà. Từ năm 1902, chính quyền địa phương hỗ trợ người Nhật thành lập các đội PCCC, và cho đến năm 1921, Tổng đốc phủ ban hành "Quy tắc Đội PCCC Đài Loan", khiến nguồn gốc pháp lý và tổ chức của các đội này dần được thống nhất.[^2]
+Nhưng câu chuyện về nhân viên tình nguyện cứu hỏa còn sớm hơn các chế độ này. Sau khi Nhật Bản chiếm đóng Đài Loan năm 1895, những người Nhật đến Đài Loan đã thành lập các tổ chức phòng chữa cháy dựa trên kinh nghiệm của quê nhà. Từ năm 1902, chính quyền địa phương giúp người Nhật thành lập các tổ chức phòng chữa cháy, và năm 1921, Toàn quyền phát hành "Luật về tổ chức phòng chữa cháy Đài Loan", các quy định pháp lý và tổ chức của các tổ chức phòng chữa cháy mới được thống nhất từng bước.[^2]
 
-Công tác PCCC thời kỳ đầu thuộc địa thực chất là hai tuyến song song: ở khu vực thành thị có các đội PCCC do người Nhật thành lập, còn các làng mạc người Đài Loan thường giao nhiệm vụ dập lửa cho lực lượng dân binh (保甲壯丁團). Những người này ban ngày làm công việc riêng, và chỉ mặc đồng phục, mang theo dụng cụ lao đến hiện trường sau khi báo động cháy xảy ra.[^3]
+Trong giai đoạn đầu của Nhật trị, phòng chữa cháy thực sự là hai đường chạy cùng một lúc: các thành phố có nhiều tổ chức phòng chữa cháy do người Nhật thành lập, trong khi các khu định cư của người Đài Loan thường do các đơn vị trang phục Bảo giáp đảm nhận các nhiệm vụ chữa cháy. Những người đó có công việc riêng trong ngày, nhưng khi có cảnh báo cháy, họ phải mặc áo phòng chữa cháy, mang theo thiết bị cứu hỏa và chạy đến hiện trường.[^3]
 
-Bức tranh đó vẫn còn quen thuộc cho đến tận ngày nay. Yìxiāo có thể đang ở công trường, phòng khám, nhà máy, cửa hàng hoặc tại nhà vào ban ngày. Khi nhận được thông báo, họ phải rời bỏ cuộc sống vốn có để đến địa điểm quy định, sau đó mới được hệ thống chỉ huy PCCC sắp xếp tham gia cứu hộ.
+Cảnh tượng này vẫn còn quen thuộc cho đến ngày hôm nay. Những nhân viên tình nguyện có thể đang làm việc tại công trường, phòng khám, nhà máy, cửa hàng hoặc nhà riêng trong ngày. Khi thông báo đến, họ phải rời bỏ cuộc sống hiện tại, chạy đến địa điểm chỉ định, sau đó được hệ thống chỉ huy cứu hỏa sắp xếp vào công tác ứng phó thảm họa.
 
-📝 **Ghi chú của Biên tập viên:** Điều phản trực giác đầu tiên về Yìxiāo là "tình nguyện" không đồng nghĩa với "bừa bãi". Càng gần hiện trường nguy hiểm, càng cần có một hệ thống để vạch ra ranh giới an toàn cho sự nhiệt tình.
+📝 **Ghi chú của người sắp xếp:** Mâu thuẫn đầu tiên của nhân viên tình nguyện cứu hỏa, là "tình nguyện viên" không có nghĩa là "tùy tiện". Càng gần hiện trường cháy, càng cần hệ thống để vạch ra ranh giới an toàn cho sự nhiệt tình.
 
-## Tình trạng tự nguyện, đội ngũ pháp lý
+## Tình nguyện viên thực sự, lực lượng được quy định pháp luật
 
-Cục PCCC Bộ Nội vụ định nghĩa rất rõ ràng về các tổ chức cứu hỏa tình nguyện: Các chính quyền thành phố trực thuộc và cấp huyện thành lập cư dân địa phương theo Luật PCCC, tiến hành huấn luyện chuyên nghiệp và kiểm tra định kỳ. Nhiệm vụ của họ bao gồm cứu hộ thiên tai, sơ cứu khẩn cấp và tuyên truyền phòng cháy.[^4]
+Cục Phòng cháy chữa cháy (Bộ Nội vụ) định nghĩa rõ ràng các tổ chức tình nguyện cứu hỏa: chính quyền trực thuộc và tỉnh (thành phố) sắp xếp cư dân địa phương theo Luật Phòng cháy chữa cháy, cung cấp đào tạo chuyên nghiệp và đánh giá định kỳ, nhiệm vụ bao gồm cứu hộ thảm họa, cấp cứu khẩn cấp và tuyên truyền phòng cháy.[^4]
 
-Theo Điều 2 của "Quy chế Thành lập, Huấn luyện và Thực thi nhiệm vụ của Tổ chức Cứu hỏa Tình nguyện" hiện hành, nhân viên PCCC tình nguyện phải tuân theo mệnh lệnh của người chỉ huy PCCC để hỗ trợ công tác phòng cháy. Chính quyền địa phương thành lập đội tổng, tùy theo yêu cầu nhiệm vụ sẽ thành lập đội lớn, trung đội và tiểu đội, đồng thời phải mua bảo hiểm tai nạn cứu hộ cho Yìxiāo trực thuộc.[^5]
+Theo Luật hiện hành về sắp xếp, huấn luyện, tập dượt và công tác phục vụ các tổ chức lính cứu hỏa tình nguyện, Điều 2 quy định rằng nhân viên lính cứu hỏa tình nguyện phải tuân theo mệnh lệnh của nhân viên chỉ huy cứu hỏa và hỗ trợ công tác cứu hỏa. Chính quyền địa phương lập tổng đội, theo nhu cầu công tác lập các đội lớn, đội trung bình và đơn vị cụm, đồng thời phải mua bảo hiểm tai nạn ứng phó thảm họa cho nhân viên tình nguyện.[^5]
 
-Việc gia nhập cũng có tiêu chuẩn. Nhân viên mới phải từ đủ 18 tuổi, cư trú tại địa phương, và không được tham gia đồng thời vào các tổ chức tình nguyện hoặc dân phòng khác. Người nước ngoài, người cư trú ở Hồng Kông/Macao/Ma Cao nếu đáp ứng quy định cư trú thì cũng có thể tham gia, nhưng sẽ không được tính vào lực lượng huy động cho nhiệm vụ quân sự.[^5]
+Có những điều kiện để tham gia. Nhân viên mới phải từ 18 tuổi trở lên, cư trú tại địa phương, và không thể tham gia cùng lúc các tổ chức tình nguyện hoặc phòng vệ dân sự khác. Người nước ngoài, cư dân từ Lục Địa và Hồng Kông cũng có thể tham gia khi đáp ứng các quy định cấp phép, nhưng không được đưa vào sắp xếp khả năng hộ trợ quân sự.[^5]
 
-Số giờ huấn luyện còn cho thấy đây không phải là một chiếc áo tình nguyện. Huấn luyện cơ bản cho nhân viên mới tối thiểu 48 giờ, huấn luyện chuyên nghiệp tối thiểu 24 giờ, và huấn luyện thường niên ít nhất 24 giờ mỗi năm. Sau khi nhận được thông báo nhiệm vụ, Yìxiāo phải nhanh chóng có mặt tại địa điểm quy định và mặc trang phục, mang theo thiết bị theo quy định.[^5]
+Thời gian đào tạo càng nói rõ hơn rằng đây không chỉ là một chiếc áo phông tình nguyện viên. Nhân viên mới phải hoàn thành ít nhất 48 giờ đào tạo cơ bản và ít nhất 24 giờ đào tạo chuyên nghiệp, với ít nhất 24 giờ đào tạo thường niên mỗi năm. Sau khi nhận được thông báo công tác, nhân viên tình nguyện phải chạy nhanh đến địa điểm chỉ định, mặc quần áo theo quy định và đeo trang bị.[^5]
 
-Quần áo PCCC, mũ, giày, áo mưa, máy thở hoặc trang bị bảo hộ, dụng cụ tháo dỡ đều là các trang bị hỗ trợ được liệt kê trong luật. Điều này cho thấy công việc của Yìxiāo không chỉ dừng lại ở việc tiếp nhiên liệu bên ngoài hiện trường. Họ phải trở thành một phần của chuỗi cứu hộ dưới điều kiện có sự chỉ huy, phân công và quản lý rủi ro.[^5]
+Áo cứu hỏa, mũ, giày, áo mưa, bộ đơn dưỡng khí hoặc trang bị bảo vệ, công cụ tháo dỡ, tất cả đều là trang bị hỗ trợ được liệt kê trong luật pháp. Chúng nói rõ rằng công tác của nhân viên tình nguyện cũng không chỉ là cộng tác bên ngoài hiện trường cháy. Nó phải trở thành một phần của chuỗi ứng phó thảm họa với sự chỉ huy, phân công và quản lý rủi ro.[^5]
 
-## Từ một đội ngũ đến nhiều loại hình chuyên môn
+## Từ một đơn vị chuyển thành nhiều chuyên khoa
 
-Tính đến ngày 1 tháng 1 năm 2026, Cục PCCC ghi nhận tổng cộng 50.328 người thuộc các tổ chức Yìxiāo trên toàn quốc, bao gồm 23 đội tổng, 158 đội lớn, 267 trung đội và 1.169 tiểu đội. Ngoài Yìxiāo cứu hộ truyền thống, còn có Yìxiāo tuyên truyền, Yìxiāo sơ cứu, cùng các loại hình chuyên môn như tìm kiếm cứu nạn miền núi, cứu hộ thủy vực, xây dựng và thông tin liên lạc được thành lập để ứng phó với đặc thù thiên tai địa phương.[^4]
+Cho đến ngày 1 tháng 1 năm 2026, Cục Phòng cháy chữa cháy liệt kê các tổ chức nhân viên tình nguyện toàn quốc có 23 tổng đội, 158 đội lớn, 267 đội trung bình, 1.169 đơn vị cụm, với tổng cộng 50.328 người. Ngoài các nhân viên cứu hỏa tình nguyện truyền thống, cũng bao gồm nhân viên tuyên truyền tình nguyện, nhân viên cấp cứu tình nguyện, cũng như các nhân viên tình nguyện chuyên khoa được thành lập để phù hợp với đặc điểm thảm họa địa phương như tìm kiếm và cứu hộ khu vực núi, cứu hộ nước, xây dựng và thông tin liên lạc.[^4]
 
-Con số này không có nghĩa là 50.328 người đều có thể ra trận cùng một lúc mỗi ngày. Đây là tổng số lượng tổ chức, không thể quy đổi trực tiếp thành số lượng có thể điều động được trong một sự cố nào đó. Yìxiāo có công việc và gia đình riêng, số lượng thực tế tham gia sẽ bị ảnh hưởng bởi thời gian, khoảng cách, loại nhiệm vụ, trình độ huấn luyện và chỉ huy tại hiện trường. Bộ dữ liệu thống kê của Cục PCCC cũng tách biệt số liệu của các sở PCCC cấp thành phố, cung cấp tài liệu năm 110 để người đọc nhận ra rằng "tổng lượng" không phải là "số lượng sẵn sàng tức thời".[^6]
+Con số này không có nghĩa là 50.328 người có thể xuất phát cùng lúc mỗi ngày. Đó là số lượng tổ chức, không thể chuyển đổi trực tiếp thành số lượng người có thể được điều động trong một thảm họa cụ thể. Nhân viên tình nguyện có công việc và gia đình riêng, số lượng có thể xuất phát thực tế sẽ bị ảnh hưởng bởi thời gian, khoảng cách, loại công tác, mức độ huấn luyện và chỉ huy tại hiện trường. Bộ dữ liệu thống kê của Cục Phòng cháy chữa cháy cũng chia riêng các sở cứu hỏa tỉnh (thành phố) và số lượng người, cung cấp tải xuống dữ liệu năm 110, nhắc nhở độc giả rằng "tổng lượng" và "lượng khả dụng tức thời" không phải là một vấn đề.[^6]
 
-Các nghiên cứu học thuật mô tả sự khác biệt này một cách khách quan hơn. Một luận văn thạc sĩ của Đại học Chính trị Quốc gia vào năm 2022, lấy tổ chức Yìxiāo của Tân Bắc thành phố làm ví dụ, chỉ ra rằng Yìxiāo phải đối mặt với các vấn đề như lão hóa nhân lực, thiếu trang bị và chuyên môn, khiến công tác tuyển dụng, huấn luyện và quản lý dịch vụ chịu ảnh hưởng đồng thời từ chính quyền, người quản lý, đặc điểm tổ chức và sự thay đổi xã hội.[^7]
+Nghiên cứu học thuật có mô tả lạnh lùng hơn về sự khác biệt này. Một bài luận thạc sĩ năm 2022 của Đại học Quốc gia Chính Trị Đài Bắc lấy các tổ chức nhân viên tình nguyện cứu hỏa ở Tân Bắc làm ví dụ, chỉ ra rằng nhân viên tình nguyện cứu hỏa phải đối mặt với sự lão hóa lực lượng nhân sự, trang bị và thiếu hụt chuyên môn, tuyển dụng, đào tạo và quản lý dịch vụ sẽ bị ảnh hưởng đồng thời bởi chính phủ, quản lý, các đặc điểm tổ chức và thay đổi xã hội.[^7]
 
-Các nghiên cứu bằng tiếng Anh tập trung vào khía cạnh "huy động". Một luận án nghiên cứu về các giám sát viên PCCC địa phương đã phát hiện ra rằng, chất lượng tham gia dân sự và giao tiếp trước sự cố có tương quan thuận với khả năng huy động tổ chức tình nguyện của người đứng đầu PCCC trong trường hợp khẩn cấp. Các đội PCCC không phải là lần đầu tiên làm quen với tình nguyện viên sau khi tai nạn xảy ra; cách thức giao tiếp thường xuyên sẽ ảnh hưởng đến khả năng hợp tác khi có sự cố.[^8]
+Nghiên cứu tiếng Anh thì tập trung vào "động viên". Một bài viết nghiên cứu các nhà quản lý đơn vị cứu hỏa địa phương Đài Loan phát hiện rằng, chất lượng sự tham gia công dân trước đó và giao tiếp tỉ lệ thuận với khả năng của các nhà quản lý cứu hỏa khi động viên các tổ chức tình nguyện trong sự kiện khẩn cấp. Các đơn vị cứu hỏa không phải là chờ đợi sự xuất hiện của thảm họa để lần đầu tiên gặp nhân viên tình nguyện, cách giao tiếp hàng ngày sẽ ảnh hưởng đến khả năng hợp tác khi thảm họa xảy ra.[^8]
 
-📝 **Ghi chú của Biên tập viên:** Giá trị của Yìxiāo không chỉ nằm ở "số lượng người", mà là liệu họ đã đặt con người, trang bị, kỹ năng và địa bàn vào cùng một bản đồ trong cuộc sống hàng ngày hay chưa.
+📝 **Ghi chú của người sắp xếp:** Giá trị của nhân viên tình nguyện cứu hỏa không chỉ ở "có bao nhiêu người", mà ở việc liệu hàng ngày đã đặt lực lượng, trang bị, kỹ năng và con đường địa phương trên cùng một bản đồ chưa.
 
-![Cảnh Cảnh sát PCCC Thành phố Đài Bắc sử dụng giàn nâng cao trong diễn tập PCCC](https://upload.wikimedia.org/wikipedia/commons/0/0c/Taiwan_2009_Taipei_Fire_Drill_FRD_7249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Sở Cứu hỏa Đài Bắc sử dụng nền tảng hoạt động ở độ cao trong cuộc tập trung cứu hỏa](https://upload.wikimedia.org/wikipedia/commons/0/0c/Taiwan_2009_Taipei_Fire_Drill_FRD_7249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-_Ảnh: Diễn tập PCCC Thành phố Đài Bắc, Fred Hsu chụp, CC BY-SA 3.0/GFDL. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_Fire_Drill_FRD_7249.jpg)._
+_Hình ảnh: Cuộc tập trung cứu hỏa ở Đài Bắc, Fred Hsu chụp, CC BY-SA 3.0／GFDL. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_Fire_Drill_FRD_7249.jpg)._
 
-### Một bộ số liệu, đọc được quy mô của hệ thống Yìxiāo
+### Một bộ con số, đọc được quy mô của chế độ nhân viên tình nguyện
 
-| Chỉ số                          | Tài liệu chính thức                                     | Cách hiểu                                                                      |
-| :------------------------------ | :------------------------------------------------------ | :----------------------------------------------------------------------------- |
-| Tổng số Yìxiāo                  | 50.328 người (Tính đến ngày 1/1/2026)                   | Tổng lượng đăng ký, không tương đương với số người có thể ra trận cùng lúc[^4] |
-| Cấp bậc tổ chức                 | 23 đội tổng, 158 đội lớn, 267 trung đội, 1.169 tiểu đội | Cơ cấu chính thức từ cấp địa phương lên cao hơn[^4][^5]                        |
-| Huấn luyện cơ bản cho người mới | Tối thiểu 48 giờ                                        | Nền tảng chung để gia nhập hệ thống Yìxiāo[^5]                                 |
-| Huấn luyện chuyên nghiệp        | Tối thiểu 24 giờ                                        | Điểm khởi đầu của huấn luyện phân hóa theo nhiệm vụ và chuyên môn[^5]          |
-| Huấn luyện thường niên          | Ít nhất 24 giờ mỗi năm                                  | Đảm bảo năng lực không chỉ dừng lại ở tiêu chuẩn khi gia nhập[^5]              |
+| Chỉ số                       | Dữ liệu chính thức                                             | Cách đọc                                                                                |
+| :--------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| Tổng nhân viên TN            | 50.328 người (ngày 1 tháng 1 năm 2026)                         | Tổng lượng đăng ký tổ chức, không bằng số lượng có thể xuất phát cùng một thời điểm[^4] |
+| Cấp tổ chức                  | 23 tổng đội, 158 đội lớn, 267 đội trung bình, 1.169 đơn vị cụm | Sắp xếp chính thức kết nối từ dưới lên từ các đơn vị cụm địa phương[^4][^5]             |
+| Đào tạo cơ bản nhân viên mới | Ít nhất 48 giờ                                                 | Nền tảng chung để vào chế độ nhân viên tình nguyện[^5]                                  |
+| Đào tạo chuyên nghiệp        | Ít nhất 24 giờ                                                 | Điểm khởi đầu của đào tạo phân hóa theo nhiệm vụ và chuyên môn[^5]                      |
+| Đào tạo thường niên          | Ít nhất 24 giờ mỗi năm                                         | Để khả năng không dừng lại khi tham gia[^5]                                             |
 
-Bộ số liệu này đã chia nhỏ "Yìxiāo đông đảo" thành các vấn đề cần kiểm tra. Số lượng trả lời về quy mô tổ chức, cấp bậc trả lời về cách thức chỉ huy và liên lạc, thời gian huấn luyện trả lời về mức độ đầu tư sau khi gia nhập. Chúng không thể thay thế lẫn nhau. Nếu chỉ trích dẫn con số hơn năm vạn người, độc giả sẽ bỏ qua các đơn vị vận hành thực tế là các đội địa phương và quá trình huấn luyện.
+Bộ con số này chia "có rất nhiều nhân viên tình nguyện" thành một vài câu hỏi có thể kiểm tra được. Con số trả lời quy mô tổ chức, cấp bậc trả lời cách thức chỉ huy và liên lạc, thời gian đào tạo trả lời cần phải đầu tư bao nhiêu thời gian sau khi tham gia. Chúng không thể thay thế lẫn nhau. Nếu chỉ trích dẫn hơn năm mươi nghìn người, độc giả sẽ không thấy được đào tạo và các đơn vị cụm địa phương mới là các đơn vị hoạt động thực tế.
 
-## Phòng chống thiên tai không phải là phụ lục của hiện trường cháy
+## Phòng chống thảm họa không phải là sản phẩm phụ của hiện trường cháy
 
-Nhiều người nghĩ đến Yìxiāo trước tiên là việc kéo vòi nước, phá cửa và di chuyển thiết bị. Nhưng Đội Tuyên truyền PCCC nữ được ghi nhận trong tạp chí PCCC đã làm nổi bật một loại công việc khác: đi thăm từng nhà để kiểm tra lửa sinh hoạt, điện và gas, kiểm tra lối thoát hiểm, và quảng bá về chuông báo cháy dân dụng.
+Nhiều người nghĩ đến nhân viên tình nguyện cứu hỏa, lần đầu tiên họ nghĩ đến việc kéo dây nước, phá cửa và vận chuyển thiết bị. Nhưng những ghi chép trong Tạp chí Phòng cháy chữa cháy về các đội tuyên truyền phòng cháy phụ nữ đã làm nổi bật một loại công tác khác: đi từ nhà này đến nhà khác kiểm tra việc sử dụng lửa, điện và khí đốt trong gia đình, kiểm tra các tuyến thoát hiểm, quảng bá các thiết bị cảnh báo cháy nhà ở.
 
-Trưởng đội tại Tổng đội Yìxiāo Tiểu đoàn Tô Tú Loan (蘇秀鑾) ở Đài Nam đã tham gia Đội Tuyên truyền PCCC vì chồng bà là một cựu thành viên Yìxiāo. Bà và các thành viên từng đi thăm từng nhà để giải thích về công dụng của chuông báo cháy, và cũng gặp trường hợp trong các gia đình ba thế hệ, người lớn tuổi không muốn nghe, nhưng lại là học sinh tiểu học chủ động hỏi, cuối cùng đồng ý nhờ người thân mua chuông báo cháy.[^9]
+Phó đội trưởng tổng đội nhân viên tình nguyện Tân Nam Sơ Tú Liêu tham gia đội tuyên truyền phòng cháy vì chồng là nhân viên tình nguyện cứu hỏa về hưu. Cô và các thành viên đội từng đi từ nhà này đến nhà khác giải thích hiệu quả của các thiết bị cảnh báo nhà ở, và cũng đã gặp các gia đình ba thế hệ mà những người cao tuổi không muốn nghe, thay vào đó là học sinh tiểu học chủ động hỏi, và cuối cùng đồng ý yêu cầu gia đình mua thiết bị cảnh báo.[^9]
 
-Trưởng trung đội Trần Ngọc Phượng (陳玉鳳) của Tổng đội Yìxiāo Thành phố Đài Bắc đã tham gia Đội Tuyên truyền PCCC từ năm 1992 (Minguo), và đảm nhiệm chức vụ trưởng trung đội vào năm 2011 (Minguo), dẫn đội đi thăm các khu dân cư và nhà ở tại Văn Sơn, kiểm tra hệ thống điện, gas và tuyến đường sơ tán.[^9]
+Trưởng đội đơn vị trung bình tổng đội nhân viên tình nguyện Đài Bắc Trần Ngọc Phượng tham gia đội tuyên truyền phòng cháy từ năm 91 dương lịch, năm 100 dương lịch nắm quyền trưởng đội, dẫn đội đi sâu vào các cộng đồng và gia đình trong quận Văn Sơn, kiểm tra việc sử dụng điện, khí đốt và các tuyến thoát hiểm.[^9]
 
-Loại công việc này rất khó để cắt thành những đoạn phim anh hùng. Kết quả của nó có thể chỉ là một chiếc chuông báo cháy được lắp trên tường, một lối đi chất đầy đồ đạc đã được dọn sạch, hoặc là một gia đình cuối cùng biết phải đi đâu khi xảy ra hỏa hoạn vào ban đêm. Khi thiên tai không xảy ra, đó thường là kết quả tốt nhất của nó.
+Loại công tác này rất khó cắt thành những đoạn anh hùng. Kết quả của nó có thể chỉ là một thiết bị cảnh báo được lắp trên tường, một hành lang chứa đầy những thứ khác được dọn sạch, hoặc là một gia đình cuối cùng biết phải chạy về phía nào khi cháy xảy ra vào ban đêm. Khi thảm họa không xảy ra, thường là kết quả tốt nhất của nó.
 
-Một bài phỏng vấn khác trong tạp chí PCCC ghi lại Tịnh Mỹ Bàng (鄭美胖), tình nguyện viên tuyên truyền PCCC Thành phố Đài Bắc. Bà bắt đầu đi thăm cộng đồng từ năm 1997 (Minguo) và tiếp tục phục vụ hơn hai mươi năm sau khi tổ chức tình nguyện PCCC được thành lập chính thức vào năm 1992 (Minguo). Bài viết này cũng giải thích rằng, tổ chức Yìxiāo mang tính địa phương và cộng đồng, với cấu trúc bốn cấp: tổng đội, đội lớn, trung đội và tiểu đội.[^10]
+Tạp chí Phòng cháy chữa cháy một bài phỏng vấn khác ghi chép tình nguyện viên tuyên truyền phòng cháy Đài Bắc Trịnh Mỹ Phúc. Cô tự năm 86 dương lịch bắt đầu đi thăm các cộng đồng, Cục Phòng cháy chữa cháy chính thức thành lập các tổ chức tình nguyện cứu hỏa năm 91 dương lịch, cô tiếp tục phục vụ trong hơn hai mươi năm. Bài viết cũng làm rõ rằng, các tổ chức nhân viên tình nguyện cứu hỏa có tính chất khu vực và cộng đồng, tổ chức bao gồm bốn cấp tổng đội, đội lớn, đội trung bình, và đơn vị cụm.[^10]
 
-## Vấn đề thực sự không phải là nhiệt tình đủ hay chưa
+## Vấn đề thật sự, không phải là sự nhiệt tình có đủ không
 
-Hệ thống Yìxiāo dễ bị viết thành những câu chuyện cảm động, nhưng vấn đề thực sự của nó rất cụ thể: liệu nhân lực có được bổ sung, huấn luyện có theo kịp, trang bị có phù hợp, và cơ quan PCCC địa phương có đặt người tình nguyện vào đúng vị trí hay không.
+Chế độ nhân viên tình nguyện cứu hỏa dễ dàng được viết thành một câu chuyện cảm động, nhưng những vấn đề thật sự của nó rất cụ thể: lực lượng nhân sự có thể bổ sung vào không, đào tạo có thể theo kịp không, trang bị có thích hợp không, các cơ quan cứu hỏa địa phương có thể đặt những tình nguyện viên vào đúng vị trí không.
 
-Báo cáo phân tích thương vong nhân viên PCCC năm 102 (Minguo) của Cục PCCC đã chia công tác PCCC thành cứu hộ hỏa hoạn, sơ cứu khẩn cấp, cứu nạn thiên tai, diễn tập huấn luyện, các nhiệm vụ khác và tai nạn giao thông, đồng thời phân tích riêng biệt nhân viên Yìxiāo và quân dịch thay thế. Báo cáo yêu cầu cơ quan PCCC điều tra các sự cố thương vong và gần xảy ra để đưa ra đề xuất cải tiến.[^11]
+Báo cáo phân tích tổn thương nhân viên cứu hỏa năm 111 dương lịch của Cục Phòng cháy chữa cháy, chia công tác cứu hỏa thành cứu hộ cháy, cấp cứu khẩn cấp, cứu hộ thảm họa, huấn luyện tập dượt, công tác khác và tai nạn giao thông, và chia riêng phân tích nhân viên lính cứu hỏa tình nguyện và lực lượng thay thế dự bị. Báo cáo yêu cầu các cơ quan cứu hỏa điều tra những sự kiện tổn thương và gần như lỗi, sau đó đưa ra các đề xuất cải thiện.[^11]
 
-Điểm này rất quan trọng. Nếu Yìxiāo bị xem như "nhân lực miễn phí", thì huấn luyện và an toàn sẽ bị xếp sau. Ngược lại, nếu họ bị coi là tình nguyện viên bên ngoài hoàn toàn không thể tiếp xúc, địa phương sẽ mất đi một lực lượng quen thuộc với cộng đồng, đường sá và cư dân. Công việc của hệ thống là vạch ra ranh giới giữa nơi cần hỗ trợ và nơi không nên mạo hiểm.
+Điều này rất quan trọng. Nếu nhân viên tình nguyện cứu hỏa được coi là "lực lượng miễn phí", đào tạo và an toàn sẽ được đặt ở phía sau. Nếu được coi là những người ngoài hoàn toàn không thể chạm vào, địa phương lại mất một lực lượng quen thuộc với khu vực cộng đồng, con đường và cư dân. Công việc của chế độ, là vạch ra ranh giới giữa cần giúp đỡ và không nên mạo hiểm.
 
-Nghiên cứu về quản lý Yìxiāo ở Tân Bắc thành phố đã nói vấn đề này thẳng thắn hơn: sau khi cấu trúc xã hội thay đổi, loại hình thiên tai trở nên phức tạp hơn, các tổ chức vốn duy trì bằng mối quan hệ quen biết và sự nhiệt tình buộc phải đối mặt với việc thiết kế lại quy trình tuyển dụng, huấn luyện, chuyên nghiệp hóa và quản lý.[^7]
+Nghiên cứu quản lý nhân viên tình nguyện cứu hỏa Tân Bắc đặt vấn đề trực tiếp hơn: sau khi cấu trúc xã hội thay đổi, loại thảm họa trở nên phức tạp, các tổ chức trước đây dựa vào bạn bè và sự nhiệt tình để duy trì, phải đối mặt với việc thiết kế lại quy trình tuyển dụng, đào tạo, chuyên nghiệp hóa và quản lý.[^7]
 
-Câu chuyện của nhân vật địa phương cũng phản ánh sự chuyển đổi này. Cục PCCC Huyện Bính Đằng ghi nhận Trưởng đội Yìxiāo Hằng Xuân Hoàng Minh Điển (黃明典) gia nhập từ năm 1994 (Minguo), và trong vụ tai nạn núi ở Đại Sơn vào năm 2022 (Minguo), ông đã đến hiện trường để hỗ trợ thành lập nhóm tìm kiếm cứu nạn. Yìxiāo không chỉ xuất hiện trong các vụ cháy nhà, mà còn tham gia mạng lưới cứu hộ miền núi, hợp tác y tế và tư vấn chuyên môn.[^12]
+Câu chuyện của những nhân vật địa phương cũng phản ánh sự chuyển đổi này. Sở Cứu hỏa Tỉnh Bình Đông ghi chép, trưởng đội lớn nhân viên tình nguyện cứu hỏa Hằng Xuân Hoàng Minh Điển từ năm 83 dương lịch tham gia, từng đến hiện trường trong vụ sạt lở Đại Sơn Mẫu năm 111 dương lịch, hỗ trợ thành lập một đội tìm kiếm cứu hộ nhỏ. Nhân viên tình nguyện cứu hỏa không chỉ xuất hiện trong những vụ cháy nhà riêng, mà cũng có thể bước vào tìm kiếm cứu hộ khu vực núi, hợp tác y tế và mạng lưới tư vấn chuyên gia.[^12]
 
-Trang đó cũng ghi lại lý do Trưởng tiểu đội Yìxiāo Phang Liêu Vương Triều Kỳ (王朝旗) gia nhập: ông đã chứng kiến công tác cứu hộ PCCC khi người nhà gặp hỏa hoạn, sau đó khi làm việc ở nơi khác nghe thấy còi báo động quê nhà nên đã mặc đồ PCCC quay về hiện trường. Câu chuyện này gắn kết ký ức gia đình của một cá nhân với hệ thống địa phương.[^12]
+Trang này cũng còn ghi chép lý do tham gia của trưởng đơn vị cụm nhân viên tình nguyện cứu hỏa Bàn Lão Vương Triều Kỳ: anh từng chứng kiến cứu hộ cứu hỏa vì gia đình bị cháy, sau này khi làm việc tại địa phương khác nghe tiếng còi cảnh báo, anh đã lấy áo cứu hỏa chạy về hiện trường. Đoạn câu chuyện này kết nối một người có ký ức gia đình, với chế độ địa phương.[^12]
 
-📝 **Ghi chú của Biên tập viên:** Điều khó nhất của Yìxiāo là làm cho những người tham gia có đủ huấn luyện, trang bị an toàn và lý do để ở lại lâu dài.
+📝 **Ghi chú của người sắp xếp:** Điều khó nhất của nhân viên tình nguyện cứu hỏa, là để những người tham gia có đủ đào tạo, trang bị an toàn và lý do để ở lại lâu dài.
 
-## Ngoài hiện trường thiên tai, còn có một hệ thống hợp tác hàng ngày
+## Ngoài hiện trường thảm họa, vẫn còn một bộ hợp tác hàng ngày
 
-![Bên ngoài Trạm PCCC Mẫn Hùng Gia Nghĩa](https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Minsyong_Fire_Station%2C_Chiayi%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Ngoại hình bên ngoài trạm cứu hỏa Dân Hùng Gia Nghĩa](https://upload.wikimedia.org/wikipedia/commons/4/4f/The_Minsyong_Fire_Station%2C_Chiayi%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-_Ảnh: Trạm PCCC Mẫn Hùng Gia Nghĩa, Tbatb chụp, CC BY-SA 4.0. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Minsyong_Fire_Station,_Chiayi,_Taiwan.jpg)._
+_Hình ảnh: Trạm cứu hỏa Dân Hùng Gia Nghĩa, Tbatb chụp, CC BY-SA 4.0. Nguồn: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Minsyong_Fire_Station,_Chiayi,_Taiwan.jpg)._
 
-Nhiệm vụ của Yìxiāo không chỉ xảy ra trên bảng chấm công. Các quy định phân chia huấn luyện cơ bản, chuyên nghiệp, huấn luyện cán bộ và huấn luyện thường niên, cho thấy các cơ quan PCCC địa phương phải đưa năng lực ở các cấp độ khác nhau vào các khóa học khác nhau; họ không thể chỉ dùng một buổi diễn tập để đánh giá xem ai phù hợp với hiện trường. Huấn luyện cũng không chỉ là thao tác thiết bị, mà còn liên quan đến mối quan hệ chỉ huy khi làm nhiệm vụ, cách mặc trang bị, quy trình tập kết và kiểm điểm sau sự cố.[^5]
+Công tác của nhân viên tình nguyện cứu hỏa không chỉ xảy ra trên bảng công tác xuất phát. Luật pháp chia đào tạo cơ bản, đào tạo chuyên nghiệp, đào tạo cán bộ và đào tạo thường niên, điều này có nghĩa là các cơ quan cứu hỏa địa phương phải đặt khả năng ở các mức độ khác nhau vào các khóa học khác nhau, không thể chỉ dùng một cuộc tập dượt duy nhất để xác định liệu một người có thích hợp để vào hiện trường hay không. Đào tạo cũng không chỉ là vận hành thiết bị, mà còn liên quan đến các mối quan hệ chỉ huy trong khi phục vụ, cách đeo trang bị, phương thức tập hợp và kiểm tra sau sự cố.[^5]
 
-Bản mô tả tổ chức của Cục PCCC đã chia các chức năng của Yìxiāo thành nhiều tuyến giao thoa. Yìxiāo cứu hộ truyền thống xử lý hỏa hoạn và cứu nạn thiên tai; Yìxiāo sơ cứu hỗ trợ cấp cứu khẩn cấp; Yìxiāo tuyên truyền phòng cháy mang kiến thức PCCC đến cộng đồng; còn Yìxiāo chức năng bổ sung các năng lực về miền núi, thủy vực, xây dựng hoặc thông tin theo nhu cầu địa phương. Đây không phải là việc huấn luyện tất cả mọi người thành một loại lính cứu hỏa giống nhau, mà là giúp địa phương có những nút chuyên môn có thể tiếp nối lẫn nhau.[^4]
+Bộ Phòng cháy chữa cháy trong giải thích tổ chức chia nhân viên tình nguyện cứu hỏa chức năng thành nhiều con đường tương tác. Nhân viên tình nguyện cứu hỏa truyền thống xử lý cháy và cứu hộ thảm họa, nhân viên tình nguyện cấp cứu hỗ trợ cấp cứu khẩn cấp, nhân viên tình nguyện tuyên truyền phòng cháy đưa kiến thức phòng cháy vào cộng đồng, trong khi nhân viên tình nguyện chức năng bổ sung khả năng tìm kiếm khu vực núi, nước, xây dựng hoặc thông tin theo nhu cầu địa phương. Điều này không phải là huấn luyện tất cả mọi người thành cùng một loại nhân viên cứu hỏa, mà là để địa phương sở hữu các nút chuyên môn có thể tương tác với nhau.[^4]
 
-Những nút này cần sự kết nối hàng ngày. Nghiên cứu bằng tiếng Anh chỉ ra rằng, khả năng huy động tổ chức tình nguyện của giám sát viên PCCC địa phương liên quan đến chất lượng tham gia và giao tiếp dân sự trước sự cố. Nói cách khác, việc mới hỏi "ai biết lái thuyền", "ai quen đường núi", "ai xử lý nhà sập" khi thiên tai xảy ra là quá muộn. Sự hợp tác tốt của địa phương nên được hoàn thành danh sách, huấn luyện và xác nhận vai trò trong những ngày không có thiên tai.[^8]
+Những điểm nút này cần thường xuyên giao tiếp. Nghiên cứu tiếng Anh chỉ ra rằng, khả năng của các nhà quản lý cứu hỏa địa phương có thể động viên các tổ chức tình nguyện, có liên quan đến sự tham gia công dân trước đó và chất lượng giao tiếp. Nói cách khác, đợi cho đến khi thảm họa xảy ra rồi mới hỏi tạm thời "ai biết lái thuyền" "ai quen con đường núi" "ai có thể xử lý tòa nhà sạt lở", đó là quá muộn rồi. Hợp tác địa phương tốt, nên hoàn thành danh sách, huấn luyện và xác nhận vai trò trong những ngày không có thảm họa.[^8]
 
-Trường hợp ở Bính Đằng đã cụ thể hóa khái niệm này. Cục PCCC địa phương ghi nhận Hoàng Minh Điển trong nhiệm vụ Yìxiāo đã tuyển dụng các chuyên gia từ nhiều lĩnh vực làm cố vấn, thúc đẩy các tiểu đội huấn luyện định kỳ và phối hợp với các nhóm cứu hộ dân sự hỗ trợ công tác. Vai trò này không chỉ đơn thuần là tăng số lượng người tham gia, mà còn gắn kết y tế, miền núi, tổ chức dân sự và cơ quan PCCC trong cùng một hoạt động cứu hộ địa phương.[^12]
+Trường hợp Bình Đông làm khái niệm này trở nên cụ thể. Sở Cứu hỏa địa phương ghi chép, Hoàng Minh Điển khi nắm quyền nhân viên tình nguyện cứu hỏa Hằng Xuân đã tuyển dụng những chuyên gia từ các lĩnh vực khác nhau để làm cố vấn, thúc đẩy huấn luyện định kỳ của từng đơn vị nhỏ, và phối hợp với các tổ chức cứu hộ dân sự hỗ trợ công tác. Vai trò này không phải là đơn giản tăng số lượng người xuất phát, mà là kết nối y tế, khu vực núi, các tổ chức dân sự và các cơ quan cứu hỏa vào cùng một ứng phó thảm họa địa phương.[^12]
 
-Tuyên truyền phòng cháy cũng cần sự hợp tác lâu dài tương tự. Cuộc phỏng vấn Tịnh Mỹ Bàng cho thấy các tình nguyện viên tuyên truyền phải chuyển đổi những chính sách cứng nhắc thành ngôn ngữ đời sống mà cư dân có thể hiểu, và liên tục đi vào cộng đồng. Chuyến thăm của Trần Ngọc Phượng lại tập trung vào hệ thống điện, gas và tuyến đường sơ tán. Cả hai công việc này đều không có ngọn lửa làm tâm điểm thị giác, nhưng lại ảnh hưởng trực tiếp đến các điều kiện trước khi xảy ra hỏa hoạn.[^9][^10]
+Tuyên truyền phòng cháy cũng cần sự hợp tác lâu dài tương tự. Cuộc phỏng vấn Trịnh Mỹ Phúc cho thấy, nhân viên tình nguyện tuyên truyền phòng cháy phải biến chính sách cứng nhắc thành ngôn ngữ sinh hoạt mà cư dân có thể hiểu, và liên tục đi sâu vào cộng đồng. Lần thăm hỏi của Trần Ngọc Phượng thì tập trung vào việc sử dụng điện, khí đốt và các tuyến thoát hiểm. Cả hai loại công tác đều không có ngọn lửa làm tâm điểm hình ảnh, nhưng trực tiếp ảnh hưởng đến các điều kiện trước khi cháy xảy ra.[^9][^10]
 
-Do đó, Yìxiāo không nên chỉ được nhìn thấy trong thống kê thiên tai. Khi một tiểu đội quen thuộc với các con hẻm, nhà máy, đường núi, sông ngòi và cư dân cao tuổi trong khu vực quản lý, những kiến thức địa phương này là phần mà cơ sở dữ liệu trung ương khó có thể thay thế. Giá trị của nó không chỉ được đo bằng "cứu được bao nhiêu người", mà còn bao gồm việc giúp người chỉ huy biết tìm ai trước thiên tai, và giúp cư dân biết cầu cứu ai sau thiên tai.
+Vì vậy, nhân viên tình nguyện cứu hỏa không nên chỉ được nhìn thấy trong thống kê thảm họa. Khi một đơn vị cụm quen với những con hẻm, nhà máy, con đường núi, sông ngòi và cư dân cao tuổi trong khu vực dưới sự quản lý, những kiến thức địa phương này là những phần không dễ bị thay thế bởi cơ sở dữ liệu trung ương trên bản đồ cứu hỏa. Giá trị của nó không thể chỉ được đo bằng "đã cứu bao nhiêu người", mà còn bao gồm để cho các chỉ huy biết trong thảm họa trước có thể tìm ai, để cho cư dân sau thảm họa biết nên xin cứu giúp ai.
 
-### Vai trò Yìxiāo không phải là cấp trên/cấp dưới, mà là các giao diện địa phương khác nhau
+### Vai trò nhân viên tình nguyện cứu hỏa không phải là phân cấp trên dưới, mà là những giao diện địa phương khác nhau
 
-| Vai trò                        | Công việc chính                                                                      | Ví dụ và giới hạn trong bài viết                                                                          |
-| :----------------------------- | :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| Yìxiāo cứu hộ                  | Hỗ trợ PCCC trong cứu hỏa và cứu nạn thiên tai                                       | Cần huấn luyện cơ bản, chuyên nghiệp và thường niên; không thể thay thế bằng sự nhiệt tình[^4][^5]        |
-| Yìxiāo sơ cứu                  | Hỗ trợ cấp cứu khẩn cấp và chăm sóc trước khi đến bệnh viện                          | Cần duy trì kỹ thuật liên tục; rủi ro nhiệm vụ bao gồm giao thông và vận chuyển[^11][^12]                 |
-| Yìxiāo tuyên truyền phòng cháy | Thăm nhà, tuyên truyền chuông báo cháy, an toàn điện/gas sinh hoạt                   | Kết quả thường là thiên tai không xảy ra, khó thể hiện bằng con số tham gia đơn lẻ[^9][^10]               |
-| Yìxiāo chức năng               | Bổ sung năng lực miền núi, thủy vực, xây dựng hoặc thông tin theo nhu cầu địa phương | Chuyên môn hóa nâng cao giá trị hợp tác, nhưng cũng tăng gánh nặng quản lý huấn luyện và trang bị[^4][^7] |
+| Vai trò                                       | Công tác chính                                                                               | Ví dụ thực tế và hạn chế trong bài viết                                                                          |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| Nhân viên tình nguyện cứu hộ                  | Hỗ trợ cứu hộ cháy và thảm họa theo chỉ huy cứu hỏa                                          | Cần đào tạo cơ bản, chuyên nghiệp và thường niên, không thể dùng nhiệt tình thay thế yêu cầu hiện trường[^4][^5] |
+| Nhân viên tình nguyện cấp cứu                 | Hỗ trợ cấp cứu khẩn cấp và chăm sóc trước khi tới viện                                       | Cần duy trì liên tục kỹ thuật, rủi ro công tác cũng bao gồm giao thông và vận chuyển[^11][^12]                   |
+| Nhân viên tình nguyện tuyên truyền phòng cháy | Thăm hỏi gia đình, tuyên truyền thiết bị cảnh báo nhà ở, an toàn sử dụng lửa và điện         | Kết quả thường là thảm họa không xảy ra, khó hiện thị bằng một con số xuất phát đơn lẻ[^9][^10]                  |
+| Nhân viên tình nguyện chức năng               | Bổ sung khả năng tìm kiếm khu vực núi, nước, xây dựng hoặc thông tin theo nhu cầu địa phương | Chuyên nghiệp hóa nâng cao giá trị hợp tác, cũng tăng gánh nặng quản lý đào tạo và trang bị[^4][^7]              |
 
-Bảng này cũng giải thích tại sao "số lượng Yìxiāo" không thể đồng nghĩa với "lực lượng PCCC sẵn sàng". Nội dung huấn luyện, điều kiện tham gia và vị trí chỉ huy của các vai trò khác nhau là khác biệt; tiểu đội còn phải xác nhận thời gian làm việc, chăm sóc gia đình và khoảng cách di chuyển của mỗi người. Nếu chỉ theo đuổi con số đẹp trong báo cáo hàng năm, dễ bỏ qua những chi tiết quyết định chất lượng tham gia thực tế.
+Bảng này cũng giải thích tại sao "số lượng nhân viên tình nguyện cứu hỏa" không thể trực tiếp bằng "lực lượng cứu hỏa có thể sử dụng". Nội dung huấn luyện, điều kiện xuất phát và vị trí chỉ huy của các vai trò khác nhau là khác nhau, đơn vị cụm vẫn phải xác nhận thời gian làm việc, chăm sóc gia đình và khoảng cách giao thông của từng người. Nếu chỉ theo đuổi một con số đẹp trong báo cáo hàng năm, dễ dàng bỏ qua những chi tiết thực sự quyết định chất lượng xuất phát.
 
-Ranh giới an toàn của Yìxiāo cũng cần được nói rõ. Phân tích sự cố của Cục PCCC đưa Yìxiāo vào đối tượng điều tra các vụ thương vong và gần xảy ra, điều này cho thấy hệ thống thừa nhận rằng dịch vụ tình nguyện cũng có thể tạo ra rủi ro nghề nghiệp. Đối với Yìxiāo, từ chối nhiệm vụ không phù hợp không phải là thoái thác, mà là để chuỗi chỉ huy biết hiện trường còn thiếu năng lực gì. Đối với cơ quan PCCC, việc cung cấp trang bị, huấn luyện, bảo hiểm và kiểm điểm sau sự cố mới là coi dịch vụ tình nguyện là một phần của hệ thống an toàn công cộng.[^5][^11]
+Ranh giới an toàn của nhân viên tình nguyện cứu hỏa cũng cần được nói rõ. Phân tích sự cố của Cục Phòng cháy chữa cháy đưa nhân viên tình nguyện cứu hỏa vào đối tượng điều tra các sự kiện tổn thương và gần như lỗi, điều này có nghĩa là chế độ công nhân dịch vụ tình nguyện cũng sẽ tạo ra rủi ro an toàn lao động. Đối với nhân viên tình nguyện cứu hỏa, từ chối một nhiệm vụ không phù hợp với bản thân không phải là rút lui, mà là để cho chuỗi chỉ huy biết hiện trường còn thiếu khả năng gì. Đối với các cơ quan cứu hỏa, cung cấp trang bị, đào tạo, bảo hiểm và kiểm tra sau sự cố, mới là cách coi dịch vụ tình nguyện như một phần của chế độ an toàn công cộng.[^5][^11]
 
-## Một đội cứu hỏa gắn liền với ký ức địa phương
+## Một đơn vị cứu hỏa, mọc lên trong ký ức địa phương
 
-Cuộc phỏng vấn nhân vật từ Cục PCCC Huyện Đài Đông ghi lại Trưởng tiểu đội Yìxiāo Trường Bành Ôn Vinh Phong (溫榮豐) gia nhập từ năm 1992 (Minguo), và đến tuổi già vẫn mô tả mối quan hệ của mình với Yìxiāo bằng cụm từ "người lui nhưng tâm không lui". Một tình nguyện viên tuyên truyền phòng chống thiên tai khác, Trần Mỹ Liên (陳美蓮), đã gia nhập từ năm 1997 (Minguo) và phục vụ hơn mười lăm năm.[^13]
+Phỏng vấn nhân vật của Sở Cứu hỏa Tỉnh Đài Đông ghi chép phó đội trưởng nhân viên tình nguyện cứu hỏa Trường Bình Ôn Vinh Phong tham gia từ năm 92 dương lịch, vẫn sử dụng "người về hưu trái tim không về hưu" để mô tả mối quan hệ của anh với nhân viên tình nguyện cứu hỏa. Một nhân viên tình nguyện tuyên truyền phòng chống thảm họa khác Trần Mỹ Liên tham gia từ năm 97 dương lịch, phục vụ hơn mười năm.[^13]
 
-Những câu chuyện này không thể chứng minh rằng tất cả Yìxiāo đều sẽ ở lại hai mươi năm, cũng không thể dùng để che đậy sự lão hóa nhân lực và gánh nặng huấn luyện. Chúng có thể cho thấy: tuổi thọ tổ chức của Yìxiāo thường được xây dựng dựa trên mối quan hệ địa phương, sự hỗ trợ của gia đình và sự truyền thừa kỹ năng từ thế hệ này sang thế hệ khác.
+Những câu chuyện này không thể chứng minh rằng tất cả nhân viên tình nguyện cứu hỏa sẽ ở lại hai mươi năm, cũng không thể được sử dụng để che dấu lão hóa lực lượng nhân sự và gánh nặng huấn luyện. Điều họ có thể nói rõ là: tuổi thọ tổ chức của nhân viên tình nguyện cứu hỏa, thường được xây dựng trên các mối quan hệ địa phương, sự hỗ trợ gia đình và sự truyền kỹ thuật thế hệ này cho thế hệ khác.
 
-Từ các thành viên đội PCCC ban ngày làm nghề riêng khi thời Nhật Bản cai trị, đến Yìxiāo hiện đại được quy định bởi pháp luật và phân chia nhiều chuyên môn, hệ thống đã thay đổi, nhưng bối cảnh cốt lõi thì chưa hoàn toàn biến mất: một người đang sống cuộc đời của mình, và sau khi còi báo động vang lên, anh ta phải quyết định có nên mặc chiếc đồng phục đó hay không.
+Từ nhân viên tổ chức phòng chữa cháy dưới thời Nhật trị có công việc riêng vào ban ngày, chỉ mặc đồng phục khi có cảnh báo cháy, cho đến ngày hôm nay bị quy định pháp luật quản lý, chia thành nhiều chuyên môn, chế độ đã thay đổi, nhưng cảnh tượng lõi vẫn chưa hoàn toàn biến mất: một người đang sống cuộc sống của mình, sau khi tiếng còi vang lên, anh phải quyết định có nên mặc chiếc áo phòng chữa cháy đó hay không.
 
-An toàn PCCC ở Đài Loan không chỉ là câu chuyện của một cơ quan nhà nước, mà còn là câu chuyện về cách một xã hội địa phương sắp xếp thời gian, kỹ năng, lòng tin và rủi ro lại với nhau. Yìxiāo không phải là giải pháp lãng mạn cho tình trạng thiếu hụt nhân lực PCCC. Nó giống như một cây cầu cần được bảo trì liên tục: một đầu nối với hệ thống PCCC chính thức, và đầu kia nối với cộng đồng mà mỗi người vẫn đang sống sau giờ làm việc.
+An toàn phòng cháy của Đài Loan vì vậy không chỉ là câu chuyện của một bộ máy chính phủ, mà còn là câu chuyện về cách một xã hội địa phương đặt thời gian, kỹ năng, lòng tin và rủi ro cùng nhau. Nhân viên tình nguyện cứu hỏa không phải là giải pháp lãng mạn cho thiếu hụt lực lượng cứu hỏa. Nó giống như một cây cầu cần được bảo trì liên tục: một đầu kết nối hệ thống cứu hỏa chính thức, đầu kia kết nối với mỗi cộng đồng nơi mọi người vẫn sống sau giờ làm việc.
 
 ## Đọc thêm
 
-- [Trận động đất Jiuzhi](/history/九二一集集地震) — Thiên tai đã thay đổi hệ thống phòng chống thiên tai và ký ức tập thể của Đài Loan như thế nào.
-- [Phong trào xã hội và sự tham gia công dân](/vi/society/social-movements-and-civic-participation) — Mở rộng hiểu biết về sự tham gia công chúng ở Đài Loan từ dịch vụ tình nguyện.
-- [Phát triển đô thị và khoảng cách nông thôn - thành thị của Đài Loan](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Sự khác biệt về nguồn lực địa phương ảnh hưởng đến ứng phó thiên tai như thế nào.
+- [Trận Động đất Tập Tập Năm 921 (Chí Chí)](/history/九二一集集地震) — Thảm họa làm thế nào để thay đổi chế độ phòng chống thảm họa của Đài Loan và ký ức tập thể.
+- [Phong trào xã hội và sự tham gia công dân](/society/社會運動與公民參與) — Mở rộng sự hiểu biết về tình nguyện viên Đài Loan từ dịch vụ tình nguyện.
+- [Phát triển đô thị Đài Loan và khoảng cách giữa thành thị và nông thôn](/geography/台灣都市發展與城鄉差距) — Sự khác biệt về tài nguyên địa phương ảnh hưởng đến cách phản ứng thảm họa như thế nào.
 
 ## Nguồn hình ảnh
 
-Bài viết này sử dụng 1 hình ảnh được cấp phép CC làm ảnh chính, lưu trữ tại `public/article-images/society/` để tránh liên kết nóng với máy chủ nguồn:
+Bài viết sử dụng 1 hình ảnh CC được phép làm hình chính, cache tại `public/article-images/society/` để tránh hot linking tới máy chủ nguồn:
 
-- [Xe cứu hỏa Cảnh sát PCCC Thành phố Đài Bắc](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg) — Photo: CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0
+- [Xe cứu hỏa Sở Cứu hỏa Đài Bắc](https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Firefighting-truck-02.jpg) — Ảnh: CEphoto, Uwe Aranas / Wikimedia Commons, CC BY-SA 3.0
 
 ## Tài liệu tham khảo
 
-[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Nghiên cứu năm 2015 trên _Journal of Contemporary Eastern Asia_, mô tả cấu trúc quản lý thiên tai sau trận động đất Jiuzhi và điều kiện huy động các đội PCCC địa phương.
+[^1]: [Wu, Chang & Collins：Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Bài nghiên cứu năm 2015 từ Tạp chí Châu Á Đông Đương Đại, giải thích kiến trúc quản lý thảm họa sau động đất Chí Chí, và các điều kiện để các đơn vị cứu hỏa địa phương động viên các tổ chức tình nguyện.
 
-[^2]: [Thư viện Quốc gia Đài Loan: Tạp chí Thông tin Đài Loan, số 90/PCCC](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — Trang chuyên đề về PCCC của Thư viện Quốc gia Đài Loan năm 2015, tổng hợp các mốc lịch sử về hệ thống PCCC và đội Yìxiāo hiện đại từ năm 1895, 1902, 1921.
+[^2]: [Thư viện Quốc gia Đài Loan: Thông tin Đài Loan Kỳ 90 / Phòng cháy chữa cháy](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — Trang chuyên đề phòng cháy chữa cháy năm 2015 của Thư viện Quốc gia Đài Loan, sắp xếp các mốc lịch sử của chế độ phòng chữa cháy gần đây của Đài Loan và tổ chức nhân viên tình nguyện cứu hỏa từ năm 1895, 1902, 1921.
 
-[^3]: [Trịnh Tú Mỹ: Từ lính cứu hỏa thường trực đến Cục PCCC đặc biệt](https://www.his.ntnu.edu.tw/publish01/downloadfile.php?periodicalsPage=3&issue_id=28&paper_id=165) — Bài báo trên Tạp chí Lịch sử của Đại học Sư phạm Quốc gia, phân tích sự phát triển song hành của hệ thống đội PCCC thời Nhật Bản, lực lượng dân binh và hệ thống PCCC thường trực.
+[^3]: [Thái Tú Mỹ：Từ nhân viên cứu hỏa bình thường đến Cục Phòng cháy chữa cháy đặc biệt](https://www.his.ntnu.edu.tw/publish01/downloadfile.php?periodicalsPage=3&issue_id=28&paper_id=165) — Bài viết đăng trên Tạp chí Lịch sử của Đại học Quốc gia Sư phạm Đài Loan, phân tích sự phát triển hai đường của các tổ chức phòng chữa cháy, đơn vị trang phục bảo giáp và chế độ cứu hỏa bình thường dưới thời Nhật trị.
 
-[^4]: [Cục PCCC Bộ Nội vụ: Tổ chức Cứu hỏa Tình nguyện](https://www.nfa.gov.tw/cht/index.php?code=list&flag=detail&ids=1322&article_id=7753) — Mô tả chính thức về hệ thống PCCC, cung cấp nhiệm vụ, cấp bậc tổ chức, loại hình chuyên môn, điều kiện gia nhập và số liệu tháng 1 năm 2026.
+[^4]: [Cục Phòng cháy chữa cháy Bộ Nội vụ：Tổ chức nhân viên tình nguyện cứu hỏa](https://www.nfa.gov.tw/cht/index.php?code=list&flag=detail&ids=1322&article_id=7753) — Giải thích chế độ chính thức của Cục Phòng cháy chữa cháy, cung cấp nhiệm vụ nhân viên tình nguyện cứu hỏa, cấp tổ chức, loại chuyên môn, điều kiện tham gia và dữ liệu số lượng người tháng 1 năm 2026.
 
-[^5]: [Hệ thống tra cứu quy định của Bộ Nội vụ: Quy chế Thành lập, Huấn luyện và Thực thi nhiệm vụ của Tổ chức Cứu hỏa Tình nguyện](https://glrs.moi.gov.tw/LawContent.aspx?id=FL005073) — Quy định hiện hành được sửa đổi vào ngày 5 tháng 8 năm 2025 (Minguo), quy định chi tiết về chỉ huy, tổ chức, tư cách, huấn luyện, nhiệm vụ, trang bị và bảo hiểm của Yìxiāo.
+[^5]: [Hệ thống Truy vấn Luật pháp do Bộ Nội vụ Quản lý：Luật về sắp xếp, huấn luyện, tập dượt và công tác phục vụ các tổ chức lính cứu hỏa tình nguyện](https://glrs.moi.gov.tw/LawContent.aspx?id=FL005073) — Luật hiện hành được sửa đổi vào ngày 5 tháng 8 năm 114 dương lịch, quy định từng điều về chỉ huy, tổ chức, trình độ chuyên môn, đào tạo, công tác, trang bị và bảo hiểm của nhân viên tình nguyện cứu hỏa.
 
-[^6]: [Cổng thông tin mở dữ liệu chính phủ: Thống kê tổng số Yìxiāo toàn quốc](https://www.nfa.gov.tw/cht/index.php?code=list&flag=detail&ids=32&article_id=1961) — Bộ dữ liệu thống kê nhân viên PCCC do Cục PCCC cung cấp, liệt kê các cột tỉnh/thành phố và số lượng, đồng thời cung cấp tài nguyên tải xuống dữ liệu năm 110.
+[^6]: [Nền tảng Mở dữ liệu Chính phủ：Thống kê nhân viên tình nguyện cứu hỏa toàn quốc](https://www.nfa.gov.tw/cht/index.php?code=list&flag=detail&ids=32&article_id=1961) — Bộ dữ liệu thống kê nhân viên tình nguyện cứu hỏa toàn quốc do Cục Phòng cháy chữa cháy cung cấp, liệt kê các trường tỉnh (thành phố) và số lượng người, cung cấp tải xuống tài nguyên dữ liệu năm 110.
 
-[^7]: [Trâu Bội San: Nghiên cứu quản lý tình nguyện viên phòng chống thiên tai – lấy tổ chức Yìxiāo Tân Bắc thành phố làm ví dụ](https://thesis.lib.nccu.edu.tw/detail/91b9cb20051f454d2d18d18254ef591d/?seq=3) — Luận văn thạc sĩ của Đại học Chính trị Quốc gia năm 2022, phân tích những khó khăn về hệ thống của Yìxiāo trong các khía cạnh nhân lực, trang bị, chuyên môn, tuyển dụng và huấn luyện từ góc độ quản lý tình nguyện.
+[^7]: [Tấu Bội Châu：Khám phá quản lý tình nguyện viên phòng chống thảm họa - Ví dụ từ tổ chức nhân viên tình nguyện cứu hỏa Tân Bắc](https://thesis.lib.nccu.edu.tw/detail/91b9cb20051f454d2d18d18254ef591d/?seq=3) — Luận văn thạc sĩ năm 2022 của Đại học Quốc gia Chính Trị Đài Bắc, phân tích các khó khăn chế độ của nhân viên tình nguyện cứu hỏa trong lực lượng nhân sự, trang bị, chuyên môn, tuyển dụng và đào tạo từ góc độ quản lý tình nguyện viên.
 
-[^8]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://doi.org/10.17477/jcea.2015.14.2.045) — Trang bài báo DOI của một công trình học thuật tiếng Anh, nghiên cứu mối quan hệ giữa giám sát viên PCCC địa phương, chất lượng giao tiếp và sự tham gia dân sự trước sự cố đối với việc huy động tổ chức tình nguyện.
+[^8]: [Wu, Chang & Collins：Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://doi.org/10.17477/jcea.2015.14.2.045) — Trang DOI của bài viết học thuật tiếng Anh, nghiên cứu mối quan hệ giữa các nhà quản lý cứu hỏa địa phương Đài Loan, chất lượng giao tiếp và sự tham gia công dân trước đó đối với động viên các tổ chức tình nguyện.
 
-[^9]: [Tạp chí PCCC: Tuyên truyền phòng cháy 20 năm như một ngày](https://ebook.nfa.gov.tw/10901/files/basic-html/page46.html) — Bài báo nhân vật của Cục PCCC Bộ Nội vụ, ghi lại bối cảnh thực tế khi Tô Tú Loan và Trần Ngọc Phượng đi vào gia đình để quảng bá chuông báo cháy và kiểm tra an toàn sơ tán tại nhà.
+[^9]: [Tạp chí Phòng cháy chữa cháy：Tuyên truyền phòng cháy 20 năm luôn luôn như một](https://ebook.nfa.gov.tw/10901/files/basic-html/page46.html) — Báo cáo nhân vật từ Tạp chí Phòng cháy chữa cháy của Bộ Nội vụ, ghi chép cảnh tượng thực tiễn của Sơ Tú Liêu và Trần Ngọc Phượng bước vào gia đình, quảng bá thiết bị cảnh báo nhà ở và kiểm tra an toàn thoát hiểm gia đình.
 
-[^10]: [Tạp chí PCCC: Vượt qua mưa gió hoàn thành sứ mệnh, bước vào gia đình thực hiện tuyên truyền phòng cháy](https://ebook.nfa.gov.tw/10912/files/basic-html/page20.html) — Cuộc phỏng vấn Tịnh Mỹ Bàng của Cục PCCC, ghi lại dịch vụ cộng đồng lâu dài và cấu trúc tổ chức bốn cấp của Yìxiāo.
+[^10]: [Tạp chí Phòng cháy chữa cháy：Không sợ gió và mưa, sứ mệnh phải thực hiện, bước vào gia đình để thực hiện giáo dục tuyên truyền phòng cháy](https://ebook.nfa.gov.tw/10912/files/basic-html/page20.html) — Phỏng vấn Tạp chí Phòng cháy chữa cháy với Trịnh Mỹ Phúc, ghi chép dịch vụ cộng đồng lâu dài của nhân viên tình nguyện tuyên truyền phòng cháy và cấu trúc tổ chức bốn cấp của nhân viên tình nguyện cứu hỏa.
 
-[^11]: [Cục PCCC Bộ Nội vụ: Báo cáo phân tích chi tiết các trường hợp thương vong nhân viên PCCC năm 102 (Minguo)](https://www.nfa.gov.tw/cht/index.php?act=download&ids=19863) — Báo cáo phân tích cơ sở dữ liệu an toàn do Cục PCCC ủy thác, trong đó Yìxiāo được xếp vào thống kê sự cố, nhiệm vụ, huấn luyện và rủi ro giao thông.
+[^11]: [Cục Phòng cháy chữa cháy Bộ Nội vụ：Báo cáo phân tích chi tiết thống kê tổn thương nhân viên cứu hỏa năm 111 dương lịch](https://www.nfa.gov.tw/cht/index.php?act=download&ids=19863) — Báo cáo phân tích cơ sở dữ liệu an toàn do Cục Phòng cháy chữa cháy ủy thác thực hiện, đưa nhân viên tình nguyện cứu hỏa vào phân loại thống kê các rủi ro sự cố, công tác, huấn luyện và giao thông.
 
-[^12]: [Cục PCCC Tỉnh Bính Đằng: Hồ sơ nhân vật danh dự](https://www.pthg.gov.tw/planfbt/cp.aspx?n=4C04D116C21165B8&s=1274B956008A7D8D) — Tài liệu nhân vật của cơ quan PCCC địa phương, ghi lại hoàn cảnh gia nhập Yìxiāo Hằng Xuân và Phang Liêu, các vụ cứu hộ núi và hỏa hoạn, cùng với huấn luyện chuyên môn và hợp tác địa phương.
+[^12]: [Sở Cứu hỏa Tỉnh Bình Đông：Bảng Danh dự / Phỏng vấn Nhân vật](https://www.pthg.gov.tw/planfbt/cp.aspx?n=4C04D116C21165B8&s=1274B956008A7D8D) — Dữ liệu nhân vật từ Sở Cứu hỏa địa phương, ghi chép các lý do tham gia của nhân viên tình nguyện cứu hỏa Hằng Xuân và Bàn Lão, cứu hộ sạt lở đất và cháy, cũng như huấn luyện chuyên nghiệp và hợp tác địa phương.
 
-[^13]: [Cục PCCC Tỉnh Đài Đông: Hồ sơ nhân vật](https://www.ttfd.gov.tw/index.php?Act=294&MK=1567&PK=1672&L=) — Khu vực dân lực của Cục PCCC Tỉnh Đài Đông, lưu giữ thâm niên phục vụ và cảm nhận của các thành viên Yìxiāo Trường Bành và tình nguyện viên tuyên truyền thiên tai.
+[^13]: [Sở Cứu hỏa Tỉnh Đài Đông：Phỏng vấn Nhân vật](https://www.ttfd.gov.tw/index.php?Act=294&MK=1567&PK=1672&L=) — Khu vực nhân lực dân sự của Sở Cứu hỏa Tỉnh Đài Đông, thu thập nhân viên tình nguyện cứu hỏa, nhân viên tình nguyện tuyên truyền phòng chống thảm họa, gương sáng địa phương và năm dịch vụ cũng như cảm nhận của họ.

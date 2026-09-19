@@ -1,0 +1,18 @@
+{
+  "revision": 31,
+  "submissionId": "0f0e00fb-a1bc-4af5-b5c8-b79eebecc239",
+  "actor": "guide_orient_reviewer_5 (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "複讀（orient-inputs-reread）：python 逐欄比對確認 v6 與已通過的 v5 的 data 除 uncertainties[8]（本次重交註記，記錄研究報告 §11 第 3 條依 investigate v3 評閱更正一處數字觸發工具退回，非油價機制內容主張）外逐字相同，readerQuestion/subjectExplanation/candidateAngles[0-3]/uncertainties[0-7] 完全相等。延續上一輪對四項標準的獨立判斷：readerQuestion 是貼近 brief 讀者、具體場景化的真實疑問；subjectExplanation 全程白話 + 具體數字把機制講成一般人能感受到的落差；candidateAngles 四個彼此正交且每個都附上可用 Stage 1 材料直接檢驗的具體推翻條件，沒有任何一條提前宣判核心矛盾的答案；uncertainties 前八條皆為具體必驗未知，第九條為流程記錄不稀釋前八條密度。內容未變，判斷不變。",
+  "contextDisclosure": "orient-inputs-reread",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v6.json",
+      "location": "data.readerQuestion；data.subjectExplanation；data.candidateAngles[0-3]；data.uncertainties[0-8]（[8] 為本次重交註記）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v6.md",
+      "location": "全文"
+    }
+  ]
+}

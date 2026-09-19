@@ -1,0 +1,21 @@
+{
+  "revision": 9,
+  "submissionId": "a77cc3ee-1567-4f94-9898-a41692333165",
+  "actor": "investigate 站評閱編輯（Sonnet，Agent a6a8a2e2ca9dd01ac，乾淨 context 第一次接觸本篇；抽驗 curl 直讀 gba.tavis.tw／law.moc.gov.tw／bamid.gov.tw／about.netflix.com／cna.com.tw 六個一手來源；contextDisclosure: fresh-context-inputs-only）",
+  "verdict": "accept",
+  "rationale": "四類抽驗全部逐字命中，claim 未膨脹或誤引：(1) 106 年度要點四詞在 52nd 頁各命中，105 年度 GL001058 四詞計數皆 0；(2) bamid 109／110 年度頁逐字命中《想見你》《天橋上的魔術師》參賽製作單位全稱；(3) Netflix 2023 新聞稿「with 40 nominations and 12 wins」逐字命中；(4) 中央社陳亞蘭三句逐字命中，僅表格截短一句未加刪節號（輕微瑕疵，主編已依原文補全）。frontmatter 三層皆決定形態；§3 抽三段皆陳述世界；§5 與 §7.2 對單源／查無正確降級，未把查無寫成不存在；counterEvidence 與 changedMind 在 §B／§C／§E／§G 有對應；沒有材料推翻 orient 讀者問題。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "frontmatter verification 三層"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§3 §B（106 年度四件事）、§C 表格、§4 引語庫、§5 護欄、§7.2 verification table"
+    },
+    {
+      "path": "reports/staging/golden-bell/investigate-submission.json",
+      "location": "data.counterEvidence 與 data.changedMind"
+    }
+  ]
+}

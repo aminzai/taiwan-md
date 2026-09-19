@@ -1,6 +1,6 @@
 ---
 title: 'Steve Chen'
-description: 'Er verließ Taiwan im Alter von acht Jahren, baute mit 27 Jahren in den USA eine Plattform auf, auf der alle Videos hochladen konnten, verkaufte sie 20 Monate später für 165 Millionen US-Dollar, erhielt anschließend einen Hirnaneurysma, operierte sich zweimal offen, erlitt 15 Epilepsieanfälle und kehrte schließlich mit seiner Frau und seinen Kindern zurück.'
+description: 'Er verließ Taiwan im Alter von acht Jahren, baute mit 27 Jahren in den USA eine Plattform auf, auf der alle Videos hochladen konnten, verkaufte sie 20 Monate später für 1,65 Milliarden US-Dollar, erhielt anschließend einen Hirnaneurysma, operierte sich zweimal offen, erlitt 15 Epilepsieanfälle und kehrte schließlich mit seiner Frau und seinen Kindern zurück.'
 date: 2026-04-06
 category: 'People'
 tags:
@@ -29,7 +29,7 @@ translatedAt: '2026-09-08T15:54:57+08:00'
 
 ## 30-Sekunden-Überblick
 
-Steve Chen (1978–), geboren in Taipeh, wanderte im Alter von acht Jahren aus, gründete 2005 mit zwei ehemaligen PayPal-Kollegen im Carport YouTube, verkaufte es 20 Monate später für 165 Millionen US-Dollar und wurde einen der bekanntesten taiwanesischen Gründer Silicons. Wenige Monate nach der Übernahme durch Google wurde er mit einem Hirnaneurysma diagnostiziert, durchlief zwei OP’s und 15 Epilepsieanfälle, bevor er 2019 mit seiner Frau und seinen Kindern in Taiwan ansiedelte.[^1] 2018 übergab damaliger Regierungschef Lai Ching-te ihm Taiwans erste „Employment Gold Card“.[^2]
+Steve Chen (1978–), geboren in Taipeh, wanderte im Alter von acht Jahren aus, gründete 2005 mit zwei ehemaligen PayPal-Kollegen im Carport YouTube, verkaufte es 20 Monate später für 1,65 Milliarden US-Dollar und wurde einen der bekanntesten taiwanesischen Gründer Silicons. Wenige Monate nach der Übernahme durch Google wurde er mit einem Hirnaneurysma diagnostiziert, durchlief zwei OP’s und 15 Epilepsieanfälle, bevor er 2019 mit seiner Frau und seinen Kindern in Taiwan ansiedelte.[^1] 2018 übergab damaliger Regierungschef Lai Ching-te ihm Taiwans erste „Employment Gold Card“.[^2]
 
 ---
 
@@ -53,7 +53,7 @@ Die ursprüngliche Idee hinter YouTube war eine Video-Plattform, auf der Nutzer 
 
 Im Mai 2005 wurde YouTube offiziell gestartet, der Traffic wuchs so schnell, dass die Server nicht mithielten konnten. Noch 2005 gab es weltweit keinen Ort, an dem reguläre Menschen so einfach Videos hochladen und ansehen konnten.
 
-Am 16. Oktober 2006 kaufte Google YouTube für 165 Millionen US-Dollar — einer der spektakulärsten Deals der Internetgeschichte. Steve Chen war 28 Jahre alt und hielt etwa 17 % der Anteile an YouTube.[^6]
+Am 16. Oktober 2006 kaufte Google YouTube für 1,65 Milliarden US-Dollar — einer der spektakulärsten Deals der Internetgeschichte. Steve Chen war 28 Jahre alt und hielt etwa 17 % der Anteile an YouTube.[^6]
 
 Doch später sagte er, dass sie nicht aktiv verkauft hätten.
 
@@ -110,11 +110,11 @@ Die Anpassung seiner Kinder verlief besser als erwartet. Obwohl er zunächst dac
 
 Das ist die Frage, die er am häufigsten gestellt bekommt.
 
-Ein Freund schätzte, dass der Wert von YouTube heute, wenn es eigenständig bliebe, zwischen 50 und 80 Milliarden US-Dollar liegen könnte. Mit seinen 17 % Anteilen hätte Chen deutlich mehr als die 165 Millionen US-Dollar erhalten.
+Ein Freund schätzte, dass der Wert von YouTube heute, wenn es eigenständig bliebe, zwischen 50 und 80 Milliarden US-Dollar liegen könnte. Mit seinen 17 % Anteilen hätte Chen deutlich mehr als die 1,65 Milliarden US-Dollar erhalten.
 
 Seine Antwort ist jedoch stets: Keine Reue. Er sagte: „Ohne Googles Ressourcen und Schutz wäre YouTube heute möglicherweise längst vom Anwalt der Medienunternehmen ruiniert worden.“[^12]
 
-Und 165 Millionen US-Dollar sind kein kleiner Betrag. Mit 28 Jahren hatte er Geld, Zeit und Pläne für das, was als Nächstes kommt.
+Und 1,65 Milliarden US-Dollar sind kein kleiner Betrag. Mit 28 Jahren hatte er Geld, Zeit und Pläne für das, was als Nächstes kommt.
 
 ---
 
@@ -151,7 +151,7 @@ Ein Mann, der Taiwan mit acht Jahren verließ und mit 41 Jahren zurückkehrte, s
 
 [^5]: [Finanziert durch Kreditkarten-Schulden, Übernommen in einem Denny's: Steve Chen über die Gründungsgeschichte von YouTube, Startup Grind](https://www.startupgrind.com/blog/video-funded-on-credit-card-debt-acquired-in-a-dennys-steve-chen-on-youtubes-founding-story/) — Steve Chen selbst spricht über die Finanzierung und das Ausnutzen seines Kreditlimits.
 
-[^6]: Siehe oben: „Am 16. Oktober 2006 verkaufte Steve Chen zusammen mit Chad Hurley YouTube für 165 Millionen US-Dollar an Google und wurde dadurch auch Aktionär von Google.“; Baidu Baike: „Besitzt 17 % der Anteile.“
+[^6]: Siehe oben: „Am 16. Oktober 2006 verkaufte Steve Chen zusammen mit Chad Hurley YouTube für 1,65 Milliarden US-Dollar an Google und wurde dadurch auch Aktionär von Google.“; Baidu Baike: „Besitzt 17 % der Anteile.“
 
 [^7]: Zitiert von Threads-Nutzern, Steve Chen im Interview beim Silikon-Valley-Podcast: „Wir wurden im Prinzip gezwungen, auf diese Art und Weise fusioniert zu werden, hauptsächlich aufgrund rechtlicher Probleme.“https://www.threads.com/@vktechread/post/DHnktz_AG7w/
 

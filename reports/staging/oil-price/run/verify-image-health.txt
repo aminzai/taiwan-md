@@ -1,0 +1,6 @@
+🧬 knowledge/Economy/台灣油價機制與中油.md
+   lang=zh-TW  category=Economy  slug=台灣油價機制與中油
+   ✅ image-health  hard=0 warn=0 info=1
+      info : 圖片統計：2 inline + 1 hero (frontmatter) = 3 張
+
+Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)

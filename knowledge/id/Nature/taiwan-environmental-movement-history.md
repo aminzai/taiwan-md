@@ -62,7 +62,7 @@ Taiwan dikelilingi lautan, tapi perhatian terhadap perlindungan lautan relatif t
 
 Masalah sampah lautan jadi fokus 2010-an. Menurut statistik EPA, pesisir Taiwan tiap tahun membersihkan sekitar 14.000 ton sampah, di mana produk plastik sekitar 70%. Data ini membuat masyarakat mulai menghadapi masalah "plastik lautan" dengan serius.
 
-Ekologi terumbu karang perairan Taiwan juga terancam. Terumbu karang Kenting, Pulau Hijau (Ludau), Pulau Orkid (Lanyu) karena perubahan iklim, polusi, eksploitasi berlebihan mengalami pembelahan putih. Organisasi konservasi lautan mulai mendorong program restorasi terumbu karang, tapi efektivitasnya masih perlu diamati.
+Ekologi terumbu karang perairan Taiwan juga terancam. Terumbu karang Kenting, Pulau Hijau (Ludau), Pulau Anggrek (Lanyu) karena perubahan iklim, polusi, eksploitasi berlebihan mengalami pembelahan putih. Organisasi konservasi lautan mulai mendorong program restorasi terumbu karang, tapi efektivitasnya masih perlu diamati.
 
 Konservasi paus dan lumba-lumba aspek penting lainnya. Perairan Taiwan ada 32 spesies paus/lumba-lumba, tapi aktivitas perikanan, kebisingan kapal, kerusakan habitat semuanya mengancam mereka. Persatuan Paus-Lumba-lumba Tionghoa (Chinese Cetacean Society) dll mendorong penyelamatan dan konservasi paus-lumba-lumba, serta mengadvokasi pembentukan kawasan perlindungan lautan.
 

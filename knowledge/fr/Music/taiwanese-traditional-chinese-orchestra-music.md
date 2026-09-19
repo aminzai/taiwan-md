@@ -179,7 +179,7 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 ## Références
 
-[^1]: [La politique de localisation du répertoire menée par Chung Yiu-kwong pendant son mandat à la tête de l'Orchestre de musique nationale de Taipei — voir l'historique des directeurs artistiques sur le site officiel du TCO](https://www.tco.gov.taipei/)
+[^1]: [Orchestre de musique nationale de Taipei – Site officiel](https://www.tco.gov.taipei/) — politique de localisation du répertoire sous la direction de Chung Yiu-kwong
 
 [^2]: La vision de Chung Yiu-kwong sur la localisation du guoyue — voir [Revue Chuanyi : L'innovation dans le guoyue moderne, incarner la vitalité taïwanaise](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
 
@@ -189,15 +189,15 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 [^5]: Le développement de l'enseignement de la musique occidentale à Taïwan sous l'ère japonaise — voir [Base de données des portraits de musiciens de Taïwan : Éducation musicale à l'époque japonaise](https://musiciantw.ncfta.gov.tw/)
 
-[^6]: [Historique du Département de musique chinoise de l'Université nationale des arts de Taïwan](https://music.ntua.edu.tw/) ; [Historique de l'Académie nationale des arts du spectacle de Taïwan](https://www.tcpa.edu.tw/)
+[^6]: [Historique du Département de musique chinoise de l'Université nationale des arts de Taïwan](https://music.ntua.edu.tw/) — [Historique de l'Académie nationale des arts du spectacle de Taïwan](https://www.tcpa.edu.tw/) — Voir le lien original pour des informations supplémentaires
 
-[^7]: [Orchestre national de musique nationale de Taïwan — Wikipédia : Historique](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98)
+[^7]: [NCO – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — Article Wikipedia
 
 [^8]: [Orchestre national de musique nationale de Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — Rebaptisé « Orchestre national de musique nationale de Taïwan » en 2012, rattaché au Centre national des arts traditionnels
 
 [^9]: [Orchestre national de musique nationale de Taïwan : Productions annuelles et commandes](https://nco.ncfta.gov.tw/) — Traversée des crêtes créé en 2016
 
-[^10]: [Site officiel de l'Orchestre de musique nationale de Taipei : À propos du TCO](https://www.tco.gov.taipei/), fondé en 1979
+[^10]: [Site officiel de l'Orchestre de musique nationale de Taipei : À propos du TCO](https://www.tco.gov.taipei/) — fondé en 1979
 
 [^11]: [Chung Yiu-kwong — Wikipédia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89) — Nommé directeur du TCO en 2007
 
@@ -205,11 +205,11 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 [^13]: [Site officiel de l'Orchestre de musique nationale de Kaohsiung](https://kpcaf.kcg.gov.tw/) — Successeur de l'Orchestre des enseignants de musique nationale de Kaohsiung, fondé en 1979
 
-[^14]: [Su Wen-ching — Wikipédia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6)
+[^14]: [Su Wen-ching — Wikipédia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6) — article Wikipédia
 
 [^15]: Liste des œuvres principales de Su Wen-ching — voir [Su Wen-ching — Wikipédia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6)
 
-[^16]: [Revue Chuanyi : L'innovation dans le guoyue moderne, incarner la vitalité taïwanaise](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
+[^16]: [Revue Chuanyi : L'innovation dans le guoyue moderne, incarner la vitalité taïwanaise](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130) — Voir le lien original pour des informations supplémentaires
 
 [^17]: La légende du Fengshiye de Su Wen-ching s'inspire de la culture des lions protecteurs de Kinmen — voir [Base de données des portraits de musiciens de Taïwan : Su Wen-ching](https://musiciantw.ncfta.gov.tw/)
 
@@ -217,7 +217,7 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 [^19]: [Site officiel de l'Orchestre central de musique des nationalités](http://www.cnso.com.cn/) — Effectif d'environ 90 à 120 musiciens
 
-[^20]: [Présentation de la formation de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/), environ 70 musiciens
+[^20]: [Présentation de la formation de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/) — environ 70 musiciens
 
 [^21]: Contexte du développement de l'orchestre national instrumental en Chine continentale — voir [Musique nationale de la République de Chine — Wikipédia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82)
 
@@ -229,15 +229,15 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 [^25]: La technique vocale de partiels du pasibutbut bunun est considérée par la musicologie internationale comme une tradition polyphonique unique — voir [Enregistrements UNESCO correspondants](https://ich.unesco.org/)
 
-[^26]: [Orchestre national de musique nationale de Taïwan : Présentation de Traversée des crêtes et Où est Mauliyav ?](https://nco.ncfta.gov.tw/)
+[^26]: [Orchestre national de musique nationale de Taïwan : Présentation de Traversée des crêtes et Où est Mauliyav ?](https://nco.ncfta.gov.tw/) — Voir le lien original pour les informations du programme complémentaire
 
 [^27]: Le débat sur l'appropriation culturelle autochtone dans le guoyue — voir les discussions académiques des ethnomusicologues autochtones de Taïwan. Ce débat est en cours et ne fait pas encore l'objet d'un consensus
 
-[^28]: [Enregistrements des spectacles hybrides de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/)
+[^28]: [Enregistrements des spectacles hybrides de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/) — voir le contenu du lien original pour les données complémentaires
 
 [^29]: Ko Chih-hao est un musicien taïwanais pluridisciplinaire actif dans le guoyue, la musique de film et la musique indépendante. Citation tirée d'une interview publique
 
-[^30]: [Xianjin Guoyue Shangdian](https://www.stmusic.com.tw/) ; [Chang-an Instruments](https://www.cachinamusic.com/)
+[^30]: [Xianjin Guoyue Shangdian](https://www.stmusic.com.tw/) — [Chang-an Instruments](https://www.cachinamusic.com/)
 
 [^31]: Les tentatives d'utilisation d'essences locales taïwanaises pour la fabrication d'instruments relèvent de l'expérience pratique des luthiers ; les données acoustiques systématiques restent limitées
 
@@ -251,6 +251,6 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 [^36]: Les expériences de représentations dans des espaces atypiques par les nouvelles générations de musiciens de guoyue taïwanais sont une tendance observée ces dernières années
 
-[^37]: [Enregistrements des tournées internationales de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/)
+[^37]: [Enregistrements des tournées internationales de l'Orchestre de musique nationale de Taipei](https://www.tco.gov.taipei/) — voir le contenu du lien original pour les données complémentaires
 
 [^38]: Les observations de la critique internationale sur le guoyue taïwanais sont éparses dans les comptes rendus de tournées

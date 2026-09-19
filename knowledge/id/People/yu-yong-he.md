@@ -1,18 +1,18 @@
 ---
-title: 'Yu Yonghe'
-description: 'Pada tahun 1697, seorang sarjana dari Hangzhou secara sukarela pergi ke Taiwan untuk menambang belerang, berjalan kaki dari Tainan hingga Beitou, dan menulis karya sastra deskriptif tertua di bagian utara Taiwan.'
+title: 'Yu Yung-ho'
+description: 'Tahun 1697, seorang pelajar dari Hangzhou secara sukarela pergi ke Taiwan untuk menambang belerang, berjalan kaki dari Tainan ke Taipei, dan menulis literatur deskriptif paling awal tentang bagian utara Taiwan'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'Tokoh',
-    'Yu Yonghe',
-    'Jinyi Jiyu (Catatan Perjalanan Laut)',
-    'Dinasti Qing',
-    'Petualangan',
+    'tokoh',
+    'Yu Yung-ho',
+    'Pici Jiyou',
+    'Era Qing',
+    'petualangan',
     'Beitou',
-    'Belerang',
-    'Sastra Taiwan',
+    'belerang',
+    'sastra Taiwan',
   ]
 subcategory: '歷史與探險'
 author: 'Taiwan.md'
@@ -24,129 +24,129 @@ translatedFrom: 'People/郁永河.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-09-10T03:36:19+08:00'
+translatedAt: '2026-09-10T10:26:29+08:00'
 ---
 
-# Yu Yonghe
+# Yu Yung-ho
 
-> **Ringkasan 30 Detik:** Pada tahun 1697, seorang sarjana dari Hangzhou, Zhejiang, secara sukarela menerima tugas untuk menambang belerang di Taiwan setelah melintasi laut dari Fujian. Ia berjalan dari Tainan hingga Beitou, melintasi dataran barat, melewati lebih dari selusin suku asli. Sembilan bulan kemudian, ia kembali dengan belerang dan sekaligus menulis sebuah buku, yang menjadi karya klasik pertama yang mencatat geografi manusia di bagian utara Taiwan. Buku itu berjudul _Jinyi Jiyu_.
+> **Pandangan 30 detik:** Tahun 1697, seorang pelajar dari Hangzhou, Zhejiang, secara sukarela pergi melintasi laut dari Fujian ke Taiwan untuk menambang belerang. Dia berjalan kaki dari Tainan hingga Beitou (Taipei utara), melintasi seluruh dataran barat, melalui lebih dari sepuluh pemukiman masyarakat adat. Sembilan bulan kemudian dia kembali dengan belerang, dan kebetulan menulis sebuah buku yang menjadi karya klasik paling awal yang mencatat geografi kemanusiaan di bagian utara Taiwan. Buku itu disebut _Pici Jiyou_.
 
-Pada masa pemerintahan Kangxi dari Dinasti Qing, Taiwan adalah tempat yang sangat ditakuti oleh sebagian besar pejabat Tiongkok. Wabah penyakit tropis, malaria, dan "orang asing liar" saja sudah cukup menakutkan untuk didengar. Namun, ada seorang sarjana yang tidak hanya bersedia pergi, tetapi juga menulis catatan perjalanan sepanjang perjalanannya.
+Pada era Kangxi dinasti Qing, Taiwan bagi sebagian besar pejabat Tiongkok adalah tempat yang ingin dihindari. Malaria, penyakit musiman tropis, dan "serangan kelompok biadab"—mendengarnya saja sudah menakutkan. Tapi ada seorang pelajar yang tidak hanya secara aktif ingin pergi, tetapi juga menulis perjalanannya sepanjang jalan.
 
-## Api di Gudang Mesiu
+## Gudang Mesiu yang Terbakar
 
-Awal cerita ini bukan di Taiwan, melainkan di Fuzhou.
+Kisahnya dimulai bukan di Taiwan, tetapi di Fuzhou.
 
-Pada musim dingin tahun 1696 (tahun ke-35 Kangxi), gudang mesiu di Fuzhou terbakar. Lebih dari setengah ratus ribu jin belerang dan kalium nitrat hangus habis, "tidak ada yang tersisa". Sesuai peraturan Dinasti Qing, pengawas harus mengganti kerugian tersebut. Wang Zhongqian, seorang pejabat tingkat lima di Prefektur Fuzhou, bertanggung jawab atas gudang mesiu itu, dan ia sangat membutuhkan belerang dalam jumlah besar, tetapi Fujian lokal sama sekali tidak memproduksinya.
+Di musim dingin tahun 1696 (tahun kesembilan puluh lima era Kangxi), gudang mesiu di Fuzhou terbakar. Lima ratus ribu lebih kilogram belerang dan kalium nitrat semuanya habis terbakar, "tanpa sesuatu yang tersisa sekalipun". Menurut peraturan Qing, mereka yang menjaga gudang harus mengganti kerugian sepenuhnya. Pejabat yang bertanggung jawab mengelola gudang mesiu adalah Wang Zhong-qian, peringkat lima Tong-zhi dari Fuzhou, dia sangat membutuhkan belerang dalam jumlah besar, tetapi Fujian sama sekali tidak menghasilkan belerang.
 
-Satu-satunya sumber belerang berada di utara Taiwan, sebuah tempat bernama Beitou.
+Satu-satunya tempat produksi belerang di Taiwan Utara, di sebuah tempat bernama Beitou.
 
-Tidak ada yang mau pergi. Di mata birokrasi Fujian pada masa itu, Taiwan adalah sinonim untuk daerah pengasingan, wilayah liar, dan "pergi tanpa kembali".
+Tidak ada yang ingin pergi. Di mata para pejabat Fujian pada saat itu, Taiwan adalah tempat pengasingan, adalah tanah biadab, adalah sinonim dari "tidak ada yang kembali".
 
-Saat itulah Yu Yonghe, seorang tamu dari Wang Zhongqian, maju: "Saya akan pergi."
+Pada saat itu, Yu Yung-ho, pelakon dari Wang Zhong-qian, maju: "Saya akan pergi."
 
-## Hobi Aneh Sarjana Hangzhou
+## Kegemaran Aneh Seorang Pelajar Hangzhou
 
-Yu Yonghe, dengan nama pena Canglang, berasal dari Kabupaten Renhe, Zhejiang (sekarang bagian utara Kota Hangzhou), dan lahir pada tahun 1645. Status resminya adalah _zhusheng_ (murid pendamping), yaitu seorang cendekiawan yang lulus ujian tingkat rendah tetapi tidak melanjutkan ke jenjang yang lebih tinggi. Sejak tahun 1691, ia bekerja sebagai tamu di bawah pejabat prefektur Fuzhou untuk mengurus administrasi dokumen.
+Yu Yung-ho, nama pengalaman Canglang, orang dari Renhe County, Zhejiang (sekarang bagian utara kota Hangzhou), lahir tahun 1645. Status formalnya adalah "Zhushen" (siswa yang mendaftar), yaitu seseorang yang lulus ujian Xiu-cai tetapi tidak melanjutkan ujian yang lebih tinggi. Sejak 1691, dia bekerja di bawah Prefek Pengetahuan Fuzhou sebagai pelakon, menangani administrasi dokumentasi.
 
-Namun, Yu Yonghe memiliki hobi yang cukup langka di kalangan cendekiawan pada masa itu: ia sangat suka bepergian. Selama menjabat di Fujian, ia telah menjelajahi seluruh Fujian. Ketika mendengar bahwa ia harus pergi ke Taiwan untuk menambang belerang, orang lain menggelengkan kepala karena takut, tetapi ia mendengarnya sebagai "petualangan gratis ke Taiwan".
+Tetapi Yu Yung-ho memiliki kegemaran yang sangat jarang di kalangan para pelajar pada saat itu: dia sangat senang bepergian. Selama bertugas di Fujian, dia telah menjelajahi seluruh Fujian. Mendengar tentang perjalanan ke Taiwan untuk menambang belerang, yang lain mendengarnya dan gemetar, dia mendengarnya sebagai "perjalanan eksplorasi gratis ke Taiwan".
 
-## Menyeberangi Jurang Hitam
+## Menyeberangi Lubang Air Hitam
 
-Pada akhir bulan Maret 1697 (tahun ke-36 Kangxi), Yu Yonghe berangkat dari Fujian, melewati Jinmen dan Xiamen, lalu menyeberangi Selat Taiwan dengan kapal.
+Pada akhir Januari tahun 1697 (tahun ketiga puluh enam era Kangxi), Yu Yung-ho berangkat dari Fujian, melalui Kinmen dan Xiamen, dan naik kapal melintasi Selat Taiwan.
 
-Bagian paling berbahaya dari pelayaran ini adalah melintasi "Jurang Hitam". Ada area di tengah Selat Taiwan di mana airnya berwarna hitam pekat; arus sangat deras dan bergejolak, yang selalu menjadi bagian paling ditakuti oleh mereka yang menyeberang ke Taiwan. Yu Yonghe mencatat secara rinci pengalamannya dalam pelayaran luar biasa ini.
+Bagian paling mendebarkan dari perjalanan ini adalah melewati "Lubang Air Hitam". Di tengah Selat Taiwan ada wilayah di mana air laut tampak berwarna hitam gelap, arus laut sangat deras, arus bawah sangat berbahaya, dan selalu menjadi bagian yang paling menakutkan bagi mereka yang menyeberang Taiwan. Yu Yung-ho mencatat secara terperinci pengalamannya dalam perjalanan menakjubkan ini.
 
-Pada tanggal 25 Februari, kapal tiba di Anping, Tainan. Namun, air dangkal di dekat pantai sehingga kapal tidak bisa berlabuh, dan ia harus turun dari kapal untuk naik gerobak sapi yang ditarik manusia hingga mencapai daratan.
+Pada tanggal 25 Februari, kapal tiba di Anping, Tainan. Tetapi air dekat pantai dangkal, kapal tidak bisa bersandar, jadi dia harus turun dari kapal dan naik kereta sapi, dan dikirim ke pantai oleh orang-orang.
 
-## Dua Bulan di Kota Prefektur
+## Dua Bulan di Kota Tainan
 
-Setibanya di kota prefektur Tainan, Yu Yonghe menghabiskan lebih dari dua bulan untuk menyiapkan peralatan dan perbekalan penambangan belerang. Totalnya ia mengeluarkan sembilan ratus delapan puluh koin emas. Selama periode ini, semua orang di sekitarnya menyarankan agar ia tidak pergi ke utara sendiri. Perjalanan ke utara sangat jauh, melewati wilayah liar yang belum dikembangkan, dan suku-suku asli mungkin tidak bersahabat; malaria selalu mengancam nyawa.
+Begitu tiba di kota Tainan, Yu Yung-ho menghabiskan lebih dari dua bulan mempersiapkan alat dan perlengkapan penambangan belerang. Total biaya sembilan ratus delapan puluh liang emas. Selama periode ini, semua orang di sekitarnya membujuknya untuk tidak pergi ke utara sendiri. Perjalanan ke utara jauh, sepanjang jalan adalah tanah biadab yang belum berkembang, pemukiman masyarakat adat mungkin tidak ramah, malaria dapat membunuh kapan saja.
 
-Yu Yonghe tidak mendengarkan. Ia memutuskan untuk berangkat melalui dua rute: jalur air ditangani oleh asistennya Wang Unsen, menggunakan kapal untuk membawa peralatan penambangan berat ke utara di sepanjang pantai; sementara ia sendiri berjalan kaki dengan gerobak sapi, dari kota prefektur menuju utara.
+Yu Yung-ho tidak mendengarkan. Dia memutuskan untuk berangkat dengan dua rute: rute air dikelola oleh asistennya Wang Yun-sen, menggunakan kapal untuk membawa peralatan penambangan yang berat ke utara sepanjang garis pantai; dia sendiri naik kereta sapi berjalan di darat, dari kota Tainan menuju utara.
 
-## Ekspedisi Besar Barat: Tainan hingga Danshui
+## Perjalanan Besar Barat: Dari Tainan ke Tamsui
 
-Pada tanggal 7 April, Yu Yonghe berangkat dari Tainan. Perjalanan selama dua puluh hari berikutnya adalah catatan lapangan yang paling lengkap tentang dataran barat Taiwan pada tahun 1697.
+Pada tanggal 7 April, Yu Yung-ho berangkat dari Tainan. Perjalanan dua puluh hari berikutnya adalah pencatatan lapangan paling lengkap dari dataran barat Taiwan pada tahun 1697.
 
-Rutenya adalah: menyeberangi Sungai Dazhou, melewati komunitas Xinguang, Jialuwan, dan Madou; kemudian menyeberangi Sungai Maogangwei dan Xiashi, melewati komunitas Daolo; melintasi Sungai Qishui dan Bazi, tiba di Zhulu Shan (sekarang Chiayi); lalu menyeberangi Sungai Niu Tiao, melewati komunitas Damo, Taliwu, dan Chai Li; menyeberangi tiga sungai—Huwu, Xilu, dan Donglu—melewati komunitas Dawu, Banxian (sekarang Changhua), Yashu, Dadu, Salu, dan Niumi (sekarang Qingshui); kemudian melewati Dajia, Tunxiao, Xinguangzai, Houli, Zhonggang, Zhuxuan (sekarang Hsinchu), Nanqian (sekarang Nankan), dan komunitas Bali Fen. Akhirnya di komunitas Bali Fen, ia menyeberangi sungai dengan perahu tunggal suku asli (_banka_) ke seberang, yaitu komunitas Danshui. Dari Danshui, ia mengikuti sungai hingga Gan Damen (sekarang Guandu), dan akhirnya tiba di komunitas Mashao Weng (area Mu dan Beitou saat ini). Ekspedisi besar barat selama dua puluh hari selesai pada tanggal 27 April.
+Rutemu adalah: menyeberangi Sungai Dazhou, melalui masyarakat Xingang, masyarakat Jialu Bay, masyarakat Madu; menyeberangi Sungai Maogangwei dan Sungai Tiexianqiao, melalui masyarakat Daologuo; menyeberang malam Sungai Jishui, Sungai Bazhang, sampai ke Zhuluo Mountain (Chiayi hari ini); menyeberangi Sungai Niutiao, melalui masyarakat Dazhu, masyarakat Tali-wu, masyarakat Chaili; menyeberangi tiga sungai Sungai Huwei, Sungai Xiluo, Sungai Dongluo, melalui masyarakat Dawu-jun, masyarakat Banxian (Changhua hari ini), masyarakat Yabundle, masyarakat Dadu, masyarakat Shaluo, masyarakat Niuma (Qingshui hari ini); kemudian melalui Daija, Tunyun, Xingang-zai, Houleng, Zhongang, Zhuqian (Hsinchu hari ini), Nankan (Nankan hari ini), komunitas Balifen. Akhirnya dia naik bangka (perahu tradisional masyarakat adat, _banka_) dari komunitas Balifen menyeberangi sungai ke komunitas Tamsui. Kemudian dari Tamsui di sepanjang sungai ke Gantamen (saat ini Guandu), akhirnya tiba di komunitas Mashao-weng (sekitar Tianmu, Beitou hari ini). Pada tanggal 27 April, perjalanan besar barat yang berdurasi dua puluh hari selesai.
 
-Sepanjang perjalanan, ia menulis pengamatan yang mengejutkan.
+Di sepanjang jalan, dia mencatat pengamatan yang mengejutkan.
 
-Pada rute sepanjang delapan hingga sepuluh puluh li dari Zhuxuan ke Nankan, "tidak terlihat satu pun orang atau rumah". Hampir seluruh Taiwan utara adalah daerah tak berpenghuni.
+Dari Zhuqian ke Nankan, jarak delapan sampai sembilan puluh li, "tidak ada satu orang atau satu rumah pun terlihat". Seluruh Taiwan Utara hampir merupakan tanah kosong.
 
-Pemandangan di dataran itu bahkan melebihi imajinasinya: "Dataran terhampar, semuanya ditumbuhi rumput lebat. Yang kuat menutupi kepala, yang lemah menutupi bahu. Gerobak melintas di dalamnya seolah tenggelam ke dalam tanah. Ujung-ujung rumput menggores wajah dan merusak tubuh, nyamuk dan lalat mengisap daging seperti elang lapar dan harimau kelaparan, tidak bisa diusir." Rumput lebih tinggi dari manusia; gerobak berjalan di dalamnya seolah tenggelam ke dalam tanah. Gigitan serangga sangat ganas seperti serangan elang yang kelaparan.
+Lanskap di dataran bahkan melampaui imajinasinya: "Dataran luas, semuanya rumput yang subur. Yang kuat menutup kepala, yang lemah menutupi bahu. Kereta berlari di dalamnya, seolah-olah di dasar tanah. Rumput memotong wajah dan merusak leher, nyamuk dan lalat menghisap daging, seperti elang lapar dan harimau kelaparan, mengejar tanpa henti." Rumput lebih tinggi dari manusia, kereta sapi berjalan di dalamnya seolah-olah tenggelam ke bawah. Gigitan serangga sekuat elang kelaparan yang menyerang mangsa.
 
-Tempat tinggalnya bahkan lebih menyedihkan: "Di gubuk rumput, keempat dinding terbuat dari genteng tembikar, semuanya ditutupi jerami, empat sisi tertiup angin kencang seolah ditembak. Tempat tidur di atas rumput hijau, tumbuh dan dicabut berulang kali. Ketika hujan turun, ruangan seperti banjir bandang. Suara jangkrik dan cacing di bawah tempat tidur berdengung." Gubuk jerami memiliki ventilasi di keempat sisinya; saat berbaring, langit bisa langsung terlihat. Rumput di ranjang terus tumbuh. Saat hujan, di dalam rumah terasa seperti banjir besar. Suara jangkrik dan cacing yang mendesis terus terdengar di bawah tempat tidur.
+Tempat tinggal bahkan lebih buruk: "Di gubuk rumput, empat dinding tembikar, semuanya terbuat dari rumput, angin masuk dari empat sisi seperti panah, tidur sering melihat langit. Lapisan jerami hijau, dicabut lagi tumbuh. Hujan tiba, ruangan seperti banjir. Nyanyian cicada dan suara cacing, kadang-kadang mendidih di bawah tempat tidur." Rumah rumput transparan di semua sisi, berbaring bisa langsung melihat langit. Rumput tumbuh di tempat tidur, dicabut tumbuh lagi. Saat hujan ruangan seperti banjir. Nyanyian cicada dan suara cacing terus mendidih di bawah tempat tidur.
 
-"Keluar dari rumah, rumput setinggi bahu, pohon kuno kusut, tidak dapat digambarkan. Semak belukar jahat tumbuh di antaranya, sehingga dalam jarak beberapa langkah tidak bisa melihat apa-apa." Ketika keluar pintu, rumput sudah mencapai bahu; pepohonan tua saling melilit dan kusut, hutan bambu begitu lebat hingga dalam jarak dekat tidak terlihat apa-apa.
+"Keluar rumah, rumput mencapai bahu, pohon kuno berputar dan mengikat, tidak dapat diberi nama. Bambu jahat tumbuh di antaranya, mata tidak dapat melihat sesuatu dalam genggaman." Keluar dari pintu, rumput mencapai bahu, pohon kuno yang kusut, bambu lebat hingga dalam jarak dekat apa pun tidak bisa dilihat.
 
-Inilah Taiwan pada tahun 1697. Tiga ratus tahun sebelum Taipei menjadi salah satu kota paling makmur di Asia.
+Ini adalah Taiwan tahun 1697. Tiga ratus tahun jauh dari Taipei menjadi salah satu kota paling makmur di Asia.
 
 ## Penambangan Belerang di Beitou
 
-Setelah tiba di Danshui, Yu Yonghe meminta bantuan penerjemah Zhang Da untuk menetap di dekat lokasi penambangan belerang dan mempekerjakan suku asli setempat untuk membantu menambang.
+Setelah tiba di Tamsui, dengan bantuan penerjemah (Tong-shi) Zhang Da, Yu Yung-ho berkomitmen di dekat tempat produksi belerang dan merekrut masyarakat adat lokal untuk membantu penambangan belerang.
 
-Area tambang belerang di Beitou adalah area Longfenggu saat ini. Uap belerang keluar dari permukaan tanah, dan udara dipenuhi bau hidrogen sulfida yang menyengat. Tempat ini hingga kini masih merupakan zona panas bumi paling terkenal di Taipei.
+Wilayah tambang belerang Beitou adalah sekitar Longfeng Valley hari ini. Uap belerang keluar dari tanah, udara dipenuhi bau pungent dari senyawa sulfur. Tempat ini masih menjadi daerah termal dan mata air panas paling terkenal di Taipei hari ini.
 
-Pada tanggal 2 Mei, Yu Yonghe tiba di hulu Sungai Xuanxi, Beitou, dan secara resmi memulai pekerjaan penambangan belerang.
+Pada tanggal 2 Mei, Yu Yung-ho tiba di hulu Sungai Beitou, secara resmi mulai pekerjaan penambangan belerang.
 
-Penambangan berlangsung selama beberapa bulan. Selama periode itu, para pekerja sakit dan meninggal, perbekalan langka, dan hubungan dengan suku asli harus dijaga dengan hati-hati. Yu Yonghe mengelola operasi penambangan sambil terus mencatat apa yang ia lihat dan dengar.
+Penambangan belerang berlanjut selama beberapa bulan. Selama periode ini, pekerja mengalami penyakit dan kematian, perlengkapan langka, hubungan dengan masyarakat adat perlu dipelihara dengan hati-hati. Yu Yung-ho mengelola operasi penambangan sambil terus mencatat apa yang dia lihat dan dengar.
 
-Setelah menyelesaikan proses peleburan belerang pada tahun 1697 (tahun ke-36 Kangxi), Yu Yonghe meninggalkan Taiwan pada bulan November tahun yang sama. Dalam perjalanan pulang, ia mengalami badai tropis; menurut ceritanya, ia selamat berkat berkah Dewa Suci Water Immortal dan tiba di Penghu, sehingga ia secara khusus mengunjungi Kuil Water Immortal di Penghu untuk berdoa dan mengucapkan terima kasih.
+Setelah pekerjaan peleburan belerang selesai tahun 1697 (tahun ketiga puluh enam era Kangxi), Yu Yung-ho meninggalkan Taiwan pada November tahun itu. Dalam perjalanan kembali, dia mengalami badai, menurut pengakuannya sendiri dia selamat sampai Penghu dengan bantuan Wujin Zunwang, jadi dia dengan sengaja pergi ke Penghu Wujin Temple untuk berterima kasih.
 
-## "Juga Manusia"
+## "Mereka Juga Manusia"
 
-Di dekat Niumi (sekarang Qingshui), Yu Yonghe terjebak oleh hujan lebat selama beberapa hari. Di dalam rumah, ia melihat suku asli yang menarik gerobaknya menginap di lumpur dan kehujanan. Yu Yonghe merasa kasihan, dan memberi tahu penerjemah bahwa mereka boleh berlindung di bawah atap rumah. Penerjemah menjawab: "Itu kebiasaan orang asing."
+Di dekat masyarakat Niuma (Qingshui hari ini), Yu Yung-ho terjebak oleh hujan terus-menerus selama berhari-hari. Dia di dalam rumah, melihat masyarakat adat yang menarik mobilnya dan membawa barangnya tidur di lumpur sambil kehujanan. Yu Yung-ho merasa iba, berbicara dengan penerjemah bahwa mereka bisa berlindung di bawah tepi atap. Penerjemah menjawab: "Kebiasaan masyarakat adat seperti itu."
 
-Yu Yonghe menghela napas dalam-dalam dalam _Jinyi Jiyu_, dan menulis dua kata: "Yiren ye."
+Yu Yung-ho di _Pici Jiyou_ menyayangkan dengan napas panjang, menulis dua kata: "亦人也" (mereka juga manusia).
 
-Orang asing juga manusia.
+Orang-orang primitif juga manusia.
 
-Tiga kata ini adalah refleksi tertua yang dapat ditemukan dari seorang Han terhadap kondisi suku asli. Pada tahun 1697, di era ketika kekaisaran Qing memandang suku asli sebagai "orang luar", seorang sarjana dari Hangzhou menulis kalimat ini.
+Ketiga karakter ini adalah refleksi paling awal yang dapat ditemukan dari seorang Han terhadap situasi masyarakat adat. Pada tahun 1697, di era Kekaisaran Qing besar menganggap masyarakat adat sebagai "rakyat tanpa transformasi", seorang pelajar Hangzhou menulis kalimat ini.
 
-## Misteri Danau Taipei Kangxi
+## Misteri Danau Taipei Era Kangxi
 
-Ketika cuaca cerah, Yu Yonghe kadang-kadang mendaki ke tempat tinggi untuk melihat pemandangan. Ia melihat lautan luas di bawah gunung. Seorang kepala suku asli memberitahunya bahwa tempat itu dulunya adalah permukiman suku, tetapi karena gempa bumi besar, tanahnya amblas dan tergenang air menjadi sebuah danau besar.
+Saat cuaca cerah, Yu Yung-ho kadang-kadang akan memanjat tempat tinggi untuk mengamati. Dia melihat danau besar yang luas di bawah gunung. Ketua adat setempat mengatakan kepadanya bahwa itu dulunya tempat di mana orang tinggal, karena gempa bumi besar, tanah turun, tenggelam air menjadi danau besar.
 
-Para peneliti kemudian menyimpulkan bahwa mungkin terjadi gempa bumi besar pada tahun 1694 (tiga tahun sebelum Yu Yonghe datang ke Taiwan), menyebabkan penurunan lapisan di Cekungan Taipei, membentuk apa yang disebut "Danau Taipei Kangxi". Saat itu, Yu Yonghe menuliskan perasaan "laut berubah menjadi daratan" (_canghai sangtian_).
+Generasi kemudian berspekulasi bahwa mungkin ada gempa bumi besar pada tahun 1694 (tiga tahun sebelum Yu Yung-ho tiba di Taiwan), yang menyebabkan penurunan cekungan Taipei, membentuk apa yang disebut "Danau Taipei Era Kangxi". Yu Yung-ho pada saat itu menulis perasaan "lautan berubah menjadi ladang".
 
-Pandangan ini masih diperdebatkan. Pendukung mengutip deskripsi dan bukti geologis dari Yu Yonghe, sementara penentangnya berpendapat bahwa hal itu mungkin merupakan kesalahpahaman terhadap daerah banjir Sungai Danshui. Tiga ratus tahun kemudian, danau besar itu mengering, menjadi Kota Taipei kita hari ini.
+Penjelasan ini masih kontroversial hingga hari ini. Para pendukung mengutip deskripsi Yu Yung-ho dan bukti geologi, sementara lawan percaya mungkin kesalahpahaman tentang wilayah banjir Sungai Tamsui. Tiga ratus tahun kemudian, danau besar itu kering, menjadi kota Taipei hari ini.
 
 ## Lebih dari Sekadar Catatan Perjalanan
 
-Pada tahun 1698, Yu Yonghe menulis pengalaman sembilan bulan di Taiwan ke dalam _Jinyi Jiyu_ (juga dikenal sebagai _Catatan Penambangan Belerang_), yang dibagi menjadi tiga jilid: atas, tengah, dan bawah. Jilid atas mencatat perjalanan laut dari Fuzhou ke Tainan, ditutup dengan dua belas puisi 〈Syair Bambu Taiwan〉. Jilid tengah terbagi menjadi persiapan perbekalan penambangan, Ekspedisi Besar Barat, dan penambangan di Beitou. Jilid bawah membahas kondisi geografis dan budaya Taiwan, ditutup dengan dua puluh empat puisi 〈Syair Bambu Tanah Asli>.
+Pada tahun 1698, Yu Yung-ho menulis sembilan bulan pengalaman Taiwan-nya menjadi _Pici Jiyou_ (juga disebut _Catatan Harian Penambangan Belerang_), dibagi menjadi tiga bagian atas, tengah, dan bawah. Bagian atas mencatat perjalanan laut dari Fuzhou ke Tainan, diakhiri dengan dua belas ode bamboo Taiwan. Bagian tengah dibagi menjadi tiga bagian: persiapan materi untuk penambangan belerang, perjalanan besar barat, dan penambangan belerang Beitou. Bagian bawah membahas secara luas bentuk dan kebiasaan pegunungan dan sungai Taiwan, diakhiri dengan dua puluh empat ode bamboo penduduk adat.
 
-Nilai buku ini jauh melampaui catatan perjalanan biasa.
+Nilai buku ini jauh melampaui perjalanan biasa.
 
-Sarjana Huang Wende mencatat bahwa Yu Yonghe "tidak seperti cendekiawan Tiongkok tradisional yang membenci suku asli secara buta, atau yang menggunakan keanehan budaya suku sebagai objek eksploitasi dalam diskursus mereka, tetapi dengan tulus mengungkapkan pengakuan atas kesalahpahaman etnis Han terhadap suku asli." Sikap ini sangat jarang di kalangan intelektual Dinasti Qing tiga ratus tahun lalu.
+Sarjana Huang Wenxing menunjukkan bahwa Yu Yung-ho "berbeda dari orang-orang Han tradisional yang membenci masyarakat adat secara buta atau menempatkan perbedaan di luar budaya Han sebagai aturan kebiasaan aneh dalam wacana, tetapi mengungkapkan secara jujur pengakuan kesalahpahaman Han terhadap masyarakat adat." Ini adalah sikap yang sangat jarang di kalangan intelektual Qing tiga ratus tahun lalu.
 
-Ia menggambarkan kehidupan suku asli melalui dua puluh empat puisi 〈Syair Bambu Tanah Asli>, bukan sebagai catatan dari posisi yang lebih tinggi, melainkan dengan observasi yang penuh rasa ingin tahu dan hormat.
+Dia menulis dua puluh empat ode bamboo penduduk adat mendeskripsikan kehidupan masyarakat adat, bukan catatan condescending, tetapi pengamatan dengan rasa ingin tahu dan rasa hormat.
 
-Selain _Jinyi Jiyu_, Yu Yonghe juga meninggalkan karya-karya seperti _Tambing Boyi_, _Haishang Jilie_, _Weizheng Yi Shi_, dan _Yunai Xingshi_, tetapi _Jinyi Jiyu_ memiliki pengaruh yang paling mendalam.
+Selain _Pici Jiyou_, Yu Yung-ho juga meninggalkan karya seperti _Fanjiang Buyi_, _Haishang Jilue_, _Weizhen Yishi_, dan _Yuneifengshi_, tetapi _Pici Jiyou_ memiliki pengaruh paling mendalam.
 
 ## Gema Tiga Ratus Tahun Kemudian
 
-Hari ini, Anda dapat menemukan prasasti _Jinyi Jiyu_ di Longfenggu, Beitou. Sepuluh menit berjalan dari tempat Yu Yonghe menambang belerang adalah area pemandian air panas Beitou. Uap belerang yang menyiksanya tiga ratus tahun lalu telah berubah menjadi kenikmatan berendam bagi penduduk Taipei di akhir pekan.
+Hari ini, Anda dapat menemukan prasasti _Pici Jiyou_ di Longfeng Valley Beitou. Berjalan sepuluh menit dari tempat Yu Yung-ho dulu menambang belerang adalah kawasan mata air panas Beitou. Uap belerang yang memberikan kesulitan kepadanya tiga ratus tahun yang lalu, berubah menjadi kesenangan berendam air panas bagi warga Taipei di akhir pekan.
 
-Rute Ekspedisi Besar Barat yang ia lalui kira-kira mengikuti Jalur 1 Taiwan saat ini. Area Zhuxuan hingga Nankan, yang dulunya "tidak terlihat satu pun orang atau rumah", kini adalah Taman Sains Hsinchu dan Bandara Internasional Taoyuan. Di dataran tempat rumput lebih tinggi dari manusia, dibangun pabrik wafer TSMC.
+Rute perjalanan besar barat yang dia lewati, secara kasar mengikuti Taiwan Route 1 hari ini. Area dari Zhuqian ke Nankan di mana "tidak ada satu orang atau satu rumah pun terlihat" dulunya, sekarang merupakan Taman Sains Hsinchu dan Bandara Internasional Taoyuan. Di atas dataran rumput mana pun, pabrik wafer TSMC didirikan.
 
-Pada tahun 1979, penulis Jiang Xun dan editor majalah _Han Sheng_, Yao Mengjia, menelusuri seluruh rute Yu Yonghe berdasarkan _Jinyi Jiyu_ sebagai bagian dari album "Wisata Nasional". Mereka mengikuti rute dalam buku itu, mengunjungi setiap stasiun dengan bus. Pada tahun 2026, empat puluh delapan tahun setelah kematian Yao Mengjia, Jiang Xun menerbitkan kembali catatan ini untuk memperingati tiga puluh tahun wafatnya Yao Mengjia. Jiang Xun menulis: "Pemandangan spektakuler yang meletus dari lembah belerang masih sangat mirip dengan apa yang dilihat Yu Yonghe tiga ratus tahun lalu."
+Pada tahun 1979, penulis Jiang Xun dan penggagas majalah _Hansheng_ Yao Meng-jia membawa _Pici Jiyou_ untuk benar-benar mengulangi seluruh rute Yu Yung-ho, sebagai konten edisi "perjalanan nasional" khusus. Mereka mengikuti rute di buku, satu stasiun demi satu, naik bus putaran-putaran. Empat puluh delapan tahun kemudian pada tahun 2026, Jiang Xun menerbitkan ulang catatan ini ketika merayakan tiga puluh tahun kematian Yao Meng-jia. Jiang Xun menulis: "Beberapa pemandangan spektakuler dari lembah belerang yang meletus masih sangat mirip dengan apa yang dilihat Yu Yung-ho tiga ratus tahun lalu."
 
-Pada tahun 2001, Lu Chuanjie menerbitkan _Catatan Baru Jinyi Jiyu_ secara akademis. Pada tahun 2004, Yang Zizhi menginterpretasikan ulang naskah asli sebagai _Bertemu Taiwan Tiga Ratus Tahun Lalu_ (Eons Publishing). Pada tahun 2019, Xu Yizhen menulis novel _Danau Taipei Kangxi_ berdasarkan kisah Yu Yonghe.
+Pada tahun 2001, Lu Chuan-jie menerbitkan edisi terbaru akademis _Pici Jiyou_. Pada tahun 2004, Yang He-zhi mereinterpretasi karya asli menjadi _Bertemu Taiwan Tiga Ratus Tahun yang Lalu_ (Penerbit Youhuang). Pada tahun 2019, Xu Yi-zhen menulis novel _Danau Taipei Era Kangxi_ berdasarkan kisah Yu Yung-ho.
 
-Buku harian sembilan bulan seorang sarjana dari Hangzhou di Taiwan telah menjadi jendela terpenting bagi kita untuk memahami pulau ini tiga ratus tahun yang lalu.
+Catatan harian Taiwan sembilan bulan seorang pelajar Hangzhou telah menjadi jendela paling penting untuk memahami pulau ini tiga ratus tahun lalu.
 
-> ✦ "Dari Zhuxuan hingga Nankan, tidak terlihat satu pun orang atau rumah."
+> ✦ "Dari Zhuqian hingga Nankan delapan hingga sembilan puluh li, tidak ada satu orang atau satu rumah pun terlihat."
 
 ## Referensi
 
-- [Yu Yonghe - Wikipedia](https://zh.wikipedia.org/wiki/%E9%83%81%E6%B0%B8%E6%B2%B3)
-- [Jinyi Jiyu - Wikipedia](https://zh.wikipedia.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)
-- Song Zelei, "Membahas _Jinyi Jiyu_ oleh Yu Yonghe dan Mitos dalam Sejarah Sastra Taiwan," _Taiwan Studies Communication_, No. 1, Oktober 2006
-- Yang Zizhi, _Bertemu Taiwan Tiga Ratus Tahun Lalu: Jinyi Jiyu_, Eons Publishing, 2004
-- Lu Chuanjie, _Catatan Baru Jinyi Jiyu_, Earth Geography Publishing, 2001
-- Huang Wende, "Jinyi Jiyu oleh Yu Yonghe: Dari Eksplorasi Alam dan Manusia Taiwan hingga Adaptasi Pengakuan," Perpustakaan Nasional
-- Yang Yunping, _Tokoh dalam Sejarah Taiwan_, Chengshu Publishing House, 1981
-- Jiang Xun, "Menelusuri Kembali: Ekspedisi Besar Barat Yu Yonghe Tiga Ratus Tahun Lalu," _Joushan Daily_ Supplement, [30 Januari 2026](https://paper.udn.com/udnpaper/PIC0004/2001356/web/)
-- [Teks Lengkap Jinyi Jiyu - Taiwan Literature Collection No. 044](https://zh.wikisource.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)
+- [Yu Yung-ho - Wikipedia](https://zh.wikipedia.org/wiki/%E9%83%81%E6%B0%B8%E6%B2%B3)
+- [Pici Jiyou - Wikipedia](https://zh.wikipedia.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)
+- Song Ze-lai, "Evaluasi Pici Jiyou Yu Yung-ho dan Era Legendaris dalam Sejarah Sastra Taiwan", _Buletin Studi Taiwan_ No. 1, Oktober 2006
+- Yang He-zhi, _Bertemu Taiwan Tiga Ratus Tahun yang Lalu: Pici Jiyou_, Penerbit Youhuang, 2004
+- Lu Chuan-jie, _Edisi Beranotasi Pici Jiyou Baru_, Penerbit Geografi Besar, 2001
+- Huang Wenxing, "Pici Jiyou Yu Yung-ho: Dari Eksplorasi Alam dan Kemanusiaan Taiwan ke Penyesuaian Identitas", Perpustakaan Nasional
+- Yang Yun-ping, _Tokoh-tokoh dalam Sejarah Taiwan_, Penerbit Chengwen, 1981
+- Jiang Xun, "Mengulang: Perjalanan Besar Barat Taiwan Yu Yung-ho Tiga Ratus Tahun yang Lalu", Kolom Samping _United Daily News_, [30 Januari 2026](https://paper.udn.com/udnpaper/PIC0004/2001356/web/)
+- [Teks Lengkap _Pici Jiyou_ - Koleksi Dokumentasi Taiwan Edisi 044](https://zh.wikisource.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)

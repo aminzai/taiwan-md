@@ -1,143 +1,143 @@
 ---
-title: 'Paguyuan Creek Commune: Taiwan Hokkien, Punk, Aktivis Petani, dan Penghargaan yang Tertunda Tiga Puluh Tahun'
-description: 'Pada tahun 1989, sekelompok mahasiswa dari Sekolah Menengah Terkait Universitas National Taiwan membuat band untuk pertunjukan kelulusan. Setelah bergabungnya Ko Ren-chien (Xiao Ke) dari Fakultas Hukum Universitas National Taiwan, nama mereka diubah menjadi Paguyuan Creek Commune. Selama tiga puluh tahun berikutnya, mereka menyanyikan politisi, petani, hasrat, dan gerakan sosial dalam bahasa Taiwan Hokkien, tampil di tempat bawah tanah setelah dikeluarkan dari Universitas National Taiwan, dan tidak pernah memasuki arus utama. Pada tahun 2020, saat bubar, album mereka yang berjudul 《裝潢》 memenangkan Album Terbaik Bahasa Taiwan Hokkien pada Penghargaan Golden Melody ke-31, meraih penghargaan pada debut pertama mereka. Dalam upacara penghargaan, vokalis utama tidak hadir—ia kini adalah pegawai pajak negara.'
+title: 'Loh Tsui Kang Commune: Taiwan Hoklo, Punk, Petani, dan Piala yang Datang Tiga Puluh Tahun Terlambat'
+description: 'Band punk Taiwan pertama yang tampil tiga puluh tahun di lokasi bawah tanah. Didirikan 1989, diusir dari NTU 1992 karena terlibat insiden kampus. Vokalis Ko Jen-chien menyanyikan tentang politisi dan petani tanpa kompromi. Membubarkan diri 2020; kemenangan pertama di Golden Melody Awards datang setelah bubar. Vokalis utama tidak hadir—dia sekarang adalah petugas pajak nasional.'
 date: 2026-04-27
 category: 'Music'
 tags:
   [
-    'Punk',
-    'Rock',
-    'Musik Bahasa Taiwan Hokkien',
-    'Musik Bawah Tanah',
-    'Penghargaan Golden Melody',
-    'Catatan Petani Desa',
-    'Ko Ren-chien',
-    'Balas Dendam Orang Taiwan',
-    'Anjing yang Ramah',
-    'Masyarakat Bawah Tanah',
+    punk,
+    rock,
+    Taiwan Hoklo Music,
+    Underground Music,
+    Golden Melody Awards,
+    Masalah Pedesaan,
+    Ko Jen-chien,
+    Revenge of Taiwanese Hoklo,
+    Friendly Dog Records,
+    Underground Society,
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-readingTime: '10min'
-translatedFrom: 'Music/濁水溪公社.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:469167869b1ed9c7'
-sourceBodyHash: 'sha256:ba486d59e98b80d0'
-translatedAt: '2026-09-17T06:43:41+08:00'
+readingTime: 10min
+translatedFrom: Music/濁水溪公社.md
+sourceCommitSha: ac1d187af
+sourceContentHash: sha256:469167869b1ed9c7
+sourceBodyHash: sha256:ba486d59e98b80d0
+translatedAt: 2026-09-09T15:32:33+08:00
 ---
 
-> **Ringkasan 30 Detik:** Paguyuan Creek Commune didirikan pada tahun 1989 dan merupakan band pertama di Taiwan yang membawa punk ke musik lokal. Vokalis utama Ko Ren-chien (Xiao Ke) dikeluarkan dari Universitas National Taiwan pada tahun 1992 karena terlibat dalam insiden kampus, dan selama tiga puluh tahun berikutnya, band tersebut tampil di tempat bawah tanah dengan lirik tentang politisi, petani, dan hasrat, tanpa pernah berkompromi dengan logika komersial. Pada tahun 2020, saat bubar, album mereka yang berjudul 《裝潢》 memenangkan Album Terbaik Bahasa Taiwan Hokkien pada Penghargaan Golden Melody ke-31, meraih penghargaan pada debut pertama mereka. Dalam upacara penghargaan, Ko Ren-chien tidak hadir—ia kini adalah pegawai pajak negara.
+> **Ringkasan 30 Detik:** Loh Tsui Kang Commune didirikan pada 1989, menjadi band pertama Taiwan yang membawa elemen punk ke dalam musik lokal. Vokalis utama Ko Jen-chien (Hsiao Ko) diusir dari NTU pada 1992 karena keterlibatan dalam insiden kampus. Selama tiga puluh tahun berikutnya, band ini tampil di lokasi bawah tanah, dengan lirik menyanyikan tentang politisi, petani, dan hasrat, tanpa pernah berkompromi dengan logika komersial. Mereka membubarkan diri pada 2020 dan memenangkan Golden Melody Award untuk Album Taiwan Hoklo Terbaik pada nominasi pertama yang sama tahun itu. Pada hari pemberian penghargaan, Ko Jen-chien tidak hadir—dia sekarang adalah petugas pajak di Direktorat Pajak Nasional.
 
-## Sebuah Penghargaan yang Tidak Diambil Siapa Pun
+## Sebuah Penghargaan Tanpa yang Mengambilnya
 
-Pada tahun 2020, diadakan Upacara Penghargaan Golden Melody ke-31. Pembawa acara menyebutkan nama pemenang Album Terbaik Bahasa Taiwan Hokkien: Paguyuan Creek Commune.
+Pada tahun 2020, upacara Golden Melody Award ke-31. Pembawa acara mengumumkan nama penerima Album Taiwan Hoklo Terbaik: Loh Tsui Kang Commune.
 
-Tidak ada seorang pun yang naik ke panggung. Band tersebut telah mengumumkan pembubaran beberapa bulan sebelumnya. Perwakilan penerima mengatakan, "Ini adalah karya terakhir dari Paguyuan Creek Commune, dan kami tidak pernah bisa membayangkan untuk terkait dengan Golden Melody 30 tahun lalu."[^7] Setelah berbicara, ia turun dari panggung.
+Tidak ada yang naik ke panggung. Band ini telah membubarkan diri beberapa bulan sebelumnya. Meng Ching-erh yang mewakili mengatakan: "Ini adalah karya terakhir yang dilakukan Loh Tsui Kang Commune. Bisa terkait dengan Golden Melody Award, tiga puluh tahun lalu tidak pernah terbayangkan sepenuhnya."[^7] Setelah berbicara, dia turun dari panggung.
 
-Kabar kemenangan menyebar di internet Taiwan. Banyak orang mencari "Siapa Paguyuan Creek Commune?"—dan justru pertanyaan inilah yang membawa mereka kepada pendengar generasi berikutnya.
+Berita tentang penghargaan ini meledak di internet Taiwan. Banyak orang mencari "Siapa Loh Tsui Kang Commune?"—justru pertanyaan inilah yang membawa mereka ke generasi pendengar berikutnya.
 
-Vokalis utama Ko Ren-chien tidak datang pada hari itu. Karena ia sedang bekerja—ia adalah pegawai pajak negara.[^1]
+Vokalis utama Ko Jen-chien tidak hadir hari itu. Karena dia sedang bekerja—dia adalah petugas pajak di Direktorat Pajak Nasional.[^1]
 
-Kisah ini harus dimulai dari tiga puluh satu tahun lalu.
+Cerita ini harus dimulai dari tiga puluh satu tahun sebelumnya.
 
-## Benih Pemberontak di Sekolah Menengah Terkait Universitas National Taiwan (1989)
+## Benih Pemberontak di SMA Guru Besar (1989)
 
-Pada tahun 1989, di Taipei. Sekelompok mahasiswa dari Sekolah Menengah Terkait Universitas National Taiwan membentuk band bernama "Pelekri Nuri Sihao" untuk acara malam rasa syukur kelulusan.[^1] Pada tahun itu, baru dua tahun setelah pencabutan pengekangan (demokratisasi) di Taiwan, demonstrasi di jalanan lebih banyak daripada sepuluh tahun sebelumnya.
+Pada tahun 1989, Taipei. Sekelompok siswa SMA Guru Besar membentuk band bernama "Pui Ling Niao Hao Si" untuk acara ucapan syukur kelulusan mereka[^1]. Tahun itu, Taiwan baru saja keluar dari hukum darurat kurang dari dua tahun, demonstrasi di jalan lebih banyak dari sepuluh tahun sebelumnya digabung.
 
-Setelah Ko Ren-chien dari Fakultas Hukum Universitas National Taiwan bergabung (dengan nama panggung Xiao Ke), band tersebut secara resmi menamai diri Paguyuan Creek Commune. "Paguyuan" adalah sungai di bagian tengah Taiwan, dan juga garis pemisah budaya utara dan selatan; "Commune" membawa citra kiri. Nama ini sudah menjelaskan posisi mereka sejak awal.
+Mahasiswa Fakultas Hukum NTU Ko Jen-chien (nama panggung Hsiao Ko) bergabung, band ini resmi diberi nama Loh Tsui Kang Commune. "Loh Tsui Kang" adalah sungai di bagian tengah Taiwan, juga merupakan garis pembagi budaya antara utara dan selatan; "Commune" membawa citra sayap kiri. Nama ini sejak awal sudah menunjukkan sikap mereka.
 
-Musik mereka tidak pernah dimaksudkan untuk membuat orang nyaman sejak hari pertama.
+Musik mereka sejak hari pertama tidak berniat membuat orang merasa nyaman.
 
-## Universitas National Taiwan, Kebakaran, Pemecatan (1992)
+## NTU, Kebakaran, Pengusiran (1992)
 
-Pada dini hari tanggal 26 Februari 1992, terjadi kebakaran di lantai satu Pusat Kegiatan Mahasiswa Universitas National Taiwan. Kaum kiri (Tsai Hai-en) dan Xiao Ke terlibat di dalamnya, dan kemudian dikeluarkan dari Universitas National Taiwan.[^1]
+Pada tanggal 26 Februari 1992, dini hari, kebakaran terjadi di lantai satu Pusat Kegiatan Mahasiswa Pertama NTU. Tsai Hai-en (sayap kiri) dan Hsiao Ko terlibat, kemudian diusir dari NTU[^1].
 
-Setelah dikeluarkan, Paguyuan Creek Commune tidak berhenti.
+Setelah diusir, Loh Tsui Kang Commune tidak berhenti.
 
-Kehilangan status mahasiswa justru menjadi bagian dari legenda mereka. Seorang vokalis band punk dikeluarkan oleh universitas—fakta ini sendiri sudah berbicara: sejak awal, mereka tidak berada dalam sistem.
+Kehilangan status mahasiswa justru menjadi bagian dari legenda mereka. Seorang vokalis band punk diusir dari universitas—fakta ini sendiri sudah sedang berbicara: sejak awal, mereka tidak berada di dalam sistem.
 
-📝 **Catatan Kurator:** Legitimasi punk terkadang tidak berasal dari musik, tetapi dari catatan kehidupan. Bagi Paguyuan Creek Commune, pemecatan oleh Universitas National Taiwan adalah bukti nyata yang paling meyakinkan untuk lirik mereka.
+📝 **Catatan Kurator:** Legitimasi punk kadang bukan dari musik, tetapi dari catatan hidup. Bagi Loh Tsui Kang Commune, pengusiran dari NTU adalah bukti realitas paling persuasif dari lirik mereka.
 
-## 《Koleksi Karya Fase Hasrat Anus》 (1995): Sikap Mendahului Musik
+## "Anus Pleasure Period Anthology" (1995): Sikap Lebih Penting dari Musik
 
-Pada tahun 1995, album resmi pertama berjudul _《肛門樂慾期作品輯》_ (Koleksi Karya Fase Hasrat Anus) dirilis oleh label independen "Anjing yang Ramah" [^2].
+Pada tahun 1995, album pertama resmi "Anus Pleasure Period Anthology", dirilis oleh label independen "Friendly Dog"[^2].
 
-Judul itu sendiri provokatif. Liriknya membahas politisi, petani, dan hasrat seksual—tema-tema yang tidak mau disentuh oleh media arus utama Taiwan. Teknik musiknya kasar, tetapi sikapnya tegas. Inilah tata bahasa inti punk: Anda tidak perlu pandai bermain; Anda harus punya sesuatu untuk dikatakan.
+Judulnya sendiri adalah provokatif. Liriknya menyanyikan tentang politisi, petani, hasrat seksual—semua tema yang tidak ingin disentuh oleh media arus utama Taiwan. Teknik bermain musik kasar, sikap jelas. Ini adalah inti tata bahasa punk: kamu tidak perlu bisa bermain, kamu perlu punya hal yang bisa dikatakan.
 
-"Misi kami adalah agar pendengar dapat mencapai pembebasan fisik dan spiritual." — Ko Ren-chien (dari wawancara di situs ulasan penting)[^5]
+"Tujuan kami adalah berharap bahwa pendengar kami mencapai pembebasan spiritual dan fisik."—Ko Jen-chien (dari wawancara Kritis Lensa Baru)[^5]
 
-Pada tahun itu, Taiwan sedang bersiap untuk pemilihan presiden langsung pertama, dengan suhu politik yang membara di jalanan. Musik Paguyuan Creek Commune adalah jenis suhu lain dari era yang sama.
+Tahun itu, Taiwan sedang mempersiapkan pemilihan presiden langsung pertama, suhu politik di jalan sangat panas. Musik Loh Tsui Kang Commune adalah suhu tubuh yang berbeda dari era yang sama.
 
-## 《Balas Dendam Orang Taiwan》 (1999): Puncak Punk Lokal
+## "Revenge of Taiwanese Hoklo" (1999): Puncak Punk Lokal
 
-Pada tahun 1999, _《台客的復仇》_ (Balas Dendam Orang Taiwan) dirilis. Ini adalah karya paling utuh secara artistik dari Paguyuan Creek Commune.[^3]
+Pada tahun 1999, "Revenge of Taiwanese Hoklo" dirilis. Ini adalah karya paling lengkap secara artistik dari Loh Tsui Kang Commune[^3].
 
-Mereka memasukkan kerangka punk Barat ke dalam sulih suara opera boneka, gaya nyanyian opera goza, intonasi acara penjualan obat di radio AM, dan bunyi gong di barisan pemakaman.[^3] Hasilnya adalah hibrida baru—"Orang Taiwan," yang awalnya adalah istilah yang meremehkan budaya lokal oleh masyarakat arus utama, tetapi mereka membalikkannya menjadi sebuah deklarasi diri.
+Mereka mengambil kerangka punk Barat dan memasukkan di dalamnya nada suara puppet show Taiwan, melodi opera Taiwan, nada program penjualan obat radio AM, suara gong dan gendang dari parade pemakaman[^3]. Hasilnya adalah jenis perpaduan baru—"Taiwanese Hoklo", kata yang awalnya digunakan oleh masyarakat arus utama untuk merendahkan selera budaya lokal, mereka membaliknya, menjadikannya deklarasi diri.
 
-Taipei Times kemudian menyebut Paguyuan Creek Commune (nama Inggris LTK Commune) sebagai "band pertama di Taiwan yang membawa elemen punk ke musik."[^4] Edisi bahasa Inggris Taiwan Panorama menggambarkan _《台客的復仇》_ sebagai "salah satu album terpenting dalam sejarah band Taiwan."[^3]
+Taipei Times kemudian menyebut Loh Tsui Kang Commune (nama Inggris LTK Commune) sebagai "band Taiwan pertama yang membawa elemen punk ke dalam musik"[^4]. Taiwan Panorama edisi Inggris menggambarkan "Revenge of Taiwanese Hoklo" sebagai "salah satu album paling penting dalam sejarah band Taiwan"[^3].
 
-Ulasan-ulasan ini baru muncul bertahun-tahun kemudian. Pada tahun 1999, mereka hanya terus tampil di bawah tanah.
+Pujian-pujian ini semua muncul bertahun-tahun kemudian. Pada tahun 1999, mereka hanya terus tampil di lokasi bawah tanah.
 
-## Petani, Masyarakat Bawah Tanah, dan Nasib Sebuah Lagu
+## Petani, Masyarakat Bawah, dan Nasib Sebuah Lagu
 
-_《農村出代誌》_ (Apa yang Terjadi di Desa) adalah lagu Paguyuan Creek Commune yang paling dikenal. Judulnya dalam bahasa Taiwan Hokkien berarti "apa yang terjadi di desa"—kebijakan menyebabkan hilangnya lahan pertanian, petani kehilangan mata pencaharian. Lagu ini dinyanyikan di acara gerakan sosial Taiwan selama beberapa dekade dan masih menjadi melodi umum dalam protes hingga hari ini.[^1]
+"Masalah Pedesaan" adalah lagu paling terkenal dari Loh Tsui Kang Commune. Judul dalam bahasa Hoklo Taiwan berarti "apa yang terjadi di pedesaan"—kebijakan membuat tanah pertanian menghilang, petani kehilangan mata pencaharian. Lagu ini telah dinyanyikan di acara-acara gerakan sosial Taiwan selama beberapa dekade, sampai sekarang masih merupakan melodi umum di rapat-rapat protes[^1].
 
-Pada tahun 2016, penyanyi rap Yan Guan-xi JY mengambil sampel lagu ini untuk menciptakan _《農村無代誌》_ (Tidak Ada Apa yang Terjadi di Desa)—"tidak ada apa-apa di desa, karena desanya telah hilang."[^1]. Kehidupan sebuah lagu meluas ke bahasa generasi baru.
+Pada tahun 2016, rapper Yan Guan-hsi JY mencuplik lagu ini, menciptakan "Pedesaan Tanpa Masalah"—"Tidak ada masalah di pedesaan lagi, karena pedesaan sudah hilang"[^1]. Kehidupan sebuah lagu memanjang ke dalam bahasa generasi baru.
 
-Pada tahun 2001, film dokumenter _《爛頭殼》_ selesai, merekam tahun paling bergejolak dari Paguyuan Creek Commune.[^8] Film itu kemudian menjadi salah satu dokumen penting dalam sejarah musik bawah tanah Taiwan.
+Pada tahun 2001, dokumenter "Rotten Head" selesai, merekam tahun yang paling bergejolak dari Loh Tsui Kang Commune[^8]. Film itu kemudian menjadi salah satu dokumen penting dari sejarah musik bawah tanah Taiwan.
 
-Sepanjang tahun 2000-an hingga 2010-an, Paguyuan Creek Commune adalah anggota tetap di tempat bawah tanah Taipei. Masyarakat bawah tanah adalah titik inti dari kancah [Musik Indie Taiwan](/id/music/indie-music-scene/) selama tiga puluh tahun; ketika menghadapi penutupan pada tahun 2013, musisi independen seperti [Fire Ex](/id/music/fire-ex/), Mayday, dan 1976 memberikan dukungan—penutupan itu menyadarkan seluruh generasi musisi akan kerapuhan ruang pertunjukan bawah tanah.
+Sepanjang tahun 2000-an hingga 2010-an, Loh Tsui Kang Commune adalah anggota tetap dari tempat pertunjukan bawah tanah Taipei. Underground Society adalah simpul inti dari pemandangan Taiwan Independent Music (台灣獨立音樂) selama tiga puluh tahun, ketika menghadapi penutupan pada 2013, Fire EX. (滅火器樂團), May Day, 1976 dan musisi musik independen lainnya memberikan dukungan—penutupan ini membuat seluruh generasi musisi menyadari rapuhnya ruang pertunjukan bawah tanah.
 
-📝 **Catatan Kurator:** Bagaimana sebuah band yang tidak pernah terekspos di media arus utama selama tiga puluh tahun bisa menyebar? Melalui sekelompok orang yang membawa musik ke setiap protes, setiap penampilan bawah tanah, dan setiap berbagi pribadi. Penyebaran semacam ini tidak memiliki algoritma; itu hanya manusia.
+📝 **Catatan Kurator:** Bagaimana sebuah band yang tidak pernah terekspos di media arus utama selama tiga puluh tahun menyebar? Melalui sejumlah orang yang membawa musik ke setiap protes, setiap pertunjukan bawah tanah, setiap pembagian pribadi. Penyebaran jenis ini tidak memiliki algoritme, hanya orang-orang.
 
 ## Pertanyaan Terakhir (2019)
 
-Pada tahun 2019, Paguyuan Creek Commune merilis album terakhir mereka, _《裝潢》_, untuk perayaan tiga puluh tahun pembentukan.[^1]
+Pada tahun 2019, Loh Tsui Kang Commune merilis album terakhir "Renovation", menandai tiga puluh tahun sejak dibentuk[^1].
 
-Xiao Ke meninggalkan pertanyaan terakhirnya dalam sebuah wawancara:[^6]
+Hsiao Ko meninggalkan pertanyaan terakhirnya dalam wawancara:[^6]
 
-> "Semua ide yang harus diungkapkan telah terungkap, semua tema yang mengejutkan juga telah habis digunakan. Petani semakin banyak, mengapa Taiwan masih belum merdeka?"
+> "Semua gagasan yang harus diungkapkan telah diungkapkan, berbagai tema yang menggetarkan sudah habis, petani semakin banyak berkumpul, mengapa Taiwan masih belum bisa merdeka?"
 
-Tidak ada jawaban, hanya pertanyaan ini. Pada tahun 2020, Paguyuan Creek Commune secara resmi bubar.
+Tidak ada jawaban, hanya pertanyaan ini. Pada tahun 2020, Loh Tsui Kang Commune secara resmi membubarkan diri.
 
-## Setelah Pembubaran, Penghargaan Masih Ada
+## Setelah Bubar, Piala Masih Ada
 
-Kemudian, pada tahun 2020, diadakan Penghargaan Golden Melody ke-31.
+Kemudian, 2020, Golden Melody Award ke-31.
 
-_《裝潢》_ adalah kali pertama dan terakhir Paguyuan Creek Commune masuk nominasi di Penghargaan Golden Melody. Mereka memenangkan Album Terbaik Bahasa Taiwan Hokkien saat debut mereka—tepat setelah pembubaran.
+"Renovation" adalah kali pertama Loh Tsui Kang Commune dinominasikan untuk Golden Melody Award, juga kali terakhir. Kemenangan pada nominasi pertama, waktu datang setelah bubar.
 
-Pemandangan ketika perwakilan menerima penghargaan menjadi titik akhir dari sejarah ini—atau lebih tepatnya, tanda tanya yang tertunda tiga puluh tahun: apa yang kurang dari budaya arus utama Taiwan bagi mereka?
+Gambaran Meng Ching-erh yang mewakili menjadi titik kalimat dari sejarah ini—atau bisa dibilang, tanda tanya yang datang tiga puluh tahun terlambat: budaya arus utama Taiwan, berapa banyak yang mereka hutang padanya?
 
 ---
 
-Ko Ren-chien kini adalah pegawai pajak negara.[^1] Orang yang mengatakan "Xiao Qingxin itu mengkhianati negara."[^5], orang yang dikeluarkan dari Universitas National Taiwan, orang yang menyanyikan tentang petani dan politisi selama tiga puluh tahun—setiap hari membantu warga negara dalam urusan perpajakan.
+Ko Jen-chien sekarang adalah petugas pajak di Direktorat Pajak Nasional[^1]. Orang yang berkata "minimalis adalah kesalahan nasional"[^5], orang yang diusir dari NTU, orang yang menyanyikan tentang petani dan politisi selama tiga puluh tahun—setiap hari membantu warga dengan pajak mereka.
 
-Anda bisa menyebutnya tragedi. Anda juga bisa menyebutnya akhir paling punk: seluruh sistem pernah menolaknya, tetapi pada akhirnya ia masuk dan menetap di dalamnya. Sebaliknya, musik yang tersisa masih berkeliaran di setiap protes, setiap penampilan bawah tanah, dan setiap album lama yang dibagikan.
+Kamu bisa menyebutnya tragedi. Kamu juga bisa menyebutnya akhir yang paling punk: sistem sekali menolak dia, akhirnya dia masuk ke dalam, duduk dengan kokoh. Justru musik yang ditinggalkan, masih berkeliaran di setiap protes, di setiap pertunjukan bawah tanah, di setiap album lama yang dibagikan.
 
 ## Bacaan Lanjutan
 
-- [Musik Indie Taiwan](/id/music/indie-music-scene) — Tiga puluh tahun konteks kancah musik indie Taiwan, dari Crystal Records hingga masyarakat bawah tanah hingga era streaming
-- [Fire Ex](/id/music/fire-ex) — Dua puluh lima tahun merekam zaman dengan punk bahasa Taiwan Hokkien, dimulai dari Kaohsiung, Taiwan Selatan
-- [Sejarah Perkembangan Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream) — Konteks lengkap rock Taiwan dari bawah tanah ke permukaan
-- [Penghargaan Golden Melody](/music/金曲獎) — Empat puluh tahun Penghargaan Golden Melody, cermin industri musik Taiwan setiap tahun
+- [Taiwan Independent Music](/music/台灣獨立音樂) — Dari Shuijing Records ke Underground Society ke era streaming, konteks tiga puluh tahun pemandangan musik independen Taiwan
+- [Fire EX.](/music/滅火器樂團) — Juga menyanyikan punk Taiwan Hoklo untuk merekam masa, dua puluh lima tahun berasal dari Kaohsiung, Taiwan Selatan
+- [Sejarah Perkembangan Musik Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream) — Konteks sejarah lengkap dari perjalanan rock Taiwan dari bawah tanah ke atas tanah
+- [Golden Melody Awards](/music/金曲獎) — Empat puluh tahun Golden Melody Awards, cermin tahunan dari industri musik Taiwan
 
 ## Referensi
 
-[^1]: [Paguyuan Creek Commune - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA%E5%85%AC%E7%A4%BE) — Ringkasan sejarah band, anggota, dan peristiwa
+[^1]: [濁水溪公社 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA%E5%85%AC%E7%A4%BE) — Ringkasan sejarah band, anggota, dan peristiwa
 
-[^2]: [Koleksi Karya Fase Hasrat Anus - Discogs](https://www.discogs.com/%E6%BF%81%E6%B0%B4%E6%BA%AA%E5%85%AC%E7%A4%BE-%E8%82%9B%E9%96%80%E6%A8%82%E6%85%BE%E6%9C%9F%E4%BD%9C%E5%93%81%E9%9B%86/release/4813764) — Album pertama 1995, dirilis oleh Anjing yang Ramah
+[^2]: [肛門樂慾期作品輯 — Discogs](https://www.discogs.com/%E6%BF%81%E6%B0%B4%E6%BA%AA%E5%85%AC%E7%A4%BE-%E8%82%9B%E9%96%80%E6%A8%82%E6%85%BE%E6%9C%9F%E4%BD%9C%E5%93%81%E9%9B%86/release/4813764) — Album pertama 1995, dirilis oleh Friendly Dog Records
 
-[^3]: [Taiwan Panorama: The Original Taike Rockers](https://www.taiwan-panorama.com/en/Articles/Details?Guid=ef142621-a0ba-4393-a039-f555a91eec33) — Bahasa Inggris, posisi historis _《台客的復仇》_
+[^3]: [Taiwan Panorama: The Original Taike Rockers](https://www.taiwan-panorama.com/en/Articles/Details?Guid=ef142621-a0ba-4393-a039-f555a91eec33) — Bahasa Inggris, penempatan sejarah dari "Revenge of Taiwanese Hoklo"
 
 [^4]: [Taipei Times: A brief history of Taiwanese punk](https://www.taipeitimes.com/News/feat/archives/2016/01/29/2003638302) — Bahasa Inggris, analisis sejarah punk Taiwan
 
-[^5]: [Situs Ulasan Kunci: Xiao Qingxin Mengkhianati Negara](https://www.thenewslens.com/feature/soundsontheisland/23730) — Wawancara Ko Ren-chien, sumber kutipan langsung
+[^5]: [關鍵評論網：小清新是誤國啊](https://www.thenewslens.com/feature/soundsontheisland/23730) — Wawancara Ko Jen-chien, sumber kutipan langsung
 
-[^6]: [Situs Ulasan Kunci: Pembubaran di Perayaan 30 Tahun](https://www.thenewslens.com/article/115247) — Wawancara sebelum pembubaran tahun 2019
+[^6]: [關鍵評論網：成軍 30 週年解散](https://www.thenewslens.com/article/115247) — Wawancara sebelum bubar pada 2019
 
-[^7]: [CNA: Golden Melody ke-31 Album Terbaik Bahasa Taiwan Hokkien](https://www.cna.com.tw/news/amov/202010030225.aspx) — Laporan langsung, kutipan dari perwakilan penerima
+[^7]: [中央社：金曲 31 最佳台語專輯](https://www.cna.com.tw/news/amov/202010030225.aspx) — Laporan sumber pertama, kutipan perwakilan Meng Ching-erh
 
-[^8]: [Situs Ulasan Kunci: Film Dokumenter 《爛頭殼》](https://www.thenewslens.com/article/143448) — Liputan film dokumenter tahun 2001
+[^8]: [關鍵評論網：《爛頭殼》紀錄片](https://www.thenewslens.com/article/143448) — Laporan dokumenter 2001

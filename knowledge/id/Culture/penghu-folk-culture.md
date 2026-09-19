@@ -1,17 +1,17 @@
 ---
 title: 'Budaya Rakyat Penghu'
-description: 'Setiap tanggal lima belas bulan pertama, lebih dari dua ratus kuil di Penghu secara bersamaan melakukan ritual pelemparan jangkung (筊), dan menumpuk 47.000 jin beras kura-kura persembahan—pulau yang ditiup Angin Muson Timur ini, menggunakan ritual memancing kura-kura untuk mengembalikan para pelaut, menjebak ikan dari air surut dengan *shihu*, dan menyalurkan kesepian sepanjang musim dingin melalui nyanyian balada.'
+description: 'Setiap tahun pada tanggal lima belas bulan pertama kalender Masehi, lebih dari dua ratus pura di Penghu melempar bui secara bersamaan, dan empat puluh tujuh ribu kilogram kue kacang berbentuk kura-kura ditumpuk di meja persembahan — kepulauan ini yang telah tertiup angin musim timur laut selama empat ratus tahun, menggunakan ritual meminta kura-kura untuk mengembalikan orang-orang yang pergi ke laut, menggunakan stone weir untuk menangkap ikan saat air surut, dan menggunakan lagu balas pantun untuk menyanyikan kesepian sepanjang musim dingin.'
 date: 2026-03-24
 category: 'Culture'
 tags:
   [
     'Penghu',
-    'Festival Lantern (Yuanxiao)',
-    'Ritual Kura-kura',
+    'Cap Go Meh',
+    'Meminta Kura-kura',
     'Budaya Pulau Terpencil',
-    'Kuil',
-    'Folklor',
-    'Shihu',
+    'Pura',
+    'Budaya Rakyat',
+    'Stone Weir',
     'Mazu',
   ]
 subcategory: '離島文化'
@@ -25,118 +25,118 @@ translatedFrom: 'Culture/澎湖民俗文化.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:e71b837d32f8708d'
 sourceBodyHash: 'sha256:9b0e9ffb81c95f4e'
-translatedAt: '2026-09-09T11:45:56+08:00'
+translatedAt: '2026-09-09T19:34:15+08:00'
 ---
 
 # Budaya Rakyat Penghu
 
-> **Ringkasan 30 Detik:** Pada malam Festival Lantern tahun 2025, di depan Kuil Guan Yin Huksi Longmen di Lake West, Penghu, seekor kura-kura beras seberat 47.000 jin menduduki setengah halaman kuil. Pengusaha Lü Rui-jin melempar delapan jangkung (聖筊) dan berhasil membawa pulang kura raksasa ini untuk kelima kalinya berturut-turut—tahun depan ia harus mengembalikan 48.500 jin. Pada malam yang sama ketika lentera dilepaskan dan petasan dinyalakan di Pulau Taiwan utama, lebih dari dua ratus kuil di Penghu membuka meja ritual secara bersamaan, memohon bukan keberuntungan, melainkan "kura-kura" (台語 _ku_), yang berbunyi sama dengan "kembali" (_guī_). Ini adalah harapan tertua dari pulau yang ditiup angin ini: agar para pelaut kembali dengan selamat.
+> **Ringkasan 30 Detik:** Malam Cap Go Meh tahun 2025, di halaman Pura Kuan-yin Longmen di Husi, Penghu, seekor kura-kura beras berat empat puluh tujuh ribu kilogram menduduki separuh halaman pura. Pengusaha Lu Rui-jin melempar delapan bui suci, dan bertahun kelima berturut-turut membawa pulang kura-kura raksasa itu — tahun depan ia harus mengembalikan empat puluh delapan ribu lima ratus kilogram. Di malam yang sama di pulau utama Taiwan orang melayangkan lampion dan meledakkan petasan "bom naga", di Penghu lebih dari dua ratus pura sekaligus membuka meja persembahan dan melempar bui, meminta bukan keberuntungan, melainkan "kura-kura" — dalam bahasa Taiwan dibaca _ku_, serupa bunyi dengan "kembali" (_kui_). Orang-orang yang pergi ke laut pulang dengan selamat, itulah keinginan tertua pulau angin ini.
 
-Pada tanggal 15 Februari 2025, hari keenam belas bulan pertama kalender lunar, sebuah kura-kura emas berlian seberat empat ratus tiga puluh tael diletakkan di meja persembahan Kuil Dewa Langit dan Air di Gunung Magong. Anggota "Konvoi Wisata Mercedes Benz Manfu" berlutut di depan altar dewa, melempar delapan jangkung, dan berhasil membawa pulang kura emas yang bernilai lebih dari dua juta Dolar Taiwan [^1]. Di kuil sebelah, Kuil Kutub Utara Sha Gang, mantan Han Jin-gui memperoleh seekor kura spiritual emas seberat dua ratus enam puluh tael dengan enam jangkung. Seniman Jiang Yong-qi berhasil mendapatkan kura emas bunga mekar yang bernilai seratus dua puluh tael di Kuil Dewa Langit dan Air untuk keempat kalinya berturut-turut, dan pada malam yang sama ia juga membawa pulang kura uang tunai senilai sepuluh ribu tael di Kuil Lingguang Magong [^1].
+Pada tanggal lima belas Februari 2025, keenam belas bulan pertama kalender Masehi, di meja persembahan Pura Shangdi Shanshui Magong tersusun seekor kura-kura emas berlian berat empat ratus tiga puluh liang. Anggota "Armada Bus Pariwisata Pekerja Penuh Kesejahteraan" berlutut di hadapan meja dewa, melempar delapan bui suci berturut-turut, membawa pulang kura-kura emas bernilai lebih dari dua juta dolar Taiwan[^1]. Di sebelahnya, Pura Beiji Suogang, Zhan Jin-gui dengan enam bui suci memperoleh kura-kura emas roh berat dua ratus enam puluh liang. Seniman Jiang Yong-qi bertahun keempat berturut-turut di Pura Shangdi Shanshui memperoleh kura-kura emas "Bunga Mekar Kaya Raya" berat seratus dua puluh liang, malam yang sama juga di Pura Lingguang Magong membawa pulang kura-kura uang tunai senilai sepuluh ribu dua ratus yuan[^1].
 
-Ini bukan perjudian. Ini adalah kontrak: manusia meminjam kura dari dewa, membawa berkah selama setahun, dan mengembalikannya tahun depan dengan bunga. Kura beras seberat 47.000 jin menjadi 48.500 jin di tahun berikutnya; kura emas seberat empat ratus tiga puluh tael bertambah satu tael. Tahun demi tahun, kura semakin besar, halaman kuil semakin sesak, dan spiral ini telah berputar selama lebih dari dua ratus lima puluh tahun.
+Ini bukan judi. Ini adalah kontrak: manusia meminjam kura-kura dari dewa, membawa pulang perlindungan setahun, tahun depan mengembalikan dengan tambahan. Empat puluh tujuh ribu kilogram kura-kura beras tahun depan jadi empat puluh delapan ribu lima ratus kilogram, empat ratus tiga puluh liang kura-kura emas tahun depan tambah satu liang. Tahun demi tahun, kura-kura semakin besar, halaman pura semakin penuh, dan spiral ini sudah berputar lebih dari dua ratus lima puluh tahun.
 
-> **📝 Catatan Kurator**
-> Mekanisme "penambahan permohonan" dalam ritual memancing kura-kura menyebabkan setiap kura membengkak seiring waktu. Ini bukan inflasi moneter, melainkan bunga majemuk keyakinan—di buku besar dewa, manusia selalu berhutang sedikit.
+> **📝 Catatan Kurenator**
+> Mekanisme "tambah nilai saat mengembalikan nazar" pada ritual meminta kura-kura, membuat setiap kura-kura mengembang di dalam waktu. Ini bukan inflasi, ini adalah bunga majemuk kepercayaan — di buku catatan dewa, manusia selalu berhutang sedikit.
 
-## Catatan Pertama dari Era Qianlong
+## Catatan Pertama pada Era Qianlong
 
-Pada tahun 1767, Hu Jianwei, gubernur ke-18 Penghu, mencatat pemandangan ritual memancing kura-kura dalam _Penglu Jilie_ [^2]. Kura pada masa itu adalah kura kue yang terbuat dari tepung kue dan air gula (_fǎngpiàn guī_), berwarna putih lembut, seberat puluhan jin. Mereka disusun berbaris di halaman kuil, dan para pemuja menentukan siapa yang akan membawanya pergi melalui pelemparan jangkung.
+Tahun 1767, hakim pengadilan ke-delapan belas Penghu, Hu Jian-wei, mencatat adegan meminta kura-kura dalam _Catatan Ringkas Penghu_[^2]. Saat itu kura-kura terbuat dari tepung kue dan air gula, berwarna putih susu, berat beberapa puluh kilogram, tersusun berderet di halaman pura, orang percaya melempar bui menentukan siapa yang membawa pulang.
 
-Standar dua ratus lima puluh tahun kemudian sudah sangat berbeda. Pada tahun 2025, Kuil Kaisar Wenheng di Dinding Belakang Chi-Kan menampung kura beras seberat tiga puluh delapan ribu jin [^3]. Penghu pernah menantang super kura beras seberat tiga ratus enam puluh ribu jin, mencoba mengajukan rekor dunia Guinness [^4]. Selain _fǎngpiàn guī_, muncul juga kura emas, kura udang, kura sawi hijau, dan kura bir: di Wukan, sawi hijau dibentuk menjadi kura; di Kuil Lingguang Xingrenmao, para pemuja memenangkan udang hidup melalui pelemparan jangkung. Bentuknya telah berubah puluhan kali lipat, tetapi logika intinya tidak berubah: Anda meminjam sesuatu dari dewa, dan mengembalikannya lebih banyak tahun depan.
+Dua ratus lima puluh tahun kemudian spesifikasinya sudah sangat berbeda. Tahun 2025, Pura Wenheng Shengdi Houbi Chikan menumpuk tiga puluh delapan ribu kilogram kura-kura beras[^3]. Penghu pernah menantang kura-kura beras super berat tiga ratus enam puluh ribu kilogram, mencoba mendaftar ke Rekor Dunia Guinness[^4]. Di luar kura-kura kue, muncul kura-kura emas, kura-kura udang lobster, kura-kura kubis, kura-kura birra: Wukan menumpuk kubis berbentuk kura-kura, Pura Mengling Xingren meminta orang percaya melempar bui menang udang lobster hidup. Bentuk berlipat puluh kali, logika intinya tak berubah: kamu meminjam barang dari dewa, tahun depan kembalikan lebih banyak.
 
-Pada Juni 2025, "Ritual Memancing Kura-kura Yuanxiao Penghu" secara resmi terdaftar sebagai Warisan Budaya Takbenda Kabupaten Penghu [^5]. Ini bukan label pemasaran Biro Pariwisata, melainkan pengakuan resmi: sistem kontrak manusia-dewa ini layak untuk dilestarikan.
+Juni 2025, "Ritual Meminta Kura-kura Cap Go Meh Penghu" resmi terdaftar sebagai Warisan Budaya Tak Benda Kabupaten Penghu[^5]. Ini bukan label pemasaran dinas pariwisata, melainkan pengakuan resmi: sistem kontrak manusia-dewa ini layak dilestarikan.
 
-## Angin yang Membentuk Segalanya
+## Angin Membentuk Segalanya
 
-Untuk memahami folklor Penghu, kita harus terlebih dahulu memahami angin.
+Memahami budaya rakyat Penghu, harus memahami angin terlebih dahulu.
 
-Setiap bulan Oktober hingga Maret tahun berikutnya, Angin Muson Timur melewati Selat Taiwan, meningkatkan tekanan kecepatan angin. Kecepatan angin rata-rata bulanan di Penghu mencapai delapan koma empat meter per detik pada bulan November dan Desember [^6]. Sebanyak lima puluh enam persen hari memiliki kecepatan angin melebihi sepuluh meter per detik [^6]. Ini bukan angin sepoi-sepoi: ini adalah angin yang dapat membelokkan manusia, membunuh tanaman, dan membuat ombak setinggi tiga lantai.
+Setiap tahun Oktober hingga Maret tahun berikutnya, angin musim timur laut menembus Selat Taiwan, kecepatan angin meningkat. Rata-rata kecepatan angin bulanan Penghu pada November dan Desember mencapai delapan koma empat meter per detik[^6]. Hari dengan kecepatan angin musim dingin melebihi sepuluh meter per detik mencapai lima puluh enam persen[^6]. Ini bukan angin sepoi-sepoi: ini angin yang bisa mengibaskan orang, membunuh tanaman, memukul ombak hingga tinggi tiga lantai.
 
-Angin menentukan jadwal orang Penghu. Mereka tidak bisa melaut atau bertani di musim dingin; panen selama setengah tahun tertekan dalam beberapa bulan di musim panas. Angin juga menentukan bentuk keyakinan: kepadatan [Kuil Penghu](/id/culture/taiwan-religion-and-temple-culture/) adalah yang tertinggi di seluruh Taiwan, karena setiap pelayaran mungkin tidak kembali, dan setiap desa membutuhkan dewa mereka sendiri.
+Angin menentukan jadwal waktu orang Penghu. Musim dingin tidak bisa pergi ke laut, tidak bisa mengerjakan pertanian, setengah tahun panen tergantung pada beberapa bulan musim panas. Angin juga menentukan bentuk kepercayaan: [pura-pura Penghu](/id/culture/taiwan-religion-and-temple-culture/) kepadatannya tertinggi di seluruh Taiwan, karena setiap kali pergi ke laut mungkin tidak kembali, setiap desa butuh dewa sendiri.
 
-Patung Singa Angin berjongkok di mulut desa, menghadap ke Timur Laut. Batu Gan-dang diletakkan di tikungan gang. Kuil dibangun dari batu _laogǔ_ (batu kapur karang): batuan kapur terumbu karang, tahan angin dan garam. Ini bukan dekorasi, melainkan perlengkapan bertahan hidup. Orang Penghu tidak menyembah angin, tetapi semua keyakinan adalah produk sampingan dari angin.
+Singa Angin berjongkok di pintu desa, menghadap timur laut. Shigandang terukir di tikungan gang. Pura dibangun dari batu karang: batu kapur karang, tahan angin tahan garam. Ini bukan hiasan, ini peralatan survival. Orang Penghu tidak menyembah angin, tapi semua kepercayaan adalah produk sampingan angin.
 
-Kura dalam bahasa Taiwan (_ku_) berbunyi sama dengan _guī_. Di pulau di mana seorang pria yang pergi melaut mungkin tidak pernah kembali, "kembali" (_guī_) adalah kata yang paling berat. Ritual memancing kura bukanlah tentang kekayaan: pepatah Penghu mengatakan, "Menyentuh kepala kura, membangun gedung; menyentuh ekor kura, menyimpan barang; menyentuh cangkang kura, usaha stabil; menyentuh kaki kura, harta emas di rumah." Tetapi yang pertama adalah "membangun gedung," artinya "memiliki tempat untuk kembali."
+Kura-kura dalam bahasa Taiwan "ku" serupa bunyi dengan "kembali" (_kui_). Di pulau di mana pria pergi ke laut mungkin tidak kembali, "kembali" adalah kata paling berat. Meminta kura-kura bukan meminta kekayaan: pepatah Penghu bilang "Mengusap kepala kura-kura, bangun gedung tinggi; mengusap ekor kura-kura, simpan peralatan; mengusap cangkang kura-kura, usaha stabil; mengusap kaki kura-kura, emas perak penuh rumah" — tapi yang pertama adalah "bangun gedung tinggi", artinya "punya rumah untuk kembali".
 
-## Kuil dan Prasasti Empat Ratus Tahun
+## Empat Ratus Tahun Pura dan Prasasti
 
-Pada tahun 1604, Kompeni Hindia Timur Belanda menyerbu Penghu dengan pasukan yang dipimpin oleh Wima Lang. Shen Yourong, gubernur di Wusyu (Wuxu), datang ke Kuil Mazu (sekarang Magong) dan bertemu orang-orang Belanda di Niangma Gong—Kuil Dewi Ibu hari ini—dan berhasil meyakinkan mereka untuk mundur. Setelah itu, sebuah prasasti didirikan: "Shen Yourong memerintahkan pengusiran barbar Merah Wima Lang dan lainnya" [^7].
+Tahun 1604, komandan VOC (Persatuan Hindia Timur Belanda) Wijbrant van Waerwijck memimpin pasukan mendarat di Penghu. Komandan Penghu Shen You-rong tiba di Makung (sekarang Magong), di Pura Ibu Mazu — hari ini Pura Tianhou Penghu — bertemu orang Belanda, meyakinkan mereka mundur. Pasca peristiwa itu mendirikan prasasti: "Shen You-rong menyuruh mundur orang Belanda berambut merah Wijbrant van Waerwijck dan rombongan"[^7].
 
-Prasasti ini masih tertanam di dinding kanan Qingfeng Pavilion Kuil Tianhou hingga kini, tingginya 198 cm dan lebarnya 28.7 cm [^7]. Ini adalah salah satu catatan paling awal yang tersisa tentang urusan diplomatik di Taiwan, dan juga mengonfirmasi bahwa Kuil Tianhou sudah ada sebelum tahun 1604—kuil Mazu tertua di Taiwan.
+Prasasti ini hingga hari ini masih tertanam di dinding kanan Kabinet Angin Jernih Pura Tianhou, tinggi seratus sembilan puluh delapan sentimeter, lebar dua puluh delapan koma tujuh sentimeter[^7]. Ia salah satu catatan diplomasi tertua yang masih ada di Taiwan, juga mengonfirmasi Pura Tianhou sudah ada sebelum 1604 — pura Mazu tertua di Taiwan.
 
-Pada tahun 1722, setelah Shi Lang menaklukkan Penghu, ia meminta Kaisar Kangxi untuk menganugerahkan gelar Dewi Surga kepada Mazu, dan "Niangma Gong" secara resmi diganti namanya menjadi "Kuil Tianhou" [^7]. Pada tahun 1734, gubernur Penghu Zhou Yuren mencatat "Empat Kuil Kuno di Magong" dalam _Penglu Zhiliue_: Kuil Guan Di, Kuil Tianhou, Kuil Zhenwu, dan Kuil Suixian [^2]. Pada tahun 1922, selama periode Taisho, para pedagang pinggiran kota Taiha di Magong mengumpulkan dana untuk menyewa tukang kayu besar dari Chaozhou, Guangdong, Lan Mu, untuk merenovasi Kuil Tianhou, mengubah kuil bergaya Minnan menjadi gaya Chaozhou—ini menjelaskan mengapa Kuil Tianhou hari ini terlihat berbeda dari kuil Mazu lainnya di Taiwan [^7].
+Tahun 1722, setelah Shi Lang merebut Penghu, dia mengajukan ke Kaisar Kangxi menaikkan gelar Mazu menjadi Tianhou, "Pura Ibu Mazu" resmi berganti nama "Pura Tianhou"[^7]. Tahun 1734, hakim pengadilan Penghu Zhou Yu-ren di _Catatan Penghu_ mencatat "Empat Pura Tua Magong": Pura Guan Di, Pura Tianhou, Pura Zhenwu, Pura Shui Xian[^2]. Tahun 1922, era Taisho, pedagang Magong mengumpulkan dana mengundang tukang kayu besar asal Chaozhou Guangdong Lan Mu memperbaiki Pura Tianhou, mengubah pura bergaya Minnan jadi gaya Chaozhou — ini menjelaskan kenapa Pura Tianhou hari ini tampak beda dari pura Mazu lain di Taiwan[^7].
 
-> **💡 Tahukah Anda**
-> Nama tempat "Magong" berasal dari "Mamiya." Kuil Mazu disebut "Niangma Gong," disingkat "Ma Gong," dan diganti namanya menjadi "Magong" selama periode pemerintahan Jepang. Sebuah kota dinamai berdasarkan sebuah kuil, ini tidak jarang di Taiwan (Xingang, Beigang), tetapi contoh Penghu mungkin yang tertua secara historis.
+> **💡 Tahukah Kamu**
+> Nama tempat "Magong" berasal dari "Makung". Pura Mazu disebut "Pura Ibu Mazu", disingkat "Makung", era pendudukan Jepang diganti nama "Magong". Sebuah kota dinamai dari satu pura, di Taiwan tidak jarang (Xingang, Beigang), tapi contoh Penghu mungkin yang paling tua sejarahnya.
 
-## Shihu: Jebakan Saat Air Surut
+## Stone Weir: Jebakan Saat Air Surut
 
-Folklor Penghu tidak hanya ada di dalam kuil, tetapi juga di laut.
+Budaya rakyat Penghu tidak hanya di pura, tapi juga di laut.
 
-Terdapat lebih dari lima ratus tujuh puluh empat _shihu_ (perangkap batu) yang tersisa di seluruh Penghu, dan mungkin lebih dari enam ratus jika termasuk yang disebutkan secara lisan namun telah hilang [^8]. Di sekitar Pulau Jibei terdapat seratus sembilan _shihu_, menjadikannya tempat dengan kepadatan metode penangkapan ikan di zona pasang surut tertinggi di dunia [^8]. Prinsip _shihu_ sederhana: dinding batu berbentuk busur ditumpuk di zona intertidal, dan air pasang membawa ikan masuk; saat air surut, ikan terjebak. Tidak perlu minyak, tidak perlu kapal, tidak perlu berlayar dengan risiko.
+Seluruh Penghu saat ini tersisa lima ratus tujuh puluh empat stone weir ke atas, ditambah yang tercatat lisan tapi sudah hilang, total mungkin melebihi enam ratus[^8]. Di sekitar Pulau Jibei saja ada seratus sembilan stone weir, kepadatan metode nelayan di zona pasang surut tertinggi di dunia[^8]. Prinsip stone weir sederhana: di zona pasang surut menumpuk dinding batu melengkung, air pasang bawa ikan masuk, air surut ikan terjebak. Butuh minyak, butuh perahu, butuh pergi ke laut mempertaruhkan nyawa.
 
-Shihu Jinsin Mei adalah tempat wisata yang wajib difoto, tetapi nama aslinya bukanlah itu. Awalnya dibangun oleh saudara Yan Chong dan Yan Yuji di Desa Donghu, karena terletak di sebelah utara "Dingxi," ia disebut "Shihu Dingxi." Kemudian, penerus generasi kedua, Yan Gong, meminta ahli Jibei untuk mendesain ulang menjadi bentuk "Satu Rumah Dua Gua," sehingga muncul bentuk hati ganda [^8]. Pada tahun 2006, Pemerintah Kabupaten Penghu mendaftarkan Shihu Jinsin Mei sebagai pemandangan budaya. Pada tahun 2008, kelompok _shihu_ Jibei juga terdaftar sebagai pemandangan budaya tingkat kabupaten [^9]. Seluruh kelompok _shihu_ Penghu adalah salah satu dari delapan belas situs potensial Warisan Dunia Taiwan yang dipilih oleh Kementerian Kebudayaan [^9].
+Stone Weir Hati Ganda di Qimei adalah wajib foto wisatawan, tapi dulu ia tidak bernama itu. Awalnya dibangun bersama oleh saudara Yan Chong dan Yan Yu-ji dari Desa Donghu, karena posisinya di sisi utara "Dingxi", dinamai "Stone Weir Dingxi". Kemudian pewaris generasi kedua Yan Gong mengundang guru dari Jibei mendesain ulang jadi bentuk "satu ruang dua lubang", barulah muncul bentuk hati ganda[^8]. Tahun 2006, Pemerintah Kabupaten Penghu mendaftarkan Stone Weir Hati Ganda sebagai Lanskap Budaya. Tahun 2008, Grup Stone Weir Jibei juga didaftarkan sebagai Lanskap Budaya Tingkat Kabupaten[^9]. Seluruh Grup Stone Weir Penghu adalah salah satu dari delapan belas Titik Potensial Warisan Dunia Taiwan yang diseleksi Kementerian Budaya[^9].
 
-> **📝 Catatan Kurator**
-> _Shihu_ adalah metode penangkapan ikan tanpa harus berlayar. Di pulau di mana pelayaran bisa berarti tidak kembali, signifikansi penemuan ini bukan hanya ekonomi—tetapi solusi dari ketakutan.
+> **📝 Catatan Kurenator**
+> Stone weir adalah cara menangkap ikan tanpa pergi ke laut. Di pulau di mana pergi ke laut mungkin tidak kembali, penemuan ini maknanya bukan sekadar ekonomi — ini solusi ketakutan.
 
-## Nyanyian Balada: Sastra yang Dapat Dinyanyikan Tanpa Huruf
+## Pho-kua: Sastra Balas Pantun Tanpa Perlu Bisa Baca
 
-Di musim dingin, mereka tidak bisa melaut atau bertani, jadi orang Penghu bernyanyi.
+Musim dingin tidak bisa pergi ke laut, tidak bisa mengerjakan pertanian, orang Penghu bernyanyi.
 
-_Po-kua_ (nyanyian balada dalam bahasa Taiwan) adalah nyanyian improvisasi dengan format tujuh karakter per baris, dua baris berpasangan, dan dua pasang membentuk satu lagu. Tidak memerlukan alat musik, tidak memerlukan kemampuan membaca, tetapi membutuhkan daya ingat yang baik, reaksi cepat, dan dasar bahasa Taiwan yang mendalam [^10]. Isinya berkisar dari lagu cinta pria-wanita hingga keluhan pertanian dan sindiran isu terkini; semuanya dinyanyikan. Desa Erkan di Penghu Barat masih mengukir empat baris _po-kua_ pada dinding permukiman, menjadikannya latar belakang bagi para turis untuk berfoto [^10].
+Pho-kua (bahasa Taiwan _po-kua_) adalah nyanyian balas pantun improvisasi tujuh kata per baris, dua baris sepasang, dua pasang satu judul. Butuh alat musik, butuh bisa baca, tapi butuh hafal kuat, tanggap cepat, dasar bahasa Taiwan cukup dalam[^10]. Isi dari lagu cinta pria wanita hingga keluhan pertanian hingga sindiran aktual, apa pun dinyanyikan. Desa Erkan di Xiyu Penghu hingga hari ini mengukir empat baris pho-kua di dinding permukiman, jadi latar foto wisatawan[^10].
 
-Namun, nyanyian balada sedang menghilang. Setelah tahun 1970-an, hanya orang tua yang masih bisa menyanyi. Anak muda tidak mengerti dialek Taiwan kuno dalam lirik, apalagi improvisasi duet. Ini adalah budaya yang mustahil untuk disimpan oleh YouTube—inti dari _po-kua_ adalah "improvisasi" dan "duet"; begitu direkam, ia mati; hanya orang hidup yang dapat mewarisinya [^10].
+Tapi pho-kua sedang hilang. Setelah era 1970-an, yang bisa nyanyi hanya orang tua. Orang muda tidak paham bahasa Taiwan kuno di lirik, apalagi improvisasi balas pantun. Ini budaya yang tidak mungkin diselamatkan YouTube — inti pho-kua adalah "improvisasi" dan "balas pantun", direkam sudah mati, hanya orang hidup yang bisa meneruskan[^10].
 
-## Kembang Api dan Kecelakaan Penerbangan
+## Kembang Api dan Kecelakaan Pesawat
 
-Pada tanggal 25 Mei 2002, penerbangan China Airlines 611 dari Taoyuan menuju Hong Kong mengalami disintegrasi di perairan lepas Penghu, dengan semua 225 penumpang tewas [^11]. Ini adalah salah satu kecelakaan penerbangan paling serius dalam sejarah penerbangan Taiwan dan sangat merusak industri pariwisata Penghu.
+Dua puluh lima Mei 2002, Penerbangan China Airlines 611 dari Taoyuan menuju Hong Kong, di laut lepas Penghu hancur di udara, dua ratus dua puluh lima orang semuanya tewas[^11]. Ini salah satu kecelakaan penerbangan terparah dalam sejarah Taiwan, juga melumpuhkan industri pariwisata Penghu.
 
-Tahun berikutnya, Pemerintah Kabupaten Penghu menyelenggarakan acara "Pesona Sepuluh Juta di Pulau Kikuda" untuk meningkatkan pariwisata. Festival yang lahir dari bencana ini kemudian menjadi Festival Kembang Api Internasional Penghu—pada tahun 2024 menarik lima ratus tiga puluh ribu pengunjung, menghasilkan lebih dari tiga miliar nilai ekonomi pariwisata, dengan tingkat kepuasan wisatawan mencapai sembilan puluh tujuh persen [^12]. Pada tahun 2026, Festival Kembang Api berkolaborasi dengan Dragon Ball Z, berlangsung dari Mei hingga Agustus.
+Tahun berikutnya, Pemerintah Kabupaten Penghu untuk bangkitkan pariwisata menggelar acara "Sepuluh Juta Keanggunan di Pulau Kembang Goen". Festival yang tumbuh dari bencana ini, kemudian berkembang jadi Festival Kembang Api Internasional di Laut Penghu — tahun 2024 menarik lima ratus tiga puluh ribu kunjungan, menciptakan nilai pariwisata lebih dari tiga puluh tujuh miliar yuan, tingkat kepuasan wisatawan sembilan puluh tujuh persen[^12]. Tahun 2026, festival kembang api kolaborasi Dragon Ball Z, diadakan dari Mei hingga Agustus.
 
-> **📝 Catatan Kurator**
-> Dari kecelakaan penerbangan ke festival kembang api, hanya terpisah satu tahun. Penghu mengubah trauma terdalam menjadi merek paling terang. Namun, kesuksesan festival juga membawa kontradiksi: musim panas dipenuhi turis yang berdesakan, dan penduduk mengalir keluar di musim dingin; struktur usia Penghu terus menua—proporsi populasi berusia 65 tahun ke atas mendekati sembilan belas persen, dengan indeks penuaan mencapai seratus sembilan puluh empat persen [^6]. Kembang api menerangi musim panas, sementara angin bertiup di musim dingin.
+> **📝 Catatan Kurenator**
+> Dari kecelakaan pesawat ke festival kembang api, di antara hanya satu tahun. Penghu mengubah luka terdalam jadi spanduk paling terang. Tapi keberhasilan festival kembang api juga bawa kontradiksi: musim panas wisatawan penuh sesak, musim dingin penduduk keluar, struktur usia Penghu terus menua — populasi enam puluh lima ke atas mendekati sembilan belas persen, indeks penuaan mencapai seratus sembilan puluh empat[^6]. Kembang api menerangi musim panas, angin meniup musim dingin.
 
-## Lima Belas Februari 2026: Dua Ratus Kuil Bersama-sama Melempar Jangkung
+## Lima Belas Januari 2026, Dua Ratus Pura Serentak Melempar Bui
 
-Pada Festival Lantern tahun 2026, Pemerintah Kabupaten Penghu untuk pertama kalinya menyatukan tiga puluh enam kuil untuk mengadakan kegiatan pengumpulan stempel, di mana mengumpulkan tujuh stempel dapat memenangkan hadiah [^3]. Namun, tiga puluh enam hanyalah angka yang disatukan secara resmi—lebih dari dua ratus kuil di seluruh kabupaten membuka meja mereka sendiri pada malam yang sama, masing-masing meletakkan kura-kura mereka sendiri, dan masing-masing melempar jangkung. Tidak ada penyelenggara tunggal, tidak ada proses standar; bentuk kura di setiap kuil ditentukan oleh desa masing-masing.
+Cap Go Meh 2026, Pemerintah Kabupaten Penghu pertama kali menghubungkan tiga puluh enam pura menggelar aktivitas koleksi cap, kumpul tujuh cap bisa undian[^3]. Tapi tiga puluh enam cuma angka resmi yang dihubungkan — seluruh kabupaten lebih dari dua ratus pura di malam yang sama masing-masing buka meja, masing-masing susun kura-kura, masing-masing lempar bui. Tidak ada penyelenggara terpadu, tidak ada prosedur baku, kura-kura setiap pura berbentuk apa sepenuhnya ditentukan masing-masing desa.
 
-Inilah alasan mengapa ritual memancing kura-kura Penghu tidak mati selama dua ratus lima puluh tahun: itu bukan sebuah "acara," melainkan lebih dari dua ratus titik keyakinan independen yang bernapas secara bersamaan. Tidak ada seorang pun yang bisa membatalkannya, karena tidak ada seorang pun yang memilikinya.
+Inilah alasan ritual meminta kura-kura Penghu dua ratus lima puluh tahun tidak mati: ia bukan sebuah "acara", melainkan dua ratus lebih titik kepercayaan independen yang bernapas serentak. Tidak ada yang bisa membatalkannya, karena tidak ada yang memilikinya.
 
-Pemandangan yang dicatat oleh Hu Jianwei pada tahun 1767—para pemuja berlutut di depan kuil dan menunggu dewa mengangguk—hampir sama dengan pemandangan tahun 2026. Perbedaannya hanyalah kura berubah dari puluhan jin menjadi 47.000 jin, dan dari kue menjadi emas. Tetapi postur orang yang berlutut tidak berubah, dan pertanyaan yang diajukan kepada dewa juga tidak berubah:
+Adegan yang dicatat Hu Jian-wei 1767 — orang percaya berlutut di depan pura melempar bui, menunggu dewa mengangguk — dengan adegan 2026 hampir sama. Bedanya cuma kura-kura dari beberapa puluh kilogram jadi empat puluh tujuh ribu kilogram, dari kue kacang jadi emas. Tapi postur orang berlutut tak berubah, pertanyaan ke dewa juga tak berubah:
 
-Tahun depan, kembalikan mereka yang pergi melaut.
+Tahun depan, biarkan orang pergi ke laut pulang.
 
 ## Referensi
 
-[^1]: [Pemenang Kura Beras Festival Lantern Penghu Mengklaim Kura Terbesar dan Kura Emas 430 Tael](https://www.cna.com.tw/news/aloc/202502150058.aspx) — Laporan Central News Agency, 15 Februari 2025, mencatat pemenang hadiah terbesar di kuil-kuil Festival Lantern 2025, jumlah jangkung, dan aturan pengembalian.
+[^1]: [Cap Go Meh Penghu Meminta Kura-kura Kura-kura Beras Terbesar, Kura-kura Emas 430 Liang Pemenangnya Bertahan](https://www.cna.com.tw/news/aloc/202502150058.aspx) — Central News Agency, laporan 15 Februari 2025, mencatat detail pemenang hadiah terbesar Cap Go Meh Meminta Kura-kura 2025 di berbagai pura, jumlah bui suci, dan aturan pengembalian nazar.
 
-[^2]: [《Penglu Jilie》](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B4%80%E7%95%A5) — Diterbitkan pada tahun ke-34 Qianlong (1769), disusun oleh gubernur Penghu Hu Jianwei, merupakan salah satu catatan lokal tertua tentang Penghu, mencatat kegiatan folklor seperti memancing kura-kura.
+[^2]: [_Catatan Ringkas Penghu_](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B4%80%E7%95%A5) — Terbit tahun ke-tiga puluh empat Qianlong (1769), disusun oleh hakim pengadilan Penghu Hu Jian-wei, salah satu catatan daerah tertua Penghu, mencatat ritual meminta kura-kura dan kegiatan budaya rakyat lain.
 
-[^3]: [Festival Lantern Paling Gila di Seluruh Taiwan ada di Penghu! Tantangan Pengumpulan Stempel 36 Kuil untuk Hadiah Terbatas](https://www.gvm.com.tw/article/126335) — Laporan majalah Yuanjian, memperkenalkan skala Festival Lantern Penghu 2026, kegiatan pengumpulan stempel 36 kuil, dan rekor kura ribuan jin.
+[^3]: [Cap Go Meh Paling Gila di Seluruh Taiwan Ada di Penghu! Tantangan 36 Pura Koleksi Cap Tukar Hadiah Terbatas](https://www.gvm.com.tw/article/126335) — Liputan Far Eastern Magazine, memperkenalkan skala Cap Go Meh Meminta Kura-kura Penghu 2026, aktivitas 36 pura terhubung koleksi cap, rekor kura-kura beras puluhan ribu kilogram.
 
-[^4]: [Festival Memancing Kura-kura Yuanxiao — Kawasan Pemandangan Alam Penghu](https://www.penghu-nsa.gov.tw/ChiHoOneLer/tour/Event/Lantern.htm) — Pengenalan resmi dari Administrasi Kawasan Pemandangan Alam Penghu, mencatat sejarah memancing kura-kura dan tantangan rekor dunia Guinness 360.000 jin.
+[^4]: [Cap Go Meh Meminta Kura-kura — Kawasan Wisata Nasional Penghu](https://www.penghu-nsa.gov.tw/ChiHoOneLer/tour/Event/Lantern.htm) — Pengenalan resmi Manajemen Kawasan Wisata Nasional Penghu, mencatat sejarah meminta kura-kura dan tantangan kura-kura beras tiga ratus enam puluh ribu kilogram mendaftar Guinness World Records.
 
-[^5]: [Ritual Memancing Kura-kura Yuanxiao Penghu — Situs Warisan Budaya Nasional](https://nchdb.boch.gov.tw/assets/advanceSearch/folklore/20250716000001) — Catatan resmi dari situs web Warisan Budaya Nasional Kementerian Kebudayaan, mendaftarkan Ritual Memancing Kura-kura Yuanxiao Penghu sebagai warisan budaya takbenda pada tahun 2025.
+[^5]: [Cap Go Meh Penghu Meminta Kura-kura — Jaringan Aset Budaya Nasional](https://nchdb.boch.gov.tw/assets/advanceSearch/folklore/20250716000001) — Jaringan Aset Budaya Nasional Kementerian Budaya, catatan resmi 2025 mendaftarkan Cap Go Meh Penghu Meminta Kura-kura sebagai Warisan Budaya Tak Benda.
 
-[^6]: [Kabupaten Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B8%A3) — Data geografis, iklim, dan statistik populasi komprehensif tentang Kabupaten Penghu, termasuk kecepatan Angin Muson Timur dan indeks penuaan penduduk.
+[^6]: [Kabupaten Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%B8%A3) — Ringkas geografi, iklim, data statistik populasi Kabupaten Penghu, termasuk kecepatan angin musim timur laut, indeks penuaan populasi, dll.
 
-[^7]: [Kuil Tianhou Penghu — Tur Panduan Situs Warisan Nasional](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=81) — Pengenalan situs warisan nasional dari Biro Warisan Budaya Kementerian Kebudayaan, mencatat dimensi prasasti pengusiran barbar Merah Shen Yourong, sejarah konstruksi Kuil Tianhou, dan renovasi oleh Lan Mu pada tahun 1922.
+[^7]: [Pura Tianhou Penghu — Panduan Panorama Cagar Budaya Nasional](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=81) — Pengenalan Cagar Budaya Nasional Biro Aset Budaya Kementerian Budaya, mencatat ukuran prasasti Shen You-rong menyuruh mundur orang Belanda, riwayat bangunan Pura Tianhou, dan awal mula perbaikan Lan Mu 1922.
 
-[^8]: [Shihu Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC) — Data historis komprehensif tentang jumlah _shihu_ (lebih dari 574), distribusi 109 di Pulau Jibei, dan saudara Yan Chong serta Yan Yuji yang membangun Shihu Jinsin Mei.
+[^8]: [Stone Weir Penghu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC) — Ringkas statistik jumlah stone weir (574 ke atas), distribusi 109 Pulau Jibei, data sejarah pembangun Stone Weir Hati Ganda saudara Yan Chong Yan Yu-ji, dll.
 
-[^9]: [Kelompok Shihu Penghu — Situs Potensi Warisan Dunia Taiwan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Halaman resmi Biro Warisan Budaya, menjelaskan alasan kelompok _shihu_ Penghu terpilih sebagai salah satu dari 18 situs potensial Warisan Dunia di Taiwan dan kondisi pelestariannya.
+[^9]: [Grup Stone Weir Penghu — Titik Potensial Warisan Dunia Taiwan](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Halaman resmi Biro Aset Budaya, menjelaskan alasan Grup Stone Weir Penghu terpilih sebagai 18 Titik Potensial Warisan Dunia Taiwan serta status pelestarian.
 
-[^10]: [Penghu Barat: Budaya Balada yang Diciptakan dan Dinyanyikan](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Laporan kolaboratif StoryStudio dan Museum Sejarah Nasional Taiwan, memperkenalkan format tujuh karakter _po-kua_, tradisi improvisasi duet, dan _po-kua_ di dinding Desa Erkan.
+[^10]: [Pulau Xiyu Penghu: Budaya Balas Pantun Pho-kua Improvisasi](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Liputan kolaborasi StoryStudio dengan Museum Sejarah Nasional Taiwan, memperkenalkan mendalam format tujuh kata pho-kua Penghu, tradisi balas pantun improvisasi, dan pho-kua di dinding Desa Erkan.
 
-[^11]: [Kecelakaan Penerbangan China Airlines 611 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — Catatan kecelakaan pada 25 Mei 2002, dengan 225 korban tewas, salah satu insiden paling serius dalam sejarah penerbangan Taiwan.
+[^11]: [Kecelakaan Penerbangan China Airlines 611 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — Catatan kecelakaan 25 Mei 2002, 225 orang tewas, salah satu kecelakaan penerbangan terparah sejarah Taiwan.
 
-[^12]: [Penutupan Festival Kembang Api Internasional Penghu 2024](https://www.penghu.gov.tw/tourism/home.jsp?id=61&act=view&dataserno=11307290017) — Berita resmi Biro Pariwisata Kabupaten Penghu, mencatat data kinerja festival tahun 2024: 530 ribu pengunjung, nilai 3 miliar, dan kepuasan 97%.
+[^12]: [Festival Kembang Api Internasional di Laut Penghu 2024 Tutup](https://www.penghu.gov.tw/tourism/home.jsp?id=61&act=view&dataserno=11307290017) — Berita resmi Dinas Pariwisata Kabupaten Penghu, mencatat capaian 2024: 530 ribu kunjungan, 3,7 miliar nilai pariwisata, 97% kepuasan.
 
-**Bacaan Lanjutan**:
+**Baca Lanjutan**:
 
-- [Budaya Agama dan Kuil Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Fungsi sosial kepadatan kuil dan kepercayaan rakyat di Taiwan
-- [Festival dan Budaya Barisan Penghu](/culture/台灣廟會與陣頭文化) — Dari barisan ke Santerio Elektronik, bagaimana festival berubah dalam masyarakat modern
-- [Perayaan Tradisional dan Festival](/id/culture/traditional-festivals-and-celebrations) — Gambaran besar perayaan Taiwan seperti Yuanxiao, Zhongyuan, dan prosesi Mazu
-- [Kepercayaan Dewi Sembilan Langit](/id/culture/jiutian-xuannu-belief) — Dewa wanita dan dewa pelindung lokal dalam kepercayaan rakyat Taiwan
+- [Agama dan Budaya Pura di Taiwan](/id/culture/taiwan-religion-and-temple-culture) — Kepadatan pura Taiwan dan fungsi sosial kepercayaan rakyat
+- [Budaya Pura dan Parade Taiwan](/culture/台灣廟會與陣頭文化) — Dari parade tradisional ke DJ Tiga Taizi, bagaimana festival pura bertransformasi di masyarakat modern
+- [Festival Tradisional dan Upacara](/id/culture/traditional-festivals-and-celebrations) — Cap Go Meh, Zhongyuan, Parade Mazu, panorama festival Taiwan
+- [Kepercayaan Jiutian Xuannu](/id/culture/jiutian-xuannu-belief) — Dewi wanita dan dewa pelindung lokal dalam kepercayaan rakyat Taiwan

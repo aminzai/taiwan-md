@@ -1,0 +1,19 @@
+{
+  "revision": 45,
+  "submissionId": "7be878df-0910-463c-9dfc-22fcdc770988",
+  "actor": "compose-reviewer-6 (Sonnet agent aff780324154b0904, fresh context, read diff + article + blueprint + UDN 原頁)",
+  "verdict": "revise",
+  "rationale": "(a) 主體改動正確：「按照定義，你不算低薪」與 UDN 原文逐字相符，其餘轉述無引號符合原文結構。(b) 收束句沒有裁決動機，「9 月 16 日之後沒有再回應」有 tw-note 支撐。問題在腳註 6 新增的「僅…一句在報導中加引號」與原文不符：報導同段另有「沒有低薪勞工」也加引號，「僅」字是站不住的精確性宣稱。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第 226 / 251 / 298 行"
+    },
+    {
+      "path": "https://udn.com/news/story/6656/9755906",
+      "location": "許宇甄回應段兩處引號短語"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only",
+  "notes": "只需修腳註 6 措辭再過一輪。"
+}

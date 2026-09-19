@@ -1,0 +1,37 @@
+{
+  "revision": 45,
+  "submissionId": "a8f8a5f4-a09a-44e4-b60f-ea6155e99009",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent adb11ff4afcac6875；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "多數反應（不具名廣播人、OTT 起點、「門」重複、兩則策展人筆記、頻道結構歸納）已有機制或限定語支撐，判裁量。三處真問題：表格「2015 年聯意製作（TVBS）」「2023 年十三月單獨掛名」全文查無對應正文或腳註；陳亞蘭段沒交代歌仔戲小生傳統由女性擔綱；「2026 年 40 項打平三年前紀錄」的「紀錄」於 [^60][^64] 無來源，[^64] 標題反稱「創下歷史新高」，用詞需收斂並處理落差。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行81／83 表格 2015 聯意製作、2023 十三月查無正文與腳註——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行125 陳亞蘭段未交代小生行當由女性擔綱——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行202「打平了三年前的紀錄」；[^60] 無「紀錄」、[^64] 標題「歷史新高」矛盾——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行157 不具名廣播人有丁文祺／方笛脈絡——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行99 OTT 起點未承諾第一部作品——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行91／121／212 門的比喻三層次——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行91「這幾次」限定——裁量"
+    }
+  ]
+}

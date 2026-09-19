@@ -1,9 +1,9 @@
 ---
-title: 'Rukai Lily: A Flower Not as Ornament, but as Identity Conferred by the Tribe'
-description: "In Pingtung's Wutai, the lily was once a white flower not everyone could wear: men had to earn warrior status through hunting, while women gained the right to wear it through virtue, marriage, or the flower-pinning ceremony. From noble authorization to the exchange of millet and pork as gifts, to the seven villages reenacting the ritual, what this flower truly preserves is not purity, but the question of who qualifies to be seen by the tribe."
+title: 'The Rukai Lily: A Flower as Identity, Not Decoration'
+description: 'In Wutai, Pingtung, the lily was not a flower everyone could wear: men earned warrior status through hunting, while women obtained wearing rights through virtue, marriage, or authorization rituals. From noble authorization and gift exchanges of millet and pork to the seven villages reinterpreting the ceremony, this flower preserves not purity, but who has the right to be seen by the tribe.'
 date: 2026-08-19
 category: 'Culture'
-tags: ['Rukai', 'lily', 'Indigenous peoples', 'Wutai', 'ritual']
+tags: ['Rukai', 'Lilies', 'Indigenous Peoples', 'Wutai', 'Rituals']
 subcategory: '族群文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -15,122 +15,122 @@ translatedFrom: 'Culture/魯凱族百合花.md'
 sourceCommitSha: '27cda7cd4'
 sourceContentHash: 'sha256:40afb2d50aafb904'
 sourceBodyHash: 'sha256:741df566dca09227'
-translatedAt: '2026-09-15T06:51:23+08:00'
+translatedAt: '2026-09-11T07:53:43+08:00'
 ---
 
-> **30-second overview:** In August 2022, seven villages in Wutai, Pingtung jointly reenacted the lily forehead ornament (dukipi) wearing ceremony. The families of the young women prepared timber, pork, and millet wine as tribute to traditional leaders, then shared the ritual with the village. The lily looks like a flower, but is in fact a system concerning hunting, virtue, class, exchange, and cultural sovereignty. To speak of it again today is not to treat it as a pretty pattern, but to ask: who has the authority to confer identity on a person?
+> **30-Second Overview:** In August 2022, seven villages in Wutai, Pingtung, jointly performed the lily headdress (dukipi) wearing ceremony. The families of young girls prepared timber, pork, and millet wine as offerings to traditional leaders, sharing the ritual and the tribe. The lily appears to be a flower, but in reality, it is a system governing hunting, virtue, hierarchy, exchange, and cultural sovereignty. Discussing it today is not about treating it as a pretty pattern, but asking: Who has the authority to confer identity?
 
-![Formosa lily (Lilium formosanum) white blossom and perianth, Wikimedia Commons freely licensed photo.](https://upload.wikimedia.org/wikipedia/commons/8/87/Lilium_formosanum_4.jpg)
+![Taiwan Lily (*Lilium formosanum*) white flower and tepals, Wikimedia Commons free license photo.](https://upload.wikimedia.org/wikipedia/commons/8/87/Lilium_formosanum_4.jpg)
 
-*Figure 1: Botanical reference image of the Formosa lily (*Lilium formosanum*). This is not a photo of a Rukai ritual scene, but a freely licensed image to help readers identify the plant discussed in the article; author and licensing information at [^9].*
+*Figure 1: Botanical reference image of the Taiwan Lily (*Lilium formosanum*). This is not a photo of a Rukai ritual scene, but a freely licensed image to help readers identify the plant discussed in the article; see [^9] for author and licensing information.*
 
-## A Note on the Flower: It Is Not a "Rukai Style"
+## The Flower First: It Is Not "Rukai Style"
 
-The Rukai are distributed on both sides of the southern Central Mountain Range, including Wutai in Pingtung, Maolin in Kaohsiung, and parts of Taitung. Official sources further divide them into three groups — Eastern Rukai, Western Rukai, and the Lower Three Villages — based on living environment and cultural identity. The languages, social systems, and cultural symbols among the three groups are not entirely identical.[^1]
+The Rukai people are distributed along the southern section of the Central Mountain Range, including Wutai in Pingtung, Maolin in Kaohsiung, and parts of Taitung. Official data further divides them into three groups—Eastern Rukai, Western Rukai, and Lower Three Villages—based on living environment and cultural identity. The languages, social systems, and cultural symbols among these three groups are not entirely identical. [^1]
 
-Therefore, to present the lily as a uniform emblem of the entire people is already to flatten the story. This article follows primarily Wutai and Western Rukai materials; one village's wearing norms cannot define all Rukai villages.
+Therefore, describing the lily as a uniform emblem for the entire tribe flattens the story. This article primarily draws on data from Wutai in Pingtung and Western Rukai; one cannot apply the flower-wearing norms of a single village to define all Rukai tribes.
 
-The National Museum of Natural Science's 2006 exhibition materials record that in the Wutai Rukai language, "lrigu" means "glorious lily," corresponding to the plant _Lilium formosanum_ Wallace. In the cultural context of Wutai villages, the lily is not a white flower beside the natural landscape, but glory renamed by the social system.[^2]
+Exhibition data from the National Museum of Natural Science (2006) records that in the Wutai Rukai language, "lrigu" means "glorious lily," corresponding to the plant Taiwan Lily (_Lilium formosanum_ Wallace). In the cultural context of Wutai village, the lily is not a white flower beside a natural landscape, but a glory redefined by social institutions. [^2]
 
-> **Curator's note:** What is most worth writing about the lily is not that it is "beautiful," but that it makes an abstract identity system visible to readers: the white petals on the forehead, the headdress ornament atop the head, and a ceremony that must be acknowledged by the village.
+> **Curator's Note:** The most noteworthy aspect of the lily is not that it is "beautiful," but that it transforms an abstract identity system into something visible to the reader: the white petals on the forehead, the ornament on the head, and a ritual that must be acknowledged by the tribe.
 
-## Men's Six Boars, Women's Forehead Petals
+## The Male's Six Wild Boars, The Female's White Petals on the Forehead
 
-The Council of Indigenous Peoples' ethnic data describes Rukai society as a class system with fine division of labor. This system exists not only in clothing, but is woven through marriage, politics, religion, ritual, and art. The right to wear lily ornaments matters precisely because it links a person's actions to social honor.[^1]
+The Council of Indigenous Peoples' ethnic data describes Rukai society as a finely divided hierarchical system. This system exists not only in clothing but is also interwoven in marriage, politics, religion, sacrifice, and art. The right to wear lily accessories is important precisely because it connects human action with social honor. [^1]
 
-In the official English ethnic data, for a man to obtain the qualification to bear the lily, he traditionally had to capture six — in some villages five or more — male wild boars, and undergo a commendation or coronation ceremony. The lily therefore symbolizes a man's courage and hunting prowess, not a decoration that can be arbitrarily added.[^5]
+In official English ethnic data, men traditionally had to capture six (or five in some villages) male wild boars to qualify for holding the lily, followed by a conferral or coronation ceremony. Thus, the lily symbolizes male bravery and hunting ability, rather than being an ornament that can be added arbitrarily. [^5]
 
-Women's path differs. The lily symbolizes virtue and purity. For an ordinary woman to wear a lily headdress with identity significance, she must undergo the "kialidrau" lily authorization ceremony. The official English data also specifically notes that true lily ornaments contain pride of Barbados (_Caesalpinia pulcherrima_), and such complete ornaments were originally linked to noble status.[^5]
+The path for women is different. The lily symbolizes virtue and purity. For a general woman to wear a lily headdress with identity significance, she must undergo the "kialidrau" lily authorization ceremony. Official English data also specifically points out that authentic lily ornaments contain peacock flowers (_Caesalpinia pulcherrima_), and such complete ornaments were originally linked to noble status. [^5]
 
-| Wearer | Lily position and symbolism                                               | Context for obtaining qualification                                                                                                                                    |
-| ------ | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Men    | Headdress insert at crown; symbolizes bountiful hunting and warrior honor | Capture five or six male wild boars, and undergo commendation or coronation. Norms may vary by village[^1] [^5]                                                        |
-| Women  | Flattened against forehead. Symbolizes chastity, virtue, and glory        | Obtain through authorization ceremony, marriage, or other life rituals per village norms. Cannot generalize from a single village's norms to the whole people[^4] [^5] |
+| Wearer | Position and Symbolism of the Lily                                             | Context for Qualification                                                                                                                                                            |
+| ------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Men    | Headpiece; symbolizes hunting abundance and warrior honor                      | Capturing five or six male wild boars, followed by conferral or coronation. Different village norms may vary [^1] [^5]                                                               |
+| Women  | Flattened and attached to the forehead. Symbolizes chastity, virtue, and glory | Obtained through authorization ceremonies, marriage, or other life rituals according to village norms. Cannot generalize the whole tribe based on a single village's norms [^4] [^5] |
 
-This difference also reminds us that translating "lily" merely as "tribal flower" is inadequate. The flower's shape is the same, but its social meaning is jointly determined by the wearer, position, ritual, and authorization relationship.
+This difference reminds us that translating "lily" simply as "tribal flower" is insufficient. The shape of the flower is the same, but its social meaning is jointly determined by the wearer, position, ritual, and authorization relationships.
 
-## How a Flower Becomes an Exchange
+## How a Flower Became an Exchange
 
-The National Cultural Memory Bank's entry "Rukai Lily" describes this system concretely: historically the lily was worn mainly by the noble class. Commoners who wished to wear it had to obtain the chief's permission and prepare substantial gifts — millet, betel nut, pork — to obtain the right to wear the flower from the chief. The entry places this process in the life stages of men and women, explaining that it is not buying an ornament, but completing a solemn social ritual.[^3]
+The entry "The Rukai Lily" in the National Palace Museum's National Culture and Memory Bank describes this system concretely: In the past, lilies were mainly worn by the noble class. Commoners had to obtain permission from the chief and prepare heavy gifts such as millet, betel nuts, and pork to gain the qualification to wear the flower. The entry places this process within the stages of male and female growth, explaining that it is not buying an ornament, but completing a solemn social ritual. [^3]
 
-The "buying of the flower" here cannot be understood as modern shop purchasing. Millet, betel nut, and pork are not a commodity list on a receipt, but place family labor, village relations, and the chief's authorization in the same occasion. Gifts are offered, and also shared. Qualification is conferred, and also publicly acknowledged.
+The "buying flowers" here cannot be understood through modern shopping. Millet, betel nuts, and pork are not a commodity list on a receipt; they bring household labor, tribal relationships, and chief authorization into the same occasion. The gifts are offered and shared. The qualification is granted and publicly acknowledged.
 
-The National Museum of Natural Science's exhibition materials likewise note that the right to wear the glory plant headdress must conform to village norms and tribute must be paid to the nobles who hold the power to grant it. In other words, the lily's core is not "whether there is a flower," but "who grants it, when it is granted, and through what relationship it is granted."[^2]
+Exhibition data from the National Museum of Natural Science also points out that the right to wear glory plant headdresses must conform to village norms and involve tribute to nobles who hold the authority to confer. In other words, the core of the lily is not "whether there is a flower," but "who confers, when it is conferred, and through what relationship." [^2]
 
-A 1989 academic study, "Research on the Relationship between Rukai Floral Ornaments and Rituals," focused precisely on the ritual relationships and comparisons of lily ornaments across different cultural distributions. The study centered on the traditional noble class, floral ornament rights, and ritual exchange, rather than treating the headdress as an isolated craft object.[^7]
+A 1989 academic study, "A Study on the Ritual Relationships of Rukai Flower Ornaments and Rituals," focuses on the ritual relationships and comparisons of lily ornaments in different cultural distributions. The study focuses on traditional social noble classes, flower ornament rights, and ritual exchanges, rather than treating headdresses as isolated crafts. [^7]
 
-> **Curator's note:** If the lily is only placed on an "Indigenous totem" display board, readers see a pattern but not power. The real story lies in: how a family, through gifts, labor, and public ritual, exchanges for their child's qualification to be socially recognized.
+> **Curator's Note:** If we only place the lily in an "Indigenous Totem" exhibition panel, readers will see patterns but not power. The true story lies in: how a family exchanges gifts, labor, and public rituals to obtain the qualification for their child to be recognized by society.
 
-## When Commoners Also Want to Approach the Lily
+## When Commoners Also Wish to Approach the Lily
 
-The system has boundaries; life finds outlets. The National Cultural Memory Bank records that Rukai women once cut white cloth into petals and strung them with red thread into forehead ornaments approaching the lily's shape. This was not "counterfeiting" tradition into a cheap version, but a way for people to maintain a relationship with the lily while avoiding clan censure for wearing the lily without authorization.[^3]
+Institutions have boundaries; life finds ways out. The National Culture and Memory Bank records that Rukai women once cut white cloth pieces into petal shapes and strung them with red silk threads to make headdresses resembling lilies. This was not "counterfeiting" tradition into a cheap version, but maintaining a relationship with the lily while avoiding criticism from tribe members for wearing lilies without authorization. [^3]
 
-This detail matters because it keeps "tradition" from being a door that only opens or shuts. People both acknowledge the order of wearing rights and invent new materials and practices within that order. The white cloth and red thread did not erase class difference, but allowed the lily image to enter more people's daily lives and emotions.
+This detail is important because it makes "tradition" no longer like a door that only opens or closes. People acknowledge the order of flower-wearing rights while inventing new materials and practices within that order. White cloth pieces and red silk threads did not eliminate class differences, but allowed the lily imagery to enter the daily lives and emotions of more people.
 
-Here, women are not passive figures awaiting the system's judgment. Through materials, making, and wearing methods, they rearrange their own distance from the lily. The lily still represents virtue and glory, but it does not remain only on noble headdresses; it enters women's practice of family, growth, and collective belonging.
+Here, women are not passive subjects waiting for institutional judgment. Through materials, making, and wearing methods, they rearrange their distance from the lily. The lily still represents virtue and glory, but it is no longer confined to noble headdresses; it also enters women's practices regarding family, growth, and group belonging.
 
-## 2022: Seven Villages Reenact the Ritual for the Next Generation
+## In 2022, Seven Villages Re-performed the Ritual for the Next Generation
 
-On August 12, 2022, Wutai Township held a joint village reenactment of the lily forehead ornament (dukipi) wearing ceremony. Indigenous Television reported that the families of the young women about to wear the lily would prepare timber, slaughtered pork, and millet-brewed wine as tribute to traditional leaders, and also distribute them to villagers.[^4]
+On August 12, 2022, Wutai Township held a tribal performance of the lily headdress (dukipi) wearing ceremony by seven villages. Yuan Shi News reported that the families of young girls about to wear lilies prepared timber, slaughtered pork, and millet wine as offerings to traditional leaders, also distributing them to tribal members. [^4]
 
-This scene holds three layers of meaning. First, the ritual still begins with objects prepared by the family. Second, the objects are not merely handed to a single authorizer, but enter village sharing. Third, the seven villages present their respective customs through reenactment, showing that "the Rukai lily" is not a single stage script for the whole people.
+This scene has three layers of meaning. First, the ritual still begins with objects prepared by the family. Second, the objects are not given to just one authorizer but enter tribal sharing. Third, the seven villages present their respective customs through performance, indicating that "the Rukai lily" is not a single stage script for the whole tribe.
 
-The report also records that men insert the lily at the crown, symbolizing warriors skilled in hunting. Women press the lily flat against the forehead, symbolizing chastity and glory. These positional differences are not aesthetic choices of costume design, but the visualization of identity, gender, and life ritual.[^4]
+The report also records that men place lilies on their heads, symbolizing warriors skilled in hunting. Women flatten lilies against their foreheads, symbolizing chastity and glory. These positional differences are not aesthetic choices of costume design, but visualizations of identity, gender, and life rituals. [^4]
 
-Wutai Township Mayor Du Zheng-ji said in the report: "The right to the lily belongs to the Rukai people; we strive for Rukai intellectual property, so we are not here to perform, we are here to declare."[^4]
+Wutai Township Mayor Du Zhengji stated in the report: "The right to the lily belongs to the Rukai nation. We strive for Rukai intellectual property, so we are not here to perform; we are here to declare." [^4]
 
-This statement pushes the ritual back from "cultural performance" to a rights issue. When the outside world prints the lily on merchandise, stage costumes, or tourism logos, who decides whether it is correctly used? Who can explain what it represents in different villages? Who can refuse a version that flattens village norms?
+This sentence pushes the ritual back from "cultural performance" to issues of rights. When outsiders print lilies on merchandise, stage costumes, or tourism logos, who decides if it is used correctly? Who can explain what it represents in different villages? Who can reject a version that flattens tribal norms?
 
-## From Being Displayed, to Explaining for Themselves
+## From Being Displayed to Self-Explanation
 
-![Formosa lily (Lilium formosanum) single white blossom, Wikimedia Commons freely licensed photo.](https://upload.wikimedia.org/wikipedia/commons/6/6b/Lilium_formosanum_sphl.jpg)
+![Taiwan Lily (*Lilium formosanum*) single white flower, Wikimedia Commons free license photo.](https://upload.wikimedia.org/wikipedia/commons/6/6b/Lilium_formosanum_sphl.jpg)
 
-*Figure 2: Another Formosa lily (*Lilium formosanum*) botanical reference image. Both photos serve only to identify the flower's form; they cannot be taken as images of Rukai wearing rituals or village people; author and licensing information at [^10].*
+*Figure 2: Another botanical reference image of the Taiwan Lily (*Lilium formosanum*). Both photos are used only to identify the flower shape and cannot be treated as images of Rukai flower-wearing rituals or tribal figures; see [^10] for author and licensing information.*
 
-These two images are placed at different positions in the article not to make the text livelier. They are both Wikimedia Commons freely licensed plant photos, first helping readers recognize the Formosa lily's morphology. The true content concerning wearing rights, ritual exchange, and cultural interpretation must still return to village materials, museum records, and clan reporting; it cannot be derived from the plant photos themselves.
+These two photos are placed in different positions in the article not to make the text more lively. They are both freely licensed plant photos from Wikimedia Commons, first helping readers identify the morphology of the Taiwan Lily. The content regarding wearing rights, ritual exchange, and cultural interpretation must still return to tribal data, museum records, and reports from tribe members; it cannot be deduced from the plant photos themselves.
 
-Another Indigenous Television report records that the National Taiwan Museum and the Wutai Rukai Cultural Museum jointly launched the "Kialreba Return to Wutai" special exhibition, displaying over a hundred Rukai artifacts and extending the lily's six petals into six exhibition zones. The National Taiwan Museum and NTU Museum of Anthropology also entered the village for fieldwork and invited clanspeople to co-create; the report describes this as a curatorial approach returning cultural interpretation rights to the village.[^6]
+Another Yuan Shi News report records that the National Taiwan Museum and the Wutai Rukai Cultural Museum jointly launched the _Kialreba Returns to Wutai_ special exhibition, displaying over a hundred Rukai collections and extending six exhibition areas based on the six-petal imagery of the lily. The Taiwan Museum and the Anthropology Museum of National Taiwan University also entered tribal fieldwork, inviting tribe members to co-create. The report describes this as a curatorial method that returns cultural interpretation rights to the tribe. [^6]
 
-This shift is more concrete than "the exhibition respects Indigenous people more": researchers do not merely bring objects back to the museum; the museum must also address who can explain the objects, who decides the narrative, and whether the Indigenous language can appear in the exhibition space. The lily thus transforms from a headdress into a curatorial method's test question.
+This shift is more concrete than "exhibitions are more respectful to indigenous peoples": Researchers do not just bring objects back to the museum; the museum must also handle who can explain the objects, who can decide the narrative, and whether indigenous languages can appear in the exhibition space. The lily thus becomes a test question for curatorial methods.
 
-The National Archives Administration, Taiwan Historica's 2026 activity review records that the lily wearing ceremony has undergone village relocation, religious conversion, and modernization, yet has not disappeared; rather, it continues to be reinterpreted and transmitted by clanspeople. It has also become an important symbol for clanspeople to cohere identity and discuss cultural subjectivity.[^8]
+The National Archives of ROC Taiwan Literature's 2026 activity review records that the lily wearing ceremony, despite village relocation, the introduction of religion, and modernization, did not disappear but continued to be reinterpreted and inherited by tribe members. It has also become an important symbol for tribe members to凝聚 identity and discuss cultural subjectivity. [^8]
 
-This is not to say "leaving the village makes it unreal," but to clarify the transition. Rights originally jointly acknowledged by chiefs, families, and villages, when moved to museums or stages, may become symbols for audiences to view. Only by letting village people participate in research, naming, and narrative does this symbol have a chance to return to living cultural relations.
+This does not mean "leaving the tribe makes one not real," but rather clarifying the transformation. Rights originally acknowledged jointly by chiefs, families, and tribes may, in museums or on stages, become symbols for audience viewing. Only by having tribal members participate in research, naming, and narrative can this symbol return to living cultural relationships.
 
-## The Flower Remains, the Rules Must Also Remain
+## The Flower Remains, The Rules Must Also Remain
 
-The Rukai lily is most easily misunderstood because it looks too suited to simplification: white, pure, glorious, tribal flower. But if these words are not connected to the hunted boars, the forehead petals, the gifts of millet and pork, the chief's authorization, and the seven villages' different rituals, only adjectives for a tourism brochure remain.
+The most easily misunderstood aspect of the Rukai lily is that it looks too suitable for simplification: white, pure, glorious, tribal flower. But these words, without connecting to the wild boars of hunting, the petals on the forehead, the gifts of millet and pork, the chief's authorization, and the different rituals of seven villages, remain only as adjectives in a tourism brochure.
 
-A more accurate statement is: the lily makes Rukai social relations visible. Men prove warrior qualification through hunting; women obtain wearing rights in the context of life ritual and virtue; families complete exchange through food and objects; villages acknowledge identity through public ritual. And contemporary clanspeople, through reenactment, exhibition, and intellectual property registration, reclaim the right to cultural explanation.[^1] [^4] [^6]
+A more accurate statement is: The lily transforms Rukai social relationships into visible forms. Men prove warrior status through hunting; women obtain wearing rights in the context of life rituals and virtue; families complete exchanges with food and objects; the tribe acknowledges identity through public rituals. Contemporary tribe members also re-strive for cultural explanation rights through performance, exhibitions, and intellectual property registration. [^1] [^4] [^6]
 
-Therefore, the Rukai article corresponding to this August 19 establishment date should no longer be written as "The Rukai have beautiful lilies." What is truly worth preserving is another sentence: **The Rukai lily is not wearing identity on the head, but entrusting identity to the village for joint acknowledgment.**
+Therefore, the Rukai article corresponding to the August 19 establishment date should no longer be written as "The Rukai have beautiful lilies." What is truly worth leaving is another sentence: **The Rukai lily does not put identity on the head; it entrusts identity to the tribe for joint acknowledgment.**
 
-The next time readers see a lily pattern, they can ask one step further: Who made this? Who is explaining it? Does it preserve the original ritual and authorization relations? A flower's life has never been only on its petals, but also on those still willing to prepare millet, pork, wine, and stories for it.
+When readers next see a lily pattern, they can ask one step further: Who made this? Who is explaining it? Does it preserve the original ritual and authorization relationships? The life of a flower is never just on the petals, but also in those who are still willing to prepare millet, pork, wine, and stories for it.
 
 ## Further Reading
 
 [Council of Indigenous Peoples: Rukai](https://www.cip.gov.tw/zh-tw/tribe/grid-list/409F703B4E592A82D0636733C6861689/info.html?cumid=8F19BF08AE220D65)
 
-[National Museum of Natural Science: "Lrigu" Lily — Wutai Rukai Plant Headdress Special Exhibition](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/)
+[National Museum of Natural Science: "Lrigu" Lily - Rukai Wutai Village Plant Headdress Special Exhibition](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/)
 
 ## References
 
-[^1]: [Council of Indigenous Peoples: Rukai](https://www.cip.gov.tw/zh-tw/tribe/grid-list/409F703B4E592A82D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Official government ethnic introduction, explaining the Rukai three-group distribution, social class, millet and hunting life, and the cultural significance of lily ornament wearing rights.
+[^1]: [Council of Indigenous Peoples: Rukai](https://www.cip.gov.tw/zh-tw/tribe/grid-list/409F703B4E592A82D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Government official ethnic introduction, describing the distribution of the three Rukai groups, social hierarchy, millet and hunting life, and the cultural significance of lily ornament rights.
 
-[^2]: [National Museum of Natural Science: "Lrigu" Lily — Wutai Rukai Plant Headdress Special Exhibition](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/) — Museum exhibition page recording the Rukai meaning of "lrigu," the Formosa lily's scientific name, male and female wearing symbolism, and village norms for obtaining headdress rights.
+[^2]: [National Museum of Natural Science: "Lrigu" Lily - Rukai Wutai Village Plant Headdress Special Exhibition](https://www.nmns.edu.tw/ch/exhibitions/special-exhibitions/Exhibition-000218/) — Museum exhibition page, recording the Rukai meaning of "Lrigu," the scientific name of the Taiwan Lily, male and female wearing symbolism, and village norms for obtaining headdress rights.
 
-[^3]: [National Cultural Memory Bank: Rukai Lily](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=270492) — Cultural memory entry archived by the National Taitung Living Art Center, recording noble wearing, chief authorization, gift exchange, and cloth-made lily substitute headdress descriptions.
+[^3]: [National Culture and Memory Bank: The Rukai Lily](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=270492) — Cultural memory entry archived by the National Taitung Museum of Arts, recording descriptions of noble wearing, chief authorization, gift exchange, and cloth lily alternative headdresses.
 
-[^4]: [Indigenous Television: Wutai 7 Villages Reenact Lily Forehead Ornament Wearing, Apply for Traditional Intellectual Property Registration](https://news.ipcf.org.tw/46753) — 2022 news report recording the seven villages' wearing reenactment, family-prepared gifts, male and female wearing positions, and traditional intellectual property registration action.
+[^4]: [Yuan Shi News Network: Wutai 7 Villages Perform Lily Headdress Wearing, Apply for Intellectual Property Registration](https://news.ipcf.org.tw/46753) — 2022 news report, recording the flower-wearing performance of seven villages, gifts prepared by families, male and female wearing positions, and traditional intellectual property registration actions.
 
-[^5]: [Council of Indigenous Peoples: Rukai](https://www.cip.gov.tw/en/tribe/grid-list/A1076DE2F8CB0091D0636733C6861689/info.html?cumid=D0636733C6861689) — Council of Indigenous Peoples English ethnic data, specifically explaining men's hunting qualifications, women's lily authorization ceremony, noble-exclusive ornaments, and main crops.
+[^5]: [Council of Indigenous Peoples: Rukai](https://www.cip.gov.tw/en/tribe/grid-list/A1076DE2F8CB0091D0636733C6861689/info.html?cumid=D0636733C6861689) — Official English ethnic data of the Council of Indigenous Peoples, specifically describing male hunting qualifications, female lily authorization ceremonies, noble-exclusive ornaments, and major crops.
 
-[^6]: [Indigenous Television: Entering the Wutai Lily World — Rukai Treasures Exhibited at National Taiwan Museum](https://news.ipcf.org.tw/83418) — 2023 exhibition report explaining the National Taiwan Museum, NTU Museum of Anthropology, and Wutai Rukai Cultural Museum's joint curation, fieldwork, and village co-creation.
+[^6]: [Yuan Shi News Network: Entering the Wutai Lily World, Rukai Treasures Exhibited at Taiwan Museum](https://news.ipcf.org.tw/83418) — 2023 exhibition report, describing the joint curation of the National Taiwan Museum, Anthropology Museum of National Taiwan University, and Wutai Rukai Cultural Museum, fieldwork, and tribal co-creation.
 
-[^7]: [Hsu Kung-ming: Research on the Relationship between Rukai Floral Ornaments and Rituals — Distribution and Comparison of Lily Ornament Culture](https://libknowledge.nmns.edu.tw/nmns/upload/bulletin/000000009/209000c/198909-213.pdf) — Research article collected in the National Museum of Natural Science academic journal, focusing on traditional class, lily ornament rights, ritual process, and social interaction caused by ritual exchange.
+[^7]: [Hsu Kung-ming: A Study on the Ritual Relationships of Rukai Flower Ornaments and Rituals - Distribution and Comparison of Lily Ornament Culture](https://libknowledge.nmns.edu.tw/nmns/upload/bulletin/000000009/209000c/198909-213.pdf) — Research article included in the National Museum of Natural Science academic journal, focusing on traditional hierarchy, lily ornament rights, ritual processes, and social interactions caused by ritual exchange.
 
-[^8]: [National Archives Administration, Taiwan Historica: Lily in Bloom: The Transformation and Continuity of the Rukai Lily Wearing Ceremony](https://www.th.gov.tw/News_Content/35/10114/) — 2026 activity review organizing the lily wearing ceremony's class, gender, gift exchange, wearing quantity, and modern transmission context.
+[^8]: [National Archives of ROC Taiwan Literature: Lily Blooming: Changes and Continuity of the Rukai Lily Wearing Ceremony](https://www.th.gov.tw/News_Content/35/10114/) — 2026 activity review, organizing the hierarchy, gender, gift exchange, wearing quantity, and modern inheritance context of the lily wearing ceremony.
 
-[^9]: [Wikimedia Commons: File:Lilium formosanum 4.jpg](https://commons.wikimedia.org/wiki/File:Lilium_formosanum_4.jpg) — Author Uleli; original file under CC BY-SA 3.0 Unported. Image hotlink `https://upload.wikimedia.org/wikipedia/commons/8/87/Lilium_formosanum_4.jpg`; this article did not download, crop, or modify.
+[^9]: [Wikimedia Commons: File:Lilium formosanum 4.jpg](https://commons.wikimedia.org/wiki/File:Lilium_formosanum_4.jpg) — Author Uleli; original file uses CC BY-SA 3.0 Unported. Image hotlink is `https://upload.wikimedia.org/wikipedia/commons/8/87/Lilium_formosanum_4.jpg``, not downloaded, cropped, or modified by this article.
 
-[^10]: [Wikimedia Commons: File:Lilium formosanum sphl.jpg](https://commons.wikimedia.org/wiki/File:Lilium_formosanum_sphl.jpg) — Author Sphl; original file under CC BY-SA 3.0 Unported. Image hotlink `https://upload.wikimedia.org/wikipedia/commons/6/6b/Lilium_formosanum_sphl.jpg`; this article did not download, crop, or modify.
+[^10]: [Wikimedia Commons: File:Lilium formosanum sphl.jpg](https://commons.wikimedia.org/wiki/File:Lilium_formosanum_sphl.jpg) — Author Sphl; original file uses CC BY-SA 3.0 Unported. Image hotlink is `https://upload.wikimedia.org/wikipedia/commons/6/6b/Lilium_formosanum_sphl.jpg``, not downloaded, cropped, or modified by this article.

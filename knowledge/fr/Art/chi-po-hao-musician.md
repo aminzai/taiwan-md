@@ -50,7 +50,7 @@ Le public entre dans l’espace, sort son téléphone, scanne un QR Code, ouvre 
 
 La notice de l’œuvre écrit :
 
-> « 本作品的靈感源於 2000 年思科（Cisco）公司廣為人知的商業廣告『賦權互聯網世代』。當時，廣告中不同族裔的孩童不斷詢問：『你準備好了嗎』，傳遞出對高度互聯與全球化的美好願景。時至今日，語音助理應用表面上實現了跨國界的承諾，但這些合成聲音也逐漸從新奇走向日常，成為一種『慣習媒介』，並徘徊在過時的邊緣。」[^5]
+> « Cette œuvre s’inspire de la célèbre publicité de Cisco de l’an 2000, “Empowering the Internet Generation”. On y voyait des enfants de différentes origines demander sans relâche : “Es-tu prêt ?”, portant une vision radieuse d’un monde hyperconnecté et globalisé. Aujourd’hui, les assistants vocaux tiennent en apparence cette promesse de franchir les frontières, mais ces voix de synthèse sont passées de la nouveauté au quotidien : devenues un “médium d’habitude”, elles rôdent déjà au bord de l’obsolescence. »[^5]
 
 Lue en 2025, cette déclaration ne conserve aucune trace de l’optimisme technologique des années 2000. Siri, Alexa, Google Assistant, le mode vocal de ChatGPT : la voix synthétique est passée de nouveauté inquiétante à bruit de fond, et nous avons cessé de l’écouter. La réponse de Chi Po-Hao n’est pas un commentaire, mais une installation : faire apparaître collectivement, sur plusieurs téléphones, une voix synthétisée, puis la laisser se désaligner et se désagréger, afin de contraindre les personnes présentes à **réécouter** ce qu’est précisément cette voix.
 
@@ -68,7 +68,7 @@ Qu’a-t-il fait durant sa résidence à V2 ? L’œuvre s’intitule Rhythm of 
 
 Lorsqu’en 2017 la revue en ligne de la National Culture and Arts Foundation l’interroge, il cite une phrase du compositeur canadien R. Murray Schafer :
 
-> « 我們的耳朵沒有蓋子，注定會一直聽著；但這並不表示，我們有一雙開放的耳朵。」[^9]
+> « Nos oreilles n’ont pas de paupières : elles sont condamnées à toujours entendre. Cela ne veut pas dire pour autant que nous ayons une paire d’oreilles ouvertes. »[^9]
 
 Cette phrase explique pourquoi l’ensemble de son parcours ultérieur paraît dispersé tout en demeurant en réalité cohérent : des arrangements au synthétiseur pour Hello Nico aux installations sonores en résidence à V2, de la spatialisation du son aux œuvres web de voix par IA, il ne fait qu’une seule chose : écarter l’un de l’autre **« hear »** (la réception physiologique du son) et **« listen »** (la volonté active d’écouter), afin que chacun puisse choisir à nouveau.
 
@@ -150,7 +150,7 @@ Si l’on replace cela dans le contexte de ses dix années de travail ultérieur
 
 En 2017, dans un entretien avec la National Culture and Arts Foundation, il prononce une phrase souvent citée :
 
-> « 不是不創作就會死。」[^9]
+> « Ce n’est pas que je mourrais si je ne créais pas. »[^9]
 
 Dans la bouche de quelqu’un diplômé d’économie, titulaire de deux masters internationaux, lauréat du premier prix en arts visuels du MIT, fort de plus de dix résidences internationales et propriétaire de sa propre société, cette phrase sonne presque paradoxale, car ce parcours ressemble très fortement à celui d’une personne qui a fait de la création sa vocation. Mais, dans le même entretien, il ajoute : « 我的作品很少有我自己的影子。 »[^9]
 

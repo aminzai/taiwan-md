@@ -1,0 +1,17 @@
+{
+  "revision": 16,
+  "submissionId": "09e611e5-f58a-45b5-9d40-31264675eada",
+  "actor": "orient 站具名評閱編輯（Sonnet，Agent ac91ee8614f87100c，乾淨 context 第五次提交覆核；contextDisclosure: fresh-context-inputs-and-prior-reviews）",
+  "verdict": "accept",
+  "rationale": "讀者問題／主題說明／三角度／未知清單皆與 §1 逐項對得上；三個角度的可推翻語句未越界成因果斷言，與第四輪 accept 的 §10 反向閥門裁決一致。殘留非阻斷點：標題與 organizing_axis 仍用「把螢幕交到不同人手上」，Stage 2 落筆前應對齊。git diff 確認本次僅 revision/actor 欄位變動，內容零差異。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "§1 Spine 判定／支線一二三／歷史脈絡"
+    },
+    {
+      "path": "reports/staging/golden-bell/orient-submission.json",
+      "location": "data.candidateAngles／uncertainties"
+    }
+  ]
+}

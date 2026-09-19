@@ -1,18 +1,18 @@
 ---
-title: 'Dua Pedang Dayu: Sore Itu Kau Menangis di Jendela DOS'
-description: 'Pada Juli 1995, sebuah game DOS dengan resolusi 320x200 membuat jutaan pemain menangis untuk pertama kalinya karena karakter virtual. Xian Jian Qixia Chuan dan Xuanyuan Jian, dua pedang yang ditempa di Neihu, Taipei, mendefinisikan imajinasi seluruh dunia berbahasa Tionghoa tentang "apa itu RPG".'
+title: 'Dua Pedang Softstar: Sore Itu Kamu Menangis di Jendela DOS'
+description: 'Juli 1995, permainan DOS beresolusi 320×200 membuat jutaan pemain menangis karena karakter virtual untuk pertama kalinya. Chinese Paladin (仙劍奇俠傳) dan Xuan Yuan Sword (軒轅劍), dua pedang yang ditempa dari Neihu, Taipei, mendefinisikan apa yang dipikirkan seluruh dunia Tionghoa tentang "RPG bisa menjadi apa".'
 date: 2026-04-23
 category: 'Technology'
 tags:
   [
-    'Xian Jian Qixia Chuan',
-    'Xuanyuan Jian',
-    'Dayu Information',
+    'Chinese Paladin',
+    'Xuan Yuan Sword',
+    'Softstar Entertainment',
     'RPG',
     'Yao Zhuangxian',
-    'Tsai Minghong',
+    'Tsai Ming-hong',
     'DOMO',
-    'Game Taiwan',
+    'Taiwan game industry',
   ]
 subcategory: '社群與數位文化'
 author: 'zaious'
@@ -24,102 +24,107 @@ image: '/article-images/technology/guanghua-computer-market-2007.webp'
 imageCredit: 'pacificmorningpost (Flickr)'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg'
+imageAlt: 'Pasar Komputer Guanghua tahun 2007, jantung industri informasi Taiwan pada 1990-an, dengan toko perangkat lunak / stan komponen / pameran manual teknis tersebar di lantai bawah. Pengembang game mencari materi teknis di sini.'
 sporeLinks:
-  [
-    "{'id': 92, 'platform': 'threads', 'date': '2026-05-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DYzFoZxk7GN'}",
-    "{'id': 94, 'platform': 'x', 'date': '2026-05-26', 'url': 'https://x.com/taiwandotmd/status/2059239795231281223'}",
-  ]
+  - id: 92
+    platform: 'threads'
+    date: '2026-05-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYzFoZxk7GN'
+  - id: 94
+    platform: 'x'
+    date: '2026-05-26'
+    url: 'https://x.com/taiwandotmd/status/2059239795231281223'
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'
 sourceBodyHash: 'sha256:6aa8eb64a1458368'
-translatedAt: '2026-09-16T11:57:33+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Pada tahun 1990, sekelompok mahasiswa berkumpul di pusat perbelanjaan Guanghua mencari manual teknis, bergantian menggunakan satu komputer untuk membuat RPG Wuxia berbahasa Tionghoa pertama, _Xuanyuan Jian_. Lima tahun kemudian, seorang pemuda berusia 26 tahun menuliskan perasaan patah hati ke dalam akhir cerita _Xian Jian Qixia Chuan_, yang terjual sepuluh ribu eksemplar pada hari pertama. Kedua game ini kemudian dijuluki "Dua Pedang Dayu," melintasi tiga dekade dengan adaptasi serial TV dan film, total penjualan melebihi satu juta eksemplar. Pada September 2024, Dayu menjual IP Dua Pedang seharga 500 juta TWD; pada Juni 2025, IP Xuanyuan Jian berpindah tangan dari Huandong ke Chengdu Xingyue Chenshi; dan pada 3 November 2025, entitas utama Dayu berganti nama menjadi "Star Fusion Group," dengan porsi semikonduktor sebesar 65%. Namun bagi seluruh generasi pemain, sore hari ketika mereka menangis untuk pertama kalinya di depan jendela DOS tidak bisa dijual.
-
----
-
-## Para Pemuda di Pusat Perbelanjaan Guanghua
-
-![Pusat Perbelanjaan Guanghua pada tahun 1990-an adalah jantung industri informasi Taiwan; toko perangkat lunak / kios komponen / toko manual teknis tersebar lebat di lantai bawah, tempat para pembuat game mencari materi teknis](/article-images/technology/guanghua-computer-market-2007.webp)
-_Foto diambil dari Taipei Guanghua Mall pada tahun 2007. Jantung industri informasi Taiwan pada tahun 1990-an. Foto: pacificmorningpost via Flickr. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg)._
-
-Pada Oktober 1990, di Taipei. Sebuah game bernama _Xuanyuan Jian_ muncul di rak toko perangkat lunak.
-
-Pembuatnya, Tsai Minghong (蔡明宏), saat itu masih seorang mahasiswa. Ia mengumpulkan beberapa teman dan rekan yang tertarik pada game tersebut, "bahkan tetangga sebelah pun diajak untuk berpartisipasi dalam pengembangan." Kelompok awal ini kemudian diberi nama: Tim DOMO.[^1]
-
-Itu adalah era di mana segalanya harus dilakukan sendiri. "Apa pun yang kami buat dalam game, kami harus mencari cara sendiri untuk mencoba dan meneliti; bagaimana mengontrol mouse, bagaimana mengontrol keyboard, bagaimana menangani resolusi, semuanya harus kami pecahkan sendiri," kenang Tsai Minghong tentang proses pengembangan. Ia sering berjongkok di pusat perbelanjaan Guanghua mencari materi teknis, dengan tim pengembang berbagi satu komputer. (Dikutip dari wawancara majalah Mirror Weekly)[^2]
-
-Pemikiran Tsai Minghong sangat sederhana: "Budaya Tionghoa selama 5000 tahun memiliki banyak cerita hebat; jika itu bisa dijadikan dasar untuk game, pasti akan lebih menarik." Di era ketika _Final Fantasy_ dan _Dragon Quest_ mendominasi pasar RPG, berbicara tentang mitologi mereka sendiri dalam bahasa Tionghoa adalah sebuah deklarasi.
-
-Visual _Xuanyuan Jian_ kasar dan pengoperasiannya canggung, tetapi itu adalah game peran berbahasa Tionghoa pertama dalam sejarah.[^3] Sebuah pedang ditempa dari tumpukan buku di pusat perbelanjaan Guanghua.
+> **Ulasan 30 Detik:** Tahun 1990, sekelompok mahasiswa bertemu di Pasar Komputer Guanghua mencari manual teknis, berbagi satu komputer, dan membuat _Xuan Yuan Sword_, RPG wushu berbahasa Tionghoa pertama. Lima tahun kemudian, seorang pemuda berusia 26 tahun menulis patah hatinya ke dalam ending _Chinese Paladin_, terjual 10.000 salinan pada hari pertama. Kedua game ini kemudian disebut "Dua Pedang Softstar", mencakup tiga puluh tahun, bercabang menjadi serial TV dan film, dengan penjualan kumulatif melebihi satu juta unit. September 2024, Softstar menjual IP Dua Pedang dengan 500 juta dollar Taiwan; Juni 2025 IP _Xuan Yuan Sword_ berpindah dari Happyforce ke Chengdu Star Yuechen Stone; 3 November 2025, Softstar berganti nama menjadi "Star Fusion Group (光聚晶電聯合)", dengan chip semikonduktor mencapai 65%. Namun bagi seluruh generasi pemain, sore itu ketika pertama kali menangis di depan jendela DOS tidak bisa dijual.
 
 ---
 
-## Orang yang Menuliskan Patah Hati ke Dalam Akhir Cerita
+## Remaja di Pasar Komputer Guanghua
 
-![Sampul halaman Steam Xian Jian Qixia Chuan, dirilis oleh SOFTSTAR ENTERTAINMENT dengan lisensi Dayu; versi remake 2021 masih mempertahankan estetika asli tahun 1995 dan karakter Li Xiaoyao serta Zhao Ling'er](/article-images/technology/softstar-sword-and-fairy.webp)
-_Sampul halaman Steam Xian Jian Qixia Chuan, diterbitkan sendiri oleh SOFTSTAR dengan lisensi Dayu. Foto: Toko resmi Steam SOFTSTAR ENTERTAINMENT, dikutip sebagai komentar dokumenter sejarah IP 30 tahun (penggunaan wajar editorial)._
+![Pasar Komputer Guanghua tahun 1990-an adalah jantung industri informasi Taiwan, dengan toko perangkat lunak / stan komponen / pameran manual teknis tersebar di lantai bawah. Pengembang game mencari materi teknis di sini.](/article-images/technology/guanghua-computer-market-2007.webp)
+_Pasar Komputer Guanghua, Taipei, difoto tahun 2007. Jantung industri informasi Taiwan pada 1990-an. Photo: pacificmorningpost via Flickr. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg)._
 
-Lima tahun kemudian, pedang kedua terhunus.
+Oktober 1990, Taipei. Sebuah game bernama _Xuan Yuan Sword_ muncul di rak toko perangkat lunak.
 
-Pada 7 Juli 1995, _Xian Jian Qixia Chuan_ diluncurkan di Taiwan. Dengan resolusi 320x200, visual 256 warna, dan ruang instalasi 28MB. Produser Yao Zhuangxian (姚壯憲) saat itu berusia 26 tahun, memimpin "Kelompok Kreatif Kuangtu" di bawah Dayu Information.[^4]
+Pembuat Tsai Ming-hong saat itu masih mahasiswa, mengumpulkan beberapa teman yang tertarik pada game, "bahkan tetangga sebelah pun diajak berpartisipasi dalam pengembangan". Tim yang baru lahir ini kemudian memiliki sebuah nama: Kelompok DOMO. [^1]
 
-Yao Zhuangxian telah mulai merancang dunia _Xian Jian_ sejak mengembangkan _Mahjong Tycoon 2_ pada tahun 1991. Awalnya, itu adalah wuxia sejarah dengan latar belakang Kerusuhan An Lushan, tetapi naskah terus berkembang dan diubah berkali-kali, sehingga latar belakang sejarah dihapus, menyisakan sesuatu yang lebih berbahaya: kemanusiaan.[^5]
+Itu adalah era ketika harus mengurus segalanya sendiri. "Membuat game apa pun harus mencoba sendiri, meneliti sendiri—bagaimana mengontrol mouse, mengontrol keyboard, bagaimana menangani resolusi, semuanya harus dicari sendiri," Tsai Ming-hong bercerita tentang proses pengembangan. Dia akan berjongkok di Pasar Komputer Guanghua mencari materi teknis, dan tim pengembang berbagi satu komputer. (Kutipan dari wawancara Mirror Media) [^2]
 
-Akhir cerita game memicu perdebatan sengit di antara tim pengembang. Yao Zhuangxian bersikeras bahwa protagonis wanita Zhao Ling'er harus mati. Perencana Xie Chonghui (謝崇輝) dan seniman Lin Jiawen (林珈汶) menentangnya. Akhirnya, Ling'er mengorbankan dirinya bersama monster air menggunakan kekuatan klan Nuwa, sementara Li Xiaoyao yang tiba di puncak Menara Penyihir hanya bisa melihat Tongkat Ular Langit melayang perlahan dari langit; ditambah dengan Lin Yueru (林月如) yang meninggal dalam pelukannya saat menara runtuh sebelumnya, akhir tragis kedua protagonis ini menjadi salah satu adegan paling ikonik dalam seri Xian Jian.[^6]
+Pemikiran Tsai Ming-hong sangat sederhana: "Budaya Tionghoa memiliki 5.000 tahun cerita-cerita luar biasa, jika bisa dijadikan fondasi game, pasti akan lebih engaging untuk dimainkan." Di era ketika _Final Fantasy_ dan _Dragon Quest_ mendominasi pasar RPG, menceritakan mitologi sendiri dengan bahasa Tionghoa adalah sebuah pernyataan.
 
-Di internet beredar rumor bahwa Yao Zhuangxian menulis akhir cerita itu karena patah hati. Ia berkali-kali mengklarifikasi bahwa ia tidak patah hati selama pengembangan, tetapi mengakui bahwa prototipe Zhao Ling'er berasal dari teman sekelasnya di universitas.[^7] Terlepas dari kebenarannya, akhir cerita itu menyentuh hati jutaan orang.
+Kualitas grafis _Xuan Yuan Sword_ kasar, kontrol canggung, tetapi ini adalah game role-playing berbahasa Tionghoa pertama di sejarah. [^3] Satu pedang, ditempa dari tumpukan buku di Pasar Komputer Guanghua.
 
-Penjualan hari pertama mencapai sepuluh ribu eksemplar yang terjual habis. Total penjualan semua versi melebihi satu juta eksemplar. Dalam pemungutan suara pemain majalah _Popular Software_ di Tiongkok, Xian Jian secara berturut-turut menempati tiga besar selama enam tahun.[^8]
+---
+
+## Orang yang Menuliskan Patah Hati ke Dalam Ending
+
+![Sampul halaman Steam Chinese Paladin, Softstar berlisensi dari Softstar Entertainment dan menerbitkan sendiri. Versi remaster Steam 2021 tetap mempertahankan definisi seni asli 1995 dan gambar karakter Li Xiaoyao dan Zhao Ling-er.](/article-images/technology/softstar-sword-and-fairy.webp)
+_Sampul halaman Steam *Chinese Paladin*, Softstar berlisensi dari *Softstar Entertainment* dan menerbitkan sendiri. Photo: gambar resmi toko Steam *Softstar Entertainment*, dikutip sebagai komentar editorial yang fair use untuk retrospektif IP 30 tahun. (公評性質引用)_
+
+Lima tahun kemudian, pedang kedua keluar dari sarungnya.
+
+7 Juli 1995, _Chinese Paladin_ diluncurkan di Taiwan, resolusi 320×200, 256-warna, ruang instalasi 28MB. Produser Yao Zhuangxian saat itu berusia 26 tahun, memimpin "Kelompok Kreator Pemberani (狂徒創作群)" di bawah Softstar Entertainment. [^4]
+
+Yao Zhuangxian telah mulai merencanakan dunia _Chinese Paladin_ sejak 1991 saat mengembangkan _Dou Di Zhu 2_. Konsep awal adalah latar belakang sejarah pemberontakan An-Shi, tetapi cerita semakin membesar, diubah berkali-kali, akhirnya latar belakang sejarah dibuang, meninggalkan sesuatu yang lebih berbahaya: sifat manusia. [^5]
+
+Ending game memicu pertengkaran sengit dalam tim pengembang. Yao Zhuangxian bersikeras karakter utama perempuan Zhao Ling-er harus mati. Planner Xie Conghuai dan art director Lin Jiaven menentang. Akhirnya Ling-er dengan kekuatan suku Nüwa hancur bersama-sama dengan Water Demon Beast, Li Xiaoyao tiba di puncak Pagoda Terkunci hanya untuk melihat Devil Snake Staff perlahan jatuh dari langit; ditambah Lin Yueru yang meninggal lebih awal di pelukannya saat Pagoda Terkunci runtuh, ending tragis dua karakter utama perempuan menjadi adegan paling ikonik dari seri _Chinese Paladin_. [^6]
+
+Di internet beredar kisah bahwa Yao Zhuangxian menulis ending ini karena patah hati. Dia kemudian berkali-kali klarifikasi bahwa dia tidak sedang patah hati selama pengembangan, tapi mengakui bahwa prototype Zhao Ling-er berasal dari teman sekelas perempuan di masa kuliahnya. [^7] Tidak peduli siapa yang benar, ending itu menyentuh hati jutaan orang.
+
+Penjualan hari pertama: 10.000 salinan terjual habis. Penjualan kumulatif semua versi melebihi satu juta unit. Dalam jajak pendapat pemain di majalah _Popular Software_ China, _Chinese Paladin_ secara konsisten menempati tiga besar selama enam tahun berturut-turut. [^8]
 
 > **📝 Catatan Kurator**
-> Pada tahun 1995, Windows 95 baru saja diluncurkan di Taiwan, dan sebagian besar komputer rumah tangga masih menjalankan DOS. Di era tanpa Steam atau siaran langsung YouTube, reputasi sebuah game hanya menyebar melalui satu hal: orang yang memainkannya memberi tahu orang yang belum memainkannya, "Kau harus memainkannya." Xian Jian menyebar dengan cara seperti itu.
+> Tahun 1995 di Taiwan, Windows 95 baru saja diluncurkan, kebanyakan rumah tangga masih menjalankan komputer DOS. Di era tanpa Steam, tanpa streaming YouTube, reputasi game hanya bergantung pada satu hal: orang yang sudah selesai bermain menceritakan kepada orang yang belum bermain "kamu harus memainkan ini". _Chinese Paladin_ menyebar dengan cara itu.
 
 ---
 
 ## Dua Pedang, Dua Jalan
 
-![Sampul halaman Steam Xuanyuan Jian Qi, dirilis oleh Tim DOMO Dayu pada tahun 2020; disebut sebagai game 3A generasi kedua pertama di pasar berbahasa Tionghoa, tetapi kinerja komersial yang buruk menjadi salah satu alasan utama penjualan IP Dua Pedang oleh Dayu pada tahun 2024](/article-images/technology/softstar-xuan-yuan-sword-7.webp)
-_Sampul halaman Steam Xuanyuan Jian Qi (2020), dibuat oleh Tim DOMO Dayu. Foto: Toko resmi Steam SOFTSTAR ENTERTAINMENT, komentar wajar editorial tentang sejarah IP 30 tahun._
+![Sampul halaman Steam Xuan Yuan Sword VII, 2020 diproduksi oleh Kelompok DOMO Softstar. Disebut game 3A mesin generasi berikutnya pertama di pasar berbahasa Tionghoa, tetapi kinerja komersial buruk menjadi salah satu alasan utama penjualan Dua Pedang IP Softstar 2024.](/article-images/technology/softstar-xuan-yuan-sword-7.webp)
+_Sampul halaman Steam *Xuan Yuan Sword VII* (2020), diproduksi oleh Kelompok DOMO Softstar. Photo: gambar resmi toko Steam *Softstar Entertainment*, fair use editorial commentary pada retrospektif IP 30 tahun._
 
-Baik Xian Jian maupun Xuanyuan Jian ditempa di Dayu Information, tetapi jalan yang mereka tempuh sangat berbeda.
+_Chinese Paladin_ dan _Xuan Yuan Sword_ sama-sama lahir dari Softstar Entertainment, tetapi mereka mengambil jalan yang sepenuhnya berbeda.
 
-**Xuanyuan Jian mengikuti sejarah.** Tim DOMO Tsai Minghong merajut mitologi Tionghoa dengan sejarah nyata. _Xuanyuan Jian San: Beyond Yunhe Mountain_ pada tahun 1999 memindahkan cerita ke Jalur Sutra antara Dinasti Tang dan Eropa, di mana pemain mengendalikan pendekar muda Sait yang melakukan perjalanan timur dari Kerajaan Franka melintasi Kekaisaran Arab hingga mencapai Dinasti Tang — perspektifnya adalah melihat Tiongkok dari Eropa, bukan sebaliknya. Sekuel _Tian Zhi Hen_ pada tahun 2000 mengambil latar akhir Sui dan awal Tang, menjadi karya dengan peringkat tertinggi dalam seri.[^9]
+**_Xuan Yuan Sword_ berjalan melalui sejarah.** Kelompok DOMO Tsai Ming-hong menenun mitologi Tionghoa dan sejarah nyata menjadi satu. Tahun 1999 _Xuan Yuan Sword III: The Clouds and Mists of Mount Tai_ memindahkan cerita ke Jalan Sutra antara Dinasti Tang dan Eropa, membiarkan pemain mengendalikan Setare, seorang pemuda prajurit pedang, dari Kerajaan Frank melakukan perjalanan ke timur, melintasi Kekaisaran Arab sampai tiba di Dinasti Tang — perspektifnya dari Eropa memandang Tiongkok, bukan sebaliknya. _Tracks of the Sky_ tahun 2000, sebuah spin-off dengan latar Akhir Dinasti Sui dan Awal Dinasti Tang, menjadi karya dengan rating tertinggi dalam seri. [^9]
 
-Desain paling unik dari Xuanyuan Jian adalah "Guci Pemurnian Iblis" (煉妖壺). Sejak peluncuran _Xuanyuan Jian II_ pada 8 Februari 1994, pemain dapat menangkap monster yang dikalahkan ke dalam guci untuk dimurnikan menjadi item atau rekan baru. Mekanisme ini berakar pada pandangan dunia _Fengshen Yanyi_ dan _Shanhaijing_, secara langsung menulis pengaturan yang akrab bagi pembaca mitologi Tionghoa sebagai aturan game. Pada masa ketika RPG Jepang belum memiliki sistem komersial "menangkap monster" yang lengkap (Pokémon Red and Green baru dirilis pada 27 Februari 1996, dua tahun setelah Guci Pemurnian Iblis), ini adalah orisinal.[^10]
+Desain paling unik _Xuan Yuan Sword_ adalah "Cauldron of Alchemy (煉妖壺)". Sejak _Xuan Yuan Sword II_ diluncurkan 8 Februari 1994, pemain dapat menangkap monster yang dikalahkan ke dalam cauldron dan menyulingnya menjadi item atau rekan baru. Mekanisme ini berakar pada worldbuilding _Investiture of the Gods_ dan _Classic of Mountains and Seas_, menulis secara langsung setting yang sudah familiar bagi pembaca mitologi Tionghoa menjadi aturan game. Di era ketika RPG Jepang belum memiliki sistem "menangkap monster" yang lengkap secara komersial (_Pokémon_ Red & Green tidak diluncurkan sampai 27 Februari 1996, dua tahun setelah Cauldron of Alchemy), ini adalah inovasi asli. [^10]
 
-**Xian Jian mengikuti romansa.** Kelompok Kreatif Kuangtu Yao Zhuangxian mencampurkan wuxia dan cinta, memecahkan konvensi kebahagiaan massal dalam RPG pada saat itu dengan cerita "tragedi total." Inti yang ingin ditulis oleh Yao Zhuangxian adalah rasa ketidakberdayaan: orang yang Anda pedulikan tidak dapat Anda selamatkan, dan pedang terkuat pun tidak dapat menghentikan takdir. Nada ini membuat Xian Jian lebih dekat ke novel atau film dalam komunitas game berbahasa Tionghoa.
+**_Chinese Paladin_ berjalan melalui cinta romantis.** Kelompok Kreator Pemberani Yao Zhuangxian mencampur wushu dan cinta, menggunakan cerita "semua orang mengalami tragedi" untuk memecahkan konvensi _RPG_ happy ending saat itu. Yang ingin ditulis Yao Zhuangxian adalah perasaan ketidakberdayaan: orang yang kamu pedulikan tidak bisa kamu selamatkan, pedang sekuat apa pun tidak bisa menghalangi penyimpangan takdir. Nada ini membuat _Chinese Paladin_ dalam dunia game berbahasa Tionghoa lebih dekat dengan sebuah novel atau film.
 
-Kedua pedang itu berbagi satu keyakinan: cerita dunia Tionghoa layak diperlakukan dengan serius.
-
----
-
-## Musik Pengiring: Sesuatu yang Hidup Lebih Lama dari Visual
-
-Jika Anda bertanya kepada siapa pun yang pernah memainkan Xian Jian generasi pertama apa yang paling mereka ingat, jawabannya kemungkinan besar adalah musik (sementara visual telah memudar bersama piksel dalam ingatan).
-
-_Die Lian_ adalah salah satu dari 12 lagu pengiring Xian Jian generasi pertama, dimainkan dalam adegan di mana Butterfly Jingcaiyi mengorbankan nyawanya untuk menyelamatkan suaminya Liu Jinyuan. Lagu ini hanya memiliki timbre MIDI sederhana, tetapi melodinya begitu melankolis sehingga membuat pemain berhenti dengan jari mereka di depan jendela DOS dan tidak bisa menekan Enter untuk melanjutkan kotak dialog berikutnya.[^11]
-
-Dua puluh enam tahun kemudian, pada Februari 2026, komposer asli Lin Kunxin mengaransemen ulang _Die Lian_ di acara Tahun Baru penggemar Xian Jian. Di bawah penonton duduk sekelompok orang dewasa berusia tiga atau empat puluhan, mata mereka merah.[^12]
-
-Musik pengiring Xuanyuan Jian juga klasik. _Beyond Yunhe Mountain_ memenangkan penghargaan Musik Terbaik di Game Golden Image majalah "Computer Player" pada tahun 1999, momen ketika musik game Taiwan secara resmi diakui.[^13]
-
-> **✦** Visual sebuah game akan usang, sistem akan dikesampingkan, tetapi musiknya tidak. Tiga puluh tahun kemudian Anda mendengar empat nada pertama _Die Lian_, dan ingatan itu langsung menarik Anda kembali ke sore hari di depan jendela DOS.
+Dua pedang berbagi satu keyakinan: cerita dunia Tionghoa layak untuk diperlakukan dengan serius.
 
 ---
 
-## Dari Layar Menuju Ruang Tamu
+## Musik Latar: Sesuatu yang Hidup Lebih Lama dari Grafis
 
-Pada tahun 2005, Xian Jian melakukan sesuatu yang belum pernah terjadi sebelumnya dalam sejarah game Taiwan: menjadi serial TV.
+Jika kamu bertanya kepada siapa pun yang pernah memainkan _Chinese Paladin_ versi asli apa yang paling mereka ingat, jawabannya biasanya musik (sementara grafis telah lama pudar dari memori bersama pixel).
 
-Serial TV _Xian Jian Qixia Chuan_, disutradarai oleh Li Guoli (李國立) dan diproduksi oleh Tangren Film, menampilkan Hu Ge (胡歌) yang saat itu belum terkenal sebagai Li Xiaoyao, dan Liu Yifei (劉亦菲) sebagai Zhao Ling'er. Setelah ditayangkan di stasiun TV lokal Tiongkok, serial ini mencapai rata-rata rating 11,3%, menjadikan Hu Ge idola nasional dalam semalam.[^14]
+_Butterfly Love (蝶戀)_ adalah salah satu dari 12 lagu musik latar _Chinese Paladin_ versi asli, diputar pada adegan ketika Caiyun (彩衣), jiwa kupu-kupu, mengorbankan nyawanya untuk menyelamatkan suami Liu Jinyuan (劉晉元). Lagu ini hanya menggunakan nada MIDI sederhana, tetapi melodi begitu mengharukan sehingga pemain berhenti di depan jendela DOS, jari mereka terkatung-katung, tidak bisa menekan Enter untuk melanjutkan ke kotak dialog berikutnya. [^11]
+
+Tiga puluh tahun kemudian, Februari 2026, komposer asli Lin Kunxin mengatur ulang _Butterfly Love_ pada pertemuan Tahun Baru penggemar _Chinese Paladin_. Penonton yang duduk di sana adalah sekelompok orang berusia 30-an dan 40-an, mata mereka merah. [^12]
+
+Musik latar _Xuan Yuan Sword_ sama-sama ikonik. _Xuan Yuan Sword III: The Clouds and Mists of Mount Tai_ memenangkan Best Music di ajang penghargaan game majalah _Computer Player_ tahun 1999, itu adalah saat musik game Taiwan mendapat pengakuan resmi. [^13]
+
+> **✦** Grafis game akan ketinggalan zaman, sistem akan ditinggalkan, tetapi musik tidak akan pernah. Tiga puluh tahun kemudian ketika kamu mendengar empat nada pertama _Butterfly Love_, memori akan langsung menarik kamu kembali ke sore itu di depan jendela DOS.
+
+---
+
+## Dari Layar Masuk ke Ruang Keluarga
+
+Tahun 2005, _Chinese Paladin_ mencapai sesuatu yang belum pernah terjadi sebelumnya dalam sejarah game Taiwan: berubah menjadi serial TV.
+
+Serial TV _Chinese Paladin_ yang diproduksi oleh Tangren Entertainment dan disutradarai oleh Li Guoli, menemukan aktor-aktor yang saat itu masih kurang terkenal: Hu Ge memerankan Li Xiaoyao, Liu Yifei memerankan Zhao Ling-er. Setelah ditayangkan di stasiun TV China, mendapat rating rata-rata 11,3%, Hu Ge menjadi bintang film idola nasional semalam. [^14]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe
     src="https://www.youtube.com/embed/O9Fm-nuRhng"
-    title="Hu Ge Xiaoyao Tang Official Music Video (Xian Jian Qixia Chuan Soundtrack)"
+    title="Hu Ge 逍遙嘆 Official Music Video (仙劍奇俠傳電視原聲帶)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -127,103 +132,103 @@ Serial TV _Xian Jian Qixia Chuan_, disutradarai oleh Li Guoli (李國立) dan di
   ></iframe>
 </div>
 
-_Lagu sampingan serial TV Xian Jian 2005, dinyanyikan oleh Hu Ge. Dipercaya mendistribusikan soundtrack resmi Xian Jian Qixia Chuan. Hu Ge semalam menjadi Li Xiaoyao, dan kemudian menjadi pemeran utama dalam *Nirvana in Fire* dan \*The Disguiser]._
+_Lagu tema serial TV *Chinese Paladin* 2005 "Xiaoyao Sigh (逍遙嘆)" dinyanyikan oleh Hu Ge, bersama agensi musik *Believe* yang mengelola soundtrack serial TV *Chinese Paladin*. Hu Ge menjadi Li Xiaoyao semalam, dan kemudian menjadi pemeran utama *Nirvana in Fire* dan *The Disguiser*._
 
-Dampak drama ini jauh melampaui komunitas game. Ini secara langsung mendorong ledakan genre "Xianxia" di pasar televisi Tiongkok. Selama dua puluh tahun berikutnya, semua Xianxia dari _Hua Qiangu_ hingga _Canglan Jue_ dapat ditelusuri akarnya kembali ke adegan Hu Ge di Pulau Xianling pada tahun 2005.[^15]
+Pengaruh serial TV ini jauh melampaui komunitas gamer. Ini secara langsung memicu ledakan genre "xianxia drama (仙俠劇)" di pasar TV China. Untuk dua puluh tahun berikutnya, dari _Flower Dance_ hingga _Canglan Judgememt_, semua drama xianxia China dapat dilacak kembali ke momen Hu Ge berdiri di pulau Xianling tahun 2005. [^15]
 
-Xuanyuan Jian juga pernah dicoba untuk adaptasi visual. Serial TV _Xuanyuan Jian: Beyond Tian Zhi Hen_ dengan Hu Ge dan Liu Shishi pada tahun 2012, tetapi ulasannya tidak sebaik Xian Jian. Adaptasi game ke layar adalah kasus sukses yang jarang terjadi.
+_Xuan Yuan Sword_ juga pernah mencoba adaptasi film dan TV. Serial TV _Xuan Yuan Sword: Tracks of the Sky_ tahun 2012 dibintangi oleh Hu Ge dan Liu Shishi, tetapi rating-nya tidak sebaik _Chinese Paladin_. Adaptasi game menjadi film/TV, _Chinese Paladin_ adalah kasus sukses yang langka.
 
-> **💡 Tahukah Anda**
-> Sebelum membuat serial TV Xian Jian, Hu Ge hampir tidak terkenal. Ia kemudian menjadi salah satu aktor papan atas di Tiongkok, membintangi karya fenomena seperti _Nirvana in Fire_ dan _The Disguiser_. Dan julukan yang selalu ia miliki di mata penggemar adalah "Li Xiaoyao."
+> **💡 Tahu gak**
+> Hu Ge hampir tidak memiliki ketenaran sebelum bermain dalam serial TV _Chinese Paladin_. Dia kemudian menjadi salah satu aktor paling top di China, memerankan dalam _Nirvana in Fire_ dan _The Disguiser_ dan karya-karya fenomenal lainnya. Namun di hati para penggemar, panggilan mesra untuknya selalu tetap "Li Xiaoyao".
 
 ---
 
 ## Rapat Dewan: Dua Pengumuman Penjualan Dua Pedang
 
-Pada 14 Mei 2024, dewan direksi Dayu Information menyetujui pendelegasian IP _Xian Jian Qixia Chuan_ (seluruh dunia kecuali Tiongkok daratan) dan _Xuanyuan Jian_ (seluruh dunia)[^16]. Sepuluh hari kemudian, Tsai Minghong (蔡明宏), ayah dari Xuanyuan Jian, mengundurkan diri dari perusahaan tempat ia bekerja selama tiga puluh enam tahun. Ia direkrut oleh pendiri Li Yongjin pada tahun 1988 setelah lulus SMA di Dayu, dengan nomor karyawan 004, yang berarti ia ada sejak hari pertama.[^21] Sepuluh hari setelah Tsai Minghong pergi, wakil presiden Chen Yaotian (陳瑤恬) diangkat menjadi CEO.
+14 Mei 2024, dewan direktur Softstar Entertainment mengesahkan otorisasi kepada ketua dewan untuk mengalihkan _Chinese Paladin_ (seluruh dunia kecuali Tiongkok daratan) dan _Xuan Yuan Sword_ (seluruh dunia) IP. [^16] Sepuluh hari kemudian, Tsai Ming-hong, ayah _Xuan Yuan Sword_ dan mantan general manager Softstar, mengundurkan diri dari perusahaan tempatnya bekerja selama tiga puluh enam tahun. Dia diundang masuk ke Softstar oleh pendiri Li Yongjin saat lulus SMA tahun 1988, nomor karyawan 004, artinya dia ada sejak hari pertama. [^21] Sepuluh hari setelah Tsai Ming-hong pergi, wakil general manager Chen Yaotian naik menjadi general manager.
 
-Pada 11 September 2024, Dayu secara resmi mengumumkan: IP global _Xuanyuan Jian_ dialihkan ke Hong Kong Huandong Technology Co., Ltd. seharga 10,45 juta USD (sekitar 300 juta TWD); IP global _Xian Jian Qixia Chuan_ di luar Tiongkok daratan dialihkan ke anak perusahaan SuperNova Overseas yang memiliki kepemilikan 100% dari Chengdu Mobile Games Group senilai 18,3 juta RMB ditambah 38 juta saham (sekitar 200 juta TWD)[^16].
+11 September 2024, Softstar secara resmi mengumumkan: _Xuan Yuan Sword_ IP seluruh dunia ditransfer ke Happyforce (Hong Kong) Limited dengan harga USD 10,45 juta (sekitar 3 miliar dollar Taiwan baru); _Chinese Paladin_ IP seluruh dunia kecuali Tiongkok daratan ditransfer ke anak perusahaan 100% milik Perfectworld Games, SuperNova Overseas, senilai 18,3 juta yuan China ditambah 38 juta saham (sekitar 200 juta dollar Taiwan baru). [^16]
 
-Dua pedang itu dijual seharga total 500 juta TWD.
+Dua pedang, total lima ratus juta dollar Taiwan baru.
 
-Mengapa harus dijual? Chen Yaotian sangat lugas: "Kami tidak bisa menghabiskan 5 hingga 8 tahun lagi untuk mengasah pedang yang tidak tahu apakah akan berguna atau tidak."[^17] _Xian Jian Qixia Chuan VII_ dikembangkan dengan Unreal Engine, dan total penjualan di semua platform mencapai 1,04 juta eksemplar, tetapi baru sedikit menutupi biaya dengan menjual lebih dari 500 ribu. _Xuanyuan Jian Qi_ juga disebut sebagai "game 3A generasi kedua pertama di pasar berbahasa Tionghoa" menggunakan mesin kelas atas, dan mengalami kegagalan besar dalam ulasan maupun penjualan. Selama enam tahun terakhir, Dayu telah menginvestasikan 850 juta TWD dalam R&D internal, di mana hanya game horor _Ghost Bridge_ dengan anggaran 25 juta yang terjual 150 ribu eksemplar dan impas.[^19]
+Mengapa harus menjual? Kata-kata Chen Yaotian sangat jelas: "Tidak bisa lagi mengeluarkan 5 sampai 8 tahun, mengasah satu pedang yang tidak tahu apakah bisa digunakan atau tidak." [^17] _Chinese Paladin VII_ dikembangkan menggunakan mesin Unreal, penjualan lintas platform kumulatif 1,04 juta unit, tetapi setelah terjual lebih dari 500.000 unit baru impas. _Xuan Yuan Sword VII_ juga menggunakan mesin top dan disebut "3A game generasi berikutnya berbahasa Tionghoa pertama", tetapi rating dan penjualan sama-sama sangat buruk. Softstar telah menginvestasikan 850 juta dollar Taiwan baru dalam R&D sendiri selama enam tahun terakhir, hanya horror game _Girl Ghost Bridge_ dengan anggaran hanya 250 juta menjual 150.000 unit dan impas. [^19]
 
-CEO Tu Junguang (涂俊光) menerbitkan esai seribu kata pada hari pengumuman. Ia mengakui bahwa ketika ia mengambil alih Dayu pada tahun 2014, "kedua IP klasik itu sudah lama merosot," dan "ia sama sekali tidak pernah melihat 'kemuliaan Dua Pedang'." Menanggapi cemoohan, ia menulis:
+Ketua dewan Tu Junguang menerbitkan posting Facebook seribu kata pada hari yang sama dengan pengumuman. Dia mengakui bahwa ketika dia mengambil alih Softstar tahun 2014, "dua IP klasik sudah lama menurun", "saya belum pernah melihat yang disebut 'kejayaan Dua Pedang'". Menanggapi celaan, dia menulis:
 
-> "Ya, kalian benar, memang pemain sejati."
+> "Benar, kalian benar, memang pemain sejati."
 >
-> "Kami masih membuat game, dan kami ingin terus membuat game."
+> "Kami masih membuat game, dan kami masih ingin membuat game."
 >
-> "Bagi 500 karyawan di bawah naungan kami, setiap orang memiliki kehidupan untuk ditanggung. Jika saya tidak melakukan perubahan, apakah itu adil bagi rekan-rekan yang ingin membuat game dengan baik, dan juga kaum muda yang masih bersemangat tentang game?"[^19]
+> "Untuk 500 karyawan kami, setiap orang memiliki kehidupan yang harus mereka pikul, jika saya tidak membuat perubahan, bisakah saya berhadapan dengan rekan kerja yang ingin membuat game yang baik, dan orang-orang muda yang masih penuh semangat tentang game?" [^19]
 
-Artikel tersebut dibagikan lebih dari 1.400 kali. Diskusi di Bahamut dan PTT langsung penuh sesak. Beberapa orang mencela Dayu karena menjual warisan leluhur, beberapa mengatakan seharusnya menyerah lebih awal, sementara yang lain hanya diam-diam menempelkan tangkapan layar Xian Jian generasi pertama dengan keterangan "Air mata zaman."
+Posting dibagikan ulang lebih dari 1.400 kali. Diskusi di Bahamut dan PTT langsung ramai. Ada yang menyalahkan Softstar menjual warisan leluhur, ada yang mengatakan sudah seharusnya melepaskan, lebih banyak lagi yang hanya diam-diam memposting screenshot _Chinese Paladin_ versi asli, dengan caption "Air mata generasi".
 
-> **⚠️ Sudut Pandang Kontroversial**
-> Ketika Tu Junguang menerbitkan esai seribu kata, Tsai Minghong baru saja mengundurkan diri sepuluh hari. Seseorang yang ada sejak hari pertama pada tahun 1988 dan seseorang yang mengambil alih pada tahun 2014 memiliki tanggung jawab yang berbeda terhadap dua kata "Dayu." Esai seribu kata Tu adalah tanggapan CEO kepada pemegang saham dan karyawan; komunitas pemain mencela karena "menjual warisan leluhur," karena bagi para pemain, pedang itu adalah bukti masa muda. Keduanya benar, tetapi mereka berbicara tentang hal yang berbeda.
+> **⚠️ Kontroversial**
+> Ketika Tu Junguang menerbitkan seribu kata posting-nya, Tsai Ming-hong baru pergi sepuluh hari yang lalu. Seseorang yang ada sejak hari pertama tahun 1988 dan seseorang yang baru mengambil alih tahun 2014, memiliki pemahaman yang berbeda tentang arti "Softstar". Seribu kata Tu adalah tanggung jawab CEO kepada pemegang saham dan karyawan; komunitas pemain menyalahkan "menjual warisan leluhur", karena bagi pemain, pedang adalah bukti pemuda. Keduanya benar, tetapi mereka tidak berbicara tentang hal yang sama.
 
 ---
 
-## Setelah Penjualan Dua Pedang: Penjualan Kedua IP dan Perubahan Nama Entitas Utama Dayu
+## Setelah Dua Pedang Dijual: Transfer IP Kedua dan Perubahan Nama Softstar
 
-Penjualan 500 juta saja hanyalah permulaan dari pergeseran.
+Penjualan seharga 500 juta adalah awal dari pergeseran lainnya.
 
-Pada 24 Juni 2025, di sebuah konferensi pers di Chengdu. Huandong Technology (Hong Kong) baru memiliki Xuanyuan Jian selama sembilan bulan ketika mereka menjual IP global permanen Xuanyuan Jian kepada Chengdu Xingyue Chenshi Culture Development Co., Ltd. Pada hari yang sama juga diumumkan: serial animasi pertama adalah _Xuanyuan Jian San: Beyond Yunhe Mountain_, dengan investasi 100 juta RMB; film animasi disutradarai oleh Lu Yang dan ditulis oleh Yu Yang, dijadwalkan tayang di Tiongkok akhir tahun 2027.[^22] Menjual IP lagi dalam sembilan bulan adalah plot yang tidak diumumkan oleh semua pembeli pada September 2024.
+24 Juni 2025, di suatu konferensi pers di Chengdu. Happyforce (Hong Kong) yang membeli _Xuan Yuan Sword_ hanya dalam sembilan bulan, langsung memindahkan IP _Xuan Yuan Sword_ seluruh dunia ke Chengdu Star Yuechen Stone Cultural Development Limited. Diumumkan pada hari yang sama adalah: karya peluncuran pertama adalah serial anime _Xuan Yuan Sword III: The Clouds and Mists of Mount Tai_, produksi episode anime senilai 100 juta yuan China; film anime disutradarai oleh Lu Yang dan diskenario oleh Yu Yang, dijadwalkan diluncurkan akhir 2027 di China. [^22] Dalam sembilan bulan transfer IP seharga tiga miliar dollar Taiwan, owner berubah satu kali.
 
-IP senilai 300 juta TWD yang dibeli selama sembilan bulan telah berganti pemilik sekali lagi.
+Sembilan bulan, IP yang dibeli senilai tiga miliar dollar Taiwan diganti ownership.
 
-Sementara itu, untuk Xian Jian, Chengdu Mobile Games menguji coba _Xian Jian World_ pada 19 Februari 2025: R&D 300 juta RMB, dunia terbuka mulus seluas 384 kilometer persegi, studio dengan 240 bintang, pre-order melebihi 10 juta.[^23] Latar belakangnya ditetapkan dalam "siklus kehancuran bencana alam selama 33 tahun kalender Xian Jian," kali ini bahkan dunia itu sendiri mati. Namun, pada tahun 2025, pendapatan Chengdu Mobile Games menurun sebesar 27,98%, kerugian bersih 1,477 miliar RMB, dan karyawan berkurang dari 710 menjadi 260. Pendapatan _Xian Jian World_ tidak memenuhi harapan.[^24]
+Di sisi _Chinese Paladin_, Perfectworld Games 19 Februari 2025 meluncurkan open beta _Chinese Paladin World_: investasi R&D 300 juta yuan China, dunia terbuka tanpa batas 384 kilometer persegi, studio Fullstar 240 orang, pre-order melebihi 10 juta. [^23] Latar worldnya berada di "33 tahun era _Chinese Paladin_, setelah dunia musnah karena kehancuran geografi, waktu berputar", kali ini dunia itu sendiri mati. Tetapi tahun 2025 total pendapatan grup Perfectworld Games turun 27,98%, kerugian bersih 1,477 miliar yuan China, karyawan menyusut dari 710 menjadi 260. Pendapatan _Chinese Paladin World_ tidak memenuhi ekspektasi. [^24]
 
-Perubahan yang lebih dalam terjadi pada entitas utama Dayu.
+Perubahan lebih dalam terjadi pada Softstar sendiri.
 
-Pada 3 November 2025, dewan direksi Dayu menyetujui perubahan nama: **Star Fusion Group (光聚晶電聯合股份有限公司)**. Bisnis semikonduktor mencakup 65%, dan Dayu Information menjadi anak perusahaan dengan nama yang sama. Departemen Ekonomi secara resmi menyetujuinya pada 7 Januari 2026.[^25] Grup yang berganti nama ini memiliki 11 anak perusahaan, 30 cucu perusahaan, dan 3.600 karyawan, dengan bisnis mencakup semikonduktor (Taiwan Optical Mask, Ringan, Yangzhi), energi (Hezheng, Sanjiang), keamanan siber (Anrui, Anyao), dan konten (Dayu, Xingyu).
+3 November 2025, dewan direktur Softstar mengesahkan perubahan nama: **Star Fusion Group Limited (光聚晶電聯合股份有限公司)**. Bisnis chip semikonduktor mencapai 65%, Softstar Entertainment menjadi anak perusahaan dengan nama yang sama. 7 Januari 2026 Kementerian Ekonomi secara resmi menyetujui. [^25] Setelah perubahan nama, grup mencakup 11 anak perusahaan, 30 cucu perusahaan, 3.600 karyawan, bisnis meliputi semikonduktor (Taiwan photomask, Lush Circle, Yangzhi), energi (Hegian, Sanjiang), cybersecurity (Anrui, Anyao), konten (Softstar, Star Universe).
 
-Tu Junguang mengatakan dalam wawancara majalah Mirror pada Desember 2025:
+Tu Junguang diwawancarai oleh Mirror Media Desember 2025:
 
-> "Baru setelah masuk ke semikonduktor saya tahu betapa jauhnya perbedaan dengan industri game."[^25]
+> "Barulah tahu masuk semikonduktor perbedaannya dengan industri game begitu besar." [^25]
 
-Dimulai dari kantor di lantai 8 Jalan Chongqing Utara, Taipei oleh Li Yongjin pada tahun 1988 dengan 3 karyawan dan modal 1 juta, Dayu Information selama tiga puluh tujuh tahun. Pada tanggal 3 November 2025, Dayu Information tidak ada lagi sebagai perusahaan yang berfokus pada game; ia telah menjadi anak perusahaan dengan nama yang sama di bawah Star Fusion Group, dengan porsi semikonduktor sebesar 65%.
+Mulai dari tahun 1988 ketika Li Yongjin mendirikan Softstar di kantor lantai 8 di Chongqing North Road, Taipei, dengan 3 karyawan, modal 1 juta dollar Taiwan, dihitung tiga puluh tujuh tahun. Softstar Entertainment sebagai perusahaan dengan inti game, pada 3 November 2025, tidak lagi ada sebagai holding company.
 
 ---
 
-## "Ling'er Harus Mati" dan "Tidak Akan Pernah Berakhir Tragis"
+## "Ling-er Harus Mati" dan "Tidak akan Pernah Ada Ending Tragis"
 
-Pada suatu sore di tahun 2025, Yao Zhuangxian (yang berusia 56 tahun) duduk dalam pertemuan penggemar _Xian Jian World_ Chengdu Mobile Games. Seorang pemain bertanya tentang arah game Xian Jian yang baru. Ia mengatakan satu kalimat:
+Sore tahun 2025, Yao Zhuangxian berusia 56 tahun duduk di forum pertukaran pemain _Chinese Paladin World_ Perfectworld Games. Seorang pemain bertanya tentang arah karya _Chinese Paladin_ baru. Dia mengatakan kalimat:
 
-> "Tidak akan pernah berakhir tragis."[^26]
+> "Tidak akan pernah ada ending tragis." [^26]
 
-Kalimat ini adalah keputusan yang sepenuhnya membalikkan sejarah pribadinya.
+Kalimat ini ditempatkan dalam sejarah pribadi dirinya, adalah keputusan yang benar-benar membalik.
 
-Pada tahun 1995, Yao Zhuangxian (yang berusia 26 tahun) di kantor Kelompok Kreatif Kuangtu bersikeras bahwa protagonis wanita Zhao Ling'er harus mati. Ia mengusulkan agar Ling'er dan monster air binasa bersama, dengan tubuhnya hancur dan rohnya melekat pada tubuh Lin Yueru. Perencana Xie Chonghui dan seniman Lin Jiawen menentangnya, tetapi Yao tetap bersikeras pada desain ini.[^7]
+Tahun 1995, Yao Zhuangxian berusia 26 tahun di kantor Kelompok Kreator Pemberani, bersikeras karakter utama perempuan Zhao Ling-er harus mati. Dia mengajukan membuat Ling-er dengan kekuatan suku Nüwa hancur bersama Water Demon Beast, kemudian mayatnya binasa, rohnya menempel pada tubuh Yueru. Planner Xie Conghuai dan art director Lin Jiaven keduanya menentang, tetapi Yao tetap bersikeras dengan desain ini. [^7]
 
-Konsekuensi dari sore itu: peluncuran Xian Jian pada 7 Juli 1995, dengan 10 ribu salinan terjual habis pada hari itu. Dunia berbahasa Tionghoa menangis secara kolektif untuk pertama kalinya karena kematian seorang karakter virtual. Banyak pemain menelepon perusahaan pengembang untuk protes atas Zhao Ling'er, dan ingatan kolektif ini menyebabkan _Xian Jian Qixia Chuan_ yang dirilis pada tahun 2001 menambahkan akhir tersembunyi—tetapi "tidak peduli akhir apa pun, Zhao Ling'er dan Lin Yueru hanya bisa hidup satu."[^27]
+Pagi sore yang ditinggalkan saat itu memiliki konsekuensi: 7 Juli 1995 _Chinese Paladin_ diluncurkan, 10.000 salinan terjual habis pada hari itu. Dunia Tionghoa untuk pertama kalinya menangis secara kolektif karena kematian karakter virtual. Banyak pemain menelepon perusahaan pengembang untuk protes, kenangan kolektif ini membuat _New Chinese Paladin_ tahun 2001 menambahkan ending tersembunyi—tetapi "tidak peduli ending mana pun, Zhao Ling-er dan Lin Yueru hanya bisa hidup satu". [^27]
 
-Pada tahun 2018, Yao Zhuangxian mengklarifikasi rumor patah hati yang beredar selama dua puluh tahun:
+Tahun 2018, Yao Zhuangxian klarifikasi gosip yang telah beredar selama dua puluh tahun:
 
-> "Tidak tidak tidak, itu kegagalan cinta tak berbalas, bukan patah hati. Saya harus menekankan, semua orang salah. Ini tidak adil bagi gadis itu, dia bahkan tidak pernah berkencan dengan saya."[^7]
+> "Tidak tidak tidak, ini jatuh cinta yang gagal, bukan patah hati, saya harus menekankan poin ini, semua orang menyebarkan berita yang salah. Ini tidak adil bagi pihak perempuan yang lain, dia bahkan belum pernah berkencan dengan saya." [^7]
 
-Ia mengoreksi sendiri: gagal mencintai secara sepihak, bukan patah hati. Yao Zhuangxian yang berusia 26 tahun dan bersikeras pada akhir tragis, di pertemuan penggemar Chengdu Mobile Games tiga puluh tahun kemudian, menyatakan bahwa Xian Jian di masa depan tidak akan membuat siapa pun menangis lagi.
+Dia memperbaharui secara pribadi: jatuh cinta yang gagal, bukan patah hati. Yao Zhuangxian berusia 26 tahun yang bersikeras dengan ending tragis, tiga puluh tahun kemudian di forum pemain Perfectworld Games, mengumumkan bahwa _Chinese Paladin_ di masa depan tidak akan pernah membuat siapa pun menangis lagi.
 
 > **📝 Catatan Kurator**
-> Satu orang selama 30 tahun, dengan keputusan yang sama sekali berlawanan. Di antaranya terjadi penjualan senilai 500 juta, pengunduran diri Tsai Minghong, kerugian 1,477 miliar RMB oleh Chengdu Mobile Games, IP Xuanyuan Jian berpindah dari Huandong ke Chengdu, dan perubahan nama entitas utama Dayu menjadi Star Fusion Group. Ini semua bukan tanggung jawab Yao Zhuangxian. Tetapi akhir tragis yang ia tulis sendiri telah terjadi—sore hari tanggal 7 Juli 1995 itu telah mengubah cara satu generasi memahami "karakter di dunia Tionghoa bisa mati." Yang tersisa, hanyalah apa yang bisa ia putuskan: jangan ulangi pukulan itu lagi.
+> Tiga puluh tahun orang yang sama, keputusan yang benar-benar berlawanan. Diantaranya terjadi penjualan 500 juta, Tsai Ming-hong pergi, Perfectworld Games rugi 1,477 miliar yuan, _Xuan Yuan Sword_ IP berpindah dari Happyforce ke Chengdu, Softstar berubah nama menjadi Star Fusion Group. Semua ini bukan tanggung jawab Yao Zhuangxian. Tetapi ending tragis yang dia tulis sendiri sudah terjadi—10.000 sore pada 7 Juli 1995, sudah mengubah bagaimana seluruh generasi memahami "di dunia Tionghoa karakter bisa mati". Yang tersisa, yang bisa dia putuskan hanya: jangan ulangi lagi luka itu.
 
 ---
 
-## Die Lian: Refleksi Usia 50 Tahun pada Diri Sendiri yang Berusia 19 Tahun
+## Butterfly Love: Pandangan 50 Tahun Terhadap Diri Sendiri Berusia 19
 
-Pada 21 Februari 2026, acara Tahun Baru penggemar Xian Jian. Lin Kunxin duduk dan memainkan _Die Lian_.
+21 Februari 2026, pertemuan Tahun Baru penggemar _Chinese Paladin_. Lin Kunxin duduk dan memainkan _Butterfly Love_.
 
-Ketika Lin Kunxin menulis ke-12 lagu pengiring _Xian Jian Qixia Chuan_ pada tahun 1995, ia berusia 19 tahun, dan karena batasan chip suara YM3812, musik menggunakan akor yang terputus untuk menguraikan detail di luar struktur utama.[^12] _Die Lian_, dengan lirik oleh Xiao Peng (張金鵬), musik oleh Lin Kunxin, dan dinyanyikan oleh Candy (周黎菁)—bukan versi Liu Yifei yang salah selama bertahun-tahun di internet.[^28]
+Lin Kunxin berusia 19 tahun ketika menulis 12 lagu musik latar _Chinese Paladin_ versi asli tahun 1995, terbatas oleh kondisi chip suara YM3812, musik menggunakan akord pecah untuk menjelaskan detail di luar struktur utama. [^12] _Butterfly Love_ dipasangkan kata oleh Xiaopeng (Zhang Jinpeng), dikomposisi oleh Lin Kunxin, dinyanyikan oleh Zhou Liging (Candy)—bukan versi Liu Yifei yang sudah tersebar lama di internet. [^28]
 
-Lin Kunxin yang berusia 50 tahun menuliskan refleksi ini:
+Lin Kunxin berusia 50 tahun menulis perjalanan emosional untuk pengaturan ulang kali ini:
 
-> "Saya pernah bertanya pada diri saya ketika berusia sembilan belas tahun: bagaimana saya ingin itu ditafsirkan kembali?"[^12]
+> "Saya pernah bertanya kepada diri saya sendiri berusia sembilan belas tahun: jika itu adalah aku saat itu, apa yang ingin aku lakukan untuk menafsirkan ulang ini?" [^12]
 
-Ia memilih untuk tidak mengubah struktur melodi, tetapi "memperkaya detail asli," "seperti melihat ke masa lalu dalam ingatan, membiarkan melodi berbisik dan berbicara dengan lembut." Video dikurasi oleh istrinya, yang secara khusus memilih alur cerita Jingcaiyi—Butterfly Jingcaiyi mengorbankan kultivasi seribu tahun dan nyawanya untuk menyelamatkan suaminya Liu Jinyuan. Adegan yang membuat pemain menangis dalam timbre MIDI 30 tahun lalu terdengar lagi pada Februari 2026.
+Dia memilih untuk tidak banyak mengubah struktur melodi, "memperkaya detail karya asli", "seperti menengok ke belakang dalam memori, membuat melodi berbisik, berbicara dengan lembut". Video dipotong oleh istri Kunxin, dipilih khusus cerita line Caiyun—jiwa kupu-kupu Caiyun mengorbankan ribuan tahun pelatihan dan nyawanya untuk menyelamatkan suami Liu Jinyuan. Adegan 30 tahun lalu yang membuat pemain menangis di nada MIDI, Februari 2026 berbunyi lagi.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe
     src="https://www.youtube.com/embed/uNG9lwMh2E8"
-    title="Xian Jian Qixia Chuan 1 Original Soundtrack Die Lian (Komposisi Lin Kunxin)"
+    title="仙劍奇俠傳 1 原聲配樂 蝶戀 (林坤信作曲)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -231,100 +236,100 @@ Ia memilih untuk tidak mengubah struktur melodi, tetapi "memperkaya detail asli,
   ></iframe>
 </div>
 
-_Lagu pengiring asli Xian Jian Qixia Chuan 1 (1995), Die Lian, komposisi Lin Kunxin. Timbre MIDI dibatasi oleh chip YM3812, tetapi melodi itu sendiri mendefinisikan imajinasi seluruh generasi tentang "apa yang bisa dilakukan musik game Tionghoa."_
+_*Chinese Paladin* 1 (1995) musik latar asli *Butterfly Love*, dikomposisi oleh Lin Kunxin. Nada MIDI dibatasi oleh chip YM3812, tetapi melodi itu sendiri mendefinisikan apa yang dimpikirkan seluruh generasi tentang "apa musik game Tionghoa bisa menjadi"._
 
 ---
 
-## Apa yang Tersisa?
+## Apa yang Ditinggalkan
 
-Warisan terdalam dari Dua Pedang Dayu bukanlah dalam penjualan atau valuasi IP, tetapi dalam sesuatu yang lebih tidak terukur: mereka mengajarkan kepada seluruh generasi pemain bahwa cerita berbahasa Tionghoa dapat diceritakan dengan baik.
+Warisan terdalam Dua Pedang Softstar bukan dalam penjualan atau valuasi IP, tetapi pada sesuatu yang lebih tidak dapat diukur: ini mengajarkan seluruh generasi pemain bahwa bahasa Tionghoa bisa menceritakan kisah yang bagus.
 
-Sebelum Xian Jian, para pemain game di dunia berbahasa Tionghoa hanya memiliki dua pilihan: memainkan game Jepang (versi terjemahan atau membaca bahasa Jepang mentah), atau memainkan game Eropa dan Amerika. "Menceritakan kisah yang membuatmu menangis dalam bahasa Tionghoa" terdengar sederhana, tetapi tidak ada yang melakukannya sebelum tahun 1995. Xian Jian berhasil melakukannya. Sementara Xuanyuan Jian mengubah sejarah dari materi ujian menjadi lokasi petualangan.
+Sebelum _Chinese Paladin_, pemain game di dunia berbahasa Tionghoa hanya memiliki dua pilihan: bermain game Jepang (versi terjemahan atau belajar dari bahasa Jepang langsung), atau bermain game Eropa-Amerika. "Menceritakan kisah yang membuat kamu menangis dengan bahasa Tionghoa" terdengar sederhana, tetapi tidak ada yang melakukannya sebelum tahun 1995. _Chinese Paladin_ melakukannya. _Xuan Yuan Sword_ mengubah sejarah dari materi ujian menjadi lokasi petualangan.
 
-Kemudian Chi Zhu (赤燭) membuat _School Return_, menulis teror putih sebagai game horor; Reia membuat _DEEMO_, menceritakan kisah tanpa suara dengan tuts piano. Dalam garis keturunan karya-karya ini, terdapat gen yang ditinggalkan oleh Dua Pedang Dayu: Taiwan bisa membuat game yang memiliki jiwa.[^20]
+Kemudian Detention (赤燭) membuat _Return to School_, menulis Teror Putih sebagai game horror; Rayark membuat _DEEMO_, menceritakan kisah tanpa suara menggunakan papan ketik piano. Dalam aliran darah karya-karya ini, ada gen yang ditinggalkan oleh Dua Pedang Softstar: Taiwan bisa membuat game dengan jiwa. [^20]
 
-Pada Februari 2026, Lin Kunxin menyanyikan _Die Lian_ di acara Tahun Baru, dan seorang pria berkaus bertudung di bawah penonton dengan tenang menyeka matanya. Ia berusia sekitar tiga puluh tujuh atau delapan tahun. Pada tahun 1995, ia mungkin berusia sepuluh tahun, tepat pada usia ketika ia pulang dari sekolah dan menyalakan komputer.
+Februari 2026, setelah Lin Kunxin memainkan _Butterfly Love_ di pertemuan Tahun Baru, seorang pria berjaket hoodie di sana diam-diam menghapus sudut matanya. Dia mungkin berusia tiga puluh tujuh atau tiga puluh delapan tahun. Tahun 1995 dia mungkin berusia sepuluh tahun, tepat pada usia pulang sekolah dan membuka komputer.
 
-Komputer bersama itu sudah lama hilang. Sepuluh ribu salinan tanggal 6 Juli 1995 yang ditumpuk di gudang menunggu peluncuran besok kini sangat sulit ditemukan di pasar bekas. Kantor Kuangtu tempat perdebatan "Ling'er harus mati" pada tahun 1995 juga telah dibongkar. Tsai Minghong meninggalkan Dayu pada Mei 2024. Pada 3 November 2025, Dayu Information tidak ada lagi sebagai perusahaan yang berfokus pada game; ia telah menjadi anak perusahaan dengan nama yang sama di bawah Star Fusion Group, dengan porsi semikonduktor sebesar 65%. Bahkan Yao Zhuangxian memutuskan tiga puluh tahun kemudian untuk tidak membuat pemain menangis karena Ling'er.
+Komputer yang dibagikan itu sudah tidak ada lagi. 10.000 salinan dari 6 Juli 1995 yang ditumpuk di gudang menunggu peluncuran besok, sekarang paling banyak jarang dicari di pasar second-hand. Kantor Kelompok Kreator Pemberani tahun 1995 yang beradu argumen tentang "Ling-er harus mati" juga sudah dirombak. Tsai Ming-hong pergi Mei 2024. 3 November 2025, Softstar Entertainment sebagai perusahaan yang berpusat pada game tidak lagi ada, ini berubah menjadi anak perusahaan bernama sama di bawah Star Fusion Group, dengan semikonduktor mencapai 65%. Bahkan Yao Zhuangxian, tiga puluh tahun kemudian memutuskan untuk tidak pernah membiarkan pemain menangis karena Ling-er lagi.
 
-Jendela DOS itu telah tertutup selama tiga puluh tahun. Tetapi sore hari itu masih ada.
+Jendela DOS itu tertutup tiga puluh tahun. Tetapi sore itu masih di sana.
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Industri Game Taiwan dan Hiburan Digital](/id/technology/taiwan-gaming-industry) — Dari agen ke orisinal, gambaran besar industri game Taiwan
-- [Semangat Sumber Terbuka Taiwan](/id/technology/taiwan-open-source-spirit) — Kisah lain tentang "melakukan sesuatu yang melampaui skala dengan semangat" di Taiwan
-- [Tidak Bisa Tidur Tanpa Masuk Gua](/id/technology/into-the-cellar-taiwan-game-podcast) — Komunitas game Taiwan kontemporer berkembang dari BBS menjadi platform 6 juta anggota
-- [Momen Gila Pemain Taiwan](/id/technology/taiwan-gamers-wildest-moments) — Sejarah kegilaan kolektif yang ditulis oleh pemain Taiwan setelah Dua Pedang Dayu
-- [Game Reia](/technology/雷亞遊戲) — Perusahaan game generasi berikutnya di Taiwan, seperti Dayu, tetapi mengambil jalur yang sama sekali berbeda dengan "membangun negara melalui estetika"
+- [Taiwan Game Industry and Digital Entertainment](/id/technology/taiwan-gaming-industry) — Dari distribusi hingga pengembangan asli, panorama lengkap industri game Taiwan
+- [Taiwan Open Source Spirit](/technology/台灣開源精神) — Kisah lain dari Taiwan tentang "menciptakan sesuatu yang melampaui skala dengan semangat"
+- [No Sleep Without Entering the Cellar](/id/technology/into-the-cellar-taiwan-game-podcast) — Komunitas pemain game Taiwan dari era yang sama berkembang dari BBS menjadi platform dengan 6 juta anggota
+- [Taiwan Gamers' Crazy Moments](/id/technology/taiwan-gamers-wildest-moments) — Setelah Dua Pedang Softstar, pemain Taiwan terus menulis sejarah kegilaan kolektif
+- [Rayark Games](/technology/雷亞遊戲) — Perusahaan game Taiwan generasi berikutnya yang "menempatkan estetika sebagai dasar negara" tetapi mengambil jalan yang sama sekali berbeda dari Softstar
 
 ---
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 1 gambar berlisensi CC + 2 gambar komentar editorial penggunaan wajar, semuanya di-cache di `public/article-images/technology/` untuk menghindari server sumber tautan panas:
+Artikel ini menggunakan 1 gambar berlisensi CC + 2 gambar fair use editorial commentary, semuanya di-cache di `public/article-images/technology/` untuk menghindari hotlink ke server sumber:
 
-- [Pusat Perbelanjaan Guanghua pada tahun 2007](https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg) — Foto: pacificmorningpost via Flickr, 15-10-2007, CC BY 2.0
-- Sampul halaman Steam Xian Jian Qixia Chuan — Foto: Toko resmi Steam SOFTSTAR ENTERTAINMENT, komentar wajar editorial retrospeksi budaya 30 tahun
-- Sampul halaman Steam Xuanyuan Jian Qi — Foto: Toko resmi Steam SOFTSTAR ENTERTAINMENT, komentar wajar editorial retrospeksi budaya 30 tahun
+- [Pasar Komputer Guanghua tahun 2007](https://commons.wikimedia.org/wiki/File:2007-10-15_Guanhua_Computer_Market_Shop.jpg) — Photo: pacificmorningpost via Flickr, 2007-10-15, CC BY 2.0
+- Sampul halaman Steam _Chinese Paladin_ — Photo: gambar resmi toko Steam _Softstar Entertainment_, Fair use editorial commentary pada retrospektif IP 30 tahun
+- Sampul halaman Steam _Xuan Yuan Sword VII_ — Photo: gambar resmi toko Steam _Softstar Entertainment_, Fair use editorial commentary pada retrospektif IP 30 tahun
 
 ---
 
 ## Referensi
 
-[^1]: [Mirror Weekly: Semi Abad Xuanyuan (1) K난 R&D Game Wuxia Berbahasa Tionghoa Pertama](https://www.mirrormedia.mg/story/20210205insight003) — Tsai Minghong mengenang pembentukan Tim DOMO
+[^1]: [Mirror Media: Xuan Yuan Sword 60 tahun (1) Riset dan pengembangan dengan keterbatasan - Tsai Ming-hong mengingat kembali Kelompok DOMO](https://www.mirrormedia.mg/story/20210205insight003) — Tsai Ming-hong mengingat kembali Kelompok DOMO saat berdiri
 
-[^2]: [Mirror Weekly: Semi Abad Xuanyuan (1)](https://www.mirrormedia.mg/story/20210205insight003) — Tsai Minghong berbicara tentang pusat perbelanjaan Guanghua, berbagi komputer, dan belajar sendiri
+[^2]: [Mirror Media: Xuan Yuan Sword 60 tahun (1)](https://www.mirrormedia.mg/story/20210205insight003) — Tsai Ming-hong membicarakan tentang Pasar Komputer Guanghua, berbagi komputer, belajar teknologi sendiri
 
-[^3]: [Wikipedia: Xuanyuan Jian (Game)](https://zh.wikipedia.org/zh-tw/%E8%BD%A9%E8%BE%95%E5%89%91_%28%E6%B8%B8%E6%88%8F%29) — Rilis RPG Wuxia berbahasa Tionghoa pertama pada Oktober 1990
+[^3]: [Wikipedia: Xuan Yuan Sword (game)](https://zh.wikipedia.org/zh-tw/%E8%BD%A9%E8%BE%95%E5%89%91_%28%E6%B8%B8%E6%88%8F%29) — Rilis Oktober 1990 dari RPG wushu berbahasa Tionghoa pertama
 
-[^4]: [Wikipedia: Xian Jian Qixia Chuan (Game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Penjualan pada 7 Juli 1995, spesifikasi teknis
+[^4]: [Wikipedia: Chinese Paladin (game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Diluncurkan 7 Juli 1995, spesifikasi teknis
 
-[^5]: [Wikipedia: Xian Jian Qixia Chuan (Game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Evolusi naskah dari Kerusuhan An Lushan ke tema kemanusiaan
+[^5]: [Wikipedia: Chinese Paladin (game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Evolusi skenario dari pemberontakan An-Shi ke tema kemanusiaan
 
-[^6]: [Wikipedia: Xian Jian Qixia Chuan (Game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Kontroversi akhir cerita: Yao Zhuangxian vs Xie Chonghui, Lin Jiawen
+[^6]: [Wikipedia: Chinese Paladin (game)](https://zh.wikipedia.org/zh-tw/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0_%28%E6%B8%B8%E6%88%8F%29) — Ending kontroversial: Yao Zhuangxian vs Xie Conghuai, Lin Jiaven
 
-[^7]: [Wikipedia: Zhao Ling'er](https://zh.wikipedia.org/zh-tw/%E8%B6%99%E9%9D%88%E5%85%92) — Klarifikasi rumor patah hati, prototipe karakter dari teman sekelas di universitas
+[^7]: [Wikipedia: Zhao Ling-er](https://zh.wikipedia.org/zh-tw/%E8%B6%99%E9%9D%88%E5%85%92) — Klarifikasi gosip patah hati, karakter berasal dari teman sekelas perempuan di universitas
 
-[^8]: [T Ke-bang: Xian Jian 20 Tahun, Bagaimana Yao Zhuangxian Menilai Masa Lalu Ini?](https://www.techbang.com/posts/24345-xian-jianqi-20-years-the-father-of-the-fairy-sword-yao-zhuangxian-how-to-evaluate-this-past) — Sepuluh ribu pada hari pertama, lebih dari satu juta secara kumulatif, tiga besar selama enam tahun berturut-turut
+[^8]: [TechBang: Xuan Yuan Sword 20 tahun, bagaimana Yao Zhuangxian mengevaluasi masa lalu ini?](https://www.techbang.com/posts/24345-xian-jianqi-20-years-the-father-of-the-fairy-sword-yao-zhuangxian-how-to-evaluate-this-past) — Hari pertama 10.000 unit, total kumulatif melebihi satu juta, konsisten di top 3 jajak pendapat selama enam tahun
 
-[^9]: [Wikipedia: Xuanyuan Jian San Beyond Yunhe Mountain](https://zh.wikipedia.org/zh-tw/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83_%E9%9B%B2%E5%92%8C%E5%B1%B1%E7%9A%84%E5%BD%BC%E7%AB%AF) — Dirilis pada tahun 1999; protagonis Sait memulai dari Venesia dan mencari Tang yang jauh ke timur melintasi Eurasia
+[^9]: [Wikipedia: Xuan Yuan Sword III: The Clouds and Mists of Mount Tai](https://zh.wikipedia.org/zh-tw/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83_%E9%9B%B2%E5%92%8C%E5%B1%B1%E7%9A%84%E5%BD%BC%E7%AB%AF) — Rilis 1999; karakter utama Setare berangkat dari Venesia, melintasi Eropa-Asia menuju Dinasti Tang
 
-[^10]: [Xuanyuan Jian Wiki: Guci Pemurnian Iblis](https://wikisword.fandom.com/wiki/%E7%85%89%E5%A6%96%E5%A3%BA) — Sistem pemurnian dimulai sejak _Xuanyuan Jian II_
+[^10]: [Xuan Yuan Sword Wiki: Cauldron of Alchemy](https://wikisword.fandom.com/wiki/%E7%85%89%E5%A6%96%E5%A3%BA) — Sistem Alchemy dimulai dari _Xuan Yuan Sword II_
 
-[^11]: [Encyclopedia Knowledge: Die Lian](https://www.newton.com.tw/wiki/%E8%9D%B6%E6%88%80) — Pengenalan lagu Die Lian, adegan pemutaran, modifikasi pemain
+[^11]: [Pengetahuan Newton: Butterfly Love](https://www.newton.com.tw/wiki/%E8%9D%B6%E6%88%80) — Pengenalan lagu Butterfly Love, adegan pemutaran, adaptasi pemain
 
-[^12]: [Bahamut: Remake Die Lian 2026](https://forum.gamer.com.tw/C.php?bsn=2417&snA=39726) — Lin Kunxin mengaransemen ulang di acara Tahun Baru Februari 2026
+[^12]: [Bahamut: Versi Remasterisasi _Butterfly Love_ 2026](https://forum.gamer.com.tw/C.php?bsn=2417&snA=39726) — Lin Kunxin mengatur ulang di pertemuan Tahun Baru penggemar Februari 2026
 
-[^13]: [Wikipedia: Xuanyuan Jian San Beyond Yunhe Mountain](https://zh.wikipedia.org/zh-tw/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83_%E9%9B%B2%E5%92%8C%E5%B1%B1%E7%9A%84%E5%BD%BC%E7%AB%AF) — Penghargaan Musik Terbaik pada majalah Computer Player tahun 1999
+[^13]: [Wikipedia: Xuan Yuan Sword III: The Clouds and Mists of Mount Tai](https://zh.wikipedia.org/zh-tw/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83_%E9%9B%B2%E5%92%8C%E5%B1%B1%E7%9A%84%E5%BD%BC%E7%AB%AF) — Penghargaan terbaik musik dari ajang penghargaan game majalah _Computer Player_ 1999
 
-[^14]: [Liberty Times/United News Network: Serial TV Xian Jian Mendorong Tren Xianxia, Mempopulerkan Hu Ge](https://time.udn.com/udntime/story/122834/8260274) — Rating 11.3%, asal usul genre drama Xianxia
+[^14]: [Time/United Daily News: Serial TV _Chinese Paladin_ 2005 membawa gelombang xianxia, bintang Hu Ge](https://time.udn.com/udntime/story/122834/8260274) — Rating 11,3%, xianxia drama berasal dari sini
 
-[^15]: [Liberty Times/United News Network: Serial TV Xian Jian 2005](https://time.udn.com/udntime/story/122834/8260274) — Dikenal sebagai serial TV terbaik yang diadaptasi dari game Taiwan
+[^15]: [Time/United Daily News: Serial TV _Chinese Paladin_ 2005](https://time.udn.com/udntime/story/122834/8260274) — Disebut serial TV adaptasi game terbaik Taiwan
 
-[^16]: [Bahamut: Dua Pedang Dayu Dijual Seharga 500 Juta, Kedua Pembeli Terungkap](https://gnn.gamer.com.tw/detail.php?sn=273691) — Pengumuman transaksi pada 11 September 2024, jumlah dan pembeli
+[^16]: [Bahamut: Softstar menjual Dua Pedang IP dengan harga 500 juta, dua pembeli terungkap](https://gnn.gamer.com.tw/detail.php?sn=273691) — Pengumuman transaksi 11 September 2024, jumlah dan pembeli
 
-[^17]: [Digital Age: Beralih ke Game Seluler! CEO Dayu Ungkap "Investasi 800 Juta dalam 6 Tahun" Proses R&D](https://www.bnext.com.tw/article/79213/softstar-xuan-yuan-sword) — Xian Qi hanya impas dengan 500 ribu eksemplar, Xuanyuan Jian gagal total, ratusan juta per tahun untuk R&D
+[^17]: [Digital Times: Jangan lagi menghabiskan 5-8 tahun! Ketua Softstar ungkap "investasi 850 juta dalam 6 tahun"](https://www.bnext.com.tw/article/79213/softstar-xuan-yuan-sword) — _Chinese Paladin VII_ 500.000 unit impas, _Xuan Yuan Sword VII_ bencana besar, R&D tahunan miliaran
 
-[^18]: [Bahamut: Pengumuman Dayu Mengenai Pengunduran Diri Ayah Xuanyuan Jian Tsai Minghong](https://gnn.gamer.com.tw/detail.php?sn=268248) — Tsai Minghong meninggalkan Dayu: lihat isi tautan asli
+[^18]: [Bahamut: Pengumuman Softstar - Tsai Ming-hong mengundurkan diri](https://gnn.gamer.com.tw/detail.php?sn=268248) — Tsai Ming-hong pergi dari Softstar: lihat link asli untuk rincian lengkap
 
-[^19]: [Key Review Network: Penjualan Warisan Leluhur Dayu Mengguncang Pasar, Bagaimana Dua Pedang Memudar?](https://www.thenewslens.com/article/203442) — Reaksi pemain, esai seribu kata Tu Junguang dibagikan 1.400 kali
+[^19]: [The News Lens: Softstar menjual harta warisan memicu guncangan pasar, bagaimana Dua Pedang menurun?](https://www.thenewslens.com/article/203442) — Reaksi pemain, postingan Facebook seribu kata Tu Junguang dibagikan 1.400 kali
 
-[^20]: [Digital Age: "Dua Pedang" Dayu Information Dijual Resmi, Siapa yang Mengambil Alih Xian Jian dan Xuanyuan Jian?](https://www.bnext.com.tw/article/79394/softstar-interview-2024) — Strategi transformasi Dayu dan posisi historis Dua Pedang
+[^20]: [Digital Times: "Dua Pedang" Softstar secara resmi dijual, siapa yang menerima _Chinese Paladin_ dan _Xuan Yuan Sword_?](https://www.bnext.com.tw/article/79394/softstar-interview-2024) — Strategi transformasi Softstar dan posisi historis Dua Pedang
 
-[^21]: [UDN Game: Catatan Lengkap Pengunduran Diri Tsai Minghong](https://game.udn.com/game/story/122089/2626899) — Tsai Minghong direkrut oleh Li Yongjin pada tahun 1988 setelah lulus SMA, nomor karyawan 004, kronologi pengangkatan menjadi CEO dan pengunduran diri pada tahun 2024. Kutipan "Pekerjaan selesai berarti bisa pulang, jika tidak bagus maka 'berhenti di titik baik'," "Semangat pemain selalu menjadi alasan utama saya berjuang dalam industri game."
+[^21]: [UDN Game: Catatan Lengkap Pengunduran Diri Tsai Ming-hong](https://game.udn.com/game/story/122089/2626899) — Tsai Ming-hong lulus SMA 1988 diundang Li Yongjin masuk Softstar, nomor karyawan 004, naik menjadi general manager 2017, waktu pengunduran diri 2024. Kutipan "pekerjaan bagus bisa pulang, pekerjaan tidak bagus 'kerja sampai bagus'", "semangat pemain selalu menjadi kekuatan pendorong saya berjuang di industri game".
 
-[^22]: [Bahamut GNN: Chengdu Xingyue Chenshi Mengumumkan Akuisisi IP Global Permanen Xuanyuan Jian](https://gnn.gamer.com.tw/detail.php?sn=287866) — Pengumuman konferensi pers 24/6/2025 oleh Chengdu Xingyue Chenshi mengambil alih IP global Xuanyuan Jian dari Huandong Hong Kong, serial animasi pertama berinvestasi 100 juta RMB, film animasi disutradarai Lu Yang dan ditulis Yu Yang tayang akhir 2027.
+[^22]: [Bahamut GNN: Chengdu Star Yuechen Stone mengumumkan akuisisi _Xuan Yuan Sword_ IP seluruh dunia](https://gnn.gamer.com.tw/detail.php?sn=287866) — 24 Juni 2025 konferensi pers Chengdu Star Yuechen Stone menerima _Xuan Yuan Sword_ dari Happyforce Hong Kong, investasi episode anime 100 juta yuan China, film anime sutradara Lu Yang skenario Yu Yang rilis akhir 2027 China.
 
-[^23]: [17173 Game: File Beta Lengkap Xian Jian World 2025](https://newgame.17173.com/content/01152025/100610777.shtml) — Uji coba beta Chengdu Mobile Games _Xian Jian World_ pada 19/2/2025, R&D 300 juta RMB, dunia terbuka seluas 384 km persegi, tim 240 bintang, pre-order lebih dari 10 juta, latar belakang "siklus kehancuran bencana alam selama 33 tahun kalender Xian Jian."
+[^23]: [17173 Games: _Chinese Paladin World_ Dokumentasi Lengkap Open Beta 2025](https://newgame.17173.com/content/01152025/100610777.shtml) — Perfectworld Games _Chinese Paladin World_ open beta 19 Februari 2025, investasi R&D 300 juta yuan China, dunia terbuka 384 kilometer persegi, studio Fullstar 240 orang, pre-order melebihi 10 juta, worldview "era _Chinese Paladin_ 33 tahun setelah kehancuran dunia, waktu berputar".
 
-[^24]: [NetEase: Laporan Keuangan Chengdu Mobile Games 2025](https://www.163.com/dy/article/JFC8KO900553HFEQ.html) — Pendapatan Chengdu Mobile Games menurun sebesar 27.98% pada tahun 2025, kerugian bersih 1,477 miliar RMB, karyawan dari 710 menjadi 260, pernyataan resmi "Pendapatan _Xian Jian World_ tidak memenuhi harapan."
+[^24]: [NetEase: Laporan keuangan Perfectworld Games 2025](https://www.163.com/dy/article/JFC8KO900553HFEQ.html) — Perfectworld Games 2025 pendapatan turun 27,98%, kerugian bersih 1,477 miliar yuan China, karyawan menyusut 710 menjadi 260, "pendapatan _Chinese Paladin World_ tidak memenuhi ekspektasi" pernyataan resmi.
 
-[^25]: [Digital Age: Dayu Information Mengganti Nama Menjadi Star Fusion Group](https://www.bnext.com.tw/article/84981/star-fusion-group-transformation-and-vision) — Pengumuman dewan direksi pada 3/11/2025 mengubah nama menjadi Star Fusion Group, disetujui Departemen Ekonomi pada 7/1/2026, 11 anak perusahaan, 30 cucu perusahaan, karyawan 3.600 orang, porsi semikonduktor 65%, kutipan kata demi kata Tu Junguang "Baru setelah masuk ke semikonduktor saya tahu betapa jauhnya perbedaan dengan industri game."
+[^25]: [Digital Times: Softstar berubah nama menjadi Star Fusion Group](https://www.bnext.com.tw/article/84981/star-fusion-group-transformation-and-vision) — 3 November 2025 dewan direktur Softstar mengesahkan perubahan nama Star Fusion Group, 7 Januari 2026 Kementerian Ekonomi menyetujui, 11 anak perusahaan 30 cucu perusahaan 3.600 karyawan, bisnis semikonduktor 65%, Tu Junguang "Barulah tahu masuk semikonduktor perbedaannya begitu besar" kutipan verbatim.
 
-[^26]: [UDN Game: Pertemuan Pemain Xian Jian World Yao Zhuangxian 2025](https://game.udn.com/game/story/122089/8413580) — Yao Zhuangxian yang berusia 56 tahun menanggapi arah karya Xian Jian berikutnya "Tidak akan pernah berakhir tragis," "Remake Xian Jian dan cerita baru, pilih salah satu," "Xian Qi adalah membuat game sambil menulis cerita," "Berharap Chengdu Mobile Games dapat mengintegrasikan teknologi produksi game tunggal, game seluler, dan game online setelah mengambil alih IP global _Xian Jian_."
+[^26]: [UDN Game: Yao Zhuangxian 2025 Forum Pemain _Chinese Paladin World_](https://game.udn.com/game/story/122089/8413580) — Yao Zhuangxian berusia 56 tahun merespons arah karya _Chinese Paladin_ baru di forum pemain "tidak akan pernah ada ending tragis", "remake _Chinese Paladin_ versi 1 atau cerita baru pilih satu", "versi 7 mengembangkan game sambil menulis cerita", "semoga setelah Perfectworld Games menerima IP _Chinese Paladin_ seluruh dunia, di masa depan dapat mengintegrasikan teknologi pembuatan game single-player, mobile, online" kutipan verbatim.
 
-[^27]: [Wikipedia: Xian Jian Qixia Chuan Baru](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0) — Akhir tersembunyi ditambahkan dalam _Xian Jian Qixia Chuan_ yang dirilis pada tahun 2001, sebagai tanggapan terhadap protes kolektif pemain. Tetapi "tidak peduli akhir apa pun, Zhao Ling'er dan Lin Yueru hanya bisa hidup satu."
+[^27]: [Wikipedia: New Chinese Paladin](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0) — Tahun 2001 _New Chinese Paladin_ menambahkan ending tersembunyi, merespons protes kolektif pemain. Tetapi "tidak peduli ending mana pun, Zhao Ling-er dan Lin Yueru hanya bisa hidup satu".
 
-[^28]: [Chinese Encyclopedia: Die Lian](https://www.newton.com.tw/wiki/%E8%9D%B6%E6%88%80) — Lirik _Die Lian_ oleh Xiao Peng (張金鵬), musik oleh Lin Kunxin, dinyanyikan Candy (周黎菁), versi Liu Yifei yang salah selama bertahun-tahun di internet diklarifikasi oleh penulis lirik Zhang Jinpeng dan netizen. Adegan pemutaran adalah Butterfly Jingcaiyi mengorbankan diri untuk menyelamatkan suaminya Liu Jinyuan.
+[^28]: [Chinese Encyclopedia: Butterfly Love](https://www.newton.com.tw/wiki/%E8%9D%B6%E6%88%80) — _Butterfly Love_ dipasangkan kata Xiaopeng (Zhang Jinpeng), dikomposisi Lin Kunxin, dinyanyikan Candy (Zhou Liging), internet lama menyebar salah "versi Liu Yifei" dikonfirmasi oleh penulis kata Zhang Jinpeng dan netizen. Adegan pemutaran jiwa kupu-kupu Caiyun mengorbankan untuk menyelamatkan suami Liu Jinyuan.

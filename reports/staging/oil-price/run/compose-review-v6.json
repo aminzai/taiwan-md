@@ -1,0 +1,22 @@
+{
+  "revision": 46,
+  "submissionId": "1f61d7a7-600e-4956-86d8-417d36610e47",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "v5 唯一必改照改法落地：s8「9 月 14 日那份新聞稿的公式價，是 32.7 加上還在吸收的 10.5，約 43.2，跟 45.4 差兩塊多，算的不是同一週」，對 9/12 稿逐字「合計汽、柴油各共吸收10.5元」，45.4−43.2＝2.2；s2「比前一週 32.0 元的牌價高 11.2 元」把 11.2 的基準寫明，32.0＋11.2＝43.2 與 s8 一致。正文「43.9」「一塊多」0 次；diff（commit f1a9778a95）只有這兩句，沒有新腳註、新數字、新人名。article-health rewrite-stage-4 與全掃 hard=0 warn=0，prose-health score 1。前輪三處新引證、採納十二條、§13 立場與 unresolved 六條皆不受影響。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「那 36 元，會用三種方式回到帳上」經濟部估算段末句「32.7 加上還在吸收的 10.5，約 43.2，跟 45.4 差兩塊多」；H2「一份新聞稿裡的算式」「比前一週 32.0 元的牌價高 11.2 元」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v6.json",
+      "location": "data.editorialChoices 末段 v6"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v6.md",
+      "location": "全文"
+    }
+  ]
+}

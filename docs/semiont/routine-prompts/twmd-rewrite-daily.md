@@ -13,7 +13,7 @@ description: TWMD rewrite (daily) — 19:00 full-cycle, read REWRITE-PIPELINE + 
 
 ## 2. 完整讀 REWRITE-PIPELINE（不可 head / tail / 取樣）
 
-用 **Read tool 一次讀完** `/Users/cheyuwu/Projects/taiwan-md/docs/pipelines/REWRITE-PIPELINE.md`（無 `limit` / `offset`）。pipeline 叫你讀的檔也完整讀。
+用 **Read tool 一次讀完** `/Users/cheyuwu/Projects/taiwan-md/docs/pipelines/REWRITE-PIPELINE-SINGLE.md`（無 `limit` / `offset`）。pipeline 叫你讀的檔也完整讀。
 
 ## 3. 嚴格照 pipeline 執行（cron 全 cycle）
 

@@ -1,17 +1,10 @@
 ---
-title: 'Lima Bentuk Daratan dan Struktur Geografi Taiwan: dari Pegunungan hingga Dataran'
-description: 'Jelajahi struktur geografi unik Taiwan, dari Pegunungan Tengah hingga Dataran Barat, mengerti keanekaragaman bentuk daratan pulau ini'
+title: 'Struktur geografis Taiwan lima bentuk utama: Dari pegunungan hingga dataran dalam lanskap pulau'
+description: 'Jelajahi struktur geografis unik Taiwan, dari Pegunungan Tengah hingga dataran barat, kenali keragaman topografi pulau ini'
 date: 2026-03-18
 category: 'Geography'
 tags:
-  [
-    'geografi',
-    'bentuk daratan',
-    'pegunungan',
-    'dataran',
-    'Taiwan',
-    'geografi alam',
-  ]
+  ['Geografi', 'Topografi', 'Pegunungan', 'Dataran', 'Taiwan', 'Geografi alam']
 subcategory: '地形與地質'
 author: 'Taiwan.md'
 featured: true
@@ -22,259 +15,259 @@ translatedFrom: 'Geography/台灣五大地形與地理結構.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:b14a14cb2829b8df'
 sourceBodyHash: 'sha256:0d43b9a8dba0aa39'
-translatedAt: '2026-09-15T19:45:29+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-# Lima Bentuk Daratan dan Struktur Geografi Taiwan: dari Pegunungan hingga Dataran
+# Struktur geografis Taiwan lima bentuk utama: Dari pegunungan hingga dataran dalam lanskap pulau
 
-## Gambaran 30 Detik
+## Ringkasan 30 detik
 
-Taiwan adalah pulau yang panjang vertikal dan memiliki bentuk daratan yang rumit, terdiri dari **lima bentuk daratan**: pegunungan, perbukitan, dataran tinggi, lembangan, dan dataran. **Lima pegunungan** (Pegunungan Tengah, Pegunungan Salju, Pegunungan Yushan, Pegunungan Alishan, Pegunungan Pesisir) berjalan dari utara ke selatan, sementara **lima dataran** (Dataran Jiayi-Nansi, Dataran Zhanghua, Dataran Pingtung, Dataran Yilan, Lembangan Timur) menjadi tempat pertanian Taiwan. Struktur asimetris ini — "pegunungan condong ke timur, dataran condong ke barat" — menciptakan pemandangan alam dan distribusi penduduk yang unik.
+Taiwan adalah sebuah pulau sempit dari utara ke selatan dengan topografi kompleks, terdiri dari **lima bentuk benua utama**: dataran gunung, bukit, dataran tinggi, cekungan, dan dataran. **Lima pegunungan utama** (Pegunungan Tengah, Pegunungan Xueshan, Pegunungan Yushan, Pegunungan Alishan, Pegunungan Pantai) berjalan dari utara ke selatan, sementara **lima dataran utama** (Dataran Jianam, Dataran Zhanghua, Dataran Pingdong, Dataran Yilan, Ngarai Hualien-Taidung) membina peradaban pertanian Taiwan. Struktur asimetris ini — "pegunungan di timur, dataran di barat" — menciptakan lanskap alam dan distribusi kemanusiaan yang unik bagi Taiwan.
 
-Dari permukaan laut hingga puncak Yushan di 3.952 meter, Taiwan menempati jarak horizontal kurang dari 150 km yang melintasi empat zona ekologi: tropis, subtropis, sedang, dan dingin. Kompresi vertikal ini hampir tidak ada di pulau lain di dunia yang setara.
+Dari permukaan laut hingga puncak Gunung Yushan pada 3.952 meter, Taiwan melintasi iklim tropis, subtropis, temperata, dan bersuhu dingin dalam jarak horizontal kurang dari 150 kilometer — kompresi vertikal ini hampir tidak ada duanya di antara pulau-pulau dengan luas yang sama di seluruh dunia.
 
-Dari total luas pulau 35.808 km², pegunungan mendudati 29%, perbukitan dan dataran tinggi 40%, sementara dataran yang dapat digunakan kurang dari seper-tiga, namun tetap menampung lebih dari 23 juta penduduk.
+Dari total luas pulau 35.808 kilometer persegi, dataran gunung menempati 29%, bukit dan dataran tinggi menempati 40%, sementara dataran yang dapat digunakan kurang dari sepertiga, namun menampung lebih dari 23 juta jiwa.
 
-Kata kunci: Pegunungan Tengah, Dataran Jiayi-Nansi, tektonik tekanan, sedimentasi sungai, keanekaragaman geografi
+Kata kunci: Pegunungan Tengah, Dataran Jianam, kompresi lempeng, sedimen sungai, keragaman geografis
 
-## Mengapa Ini Penting
+## Mengapa penting
 
-Taiwan hanya berluas 36.000 km², namun dari puncak Yushan di 3.952 meter hingga dataran barat di permukaan laut, perbedaan ketinggian mencapai hampir 4.000 meter. Struktur geografi ini membentuk pertanian, populasi, iklim, dan pola ekologi Taiwan.
+Luas Taiwan hanya 36 ribu kilometer persegi, namun berkisar dari Gunung Yushan pada 3.952 meter hingga dataran barat di permukaan laut, dengan perbedaan ketinggian vertikal hampir 4.000 meter. Struktur geografis ini membentuk pola pertanian, populasi, iklim, dan ekologi Taiwan.
 
-85% penduduk tinggal di dataran barat, menjadi pusat politik dan ekonomi; Pegunungan Tengah menghalangi angin musim dingin, menciptakan pola curah hujan yang sangat berbeda antara timur dan barat; zona ekologi vertikal dari subtropis hingga sedang membuat Taiwan menonjol dalam keanekaragaman hayati di antara pulau-pulau setara di dunia.
+85% populasi terkonsentrasi di dataran barat, menjadi pusat Politik dan ekonomi; Pegunungan Tengah menghalangi angin musim timur laut, menciptakan pola hujan yang sangat berbeda antara timur dan barat; dari zona ekologi subtropis hingga temperata yang sejuk, membuat Taiwan termasuk dalam peringkat teratas keragaman hayati di antara pulau-pulau serupa di seluruh dunia.
 
-Memahami topografi Taiwan berarti memahami mengapa pulau ini bisa menghasilkan keanekaragaman alam dan budaya yang luas di lahan yang sempit.
+Memahami topografi Taiwan adalah memahami bagaimana pulau ini dapat menumbuhkan lanskap alam dan kemanusiaan dengan perbedaan besar di area tanah yang sangat terbatas.
 
-## Lima Pegunungan: Tulang Punggung Taiwan
+## Lima pegunungan: Tulang belakang Taiwan
 
-Lima pegunungan utama Taiwan berjalan dari utara ke selatan, membentuk struktur "tulang punggung", menjadi akar utama asimetri topografi Taiwan (timur curam, barat landai). Pegunungan Tengah berpanjang 340 km, rata-rata ketinggian di atas 2.000 meter, menjadi sumbu geografi pulau; puncak utama Pegunungan Yushan adalah 3.952 meter, tertinggi di Asia Timur; puncak utama Pegunungan Salju adalah 3.886 meter, tertinggi kedua di Taiwan.
+Lima pegunungan utama Taiwan berjalan dari utara ke selatan, membentuk struktur "tulang belakang", merupakan alasan mendasar dari ketidaksimetrisan topografi Taiwan (timur curam, barat landai). Pegunungan Tengah sepanjang 340 kilometer, dengan ketinggian rata-rata melebihi 2.000 meter, adalah sumbu geografi pusat pulau; Pegunungan Yushan dengan puncak 3.952 meter adalah puncak tertinggi di Asia Timur Laut; Pegunungan Xueshan dengan puncak 3.886 meter adalah puncak kedua tertinggi Taiwan.
 
-### Pegunungan Tengah: Tulang Punggung Pulau
+### Pegunungan Tengah: Tulang belakang pulau
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Panjang 340 km, menyusuri utara-selatan Taiwan
-- Rata-rata ketinggian di atas 2.000 meter
-- Memiliki paling banyak puncak di atas 3.000 meter di Taiwan
-- Merupakan pemisah antara Samudra Pasifik dan Laut Cina Selatan
+- Panjang 340 kilometer, melintang dari utara ke selatan Taiwan
+- Ketinggian rata-rata melebihi 2.000 meter
+- Memiliki puncak tertinggi di atas 3.000 meter paling banyak di Taiwan
+- Adalah pemisah cuaca antara Samudra Pasifik dan Selat Taiwan
 
-**Latar Belakang Geologi:**
-Pegunungan Tengah terbentuk dari interaksi antara lempeng Eurasia dan lempeng Filipina, terutama terdiri dari batuan metamorf. Pegunungan ini bukan hanya tulang punggung geografi, tetapi juga batas ekologi dan budaya.
+**Latar belakang geologis:**
+Pegunungan Tengah adalah produk dari tabrakan dan kompresi antara lempeng Eurasia dan lempeng Filipina, terutama terdiri dari batu metamorf. Pegunungan ini bukan hanya tulang belakang geografis Taiwan, tetapi juga garis pembatas ekologi dan budaya.
 
-**Puncak Penting:**
+**Puncak penting:**
 
-- Gunung Xueshandong (3.860 meter): puncak tertinggi Pegunungan Tengah
+- Gunung Xiuguluan (3.860 meter): Puncak tertinggi Pegunungan Tengah
 - Gunung Nanhu (3.742 meter)
 
-### Pegunungan Salju: Penghalang di Utara Taiwan
+### Pegunungan Xueshan: Penghalang Taiwan utara
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di sebelah utara Taiwan, panjang sekitar 180 km
-- Terutama terdiri dari batuan lempung dan terpal
-- Puncak utama Gunung Salju 3.886 meter, tertinggi kedua di Taiwan
+- Terletak di bagian utara Taiwan, panjang sekitar 180 kilometer
+- Terutama terdiri dari batu sabak, batu lempung
+- Puncak Xueshan 3.886 meter, puncak kedua tertinggi Taiwan
 
-**Makna Ekologi:**
-Pegunungan Salju adalah ekosistem pegunungan terbaik yang tersimpan di Taiwan. Hutan Salju, Danau Cuichi, dan kawasan 369 adalah tempat yang sering dikunjungi oleh pendaki. Hewan langka seperti kijang air Taiwan dan burung cekakakak bertahan di sini.
+**Signifikansi ekologi:**
+Pegunungan Xueshan adalah ekosistem pegunungan tinggi yang terpelihara terbaik di Taiwan, dengan hutan hitam Xueshan, kolam Cui, dan stasiun 369 adalah tempat ziarah pendaki gunung. Rusa air Taiwan dan burung elang bergelembung langka tinggal di sini.
 
-### Pegunungan Yushan: Puncak Tertinggi Asia Timur
+### Pegunungan Yushan: Puncak tertinggi Asia Timur Laut
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di tengah-selatan Taiwan
-- Puncak utama Gunung Yushan 3.952 meter, tertinggi di Asia Timur
-- Terdiri dari batuan vulkanik dan terpal
+- Terletak di bagian tengah-selatan Taiwan
+- Puncak Gunung Yushan 3.952 meter, puncak tertinggi Asia Timur Laut
+- Terdiri dari batu sekis, batu sabak
 
-**Makna Budaya:**
-Gunung Yushan (disebut Pattonkan oleh suku Zou, legenda menyebutkan nenek moyang mereka dulunya tinggal di puncak Gunung Yushan) adalah gunung suci bagi suku asli, juga menjadi simbol spiritual Taiwan. Pada 1895, setelah jajahan Jepang, dinamai "Xin Gaoshan"; pada 1945, setelah perang, secara resmi dinamai "Gunung Yushan".
+**Signifikansi budaya:**
+Gunung Yushan (yang disebut oleh suku Tsou sebagai Pattonkan, dalam legenda nenek moyang mereka tinggal di puncak Gunung Yushan) adalah gunung suci bagi masyarakat adat, dan juga lambang spiritual Taiwan. Setelah 1895 menjadi tanah jajahan Jepang dinamakan "Shin-Takayama", pada 1945 setelah perang secara resmi diberi nama "Gunung Yushan".
 
-### Pegunungan Alishan: Tanah Air Kereta Api Hutan
+### Pegunungan Alishan: Asal-usul rel kereta hutan
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di tengah-selatan Taiwan, ketinggian 1.000–2.000 meter
-- Terutama terdiri dari batuan pasir dan terpal
-- Terkenal dengan matahari terbit, awan, dan jalur kereta api hutan
+- Terletak di bagian tengah-selatan Taiwan, ketinggian 1.000-2.000 meter
+- Terutama terdiri dari batu pasir, batu lempung
+- Terkenal dengan matahari terbit, laut awan, rel kereta hutan
 
-**Lanskap Budaya:**
-Alishan sejak awal abad ke-20 mulai dari industri penggulungan kayu, hingga 1990-an beralih ke pariwisata ekologi, menyaksikan perubahan konsep penggunaan sumber daya alam di Taiwan.
+**Lanskap kemanusiaan:**
+Pegunungan Alishan dari industri penebangan yang dimulai pada tahun 1910 selama periode kolonial Jepang, hingga transformasi menjadi pariwisata ekologi pada tahun 1990-an, menyaksikan perubahan konsep penggunaan sumber daya alam Taiwan.
 
-### Pegunungan Pesisir: Pegunungan Termuda
+### Pegunungan Pantai: Pegunungan muda
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di sebelah timur Taiwan, panjang sekitar 150 km
-- Ketinggian 600–1.600 meter
-- Merupakan pegunungan termuda di Taiwan (sekitar 5 juta tahun)
+- Terletak di bagian timur Taiwan, panjang sekitar 150 kilometer
+- Ketinggian 600-1.600 meter
+- Adalah pegunungan termuda di Taiwan (sekitar 5 juta tahun)
 
-**Ciri Geologi:**
-Pegunungan Pesisir terbentuk dari dorongan lempeng Filipina, terutama terdiri dari batuan vulkanik dan sedimen. Sumber air panas Zhiben, Sumber air panas Antong, dll., tersebar di sini.
+**Ciri geologis khusus:**
+Pegunungan Pantai terbentuk dari dorongan lempeng Filipina, terutama terdiri dari batu vulkanik, batu endapan. Kelompok mata air panas seperti mata air panas Zhiben, mata air panas Antong tersebar di wilayah ini.
 
-## Lima Dataran: Sarana Peradaban Pertanian
+## Lima dataran: Tempat lahir peradaban pertanian
 
-### Dataran Jiayi-Nansi: Dataran Terbesar di Taiwan
+### Dataran Jianam: Dataran terbesar Taiwan
 
-**Skala dan Rentang:**
+**Skala dan jangkauan:**
 
-- Luas sekitar 4.550 km², terbesar di Taiwan
-- Meliputi kabupaten Yunlin, Jiayi, Tainan, Kaohsiung
-- Lebar timur-barat 71 km, panjang utara-selatan 110 km
+- Luas sekitar 4.550 kilometer persegi, dataran terbesar Taiwan
+- Mencakup Yunlin, Chiayi, Tainan, Kaohsiung dan kota-kota lainnya
+- Lebar timur-barat 71 kilometer, panjang utara-selatan 110 kilometer
 
-**Proses Pembentukan:**
-Terbentuk dari sedimentasi oleh sungai Zhuoshui, Beigao, Babu, Jishui, Zengwen, Yanshui, Erren, dll. Sungai-sungai ini membawa banyak sedimen, setelah ribuan tahun mengendap, membentuk dataran aluvial yang subur.
+**Proses pembentukan:**
+Dibentuk oleh sedimen aliran dari banyak sungai termasuk Sungai Zhuoshui, Sungai Beigang, Sungai Bazhang, Sungai Jishui, Sungai Zengwen, Sungai Yanshui, Sungai Erer. Sungai-sungai ini membawa sedimen dalam jumlah besar, melalui akumulasi selama puluhan ribu tahun, membentuk dataran aluvial yang subur.
 
-**Nilai Pertanian:**
+**Nilai pertanian:**
 
-- Wilayah produksi beras terbesar di Taiwan, memenuhi 30% kebutuhan beras pulau
-- Gula semangka, kacang tanah, ubi kayu adalah tanaman ekonomi utama
-- Pada 1920-an, sistem irigasi besar Jiayi-Nansi dibangun, membuat lahan ini menjadi "gudang beras Taiwan"
+- Wilayah penghasil beras terbesar Taiwan, memasok sepertiga beras seluruh Taiwan
+- Pusat produksi hasil pertanian ekonomi seperti tebu, kacang tanah, ubi jalar
+- Setelah pembangunan Saluran Jianam pada tahun 1920-an, area ini menjadi "Lumbung Pangan Taiwan"
 
 ### Dataran Zhanghua: Karunia Sungai Zhuoshui
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terutama terbentuk dari sedimen sungai Zhuoshui
-- Tanah subur, kadar organik tinggi
-- Pasokan sayuran dan buah utama di utara Taiwan
+- Terutama dibentuk oleh sedimen Sungai Zhuoshui
+- Tanah subur, kandungan bahan organik tinggi
+- Adalah pemasok sayuran dan buah-buahan utama bagian utara Taiwan
 
-**Ciri Pertanian:**
-Dataran Zhanghua terkenal dengan pertanian presisi. Industri bunga sangat berkembang. Anggur di Zhenlin, anggur besar di Dacun, bunga di Tianwei, adalah merek pertanian Taiwan.
+**Kekhususan pertanian:**
+Dataran Zhanghua terkenal dengan pertanian presisi, industri bunga berkembang sangat pesat. Anggur dari Zweilin, anggur Jufeng dari Dacun, bunga dari Tianwei, semuanya adalah merek pertanian Taiwan.
 
-### Dataran Pingtung: Nuansa Tropis di Selatan
+### Dataran Pingdong: Sentuhan tropis negara selatan
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di selatan Taiwan
-- Terbentuk dari sedimentasi bersama sungai Gaoping, Qishan, Laonong, Guduo, Linbei
-- Garis lintang terendah, musim tanam terpanjang
+- Terletak di bagian selatan Taiwan
+- Dibentuk oleh sedimen bersama dari Sungai Gaopin, Sungai Qishan, Sungai Luonong, Sungai Aifu, Sungai Linbian
+- Lintang terendah, musim tumbuh terpanjang
 
-**Kelebihan Pertanian:**
+**Keunggulan pertanian:**
 
 - Iklim hangat sepanjang tahun cocok untuk tanaman tropis
-- Mangga, salak, dan durian adalah produk utama
+- Pusat produksi buah tropis seperti mangga, jambu air, kurma
 - Industri akuakultur berkembang pesat
 
-### Dataran Yilan: Tanah Hijau yang Subur
+### Dataran Yilan: Tanah hijau dengan hujan lebat
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di antara Pegunungan Salju dan Pegunungan Tengah
-- Tiga sisi dikelilingi gunung, satu sisi menghadap laut
-- Curah hujan tinggi, disebut "Venesia Taiwan"
+- Terletak di antara Pegunungan Xueshan dan Pegunungan Tengah
+- Dikelilingi tiga sisi gunung, satu sisi menghadap laut
+- Curah hujan berlimpah, dijuluki "Venesia Taiwan"
 
-**Ciri Pertanian:**
+**Kekhususan pertanian:**
 
-- Wilayah beras berkualitas tinggi
-- Bawang daun tiga bintang, beras air panas Gongli, dikenal di seluruh Taiwan
-- Pelopor pertanian organik
+- Wilayah penghasil beras berkualitas tinggi
+- Bawang merah Sanxing, beras mata air panas Jiaoxi terkenal di seluruh Taiwan
+- Pelopor pengembangan pertanian organik
 
-### Lembangan Timur: Rahasia di Belakang Gunung
+### Ngarai Hualien-Taidung: Rahasia di daerah belakang
 
-**Lokasi dan Ciri Khas:**
+**Lokasi dan ciri-ciri:**
 
-- Terletak di antara Pegunungan Tengah dan Pegunungan Pesisir
-- Dataran sempit, panjang sekitar 180 km
+- Terletak di antara Pegunungan Tengah dan Pegunungan Pantai
+- Dataran sempit memanjang, panjang sekitar 180 kilometer
 
-**Pertanian dan Ekologi:**
+**Pertanian dan ekologi:**
 
-- Pusat penting pertanian organik
-- Budaya pertanian suku asli terjaga baik
-- Bunga kemboja, buah salak, dll., adalah produk khas
+- Basis penting pertanian organik
+- Budaya pertanian masyarakat adat terawat dengan lengkap
+- Bunga jarum emas, buah sirsak adalah produk pertanian khas
 
-## Bentuk Daratan Lainnya
+## Bentuk benua penting lainnya
 
-Selain pegunungan dan dataran, Taiwan juga memiliki dataran tinggi dan lembangan. Dataran tinggi adalah dataran tinggi yang terpotong oleh erosi, menyediakan ruang bagi perkotaan berkembang; lembangan adalah formasi geografi rendah akibat perubahan krustal, seperti lembangan Taipei, Taichung, dan Puli, yang menjadi pusat kependudukan dan politik-ekonomi Taiwan.
+Selain dataran gunung dan dataran, Taiwan juga memiliki dua jenis bentuk benua lainnya: dataran tinggi dan cekungan. Dataran tinggi adalah dataran tinggi rata yang telah terkikis dan terpotong, menyediakan ruang untuk ekspansi perkotaan; cekungan adalah bentuk benua rendah yang terbentuk dari perubahan kerak bumi, tiga cekungan utama Taipei, Taichung, dan Puli adalah pusat populasi dan pusat pemerintahan-ekonomi Taiwan.
 
-### Bentuk Dataran Tinggi
+### Bentuk dataran tinggi
 
-**Ciri dan Distribusi:**
+**Ciri-ciri dan distribusi:**
 
-- Dataran Linkou, Dataran Taoyuan, Dataran Dadu, Dataran Wulai
-- Terbentuk dari dataran tinggi yang terpotong oleh erosi sungai
+- Dataran tinggi Linkou, Dataran tinggi Taoyuan, Dataran tinggi Dadu, Dataran tinggi Baguà
+- Dataran tinggi rata yang dibentuk oleh erosi dan pemotongan aliran
 - Drainase baik, cocok untuk pengembangan perkotaan
 
-**Makna Budaya:**
-Dataran tinggi menyediakan ruang penting untuk perkotaan Taiwan. Bandar udara internasional Taoyuan dibangun di Dataran Taoyuan, kota baru Linkou juga memanfaatkan topografi dataran tinggi yang datar.
+**Signifikansi kemanusiaan:**
+Bentuk dataran tinggi menyediakan ruang penting untuk pengembangan perkotaan Taiwan. Bandara Internasional Taoyuan dibangun di atas Dataran tinggi Taoyuan, kota baru Linkou memanfaatkan bentuk dataran tinggi Linkou yang rata.
 
-### Bentuk Lembangan
+### Bentuk cekungan
 
-**Lembangan Utama:**
+**Cekungan utama:**
 
-- **Lembangan Taipei**: luas sekitar 243 km², setelah 1949 menjadi pusat politik dan ekonomi Taiwan
-- **Lembangan Taichung**: inti pengembangan di tengah Taiwan
-- **Lembangan Puli**: di pusat kabupaten Nantou, dikenal sebagai "pusat geografi Taiwan"
+- **Cekungan Taipei**: Luas sekitar 243 kilometer persegi, sejak 1949 menjadi pusat politologi dan ekonomi Taiwan
+- **Cekungan Taichung**: Inti pengembangan Taiwan tengah
+- **Cekungan Puli**: Pusat Kabupaten Nantou, dijuluki "Pusat Geografis Taiwan"
 
-**Pembentukan dan Ciri Khas:**
-Lembangan Taiwan kebanyakan adalah lembangan tektonik, terbentuk dari perubahan krustal. Di dalam lembangan, medan datar, tanah subur, menjadi area penting bagi kepadatan penduduk dan pengembangan perkotaan.
+**Pembentukan dan ciri-ciri:**
+Cekungan Taiwan sebagian besar adalah cekungan struktural yang terbentuk dari perubahan kerak bumi. Di dalam cekungan, medan datar, tanah subur, menjadi area penting untuk kumpulan populasi dan pengembangan perkotaan.
 
-## Dampak Bentuk Daratan pada Pengembangan Taiwan
+## Dampak bentuk benua terhadap pengembangan Taiwan
 
-Bentuk daratan adalah logika dasar bagi seluruh pola budaya Taiwan: distribusi penduduk, wilayah pertanian, zona iklim, pembagian ekologi, semuanya ditentukan oleh konfigurasi ruang antara pegunungan dan dataran. Dataran barat adalah panggung ekonomi Taiwan, pegunungan timur adalah pelindung ekologi dan budaya.
+Bentuk benua adalah logika lapisan dasar dari semua lanskap kemanusiaan Taiwan: distribusi populasi, peta pertanian, partisi iklim, pembagian zona ekologi, semuanya secara langsung ditentukan oleh konfigurasi ruang dataran gunung dan dataran. Dataran barat adalah panggung ekonomi Taiwan, dataran gunung timur adalah penghalang pelindung ekologi dan budaya.
 
-### Faktor Penentu Distribusi Penduduk
+### Penentu distribusi populasi
 
-**Pelekat Penduduk Barat:**
-Sekitar 85% penduduk Taiwan tinggal di dataran barat, membentuk aksis kota dari Taipei hingga Kaohsiung. Pola distribusi ini mencerminkan pengaruh kuat bentuk daratan terhadap aktivitas manusia.
+**Sabuk populasi padat barat:**
+Sekitar 85% populasi Taiwan terkonsentrasi di dataran barat, membentuk "sumbu kota barat" dari Taipei hingga Kaohsiung. Pola distribusi ini secara langsung mencerminkan dampak dalam bentuk benua terhadap aktivitas manusia.
 
-**Kepadadaran Penduduk Timur:**
-Meskipun pemandangan timur indah, banyak gunung dan sedikit dataran, ditambah akses transportasi yang terbatas, kepadatan penduduk relatif rendah, namun hal ini juga berarti lebih banyak ekologi alami dan budaya suku asli yang terjaga.
+**Populasi timur yang jarang:**
+Meskipun pemandangan timur indah, tetapi dengan banyak dataran gunung dan sedikit dataran, ditambah transportasi yang tidak nyaman, kepadatan populasi relatif rendah, namun juga karena itu mempertahankan ekologi asli yang lebih banyak dan budaya masyarakat adat.
 
-### Dasar Pengembangan Pertanian
+### Dasar pengembangan pertanian
 
-**Pertanian Presisi vs Pertanian Skala Besar:**
+**Pertanian presisi vs pertanian kasar:**
 
-Dataran barat mengembangkan pertanian presisi, tanaman bernilai ekonomi tinggi seperti bunga, buah, dan sayuran adalah andalan; pegunungan timur memiliki air bersih, menjadi pusat pertanian organik; daerah pulau mengembangkan model industri pertanian dan pariwisana yang unik.
+Dataran barat melakukan pertanian presisi, hasil pertanian bernilai ekonomi tinggi seperti bunga, sayuran dan buah-buahan adalah kekuatan utama; kualitas air dataran gunung timur bersih, menjadi pusat pengembangan pertanian organik yang penting; wilayah pulau terpencil menggabungkan pertanian dan perikanan khusus dengan pariwisata, mengembangkan model industri yang terdiferensiasi.
 
-### Peran Pengatur Iklim
+### Efek regulasi iklim
 
-**Efek Penghalang Musim:**
-Pegunungan Tengah menghalangi angin musim dingin dan musim hujan, menciptakan:
+**Efek penghalang angin musim:**
+Pegunungan Tengah menghalangi angin musim timur laut dan barat daya, menyebabkan:
 
-- Timur Laut: musim hujan panjang, curah hujan tahunan melebihi 3.000 mm
-- Barat Daya: musim kemarau dan hujan jelas, curah hujan tahunan sekitar 1.500 mm
-- Timur: jalur angin topan, curah hujan terkonsentrasi
+- Timur laut: Musim hujan panjang, curah hujan tahunan di atas 3.000 milimeter
+- Barat daya: Musim kering dan basah jelas, curah hujan tahunan sekitar 1.500 milimeter
+- Timur: Rute angin siklon, curah hujan terkonsentrasi
 
-### Pelindung Keanekaragaman Hayati
+### Penghalang pelindung keragaman ekologi
 
-**Ekosistem Vertikal:**
-Dari permukaan laut hingga puncak Yushan di 3.952 meter, Taiwan memiliki ekosistem lengkap dari tropis hingga sedang. Keanekaragaman hayati vertikal ini langka di pulau kecil.
+**Sistem ekologi vertikal:**
+Dari permukaan laut hingga Gunung Yushan pada 3.952 meter, Taiwan memiliki ekosistem yang lengkap dari tropis hingga iklim sejuk. Keragaman ekologi yang terdistribusi secara vertikal semacam ini sangat langka pada pulau sekecil ini.
 
-**Pembatas Biogeografi:**
-Pegunungan Tengah menjadi batas alami bagi distribusi banyak spesies, timur dan barat berevolusi menjadi spesies endemik yang berbeda akibat isolasi geografis.
+**Batas biogeografis:**
+Pegunungan Tengah menjadi garis pemisah alami untuk distribusi banyak spesies hayati, timur dan barat karena isolasi geografis telah berevolusi menjadi spesies endemik yang berbeda.
 
-## Tantangan dan Peluang Struktur Geografi
+## Tantangan dan peluang dari struktur geografis
 
-### Kerentanan Bencana Alam
+### Kerentanan terhadap bencana alam
 
-Taiwan terletak di Jalur Pasifik Ring of Fire, aktivitas tektonik menyebabkan gempa bumi 921 pada 1999 (magnitudo 7,3) yang menelusuhkan lebih dari 2.400 nyawa, merupakan bencana gempa terparah di Taiwan modern, juga mendorong revisi lengkap aturan bangunan tahan gempa.
+Taiwan terletak di Sabuk Api Pasifik, aktivitas lempeng menyebabkan Gempa bumi 921 tahun 1999 (skala Richter 7,3) menewaskan lebih dari 2.400 orang, adalah bencana gempa paling serius dalam sejarah Taiwan modern, dan juga secara langsung mendorong revisi lengkap peraturan ketahanan gempa bangunan.
 
-Gunung yang curam membuat hujan badai musim topan mudah memicu aliran tanah, sungai yang pendek menyebabkan banjir tiba-tiba, perubahan iklim semakin memperparah frekuensi dan intensitas cuaca ekstrem.
+Dataran gunung yang curam membuat hujan badai siklon mudah memicu tanah longsor, sungai pendek menyebabkan banjir meningkat pesat dengan cepat, perubahan iklim lebih lanjut meningkatkan frekuensi dan intensitas cuaca ekstrem.
 
-### Peluang Pengembangan
+### Peluang pengembangan
 
-Keanekaragaman bentuk darawan juga membuka peluang pengembangan yang melimpiah: perbedaan pemandangan dari pesisir hingga puncak gunung menciptakan sumber daya wisata; ketinggian yang berbeda cocok untuk tanaman yang berbeda, membuat pertanian Taiwan beragam; angin dan air di Pegunungan Tengah, potensi panas bumi, adalah kekayaan alam energi terbarukan Taiwan.
+Keragaman bentuk benua juga membawa peluang pengembangan yang melimpah: perbedaan lanskap dari pantai hingga gunung tinggi menciptakan sumber daya pariwisata; ketinggian yang berbeda cocok untuk tanaman yang berbeda, membuat pertanian Taiwan beragam; angin dan energi air Pegunungan Tengah, serta potensi panas bumi, adalah modal alami Taiwan untuk energi terbarukan.
 
-**Posisi Strategis Internasional:**
-Taiwan terletak di jalur laut Asia Timur, posisinya strategis penting, topografi gunung juga menyediakan pelindung alami.
+**Posisi strategis internasional:**
+Taiwan terletak di persimpangan transportasi laut Asia Timur, posisi geografis memiliki nilai strategis penting, bentuk benua pegunungan juga menyediakan penghalang pertahanan alami.
 
-## Penutup: Kasus Klasik Geografi Pulau
+## Kesimpulan: Contoh tipikal geografi pulau
 
-Struktur bentuk daratan Taiwan adalah hasil interaksi jangka panjang antara gerakan tektonik, iklim, dan aktivitas manusia. Pegunungan Tengah, Dataran Jiayi-Nansi, Pegunungan Pesisah, lapisan batuan metamorf tua — elemen geografi ini bersama membentuk pemandangan alam Taiwan, membatasi dan membentuk gaya hidup, perkembangan budaya, dan aktivitas ekonomi di pulau ini.
+Struktur bentuk benua Taiwan adalah produk dari gerakan lempeng jangka panjang, aksi iklim, dan aktivitas manusia yang saling terkait. Pegunungan Tengah, Dataran Jianam, Pegunungan Pantai, lapisan batu metamorf kuno — elemen geografis ini secara bersama-sama membentuk lanskap alam Taiwan, dan juga membatasi dan membentuk cara hidup, pengembangan budaya, dan aktivitas ekonomi orang-orang di pulau ini.
 
-Memahami bentuk daratan Taiwan berarti memahami mengapa pulau ini bisa menghasilkan keanekaragaman alam dan budaya yang luas di lahan yang terbatas. Dari perspektif geografi manusia, Taiwan adalah salah satu kasus ekstrem dalam hal variasi bentuk darawan di antara pulau-pulau kecil.
+Memahami bentuk benua Taiwan adalah memahami bagaimana pulau ini dapat mengembangkan lanskap alam dan kemanusiaan dengan perbedaan yang nyata di area tanah yang terbatas. Dari perspektif geografi kemanusiaan, Taiwan adalah salah satu kasus paling ekstrem dari diferensiasi bentuk benua di antara pulau-pulau dengan luas kecil.
 
-Struktur geografi ini adalah batasan Taiwan, sekaligus sumber keunikan Taiwan. Bagaimana menemukan peluang di tengah batasan bentuk darawan, bagaimana membangun ketahanan di tengah ancaman bencana alam, inilah yang selalu dihadapi Taiwan.
+Struktur geografis seperti itu, baik merupakan batasan pengembangan Taiwan, juga merupakan sumber keunikan Taiwan. Bagaimana menemukan peluang pengembangan dalam keterbatasan bentuk benua, bagaimana membangun ketahanan dalam ancaman bencana alam, ini adalah masalah yang terus dihadapi Taiwan.
 
 ## Referensi
 
-[^1]: [《Pengantar Geologi Taiwan》](https://www.gsmma.gov.tw/) — Pusat Penelitian Geologi dan Pengelolaan Pertambangan Kementerian Energi。
+[^1]: Pusat Survei Geologi dan Manajemen Pertambangan, Kementerian Ekonomi, [「Ikhtisar Geologi Taiwan」](https://www.gsmma.gov.tw/).
 
-[^2]: [〈Daftar Pegunungan Taiwan〉](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B1%B1%E8%84%88%E5%88%97%E8%A1%A8) — Wikipedia。
+[^2]: Wikipedia, [「Daftar Pegunungan Taiwan」](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B1%B1%E8%84%88%E5%88%97%E8%A1%A8).
 
-[^3]: [〈Dataran Jiayi-Nansi〉](https://zh.wikipedia.org/zh-tw/%E5%98%89%E5%8D%97%E5%B9%B3%E5%8E%9F) — Wikipedia。
+[^3]: Wikipedia, [「Dataran Jianam」](https://zh.wikipedia.org/zh-tw/%E5%98%89%E5%8D%97%E5%B9%B3%E5%8E%9F).
 
-[^4]: [《Geologi Pegunungan Pesisir》](http://www.gl.ntu.edu.tw/) — Departemen Ilmu Bumi, Universitas Taiwan。
+[^4]: Departemen Ilmu Geologi, Universitas Taiwan, [「Penjelasan Geologi Pegunungan Pantai」](http://www.gl.ntu.edu.tw/).
 
-[^5]: [FAQ tentang Ketinggian Gunung Yushan](https://www.ysnp.gov.tw/FAQ/C007000) — Kantor Pengelolaan Nasional Gunung Yushan。
+[^5]: Kantor Manajemen Taman Nasional Yushan, [Pertanyaan Umum Penjelasan Ketinggian Gunung Yushan](https://www.ysnp.gov.tw/FAQ/C007000).
 
-[^6]: [《Data Geografi Dataran Taiwan》](https://www.ehanlin.com.tw/) — Institut Pelajar Cerdas。
+[^6]: Akademi Cloud Hanlin, [「Data Geografis Dataran Taiwan」](https://www.ehanlin.com.tw/).

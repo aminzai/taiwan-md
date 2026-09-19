@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Shujing: Atlet Angkat Besi dari Lunbei, Taiwan, yang Meraih Dua Medali Emas Olimpiade Pertama di Kelas 53 kg'
-description: 'Lahir pada 9 Mei 1991 di desa Lunbei, Kabupaten Yunlin, dalam keluarga Hakka dengan tinggi 159 cm. Ia meraih perak di Olimpiade London 2012 (219 kg), kemudian dikonfirmasi sebagai emas pada Desember 2020 setelah atlet pemenang medali emas dari Kazakhstan, Zhao Changling, gagal dalam uji doping. Pada Olimpiade Rio 2016, ia langsung meraih emas dengan total 212 kg. Ia adalah peraih dua medali emas Olimpiade pertama dari Taiwan. Pensiun pada 3 Juni 2018. Pada tahun 2019, ia menjalani skorsing tiga tahun karena tes doping tahun 2017 (tidak memengaruhi kedua medali emas Olimpiade).'
+title: 'Hsu Shu-ching: Atlet Angkat Berat 53kg Pertama Taiwan Peraih Ganda Emas Olimpiade dari Lunpei 1991'
+description: 'Lahir 9 Mei 1991 di Desa Lunpei, Kabupaten Yunlin, keluarga Hakka, tinggi 159cm. Olimpiade London 2012 kategori 53kg putri, 219kg (96+123) peraih perak; setelah atlet pemenang emas Zhao Changling (Kazakhstan) gagal uji laboratorium, Hsu pada Desember 2020 direskualifikasi menjadi pemenang emas. Olimpiade Rio 2016 menguasai 212kg (100+112) langsung meraih emas. Pemenang emas ganda Olimpiade pertama Taiwan. Pensiun 3 Juni 2018. Pada 2019 dilarang tiga tahun karena pengujian laboratorium November 2017 (tidak mempengaruhi medali emas Olimpiade).'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Olahraga',
-    'Angkat Besi',
+    'Angkat Berat',
     'Olimpiade',
     'Medali Emas',
-    'Kelas 53 kg',
+    'Kategori 53kg',
     'Yunlin',
   ]
 subcategory: '體育'
@@ -22,83 +22,79 @@ translatedFrom: 'People/許淑淨.md'
 sourceCommitSha: '0ea5d5d42'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-09-10T18:19:14+08:00'
+translatedAt: '2026-09-10T10:26:29+08:00'
 ---
 
-# Hsu Shujing: Atlet Angkat Besi dari Lunbei, Taiwan, yang Meraih Dua Medali Emas Pertama di Kelas 53 kg
+# Hsu Shu-ching: Atlet Angkat Berat 53kg Pertama Taiwan Peraih Ganda Emas Olimpiade dari Lunpei 1991
 
-> **Ringkasan Singkat:** Hsu Shujing lahir pada 9 Mei 1991 di desa Lunbei, Kabupaten Yunlin, dalam keluarga Hakka. [^1] Pada Olimpiade London 2012, ia meraih perak di kelas wanita 53 kg dengan total 219 kg (Angkatan: 96 kg + Angkat: 123 kg); [^2] kemudian dikonfirmasi sebagai medali emas pada Desember 2020 setelah atlet pemenang medali emas dari Kazakhstan, Zhao Changling, gagal dalam pengujian ulang doping (21 Oktober 2016). Pada Olimpiade Rio 2016, ia langsung meraih emas dengan total 212 kg (Angkatan: 100 kg + Angkat: 112 kg). [^3] Ia adalah peraih dua medali emas Olimpiade pertama dari Taiwan. Pensiun pada 3 Juni 2018 karena cedera lutut. [^1] Pada Maret 2019, ia menjalani skorsing tiga tahun karena tes doping pada November 2017 (mengaku salah mengonsumsi suplemen, tidak memengaruhi kedua medali emas Olimpiade). [^4]
+> **Tinjauan 30 detik:** Hsu Shu-ching lahir 9 Mei 1991 di Desa Lunpei, Kabupaten Yunlin, keluarga Hakka.[^1] Pada Olimpiade London 2012 kategori 53kg putri, dengan tarikan rayu 96kg, jerk 123kg, total 219kg meraih perak;[^2] kemudian karena atlet pemenang emas Zhao Changling (Kazakhstan) gagal uji laboratorium berulang dan dicabut (21/10/2016), Hsu Shu-ching secara resmi direskualifikasi menjadi pemenang emas pada Desember 2020.[^2] Olimpiade Rio 2016 dengan tarikan rayu 100kg (ketiga percobaan semua berhasil) + jerk 112kg = 212kg langsung meraih emas.[^3] Pemenang emas ganda Olimpiade pertama Taiwan. Menyatakan pensiun 3 Juni 2018 (cedera lutut).[^1] Pada Maret 2019 dilarang tiga tahun karena pengujian laboratorium November 2017 (mengklaim konsumsi suplemen pangan yang tidak disadari, tidak mempengaruhi dua medali emas Olimpiade).[^4]
 
-## Lunbei, Yunlin, Tahun 1991
+## 1991, Lunpei, Yunlin
 
-Hsu Shujing lahir pada 9 Mei 1991 di desa Lunbei, Kabupaten Yunlin, dalam keluarga Hakka. Ia memiliki tinggi 159 cm dan berat 53 kg (kelas kompetisi). [^1] Potensi angkat besinya ditemukan oleh guru olahraga selama masa sekolah menengah pertama, dan ia menjalani pelatihan sistematis sejak sekolah menengah atas.
+Hsu Shu-ching lahir 9 Mei 1991 di Desa Lunpei, Kabupaten Yunlin, keluarga Hakka, tinggi 159cm, berat badan 53kg (kategori kompetisi).[^1] Pada masa sekolah menengah pertama, guru pendidikan jasmani menemukan potensinya di cabang angkat berat, kemudian di sekolah menengah atas mulai menjalani pelatihan sistematis.
 
-Latar belakangnya dari pedesaan Hakka di Lunbei, Yunlin, tidak memberikan "keunggulan sumber daya" yang dramatis dalam perjalanan pelatihannya—ia mengikuti jalur standar sistem olahraga tingkat dasar Taiwan: ditemukan oleh guru, masuk ke sistem sekolah, dan naik berdasarkan prestasi. Jalur ini sendiri adalah alasan mengapa angkat besi dapat terus muncul di panggung Olimpiade dari Taiwan.
+Latar belakang desa pertanian Hakka Lunpei, Yunlin tidak memberikan apa-apa "keuntungan sumber daya" dramatik dalam perjalanan pelatihannya — dia berjalan melalui jalur standar sistem olahraga dasar Taiwan: ditemukan guru, memasuki sistem sekolah, naik satu per satu berdasarkan hasil. Jalur ini sendiri adalah alasan mengapa angkat berat Taiwan terus muncul di panggung Olimpiade.
 
-Kelas wanita 53 kg adalah kategori yang menuntut presisi tinggi sekaligus kekuatan eksplosif dalam angkat besi. Atlet di kelas ini harus mencapai ketepatan pada kedua gerakan—Angkatan dan Angkat—di mana perbedaan stabilitas sekecil apa pun dapat menentukan peringkat. Catatan prestasi Hsu Shujing adalah hasil dari pelatihan sistematis jangka panjang ditambah dengan presisi teknis yang tinggi.
+Kategori 53kg putri dalam angkat berat merupakan kelas yang memerlukan persyaratan teknis dan daya ledak yang sama-sama sangat tinggi. Atlet di kategori ini perlu mencapai presisi sempurna dalam kedua gerakan — tarikan rayu dan jerk — perbedaan stabilitas salah satu gerakan pun dapat menentukan peringkat. Catatan prestasi Hsu Shu-ching adalah hasil pelatihan sistematis jangka panjang ditambah presisi teknis yang tinggi.
 
-## Olimpiade London 2012: Perak 219 kg
+## 2012, Olimpiade London: 219kg Perak
 
-Pada Olimpiade London 2012, Hsu Shujing, yang berusia 21 tahun, berkompetisi di kelas wanita 53 kg. [^2] Ia meraih perak dengan total 219 kg (Angkatan: 96 kg + Angkat: 123 kg).
+Pada Olimpiade London 2012, Hsu Shu-ching berusia 21 tahun mengikuti kompetisi kategori 53kg putri.[^2] Dia meraih perak dengan tarikan rayu 96kg, jerk 123kg, total 219kg.
 
-(Catatan: Beberapa sumber salah mencatat "100+131=231kg" atau "100+132=232kg", yang semuanya tidak sesuai dengan hasil sebenarnya. Hasil resmi adalah 219 kg.)
+(Catatan: beberapa data salah mencatat sebagai "100+131=231kg" atau "100+132=232kg", keduanya tidak sesuai dengan prestasi sebenarnya. Acuan adalah 219kg.)
 
-Pemenang medali emas adalah atlet Kazakhstan, Zhao Changling, yang diskualifikasi oleh Komite Olimpiade Internasional pada 21 Oktober 2016 karena gagal dalam pengujian ulang doping. Pada Desember 2020, Hsu Shujing secara resmi dikonfirmasi sebagai peraih medali emas. [^2]
+Pemenang emas adalah atlet Kazakhstan Zhao Changling, yang pada 21 Oktober 2016 dicabut medalinya oleh Komite Olimpiade Internasional karena gagal uji laboratorium berulang. Pada Desember 2020, Hsu Shu-ching secara resmi dikonfirmasi direskualifikasi menjadi pemenang emas.[^2]
 
-Penundaan konfirmasi medali emas adalah produk dari mekanisme "pengujian sampel ulang" setelah Olimpiade 2012—ia baru mendapatkan medali emas tersebut delapan tahun setelah kompetisi selesai. Perbedaan waktu ini tidak memengaruhi keabsahan prestasinya, tetapi itu menunjukkan satu hal: masalah doping dalam angkat besi internasional jauh lebih serius daripada yang disadari siapa pun pada saat itu.
+Penundaan reskualifikasi adalah hasil dari mekanisme "pengujian ulang sampel narkoba" pasca-Olimpiade 2012 — dia baru sepenuhnya mendapatkan medali emas delapan tahun setelah pertandingan berakhir. Perbedaan waktu ini tidak mempengaruhi keabsahan prestasi, namun hal ini menunjukkan satu hal: masalah narkoba dalam angkat berat internasional jauh lebih serius dari yang disadari siapa pun pada saat itu.
 
-<!-- TODO: Tianji Xing — Konfirmasi nama lengkap bahasa Inggris Zhao Changling, dan tanggal upacara konfirmasi (jika ada) -->
+## 2016, Olimpiade Rio: 212kg Langsung Meraih Emas
 
-## Olimpiade Rio 2016: Emas Langsung 212 kg
+Pada Olimpiade Rio 2016, Hsu Shu-ching dalam final kategori 53kg putri meraih emas dengan tarikan rayu 100kg (ketiga percobaan semua berhasil), jerk 112kg, total 212kg.[^3]
 
-Pada Olimpiade Rio 2016, Hsu Shujing meraih medali emas secara langsung dengan total 212 kg di kelas wanita 53 kg. Ia berhasil melakukan Angkatan sebesar 100 kg (tiga kali sukses) dan Angkat sebesar 112 kg. [^3]
+Ketiga percobaan tarikan rayu berhasil adalah indikator stabilitas teknis — bukan karena strategi bermainnya konservatif berhati-hati, melainkan karena dia dalam panggung Olimpiade dengan tekanan tertinggi, membuat setiap percobaan dalam jangkauan keberhasilan dan melakukan yang terbaik. Total 212kg dalam hasil tersebut adalah standar yang layak dimiliki juara Olimpiade pada waktu itu, bukan keberuntungan.
 
-Tiga kali sukses dalam gerakan Angkatan adalah indikator stabilitas teknis—bukan karena pendekatannya yang konservatif, tetapi karena di panggung Olimpiade yang paling penuh tekanan, ia melakukan yang terbaik pada setiap angkatan agar berada dalam rentang keberhasilan. Total skor 212 kg saat itu adalah standar yang layak untuk seorang juara Olimpiade, bukan kebetulan.
+(Catatan: beberapa data salah mencatat jerk sebagai 132kg, total 232kg, acuan adalah 212kg.)
 
-(Catatan: Beberapa sumber salah mencatat Angkat sebesar 132 kg dan total 232 kg; hasil resmi adalah 212 kg.)
+Medali emas ini menjadikan dia pemenang emas ganda Olimpiade pertama Taiwan.[^3]
 
-Medali emas ini menjadikannya peraih dua medali emas Olimpiade pertama dari Taiwan. [^3]
+Prestasi Taiwan dalam angkat berat Olimpiade memiliki fondasi sistematis: atlet dalam berbagai kategori putri kebanyakan berasal dari desa di tengah-selatan, berjalan melalui sistem pelatihan olahraga dasar. Penguasaan emas Hsu Shu-ching pada 2016 adalah puncak tertinggi yang dapat dicapai sistem ini pada waktu tersebut — penguasaan emas 2016 Hsu Shu-ching bukan prestasi individual dari satu atlet, melainkan keluaran sempurna dari seluruh sistem pelatihan.
 
-Prestasi angkat besi Taiwan di Olimpiade memiliki dasar sistemik: sebagian besar atlet di berbagai kelas wanita berasal dari pedesaan tengah dan selatan, yang naik melalui sistem pelatihan tingkat dasar. Kemenangan Hsu Shujing pada tahun 2016 adalah puncak tertinggi yang dapat dicapai oleh sistem tersebut pada saat itu—kemenangannya pada tahun 2016 bukanlah pencapaian individu semata, melainkan output sempurna dari seluruh sistem pelatihan.
+## 3 Juni 2018: Mengumumkan Pensiun
 
-## 3 Juni 2018: Pengumuman Pensiun
+Pada 3 Juni 2018, Hsu Shu-ching mengumumkan pensiun, alasannya termasuk cedera lutut dan cedera di Kejuaraan Dunia 2017.[^1] Setelah pensiun, ia beralih menjadi pelatih dan melanjutkan pendidikan di program pascasarjana Universitas Olahraga Nasional.
 
-Pada 3 Juni 2018, Hsu Shujing mengumumkan pensiunnya karena cedera lutut dan cedera pada Kejuaraan Dunia tahun 2017. [^1] Setelah pensiun, ia beralih menjadi pelatih dan melanjutkan studi di Institut Universitas Olahraga Nasional.
+Pada usia 27 tahun saat pensiun, dalam situasi normal puncak kompetitif atlet angkat berat dapat berlanjut hingga usia 30 tahun ke atas. Cedera lutut memaksanya mengakhiri karir kompetitif lebih awal, namun dia memilih tetap dalam lingkaran angkat berat, bertransformasi menjadi pelatih dan peneliti — pilihan ini menunjukkan bahwa angkat berat bagi dirinya bukan sekadar sarana kompetitif, melainkan fondasi keahliannya.
 
-Saat pensiun, ia berusia 27 tahun; secara normal, puncak kompetisi atlet angkat besi dapat bertahan hingga usia 30 tahun ke atas. Cedera lutut memaksanya mengakhiri karier kompetitifnya lebih awal, tetapi ia memilih untuk tetap berada di lingkaran angkat besi, beralih menjadi pelatih dan peneliti—pilihan ini menunjukkan bahwa bagi dirinya, angkat besi bukan hanya sarana kompetisi, melainkan fondasi profesionalnya.
+(Catatan: beberapa data salah mencatat waktu pensiun sebagai "setelah Kejuaraan Dunia 2017", acuan adalah pengumuman 3/6/2018.)
 
-(Catatan: Beberapa sumber salah mencatat waktu pensiun sebagai "setelah Kejuaraan Dunia 2017"; tanggal pengumuman adalah 3 Juni 2018.)
+## Maret 2019: Insiden Narkoba
 
-## Maret 2019: Kasus Doping
+Pada 27 Maret 2019, Federasi Angkat Berat Internasional mempublikasikan bahwa Hsu Shu-ching gagal uji laboratorium berulang pada November 2017, dilarang tiga tahun, dan harus menyerahkan kembali medali perak Kejuaraan Dunia 2017.[^4] Hsu Shu-ching mengklaim hal tersebut adalah konsumsi tidak sengaja suplemen pangan.
 
-Pada 27 Maret 2019, Federasi Angkat Besi Internasional mengumumkan bahwa Hsu Shujing gagal dalam pengujian ulang doping pada November 2017, sehingga ia diskors selama tiga tahun dan harus mengembalikan medali perak Kejuaraan Dunia 2017. [^4] Hsu Shujing menyatakan bahwa ia salah mengonsumsi suplemen makanan.
+**Insiden larangan ini tidak mempengaruhi kedua medali emas Olimpiadenya.**
 
-**Kasus skorsing ini tidak memengaruhi kedua medali emas Olimpiade-nya.**
+Setelah larangan berakhir, Hsu Shu-ching mempertahankan status pensiun, namun catatan prestasi Olimpiadenya disimpan dengan lengkap. Cara dunia olahraga Taiwan mendiskusikan dirinya, kebanyakan berfokus pada kerangka "pemenang emas ganda Olimpiade pertama", kerangka ini tidak berubah setelah peristiwa 2019 — prestasi Olimpiadenya adalah cara dia diingat.
 
-Setelah masa skorsing berakhir, Hsu Shujing mempertahankan status pensiunnya, tetapi catatan prestasinya di Olimpiade tetap utuh. Cara dunia olahraga Taiwan membahasnya sebagian besar berfokus pada kerangka "peraih dua medali emas pertama," dan kerangka ini tidak berubah setelah insiden tahun 2019—prestasi Olimpiadenya adalah cara ia diingat.
+**Ungkapan umum → pembacaan lebih akurat**: Hsu Shu-ching sering diposisikan sebagai "pemenang emas ganda Olimpiade pertama Taiwan", gelar ini akurat, namun mudah mengaburkan satu hal yang lebih menarik: medali emas pertamanya baru diterima secara resmi delapan tahun kemudian. Pada pertandingan 2012, dia saat itu mendapat perak, kalah dari atlet doping; Desember 2020 dia secara resmi menjadi pemenang emas pertandingan itu. Perbedaan waktu ini adalah posisi sejarah khusus yang ditinggalkan masalah narkoba olahraga internasional bagi dirinya.
 
-<!-- TODO: Tianji Xing — Konfirmasi tanggal berakhirnya skorsing tiga tahun dan perkembangan selanjutnya -->
-
-**Cara Berjalan → Cara yang Lebih Akurat**: Hsu Shujing sering diposisikan sebagai "peraih dua medali emas pertama dari Taiwan," gelar ini akurat, tetapi cenderung menutupi fakta yang lebih menarik: medali emas pertamanya baru secara resmi didapatkan delapan tahun kemudian. Pada kompetisi 2012, ia meraih perak dan kalah dari atlet doping; barulah pada Desember 2020 ia secara resmi menjadi pemenang medali emas untuk kompetisi tersebut. Perbedaan waktu ini adalah posisi sejarah khusus yang ditinggalkan oleh masalah doping dalam olahraga internasional baginya.
-
-> 🎙️ **Catatan Kurator**: Dua medali emas Olimpiade Hsu Shujing, dari perspektif teknis, adalah dua medali emas yang dikonfirmasi pada waktu yang berbeda: satu saat itu, dan satu delapan tahun kemudian. Pengakuan tertunda ini adalah kasus yang jarang terjadi dalam sejarah Olimpiade abad ke-21, dan memberikan kompleksitas yang tidak biasa pada prestasinya.
+> 🎙️ **Catatan Kurator**: Medali emas ganda Olimpiade Hsu Shu-ching, pada tingkat teknis adalah dua medali emas yang dikonfirmasi pada waktu berbeda: satu pada saat itu, satu delapan tahun kemudian. Penundaan pengakuan ini adalah kasus langka dalam sejarah Olimpiade abad ke-21, juga membuat pencapaiannya membawa lapisan kompleksitas non-tipikal.
 >
-> Setelah mengakhiri karier kompetitifnya, ia beralih menjadi pelatih dan peneliti, menunjukkan bahwa bagi dirinya, angkat besi adalah titik awal epistemologis, bukan akhir. Kasus peraih medali emas Olimpiade Taiwan yang memasuki sistem akademik jarang terjadi; pilihannya sendiri mewakili sikap terhadap "ilmiahisasi olahraga."
+> Setelah karir kompetitifnya berakhir, dia bertransformasi menjadi pelatih dan peneliti, yang menunjukkan bahwa angkat berat bagi dirinya adalah titik awal epistemologi, bukan titik akhir. Kasus pemenang emas Olimpiade Taiwan memasuki sistem akademis tidak banyak, pilihannya sendiri mewakili satu sikap terhadap "pengetahuan olahraga".
 >
-> Keberlanjutan prestasi angkat besi Taiwan di Olimpiade didukung oleh seluruh mekanisme seleksi dan pelatihan tingkat dasar. Kasus Hsu Shujing membuat mekanisme ini terlihat—keberhasilannya adalah alasan mengapa sistem tersebut harus diperhatikan dengan serius.
+> Olahraga angkat berat Taiwan dalam terus menerus menunjukkan prestasi Olimpiade, di belakangnya adalah satu mekanisme lengkap seleksi dan pelatihan tingkat akar rumput. Kasus Hsu Shu-ching membuat mekanisme ini terlihat sekali — kesuksesannya juga adalah alasan mekanisme itu harus ditanggapi dengan serius.
 
-Dari keluarga Hakka di Lunbei, Yunlin, hingga podium upacara penghargaan di London dan Rio—karier Hsu Shujing adalah kisah yang berbicara melalui angka: 219 kg dan 212 kg adalah bahasa pastinya di panggung tertinggi dunia.
+Dari keluarga Hakka Desa Lunpei, Yunlin, hingga ke panggung pemenang Olimpiade London, Rio — karir Hsu Shu-ching adalah cerita yang membiarkan angka berbicara: 219kg dan 212kg, adalah bahasa pastinya di panggung tertinggi dunia.
 
-**Bacaan Lanjutan**: [Hsu Shujing — Wikipedia](https://zh.wikipedia.org/zh-tw/許淑淨) ｜ [Brave Athlete Hsu Shujing](https://braveathlete.net/tw/article/hsu-shu-ching) ｜ [Komite Olimpiade Tiongkok (Taiwan)](https://www.tpe-olympic.org.tw/)
+**Bacaan Tambahan**: [Hsu Shu-ching — Wikipedia](https://zh.wikipedia.org/zh-tw/許淑淨) ｜ [Brave Athlete Hsu Shu-ching](https://braveathlete.net/tw/article/hsu-shu-ching) ｜ [Komite Olimpiade Tiongkok (Taiwan)](https://www.tpe-olympic.org.tw/)
 
 ## Referensi
 
-[^1]: [Wikipedia: Hsu Shujing](https://zh.wikipedia.org/zh-tw/許淑淨) — Mengonfirmasi lahir pada 9 Mei 1991 di desa Lunbei, Kabupaten Yunlin; etnis Hakka; tinggi 159 cm; mengumumkan pensiun pada 3 Juni 2018 (cedera lutut).
+[^1]: [Wikipedia: Hsu Shu-ching](https://zh.wikipedia.org/zh-tw/許淑淨) — Mengonfirmasi lahir 9 Mei 1991 di Desa Lunpei, Kabupaten Yunlin, orang Hakka, tinggi 159cm, mengumumkan pensiun 3 Juni 2018 (cedera lutut).
 
-[^2]: [CNA: Konfirmasi Medali Emas Hsu Shujing Olimpiade London 2012 (Desember 2020)](https://www.cna.com.tw/news/firstnews/202012145008.aspx) — Mengonfirmasi hasil London 219 kg (Angkatan 96 + Angkat 123); Zhao Changling (Kazakhstan) diskualifikasi pada 21/10/2016; dikonfirmasi emas pada 12/2020.
+[^2]: [Kantor Berita Pusat: Konfirmasi Medali Emas Olimpiade London 2012 Hsu Shu-ching (Desember 2020)](https://www.cna.com.tw/news/firstnews/202012145008.aspx) — Mengonfirmasi prestasi London 2012 219kg (tarikan rayu 96 + jerk 123), pemenang emas Zhao Changling (Kazakhstan) dicabut pada 21/10/2016, direskualifikasi secara resmi 20/12.
 
-[^3]: [CNA: Hasil Olimpiade Rio Hsu Shujing](https://www.cna.com.tw/news/aspt/202107215009.aspx) — Mengonfirmasi hasil Rio 2016: Angkatan 100 kg (tiga kali sukses) + Angkat 112 kg = 212 kg; peraih dua medali emas Olimpiade pertama dari Taiwan.
+[^3]: [Kantor Berita Pusat: Prestasi Olimpiade Rio Hsu Shu-ching](https://www.cna.com.tw/news/aspt/202107215009.aspx) — Mengonfirmasi prestasi Olimpiade Rio 2016: tarikan rayu 100kg (ketiga percobaan semua berhasil) + jerk 112kg = 212kg, pemenang emas ganda Olimpiade pertama Taiwan.
 
-[^4]: [Wikipedia: Hsu Shujing (Bagian Kasus Doping)](https://zh.wikipedia.org/zh-tw/許淑淨) — Mengonfirmasi pengumuman pada 27 Maret 2019 mengenai kegagalan tes doping November 2017, skorsing tiga tahun, dan pengembalian medali perak Kejuaraan Dunia 2017, tanpa memengaruhi kedua medali emas Olimpiade.
+[^4]: [Wikipedia: Hsu Shu-ching (bagian insiden narkoba)](https://zh.wikipedia.org/zh-tw/許淑淨) — Mengonfirmasi 27 Maret 2019 pengumuman uji laboratorium November 2017 tidak lulus, larangan tiga tahun, menyerahkan kembali medali perak Kejuaraan Dunia 2017, tidak mempengaruhi dua medali emas Olimpiade.
 
-[^5]: [Brave Athlete: Tinjauan Karier Lengkap Hsu Shujing](https://braveathlete.net/tw/article/hsu-shu-ching) — Dinamika karier olahraga dan pasca-pensiun Hsu Shujing.
+[^5]: [Brave Athlete: Tinjauan Karir Lengkap Hsu Shu-ching](https://braveathlete.net/tw/article/hsu-shu-ching) — Karir olahraga Hsu Shu-ching dan dinamika pasca-pensiun.

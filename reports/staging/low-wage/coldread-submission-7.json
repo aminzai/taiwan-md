@@ -1,0 +1,33 @@
+{
+  "revision": 53,
+  "stage": "cold-read",
+  "actor": "cold-reader-7 (Sonnet agent ad95f29b775eae803, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "同一位官員、同一場記者會、同一把 OECD 尺量出兩個答案：算月薪零人，算全年總薪資 126 萬人，差別在年終獎金沒有法律保障。文章攤開誰不在 753 萬人分母裡（三百多萬人），並列各方發言，帶到 9 月 24 日審議會只會動月薪那一欄。",
+    "changedUnderstanding": "原以為主計總處硬拗，讀完知道兩個真數字出自同一套算法，差別在算不算年終；不是誰說謊，是最低工資只守月薪那一欄。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "整體平衡；唯一像選邊的一句：「『零人』是這把尺依法量出來的結果，這一步是算術。」把零人定調成中立數學事實，間接反駁在野黨指控。",
+    "confusions": [
+      "70.30% 與 70.03% 兩個母體",
+      "兩個 43.6 萬",
+      "71.3%／60.5% 比率段資訊超載"
+    ],
+    "repetitions": [
+      "「126 萬人住在兩欄之間」第三節結尾與倒數第二段",
+      "核心對比第三、七節與結尾各一次"
+    ],
+    "forcedConclusions": [
+      "兩國例子下 general 結論",
+      "「這一步是算術」一句把政治爭議收掉"
+    ],
+    "readerVerdict": "ship",
+    "readerRationale": "四題都答得出、各方平衡並列附出處；少數段落口徑切換太快，值得潤飾但非結構問題。"
+  }
+}

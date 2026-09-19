@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1119 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,547 article-versions
+- 📖 **1122 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,586 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,28 +95,28 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1119  |
-| 🇹🇼 Chinese (zh-TW)             | 1119  |
-| 🇺🇸 English (en)                | 1097  |
-| 🇯🇵 日本語 (ja)                 | 982   |
-| 🇰🇷 한국어 (ko)                 | 1095  |
-| 🇪🇸 Español (es)                | 1091  |
-| 🇫🇷 Français (fr)               | 1086  |
-| 🇻🇳 Tiếng Việt (vi)             | 1093  |
-| 🇮🇩 Bahasa Indonesia (id)       | 918   |
-| 🇵🇹 Português (pt)              | 1062  |
-| 🇮🇳 हिन्दी (hi)                 | 882   |
-| 🇸🇦 العربية (ar)                | 968   |
-| 🇷🇺 Русский (ru)                | 1004  |
-| 🌐 Deutsch (de)                | 789   |
+| 📄 Total articles (zh-TW SSOT) | 1122  |
+| 🇹🇼 Chinese (zh-TW)             | 1122  |
+| 🇺🇸 English (en)                | 1103  |
+| 🇯🇵 日本語 (ja)                 | 937   |
+| 🇰🇷 한국어 (ko)                 | 1082  |
+| 🇪🇸 Español (es)                | 1096  |
+| 🇫🇷 Français (fr)               | 1099  |
+| 🇻🇳 Tiếng Việt (vi)             | 860   |
+| 🇮🇩 Bahasa Indonesia (id)       | 898   |
+| 🇵🇹 Português (pt)              | 1070  |
+| 🇮🇳 हिन्दी (hi)                 | 971   |
+| 🇸🇦 العربية (ar)                | 1038  |
+| 🇷🇺 Русский (ru)                | 1057  |
+| 🌐 Deutsch (de)                | 157   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1180  |
 | 🍴 Forks                       | 185   |
-| 📅 Articles last 7 days        | 0     |
-| 📅 Articles last 30 days       | 162   |
+| 📅 Articles last 7 days        | 25    |
+| 📅 Articles last 30 days       | 187   |
 
 <!-- STATS:END -->
 
@@ -579,7 +579,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
 <table>
   <tr>
     <td align="center"><a href="https://github.com/frank890417"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="100px;" alt=""/><br /><sub><b>Che-Yu Wu</b></sub></a><br />💻 🖋️ 🎨 🤔 🌍 📖 📆</td>
-    <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />🖋️</td>
+    <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
@@ -599,7 +599,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/rhosiqs"><img src="https://avatars.githubusercontent.com/u/101655495?v=4" width="100px;" alt=""/><br /><sub><b>rhosiqs</b></sub></a><br />🌍</td>
+    <td align="center"><a href="https://github.com/rhosiqs"><img src="https://avatars.githubusercontent.com/u/101655495?v=4" width="100px;" alt=""/><br /><sub><b>rhosiqs</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4" width="100px;" alt=""/><br /><sub><b>weilin lai</b></sub></a><br />💻 🐛</td>
     <td align="center"><a href="https://github.com/audreyt"><img src="https://avatars.githubusercontent.com/u/20723?v=4" width="100px;" alt=""/><br /><sub><b>audreyt</b></sub></a><br />💻 🌍</td>

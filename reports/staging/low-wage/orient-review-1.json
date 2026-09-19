@@ -1,0 +1,26 @@
+{
+  "revision": 2,
+  "submissionId": "c569f7ba-8191-4e64-8b76-d905a18bfe21",
+  "actor": "orient-reviewer (Sonnet agent ae56f5b93c50c0171, fresh context, read brief + research report + submission only)",
+  "verdict": "revise",
+  "rationale": "骨架（讀者問題／主題說明／三角度／不確定性）成立，脊椎第三型判定與 Step 0.6.7 三道 self-check 經逐條覆核同意。但 subjectExplanation 的「平均（49,491）、中位數（41,397）、三分之二線（27,598）三把尺各量一次」混了分母：49,491 是全體受僱員工（862.7 萬，含外籍與部分工時）7 月經常性薪資平均，41,397 與 27,598 是本國籍全時（751 萬）的中位數與門檻；本國籍全時的平均是 52,528。「同一群人、同一把尺」是三把尺敘事的核心前提，平均那一把悄悄換了分母，正是報告支線 3「分母的縫」警告的陷阱——若維持同一群人敘事改用 52,528，若要對照兩個母體則明講。另：brief.md 已知第 5 點仍寫「2026 年月薪突破 3 萬」，雖 uncertainties 已攔下，brief 本身應回改防復發。角度一、二的推翻條件皆繫於 OECD 口徑同一不確定性，Stage 1 應標優先序（不構成退回）。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/orient-submission.json",
+      "location": "data.subjectExplanation：『平均（49,491）、中位數（41,397）、三分之二線（27,598）三把尺各量一次』"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪.md",
+      "location": "§觀點成型 › 探索搜尋紀錄 第 13 條：本國籍全時平均 52,528／中位數 41,397 vs 全體平均 49,491／中位數 39,629"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪.md",
+      "location": "§觀點成型 › 多元面貌 › 支線 3（分母的縫）"
+    },
+    {
+      "path": "reports/staging/low-wage/brief.md",
+      "location": "## 已知 第 5 點：『2026 年月薪突破 3 萬』"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

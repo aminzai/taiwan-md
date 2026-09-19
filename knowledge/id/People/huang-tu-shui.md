@@ -1,15 +1,15 @@
 ---
-title: 'Huang Tu-shui: Patung Modern Taiwan yang Kembali dari Kehilangan'
-description: 'Ia belajar patung Barat di Tokyo, namun dalam pandangan orang asing pun mendapatkan Taiwan; sebuah karya patung marmer yang hilang selama tujuh puluh tahun kembali muncul, menghidupkan kembali sejarah seni yang terputus.'
+title: 'Huang Tu-shui: Sebuah Patung Modern Taiwan yang Kembali dari Kehilangan'
+description: 'Ia belajar patung Barat di Tokyo, namun justru dalam pandangan orang asing ia bertahap menemukan Taiwan; sebuah karya marmer yang hilang tujuh puluh tahun membuat sejarah seni modern ini muncul kembali.'
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Huang Tu-shui',
-    'Air Keabadian',
+    'Ganlu Shui',
     'Sejarah Seni Taiwan',
     'Patung',
-    'Sekolah Seni Tokyo',
+    'Tokyo Bijutsu Gakko',
   ]
 subcategory: '雕塑'
 author: 'Taiwan.md'
@@ -23,149 +23,149 @@ translatedFrom: 'People/黃土水.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-13T00:44:03+08:00'
+translatedAt: '2026-09-13T15:49:24+08:00'
 ---
 
-# Huang Tu-shui: Patung Modern Taiwan yang Kembali dari Kehilangan
+# Huang Tu-shui: Sebuah Patung Modern Taiwan yang Kembali dari Kehilangan
 
-> **Ringkasan 30 detik:** Huang Tu-shui belajar patung Barat di Tokyo, namun dalam pandangan orang asing pun perlahan mendapatkan Taiwan; karya _Air Keabadian_-nya yang hilang selama sekitar tujuh puluh tahun kemudian muncul kembali, menghubungkan kembali sejarah seni modern Taiwan yang terputus.
+> **Ringkasan 30 detik:** Huang Tu-shui belajar patung Barat di Tokyo, namun justru dalam pandangan orang asing ia bertahap menemukan Taiwan; karya _Ganlu Shui_ (甘露水) muncul kembali setelah hilang sekitar tujuh puluh tahun, menghubungkan kembali sejarah seni modern Taiwan yang terputus.
 
-Pada 1921, Huang Tu-shui berusia 26 tahun mengirimkan patung marmer _Air Keabadian_-nya untuk dipamerkan pada Pameran Imperial Jepang. Pada 2021, karya tersebut muncul kembali setelah hilang selama sekitar tujuh puluh tahun dari koleksi pribadi. Pada 2024, karya itu kembali dipamerkan di Universitas Seni Tokyo — sekolah yang pernah ia kunjungi. [^1] [^2] [^3] [^4] [^9]
+1921, pada usia 26 tahun, Huang Tu-shui lolos seleksi Pameran Seni Akademi Seni Rupa Kekaisaran Jepang dengan patung marmer _Ganlu Shui_. 2021, karya ini muncul kembali dari koleksi pribadi setelah hilang sekitar tujuh puluh tahun. 2024, karya itu kembali ke Tokyo Geijutsu Daigaku — sekolah tempat Huang Tu-shui dulu belajar — untuk dipamerkan.[^1] [^2] [^3] [^4] [^9]
 
-Cerita ini mudah ditulis sebagai "seniman jenius akhirnya mendapat pengakuan". Namun, pertanyaan sebenarnya yang ditinggalkan oleh Huang bukanlah tentang keberhasilannya, melainkan: **bagaimana seorang Taiwan yang belajar patung Barat di Tokyo, melalui penglihatan dan salah paham orang asing, perlahan membentuk "Timur" menjadi "Taiwan"?**
+Ini adalah cerita yang sangat mudah ditulis jadi "seniman jenius akhirnya mendapat pengakuan". Tapi persoalan sebenarnya yang ditinggalkan Huang Tu-shui bukanlah apakah ia berhasil, melainkan: **bagaimana seorang orang Taiwan yang belajar patung Barat di Tokyo, bisa dilihat, disalah arti, dan akhirnya mengukir "Timur" menjadi "Taiwan" di negeri asing?**
 
-## Dari Bangka ke Tokyo: Belajar untuk Dilihat
+## Dari Bangka ke Tokyo: Belajar Dilihat Terlebih Dahulu
 
-Huang Tu-shui lahir pada 1895 di Bangka, yang kini adalah distrik Wanhua di Taipei. Pada 1906, ia masuk Sekolah Dasar Bangka, kemudian pindah ke Sekolah Dasar Dadaichi karena alasan keluarga. Pada 1912, ia diterima ke bagian teknik sekolah bahasa nasional pemerintahan kolonial. Setelah lulus pada 1915, ia singkatnya mengajar di Sekolah Dasar Dadaichi, dan pada tahun yang sama dengan karyanya _Lee Tie Guai_ lolos tanpa ujian masuk ke Departemen Patung Kayu Sekolah Seni Tokyo. [^1]
+Huang Tu-shui lahir 1895 di Bangka, yaitu hari ini Kecamatan Wanhua, Kota Taipei. 1906, ia masuk Sekolah Umum Bangka, kemudian pindah ke Sekolah Umum Dadaocheng karena alasan keluarga. 1912 lolos masuk Jurusan Teknik Guru Bahasa Nasional, Kantor Gubernur Jenderal Taiwan. 1915 lulus, ia singkat mengajar di Sekolah Umum Dadaocheng, tahun yang sama lolos seleksi bebas ujian masuk ke Jurusan Patung, Bagian Ukiran Kayu, Tokyo Bijutsu Gakko berbekal karya _Li Tieguai_.[^1]
 
-Jalannya tidak seperti bayangan yang biasanya dibangun oleh biografi seniman: bukan dimulai dengan kondisi ekonomi keluarga yang baik, lalu mengembangkan minat hobi hingga profesional. Melainkan, masuk ke pendidikan modern terlebih dahulu, kemudian melintasi laut melalui karya, rekomendasi, dan beasiswa. Penelitian Museum Seni Taipei menunjukkan bahwa keluarga Huang tidak kaya. Ia tumbuh di Taipei yang baru memulai pendidikan modern, sehingga berhasil menghubungkan bakat pribadi dengan sistem pendidikan kolonial. [^3]
+Jalur ini tidak terlalu mirip biografi seniman yang dibayangkan orang kemudian: bukan dulu ada kondisi keluarga kaya, baru hobi dinikmati jadi profesi, tapi masuk pendidikan baru dulu, baru lewat karya, rekomendasi, dan beasiswa menyeberangi lautan. Penelitian Museum Seni Kota Kaohsiung menunjukkan, keluarga Huang Tu-shui tidak kaya. Ia tumbuh di Taipei saat pendidikan baru mulai bermula, barulah punya kesempatan menghubungkan bakat pribadi ke sistem pendidikan kolonial.[^3]
 
-Di Tokyo, ia tidak menghadapi posisi "seniman Taiwan" yang sudah disiapkan. Sekolah Seni Tokyo adalah pusat pelatihan seni modern Jepang, dan Huang adalah seniman Taiwan pertama yang pergi ke Jepang untuk belajar. Ia harus menyusul teknik patung kayu, patung, dan patung batu sambil menanggung pandangan dari pertanyaan "darimana kamu berasal?" [^3] [^5]
+Sampai di Tokyo, yang dihadapinya juga bukan posisi "seniman Taiwan" yang sudah disiapkan. Tokyo Bijutsu Gakku adalah institusi inti pelatihan seni rupa modern Jepang, dan Huang Tu-shui adalah seniman Taiwan pertama ke Jepang pada masa kolonial. Ia harus mengejar teknik ukir kayu, pemodelan, dan patung batu, sekaligus menanggung pandangan "dari mana asalmu".[^3] [^5]
 
-> "Tidak peduli seberapa halus kujal kecil, tetap tidak bisa memotongnya, sungguh membuat saya tidak tahu apa-apa. Setiap hari setelah semua orang pulang, aku masih mengasah pisau kecil hingga mata tertutup." — Huang Tu-shui [^3]
+> "Apapun cara mengasah pisau kecil, tidak bisa memotong, membuat putus asa. Setelah semua orang pulang, sampai gelap saya masih mengasah pisau kecil." — Huang Tu-shui[^3]
 
-Kata-katanya memberi bobot lebih dari sekadar rajinnya. Ia menunjukkan bagaimana seorang siswa yang belum pernah dilatih secara lengkap dalam patung bisa memaksa dirinya masuk ke dalam sebuah dunia seni yang tidak pernah menyediakan tempat baginya, melalui pengasahan berulang.
+Bobot kalimat ini tidak hanya soal rajin. Ia memperlihatkan seorang siswa tanpa pelatihan patung lengkap, bagaimana memakai waktu mengasah pisau berulang, memasukkan diri ke dunia seni yang awalnya tidak menyisihkan tempat baginya.
 
-> **Catatan kurator:** Karya pertama Huang bukanlah patung, melainkan sebuah jalur masuk ke institusi. Ia harus membuktikan bahwa ia "bisa belajar" sebelum bisa berbicara tentang apa yang ingin ia uapkan.
+> **Catatan Kurator:** Karya pertama Huang Tu-shui bukan patung, tapi jalan masuk ke sistem. Ia harus dulu membuktikan "bisa belajar", baru punya kesempatan bicara mau ukir apa.
 
-## Setelah _Barbarian Children_, Taiwan Bukan Lagi Hanya Bayangan Orang Lain
+## Setelah _Fanzai_, Taiwan Bukan Lagi Khayalan Orang Lain
 
-Pada 1920, Huang Tu-shui berhasil masuk Pameran Imperial dengan karyanya _Barbarian Children_. Penelitian Museum Seni Taipei mengingatkan kita bahwa ini adalah satu-satunya karyanya yang mengangkat tema orang asli Taiwan. Tahun berikutnya, ia beralih ke patung wanita berukuran sebenarnya dari marmer bernama _Air Keabadian_. [^3]
+1920, Huang Tu-shui lolos Teiten (Pameran Akademi Kekaisaran) pertama kali dengan _Fanzai_ (蕃童). Penelitian Museum Tinggi Kaohsiung mengingatkan, ini satu-satunya kali ia membuat karya bertema orang asli Taiwan. Tahun berikutnya, ia menantang Teiten dengan patung marmer wanita seukuran asli _Ganlu Shui_.[^3]
 
-Jika kedua karya ditempatkan bersama, terlihat pergeseran yang tidak intuitif. _Barbarian Children_ mudah diserap oleh pandangan Jepang tentang Taiwan. Namun, _Air Keabadian_ tidak lagi menaruhkan "Taiwan" secara eksplisit pada tokohnya. Ia adalah seorang wanita yang lahir dari cangkerang kerang mirip tiram, menghadap ke arah penonton, dengan kaki silang dan kerang-kerang di sekelilingnya. [^2] [^3]
+Ditaruh berdua, muncul satu belok tidak terduga. _Fanzai_ mudah diserap khayalan Kekaisaran Jepang soal Taiwan yang sudah ada. _Ganlu Shui_ justru tidak lagi meletakkan "Taiwan" secara terang di tokohnya. Ia adalah seorang wanita lahir dari cangkang kerang raksasa seperti kepiting, badan menghadap penonton, kaki silang, cangkang-cangkang tersebar di kaki.[^2] [^3]
 
-Catatan koleksi Museum Seni Taipei mencatat bahwa _Air Keabadian_ dibuat dari marmer, diciptakan pada 1919, dengan ukuran 172 × 80 × 38 cm. Keterangan koleksi juga mencatat bahwa karya ini sering dikaitkan dengan _Kelahiran Venus_ karya Botticelli, namun kerang-kerangnya lebih mirip tiram yang dikenal oleh orang Taiwan. Oleh karena itu, masyarakat Taiwan menyebutnya "roh tiram". [^2]
+Data koleksi Museum Seni Nasional Taiwan mencatat, _Ganlu Shui_ terbuat marmer, dibuat 1919, ukuran 172 × 80 × 38 cm. Keterangan koleksi juga mencatat ia sering dikaitkan dengan _Kelahiran Venus_ Botticelli, tapi kerang di karya lebih mirip kerang hijau yang familiar bagi orang Taiwan. Masyarakat Taiwan menamainya "Kerang Jin" (蛤仔精). [^2]
 
-Karya ini tampak seperti patung telentang Barat, namun tidak sekadar meniru mitos Barat. Artikel Museum Seni Taipei memandangnya dari dua perspektif: satu adalah Venus Botticelli, yang lainnya adalah tradisi kerang tiram dan wanita kerang di Asia Timur. Nama karya "Air Keabadian" dan terjemahan Inggrynya dalam katalog Pameran Imperial "Putri Air Keabadian" membuat kedua perspektif bertemu. [^3]
+Tampak seperti patung telanjang Barat, tapi tidak menyalin mitos Barat. Artikel Museum Tinggi Kaohsiung memahami gambaran ini di dua garis: satu garis Venus Botticelli, satu garis lagi legenda Kuan Yin Kerang dan Gadis Kerang yang beredar di Asia Timur. Judul karya "Ganlu Shui" dan nama Inggris di katalog Teiten "Daughter of Nectar", membuat dua garis ini tumpang tindih.[^3]
 
-> **Catatan kurator:** Kesan Taiwan dari _Air Keabadian_, bukan karena nama tempat tertanam di dasar patung; ia tersembunyi dalam sebuah tiram yang belum pernah dinamai oleh sejarah seni Barat.
+> **Catatan Kurator:** Ketaiwanan _Ganlu Shui_, bukan nama tempat diukir di alasannya; ia tersembunyi di sebuah kerang yang sejarah seni Barat belum pernah beri nama.
 
-## Seorang Wanita Berdiri di Tengah Tiga Pandangan
+## Seorang Wanita Patung, Berdiri di Antara Tiga Pandangan
 
-Kekuatan terbesar dari _Air Keabadian_ bukanlah pada apakah ia "serupa dengan Venus". Jika hanya dijelaskan melalui peniruan, kita akan melewatkan pekerjaan sebenarnya Huang: ia menaruh patung telentang Barat, legenda Timur, dan observasi nyata tubuh wanita Asia di dalam satu batu, lalu membiarkan tubuh itu berdiri hampir tegak di hadapan penonton. [^2] [^3]
+Kekuatan _Ganlu Shui_ bukan di "mirip tidak mirip Venus". Kalau hanya pakai peniruan menjelaskan, akan kelewatan kerja sebenarnya Huang Tu-shui: ia memasukkan patung telanjang Barat, legenda Timur, dan tubuh wanita Timur yang diamati nyata ke satu batu yang sama, lalu membiarkan tubuh ini berdiri hampir tegak lurus di hadapan penonton.[^2] [^3]
 
-Penelitian Museum Seni Taipei menggambarkannya sebagai seorang wanita yang penuh kekuatan fisik, bukan sekadar estetika yang indah untuk dilihat. Perbedaan halus ini menentukan jiwa karya: ia bukan seorang dewi yang terbang laut, juga bukan spesimen asing yang diletakkan di kejauhan. Ia adalah seseorang yang berat, yang mendominasi ruang.
+Penelitian Museum Tinggi Kaohsiung menggambarkannya sebagai wanita berkekuatan fisik, bukan sekadar ideal indah untuk dilihat. Perbedaan halus ini menentukan nuansa karya: ia bukan dewi terbawa ombak, bukan spesimen negeri asing yang ditempatkan jauh, tapi seorang yang punya berat, menempati ruang.
 
-_Referensi tambahan: [Patung marmer Huang Tu-shui *Air Keabadian*, koleksi Museum Seni Taipei](https://collections.culture.tw/files/12/JPG640/111009430000.JPG)_
+_Extending viewing: [Patung Marmer *Ganlu Shui* Karya Huang Tu-shui, Koleksi Museum Seni Nasional Taiwan](https://collections.culture.tw/files/12/JPG640/111009430000.JPG)_
 
-_Gambar: Huang Tu-shui *Air Keabadian*, gambar resmi koleksi. Postur tubuh dan bentuk cangkerangnya membuat jawaban "serupa dengan Venus" terasa tidak cukup._
+_Gambar: Huang Tu-shui *Ganlu Shui*, gambar resmi koleksi. Sikap tegak lurus dan bentuk cangkangnya membuat jawaban sederhana "mirip Venus" terasa tidak cukup._
 
-Di Tokyo, "Taiwan" yang dihadapi Huang juga bukan konsep yang stabil. Artikel Museum Seni Taipei mencatat, masyarakat Jepang pada masa itu sering mengenakan pandangan Taiwan hanya melalui gambar satu dimensi dari koran kolonial, majalah, dan kartu pos. Pertanyaan yang ditemui Huang di negeri orang asing bahkan termasuk "di Taiwan, apakah kalian makan nasi seperti di negeri Jepang?" [^3]
+"Taiwan" yang dihadapi Huang Tu-shui di Tokyo, sama sekali bukan konsep stabil. Artikel Museum Tinggi Kaohsiung mencatat, saat itu pemahaman masyarakat Jepang soal Taiwan sering berhenti di gambaran sepotong yang dibuat koran kolonial, majalah, dan kartu pos. Pertanyaan yang Huang Tu-shui dapat di negeri asing, bahkan termasuk "Di Taiwan apakah makan nasi seperti di Naichi (Jepun)?"[^3]
 
-Oleh karena itu, _Air Keabadian_ bukanlah simbol nasional yang sudah selesai. Ia lebih seperti eksplorasi: jika bentuk Barat, sekolah Jepang, dan pengalaman Taiwan semuanya ada pada tubuhnya, bagaimana seniman menciptakan sesuatu yang bukan sekadar "karya siswa Jepang" atau "keanekaragaman Asia"?
+Jadi, _Ganlu Shui_ bukan lambang bangsa yang sudah jadi. Ia lebih seperti satu percobaan: kalau bentuk Barat, sekolah Jepang, dan pengalaman Taiwan semuanya ada di badan, seniman mau buat bentuk yang bukan sekadar "karya siswa Jepang" atau "keunikan Timur"?
 
-## Dari Tema Asia ke Banteng Air
+## Dari Tema Timur ke Kerbau
 
 ### Teknik Bukan Alat Netral
 
-Menggambarkan Huang sebagai "patung kayo Jepang pertama" memang akurat, namun terlalu dini. Karena studi luar negeri itu sendiri bukan tiket satu arah ke modernitas: setiap teknik yang dipelajarinya membawa serta institusi sekolah, tradisi guru, dan standar seni modern Jepang. Pameran Universitas Seni Tokyo menempatkan Huang kembali ke dalam konteks seni 1915–1930, dan menampilkan karyanya bersama karya-karya Kōshin Kōgyō, Terashima Kōtarō, Ogihara Morito, dan Kitasaka Nishinobu. Penempatan ini bukan untuk menghilangkan Huang sebagai salah satu dari mereka, melainkan untuk menunjukkan bagaimana ia menemukan suaranya di dalam kosakata yang sudah ada. [^5] [^7]
+Menyebut Huang Tu-shui "seniman patung pertama ke Jepang" memang benar, tapi masih terlalu cepat. Karena kuliah sendiri bukan tiket satu arah ke modernitas: setiap teknik yang ia pelajari, sekaligus membawa sistem sekolah, warisan guru, dan ukuran seni rupa modern Jepang. Pameran Tokyo Geijutsu Daigaku menempatkan Huang Tu-shui kembali ke lingkungan seni 1915–1930, dan menempatkan karyanya berdampingan dengan Takamura Koun, Takamura Kotaro, Hagiwara Shuhei, Kitamura Seibo, dll. Penempatan berdampingan ini bukan melonggarkan dia jadi salah satu di antara mereka, tapi memperlihatkan bagaimana ia di kosa kata yang sudah jadi menemukan nada sendiri.[^5] [^7]
 
-Marmer juga tidak sekadar simbol "tinggi" atau "Barat". Ia membutuhkan waktu lama untuk dipahat, digosok, dan ditunggu. Setelah mulai dipahat, kesalahan tidak bisa dihapus seperti pensil. Artikel Museum Seni Taipei mencatat, Huang tidak memiliki guru patung batu di Tokyo, sehingga ia mengamati pengrajin Italia yang sedang bekerja di studio, lalu belajar sendiri di rumah. [^3] Oleh karena itu, _Air Keabadian_ bukan sekadar hasil akhir dari pameran Imperial pada tahun itu, melainkan prosesnya menginternalisasi pengetahuan di luar institusi, lalu membawanya kembali ke dalam batu.
+Marmer juga bukan hanya simbol "mewah" atau "Barat". Ia menuntut waktu lama memahat, menggosok, dan menunggu. Sekali pahat turun, kesalahan tidak bisa dihapus seperti garis pensil. Artikel Museum Tinggi Kaohsiung mencatat, Huang Tu-shui di Tokyo tidak punya guru patung batu, jadi ia mengamati patung Italia di bengkel kerja, lalu pulang belajar mandiri.[^3] _Ganlu Shui_ akibatnya bukan hanya hasil lolos Teiten tahun itu, tapi juga proses ia membawa pengetahuan di luar sistem ke badan, lalu ke batu.
 
-Proses ini juga memungkinkan "kesan Taiwan" tidak perlu terbatas pada beberapa simbol. Ia bisa berupa bentuk tiram, postur tubuh wanita Asia, berat banteng air yang berulang, atau rindu kampung halaman Huang di kost Tokyo. Ketika elemen-elemen ini ditempatkan berdampingan, mereka tidak otomatis bergabung menjadi satu jawaban yang bersih. Justru gesekan di antara mereka yang membuat karya tetap hidup.
+Proses ini juga membuat "ketaiwanan" tidak harus dikecilkan jadi beberapa simbol. Bisa bentuk kerang, postur wanita Timur, berat kerbau yang berulang muncul, juga bisa rindu kampung halaman di kosan Tokyo. Elemen-elemen berbeda disampingkan, tidak akan otomatis menyatu jadi jawaban murni. Gesekan di antaranya, justru alasan karya tetap hidup.
 
-_Referensi tambahan: [Poster resmi pameran Universitas Seni Tokyo 2024, Huang Tu-shui kembali ke almamakternya](https://museum.geidai.ac.jp/exhibit/file/Huang-Tu-Shui.jpg)_
+_Extending viewing: [Poster Resmi Pameran Tokyo Geijutsu Daigaku 2024, Karya Huang Tu-shui Kembali ke Alma Mater](https://museum.geidai.ac.jp/exhibit/file/Huang-Tu-Shui.jpg)_
 
-_Gambar: Poster dari halaman pameran Museum Seni Universitas Tokyo 2024. Pameran menempatkan Huang bersama lingkungan seni modern Jepang pada masa ia kuliah._
+_Gambar: Poster dari halaman pameran Museum Seni Tokyo Geijutsu Daigaku 2024. Pameran menempatkan Huang Tu-shui berdampingan dengan lingkungan seni rupa modern Jepang masa ia sekolah._
 
-Pada 1922, Huang kembali ke Taiwan. Pada 1924, ia berhasil masuk Pameran Imperial ke-5 dengan karyanya _Pingxi_. Halaman data seniman Museum Seni Taipei mencatat, pada 1928 ia mulai menciptakan _Kumpulan Banteng Air_, yang selesai pada 1930. [^1]
+1922, Huang Tu-shui pulang ke Taiwan. 1924, ia lolos Teiten ke-5 dengan _Koya_ (郊外). Halaman seniman Museum Seni Nasional mencatat, 1928 ia mulai membuat _Kerbau Berkelompok_ (水牛群像), 1930 selesai.[^1]
 
-Selama beberapa tahun, arah tema Huang bergeser. Penelitian Museum Seni Taipei menunjukkan, setelah 1923, banteng air menjadi tema yang diulang-ulangnya. Berbanding lurus dengan gabungan bentuk wanita Barat dan Asia di _Air Keabadian_, banteng air mengembalikan pandangan ke tanah, tenaga kerja, dan pengalaman pedesaan Taiwan. [^3]
+Beberapa tahun ini, arah tema Huang Tu-shui bergeser perlahan. Penelitian Museum Tinggi Kaohsiung menunjukkan, setelah 1923, kerbau Taiwan jadi tema yang diulang-ulang. Berbeda dengan _Ganlu Shui_ yang mencampur gambaran wanita Timur-Barat, kerbau menarik pandangan ke tanah, buruh, dan pengalaman pedesaan Taiwan.[^3]
 
-Ini tidak berarti Huang tiba-tiba menemukan "gaya Taiwan" yang bersih dan bebas kontradiksi. Banteng air juga bisa dilihat, dihias, dan dimasukkan ke dalam narasi nasional. Yang penting, Huang mulai menggeser pertanyaan dari "apakah aku bisa menciptakan dengan bahasa patung modern?" ke "ke mana aku harus menatap dengan bahasa ini?"
+Ini tidak berarti Huang Tu-shui tiba-tiba nemu "gaya Taiwan" murni tanpa kontradiksi. Kerbau juga bisa dilihat, diindahkan, dimasukkan narasi bangsa. Pentingnya, Huang Tu-shui mulai mendorong persoalan karya dari "bisa tidak saya pakai bahasa patung modern ciptakan" ke "saya pakai bahasa ini mau melihat ke mana".
 
-> **Catatan kurator:** Huang bukanlah pertama kali memiliki estetika Taiwan, lalu mengisinya dengan teknik. Taiwan-nya lahir dari proses berulang memilih tema dan media.
+> **Catatan Kurator:** Huang Tu-shui bukan dulu punya estetika Taiwan, baru isi teknik; Taiwan miliknya tumbuh dalam proses pilih tema dan media berulang.
 
-## Karya yang Hilang, Cerita yang Tak Pernah Berakhir
+## Karya yang Hilang, Tidak Membiarkan Cerita Berhenti
 
-### Pelestarian Itu Sendiri adalah Sejarah Taiwan
+### Menyimpan Sendiri Juga Bagian Sejarah Taiwan
 
-Jika hanya melihat patung marmer yang bersih di galeri, _Air Keabadian_ terlihat seolah-olah tidak pernah meninggalkan sejarah seni. Namun, sejarah sebenarnya meliputi kotak kayu, lapisan kotoran, pindah tempat, penyimpanan pribadi, dan jeda yang tidak bisa langsung dijelaskan. Penelitian Museum Seni Taipei menuliskan, ketika karya itu muncul kembali, permukaan marmer putihnya sudah menumpuk kotoran bertahun-tahun. Setelah dipulihkan, penonton akhirnya dapat melihat kembali bentuk yang ditinggalkan seabad sebelumnya. [^3]
+Kalau hanya lihat marmer putih di ruang pamer, _Ganlu Shui_ kayak tidak pernah tinggalkan sejarah seni. Tapi sejarah sebenarnya termasuk kotak kayu, kotoran, pindah-pindah, simpan pribadi, dan satu celah tak bisa segera dibuka. Penelitian Museum Tinggi Kaohsiung menulis, saat karya muncul kembali, permukaan marmer putih sudah menumpuk kotoran bertahun-tahun. Baru setelah restorasi, penonton bisa lihat kembali bentuk seratus tahun lalu.[^3]
 
-Detail kecil ini mengubah interpretasi "karya ikonik yang kembali". Kembalinya bukanlah menarik karya asli kembali dari waktu tanpa perubahan, melainkan mengakui bahwa karya pernah terpengaruh oleh lingkungan dan institusi, lalu melalui proses pemulihan, penelitian, dan koleksi publik, kembali dapat dilihat bersama. Nomor pendaftaran, media, dan dimensi yang tercantum di halaman koleksi Museum Seni Taipei, yang tampak seperti data administratif, sebenarnya sedang membentuk identitas publik baru untuk karya ini. [^2]
+Detail ini mengubah bacaan "karya agung muncul kembali". Muncul kembali bukan menarik aslinya dari waktu tanpa perubahan, tapi mengakui karya pernah terkena pengaruh lingkungan dan sistem, lalu lewat restorasi, penelitian, dan koleksi publik, mengembalikan ke kondisi bisa dilihat bersama. Nomor registrasi, media, ukuran di halaman koleksi Museum Seni Nasional, kelihatannya data administrasi, sebenarnya juga sedang buat identitas publik baru buat karya ini.[^2]
 
-Saat Museum Seni Taipei memperkenalkan album _Taiwan Tanah Air: Kehidupan Seni Huang Tu-shui_ melalui situs informasi publikasi pemerintah budaya, ia secara khusus mencantumkan karya pameran, literatur, catatan pameran, esai kurator, dan kronologi. Data yang tampaknya sekadar pelengkap karya ini justru membuktikan bahwa kehidupan seni tidak hanya bergantung pada satu patung: pameran, katalog, peneliti, pelestari, dan penonton bersama menghidupkan kembali karyanya. [^8]
+Jaringan Informasi Publikasi Pemerintah Budaya memperkenalkan album _Tanah Taiwan, Air Bebas: Kebangkitan Hidup Seni Huang Tu-shui_ waktu itu, khusus mencantumkan karya pameran, naskah, catatan pameran, tulisan kurator, dan kronologi. Data-data yang kelihatannya mengiringi karya, justru menjelaskan hidup seni tidak dipegang satu patung saja: pameran, katalog, peneliti, penjaga, dan penonton bersama-sama nyambungkan kembali ke sejarah.[^8]
 
-_Referensi tambahan: [Pemulihan dan pameran *Air Keabadian*, gambar dari penelitian Museum Seni Kota Kaohsiung](https://www.kmfa.gov.tw/FileDownLoad/PageSections/20220711092128070318.jpg)_
+_Extending viewing: [*Ganlu Shui* dalam Restorasi dan Pameran, Gambar Karya dari Artikel Penelitian Museum Seni Kota Kaohsiung](https://www.kmfa.gov.tw/FileDownLoad/PageSections/20220711092128070318.jpg)_
 
-_Gambar: Gambar terkait *Air Keabadian* dari penelitian Museum Seni Kota Kaohsiung. Sejarah pelestarian karya sama pentingnya dengan sejarah bentuknya._
+_Gambar: Gambar terkait *Ganlu Shui* dari artikel penelitian Museum Seni Kota Kaohsiung. Sejarah penyimpanan karya, sama pentingnya dengan sejarah bentuknya._
 
-Huang Tu-shui meninggal di Tokyo pada 1930 akibat komplikasi usus besar dan peritonitis, berusia 36 tahun. Pada 1931, istrinya Liao Qixue membawa karyanya kembali ke Taiwan. Namun, setelah seniman meninggal, namanya dan karyanya pun perlahan menghilang dari pandangan publik. Eskersis yang diterbitkan oleh situs informasi publikasi pemerintah budaya menunjukkan, pencapaian seni Huang pada masa pasca-perang terlihat seperti pecahan yang jatuh dari retak sejarah, hingga akhirnya disusun kembali oleh penelitian, pameran, dan penulisan biografi. [^1] [^8]
+Huang Tu-shui 1930 meninggal di Tokyo karena usus buntu komplikasi peritonitis, umur 36 tahun. 1931, janda Liao Qiugui bawa warisan karya dari Tokyo ke Taiwan. Tapi setelah seniman meninggal, namanya dan karyanya perlahan keluar dari pandangan publik. Halaman coba baca publikasi pemerintah mencatat, prestasi seni Huang Tu-shui pasca perang sempat seperti pecahan jatuh ke celah sejarah, sampai kemudian penelitian, pameran, dan penulisan biografi menyambung kembali.[^1] [^8]
 
-Nasib _Air Keabadian_ sangat konkret. Museum Seni Taipei mencatat, karya itu hilang sejak kisaran 1950-an selama sekitar tujuh puluh tahun, hingga akhirnya muncul dari koleksi pribadi pada 2021. Pada 2022, keluarga koleksioner menyumbangkan karya itu ke Kementerian Budaya. [^3] Museum Seni Taipei kemudian mengeluarkan artikel berjudul "Pencarian Karya", meletakkan insiden ini dalam konteks yang lebih luas: mengapa karya seni tersebar, hilang, dan siapa yang mengejar mereka? [^4]
+Nasib _Ganlu Shui_ terlebih konkret. Museum Tinggi Kaohsiung mencatat, karya ini 1950-an lalu sekitar tujuh puluh tahun hilang jejak, 2021 baru keluar dari rumah kolektor.[^3] 2022, keluarga kolektor menyumbangkan karya ke Kementerian Budaya.[^3] Museum Tinggi Kaohsiung kemudian dengan judul "Surat Cari Barang", menaruh hal ini ke persoalan lebih besar: kenapa karya seni bisa tersebar, hilang, dan siapa yang mencarinya?[^4]
 
-Ada bagian yang tidak bisa diregukisasi di sini: karya tidak selamat hanya karena "ditakdirkan". Ia bisa kembali ke koleksi publik karena ada orang yang menyimpan, ada yang meneliti, ada yang mengenali, dan ada yang rela melepaskan karya dari tangan pribadi ke tangan masyarakat. Data Museum Seni Taipei menunjukkan, patung marmer ini kemudian menjadi bagian dari koleksi museum, dan pada 2024 dipamerkan bersama karya-karya Huang lainnya di Universitas Seni Tokyo. [^2] [^5] [^7]
+Di sini ada bagian yang tidak boleh diromankan: karya tidak "takdir" terselamatkan. Ia bisa kembali ke koleksi publik, karena ada yang simpan, ada yang riset, ada yang kenali, dan ada yang mau serahkan karya di tangan pribadi ke masyarakat. Data Museum Seni Nasional menunjukkan, patung marmer ini kemudian jadi koleksi tetap museum, dan 2024 ikut karya lain Huang Tu-shui ke Tokyo Geijutsu Daigalu dipamerkan.[^2] [^5] [^7]
 
-Sejarah seni bukan hanya daftar nama dan karya terkenal, melainkan sistem pelestarian. Ketika sebuah patung hilang selama tujuh puluh tahun, yang hilang bukan hanya satu benda, melainkan jalur bagi penonton untuk memahami seni modern Taiwan.
+Sejarah seni jadi bukan hanya papan peringkat orang terkenal dan karya terkenal, tapi juga satu sistem penyimpanan. Saat satu patung hilang tujuh puluh tahun, yang hilang bukan benda tunggal, tapi satu pintu masuk buat penonton memahami seni modern Taiwan.
 
-## Yang Ditinggalkan Bukan Jawaban, Melainkan Arah
+## Yang Ia Tinggalkan Bukan Jawaban, Tapi Arah
 
-Huang pernah menulis:
+Huang Tu-shui pernah tulis:
 
-> "Satu-satunya cara untuk kekal hidup adalah keabadian spiritual. Setidaknya bagi kami seniman, selama karya yang kami ciptakan dengan keringat dan darah belum sepenuhnya hancur, kami tidak akan pernah benar-benar mati." [^3]
+> "Cara abadi tidak mati hanya satu, yaitu keabadian rohania. Paling tidak buat kita seniman, selama karya yang diciptakan dengan darah keringat belum sepenuhnya hancur, kita tidak akan mati."[^3]
 
-Kata-katanya mudah dibaca sebagai ramalan. Namun, kita bisa membacanya hari ini bukan karena karya itu otomatis menyelamatkan dirinya, melainkan karena orang-orang setelahnya terus-menerus mengambil karya itu dari ruang pribadi, arsip pameran, artikel penelitian, dan jeda ingatan. Catatan akhir penelitian Openbook menempatkan Huang pada sebuah garis yang lebih panjang: ia bukan hanya seniman muda yang mati lebih awal, tetapi pelopor bagi banyak seniman patung Taiwan yang muncul kemudian. [^6]
+Kalimat ini mudah dibaca jadi ramalan. Tapi kita hari ini bisa baca, bukan karena karya otomatis menjaga hidupnya sendiri, tapi karena orang kemudian terus mencari karya dari ruang pribadi, arsip pameran, artikel penelitian, dan celah ingatan. Catatan akhir peneliti Openbook menempatkan Huang Tu-shui di garis lebih panjang: ia bukan hanya jenius muda mati, tapi jadi pendahuluan supaya seniman patung Taiwan kemudian bisa muncul berkelompok.[^6]
 
-Pameran Universitas Seni Tokyo 2024 membawa _Air Keabadian_ kembali ke almamakter Huang. Pameran tidak hanya menampilkan karyanya, tetapi juga menyajikan lingkungan seni modern Jepang dari 1915 ketika ia masuk hingga 1930 ketika ia meninggal. [^5] Penataan ini penting karena mencegah Huang terkurung dalam kaca pusat seniman jenius yang sendirian: karyanya harus kembali ke sekolah, institusi, rekan seprofesi, koloni, dan masyarakat Taiwan untuk benar-benar memahami mengapa ia begitu tidak tenang dan sekaligus kuat.
+Pameran Tokyo Geijutsu Daigaku 2024 membawa _Ganlu Shui_ pulang ke alma mater. Pameran tidak hanya tunjuk karyanya, tapi juga tunjuk lingkungan seni rupa modern Jepang antara 1915 masuk sekolah sampai 1930 meninggal.[^5] Penataan ini penting, karena menolak mengurung Huang Tu-shui di kotak kaca jenius sendirian: karyanya harus kembali ke sekolah, sistem, sekolahan, koloni, dan persimpangan masyarakat Taiwan, barulah kelihatan kenapa begitu gelisah, lagi begitu berdaya.
 
-Huang tidak meninggalkan bentuk yang benar untuk seni modern Taiwan. Yang ia tinggalkan adalah arah: bisa memulai dari teknik asing, namun tidak perlu terhenti pada peniruan; bisa dilihat di negeri asing, namun bisa memantulkan pandangan itu kembali ke tanah air; dan bisa membiarkan karya yang hilang muncul kembali, mengingatkan generasi berikutnya — budaya bukanlah warisan yang pasif menunggu dilestarikan, melainkan hubungan yang setiap generasi bangun kembali dan lihat ulang.
+Huang Tu-shui tidak tinggalkan satu bentuk benar tunggal buat seni modern Taiwan. Ia tinggalkan satu arah: bisa mulai dari teknik asing, tapi tidak harus selalu berhenti di meniru; bisa dilihat di negeri asing, tapi memantulkan pandangan itu balik ke tanah sendiri; juga bisa bikin karya yang hilang muncul lagi, mengingat orang kemudian — budaya bukan warisan pasif nunggu disimpan, tapi hubungan yang tiap generasi kenali ulang, jaga ulang.
 
-Hari ini, ketika kita melihat _Air Keabadian_, kita tidak perlu mengagungkannya sebagai alegory nasional yang tanpa retak. Ia pernah dilihat melalui institusi Pameran Imperial, dan pernah menghilang dari ingatan kolektif pasca-perang. Bentuknya meminjam dari sejarah seni Barat dan legenda Asia, namun dalam tangan Huang berbalik ke tubuh dan tanah Taiwan. Sumber-sumber yang saling tertarik inilah yang membuatnya sulit dikategorikan dengan satu label. [^3] [^5] [^9]
+Hari ini lihat _Ganlu Shui_ lagi, juga tidak harus mengangkat jadi dongeng bangsa tanpa retak. Ia pernah bergantung sistem Teiten Kekaisaran Jepang buat dilihat, juga pernah hilang dari ingatan publik pasca perang. Bentuknya serentak meminjam sejarah seni Barat dan legenda Asia Timur, tapi di tangan Huang Tu-shui berbelok ke tubuh dan tanah Taiwan. Sumber-sumber yang saling tarik ini, justru alasan ia tidak mudah dikumpulkan satu label.[^3] [^5] [^9]
 
-Bagi seniman kreatif hari ini, nilai Huang mungkin bukanlah menyediakan "gaya Taiwan" yang bisa dicontek. Yang benar-benar bisa diturunkan adalah metode kerjanya: mengakui bahwa kita berdiri di dalam teknik dan institusi orang lain, lalu mengasah kosakata asing itu hingga bisa menampung pengalaman pribadi kita. Ketika karya tidak lagi hanya membuktikan "Taiwan juga bisa", tetapi mulai bertanya "bagaimana Taiwan harus dilihat?", seni modern baru benar-benar menjadi soal kita.
+Buat pencipta hari ini, nilai Huang Tu-shui mungkin bukan nyediain satu "gaya Taiwan" yang bisa ditiru. Yang benar-benar bisa diwarisi adalah metode kerjanya: pertama akui diri berdiri di teknik dan sistem orang lain, lalu pakai waktu gosok kosa kata asing sampai muat pengalaman sendiri. Kalau karya tidak lagi cuma buktiin "Taiwan juga bisa", tapi mulai tanya "Taiwan mau dilihat seperti apa", seni modern baru jadi persoalan sendiri, bukan lomba kelayakan.
 
-Inilah sebabnya _Air Keabadian_ kembali bukan sekadar berita pameran. Ia menghubungkan beberapa titik waktu yang biasanya terpisah: 1915, seorang pemuda dari Bangka masuk Sekolah Seni Tokyo; 1921, ia meninggalkan nama di Pameran Imperial dengan patung wanita marmer; 1930, ia meninggal di Tokyo; setelah 1950-an, karya menghilang; 2021, ia dikenali kembali di rumah keluarga lain; 2024, ia kembali ke almamakter. [^1] [^3] [^5] [^9]
+Ini juga alasan _Ganlu Shui_ pulang bukan cuma berita pameran. Ia nyambung beberapa waktu yang sering dipisah: 1915, seorang pemuda dari Bangka masuk Tokyo Bijutsu Gakko; 1921, ia di Teiten tinggalkan nama dengan patung wanita marmer; 1930, ia sakit meninggal di Tokyo; 1950-an, karya hilang jejak; 2021, di keluarga lain ia dikenali lagi; 2024, ia pulang ke alma mater.[^1] [^3] [^5] [^9]
 
-Setiap titik waktu mengubah makna karya. Pameran Imperial membuatnya menjadi karya yang dikenali oleh institusi, kehilangan membuatnya menjadi ingatan yang perlu ditanyakan, dan kembali dikoleksi membuatnya kembali menjadi budaya publik. Huang hidup singkat, namun _Air Keabadian_ mengingatkannya, waktu seni tidak hanya ditentukan oleh usia seniman, tetapi juga oleh apakah orang setelahnya rela mencari, melestarikan, dan menatap karyanya.
+Setiap titik waktu mengubah arti karya. Teiten bikin jadi barang seni yang bisa dikenali sistem, hilang bikin jadi kenangan yang harus ditanya, koleksi ulang bikin jadi budaya publik lagi. Hidup Huang Tu-shui pendek, tapi _Ganlu Shui_ ngingetin, waktu seni tidak ditentukan umur pencipta saja, tapi juga ditentukan orang kemudian mau tidak mau terus cari, simpan, dan lihat.
 
-Jika seseorang hari ini berdiri di depan patung wanita ini dan hanya melihat "patung telentang pertama Taiwan", ia belum selesai melihatnya. Yang lebih pantas untuk dipertimbangkan adalah ketidakkonsistenan di tubuhnya: postur Barat dan legenda Asia, pelatihan Tokyo dan tanah Taiwan, pencipta yang singkat dan sejarah pelestarian yang panjang. Huang tidak meratakan perbedaan-perbedaan ini, melainkan membiarkan mereka berdiri bersama di batu. Inilah sebabnya patung ini masih berbicara setelah seratus tahun. Ia tidak membuat Taiwan menjadi jawaban yang tertutup, melainkan membiarkan Taiwan terus bertahan melalui pergerakan, belajar, salah paham, dan pelestarian. Pembaca seharusnya tidak hanya membawa pulang "siapa Huang Tu-shui", tetapi juga pertanyaan yang lebih sulit dan lebih dekat pada seni: ketika kita mengatakan sebuah karya mewakili Taiwan, apakah kita sedang menggambarkan asal-usulnya, atau bagaimana ia dilihat kembali oleh setiap generasi?
+Kalau hari ini ada orang berdiri di depan patung wanita ini, cuma lihat "patung telanjang pertama Taiwan", sebenarnya belum selesai lihat. Yang lebih layak dihentikan adalah ketidaksejajaran di badannya: sikap Barat dengan legenda Timur, pelatihan Tokyo dengan tanah Taiwan, pencipta singkat dengan sejarah simpan panjang. Huang Tu-shui tidak menggosok rata perbedaan ini, justru biarkan berdiri bersama di batu. Itu alasan patung ini sampai seratus tahun kemudian masih punya omong. Ia tidak bikin Taiwan jadi jawaban tertutup, tapi biarkan Taiwan di antara menyeberang lautan, belajar, salah paham, dan simpan terus terbit. Yang dibawa pulang pembaca akhir, bukan cuma "Huang Tu-shui siapa", tapi satu soal lebih sulit, juga lebih dekat sama seni: waktu kita bilang satu karya mewakili Taiwan, apakah kita deskripsikan asalnya, atau deskripsikan bagaimana ia dilihat ulang generasi demi generasi?
 
-Lebih tepatnya, warisan seni Huang bukanlah sebuah tradisi yang sudah dirancang, tetapi sebuah medan yang masih sedang dilanjutkan: ada yang menulis namanya di kronologi, ada yang membersihkan lapisan kotoran dari batu, ada yang membawa pameran kembali ke sekolah, dan ada yang pertama kali melihat wajahnya yang sedikit condong ke atas. Dengan demikian, karya tidak hanya melestarikan masa lalu, tetapi juga menuntut orang kini menjawab: di situlah kamu rela memberi ruang bagi memori? Inilah inti dari memahami Huang Tu-shui.
+Lebih tepat, warisan seni Huang Tu-shui bukan satu tradisi sudah dijalanin, tapi satu tempat yang masih disambung: ada yang tulis nama ke kronologi, ada yang bersihkan kotoran batu, ada yang bawa pameran pulang ke alma mater, ada yang hari ini pertama lihat wajah agak mengangkat itu. Karya akibatnya tidak cuma simpan masa lalu, juga menuntut orang sekarang menjawab, mau simpan posisi buat kenangan mana? Ini juga jeda paling penting waktu baca Huang Tu-shui.
 
 ## Sumber Gambar
 
-Artikel ini hanya menyematkan tautan gambar resmi dari institusi yang menyediakan gambar, tanpa mengunduh atau menyimpan gambar secara terpisah. Tautan gambar urutnya adalah: gambar koleksi Museum Seni Taipei (https://collections.culture.tw/files/12/JPG640/111009430000.JPG）), poster pameran Museum Seni Universitas Tokyo (https://museum.geidai.ac.jp/exhibit/file/Huang-Tu-Shui.jpg）), dan gambar dari penelitian Museum Seni Kota Kaohsiung (https://www.kmfa.gov.tw/FileDownLoad/PageSections/20220711092128070318.jpg）). Informasi karya, konteks pameran, dan sumber halaman tetap mengikuti halaman catatan akhir yang tercantum.
+Artikel ini hanya menanam tautan panas gambar dari institusi resmi, tidak mengunduh atau simpan ulang gambar. Tautan panas gambar berurutan: gambar koleksi Museum Seni Nasional Taiwan (https://collections.culture.tw/files/12/JPG640/111009430000.JPG）, poster pameran Museum Seni Tokyo Geijutsu Daigaku (https://museum.geidai.ac.jp/exhibit/file/Huang-Tu-Shui.jpg）, dan gambar dari artikel penelitian Museum Seni Kota Kaohsiung (https://www.kmfa.gov.tw/FileDownLoad/PageSections/20220711092128070318.jpg）. Informasi karya, konteks pameran, dan sumber halaman gambar, tetap merujuk halaman artikel di catatan kaki.
 
 ## Bacaan Lanjutan
 
-Dapat dibaca silang antara kronologi seniman Museum Seni Taipei, halaman koleksi karya, esai penelitian Museum Seni Taipei, dan halaman pameran Universitas Seni Tokyo. Pembaca berbahasa Inggris dapat merujuk pada artikel panjang _The Reporter_ versi Inggris tentang sejarah pelestarian dan makna seni _Air Keabadian_.
+Bisa silang baca dari kronologi seniman Museum Seni Nasional, halaman koleksi karya, artikel penelitian Museum Tinggi Kaohsiung, dan halaman pameran Tokyo Geijutsu Daigaku. Pembaca bahasa Inggris bisa rujuk edisi bahasa Inggris _The Reporter_ soal laporan panjang sejarah simpan dan arti seni _Ganlu Shui_.
 
 ## Referensi
 
-[^1]: [Koleksi Museum Seni Taipei — Huang Tu-shui (1895–1930)](https://ntmofa-collections.ntmofa.gov.tw/AuthorData.aspx?AID=MIMLMW) — Halaman data seniman Museum Seni Taipei, mengumpulkan tanggal lahir, pendidikan, penampilan Pameran Imperial, kronologi karya, dan keterangan kematian.
+[^1]: [Koleksi Museum Seni Nasional — Huang Tu-shui (1895–1930)](https://ntmofa-collections.ntmofa.gov.tw/AuthorData.aspx?AID=MIMLMW) — Halaman data seniman Museum Seni Nasional Taiwan, merangkum lahir, pendidikan, lolos Teiten, kronologi ciptaan, dan proses meninggal.
 
-[^2]: [Huang Tu-shui — Air Keabadian — Koleksi Museum Seni Taipei](https://ntmofa-collections.ntmofa.gov.tw/GalData.aspx?RNO=MXMDM6M8MAMSM8M2&FROM=KH5JKWK7M95M0G5D) — Halaman koleksi karya Museum Seni Taipei, menyediakan media, dimensi, tahun, nomor pendaftaran, dan penjelasan karya.
+[^2]: [Huang Tu-shui — Ganlu Shui — Koleksi Museum Seni Nasional](https://ntmofa-collections.ntmofa.gov.tw/GalData.aspx?RNO=MXMDM6M8MAMSM8M2&FROM=KH5JKWK7M95M0G5D) — Halaman koleksi karya Museum Seni Nasional Taiwan, menyediakan media, ukuran, tahun, nomor registrasi, dan keterangan karya.
 
-[^3]: [Kesadaran Asia yang bertemu di seberang: Lahir dan Kebangkitan _Air Keabadian_](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=7050093f-1721-42c8-9a25-e749a396d1c4) — Esai khusus Museum Seni Kota Kaohsiung _Art Certification_, menganalisis _Air Keabadian_ dari segi karya, pengalaman studi luar negeri, dan sejarah seni Taiwan-Jepang.
+[^3]: [Benih Kesadaran Taiwan di Pertemuan Timur-Barat: Kelahiran dan Kelahiran Kembali _Ganlu Shui_](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=7050093f-1721-42c8-9a25-e749a396d1c4) — Artikel khususi _Pengakuan Seni_ Museum Seni Kota Kaohsiung, menganalisis _Ganlu Shui_ dari karya, pengalaman kuliah, dan sejarah seni Taiwan-Jepang.
 
-[^4]: [Pencarian Karya](https://www.kmfa.gov.tw/ArtAccrediting/ArtTopicDetail.aspx?Cond=ea7e8da4-a273-4f2f-b9f2-f434461cc28c) — Halaman khusus Museum Seni Kota Kaohsiung, menjelaskan pencarian karya yang tersebar, pelestarian, dan isu sejarah seni yang muncul kembali.
+[^4]: [Surat Cari Barang](https://www.kmfa.gov.tw/ArtAccrediting/ArtTopicDetail.aspx?Cond=ea7e8da4-a273-4f2f-b9f2-f434461cc28c) — Halaman khusus Museum Seni Kota Kaohsiung, menjelaskan pencarian karya hilang, penyimpanan, dan masalah pembangunan ulang sejarah seni.
 
-[^5]: [Huang Tu-shui dan Zamannya ― Taiwan Pertama sebagai Seniman Patung Bergaya Barat dan Sekolah Seni Tokyo pada Awal Abad ke-20](https://museum.geidai.ac.jp/exhibit/2024/09/Huang-Tu-Shui.html) — Halaman pameran resmi Museum Seni Universitas Tokyo, mencatat periode pameran, penyelenggara, pinjaman karya, dan konteks sekolah.
+[^5]: [Huang Tu-shui dan Zaman Nya — Seniman Patung Bergaya Barat Pertama Taiwan dan Tokyo Bijutsu Gakko Awal Abad ke-20](https://museum.geidai.ac.jp/exhibit/2024/09/Huang-Tu-Shui.html) — Halaman pameran resmi Museum Seni Tokyo Geijutsu Daigalu, mencatat masa pameran, penyelenggara, pinjam karya, dan konteks sejarah sekolah.
 
-[^6]: [Diskusi] Pendahulu Seni Modern Taiwan Kontemporer: _Catatan Akhir Huang Tu-shui dan Zamananya_](https://www.openbook.org.tw/article/p-67673) — Catatan akhir peneliti yang diterbitkan oleh majalah bacaan Openbook, membahas posisi sejarah seni Huang dan pengaruhnya pada generasi berikutnya.
+[^6]: [Topik » Pendahuluan Seni Modern Kontemporer Taiwan: Catatan Akhir _Huang Tu-shui dan Zaman Nya_](https://www.openbook.org.tw/article/p-67673) — Catatan akhir peneliti Suzuki Keika dimuat Majalah Openbook, membahas posisi sejarah seni Huang Tu-shui dan pengaruh kemudian.
 
-[^7]: [Huang Tu-shui and His Time: Taiwan's First Western-style Sculptor and the Tokyo Fine Arts School in the Early 20th Century](https://museum.geidai.ac.jp/en/exhibit/2024/09/Huang-Tu-Shui.html) — Halaman pameran berbahasa Inggris Museum Seni Universitas Tokyo, menjelaskan status keluarga Huang, pameran karya, dan posisinya dalam sejarah seni modern.
+[^7]: [Huang Tu-shui and His Time: Taiwan's First Western-style Sculptor and the Tokyo Fine Arts School in the Early 20th Century](https://museum.geidai.ac.jp/en/exhibit/2024/09/Huang-Tu-Shui.html) — Halaman pameran bahasa Inggris Museum Seni Tokyo Geijutsu Daigalu, menjelaskan identitas alumni Huang Tu-shui, pameran karya, dan posisi sejarah seni modern.
 
-[^8]: [【Pratinjau Buku】_Taiwan Tanah Air: Kehidupan Seni Huang Tu-shui yang Bangkit Kembali_](https://gpi.culture.tw/news/16500) — Pratinjau dari situs informasi publikasi pemerintah budaya, memperkenalkan isi album pameran, kronologi, dan proses penelitian serta pelestarian kembali karya Huang.
+[^8]: [【Pratinjau Buku】 Tanah Taiwan, Air Bebas: Kebangkitan Hidup Seni Huang Tu-shui](https://gpi.culture.tw/news/16500) — Pratinjau Jaringan Informasi Publikasi Pemerintah Kementerian Budaya, memperkenalkan isi album pameran, kronologi, dan proses karya Huang Tu-shui kembali diteliti disimpan.
 
-[^9]: [Mengukir Pencerahan: Warisan Sepenuh Abad dari _Air Keabadian_ Karya Huang Tu-shui](https://www.twreporter.org/a/ng-thoo-sui-and-kam-loo-tsui-english) — Artikel mendalam versi Inggris _The Reporter_, membahas dari Pameran Imperial 1921, bentuk karya, hingga proses pelestarian dan warisan seninya.
+[^9]: [Sculpting Enlightenment: The Century-Long Legacy Of Huang Tu-Shui's 'Water Of Immortality'](https://www.twreporter.org/a/ng-thoo-sui-and-kam-loo-tsui-english) — Laporan mendalam edisi bahasa Inggris _The Reporter_, dari Teiten 1921, bentuk karya, dan muncul kembali simpanan, membahas warisan seni Huang Tu-shui.

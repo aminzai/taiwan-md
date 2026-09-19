@@ -310,7 +310,7 @@ EU 炭素国境調整メカニズム（CBAM）は 2026 年に正式制度へ移�
 - [台湾と原子力の議論](/ja/society/taiwan-nuclear-debate) — 本稿はエネルギーと物理的上限を扱い、あちらは原子力議論そのものを扱う：反原発／賛成原発 40 年、3 回の国民投票と蘭嶼核廃棄物の社会的葛藤
 - [台湾環境運動史](/ja/nature/taiwan-environmental-movement-history) — 反原発から反大気汚染へ、蘭嶼ダウ族、美濃反ダム、藻礁国民投票がいかに今日のエネルギー政治を形作ったか
 - [台湾海洋汚染治理と保全の課題](/ja/nature/marine-pollution-governance-and-conservation) — 第3原発排水口付近のサンゴ 80% 白化、海洋ごみと洋上風力の生態学的交差点
-- [台湾の温泉と地熱](/ja/nature/Taiwan Hot Springs and Geothermal Energy) — 清水地熱 1981 年の失敗から 2024 年再始動まで、30 年の地熱沈黙がどう形成されたか
+- [台湾の温泉と地熱](/ja/nature/taiwan-hot-springs-and-geothermal-energy) — 清水地熱 1981 年の失敗から 2024 年再始動まで、30 年の地熱沈黙がどう形成されたか
 - [台湾環境正義と忌避施設争議](/ja/society/taiwan-environmental-justice-nimby-conflicts) — 蘭嶼、藻礁、美濃：エネルギー転換のコスト配分政治
 - [台湾産業転型アップグレード](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — 高エネルギー消費製造からグリーンエネルギー産業へ、TSMC RE100、CBAM、「護国神山」のエネルギー勘定
 - [台湾行道樹](/lifestyle/台灣行道樹) — 街路樹陰としてのヒートアイランド緩和における位置と時間スケール：木が育って日陰を作れるまで最低 10 年、このライン上で最も待ちきれない適応策

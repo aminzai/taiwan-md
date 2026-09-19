@@ -1,0 +1,25 @@
+{
+  "revision": 99,
+  "submissionId": "1123e7aa-fe89-49cd-90bf-cf579bd3bbed",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十七次 delta）",
+  "verdict": "accept",
+  "rationale": "(1)(2) curl bamid 99 年名單逐字「大愛劇場－情義月光（永續傳播有限公司）」，[^71] 準確；維基列表 infobox「首次頒發 1981 年」支撐 [^2]；逐屆核 1981–2009 得獎單位全為頻道或基金會，2010 永續傳播確為第一次製作公司。2023／2024 得獎單位皆製作公司。(3) 兩處順修為刪重述。footnote 71/71。小瑕疵：2025《影后》六家聯名含台灣大哥大（電信商），「都是製作公司」略絕對，建議改措辭（不影響 accept）。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L70（永續傳播句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L378（[^71]）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L76（兩列錨欄）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L99／L120（順修）"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "revision": 37,
+  "submissionId": "04bbccb2-b4f6-44ef-81d8-857a947c5b26",
+  "actor": "compose-reviewer-4 (Sonnet agent afbceb11611d8e4df, fresh context, read diff + article + blueprint only)",
+  "verdict": "accept",
+  "rationale": "三處改動都成立：33.0萬/38.1萬對應第一/第二十分位的白話改寫語意正確；43.6萬括號註記正確標出與本國籍全時第一四分位數的巧合，語氣中性；「出處都是那套統計」只是去重複，語意與節奏未受損。三處都沒有替任一方背書，全文仍對應藍圖八步骨架。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "line 117 / 121 / 133"
+    },
+    {
+      "path": "reports/staging/low-wage/batch-fix-coldread3.diff",
+      "location": "全檔"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only",
+  "notes": "43.6萬括號略長，但屬必要的防混淆註記，不建議再刪。"
+}

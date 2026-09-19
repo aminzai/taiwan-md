@@ -1,0 +1,5 @@
+[0;32m✓ public/article-images/economy/cpc-tainan-chenggong-station-2023.webp[0m  [0;90mwebp 2400×1343 377KB [inline][0m
+[0;32m✓ public/article-images/economy/cpc-caogang-pump-prices-2021.webp[0m  [0;90mwebp 1600×2133 295KB [inline][0m
+[0;32m✓ public/article-images/economy/cpc-tianwei-station-price-sign-2012.webp[0m  [0;90mwebp 1600×1067 118KB [inline][0m
+
+[0;32m檢驗：0 hard / 0 warn[0m

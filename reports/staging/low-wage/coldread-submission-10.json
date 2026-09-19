@@ -1,0 +1,33 @@
+{
+  "revision": 68,
+  "stage": "cold-read",
+  "actor": "cold-reader-10 (Sonnet agent ac15c2f02779f2b37, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "同一天記者會兩個數字：月薪算沒人低於 OECD 線，年薪算 126 萬人。差別在年終等非經常性薪資，本薪有最低工資法守下限，年終沒有法律規定。文章算了誰不在 753 萬人母體裡（三百多萬人），整理各方各自講哪一欄，帶到 9 月 24 日審議會。",
+    "changedUnderstanding": "原以為零人是硬拗選擇性放大，讀完知道兩個真數字出自同一場記者會，差別只在月薪還是年薪，不是誰在騙人。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "各方的話都放進去且標明只代表本人；情緒重量偏 126 萬人那邊；「先講哪一欄是主計總處在記者會上的選擇，在野黨罵的正是這個選擇」接近替在野黨背書。",
+    "titleDescriptionHonest": "兌現清楚，沒有跳題灌水。",
+    "confusions": [
+      "全體口徑 vs 本國籍全時比例差不多但人數不同那段要重讀兩次",
+      "兩個 126 萬純屬巧合"
+    ],
+    "repetitions": [
+      "「本薪有法律守著，年終沒有」三次",
+      "「零人跟 126 萬人」開頭中段文末各一次"
+    ],
+    "forcedConclusions": [
+      "「選擇」一詞把先講月薪詮釋成有意圖，前文沒有證據是刻意還是提問順序",
+      "「政策把地板推過線」帶目的論敘事"
+    ],
+    "readerVerdict": "ship",
+    "readerRationale": "四題答得出、機制清楚、各方有出處與但書；扣分在節奏偏 126 萬那邊與收尾重複，屬語氣微調非結構缺陷。"
+  }
+}

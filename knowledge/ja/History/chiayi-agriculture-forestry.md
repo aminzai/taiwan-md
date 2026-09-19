@@ -21,7 +21,7 @@ translatedAt: '2026-09-17T06:43:35+08:00'
 
 ![1931年嘉義農林野球チームが甲子園で準優勝した様子](https://upload.wikimedia.org/wikipedia/commons/a/a9/1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High_School_Tournament%29.jpg)
 
-_画像：1931年嘉農野球チームの集合写真。Wikimedia Commons、パブリックドメイン。[ファイルページ](https://commons.wikimedia.org/wiki/File:1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High*School_Tournament%29.jpg)。*
+_画像：1931年嘉農野球チームの集合写真。Wikimedia Commons、パブリックドメイン。ファイルページ。_
 
 1931年7月23日、台北圓山球場には約15,000人の観客が詰めかけました。嘉義農林は台湾代表権決定戦で台北商業を11対10で破り、日本甲子園へ渡航する船票を獲得しました。同日、ラジオを通じて試合の音声が島各地に届けられました。8月21日、彼らは甲子園決勝で愛知商業に敗れ、準優勝となりました。この優勝を逃したチームは、その後「天下嘉農」として呼ばれることになります[^1] [^2]。
 
@@ -79,7 +79,7 @@ _画像：1931年嘉農野球チームの集合写真。Wikimedia Commons、パ�
 
 ![嘉義市中央噴水圓環の呉明捷彫像](https://commons.wikimedia.org/wiki/Special:FilePath/A%20statue%20of%20former%20Kano%20pitcher%20Wu%20Ming-chieh%20at%20the%20Central%20Fountain%20of%20Chiayi%20City%20%28Taiwan%29.jpg)
 
-_画像：嘉義市中央噴水圓環の呉明捷彫像。Wikimedia Commons、CC BY-SA 3.0、作者 Mk2010。[ファイルページ](https://commons.wikimedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_%28Taiwan%29.jpg)。\_
+_画像：嘉義市中央噴水圓環の呉明捷彫像。Wikimedia Commons、CC BY-SA 3.0、作者 Mk2010。ファイルページ。\_
 
 この保存方法にもリスクがあります。一人の人間が彫像にされるとき、その複雑な身分は「不屈」という四文字に縮小されがちです。そして、混合民族のチームが感動的な映画として描かれるとき、植民地制度や先住民選手の具体的な経験は背景へと退いてしまう可能性があります。台湾・インサイト（Taiwan Insight）の分析は、この点に着目し、一方では映画が野球と台湾のアイデンティティを呼び戻した力を肯定しつつ、他方では植民的近代性の美化に対する批評家の懸念を整理しています[^6]。
 
@@ -124,3 +124,8 @@ _画像：嘉義市中央噴水圓環の呉明捷彫像。Wikimedia Commons、CC
 [^8]: [嘉農から紅葉へ—台湾野球の物語](https://iweb.sports.gov.tw/fapi/AttFile?type=AttFile&id=132) — スポーツ運動文化デジタル蔵書の研究資料。嘉農が4度台湾を代表して日本甲子園に行ったこと、そしてそれが台湾野球史の中でどのように継承されているかを整理している。
 
 [^9]: [【書評】百年前、彼らは野球を始めた—『日治時代台湾野球口頭インタビュー』](https://gpi.culture.tw/news/12401) — 国営出版物情報網の記事。台湾における野球の萌芽と日本の植民地教育、学校制度との関係を説明している。
+
+## 画像出典
+
+- [ファイルページ](https://commons.wikimedia.org/wiki/File:1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High_School_Tournament%29.jpg)
+- [ファイルページ](https://commons.wikimedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_%28Taiwan%29.jpg)

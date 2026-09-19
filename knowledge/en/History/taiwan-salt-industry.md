@@ -1,16 +1,16 @@
 ---
-title: "Taiwan's Salt Industry: How Three Hundred Thirty-Eight Years of Sun-Drying Changed its Mode of Existence After Industrialization"
-description: 'In 1665, Chen Yonghua established salt evaporation ponds in Laisou, Tainan, making seawater, monsoon winds, and sunlight an industry. From 1952 to 1961, the demand for industrial salt increased from 35,000 tons to 245,000 tons, yet the salt fields reached their end amidst industrialization and global trade; after the last mechanical harvest in 2002, Jinzaijiao and Zhounan returned the decommissioned landscapes to local communities.'
+title: 'Taiwan’s Salt Industry: 338 Years of Sun-Drying and How It Found a New Existence After Industrialization'
+description: 'In 1665, Chen Yonghua built salt pans at Saikou in Tainan, turning seawater, monsoons, and sunlight into an industry. Between 1952 and 1961, industrial and agricultural salt demand rose from 35,000 to 245,000 metric tons, yet salt fields faced obsolescence amid industrialization and global trade; after the last mechanical harvest in 2002, Jingzaijiao and Zhou Nan returned the landscape of cessation to local stewardship.'
 date: 2026-08-16
 category: 'History'
 subcategory: '殖民與帝國'
 tags:
   [
-    'Taiwan Salt Industry',
-    'Salt Fields',
-    'Jinzaijiao',
-    'Qisimu',
-    'Zhounan Salt Field',
+    'Taiwan salt industry',
+    'salt fields',
+    'Jingzaijiao',
+    'Qigu',
+    'Zhou Nan Salt Field',
   ]
 author: 'Taiwan.md Contributors'
 featured: false
@@ -22,123 +22,123 @@ translatedFrom: 'History/台灣鹽業.md'
 sourceCommitSha: 'a61bd414b'
 sourceContentHash: 'sha256:623c5c57e9b6b622'
 sourceBodyHash: 'sha256:7e48fca3fca65812'
-translatedAt: '2026-09-14T00:53:25+08:00'
+translatedAt: '2026-09-11T13:29:01+08:00'
 ---
 
-> **30-Second Overview:** The salt on Taiwan's table has not always been white powder. In 1665, Chen Yonghua channeled seawater into evaporation ponds in Laisou, Tainan; over three centuries later, the last batch of sun-dried salt was harvested in 2002 due to industrialization, labor shortages, and imported salt. Today, Jinzaijiao in Beimen and Zhounan Salt Field in Chiayi still dry salt, preserving not just a product, but a way of life accomplished by the sea, wind, land, and salt workers.[^1]
+> **30-Second Overview:** Taiwan’s salt has never simply been a white powder sitting on the dining table. In 1665, Chen Yonghua channeled seawater into salt pans at Saikou in Tainan; more than three centuries later, industrialization, labor shortages, and imported salt brought the final batch of sun-dried salt to a close in 2002. Today, the Jingzaijiao Salt Field in Beimen and the Zhou Nan Salt Field in Budai, Chiayi, still dry salt, preserving not just a product, but a way of life co-created by the sea, wind, land, and salt workers. [^1]
 
-In 1665, at Laisou, Tainan, during the Ming-Zheng period, Chen Yonghua faced a practical problem: the resulting salt was bitter, and the island could not rely indefinitely on external supplies. Thus, he constructed evaporation ponds to turn seawater into brine, allowing the sun to complete the final step. This decision later became the beginning of Taiwanese sun-dried salt.[^1]
+In 1665, in the Tainan area of Saikou during the Ming Zheng period, Chen Yonghua faced a practical problem: the boiled salt was bitter, and the island could not rely indefinitely on external supplies. He thus built salt pans, turning seawater into brine and letting the sun complete the final step. This decision is later regarded as the beginning of Taiwan’s sun-dried salt industry. [^1]
 
-This story is easily told as a beautiful fable of "man conforming to nature," but the salt fields are actually a highly sophisticated land engineering system. Seawater first entered evaporation ponds where moisture gradually decreased, and the brine was then sent into crystallization ponds. The size of the ponds, their slope, embankments, and the monsoon all influenced whether the salt could crystallize at the correct time. In 1824, salt merchant Wu Shangxin established Zhounan Salt Field in Buidai, Chiayi, dividing the salt fields into water evaporation ponds, land evaporation ponds, brine tanks, and brick kiln areas to make the production process easier to manage.[^1]
+This story is easily told as a beautiful fable about “ancestors adapting to nature,” but salt fields are actually a sophisticated system of land engineering. Seawater first enters evaporation ponds, where moisture gradually decreases; the brine is then sent to crystallization ponds. The size, slope, dikes, and monsoons of the ponds all affect whether salt can crystallize at the correct time. In 1824, salt merchant Wu Shangxin established the Zhou Nan Salt Field in Budai, Chiayi, dividing the salt fields into water pans, earth pans, brine vats, and brick-and-tile pans, making the production process easier to manage. [^1]
 
-> 📝 **Curator's Note:** A salt field is not an "empty lot"; it is a factory that breaks down seawater in many stages, only its roof has been replaced by the sky.
+> 📝 **Curator’s Note:** Salt fields are not a patch of “empty land”; they are a factory that breaks down seawater into many stages, with the sky serving as the roof.
 
-## Salt Does Not Come Only from Seawater
+## Salt Comes from More Than Just Seawater
 
-Before large-scale salt fields appeared, people across Taiwan were already obtaining salt through various methods. Records compiled by the National Archives Administration mention that the Aturang (Datu) people of Lan Tao scraped salt layers from rock surfaces after low tide; while the Xiriya tribe processed saline soil during the dry winter season, using water washing and boiling to extract salt. These methods were small-scale but reminded us that the history of the salt industry should not only begin with the day a state established a salt warehouse.[^1]
+Before large-scale salt fields emerged, people across Taiwan had already obtained salt through different methods. Data compiled by the Archives and National Memory Agency notes that the Tao people of Lanyu (Orchid Island) scrape salt layers from rock surfaces after the tide recedes; the Siraya people process salt soil during the dry winter season, using water washing and boiling to extract salt. These methods were small in scale, yet they remind us that the history of the salt industry should not begin only from the day the state established salt offices. [^1]
 
-Once evaporation ponds and salt fields became institutionalized, the coast was redivided into a series of measurable spaces for taxation, procurement, and transportation. The focus of salt workers was not just one batch of salt, but the embankments, pond grids, brine, and crystallization time. Every stage required a balance between seawater, monsoon winds, and human labor.[^1]
+Once salt pans and salt fields became institutionalized, the coastline was re-cut into a series of spaces that could be measured, taxed, purchased, and transported. The object of a salt worker’s labor was not a pot of salt, but dikes, pond grids, brine, and crystallization time. Every link required balancing seawater, monsoons, and human labor. [^1]
 
-This also explains why the relics left by salt fields are often misinterpreted. Without workers, tools, and transportation routes, the evaporation pans look like mere fragments on the ground. Only when placed back into the production process do they become an understandable technology.[^1][^2]
+This explains why the ruins left by salt fields are particularly prone to misreading. Without workers, tools, and transport routes, tile pans appear merely as fragments on the ground. Only when placed back into the production process do they become a technology that can still be understood. [^1] [^2]
 
-## Salt Was First a Necessity for Life, Then Became an Industry
+## Salt Was First a Necessity of Life, Later an Industry
 
-Salt production during the Qing dynasty made this matter more institutionalized. In 1726, the Qing government established salt warehouses to manage the monopoly and prohibit private drying or selling. The method of drying salt shifted from sand evaporation ponds to water-based pans and grids in 1798, changing the structure of salt field production.[^1]
+The Qing dynasty’s salt system made this matter more institutionalized. In 1726, the Qing government established salt offices to manage the salt monopoly, prohibiting private drying and selling. In 1798, the method of drying salt shifted from sand pans to water plots and plot pans, changing the production structure of salt fields. [^1]
 
-The state monopoly was not just about managing a seasoning. Salt was a material for preserving food, maintaining daily life, and supporting national finances. Academic research places the salt industry within Taiwan's industrial development history: it was connected to livelihoods, finance, transportation, and industry simultaneously, and cannot be understood merely as "the salty taste of local cuisine."[^2]
+The salt monopoly was not merely managing a condiment. Salt was a material for preserving food, maintaining daily life, and supporting state finance. Academic research places the salt industry back into Taiwan’s history of industrial development: it once connected livelihood, finance, transport, and industry simultaneously, and cannot be understood solely through the “salty taste” of local snacks. [^2]
 
-After Taiwan became a province in 1885, Liu Mingchuan reorganized the salt administration and sales network. The reforms did not immediately solve production and supply issues, but they began to treat the salt industry as an industry requiring systems, capital, and logistics, rather than just the craft produced individually by salt workers on the coast.[^2]
+After Taiwan became a province in 1885, Liu Mingchuan reorganized salt administration organs and sales networks. The reform did not immediately solve production and supply-demand issues, but it began to treat the salt industry as one requiring institutions, capital, and logistics, rather than just a craft produced individually by salt workers on the coast. [^2]
 
-## The Monopoly System Connects Salt Fields to Industry
+## The Monopoly System Connected Salt Fields to Industry
 
-In 1895, Japan began governing Taiwan. Initially, the state monopoly on salt was abolished, allowing free production and sales, which resulted in market disorder and many abandoned salt fields. In 1899, the Governor-General's Office restored the salt monopoly, and by 1901, Taiwan's salt production had returned to pre-colonial levels, with surplus salt being exported to Japan.[^1]
+In 1895, Japan began governing Taiwan. Initially abolishing the salt monopoly and allowing free production and sales, the result was market disorder, and many salt fields fell into abandonment. In 1899, the Governor-General’s Office restored the salt monopoly; by 1901, Taiwan’s salt production had returned to the scale of the Qing period, with surplus salt exported to Japan. [^1]
 
-This turning point illustrates an counterintuitive fact: the monopoly was not just a restriction, but also infrastructure that bound the source, procurement, transportation, and sales together. When Japanese industry increased its demand for industrial salt after World War I, Taiwan's salt fields were no longer just supplying table salt for households; they were pulled into the chain of science, industry, and imperial trade.[^1][^2]
+This turning point illustrates a counter-intuitive fact: monopoly is not merely a restriction, but also a infrastructure that binds production sites, purchasing, transport, and sales together. When Japanese industry increased its demand for industrial salt after World War I, Taiwan’s salt fields were no longer just supplying household table salt, but were pulled into the chains of chemical industry and imperial trade. [^1] [^2]
 
-In the 1930s, the Taiwan Salt Company applied to develop centralized land evaporation ponds in Qisimu to supply industrial salt. The South Japan Salt Industry Co., Ltd., established in 1938, massively purchased land in Buidai, Qisimu, and Kaohsiung; in 1941, Taiwanese salt fields were forcibly acquired. This expansion of the salt fields included both technological upgrading and the redistribution of land and production power under colonial rule.[^1]
+In the 1930s, the Taiwan Salt Corporation applied to develop centralized earth-pan salt fields in Qigu to supply industrial salt. The South Japan Salt Industry Corporation, established in 1938, acquired large amounts of land in Budai, Qigu, and Kaohsiung; in 1941, Taiwanese salt fields were forcibly acquired. The expansion of salt fields thus included both technological upgrades and the redistribution of land and production power under colonial rule. [^1]
 
-> 📝 **Curator's Note:** Salt fields look quiet, but they have never been places without power; who could dry it, who could sell it, and who owned the land determined not just the taste of the salt, but who could live by the sea.
+> 📝 **Curator’s Note:** Salt fields look quiet, but they have never been places without power; who can dry salt, who can sell it, and who gets the land determines not only the taste of salt, but who can remain living by the sea.
 
-## Post-War Salt: Supporting Industrialization While Revealing Its Limits
+## Post-War Salt Supported Industrialization While Exposing Its Limits
 
-After the war, the original salt companies were taken over and reorganized. Taiwan had salt fields in Lukang, Buidai, Beimen, Qisimu, Tainan, and Kaohsiung sequentially. In 1953, the Taiwan Salt General Factory was established under the Ministry of Finance's Salt Administration to manage production across Taiwan.[^1]
+After the war, the original salt companies were taken over and reorganized. Taiwan successively had salt fields in Lugang, Budai, Beimen, Qigu, Tainan, and Kaohsiung. In 1953, the Taiwan Salt General Plant of the Salt Affairs Bureau under the Ministry of Finance was established, responsible for the production and operation of the nation’s salt industry. [^1]
 
-Industrialization led to a rapid increase in salt demand. Records compiled by the National Archives Administration show that from 1952 to 1961, the amount of salt used for agriculture and industry increased from 35,000 tons to 245,000 tons; from 1962 to 1965, although Taiwan produced over 500,000 tons in consecutive years, production was still heavily affected by weather.[^1]
+Industrialization caused salt demand to increase rapidly. Data compiled by the Archives and National Memory Agency shows that between 1952 and 1961, agricultural and industrial salt usage rose from 35,000 to 245,000 metric tons; between 1962 and 1965, although Taiwan’s annual production occasionally exceeded 500,000 metric tons for several consecutive years, output remained heavily affected by extreme weather. [^1]
 
-The government began constructing new salt flats in the first and second industrial zones of Qisimu in 1971, completing them in 1977. This was the only new salt field built by Taiwanese people after World War II, and the fan-shaped salt fields commonly seen in Qisimu emerged from this project.[^1]
+The government began construction of new salt flats in the First and Second Zones of Qigu in 1971, completing them in 1977. This was the only new salt field built entirely by Taiwanese after World War II; the fan-shaped salt fields of Qigu, often seen today, emerged during this engineering project. [^1]
 
-In the same era, Taiwan also built an electrolytic refined salt plant in Tongxiao. The Tongxiao refined salt plant, commissioned in 1975, did not need to wait for clear weather and could supply table salt and some industrial salt. The future of the salt industry thus split into two paths: one remaining by the sea, relying on sunlight and human labor; the other entering a factory, replacing weather dependence with stable industrial processes.[^1]
+In the same era, Taiwan also built an ion-exchange membrane electrodialization refined salt plant in Tongxiao. The Tongxiao Refined Salt Plant, commissioned in 1975, did not need to wait for sunny days and could supply table salt and some industrial salt. The future of the salt industry thus split into two paths: one remained by the sea, relying on sunlight and manual labor; the other entered factories, replacing weather with stable industrial processes. [^1]
 
-## Salt Harvesting Machines Could Not Save Sun-Drying
+## Mechanical Harvesters Could Not Save Sun-Dried Salt
 
-In the 1970s, young and middle-aged workers moved into industrial sectors, leading to labor shortages at salt fields. The cost of manual drying was high, and quality was not easily consistent. Starting in 1980, the Salt General Factory sent personnel to study in the US, France, and Australia; in 1983, it purchased salt harvesting machines and washing equipment, and Buidai Salt Field began testing full mechanization.[^1]
+In the 1970s, the young and middle-aged population moved into the industrial sector, and salt fields began to face labor shortages; manual sun-dried salt had high costs and unstable quality. Starting in 1980, the Salt General Plant sent personnel to the US, France, and Australia for inspection; in 1983, it purchased salt harvesters and washing equipment, and the Budai Salt Field began trials of full mechanization. [^1]
 
-Mechanization made the salt fields more concentrated and larger, facilitating machine access, but it also conflicted with Taiwan's climatic conditions. After the last mechanical harvest was completed in 2002, all salt fields in Taiwan closed; the history of Taiwanese sun-dried salt, counted from 1665, spanned 338 years as recorded in archives.[^1]
+Mechanization made salt fields more concentrated and larger, facilitating machine access, but conflicted with Taiwan’s climatic conditions. Salt field operations continued until 2002; after the last mechanical harvest was completed, all salt fields in Taiwan closed; the history of Taiwan’s sun-dried salt, calculated from 1665, had run its course for the 338 years noted in the archives. [^1]
 
-This ending cannot be simplified as "tradition yielding to modernity." What truly forced it away from the coast was the combined pressure of labor shortages, climatic limitations, cost, quality requirements, and global salt trade. After Taiwan joined the World Trade Organization in 2003, salt products were freely imported, and Taisan switched to supplying industrial demand with imported salt, while table salt was supplied by Tongxiao refined salt.[^1]
+This end cannot be simplified as “tradition losing to modernity.” What truly drove it away from the coast was the combined pressure of labor shortages, weather limits, costs, quality requirements, and global salt trade. After Taiwan joined the World Trade Organization in 2003, salt imports were liberalized; Taiwan Salt shifted to supplying industrial needs with imported salt, while table salt was supplied by the Tongxiao Refined Salt Plant. [^1]
 
-> 📝 **Curator's Note:** The end of sun-dried salt is not when a machine presses the stop button, but when the entire nation decides to obtain the same white substance in another way.
+> 📝 **Curator’s Note:** The endpoint of sun-dried salt was not a single machine pressing a stop button, but the entire nation deciding to obtain the same white substance in another way.
 
-## Re-drying Is Not Bringing Back an Old System
+## Re-drying Is Not About Bringing Back the Old System
 
-The re-drying after 2003 faced a changed market. The country no longer supplied all industrial needs through the old salt field system, and local salt fields could not sustain themselves solely on large-scale production and sales; they had to renegotiate within a single sphere encompassing production, education, tourism, and cultural assets.[^1][^5]
+Post-2003 re-drying faced an already changed market. The state no longer supplied all industrial needs through the former salt field system, and local salt fields could not sustain themselves relying solely on old large-scale production and sales; they had to renegotiate production, education, tourism, and cultural assets within the same field. [^1] [^5]
 
-This transformation has an often overlooked cost: re-drying requires reorganizing pond grids, repairing tools, arranging tours, and teaching salt worker knowledge to the next generation. Zhounan Salt Field combines re-drying with environmental education, while Jinzaijiao turns salt picking and harvesting into experiences, all answering the question of "who will maintain this landscape."[^3][^4][^10]
+This transformation has an easily overlooked cost: re-drying requires reorganizing pond grids, repairing tools, arranging tours, and ensuring salt workers’ knowledge can be learned by the next generation. Zhou Nan Salt Field combines re-drying with environmental education; Jingzaijiao turns carrying and harvesting salt into experiences, both answering the question of “who will maintain this landscape.” [^3] [^4] [^10]
 
-What they do differs from the pursuit of stability, scale, and efficiency by industrial salt factories. The value of sun-dried salt is not in its quantity being able to replace imports, but in allowing people to see a product from seawater to crystallization, and enabling local communities to transform a finished industry memory into an ongoing activity.[^4][^5]
+What they do differs from the industrial salt plants’ pursuit of stability, scale, and efficiency. The value of sun-dried salt lies not in its production volume being sufficient to replace imports, but in allowing people to see the process of a product from seawater to crystallization, and enabling the locality to transform a finished industrial memory into work that is still happening. [^4] [^5]
 
-## Jinzaijiao Leaves Behind Evaporation Pans, Not Just Sunsets
+## Jingzaijiao Leaves Behind Tile Pans, Not Just Sunsets
 
-After production ceased, the salt fields did not immediately become mere scenery. The evaporation pans at Jinzaijiao in Northmen, Taiwan, are drying salt again, making salt picking, harvesting, and salt field tours visible and learnable activities. The management office of the Cloud-Tainan Coast National Scenic Area currently lists traditional drying, picking, and harvesting as site experiences, indicating that what is preserved is not a static relic, but an operable technology.[^3]
+After production ceased, salt fields did not immediately become simple landscapes. The Jingzaijiao Tile Pan Salt Field in Beimen, Tainan, resumed drying salt, making carrying salt, harvesting salt, and salt field tours visible and learnable work. The Yunlin, Chiayi, and Tainan Coastal National Scenic Area Management Office currently still lists traditional sun-drying, carrying, and harvesting as field experiences, indicating that the object of preservation is not a static ruin, but a technology that can still be operated. [^3]
 
-The Cultural Heritage Network lists Jinzaijiao evaporation pans as a case of historical architecture; its value lies in the rarity and local characteristics of the pans, not merely the word "ancient."[^6]
+The Cultural Heritage Network lists the Beimen Jingzaijiao Tile Pan Salt Field as a case study of a historical building; its value lies in the rarity and local characteristics of tile pan salt fields, not merely in the word “ancient.” [^6]
 
-Official local cultural articles describe Jinzaijiao as one of the oldest existing evaporation pan salt fields operating with traditional brine-drying methods, linking this continuous production to the 1665 start of the salt industry. This narrative is suitable for understanding the direction of preservation, but "360 years" is a summary by that official article of the Southwest coastal salt culture and should not be mistaken as every existing salt field having produced continuously for 360 years.[^5]
+Official local cultural articles describe Jingzaijiao as one of the oldest existing tile pan salt fields still operating by traditional brine-drying sun methods, linking this continuous production to the 1665 starting point of the salt industry. This narrative is suitable for understanding the direction of preservation, but “360 years” is a generalization by that official article regarding southwestern coastal salt industry culture and should not be mistakenly written as if every existing salt field has produced continuously for 360 years. [^5]
 
-## Zhounan Keeps Post-Drying Issues on Site
+## Zhou Nan Leaves the Questions After Cessation on Site
 
-The timeline of Zhounan Salt Field in Buidai, Chiayi, is more direct. The Museum Island records that Zhounan was established in 1824, ceased drying in 2001, and underwent reconstruction for re-drying after receiving support from the Cultural Heritage Regeneration Project in 2008; salt products were launched in 2013, along with environmental education and sustainable actions.[^10]
+The timeline of the Zhou Nan Salt Field in Budai, Chiayi, is more direct. The Ministry of Culture’s Museum Island records that Zhou Nan Salt Field was established in 1824, ceased drying in 2001, received funding from the Cultural Heritage Regeneration Project for reconstruction in 2008, resumed re-drying, launched salt products in 2013, and developed environmental education and sustainability actions. [^10]
 
-The focus here is not on staging the old salt field as a nostalgic backdrop, but on acknowledging that re-drying requires new work. The Ministry of Tourism's website places Zhounan Salt Field's experiences, salt worship ceremonies, and high-quality local flavored salts in one area; the salt field has become a node for local activities and education, not just a space with old photographs.[^4]
+The focus here is not to arrange the old salt field as a nostalgic background, but to acknowledge that re-drying requires new work. the Taiwan Tourism Bureau places Zhou Nan Salt Field’s experiences, the Salt Thanking Festival, and high-quality local-flavor salt in the same field; the salt field has become a node for local activities and education again, rather than a space containing only old photographs. [^4]
 
-Saltfield revitalization thus has its own practical limitations. Small-scale sun-dried salt cannot replace national industrial supply, nor can cultural experiences and product sales pretend to equal the scale of the former industry. What it can do is put "how salt comes" back into human hands, allowing visitors to see the relationship between wind direction, brine, evaporation pans, and the actions of salt workers.[^4][^10]
+Salt field rehabilitation thus has its own realistic limits. Small-scale sun-dried salt cannot replace the supply of national industrial salt, and cultural experiences and product sales cannot pretend to be equivalent to the industrial scale of the past. What it can do is put “how salt comes” back into human hands, allowing visitors to see the relationship between wind direction, brine, tile pans, and salt workers’ movements. [^4] [^10]
 
-## Museums Collect Salt Workers' Lives, Not Just Salt
+## Museums Collect Salt Workers’ Lives, Not Just Salt
 
-The Taiwan Salt Museum in Qisimu opened in January 2005, positioned as a place for the education, research, and promotion of salt industry culture. The museum officially positions itself as a thematic institution preserving centuries of salt industry cultural assets; Taisan's special articles mention that the building, with its white pyramid shape echoing salt mountains, presents the work and life of salt workers through wax figures, architectural models, real objects, salt industry history exhibits, and oral history.[^7][^8]
+The Taiwan Salt Museum in Qigu opened in January 2005, positioned as a venue for the education, research, and promotion of salt industry culture. The museum’s official introduction positions it as a thematic hall preserving hundreds of years of salt industry cultural assets; a dedicated article from Taiwan Sugar Corporation records that the building’s white pyramid shape echoes the salt mountain, using wax figures, architectural models, real objects, salt industry history displays, and oral history to present the work and life of salt workers. [^7] [^8]
 
-The Tainan Tourism website places salt drying, salt well sentinels, salt transport trains, salt village clinics, local elder narratives, and yellowed photographs within a single narrative. The importance of these items is that they bring the salt industry from a production chart back to a society with people working, people seeking medical care, and people transporting salt by train.[^9]
+The Tainan Tourism Network’s detail page places salt workers drying salt, salt well sentries, salt transport trains, salt village clinics, local elders’ oral accounts, and yellowed photographs in the same narrative group. The importance of these objects lies in returning the salt industry from production tables to a society where people commuted, sought medical care, and took trains to transport salt. [^9]
 
-The museum's current operating status also reminds us that cultural preservation is not permanent. Both the Tainan Tourism website and Taiwan Good Travel Information marked the Taiwan Salt Museum as closed for renovation starting January 10, 2022, with reopening dates subject to official announcements; therefore, this article does not provide fixed recommendations for visiting.[^9][^11]
+The museum’s current open status also reminds us that cultural preservation is not a one-time solution. Both the Tainan Tourism Network and Taiwan Good Travel information indicate that the Taiwan Salt Museum has been closed for renovation since January 10, 2022, with the reopening date subject to official announcements; therefore, this article does not write visitation information as a fixed recommendation. [^9] [^11]
 
-## The Salt Fields Did Not Return to the Past
+## Salt Fields Have Not Returned to the Past
 
-After 2002, Taiwan did not restore an industry that supplied national industrial needs through sun-dried salt. What returned was something else: Jinzaijiao kept evaporation pans and drying actions in Northmen; Zhounan put re-drying, environmental education, and salt worship ceremonies back in Buidai; Qisimu used the museum to preserve the objects, sounds, and working memories of salt workers.[^3][^4][^8][^10]
+After 2002, Taiwan did not re-establish an industry supplying national industrial needs through sun-dried salt. What returned is something else: Jingzaijiao leaves tile pans and drying actions in Beimen; Zhou Nan returns re-drying, environmental education, and the Salt Thanking Festival to Budai; Qigu uses the museum to preserve salt workers’ objects, sounds, and work memories. [^3] [^4] [^8] [^10]
 
-Therefore, the white crystals seen in the salt fields today cannot be understood merely as "reproduction of ancient methods." It is more like a local response to industrialization: when mass production shifted to imported salt and refined salt plants, locals still chose to let seawater enter ponds and wind pass through embankments, allowing people to learn again how to wait for a grain of salt to form.
+Thus, the white crystals seen in salt fields today cannot be understood merely as “ancient methods reappearing.” It is more like a locality’s answer to industrialization: when large-scale production has shifted to imported salt and refined salt plants, the locality still chooses to let seawater enter the ponds, let wind pass through the dikes, and let people relearn how to wait for a grain of salt to form.
 
-These sites also allow the tools, oral histories, and work rhythms of salt workers not to remain only in archives, but to continue being explained during subsequent experiences and tours.[^3][^8]
+These fields also ensure that salt workers’ tools, oral accounts, and work rhythms do not remain only in archives, but can continue to be explained in the next experience and tour. [^3] [^8]
 
-In 1665, Chen Yonghua channeled seawater into Laisou evaporation ponds; in 2002, the last mechanical harvester left the salt field. The period between these two years was not a straight line from tradition to modernity, but a coast repeatedly adjusting its relationship with salt. Today's Jinzaijiao and Zhounan have not brought Taiwan back to 1665; they are simply asking: when salt no longer needs us to dry it, can this land that has dried salt still allow us to see our own lives?[^1][^3][^4]
+In 1665, Chen Yonghua channeled seawater into the salt pans at Saikou; in 2002, the last mechanical salt harvester left the salt field. Between these two years lies not a straight line from tradition to modernity, but a coastline repeatedly adjusting its relationship with salt. Today’s Jingzaijiao and Zhou Nan do not bring Taiwan back to 1665; they only ask: when salt no longer requires us to dry it, can this land that has been dried for salt still allow us to see our own lives anew? [^1] [^3] [^4]
 
-[^1]: [National Development Council Archives Administration (Historical Articles - Exploring the 400-Year Development of Taiwan's Salt Industry)](https://www.archives.gov.tw/tw/arctw/69-1878.html) — Archival compilation supporting the system, land engineering, production, mechanization, and cessation of sun-drying in Taiwan from 1648 to 2003.
+[^1]: [Archives and National Memory Agency, “Historical Article: Exploring Four Hundred Years of Taiwan’s Salt Industry Development”](https://www.archives.gov.tw/tw/arctw/69-1878.html) — Archival compilation supporting Taiwan’s salt industry systems, salt field engineering, production volumes, mechanization, and the termination of sun-dried salt from 1648 to 2003.
 
-[^2]: [Jiang Rishu (A Preliminary Study of Taiwan's Salt Industry)](https://www.airitilibrary.com/Article/Detail/P20190425001-200712-201904260013-201904260013-1-15) — Discussion of salt manufacturing, organization, institutions, distribution, and the industry's place in livelihood and economic history, based on archives from the National Archives.
+[^2]: [Jiang Ri-sheng, “A Preliminary Study on the Development of Taiwan’s Salt Industry”](https://www.airitilibrary.com/Article/Detail/P20190425001-200712-201904260013-201904260013-1-15) — Discusses salt manufacturing, organization, agencies, distribution, and the industry’s position in livelihood and economic history using salt industry archives from the Taiwan Literature Museum.
 
-[^3]: [Ministry of Tourism Cloud-Tainan Coast National Scenic Area (Jinzaijiao Evaporation Pans)](https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/369) — Official scenic spot detail page detailing traditional drying, picking, and harvesting experiences and local preservation information at Jinzaijiao.
+[^3]: [Taiwan Tourism Bureau, Yunlin, Chiayi, and Tainan Coastal National Scenic Area, “Jingzaijiao Tile Pan Salt Field”](https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/369) — Official scenic spot detail page, recording Jingzaijiao’s traditional sun-drying, carrying, harvesting experiences, and on-site preservation information.
 
-[^4]: [Ministry of Tourism Cloud-Tainan Coast National Scenic Area (Zhounan Salt Field)](https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/301) — Official scenic spot detail page detailing the salt field culture restoration, experience activities, and salt worship ceremonies at Zhounan.
+[^4]: [Taiwan Tourism Bureau, Yunlin, Chiayi, and Tainan Coastal National Scenic Area, “Zhou Nan Salt Field”](https://www.swcoast-nsa.gov.tw/zh-tw/attraction/details/301) — Official scenic spot detail page, recording Zhou Nan Salt Field’s salt field culture revival, experience activities, and Salt Thanking Festival.
 
-[^5]: [Ministry of Tourism Cloud-Tainan Coast National Scenic Area (Seeing 360 Years of Salt Culture in Southwest Taiwan's Coastal Region)](https://www.swcoast-nsa.gov.tw/zh-tw/news/details/2108) — Official local cultural article explaining the "wave of salinity," the trinity of life, Jinzaijiao drying methods, and the preservation of Southwest coastal salt culture.
+[^5]: [Taiwan Tourism Bureau, Yunlin, Chiayi, and Tainan Coastal National Scenic Area, “Seeing Taiwan’s Southwestern Coastal Region Continue 360 Years of Salt Industry Culture”](https://www.swcoast-nsa.gov.tw/zh-tw/news/details/2108) — Official local cultural article, explaining the “salty tide,” three-life integration, Jingzaijiao sun-drying method, and southwestern coastal salt industry culture preservation.
 
-[^6]: [Ministry of Culture Cultural Heritage Administration National Cultural Heritage Network (Jinzaijiao Evaporation Pans)](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20090824000005) — Detail page for a case of historical architecture, providing cultural heritage registration context and inquiry entry for Jinzaijiao evaporation pans.
+[^6]: [Ministry of Culture, Cultural Heritage Administration, National Cultural Heritage Network, “Beimen Jingzaijiao Tile Pan Salt Field”](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20090824000005) — Historical building case detail page, providing the cultural heritage registration context and query entry for Jingzaijiao tile pan salt fields.
 
-[^7]: [Taiwan Salt Museum (About the Museum)](https://taiwan-salt.com.tw/chinese/intro.html) — Official introduction detailing the thematic positioning, location in Qisimu, and mission to preserve centuries of salt industry cultural assets at the Taiwan Salt Museum.
+[^7]: [Taiwan Salt Museum, “About the Salt Museum”](https://taiwan-salt.com.tw/chinese/intro.html) — Official introduction of the Taiwan Salt Museum’s thematic positioning, location in Qigu, and mission to preserve hundreds of years of salt industry cultural assets.
 
-[^8]: [Taishang Communications (The Taiwan Salt Museum—Where Salt Industry Culture is Preserved and Promoted)](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1395&p=13385373&s=13385380) — A company publication article describing the museum's opening in 2005, exhibition space, and preservation of salt worker life and oral history.
+[^8]: [Taiwan Sugar Corporation Newsletter, “Taiwan Salt Museum—A Place for Preserving and Promoting Taiwan Salt Industry Culture”](https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1395&p=13385373&s=13385380) — Public enterprise publication article, recording the museum’s 2005 opening, exhibition spaces, salt workers’ lives, and oral history preservation.
 
-[^9]: [Tainan Tourism Website (Taiwan Salt Museum)](https://www.twtainan.net/zh-tw/attractions/detail/489/) — Official Tainan city tourism detail page detailing the salt worker life exhibited at the museum, including salt transport trains, salt village clinics, and renovation information.
+[^9]: [Tainan Tourism Network, “Taiwan Salt Museum”](https://www.twtainan.net/zh-tw/attractions/detail/489/) — Tainan City official tourism detail page, recording museum displays of salt workers’ lives, salt transport trains, salt village clinics, and closure for renovation information.
 
-[^10]: [Ministry of Culture Museum Island (Zhounan Salt Field)](https://museums.moc.gov.tw/MusData/Detail?museumsId=3b09c260-d85b-4199-9461-cca01669bd93) — A cultural ministry database page detailing Zhounan's establishment in 1824, cessation of drying in 2001, reconstruction in 2008, salt product launch in 2013, and environmental education.
+[^10]: [Ministry of Culture, Museum Island, “Zhou Nan Salt Field”](https://museums.moc.gov.tw/MusData/Detail?museumsId=3b09c260-d85b-4199-9461-cca01669bd93) — Ministry of Culture museum data page, recording Zhou Nan Salt Field’s establishment in 1824, cessation in 2001, re-drying in 2008, salt product launch in 2013, and environmental education.
 
-[^11]: [Taiwan Good Travel Information (Taiwan Salt Museum)](https://www.taiwantrip.com.tw/Frontend/Attractions/TripSpecialp/S11273) — An official tourism service detail page cross-referencing the Taiwan Salt Museum's renovation closure and alternative information for Qisimu tourists.
+[^11]: [Taiwan Good Travel Tourism Service Network, “Taiwan Salt Museum”](https://www.taiwantrip.com.tw/Frontend/Attractions/TripSpecialp/S11273) — Official tourism service detail page, cross-verifying the Taiwan Salt Museum’s closure for renovation and Qigu Visitor Center alternative information.

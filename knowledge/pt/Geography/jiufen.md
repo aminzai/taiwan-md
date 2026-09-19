@@ -1,19 +1,19 @@
 ---
-title: 'Jiufen: quando a mina desapareceu, o cinema deu nome à cidade da serra'
-description: 'Jiufen evoluiu de uma vila de montanha que extraía liga de camphor para um agrupamento aurífero; após o declínio da mineração, foi reconfigurada pelo cinema, pelos salões de chá e pela preservação cultural. Este artigo reúne nome do lugar, indústria, cinema e turismo em uma única linha do tempo.'
+title: 'Jiufen: depois que a mina desapareceu, o cinema rebatizou a cidade da montanha'
+description: 'Jiufen passou de aldeia de montanha de extração de cânfora a povoado de mina de ouro; após o fim da mineração, foi reembalada pelo cinema, casas de chá e preservação cultural. Este artigo recoloca toponímia, indústria, cinema e turismo na mesma linha do tempo.'
 date: 2026-08-20
 subcategory: '城市與人文地理'
 category: 'Geography'
 tags:
   [
     'Jiufen',
-    'Jifen',
-    'minas',
-    'patrimônio mineiro',
-    'cidade triste',
-    'cinema Shengping',
+    'Ruifang',
+    'mina de ouro',
+    'património mineiro',
+    'Cidade Dolorosa',
+    'Teatro Shengping',
     'turismo cultural',
-    'cultura gastronômica',
+    'cultura gastronómica',
   ]
 author: 'Taiwan.md Contributors'
 featured: false
@@ -25,156 +25,156 @@ translatedFrom: 'Geography/九份.md'
 sourceCommitSha: '7a1e87e46'
 sourceContentHash: 'sha256:f6fbbce0517a5d1c'
 sourceBodyHash: 'sha256:ec15193c5eaa241b'
-translatedAt: '2026-09-14T14:50:03+08:00'
+translatedAt: '2026-09-12T02:30:18+08:00'
 ---
 
 ## Visão geral em 30 segundos
 
-Antes da exploração aurífera, Jiufen não era uma «cidade esperando para ser descoberta». Segundo os registros do Departamento de Turismo, Jiufen era conhecida por extrair liga de camphor; o nome «Jiufen» está relacionado à divisão dos fornos de camphor em grupos de dez. Após a descoberta de uma vena aurífera por volta de 1890, a população e o capital se concentraram rapidamente na encosta, formando uma nova escala de assentamento. [^10]
+Jiufen não era uma «cidade vazia à espera de ser descoberta» antes da extração de ouro. Segundo os dados locais da Administração de Turismo do Ministério dos Transportes, a região viveu inicialmente da extração e destilação de cânfora, e o nome «Jiufen» (nove partes) estaria ligado ao modo de dividir os fornos de cânfora em lotes de dez. Por volta de 1890, com a descoberta de veios auríferos, população e capital concentraram-se rapidamente nas encostas, formando uma nova escala de povoamento.[^10]
 
-A segunda transformação de Jiufen ocorreu após o fim da mineração. Em 1971, Jiufen encerrou oficialmente as operações auríferas; o cinema Shengping também fechou sob a pressão da TV, do vídeo cassete, da perda populacional e das prejuízos operacionais. Em 1989, o filme «Cidade Triste» estreou, levando as escadas, a névoa e os salões de chá de Jiufen para o campo de visão do público cinematográfico. Posteriormente, os esforços de preservação não restauraram a cidade mineira, mas colocaram o cinema, os arquivos mineiros, a cultura dos salões de chá e o consumo turístico no mesmo discurso. [^1] [^2] [^6] [^11]
+A segunda grande virada de Jiufen ocorreu após o fim da mineração. Em 1971, Jiufen encerrou oficialmente a extração de ouro, e o Teatro Shengping também fechou as portas sob o impacto combinado da televisão, fitas de vídeo, êxodo populacional e prejuízos operacionais. Em 1989, o lançamento de _Cidade Dolorosa_ projetou as escadarias, a neblina e as casas de chá de Jiufen no olhar do público cinematográfico. O posterior trabalho de preservação não restaurou a cidade como um povoado de mineiros, mas colocou o teatro, os arquivos mineiros, a cultura das casas de chá e o consumo turístico numa mesma narrativa local.[^1] [^2] [^6] [^11]
 
-![Salão de chá A-Mei e vistosa da cidade da serra, fotografado em 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg/1920px-A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Casa de chá A-Mei e paisagem urbana de Jiufen, foto de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg/1920px-A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Foto: Another Believer, «A-Mei Tea House, Jiufen, 2024», Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) 。[^9]
+> Imagem: Another Believer, 〈A-Mei Tea House, Jiufen, 2024〉, Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) .[^9]
 
-![Vista noturna da rua antiga de Jiufen, fotografado em 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jiufen%2C_November_27%2C_2024_-_181.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_181.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Vida noturna da rua velha de Jiufen, foto de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jiufen%2C_November_27%2C_2024_-_181.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_181.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Foto: Another Believer, «Jiufen, November 27, 2024 - 181», Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) 。A foto mostra a rua antiga de Jiufen à noite, sem ser usada como imagem histórica da era mineira. [^13]
+> Imagem: Another Believer, 〈Jiufen, November 27, 2024 - 181〉, Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) . A foto mostra a rua velha de Jiufen à noite na atualidade, não sendo utilizada como imagem histórica da era mineira.[^13]
 
-## Uma linha do tempo que vai além do caminho para o ouro
+## Uma linha do tempo que não leva só ao ouro
 
-A história de Jiufen é melhor lida a partir das mudanças na indústria, não a partir dos letreiros das lojas na rua antiga hoje. A linha do tempo abaixo coloca lado a lado as três mudanças — «extração», «exibição» e «preservação» — mostrando que Jiufen não sofreu uma única reestruturação, mas várias forças diferentes assumindo o controle da mesma encosta.
+A história de Jiufen lê-se melhor a partir das mudanças industriais, não dos letreiros das lojas da rua velha de hoje. A linha do tempo abaixo coloca «extração», «exibição» e «preservação» lado a lado, mostrando que Jiufen não sofreu uma única transformação, mas várias forças diferentes assumindo a mesma encosta em momentos distintos.
 
-| Período           | Mudança local                                                                                      | Espaço ou dado remanescente                                                                           |
-| ----------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Por volta de 1890 | Descoberta da vena aurífera, população de prospectores se concentra rapidamente                    | Shrine terrestre de Fushan, memórias de mineração perto de Jinugua [^10]                              |
-| 1893–1896         | Jiufen e Jinguashi obtêm concessões mineiras separadas, institucionalizando a indústria            | Concessões mineiras de Jiufen, concessões mineiras de Jinguashi e métodos de extração diferentes [^2] |
-| 1931              | Conclusão do cinema Shengping, com capacidade para 543 espectadores                                | Cinema de dois andares, teatro e funcionalidades de projeção de filmes [^11]                          |
-| 1957–1971         | Declínio da mina de Jiufen, encerramento oficial em 1971                                           | Perda populacional, ruptura da rede comercial [^1] [^2]                                               |
-| 1989              | Lançamento de «Cidade Triste», imagens de Jiufen entram na circulação internacional de cinema [^6] | Rua Qiaozi, cinema Shengping, salões de chá e paisagens montanhosas [^6]                              |
-| 2009–2010         | Cinema Shengping obtém virada na preservação, classificado como edifício comemorativo              | Instalações culturais na rua antiga e planos de restauração [^11]                                     |
-| 2010–2020         | Cinema Shengping transformado em espaço de exibição, exposição e cultura local                     | Gravações de personagens locais, exposições de cinemas antigos, propostas participativas [^11]        |
+| Época     | Transformação local                                                                    | Espaços ou registos remanescentes                                                           |
+| --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ~1890     | Descoberta de veios auríferos, rápida concentração de garimpeiros                      | Templo Fushan (福山宮) e memórias de garimpo em Xiaojinguá (小金瓜) [^10]                   |
+| 1893–1896 | Jiufen e Jinguashi obtêm direitos mineiros separados, institucionalização da mineração | Direitos mineiros de Jiufen e Jinguashi e diferentes métodos de extração [^2]               |
+| 1931      | Conclusão do Shengping-za (昇平座), capacidade para 543 espectadores                   | Teatro de dois andares, função de teatro e cinema [^11]                                     |
+| 1957–1971 | Declínio da mina de Jiufen, encerramento oficial em 1971                               | Êxodo populacional, ruptura da rede comercial [^1] [^2]                                     |
+| 1989      | Estreia de _Cidade Dolorosa_, imagens de Jiufen entram na circulação internacional     | Rua Zhuzaki (豎崎路), Teatro Shengping, casas de chá e paisagem mineira [^6]                |
+| 2009–2010 | Teatro Shengping obtém virada na preservação, classificado como edifício memorial      | Instalações culturais da rua velha e plano de restauro [^11]                                |
+| 2010–2020 | Teatro Shengping convertido em espaço de exposição, espetáculo e cultura local         | Registos de figuras locais, exposições sobre o velho cinema, propostas participativas [^11] |
 
-Esta tabela também nos lembra que Jiufen não é simplesmente «a mineração acabou, o cinema assumiu». A construção do cinema antecedeu o declínio da mineração; o fechamento do cinema ocorreu após o auge da mineração. Antes de Jiufen ser filmado como cenário histórico, o próprio cinema Shengping já havia passado por transformações de espaço de espetáculo, cinema e memória comunitária. [^11]
+Esta tabela também lembra que Jiufen não é «mina acaba, cinema assume» de forma tão simples. A fundação do teatro antecedeu o declínio mineiro, e o seu fechamento ocorreu depois do auge da extração. Antes de o cinema transformar Jiufen em cenário histórico, o próprio Teatro Shengping já tinha vivido mutações de local de espetáculos, sala de cinema e espaço de memória comunitária.[^11]
 
-## Antes da mineração: fornos de camphor e origem do nome
+## Antes do ouro: fornos de cânfora e toponímia
 
-A página oficial do Departamento de Turismo indica que, antes da prosperidade das minas, Jiufen era conhecida pela extração de liga de camphor; a região possuía noventa fornos de camphor, divididos em grupos de dez, daí o nome «Jiufen». Esta é uma narrativa local da página turística, não pode ser tomada como única definição etimológica, mas corrige a simplificação de que «Jiufen só apareceu em 1890». [^10]
+A página oficial de atrações da Administração de Turismo aponta que, antes do auge do ouro, Jiufen viveu da extração e destilação de cânfora, possuindo noventa fornos, agrupados em lotes de dez — daí a origem do nome «Jiufen». Trata-se da narrativa de história local da página de turismo, não podendo ser tomada como única definição etimológica, mas ao menos corrige a simplificação de que «Jiufen só surgiu em 1890».[^10]
 
-Por volta de 1890, os moradores descobriram uma vena aurífera perto do santuário terrestre de Fushan, perto de Jinugua; a população de prospectores se concentrou rapidamente. Segundo dados oficiais, a vila reuniu temporariamente três a quatro mil famílias de prospectores. Este número descreve um agrupamento mineiro que cresceu rapidamente em um curto período, não a população fixa de Jiufen hoje. [^10]
+Por volta de 1890, moradores descobriram ouro perto do Templo Fushan, na zona de Xiaojinguá, atraindo rapidamente garimpeiros. Dados oficiais estimam que o povoado chegou a concentrar três a quatro mil famílias garimpeiras. Esse número descreve um assentamento mineiro que inchou num curto período, não a população fixa de longo prazo da Jiufen atual.[^10]
 
-A história da mineração registrada pelo Instituto de Patrimônio Digital da Universidade Nacional de Taiwan coloca essa transição num contexto regional mais longo: em 1890, o ouro de areia do rio Keelung foi descoberto; em 1893, Jiufen descobriu minas; em 1894, a vena de Jinguashi foi encontrada. Os prospectores não construíram repentinamente uma cidade na montanha, mas se moveram gradualmente ao longo dos rios, vias e linhas de transporte. [^2]
+O acervo digital da Universidade Nacional de Taiwan insere essa virada num contexto regional mais longo: 1890, descoberta de ouro de aluvião no rio Keelung; 1893, descoberta de mina em Jiufen; 1894, descoberta do corpo de minério no Monte Principal de Jinguashi. Os garimpeiros não construíram de repente uma cidade na montanha, mas deslocaram-se gradualmente ao longo do rio, dos veios e das vias de acesso.[^2]
 
-Em 1896, durante o início do domínio japonês, foram promulgadas as regras da indústria mineira de Taiwan; a concessão de Jiufen foi concedida a Fujita Denzaburo, enquanto Jinguashi foi concedida a Tanaka Chujihei. A partir de então, as duas áreas adjacentes foram afetadas por diferentes formas de gestão e investimento. [^2]
+Em 1896, no início do período japonês, foi promulgado o Regulamento Mineiro de Taiwan; os direitos de Jiufen foram concedidos a Fujita Denzaburō (藤田傳三郎) e os de Jinguashi a Tanaka Chōbei (田中長兵衛). A partir daí, duas áreas vizinhas passaram a ser geridas e investidas de formas distintas.[^2]
 
-As veias auríferas de Jiufen estavam principalmente em arenito friável, com ouro em forma de folhas ou ramos nas vias quartzo. O ouro de Jinguashi, por outro lado, estava principalmente em rocha ígnea intrusiva dura, extraída em escala por uma operação direta; Jiufen desenvolveu um sistema de concessões por zonas. É conveniente chamar as duas cidades de «Ouro Nove», mas os nomes das linhas turísticas não devem substituir duas histórias industriais distintas. [^2] [^3]
+Os veios de Jiufen ocorrem sobretudo em arenito mais frágil, com ouro em lâminas ou ramificações dentro de veios de quartzo. Em Jinguashi, o ouro forma-se em andesito intrusivo mais duro, o que levou à exploração em grande escala por operação direta, enquanto Jiufen desenvolveu um sistema de concessão por zonas. Chamar ambas de «Jin-Jiu» (ouro nove) é conveniente, mas o rótulo prático não deve apagar duas histórias industriais diferentes.[^2] [^3]
 
 ## A encosta não é cenário, é rota de trabalho
 
-Mineiros, empreiteiros, comerciantes, grupos teatrais e famílias mineiras entraram juntos na encosta limitada; as casas só podiam ser construídas empilhadas seguindo o relevo. As escadas conectavam os poços, casas, lojas e o cinema; as ruas primeiro eram rotas de trabalho e vida, só depois se tornaram caminhos para fotografias de turistas. O Instituto de Patrimônio Digital da Universidade Nacional de Taiwan considera a densidade populacional, a construção ao longo da encosta e a concentração populacional mineira como fatores-chave para a formação do assentamento urbano de Jiufen. [^2]
+Mineiros, empreiteiros, comerciantes, trupes e famílias de mineiros entraram juntos na encosta limitada; as casas só podiam empilhar-se seguindo o relevo. Escadarias ligavam bocas de mina, moradias, lojas e teatro; as ruas foram primeiro rotas de trabalho e vida, só depois viraram enquadramento para fotos de visitantes. Os dados da Universidade Nacional tratam a estreiteza, a construção em socalcos e a concentração populacional mineira como chaves da formação do povoado de montanha.[^2]
 
-Este tipo de assentamento não é fácil de representar com uma única construção. Salões de chá, cinemas, lojas de produtos gerais, minas e dormitórios correspondiam a diferentes necessidades de vida. Se apenas preservarmos as fachadas mais fotogênicas dos salões de chá, ignorando os poços, hospitais, escolas, transporte e memórias dos moradores, o que preservamos são as aparências, não o assentamento.
+Esse tipo de povoado não se resume a um único edifício representativo. Casas de chá, teatro, mercearias, minas e dormitórios respondiam cada um a necessidades distintas. Se se preserva apenas a fachada da casa de chá mais fotogénica, mas não se tratam galerias, hospital, escola, transportes e memórias dos moradores, preserva-se a aparência, não o povoado.
 
-![Ruelas da encosta na rua antiga de Jiufen, fotografado em 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jiufen%2C_November_27%2C_2024_-_197.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_197.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Ruelas e encostas da rua velha de Jiufen, foto de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jiufen%2C_November_27%2C_2024_-_197.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_197.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Foto: Another Believer, «Jiufen, November 27, 2024 - 197», Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) 。A foto mostra a rua antiga e as ruelas da encosta de Jiufen, sem ser usada como foto histórica da era mineira. [^14]
+> Imagem: Another Believer, 〈Jiufen, November 27, 2024 - 197〉, Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) . A foto mostra a rua velha e as ruelas de encosta atuais, não servindo como fotografia histórica da era mineira.[^14]
 
-A diferença entre Jiufen e Jinguashi também se manifesta aqui. Ao organizar os arquivos da Junta de Desenvolvimento Nacional, foram preservados não apenas os dados de produção de ouro, mas também mapas de poços, registros de consultas hospitalares, formulários de inscrição de estudantes, horários de trens e estatutos da empresa. Estes documentos restauram a mineração como um sistema que organizava trabalho, saúde, educação e deslocamento. [^1]
+A diferença entre Jiufen e Jinguashi também aparece aqui. Ao organizar os arquivos de Jinguashi, o Arquivo Nacional de Desenvolvimento guardou não só dados de produção de ouro, mas também plantas de galerias, quadros de consultas do hospital, pedidos de alojamento estudantil, horários ferroviários e estatutos da empresa. Esses documentos devolvem à mineração a sua natureza de sistema que organizava trabalho, saúde, educação e deslocamentos.[^1]
 
-## Cinema Shengping: de 543 assentos a espaço cultural local
+## Teatro Shengping: de 543 lugares a espaço cultural local
 
-O cinema Shengping não ganhou valor cultural apenas após o filme «Cidade Triste». O artigo do Departamento de Cultura registra que o antecessor, «Cinema Shengping», foi concluído em 1931, como um prédio de dois andares combinando teatro e projeção de filmes; o térreo era de tijolos, o segundo andar era principalmente de madeira, com capacidade para 543 espectadores. Primeiro era uma instalação de entretenimento do agrupamento mineiro, só depois se tornou um edifício histórico preservado. [^11]
+O Teatro Shengping não ganhou valor cultural só depois das filmagens de _Cidade Dolorosa_. Segundo artigo do Ministério da Cultura, o seu antecessor, o Shengping-za, foi concluído em 1931, combinando teatro e projeção cinematográfica num edifício de dois andares — térreo em alvenaria, piso superior em madeira —, com capacidade para 543 espectadores. Foi primeiro equipamento de lazer do povoado mineiro, só depois edifício histórico preservado.[^11]
 
-Dos anos 1950 aos 1960 foi a era de esplendor do cinema. O declínio da mineração, a perda populacional e a mudança no ambiente de investimento tornaram a operação gradualmente difícil. Nos anos 1970, com a indústria da produção de filmes madura, o cinema se transformou temporariamente em um cinema de filmes; posteriormente, foi afetado pela TV, pelo vídeo cassete e pelos novos meios de comunicação, encerrando as operações devido a prejuízos. Esta narrativa é mais específica do que «o velho cinema testemunhou a prosperidade e o declínio», pois aponta que público, meios de comunicação e indústria mudaram simultaneamente. [^11]
+Décadas de 1950 a 1960 marcaram o auge do teatro. O declínio da mineração, o êxodo populacional e a mudança no ambiente de investimento dificultaram a operação. Na década de 1970, com a maturação da indústria cinematográfica, o teatro chegou a reconverter-se em sala de cinema, mas depois sofreu o impacto da televisão, fitas de vídeo e novos media, encerrando por prejuízo. Este fio condutor é mais concreto do que «velho cinema testemunhou esplendor e ruína», pois mostra público, meios e indústria a mudar simultaneamente.[^11]
 
-Após o fechamento do cinema, o prédio quase foi demolido. O artigo do Departamento de Cultura registra que, em 2009, a preservação teve um ponto de virada; em 2010, o cinema Shengping foi oficialmente classificado como edifício comemorativo, com planos de criação de cenários ao redor. Posteriormente, administrado pelo Museu de Ouro da Cidade de Nova, o cinema foi gradualmente transformado em espaço de exposição e exibição cultural. [^11]
+Após o fecho, o edifesteve quase demolido. O Ministério da Cultura regista que em 2009 a comunidade alcançou uma virada na preservação, e em 2010 o Teatro Shengping foi classificado como edifício memorial, com plano de cenografia do espaço envolvente. A seguir, sob gestão do Museu do Ouro de Nova Taipé, o teatro transformou-se progressivamente em espaço de exposição cultural e espetáculos.[^11]
 
-Entre 2010 e 2020, o Museu de Ouro da Cidade de Nova realizou entrevistas com moradores de Jiufen sob o tema «Descoberta e registro das histórias da mina», colocando as histórias dos personagens locais nas projeções do cinema, e também ofereceu um orçamento participativo, permitindo que moradores locais propusessem como usar o espaço. Esta prática mudou a relação de observação do cinema: os turistas não apenas veem um prédio antigo, mas veem quem conta as histórias e quem decide o conteúdo da exposição. [^11]
+Entre 2010 e 2020, o Museu do Ouro conduziu o projeto «Escavação e registo de histórias da mina», entrevistando moradores de Jiufen e exibindo as suas histórias no teatro; também abriu orçamento participativo para que locais propusessem usos do espaço. Essa prática alterou a relação de observação: o visitante não vê apenas um edifício antigo, mas também quem fornece as histórias e quem decide o que exibir.[^11]
 
-Hoje, ao entrar no cinema Shengping, você vê projetores antigos, carroças de divulgação de filmes, cartazes, balcão de bilheteria e lojas de produtos gerais recriadas. Estes objetos não são a aparência original da era mineira, mas evidências selecionadas por curadores. As exposições podem ajud a entender a história, mas também podem reorganizar a ordem da história; por isso, ainda é necessário comparar as peças expostas com as memórias dos moradores e os arquivos mineiros. [^11]
+Hoje, ao entrar no Teatro Shengping, vê-se projetor de época, triciclo de divulgação de filmes, cartazes, bilheteira e merceária recriada. Esses objetos não são o acervo original integral da era mineira, mas evidências selecionadas pela curadoria posterior. A exposição permite compreender a história, mas também lhe impõe uma ordem; por isso, continua necessário confrontar as peças com as memórias dos moradores e os arquivos mineiros.[^11]
 
-## Ouro sai, cinema entra
+## O ouro sai, o cinema entra
 
-Jiufen começou a declinar após 1957, encerrando oficialmente as operações auríferas em 1971. A indústria mineira de Jinguashi, por outro lado, durou até o fechamento da Taiwan Gold Company em 1987; os dois locais tiveram momentos de encerramento diferentes. [^1] [^2]
+Jiufen começou a declinar após 1957, encerrando oficialmente a extração em 1971. A mineração de Jinguashi prolongou-se até 1987, quando a Taiwan Metal Mining Company faliu; os dois sítios saíram de cena em momentos diferentes.[^1] [^2]
 
-Após o fim da mineração, o primeiro a desaparecer não foi a casa, mas as pessoas que a casa servia. Os mineiros não entravam e saíam diariamente; o cinema perdeu seu público fixo; as lojas perderam seus clientes fixos; empreiteiros e famílias também foram se mudando. O «declínio» posterior de Jiufen não foi uma mudança repentina na paisagem, mas a ruptura da rede de trabalho que sustentava a paisagem.
+Quando a extração acabou, o primeiro a desaparecer não foram as casas, mas as pessoas a quem elas serviam. Mineiros deixaram de entrar e sair diariamente, o teatro perdeu público fixo, lojas perderam clientela fixa, empreiteiros e famílias partiram gradualmente. O posterior «declínio» de Jiufen não foi a paisagem a ficar feia de repente, mas a rede de trabalho que a sustentava a romper-se.
 
-Na década de 1980, o novo cinema de Taiwan começou a usar Jiufen e Jinguashi como cenários narrativos. Wu Nianzhen encorajou amigos a filmar em Jiufen; filmes como «Um Dia na Praia», «Cidade Triste» e «Múltiplas Vidas» levaram as escadas, o hospital mineiro, as casas antigas e o cinema para a tela. [^6] [^7]
+Nos anos 1980, o Novo Cinema de Taiwan começou a usar Jiufen e Jinguashi como espaço narrativo. Wu Nien-jen incentivou amigos a filmar lá; _Um Dia na Praia_, _Cidade Dolorosa_, _Duosang_ levaram às telas as ladeiras, o hospital de mineiros, casas velhas e o teatro.[^6] [^7]
 
-Lançado em 1989, «Cidade Triste» tem como fundo a transição de poder e o incidente de 228; Hou Hsiao-hsien usou longas tomadas para filmar a névoa, as escadas e as casas de Jiufen, ganhando o Leão de Ouro no Festival de Veneza. O filme não registrou completamente a história industrial de Jiufen; escolheu os cantos que podiam carregar a narrativa e levou esses cantos para o público fora de Jifen. [^6]
+_Cidade Dolorosa_, de 1989, tendo como pano de fundo a alternância de poder e o incidente 228, usou longos planos para filmar a neblina, as escadarias e as casas de Jiufen, conquistando o Leão de Ouro em Veneza. O filme não registou integralmente a história industrial de Jiufen; escolheu os cantos capazes de carregar a narrativa e levou-os a audiências distantes de Ruifang.[^6]
 
-Em uma entrevista em «Revista Taiwan Glória», Wu Nianzhen disse que Jiufen ainda era muito bonita após o declínio, «como uma avó cansada de cabelos brancos». Ele também comparou o desenvolvimento excessivo posterior a «aplicar maquiagem nessa avó». Visto juntos, estas metáforas não discutem a rejeição ao turismo, mas sim se o conteúdo da vida permanece visível após a fachada da cidade brilhar. [^7]
+Em entrevista à _Taiwan Panorama_, Wu Nien-jen disse que a Jiufen decadente continuava bela, «como uma avó de cabelos brancos». Comparou o posterior desenvolvimento excessivo a «pôr pó e batom nessa avó». Juntas, as duas metáforas não falam de recusar o turismo, mas de saber se, depois de a aparência local ficar mais brilhante, o conteúdo da vida continua visível.[^7]
 
-## Lendas de «Menina Sumida» e imagens locais
+## O boato de _A Viagem de Chihiro_ e a imagem local
 
-A associação entre Jiufen e «Menina Sumida» é um dos equívocos mais comuns na narrativa turística. Muitos textos de viagem imaginam que as ruas com lanternas vermelhas e as casas de banho são provas de filmagens; segundo a análise de «Estudos Urbanos», o estúdio de Ghibli e Miyazaki já negaram várias vezes que Jiufen foi o local de filmagem. [^6]
+A associação de Jiufen a _A Viagem de Chihiro_ é um dos deslocamentos narrativos mais comuns no discurso turístico. Muitos textos de viagem tomam a rua das lanternas vermelhas e a casa de banhos termas como prova de locação, mas o _City Journal_ (城市學) aponta que o Estúdio Ghibli e Hayao Miyazaki negaram repetidamente que Jiufen tenha servido de locação.[^6]
 
-Esta lenda merece ser incluída no artigo não porque seja mais interessante que a história da mineração, mas porque mostra como o lugar é recomposto por imagens. A Jiufen real tem suas próprias encostas, cinemas e tempos mineiros; os visitantes podem chegar com as imagens de outro filme. Quando o erro se torna a expectativa da viagem, o local precisa trabalhar para separar «similar» de «filmado aqui».
+Vale a pena incluir esse boato no artigo não porque seja mais interessante que a história mineira, mas porque exemplifica como um lugar é remontado pela imagem. A Jiufen real tem as suas encostas, o seu teatro e o seu tempo mineiro; o visitante, porém, pode chegar trazendo na bagagem as imagens de outro filme. Quando o erro vira expectativa de viagem, o lugar gasta energia a separar «semelhança» de «locação».
 
-## Chás e gastronomia: o turismo não vende apenas uma foto da rua antiga
+## Casas de chá e alimentação: o turismo não vende só uma foto de rua velha
 
-A cultura dos salões de chá de Jiufen não surgiu após o cinema, nem pode ser simplificada a «sabor antigo». A pesquisa de Han Hsiu-li em 2012, com base em entrevistas em profundidade e estudos documentais, analisou a história de Jiufen, a cultura gastronômica e o ambiente turístico, concluindo que a indústria cultural local é composta por paisagens históricas, memórias de vida e objetos culturais tradicionais; a cultura dos salões de chá está ligada ao estilo de vida e ao ritmo de Jiufen. [^12]
+A cultura das casas de chá de Jiufen não nasceu depois do cinema, nem se resume ao rótulo «sabor de antigamente». O estudo de Han Hsiou-li (韓秀利), de 2012, baseado em entrevistas em profundidade e pesquisa documental, analisa a história, a cultura gastronómica e o ambiente turístico de Jiufen, apontando que a indústria cultural local é constituída pela paisagem histórica, memórias de vida e produtos culturais tradicionais, e que a cultura das casas de chá se articula com a paisagem e o ritmo de vida de Jiufen.[^12]
 
-A pesquisa também aponta que os comerciantes da rua antiga formam uma associação comercial, com organização comercial gradualmente consolidada. Isso mostra que a transição turística não é apenas o resultado de turistas externos, mas também a iniciativa dos comerciantes locais em construir um espaço comercial comum. A questão é: quando a marca comum da associação comercial fica mais clara, há espaço para que as memórias individuais dos moradores e não comerciais sejam vistas? [^12]
+O mesmo estudo nota que os lojistas da rua velha formaram uma associação comercial, consolidando progressivamente a organização do comércio. Isso indica que a transformação turística não é resultado unilateral de visitantes externos; os comerciantes locais também constroem o seu espaço comercial partilhado. A questão é: quando a marca comum do comércio se torna mais nítida, as memórias individuais e não comerciais ainda têm lugar para ser vistas.[^12]
 
-Portanto, a gastronomia de Jiufen deve ser escrita como relações industriais, não como lendas de origem de comida. Salões de chá, doces, bolinhas de mandioca, noodles de funcho e lembrancinhas podem ser parte da economia local, mas, sem histórias confiáveis de lojas ou fontes de pesquisa, não devemos criar histórias de «tradição desde a antiguidade» para cada prato.
+Por isso, a gastronomia de Jiufen merece ser escrita como relação industrial, não como lenda de origem de petiscos. Casas de chá, doces, bolas de taro, _caozaiguo_ (草仔粿) e lembranças podem fazer parte da economia local, mas, sem historial fiável de loja ou fonte de investigação, não se deve fabricar para um único alimento a história de «tradição ancestral».
 
-## O conflito entre preservação e turismo tem conteúdo específico
+## Preservação e turismo: o conflito tem conteúdo concreto
 
-O Museu de Ouro, aberto em novembro de 2004, preserva os restos mineiros de Jinguashi com a ideia de um museu ecológico. Segundo o Departamento de Cultura, a área central tem cerca de 4,5 hectares, restaurando sete tipos de estruturas, incluindo dormitórios japoneses, escritórios mineiros, refeitórios, hotéis e um poço; também realiza entrevistas orais, pesquisas de patrimônio cultural e divulgação educacional. [^4]
+O Museu do Ouro, inaugurado em novembro de 2004, preserva o sítio mineiro de Jinguashi sob a ótica de ecomuseu. Dados do Ministério da Cultura indicam uma área nuclear de cerca de 4,5 hectares, com restauro de sete tipologias de vestígios — dormitórios de estilo japonês, escritório mineiro, refeitório, Palácio do Príncipe Herdeiro, entre outros — e uma galeria, além de entrevistas orais contínuas, investigação de bens culturais e divulgação educativa.[^4]
 
-O plano «Reconstrindo o Campo Histórico» do Departamento de Cultura listou diretamente os desafios de Shuijinjiu: a poluição mineira ainda existe, as expectativas dos proprietários de terras e moradores sobre o desenvolvimento não são consistentes, e a preservação e revitalização não podem depender apenas de reparar as construções. O plano propõe avançar a partir das necessidades locais, participação comunitária, reutilização de espaços históricos e elevação do valor da mina. [^5]
+O projeto «Recriar o sítio histórico» do Ministério da Cultura lista diretamente os dilemas de Shui-Jin-Jiu (水金九): a poluição mineira persiste, proprietários de terras e moradores têm visões de desenvolvimento divergentes, e a preservação e revitalização não se resolvem só restaurando edifícios. O plano propõe avançar a partir das necessidades locais, participação comunitária, reutilização de espaços históricos e valorização do património mineiro.[^5]
 
-![Templo Qingyun de Jiufen, fotografado em 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg/1920px-Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Templo Qingyun de Jiufen, foto de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg/1920px-Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Foto: Another Believer, «Jiufen Qingyun Temple, Taiwan, 2024», Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) 。Esta é uma imagem do templo religioso no assentamento atual, sem usar a foto como evidência da era mineira. [^15]
+> Imagem: Another Believer, 〈Jiufen Qingyun Temple, Taiwan, 2024〉, Wikimedia Commons, CC BY-SA 4.0. [Página do arquivo original](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) . Trata-se da imagem atual de um edifício religioso do povoado, não se tomando a fotografia como prova da era mineira.[^15]
 
-Em 2024, a pesquisa publicada no «International Journal of Heritage Studies» entrevistou 18 moradores e 16 turistas, organizando quatro temas interligados: memória, identidade coletiva, senso de pertencimento e turismo em massa. A pesquisa também descobriu que moradores e turistas têm compreensões diferentes sobre a paisagem cultural ideal. Este resultado mostra que «Jiufen é muito comercializado» ainda é muito superficial; a verdadeira diferença está em quem considera qual segmento de vida como paisagem e quem suporta os custos cotidianos trazidos pelo turismo. [^8]
+Um estudo de 2024 no _International Journal of Heritage Studies_ entrevistou 18 moradores e 16 visitantes, identificando quatro temas interligados: memória, identidade coletiva, sentido de pertença e turismo de massa. O estudo também revelou que moradores e visitantes divergem na compreensão da «melhor paisagem cultural». Esse resultado mostra que «Jiufen é muito comercializada» continua demasiado vago; a diferença real está em quem transforma que fatia de vida em paisagem e quem arca com os custos quotidianos do turismo.[^8]
 
-## O problema de Jiufen hoje não é querer ou não ser visto
+## O problema de Jiufen hoje não é ser ou não ser vista
 
-Jiufen já foi vista muitas vezes: prospectores viram as veias, mineiros viram seus trabalhos, espectadores do cinema viram a tela, espectadores de filmes viram a atmosfera histórica, turistas viram os salões de chá e montanhas e mares, e moradores viram transporte, aluguel, lixo, ruído e meios de vida. Nenhuma dessas visões pode representar Jiufen sozinha.
+Jiufen já foi vista muitas vezes: garimpeiros viram o veio, mineiros viram o trabalho, plateia do teatro viu a tela, público de cinema viu a atmosfera histórica, turistas veem casas de chá e mar e montanha, moradores veem trânsito, rendas, lixo, ruído e sustento. Nenhum desses olhares sozinho representa Jiufen.
 
-O que realmente precisa ser mantido é a diferença entre os dados. A descoberta da vena em 1890, o cinema Shengping em 1931, o encerramento em 1971, o filme «Cidade Triste» em 1989, a classificação como edifício comemorativo em 2010, e os salões de chá e a quadra comercial hoje, não podem ser comprimidos em uma narrativa suave de «da mina ao destino turístico». Cada transformação mudou quem pode usar a encosta e o que será preservado.
+O que importa manter é a distância entre os dados. A descoberta do veio em 1890, o Shengping-za de 1931, o fim da extração em 1971, _Cidade Dolorosa_ de 1989, a classificação como edifício memorial em 2010, e as atuais casas de chá e comércio turístico não podem ser comprimidos numa história lisa de «da mina ao ponto turístico». Cada virada mudou quem podia usar a encosta e o que seria preservado.
 
-Se a preservação de Jiufen apenas restaurar as ruas mais fotogênicas, perderemos a instituição da mineração, o trabalho, a poluição, a perda populacional e a organização local. Se tratar a vida dos moradores apenas como matéria-prima turística, transformaremos os moradores em novamente objetos de observação. A experiência de preservação do cinema Shengping mostra que entrevistas com personagens locais, apresentações, artefatos e observação de turistas podem coexistir, mas a condição é que o conteúdo da exposição indique a origem e permita que moradores locais participem da decisão sobre como usar o espaço. [^5] [^11]
+Se a preservação de Jiufen se limitar a restaurar a rua mais fotogénica, perde-se o regime mineiro, o trabalho, a poluição, o êxodo e a organização local. Se se trata a vida dos moradores apenas como matéria-prima turística, transforma-se novamente o habitante em objeto de olhar. A experiência do Teatro Shengping mostra que entrevistas a figuras locais, espetáculos, acervo e observação do visitante podem coexistir, desde que a exposição explique as suas fontes e permita aos locais participar na definição do uso do espaço.[^5] [^11]
 
-## Leituras recomendadas
+## Leituras complementares
 
-- [Ilha do Patrimônio: Navegando pela Galeria do Tempo — Experimento de Espaço do Cinema Shengping em Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade)
-- [Rede de Informações Turísticas de Taiwan, Departamento de Turismo: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290)
-- [Airiti Library: Cultura, Indústria, Turismo — Estudo sobre o Ambiente Gastronômico de Jiufen](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44)
+- [Ministério da Cultura - Ilha dos Museus: Passeio pelo corredor do tempo — Experimento espacial do Teatro Shengping de Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade)
+- [Administração de Turismo do Ministério dos Transportes - Rede de Informação Turística de Taiwan: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290)
+- [Airiti Library: Cultura, Indústria, Turismo — Estudo do ambiente turístico gastronómico de Jiufen](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44)
 - [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg)
 
 ## Referências
 
-[^1]: [Junta de Desenvolvimento Nacional: Memórias da Mina: Explorando a História Centenária de Jinguashi](https://www.archives.gov.tw/tw/arctw/69-1742.html) — Coluna de arquivos oficiais de 2023, usando arquivos da Taiwan Gold Company para descrever cidades mineiras, populações de trabalho, transições industriais e o encerramento em 1987.
+[^1]: [Arquivo Nacional de Desenvolvimento: Memória da mina — Explorando cem anos de história e esplendor de Jinguashi](https://www.archives.gov.tw/tw/arctw/69-1742.html) — Coluna oficial de arquivos de 2023, usa arquivos nacionais da Taiwan Metal Mining Company para explicar cidade mineira, população trabalhadora, virada industrial e falência de 1987.
 
-[^2]: [Instituto de Patrimônio Digital da Universidade Nacional de Taiwan: História da Extração de Ouro em Jinguashi e Jiufen](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — Página do instituto de geologia e patrimônio digital da Universidade Nacional de Taiwan, organizando a descoberta de ouro de areia em 1890, mudanças nas concessões, sistemas de concessão e o encerramento de Jiufen em 1971.
+[^2]: [Acervo Digital da Universidade Nacional de Taiwan: História da extração de ouro em Jinguashi e Jiufen](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — Página especializada de geologia e acervo digital da Universidade Nacional, compila descoberta de ouro de aluvião em 1890, mudanças de direitos mineiros, sistema de concessão e encerramento de Jiufen em 1971.
 
-[^3]: [Museu de Ouro da Cidade de Nova: The Glory Age of Mining Industry in Jinguashi & Jiufen](https://www.gep-en.ntpc.gov.tw/xmdoc/cont?xsmsid=0G274570933667825954&sid=0G279429303854474724) — Artigo oficial de exposição, em inglês, descrevendo a expansão da mineração de 1896 a 1945, as diferenças entre Jiufen e Jinguashi e o valor cultural dos restos mineiros.
+[^3]: [Museu do Ouro de Nova Taipé: The Glory Age of Mining Industry in Jinguashi & Jiufen](https://www.gep-en.ntpc.gov.tw/xmdoc/cont?xsmsid=0G274570933667825954&sid=0G279429303854474724) — Artigo oficial de exposição, em inglês, explica expansão mineira de 1896 a 1945, diferenças entre Jin e Jiu e valor cultural dos vestígios mineiros.
 
-[^4]: [Ilha do Patrimônio: Museu de Ouro da Cidade de Nova](https://museums.moc.gov.tw/MusData/Detail?museumsId=8277f1e1-a8b9-4585-a4c5-93416206dbac) — Página de informações do museu do Departamento de Cultura, registrando a abertura em 2004, a área central de 4,5 hectares, a restauração de sete tipos de estruturas e a ideia de museu ecológico.
+[^4]: [Ministério da Cultura - Ilha dos Museus: Museu do Ouro de Nova Taipé](https://museums.moc.gov.tw/MusData/Detail?museumsId=8277f1e1-a8b9-4585-a4c5-93416206dbac) — Página de dados de museu do Ministério da Cultura, regista inauguração em 2004, área nuclear de 4,5 hectares, restauro de sete tipologias de vestígios e conceito de ecomuseu.
 
-[^5]: [Reconstrindo o Campo Histórico, Departamento de Cultura: Da Paisagem à Visão — Herança e Revitalização dos Restos Mineiros de Nova](https://rhs.boch.gov.tw/rhs/plan.aspx?p=12) — Página oficial do plano de preservação, explicando diretamente a poluição mineira de Shuijinjiu, as discordâncias sobre desenvolvimento de terras, a participação comunitária e as diretrizes de preservação e revitalização.
+[^5]: [Ministério da Cultura - Recriar o sítio histórico: Da paisagem à visão — Herança e revitalização do património mineiro de ouro e cobre de Nova Taipé](https://rhs.boch.gov.tw/rhs/plan.aspx?p=12) — Página oficial do plano de preservação, expõe diretamente a poluição mineira de Shui-Jin-Jiu, divergências sobre desenvolvimento de terras, participação comunitária e direções de preservação e revitalização.
 
-[^6]: [Estudos Urbanos: «Quanto foi incrível o filme «Cidade Triste» naquele ano? Mudando o destino da cidade triste de Jiufen»](https://city.gvm.com.tw/article/99673) — Reportagem cultural de 2023, organizando a estreia do filme, a transformação turística de Jiufen, as locações reais de filmagem e a verificação da lenda sobre as filmagens de «Menina Sumida».
+[^6]: [_City Journal_: «Quão poderoso foi _Cidade Dolorosa_ na época? Mudou o destino da «decadente» Jiufen»](https://city.gvm.com.tw/article/99673) — Reportagem de cultura urbana de 2023, compila estreia do filme, transformação turística de Jiufen, locais reais de filmagem e verificação do boato de locação de _A Viagem de Chihiro_.
 
-[^7]: [Revista Taiwan Glória: «Guiados por Wu, surpresos em Shuijinjiu»](https://www.taiwan-panorama.com/Articles/Details?Guid=605f1010-7325-42de-9b72-525af2307b4f&CatId=7&postname=%E5%90%B3%E5%B0%8E%E5%B8%B6%E8%B7%AF%EF%BC%8C%E9%A9%9A%E8%B1%94%E6%B0%B4%E9%87%91%E4%B9%9D) — Artigo de 2011 do jornal diplomático Glória, contendo entrevista com Wu Nianzhen, história do cinema Shengping, memórias de famílias mineiras e comentários originais sobre a comercialização de Jiufen.
+[^7]: [_Taiwan Panorama_: «Wu Nien-jen guia por Shui-Jin-Jiu surpreendente»](https://www.taiwan-panorama.com/Articles/Details?Guid=605f1010-7325-42de-9b72-525af2307b4f&CatId=7&postname=%E5%90%B3%E5%B0%8E%E5%B8%B6%E8%B7%AF%EF%BC%8C%E9%A9%9A%E8%B1%94%E6%B0%B4%E9%87%91%E4%B9%9D) — Artigo de 2011 da revista do Ministério dos Negócios Estrangeiros, contém entrevista com Wu Nien-jen, história do Teatro Shengping, memórias de famílias de mineiros e palavras originais sobre a comercialização de Jiufen.
 
-[^8]: [Lin, Wang and Nyaupane, «The intersection of landscape values for tourists and residents in a mining heritage destination: a case study of Jiufen in Taiwan»](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2289425) — Resumo de pesquisa de 2024 no International Journal of Heritage Studies, entrevistando 18 moradores e 16 turistas, analisando memória, identidade, senso de pertencimento e conflitos de turismo em massa.
+[^8]: [Lin, Wang and Nyaupane, «The intersection of landscape values for tourists and residents in a mining heritage destination: a case study of Jiufen in Taiwan»](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2289425) — Resumo de estudo de 2024 no _International Journal of Heritage Studies_, entrevistas com 18 moradores e 16 visitantes, analisa conflitos entre memória, identidade, pertença e turismo de massa.
 
-[^9]: [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) — Página de imagem CC BY-SA 4.0, autoria de Another Believer, fornecendo informações de autoria e licença da primeira imagem à distância do artigo.
+[^9]: [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) — Página da imagem CC BY-SA 4.0, autor Another Believer, fornece informação de autor e licença da primeira imagem remota do artigo.
 
-[^10]: [Rede de Informações Turísticas de Taiwan, Departamento de Turismo: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290) — Página oficial de histórico do destino turístico, registrando a extração de camphor, origem do nome, descoberta da vena por volta de 1890, concentração populacional de prospectores e a narrativa local de como o cinema impulsionou o turismo.
+[^10]: [Administração de Turismo do Ministério dos Transportes - Rede de Informação Turística de Taiwan: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290) — Página oficial de história da atração, regista extração de cânfora, origem do nome, descoberta de veios por volta de 1890, concentração de garimpeiros e narrativa local do impulso turístico dado pelo cinema.
 
-[^11]: [Ilha do Patrimônio: Navegando pela Galeria do Tempo — Experimento de Espaço do Cinema Shengping em Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade) — Texto oficial de 2021, registrando a conclusão do cinema Shengping em 1931, 543 assentos, razões do fechamento, virada na preservação de 2009–2010 e participação comunitária nas apresentações.
+[^11]: [Ministério da Cultura - Ilha dos Museus: Passeio pelo corredor do tempo — Experimento espacial do Teatro Shengping de Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade) — Artigo oficial de 2021, regista conclusão do Shengping-za em 1931, 543 lugares, causas do fecho, virada na preservação 2009–2010 e espetáculos participativos locais.
 
-[^12]: [Han Hsiu-li: «Cultura, Indústria, Turismo — Estudo sobre o Ambiente Gastronômico de Jiufen»](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44) — Resumo de artigo de 2012 no Journal of Insular Tourism Studies, usando entrevistas em profundidade e estudos documentais para analisar a cultura gastronômica de Jiufen, salões de chá, organização comercial e identidade local.
+[^12]: [Han Hsiou-li: «Cultura, Indústria, Turismo — Estudo do ambiente turístico gastronómico de Jiufen»](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44) — Resumo de tese de 2012 na _Island Tourism Research_, usa entrevistas em profundidade e pesquisa documental para analisar cultura gastronómica, casas de chá, organização comercial e identidade local de Jiufen.
 
-[^13]: [Wikimedia Commons: Jiufen, November 27, 2024 - 181](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) — Página de arquivo de imagem CC BY-SA 4.0, autoria de Another Believer, fornecendo informações de imagem noturna da rua antiga e licença da segunda imagem à distância do artigo.
+[^13]: [Wikimedia Commons: Jiufen, November 27, 2024 - 181](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) — Página de arquivo Quality image CC BY-SA 4.0, autor Another Believer, fornece imagem noturna da rua velha e informação de licença da segunda imagem remota do artigo.
 
-[^14]: [Wikimedia Commons: Jiufen, November 27, 2024 - 197](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) — Página de arquivo de imagem CC BY-SA 4.0, autoria de Another Believer, registrando a aparência contemporânea da rua antiga e das ruelas da encosta de Jiufen.
+[^14]: [Wikimedia Commons: Jiufen, November 27, 2024 - 197](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) — Página de arquivo Quality image CC BY-SA 4.0, autor Another Believer, regista a aparência atual da rua velha e ruelas de encosta de Jiufen.
 
-[^15]: [Wikimedia Commons: Jiufen Qingyun Temple, Taiwan, 2024](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) — Página de arquivo de imagem CC BY-SA 4.0, autoria de Another Believer, registrando a imagem do templo Qingyun de Jiufen no assentamento atual.
+[^15]: [Wikimedia Commons: Jiufen Qingyun Temple, Taiwan, 2024](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) — Página de arquivo Quality image CC BY-SA 4.0, autor Another Believer, regista a imagem atual do Templo Qingyun de Jiufen.

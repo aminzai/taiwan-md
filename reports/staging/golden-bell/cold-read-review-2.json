@@ -1,0 +1,41 @@
+{
+  "revision": 38,
+  "submissionId": "429e1f24-0dee-49d1-8c90-e6034d877fe0",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ab9df685669e1c35a；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "多數項目屬裁量：客家 26 項腳註有完整分項；YouTube 數字正文＋圖表是數字卡＋散文並置；廣播業者增件數減有官方源；40→40 與「比去年攀升」兩個框架並陳；「門」隱喻是首尾呼應主題；結尾是散點案例收束。兩處真問題：(1) L207 曹瑞原被問政治介入，質疑方是誰全文未交代，[^62] 本身寫明報導未載明，正文應把限制帶出；(2) L96「公視主頻同時是典禮轉播單位之一」插在頻道計算規則中間，沒有承接論證也沒說明用意，讀起來像暗示球員兼裁判卻不展開。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L207 曹瑞原段：質疑方未交代——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L96 公視轉播單位句插入語意不明——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L306 [^36] 客家 26 項分項有源——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L141 [^44] 廣播 253/1,113 vs 280/1,096 官方數字——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L197-201 40→40 與平台口徑並陳——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L86/116/207/209 門的隱喻逐次推進——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L160-169 YouTube 正文＋tw-slope 並置——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L211 結尾收束——裁量"
+    }
+  ]
+}

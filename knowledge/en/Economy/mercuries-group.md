@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Enterprises: Sanchang—Sixty Years within Three Cups of Coffee, a Pair of Shoes, and an Insurance Policy'
-description: 'In 1964, three NTU business students founded Sanchanghang with 500,000 TWD, starting with handicraft exports. Sixty years later, it has evolved into Hi-Life (Meilianshe), Sanchang Qiaofu, FamilyMart (Quanjiafu), and Sanchang Life—a group whose daily operations are woven into the lives of almost every Taiwanese person.'
+description: 'In 1964, three NTU business students founded Sanchanghang with 500,000 TWD, starting with handicraft exports. Sixty years later, it has evolved into Simple Mart (Meilianshe), Sanchang Qiaofu, Chuan Chia Fu (Quanjiafu), and Sanchang Life—a group whose daily operations are woven into the lives of almost every Taiwanese person.'
 date: 2026-08-08
 category: 'Economy'
 subcategory: '企業發展史'

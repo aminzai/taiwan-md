@@ -1,0 +1,5 @@
+🧬 knowledge/Economy/台灣油價機制與中油.md
+   lang=zh-TW  category=Economy  slug=台灣油價機制與中油
+   ✅ link-target  hard=0 warn=0
+
+Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)

@@ -1,14 +1,14 @@
 ---
-title: 'O Trem Aluvião (The Rising Star): Da Tragédia Estética ao Salão Móvel de Cinco Estrelas'
-description: 'A partir da reforma decadente do trem de 70 anos do *Mingji*, a JC. Architecture e a Lion Travel redefinem a estética ferroviária taiuanesa com o conceito "Vento de Outono", introduzindo uma pintura preto-laranja de luxo discreto e uma estética minimalista, culminando no restaurante móvel premiado com o iF Design Award alemão "The Moving Kitchen", redefinindo o turismo ferroviário de alta gama em Taiwan.'
+title: 'Comboio Mingrihao da Taiwan Railways: do desastre estético ferroviário ao palácio móvel de cinco estrelas'
+description: 'A partir da transformação dos males crónicos do Chu-kuang Express de 70 anos, como a JC. Architecture e a Lion Travel introduziram o conceito do "vento de outono", trazendo a pintura preto-laranja de luxo discreto e a estética subtrativa para as ferrovias de Taiwan, e gerando ainda o restaurante móvel "Mingri Kitchen", vencedor do iF Gold Award alemão, redefinindo o turismo ferroviário de alto padrão em Taiwan.'
 date: 2026-08-17
 category: 'Lifestyle'
 tags:
   [
-    'Trem Aluvião',
-    'The Moving Kitchen',
-    'estética ferroviária da TAI RÁPIDO',
-    'turismo ferroviário',
+    'Mingrihao',
+    'Mingri Kitchen',
+    'Estética Taiwan Railways',
+    'Turismo Ferroviário',
     'JC. Architecture',
     'Lion Travel',
   ]
@@ -23,90 +23,90 @@ translatedFrom: 'Lifestyle/台鐵鳴日號.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:692645244e391abd'
 sourceBodyHash: 'sha256:28f054608fa81e22'
-translatedAt: '2026-09-09T11:45:58+08:00'
+translatedAt: '2026-09-09T15:32:34+08:00'
 ---
 
-![Vista do trem Aluvião pintado no pátio da estação de Taitung, puxado pelo locomotiva elétrica E405 da Administração Ferroviária de Taiwan](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
-_Em 17 de janeiro de 2021, o trem Aluvião pintado ao entardecer é puxado pelo locomotiva elétrica E405 na estação de Taitung. Foto: Kazehayashi / Wikimedia Commons. [Licença via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
+![Administração de Ferrovias de Taiwan locomotiva elétrica E405 rebocando comboio Mingrihao pintura pôr do sol, estacionado na Estação Taitung](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
+_17 de janeiro de 2021, locomotiva elétrica E405 reboca comboio Mingrihao com pintura pôr do sol estacionado na Estação Taitung. Foto: Kazehayashi / Wikimedia Commons. [Licença via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
 
-> **Resumo de 30 segundos:** O Aluvião (The Rising Star) é um trem turístico de alta gama da Taiwan Railways Administration (TAI RÁPIDO) em colaboração com a Lion Travel, com reforma estética liderada por JC. Architecture (Quiu Pei-chun) [1] [2]. Seu design nasce da reflexão coletiva sobre a "tragédia estética" prolongada da TAI RÁPIDO e da necessidade de transformação, abandonando ousadamente o caos visual tradicional vermelho-verde, adotando o conceito "Vento de Outono" e combinando preto nobre com laranja tradicional do Mingji para criar uma aparência de luxo discreto [3] [4]. Em seu lançamento em 2020, ganhou imediatamente o prêmio Good Design Award do Japão [5]. Posteriormente, em 2022, lançou a versão avançada "The Moving Kitchen", combinando equipes de alta culinária como o hotel The Westin, servindo banquetes de nível Michelin dentro do trem em movimento, e em 2023 conquistou o mais alto prêmio do iF Design Award alemão, o "iF Gold Award" e o "Prêmio de Design de Experiência de Serviço" [6] [7]. O nascimento do Aluvião simboliza como o transporte ferroviário de Taiwan evoluiu de uma simples ferramenta de mobilidade para uma era de mobilidade estética que integra design, cultura e experiências de alto nível.
+> **Visão geral em 30 segundos:** O Mingrihao (The Rising Star) é um comboio turístico de topo da Taiwan Railway Corporation (antiga Administração de Ferrovias de Taiwan) em colaboração com a Lion Travel, com reestilização estética liderada por Chiu Po-wen (邱柏文) da JC. Architecture [1] [2]. O seu design nasce da reflexão colectiva e da necessidade de transformação face ao longo "desastre estético" da Taiwan Railways, abandonando ousadamente o visual caótico do tradicional vermelho e verde vivo, para adoptar o "vento de outono" como conceito central, entrelaçando o preto nobre e o laranja tradicional do Chu-kuang numa estética exterior contida e luxuosa [3] [4]. Na sua estreia em 2020, conquistou o Grande Prémio Good Design Award do Japão [5]. Em 2022, lançou a versão avançada "Mingri Kitchen" (The Moving Kitchen), unindo equipas de restauração de topo como o Regent Hotel, servindo banquetes de nível Michelin em carruagens ferroviárias em movimento, e arrecadando em 2023 a mais alta honra do iF Design Award alemão, o "iF Gold Award" e o "Service Design Award" [6] [7]. O nascimento do Mingrihao simboliza a entrada oficial do transporte ferroviário de Taiwan na era da estética móvel que funde design, cultura e experiência de alto padrão, deixando de ser mera ferramenta de deslocação.
 
-A jornada de transformação da antiga TAI RÁPIDO, com mais de cem anos de história, frequentemente vai acompanhada da memória coletiva e do pesado legado histórico.
+O caminho de transformação da centenária Taiwan Railways costuma vir acompanhado da memória colectiva e das mágoas históricas.
 
-Durante muito tempo, apesar de carregar a energia contínua de norte a sul da ilha, os interiores dos trens da TAI RÁPIDO, com seus painéis confusos, iluminação desconfortável e pinturas desordenadas, eram frequentemente descritos pela sociedade e pela comunidade de design como uma "tragédia estética" [8]. Esse dilema estético encontrou seu ponto de virada crucial no início de 2020. O Ministério de Transporte e a Administração Ferroviária decidiram introduzir forças de design, lançando o "Plano de Elevação Estética da TAI RÁPIDO", encarhando carroças desativadas ou reformadas para equipes profissionais privadas, tentando quebrar o quadro opaco do setor público acumulado por décadas [2] [9].
+Durante muito tempo, embora a ferrovia de Taiwan tenha sustentado a densa dinâmica de idas e vindas norte-sul da ilha, os seus interiores caóticos, iluminação ofuscante, pinturas remendadas, eram frequentemente ridicularizados pela sociedade e pelo meio do design como "desastre estético" [8]. Este impasse estético encontrou um ponto de viragem crucial no início de 2020. O Ministério dos Transportes e a Administração de Ferrovias decidiram injectar energia de design, através do "Plano de Elevação Estética da Taiwan Railways", confiando carruagens Chu-kuang retiradas ou renovadas a equipas profissionais civis, tentando quebrar a moldura enfadonha do sector público de décadas [2] [9].
 
-O núcleo dessa transformação foi liderado pela equipe fundada por Quiu Pei-chun da JC. Architecture [2]. O que enfrentaram não era uma tela em branco, mas uma carroça antiga que já havia percorrido os trilhos por décadas.
+O núcleo desta reviravolta é a equipa liderada pelo fundador da JC. Architecture, Chiu Po-wen [2]. Não enfrentaram uma folha em branco, mas um comboio velho que já circulava nos trilhos há décadas.
 
-## Da "Tragédia Estética" ao "Vento de Outono": O Nascimento do Design Minimalista
+## Do "desastre estético" ao "vento de outono": o nascimento do design subtrativo
 
-"Nós não estamos criando algo totalmente novo, mas sim polindo a alma que a TAI RÁPIDO já possuía." Quiu Pei-chun enfatizou repetidamente em entrevistas [2].
+"Não estamos a criar algo totalmente novo, mas a polir a alma que a Taiwan Railways já possuía." Chiu Po-wen frisou em várias entrevistas [2].
 
-A primeira etapa da equipe de reforma foi "subtrair". Antes, as carroças da TAI RÁPIDO eram frequentemente cobertas por adesivos promocionais, tipografias rudas e cores descoordenadas. A equipe de design decidiu limpar essas interferências, pintando a carroça com tons de preto e laranja simbolizando outono — preto profundo e elegante, laranja herdando a memória quente mais representativa do antigo trem Mingji [3] [10]. Essa combinação conhecida como "laranja Mingji" e "preto nobre", sob a luz do sol, não parece vulgar, mas transmite uma sensação de luxo discreto [3].
+O primeiro passo da equipa de reestilização foi a "subtração". No passado, o exterior das carruagens da Taiwan Railways estava coberto de autocolantes promocionais, tipografias brutas e cores dissonantes. A equipa decidiu lavar esses ruídos, uniformizando a carroçaria com tons preto e laranja que simbolizam a imagética outonal — o preto sóbrio e contido, o laranja herdando a memória calorosa mais representativa do velho Chu-kuang [3] [10]. Esta combinação designada "laranja Chu-kuang" e "preto nobre", sob a luz solar não se mostra vulgar, antes exala uma sensação de luxo discreto [3].
 
-Na parte dianteira do trem, foi instalado um emblema exclusivo de metal titânio, cujo espelho reflete as montanhas e o mar ao longo do caminho. As linhas sutis gravadas no emblema correspondem sutilmente às linhas em V que permanecem pintadas na frente do trem, combinando herança histórica com significado moderno de artesanato [11].
+Na frente da locomotiva foi instalada uma placa identificativa exclusiva em titânio, com superfície espelhada a reflectir as paisagens de montanha e mar ao longo do percurso; a curva de sorriso levemente gravada na placa dialoga engenhosamente com o padrão em V preservado na pintura da frente, conjugando herança histórica e significado artesanal moderno [11].
 
-Dentro da carroça, a equipe de design removeu as caixas de luz fluorescentes obsoletas, substituindo-as por iluminação indireta que cria uma atmosfera acolhedora; os quadros das janelas e a configuração dos assentos foram calculados precisamente, permitindo que os campos de arroz, cenas marítimas e montanhas ao fundo se tornem uma pintura paisagem fluida em vez de serem divididas por grades [6]. Essa técnica de integrar a paisagem como parte do design interno rapidamente ressoou na sociedade taiuanesa. Em outubro de 2020, o Aluvião oficialmente conquistou o Good Design Award do Japão, um dos quatro maiores prêmios de design mundiais, tornando-se um marco na reforma estética de trens públicos [5].
+No interior das carruagens, a equipa removeu as caixas de luz fluorescente ultrapassadas, adoptando iluminação indireta para criar uma atmosfera acolhedora de alojamento; caixilhos das janelas e disposição dos assentos foram calculados com precisão, para que os arrozais, paisagens marítimas e serras lá fora não sejam mais cortados pelas grades, mas se tornem quadros panorâmicos em movimento [6]. Esta técnica de incorporar a paisagem como parte do design de interiores gerou rápida ressonância na sociedade taiwanesa. Em outubro de 2020, o Mingrihao conquistou oficialmente um dos quatro grandes prémios mundiais de design, o Good Design Award do Japão, tornando-se um marco na reestilização estética de ferrovias públicas [5].
 
-| Projeto                          | Trem Mingji Tradicional                                       | Aluvião (The Rising Star)                                                    |
-| :------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------------------------------- |
-| **Liderança de Design**          | Manutenção e pintura internas por órgãos governamentais       | JC. Architecture (JC. Architecture) lidera interdisciplinarmente [2]         |
-| **Estética de Cor**              | Sobreposta por várias eras, caótica e desordenada             | Preto nobre e laranja tradicional do Mingji, definindo "Vento de Outono" [3] |
-| **Experiência Espacial**         | Assentos tradicionais de passageiros, forte iluminação branca | Iluminação indireta acolhedora, grandes janelas, estética minimalista [6]    |
-| **Reconhecimento Internacional** | Nenhum                                                        | Good Design Award do Japão, iF Gold Award da Alemanha [5] [7]                |
+| Item                         | Comboio Chu-kuang tradicional                          | Mingrihao (The Rising Star)                                                          |
+| :--------------------------- | :----------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| **Design liderado por**      | Manutenção e pintura internas do órgão                 | JC. Architecture (JC. Architecture) operação transversal [2]                         |
+| **Estética de cor**          | Sobreposição de épocas, cores caóticas                 | Preto nobre e laranja tradicional Chu-kuang, definindo o tom "vento de outono" [3]   |
+| **Experiência espacial**     | Assentos de carro tradicional, iluminação branca forte | Iluminação indireta acolhedora, grandes janelas panorâmicas, estética subtrativa [6] |
+| **Honrarias internacionais** | Nenhuma                                                | Good Design Award do Japão, iF Gold Award alemão [5] [7]                             |
 
-## The Moving Kitchen: Quando a Viagem Ferroviária Encontra uma Banquete Estrelas Michelin
+## Mingri Kitchen: quando a viagem ferroviária encontra o banquete Michelin
 
-Se o Aluvião resolveu a "estética visual móvel", então o "The Moving Kitchen", lançado oficialmente em 2022, estendeu essa estética para o sentido mais sensível dos humanos — o paladar [12].
+Se o Mingrihao resolveu a "estética visual móvel", a "Mingri Kitchen" (The Moving Kitchen), oficialmente em circulação desde 2022, estendeu a estética ao sentido mais sensível do ser humano — o paladar [12].
 
-The Moving Kitchen foi posicionado como um "restaurante de cinco estrelas móvel". Para manter a qualidade de alimentos gourmet em um ambiente ferroviário em movimento, a Lion Travel e a TAI RÁPIDO investiram pesado na reforma de carroças especiais, não apenas redesenhando o fluxo da cozinha, sistema de exaustão e estabilidade de energia, mas também convidando hotéis internacionais de elite para participar [6] [12].
+A Mingri Kitchen posiciona-se como "restaurante móvel de cinco estrelas". Para manter a qualidade de alta restauração no ambiente ferroviário em movimento e trepidação, a Lion Travel e a Taiwan Railways investiram pesadamente na remodelação de carruagens dedicadas, não só redesenhando fluxos de cozinha, sistemas de exaustão e estabilidade de alimentação eléctrica, como também convidaram hotéis internacionais de topo a juntar-se [6] [12].
 
-![Interior do carro restaurante do trem Aluvião, mostrando design de madeira e espaço de refeições sofisticado](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
-_Interior do carro restaurante do trem Aluvião, combinando estética oriental com design de mesas de madeira contemporâneo. Foto: Administração Ferroviária de Taiwan (atribuição necessária). Licença via Wikimedia Commons._
+![Interior do carro-restaurante do Mingrihao da Taiwan Railways, exibindo espaço de restauração em madeira e requintado](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
+_Espaço interior do carro-restaurante do Mingrihao da Taiwan Railways, fundindo estética oriental com design contemporâneo de mesas em madeira. Foto: Administração de Ferrovias de Taiwan (Atribuição necessária). Licença via Wikimedia Commons._
 
-[License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
+[Licença via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
 
-Na primeira parceria, convidou o grupo de hotéis The Westin, com equipes de culinária de alto nível como The Westin Kitchen entrando no trem, combinando a essência da culinária cantonesa com ingredientes locais de Taiwan (como especialidades de Ilan e frutos do mar de Hualien), servindo pratos refinados como "Arroz de Caranguejo do Oeste" [13]. Enquanto o trem passa lentamente pela frente do precipício de Shifen na costa do Pacífico, os passageiros sentam-se em carroças com textura de madeira e couro, saboreando pratos estrelados preparados pelos chefs enquanto observam a paisagem desimpedida do mar e céu, reescrevendo completamente a imaginação dos taiuanos sobre refeições ferroviárias e turismo ferroviário [6].
+A primeira vaga de colaboração uniu forças com o Regent International Hotel Group, com a equipa de topo do Regent Court (晶華軒) a instalar-se a bordo, combinando a essência da cozinha cantonesa com ingredientes locais de Taiwan (como especialidades de Yilan, frutos do mar de Hualien), servindo iguarias requintadas como o arroz em caldo com caranguejo e peixe [13]. Enquanto o comboio avança lentamente junto ao Pacífico, nas falésias de Chingshui, os passageiros sentados no interior do carro-restaurante, entre veios de madeira de sândalo e couro entrelaçados, saboreiam a cozinha estrelada preparada pelo chef executivo, enquanto contemplam a imensidão ininterrupta de mar e céu lá fora — esta experiência sensorial total reescreveu por completo a imaginação dos taiwaneses sobre o bentô de comboio e o turismo ferroviário [6].
 
-Essa inovação não apenas conquistou reputação no mercado, mas também brilhou no cenário internacional. Em 2023, "The Moving Kitchen" conquistou o mais alto prêmio do iF Design Award alemão (iF Design Award), o "iF Gold Award" e o "Prêmio de Design de Experiência de Serviço" [7]. Os jurados elogiaram altamente: "Através da integração bem-sucedida de design de serviços de turismo, alimentação e transporte, e padrões de hotel, essa experiência finalmente se torna um estilo de vida luxuoso em um trem em movimento." [14]
+Este avanço não só conquistou a reputação do mercado, como brilhou no palco internacional. Em 2023, a "Mingri Kitchen" arrecadou de uma vez a mais alta honra do iF Design Award alemão, o "iF Gold Award" e o "Service Design Award" [7]. O júri teceu elogios máximos: "Através da combinação bem-sucedida de turismo, restauração e transporte no design de serviço e padrões hoteleiros, esta experiência torna-se finalmente um estilo de vida luxuoso sobre carris em movimento." [14]
 
-## A Mudança de Paradigma do Turismo Ferroviário de Alta Gama em Taiwan
+## A mudança de paradigma do turismo ferroviário de alto padrão em Taiwan
 
-O sucesso do Aluvião e The Moving Kitchen transcende significativamente a operação comercial de uma locomotiva para a sociedade taiuanesa.
+O sucesso do Mingrihao e da Mingri Kitchen tem para a sociedade taiwanesa um significado que vai muito além da operação comercial de um comboio.
 
-Antes, a cultura ferroviária de Taiwan estava principalmente focada na pesquisa histórica entre entusiastas dos trens, preservação de estações antigas ou alimentação nostálgica. No entanto, o Aluvião provou que Taiwan tem capacidade de elevar infraestrutura pública a um veículo cultural e econômico de alto nível através do design contemporâneo, alianças interdisciplinais (como planejamento de rotas da Lion Travel, serviços de alimentação do The Westin, estética espacial da JC. Architecture) [1] [6].
+No passado, a cultura ferroviária de Taiwan centrava-se maioritariamente na investigação histórica de entusiastas, preservação de antigas estações ou bentôs nostálgicos. Contudo, o Mingrihao provou que Taiwan tem capacidade para, através do design contemporâneo e alianças industriais transversais (como o planeamento de itinerários da Lion Travel, o serviço de restauração do Regent Hotel, a estética espacial da JC. Architecture), elevar infraestruturas públicas a veículos culturais e económicos de alto padrão [1] [6].
 
-Isso forçou as antigas empresas estatais a repensar o valor dos "detalhes". Desde os uniformes elegantes dos maquinistas e serviços de bordo (batizados como "atendentes de estética"), até a música ambiente exclusiva a bordo e as orientações locais, cada detalhe constrói uma narrativa de estética móvel contemporânea de Taiwan [15]. Quando passageiros estrangeiros e locales reabordam este trem preto-laranja, o que veem não é apenas uma carroça ferroviária reformada, mas a alma de uma ilha que busca equilibrar elegantemente a modernidade com memórias locais.
+Forçou a velha empresa estatal a repensar o valor do "detalhe". Desde os uniformes elegantes do chefe de comboio e da equipa de bordo (agora com o título de "colaboradores de serviço estético"), até à música ambiente exclusiva e guias locais a bordo, cada elo constrói um discurso de estética móvel contemporânea pertencente a Taiwan [15]. Quando turistas estrangeiros e novas gerações locais voltam a subir a este comboio de preto e laranja entrelaçados, veem não apenas carruagens renovadas, mas a alma de uma ilha que anseia encontrar um equilíbrio elegante entre modernidade e memória local.
 
 ---
 
-## Referências
+## Referências (References)
 
-[^1]: [Wikipedia: Trem Aluvião](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Registra a posição do trem Aluvião, composição, modelo operacional e histórico.
+[^1]: [Wikipédia: Comboio Mingrihao](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Regista o posicionamento do tipo de comboio Mingrihao, composição, modelo operacional e evolução histórica.
 
-[^2]: [Shopping Design: Diálogo sobre estética ferroviária entre Taiuães e Japoneses! Designer de Taiwan Quiu Pei-chun X JR Shikoku](https://www.shoppingdesign.com.tw/post/view/9915) — Entrevista exclusiva com fundador da JC. Architecture Quiu Pei-chun, discutindo conceitos de design do Aluvião, estética minimalista e processo de comunicação com o setor público.
+[^2]: [Shopping Design: Diálogo estético Taiwan-Japão! Designer da Taiwan Railways Chiu Po-wen X JR Shikoku](https://www.shoppingdesign.com.tw/post/view/9915) — Entrevista exclusiva com o fundador da JC. Architecture Chiu Po-wen, explorando a filosofia de design do Mingrihao, estética subtrativa e processo de comunicação com o sector público.
 
-[^3]: [Shopping Design: Conquista Good Design do Japão! Novo trem turístico da TAI RÁPIDO "Aluvião" com conceito de "Vento de Outono"](https://www.shoppingdesign.com.tw/post/view/5961) — Introdução detalhada do Aluvião com conceito central "Vento de Outono", aplicando combinação de preto e laranja para redefinir memórias de 70 anos do trem Mingji.
+[^3]: [Shopping Design: Vencedor do Good Design japonês! Novo comboio turístico da Taiwan Railways "Mingrihao" com conceito de vento de outono](https://www.shoppingdesign.com.tw/post/view/5961) — Apresentação detalhada do Mingrihao com "vento de outono" como núcleo, usando configuração preto-laranja para reconfigurar 70 anos de memória do Chu-kuang.
 
-[^4]: [Traveler Luxe: Registro: Taiwan "Aluvião · The Moving Kitchen" Design preto-laranja de luxo discreto, seleção de luxo discreto](https://www.travelerluxe.com/article/desc/230009798) — Análise profunda da estética de cor, escolha de materiais e posicionamento de luxo discreto do Aluvião e The Moving Kitchen.
+[^4]: [Traveler Luxe: "Mingrihao·Mingri Kitchen" de Taiwan, design preto-laranja discreto e nobre, seleccionando o luxo contido do Mingri](https://www.travelerluxe.com/article/desc/230009798) — Análise profunda da cromática, escolha de materiais e posicionamento de luxo discreto do Mingrihao e Mingri Kitchen.
 
-[^5]: [Newsmedia: TAI RÁPIDO Aluvião reconhecido pelo design estético ganha Good Design Award do Japão de 2020](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Reportagem sobre o Aluvião ganhando o prêmio internacional Good Design Award do Japão de 2020 e seu significado.
+[^5]: [Newsmedia: Design estético reconhecido, Mingrihao da Taiwan Railways recebe Good Design Award 2020 do Japão](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Notícia sobre o Mingrihao conquistar o Good Design Award 2020 do Japão e o seu significado.
 
-[^6]: [ELLE: Aluvião com chefs do The Westin Kitchen! Restaurante móvel de cinco estrelas evolui](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Introdução detalhes da reforma do carro restaurante do Aluvião, design de grandes janelas e combinação de serviços de alimentação de alto nível.
+[^6]: [ELLE: Mingrihao une-se ao chef estrela do Regent Court! Cozinha móvel de cinco estrelas grande atualização](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Apresenta detalhes da remodelação do carro da Mingri Kitchen, design de grandes janelas panorâmicas e combinação com restauração de topo.
 
-[^7]: [Taiwan News / Xinzhong Media: Lion Travel opera "The Moving Kitchen" ganha mais notícias boas! Após iF Gold Award da Alemanha, ganha prêmio americano IIDA](https://www.xinmedia.com/article/211773) — Reportagem sobre The Moving Kitchen ganhando o mais alto prêmio do iF Design Award alemão de 2023, o "iF Gold Award" e o "Prêmio de Design de Experiência de Serviço".
+[^7]: [Taiwan News / Hsin Media: Lion Travel opera "Mingri Kitchen" nova vitória! Após iF Gold Award alemão conquista americano IIDA](https://www.xinmedia.com/article/211773) — Notícia sobre a Mingri Kitchen conquistar a mais alta honra do iF Design Award 2023, o "iF Gold Award" e o "Service Design Award".
 
-[^8]: [Critical Review / Relatórios relacionados: Ponto de partida para reforma estética da TAI RÁPIDO](https://www.trjourney.org.tw/zh-tw/content) — Discussão sobre a longa estética desafios enfrentados pela TAI RÁPIDO e o histórico de fundo da iniciativa de design da sociedade civil para reforma estética.
+[^8]: [Rede de Crítica Crítica / Reportagens relacionadas: Ponto de partida da reestilização estética da Taiwan Railways](https://www.trjourney.org.tw/zh-tw/content) — Explora os males estéticos crónicos da Taiwan Railways e o contexto histórico do meio do design impulsionar a reestilização estética.
 
-[^9]: [Direção Nacional de Educação / Nuvem Educacional PDF: Design traz novas ideias para ferrovia de Taiwan](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Documentação oficial educacional que organiza o contexto político de políticas de introdução de design para novos trens e trens turísticos da TAI RÁPIDO.
+[^9]: [Agência Nacional de Educação / PDF Nuvem Educativa: Design introduzido na Taiwan Railways traz nova ideia](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Documento oficial educativo organiza o contexto político da introdução de capacidade de design nos novos comboios e comboios turísticos da Taiwan Railways.
 
-[^10]: [Lion Travel: Roteiro Aluvião - Recomendações de turismo ferroviário de cinco estrelas](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Introdução oficial de roteiros e conceitos de design, registrando o conceito de "Vento de Outono" e detalhes da aparência do trem.
+[^10]: [Lion Travel: Itinerário Mingrihao — Recomendação de turismo ferroviário de cinco estrelas em Taiwan](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Itinerário oficial e introdução da filosofia de design, regista conceito vento de outono e detalhes da pintura exterior.
 
-[^11]: [Site oficial da Taiwan Railways Administration: Introdução do trem Aluvião / The Moving Kitchen](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Explicação oficial da TAI RÁPIDO sobre o emblema de titânio do Aluvião, estrutura de base de dez camadas e curvas sorridentes.
+[^11]: [Site oficial da Taiwan Railway Corporation: Introdução aos comboios Mingrihao / Mingri Kitchen](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Interpretação oficial da Taiwan Railways sobre a placa identificativa em titânio, estrutura base circular de dez camadas e curva de sorriso do Mingrihao.
 
-[^12]: [Upmedia: The Moving Kitchen com The Westin lança menu avançado! "Arroz de Caranguejo do Oeste" de The Westin Kitchen](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Reportagem sobre especificações de alimentação e colaborações de chefs de The Moving Kitchen como "restaurante de cinco estrelas móvel".
+[^12]: [Up Media: Mingri Kitchen une-se ao Regent Hotel lança menu atualizado! "Arroz em caldo com bacalhau e caranguejo" do Regent Court](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Notícia sobre a Mingri Kitchen como "restaurante móvel de cinco estrelas" as suas especificações de restauração e equipa de chefs.
 
-[^13]: [Postagem oficial no Facebook: The Westin em parceria com Lion Travel cria The Moving Kitchen](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Registro oficial do The Westin sobre o diretor-chefe de culinária do restaurante Wang Hai-ming subindo ao The Moving Kitchen para cozinhar pessoalmente.
+[^13]: [Publicação oficial Facebook: Hotel Regent Taipei une-se à Lion Travel cria Mingri Kitchen](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Registo oficial do Regent Hotel sobre o diretor culinário chinês Wu Hai-ming (鄔海明) cozinhar pessoalmente a bordo da Mingri Kitchen.
 
-[^14]: [TTN Travel Report: Aluvião e The Moving Kitchen ganham "Prêmio de Design de Experiência de Serviço" do iF da Alemanha](https://www.ttnmedia.com/?p=84005) — Citação elogiosa do jurado do iF Design Award alemão sobre a integração de turismo, alimentação e serviços de transporte ferroviário do The Moving Kitchen.
+[^14]: [TTN Travel News: Mingri Kitchen, Blue Skin Solace Train conquistam "Service Design Award" do iF alemão](https://www.ttnmedia.com/?p=84005) — Cita a avaliação oficial do júri do iF Design Award alemão sobre a alta valorização da fusão de serviços de turismo, restauração e transporte pela Mingri Kitchen.
 
-[^15]: [La Vie: TAI RÁPIDO lança trem turístico "Aluvião"！](https://www.wowlavie.com/article/ae1902361) — Reportagem sobre o lançamento do Aluvião e a inovação abrangente da JC. Architecture em hardware, software, atendentes de estética e experiência geral.
+[^15]: [La Vie: Comboio turístico da Taiwan Railways "Mingrihao" arranca!](https://www.wowlavie.com/article/ae1902361) — Notícia sobre a estreia do Mingrihao e a inovação abrangente da JC. Architecture em hardware, software, estética dos colaboradores de bordo e experiência global.

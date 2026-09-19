@@ -1,0 +1,25 @@
+{
+  "revision": 117,
+  "submissionId": "dea9718f-59e6-4895-a666-ccdfb0b41ae5",
+  "actor": "release 站主編（Opus，Agent ac2a7d5b0032d0928，具名 release-chief；contextDisclosure: prior-release-chief-reread）— readyForPublication: true",
+  "verdict": "accept",
+  "rationale": "上一輪唯一擋 ship 的事實錯已改正且有一手來源：L73 與 [^71] bamid 99 年名單「大愛劇場－情義月光（永續傳播有限公司）」逐字命中；「第一次」以維基列表 1981–2009 每屆首列重核（全為頻道或基金會），1971–1978 前身亦老三台，「1981 年以來」限定安全。表格兩格理順。非擋 ship 項已處理（並非本屆新增已刪、門重述三句、description CJK 127 字撤回上輪算法）。rewrite-stage-4 重跑 hard=0 warn=0。論點兌現、抽到的事實皆對得上、讀者拿得到兩件事，沒有一段不敢上線。無人類審閱，本裁決只完成交付準備。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L73／L381 [^71] 逐字命中"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L79／L83 表格兩格"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L101／L121／L3 非擋 ship 項"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/rewrite-stage-4.txt",
+      "location": "重跑一致"
+    }
+  ]
+}

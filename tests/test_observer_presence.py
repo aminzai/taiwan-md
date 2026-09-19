@@ -99,6 +99,7 @@ def test_signal_memory_ignores_routine_prefix_and_explicit_alias(tmp_path, monke
     _, memory_dir = setup_repo(tmp_path, monkeypatch)
     write_memory(memory_dir, "2026-08-01", "060000", "twmd-data-refresh-am")
     write_memory(memory_dir, "2026-08-15", "090108", "twmd-maintainer-am")  # 別名，仍算 routine
+    write_memory(memory_dir, "2026-08-20", "143701", "semiont-heartbeat")  # 本機排程心跳，不是真人
     write_memory(memory_dir, "2026-08-10", "153608", "manual-login-restore")
     handles = MODULE.load_routine_handles()
     d, handle = MODULE.signal_memory(handles)

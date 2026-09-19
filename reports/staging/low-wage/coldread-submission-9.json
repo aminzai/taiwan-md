@@ -1,0 +1,34 @@
+{
+  "revision": 65,
+  "stage": "cold-read",
+  "actor": "cold-reader-9 (Sonnet agent aff11cbd55ae3ea28, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "主計總處同一場記者會用月薪算出零人、年薪算出 126 萬人。文章拆解差在年終算不算進去，年終沒有法律保障、本薪有；還原朝野各方各站哪一欄講話；點出三百多萬人不在這把尺的分母裡；帶到 9 月 24 日審議會。",
+    "changedUnderstanding": "原以為零人是硬拗蓋掉 126 萬，讀完知道是同一場記者會同一批人講的，差別在年薪多算年終；不是造假，是選哪一欄講。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "沒有明顯選邊；敘事偏向凸顯 126 萬人是真實制度縫隙；「先講哪一欄是主計總處的選擇」點到為止沒明講對錯。",
+    "titleDescriptionHonest": "有兌現，沒有誇大。",
+    "confusions": [
+      "兩個 43.6 萬",
+      "兩個 126 萬",
+      "71.3%／60.5% 比率段像同一件事換算法再講"
+    ],
+    "repetitions": [
+      "「低於平均並非等於低薪」第三段與第七節",
+      "許宇甄開場帶過一次、第七節整段"
+    ],
+    "forcedConclusions": [
+      "「也都找不到反對的理由」接在「文本沒寫明」之後跳得快",
+      "「這道縫的制度根源就在兩部法律的落差裡」比前面承認的「主要」更斬釘截鐵"
+    ],
+    "readerVerdict": "ship",
+    "readerRationale": "四題都答得出、數字有出處有保留；重複與下結論稍快是小瑕疵。"
+  }
+}

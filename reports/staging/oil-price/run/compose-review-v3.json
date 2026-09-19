@@ -1,0 +1,38 @@
+{
+  "revision": 35,
+  "submissionId": "e3cf1a0b-2449-4a6b-a845-004a6abc093c",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "冷讀分桶「採納」的每一條都落在正文，且改寫方向一致：把原本用「因為」帶過的推論拆回「官方文件寫了什麼、沒寫什麼」——s2 明說 12.29% 是公式價週漲幅、11.2 元是公式價與牌價的累積差距、三毛一毛「新聞稿沒有解釋」不推營業稅；s3 回落段只陳述週報事實（降價三週中油欄吸收零、累計數卻下降、只稱預估），「讀成估計值比讀成流水帳穩妥」是讀法判斷不是機制斷言；s6 與 tw-waffle 把 1,014 億改成不斷言含不含天然氣；s8「回收有沒有啟動，週報上看不出來」；策展人筆記把《預算法》第 79 條的法律要件還給在野；五處強推結論與兩句過場句刪掉。逐句看 diff 新增文字，每句都回到研究報告 §11 八條或 §8.A 逐週表，沒有新腳註、新數字、新人名。不採三條理由成立，冷讀者「沒有一句量化補貼好處」實際不成立（s8 經濟部 28.9→45.4 與 tw-figure 就是），支持／批評仍逐字並陳，§13 守住。article-health rewrite-stage-4 與全掃 hard=0 warn=0，prose-health score 1。擋下的是兩處內部不一致：(1) description 仍寫「也不只是汽柴油」，斷言 1,014 億含天然氣，跟 v3 正文、tw-waffle、策展人筆記、where_it_hedges 的「兩份官方說法沒有對齊、不斷言」打架，門面句不能比正文更肯定——改「品項也可能不同」，去空格仍 160；(2) s7 第 3 段「三份文件本來都沒有這一欄」緊接「兩份文件都沒有這一欄」，三份／兩份對不上且「沒有這一欄」隔一句重複——改「前兩件是錢，第三件是分配，週報跟預算案本來就沒有這一欄」並把後句改「兩份文件都沒有寫」。建議不擋：正文六處「新聞稿沒有解釋／沒有寫／看不出來」與藍圖 §6 炎上席「禁官方沒說句型」的語氣紀律相抵，個別都是事實，連讀有底色，建議留三處最要緊的；s8「差的 15 美元來自尺不同」略軟。行政：交件檔 revision 欄寫 34，派工說 35。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "frontmatter description 末句「也不只是汽柴油」（與 where_it_hedges「含不含天然氣不斷言」矛盾）"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「日本補業者、香港補的士、台灣讓中油先扛」第 3 段「三份文件本來都沒有這一欄」／「兩份文件都沒有這一欄」"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「一份新聞稿裡的算式」12.29%／11.2 句與貨物稅三毛句；H2「凍漲二十週」回落段；H2「六千億裡」口徑段與 tw-waffle 標籤；策展人筆記；H2「那 36 元」三種方式段、130.54 vs 115.61 段、末段「週報上看不出來」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v3.json",
+      "location": "data.editorialChoices v3 段；data.unresolved 第 6 條；頂層 revision 欄（34 vs 派工 35）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission.json",
+      "location": "data.confusions #1–#9、data.forcedConclusions #1–#9、data.repetitions #1／#4／#8、retelling 第 6 題立場判讀"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§11 冷讀回修查證 #1–#8；§8.A 2-1 逐週表 6/20–7/18 五列"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v3.md",
+      "location": "全文"
+    }
+  ]
+}

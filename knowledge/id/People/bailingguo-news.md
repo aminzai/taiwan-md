@@ -1,10 +1,10 @@
 ---
-title: 'Bailingguo News: Menyisipkan Berita Dunia ke dalam Telpon Pendengar Orang Taiwan'
-description: 'Bagaimana Kelly dan Ken menggunakan bahasa ganda, suara tawa, dan obrolan yang tidak menghindari posisi untuk mengubah berita internasional yang asing menjadi sesuatu yang orang Taiwan rela dengarkan hingga selesai dan punya maksa untuk merenungkan kembali.'
+title: 'Beri News: Memasukkan Berita Dunia ke Telinga Orang Taiwan'
+description: 'Bagaimana Kelly dan Ken menggunakan dwibahasa, tawa, dan obrolan yang tidak menghindari sikap, mengubah berita internasional yang asing menjadi hal yang orang Taiwan bersedia dengarkan sampai habis, dan harus memikirkan ulang kehidupan sehari-hari mereka.'
 date: 2026-08-17
-subcategory: '數位與媒體'
+subcategory: 'Digital dan Media'
 category: 'People'
-tags: ['Bailingguo News', 'Podcast', 'Kelly', 'Ken', 'Berita Internasional']
+tags: ['Beri News', 'Podcast', 'Kelly', 'Ken', 'Berita Internasional']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -13,127 +13,124 @@ readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/百靈果 News.md'
 sourceCommitSha: 'cf406dedd'
-sourceContentHash: 'sha256:2e4b0f96f5527220'
-sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-15T06:51:29+08:00'
+sourceContentHash: 'sha256:a3f914d9f2d6930a'
+translatedAt: '2026-09-14T01:03:54.620111+00:00'
 ---
 
-Pada 2014, Kelly dan Ken belum menjadi pemandu acara "Bailingguo News". Mereka hanyalah dua orang muda yang melihat jauhnya antara berita Taiwan dan dunia, dan ingin mencoba mengubah hal itu. Pada 2020, mereka mengadakan acara tatap muka bertema "jembatan internasional" di Tainan, di mana para pendengar berkumpul di tempat, dan program pun beranjak keluar dari kumparan headphone ke dalam kota. Pada 2022, mereka menghabiskan 2,5 juta dolar Taiwan untuk membuat program sepenuhnya berbahasa Inggris demi membuat Taiwan terdengar di dunia.[^1] [^2] [^3]
+Pada tahun 2014, Kelly dan Ken belum menjadi host "Bailingguo News". Mereka hanyalah dua orang muda yang menonton berita Taiwan yang terputus dari dunia, ingin mencoba mengubah hal itu. Pada tahun 2020, mereka mengadakan acara fisik bertema "Koneksi Internasional" di Tainan, di mana penonton berkumpul di tempat, dan acara tersebut keluar dari earphone ke kota. Pada tahun 2022, agar Taiwan terdengar di tingkat internasional, mereka menghabiskan 2,5 juta dolar Taiwan baru untuk memproduksi acara berbahasa Inggris penuh.[^1] [^2] [^3]
 
-Ketiga titik waktu ini bersama-sama memperlihatkan kontras Bailingguo: ia membahas hal-hal yang paling tidak seperti obrolan santai dengan cara yang paling seperti teman dekat. Bailingguo bukan membuat berita internasional menjadi sederhana, tetapi membuat orang merasa ingin mendekatinya terlebih dahulu. Setelah mendekat, pendengar menyadari bahwa mereka sedang dipaksa memahami hubungan antara Taiwan dan dunia.
+Ketiga titik waktu ini diletakkan bersama, barulah kontras Bailingguo terlihat: ia membahas hal-hal yang paling tidak seperti obrolan santai dengan cara yang paling seperti teman-teman main-main. Bailingguo tidak membuat berita internasional menjadi sederhana, melainkan membuat orang mau mendekatinya terlebih dahulu. Setelah mendekat, penonton baru sadar bahwa mereka dipaksa memahami hubungan Taiwan dengan dunia.
 
-> **Kalimat inti yang menyalahi intuisi:** Bailingguo membuat berita terdengar seperti obrolan, namun justru dengan demikian menghadirkan pertanyaan "siapa yang berhak berbicara tentang dunia" ke dalam setiap headphone orang Taiwan.
+> **Kalimat Inti Kontrintuitif:** Bailingguo membuat berita seperti obrolan, namun justru karena itu ia membawa pertanyaan "siapa yang berhak berbicara tentang dunia" ke setiap earphone orang Taiwan.
 
-![Headphone dengan mikrofon, melambangkan Bailingguo yang membawa berita internasional ke dalam rutinitas mendengarkan sehari-hari](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![Earphone mikrofon, melambangkan Bailingguo membawa berita internasional ke skenario mendengar sehari-hari](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_Gambar: `Headphones with Microphone.jpg`, penulis Zephyris; [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Di sini menggunakan tautan langsung asli tanpa mengunduh gambar._
+_Gambar: `Headphones with Microphone.jpg`, oleh Zephyris; [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Di sini menggunakan tautan panas berkas asli, tidak mengunduh gambar._
 
-_Gambar: ilustrasi wawancara dari Tatler Asia, diambil dari [wawancara eksklusif pemandu acara Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Ini adalah gambar berhak cipta yang tidak bebas, hanya disematkan melalui tautan langsung asli sebagai panduan konteks dan sumber artikel, tanpa mengklaim hak transfer, unduh, reproduksi, atau penggunaan komersial._
+_Gambar: Ilustrasi wawancara Tatler Asia, diambil dari [wawancara host Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Ini adalah gambar non-hak cipta bebas, hanya disematkan dengan tautan panas asli sebagai konteks artikel dan panduan sumber, tidak mengklaim lisensi ulang, unduh, reproduksi, atau penggunaan komersial._
 
-## Memulai dari "Media yang Internasional"
+## Mulai dari "Internasionalisasi Media"
 
-Catatan panjang Music Farm menempatkan titik awal pada masa-masa sebelum dan sesudah Gerakan Bunga Matahari 2014: Kelly dan Ken menyadari adanya kesenjangan antara berita Taiwan dan berita internasional, lalu mulai dengan halaman fans, kemudian mencoba berbagai bentuk seperti "Berita Anjing Internasional" dan "Pasar Gratis". Karya awal tidak mendapatkan banyak klik, komentar, atau berbagi, namun mereka tetap terus mencoba dan belajar dari kegagalan.[^4]
+Music Farm dalam catatan panjang berbahasa Inggris-nya menempatkan titik awal di sekitar Gerakan Bunga Matahari 2014: Kelly dan Ken mengamati bahwa ada jarak antara media Taiwan dan berita internasional, sehingga mereka pertama membuat halaman fans, lalu mencoba berbagai bentuk seperti 「International Dog Language Daily」與「Free Welfare Society」. Karya-karya awal mereka tidak mendapatkan banyak klik, komentar, atau berbagi, namun mereka terus mencoba dan menyesuaikan. [^4]
 
-Sejarah ini penting bukan karena menyusun mitos kisah startup yang indah untuk Bailingguo, tetapi karena mempertahankan kekasian "masih melakukannya meskipun tidak ada penonton". Bailingguo yang kelihatan muncul tiba-tiba kemudiannya sebenarnya adalah hasil kompresi perlahan dari sekian banyak nama, format, dan cara berbicara yang tidak berhasil menjadi satu program yang bisa didengar.
+Sejarah ini penting, bukan karena ia mengatur mitos pendirian yang indah bagi Bailingguo, melainkan karena ia menyimpan "ketidakmampuan untuk tetap berbuat saat tidak ada penonton". Bailingguo yang kemudian kelihatannya tiba-tiba muncul, sebenarnya adalah hasil pelan-pelan memadatkan serangkaian nama, format, dan cara bicara yang tidak berhasil, menjadi sebuah acara yang bisa didengar.
 
-Wawancara BIOS juga mengingatkan pembaca bahwa keduanya tidak mulai sebagai pekerja berita full-time. Laporan menyebutkan Kelly juga bekerja sebagai penerjemah, sementara Ken pada saat itu juga memiliki identitas sebagai pendiri aplikasi streaming langsung. Rekam suara ini bukan mengganti karier yang sudah ada dengan satu program, tetapi justru mengekstrak ruang publik baru dari antara pekerjaan-pekerjaan mereka.[^11]
+Wawancara BIOS juga mengingatkan pembaca bahwa keduanya tidak memulai sebagai pekerja berita penuh waktu. Liputan tersebut menyebut bahwa Kelly menyandang pekerjaan tafsir lisan, dan Ken saat itu juga memiliki identitas sebagai pendiri aplikasi live streaming. Rekaman oleh karena itu bukan mengganti karir yang sudah ada dengan satu acara, melainkan memaksa keluar peran publik baru di sela-sela pekerjaan lain. [^11]
 
-Latar belakang ini membuat "profesional" dalam Bailingguo tampil berbeda. Mereka tidak mengklaim diri sebagai jurnalis di ruang kabar tradisional, namun juga tidak mengabaikan pentingnya menyusun informasi internasional. Mereka memilih untuk secara terbuka membagikan pendekatan, minat, dan koreksi kesalahan mereka sepanjang proses belajar. Ini adalah bentuk praktik media kreator, yang kelebihannya adalah kedekatan, dan risikonya adalah pendengar harus membedakan antara pendapat, fakta, dan leluasa.
+Latar belakang seperti ini membuat "profesionalisme" di Bailingguo menampilkan wajah yang berbeda. Mereka tidak mempresentasikan diri sebagai jurnalis di redaksi tradisional, namun juga tidak menyerah mengumpulkan informasi internasional. Mereka memilih untuk mengekspos nada, minat, dan koreksi kesalahan mereka sendiri dalam proses belajar. Ini adalah praktik media tipe kreator, kelebihannya dekat, risikonya pendengar harus membedakan pendapat, fakta, dan lelucon.
 
-Pada 2021, ketika Kelly dan Ken diberi wawancara oleh Tatler Asia, mereka masih menyatakan tujuan sebagai "agar semua orang lebih banyak melihat berita internasional, merenungkan kondisi Taiwan lebih dalam, dan menemukan arah yang harus dilangkahi di masa depan". Kalimat ini lebih jelas menjelaskan mengapa mereka konsisten menempatkan berita internasional di inti program. [^5]
+Kelly dan Ken dalam wawancara Tatler Asia 2021, masih mengungkapkan tujuan mereka sebagai "membuat semua orang lebih banyak menonton berita internasional, lebih banyak merefleksikan kondisi saat ini Taiwan, lebih lanjut menemukan arah yang harus ditempuh Taiwan di masa depan". Kalimat ini lebih mampu menjelaskan mengapa mereka selalu menempatkan berita internasional di inti acara, dibandingkan "membuat Podcast besar". [^5]
 
-📝 Catatan kurator: **Produk sebenarnya dari Bailingguo bukanlah satu episode, tetapi kebiasaan "orang Taiwan bisa berbicara tentang dunia".**
+📝 Catatan Kurator: **Produk asli Bailingguo bukanlah satu episode acara, melainkan kebiasaan "orang Taiwan bisa berbicara tentang dunia".**
 
-## Dua Suara, Bukan Satu Jawaban Standar
+## Dua Suara, Bukan Satu Jawaban Baku
 
-Situs web resmi menempatkan Bailingguo sebagai "Podcast berita internasional bilinggis paling bebas di dunia berbahasa Mandarin", dan menjelaskan bahwa program ini setiap minggu memilih beberapa berita internasional penting untuk dibahas dengan gaya seperti talk show. Program juga secara langsung mengakui kadang-kadang akan "melakukan hal yang tidak pantas".[^6]
+Situs resmi memposisikan Bailingguo sebagai „berita internasional dwibahasa paling bebas di dunia berbahasa Tionghoa”, dan menjelaskan bahwa acara ini setiap minggu memilih beberapa berita internasional penting, mendiskusikan sudut pandang dengan gaya mirip talk show. Ia juga secara terbuka mengakui kadang „main di area abu-abu”. [^6]
 
-Pengenalan diri ini sudah menjelaskan metode program: ia tidak menyembunyikan pemandu acaranya di balik nada pengabarangan. Halaman program di Apple Podcasts juga memperkenalkan Kylie dan Ken dengan "dialog binggris" dan "pendekatan santai", serta menempatkan berita serius dan obrolan santai dalam ruang yang sama. [^7]
+Perkenalan diri ini sudah mengungkapkan metode acaranya: ia tidak menyembunyikan pembawa di balik nada baca berita. Halaman acara Apple Podcasts juga memperkenalkan Kylie dan Ken dengan „percakapan dwibahasa” dan „sudut pandang santai”, menempatkan berita serius dan obrolan santai dalam satu ruang acara yang sama. [^7]
 
-Bagi pendengar, ini juga mengubah cara "tahu sesuatu". Berita tidak lagi datang dengan istilah khusus, peta geopolitik, atau judul resmi yang menakutkan. Mungkin saja ia mulai dari reaksi hidup sekaligus spontan dari pemandu acara. Ini mengurangi rasa asing, namun tidak berarti isu-isu tersebut telah selesai.
+Bagi pendengar, ini juga mengubah „pintu masuk” untuk „mengetahui suatu hal”. Berita tidak lagi datang terlebih dahulu dengan nama khusus, peta geopolitik, atau judul formal, melainkan mungkin dimulai dari satu reaksi sehari-hari sang pembawa. Hal ini menurunkan rasa asing, namun tidak berarti isu itu sendiri sudah terselesaikan.
 
-Tatler mencatat perbedaan yang lebih konkret. Kelly percaya bahwa Podcast membuat pendengar lebih sabar mendengarkan alur pemikiran. Ken menambahkan, mereka ingin perlahan menjelaskan sebab-akibatnya, bukan hanya menyampaikan poin ekstrim yang cukup untuk tayang dalam waktu singkat. Ini bukan klaim "netral objektif", tetapi bentuk etika komunikasi lain: mengakui kehadiran pembicara terlebih dahulu, lalu menuntut agar dialog tidak hanya tersisa dengan label. [^5]
+Tatler mencatat perbedaan yang lebih konkret. Kylie berpendapat podcast membuat pendengar lebih sabar menyimak alur pikir. Ken berkata, mereka ingin memperlambat penjelasan sebab-akibat suatu hal, bukan dalam waktu singkat hanya mengeluarkan pernyataan ekstrem yang layak tayang. Ini bukan klaim „netral objektif”, melainkan etika komunikasi lain: pertama mengakui kehadiran orang yang bicara, baru menuntut dialog agar tidak hanya tersisa label. [^5]
 
-Oleh karena itu, bahasa ganda Bailingguo bukan hanya Mandarin ditambah Inggris. Ia juga dua nada: satu yang meremehkan isu asing agar lebih dekat, dan satu yang mengajukan pertanyaan setelah bercanda.
+Oleh karena itu, dwibahasa Bailingguo bukan sekadar bahasa Tionghoa ditambah bahasa Inggris. Ia sekaligus dua nada: satu lelucon yang mendekatkan isu asing, satu penelusuran lebih dalam yang biarkan masalah tetap di meja setelah lelucon itu.
 
-## Ruang Publik di dalam Satu Pasang Headphone
+## Ruang Publik di dalam Sehelai Earphone
 
-Gejaya Podcast 2020 membuat "menyerap informasi dengan telinga" menjadi kebiasaan sehari-hari. Tatler menyatakan bahwa Podcast tidak terikat oleh batasan waktu acara radio, sehingga pendengar dapat mendengarkan saat berkendara, berolahraga, atau dalam waktu luang lainnya. Bagi Bailingguo, fleksibilitas ini juga menyediakan ruang naratif yang lebih panjang dibandingkan video pendek. [^5]
+Gelombang Podcast tahun 2020 membuat «menyerap informasi lewat telinga» menjadi hal sehari-hari. Tatler menegaskan, Podcast tidak terikat keterbatasan waktu siar tetap, sehingga pendengar bisa menyimak saat berangkat kerja, olahraga, atau waktu sela lainnya. Bagi Bailingguo, fleksibilitas ini juga menyediakan ruang narasi yang lebih panjang dibanding konten video pendek.[^5]
 
-Acara langsung Bailingguo justru memanfaatkan rasa isolasi dari headphone. Tatler mencatat, semasa pandemi Kelly dan Ken banyak mengadakan streaming langsung, berharap orang yang tinggal di rumah tidak merasa kesepian. Sebelum pandemi, mereka juga pernah mengadakan "khotbah besar" dan acara berkeliling, yang memungkinkan pendengar bertemu langsung dengan pemandu acaranya. [^5]
+Acara fisik Bailingguo justru membalikkan rasa kesepian earphone. Tatler mencatat, selama pandemi Kelly dan Ken banyak melakukan siaran langsung, berharap orang yang tinggal di rumah tidak merasa sendirian. Sebelum pandemi, mereka juga mengadakan «Komunitas Bailingguo» dan acara keliling seperti prosesi, agar pendengar bisa bertemu langsung dengan host.[^5]
 
-Acara-acara ini bukan sekadar promosi tambahan. Ketika pemandu acara berdiri di atas pangung dan pendengar berpindah dari komentar online ke kehadiran fisik, kepercayaan yang selama ini hanya ada dalam suara akan diuji kembali: pendengar melihat dua orang nyata, bukan akun yang bisa tetap misterius selamanya.
+Acara-acara ini bukan sekadar promosi tambahan program. Saat host berdiri di panggung dan pendengar bergerak dari kolom komentar ke lokasi acara, kepercayaan yang awalnya hanya ada di suara diuji ulang: penonton melihat dua orang nyata, bukan akun yang bisa tetap misterius selamanya.
 
-Deskripsi Music Farm tentang acara di Tainan 2020 meninggalkan objek yang tidak bisa digantikan oleh tabel statistik: kartu nama, foto di tempat, dan makan hotpot bersama staf setelah acara selesai. Detail-detail ini menunjukkan bahwa komunitas Bailingguo tidak hanya terdiri dari jumlah putaran pemutaran, tetapi juga dari sekelompok orang yang rela membawa program suara ke ruang publik. [^4]
+Deskripsi Music Farm tentang acara Tainan 2020 meninggalkan benda-benda yang sulit digantikan spreadsheet: kartu staf, foto di lokasi, makan hot pot bersama kru setelah acara berakhir. Detail-detail ini menunjukkan, komunitas Bailingguo tidak hanya terbentuk dari angka putar, tapi juga dari sekelompok orang yang mau membawa acara suara ke ruang publik.[^4]
 
-📝 Catatan kurator: **Podcast seolah menjepit orang ke dalam headphone, namun Bailingguo selalu ingin membawa orang di dalam headphone kembali ke kota yang sama.**
+📝 Catatan Kurator: **Podcast nampak mengurung orang ke dalam earphone, tapi Bailingguo justru ingin mengembalikan orang-orang di dalam earphone ke kota yang sama.**
 
-## Dari Podcast Bilingual ke Eksperimen Berbahasa Inggris
+Februari 2022, Taipei Times melaporkan Bailingguo meluncurkan acara berbahasa Inggris penuh 《反共波霸：無碼台灣》。 Acara ini bukan menerjemahkan konten bahasa China kalimat per kalimat ke bahasa Inggris, melainkan mengadopsi stand-up comedy dan sketsa, menangani isu sensitif seperti hubungan Taiwan–AS–Tiongkok dan 「禁娘令」 Tiongkok. Laporan menunjukan, dari para aktor yang diundang, akhirnya hanya satu perlima yang bersedia berpartisipasi, hal ini mencerminkan ambang produksi yang ada ketika pertunjukan bahasa Inggris dan tema politik hadir bersamaan.[^3]
 
-Pada Februari 2022, Taipei Times melaporkan bahwa Bailingguo meluncurkan program sepenuh bahasa Inggris berjudul _Tough Bobas: Taiwan Uncensored_. Program ini tidak sekadar menerjemahkan konten Mandarin secara harfiah ke Inggris, tetapi menggunakan gaya talk show dan sketsa pendek untuk membahas isu sensitif seperti hubungan Taiwan-Amerika-China dan kebijakan "larangan perempuan" dari Tiongkok. Laporan menyebutkan bahwa hanya seperti sepersepuluh dari para aktor yang diundang akhirnya setuju untuk berpartisipasi, yang mencerminkan hambatan produksi yang ada ketika menyatukan akting berbahasa Inggris dan tema politik. [^3]
+Acara ini awalnya direncanakan empat episode, dengan biaya produksi sebesar 2,5 juta dolar Taiwan Baru. Wang Ching-ti menggambarkan uang itu bukan jumlah kecil, apakah akan berlanjut di masa depan tergantung pada dana. Bailingguo oleh karena itu bukan sekadar cerita 「有理念就能一直做」， melainkan juga sebuah organisasi media yang harus menghadapi biaya.[^3]
 
-Program ini awalnya direncanakan untuk empat episode dengan anggaran 2,5 juta dolar Taiwan. Wang Qingdi menyatakan bahwa jumlah ini tidaklah kecil, dan apakah akan melanjutkan tergantung pada dana di masa depan. Dengan demikian, Bailingguo bukan hanya cerita "bisa terus berjalan selama punya ide", tetapi juga organisasi media yang harus menghadapi biaya nyata. [^3]
+「讓台灣被世界聽見」 jika hanya berhenti di slogan, tidak memerlukan sketsa berbahasa Inggris, aktor, latar, dan dana. Begitu benar-benar mengirimkan konten ke penonton berbahasa berbeda, kreator harus menangani apakah lawakan bisa dipahami, apakah konteks politik akan disalahartikan, serta siapa yang bersedia membayar untuk eksperimen ini.
 
-Jika "membuat Taiwan terdengar di dunia" hanya tersisa sebagai slogan, tidak perlu sketsa komedi berbahasa Inggris, aktor, adegan, dan anggaran. Begitu konten benar-benar dikirimkan ke penonton berbahasa berbeda, kreator harus menghadapi apakah candaan bisa dipahami, konteks politik bisa salah dibaca, dan siapa yang rela membayar untuk eksperimen ini.
+Artikel berbahasa Inggris Music Farm merangkum arah ini sebagai 「the freest international news in the Chinese-speaking world」, dan mendeskripsikan keduanya menggantikan nada netral siaran tradisional dengan emosi, dialog, dan perspektif berbeda. Observasi ini dapat menjelaskan daya tarik Bailingguo, juga mengingatkan pembaca: kebebasan bukan berarti dibebaskan dari verifikasi dan tanggung jawab, melainkan membuat pandangan dapat dilihat, dibantah, dan kembali ke dalam dialog.[^4]
 
-Artikel bahasa Inggris Music Farm merangkum arah ini sebagai "berita internasional paling bebas di dunia berbahasa Mandarin", dan menggambarkan bagaimana kedua orang mengganti nada netralitas tradisional dengan emosi, dialog, dan berbagai perspektif. Pengamatan ini dapat menjelaskan daya tarik Bailingguo, sekaligus mengingatkan pembaca: kebebasan bukan berarti bebas dari verifikasi dan tanggung jawab, tetapi membuat pendapat dapat dilihat, ditentang, dan kembali ke dalam dialog. [^4]
+## 「Tidak Ada Batas» Juga Memiliki Harga
 
-## "Tanpa Batas" Juga Memiliki Biaya
+Hal yang paling mudah dikenali dari Bailingguo adalah ia tidak membungkus dirinya sebagai mesin berita tanpa kepribadian. Halaman program Spotify mendeskripsikannya sebagai pengetahuan yang dibungkus dalam percakapan dwibahasa. Daftar program di halaman yang sama juga menunjukkan bahwa ia mengundang kreator lain, pembawa acara, dan tokoh publik untuk berbagai bentuk wawancara.[^8] Halaman detail program SoundOn juga menyimpan susunan pembawa acara dan posisi program yang sama, menunjukkan Bailingguo sejak awal menempatkan kontennya di beberapa platform audio.[^10]
 
-Yang paling dikenal tentang Bailingguo adalah ia tidak memproyek dirinya sebagai mesin berita tanpa kepribadian. Halaman program Spotify menggambarkannya sebagai mengemas pengetahuan melalui dialog bilingual. Di halaman yang sama, juga terlihat bahwa Bailingguo mengundang berbagai kreator, pemandu acara, dan tokoh publik untuk berdiskusi dalam berbagai bentuk. [^8] SoundOn juga menyimpan keterangan program yang sama dengan pemandu acara dan posisi program, menunjukkan bahwa Bailingguo sejak awal menempatkan kontennya di banyak platform suara. [^10]
+Satu episode 《The KK Show》 pada Januari 2020 mengundang wartawan senior Fan Chi-fei, dengan durasi mendekati dua jam, deskripsi program memfokuskan pada berita internasional dan diskusi publik sebelum pemilu besar Taiwan 2020. Panjangnya durasi ini memungkinkan pembawa acara menanyakan pertanyaan hingga selesai, namun juga menuntut program untuk menanggung tanggung jawab konteks dan penjelasan yang lebih besar.[^9]
 
-Pada Januari 2020, sebuah episode _The KK Show_ mengundang jurnalis senior Fan Chi-fi, dengan durasi hampir dua jam, dan menempatkan fokus pada berita internasional dan diskusi publik sebelum pemilihan umum Taiwan 2020. Durasi yang panjang ini memungkinkan pemandu acara menanyakan semua hal, namun juga berarti program harus bertanggung jawab atas lebih banyak konteks dan penyampaian. [^9]
+Halaman resmi Bailingguo menetapkan jadwal unggah tetap pada hari Selasa, Kamis, dan Minggu pukul sembilan malam, dan menjelaskan bahwa program akan memilih topik dari berita internasional penting, lalu mendiskusikannya dengan gaya mirip talk show. Ritme pembaruan yang stabil dan nada yang khas, membuat program mudah menjadi teman pendengar. Namun ketika teman pendengar itu bertemu dengan perang, otoriter, pemilu, atau hubungan internasional, pendengar juga tidak bisa hanya memperlakukannya sebagai suara latar.[^6]
 
-Halaman resmi Bailingguo menetapkan jadwal unggah tetap setiap hari Selasa, Kamis, dan Minggu pukul 21.00, dan menjelaskan bahwa program akan memilih topik dari berita internasional penting, lalu membahasnya dengan gaya talk show. Ritme pembaruan yang konsisten dan gaya bahasa yang kuat membuat program mudah menjadi teman setia. Namun, kebiasaan ini pun berarti ketika berhadapan dengan perang, otoriter, pemilu, atau hubungan internasional, pendengar tidak bisa hanya memandangnya sebagai suara latar. [^6]
+Ini adalah tantangan inti Bailingguo: ia harus mempertahankan kecepatan obrolan dan kelambatan yang dibutuhkan isu publik secara bersamaan. Bercanda bisa menurunkan ambang batas, namun tidak bisa menggantikan bukti. Sikap pembawa acara bisa membuat orang mengingat, namun tidak boleh mereduksi posisi lain menjadi argumen orang jerami.
 
-Ini adalah tantangan inti Bailingguo: harus mempertahankan kecepatan obrolan sekaligus keperluan lambatnya isu publik. Candaan bisa menurunkan hambatan, namun tidak bisa menggantikan bukti. Posisi pemandu acara bisa membuat orang mengingat, namun tidak bisa memotong pendapat lain menjadi jerami strawman.
+Kontradiksi ini tidak memiliki jawaban baku. Jika Bailingguo sepenuhnya mengadopsi nada tenang jurnalistik tradisional, mungkin kehilangan daya tarik aslinya yang membuat orang mendekat. Jika hanya mengejar reaksi dan tawa, ia berisiko meratakan isu internasional yang kompleks menjadi sikap yang siap dibagikan. Yang paling layak diamati darinya, adalah bagaimana setiap episode menavigasi ulang antara keduanya.
 
-Kontradiksi ini tidak memiliki jawaban standar. Jika Bailingguo sepenuhnya mengadopsi nada profesional tradisional yang dingin, mungkin kehilangan kekuatan yang selama ini membuat orang mendekat. Jika hanya mengejar reaksi dan candaan, mungkin menyederhanakan isu internasional yang kompleks menjadi sikap yang bisa dibagikan. Yang paling perlu diperhatikan adalah bagaimana setiap episode menyeimbangkan antara keduanya.
+📝 Catatan Kurator: **「Tidak Ada Batas」 bukan berarti tidak ada garis batas, melainkan membawa garis batas ke atas meja, agar pendengar melihat bagaimana garis itu ditarik.**
 
-📝 Catatan kurator: **"Tanpa batas" bukan berarti tidak ada batas, tetapi memindahkan batas ke atas meja, sehingga pendengar dapat melihatnya digambar.**
+## Mengapa Ia Layak Ditulis ke dalam Taiwan
 
-## Mengapa Hal Ini Layak Ditulis dalam Sejarah Taiwan
+Keberartian Bailingguo tidak hanya terletak pada fakta bahwa ia pernah memuncaki tangga peringkat. Taipei Times melaporkan, pada 2021 ia menjadi Podcast nomor dua di Taiwan dari segi angka pendengaran. Lebih menarik lagi, pencapaian ini digunakan untuk mendukung sebuah proyek lintas bahasa: menggunakan acara berbahasa Inggris untuk membawa suara Taiwan ke komunitas internasional. [^3]
 
-Pentingnya Bailingguo tidak hanya karena pernah masuk ke dalam peringkat. Taipei Times melaporkan bahwa pada 2021, Bailingguo adalah podcast dengan tingkat pendengar tertinggi kedua di Taiwan. Lebih menarik lagi, pencapaian ini digunakan untuk mendukung rencana bilingual: menggunakan program berbahasa Inggris untuk mengirimkan suara Taiwan ke komunitas internasional. [^3]
+Wawancara Tatler memperspektifkan sisi lain: Bailingguo bermula dari berbagi berita internasional di Facebook, melakukan wawancara jalanan dan siaran langsung, baru kemudian membentuk format acara saat ini. Para host berharap pendengar tidak hanya mendengar satu jenis suara, dan juga tidak mengeluarkan isu dari konteksnya. [^5]
 
-Wawancara Tatler menyajikan dimensi lain: Bailingguo berawal dari berbagi berita internasional di Facebook, melakukan wawancara jalan, hingga akhirnya membentuk program saat ini. Pemandu acara ingin pendengar tidak hanya mendengar satu suara, dan juga tidak menguraikan isu tanpa konteks. [^5]
+Kedua perspektif itulah yang bersama-sama membentuk makna influencer sebagai tokoh Taiwan. Influencer bukan sekadar orang yang menumpuk perhatian di layar, melainkan juga bisa jadi orang yang mendistribusikan ulang perhatian itu ke arah pengetahuan tertentu, bahasa tertentu, dan masalah publik tertentu. Bailingguo mengubah "berita internasional" dari kata benda yang jauh, menjadi pilihan yang bisa diputar oleh orang Taiwan pada pukul 21.00 malam. Karyanya tak sempurna, namun justru memberi kesempatan bagi lebih banyak orang untuk mendengar dulu, baru memutuskan apakah ingin terus memahami.
 
-Kedua dimensi ini bersama memberikan makna bagi seorang influencer sebagai tokoh Taiwan. Seorang influencer bukan hanya seseorang yang mengumpulkan perhatian di layar, tetapi juga seseorang yang mengalihkan perhatian ke arah pengetahuan, bahasa, dan isu publik tertentu. Bailingguo mengubah "berita internasional" dari istilah yang jauh, menjadi pilihan yang bisa diputar pada pukul 21.00 setiap malam di Taiwan. Ia tidak sempurna, namun memberi lebih banyak orang kesempatan untuk mendengarkan terlebih dahulu, lalu memutuskan apakah ingin memahami lebih lanjut.
+Data resmi episode Spotify masih menyimpan deskripsi acara dan tautan situs web masa awal, sehingga terlihat bagaimana Bailingguo bertransformasi bertahap dari era "Wuliao Fulishe" (Komunitas Kebebasan Tanpa Biaya) menuju inti berupa berita internasional dan konten dwibahasa. Jejak acara yang dapat ditelusuri ini, lebih mampu menjelaskan bagaimana ia tumbuh dibandingkan kisah sukses yang disusun belakangan. [^9]
 
-Data episode resmi di Spotify masih menyimpan deskripsi program awal dan tautan situs web, sehingga kita dapat melihat bagaimana Bailingguo bertransformasi dari masa "Pasar Gratis" menuju fokus pada berita internasional dan konten bilingual. Catatan program yang dapat dilacak ini lebih jelas menjelaskan bagaimana ia tumbuh, dibandingkan dengan kisah kesuksesan yang disusun setelah kejadian. [^9]
-
-Akhirnya, yang mungkin masih terdengar dari headphone adalah tawa, interupsi, dan candaan yang tidak sesuai. Namun setelah tawa reda, dunia tidak akan berubah menjadi lebih kecil. Ia hanya sementara duduk di sampingmu, menunggu keputusan untuk mendengarkan episode berikutnya.
+Di akhir, yang terdengar dari earphone mungkin tetap tawa, selipan, dan lelucon yang tidak tepat waktu. Namun setelah tawa berhenti, dunia tidak jadi mengecil. Hanya saja dunia itu sementara duduk di sampingmu, menunggu keputusanmu apakah episode selanjutnya akan disimak sampai habis.
 
 ## Bacaan Lanjutan
 
-[Situs web resmi Bailingguo News](https://www.bailingguonews.com/), [Halaman program Bailingguo News di Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606), [Halaman program Bailingguo News di Spotify](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty)。
+[Situs Resmi Bailingguo News](https://www.bailingguonews.com/)、[Halaman Acara Bailingguo News di Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606)、[Halaman Acara Bailingguo News di Spotify](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty)。
 
 ## Gambar dan Catatan Kurator
 
-Gambar dalam artikel ini hanya menggunakan tautan Markdown jarak jauh, tidak menyimpan atau mengunduh gambar dalam proyek. Gambar berlisensi bebas digunakan untuk menciptakan akses visual "headphone/media suara"; gambar berhak cipta tidak bebas tetap mempertahankan sumber asli dan peringatan hak cipta, hanya sebagai penyemat di luar konteks laporan asli. Jika kebijakan situs web tidak mengizinkan penyematan jarak jauh, gambar berhak cipta tidak bebas harus dihapus, dan tidak boleh diunduh atau diunggah kembali.
+Gambar dalam artikel ini hanya menggunakan tautan panas (hotlink) Markdown jarak jauh, tidak disimpan atau diunduh ke dalam proyek. Gambar berlisensi bebas dipakai untuk membangun "titik masuk membaca" mengenai earphone/media suara; gambar non-bebas hak cipta mempertahankan sumber asli dan peringatan hak cipta, hanya sebagai penyematan (embed) eksternal konteks laporan asli. Jika kebijakan situs tujuan melarang penyematan jarak jauh, gambar non-bebas hak cipta harus dihapus, tidak boleh diunduh atau diunggah ulang secara terpisah.
 
-Dari segi kurator, gambar pertama bukanlah potret pemandu acara Bailingguo, tetapi objek headphone dengan mikrofon. Ini menggeser wawasan inti artikel dari "memperkenalkan dua pemandu acara" ke "bagaimana suara menjadi ruang publik"; gambar kedua mempertahankan konteks asli laporan Tatler Asia, namun tidak boleh ditulis ulang seolah-olah itu adalah materi milik Taiwan.md.
+Dalam kurasi, gambar pertama bukan potret tokoh Bailingguo, melainkan objek earphone mikrofon. Hal ini menggeser inti wawasan artikel dari "memperkenalkan dua host" ke "bagaimana suara menjadi ruang publik"; gambar kedua mempertahankan konteks laporan asli Tatler Asia, namun tidak disalahartikan sebagai aset milik Taiwan.md.
 
 ## Referensi
 
-[^1]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — catatan lapangan berbahasa Inggris panjang, menggambarkan evolusi Kelly dan Ken dari upaya internasionalisasi media 2014, program awal, hingga acara di Tainan 2020.
+[^1]: [Music Farm: Bailingguo — Menyaksikan Gelombang Baru Earphone di Podcast Taiwan 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Catatan lapangan berbahasa Inggris panjang, merangkai perkembangan Kelly dan Ken dari percobaan internasionalisasi media 2014, program awal, hingga acara Tainan 2020.
 
-[^2]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — laporan spesifik dari Taipei Times dan Central News Agency, mencatat program berbahasa Inggris, jumlah episode, undangan aktor, dan anggaran produksi yang bisa diverifikasi.
+[^2]: [Taipei Times: Bailingguo News Meluncurkan Sketch-Komedi Berbahasa Inggris 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Laporan konkret yang disiarkan ulang oleh Taipei Times dan CNA, mencatat program penuh bahasa Inggris, jumlah episode, pemilihan pemain, dan biaya produksi yang dapat diverifikasi.
 
-[^3]: [Taipei Times：Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — artikel berita paralel bahasa Inggris dan Mandarin, menjelaskan peringkat Podcast Bailingguo di Taiwan, tujuan internasionalisasi, dan kesulitan produksi isu sensitif.
+[^3]: [Taipei Times: Bailingguo News Meluncurkan Sketch-Komedi Berbahasa Inggris 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Artikel berita berbahasa Inggris dan Cina berdampingan, menjelaskan peringkat Bailingguo di podcast Taiwan, tujuan internasionalisasi, dan kesulitan produksi topik sensitif.
 
-[^4]: [Music Farm：Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — artikel pengamatan tokoh dan industri berbahasa Inggris, menggambarkan gaya presentasi tidak konvensional, kemampuan bilingual, bentuk program, dan posisi Bailingguo dalam ekosistem Podcast.
+[^4]: [Music Farm: Bailingguo — Menyaksikan Gelombang Baru Earphone di Podcast Taiwan 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Artikel observasi tokoh dan industri berbahasa Inggris, menggambarkan nada penyiaran non-konvensional kedua host, kemampuan bilingual, format acara, dan posisi di ekosistem podcast.
 
-[^5]: [Tatler Asia：2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — wawancara eksklusif pemandu acara 2021, menyediakan asal-usul program, tujuan berita internasional, rasa pendamping Podcast, streaming langsung dan acara tatap muka, serta kutipan langsung dari Kelly dan Ken.
+[^5]: [Tatler Asia: Podcast Paling Hits 2021 'Bailingguo News' Sudah Dengar Belum?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Wawancara host 2021, menyediakan asal-usul program, target berita internasional, rasa kehadiran podcast, siaran langsung dan acara tatap muka, serta kutipan langsung Kelly dan Ken.
 
-[^6]: [Situs web resmi Bailingguo News](https://www.bailingguonews.com/) — sumber pertama keterangan program, slogan bilingual, jadwal unggah tetap, dan cara produksi berita internasional.
+[^6]: [Situs Resmi Bailingguo News](https://www.bailingguonews.com/) — Penerbitan mandiri kreator tentang posisi program, slogan bilingual, jadwal unggah tetap, dan cara produksi berita internasional, menjadi sumber verifikasi deskripsi diri pihak pertama.
 
-[^7]: [Apple Podcasts：Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — halaman detail program resmi di Apple Podcasts, menyimpan informasi pemandu acara, dialog bilingual, deskripsi program, dan data kreator.
+[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Halaman detail resmi program di Apple Podcasts, menyimpan data pihak pertama berupa host, dialog bilingual, deskripsi acara, dan info kreator.
 
-[^8]: [Spotify：Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — halaman detail program resmi di Spotify, mencantumkan deskripsi program dan beberapa episode spesifik serta kreator yang diwawancarai, untuk memverifikasi cakupan isi program.
+[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Halaman detail resmi program di Spotify, mencantumkan deskripsi acara dan beberapa episode konkret beserta narasumber wawancara, untuk verifikasi cakupan isi program.
 
-[^9]: [Spotify：The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — halaman episode spesifik Januari 2020, menyimpan tanggal, durasi, narasumber, dan deskripsi program awal, untuk melacak bentuk awal Bailingguo.
+[^9]: [Spotify: The KK Show — 008 Raja Berita Internasional: Fan Chifei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Halaman episode konkret Januari 2020, menyimpan tanggal episode, durasi, narasumber, dan deskripsi program awal, memungkinkan penelusuran format awal Bailingguo.
 
-[^10]: [SoundOn：Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — halaman detail program spesifik di platform Podcast, menyimpan deskripsi program bilingual dan posisi pemandu acara Bailingguo, untuk silang-verifikasi pengenalan resmi.
+[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Halaman detail program di platform podcast, menyimpan deskripsi acara bilingual dan posisi host Bailingguo, untuk verifikasi silang perkenalan diri resmi.
 
-[^11]: [BIOS Monthly：史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — wawancara karakter Kelly dan Ken 2020, mencatat latar belakang kerja, pembentukan program, dan pemahaman mereka sendiri tentang ekspresi yang tidak sesuai secara politik.
+[^11]: [BIOS Monthly: Wawancara Paling Tidak Benar Secara Politik (Gemeter) Mengeluarkan Pendapat lewat Podcast](https://www.biosmonthly.com/article/10325) — Wawancara tokoh Kelly dan Ken 2020, mencatat latar belakang kerja keduanya, pembentukan program, dan pemahaman diri mereka tentang ekspresi yang tidak benar secara politik.

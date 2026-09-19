@@ -1,0 +1,25 @@
+{
+  "revision": 40,
+  "submissionId": "144c20df-2472-465b-94c1-698eaf673b72",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第五次 delta）",
+  "verdict": "accept",
+  "rationale": "兩處都核實過。(1) curl 維基第 61 屆金鐘獎確認轉播欄「三立都會台、公共電視台（主頻）」，與新句及 [^26] 相符；「收緊不是放寬」與前句機制（民營台按頻道數、公視多頻道算一份）邏輯一致。(2) curl NOWnews 6875306 全文確認未點名任何質疑方，只用「遭疑」被動句式，與 [^62] 一致，新增子句準確。footnote used=70/defs=70，無後台洩漏。附帶：L141 新聞稿引文的全形分號屬引文截斷保留，非本輪必修。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L96（公視三事並排段落）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L286（[^26] 定義）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L207（曹瑞原段加句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L358（[^62] 定義）"
+    }
+  ]
+}

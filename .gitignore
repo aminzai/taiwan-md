@@ -228,3 +228,10 @@ scripts/tools/.health-sweep.json
 
 # babel 分岔期間對 origin/main 的去重清單（babel-origin-exclude.py 產出，機器本地狀態）
 .taiwanmd/babel-exclude.tsv
+
+# 委派層 agent 改檔前會自己留 .bak（2026-09-09 撞見一個留在 knowledge/vi/ 裡）。
+# knowledge/ 是 SSOT，不收任何備份殘留。
+knowledge/**/*.bak
+
+# babel-dispatch gate-fail 時搬過來的未追蹤譯文（見 restore_head_or_quarantine）
+.babel-quarantine/

@@ -54,7 +54,12 @@ DEFAULT_SINCE_DAYS = 60
 # ROUTINE.md 註 ¹：taskId 仍是 twmd-maintainer-daily，commit 標記與 memory handle
 # 一律簽 twmd-maintainer-am；已是 twmd- 前綴 catch-all 的子集，這裡明列只為對照
 # 註 ¹ 的說法，不是唯一防線。
-EXPLICIT_ALIASES = {"twmd-maintainer-am"}
+#
+# semiont-heartbeat：哲宇那台 mac 的 Claude Desktop 排程任務（6 小時一次跑完整
+# 心跳），不在 ROUTINE.md 的 twmd- 排程表裡，也沒有 twmd- 前綴。2026-09-17 三輪
+# 心跳各留一個 memory 檔，本工具把它讀成「哲宇在場（0 天前）」——一條排程器起的
+# session 被當成真人，缺席協議的七天時鐘就永遠歸零（REFLEXES #82 proxy signal）。
+EXPLICIT_ALIASES = {"twmd-maintainer-am", "semiont-heartbeat"}
 
 FILE_HANDLE_RE = re.compile(r"^(20\d\d-\d\d-\d\d)-\d{6}-(.+)\.md$")
 TABLE_TASKID_RE = re.compile(r"^\|\s*`(twmd-[A-Za-z0-9-]+)`")

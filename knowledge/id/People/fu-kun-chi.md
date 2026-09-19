@@ -1,9 +1,9 @@
 ---
-title: 'Fu Yi-chang (傅崐萁): Pusaran Kekuasaan dari "Raja Hualien" di Hulu ke "Ketua Delegasi" di Parlemen'
-description: 'Dari "Si Kecil Kaiju" yang merupakan taipan pasar saham pada tahun 1990-an, hingga memasuki parlemen pada tahun 2001 dan menjadi bupati Hualien pada tahun 2009, Fu Yi-chang telah membangun "Dinasti Keluarga Fu" selama dua dekade di Hulu, sebuah kekuatan yang bahkan sulit digoyahkan oleh pemerintah pusat. Dari kasus manipulasi saham yang membuatnya dipenjara saat masih menjabat, hingga pernikahan palsu untuk menunjuk istrinya sebagai wakil bupati, dan kembalinya pada tahun 2024 untuk memimpin delegasi ke Tiongkok, ia menunjukkan ketahanan politik dan kontroversi paling ekstrem di kancah Taiwan.'
+title: 'Fu Kun-chi (傅崐萁): Dari "Raja Hualien" Pedesaan hingga Pimpinan Fraksi Parlemen—Spiral Kekuatan Politik'
+description: 'Dari spekulan saham "Fu Kecil Kaiqu" era 1990-an, hingga masuk parlemen pada 2001 dan menguasai Hualien pada 2009, Fu Kun-chi membangun "dinasti Fu" di pedesaan yang bertahan selama dua puluh tahun dan sulit digoyahkan bahkan oleh pemerintah pusat. Dari kasus manipulasi saham sambil menjalani masa pidana, perceraian palsu untuk menunjuk istri sebagai wakil bupati, hingga kembali ke parlemen pada 2024 sebagai pimpinan fraksi Kuomintang dan memimpin rombongan kunjungan ke daratan, ia menunjukkan daya tahan kekuatan dan kontroversi paling ekstrem dalam lanskap politik Taiwan.'
 date: 2026-06-01
 category: 'People'
-tags: ['Hualien', 'tokoh politik', 'KMT', 'parlemen']
+tags: ['Hualien', 'Tokoh Politik', 'Kuomintang', 'Parlemen']
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,52 +14,52 @@ translatedFrom: 'People/傅崐萁.md'
 sourceCommitSha: 'edae9fc94'
 sourceContentHash: 'sha256:ff571f0d47415df6'
 sourceBodyHash: 'sha256:87fd16bb46aa18be'
-translatedAt: '2026-09-16T11:57:33+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-> **Ringkasan 30 Detik:**
-> Fu Yi-chang adalah sosok legendaris yang sangat kontroversial dalam kancah politik Taiwan, dijuluki "Raja Hualien". Ia pernah dipenjara karena kasus manipulasi saham, namun ia berhasil mempertahankan pengaruh politik di penjara dan bahkan dengan cepat kembali ke pusat kekuasaan parlemen setelah bebas. Karier politiknya adalah eksperimen jangka panjang tentang "mengisolasi pusat dari daerah" dan "peradilan melawan politik," sementara pola kepemimpinan bersama istrinya, Hsu Hsin-wei (徐榛蔚), dalam mengelola Hualien telah menciptakan rekor unik dalam sejarah otonomi lokal Taiwan.
+> **Ringkasan 30 detik:**
+> Fu Kun-chi adalah tokoh legendaris yang sangat kontroversial dalam lanskap politik Taiwan, dijuluki "Raja Hualien". Dia pernah menjalani pidana karena kasus manipulasi saham namun tetap mempertahankan pengaruh politiknya bahkan di dalam penjara, dan segera kembali ke jantung kekuatan parlemen setelah dilepas. Karir politiknya adalah eksperimen panjang tentang "pemerintah daerah mengepung pusat" dan "lembaga peradilan melawan politisi", sementara pola di mana dia dan istri Hsu Jen-wei bergantian memimpin Hualien menciptakan catatan unik dalam sejarah pemerintahan daerah Taiwan.
 
-Pada tahun 1997, ketika Fu Yi-chang masih merupakan "Si Kecil Kaiju" yang mendominasi pasar saham, mungkin tidak ada yang menyangka bahwa pemuda Hakka dari Taichung ini akan membangun benteng politik di Hulu—di sisi peta yang berbeda—yang bahkan sulit digoyahkan oleh pemerintah pusat.
+Pada tahun 1997, ketika Fu Kun-chi masih merupakan spekulan saham yang dominan—dikenal sebagai "Fu Kecil Kaiqu"—mungkin tidak ada yang menduga bahwa pemuda Hakka dari Taichung ini akan membangun benteng politik yang sulit digoyahkan bahkan oleh pemerintah pusat di pedesaan yang jauh di peta.
 
-### Awal Mula Dinasti Hulu dan Kelahiran "Raja Hualien"
+### Awal Dinasti Pedesaan dan Lahirnya "Raja Hualien"
 
-Karier politik Fu Yi-chang dimulai ketika ia terpilih sebagai anggota legislatif pada tahun 2001. Berbekal kekayaan besar yang dikumpulkan di dunia bisnis dan kemampuan organisasi yang luar biasa, ia dengan cepat mengakar di Hualien. Pada tahun 2009, ia terpilih sebagai bupati Hualien secara populer tanpa afiliasi partai, memulai periode legendaris "Bupati Bintang Lima" selama sembilan tahun. Di Hualien, popularitasnya selalu tinggi, dan pengaruh yang hampir seperti "penguasaan" ini membuatnya dijuluki dengan sebutan gemilang: "Raja Hualien."[^1]
+Karir politik Fu Kun-chi dimulai dengan terpilih menjadi anggota parlemen pada tahun 2001. Berkat kekayaan finansial yang dikumpulkan di sektor bisnis dan kemampuan organisasi yang luar biasa, dia dengan cepat berakar di Hualien. Pada tahun 2009, dia terpilih dengan suara tinggi sebagai bupati Hualien dengan status independen, memulai legenda "Bupati Bintang Lima" yang bertahan selama sembilan tahun. Di Hualien, dukungan terhadapnya selalu tinggi, dan pengaruh yang hampir mirip dengan "penguasaan" ini membuat pihak luar memberikan julukan yang bergema: "Raja Hualien".[^1]
 
-📝 Catatan Kurator: Dalam konteks politik Taiwan, kata "Raja" adalah konfirmasi kekuatan sekaligus metafora untuk monopoli kekuasaan oleh faksi lokal.
+📝 Catatan Kurator: Dalam konteks politik Taiwan, kata "Raja" sekaligus merupakan sertifikasi kekuatan dan metafora untuk monopoli kekuasaan oleh faksi lokal.
 
-### Manipulasi Kekuasaan di Batas Hukum: Pernikahan Palsu dan Penjara Saat Masih Menjabat
+### Akrobat Kekuatan di Tepi Hukum: Perceraian Palsu dan Menjalani Pidana Sambil Berjabat
 
-Hal yang paling mengejutkan orang luar tentang Fu Yi-chang adalah penguasaannya yang presisi terhadap celah hukum dan sistem. Setelah terpilih sebagai bupati pada tahun 2009, untuk menghindari peraturan bahwa kerabat tidak boleh menjabat wakil, ia bahkan melakukan "perceraian palsu" dengan istrinya, Hsu Hsin-wei (徐榛蔚), dan segera menunjuknya sebagai wakil bupati.[^2] Pengadilan Distrik Hualien memutuskan bahwa ini adalah perceraian palsu yang dilakukan untuk menghindari peraturan, menjatuhkan hukuman enam bulan kepada Fu Yi-chang dan empat bulan kepada Hsu Hsin-wei (keduanya dibebaskan dengan denda), yang juga membuka babak "pemerintahan bergantian" keluarga Fu.[^2]
+Aspek yang paling membuat takjub dunia luar tentang Fu Kun-chi adalah penguasaannya yang presisi terhadap celah hukum dan institusi. Setelah terpilih sebagai bupati pada tahun 2009, untuk menghindari peraturan yang melarang keluarga dekat menjabat sebagai asisten, dia bahkan mengurus "perceraian palsu" dengan istri Hsu Jen-wei, dan segera setelah itu menunjuk istri tersebut sebagai wakil bupati.[^2] Pengadilan Negeri Hualien mengakui bahwa ini adalah perceraian yang diatur untuk menghindari peraturan, dan menjatuhkan pidana enam bulan kepadanya dan empat bulan kepada Hsu Jen-wei (keduanya dapat ditukar dengan denda), yang juga membuka tirai "pemerintahan bergantian" pasangan suami istri Fu.[^2]
 
-Yang lebih dramatis adalah pada tahun 2020, setelah kembali ke parlemen, Fu Yi-chang divonis dua tahun sepuluh bulan dan harus menjalani hukuman penjara karena kasus manipulasi saham Kaiju.[^4] (Kasus ini berasal dari aktivitas manipulasi saham di era 1990-an, berbeda dengan kasus yang terjadi pada tahun 2018.) Pada saat itu, ia menciptakan kasus langka "menjabat sambil dipenjara," mempertahankan status dan gaji anggota legislatifnya bahkan di penjara. Keajaiban "memenjara sambil berpolitik" ini menjadi cerminan absurditas dari benturan antara sistem peradilan dan politik Taiwan.[^3]
+Aspek yang lebih dramatis lagi terjadi pada tahun 2020, ketika Fu Kun-chi yang telah kembali ke parlemen divonis karena kasus manipulasi saham Kaiqu dan kasus-kasus lainnya yang telah final, divonis dua tahun sepuluh bulan dan harus menjalani masa pidana.[^4] (Kasus ini berasal dari perilaku manipulasi saham era 1990-an, berbeda dari kasus lain yang final pada 2018.) Pada waktu itu dia menciptakan kasus yang langka dari "menjalani pidana sambil tetap menjabat", tetap mempertahankan status dan gaji sebagai anggota parlemen bahkan di dalam penjara. Fenomena "duduk di penjara sambil masih bertanya jawab di parlemen" ini menjadi miniatur dari absurditas di mana lembaga peradilan dan sistem politik Taiwan saling bertabrakan.[^3]
 
-### Ketua Delegasi Parlemen: Dari Tiran Lokal Menjadi Manipulator Pusat
+### Pimpinan Fraksi Parlemen: Dari Penguasa Lokal hingga Operator Pusat
 
-Pada tahun 2024, Fu Yi-chang kembali ke parlemen dan terpilih sebagai ketua delegasi Partai Nasionalis (KMT). Ini menandai bahwa pengaruhnya tidak lagi terbatas di Hulu, tetapi secara resmi telah memasuki inti kekuasaan negara. Ia dikenal dengan gaya kepemimpinannya yang kuat, menunjukkan daya tahan yang sangat besar dalam isu-isu penting seperti reformasi parlemen dan peninjauan anggaran, bahkan dicap oleh beberapa media sebagai "tiran parlemen."[^5]
+Pada tahun 2024, Fu Kun-chi kembali ke parlemen dan terpilih sebagai pemimpin fraksi Kuomintang. Ini menandai bahwa pengaruhnya tidak lagi terbatas pada pedesaan, melainkan secara formal memasuki inti kekuasaan negara. Dia dikenal karena gaya kepemimpinan yang tangguh, menunjukkan daya tarik perlawanan yang kuat dalam isu-isu besar seperti reformasi parlemen dan peninjauan anggaran, bahkan beberapa media mendeskripsikan dia sebagai "tiran parlemen".[^5]
 
-Hubungannya dengan Tiongkok daratan juga menjadi sorotan. Pada April 2024, setelah gempa bumi di Hualien, ia memimpin sejumlah anggota legislatif KMT mengunjungi Beijing untuk bertemu pejabat Kantor Urusan Taiwan (國台辦).[^6] Tindakan politik melintasi selat pada saat yang sensitif ini kembali memicu perdebatan sengit mengenai "kekuatan lokal yang terlibat dalam diplomasi."
+Hubungannya dengan Tiongkok daratan juga menjadi sorotan. Pada April 2024, dia memimpin beberapa anggota parlemen Kuomintang berkunjung ke Beijing setelah gempa bumi Hualien, bertemu dengan pejabat Taiwan Affairs Office.[^6] Aksi politik ini lintas selat pada waktu yang sensitif kembali memicu perdebatan sengit tentang "kekuatan lokal terlibat dalam diplomasi".
 
-### Ketahanan di Tengah Kontroversi: Sumber dan Harga Kekuasaan
+### Ketahanan di Tengah Kontroversi: Sumber dan Biaya Kekuatan
 
-Basis kekuasaan Fu Yi-chang berasal dari penempatan kebutuhan akar rumput Hualien secara presisi. Melalui proyek pembangunan skala besar dan layanan lokal yang erat, ia berhasil mengubah sumber daya pemerintah menjadi aset politik pribadinya.[^7] Namun, para kritikus berpendapat bahwa model tata kelola yang sangat terpusat pada keluarga Fu ini juga disertai kontroversi dalam mengelola hubungan media—seri laporan "Fu Yi-chang Bermuka Dua" menggambarkan dirinya menggunakan metode dua sisi ("satu wortel, satu tongkat") untuk mengelola media, dan dianggap telah menciptakan "monopoli opini" di Hualien.[^8]
+Fondasi kekuatan Fu Kun-chi berasal dari distribusinya yang presisi terhadap kebutuhan masyarakat akar rumput Hualien, mengubah sumber daya pemerintah menjadi aset politik pribadi melalui proyek konstruksi skala besar dan layanan masyarakat yang komprehensif.[^7] Namun, para kritikus berpendapat bahwa model tata kelola yang sangat terkonsentrasi di keluarga Fu juga disertai dengan kontroversi dalam pengelolaan hubungan media—seri "Fu Kun-chi Bermuka Dua" dari Reporter mendeskripsikan caranya mengelola media dengan "wortel di satu tangan, tongkat di tangan lain", dianggap telah membentuk "hegemoni satu suara" di Hualien yang merugikan suara berbeda.[^8]
 
-Gelar "Raja Hualien" adalah ketergantungan masyarakat Hualien padanya, sekaligus kekhawatiran dunia terhadap perubahan demokrasi lokal Taiwan. Kisah Fu Yi-chang bukan hanya sejarah kenaikan seorang tokoh politik, tetapi juga cermin kompleks yang mencerminkan politik lokal Taiwan, keadilan peradilan, dan sistem partai politik.
+Gelar "Raja Hualien" adalah sekaligus ketergantungan masyarakat Hualien terhadap dia dan kekhawatiran dunia luar terhadap transformasi kualitas demokrasi lokal Taiwan. Kisah Fu Kun-chi bukan hanya catatan promosi seorang tokoh politik, melainkan cermin kompleks yang memantulkan politik lokal Taiwan, keadilan peradilan, dan sistem kepartaian.
 
 ## Referensi
 
-[^1]: [Fu Yi-chang Bermuka Dua—Melihat Fenomena Raja Hualien](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - Reporter The Reporter
+[^1]: [雙面傅崐萁──透視花蓮王現象](https://www.twreporter.org/topics/hualien-fu-kun-chi-two-face) - Reporter (Laporan: Reporter)
 
-[^2]: [Istri Menjadi Wakil Bupati: Fu Yi-chang Dihukum Perceraian Palsu 6 Bulan](https://news.tvbs.com.tw/politics/53325) — TVBS News Network: Pengadilan Distrik Hualien menghukum Fu Yi-chang 6 bulan dan Hsu Hsin-wei 4 bulan (Putusan Pidana No. 358 Tahun 99 di Pengadilan Distrik Hualien)
+[^2]: [任妻當副手 傅崐萁假離婚判刑6月](https://news.tvbs.com.tw/politics/53325) — Jaringan Berita TVBS: Pengadilan Negeri Hualien menjatuhkan pidana enam bulan kepada Fu Kun-chi dan empat bulan kepada Hsu Jen-wei atas dasar kejahatan pemalsuan dokumen (Putusan Pidana Nomor 358 Tahun 99 Pengadilan Negeri Hualien)
 
-[^3]: [Kasus Manipulasi Saham Fu Yi-chang Diputus: Mengapa Ia Masih Bisa Menjabat Sebagai Anggota Legislatif Saat Bupati Dicopot?](https://opinion.udn.com/opinion/story/12322/4572559) — Ming Ren Tang: Laporan United News Agency
+[^3]: [傅崐萁炒股案定讞：為什麼當縣長被解職，當立委卻能帶職入監？](https://opinion.udn.com/opinion/story/12322/4572559) — Forum Suara: Laporan United Daily News
 
-[^4]: [Fu Yi-chang Dihukum 2 Tahun 10 Bulan dalam Kasus Manipulasi Kaiju dan Harus Dipenjara](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Central News Agency: Mahkamah Agung membatalkan banding pada 14 Mei 2020
+[^4]: [傅崐萁炒作凱聚案 判刑2年10月定讞須入獄](https://www.cna.com.tw/news/firstnews/202005145009.aspx) — Laporan Central News Agency: Pengadilan Agung menolak kasasi pada tanggal 14 Mei 2020, keputusan menjadi final
 
-[^5]: [Dari Raja Hualien ke Tiran Parlemen, Menganalisis Ilusi Kekuasaan Fu Yi-chang dan Krisis Toleransi KMT!](https://newcongress.tw/?p=32791) — Citizen Assembly, penulis Qin Jing (Istilah "Tiran Parlemen" berasal dari judul artikel ini)
+[^5]: [從花蓮王到國會暴君，解析傅崐萁的權力迷思與國民黨的縱容危機！](https://newcongress.tw/?p=32791) — Kongres Warga Baru, penulis Qin Jing (istilah komentar "tiran parlemen" berasal dari judul artikel ini)
 
-[^6]: [Kunjungan ke Tiongkok di Tengah Kontroversi Gempa: Fu Yi-chang: Pembangunan Kembali Pasca Bencana adalah Isu Penting](https://www.cna.com.tw/news/acn/202404270082.aspx) — Central News Agency: Pada April 2024, saat gempa susulan terus terjadi di Hualien, ia memimpin delegasi ke Beijing dan bertemu dengan Wakil Direktur Kantor Urusan Taiwan, Pan Xianzhang, yang mendampingi sepanjang waktu.
+[^6]: [地震爭議下訪中 傅崐萁：災後重建振興是重要課題](https://www.cna.com.tw/news/acn/202404270082.aspx) — Laporan Central News Agency: Di tengah gempa susulan Hualien yang terus-menerus pada April 2024, dia memimpin rombongan kunjungan ke Beijing, dengan wakil direktur Taiwan Affairs Office Pan Xianzhang menyambut dan mendampingi sepanjang waktu
 
-[^7]: [【Fu Yi-chang Kembali dalam Badai】Keluarga Menguasai Hualien Selama Lebih dari 30 Tahun: Lihat Kontroversi Fu Yi-chang Sekali](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo News (Mirror Weekly)
+[^7]: [【傅崐萁再陷風暴】家族縱橫花蓮逾 30 年 傅崐萁爭議一次看](https://tw.news.yahoo.com/%E5%82%85%E5%B4%90%E8%90%81%E5%86%8D%E9%99%B7%E9%A2%A8%E6%9A%B43-%E5%AE%B6%E6%97%8F%E7%B8%B1%E6%A9%AB%E8%8A%B1%E8%93%AE%E9%80%BE30%E5%B9%B4-%E5%82%85%E5%B4%90%E8%90%81%E7%88%AD%E8%AD%B0-%E6%AC%A1%E7%9C%8B-212855898.html) - Yahoo Berita (Mirror Weekly)
 
-[^8]: [Bintang Lima Bupati VS Raja Hualien, Siapa Sebenarnya Fu Yi-chang?](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Reporter The Reporter Seri "Fu Yi-chang Bermuka Dua"
+[^8]: [五星縣長 VS 花蓮王，那個才是傅崐萁？](https://www.twreporter.org/a/hualien-fu-kun-chi-branding) — Reporter (Laporan: Reporter) seri "Fu Kun-chi Bermuka Dua" bab bentuk citra

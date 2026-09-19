@@ -1,6 +1,6 @@
 ---
 title: "Entreprises taïwanaises : Les Trois Shang — Soixante ans de café, de chaussures et de polices d'assurance"
-description: "En 1964, trois étudiants de la faculté de commerce de l'Université nationale de Taïwan fondent les Trois Shang avec 500 000 dollars. Partant de l'exportation d'artisanat, le groupe est devenu, soixante ans plus tard, Meilian She, San Shang Qiao Fu, FamilyMart et San Shang Life. Presque chaque aspect de la vie quotidienne des Taïwanais croise ce groupe discret."
+description: "En 1964, trois étudiants de la faculté de commerce de l'Université nationale de Taïwan fondent les Trois Shang avec 500 000 dollars. Partant de l'exportation d'artisanat, le groupe est devenu, soixante ans plus tard, Meilian She, San Shang Qiao Fu, Chuan Chia Fu et San Shang Life. Presque chaque aspect de la vie quotidienne des Taïwanais croise ce groupe discret."
 date: 2026-08-08
 category: 'Economy'
 subcategory: '企業發展史'
@@ -27,7 +27,7 @@ sourceBodyHash: 'sha256:a06f7b884fa31776'
 translatedAt: '2026-08-09T15:34:31+08:00'
 ---
 
-> **En 30 secondes :** San Shang est un groupe rare à Taïwan, véritablement « quotidien » : le matin, vous achetez votre petit-déjeuner chez Meilian She, à midi vous mangez des nouilles au bœuf chez San Shang Qiao Fu, l'après-midi vous achetez des chaussures chez FamilyMart, et le soir vous consultez votre police d'assurance vie — tout cela peut provenir du même groupe. Son ancêtre est les « Trois Shang » (San Shang), fondés en 1964 par trois camarades de la faculté de commerce de l'Université nationale de Taïwan avec un capital de 500 000 dollars. En soixante ans, ils ont exercé le commerce d'exportation, les catalogues par correspondance, les grands magasins, les équipes de baseball, l'assurance vie et les principes pharmaceutiques. Le tournant le plus fascinant de cette histoire est la lettre interne de 2025 où Weng Zhaohui, âgé de 91 ans, annonce confier San Shang Life à Yu Shan Financial Holdings, tout en affirmant que « le groupe San Shang n'est pas parti ». L'histoire de ce groupe est presque une micro-histoire de la société de consommation taïwanaise.
+> **En 30 secondes :** San Shang est un groupe rare à Taïwan, véritablement « quotidien » : le matin, vous achetez votre petit-déjeuner chez Meilian She, à midi vous mangez des nouilles au bœuf chez San Shang Qiao Fu, l'après-midi vous achetez des chaussures chez Chuan Chia Fu, et le soir vous consultez votre police d'assurance vie — tout cela peut provenir du même groupe. Son ancêtre est les « Trois Shang » (San Shang), fondés en 1964 par trois camarades de la faculté de commerce de l'Université nationale de Taïwan avec un capital de 500 000 dollars. En soixante ans, ils ont exercé le commerce d'exportation, les catalogues par correspondance, les grands magasins, les équipes de baseball, l'assurance vie et les principes pharmaceutiques. Le tournant le plus fascinant de cette histoire est la lettre interne de 2025 où Weng Zhaohui, âgé de 91 ans, annonce confier San Shang Life à Yu Shan Financial Holdings, tout en affirmant que « le groupe San Shang n'est pas parti ». L'histoire de ce groupe est presque une micro-histoire de la société de consommation taïwanaise.
 
 ```tw-stat
 500 000 $ | Capital de fondation en 1964 | Trois étudiants de la faculté de commerce de l'Université nationale de Taïwan [^1]
@@ -99,7 +99,7 @@ En septembre 1988, les actions des Trois Shang sont cotées, avec un capital de 
 
 | Décennie  | Action                                                                                                       | Signification                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| 1991      | Création de FamilyMart Footwear                                                                              | Chaussures en vente au détail[^1]                           |
+| 1991      | Création de Chuan Chia Fu Footwear                                                                           | Chaussures en vente au détail[^1]                           |
 | 1993      | Création de San Shang Life, alliance stratégique avec MassMutual en 2001, renommée San Shang MassMutual Life | Entrée dans l'assurance financière[^1] [^12]                |
 | 1999–2000 | San Shang Computer entre au marché OTC puis boursier                                                         | Services informatiques[^1]                                  |
 | 2001      | Acquisition de 80 % de Xufu Chemical, renommée Xufu Pharmaceutical, cotation en 2004                         | Diversification dans les principes pharmaceutiques[^1] [^6] |
@@ -165,7 +165,7 @@ Cette lettre est la clé pour comprendre l'ensemble du groupe. Il dit que « les
 
 ## Alors ?
 
-Ainsi, la leçon que San Shang donne à Taïwan n'est pas la conclusion de manuel « succès de la diversification ». Ce qui mérite vraiment d'être retenu, c'est qu'un groupe d'entreprises peut rester soixante ans sans être sous les projecteurs, tout en étant incontournable dans la vie quotidienne de presque chaque Taïwanais. Les magasins de quartier de Meilian She, les nouilles au bœuf de San Shang Qiaofu, les chaussures de FamilyMart, cette police d'assurance vie dont le nom pourrait bientôt changer — la présence de San Shang est de s'être transformée en la structure de base de la vie quotidienne taïwanaise.
+Ainsi, la leçon que San Shang donne à Taïwan n'est pas la conclusion de manuel « succès de la diversification ». Ce qui mérite vraiment d'être retenu, c'est qu'un groupe d'entreprises peut rester soixante ans sans être sous les projecteurs, tout en étant incontournable dans la vie quotidienne de presque chaque Taïwanais. Les magasins de quartier de Meilian She, les nouilles au bœuf de San Shang Qiaofu, les chaussures de Chuan Chia Fu, cette police d'assurance vie dont le nom pourrait bientôt changer — la présence de San Shang est de s'être transformée en la structure de base de la vie quotidienne taïwanaise.
 
 Et lorsque, en 1999, ces fans ont lancé des rubans bleus au stade de Xinzhuang, ils ne disaient adieu qu'à une équipe de baseball. C'était l'époque où la gloire de l'exportation se retirait et où la consommation locale émergeait ; un groupe a fait une note pour cette époque. En 2025, Weng Zhaohui, âgé de 91 ans, a de nouveau fait une note pour le groupe — mais cette fois, la note est écrite sur le formulaire de transfert de la police d'assurance, adressée à Yu Shan Financial Holdings, et aussi à la rue Nanjing Ouest d'il y a soixante ans[^18].
 

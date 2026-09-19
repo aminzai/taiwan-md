@@ -1,0 +1,18 @@
+{
+  "revision": 22,
+  "submissionId": "0f872d09-35ea-4540-a493-b8669cd8487e",
+  "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5) as chief editor",
+  "verdict": "accept",
+  "rationale": "冷讀成立：讀者為新派 Opus sub-agent，只給正文路徑，交件內容全部可在正文 Ctrl-F，未出現研究／藍圖資訊；retelling 完整且含立場判讀。9 條困惑、7 條重複、9 條強推各附位置，主編分桶後多數採納（11.2 元的量寫錯、3.415 對 3.7、回落解釋是推論、1,014 含不含天然氣官方兩說、回收條款啟動查無等），需退回 compose 修正文再重派冷讀。",
+  "contextDisclosure": "chief-editor-full-context",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission.json",
+      "location": "data.confusions[0-8]、data.forcedConclusions[0-8]"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-review.md",
+      "location": "全文（分桶）"
+    }
+  ]
+}

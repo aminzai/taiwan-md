@@ -1,0 +1,22 @@
+{
+  "revision": 77,
+  "submissionId": "49cfbc18-ec12-4dbc-b3bb-a1ca640d6332",
+  "actor": "verify-reviewer-2 (Sonnet agent a25c3a2b274da7d8c, fresh context, submission + artifacts + raw; 重跑 3 條、四份 diff 新句逐一對原文)",
+  "verdict": "accept",
+  "rationale": "三條機械閘門重跑與 summary.tsv 一致。四份 diff 新句對回原文：投保天數句對上 113 新聞稿 L376-384；三百多萬＝42.6+67+126.5+48.3+42.3=326.7 萬逐項對上 11507 新聞稿與人力資源調查表 23；22K 句與 [^29] 一致；「講法」與許宇甄／民眾黨段一致。description 160 字。unresolved 誠實含投保天數項。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/113-新聞稿.txt",
+      "location": "L376-384"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11507-人力資源調查.txt",
+      "location": "L6960-6977"
+    },
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L3, L76, L108-125, L213, L251"
+    }
+  ],
+  "contextDisclosure": "fresh-context-submission-and-artifacts-only"
+}

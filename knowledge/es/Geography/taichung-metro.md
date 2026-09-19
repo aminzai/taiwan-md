@@ -1,15 +1,15 @@
 ---
-title: "Le métro de Taïwan : la ligne verte, trente ans après l'attente, apprend à être crédible"
-description: "En novembre 2020, Lu Hsiu-yen a annoncé le début du service d'essai de la première ligne de métro de Taïwan. La ligne verte de 16,7 km, reliant Beitun, le TGV de Taïwan et 18 stations, est tombée en panne au 6e jour à cause d'une défaillance du connecteur, avant de subir un accident d'engin de construction. L'histoire du métro de Taïwan n'est pas seulement celle d'un tracé achevé, mais celle d'une ville longtemps dépendante des voitures et scooters qui a dû regagner la confiance des passagers par la sécurité, les correspondances et les corrections successives."
+title: 'El Metro de Taichung: una línea verde que tardó 30 años en ser creída'
+description: 'En noviembre de 2020, Lu Siuyan anunció el inicio de las operaciones de prueba de la primera línea de metro de Taichung. La línea verde de 16,7 km conecta Beitun, la estación de alta velocidad de Taichung y 18 estaciones, pero se detuvo al sexto día por una falla en el acoplador y luego sufrió un accidente con la caída de un brazo de grúa en una obra. La historia del metro de Taichung no es solo cómo se completó una vía, sino cómo una ciudad dependiente del automóvil y la motocicleta recuperó la confianza de los pasajeros mediante la seguridad, la intermodalidad y correcciones sucesivas.'
 date: 2026-08-21
 category: 'Geography'
 tags:
   [
-    'métro',
-    'connecteur',
-    'édition',
-    'système de transport urbain',
-    'planification urbaine',
+    'Taichung',
+    'metro',
+    'línea verde',
+    'transporte urbano',
+    'planificación urbana',
   ]
 subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
@@ -23,192 +23,194 @@ translatedFrom: 'Geography/台中捷運.md'
 sourceCommitSha: '65acd39dc'
 sourceContentHash: 'sha256:930e1cf08d9847c7'
 sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-15T19:45:25+08:00'
+translatedAt: '2026-09-11T04:43:00+08:00'
 ---
 
-> **Aperçu en 30 secondes :** En 2020, la première ligne verte du métro de Taïwan est tombée en panne au 6e jour de son service d'essai à cause d'une défaillance du connecteur, ne commençant le service régulier qu'un an plus tard. Ce tracé aérien de 16,7 km relie Beitun, la rue Wenxin et la gare TGV de Taïwan, intégrant une ville qui dépendait traditionnellement des bus, motos et voitures dans une ère où les questions de correspondance, de sécurité et de marche devaient être abordées. Ce que cela a réellement changé, ce n'est pas seulement l'endroit d'où l'on monte, mais la manière dont Taïwan commence à se définir par sa distance, en partant du mot « prochaine station ».
+> **Resumen en 30 segundos:** En 2020, la primera línea verde del metro de Taichung se detuvo en el sexto día de las operaciones de prueba debido a una falla en el acoplador, logrando su apertura formal al año siguiente. Esta línea elevada de 16,7 km conecta Beitun, el bulevar Wenzxin y la estación de alta velocidad de Taichung, introduciendo a una ciudad que dependía de autobuses, motocicletas y automóviles en la era de las vías donde se debe discutir la intermodalidad, la seguridad y la movilidad peatonal. Lo que realmente cambia no es solo de dónde suben las personas, sino que Taichung comienza a comprender su propia distancia mediante el concepto de "la siguiente estación".
 
-Le 16 novembre 2020, Lu Hsiu-yen a annoncé le début du service d'essai de la ligne verte du métro de Taïwan ; cette ville avait pour la première fois son propre métro. Ce jour-là, plus de 70 000 passagers sont entrés dans les stations, un peu comme une grande dégustation urbaine où chacun vérifiait si Taïwan pouvait réellement devenir une ville propulsée par des rails.[^1]
+El 16 de noviembre de 2020, Lu Siuyan anunció el inicio de las operaciones de prueba de la línea verde del metro de Taichung, la primera vez que esta ciudad tuvo su propio metro. Ese día, más de 70.000 personas ingresaron a las estaciones, como si fuera una gran "degustación" urbana; la gente no solo viajaba, sino que confirmaba si Taichung podía realmente convertirse en una ciudad basada en el transporte sobre raíles. [^1]
 
-Six jours plus tard, l'axe du connecteur semi-permanent entre deux wagons s'est brisé, entraînant l'arrêt complet des 18 rames. La ligne verte, initialement prévue pour une mise en service fin 2020, n'a repris le chemin qu'au 25 avril de l'année suivante.[^2]
+Seis días después, el eje central del acoplador semi-permanente entre los vagones se rompió, deteniendo completamente los 18 trenes. La línea verde, originalmente prevista para abrir formalmente a finales de 2020, no volvió a circular hasta el 25 de abril del año siguiente. [^2]
 
-Ce qui mérite d'être écrit dans cette histoire, c'est précisément qu'elle ne s'est pas déroulée selon un scénario préétabli. Le métro de Taïwan n'est pas une simple ponctuation signifiant « enfin, nous avons un métro », mais représente un lieu où les rues sont larges, où circulent beaucoup de motos et où la ville est dispersée ; c'est ici qu'il a fallu pour la première fois placer la sécurité, les correspondances et la confiance sur une seule carte.
+Lo más valioso de esta línea es que no siguió el guion de la ceremonia. El metro de Taichung no es un punto final de "finalmente tenemos metro", sino que representa un lugar con calles anchas, mucha circulación de automóviles y motocicletas, y una ciudad dispersa, que por primera vez debe colocar la seguridad, la intermodalidad y la confianza en el mismo mapa de rutas.
 
-![Train de la ligne verte du métro de Taïwan circulant sur un tracé aérien](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Tren de la línea verde del metro de Taichung circulando sobre vías elevadas](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Figure : Train de la ligne verte du métro de Taïwan. Photographie : Cbliu. Source de l'image : [Page Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), sous licence ouverte du bureau des nouvelles de la ville de Taïwan, à indiquer lors de l'utilisation.[^3]_
+_Leyenda: Tren de la línea verde del metro de Taichung. Fotografía: Cbliu. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), bajo licencia de datos abiertos del Bureau de Información del Gobierno Municipal de Taichung, indicando la fuente al utilizarla. [^3]_
 
-## Une ville qui commence par « sans métro »
+## Una ciudad que comienza con "no tener metro"
 
-Le projet de métro de Taïwan n'est pas un plan apparu soudainement. Les données officielles sur le réseau remontent les origines du projet aux années 1990. La ligne Wuri-Wenxin Beitun a été approuvée comme réseau initial en 2004, et en 2008, des accords de construction et d'exploitation ont été signés par le ministère des Transports, la ville de Taïwan et la municipalité de Taipei, avec un début des travaux en octobre 2009.[^4]
+El plan del metro de Taichung no surgió de un plano azul repentino. Los datos oficiales de la red rastrean el punto de inicio de la planificación hasta la década de 1990. La línea Wuri-Wenxin-Beitun fue aprobada en 2004 por el Yuan Ejecutivo como la red inicial; en 2008, el Ministerio de Transporte y Comunicaciones, el Gobierno Municipal de Taichung y el Gobierno Municipal de Taipéi firmaron el acuerdo de construcción y operación; y en octubre de 2009 comenzó la construcción. [^4]
 
-Cette période fut longue, au point que le nom de la ligne, les entreprises de construction et l'imaginaire urbain ont changé plusieurs fois. La ligne verte est finalement devenue un système à moyenne capacité aérien d'environ 16,7 km, s'étendant depuis la gare centrale de Beitun vers le sud en traversant l'ouest de la ville pour se connecter à la gare TGV de Taïwan, avec un total de 18 stations. Elle n'est pas directement connectée à la gare du chemin de fer national de Taïwan (TRA) de Taïwan ; ce choix rappelle que le métro n'est pas une baguette magique qui résout tous les problèmes de transport d'un coup, mais qu'il s'agit d'abord d'établir un squelette viable.[^5]
+Este periodo fue muy largo, tanto que el nombre de la línea, las unidades constructoras y la imaginación urbana cambiaron varias veces. La línea verde se convirtió finalmente en un sistema de transporte mediano sobre raíles de aproximadamente 16,7 km de longitud, que desde la estación terminal de Beitun rodea el lado oeste del área urbana hasta conectar con la estación de alta velocidad de Taichung, sumando un total de 18 estaciones. No entra directamente a la estación de trenes de Taichung (TRA), una elección que recuerda a las personas que el metro no es una magia que resuelve todos los problemas de transporte de una vez, sino que primero selecciona un esqueleto viable. [^5]
 
-> Ce qu'une ligne de métro change réellement, ce n'est pas seulement le temps de trajet, mais la manière dont les gens jugent si « cet endroit est un centre urbain ».
+> Lo que una línea de metro realmente cambia no es solo el tiempo de desplazamiento, sino la forma en que las personas juzgan "si este lugar cuenta como el centro de la ciudad".
 
-> **📝 Note du curateur**
-> L'aspect contre-intuitif de la ligne verte ne réside pas dans le fait qu'elle soit plus rapide que d'autres villes, mais dans le fait qu'elle a transformé le débat « Taïwan a-t-il besoin d'un métro ? » en une question quotidienne que les gens peuvent vérifier par eux-mêmes.
+> **📝 Nota del curador**
+> La intuición inversa de la línea verde de Taichung no radica en que sea más rápida que la de otras ciudades, sino en convertir la controversia de "¿Taichung necesita metro?" en una pregunta de vida diaria que se puede verificar personalmente cada mañana.
 
-L'ampleur du projet est facilement occultée par l'événement de la mise en service. Le _Railway Gazette_ rapporte que la construction de la ligne verte, débutée en 2009, s'étendait sur environ 16,7 km avec un coût total d'environ 59,3 milliards de dollars taïwanais (NTD), dont environ 32,8 milliards couverts par le gouvernement central. Le train utilise un système sans conducteur et est composé de 36 rames à deux voitures.[^5]
+La escala de la ingeniería también se puede ocultar fácilmente bajo el término "apertura". _Railway Gazette_ informó que la construcción de la línea verde comenzó en 2009, con una longitud de ruta de aproximadamente 16,7 km y un costo total de aproximadamente 59.300 millones de NTD, de los cuales el gobierno central asumió alrededor de 32.800 millones. Los trenes adoptan un sistema de conducción sin conductor, y la flota está compuesta por 36 conjuntos de trenes de dos vagones. [^5]
 
-Le même projet a nécessité des travaux au-dessus de quartiers denses. Les dossiers du fournisseur Otis, fabricant d'ascenseurs et d'escaliers mécaniques, indiquent que le projet comprenait 117 escaliers mécaniques lourds et 59 ascenseurs, avec des espaces de construction pour certaines stations situés à seulement 5 ou 6 mètres des bâtiments environnants. Ces chiffres ne sont pas qu'une liste d'équipements ; ils expliquent pourquoi la ligne verte a toujours ressemblé à une opération chirurgicale parallèle aux rues existantes.[^6]
+La misma obra debía realizarse sobre un tejido urbano denso. Los registros de proyectos de Otis, proveedor de escaleras mecánicas y ascensores, indican que la obra incluye 117 escaleras mecánicas de carga pesada y 59 ascensores, y que en algunas estaciones el espacio de construcción estaba a solo unos 5 o 6 metros de los edificios circundantes. Estos números no son solo una lista de equipos; explican por qué la línea verde de Taichung siempre ha parecido una cirugía paralela a las calles existentes. [^6]
 
-## L'affluence du premier jour et les fissures du sixième
+## La multitud del primer día y la grieta del sexto día
 
-Le samedi suivant le service d'essai, l'agence _Central News Agency_ (CNA) a enregistré 47 094 passagers jusqu'à 14 heures, avec une estimation de plus de 90 000 passagers pour la journée. Les gares TGV de Taïwan, Beitun et celle du gouvernement étaient les trois points névralgiques les plus fréquentés, tandis que la gare Songzhu desservait également les navettes des fêtes au parc national de Songzhu et à l'International Flower Carpet Festival de Taïwan.[^1]
+El primer sábado de las operaciones de prueba, la Agencia Central de Noticias (CNA) registró que la línea verde había alcanzado 47.094 pasajeros antes de las 2 p. m., estimándose que el volumen total del día podría superar las 90.000 personas. Las estaciones de alta velocidad de Taichung, Beitun y el Gobierno Municipal se convirtieron en los tres nodos más calientes; la estación Songzhu incluso incorporó autobuses de transporte complementario festivos hacia el Festival de Flores de Xinshe y el Festival Internacional de Alfombras de Flores de Taichung. [^1]
 
-Cette scène ressemblait à une ville en file d'attente pour son avenir. Les passagers prenaient des photos des wagons et du tracé aérien avec leurs cartes, et les produits dérivés du métro étaient vendus au « Club social vert » de la gare TGV de Taïwan. Le métro était considéré à la fois comme un moyen de transport et comme un souvenir urbain qu'on pouvait ramener chez soi.
+Esta escena se asemeja a una ciudad haciendo cola para recibir el futuro. Los pasajeros tomaban sus tarjetas, fotografiaban los vagones y las vías elevadas, y los productos del metro se vendían en la "Pequeña Tienda Verde de Beneficios" en la estación de alta velocidad de Taichung. El metro se trataba como un medio de transporte, pero también como un recuerdo urbano que se podía llevar a casa.
 
-Mais le 22 novembre, le premier service d'essai s'est terminé plus tôt dans la soirée. Une inspection ultérieure par le MRT a révélé que l'axe du connecteur semi-permanent entre les wagons était rompu. Le _Grand Recueil du MRT_ (Chienjie Daishi Ji) indique que les 18 rames ont été immobilisées pour maintenance, et que la municipalité a formé un comité d'examen des accidents, avant de procéder au remplacement par des axes améliorés et à des tests sur 300 km.[^2]
+Sin embargo, el 22 de noviembre, la primera fase de operaciones de prueba se terminó anticipadamente por la noche. Las inspecciones posteriores de la Compañía de Metro de Taichung revelaron que el eje de tracción del acoplador semi-permanente entre los vagones se había roto. El registro de eventos importantes de la compañía indica que los 18 trenes se detuvieron completamente para inspección y reparación; el gobierno municipal estableció un comité de revisión de accidentes, luego reemplazó el eje por una versión mejorada y realizó pruebas de circulación de 300 km. [^2]
 
-> **📝 Note du curateur**
-> La confiance en une nouvelle ville n'est pas gagnée le jour de l'inauguration. Elle se construit lentement après la panne, lorsque « où est-ce qui a cassé, comment ça a été réparé et qui vérifie » sont expliqués point par point.
+> **📝 Nota del curador**
+> La confianza de una nueva ciudad no se gana el día de la apertura. Se construye lentamente después de una falla, aclarando punto por punto "dónde falló, cómo se repara y quién lo confirma".
 
-La chronologie du CNA décrit clairement ce retard. La ligne verte était initialement prévue pour une mise en service en décembre 2020, mais elle n'a repris le service d'essai qu'au 25 mars 2021 après la panne, et a commencé son service régulier le 25 avril.[^2] Ce n'est pas un simple retard de construction ; c'est ce type de délai que les transports publics ont le plus de mal à gérer : les passagers ont vu les stations, ont pris des trains, mais ne peuvent pas encore l'utiliser comme une routine fiable.[^2]
+La cronología de la CNA deja claro este retraso. La línea verde estaba prevista originalmente para abrir en diciembre de 2020; tras la falla, no volvió a las operaciones de prueba hasta el 25 de marzo de 2021 y a las operaciones formales el 25 de abril. Esto no es solo una demora de ingeniería, sino el tipo de retraso más difícil de manejar en el transporte público: los pasajeros ya han visto las estaciones y han subido a los trenes, pero aún no pueden considerarlo fiable para su vida diaria. [^2]
 
-Du point de vue des ingénieurs, la leçon est concrète. Les tests ne sont pas un rituel avant l'ouverture, mais un travail continu d'inspection après celle-ci. Du point de vue des passagers, c'est une autre question : une ligne peut être nouvelle, mais elle ne peut exiger que les gens valident sa fin par leur propre corps.
+Desde la perspectiva de los ingenieros, la lección de esta línea es concreta. Las pruebas no son una ceremonia previa a la apertura, sino un trabajo de revisión continua que debe realizarse incluso después de la apertura. Desde la perspectiva de los pasajeros, surge otro problema: una línea puede ser muy nueva, pero no se debe exigir a los pasajeros que usen sus propios cuerpos para completar la última validación.
 
-## La ligne verte n'est pas seulement un lien entre deux extrémités
+## La línea verde no solo conecta dos puntos extremos
 
-La ligne verte est le plus souvent comprise comme une ligne de correspondance « Beitun à TGV ». Cette compréhension n'est pas fausse, mais elle est trop étroite. Elle intègre les zones résidentielles de Beitun, la correspondance avec le TRA à Songzhu, l'activité commerciale sur la rue Wenxin, le cœur administratif autour du gouvernement, et la gare TGV de Taïwan dans un même système de titres de transport et d'espacement des trains.
+La línea verde se entiende fácilmente como una línea de transporte complementario "de Beitun a la alta velocidad". Esta comprensión no es incorrecta, pero es demasiado estrecha. Al mismo tiempo, coloca en el mismo billete y frecuencia de trenes las zonas residenciales de Beitun, la intermodalidad de la TRA en Songzhu, las actividades comerciales en el bulevar Wenzxin, el núcleo administrativo alrededor del Gobierno Municipal y la estación de alta velocidad de Taichung.
 
-Cette ligne rend l'échelle urbaine de Taïwan tangible. Le tracé aérien passe au-dessus des rues, et les stations avec leurs escaliers mécaniques amènent les gens d'un niveau à un autre. Ce qui n'était qu'une proximité sur une carte devient une unité concrète grâce à la « prochaine station ». La ville n'est plus décrite uniquement par la longueur de ses routes, mais aussi par le temps d'attente entre deux stations.
+Esta línea también hace perceptible la escala urbana de Taichung. Las vías elevadas pasan sobre las calles, y las estaciones con sus escaleras mecánicas llevan a las personas desde el nivel del suelo a otra altura. Lugares que antes solo eran adyacentes en el mapa ahora tienen la unidad concreta de "la siguiente estación". La ciudad ya no se describe solo por la longitud de las carreteras, sino también por el tiempo de espera entre estaciones.
 
-Le _Railway Gazette_ souligne que la ligne verte contourne l'ouest du centre-ville sans desservir la gare TRA de Taïwan. Ce manque fait d'elle davantage un squelette qu'un réseau complet. Le Bureau des projets de métro de la municipalité a intégré dans sa vision globale le prolongement de la ligne verte vers Dakeng et Changhua, ainsi que les lignes bleue, orange, violette et rouge.[^4] [^5]
+_Railway Gazette_ señala que la línea verde rodea el lado oeste del centro urbano y no sirve a la estación de trenes de Taichung (TRA). Esta laguna la hace parecer más un primer esqueleto que una red completa. El Bureau de Ingeniería del Metro del Gobierno Municipal actualmente incluye la extensión de la línea verde a Dakeng y Changhua, así como las rutas posteriores de la línea azul, naranja, púrpura y roja, en la visión de la red de transporte sobre raíles integral. [^4] [^5]
 
-![Train du métro de Taïwan approchant de la gare TGV de Taïwan](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Tren del metro de Taichung acercándose a la estación de alta velocidad de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Figure : Train du métro de Taïwan approchant de la gare TGV de Taïwan. Photographie : WC-QHS. Source de l'image : Page Wikimedia Commons, sous licence CC BY-SA 2.0, à indiquer lors de l'utilisation.[^9]_
+_Leyenda: Tren del metro de Taichung acercándose a la estación de alta velocidad de Taichung. Fotografía: WC-QHS. Fuente de la imagen: Página de archivo de Wikimedia Commons, bajo licencia CC BY-SA 2.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^9]_
 
-[Page Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
+[Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
 
 ```tw-timeline
-La ligne verte de Taïwan n'est pas apparue du jour au lendemain (Année)
-1993 | Planification initiale | Le système de métro métropolitain de Taïwan commence une planification institutionnalisée
-2004 | Approbation de la ligne verte | La ligne Wuri-Wenxin Beitun est approuvée comme réseau initial
-2009 | Début des travaux | La ligne verte entre dans sa phase de construction à long terme
-2020 | Service d'essai | Les 18 stations sont ouvertes au public pour la première fois
-2021 | Mise en service officielle | Reprise du service d'essai et mise en service après réparation
-Source : Bureau des projets de métro de Taïwan, Taiwan MRT Corporation, CNA
+La línea verde de Taichung no apareció de la noche a la mañana (año)
+1993 | Planificación inicial | El sistema de transporte mediano sobre raíles de la zona metropolitana de Taichung comienza a entrar en la planificación institucional
+2004 | Aprobación de la línea verde | La línea Wuri-Wenxin-Beitun se convierte en la red inicial
+2009 | Inicio de construcción | La línea verde entra formalmente en la etapa de construcción a largo plazo
+2020 | Operaciones de prueba | Las 18 estaciones se abren por primera vez al público
+2021 | Apertura formal | Reanuda las operaciones de prueba y las operaciones formales tras la inspección y reparación de fallas
+Fuente: Bureau de Ingeniería del Metro del Gobierno Municipal de Taichung, Compañía de Metro de Taichung, Agencia Central de Noticias
 ```
 
-> **📝 Note du curateur**
-> La valeur d'une première ligne n'est pas qu'elle ait connecté Taïwan, mais qu'elle ait fait de la prochaine ligne une promesse que les passagers peuvent comparer.
+> **📝 Nota del curador**
+> El valor de la primera línea no es que haya conectado completamente Taichung, sino que hace que la siguiente línea deje de ser solo una línea de colores para convertirse en una promesa que los pasajeros pueden comparar.
 
-## L'impact d'une ligne de métro ne se limite pas au nombre de passagers
+## El impacto de una línea de metro no está solo en el número de pasajeros
 
-Le métro est souvent discuté en termes de volume de passagers et de prix immobiliers, mais ces deux éléments ne peuvent représenter seuls la transformation urbaine. Une étude réalisée en 2022, basée sur des données de transactions immobilières entre 2012 et 2021, a analysé le marché résidentiel traversé par la ligne verte et a découvert qu'en moyenne, le prix unitaire diminuait de 0,4 % pour chaque augmentation de 100 mètres par rapport à une station de métro. L'étude a également noté que l'amélioration marginale de l'accessibilité du métro était plus faible dans les zones où le réseau de bus était déjà bien développé.[^7]
+A menudo se habla del metro en términos de volumen de pasajeros y precios de la vivienda, pero ninguno de los dos puede representar por sí solo la transformación urbana. Un estudio de 2022 que utilizó un modelo de precios hedónicos basado en datos de transacciones residenciales de 2012 a 2021 analizó el mercado residencial en los distritos atravesados por la línea verde, descubriendo que por cada 100 metros que aumentaba la distancia de la vivienda a la estación del metro, el precio unitario disminuía en un promedio del 0,4 %. El estudio también señaló que en áreas con una red de autobuses más desarrollada, la mejora marginal de la accesibilidad debida al metro era menor. [^7]
 
-Ce résultat est encore plus intéressant lorsqu'on le transpose aux conditions de transport de Taïwan. Taïwan disposait déjà de bus, motos et de larges routes ; la ligne verte a ajouté un système à des habitudes de transport préexistantes. Sa capacité à changer la vie dépend de la volonté des gens de prendre un bus devant leur porte, de faire une correspondance à Songzhu ou à la gare TGV, puis de finir le trajet à pied.
+Este resultado, contextualizado en las condiciones de transporte de Taichung, resulta aún más interesante. Taichung ya contaba con autobuses, motocicletas y carreteras anchas; la línea verde se incorporaba a un sistema con hábitos de transporte ya establecidos. Su capacidad para cambiar la vida depende de si la gente está dispuesta a cambiar al autobús en su puerta, hacer transbordo en Songzhu o la estación de alta velocidad, y entregar el último tramo a la caminata.
 
-En d'autres termes, les variations du prix immobilier près des stations ne sont qu'un résultat parmi d'autres. La question plus importante est de savoir si les stations font réellement en sorte que les gens fassent moins de trajets en moto, permettent aux enfants d'aller jusqu'à la station à pied, et offrent plus d'options aux personnes qui ne conduisent pas à Taïwan. Le succès d'un projet d'infrastructure de transport ne doit pas être mesuré uniquement par « combien ça coûte cher autour », mais aussi par « pour qui cela a créé une méthode d'arrivée supplémentaire ».
+En otras palabras, los cambios en los precios de la vivienda cerca de las estaciones del metro son solo uno de los resultados. La pregunta más importante es si las estaciones realmente hacen que las personas monten menos en motocicleta, permiten que los niños caminen solos hasta la entrada de la estación y ofrecen más opciones a quienes no conducen automóviles en Taichung. El éxito de la infraestructura de transporte no debería medirse solo por "cuánto se ha encarecido el área cercana", sino también preguntando "quién ha ganado una nueva forma de llegar".
 
-## La ville au-dessus des stations, le quotidien en dessous
+## La ciudad sobre las estaciones, la vida diaria debajo
 
-La plupart des tronçons de la ligne verte sont aériens, ce qui fait des stations une sorte d'entrée urbaine verticale. Les passagers marchent d'abord depuis un passage couvert, une intersection ou un arrêt de bus jusqu'au bâtiment de la station, puis montent par escalier mécanique et ascenseur pour arriver sur le quai. Le dossier du projet Otis indique que les 18 stations de la ligne verte ont nécessité l'installation de 117 escaliers mécaniques lourds et 59 ascenseurs dans des conditions qui ne perturbaient pas le trafic quotidien ou humain.[^6]
+La mayoría de los tramos de la línea verde son de forma elevada, lo que convierte las estaciones en una especie de entrada vertical a la ciudad. Los pasajeros primero caminan desde los pórticos, intersecciones o paradas de autobús hasta la estructura de la estación, luego suben por las escaleras mecánicas y ascensores, y finalmente llegan al andén. Los registros de proyectos de Otis indican que la línea verde tiene 18 estaciones, y que durante la construcción debió instalar 117 escaleras mecánicas de carga pesada y 59 ascensores sin interferir con el flujo diario de vehículos y peatones. [^6]
 
-![Quai de la station gouvernementale du métro de Taïwan, ligne verte](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![Andén de la línea verde de la estación del Gobierno Municipal del metro de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Figure : Quai de la station gouvernementale du métro de Taïwan, ligne verte. Photographie : Cheng,Cheng-en, utilisateur Wikimedia Rail02000. Source de l'image : [Page Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), sous licence CC BY-SA 4.0, à indiquer lors de l'utilisation.[^10]_
+_Leyenda: Andén de la línea verde de la estación del Gobierno Municipal del metro de Taichung. Fotografía: Cheng, Cheng-en, usuario de Wikimedia Rail02000. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), bajo licencia CC BY-SA 4.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^10]_
 
-Ce déplacement vertical a son prix. Pour ceux qui sont pressés, la distance jusqu'à l'escalier est le coût de la correspondance. Pour les personnes en poussette, en fauteuil roulant ou avec des bagages, savoir si un ascenseur est facile à trouver est une condition préalable pour utiliser le métro. L'accessibilité du métro ne commence pas lorsque le train arrive au quai, mais dès le premier mètre depuis le trottoir jusqu'à l'entrée.
+Este movimiento vertical tiene su costo. Para las personas con prisa, la distancia en la entrada de las escaleras mecánicas se convierte en un costo de transbordo. Para quienes empujan cochecitos, usan sillas de ruedas o llevan equipaje, la facilidad para encontrar los ascensores es un prerrequisito para poder usar el metro. La accesibilidad del metro no comienza solo cuando el tren llega al andén; se decide desde el primer tramo, desde la acera hasta la entrada.
 
-La ligne verte est donc un rappel suspendu au-dessus de la ville : les rails peuvent traverser des pâtés de maisons, mais la vie ne peut pas être en suspension. Les trottoirs autour des stations, les abris, les correspondances en bus et l'éclairage nocturne déterminent si un métro aérien est une routine pratique ou seulement une ligne jolie sur une carte.
+La línea verde de Taichung, por tanto, también actúa como una advertencia suspendida sobre la ciudad: las vías pueden cruzar los barrios, pero la vida no puede quedar suspendida en el aire. Las aceras alrededor de las estaciones, las instalaciones contra la lluvia, el transporte complementario de autobuses y la iluminación nocturna determinarán si un metro elevado es una comodidad diaria o solo una línea bonita en el mapa.
 
-> **📝 Note du curateur**
-> Le métro aérien soulève le train, mais il ne soulève pas le passager au-dessus du sol. La vraie ingénierie urbaine se déroule toujours sur ce tronçon avant l'entrée.
+> **📝 Nota del curador**
+> El metro elevado eleva los trenes, pero no eleva a los pasajeros fuera del suelo. La verdadera ingeniería urbana sigue ocurriendo en el camino previo a la entrada.
 
-## Comment les stations connectent deux modes de transport
+## Cómo las estaciones conectan dos tipos de transporte
 
-La photo du quai de la station gouvernementale rend la logique spatiale du métro aérien concrète. Le train s'arrête au-dessus de la ville, mais en dessous du quai se déroule le quotidien des bureaux, du commerce et des intersections routières. Ce que les passagers voient est un train qui arrive ; ce que la ville gère réellement, c'est comment connecter l'entrée de la station, les escaliers mécaniques, le quai et le chemin piétonnier au sol en un flux fluide sans nécessiter de devinettes répétées.[^10]
+Las fotos del andén de la estación del Gobierno Municipal hacen concreto el lógica espacial del metro elevado. Los trenes se detienen sobre la ciudad, y debajo del andén sigue habiendo la vida diaria de oficinas, comercio e intersecciones viales. Lo que ven los pasajeros es un tren entrando a la estación; lo que realmente asume la ciudad es cómo conectar la entrada de la estación, las escaleras mecánicas, el andén y las rutas peatonales del suelo en un flujo que no requiera adivinaciones repetidas. [^10]
 
-La photo de la station Songzhu présente une autre problématique. Le métro et le TRA ne sont pas deux points abstraits ; ils doivent être connectés par des entrées/sorties, des escaliers, des zones abritées et des panneaux directionnels. Lorsque les voyageurs transportent leurs bagages ou changent à l'heure de pointe, la distance de correspondance devient une note sur le service public. Cela explique pourquoi la valeur d'une ligne ne peut pas être jugée uniquement par la vitesse du train, mais aussi par si les portes entre deux systèmes s'ouvrent réellement.[^11]
+Las fotos de la estación Songzhu presentan otro problema. El metro y la TRA (Ferrocarril de Taiwán) no son dos nodos abstractos; deben conectarse mediante salidas y entradas, escaleras, espacios cubiertos y señalización direccional. Cuando los viajeros arrastran equipaje o cambian de tren en horas pico, la distancia de transbordo se convierte directamente en la calificación que una persona da al transporte público. Esto explica por qué el valor de una ruta no se puede juzgar solo por la velocidad del tren, sino también por si las puertas entre los dos sistemas están realmente abiertas juntas. [^11]
 
-Du point de vue de l'urbanisme, les stations dans les images ne sont pas un décor, mais le résultat d'une politique de transport. Le tracé aérien élève la fonction de transport principale, ce qui rend encore plus nécessaire au niveau du sol des espaces piétons sûrs, clairement signalés et continus. Si une station ne fait que la fonction ferroviaire sans faire la fonction piétonne, le métro reste un équipement isolé par morceaux.
+Desde la perspectiva del diseño urbano, las estructuras de las estaciones en las fotos no son un fondo, sino el resultado de la política de transporte. Las vías elevadas elevan la función principal de transporte, por lo que el nivel del suelo necesita aún más cruces seguros, señalización clara y espacios peatonales continuos. Si las estaciones solo cumplen la función de los trenes pero no la de los peatones, el metro seguirá siendo cortado en equipos aislados.
 
-> **📝 Note du curateur**
-> Le moment où les images sont les plus utiles n'est pas lorsqu'elles embellissent l'article, mais lorsqu'elles transforment l'abstraction « la correspondance est importante » en une porte visible et un chemin à parcourir.
+> **📝 Nota del curador**
+> Lo más útil de las imágenes no es añadir paisajes al artículo, sino convertir la frase abstracta de "la transbordo es importante" en una puerta visible y un camino que debe recorrerse.
 
-## En 2023, la question de la sécurité revient au-delà des portes
+## En 2023, los problemas de seguridad vuelven a estar fuera de las puertas del tren
 
-Le 10 mai 2023, le train de la ligne verte a heurté un bras de grue tombé d'un chantier de construction près de la station Fengle Park, tuant une passagère nommée Lin Shuya et blessant 10 personnes. Après l'accident, le MRT a proposé des mesures telles que le renforcement du signalement d'urgence, la possibilité pour les passagers d'empêcher la fermeture des portes, et l'amélioration de l'accès aux sacs d'outils par les accompagnateurs. Des dispositifs d'urgence et de détection d'obstacles ont également été prévus.[^8]
+El 10 de mayo de 2023, un tren de la línea verde chocó cerca de la estación de Parque Fengle con un brazo de grúa que cayó a las vías desde una obra de construcción, causando la muerte de la pasajera Lin Shuya y heridas a otras 10 personas. Tras el accidente, la Compañía de Metro propuso reforzar los gestos de emergencia, permitir que los pasajeros impidan el cierre de las puertas, facilitar que el personal a bordo acceda a las bolsas de herramientas, y planificó instalar botones de emergencia en las estaciones y dispositivos de identificación de obstáculos más visibles. [^8]
 
-Cet accident a déplacé la frontière de sécurité de l'intérieur du train vers la ville. La compagnie de métro peut gérer la station, le train et le tracé, mais les chantiers de construction adjacents au tracé aérien, les grues et la gestion du chantier entrent directement dans le parcours des passagers. Lorsque le métro traverse un quartier dense, chaque projet urbain devient potentiellement partie intégrante du système ferroviaire.
+Este accidente empujó los límites de la seguridad desde el interior del tren hacia la ciudad. La compañía de metro puede gestionar las estaciones, los trenes y las vías, pero las obras de construcción junto a las vías elevadas, los brazos de grúa y la gestión de la construcción también entran directamente en la ruta de viaje de los pasajeros. Cuando el metro atraviesa tejidos urbanos densos, cada obra de la ciudad puede convertirse en parte del sistema de vías.
 
-L'enquête sur l'accident et les améliorations subséquentes ne devraient pas être considérées comme une annexe de l'histoire de l'inauguration. Le _Grand Recueil du MRT_ indique que le comité d'enquête a publié son rapport en 2023, et que les cinq recommandations faites par la municipalité et le MRT ont toutes été mises en œuvre. Cette « réalisation » doit être continuellement vérifiée, car la sécurité n'est pas un certificat de clôture, mais ce que tout le monde sait faire avant qu'une nouvelle anomalie ne se produise.[^2]
+La investigación del accidente y las mejoras posteriores no deberían considerarse un apéndice de la historia de la apertura. El registro de eventos importantes de la Compañía de Metro indica que la Comisión de Seguridad de Transporte publicó el informe de investigación del accidente en 2023, y que las 5 recomendaciones presentadas por el gobierno municipal y la compañía de metro se han completado. Este "completado" sigue necesitando ser verificado continuamente, porque la seguridad no es un certificado de cierre, sino saber qué hacer antes de que ocurra la próxima anomalía. [^2]
 
-> Le dispositif le plus important du métro, au-delà des capteurs sur les rails, est la réaction collective de chacun sachant quand il faut s'arrêter.
+> El equipo más importante del metro, además de los sensores en las vías, incluye la reacción común de cada persona sabiendo cuándo debe detenerse.
 
-## Qu'est-ce que les passagers retiendront ?
+## Qué recordarán finalmente los pasajeros
 
-Le _Grand Recueil du MRT_ indique que la ligne verte a dépassé 10 millions de passagers cumulés en septembre 2022, avec 59 000 passagers lors des fêtes de fin d'année 2023, et un nouveau record mensuel en décembre 2024. Les données officielles indiquent plus de 60 millions de passagers cumulés en janvier 2026, avec une satisfaction globale des voyageurs à 95,6 % en 2025. Ces chiffres montrent que la ligne verte est passée du statut d'expérience nouvelle à celui d'usage quotidien.[^2]
+El registro oficial de la Compañía de Metro indica que la línea verde superó los 10 millones de pasajeros acumulados en septiembre de 2022, registró 59.000 pasajeros durante el transporte de víspera de Año Nuevo de 2023, y alcanzó un récord histórico de volumen mensual en diciembre de 2024. Para enero de 2026, los datos oficiales registran que el volumen acumulado superó los 60 millones de pasajeros, con una satisfacción general de los viajeros del 95,6 % en 2025. Estos números muestran que la línea verde ha pasado de ser una experiencia novedosa a un uso diario. [^2]
 
 ```tw-stat
-Les trois échelles de la ligne verte de Taïwan
-16,7 km | Longueur totale | Principal tracé aérien
-18 stations | Nombre de stations | De Beitun à TGV de Taïwan
-60 millions de passagers | Volume cumulé | Enregistrement officiel du MRT en janvier 2026
-Source : Railway Gazette, Taiwan MRT Corporation
+Tres escalas de la línea verde de Taichung
+16,7 km | Longitud total de la línea | Ruta elevada principal
+18 estaciones | Número de estaciones | Desde la estación terminal de Beitun hasta la estación de alta velocidad de Taichung
+60 millones de pasajeros | Volumen acumulado | Registro oficial de la Compañía de Metro de enero de 2026
+Fuente: Railway Gazette, Compañía de Metro de Taichung
 ```
 
-Mais ce que les passagers retiendront peut-être, ce ne sont pas les 16,7 km, ni un record de fréquentation, mais l'ombre et la lumière à la station Wenxin Forest Park, le changement à Songzhu, le train sur le quai de la gare TGV, ou la foule au niveau des escaliers mécaniques par temps de pluie, où les gens n'ont pas encore appris à utiliser le métro.
+Sin embargo, lo que los pasajeros realmente recuerdan puede no ser los 16,7 km, ni un registro de volumen específico, sino la luz y la sombra en la estación del Parque Forestal Wenzxin, el transbordo en Songzhu, los trenes en el andén de la estación de alta velocidad, o un día lluvioso cuando la entrada de las escaleras mecánicas estaba abarrotada de personas que aún no sabían cómo tomar el metro.
 
-Le sens urbain du métro de Taïwan réside dans ces répétitions non spectaculaires. Certains y sont allés pour la première fois au travail, d'autres ont emmené leurs enfants à la gare TGV, et certains n'ont plus eu besoin de chercher une place de parking pour un événement. Le tracé fixe transforme l'avenir de la ville en un geste quotidien qui se répète. Ce n'est que lorsque le bâtiment de la station, le quai, les correspondances et la rue sont reliés par un même voyage que le métro cesse d'être un terme technique pour devenir une vie urbaine.
+El significado urbano del metro de Taichung se esconde en estas repeticiones poco espectaculares. Alguien toma el tren por primera vez para ir a trabajar; alguien lleva a los niños a la estación de alta velocidad; alguien ya no necesita buscar estacionamiento para ver un evento. Las vías fijas convierten el futuro de la ciudad en una acción que se puede repetir cada día. Cuando las estructuras de las estaciones, los andenes, el transbordo y las calles se unen en un mismo viaje, el metro se convierte realmente de un término de ingeniería a la vida urbana.
 
-## La correspondance n'est pas un exercice supplémentaire, c'est la deuxième voie de la ligne verte
+## El transbordo no es un ejercicio adicional, es la segunda vía de la línea verde
 
-Les 18 stations de la ligne verte ne complètent jamais un voyage seules. Pour la plupart des passagers, le vrai parcours est : domicile $\rightarrow$ arrêt de bus $\rightarrow$ entrée du métro $\rightarrow$ quai $\rightarrow$ destination, puis marche jusqu'au bureau, à l'école ou au centre commercial. Chaque changement nécessite un nouveau calcul du temps. Si une partie manque d'abri, de signalisation claire ou si le temps d'attente est trop long, les passagers peuvent revenir à leur moto familière.
+Las 18 estaciones de la línea verde no completan un viaje por sí solas. Para la mayoría de los pasajeros, la ruta real es desde la casa hasta la parada de autobús, desde la parada de autobús hasta la entrada del metro, desde el andén hasta el destino, y desde la última estación hasta la oficina, la escuela o el centro comercial. Cada cambio de mano puede hacer que las personas recalculen el tiempo. Si uno de estos tramos no tiene protección contra la lluvia, indicadores claros o si el tiempo de espera es demasiado largo, los pasajeros pueden volver a sus conocidas motocicletas.
 
-L'importance des gares Songzhu et TGV de Taïwan réside dans le fait qu'elles rendent la ligne verte plus qu'un simple trajet entre deux extrémités. La première intègre le métro au réseau de correspondance du TRA ; la seconde place les rails urbains, le TGV, les bus de navette et les déplacements inter-villes sur un même calendrier. La valeur de ces nœuds ne réside pas dans la taille des stations elles-mêmes, mais dans la capacité des modes de transport à différentes vitesses à se connecter lors d'une sortie commune.[^1] [^4]
+La importancia de las estaciones Songzhu y de la alta velocidad de Taichung radica en que hacen que la línea verde no sea solo una ruta única entre dos extremos. La primera integra el metro en la red de transbordo de la TRA; la segunda coloca el transporte sobre raíles de la ciudad, el ferrocarril de alta velocidad, los autobuses complementarios y el movimiento interurbano en el mismo horario. El valor de estos nodos no es el tamaño de la estructura en sí, sino si los vehículos de diferentes velocidades pueden conectarse en un mismo viaje. [^1] [^4]
 
-La prochaine question du métro de Taïwan n'est pas simplement « combien de lignes faut-il construire ». Une fois le réseau allongé, les titres de transport, l'espacement des trains, la distance de correspondance et la conception de l'information doivent tous grandir ensemble. Si chaque ligne est pratique individuellement, mais que la correspondance demande une longue marche, ce que la ville gagne n'est qu'plus d'options, pas un accès plus facile. C'est pourquoi la municipalité a planifié le prolongement de la ligne verte en intégrant les lignes bleue, orange, violette et rouge dans l'ensemble du réseau.[^4]
+La siguiente pregunta de la línea verde de Taichung, por tanto, no es tan simple como "cuántas líneas más se construirán". A medida que la red se alarga, los billetes, las frecuencias, las distancias de transbordo y el diseño de la información deben crecer juntos. Si cada línea es conveniente por sí misma, pero al cambiar de línea hay que caminar mucho, la ciudad podría obtener solo más opciones, en lugar de una vida más fácil de alcanzar. Esta es la razón por la que el gobierno municipal planifica la extensión de la línea verde junto con las líneas azul, naranja, púrpura y roja en la red integral. [^4]
 
-Du point de vue de la gestion de projet, la correspondance est là où l'on peut le mieux mesurer si une infrastructure publique est centrée sur l'utilisateur. La ponctualité des trains peut être prouvée par les systèmes ; la volonté des passagers d'en prendre un autre dépend s'ils peuvent traverser une intersection en toute sécurité après être descendus, s'ils savent où vient le prochain bus, et s'ils n'ont pas à faire de détours avec leurs bagages. Le bilan urbain de la ligne verte se trouve dans ces détails qui ne figurent pas sur les photos d'inauguration.
+Desde la gestión de ingeniería, el transbordo sigue siendo el lugar que mejor mide si la infraestructura pública se centra en el usuario. La puntualidad del tren puede ser demostrada por los registros del sistema; si los pasajeros están dispuestos a subir de nuevo depende de si pueden cruzar la intersección de forma segura al salir, si saben de dónde viene el siguiente autobús y si pueden evitar desvíos cuando llevan equipaje. El logro urbano de la línea verde caerá finalmente en estos detalles que no aparecen en las fotos de inauguración.
 
-![Entrée/sortie entre la station Songzhu du métro de Taïwan et la gare TRA de Songzhu](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Entrada y salida entre la estación Songzhu del metro de Taichung y la estación Songzhu de la TRA](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Figure : Entrée/sortie entre la station Songzhu du métro de Taïwan et la gare TRA de Songzhu. Photographie : Tbatb. Source de l'image : [Page Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), sous licence CC BY-SA 4.0, à indiquer lors de l'utilisation.[^11]_
+_Leyenda: Entrada y salida entre la estación Songzhu del metro de Taichung y la estación Songzhu de la TRA. Fotografía: Tbatb. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), bajo licencia CC BY-SA 4.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^11]_
 
-> Le moment où une ligne de métro est dessinée sur une carte ne nécessite que deux extrémités ; pour être intégrée dans la vie, elle a besoin de beaucoup de chemins. La vraie correspondance consiste à convaincre ces chemins d'être un seul voyage.
+> **📝 Nota del curador**
+> Dibujar una línea de metro en el mapa solo requiere dos puntos extremos; vivir en la vida requiere muchos tramos. El verdadero transbordo es convencer a estos tramos de que forman un mismo viaje.
 
-## Après la ligne verte, qu'est-ce que Taïwan doit encore répondre ?
+## Después de la línea verde, ¿qué debe responder aún Taichung?
 
-La première ligne a fait entrer Taïwan à l'ère du métro, mais elle n'a pas automatiquement fait de tous des passagers réguliers. La connexion entre la ligne verte et les bus, l'environnement piétonnier autour des stations, la correspondance avec le TRA et le TGV, ainsi que la progression future des réseaux comme les lignes bleue et rouge, détermineront si cette ligne est un objet d'exposition isolé ou l'ossature du transport urbain.[^4]
+La primera línea introdujo a Taichung en la era del metro, pero no convirtió automáticamente a todos en pasajeros del metro. La conexión de la línea verde con los autobuses, el entorno peatonal alrededor de las estaciones, el transbordo con la TRA y la alta velocidad, y si las futuras líneas azul y roja se pueden推进 (avanzar) según el plan, determinarán si esta línea se convierte finalmente en una pieza de exhibición aislada o en el esqueleto del transporte urbano. [^4]
 
-C'est là le paradoxe le plus mémorable du métro de Taïwan : il annonce un changement urbain par son tracé aérien, mais il doit toujours dépendre des bus, de la marche et des routes existantes pour accomplir chaque voyage. Le métro n'a pas remplacé la ville ; il a simplement réorganisé les choix de transport qui étaient auparavant dispersés.
+Este es el contraste más memorable del metro de Taichung: anuncia que la ciudad está cambiando mediante vías elevadas, pero aún debe depender de autobuses, caminata y carreteras existentes para completar cada viaje. El metro no reemplaza a la ciudad; reorganiza las opciones de transporte que antes estaban dispersas.
 
-> Taïwan attend réellement une vie urbaine où « on peut arriver sans conduire », et pas seulement un autre métro. La ligne verte a commencé à répondre, mais elle n'a pas fini.
+> **📝 Nota del curador**
+> Lo que Taichung espera realmente es una vida urbana diaria "en la que se pueda llegar sin conducir un automóvil", no solo otra línea de metro. La línea verde ya ha comenzado a responder, pero aún no ha terminado de hacerlo.
 
-La panne d'automne 2020 a appris à Taïwan qu'un métro doit apprendre à se corriger en premier lieu. L'accident de la grue en 2023 lui a montré que la sécurité du métro ne peut pas être confinée dans les murs de la station. Alors que la ligne verte continue d'accumuler des passagers, elle continue de transformer les promesses de la ville en un tracé vérifiable.
+La falla de noviembre de 2020 hizo que Taichung supiera que un metro debe aprender primero a corregirse. El accidente del brazo de grúa de 2023 le hizo saber que la seguridad del metro no puede encerrarse solo dentro de los muros de las estaciones. A medida que la línea verde sigue acumulando viajeros, también sigue convirtiendo la promesa de la ciudad en una ruta que puede ser inspeccionada.
 
-La destination n'est ni la gare TGV de Taïwan, ni une couleur future sur le plan du réseau. Pour le passager, la vraie destination est le jour où il ne demande plus « y a-t-il un métro à Taïwan ? », mais consulte directement l'heure d'arrivée du prochain train.
+El punto final no es la estación de alta velocidad de Taichung, ni el siguiente color en el mapa de la red futura. Para los pasajeros, el verdadero punto final es el día en que ya no necesite preguntar primero "¿tiene Taichung metro?", sino que simplemente consulte a qué hora llega el siguiente tren.
 
-## Lectures complémentaires
+## Lecturas adicionales
 
-- [Bureau des projets de métro de Taïwan : Réseau général](https://tcrt.taichung.gov.tw/content/index?Parser=1,6,44)
-- [Taiwan MRT Corporation : Grand Recueil](https://www.tmrt.com.tw/about/major-events)
-- [Wikimedia Commons : Train of Taichung MRT.jpg](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg)
+- [Bureau de Ingeniería del Metro del Gobierno Municipal de Taichung: Red de transporte sobre raíles integral](https://tcrt.taichung.gov.tw/content/index?Parser=1,6,44)
+- [Compañía de Metro de Taichung: Registro de eventos importantes](https://www.tmrt.com.tw/about/major-events)
+- [Wikimedia Commons: Train of Taichung MRT.jpg](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg)
 
-## Références
+## Referencias
 
-[^1]: _CNA : L'affluence du premier week-end de la ligne verte du métro de Taïwan pourrait dépasser les 90 000 passagers_. (https://www.cna.com.tw/news/ahel/202011210186.aspx) — Rapport sur le volume de passagers en direct lors du premier week-end d'essai en novembre 2020, les principales stations de correspondance et l'incident de dysfonctionnement des trains, offrant un aperçu des réactions des passagers au début de la mise en service.
+[^1]: [Agencia Central de Noticias: La ola de aprovechamiento del metro verde de Taichung podría superar las 90.000 personas en el primer fin de semana](https://www.cna.com.tw/news/ahel/202011210186.aspx) — Reporta el volumen de pasajeros en tiempo real, las principales estaciones de transbordo y los incidentes anómalos de los trenes el primer sábado de las operaciones de prueba en noviembre de 2020, proporcionando el escenario periodístico de la reacción inicial de los pasajeros tras la apertura.
 
-[^2]: _Taiwan MRT Corporation : Grand Recueil_. (https://www.tmrt.com.tw/about/major-events) — Le _Grand Recueil_ du MRT compile annuellement les dossiers de planification, de construction, de pannes de connecteurs, d'inauguration officielle, d'améliorations suite aux accidents et le volume cumulé, servant de source primaire pour la chronologie et les données les plus récentes de cet article.
+[^2]: [Compañía de Metro de Taichung: Registro de eventos importantes](https://www.tmrt.com.tw/about/major-events) — El registro oficial anual de la compañía de metro organiza la planificación, construcción, falla del acoplador, apertura formal, mejoras de accidentes y volumen acumulado de pasajeros; es la fuente primaria de la cronología y los datos más recientes de este artículo.
 
-[^3]: _Wikimedia Commons : Train of Taichung MRT.jpg_. (https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg) — La page du fichier indique le photographe Cbliu ; l'image provient des données publiques du bureau des nouvelles de la ville de Taïwan, sous licence ouverte du site gouvernemental, autorisant la reproduction et la modification en indiquant la source.
+[^3]: [Wikimedia Commons: Train of Taichung MRT.jpg](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg) — La página de archivo indica al fotógrafo Cbliu; la imagen proviene de datos públicos del Bureau de Información del Gobierno Municipal de Taichung, bajo licencia de datos abiertos del sitio web gubernamental, permitiendo reproducción y adaptación indicando la fuente.
 
-[^4]: _Bureau des projets de métro de Taïwan : Réseau général_. (https://tcrt.taichung.gov.tw/content/index?Parser=1,6,44) — La municipalité de Taïwan explique l'évolution de la planification du métro, le tracé prioritaire de la ligne verte, ainsi que les orientations globales pour les lignes vertes, bleues, oranges, violettes et rouges.
+[^4]: [Bureau de Ingeniería del Metro del Gobierno Municipal de Taichung: Red de transporte sobre raíles integral](https://tcrt.taichung.gov.tw/content/index?Parser=1,6,44) — El gobierno municipal de Taichung explica la evolución de la planificación del metro, la ruta prioritaria de la línea verde, la extensión de la línea verde, y las direcciones de la red integral como las líneas azul, naranja, púrpura y roja.
 
-[^5]: _Railway Gazette : Taichung Green Line ready to open_. (https://www.railwaygazette.com/metro-metro-categories/2020/11/11/taichung-green-line-ready-to-open/) — Un média professionnel ferroviaire international a compilé avant le service d'essai la longueur de la ligne verte, son budget, ses stations, les trains sans conducteur et sa configuration aérienne, offrant une source croisée en anglais.
+[^5]: [Railway Gazette: Taichung Green Line ready to open](https://www.railwaygazette.com/metro-metro-categories/2020/11/11/taichung-green-line-ready-to-open/) — El medio internacional especializado en ferrocarriles organizó antes de las operaciones de prueba la longitud de la línea verde, costos, estaciones, trenes sin conductor, extremos de la ruta y configuración elevada, proporcionando una fuente cruzada en inglés.
 
-[^6]: _Otis Global Projects : Taichung MRT_. (https://www.otis.com/en/us/our-company/global-projects/taichung-mrt) — La page du fournisseur d'ascenseurs et d'escaliers mécaniques documente les 18 stations de la ligne verte, les 117 escaliers mécaniques lourds, les 59 ascenseurs et la coordination des travaux dans des quartiers denses, complétant l'échelle des équipements sur le site.
+[^6]: [Otis Global Projects: Taichung MRT](https://www.otis.com/en/us/our-company/global-projects/taichung-mrt) — La página de proyecto del proveedor de escaleras mecánicas y ascensores registra las 18 estaciones de la línea verde, 117 escaleras mecánicas de carga pesada, 59 ascensores y la coordinación de construcción en tejido urbano denso, complementando la escala de los equipos en el sitio de ingeniería.
 
-[^7]: _Shao Quanru, Chen Fengyao : Étude sur l'impact de la ligne verte du métro de Taïwan sur les prix résidentiels environnants_. (https://www.airitilibrary.com/Article/Detail/10232591-202207-202208120004-202208120004-1-22) — Une étude publiée dans le _Journal d'économie foncière_ en 2022 a établi un modèle basé sur des cas de transactions entre 2012 et 2021 pour analyser la relation entre la distance du métro, le réseau de bus et les prix immobiliers.
+[^7]: [Shao Xuanru, Chen Fengyao: Estudio sobre el impacto de la línea verde del metro de Taichung en los precios residenciales circundantes](https://www.airitilibrary.com/Article/Detail/10232591-202207-202208120004-202208120004-1-22) — Estudio de 2022 en el _Anuario de Economía de la Tierra_ que utilizó casos de transacciones de 2012 a 2021 para establecer un modelo, analizando la relación entre la distancia al metro, la red de autobuses y los precios de la vivienda.
 
-[^8]: _Taipei Times : MRT company proposes changes after fatal crash_. (https://www.taipeitimes.com/News/taiwan/archives/2023/05/15/2003799815) — Un reportage en anglais résume l'accident mortel de la grue à Fengle Park en 2023, les victimes, le temps de sauvetage, les lacunes procédurales et les solutions de sécurité proposées par le MRT.
+[^8]: [Taipei Times: MRT company proposes changes after fatal crash](https://www.taipeitimes.com/News/taiwan/archives/2023/05/15/2003799815) — Reporte en inglés que organiza las bajas y heridas del accidente de caída del brazo de grúa en la estación de Parque Fengle en 2023, el tiempo de rescate, las lagunas procedimentales y las propuestas de mejora de seguridad de la compañía de metro.
 
-[^9]: _Wikimedia Commons : 2020-11-20 MRT train near HSR Taichung Station_. (https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg) — La page du fichier indique le photographe WC-QHS ; l'image provient de Flickr, sous licence Creative Commons Attribution-ShareAlike 2.0 Generic, autorisant le partage et la modification à condition d'indiquer l'auteur, le lien de licence et de partager en même temps.
+[^9]: [Wikimedia Commons: 2020-11-20 MRT train near HSR Taichung Station](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg) — La página de archivo indica al fotógrafo WC-QHS; la foto original proviene de Flickr, bajo licencia Creative Commons Attribution-ShareAlike 2.0 Generic, permitiendo compartir y adaptar pero requiriendo atribución del autor, enlace a la licencia y compartir bajo la misma licencia.
 
-[^10]: _Wikimedia Commons : Taichung Metro Taichung City Hall Station Green Line Platform_. (https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg) — La page du fichier indique l'auteur Cheng,Cheng-en et l'utilisateur Wikimedia Rail02000 ; sous licence Creative Commons Attribution-ShareAlike 4.0 International, autorisant le partage et la modification à condition d'indiquer l'auteur, la licence et de partager en même temps.
+[^10]: [Wikimedia Commons: Taichung Metro Taichung City Hall Station Green Line Platform](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg) — La página de archivo indica al autor Cheng, Cheng-en, usuario de Wikimedia Rail02000, bajo licencia Creative Commons Attribution-ShareAlike 4.0 International, permitiendo compartir y adaptar pero requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia.
 
-[^11]: _Wikimedia Commons : Entrance-exit between Taichung Metro Songzhu Station and TRA Songzhu Station 02_. (https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg) — La page du fichier indique l'auteur Tbatb ; sous licence Creative Commons Attribution-ShareAlike 4.0 International, autorisant le partage et la modification à condition d'indiquer l'auteur, la licence et de partager en même temps.
+[^11]: [Wikimedia Commons: Entrance-exit between Taichung Metro Songzhu Station and TRA Songzhu Station 02](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg) — La página de archivo indica al autor Tbatb, bajo licencia Creative Commons Attribution-ShareAlike 4.0 International, permitiendo compartir y adaptar pero requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia.

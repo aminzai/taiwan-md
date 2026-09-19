@@ -1,0 +1,27 @@
+{
+  "revision": 116,
+  "stage": "release",
+  "actor": "主 session Taiwan.md（golden-bell，Opus 5）——交付準備；最終裁決交 release 站具名主編評閱",
+  "artifacts": [
+    "knowledge/Culture/金鐘獎.md",
+    "reports/research/2026-09/金鐘獎.md",
+    "reports/article-projection/金鐘獎.md",
+    "reports/editorial-room/金鐘獎-projection-review.md",
+    "reports/research/2026-09/金鐘獎-stage35-audit.md",
+    "reports/research/2026-09/金鐘獎-stage36-audit.md",
+    "reports/article-evolve/金鐘獎-closing.md"
+  ],
+  "data": {
+    "recommendation": "推薦交付。理由落在具體段落：(1) §1「中山堂的八座金鐘，一台電視也沒有」——十三位獨立冷讀者的 changedUnderstanding 全部指向同一個反差（金鐘出生是純廣播獎），這是文章真正給讀者的新東西，且 1965 八座七家與 1971 納入電視皆逐字對回報時光原報。(2) §3「得獎單位那一欄」——老三台 1981–1997 無例外、1999 民視、2000 公視、2002 大愛、2010 製作公司永續傳播第一次寫進得獎單位欄（bamid 99 年名單只列製作公司，release 站主編指出原「跟頻道並排」是格式推論後改正）、2011 客家電視《雲頂天很藍》（影視局一手推翻研究報告的《犀利人妻》誤讀）、2020 福斯、2021 台灣大哥大、2023–2025 製作公司單獨掛名，逐筆有官方頁或維基得獎標記；表格與正文經五輪冷讀後分類不再重疊，1971–1978「大眾娛樂性節目」前身也補了銜接。(3) §4「同一份獎勵要點」——105 vs 106 年度四條逐字對照（law.moc.gov.tw／gba.tavis.tw），公視「額度收緊 vs 入圍 60 項」兩個量已分開講，三事實並排的用意明寫、不做球員兼裁判暗示。(4) §6 廣播那一半——1,096 vs 824 的對比、特別獎從缺的門檻 hedge 攤給讀者（報導三分之二、要點查無）、獲推薦者本人直言不具名。(5) §7 典禮之夜——YouTube 兩組同口徑數字翻倍、電視數字明寫不同口徑不能比。(6) §8 第 61 屆——公視系與 Netflix 系各 13 項並列、Netflix 40 項「跟三年前同一個數字，不是新高」直接反證公關稿「歷史新高」。論點「名單記錄，它不決定；要點決定門，評審決定門內」在 §3 筆記、§4 末、§8 末三處落地，十三位冷讀者中沒有一位把它讀成「金鐘是橡皮章」。 第二次交付：release 站主編第一輪 revise 的擋 ship 項（2010「並排」）已改為有官方頁支撐的事實並補 [^71]；表格製作公司列補 2010／2015 先例、措辭「沒有頻道，領銜的都是製作公司」；非擋 ship 三項（門重述、「並非本屆新增」）已順修，description 以專案 CJK 量尺為 127 字在區間內。回修後又過兩位冷讀者（十四、十五號）與 verify 站第二、三輪。",
+    "remainingLimits": [
+      "典禮 10/17、10/23、10/24 尚未舉行，文章停在名單已印、結果未念；頒獎後需 EVOLVE-delta 補結果（§8 與 30 秒概覽）",
+      "[^46][^48]（中時、關鍵評論網）本機 403，第 59／60 屆收視與直播數字只對回腳註描述與研究 §2 log，未能本輪重抓原文",
+      "「這幾次名單換手，前面都先有一次頻道結構的變動」是四組個案的統合觀察，已用「這幾次」限定；十三位冷讀者中多位仍覺得像規律，主編三次裁定保留",
+      "「門」的主題句三次、首尾呼應的中山堂場景、公視 60／客家 26／原視 8 兩節各一次——多位冷讀者標為重複，主編裁定為結構性呼應保留",
+      "研究報告的 3-bis fact-pack 回填（2011 客家台、七家電台、公視非最多、廣播各屆日期、108 年度官方頁、[^54] TVBS、1971 前身、丁文祺頭銜、2010 製作公司、1984 禮讚酒會）排在本站 accept 之後、ship 之前執行",
+      "金曲獎 sibling 因 pre-existing prose-health HARD，reverse cross-link 依 Stage 5.3 defer（issue #1748）",
+      "run 事件紀錄兩處缺口（cold-read 第 2 輪與 compose 第 9 次的 revise 評閱未進 state.json，verdict 在 staging JSON）"
+    ],
+    "humanReview": "尚無人類審閱。frontmatter lastHumanReview: false。全部評閱（orient 5 輪、investigate 3 輪、compose 23 次提交／20 次評閱、cold-read 15 位讀者／13 輪評閱、verify 3 輪、release 第一輪）皆由乾淨 context 的 Sonnet 或 Opus agent 完成，主 session 未自評。哲宇（創造者）尚未看過成品；ship 後由他在 main 上審。"
+  }
+}

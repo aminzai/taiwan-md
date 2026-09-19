@@ -7,22 +7,22 @@ category: 'Geography'
 subcategory: '歷史街區 / 台北市大同區'
 tags:
   [
-    '大稻埕',
-    '迪化街',
-    '台北市',
-    '大同區',
-    '歷史街區',
-    '茶葉貿易',
-    '李春生',
-    '陳天來',
-    '二二八',
-    '天馬茶房',
-    '霞海城隍廟',
-    '蔣渭水',
-    '太平町',
-    '頂下郊拼',
+    'Dadaocheng',
+    'Calle Dihua',
+    'Taipéi',
+    'Distrito Datong',
+    'Barrio histórico',
+    'Comercio del té',
+    'Li Chun-sheng',
+    'Chen Tian-lai',
+    'Incidente 228',
+    'Casa de té Tianma',
+    'Templo Xiahai Chenghuang',
+    'Chiang Wei-shui',
+    'Taiheichō',
+    'Conflicto de Dingxiajiaopin',
     'Formosa Tea',
-    '歷史街區系列',
+    'Serie de barrios históricos',
   ]
 readingTime: 16
 lastVerified: 2026-05-21
@@ -214,7 +214,7 @@ La próxima vez que camines por Dihua Street, levanta la vista hacia los relieve
 - [Cultura del té de Taiwán](/es/culture/taiwanese-tea-culture-and-living-aesthetics) — El Formosa Tea y el contexto completo de la industria del té en el norte de Taiwán
 - [Incidente del 228](/es/history/228-incident) — El incidente encendido por aquel paquete de cigarrillos en 1947, la represión posterior y la justicia transicional
 - [Movimientos sociales en Taiwán durante el período japonés](/es/history/social-movements-during-japanese-rule) — Jiang Weishui y la Asociación Cultural en el solar 199 de Ping Ancho
-- [Baladas y canciones populares de Taiwán](/es/music/Taiwan Folk Music and Songs) — «Wang Chunfeng» de 1932 y Columbia Records en Ping Ancho
+- [Baladas y canciones populares de Taiwán](/es/music/taiwan-folk-music-and-songs) — «Wang Chunfeng» de 1932 y Columbia Records en Ping Ancho
 - [Bangka](/es/geography/bangka) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 huyeron desde Bajiazhuang en Bangka hasta Dadaocheng: las dos calles son el resultado de la misma pelea callejera
 - [Ximending](/es/geography/ximending) — Barrio histórico hermano del mismo lote 1: zona de entretenimiento japonés de 1896 vs. calle comercial Qing de Dadaocheng, dos momentos de «formación de calle» en contraste
 - [Dalongdong](/es/geography/dalongdong) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 se retiraron primero a Donglongdong con el templo Bao'an como centro de defensa, y luego se trasladaron a Dadaocheng: la estación intermedia omitida en la narrativa habitual de Dadaocheng

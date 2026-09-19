@@ -47,9 +47,9 @@ sporeLinks:
     date: '2026-05-28'
     url: 'https://x.com/taiwandotmd/status/2060010924015321462'
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f61'
-sourceContentHash: 'sha256:bad67aad8b965996'
-sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-08-09T09:26:48+08:00'
 ---
 
@@ -310,7 +310,7 @@ Vì vậy, "cô ấy đi phát triển ở Trung Quốc" khung là không chính
 
 Tối thứ Bảy, ngày 25 tháng 4 năm 2026, Năm Giác Đài Bắc.
 
-Đây là buổi hòa nhạc Năm Giác lần đầu tiên của Chu Huệ sau 27 năm ra mắt[^5]. Buổi hòa nhạc tên "Tôi Muốn Yêu Chu Huệ Thực Sự Tốt", thiết kế sân khấu được giao cho nhà thiết kế được bình chọn bởi Lễ Trao Giải Kim Khúc Lễ Trao Giải Kim Mã Lạc Sĩ Kỳ, sử dụng ý tưởng kính vạn hoa（万花筒）, toàn bộ 3 giờ, 25 bài hát[^34]. Sau khi bán ra trưa ngày 22 tháng 1, vé bán hết nhanh chóng, đã mở thêm một show.
+Đây là buổi hòa nhạc Năm Giác lần đầu tiên của Chu Huệ sau 27 năm ra mắt[^5]. Buổi hòa nhạc tên "Tôi Muốn Yêu Chu Huệ Thực Sự Tốt", thiết kế sân khấu được giao cho nhà thiết kế được bình chọn bởi Lễ Trao Giải Kim Khúc Lễ Trao Giải Kim Mã Lạc Sĩ Kỳ, sử dụng ý tưởng kính vạn hoa（万花筒）, toàn bộ 3 giờ, 25 bài hát[^34]. Vé mở bán trưa ngày 22 tháng 1 theo hình thức vào cửa đúng tên; chỉ diễn ra một đêm duy nhất[^41].
 
 ![Ngày 25 tháng 4 năm 2026, Chu Huệ ở sân khấu Năm Giác Đài Bắc "Tôi Muốn Yêu Chu Huệ Thực Sự Tốt" buổi hòa nhạc, 27 năm ra mắt lần đầu tiên tấn công Năm Giác](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _2026-04-25 Năm Giác Đài Bắc "Tôi Muốn Yêu Chu Huệ Thực Sự Tốt" buổi hòa nhạc. Bình luận xử lý công bằng. [Nguồn qua TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -455,3 +455,5 @@ Bài viết sử dụng 3 bức ảnh tác phẩm công khai, tất cả đượ
 [^39]: [YouTube: MV Chính Thức Chu Huệ "Thân Thay"](https://www.youtube.com/watch?v=WUKnbOlicps) — MV Chính Thức "Thân Thay" trên kênh chính thức Chu Huệ Where Chou, năm 2000 bài ngoại khóa cho bộ phim truyền hình "Phụ Nữ Vàng Bề" Đài Truyền Hình Trung Quốc Hồng Kông; từ sáng tác theo trang web lời bài hát mạng là Quý Trung Bình, nhưng dữ liệu bài hát chính thức Fukumoto chưa trực tiếp xác minh, được liệt kê dưới dạng single-source.
 
 [^40]: [Wikipedia Tiếng Trung: Công Nhân](https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — ) — )) — Mục bộ phim truyền hình "Công Nhân" Wikipedia, verified lần đầu tiên phát sóng 2020-05-10 HBO Asia, Chu Huệ đóng vai Pei Pei (công nhân tạm thời bị bạo lực gia đình, nhân viên biết hát)
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

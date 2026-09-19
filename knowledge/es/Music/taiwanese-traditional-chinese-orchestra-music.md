@@ -40,7 +40,7 @@ Erhu, pipa, dizi, guzheng. Los instrumentos no tenían postura política, pero l
 
 Con esa carga, cruzó el estrecho.
 
-Pero Taiwán no era una página en blanco. La isla ya tenía las tradiciones de templo del [[Música y canciones populares taiwanesas|nanguan]] y el [[Música y canciones populares taiwanesas|beiguan]], los arpas de boca y los tambores de madera de los pueblos indígenas, y una base de educación musical occidental dejada por la era japonesa.[^5] Cuando la "música nacional" se trasplantó a esta isla con sonido propio, estaba destinada a producir algo distinto.
+Pero Taiwán no era una página en blanco. La isla ya tenía las tradiciones de templo del [nanguan](/es/music/taiwan-folk-music-and-songs/) y el [beiguan](/es/music/taiwan-folk-music-and-songs/), los arpas de boca y los tambores de madera de los pueblos indígenas, y una base de educación musical occidental dejada por la era japonesa.[^5] Cuando la "música nacional" se trasplantó a esta isla con sonido propio, estaba destinada a producir algo distinto.
 
 > **📝 Nota de la curadora**
 > En Taiwán, la educación de la _música nacional_ y la educación operística se separaron desde el inicio. La National Taiwan College of Performing Arts (antes Fuxing Drama School, fundada en 1957) se centró en música teatral; la National Taiwan University of Arts (antes National Taiwan Academy of Arts, fundada en 1955) desarrolló la interpretación instrumental pura.[^6] Esta división es rara en el mundo chino: en China continental, conservatorios y ópera suelen integrarse. La consecuencia: la _música nacional_ taiwanesa partió pronto hacia un camino de "música pura" en lugar de quedar como acompañamiento operístico.
@@ -69,13 +69,13 @@ El punto de inflexión llegó en 2007. El compositor Chung Yiu-kwong asumió la 
 
 Su respuesta fue encargar muchas obras nuevas a compositores taiwaneses con temática local. En sus ocho años de mandato (2007-2015), el repertorio de TCO pasó de centrarse en piezas tradicionales chinas a tener mayoría de obras originales taiwanesas.[^12] No fue solo corrección política: resolvía un problema real de mercado: el público necesitaba una razón para entrar en la sala de la _música nacional_, y "esta pieza habla de algo que está al lado de tu casa" era esa razón.
 
-Al mismo tiempo, la Kaohsiung Chinese Orchestra (KCO; antes Orquesta de Profesores de Kaohsiung de 1979, renombrada en 2000) tomó otro camino en el sur.[^13] KCO interpreta numerosos arreglos de [[música hakka taiwanesa]] y canciones en taiwanés, generando un contraste norte-sur con TCO.
+Al mismo tiempo, la Kaohsiung Chinese Orchestra (KCO; antes Orquesta de Profesores de Kaohsiung de 1979, renombrada en 2000) tomó otro camino en el sur.[^13] KCO interpreta numerosos arreglos de [música hakka taiwanesa](/es/music/taiwan-hakka-music-from-mountain-songs-to-rock/) y canciones en taiwanés, generando un contraste norte-sur con TCO.
 
 ## Su Wenqing: el hombre que escribió la dirección de Taiwán con la _música nacional_
 
 Si hay que elegir a una persona como punto de partida del "estilo taiwanés en la composición para _música nacional_", la mayoría apunta a Su Wenqing.[^14]
 
-Su Wenqing (n. 1958) es uno de los pocos compositores que insistió en escribir historias de Taiwán para _música nacional_ desde el principio. Su catálogo es un mapa: _Leyenda del Feng Shih-yeh_ toma el culto al león de [[Cultura insular y marítima|Kinmen]]; _Reminiscencia de Taiwán_ lleva la isla en el título; el concierto para liuqin _Patio tras la lluvia_ describe el aire taiwanés tras la temporada de lluvias.[^15]
+Su Wenqing (n. 1958) es uno de los pocos compositores que insistió en escribir historias de Taiwán para _música nacional_ desde el principio. Su catálogo es un mapa: _Leyenda del Feng Shih-yeh_ toma el culto al león de [Kinmen](/es/geography/offshore-islands-and-maritime-culture/); _Reminiscencia de Taiwán_ lleva la isla en el título; el concierto para liuqin _Patio tras la lluvia_ describe el aire taiwanés tras la temporada de lluvias.[^15]
 
 "Quiero contar las historias de la tierra de Taiwán con el lenguaje de la música nacional", dijo en una entrevista a _Chuan-Yi_.[^16] Hoy parece sentido común; en los ochenta era una postura valiente. La idea dominante era que la _música nacional_ debía interpretar clásicos chinos; escribir temas taiwaneses se consideraba "rebajarse".
 
@@ -99,7 +99,7 @@ Tras 1949, ambas orillas siguieron caminos paralelos durante siete décadas. Las
 
 ## Música indígena se encuentra con el erhu: el experimento más audaz
 
-Lo más singular de la evolución taiwanesa es haber introducido la música de los [[Mapa de los 16 pueblos indígenas|pueblos indígenas]] en la formación de la orquesta nacional.
+Lo más singular de la evolución taiwanesa es haber introducido la música de los [pueblos indígenas](/es/culture/indigenous-peoples-16-tribes-cultural-map/) en la formación de la orquesta nacional.
 
 En términos musicológicos, es radical. La música nacional se basa en la escala pentatónica han; la música indígena —en especial el _pasibutbut_ bunun (canto de oración por la cosecha de mijo)— usa un sistema de armónicos completamente distinto.[^25] Meter la música bunun en _música nacional_ no es solo cambiar de melodía: es hacer convivir dos lógicas musicales en la misma pieza.
 
@@ -128,7 +128,7 @@ Un cambio menos visible y muy importante: Taiwán empezó a fabricar sus propios
 
 En los inicios, todos llegaban de China continental o Hong Kong. Tiendas como Sin Chinese Music Store o Cha-an servían de distribuidoras.[^30] Con la mejora del nivel local, los intérpretes pidieron instrumentos a su medida; la producción en serie continental no siempre encajaba.
 
-Los luthieres taiwaneses comenzaron a usar madera local. Algunos hicieron cajas de resonancia de guzheng en [[Historia forestal de Taiwán|ciprés]] taiwanés y descubrieron un timbre más brillante y resonancia más larga que con la paulownia tradicional.[^31] No es nacionalismo: es un descubrimiento acústico. Maderas distintas suenan distinto, y la madera taiwanesa lleva la humedad y los contrastes térmicos de la isla.
+Los luthieres taiwaneses comenzaron a usar madera local. Algunos hicieron cajas de resonancia de guzheng en [ciprés](/es/history/taiwan-forestry-history/) taiwanés y descubrieron un timbre más brillante y resonancia más larga que con la paulownia tradicional.[^31] No es nacionalismo: es un descubrimiento acústico. Maderas distintas suenan distinto, y la madera taiwanesa lleva la humedad y los contrastes térmicos de la isla.
 
 El auge de la luthería marca el paso de "usuario" a "fabricante". Cuando incluso el instrumento es propio, ya es difícil seguir siendo una rama ajena.
 
@@ -179,65 +179,65 @@ Quizá la pregunta "¿de qué nación es esa música nacional?" no necesite resp
 
 ## Referencias
 
-[^1]: [Taipei Chinese Orchestra – Web oficial](https://www.tco.gov.taipei/) — política de localización del repertorio durante la dirección de Chung Yiu-kwong.
+[^1]: [Taipei Chinese Orchestra – Web oficial](https://www.tco.gov.taipei/) — política de localización del repertorio durante la dirección de Chung Yiu-kwong
 
-[^2]: [_Chuan-Yi_: Innovación de la música nacional contemporánea y vitalidad taiwanesa](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
+[^2]: [_Chuan-Yi_: Innovación de la música nacional contemporánea y vitalidad taiwanesa](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130) — la visión de Chung Yiu-kwong sobre la localización del guoyue
 
-[^3]: [Archivo Nacional: la gran retirada de 1949](https://www.drnh.gov.tw/) — entre 1,2 y 2 millones de migrantes.
+[^3]: [Archivo Nacional: la gran retirada de 1949](https://www.drnh.gov.tw/) — entre 1,2 y 2 millones de migrantes
 
 [^4]: [Base de datos Galería de Músicos Taiwaneses](https://musiciantw.ncfta.gov.tw/) — Liu Tianhua y la "Sociedad para la Mejora de la Música Nacional".
 
-[^5]: [Galería de Músicos Taiwaneses: educación musical en la era japonesa](https://musiciantw.ncfta.gov.tw/)
+[^5]: [Galería de Músicos Taiwaneses: educación musical en la era japonesa](https://musiciantw.ncfta.gov.tw/) — el desarrollo de la educación musical occidental en Taiwán bajo el dominio japonés
 
-[^6]: [Departamento de Música China de NTUA](https://music.ntua.edu.tw/); [Historia de la NTCPA](https://www.tcpa.edu.tw/)
+[^6]: [Departamento de Música China de NTUA](https://music.ntua.edu.tw/) — [Historia de la NTCPA](https://www.tcpa.edu.tw/)
 
-[^7]: [NCO – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98)
+[^7]: [NCO – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — Entrada de Wikipedia
 
-[^8]: [NCO – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98)
+[^8]: [NCO – Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%9C%8B%E6%A8%82%E5%9C%98) — Reorganizado como "Orquesta Nacional de Música China de Taiwán" en 2012
 
 [^9]: [Producciones anuales y encargos – NCO](https://nco.ncfta.gov.tw/) — _Atravesar la cordillera_ estrenada en 2016.
 
 [^10]: [TCO – Web oficial: sobre nosotros](https://www.tco.gov.taipei/) — fundada en 1979.
 
-[^11]: [Chung Yiu-kwong – Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89)
+[^11]: [Chung Yiu-kwong – Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89) — nombrado director del TCO en 2007
 
-[^12]: [Chung Yiu-kwong – Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89)
+[^12]: [Chung Yiu-kwong – Wikipedia](https://zh.wikipedia.org/wiki/%E9%8D%BE%E8%80%80%E5%85%89) — impulsó con fuerza los encargos de obras originales taiwanesas durante su mandato al frente del TCO
 
 [^13]: [KCO – Web oficial](https://kpcaf.kcg.gov.tw/) — antes Orquesta de Profesores de Kaohsiung (1979).
 
-[^14]: [Su Wenqing – Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6)
+[^14]: [Su Wenqing – Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6) — Entrada de Wikipedia
 
 [^15]: [Su Wenqing – Wikipedia](https://zh.wikipedia.org/wiki/%E8%98%87%E6%96%87%E6%85%B6) — catálogo de obras.
 
-[^16]: [_Chuan-Yi_: Innovación de la música nacional](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130)
+[^16]: [_Chuan-Yi_: Innovación de la música nacional](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1931&s=82130) — véase el contenido del enlace original para datos complementarios
 
-[^17]: [Galería de Músicos Taiwaneses: Su Wenqing](https://musiciantw.ncfta.gov.tw/)
+[^17]: [Galería de Músicos Taiwaneses: Su Wenqing](https://musiciantw.ncfta.gov.tw/) — la obra de Su Wen-ching «La leyenda del Wind Lion God» toma como tema la cultura de los wind lions de Kinmen
 
 [^18]: Selección habitual en concursos juveniles taiwaneses.
 
-[^19]: [China National Orchestra – Web oficial](http://www.cnso.com.cn/)
+[^19]: [China National Orchestra – Web oficial](http://www.cnso.com.cn/) — Típicamente 90–120 músicos
 
 [^20]: [Formación de TCO](https://www.tco.gov.taipei/) — alrededor de 70 músicos.
 
-[^21]: [Música nacional de la República de China – Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82)
+[^21]: [Música nacional de la República de China – Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82) — el desarrollo de la orquesta nacional en China continental
 
 [^22]: Influencia japonesa y francesa, en la literatura académica taiwanesa (síntesis pendiente).
 
-[^23]: [Programa de NCO](https://nco.ncfta.gov.tw/)
+[^23]: [Programa de NCO](https://nco.ncfta.gov.tw/) — repertorio reciente de la Orquesta Nacional de Música China de Taiwán
 
-[^24]: [Música nacional de la República de China – Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82)
+[^24]: [Música nacional de la República de China – Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%A8%82) — las diferencias de contexto político entre las denominaciones «guoyue», «minyue» y «zhongyue»
 
-[^25]: [UNESCO: pasibutbut bunun](https://ich.unesco.org/)
+[^25]: [UNESCO: pasibutbut bunun](https://ich.unesco.org/) — el canto de armónicos pasibutbut de los Bunun es considerado por la musicología internacional una tradición polifónica singular
 
-[^26]: [NCO: _Atravesar la cordillera_ y _¿Dónde está Mauliyav?_](https://nco.ncfta.gov.tw/)
+[^26]: [NCO: _Atravesar la cordillera_ y _¿Dónde está Mauliyav?_](https://nco.ncfta.gov.tw/) — Ver sitio original para información complementaria
 
 [^27]: Debate académico abierto sobre apropiación cultural.
 
-[^28]: [Cruces de TCO](https://www.tco.gov.taipei/)
+[^28]: [Cruces de TCO](https://www.tco.gov.taipei/) — Ver sitio original para información complementaria
 
 [^29]: Entrevistas públicas a Ke Zhi-hao.
 
-[^30]: [Sin Chinese Music Store](https://www.stmusic.com.tw/); [Cha-an Music](https://www.cachinamusic.com/)
+[^30]: [Sin Chinese Music Store](https://www.stmusic.com.tw/) — [Cha-an Music](https://www.cachinamusic.com/) — Ver sitio original para información complementaria
 
 [^31]: Experiencias de luthieres locales con maderas autóctonas.
 
@@ -245,12 +245,12 @@ Quizá la pregunta "¿de qué nación es esa música nacional?" no necesite resp
 
 [^33]: Educación musical escolar predominantemente occidental.
 
-[^34]: [Canal de YouTube de TCO](https://www.youtube.com/@taborchestra)
+[^34]: [Canal de YouTube de TCO](https://www.youtube.com/@taborchestra) — los intentos de actuación en línea de la orquesta durante la pandemia
 
 [^35]: Encuesta del Ministerio de Cultura (datos estimativos).
 
 [^36]: Tendencia reciente entre jóvenes intérpretes a salir de la sala.
 
-[^37]: [Giras internacionales – TCO](https://www.tco.gov.taipei/)
+[^37]: [Giras internacionales – TCO](https://www.tco.gov.taipei/) — Ver sitio original para información complementaria de la gira
 
 [^38]: Crítica internacional en informes de gira.

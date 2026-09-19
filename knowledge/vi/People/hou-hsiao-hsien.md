@@ -37,7 +37,7 @@ imageAlt: 'Hầu Hiếu Hiền, đạo diễn Đài Loan, nhà thơ điện ản
 
 Năm 1988, bên ngoài cổng Liên hoan phim Venice, một nhóm đạo diễn Đài Loan ghen tị vuốt ve chiếc cửa lớn, không biết khi nào mới bước vào ngôi đền điện ảnh này. Một trong số đó là Hầu Hiếu Hiền, 41 tuổi, đã giành được nhiều giải thưởng tại các liên hoan phim thứ hai châu Âu, nhưng vẫn bị báo chí Đài Loan chế nhạo là người "chiến thắng liên hoan phim nông thôn".
 
-Một năm sau, trong cùng cánh cửa đó, anh nâng lên Giải sư tử vàng — giải thưởng hạng A quốc tế đầu tiên của lịch sử điện ảnh Đài Loan. Điều còn đáng chạnh lòng hơn là, bộ phim "không thể hiểu được" này đạt doanh thu 60 triệu nhân dân tệ Đài Loan, tập hợp "Thành phố buồn" tại nhà sách ga Đài Bắc được giành sạch.
+Một năm sau, trong cùng cánh cửa đó, anh nâng lên Giải sư tử vàng — giải thưởng hạng A quốc tế đầu tiên của lịch sử điện ảnh Đài Loan. Điều còn đáng chạnh lòng hơn là, bộ phim "không thể hiểu được" này đạt doanh thu 60 triệu đô la Đài Loan mới, tập hợp "Thành phố buồn" tại nhà sách ga Đài Bắc được giành sạch.
 
 Từ bị chế nhạo là "thuốc độc phòng vé" cho đến chinh phục Venice, Hầu Hiếu Hiền dùng cách chống lại quy tắc chính thống nhất — từ chối cảnh chân dung, từ chối tìm hòa hợp với máy quay, từ chối tính kịch tính truyền thống — tạo ra ngôn ngữ hình ảnh độc nhất vô nhị trong lịch sử điện ảnh.
 

@@ -1,0 +1,96 @@
+{
+  "revision": 57,
+  "stage": "verify",
+  "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5)",
+  "artifacts": [
+    "knowledge/Economy/台灣油價機制與中油.md",
+    "reports/research/2026-09/台灣油價機制與中油.md",
+    "reports/research/2026-09/台灣油價機制與中油-stage35-audit.md",
+    "reports/research/2026-09/台灣油價機制與中油-stage36-audit.md",
+    "reports/staging/oil-price/run/verify-health-full.txt",
+    "reports/staging/oil-price/run/verify-health-stage35.txt",
+    "reports/staging/oil-price/run/verify-health-stage4.txt",
+    "reports/staging/oil-price/run/verify-image-health.txt",
+    "reports/staging/oil-price/run/verify-wikilink.txt",
+    "reports/staging/oil-price/run/verify-linktarget.txt",
+    "reports/staging/oil-price/run/verify-prose-flow.txt",
+    "reports/staging/oil-price/run/verify-image-ingest.txt",
+    "reports/staging/oil-price/run/verify-research-health.txt",
+    "reports/staging/oil-price/run/verify-footnote-url.txt",
+    "reports/staging/oil-price/run/verify-footnote-curl.txt"
+  ],
+  "data": {
+    "sourceChecks": [
+      "承重主張逐條回原文本：研究報告 §7 驗證表 39 條 fact-pack 全數標 ✓ 或改寫；Stage 3.5 幻覺稽核（六型）與 3.6 story-atom 稽核 PASS（reports/research/2026-09/台灣油價機制與中油-stage35-audit.md、-stage36-audit.md）；兩位 verifier（s1–s4／s5–s8）＋定向再驗 44 原子，12 處更正全數回填（研究報告 §10）。",
+      "直接引語：§4 引語庫全部對 sources/ 逐字文本 Ctrl-F；lane A 一句不存在的中油 4/8 聲明在 Stage 3 撤下改真逐字（cpc s=112174）；compose 評閱員親 curl 中油 9/12、經濟部 9/3、6/20、工商時報 3/22、自由 9/3、udn 9384061／9734809、香港新聞公報逐字一致。",
+      "數字分開核對象、時間、單位、分母：198.5 億（汽柴油、2/28–9/13、週報預估）與 1,014.31 億（FY115、經濟部稿「油氣」／次長「汽柴油」兩說）只並列不相減；增資 2,338.34 億與補貼分開；11.2＝10.5＋0.7 是公式價對前一週 32.0 元牌價的差距、12.29% 是公式價週漲幅；公式價 43.2 對經濟部 45.4 標明不同週；1,387 億標整家公司全年虧損；香港 18 億港元、計程車 13 億、四年 3,500 億各有一手來源。",
+      "圖表：12 個 tw-* 模組各附來源行；兩張 tw-line 全部 55 列對逐週稿；tw-stack 標題改「公式價高出牌價的部分怎麼分」與正文一致；tw-waffle 1,014 億標「油氣價差」不斷言；tw-figure 45.4 標估算基準 28.9（3 月初）。",
+      "查無不推出不存在：貨物稅 3.7 對 3.415 的三毛、累計吸收「預估」的算法、6 月底是否已「少跌」回收、1,014.31 含不含天然氣、四年 3,500 億與 2,338.34 億的關係、能源署銷量——正文一律寫「新聞稿沒有解釋／沒有寫／看不出來」，研究報告 §11 逐條記錄原文本位置。",
+      "先判矛盾成立再判哪邊錯：TVBS「NT$90.6 billion」為億→billion 誤譯（官方 90.6 億）；[^20] 自由時報 686268 是 2012 舊文改指央社時間軸；資本額 1,301 億三源皆無不寫；方振仁接任時點查無不寫。"
+    ],
+    "mechanicalChecks": [
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=10  passed=True (fail_on=warn) → 工件 reports/staging/oil-price/run/verify-health-full.txt"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --profile=rewrite-stage-3-5",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=0  passed=True (fail_on=hard) → 工件 reports/staging/oil-price/run/verify-health-stage35.txt"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --profile=rewrite-stage-4",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=5  passed=True (fail_on=hard) → 工件 reports/staging/oil-price/run/verify-health-stage4.txt"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --check=image-health",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn) → 工件 reports/staging/oil-price/run/verify-image-health.txt"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --check=wikilink-target",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn) → 工件 reports/staging/oil-price/run/verify-wikilink.txt"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --check=link-target",
+        "exitCode": 0,
+        "output": "Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn) → 工件 reports/staging/oil-price/run/verify-linktarget.txt"
+      },
+      {
+        "command": "python3 scripts/tools/prose-flow.py knowledge/Economy/台灣油價機制與中油.md",
+        "exitCode": 0,
+        "output": "   Summary: 1/3 訊號亮起 → 工件 reports/staging/oil-price/run/verify-prose-flow.txt"
+      },
+      {
+        "command": "node scripts/tools/image-ingest.mjs check public/article-images/economy/cpc-tainan-chenggong-station-2023.webp public/article-images/economy/cpc-caogang-pump-prices-2021.webp public/article-images/economy/cpc-tianwei-station-price-sign-2012.webp",
+        "exitCode": 0,
+        "output": "\u001b[0;32m檢驗：0 hard / 0 warn\u001b[0m → 工件 reports/staging/oil-price/run/verify-image-ingest.txt"
+      },
+      {
+        "command": "python3 scripts/tools/research-report-health.py reports/research/2026-09/台灣油價機制與中油.md --tier=depth",
+        "exitCode": 0,
+        "output": "   Summary: hard_fail=0 warn=0  → PASS → 工件 reports/staging/oil-price/run/verify-research-health.txt"
+      },
+      {
+        "command": "ARTICLE_HEALTH_NETWORK=1 python3 scripts/tools/article-health.py knowledge/Economy/台灣油價機制與中油.md --check=footnote-url",
+        "exitCode": 1,
+        "output": "Summary: hard=0  warn=24  info=0  passed=False (fail_on=warn) → 工件 reports/staging/oil-price/run/verify-footnote-url.txt"
+      },
+      {
+        "command": "curl -sL -A 'Mozilla/5.0' -o /dev/null -w '%{http_code}' <每個 footnote-url 警告 URL>",
+        "exitCode": 0,
+        "output": "24 個警告 URL 全部 200（python urllib 失敗原因為 .gov.tw SSL 憑證鏈 Missing Subject Key Identifier 與 cna／newtalk UA 403；moea 122111／122174 首次 000 為逾時，--max-time 90 重試 200）→ 工件 reports/staging/oil-price/run/verify-footnote-curl.txt"
+      }
+    ],
+    "unresolved": [
+      "IMF Fiscal Monitor 2026-04 p.18 頁碼機械無法核對（p.ix 逐字已驗）。",
+      "追加預算 9/3 送立院後排審進度截至 9/18 查無。",
+      "貨物稅 3.7 對 3.415、累計吸收預估算法、回收是否已運作、1,014.31 是否含天然氣、3,500 對 2,338 關係：官方未解釋，正文只陳述缺口。",
+      "prose-flow WARN 級：s3 兩段中一段 207 字（回修加句所致），0 hard；冷讀第四輪指 s2 一句偏長（內容對），兩者未再動正文以免重開 compose／cold-read 迴圈，記入 release remainingLimits。",
+      "footnote-url plugin 24 warn 為 python urllib 的 .gov.tw 憑證鏈與 UA 403 環境因素，curl 逐條 200（工件 verify-footnote-curl.txt）。"
+    ]
+  }
+}

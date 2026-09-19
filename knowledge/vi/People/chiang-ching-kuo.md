@@ -1,14 +1,14 @@
 ---
-title: 'Chiang Ching-kuo: Người mở một khe hở trên cánh cửa thuần phủ'
-description: 'Chiang Ching-kuo vừa là người lái thuyền của chế độ bao cấp, vừa là người khởi động giải mã và mở cửa chính trị vào những năm cuối đời; hiểu rõ mâu thuẫn này mới thấy được dân chủ hóa ở Đài Loan không phải là món quà của bất kỳ ai.'
+title: 'Tưởng Kinh Quốc: Người đẩy mở tấm cửa quyền lực độc tài một khe hở'
+description: 'Tưởng Kinh Quốc vừa là người chỉ huy hệ thống thiết quân luật, vừa là người khởi động bãi bỏ thiết quân luật và mở cửa chính trị vào cuối đời; hiểu được mâu thuẫn này mới có thể thấy rằng nền dân chủ Đài Loan không phải là tặng phẩm từ ai.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
-    'Chiang Ching-kuo',
-    'giải mã',
-    'quá trình dân chủ hóa',
-    'chế độ bao cấp',
+    'Tưởng Kinh Quốc',
+    'bãi bỏ thiết quân luật',
+    'dân chủ hóa',
+    'hệ thống độc tài',
     'chính trị Đài Loan',
   ]
 subcategory: '政治與民主'
@@ -17,139 +17,139 @@ featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
 readingTime: 8
-curation: 'incubating'
+curation: incubating
 translatedFrom: 'People/蔣經國.md'
 sourceCommitSha: '0d2389cec'
 sourceContentHash: 'sha256:47672068ff2f222b'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-13T00:44:02+08:00'
+translatedAt: '2026-09-09T15:01:50+08:00'
 ---
 
-> **30 giây tóm tắt:** Chiang Ching-kuo (Chiang Ching-kuo, qua đây là Chiang Ching-kuo) nhậm chức tổng thống vào năm 1978, và vào ngày 15 tháng 7 năm 1987, ông tuyên bố chấm dứt lệnh cai trấng kéo dài 38 năm ở Đài Loan. Hai sự kiện này khiến ông đồng thời trở thành người lái thuyền của chế độ bao cấp và người ra quyết định về mở cửa chính trị. Bài viết này không viết lại quá trình dân chủ hóa như một món quà của một người, mà đặt cả những cải cách, bạo lực nhà nước, cũng như những hoạt động xã hội tiếp tục sau sự kiện Đảo Đẹp (Beautiful Island) vào cùng một chuỗi nguyên nhân.
+> **Tóm tắt 30 giây:** Tưởng Kinh Quốc trở thành tổng thống năm 1978, và vào ngày 15 tháng 7 năm 1987, ông tuyên bố bãi bỏ thiết quân luật 38 năm của Đài Loan — hai sự kiện này làm cho ông đồng thời là người chỉ huy hệ thống độc tài lẫn người quyết định mở cửa chính trị. Bài viết này không mô tả dân chủ hóa như là tặng phẩm từ một người, mà đặt các cải cách, bạo lực nhà nước của ông, cũng như những hoạt động không ngừng của xã hội sau sự kiện Đảo Đẹp trong cùng một dây chuyền nhân quả.
 
-Ngày 20 tháng 5 năm 1978, Chiang Ching-kuo (Chiang Ching-kuo) lên tiếng tuyên thệ nhậm chức tổng thống của Trung Hoa Dân Quốc (Đài Loan) tại Đài Bắc; ngày 15 tháng 7 năm 1987, Đài Loan chấm dứt lệnh cai trấng kéo dài 38 năm; ngày 13 tháng 1 năm 1988, ông qua đời trong nhiệm kỳ tổng thống.[^1] Ba ngày này xếp cạnh nhau giống như một đường thời gian tiến bộ rất gọn gàng. Nhưng Chiang Ching-kuo không phải là người đứng bên ngoài chế độ bao cấp để mở cửa cho Đài Loan — chính ông là một trong những người canh giữ cánh cửa đó.
+Ngày 20 tháng 5 năm 1978, Tưởng Kinh Quốc tuyên thệ nhậm chức tổng thống Trung Hoa Dân Quốc (Đài Loan) tại Đài Bắc; ngày 15 tháng 7 năm 1987, Đài Loan bãi bỏ thiết quân luật kéo dài 38 năm; ngày 13 tháng 1 năm 1988, ông qua đời trong nhiệm kỳ tổng thống.[^1] Ba ngày tháng này xếp cạnh nhau, trông giống như một dòng thời gian tiến bộ gọn gàng. Nhưng Tưởng Kinh Quốc không phải người đứng ngoài hệ thống thiết quân luật, mở cửa cho Đài Loan — chính ông là một trong những người gác cửa của chính tấm cửa đó.
 
-Những bài toán lịch sử ông lại lại để lại cũng không phải là câu hỏi "Chiang Ching-kuo có tốt hay không?" kiểu bình chọn, mà là: Tại sao một người từng dùng đến quyền lực bao cấp lại bắt đầu phá hủy những trụ cột mà ông từng dựa vào để cai trấng trong những năm cuối đời? Câu hỏi càng phức tạp hơn là: Cuộc phá hủy này không bắt đầu từ con số không. Khe hở là do ông mở ra, nhưng việc đẩy cơ thể mình vào trong và để cửa không thể đóng lại được nữa là do từng hàng loạt người dám nói lên trong những năm thời bao cấp.
+Vì vậy, khó khăn lịch sử mà ông để lại cũng không phải là câu hỏi bình chọn kiểu «Tưởng Kinh Quốc tốt không», mà là: tại sao một người từng sử dụng quyền lực của nhà nước độc tài, lại bắt đầu dỡ bỏ những cột trụ mà chính ông dựa vào để cai trị vào những năm cuối đời? Còn khó khăn hơn nữa là quá trình dỡ bỏ này không bắt đầu từ tờ trắng. Khe hở cửa là do ông đẩy mở, nhưng những người đẩy cơ thể vào cửa, làm cho nó không bao giờ có thể đóng lại được, chính là những người liên tục dám chỉ trích trong những năm thiết quân luật — từng nhóm lại từng nhóm.
 
-![1970 portrait của Chiang Ching-kuo](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Ảnh: Ado / Wikimedia Commons, CC BY-SA 4.0._
+![Tưởng Kinh Quốc trong những năm 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Hình ảnh: Ảo Đạo / Wikimedia Commons, CC BY-SA 4.0._
 
-> **📝 Ghi chú biên tập viên**
-> Việc giải mã xứng đáng được nhớ, không phải vì một người mạnh mẽ đột ngột trở nên tốt đẹp, mà vì ngay cả người mạnh mẽ cũng không thể tránh khỏi việc phải đối mặt với một xã hội đã lớn lên.
+> **📝 Ghi chú Cộng tác viên**
+> Bãi bỏ thiết quân luật xứng đáng được ghi nhớ, không phải vì một người mạnh mẽ bỗng dưng trở nên tốt bụng, mà vì ngay cả những người mạnh mẽ cũng phải đối mặt với một xã hội đã lớn lên.
 
-## Một người kế vị trong khủng hoảng
+## Người tiếp bộc trong khủng hoảng
 
-Chiang Ching-kuo (Chiang Ching-kuo) tiếp quản chủ tịch Đảng Quốc dân đảm (Kuomintang) và vị trí Thủ hiến (lãnh đạo chính phủ) vào năm 1975, rồi trở thành tổng thống vào năm 1978. Nghiên cứu của Wu Nai-te (Wu Nai-te) tại Viện Nghiên cứu Trung tâm (Academia Sinica) đưa quá trình dân chủ hóa vào những năm 1980 trở lại với bối cảnh của sự kiện Đảo Đẹp (Beautiful Island) và các phong trào đại chúng, các nhà hoạt động đối lập, nhằm nhắc nhở người đọc đừng quá tín nhiệm vào việc dân chủ hóa là công trình của riêng Chiang Ching-kuo. [^6]
+Tưởng Kinh Quốc nhận chức chủ tịch Trung Quốc Quốc Dân Đảng vào năm 1975 và kiêm Viện trưởng Viện Hành pháp, rồi trở thành tổng thống năm 1978. Nghiên cứu của Ngô Nãi Đức từ Viện Trung Ương đặt dân chủ hóa những năm 1980 trở lại bối cảnh Sự kiện Đảo Đẹp, các phong trào đông đảo và những người tham gia phong trào đối lập, nhắc nhở độc giả không nên quy lỗi quá mức dân chủ hóa cho riêng Tưởng Kinh Quốc.[^6]
 
-Nền tảng này rất quan trọng, bởi vì nó thay đổi trọng lượng của từ "cải cách". Đối với một nhà lãnh đạo vẫn muốn duy trì quyền lực, bản địa hóa, bầu cử, xây dựng xã hội và mở cửa chính trị không nhất thiết đồng nghĩa với việc từ bỏ quyền lực; chúng cũng có thể là những cách để giúp quyền lực tồn tại. Phân tích của Retrospect Journal về cuộc chuyển biến này chỉ ra rằng vào cuối những năm 1970, Đài Loan mất đi sự công nhận chính thức từ Mỹ và hoàn cảnh ngoại giao xấu đi, Chiang Ching-kuo đang phải đối mặt không chỉ với vấn đề quản lý bên trong đảo, mà còn là câu hỏi liệu quyền lực có thể tiếp tục tồn tại trong bối cảnh thay đổi của chiến tranh lạnh hay không. [^8]
+Bối cảnh này rất quan trọng, vì nó thay đổi trọng lượng của từ «cải cách». Với một người cầm quyền vẫn muốn duy trì chính quyền, bản địa hóa, bầu cử, xây dựng xã hội và mở cửa chính trị không nhất thiết phải bằng từ bỏ quyền lực; chúng cũng có thể là những cách để chính quyền sống sót. Phân tích của Retrospect Journal về bước ngoặt này chỉ ra rằng, cuối những năm 1970, Đài Loan mất được công nhân chính thức của Mỹ, tình hình ngoại giao xấu đi, Tưởng Kinh Quốc không còn đối mặt với vấn đề cai trị đơn thuần nội địa, mà là câu hỏi liệu chính quyền có thể tiếp tục tồn tại giữa các biến đổi Chiến tranh Lạnh.[^8]
 
-Trang web chính thức của Tổng thống cung cấp một mô tả hơn là tích cực về nhiệm kỳ của ông: ông thúc đẩm phát triển khu vực, đào tạo các nhà lãnh đạo Đài Loan, thu hẹp khoảng cách giữa đô thị và nông thôn, đồng thời thúc đẩy cải cách nghị viện và dân chủ hóa ở mặt chính trị; năm 1987 giải mã, tiếp theo là cho phép thành lập các báo mới và các đảng mới, cũng trong tháng 11 năm 1987 mở cửa cho cư dân Đài Loan đi thăm thân ở Trung Quốc đại lục. [^1] Bản mô tả chính thức này cung cấp khung cơ sở cho những cải cách, nhưng khung cơ sở không phải là toàn bộ cơ thể.
+Trang cá nhân chính thức Phủ Tổng thống lại sử dụng ngôn ngữ tích cực hơn để tổng kết nhiệm kỳ của ông: ông thúc đẩy xây dựng địa phương, đào tạo những nhân tài Đài Loan, thu hẹp khoảng cách thành thị-nông thôn, và chính trị thì thúc đẩy cải tổ Quốc hội và dân chủ hóa; năm 1987 bãi bỏ thiết quân luật, sau đó cho phép thành lập các tờ báo và đảng phái mới, vào tháng 11 năm 1987 cũng mở cửa cho cư dân Đài Loan đi thăm Trung Quốc đại lục.[^1] Điểm kế chương này cung cấp khung xương của các cải cách, nhưng khung xương không phải là toàn bộ cơ thể.
 
-Bởi vì trước đó, không gian chính trị của Đài Loan vẫn được định hình bởi lệnh cai trấng, cấm đảng, cấm báo, hạn chế tụ hội và hệ thống tình báo. Những cơ chế này không phải đột ngột rơi xuống từ bầu trời, cũng không biến mất chỉ vì một lệnh giải mã.
+Vì trước đó, không gian chính trị Đài Loan vẫn được tạo thành bởi thiết quân luật, cấm đảng, cấm báo, hạn chế quyền tự do tập họp công cộng và hệ thống tình báo. Những tổ chức này không phải là một hôm nào đó bỗng dưng rơi từ trên trời xuống, cũng không sẽ hoàn toàn biến mất chỉ vì một lệnh bãi bỏ thiết quân luật.
 
-## Trước khi giải mã, xã hội đã đang nói lên
+## Trước khi bãi bỏ thiết quân luật, xã hội đã bắt đầu nói
 
-Sự kiện Đảo Đẹp (Beautiful Island) vào ngày 10 tháng 12 năm 1979 là hiện trường mà những cải cách trong những năm cuối đời của Chiang Ching-kuo không thể tránh khỏi. Tài liệu kỷ niệm năm 2007 của Tổng thống ghi nhận sự kiện Đảo Đẹp năm 1979 và sự thành lập Đảng Dân chủ tiến bộ (Democratic Progressive Party) vào năm 1986 như những yếu tố dẫn đến giải mã; cùng tài liệu cũng ghi nhận rằng nhiều yêu cầu chính trị sau này bị coi là tội áp, cuối cùng đều trở thành một phần của hệ thống dân chủ của Đài Loan. [^5]
+Ngày 10 tháng 12 năm 1979 xảy ra Sự kiện Đảo Đẹp, là hiện trường không thể bỏ qua trong các cải cách cuối đời của Tưởng Kinh Quốc. Tài liệu hồi tưởng mà Phủ Tổng thống công bố năm 2007 coi Sự kiện Đảo Đẹp năm 1979 và thành lập Đảng Dân chủ Tiến bộ năm 1986 là những yếu tố quan trọng dẫn tới bãi bỏ thiết quân luật; tài liệu này cũng ghi lại rằng, nhiều yêu cầu chính trị được xem là tội phạm vào thời điểm đó, sau đó lại trở thành một phần của hệ thống dân chủ Đài Loan.[^5]
 
-Sự phản xạ này đáng nhớ hơn là "Đài Loan hướng tới dân chủ": Một quốc gia từng coi việc chấm dứt lệnh cai trấng, mở cửa đảng, mở cửa báo, tổng cử và bầu trực tiếp tổng thống là bằng chứng của nổ bạo, cuối cùng phải viết một số yêu cầu này vào chương trình cải cách của chính mình. [^5]
+Sự tương phản này đáng được ghi nhớ hơn là «Đài Loan hướng tới dân chủ»: một quốc gia từng có thể coi việc bãi bỏ thiết quân luật, mở cửa cấm đảng, mở cửa cấm báo, cải tổ toàn diện Quốc hội và bầu cử tổng thống trực tiếp là bằng chứng nổi loạn, sau đó phải viết lại một số yêu cầu này vào chương trình cải cách của chính mình.[^5]
 
-Ngày 28 tháng 9 năm 1986, Đảng Dân chủ tiến bộ được thành lập. Lúc bấy giờ lệnh cai trấng vẫn chưa được giải mã, việc thành lập một đảng mới vẫn là sự va chạm trực tiếp với ranh giới của hệ thống. Mười ngày sau đó, Chiang Ching-kuo (Chiang Ching-kuo) tiếp đón Catherine Graham, người phát hành của Washington Post, lần đầu tiên công khai nói rằng Đài Loan sẽ giải mã. Mối quan hệ thời gian này được cả tài liệu kỷ niệm sau này của Tổng thống và trang web nhớ Chiang Ching-kuo ghi nhận, nhưng hai phiên bản kể chuyện có quan điểm khác nhau: phiên bản đầu nhấn mạnh áp lực từ phong trào dân chủ, trong khi phiên bản sau nhấn mạnh vai trò của Chiang Ching-kuo trong thuyết phục đồng chí trong đảng. [^5] [^3]
+Ngày 28 tháng 9 năm 1986, Đảng Dân chủ Tiến bộ được thành lập. Vào lúc đó thiết quân luật vẫn chưa được bãi bỏ, việc tổ chức một đảng phái mới vẫn là một cuộc va chạm trực tiếp với biên giới của hệ thống. Mười ngày sau, Tưởng Kinh Quốc tiếp xúc với nhà xuất bản Báo Washington Post Catherine Graham, và lần đầu tiên công khai nói rằng Đài Loan sẽ bãi bỏ thiết quân luật. Mối quan hệ thời gian này được ghi chép đồng thời trong tài liệu hồi tưởng của Phủ Tổng thống và trang web Tưởng Kinh Quốc Memorial, nhưng lập trường tường thuật của hai bên không giống nhau: cái trước nhấn mạnh áp lực của phong trào dân chủ, cái sau nhấn mạnh vai trò của Tưởng Kinh Quốc trong việc thuyết phục các đồng chí trong đảng.[^5] [^3]
 
-Điều này không đề nghị chúng ta chọn một "sự thật duy nhất" giữa hai phiên bản. Chúng cùng chỉ ra một điều: Giải mã có người ra quyết định, nhưng không có bất kỳ người ra quyết định nào có thể tạo ra thời đại đó một cách độc lập.
+Đây không phải là để lựa chọn một «sự thật duy nhất» giữa hai phiên bản. Chúng chỉ ra cùng một điều: bãi bỏ thiết quân luật có những người quyết định, nhưng không có một người quyết định nào có thể tự tạo ra một thời đại.
 
-> **📝 Ghi chú biên tập viên**
-> Viết lại dân chủ như một món quà của một nhà lãnh đạo sẽ đồng thời xóa bỏ hai nhóm người: Những người từng bị áp lực bởi nhà nước, và những người dám hành động dù biết họ sẽ bị áp lực bởi nhà nước.
+> **📝 Ghi chú Cộng tác viên**
+> Viết dân chủ như một phần quà từ một lãnh đạo, sẽ đồng thời xóa sạch hai loại người: những người bị nhà nước đè nén, và những người dám hành động bất chấp rủi ro bị nhà nước đè nén.
 
-## Câu nói "Thời đại đang thay đổi"
+## «Thời đại đang thay đổi» — câu nói ấy
 
-Trang web nhớ Chiang Ching-kuo (Chiang Ching-kuo) lưu giữ một câu nói thường được trích dẫn. Trang web ghi nhận, vào năm 1986, để thuyết phục các đồng chí trong đảng giải mã, ông nói: "Thời đại đang thay đổi, môi trường đang thay đổi, dòng chảy cũng đang thay đổi." [^3]
+Trang web Tưởng Kinh Quốc Memorial lưu giữ một câu nói thường được trích dẫn. Trang web ghi lại rằng, năm 1986, để thuyết phục các đồng chí trong đảng bãi bỏ thiết quân luật, ông nói: «Thời đại đang thay đổi, môi trường đang thay đổi, xu thế cũng đang thay đổi».[^3]
 
-Câu nói ngắn đến mức có thể in trên hàng quà lưu niệm, nhưng không thể được dùng độc lập để chứng minh rằng Chiang Ching-kuo (Chiang Ching-kuo) đã trở thành một nhà dân chủ. Nó giống như một chiếc chìa khóa, mở ra sự chuyển hướng trong ngôn ngữ chính trị của những năm cuối đời của ông; nhưng chiếc chìa khóa mở ra một căn phòng vẫn còn khóa.
+Câu nói này ngắn đến mức có thể in trên các vật kỷ niệm, nhưng không thể tự nó làm bằng chứng rằng Tưởng Kinh Quốc đã trở thành một nhà dân chủ. Nó giống như một chìa khóa hơn, có thể mở ra sự chuyển hướng trong ngôn ngữ chính trị cuối đời của ông; nhưng chìa khóa mở ra của là một căn phòng vẫn còn khóa.
 
-Xue Huayuan (Xue Huayuan) từ Viện Nghiên cứu Chính sách Quốc gia (National Policy Research Foundation) nhắc nhở rằng việc giải mã là một bước quan trọng trong quá trình giải phóng, nhưng không thể trực tiếp đồng nghĩa với dân chủ hóa. Bởi vì dân chủ không chỉ là hủy bỏ các lệnh khẩn cấp, mà còn bao gồm việc bầu cử định kỳ để quyết định ai nắm quyền, bảo đảm các quyền con người cơ bản, và cho phép người dân liên tục thay đổi chính phủ. [^2]
+Thiết hoài viên Tạo Hóa Nguyên chủ tịch Huế Hóa Nguyên nhắc nhở rằng, bãi bỏ thiết quân luật là một bước quan trọng của quá trình tự do hóa, nhưng không thể trực tiếp bằng với dân chủ hóa. Vì dân chủ không chỉ là hủy bỏ các lệnh khẩn cấp, mà còn bao gồm bầu cử định kỳ quyết định ai sẽ cầm quyền, bảo vệ quyền cơ bản con người, và cho phép dân chúng có thể liên tục thay đổi người cầm quyền.[^2]
 
-Bản tóm tắt của Lowy Institute cũng chỉ ra rằng sau khi giải mã năm 1987, chính phủ nhanh chóng ban hành Luật An ninh Quốc gia, kế thừa một phần quyền lực trước đây do chế độ bao cấp kiểm soát; cho đến cải cách hiến pháp năm 1992 và cuộc bầu cử tổng thống đa đảng lần đầu năm 1996, Đài Loan mới tiếp tục vượt qua một số cột mốc cơ hệ quan trọng. [^7]
+Đánh giá lại của Viện Lowy cũng chỉ ra rằng, sau bãi bỏ thiết quân luật năm 1987, chính phủ nhanh chóng ban hành Luật An ninh Quốc gia, kéo dài không ít quyền lực mà trước đây được kiểm soát bởi hệ thống thiết quân luật; cho tới năm 1992 cải cách hiến pháp, năm 1996 bầu cử tổng thống trực tiếp lần đầu tiên của nhiều đảng, Đài Loan mới tiếp tục vượt qua vài cửa khẩu tổ chức chính trị quan trọng.[^7]
 
-Vì vậy, "Thời đại đang thay đổi" không phải là một kết thúc trọn vẹn, mà là sự công nhận của người lãnh đạo rằng những phương pháp cũ không thể được giữ nguyên như cũ. Nó mang lại những khả năng mới, đồng thời để lại những hạn chế mới.
+Vì vậy, «thời đại đang thay đổi» không phải là một kết thúc viên mãn, mà là người cầm quyền thừa nhận rằng các phương pháp cũ không thể tiếp tục nguyên vẹn như trước. Nó mang lại những khả năng mới, đồng thời cũng để lại những hạn chế mới.
 
 ## Người cải cách không thể xóa sạch trách nhiệm của chính mình
 
-Đánh giá lịch sử của Chiang Ching-kuo (Chiang Ching-kuo) dễ bị trượt về hai cực đoan: Một bên viết ông thành một nhà lãnh đạo mở cửa hoàn toàn hoàn thành dân chủ hóa một cách độc lập, và một bên khác, vì ông từng là một phần của chế độ bao cấp, từ chối công nhận rằng các quyết định của ông thực sự đã thay đổi hướng đi của hệ thống. Cả hai cách viết đều quá đơn giản.
+Đánh giá lịch sử Tưởng Kinh Quốc dễ nhất là trượt tới hai cực đoan: một bên viết ông thành một lãnh đạo sáng suốt hoàn thành dân chủ hóa một mình, bên kia vì ông từng là một phần của hệ thống độc tài, từ chối thừa nhận rằng các quyết định của ông thực sự thay đổi hướng của hệ thống. Cả hai cách viết đều quá lừa dối.
 
-Phân tích của Xue Huayuan (Xue Huayuan) chỉ ra rõ rằng trong thời kỳ "Trắng khủng hoảng" (White Terror) của Đài Loan, Chiang Ching-kuo (Chiang Ching-kuo) phải chịu trách nhiệm quyết định hoặc hành chính đáng kể vì sự xâm phạm nhân quyền do các lãnh đạo Đảng Quốc dân đảm gây ra; đồng thời, các cải cách giải mã của ông thực sự mang lại ý nghĩa then chốt, nhưng giải mã và dân chủ hóa không thể được đồng trùng. [^2]
+Phân tích của Huế Hóa Nguyên chỉ thẳng ra rằng, trong thời kỳ Khủng bố Trắng Đài Loan, Tưởng Kinh Quốc phải chịu trách nhiệm quyết định hoặc hành chính xác đáng cho những vi phạm nhân quyền của chính quyền Quốc Dân Đảng; đồng thời, các cải cách bãi bỏ thiết quân luật của ông thực sự có ý nghĩa then chốt, nhưng bãi bỏ thiết quân luật và dân chủ hóa không thể nhầm lẫn với nhau.[^2]
 
-Vụ án Jiangnan (Jiangnan) làm cho trách nhiệm này trở nên cụ thể hơn. Kho lưu trữ Quyền con người Quốc gia (National Human Rights Archives) ghi nhận rằng vào năm 1984, nhà văn Liu Yiliang (Liu Yiliang) bị sát hại ở Hoa Kỳ, vụ án liên quan đến thành viên của băng Bamboo được hấp thụ bởi Bộ Tình báo Quốc phòng; vào tháng 11 năm 1984, Chiang Ching-kuo (Chiang Ching-kuo) biết được sự liên quan của bộ tình báo, vào tháng 1 năm 1985 ra lệnh điều tra các quan chức liên quan, và sau đó dưới áp lực từ phía Mỹ, đồng ý cho nhân viên Mỹ đến Đài Loan điều tra. [^4]
+Vụ án Giang Nam làm cho trách nhiệm này trở nên cực kỳ cụ thể. Thư viện Lịch sử Nhân quyền Quốc gia ghi lại rằng, năm 1984 nhà văn Lưu Nghi Lương bị giết tại Mỹ, vụ án liên quan tới thành viên Liên Bang Thúc Liên được An ninh quân sự hút thu; tháng 11 năm 1984 Tưởng Kinh Quốc biết được Cục An ninh liên quan vụ án, tháng 1 năm 1985 ông lệnh điều tra các quan chức liên quan, sau đó dưới áp lực Mỹ cũng đồng ý cho nhân viên Mỹ tới Đài Loan điều tra.[^4]
 
-Lịch sử này không thể được đơn giản hóa thành "Chiang Ching-kuo (Chiang Ching-kuo) ra lệnh truy quét, vì vậy ông không liên quan gì đến bạo lực nhà nước". Ngược lại, nó cho thấy một tổng thống phải xử lý hậu quả giữa hệ thống an ninh do chính ông lãnh đạo và áp lực quốc tế. Những cú cởi mở chính trị sau này của Chiang Ching-kuo (Chiang Ching-kuo) cũng không thể xóa bỏ sự bạo lực của các cơ quan tình báo khỏi trách nhiệm cai trấng của ông; và các cải cách cũng không thể đòi hỏi các nạn nhân thời kỳ bao cấp tha thứ.
+Đoạn lịch sử này không thể được đơn giản hóa thành «Tưởng Kinh Quốc lệnh điều tra, vì vậy ông không liên quan tới bạo lực nhà nước». Trái lại, nó cho thấy một tổng thống phải xử lý hậu quả giữa hệ thống bảo mật mà chính ông lãnh đạo và áp lực quốc tế. Sự mở cửa chính trị sau này của Tưởng Kinh Quốc, không thể xóa bỏ bạo lực của các cơ quan tình báo từ trách nhiệm cai trị của ông; cải cách cũng không thể ngược lại để yêu cầu những người bị hại từng sống trong khủng bố Trắng có lòng thứ tha cho ông.
 
-Đó cũng là lý do tại sao "người cải cách bao cấp" là một cách gọi chính xác và không thoải mái hơn là "anh hùng dân chủ". Hành động của ông có tác động lịch sử, nhưng tác động lịch sử không đồng nghĩa với miễn trừ đạo đức.
+Đó là lý do tại sao «người cải cách độc tài» là một cách gọi chính xác hơn là «anh hùng dân chủ», nhưng cũng khó chịu hơn. Hành động của ông có hiệu ứng lịch sử, nhưng hiệu ứng lịch sử không bằng miễn trừ đạo đức.
 
-> **📝 Ghi chú biên tập viên**
-> Một quyền lực bắt đầu thả tay ra, không có nghĩa là nó không từng nắm chặt ai; một người mở cánh cửa, cũng không có nghĩa là người đó không từng tham gia xây dựng bức tường.
+> **📝 Ghi chú Cộng tác viên**
+> Một chính quyền bắt đầu buông lỏng tay, không đồng nghĩa với nó chưa từng bắt giữ ai; một người đẩy mở cửa, cũng không đồng nghĩa với ông không tham gia xây tường.
 
-## Từ giải mã đến dân chủ, còn rất xa
+## Từ bãi bỏ thiết quân luật tới dân chủ, còn con đường rất dài
 
-Ngày 15 tháng 7 năm 1987, lệnh giải mã có hiệu lực. Một tuần trước, vào ngày 7 tháng 7, Nghị viện đã trước tiên giải quyết đề án chấm dứt lệnh cai trấng ở khu vực Đài Loan; ngày 14 tháng 7, Chiang Ching-kuo (Chiang Ching-kuo) ban hành lệnh tổng thống, quy định có hiệu lực từ đêm hôm sau. Thứ tự này rất quan trọng: Giải mã không phải là khoảnh khắc biểu diễn mà tổng thống tuyên bố trước ổ camera, mà là sự chuyển đổi cơ hệ qua sự giao thoa của lệnh hành chính, quy trình lập pháp và áp lực chính trị hiện có. [^9]
+Ngày 15 tháng 7 năm 1987, lệnh bãi bỏ thiết quân luật có hiệu lực. Tuần trước đó, ngày 7 tháng 7, Viện Lập pháp trước hết quyết định bãi bỏ thiết quân luật ở khu vực Đài Loan; ngày 14 tháng 7, Tưởng Kinh Quốc phát hành sắc lệnh tổng thống, chỉ định từ lúc nửa đêm hôm sau có hiệu lực. Thứ tự này rất quan trọng: bãi bỏ thiết quân luật không phải là một khoảnh khắc cụ thể kịch tính mà tổng thống tuyên bố một mình trước ống kính rồi hoàn thành ngay, mà là sự chuyển đổi tổ chức của sắc lệnh hành chính, quy trình lập pháp và áp lực chính trị sẵn có giao thoa với nhau.[^9]
 
-Ngày tháng rõ ràng, nhưng ý nghĩa thì không đơn giản. Đối với nhiều người dân Đài Loan, điều đó đại diện cho khả năng tái tổ chức, xuất bản, tụ hội và thảo luận những chủ đề trước đây bị cấm; đối với cỗ máy nhà nước, đó là việc thay thế một phần công cụ cai trấng khẩn cấp bằng ngôn ngữ pháp lý mới. Bản tóm tắt lịch sử của Central News Agency (Trung tâm Tin báo) ghi nhận việc giải phóng báo cáo, giải phóng đảng, cải công toàn bộ Nghị viện và sửa đổi hiến pháp sau khi giải mã, nhưng những cải cách này không được hoàn thành đồng thời vào ngày 15 tháng 7, mà được triển khai theo giai đoạn. [^9]
+Ngày tháng rất rõ ràng, nhưng ý nghĩa không phải là một đường thẳng. Với nhiều người Đài Loan, điều này có nghĩa là họ có thể tái tổ chức, xuất bản,集會 và nói về những điều mà trước đó bị cấm; với các máy móc nhà nước, thì là thay đổi một số công cụ cai trị khẩn cấp thành các ngôn ngữ pháp luật mới. Tạp chí trung ương đã sắp xếp lịch sử, liệt kê việc mở cửa cấm báo, bãi bỏ cấm đảng, cải tổ toàn diện Quốc hội và sửa đổi Hiến pháp sau bãi bỏ thiết quân luật, nhưng những cải cách này không được hoàn thành cùng một lúc vào ngày 15 tháng 7, mà được triển khai từng giai đoạn.[^9]
 
-Lowy Institute mô tả giải mã như một điểm khởi đầu, chứ không phải là điểm kết thúc của quá trình dân chủ hóa. Nó chỉ ra rằng sau khi giải mã, người dân Đài Loan bắt đầu xử lý những chân lý từng bị ép buộc im lặng: Sự kiện Ngày 22/8, những người chính trị bị đày, khu nhớ Green Island và Jingmei, tất cả đều là những nơi mà công chúng trò chuyện sau này tái lại. [^7]
+Viện Lowy mô tả bãi bỏ thiết quân luật như một điểm bắt đầu, chứ không phải điểm kết thúc của dân chủ hóa. Nó chỉ ra rằng, sau bãi bỏ thiết quân luật, người Đài Loan bắt đầu xử lý những sự thật bị bắt buộc im lặng, Sự kiện 228, các nạn nhân chính trị, những không gian kỷ niệm như Đảo Xanh và Cảnh Mỹ, tất cả là những nơi mà thảo luận công cộng đã phát triển lại sau đó.[^7]
 
-Quá trình "nói lại" này không hoàn toàn sạch sẽ, cũng không phải lúc nào cũng dịu dàng. Nó bao gồm ký ức của các nạn nhân, sự im lặng bền vững qua nhiều thế hệ trong gia đình, cuộc tranh giành giải thích lịch sử giữa các đảng, và tranh cãi xã hội về "ai xứng đáng đại diện cho Đài Loan". Nhưng dân chủ sẽ không phải là sự im lặng trong tranh cãi, mà là sự tranh cãi không cò phải trả bằng chi phí là sự im lặng, tố cáo hay phiá pháp tố cáo.
+Quá trình «nói lại» này không sạch sẽ, cũng không phải lúc nào cũng nhẹ nhàng. Nó bao gồm ký ức của những người bị hại, sự im lặng xuyên thế hệ của gia đình, giải thích lịch sử mà các đảng phái cạnh tranh lại, và những tranh cãi liên tục của xã hội về «ai có quyền đại diện cho Đài Loan». Nhưng dân chủ từ đầu không phải là làm yên tĩnh những tranh cãi, mà là cho phép tranh cãi không phải chịu cái giá của hoạt động ngầm, tố giác hay xét xử quân sự.
 
-Vì vậy, giải mã cần được đọc ở ít nhất ba tầng. Tầng thứ nhất là thời điểm lệnh có hiệu lực. Tầng thứ hai là thời điểm giải phóng báo cáo, giải phóng đảng, cải công Nghị viện và cải cách hiến pháp dần dần thong thả. Tầng thứ ba là thời điểm các nạn nhân có thể được thấy, bạo lực nhà nước có thể bị truy cứu, và người dân thực sự có thể thay đổi người lãnh đạo. Chỉ ghi nhớ tầng thứ nhất sẽ ghi nhầm "giải mã" thành "dân chủ đã hoàn thành". [^7] [^9]
+Do đó, bãi bỏ thiết quân luật ít nhất phải tách thành ba tầng để đọc. Tầng thứ nhất là lệnh được ban hành khi nào. Tầng thứ hai là cấm báo, cấm đảng, cải tổ Quốc hội và cải cách hiến pháp mà lúc nào từng bước lỏng lẻo. Tầng thứ ba thì là liệu nạn nhân có thể được nhìn thấy không, bạo lực nhà nước có thể bị hỏi han hay không, và liệu người dân có thể thực sự thay đổi người cầm quyền hay không. Chỉ nhớ tầng thứ nhất, sẽ viết sai «bãi bỏ thiết quân luật» thành «dân chủ đã hoàn thành».[^7] [^9]
 
-Chiang Ching-kuo (Chiang Ching-kuo) qua đời vào tháng 1 năm 1988, không kịp thấy cuộc bầu cử tổng thống năm 1996, cũng không kịp thấy sự chuyển giao quyền lực giữa các đảng. Việc đổ mọi thành tựu dân chủ về cho những năm cuối đời của ông là một sự lười biếng phổ biến trong câu chuyện lịch sử. Cũng tương tự, việc xóa bỏ hoàn toàn các quyết định mà Chiang Ching-kuo (Chiang Ching-kuo) đưa ra giữa năm 1986 và năm 1987 cũng là một sự lười biếng. Cách diễn đạt trung thực hơn là: ông đã khởi động một quá trình mà ông không thể kiểm soát được kết quả cuối cùng, và xã hội Đài Loan tiếp tục thúc đẩy quá trình đó sau khi ông ra đi.
+Tưởng Kinh Quốc qua đời vào tháng 1 năm 1988, không thấy bầu cử tổng thống trực tiếp năm 1996, cũng không thấy luân phiên quyền lực giữa các đảng. Đổ lại tất cả những thành tựu dân chủ sau này vào những năm cuối đời của ông, là một lười biếng thường thấy của tường thuật lịch sử. Xóa sạch tất cả những quyết định mà ông đưa ra trong giai đoạn 1986 đến 1987, cũng như thế. Cách nói trung thực hơn là: ông khởi động một quá trình mà chính ông không thể kiểm soát điểm kết thúc, và xã hội Đài Loan sau khi ông chết đi tiếp tục đẩy quá trình đó xa hơn.
 
-## Ai sẽ đưa cải cách đến bước tiếp theo
+## Ai đẩy cải cách tới công trình tiếp theo
 
-Một khía cạnh dễ bị bỏ qua của những cải cách của Chiang Ching-kuo (Chiang Ching-kuo) là: Chúng thay đổi cánh cửa đầu vào chính trị, nhưng không giải quyết tất cả các vấn đề chính trị trong một lần. Sự thành lập các đảng mới không đồng nghĩa với việc quyền lực đã bằng đẳng. Việc giải phóng báo cáo không đồng nghĩa với việc mọi người đều có thể an toàn để nói về quá khủ nhà mình. Việc giải mã có hiệu lực cũng không đồng nghĩa với việc các nạn nhân ngay lập tức nhận được công nhận pháp lý và công cộng đầy đủ. Những công việc tiếp theo chính là lý do tại sao cải cách hiến pháp năm 1992 và cuộc bầu cử tổng thống năm 1996 không thể bị bỏ qua. [^7]
+Cải cách của Tưởng Kinh Quốc còn có một vấn đề thang lớn dễ bị bỏ qua: nó thay đổi cửa vào chính trị, nhưng không giải quyết được tất cả những vấn đề chính trị trong một lần. Các đảng phái mới có thể được thành lập, không nghĩa là quyền lực đã bình đẳng. Cấm báo lỏng lẻo, không nghĩa là tất cả mọi người đều có thể an toàn nói lên lịch sử của chính mình. Bãi bỏ thiết quân luật có hiệu lực, cũng không nghĩa là nạn nhân ngay lập tức nhận được công nhân hoàn toàn từ tư pháp và công cộng. Những công việc tiếp theo này, chính là lý do tại sao cải cách hiến pháp năm 1992 và bầu cử tổng thống trực tiếp năm 1996 không thể bị bỏ qua.[^7]
 
-Nhìn lại từ đây, câu "Chiang Ching-kuo (Chiang Ching-kuo) thúc đẩy dân chủ hóa" nên được tách từ động từ ra: ông phê chuẩn, cho phép hoặc dẫn dắt một số hướng chuyển đổi cơ hệ. Các phong trào xã hội buộc nhà nước phải công nhận rằng những chuyển đổi đó không thể tránh khỏi. Những cuộc bầu cử, sửa đổi hiến pháp, công lý chuyển đổi và công tác ký ức sau này mới thực sự biến những chuyển đổi thành những cơ chế vững chắc hơn. Các vai trò khác nhau không phải để trừ nhau, mà cùng tham gia vào chuỗi nguyên nhân kéo dài của quá trình dân chủ hóa ở Đài Loan.
+Từ đây nhìn lại câu «Tưởng Kinh Quốc thúc đẩy dân chủ hóa», tốt nhất là tách động từ ra: ông phê chuẩn, giả máy hoặc chỉ huy những sự chuyển hướng tổ chức nhất định. Các phong trào xã hội buộc nhà nước phải thừa nhận rằng những sự chuyển hướng đó đã không thể tránh khỏi. Sau đó bầu cử, sửa đổi hiến pháp, công lý chuyển tiếp và các công việc kỷ niệm, mới biến sự chuyển hướng thành một tổ chức ổn định hơn. Những vai trò khác nhau không phải là làm cho nhau triệt tiêu, mà là cùng nhau xây dựng nên dây chuyền nhân quả của dân chủ hóa Đài Loan.
 
-Sự tách rời này không phải là để cố tính làm nhỏ bé nhân vật, mà để tránh viết lại lịch sử như một tiểu sự bộ nhân vật đơn lẻ. Nếu Chiang Ching-kuo (Chiang Ching-kuo) chỉ còn lại một nhãn hiệu "mở cửa", chúng ta sẽ không thấy được nước độc lập của ông trong quốc gia giám sát. Nếu các phong trào dân chủ chỉ còn lại là câu chuyện anh hùng, chúng ta cũng sẽ không thấy được thời điểm và lý do tại sao những khe hở xuất hiện trong hệ thống.
+Cách tách này không phải là có ý định viết nhỏ nhân vật, mà là tránh viết lịch sử thành tiểu sử cá nhân. Nếu Tưởng Kinh Quốc chỉ còn lại nhãn «sáng suốt», chúng tôi sẽ không thấy nhà nước tình báo mà ông ở trong đó. Nếu phong trào dân chủ chỉ còn lại câu chuyện anh hùng, chúng tôi cũng sẽ không thấy khi nào và tại sao những sự lỏng lẻo xuất hiện bên trong hệ thống.
 
-> **📝 Ghi chú biên tập viên**
-> Dân chủ hóa không phải là việc chuyển công trình từ tay một người sang tay một người khác, mà là việc giao cho nhiều người câu hỏi "ai có thể quyết định". Ngày tháng có thể xác nhận thời điểm lệnh có hiệu lực, nhưng không thể trả lời ai đã bỏ giá để tương xỏ tự do.
+> **📝 Ghi chú Cộng tác viên**
+> Dân chủ hóa không phải là di chuyển công lao từ tay một người sang tay người khác, mà là trả lại câu hỏi «ai có quyền quyết định» cho nhiều người hơn. Ngày tháng có thể xác nhận lệnh được ban hành khi nào, nhưng không thể tự nó trả lời ai đã trả giá cho tự do.
 
-Tiểu sử chính thức thường xếp các cải cách thành một chuỗi chính sách: Bản địa hóa, phát triển khu vực, giải mã, giải phóng báo cáo, giải phóng đảng. Sự xếp thứ tự này giúp xác nhận thời gian và cơ hệ, nhưng sẽ giấu "ai yêu cầu trước tiên, ai chịu chi phí, ai vẫn bị loại trừ sau cải cách" vào bên ngoài câu chữ. [^1]
+Các tiểu sử chính thức thường xếp cải cách thành một chuỗi chính sách: bản địa hóa, xây dựng địa phương, bãi bỏ thiết quân luật, mở cửa cấm báo, mở cửa cấm đảng. Cách xếp hàng này có hỗ trợ xác nhận thời gian và tổ chức, nhưng sẽ che giấu «ai yêu cầu trước, ai chịu đựng hậu quả, ai sau cải cách vẫn bị loại trừ» ngoài câu. [^1]
 
-Ngược lại, hồ sơ nhân quyền phân tích bạo lực nhà nước thành từng tên người, cơ quan và hành động: Ai bị giám sát, ai bị hấp thụ, ai ra lệnh điều tra, ai thay đổi cách xử lý dưới áp lực quốc tế. Nó không tự động cung cấp câu trả lời đầy đủ, nhưng ép buộc người đọc phải đặt cải cách và trách nhiệm lên cùng một bàn thờ. [^4]
+Trái lại, các tệp tin nhân quyền tách bạo lực nhà nước thành từng cái tên, tổ chức và hành động: ai bị giám sát, ai bị hút thu, ai ra lệnh điều tra, ai dưới áp lực quốc tế đã thay đổi xử lý. Nó không tự động cho ra câu trả lời hoàn chỉnh, nhưng buộc độc giả phải đặt cải cách và trách nhiệm trên cùng một bàn.[^4]
 
-Hai nguồn liệu này không thể thay thế cho nhau. Trang web chính thức có thể giải thích cách người ra quyết định tự mô tả, trong khi hồ sơ nhân quyền cho phép những người bị cai trấng lại một lần nữa bước vào câu chuyện. Khi hai nguồn này giao thoa, Chiang Ching-kuo (Chiang Ching-kuo) mới không bị viết thành một nhân vật mang chỉ một tiếng nói.
+Hai loại vật liệu này không thể thay thế cho nhau. Trang chính thức có thể giải thích cách người quyết định mô tả chính mình, các tệp tin nhân quyền thì cho phép những người bị cai trị quay trở lại trong tường thuật. Khi hai bên giao thoa, Tưởng Kinh Quốc mới không được viết thành một nhân vật chỉ có một giọng nói.
 
-## Không phải là điểm kết thúc
+## Không phải là điểm kết thúc của một người
 
-Điều đáng viết nhất về Chiang Ching-kuo (Chiang Ching-kuo) không phải là liệu ông có xứng đáng được đưa vào danh sách "Những người có công lớn nhất với Đài Loan", mà là mâu thuẫn của ông giúp chúng ta thấy cách cơ hệ chuyển đổi.
+Nơi đáng viết nhất về Tưởng Kinh Quốc, không phải là liệu ông có thể được xếp vào danh sách «những người đã đóng góp nhiều nhất cho Đài Loan», mà là mâu thuẫn của ông cho chúng tôi thấy hệ thống chuyển hướng như thế nào.
 
-Một chế độ bao cấp có thể ra quyết định mở cửa vì sự cô lập quốc tế, các phong trào xã hội, biến động kinh tế, khủng hoảng cai trấng và phán đoán của nhà lãnh đạo. Nhưng một khi sự mở cửa đã xảy ra, nó không còn thuộc về riêng nhà lãnh đạo nữa. Nhà báo, người ngoài đảng, gia đình nạn nhân, luật sư, công nhân, nông dân, phụ nữ và những người phong trào bản địa sẽ mở rộng khe hở thành không gian công cộng.
+Một chính phủ độc tài có thể vì nguyên nhân cô lập quốc tế, phong trào xã hội, thay đổi kinh tế, khủng hoảng cai trị và phán đoán của lãnh đạo, đưa ra quyết định mở cửa. Nhưng một khi mở cửa xảy ra, nó không còn chỉ thuộc về lãnh đạo. Các nhà báo, những người ngoài đảng, thân nhân nạn nhân, luật sư, công nhân, nông dân, phụ nữ và những người tham gia phong trào người bản địa, tất cả sẽ mở rộng khe hở cửa thành không gian công cộng.
 
-Câu chuyện chính thức của Tổng thống đặt Chiang Ching-kuo (Chiang Ching-kuo) vào trung tâm của những cải cách. Các tài liệu học thuật và nhân quyền nhắc nhở chúng ta rằng ngay cạnh trung tâm luôn có những thân xác và tiếng nói bị áp lực. [^1] [^2] [^4] Khi đặt các nguồn liệu này lại với nhau, chúng ta không nhận được một phiên bản "đẹp hơn" của Chiang Ching-kuo (Chiang Ching-kuo), mà là một câu trả lời gần gũi hơn với kinh nghiệm của Đài Loan: Dân chủ không phải là món quà, cũng không phải là trái quả tự nhiên chín muồi; mà là một không gian được mở ra một khe hở, nơi mà rất nhiều người cùng giữ gìn, mở rộng và định nghĩa lại.
+Tường thuật chính thức của Phủ Tổng thống sẽ đặt Tưởng Kinh Quốc ở trung tâm của cải cách. Các vật liệu học thuật và nhân quyền lại nhắc nhở chúng tôi rằng, luôn luôn có những cơ thể và giọng nói bị đè nén bên cạnh trung tâm.[^1] [^2] [^4] Đặt những nguồn này cùng nhau đọc, những gì bạn nhận được không phải là một Tưởng Kinh Quốc đẹp hơn, mà là một câu trả lời gần với kinh nghiệm Đài Loan hơn: dân chủ không phải là tặng phẩm, cũng không phải trái cây chín tự nhiên, mà là một không gian được đẩy mở một khe hở sau đó, rất nhiều người cùng nhau giữ gìn, mở rộng, tái định nghĩa.
 
-Ông mở cánh cửa, nhưng không phải là chủ nhân của sự dân chủ. Những người ở bên ngoài mới khiến cho Đài Loan sau này trở thành một nơi có thể thay đổi người nắm quyền.
+Ông đẩy mở cửa, nhưng không phải chủ nhân của dân chủ. Những người ở ngoài cửa, chính họ làm cho Đài Loan sau đó trở thành một địa điểm có thể thay đổi chủ nhân.
 
-Đó là di sản quý giá và hữu ích nhất mà Chiang Ching-kuo (Chiang Ching-kuo) để lại cho Đài Loan: Một quá trình, chứ không phải một tượng đài.
+Đây là di sản mà Tưởng Kinh Quốc để lại cho Đài Loan, là cái khó khăn nhất và hữu ích nhất: một quá trình, chứ không phải một tượng đài kỷ niệm.
 
-## Nguồn ảnh
+## Nguồn hình ảnh
 
-- [Ado / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg) — CC BY-SA 4.0
+- [Ảo Đạo / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg) — CC BY-SA 4.0
 
 ## Tài liệu tham khảo
 
-[^1]: [Chiang Ching-kuo (6th - 7th terms) — Presidents since 1947](https://english.president.gov.tw/Page/85) — Trang web chính thức của Tổng thống, ghi nhận nhiệm kỳ của Chiang Ching-kuo (Chiang Ching-kuo), giải mã, giải phóng báo cáo và đảng, cũng như việc cho phép cư dân Đài Loan đi thăm thân ở Trung Quốc đại lục.
+[^1]: [Chiang Ching-kuo (6th - 7th terms) — Presidents since 1947](https://english.president.gov.tw/Page/85) — Trang cá nhân chính thức Phủ Tổng thống, ghi lại nhiệm kỳ của Tưởng Kinh Quốc, bãi bỏ thiết quân luật, mở cửa cấm báo và cấm đảng cũng như thăm Trung Quốc đại lục.
 
-[^2]: [Chiang Ching-kuo và sự đánh giá lại lịch sử của chính trị phát triển ở Đài Loan](https://www.npf.org.tw/2/3855) — Xue Huayuan (Xue Huayuan) phân tích sự khác biệt giữa giải mã, giải phóng, dân chủ hóa, cũng như trách nhiệm của Chiang Ching-kuo (Chiang Ching-kuo) đối với sự cai trấng và xâm phạm nhân quyền.
+[^2]: [蔣經國與臺灣政治發展的歷史再評價](https://www.npf.org.tw/2/3855) — Phân tích của Huế Hóa Nguyên về sự khác biệt giữa bãi bỏ thiết quân luật, tự do hóa và dân chủ hóa, cũng như trách nhiệm của Tưởng Kinh Quốc đối với cai trị độc tài và vi phạm nhân quyền.
 
-[^3]: [Thư hiến của Chiang Ching-kuo và sự dân chủ hóa ở Đài Loan](http://www.cck.org.tw/life/life_taiwan.html) — Trang web kỷ niệm sinh nhật thứ 100 của Chiang Ching-kuo (Chiang Ching-kuo) lưu giữ bản ghi tiếng Việt của câu "Thời đại đang thay đổi, môi trường đang thay đổi, dòng chảy cũng đang thay đổi" và câu chuyện về giải mã.
+[^3]: [經國先生與臺灣民主化](http://www.cck.org.tw/life/life_taiwan.html) — Trang web Kỷ niệm 100 năm sinh Tưởng Kinh Quốc lưu giữ sự dịch sang tiếng Trung của «Thời đại đang thay đổi, môi trường đang thay đổi, xu thế cũng đang thay đổi» và tường thuật bãi bỏ thiết quân luật.
 
-[^4]: [Vụ án Jiangnan — Kho lưu trữ Quyền con người Quốc gia: Sự kiện](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — Kho lưu trữ Quyền con người Quốc gia (National Human Rights Archives) tổng hợp sự kiện vụ án Jiangnan năm 1984, sự liên quan của bộ tình báo, cách xử lý của Chiang Ching-kuo (Chiang Ching-kuo) và áp lực điều tra từ phía Mỹ.
+[^4]: [江南案 — 國家人權記憶庫：事件](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — Thư viện Lịch sử Nhân quyền Quốc gia sắp xếp vụ án Giang Nam 1984, sự liên quan của Cục An ninh quân sự, xử lý của Tưởng Kinh Quốc và áp lực điều tra của Mỹ.
 
-[^5]: [Tổng thống tiếp đón phỏng vấn độc quyền từ "Washington Post" và đưa ra đề tài "Tổng thống Đài Loan đề xuất bầu phát biểu bằng tên 'Đài Loan' tham gia Liên Hợp Quốc"](https://www.president.gov.tw/NEWS/11435) — Tài liệu kỷ niệm năm 2007 của Tổng thống, tổng hợp mối quan hệ giữa sự kiện Đảo Đẹp (Beautiful Island) năm 1979, sự thành lập Đảng Dân chủ tiến bộ (Democratic Progressive Party) và việc Chiang Ching-kuo (Chiang Ching-kuo) tiết lộ kế hoạch giải mã cho Catherine Graham vào năm 1986.
+[^5]: [總統接受美國「華盛頓郵報」專訪並以「台灣領導人推動公投以『台灣』名義加入聯合國」為題刊出](https://www.president.gov.tw/NEWS/11435) — Tài liệu hồi tưởng năm 2007 được Phủ Tổng thống lưu giữ, sắp xếp mối quan hệ giữa Sự kiện Đảo Đẹp, thành lập Đảng Dân chủ Tiến bộ và kế hoạch bãi bỏ thiết quân luật mà Tưởng Kinh Quốc tiết lộ cho Graham năm 1986.
 
-[^6]: [Vai trò của các ý tưởng tinh thần con người trong biến đổi lịch sử — Sự kiện Đảo Đẹp và sự dân chủ hóa ở Đài Loan](https://www.ios.sinica.edu.tw/people/personal/wnd/%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%90%86%E5%BF%B5%E5%9C%A8%E6%AD%B7%E5%8F%B2%E8%AE%8A%E9%9D%A9%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6%E5%92%8C%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E5%8C%96.pdf) — Nghiên cứu của Wu Nai-te (Wu Nai-te) tại Viện Nghiên cứu Trung tâm (Academia Sinica) về vai trò của sự kiện Đảo Đẹp (Beautiful Island), các phong trào đại chúng và các nhà hoạt động đối lập trong sự dân chủ hóa ở Đài Loan, đồng thời kiểm tra lại cách giải thích quá tín nhiệm vào việc dân chủ hóa là công trình của riêng Chiang Ching-kuo (Chiang Ching-kuo).
+[^6]: [人的精神理念在歷史變革中的作用——美麗島事件和台灣民主化](https://www.ios.sinica.edu.tw/people/personal/wnd/%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%90%86%E5%BF%B5%E5%9C%A8%E6%AD%B7%E5%8F%B2%E8%AE%8A%E9%9D%A9%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6%E5%92%8C%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E5%8C%96.pdf) — Nghiên cứu của Ngô Nãi Đức từ Viện Trung Ương về Sự kiện Đảo Đẹp, người dân và phong trào đối lập trong dân chủ hóa Đài Loan, cũng như xem xét lại những giải thích quy lỗi quá mức dân chủ hóa cho riêng Tưởng Kinh Quốc.
 
-[^7]: [The end of martial law: An important anniversary for Taiwan](https://www.lowyinstitute.org/the-interpreter/end-martial-law-important-anniversary-taiwan) — Lowy Institute tóm tắt sau khi giải mã năm 1987: Luật An ninh Quốc gia, cải cách hiến pháp và các phong trào ký ức công cộng.
+[^7]: [The end of martial law: An important anniversary for Taiwan](https://www.lowyinstitute.org/the-interpreter/end-martial-law-important-anniversary-taiwan) — Viện Lowy xem xét lại bãi bỏ thiết quân luật, Luật An ninh Quốc gia sau đó, cải cách hiến pháp, kỷ niệm công cộng và sự tiếp tục của phong trào dân chủ.
 
-[^8]: [The Autocratic Democrat: why did Chiang Ching-kuo dismantle Taiwan’s authoritarian regime?](https://retrospectjournal.com/2024/03/17/the-autocratic-democrat-why-did-chiang-ching-kuo-dismantle-taiwans-authoritarian-regime/) — Bình luận trong tạp chí Lịch sử Edinburgh, phân tích từ góc độ khủng hoảng ngoại giao chiến tranh lạnh và cơn sóng dân chủ hóa quốc tế, những động lực có thể giải thích cho sự cải cách của Chiang Ching-kuo (Chiang Ching-kuo).
+[^8]: [The Autocratic Democrat: why did Chiang Ching-kuo dismantle Taiwan's authoritarian regime?](https://retrospectjournal.com/2024/03/17/the-autocratic-democrat-why-did-chiang-ching-kuo-dismantle-taiwans-authoritarian-regime/) — Tạp chí lịch sử Đại học Edinburgh bình luận, phân tích cuộc khủng hoảng ngoại giao Chiến tranh Lạnh và các sóng dân chủ hóa quốc tế như những động lực có thể có của cải cách Tưởng Kinh Quốc.
 
-[^9]: [Mở hộp ảnh cũ: Tổng thống Chiang Ching-kuo (Chiang Ching-kuo) tuyên bố giải mã](https://www.cna.com.tw/news/ahel/202307135003.aspx) — Central News Agency (Trung tâm Tin báo) tổng hợp thời gian của việc giải phóng báo cáo, giải phóng đảng, cải công toàn bộ Nghị viện và sửa đổi hiến pháp sau khi giải mã.
+[^9]: [開箱老照片》蔣經國總統宣布解嚴](https://www.cna.com.tw/news/ahel/202307135003.aspx) — Tạp chí Trung Ương sắp xếp các ngày Viện Lập pháp quyết định 7 tháng 7 năm 1987, sắc lệnh tổng thống 14 tháng 7 và bãi bỏ thiết quân luật có hiệu lực 15 tháng 7 cùng các cải cách tiếp theo.

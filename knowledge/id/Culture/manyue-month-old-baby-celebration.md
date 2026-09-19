@@ -26,7 +26,7 @@ translatedAt: '2026-08-04T20:19:11+08:00'
 
 > **Ringkasan 30 Detik:** Adat istiadat bulan penuh Taiwan sedang mengalami "revolusi diam" dari "mementingkan upacara" ke "mementingkan perasaan". Dulu, orang tua tua berteriak ke langit memanggil nama elang, berusaha mempertahankan anak dari kekuatan mistis; kini, orang tua mengubah kegembiraan kelahiran baru menjadi selera budaya lingkungan sosial melalui pemilihan kotak hadiah bulan penuh yang mewah. Artikel ini mengajak Anda memasuki sejarah evolusi adat pengasuhan dari masyarakat pertanian hingga era digital.
 
-「鴟鴞（老鷹）飛上山，嬰仔快做官；鴟鴞飛高高，嬰仔中狀元。」
+«Elang terbang ke gunung, semoga si bayi lekas jadi pembesar; elang terbang tinggi-tinggi, semoga si bayi jadi juara ujian negeri.» (鴟鴞飛上山，嬰仔快做官；鴟鴞飛高高，嬰仔中狀元)
 
 Di pedalaman Taiwan tahun 1950-an, pada hari bayi genap sebulan, orang tua tua akan menggendong anak keluar rumah, sambil memukul tanah dengan bambu dan berteriak keras ke langit. Ritual yang disebut 「喊利鷂」 atau 「喊鴟鴞」 ini, kedengarannya seperti perayaan meriah, tapi bagi orang tua zaman itu, ini lebih seperti 「negosiasi kelangsungan hidup」 dengan alam. Di era medis belum maju, anak yang selamat melewati bulan pertama dianggap telah lolos rintangan hidup yang pertama.
 
@@ -56,7 +56,7 @@ Khususnya ritual 「做膽」 (membuat keberanian), orang tua tua menggulingkan 
 
 Bila pandangan dialihkan ke modern, perubahan paling menonjol pada adat bulan penuh ada pada 「makanan」.
 
-Secara tradisional, lahir anak laki dikirim 「nasi minyak dengan paha ayam」, lahir anak perempuan dikirim 「kue kue merah」 (紅龜粿). Nasi minyak simbol makan pakai cukup, paha ayam mewakili daya hidup kuat [^5]. Namun, seiring普及 (penyebaran) pengiriman dingin dan perubahan gaya hidup, pilihan orang tua modern tak lagi terikat kerangka gender.
+Secara tradisional, lahir anak laki dikirim 「nasi minyak dengan paha ayam」, lahir anak perempuan dikirim 「kue kue merah」 (紅龜粿). Nasi minyak simbol makan pakai cukup, paha ayam mewakili daya hidup kuat [^5]. Namun, seiring penyebaran pengiriman dingin dan perubahan gaya hidup, pilihan orang tua modern tak lagi terikat kerangka gender.
 
 Tahun-tahun terakhir, semakin banyak orang tua baru cenderung pilih 「kotak hadiah bulan penuh suhu ruang」 atau 「kue kering organisasi amal」 [^6]. Selain praktis dikirim, ini juga mencerminkan nilai orang tua modern yang ingin menghubungkan kelahiran anak dengan 「kebaikan bersama masyarakat」. Kue Madeleine Prancis, pound cake mewah, perlahan menggantikan nasi minyak tradisional, jadi pemandangan paling mencolok di media sosial.
 
@@ -76,7 +76,7 @@ Lagi, beberapa pantangan tradisional patut diperhatikan. Misal, bayi bulan penuh
 
 Dari berteriak ke langit memanggil elang, hingga berbagi foto kue bulan penuh di layar HP, adat bulan penuh Taiwan meski bentuknya berubah total, tapi intinya tak pernah berubah — itu tulusnya perlindungan terhadap kehidupan baru.
 
-Baik 「頭殼定」 (kepala kuat) kuno, maupun 「kotak hadiah amal」 modern, ritual-ritual ini都在 (semua) memberitahu anak: dunia ini sudah siap menyambut kedatanganmu.
+Baik 「頭殼定」 (kepala kuat) kuno, maupun 「kotak hadiah amal」 modern, ritual-ritual ini semua memberitahu anak: dunia ini sudah siap menyambut kedatanganmu.
 
 ## Bacaan Lanjutan
 

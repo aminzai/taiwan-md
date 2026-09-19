@@ -160,14 +160,14 @@ Pada 10 April 2025, di Komite Keuangan Yuan Legislatif, Anggota Legislatif Wu Pi
 
 Angka yang mendukung arah ini adalah sebagai berikut: Tiongkok menduduki 64,4% dari rasio laporan bea cukai kiriman cepat bebas pajak nilai kecil di bawah 2.000 Yuan, naik dari 50,4% tiga tahun lalu, ditambah Hong Kong total melebihi 88%[^40]。
 
-Dalam periode yang sama, negara lain juga membongkar ambang mereka masing-masing。 Amerika Serikat membatalkan sepenuhnya, Uni Eropa mengubah ke bea masuk transisional, alasannya sama: bebas pajak harga rendah awalnya adalah desain agar barang masuk lebih cepat, kini dianggap sebagai celah[^41][^42][^43]。 Jepang harga kena pajak di bawah 10.000 Yen, Korea Selatan barang umum 150 Dolar AS, memasukkan kedua ambang ini bersama-sama, 2.000 Yuan Taiwan Baru (sekitar 63 Dolar AS) jelas adalah yang terendah dalam daftar ini[^44][^45]。
+Dalam periode yang sama, negara lain juga membongkar ambang mereka masing-masing。 Amerika Serikat membatalkan sepenuhnya, Uni Eropa mengubah ke bea masuk transisional, alasannya sama: bebas pajak harga rendah awalnya adalah desain agar barang masuk lebih cepat, kini dianggap sebagai celah[^41][^42][^43]。 Jepang harga kena pajak di bawah 10.000 Yen, Korea Selatan barang umum 150 Dolar AS, memasukkan kedua ambang ini bersama-sama, 2.000 dolar Taiwan Baru (sekitar 63 Dolar AS) jelas adalah yang terendah dalam daftar ini[^44][^45]。
 
 ````tw-bars
 Di negara yang masih mempertahankan ambang, Taiwan digambar terendah, sedangkan Amerika Serikat menghapus seluruh garisnya (sekitar Dolar AS)
 Uni Eropa | 175 | 150 Euro, mulai 1 Juli 2026 dikenakan tambahan 3 Euro per item
 Korea Selatan | 150 | Barang umum, impor kiriman cepat dari AS 200 Dolar
 Jepang | 67 | Harga kena pajak di bawah 10.000 Yen
-*Taiwan | 63 | Harga lengkap pajak 2.000 Yuan Taiwan Baru, termasuk biaya kirim dan asuransi
+*Taiwan | 63 | Harga lengkap pajak 2.000 dolar Taiwan Baru, termasuk biaya kirim dan asuransi
 Amerika Serikat | 0 | Awalnya 800 Dolar, dibatalkan sepenuhnya mulai 29 Agustus 2025
 Sumber: Perintah Presiden Rumah Putih 14324、Dewan Uni Eropa、Kantor Bea Cukai Kementerian Keuangan Jepang、Penjelasan Praktik Bea Masuk Korea、Peraturan Bea Masuk Keluar Barang Pos Taiwan。 Mata u
 
@@ -275,7 +275,7 @@ Artikel ini menggunakan 5 gambar domain publik/berlisensi CC, semuanya di-cache 
 
 [^22]: [Dewan Direksi TradeVan 12 Kursi, Kementerian Keuangan Menduduki 6 Kursi](https://www.mirrormedia.mg/story/20260803-177fin-182204) — Laporan Mirror Weekly 3 Agustus 2026 menambah struktur dewan direksi dan pangsa pasar TradeVan, serta mencatat Uni-President E-Commerce yang berkualifikasi 'tidak berminat mengoperasikan', sehingga terbentuk situasi monopoli praktis.
 
-[^23]: [Peraturan Izin dan Pengelolaan Operasi Jaringan Pabean](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350048) — Pasal dari Database Peraturan Nasional, berdasarkan Pasal 10 Ayat 5 Undang-Undang Bea Masuk, Pasal 4 mewajibkan modal disetor 5 miliar Yuan Taiwan baru, Pasal 6 mengatur Kementerian Keuangan dapat membentuk komite tinjau, merupakan landasan hukum sistem izin berbasis kualifikasi untuk operator jaringan pabean, bukan prosedur tender Undang-Undang Pengadaan Pemerintah.
+[^23]: [Peraturan Izin dan Pengelolaan Operasi Jaringan Pabean](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350048) — Pasal dari Database Peraturan Nasional, berdasarkan Pasal 10 Ayat 5 Undang-Undang Bea Masuk, Pasal 4 mewajibkan modal disetor 5 miliar dolar Taiwan Baru baru, Pasal 6 mengatur Kementerian Keuangan dapat membentuk komite tinjau, merupakan landasan hukum sistem izin berbasis kualifikasi untuk operator jaringan pabean, bukan prosedur tender Undang-Undang Pengadaan Pemerintah.
 
 [^24]: [Bea Cukai: Semua Operator Berkualifikasi Dapat Membangun Aplikasi Kuasa Online](https://finance.ettoday.net/news/3212376) — Laporan ETtoday 3 Agustus 2026 mencatat konferensi pers, secara harfiah merekam respons resmi dengan kerangka 'sertifikasi kualifikasi, tinjauan ulang setiap 5 tahun' terhadap tuduhan monopoli, serta menjelaskan masyarakat dapat melakukan kuasa online via Jendela Tunggal Bea-Pelabuhan-Perdagangan dengan Sertifikat Orang Alami, bukan hanya melalui EZ Way.
 

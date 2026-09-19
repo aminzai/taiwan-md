@@ -111,15 +111,15 @@ That question lay buried in his body for two years.
 
 Two years later, he told the _Liberty Times_:
 
-> **「在 AI 時代，掌握高品質的結構化內容就掌握了敘事權。」**[^3]
+> **“In the age of AI, whoever holds high-quality structured content holds the right to narrate.”**[^3]
 
 He told the Central News Agency:
 
-> **「AI 的回答取決於它讀過什麼資料。如果網路上關於台灣最完整、最結構化、最容易被機器理解的內容，是由台灣人自己用繁體中文寫的，那 AI 給出的答案，就會帶有我們自己的觀點和溫度。」**[^5]
+> **“What an AI answers depends on what it has read. If the most complete, most structured, most machine-legible material about Taiwan on the internet is written by Taiwanese people themselves in Traditional Chinese, then the answers the AI gives will carry our own perspective and our own warmth.”**[^5]
 
 And he wrote in the original Facebook post:
 
-> **「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現，我們的家其實就很美好。」**[^2]
+> **“Even when we are given a hard time internationally, or when our situation is more precarious, I am proud of my country, proud of Taiwan. The further out I travel, the more deeply I find that our home is really rather beautiful.”**[^2]
 
 These three statements are really **the same ethical decision, finding language in three different settings**.
 

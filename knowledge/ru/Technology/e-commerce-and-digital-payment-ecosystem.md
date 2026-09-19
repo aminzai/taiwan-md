@@ -22,10 +22,10 @@ lastVerified: 2026-04-06
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:8a77917ab93abd39'
-sourceBodyHash: 'sha256:6564b3269a2b9fa4'
-translatedAt: '2026-08-04T13:32:59.901935+00:00'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:b8c4015a34b3a79e'
+sourceBodyHash: 'sha256:9120e92d38401c8e'
+translatedAt: '2026-09-13T10:50:49.506478+00:00'
 ---
 
 # Электронная коммерция и цифровые платежи Тайваня: три торговые войны одного острова

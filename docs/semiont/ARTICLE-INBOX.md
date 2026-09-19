@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-26
-last_session: '2026-07-26-225759-manual（/twmd-evolve v1/v2 三源交叉：人物條目 SEO batch 9 篇，GA+SC 雙源確認 pos 10-13 CTR 低於基準）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -115,6 +115,8 @@ distill_targets:
 | P2   | 本季：值得寫但不急                       | Evergreen 主題、次要人物          |
 | P3   | Backlog：一直想做但不確定何時            | 大型策展主題、需大量資源          |
 
+**譯本數是放大係數**（2026-09-18 新增）：同一層級裡兩條 EVOLVE 都是「事實錯／幻覺」時，譯本多的先做。翻譯線的閘門守的是忠實度，原文層的錯會一字不差投射到每個語言版本，十語譯本的一個錯等於十一個在線的錯；修完 zh 後 `sourceContentHash` 變動，stale 機制會把譯本排進重譯。登記 EVOLVE 時在 Notes 寫「譯本 N 語」讓挑單的人看得到係數（查法：`grep -l "translatedFrom: '{Category}/{檔名}'" knowledge/*/ | wc -l`）。誕生：OBSERVER-QUEUE #64 台灣原住民當代藝術（三月初稿族籍錯，十語在線半年）。
+
 ---
 
 ## Type 判準
@@ -173,6 +175,135 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 台灣當代藝術 EVOLVE — 巡邏止血後七條腳註仍全是機構首頁，要換單篇來源才站得住
+
+- **Type**: `EVOLVE`
+- **Category**: Art
+- **Path**: knowledge/Art/當代藝術.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-09-19 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.2 母體第五篇）
+- **Notes**:
+  - **查核已跑完**（audit 在 `reports/research/2026-09/當代藝術.md`，這篇 03-17 初稿的第一份 research 檔）：16 原子 ✅ 8／⚠️ 4／❌ 2；已止血：許家維「2019 年代表台灣、《飛行器》王仲民」（實為 2013 三人聯展《鐵甲元帥》，王仲民查無此人）、里森畫廊台北空間（不存在，換白石畫廊）、謝德慶「屬另一脈絡」（2017 台灣館個展）、吳哲宇等「林茲／SIGGRAPH 屢獲肯定」（無源，改黃心健 2022 榮譽獎）、國美館 2022 整修、臺南國美 2027 掛牌（皆無源刪）
+  - **重寫要處理的**：七條腳註全是機構首頁，承載不了任何具體 claim；威尼斯台灣館三十年只有一段，10 語譯本在線；高美館「大南方」與整修年份、關渡雙年展（實為雙年）、公共藝術設置辦法比例都還沒有單篇來源
+  - 站內已有〈台灣新媒體藝術〉〈謝德慶〉〈王新仁〉〈鄭文琦〉可當骨架與交叉
+- **Reference**: [reports/research/2026-09/當代藝術.md](../../reports/research/2026-09/當代藝術.md)
+
+### 張忠謀 EVOLVE — 巡邏查核 ❌ 10.4% 超門檻，早年生活整章是生成的因果故事，退回 REWRITE Stage 2 重寫
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/張忠謀.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.2 母體第二篇）
+- **Notes**:
+  - **查核已跑完**（audit 在 `reports/research/2026-09/張忠謀.md`，這篇 03-17 初稿的第一份 research 檔）：140 原子 ✅ 76／⚠️ 42／❌ 22（去重 13／125＝10.4%）／🔴 0；20 條腳註 18 條指向兩個維基頁，[^9][^12][^13][^17] 的描述數字本身不在來源頁。依 FACTCHECK Phase 4 硬門檻 >10% 應退回 Stage 2 重寫，不只修補
+  - **已止血七處**（`89b721a3df`，主 session 親核 zh wiki／今周刊後改）：母親「徐韻徵」→「徐君偉」（12 語譯本同步）、1945 年 14 歲遷港 → 1945 遷上海／1948 年 17 歲遷港、資本額「220 億」→ 總投資 1.45 億美元三方比例、「領導突破 7/5/3 奈米」→ 5nm／3nm 是退休後、「仍在學習文學哲學」→ 每月兩本英文書「都不是文學」、史丹佛／MIT 名譽博士 → 清大／交大／台大、「2024 年破十兆」→ 2020 年 7 月破十兆／2024 年 3 月破二十兆
+  - **重寫要處理的**：早年生活整章（哈佛文學夢、因缺乏熱情轉 MIT、韓戰外籍生進不了軍方——自傳原文是父親安排的哈佛緩衝期、兩次博士資格考落榜才進職場，福特比希凡尼亞少一美元月薪）；42 條 ⚠️（年齡虛實歲、1983 離開 TI／通用儀器一年的職涯缺口沒寫、稱謂混用、七句無源填充句）；腳註結構每個具體數字各掛一手源，維基只留生平總覽一條
+  - **真人 People 條目**：脊椎判斷（一個把「跨界選擇」當主題的 lifeTree 要不要留）帶哲宇 review；文章 featured: true 且 12 語在線，放大係數最高
+- **Reference**: [reports/research/2026-09/張忠謀.md](../../reports/research/2026-09/張忠謀.md) §Critical issues（13 條 ❌ 各附刪改建議與替換來源）
+
+### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
+  - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景
+  - 必驗：482 人／34 項回中華奧會官方數字；1974 除名年份；1990 重返時正式名稱使用時點
+  - 順手 EVOLVE：〈郭婞淳〉（2026-03-19）〈楊勇緯〉（2026-03-21）亞運後各補一節結果
+  - 站上零篇亞運文章；〈中華台北〉〈台灣體育發展與奧運〉都繞奧運寫；本檔「台灣體育發展與國際賽事 NEW P1」可併入或改切角
+- **Reference**: [遠見](https://www.gvm.com.tw/article/132893) / [聯合 中華隊啟程](https://udn.com/news/story/124981/9760951) / [運動視界](https://www.sportsv.net/articles/128552)
+
+### 科技監控與電子腳鐐 NEW — 張俊傑剪掉手鐶之後：台灣的替代羈押怎麼運作
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 高金素梅案「大帳房」張俊傑 9/6 深夜電子手鐶低電量告警 → 設備遭破壞丟棄大安森林公園 → 北院通緝、註銷護照、六波搜索拘 7 人接應者；高檢署另查「收受中國資金、在台發展組織」；北檢求刑 16 年以上
+  - **敏感度：高**（審理中案件 + 政治人物 + 中資支線）。寫制度層（電子監控在台灣怎麼運作、為什麼低電量警示要到隔天才發現人跑了、替代羈押的設計與漏洞），人物層與案情不當脊椎；高金素梅人物條目等判決後再議
+  - 必驗：電子監控法源（刑事訴訟法 116-2）、全台配戴數、歷年脫逃案例回司法院／法務部原始資料
+- **Reference**: [風傳媒](https://www.storm.mg/article/11162361) / [聯合](https://udn.com/news/story/7315/9756089) / [關鍵評論](https://www.thenewslens.com/article/270134)
+
+### 全社會防衛韌性 NEW — 從《台灣全民安全指引》到第二屆國際論壇
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/19 第二屆全社會防衛韌性國際論壇，近 500 位國內外代表，議題含軍民整合、網路安全、關鍵基礎設施、灰色地帶；新版《台灣全民安全指引》全台普發，首次明寫「任何投降訊息都是假訊息」
+  - 切角：把手冊當物件開場，對照瑞典、芬蘭、捷克（72 小時生存指南）、法國同類手冊，講台灣 2024 年起為什麼學北歐
+  - 敏感度：中（國安政策，走「政府做了什麼、國際怎麼做」紀實線）；站上有〈電網韌性〉〈認知作戰〉〈台灣國防與軍事現代化〉可 cross-link，缺政策骨架本身
+- **Reference**: [Newtalk 論壇](https://newtalk.tw/news/view/2026-09-16/1060113) / [遠見 全民安全指引](https://www.gvm.com.tw/article/125936) / [總統府 委員會](https://www.president.gov.tw/News/28987)
+
+### 科技園區發展 EVOLVE — 龍科三期復活：一塊地的三次改案（158.59 → 89.6 → 104 公頃）
+
+- **Type**: `EVOLVE`
+- **Category**: Technology
+- **Path**: knowledge/Technology/科技園區發展.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 9/17 國發會審議通過龍潭園區擴建 104 公頃，年產值估 5,500 億、4,500 個就業；台積電睽違三年重返，規畫三座 1.4 奈米以下埃米世代廠、投資逾兆；117 年底前完成開發許可與環評、119 年公共工程
+  - 2022 年消息曝光後 88% 私有地徵收引自救會抗爭 → 縮為 89.6 公頃 → 隨「桃竹苗大矽谷」周邊地主主動要求納入擴至 104 公頃
+  - 文章停在 2026-03-25；補一節「龍科三期：一塊地的三次改案」，切角放徵收爭議怎麼從抗爭走到地主主動納入
+- **Reference**: [聯合 擴建 104 公頃](https://udn.com/news/story/7240/9760512) / [Newtalk 龍科三期復活](https://newtalk.tw/news/view/2026-05-04/1033219) / [公視 台積電不排除](https://news.pts.org.tw/article/806684)
+
+### Threads 在台灣 EVOLVE — 5 億 MAU、台灣佔全球 21.08%、在地標籤功能台灣首波
+
+- **Type**: `EVOLVE`
+- **Category**: Culture
+- **Path**: knowledge/Culture/Threads在台灣.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - Threads 破 5 億月活，推出母語標籤與趨勢話題功能，台灣列首波市場；台灣用戶佔全球 21.08%（全球每五則貼文一則來自台灣）、18-24 歲使用率 44%、25-34 歲 28.4%
+  - 補一節 2026 新功能與台灣佔比；數字回 Meta 官方與 QSearch 原始報告，不抄轉載
+- **Reference**: [自由財經](https://ec.ltn.com.tw/article/breakingnews/5477165) / [QSearch 2026 統計](https://www.qsearch.cc/blog/2026/03/threads-stats-2026-taiwan/)
+
+### 台海危機與兩岸關係發展 EVOLVE — 不開火的壓力：海警船數字怎麼變（7 月 244 艘創新高）
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/台海危機與兩岸關係發展.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Notes**:
+  - 海巡署統計 7 月 244 艘中國公務船進入台灣周邊水域創新高；8 月前 21 天 152 艘、約六成是海警；AEI-ISW 9/15 週報持續追蹤
+  - 站上無「灰色地帶」或「海警」條目；補一節，數字回海巡署原始資料，敏感度中（紀實不評論）
+- **Reference**: [AEI-ISW 9/15](https://www.aei.org/commentary/china-taiwan-update-september-15-2026/) / [AEI-ISW 9/4](https://www.aei.org/commentary/china-taiwan-update-september-4-2026/)
+
+### 馬英九 FACTCHECK Full — 兩條媒體腳註撐不起正文，且已逐字翻進 12 語
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/馬英九.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-09-14 by twmd-maintainer-am（issue #1729）；2026-09-15 by twmd-maintainer-am 覆驗後登記進 INBOX
+- **Notes**:
+  - **2026-09-18 semiont-heartbeat 已跑完 FACTCHECK Full**（audit 表在 `reports/research/2026-05/馬英九.md` §2026-09-18）：30 條非維基腳註 claim 對不上 12 條（40%），72 原子 ❌ 17。全部可撤回／可更正的都在 `8cc6a667e1` 一個 heal commit 改掉（含在世人物被寫成「辭世」、偽造引語，這兩條連 11 語譯本同步修）。**剩下的才是這條 entry 現在的工作**：Phase 4 hard gate ❌ 23.6% > 10%，§從 80 秒到 16 秒（卸任後節）與太陽花節要退回 REWRITE Stage 2 局部重寫，不是再修補；政治人物條目，重寫的脊椎判斷留給 Write session 帶哲宇 review。譯本會因 zh 雜湊變更被標 stale 重譯（等 #68 合併後）。
+  - **已覆驗兩條，結論與開票時略有出入**（2026-09-15 重跑，不是照抄 issue 內文）：
+    - `[^31]` 自由亞洲電台：**確認錯得最重**。該報導寫的是 2018-12-20 出版的回憶錄自序，不是東吳大學演講；文中唯一與「罪人」有關的原話是「那些讓台灣停滯不前的罪人啊」，母稿引號內那句「有些自以為愛台灣是害死台灣⋯⋯他們是台灣的罪人」不在裡面。場合錯置＋偽造直接引語同時命中，且對象是在世政治人物。
+    - `[^3]` 中央社：**issue 說「全文沒有錢復」這句話是錯的**。錢復出現在該篇，但講的是他當時任駐美代表、回國開會時力勸蔣經國解嚴——跟「推薦馬英九進總統府」無關。「1981」與「推薦」確實沒有。所以這條的病不是「來源沒提到這個人」，是**同名不同事的張冠李戴**，比單純查無此人更難用關鍵字掃出來。
+  - **建議處置**（照 MAINTAINER §Step 3.4 降階處理）：`[^31]` 去引號改敘述並改述回憶錄自序，或另尋東吳演講的原始報導；`[^3]` 拿掉「1981 年由錢復推薦」這兩個具體細節，保留可查證的「曾任蔣經國英文秘書／翻譯解嚴宣告」。
+  - **抽樣是 2/2 不是 2/43**：43 條腳註多數為維基，這兩條是抽到的媒體來源。真實錯誤率未知，需對全部非維基腳註跑 FACTCHECK Full。
+  - **擴散面**：12 語譯本逐字照搬，母稿改完要讓 babel 重譯（改 zh 會更新 sourceContentHash，stale 偵測會自己接上，但在那之前錯的引語在 12 語都還在線上）。
+  - **為什麼維護班不自己改**：政治人物條目的實質內容修改同時命中 §自主權邊界（政治立場）與「改 zh SSOT 走 REWRITE」兩條邊界；`[^31]` 要決定的是「去引號」還是「換來源」，屬呈現方式判斷。維護班只做覆驗與落檔。
+- **Reference**: [Issue #1729](https://github.com/frank890417/taiwan-md/issues/1729)
 
 ### 生態多樣性 EVOLVE — 三月薄文補遊蕩犬貓威脅，接住讀者 issue #1678
 
@@ -272,8 +403,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - 一句話核心張力：投稿者已經補完死碼問題（`src/pages/exams.astro` 補進來，模板不再是孤兒），技術面已經不卡；卡的是骨架背後七張人物卡目前只有維基與百度百科撐著，開站要先把地基換成台灣自己的一手來源
   - merge PR #1453 後要做：十二語 `src/pages/{lang}/exams.astro`（現況只有中文讀得到，因為 `getLangFromUrl` 靠網址前綴）、UI 字串補齊、URL 契約修正（模板註解寫 `/exams/gsat/` 但實際建出 `/exams/`）、策展骨架參照來源換成大考中心／教育部／報導者等一手來源、七張人物卡各補一則第三方報導連結（PR #1453 留言已列缺口）
+  - **站內入口（2026-09-13 maintainer-am 補登，原清單漏了這件）**：`src/components/Header.astro` 導覽列目前八項（about／explore／map／data／soundscape／resources／semiont／contribute）沒有 exams，全 repo 指向 `/exams` 的連結只有它自己的模板。頁面自 2026-09-10 02:52 起已部署且在 sitemap 裡，但**讀者要先知道網址才進得去**。沒有入口的區段在讀者那端跟沒開站幾乎沒有差別，所以這件事屬於「開站」本身，不是開完之後的加分項。放哪個位置／叫什麼名字／十三語 UI 字串，照 §自主權邊界屬資訊架構與品牌面，由本 feature session 連同上面幾項一起帶給哲宇定，不各自分開問
   - 由獨立 feature session 做，不進一般文章 REWRITE-PIPELINE 產線
-- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)
+- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)、[Discussion #1704](https://github.com/frank890417/taiwan-md/discussions/1704)（投稿者 idlccp1984 問「為什麼沒發佈」，真正的答案是沒有入口）
 
 ### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
 
@@ -330,7 +462,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **訊號**：SC 7d（2026-08-07→08-13）opportunities 清單裡，前十條有九條是**英文 query、排名在第一頁、點擊數 0**。`c. c. wei` pos 5.73／imp 261／clicks 0；`asus origin country` pos 9.98／imp 154／clicks 0；`brigitte lin` pos 10.67／imp 448／clicks 0；`chen chih-chung` pos 4.14／imp 139／clicks 0；`blue uas cleared list 台灣廠商 2026` pos 5.03／imp 152／clicks 0
   - **已排除的解釋**：英文頁全部存在（`en/People/cc-wei.md`、`en/People/brigitte-lin-legendary-actress.md`、`en/People/chen-chih-chung.md`、`en/Economy/asus-computer.md`），也不是排名問題（多條在 pos 4-6）。**排到位、被看見、被拒絕**
   - **兩種失敗形態**：(1) **履歷式標題**——`cc-wei` 的 description 是「Born in 1953. B.S. and M.S. in Electronics Engineering...; Ph.D. ...; Career path: Texas Instruments → STM...」，分號與箭頭串起的學經歷，沒有一個鉤子 (2) **意圖錯配**——查 `asus origin country` 的人要一個事實（華碩是哪國公司），`asus-computer` 的 description 承諾的是「The inspiring story of a small motherboard maker」，既是塑膠句也答非所問
-  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/REWRITE-STAGE-2D-SOURCE-FIDELITY.md) 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
+  - **根因在產線結構**：`門面句 scope` 是 [REWRITE-STAGE-2D](../pipelines/archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-2D-SOURCE-FIDELITY.md)（v9，已歸檔） 第二道，只跑在中文新稿；babel 翻譯產出的英文語料**從來沒過這道閘門**，title/description 是直譯或另行生成，沒有人問過「英文使用者搜這個詞時想要什麼」
   - **建議做法**：先拿 SC opportunities 全表（不只前十）撈出所有 `clicks=0 且 position<11 且 impressions>50` 的英文 query，對應回英文檔，批次重寫 title/description。這是**門面句層的批次 EVOLVE，不動正文**，成本低、可量測（下一週期同批 query 的 CTR 就是驗收）
   - **可能連帶**：若成立，babel pipeline 該補一道英文門面句 gate，讓翻譯不只是語言正確、也是入口正確
 - **限制（誠實標註）**：本條由 `/twmd-finale` 第三棒的資料掃描產生，**沒有跑完整 `/twmd-evolve` Mode-1 流程**（未重跑 BECOME full 14 題 self-test、未做 GA×SC×CF 三源交叉、未查 GA4 站內行為）。訊號本身是 SC 單源＋語料檔案交叉驗證，強度足以立案，但升 P0 執行前建議補完三源
@@ -357,7 +489,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `EVOLVE`（🔴 Rewrite + 媒體編織；不是只改 metadata）
 - **Category**: Music
 - **Path**: knowledge/Music/張懸與安溥.md
-- **Priority**: `P1`
+- **Priority**: `P0`（2026-09-18 news-radar 升級：GA 7d 325 views 全站第一，流量王仍帶三道健康硬傷）
 - **Status**: `pending`
 - **Requested**: 2026-07-30 by twmd-evolve (session 2026-07-30-121650-manual finale)
 - **Notes**:
@@ -426,20 +558,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 連結密度：台灣建築 / 社會住宅與居住正義 / 台灣眷村歷史 / 廟宇文化（4+ 篇）
   - 敏感度：樂生案兼具居住正義與保存的價值衝突，紀實而不煽情（REFLEXES #28）
 - **Pre-research**: reports/research/2026-07/台灣建築-A-歷史軸.md §2.2 + 台灣建築-D-常民與保存.md §四
-
-### 衛武營國家藝術文化中心 NEW — 榕樹下的世界級單一屋頂
-
-- **Type**: `NEW`
-- **Category**: Art
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
-- **Notes**:
-  - **為什麼這篇 vs 其他**：C 報告最高優先——TIME 2019 世界最佳景點、亞洲最大管風琴、Mecanoo/法蘭馨・侯班的榕樹意象，敘事完整度接近台北101 等級的地標文
-  - ⚠️ 必驗事實：「全球最大單一屋頂表演藝術中心」是媒體共識非金氏紀錄（4 源已交叉），寫作用「號稱」級語氣
-  - 連結密度：高雄市 / 台灣建築 / 音樂類文章 / 國際建築師脈絡（4+ 篇）
-  - Series 種子：與台北表演藝術中心、台中國家歌劇院構成「國際建築師三部曲」（後兩篇在 master report 次波 pool，衛武營先行驗證讀者反應）
-- **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §四
 
 ### 台灣戰後現代主義建築群像 NEW — 王大閎、陳其寬、修澤蘭、漢寶德、王秋華合一篇
 
@@ -518,19 +636,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 連結密度：台灣建築 / 永續相關 / 北投相關（3 篇）
 - **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §三
 
-### 鐵窗花 NEW — 戰後台灣窗上的手工幾何
-
-- **Type**: `NEW`
-- **Category**: Culture
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
-- **Notes**:
-  - **為什麼這篇 vs 其他**：常民視覺元素中圖像化潛力最高（適合配圖），與騎樓/鐵皮屋構成「台灣街景視覺元素」小系列
-  - ⚠️ 深度依賴老屋顏工作室單一田野來源（圖案地域分類無第二研究體系可交叉）——寫作標「根據老屋顏工作室踏查」不當學術定論
-  - 連結密度：台灣騎樓文化與街景 / 鐵皮屋 / 台灣眷村歷史（3 篇）
-- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §一
-
 ### 陳昇 EVOLVE — SC 排名 9 逼近首頁邊緣，現況僅 6 條腳註（evolve SC 訊號）
 
 - **Type**: `EVOLVE`
@@ -597,7 +702,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `EVOLVE`
 - **Category**: People
 - **Path**: knowledge/People/金城武.md
-- **Priority**: `P1`
+- **Priority**: `P0`（2026-09-18 news-radar 升級：SC 7d 6,570 imp pos 11.3 CTR 1.0%，仍是全站第一大流量洩漏點，entry 已閒置兩個月）
 - **Status**: `pending`
 - **Requested**: 2026-07-16 by twmd-evolve (session recall-workflow)
 - **Notes**:
@@ -797,6 +902,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-09-18 news-radar 補**：登記 8/31〜9/4 已結束、81 人登記縣市長，文章 lastVerified 2026-07-10 §九「將發生」段已過時；9 月民調高雄柯志恩 43.8% vs 賴瑞隆 43.5%、台北蔣萬安領先但差距縮小、台中江啟臣領先 6.7 個百分點。媒體增補時一併做 freshness bump（時程表勾掉、補 81 人與各都對決名單）
 - **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
 - **自主權邊界**: `[A]` 可自主
 - **Notes**:
@@ -927,7 +1033,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 **Tier A — 高知名度 × 嚴重單薄（12 篇，優先）**:
 
-- [ ] [洪醒夫](../../knowledge/People/洪醒夫.md) — 697 字／0 腳註／2026-03-27／首作者 idlccp02
+- [x] [洪醒夫](../../knowledge/People/洪醒夫.md) — 5,077 字／11 腳註／2026-09-12 深度重寫完成，2026-09-13 事實查核 heal（原 697 字 0 腳註 stub，已歸檔至 DONE-LOG）
 - [ ] [何飛鵬](../../knowledge/People/何飛鵬.md) — 1023 字／0 腳註／2026-03-26
 - [ ] [葉丙成](../../knowledge/People/葉丙成.md) — 889 字／3 腳註／2026-03-20
 - [ ] [江蕙](../../knowledge/People/江蕙.md) — 1592 字／0 腳註／2026-03-28／首作者 idlccp02
@@ -1258,7 +1364,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 > 1. **對稱原則**：寫 candidate A 就一起寫 candidate B / 全 22 縣市對手都寫，不寫部分 — 不對稱 = endorsement signal。1.3 候選人系列若哲宇只 pick 部分，必須在文章 footer 明示「本系列尚未涵蓋 {對手姓名}，會持續補完」。
 > 2. **制度層為主**：「觀點」鎖在制度／歷史／方法層（為什麼這個制度值得珍惜 / 民主轉型不容易 / 透明度為什麼重要），**不下放到 candidate-level / policy-stance-level**。
 > 3. **選前 30 天 spore freeze**（2026-10-29 → 11-28）：禁止發任何 candidate-specific 孢子，避免選前 viral 期被讀為背書。寫進 [SPORE-PIPELINE](../factory/SPORE-PIPELINE.md) hard gate（待 ship 後加 plugin enforce）。
-> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
+> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE-SINGLE Stage 3 驗](../pipelines/REWRITE-PIPELINE-SINGLE.md#stage-3-驗預算-15-20)（3.3 FACTCHECK ＋ 3.4 story atom audit） 嚴格 enforce。
 > 5. **三道濾網 self-apply**：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) — 對 creator 預設加分 / multi-observer drift / editorial voice / 外部 critique default 不執行。
 >
 > **跟既有 article 的關係**：[History/大罷免.md](../../knowledge/History/大罷免.md) + [History/民主化.md](../../knowledge/History/民主化.md) + [History/台灣民主轉型.md](../../knowledge/History/台灣民主轉型.md) + [History/台灣轉型正義.md](../../knowledge/History/台灣轉型正義.md) + [History/台灣選舉與政黨政治.md](../../knowledge/History/台灣選舉與政黨政治.md) + [Technology/開源社群與g0v.md](../../knowledge/Technology/開源社群與g0v.md) 已 ship；本系列補制度層 + 縣市選舉脈絡層 + 候選人層三個 gap。
@@ -1450,7 +1556,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: Technology
-- **Priority**: `P2`（2026-07-16 inbox-audit 降級：SC 訊號取樣自 2026-05-08 / 05-10，已 2 個月無人重驗，SEO 機會窗可能已變 — 動工前先重跑 SC 7d 確認 query 是否仍有量；訊號還在 → 升回 P0）
+- **Priority**: `P0`（2026-09-18 news-radar 依 entry 自訂條件升回：SC 7d「blue uas cleared list 台灣廠商 2026」776 imp / 0 clicks / pos 7.47，訊號仍在；原 2026-07-16 inbox-audit 降級：SC 訊號取樣自 2026-05-08 / 05-10，已 2 個月無人重驗，SEO 機會窗可能已變 — 動工前先重跑 SC 7d 確認 query 是否仍有量；訊號還在 → 升回 P0）
 - **Status**: `pending`
 - **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `blue uas cleared list 台灣廠商 2026` 564 impressions / position 8.43 / 0 clicks，是本週 SC opportunities top 第 2 名（僅次於品牌詞 `md` 594）
 - **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **751 imp / position 8.8 / 0 clicks（+33% impressions WoW）**。Position 微退（8.43 → 8.8）但曝光顯著放大 = Google 認定 Taiwan.md 是相關但未足夠 authoritative，**proximity bias 加大 = 機會窗放大**。維持 P0，建議下個 rewrite cycle 優先處理
@@ -1897,15 +2003,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 Food/金牛角 引用。寫時包含：鳳梨酥產業（年產值 30+ 億）/ 太陽餅 / 牛軋糖 / 茶葉 / 高鐵站伴手禮一條街 / 機場 SOGO / 觀光工廠模式
 
-### 台灣行動支付
-
-- **Type**: `NEW`
-- **Category**: Technology
-- **Priority**: `P3`
-- **Status**: `pending`
-- **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
-- **Notes**: 已被 Economy/全聯福利中心 引用。Line Pay 一強 / 街口 / 全支付（全聯）/ 台灣 Pay / 悠遊付 / 為什麼台灣支付落後韓國日本：銀行勢力、信用卡盛行、現金文化
-
 ### 原住民族語言政策
 
 - **Type**: `NEW`
@@ -1988,6 +2085,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Category**: People（跨 subcategory：體育／戲劇／設計／音樂／慈善／舞蹈／文學）
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-09-18 news-radar 補**：SC 7d 新增三個 0 點擊機會併入本 batch——「brigitte lin」1,619 imp / pos 10.86（〈林青霞〉en 版 title/description 重寫）、「ai stefanie sun」707 imp / pos 6.25（〈孫燕姿〉查有無「AI 孫燕姿」段，沒有要補）、田馥甄 1,848 / 錫蘭 1,270 / 曾博恩 1,009 imp pos 6.7〜10.8
 - **Requested**: 2026-07-26 by twmd-finale/twmd-evolve（session 2026-07-26，三源交叉：SC 28d query + GA4 per-page + CF 邊緣流量）
 - **Evolve scan source pointers**：
   - **SC 28d（`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`）**：篩「position > 10 且 impressions > 100」共 25 條命中，其中 9 條是純裸名人物查詢（排除已知的莫那·魯道大檔翻譯債＝OBSERVER-QUEUE #5/#18，另案處理）：

@@ -1,0 +1,25 @@
+{
+  "revision": 48,
+  "submissionId": "f062a882-4a43-40a0-8fed-f5da4f256bc9",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第七次 delta）",
+  "verdict": "revise",
+  "rationale": "(1)(3) 核實通過：維基得獎列表逐年背景色核 2015／2023／2024／2025 四筆作品與單位，[^21] bamid 113 年度、[^34] 公視＋劇夠皆相符；[^64] 標題確含「創下歷史新高」、[^60] 確載 2023 年 40 項，「同一個數字，不是新高」是既有引用的合理推論。(2) 有落差：knowledge/Art/歌仔戲.md 全文只記載楊麗花個人是資深小生，找不到「小生行當向來多由女演員擔綱」的行當層級通則，新句前半是本輪新增的無來源通則，須拿掉或收窄成陳述楊麗花本人。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L76-77（表格補充列）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L127（陳亞蘭段新增歌仔戲句，問題句）"
+    },
+    {
+      "path": "knowledge/Art/歌仔戲.md",
+      "location": "L59-67（僅個人層級，無行當通則）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L204／L367（Netflix 新高段與 [^64]）"
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 ---
-title: 'Industri dan Budaya YouTuber Taiwan: Dari Tsai A-ta ke Chi Hsuan, Sejarah Evolusi Budaya Digital Pulau'
-description: 'Bagaimana seorang pencipta yang lahir dari magis menjadi YouTuber pertama Taiwan dengan 10 juta langganan? Di baliknya adalah kisah lengkap budaya video online Taiwan yang berkembang dari hiburan lokal menjadi platform ekspor yang kompetitif secara internasional.'
+title: 'Industri dan Budaya YouTuber Taiwan: Sejarah Evolusi Budaya Digital Pulau dari Cai Agak hingga Chi Hsuan'
+description: 'Bagaimana seorang kreator yang memulai dari sulap menjadi YouTuber Taiwan pertama dengan sepuluh juta subscriber? Di baliknya adalah kisah lengkap tentang bagaimana budaya audio visual internet Taiwan berkembang dari hiburan lokal menjadi ekspor internasional'
 date: 2026-03-23
 category: 'Culture'
 tags:
-  ['budaya', 'budaya digital', 'YouTuber', 'video online', 'pengaruh sosial']
+  [
+    'Budaya',
+    'Budaya digital',
+    'YouTuber',
+    'Audio visual internet',
+    'Dampak sosial',
+  ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -14,102 +20,102 @@ translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
 sourceCommitSha: 'd40e50420'
 sourceContentHash: 'sha256:d4ca70756fc2b68a'
 sourceBodyHash: 'sha256:631049e094973d93'
-translatedAt: '2026-09-17T06:43:41+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-> **30 detik ringkasan:** Pada Maret 2024, YouTuber magis Taiwan "Chi Hsuan Tricking" menjadi pencipta pertama di seluruh Taiwan dengan 10 juta langganan, menandai evolusi budaya YouTube Taiwan dari video isu Taiwan Tsai A-ta pada 2008 menuju platform keluaran yang kompetitif secara internasional. Tingkat penyadaran YouTube di Taiwan melebihi 95% pengguna internet, dan waktu menonton Shorts telah melampaui 75%, dengan para pencipta sedang beralih dari produksi video semata ke transformasi pemasaran merek dan monetisasi yang beragam.
+> **Gambaran 30 detik:** Pada Maret 2024, magician YouTuber Taiwan "Chi Hsuan Tricking" menjadi kreator pertama di seluruh Taiwan dengan sepuluh juta subscriber, menandai evolusi budaya YouTube Taiwan dari video berita pro-Taiwan Cai Agak tahun 2008 menjadi platform keluaran konten yang kompetitif secara internasional. YouTube mencapai lebih dari 95% pengguna internet di Taiwan, waktu tontonan Shorts sudah melampaui 75%, dan para kreator sedang dalam masa transisi dari produksi audio visual murni menuju branding dan monetisasi beragam.
 
-Pada 9 Maret 2024, seorang pencipta yang menggabungkan seni bela diri, senam, dan magis menciptakan sejarah di YouTube — saluran "Chi Hsuan Tricking" karya Wu Chi-hsuan (吳奇軒) menjadi saluran YouTube pertama di Taiwan yang berhasil melampaui 10 juta langganan, serta menerima "Penghargaan Pencipta Berlian" (Diamond Creator Award) dari Google [^1]。 Namun, makna penting titik tolak ini jauh melampaui sekadar angka: ini menandai perubahan fase budaya YouTube Taiwan dari "hiburan lokal" menuju "ekspor internasional".
+Pada 9 Maret 2024, seorang kreator yang menggabungkan seni bela diri, senam, dan sulap menciptakan sejarah di YouTube—saluran "Chi Hsuan Tricking" milik Wu Chi Hsuan menjadi saluran YouTube pertama Taiwan yang menembus sepuluh juta subscriber, dan menerima Penghargaan Kreator Berlian dari Google[^1]. Namun makna tonggak ini jauh melampaui sekadar angka: ini menandai titik balik ketika budaya YouTube Taiwan sepenuhnya berkembang dari "hiburan lokal" menjadi "ekspor internasional".
 
-## Dari situs kecil anonim ke YouTube: Sejarah evolusi video online Taiwan
+## Dari Wretch Avatar hingga YouTube: Sejarah Evolusi Audio Visual Internet Taiwan
 
-Kisah YouTube Taiwan harus dimulai dari tahun 2008. Pada tahun itu, Tsai Wei-chia (蔡緯嘉) dari Chiayi, dikenal sebagai Tsai A-ta (蔡阿嘎), mulai mengunggah video isu Taiwan yang mencintai Taiwan di blognya. Pada saat itu, budaya internet Taiwan mas masih berada pada era teks di situs anonim dan PTT, dan YouTube bagi kebanyakan orang masih terasa seperti "tempat untuk menonton video asing".
+Kisah YouTube Taiwan harus dimulai dari tahun 2008. Tahun itu, Cai Wei-chia yang berasal dari Chiayi (Cai Agak) mulai mengunggah video berita bertema pro-Taiwan di blog pribadi. Pada waktu itu, budaya internet Taiwan masih tertinggal dalam era teks Wretch Avatar dan PTT, dan YouTube bagi kebanyakan orang masih hanya "tempat untuk menonton video asing".
 
-Namun, kehadiran Tsai A-ta mengubah segalanya. Ia menggunakan gaya humor yang akrab bagi orang Taiwan untuk membahas isu aktual, dari "menyanyikan lagu Inggris dengan bahasa Taiwan" hingga seri "pasar malam Taiwan", menciptakan bahasa YouTube khas orang Taiwan. Pada 2014, salurannya berhasil melampaui 1 juta langganan, menjadi YouTuber pertama di Taiwan yang mencapai pencapaian ini [^2]。
+Namun kemunculan Cai Agak mengubah segalanya. Dia menggunakan cara humor yang akrab bagi orang Taiwan untuk membicarakan berita, dari "menyanyi lagu Inggris dengan logat Taiwan" hingga serial "Pasar Malam Taiwan", menciptakan bahasa YouTube yang milik orang Taiwan. Pada 2014, salurannya menembus 1 juta subscriber, menjadi YouTuber pertama Taiwan yang mencapai prestasi ini[^2].
 
-> **💡 Tahui Anda?**
-> Tsai A-ta telah aktif sejak 2008, melewati masa kuliah, pengabdian militer, pernikahan, hingga menjadi ayah, dan hampir dua puluh tahun karier kreatifnya, seolah-olah sebuah buku sejarah pengembangan media sosial Taiwan.
+> **💡 Tahukah Anda**
+> Cai Agak mulai berkreasi dari 2008 dan telah menjalani hampir dua puluh tahun karir kreatif sambil menjalani sekolah, wajib militer, pernikahan, dan menjadi orang tua—hidupnya adalah buku sejarah perkembangan audio visual media sosial Taiwan yang hidup.
 
-Pada saat yang sama, sekelompok pencipta lainnya juga muncul di berbagai bidang. "Orang-orang Ini TGOP" (這群人TGOP) menjadi saluran pertama di Taiwan yang berhasil melampaui 2 juta langganan pada 2017 [^10]；"Saint Yodeling" (聖結石Saint) hanya butuh 225 hari untuk mencapai 1 juta langganan [^11]，membuat rekor Taiwan pada saat itu; dan Keeper Chen Chih-han (館長陳之漢) meraih kesuksesan di dunia live streaming dengan menggabungkan kebugaran dan kritik sosial.
+Pada saat yang sama, segelintir kreator lain juga berkembang di berbagai bidang. "Grup Orang Ini TGOP" menjadi saluran pertama Taiwan dengan jumlah subscriber melampaui 2 juta pada 2017[^10]; "Saint Jie Shi" hanya membutuhkan 225 hari untuk menembus 1 juta subscriber[^11], menciptakan rekor Taiwan pada waktu itu; sementara Chen Zhi-han (Museum Director) menggunakan kombinasi kebugaran dan kritik sosial untuk membuat terobosan di ranah live streaming.
 
-## Gelombang 1 juta langganan dan "Penghargaan Walk Bell John": Era emas pencipta Taiwan
+## Gelombang Sejuta Subscriber dan "Penghargaan Walk Bell John": Zaman Emas Kreator Taiwan
 
-Setelah 2018, Taiwan memasuki masa meletupnya 1 juta langganan. Ray Du English (阿滴英文) membuat pembelajaran bahasa menjadi menyenangkan; dan Chih-chia Chi-chi (志祺七七) mengemas isu sosial kompleks menjadi konten edukasi yang mudah dipahami. Untuk menghargai para pencipta konten digital ini, "Walk Bell John Awards" (走鐘獎) yang digerakkan oleh tim "Jangan Nonton Saat Kerja" (上班不要看) pertama kali diselenggarakan pada 2019 [^16]，dan kini telah menjadi "Oscar" dunia maya Taiwan [^3]。
+Setelah 2018, Taiwan memasuki periode ledakan dengan sejuta subscriber. Ray Du English (Adrenaline English) membuat pembelajaran bahasa menjadi menyenangkan; Chi Qi Qi Qi membungkus isu-isu sosial yang kompleks menjadi konten pengetahuan yang mudah dipahami. Untuk menghargai para pembuat konten digital ini, "Walk Bell John Awards" (Penghargaan Walk Bell John) diprakarsai oleh tim "Don't Look at Work" pertama kali diselenggarakan pada 2019[^16], dan kini telah menjadi "Oscar" industri internet Taiwan[^3].
 
-Ciri khas pencipta YouTuber Taiwan pada masa ini adalah dominasi lokal yang kuat. Apakah itu kasih sayang pada Taiwan dari Tsai A-ta, gaya langsung Tionghoa dari Keeper, atau penggunaan bahasa Mandarin-Inggris dari A-ta, semuanya mengandung aroma "Taiwan yang khas".
+Tahap ini memiliki ciri khas bersama: warna lokal yang kuat. Baik itu semangat pro-Taiwan Cai Agak, ketegasan gaya Taiwan Chen Zhi-han, atau pengalihan bahasa Inggris-China Ray Du, semuanya memancarkan "rasa Taiwan" yang kental.
 
-> **📝 Catatan kurator**
-> Menarik, justru "Taiwan yang khas" inilah yang membuat para pencipta ini menonjol di kalangan penutur Mandarin. Di tengah dunia yang penuh dengan konten yang distandarisasi, ciri khas lokal malah menjadi keunggulan kompetitif terbesar.
+> **📝 Catatan Kurator**
+> Menariknya, justru "rasa Taiwan" inilah yang membuat kreator ini menonjol di komunitas bahasa Mandarin. Di dunia yang penuh dengan konten standar, warna lokal justru menjadi keunggulan diferensiasi terbesar.
 
-## Penerobosan internasional: Wu Chi-hsuan dan manfaat Shorts
+## Terobosan Internasional: Wu Chi Hsuan dan Keuntungan Shorts
 
-Penerobosan global sejati datang dari video pendek. Menurut statistik, Wu Chi-hsuan telah mengumpulkan lebih dari 2,5 miliar tayangan pada 2023, dan pada Maret 2024 mencapai 10 juta langganan [^1]。 Keberhasilannya bergantung pada konten "bahasa tubuh" yang melintasi batas bahasa, serta memanfaatkan algoritma YouTube Shorts. Ini menunjukkan bahwa para pencipta Taiwan telah siap untuk melintasi batas bahasa dan berinteraksi langsung dengan penonton global.
+Terobosan global sejati datang dari audio visual pendek. Menurut statistik, Wu Chi Hsuan telah mengumpulkan lebih dari 2,5 miliar kali tontonan pada 2023 dan mencapai 10 juta subscriber pada Maret 2024[^1]. Kesuksesannya berkat konten "bahasa tubuh" yang melampaui hambatan bahasa, dan memanfaatkan algoritma keuntungan YouTube Shorts. Ini menunjukkan bahwa kreator Taiwan sudah memiliki kemampuan untuk melintasi hambatan bahasa dan terhubung langsung dengan penonton global.
 
-## Kontroversi dan keaslian: Garis batas para komentator
+## Kontroversi dan Keaslian: Garis Merah Komentator
 
-Seiring pengaruh yang semakin besar, komentar para pencipta juga semakin diuji. Pada 2023, Tsai A-ta menimbulkan kontroversi diplomatik dan budaya karena video "Rasa makan 5 restoran jaringan di Jepang yang sangat tidak enak", yang kemudian meminta maaf secara terbuka [^4]。 Selain itu, komentar kritikal seperti Toyz terhadap restoran yang direkomendasikan Michelin juga sering memicu diskusi sosial tentang "keahlian vs. popularitas".
+Seiring dengan perluasan pengaruh, pernyataan kreator juga menghadapi pengujian yang lebih tinggi. Pada 2023, Cai Agak menghadapi kontroversi luar negeri dan budaya karena video "Lima Toko Rantai Jepang Sangat Sulit" dan akhirnya minta maaf secara umum[^4]. Selain itu, komentator seperti Toyz dan ulasan tajam mereka terhadap restoran yang direkomendasikan Michelin sering memicu diskusi sosial tentang "keahlian vs. lalu lintas".
 
-Kontroversi-kontroversi ini mencerminkan keinginan penonton Taiwan akan "keaslian", namun juga menonjolkan tantangan bagaimana para pencipta menyeimbangkan kebebasan berpendapat dengan tanggung jawab sosial saat mengejar klik.
+Kontroversi ini mencerminkan perjalanan penonton Taiwan terhadap "keaslian", tetapi juga menyoroti tantangan bagi kreator dalam menyeimbangkan kebebasan berpendapat dengan tanggung jawab sosial saat mengejar tingkat klik.
 
-## Model bisnis: Dari bagi hasil iklan ke monetisasi yang beragam
+## Model Bisnis: Dari Pembagian Iklan hingga Monetisasi Beragam
 
-Pengaruh YouTube di Taiwan sangat besar. Menurut laporan terbaru, YouTube dapat menjangkau lebih dari 95% pengguna internet di Taiwan [^5]。 Namun, pendapatan iklan (AdSense) para pencipta Taiwan biasanya hanya menyumbang 20-40% dari total pendapatan, sementara kolaborasi eksternal dan pemasaran pribadi menjadi sumber pendapatan utama [^6]。
+Pengaruh YouTube di Taiwan sangat tinggi. Menurut laporan terbaru, YouTube dapat menjangkau lebih dari 95% pengguna internet di Taiwan[^5]. Namun, pendapatan iklan kreator Taiwan (AdSense) secara umum hanya menyumbang 20-40% dari total pendapatan, sementara konten bersponsor (kolaborasi bisnis luar) dan personalisasi merek adalah sumber pendapatan utama[^6].
 
-Misalnya, Tsai A-ta mendirikan Great Buddha Entertainment (大頭佛娛樂) untuk mengembangkan IP pencipta [^12]； banyak pencipta seperti Joeman [^13] dan Qianqian [^14] juga meluncurkan produk makanan kolaborasi dengan toko kelontong, mewujudkan transformasi dari lalu lintas online ke penjualan offline.
+Sebagai contoh, Cai Agak mendirikan Pabrik Hiburan Big Head[^12], mentransformasikan kreator IP; banyak kreator seperti Joeman[^13], Qian Qian[^14] kemudian meluncurkan rangkaian makanan superkonvensyen yang diberi nama bersama, mewujudkan transformasi dari lalu lintas online ke penjualan offline.
 
-## VTuber: Bintang baru di dunia maya
+## VTuber: Bintang Baru di Dunia Virtual yang Berkembang
 
-Perkembangan yang paling mengejutkan adalah munculnya VTuber (Virtual YouTuber) di Taiwan yang cepat. Pada 2023, VTuber mendominasi 42 dari 100 besar Super Chat di YouTube Taiwan, dengan total kontribusi sebesar 38% dari keseluruhan papan peringkat [^7]。
+Perkembangan yang paling mengejutkan adalah meningkatnya VTuber (Virtual YouTuber) di Taiwan dengan cepat. Pada 2023, VTuber sudah menempati 42 posisi dari 100 besar Super Chat YouTube Taiwan, dengan total uang mencapai 38% dari daftar keseluruhan[^7].
 
-> **💡 Tahui Anda?**
-> VTuber Taiwan "Hsin Mizuki" (浠Mizuki) berhasil mengumpulkan 8,74 juta dolar Taiwan dalam kampanye crowdfunding 3D pada 2023, jauh melampaui target 3 juta, menunjukkan potensi komersial yang sangat tinggi bagi idola maya di Taiwan [^8]。
+> **💡 Tahukah Anda**
+> Taiwan VTuber "Hii Mizuki" mengumpulkan 8.74 juta NT$ dalam kampanye 3D pada 2023, jauh melampaui target 3 juta, menunjukkan potensi bisnis yang sangat tinggi dari karakter virtual di Taiwan[^8].
 
-## Pengaruh sosial: Dari hiburan ke diskusi isu
+## Dampak Sosial: Dari Hiburan hingga Diskusi Isu
 
-Ciri lain budaya YouTube Taiwan adalah keterlibatan sosial yang kuat. "Tidak Sesuai Gambar" (圖文不符) karya Chih-chia Chi-chi (志祺七七) memvisualisasikan isu kompleks; "Eye of Central Television" (眼球中央電視台) (yang telah berhenti pada Juni 2023 [^15]) pernah membahas politik dengan cara yang lucu; dan "Bareno Night Show" (博恩夜夜秀) membawa format talk show Amerika ke bingkai utama Taiwan. Model "membahas isu keras dengan cara lembut" ini sangat memengaruhi partisipasi publik generasi muda Taiwan [^9]。
+Ciri khas lain dari budaya YouTube Taiwan adalah partisipasi sosial yang kuat. "Infografis yang Tidak Cocok" milik Chi Qi Qi Qi membuat masalah kompleks menjadi visual; Eyeball Central Television (yang berhenti diperbarui pada Juni 2023[^15]) pernah membahas politik dengan cara yang lucu; Bore Nighttime Show membawa talk show gaya Amerika ke pandangan mainstream Taiwan. Tipe model "membahas isu keras dengan cara lunak" ini mempengaruhi partisipasi publik secara mendalam di kalangan generasi muda Taiwan[^9].
 
-## Prospek masa depan: Tantangan di era AI
+## Perspektif Masa Depan: Tantangan di Era AI
 
-Dengan AI yang semakin menurunkan hambatan kreatif, para pencipta Taiwan kini menghadapi tantangan ganda: "kecemasan algoritma" dan "kejenuhan konten". Banyak pencipta veteran kini sedang transformasi diri atau mengumumkan jeda kreatif. Dalam satu dekade ke depan, budaya YouTube Taiwan akan berkembang ke arah integrasi realitas maya, kolaborasi internasional, dan ekspor budaya yang lebih dalam.
+Dengan teknologi AI menurunkan hambatan kreasi, kreator Taiwan menghadapi tantangan ganda dari "kecemasan algoritma" dan "saturasi konten". Banyak kreator lama mulai bertransformasi atau mengumumkan penghentian pembaruan. Dekade berikutnya, budaya YouTube Taiwan akan berkembang menuju integrasi virtual-nyata, kolaborasi internasional, dan ekspor budaya yang lebih dalam.
 
-Dari video pertama Tsai A-ta hingga 10 jillion langganan Chi-hsuan, budaya YouTube Taiwan telah melalui evolusi yang luar biasa dalam kurang dari dua puluh tahun. Ini bukan hanya kemenangan teknologi, tetapi juga kisah bagaimana sebuah pulau mendefinisikan kembali ceritanya di era digital.
+Dari video pertama Cai Agak hingga 10 juta subscriber Chi Hsuan, budaya YouTube Taiwan menyelesaikan evolusi mengagumkan dalam waktu kurang dari dua puluh tahun. Ini bukan hanya kemenangan teknologi, tetapi juga kisah tentang bagaimana sebuah pulau mendefinisikan ulang dirinya di era digital.
 
-**Bacaan lanjutan:**
+**Bacaan Lanjutan**:
 
-- [A-shen](/id/people/red-shin-minecraft-youtuber) — Dari pengakuan pribadi tentang rutinitas harian selama sebelas tahun, dua pengumuman jeda kreatif yang berbeda hingga rencana kembali pada 2026, menunjukkan bagaimana para pencipta menulis kembali komitmen jadwal publikasi.
-- [Pan Science](/society/泛科學) — Dari artikel populer ilmiah ke video pendek, YouTube MCN, dan layanan bagi pencipta ilmiah, melengkapi kasus bagaimana pencipta ilmiah menghadapi algoritma dan komersialisasi.
-- [Xiaoyou Station](/id/culture/wretch) — Tempat bertumbunnya generasi pertama pencipta Taiwan (Wanwan, Jiubao, Album Kenyang), sebelum YouTuber muncul, inilah asal-usul ekonomi pencipta.
+- [Dewa Aladdin](/id/people/red-shin-minecraft-youtuber) — Dari pernyataan diri sendiri sepuluh satu tahun pembaruan harian, dua pengumuman penghentian berbeda hingga pembaruan kembali 2026, menunjukkan secara konkret bagaimana kreator menulis ulang komitmen penerbitan tetap.
+- [Pansains](/society/泛科學) — Dari artikel sains populer beralih ke audio visual pendek, YouTube MCN dan layanan kreator pengetahuan, melengkapi contoh tentang bagaimana kreator pengetahuan menghadapi algoritma dan komersialisme.
+- [Wretch Avatar](/id/culture/wretch) — Perakit kreator amatir generasi pertama Taiwan (Cai Melengkung, Sembilan Pisau, Wanita Cantik Album Foto), buaian sebelum YouTuber muncul, kreator ekonomi sudah tumbuh dari sini.
 
 ## Referensi
 
-[^1]: ['Chi Hsuan Tricking' first Taiwanese YouTuber to hit 10 million subscribers - Taiwan News](https://taiwannews.com.tw/news/5111007) — Lihat data lengkap di tautan asli
+[^1]: ['Chi Hsuan Tricking' first Taiwanese YouTuber to hit 10 million subscribers - Taiwan News](https://taiwannews.com.tw/news/5111007) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^2]: [10 YouTuber paling populer di Taiwan - Liberation Daily](https://news.ltn.com.tw/news/life/breakingnews/1993338) — Laporan Liberation Daily
+[^2]: [台灣10大超人氣Youtuber出爐 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/1993338) — Laporan Kebebasan Waktu
 
-[^3]: [Setelah viral, langkah berikutnya: Kantor agen YouTuber membantu pencipta menemukan jalan - Central News Agency](https://www.cna.com.tw/news/ahel/202102130062.aspx) — Laporan Central News Agency
+[^3]: [爆紅後下一步 YouTuber事務所幫創作者探路 - 中央社](https://www.cna.com.tw/news/ahel/202102130062.aspx) — Laporan Kantor Berita Sentral
 
-[^4]: [Ringkasan kontroversi video Jepang Tsai A-ta - Critical Review Network](https://www.thenewslens.com/article/186591) — Lihat data lengkap di tautan asli
+[^4]: [蔡阿嘎日本影片爭議事件整理 - 關鍵評論網](https://www.thenewslens.com/article/186591) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^5]: [YouTube dapat menjangkau lebih dari 95% pengguna internet di Taiwan - iSPOT Media](https://www.i-spotmedia.com/Blog/2025-yt-trends/) — Lihat data lengkap di tautan asli
+[^5]: [YouTube在台灣能觸及超過 95% 的網路使用者 - iSPOT Media](https://www.i-spotmedia.com/Blog/2025-yt-trends/) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^6]: [Analisis pendapatan dan model bisnis YouTuber Taiwan - KOL Media eksperimental](https://kol-trymedia.tw/taiwanese-youtuber-income-ranking/) — Lihat data lengkap di tautan asli
+[^6]: [台灣YouTuber收入排名與商業模式分析 - KOL 試媒體](https://kol-trymedia.tw/taiwanese-youtuber-income-ranking/) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^7]: [Analisis perkembangan industri VTuber Taiwan - Cinta Bahasa R](https://r-lover.com/sharing/info-gathering/taiwan-vtuber-industry-info/) — Lihat data lengkap di tautan asli
+[^7]: [台灣VTuber產業發展現況分析 - 愛上R語言](https://r-lover.com/sharing/info-gathering/taiwan-vtuber-industry-info/) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^8]: [VTuber terbaik 2024: Analisis durasi tonton dan pendapatan Superchat - VIVE Wave](https://www.vivepostwave.com/best-vtuber-2024/) — Lihat data lengkap di tautan asli
+[^8]: [2024年度VTuber之最：觀看時數與Superchat收入解析 - VIVE 後浪潮](https://www.vivepostwave.com/best-vtuber-2024/) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^9]: [Cara startup bekerja sama dengan YouTuber, memanfaatkan pengaruh - AppWorks](https://appworks.tw/startup-youtuber-marketing/) — Lihat data lengkap di tautan asli
+[^9]: [新創如何與 YouTuber 合作，借助影響力 - AppWorks](https://appworks.tw/startup-youtuber-marketing/) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^10]: [Orang-orang Ini merayakan melewati 2 juta langganan - Liberation Daily](https://news.ltn.com.tw/news/life/breakingnews/2194883) — Laporan Liberation Daily
+[^10]: [這群人慶祝突破 200 萬訂閱 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/2194883) — Laporan Kebebasan Waktu
 
-[^11]: [Saint Yodeling mencetat rekor 1 juta langganan dalam 225 hari - Bnext](https://www.bnext.com.tw/article/45016/saint-youtube-1m-subscribers) — Analisis Era Digital
+[^11]: [聖結石 225 天破百萬訂閱紀錄 - Bnext](https://www.bnext.com.tw/article/45016/saint-youtube-1m-subscribers) — Analisis Digital Time
 
-[^12]: [Latar belakang pendirian Great Buddha Entertainment](https://www.twinc.com.tw/item.aspx?no=54343434) — Lihat data lengkap di tautan asli
+[^12]: [大頭佛娛樂有限公司 成立背景 - 台灣公司網](https://www.twinc.com.tw/item.aspx?no=54343434) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^13]: [Seri kolaborasi Joeman x 7-11 2023 diluncurkan - WalkerLand](https://www.walkerland.com.tw/subject/view/351608) — Lihat data lengkap di tautan asli
+[^13]: [Joeman x 7-11 聯名系列 2023 推出 - WalkerLand](https://www.walkerland.com.tw/subject/view/351608) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^14]: [Kolaborasi makanan Thailand-Taiwan Qianqian x FamilyMart 2022 diluncurkan - Setn](https://www.setn.com/News.aspx?NewsID=1144001) — Lihat data lengkap di tautan asli
+[^14]: [千千 x 全家 泰台聯名美食 2022 推出 - Setn](https://www.setn.com/News.aspx?NewsID=1144001) — Lihat detail materi tambahan dalam konten tautan asli
 
-[^15]: [Eye of Central Television mengumumkan berhenti - CNA](https://www.cna.com.tw/news/ahel/202304100262.aspx) — Laporan Central News Agency
+[^15]: [眼球中央電視台宣布停更 - CNA](https://www.cna.com.tw/news/ahel/202304100262.aspx) — Laporan Kantor Berita Sentral
 
-[^16]: [Latar belakang pendirian Walk Bell John Awards oleh "Jangan Nonton Saat Kerja" - China Times](https://www.chinatimes.com/realtimenews/20190220002824-260405) — Lihat data lengkap di tautan asli
+[^16]: [走鐘獎由「上班不要看」創辦背景 - 中時新聞網](https://www.chinatimes.com/realtimenews/20190220002824-260405) — Laporan Berita Waktu Nyata Zhongshi

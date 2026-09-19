@@ -1,18 +1,18 @@
 ---
-title: 'Formosa: Bagaimana Orang Barat "Menemukan" Pulau yang Sudah Dihuni'
-description: 'Pada tahun 1704, seorang Prancis yang belum pernah ke Asia berbicara di Royal Society London menggunakan sistem tulisan dan agama ciptaannya sendiri untuk meyakinkan para sarjana bahwa ia adalah "penduduk asli Formosa". Penipuan ini berlangsung selama sepuluh tahun. Namun masalah yang lebih besar adalah: ketika orang Eropa mengatakan telah "menemukan Formosa", suku Austronesia di pulau itu telah mendiami tempat itu selama enam ribu tahun. Narasi siapa yang "menemukan"?'
+title: 'Formosa: Bagaimana Barat "Menemukan" Pulau yang Sudah Dihuni Sejak Lama'
+description: 'Pada 1704, seorang pria Prancis yang tidak pernah ke Asia berdiri di Royal Society London, menggunakan sistem tulisan dan agama buatan sendiri, meyakinkan seluruh auditorium para sarjana bahwa dia adalah "orang Formosa". Penipuan ini berlangsung sepuluh tahun. Tapi pertanyaan lebih besar: ketika orang Eropa berkata "menemukan Formosa", suku Austronesia di pulau itu sudah mendiami selama enam ribu tahun. "Penemuan" itu narasi siapa?'
 date: 2026-04-12
 category: 'History'
 tags:
   [
     'Formosa',
-    'Sejarah Kolonial',
+    'sejarah kolonial',
     'Belanda',
-    'Portugis',
-    'Observasi Barat',
-    'Taiwan Island Historiography',
-    'Museum Sejarah Taiwan (TaiShiBo)',
-    'Sumber Eksternal',
+    'Portugal',
+    'observasi Barat',
+    'historiografi pulau Taiwan',
+    'NMTH',
+    'sejarah sumber luar negeri',
   ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md'
@@ -24,133 +24,133 @@ translatedFrom: 'History/福爾摩沙.md'
 sourceCommitSha: '01d9d0e73'
 sourceContentHash: 'sha256:7935e86b210536e5'
 sourceBodyHash: 'sha256:dd15e8c65b7a98f1'
-translatedAt: '2026-09-10T18:19:14+08:00'
+translatedAt: '2026-09-13T05:56:48+08:00'
 ---
 
-# Formosa: Bagaimana Orang Barat "Menemukan" Pulau yang Sudah Dihuni
+# Formosa: Bagaimana Barat "Menemukan" Pulau yang Sudah Dihuni Sejak Lama
 
-> **Ringkasan 30 Detik:** Nama "Formosa" telah beredar di peta Eropa selama lebih dari empat ratus tahun, tetapi mungkin nama itu sama sekali bukan milik orang Portugis. Pada tahun 1704, seorang Prancis yang belum pernah ke Asia berpura-pura menjadi "penduduk asli Formosa" menggunakan tulisan ciptaannya sendiri dan menipu seluruh Inggris selama sepuluh tahun. Sebelum dan sesudahnya, misionaris Belanda, konsul Inggris, diplomat Amerika, dan perwira Prancis secara berurutan menulis tentang pulau ini dalam bahasa mereka masing-masing. Namun, suku Austronesia di pulau itu telah mendiami tempat itu selama enam ribu tahun. Mereka tidak pernah perlu "ditemukan".
+> **Ringkasan 30 Detik:** Nama "Formosa" beredar di peta Eropa selama lebih dari empat ratus tahun, tapi nama itu mungkin bukan buatan orang Portugal. Pada 1704, seorang pria Prancis yang tidak pernah ke Asia di London menggunakan tulisan buatannya berpura-pura menjadi "penduduk asli Formosa", menipu seluruh Inggris selama sepuluh tahun. Sebelum dan sesudah itu, misionaris Belanda, konsul Inggris, diplomat Amerika, perwira Prancis bergiliran menulis pulau ini dalam bahasa mereka masing-masing. Tapi suku Austronesia di pulau sudah mendiami selama enam ribu tahun. Mereka tidak pernah perlu "ditemukan".
 
 ---
 
-## Seorang "Orang Formosa" yang Belum Pernah ke Formosa
+## Seorang "Orang Formosa" yang Pernah Tidak ke Formosa
 
-Pada tahun 1704, London. Seorang pemuda bernama George Psalmanazar menerbitkan _An Historical and Geographical Description of Formosa_, yang segera mengguncang dunia intelektual Eropa[^1].
+1704, London. Seorang muda yang mengaku "George Psalmanazar" menerbitkan _An Historical and Geographical Description of Formosa_ (_Sejarah dan Deskripsi Geografis Formosa_), segera mengguncang kalangan intelektual Eropa[^1].
 
-Buku itu menggambarkan sebuah negara pulau yang menakjubkan: di mana setiap tahun ada delapan belas ribu anak laki-laki yang dikorbankan kepada dewa, para pria berjalan telanjang di jalanan, dan pulau itu memiliki tambang emas dan perak. Ia juga menciptakan "Alfabet Formosa" dan "Tata Bahasa Formosa," dan mengajar beberapa kelas di Universitas Oxford[^2].
+Buku itu menggambarkan sebuah negara pulau menakjubkan: setiap tahun mempersembahkan delapan belas ribu anak laki-laki kepada dewa, pria berjalan telanjang di jalanan, pulau itu memiliki tambang emas dan perak. Dia juga menciptakan "alfabet Formosa" dan "tatabahasa bahasa Formosa", mengajar beberapa kelas di Universitas Oxford[^2].
 
-Misionaris Fransiskan Father Fontenay pernah tinggal di Asia Timur selama bertahun-tahun dan secara langsung mempertanyakan klaimnya. Namun, Psalmanazar memiliki kemampuan berbicara yang sangat baik dan membantah dengan meyakinkan, sehingga lingkaran sosial London memilih untuk memercayainya. Penipuan itu berlangsung hampir sepuluh tahun[^3].
+Misionaris Yesuit Father Fontenay pernah tinggal di Asia Timur bertahun-tahun, menantang klaimnya secara langsung. Tapi Psalmanazar terlalu jago bicara, menjawab dengan percaya diri, lingkungan sosial London memilih percaya padanya. Penipuan berlangsung hampir sepuluh tahun[^3].
 
-Identitas aslinya masih belum diketahui. Banyak sarjana berpendapat bahwa ia berasal dari Prancis selatan, kemungkinan dari wilayah Languedoc. Ia meninggal di London pada tahun 1763, dan dalam naskah terakhirnya ia mengakui bahwa semuanya adalah rekayasa[^4].
+Identitas aslinya tidak pasti hingga kini. Kebanyakan sarjana percaya dia orang Prancis selatan, mungkin dari wilayah Languedoc. 1763 dia meninggal di London, naskah warisannya mengakui semuanya rekayasa[^4].
 
 > **📝 Catatan Kurator**
-> Kisah Psalmanazar bukan sekadar lelucon sejarah. Itu mengungkap masalah struktural dalam produksi pengetahuan Eropa abad ke-18: ketika seorang pria kulit putih berbicara bahasa Latin yang fasih dan "peradaban eksotis" yang dirancang dengan cermat di mimbar akademis, para pendengar tidak melakukan verifikasi karena tidak ada yang pernah pergi ke Formosa. Prasyarat dari "penemuan" adalah ketidaktahuan, dan ketidaktahuan dapat diisi oleh imajinasi apa pun. Psalmanazar mengisi semua fantasi Eropa tentang "Timur".
+> Kisah Psalmanazar bukan sekadar lelucon sejarah. Ia mengungkap masalah struktural produksi pengetahuan Eropa abad ke-18: ketika seorang pria putih berbahasa Latin lancar dengan "peradaban asing" yang dirancang matang berdiri di panggung akademis, penonton tidak akan memverifikasi, karena tidak ada yang pernah ke Formosa. Prasyarat "penemuan" adalah ketidaktahuan, dan ketidaktahuan bisa diisi khayalan apa pun. Psalmanazar mengisinya dengan semua fantasi Eropa tentang "Timur".
 
-## "Formosa": Nama Pulau yang Mungkin Salah
+## "Formosa": Nama yang Mungkin Salah Sasaran Island
 
-Orang laut Portugis meneriakkan "Ilha Formosa!" (Pulau yang Indah) saat berlayar melintasi Selat Taiwan pada tahun 1540-an, dan ini adalah kisah standar dalam buku teks. Tetapi itu mungkin salah[^5].
+Nelayan Portugal di 1540-an melintasi Selat Taiwan sambil berteriak "Ilha Formosa!" (Pulau Indah), ini cerita standar di buku teks. Tapi itu mungkin salah[^5].
 
-Penelitian oleh Wen Chia-ien dari Institute of Historical Studies, Academia Sinica menunjukkan bahwa pulau yang ditandai "Fermosa" pada peta Portugis tahun 1554 memiliki orientasi barat laut-tenggara dan panjang sekitar 100 kilometer. Orientasi Taiwan adalah timur laut-barat daya dengan panjang sekitar 400 kilometer. "Fermosa" itu lebih mirip Okinawa[^6].
+Peneliti Habang Yayin dari Institut Sejarah Taiwan Academia Sinica menunjukkan: peta pelayaran Portugal 1554 menandai "Fermosa" dengan arah barat laut–timur laut, panjang sekitar 100 km. Arah Taiwan adalah timur laut–barat daya, panjang sekitar 400 km. "Fermosa" itu lebih mirip Okinawa[^6].
 
-Dokumen tertulis paling awal yang dapat dikonfirmasi secara jelas menyebut Taiwan sebagai "Formosa" adalah jurnal pelayaran Francisco Gali dari Spanyol pada tahun 1584, yang mencatatnya sebagai _As Ilhas Fermosas_ (Pulau-pulau yang Indah)[^7]. "Formosa" benar-benar ditetapkan sebagai nama panggilan untuk Taiwan setelah Kompeni Dagang Hindia Timur Belanda (VOC) menduduki selatan Taiwan pada tahun 1624.
+Sumber tertulis paling awal yang pasti merujuk Taiwan sebagai "Formosa" adalah jurnal pelayaran kapten Spanyol Francisco Gali 1584, tercatat sebagai "As Ilhas Fermosas" (pulau-pulau indah itu)[^7]. "Formosa" sebagai nama ganti Taiwan benar-benar melekat setelah 1624, saat VOC (Perusahaan Hindia Timur Belanda) menduduki selatan Taiwan.
 
-Pada tahun 2019, almanak resmi Taiwan secara diam-diam merevisi frasa terkait, tidak lagi menyatakan "dinamai oleh orang Portugis," tetapi menggunakan pernyataan yang lebih hati-hati[^8].
+2019, Buku Tahunan resmi Taiwan diam-diam mengubah kalimat terkait, tidak lagi menegaskan "dinamai orang Portugal", beralih ke ungkapan lebih hati-hati[^8].
 
-Selama empat ratus tahun, Taiwan disebut "Formosa" di kancah internasional. Tetapi nama ini mungkin sejak awal merujuk pada pulau lain.
+Empat ratus tahun, Taiwan di arena internasional disebut "Formosa". Tapi nama ini dari awal mungkin merujuk pulau lain.
 
-## Sudah Ada Penghuni Sejak Enam Ribu Tahun Lalu
+## Enam Ribu Tahun Lalu Sudah Ada Manusia
 
-Sebelum kedatangan orang Eropa mana pun, Taiwan telah dihuni selama setidaknya enam ribu tahun. Kebudayaan Dabenkeng (/id/history/prehistoric-era-and-indigenous-peoples/) (sekitar 5000–4500 SM) adalah budaya Neolitik tertua yang diketahui di Taiwan dan terkait erat dengan penyebaran suku Austronesia[^9]. Penelitian linguistik dan genetik menunjukkan bahwa Taiwan kemungkinan besar adalah tanah air dari seluruh rumpun bahasa Austronesia (yang tersebar di Pasifik dan Samudra Hindia, mencakup 400 juta orang).
+Sebelum orang Eropa tiba, Taiwan sudah dihuni minimal enam ribu tahun. [Budaya Dapenkeng](/id/history/prehistoric-era-and-indigenous-peoples/) (sekitar 5.000–4.500 SM) adalah budaya neolitik tertua diketahui di Taiwan, berkaitan erat dengan ekspansi bahasa Austronesia[^9]. Penelitian linguistik dan genetik menunjukkan Taiwan kemungkinan besar adalah tanah asal (urheimat) seluruh keluarga bahasa Austronesia (menyebar di Pasifik dan Samudra Hindia, mencakup 400 juta penduduk).
 
-Catatan dalam literatur Tiongkok lebih awal daripada Eropa, tetapi sama kaburnya. Apakah "Pulau Barbar" (_Yi Zhou_) yang disebutkan dalam _Historis Tiga Negara_ atau "Ryukyu" yang disebutkan dalam _Dinasti Sui_ merujuk pada Taiwan? Hal ini masih diperdebatkan oleh komunitas akademis[^10].
+Catatan Tiongkok tentang Taiwan lebih awal dari Eropa, tapi sama-sama kabur. _Sanguo Zhi_ menyebut "Yizhou", _Sui Shu_ menyebut "Liuqiu", apakah merujuk Taiwan, hingga kini masih diperdebatkan akademisi[^10].
 
-> **✦** "Penduduk pulau itu tidak pernah perlu 'ditemukan'. Mereka tahu di mana mereka tinggal. 'Penemuan' adalah kata yang hanya ada ketika dilihat dari luar."
+> **✦** "Manusia di pulau tidak pernah perlu 'ditemukan'. Mereka tahu mereka tinggal di mana. 'Penemuan' adalah kata yang hanya berlaku jika dilihat dari luar pulau."
 
-## Kelompok Eropa Pertama yang Benar-benar Menginjakkan Kaki
+## Orang Eropa Pertama yang Benar-Berinjak Kaki di Pulau
 
-Pada tahun 1624, Kompeni Dagang Hindia Timur Belanda mendirikan benteng Fort Zeelandia (sekarang Anping) di selatan Taiwan, memulai [pemerintahan kolonial](/id/history/dutch-spanish-and-koxinga-era/)[^11] selama 38 tahun.
+1624, VOC di selatan Taiwan, Tayouan (sekarang Anping), mendirikan Fort Zeelandia, memulai 38 tahun [pemerintahan kolonial](/id/history/dutch-spanish-and-koxinga-era/)[^11].
 
-Misionaris Belanda George Candidius menulis etnografi Taiwan pertama yang serius di dunia pada tahun 1628. Ia menggambarkan _inibs_ (pendeta wanita) dari suku Siraya, praktik aborsi paksa, pandangan jiwa, dan ritual pemujaan[^12]. Ini bukanlah fantasi ala Psalmanazar, melainkan catatan observasi yang ditulis oleh seseorang yang benar-benar tinggal di suku tersebut.
+Misionaris Belanda George Candidius 1628 menulis etnografi Taiwan pertama yang serius di dunia Barat. Ia mendeskripsikan inibs (pendeta wanita) suku Siraya, adat aborsi paksa, pandangan jiwa, dan upacara ritual[^12]. Ini bukan fantasi semacam Psalmanazar, catatan pengamatan orang yang benar-benar tinggal di desa.
 
-Pada tahun 1670, Olfert Dapper menerbitkan _A Record of the Second and Third Missions of the Dutch East India Company to China_, yang memiliki bab khusus tentang "Pulau Formosa"[^13]. Dapper sendiri tidak pernah meninggalkan Belanda, tetapi ia mengedit dan menyusun laporan langsung dari pedagang dan misionaris VOC, lengkap dengan ukiran tembaga yang indah. Imajinasi visual Eropa tentang Formosa sebagian besar berasal dari ilustrasi dalam buku ini.
+1670, Olfert Dapper Belanda menerbitkan _Gedenkwaerdig Bedryf der Nederlandsche Oost-Indische Maetschappye... op de Kuste en in het Keizerrijk van Taising of Sina_ (Catatan Perjalanan Kedua dan Ketiga Utusan VOC ke Kaisar Tiongkok Taising), dengan bab khusus "Pulau Formosa"[^13]. Dapper tidak pernah keluar Belanda, tapi ia menyunting laporan pertama tangan pedagang dan misionaris VOC, dilengkapi ukiran tembaga indah. Bayangan visual Eropa tentang Formosa, sebagian besar berasal dari ilustrasi buku ini.
 
-## Abad ke-19: Ahli Alam, Konsul, dan Perwira
+## Abad ke-19: Ahli Sejarah Alam, Konsul, dan Perwira Militer
 
-Setelah tahun 1856, penulisan Barat tentang Taiwan memasuki tahap baru. Ini bukan lagi catatan fragmen dari misionaris dan pedagang, melainkan penyelidikan ilmiah sistematis dan laporan diplomatik.
+Pasca 1856, penulisan Barat tentang Taiwan memasuki fase baru. Bukan lagi catatan terputus misionaris dan pedagang, tapi survei ilmiah sistematis dan laporan diplomatik.
 
-[Robert Swinhoe](/id/people/robert-swinhoe-naturalist/) adalah yang pertama. Konsul Inggris di Taiwan menulis 52 esai selama empat tahun, mencatat 227 spesies burung. Ia melihat spesies.
+[Robert Swinhoe](/id/people/robert-swinhoe-naturalist/) yang pertama. Konsul Inggris di Taiwan, empat tahun menulis 52 makalah, mencatat 227 spesies burung. Yang dilihatnya adalah spesies.
 
-[Charles Le Gendre](/id/people/charles-le-gendre/) adalah yang kedua. Konsul Amerika di Xiamen mengunjungi Taiwan delapan kali dan meninggalkan manuskrip setebal 1.600 halaman. Dia melihat intelijen.
+[Charles Le Gendre](/id/people/charles-le-gendre/) yang kedua. Konsul Amerika di Amoy, delapan kali ke Taiwan, meninggalkan 1.600 halaman naskah. Yang dilihatnya adalah intelijen.
 
-Perwira militer Prancis, Eugène Garnot, adalah yang ketiga. Ia datang ke Taiwan bersama pasukan selama Perang Tiongkok-Prancis pada tahun 1884–1885 dan menulis buku memoar ekspedisi. Dia melihat medan perang.
+Perwira Prancis Eugène Garnot yang ketiga. 1884–1885 saat Perang Prancis–Qing ikut pasukan ke Taiwan, menulis memoar ekspedisi. Yang dilihatnya adalah medan perang.
 
-Asisten dokter militer Prancis, René Coppin, mengirim surat kepada ibunya, mencatat mabuk laut, pakaian berjamur, dan angka empat orang meninggal setiap hari. Dia melihat penderitaan[^14].
+Dokter bantu pasukan Prancis René Coppin menulis surat ke ibunya, mencatat mabuk laut, pakaian berjamur, angka empat orang mati per hari. Yang dilihatnya adalah penderitaan[^14].
 
-Para pengamat ini memiliki satu kesamaan: mereka semua berasal dari luar pulau, menulis tentang pulau itu menggunakan bahasa mereka sendiri, sistem klasifikasi mereka sendiri, dan kerangka kepentingan mereka sendiri. Catatan mereka sangat berharga, tetapi masing-masing membawa asumsi tersembunyi: Taiwan adalah "yang lain" yang perlu dideskripsikan.
+Pengamat ini punya satu kesamaan: mereka semua datang dari luar pulau, menggunakan bahasa sendiri, sistem klasifikasi sendiri, kerangka kepentingan sendiri menulis pulau ini. Catatan mereka sangat berharga, tapi setiap lembar membawa premis tersembunyi: Taiwan adalah "Lain" yang perlu dideskripsikan.
 
 > **📝 Catatan Kurator**
-> Proyek Museum Sejarah Taiwan (TaiShiBo) "Sumber Eksternal Melihat Taiwan" mengumpulkan manuskrip, surat, foto, dan peta yang ditinggalkan oleh pengamat Barat abad ke-19. Douglas Fix dan tim menghabiskan lebih dari dua puluh tahun untuk menggali, menerjemahkan, dan menerbitkan dokumen-dokumen ini dari Perpustakaan Kongres AS, Perpustakaan Nasional Prancis, dan Arsip Nasional Inggris[^15]. Proyek itu sendiri adalah tindakan "pembalikan": orang Taiwan secara aktif mengambil kembali tatapan Barat terhadap Taiwan, lalu membacanya kembali menggunakan kerangka mereka sendiri.
+> Proyek NMTH "Melihat Taiwan dari Sumber Luar Negeri" mengumpulkan naskah, surat, foto, peta pengamat Barat abad ke-19. Douglas Fix dan tim menghabiskan dua puluh tahun, mengorek dari Library of Congress AS, Bibliothèque nationale de France, The National Archives UK, mengeluarkan, menerjemahkan, mengkritik, menerbitkan[^15]. Proyek ini sendiri adalah gerakan "membalik": orang Taiwan proaktif mengumpulkan tatapan Barat ke Taiwan, lalu membaca ulang dengan kerangka sendiri.
 
-## Dari yang Ditulis Menjadi Penulis Diri Sendiri
+## Dari Ditulis ke Menulis Sendiri
 
-Pada tahun 1990, sejarawan Cao Yong-he mengajukan "[Taiwan Island Historiography](/id/history/taiwan-island-historiography/)": dengan menjadikan pulau sebagai subjek utama, mengamati bagaimana budaya asing berinteraksi dan menyusun ulang di pulau pada periode yang berbeda[^16].
+1990, sejarawan Cao Yong-he mengusulkan "[Historiografi Pulau Taiwan](/id/history/taiwan-island-historiography/)": menjadikan pulau sebagai subjek, mengamati bagaimana budaya asing di era berbeda berinteraksi, merekonfigurasi di pulau[^16].
 
-Pandangan ini membalikkan seluruh narasi: Taiwan bukanlah properti dari kekaisaran mana pun, bukan objek yang "ditemukan". Ia adalah pulau yang telah didatangi, dihuni, dan ditinggalkan oleh berbagai kelompok selama enam ribu tahun. Portugis, Belanda, Spanyol, Dinasti Qing, Jepang, dan pemerintah Republik Tiongkok hanyalah bab dalam sejarah pulau tersebut.
+Perspektif ini membalik seluruh narasi: Taiwan bukan barang milik kekaisaran manapun, bukan objek yang "ditemukan". Ia adalah pulau yang enam ribu tahun terus mengalami orang-orang berbeda mendarat, mendiami, pergi. Orang Portugal, Belanda, Spanyol, Dinasti Qing, Jepang, Pemerintah Nasionalis, semuanya hanyalah satu bab dalam sejarah pulau.
 
-_The Past and Present of Formosa Island_, yang diterbitkan oleh James W. Davidson pada tahun 1903, masih merupakan sejarah umum Taiwan berbahasa Inggris yang paling lengkap[^17]. Tetapi bahkan buku yang paling ketat ini, "Formosa" dalam judulnya, tetaplah nama yang ditempelkan dari luar.
+_The Island of Formosa, Past and Present_ (1903) karya James W. Davidson hingga kini tetap sejarah umum bahasa Inggris paling lengkap tentang Taiwan[^17]. Tapi bahkan karya paling rigor ini, "Formosa" di judulnya tetap nama yang ditempel dari luar.
 
 ---
 
-Psalmanazar menciptakan Formosa yang tidak ada di London pada tahun 1704. Tiga ratus tahun kemudian, para peneliti TaiShiBo terbang ke Washington, Paris, dan London untuk membawa kembali Formosa yang nyata—halaman demi halaman—dari arsip-arsip negara di berbagai negara[^18].
+Psalmanazar 1704 di London menciptakan Formosa yang tidak ada. Tiga ratus tahun kemudian, peneliti NMTH terbang ke Washington, Paris, London, membawa pulang Formosa nyata lembar demi lembar dari arsip negara-negara itu[^18].
 
-Dari fiksi menjadi rekoleksi. Dari yang ditulis menjadi penulis diri sendiri. Perjalanan ini telah berlangsung selama tiga ratus tahun.
+Dari fiksi ke pengambilan kembali. Dari ditulis ke menulis sendiri. Jalan ini ditempuh tiga ratus tahun.
 
-Orang-orang di pulau itu masih berjalan.
+Manusia di pulau terus berjalan.
 
 ---
 
 **Bacaan Lanjutan**:
 
-- [Taiwan Island Historiography](/id/history/taiwan-island-historiography) — Kerangka kerja yang diajukan oleh Cao Yong-he pada tahun 1990: melihat sejarah dengan menjadikan pulau sebagai subjek utama, tanpa berangkat dari sudut pandang kekaisaran mana pun.
-- [Prehistoric Era and Indigenous Peoples](/id/history/prehistoric-era-and-indigenous-peoples) — Taiwan selama enam ribu tahun sebelum "ditemukan" orang Eropa, Kebudayaan Dabenkeng dan tanah air suku Austronesia.
-- [Dutch Spanish and Koxinga Era](/id/history/dutch-spanish-and-koxinga-era) — 38 tahun kolonisasi pertama di Taiwan, etnografi Candidius dimulai dari sini.
-- [Robert Swinhoe](/id/people/robert-swinhoe-naturalist) — Tipikal pengamat Barat abad ke-19: melihat Taiwan dengan mata ilmiah, meninggalkan catatan yang lebih tahan lama daripada karier diplomatik.
-- [National Museum of Taiwan History](/society/國立臺灣歷史博物館) — Terjemahan karya asli Davidson (1903) yang diterbitkan oleh NMTH pada tahun 2014 (diterjemahkan oleh Chen Zheng-san), merupakan perwujudan institusional konkret dari "dari yang ditulis menjadi penulis diri sendiri".
+- [Historiografi Pulau Taiwan](/id/history/taiwan-island-historiography) — Kerangka Cao Yong-he 1990: memandang sejarah dari subjek pulau, tidak dari perspektif kekaisaran manapun
+- [Zaman Prasejarah dan Penduduk Asli](/id/history/prehistoric-era-and-indigenous-peoples) — Taiwan enam ribu tahun sebelum "penemuan" Eropa, budaya Dapenkeng dan tanah asal Austronesia
+- [Era Belanda–Spanyol–Koxinga](/id/history/dutch-spanish-and-koxinga-era) — 38 tahun kolonisator Eropa pertama di Taiwan, etnografi Candidius mulai dari sini
+- [Robert Swinhoe](/id/people/robert-swinhoe-naturalist) — Tipe pengamat Barat abad ke-19: memandang Taiwan dengan mata sains, meninggalkan catatan lebih abadi dari karir diplomatiknya
+- [Museum Sejarah Nasional Taiwan](/society/國立臺灣歷史博物館) — NMTH 2014 menerbitkan terjemahan edisi asli Davidson 1903 _The Island of Formosa, Past and Present_ (terjemahan dan anotasi Chen Zheng-san), instantiasi institusional konkret dari "dari ditulis ke menulis sendiri"
 
 ## Referensi
 
-[^1]: [George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Menerbitkan _An Historical and Geographical Description of Formosa_ pada tahun 1704, mengklaim sebagai penduduk asli Formosa. Penipuan berlangsung hampir sepuluh tahun. Mencakup biografi, detail penipuan, dan pertobatan setelahnya.
+[^1]: [George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — 1704 menerbitkan _An Historical and Geographical Description of Formosa_, mengaku orang asli Formosa. Penipuan berlangsung hampir sepuluh tahun. Berisi riwayat hidup, detail penipuan, dan pengakuan akhir hayat.
 
-[^2]: [Sama seperti ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Mengajar "Bahasa Formosa" yang diciptakan sendiri di Universitas Oxford, menciptakan sistem alfabet dan tata bahasa. Buku itu mengklaim bahwa setiap tahun 18.000 anak laki-laki dikorbankan di pulau itu.
+[^2]: [Sama ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Mengajar "bahasa Formosa" buatan di Universitas Oxford, menciptakan sistem alfabet dan tatabahasa. Buku mengklaim pulau mempersembahkan 18.000 anak laki-laki tiap tahun.
 
-[^3]: [Sama seperti ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Misionaris Fransiskan Father Fontenay secara langsung mempertanyakan, tetapi lingkaran sosial London memilih untuk mempercayai Psalmanazar.
+[^3]: [Sama ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Misionaris Yesuit Father Fontenay menantang langsung, tapi kalangan sosial London memilih percaya Psalmanazar.
 
-[^4]: [Sama seperti ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Meninggal pada tahun 1763, naskah terakhirnya _Memoirs of \*\*\*\*, Commonly Known by the Name of George Psalmanazar_ mengakui bahwa semuanya adalah rekayasa. Banyak sarjana berpendapat ia berasal dari Prancis selatan.
+[^4]: [Sama ^1, George Psalmanazar, Wikipedia](https://en.wikipedia.org/wiki/George_Psalmanazar) — Meninggal 1763, naskah warisan _Memoirs of \*\*\*\*, Commonly Known by the Name of George Psalmanazar_ mengakui semuanya rekayasa. Kebanyakan sarjana percaya dia dari Prancis selatan.
 
-[^5]: [Formosa, Wikipedia](https://en.wikipedia.org/wiki/Formosa) — Kontroversi akademis mengenai legenda penamaan "Ilha Formosa". Versi buku teks (dinamai oleh pelaut Portugis pada tahun 1542) dipertanyakan.
+[^5]: [Formosa, Wikipedia](https://en.wikipedia.org/wiki/Formosa) — Kontroversi akademis legenda penamaan "Ilha Formosa". Versi buku teks (nelayan Portugal 1542) menerima tantangan.
 
-[^6]: [Penelitian Wen Chia-ien, dikutip dari laporan Taipei Times / almanak Taiwan yang direvisi](https://www.taipeitimes.com/) — Wen Chia-ien menunjukkan bahwa orientasi dan ukuran "Fermosa" pada peta Portugis tahun 1554 lebih cocok dengan Okinawa daripada Taiwan.
+[^6]: [Penelitian Habang Yayin, dikutip dari liputan Taipei Times / revisi Buku Tahunan Taiwan](https://www.taipeitimes.com/) — Peneliti Institut Sejarah Taiwan Academia Sinica Habang Yayin menunjuk: "Fermosa" di peta pelayaran Portugal 1554, arah dan ukuran lebih cocok Okinawa bukan Taiwan.
 
-[^7]: [Jurnal Pelayaran Francisco Gali, 1584](https://en.wikipedia.org/wiki/Francisco_Gali) — Catatan pelayaran kapten Spanyol yang menyebutkan _As Ilhas Fermosas_, merupakan dokumen Eropa tertua yang dapat dikonfirmasi secara jelas merujuk pada Taiwan.
+[^7]: [Francisco Gali, Jurnal Pelayaran 1584](https://en.wikipedia.org/wiki/Francisco_Gali) — Catatan pelayaran kapten Spanyol menyebut "As Ilhas Fermosas", sumber Eropa paling awal yang pasti merujuk Taiwan.
 
-[^8]: [Almanak Republik Tiongkok (Taiwan)](https://yearbook.taiwan.gov.tw/) — Almanak resmi Taiwan tahun 2019 merevisi frasa terkait "dinamai oleh orang Portugis" menjadi pernyataan yang lebih hati-hati, mencerminkan perubahan konsensus akademis.
+[^8]: [Buku Tahunan Republik Tiongkok](https://yearbook.taiwan.gov.tw/) — 2019 Buku Tahunan resmi Taiwan mengubah kalimat "dinamai orang Portugal", jadi ungkapan lebih hati-hati, mencerminkan pergeseran konsensus akademik.
 
-[^9]: [Kebudayaan Dabenkeng, Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%8C%E5%9D%91%E6%96%87%E5%8C%96) — Budaya Neolitik tertua di Taiwan, sekitar 5000–4500 SM, terkait erat dengan penyebaran suku Austronesia. Taiwan dianggap sebagai kemungkinan tanah air dari rumpun bahasa Austronesia (400 juta orang).
+[^9]: [Budaya Dapenkeng, Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9D%8C%E5%9D%91%E6%96%87%E5%8C%96) — Budaya neolitik tertua Taiwan, sekitar 5.000–4.500 SM, berkaitan erat ekspansi Austronesia. Taiwan dianggap kemungkinan besar tanah asal Austronesia (400 juta penduduk).
 
-[^10]: [Taiwan, Wikipedia — bagian Etimologi dan sejarah](https://en.wikipedia.org/wiki/Taiwan) — Apakah "Pulau Barbar" (_Yi Zhou_) dalam _Historis Tiga Negara_ atau "Ryukyu" dalam _Dinasti Sui_ merujuk pada Taiwan? Hal ini masih diperdebatkan oleh komunitas akademis. Catatan literatur Tiongkok tentang Taiwan lebih awal tetapi sama kaburnya daripada Eropa.
+[^10]: [Taiwan, Wikipedia — bagian Etimologi dan Sejarah](https://en.wikipedia.org/wiki/Taiwan) — _Sanguo Zhi_ "Yizhou", _Sui Shu_ "Liuqiu" apakah merujuk Taiwan, akademisi hingga kini perdebatan. Catatan Tiongkok lebih awal dari Eropa tapi sama kaburnya.
 
-[^11]: [Formosa Belanda, Wikipedia](https://en.wikipedia.org/wiki/Dutch_Formosa) — Kompeni Dagang Hindia Timur Belanda mendirikan kekuasaan kolonial di selatan Taiwan (Daben/Anping) dari tahun 1624 hingga 1662, membangun benteng Fort Zeelandia.
+[^11]: [Formosa Belanda, Wikipedia](https://en.wikipedia.org/wiki/Dutch_Formosa) — 1624–1662 VOC di selatan Taiwan (Tayouan/Anping) mendirikan pemerintahan kolonial, bangun Fort Zeelandia.
 
-[^12]: [George Candidius, Wikipedia](https://en.wikipedia.org/wiki/George_Candidius) — Menulis etnografi Taiwan pertama di dunia pada tahun 1628, menggambarkan _inibs_ (pendeta wanita), aborsi paksa, pandangan jiwa, dan ritual pemujaan suku Siraya.
+[^12]: [George Candidius, Wikipedia](https://en.wikipedia.org/wiki/George_Candidius) — 1628 menulis etnografi Taiwan pertama Barat, mendeskripsikan inibs (pendeta wanita) Siraya, aborsi paksa, pandangan jiwa, upacara ritual.
 
-[^13]: [Olfert Dapper, Wikipedia](https://en.wikipedia.org/wiki/Olfert_Dapper) — Menerbitkan karya yang memiliki bab khusus tentang "Pulau Formosa" pada tahun 1670. Dapper tidak pernah meninggalkan Belanda, tetapi ia mengedit laporan langsung VOC. Ukiran tembaga sangat memengaruhi imajinasi visual Eropa tentang Formosa.
+[^13]: [Olfert Dapper, Wikipedia](https://en.wikipedia.org/wiki/Olfert_Dapper) — 1670 menerbitkan karya berisi bab "Pulau Formosa". Dapper tidak pernah keluar Belanda, tapi menyunting laporan pertama tangan VOC. Ukiran tembaga membentuk bayangan visual Eropa tentang Formosa.
 
-[^14]: [Basis Data Museum Sejarah Taiwan: Taiwan di Mata Tentara Kecil Prancis dan Perang Tiongkok-Prancis](https://collections.nmth.gov.tw/article.aspx?a=249) — Surat pribadi Coppin (René Coppin). Naskah asli Garnot dapat dilihat di [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage).
+[^14]: [Situs Koleksi NMTH: Taiwan dan Perang Prancis–Qing dalam Mata Prajurit Prancis](https://collections.nmth.gov.tw/article.aspx?a=249) — Surat Coppin (René Coppin). Memoar Garnot asli lihat [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage).
 
-[^15]: [Proyek TaiShiBo "Sumber Eksternal Melihat Taiwan"](https://taiwanoverseas.nmth.gov.tw/) — Dipimpin oleh Douglas Fix (Reed College), bekerja sama dengan TaiShiBo selama lebih dari dua puluh tahun, mengumpulkan dokumen terkait Taiwan abad ke-19 dari Perpustakaan Kongres AS, Perpustakaan Nasional Prancis, dan Arsip Nasional Inggris.
+[^15]: [NMTH "Melihat Taiwan dari Sumber Luar Negeri"](https://taiwanoverseas.nmth.gov.tw/) — Douglas Fix (Reed College) memimpin, kerja sama NMTH dua puluh tahun, mengorek dari Library of Congress AS, Bibliothèque nationale de France, The National Archives UK naskah pengamat Barat abad ke-19 soal Taiwan.
 
-[^16]: [Cao Yong-he, Wikipedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B0%B8%E5%92%8C) — Mengajukan "Taiwan Island Historiography" pada tahun 1990: menjadikan pulau sebagai subjek utama, mengamati bagaimana budaya asing berinteraksi dan menyusun ulang di pulau pada periode yang berbeda. Ini adalah pergeseran paradigma dalam studi sejarah Taiwan.
+[^16]: [Cao Yong-he, Wikipedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B0%B8%E5%92%8C) — 1990 mengusulkan "Historiografi Pulau Taiwan": pulau sebagai subjek, amati budaya asing era berbeda interaksi, rekonfigurasi di pulau. Pergeseran paradigma penelitian sejarah Taiwan.
 
-[^17]: [Davidson, James W. _The Island of Formosa, Past and Present_ (1903)](https://archive.org/details/islandofformosap00davi) — Konsul Amerika di Tamsui, menyaksikan awal dan akhir Republik Demokratik Taiwan pada tahun 1895. Lebih dari 600 halaman, masih merupakan sejarah umum Taiwan berbahasa Inggris yang paling lengkap. Seluruh teks tersedia di Internet Archive.
+[^17]: [Davidson, James W. _The Island of Formosa, Past and Present_ (1903)](https://archive.org/details/islandofformosap00davi) — Konsul AS di Tamsui, menyaksikan 1895 Negara Demokratik Taiwan. 600+ halaman, hingga kini sejarah umum Inggris paling lengkap Taiwan. Internet Archive menyimpan teks penuh.
 
-[^18]: [Sama seperti ^15, Proyek TaiShiBo "Sumber Eksternal Melihat Taiwan"](https://taiwanoverseas.nmth.gov.tw/) — Proyek ini mencakup 12 seri dan 51 koleksi, dengan fokus pada abad ke-19. Manuskrip dari Robert Swinhoe, Charles Le Gendre, Garnot, dan lainnya semuanya termasuk di dalamnya.
+[^18]: [Sama ^15, NMTH "Melihat Taiwan dari Sumber Luar Negeri"](https://taiwanoverseas.nmth.gov.tw/) — Proyek mencakup 12 seri, 51 koleksi, fokus era abad ke-19. Naskah Swinhoe, Le Gendre, Garnot dll termasuk di dalamnya.

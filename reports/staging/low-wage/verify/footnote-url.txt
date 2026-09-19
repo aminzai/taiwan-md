@@ -1,0 +1,5 @@
+🧬 knowledge/Society/誰算低薪.md
+   lang=zh-TW  category=Society  slug=誰算低薪
+   ✅ footnote-url  hard=0 warn=0
+
+Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)

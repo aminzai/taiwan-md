@@ -1,9 +1,10 @@
 ---
-title: 'Pigsy Qiang: Raja Rakyat Budaya Panggung Taiwan'
-description: 'Perwakilan budaya panggung Taiwan, aktor komedi nasional, meninggal pada 2017 akibat kanker'
+title: 'Chu Ke-liang'
+description: 'Ikon budaya pertunjukan Taiwan, komedian favorit nasional, meninggal tahun 2017'
 date: 2026-03-19
 category: 'People'
-tags: ['Pigsy Qiang', 'panggung', 'komedi', 'variety', 'bahasa Taiwan']
+tags:
+  ['Chu Ke-liang', 'budaya pertunjukan', 'komedi', 'hiburan', 'bahasa Taiwan']
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
@@ -13,129 +14,129 @@ translatedFrom: 'People/豬哥亮.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9339a35ccebb0ba3'
 sourceBodyHash: 'sha256:267addb8edcb3bef'
-translatedAt: '2026-09-15T19:45:29+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-# Pigsy Qiang: Raja Rakyat Budaya Panggung Taiwan
+# Chu Ke-liang: Raja Pertunjukan Taiwan
 
-Dari kampung warga pekerja di Kaohsiung hingga layar televisi di seluruh Taiwan, Pigsy Qiang menciptakan bahasa komedinya sendiri dengan "humor Pigsy". Kemampuan bernyanyi dan berbicara dalam bahasa Taiwan, kemampuan improvisasi, serta perspektif rakyat jelata membuatnya populer selama puluhan tahun, menjadi "salah satu dari kami" bagi para penonton. Pada Mei 2017, Pigsy Qiang meninggal dunia akibat kanker usus besar, berusia 70 tahun.
+Dari kampung karyawan militer di Zuoying, Kaohsiung, hingga ke layar televisi nasional Taiwan, Chu Ke-liang membangun bahasa komedian yang menjadi miliknya sendiri melalui apa yang dikenal sebagai "humor gaya Chu." Rap bahasa Taiwan-nya, kecerdikan improvisasi, dan perspektif dari rakyat jelata membuatnya menjadi sosok idola selama puluhan tahun, seseorang yang dianggap penonton kelas pekerja sebagai "salah satu dari kita." Pada Mei 2017, ia meninggal karena kanker usus besar pada usia 70 tahun.
 
-## Jalannya Seniman dari Akar yang Sederhana
+## Latar Belakang Rakyat Jelata dalam Dunia Hiburan
 
-Pigsy Qiang lahir dengan nama sebenarnya adalah Xie Xinda, lahir pada 6 Desember 1946, di daerah Xinying, Kaohsiung[^1]. Ayahnya, Xie Huoyan, adalah tukang besi, sementara ibunya menjual sayur di pasar, keluarga hidupnya sederhana. Ia tumbuh besar di kampung warga pekerja di Xinying, Kaohsiung, yang sangat dipengaruhi oleh budaya rakyat jelata setempat.
+Chu Ke-liang lahir dengan nama Hsin Ta Hsieh pada 6 Desember 1946, berasal dari Distrik Zuoying, Kaohsiung[^1]. Ayahnya, Hsieh Huo-yen, adalah pandai besi, dan ibunya menjual sayuran di pasar—keluarga hidup dalam kondisi sangat sederhana. Ia tumbuh di kawasan kampung karyawan militer Zuoying, terserap dalam budaya populer lokal yang kaya.
 
-Setelah menamatkan sekolah dasar, ia terpaksa berhenti sekolah karena kesulitan ekonomi dan mulai bekerja untuk menambah pendapatan. Pada usia 15 tahun, ia bertemu dengan pertunjukan komedi tradisional dan belajar dari seorang guru. Pengalaman ini menjadi dasar bagi kemampuan pertunjukannya di kemudian hari.
+Setelah menyelesaikan pendidikan dasar, ia terpaksa putus sekolah karena kesulitan finansial dan mulai bekerja membantu nafkah keluarga. Pada usia 15 tahun, ia mulai belajar opera Taiwanese (歌仔戲) dan magang untuk mempelajari teater tradisional—pengalaman ini menjadi fondasi untuk pertunjukan-pertunjukannya di masa depan.
 
-Pada awal 1960-an, ia mulai melakukan pertunjikan jalanan di pasar malam, meniru selebriti film dan televisi yang sedang populer. Pertunjukannya yang dinamis dan penuh semangat, perlahan membawa namanya dikenal di kalangan warga setempat.
+Pada tahun 1960-an, ia mulai tampil di jalanan pasar malam (夜市), meniru penyanyi terkenal dan bintang film masa itu. Pertunjukannya yang hidup dan penuh energi perlahan-lahan mendapatkan reputasi di kalangan masyarakat lokal.
 
-## Munculnya Budaya Panggung
+## Kebangkitan Budaya Pertunjukan
 
-Pada 1970-an, perekonomian Taiwan semakin berkembang, kebutuhan hiburan malam pun meningkat, sehingga budaya panggung pun lahir. Pigsy Qiang memanfaatkan kesempatan ini dan mulai tampil di berbagai panggung di seluruh negeri.
+Ketika ekonomi Taiwan meledak pada tahun 1970-an, permintaan akan hiburan malam meningkat, dan budaya pertunjukan (秀場文化) muncul sebagai respons atas kebutuhan ini. Chu Ke-liang memanfaatkan kesempatan ini dengan baik dan mulai tampil di berbagai venue di seluruh Taiwan.
 
-Pertunjukannya menggabungkan elemen-elemen pentas tradisional, nyanyian rakyat, dan unsur-unsur populer modern, sehingga menciptakan "gaya Pigsy" yang unik. Terutama, kemampuannya dalam bernyanyi dan berbicara dalam bahasa Taiwan yang dapat menciptakan syair yang menakutkan secara improvisasi, sangat disukai oleh para penonton.
+Pertunjukannya menggabungkan opera tradisional, kisah rakyat, dan elemen populer modern menjadi gaya yang unik—"gaya Chu." Kemampuannya dalam rap bahasa Taiwan—mampu menciptakan bait berima secara spontan di depan panggung—khususnya diminati oleh penonton.
 
-Pertunjukan panggung Pigsy Qiang sering kali menggabungkan komentar sosial dan kritik sosial, menggunakan humor untuk menyampaikan suara rakyat jelata. Gaya pertunjukan yang dekat dengan rakyat ini membuatnya dengan cepat dikenal luas.
+Pertunjukan-pertunjukannya di venue hiburan sering memasukkan komentar tentang peristiwa terkini dan satire sosial, memberikan suara kepada warga biasa melalui humor. Gaya yang dekat dengan masyarakat ini mendorong kariernya untuk cepat melejit.
 
-## Era Emas Televisi
+## Era Emas Pertunjukan Varieté Televisi
 
-Pada 1980-an, industri televisi Taiwan berkembang pesat, dan Pigsy Qiang berhasil beralih ke dunia televisi. Programnya yang berjudul "Pigsy Qiang Show" menjadi salah satu program variety yang paling populer pada masa itu[^2].
+Saat industri televisi Taiwan berkembang pesat pada tahun 1980-an, Chu Ke-liang berhasil beralih ke dunia varieté televisi. Program yang ia pandu, _Chu Ke-liang's Cabaret Show_ (《豬哥亮歌廳秀》), menjadi salah satu acara varieté paling populer di masanya[^2].
 
-Program ini menggabungkan elemen-elemen pentas, tarian, dan komedi, dengan Pigsy Qiang sebagai moderatornya. Dengan gaya moderasi yang unik dan kemampuan pertunjukannya yang improvisif, program ini selalu penuh dengan kejutan dan tawa.
+Acara tersebut mengikuti format kasbar, menggabungkan menyanyi, tari, dan sketsa komedi. Gaya membawakan yang unik dari Chu Ke-liang dan kemampuan improvisasinya membuat program penuh dengan kejutan dan tawa.
 
-Pigsy Qiang sangat mahir dalam berinteraksi dengan para tamu undangan, baik itu selebriti yang terkenal maupun penonton biasa, semuanya dapat menampilkan sisi yang menarik di bawah bimbingannya. Kemampuan interpersonal ini adalah salah satu faktor kunci kesuksesannya.
+Ia sangat terampil dalam berinteraksi dengan tamu—baik artis terkenal maupun penonton biasa, ia bisa menggali sisi menghibur dari siapa saja. Kemampuan pendekatan ini menjadi faktor kunci kesuksesannya.
 
-## Gaya Pertunjukan yang Unik
+## Gaya Pertunjukan yang Tiada Tanding
 
-Gaya pertunjukan Pigsy Qiang sangat berbeda dari yang lain, yang terbentuk dari pengalaman bertahannya di panggung jalanan. Seni bahasa adalah ciri paling mencolok dari gaya pertunjukannya: mahir dalam bernyanyi dan berbicara dalam bahasa Taiwan, dapat menciptakan syair yang menakutkan secara improvisasi, setiap pertunjukan penuh dengan kebijaksanaan jalanan dan rasa humor.
+Gaya pertunjukan Chu Ke-liang benar-benar unik, diukir melalui bertahun-tahun latihan nyata dari panggung pasar malam hingga venue pertunjukan. Keahlian bahasa adalah ciri paling menonjol dari dirinya: ia menguasai rap bahasa Taiwan, mampu menciptakan kata berima secara spontan dalam setiap pertunjukan, setiap performance penuh dengan kecerdasan jalanan dan humor.
 
-Pigsy Qiang juga sangat baik dalam menggunakan gerakan tubuh yang berlebihan dan ekspresi wajah, yang kental dengan nuansa komedi tradisional namun tetap terasa modern. Humor rakyat jelata adalah inti dari gaya pertunjukannya: isi pertunjukannya sangat dekat dengan pengalaman hidup rakyat biasa, sehingga penonton tidak hanya tertawa, tetapi juga merasa ada maknanya. Kemampuan improvisasinya yang luar biasi, dapat menciptakan leluasa yang baru berdasarkan situasi di tempat, setiap pertunjukan pasti penuh dengan kejutan yang tidak terduga.
+Ia juga mahir menggunakan gerakan tubuh yang berlebihan dan ekspresi wajah dengan warna kuat dari opera tradisional, namun tetap mempertahankan sentuhan modern. Humor rakyat jelata adalah intinya: konten pertunjukannya dekat dengan pengalaman hidup masyarakat umum, membuat penonton tertawa sekaligus merasa ada makna di dalamnya. Kemampuan improvisasi yang luar biasa khususnya menonjol—ia dapat menciptakan lelucon berdasarkan situasi panggung saat itu, sehingga setiap pertunjukan selalu membawa kejutan yang tak terduga.
 
-Beberapa ciri khas ini terus dilatih selama bertahun-tahun di panggung yang menekan, membentuk sistem pertunjukan Pigsy yang unik. Untuk dapat bertahan di atas panggung selama dua jam penuh, keterampilan hanyu-lah dasar; koneksi emosional yang tulus dengan penonton adalah inti dari kesuksesannya.
+Beberapa ciri ini tersatukan dalam lingkungan pertunjukan venue yang penuh tekanan melalui bertahun-tahun latihan, membentuk sebuah sistem pertunjukan gaya Chu yang unik. Seseorang yang mampu bertahan selama dua jam penuh di panggung, teknik hanyalah dasar; koneksi emosional yang nyata dengan penonton adalah intinya.
 
 ## Kontroversi dan Masa Sulit
 
-Pada pertengahan 1990-an, Pigsy Qiang terpaksa mengundurkan diri dari dunia hiburan karena masalah hutang judi[^3]. Pada masa itu, ia bersembunyi di Tiongkok daratan, sementara industri hiburan Taiwan mengalami stagnasi.
+Pada pertengahan tahun 1990-an, Chu Ke-liang terlibat dalam masalah utang judi dan terpaksa meninggalkan industri hiburan untuk sementara waktu. Selama periode ini, ia tinggal di Tiongkok daratan, dan karir hiburannya di Taiwan berhenti sejenak.
 
-Banyak media melaporkan kehidupan pribadinya, termasuk konflik emosional dan masalah hutang, yang membuat citra publiknya sedikit terganggu. Namun, kasih sayang penonton rakyat jelata tidak benar-benar punah.
+Media banyak memberitakan kehidupan pribadinya, termasuk masalah percintaan, masalah utang, dan sebagainya, yang mempengaruhi citranya. Namun, penonton rakyat jelata tidak sepenuhnya kehilangan kasih sayang mereka kepada dirinya.
 
-Masa sulit ini membuat Pigsy Qiang mendapatkan pelajaran hidup yang mendalam, sekaligus membuatnya meninjau kembali hubungannya dengan penonton. Karena itu, ia akhirnya kembali dengan fokus pada pertunjukannya.
+Masa sulit ini membuat Chu Ke-liang melakukan introspeksi mendalam tentang hidupnya, dan juga membawanya untuk mempertimbangkan kembali hubungannya dengan penonton. Kemudian ketika ia kembali, ia berfokus pada pertunjukan itu sendiri.
 
-## Kembali dengan Gemilang dan Masa Kedua
+## Kembali Gemilang dan Musim Semi Kedua Karir
 
-Pada akhir 2000-an, Pigsy Qiang kembali ke dunia hiburan Taiwan dan memulai masa kedua baru. Programnya yang berjudul "Pigsy Company" kembali berhasil mendapatkan apresiasi penonton[^4].
+Setelah memasuki dekade 2000-an, Chu Ke-liang kembali ke industri hiburan Taiwan, memulai musim semi kedua karirnya. Program yang ia pandu seperti _Chu Ke-liang's Society_ (《豬哥會社》) kembali mendapat sambutan penonton[^3].
 
-Setelah kembali, gaya pertunjukan Pigsy Qiang semakin matang, sambil mempertahankan gaya aslinya, juga semakin memperhatikan kualitas program. Ia bekerja sama dengan para seniman muda, menunjukkan kemampuan adaptasinya yang baik.
+Pertunjukan Chu Ke-liang setelah kembali semakin matang, sambil mempertahankan gaya aslinya, ia juga lebih memperhatikan kualitas program. Ia berkolaborasi dengan artis muda dan menunjukkan kemampuan adaptasi yang baik.
 
-Pada 2010-an, ia turut berperan dalam beberapa film, termasuk film komedi yang berhasil "Big Fish & Begonia" yang menghasilkan proyektor yang baik.
+Pada tahun 2010-an, ia berpartisipasi dalam berbagai penampilan film, termasuk film box office seperti _Big Eel_ (《大尾鱸鰻》), dengan performa penjualan yang mengesankan.
 
-## Eksperimen Baru di Dunia Film
+## Eksplorasi Baru di Dunia Film
 
-Pigsy Qiang akhirnya turut berperan dalam film, dalam film "Big Fish & Begonia" yang disutradarai oleh Qiu Jiguang, memerankan peran penting, proyektor yang baik[^5].
+Pada tahap akhir karirnya, Chu Ke-liang berpartisipasi dalam penampilan film, memainkan peran penting dalam serial film _Big Eel_ (《大尾鱸鰻》) yang disutradarai oleh Qiu Jiuming, dengan performa penjualan yang mengesankan[^4].
 
-Ia berhasil mentransfer pengalaman pertunjukan televisi ke layar lebar, memvalidasi potensi pasar komedi film berbahasa Taiwan.
+Ia berhasil mentransfer pengalaman pertunjukan varieté televisi ke layar lebar, membuktikan potensi pasar untuk film komedi bahasa Taiwan.
 
-Pertunjukan film Pigsy Qiang tetap mempertahankan gaya humor yang khas, sekaligus menunjukkan pemahamannya yang akurat terhadap karakter yang diperankannya.
+Penampilan film Chu Ke-liang mempertahankan gaya humor khasnya, sekaligus menunjukkan pemahaman yang mendalam tentang karakter yang ia perankan.
 
-## Kontribusi bagi Budaya Bahasa Taiwan
+## Kontribusi terhadap Budaya Bahasa Taiwan
 
-Pigsy Qiang adalah salah satu penggerak budaya populer bahasa Taiwan, pertunjukannya memberi bahasa Taiwan posisi penting di media modern. Pada era yang didominasi oleh bahasa nasional, ia tetap memilih untuk menggunakan bahasa Taiwan dalam pertunjukannya.
+Chu Ke-liang adalah pendorong penting budaya populer bahasa Taiwan, pertunjukannya membawa bahasa Taiwan mendapat posisi penting dalam media modern. Di era ketika dominasi bahasa Mandarin, ia tetap konsisten menggunakan bahasa Taiwan dalam pertunjukannya.
 
-Kemampuan bernyanyi dan berbicara dalam bahasa Taiwan yang dimilikinya menginspirasi banyak penari muda, termasuk Peng Hao dan Xu Xiaoshun yang semua terpengaruh olehnya. Pigsy Qiang telah mendirikan tradisi komedi bahasa Taiwan yang penting.
+Teknik rap bahasa Taiwan-nya mempengaruhi banyak performer generasi berikutnya, termasuk Peng Qiaqia dan Xu Xiaoxun yang terinspirasi oleh dirinya. Chu Ke-liang mendirikan tradisi penting untuk pertunjukan komedi bahasa Taiwan.
 
-Pertunjukannya juga melestarikan banyak elemen budaya tradisional Taiwan, termasuk lagu-lagu komedi tradisional dan nyanyian rakyat, yang memiliki makna penting bagi warisan budaya.
+Pertunjukannya juga melestarikan banyak elemen budaya tradisional Taiwan, termasuk melodi opera tradisional dan cerita rakyat, memiliki makna penting untuk pewarisan budaya.
 
-## Ikatan Emosional yang Dalam dengan Penonton
+## Ikatan Emosional yang Mendalam dengan Penonton
 
-Kesuksesan terbesar Pigsy Qiang adalah ikatan emosional yang dalam yang berhasil ia bangun dengan penonton. Setiap pertunjukannya selalu penuh dengan keikhlasan, dapat membuat penonton merasakan tekadnya.
+Kesuksesan terbesar Chu Ke-liang terletak pada ikatan emosional yang mendalam yang dibangunnya dengan penontonnya. Pertunjukannya selalu penuh dengan ketulusan, mampu membuat penonton merasakan perhatian yang ia berikan.
 
-Pigsy Qiang sangat disukai oleh penonton dari selatan dan tenggara, sering digambarkan sebagai "salah satu dari kami". Rasa dekat ini adalah faktor penting yang memungkinkan ia bertahan dalam karier pertunjukannya selama puluhan tahun.
+Ia sangat dicintai oleh penonton dari daerah tengah dan selatan Taiwan serta masyarakat kelas pekerja, dianggap sebagai "salah satu dari kita." Kedekatan semacam ini adalah faktor penting yang memungkinkannya melewati karir hiburan yang panjang selama puluhan tahun.
 
-Meskipun dalam masa sulit, masih banyak penggemar setia yang mendukungnya, hal ini membuktikan posisinya yang istimewa di hati penonton.
+Bahkan di masa-masa sulit, masih ada banyak penggemar setia yang mendukungnya, membuktikan posisi istimewa yang dimilikinya di hati penonton.
 
-## Pengaruhnya bagi Budaya Variety Taiwan
+## Pengaruh terhadap Budaya Varieté Taiwan
 
-Pigsy Qiang telah menciptakan model penting bagi program variety Taiwan yang berbasis lokal, memengaruhi banyak sekali program variety yang datang setelahnya. Gaya moderasinya sering ditiru oleh banyak penulis program muda.
+Chu Ke-liang membuka model penting untuk program varieté lokal Taiwan, mempengaruhi format tak terhitung jumlahnya dari program-program varieté yang datang kemudian. Gaya membawakan acaranya ditiru dan dipelajari oleh banyak host generasi muda.
 
-Pigsy Qiang juga membuktikan nilai komersial dari program variety berbahasa Taiwan, membuka pasar penting bagi industri televisi Taiwan. Hal ini memiliki makna penting bagi pengembangan budaya televisi Taiwan.
+Dia membuktikan nilai komersial dari program varieté bahasa Taiwan, membuka segmen pasar penting bagi industri televisi Taiwan. Ini memiliki makna penting untuk pengembangan budaya televisi Taiwan.
 
-Banyak moderator variety terkenal seperti Wu Zhongxian dan Hu Ge semuanya menyatakan bahwa mereka terpengaruh oleh Pigsy Qiang. Pigsy Qiang telah mendirikan tradisi pertunjukan penting bagi dunia variety Taiwan.
+Banyak host varieté terkenal seperti Wu Zongxian dan Hu Gua menyatakan terpengaruh oleh Chu Ke-liang. Ia mendirikan tradisi pertunjukan penting bagi industri hiburan Taiwan.
 
-## Perjuangan melawan Kanker dan Refleksi Hidup di Masa Akhir
+## Perjuangan Melawan Kanker di Usia Senja dan Refleksi Hidup
 
-Pada 2014, Pigsy Qiang didiagnosis dengan kanker usus besar, dan mulai menjalani pengobatan. Meskipun dalam keadaan sakit, ia tetap bekerja keras, menunjukkan tekad yang kuat.
+Pada tahun 2014, Chu Ke-liang didiagnosis menderita kanker usus besar dan mulai menjalani perawatan. Bahkan dalam penderitaan, ia tetap bersikeras untuk bekerja, menunjukkan kemauan yang kuat.
 
-Selama perawatan, ia semakin menghargai waktu bersama keluarga dan penonton, setiap pertunjukan pun dilakukan dengan serius. Dengan sikap optimisnya menghadapi penyakit, ia berhasil menggerakkan banyak orang.
+Selama perjuangan melawan penyakit, ia sangat menghargai waktu yang dihabiskan bersama keluarga dan penontonnya, menghadapi setiap pertunjukan dengan serius. Ia menghadapi penyakit dengan sikap optimis yang menginspirasi banyak orang.
 
-Dalam wawancara, ia menyampaikan refleksinya tentang hidup, percaya bahwa dapat memberikan kebahagiaan kepada penonton adalah pencapaian terbesar. Kasih sayangnya terhadap pertunjukan ini membuat kita menghormatinya.
+Dalam wawancara, ia mengungkapkan renungan mendalam tentang hidupnya, percaya bahwa kemampuan untuk membawa kegembiraan kepada penonton adalah pencapaian terbesar. Cinta terhadap seni pertunjukan ini menginspirkan banyak orang.
 
-## 2017: Pengucapan Terakhir
+## Perpisahan Tahun 2017
 
-Pada 15 Mei 2017, Pigsy Qiang meninggal dunia akibat kanker usus besar di Rumah Sakit Nasional Universitas Taiwan, berusia 70 tahun[^1]. Kematiannya memicu rasa sedih yang luas di masyarakat Taiwan, banyak orang dari berbagai latar belakang menyampaikan kenangan dan rasa hormatnya.
+Pada 15 Mei 2017, Chu Ke-liang meninggal karena kanker usus besar di Rumah Sakit Universitas Taiwan, pada usia 70 tahun[^5]. Kematiannya memicu duka yang luas di masyarakat Taiwan, dengan berbagai pihak mengungkapkan kerinduannya terhadapnya.
 
-Di upacara pengucapan terakhir, banyak teman-teman dari dunia hiburan dan penggemar hadir, suasana penuh dengan emosi. Pengasingannya menandai akhir dari satu era, budaya panggung Taiwan kehilangan sosok yang penting.
+Di upacara pemakaman, banyak teman dari industri hiburan dan penggemar setia hadir, suasananya sangat menyentuh hati. Kepergiannya menandai akhir dari sebuah era—budaya pertunjukan Taiwan kehilangan tokoh perwakilan yang sangat penting.
 
-Media-media mengulas kembali karier pertunjukannya, mengakui kontribusinya yang penting bagi budaya hiburan Taiwan. Rekamannya menjadi aset budaya yang berharga.
+Media membuat retrospektif tentang karir hiburannya, mengakui kontribusi penting Chu Ke-liang terhadap budaya hiburan Taiwan. Rekaman pertunjukannya menjadi aset budaya yang berharga.
 
 ## Warisan Budaya
 
-Pigsy Qiang meninggalkan catatan hidup yang nyata dari budaya rakyat Taiwan selama puluhan tahun. Rekamannya menembus dari panggung jalanan hingga ke era emas televisi, mencatat transformasi cepat struktur sosial Taiwan.
+Chu Ke-liang meninggalkan rekam jejak hidup budaya rakyat jelata Taiwan selama puluhan tahun. Rekaman pertunjukannya mencakup era dari pasar malam hingga era emas televisi, mencatat perubahan struktur sosial Taiwan yang cepat.
 
-Tradisi komedi bahasa Taiwan yang ia ciptakan masih memengaruhi para penari muda setelahnya, banyak penari muda belajar dari gaya pertunjukannya.
+Tradisi komedi bahasa Taiwan yang ia ciptakan terus mempengaruhi performer muda, banyak artis muda belajar teknik dan semangat dari pertunjukannya.
 
-Pigsy Qiang membuktikan bahwa seorang seniman dari keluarga sederhana juga bisa mencapai kesuksesan besar, kisah hidupnya menginspirasi banyak orang yang bermimpi untuk berkarier di dunia hiburan.
+Chu Ke-liang membuktikan bahwa seorang seniman dari latar belakang rakyat jelata juga dapat mencapai kesuksesan luar biasa, kisah hidupnya menginspirasi ribuan orang yang memiliki mimpi dalam dunia hiburan.
 
-"Humor Pigsy" telah menjadi salah satu genre unik dalam komedi Taiwan, rekamannya menjadi arsip sejarah budaya rakyat Taiwan.
+"Humor gaya Chu" telah menjadi tipe komedi yang unik di Taiwan, rekaman pertunjukannya menjadi arsip sejarah untuk mencatat budaya rakyat jelataTaiwan.
 
-Para ahli bahasa menganalisis struktur "humor Pigsy" dan meringkaskan beberapa elemen intinya: aksen dan intonasi bahasa Taiwan menciptakan efek rima yang alami, permainan kata dalam bahasa Minnan memungkinkan satu kata untuk menggambarkan dua makna, penggunaan bahasa gaul jalanan bersama istilah klasik menciptakan kontras, serta banyak referensi kontekstual — semua "kamu mengerti jika kamu mengerti" dalam bahasa kode ini, menciptakan ruang koneksi yang tulus dengan penonton inti.
+Ahli bahasa menganalisis struktur humor gaya Chu, meringkas beberapa elemen inti: nada dan rima bahasa Taiwan menciptakan efek berima alami, kata bermakna ganda dalam bahasa Minnan membuat satu kata membawa dua arti sekaligus, bahasa jalanan yang tercampur dengan istilah klasik menciptakan rasa kontras, dan banyak rujukan konteks—ungkapan "yang mengerti pasti tahu" ini membangun ruang kesepahaman khusus antara Chu Ke-liang dan penonton intinya.
 
 ## Referensi
 
-[^1]: Wikipedia "Pigsy Qiang", https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, tempat lahir: Xinying, Kaohsiung
+[^1]: Wikipedia "Chu Ke-liang" entry, https://zh.wikipedia.org/zh-tw/%E8%B1%AC%E5%93%A5%E4%BA%AE, Birthplace: Zuoying District, Kaohsiung
 
-[^2]: Liberty Times "Upacara Pengucapan Terakhir Pigsy Qiang, Ribuan Orang Mengantarkan Prosesi", https://news.ltn.com.tw/, 21 Mei 2017
+[^2]: Liberty Times "Chu Ke-liang's Funeral Procession Sends Off Tens of Thousands", https://news.ltn.com.tw/, May 21, 2017
 
-[^3]: Database Televisi Taiwan, https://tv.nccu.edu.tw/, catatan program "Pigsy Company"
+[^3]: Taiwan Television Database, https://tv.nccu.edu.tw/, _Chu Ke-liang's Society_ program records
 
-[^4]: Central News Agency "Proyektor 'Big Fish & Begonia' Melebihi 30 Juta Yuan", https://www.cna.com.tw/, laporan proyektor Februari 2013
+[^4]: Central News Agency "Big Eel Box Office Exceeds 300 Million", https://www.cna.com.tw/, February 2013 box office report
 
-[^5]: United Daily News "Pigsy Qiang Meninggal pada 15 Mei, Berusia 70 Tahun", https://udn.com/, 15 Mei 2017
+[^5]: United Daily News "Chu Ke-liang Passes Away May 15, Lived to 70 Years Old", https://udn.com/, May 15, 2017

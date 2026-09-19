@@ -1,0 +1,29 @@
+{
+  "revision": 113,
+  "submissionId": "09faad62-a6eb-4c24-9116-2655e00348c6",
+  "actor": "verify 站評閱員（Sonnet，Agent a6e5226cb2cea120f；contextDisclosure: prior-verify-reviewer-reread）",
+  "verdict": "revise",
+  "rationale": "機械檢查重跑四條與腳本重算 71/71 皆一致。新增三條 sourceChecks 兩條逐字核實（[^71] bamid 99 年名單只列永續傳播；1984 禮讚酒會逐字）。第三條「2024 豐采文創等五家、2025 良人行等六家」與現稿 L83「豐采文創等三家《有生之年》、良人行等《影后》」不符——「三家」有 [^21] 製作單位三家為據，非事實錯，但 sourceCheck 敘述沒對齊現稿，需修正敘述。其餘 16 條沿用上輪 accept。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L83 表格「等三家」「良人行等」——sourceCheck 敘述不符"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "[^21] 製作單位三家——現稿依據"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L73／L79／[^71]、L46——命中"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/rewrite-stage-4.txt",
+      "location": "重跑一致"
+    },
+    {
+      "path": "reports/staging/golden-bell/mechanical/prose-health.txt",
+      "location": "重跑一致"
+    }
+  ]
+}

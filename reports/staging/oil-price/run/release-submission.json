@@ -1,0 +1,24 @@
+{
+  "revision": 59,
+  "stage": "release",
+  "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5) as chief editor",
+  "artifacts": [
+    "knowledge/Economy/台灣油價機制與中油.md",
+    "reports/staging/oil-price/run/compose-review-v8.json",
+    "reports/staging/oil-price/run/cold-read-submission-v4.json",
+    "reports/staging/oil-price/run/verify-review.json",
+    "reports/article-projection/台灣油價機制與中油.md"
+  ],
+  "data": {
+    "recommendation": "推薦交付。具體段落：(1) s2 把 9/12 新聞稿的一行算式拆成三份帳——「公式價比前一週 32.0 元的牌價高 11.2 元」「12.29% 是公式價這一週的漲幅⋯拿 12.29% 去乘 32 元得不到 11.2」——讀者第一次能自己驗算牌價新聞；(2) s3 那條吸收線「3 月 22 日約 34.26 億⋯6 月 21 日約 177 億⋯7 月 19 日回落到約 155.6 億⋯9 月 13 日約 198.5 億」加上「降價那三週新聞稿標題寫的吸收只剩貨物稅那『3.7元及2.1元』」，把「累計吸收」從一個大數字還原成一組會回落的預估值，這是全站沒有人寫過的觀察；(3) s6「1,014.31 跟 198.5⋯光是期間就對不上，兩個數字可以同時是真的，只是不能相減」與策展人筆記「在野問的是另一件事：連虧六年算不算《預算法》第 79 條的『重大事故』」，把三種口徑各還給各的主人而不裁判；(4) s8 三種方式回到帳上，明說「前兩種回到讀者身上，第三種留在中油」。四輪冷讀（fresh→reread×3）從九條困惑收斂到零實質困惑，立場判讀三版皆「可接受為作者聲明的不裁判」。硬閘門：article-health 全掃／rewrite-stage-3-5／rewrite-stage-4 hard=0 warn=0，image-health 3 圖，wikilink／link-target 0，image-ingest 0 hard，research-report-health depth PASS，verify 站評閱員親跑五項退出碼與工件一致、親核六原子逐字一致。",
+    "remainingLimits": [
+      "s2 一句因插入 25% 級距說明偏長（五個逗號四件事），內容對；s3 一段 207 字觸 prose-flow WARN（0 hard）。兩者為冷讀第四輪與 prose-flow 指出，未再動正文以免重開迴圈，建議下次 EVOLVE 順手拆句。",
+      "「新聞稿沒有解釋／沒有寫／看不出來」句型七處，各對一個真實缺口（貨物稅三毛、累計預估算法、6.8 拆分、3,500 對 2,338、1,014 含不含天然氣、回收是否運作、銷量），冷讀者稱「必要之惡」。",
+      "IMF p.18 頁碼未機械核對；立院排審進度截至 9/18 查無；戰事與追加預算審議為開放事件，正文動詞停在 9/18。",
+      "run profile 依派工單跑 standard-lite（第三型依路由應為 standard），差額以 Stage 3 兩位 verifier＋定向再驗＋互動協定四輪冷讀補強。",
+      "sources/ 目錄缺 [^26]（經濟日報 4/8）與 [^28]（中油 4/8 澄清稿）本地逐字存檔，verify 評閱員以活頁核對一致；歸檔缺口不是事實缺口。",
+      "第七節篇幅批評方三段對支持方一段（逐字並陳、支持方已前移），冷讀者判為結構性傾向、不影響不裁判判讀。"
+    ],
+    "humanReview": "截至本交件，哲宇（觀察者／創造者）尚未閱讀本文；派工單授權「全綠加 ready-for-publication 才 ship」，ship 後哲宇於 main 上閱讀，任何更正走 EVOLVE。人類實際審閱狀態：無。所有評閱者均為 AI sub-agent（乾淨 context 或如實標示 reread），actor 標籤是可稽核自述不是獨立性證明。"
+  }
+}

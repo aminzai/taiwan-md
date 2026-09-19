@@ -1,0 +1,22 @@
+{
+  "revision": 5,
+  "submissionId": "bb68c689-50c5-450e-a85b-31f64554b72a",
+  "actor": "guide_orient_reviewer_2 (Sonnet sub-agent a0e41593efd27c2a8, fresh context); seconded by guide_orient_reviewer (aaeb3ece15f396fcf, reread)",
+  "verdict": "accept",
+  "rationale": "首次盲讀的第二位讀者 accept：subjectExplanation 改為敘事體、錨點對應帳本；角度 A 標為待證偽假設、C 換成治理角度，四角度正交且可被推翻之處具體到 Stage 1 可查；uncertainties 區分搜不到與不存在；unlock_reason 拿掉 9/14、審議動詞收斂到已驗證確定性；v1 三點全部落實。原評閱員複讀亦 accept，附一條不擋的追蹤提醒（98–99 年立院凍漲決議進 Stage 1 lane B）。全文見 reports/staging/oil-price/run/orient-review-v2.md。",
+  "contextDisclosure": "fresh-context-orient-inputs-only (reviewer 2); reread-orient-inputs (reviewer 1 second opinion)",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/orient-review-v2.md",
+      "location": "全文"
+    },
+    {
+      "path": "reports/staging/oil-price/run/orient-submission-v2.json",
+      "location": "data.subjectExplanation；candidateAngles 第 1、3、4 點；uncertainties 第 5、6 點"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "frontmatter unlock_reason；§脊椎 orient 站評閱後的校正；探索紀錄第 22 條"
+    }
+  ]
+}

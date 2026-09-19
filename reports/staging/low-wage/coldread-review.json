@@ -1,0 +1,18 @@
+{
+  "revision": 28,
+  "submissionId": "6bf1c8b8-6ffb-461f-91fc-5b02e15cbda8",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent ab12ab03aeeba367f（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "冷讀站交付目的是「新讀者只憑稿回述理解與困惑」——回述完整且正確（尺、兩口徑人數、9/24 要決定什麼、年終那一欄無法律下限），理解沒有斷裂，不需回 compose；承重疑點屬散文層（三處作者背書／推論跳躍語氣、兩處重複、四處密度），不屬研究層，不需回研究。全部九條進 verify 站的修復單，批修後正文改動會使本站失效，屆時回 compose 重跑結構席與新的冷讀者（不沿用同一位）。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第二節「這一步沒有人做假」；第五節尾句；第四節尾句反問；30 秒概覽／第一節／結尾三次對照"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission.json",
+      "location": "data.forcedConclusions / repetitions / confusions"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}

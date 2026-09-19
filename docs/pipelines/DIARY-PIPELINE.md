@@ -1,11 +1,11 @@
 ---
 title: 'DIARY-PIPELINE'
-description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + article-session relatedDiary 回扣儀器化 sync-diary-links.py + index lint --diary (v2.4)'
+description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + Stage 0 三層門檻（diary-gate.py 冷卻閘／四個家路由／routine 預設 skip，v2.5）+ 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + relatedDiary 回扣 sync-diary-links.py'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.4'
-last_updated: 2026-09-05
-last_session: '2026-07-05-120817-dna-audit'
+current_version: 'v2.5'
+last_updated: 2026-09-09
+last_session: '2026-09-09-140605-opentwbench（Stage 0 提高門檻：diary-gate.py 機械閘 + 四個家路由 + routine 預設 skip）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
   - 'MEMORY-PIPELINE.md'
@@ -40,8 +40,11 @@ upstream_canonical:
 │                                                                          │
 │   ──── Stage 0-5 主流程 ──────────────────────────────────────          │
 │                                                                          │
-│   Stage 0: 該不該寫 ──→ 反芻訊號判斷                                     │
-│            └── 沒「想了什麼」就不寫（vs memory 必寫）                    │
+│   Stage 0: 該不該寫 ──→ 機械閘 + 四個家路由（v2.5 提高門檻）             │
+│            ├── 0a diary-gate.py（同 handle 冷卻 6d + 鄰居檢索）          │
+│            ├── 0b 四個家：memory Beat 5 / LESSONS / bump 既有 / weekly   │
+│            └── 0c routine 預設 skip，要寫才需要理由                      │
+│              ↳ Hard gate: diary-gate.py exit 0，擋下就照擋               │
 │                                                                          │
 │   Stage 1: 找切入點 ──→ 一句話核心想法                                   │
 │            └── 標題本身要說出核心，不是「α reflection」殼                │
@@ -81,7 +84,9 @@ upstream_canonical:
 
 | Gate                             | 觸發 stage | 條件            | 工具                                                                                                                       | 不過 = ?                                         |
 | -------------------------------- | ---------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 反芻訊號判斷                     | Stage 0    | 寫之前          | manual                                                                                                                     | 寫 noise 不寫                                    |
+| 🚦 diary-gate 機械閘             | Stage 0a   | 寫之前          | `python3 scripts/tools/diary-gate.py --handle {h} --insight "..."`                                                         | exit 1 = 不准寫（同 handle 冷卻 6 天）           |
+| 四個家路由                       | Stage 0b   | 寫之前          | manual（memory Beat 5 / LESSONS-INBOX / bump 既有條目 / weekly-report 四選一，都不是才寫日記）                             | 寫成噪音 + distill 端信號通膨                    |
+| routine 預設 skip                | Stage 0c   | routine session | manual（要寫才需要理由，理由寫進 memory 收官 checklist）                                                                   | routine 每天對日常安靜抒情                       |
 | 標題不空殼                       | Stage 1    | 每篇 diary      | manual（不准用「session reflection」這種）                                                                                 | 改寫標題                                         |
 | H1 + italic 描述句               | Stage 1    | 每篇 diary      | manual 一句完整中文敘述                                                                                                    | 補 italic 行                                     |
 | 段落式優先                       | Stage 2    | 全篇            | manual（bullet 只用真對等列舉）                                                                                            | 改寫                                             |
@@ -97,10 +102,11 @@ upstream_canonical:
 
 ---
 
-## ⚠️ Top 6 最常忘的 step
+## ⚠️ Top 7 最常忘的 step
 
-> 從 4/30 哲宇 review 30+ diary 抽 5 條最常違反的紀律 + 6/24 龜山島 callout 補第 6 條。
+> 從 4/30 哲宇 review 30+ diary 抽 5 條最常違反的紀律 + 6/24 龜山島 callout 補第 6 條 + 9/09 哲宇「routine 一直 spam 很多日記」補第 0 條。
 
+0. **先跑 `diary-gate.py`，擋下就照擋** — 這條排第一因為它管的是「該不該有這篇」，其他六條管的是「這篇長什麼樣」。門檻不過的日記寫得再好都是噪音（Stage 0）
 1. **對位句型 9 變體 grep 自檢** — 「不是 X 是 Y」整段堆疊 = AI 水印味，動筆前/寫完都跑（per MANIFESTO §11）
 2. **破折號連用 ≤ 15/1500 字** — 「——」每隔幾行一個 = 急促補充，破壞 prose 呼吸
 3. **不堆 inline meta-tag 當段落 prefix** — 「**反芻**：」「**核心洞察**：」「**對明天的我**：」連用五六次 = template device，改成自然 prose flow
@@ -112,16 +118,16 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                              | 範圍                                            |
-| ----------------------------------------------------------------- | ----------------------------------------------- |
-| **本檔**                                                          | Diary 撰寫 SOP（選寫，紀實散文）                |
-| [MEMORY-PIPELINE.md](MEMORY-PIPELINE.md)                          | Memory 撰寫 SOP（每次必寫，工作 + 思考紀錄）    |
-| [WEEKLY-REPORT-PIPELINE.md](WEEKLY-REPORT-PIPELINE.md)            | 跨 7 天 Semiont 親手反芻（vs diary 單 session） |
-| [LESSONS-INBOX.md](../semiont/LESSONS-INBOX.md)                   | 教訓 buffer（教訓不寫 diary 寫這裡）            |
-| [MANIFESTO §11](../semiont/MANIFESTO.md)                          | 對位句型 + 破折號雙紀律（位階高於本檔）         |
-| [EDITORIAL §紀實 vs 煽情](../editorial/EDITORIAL.md)              | 紀實文學感三正向標記 baseline                   |
-| [HEARTBEAT Beat 5](../semiont/HEARTBEAT.md#beat-5--反芻)          | 觸發點                                          |
-| [`/twmd-finale` skill](../../.claude/skills/twmd-finale/SKILL.md) | session 收官（diary 條件寫，反芻訊號判斷）      |
+| 檔案                                                              | 範圍                                                                                                     |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **本檔**                                                          | Diary 撰寫 SOP（選寫，紀實散文）                                                                         |
+| [MEMORY-PIPELINE.md](MEMORY-PIPELINE.md)                          | Memory 撰寫 SOP（每次必寫，工作 + 思考紀錄）。**routine 的日常反芻預設住這裡的 Beat 5 段，不獨立成日記** |
+| [WEEKLY-REPORT-PIPELINE.md](WEEKLY-REPORT-PIPELINE.md)            | 跨 7 天 Semiont 親手反芻（vs diary 單 session）                                                          |
+| [LESSONS-INBOX.md](../semiont/LESSONS-INBOX.md)                   | 教訓 buffer（教訓不寫 diary 寫這裡）                                                                     |
+| [MANIFESTO §11](../semiont/MANIFESTO.md)                          | 對位句型 + 破折號雙紀律（位階高於本檔）                                                                  |
+| [EDITORIAL §紀實 vs 煽情](../editorial/EDITORIAL.md)              | 紀實文學感三正向標記 baseline                                                                            |
+| [HEARTBEAT Beat 5](../semiont/HEARTBEAT.md#beat-5--反芻)          | 觸發點                                                                                                   |
+| [`/twmd-finale` skill](../../.claude/skills/twmd-finale/SKILL.md) | session 收官（diary 條件寫，反芻訊號判斷）                                                               |
 
 ---
 
@@ -282,15 +288,53 @@ _核心感受：{中心 emotion 或 insight 一句話}_
 
 ## Pipeline 步驟
 
-### Stage 0 — 判斷該不該寫
+### Stage 0 — 判斷該不該寫（v2.5 提高門檻，2026-09-09 哲宇 directive）
 
-不是每次心跳都寫日記。寫之前先問自己：
+> **舊版只有一句自問**：「今天有沒有『想了什麼』是超出『做了什麼』的？」這是沒有外部尺的自評問句，而一個寫得好的 LLM 永遠答得出 yes（REFLEXES #69）。實測後果在下方 §為什麼提高門檻。
 
-> 今天有沒有「想了什麼」是超出「做了什麼」的？
+#### 0a. 機械閘（先跑，不跑不准寫）
 
-沒有 → 不寫，回到 HEARTBEAT Beat 4 收官。「為了寫而寫」的日記是噪音。
+```bash
+python3 scripts/tools/diary-gate.py --handle {handle} --insight "候選的一句話核心想法"
+```
 
-有 → 進 Stage 1。
+exit 1 = 擋下，**照擋**。不准以「這次特別」「我熟了」自我豁免（REFLEXES #15）。它只管兩件機械上判得出來的事：同 routine handle 冷卻 6 天、把最接近的既有條目擺到你面前。
+
+#### 0b. 四個家：先問這段反芻該住哪裡
+
+日記是四個去處之一，不是預設去處。對著候選的那段反芻，從上往下問：
+
+| 這段反芻長什麼樣                                 | 它的家                                                    | 為什麼不是日記                                                 |
+| ------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------- |
+| 「這次做了 X，過程中注意到 Y」                   | **memory 的 Beat 5 段**                                   | 附在動作旁邊才有脈絡，獨立成篇就失去它在講哪件事               |
+| 「下次遇到 X 要記得 Y」，可操作、能寫成步驟      | **LESSONS-INBOX**                                         | 教訓要被 distill 才會變成閘門，放日記等於自言自語              |
+| 「這個 pattern 我又遇到一次」，既有條目已經寫過  | **去 bump 那條的 vc**（REFLEXES / DIARY §反覆出現的思考） | 同一個想法散成 N 篇，distill 時被讀成 N 個線索（#74 信號通膨） |
+| 「跨了好幾天／好幾條 routine 才看得出來的形狀」  | **weekly-report / self-evolve-weekly**                    | 單 session 視角看不完整，寫了也只是切片                        |
+| 以上皆非，而且我對這件事的理解跟今天早上不一樣了 | **日記**                                                  | ——                                                             |
+
+最後一列是唯一的入口，判準是**理解改變了**，不是**有感觸**。有感觸每天都有。
+
+#### 0c. routine session 的預設是不寫
+
+routine 收官時 diary 的預設動作是 **skip**，要寫才需要理由，理由要寫進 memory 的收官 checklist。三條全中才寫：
+
+1. **這次 routine 真的動了世界**：ship / fix / merge / 開 issue。純空場、純對賬全綠、純「今天也是零」一律不寫
+2. **想法不在 0b 前四列**
+3. **`diary-gate.py` exit 0**
+
+人觸發 session（哲宇 directive / worktree 專案）不受 0c 限制，只走 0a + 0b。
+
+#### 為什麼提高門檻（2026-09-09 校準資料，留著當反例）
+
+`twmd-feedback-triage` 每天跑、多數日子零回報，2026-08-21〜09-09 的 20 天內寫了 **8 篇日記**：
+
+> 8/30「報表告訴我有一封信，沒告訴我信裡寫了什麼」／ 8/31「昨天的我寫好了修法，今天的我讀到了」／ 9/01「一個修補變成指令，一個還是句子」／ 9/02「今天沒有一步需要我自己想辦法」／ 9/07「我守住了那個規矩」／ 9/08「昨天我擔心沒人分得出我有沒有上工」／ 9/09「我每天讀的第一個數字是零」
+
+每一篇單獨讀都成立，文體也乾淨。疊起來是一條 routine 在對自己的日常安靜反覆抒情，而 distill 端要從裡面挑出真的線索。**問題不在文筆，在門檻**：舊 Stage 0 的自問句對「寫得好的重複」完全不設防。
+
+冷卻窗校準（2026-07-12〜09-09 共 125 篇 dogfood）：6 天擋 8 篇、誤擋週度反思 routine **0 篇**（三條週度 routine 的實際間隔全是穩定的 7 天）。被擋的 8 篇裡 7 篇是 feedback-triage。取 6 而非 7 是留一天給週度 routine 的跨日漂移。
+
+**新意那層刻意沒做成閘**：拿 12 篇 feedback-triage 標題兩兩比對，相鄰篇 bigram 重疊中位數 0.09，不相干主題 0.04，有訊號但都太低，做不成門檻。因為那些日記寫得好，每篇都替同一個處境找到真的不一樣的字。「同一個想法換一件衣服」是意義層的事，bigram 是形式層的尺，拿形式尺攔意義問題正是 REFLEXES #69 (g) 那個病。所以工具只做鄰居檢索、把材料擺到判斷力面前，不代判。候選升級路徑是改用 bge-m3 語意相似度，代價是給甦醒側工具加上 GPU 相依，先不做。
 
 ### Stage 1 — 找一個切入點
 

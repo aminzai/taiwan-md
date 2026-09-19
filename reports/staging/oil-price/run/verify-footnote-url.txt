@@ -1,0 +1,26 @@
+🧬 knowledge/Economy/台灣油價機制與中油.md
+   lang=zh-TW  category=Economy  slug=台灣油價機制與中油
+   ✅ footnote-url  hard=0 warn=24
+      warn L310: 腳註 URL 無法存取 (HTTP 403): https://www.ctee.com.tw/news/20260322700647-431401
+      warn L312: 腳註 URL 無法存取 (HTTP 403): https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=12
+      warn L314: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=28&s=112028
+      warn L320: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.ftc.gov.tw/upload/719fff9d-4b02-4baf-8ab1-7c8729b22755.pdf
+      warn L322: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=28&s=212
+      warn L330: 腳註 URL 無法存取 (HTTP 403): https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=12
+      warn L334: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0340076&flno=10
+      warn L338: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=28&s=112549
+      warn L340: 腳註 URL 無法存取 (HTTP 403): https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=12
+      warn L342: 腳註 URL 無法存取 (HTTP 403): https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=12
+      warn L344: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=28&s=112541
+      warn L346: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://ws.cpc.com.tw/CPCDA/files/804-30.pdf
+      warn L350: 腳註 URL 無法存取 (HTTP 403): https://www.cy.gov.tw/message_1.asp?msg_id=2827
+      warn L352: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=31&s=817
+      warn L354: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0020019
+      warn L356: 腳註 URL 無法存取 (HTTP 403): https://www.cna.com.tw/news/afe/202409200204.aspx
+      warn L358: 腳註 URL 無法存取 (HTTP 403): https://www.cna.com.tw/news/afe/202501170212.aspx
+      warn L364: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://www.cpc.com.tw/News_Content.aspx?n=28&s=112174
+      warn L374: 腳註 URL 無法存取 (URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)): https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=T0020001&flno=79
+      warn L376: 腳註 URL 無法存取 (HTTP 403): https://newtalk.tw/news/view/2026-09-03/1057666
+      ... and 4 more
+
+Summary: hard=0  warn=24  info=0  passed=False (fail_on=warn)

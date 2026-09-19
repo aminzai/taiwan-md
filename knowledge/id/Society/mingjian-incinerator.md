@@ -1,16 +1,16 @@
 ---
-title: 'Perang Insinerator di Mingan: Ketika "Utang Sampah" 300 Ribu Ton Menghantam Garis Hidup Desa Teh Miliaran'
-description: 'Penumpukan sampah di Kabupaten Nantou melampaui 310.000 ton pada akhir tahun 2024, memicu krisis "pengepungan sampah". Bupati Hsu Shu-hua berencana membangun insinerator dengan kapasitas 500 ton per hari di Desa Xinmin, Mingan, yang memicu protes dari lebih dari 250 akademisi. Ini adalah perang untuk mempertahankan keberlangsungan kawasan pertanian spesifik, habitat kura-kura mati (柴棺龜), dan rantai pasokan teh manual terbesar di Taiwan.'
+title: 'Pertempuran Pembakar Sampah Mingjian: Ketika Hutang Sampah 300 Ribu Ton Mengancam Industri Teh Terbesar Taiwan'
+description: 'Sampah tertumpuk di Nantou melampaui 310.000 ton pada akhir 2024, memicu krisis "pengepungan sampah". Kepala Daerah Hsu Shu-hua (許淑華) merencanakan pembangunan pembakar sampah berkapasitas 500 ton per hari di Desa Xinmin, Mingjian, yang memicu protes dengan penandatanganan lebih dari 250 akademisi. Ini adalah pertempuran untuk kelangsungan hidup yang melibatkan zona pertanian khusus, habitat kura-kura kunci, dan rantai pasokan daun teh minuman tangan terbesar Taiwan.'
 date: 2026-04-25
 category: 'Society'
 tags:
   [
     'Nantou',
-    'Mingan',
-    'Insinerator',
-    'Industri Teh',
-    'Konservasi Lingkungan',
-    'Masalah Sampah',
+    'Mingjian',
+    'pembakar sampah',
+    'industri teh',
+    'konservasi ekologi',
+    'masalah sampah',
     'Hsu Shu-hua',
   ]
 subcategory: '社區與日常'
@@ -23,87 +23,87 @@ translatedFrom: 'Society/名間焚化爐.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c4441b48a65d0629'
 sourceBodyHash: 'sha256:8f8b961fdb887c42'
-translatedAt: '2026-09-10T03:36:19+08:00'
+translatedAt: '2026-09-10T10:26:29+08:00'
 ---
 
-> **Ringkasan 30 Detik:**
-> Karena kurangnya fasilitas insinerasi dalam jangka waktu yang lama, volume sampah di Kabupaten Nantou meningkat pesat dengan laju 40.000 ton per tahun, diperkirakan akan mencapai total 550.000 ton sebelum beroperasi [^1]. Pemerintah kabupaten memilih kawasan pertanian tertentu di Desa Xinmin, Mingan, untuk membangun insinerator, memicu kecemasan kolektif di daerah penghasil teh terbesar di Taiwan. Kontroversi ini melibatkan lapisan masalah: selain efek NIMBY (Not In My Backyard), termasuk keamanan pangan nasional, kepercayaan merek rantai pasokan teh senilai miliaran, dan eksistensi zona demonstrasi kura-kura mati [^3] [^4]. Ketika keadilan prosedural bertemu dengan dorongan kebijakan yang kuat, penduduk Mingan mencoba menahan "monster sampah" ini di tengah protes kertas sembahyang dan daun teh.
+> **Pandangan 30 detik:**
+> Provinsi Nantou, karena kurangnya fasilitas pembakaran jangka panjang, volume sampah yang ditumpuk meningkat dengan kecepatan 40.000 ton per tahun, diperkirakan akan terakumulasi hingga 550.000 ton sebelum beroperasi [^1]. Pemerintah provinsi memilih Desa Xinmin, Mingjian untuk membangun pembakar sampah di zona pertanian khusus, memicu kekhawatiran kolektif dari negeri teh terbesar Taiwan. Kontroversi melibatkan sejumlah masalah berlapis: di luar efek nimby, juga mencakup keamanan pangan nasional, kepercayaan merek dari rantai industri teh senilai puluhan miliar, dan keberadaan zona demonstrasi ekologi kura-kura kunci [^3] [^4]. Ketika keadilan prosedural bertemu dengan kebijakan yang dipaksakan, penduduk Mingjian, di antara suara protes kertas dupa dan daun teh, mencoba menghentikan "monster sampah" ini.
 
-"Badan Audit mengatakan penumpukan sampah Nantou adalah kegagalan tata kelola [^6], pemerintah kabupaten berkata tidak membangun tungku berarti pasrah [^5], tetapi 250 akademisi mengatakan, ini adalah pertaruhan keamanan pangan dan ekologi seluruh Taiwan demi satu keputusan politik [^3] [^4]."
+"Badan Audit mengatakan penumpukan sampah Nantou adalah kegagalan tata kelola [^6], pemerintah provinsi mengatakan tidak membangun pembakar berarti duduk menunggu kematian [^5], tetapi 250 akademisi mengatakan, ini adalah berjudi dengan keamanan pangan dan ekologi seluruh Taiwan atas satu keputusan politik [^3] [^4]."
 
-Pada tanggal 1 April 2026, Biro Lingkungan Kabupaten Nantou mengadakan "Rapat Kelanjutan Penentuan Batasan Studi Dampak Lingkungan Tahap Kedua untuk Pusat Pengolahan Sampah dan Energi Terbarukan Kabupaten Nantou" [^7]. Di lokasi tersebut tidak ada teh Oolong yang harum, hanya kertas sembahyang berserakan dan daun teh yang dilemparkan. Penduduk Mingan berteriak marah "turunkan bupati", bahkan beberapa petani teh berlutut di hadapan komite penilaian lingkungan [^7]. Perang yang digambarkan oleh penduduk ini sebagai "menghancurkan teh dan menghancurkan pertanian" berasal dari "utang sampah" Nantou selama bertahun-tahun.
+Pada 1 April 2026, Badan Perlindungan Lingkungan Provinsi Nantou mengadakan "Rapat Kelanjutan Penetapan Ruang Lingkup Kajian Dampak Lingkungan Tahap Kedua untuk Pusat Pengolahan Sampah dan Energi Terbarukan Provinsi Nantou" [^7]. Lokasi tidak dipenuhi dengan aroma teh Oolong yang wangi, hanya kertas uang hantu berserakan di tanah dan daun teh yang tersebar. Penduduk Mingjian berteriak marah "Cabut kepala daerah," bahkan petani teh berlutut di depan anggota komite evaluasi lingkungan [^7]. Perang ini, yang digambarkan oleh penduduk sebagai "menghancurkan teh dan menghancurkan pertanian," berasal dari "hutang sampah" yang terakumulasi lama di Nantou.
 
-### Utang Sampah: Hitungan Mundur Mimpi Buruk 550 Ribu Ton
+### Hutang Sampah: Hitung Mundur Mimpi Buruk 550 Ribu Ton
 
-Nantou adalah satu-satunya kabupaten di Taiwan yang tidak memiliki insinerator [^1]. Sejak tahun 2016, karena peralatan insinerasi di kabupaten lain menua dan kapasitasnya berkurang, sampah Nantou mulai "ditimbun dalam batas wilayah" [^1]. Menurut data terbaru Biro Lingkungan Kabupaten Nantou pada tahun 2026, penumpukan sampah di wilayah tersebut telah melampaui **310.000 ton**, dan terus meningkat dengan laju **40.000 ton** per tahun [^2].
+Nantou adalah salah satu dari dua provinsi terakhir di Taiwan yang tidak memiliki pembakar sampah [^1]. Sejak 2016, karena peralatan pembakar di provinsi lain menua dan kapasitas cadangan menurun, sampah Nantou mulai "dikemas dan ditumpuk" di dalam batas wilayah [^1]. Menurut data terbaru 2026 dari Badan Perlindungan Lingkungan Provinsi Nantou, sampah yang ditumpuk di dalam negeri telah melampaui **310.000 ton metrik**, dan terus bertambah dengan kecepatan **40.000 ton metrik** per tahun [^2].
 
-Jika status quo "nol solusi" dipertahankan, diperkirakan Nantou akan menanggung utang sampah hingga **550.000 ton** saat insinerator beroperasi [^2]. Pemerintah kabupaten menekankan bahwa risiko pembakaran metana yang dihasilkan dari penumpukan sampah (Mingan pernah mengalami kebakaran besar) dan ancaman nyamuk vektor penyakit, biaya lingkungannya jauh lebih tinggi daripada pengolahan dengan insinerasi [^2]. Bupati Hsu Shu-hua menjadikan kasus ini sebagai inti dari "pemerintahan pragmatis", menekankan bahwa masalah tidak boleh ditinggalkan untuk generasi berikutnya [^5].
+Jika mempertahankan status quo "rencana nol," diperkirakan ketika pembakar mulai beroperasi, Nantou akan menanggung hutang sampah setinggi **550.000 ton metrik** [^2]. Pemerintah provinsi menekankan bahwa risiko penyalaan diri metana dari penumpukan sampah (Mingjian telah memiliki catatan kebakaran besar) dan ancaman nyamuk vektor jauh melampaui biaya lingkungan dari pemrosesan pembakaran [^2]. Kepala Daerah Hsu Shu-hua (許淑華) menempatkan kasus ini sebagai inti dari "kebijakan pragmatis," menekankan bahwa masalah tidak bisa ditinggalkan untuk generasi berikutnya [^5].
 
-📝 Catatan Kurator: Ketika "pengepungan sampah" berubah dari kata sifat menjadi entitas fisik sebesar 550.000 ton, terjadi diskontinuitas yang tajam antara urgensi pemerintah dan rasa hidup petani di tanah Xinmin, Mingan.
+📝 Catatan Kurator: Ketika "pengepungan sampah" berubah dari sekadar kiasan menjadi 550.000 ton entitas konkret, urgensi pemerintah dan kebutuhan bertahan petani menciptakan perpecahan tajam di tanah Desa Xinmin, Mingjian.
 
-### Permainan Lokasi: Mengapa Desa Xinmin, Mingan?
+### Permainan Pemilihan Lokasi: Mengapa Mingjian Desa Xinmin?
 
-Pemerintah kabupaten mengevaluasi 13 kota/distrik di seluruh kabupaten, dan akhirnya memilih 6 lokasi potensial untuk penilaian komprehensif. "Tanah publik Wai Pu, Mingan" memenangkan dengan **75 poin**, mengalahkan Heishulin di Guoxing (65 poin) dan Nanping di Cotaun (58 poin) [^2].
+Pemerintah provinsi mengevaluasi semua 13 kota dan kabupaten di wilayah tersebut, dan pada akhirnya memilih 6 lokasi potensial untuk penilaian komprehensif. Lahan publik "Segmen Waipu" Mingjian memenangkan **75 poin**, mengalahkan Hutan Hitam Kabupaten Guoshing (65 poin) dan Segmen Nanping Kabupaten Caotun (58 poin) [^2].
 
-| Item Penilaian             | Wai Pu, Mingan (Kelebihan)                                          | Lokasi Lain (Kekurangan)                                                          |
-| :------------------------- | :------------------------------------------------------------------ | :-------------------------------------------------------------------------------- |
-| **Perbedaan Ketinggian**   | < 5 meter (datar)                                                   | Guoxing, Nantou, Cotaun semuanya > 20-200 meter [^2]                              |
-| **Transportasi Eksternal** | Tidak melewati kawasan kota, lebar jalan 6-8 meter                  | Nantou, Cotaun, Guoxing harus melalui atau memerlukan pelebaran di area kota [^2] |
-| **Kepemilikan Tanah**      | Tanah milik negara, dapat diajukan alokasi                          | Tanah pribadi memerlukan negosiasi pembelian [^2]                                 |
-| **Batasan Hukum**          | Kawasan pertanian spesifik, dapat mengajukan pembatalan klasifikasi | Zona sungai terlarang untuk pembangunan (Sungai Zhushan, Mingan) [^2]             |
+| Item Penilaian            | Mingjian Segmen Waipu (Keunggulan)                     | Lokasi Lain (Kelemahan)                                                         |
+| :------------------------ | :----------------------------------------------------- | :------------------------------------------------------------------------------ |
+| **Perbedaan Topografi**   | < 5 meter (datar)                                      | Guoshing, Nantou, Caotun semua > 20-200 meter [^2]                              |
+| **Lalu Lintas Eksternal** | Tidak melalui pusat kota, lebar jalan 6-8 meter        | Nantou, Caotun, Guoshing perlu melalui pusat kota atau kesulitan pelebaran [^2] |
+| **Kepemilikan Lahan**     | Lahan negara, dapat diminta alokasi                    | Tanah pribadi perlu perjanjian pembelian [^2]                                   |
+| **Batasan Hukum**         | Zona pertanian khusus, dapat diminta pembatalan daftar | Kawasan sungai dilarang pengembangan (tanah sungai Zhushan, Mingjian) [^2]      |
 
-Namun, "lokasi terbaik" ini dicurigai oleh akademisi sebagai "memilih yang paling lunak". Profesor Madya Ilmu Sosial Universitas Dongwu He Sanna menunjukkan bahwa pemilihan lokasi sama sekali mengabaikan nilai keamanan pangan nasional dari "kawasan pertanian spesifik" [^4].
+Namun, "pemilihan lokasi optimal" ini dikritik oleh akademisi sebagai "memilih buah yang lembut." Vice Professor He Sa-na (何撒娜) dari Departemen Sosiologi Universitas Dongwu menunjukkan bahwa pemilihan lokasi sepenuhnya mengabaikan nilai keamanan pangan nasional dari "zona pertanian khusus" [^4].
 
-### Kecemasan Desa Teh Miliaran: Napas Kehidupan Minuman Kekinian
+### Kekhawatiran Negeri Teh Senilai Puluhan Miliar: Arteri Kehidupan Minuman Tangan
 
-Matsu-ling di Mingan adalah pusat pengumpulan daun teh terbesar di Taiwan, memasok lebih dari setengah minuman kekinian di seluruh pulau [^1]. Ketakutan terdalam para petani bukanlah data polusi itu sendiri.
+Mingjian, Songbailing adalah pusat distribusi daun teh terbesar Taiwan, memasok lebih dari setengah daun teh minuman tangan di seluruh Taiwan [^1]. Kekhawatiran terdalam petani teh adalah "efek pelabelan," bukan data polusi udara itu sendiri.
 
-"Selama sehelai daun teh terdeteksi mengandung dikin, merek teh Mingan akan hancur total," tegas Ketua Asosiasi Penyelamat [^4]. Meskipun pemerintah kabupaten menyatakan dalam dokumen studi dampak lingkungan bahwa insinerator di Wancheng, Taipei, tidak memiliki pengaruh signifikan terhadap komponen seperti rasa teh, katekin, dan kafein [^2], para petani membantah: cerobong asap Wancheng setinggi 150 meter, sementara Mingan hanya 120 meter, dan Mingan terletak di sisi angin belakang, kondisi penyebaran polusi sangat buruk [^1].
+"Selama satu lembar daun teh diperiksa dan ditemukan mengandung dioksin, merek teh Mingjian akan sepenuhnya hancur." Ketua komite penyelamatan diri Shih Chih-chung (釋致中) menekankan [^4]. Meskipun pemerintah provinsi dalam buku penjelasan evaluasi lingkungan menggunakan Pembakar Sampah Mucha Taipei sebagai contoh, mengumumkan bahwa pembakar tidak memiliki dampak signifikan pada rasa daun teh, kandungan catechin, kafein, dan komponen lainnya [^2], petani menolak: cerobong asap Mucha tingginya 150 meter, Mingjian hanya 120 meter, dan Mingjian terletak di zona angin berlawanan, kondisi dispersi polusi udara sangat buruk [^1].
 
-📝 Catatan Kurator: Inti perdebatan adalah kepercayaan merek; data ilmiah hanyalah medan pertempuran sekunder. Bagi penduduk Mingan, cerobong asap insinerator seperti pisau yang ditancapkan di kebun teh.
+📝 Catatan Kurator: Inti debat terletak pada kepercayaan merek, data ilmiah malah menjadi arena perjuangan sekunder. Bagi penduduk Mingjian, cerobong asap pembakar itu seperti pisau yang ditusukkan ke kebun teh.
 
-### Kontradiksi Ekologis: Tempat Perlindungan Terakhir Kura-kura Mati
+### Kontradiksi Ekologi: Tempat Terakhir Penolakan Kura-kura Kunci
 
-Secara ironis, "Xinmin Village," lokasi rencana insinerator, adalah komunitas percontohan pertama untuk "Insentif Ekologis Kura-kura Mati" yang didorong oleh Institut Keanekaragaman Hayati Kementerian Pertanian [^1]. Para petani lokal beralih ke pertanian hijau untuk melindungi macan tutul batu (石虎), musang pemakan serangga (食蟹獴) dan kura-kura mati, namun mereka justru mendapatkan insinerator sampah [^1].
+Ironisnya, lokasi yang direncanakan untuk pembakar sampah di "Desa Xinmin" justru merupakan komunitas demonstrasi pertama yang didorong oleh "Pembayaran Ekologi Kura-kura Kunci" dari Institut Penelitian Keanekaragaman Hayati Kementerian Pertanian [^1]. Petani lokal, untuk melindungi kucing hutan berkhasiat yang terancam punah, musang pemakan kepiting dan kura-kura kunci, telah melakukan konversi pertanian hijau, namun tiba-tiba menunggu pembakar sampah sampah [^1].
 
-Lebih dari **250** akademisi domestik dan internasional, termasuk Xiao Xin-huang dari Kantor Staf Presiden, mantan Menteri Pertanian Chen Chi-chung, dan pakar pertanian Chen Shi-xiong, menandatangani pernyataan yang menyatakan bahwa proyek ini mengancam integritas kawasan pertanian spesifik dan bertentangan dengan kebijakan ketahanan lingkungan nasional [^3] [^4].
+Lebih dari **250** akademisi domestik dan luar negeri, termasuk Konsultan Kepresidenan Hsiao Hsin-huang (蕭新煌), mantan Menteri Pertanian Chen Chi-chung (陳吉仲), pakar pertanian Chen Shih-xiong (陳世雄) dan lainnya, telah menandatangani pernyataan yang menunjukkan bahwa proyek ini mengancam integritas "zona pertanian khusus", juga bertentangan dengan kebijakan ketahanan lingkungan nasional [^3] [^4].
 
-### Keadilan Prosedural: Demokrasi yang "Dilanjutkan"
+### Keadilan Prosedural: Demokrasi Yang Diperpanjang
 
-Dalam beberapa rapat studi dampak lingkungan pada awal tahun 2026, cacat prosedural menjadi amunisi. Asosiasi Penyelamat menuduh bahwa pemerintah kabupaten secara paksa mengadakan penilaian tahap kedua tanpa mendapatkan persetujuan lahan jalan eksternal [^4]. Kepala Biro Lingkungan Li Yi-shu merespons dalam rapat dengan pernyataan seperti "insinerator tidak akan menghasilkan debu, itu semua yang kalian katakan," yang dianggap oleh penduduk sebagai kesombongan kekuasaan [^7].
+Dalam beberapa rapat evaluasi lingkungan awal 2026, kelaisuaian prosedural menjadi gudang mesiu. Komite penyelamatan diri menuduh bahwa pemerintah provinsi dengan paksa mengadakan evaluasi lingkungan tahap kedua sambil masih belum mendapatkan surat persetujuan untuk lahan jalan luar [^4]. Kepala Badan Perlindungan Lingkungan Li Yi-shu (李易書) merespons di rapat dengan pernyataan seperti "pembakar sampah tidak akan memiliki abu yang jatuh, semua ini kata-kata Anda sendiri", dipandang oleh penduduk sebagai keangkuhan kekuasaan [^7].
 
-"Kami tidak menentang penyelesaian masalah sampah, kami menentang pemilihan lokasi kotak hitam dan penghancuran pertanian." Kalimat ini menjadi monolog paling sering diucapkan oleh penduduk Mingan di lokasi protes [^4].
+"Kami tidak menentang solusi masalah sampah, kami menentang pemilihan lokasi kotak hitam dan penghancuran pertanian." Kalimat ini menjadi monolog yang paling sering muncul di lokasi protes penduduk Mingjian [^4].
 
-📝 Catatan Kurator: Ketika rapat studi dampak lingkungan memerlukan penjagaan ketat dari aparat keamanan, bahkan terjadi bentrokan pelemparan daun teh, dialog ini telah kehilangan makna "penilaian lingkungan" aslinya dan beralih menjadi konfrontasi kekuatan politik.
+📝 Catatan Kurator: Ketika rapat evaluasi lingkungan memerlukan penjagaan kepolisian yang kuat, bahkan menghadapi konflik pelemparan daun teh, dialog ini telah kehilangan makna "penilaian lingkungan" awal, berubah menjadi pertarungan kekuatan politik.
 
-### Epilog: Jalan Lain untuk Pengelolaan Sampah?
+### Layanan Lanjutan: Jalan Lain untuk Manajemen Sampah?
 
-Menghadapi protes, Bupati Hsu Shu-hua menekankan bahwa pemerintah harus "pragmatis", dan menggunakan contoh insinerator Wancheng, Taipei, ia berpendapat dampaknya terhadap daerah teh terbatas [^5]. Namun, penduduk Mingan tidak menerima ini; mereka mengajukan: populasi Nantou terus menurun, tetapi volume sampah justru meningkat, menunjukkan bahwa pengurangan sumber dan daur ulang adalah inti masalah [^1].
+Menghadapi protes, Kepala Daerah Hsu Shu-hua (許淑華) menekankan kebijakan harus "pragmatis," dan menggunakan Pembakar Sampah Mucha Taipei sebagai contoh, percaya dampak terhadap zona teh terbatas [^5]. Tetapi penduduk Mingjian tidak setuju, mereka mengajukan: populasi Nantou terus menurun, volume sampah malah meningkat bukan berkurang, menunjukkan bahwa pengurangan sumber dan daur ulang sumber daya adalah inti [^1].
 
-"Sampah seharusnya tidak hanya memiliki satu jalan yaitu insinerasi; kerja sama regional dan klasifikasi yang presisi adalah solusi yang dibutuhkan di era digital," kata Sekretaris Asosiasi Pengawas Taiwan, Xie He-lin. Kapasitas insinerasi seluruh pulau sebenarnya cukup untuk mengolah sampah rumah tangga, masalahnya adalah limbah industri telah menyingkirkan ruang rumah tangga, ini memerlukan koordinasi lintas wilayah antara pusat dan daerah, bukan kembali ke jalan lama "satu kabupaten satu insinerator" [^1].
+"Sampah tidak seharusnya hanya memiliki satu jalan pembakaran, kerja sama regional dan klasifikasi presisi adalah solusi yang seharusnya ada di era digital." Sekretaris Asosiasi Pengawal Taiwan Hsieh Ho-lin (謝和霖) menunjukkan, kapasitas pembakaran seluruh Taiwan sebenarnya cukup untuk menangani sampah rumah tangga, masalahnya adalah limbah bisnis mendesak ruang keluarga, ini memerlukan penyesuaian lintas daerah pusat dan lokal, bukan kembali ke jalan lama "satu pembakar per provinsi" [^1].
 
-Protes yang terjadi di tepi Sungai Zhuoshui ini belum berakhir. Ini adalah krisis sampah Nantou, dan juga percakapan terberat Taiwan dalam mengejar pembangunan sambil menjaga nilai tanah.
+Protes yang terjadi di tepi Sungai Zhuo ini hingga saat ini masih belum berakhir. Ini adalah krisis sampah Nantou, juga dialog paling berat Taiwan dalam mengejar pembangunan dan melindungi nilai lahan.
 
-📝 Catatan Kurator: Setiap tegukan teh Mingan yang kita minum mungkin menyimpan keteguhan sekelompok petani terhadap tanah mereka.
+📝 Catatan Kurator: Setiap tegukan teh Mingjian yang kami minum mungkin menyembunyikan ketekunan terakhir sekelompok petani terhadap tanah.
 
 ---
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Etika Hewan di Kebun Binatang](/id/society/zoo-and-exhibition-animal-ethics) — Kasus tarik ulur "Konservasi dan Pembangunan" serupa (Kura-kura Mati dalam teks ini vs hewan ternak dalam artikel lain)
+- [Taman Satwa dan Etika Pertunjukan Hewan](/id/society/zoo-and-exhibition-animal-ethics) — Kasus lain dari jenis "konservasi versus pembangunan" (kura-kura kunci dalam teks ini vs hewan dalam kandang dalam teks itu)
 
 ## Referensi
 
-[^1]: [Enam Pertanyaan Kunci: Mengenal Kontroversi Insinerator Mingan Nantou - Our Island](https://ourisland.pts.org.tw/content/11834) — Liputan mendalam dari CCTV Our Island, menyusun sumber inti mengenai volume sampah Nantou, pemilihan lokasi insinerator, dan konteks protes desa teh.
+[^1]: [Enam Pertanyaan Kunci: Memahami Kontroversi Pembakar Sampah Mingjian Nantou - Pulau Milik Kita](https://ourisland.pts.org.tw/content/11834) — Laporan mendalam saluran publik Pulau Milik Kita, mengorganisir sumber inti volume penumpukan sampah Nantou, pemilihan lokasi pembakar sampah, dan konteks protes negeri teh.
 
-[^2]: [Presentasi Rapat Penentuan Batasan Studi Dampak Lingkungan Tahap Kedua Pusat Pengolahan Sampah dan Energi Terbarukan Kabupaten Nantou - Biro Lingkungan Kabupaten Nantou (31-01-2026)](https://www.ntepb.gov.tw/df_ufiles/sub8/%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9E%83%E5%9C%BE%E8%99%95%E7%90%86%E5%8F%8A%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E4%B8%AD%E5%BF%83_%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B5%E7%92%B0%E5%A2%83%E5%BD%B1%E9%9F%BF%E8%A9%95%E4%BC%B0%E7%AF%84%E7%96%87%E7%95%8C%E5%AE%9A.pdf) — Presentasi resmi pemerintah kabupaten, berisi penilaian komprehensif 6 lokasi potensial (Mingan 75 / Guoxing 65 / Cotaun 58) + estimasi utang sampah 550.000 ton + data perbandingan insinerator Wancheng.
+[^2]: [Presentasi Rapat Penetapan Ruang Lingkup Kajian Dampak Lingkungan Tahap Kedua untuk Pusat Pengolahan Sampah dan Energi Terbarukan Provinsi Nantou - Badan Perlindungan Lingkungan Provinsi Nantou (2026-01-31)](https://www.ntepb.gov.tw/df_ufiles/sub8/%E5%8D%97%E6%8A%95%E7%B8%A3%E5%9E%83%E5%9C%BE%E8%99%95%E7%90%86%E5%8F%8A%E5%86%8D%E7%94%9F%E8%83%BD%E6%BA%90%E4%B8%AD%E5%BF%83_%E7%AC%AC%E4%BA%8C%E9%9A%8E%E6%AE%B5%E7%92%B0%E5%A2%83%E5%BD%B1%E9%9F%BF%E8%A9%95%E4%BC%B0%E7%AF%84%E7%96%87%E7%95%8C%E5%AE%9A.pdf) — Presentasi resmi pemerintah provinsi, berisi penilaian komprehensif 6 lokasi potensial (Mingjian 75 / Guoshing 65 / Caotun 58) + estimasi hutang sampah 550.000 ton + data perbandingan Pembakar Sampah Mucha.
 
-[^3]: [Lebih dari 250 Akademisi dan Pakar Menandatangani Seruan Menghentikan Pembangunan Insinerator Mingan - United Daily News (24-04-2026)](https://udn.com/news/story/7314/9462277) — Liputan United Daily News, berisi detail penandatanganan oleh lebih dari 250 akademisi domestik dan internasional termasuk Xiao Xin-huang, Chen Chi-chung, dan Chen Shi-xiong.
+[^3]: [Lebih dari 250 Akademisi dan Pakar Menandatangani Petisi Mendesak Penghentian Pembangunan Pembakar Sampah Mingjian - Jaringan Berita Gabungan (2026-04-24)](https://udn.com/news/story/7314/9462277) — Laporan Jaringan Berita Gabungan, berisi detail penandatanganan 250+ akademisi domestik dan luar negeri termasuk Hsiao Hsin-huang, Chen Chi-chung, Chen Shih-xiong dan lainnya.
 
-[^4]: [Insinerator Mingan >> Lebih dari 250 Akademisi Domestik dan Internasional Menolak, Mengajak Pemerintah Kabupaten Nantou "Mengerem di Tepi Jurang" - Upstream/Downstream News Market (24-04-2026)](https://www.newsmarket.com.tw/blog/237301/) — Liputan Upstream/Downstream, berisi kutipan verbatim dari akademisi seperti Shi Zhi-zhong dan He Sanna.
+[^4]: [Pembakar Sampah Mingjian: Lebih dari 250 Akademisi Domestik dan Luar Negeri Menandatangani Petisi Menentang, Mendesak Pemerintah Provinsi Nantou untuk "Menolak di Tepi Jurang" - Pasar Berita Naik Turun (2026-04-24)](https://www.newsmarket.com.tw/blog/237301/) — Laporan Pasar Berita Naik Turun, berisi kutipan verbatim konkret dari akademisi seperti Shih Chih-chung, He Sa-na dan lainnya.
 
-[^5]: [Bai Li-hou Bersaing / Hsu Shu-hua: Masalah Tidak Membangun Insinerator Hanya Akan Ditinggalkan untuk Generasi Berikutnya - Yahoo News](https://tw.news.yahoo.com/%E7%99%BE%E9%87%8C%E4%BE%AF%E7%88%AD%E9%9C%B8-%E8%A8%B1%E6%B7%91%E8%8F%AF-%E4%B8%8D%E8%88%88%E5%BB%BA%E7%84%9A%E5%8C%96%E7%88%90-%E5%95%8F%E9%A1%8C%E5%8F%AA%E6%9C%83%E7%95%99%E7%B5%A6%E4%B8%8B-%E4%BB%A3-220846599.html) — Wawancara eksklusif mengenai posisi "pemerintahan pragmatis" Bupati Hsu Shu-hua.
+[^5]: [Kompetisi Kepala Daerah Seratus Li / Hsu Shu-hua: Masalah Tidak Membangun Pembakar Sampah Hanya Akan Ditinggalkan untuk Generasi Berikutnya - Berita Yahoo](https://tw.news.yahoo.com/%E7%99%BE%E9%87%8C%E4%BE%AF%E7%88%AD%E9%9C%B8-%E8%A8%B1%E6%B7%91%E8%8F%AF-%E4%B8%8D%E8%88%88%E5%BB%BA%E7%84%9A%E5%8C%96%E7%88%90-%E5%95%8F%E9%A1%8C%E5%8F%AA%E6%9C%83%E7%95%99%E7%B5%A6%E4%B8%8B-%E4%BB%A3-220846599.html) — Wawancara khusus posisi "kebijakan pragmatis" Kepala Daerah Hsu Shu-hua (許淑華).
 
-[^6]: [Laporan Audit Akhir Tahun 112 Kabupaten Nantou - Kantor Audit Kabupaten Nantou](https://auditreport.audit.gov.tw/) — Catatan audit resmi tentang kegagalan tata kelola sampah di Nantou.
+[^6]: [Laporan Audit Penyelesaian Akhir Tahun Nantou Tahun Fiskal 112 - Ruang Audit Provinsi Nantou, Badan Audit](https://auditreport.audit.gov.tw/) — Catatan audit resmi Badan Audit tentang kegagalan tata kelola sampah Nantou.
 
-[^7]: [【Di Lokasi】Rapat Penentuan Batasan Insinerator Mingan Tahap Kedua Kembali Memanas - Our Island (01-04-2026)](https://ourisland.pts.org.tw/content/11901) — Catatan lapangan CCTV pada rapat tanggal 01 April 2026, termasuk tanggapan Kepala Biro Lingkungan Li Yi-shu terhadap protes petani yang berlutut dan pelemparan daun teh.
+[^7]: [【Pulau di Tempat Kejadian】Rapat Penetapan Ruang Lingkup Evaluasi Lingkungan Tahap Kedua Pembakar Sampah Mingjian Kembali Menimbulkan Pertentangan - Pulau Milik Kita (2026-04-01)](https://ourisland.pts.org.tw/content/11901) — Catatan lokasi acara saluran publik 2026-04-01, berisi petani teh berlutut, protes kertas dupa daun teh, dan pernyataan asli Kepala Badan Perlindungan Lingkungan Li Yi-shu (李易書).

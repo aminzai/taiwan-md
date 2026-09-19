@@ -44,7 +44,7 @@ TSMC wird Taiwans „Schutzberg der Nation" (護國神山) genannt und besitzt i
 ### Aufwachsen in turbulenten Zeiten
 
 **Geburt und familiärer Hintergrund:**
-Am 10. Juli 1931 wurde Morris Chang in Ningbo in der chinesischen Provinz Zhejiang geboren[^1]. Sein Vater Chang Wei-kuan war Bankier, seine Mutter Hsu Yun-cheng stammte aus einer Gelehrtenfamilie. In jenen turbulenten Jahren war der Vater, ein Kenner von Literatur und Geschichte, in einem Haus voller Bücher zu Hause – dieses Umfeld sorgte dafür, dass Chang auf seinem Ingenieursweg stets ein humanistisches Gespür behielt.
+Am 10. Juli 1931 wurde Morris Chang in Ningbo in der chinesischen Provinz Zhejiang geboren[^1]. Sein Vater Chang Wei-kuan war Bankier, seine Mutter Hsu Chun-wei stammte aus einer Gelehrtenfamilie. In jenen turbulenten Jahren war der Vater, ein Kenner von Literatur und Geschichte, in einem Haus voller Bücher zu Hause – dieses Umfeld sorgte dafür, dass Chang auf seinem Ingenieursweg stets ein humanistisches Gespür behielt.
 
 **Kindheit voller Umzüge:**
 Weil die Kriege tobten, war Changs Kindheit von Umzügen geprägt. Von Ningbo über Shanghai, Nanjing, Chongqing und wieder Shanghai bis nach Guangzhou, Hongkong und schließlich in die USA – diese entwurzelten Jahre formten seine Anpassungsfähigkeit und seinen internationalen Horizont.

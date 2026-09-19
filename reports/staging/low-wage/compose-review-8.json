@@ -1,0 +1,14 @@
+{
+  "revision": 52,
+  "submissionId": "26b095af-4967-4034-8afc-47dee31b4f2a",
+  "actor": "compose-reviewer-8 (Sonnet agent a14a603ff7eefe170, fresh context, read diff + footnote 6 + §7 引用處)",
+  "verdict": "accept",
+  "rationale": "改後句子拿掉「本文引用的」自我指涉，仍準確保留來源性質與該短語在報導中被加引號的事實，與正文第七節掛注處完全對應，未發現新問題。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "line 298（腳註 6）；line 226"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

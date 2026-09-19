@@ -1,0 +1,26 @@
+{
+  "revision": 5,
+  "submissionId": "7d3f2435-8060-4501-a547-6487af700013",
+  "actor": "orient-reviewer-2 (Sonnet agent a45e6389074f2f307, fresh context, read brief + research report + submission only); reviewer-1 (ae56f5b93c50c0171) 同時複讀同版本亦 accept（contextDisclosure: draft-only-reread）",
+  "verdict": "accept",
+  "rationale": "上一輪兩項修訂逐條核對落地：三把尺改為本國籍全時同母體（52,528／41,397／27,598；年薪 77.6 萬／58.5 萬／39 萬）並明標 49,491 為全體口徑，與研究報告探索紀錄第 11、13、27 條一手數字一致；brief 主題段與已知第 5 點已改為 2026 年 29,500＋9/24 審議會決定 2027 年。subjectExplanation 是算式說明非判決；三個角度各有不同推翻條件，角度一、二共同繫於 OECD 口徑已在 uncertainties 揭露；「搜不到」未被當「不存在」；同意第三型 spine 與 Step 0.6.7 三道 self-check。非阻斷提醒兩條交下游：(i) brief 弧線起點寫 1968／600 元、submission 寫 1956／300 元，兩者都在報告支線 5 的弧線上，寫手用報告完整弧線；(ii) 「隔天…六天後」相對時間易讓讀者心算成 9/21，投影階段改成直接寫日期；另 70.93% 出處已補進探索紀錄第 27 條（DGBAS 115 年 6 月新聞稿本國籍全時表 113 年欄）。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/orient-submission.json",
+      "location": "data.subjectExplanation（三把尺 52,528／41,397／27,598、年薪 77.6 萬／58.5 萬／39 萬、751 萬／862.7 萬分母標註）"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪.md",
+      "location": "§探索搜尋紀錄 第 11、13、27 條"
+    },
+    {
+      "path": "reports/staging/low-wage/brief.md",
+      "location": "第 9 行、第 24 行（2026 年 29,500 元＋9/24 審議會）；第 9 行弧線起點 1968 vs submission 1956"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪.md",
+      "location": "§Step 0.6.7 三道 self-check 與 §脊椎（第三型）"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

@@ -1,16 +1,16 @@
 ---
-title: 'Morasu Bencana: Rumah Sudah Selesai Dibangun, Kapan Kami Bisa Kembali?'
-description: 'Bencana tahun 2009 tidak hanya menghancurkan desa, tetapi juga memaksa Taiwan untuk kembali memikirkan hubungan antara keselamatan, pemukiman, tanah, dan partisipasi suku asli.'
+title: 'Bencana Angin Topan Morakot: Rumah Sudah Dibangun, Kapan Keluarga Bisa Pulang?'
+description: 'Bencana angin topan 2009 tidak hanya menghancurkan desa-desa, tetapi juga memaksa Taiwan merenungkan kembali hubungan antara keamanan, penempatan, tanah, dan partisipasi masyarakat adat.'
 date: 2026-08-16
 category: 'History'
 subcategory: '社會與日常史'
 tags:
   [
-    'Bencana Morasu',
-    'Banjir Tanggal 8',
-    'Pemulihan pasca bencana',
-    'Suku asli',
-    'Desa Kobayashi',
+    'Bencana Angin Topan Morakot',
+    'Banjir 8-8',
+    'Rekonstruksi Pascabencana',
+    'Masyarakat Adat',
+    'Desa Xiaolin',
   ]
 author: 'Taiwan.md Contributors'
 featured: false
@@ -22,85 +22,85 @@ translatedFrom: 'History/莫拉克風災.md'
 sourceCommitSha: '67688b3a5'
 sourceContentHash: 'sha256:a825535e058db34c'
 sourceBodyHash: 'sha256:6d1c9d9b4f9dd53e'
-translatedAt: '2026-09-14T00:53:31+08:00'
+translatedAt: '2026-09-12T11:18:05+08:00'
 ---
 
-8 Agustus 2009, angin putus Morasu membawa hujan ekstrem, menyebabkan banjir, aliran lumpur, dan runtuh di pegunungan selatan dan timur. Desa Kobayashi terkubur oleh tanah dan batu akibat runtuhnya gunung. Basis data rekonstruksi ofisial yang disimpan Kabinet Sekretaris Wakil Perdana Menteri mencatat 407 orang tewas di desa Kobayashi berdasarkan pencatatan administrasi kewarganegaraan.[^1]
+Pada 8 Agustus 2009, Angin Topan Morakot membawa hujan ekstrem, memicu banjir, aliran lumpur, dan longsoran beruntun di wilayah pegunungan selatan dan timur. Desa Xiaolin (小林村) tertimbun material longsoran Gunung Xiandu (獻肚山); database rekonstruksi resmi yang disimpan Administrasi Eksekutif mencatat berdasarkan data administrasi kependudukan bahwa Desa Xiaolin memiliki 407 korban jiwa.[^1]
 
-Namun, bagian yang paling sulit dipahami tentang Morasu bukanlah skala bencana, melainkan setelah bencana berakhir, "rekonstruksi" sebenarnya akan membawa orang ke mana? Rumah bisa dibangun dalam hitungan bulan, namun hubungan antara suku, tanah, pekerjaan, nenek moyang, dan pengambilan keputusan kolektif tidak akan pulih hanya karena kita mendapatkan kunci rumah baru.
+Namun, hal tersulit dipahami dari Morakot bukan hanya skala bencananya, melainkan setelah bencana berakhir, "rekonstruksi" hendak membawa orang ke mana. Rumah bisa dibangun dalam beberapa bulan, tetapi hubungan antara kampung adat dengan tanah, pekerjaan, nenek moyang, dan pengambilan keputusan publik, tidak akan pulih otomatis hanya karena menerima kunci rumah baru.
 
-**Mungkin yang paling sulit untuk direkonstruksi setelah sebuah bencana bukanlah rumah, melainkan hubungan antara manusia dan tanah air, dan antara tanah dan hak pengambilan keputusan.**
+**Sesudah bencana berakhir, yang paling sulit direkonstruksi mungkin bukan rumah, melainkan hubungan manusia dengan tanah leluhur, tanah, dan hak memutuskan.**
 
 ## Dari Hujan Lebat ke "Rumah Permanen"
 
-Setelah Morasu, pemerintah dan organisasi swadaya dengan cepat mengarahkan upaya penyelamat ke pemukiman. Kumpulan pertanyaan resmi Kementerian Dalam Negeri menjelaskan bahwa rumah permanen disediakan oleh pemerintah dengan lahan, dibangun oleh organisasi amal dengan donasi, bertujuan utamanya adalah menyelesaikan masalah tempat tinggal, bukan sebagai ganti rugi atas kerusakan properti rumah. [^2]
+Pasca-Morakot, pemerintah dan organisasi sipil segera mengalihkan bantuan ke penempatan. Kumpulan tanya jawab resmi Kementerian Dalam Negeri menjelaskan bahwa rumah permanen disediakan tanah oleh pemerintah, dibangun oleh organisasi amal dengan dana sumbangan, tujuan utamanya memecahkan masalah perumahan, bukan sebagai ganti rugi kerugian aset rumah.[^2]
 
-Desain ini tampak jelas, namun memaksa satu masalah kompleks menjadi satu masalah perumahan: apakah orang punya tempat untuk tinggal. Bagi suku asli yang hidup di pegunungan, rumah biasanya bukan bangunan terpisah; ia terhubung dengan lahan pertanian, lahan berburu, aliran sungai, tempat upacara, jaringan kerabat, dan rapat kolektif suku. Memindahkan rumah ke lokasi yang aman mungkin juga memindahkan bagian lain dari kehidupan jauh dari sana.
+Desain ini tampak jelas, namun memampatkan masalah kompleks jadi satu soal perumahan: apakah orang punya tempat tinggal. Bagi komunitas masyarakat adat di pegunungan, rumah biasanya bukan bangunan terisolasi; ia terhubung dengan ladang, daerah berburu, aliran sungai, lokasi upacara, jaringan kerabat, dan musyawarah kampung. Memindahkan rumah ke lokasi aman, mungkin sekaligus memindahkan bagian lain kehidupan ke tempat yang jauh.
 
-Undang-Undang Khusus Rekonstruksi Pasca Bencana Morasu yang diumumkan akhir Agustus 2009 mengubah rekonstruksi pasca bencana menjadi proyek negara dengan anggaran khusus, prosedur khusus, dan mekanisme koordinasi administratif. Kementerian Sekretaris Wakil Perdana Menteri menjelaskan bahwa undang-undang ini bertujuan untuk mempercepat rekonstruksi, menggalang dana, dan menetapkan mekanisme khusus untuk promosi rekonstruksi. [^3]
+《Undang-Undang Khusus Rekonstruksi Pascabencana Angin Topan Morakot》 yang diumumkan akhir Agustus 2009, mengubah rekonstruksi pascabencana menjadi proyek nasional dengan anggaran khusus, prosedur khusus, dan mekanisme koordinasi administratif. Administrasi Eksekutif saat itu menjelaskan undang-undang ini untuk mempercepat rekonstruksi, mengumpulkan dana, dan mendirikan mekanisme khusus promotor rekonstruksi.[^3]
 
-Dengan demikian, "permanen" tidak lagi hanya menjadi kata sifat untuk tempat tinggal, tetapi juga menjadi komitmen kebijakan: pemerintah berharap menggunakan ruang yang stabil, cepat, dan dapat dikelola untuk mengakhiri pengasingan para pengungsi. Namun, bagi banyak korban, masalah sebenarnya bukanlah apakah mereka punya rumah, tetapi siapa yang berhak memutuskan apa yang dianggap aman dan apa yang dianggap rumah.
+Dengan demikian, "permanen" tidak lagi hanya kata sifat untuk rumah, tapi juga janji kebijakan: pemerintah ingin memakai ruang yang stabil, cepat, dan terkelola, untuk mengakhiri pengungsian bagi korban bencana. Tapi bagi banyak korban, masalah sebenarnya bukan mau tidaknya punya rumah, melainkan siapa berhak menentukan apa yang dianggap aman, dan apa yang dianggap rumah.
 
-## Desa Kobayashi: Kenangan Tidak Bisa Hanya Disimpan di Taman Bersejarah
+## Desa Xiaolin: Kenangan Bukan Hanya Disimpan di Taman Peringatan
 
-Desa Kobayashi kemudian menjadi simbol rekonstruksi Morasu. Laporan rekonstruksi resmi mencatat bahwa pada hari ke-3 bencana, para penduduk desa Kobayashi kembali ke kuil kobayashi di Limaeri untuk mengenang mereka yang tewas; tiga pusat pemukiman sementara membangun 276 unit rumah permanen, serta sekolah nasional Kobayashi, taman budaya Pingpu, dan taman bersejarah lainnya. Taman bersejarah dipilih di lokasi yang lebih tinggi yang bisa melihat lokasi aslinya, sehingga upacara dan kenangan tetap dekat dengan lokasi bencana. [^1]
+Desa Xiaolin kemudian jadi simbol rekonstruksi Morakot. Laporan rekonstruksi resmi mencatat, pada hari peringatan tahun ke-3 bencana, warga Xiaolin kembali ke Mushola Xiaolin (小林公祠) di Wulipu (五里埔) untuk berdoa mengingati korban; tiga basis penempatan total membangun 276 unit rumah permanen, dilengkapi SD Xiaolin, Taman Budaya Pingpu (平埔文化園區), dan taman peringatan. Taman peringatan dipilih di lokasi lebih tinggi yang bisa memandang lokasi asli, agar ibadah dan kenangan tetap dekat dengan tempat bencana.[^1]
 
-Fasilitas-fasilitas ini penting, karena rekonstruksi tidak hanya membutuhkan kamar tidur, dapur, dan jalan; juga membutuhkan tempat yang dapat diakui oleh komunitasnya. Kuil, alun-alun upacara, sekolah, dan taman mencegah desa yang hilang hanya tersisa sebagai angka statistik; mereka meletakkan kematian, keluarga, dan sejarah kembali ke ruang publik.
+Fasilitas ini penting, karena rekonstruksi butuh bukan hanya kamar tidur, dapur, dan jalan, tapi juga tempat di mana komunitas bisa mengenali dirinya sendiri. Rumah ibadah, lapangan upacara, sekolah, dan taman, membuat desa yang hilang tidak hanya jadi angka statistik; mereka mengembalikan kematian, kerabat, dan sejarah ke ruang publik.
 
-Namun, mengenang sebuah tempat dan kembali memiliki sebuah tempat bukanlah hal yang sama. Pengalaman Desa Kobayashi mengingatkan kita bahwa pusat pemukiman sementara dapat melestarikan sebagian kenangan, namun tidak selalu memulihkan hubungan sosial dan ekonomi asli. Jika rumah jauh dari tempat kerja, pertanian, dan jaringan suku, kehidupan mungkin masih perlu menempuh jarak tak terlihat setiap hari.
+Tapi memperingati sebuah tempat, dan kembali memiliki sebuah tempat, bukan hal yang sama. Pengalaman Desa Xiaolin mengingatkan, basis penempatan bisa menyimpan sebagian kenangan, tapi tidak pasti memulihkan mata pencaharian dan hubungan sosial asal. Kalau rumah jauh dari kerja, pertanian, dan jaringan kampung, kehidupan mungkin tetap butuh menyeberangi jarak tak terlihat setiap hari.
 
-## NGO Dapat Mengisi, Namun Tidak Dapat Menggantikan Keputusan Suku
+## NGO Bisa Mengisi Kekosongan, Tapi Tak Bisa Gantikan Keputusan Kampung
 
-Rekonstruksi Morasu bukanlah proyek yang diselesaikan oleh pemerintah sendirian. Basis data yang disimpan oleh Museum Ilmiah dan Teknologi Nasional mencantumkan berbagai rencana seperti infrastruktur, tempat tinggal, pekerjaan, industri, pertanian, dan integrasi sumber daya komunitas, menunjukkan bahwa pekerjaan pasca bencana bergantung pada koordinasi antara kementerian pusat, pemerintah daerah, dan organisasi swadaya. [^4]
+Rekonstruksi Morakot bukan proyek pemerintah sendirian. Database rekonstruksi yang disimpan Museum Nasional Sains dan Teknologi mencantumkan banyak skema di bidang infrastruktur, perumahan, lapangan kerja, industri, pertanian, dan integrasi sumber daya komunitas, menunjukkan kerja pascabencana bergantung pada kementerian pusat, pemerintah daerah, dan organisasi sipil.[^4]
 
-Penelitian akademis menggunakan dua komunitas suku asli yang terdampak dan tiga NGO besar sebagai studi kasus, mengusulkan kerangka kerja empat tahap untuk rekonstruksi berbasis NGO: persiapan, peluncuran, perencanaan dan konstruksi, serta pemantauan dan pemulihan ekonomi. Penelitian juga mengingatkan bahwa NGO dapat mengisi celah kemampuan pemerintah, namun NGO yang berpengalaman dan kaya sumber daya juga berpotensi secara tidak langsung mengendalikan keputusan; kepercayaan dan ideologi organisasi akan memengaruhi apakah rekonstruksi benar-benar dikendalikan oleh komunitas. [^5]
+Penelitian akademis dengan dua komunitas masyarakat adat terdampak dan tiga NGO besar sebagai kasus, mengusulkan kerangka empat tahap rekonstruksi berlandaskan NGO: persiapan, peluncuran, perencanaan dan pembangunan, serta pemantauan dan pemulihan mata pencaharian. Penelitian juga mengingatkan, NGO bisa mengisi kesenjangan kapasitas pemerintah, tapi NGO berpengalaman dan berdaya sama bisa tanpa sadar mendominasi keputusan; kepercayaan dan filosofi organisasi, mempengaruhi apakah rekonstruksi benar-benar bisa dipakai komunitas.[^5]
 
-Perbedaan halus di sini menentukan arah rekonstruksi. Kelompok eksternal dapat membawa insinyur, pekerja sosial, kemampuan penggalangan dana, dan pengalaman administratif, namun tidak bisa hanya karena cepat membangun rumah, secara otomatis tahu bagaimana suku harus hidup. Jika rekonstruksi hanya mengincar progres teknis, partisipasi warga sering diatur hanya sebagai pertemuan informatif; jika rekonstruksi memandang warga sebagai mitra pengambil keputusan, maka waktu mungkin lebih lama, namun hasilnya lebih berpeluang untuk bertahan.
+Perbedaan di sini halus, tapi menentukan arah rekonstruksi. Kelompok eksternal bisa bawa insinyur, pekerja sosial, kemampuan penggalangan dana, dan pengalaman administrasi, tapi tidak berarti karena cepat bangun rumah, mereka otomatis tahu kampung ingin hidup bagaimana. Kalau rekonstruksi hanya mengejar progres teknik, partisipasi warga mudah diatur jadi rapat penjelasan; kalau rekonstruksi memandang warga sebagai pemutus keputusan bersama, waktu mungkin lebih lama, hasilnya punya peluang lebih besar untuk bertahan.
 
-## Antara "Aman" dan "Pulang"
+## Di Antara "Aman" dan "Pulang"
 
-Pemerintah harus menangani risiko geologi yang nyata setelah bencana, dan tidak boleh mengromantisasi kembalinya. Penelitian menunjukkan bahwa komunitas suku asli sering ditempatkan di wilayah rawan bencana alam; jika kebijakan rekonstruksi tidak mempertimbangkan kebutuhan sebenarnya, hal ini dapat menciptakan konflik budaya baru saat melindungi warga. Penelitian relevan menempatkan partisipasi komunitas dan identitas lokal sebagai syarat penting untuk tata kelola bencana yang efektif. [^6]
+Pemerintah pascabencana wajib tangani risiko geologis nyata, tidak boleh meromantisasi pulang kampung. Penelitian menunjukkan komunitas masyarakat adat sering berada di rawan bencana alam, kebijakan rekonstruksi kalau tidak cukup pertimbangkan kebutuhan nyata, justru bisa menciptakan konflik budaya baru sambil melindungi warga. Penelitian terkait memandang partisipasi komunitas dan identitas lokal sebagai syarat penting tata kelola bencana yang efektif.[^6]
 
-Studi pemulihan perumahan yang dilakukan lebih dari satu dekade kemudian juga menunjukkan bahwa kebijakan perumahan pengganti di lokasi lain yang diterapkan dengan cepat di bawah tekanan waktu dan sistem, menyebabkan partisipasi suku asli yang tidak memadai; ketika lokasi pindah dan pilihan perumahan sudah ditentukan sebelumnya, perbaikan yang dilakukan kemudian hanya dapat menangani masalah lokal, sementara masalah dasar terkait perekonomian dan pelestarian budaya tetap ada. [^7]
+Penelitian pemulihan perumahan lebih dari sepuluh tahun kemudian juga menyingkap, kebijakan perumahan pindah lokasi pasca-Morakot diterapkan cepat di bawah tekanan waktu dan institusi, menyebabkan partisipasi masyarakat adat kurang; saat lokasi pindah dan pilihan perumahan sudah ditentukan sebelumnya, perbaikan lanjutan sering hanya menangani masalah parsial, kesulitan fundamental pemulihan mata pencaharian dan pelestarian budaya tetap ada.[^7]
 
-Ini bukan pilih antara keselamatan dan budaya, tetapi membutuhkan definisi keselamatan yang lebih lengkap. Studi pemulihan perumahan menunjukkan bahwa ketika lokasi pindah dan pilihan perumahan sudah ditentukan sebelumnya, perbaikan yang dilakukan kemudian hanya dapat menangani masalah lokal, sementara masalah dasar terkait perekonomian dan pelestarian budaya tetap ada. [^7] Seorang ahli geologi dapat menilai risiko lereng, aliran sungai, dan aliran lumpur; namun anggota suku juga tahu bagaimana sebidang tanah terhubung dengan keluarga, upacara, pertanian, dan musim. Jika hanya salah satu pengetahuan yang dimasukkan ke dalam pengambilan keputusan, evaluasinya mungkin masuk akal dari segi teknis, namun gagal dari segi kehidupan.
+Ini bukan soal pilih antara keamanan dan budaya, tapi menuntut keamanan didefinisikan lebih utuh. Penelitian pemulihan perumahan menegaskan, saat lokasi pindah dan pilihan perumahan sudah ditentukan sebelumnya, perbaikan lanjutan sering hanya menangani masalah parsial, kesulitan fundamental pemulihan mata pencaharian dan pelestarian budaya tetap ada.[^7] Ahli geologi bisa menilai risiko lereng, aliran sungai, dan longsoran; anggota suku juga tahu bagaimana sebidang tanah menghubungkan keluarga, upacara, pertanian, dan musim. Kalau hanya satu jenis pengetahuan yang masuk keputusan, penilaian mungkin masuk akal secara teknik, tapi gagal secara kehidupan.
 
 ## Tagihan Jangka Panjang Rumah Permanen
 
-Investigasi tahun 2022 Pengawas Republik menjadikan "rumah permanen" berubah dari hasil kebijakan menjadi tagihan yang perlu terus dibaca. Investigasi menunjukkan bahwa hingga April 2021, terdapat 43 lokasi rumah permanen terkait Morasu, dengan 3.583 unit; di antara warga suku asli yang pindah ke rumah permanen, 2.379 unit (85%) mengalami "kehilangan tempat tetapi juga kehilangan kampung halaman". Laporan ini juga mengangkat isu hak atas tanah, kontrak tiga pihak, kualitas hunian, pemotongan suku, dan peninjauan keamanan tempat asal. [^8]
+Penyidikan Badan Pengawasan (監察院) 2022, mengubah "rumah permanen" dari pencapaian kebijakan jadi tagihan yang harus terus dibaca. Penyidikan menyingkap, per April 2021, rumah permanen terkait Morakot ada 43 basis, 3.583 kepala keluarga; di antara kepala keluarga pindah kampung rumah permanen masyarakat adat, 2.379 kepala keluarga yang "jauh dari bencana dan jauh dari kampung asal" mencapai 85%. Laporan juga mengangkat soal hak tanah, kontrak tiga pihak, kualitas hunian, pemotongan kampung, dan peninjauan ulang keamanan lokasi asal.[^8]
 
-"Kehilangan tempat tetapi juga kehilangan kampung halaman" penting karena ia tidak hanya menggambarkan jarak geografis. Meninggalkan kampung halaman bisa berarti meninggalkan pekerjaan, lahan pertanian, perawatan keluarga, politik suku, dan praktik budaya; jika pusat baru tidak memiliki transportasi, lapangan kerja, dan layanan publik yang memadai, hunian bisa menjadi wadah yang menempatkan orang tetapi tidak membawa kehidupan.
+"Jauh dari bencana dan jauh dari kampung asal" penting, karena ia tidak hanya menggambarkan jarak geografis. Meninggalkan tanah leluhur bisa berarti meninggalkan pekerjaan asal, ladang, perawatan kerabat, politik kampung, dan praktik budaya; basis baru kalau tidak punya transportasi, lapangan kerja, dan layanan publik cukup, perumahan jadi wadah yang memasukkan orang, tapi tidak ikut memindahkan kehidupan.
 
-Kumpulan pertanyaan awal Kementerian Dalam Negeri pernah berkata bahwa setelah menerima rumah permanen, warga secara umum tidak diperbolehkan kembali tinggal atau membangun di tempat asal; kumpulan pertanyaan yang sama juga menyebutkan bahwa ketika melakukan pemindahan kolektif, pemerintah dapat menangani warga yang tidak memenuhi syarat umum tetapi memiliki fakta hunian untuk mempertahankan organisasi dan warisan budaya suku. [^2] Dua ketentuan ini menempatkan sistem dalam tekanan ganda: di satu sisi ingin menjauhkan orang dari risiko, di sisi lain menyadari bahwa suku tidak boleh dipotong.
+Kumpulan tanya jawab awal Kementerian Dalam Negeri pernah bilang, pasca menerima rumah permanen, warga prinsipnya tidak boleh kembali tinggal atau bangun rumah di lokasi asal; tanya jawab yang sama juga menyebut, saat pindah kampung secara kolektif, pemerintah bisa untuk mempertahankan organisasi kampung dan warisan budaya, menangani warga yang tidak memenuhi syarat umum tapi benar-benar tinggal di sana.[^2] Dua ketentuan diletakkan berdampingan, tepat memperlihatkan dua tarikan sistem: satu sisi mau mengeluarkan orang dari risiko, sisi lain tahu kampung tidak bisa dipotong-potong.
 
-Investigasi lanjutan Pengawas Republik karena itu meminta agar peninjauan keamanan tempat asal tidak hanya dilakukan oleh ahli geologi, teknik sipil, dan konservasi tanah, tetapi juga harus memasukkan perspektif etnis, budaya, sosial, dan ekologi, dan melibatkan suku asli dalam pemilihan lokasi, pengambilan keputusan, dan perundingan. [^8] Ini bukanlah memberikan penilaian profesional kepada satu kelompok, tetapi mengakui bahwa "dapat dihuni" dan "layak kembali" perlu diputuskan bersama.
+Lanjutan penyidikan Badan Pengawasan lalu menuntut, peninjauan ulang keamanan lokasi asal tidak boleh hanya diselesaikan ahli geologi, sipil, dan konservasi air-tanah, tapi harus melibatkan pandangan etnis, budaya, sosial, dan ekologi, serta melibatkan masyarakat adat dalam pemilihan lokasi, keputusan, dan musyawarah.[^8] Ini bukan menyerahkan penilaian profesional ke satu kelompok, tapi mengakui "layak huni" dan "pantas dikembalikan" butuh penilaian bersama.
 
-## Biarkan Rekonstruksi Tidak Hanya Tersisa "Selesai"
+## Agar Rekonstruksi Bukan Hanya "Selesai"
 
-Rencana yang tercantum dalam basis data rekonstruksi Morasu telah mengungkapkan fakta penting: rekonstruksi pasca bencana tidak hanya berarti membangun rumah. Infrastruktur, lapangan kerja, pertanian, industri, pemberdayaan komunitas, dan benih budaya semuanya perlu terus beroperasi di luar proyek hunian. [^4]
+Database rekonstruksi Morakot mencantumkan skema yang sudah mengungkap fakta penting: rekonstruksi pascabencana dari dulu bukan cuma bangun rumah. Infrastruktur, lapangan kerja, pertanian, industri, pemberdayaan komunitas, dan benih budaya, semuanya butuh berjalan berkelanjutan di luar proyek perumahan.[^4]
 
-Pengamatan akademis terhadap NGO juga menunjukkan bahwa rekonstruksi perlu berkembang dari hunian ke pemulihan ekonomi dan pemantauan jangka panjang. [^5] Jika kebijakan hanya mengumumkan "selesai" ketika rumah diserahkan, maka bagian yang paling membutuhkan waktu — pembangunan kembali pekerjaan, perbaikan hubungan sosial, anak-anak tumbuh di antara lanskap lama dan baru, dan keputusan suku kembali beroperasi — justru akan terjadi di luar laporan administratif.
+Observasi akademis terhadap NGO juga menegaskan, rekonstruksi perlu meluas dari perumahan ke pemulihan mata pencaharian dan pemantauan jangka panjang.[^5] Kalau kebijakan hanya mengumumkan selesai saat rumah diserahkan, bagian yang paling butuh waktu — pembangunan ulang pekerjaan, pemulihan hubungan komunitas, anak-anak tumbuh di antara lanskap lama dan baru, pengambilan keputusan kampung berjalan lagi — justru terjadi perlahan di luar laporan administrasi.
 
-Morasu tidak meninggalkan hanya sebuah cerita bencana sederhana, tetapi sebuah isu tata kelola negara: ketika pemerintah harus melindungi rakyatnya dengan cepat, bagaimana caranya tetap mempertahankan hak rakyat untuk berpartisipasi dalam menentukan masa depan? Studi kasus rekonstruksi Desa Kobayashi yang dicatat oleh Serikat Antropologi dan Etnografi Taiwan menunjukkan bahwa warga pernah mengusulkan "membangun kembali Desa Kobayashi", dan melalui diskusi kolektif, pemungutan suara, dan perencanaan arsitektur, mereka memperjuangkan ruang untuk menentukan bentuk tempat tinggal mereka. [^9] Ketika sebuah suku harus pindah, bagaimana caranya agar perpindahan bukanlah kehilangan pasif, tetapi perencanaan bersama yang memberi pilihan, sumber daya, dan keberlanjutan budaya?
+Morakot tidak meninggalkan sekadar cerita bencana, tapi soal tata kelola negara: saat pemerintah harus cepat melindungi rakyat, bagaimana sekaligus mempertahankan hak rakyat berpartisipasi menentukan masa depan? Catatan Persatuan Antropologi Masyarakat Adat Taiwan (臺灣原住民族人類學會) kasus rekonstruksi Xiaolin menunjukkan, warga pernah menuntut "bangung kembali Xiaolin", dan lewat diskusi kolektif, pemungutan suara, dan perencanaan arsitektur, berjuang ruang menentukan bentuk tanah air sendiri.[^9] Saat sebuah kampung harus pindah, bagaimana agar perpindahan bukan kehilangan pasif, tapi perencanaan bersama yang punya pilihan, sumber daya, dan kelanjutan budaya?
 
-**Rekonstruksi pasca bencana sejati bukanlah menghapuskan manusia dari peta bahaya, tetapi membiarkan manusia tetap dapat mengatakan "ini rumah kami" di peta baru.**
+**Rekonstruksi pascabencana yang sesungguhnya, bukan menghapuskan orang dari peta bahaya, tapi membiarkan orang tetap bisa bilang di peta baru: "Ini rumah kami."**
 
-Setelah Morasu, Taiwan telah mengumpulkan lebih banyak infrastruktur penangkal banjir, sistem peringatan dini, dan mekanisme rekonstruksi; namun setiap kali cuaca ekstrem datang, kita tetap bertanya hal yang sama: siapa yang mendefinisikan keselaman, dan siapa yang memutuskan rumah? Warisan terpenting dari bencana ini mungkin bukan kapan rumah permanen selesai dibangun, tetapi Taiwan mulai menyadari bahwa setelah rumah selesai, rekonstruksi baru benar-benar dimulai.
+Pasca-Morakot, Taiwan mengumpulkan lebih banyak teknik mitigasi bencana, sistem peringatan dini, dan sistem rekonstruksi; tapi tiap kali cuaca ekstrem datang, pertanyaan yang sama kembali ditanyakan: keamanan ditentukan siapa, rumah ditentukan siapa. Warisan terpenting bencana angin topan ini, mungkin bukan batch rumah permanen mana yang selesai kapan, tapi Taiwan mulai melihat, setelah rumah selesai, rekonstruksi barulah benar-benar dimulai.
 
-[^1]: [Museum Ilmiah dan Teknologi Nasional, "Upacara Kenangan 3 Tahun Banjir Tanggal 8: Warga Desa Kobayashi Mengenang Kerabat yang Tewas"](https://exhibition.nstm.gov.tw/morakot/webhistory/88flood/committee_news_detailafe1afe1.html?cn_id=1100) — lihat isi tautan asli untuk informasi lengkap
+[^1]: [Museum Nasional Sains dan Teknologi, 〈Perayaan Tahun Ke-3 Bencana Angin Topan 8-8 Desa Xiaolin, Warga Xiaolin Berdoa Mengingati Kerabat Korban〉](https://exhibition.nstm.gov.tw/morakot/webhistory/88flood/committee_news_detailafe1afe1.html?cn_id=1100) — lihat tautan asli untuk data lengkap
 
-[^2]: [Kementerian Dalam Negeri, "Kumpulan Pertanyaan dan Jawaban Banjir Morasu"](https://www.nlma.gov.tw/ch/titlelist/areanu/4830) — lihat isi tautan asli untuk informasi lengkap
+[^2]: [Direktorat Jenderal Pengelolaan Tanah Kementerian Dalam Negeri, 〈Kumpulan Tanya Jawab Bencana Angin Topan Morakot〉](https://www.nlma.gov.tw/ch/titlelist/areanu/4830) — lihat tautan asli untuk data lengkap
 
-[^3]: [Kabinet Sekretaris Wakil Perdana Menteri, "Rapat Kabinet Menyetujui RUU Undang-Undang Khusus Rekonstruksi Pasca Bencana Morasu (Rancangan)"](https://www.ey.gov.tw/Page/9277F759E41CCD91/5764117c-d1a4-4b70-b5e4-a907a7b59aeb) — lihat isi tautan asli untuk informasi lengkap
+[^3]: [Administrasi Eksekutif, 〈Rapat Kabinet Administrasi Eksekutif Menyetujui "Undang-Undang Khusus Rekonstruksi Pascabencana Angin Topan Morakot" (Draf)〉](https://www.ey.gov.tw/Page/9277F759E41CCD91/5764117c-d1a4-4b70-b5e4-a907a7b59aeb) — lihat tautan asli untuk data lengkap
 
-[^4]: [Museum Ilmiah dan Teknologi Nasional, "Ruang Pamer Memori Morasu | Basis Data Rekonstruksi Morasu"](https://exhibition.nstm.gov.tw/morakot/databasepage.html) — lihat isi tautan asli untuk informasi lengkap
+[^4]: [Museum Nasional Sains dan Teknologi, 〈Ruang Peringatan Bencana Angin Topan Morakot｜Database Rekonstruksi Morakot〉](https://exhibition.nstm.gov.tw/morakot/databasepage.html) — lihat tautan asli untuk data lengkap
 
-[^5]: [Tsai et al., "A framework for NGO-led post-disaster reconstruction programs in the indigenous community"](https://www.sciencedirect.com/science/article/abs/pii/S221242092200098X) — lihat isi tautan asli untuk informasi lengkap
+[^5]: [Tsai et al., “Kerangka Program Rekonstruksi Pascabencana Berlandaskan NGO di Komunitas Masyarakat Adat”](https://www.sciencedirect.com/science/article/abs/pii/S221242092200098X) — lihat tautan asli untuk data lengkap
 
-[^6]: [Lin & Lin, "Cultural issues in post-disaster reconstruction: the case of Typhoon Morakot in Taiwan"](https://pubmed.ncbi.nlm.nih.gov/26749170/) — lihat isi tautan asli untuk informasi lengkap
+[^6]: [Lin & Lin, “Isu Budaya dalam Rekonstruksi Pascabencana: Kasus Angin Topan Morakot di Taiwan”](https://pubmed.ncbi.nlm.nih.gov/26749170/) — lihat tautan asli untuk data lengkap
 
-[^7]: [Wu & Lu, "Housing recovery and community relocation: Lessons learned from indigenous community recovery after typhoon Morakot in Taiwan"](https://www.sciencedirect.com/science/article/pii/S2212420924000992) — lihat isi tautan asli untuk informasi lengkap
+[^7]: [Wu & Lu, “Pemulihan Perumahan dan Perpindahan Kampung: Pelajaran dari Pemulihan Komunitas Masyarakat Adat Pasca-Angin Topan Morakot di Taiwan”](https://www.sciencedirect.com/science/article/pii/S2212420924000992) — lihat tautan asli untuk data lengkap
 
-[^8]: [Pengawas Republik, "Isu-isu terkait hak atas tanah dan kontrak tiga pihak yang timbul dari kebijakan rumah permanen pasca bencana Morasu"](https://www.cy.gov.tw/News_Content.aspx?n=125&s=23550) — Laporan koreksi Pengawas Republik
+[^8]: [Badan Pengawasan, 〈Kebijakan Rumah Permanen Pascabencana Angin Topan Morakot dan Sengketa Hak Tanah serta Hak Hunian Akibat Hubungan Kontrak Tiga Pihak〉](https://www.cy.gov.tw/News_Content.aspx?n=125&s=23550) — Laporan Koreksi Badan Pengawasan
 
-[^9]: [Serikat Antropologi dan Etnografi Suku Asli Taiwan, "Rekonstruksi Rumah Kobayashi Pasca Banjir Tanggal 8: Pengamatan Partisipatif dari Perspektif Antropologi"](https://www.taiwananthro.org.tw/post/2tmfJMwXtV23FSuBOeBqmQAjQhX) — lihat isi tautan asli untuk informasi lengkap
+[^9]: [Persatuan Antropologi Masyarakat Adat Taiwan, 〈Rekonstruksi Tanah Air Xiaolin Pascabencana 8-8: Observasi Partisipatif Penelitian Antropologi〉](https://www.taiwananthro.org.tw/post/2tmfJMwXtV23FSuBOeBqmQAjQhX) — lihat tautan asli untuk data lengkap

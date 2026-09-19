@@ -29,21 +29,21 @@ translatedFrom: 'Music/大港開唱.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:ded0e72872765bab'
 sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
-translatedAt: '2026-09-09T18:51:18.273176+00:00'
+translatedAt: '2026-09-09T12:26:58.621603+00:00'
 ---
 
-# Megaport Festival: O festival de música taiwanês que nasceu no porto de Kaohsiung
+# Megaport Festival: o festival de música de Taiwan nascido à beira do porto de Kaohsiung
 
-![Palco do Megaport Festival Namba em 2025, um grande palco com luzes e multidão voltado para o porto de Kaohsiung.](/article-images/music/megaport-festival-2025-namba-stage.webp)
-_Palco do Megaport Festival Namba em 2025. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+![Palco Namba do Megaport Festival 2025, luzes e multidão voltadas para o grande palco à beira do porto de Kaohsiung.](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_Palco Namba do Megaport Festival 2025. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
-> **Visão geral de 30 segundos:** O Megaport Festival é um grande festival de música ao ar livre fundado no porto de Kaohsiung em 2006. Ele se desenvolveu a partir da experiência do grupo Wild Stage (野台開唱), inicialmente impulsionado por Lin Chang-chua, Doris Yeh e o grupo TRA Music, e posteriormente assumido por grupos como Doris e Dani Wang-tsai. O Megaport reúne bandas do sul de Taiwan, paisagens portuárias, dialeto taiwanês ao vivo, artistas internacionais, memórias pop de Taiwan e temas de ONGs, transformando dois dias de apresentações em uma forma de a cidade se reimaginar através do som.
+> **Visão geral de 30 segundos:** O Megaport Festival é um grande festival de música ao ar livre fundado em 2006 à beira do porto de Kaohsiung. Ele surgiu da experiência da equipe do Wild Stage Festival, impulsionado inicialmente por Freddy Lim, Doris Yeh e a equipe da TRA Music, e posteriormente assumido por Doris e Dani Wang, entre outros. O Megaport reúne bandas do sul de Taiwan, a paisagem portuária, apresentações em taiwanês, atrações internacionais, a memória pop de Taiwan e a vila de ONGs temáticas, transformando dois dias de shows na forma de uma cidade se reinventar através do som.
 
 ---
 
-Em 2006, o Pier Park de Kaohsiung estava apenas passando da transformação de armazéns portuários para uma área artística, e nem o metrô nem o trem leve haviam integrado a área portuária ao cotidiano urbano.
+Em 2006, o Pier-2 de Kaohsiung havia acabado de se transformar de armazéns portuários em distrito artístico; nem o metrô nem o trem leve ainda haviam conectado a área portuária ao cotidiano da cidade.
 
-O Megaport Festival estreou em Outono daquele ano, na doca 11 e 12 do porto de Kaohsiung. A página oficial HISTORY recorda que, na primeira edição, havia apenas três palcos: "Namba Tian", "Hai Long Wang" e "Feng Yong"; a lista de apresentações incluía Sweetmeihao (甜梅號), Chen Qizhen, Hsieh Jin-yen, Fire Extinguisher, Mint Leaf, Tizzy Bac, além das bandas japonesas envy e YURA YURA TEIKOKU. Este cardápio reuniu bandas independentes de Taiwan, sons underground do Japão, memórias pop em dialeto taiwanês e a área portuária de Kaohsiung no mesmo fim de semana.[^1]
+O Megaport Festival estreou naquele outono, nos píeres 11 e 12 do porto de Kaohsiung. A página oficial HISTORY, ao relembrar a primeira edição, registra que havia apenas três palcos: «Namba», «Rei Dragão do Mar» e «Vento Surgente»; o lineup incluía Sweetme, Cheer Chen, Jeannie Hsieh, Fire EX., Mint Leaves, Tizzy Bac, além das japonesas envy e Yura Yura Teikoku. Esse programa reuniu bandas independentes de Taiwan, sons underground japoneses, a memória pop em taiwanês e a beira do porto de Kaohsiung em um único fim de semana.[^1]
 
 ## O sul não é decoração
 

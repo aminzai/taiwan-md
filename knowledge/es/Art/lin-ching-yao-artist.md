@@ -42,7 +42,7 @@ En noviembre de 2019, el Laboratorio de Sonido de Taiwán C-LAB (C-LAB 臺灣聲
 
 En aquella época, durante una entrevista con la revista _Artist_ (《藝術家》), pronunció una frase que, a posteriori, parece la confesión de toda su trayectoria profesional:
 
-> 「聲音做為同樣不可或缺的感知與經驗模式，關於藝術與文化層面的聲音研究與跨域整合在台灣卻是處於長期缺席的狀態。」[^1]
+> «El sonido es un modo de percepción y de experiencia igual de imprescindible, y sin embargo en Taiwán la investigación sonora en su dimensión artística y cultural, y su integración transdisciplinar, llevan mucho tiempo ausentes.»[^1]
 > («El sonido, como modo de percepción y experiencia igualmente indispensable, ha permanecido en un estado de ausencia prolongada en Taiwán en lo que respecta a la investigación sonora y a la integración interdisciplinaria desde los ámbitos artístico y cultural.»)
 
 No se trata de una observación cultural vaga. Son las palabras de alguien que fue testigo directo de esa ausencia y eligió, desde un rol institucional, ocupar ese vacío.
@@ -65,7 +65,7 @@ En 2016, su obra _El cajón del tiempo y el espacio_ (_時空抽屜_) obtuvo el 
 
 En la autobiografía redactada durante su residencia en la Villa de Arte Internacional de Treasure Hill (寶藏巖) en 2012, escribió:
 
-> 「喜歡使用音樂和電腦視覺作為創作工具，然後與劇場或舞蹈結合；一直在思考如何創造具有東方文化傳承的互動影像劇場。」[^2]
+> «Me gusta usar la música y la visión por computadora como herramientas de creación y combinarlas después con el teatro o la danza; llevo tiempo pensando cómo crear un teatro de imagen interactiva que lleve dentro la herencia cultural oriental.»[^2]
 > («Me gusta utilizar la música y la visión por computadora como herramientas creativas, combinándolas con el teatro o la danza; siempre he pensado en cómo crear un teatro de imagen interactivo que lleve la herencia cultural oriental.»)
 
 Esto no es una estrategia: es un rasgo de carácter.
@@ -109,7 +109,7 @@ Tras su período al frente del Laboratorio de Sonido C-LAB, Lin Ching-Yao (林�
 
 La pregunta que sigue formulándose es aún la misma frase que escribió en su residencia en Treasure Hill en 2014:
 
-> 「我們總是只選擇那些想看的，卻忽略了那些存在卻看不見的。」[^2]
+> «Siempre elegimos solo aquello que queremos ver, y pasamos por alto lo que existe pero no se ve.»[^2]
 > («Siempre elegimos solo aquello que queremos ver, e ignoramos lo que existe pero no se puede ver.»)
 
 ---

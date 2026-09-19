@@ -1,18 +1,18 @@
 ---
-title: 'Republic of China Aesthetics: From Municipal Flags to Street Signs, How One Island Turns Everyday Life into a Visual Puzzle'
-description: 'From streetscapes, architecture, municipal flags and signage to public-sector design, this piece asks how “Republic of China aesthetics” is formed — and why ugliness alone cannot sum up Taiwan.'
+title: 'Republic of China Aesthetics: From County and City Flags to Street Signs, How an Island Turns Life into a Visual Puzzle'
+description: 'From streetscapes and architecture to county and city flags, signage, and public sector design, this article asks how Republic of China aesthetics formed and why Taiwan cannot be reduced to a single label of "ugliness."'
 category: 'Geography'
 subcategory: '城市與人文地理'
 tags:
   [
-    'streetscape',
-    'urban design',
-    'municipal flags',
-    'signage',
-    'public design',
-    'aesthetic education',
-    'NTU Special Zone',
-    'Republic of China aesthetics',
+    'Streetscapes',
+    'Urban Design',
+    'County and City Flags',
+    'Signage',
+    'Public Design',
+    'Aesthetic Education',
+    'Beida Special District',
+    'Republic of China Aesthetics',
   ]
 author: 'Taiwan.md Contributors'
 date: 2026-08-20
@@ -24,200 +24,200 @@ translatedFrom: 'Geography/中華民國美學.md'
 sourceCommitSha: 'ba877ac2b'
 sourceContentHash: 'sha256:c8f833e6836a370f'
 sourceBodyHash: 'sha256:26c6e79fd91efe41'
-translatedAt: '2026-09-15T06:51:23+08:00'
+translatedAt: '2026-09-11T06:03:21+08:00'
 ---
 
-On October 15, 2024, the Ministry of Economic Affairs announced the results of the signage renovation in Tainan’s Guohua Friendly Commercial District, with a total of 41 shop signs newly replaced.[^1] In 2016, the Zhongxiao Bridge in Taipei was demolished, and Beimen finally emerged from beneath the elevated overpass; the surrounding area also began to renovate its streets and signage.[^2] On February 29, 2024, the New Taipei City Government approved the second comprehensive review of the detailed plan for the National Taiwan University Community Development Zone.[^3]
+On October 15, 2024, the Ministry of Economic Affairs announced the results of the signage renovation in the Guohua-Youai Commercial District of Tainan, replacing a total of 41 shop signs. [^1] In 2016, the approach ramp of the Zhongxiao Bridge in Taipei was demolished, allowing the North Gate to finally re-emerge from beneath the overpass; the surrounding area subsequently began reorganizing the streets and signage. [^2] On February 29, 2024, the New Taipei Municipal Government approved the second comprehensive review of the detailed plan for the Taipei University Community Specific District. [^3]
 
-These three dates, at first glance belonging to commercial district design, historical landscape and urban planning respectively, all answer the same question: How does a city make itself legible?
+These three dates, seemingly belonging to commercial district design, historical landscapes, and urban planning, all answer the same question: How can a city make its residents understand themselves?
 
-> **30-second overview:** “Republic of China aesthetics” is not an official aesthetic category used by the government, but rather a satirical label that has gradually circulated in online and video discussions. It usually refers to highly saturated signage, stretched canvas lettering, external balconies, iron grilles, rooftop additions, dense wires, municipal flags, public facilities and government promotional imagery all appearing in the same frame. The term captures real visual phenomena, yet it also compresses post-war housing needs, commercial competition, local autonomy, maintenance costs, bidding systems and historical memory into a single joke. What is truly worth looking at is not whether Taiwan is ugly or not, but who decided what a street should look like and when.
+> **30-Second Overview:** "Republic of China aesthetics" is not an official aesthetic classification used by the government, but rather a satirical label that has gradually circulated in online and visual discussions. It typically points to a state where high-saturation signs, stretched canvas fonts, protruding balconies, iron windows, rooftop additions, dense power lines, county and city flags, public facilities, and public sector promotional images are mixed within a single field of vision. This term captures tangible visual phenomena, yet it also compresses post-war housing needs, commercial competition, local autonomy, maintenance costs, bidding systems, and historical memory into a single mockery. What is truly worth examining is not whether Taiwan is ugly, but who decided what streets should look like and when.
 
-## Don’t Rush to Call It “Ugly”
+## Don't Rush to Take "Ugly" as the Answer
 
-In recent years, several videos discussing Taiwan’s streetscapes have pointed in different directions toward the same urban surface. Some discuss visual fatigue through signage colors and fonts; others treat corrugated iron roofs, external balconies, outdoor air-conditioning units and wires as layers of post-war life; still others put government promotional materials and municipal visual identities on the same checklist. Another video goes back to the commercial posters of the Japanese colonial era, reminding us that Taiwan’s visual culture did not begin with the word “ugly.”[^11] [^12] [^13] [^14] [^15] [^16]
+In recent years, several videos discussing Taiwan's streetscapes have pointed to the same urban surface from different directions. Some discuss visual fatigue through sign colors and fonts; others view tin sheds, protruding balconies, air conditioner outdoor units, and power lines as a stacking of post-war life; still others place public sector promotional videos and county/city visual identities into the same checklist. Another video returns to commercial posters from the Japanese colonial era, reminding us that Taiwan's visual culture did not begin with the word "ugly." [^11] [^12] [^13] [^14] [^15] [^16]
 
-What these videos have in common is treating the streetscape as social history to be read. Their limitations are equally obvious. Comments such as “red-and-yellow color schemes are tiring,” “Taiwanese people only care about cost performance,” or “Republic of China aesthetics is additive aesthetics” are opinions, not facts that can be used as research substitutes. They are suitable as entry points; the real article must ask further: What regulations govern signage? Who produces public visual design? Can local governments set their own colors and fonts? Why do some redevelopment zones look like a different Taiwan?
+The commonality among these videos is treating the streetscape as social history. Their limitations are equally obvious. Statements in the videos such as "red and yellow color schemes are tiring," "Taiwanese people only care about cost-performance," or "Republic of China aesthetics is an aesthetics of addition" are critiques, not facts that can directly replace research. They serve well as entry points, but the real article must ask further: What regulations govern signs? Who produces public visuals? Can local governments set their own colors and fonts? Why do some redevelopment areas look distinctly like another kind of Taiwan?
 
-📝 **Curator’s note:** Calling a place “ugly” quickly earns resonance. Breaking it down into institutions, objects and human choices is where true understanding begins.
+📝 **Curator's Note:** Calling a place "ugly" quickly gains resonance. Only by breaking it down into systems, objects, and human choices does true understanding begin.
 
-## What This Term Is Really Saying
+## What This Term Actually Says
 
-“Republic of China aesthetics” is not a national style with a clearly defined design manual. It is more like a viewing framework formed after the fact, assembling visual choices from different eras, different agencies and different industries into a satirical composite image.
+"Republic of China aesthetics" is not a national style with a clear design manual. It is more like a retrospective framework of viewing, piecing together visual choices from different eras, different agencies, and different industries into a synthetic image with satirical undertones.
 
-This composite image includes the red tiles, green columns and symmetrical compositions of national memorial buildings, as well as canvas signage on market exterior walls, neon lights from cram schools, vermilion and gold characters at temples, mascots for local activities, municipal emblems and flags. It simultaneously contains “the order the state wants people to see” and “the things residents have added on for their own lives.”
+This synthetic image includes the red tiles, green columns, and symmetrical compositions of national memorial architecture, as well as canvas signs on market walls, scrolling LED displays of cram schools, bright red gold characters of temples, mascots of local events, and emblems and flags of county and city governments. It simultaneously contains "the order the state wants people to see" and "the things residents add themselves for daily life."
 
-Therefore, this term has at least eight dimensions. It is a dimension of architecture, and also of signage. It is a dimension of public facilities and municipal flags, and also of illegal constructions, wires, parking and maintenance. It also includes government procurement projects and publicity, whether aesthetics is taught in schools, and how a society decides which local styles are worth preserving.
+Therefore, this term has at least eight dimensions. It is a dimension of architecture, and also a dimension of signage. It is a dimension of public facilities and county/city flags, and also a dimension of illegal structures, power lines, parking, and maintenance. It also encompasses public sector bidding and promotion, whether schools teach people how to look, and how a society decides which local styles are worth preserving.
 
-| Dimension                  | Things visible on the street                                           | Underlying issues                                              |
-| -------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
-| History and authority      | Memorial buildings, national symbols, flags                            | Who is placed in the public eye, who is hidden                 |
-| Architecture and residence | Tiles, apartments, iron grilles, external balconies, rooftop additions | How housing needs and urban rules pull against each other      |
-| Business and signage       | Canvas, neon lights, fonts, scrolling lights                           | How businesses compete for attention on limited facades        |
-| Infrastructure             | Wires, air conditioning, transformers, roadside parking                | How public systems and private needs stack up                  |
-| Local identity             | Municipal flags, emblems, mascots, event visuals                       | What imagery a place uses to introduce itself                  |
-| Public sector design       | Promotional materials, posters, procurement results                    | How professionalism, budget and political expectations collide |
-| Education and maintenance  | Campuses, street cleaning, sign replacement                            | Whether aesthetics can become a daily capability               |
-| Exceptions and governance  | NTU Special Zone, Beimen, commercial district renovation               | Whether rules can let a place form its own order               |
+| Dimension                 | Things Visible on the Street                                       | Underlying Questions                                                |
+| ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| History and Regime        | Memorial architecture, national symbols, flags                     | Who is placed in the public view, and who is hidden?                |
+| Architecture and Housing  | Tiles, apartments, iron windows, protrusions, rooftop additions    | How do housing needs and urban rules pull against each other?       |
+| Commerce and Signage      | Canvas, neon lights, fonts, scrolling displays                     | How do merchants compete for attention on limited facades?          |
+| Infrastructure            | Power lines, air conditioners, transformer boxes, roadside parking | How do public systems and private needs stack together?             |
+| Local Identity            | County/city flags, emblems, mascots, event visuals                 | What images should a local place use to introduce itself?           |
+| Public Sector Design      | Promotional videos, posters, bidding results                       | How do professionalism, budget, and political expectations collide? |
+| Education and Maintenance | Campuses, street cleanliness, sign updates                         | Can aesthetic sense become a daily capability?                      |
+| Exceptions and Governance | Beida Special District, North Gate, commercial district renovation | Can rules allow places to form their own order?                     |
 
 ## Architecture Is Not Background, but a Gesture Left by Life
 
-On Taiwan’s streets, building facades rarely belong only to architects. A homeowner installs iron grilles for safety. Residents extend balconies for a bit more indoor space. Rooftop additions are for storage, living or making a living. Air conditioners hang on exterior walls because every room must face the heat and humidity. These actions may not conform to urban design ideals, but none of them are meaningless clutter.
+On Taiwanese streets, building facades rarely belong solely to architects. Homeowners install iron windows for safety. Residents protrude balconies to gain more indoor space. Rooftop additions are for storage, living, or doing business. Air conditioners hang on exterior walls because every room must face heat and humidity. These actions may not conform to the ideals of urban design, but they are not meaningless clutter.
 
-Street view criticism often treats them as evidence of “destroying aesthetics,” yet rarely asks who would bear the cost of safety, space and life if they were removed. This does not mean all extensions, additions or occupations of public space are reasonable. It only means aesthetic judgment cannot bypass living conditions. When building regulations and family needs are misaligned for a long time, the city grows the result of negotiation directly on the walls.
+Streetscape criticism often treats them as evidence of "destroying aesthetics," yet rarely asks who would bear the safety, space, and living costs if they were removed. This does not mean all protrusions, additions, or public space occupations are reasonable. It only means aesthetic judgment cannot skip over living conditions. When building codes and family needs are long out of sync, the city grows its negotiation results directly onto the exterior walls.
 
-Here, “Republic of China aesthetics” is not an actively chosen style, but the surface left behind by many small compromises. It looks messy because every family once added a sentence of its own to a building.
+"Republic of China aesthetics" here is not an actively chosen style, but a surface left by many small compromises. It looks chaotic because every family once added its own sentence to a building.
 
-📝 **Curator’s note:** The iron grilles on a wall are not just saying “this place is not beautiful.” They are also saying “the people here once needed a safer, larger room.”
+📝 **Curator's Note:** The iron windows on a wall are not just saying "this is not beautiful." They are also saying "the people here once needed a safer, larger room."
 
 ## Signage Is Commercial Competition, and Also Local Language
 
-In Taiwan’s mixed residential and commercial districts, signage can hardly retreat into the background. Residences, breakfast shops, clinics, cram schools, motorcycle shops and hardware stores may share the same row of shopfronts. Each store must let pedestrians know what it is selling, so signs become brighter, larger and more crowded with information. English-language case studies also point out that many Taiwanese urban districts mix residential and commercial uses, with merchants using bright or flashing signage to attract customers, often making the streetscape appear disordered and increasing visual fatigue.[^5]
+In Taiwan's mixed residential-commercial districts, signs can hardly retreat into the background. Residences, breakfast shops, clinics, cram schools, motorcycle dealerships, and hardware stores may share the same row of covered walkways (qilou). Every shop must let passersby know what it sells, so signs become brighter, larger, and pack more information. English streetscape cases also point out that many urban districts in Taiwan mix residential and commercial uses, with shops using bright or even flashing signs to attract customers, which easily makes the streetscape appear disordered and increases visual fatigue. [^5]
 
-The current _Regulations for the Administration of Signboard and Erected Advertisements_ are not entirely permissive. The Ministry of the Interior defines signboards and erected advertisements, allows certain sizes to be exempt from applying for miscellaneous licenses, and sets protruding distances, net heights, application reviews and permit durations. More importantly, Article 8 explicitly states that local governments may formulate placement regulations for the shape, color and font style of signage according to local characteristics.[^4]
+The current _Regulations on the Management of Signs, Advertisements, and Erected Advertisements_ is actually not entirely laissez-faire. The Ministry of the Interior defines signs and erected advertisements, stipulates that some sizes are exempt from miscellaneous permits, and sets protrusion distances, net height, application review, and permit periods. More importantly, Article 8 explicitly states that local governments may formulate setting specifications regarding the shape, color, and font type of signs based on local characteristics. [^4]
 
-This reveals an often-overlooked distinction. Whether regulations have tools, and whether the street has formed a common visual language, are two different things. The former concerns permits, sizes and safety. The latter deals with whether merchants are willing to change together, whether landlords can agree, who pays for design fees, and whether residents feel the new signage still belongs to their neighborhood.
+This reveals a frequently ignored distinction. Whether regulations have tools, and whether a common visual language forms on the street, are two different things. The former concerns permits, dimensions, and safety. The latter must address whether shop owners are willing to change together, whether landlords agree, who pays for design fees, and whether residents feel the new signs still look like their neighborhood.
 
-Taipei’s Beimen Street Sign Plan offers one direction. The design team first built a signage database, then invited residents, merchants, designers and manufacturers to discuss scale, position, lighting, color, font and materials, and finally had six designers and six shops collaborate on the renovation. The focus of this case is not to turn all storefronts into a single minimalist style, but to let the rules grow out of community discussions.[^5]
+The Taipei North Gate street sign project offers a direction. The design team first established a sign database, then invited residents, shop owners, designers, and fabricators to discuss scale, position, lighting, color, font, and materials, finally having six designers collaborate with six shops for renovation. The key to this case is not turning all storefronts into the same minimalist style, but letting rules grow out of community discussion. [^5]
 
-📝 **Curator’s note:** Good signage is not about silencing the street, but about giving each voice its own volume.
+📝 **Curator's Note:** Good signage does not mute the street; it lets every voice have its own volume.
 
-## Color, Fonts and “Additive Aesthetics”
+## Color, Font, and "Aesthetics of Addition"
 
-Videos often attribute the problem of Taiwan’s streetscapes to red-and-yellow color schemes, high color saturation, lots of text, and stretched or compressed fonts. These descriptions capture part of the visual experience, but “many colors” does not equal “no design.” Temples, glove puppetry curtains, night market lights and traditional markets may naturally use strong colors. The problem usually lies in the lack of a common scale among different objects, with everything trying to become the first focal point from a distance.
+Videos often summarize Taiwan's streetscape problems as red-and-yellow pairings, high saturation, too many characters, and fonts being stretched or flattened. These descriptions capture part of the visual experience, but "many colors" does not equal "no design." Temples,布袋戏 (布袋戏) trunks, night market lights, and traditional markets may inherently use strong colors. The problem usually lies in the lack of a common scale among different objects; everything wants to be the first focal point from a distance.
 
-A single sign can simultaneously carry a shop name, phone number, business items, discounts, franchise information, mascot and address. When every element is treated as information that cannot be deleted, design is left with nothing but stacking. This is what people call “additive aesthetics.” It is not necessarily born from ignorance; it may be that merchants fear customers won’t understand, or that supervisors fear the image won’t look lively enough.
+A sign can simultaneously have a shop name, phone number, business items, discounts, franchise information, a mascot, and an address. When every element is seen as indispensable information, design becomes mere stacking. This is what people call "aesthetics of addition." It does not necessarily stem from ignorance, but may also be shop owners fearing customers won't understand, or supervisors fearing the image won't look lively enough.
 
-But Taiwan’s problem is not only about “too much.” The commercial posters and alcohol advertisements of the Japanese colonial era also once used vivid images, figures, text and foreign imagination. These historical materials remind us that commercial visuals have always absorbed the technology, industry and trends of their time. What truly needs to be questioned is whether today’s design knows what it is referencing, and whether new elements can explain themselves to old streets.
+However, Taiwan's problem is not just "too much." Japanese-era commercial posters and liquor advertisements also once used vivid images, figures, text, and exotic imagination. This batch of historical materials reminds us that commercial visuals have always absorbed contemporary technology, industry, and trends. What truly needs inquiry is whether today's design knows what it is quoting, and whether it can let new elements and old neighborhoods explain each other. [^13]
 
-## Municipal Flags: The Most Easily Overlooked Public Visuals
+## County and City Flags: The Most Easily Ignored Public Visual
 
-If signage represents private commerce, municipal flags are the way local governments put themselves into the streetscape. They often appear on city halls, district offices, schools, sports fields, celebration stages and road entrances. The emblems, text, English names, colors and proportions on the flags form local identity together with buildings, event backdrops, uniforms and promotional vehicles.
+If signs represent private commerce, county and city flags are the method by which local governments place themselves into the streetscape. They often appear at city halls, district offices, schools, sports fields, festival stages, and road entrances. The emblems, text, English names, colors, and proportions on flags, combined with architecture, event backdrops, uniforms, and promotional vehicles, form local identity.
 
-This layer is often overlooked because people are used to treating flags as background. In fact, flags are very honest. They cannot slowly explain themselves like websites, nor can they add stories like long copy. They must be recognizable in the wind, from a distance, when folded and when passing quickly.
+This layer is often ignored because people are accustomed to treating flags as background. In fact, flags are very honest. They cannot explain slowly like a website, nor can they supplement stories like long texts. They must make people recognize where they are in the wind, from a distance, in folds, and in rapidly passing glances.
 
-The flag of Taoyuan City and the flag of Yilan County can both be found on Wikimedia Commons with directly embeddable public domain files. The value of these images is not to prove which flag looks better, but to let readers see that local identity is also part of urban design.[^8] [^9]
+Public domain files that can be directly embedded are available for the Taoyuan City Flag and the Yilan County Flag on Wikimedia Commons. The value of these images lies not in proving which flag looks better, but in letting readers see that local identity is also part of urban design. [^8] [^9]
 
-![Flag of Taoyuan City](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
+![Taoyuan City Flag](https://upload.wikimedia.org/wikipedia/commons/f/f1/Flag_of_Taoyuan_City.svg)
 
-_Image: Flag of Taoyuan City, Wikimedia Commons, Public domain/PD-ROC-exempt. File page: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Only hotlinking here, no image download._
+_Image: Taoyuan City Flag, Wikimedia Commons, Public domain/PD-ROC-exempt. File page: [Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg). Here only the hot URL is embedded; the image is not downloaded._
 
-The problem with municipal flags is very similar to that of signage. Too much text makes them look like a blur from a distance. Emblems stuffed with too many mountains, seas, rice ears, roads, technology and historical symbols cause the local story to lose its hierarchy. When colors have no usage rules, city flags, event flags, mascots and promotional backdrops each speak for themselves; lined up together, they create a visual feeling of “everyone represents the locality, but no one designs together.”
+The dilemma of county and city flags is similar to that of signs. Too much text makes it look like a blur from a distance. Emblems stuffed with too many mountains, seas, rice ears, roads, technology, and historical symbols cause local stories to lose layering. When colors have no usage regulations, city flags, event flags, mascots, and promotional backdrops speak independently; hanging them in a row creates a visual sense of "everyone represents the local area, but no one designed together."
 
-This is exactly the public version of “Republic of China aesthetics.” It is not the fault of any single flag, but the result of local governments placing identification, political slogans, tourism imagery and administrative functions all on the same image. Flags can be lively, but liveliness does not equal recognizability. Local culture does not need to be compressed into one mountain shape, one flower or five colors to be considered represented.
+This is the public version of "Republic of China aesthetics." It is not the responsibility of a single flag, but the result of local governments placing identity, political slogans, tourism imagery, and administrative functions all on the same image. Flags can be lively, but liveliness does not equal recognizability. Local culture does not need to be compressed into a mountain shape, a flower, or five colors to be considered represented.
 
-![Flag of Yilan County](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
+![Yilan County Flag](https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Yilan_County.svg)
 
-_Image: Flag of Yilan County, Wikimedia Commons, Public domain/PD-ROC-exempt. File page: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Only hotlinking here, no image download._
+_Image: Yilan County Flag, Wikimedia Commons, Public domain/PD-ROC-exempt. File page: [Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg). Here only the hot URL is embedded; the image is not downloaded._
 
-📝 **Curator’s note:** A flag is not the entirety of a place, but it exposes whether the local government knows what to keep and what to let go.
+📝 **Curator's Note:** A flag is not the whole of a place, but it exposes whether the local government knows what should be kept and what can be let go.
 
-## Wires, Air Conditioning and Parking: Infrastructure Also Has Aesthetics
+## Power Lines, Air Conditioners, and Parking: Infrastructure Also Has Aesthetics
 
-What is most often joked about in the streetscape is not the architecture itself, but where architecture meets infrastructure. Wires cross the sky, outdoor air-conditioning units hang on walls one by one, transformers stand at the edge of shopfronts, and motorcycles cut the sidewalk into narrow passages. These things are rarely the protagonists imagined by designers at the beginning, yet they affect every day how people walk, park and enter stores.
+The things most easily joked about in streetscapes are often not the buildings themselves, but where buildings meet infrastructure. Power lines span the sky, air conditioner outdoor units hang one by one on exterior walls, transformer boxes stand at the edge of covered walkways, and motorcycles cut sidewalks into narrow channels. These things are rarely the protagonists designers imagined at the start, yet they daily affect how people walk, park, and enter shops.
 
-Treating all of them as “mess” ignores the division of labor in the urban system. Wires may involve telecommunications and power supply. Air conditioning involves indoor thermal comfort. Parking involves residential density and traffic policy. Shopfronts are at the intersection of private property, public passage and commercial display. When different systems are not coordinated on the same map, the result is that residents fill in the gaps themselves.
+Viewing them all as "messy" ignores the division of labor in urban systems. Power lines may involve telecommunications and power supply. Air conditioners involve indoor thermal comfort. Parking involves residential density and traffic policy. Covered walkways are the intersection of private property rights, public passage, and commercial display. When different systems are not coordinated on the same map, the result is that residents fill in the gaps themselves.
 
-This is also why “Taiwan should be as tidy as Japan” is not a complete answer. Japanese cities also have signage, wires, old houses and private needs; they are just managed with different intensities of rules and maintenance in different areas. What Taiwan really needs to learn may not be the surface style of any particular country, but how to design public systems, private use and local life together.
+This is why "Taiwan should be as tidy as Japan" is not a complete answer. Japanese cities also have signs, power lines, old houses, and private needs; they are just managed by different regions using rules and maintenance methods of different intensities. What Taiwan truly needs to learn may not be the surface style of a certain country, but how to design public systems, private use, and local life together.
 
-## Public Sector Visuals: When Promotional Materials Also Become Streetscape
+## Public Sector Visuals: When Promotional Videos Become Part of the Streetscape
 
-Another dimension of “Republic of China aesthetics” that is often placed outside the streetscape is the posters, promotional materials, mascots, event visuals and community graphics that the public sector itself produces. They may not be hung on building facades, but they appear at bus stops, electronic billboards, roadside kiosks, school bulletin boards and mobile phone screens. When a government is accustomed to using lots of colors, large-character slogans and human actions to express “liveliness,” it brings additive aesthetics into public communication.
+Republic of China aesthetics has another dimension often placed outside the streetscape: visuals produced by the public sector itself, including posters, promotional videos, mascots, event main visuals, and social media graphics. They may not hang on building exteriors, but they appear at bus stops, TV walls, intersection billboards, school bulletin boards, and mobile phone screens. When a government is accustomed to using abundant colors, large-character slogans, and figures' actions to express "liveliness," it brings the aesthetics of addition into public communication.
 
-The reference video provided by the user puts the Ministry of Labor, Taichung City Transportation Bureau and Kaohsiung Tourism promotional materials together for discussion, and the interviewed designers criticize low-price bids, internal part-time work and supervisor opinions that may override professional judgment. These are the viewpoints of the video and interviewees, and should not be taken as a statistical conclusion for all public sector projects. A more cautious statement is that public sector visuals often face pressure from political visibility, administrative schedules, procurement budgets and professional quality at the same time.[^15]
+User-provided reference videos discuss labor ministry, Taichung City Transportation Bureau, and Kaohsiung tourism promotional videos together, with interviewed designers criticizing low-price bidding, internal concurrent positions, and supervisor opinions potentially overriding professional judgment. These are the views of the videos and interviewees, and should not be directly taken as statistical conclusions for all public sector projects. A more stable statement is that public sector visuals often simultaneously bear pressure from political visibility, administrative schedules, procurement budgets, and professional quality. [^15]
 
-Looking at it from the opposite angle, the Ministry of Education and the Taiwan Design Research Institute have been working on the Campus Aesthetic Design Project since 2019 to address learning environment issues in schools. The English official data states that, as of the publication of this page, 91 schools have completed aesthetic renovations, and some cases have won international design awards.[^6] This shows that the public sector is not only capable of producing visuals that are mocked. Systems can also become an entry point for design accumulation, on the premise that design is treated as a problem to be studied rather than decoration pasted on at the end.
+Conversely, the campus design project cooperated between the Ministry of Education and the Taiwan Design Research Institute has addressed learning environment issues for schools since 2019. English official data indicates that, as of the page's publication, aesthetic renovations for 91 schools have been completed, with cases winning international design awards. [^6] This shows that the public sector does not only produce visuals that are mocked. Institutions can become entry points for design accumulation, provided design is treated as a problem to be studied, rather than a decoration pasted on at the end.
 
-📝 **Curator’s note:** What “public sector aesthetics” needs to change most may not be color matching, but advancing the time to bring in designers.
+📝 **Curator's Note:** What "public sector aesthetics" needs to change most may not be color schemes, but bringing designers into the process earlier.
 
-## From Beimen to the NTU Special Zone: Exceptions Are Not Counterexamples, but Clues
+## From North Gate to Beida Special District: Exceptions Are Not Counter-Evidence, But Clues
 
-If Taiwan’s streetscape had no rules at all, there would be no Beimen, and no NTU Special Zone. The case of Taipei’s Beimen shows that when the elevated overpass was demolished and the historical landscape re-emerged, street signs and public space could be redesigned through community discussions. The NTU Special Zone is another kind of exception. It is not an old street renewal, but a special zoning plan that came first, and then let roads, buildings, green spaces and the university town imagine and land together.
+If Taiwan's streetscapes had no rules at all, there would be no North Gate, nor would there be a Beida Special District. The Taipei North Gate case shows that when overpasses are demolished and historical landscapes re-emerge, street signs and public spaces can be redesigned through community discussion. The Beida Special District is another kind of exception. It is not old street renewal, but a specific district plan that comes first, allowing roads, building setbacks, green spaces, and the imagination of a university town to land together.
 
-The New Taipei City Government’s announcement in 2024 confirmed that the second comprehensive review of the detailed plan for the National Taiwan University Community Development Zone would be implemented starting February 29, 2024.[^3] The existing Taiwan.md article also records in detail the urban planning, spatial aesthetics, population growth and social identity issues of the NTU Special Zone.[^10]
+Documents announced by the New Taipei Municipal Government in 2024 confirm that the second comprehensive review of the detailed plan for the Taipei University Community Specific District took effect on February 29, 2024. [^3] Existing Taiwan.md articles detail the urban planning, Xueqin Road spatial scale, residential development, population growth, and social identity issues of the Beida Special District. [^10]
 
-Therefore, the NTU Special Zone cannot be used to prove that “as long as it is tidy, it is good,” nor can it be romanticized into a problem-free aesthetic paradise. It is more like a systematic control group. When the scope, setbacks, roads, green spaces and building regulations are put into the same plan before development, the streetscape may indeed present a different result. But even in the NTU Special Zone, building height, parking, maintenance, population density and local identity will continue to generate friction.
+Thus, the Beida Special District cannot be used to prove "tidiness is all that matters," nor can it be romanticized as an aesthetic paradise without problems. It is more like an institutional control group. When scope, setbacks, roads, green spaces, and building rules are placed into the same plan before development, streetscapes may indeed present different results. But even in the Beida Special District, building height, parking, maintenance, population density, and local identity will continue to generate friction.
 
-The most important point of this exception is that it allows us to see that the streetscape is not only a mirror of national character. The streetscape is also the result of planning, regulations, land rights, construction quality and follow-up maintenance.
+The most important aspect of this exception is that it lets us see that streetscapes are not just mirrors of national character. Streetscapes are also the result of plans, regulations, land rights, construction quality, and subsequent maintenance.
 
-## Tainan’s Yongle Market: Tidiness Does Not Have to Mean Losing Local Flavor
+## Tainan Yongle Market: Tidy Does Not Necessarily Mean Losing Local Flavor
 
-Another worth-looking case is the signage renovation of Tainan’s Guohua Friendly Commercial District, promoted by the Ministry of Economic Affairs and the Taiwan Design Research Institute. The official data mentions that this renovation involved 41 signs, and integrated commercial district culture, shop stories and design guidance. The merchants were not simply asked to replace their signs with the same template, but to change the district together through redesign, shopfront tidying and local cultural narratives.[^1]
+Another example worth examining is the signage renovation in the Guohua-Youai Commercial District, promoted by the Ministry of Economic Affairs and the Taiwan Design Research Institute. Official data mentions that this renovation resulted in 41 signs, integrating commercial district culture, shop stories, and design introduction. Shop owners were not only required to replace signs with the same template; instead, the district was changed through redesign, storefront organization, and local cultural narratives. [^1]
 
-The significance of this event is not that Tainan has become “no longer messy.” The district will naturally grow, shops will change hands, sunshades will age, and festivals will re-hang flags. The real progress is that the place has begun to possess a language that can be discussed: Should the signage retreat? Does the color need to leave blank space? Which old fonts are worth preserving? Can public facilities work together with the merchants’ lives?
+The significance of this matter lies not in Tainan becoming "not messy" from now on. Districts naturally grow; shop owners change hands; awnings age; festivals re-hang flags. The true progress is that the local area begins to possess a discussable language: Should signs be set back? Does color need white space? Which old fonts are worth preserving? Can public facilities work together with shop owners' lives?
 
-Therefore, streetscape renovation does not have to choose between “complete unification” and “complete permissiveness.” Beimen’s community participation, Tainan’s commercial district renovation and the NTU Special Zone’s urban planning are all trying a third way: making the rules clear while still giving the locality the right to speak.
+Therefore, streetscape renovation does not have to choose between "total uniformity" and "complete laissez-faire." Community participation at North Gate, commercial district renovation in Tainan, and urban planning in the Beida Special District are all attempting a third path: letting rules be clear, while letting places still have the right to speak.
 
-## Aesthetic Education Is Not About Teaching People to Despise Others’ Homes
+## Aesthetic Education Is Not Teaching People to Despise Others' Homes
 
-If “Republic of China aesthetics” is only taught as “frowning at corrugated iron roofs,” education will only produce new class tastes. True aesthetic education should enable people to distinguish color, proportion, material, font, circulation, sound and maintenance, and also understand why an object is there and who needs it.
+If Republic of China aesthetics is only taught as "frowning at tin sheds," education will only create new class tastes. True aesthetic education should enable people to distinguish color, proportion, material, font, flow, sound, and maintenance, and also to understand why an object is there and who needs it.
 
-The Ministry of Education’s third-term aesthetic education medium- to long-term plan lists aesthetic support, aesthetic extension, aesthetic sustainability and aesthetic localization as goals, and takes talent cultivation, curriculum implementation, learning environment, international connections and support system as promotion directions. The plan also connects aesthetics with living environment, cultural heritage, local identity and community learning.[^7]
+The Ministry of Education's Third Phase Medium- and Long-Term Plan for Aesthetic Education lists aesthetic support, aesthetic diffusion, aesthetic sustainability, and local aesthetics as goals, and lists talent cultivation, curriculum practice, learning environments, international linkage, and support systems as promotion dimensions. The plan also connects aesthetics with living environments, cultural heritage, local identity, and community learning. [^7]
 
-This direction is important because streetscape problems cannot be solved by designers alone. Merchants need to know how to negotiate with neighbors. Officials need to know how to write requirements that do not suppress design. Students need to learn to see public space. Residents need to be able to say what local feeling they want to keep, rather than only accepting “experts say this looks better.”
+This direction is important because streetscape problems cannot be solved by designers alone. Shop owners must learn to negotiate with neighbors. Civil servants must know how to write requirements that do not stifle design. Students must learn to see public spaces. Residents must be able to articulate the sense of place they want to preserve, rather than only accepting "experts say this is more beautiful."
 
-📝 **Curator’s note:** Aesthetic education is not about training everyone into the same taste, but about giving more people the ability to participate in “where we choose to live together.”
+📝 **Curator's Note:** Aesthetic education is not training everyone into the same taste, but enabling more people to participate in "where we want to live together."
 
-## The Real Questions Left by Those Videos
+## The Questions Left by Those Videos
 
-Although the six reference videos differ in tone, material and position, they all leave three questions. First, is the chaos of Taiwan’s streetscape an aesthetic problem, or a problem of housing, commerce and governance not being handled at the same time? Second, is local identity about stuffing all symbols into a city emblem and flag, or about choosing a clear, extensible language that residents are willing to use? Third, when the government says it wants to improve the city’s appearance, whose city appearance is being improved?
+Although the six reference videos differ in tone, materials, and stance, they jointly leave three questions. First, is the chaos of Taiwan's streetscapes an aesthetic problem, or a problem where living, commerce, and governance were not handled simultaneously? Second, is local identity about stuffing all symbols into emblems and flags, or can it choose a clear, extendable language willing to be used by residents? Third, when the government says it wants to improve city appearance, whose city appearance is being improved?
 
-These three questions also create cracks in the term “Republic of China aesthetics.” It can describe a real visual fatigue, but it cannot blame all residents, merchants, designers and officials for not caring about beauty. It can point out the commonalities of red-and-yellow color schemes, dense text and object stacking, but it cannot erase the life histories of markets, temples, old signage, municipal flags and immigrant families.
+These three questions also create fissures in the term "Republic of China aesthetics." It can describe a real visual fatigue, but cannot blame all residents, shop owners, designers, and civil servants for not caring about beauty. It can point out the common sense of red-yellow pairings, dense text, and object stacking, but cannot thereby erase the respective living histories of markets, temples, old signs, county/city flags, and immigrant families.
 
-What is most worth keeping is actually the opposite side of this term. When a place begins to be willing to discuss the proportions of flags, the lighting of signage, the walking space of shopfronts, the entrance of schools, the maintenance of streets and the visibility of historical buildings, Taiwan is not only a streetscape being observed, but also a city that can be jointly edited.
+What is most worth leaving is actually the opposite of this term. When a place begins to be willing to discuss flag proportions, sign lighting, covered walkway walking, school entrances, street maintenance, and the visibility of historical architecture, Taiwan is no longer just a viewed streetscape, but a city that can be co-edited.
 
-## Conclusion: Don’t Erase Taiwan’s Messiness, Let It Be Understood
+## Conclusion: Do Not Erase Taiwan's Chaos, First Let It Be Understood
 
-Taiwan does not need to turn every street into Kyoto, nor does it need to change all signage into a low-saturation uniform font. That would erase the differences in local life, and mistake tidiness as the only beauty.
+Taiwan does not need to turn every street into Kyoto, nor does it need to change all signs to the same low-saturation font. That would erase the differences in local life and mistake "tidiness" for the only beauty.
 
-What is more worth pursuing is to let things at different scales know about each other. Let municipal flags have clear identification, let public sector visuals have a sustainable system, let signage find a negotiation between business needs and street scale, let iron grilles, air conditioning and wires no longer rely on each resident filling gaps, and let the NTU Special Zone be studied rather than shown off.
+What is more worth pursuing is letting things of different scales know each other's existence. Let county and city flags have clear identity; let public sector visuals have sustainable systems; let signs find negotiation between commercial needs and street scale; let iron windows, air conditioners, and power lines no longer rely solely on residents filling in gaps themselves; let exceptions like the Beida Special District be studied, not just shown off.
 
-The most useful moment of “Republic of China aesthetics” is not when it is used to mock an old apartment complex or a municipal flag, but when it forces us to see: the look of a city has never grown naturally, nor has it been born from any national character. It is the composite image left behind by every construction, addition, flag-raising, signage, procurement, maintenance, education and vote.
+The most useful moment for "Republic of China aesthetics" is not when it is used to mock an old apartment building or a county/city flag, but when it forces us to see: A city's appearance is never naturally grown, nor is it innate to a certain people. It is a synthetic image left by every construction, addition, flag-hanging, sign, bidding, maintenance, education, and vote.
 
-📝 **Curator’s note:** The true beauty of a city is not to wipe away the traces of life, but to let the traces of life not step on each other, yet still appear together in the frame.
+📝 **Curator's Note:** A city's true beauty is not wiping clean the traces of life, but letting those traces not step on each other, yet still appear together in the frame.
 
 ## Further Reading
 
-- [NTU Special Zone: A Thirty-Year Urban Plan and University Town Life Experiment](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — An existing Taiwan.md entry that delves into the urban planning, spatial aesthetics, population and local identity of the NTU Special Zone.
-- [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Taking Taipei’s Beimen Street Sign Plan as an example, explaining community participation, signage regulations and public space design.
-- [Ministry of Education Aesthetic Education Medium- to Long-Term Plan Third Five-Year Plan](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Understanding living aesthetics and local practice from educational policy.
+- [Beida Special District: Thirty Years of Urban Planning and University Town Life Experiments](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Existing Taiwan.md entry, deeply handling the Beida Special District's urban planning, spatial aesthetics, population, and local identity.
+- [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — Using the Taipei North Gate street sign project as an example, explaining community participation, sign regulations, and public space design.
+- [Ministry of Education Medium- and Long-Term Plan for Aesthetic Education, Third Phase Five-Year Plan](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Understanding living aesthetics and local practice from educational policy.
 
 ## References
 
-[^1]: [Ministry of Economic Affairs: Integrating Aesthetic Design with Local Culture, Recreating the New Look of the Commercial District](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — The Ministry of Economic Affairs, Small and Medium Enterprise Administration explains the 41-sign renovation of Tainan’s Guohua Friendly Commercial District, as well as design-added value cases in Changhua and Kaohsiung commercial districts.
+[^1]: [Ministry of Economic Affairs: Integrating Aesthetic Design and Local Culture to Remake New Commercial District Features](https://www.moea.gov.tw/MNS/POPULACE/news/News.aspx?kind=1&menu_id=40&news_id=116221) — The Department of Commerce of the Ministry of Economic Affairs explains the renovation of 41 signs in the Tainan Guohua-Youai Commercial District, as well as design value-added cases for Changhua and Kaohsiung commercial districts.
 
-[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — An English-language case study records the demolition of Taipei’s Beimen elevated overpass, the update of street signs, and the process of residents, merchants and designers discussing together.
+[^2]: [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — English streetscape case recording the demolition of the Taipei North Gate overpass approach, street sign updates, and the joint discussion process of residents, shop owners, and designers.
 
-[^3]: [New Taipei City Government, Department of Urban Development: Amendment to the Detailed Plan of the National Taiwan University Community Development Zone](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — New Taipei City Government announces the second comprehensive review of the detailed plan of the NTU Special Zone, implemented starting February 29, 2024.
+[^3]: [New Taipei Municipal Government Urban and Development Bureau: Announcement on Changing the Detailed Plan for the Taipei University Community Specific District](https://www.planning.ntpc.gov.tw/home.jsp?id=24&act=be4f48068b2b0031&dataserno=79030b223655d19aa481d4ae626d9603) — The New Taipei Municipal Government announces the second comprehensive review of the Beida Special District detailed plan, taking effect from February 29, 2024.
 
-[^4]: [Ministry of the Interior: Regulations for the Administration of Signboard and Erected Advertisements](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — The Ministry of the Interior’s legal database defines signboards and erected advertisements, stipulates sizes, permits, safety and local government authority to formulate regulations on shape, color and font.
+[^4]: [Ministry of the Interior: Regulations on the Management of Signs, Advertisements, and Erected Advertisements](https://glrs.moi.gov.tw/LawContent.aspx?id=FL030498) — Ministry of the Interior regulation page defining signs and erected advertisements, stipulating dimensions, permits, safety, and that local governments may formulate shape, color, and font specifications.
 
-[^5]: [The City at Eye Level: Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — An English-language case study explains the signage competition in Taiwan’s mixed residential and commercial districts, the 1996 Taipei signage regulations and the Beimen community participatory renovation.
+[^5]: [The City at Eye Level: Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — English case explaining sign competition in Taiwan's mixed residential-commercial districts, the 1996 Taipei sign regulations, and the North Gate community participatory renovation.
 
-[^6]: [Taiwan Ministry of Education: Taiwan’s Campus Aesthetic Revamp Shines on the Global Stage](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — The Ministry of Education’s English page introduces the campus design project that has been using design thinking to improve learning environments since 2019, and records international awards and media attention.
+[^6]: [Taiwan Ministry of Education: Taiwan's Campus Aesthetic Revamp Shines on the Global Stage](https://english.moe.gov.tw/cp-117-39898-01fb5-1.html) — Ministry of Education English page introducing the campus design project improving learning environments through design thinking since 2019, and recording international awards and media attention.
 
-[^7]: [Ministry of Education: Aesthetic Education Medium- to Long-Term Plan Third Five-Year Plan](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — The Ministry of Education policy document explains the budget, goals, promotion directions and local practice directions of aesthetic education from 2024 to 2028.
+[^7]: [Ministry of Education: Medium- and Long-Term Plan for Aesthetic Education, Third Phase Five-Year Plan](https://www.edu.tw/News_Plan_Content.aspx?n=D33B55D537402BAA&sms=954974C68391B710&s=E2142AAB3D722F82) — Ministry of Education policy document explaining the budget, goals, promotion dimensions, and local practice directions for aesthetic education from 2024 to 2028.
 
-[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — The Wikimedia Commons file page records the image of Taoyuan City’s flag, marked as Public domain/PD-ROC-exempt, suitable for direct hotlinking.
+[^8]: [Wikimedia Commons: Flag of Taoyuan City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Taoyuan_City.svg) — Wikimedia Commons file page recording the Taoyuan City Flag image, marked Public domain/PD-ROC-exempt, suitable for hot URL embedding.
 
-[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — The Wikimedia Commons file page records the image of Yilan County’s flag, marked as Public domain/PD-ROC-exempt, suitable for direct hotlinking.
+[^9]: [Wikimedia Commons: Flag of Yilan County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yilan_County.svg) — Wikimedia Commons file page recording the Yilan County Flag image, marked Public domain/PD-ROC-exempt, suitable for hot URL embedding.
 
-[^10]: [Taiwan.md: NTU Special Zone: A Thirty-Year Urban Plan and University Town Life Experiment](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — The existing Taiwan.md entry fully handles the history, urban planning, Shui-Yin Road, architecture, population, transportation, gentrification and land justice of the NTU Special Zone.
+[^10]: [Taiwan.md: Beida Special District: Thirty Years of Urban Planning and University Town Life Experiments](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — Existing Taiwan.md entry fully handling the Beida Special District's history, urban planning, Xueqin Road, architecture, population, transportation, gentrification, and land justice.
 
-[^11]: [YouTube: Let’s Talk About Aesthetic Things Together](https://www.youtube.com/watch?v=m_NTelUFF8I) — Landon’s video discusses the formation of “Republic of China aesthetics” through Taiwan’s streetscapes, signage, iron grilles, rooftop additions and public visuals.
+[^11]: [YouTube: Let's Talk About Those Matters of Aesthetics](https://www.youtube.com/watch?v=m_NTelUFF8I) — Landon's video discusses the formation of "Republic of China aesthetics" through Taiwan's streetscapes, signs, iron windows, rooftop additions, and public visuals.
 
-[^12]: [YouTube: National Aesthetics and Where It Fails](https://www.youtube.com/watch?v=0ltZtVaHV84) — The Ramen Shop of Yeet’s video discusses the criticism context of “national aesthetics” from architecture, color, signage and maintenance.
+[^12]: [YouTube: Hua Guo Aesthetics and Where It Failed](https://www.youtube.com/watch?v=0ltZtVaHV84) — Jia YEET's Instant Noodle House video discusses the critical context of "Hua Guo aesthetics" from architecture, color, signs, and maintenance.
 
-[^13]: [YouTube: Pictures Tell the Truth: Commercial Posters of the Japanese Colonial Era](https://www.youtube.com/watch?v=fMR-z-lcols) — The Sawamura Shashinkan video uses Japanese-era commercial posters, alcohol advertisements and historical streetscapes to supplement the prehistory of Taiwan’s visual culture.
+[^13]: [YouTube: Pictures Speak Louder Than Words: Commercial Posters of the Japanese Era](https://www.youtube.com/watch?v=fMR-z-lcols) — Zuo Rong Photography Studio video supplements Taiwan's visual culture's pre-history using Japanese-era commercial posters, liquor advertisements, and historical streetscapes.
 
-[^14]: [YouTube: Street Observations in Osaka, Episode 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Landon’s video compares the signage, fonts, colors, street order and Tainan Yongle Market design renovation between Osaka and Taiwan.
+[^14]: [YouTube: Street Observations During Osaka Trip, Episode 2](https://www.youtube.com/watch?v=Rtk1LFj8CbA) — Landon's video compares Osaka and Taiwan's signs, fonts, colors, street order, and the design renovation of Tainan's Yongle Market.
 
-[^15]: [YouTube: What’s Wrong with Taiwan’s Public Sector Aesthetics?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — The Liberty Times News video discusses public visual quality through government promotional materials, procurement, professional division of labor and aesthetic education.
+[^15]: [YouTube: What's Wrong with Taiwan's Public Sector Aesthetics?](https://www.youtube.com/watch?v=n7nEmfc3Pkc) — Free Chase News video discusses public visual quality through public sector promotional videos, bidding, professional division of labor, and aesthetic education.
 
-[^16]: [YouTube: Why Is Taiwan’s Streetscape So Ugly? The Origin of Republic of China Aesthetics](https://www.youtube.com/watch?v=CA-EpOj72d4) — The cheap video proposes the “Republic of China aesthetics” commentary framework from streetscapes, illegal constructions, public facilities, regulations and historical mindset.
+[^16]: [YouTube: Why Are Taiwan's Streetscapes So Ugly? The Origin of Republic of China Aesthetics](https://www.youtube.com/watch?v=CA-EpOj72d4) — cheap's video proposes a critique framework for "Republic of China aesthetics" from streetscapes, illegal structures, public facilities, regulations, and historical mindsets.
 
-[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — The Wikimedia Commons file page records a photo of Chinese signage on a Taipei street corner, marked as CC0/Public domain, suitable for direct hotlinking.
+[^17]: [Wikimedia Commons: Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg) — Wikimedia Commons file page recording a photo of Chinese signs on Taipei streets, marked CC0/Public domain, usable for direct hot URL embedding.
 
-![Chinese signage on a Taipei street corner](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
+![Chinese Signs on a Taipei Street Corner](https://upload.wikimedia.org/wikipedia/commons/e/eb/Taipei_street_signs.jpg)
 
-_Image: Chinese signage on a Taipei street corner, Wikimedia Commons, CC0/Public domain. File page: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Only hotlinking here, no image download._
+_Image: Chinese Signs on a Taipei Street Corner, Wikimedia Commons, CC0/Public domain. File page: [Taipei street signs.jpg](https://commons.wikimedia.org/wiki/File:Taipei_street_signs.jpg). Here only the hot URL is embedded; the image is not downloaded._

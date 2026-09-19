@@ -1,0 +1,18 @@
+{
+  "revision": 79,
+  "submissionId": "2642a0a1-ee71-436c-a7b6-e11e35ae7788",
+  "actor": "release-editor-2 (Opus agent a89ff844ab4186b3f, fresh context, named editor, 非第一輪編輯)",
+  "verdict": "revise",
+  "rationale": "上一輪四條大致修到位，立場兩邊查過沒替誰收尾。退回一處：L269「門外那三百多萬人，也不在這間會議室的分母裡」與 L121 移工薪資隨最低工資調整、L263 審議會法定任務含時薪直接矛盾——部分工時與產業移工約 110 萬正是這間會議室決定的對象，只有自營作業者、雇主、無酬家屬與家庭看護工才在最低工資法外；把統計分母與法律適用範圍混成一格，倒數第二段製造新的不實。remainingLimits 第 7 條同步區分。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L269；對照 L121／L263／L108"
+    },
+    {
+      "path": "reports/staging/low-wage/release-submission.json",
+      "location": "remainingLimits 第 7 條"
+    }
+  ],
+  "contextDisclosure": "fresh-context-named-editor"
+}

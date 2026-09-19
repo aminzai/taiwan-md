@@ -1,0 +1,34 @@
+{
+  "revision": 43,
+  "submissionId": "4d0ee34f-f8e9-4cad-aaf6-64002b1711bd",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "三處新引證全部回原文本核過都成立：(1) curl 經濟部 6/20 稿 news_id=123075，標題逐字「維持亞鄰最低價及調降貨物稅 汽、柴油各吸收3.7元及2.1元」、內文「已分別吸收3.7元及2.1元（附表1）」、全文無「再吸收」「專案平穩」；另從中油新聞稿列表頁核 6/27（s=112465）與 7/4（s=112492）稿標題同式，s3「降價那三週⋯中油自己那一欄沒有數字」與 [^17] 補述準確；(2) 9/12 稿 92／95／98 各 +0.7、6/20 稿各 −1.0，「各級汽油每週調的是同一個金額」撐得住且標了「從逐週新聞稿看」；(3) H2-4「公式每改一次都在重劃中油那一份」被 s4 的 2008/8 多元吸收、2018 級距、2025/12 門檻（加圖說 2012 合理化）撐住。分桶採納十二條都落在正文，s7 支持方前移後正反交錯，§13 守住，不採三條理由成立；health 全掃與 rewrite-stage-4 hard=0 warn=0，prose-health 1。擋下一處算術錯：s8 新句「9 月 14 日那份新聞稿的 32.7 加 11.2 是 43.9，兩份數字差一塊多」——11.2 是公式價與前一週 32.0 元牌價的差距（10.5 吸收＋0.7 漲，s2 自己就這樣切），公式價＝32.0＋11.2＝43.2＝32.7＋10.5，拿 32.7 再加 11.2 把 0.7 算了兩次，45.4−43.2＝2.2 應為「兩塊多」。改法：「9 月 14 日那份新聞稿的公式價，是 32.7 加上還在吸收的 10.5，約 43.2，跟 45.4 差兩塊多，算的不是同一週」；順手把 s2「比 95 無鉛的牌價高 11.2 元」寫成「比前一週 32.0 元的牌價高 11.2 元」。改完即 accept。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「那 36 元，會用三種方式回到帳上」經濟部估算段末句「32.7 加 11.2 是 43.9，兩份數字差一塊多」；H2「一份新聞稿裡的算式」「比 95 無鉛的牌價高 11.2 元」與分攤句"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「凍漲二十週」第二段「降價那三週新聞稿標題寫的吸收只剩貨物稅那『3.7元及2.1元』」與腳註 [^17]；H2「一份新聞稿裡的算式」「從逐週新聞稿看，各級汽油每週調的是同一個金額」[^4][^17]；H2-4 標題與四個節點"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v5.json",
+      "location": "data.editorialChoices 末段 v5"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission-v2.json",
+      "location": "第二輪 7 困惑／5 重複／8 強推（分桶見 cold-read-review-v2.md）"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§11 #1（10.5＋0.7＝11.2 是公式價與前週牌價之差）、#3；§8.A 2-1 逐週表 6/20–7/4 三列"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v5.md",
+      "location": "全文"
+    }
+  ]
+}

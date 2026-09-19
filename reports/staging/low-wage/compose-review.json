@@ -1,0 +1,22 @@
+{
+  "revision": 26,
+  "submissionId": "0284a4e3-5e52-44a9-990a-ab0817a9b713",
+  "actor": "compose-reviewers = 2.5-R 正文結構編輯室兩席（Sonnet 結構主編 a9ddf2804043d2ec1 ＋ Sonnet 論點兌現 accfb371bc3b91fc4，各自乾淨 context，只讀藍圖＋正文）；主編（主 session）合成",
+  "verdict": "accept",
+  "rationale": "結構主編：八個 H2 與藍圖骨架逐字對應、依賴鏈依序兌現、壓成一步的材料未攤開；論點兌現：論點在六處以上迴帶、中段三處真正推進（比例不變人數變／墨西哥哥倫比亞反例／零人是政策效果）、結尾收在 9/24 與薪資單無罐頭。一項建議級缺口（section 3 藍圖三圖只落地兩圖，缺 tw-dot 群體對線圖）併入 verify 站批修，不擋進冷讀。稿子能用材料支撐，不需回 investigate。",
+  "evidence": [
+    {
+      "path": "reports/editorial-room/誰算低薪-prose-structure-review.md",
+      "location": "§各席 兩席 verdict 與 evidence"
+    },
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "八個 H2；section 3-7 尾句；結尾段"
+    },
+    {
+      "path": "reports/article-projection/誰算低薪.md",
+      "location": "§2 骨架與 §5 echo map"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only（兩席只讀藍圖與正文，未讀研究報告與寫作歷程）"
+}

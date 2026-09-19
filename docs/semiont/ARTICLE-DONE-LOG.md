@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-08-23
-last_session: '2026-08-23-020617-twmd-weekly-report-sun（W34 體檢桶 1：補登 8/18-8/19 三篇走完產線卻沒登記的交付——陳致中／中央研究院／比國家還大的演算藝術，由上週新造的 §六 fail-loud 警告照出來）'
+last_updated: 2026-09-18
+last_session: '2026-09-18-semiont-heartbeat（inbox-audit 🟠 兩條貢獻者已交稿的 NEW 條目歸檔：鐵窗花／台灣行動支付）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -59,6 +59,76 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 金鐘獎 NEW — 2026-09-18 golden-bell session 完成（一座 1965 年為廣播鑄的鐘，六十一年記下誰對全島說話）
+
+- **Article**: [knowledge/Culture/金鐘獎.md](../../knowledge/Culture/金鐘獎.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 stage contracts ＋ Rewrite Guide 互動式協定（run id `golden-bell-20260918`，orient→investigate→compose→cold-read→verify→release 六站全部乾淨 context 評閱；compose 23 次提交／20 次 delta 評閱、冷讀 15 位讀者／13 輪評閱、verify 3 輪、release 站主編兩輪（第一輪 revise 抓到 2010「製作公司與頻道並排」是維基欄位格式推論））。run_profile: standard-lite。來源：2026-09-18 news-radar P0
+- **spine**：立體群像（P7 週期活動記事＋M1 認識導覽前置）＋時代縮影（主）／傳承與世代（輔）
+- **論點**：名單記錄，它不決定——獎勵要點決定門的位置，評審決定門內誰得獎；戲劇節目獎「得獎單位」那一欄六十一年的變化（老三台獨佔十七年→民視公視→大愛客家→三立八大→福斯、台灣大哥大、Netflix）記的是台灣把「說故事給全島聽」的位置交到誰手上
+- **Hook**：1965 年 7 月 10 日中山堂，嚴家淦頒出八座金鐘，七家電台分走，電視還不在獎勵範圍裡
+- **品質**：7,000 CJK ／ 71 腳註零孤兒 ／ 5 張 Commons CC 圖（WebP）＋1 支官方頻道影片 ／ 5 個 `tw-*` 模組 ／ rewrite-stage-4 hard=0 warn=0 ／ rewrite-stage-3-5 hard=0 warn=0 ／ prose-flow 0/3 ／ prose-health warn 1（新聞稿逐字引文內全形分號，保留）／ fact-atom-diff PASS ／ rationale 四鍵齊
+- **Research**: [reports/research/2026-09/金鐘獎.md](../../reports/research/2026-09/金鐘獎.md)（三 lane 合成單檔，82 來源，`research-report-health --tier=depth` hard=0 warn=0）；投影 [reports/article-projection/金鐘獎.md](../../reports/article-projection/金鐘獎.md)；審計 stage35／stage36 ／ 定稿站 `reports/article-evolve/金鐘獎-closing.md`
+- **大事實修正**：研究報告與 Stage 0 誤讀維基列表，把 2011 第 46 屆戲劇節目獎記成《犀利人妻》——影視局 100 年得獎名單一手推翻，正確是客家電視《雲頂天很藍》；「八家電台」→ 七家（中廣兩座）；「公視入圍最多」無跨單位來源 → 改自報 60 項；「廣播早一週」逐屆回官方頁；維基預填「2026《我們六個》」不採；2010《情義月光》「與頻道並排」改為「得獎單位第一次寫進製作公司」（影視局 99 年名單）；戲劇節目獎 1971–78 前身「大眾娛樂性節目」補進沿革
+- **敏感素材處理**：未過廣播特別獎門檻的當事人全篇不具名（Stage 2 護欄），但「鼓勵不是沒收」經原報導 curl 確認為其本人直言，正文寫身份不寫姓名；公視「最大入圍者／轉播方／額度被算一份」三事實並排並明寫用意，不做球員兼裁判暗示；「政治介入」質疑只記提問與曹瑞原回應，並寫明報導未載質疑方
+- **Cross-link**：forward 五條；reverse 補進公視／台灣綜藝／植劇場／台灣電視產業史／八點檔；金曲獎 pre-existing prose-health HARD 依 Stage 5.3 defer → [#1748](https://github.com/frank890417/taiwan-md/issues/1748)
+- **待觀察者驗證**：典禮 10/17、10/23、10/24 尚未舉行，文章停在名單已印；頒獎後需 EVOLVE-delta 補結果
+- **2026-09-19 v2 觀點重做**（哲宇 callout：文謅謅／堆砌／數字過重；v6.7 單檔 pipeline 實驗，session golden-bell-v2）：論點改為「金鐘每年替台灣劃一條線：誰算得上我們的電視，誰還在線外」；開場從八家電台名單改為 2022 陳亞蘭得男主角獎那一晚；補一輪只找人的研究（賈靜雯／呂蒔媛／龍劭華 2019 感言、連炳發、楊小黎、王一明、吳進成、莊凱勛、羅世宏）；tw-\* 5→2、腳註 71→59、7,329→4,538 字；抓到 v1 圖說「後台、身穿西裝」與研究報告「鼓勵不是沒收」歸屬兩處錯；stage35／stage36 v2 audit 落 `reports/research/2026-09/金鐘獎-v2-stage3[56]-audit.md`；標題改「三台輪了十七年之後，台灣每年替「我們的電視」劃一次線」（v1 工單說不換標題，v2 追加要求觀點重做，主 session 可退回）
+
+### 鐵窗花 — 2026-09-18 semiont-heartbeat 歸檔（貢獻者 idlccp1984 於 2026-08-20 以 PR 交稿，非走產線）
+
+- **Article**: [knowledge/Culture/鐵窗花.md](../../knowledge/Culture/鐵窗花.md)
+- **Pipeline**: 無——貢獻者投稿（PR merge `ec3d660ca3`），INBOX 條目（2026-07-18 branch-analysis 台灣建築 P2）由 inbox-audit 🟠 STALE-NEW 抓到後歸檔
+- **品質**：3660 CJK ／ 11 腳註；`lastHumanReview: false`，仍是未審初稿（FACTCHECK 巡邏抽樣母體）
+- **原 entry 留的提醒**：深度依賴老屋顏工作室單一田野來源；若日後 EVOLVE，圖案地域分類要找第二研究體系交叉
+- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §一（可供 EVOLVE 用）
+
+### 台灣行動支付 — 2026-09-18 semiont-heartbeat 歸檔（貢獻者 Kevin Huang 於 2026-09-01 交稿，非走產線）
+
+- **Article**: [knowledge/Technology/台灣行動支付.md](../../knowledge/Technology/台灣行動支付.md)
+- **Pipeline**: 無——貢獻者投稿（commit `6c937d2f0a`），INBOX 條目（2026-04-23 dead-cross-ref-scan P3）由 inbox-audit 🟠 STALE-NEW 抓到後歸檔
+- **品質**：5451 CJK ／ 18 腳註；`lastHumanReview: false`
+- **原 entry 的切角**（供 EVOLVE 對照）：Line Pay 一強 / 街口 / 全支付 / 台灣 Pay / 悠遊付；為什麼台灣支付落後韓國日本——銀行勢力、信用卡盛行、現金文化
+
+### 台灣油價機制與中油 — 2026-09-18 oil-price 完成（牌價漲七毛，中油先吸收兩百億）
+
+- **Article**: [knowledge/Economy/台灣油價機制與中油.md](../../knowledge/Economy/台灣油價機制與中油.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 — NEW 模式 ＋ 互動式 REWRITE 協定（`twmd.mjs rewrite`，run id `oil-price-20260918`，orient→investigate→compose→cold-read→verify→release 六站全 accept、`ready-for-publication`）。run_profile: standard-lite（派工單指示；第三型依路由應為 standard，差額以 Stage 3 兩位 verifier＋定向再驗＋互動協定五輪冷讀補強）
+- **spine**：第三型多觀點立場議題探討矛盾型（矛盾驅動＋手法 5 並陳、手法 4 開場收尾），M3 事件追蹤
+- **論點**：牌價只漲七毛，因為同一公升被三份帳分攤（財政部當週少收的稅、你付的牌價、中油先記在自己帳上的那一份）；這場爭論吵的是第三份帳該用哪個口徑算（中油週報 198.5 億、追加預算 1,014.31 億、在野口中的「哪一種重大事故」彼此對不上），而利息、將來要還的錢、誰用得最多三筆還沒人端上桌
+- **Hook**：2026-03-22 週日晚上八點半，雲林雅虎加油站每個入口至少十輛車，站員用三角錐隔出動線；婦女加二十公升「省了36元，省就是賺」，八十多歲阿嬤騎車來時油箱是滿的
+- **品質**：5,854 CJK／51 腳註／3 張 CC 圖（本地 WebP）／12 個 `tw-*` 模組各附來源行／article-health 全掃、rewrite-stage-3-5、rewrite-stage-4 hard=0 warn=0／image-health 3 圖／wikilink、link-target 0／research-report-health depth PASS／Stage 3.5 幻覺稽核與 3.6 story-atom 稽核 PASS／footnote-url 24 warn 為 .gov.tw 憑證鏈與 UA 403，curl 逐條 200
+- **Research**: [reports/research/2026-09/台灣油價機制與中油.md](../../reports/research/2026-09/台灣油價機制與中油.md)（單檔 SSOT，三 lane 合成，§10 Stage 3 audit＋§11 冷讀回修查證八條；sources/ 逐字文本 40 檔）
+- **投影／編輯室**：[reports/article-projection/台灣油價機制與中油.md](../../reports/article-projection/台灣油價機制與中油.md)；2.0-R 三席、2.5-R 兩席＋四探針、Step 3.8 定稿手，全部乾淨 context；互動協定各站評閱與冷讀交件在 `reports/staging/oil-price/run/`
+- **大事實修正**：lane A 一句不存在的中油 4/8 聲明（「並無媒體所稱超漲⋯抹煞員工努力」）被 verifier 抓下改真逐字；2006 公式非週均 7D3B；資本額 1,301 億三源皆無不寫；[^20] 自由時報連結是 2012 舊文；香港 1.8→18 億港元；TVBS「NT$90.6 billion」誤譯；冷讀抓到「應漲 11.2 元」寫錯量（是公式價對前一週牌價的累積差距）、「回收條款還沒啟動」查無、1,014.31 含不含天然氣經濟部「油氣」與次長「汽柴油」兩說；定稿主編抓到 4,217.69 含 70 億防汛（補貼加增資是 4,147.69）與 32.2 元隔天零時才生效
+- **Cross-link**：forward 4（發票、台塑集團、電網韌性、氣候危機與淨零）；reverse 4（台塑、電網韌性原無延伸閱讀區塊，補上）
+- **待觀察者驗證**：IMF Fiscal Monitor 2026-04 p.18 頁碼；立院排審進度；貨物稅 3.7 對 3.415 的三毛、累計吸收「預估」算法、6 月底是否已「少跌」回收、四年 3,500 億與 2,338.34 億的關係，官方文件未解釋，正文只陳述缺口
+- **值得記的一件事**：五輪冷讀（fresh→reread×4）從九條困惑收斂到零實質困惑，抓到的都是編輯室六席與兩位 verifier 沒抓到的「讀者用文章自己的數字就能算出來」的錯——同一份稿，看過藍圖的人會替作者補完，沒看過的人才會停下來算
+- **2026-09-19 v2 觀點重做**（哲宇 callout：文謅謅／堆砌／數字過重；v6.7 單檔 pipeline 實驗，session 2026-09-19-003207-oil-price-v2）：論點改為「便宜靠一家被叫去站在最前面的國營公司先扛，按公升平分，誰用得最多二十年來沒人統計」；Stage 1 只找人（卓榮泰「跟中油說謝謝」、王美花、梁啟源、方振仁、劉鴻樟、板橋麵攤老闆娘，研究報告 §12–§13 ＋ 23 份新逐字檔）；H2 七節改人的動作序列；tw-\* 12→4、腳註 51→46、5,563 CJK；opening-readability 6.4→1.0／百字；四篇 sibling 反向連結描述同步改成新論點；stage35／stage36 audit 落 `-v2-stage35-audit.md`／`-v2-stage36-audit.md`。
+
+### 誰算低薪 — 2026-09-18 low-wage write session 完成（主計總處說月薪零人、年薪一百二十六萬，差別在年終那一欄）
+
+- **Article**: [knowledge/Society/誰算低薪.md](../../knowledge/Society/誰算低薪.md)
+- **Pipeline**: REWRITE-PIPELINE v9.9 — NEW 模式，**互動式協議**（`twmd.mjs rewrite`，run `low-wage-20260918`，89 revisions／36 submissions，六站全 accept → `ready-for-publication`）＋既有 stage contract 全部 hard gate。run_profile: standard-lite（派發者指定；Step 0.1.6 規則 3 對第三型建議 standard）
+- **spine**：第三型多觀點矛盾＋P8 判斷框架式
+- **論點**：「零人」和「一百二十六萬人」都是真的：這場爭論吵的從來不是誰的數字對，是哪一欄的錢算薪水、誰站在分母裡——本薪那一欄有法律守著，年終那一欄沒有，而尺外面還站著三百多萬不在分母裡的人
+- **Hook**：2026-09-14 下午四點主計總處記者會，副處長譚文玲同一場先算月薪零人、再算年薪 126 萬人
+- **品質**：~10,400 CJK ／ 38 腳註零孤兒（37/38 curl 200，[^16] OECD 403 bot-block 文字已存 raw）／ 13 個 `tw-*` 模組 ／ 3 圖（hero 419KB hero 預算內）／ rewrite-stage-4 hard=0 warn=0 ／ stage-3-5 hard=0 ／ prose-health warn=3 全在逐字引語內 ／ prose-flow 0/3 ／ fact-atom-diff PASS ／ research depth PASS ／ 編輯室 health ✅×2
+- **Research**: [reports/research/2026-09/誰算低薪.md](../../reports/research/2026-09/誰算低薪.md)（116 次搜尋／56 來源／23 一手；raw 目錄 13 檔含主計總處 3 份新聞稿 txt＋3 張 xlsx、勞動部 3 份、OECD 3 份 CSV/頁面、人力資源調查）；投影 [reports/article-projection/誰算低薪.md](../../reports/article-projection/誰算低薪.md)；Stage 3 稽核 `誰算低薪-stage35-audit.md`／`-stage36-audit.md`
+- **乾淨 context 分席**：compose 評閱 14 位、冷讀者 12 位、verify 查核員 1＋復審 3、release 具名編輯 3（Opus，三輪：退 4 條→退 1 條→accept），全部獨立 agent，contextDisclosure 逐條記於 `reports/staging/low-wage/`
+- **冷讀迴圈教訓**：同一句收束（主計總處先講月薪）十二位讀者讀出三種方向（替主計總處／替在野黨／守勢），改到「說明順序＋講法」的事實中點才停；release 編輯抓到「三百多萬人不在會議室分母」把統計分母與法律適用混成一格——部分工時／產業移工受最低工資法保障，只有自營／雇主／無酬家屬／家庭看護工在法外
+- **Cross-link**：台灣斜槓世代／學習貧窮／冷氣與能源貧窮議題 三篇補反向延伸閱讀；外送專法因既有 34 條 prose 警告撞 pre-commit 預算延後
+- **EVOLVE 掛號**：9/24 最低工資審議會結果（正文寫「預估 30,975」與「地板會再往上移一次」需改成事實）；2025 年（114 年）中位數統計 11 月出爐（126 萬／16.8% 換新一年；若公布非整年在職者比例，收尾可校準）；L125／L269 家庭看護工「另計」對齊；title 可補「人」字
+- **2026-09-19 v2 觀點重做**（哲宇 callout：文謅謅／堆砌／數字過重；v6.7 單檔 pipeline 實驗，session low-wage-v2）：論點換成「最低工資守住了本薪，低薪搬進了年終那一欄」，title 同步；Stage 1 補一輪只找人（三 lane 25 次＋親核 9 次）：李姓上班族（udn 9/12）、張詠舜（天下 2025-03）、于姓小吃店老闆（TVBS 9/12）、何語／許舒博／林伯豐、楊書瑋、Threads @\_yummy_tw；fresh Opus 寫手只吃藍圖 v2 ＋ fact-pack；6 個 H2 動作序列、4 個 tw-\* 模組（13→4）、29 腳註、~4,700 字；opening-readability 4.3／41／口徑詞 8 ⚠️ → 0.5／32／0 ✅；查核員 A 抓三硬傷（2024 分母套 2026、銀行窄化金融保險業、上半年統計誤為同一份）全修，查核員 B 引語 17/17 逐字、七處記者轉述降回無引號；兩位冷讀者第一個 H2 前都沒想關。投影 [誰算低薪-v2.md](../../reports/article-projection/誰算低薪-v2.md)；稽核 `誰算低薪-v2-stage35-audit.md`／`-v2-stage36-audit.md`；研究報告 §1-bis／§2-bis／§6-bis／§8-bis。三篇姊妹文反向連結描述改對新論點，外送專法仍被 pre-existing prose-health HARD 擋住、延後
+
+### 洪醒夫 EVOLVE — 2026-09-12 完成（全站 #1 搜尋流量 stub 深度進化）
+
+- **Article**: [knowledge/People/洪醒夫.md](../../knowledge/People/洪醒夫.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE 模式（697 字 stub → 5,455 字深度長文）
+- **核心矛盾**：白天在台中神岡社口國小教書認字、夜晚在燈下伏案為急速解體的台灣傳統農村做證；不喊政治口號，而用具體的小人物尊嚴回答「文學為誰而寫」
+- **Hook**：二林貧農之子的「洪醒夫斯基」文學志向、社口國小教職員宿舍孤燈、安迪颱風夜車禍驟逝
+- **品質**：5,077 CJK chars（article-health 計） / 11 腳註 / 3 張 Commons 場景配圖 / 1 大愛電視官方影片 iframe / article-health 0 hard 0 warn 全綠。2026-09-13 maintainer 事實查核後 heal：獎項屆次、子女、治喪委員會、全集版本與五處引語依來源修正，八條離線腳註移除
+- **成果**：解開 SC 全站 #1 query（每週 ~2,654 imp）嚴重品質倒掛缺口，完整析論《黑面慶仔》、《市井傳奇》、《田莊人》與國文課本名篇〈散戲〉、〈紙船印象〉。
+
 ### 台灣早餐文化 — 2026-08-18 twmd-rewrite session 完成（兩萬家店賣著同一份早餐，沒有一個人擁有它）
 
 - **Article**: [knowledge/Food/台灣早餐文化.md](../../knowledge/Food/台灣早餐文化.md)
@@ -99,6 +169,7 @@ read_strategy: 'on-demand'
 - **品質**：12,272 CJK 字 / 62 腳註 / 全站 gate hard=0
 - **Research**: [reports/research/2026-08/陳致中.md](../../reports/research/2026-08/陳致中.md) ＋ [stage36-audit](../../reports/research/2026-08/陳致中-stage36-audit.md)
 - **敏感素材處理**：在世爭議政治人物，哲宇拍板「司法案件寫、私德案完全不進正文」，六個研究 agent 全程零檢索、正文零出現；炎上席抓到論證形狀與當事人本人申辯同構，改為主動寫出重疊讓讀者自行判斷
+
 ### 馬祖國際藝術島 — 2026-08-06 manual session 完成（一座沒有展館的美術館，把整座列島借來當展場）
 
 - **Article**: [knowledge/Art/馬祖國際藝術島.md](../../knowledge/Art/馬祖國際藝術島.md)

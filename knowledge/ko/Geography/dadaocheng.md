@@ -214,7 +214,7 @@ _설맞이 시장 기간의 디화제. Photo: 玄史生, CC BY-SA 3.0 via [Wikim
 - [타이완 차 문화](/ko/culture/taiwanese-tea-culture-and-living-aesthetics) — Formosa Tea와 북부 타이완 차 산업의 전체 맥락
 - [2·28 사건](/ko/history/228-incident) — 1947년 그 담배 꾸러미가 불붙인 사건, 후속 진압과 전환기 정의
 - [일제시기 타이완 사회운동](/ko/history/social-movements-during-japanese-rule) — 장웨이수와 타이핑초 199번지의 문화협회
-- [타이완 민요와 가요](/ko/music/Taiwan Folk Music and Songs) — 1932년 〈망춘풍〉과 타이핑초의 콜럼비아 레코드
+- [타이완 민요와 가요](/ko/music/taiwan-folk-music-and-songs) — 1932년 〈망춘풍〉과 타이핑초의 콜럼비아 레코드
 - [방카](/ko/geography/bangka) — 1853년 딩샤자오핀에서 패배한 퉁안 사람들이 방카 바자장에서 다다오청으로 피란해 왔고, 두 거리는 같은 무력 충돌에서 갈라져 나온 결과이다
 - [시먼딩](/ko/geography/ximending) — 같은 batch 1 역사 거리 sibling, 1896년 일제시기 오락구 vs 다다오청 청대 상업 거리, 두 가지 「거리 형성의 순간」 비교
 - [다룽동](/ko/geography/dalongdong) — 1853년 딩샤자오핀에서 패배한 퉁안 사람들은 먼저 다룽동 바오안궁을 방어 거점으로 삼아 후퇴한 뒤, 다시 다다오청으로 이주했다. 다다오청의 통상 서사가 빠뜨리는 중간 경유지이다

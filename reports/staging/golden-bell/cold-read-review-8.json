@@ -1,0 +1,25 @@
+{
+  "revision": 72,
+  "submissionId": "5b12475b-38e6-4915-b7d7-552b4124107f",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ab5044625e8707897；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "兩處真問題：表格把 2023 十三月《村裡來了個暴走女外科》同時放進「公視與製作公司並列（2016 起）」例外欄與「製作公司掛名（2023–2025）」欄，分類重疊；tw-figure「40 → 40」箭頭暗示方向變化，與正文「不是新高」相反。其餘（九個名字在 §2 脈絡內、額度／入圍已釋疑、主題句呼應、龍劭華鋪陳、不具名、「這幾次」、結尾）屬裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行 75-84 表格十三月重複兩列——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行 204-208 tw-figure 40 → 40 箭頭——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行 50 九個名字在 §2——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行 101／91／121／89／186／157／216——裁量"
+    }
+  ]
+}

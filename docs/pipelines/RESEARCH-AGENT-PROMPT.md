@@ -19,7 +19,7 @@ audience: 'orchestrator-session-spawning-research-agents'
 
 > **為什麼存在**（2026-07-12 台灣茶文化 panorama，哲宇 directive「從源頭解決」）：每個 session spawn 研究 agent 時即興手寫 prompt → 格式立刻飄移。該次即興 prompt 寫了「每 finding 標【來源】URL」，agent 在多來源場景自行發明「WebSearch 綜合（站名、站名）」aggregate 寫法——84 條來源行僅 ~35% 帶 URL，footnote 斷源；同時自創「三塊各一 section」結構，五段骨架與收件儀器全對不上。**Prompt 即興 = 每次重新思考 = 每次重新犯錯。** 本檔是唯一的 spawn prompt SSOT：copy 整塊 → 填 `{SLOT}` → spawn。
 >
-> **職責分工**：[RESEARCH.md](../editorial/RESEARCH.md) 是研究方法論 SSOT（怎麼搜、怎麼判斷）；[RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) 是組裝後主報告（§1-§8）模板；**本檔是 spawn 蒸餾層**——把方法論裡「實戰死過人」的規則壓進 agent prompt。衝突時以 RESEARCH.md 為準。Gate 與觸發史 canonical 在 [REWRITE-PIPELINE Step 1.8-ter](REWRITE-STAGE-1A-RESEARCH.md#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-)。
+> **職責分工**：[RESEARCH.md](../editorial/RESEARCH.md) 是研究方法論 SSOT（怎麼搜、怎麼判斷）；[RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) 是組裝後主報告（§1-§8）模板；**本檔是 spawn 蒸餾層**——把方法論裡「實戰死過人」的規則壓進 agent prompt。衝突時以 RESEARCH.md 為準。Gate 與觸發史 canonical 在 [SINGLE Step 1.8](REWRITE-PIPELINE-SINGLE.md#step-18-spawn-agent-選型-)（v9 的 1.8-ter 輸出契約原文在 [archive](archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-1A-RESEARCH.md)）。
 
 ---
 
@@ -82,10 +82,10 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 
 ## Orchestrator 派發 SOP（四步）
 
-1. **切子領域**：depth 文按子題切 N 個 agent。**配額算法：整篇文章總量 ~150 次（Stage 0 佔 20-30）→ Stage 1 fan-out 合計 ~120-130 → 除以 agent 數＝每隻 ~30（四隻）／~40（三隻）**，per [Step 1.1 v9.1](REWRITE-STAGE-1A-RESEARCH.md)。⚠️ **150 是整篇總量不是每隻的量**——實測「每隻 100」效果沒有比較好（哲宇 2026-08-15）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
+1. **切子領域**：depth 文按子題切 N 個 agent。**配額算法：整篇文章總量 ~100 次（Stage 0 佔 ~20）→ Stage 1 fan-out 合計 ~80 → 除以 agent 數＝每隻 ~20（四隻）／~25-30（三隻），其中一隻的題目就是「找人」**，per [SINGLE Step 1.1](REWRITE-PIPELINE-SINGLE.md#step-11-搜尋深度--全篇-100-次天花板其中一隻-lane-找人v68)。⚠️ **100 是整篇總量不是每隻的量**——實測量多品質不升（哲宇 2026-08-15、2026-09-19「找的多不如聰明的找」）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
 2. **填槽**（速查表見下）→ **copy 通用模板整塊**，只動 `{SLOT}`，**禁增刪改寫規則文字**。Anti-example 至少帶 2 條（從 §Anti-example 庫挑最近／最像的——sub-agent 是 pattern matcher，反例比規則有效）。
 3. **Spawn**：`general-purpose` + Sonnet（breadth+extract 夠用；contested atom 的複查才 escalate Opus）。Explore 是 read-only 不能落檔，研究 agent 一律 general-purpose。
-4. **收件**：走 [Step 1.8-bis 三步](REWRITE-STAGE-1A-RESEARCH.md#step-18-bis-async-agent-時代的-raw-保全-sopv772026-07-05-️)——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
+4. **收件**：走 [SINGLE Step 1.8](REWRITE-PIPELINE-SINGLE.md#step-18-spawn-agent-選型-) 收件三步——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
 
    ```bash
    python3 scripts/tools/agent-report-health.py reports/research/{YYYY-MM}/{slug}-research-{X}.md --claimed {配額}
@@ -137,7 +137,7 @@ digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。can
 2. **WebSearch 的聚合摘要不是來源**：搜尋結果本身帶連結，把你依賴的每條結果 URL 逐一轉錄進報告。
    要引逐字的 claim → WebFetch 進原頁取逐字＋URL，不引搜尋摘要的轉述。
 3. **搜尋配額 {QUOTA} 次＝天花板，到量立刻收尾寫報告**（不是下限、不是目標、超跑不是美德）。
-   整篇文章的總搜尋量是 ~150 次，你拿到的是其中分給你的一份；**多搜的不會變成更好的文章，
+   整篇文章的總搜尋量是 ~100 次，你拿到的是其中分給你的一份；**多搜的不會變成更好的文章，
    只會變成塞爆報告的待驗證線索**。配額內優先序：英文／國際／學術 ≥ {EN_QUOTA}、一手
    （官方沿革頁／政府統計／法規／學術論文）≥ {PRIMARY_QUOTA}、反方／批評視角 ≥ {OPPO_QUOTA}。
    配額用完仍有子題沒挖完 → §4 誠實寫「本題還缺 X，配額內未及查」，**不加碼硬挖**；

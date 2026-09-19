@@ -1,0 +1,17 @@
+{
+  "revision": 25,
+  "submissionId": "f48e5cf9-e655-4949-938b-90ef2268eff9",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8，乾淨 context；覆核冷讀者五條困惑修訂 delta；contextDisclosure: fresh-context-final-draft-diff-and-prior-review）",
+  "verdict": "accept",
+  "rationale": "五處改動逐條核實：[^23]「每一獎項以五件為限／按播送頻道計算」curl 逐字相符；[^70] 民視 1997-06-11 開播、第四家、第一家民營與維基相符；tw-figure「2025 年 29 項」與 [^64] 同源；[^36] 客家分項與來源頁吻合；§8 拿掉第三次門／門內後仍通順且文末呼應未斷。全文腳註無孤兒、fence 成對、無後台洩漏。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "民視段＋[^70]；頻道計算段＋[^23]；tw-figure 29 項；§8 收尾段；[^36]"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "[^23] 腳註（gba.tavis.tw/52nd 第七條「每一獎項，以五件為限」，評閱者 curl 逐字核對）"
+    }
+  ]
+}

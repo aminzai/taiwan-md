@@ -1,17 +1,9 @@
 ---
-title: 'Gerakan Sosial dan Partisipasi Warga di Taiwan'
-description: 'Dari Gerakan Bunga Liar hingga Gerakan Bunga Matahari, bagaimana Taiwan mempraktikkan demokrasi dan mendorong kemajuan sosial melalui gerakan sosial'
+title: 'Gerakan Sosial dan Partisipasi Sipil'
+description: 'Dari Lili Liar hingga Bunga Matahari, bagaimana Taiwan mempraktikkan demokrasi dan mendorong kemajuan sosial melalui gerakan sosial'
 date: 2026-03-18
 category: 'Society'
-tags:
-  [
-    'gerakan sosial',
-    'partisipasi warga',
-    'demokrasi',
-    'gerakan bunga liar',
-    'gerakan bunga matahari',
-    'reformasi sosial',
-  ]
+tags: ['Gerakan Sosial', 'Partisipasi Sipil', 'Demokrasi', 'Gerakan Mahasiswa Lili Liar', 'Gerakan Bunga Matahari', 'Reformasi Sosial']
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
@@ -22,296 +14,300 @@ lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:31022a8379acbf4e'
-sourceBodyHash: 'sha256:13d4a3545c8fc998'
-translatedAt: '2026-09-17T06:43:41+08:00'
+translatedAt: '2026-09-18T05:45:00+08:00'
 ---
 
-# Gerakan Sosial dan Partisipasi Warga
+# Gerakan Sosial dan Partisipasi Sipil
 
-## Ikhtisar 30 Detik
+## Ringkasan 30 Detik
 
-Taiwan adalah masyarakat yang aktif dalam gerakan sosial. Mulai dari gerakan pencabutan status darurat pada tahun 1980-an, gerakan mahasiswa Bunga Liar (Wild Lily) pada tahun 1990, Gerakan Bunga Matahari (Sunflower) pada tahun 2014, hingga legalisasi pernikahan sesama jenis pada tahun 2019, gerakan sosial telah menjadi kekuatan kunci dalam mendorong demokratisasi dan kemajuan sosial Taiwan. Gerakan sosial di Taiwan dicirikan oleh sifatnya yang damai dan rasional, pewarisan antar generasi, serta cakupan isu yang luas, menunjukkan kedewasaan dan vitalitas masyarakat sipil.
+Taiwan adalah masyarakat dengan gerakan sosial yang sangat aktif. Mulai dari gerakan pencabutan darurat militer pada 1980-an, Gerakan Mahasiswa Lili Liar pada 1990, Gerakan Bunga Matahari pada 2014, hingga legalisasi pernikahan sesama jenis pada 2019 — gerakan sosial selalu menjadi kekuatan kunci yang mendorong demokratisasi dan kemajuan sosial Taiwan. Gerakan sosial Taiwan memiliki ciri khas damai dan rasional, diwariskan lintas generasi, serta mencakup isu yang luas, menunjukkan kematangan dan vitalitas masyarakat sipilnya.
 
-Gerakan-gerakan ini melintasi berbagai bidang seperti politik, lingkungan hidup, buruh, dan gender; mereka muncul dalam bentuk yang berbeda pada era yang berbeda, namun semuanya meninggalkan jejak kelembagaan yang konkret dalam proses demokrasi Taiwan.
+Gerakan-gerakan ini melintasi berbagai bidang seperti politik, lingkungan hidup, ketenagakerjaan, dan gender, muncul dalam bentuk berbeda-beda di setiap era, namun semuanya meninggalkan jejak kelembagaan yang nyata dalam proses demokratisasi Taiwan.
 
-Secara umum, gerakan sosial di Taiwan berlangsung secara damai dengan sedikit konflik kekerasan—sebuah karakteristik yang sangat jarang terjadi dalam sejarah demokratisasi Asia Timur.
+Gerakan sosial Taiwan umumnya berlangsung secara damai, dengan jarang terjadi bentrokan kekerasan — sebuah ciri yang cukup langka dalam sejarah gerakan demokratisasi di Asia Timur.
 
-**Gerakan Kunci:** Gerakan Mahasiswa Bunga Liar (1990), Gerakan Bunga Matahari (2014), Gerakan Kesetaraan Pernikahan, Gerakan Lingkungan Hidup, Gerakan Buruh.
+**Gerakan Kunci:** Gerakan Mahasiswa Lili Liar (1990), Gerakan Bunga Matahari (2014), Gerakan Kesetaraan Pernikahan, Gerakan Lingkungan Hidup, Gerakan Buruh
 
 ## Mengapa Ini Penting
 
-Pengalaman gerakan sosial Taiwan menunjukkan berbagai jalur partisipasi warga dalam masyarakat demokratis. Berbeda dengan negara-negara demokrasi maju di Barat, gerakan sosial Taiwan berkembang secara bertahap selama proses demokratisasi; ia adalah produk dari demokratisasi sekaligus motor penggerak pendalaman demokrasi.
+Pengalaman gerakan sosial Taiwan menunjukkan berbagai jalur partisipasi warga dalam politik di sebuah masyarakat demokratis. Berbeda dengan negara-negara demokrasi Barat yang telah matang, gerakan sosial Taiwan berkembang secara bertahap selama proses demokratisasi — ia merupakan produk dari demokratisasi sekaligus kekuatan pendorong pendalaman demokrasi.
 
-Bagi komunitas internasional, pengalaman gerakan sosial Taiwan memberikan studi kasus konkret tentang "bagaimana mencapai transformasi demokratis dalam konteks Asia Timur." Secara khusus, bagaimana mendorong reformasi politik sambil menjaga stabilitas sosial, dan bagaimana mengawasi pemerintah melalui partisipasi warga. Masalah ini tidak memiliki jawaban buku teks; perjalanan eksploratif Taiwan itu sendiri adalah kasusnya.
+Bagi komunitas internasional, pengalaman gerakan sosial Taiwan menyediakan studi kasus konkret tentang "bagaimana mewujudkan transisi demokrasi dalam konteks Asia Timur" — terutama bagaimana mendorong reformasi politik sambil menjaga stabilitas sosial, dan bagaimana mengawasi pemerintah melalui partisipasi warga. Pertanyaan ini tidak memiliki jawaban baku dari buku teks; proses pencarian jalan Taiwan itu sendirilah yang menjadi studi kasusnya.
 
-Di tengah gelombang ancaman disinformasi dan kemunduran demokrasi secara global, ketahanan masyarakat sipil Taiwan juga menarik perhatian para peneliti internasional.
+Di tengah gelombang global ancaman disinformasi dan kemunduran demokrasi, ketangguhan masyarakat sipil Taiwan juga mendapat perhatian dari para peneliti internasional.
 
 ## Konteks Sejarah dan Tahapan Perkembangan
 
-### Gerakan Oposisi di Era Otoriter (1949-1987)
+### Gerakan Oposisi pada Masa Otoritarian (1949–1987)
 
-Selama periode status darurat militer, meskipun ruang politik di Taiwan terbatas, masih ada kegiatan protes sporadis:
+Meskipun ruang politik terbatas pada masa darurat militer, aksi protes sporadis tetap terjadi di Taiwan:
 
 **Perlawanan Awal:**
 
-- **Insiden Zhongli (1977):** Protes massa yang dipicu oleh kecurangan pemilu.
-- **Insiden Beilidou (1979):** Pada 10 Desember 1979, tokoh-tokoh oposisi mengadakan pertemuan politik di Kaohsiung dan ditumpas oleh militer dan polisi; banyak aktivis demokrasi kemudian ditangkap.
-- **Gerakan Demokrasi Kampus:** Mahasiswa memperjuangkan otonomi dan kebebasan berbicara.
+- **Insiden Zhongli (1977):** Protes massa yang dipicu oleh kecurangan pemilu
+- **Insiden Formosa (1979):** Pada 10 Desember 1979, tokoh-tokoh non-KMT (dangwai) mengadakan rapat umum politik di Kaohsiung yang ditindas oleh militer dan polisi; sejumlah besar aktivis demokrasi kemudian ditangkap
+- **Gerakan Demokrasi Kampus:** Mahasiswa memperjuangkan otonomi dan kebebasan berbicara
 
-Gerakan-gerakan ini telah mengumpulkan pengalaman organisasi dan energi sosial untuk demokratisasi di masa mendatang.
+Gerakan-gerakan ini mengumpulkan pengalaman berorganisasi dan energi sosial bagi demokratisasi yang terjadi kemudian.
 
-### Ledakan Gerakan Sosial Pasca Pencabutan Status Darurat (1987-1990)
+### Ledakan Gerakan Sosial Setelah Pencabutan Darurat Militer (1987–1990)
 
-Setelah pencabutan status darurat, energi sosial yang tertekan meledak secara tiba-tiba, dan berbagai gerakan perlawanan isu bermunculan:
+Setelah darurat militer dicabut, energi sosial yang selama ini tertekan meledak secara instan, dan gerakan perlawanan atas berbagai isu bermunculan silih berganti:
 
 **Gerakan Lingkungan Hidup:**
 
-- **Gerakan Anti-DuPont (1986):** Penolakan pabrik DuPont di Lukang, Changhua [^4].
-- **Gerakan Antinuklir:** Tuntutan penghentian pembangunan Pembangkit Nuklir Empat.
-- **Perlindungan Rawa:** Menentang pengembangan Kawasan Industri Binan.
+- **Gerakan Anti-DuPont (1986):** Warga Lugang, Changhua menentang pembangunan pabrik DuPont[^4]
+- **Gerakan Anti-Nuklir:** Menuntut penghentian pembangunan Pembangkit Listrik Tenaga Nuklir ke-4
+- **Perlindungan Lahan Basah:** Menentang pengembangan Kawasan Industri Binnan
 
 **Gerakan Buruh:**
 
-- **Insiden 519 (1988):** Pemogokan sopir bus di Chiayi.
-- **Hak-hak Buruh:** Memperjuangkan tiga hak buruh dan jaminan kerja.
+- **Insiden 19 Mei (1988):** Mogok kerja sopir bus Chiayi
+- **Hak-Hak Buruh:** Memperjuangkan tiga hak dasar ketenagakerjaan dan jaminan pekerjaan
 
 **Gerakan Petani:**
 
-- **Gerakan Petani 520 (1988):** Memperjuangkan kebijakan perlindungan pertanian.
-- **Penolakan Impor Daging Sapi AS:** Melindungi pertanian lokal.
+- **Gerakan Petani 20 Mei (1988):** Memperjuangkan kebijakan proteksi pertanian
+- **Penolakan Impor Daging Sapi AS:** Melindungi pertanian lokal
 
 ## Studi Kasus Gerakan Sosial Penting
 
-### Gerakan Mahasiswa Bunga Liar (Maret 1990)
+### Gerakan Mahasiswa Lili Liar (Maret 1990)
 
-**Latar Belakang:** Pemilu legislatif besar-besaran dan reformasi sistem politik.
-**Skala:** Sekitar 5.000–6.000 mahasiswa berpartisipasi (puncak).
-**Lokasi:** Alun-alun Kebebasan di Memorial Hall Nasional.
+**Latar Belakang:** Pemilihan ulang besar-besaran parlemen dan reformasi sistem politik
 
-Gerakan Mahasiswa Bunga Liar adalah gerakan mahasiswa skala besar pertama di Taiwan dan memiliki dampak signifikan dalam mendorong demokratisasi politik [^1].
+**Skala:** Sekitar 5.000–6.000 mahasiswa berpartisipasi (pada puncaknya)
+
+**Lokasi:** Alun-Alun Kebebasan, Balai Peringatan Chiang Kai-shek
+
+Gerakan Mahasiswa Lili Liar adalah gerakan mahasiswa berskala besar pertama di Taiwan, dan memiliki pengaruh besar dalam mendorong demokratisasi politik.[^1]
 
 **Empat Tuntutan Utama:**
 
-1. Pembubaran Kuomintang (KMT).
-2. Penghapusan Pasal Sementara.
-3. Pemanggilan Konferensi Nasional Negara.
-4. Jadwal reformasi sistem politik secara demokratis.
+1. Membubarkan Majelis Nasional
+2. Menghapus Ketentuan Sementara
+3. Mengadakan Konferensi Urusan Kenegaraan
+4. Menetapkan jadwal reformasi demokratis sistem politik
 
-**Karakteristik Gerakan:**
+**Ciri Khas Gerakan:**
 
-- **Damai dan Rasional:** Menekankan perlawanan non-kekerasan dan menjaga ketertiban di lokasi.
-- **Strategi Media:** Memanfaatkan media untuk menyebarkan tuntutan.
-- **Aliansi Antar Kampus:** Aksi bersama mahasiswa dari seluruh negeri.
-- **Partisipasi Intelektual:** Dukungan publik dari profesor dan akademisi.
+- **Damai dan Rasional:** Menekankan perlawanan tanpa kekerasan dan menjaga ketertiban di lapangan
+- **Strategi Media:** Memanfaatkan media secara efektif untuk menyebarkan tuntutan
+- **Aliansi Antarkampus:** Aksi bersama mahasiswa se-nasional
+- **Partisipasi Kaum Intelektual:** Dukungan terbuka dari para profesor dan akademisi
 
-**Signifikansi Historis:**
-Gerakan Mahasiswa Bunga Liar secara langsung mendorong reformasi sistem politik, mempercepat proses demokratisasi Taiwan. Setelah gerakan berakhir, pemerintah berjanji untuk melakukan reformasi, pemilu legislatif besar-besaran diadakan, dan sistem demokrasi seperti pemilihan presiden langsung pun ditetapkan secara berturut-turut.
+**Makna Sejarah:**
+Gerakan Mahasiswa Lili Liar secara langsung mendorong reformasi sistem politik dan mempercepat proses demokratisasi Taiwan. Setelah gerakan berakhir, pemerintah berjanji mendorong reformasi; parlemen menjalani pemilihan ulang besar-besaran, dan lembaga-lembaga demokratis seperti pemilihan presiden secara langsung pun kemudian ditetapkan.
 
 ### Gerakan Bunga Matahari (Maret 2014)
 
-**Latar Belakang:** Penolakan proses "kotak hitam" perjanjian perdagangan bebas (FTA).
-**Skala:** Diperkirakan sekitar 500.000 orang berpartisipasi pada puncaknya.
-**Lokasi:** Gedung Legislatif, Kantor Eksekutif, Alun-alun Kebebasan.
+**Latar Belakang:** Penolakan terhadap proses tertutup (kotak hitam) Perjanjian Perdagangan Jasa Lintas Selat
 
-Gerakan Bunga Matahari adalah gerakan sosial terbesar pasca demokratisasi di Taiwan dan menunjukkan perhatian generasi baru terhadap kualitas demokrasi dan identitas subjek Taiwan [^2].
+**Skala:** Menurut perkiraan penyelenggara, sekitar 500.000 orang berpartisipasi pada puncaknya
+
+**Lokasi:** Ruang sidang Yuan Legislatif, Yuan Eksekutif, Alun-Alun Kebebasan
+
+Gerakan Bunga Matahari adalah gerakan sosial berskala terbesar di Taiwan sejak demokratisasi, yang menunjukkan perhatian generasi baru terhadap kualitas demokrasi dan subjektivitas Taiwan.[^2]
 
 **Tuntutan Inti:**
 
-1. Pengembalian perjanjian perdagangan bebas (FTA).
-2. Pembentukan mekanisme pengawasan perjanjian lintas selat.
-3. Pemanggilan konferensi konstitusional warga negara.
-4. Tata kelola yang transparan dan keadilan algoritmik.
+1. Mengembalikan Perjanjian Perdagangan Jasa ke tahap peninjauan komite
+2. Membentuk mekanisme pengawasan untuk perjanjian lintas selat
+3. Mengadakan Konferensi Konstitusi Sipil
+4. Keadilan prosedural dan pemerintahan yang transparan
 
-**Karakteristik Gerakan:**
+**Ciri Khas Gerakan:**
 
-- **Pendudukan Gedung Legislatif:** Aksi pertama menduduki gedung parlemen.
-- **Mobilisasi Jaringan:** Memanfaatkan media sosial dan siaran langsung secara maksimal.
-- **Partisipasi Generasi:** Dipimpin oleh mahasiswa, didukung lintas generasi.
-- **Perhatian Internasional:** Mendapat liputan luas dari media internasional.
+- **Pendudukan Yuan Legislatif:** Aksi pendudukan ruang sidang parlemen yang pertama kali terjadi
+- **Mobilisasi Daring:** Pemanfaatan penuh media sosial dan siaran langsung
+- **Partisipasi Lintas Generasi:** Berpusat pada mahasiswa, didukung lintas generasi
+- **Perhatian Internasional:** Mendapat liputan luas dari media internasional
 
 **Dampak Sosial:**
 
-- **Dampak Politik:** Mempengaruhi pemilihan lokal tahun 2014 dan pemilu presiden tahun 2016.
-- **Kesadaran Warga:** Meningkatkan partisipasi politik generasi muda.
-- **Pendalaman Demokrasi:** Mendorong transparansi informasi pemerintah dan sistem partisipasi warga.
+- **Dampak Politik:** Memengaruhi pemilihan daerah 2014 dan pemilihan presiden 2016
+- **Kesadaran Sipil:** Meningkatkan partisipasi politik generasi muda
+- **Pendalaman Demokrasi:** Mendorong transparansi informasi pemerintah dan sistem partisipasi warga
 
-### Gerakan Kesetaraan Pernikahan (2013-2019)
+### Gerakan Kesetaraan Pernikahan (2013–2019)
 
-**Isu:** Memperjuangkan legalisasi pernikahan sesama jenis.
-**Peristiwa Kunci:** Interpretasi konstitusi oleh Mahkamah Agung, referendum, legislasi.
+**Isu:** Memperjuangkan legalisasi pernikahan sesama jenis
 
-Gerakan kesetaraan pernikahan Taiwan melalui perjuangan bertahun-tahun, dan akhirnya menjadi wilayah pertama di Asia yang melegalkan pernikahan sesama jenis pada tahun 2019.
+**Peristiwa Kunci:** Interpretasi konstitusional oleh hakim agung, referendum, legislasi
 
-**Proses Gerakan:**
-Pada tahun 2013, anggota parlemen mengajukan rancangan undang-undang kesetaraan pernikahan; pada tahun 2016, puluhan ribu orang berdemonstrasi mendukung pernikahan sejenis, mengangkat isu tersebut menjadi fokus nasional. Pada tahun 2017, Mahkamah Agung mengeluarkan Interpretasi No. 748 [^5], yang menetapkan dasar konstitusional bagi legislasi.
+Gerakan kesetaraan pernikahan di Taiwan melalui bertahun-tahun perjuangan, hingga akhirnya pada 2019 Taiwan menjadi wilayah pertama di Asia yang melegalkan pernikahan sesama jenis.
 
-- **Tahun 2018:** Pihak pendukung pernikahan sejenis kalah dalam referendum.
-- **Tahun 2019:** Undang-undang pelaksanaan Interpretasi Mahkamah Agung No. 748 disahkan.
+**Perjalanan Gerakan:**
+Pada 2013, anggota legislatif mengajukan RUU Kesetaraan Pernikahan. Pada 2016, puluhan ribu orang turun ke Jalan Ketagalan untuk mendukung pernikahan sesama jenis, mendorong isu ini menjadi sorotan nasional. Pada 2017, Interpretasi Yuan Yudisial No. 748 menyatakan hukum yang berlaku saat itu inkonstitusional[^5], menciptakan dasar konstitusional bagi legislasi.
+
+- **2018:** Pihak pendukung pernikahan sesama jenis kalah dalam referendum
+- **2019:** *Undang-Undang Pelaksanaan Interpretasi Yuan Yudisial No. 748* disahkan
 
 **Strategi Gerakan:**
 
-- **Jalur Legislatif:** Melalui bantuan hukum dan legislasi.
-- **Edukasi Sosial:** Komunikasi sosial dan pendidikan jangka panjang.
-- **Koneksi Internasional:** Bekerja sama dengan organisasi hak asasi manusia internasional.
-- **Suara Beragam:** Menggabungkan pendukung dari latar belakang yang berbeda.
+- **Jalur Hukum:** Melalui legislasi dan upaya hukum di pengadilan
+- **Edukasi Sosial:** Komunikasi dan edukasi sosial jangka panjang
+- **Koneksi Internasional:** Kerja sama dengan organisasi hak asasi manusia internasional
+- **Suara yang Beragam:** Menggabungkan pendukung dari latar belakang berbeda
 
-**Signifikansi Historis:**
-Taiwan menjadi wilayah pertama di Asia yang melegalkan pernikahan sesama jenis, menunjukkan nilai kemajuan dan perlindungan HAM masyarakat Taiwan [^3].
+**Makna Sejarah:**
+Taiwan menjadi wilayah pertama di Asia yang melegalkan pernikahan sesama jenis, menunjukkan nilai-nilai progresif dan perlindungan hak asasi manusia dalam masyarakat Taiwan.[^3]
 
 ## Perkembangan Gerakan Lingkungan Hidup
 
-Gerakan lingkungan hidup Taiwan dimulai dengan perlawanan polusi pada tahun 1980-an, dan setelah pencabutan status darurat, berkembang pesat menjadi kekuatan warga yang mencakup konservasi, anti-nuklir, dan isu iklim.
+Gerakan lingkungan hidup Taiwan dimulai dari perlawanan anti-polusi pada 1980-an, dan setelah pencabutan darurat militer berkembang pesat menjadi kekuatan sipil yang mencakup isu konservasi, anti-nuklir, dan iklim.
 
-### Gerakan Lingkungan Awal (1980-an hingga 1990-an)
+### Gerakan Lingkungan Hidup Awal (1980-an–1990-an)
 
-Setelah pencabutan status darurat pada tahun 1980-an, isu lingkungan hidup menjadi salah satu arena perlawanan pertama yang meledak dalam masyarakat sipil Taiwan. Pada tahun 1986, penduduk Lukang, Changhua berhasil menghentikan pembangunan pabrik DuPont oleh perusahaan Amerika, menjadikannya gerakan anti-polusi pertama di Taiwan yang meraih kemenangan berdasarkan alasan lingkungan, dan menetapkan konsensus sosial bahwa warga berhak menolak industri berbahaya. Gerakan anti-nuklir dan upaya penyelamatan hutan Hinoki juga terus berlanjut pada periode yang sama.
+Setelah darurat militer dicabut pada 1980-an, isu lingkungan hidup menjadi salah satu arena perlawanan pertama yang meletus dalam masyarakat sipil Taiwan. Pada 1986, warga Lugang, Changhua berhasil mencegah perusahaan Amerika DuPont membangun pabrik di sana — ini adalah kemenangan pertama gerakan anti-polusi Taiwan atas dasar lingkungan hidup, yang menegakkan konsensus sosial bahwa warga berhak menolak industri berbahaya. Gerakan anti-nuklir dan aksi konservasi seperti penyelamatan hutan cemara Cilan (Qilan) juga terus berlangsung pada periode yang sama.
 
-### Gerakan Lingkungan Modern
+### Gerakan Lingkungan Hidup Modern
 
-Fokus gerakan lingkungan hidup kontemporer telah beralih dari anti-polusi menjadi perubahan iklim, transisi energi, dan keadilan lingkungan. Diskusi tentang energi terbarukan dan debat kebijakan listrik di tahun 2025 juga membawa jejak partisipasi gerakan warga.
+Fokus gerakan lingkungan hidup kontemporer telah bergeser dari anti-polusi menuju perubahan iklim, transisi energi, dan keadilan lingkungan. Diskusi tentang energi terbarukan dan perdebatan kebijakan kelistrikan pada 2025 juga membawa jejak partisipasi gerakan sipil.
 
-## Gerakan Buruh dan Hak Sosial
+## Gerakan Buruh dan Hak-Hak Sosial
 
-Isu buruh adalah salah satu arena pertama yang dimobilisasi oleh masyarakat sipil setelah pencabutan status darurat, dengan tuntutan yang mencakup hak organisasi dasar hingga jaminan jam kerja dan upah minimum, meliputi kebutuhan pekerja dari berbagai generasi.
+Isu ketenagakerjaan adalah salah satu arena mobilisasi paling awal dalam masyarakat sipil Taiwan setelah pencabutan darurat militer, dengan tuntutan mulai dari hak dasar berorganisasi hingga jaminan jam kerja dan upah minimum, mencakup kebutuhan buruh dari berbagai generasi.
 
-Implementasi substantif hak serikat pekerja dan hak mogok baru secara bertahap didukung oleh hukum setelah gelombang perlawanan pada tahun 1980-an hingga 1990-an.
+Pelaksanaan substantif hak berorganisasi serikat pekerja dan hak mogok baru mendapat dukungan hukum secara bertahap setelah gelombang perlawanan pada 1980–1990-an.
 
-### Gerakan Hak Buruh
+### Gerakan Hak-Hak Buruh
 
-Gerakan buruh Taiwan dimulai dengan memperjuangkan hak organisasi paling dasar, mengumpulkan energi sejak akhir tahun 1980-an. Perlawanan pekerja tekstil Hualong, perjuangan pekerja pabrik yang ditutup untuk mendapatkan pesangon dan pensiun, serta pemogokan pramugari industri penerbangan setelah tahun 2016, adalah contoh penting dari dampak gerakan buruh. Perebutan reformasi jam kerja akhirnya menghasilkan penerapan sistem satu hari libur per bulan pada tahun 2018.
+Gerakan buruh Taiwan dimulai dari perjuangan untuk hak berorganisasi paling dasar, dan mulai mengumpulkan energi sejak akhir 1980-an. Perlawanan buruh tekstil Hualon, pekerja pabrik yang ditutup yang memperjuangkan pesangon dan dana pensiun, serta mogok kerja pramugari maskapai penerbangan setelah 2016, semuanya merupakan kasus penting di mana gerakan buruh meninggalkan dampak nyata. Perjuangan panjang untuk reformasi jam kerja akhirnya mendorong penerapan sistem "satu hari libur, satu hari cuti" pada 2018.
 
 ### Gerakan Buruh Penting
 
-- **Insiden Hualong:** Perlawanan pekerja tekstil.
-- **Gerakan Pekerja Pabrik Tutup:** Memperjuangkan pesangon dan pensiun.
-- **Pemogokan Pramugari:** Menuntut perbaikan kondisi kerja.
+- **Insiden Hualon:** Perlawanan buruh tekstil
+- **Gerakan Pekerja Pabrik Tutup:** Memperjuangkan pesangon dan dana pensiun
+- **Mogok Pramugari:** Memperjuangkan perbaikan kondisi kerja
 
-## Karakteristik dan Model Gerakan Sosial
+## Ciri Khas dan Pola Gerakan Sosial
 
 ### Ciri Khas Gerakan Sosial Taiwan
 
 **1. Damai dan Rasional**
-Gerakan sosial di Taiwan umumnya menggunakan metode protes damai, jarang terjadi konflik kekerasan yang hebat. Para peserta menekankan "diskusi rasional" dan "ekspresi damai," budaya ini membantu menjaga stabilitas sosial.
+Gerakan sosial Taiwan sebagian besar mengambil bentuk protes damai, dengan jarang terjadi bentrokan kekerasan yang intens. Para peserta menjunjung tinggi "wacana rasional" dan "ekspresi damai" — budaya ini membantu menjaga stabilitas sosial.
 
-**2. Pewarisan Antar Generasi**
-Dari generasi Bunga Liar hingga generasi Bunga Matahari, gerakan sosial di Taiwan menunjukkan ciri khas pewarisan antar generasi yang jelas. Pengalaman dan ideologi para aktivis senior diturunkan kepada generasi muda, membentuk kelanjutan budaya gerakan.
+**2. Pewarisan Antargenerasi**
+Dari generasi Lili Liar hingga generasi Bunga Matahari, gerakan sosial Taiwan menunjukkan ciri pewarisan antargenerasi yang jelas. Pengalaman dan gagasan aktivis generasi tua diwariskan kepada generasi muda, membentuk kesinambungan budaya gerakan.
 
 **3. Diversifikasi Isu**
-Gerakan sosial di Taiwan mencakup berbagai isu seperti politik, lingkungan hidup, buruh, gender, dan HAM, yang mencerminkan kebutuhan dan perhatian masyarakat sipil yang beragam.
+Gerakan sosial Taiwan mencakup berbagai isu seperti politik, lingkungan hidup, ketenagakerjaan, gender, dan hak asasi manusia, mencerminkan kebutuhan dan perhatian masyarakat sipil yang beragam.
 
-**4. Karakteristik Era Jaringan**
-Gerakan sosial generasi baru memanfaatkan jaringan dan media sosial secara penuh untuk mobilisasi, komunikasi, dan diskusi, menunjukkan ciri khas gerakan di era digital.
+**4. Ciri Khas Era Internet**
+Gerakan sosial generasi baru memanfaatkan sepenuhnya internet dan media sosial untuk mobilisasi, komunikasi, dan wacana, menunjukkan ciri khas gerakan di era digital.
 
-### Model Organisasi dan Strategi Mobilisasi
+### Pola Organisasi dan Strategi Mobilisasi
 
-**Peran LSM:** Organisasi non-pemerintah mendukung energi isu melalui advokasi profesional dan operasi jangka panjang.
-**Organisasi Mahasiswa:** Klub mahasiswa adalah dasar penting bagi banyak gerakan sosial.
-**Aliansi Lintas Bidang:** Berbagai kelompok membentuk aliansi untuk isu tertentu.
-**Strategi Media:** Memanfaatkan media tradisional dan baru untuk menyebarkan pesan.
+**Peran LSM:** Organisasi non-pemerintah mendukung energi isu melalui advokasi profesional dan pengelolaan jangka panjang
+**Organisasi Mahasiswa:** Klub-klub mahasiswa menjadi fondasi penting bagi banyak gerakan sosial
+**Aliansi Lintas Bidang:** Berbagai kelompok membentuk aliansi untuk isu tertentu
+**Strategi Media:** Memanfaatkan media tradisional dan media baru secara efektif untuk menyebarkan informasi
 
 ## Hubungan antara Gerakan Sosial dan Politik
 
-Terdapat hubungan simbiosis yang halus antara gerakan sosial Taiwan dan politik elektoral: gerakan menciptakan tekanan isu, partai politik menyerap suara pemilih, dan sistem menyesuaikan diri.
+Terdapat hubungan simbiosis yang halus antara gerakan sosial Taiwan dan politik elektoral: gerakan menciptakan tekanan isu, partai politik menyerap suara, dan sistem pun menyesuaikan diri.
 
 ### Dampak terhadap Politik
 
-Dampak gerakan sosial terhadap politik Taiwan bukanlah sekadar hiruk pikuk jalanan sementara, melainkan hasil konkret yang berulang kali diubah menjadi legislasi dan pemilihan umum. Pemilihan lokal tahun 2014 pasca Gerakan Bunga Matahari, serta mobilisasi pro dan kontra referendum kesetaraan pernikahan, dengan jelas menunjukkan bagaimana gerakan sosial memengaruhi strategi partai dan struktur pemilih.
+Dampak gerakan sosial terhadap politik Taiwan bukanlah sekadar riuh jalanan yang sesaat, melainkan berulang kali bertransformasi menjadi hasil konkret dalam legislasi dan pemilihan. Pemilihan daerah 2014 setelah Gerakan Bunga Matahari, serta mobilisasi pro dan kontra dalam referendum kesetaraan pernikahan, dengan jelas menunjukkan bagaimana gerakan sosial memengaruhi strategi partai dan struktur perolehan suara.
 
-### Partisipasi Kelembagaan
+### Partisipasi yang Terlembagakan
 
-Partisipasi warga telah menjadi semakin kelembagaan. Pemerintah mengadakan dengar pendapat sebelum pengambilan keputusan kebijakan besar, dan sistem referendum memungkinkan warga untuk memberikan suara langsung pada isu tertentu. Meskipun mekanisme ini tidak sempurna, ia menyediakan saluran formal bagi gerakan jalanan untuk memasuki sistem.
+Partisipasi warga semakin terlembagakan. Pemerintah mengadakan dengar pendapat publik sebelum mengambil keputusan kebijakan besar, dan sistem referendum juga memungkinkan warga untuk memberikan suara secara langsung atas isu tertentu. Meskipun mekanisme ini tidak sempurna, mereka menyediakan saluran resmi bagi gerakan jalanan untuk masuk ke dalam sistem.
 
-## Pendewasaan Masyarakat Sipil
+## Kematangan Masyarakat Sipil
 
 ### Perkembangan LSM
 
-Taiwan memiliki jaringan organisasi non-pemerintah yang aktif, mencakup berbagai bidang seperti HAM, lingkungan hidup, gender, dan buruh. Organisasi seperti Asosiasi Promosi HAM Taiwan, Yayasan Reformasi Hukum Swasta, Koalisi Aksi Warga Hijau, Yayasan Pengetahuan Wanita, Hotline Konsultasi Sesama Jenis Taiwan, dan Front Buruh Taiwan masing-masing membangun energi advokasi jangka panjang di bidang tertentu, yang merupakan dasar organisasi untuk keberlangsungan gerakan sosial.
+Taiwan memiliki jaringan organisasi non-pemerintah yang aktif, mencakup berbagai bidang isu seperti hak asasi manusia, lingkungan hidup, gender, dan ketenagakerjaan. Organisasi seperti Taiwan Association for Human Rights, Judicial Reform Foundation, Green Citizens' Action Alliance, Awakening Foundation, Taiwan Tongzhi (LGBTQ+) Hotline Association, dan Taiwan Labour Front masing-masing membangun energi advokasi jangka panjang di bidangnya, menjadi fondasi organisasi yang menopang keberlangsungan gerakan sosial.
 
-### Budaya Partisipasi Warga
+### Budaya Partisipasi Sipil
 
-Bentuk partisipasi warga di Taiwan telah melampaui protes jalanan. Budaya sukarelawan, perusahaan sosial, penggalangan dana publik, dan platform diskusi kebijakan daring (seperti vTaiwan) bersama-sama membentuk ekosistem partisipasi warga di era digital, memungkinkan lebih banyak orang untuk menemukan tempat bertindak baik di dalam maupun di luar sistem.
+Bentuk partisipasi sipil di Taiwan telah melampaui protes jalanan. Budaya sukarelawan, kewirausahaan sosial, urun dana (crowdfunding), dan platform diskusi kebijakan daring (seperti vTaiwan) bersama-sama membentuk ekosistem partisipasi sipil era digital, memungkinkan lebih banyak orang menemukan posisi untuk bertindak, baik di dalam maupun di luar sistem.
 
 ## Tantangan dan Refleksi
 
-Vitalitas masyarakat sipil Taiwan patut dicermati, tetapi juga menghadapi beberapa dilema struktural yang perlu ditangani dengan serius.
+Vitalitas masyarakat sipil Taiwan sudah diakui secara luas, namun juga menghadapi beberapa dilema struktural yang layak ditanggapi dengan serius.
 
 ### Tantangan Saat Ini
 
-Banjirnya disinformasi dan efek _echo chamber_ menyebabkan diskusi isu menjadi terpolarisasi. Terdapat perbedaan jelas antar generasi mengenai "apa cara partisipasi yang benar," sementara tembok politik biru-hijau memaksa sebagian gerakan sosial untuk memihak, sehingga sulit mempertahankan posisi lintas partai. Bagaimana menjaga independensi gerakan warga di antara celah politik partai adalah tantangan berkelanjutan bagi masyarakat sipil Taiwan.
+Maraknya disinformasi dan efek ruang gema (echo chamber) membuat diskusi isu cenderung terpolarisasi. Generasi yang berbeda memiliki perbedaan pandangan yang jelas tentang "apa cara berpartisipasi yang benar", sementara sekat politik biru-hijau juga memaksa sebagian gerakan sosial untuk memihak, sehingga sulit mempertahankan posisi non-partisan. Bagaimana menjaga independensi gerakan sipil di celah-celah politik kepartaian merupakan tantangan yang terus dihadapi masyarakat sipil Taiwan.
 
 ### Perkembangan Masa Depan
 
-Platform partisipasi digital, aliansi strategi lintas isu, dan koneksi dengan masyarakat sipil internasional adalah arah perkembangan potensial bagi gerakan sosial Taiwan. Keseimbangan antara inovasi kelembagaan dan mobilisasi jalanan masih dalam tahap eksplorasi.
+Platform partisipasi digital, aliansi strategis lintas isu, serta koneksi dengan masyarakat sipil internasional, semuanya merupakan arah pengembangan yang mungkin bagi gerakan sosial Taiwan. Bagaimana mencapai keseimbangan antara inovasi kelembagaan dan mobilisasi jalanan masih terus dicari.
 
-## Perbandingan Internasional dan Keunikan
+## Perbandingan Internasional dan Karakteristik
 
 ### Konteks Asia Timur
 
-Dibandingkan dengan gerakan sosial Jepang yang cenderung tertutup atau protes Korea Selatan yang radikal, gerakan sosial di Taiwan menunjukkan ciri khas yang rasional, lembut, namun berdampak nyata.
+Dibandingkan dengan gerakan sosial Jepang yang cenderung inward-looking atau perlawanan yang radikal di Korea Selatan, gerakan sosial Taiwan menunjukkan karakteristik yang rasional dan moderat namun dengan hasil yang terlihat nyata.
 
 ### Pengalaman Demokratisasi
 
-Pengalaman gerakan sosial Taiwan memberikan contoh penting dari "transformasi demokratis secara bertahap," menunjukkan bagaimana reformasi politik dapat dicapai sambil menjaga stabilitas sosial.
+Pengalaman gerakan sosial Taiwan menyediakan studi kasus penting tentang "transisi demokrasi bertahap", menunjukkan bagaimana mewujudkan reformasi politik dengan tetap menjaga stabilitas sosial.
 
-### Dampak terhadap Hong Kong
+### Pengaruh terhadap Hong Kong
 
-Pengalaman gerakan sosial Taiwan telah memberikan pengaruh signifikan pada Gerakan Occupy Central dan Gerakan Payung di Hong Kong, yang menunjukkan kemungkinan praktik demokrasi oleh masyarakat berbahasa Tionghoa.
+Pengalaman gerakan sosial Taiwan memberikan pengaruh penting terhadap Occupy Central dan Gerakan Payung di Hong Kong, menunjukkan kemungkinan praktik demokrasi dalam masyarakat berbahasa Tionghoa.
 
-## Signifikansi Budaya dari Gerakan Sosial
+## Makna Budaya dari Gerakan Sosial
 
-### Pembentukan Kesadaran Warga
+### Pembinaan Kesadaran Sipil
 
-Gerakan sosial adalah jalur penting untuk pendidikan warga; melalui partisipasi dalam gerakan, warga belajar nilai-nilai demokrasi, partisipasi publik, dan tanggung jawab sosial.
+Gerakan sosial adalah jalur penting bagi pendidikan kewarganegaraan. Melalui partisipasi dalam gerakan, warga belajar nilai-nilai demokrasi, partisipasi publik, dan tanggung jawab sosial.
 
-### Diskusi Nilai Sosial
+### Perdebatan Nilai-Nilai Sosial
 
-Gerakan sosial mendorong masyarakat untuk mendiskusikan dan merefleksikan berbagai pandangan nilai, sehingga mendorong pembaruan dan kemajuan nilai-nilai sosial.
+Gerakan sosial mendorong diskusi dan refleksi masyarakat terhadap nilai-nilai yang berbeda, mendorong pembaruan nilai dan kemajuan masyarakat.
 
 ### Pendalaman Budaya Demokrasi
 
-Melalui gerakan sosial, masyarakat Taiwan membentuk budaya demokrasi yang menekankan "pluralitas rasa hormat," "diskusi rasional," dan "ekspresi damai."
+Melalui gerakan sosial, masyarakat Taiwan membentuk budaya demokrasi yang menjunjung "penghormatan terhadap keberagaman", "perdebatan rasional", dan "ekspresi damai".
 
-## Inspirasi bagi Pengamat Asing
+## Wawasan bagi Pengamat Asing
 
-### Diversitas Praktik Demokrasi
+### Keberagaman Praktik Demokrasi
 
-Pengalaman Taiwan menunjukkan bahwa praktik demokrasi dapat memiliki bentuk dan jalur yang berbeda; tidak harus sepenuhnya meniru model Barat.
+Pengalaman Taiwan menunjukkan bahwa praktik demokrasi dapat memiliki berbagai bentuk dan jalur, tanpa harus sepenuhnya meniru model Barat.
 
 ### Fungsi Positif Gerakan Sosial
 
-Dalam masyarakat demokratis yang matang, gerakan sosial adalah cara partisipasi politik yang sehat, memungkinkan sistem demokrasi untuk melakukan koreksi diri dan pendalaman.
+Dalam masyarakat demokratis yang matang, gerakan sosial adalah bentuk partisipasi politik yang sehat, memungkinkan sistem demokrasi untuk melakukan koreksi diri dan memperdalam dirinya sendiri.
 
 ### Pentingnya Masyarakat Sipil
 
-Masyarakat sipil yang kuat adalah dasar penting bagi penguatan demokrasi, yang memerlukan pemeliharaan budaya jangka panjang dan dukungan kelembagaan.
+Masyarakat sipil yang kuat adalah fondasi penting bagi konsolidasi demokrasi, yang membutuhkan pembinaan budaya dan dukungan kelembagaan jangka panjang.
 
-## Pemikiran Lanjutan
+## Refleksi Lanjutan
 
-Pengalaman gerakan sosial Taiwan menunjukkan bagaimana sebuah masyarakat dapat mencapai reformasi dan kemajuan melalui partisipasi warga. Pengalaman ini memiliki makna referensi yang mendalam untuk memahami mekanisme kerja masyarakat demokratis modern dan mencari konsensus dalam masyarakat yang beragam.
+Pengalaman gerakan sosial Taiwan menunjukkan bagaimana sebuah masyarakat dapat mewujudkan reformasi diri dan kemajuan melalui partisipasi warga. Pengalaman ini memiliki makna referensi yang mendalam untuk memahami mekanisme kerja masyarakat demokratis modern, serta bagaimana mencari konsensus dalam masyarakat yang majemuk.
 
-Di masa depan, gerakan sosial Taiwan menghadapi tantangan baru seperti era digital, globalisasi, dan polarisasi politik; bagaimana mempertahankan daya persuasif dan legitimasi gerakan di lingkungan yang berubah adalah sesuatu yang patut diamati dalam jangka panjang.
+Ke depan, gerakan sosial Taiwan menghadapi tantangan baru seperti era digital, globalisasi, dan polarisasi politik. Bagaimana mempertahankan daya persuasi dan legitimasi gerakan dalam lingkungan yang terus berubah patut diamati dalam jangka panjang.
 
-**Bacaan Lanjutan:**
+**Bacaan Lanjutan**:
 
-- [Reporter: Sepuluh Tahun Menyelamatkan Jasa Riset dari Komoditas menjadi Barang Publik](/id/society/the-reporter-investigative-journalism) — Pada tahun 2015, masyarakat sipil Taiwan menyelamatkan jasa riset dari komoditas media bisnis dengan cara pemotongan bulanan oleh orang asing.
-- [justfont dan Perkembangan Tipografi Taiwan: Kisah Singkat Font dari Huakang Nian Er Shi Wu hingga Jin Xuan Qi Liu Zhong](/id/technology/justfont-and-taiwan-typography) — Kasus lain penggalangan dana publik yang menulis ulang kesadaran budaya, memperluas narasi masyarakat sipil dari sudut pandang infrastruktur tipografi.
-- [Kabel Bawah Laut: Terlihat di Atas Perisai Silikon, Tidak Terlihat di Bawah Kehidupan](/id/technology/submarine-cables-taiwan-lifeline) — Legislasi tujuh undang-undang kabel laut, Platform Pertahanan Binan, dan kasus hukum pertama Hongtai No. 58 menunjukkan sumbu tekanan masyarakat sipil dalam mendorong legislasi infrastruktur keamanan nasional.
-- [Pemecatan Besar (Da Bai Mian)](/id/history/great-recall-movement-2024) — Representasi mobilisasi generasi dan energi jalanan dari Qingniao hingga kelompok pemecatan, gelombang pemecatan terbesar dalam sejarah pada tahun 2025.
+- [The Reporter: Sepuluh Tahun Menyelamatkan Jurnalisme Investigatif dari Item Bisnis Menjadi Barang Publik](/id/society/the-reporter-investigative-journalism) — Sejak 2015, masyarakat sipil Taiwan menggunakan metode potongan bulanan dari para donatur untuk menyelamatkan jurnalisme investigatif dari sekadar item bisnis media komersial menjadi barang publik
+- [justfont dan Perkembangan Tipografi Taiwan: Sejarah Singkat Font dari 25 Tahun DynaComware hingga 76 Menit Jinxuan](/id/technology/justfont-and-taiwan-typography) — Kasus lain di tahun yang sama di mana urun dana mengubah persepsi budaya, memperluas narasi masyarakat sipil dari perspektif infrastruktur tipografi
+- [Kabel Bawah Laut: Terlihat di Atas Perisai Silikon, Tak Terlihat di Bawah Jalur Kehidupan](/id/technology/submarine-cables-taiwan-lifeline) — Legislasi Tujuh Undang-Undang Kabel Laut, platform pertahanan gabungan Pingtung, dan preseden yudisial Hongtai No. 58 menunjukkan bagaimana tekanan masyarakat sipil mendorong legislasi infrastruktur keamanan nasional
+- [Pemecatan Besar-Besaran](/id/history/great-recall-movement-2024) — Dari Bluebird hingga kelompok-kelompok pemecatan, gambaran mobilisasi antargenerasi dan penerjemahan energi jalanan menjadi kelembagaan dalam gelombang pemecatan (recall) terbesar dalam sejarah pada 2025
 
-[^1]: He Mingxiu (何明修), "Materi Gerakan Mahasiswa Bunga Liar," dikutip dalam _Generasi Gerakan: Dari Bunga Liar ke Bunga Matahari_, https://www.books.com.tw/products/0010642379.
+[^1]: He Mingxiu, "Materi Sejarah Gerakan Mahasiswa Lili Liar," dalam *Generasi Gerakan Mahasiswa: Dari Lili Liar ke Bunga Matahari*, https://www.books.com.tw/products/0010642379
 
-[^2]: Hsiao Xin-huang (蕭新煌) (Penyunting), _Gerakan Sosial Baru Taiwan_, Ju Liu Tu Shu, https://www.books.com.tw/products/0010479654.
+[^2]: Xiao Xinhuang (ed.), *Gerakan Sosial Baru di Taiwan*, Chuliu Books, https://www.books.com.tw/products/0010479654
 
-[^3]: Mahkamah Agung, _Undang-undang Pelaksanaan Interpretasi No. 748_, https://cons.judicial.gov.tw/.
+[^3]: Yuan Yudisial, "Undang-Undang Pelaksanaan Interpretasi No. 748," https://cons.judicial.gov.tw/
 
-[^4]: Asosiasi Informasi Lingkungan Taiwan, "Awal Mula Insiden DuPont," https://e-info.org.tw/.
+[^4]: Asosiasi Informasi Lingkungan Taiwan, "Kronologi Insiden Anti-DuPont," https://e-info.org.tw/
 
-[^5]: Mahkamah Agung, _Interpretasi Konstitusi No. 748_, https://cons.judicial.gov.tw/.
+[^5]: Yuan Yudisial, "Interpretasi Yuan Yudisial No. 748," https://cons.judicial.gov.tw/
 
 ## Referensi
 
-- He Mingxiu, _[Pengantar Gerakan Sosial](https://www.books.com.tw/products/0010294565)_
-- Hsiao Xin-huang, _[Gerakan Sosial Baru Taiwan](https://www.books.com.tw/products/0010479654)_
-- Lin Jia-long dan Cheng Yongnian (Penyunting), _[Transformasi dan Penguatan Demokrasi](https://www.books.com.tw/products/0010008479)_
-- _[Generasi Gerakan: Dari Bunga Liar ke Bunga Matahari](https://www.books.com.tw/products/0010642379)_
-- Situs web resmi berbagai kelompok gerakan sosial dan film terkait.
+- He Mingxiu, *[Pengantar Gerakan Sosial](https://www.books.com.tw/products/0010294565)*
+- Xiao Xinhuang, *[Gerakan Sosial Baru di Taiwan](https://www.books.com.tw/products/0010479654)*
+- Lin Chia-lung, Zheng Yongnian (ed.), *[Transisi dan Konsolidasi Demokrasi](https://www.books.com.tw/products/0010008479)*
+- *[Generasi Gerakan Mahasiswa: Dari Lili Liar ke Bunga Matahari](https://www.books.com.tw/products/0010642379)*
+- Situs resmi berbagai organisasi gerakan sosial dan dokumenter terkait

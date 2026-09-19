@@ -1,0 +1,21 @@
+{
+  "revision": 77,
+  "submissionId": "294c2a3d-f577-42c6-bde5-bd7420241c5d",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent a3f35c308b546c09b；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "兩個新問題：(1) 正文把老三台分析起點定在 1981，卻未交代 1970 年前後電視納入到 1981 之間戲劇類頒給誰、或戲劇節目獎本身何時設立，通篇無銜接句（[^2] 只寫索引範圍）。(2) 表格「公視與製作公司並列｜2016 起」錨欄的 2015《16 個夏天》聯意製作（TVBS）不是公視脈絡的反例，放在此格讓趨勢標籤自我削弱，連續三位讀者指出；應改正面錨（2016《一把青》起、2019《與惡》公視與大慕影藝）。其餘七項屬已揭露 hedge 或裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "line 46／65／71：1981 分析起點無 1970–1980 銜接——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "line 81：表格例外欄 2015 TVBS 非公視脈絡——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "line 87／89：2016 台視與好風光、2019 公視與大慕影藝可作正面錨"
+    }
+  ]
+}

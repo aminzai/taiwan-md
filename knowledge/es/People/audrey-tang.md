@@ -246,7 +246,7 @@ Este artículo utiliza 3 imágenes, todas almacenadas en caché en `public/artic
 
 [^3]: [Red de decisiones clave sobre prevención de COVID-19 del Ministerio de Salud y Bienestar](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — Relato oficial del gobierno; cita textual: «la ministra sin cartera Audrey Tang del Yuan Ejecutivo convocó a comunidades civiles para producir, mediante datos abiertos de la Administración Nacional del Seguro de Salud, la plataforma de aplicación “Consulta de mascarillas para prevención epidémica”»
 
-[^4]: [[TechNews: 一手打造口罩地圖（igual que [^1]）](](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/)) — Véase el complemento de datos en el contenido del enlace original
+[^4]: [TechNews: 一手打造口罩地圖（igual que [^1]）](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Véase el complemento de datos en el contenido del enlace original
 
 [^5]: [Entrada de Wikipedia en chino sobre Audrey Tang](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — Datos biográficos básicos: nacimiento, contexto familiar y aprendizaje infantil de BASIC con teclado de papel
 
@@ -316,7 +316,7 @@ Este artículo utiliza 3 imágenes, todas almacenadas en caché en `public/artic
 
 [^38]: [The Reporter: 開放政府，唐鳳如何過公務員這一關？](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — Cita textual de una PO: «llevo 2 meses como PO... no tengo claro cuánto podemos intervenir»
 
-[^39]: [[Liberty Times Finance: 從天才 IT 大臣到自由講師（igual que [^34]）](](https://ec.ltn.com.tw/article/breakingnews/4677986)) — Reporte de Liberty Times
+[^39]: [Liberty Times Finance: 從天才 IT 大臣到自由講師（igual que [^34]）](https://ec.ltn.com.tw/article/breakingnews/4677986) — Reporte de Liberty Times
 
 [^40]: [Plurality Institute: Book Launch of Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — Coautoría con Glen Weyl + Plurality Community / publicación del 16 de abril de 2024 / liberación bajo CC0
 

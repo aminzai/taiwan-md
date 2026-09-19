@@ -1,9 +1,9 @@
 ---
-title: 'Pixnet : Comment une plateforme a préservé le quotidien des Taïwanais en mémoire collective'
-description: "De l'album photo du campus de la National Taiwan University à la plateforme de contenu de vie taïwanaise, comment Pixnet négocie-t-elle entre liberté créative, commercialisation, gouvernance communautaire et conservation mémorielle numérique ?"
+title: 'Pixnet : Comment une plateforme transforme le quotidien des Taïwanais en mémoire publique'
+description: "De l'annuaire photo du campus de l'Université nationale Jiao Tung à la plateforme de contenu de vie taïwanaise, comment Pixnet négocie-t-il en permanence entre liberté des créateurs, commercialisation, gouvernance communautaire et préservation de la mémoire numérique ?"
 date: 2026-08-13
 category: 'Culture'
-tags: ['Pixnet', 'blog', 'culture Internet', 'mémoire numérique']
+tags: ['Pixnet', 'PIXNET', 'Blogue', 'Culture web', 'Mémoire numérique']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -15,148 +15,148 @@ translatedFrom: 'Culture/痞客邦.md'
 sourceCommitSha: '65e6d03a4'
 sourceContentHash: 'sha256:5d755db85cc865b7'
 sourceBodyHash: 'sha256:260176da7ff3515f'
-translatedAt: '2026-09-14T00:53:29+08:00'
+translatedAt: '2026-09-12T05:41:28+08:00'
 ---
 
-# Pixnet : Comment une plateforme a préservé le quotidien des Taïwanais en mémoire collective
+# Pixnet : Comment une plateforme transforme le quotidien des Taïwanais en mémoire publique
 
 ## Aperçu en trente secondes
 
-> **Thème :** Comment Pixnet est passée d'un album photo du campus de la National Taiwan University à une plateforme portant l'écriture quotidienne, les informations de vie et la mémoire numérique de Taïwan. **Chronologie :** Démarrage avec des albums photos Internet en 2003, ajout du blog en 2004, indépendance de la National Taiwan University en 2006. Par la suite, développement vers le partage publicitaire, l'analyse de données, les communautés d'intérêt et les alliances médiatiques personnelles.[^1] [^2] [^3] [^9] [^12] [^13] [^14] [^15]**Contradiction centrale :** La plateforme doit mettre à jour une structure vieillissante, gérer des problèmes de sécurité et d'exploitation, mais les utilisateurs exigent que les articles, photos, commentaires, liens et données de trafic soient conservés.[^4] [^5] [^6] [^7]**Phrase contre-intuitive :** Ce qui est le plus difficile à gérer pour une plateforme dont la valeur réside dans la préservation de la vie des utilisateurs, c'est souvent la préservation elle-même. **Ce que le lecteur retient :** Pixnet n'est pas seulement un site de blog, mais une couche de mémoire numérique de la vie taïwanaise ; comprendre ses refontes et le retrait de certaines fonctionnalités permet de voir pourquoi la conservation numérique ne signifie pas simplement garder du texte sur un serveur.
+> **Thème :** Comment Pixnet est passé d'un annuaire photo du campus de l'Université nationale Jiao Tung à une plateforme portant l'écriture du quotidien taïwanais, les informations de vie et la mémoire numérique. **Chronologie :** Lancement en 2003 avec des albums photo en ligne, ajout des fonctionnalités de blogue en 2004, indépendance par rapport à l'Université nationale Jiao Tung en 2006. Par la suite, orientation vers la répartition des revenus publicitaires, l'analyse de données, les communautés d'intérêt et les alliances de médias personnels. [^1] [^2] [^3] [^9] [^12] [^13] [^14] [^15]**Contradiction centrale :** La plateforme doit mettre à jour une architecture obsolète et gérer les problèmes de sécurité informatique et d'exploitation, tandis que les utilisateurs s'attendent à ce que les articles, images, commentaires, liens et données de trafic soient toujours préservés. [^4] [^5] [^6] [^7]**Contre-intuitif :** Une plateforme dont la valeur est la préservation de la vie des utilisateurs a souvent le plus de mal à gérer précisément cette préservation. **À emporter :** Pixnet n'est pas seulement un site de blogues, c'est aussi une couche de stockage de la mémoire de la vie numérique taïwanaise ; comprendre ses mises à jour et le retrait de certaines fonctionnalités permet de voir pourquoi la préservation numérique ne se résume pas à laisser les textes sur un serveur.
 
-**En une phrase :** L'histoire de Pixnet n'est pas seulement celle d'une plateforme qui grandit, mais celle de la manière dont le quotidien des Taïwanais trouve sa place entre les mises à jour de la plateforme et la conservation du contenu.
+**À emporter en une phrase :** L'histoire de Pixnet n'est pas seulement celle de la croissance d'une plateforme, mais celle de la manière dont le quotidien des Taïwanais cherche une place qui ne soit pas perdue entre les mises à jour de la plateforme et la préservation du contenu.
 
-En 2003, PIXNET a commencé par un besoin de partage de photos sur le campus de la National Taiwan University. En 2004, la plateforme a ajouté la fonctionnalité de blog ; en 2013, PIXNET a été rapportée comme étant l'un des cinq sites les plus visités à Taïwan.[^1] [^2] [^3] Ces trois moments clés ont tracé son évolution d'outil à plateforme, puis à base de données de vie.
+En 2003, PIXNET a émergé du besoin de partage de photos dans les campus de l'Université nationale Jiao Tung. En 2004, la plateforme a ajouté des fonctionnalités de blogue ; en 2013, PIXNET a été rapporté comme le cinquième site web le plus visité à Taïwan. [^1] [^2] [^3] Ces trois points temporels relient sa transformation d'outil à plateforme, puis à base de données de vie.
 
-Cette chronologie ressemble au parcours de croissance d'une start-up, mais ce qui est réellement spécial, c'est qu'elle a transformé un dîner, un voyage, une photo d'enfant, ou un témoignage non célèbre en une mémoire collective consultable, citée et revisitée.
+Cette chronologie ressemble à l'histoire de la croissance d'une startup, mais la particularité réelle réside dans le fait qu'elle transforme un dîner, un voyage, une photo d'enfant, une critique sans intention de devenir célèbre, en une mémoire publique pouvant être recherchée, citée et relue.
 
-Mais la mémoire ne reste pas éternellement présente juste parce qu'elle est mise sur Internet. En 2024, Pixnet a mis fin au service de « articles de nouvelle génération ». Fin 2025, la plateforme a fait face à des problèmes fonctionnels en raison d'une refonte du système, de la réparation des données et de la migration vers le cloud. En 2026, l'administration continue de publier des annonces de maintenance du système et d'optimisation de la base de données.[^4] [^5] [^6] [^7] [^8] **Le contre-intuitif est : ce qui est le plus difficile à gérer pour une plateforme dont la valeur réside dans la préservation de la vie des utilisateurs, c'est souvent la préservation elle-même.**
+Mais la mémoire n'existe pas éternellement dès qu'elle est mise en ligne. En 2024, Pixnet a cessé le service des « articles de nouveau type ». À la fin de 2025, la plateforme a fait face à des problèmes de fonctionnalité en raison de la refonte du système, de la réparation des données et du déménagement vers le cloud. En 2026, l'officialité publie toujours des annonces de maintenance du système et d'optimisation de la base de données. [^4] [^5] [^6] [^7] **Contre-intuitivement : une plateforme dont la valeur est la préservation de la vie des utilisateurs a souvent le plus de mal à gérer précisément cette préservation.**
 
-## Une photo avant une entreprise
+## Une photo précède une entreprise
 
-Le point de départ de Pixnet n'était pas un plan médiatique grandiose, mais un besoin très concret sur le campus. Liu Hao-en (劉昊恩), l'un des fondateurs, se souvient que lorsque les appareils photo numériques sont devenus courants, ses camarades avaient besoin d'un endroit pour partager des photos ; il a également remarqué que la transmission des informations sur les activités du campus n'était pas assez rapide. Le partage de photos et les informations du campus étaient deux portes d'entrée pour une même idée.[^2]
+Le point de départ de Pixnet n'était pas un grand plan médiatique, mais un besoin très concret sur le campus. Le fondateur Liu Hao-en se souvient qu'après la généralisation des appareils photo numériques, les camarades de classe avaient besoin d'un endroit pour partager des photos ; il a également remarqué que les informations sur les activités du campus n'étaient pas transmises en temps opportun. Le partage de photos et les informations du campus sont devenus les deux entrées d'une même idée. [^2]
 
-Ce point de départ explique pourquoi PIXNET était d'abord un album photo Internet avant d'ajouter le blog l'année suivante. Un reportage du _Liberty Times_ en 2007 indique que PIXNET a fourni des albums photos Internet en 2003, est passé au service de blog en 2004 et a obtenu son indépendance vis-à-vis de la National Taiwan University en 2006.[^3]
+Ce point de départ explique pourquoi PIXNET était d'abord un album photo en ligne, et n'a ajouté des fonctionnalités de blogue que l'année suivante. Un rapport de 2007 du _Liberty Times_ note également que PIXNET a d'abord fourni des albums photo en ligne en 2003, s'est transformé en service de blogue en 2004, et s'est indépendant de l'Université nationale Jiao Tung en 2006. [^3]
 
-|   Année   |                           Évolution de la plateforme                           |                             Signification vérifiable                             |
-| :-------: | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-|   2003    |                   Démarrage avec des albums photos Internet                    |             Le besoin des utilisateurs précède le produit commercial             |
-|   2004    |                       Ajout de la fonctionnalité de blog                       |              Le partage de photos s'étend à l'écriture longue durée              |
-| 2006-2007 |      Indépendance vis-à-vis du campus et introduction de capitaux locaux       |                  Le service scolaire entre en phase commerciale                  |
-|   2012    |         Lancement du programme de revenus publicitaires des blogs MIB          |    Le contenu des créateurs commence à être lié à un système de revenus[^12]     |
-| 2017-2018 |        Lancement de Bangbang, du mur d'intérêt et de la nouvelle Pixnet        |         Passage d'un article unique aux communautés d'intérêt[^13] [^14]         |
-|   2024    |                Fin du service d'articles de nouvelle génération                | Le retrait de fonctionnalité devient un problème de conservation des données[^4] |
-| 2025-2026 | Refonte du système, réparation du contenu et maintenance de la base de données |    Collision entre mise à jour de la plateforme et préservation de la mémoire    |
+| Temps     | Changement de la plateforme                                                          | Signification vérifiable                                                                   |
+| --------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 2003      | Lancement avec des albums photo en ligne                                             | Le besoin des utilisateurs précède le produit commercial                                   |
+| 2004      | Ajout des fonctionnalités de blogue                                                  | Le partage de photos s'étend à l'écriture à long terme                                     |
+| 2006–2007 | Indépendance par rapport à Jiao Tung et introduction des capitaux de Cheng & Fung    | Le service du campus entre dans la phase de commercialisation                              |
+| 2012      | Lancement du programme de répartition des revenus publicitaires MIB pour les blogues | Le contenu des créateurs commence à être lié au système de revenus [^12]                   |
+| 2017–2018 | Lancement de BangBang, du Mur d'intérêts et du nouveau Pixnet                        | Passage de l'article unique à la communauté d'intérêt [^13] [^14]                          |
+| 2024      | Fin du service des articles de nouveau type                                          | Le retrait de la fonctionnalité devient un problème de préservation des données [^4]       |
+| 2025–2026 | Refonte du système, réparation du contenu et maintenance de la base de données       | La mise à jour de la plateforme et la préservation de la mémoire entrent en conflit direct |
 
-📝 Note du curateur : La première innovation de Pixnet n'a pas été de faire des gens ordinaires des célébrités, mais de transformer l'idée que « la vie ordinaire mérite d'être conservée » en une habitude numérique.
+📝 Note du conservateur : La première innovation de Pixnet n'était pas de transformer les ordinaires en stars, mais de faire de « la vie ordinaire mérite d'être laissée » une habitude web.
 
-## Du service scolaire à l'infrastructure de contenu locale
+## Du service du campus à l'infrastructure de contenu local
 
-Le reportage de 2007 sur le rachat de PIXNET par le groupe Chengbang a marqué un tournant après son départ du campus : bien que l'équipe de gestion initiale soit restée actionnaire, la plateforme a également attiré de nouveaux partenaires en capital.[^3] Ce n'est pas seulement une histoire d'entrepreneuriat étudiant ; c'est un échange courant dans les services Internet locaux : le financement permet à la plateforme de continuer à grandir, et le capital apporte des revenus, une échelle et des attentes en matière de gouvernance.
+Le rapport de 2007 sur l'entrée du groupe Cheng & Fung dans PIXNET laisse une trace du tournant de la plateforme après son départ du campus : l'équipe de gestion existante reste actionnaire, mais la plateforme a également introduit de nouveaux partenaires de capitaux. [^3] Il ne s'agit pas simplement d'une histoire d'entrepreneuriat étudiant, mais d'un échange courant dans les services web locaux : les capitaux permettent à la plateforme de continuer à croître, tandis que le capital apporte des revenus, une échelle et des attentes de gouvernance.
 
-En 2013, le _Taipei Times_ a enregistré un pic de PIXNET avec son classement Alexa : le reportage affirmait qu'elle était alors l'un des cinq sites les plus visités à Taïwan, citant la plateforme comme ayant accumulé environ 190 millions d'articles et 230 millions de photos, produisant potentiellement 300 000 articles par jour.[^1] Ce sont des instantanés historiques de 2013, pas la situation actuelle en 2026.
+En 2013, le _Taipei Times_ a enregistré un sommet de PIXNET via le classement Alexa : le rapport indiquait qu'il était alors le cinquième site web le plus visité à Taïwan, citant les dires de la plateforme selon lesquels il avait accumulé environ 190 millions d'articles et 230 millions de photos, produisant quotidiennement 300 000 articles. [^1] Il s'agit de clichés historiques de 2013, pas de la situation actuelle de 2026.
 
-La rétrospective de _Digital Age_ en 2020 a replacé cette base de données dans la stratégie de la plateforme : PIXNET s'est étendue des albums et des blogs au commerce social, au marketing numérique et à l'analyse de données. Lors du lancement de la « nouvelle Pixnet » en 2018, elle a également intégré des fonctionnalités comme le mur d'intérêt et Bangbang.[^9]
+Un retour en arrière de _Digital Times_ en 2020 replace cette base de données dans la stratégie de la plateforme : PIXNET s'est étendu des albums et des blogues au commerce social, au marketing numérique et à l'analyse de données. Lors du lancement du « nouveau Pixnet » en 2018, des fonctionnalités telles que le Mur d'intérêts et BangBang ont également été ajoutées. [^9]
 
-Cela signifie que les problèmes auxquels la plateforme est confrontée ont changé. Le problème initial était « comment faire pour que les gens mettent leurs photos », tandis que le problème est devenu « comment faire en sorte que le contenu soit trouvé, interagi et transformé en nouveaux services ». La plateforme n'est plus seulement un conteneur ; elle intervient dans la distribution de contenu, les relations sociales et la valeur commerciale.
+Cela signifie que les problèmes auxquels la plateforme fait face ont changé. Le problème précoce était « comment faire monter les photos », le problème est devenu « comment faire trouver le contenu, interagir avec lui, le transformer en nouveau service ». La plateforme n'est plus seulement un conteneur, elle commence à intervenir dans la distribution de contenu, les relations communautaires et la valeur commerciale.
 
-📝 Note du curateur : Lorsqu'un site accumule suffisamment de détails de vie, il ne fournit pas seulement des pages, mais une infrastructure sur « comment les Taïwanais recherchent leur vie ».
+📝 Note du conservateur : Lorsqu'un site web accumule suffisamment de détails de vie, il ne fournit plus seulement des pages, mais une infrastructure de « la manière dont les Taïwanais recherchent leur vie ».
 
-## De plateforme de trafic à écosystème créatif
+## D'une plateforme de trafic à un écosystème de créateurs
 
-La commercialisation de Pixnet n'est pas simplement l'affichage de publicités ; c'est la transformation progressive du fait que « le contenu est vu » en un écosystème complet où « le créateur peut produire durablement, la marque trouve un partenaire approprié et la plateforme peut supporter les coûts de stockage et de transmission ». Le programme de revenus publicitaires MIB de 2012 a intégré les revenus des créateurs dans le produit de la plateforme. Un reportage de 2016 décrivait PIXinsight comme un système qui organisait les données d'articles et les comportements sociaux pour aider à la coopération entre publicités et contenu. Ce sont des déclarations spécifiques à une période de la plateforme ou de l'entreprise, pas une garantie du système de revenus actuel.[^12]
+La commercialisation de Pixnet ne consiste pas seulement à placer des publicités sur les pages, mais à transformer progressivement le « le contenu est vu » en un écosystème complet de « les créateurs peuvent-ils continuer à produire, les marques peuvent-elles trouver le bon public, la plateforme peut-elle supporter les coûts de stockage et de transmission ». Le programme de répartition des revenus publicitaires MIB de 2012 a fait du revenu des créateurs une partie du produit de la plateforme. Un rapport de 2016 décrit PIXinsight comme un système organisant les données des articles et des comportements communautaires, aidant aux collaborations publicitaires et de contenu. Il s'agit de déclarations spécifiques à la plateforme ou à l'entreprise à une période donnée, pas de garanties du système de revenus aujourd'hui. [^12]
 
-La « nouvelle Pixnet » de 2018 a placé le blog, le mur d'intérêt et Bangbang dans un même cadre produit. Le reportage de l'époque indiquait que le mur d'intérêt proposait 80 catégories d'intérêts et qu'il y avait plus de 5 000 Bangbang enregistrés ; ces chiffres ne représentent que les données au moment du lancement en 2018.[^13]
+Le « nouveau Pixnet » de 2018 a placé les blogues, le Mur d'intérêts et BangBang dans la même architecture de produit. Les rapports de l'époque indiquaient que le Mur d'intérêts offrait 80 catégories d'intérêt, et notait que la plateforme avait plus de 5 000 BangBang ; ces chiffres ne représentent que les données au moment de la publication en 2018. [^13]
 
-La plateforme a également étendu l'évaluation des créateurs au-delà du site. Le reportage sur l'alliance médiatique personnelle en 2018 décrivait comment PIXinsight analysait les créateurs selon des axes tels que la force de recherche, le pouvoir d'attraction, la capacité de diffusion, le pouvoir de mobilisation et la puissance interactive, mentionnant alors près de 300 blogs indépendants ayant rejoint le programme.[^15] Pour les créateurs, cela offrait exposition et collaboration ; pour la plateforme, cela intégrait l'écriture personnelle dans un écosystème de contenu mesurable, distribué et échangeable.
+La plateforme a également étendu l'évaluation des créateurs aux blogues hors site. Un rapport de 2018 sur l'Alliance des médias personnels décrit PIXinsight analysant les créateurs selon la puissance de recherche, la popularité, la puissance de diffusion, le pouvoir d'appel et l'interactivité, mentionnant qu'il y avait alors près de 300 blogues indépendants ayant rejoint le programme. [^15] Pour les créateurs, cela offre une exposition et des collaborations ; pour la plateforme, il s'agit d'intégrer l'écriture personnelle dans un écosystème de contenu quantifiable, distribuable et commercialisable.
 
-## Une plateforme jouant quatre rôles simultanément
+## Une plateforme jouant simultanément quatre rôles
 
-|             Rôle             |                         Fonction vue par l'utilisateur                         |                         Responsabilité assumée par la plateforme                         |
-| :--------------------------: | :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| Outil d'édition personnelle  | Publication, édition, illustration, catégorisation et mise à jour longue durée |                     Le contenu est stockable, modifiable et traçable                     |
-| Base de données de recherche |      Trouver des articles anciens et des expériences de vie par mots-clés      |      Stabilité des liens, indexation claire, non-disparition arbitraire du contenu       |
-|     Communauté d'intérêt     |              Commentaires, partage, suivi et agrégation de sujets              |        Notifications, interaction, gestion des abus et gouvernance communautaire         |
-|  Infrastructure commerciale  |            Publicité, coopération, trafic et revenus des créateurs             | Transparence des revenus, stabilité du système, communication sur les risques de refonte |
+| Rôle                             | Fonctionnalité vue par l'utilisateur                               | Responsabilité que la plateforme doit assumer                                      |
+| -------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Outil de publication personnelle | Publier, éditer, illustrer, classer et mettre à jour à long terme  | Contenu pouvant être stocké, modifié, traçable                                     |
+| Base de données de recherche     | Trouver d'anciens articles et expériences de vie via des mots-clés | Liens stables, index clair, contenu ne disparaissant pas arbitrairement            |
+| Communauté d'intérêt             | Commentaires, partage, suivi et agrégation de sujets               | Notifications, interaction, traitement des violations et gouvernance communautaire |
+| Infrastructure commerciale       | Publicité, collaboration, trafic et revenus des créateurs          | Revenus transparents, stabilité du système, risques de mise à jour communiqués     |
 
-Le concept de Bangbang visait à permettre aux utilisateurs de naviguer et d'interagir en fonction de la classification par intérêt, des zones phares, des étoiles, du degré de discussion et de la date.[^14] Cette conception a réduit le sentiment de monopole du mécanisme de recommandation unique des grandes plateformes, mais cela ne signifie pas que les problèmes de gouvernance ont disparu : le contenu indésirable, le plagiat, les attaques malveillantes, les révélations commerciales et les contenus illégaux doivent toujours être gérés.
+L'idée de BangBang est de permettre aux utilisateurs de naviguer et d'interagir de manière autonome en classant par intérêt, zone de精华 (essence), étoiles, popularité de la discussion et date. [^14] Cette conception réduit le sentiment de monopole d'un mécanisme de recommandation unique sur les grandes plateformes, mais ne signifie pas que les problèmes de gouvernance disparaissent : le contenu spam, le plagiat, les attaques malveillantes, les divulgations commerciales, le contenu illégal et le pouvoir de classement doivent toujours être gérés.
 
-La plateforme doit donc expliquer simultanément la liberté et les limites : qui peut publier ? quel contenu sera supprimé ? qui gère la communauté ? est-ce que les critères de classement sont compréhensibles ? Peut-on faire appel après une suppression de contenu ? Ce ne sont pas seulement des problèmes d'interface produit, mais un contrat de gouvernance formé lorsque les utilisateurs confient leur quotidien à la plateforme.
+La plateforme doit donc simultanément expliquer la liberté et les limites : qui peut publier ? Quel contenu sera supprimé ? Qui gère la communauté ? Les critères de classement sont-ils compréhensibles ? Peut-on faire appel après la suppression du contenu ? Ce ne sont pas seulement des problèmes d'interface produit, mais aussi le contrat de gouvernance formé lorsque les utilisateurs confient leur quotidien à la plateforme.
 
 ## La vie taïwanaise dans les résultats de recherche
 
-La fonction de Pixnet qui est le plus souvent sous-estimée est celle qui permet à de nombreuses expériences non rapportées par les médias traditionnels d'être mises en forme consultable. Les revues de restaurants, les témoignages familiaux, les évaluations d'hébergement, les comparaisons d'appareils électroménagers et les voyages locaux n'ont pas besoin d'être considérés comme des nouvelles majeures pour avoir le droit d'exister.
+La fonctionnalité la plus sous-estimée de Pixnet est qu'elle donne une forme recherchable à de nombreuses expériences que les médias traditionnels ne rapporteraient pas. Les critiques de restaurants, les expériences parentales, les évaluations d'hébergement, les comparaisons d'appareils électroménagers et les voyages locaux n'ont pas besoin d'être d'abord reconnus comme des nouvelles majeures pour avoir le droit d'exister.
 
-La valeur de ce type de contenu ne réside pas dans l'autorité de chaque article, mais dans la carte de perception de vie formée par la superposition de nombreuses expériences individuelles. Quelqu'un documente la manière d'attendre dans un magasin, quelqu'un ajoute les itinéraires en cas de pluie, quelqu'un décrit ce qu'une même attraction signifie pour une famille avec des enfants. Le lecteur ne cherche pas seulement une réponse, il compare aussi si la vie des autres est similaire à sa propre situation.
+La valeur de ce type de contenu ne réside pas dans le fait que chaque article est autoritaire, mais dans le fait qu'après l'accumulation de nombreuses expériences personnelles, elles forment une carte de la perception de la vie. Quelqu'un enregistre la méthode de file d'attente d'un restaurant, quelqu'un d'autre complète le parcours par temps de pluie, quelqu'un d'autre écrit ce que le même site signifie pour une famille avec enfants. Les lecteurs ne cherchent pas seulement des réponses, ils comparent également si la vie des autres est proche de leur propre situation.
 
-Lorsqu'il a été interviewé en 2021, Liu Hao-en (劉昊恩) a décrit son rôle chez PIXNET comme celui d'un « phare » qui ramenait les besoins externes à l'entreprise, soulignant que même des gens ordinaires de Taïwan pouvaient contribuer avec des œuvres.[^2] C'est là la différence entre Pixnet et une plateforme médiatique pure : son écosystème de contenu n'est pas soutenu uniquement par quelques auteurs professionnels, mais par un grand nombre d'utilisateurs sans titre fixe.
+Liu Hao-en, dans une interview de 2021, a décrit son rôle chez PIXNET comme un « phare » ramenant les demandes extérieures à l'entreprise, soulignant que les Taïwanais ordinaires peuvent également contribuer des œuvres. [^2] Cela souligne la différence entre Pixnet et les plateformes purement médiatiques : son écosystème de contenu n'est pas soutenu uniquement par quelques auteurs professionnels, mais repose sur de nombreux utilisateurs sans titre fixe.
 
-Cependant, l'expérience de vie n'est pas le fait lui-même. Les critiques de blog peuvent être influencées par des positions, des relations de coopération ou des biais de mémoire ; le classement de recherche ne signifie pas la qualité du contenu. Pixnet offre un espace où les expériences sont vues, pas un sceau d'authenticité pour chaque expérience. Les lecteurs doivent toujours identifier l'auteur, la date et les relations de coopération, et vérifier par d'autres sources.
+Cependant, l'expérience de vie n'est pas la réalité elle-même. Les critiques des blogueurs peuvent être influencées par des positions, des relations de coopération ou des biais de mémoire ; le classement de recherche n'est pas égal à la qualité du contenu. Pixnet offre un terrain où l'expérience est vue, pas un sceau de vérité apposé sur chaque expérience. Les lecteurs doivent toujours identifier l'auteur, la date, les relations de coopération et croiser les vérifications avec d'autres sources.
 
-📝 Note du curateur : La nature publique du blog ne réside pas dans le fait que tout le monde est un expert, mais dans le fait que l'expérience de chacun peut être le point de départ pour quelqu'un d'autre.
+📝 Note du conservateur : La nature publique des blogues ne réside pas dans le fait que chacun devient un expert, mais dans le fait que l'expérience de chacun peut devenir le point de départ de l'autre.
 
-## Le retrait de fonctionnalité, pourquoi ressemble-t-il à une déménagement de mémoire ?
+## Pourquoi le retrait des fonctionnalités ressemble à un déménagement de mémoire
 
-En 2024, Pixnet a annoncé la fin du service « articles de nouvelle génération » le 28 juin. L'annonce a spécifiquement précisé qu'il ne s'agissait pas d'un article de blog ordinaire ; la fonctionnalité de blog est toujours utilisable et les utilisateurs sont invités à sauvegarder leurs données au préalable.[^4]
+En 2024, Pixnet a annoncé que la fonctionnalité des « articles de nouveau type » prendrait fin le 28 juin. L'annonce précisait spécifiquement qu'il ne s'agissait pas d'articles de blogue ordinaires, que la fonctionnalité des articles de blogue restait utilisable, et recommandait aux utilisateurs de conserver les données au préalable. [^4]
 
-D'un point de vue de la gestion de produit, c'est un retrait de fonctionnalité ; du point de vue de l'utilisateur, cela ressemble soudainement à une pièce de maison qui est fermée. Le contenu pourrait toujours être dans le compte, mais la mise en page originale, l'agencement des images, le contexte des commentaires et les relations de liens ne sont pas nécessairement conservés de la même manière.
+Du point de vue de la gestion de produit, c'est un retrait de fonctionnalité ; du point de vue de l'utilisateur, cela ressemble à une pièce de la maison soudainement fermée à clé. Le contenu est peut-être toujours dans le compte, mais la mise en page originale, l'agencement des images, le contexte des commentaires et les relations de liens ne seront peut-être pas préservés de la même manière.
 
-La conservation numérique comprend au moins quatre niveaux : premièrement, les fichiers tels que texte, photos et vidéos ; deuxièmement, la structure telle que la classification, les étiquettes, les commentaires, les liens internes et les versions d'articles ; troisièmement, la visibilité telle que l'URL, l'index de recherche et la présentation frontale ; quatrièmement, la portabilité telle que la sauvegarde, l'exportation et la lecture inter-systèmes. Toute interruption à un niveau rend le fait que « l'article existe » une réponse incomplète.
+La préservation numérique comprend au moins quatre niveaux : le premier est les fichiers tels que le texte, les photos et les vidéos ; le second est la structure telle que les catégories, les étiquettes, les commentaires, les liens internes et les versions d'articles ; le troisième est la visibilité telle que les URL, l'index de recherche et la présentation avant-garde ; le quatrième est la portabilité telle que les sauvegardes, l'exportation et la lecture inter-systèmes. L'interruption de n'importe lequel de ces niveaux rend la réponse « l'article est toujours là » incomplète.
 
-Pour les utilisateurs, il est possible de conserver les fichiers texte et images originaux des articles importants, d'enregistrer la date de publication, l'URL originale et la classification, et de vérifier régulièrement les liens externes. Ce n'est pas rejeter la responsabilité sur l'individu, mais reconnaître que la mémoire numérique nécessite plusieurs copies pour minimiser les pertes dues à une défaillance de plateforme unique.
+Pour les utilisateurs, les articles importants peuvent conserver le texte original et les fichiers image, noter la date de publication, l'URL originale et la catégorie, et vérifier régulièrement les liens externes. Il ne s'agit pas de transférer la responsabilité de la plateforme sur l'individu, mais de reconnaître que la mémoire numérique nécessite plusieurs copies pour réduire les pertes causées par la défaillance d'une seule plateforme.
 
-## 2025-2026 : La refonte met en avant la contradiction de la plateforme
+## 2025–2026 : La mise à jour pousse les contradictions de la plateforme au premier plan
 
-En décembre 2025, Pixnet a publié une lettre ouverte expliquant que la refonte complète du système et la migration vers le cloud causaient des inconvénients aux membres, citant l'ancienne structure, les lacunes dans le support des modules centraux et les risques de sécurité comme raisons de reconstruction.[^6] Une annonce simultanée mentionnait la réparation des données de commentaires et de popularité, l'affichage des albums, le style frontal, la gestion arrière et l'index du site. Une autre annonce faisait état d'anomalies de connexion et de problèmes avec le système publicitaire.[^5] [^8]
+En décembre 2025, une lettre ouverte de Pixnet expliquait que la refonte complète du système et le déménagement vers le cloud causaient des inconvénients aux membres, et listait l'ancienne architecture, le manque de soutien des modules centraux et les risques de sécurité informatique comme raisons de la reconstruction. [^6] Une annonce simultanée mentionnait la compensation des données de commentaires et de popularité, l'affichage des albums, le style avant-garde, la gestion arrière et l'indexation du site étant réparés progressivement. Une autre annonce expliquait les anomalies de connexion et les problèmes du système publicitaire. [^5] [^8]
 
-Le 19 décembre, l'administration a annoncé que le contenu et les symboles des anciens articles avaient été restaurés, en précisant qu'une méthode de réparation consistait à « conserver les liens originaux et à synchroniser les données les plus récentes » pour les anciens articles antérieurs à une certaine date. Les articles édités pendant la période anormale ont conservé à la fois leur version réparée originale et une copie de sauvegarde.[^10] Cela a révélé que ce qui était le plus difficile à réparer pour la plateforme n'était pas un fichier unique, mais « quelle version est l'article original ».
+Le 19 décembre, l'officialité a annoncé que le contenu et les symboles des anciens articles étaient restaurés, expliquant que pour les anciens articles avant certaines dates, une méthode de réparation « conservant le lien original, synchronisant les dernières données » était adoptée. Les articles édités pendant la période d'anomalie conservaient simultanément la version de réparation originale et la version de sauvegarde ajoutée. [^10] Cela révèle que ce que la plateforme a le plus de mal à réparer n'est pas un fichier unique, mais « quelle version compte comme l'article original ».
 
-En février 2026, l'administration a listé des éléments toujours en ajustement ou en test : éditeur, album système, articles populaires, commentaires récents, statistiques de popularité, CSS personnalisé, performance du stockage d'images et exportation d'articles.[^7] Une annonce de mai prévoyait une optimisation de la base de données des membres et une maintenance du système, interrompant temporairement l'accès en ligne et les services arrière, mais permettant toujours la consultation des articles frontaux.[^11]
+En février 2026, l'officialité a listé les projets encore en ajustement ou en test : l'éditeur, l'album système, les articles populaires, les derniers commentaires, les statistiques de popularité, le CSS personnalisé, la performance du nuage d'images et l'exportation d'articles. [^7] Une annonce de mai a ensuite annoncé l'optimisation de la base de données des membres et la maintenance du système, suspendant la connexion et les services arrière pendant la maintenance, mais les articles avant-garde restent consultables. [^11]
 
-À la date de cette vérification, ces annonces prouvent que la plateforme est toujours en maintenance, réparation et refonte ; on ne peut pas déduire que toutes les fonctionnalités sont définitivement stables, ni considérer le progrès de réparation officiel comme une validation externe indépendante. Pour le lecteur, la compréhension la plus sûre est : Pixnet fonctionne toujours, mais sa forme technique et produit est en constante évolution.
+À la date de vérification de cet article, ces annonces prouvent que la plateforme est toujours en maintenance, en réparation et en refonte ; on ne peut pas en déduire que toutes les fonctionnalités sont stables de manière permanente, ni prendre les progrès de réparation de l'officialité comme une validation indépendante externe. Pour les lecteurs, la compréhension la plus sûre est : Pixnet fonctionne toujours, mais sa forme technique et produit continue de changer.
 
-📝 Note du curateur : Pour la plateforme, la refonte est un projet d'ingénierie ; pour l'utilisateur, c'est remettre dix ans de son écriture à un système étranger pour qu'il soit reconnu.
+📝 Note du conservateur : Pour la plateforme, la mise à jour est un工程 (ingénierie) ; pour l'utilisateur, la mise à jour est le fait de remettre à un système étranger dix ans de ce qu'il a écrit.
 
-## Conclusion : La conservation n'est pas l'immobilité, mais la capacité à être emportée
+## Conclusion : La préservation n'est pas l'immuabilité, mais ce qui peut être emporté
 
-L'histoire de Pixnet a deux vitesses. La vitesse de l'entreprise, allant des albums scolaires au service communautaire et à l'architecture cloud ; la vitesse de l'utilisateur, est un article rédigé en une demi-heure qui peut résoudre un petit problème pour un lecteur étranger dix ans plus tard.
+L'histoire de Pixnet a deux vitesses. La vitesse de l'entreprise, passant des albums du campus, à la commercialisation, aux services communautaires, jusqu'à l'architecture cloud ; la vitesse des utilisateurs, c'est un article écrit en demi-heure qui peut, dix ans plus tard, résoudre un petit problème pour un lecteur étranger.
 
-Ces deux vitesses ne peuvent pas être égales indéfiniment. La plateforme ne peut pas refuser de gérer les systèmes vieillissants et les risques de sécurité parce que l'ancienne interface porte la mémoire ; et l'utilisateur ne devrait pas être obligé d'assumer seul toute la responsabilité de conservation parce que la plateforme doit se mettre à jour. Une culture numérique mature doit considérer « comment mettre à jour » et « comment conserver » comme un problème unique.
+Les deux vitesses ne peuvent pas rester alignées éternellement. La plateforme ne peut pas refuser de traiter les anciens systèmes et les risques de sécurité informatique parce que l'ancienne interface porte la mémoire ; les utilisateurs ne devraient pas non plus être exigés de porter seuls toute la responsabilité de préservation parce que la plateforme a besoin de mises à jour. Une culture numérique mature devrait considérer « comment mettre à jour » et « comment préserver » comme un seul problème.
 
-Par conséquent, ce qui mérite d'être retenu de Pixnet n'est ni un classement de trafic particulier, ni le succès ou l'échec d'une fonctionnalité, mais le fait qu'elle a permis au quotidien des Taïwanais de s'accumuler à faible barrière. À partir d'une photo du campus de la National Taiwan University, beaucoup de choses qui n'apparaîtront jamais dans un annuaire sont conservées dans les moteurs de recherche et la mémoire des lecteurs.
+Par conséquent, ce que Pixnet mérite d'être rappelé n'est pas un classement de trafic spécifique, ni si une fonctionnalité a réussi, mais qu'elle a permis à la vie des Taïwanais de s'accumuler à un seuil bas. À partir d'une photo du campus de Jiao Tung, beaucoup de choses qui ne figurent pas dans les chronologies ont été préservées dans les moteurs de recherche et la mémoire des lecteurs.
 
-Pixnet ne restera peut-être pas toujours sous la même forme, mais tant qu'elle comprend que ce que l'utilisateur livre n'est pas seulement du contenu, mais un petit fragment d'existence consultable, chaque décision produit n'est pas seulement une décision technique, c'est aussi une responsabilité culturelle.
+Pixnet ne maintiendra peut-être pas toujours la même apparence, mais tant qu'il comprend que ce que les utilisateurs lui confient n'est pas seulement du contenu, mais un petit segment de vie pouvant être relu, alors chaque décision de produit n'est pas seulement une décision technique, mais aussi une responsabilité culturelle.
 
 ## Références
 
-## Notes de bas de page
+## Footnotes
 
-[^1]: [Pixnet monte dans les classements de trafic locaux au rang 5](https://www.taipeitimes.com/News/biz/archives/2013/07/23/2003567923) — Rédacteur du personnel pour le CNA Taipei Times 2013-07-23
+[^1]: [Pixnet moves up in local traffic ratings to No. 5](https://www.taipeitimes.com/News/biz/archives/2013/07/23/2003567923) — Staff writer with CNA Taipei Times 2013-07-23
 
-[^2]: [Liu Hao-en, fondateur de PIXNET : Écouter les besoins, créer des services](https://mol.mcu.edu.tw/pixnet%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%8A%89%E6%98%8A%E6%81%A9%EF%BC%9A%E8%81%86%E8%81%BD%E9%9C%80%E5%89%B5%E9%80%A0%E6%9C%8D%E5%8B%99/) — Yang Chen, _Ming Pao Jishi Xinwen_ 2021-12-24
+[^2]: [PIXNET創辦人劉昊恩：聆聽需求 創造服務](https://mol.mcu.edu.tw/pixnet%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%8A%89%E6%98%8A%E6%81%A9%EF%BC%9A%E8%81%86%E8%81%BD%E9%9C%80%E5%89%B5%E9%80%A0%E6%9C%8D%E5%8B%99/) — 楊晨 銘報即時新聞 2021-12-24
 
-[^3]: [Le groupe Chengbang rachète PIXNET](https://ec.ltn.com.tw/article/paper/120130) — Wang Peihua, _Liberty Finance_ 2007-03-14
+[^3]: [城邦集團入主PIXNET](https://ec.ltn.com.tw/article/paper/120130) — 王珮華 自由財經 2007-03-14
 
-[^9]: [Passé et présent de PIXNET – Les deux flèches de transformation du site natif le plus visité à Taïwan](https://www.bnext.com.tw/article/57592/pixnet-2003) — FC Future Business, _Digital Age_ 2020-05-11
+[^9]: [PIXNET前世今生——台灣流量最高原生網站發射的轉型兩箭](https://www.bnext.com.tw/article/57592/pixnet-2003) — FC未來商務 數位時代 2020-05-11
 
-[^12]: [L'évolution innovante de "Attack on Titan" Pixnet pour une nouvelle ère](https://www.cw.com.tw/article/5077024) — Département de planification de communication intégrée, _Tianxia Magazine_ 2016-06-21
+[^12]: [進擊的巨人「痞客邦 PIXNET」創新蛻變迎向新時代](https://www.cw.com.tw/article/5077024) — 整合傳播部企劃製作 天下雜誌 2016-06-21
 
-[^13]: [Nouvelle Pixnet en ligne avec l'interaction communautaire guidée par les intérêts](https://www.brain.com.tw/news/articlecontent?ID=46448) — PIXNET Brainstorming 2018-05-09
+[^13]: [全新痞客邦上線 以興趣引領社群互動](https://www.brain.com.tw/news/articlecontent?ID=46448) — PIXNET 動腦 2018-05-09
 
-[^14]: [Nouveau service social de PIXNET : Bangbang lance une nouvelle force sociale](https://www.dma.org.tw/newsPost/190) — Association Taïwanaise des applications et du marketing numérique 2017-11-29
+[^14]: [PIXNET 社群新服務 痞客邦推出「邦邦」打造社群新勢力](https://www.dma.org.tw/newsPost/190) — 台灣數位媒體應用暨行銷協會 2017-11-29
 
-[^15]: [Création de l'alliance médiatique personnelle de Pixnet pour encourager la gestion communautaire complète](https://vocus.cc/article/661fb337fd89780001c27b03) — _Advertising Magazine_ 2018-07-06 mis à jour le 2024-04-18
+[^15]: [痞客邦個人媒體聯盟成立 鼓勵社群全面化經營](https://vocus.cc/article/661fb337fd89780001c27b03) — 廣告雜誌 2018-07-06 更新於 2024-04-18
 
-[^4]: [[Annonce] Le service « articles de nouvelle génération » a été interrompu le 28 juin 2024](https://admin.pixnet.net/blog/posts/49241196) — Annonce du site Pixnet 2024-03-25
+[^4]: [[公告]「新型態文章」已於 2024 年 6 月 28 日終止服務](https://admin.pixnet.net/blog/posts/49241196) — 痞客邦站方公告 2024-03-25
 
-[^5]: [【Avis système】 Mise à jour 3 sur l'état de la maintenance du système](https://admin.pixnet.net/blog/posts/840251892528537256) — Annonce du site Pixnet 2025-12-12
+[^5]: [【系統公告】系統維護進度說明 更新3](https://admin.pixnet.net/blog/posts/840251892528537256) — 痞客邦站方公告 2025-12-12
 
-[^6]: [Une lettre ouverte aux membres chers de Pixnet](https://admin.pixnet.net/blog/posts/840578056979699851) — Annonce du site Pixnet 2025-12-13
+[^6]: [致親愛的痞客邦會員一封公開信](https://admin.pixnet.net/blog/posts/840578056979699851) — 痞客邦站方公告 2025-12-13
 
-[^7]: [【Avis système】 Explication sur la progression de la refonte récente et les problèmes connus](https://admin.pixnet.net/blog/posts/862888658037069589) — Annonce du site Pixnet 2026-02-13
+[^7]: [【系統公告】關於近期改版進度與已知問題說明](https://admin.pixnet.net/blog/posts/862888658037069589) — 痞客邦站方公告 2026-02-13
 
-[^8]: [【Avis système】 Explications concernant la réparation du système et le service du 13/12](https://admin.pixnet.net/blog/posts/840442091783016785) — Annonce du site Pixnet 2025-12-13
+[^8]: [【系統公告】關於12/13系統修復與服務說明](https://admin.pixnet.net/blog/posts/840442091783016785) — 痞客邦站方公告 2025-12-13
 
-[^10]: [【Réparation terminée】 Le contenu des anciens articles a été restauré, avec conservation des informations de version](https://admin.pixnet.net/blog/posts/842621094484727565) — Annonce du site Pixnet 2025-12-19
+[^10]: [【修復完成】舊文章內容已還原，並保留版本資訊](https://admin.pixnet.net/blog/posts/842621094484727565) — 痞客邦站方公告 2025-12-19
 
-[^11]: [【Avis de maintenance système】 Suspension temporaire de la connexion des membres et des services associés le 6/1 (lundi)](https://admin.pixnet.net/blog/posts/901468256081238691) — Annonce du site Pixnet 2026-05-30
+[^11]: [【系統維護公告】6/1 (一） 凌晨暫停會員登入與相關服務](https://admin.pixnet.net/blog/posts/901468256081238691) — 痞客邦站方公告 2026-05-30

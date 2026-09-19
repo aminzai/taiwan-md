@@ -1,10 +1,10 @@
 ---
-title: 'Bailingguo News: Colocando Notícias Mundiais nos Fones de Ouvido dos Taiwaneses'
-description: 'Como Kelly e Ken usam conversas bilíngues, risadas e a não evasão de posições para transformar notícias internacionais em algo cotidiano que os taiwaneses se sentem compelidos a ouvir e repensar.'
+title: 'Bailingguo News: Colocar as notícias do mundo nos fones de ouvido dos taiwaneses'
+description: 'Como Kylie e Ken usam bilinguismo, risadas e conversas sem evitar posições para transformar notícias internacionais estranhas em algo que os taiwaneses queiram ouvir até o fim e sejam forçados a repensar no dia a dia.'
 date: 2026-08-17
 subcategory: '數位與媒體'
 category: 'People'
-tags: ['Bailingguo News', 'Podcast', 'Kelly', 'Ken', 'Notícias Internacionais']
+tags: ['Bailingguo News', 'Podcast', 'Kylie', 'Ken', 'notícias internacionais']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -15,125 +15,125 @@ translatedFrom: 'People/百靈果 News.md'
 sourceCommitSha: 'cf406dedd'
 sourceContentHash: 'sha256:2e4b0f96f5527220'
 sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-15T06:51:31+08:00'
+translatedAt: '2026-09-12T02:30:18+08:00'
 ---
 
-Em 2014, Kelly e Ken ainda não eram apresentadores do "Bailingguo News". Eles eram apenas jovens que observavam o distanciamento da mídia de Taiwan em relação ao mundo e tentavam mudar isso. Em 2020, eles realizaram um evento presencial em Tainan com o tema "Conexão Internacional", onde os ouvintes se reuniram no local, e o programa saiu dos fones de ouvido para a cidade. Em 2022, eles investiram 2,5 milhões de dólares new taiwanês para produzir um programa totalmente em inglês, visando fazer Taiwan ser ouvida internacionalmente.[^1] [^2] [^3]
+Em 2014, Kylie e Ken ainda não eram os apresentadores do "Bailingguo News". Eram apenas dois jovens que viam as notícias de Taiwan desconectadas do mundo e queriam tentar mudar isso. Em 2020, realizaram um evento presencial em Tainan com o tema "Conexão Internacional", onde o público se reuniu no local e o programa saiu dos fones de ouvido para a cidade. Em 2022, para que Taiwan fosse ouvida internacionalmente, gastaram NT$ 2,5 milhões produzindo um programa totalmente em inglês. [^1] [^2] [^3]
 
-Ao colocar esses três pontos no mesmo contexto, é possível ver o contraste do Bailingguo: ele discute assuntos que não parecem conversas casuais de uma maneira muito amigável. O Bailingguo não simplifica notícias internacionais; ele primeiro faz as pessoas quererem se aproximar dele. Só depois de se aproximarem, os ouvintes percebem que estão sendo forçados a entender a relação entre Taiwan e o mundo.
+Juntos, esses três momentos revelam o contraste do Bailingguo: ele usa a maneira mais parecida com amigos brincando para falar das coisas menos parecidas com conversa fiada. O Bailingguo não torna as notícias internacionais simples; primeiro, faz as pessoas quererem se aproximar delas. Uma vez próximas, os ouvintes descobrem que estão sendo forçados a entender a relação entre Taiwan e o mundo.
 
-> **Frase central contraintuitiva:** O Bailingguo torna as notícias parecidas com conversas, mas, por isso, também traz a questão "quem tem direito de falar sobre o mundo" para os fones de ouvido de cada taiwanês.
+> **Frase central contra-intuitiva:** O Bailingguo faz as notícias parecerem conversa, mas justamente por isso traz a questão de "quem tem qualificação para falar do mundo" para os fones de ouvido de cada taiwanês.
 
-![Fones de ouvido com microfone, simbolizando que o Bailingguo trouxe notícias internacionais para o cotidiano do ouvinte](/article-images/people/bailingguo-news-podcast-headphones.webp)
+![Fone de ouvido com microfone, simbolizando o Bailingguo trazendo notícias internacionais para cenários cotidianos de escuta](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_Imagem: `Headphones with Microphone.jpg`, autor Zephyris; Página do Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. O URL de rede original foi usado aqui, sem baixar a imagem._
+_Imagem: `Headphones with Microphone.jpg`, autor Zephyris; [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Aqui usa-se o link direto do arquivo original, sem baixar a imagem._
 
-_Imagem: Foto da entrevista Tatler Asia, retirada da [entrevista com os apresentadores Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Esta é uma imagem não licenciada e foi usada apenas como referência contextual e fonte no URL original; não reivindicamos direitos de tradução, download, reprodução ou uso comercial._
+_Imagem: foto da entrevista da Tatler Asia, retirada da [entrevista com os apresentadores do Bailingguo News](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). Trata-se de imagem sem licença livre, incorporada apenas via link direto original para contexto do artigo e indicação de fonte, sem reivindicar sublicença, download, reprodução ou uso comercial._
 
-## Começando pela "Internacionalização da Mídia"
+## Começando pela "internacionalização da mídia"
 
-O registro em inglês do Music Farm coloca o ponto de partida antes e durante o Movimento das Flores de 2014: Kelly e Ken observaram que havia uma distância entre a mídia de Taiwan e as notícias internacionais, então começaram com páginas de fãs, tentando diferentes formatos como "Diário Internacional Cão" e "Comunidade Gratuita". Os trabalhos iniciais tiveram poucos cliques, comentários ou compartilhamentos; eles continuaram testando e errando.[^4]
+O longo artigo em inglês do Music Farm situa o ponto de partida por volta do Movimento Girassol de 2014: Kylie e Ken observaram que existia uma distância entre a mídia de Taiwan e as notícias internacionais, então primeiro criaram uma página de fãs e depois tentaram diferentes formatos como "Boletim Diário de Línguas Internacionais" e "Comunidade Gratuita de Benefícios". Seus primeiros trabalhos tiveram poucos cliques, comentários ou compartilhamentos, mas eles continuaram tentando e errando repetidamente. [^4]
 
-Esta história é importante não porque criou um belo mito empreendedor para o Bailingguo, mas porque preservou a desajeitada tentativa de "fazer mesmo sem audiência". O Bailingguo parece ter surgido do nada depois, mas na verdade comprimiu uma série de nomes, formatos e formas malsucedidas em um programa que poderia ser ouvido.
+Essa história importa não porque cria um belo mito de fundação para o Bailingguo, mas porque preserva a torpeza de "fazer mesmo sem público". O Bailingguo parece ter surgido de repente, mas na verdade comprimiu lentamente uma série de nomes, formatos e abordagens malsucedidos em um programa que pode ser ouvido.
 
-A entrevista da BIOS também lembra os leitores de que eles não começaram como profissionais de notícias em tempo integral. O relatório menciona que Kelly atuava como intérprete, e Ken tinha experiência como empreendedor de aplicativos de transmissão ao vivo na época. Portanto, o áudio não foi uma substituição de carreiras existentes por um programa, mas sim a extração forçada de um novo papel público entre outros trabalhos.[^11]
+A entrevista da BIOS também lembra aos leitores que os dois não começaram como jornalistas em tempo integral. A reportagem menciona que Kylie trabalhava também como intérprete, e Ken na época era empreendedor de um app de streaming. A gravação, portanto, não foi trocar uma carreira existente por um programa, mas espremer um novo papel público entre outros trabalhos. [^11]
 
-Este contexto faz com que a "profissionalidade" no Bailingguo se apresente de maneira diferente. Eles não se apresentaram como jornalistas tradicionais de redações, nem abandonaram a organização de informações internacionais. Eles escolheram expor seu tom, interesses e correções em processo de aprendizado. Este é um tipo de prática midiática criativa: a vantagem é a proximidade; o risco é que os ouvintes precisam distinguir opiniões, fatos e piadas.
+Esse background faz o "profissionalismo" se apresentar de forma diferente no Bailingguo. Eles não se dizem repórteres de redações tradicionais, mas também não desistem de organizar informações internacionais. Escolhem tornar públicos seu tom, interesses e correções de erros durante o processo de aprendizado. É uma prática de mídia do tipo criador: a vantagem é a proximidade, o risco é que o público precise distinguir opiniões, fatos e piadas.
 
-Ao serem entrevistados pela Tatler Asia em 2021, Kelly manteve seu objetivo como "fazer com que as pessoas assistam mais notícias internacionais, reflitam sobre a situação atual de Taiwan e encontrem a direção futura para Taiwan". Esta frase explica melhor por que eles sempre colocaram as notícias internacionais no cerne do programa do que o simples objetivo de "tornar o Podcast grande".[^5]
+Quando Kylie e Ken deram entrevista à Tatler Asia em 2021, ainda definiam sua meta como "fazer todos verem mais notícias internacionais, refletirem mais sobre a situação atual de Taiwan e assim descobrirem o caminho que Taiwan deve seguir no futuro". Essa frase explica melhor por que eles sempre mantêm as notícias internacionais no centro do programa do que "fazer um grande podcast". [^5]
 
-📝 Nota da Curadora: **O verdadeiro produto do Bailingguo não é um episódio, mas sim o hábito de "os taiwaneses poderem falar sobre o mundo".**
+📝 Nota do curador: **O verdadeiro produto do Bailingguo não é um episódio, mas o hábito de "taiwaneses podem falar do mundo".**
 
-## Duas Vozes, Não Uma Resposta Padrão
+## Duas vozes, não uma resposta padrão
 
-O site oficial posiciona o Bailingguo como "o jornal internacional bilíngue mais livre da comunidade chinesa", explicando que cada semana eles escolhem algumas notícias internacionais importantes para discutir opiniões em um estilo semelhante ao de _stand-up comedy_. Eles também admitem abertamente que às vezes fazem "jogadas arriscadas".[^6]
+O site oficial posiciona o Bailingguo como "a notícia internacional bilíngue mais livre do mundo sinófono" e explica que o programa seleciona semanalmente algumas notícias internacionais importantes para discutir pontos de vista de forma semelhante a um talk show. Também admite diretamente que às vezes "joga na linha". [^6]
 
-Esta autoapresentação já revela o método do programa: ele não esconde os apresentadores atrás de uma voz de noticiário. A página do Apple Podcasts também apresenta Kelly e Ken com foco em "diálogo bilíngue" e "perspectiva leve", colocando notícias sérias e conversas casuais no mesmo espaço programático.[^7]
+Essa autoapresentação já diz o método do programa: ele não esconde os apresentadores atrás de uma voz de locutor. A página do programa no Apple Podcasts igualmente apresenta Kylie e Ken como "conversa bilíngue" e "ângulo descontraído", colocando notícias sérias e conversa fiada no mesmo espaço do programa. [^7]
 
-Para o ouvinte, isso mudou a porta de entrada para "saber algo". A notícia não chega primeiro com nomes próprios, mapas geopolíticos ou títulos formais; ela pode começar com uma reação cotidiana do apresentador. Isso diminui a estranheza, mas não significa que a questão em si foi resolvida.
+Para os ouvintes, isso também muda a entrada para "saber de algo". A notícia deixa de vir primeiro com substantivos próprios, mapas geopolíticos ou títulos formais, podendo começar com uma reação cotidiana dos apresentadores. Isso reduz o estranhamento, mas não significa que a questão em si já esteja resolvida.
 
-A Tatler detalhou diferenças mais específicas. Kelly acredita que o Podcast faz os ouvintes terem mais paciência para acompanhar o raciocínio. Ken diz que eles querem falar sobre as causas e consequências das coisas lentamente, e não apenas dizer algo extremo no tempo necessário para aparecer na câmera. Isso não é uma alegação de "neutralidade objetiva", mas sim outra ética de comunicação: primeiro reconhecer quem está falando, e depois exigir que o diálogo não seja reduzido a rótulos.[^5]
+A Tatler registra diferenças mais concretas. Kylie acha que o podcast dá aos ouvintes mais paciência para ouvir o raciocínio até o fim. Ken diz que eles querem explicar devagar as causas e consequências das coisas, não apenas dizer falas extremas que caibam em pouco tempo de câmera. Não é uma alegação de "objetividade e neutralidade", mas outra ética de comunicação: primeiro reconhecer que quem fala está presente, depois exigir que a conversa não se reduza a rótulos. [^5]
 
-Portanto, o bilíngue do Bailingguo não é apenas chinês mais inglês. É também dois tons: um humor que aproxima temas estranhos e uma inquirição após a piada que deixa a questão sobre a mesa.
+Portanto, o bilinguismo do Bailingguo não é apenas chinês mais inglês. São simultaneamente dois tons: um que aproxima temas estranhos com brincadeira, outro que, depois da brincadeira, deixa a pergunta sobre a mesa.
 
-## Um Espaço Público Dentro de Fones de Ouvido
+## Um espaço público dentro de um fone de ouvido
 
-A onda dos Podcasts em 2020 tornou "absorver informações pelos ouvidos" algo cotidiano. A Tatler aponta que o Podcast não está limitado ao horário fixo do rádio, permitindo que os ouvintes ouçam durante o trajeto para o trabalho, enquanto se exercitam ou em outros momentos livres. Para o Bailingguo, essa flexibilidade também ofereceu um espaço narrativo mais longo do que vídeos curtos.[^5]
+A febre dos podcasts em 2020 tornou "absorver informação pelos ouvidos" algo cotidiano. A Tatler aponta que o podcast não sofre as restrições de horário fixo do rádio, permitindo que o público ouça durante deslocamentos, exercícios ou outros momentos fragmentados. Para o Bailingguo, essa flexibilidade também oferece um espaço narrativo mais longo que os vídeos curtos. [^5]
 
-Os eventos presenciais do Bailingguo usaram a solidão dos fones de ouvido ao contrário. A Tatler registrou que durante a pandemia, Kelly e Ken fizeram muitas transmissões ao vivo para que as pessoas em casa não se sentissem sozinhas. Antes da pandemia, eles também realizaram "congressos missionários" e eventos de procissão, permitindo que os ouvintes vissem os apresentadores pessoalmente.[^5]
+Os eventos presenciais do Bailingguo, por sua vez, invertem a solidão dos fones de ouvido. A Tatler registra que, durante a pandemia, Kylie e Ken fizeram muitas transmissões ao vivo para que quem ficava em casa não se sentisse sozinho. Antes da pandemia, também realizaram "grandes encontros de pregação" e atividades no estilo de procissões religiosas, permitindo que o público visse os apresentadores face a face. [^5]
 
-Esses eventos não eram apenas propaganda do programa. Quando os apresentadores subiam ao palco e os ouvintes vinham da área de comentários para o local, a confiança que existia apenas no som era reavaliada: o público via pessoas concretas, e não uma conta que poderia permanecer misteriosa para sempre.
+Esses eventos não são propaganda subsidiária do programa. Quando os apresentadores sobem ao palco e o público sai da seção de comentários para o local presencial, a confiança que existia apenas no som é reavaliada: a plateia vê duas pessoas concretas, não uma conta que pode permanecer misteriosa para sempre.
 
-O Music Farm descreveu o evento de Tainan em 2020, deixando objetos mais difíceis de serem substituídos por tabelas estatísticas: crachás de trabalho, fotos no local, comer hotpot com a equipe após o fim. Esses detalhes mostram que a comunidade do Bailingguo não é composta apenas por números de reprodução, mas também por um grupo de pessoas dispostas a levar o programa de áudio para o espaço público.[^4]
+A descrição do Music Farm sobre o evento de Tainan em 2020 deixa objetos mais difíceis de substituir por planilhas: credenciais, fotos do local, comer hot pot com a equipe depois do evento. Esses detalhes mostram que a comunidade do Bailingguo não é feita só de números de reprodução, mas também de pessoas dispostas a levar o programa de áudio para o espaço público. [^4]
 
-📝 Nota da Curadora: **O Podcast parece aprisionar as pessoas nos fones de ouvido, mas o Bailingguo sempre quis trazer as pessoas dos fones de ouvido de volta à mesma cidade.**
+📝 Nota do curador: **O podcast parece prender as pessoas nos fones de ouvido, mas o Bailingguo sempre quis trazer as pessoas de dentro dos fones de volta à mesma cidade.**
 
-## Do Podcast Bilíngue ao Experimento em Inglês
+## Do podcast bilíngue ao experimento em inglês
 
-Em fevereiro de 2022, o Taipei Times relatou que o Bailingguo lançou um programa totalmente em inglês chamado _Tough Bobas: Taiwan Uncensored_. O programa não traduzia linha por linha o conteúdo em chinês; ele usava _stand-up comedy_ e peças curtas para lidar com temas sensíveis como as relações Taís-Americanas e a "ordem de proibição" da China. O relatório apontou que, no final, apenas um quinto dos atores convidados aceitou participar, o que reflete a barreira de produção ao combinar performance em inglês com temas políticos.[^3]
+Em fevereiro de 2022, o Taipei Times noticiou que o Bailingguo lançou o programa totalmente em inglês "Anti-Communist Big Breasts: Taiwan Uncensored" (《反共波霸：無碼台灣》). O programa não traduzia o conteúdo chinês frase por frase para o inglês, mas usava stand-up comedy e esquetes para lidar com temas sensíveis como as relações Taiwan-EUA-China e a "proibição de homens afeminados" da China. A reportagem aponta que, dos atores convidados, apenas um em cada cinco aceitou participar, o que reflete a barreira de produção quando performance em inglês e tema político coexistem. [^3]
 
-Este programa estava planejado para quatro episódios, com custos de 2,5 milhões de dólares new taiwanês. Wang Qingdi descreveu essa quantia não como um valor pequeno, mas sim algo cuja continuação dependeria do financiamento. O Bailingguo, portanto, não é apenas uma história de "fazer porque tem ideologia", mas também uma organização midiática que precisa lidar com custos.[^3]
+O programa foi originalmente planejado para quatro episódios, com custo de produção de NT$ 2,5 milhões. Wang Qingdi descreveu esse valor como não sendo pequeno, e a continuidade dependeria de financiamento. Assim, o Bailingguo não é apenas uma história de "com idealismo dá para continuar fazendo", mas também uma organização de mídia que precisa enfrentar custos. [^3]
 
-Se o objetivo de "fazer Taiwan ser ouvida pelo mundo" se limitasse a um slogan, não seria necessário _sketches_ em inglês, atores, cenários e financiamento. Assim que o conteúdo é enviado para audiências em diferentes idiomas, os criadores precisam lidar com se as piadas são compreendidas, se o contexto político é mal interpretado e quem está disposto a pagar por esse experimento.
+Se "fazer Taiwan ser ouvida pelo mundo" ficar só no slogan, não servem esquetes em inglês, atores, cenários e dinheiro. Uma vez que se envia o conteúdo para públicos de outras línguas, o criador precisa lidar com se as piadas serão entendidas, se o contexto político será mal interpretado, e quem estará disposto a pagar por esse experimento.
 
-O artigo em inglês do Music Farm resume essa direção como "o jornal internacional mais livre da comunidade chinesa", descrevendo os dois substituindo o tom neutro de noticiário tradicional com emoção, diálogo e diferentes pontos de vista. Esta observação pode explicar o apelo do Bailingguo e também lembrar os leitores: a liberdade não isenta a verificação e a responsabilidade, mas permite que opiniões sejam vistas, refutadas e retornem ao diálogo.[^4]
+O artigo em inglês do Music Farm resume essa direção como "the freest international news in the Chinese-speaking world" e descreve os dois substituindo o tom neutro do telejornal tradicional por emoção, diálogo e diferentes pontos de vista. Essa observação explica o atrativo do Bailingguo, mas também alerta o leitor: liberdade não é isenção de verificação e responsabilidade, é tornar os pontos de vista visíveis, passíveis de refutação, e fazê-los voltar ao diálogo. [^4]
 
-## O "Sem Limites" Também Tem um Preço
+## "Sem limites" também tem seu preço
 
-O ponto mais reconhecível do Bailingguo é justamente não se embalar como uma máquina de notícias sem personalidade. A página do Spotify descreve-o como conhecimento embalado em diálogo bilíngue. A lista de programas na mesma página também mostra que eles convidam outros criadores, apresentadores e figuras públicas para conversas em diferentes formatos.[^8] A página de detalhes do SoundOn também mantém a mesma dupla de apresentadores e o posicionamento do programa, mostrando que o Bailingguo colocou o conteúdo em múltiplas plataformas de áudio desde o início.[^10]
+O ponto mais reconhecível do Bailingguo é justamente ele não se embalar como uma máquina de notícias sem personalidade. A página do programa no Spotify o descreve como embalando conhecimento em conversa bilíngue. A lista de episódios na mesma página também mostra que eles convidam outros criadores, apresentadores e figuras públicas para diferentes formatos de diálogo. [^8] A página de detalhes do programa no SoundOn também mantém o mesmo conjunto de apresentadores e posicionamento, mostrando que o Bailingguo colocou seu conteúdo em múltiplas plataformas de áudio desde o início. [^10]
 
-Um episódio de _The KK Show_ em janeiro de 2020 convidou a jornalista sênior Fan Qifei, com uma duração próxima de duas horas. O programa explicava que o foco estava nas notícias internacionais e no debate público antes das eleições de Taiwan em 2020. Essa duração permitiu aos apresentadores fazer as perguntas necessárias, mas também forçou o programa a carregar mais responsabilidade contextual e discursiva.[^9]
+Um episódio de janeiro de 2020 do "The KK Show" convidou a jornalista veterana Fan Qifei (范琪斐), com duração de quase duas horas; a descrição do episódio focava em notícias internacionais e na discussão pública antes das eleições gerais de Taiwan em 2020. Essa extensão permitia que os apresentadores terminassem suas perguntas, mas também fazia o programa assumir mais responsabilidade pelo contexto e pela formulação. [^9]
 
-A página oficial do Bailingguo estabelece os horários de upload como toda terça, quinta e domingo às nove da noite, e explica que eles escolhem temas das notícias internacionais importantes para discorrer em um estilo semelhante ao _stand-up comedy_. O ritmo de atualização estável e o tom distinto fazem com que o programa seja fácil de acompanhar. Mas quando o acompanhamento encontra guerra, autoritarismo, eleições ou relações internacionais, os ouvintes não podem tratá-lo apenas como ruído de fundo.[^6]
+A página oficial do Bailingguo fixa o horário de publicação para terças, quintas e sextas às nove da noite, e explica que o programa seleciona temas das notícias internacionais importantes para discuti-los de forma semelhante a talk show. O ritmo estável de atualizações e o tom marcante tornam o programa fácil de virar companhia. Mas quando a companhia esbarra em guerra, autoritarismo, eleições ou relações internacionais, o ouvinte não pode tratá-lo apenas como som de fundo. [^6]
 
-Este é o desafio central do Bailingguo: ele deve manter a velocidade da conversa e a lentidão necessária para temas públicos simultaneamente. A piada pode diminuir a barreira, mas não pode substituir a evidência. O posicionamento dos apresentadores pode fazer as pessoas se lembrarem, mas não pode reduzir os outros pontos de vista a fantoches de palha.
+Esse é o desafio central do Bailingguo: ele precisa manter ao mesmo tempo a velocidade da conversa e a lentidão que os temas públicos exigem. A piada pode baixar a barreira, mas não substitui a evidência. A posição dos apresentadores pode fazer lembrar, mas não pode transformar outras posições em espantalhos.
 
-Este paradoxo não tem resposta padrão. Se o Bailingguo adotasse totalmente o tom frio do noticiário tradicional, poderia perder o poder que o fez se aproximar das pessoas. Se apenas buscasse reação e piadas, poderia achatar temas internacionais complexos em uma atitude compartilhável. O ponto mais digno de observação é como cada episódio reequilibra entre os dois.[^4]
+Essa contradição não tem resposta padrão. Se o Bailingguo adotasse totalmente o tom calmo do jornalismo tradicional, poderia perder a força que originalmente fazia as pessoas se aproximarem. Se buscasse apenas reações e piadas, poderia achatar questões internacionais complexas em atitudes compartilháveis. O que mais vale observar nele é justamente como cada episódio renegocia entre os dois polos.
 
-📝 Nota da Curadora: **"Sem limites" não significa sem fronteiras, mas sim colocar as fronteiras sobre a mesa para que o ouvinte veja como elas são traçadas.**
+📝 Nota do curador: **"Sem limites" não é ausência de linhas, mas colocar as linhas sobre a mesa, para que o público veja como elas são traçadas.**
 
-## Por Que Ele Merece Ser Escrito em Taiwan
+## Por que merece ser escrito em Taiwan
 
-A importância do Bailingguo não reside apenas no fato de ter subido nos rankings. O Taipei Times relatou que, em 2021, ele era o segundo Podcast mais ouvido em Taiwan. Mais notável ainda é que esse feito foi usado para apoiar um projeto multilingue: levar a voz de Taiwan à comunidade internacional através de programas em inglês.[^3]
+A importância do Bailingguo não está só em ter chegado ao topo das paradas. O Taipei Times noticiou que em 2021 ele foi o segundo podcast mais ouvido em Taiwan. Mais notável é que esse desempenho foi usado para apoiar um projeto translinguístico: usar programa em inglês para levar a voz de Taiwan à comunidade internacional. [^3]
 
-A entrevista da Tatler apresenta outra dimensão: o Bailingguo começou compartilhando notícias internacionais no Facebook, fazendo entrevistas de rua e transmissões ao vivo, antes de se consolidar como o programa atual. Os apresentadores desejam que os ouvintes não ouçam apenas uma voz nem descontextualizem os temas.[^5]
+A entrevista da Tatler apresenta outra escala: o Bailingguo começou compartilhando notícias internacionais no Facebook, fazendo entrevistas de rua e transmissões ao vivo, e só depois formou o programa atual. Os apresentadores esperam que o público não ouça apenas uma voz, nem tire as questões de seu contexto. [^5]
 
-A combinação dessas duas dimensões é o significado do _influencer_ como figura taiwanesa. O _influencer_ não é apenas alguém que acumula atenção na tela; ele também pode ser alguém que redistribui a atenção para um determinado conhecimento, uma determinada língua e um determinado problema público. O Bailingguo transformou "notícias internacionais" de um nome distante em uma opção que os taiwaneses podem clicar para reproduzir às nove da noite. Ele não é perfeito, mas dá a mais pessoas a chance de ouvir primeiro e decidir se querem continuar entendendo.
+Juntas, essas duas escalas formam o significado do influenciador digital como figura de Taiwan. Influenciador não é só quem acumula atenção na tela; pode ser quem redistribui atenção para certo conhecimento, certa língua e certo problema público. O Bailingguo transformou "notícias internacionais" de um substantivo distante em uma opção que o taiwanês pode apertar play às nove da noite. Ele faz de forma imperfeita, mas dá a mais gente a chance de ouvir primeiro e depois decidir se quer continuar entendendo.
 
-Os dados do episódio no Spotify ainda mantêm a descrição do programa e o link do site dos programas iniciais, permitindo ver como o Bailingguo evoluiu de uma fase de "Comunidade Gratuita" para um núcleo centrado em notícias internacionais e conteúdo bilíngue. Este rastro programático rastreável explica melhor como ele cresceu do que uma história de sucesso organizada posteriormente.[^9]
+Os dados oficiais de episódios no Spotify ainda preservam as descrições e links do site dos primeiros programas, permitindo ver como o Bailingguo foi mudando gradualmente do período "Comunidade Gratuita de Benefícios" para ter notícias internacionais e conteúdo bilíngue como núcleo. Esses rastros rastreáveis do programa explicam melhor como ele cresceu do que uma história de sucesso reconstruída a posteriori. [^9]
 
-No final, o que pode ser transmitido nos fones de ouvido ainda são risadas, interrupções e piadas fora de época. Mas quando as risadas param, o mundo não ficou menor por causa disso. Ele apenas se sentou ao seu lado, esperando que você decida se quer ouvir o próximo episódio inteiro.
+Por fim, o que vem dos fones de ouvido ainda podem ser risadas, interrupções e piadas fora de hora. Mas, quando a risada para, o mundo não ficou menor por isso. Apenas ele se sentou temporariamente ao seu lado, esperando você decidir se vai ouvir o próximo episódio até o fim.
 
-## Leitura Complementar
+## Leitura complementar
 
-[Site Oficial do Bailingguo News](https://www.bailingguonews.com/), [Página do Bailingguo News no Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606), [Página do Bailingguo News no Spotify](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty).
+[Site oficial do Bailingguo News](https://www.bailingguonews.com/), [página do programa do Bailingguo News no Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606), [página do programa Bailingguo News no Spotify](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty).
 
-## Imagens e Notas da Curadora
+## Imagens e notas do curador
 
-Esta imagem utiliza apenas URLs de rede Markdown remotos, sem salvar ou baixar imagens no projeto. Imagens com licença livre são usadas para criar um ponto de entrada de leitura "fones de ouvido/mídia sonora"; imagens não licenciadas mantêm a fonte original e avisos de direitos autorais, sendo apenas incorporadas externamente ao contexto do relatório original. Se a política do site proibir a incorporação remota, as imagens não licenciadas devem ser removidas e não podem ser baixadas ou reenviadas separadamente.
+Este artigo usa apenas links diretos (hotlinks) Markdown remotos para imagens, sem salvar ou baixar imagens no projeto. Imagens de licença livre servem para criar a entrada de leitura de "fone de ouvido / mídia sonora"; imagens sem licença livre mantêm a fonte original e o aviso de direitos autorais, servindo apenas como incorporação externa do contexto da reportagem original. Se a política do site não permitir incorporação remota, deve-se remover as imagens sem licença livre, não sendo permitido baixá-las ou reenviá-las separadamente.
 
-Na curadoria, a primeira imagem não é um retrato dos apresentadores Bailingguo, mas sim o objeto microfone de fones de ouvido. Isso move o insight central do artigo de "apresentar os dois apresentadores" para "como o som se torna espaço público"; a segunda imagem preserva o contexto original da Tatler Asia, mas não deve ser confundida com material pertencente ao Taiwan.md.
+Na curadoria, a primeira imagem não é um retrato dos apresentadores do Bailingguo, mas o objeto fone de ouvido com microfone. Isso desloca a percepção central do artigo de "apresentar dois apresentadores" para "como o som se torna espaço público"; a segunda imagem preserva o contexto da reportagem original da Tatler Asia, sem apresentá-la erroneamente como material próprio do Taiwan.md.
 
 ## Referências
 
-[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Registro de campo extenso em inglês que traça o desenvolvimento do Bailingguo, desde as tentativas de internacionalização da mídia em 2014, os programas iniciais até o evento de Tainan em 2020.
+[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Registo longo em inglês feito no local, organiza a trajetória de Kylie e Ken desde as tentativas de internacionalização da mídia em 2014, programas iniciais, até o evento em Tainan em 2020.
 
-[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Relato específico do Taipei Times e da Central News Agency, registrando informações verificáveis sobre o programa totalmente em inglês, número de episódios, convites de atores e custos de produção.
+[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Reportagem concreta do Taipei Times reproduzida pela CNA, registra o programa totalmente em inglês, número de episódios produzidos, convites a atores e custos de produção, entre outras informações verificáveis.
 
-[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Artigo de notícias comparando inglês e chinês que explica o ranking do Bailingguo em Podcasts em Taiwan, os objetivos internacionalizados e a dificuldade de produção de temas sensíveis.
+[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Artigo de notícias com texto em inglês e chinês lado a lado, explica a posição do Bailingguo no ranking de podcasts de Taiwan, suas metas de internacionalização e a dificuldade de produzir temas sensíveis.
 
-[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Artigo de observação cultural e industrial em inglês que descreve o tom não tradicional dos apresentadores, a habilidade bilíngue, os formatos do programa e o lugar no ecossistema do Podcast.
+[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — Artigo de observação sobre figura e indústria em inglês, descreve o tom de locução não tradicional dos dois apresentadores, capacidade bilíngue, formato do programa e posição no ecossistema de podcasts.
 
-[^5]: [Tatler Asia: Você ouviu o "Bailingguo News", o Podcast mais popular de 2021?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Entrevista com os apresentadores em 2021, fornecendo a origem do programa, os objetivos de notícias internacionais, o senso de companhia do Podcast, as transmissões ao vivo e eventos presenciais, e citações diretas de Kelly e Ken.
+[^5]: [Tatler Asia: 2021 最火紅的 Podcast「百靈果News」你聽了沒？](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — Entrevista com os apresentadores em 2021, fornece a origem do programa, metas de notícias internacionais, a sensação de companhia do podcast, transmissões ao vivo e eventos presenciais, além de citações diretas de Kylie e Ken.
 
-[^6]: [Site Oficial do Bailingguo News](https://www.bailingguonews.com/) — O posicionamento do criador divulgado por si mesmo, os slogans bilíngues, o horário fixo de upload e o método de produção de notícias internacionais, sendo a fonte para verificar a autoapresentação primária.
+[^6]: [Site oficial do Bailingguo News](https://www.bailingguonews.com/) — Posicionamento do programa, slogan bilíngue, horário fixo de publicação e modo de produção de notícias internacionais divulgados pelos próprios criadores, fonte para conferir a autodescrição de primeira mão.
 
-[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — A página do programa no Apple Podcasts, que armazena os dados primários como apresentadores, diálogo bilíngue, descrição do programa e informações dos criadores.
+[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Página de detalhes do programa oficial no Apple Podcasts, preserva apresentadores, conversa bilíngue, descrição do programa e informações do criador, entre outros dados de distribuição de primeira mão.
 
-[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — A página de detalhes do programa no Spotify, listando a descrição do programa e vários episódios específicos e criadores convidados para verificação do escopo do conteúdo.
+[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Página de detalhes do programa oficial no Spotify, lista descrição do programa e vários episódios concretos com criadores entrevistados, para conferir o escopo do conteúdo.
 
-[^9]: [Spotify: The KK Show — 008 O Gigante das Notícias Internacionais: Fan Qifei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — A página de um episódio específico de janeiro de 2020, que preserva a data, duração, convidado e descrição do programa inicial, rastreando as formas iniciais do Bailingguo.
+[^9]: [Spotify: The KK Show — 008 國際新聞扛霸子：范琪斐](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Página de episódio concreto de janeiro de 2020, preserva data, duração, entrevistada e descrição do programa inicial, permitindo rastrear a forma inicial do Bailingguo.
 
-[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — A página de detalhes específica da plataforma de Podcast, que armazena a descrição bilíngue do programa e o posicionamento dos apresentadores do Bailingguo para verificação cruzada da autoapresentação oficial.
+[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Página de detalhes concreta do programa na plataforma de podcast, preserva a descrição bilíngue e o posicionamento dos apresentadores do Bailingguo, permitindo cruzamento com a autodescrição oficial.
 
-[^11]: [BIOS Monthly: O Podcast Mais Politicamente Incorreto da História (Risos) Que Desafia Posições](https://www.biosmonthly.com/article/10325) — A entrevista de 2020 com Kelly e Ken, registrando o histórico profissional dos dois, a formação do programa e sua autocompreensão sobre representações politicamente incorretas.
+[^11]: [BIOS Monthly: 史上最政治不正確專訪（抖）嗆出觀點來的 Podcast](https://www.biosmonthly.com/article/10325) — Entrevista de perfil de Kylie e Ken em 2020, registra o background profissional de ambos, a formação do programa e sua autocompreensão sobre expressões politicamente incorretas.

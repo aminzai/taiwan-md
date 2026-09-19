@@ -86,7 +86,7 @@ jobs:
           if [ "$SEVERITY" = "critical" ]; then
             TITLE="🚨 飛輪停轉：最後一筆 routine commit 是 $LAST_AT（$AGE）"
           else
-            TITLE="⚠️ 飛輪疑似漏拍：週排程有 routine 錯過一趟"
+            TITLE="⚠️ 週排程有 routine 的 memory 檔沒出現在 main 上"
           fi
 
           gh label create "$ISSUE_LABEL" --color B60205 \

@@ -1,0 +1,32 @@
+{
+  "revision": 74,
+  "stage": "cold-read",
+  "actor": "cold-reader-11 (Sonnet agent a645e69c1a1d3bad9, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "9 月 14 日記者會同一個官員先說月薪算零人低薪（最低工資 29,500 高於門檻 27,598），接著說年薪算 126 萬人（年終沒有法律保障）。文章拆解怎麼算、分母是誰、三百多萬人不在尺裡，帶到 9 月 24 日審議。",
+    "changedUnderstanding": "原以為零人是硬拗，讀完知道兩個算法都有據，126 萬人卡在本薪過線、年終不夠的縫隙裡，不是造假，是尺的定義。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "多方並陳；收尾語氣貼近「低薪問題真實存在」；沒有引用任何一方說主計總處說謊，溫和地站在「問題存在但不是造假」的中間。",
+    "titleDescriptionHonest": "兌現，沒有誇大。",
+    "confusions": [
+      "753.1 萬／747 萬／862.7 萬幾個分母交替",
+      "兩個 126 萬純屬巧合"
+    ],
+    "repetitions": [
+      "「兩個數字都對」兩次",
+      "「126 萬人住在兩欄之間」第 104 與 271 段各一次"
+    ],
+    "forcedConclusions": [
+      "「政策把地板推過線的結果，薪水本身漲得比地板慢」沒討論其他解釋"
+    ],
+    "readerVerdict": "ship",
+    "readerRationale": "四題都答得出，數字標明推算或官方，多方發言各自標明脈絡不互相汙染，值得發。"
+  }
+}

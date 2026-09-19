@@ -152,7 +152,7 @@ Audrey Tang pernah berkata, demokrasi ibarat "gym warga", kamu tak bisa berharap
 
 [^6]: [Meminta Pemerintah Mencetak Wajah Nyonya Zhuang Zhu Yunu di Koin 10 Yuan - Mengusulkan Ide](https://join.gov.tw/idea/detail/0987256b-7c33-4352-9393-d6c9476b55ee) — Catatan rinci usulan koin Nenek Nasi Bungkus.
 
-[^7]: [BBC News Chinese: Netizen Usulkan Kepala Koin 10 Yuan Taiwan Diganti Dia, Siapa "Nenek Nasi Bungkus"?](https://www.bbc.com/zhongwen/trad/chinese-news-41457875) — Liputan media internasional soal usulan warga Taiwan.
+[^7]: [BBC News Chinese: Netizen Usulkan Kepala Koin 10 dolar Taiwan Baru Diganti Dia, Siapa "Nenek Nasi Bungkus"?](https://www.bbc.com/zhongwen/trad/chinese-news-41457875) — Liputan media internasional soal usulan warga Taiwan.
 
 [^8]: [Laporan Survei Partisipasi Warga Platform Partisipasi Kebijakan Publik dalam Jaringan Tahun 2020](https://www-api.moda.gov.tw/File/Get/moda/zh-tw/jTMFMVOi2vF5Vj0) — Laporan resmi data partisipasi warga dan survei kepuasan anggota.
 

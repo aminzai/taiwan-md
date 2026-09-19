@@ -142,4 +142,4 @@ Bạn còn nhớ tên của cậu không?
 - [Ủy ban Dân tộc bản địa — Giới thiệu các tộc](https://www.apc.gov.tw/portal/index.html)
 - [Dân tộc bản địa Đài Loan — Ủy ban Dân tộc bản địa](https://www.apc.gov.tw/portal/index.html)
 
-_Đọc thêm: [[莫那·魯道]] · [[台灣原住民族土地正義與傳統領域]] · [[台灣原住民族16族文化地圖]] · [[台灣原住民語言復振運動]] · [[台灣原住民飲食文化]] · [[台灣原住民生態智慧與環境保育]] · [[台灣原住民當代藝術]]_
+_Đọc thêm: [Mona Rudao](/vi/people/mona-rudao/) · [Công lý đất đai và lãnh thổ truyền thống của người bản địa](/vi/society/indigenous-land-justice-and-traditional-territories/) · [Bản đồ văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map/) · [Phong trào phục hồi ngôn ngữ bản địa](/vi/culture/indigenous-language-revitalization-movement/) · [Văn hóa ẩm thực của người bản địa Đài Loan](/vi/food/taiwan-indigenous-foodways/) · [Trí tuệ sinh thái và bảo tồn môi trường của người bản địa](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Nghệ thuật đương đại của người bản địa Đài Loan](/vi/art/contemporary-indigenous-art-taiwan/)_

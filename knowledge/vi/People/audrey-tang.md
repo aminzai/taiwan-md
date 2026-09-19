@@ -225,11 +225,11 @@ _Ký tên cá nhân Audrey Tang được công khai tháng 8 năm 2021, ban đ�
 
 ## Phần mở rộng đọc
 
-- [Sugarfrosted Green: Từ Sân khấu nhỏ Lúc Bao Giờ đến "Dây cá Uống Nước" cuộc chiến, một trận Sáng tác Quyền 20 năm](/music/蘇打綠) — Cũng những năm 2000 dâu Đài Loan lạ hình, cũng "từ chối bị khuôn khổ danh tính xác định" cuộc đấu tranh dài, chỉ cảnh tượng ở ngành nhạc chứ không phải chính phủ
-- [Tiêu Thượng Nông](/people/蕭上農) — Người sáng lập chung INSIDE và Yêu thích Nấu ăn, cũng dùng "vượt qua nhiều lĩnh vực" định nghĩa vai trò riêng trong vòng công nghệ Đài Loan
+- [Sugarfrosted Green: Từ Sân khấu nhỏ Lúc Bao Giờ đến "Dây cá Uống Nước" cuộc chiến, một trận Sáng tác Quyền 20 năm](/vi/music/sodagreen) — Cũng những năm 2000 dâu Đài Loan lạ hình, cũng "từ chối bị khuôn khổ danh tính xác định" cuộc đấu tranh dài, chỉ cảnh tượng ở ngành nhạc chứ không phải chính phủ
+- [Tiêu Thượng Nông](/vi/people/tony-hsiao-inside-founder) — Người sáng lập chung INSIDE và Yêu thích Nấu ăn, cũng dùng "vượt qua nhiều lĩnh vực" định nghĩa vai trò riêng trong vòng công nghệ Đài Loan
 - [Ngô Đại Dự](/people/吳大猷) — Từ khoa học sang công nghệ kế thừa tinh anh tri thức Đài Loan, Ngô Đại Dự với tư cách viện trưởng Viện Hàn lâm Trung Ương đặt nền tảng thể chế nghiên cứu Đài Loan
-- [Nền tảng Thư viện Văn hóa Mở](/technology/開放文化基金會) — Từ báo cáo g0v lớn thành cầu nối quyền con người kỹ thuật số Đài Loan, nhiều lần đấu với bộ Phát triển Kỹ thuật số Audrey Tang điều hành, vừa hợp tác vừa canh chừng
-- [Dịch bệnh và vắc-xin COVID-19 Đài Loan](/society/台灣新冠疫情與疫苗) — Chuỗi phối hợp bản đồ mặt nạ dài trong dịch bệnh như nào, cùng những tháng mười tám Đài Loan mua bằng biên giới và mặt nạ
+- [Nền tảng Thư viện Văn hóa Mở](/vi/technology/open-culture-foundation) — Từ báo cáo g0v lớn thành cầu nối quyền con người kỹ thuật số Đài Loan, nhiều lần đấu với bộ Phát triển Kỹ thuật số Audrey Tang điều hành, vừa hợp tác vừa canh chừng
+- [Dịch bệnh và vắc-xin COVID-19 Đài Loan](/vi/society/taiwan-covid-pandemic-and-vaccines) — Chuỗi phối hợp bản đồ mặt nạ dài trong dịch bệnh như nào, cùng những tháng mười tám Đài Loan mua bằng biên giới và mặt nạ
 
 ---
 
@@ -249,7 +249,7 @@ Bài này dùng 3 bức ảnh, toàn bộ cache tại `public/article-images/peo
 
 [^3]: [Bộ Y tế Phúc lợi Công cộng COVID-19 Phòng chống Quyết định Chính sách Mạng](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — Ghi chép chính thức chính phủ nói từng từ: "Vệ sĩ chính trị Audrey Tang của Hội đồng Hành chính mời cộng đồng dân sự qua dữ liệu mở Cục Bảo hiểm Y tế sản xuất nền tảng ứng dụng 'Tra cứu mặt nạ Phòng chống'"
 
-[^4]: [TechNews: Một tay tạo bản đồ mặt nạ (tương tự [^1])](](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^4]: [TechNews: Một tay tạo bản đồ mặt nạ (tương tự [^1])](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
 
 [^5]: [Wikipedia tiếng Hoa: Audrey Tang mục](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — Thông tin tiểu sử cơ bản sinh ra / nền gia đình / tự học BASIC giấy bàn phím thời thơ ơ
 
@@ -319,7 +319,7 @@ Bài này dùng 3 bức ảnh, toàn bộ cache tại `public/article-images/peo
 
 [^38]: [Báo chí Người viết: Chính phủ mở, Audrey Tang làm sao vượt qua công chức này?](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — PO nói từng từ "làm PO đã 2 tháng...không rõ chúng tôi có thể can thiệp bao nhiêu"
 
-[^39]: [Tự do Tài chính: Từ thiên tài bộ trưởng CNTT đến giảng viên tự do (tương tự [^34])](](https://ec.ltn.com.tw/article/breakingnews/4677986) — Báo chí Tự do báo cáo
+[^39]: [Tự do Tài chính: Từ thiên tài bộ trưởng CNTT đến giảng viên tự do (tương tự [^34])](https://ec.ltn.com.tw/article/breakingnews/4677986) — Báo chí Tự do báo cáo
 
 [^40]: [Plurality Institute: Phát hành sách Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — Cùng Glen Weyl + Plurality Community đồng viết / ngày 16 tháng 4 năm 2024 xuất bản / CC0 phát hành
 

@@ -33,9 +33,9 @@ lastVerified: 2026-05-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f6'
-sourceContentHash: 'sha256:bad67aad8b965996'
-sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/music/zhou-hui-yueding-mv-thumb-1999.webp'
 imageCredit: '福茂唱片 / 周蕙〈約定〉1999 官方 MV 截圖'
@@ -300,7 +300,7 @@ _저우후이 〈감성 생물〉 2025 공식 MV, 《Where X 走》 앨범 수�
 
 2026년 4월 25일 토요일 밤, 타이베이 아레나.
 
-이는 저우후이가 데뷔 27년 만에 처음 연 타이베이 아레나 콘서트였다[^5]. 공연명은 《저우후이를 정말 잘 사랑하고 싶어》였고, 무대 디자인은 금곡상과 금마장의 단골 디자이너 리스치가 맡았다. 만화경 개념을 채택했으며, 전체 공연은 3시간, 25곡으로 구성되었다[^34]. 1월 22일 정오 티켓 오픈 뒤 빠르게 매진되어 한 회차가 추가되었다.
+이는 저우후이가 데뷔 27년 만에 처음 연 타이베이 아레나 콘서트였다[^5]. 공연명은 《저우후이를 정말 잘 사랑하고 싶어》였고, 무대 디자인은 금곡상과 금마장의 단골 디자이너 리스치가 맡았다. 만화경 개념을 채택했으며, 전체 공연은 3시간, 25곡으로 구성되었다[^34]. 티켓은 1월 22일 정오에 실명제로 판매를 시작했고, 공연은 이 한 회차뿐이었다[^41].
 
 ![2026년 4월 25일, 저우후이가 타이베이 아레나 《저우후이를 정말 잘 사랑하고 싶어》 콘서트 무대에 선 장면. 데뷔 27년 만의 첫 아레나 입성](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _2026-04-25 타이베이 아레나 《저우후이를 정말 잘 사랑하고 싶어》 콘서트. Fair use editorial commentary. [Source via TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -445,3 +445,5 @@ _TVBS 뉴스의 2026-04-25 보도. 저우후이가 타이베이 아레나 《저
 [^39]: [YouTube: 저우후이 〈대역〉 공식판 MV](https://www.youtube.com/watch?v=WUKnbOlicps) — 저우후이 Where Chou 공식 채널 〈대역〉 공식 MV. 2000년 홍콩 위성TV 중문대 《천면여랑》 드라마 주제가. 작사·작곡은 인터넷 가사 사이트 기준 지중핑으로 되어 있으나, 푸마오 레코드 공식 곡 자료에서 직접 verify되지 않아 single-source로 표기했다.
 
 [^40]: [중문 위키백과: 일하는 사람들](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — 《일하는 사람들》 드라마 위키 항목. 2020-05-10 HBO Asia 첫 방송, 저우후이가 페이페이(가정폭력 피해 임시 노동자, 공사 현장에서 노래함)를 연기했음을 verified했다.
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

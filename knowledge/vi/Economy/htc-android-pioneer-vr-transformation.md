@@ -65,7 +65,7 @@ Chúng ta đã biết kết quả. HTC Dream (mô hình: HTC Dream, T-Mobile G1,
 
 Năm 2011 là năm đỉnh cao của HTC. Năm này, HTC ra mắt nhiều sản phẩm được đánh giá cao: HTC Sensation trang bị bộ xử lý lõi kép, HTC Desire trở thành mẫu điện thoại bán chạy toàn cầu, HTC Incredible thành công lớn ở Mỹ.
 
-Con số nói tất cả. Năm 2011, HTC gửi đi toàn cầu 43 triệu chiếc, chiếm thị phần 8,8%, xếp thứ tư toàn cầu, chỉ sau Nokia, Samsung và Apple[^2]. Điều còn gây sửng sốt hơn là giá trị công ty HTC một lúc nào đó vượt quá Nokia, ông vua điện thoại thời kỳ đó, giá cổ phiếu vượt qua mức 1.000 tệ, giá trị công ty vượt quá 1 nghìn tỷ tệ Đài Loan.
+Con số nói tất cả. Năm 2011, HTC gửi đi toàn cầu 43 triệu chiếc, chiếm thị phần 8,8%, xếp thứ tư toàn cầu, chỉ sau Nokia, Samsung và Apple[^2]. Điều còn gây sửng sốt hơn là giá trị công ty HTC một lúc nào đó vượt quá Nokia, ông vua điện thoại thời kỳ đó, giá cổ phiếu vượt qua mức 1.000 tệ, giá trị công ty vượt quá 1 nghìn tỷ đô la Đài Loan mới.
 
 Một công ty Đài Loan, trong vòng chỉ vài năm, có thể bình hành với các gã khổng lồ quốc tế như Apple, Samsung, điều này vào thời kỳ đó gần như là thành tích không tưởng. HTC trở thành tự hào của ngành công nghệ Đài Loan, cũng là ví dụ tốt nhất để Đài Loan quốc tế hoá thương hiệu.
 

@@ -1,0 +1,109 @@
+{
+  "revision": 21,
+  "stage": "investigate",
+  "actor": "taiwan-md-write-session 2026-09-18-134020-low-wage (Opus orchestrator; 3 Sonnet research lanes + 2 Sonnet persona agents)",
+  "artifacts": ["reports/staging/low-wage/stage1-research-frozen.md"],
+  "data": {
+    "claims": [
+      {
+        "source": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/235514/113年受僱員工薪資中位數統計結果新聞稿.pdf",
+        "location": "壹、摘要 二；表 6 總計列；raw/113-新聞稿.txt 第 18、810 行；查閱 2026-09-18",
+        "support": "2024 年本國籍全時受僱員工全年總薪資中位數 58.5 萬、平均 77.6 萬、Q1 43.6、Q3 90.7；其他服務業中位數 38.5 萬",
+        "doesNotSupport": "126 萬人／16.8% 不在這份新聞稿裡，也沒有 39 萬線以下的組成"
+      },
+      {
+        "source": "https://www.cna.com.tw/news/afe/202609140229.aspx",
+        "location": "譚文玲引語段；查閱 2026-09-18",
+        "support": "126 萬人、16.8%、39 萬門檻為主計總處副處長 9/14 試算；「由於最低工資制度提供保障…原則上不會有本國籍全時受僱員工落入此一低薪標準」",
+        "doesNotSupport": "沒有書面統計表；分母人數未給（本文用 2024 上半年 746.9 萬推估 16.9% 對賬）"
+      },
+      {
+        "source": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236702/薪資及生產力統計新聞稿11507.pdf",
+        "location": "壹、統計結果提要 一～四；按僱用型態分表（raw/11507-新聞稿.txt 第 48-72 行）；查閱 2026-09-18",
+        "support": "7 月本國籍全時平均 52,528／中位數 41,397；部分工時中位數 16,229；全體平均 49,491／中位數 39,629；人數 753.1 萬／42.6 萬／862.7 萬",
+        "doesNotSupport": "新聞稿沒有「低薪」「OECD」字樣；三分之二 27,598 是本文算術"
+      },
+      {
+        "source": "https://ws.dgbas.gov.tw/001/Upload/463/relfile/10980/236558/薪資及生產力統計新聞稿11506.pdf",
+        "location": "歷年 1 至 6 月表（raw/11506-新聞稿.txt 第 92-148 行）；查閱 2026-09-18",
+        "support": "低於平均數員工比率：本國籍全時 2021-2026 上半年 67.22→70.30（2024 年 70.93）、全體 66.81→70.03；本國籍全時 2024 上半年 7,469 千人",
+        "doesNotSupport": "「創 2020 年有統計以來新高」——表只從 2021 年起，2020 年數字（67.88%）只有媒體轉述"
+      },
+      {
+        "source": "https://www.oecd.org/en/data/indicators/incidence-of-low-and-high-pay.html",
+        "location": "Definition 段（raw/oecd-incidence-of-low-and-high-pay-page.md 第 34-36 行）；查閱 2026-09-18",
+        "support": "OECD 定義逐字：two-thirds of median earnings、full-time employment、% of full-time workers",
+        "doesNotSupport": "沒寫年薪／月薪／時薪、含不含獎金；SDMX PAY_PERIOD 一律不適用（lane A 第 27-28 條）"
+      },
+      {
+        "source": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@PAY_INCIDENCE,1.0/all?startPeriod=2019&format=csvfilewithlabels",
+        "location": "raw/oecd-low-pay-incidence-total.csv；查閱 2026-09-18",
+        "support": "各國 low pay incidence 最新年（OECD 13.9、韓 15.8、日 10.7、美 22.5、墨 16.6、哥倫比亞 12.9、葡 1.4）",
+        "doesNotSupport": "台灣不在資料集；台灣 16.8% 與各國口徑可比性 OECD 未揭露"
+      },
+      {
+        "source": "https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@MIN2AVE,1.0/all?startPeriod=2022&format=csvfilewithlabels",
+        "location": "raw/oecd-min-to-median.csv（含 AGGREGATION_OPERATION 欄，MEAN／MEDIAN 兩列）；查閱 2026-09-18",
+        "support": "最低工資／中位數（Median 列）韓 59.6、日 46.4、法 62.5、英 61.9、墨 74.9、哥倫比亞 90.5",
+        "doesNotSupport": "台灣 71.3%（月薪經常性）與 60.5%（年薪含獎金）是本文自算、分子分母口徑不同，不能與 OECD 列直接排名"
+      },
+      {
+        "source": "https://www.mol.gov.tw/topic/3067/5990/13171/",
+        "location": "♦ 逐條（raw/mol-歷年基本工資調整.txt）；查閱 2026-09-18",
+        "support": "1956 年 300、1968-03-16 600／日 20、1997-10-16 15,840、2007-07-01 17,280、2015-07 20,008、2024 年 27,470；「114年1月1日起，基本工資由最低工資取代」",
+        "doesNotSupport": "頁面沒有 2025／2026 數額（在 MOL 76761 頁與 2025-09-26 新聞稿：28,590／29,500）"
+      },
+      {
+        "source": "https://www.mol.gov.tw/1607/1632/1633/84947/post",
+        "location": "新聞稿全文（raw/mol-2025-09-26-最低工資連十漲新聞稿.txt）；查閱 2026-09-18",
+        "support": "2026 年 29,500／196、調幅 3.18%、連十漲 47.4%、CPI 1.76% 共識、資方／勞方／學者立場、247 萬人受惠、洪申翰",
+        "doesNotSupport": "9/24 審議會內容（在 UDN 9/11 預報）"
+      },
+      {
+        "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030028",
+        "location": "第 3、4、5、7、9、13 條；末條「本法施行日期，由行政院定之」；查閱 2026-09-18",
+        "support": "只適用勞基法勞工；只分每月與每小時；審議會 21 人；CPI 應參採、十項得參採；十日內報院",
+        "doesNotSupport": "施行日 2024-01-01 靠地方勞政機關新聞稿（南科局、北市就服處），法條本身無日期"
+      },
+      {
+        "source": "https://www.businessweekly.com.tw/focus/blog/3016936 ＋ https://www.epochtimes.com/b5/24/10/17/n14352515.htm",
+        "location": "何佩珊發言段；查閱 2026-09-18",
+        "support": "2024-10-17 勞動部長何佩珊在立法院用 OECD 總薪資中位數 2/3（4.6 萬×2/3≈3.1 萬）",
+        "doesNotSupport": "4.6 萬的統計口徑與出處未查得；記者轉述非逐字錄音"
+      },
+      {
+        "source": "https://news.tvbs.com.tw/politics/4022714 ／ https://udn.com/news/story/6656/9755906 ／ https://news.ltn.com.tw/news/politics/breakingnews/5574818 ／ https://udn.com/news/story/11091/9755125",
+        "location": "各篇引語段；查閱 2026-09-18",
+        "support": "譚文玲「就月薪而言，我國並沒有低薪的情形」；民眾黨聲明兩句；許宇甄兩句（記者轉述）；聯合報主筆室",
+        "doesNotSupport": "許宇甄發言場合未明（聲明／臉書）；政府對 9/15 批評無第二輪回應（三次搜尋皆無）"
+      },
+      {
+        "source": "https://www.mol.gov.tw/1607/1632/1633/87456/ ＋ https://ws.dgbas.gov.tw/001/Upload/463/relfile/11040/236636/7f57ffe8-8359-4e87-b384-8450df6b6406.pdf ＋ https://bola.gov.taipei/News_Content.aspx?n=FDEDF5DCB0A26A46&sms=87415A8B9CE81B16&s=C89ED2FE141B47BC",
+        "location": "移工調查 (一)；人力資源調查 PDF 表 9 115 年 7 月列；北市勞動局 Q&A；查閱 2026-09-18",
+        "support": "移工經常性薪資 3 萬＋加班費 5.1 千、全年非經常性 1.5 萬；就業者 1,165.1 萬＝雇主 48.3＋自營 126.5＋無酬家屬 42.3＋受僱 948.1 萬；年終獎金無法定義務",
+        "doesNotSupport": "移工年薪是否過 39 萬線是本文年化推算；自營作業者所得無統計"
+      }
+    ],
+    "counterEvidence": [
+      "「台灣沒有官方低薪定義」被部分推翻：2024-10-17 勞動部長何佩珊已在立法院用同一把 OECD 尺算出 3.1 萬——正確說法是「沒有法定或行政命令層級的定義，但政府用過這把尺」（角度一的敘事從『新算法』改成『用了兩年的尺』）。",
+      "角度一「台灣月薪口徑 71% 是 OECD 幾乎沒國家達到的位置」被推翻：哥倫比亞 90.5%、哥斯大黎加 84.7%、墨西哥 74.9%、智利 69.5% 都高於台灣，而它們的低薪比例仍 8.8-16.6%——「最低工資追過三分之二線」不保證低薪消失；正文改為「高於韓日法英，低於拉美四國」並放墨西哥反例。",
+      "角度一「OECD 中位數含獎金／年薪」無法證實也無法否證：OECD 定義文本與 SDMX 維度都不載明；正文不宣稱可比，國際圖只放 low pay incidence 並加【說明】。",
+      "角度二「加回部分工時與移工，低薪人數會更多」只對一半：全體口徑門檻降到 36.4 萬、比例約 17%（內插推算）幾乎不變，人數多十幾萬——改寫為「比例差不多，多的是人，變的是門檻」。",
+      "角度二反例 (i)「被排除者可能更高」對移工部分成立：含加班費年化約 43.6 萬在線上、不含 37.5 萬在線下——移工靠加班費過線，不是單純「更低」。",
+      "角度三「中位數追上最低工資是制度推的」獲支持：2016-2024 最低工資 +37.3% vs 全體年薪中位數 +18.2%；2021-2026 +22.9% vs +14.0%。",
+      "Stage 0 記「70.03% 創 2020 年有統計以來新高」只有 UDN 一句；PDF 表只到 2021——正文改寫「連六年上升、首次破七成」。",
+      "brief 原寫「2026 年破三萬」：2026 年是 29,500；破三萬是 9/24 審議會對 2027 年的決定（賴清德 8/7「只要再加一次就超過3萬」）。"
+    ],
+    "searchLimits": [
+      "OECD Employment Outlook 逐國方法論附錄（各國 earnings 期間與含獎金否）：官網 403、r.jina.ai 只到表格頁；未取得。",
+      "主計總處未公布 126 萬人的行業／年齡／性別反向組成；記者無追問。",
+      "沒有具名學者／勞團針對 9/14 這場定義之爭的評論（查到的都是 9/11 審議脈絡）；台灣沒有正式生活工資研究數字（wageindicator 付費）。",
+      "政府對 9/15 批評的第二輪回應：三次搜尋皆無——寫「沒有回應」，不寫原因。",
+      "家庭收支調查 26,640 元一手表號未核；事業人力僱用狀況調查行業別年終月數官方表未取得。",
+      "薪情平台無 API，無法代查三個數字的十分位。",
+      "教育部 22K 方案原始要點全文未直接讀取；名額 41,470（維基）vs 三萬多（報時光）分歧。",
+      "ILO 對台灣低薪估計未觸及。"
+    ],
+    "changedMind": "研究前以為這是「新算法 vs 老感受」的爭論；材料把它改成三件事：(1) 這把尺政府兩年前就用過（何佩珊），主計總處只是第一次把月薪與年薪兩個口徑並排講出來；(2) 「零人」與「126 萬」的差距不是統計技巧，是制度縫隙——本薪有法律地板（最低工資法第 5 條），年終沒有（勞基法第 29 條只是獎勵性質），縫隙住在獎金那一欄，而且集中在其他服務業（中位數 38.5 萬過半在線下）；(3) 尺外面的人比想像多——部分工時 42.6 萬、外籍全時約 67 萬、自營作業者 126.5 萬、雇主 48.3 萬都不在任何一把薪資尺裡，其中自營者剛好也是 126 萬人上下。國際座標段從「台灣的特殊位置」降級為「口徑不可比，只給台灣自己的三把尺，再放一個墨西哥反例」。核心矛盾「同一批薪資，按月算零人低薪，按年算 126 萬人」不變，論點（投影站）將落在「這場爭論吵的是哪一欄的錢算薪水、誰站在分母裡；兩邊的數字都是真的，真正沒被算進去的是尺外面的人」。"
+  }
+}

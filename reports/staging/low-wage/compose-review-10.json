@@ -1,0 +1,18 @@
+{
+  "revision": 64,
+  "submissionId": "164120c5-db7d-449c-99fb-9c567eb39105",
+  "actor": "compose-reviewer-10 (Sonnet agent ae92b5c7b9ac8ea30, fresh context, read diff + article + 113 新聞稿 L376-384 + blueprint)",
+  "verdict": "accept",
+  "rationale": "四點退回理由均已對應解決且無新錯誤：「未被量過」只限自營作業者，三百多萬四處統一「不在分母裡」；「主要」四處一致，投保天數句對應 L380、推論屬合理延伸、[^3] 正確；description 160 字並刪除「差在分母那一格」；結尾「兩欄之間」只剩最後一句；22K 句移除因果。藍圖論點與骨架未被觸及。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L3；L29；L76；L125；L269-271"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/113-新聞稿.txt",
+      "location": "L380"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

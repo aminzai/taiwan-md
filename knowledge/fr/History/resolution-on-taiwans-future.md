@@ -1,15 +1,15 @@
 ---
 title: "Résolution sur l'avenir de Taïwan : les deux mots « actuellement », qui ont soutenu vingt‑sept ans"
-description: 'En 1999, Lin Zhuoshui a ajouté les deux caractères « actuellement » devant le nom officiel « République de Chine », ce qui a déplu à la faction de Chen Shui‑Bian. Ces deux mots ont simultanément apaisé les indépendantistes et les électeurs du centre, ouvrant la porte à la première alternance politique en 2000. Vingt‑sept ans plus tard, les jeunes Taïwanais considèrent comme un sens commun que « Taïwan est déjà indépendant », sans savoir que ce « sens commun » provient d’un texte vague.'
+description: 'En 1999, Lin Cho-shui a ajouté les deux caractères « actuellement » devant le nom officiel « République de Chine », ce qui a déplu à la faction de Chen Shui‑Bian. Ces deux mots ont simultanément apaisé les indépendantistes et les électeurs du centre, ouvrant la porte à la première alternance politique en 2000. Vingt‑sept ans plus tard, les jeunes Taïwanais considèrent comme un sens commun que « Taïwan est déjà indépendant », sans savoir que ce « sens commun » provient d’un texte vague.'
 date: 2026-05-17
 category: 'History'
 tags:
   - 'Parti démocratique progressiste'
   - "Résolution sur l'avenir de Taïwan"
   - "Programme du parti pour l'indépendance de Taïwan"
-  - 'Lin Zhuoshui'
-  - 'Guo Zhengliang'
-  - 'Chen Zhongxin'
+  - 'Lin Cho-shui'
+  - 'Kuo Cheng-liang'
+  - 'Chen Chung-hsin'
   - 'Relations cross‑strait'
   - 'alternance politique'
   - 'démocratisation de Taïwan'
@@ -28,11 +28,11 @@ translatedAt: 2026-05-18T05:08:09+08:00
 
 # Résolution sur l'avenir de Taïwan : les deux mots « actuellement », qui ont soutenu vingt‑sept ans
 
-> **30 secondes d’aperçu :** le 8 mai 1999, le Parti démocratique progressiste (DPP) a adopté à Kaohsiung la résolution sur l'avenir de Taïwan, en formulant la phrase « Taïwan, bien qu’actuellement désigné par la Constitution comme République de Chine, n’est pas subordonné à la République populaire de Chine ». Lin Zhuoshui a ajouté les deux caractères « actuellement » devant le nom officiel, laissant les indépendantistes penser que « il pourra être changé à l’avenir », et les électeurs du centre penser que « le DPP accepte la situation actuelle ». Ce texte a ouvert la porte à la première alternance politique en 2000 et est depuis devenu le socle du discours cross‑strait pendant vingt‑sept ans, sans que personne n’ose en clarifier la portée vague.
+> **30 secondes d’aperçu :** le 8 mai 1999, le Parti démocratique progressiste (DPP) a adopté à Kaohsiung la résolution sur l'avenir de Taïwan, en formulant la phrase « Taïwan, bien qu’actuellement désigné par la Constitution comme République de Chine, n’est pas subordonné à la République populaire de Chine ». Lin Cho-shui a ajouté les deux caractères « actuellement » devant le nom officiel, laissant les indépendantistes penser que « il pourra être changé à l’avenir », et les électeurs du centre penser que « le DPP accepte la situation actuelle ». Ce texte a ouvert la porte à la première alternance politique en 2000 et est depuis devenu le socle du discours cross‑strait pendant vingt‑sept ans, sans que personne n’ose en clarifier la portée vague.
 
-Au printemps 1999, Guo Zhengliang reçoit la mission de rédiger un nouveau texte de position cross‑strait pour le DPP. Chen Shui‑Bian, via le secrétaire général du parti de l’époque, You Xi‑kun, veut remplacer le terme « République de Taïwan » du programme d’indépendance par « République de Chine », afin de séduire les électeurs du centre.[^1]
+Au printemps 1999, Kuo Cheng-liang reçoit la mission de rédiger un nouveau texte de position cross‑strait pour le DPP. Chen Shui‑Bian, via le secrétaire général du parti de l’époque, You Xi‑kun, veut remplacer le terme « République de Taïwan » du programme d’indépendance par « République de Chine », afin de séduire les électeurs du centre.[^1]
 
-Guo rédige « République de Chine ». Lin Zhuoshui reçoit le brouillon et ajoute deux caractères devant « République » : « actuellement ».
+Guo rédige « République de Chine ». Lin Cho-shui reçoit le brouillon et ajoute deux caractères devant « République » : « actuellement ».
 
 « La faction de Chen Shui‑Bian était très mécontente. »[^2]
 
@@ -42,7 +42,7 @@ Finalement, la version de Lin est adoptée. Les deux caractères apaisent les de
 
 ## Un virage en huit ans
 
-Le point de départ de la résolution remonte à 1991. Le 13 octobre de cette année, le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan souveraine, indépendante et autonome ».[^4] Le rédacteur principal était Lin Zhuoshui. Le programme comportait une clause conditionnelle : la décision de créer un État serait soumise à un référendum populaire, mais le message central était clair : le DPP veut créer un État.
+Le point de départ de la résolution remonte à 1991. Le 13 octobre de cette année, le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan souveraine, indépendante et autonome ».[^4] Le rédacteur principal était Lin Cho-shui. Le programme comportait une clause conditionnelle : la décision de créer un État serait soumise à un référendum populaire, mais le message central était clair : le DPP veut créer un État.
 
 Quatre ans plus tard, le 14 septembre 1995 à Washington, le militant de longue date du mouvement démocratique, Shih Ming‑te, alors président du DPP, déclare devant un auditoire international ce qui deviendra le point de bascule : « Si le DPP gouverne, il n’aura ni besoin ni volonté d’annoncer l’indépendance de Taïwan, car Taïwan est déjà indépendant depuis un demi‑siècle. »[^5] Cette phrase apaise la communauté internationale, mais choque les indépendantistes du parti. Après plusieurs débats internes, elle devient le consensus du parti, semant la graine de la résolution de 1999.
 
@@ -56,13 +56,13 @@ La pression extérieure augmente. Le 30 juin 1998, le président américain 
 
 Toutes ces pressions convergent vers la même conclusion : la voie de l’indépendance est bloquée, une transformation pragmatique est indispensable.
 
-> **📝 Note du curateur :** l’histoire de la résolution est souvent présentée comme « la victoire des pragmatiques ». Mais ceux qui ont réellement fait pivoter la ligne étaient les mêmes qui l’avaient définie. Shih Ming‑te, qui a déclaré qu’il n’était pas nécessaire d’annoncer l’indépendance, était le prisonnier le plus longtemps incarcéré pour l’indépendance ; Lin Zhuoshui, qui a rédigé le programme d’indépendance, a ajouté deux caractères huit ans plus tard, transformant « création d’État » en « reconnaissance du statut actuel ». Ce sont ceux qui ont parcouru le plus loin qui ont conduit le virage.
+> **📝 Note du curateur :** l’histoire de la résolution est souvent présentée comme « la victoire des pragmatiques ». Mais ceux qui ont réellement fait pivoter la ligne étaient les mêmes qui l’avaient définie. Shih Ming‑te, qui a déclaré qu’il n’était pas nécessaire d’annoncer l’indépendance, était le prisonnier le plus longtemps incarcéré pour l’indépendance ; Lin Cho-shui, qui a rédigé le programme d’indépendance, a ajouté deux caractères huit ans plus tard, transformant « création d’État » en « reconnaissance du statut actuel ». Ce sont ceux qui ont parcouru le plus loin qui ont conduit le virage.
 
 ## Trois auteurs, une ambiguïté
 
-Chen Zhongxin propose un compromis clé : ne pas modifier le programme d’indépendance, mais adopter simultanément une nouvelle résolution.[^11] Sous le pseudonyme Hang‑zhi, Chen était rédacteur en chef du magazine « Beautiful Island », l’un des premiers intellectuels à intervenir par l’écrit dans le mouvement politique. Son plan répondait précisément à la réalité interne du parti : le programme d’indépendance ne pouvait être touché, sinon il s’agirait d’une déclaration de guerre contre les « verts profonds »; mais sans sortir du cadre du programme, le DPP ne pouvait gagner l’élection présidentielle de 2000. En créant un nouveau texte qui coexiste avec l’ancien sans le contredire, il pose la première étape d’une stratégie d’ambiguïté.
+Chen Chung-hsin propose un compromis clé : ne pas modifier le programme d’indépendance, mais adopter simultanément une nouvelle résolution.[^11] Sous le pseudonyme Hang‑zhi, Chen était rédacteur en chef du magazine « Beautiful Island », l’un des premiers intellectuels à intervenir par l’écrit dans le mouvement politique. Son plan répondait précisément à la réalité interne du parti : le programme d’indépendance ne pouvait être touché, sinon il s’agirait d’une déclaration de guerre contre les « verts profonds »; mais sans sortir du cadre du programme, le DPP ne pouvait gagner l’élection présidentielle de 2000. En créant un nouveau texte qui coexiste avec l’ancien sans le contredire, il pose la première étape d’une stratégie d’ambiguïté.
 
-Le groupe de rédaction comptait trois personnes, représentant trois forces. Guo Zhengliang était le rédacteur principal, du côté pragmatique de la campagne de Chen Shui‑Bian ; Chen Zhongxin assurait la coordination entre les courants, intellectuel issu du « Beautiful Island »; Lin Zhuoshui gardait le contrôle de la ligne de base, représentant la théorie du Nouveau Courant. Lin déclare : « Je joue le rôle d’empêcher le texte de pencher trop du côté de Chen ou de You. »[^12]
+Le groupe de rédaction comptait trois personnes, représentant trois forces. Kuo Cheng-liang était le rédacteur principal, du côté pragmatique de la campagne de Chen Shui‑Bian ; Chen Chung-hsin assurait la coordination entre les courants, intellectuel issu du « Beautiful Island »; Lin Cho-shui gardait le contrôle de la ligne de base, représentant la théorie du Nouveau Courant. Lin déclare : « Je joue le rôle d’empêcher le texte de pencher trop du côté de Chen ou de You. »[^12]
 
 Le 8 mai 1999, lors de la deuxième session plénière du huitième congrès national du DPP à Kaohsiung, la résolution est adoptée.[^13]
 
@@ -98,7 +98,7 @@ La résolution a vécu vingt‑sept ans, plus longtemps que tout autre discours 
 
 En septembre 2007, à la fin du second mandat de Chen Shui‑Bian, le DPP adopte la « résolution d’État normal », visant à aller plus loin : renommer le pays « Taïwan », rédiger une nouvelle constitution, et rejoindre l’ONU sous le nom « Taïwan ».[^18] La résolution sur l’avenir, portant le chapeau de la République de Chine, reconnaît le fait de l’indépendance ; la résolution d’État normal veut enlever ce chapeau pour atteindre une indépendance juridique. Les factions modérées du parti la qualifient d’aventure de Chen pour détourner les controverses du gouvernement. En 2008, le DPP subit une défaite écrasante ; Hsieh Chang‑ting obtient 41,55 % des voix, et la résolution d’État normal est abandonnée.
 
-En 2014, Guo Zhengliang et plus de quarante représentants du parti signent une proposition de gel du programme d’indépendance, arguant que les présidents et candidats du DPP « ont déjà accepté la République de Chine par leurs actions », et que le programme « équivaut à s’opposer à la République de Chine, à poursuivre le changement du statu quo, et à alimenter les malentendus internationaux ». [^19] La présidente Tsai Ing‑wen ordonne que le dossier soit examiné par le Comité exécutif du parti, sans suite officielle.
+En 2014, Kuo Cheng-liang et plus de quarante représentants du parti signent une proposition de gel du programme d’indépendance, arguant que les présidents et candidats du DPP « ont déjà accepté la République de Chine par leurs actions », et que le programme « équivaut à s’opposer à la République de Chine, à poursuivre le changement du statu quo, et à alimenter les malentendus internationaux ». [^19] La présidente Tsai Ing‑wen ordonne que le dossier soit examiné par le Comité exécutif du parti, sans suite officielle.
 
 Impossible d’avancer, impossible de reculer. La résolution reste figée, unique position encore debout.
 
@@ -108,15 +108,15 @@ Pendant ses huit années à la présidence, Tsai s’appuie sur la résolution p
 
 Le programme d’indépendance n’a jamais été gelé, car le gel nécessite un vote formel, ce qui impliquerait de répondre à une question impossible : le DPP soutient‑il encore l’indépendance ? La résolution n’a jamais été officiellement remplacée, car « remplacer » serait un acte clair, signifiant que les trente années de ligne de création d’État étaient erronées. Le parti a choisi de ne rien faire, laissant l’ambiguïté fonctionner.
 
-Après vingt‑sept ans, les trois rédacteurs ont pris des chemins différents. Guo Zhengliang a quitté le DPP en 2023, devenant commentateur politique à la télévision, surprenant ses anciens camarades.[^22] Lin Zhuoshui a démissionné du parlement en 2006 à la suite de l’affaire de corruption de Chen, mais est resté dans le parti, commentant la politique avec une précision textuelle, devenant le critique interne le plus sévère.[^23] Chen Zhongxin, après avoir quitté le poste de vice‑secrétaire du Conseil de sécurité nationale, s’est retiré discrètement de la scène politique. Les trois ont rédigé le même texte en 1999 ; vingt‑sept ans plus tard, leurs écrits restent le socle du discours cross‑strait.
+Après vingt‑sept ans, les trois rédacteurs ont pris des chemins différents. Kuo Cheng-liang a quitté le DPP en 2023, devenant commentateur politique à la télévision, surprenant ses anciens camarades.[^22] Lin Cho-shui a démissionné du parlement en 2006 à la suite de l’affaire de corruption de Chen, mais est resté dans le parti, commentant la politique avec une précision textuelle, devenant le critique interne le plus sévère.[^23] Chen Chung-hsin, après avoir quitté le poste de vice‑secrétaire du Conseil de sécurité nationale, s’est retiré discrètement de la scène politique. Les trois ont rédigé le même texte en 1999 ; vingt‑sept ans plus tard, leurs écrits restent le socle du discours cross‑strait.
 
-1. **13 oct. 1991** — Le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan », rédigé par Lin Zhuoshui
+1. **13 oct. 1991** — Le DPP adopte le programme d’indépendance, prônant « l’établissement d’une République de Taïwan », rédigé par Lin Cho-shui
 2. **Sept. 1995** — Shih Ming‑te déclare à Washington « il n’est pas nécessaire et il ne sera pas annoncé que Taïwan devienne indépendant »
 3. **Mars 1996** — Peng Ming‑min obtient 21,13 % aux élections présidentielles, intensifiant la pression pour un virage de ligne
 4. **8 mai 1999** — La résolution sur l’avenir de Taïwan est adoptée à Kaohsiung, « actuellement désigné par la Constitution comme République de Chine » devient le nouveau consensus
 5. **18 mars 2000** — Chen Shui‑Bian est élu président, première alternance politique
 6. **Sept. 2007** — Adoption de la résolution d’État normal, tentative de pousser vers une indépendance juridique, abandonnée après la défaite de 2008
-7. **17 mai 2026** — Lai Ching‑te utilise la résolution pour définir « les deux sens de l’indépendance », Lin Zhuoshui commente « très approprié »
+7. **17 mai 2026** — Lai Ching‑te utilise la résolution pour définir « les deux sens de l’indépendance », Lin Cho-shui commente « très approprié »
 
 ## « Très approprié »
 
@@ -124,9 +124,9 @@ Le 17 mai 2026, dans le contexte de la pression internationale après la ren
 
 Le KMT, via Jiang Wan‑an, demande : le DPP veut‑il supprimer le programme d’indépendance ? Le législateur du DPP, Shen Bo‑yang, répond : « C’est maintenant la résolution sur l’avenir de Taïwan, le futur de Taïwan sera décidé par les 23 millions de Taïwanais… n’est‑il pas juriste ? »[^25]
 
-Le même jour, le Bureau de la présidence publie à nouveau la formule « la République de Chine est un État souverain et démocratique ». Lin Zhuoshui écrit sur Facebook les trois mots « Très approprié. » Il explique que cela « lui a permis de respirer », estimant que le gouvernement a enfin « abandonné les erreurs depuis 2020 ».[^26]
+Le même jour, le Bureau de la présidence publie à nouveau la formule « la République de Chine est un État souverain et démocratique ». Lin Cho-shui écrit sur Facebook les trois mots « Très approprié. » Il explique que cela « lui a permis de respirer », estimant que le gouvernement a enfin « abandonné les erreurs depuis 2020 ».[^26]
 
-Vingt‑sept ans auparavant, Lin Zhuoshui avait ajouté « actuellement » devant le nom officiel. Vingt‑sept ans plus tard, il mesure toujours chaque déclaration du gouvernement à l’aune de cette précision.
+Vingt‑sept ans auparavant, Lin Cho-shui avait ajouté « actuellement » devant le nom officiel. Vingt‑sept ans plus tard, il mesure toujours chaque déclaration du gouvernement à l’aune de cette précision.
 
 Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Taïwan est déjà indépendant ». La résolution n’apparaît pas dans leurs manuels. Ils reçoivent une conclusion déjà empaquetée, tandis que les luttes, compromis et le combat autour de deux caractères restent écrasés par vingt‑sept ans d’histoire. Ils ignorent que ce sens commun provient d’une réunion du parti à Kaohsiung en 1999, d’un texte rédigé par trois personnes autour d’une même table, et d’un simple ajout de mot : « actuellement ». Le plus grand succès de la résolution est de ne plus nécessiter d’être rappelée.
 
@@ -134,15 +134,15 @@ Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Ta
 
 ## Références
 
-[^1]: [Lin Zhuoshui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberty Times, 14 mai 2007, Lin se souvient que Chen Shui‑Bian, via You Xi‑kun, a poussé à modifier le programme d’indépendance.
+[^1]: [Lin Cho-shui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberty Times, 14 mai 2007, Lin se souvient que Chen Shui‑Bian, via You Xi‑kun, a poussé à modifier le programme d’indépendance.
 
-[^2]: [Lin Zhuoshui parle du processus de rédaction](https://newtalk.tw/news/view/2021-07-11/602408) — Newtalk, 11 juillet 2021, citation « ajout de « actuellement » ».
+[^2]: [Lin Cho-shui parle du processus de rédaction](https://newtalk.tw/news/view/2021-07-11/602408) — Newtalk, 11 juillet 2021, citation « ajout de « actuellement » ».
 
-[^3]: [Entretien de Lin Zhuoshui (idem Newtalk 2021‑07‑11)](https://newtalk.tw/news/view/2021-07-11/602408) — Explication du raisonnement, mention de la possible fermeture des bureaux à l’étranger.
+[^3]: [Entretien de Lin Cho-shui (idem Newtalk 2021‑07‑11)](https://newtalk.tw/news/view/2021-07-11/602408) — Explication du raisonnement, mention de la possible fermeture des bureaux à l’étranger.
 
 [^4]: [Programme du parti pour l’indépendance de Taïwan](https://zh.wikipedia.org/zh-tw/台獨黨綱) — Adopté le 13 oct. 1991 lors du premier congrès national du DPP.
 
-[^5]: [Discours de Shih Ming‑te à Washington 1995](https://www.dpp.org.tw/media/contents/2286) — Archive du site du DPP, voir aussi le Fonds culturel Shih Ming‑te.
+[^5]: [Discours de Shih Ming‑te à Washington 1995](https://www.dpp.org.tw/media/contents/2286) — Archive du site du DPP, voir aussi le [Fonds culturel Shih Ming‑te](http://www.nori.org.tw/story/民進黨執政，不必也不會宣告台灣獨立。/) pour le document complet.
 
 [^6]: [Shih Ming‑te, « l’indépendance à la mode de la République de Chine »](https://www.ettoday.net/news/20240115/2637003.htm) — ETtoday, 15 janv. 2024, première formulation en 1980.
 
@@ -150,15 +150,15 @@ Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Ta
 
 [^8]: [Manifeste de la nouvelle génération du mouvement d’indépendance de Taïwan](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) — 10 mai 1996, rédigé par Zhou Yicheng, plus de cent signataires.
 
-[^9]: [CRS Report 98‑837 : Taiwan – The “Three No’s”](https://www.everycrsreport.com/reports/98-837.html) — Rapport du Congressional Research Service, 1998, voir aussi le Washington Post du 30 juin 1998.
+[^9]: [CRS Report 98‑837 : Taiwan – The “Three No’s”](https://www.everycrsreport.com/reports/98-837.html) — Rapport du Congressional Research Service, 1998, voir aussi le [Washington Post du 30 juin 1998](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/).
 
 [^10]: [Grand débat du DPP sur la politique chinoise 1998](https://zh.wikipedia.org/zh-tw/民主進步黨) — Débat à l’Université de Taiwan, 13‑15 févr. 1998, Hsu Hsin‑liang « avancée audacieuse vers l’ouest » vs Nouveau Courant « consolidation progressive ».
 
-[^11]: [Lin Zhuoshui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberté Times, 14 mai 2007, proposition de compromis de Chen Zhongxin.
+[^11]: [Lin Cho-shui, « Le secret de la résolution sur l’avenir de Taïwan »](https://talk.ltn.com.tw/article/paper/130246) — Liberté Times, 14 mai 2007, proposition de compromis de Chen Chung-hsin.
 
-[^12]: [Entretien de Lin Zhuoshui (idem Liberté Times 2007‑05‑14)](https://talk.ltn.com.tw/article/paper/130246) — Lin décrit son rôle pendant la rédaction.
+[^12]: [Entretien de Lin Cho-shui (idem Liberté Times 2007‑05‑14)](https://talk.ltn.com.tw/article/paper/130246) — Lin décrit son rôle pendant la rédaction.
 
-[^13]: [Résolution sur l’avenir de Taïwan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Adoptée le 8 mai 1999, texte complet disponible via le New Taiwan Peace Foundation.
+[^13]: [Résolution sur l’avenir de Taïwan](https://zh.wikipedia.org/zh-tw/臺灣前途決議文) — Adoptée le 8 mai 1999, texte complet disponible via la [New Taiwan Peace Foundation](https://www.twpeace.org.tw/wordpress/?p=2727).
 
 [^14]: [Principe d’une Chine et la question taïwanaise (Livre blanc chinois 2000)](https://www.gwytb.gov.cn/zt/baipishu/202103/t20210321_12338499.htm) — Pékin qualifie la résolution de « indépendance déguisée ».
 
@@ -170,27 +170,27 @@ Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Ta
 
 [^18]: [Résolution d’État normal](https://www.dpp.org.tw/news/contents/15) — Adoptée le 30 sept. 2007, visait à renommer le pays « Taïwan », à rédiger une nouvelle constitution et à rejoindre l’ONU sous ce nom.
 
-[^19]: [Proposition de gel du programme d’indépendance](https://zh.wikipedia.org/zh-tw/台獨黨綱) — 2014, Guo Zhengliang et plus de 40 représentants signent, Tsai Ing‑wen envoie au Comité exécutif, pas de vote formel.
+[^19]: [Proposition de gel du programme d’indépendance](https://zh.wikipedia.org/zh-tw/台獨黨綱) — 2014, Kuo Cheng-liang et plus de 40 représentants signent, Tsai Ing‑wen envoie au Comité exécutif, pas de vote formel.
 
 [^20]: [Wu Jun‑zhi : le programme d’indépendance « est un document historique »](https://udn.com/news/story/123307/7613012) — United Daily News, 25 févr. 2024, déclaration lors d’une conférence en ligne.
 
-[^21]: [Gé Lai‑yi invite Lai Ching‑te à envisager le gel du programme d’indépendance – Zhuo Rong‑tai](https://www.cna.com.tw/news/aipl/202312010145.aspx) – CNA, 1 déc. 2023, réponse de Zhuo Rong‑tai en tant que responsable de campagne.
+[^21]: [Bonnie Glaser invite Lai Ching‑te à envisager le gel du programme d’indépendance – Zhuo Rong‑tai](https://www.cna.com.tw/news/aipl/202312010145.aspx) — CNA, 1 déc. 2023, réponse de Zhuo Rong‑tai en tant que responsable de campagne.
 
-[^22]: [Guo Zhengliang](https://zh.wikipedia.org/zh-tw/郭正亮) — Annonce le 19 mai 2023 son départ du DPP, devenu commentateur politique.
+[^22]: [Kuo Cheng-liang](https://zh.wikipedia.org/zh-tw/郭正亮) — Annonce le 19 mai 2023 son départ du DPP, devenu commentateur politique.
 
-[^23]: [Lin Zhuoshui](https://zh.wikipedia.org/zh-tw/林濁水) — Démissionne du législature le 13 nov. 2006 suite à l’affaire de corruption de Chen Shui‑Bian.
+[^23]: [Lin Cho-shui](https://zh.wikipedia.org/zh-tw/林濁水) — Démissionne du législature le 13 nov. 2006 suite à l’affaire de corruption de Chen Shui‑Bian.
 
-[^24]: [Lai Ching‑te définit les deux sens de l’indépendance](https://www.ettoday.net/news/20260517/3167412.htm) – ETtoday, 17 mai 2026, discours en réponse à la pression post‑Biden‑Xi.
+[^24]: [Lai Ching‑te définit les deux sens de l’indépendance](https://www.ettoday.net/news/20260517/3167412.htm) — ETtoday, 17 mai 2026, discours en réponse à la pression post‑Biden‑Xi.
 
-[^25]: [Shen Bo‑yang répond à Jiang Wan‑an](https://news.ltn.com.tw/news/politics/breakingnews/5440164) – Liberty Times, 17 mai 2026, réplique du législateur du DPP.
+[^25]: [Shen Bo‑yang répond à Jiang Wan‑an](https://news.ltn.com.tw/news/politics/breakingnews/5440164) — Liberty Times, 17 mai 2026, réplique du législateur du DPP.
 
-[^26]: [Lin Zhuoshui commente la déclaration gouvernementale « Très approprié »](https://news.tvbs.com.tw/politics/3206164) – TVBS, 17 mai 2026, il estime que le gouvernement a enfin abandonné les erreurs depuis 2020.
+[^26]: [Lin Cho-shui commente la déclaration gouvernementale « Très approprié »](https://news.tvbs.com.tw/politics/3206164) — TVBS, 17 mai 2026, il estime que le gouvernement a enfin abandonné les erreurs depuis 2020.
 
-[^27]: [Texte complet de la résolution sur l’avenir de Taïwan](https://www.twpeace.org.tw/wordpress/?p=2727) – New Taiwan Peace Foundation, préface et sept points originaux.
+[^27]: [Texte complet de la résolution sur l’avenir de Taïwan](https://www.twpeace.org.tw/wordpress/?p=2727) — New Taiwan Peace Foundation, préface et sept points originaux.
 
-[^28]: [Discours de Tsai Ing‑wen « Quatre engagements »](https://www.president.gov.tw/News/26253) – Site officiel de la présidence, 10 oct. 2021.
+[^28]: [Discours de Tsai Ing‑wen « Quatre engagements »](https://www.president.gov.tw/News/26253) — Site officiel de la présidence, 10 oct. 2021.
 
-[^29]: [Lai Ching‑te parle de la résolution avant les élections 2024](https://www.president.gov.tw/News/28428) – Site officiel de la présidence, avec reportage supplémentaire de CNA.
+[^29]: [Lai Ching‑te parle de la résolution avant les élections 2024](https://www.president.gov.tw/News/28428) — Site officiel de la présidence, avec reportage supplémentaire de CNA.
 
 ## Lectures complémentaires
 

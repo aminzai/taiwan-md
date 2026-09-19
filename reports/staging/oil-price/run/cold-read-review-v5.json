@@ -1,0 +1,18 @@
+{
+  "revision": 65,
+  "submissionId": "8b041966-23c9-4d5d-87d5-f0c0f53c6f65",
+  "actor": "taiwan-md main session 2026-09-18-134106-oil-price (Opus 5) as chief editor",
+  "verdict": "accept",
+  "rationale": "第五次複讀（draft-only-reread）：兩處更正讀通、讀者自行重算相符；新困惑三條極輕微（句法／數字並列），強推無新增，立場維持可接受的不裁判。不再動正文，極輕微兩條記入 release remainingLimits。",
+  "contextDisclosure": "chief-editor-full-context",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission-v5.json",
+      "location": "data.confusions[0-2]、retelling 末段"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-review-v5.md",
+      "location": "全文"
+    }
+  ]
+}

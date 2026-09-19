@@ -1,6 +1,6 @@
 ---
-title: 'Jiufen: Penamaan Ulang Kota Gunung Setelah Hilangnya Tambang, Melalui Film'
-description: 'Jiufen berubah dari desa pengolah kamper dan otak menjadi permukiman tambang emas, lalu dikemas ulang oleh film, rumah teh, dan budaya setelah industri pertambangan meredup. Artikel ini menyusun nama tempat, industri, bioskop, dan pariwisata dalam satu garis waktu.'
+title: 'Jiufen: Setelah Tambang Hilang, Film Menamai Kembali Kota Gunung'
+description: 'Jiufen dari desa gunung penambangan kamfer berubah menjadi permukiman tambang emas; setelah industri tambang mundur, tempat ini dikemas ulang oleh film, rumah teh, dan pelestarian budaya. Artikel ini menempatkan toponim, industri, bioskop, dan pariwisata kembali ke satu garis waktu yang sama.'
 date: 2026-08-20
 subcategory: '城市與人文地理'
 category: 'Geography'
@@ -9,9 +9,9 @@ tags:
     'Jiufen',
     'Ruifang',
     'Tambang Emas',
-    'Warisan Pertambangan',
-    'Kota Tragis',
-    'Bioskop Shenping',
+    'Warisan Tambang',
+    'Kota Kelam',
+    'Bioskop Shengping',
     'Pariwisata Budaya',
     'Budaya Kuliner',
   ]
@@ -25,156 +25,156 @@ translatedFrom: 'Geography/九份.md'
 sourceCommitSha: '7a1e87e46'
 sourceContentHash: 'sha256:f6fbbce0517a5d1c'
 sourceBodyHash: 'sha256:ec15193c5eaa241b'
-translatedAt: '2026-09-14T14:50:02+08:00'
+translatedAt: '2026-09-12T02:30:18+08:00'
 ---
 
-## Tinjauan 30 Detik
+## 30 Detik Ringkasan
 
-Sebelum penemuan emas, Jiufen bukanlah kota kosong yang "menanti untuk ditemukan." Catatan lokal dari Administrasi Pariwisata Kementerian Transportasi menyebutkan bahwa di masa awal, mata pencaharian utama adalah pengolahan kamper dan otak; nama "Jiufen" terkait dengan cara membagi bagian dari tungku kamper. Setelah urat emas ditemukan sekitar tahun 1890, populasi dan modal baru berkumpul dengan cepat di lereng gunung, membentuk skala permukiman yang baru.[^10]
+Sebelum penambangan emas, Jiufen bukanlah "kota kosong yang menunggu ditemukan". Data lokal Biro Pariwisata Kementerian Perhubungan mencatat, tempat ini awalnya bermata pencaharian penambangan dan pengolahan kamfer; nama "Jiufen" (九份, sembilan bagian) berkaitan dengan cara pembagian tungku kamfer. Sekitar tahun 1890, setelah urat emas ditemukan, populasi dan modal dengan cepat terkumpul di lereng bukit, membentuk skala permukiman baru.[^10]
 
-Titik balik kedua Jiufen terjadi setelah industri pertambangan berakhir. Pada tahun 1971, penambangan emas di Jiufen secara resmi dihentikan, dan Bioskop Shenping (昇平戲院) tutup akibat tekanan dari televisi, kaset video, hilangnya populasi, dan kerugian operasional. Pada tahun 1989, film _A City of Sadness_ (悲情城市) dirilis, membawa tangga, kabut, dan rumah teh Jiufen ke mata penonton bioskop. Upaya pelestarian selanjutnya tidak mengembalikan tempat itu menjadi kota penambang, melainkan menyusun narasi yang menempatkan bioskop, arsip pertambangan, budaya rumah teh, dan konsumsi pariwisata di satu lokasi.[^1] [^2] [^6] [^11]
+Pertolongan kedua Jiufen terjadi setelah industri tambang berakhir. Tahun 1971, Jiufen secara resmi menghentikan penambangan emas; Bioskop Shengping (昇平戲院) juga tutup karena tertekan televisi, pita video, aliran keluar penduduk, dan kerugian operasional. Tahun 1989, film _Kota Kelam_ (悲情城市) tayang, memasukkan tangga-tangga, kabut, dan rumah teh Jiufen ke pandangan penonton film. Upaya pelestarian setelahnya tidak mengembalikan Jiufen sebagai kota penambang, melainkan menempatkan bioskop, arsip tambang, budaya rumah teh, dan konsumsi pariwisata dalam satu narasi tempat yang sama.[^1] [^2] [^6] [^11]
 
-![Pemandangan Rumah Teh A-Mei dan Kota Gunung Jiufen, Foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg/1920px-A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Rumah Teh A-Mei dan pemandangan kota gunung Jiufen, foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg/1920px-A-Mei_Tea_House%2C_Jiufen%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Gambar: Another Believer, 〈A-Mei Tea House, Jiufen, 2024〉, Wikimedia Commons, CC BY-SA 4.0.[Halaman Arsip Asli](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) 。[^9]
+> Gambar: Another Believer, 〈A-Mei Tea House, Jiufen, 2024〉, Wikimedia Commons, CC BY-SA 4.0. [Halaman berkas asli](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) 。[^9]
 
-![Pemandangan Malam Kota Tua Jiufen, Foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jiufen%2C_November_27%2C_2024_-_181.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_181.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Malam di Jalan Tua Jiufen, foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jiufen%2C_November_27%2C_2024_-_181.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_181.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Gambar: Another Believer, 〈Jiufen, November 27, 2024 - 181〉, Wikimedia Commons, CC BY-SA 4.0.[Halaman Arsip Asli](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) 。Foto ini menampilkan pemandangan malam kota tua Jiufen saat ini dan tidak digunakan sebagai rekaman sejarah dari era pertambangan.[^13]
+> Gambar: Another Believer, 〈Jiufen, November 27, 2024 - 181〉, Wikimedia Commons, CC BY-SA 4.0. [Halaman berkas asli](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) 。Foto menampilkan pemandangan malam Jalan Tua Jiufen hari ini, tidak digunakan sebagai gambar sejarah era pertambangan.[^13]
 
-## Garis Waktu yang Tidak Hanya Menuju Emas
+## Satu Garis Waktu Bukan Hanya Menuju Emas
 
-Sejarah Jiufen paling baik dibaca melalui perubahan industrinya, bukan dari papan nama toko di kota tua hari ini. Garis waktu berikut menyandingkan tiga perubahan—"penemuan emas," "pemutaran film," dan "pelestarian"—untuk menunjukkan bahwa Jiufen bukanlah transformasi tunggal, melainkan serangkaian kekuatan berbeda yang mengambil alih lereng gunung yang sama.
+Sejarah Jiufen paling baik dibaca dari perubahan industri, bukan dari papan reklame toko di Jalan Tua hari ini. Garis waktu di bawah menyandingkan tiga jenis perubahan — "penambangan", "penayangan", "pelestarian" — sehingga terlihat bahwa Jiufen bukan sekali transformasi, melainkan beberapa kali kekuatan berbeda yang menguasai lereng gunung yang sama.
 
-| Periode      | Perubahan Lokal                                                                               | Ruang atau Data yang Tersisa                                                       |
-| :----------- | :-------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| Sekitar 1890 | Penemuan urat emas, populasi penambang berkumpul dengan cepat                                 | Tempat pemakaman tanah Fushan dan memori penambangan di sekitar Xiao Jin Gua[^10]  |
-| 1893–1896    | Jiufen dan Jinguashi memperoleh hak tambang secara terpisah, sistem pertambangan dilembagakan | Hak tambang Jiufen, hak tambang Jinguashi, dan metode eksploitasi yang berbeda[^2] |
-| 1931         | Bioskop Shenping selesai dibangun, mampu menampung 543 penonton                               | Bioskop dua lantai, fungsi teater dan pemutaran film[^11]                          |
-| 1957–1971    | Penambangan Jiufen merosot, dihentikan secara resmi pada tahun 1971                           | Hilangnya populasi, terputusnya jaringan komersial[^1] [^2]                        |
-| 1989         | _A City of Sadness_ dirilis, citra Jiufen masuk ke sirkulasi film internasional               | Jalan Shuziqian, Bioskop Shenping, rumah teh, dan pemandangan tambang[^6]          |
-| 2009–2010    | Bioskop Shenping mencapai titik balik pelestarian, ditetapkan sebagai bangunan bersejarah     | Fasilitas budaya kota tua dan rencana restorasi[^11]                               |
-| 2010–2020    | Bioskop Shenping berubah menjadi ruang pameran, pertunjukan, dan budaya lokal                 | Dokumentasi tokoh lokal, pameran bioskop lama, proposal partisipatif[^11]          |
+| Dekade       | Perubahan Lokal                                                                                  | Ruang atau Data yang Tersisa                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Sekitar 1890 | Urat emas ditemukan, populasi penambang cepat berkumpul                                          | Kuil Tanah Fukushan (福山宮土地祠), kenangan penambangan area Xiao Jin Gua (小金瓜)[^10] |
+| 1893–1896    | Jiufen dan Jinguashi (金瓜石) masing-masing memperoleh hak tambang, industri tambang terstruktur | Hak tambang Jiufen, hak tambang Jinguashi, serta metode penambangan berbeda[^2]          |
+| 1931         | Bangunan Shengping-za (昇平座) selesai, muat 543 penonton                                        | Bioskop dua lantai, teater, dan fungsi penayangan film[^11]                              |
+| 1957–1971    | Tambang Jiufen merosot, 1971 resmi berhenti tambang                                              | Aliran keluar penduduk, jaringan komersial putus[^1] [^2]                                |
+| 1989         | _Kota Kelam_ tayang, citra Jiufen masuk sirkulasi film internasional                             | Jalan Zhuzaki (豎崎路), Bioskop Shengping, rumah teh, dan pemandangan tambang[^6]        |
+| 2009–2010    | Bioskop Shengping mendapat titik balik pelestarian, ditetapkan bangunan bersejarah               | Fasilitas budaya Jalan Tua dan rencana restorasi[^11]                                    |
+| 2010–2020    | Bioskop Shengping beralih jadi ruang pamer, pertunjukan, dan budaya lokal                        | Rekaman tokoh lokal, pameran bioskop lama, usulan partisipatif[^11]                      |
 
-Tabel ini juga mengingatkan kita bahwa Jiufen tidak sesederhana "pertambangan berakhir, film mengambil alih." Pembangunan bioskop mendahului kemunduran tambang, dan penutupan bioskop terjadi setelah puncak penambangan. Sebelum film menggambarkan Jiufen sebagai latar sejarah, Bioskop Shenping sendiri telah mengalami perubahan dari tempat pertunjukan, bioskop, menjadi ruang memori komunitas.[^11]
+Tabel ini juga mengingatkan, Jiufen bukan sekadar "tambang berakhir, film mengambil alih". Pendirian bioskop lebih awal dari kemunduran tambang, dan penutupan bioskop lebih lambat dari puncak penambangan. Sebelum film mengabadikan Jiufen sebagai latar sejarah, Bioskop Shengping sendiri sudah mengalami pergeseran dari tempat pertunjukan, bioskop, ke ruang kenangan komunitas.[^11]
 
-## Sebelum Penemuan Emas: Tungku Kamper dan Nama Tempat
+## Sebelum Tambang Emas: Tungku Kamfer dan Toponim
 
-Halaman situs resmi Administrasi Pariwisata Kementerian Transportasi menunjukkan bahwa sebelum kemakmuran emas, Jiufen beroperasi sebagai pengolah kamper dan otak. Ada sembilan puluh tungku kamper di daerah tersebut, dengan sepuluh tungku membentuk satu unit, sehingga muncullah istilah "Jiufen." Ini adalah narasi sejarah lokal dari halaman pariwisata, yang tidak bisa dianggap sebagai satu-satunya kebenaran toponimi, tetapi setidaknya mengoreksi penyederhanaan bahwa "Jiufen baru muncul pada tahun 1890."[^10]
+Halaman resmi objek wisata Biro Pariwisata Kementerian Perhubungan menyatakan, sebelum tambang emas berkembang, Jiufen pernah bermata pencaharian penambangan dan pengolahan kamfer; lokal memiliki sembilan puluh tungku kamfer, dengan sepuluh tungku dihitung sebagai satu "bagian" (份), sehingga terbentuk toponim "Jiufen" (sembilan bagian). Ini adalah narasi asal-usul versi halaman wisata, tidak bisa dijadikan satu-satunya kesimpulan toponimi, tapi setidaknya memperbaiki penyederhanaan "Jiufen baru muncul 1890".[^10]
 
-Sekitar tahun 1890, penduduk menemukan urat emas di dekat Tempat Pemakaman Tanah Fushan, di lokasi Xiao Jin Gua, dan populasi penambang berkumpul dengan cepat. Data resmi memperkirakan bahwa desa tersebut pernah menampung tiga hingga empat ribu rumah tangga penambang dalam waktu singkat. Angka ini menggambarkan permukiman tambang yang berkembang pesat dalam waktu singkat, bukan jumlah penduduk tetap Jiufen saat ini.[^10]
+Sekitar 1890, warga menemukan urat emas dekat Kuil Tanah Fukushan menuju Xiao Jin Gua; populasi penambang cepat berkumpul. Data resmi memperkirakan desa pernah mengumpulkan tiga hingga empat ribu kepala keluarga penambang. Angka ini menggambarkan permukiman tambang yang meledak dalam waktu singkat, bukan populasi tetap jangka panjang Jiufen hari ini.[^10]
 
-Arsip pertambangan dari Universitas Nasional Taiwan menempatkan titik balik ini dalam konteks regional yang lebih panjang: emas pasir di Sungai Keelung ditemukan pada tahun 1890, urat emas ditemukan di Jiufen pada tahun 1893, dan deposit tambang ditemukan di Jinguashi pada tahun 1894. Para penambang tidak tiba-tiba membangun kota di gunung, melainkan bergerak secara bertahap mengikuti sungai, urat mineral, dan jalur transportasi.[^2]
+Arsip digital Universitas Nasional Taiwan menempatkan pertolongan ini dalam konteks regional lebih panjang: 1890 pasir emas Sungai Keelung (基隆河) ditemukan, 1893 Jiufen temukan tambang emas, 1894 Gunung Utama (本山) Jinguashi temukan badan bijih. Penambang bukan tiba-tiba membangun kota di gunung, melainkan bergerak bertahap mengikuti aliran sungai, urat bijih, dan jalur transportasi.[^2]
 
-Pada tahun 1896, peraturan pertambangan Taiwan diberlakukan selama masa pemerintahan Jepang. Hak tambang Jiufen diperoleh oleh Fujita Densaburo, sementara Jinguashi diperoleh oleh Tanaka Chōbei. Kedua wilayah yang berdekatan ini dipengaruhi oleh sistem manajemen dan investasi yang berbeda sejak saat itu.[^2]
+1896, awal masa penjajahan Jepang mengeluarkan Peraturan Pertambangan Taiwan; hak tambang Jiufen diraih Fujita Denjirō (藤田傳三郎), Jinguashi oleh Tanaka Chōbei (田中長兵衛). Dua wilayah bersebelahan sejak saat itu menerima pengelolaan dan pola investasi berbeda.[^2]
 
-Urat mineral di Jiufen sebagian besar berada dalam batu pasir yang lebih rapuh, dengan emas muncul berbentuk sisik atau ranting di urat kuarsa. Emas di Jinguashi sebagian besar terbentuk di andesit intrusif yang keras; metode terakhir menggunakan sistem penambangan langsung skala besar, sementara Jiufen pernah mengembangkan sistem pertambangan kontrak terbagi. Menyebut kedua tempat itu sebagai "Jinjiu" (emas dan sembilan) sangat praktis, tetapi nama rute yang praktis tidak boleh menggantikan dua sejarah industri yang berbeda.[^2] [^3]
+Urat bijih Jiufen banyak di batupasir rapuh, emas berupa daun atau bercabang di dalam urat kuarsa. Emas Jinguashi lebih banyak terbentuk di andesit intrusif keras; yang terakhir menggunakan penambangan skala besar langsung, Jiufen pernah mengembangkan sistem kontrak per zona. Memanggil keduanya "Emas Jiu" (金九) memang praktis, tapi nama jalan pintas tidak boleh menggantikan dua sejarah industri yang berbeda.[^2] [^3]
 
-## Lereng Bukan Latar Belakang, Melainkan Rute Kerja
+## Lereng Bukan Latar, Tapi Jalur Buruh
 
-Para penambang, kontraktor, pemilik toko, kelompok teater, dan keluarga penambang berkumpul di lereng gunung yang terbatas; rumah-rumah hanya dapat ditumpuk mengikuti topografi. Tangga menghubungkan lubang tambang, tempat tinggal, toko, dan bioskop; jalanan awalnya adalah rute kerja dan kehidupan, baru kemudian menjadi pandangan bagi para wisatawan untuk berfoto. Data Universitas Nasional Taiwan menganggap kondisi lahan sempit, kepadatan penduduk, pembangunan yang mengikuti lereng, dan konsentrasi populasi pertambangan sebagai kunci pembentukan permukiman kota gunung Jiufen.[^2]
+Penambang, kontraktor, pedagang, trup teater, dan keluarga penambang bersama masuk ke lereng terbatas; rumah hanya bisa menumpang mengikuti topografi. Tangga menghubungkan lubang tambang, rumah, toko, dan bioskop; jalan pertama kali adalah rute kerja dan hidup, baru kemudian jadi sudut pandang foto wisatawan. Data UI (Universitas Indonesia — _sic_, seharusnya Universitas Nasional Taiwan) memandang sempitnya lahan, padatnya penduduk, bangunan mengikuti lereng, dan konsentrasi populasi tambang sebagai kunci terbentuknya permukiman kota gunung Jiufen.[^2]
 
-Permukiman semacam ini sulit direpresentasikan oleh satu bangunan tunggal. Rumah teh, bioskop, toko kelontong, lubang tambang, dan asrama masing-masing memenuhi kebutuhan hidup yang berbeda. Jika hanya melestarikan fasad rumah teh yang paling mudah difoto tanpa menangani terowongan, rumah sakit, sekolah, transportasi, dan memori penduduk, maka yang dilestarikan hanyalah penampilan luar, bukan permukiman itu sendiri.
+Permukiman semacam ini sulit diwakili oleh satu bangunan tunggal. Rumah teh, bioskop, toko serba ada, lubang tambang, dan asrama masing-masing menjawab kebutuhan hidup berbeda. Jika hanya mempertahankan fasad rumah teh yang paling fotogenik, tapi tidak mengurus lubang tambang, rumah sakit, sekolah, transportasi, dan kenangan warga, yang terselamatkan adalah penampilan, bukan permukiman.
 
-![Gang Lereng Kota Tua Jiufen, Foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jiufen%2C_November_27%2C_2024_-_197.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_197.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Lereng dan gang Jalan Tua Jiufen, foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jiufen%2C_November_27%2C_2024_-_197.jpg/1920px-Jiufen%2C_November_27%2C_2024_-_197.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Gambar: Another Believer, 〈Jiufen, November 27, 2024 - 197〉, Wikimedia Commons, CC BY-SA 4.0.[Halaman Arsip Asli](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) 。Foto ini menampilkan pemandangan kota tua dan gang lereng Jiufen saat ini dan tidak digunakan sebagai foto sejarah dari era pertambangan.[^14]
+> Gambar: Another Believer, 〈Jiufen, November 27, 2024 - 197〉, Wikimedia Commons, CC BY-SA 4.0. [Halaman berkas asli](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) 。Foto menampilkan Jalan Tua dan lereng gang hari ini, tidak sebagai foto sejarah era pertambangan.[^14]
 
-Perbedaan antara Jiufen dan Jinguashi juga terlihat di sini. Ketika Biro Administrasi Arsip Komisi Pembangunan Nasional menyusun data Jinguashi, yang tersisa bukan hanya volume produksi emas, tetapi juga peta terowongan, catatan konsultasi rumah sakit, formulir pendaftaran asrama siswa, jadwal kereta api, dan anggaran dasar perusahaan. Dokumen-dokumen ini mengembalikan industri pertambangan sebagai sistem pengaturan kerja, pengobatan, sekolah, dan perjalanan pulang-pergi.[^1]
+Perbedaan Jiufen dan Jinguashi juga terlihat di sini. Arsip Nasional Komisi Pembangunan Nasional saat menyusun bahan Jinguashi, tidak hanya menyimpan data produksi emas, tapi juga peta lubang, jadwal poliklinik rumah sakit, permohonan asrama pelajar, jadwal kereta api, dan anggaran dasar perusahaan. Dokumen-dokumen itu mengembalikan pertambangan menjadi satu sistem yang mengatur kerja, berobat, sekolah, dan pergi pulang.[^1]
 
-## Bioskop Shenping: Dari 543 Kursi Menjadi Ruang Budaya Lokal
+## Bioskop Shengping: Dari 543 Kursi ke Ruang Budaya Lokal
 
-Bioskop Shenping tidak diberi nilai budaya setelah _A City of Sadness_ selesai. Artikel Kementerian Kebudayaan mencatat bahwa pendahulunya, "Shenping Theater," selesai dibangun pada tahun 1931, sebagai bangunan dua lantai yang menggabungkan teater dan pemutaran film. Lantai satu terbuat dari bata, sementara lantai dua didominasi kayu, mampu menampung 543 penonton. Awalnya ia adalah fasilitas hiburan permukiman tambang, baru kemudian menjadi bangunan bersejarah yang dilestarikan.[^11]
+Bioskop Shengping bukan baru bernilai budaya setelah _Kota Kelam_ selesai dipotret. Tulisan Kementerian Kebudayaan mencatat, pendahulunya "Shengping-za" (昇平座) selesai 1931, bangunan dua lantai gabungan teater dan penayangan film, lantai satu bata, lantai dua kayu, muat 543 penonton. Ia dulu fasilitas hiburan permukiman tambang, baru kemudian jadi bangunan sejarah yang dilestarikan.[^11]
 
-Periode tahun 1950 hingga 1960 adalah masa kejayaan bioskop. Penurunan industri emas, hilangnya populasi, dan perubahan lingkungan investasi menyebabkan kesulitan operasional secara bertahap. Pada tahun 1970-an, industri film matang, dan bioskop sempat bertransformasi menjadi bioskop film, sebelum akhirnya tutup karena pengaruh televisi, kaset video, dan media baru. Alur ini lebih konkret daripada sekadar "bioskop tua menyaksikan kemakmuran dan kemunduran," karena menunjukkan perubahan bersama pada penonton, medium, dan industri.[^11]
+1950-an hingga 1960-an adalah masa kejayaan bioskop. Kemunduran tambang emas, aliran keluar penduduk, dan perubahan lingkungan investasi membuat operasional semakin sulit. 1970-an industri film dewasa, bioskop sempat beralih jadi bioskop film, kemudian terkena dampak TV, pita video, dan media baru, akhirnya tutup karena rugi. Alur ini lebih konkret dari "bioskop tua menyaksikan kemegahan dan kemunduran", karena menunjuk penonton, media, dan industri yang bersamaan berubah.[^11]
 
-Setelah bioskop ditutup, bangunan itu hampir dihancurkan. Artikel Kementerian Kebudayaan mencatat bahwa pada tahun 2009 terjadi titik balik pelestarian lokal, dan pada tahun 2010 Bioskop Shenping ditetapkan sebagai bangunan bersejarah, dengan mengusulkan rencana pembangunan pemandangan area sekitarnya. Kemudian dikelola oleh Museum Emas Kota Baru Taipei (New Taipei City), bioskop secara bertahap berubah menjadi ruang pameran dan pertunjukan budaya.[^11]
+Pasca tutup, bangunan hampir diruntuhkan. Kementerian Kebudayaan mencatat, 2009 warga lokal mendapat titik balik pelestarian, 2010 Bioskop Shengping ditetapkan bangunan bersejarah, dan diajukan rencana penataan ruang lingkungan. Kemudian dikelola Museum Emas Kota New Taipei (新北市立黃金博物館), bioskop berangsur jadi ruang pamer budaya dan pertunjukan.[^11]
 
-Antara tahun 2010 dan 2020, Museum Emas melalui wawancara dengan penduduk Jiufen mengenai "penemuan dan dokumentasi kisah tambang," memasukkan cerita tokoh lokal ke dalam pemutaran di bioskop, dan juga menyediakan rencana anggaran partisipatif, memungkinkan warga setempat mengajukan proposal penggunaan ruang. Pendekatan ini mengubah hubungan penonton terhadap bioskop: wisatawan tidak hanya melihat bangunan tua, tetapi juga siapa yang menyediakan cerita dan siapa yang menentukan konten pameran.[^11]
+2010–2020, Museum Emas lewat "Penggalian dan Pencatatan Cerita Tambang" mewawancarai warga Jiufen, memasukkan kisah tokoh lokal ke penayangan di bioskop, juga menyediakan skema anggaran partisipatif agar warga mengusulkan penggunaan ruang. Praktik ini mengubah relasi menonton di bioskop: wisatawan tidak hanya melihat bangunan tua, tapi juga melihat siapa yang menyuplai cerita, siapa yang menentukan isi pameran.[^11]
 
-Hari ini, saat memasuki Bioskop Shenping, kita dapat melihat proyektor kuno, sepeda promosi film, poster, loket tiket, dan toko kelontong replika. Objek-objek ini bukanlah gambaran utuh dari era pertambangan, melainkan bukti yang dipilih oleh kurator di kemudian hari. Pameran dapat membuat orang memahami sejarah, tetapi juga mengatur urutan sejarah; oleh karena itu, pameran masih perlu dicocokkan dengan memori penduduk dan arsip tambang.[^11]
+Hari ini masuk Bioskop Shengping, terlihat proyektor lama, becak promosi film, poster, loket tiket, dan replika toko serba ada. Benda-benda ini bukan utuhnya asli era tambang, melainkan bukti yang dipilih kurator kemudian. Pameran memungkinkan memahami sejarah, tapi juga mengatur urutan sejarah, oleh karena itu tetap perlu menyilangkan produk pameran dengan kenangan warga dan arsip tambang.[^11]
 
-## Emas Turun Panggung, Film Naik Panggung
+## Emas Mundur, Film Masuk
 
-Jiufen mulai merosot setelah tahun 1957, dan penambangan emas dihentikan secara resmi pada tahun 1971. Industri pertambangan Jinguashi berlanjut hingga perusahaan Taikin tutup pada tahun 1987; waktu penurunan kedua tempat itu berbeda.[^1] [^2]
+Jiufen mulai merosot 1957, 1971 resmi berhenti tambang. Tambang Jinguashi berlanjut sampai 1987 Perusahaan Emas Taiwan (臺金公司) bubar, waktu mundur kedua tempat berbeda.[^1] [^2]
 
-Setelah pertambangan berakhir, yang pertama hilang bukanlah rumah, melainkan orang-orang yang pernah melayani rumah tersebut. Para penambang tidak lagi datang dan pergi setiap hari, bioskop kehilangan penonton tetap, toko kehilangan pelanggan tetap, dan kontraktor serta keluarga secara bertahap pergi. "Kemunduran" Jiufen di kemudian hari bukanlah pemandangan yang tiba-tiba menjadi buruk, melainkan terputusnya jaringan kerja yang menopang pemandangan tersebut.
+Pasca tambang tutup, yang paling cepat hilang bukan rumah, tapi orang yang dulunya dilayani rumah itu. Penambang tidak lagi masuk keluar tiap hari, bioskop kehilangan penonton tetap, toko kehilangan pelanggan tetap, kontraktor dan keluarga bertahap pergi. "Kemunduran" Jiufen kemudian bukan pemandangan tiba-tiba jadi jelek, tapi jaringan kerja yang menopang pemandangan itu putus.
 
-Pada tahun 1980-an, sinema baru Taiwan mulai menggunakan Jiufen dan Jinguashi sebagai ruang cerita. Wu Nianzhen pernah mendorong teman-temannya untuk membuat film di Jiufen; film seperti _A Day on the Beach_, _A City of Sadness_, dan _Duosang_ membawa lereng gunung kota, rumah sakit penambang, rumah tua, dan bioskop ke layar lebar.[^6] [^7]
+1980-an, Film Baru Taiwan mulai menjadikan Jiufen dan Jinguashi ruang cerita. Wu Nien-jen (吳念真) pernah mendorong teman ke Jiufen syuting; _Sehari di Pantai_ (海灘的一天), _Kota Kelam_, _Duo Sang_ (多桑) dll memasukkan lereng kota gunung, rumah sakit penambang, rumah tua, dan bioskop ke layar perak.[^6] [^7]
 
-_A City of Sadness_, yang dirilis pada tahun 1989 dengan latar pergantian rezim dan Peristiwa 228, menggunakan bidikan panjang oleh Hou Hsiao-hsien untuk menangkap kabut, tangga, dan rumah di Jiufen, dan memenangkan Golden Lion di Festival Film Venesia. Film ini tidak mencatat sejarah industri Jiufen secara lengkap; ia memilih sudut jalan yang mampu menampung cerita, lalu membawa sudut-sudut itu ke penonton yang jauh dari Ruifang.[^6]
+_Kota Kelam_ tayang 1989, latar pergantian rezim dan Peristiwa 28 Februari (二二八事件); Hou Hsiao-hsien (侯孝賢) pakai shot panjang mengabadikan kabut, tangga, dan rumah Jiufen, serta meraih Singa Emas Festival Film Venesia. Film tidak mencatat penuh sejarah industri Jiufen; ia memilih sudut jalan yang mampu menopang cerita, lalu membawa sudut-sudut itu ke penonton jauh di luar Ruifang (瑞芳).[^6]
 
-Dalam wawancara dengan _Taiwan Guanghua_, Wu Nianzhen mengatakan bahwa Jiufen setelah kemunduran masih sangat indah, "seperti seorang bibi berambut putih." Ia juga membandingkan pembangunan berlebihan di kemudian hari dengan "mengoleskan bedak dan lipstik pada bibi ini." Kedua metafora ini dilihat bukan sebagai penolakan terhadap pariwisata, tetapi apakah konten kehidupan masih terlihat setelah penampilan luar tempat itu menjadi lebih cerah.[^7]
+Wu Nien-jen dalam wawancara _Taiwan Panorama_ (台灣光華) berkata, Jiufen pasca kemunduran tetap indah, "seperti seorang nenek beruban putih". Ia juga membandingkan overdevelopment kemudian seperti "memperkosa nenek itu dengan bedak dan lipstik". Dua metafora itu dibaca berdampingan, bicara bukan soal menolak pariwisata, tapi setelah penampilan lokal jadi lebih berseri, apakah isi kehidupan masih terlihat.[^7]
 
-## Mitos _Spirited Away_ dan Citra Lokal
+## Gosip _Spirited Away_ dan Citra Lokal
 
-Keterkaitan Jiufen dengan _Spirited Away_ adalah salah satu kesalahan paling umum dalam narasi pariwisata. Banyak tulisan perjalanan mengira pemandangan lentera merah dan rumah mandi sebagai bukti lokasi syuting, tetapi _City Studies_ mencatat bahwa Studio Ghibli dan Hayao Miyazaki pernah menyangkal bahwa Jiufen adalah lokasi syuting film tersebut.[^6]
+Kaitan Jiufen dengan _Spirited Away_ (神隱少女) adalah salah tempat paling sering dalam narasi pariwisata. Banyak tulisan travel membayangkan jalan lampion merah dan rumah mandi jadi bukti lokasi syuting, tapi ringkasan _Urban Studies_ (《城市學》) menunjuk Studio Ghibli dan Hayao Miyazaki (宮崎駿) keduanya pernah menyangkal Jiufen sebagai lokasi syuting.[^6]
 
-Mitos ini layak dimasukkan dalam artikel, bukan karena lebih menarik daripada sejarah penambangan, tetapi karena ia menunjukkan bagaimana suatu tempat direkonstruksi oleh citra. Jiufen yang sebenarnya memiliki lereng, bioskop, dan waktu pertambangan sendiri; namun, pengunjung mungkin tiba dengan gambaran dari film lain. Ketika kesalahan menjadi harapan perjalanan, tempat itu harus berusaha memisahkan "kesamaan" dari "lokasi syuting."
+Gosip ini layak dimasukkan artikel, bukan karena lebih menarik dari sejarah tambang, tapi karena mendemonstrasikan bagaimana tempat disusun ulang oleh citra. Jiufen asli punya lereng, bioskop, dan waktu tambang sendiri, tapi penonton mungkin tiba bawa gambar film lain. Ketika kesalahan jadi ekspektasi perjalanan, tempat justru harus berusaha memisahkan "kemiripan" dan "lokasi syuting".
 
-## Rumah Teh dan Kuliner: Pariwisata Bukan Hanya Menjual Foto Kota Tua
+## Rumah Teh dan Kuliner: Pariwisata Bukan Hanya Jual Foto Jalan Tua
 
-Budaya rumah teh Jiufen tidak muncul setelah film, dan juga tidak bisa disederhanakan hanya dengan kata "rasa kuno." Penelitian Han Xiuli pada tahun 2012 menganalisis sejarah, budaya kuliner, dan lingkungan pariwisata Jiufen melalui wawancara mendalam dan studi literatur, menunjukkan bahwa industri budaya lokal terdiri dari lanskap historis, memori kehidupan, dan produk budaya tradisional; sementara budaya rumah teh terkait dengan pemandangan hidup dan ritme Jiufen.[^12]
+Budaya rumah teh Jiufen bukan muncul pasca film, juga tidak bisa disederhanakan jadi tiga kata "rasa kuno". Penelitian Han Xiu-li (韓秀利) 2012 dengan wawancara mendalam dan kajian pustaka, menganalisis sejarah Jiufen, budaya kuliner, dan lingkungan pariwisata, menunjuk industri budaya lokal dibangun bersama lanskap sejarah, kenangan hidup, dan produk budaya tradisional; budaya rumah teh pun menyatu dengan pemandangan hidup dan irama Jiufen.[^12]
 
-Penelitian ini juga menunjukkan bahwa toko-toko di kota tua Jiufen membentuk asosiasi bisnis yang semakin stabil. Ini berarti transformasi pariwisata bukan hanya hasil dari wisatawan eksternal, tetapi juga karena para pedagang lokal membangun ruang komersial bersama. Masalahnya adalah, ketika merek kolektif kawasan menjadi semakin jelas, apakah individu dan memori non-komersial masih memiliki tempat untuk terlihat.[^12]
+Penelitian itu juga menunjuk, toko-toko Jalan Tua membentuk ikatan perkumpulan komersial, organisasi komersial bertahap stabil. Artinya transformasi pariwisata bukan hasil sepihak wisatawan luar, pedagang lokal juga membangun ruang komersial bersama. Masalahnya, saat brand kolektif komersial semakin jelas, apakah kenangan perorangan warga dan non-komersial masih punya tempat terlihat.[^12]
 
-Oleh karena itu, kuliner Jiufen layak ditulis sebagai hubungan industri, bukan legenda asal usul makanan ringan. Rumah teh, manisan, _yuo-yuan_ (bola ubi), _caozai guo_ (kue rumput), dan oleh-oleh semuanya dapat menjadi bagian dari ekonomi lokal, tetapi tanpa sejarah toko atau sumber penelitian yang andal, tidak boleh menciptakan cerita "turun-temurun" untuk makanan tunggal.
+Oleh itu, kuliner Jiufen layak ditulis sebagai relasi industri, bukan legenda asal-usul camilan. Rumah teh, kue manis, bola ubi (芋圓), kue daun pandan (草仔粿), dan oleh-oleh semuanya bisa jadi bagian ekonomi lokal; tapi tanpa riwayat toko atau sumber penelitian yang andal, tidak boleh mengada-adakan cerita "turun-temurun" untuk makanan tunggal.
 
-## Konflik Pelestarian dan Pariwisata Memiliki Isi Spesifik
+## Konflik Pelestarian dan Pariwisata Punya Isi Konkret
 
-Museum Emas, yang dibuka pada November 2004, melestarikan situs warisan pertambangan Jinguashi dengan konsep museum ekologi. Dokumen Kementerian Kebudayaan mencatat bahwa area inti sekitar 4,5 hektar, merenovasi tujuh jenis situs seperti asrama Jepang, kantor tambang, kantin, dan vila pangeran, serta satu terowongan, sambil terus melakukan wawancara lisan, penelitian warisan budaya, dan promosi pendidikan.[^4]
+Museum Emas Kota New Taipei buka 2004, dengan konsep museum ekologi melestarikan situs tambang Jinguashi. Data Kementerian Kebudayaan mencatat, area inti sekitar 4,5 hektar, merestorasi tujuh jenis situs — asrama bergaya Jepang, kantor urusan tambang, kantin, Tamu Putra (太子賓館), dan satu lubang tambang — serta terus melakukan wawancara lisan, penelitian aset budaya, dan promosi pendidikan.[^4]
 
-Rencana "Rekonstruksi Lokasi Sejarah" Kementerian Kebudayaan secara langsung menguraikan masalah di Shui-Jin-Jiu: polusi pertambangan masih ada, pemilik tanah dan penduduk memiliki imajinasi yang berbeda tentang pembangunan, dan pelestarian serta revitalisasi tidak bisa hanya mengandalkan perbaikan bangunan. Rencana tersebut mengusulkan kemajuan dari arah kebutuhan lokal, partisipasi komunitas, pemanfaatan ulang ruang sejarah, dan peningkatan nilai tambang.[^5]
+Program Kementerian Kebudayaan "Menciptakan Kembali Situs Sejarah" (再造歷史現場) langsung menyebutkan persoalan Shuijinjiu (水金九): pencemaran tambang masih ada, pemilik tanah dan warga punya bayangan berbeda soal pengembangan, pelestarian dan revitalisasi tidak bisa cuma andal bangunan dibaguskan. Program mengusulkan dorongan dari kebutuhan lokal, partisipasi komunitas, pemanfaatan ulang ruang sejarah, dan peningkatan nilai tambang.[^5]
 
-![Kuil Qingyun Jiufen, Foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg/1920px-Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
+![Kuil Qingyun Jiufen, foto 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg/1920px-Jiufen_Qingyun_Temple%2C_Taiwan%2C_2024.jpg 'Another Believer，Wikimedia Commons，CC BY-SA 4.0')
 
-> Gambar: Another Believer, 〈Jiufen Qingyun Temple, Taiwan, 2024〉, Wikimedia Commons, CC BY-SA 4.0.[Halaman Arsip Asli](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) 。Ini adalah citra bangunan keagamaan di permukiman saat ini dan tidak menggunakan foto itu sendiri sebagai bukti dari era pertambangan.[^15]
+> Gambar: Another Believer, 〈Jiufen Qingyun Temple, Taiwan, 2024〉, Wikimedia Commons, CC BY-SA 4.0. [Halaman berkas asli](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) 。Ini gambar bangunan agama di permukiman hari ini, tidak menjadikan foto ini sendiri bukti era pertambangan.[^15]
 
-Penelitian tahun 2024 dalam _International Journal of Heritage Studies_ mewawancarai 18 penduduk dan 16 wisatawan, menyusun empat tema yang saling terkait: memori, identitas kolektif, rasa memiliki, dan pariwisata massa. Penelitian tersebut juga menemukan bahwa pemahaman penduduk dan wisatawan tentang lanskap budaya terbaik tidak konsisten. Hasil ini menunjukkan bahwa "Jiufen sangat komersial" masih terlalu kasar; perbedaan sebenarnya terletak pada siapa yang menganggap bagian kehidupan tertentu sebagai lanskap, dan siapa yang menanggung biaya sehari-hari akibat pariwisata.[^8]
+Penelitian 2024 _International Journal of Heritage Studies_ mewawancarai 18 warga dan 16 wisatawan, merangkai empat tema saling terkait: kenangan, identitas kolektif, rasa milik, dan pariwisata massal. Penelitian juga temukan, warga dan wisatawan punya pemahaman tidak sama soal lanskap budaya terbaik. Hasil ini jelaskan "Jiufen terlalu komersial" masih terlalu kasar; perbedaan nyata ada pada siapa yang menjadikan potongan hidup mana sebagai pemandangan, dan siapa yang menanggung biaya harian yang dibawa pariwisata.[^8]
 
-## Masalah Jiufen Hari Ini Bukan Apakah Ia Harus Dilihat
+## Masalah Jiufen Hari Ini Bukan Soal Mau Dilihat Atau Tidak
 
-Jiufen telah dilihat berkali-kali: penambang melihat urat mineral, penambang melihat pekerjaan, penonton bioskop melihat layar, penonton film melihat suasana sejarah, wisatawan melihat rumah teh dan laut, sementara penduduk melihat transportasi, sewa, sampah, kebisingan, dan mata pencaharian. Tidak ada satu pun pandangan yang dapat mewakili Jiufen secara tunggal.
+Jiufen sudah dilihat berkali-kali: penambang lihat urat bijih, buruh lihat kerja, penonton bioskop lihat layar perak, penonton film lihat atmosfer sejarah, wisatawan lihat rumah teh dan gunung-laut, warga lalu lihat lalu lintas, sewa, sampah, kebisingan, dan pencaharian. Tidak satu pun pandangan itu bisa mewakili Jiufen sendirian.
 
-Yang benar-benar perlu dipertahankan adalah celah antar data. Penemuan urat emas pada tahun 1890, Bioskop Shenping pada tahun 1931, penghentian penambangan pada tahun 1971, _A City of Sadness_ pada tahun 1989, penetapan bangunan bersejarah pada tahun 2010, dan kawasan rumah teh serta pariwisata hari ini, tidak dapat dipadatkan menjadi cerita mulus "dari tambang ke objek wisata." Setiap titik balik mengubah siapa yang dapat menggunakan lereng gunung itu, dan juga apa yang akan dilestarikan.
+Yang benar-benar perlu dijaga adalah jarak antar data. Penemuan urat emas 1890, Shengping-za 1931, berhenti tambang 1971, _Kota Kelam_ 1989, penetapan bangunan bersejarah 2010, serta rumah teh dan komersial Jalan Tua hari ini, tidak boleh dikompres jadi satu cerita licin "dari tambang ke objek wisata". Setiap pertolongan mengubah siapa yang bisa memakai lereng ini, dan mengubah apa yang tersisa.
 
-Jika pelestarian Jiufen hanya memperbaiki pemandangan jalanan yang paling mudah difoto, ia akan kehilangan sistem pertambangan, kerja, polusi, hilangnya populasi, dan organisasi lokal. Jika kehidupan penduduk hanya dijadikan materi pariwisata, penghuninya pun akan kembali menjadi objek yang dilihat. Pengalaman pelestarian Bioskop Shenping menunjukkan bahwa wawancara tokoh lokal, pameran, artefak, dan pandangan wisatawan dapat hidup bersama, tetapi dengan syarat konten pameran harus menjelaskan sumbernya, dan juga melibatkan penduduk setempat dalam penggunaan ruang.[^5] [^11]
+Jika pelestarian Jiufen hanya merestorasi pemandangan paling fotogenik, akan kehilangan tata kelola tambang, buruh, pencemaran, aliran keluar penduduk, dan organisasi lokal. Jika hanya menjadikan kehidupan warga bahan pariwisata, juga akan menjadikan penghuni jadi objek yang ditonton lagi. Pengalaman pelestarian Bioskop Shengping menunjukkan, wawancara tokoh lokal, pertunjukan, benda pusaka, dan pandangan wisatawan bisa koeksistensi, tapi prasyaratnya isi pameran harus menjelaskan sumber, dan warga lokal ikut menentukan ruang怎么用。[^5] [^11]
 
 ## Bacaan Lanjutan
 
-- [Pulau Museum Kementerian Kebudayaan: Berjalan di Koridor Waktu—Eksperimen Permainan Ruang Bioskop Shenping Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade)
-- [Situs Informasi Pariwisata Taiwan Administrasi Transportasi: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290)
-- [Perpustakaan Airiti: Penelitian Lingkungan Wisata Kuliner, Industri, dan Budaya—Jiufen](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44)
+- [Pulau Museum Kementerian Kebudayaan: Berjalan Koridor Waktu — Eksperimen Ruang Bioskop Shengping Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade)
+- [Jaringan Informasi Pariwisata Taiwan Biro Pariwisata Kementerian Perhubungan: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290)
+- [Airiti Library: Budaya, Industri, Pariwisata — Penelitian Lingkungan Pariwisata Kuliner Jiufen](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44)
 - [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg)
 
 ## Referensi
 
-[^1]: [Biro Administrasi Arsip Komisi Pembangunan Nasional: Memori Tambang: Menjelajahi Kemakmuran Sejarah Jinguashi Seratus Tahun](https://www.archives.gov.tw/tw/arctw/69-1742.html) — Kolom arsip resmi tahun 2023, menggunakan catatan negara Taikin untuk menjelaskan kota pertambangan, populasi pekerja, transisi industri, dan penutupan pada tahun 1987.
+[^1]: [Arsip Nasional Komisi Pembangunan Nasional: Kenangan Tambang: Menjelajahi Sejarah Seratus Tahun Keagungan Jinguashi](https://www.archives.gov.tw/tw/arctw/69-1742.html) — Kolom arsip resmi 2023, menggunakan arsip nasional Perusahaan Emas Taiwan menjelaskan kota tambang, populasi buruh, pertolongan industri, dan bubarnya 1987.
 
-[^2]: [Arsip Digital Universitas Nasional Taiwan: Sejarah Penambangan Emas Jinguashi Jiufen](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — Halaman geologi dan arsip digital Taiwan, menyusun penemuan emas pasir pada tahun 1890, perubahan hak tambang, sistem kontrak, dan penghentian penambangan Jiufen pada tahun 1971.
+[^2]: [Arsip Digital Universitas Nasional Taiwan: Sejarah Penambangan Emas Jinguashi Jiufen](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — Halaman khusus geologi dan arsip digital UI, merangkai penemuan pasir emas 1890, perubahan hak tambang, sistem kontrak, dan berhenti tambang Jiufen 1971.
 
-[^3]: [Museum Emas Kota Baru Taipei: The Glory Age of Mining Industry in Jinguashi & Jiufen](https://www.gep-en.ntpc.gov.tw/xmdoc/cont?xsmsid=0G274570933667825954&sid=0G279429303854474724) — Artikel pameran resmi, menjelaskan dalam bahasa Inggris perluasan pertambangan dari 1896 hingga 1945, perbedaan Jinjiu, dan nilai budaya situs warisan tambang.
+[^3]: [Museum Emas Kota New Taipei: The Glory Age of Mining Industry in Jinguashi & Jiufen](https://www.gep-en.ntpc.gov.tw/xmdoc/cont?xsmsid=0G274570933667825954&sid=0G279429303854474724) — Artikel pameran resmi, bahasa Inggris menjelaskan ekspansi penambangan 1896–1945, perbedaan Jiu-Jin, dan nilai budaya warisan tambang.
 
-[^4]: [Pulau Museum Kementerian Kebudayaan: Museum Emas Kota Baru Taipei](https://museums.moc.gov.tw/MusData/Detail?museumsId=8277f1e1-a8b9-4585-a4c5-93416206dbac) — Halaman data museum Kementerian Kebudayaan, mencatat pembukaan pada tahun 2004, area inti seluas 4,5 hektar, restorasi tujuh jenis situs, dan konsep museum ekologi.
+[^4]: [Pulau Museum Kementerian Kebudayaan: Museum Emas Kota New Taipei](https://museums.moc.gov.tw/MusData/Detail?museumsId=8277f1e1-a8b9-4585-a4c5-93416206dbac) — Halaman data museum Kementerian Kebudayaan, mencatat buka 2004, inti 4,5 hektar, restorasi tujuh jenis situs, dan konsep museum ekologi.
 
-[^5]: [Rekonstruksi Lokasi Sejarah Kementerian Kebudayaan: Dari Lanskap ke Visi—Pewarisan dan Revitalisasi Warisan Pertambangan Jinjiu Kota Baru Taipei](https://rhs.boch.gov.tw/rhs/plan.aspx?p=12) — Halaman rencana pelestarian resmi, secara langsung menjelaskan polusi pertambangan Shui-Jin-Jiu, perbedaan pemanfaatan lahan, partisipasi komunitas, dan arah revitalisasi pelestarian.
+[^5]: [Menciptakan Kembali Situs Sejarah Kementerian Kebudayaan: Dari Lanskap ke Visi — Pewarisan dan Revitalisasi Warisan Tambang Emas Tembaga New Taipei](https://rhs.boch.gov.tw/rhs/plan.aspx?p=12) — Halaman rencana pelestarian resmi, langsung menyebut pencemaran tambang Shuijinjiu, perselisihan pengembangan tanah, partisipasi komunitas, dan arah pelestarian revitalisasi.
 
-[^6]: [City Studies: 〈Seberapa Hebat _A City of Sadness_? Mengubah Nasib Kota Kecil Jiufen yang Merosot〉](https://city.gvm.com.tw/article/99673) — Liputan budaya kota tahun 2023, menyusun verifikasi tentang rilis film, transformasi pariwisata Jiufen, lokasi syuting aktual, dan mitos pengambilan gambar _Spirited Away_.
+[^6]: [《Urban Studies》: 〈_Kota Kelam_ Dulu Seberapa Hebat? Mengubah Nasib Kota Kecil "Mundur" Jiufen〉](https://city.gvm.com.tw/article/99673) — Liputan budaya kota 2023, merangkai tayang film, transformasi pariwisata Jiufen, lokasi syuting aktual, dan verifikasi gosip lokasi syuting _Spirited Away_.
 
-[^7]: [Majalah Taiwan Guanghua: 〈Wu Menggambarkan Jinjiu Shui dengan Keajaiban〉](https://www.taiwan-panorama.com/Articles/Details?Guid=605f1010-7325-42de-9b72-525af2307b4f&CatId=7&postname=%E5%90%B3%E5%B0%8E%E5%B8%B6%E8%B7%AF%EF%BC%8C%E9%A9%9A%E8%B1%94%E6%B0%B4%E9%87%91%E4%B9%9D) — Artikel majalah Guanghua tahun 2011 dari Kementerian Luar Negeri, berisi wawancara Wu Nianzhen, sejarah Bioskop Shenping, memori keluarga penambang, dan kutipan asli tentang komersialisasi Jiufen.
+[^7]: [《Majalah Taiwan Panorama》: 〈Wu Nien-jen Bawa Jalan, Terpesona Shuijinjiu〉](https://www.taiwan-panorama.com/Articles/Details?Guid=605f1010-7325-42de-9b72-525af2307b4f&CatId=7&postname=%E5%90%B3%E5%B0%8E%E5%B8%B6%E8%B7%AF%EF%BC%8C%E9%A9%9A%E8%B1%94%E6%B0%B4%E9%87%91%E4%B9%9D) — Artikel Koran Pantau Luar Negeri 2011, berisi wawancara Wu Nien-jen,沿革 Bioskop Shengping, kenangan keluarga penambang, dan ujaran asli soal komersialisasi Jiufen.
 
-[^8]: [Lin, Wang and Nyaupane, “The intersection of landscape values for tourists and residents in a mining heritage destination: a case study of Jiufen in Taiwan”](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2289425) — Abstrak penelitian tahun 2024 dari _International Journal of Heritage Studies_, mewawancarai 18 penduduk dan 16 wisatawan, menganalisis konflik memori, identitas, rasa memiliki, dan pariwisata massa.
+[^8]: [Lin, Wang and Nyaupane, "The intersection of landscape values for tourists and residents in a mining heritage destination: a case study of Jiufen in Taiwan"](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2289425) — Abstrak penelitian 2024 _International Journal of Heritage Studies_, wawancara 18 warga dan 16 wisatawan, menganalisis konflik kenangan, identitas, rasa milik, dan pariwisata massal.
 
-[^9]: [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) — Halaman gambar CC BY-SA 4.0, penulis Another Believer, menyediakan informasi penulis dan lisensi untuk gambar jarak jauh pertama dalam artikel.
+[^9]: [Wikimedia Commons: A-Mei Tea House, Jiufen, 2024](https://commons.wikimedia.org/wiki/File:A-Mei_Tea_House,_Jiufen,_2024.jpg) — Halaman gambar CC BY-SA 4.0, penulis Another Believer, menyediakan informasi penulis dan lisensi gambar jarak jauh pertama artikel.
 
-[^10]: [Situs Informasi Pariwisata Taiwan Administrasi Transportasi: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290) — Halaman sejarah situs resmi, mencatat pengolahan kamper dan otak, asal nama tempat, penemuan urat emas sekitar tahun 1890, konsentrasi populasi penambang, dan narasi pariwisata yang didorong oleh film.
+[^10]: [Jaringan Informasi Pariwisata Taiwan Biro Pariwisata Kementerian Perhubungan: Jiufen](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=290) — Halaman asal-usul objek wisata resmi, mencatat penambangan kamfer, asal nama, sekitar 1890 temukan urat emas, berkumpulnya populasi penambang, dan narasi lokal film mendorong pariwisata.
 
-[^11]: [Pulau Museum Kementerian Kebudayaan: Berjalan di Koridor Waktu—Eksperimen Permainan Ruang Bioskop Shenping Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade) — Artikel resmi tahun 2021, mencatat penyelesaian Shenping Theater pada tahun 1931, 543 kursi, alasan penutupan, titik balik pelestarian 2009–2010, dan pertunjukan partisipatif lokal.
+[^11]: [Pulau Museum Kementerian Kebudayaan: Berjalan Koridor Waktu — Eksperimen Ruang Bioskop Shengping Jiufen](https://museums.moc.gov.tw/Notice/ColumnDetail/d2be4bd1-f91a-4581-b2f9-9d9764815ade) — Artikel khusus resmi 2021, mencatat Shengping-za selesai 1931, 543 kursi, alasan tutup, pertolongan pelestarian 2009–2010, dan pameran partisipatif lokal.
 
-[^12]: [Han Xiuli: 〈Budaya, Industri, Pariwisata—Penelitian Lingkungan Wisata Kuliner Jiufen〉](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44) — Abstrak tesis tahun 2012 dari _Island Tourism Studies_, menggunakan wawancara mendalam dan studi literatur untuk menganalisis budaya kuliner Jiufen, rumah teh, organisasi kawasan bisnis, dan identitas lokal.
+[^12]: [Han Xiu-li: 〈Budaya, Industri, Pariwisata — Penelitian Lingkungan Pariwisata Kuliner Jiufen〉](https://www.airitilibrary.com/Article/Detail/20725388-201212-201301150011-201301150011-24-44) — Abstrak tesis 2012 _Jurnal Pariwisata Kepulauan_, menggunakan wawancara mendalam dan kajian pustaka menganalisis budaya kuliner Jiufen, rumah teh, organisasi komersial, dan identitas lokal.
 
-[^13]: [Wikimedia Commons: Jiufen, November 27, 2024 - 181](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) — Halaman file gambar CC BY-SA 4.0, penulis Another Believer, menyediakan pemandangan malam kota tua dan informasi lisensi untuk gambar jarak jauh kedua dalam artikel.
+[^13]: [Wikimedia Commons: Jiufen, November 27, 2024 - 181](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_181.jpg) — Halaman berkas Quality Image CC BY-SA 4.0, penulis Another Believer, menyediakan pemandangan malam Jalan Tua dan info lisensi gambar jarak jauh kedua artikel.
 
-[^14]: [Wikimedia Commons: Jiufen, November 27, 2024 - 197](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) — Halaman file gambar CC BY-SA 4.0, penulis Another Believer, mencatat penampilan kontemporer kota tua dan gang lereng Jiufen.
+[^14]: [Wikimedia Commons: Jiufen, November 27, 2024 - 197](https://commons.wikimedia.org/wiki/File:Jiufen,_November_27,_2024_-_197.jpg) — Halaman berkas Quality Image CC BY-SA 4.0, penulis Another Believer, mencatat penampakan Jalan Tua dan lereng gang Jiufen masa kini.
 
-[^15]: [Wikimedia Commons: Jiufen Qingyun Temple, Taiwan, 2024](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) — Halaman file gambar CC BY-SA 4.0, penulis Another Believer, mencatat citra bangunan Qingyun Temple di Jiufen saat ini.
+[^15]: [Wikimedia Commons: Jiufen Qingyun Temple, Taiwan, 2024](https://commons.wikimedia.org/wiki/File:Jiufen_Qingyun_Temple,_Taiwan,_2024.jpg) — Halaman berkas Quality Image CC BY-SA 4.0, penulis Another Believer, mencatat gambar bangunan Kuil Qingyun Jiufen hari ini.

@@ -1,0 +1,37 @@
+你是定稿手（closing editor）。任務：對這篇已完成事實查證的文章做一次完整的語感重順。工作目錄 /Users/cheyuwu/Projects/taiwan-md/.worktrees/20260918-20260918-oil-price（絕對路徑）。
+只讀：/Users/cheyuwu/Projects/taiwan-md/.worktrees/20260918-20260918-oil-price/knowledge/Economy/台灣油價機制與中油.md 成品全文＋下方 prose-flow 逐節表＋閱讀節奏席 findings。
+不讀藍圖、研究報告、編輯歷程——你的價值就是沒有那些 context。
+動的：段落牆（>280 字拆；單節 ≥200 字段落佔比 >35% 的節重排呼吸）、饒口句、framing 詞硬接（「值得一提的是」類）、縫線疤（外科手術疊輪留下的生硬轉折）、機械自述。
+不動的（一個字都不准）：「」內引語、所有數字與單位、人名地名專名、[^n] 標記與腳註定義、[[wikilink]]、URL、H2 標題、frontmatter、markdown 表格與 tw-* 視覺模組（含 ``` 圍欄內每一行）、論點與段落的事實內容、圖片行與圖說。
+想動結構或事實＝寫進回報，不自己動。
+寫到 staging 檔 /Users/cheyuwu/Projects/taiwan-md/.worktrees/20260918-20260918-oil-price/reports/article-evolve/台灣油價機制與中油-closing.md（不覆蓋 canonical；用 Write 寫全文）。
+回報：staging 路徑＋動過哪些節的一句話清單＋你想動但沒動的事項。
+你的產出會過 fact-atom-diff.py 原子守恆硬閘，任何原子漂移整份退回。
+
+## prose-flow 逐節表
+📖 prose-flow  knowledge/Economy/台灣油價機制與中油.md
+   節                          prose    最長 median    長段(≥200)  viz  media
+   週日晚上八點半，雲林的加油站多了一排三角錐          3   166    138      0/3=0%    0      0
+   一份新聞稿裡的算式：115.61 美元怎麼變成…       5   223    171     1/5=20%    1      0
+   凍漲二十週、調降三週：中油帳上那條吸收線           3   151    132      0/3=0%    3      1
+   2008 年一次漲足之後，公式每改一次都在處理…       5   175    151      0/5=0%    1      1
+   先墊的人：負債比 93%、借款七千億的中油          7   138     73      0/7=0%    3      0
+   六千億裡，一千億補貼和兩千億增資是兩筆錢           7   219    119     1/7=14%    2      0
+   日本補業者、香港補的士、台灣讓中油先扛            6   208    146     1/6=17%    1      0
+   那 36 元，會分三種方式寄回來               5   148     67      0/5=0%    1      0
+
+   ── 全篇 summary ──
+
+## 閱讀節奏席 findings（已施工過一輪，供你判斷殘留的縫線疤）
+### 總編探針 閱讀節奏
+
+- verdict: revise
+- findings:
+  - s2 與 s4 timeline 時序矛盾（2006 即 7D3B？）——verifier A 同時抓到
+  - s5 第 5 段四個聲音擠一段；s6 五位立委擠一段
+  - 收尾格言句連用七次
+  - s7 末／s8 首「沒有數字」講兩次
+  - s8 viz=0 但有 28.9→45.4 對照可做圖
+  - 段首短句開場三次（s1／s3／s5）
+- evidence: 各段原句
+

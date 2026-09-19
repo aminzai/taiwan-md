@@ -55,12 +55,18 @@ LANG_NAMES = {
     "fr": "French (Français neutral)",
 }
 
+# 2026-09-09 現查＋實呼：`openrouter/owl-alpha` 回「No endpoints found」、
+# `tencent/hy3-preview:free` 回「no longer available as a free model」。兩層都換成
+# 還在架的免費 slug；hy3 那格原本的用途是主權對照組（PRC 模型的拒答指紋，見
+# CLAUDE.md §Sovereignty preservation），免費層沒了就不該靜靜降級成別的模型冒充它，
+# 所以直接標成不可用，要測主權拒答率走顯式付費 slug。
 TIER_MODELS = {
     # 2026-09-18：owl-alpha 早在 06-10 轉付費、hy3 05-12 退役，這兩個 tier 名字留作
-    # 相容，實際雲端模型改由環境變數指定（對齊文章產線的入池白名單，如
-    # nvidia/nemotron-3-ultra-550b-a55b:free）。不設就沿用舊值，讓舊指令行為不變。
-    "owl": os.environ.get("OPENROUTER_MODEL", "openrouter/owl-alpha"),
-    "hy3": os.environ.get("OPENROUTER_MODEL_SECONDARY", "tencent/hy3-preview:free"),
+    # 相容，實際雲端模型改由環境變數指定（對齊文章產線的入池白名單）。不設就用
+    # origin 09-19 的預設：owl → nemotron super；hy3 → None（免費層已下架，主權對照
+    # 要跑改用 `tencent/hy3-preview` 付費，或設 OPENROUTER_MODEL_SECONDARY）。
+    "owl": os.environ.get("OPENROUTER_MODEL", "nvidia/nemotron-3-super-120b-a12b:free"),
+    "hy3": os.environ.get("OPENROUTER_MODEL_SECONDARY") or None,
     "ollama": os.environ.get("OLLAMA_MODEL", "qwen3.6:35b-a3b-coding-nvfp4"),
 }
 
@@ -343,6 +349,9 @@ def translate_one(diary_filename: str, lang: str, tier: str, max_attempts: int =
 
     system, user = build_prompt(lang, source)
     model = TIER_MODELS[tier]
+    if model is None:
+        # 讓失敗當場說清楚，而不是把 None 送進 payload 換一個看不懂的 400
+        return {"ok": False, "reason": f"tier '{tier}' 的模型已下架，見 TIER_MODELS 註解"}
 
     last_reason = "no attempt"
     for attempt in range(max_attempts):
@@ -400,7 +409,7 @@ def aggregate_status(langs: list[str]) -> dict:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tier", choices=["owl", "hy3", "ollama"], help="Single-tier dispatch")
+    ap.add_argument("--tier", choices=["owl", "ollama"], help="Single-tier dispatch")  # hy3 免費層已下架
     ap.add_argument("--lang", help="Target lang (with --tier --diary)")
     ap.add_argument("--diary", help="Single diary filename")
     ap.add_argument("--batch", action="store_true", help="Batch mode")

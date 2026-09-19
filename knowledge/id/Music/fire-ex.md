@@ -1,20 +1,20 @@
 ---
-title: 'Pemadam Api—Nama yang Ditemukan di Dekat Kolam Renang, Dibawakan Selama Dua Puluh Lima Tahun'
-description: 'Pada tahun 2000, tiga mahasiswa SMA di Kaohsiung menemukan pemadam api dan menjadikannya nama band. Setelah dua puluh lima tahun, mereka menyuarakan suara era Gerakan Bunga Matahari melalui musik punk berbahasa Taiwan, membawa label rekaman kembali ke Selatan, dan mengatakan selama tujuh menit di panggung Festival Dagu (Daigou): Kecewa boleh, tapi jangan menjadi tipe orang yang kamu benci.'
+title: 'Fire EX.——Nama yang Ditemukan di Sisi Kolam Renang, Dinanyikan Selama Dua Puluh Lima Tahun'
+description: 'Pada 2000, tiga pelajar SMA Kaohsiung menemukan alat pemadam api di sisi kolam renang dan menjadikannya nama grup. Dua puluh lima tahun kemudian, mereka menyanyikan punk berbahasa Taiwan yang menjadi suara era Gerakan Bunga Matahari, memindahkan label rekaman mereka kembali ke selatan, dan di panggung Da Gang Festival menghabiskan tujuh menit memberitahu penonton: kekecewaan boleh, tapi jangan jadi orang yang kamu benci.'
 date: 2026-04-14
 category: 'Music'
 tags:
   [
-    'Rock',
-    'Punk',
+    'rock',
+    'punk',
     'Kaohsiung',
-    'Island Light (Dao Yu Tian Guang)',
+    'Pulau Cahaya',
     'Gerakan Bunga Matahari',
-    'Musik Berbahasa Taiwan',
-    'Fire Energy Music (Huo Qi Yin Yue)',
-    'Yang Da-cheng',
-    'Festival Bola Api (Huoqiu Jie)',
-    'Festival Dagu',
+    'musik berbahasa Taiwan',
+    'Fire On Music',
+    'Yang Zheng-fan',
+    'Fireball Festival',
+    'Da Gang Festival',
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
@@ -26,152 +26,152 @@ translatedFrom: 'Music/滅火器樂團.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ff50a058e16cd318'
 sourceBodyHash: 'sha256:4b22b6f4b3e09c1b'
-translatedAt: '2026-09-15T19:45:29+08:00'
+translatedAt: '2026-09-13T05:56:48+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Pada tahun 2000, tiga siswa berusia enam belas tahun dari keluarga terpandang di Kaohsiung melihat pemadam api merah di dekat kolam renang dan memutuskan menjadikannya nama band. Dua puluh lima tahun kemudian, Pemadam Api (Mieh Huo Qi), band punk berbahasa Taiwan paling penting di Taiwan: 〈Island Light〉 menjadi suara era Gerakan Bunga Matahari, memenangkan lagu terbaik dalam Anugerah Musik; vokalis Yang Da-cheng meraih penghargaan aktor pendukung pria terbaik di Anugerah Golden Bell lintas genre, menjadikannya penyanyi rock pertama dalam sejarah Taiwan yang menerima "Tiga Emas" (Jin). Fire Energy Music (Huo Qi Yin Yue) yang mereka dirikan memindahkan markasnya kembali ke Kaohsiung, dan Festival Bola Api telah mencapai edisi keenam. Pada Festival Dagu tahun 2024, ketika seluruh Taiwan mengincar tiga artis "pro-Tiongkok" dalam upaya mencari kambing hitam, Yang Da-cheng berbicara kepada sepuluh ribu penonton selama tujuh menit: Habiskan energimu untuk mendukung orang-orang yang masih berusaha.
+> **Ringkasan 30 Detik:** Tahun 2000, tiga pelajar berusia enam belas tahun dari SMK Sanmin Kaohsiung melihat alat pemadam api merah di sisi kolam renang, memutuskan menjadikannya nama grup. Dua puluh lima tahun kemudian, Fire EX. adalah grup punk berbahasa Taiwan paling penting Taiwan: 〈Pulau Cahaya〉 menjadi suara era Gerakan Bunga Matahari, memenangkan Penghargaan Lagu Terbaik Tahun Golden Melody; vokalis Yang Zheng-fan meraih Penghargaan Pemeran Pendukung Terbaik Golden Bell, menjadi vokalis rock pertama dalam sejarah Taiwan yang meraih "tiga emas"; label Fire On Music yang mereka dirikan memindahkan basis ke Kaohsiung, Fireball Festival sudah gelar keenam. 2024, di Da Gang Festival, saat seluruh Taiwan melancarkan buru-buru terhadap tiga artis "pro-Tiongkok", Yang Zheng-fan memakai tujuh menit memberitahu sepuluh ribu penonton: curahkan energi untuk mendukung orang yang masih berjuang.
 
-## Benda di Dekat Kolam Renang
+## Di Sisi Kolam Renang Itu
 
-Pada musim panas tahun 2000, di kelas gabungan pertama SMA Sanmin (Kaohsiung), Yang Jia-jun (yang kemudian dikenal di seluruh Taiwan sebagai Yang Da-cheng) awalnya bergabung dengan klub Karaoke. Temannya, Cheng Yu-chen, mengajaknya menonton pertunjukan paduan suara klasik; ia berdiri di bawah panggung dan memutuskan untuk naik ke atas panggung juga [^1].
+Musi 2000, kelas pertama Program Komprehensif SMK Sanmin Kaohsiung. Yang Chia-chun (kemudian dikenal seluruh Taiwan sebagai Yang Zheng-fan), enam belas tahun, awalnya bergabung dengan klub karaoke. Teman sekelas Cheng Yu-chen mengajaknya menonton pertunjukan klub musik modern, dia berdiri di penonton menonton satu pertunjukan, memutuskan dia juga ingin naik panggung [^1].
 
-Mereka membutuhkan nama band. Setelah berpikir lama tanpa menemukan apa pun, mereka melihat pemadam api merah tergantung di dinding saat melewati kolam renang sekolah. "Ini saja," [^1]
+Mereka butuh nama grup. Dipikir lama tidak keluar, lewat kolam renang sekolah melihat dinding menggantung alat pemadam api merah. "Ini saja." [^1]
 
-Susunan awal termasuk Yang Da-cheng (vokal), Chou Qun-kai (gitar), dan Lin Rong-yan (drum), sebuah band mahasiswa yang lahir untuk kegiatan kampus. Pada Oktober 2004, Cheng Yu-chen secara resmi mengambil posisi gitaris, ditambah bassis Chen Jing-yuan, dan inti dari ketiganya stabil selama dua puluh tahun [^2]. Satu-satunya anggota yang sering berganti adalah drummer—tujuh orang telah menggantikannya dalam dua puluh lima tahun; anggota terbaru Ko Chi-shun (nama panggung Ko Guang) bergabung pada Oktober 2019, diejek oleh anggota band sebagai "netizen pertama": dia sebelumnya mengutuk pemadam api di internet, dan kemudian ia sendiri duduk di kursi drum [^2].
+Susunan awal mencakup Yang Zheng-fan (vokal), Chou Chun-kai (gitar) dan Lin Jung-yen (drum), grup pelajar yang lahir untuk kegiatan kampus. Oktober 2004, Cheng Yu-chen resmi mengambil posisi gitaris, ditambah bassist Chen Ching-yuan, inti tiga orang stabil dua puluh tahun [^2]. Satu-satunya yang terus berganti adalah drum—dua puluh lima tahun total berganti tujuh orang, terbaru Ke Chih-hsun (nama panggung Ke Kuang) Oktober 2019 bergabung, disebut lawakan anggota sebagai "penghuni keyboard pertama": dulu dia di internet mencaci Fire EX., kemudian sendiri duduk di kursi drum [^2].
 
-📝 **Catatan Kurator:** Nama yang diambil secara acak dari dekat kolam renang berubah menjadi simbol budaya Taiwan setelah dua puluh lima tahun. Beberapa hal memang ditemukan—tidak perlu dirancang, tetapi tumbuh menjadi simbol.
+📝 **Catatan Kurator:** Sebuah nama yang ditemukan sembarangan di sisi kolam renang, dua puluh lima tahun kemudian jadi simbol budaya Taiwan. Ada hal yang memang ditemukan—tidak perlu dirancang, tumbuh jadi simbol.
 
-## Punk Berbahasa Taiwan dari Anak Luar Pulau (Wai Sheng Jian Zi)
+## Anak Peranakan Main Punk Berbahasa Taiwan
 
-Yang Da-cheng lahir pada 24 Agustus 1984 di Kaohsiung, berasal dari keluarga luar pulau dengan garis keturunan Hakka dari pihak ayah [^3]. Keluarga berbicara bahasa Mandarin, bukan karena sengaja menolak bahasa Taiwan, tetapi karena tidak ada ranah penggunaannya. Ia dibesarkan mendengarkan Deng Li-zhen dan Bai Guang [^3].
+Yang Zheng-fan lahir 24 Agustus 1984 di Kaohsiung, keluarga peranakan, garis ayah berdarah Hakka [^3]. Rumah bicara Bahasa Nasional, bukan sengaja menolak bahasa Taiwan, cuma tidak ada domain penggunaannya. Dia besar mendengarkan Deng Li-chun dan Bai Guang [^3].
 
-Bahasa Taiwan ditemukan belakangan. Setelah mulai mempelajarinya di sekolah dasar dan menengah pertama, yang benar-benar menyalakan semangatnya untuk musik berbahasa Taiwan adalah Wu Bai [^3]. "Wu Bai membuat saya merasa bahwa bahasa Taiwan bisa keren dan kuat, bukan hanya kesedihan dalam Karaoke." Dia menuangkan dorongan ini ke dalam punk—menyanyikan bahasa Taiwan dengan kecepatan tercepat dan suara paling kasar, menjadikannya sebuah sikap.
+Bahasa Taiwan adalah hal yang nanti "ditemukan kembali". SD SMP mulai kontak, yang benar-benar menyalakan semangatnya untuk musik berbahasa Taiwan adalah Wu Bai [^3]. "Wu Bai bikin aku rasa, bahasa Taiwan bisa keren, berdaya, bukan cuma rasa sedih di karaoke." Dia menyalurkan semangat itu ke punk—dengan kecepatan paling cepat, suara paling kasar, menyanyikan bahasa Taiwan jadi satu sikap.
 
-Pada Juli 2007, album debut 《Let's Go!》 dirilis [^4]. Pada tahun 2009, 〈Goodnight Taiwan〉 dari 《The Sea People》 menjadi viral di internet—sebuah lagu selamat malam yang dinyanyikan dalam bahasa Taiwan, tetapi menyuarakan kegelisahan seluruh pulau [^5]. Ketiga anak Kaohsiung ini mulai menarik perhatian seluruh Taiwan.
+Juli 2007, album pertama 《Let's Go!》 dirilis [^4]. 2009 《Orang di Atas Laut》 isinya 〈Selamat Malam Taiwan〉 meledak di internet—sebuah lagu selamat malam berbahasa Taiwan, tapi menyanyikan kegelisahan seluruh pulau [^5]. Tiga anak kecil Kaohsiung mulai diperhatikan seluruh Taiwan.
 
-## 2014: Lagu di Legislatif
+## 2014: Lagu di Dalam Yuan Fa Yuan
 
-Pada tanggal 18 Maret 2014, mahasiswa menduduki gedung legislatif untuk memprotes 《Perjanjian Perdagangan Layanan Lintas Selat (Liang'an Fuwu Mao Yi Xie)》. 〈Goodnight Taiwan〉 sudah diputar oleh para pengunjuk rasa di dalam sidang [^6]. Lima hari kemudian, sebuah pesan Facebook sampai ke ponsel Yang Da-cheng: mahasiswa dari Universitas Seni Utara memiliki kemampuan produksi video dan menginginkan lagu tema [^6].
+18 Maret 2014, mahasiswa menduduki Yuan Fa Yuan memprotes 《Perjanjian Perdagangan Jasa Lintas Selat》. 〈Selamat Malam Taiwan〉 sudah diputar di dalam ruang rapat oleh pendemo [^6]. Lima hari kemudian, satu pesan Facebook sampai ke HP Yang Zheng-fan: mahasiswa Taipei National University of the Arts di dalam ruang rapat, mereka punya kemampuan produksi video, mau minta lagu tema [^6].
 
-Yang Da-cheng pergi ke gedung legislatif dengan gitar. Ia bertemu Lin Fei-fan, berdiri di tengah para pendudukan merasakan suasana yang "tegang namun penuh harapan" [^7]. Dua hari untuk menulis, satu hari untuk merekam. Judul lagunya adalah 〈Island Light〉[^6].
+Yang Zheng-fan bawa gitar ke Yuan Fa Yuan. Dia bertemu Lin Fei-fan, berdiri di tengah penduduki merasakan suasana "kencang tapi penuh harapan" [^7]. Dua hari nulis, satu hari rekam. Judul lagu 〈Pulau Cahaya〉 [^6].
 
-> "Ketika langit mulai bersinar, kita akan menyanyikan lagu ini dengan lantang."
+> "Langit perlahan terang, mari kita nyanyikan lagu ini dengan keras."
 
-Pada tanggal 27 Maret, band itu mengajar di gedung legislatif dan area protes sekitarnya. Mereka memasang peralatan rekaman dan menangkap suara paduan suara para pengunjuk rasa. Video kolaborasi tersebut mencapai lebih dari lima puluh ribu penonton dalam satu hari [^6]. Pada tanggal 30 Maret, pawai besar di Jalan Kaitadeglan (Kaida Grand Avenue) menarik sekitar setengah juta orang untuk bernyanyi bersama. Pada tanggal 5 April, tontonan YouTube melebihi satu juta [^6].
+27 Maret, grup masuk ruang rapat dan area demo sekitarnya mengajar lagu. Mereka pasang alat rekam, menangkap suara penduduki bernyanyi bersama. Video koran sehari tembus lima puluh ribu tontonan [^6]. 30 Maret, parade 330 di Ketagalan Boulevard, diperkirakan lima ratus ribu orang di lokasi nyanyi bersama. 5 April, YouTube tembus satu juta [^6].
 
-Pada tanggal 30 Desember, Sony Music Taiwan merilis lagu komersial secara resmi. Tahun berikutnya, ia memenangkan lagu terbaik dalam Anugerah Musik Terbaik Tahunan ke-26 [^8]. Pada hari penghargaan, siaran dari Tencent di Tiongkok terputus saat pengumuman penghargaan ini. Departemen propaganda Tiongkok memerintahkan media domestik untuk menghapus semua laporan terkait. Lagu ini secara resmi diblokir di Tiongkok [^8].
+30 Desember, Sony Music Taiwan resmi rilis single komersial. Tahun berikutnya, Golden Melody ke-26 Lagu Terbaik Tahun [^8]. Hari penghargaan, siaran Tencent di Tiongkok pada penghargaan ini terputus. Departemen Propaganda Tiongkok memerintahkan media domestik hapus semua laporan terkait. Lagu ini resmi diblokir di Tiongkok [^8].
 
-Yang Da-cheng membuka hak cipta versi non-komersial secara gratis untuk semua pendukung gerakan [^6]. Sejak saat itu, setiap kali ada gerakan jalanan, demonstrasi, atau seseorang yang perlu menyanyikan lagu pada larut malam di Taiwan, 〈Island Light〉 akan muncul. Lagu ini disebut "Lagu Kebangsaan Tidak Resmi" Taiwan [^7]. Pada tahun 2025, seseorang mengkritik di Threads "mengapa masih bernyanyi setelah sebelas tahun," dan Yang Da-cheng langsung bertanya balik: "Mengapa saya harus menyanyikan itu sepuluh satu tahun kemudian?" [^9]
+Yang Zheng-fan membebaskan hak non-komersial gratis untuk semua pendukung gerakan [^6]. Sejak itu, selama Taiwan ada aksi jalanan, ada 집会, ada orang butuh nyanyi lagu di malam hari menopang diri, 〈Pulau Cahaya〉 pasti muncul. Lagu ini disebut "Lagu Kebangsaan Tidak Resmi Taiwan" [^7]. 2025, ada yang sindir di Threads "sudah sebelas tahun masih nyanyi", Yang Zheng-fan langsung balik tanya: "Aku lebih pengen tanya, kenapa sebelas tahun kemudian aku masih harus nyanyi?" [^9]
 
-## Yang Da-cheng: Vokalis Rock, Aktor, Pria yang Dua Kali Bercerai
+## Yang Zheng-fan: Vokalis Rock, Aktor, Pria yang Dua Kali Cerai
 
-Di atas panggung adalah vokalis punk; di bawah panggung, Yang Da-cheng menjalani drama serial.
+Di atas panggung vokalis punk, di bawah panggung Yang Zheng-fan hidup jadi satu drama serial.
 
-Pada tahun 2013, ia menikah dengan musisi independen [Cheng Yi-nong] (/music/台灣獨立音樂/). Pada Januari 2016, Cheng Yi-nong mengaku kepada publik bahwa dia adalah LGBTQ+. Yang Da-cheng hancur, tetapi memilih untuk mendukung. Setelah perceraian mereka, ia secara terbuka mengatakan: "Saya akan selalu membela hak Enno untuk menjadi dirinya sendiri." [^10] Setelah bercerai, mereka justru menjadi teman dan rekan kerja—Cheng Yi-nong menandatangani kontrak dengan Fire Energy Music (Huo Qi Yin Yue), dan album 《Pluto》 pada tahun 2017 dirilis di label yang didirikan mantan suaminya ini. Ada periode di mana Yang Da-cheng tinggal bersama istri keduanya, Shan Dong (Li Wen-hui), dan Cheng Yi-nong di apartemen seluas lima puluh ping untuk berbagi sewa, dan hal itu sering ditulis oleh media gosip [^10].
+2013 dia menikah dengan musisi independen [Cheng Yi-nung](/music/台灣獨立音樂/). Januari 2016, Cheng Yi-nung coming out ke dia, bilang dia LGBTQ+. Yang Zheng-fan hancur, tapi pilih mendukung. Setelah cerai, dia publik bilang: "Aku akan selalu mempertahankan hak Enno jadi diri sendiri." [^10] Pasca cerai mereka jadi teman baik sekaligus rekan kerja—Cheng Yi-nung masuk Fire On Music, album 2017 《Pluto》 dirilis di label mantan suami ini. Satu waktu, Yang Zheng-fan dan istri kedua Shandong (Li Wen-hui) serta Cheng Yi-nung tiga orang tinggal satu apartemen lima puluh ping berbagi sewa, jadi bahan gosip media [^10].
 
-Pada November 2016 ia menikah dengan Shan Dong, dan putri mereka lahir pada tahun 2017. Mereka bercerai pada tanggal 1 November 2024, diumumkan secara publik pada Februari 2025. Dua kali pernikahan, dua akhir yang damai [^10].
+November 2016 menikah dengan Shandong, 2017 anak perempuan lahir. 1 November 2024 cerai, Februari 2025 diumumkan. Dua kali menikah, dua kali damai berpisah [^10].
 
-Akting adalah lini lain. Ia tidak bermain-main. Pada Anugerah Golden Bell ke-58 tahun 2023, ia menerima penghargaan aktor pendukung pria terbaik untuk peran sopir sekolah yang bisu dalam 《I Am Willing》[^11]. Ditambah dengan Anugerah Musik (Island Light) dan Anugerah Suara (Penampilan Langsung Terbaik), Yang Da-cheng menjadi vokalis rock pertama dalam sejarah Taiwan yang meraih "Tiga Emas" [^11]. Pada tahun 2025, ia tampil di 《Zero Day Attack》—sebuah drama Taiwan fiksi tentang invasi militer Tiongkok ke Taiwan, dan menghadiri pemutaran perdana di Tokyo bersama aktor Jepang Issei Takahashi [^12].
+Akting jalur lain. Dia bukan main-main. 2023 Golden Bell ke-58, lewat 《Aku Bersedia》 peran sopir bus sekolah yang tidak bisa bicara meraih Pemeran Pendukung Terbaik [^11]. Ditambah Golden Melody (Pulau Cahaya) dan Golden Indie Music Awards (Pertunjukan Live Terbaik), Yang Zheng-fan jadi vokalis rock pertama sejarah Taiwan meraih "tiga emas" [^11]. 2025 main 《Serangan Zero-Day》—drama Taiwan bayangan Tiongkok invasi militer, bareng aktor Jepang Takayuki Ibuki hadiri premiere Tokyo [^12].
 
-## Fire Energy Music: Membangun Jalan Sendiri
+## Fire On Music: Bangun Jalan Sendiri
 
-Pada Agustus 2015, keempat anggota mengubah pengalaman operasi independen selama tujuh belas atau delapan belas tahun menjadi sebuah perusahaan: Fire Energy Music (Huo Qi Yin Yue) [^13]. Merilis rekaman sendiri hanyalah permulaan—mereka juga harus menandatangani artis, mengadakan acara, dan menyelenggarakan festival. Cheng Yi-nong adalah salah satu artis pertama yang direkrut.
+Agustus 2015, empat anggota mengubah pengalaman operasional independen tujuh belas-delapan tahun jadi satu perusahaan: Fire On Music [^13]. Rilis album sendiri cuma awal—masih harus kontrak artis, adain acara, bikin festival musik. Cheng Yi-nung salah satu artis paling awal masuk.
 
-Pada Agustus 2017, Festival Bola Api edisi pertama dibuka di Kaohsiung Exhibition Center. Mereka mengundang Sum 41 dan HYUKOH untuk berbagi panggung dengan band lokal [^14]. Konon edisi pertama mengalami kerugian, tetapi mereka terus melanjutkan. Empat tahun terhenti karena pandemi, Festival Bola Api bangkit kembali di Taman Bisbol Taoyuan pada tahun 2023. Hingga tahun 2026, acara ini telah mencapai edisi keenam, dan ELLEGARDEN (band punk legendaris Jepang) telah diundang tiga kali, tetapi selalu ditunda karena masalah kesehatan vokalis; akhirnya berhasil pada tahun 2025 [^14].
+Agustus 2017, Fireball Festival pertama buka di Kaohsiung Exhibition Center. Mereka undang Sum 41, HYUKOH, bareng grup lokal nongkrong satu venue [^14]. Kabarnya edisi pertama rugi, tapi mereka lanjut adain. Dihentikan pandemi empat tahun, 2023 Fireball Festival bangkit di Stadion Baseball Taoyuan. Hingga 2026 sudah dijadwalkan keenam, ELLEGARDEN (grup punk legendaris Jepang) tiga kali diundang, tiga kali tertunda karena kesehatan vokalis, kali ketiga akhirnya terlaksana 2025 [^14].
 
-Yang lebih ekstrem adalah pindah lokasi. Markas Fire Energy Music dipindahkan dari Taipei kembali ke Kaohsiung, menempati Pusat Musik Populer Kaohsiung [^15]. Yang Da-cheng mengajar di sana, mengajar musisi muda. Ini adalah tim yang membuktikan dirinya selama dua puluh tahun, secara sukarela memilih untuk kembali ke tempat mereka memulai, memberi tahu anak-anak Selatan: Anda tidak perlu pergi ke Utara (ke Taipei) untuk hidup.
+Lebih keras adalah pindah rumah. Basis Fire On Music dari Taipei pindah balik Kaohsiung, masuk Kaohsiung Popular Music Center [^15]. Yang Zheng-fan di sana buka kelas mengajar musisi muda. Ini tim yang dua puluh tahun membuktikan diri, proaktif pilih balik ke tempat asal, bilang ke anak-anak selatan: kamu tidak perlu pergi ke utara cari hidup.
 
-## Bisbol, Chen Jin-feng, dan Lagu untuk Sang Juara
+## Baseball, Chen Chin-feng, dan Lagu untuk Juara
 
-Pemadam Api benar-benar mencintai bisbol sejak hari pertama pembentukan band.
+Fire EX. benar-benar cinta baseball, dari hari pertama grup sudah begitu.
 
-Pada tahun 2016, legenda bisbol Taiwan, Chen Jin-feng, pensiun. Lamigo Taoyuan mendekati Pemadam Api dan meminta mereka menulis lagu penghormatan. 〈Crazy Once Chen 52〉 direkam dalam campuran di Jepang, dan MV yang dirilis melampaui empat ratus ribu penonton dan sepuluh ribu berbagi kurang dari dua belas jam [^16]. Festival Bola Api pindah ke Taman Bisbol Taoyuan pada tahun 2019—sebuah festival musik diadakan di stadion bisbol, dan hanya Pemadam Api yang menganggapnya normal.
+2016, legenda baseball Taiwan Chen Chin-feng pensiun. Lamigo Monkeys minta Fire EX. bikin lagu tribute. 〈Dulu Gila Chen 52〉 direkam mix di Jepang, MV online kurang dua belas jam tembus empat ratus ribu tontonan, sepuluh ribu share [^16]. Fireball Festival 2019 pindah ke Stadion Baseball Taoyuan—festival musik di stadion baseball, cuma Fire EX. yang rasa ini normal.
 
-Pada tahun 2025, mereka menulis 〈Today Me〉 untuk film dokumenter 《Road to Champion》, merekam kisah kemenangan Taiwan dalam Kejuaraan Bisbol 12 Tim pada tahun 2024. Yang Da-cheng menulis dari sudut pandang orang pertama, seolah berbicara mewakili para pemain di lapangan. Lagu ini dinyanyikan lagi oleh penggemar selama Piala Dunia Bisbol (WBC) pada tahun 2026 [^16].
+2025, mereka untuk dokumenter 《Jalan Juara》 bikin 〈Aku Hari Ini〉, mencatat kisah Taiwan juara Kejuaraan Baseball 12 Kuat 2024. Yang Zheng-fan tulis orang pertama, kayak ngomong nama pemain di lapangan. Lagu ini masa WBC 2026 lagi dinyanyikan penggemar [^16].
 
-## Internasional: Dari SXSW hingga FUJI ROCK
+## Internasional: Dari SXSW ke FUJI ROCK
 
-Pemadam Api adalah salah satu band punk Taiwan yang paling jauh menjelajah ke luar negeri.
+Fire EX. salah satu grup punk Taiwan yang paling jauh keluar.
 
-Mereka pertama kali mengunjungi SXSW (Austin, AS) pada tahun 2012, dan menjadi band Taiwan pertama yang tampil di Punkspring Jepang pada tahun 2017 [^17]. Pada musim panas tahun itu mereka tampil di Summer Stage Central Park New York, sebagai bagian dari inisiatif "Taiwanese Waves". Selama satu tahun 2017, mereka melakukan tur dunia selama dua puluh lima kota dan tiga puluh lima pertunjukan [^17]. Mereka tampil di FUJI ROCK FESTIVAL pada tahun 2022 [^17].
+2012 pertama kali naik SXSW (Austin, AS), 2017 jadi grup Taiwan pertama naik Punkspring Jepang [^17]. Musim panas tahun itu main di Central Park Summer Stage New York, bagian dari proyek "Taiwanese Waves". 2017 setahun lari dua puluh lima kota, tiga puluh lima pertunjukan world tour [^17]. 2022 naik FUJI ROCK FESTIVAL [^17].
 
-Jepang adalah rumah kedua mereka. Mereka memiliki akun Twitter khusus (@fireexjapan), album versi Jepang, dan rute tur tetap. Persahabatan dengan ELLEGARDEN sangat erat: sebuah band punk legendaris Jepang bersedia diundang tiga kali oleh band Taiwan, itu sendiri adalah semacam pengakuan [^14].
+Jepang adalah rumah kedua. Punya akun Twitter khusus (@fireexjapan), album versi Jepang, rute tour tetap. Persahabatan dengan ELLEGARDEN dalam banget: grup punk legendaris Jepang mau diundang tiga kali grup Taiwan, itu sendiri semacam pengakuan [^14].
 
-Tur peringatan dua puluh lima tahun dari 2025 hingga 2026 meluas ke Bangkok, Kuala Lumpur, Jakarta, Singapura, dan Manila [^17]. Zepp New Taipei, Legacy Taichung, Live Warehouse Kaohsiung—dari Selatan ke Utara, dari pulau ke luar negeri.
+2025-2026 tour dua puluh lima tahun perluas ke Bangkok, Kuala Lumpur, Jakarta, Singapura, Manila [^17]. Zepp New Taipei, Legacy Taichung, Live Warehouse Kaohsiung—dari selatan ke utara, lagi dari dalam pulau ke luar negeri.
 
-## Di Luar Bunga Matahari: Suara Politik Sebuah Band
+## Di Luar Bunga Matahari: Suara Politik Satu Grup
 
-Sebelum Gerakan Bunga Matahari, Pemadam Api sudah berada di jalanan. Aksi protes anti-nuklir, penggusuran Dapu—setiap kali ada lokasi protes yang membutuhkan musik, mereka muncul dengan gitar [^18].
+Sebelum Bunga Matahari, Fire EX. sudah di jalanan. Demo anti-nuklir, anti-pengusiran Dapu—ada demo butuh musik, mereka bawa gitar muncul [^18].
 
-Pada tanggal 20 Mei 2016, saat upacara pelantikan Presiden Tsai Ing-wen, Pemadam Api diundang untuk tampil [^18]. Selama gerakan anti-Hong Kong pada tahun 2019, mereka tampil di konser "Mendukung Hong Kong, Menuntut Kebebasan!" di Freedom Square, dan berkolaborasi dengan penulis lirik Hong Kong Lin Xi untuk 〈Double City Chronicle〉[^18]. Ketika Ko Wen-je membuat komentar meremehkan tentang referendum pernikahan sesama jenis pada tahun 2019, Yang Da-cheng secara terbuka memarahinya [^10].
+20 Mei 2016, pelantikan Presiden Tsai Ing-wen, Fire EX. diundang tampil [^18]. 2019 masa demo anti-ekstradisi Hong Kong, mereka tampil di konser "Dukung Hong Kong, Inginkan Kebebasan!" di Liberty Square, dan kolaborasi dengan penulis lirik Hong Kong Lin Xi bikin 〈Kisah Dua Kota〉 [^18]. 2019 Ko Wen-je bicara merendahkan referendum pernikahan sejenis, Yang Zheng-fan di tempat terbuka langsung ngegas [^10].
 
-Pemadam Api diblokir di Tiongkok. Setelah 〈Island Light〉, mereka benar-benar terputus dari pasar Tiongkok. Tetapi dalam tujuh menit saat Festival Dagu, Yang Da-cheng mengatakan dengan jelas: "Kami beruntung karena tidak perlu memikirkan pasar Tiongkok." [^19] Makna tersirat dari kalimat ini adalah—dia memahami orang-orang yang kurang beruntung.
+Fire EX. di Tiongkok diblokir. Pasca 〈Pulau Cahaya〉, mereka putus total sama pasar Tiongkok. Tapi Yang Zheng-fan di Da Gang Festival tujuh menit itu bilang jelas: "Kita beruntung, tidak perlu mikirin urusan pasar Tiongkok." [^19] Subteks kalimat itu—dia ngerti orang yang tidak beruntung.
 
-## 2024: Tujuh Menit di Festival Dagu
+## 2024: Tujuh Menit Da Gang Festival
 
-Pada awal Oktober 2024, tiga grup artis—An Pu, Mayday, dan Wu Kang-ren—diserang oleh opini publik Taiwan karena memposting ucapan selamat Hari Nasional Tiongkok di Weibo. Pada tanggal 12 hingga 13 Oktober, Festival Dagu diadakan di Kaohsiung, menarik sekitar seratus ribu orang selama dua hari. [An Pu tampil pada tanggal 12] (/id/music/deserts-chang-and-anpu/), dia berkata kepada bendera Ikan Paus dan玉山 (Yushan) di bawah: "Di acara saya, kalian selalu bebas dan aman."
+Awal Oktober 2024, Anpu, Mayday, Wu Kang-ren tiga grup artis karena posting ucapan ulang tahun 1 Oktober di Weibo, kena 에워싸an opini publik Taiwan. 12-13 Oktober, Da Gang Festival di Kaohsiung, dua hari masuk sekitar seratus ribu orang. [Anpu 12 naik panggung](/id/music/deserts-chang-and-anpu/), hadapi bendera paus dan bendera Yushan di penonton bilang: "Di acara aku, kalian selalu bebas aman."
 
-Keesokan harinya, tanggal 13 Oktober, Pemadam Api menjadi penutup. Yang Da-cheng berhenti di panggung Haiyin Hall dan berbicara tentang masalah ini selama hampir tujuh menit [^19].
+Kesokan harinya, 13 Oktober, Fire EX. penutup. Yang Zheng-fan di panggung Hai Yin Guan berhenti, pakai hampir tujuh menit bahas hal ini [^19].
 
-Dia pertama-tama mengatakan bahwa dia hampir tidak pernah berbicara di antara lagu karena "apa pun yang saya katakan akan menimbulkan masalah." Kemudian ia masuk ke pokok bahasan: "Ini adalah era tersulit, era yang paling membutuhkan persatuan." [^19]
+Dia awal bilang dirinya hampir tidak pernah bicara antara lagu, karena "bicara apa pasti masalah". Lalu masuk inti: "Ini era paling sulit, paling butuh kohesi." [^19]
 
-Dia tidak membela ketiga artis tersebut, juga tidak ikut menyerang. Dia berbicara tentang struktur: "Ini adalah kecanggungan sebuah era, dan kecanggungan pasar. Kami beruntung karena tidak perlu memikirkan pasar Tiongkok. Tetapi masalah yang mereka hadapi berbeda—godaan besar, mungkin untuk menafkahi lebih banyak orang." [^19]
+Dia tidak membela tiga grup artis itu, juga tidak ikut menuding. Dia bicara struktur: "Ini kekonyolan era, juga kekonyolan pasar. Kita beruntung, tidak perlu mikir urusan pasar Tiongkok. Tapi mereka hadapi masalah beda—godaan besar, mungkin mau makanin lebih banyak orang." [^19]
 
-Seseorang di bawah berseru: "Kami masih punya kamu!" Dia mengoreksi: "Tidak, Anda tidak bisa membandingkannya seperti itu—mereka juga orang yang berharga." [^19]
+Penonton ada yang teriak: "Kita masih punya kamu!" Dia betulkan: "Bukan, kamu tidak bisa bandingin begitu—mereka juga orang yang berharga." [^19]
 
-Kemudian datanglah kalimat yang membuat seluruh penonton terdiam: "Jika tindakan kita mencari kambing hitam menyerupai 'xiaofenhong' di seberang selat, maka itulah hal yang paling mengerikan. Jadi saya mohon kepada kalian semua: fokuskan energi pada masa depan Taiwan, jangan saling memecah belah." [^19]
+Lalu kalimat yang bikin seluruh venue sunyi: "Kalau perilaku buru-buru kita mirip kecil merah di seberang, itu yang paling menakutkan. Jadi aku minta semua: taruh tenaga di masa depan Taiwan, jangan pecah belah satu sama lain." [^19]
 
-Dia memberikan alternatif: daripada menghabiskan waktu mengejar idola yang membuatmu kecewa, lebih baik temukan siapa yang membuat film bagus, siapa yang menyelenggarakan konser dan festival musik yang hebat—habiskan waktumu untuk mendukung mereka [^19].
+Dia kasih alternatif: daripada habisin waktu menyerang idola yang mengecewakan, mending cari siapa yang bikin film bagus, siapa yang adain konser dan festival bagus—curahkan waktu mendukung mereka [^19].
 
-Seluruh penonton bersorak. Tujuh menit ini disiarkan oleh penonton ke platform media sosial, dan penyebarannya jauh melampaui lokasi Festival Dagu. Beberapa orang mencercanya sebagai pengecut, sementara yang lain mengatakan itu adalah tanggapan paling dewasa dalam seluruh peristiwa tersebut. Bagaimanapun, Yang Da-cheng melakukan sesuatu yang sangat 'Pemadam Api': tidak berdiri di puncak otoritas mana pun, tetapi berada di tengah semua orang.
+Seluruh venue tersorak. Potongan tujuh menit ini di-upload penonton ke platform sosial, sebar jauh lewat lokasi Da Gang Festival. Ada yang ngegas dia 위선, ada yang bilang ini respons paling dewasa di seluruh insiden. Mana pun, Yang Zheng-fan lakuin satu hal yang sangat Fire EX.: tidak berdiri di titik tinggi mana pun, berdiri di tengah semua orang.
 
-📝 **Catatan Kurator:** Tujuh menit. Sebuah band yang diblokir oleh Tiongkok selama sepuluh tahun berbicara di panggung Taiwan, membela rekan-rekan mereka yang "berpihak" pada Tiongkok. Ini adalah kebebasan yang hanya bisa dikatakan oleh seseorang yang benar-benar tidak membutuhkan pasar Tiongkok—memiliki keberanian untuk mengatakannya.
+📝 **Catatan Kurator:** Tujuh menit. Grup yang diblokir Tiongkok sepuluh tahun, berdiri di panggung Taiwan, bicara untuk tiga rekan "pindah ke" Tiongkok. Ini kebebasan yang hanya orang yang benar-benar tidak butuh pasar Tiongkok bisa ucapkan—punya landasan, berani begini.
 
 ## Bacaan Lanjutan
 
-- [Musik Independen Taiwan] (/music/台灣獨立音樂/) — Lanskap musik independen tempat Pemadam Api berada
-- [Sejarah Perkembangan Rock Taiwan] (/id/music/taiwan-rock-from-underground-to-mainstream/) — Dari era lagu terlarang hingga konser di Dagang
-- [Gerakan Bunga Matahari] (/id/society/sunflower-movement/) — Maret ketika 〈Island Light〉 lahir
-- [Budaya Festival Musik Taiwan] (/id/music/taiwan-music-festival-culture/) — Dari Gongliao ke Festival Bola Api
-- [Chang Hsien dan An Pu] (/id/music/deserts-chang-and-anpu/) — Sisi lain tujuh menit di Festival Dagu
-- [Komunitas Zhuoshuixi] (/music/濁水溪公社/) — Rock bawah tanah generasi sebelumnya yang juga mencatat zaman dengan musik berbahasa Taiwan
+- [Musik Independen Taiwan](/music/台灣獨立音樂/) — Lanskap musik independen tempat Fire EX. berada
+- [Sejarah Perkembangan Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream/) — Dari era larangan lagu ke Megaport Festival
+- [Gerakan Bunga Matahari](/id/society/sunflower-movement/) — Maret kelahiran 〈Pulau Cahaya〉
+- [Budaya Festival Musik Taiwan](/id/music/taiwan-music-festival-culture/) — Dari Gongliao ke Fireball Festival
+- [Chang Hsien dan Anpu](/id/music/deserts-chang-and-anpu/) — Sisi lain tujuh menit Da Gang Festival
+- [Komunitas Zhuoshui Xi](/id/music/loh-tsui-kang-commune/) — Sama pakai punk berbahasa Taiwan catat era, mendahului satu generasi rock underground
 
 ## Referensi
 
-[^1]: [Taiwan Guanghua Magazine — "Menyalakan Api Rock Taiwan: Band Pemadam Api"](https://www.taiwan-panorama.com/Articles/Details?Guid=6979b88d-2ae2-477f-8545-3ecc93ca4deb) — Oktober 2017. Pembentukan Sanmin, penamaan di dekat kolam renang, penampilan kampus awal
+[^1]: [Majalah Taiwan Panorama —「Menyalakan Api Rock Taiwan: Grup Fire EX.」](https://www.taiwan-panorama.com/Articles/Details?Guid=6979b88d-2ae2-477f-8545-3ecc93ca4deb) — Oktober 2017. Pembentukan SMK Sanmin, penamaan di sisi kolam renang, pertunjukan kampus awal
 
-[^2]: [Pemadam Api — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BB%85%E7%81%AB%E5%99%A8_%28%E6%A8%82%E5%9C%98%29) — Riwayat anggota lengkap: tujuh drummer, Cheng Yu-chen bergabung pada tahun 2004, Ko Chi-shun (Ko Guang) resmi bergabung pada tahun 2019
+[^2]: [Fire EX. — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BB%85%E7%81%AB%E5%99%A8_%28%E6%A8%82%E5%9C%98%29) — Riwayat perubahan anggota lengkap: tujuh drumis, Cheng Yu-chen masuk 2004, Ke Chih-hsun (Ke Kuang) resmi masuk 2019
 
-[^3]: [CNA — "Bahasa Taiwan adalah Cahaya yang Menerangi Pulau Pemadam Api"](https://www.cna.com.tw/culture/article/20180303w001) — Maret 2018. Latar belakang keluarga luar pulau Yang Da-cheng, garis keturunan Hakka, inspirasi Wu Bai
+[^3]: [CNA —「Bahasa Taiwan Adalah Cahaya yang Menerangi Pulau Fire EX.」](https://www.cna.com.tw/culture/article/20180303w001) — Maret 2018. Latar belakang keluarga peranakan Yang Zheng-fan, darah Hakka, inspirasi Wu Bai
 
-[^4]: [Pemadam Api 《Let's Go!》 — StreetVoice](https://streetvoice.com/fireextinguisher/) — Rilis album pertama pada Juli 2007
+[^4]: [Fire EX. 《Let's Go!》 — StreetVoice](https://streetvoice.com/fireextinguisher/) — Juli 2007 rilis album pertama
 
-[^5]: [Pemadam Api 《The Sea People》 — KKBOX](https://www.kkbox.com/tw/tc/album/MiF.oE59bCG-qS0FEn6R) — Album tahun 2009, termasuk 〈Goodnight Taiwan〉
+[^5]: [Fire EX. 《Orang di Atas Laut》 — KKBOX](https://www.kkbox.com/tw/tc/album/MiF.oE59bCG-qS0FEn6R) — Album 2009, berisi 〈Selamat Malam Taiwan〉
 
-[^6]: [Wikipedia — "Island Light"](https://zh.wikipedia.org/zh-tw/%E5%B3%B6%E5%B6%BC%E5%A4%A9%E5%85%89) — Undangan dari Universitas Seni Utara, selesai dalam tiga hari, mengajar di gedung legislatif, lebih dari satu juta penonton, hak cipta gratis
+[^6]: [Wikipedia —「Pulau Cahaya」](https://zh.wikipedia.org/zh-tw/%E5%B3%B6%E5%B6%BC%E5%A4%A9%E5%85%89) — Undangan TNUA, tiga hari selesai, mengajar di ruang rapat, jutaan tontonan, hak gratis
 
-[^7]: [Key Opinion Network — "Island Light yang Membelah Langit Tiga Tahun Lalu"](https://www.thenewslens.com/article/64420) — Maret 2017. Yang Da-cheng memasuki gedung legislatif, "Lagu Kebangsaan Tidak Resmi Taiwan"
+[^7]: [The News Lens —「Tiga Tahun Lalu 〈Pulau Cahaya〉 yang Merobek Malam」](https://www.thenewslens.com/article/64420) — Maret 2017. Yang Zheng-fan masuk ruang rapat, "Lagu Kebangsaan Tidak Resmi Taiwan"
 
-[^8]: [Anugerah Musik Terbaik ke-26 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC26%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Lagu terbaik tahunan, pemutusan siaran Tencent, blokade Tiongkok
+[^8]: [Golden Melody ke-26 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC26%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Lagu Terbaik Tahun, siaran Tencent terputus, pemblokiran Tiongkok
 
-[^9]: [Postingan Threads Yang Da-cheng — Juli 2025](https://www.threads.com/@fatfatfamily9487/) — "Mengapa saya harus menyanyikan itu sepuluh satu tahun kemudian"
+[^9]: [Posting Threads Yang Zheng-fan — Juli 2025](https://www.threads.com/@fatfatfamily9487/) — "Kenapa sebelas tahun kemudian aku masih harus nyanyi"
 
-[^10]: [Yang Da-cheng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%A4%A7%E6%AD%A3) — Pengakuan Cheng Yi-nong dan perceraian, pernikahan Shan Dong dan perceraian, periode tinggal bersama tiga orang, pernyataan dukungan sesama jenis
+[^10]: [Yang Zheng-fan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%A4%A7%E6%AD%A3) — Cheng Yi-nung coming out dan cerai, Shandong menikah lagi dan cerai, masa tinggal tiga orang, sikap pernikahan sejenis
 
-[^11]: [Anugerah Golden Bell ke-58 — United Daily News/Xuxingwen](https://stars.udn.com/star/story/10091/7466614) — Aktor pendukung pria terbaik untuk 《I Am Willing》 pada tahun 2023, vokalis rock pertama yang meraih "Tiga Emas" (Jin)
+[^11]: [Golden Bell ke-58 — United Daily News/UDN Stars](https://stars.udn.com/star/story/10091/7466614) — 2023 《Aku Bersedia》 Pemeran Pendukung Terbaik, artis tiga emas (Golden Melody+Golden Bell+Golden Indie)
 
-[^12]: [Pemutaran Perdana Tokyo 《Zero Day Attack》 — CNA](https://www.cna.com.tw/news/amov/202501150388.aspx) — Yang Da-cheng berperan sebagai Son Gyejun pada tahun 2025, menghadiri pemutaran perdana di Tokyo bersama Issei Takahashi
+[^12]: [《Serangan Zero-Day》 Premiere Tokyo — CNA](https://www.cna.com.tw/news/amov/202501150388.aspx) — 2025 Yang Zheng-fan peran Sun Chi-chun, bareng Takayuki Ibuki hadiri premiere Tokyo
 
-[^13]: [Pendirian Fire Energy Music — Taiwan Guanghua Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=6979b88d-2ae2-477f-8545-3ecc93ca4deb) — Didirikan pada Agustus 2015, operasi label independen
+[^13]: [Pendirian Fire On Music — Majalah Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=6979b88d-2ae2-477f-8545-3ecc93ca4deb) — Agustus 2015 pendirian, operasional label independen
 
-[^14]: [Riwayat Festival Bola Api — Situs Resmi/KKBOX/Bandwagon Asia](https://fireball.kktix.cc/) — Edisi pertama di Kaohsiung tahun 2017 dengan Sum 41, Taoyuan pada tahun 2019 dengan ELLEGARDEN, bangkit kembali pada tahun 2023, ELLEGARDEN akhirnya berhasil pada tahun 2025
+[^14]: [Fireball Festival Tahunan — Fireball Festival Resmi / KKBOX / Bandwagon Asia](https://fireball.kktix.cc/) — 2017 Kaohsiung pertama Sum 41, 2019 Taoyuan ELLEGARDEN, 2023 bangkit, 2025 ELLEGARDEN akhirnya terlaksana
 
-[^15]: [Kaohsiung Good Day — "Tahukah Anda Perusahaan Pemadam Api Berada di Kaohsiung?"](https://www.facebook.com/takaogooday/posts/726906392800047/) — Oktober 2023. Fire Energy Music pindah ke Kaohsiung, Pusat Musik Populer Kaohsiung
+[^15]: [Kaohsiung Good Day —「Kamu Tahu Perusahaan Fire EX. di Kaohsiung?」](https://www.facebook.com/takaogooday/posts/726906392800047/) — Oktober 2023. Fire On Music pindah balik Kaohsiung, Kaohsiung Popular Music Center
 
-[^16]: [〈Crazy Once Chen 52〉— ETtoday/CNA](https://www.ettoday.net/news/20160919/779125.htm) — Lagu penghormatan pensiun Chen Jin-feng, lebih dari empat ratus ribu penonton dalam 12 jam; 〈Today Me〉 sebagai lagu tema untuk film dokumenter 《Road to Champion》
+[^16]: [〈Dulu Gila Chen 52〉— ETtoday / CNA](https://www.ettoday.net/news/20160919/779125.htm) — Lagu tribute pensiun Chen Chin-feng, 12 jam 400 ribu tontonan; 〈Aku Hari Ini》 untuk dokumenter 12 Kuat 《Jalan Juara》 lagu tema
 
-[^17]: [Tur Internasional Pemadam Api — Bandwagon Asia/Taiwan Beats](https://www.bandwagon.asia/articles/fire-ex-25th-anniversary-tour-southeast-asia-2026) — SXSW 2012 / Punkspring 2017 / Summer Stage NYC 2017 / FUJI ROCK 2022 / tur Asia Tenggara 25 tahun
+[^17]: [Tour Internasional Fire EX. — Bandwagon Asia / Taiwan Beats](https://www.bandwagon.asia/articles/fire-ex-25th-anniversary-tour-southeast-asia-2026) — SXSW 2012 / Punkspring 2017 / Summer Stage NYC 2017 / FUJI ROCK 2022 / Tour Asia Tenggara 25 tahun
 
-[^18]: [Partisipasi Politik Pemadam Api — Key Opinion Network/Liberty Times](https://www.thenewslens.com/article/243131) — Protes anti-nuklir/anti-Dapu/pelantikan Tsai Ing-wen/konser dukungan Hong Kong/〈Double City Chronicle〉× Lin Xi
+[^18]: [Partisipasi Politik Fire EX. — The News Lens / Liberty Times](https://www.thenewslens.com/article/243131) — Anti-nuklir/anti-Dapu/pelantikan Tsai Ing-wen/dukung Hong Kong konser/〈Kisah Dua Kota〉× Lin Xi
 
-[^19]: [Tanggapan Tujuh Menit Yang Da-cheng di Festival Dagu — Key Opinion Network](https://www.thenewslens.com/article/243131) — Isi pidato lengkap, "mencari kambing hitam seperti xiaofenhong adalah yang paling mengerikan", video asli: [YouTube](https://www.youtube.com/watch?v=cNRkJn8RV1o)
+[^19]: [Yang Zheng-fan Tanggapan Tujuh Menit 《Da Gang Festival》 — The News Lens](https://www.thenewslens.com/article/243131) — Isi ucapan lengkap, "buru-buru mirip kecil merah paling menakutkan", video asli: [YouTube](https://www.youtube.com/watch?v=cNRkJn8RV1o)

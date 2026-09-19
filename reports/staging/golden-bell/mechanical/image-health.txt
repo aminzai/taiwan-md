@@ -1,0 +1,6 @@
+🧬 knowledge/Culture/金鐘獎.md
+   lang=zh-TW  category=Culture  slug=金鐘獎
+   ✅ image-health  hard=0 warn=0 info=1
+      info : 圖片統計：4 inline + 1 hero (frontmatter) = 5 張
+
+Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)

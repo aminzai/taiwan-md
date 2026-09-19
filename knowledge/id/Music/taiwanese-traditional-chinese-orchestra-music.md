@@ -45,7 +45,7 @@ Biola dua senar (erhu), biola tradisional (pipa), suling (dizi), kecapi zither (
 
 Dengan lapisan makna itu, Guoyue melintasi selat ke Taiwan.
 
-Tapi Taiwan bukan kertas kosong. Pulau ini sudah memiliki tradisi [Nanguan dan Beiguan](/id/music/Taiwan Folk Music and Songs/) di depan kuil, memiliki kecapi mulut dan kayu gendang orang asli, memiliki fondasi pendidikan musik Barat warisan masa pendudukan Jepang[^5]. Ketika «Guoyue» ditanam di pulau yang sudah berisi suara, ia pasti tumbuh jadi sesuatu yang berbeda.
+Tapi Taiwan bukan kertas kosong. Pulau ini sudah memiliki tradisi [Nanguan dan Beiguan](/id/music/taiwan-folk-music-and-songs/) di depan kuil, memiliki kecapi mulut dan kayu gendang orang asli, memiliki fondasi pendidikan musik Barat warisan masa pendudukan Jepang[^5]. Ketika «Guoyue» ditanam di pulau yang sudah berisi suara, ia pasti tumbuh jadi sesuatu yang berbeda.
 
 > **📝 Catatan Kurator**
 > Pendidikan Guoyue Taiwan sejak awal terpisah dari pendidikan opera. Akademi Opera Nasional Taiwan (asalnya Sekolah Drama Fuxing, didirikan 1957) mengkhususkan musik drama, sedangkan Universitas Seni Nasional Taiwan (asalnya Akademi Seni, didirikan 1955) mengembangkan pertunjukan alat musik murni[^6]. Pembagian tugas ini jarang di wilayah berbahasa Tionghoa—konservatorium di daratan Tiongkok biasanya menempatkan drama dan musik rakyat di satu sistem yang sama. Akibat pembagian itu: Guoyue Taiwan sejak awal berjalan di jalur «musik murni», bukan fungsi pengiring drama.
@@ -174,13 +174,13 @@ Pertanyaan «Guo Guoyue adalah negara mana», mungkin dari dulu tidak perlu jawa
 
 **Baca Lanjutan**:
 
-- [Tradisi Musik Orang Asli Taiwan](/music/台灣原住民音樂傳統) — Harmoni delapan bagian suku Bunun, paduan suara kompleks suku Amis, logika musik lain yang Guoyue coba cerna
-- [Harmoni Delapan Bagian](/music/八部合音) — Sistem overtone _pasibutbut_, bahan inti dialog Guoyue dan musik orang asli
-- [Musik Hakka Taiwan](/music/台灣客家音樂) — Lagu gunung Hakka yang banyak dipentaskan Orkestra Nasional Kota Kaohsiung, jalan lain Guoyue selatan Taiwan
+- [Tradisi Musik Orang Asli Taiwan](/id/music/indigenous-music-traditions) — Harmoni delapan bagian suku Bunun, paduan suara kompleks suku Amis, logika musik lain yang Guoyue coba cerna
+- [Harmoni Delapan Bagian](/id/music/bunun-pasibutbut-eight-part-polyphony) — Sistem overtone _pasibutbut_, bahan inti dialog Guoyue dan musik orang asli
+- [Musik Hakka Taiwan](/id/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Lagu gunung Hakka yang banyak dipentaskan Orkestra Nasional Kota Kaohsiung, jalan lain Guoyue selatan Taiwan
 - [Pembuatan Alat Musik Taiwan](/id/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Dari saksofon Houlí ke alat Guoyue, bagaimana Taiwan dari «pengguna» jadi «pembuat»
-- [Gerakan Lagu Rakyat Taiwan](/music/台灣民歌運動) — Gerakan 1970-an «Nyanyi Lagu Sendiri», semangat era yang sama dengan pelokalan Guoyue
+- [Gerakan Lagu Rakyat Taiwan](/id/music/taiwan-campus-folk-song-movement) — Gerakan 1970-an «Nyanyi Lagu Sendiri», semangat era yang sama dengan pelokalan Guoyue
 - [Lanskap Suara Taiwan](/music/台灣聲音地景) — Bagaimana lingkungan suara pulau meresap ke telinga komponis
-- [Musik Rakyat dan Lagu-Lagu Taiwan](/id/music/Taiwan Folk Music and Songs) — Nanguan, Beiguan, lagu-lagu berbahasa Taiwan, tradisi suara yang sudah ada di pulau sebelum Guoyue melintasi selat
+- [Musik Rakyat dan Lagu-Lagu Taiwan](/id/music/taiwan-folk-music-and-songs) — Nanguan, Beiguan, lagu-lagu berbahasa Taiwan, tradisi suara yang sudah ada di pulau sebelum Guoyue melintasi selat
 
 ## Referensi
 

@@ -1,0 +1,18 @@
+{
+  "revision": 39,
+  "submissionId": "0a2bb579-369f-4d8b-ba2f-fb7ca3cab40c",
+  "actor": "主編（主 session）裁決冷讀結果；冷讀者本人為 Sonnet agent acaeda1585328d410（fresh-context-draft-only）",
+  "verdict": "accept",
+  "rationale": "第四位冷讀者回述正確、四題全答得出、判定 ship。三條困惑都是相近數字的巧合（126.5 萬／126 萬、43.6 萬×2、四個分母），正文已各自標明巧合或母體，屬題材本身的密度，不再改。兩條重複（「住在兩欄之間」三次、「本薪有法律守著」五次）是投影藍圖的回聲設計（30 秒概覽／標題／結尾承重同一論點），第三輪已刪兩處，保留。forcedConclusions 一條：「為什麼開場先講零人」是讀者自己的問題，不是任何一方留下紀錄的話（許宇甄講口徑、民眾黨講分母），依第三型紀律不替沉默代言、不推動機，正文第一節已寫明說明的起頭是「低於平均不等於低薪」，第七節已寫明主計總處先講哪一欄，不裁決動機。不回 compose。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "第 37 行（說明起頭）；第 121 行（43.6 萬巧合）；第 251 行（誰講哪一欄）"
+    },
+    {
+      "path": "reports/staging/low-wage/coldread-submission-4.json",
+      "location": "data.fourChecks / forcedConclusions / readerVerdict"
+    }
+  ],
+  "contextDisclosure": "editor-ruling-on-fresh-cold-read"
+}

@@ -44,7 +44,7 @@ Dans un salon de KTV, si l’on commande de l’alcool, le bar sert du vin rosé
 
 Lors d’un tournage de VLOG de voyage à Tainan en 2024, Kyuhyun, membre de Super Junior, goûte chez Du Hsiao Yueh du pied de porc et du riz sauté, puis boit une gorgée d’Apple Sidra et lâche quelques citations directes :
 
-> 「好好喝喔，這個韓國沒有對吧？」「好像真的跟酒一起喝會很好喝欸！」[^3]
+> « C’est vraiment bon ! On n’a pas ça en Corée, si ? » « J’ai l’impression que mélangé à de l’alcool, ce serait excellent ! »[^3]
 
 Il prend ensuite la bouteille avec humour devant la caméra : « Comme ça, j’ai peut-être une chance de décrocher une collaboration sponsorisée. » Ce soutien venu de la K-pop offre à Apple Sidra une vague inattendue de trafic transnational en 2024, au moment où la marque se remet de sa tempête de sécurité alimentaire[^3].
 
@@ -92,7 +92,7 @@ En 1995, Apple Sidra a déjà connu trois groupes de propriétaires étrangers :
 
 Cette année-là, à un moment donné, Sun You-ying débourse de sa poche 800 000 dollars américains, soit plus de 23 millions de dollars taïwanais, pour racheter à Quaker International, société libérienne, tous les droits liés à Apple Sidra : marque, formule et licence de vente[^9].
 
-> **✦** 「自行出資 80 萬美元，向果是高國際購得，考量大飲營收高達 95% 為販售蘋果西打。」[^9]
+> **✦** « J’ai investi 800 000 dollars américains de ma poche pour racheter la marque à Guoshigao International, étant donné que 95 % du chiffre d’affaires de Dayin provient de la vente d’Apple Sidra. »[^9]
 
 À partir de cette année, Apple Sidra appartient enfin complètement à Taïwan, ou plus précisément à Sun You-ying à titre personnel. Cette « boisson nationale », vendue à Taïwan depuis 30 ans, cesse alors seulement d’être un produit fabriqué sous licence transnationale.
 
@@ -123,7 +123,7 @@ L’enquête ultérieure identifie la première ligne de production de l’usine
 
 Le député Huang Kuo-chang, du New Power Party, tient une conférence de presse :
 
-> 「7 月就遭 122 名民眾客訴，大飲自己檢驗就知道有問題，但卻回應因為搬運過程封蓋熱漲冷縮導致空氣跑入才會影響品質，後來又說是生產線的機械故障所致，直到事件爆發才全面下架，證明公司第一時間是在說謊。」[^11]
+> « Dès juillet, 122 consommateurs avaient porté plainte ; les propres contrôles de Dayin montraient qu’il y avait un problème. L’entreprise a pourtant répondu que la dilatation et la contraction thermiques des capsules pendant le transport laissaient entrer de l’air et altéraient la qualité, avant d’invoquer une panne mécanique sur la ligne de production, et n’a tout retiré des rayons qu’une fois le scandale éclaté : la preuve que l’entreprise a menti dès le premier instant. »[^11]
 
 Le ministre de la Santé et du Bien-être, Chen Shih-chung, répond dans un ton plus mesuré lors d’une interview :
 
@@ -148,7 +148,7 @@ Ils voient des dépôts blancs au fond de bouteilles PET de 2 000 ml d’Apple S
 
 Le 19 mai, le bureau de la santé retourne inspecter les lignes de production no 2 et no 3 :
 
-> 「發現生產這兩項產品的二、三號生產線有設備裸露、天花板霉斑、管線斑駁等缺失，研判是產線設備及管線老舊所致。」[^17]
+> « Sur les lignes de production n° 2 et n° 3, qui fabriquaient ces deux produits, ont été constatés des équipements à nu, des taches de moisissure au plafond et des canalisations écaillées ; ces manquements ont été attribués à la vétusté des installations et des conduites. »[^17]
 
 Les lignes de production no 2 et no 3 sont immédiatement arrêtées. Avec la ligne no 1 déjà arrêtée en avril, 99 % de la capacité de l’usine de Pingzhen est alors gelée.
 
@@ -201,7 +201,7 @@ Le corps de l’article se trouve derrière un paywall, mais le titre et le chap
 
 Lors de cette même assemblée, Su Yun-le annonce :
 
-> 「在所有債務歸零、工廠管理上軌下，今年產能目標蘋果西打約 415 萬箱，其他還有水與果汁各十萬箱。」[^26]
+> « La dette étant entièrement épongée et la gestion de l’usine remise sur les rails, l’objectif de production pour cette année est d’environ 4,15 millions de caisses d’Apple Sidra, plus cent mille caisses d’eau et autant de jus de fruits. »[^26]
 
 Un dividende en espèces de 0,35 dollar taïwanais par action est distribué, première reprise des dividendes depuis huit ou neuf ans[^22]. En chiffres, Apple Sidra a bien accompli son « retour en force » : les circuits de distribution, de FamilyMart à PX Mart, Hi-Life, Carrefour et RT-Mart, remettent le produit en rayon ; en 2024, l’entreprise n’a plus de dette financière, affiche un BPA et verse un dividende. Mais ce retour a été obtenu contre deux terrains, non par la vente de boissons.
 

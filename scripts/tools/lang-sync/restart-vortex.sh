@@ -157,7 +157,16 @@ fi
 
 # nemotron 在葡俄阿印尼印地 42-60%，但翻越南語只有 2-6%——所以 vi 不進這軌。
 # ja 暫移入此軌做實績驗收；若 n≥8 仍低於 15%，下一輪再切換模型。
-start babel-cloud.log "${LAUNCH_LABELS[1]}" "雲端 nemotron×4（六語）" --langs ja,id,pt,hi,ar,ru \
+#
+# --max-zh-bytes 40000（2026-09-09）：這軌 52 分鐘只嘗試 1 篇、0 通過，四個
+# worker 全部耗在 40-90KB 的深度長文上直到腳註階段逾時（ja/新北市 501 秒，
+# 兩次 OpenRouter 240 秒逾時，整篇作廢還原）。排序「由新到舊」是對的，副作用
+# 是站上最新的文章往往也最大，產線一開機就撞整個佇列裡最硬的那批。超過上限的
+# 交委派層（實測同一篇 91KB／55 腳註的 Threads 在台灣，免費池逾時、Haiku 完整
+# 交件七道閘全過）。ja 實測佇列 364→324，隊首從 90KB 級降到 8-34KB。
+# fleet 軌不設限——它的通過率是 60%，還沒有證據說它撞同一堵牆。
+start babel-cloud.log "${LAUNCH_LABELS[1]}" "雲端 nemotron×4（六語，≤40KB）" --langs ja,id,pt,hi,ar,ru \
+  --max-zh-bytes 40000 \
   --worker "nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo2=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo3=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \

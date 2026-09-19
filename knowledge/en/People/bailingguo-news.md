@@ -1,6 +1,6 @@
 ---
 title: 'Bailingguo News: Stuffing World News into Taiwanese Ears'
-description: 'How Kelly and Ken use bilingual banter, laughter, and unapologetic stances to turn distant international news into something Taiwanese listeners not only finish but must rethink daily.'
+description: 'How Kelly and Ken use bilingual, laughter-filled, and unapologetically opinionated chats to turn unfamiliar international news into a daily routine that Taiwanese listeners are willing to finish and must rethink.'
 date: 2026-08-17
 subcategory: '數位與媒體'
 category: 'People'
@@ -15,125 +15,125 @@ translatedFrom: 'People/百靈果 News.md'
 sourceCommitSha: 'cf406dedd'
 sourceContentHash: 'sha256:2e4b0f96f5527220'
 sourceBodyHash: 'sha256:6a0fcf2e49c8c6d1'
-translatedAt: '2026-09-15T06:51:23+08:00'
+translatedAt: '2026-09-11T07:40:58+08:00'
 ---
 
-In 2014, Kelly and Ken were not yet the hosts of "Bailingguo News." They were just two young people watching Taiwan's news disconnect from the world, wanting to try changing that. In 2020, they held a physical event in Tainan themed "International Transfer," where listeners gathered in person and the show walked out of earphones into the city. In 2022, to let Taiwan be heard internationally, they spent NT$2.5 million producing an all-English program.[^1] [^2] [^3]
+In 2014, Kelly and Ken were not yet the hosts of "Bailingguo News." They were simply two young people who watched Taiwan’s news disconnect from the world and tried to change that. In 2020, they held an in-person event in Tainan titled "International Connection," where listeners gathered in the physical space, and the program moved from earphones into the city. In 2022, to ensure Taiwan could be heard by the international community, they spent NT$2.5 million producing a fully English-language program. [^1] [^2] [^3]
 
-Placed together, these three time points reveal Bailingguo's contrast: it discusses the least chat-like topics in the most friend-like-horsing-around way. Bailingguo doesn't make international news simple; it first makes people willing to approach it. Once close, listeners discover they're being forced to understand Taiwan's relationship with the world.
+Viewing these three time points together reveals the contrast of Bailingguo: it discusses matters that are far from casual chat in the most friend-like, bantering way. Bailingguo does not simplify international news; rather, it first makes people willing to approach it. Only after approaching it do listeners realize they are being forced to understand the relationship between Taiwan and the world.
 
-> **Counter-intuitive core sentence:** Bailingguo makes news feel like chat, yet thereby brings the question of "who is qualified to talk about the world" into every Taiwanese person's earphones.
+> **Counter-intuitive core sentence:** Bailingguo makes news feel like a chat, thereby bringing the question of "who has the right to talk about the world" into every Taiwanese listener's earphones.
 
 ![Headphones with microphone, symbolizing Bailingguo bringing international news into daily listening scenarios](/article-images/people/bailingguo-news-podcast-headphones.webp)
 
-_Image: `Headphones with Microphone.jpg`, author Zephyris; [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. Original file hotlink used here, image not downloaded._
+_Image: `Headphones with Microphone.jpg`, by Zephyris; [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Headphones_with_Microphone.jpg), CC BY-SA 3.0. The original file hotlink is used here; the image has not been downloaded._
 
-_Image: Tatler Asia interview illustration, from [Bailingguo News Host Interview](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). This is a non-free copyright image, embedded via original hotlink only as article context and source reference, claiming no relicensing, download, reproduction, or commercial use._
+_Image: Illustration from Tatler Asia interview, taken from [Bailingguo News Host Interview](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news). This is a non-free copyright image, embedded only via the original hotlink for article context and source guidance; it does not advocate for re-licensing, downloading, reproducing, or commercial use._
 
 ## Starting from "Media Internationalization"
 
-Music Farm's English long-form record places the starting point around the 2014 Sunflower Movement: Kelly and Ken observed a distance between Taiwan media and international news, so they started a fan page, then tried formats like "International Dog Language Daily" and "Free Welfare Society." Early works got few clicks, comments, or shares, yet they kept iterating through trial and error.[^4]
+Music Farm’s English long-form record places the starting point around the Sunflower Movement in 2014: Kelly and Ken observed a distance between Taiwan’s media and international news, so they first created a fan page, then tried different formats like "International Dog Language Daily" and "Free Welfare Society." The initial works had few clicks, comments, or shares, yet they continued to trial and error repeatedly. [^4]
 
-This history matters not because it arranges a pretty founding myth for Bailingguo, but because it preserves the clumsiness of "doing it even when there's no audience." Bailingguo later seemed to appear suddenly, but was actually a long string of unsuccessful names, formats, and approaches slowly compressed into a show that could be heard.
+This history is important not because it arranges a neat entrepreneurial myth for Bailingguo, but because it preserves the clumsiness of "still doing it when there is no audience." Bailingguo’s seemingly sudden appearance was actually the slow compression of a series of unsuccessful names, formats, and phrasings into a program that could be heard.
 
-The BIOS interview also reminds readers that neither started as full-time news workers. Reporting mentions Kelly did interpretation work, while Ken was then a live-streaming app entrepreneur. Recording wasn't swapping an existing career for a show, but squeezing a new public role out from between other jobs.[^11]
+BIOS Monthly’s interview also reminds readers that the two did not start out as full-time journalists. The report mentions that Kelly worked as an interpreter, and Ken was also an entrepreneur in the live-streaming app space. The recording was therefore not about swapping an existing career for a program, but squeezing out a new public role from between other jobs. [^11]
 
-This background makes "professionalism" appear differently in Bailingguo. They don't present themselves as traditional newsroom reporters, yet don't abandon organizing international information either. They choose to make their tone, interests, and error corrections public during the learning process. This is a creator-type media practice: strength is accessibility, risk is that listeners must distinguish opinion, fact, and jest.
+This background presents "professionalism" in Bailingguo in a different light. They do not present themselves as journalists in a traditional newsroom, nor do they abandon organizing international information. Instead, they choose to publicly display their tone, interests, and error corrections during the learning process. This is a creator-led media practice; its advantage is approachability, but the risk is that listeners must distinguish between viewpoints, facts, and jokes.
 
-When Kelly and Ken told Tatler Asia in 2021 their goal was "let everyone watch more international news, reflect more on Taiwan's status quo, further find the direction Taiwan should take," this sentence explains why they've always kept international news at the program core better than "make a big Podcast."[^5]
+In a 2021 interview with Tatler Asia, Kelly and Ken still described their goal as "letting more people read international news, reflecting more on Taiwan’s current situation, and further finding the direction Taiwan should take in the future." This statement explains better than "making the Podcast big" why they have always kept international news at the core of the program. [^5]
 
-📝 Curator's note: **Bailingguo's real product isn't an episode, but the habit of "Taiwanese can talk about the world."**
+📝 Curator’s Note: **Bailingguo’s true product is not an episode of a show, but the habit of "Taiwanese people talking about the world."**
 
-## Two Voices, Not One Standard Answer
+## Two Voices, Not a Single Standard Answer
 
-The official website positions Bailingguo as "the freest bilingual international news in the Chinese-speaking world," explaining the show picks several important international news items weekly and discusses perspectives in near-talk-show style. It also directly admits sometimes "skirting the edge."[^6]
+The official website positions Bailingguo as "the freest bilingual international news in the Chinese-speaking world," explaining that the program selects several important international news items each week and discusses viewpoints in a talk-show-like manner. It also directly admits to sometimes "skirting the edge." [^6]
 
-This self-introduction already states the show's method: it doesn't hide hosts behind an announcer voice. Apple Podcasts' show page likewise introduces Kylie and Ken with "bilingual conversation" and "relaxed angle," placing serious news and chatter in the same program space.[^7]
+This self-introduction already reveals the program’s method: it does not hide the hosts behind a broadcasting voice. The Apple Podcasts program page similarly introduces Kylie and Ken with "bilingual dialogue" and a "relaxed angle," placing serious news and casual chat in the same program space. [^7]
 
-For listeners, this also changes the entry point of "knowing something." News no longer arrives first with jargon, geopolitical maps, or formal headlines, but may start from a host's everyday reaction. This lowers unfamiliarity, yet doesn't mean the issue itself is resolved.
+For listeners, this also changes the entry point for "knowing something." News no longer confronts you first with proper nouns, geopolitical maps, or formal headlines, but may start with a host’s everyday reaction. This lowers the sense of strangeness, but does not mean the issues themselves have been resolved.
 
-Tatler recorded more concrete differences. Kelly thinks Podcasts give listeners more patience to hear thinking through. Ken says they want to slowly explain causes and effects, not just speak extreme soundbites short enough for camera time. This isn't a claim of "objective neutrality," but another communication ethic: first acknowledge the speaker is present, then demand conversation not reduce to labels.[^5]
+Tatler records more concrete differences. Kelly believes that podcasts allow listeners to be more patient in hearing out a line of thought. Ken says they want to slowly explain the causes and effects of things, rather than only speaking extreme words sufficient for short clips in a short time. This is not a claim of "objective neutrality," but another communication ethics: first acknowledge that the speaker is present, then demand that dialogue not be reduced to just labels. [^5]
 
-Thus Bailingguo's bilingualism isn't just Chinese plus English. It's simultaneously two tones: a joke that pulls strange topics close, and a follow-up that leaves the problem on the table after the joke.
+Therefore, Bailingguo’s bilingualism is not just Chinese plus English. It is simultaneously two tones: one is a joke that brings strange topics closer, and the other is a follow-up question that leaves the problem on the table after the joke.
 
-## A Public Space Inside One Pair of Earphones
+## A Public Space in One Pair of Earphones
 
-The 2020 Podcast boom made "absorbing information by ear" daily routine. Tatler notes Podcasts aren't bound by radio's fixed times; listeners can tune in during commutes, exercise, or other fragmented moments. For Bailingguo, this flexibility also provided longer narrative space than short video.[^5]
+The 2020 podcast boom made "absorbing information through ears" a daily routine. Tatler points out that podcasts are not restricted by fixed broadcast times; listeners can tune in during commutes, exercise, or other fragmented times. For Bailingguo, this flexibility also provides a longer narrative space than short videos. [^5]
 
-Bailingguo's physical events then reversed the earphone's solitude. Tatler records that during the pandemic Kelly and Ken livestreamed heavily, hoping people staying home wouldn't feel lonely. Pre-pandemic, they held "Revival Meetings" and parade-style events letting listeners meet hosts face-to-face.[^5]
+Bailingguo’s in-person events turn the solitude of earphones around. Tatler records that during the pandemic, Kelly and Ken did extensive live streaming, hoping people staying at home would not feel lonely. Before the pandemic, they also held "Evangelism Conferences" and procession-style events, allowing listeners to meet the hosts face-to-face. [^5]
 
-These events aren't subordinate promotion. When hosts stand on stage and listeners walk from comment sections to the venue, the trust existing only in sound gets retested: the audience sees two concrete people, not an account that can stay mysterious forever.
+These activities are not mere promotional appendages to the program. When the hosts step onto the stage and listeners move from the comment section to the physical space, the trust that existed only in sound is re-examined: the audience sees two concrete people, not an account that can remain mysterious forever.
 
-Music Farm's description of the 2020 Tainan event leaves objects harder to replace with spreadsheets: staff passes, on-site photos, post-event hot pot with crew. These details show Bailingguo's community isn't built only on play counts, but also on people willing to bring a sound program into public space.[^4]
+Music Farm’s description of the 2020 Tainan event leaves behind objects harder to replace with statistics: work badges, on-site photos, and eating hotpot with staff after the event. These details show that Bailingguo’s community is not constituted solely by play counts, but also by a group of people willing to bring a sound program into public space. [^4]
 
-📝 Curator's note: **Podcasts seem to lock people in earphones; Bailingguo keeps trying to bring the people inside earphones back to the same city.**
+📝 Curator’s Note: **Podcasts seem to lock people into earphones, but Bailingguo has always tried to bring the people in earphones back to the same city.**
 
 ## From Bilingual Podcast to English Experiment
 
-February 2022, Taipei Times reported Bailingguo launched all-English show "Tough Bobas: Taiwan Uncensored." The program wasn't Chinese content translated sentence-by-sentence, but used sketch comedy and short plays to handle sensitive topics like Taiwan-US-China relations and China's "sissy ban." Reporting noted only one-fifth of invited actors agreed to participate, reflecting the production threshold of English performance and political material coexisting.[^3]
+In February 2022, Taipei Times reported that Bailingguo launched a fully English program, _Tough Bobas: Taiwan Uncensored_. The program does not simply translate Chinese content sentence by sentence into English; instead, it uses talk shows and short sketches to handle sensitive topics such as Taiwan-China-US relations and China’s "ban on effeminacy" decree. The report notes that only one-fifth of the invited actors agreed to participate, reflecting the production threshold of combining English performance with political themes. [^3]
 
-Originally planned for four episodes, production cost was NT$2.5 million. Wang Ching-ti described this as no small sum; whether to continue depended on funding. Bailingguo is therefore not just a "good idea means you can keep going" story, but a media organization that must face costs.[^3]
+The program was originally planned for four episodes, with a production cost of NT$2.5 million. Wang Qingdi describes this sum as not a small amount, and whether it will continue in the future depends on funding. Bailingguo is therefore not just a story of "having an idea and being able to do it forever," but also a media organization that must face costs. [^3]
 
-"Let Taiwan be heard by the world" as mere slogan doesn't need English sketches, actors, sets, and funding. Once content actually goes to different-language audiences, creators must handle whether jokes land, whether political context gets misread, and who'll pay for the experiment.
+If "letting Taiwan be heard by the world" stopped at a slogan, it would not require English short sketches, actors, sets, and funding. Once the content is truly sent to audiences in different languages, creators must handle whether the punchlines can be understood, whether the political context will be misread, and who is willing to pay for this experiment.
 
-Music Farm's English article summarizes this direction as "the freest international news in the Chinese-speaking world," describing the two replacing traditional neutral announcer tone with emotion, dialogue, and differing perspectives. This observation explains Bailingguo's appeal, while reminding readers: freedom isn't exemption from verification and responsibility, but making perspectives visible, rebuttable, and returned to dialogue.[^4]
+Music Farm’s English article summarizes this direction as "the freest international news in the Chinese-speaking world," describing how the two replace the neutral tone of traditional broadcasting with emotion, dialogue, and different viewpoints. This observation can explain Bailingguo’s appeal and also reminds readers: freedom does not exempt one from verification and responsibility, but makes viewpoints visible, refutable, and returned to dialogue. [^4]
 
-## "No Limits" Also Has a Price
+## "Unlimited" Also Has a Cost
 
-Bailingguo's most recognizable trait is precisely not packaging itself as a personality-free news machine. Spotify's show page describes it as packaging knowledge in bilingual dialogue. The same page's episode list shows it invites other creators, hosts, and public figures for various dialogue formats.[^8] SoundOn's show detail page preserves the same host lineup and positioning, showing Bailingguo placed content on multiple audio platforms from the start.[^10]
+Bailingguo’s most recognizable feature is precisely that it does not package itself as a personality-free news machine. Spotify’s program page describes it as knowledge packaged in bilingual dialogue. The same page’s program list also shows that it invites other creators, hosts, and public figures for different forms of dialogue. [^8] SoundOn’s program detail page also preserves the same set of hosts and program positioning, showing that Bailingguo placed content on multiple audio platforms from the beginning. [^10]
 
-A January 2020 episode of "The KK Show" invited veteran journalist Fan Chi-fei, running nearly two hours, with show notes focusing on international news and public discourse before the 2020 Taiwan election. This length let hosts finish asking questions, yet also made the program bear more responsibility for context and articulation.[^9]
+An episode of _The KK Show_ in January 2020 invited veteran journalist Fan Chih-fei, with an episode length approaching two hours. The program description focused the focus on international news and public discussion before the 2020 Taiwan election. This length allows hosts to ask questions to completion, but also requires the program to bear more responsibility for context and expression. [^9]
 
-Bailingguo's official page sets upload times at 9 PM every Tuesday, Thursday, and Saturday, explaining the show picks topics from important international news and discusses in near-talk-show style. Stable update rhythm and distinct voice make the show easy company. But when company meets war, authoritarianism, elections, or international relations, listeners can't just treat it as background sound.[^6]
+The Bailingguo official page fixes upload times to Tuesdays, Thursdays, and Sundays at 9 PM, explaining that the program selects topics from important international news and discusses them in a talk-show-like manner. Stable update rhythms and distinct tones make the program easy to become companionship. But once companionship encounters war, authoritarianism, elections, or international relations, listeners cannot treat it merely as background noise. [^6]
 
-This is Bailingguo's core challenge: it must simultaneously keep chat's speed and public issues' needed slowness. Jokes lower thresholds but can't replace evidence. Hosts' stances make things memorable but can't cut other positions into straw men.
+This is Bailingguo’s core challenge: it must simultaneously retain the speed of chat and the slowness required by public issues. Jokes can lower the threshold, but cannot replace evidence. Hosts’ stances can make people remember, but cannot cut other stances into straw men.
 
-This contradiction has no standard answer. If Bailingguo fully adopted traditional news' calm tone, it might lose the very power that lets people approach. If it only chased reactions and punchlines, it might flatten complex international issues into shareable attitudes. Its most watchable spot is precisely how each episode re-negotiates between the two.
+This contradiction has no standard answer. If Bailingguo fully adopts the calm tone of traditional news, it may lose the power that originally drew people close. If it only pursues reactions and punchlines, it may flatten complex international issues into shareable attitudes. Its most observable place is precisely how each episode re-negotiates between the two.
 
-📝 Curator's note: **"No limits" isn't no boundaries, but putting boundaries on the table so listeners see how they're drawn.**
+📝 Curator’s Note: **"Unlimited" is not without boundaries, but brings the boundaries to the table, letting listeners see how they are drawn.**
 
-## Why It Deserves Writing into Taiwan
+## Why It Deserves to Be Written into Taiwan
 
-Bailingguo's significance isn't just that it once topped charts. Taipei Times reported in 2021 it was Taiwan's second most-listened Podcast. More notably, this achievement supported a cross-language project: using English programming to send Taiwan's voice to international communities.[^3]
+Bailingguo’s importance lies not only in that it once topped the charts. Taipei Times reported that in 2021, it was the second-most-listened-to podcast in Taiwan. More notably, this achievement was used to support a cross-language project: using an English program to send Taiwan’s voice to the international community. [^3]
 
-Tatler's interview presents another scale: Bailingguo started from sharing international news on Facebook, doing street interviews and livestreams, only later forming the current show. Hosts hope listeners don't hear just one voice, nor decontextualize issues.[^5]
+Tatler’s interview presents another scale: Bailingguo started from sharing international news on Facebook, doing street interviews and live streaming, and only later formed the current program. The hosts hope listeners do not only hear one voice, nor de-contextualize issues. [^5]
 
-These two scales together are the meaning of an internet celebrity as a Taiwan figure. An internet celebrity isn't just someone accumulating attention on screens, but possibly someone redistributing attention to certain knowledge, certain language, certain public problems. Bailingguo turned "international news" from distant noun into an option Taiwanese can press play on at 9 PM. It does so imperfectly, yet lets more people hear first, then decide whether to keep understanding.
+These two scales combined are the meaning of influencers as Taiwanese figures. Influencers are not just people who accumulate attention on screens; they may also be those who redistribute attention to certain knowledge, certain languages, and certain public issues. Bailingguo turns "international news" from a distant noun into an option that Taiwanese people can press play on at 9 PM. It is imperfect, but gives more people the chance to hear first, then decide whether to continue understanding.
 
-Official Spotify episode data still retains early shows' descriptions and website links, showing how Bailingguo gradually shifted from "Free Welfare Society" era toward international news and bilingual content as core. Such traceable program traces explain how it grew better than a post-hoc success story.[^9]
+Official Spotify single-episode data still retains the program descriptions and website links of early episodes, allowing people to see how Bailingguo gradually shifted from the "Free Welfare Society" period to focusing on international news and bilingual content. This traceable program footprint explains how it grew better than a success story organized post-hoc. [^9]
 
-Finally, earphones may still transmit laughter, interruptions, and ill-timed jokes. But after laughter stops, the world hasn't shrunk. It just temporarily sat beside you, waiting for you to decide whether to finish the next episode.
+Finally, what comes from the earphones may still be laughter, interjections, and ill-timed jokes. But after the laughter stops, the world does not become smaller. It just sits next to you for a moment, waiting for you to decide whether to listen to the next episode.
 
 ## Further Reading
 
-[Bailingguo News Official Website](https://www.bailingguonews.com/)、[Bailingguo News on Apple Podcasts Show Page](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606)、[Bailingguo News on Spotify Show Page](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty)。
+[Bailingguo News Official Website](https://www.bailingguonews.com/), [Bailingguo News on Apple Podcasts](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606), [Bailingguo News on Spotify](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty).
 
-## Images and Curator's Notes
+## Images and Curator’s Notes
 
-This article uses only remote Markdown hotlinks for images, not saving or downloading images in the project. Freely licensed images establish the "earphones/sound media" reading entry; non-free copyright images retain original source and copyright notice, embedded only as external context for original reporting. If site policy disallows remote embedding, non-free images should be removed, not separately downloaded or re-uploaded.
+The images in this article only use remote Markdown hotlinks; images are not saved or downloaded within the project. Free-license images are used to create a reading entry for "headphones/audio media"; non-free copyright images retain the original source and copyright warnings, serving only as external embeddings of the original report context. If the website policy does not allow remote embedding, non-free copyright images should be removed, and should not be downloaded or re-uploaded separately.
 
-Curatorially, the first image isn't host portraits but the headphone-microphone object. This pushes the article's core insight from "introducing two hosts" toward "how sound becomes public space"; the second image preserves Tatler Asia's original reporting context but doesn't misrepresent it as Taiwan.md-owned material.
+In curation, the first image is not a portrait of Bailingguo figures, but the object of headphones with a microphone. This pushes the article’s core insight from "introducing two hosts" to "how sound becomes a public space"; the second image retains the original report context of Tatler Asia, but does not mistakenly write it as material owned by Taiwan.md.
 
 ## References
 
-[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — English long-form on-site record, organizing Kelly and Ken's development from 2014 media internationalization attempts, early shows, to 2020 Tainan event.
+[^1]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — English long-form on-site record, organizing the development context of Kelly and Ken from 2014 media internationalization attempts, early programs, to the 2020 Tainan event.
 
-[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Taipei Times and CNA republished concrete report, recording all-English program, production episodes, actor invitations, production costs and other verifiable information.
+[^2]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — Specific report from Taipei Times and CNA reprint, recording the fully English program, production episodes, actor invitations, and production costs as verifiable information.
 
-[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy 'Tough Bobas: Taiwan Uncensored'](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — English-Chinese bilingual news article, explaining Bailingguo's Taiwan Podcast ranking, internationalization goals, and production difficulties with sensitive topics.
+[^3]: [Taipei Times: Bailingguo News launches English sketch-comedy ‘Tough Bobas: Taiwan Uncensored’](https://www.taipeitimes.com/News/lang/archives/2022/02/28/2003773880) — News article with English and Chinese comparison, explaining Bailingguo’s ranking in Taiwan’s podcasts, internationalization goals, and the difficulty of producing sensitive topics.
 
-[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — English figure and industry observation article, describing the two hosts' non-traditional announcer tone, bilingual ability, program format, and Podcast ecosystem position.
+[^4]: [Music Farm: Bailingguo──Witness the New Wave of Earphones in Taiwan's Podcast 2020](https://musicfarmtk.com/eng-bailingguo-witness-the-new-wave-of-earphones/) — English character and industry observation article, describing the two hosts’ non-traditional broadcasting tone, bilingual ability, program format, and podcast ecosystem position.
 
-[^5]: [Tatler Asia: 2021 Hottest Podcast 'Bailingguo News' Have You Heard?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021 host interview, providing show origins, international news goals, Podcast's companionship, livestreams and physical events, and Kelly and Ken's direct quotes.
+[^5]: [Tatler Asia: Have you listened to the hottest podcast of 2021 "Bailingguo News"?](https://www.tatlerasia.com/power-purpose/ideas-education/2021-podcast-taiwan-bailingguo-news) — 2021 host interview, providing program origins, international news goals, podcast companionship, live streaming and in-person events, and direct quotes from Kelly and Ken.
 
-[^6]: [Bailingguo News Official Website](https://www.bailingguonews.com/) — Creator-published show positioning, bilingual slogans, fixed upload times, and international news production methods, source for verifying first-party self-description.
+[^6]: [Bailingguo News Official Website](https://www.bailingguonews.com/) — Program positioning, bilingual slogan, fixed upload times, and international news production methods self-published by creators; it is the source for verifying first-party self-description.
 
-[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Official show on Apple Podcasts detail page, preserving hosts, bilingual conversation, show description, creator info and other first-party distribution data.
+[^7]: [Apple Podcasts: Bailingguo News](https://podcasts.apple.com/tw/podcast/%E7%99%BE%E9%9D%88%E6%9E%9C-news/id1106847606) — Official program’s detail page on Apple Podcasts, preserving first-party distribution data such as hosts, bilingual dialogue, program description, and creator information.
 
-[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Official show on Spotify detail page, listing show description and multiple concrete episodes with interviewed creators, for verifying program content scope.
+[^8]: [Spotify: Bailingguo News](https://open.spotify.com/show/5Vv32KtHB3peVZ8TeacUty) — Official program’s detail page on Spotify, listing program descriptions and multiple specific episodes and guest creators, for verifying program content scope.
 
-[^9]: [Spotify: The KK Show — 008 International News Boss: Fan Chi-fei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — January 2020 concrete episode page, preserving episode date, length, interviewee, and early show notes, traceable for Bailingguo's early form.
+[^9]: [Spotify: The KK Show — 008 International News Boss: Fan Chih-fei](https://open.spotify.com/episode/0jsL56wQGtB8MIBRL4puWx) — Specific episode page from January 2020, retaining episode date, length, interviewee, and early program description, allowing tracking of Bailingguo’s early forms.
 
-[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Concrete show detail page on Podcast platform, preserving Bailingguo's bilingual show description and host positioning, cross-verifiable with official self-introduction.
+[^10]: [SoundOn: Bailingguo News](https://player.soundon.fm/p/d316b355-aaa0-4632-b0e0-27188805aa04) — Specific program detail page on the podcast platform, preserving Bailingguo’s bilingual program description and host positioning, for cross-verifying official self-introduction.
 
-[^11]: [BIOS Monthly: Most Politically Incorrect Interview (Tremble) Spicing Out Perspectives Podcast](https://www.biosmonthly.com/article/10325) — 2020 Kelly and Ken figure interview, recording both's work backgrounds, show formation, and self-understanding of politically incorrect expression.
+[^11]: [BIOS Monthly: The Most Politically Incorrect Interview (Shake) Spits Out Viewpoints Podcast](https://www.biosmonthly.com/article/10325) — 2020 Kelly and Ken character interview, recording the two’s work background, program formation, and self-understanding of politically incorrect expression.

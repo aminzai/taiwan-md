@@ -1,9 +1,9 @@
 ---
-title: "Daxi Dried Tofu: After the River Port's Decline, How Black Dried Tofu Carried Daxi People's Homesickness Away from Home"
-description: "After the Dahan River shipping trade faded in the late Qing and early Republican era, Daxi people took dried tofu with them to mines, cities, and workplaces elsewhere. From caramelized-sugar coloring and well-water legends to the 2025 Dried Tofu Festival's design transformation, black dried tofu preserves not just a color but a local memory that kept flowing after the river port lost its water transport. As it becomes a city brand, can this migrant life still be tasted bite by bite, and can the craft be truly seen?"
+title: 'Daxi Tofu: After the River Port Declined, How Black Tofu Carries the Nostalgia of Daxi People Outward'
+description: 'After the decline of Dahan River transport in the late Qing and early Republic of China eras, Daxi residents took tofu to mines, cities, and workplaces. From the sugar-darkening coloring process and well-water legends to the 2025 Tofu Festival’s design transformation, the black tofu preserves not just a color, but a local memory that continues to flow after the river port left its waterways. When it becomes a city brand, can this life of leaving home still be slowly tasted bite by bite, allowing the craft to be seen?'
 date: 2026-08-20
 category: 'Food'
-tags: ['Daxi', 'dried tofu', 'Taoyuan', 'local cuisine', 'river port']
+tags: ['Daxi', 'Tofu', 'Taoyuan', 'Local Cuisine', 'River Port']
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -16,135 +16,135 @@ translatedFrom: 'Food/大溪豆乾.md'
 sourceCommitSha: '56b89c791'
 sourceContentHash: 'sha256:630da9b890460bec'
 sourceBodyHash: 'sha256:f3daf5d832d676fb'
-translatedAt: '2026-09-15T06:51:23+08:00'
+translatedAt: '2026-09-11T05:22:31+08:00'
 ---
 
-> **30-second overview**: Daxi dried tofu is more than an old-street souvenir. After the Dahan River shipping trade declined in the late Qing and early Republican era, many Daxi people left to make a living elsewhere, and shelf-stable, portable dried tofu went with them — transforming from a household staple into a parcel of homesickness. Its black color comes from caramelized sugar and braising craft; its fame was rebuilt through several turns involving mines, tourism, and local branding. Today, Daxi dried tofu faces a new question: when it is designed into a city brand, can people still taste that migrant life in every bite?
+> **30-Second Overview**: Daxi tofu is more than just a souvenir for the historic street. After the decline of Dahan River transport in the late Qing and early Republic of China eras, many Daxi residents went out to make a living. The long-lasting, easy-to-carry tofu followed them out, transforming from a daily food into a package of nostalgia. The black color comes from the sugar-darkening and braising craft, while its fame was reshaped through several turns in mines, tourism, and local branding. Today, Daxi tofu faces a new question: when it is designed as a city brand, can it still allow people to taste that life of leaving home?
 
-![Daxi Historic Street, photographer lienyuan lee, CC BY 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97%20Daxi%20Historic%20Street%20-%20panoramio%20%281%29.jpg)
+![Daxi Historic Street, photo by lienyuan lee, CC BY 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97%20Daxi%20Historic%20Street%20-%20panoramio%20%281%29.jpg)
 
-_Image: Daxi Historic Street. Photographer lienyuan lee, Creative Commons Attribution 3.0 Unported. Image not downloaded; using Wikimedia Commons hotlink. [^10]_
+_Caption: Daxi Historic Street. Photo by lienyuan lee, Creative Commons Attribution 3.0 Unported. Image not downloaded; uses Wikimedia Commons file hotlink. [^10]_
 
-## Black Was Not the Starting Point — Portability Was
+## Black Is Not the Starting Point; Portability Is
 
-Under the arcade eaves of Daxi's Heping Road, dried tofu signs greet tourists alongside Baroque shophouses. These storefronts make it seem as if dried tofu was born a tourism product, but the Daxi District Office's local introduction places the story elsewhere: water quality affects dried tofu's aroma and texture; after river shipping declined, dried tofu became a food for those who left home to soothe their homesickness. [^1]
+Under the eaves of old streets on Heping Road in Daxi, tofu signs welcome tourists alongside Baroque-style buildings. These storefronts might lead one to believe that tofu is inherently a tourist commodity, but the local introduction by the Daxi District Office places the story elsewhere: water quality affects the aroma and texture of the tofu, and after the decline of river transport, tofu became a food for those who went out to make a living to soothe their nostalgia. [^1]
 
-Daxi dried tofu was first a food that could be taken away; only later did it become a specialty that could be brought back. The Dahan River once carried timber, tea, and agricultural products into the river port; when ships no longer docked, dried tofu kept moving at a smaller scale — packed into luggage, lunchboxes, and parcels entrusted to others to carry home. [^4] [^9]
+Daxi tofu was first a food that could be taken away, and only later became a famous product that could be brought back. The Dahan River once transported timber, tea, and agricultural products into the river port. When ships no longer docked, tofu continued to move on a smaller scale, packed into luggage, bento boxes, and parcels entrusted to others to bring home. [^4] [^9]
 
-> 📝 **Curator's note:** Local specialties are often written as "flavors that stay in place." Daxi dried tofu is exactly the opposite. It became local memory precisely because it had to leave Daxi in order to be missed.
+> 📝 **Curator’s Note:** Local specialties are often written as "the flavor that stays in place." Daxi tofu is the opposite. It became a local memory precisely because it had to leave Daxi to be missed.
 
-## Caramelized Sugar Turned a Preservation Problem into Recognition
+## Sugar-Darkening Turns Preservation into Identity
 
-Regarding how black dried tofu emerged, Daxi local materials offer two not-entirely-identical family narratives. The Daxi Historical Neighborhood Reconstruction Association records that Lin Rong (林絨), who came from Zhangzhou, Fujian, brought five-spice black dried tofu technique in the early Republican era, cooking red sugar until charred into "_tang-wu_" (糖烏, caramelized sugar), then braising with spices. _Tang-wu_ not only colored the tofu but is also described as a preservation method. [^2]
+Regarding the origin of black tofu, local Daxi materials present two slightly different family narratives. According to the Daxi Historical Neighborhood Rebuilding Association, Lin Rong, who came from Zhangzhou, Fujian, brought the five-spice black tofu technique to Taiwan in the early Republic of China era. He charred brown sugar into "sugar-dark" (táng wū) and added spices for braising. The sugar-dark was described not only as a coloring agent but also as a method to extend shelf life. [^2]
 
-When the _Liberty Times_ interviewed local historians and vendors, it presented both the Lin Rong account and the Huang family account side by side. The Huang version places the turning point at a well and a very practical problem: white dried tofu did not keep well, so it was first preserved with salt, then colored with caramelized sugar, forming black dried tofu's flavor. These two versions cannot be forced into a single answer, because they represent respectively the industry narrative preserved by the local association, and a vendor family's memory of its own technical origins. [^3]
+When _Liberty Times_ interviewed local cultural workers and practitioners, it presented both the Lin Rong narrative and the Huang family narrative. The Huang family version places the turning point at a well and a very practical problem: white tofu does not keep well, so it was first preserved with salt, and later colored with caramel, forming the flavor of black tofu. These two versions cannot be forcibly merged into a single answer, as they represent, respectively, the industrial narrative preserved by the local association and the shopkeepers’ family memories of their own technical origins. [^3]
 
-Neither version can alone declare who "invented" black dried tofu. Together they point to a craft logic: tofu must first take shape, then have its moisture managed, and finally rely on _tang-wu_, salt, and five-spice brine to infuse flavor. Taiwan Kirin's modern process summary mentions soybeans soaked, ground into slurry, coagulated with salt brine into soft tofu, pressed in molds to drain water, then repeatedly steeped in caramelized sugar and five-spice brine. [^4]
+Neither version alone can claim who "invented" black tofu. They jointly point to a craft logic: tofu must first take shape, then moisture is processed, and finally, flavor is infused through sugar-dark, salt, and five-spice broth. The modern process compiled by Taiwan Qilin mentions soaking soybeans, grinding the slurry, coagulating with salt brine into tofu curd, molding and draining, and then repeatedly soaking in caramel and five-spice broth. [^4]
 
-## From Miners' Lunchboxes to Migrants' Parcels
+## From Miners’ Bento to Packages of Leaving Home
 
-Daxi dried tofu's first important customers were not necessarily today's camera-carrying old-street visitors. The Taoyuan City Government's 2025 Dried Tofu Festival press release points the early black dried tofu clientele toward miners; Taiwan Kirin's local essay also places soy products in the logging camps, coal mines, and workers' diets from the Japanese colonial period through the early postwar years. Dried tofu's small volume, salty-savory punch, ability to accompany rice, and readiness to eat on the job turned it from a street-side food into part of laboring life. [^4] [^5]
+The first important customers of Daxi tofu were likely not the people holding cameras today walking the historic street. The Taoyuan City Government’s 2025 Tofu Festival news points the early black tofu clientele toward miners, and Taiwan Qilin’s local feature places soy products within the logging camps, coal mines, and worker diets of the Japanese colonial to early post-war period. The small volume and savory richness of tofu, its ability to pair with rice, and its convenience for direct consumption on the go made it part of labor life. [^4] [^5]
 
-After river shipping ebbed, Daxi youth went elsewhere for work. The Daxi Historical Neighborhood Reconstruction Association's record is specific: some took dried tofu to their workplaces; some brought it back when returning home; even those unable to return entrusted others to carry it back. "Homesickness" is not enough — it was a recurring logistical act that let food stand in for people returning home. [^2]
+After the river transport declined, Daxi youth went elsewhere for work. The records of the Daxi Historical Neighborhood Rebuilding Association are specific: some took tofu to their workplaces, others brought it back when returning home, and those who could not return entrusted others to send it back. The word "nostalgia" is insufficient; it is a recurring logistical action that allows food to return home in place of people. [^2]
 
-So Daxi dried tofu's locality lies not only in water, beans, brine, or storefronts. It also lies in a group of people who, after leaving, still used a small packet of black dried tofu to maintain contact with their hometown. This is Daxi dried tofu's most counterintuitive quality: the more it was carried away, the more it resembled Daxi.
+Thus, the locality of Daxi tofu lies not only in water, beans, broth, or storefronts. It lies in the fact that after a group of people left, they still maintained a connection to their hometown with a small packet of black tofu. This is the most counter-intuitive aspect of Daxi tofu: the more it is taken away, the more it resembles Daxi.
 
-## Tourism Put Dried Tofu Back in Daxi
+## Tourism Puts Tofu Back into Daxi
 
-The second turn came from tourism. The _Liberty Times_ records that after the Cihu Mausoleum opened in 1975 (ROC year 64), tourists entered Daxi, dried tofu sales rose accordingly, and vendors expanded from single-variety dried tofu into leisure dried tofu, fermented tofu, soy milk, and other products. [^3]
+The second turning point comes from tourism. _Liberty Times_ records that after the opening of the Cihu Mausoleum in 1975 (ROC Year 64), tourists entered Daxi, and tofu sales increased accordingly. Practitioners also expanded from single tofu products to leisure tofu, tofu furu, and soy milk. [^3]
 
-The local curriculum website places dried tofu in a "knowing Daxi through industry" teaching context, noting it has become a common tourist souvenir. This shift made dried tofu not just food for Daxi people who left, but also something visitors to Daxi wanted to take away. A food that once flowed because of departure was pulled back to its origin's streets by tourism. [^8]
+Local curriculum websites place tofu within the teaching context of "understanding Daxi through industry," noting that it has become a common souvenir for Daxi tourism. This transformation means tofu is no longer just food for those who left Daxi, but also something outsiders want to take away when visiting Daxi. The food that originally flowed due to leaving home is pulled back to the streets of its origin due to tourism. [^8]
 
-![2021 Daxi Bridge, photographer Taiwankengo, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Daxi%20Bridge.jpg)
+![Daxi Bridge in 2021, photo by Taiwankengo, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Daxi%20Bridge.jpg)
 
-_Image: Daxi Bridge. Photographer Taiwankengo, Creative Commons Attribution-Share Alike 4.0. Image not downloaded; using Wikimedia Commons hotlink. [^11]_
+_Caption: Daxi Bridge. Photo by Taiwankengo, Creative Commons Attribution-Share Alike 4.0. Image not downloaded; uses Wikimedia Commons file hotlink. [^11]_
 
-> 📝 **Curator's note:** Tourism did not simply "preserve" Daxi dried tofu; it also changed how dried tofu is read. For those who left, dried tofu is a message sent from home. For tourists, dried tofu is proof they brought back from Daxi. Two kinds of people buy the same black block of food, but not the same kind of time.
+> 📝 **Curator’s Note:** Tourism did not simply "preserve" Daxi tofu; it also changed how tofu is read. For those who left home, tofu is a message sent from home. For tourists, tofu is proof that they brought it back from Daxi. Two groups buy the same black food, but not the same kind of time.
 
-## How Handmade Flavor Enters Factory and Brand
+## How Handmade Flavor Enters Factories and Brands
 
-Daxi dried tofu today relies on both handwork and machinery. The _Liberty Times_ records steps including cutting, seasoning, stir-frying at 100 °C, drying, resting, and packaging. These steps show that "old-fashioned flavor" can be continued through equipment. Processes once dependent on a master's touch were broken down into nodes for stable production. [^3]
+Today, Daxi tofu relies on both handmade methods and machinery. The process recorded by _Liberty Times_ includes cutting, seasoning, stir-frying at 100°C, drying, resting, and packaging. These steps show that old-fashioned flavors can be sustained through equipment. The process originally dependent on the master’s touch is broken down into nodes that can be stably produced. [^3]
 
-Local research also warns that old-street industries face pressure to transform and innovate. A cultural asset study of the Daxi Old Street area, starting from interactions among local groups, residents, vendors, and the district office, points out that woodcraft and dried tofu alike cannot survive on nostalgia alone. [^9] For dried tofu vendors, more product varieties, changed packaging, and higher hygiene standards do not equal abandoning tradition. The real question is: which flavors and steps still constitute "Daxi dried tofu," and which are merely decorations the market temporarily adds for the next tourist?
+Local research also reminds us that historic street industries face pressure for transformation and innovation. Cultural asset research on the Daxi Historic Street District starts from the interactions of local groups, residents, shopkeepers, and the district office, pointing out that industries like woodcraft and tofu cannot rely solely on nostalgia to survive. [^9] For tofu practitioners, having more products, changing packaging, and raising hygiene standards does not necessarily mean abandoning tradition. The real question is: which flavors and processes still constitute "Daxi tofu," and which are just decorations added for the next tourist?
 
-## What Will the Fourth Wave of Growth Look Like
+## What Will the Fourth Wave of Growth Look Like?
 
-The Taoyuan City Government's 2025 official news describes the Daxi Dried Tofu Festival as a local event held for over a decade, this year linking dried tofu, plant-based food, plant design, and youth design power through "plant-sense, craft-sense, quality-sense," with over 179 vendors participating. This shows Daxi dried tofu no longer competes only on food shelves, but also seeks new language in festivals, design, and city branding. [^5]
+The Taoyuan City Government’s 2025 official news describes the Daxi Tofu Festival as a local event held for over ten years. This year, it connects tofu, vegetarian food, plant design, and youth design power through "plant feel, craft feel, and texture feel," claiming over 179 practitioners participated. This indicates that Daxi tofu is no longer just competing in food cabinets but is also seeking new languages in festivals, design, and city branding. [^5]
 
-The Taoyuan Tourism website's event page situates the festival around the Daxi Wood Living Museum, placing Daxi Bridge, woodcraft, and dried tofu on the same touring route. [^6] This curatorial approach has benefits — food is no longer isolated on a souvenir shelf but reconnected to Daxi's shophouses, riverbanks, and woodcraft industry. The risk is also here: when every local memory is packaged into an event theme, the labor and departure stories that dried tofu originally carried may be covered over by pretty visuals.
+The Taoyuan Tourism Guide website places the Tofu Festival activities around the Daxi Wood Life Museum, placing Daxi Bridge, woodcraft, and tofu on the same strolling route. [^6] This curatorial approach has its benefits: food is no longer left lonely on souvenir shelves but is reconnected to Daxi’s historic streets, riverbanks, and woodcraft industries. The risk lies here too: when every local memory is packaged as an event theme, the labor and stories of leaving home that tofu originally carried might be covered up by beautiful visuals.
 
-What Daxi local industry truly needs is for consumers to know why a block of dried tofu must go through soaking, shaping, draining, _tang-wu_, and repeated braising — and to know these steps once answered needs for preservation, labor, and portability. When industry discusses food safety, shared branding, and industrial zones, it is actually discussing how to let this local craft continue to be trusted under new production conditions — not how to seal tradition away. [^7]
+What Daxi local industry truly needs is to let consumers know why a piece of tofu goes through soaking, shaping, draining, sugar-darkening, and multiple braising processes, and to know that these processes once responded to needs of preservation, labor, and portability. When industry discusses food safety, common brands, and industrial zones, it is actually discussing how to make this local craft continue to be trusted under new production conditions, rather than sealing tradition in amber. [^7]
 
-![Daxi Bridge and Dahan River, photographer CEphoto, Uwe Aranas, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/Daxi-Township%20Taoyuan%20Daxi-Bridge-01.jpg)
+![Daxi Bridge and Dahan River, photo by CEphoto, Uwe Aranas, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/Daxi-Township%20Taoyuan%20Daxi-Bridge-01.jpg)
 
-_Image: Daxi Bridge over the Dahan River. Photographer CEphoto, Uwe Aranas, Creative Commons Attribution-Share Alike 3.0. Image not downloaded; using Wikimedia Commons hotlink. [^12]_
+_Caption: Daxi Bridge on the Dahan River. Photo by CEphoto, Uwe Aranas, Creative Commons Attribution-Share Alike 3.0. Image not downloaded; uses Wikimedia Commons file hotlink. [^12]_
 
-> 📝 **Curator's note:** Daxi dried tofu's future is not a binary choice between "ancient method" and "modern." More worth asking: can modern equipment clearly explain the problems tradition genuinely solved, rather than just turning tradition into a vintage year on the package?
+> 📝 **Curator’s Note:** The future of Daxi tofu is not a binary choice between "ancient methods" and "modernity." What is more worth asking is: can modern equipment clearly articulate the problems that tradition truly solved, rather than just turning tradition into a year on packaging?
 
 ## The Triangle of Water, Hygiene, and Texture
 
-Daxi dried tofu's local accounts often place water quality at the center of the flavor story. The Daxi District Office says good water quality is the innate condition for dried tofu's aroma and texture. This statement should be treated as the local industry's self-understanding, not expanded directly into an unverified scientific conclusion. A more cautious reading: water, soybeans, coagulant, draining time, and brine together form texture; local memory simply writes the hardest-to-see element — water — as the story's entrance. [^1]
+Local narratives of Daxi tofu often place water quality at the center of flavor stories. The Daxi District Office states that good water quality is a先天 (innate) condition for the aroma and texture of tofu. This statement should be treated as the self-understanding of local industry, rather than directly expanded into an unverified scientific conclusion. A more stable reading is that water, soybeans, coagulants, draining time, and broth jointly form the texture, while local memory writes the hardest-to-see water as the entry point of the story. [^1]
 
-From the processes compiled by the _Liberty Times_ and Taiwan Kirin, dried tofu quality is not determined by a single well alone. Soybeans must be soaked, soy milk separated, soft tofu molded, water gradually expelled, and the formed tofu repeatedly processed in caramelized sugar and five-spice brine. Every step changes salinity, firmness, brine absorption, and preservation conditions. [^3] [^4] This is why "Daxi flavor" cannot be copied by simply adding one spice — because flavor hides in the accumulation of time, sequence, and operation.
+From the processes compiled by _Liberty Times_ and Taiwan Qilin, the quality of tofu is not determined by a single well alone. Soybeans must be soaked, soy milk separated, tofu curd molded, moisture gradually expelled, and after shaping, it undergoes repeated treatment with caramel and five-spice broth. Each step changes saltiness, hardness, juice absorption, and preservation conditions. [^3] [^4] This is why "Daxi flavor" cannot be replicated by simply adding one spice, because flavor hides in the accumulation of time, sequence, and operation.
 
-When dried tofu moved from shop kitchens into mass production and tourism channels, food safety became part of the local brand. The Taoyuan City Government has proposed certification marks, shared branding, shared wastewater treatment, and industrial zones. These policy terms may seem far from the dining table, but they directly answer consumers' questions: where was a block of dried tofu produced, how was it cleaned, how packaged, and who is responsible if something goes wrong. [^7]
+When tofu moves from shop kitchens to mass production and tourism channels, food safety becomes part of the local brand. The Taoyuan City Government has proposed directions such as certification marks, common brands, shared wastewater treatment, and industrial zones. These policy languages may seem far from the dining table, but they actually directly answer consumers' questions: where is a piece of tofu produced, how is it cleaned, how is it packaged, and who is responsible if problems arise. [^7]
 
-Therefore, the boundary between tradition and modernity lies not in whether firewood or machines are more authentic, but in whether processes can be clearly explained, hygiene responsibility traced, and the local name matched to a real production network. If Daxi dried tofu is to remain a local specialty, it must simultaneously let old customers taste the familiar salty-savory aroma, and let new customers understand how it is made and managed.
+Therefore, the boundary between tradition and modernity lies not in whether firewood or machines are more authentic, but in whether processes can be clearly explained, hygiene responsibilities traceable, and local names corresponding to real production networks. For Daxi tofu to continue as a local specialty, it must simultaneously allow old customers to taste the familiar savory richness and allow new customers to understand how it is made and managed.
 
-![2021 Daxi Bridge view, photographer Taiwankengo, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Daxi%20Bridge%20ii.jpg)
+![2021 Daxi Bridge Landscape, photo by Taiwankengo, CC BY-SA 4.0](https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Daxi%20Bridge%20ii.jpg)
 
-_Image: Daxi Bridge. Photographer Taiwankengo, Creative Commons Attribution-Share Alike 4.0. Image not downloaded; using Wikimedia Commons hotlink. [^13]_
+_Caption: Daxi Bridge. Photo by Taiwankengo, Creative Commons Attribution-Share Alike 4.0. Image not downloaded; uses Wikimedia Commons file hotlink. [^13]_
 
-![Daxi Bridge structure and riverbank, photographer CEphoto, Uwe Aranas, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/Daxi-Township%20Taoyuan%20Daxi-Bridge-02.jpg)
+![Daxi Bridge Structure and Riverbank, photo by CEphoto, Uwe Aranas, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/Special:FilePath/Daxi-Township%20Taoyuan%20Daxi-Bridge-02.jpg)
 
-_Image: Daxi Bridge and riverbank. Photographer CEphoto, Uwe Aranas, Creative Commons Attribution-Share Alike 3.0. Image not downloaded; using Wikimedia Commons hotlink. [^14]_
+_Caption: Daxi Bridge and riverbank. Photo by CEphoto, Uwe Aranas, Creative Commons Attribution-Share Alike 3.0. Image not downloaded; uses Wikimedia Commons file hotlink. [^14]_
 
-## Eat to the End, What Remains Is a Road
+## Eating to the End, What Remains Is a Path
 
-Buying Daxi dried tofu today, one can choose black dried tofu, red dried tofu, leisure dried tofu, or hot braised snacks. In Taiwan Kirin's process summary, black caramel and five-spice brine repeatedly penetrate the dried tofu, making black not just a surface color but a result jointly formed by texture, salinity, and aroma. [^4]
+Today, when buying Daxi tofu, one can choose black tofu, red tofu, leisure tofu, or hot braised dishes. In the process compiled by Taiwan Qilin, black caramel and five-spice broth repeatedly enter the tofu, making the black color not just a surface feature but a result formed jointly by texture, saltiness, and aroma. [^4]
 
-But if it is only understood as "Daxi's most delicious souvenir," the story loses half. Both the local association and the Daxi District Office place water, river shipping, leaving for work, and tourism on the same line. [^1] [^2] Dried tofu's flavor moves along a road people have walked. It went from river port to mines, from doorstep to distant places, and finally returned to the old street in tourists' luggage.
+But if we only understand it as "the best souvenir in Daxi," the story loses half its meaning. Local association and Daxi District Office materials place water, river transport, going out to make a living, and tourism on the same line. [^1] [^2] The flavor of tofu moves along a path walked by people. It goes from the river port to the mines, from the home door to outside, and finally back to the historic street from tourists' luggage.
 
-Daxi dried tofu does not preserve a forever-prosperous river port. It preserves the ability of people, after the port's decline, to still find ways to carry home on their bodies. Black is merely the most visible part. What truly makes it Daxi is that it always reminds us: some places must be left once to know you have been carrying them all along.
+Daxi tofu does not preserve a river port that is forever prosperous. It preserves the ability of people to find ways to carry home with them after the river port declined. Black is just the first part seen. What truly makes it Daxi is that it always reminds people: some places, you must leave once to know that you have always been carrying them.
 
 ## Further Reading
 
 - [Taoyuan City Daxi District Office: Industrial Culture](https://www.daxi.tycg.gov.tw/cp.aspx?n=7510)
-- [Daxi Historical Neighborhood Reconstruction Association: Daxi Specialties](https://daxi-oldst.com/home/index.php/industry/staple)
-- [_Liberty Times_ Food Recipe Freedom: Must Buy Dried Tofu in Daxi! Why Is Daxi Dried Tofu Especially Delicious?](https://food.ltn.com.tw/article/7136)
-- [Taiwan Kirin Happy Drinking Journal: Braised and Delicious! The Secret of How Daxi Dried Tofu "Braised" Its Way into Hearts](https://www.kirin.com.tw/blog/article/1617)
-- [Taoyuan City Government News Office: 2025 Plant-Sense Taoyuan Daxi Dried Tofu Festival](https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1589947)
-- [Taoyuan Tourism Guide: 2025 Plant-Sense Taoyuan Daxi Dried Tofu Festival](https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6422)
-- [Taoyuan Localized Curriculum: Daxi District Visiting Daxi Together](https://tlc.tyc.edu.tw/%E7%94%9F%E6%85%8B%E5%B7%A1%E7%A6%AE/%E5%A4%A7%E6%BA%AA%E5%8D%80%EF%BC%9A%E5%B0%8B%E8%A8%AA%E5%A4%A7%E6%BA%AA%E9%80%97%E9%99%A3%E4%BE%86/)
-- [Airiti Library: Study on Cultural Asset Utilization and Development in Daxi Old Street Area](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023)
-- [Small Place News: Daxi Old Street Area: Experience of Participatory Planning](https://www.dfun.tw/?p=8584)
+- [Daxi Historical Neighborhood Rebuilding Association: Daxi Specialties](https://daxi-oldst.com/home/index.php/industry/staple)
+- [Liberty Times Recipe Free Match: You Must Buy Tofu in Daxi! Why Is Daxi Tofu So Delicious?](https://food.ltn.com.tw/article/7136)
+- [Taiwan Qilin Leisure Drink Magazine: Lu Jia Lu Kou Jia! The Secret of Daxi Tofu "Lu" Winning Hearts](https://www.kirin.com.tw/blog/article/1617)
+- [Taoyuan City Government News Office: 2025 Plant-Feel Taoyuan Daxi Tofu Festival](https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1589947)
+- [Taoyuan Tourism Guide Website: 2025 Plant-Feel Taoyuan Daxi Tofu Festival](https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6422)
+- [Taoyuan Localized Curriculum: Exploring Daxi District, Come Together with Daxi](https://tlc.tyc.edu.tw/%E7%94%9F%E6%85%8B%E5%B7%A1%E7%A6%AE/%E5%A4%A7%E6%BA%AA%E5%8D%80%EF%BC%9A%E5%B0%8B%E8%A8%AA%E5%A4%A7%E6%BA%AA%E9%80%97%E9%99%A3%E4%BE%86/)
+- [Airiti Library: Research on the Use and Development of Cultural Assets in Daxi Historic Street District](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023)
+- [Small Place News Network: Daxi Historic Street District: Experience of Participatory Planning](https://www.dfun.tw/?p=8584)
 
 ## References
 
-[^1]: [Taoyuan City Daxi District Office: Industrial Culture](https://www.daxi.tycg.gov.tw/cp.aspx?n=7510) — Official local introduction explaining the connections among water quality, river shipping decline, leaving for work, and dried tofu industry reputation.
+[^1]: [Taoyuan City Daxi District Office: Industrial Culture](https://www.daxi.tycg.gov.tw/cp.aspx?n=7510) — Official local introduction, explaining the connection between water quality, the decline of river transport, going out to make a living, and the reputation of the tofu industry.
 
-[^2]: [Daxi Historical Neighborhood Reconstruction Association: Daxi Specialties](https://daxi-oldst.com/home/index.php/industry/staple) — Local association materials recording _tang-wu_, the Lin Rong account, river shipping, and the local narrative of dried tofu as a homesickness food.
+[^2]: [Daxi Historical Neighborhood Rebuilding Association: Daxi Specialties](https://daxi-oldst.com/home/index.php/industry/staple) — Local association materials, recording the sugar-dark, Lin Rong narrative, river transport, and the local narrative of tofu as a food of nostalgia.
 
-[^3]: [_Liberty Times_ Food Recipe Freedom: Must Buy Dried Tofu in Daxi! Why Is Daxi Dried Tofu Especially Delicious?](https://food.ltn.com.tw/article/7136) — 2018 interview with local historians and vendors, presenting different family origin accounts, the tourism turning point, process, and industry status.
+[^3]: [Liberty Times Recipe Free Match: You Must Buy Tofu in Daxi! Why Is Daxi Tofu So Delicious?](https://food.ltn.com.tw/article/7136) — 2018 interview with local cultural workers and practitioners, presenting different family origin narratives, tourism turning points, processes, and industry status.
 
-[^4]: [Taiwan Kirin Happy Drinking Journal: Braised and Delicious! The Secret of How Daxi Dried Tofu "Braised" Its Way into Hearts](https://www.kirin.com.tw/blog/article/1617) — Introduces connections between dried tofu, Daxi river shipping, and miners' diets, as well as soaking, shaping, draining, caramelized sugar, and five-spice braising process.
+[^4]: [Taiwan Qilin Leisure Drink Magazine: Lu Jia Lu Kou Jia! The Secret of Daxi Tofu "Lu" Winning Hearts](https://www.kirin.com.tw/blog/article/1617) — Introduces the connection between tofu and Daxi river transport/miner diets, and the processes of soaking, shaping, draining, caramel, and five-spice braising.
 
-[^5]: [Taoyuan City Government News Office: 2025 Plant-Sense Taoyuan Daxi Dried Tofu Festival](https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1589947) — Official event news providing festival years, 2025 theme, youth design, and 179 vendors information.
+[^5]: [Taoyuan City Government News Office: 2025 Plant-Feel Taoyuan Daxi Tofu Festival](https://news.tycg.gov.tw/News_Content.aspx?n=5016&sms=7885&s=1589947) — Official event news, providing the number of years the festival has been held, the 2025 theme, youth design, and information on 179 practitioners.
 
-[^6]: [Taoyuan Tourism Guide: 2025 Plant-Sense Taoyuan Daxi Dried Tofu Festival](https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6422) — Official event detail page presenting festival venues and local route relationships with Daxi Wood Living Museum and Daxi Bridge.
+[^6]: [Taoyuan Tourism Guide Website: 2025 Plant-Feel Taoyuan Daxi Tofu Festival](https://travel.tycg.gov.tw/zh-tw/event/calendardetail/6422) — Official event details page, presenting the event fields of the Tofu Festival and its relationship with local routes like Daxi Wood Life Museum and Daxi Bridge.
 
-[^7]: [Taoyuan City Government: Symposium with Daxi Dried Tofu Vendors — Mayor Cheng: Promote Certification Marks, Establish Industrial Zones](https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=300200) — City government news detail page involving shared branding, food safety, certification marks, and industrial zone directions. This page may show a protection page in some environments; maintainers should click to verify before citing.
+[^7]: [Taoyuan City Government: Mayor Zheng Holds Symposium with Daxi Tofu Practitioners: Promoting Certification Marks, Establishing Industrial Zones](https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=300200) — City government news details page, involving common brands, food safety, certification marks, and industrial zone directions. This page may encounter protection pages in some environments; maintainers should click to confirm before citing.
 
-[^8]: [Taoyuan Localized Curriculum: Daxi District Visiting Daxi Together](https://tlc.tyc.edu.tw/%E7%94%9F%E6%85%8B%E5%B7%A1%E7%A6%AE/%E5%A4%A7%E6%BA%AA%E5%8D%80%EF%BC%9A%E5%B0%8B%E8%A8%AA%E5%A4%A7%E6%BA%AA%E9%80%97%E9%99%A3%E4%BE%86/) — Local education website using dried tofu as a teaching entry point for understanding Daxi industry and tourism.
+[^8]: [Taoyuan Localized Curriculum: Exploring Daxi District, Come Together with Daxi](https://tlc.tyc.edu.tw/%E7%94%9F%E6%85%8B%E5%B7%A1%E7%A6%AE/%E5%A4%A7%E6%BA%AA%E5%8D%80%EF%BC%9A%E5%B0%8B%E8%A8%AA%E5%A4%A7%E6%BA%AA%E9%80%97%E9%99%A3%E4%BE%86/) — Local education website, using tofu as a teaching entry point to understand Daxi industry and tourism.
 
-[^9]: [Airiti Library: Study on Cultural Asset Utilization and Development in Daxi Old Street Area](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Study detail page providing research context on Daxi Old Street cultural assets, local groups, residents, vendors, and district office interactions.
+[^9]: [Airiti Library: Research on the Use and Development of Cultural Assets in Daxi Historic Street District](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — Research details page, providing the research context of Daxi historic street cultural assets, local groups, residents, shopkeepers, and district office interactions.
 
-[^10]: [Wikimedia Commons: Daxi Historic Street Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Photographer lienyuan lee, CC BY 3.0. Article image uses Wikimedia Commons `Special:FilePath` hotlink; image not downloaded.
+[^10]: [Wikimedia Commons: Daxi Historic Street Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — Photo by lienyuan lee, CC BY 3.0. Main text image uses Wikimedia Commons `Special:FilePath` hotlink; image not downloaded.
 
-[^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Photographer Taiwankengo, CC BY-SA 4.0. Article image uses `Special:FilePath` hotlink; image not downloaded.
+[^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — Photo by Taiwankengo, CC BY-SA 4.0. Main text image uses `Special:FilePath` hotlink; image not downloaded.
 
-[^12]: [Wikimedia Commons: Daxi-Township Taoyuan Daxi-Bridge-01.jpg](https://commons.wikimedia.org/wiki/File:Daxi-Township_Taoyuan_Daxi-Bridge-01.jpg) — Photographer CEphoto, Uwe Aranas, CC BY-SA 3.0. Article image uses `Special:FilePath` hotlink; image not downloaded.
+[^12]: [Wikimedia Commons: Daxi-Township Taoyuan Daxi-Bridge-01.jpg](https://commons.wikimedia.org/wiki/File:Daxi-Township_Taoyuan_Daxi-Bridge-01.jpg) — Photo by CEphoto, Uwe Aranas, CC BY-SA 3.0. Main text image uses `Special:FilePath` hotlink; image not downloaded.
 
-[^13]: [Wikimedia Commons: 2021 Daxi Bridge ii.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge_ii.jpg) — Photographer Taiwankengo, CC BY-SA 4.0. Article image uses `Special:FilePath` hotlink; image not downloaded.
+[^13]: [Wikimedia Commons: 2021 Daxi Bridge ii.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge_ii.jpg) — Photo by Taiwankengo, CC BY-SA 4.0. Main text image uses `Special:FilePath` hotlink; image not downloaded.
 
-[^14]: [Wikimedia Commons: Daxi-Township Taoyuan Daxi-Bridge-02.jpg](https://commons.wikimedia.org/wiki/File:Daxi-Township_Taoyuan_Daxi-Bridge-02.jpg) — Photographer CEphoto, Uwe Aranas, CC BY-SA 3.0. Article image uses `Special:FilePath` hotlink; image not downloaded.
+[^14]: [Wikimedia Commons: Daxi-Township Taoyuan Daxi-Bridge-02.jpg](https://commons.wikimedia.org/wiki/File:Daxi-Township_Taoyuan_Daxi-Bridge-02.jpg) — Photo by CEphoto, Uwe Aranas, CC BY-SA 3.0. Main text image uses `Special:FilePath` hotlink; image not downloaded.

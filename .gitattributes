@@ -2,3 +2,7 @@
 # This lets multiple translation PRs merge cleanly even when they all
 # add new entries near the end of the file.
 knowledge/_translations.json merge=union
+
+# Ensure shell scripts always keep LF endings on all platforms
+*.sh text eol=lf
+

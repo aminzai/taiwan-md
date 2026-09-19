@@ -1,64 +1,32 @@
 {
-  "lastUpdated": "2026-09-18T22:13:37.851Z",
+  "lastUpdated": "2026-09-19T00:41:17.776Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 7,
+  "count": 3,
   "alerts": [
-    {
-      "id": "organ-heart",
-      "severity": "red",
-      "message": "🫀 心臟 器官分數 30 < 50，需要干預",
-      "source": "dashboard-organism.json",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-09-15"
-    },
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=19.2（少 20.2 分）",
+      "message": "免疫 v3=58：漂移 — 多維度退化中",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "exp-overdue-EXP-2026-08-28-fncard",
-      "severity": "yellow",
-      "message": "UNKNOWNS EXP-2026-08-28-fncard 驗證日 2026-09-11 已過期未判定",
-      "source": "UNKNOWNS.md",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-09-12"
-    },
-    {
-      "id": "exp-overdue-EXP-2026-07-18-vi",
-      "severity": "yellow",
-      "message": "UNKNOWNS EXP-2026-07-18-vi 驗證日 2026-09-17 已過期未判定",
-      "source": "UNKNOWNS.md",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-09-18"
-    },
-    {
-      "id": "exp-overdue-EXP-2026-07-18-pt",
-      "severity": "yellow",
-      "message": "UNKNOWNS EXP-2026-07-18-pt 驗證日 2026-09-17 已過期未判定",
-      "source": "UNKNOWNS.md",
-      "owner": "twmd-self-evolve-weekly",
-      "firstSeen": "2026-09-18"
-    },
-    {
       "id": "memory-index-rows",
       "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 86 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "message": "MEMORY.md 索引 inline 97 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md",
       "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-09-18"
+      "firstSeen": "2026-09-17"
     },
     {
-      "id": "observer-absent",
+      "id": "routine-livestate-stale",
       "severity": "yellow",
-      "message": "觀察者缺席 12 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
-      "source": "observer-presence.py",
-      "owner": "twmd-weekly-report-sun",
-      "firstSeen": "2026-09-13"
+      "message": "routine-live-state.json dump 齡 242.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "source": "routine-live-state.json",
+      "owner": "twmd-data-refresh",
+      "firstSeen": "2026-09-17"
     }
   ]
 }

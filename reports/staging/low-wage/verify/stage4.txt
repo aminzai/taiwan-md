@@ -1,0 +1,20 @@
+🧬 knowledge/Society/誰算低薪.md
+   lang=zh-TW  category=Society  slug=誰算低薪
+   ✅ frontmatter-format  hard=0 warn=0
+   ✅ format-structure  hard=0 warn=0
+   ✅ wikilink-target  hard=0 warn=0
+   ✅ link-target  hard=0 warn=0
+   ✅ cjk-punct  hard=0 warn=0
+   ✅ chronicle-lead  hard=0 warn=0
+   ✅ word-count  hard=0 warn=0 info=1
+      info : 字數統計：6879 CJK chars (153% of 4500 門檻)
+   ✅ image-health  hard=0 warn=0 info=1
+      info : 圖片統計：2 inline + 1 hero (frontmatter) = 3 張
+   ✅ paragraph-rhythm  hard=0 warn=0
+   ✅ media-richness  hard=0 warn=0 info=3
+      info : 媒體統計：0 iframe + 3 image (門檻 image ≥ 3 hard / iframe ≥ 1 info-only)
+      info : iframe 0 < 1（缺影片素材，soft signal — 立體呈現理想配 video，但不阻擋 spore-publish ship）
+      info : 媒體數量 advisory：圖+影片 3 < 9 (depth 9427 字，~1 媒體/1100 字；長文 (≥7000 字) 朝 圖+影片 ≥ 8)。 富媒體範本：設研院 5 圖 / 陳建年 8 (圖+影片) / 天下 6。
+   ✅ viz-health  hard=0 warn=0
+
+Summary: hard=0  warn=0  info=5  passed=True (fail_on=hard)

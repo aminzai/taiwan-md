@@ -1,0 +1,32 @@
+{
+  "revision": 48,
+  "stage": "cold-read",
+  "actor": "cold-reader-6 (Sonnet agent a6024b10f23e408b4, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "主計總處同一場記者會給兩個答案：月薪算沒人低薪，年薪算 126 萬人。差別在年終等非經常性薪水沒有法律保障，只有本薪被最低工資頂住。文章拆三把尺、說明誰在分母誰被排除（三百多萬人）、列在野黨、工會、資方的說法，導向 9 月 24 日審議會。",
+    "changedUnderstanding": "原以為「沒人低薪」是硬拗，讀完知道兩個數字都是真的，差別在年終算不算、有沒有法律下限，不是誰說謊，是尺量的欄位不同。",
+    "fourChecks": {
+      "whyZeroAndMillion": "可以",
+      "whoIsOutside": "可以",
+      "whatLawProtects": "可以",
+      "whatHappens924": "可以"
+    },
+    "sideTaking": "沒有明顯替單一政黨或資方說話；通篇較同情被排除者這一側。",
+    "confusions": [
+      "70.03% 與 70.30% 兩個相近百分比初讀分不清是否同一組人",
+      "移工 43.6 萬與本國籍 43.6 萬雖標巧合仍要回翻"
+    ],
+    "repetitions": [
+      "「本薪有法律守著，年終沒有」講了三次以上",
+      "「同一個人、同一把尺、同一群人」句型開頭與中段各一次"
+    ],
+    "forcedConclusions": [
+      "墨西哥、哥倫比亞兩國就下「最低工資高度沒有決定線下有沒有人」",
+      "2016-2024 與 2021-2026 兩段不同口徑合併證明「薪水漲得比地板慢」"
+    ],
+    "readerVerdict": "revise",
+    "readerRationale": "四題都答得出、內容紮實，但核心句講三次以上，兩國例子下泛稱結論，可再收斂。"
+  }
+}

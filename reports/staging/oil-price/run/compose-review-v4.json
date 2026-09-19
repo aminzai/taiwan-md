@@ -1,0 +1,30 @@
+{
+  "revision": 38,
+  "submissionId": "56eedccd-3f1c-4d4e-b53b-53d38821d9a3",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "v3 兩處必改照改法落地：description 末句改「品項也可能不同」，去空格實測 160，正文「不只是汽柴油」0 次，門面句不再比正文的「含不含天然氣不斷言」更肯定；s7 改「前兩件是錢，第三件是分配，週報跟預算案本來就沒有這一欄」＋「兩份文件都沒有寫」，三份／兩份不一致與「沒有這一欄」重複消失，抽象可數的「帳」也洗掉。不擋建議採納兩處：s5 改成並列陳述「經濟部 9 月 3 日的新聞稿裡沒有再出現四年 3,500 億這個數字」（對研究報告 §11 #6 可核）、s8 改「15 美元的差距是兩把尺的差距」；「官方沒寫」句型主編保留四處，各對應 unresolved 第 6 條的真實缺口，密度已從六降到四，理由成立。四句改動沒有新腳註、新數字、新人名或新場景。article-health rewrite-stage-4 與全掃 hard=0 warn=0，prose-health score 1。revision 欄機制已由 orchestrator 說明，撤回前兩輪的行政提醒。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "frontmatter description 末句「品項也可能不同」；H2「日本補業者、香港補的士、台灣讓中油先扛」第 3 段「前兩件是錢，第三件是分配，週報跟預算案本來就沒有這一欄」「兩份文件都沒有寫」"
+    },
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「先墊的人」龔明鑫段「經濟部 9 月 3 日的新聞稿裡沒有再出現四年 3,500 億這個數字」；H2「那 36 元」讀數段「15 美元的差距是兩把尺的差距」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v4.json",
+      "location": "data.editorialChoices 末段 v4；data.unresolved 第 6 條"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§11 #6（經濟部 9/3 稿只寫 2,338.34、未提 3,500）、#7"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v4.md",
+      "location": "全文"
+    }
+  ]
+}

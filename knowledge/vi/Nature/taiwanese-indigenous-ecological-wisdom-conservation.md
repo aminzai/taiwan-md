@@ -199,4 +199,4 @@ Trí tuệ sinh thái của các dân tộc bản địa Đài Loan là của c�
 
 ---
 
-_Đọc thêm: [[台灣原住民族歷史與正名運動]] · [[台灣原住民族土地正義與傳統領域]] · [[台灣原住民族16族文化地圖]] · [[台灣原住民語言復振運動]] · [[台灣原住民飲食文化]] · [[台灣原住民當代藝術]]_
+_Đọc thêm: [Lịch sử và phong trào chính danh của các dân tộc bản địa Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement/) · [Công lý đất đai và lãnh thổ truyền thống của người bản địa](/vi/society/indigenous-land-justice-and-traditional-territories/) · [Bản đồ văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map/) · [Phong trào phục hồi ngôn ngữ bản địa](/vi/culture/indigenous-language-revitalization-movement/) · [Văn hóa ẩm thực của người bản địa Đài Loan](/vi/food/taiwan-indigenous-foodways/) · [Nghệ thuật đương đại của người bản địa Đài Loan](/vi/art/contemporary-indigenous-art-taiwan/)_

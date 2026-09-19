@@ -1,26 +1,26 @@
 ---
-title: 'Hong Nai: Von der Fangyuan-Bibliothek zur HahaTai-Straße – drei Namen, ein Stift'
-description: '1996 auf der Küstenstraße von Changhua geboren und in Fangyuan aufgewachsen, verwendet Hong Nai im Alltag den Namen „Jenny“ für Straßeninterviews bei HahaTai und schreibt unter „Hong Nai“ über Familie, das Leben in Peking, Auszubildende im Bäckereihandwerk und das Wachstum. Von „Süßer als die Melone?“ bis zum Buch „Der Melonenverkäufer“ verbirgt sich hinter den drei Namen die Methode einer Kreatorin, die öffentliche Arbeit und private Texte auf einer Lebenskarte unter einen Hut zu bringen.'
+title: 'Hung Chieh-ni: Drei Namen, eine Feder – von der Fangyuan-Bibliothek zur HahaTai-Straße'
+description: 'Hung Chieh-ni, 1996 an der Changhua-Küstenlinie geboren und in Fangyuan aufgewachsen, arbeitet als „Jiani" bei HahaTai als Straßeninterviewerin. Als Schriftstellerin veröffentlicht sie unter dem Namen „Hong Ni" Essays über Familie, das Leben in Taipei, ihre Ausbildung als Bäckerin und ihre Reifung. Von „Ist die Wassermelone süß?" bis zu „Die Melonenkäuferin" verbinden drei Namen die Art, wie eine Künstlerin öffentliche Arbeit und private Schrift auf derselben Landkarte des Lebens organisiert.'
 date: 2026-08-27
 category: 'People'
 tags:
   [
-    'Hong Nai',
-    'Hong Ji Nai',
-    'Jenny',
-    'Hong Ma Nai',
+    'Hung Chieh-ni',
+    'Hong Ni',
+    'Jiani',
+    'Hung Mama Ni',
     'HahaTai',
-    'Prosa',
-    'Küstenstraße Changhua',
-    'Lin Rong San Literaturpreis',
-    'Verlag und Medien',
+    'Essays',
+    'Changhua-Küstenlinie',
+    'Lin-Rong-san-Literaturpreis',
+    'Verlagswesen und Medien',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-27
 lastHumanReview: false
-curation: 'incubating'
+curation: incubating
 readingTime: 10
 image: '/article-images/people/watermelons-still-life.webp'
 imageCredit: 'Steve Evans / Wikimedia Commons'
@@ -30,123 +30,123 @@ translatedFrom: 'People/洪婕倪.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-09-09T14:15:07+08:00'
 ---
 
-# Hong Nai: Von der Fangyuan-Bibliothek zur HahaTai-Straße – drei Namen, ein Stift
+# Hung Chieh-ni: Drei Namen, eine Feder – von der Fangyuan-Bibliothek zur HahaTai-Straße
 
 > **30-Sekunden-Überblick:**  
-> Hong Nai, bürgerlich Hong Ji Nai, wurde 1996 auf der Küstenstraße von Changhua geboren und in Fangyuan aufgewachsen. Unter dem Namen Jenny tritt sie auf der Straße auf und sammelt Eindrücke von Fremden; unter dem Namen Hong Nai schreibt sie über Mutter, das Leben in Peking, Auszubildende im Bäckereihandwerk und unveröffentlichte Gefühle in Form von Prosa. Die zentrale Spannung ihrer Arbeit liegt darin, je öfter sie es gewohnt ist, anderen zuzuhören, desto wichtiger wird es für sie, selbst das Schwierigste auszusprechen.[^1] [^3]
+> Hung Chieh-ni, geboren 1996 an der Changhua-Küstenlinie, aufgewachsen in Fangyuan. Sie arbeitet als Jiani auf der Straße und sucht in den Antworten von Fremden nach lokalen Erfahrungen; sie schreibt als Hong Ni auf Papier und verwandelt ihre Mutter, ihr Leben in Taipei, ihre Lehrzeit als Bäckerin und Gefühle, die sie nicht teilen möchte, in Essays. Ihre Kernspannung liegt darin: Je mehr sie sich daran gewöhnt, anderen zuzuhören, desto mehr muss sie lernen, das Schwierigste über sich selbst auszusprechen. [^1] [^3]
 
-| 1996[^1]                                          | 3 Namen[^2]                                                                  |
-| ------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Hong Ji Nai geboren auf der Küstenstraße Changhua | Hong Ji Nai, Jenny, Hong Nai, später auch der Kindheitsspitzname Hong Ma Nai |
-| 2 preisgekrönte Prosa-Stücke[^1] [^2]             | „Süßer als die Melone?“, „Brotheld“                                          |
+| 1996[^1]                                                | 3 Namen[^2]                                                             |
+| ------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Hung Chieh-ni wurde an der Changhua-Küstenlinie geboren | Hung Chieh-ni, Jiani, Hong Ni, und die Kindheitsspitznamen Hung Mama Ni |
+| 2 preisgekrönte Essays[^1] [^2]                         | „Ist die Wassermelone süß?", „Der Doughman"                             |
 
-> **📝 Kuratorische Anmerkungen**  
-> Das Lesenswerteste an Hong Nai ist nicht, dass sie gleichzeitig Moderatorin und Schriftstellerin ist, sondern dass sie die Aufmerksamkeit beider Berufe gegenseitig miteinander verbindet: Straßeninterviews erzwingen ihr, Fremden mehr sagen zu lassen, während Prosa sie zwingt, zuzugeben, dass auch sie Dinge hat, die sie nicht sagen will.
+> **📝 Kuratoren-Notiz**  
+> Das Wertvollste an Hong Ni ist nicht, dass sie gleichzeitig Moderatorin und Schriftstellerin ist, sondern dass sie die Aufmerksamkeit beider Arbeiten gegenseitig zurückbringt: Street Interviewing fordert sie auf, Fremde noch ein Wort sagen zu lassen, ihre Essays fordern sie auf, zuzugeben, dass es auch Dinge gibt, die sie nicht aussprechen will.
 
-![Ein Haufen ganzer und geschnittener Wassermelonen, rote Fruchtfleisch- und dunkelgrüne Schale im Kontrast](/article-images/people/watermelons-still-life.webp)
+![Ein Haufen ganzer und aufgeschnittener Wassermelonen mit roten Fleischteilen und dunkelgrüner Schale](/article-images/people/watermelons-still-life.webp)
 
-_ Abbildung 1｜Wassermelonen als symbolische Metapher in Hong Nais Prosa „Süßer als die Melone?“. Fotograf: Steve Evans; Wikimedia Commons; CC BY 2.0. Das Bild zeigt weder Hong Nai noch taiwanesische Produktionsstätten. [^8]_
+_Abbildung 1 | Wassermelone als Situationsbild in Hong Nis Essay „Ist die Wassermelone süß?". Fotograf: Steve Evans; Wikimedia Commons; CC BY 2.0. Das Foto zeigt weder Hong Ni selbst noch ein Bild aus Taiwan. [^8]_
 
-1996 wurde Hong Ji Nai auf der Küstenstraße von Changhua geboren. 2023 erhielt sie mit „Süßer als die Melone?“ den Kleinprosa-Preis beim 19. Lin Rong San Literaturpreis; 2025 wurde „Brotheld“ als herausragende Prosa beim 21. Lin Rong San Literaturpreis ausgezeichnet.[^1] [^2] Dieselbe Person hinterließ in zwei Jahren zwei Prosa-Stücke und brachte die Leser dazu, ihre bislang getrennten Wege in Video und Text zu bemerken.
+1996 wurde Hung Chieh-ni an der Changhua-Küstenlinie geboren. 2023 gewann sie mit „Ist die Wassermelone süß?" den Preis für Miniaturen der 19. Lin-Rong-san-Literatur-Auszeichnung; 2025 erhielt „Der Doughman" einen Anerkennungspreis in der Essaysparte der 21. Lin-Rong-san-Literatur-Auszeichnung. [^1] [^2] Eine Person, die in zwei Jahren zwei Essays veröffentlichte und damit ihren Namen dokumentierte, machte Lesenden auch bewusst, wie sie ihre zwei Karrieren in Film und Schrift parallel verfolgt.
 
-Bei HahaTai heißt sie Jenny, plant Sendungen und leitet Straßeninterviews. Auf dem Papier heißt sie Hong Nai und schreibt über eine Melone, ein Stück Brot und ein Haus an der Küstenstraße – über Familie und Entwicklung. Als Yuan-Lou Verlag Hong Nais Buch „Der Melonenverkäufer“ vorstellte, nannte er sie Jenny, die Moderatorin bei HahaTai, und Hong Nai, die preisgekrönte Autorin.[^3] Das ist kein einfaches Doppelleben, sondern eine Methode, wie eine Kreatorin ihre öffentliche Arbeit und private Schreibweise miteinander verknüpft.
+Bei HahaTai heißt sie „Jiani" und arbeitet als Programmplanerin und Straßen-Moderatorin, stellt Fremden Fragen. Auf der Seite heißt sie „Hong Ni" und schreibt mit einer Wassermelone, einer Brotlaib und einem Zuhause an der Küstenlinie über Familienverhältnisse und Reifung. Yuan Liu Publishers stellt „Die Melonenkäuferin" vor und nennt sie sowohl die HahaTai-Moderatorin Jiani als auch die Gewinnerin des Lin-Rong-san-Literaturpreises Hong Ni. [^3] Dies ist kein einfaches doppeltes Lebenslauf, sondern eine Methode, wie eine Künstlerin sich zwischen öffentlicher Arbeit und privater Schrift verteilt.
 
-## Ein Tippfehler, der drei Namen hervorbrachte
+## Ein Schreibfehler, drei Namen
 
-Hong Nais bürgerlicher Name ist Hong Ji Nai, sie studierte Medienkommunikation an der Nationalen Taiwan Normal University. In der Vorstellung des Lin Rong San Literaturpreises wird erwähnt, dass sie mehrere Jahre Fernsehproduktionen gedreht hat, später auf Internetvideo umgestiegen ist und ihre Arbeiten in der „Fubon Daily“ erschienen sind.[^1] Ihr Weg folgte nicht der linearen Entwicklung vom Medienarbeiter zum Schriftsteller; Drehen, Moderieren, Planen und Schreiben überschneiden sich ständig, nur der Name, unter dem sie auftreten, wechselt.
+Hung Nis eigentlicher Name ist Hung Chieh-ni. Sie absolvierte das Studium in Public Relations an Shih Hsin University. Die Gewinner-Einführung der Lin-Rong-san-Literatur-Auszeichnung erwähnt, dass sie jahrelang Fernsehprogramme produzierte, sich dann digital-orientierten Filmarbeiten zuwandte und auch Beiträge in der United Daily News publizierte. [^1] Ihre Karriere verlief nicht auf einer direkten Linie vom „Filmschaffende zur Schriftstellerin"; Filmproduktion, Moderation, Planung und Schreiben überlappten sich immer, nur die nach außen verwendeten Namen waren unterschiedlich.
 
-Der Preisbericht von 2025 erklärt auch die Herkunft des Spitznamens Hong Ma Nai. In der Grundschule schrieb sie das Zeichen „Ji“ fälschlicherweise als „Ma“, und die Lehrerinnen lasen daraus „Hong Ma Nai“ vor. Dieser Tippfehler wurde so zum Kindheitsspitznamen.[^2] Ein einziger Strich auf dem Papier hinterließ den ersten Namen, der die Verbindung zwischen Name und Familie herstellte, und machte „Hong Ma Nai“ nicht nur zu einem charmanten Klangspiel, sondern zu einem lebendigen Beweis dafür, dass sie einmal so genannt wurde.
+Der Gewinnerbericht von 2025 ergänzt die Herkunft des Spitznamens „Hung Mama Ni". In der Grundschule schrieb sie das Schriftzeichen „婕" (jie) aus ihrem Namen falsch als „媽" (mama), der Lehrer las den Schreibfehler vor als „Hung Mama Ni", und dieser Fehler wurde seitdem zu ihrer Kindheitsspitznamen. [^2] Ein Schreibfehler schuf unerwartet die erste Verbindung zwischen Name und Familie und machte „Hung Mama Ni" mehr als nur ein süßes Wortspiel – es war ein gelebter Beweis dafür, dass sie so genannt und so erinnert worden war.
 
-In einem exklusiven Interview sagte sie: „Heute kann ich diese beiden Rollen natürlich nebeneinander existieren lassen, denn beide gehören zu mir dazu.“[^4] Mit „Rollen“ meinte sie die Haltung, die jede Arbeit und jedes Schreiben erfordert – nicht, dass sie sich in wahre und falsche Hälften spaltet. Jenny muss sich den Fremden gegenüberstellen, Hong Nai muss sich dem Gedächtnis gegenüberstellen; ein Name stellt Fragen nach außen, der andere Name behält sie für sich.
+In einem Interview sagte sie: „Jetzt kann ich diese beiden Rollen natürlich koexistieren lassen, weil beide ein Teil von mir sind." [^4] Mit „Rollen" meint sie die unterschiedlichen Haltungen, die Arbeit und Schreiben jeweils erfordern, nicht eine Aufteilung des Menschen in wahr und falsch. Jiani muss Fremde gegenübertreten, Hong Ni muss sich der Erinnerung stellen; ein Name stellt Fragen an andere, der andere Name behält Fragen für sich selbst.
 
-Das Podcast-Format „Verbotene Frauen lalaLand“ stellte im Februar 2025 Hong Ji Nai, Jenny und Hong Nai als verschiedene Identitäten desselben Gastes vor und sprach über ihre Straßeninterview-Arbeit, ihre literarischen Erfahrungen und ihr Schreiben.[^6] Die lockere Tonlage der Podcast-Seite verrät eine wichtige Realität: Sie hat nicht zuerst ein erfolgreiches Image gewählt und ihm dann eine literarische Biografie angehängt; die drei Namen sind Arbeitszeugnisse verschiedener Perioden, die erst im Buch aufeinandertreffen.
+Der Podcast „違章女生 lalaLand" (Illegal Girls lalaLand) führte in der Februarfolge 2025 auf, dass Hung Chieh-ni, Jiani und Hong Ni verschiedene Identitäten derselben Gästin sind und sprach über ihre Straßeninterviews, ihre literarischen Erfolge und ihr Schreiben. [^6] Der Ton der Podcast-Seite ist leicht, aber er offenbart eine wichtige Realität: Sie hat sich nicht erst ein erfolgreiches Image ausgesucht und dann eine literarische Biographie hinzugefügt; die drei Namen sind Arbeitsaufzeichnungen verschiedener Phasen, die sich erst später im Buch treffen.
 
-## Fangyuan-Bibliothek: Lokales Verständnis beginnt mit einem Buch
+## Fangyuan-Bibliothek: Das Ortsempfinden beginnt mit einem Buch
 
-Hong Nai wuchs in Fangyuan an der Küstenstraße von Changhua auf. Sie erinnert sich: „Da wir in der Nähe einer Bibliothek lebten, hatten alle fünf Kinder in unserer Familie das Lesen zur Gewohnheit.“[^4] Dieser Satz ist konkreter als „Schon als Kind mochte ich Literatur“: eine Bibliothek, eine Familie mit fünf Kindern und ein lesbarer Raum, der zu Fuß erreichbar ist, bilden das frühe Setting ihrer späteren Schreibweise.
+Hung Ni wuchs in Fangyuan an der Changhua-Küstenlinie auf. Sie erinnert sich: „Weil wir in der Nähe der Bibliothek wohnten, haben alle fünf Kinder in unserer Familie Lesegewohnheiten entwickelt." [^4] Dieser Satz ist konkreter als „ich liebte Literatur von klein auf": Ein Bibliotheksgebäude, eine fünfköpfige Familie und ein Ort zum Lesen, der zu Fuß zu erreichen ist, bilden die frühe Landschaft ihrer späteren Schrift.
 
-Dieser Anfang veränderte auch die Art und Weise, wie „Ort“ in ihren Werken erscheint. Fangyuan erscheint nicht nur in der Autorenbiografie, sondern verschmilzt mit Familie, Essen, Lesen und Rückkehr ins Heimatdorf. In einem Interview erwähnte sie, dass sie gerne durch Essen und Ort Städte kennenlernt und unterwegs Bücher mitnimmt; sie reiste sogar nach Fukuoka, um Hähnchenhaut oder nach Yuanhe in Yunlin, um Sauerkraut zu essen – ein Geschmack reicht aus, um loszureisen.[^4]
+Dieser Anfang verändert auch, wie „Ort" in ihren Werken erscheint. Fangyuan ist nicht nur ein Geburtsort in der Autorenbiographie, sondern erscheint zusammen mit Familie, Essen, Lesen und Besuchserfahrungen. Sie spricht in einem Interview davon, dass sie gerne Orte durch Essen und Ortsliteratur kennenlernt und auch beim Reisen Bücher mitnimmt; sie würde schon wegen einer Fukuoka-Hähnchenhaut oder einem sauren Gemüse aus Yunlin Dapi eine Reise unternehmen, weil ein Geschmack zum Ausgangspunkt wird. [^4]
 
-> **📝 Kuratorische Anmerkungen**  
-> Hong Nais Verständnis von Ort ist keine Liste von Sehenswürdigkeiten, sondern die Beziehung von „Wer isst hier was?“, „Wer legt was in den Kühlschrank?“ und „Wer ist in der Nähe der Bibliothek aufgewachsen?“. Wenn sie Changhua schreibt, schreibt sie davon, wie ein Ort in den Körper und das Gedächtnis einer Person eintritt.
+> **📝 Kuratoren-Notiz**  
+> Hong Nis Ortsempfinden ist nicht eine Liste von Sehenswürdigkeiten, sondern „Wer isst hier was, wer legt was in den Kühlschrank, wer ist in der Nähe der Bibliothek aufgewachsen" – diese Lebensbeziehungen. Wenn sie über Changhua schreibt, schreibt sie davon, wie Orte in den Körper und die Erinnerung eines Menschen eindringen.
 
-Der offizielle YouTube-Kanal von HahaTai stellt sich in Englisch als taiwanesisches Videoteam vor, dessen Inhalte Straßeninterviews, originale Formate und Gespräche über den Alltag, Beziehungen, Identität, lokale Kultur und taiwanesische Menschen umfassen.[^5] Diese offizielle Positionierung hilft, Jenny‘s Arbeit zu verstehen: Die Straße ist nicht nur Drehort, die Befragten sind nicht nur Material für Comedy, sondern Sprecher von Orts-Erfahrungen.
+Der offizielle YouTube-Kanal von HahaTai beschreibt sich auf Englisch als ein Video-Team aus Taiwan mit Street Interviews, Original-Serien und Gesprächen über alltägliches Leben, Beziehungen, Identität, lokale Kultur und taiwanesische Menschen. [^5] Diese offizielle Positionierung bietet den Hintergrund, um Janis Arbeit zu verstehen: Die Straße ist nicht nur eine Filmkulisse, Befragte sind nicht nur Material, das zu Lachpunkten geschnitten wird, sondern Sprechende lokaler Erfahrungen.
 
-## Jenny: Zuerst Antworten vorbereiten, dann die Realität widerlegen lassen
+## Jiani: Erst eine Antwort vorbereiten, dann die Gegenwart widerlegen
 
-Hong Nai sagte in „United Literature“ über Straßeninterviews, dass das Team zunächst die Vorurteile der Außenwelt über einen Ort kennen muss, um vor Ort zu prüfen, ob diese Vorurteile zutreffen.[^4] Das ist eine Methode mit Selbstzweifeln: zuerst recherchieren, aber die Recherche nicht als Endpunkt betrachten; zuerst wissen, was andere denken, dann die Frage an die Menschen, die dort leben, stellen.
+Hung Ni sagte in „United Daily News" über Interviews in lokalen Orten, dass das Team zuerst externe Vorurteile über einen Ort erfasst, bevor es vor Ort überprüft, ob diese Vorurteile wahr sind. [^4] Dies ist eine Interview-Methode voller Selbstzweifel: Hausaufgaben machen, aber die Hausaufgaben nicht als Schlussfolgerung behandeln; wissen, wie andere denken, dann die Frage an diejenigen geben, die dort leben.
 
-Die Schwierigkeit beim Straßeninterview liegt nicht darin, die erste Frage zu stellen, sondern darin, nach der ersten Antwort noch weiter zuzuhören. Das Podcast-Format fasst Hong Nais Arbeit als „Dokumentation der Epoche durch Straßeninterviews“ zusammen und zitiert ihre Worte über das Erreichen des Herzens, ihren Weg im Straßeninterview und die Arbeitsbelastung.[^6] In diesen öffentlichen Podcast-Daten ist das Straßeninterview gleichzeitig Inhaltproduktion und eine Form der Kontinuität, Menschen zu erreichen: Der Moderator muss die Befragten entspannen lassen und gleichzeitig in den zeitlichen und produktiven Anforderungen nach wirklich bedeutungsvollen Antworten finden.
+Die Schwierigkeit von Street Interviews liegt oft nicht in der ersten Frage, sondern darin, weiter zuzuhören nach der ersten Antwort. Der Podcast fasst Hong Nis Arbeit unter „Street Interview Recording Era" (Straßeninterview-Aufzeichnungszeitalter) zusammen und listet auf, wie sie von „Reaching Hearts Through Questions" (mit Fragen ins Herz treffen), Herzensreise und Arbeitsdruck spricht. [^6] In diesem öffentlich verfügbaren Podcast-Material ist Straßeninterview gleichzeitig Inhaltsproduktion und kontinuierliche Arbeit, Menschen näher zu kommen: Die Moderatorin muss Befragte entspannen lassen und auch innerhalb von Zeitbeschränkungen und Produktionsanforderungen wirklich bedeutsame Antworten finden.
 
-Diese Arbeitsausbildung machte ihre Prosa nicht nur gut darin, Emotionen zu beschreiben, sondern auch Emotionen an Gegenständen und Handlungen festzuhalten. Beim Straßeninterview wartet sie, bis der Fremde seine Worte vollendet hat; beim Schreiben wartet sie, bis eine Frucht, ein Stück Brot oder ein familiäres Gespräch eine tiefere Bedeutung offenbart. Beide Arbeiten vertrauen nicht darauf, dass die erste Antwort schon genug ist.
+Diese Arbeitserfahrung lässt ihre Essays nicht nur Emotionen beschreiben, sondern diese an Objekten und Handlungen festmachen. Beim Straßeninterview wartet sie darauf, dass Fremde ihre Worte vollständig aussprechen; beim Schreiben wartet sie darauf, dass eine Frucht, ein Brotlaib oder ein Familiengesprächsmoment eine andere Schicht offenbaren. Beide Arbeitsformen vertrauen nicht darauf, dass die erste Antwort genug ist.
 
-## „Süßer als die Melone?“: Die Haltbarkeit von Früchten ist auch die Haltbarkeit von Beziehungen
+## „Ist die Wassermelone süß?": Die Haltbarkeitsdauer der Frucht ist auch die Haltbarkeitsdauer der Beziehung
 
-„Süßer als die Melone?“ beginnt mit Hong Nais Liebe zu Wassermelonen. Sie schrieb, dass sie in der Uni drei Mahlzeiten am Tag mit Melone aß, sogar bis sie Durchfall bekam; wenn sie nach Hausekehrt, kauft ihre Mutter eine Melone und stellt sie in den Kühlschrank, damit sie zusammen essen können.[^7] Diese Lebensdetails werden nicht eilig zu großen Wahrheiten aufgebaut, doch „die Fürsorge der Mutter“ wird zu einer sichtbaren Handlung: Kaufen, in den Kühlschrank stellen, auf den Besucher warten.
+„Ist die Wassermelone süß?" beginnt mit Hong Nis Zuneigung zu Wassermelone. Sie schreibt, dass sie im Universitätsleben drei Mahlzeiten am Tag Wassermelone aß, bis sie Bauchschmerzen bekam; wenn sie nach Hause zurückkehrt, kauft ihre Mutter voraus eine Wassermelone und legt sie in den Kühlschrank, um gemeinsam zu essen, wenn die Tochter nach Hause kommt. [^7] Diese Lebensdetails werden nicht hastig zu einer Moral erhöht, aber machen „Mutters Sorgfalt" zu einer sichtbaren Handlung: nach Hause bringen, in den Kühlschrank legen, darauf warten, dass jemand nach Hause kommt.
 
-Das Werk lässt die Melone dann in ihrer anderen Seite erscheinen. Sie ist groß und zum Teilen geeignet, aber nicht lange haltbar; wenn jemand alleine in Peking lebt und niemand mit ihm die Melone teilt, wird das Fruchtfleisch sauer und muss weggeworfen werden.[^7] Hong Nai legt Zuneigung, Liebe und das Leben alleine unter denselben Haltbarkeitsdatum: Die Veränderung der Beziehungen wird nicht durch Erklärungen, sondern durch den säuerlichen Geruch, der beim Öffnen des Kühlschranks wahrnimmt.
+Das Werk lässt die Wassermelone dann eine andere Seite zeigen. Sie ist voluminös, zum Teilen geeignet, aber nicht lange haltbar; wenn eine Person in Taipei lebt und niemand die Frucht teilt, wird das unvollständige Fruchtfleisch sauer und muss weggeworfen werden. [^7] Hong Ni packt Familienzuneigung, romantische Liebe und ein Leben alleine in die gleiche Haltbarkeitsdauer, so dass die Veränderung von Beziehungen nicht durch Erklärung sichtbar wird, sondern Lesende den Säuerungsgeruch spüren, wenn der Kühlschrank geöffnet wird.
 
-> „Nur weil man ein Stück Obst isst, muss man niemandem etwas nachweisen.“ — Hong Nai, „Süßer als die Melone?“[^7]
+> „Es ist nur eine Frucht, niemand sollte jemanden dafür belasten." – Hong Ni in „Ist die Wassermelone süß?" [^7]
 
-Dieser Satz scheint über Obst zu sprechen, aber er spricht auch von der Anstrengung in Beziehungen. Wenn sie sich selbst mit einer geschnittenen Melone vergleicht, wandelt sich der Text von „mögen oder nicht mögen“ zu „soll man sich bemühen, zu bleiben“. Die Jury von „United Daily News“ anerkannte, dass das Werk von der gemeinsamen Zubereitung von Melonen über Zuneigung und Liebe schreibt, mit kraftvoller und nachhaltiger Ausdruckskraft.[^7]
+Diese Aussage scheint von Früchten zu sprechen, spricht aber auch von Zwang in Beziehungen. Wenn sie sich selbst als halbierte Wassermelone vergleicht, bewegt sich der Artikel von „Mag ich das oder nicht?" zu „Soll ich bleiben oder nicht, obwohl man mich dazu zwingt?" Die Redaktion „Free Times Weekly" erkannte in ihrer Bewertung, dass das Werk über das Teilen von Wassermelone von Familienliebe und romantischer Liebe spricht, wobei der Text direkt und doch nachhallend kraftvoll ist. [^7]
 
-## „Brotheld“: Ein paar Monate Auszubildende, sieben Jahre Überarbeitung
+## „Der Doughman": Einige Monate Lehrlingsleben, sieben Jahre Überarbeitung
 
-Ein weiterer Wendepunkt in Hong Nais Schaffen war eine kurze Ausbildungszeit als Bäcker. „Liberty Times“ berichtete, dass sie aus ihren Notizen der Auszubildenden heraus ein Entwurf schrieb, der nach sieben Jahren Reifung und Überarbeitung zur Prosa „Brotheld“ wurde; während der sich wiederholenden Arbeit der Bäckerei begann sie, über Brot, Liebe, materielle Lebensweise und Opfer zu denken, die sie opfern, um andere zu nähren.[^2]
+Hong Nis weiterer Wendepunkt ist eine nur wenige Monate dauernde Bäckerlehre. Die Free Times News berichtet, dass sie aus ihrem Lehrlingsleben einen Rohent-wurf ließ, nach sieben Jahren Reifung und wiederholter Überarbeitung „Der Doughman" vollendete; in der wiederholten Arbeit des Brotbackens begann sie, Brot und romantische Liebe, materielles Leben und Beziehungen, in denen man sich selbst opfert, um andere zu füttern, zu überdenken. [^2]
 
-Sie sagte: „Brot ist nicht nur Brot.“[^2] Dieser Satz ist keine Metapher, sondern eine Beschreibung, wie das Schreiben entsteht: Während die Hände die Routine ausführen, entsteht im Kopf eine Abzweigung aus der Wiederholung. Was ursprünglich nur ein Arbeitstagebuch war, entwickelte sich durch wiederholtes Lesen in Richtung der Beziehung zwischen Mutter und Tochter.
+Sie sagte: „Brot ist nicht nur Brot, weißt du?" [^2] Dieser Satz bedeutet nicht, Essen gewaltsam in Metapher zu zwingen, sondern beschreibt, wie Schreiben passiert: Die Hände machen standardisierte Arbeit, aber das Gehirn züchtet Abzweigungen aus Wiederholung. Ursprünglich nur Arbeitsmaterial für Aufzeichnungen fand durch wiederholtes Zurückblicken allmählich eine Verbindung zur Mutter-Tochter-Beziehung.
 
-„Brotheld“ schließlich kulminiert in der Beziehung zwischen Familie und Mutter-Tochter-Beziehung und wurde als herausragende Prosa beim 21. Lin Rong San Literaturpreis ausgezeichnet.[^2] Es verdeutlicht den Schreibstil von Hong Nai: das Verlangen nach der Idylle des ländlichen Lebens und das Gewicht der Berufserfahrung existieren gleichzeitig in ihren Werk; sie fragt in alltäglichen Gegenständen nach, wie ein Mensch opfert, verbraucht und lernt, sich selbst zu pflegen.
+„Der Doughman" endete mit Familienbeziehung und Mutter-Tochter-Zuneigung als Kern und erhielt eine Anerkennungsurkunde in der Essaysparte der 21. Lin-Rong-san-Literatur-Auszeichnung. [^2] Es macht Hong Nis Schreibbogen klarer: Nostalgie der lokalen Lebensweise und Gewicht der Berufserfahrung koexistieren in ihrem Schreiben; in alltäglichen Objekten fragt sie, wie eine Person gibt, wie sie sich verbraucht und wie sie neu lernt, sich selbst zu sorgen.
 
-## „Der Melonenverkäufer“: Wenn man nicht schreibt, vergisst man; wenn man schreibt, wird man gesehen
+## „Die Melonenkäuferin": Nicht schreiben heißt vergessen, Schreiben heißt gesehen werden
 
-„Der Melonenverkäufer“ ist Hong Nais erster Prosa-Sammlung. Laut Angaben des Yuan-Lou Verlags sammelt das Buch Texte von 2016 bis 2025, darunter Erinnerungen an die Familie an der Küstenstraße Changhua, das Leben in Peking, Arbeitserfahrungen und persönliche Entwicklung; darin enthalten sind auch „Brotheld“, „Süßer als die Melone?“, „Bis zum Herzen gereicht“ und „Die Sorgen der Jugend“.[^3]
+„Die Melonenkäuferin" ist Hong Nis erste Essay-Sammlung. Den Informationen von Yuan Liu Publishers zufolge enthält das Buch Schriften aus den letzten zehn Jahren ab 2016 mit Kapiteln über Erinnerungen an die Familie in der Changhua-Küstenlinie, Leben in Taipei, Berufserfahrung und persönliche Reifung. Es enthält auch Werke wie „Der Doughman", „Ist die Wassermelone süß?", „Reaching Hearts Through Questions" und „Die Verwirrungen der jugendlichen Existenz". [^3]
 
-Der Nachwort des Verlags nennt das Buch „ein Tagebuch der dreißigsten Lebensjahres“ und schreibt: „Dies ist mein Tagebuch im Alter von dreißig, einige Dinge, die ich vergesse, wenn ich sie nicht aufschreibe, und die ich nicht aussprechen kann.“[^3] Dieser Satz enthüllt die wahre Bedeutung des Titels. Die „Melonen“ im Buch sind nicht ein abgeschlossenes Lebenslaufwerk, sondern Lebensmaterial, das vor der Reife verarbeitet und vor der Verderblichkeit bewahrt werden muss.
+Die Verlagsseite nennt die Autorennotiz dieses Buches „Das Erinnerungsbuch meines dreißigsten Jahres" und schreibt: „Dies ist mein Erinnerungsbuch meines dreißigsten Jahres, einige Dinge, die ich vergesse, wenn ich nicht schreibe, und Dinge, die ich nicht aussprechen kann." [^3] Dieser Satz enthüllt das wahre Gewicht des Titels. Die „Melonen" in diesem Buch sind kein bereits organisiertes Leben, sondern Lebens-material, das vor der Reife verarbeitet, vor Verfall bewahrt werden muss.
 
-Das Schreiben übergibt private Erfahrungen an die Leser und führt die Autorin zurück zum Gedächtnis. Hong Nai sagte bei der Preisverleihung: „Die Texte, die ich am besten schreiben kann, sind genau die, die ich am wenigsten veröffentlichen will.“[^1] Dieser Satz spiegelt sich im Nachwort von „Der Melonenverkäufer“ wider: Wenn man nicht schreibt, verschwinden gewisse Dinge; wenn man sie aufschreibt, offenbaren sie sich auf eine andere Weise.
+Schreiben übergibt private Erfahrung an Lesende und treibt die Autorin zur Erinnerungsstätte zurück. Hong Ni sagte in ihrer Dankesrede für den Literaturpreis: „Das beste Schreiben, das ich geben kann, ist das, das ich am wenigsten sehen möchte, dass die Welt es sieht." [^1] Dieser Satz korrespondiert mit der Autorennotiz von „Die Melonenkäuferin": Nicht schreiben bedeutet, dass einige Dinge verschwinden; schreiben bedeutet, dass einige Dinge auf andere Weise offenbart werden.
 
-> **📝 Kuratorische Anmerkungen**  
-> Hong Nais Prosa bringt die Arbeitsweise der „HahaTai-Moderatorin“ zurück in die Familie und das Gedächtnis, und zeigt dem Leser, wie eine Person die Neugier, die sie nach außen richtet, nutzt, um sich selbst zu prüfen. Es geht nicht um eine Liste von Privatsphären, sondern um die Zögere, die entstehen, wenn man Privatsphären organisiert.
+> **📝 Kuratoren-Notiz**  
+> Hong Nis Essays bringen die Berufserfahrung der „HahaTai-Moderatorin" zurück zu Familie und Erinnerung und lassen Lesende sehen, wie eine Person ihre Neugier auf die Außenwelt in Selbstüberprüfung umwandelt. Sie offenbaren nicht eine Liste privater Angelegenheiten, sondern die Zögerung beim Organisieren von Privatheit.
 
-## Zwischen Kamera und Papier: Die gleiche Neugier bewahren
+## Zwischen Kamera und Papier, dieselbe Neugier bewahren
 
-Hong Nai kann sowohl im Kontext der modernen taiwanesischen Prosa als auch in der taiwanesischen Literaturgeschichte gelesen werden.[^台灣散文] [^台灣文學史] Ihr Werk gewinnt nicht durch große Themen an Gewicht, sondern durch die Art und Weise, wie Melonen, Brot, Kühlschrank, Bibliothek und Familie miteinander sprechen – Schritt für Schritt tragen sie Emotionen in sich. Diese Gegenstände sind klein, doch sie tragen die Lebensmaßstab eines ganzen Generationen in die Texte.
+Hong Ni kann in der zeitgenössischen taiwanesischen Essay-Literatur mit Alltagsschrift gelesen werden, und kann auch in den zeitgenössischen Kontext der taiwanesischen Literaturgeschichte verstanden werden. Ihre Werke bauen ihr Gewicht nicht auf großen Themen auf, sondern lassen Wassermelone, Brot, Kühlschrank, Bibliothek und Familie auf eine Weise sprechen, die Emotionen schrittweise tragen. Diese Objekte sind klein, aber sie bringen die Lebenskale einer Generation in den Text.
 
-Ihr Verhältnis zu Changhua ist auch nicht erst nach der Abreise als Heimweh entstanden. Die Bibliothek in Fangyuan, die Familie an der Küstenstraße und die Rückkehr essen früher schon zur Methode geworden, die Welt zu betrachten. Wenn sie auf der Straße in Peking Fremde befragt, nimmt sie nicht ein leeres Fragebogen mit, sondern eine Aufmerksamkeit, die aus dem ländlichen Leben erwachsen ist.
+Ihr Verhältnis zu Changhua ist nicht Heimweh, das sich nach der Auswanderung zeigt. Die Fangyuan-Bibliothek, die Küstenlinienfamilie und die Rückkehrspeisen aus Changhua bilden bereits ihre Art, die Welt zu betrachten. Wenn sie auf Taipeis Straße Fremde befragte, brachte sie nicht ein leeres Interview-Formular mit sich, sondern die Aufmerksamkeit, die in lokales Leben gestrickt ist.
 
-So bilden die beiden Namen Jenny und Hong Nai eine interessante Wechselbeziehung. Jenny übergibt das Thema auf der Straße an andere, Hong Nai nimmt es auf dem Papier für sich selbst zurück. Der eine muss mit unerwarteten Antworten zurechtkommen, der andere muss mit dem Schweigen vieler Jahre zurechtkommen. Die Arbeit mit dem Kamera erfordert unmittelbare Reaktion, die Prosa erfordert Nachdenken – doch beide beginnen mit derselben Bewegung: Nicht zu schnell für andere oder für sich selbst zu urteilen.
+Dies lässt die Namen Jiani und Hong Ni zu einem interessanten Hin-und-Her werden. Jiani übergibt das Gesprächsthema anderen in der Öffentlichkeit, Hong Ni sammelt es zurück auf sich selbst. Erstere muss improvisiert antworten, letztere muss Jahre altes Schweigen aushalten. Filmarbeit verlangt gegenwärtige Reaktion, Essay verlangt nachträgliche Zustimmung, aber beide beginnen mit derselben Bewegung: nicht zu schnell andere oder sich selbst zu schlüssen.
 
-Hong Nais drei Namen heben sich am Ende nicht gegenseitig auf. Hong Ji Nai ist der bürgerliche Name, Jenny ist die Identität, die auf die Straße tritt, und Hong Nai ist die Autorin, die die Melone schneidet und das Brot wieder formt. Hong Ma Nai bewahrt einen Schultippfehler zwischen diesen drei. Als sie schrieb: „Die Texte, die ich am wenigsten veröffentlichen will“, machte sie sich nicht zu einer transparenten Person, sondern ließ die Leser sehen: Ein Mensch kann Angst haben und trotzdem diese Seite weitergeben.
+Hong Nis drei Namen heben sich zuletzt nicht gegenseitig auf. Hung Chieh-ni ist der Geburtsname, Jiani ist die Arbeitsidentität in der Masse, Hong Ni ist die Autorin, die Wassermelone halbiert und Brot neu knetet. Hung Mama Ni hält einen Grundschul-Schreibfehler zwischen diesen drei. Wenn sie „das Schreiben, das ich am wenigsten sehen möchte" aufschreibt, wird sie nicht zu einem transparenten Menschen, sondern lässt Lesende sehen: Eine Person kann ihre Angst behalten und trotzdem, nach der Angst, diese Seite immer noch überreichen.
 
-## Bildnachweise
+## Bildquellen
 
-Dieser Artikel verwendet 1 Bild mit CC-Lizenz, das im Cache unter `public/article-images/people/` gespeichert ist, um Hotlinking zu vermeiden. Das Bild stammt von Steve Evans, lizenziert unter Creative Commons Attribution 2.0 Generic (CC BY 2.0); bei der Nutzung bitte den Namen des Fotografen, [die ursprüngliche Dateiseite](https://commons.wikimedia.org/wiki/File:Watermelons.jpg) und [die Lizenzbedingungen](https://creativecommons.org/licenses/by/2.0/) nennen. Das Bild dient nur als symbolische Metapher für „Süßer als die Melone?“ und steht weder für Hong Nai noch für Fangyuan oder taiwanesische Melonenanbau Gebiete.
+Dieser Artikel verwendet ein Bild mit CC-Lizenz, das in `public/article-images/people/` cachiert ist, um Hotlinks zur Quellserver zu vermeiden. Das Bild ist „Watermelons.jpg" von Steve Evans, lizenziert unter Creative Commons Attribution 2.0 Generic (CC BY 2.0). Bei Verwendung bitte den Fotografennamen behalten, die [ursprüngliche Dateiseite](https://commons.wikimedia.org/wiki/File:Watermelons.jpg) und die [Lizenzbedingungen](https://creativecommons.org/licenses/by/2.0/). Das Bild dient nur als Situationsbild für „Ist die Wassermelone süß?" und stellt weder Hong Ni selbst, noch Fangyuan noch eine Wassermelone aus Taiwan dar.
 
-## Weiterführende Literatur
+## Weiterführende Lektüre
 
-- [Hong Nai: „Süßer als die Melone?“ und Jurykommentare](https://art.ltn.com.tw/article/paper/1613865) — Wie Hong Nai von der Teilung und Verderblichkeit von Melonen schreibt, über Zuneigung, Liebe und Einsamkeit.
-- [„United Literature“: Exklusives Interview mit Jenny/Hong Nai](https://www.unitas.me/archives/62464) — Über die Leseerfahrung in Fangyuan, Methoden des Straßeninterviews und die Koexistenz verschiedener Arbeitsidentitäten.
-- [Bericht über den Gewinn von „Brotheld“](https://art.ltn.com.tw/article/breakingnews/5239392) — Wie die Erfahrung als Auszubildende in der Bäckerei nach sieben Jahren Überarbeitung zur Prosa über die Beziehung von Mutter und Tochter wurde.
-- [Yuan-Lou Verlag: „Der Melonenverkäufer“](https://m.ylib.com/book/YLM48) — Informationen zum Buch, Inhaltsverzeichnis, Nachwort und Veröffentlichungsdetails.
+- [Hong Ni „Ist die Wassermelone süß?" und Bewertung der Jury](https://art.ltn.com.tw/article/paper/1613865) — Lesen Sie Hong Nis Wasermelone-Essay über das Teilen und Verderben und verstehen Sie, wie sie von Familienliebe, romantischer Liebe und Einsamkeit schreibt.
+- [United Daily News Interview: Jiani / Hong Ni](https://www.unitas.me/archives/62464) — Erfahren Sie mehr über Fangyuans Lesehintergrund, lokale Street-Interview-Methoden und wie sie zwei Arbeitsnamen sieht.
+- [„Der Doughman" Gewinner-Nachricht](https://art.ltn.com.tw/article/breakingnews/5239392) — Verfolgen Sie, wie die Bäckerlehring-Erfahrung nach sieben Jahren Überarbeitung zur Mutter-Tochter-Essay wird.
+- [„Die Melonenkäuferin" Yuan Liu Publishers Seite](https://m.ylib.com/book/YLM48) — Überprüfen Sie die Buchbeschreibung, das Inhaltsverzeichnis, die Autorennotiz und Publikationsinformationen.
 
 ## Referenzen
 
-[^1]: [Liberty Times: 19. Lin Rong San Literaturpreis Kleinprosa-Preisträger](https://art.ltn.com.tw/article/paper/1610831) — Vorstellung der Preisträger im Preisbereich, dokumentiert Hong Nais Geburtsort, Ausbildung, Medienarbeit, literarische Karriere und Dankesrede.
+[^1]: [自由藝文網：第十九屆林榮三文學獎小品文獎得獎者](https://art.ltn.com.tw/article/paper/1610831) — Die Spezialabteilung des Literaturpreises Gewinnerintroduktion dokumentiert Hong Nis Herkunft, Bildung, Filmkarriere, literarische Erfahrung und Dankesrede.
 
-[^2]: [Liberty Times: 21. Lin Rong San Literaturpreis ausgezeichnete Prosa Hong Nai AKA Hong Ma Nai](https://art.ltn.com.tw/article/breakingnews/5239392) — 2025er Personenbericht, enthält Hong Nais Worte über die Auszubildende in der Bäckerei, den siebenjährigen Überarbeitungsprozess, das Thema Mutter-Tochter-Beziehung und die Herkunft des Spitznamens.
+[^2]: [自由藝文網：第二十一屆林榮三文學獎散文獎佳作洪倪 AKA 洪媽倪](https://art.ltn.com.tw/article/breakingnews/5239392) — 2025-Personennachricht, die Hong Nis Erzählung von der Bäckerlehrling-Erfahrung, der sieben Jahre Überarbeitungsgeschichte des Werks, des Mutter-Tochter-Themas und der Herkunft des Spitznamens enthält.
 
-[^3]: [Yuan-Lou Verlag: „Der Melonenverkäufer“](https://m.ylib.com/book/YLM48) — Offizielle Buchseite des Verlags, liefert Autorenprofil, Inhaltsverzeichnis, Werkpositionierung, Nachwort und Veröffentlichungsdetails.
+[^3]: [遠流出版：《賣瓜的人》](https://m.ylib.com/book/YLM48) — Offizielle Verlagsseite, die Autoreneinführung, Inhaltsverzeichnis, Werkpositionierung, Autorennotiz und Publikationsspezifikationen bereitstellt.
 
-[^4]: [United Literature: Jenny/Hong Nai: Unterschiedliche Namen, alle Teil von mir](https://www.unitas.me/archives/62464) — Exklusives Interview mit der Schriftstellerin, enthält Hong Nais Worte über die Lese-Erfahrung in Fangyuan, Essen und Ort, Straßeninterview-Arbeit und die Koexistenz verschiedener Identitäten.
+[^4]: [聯合文學：傑尼／洪倪：不同的名字，都是我的一部分](https://www.unitas.me/archives/62464) — Literarische Medienpersoneninterview, das Hong Nis eigene Worte über Fangyuans Lesehintergrund, Essen und Orte, Street-Interview-Arbeit und die Koexistenz von Identitäten enthält.
 
-[^5]: [Offizieller YouTube-Kanal von HahaTai](https://www.youtube.com/channel/UC9g4w3QvOCTM_3ok6WlH43Q/about) — Offizielle englische Kanalvorstellung von HahaTai, erklärt, dass das Team Straßeninterviews, originale Formate und Inhalte über den Alltag, Beziehungen, Identität, lokale Kultur und taiwanesische Menschen produziert.
+[^5]: [HahaTai official YouTube channel](https://www.youtube.com/channel/UC9g4w3QvOCTM_3ok6WlH43Q/about) — HahaTai's official English channel introduction explaining the team's focus on street interviews, original series, and everyday life, local culture and Taiwanese people.
 
-[^6]: [Apple Podcasts: Episode 221 Schreiben aus dem Herzen, die Epoche der Straßeninterviews mit Hong Nai/Jenny](https://podcasts.apple.com/us/podcast/ep221-%E5%AF%AB%E4%BD%9C%E7%9B%B4%E6%8A%92%E8%83%B8%E8%87%86-%E8%A1%97%E8%A8%AA%E8%A8%98%E9%8C%84%E6%99%82%E4%BB%A3-ft-%E6%B4%AA%E5%80%AA-%E5%82%91%E5%B0%BC/id1522808228?i=1000690947228) — 2025er Interview-Seite, enthält Themen, Straßeninterview-Erfahrungen und Schreibdiskussionen von Hong Nai/Jenny für die Hörer.
+[^6]: [Apple Podcasts：EP221 寫作直抒胸臆，街訪記錄時代 ft. 洪倪／傑尼](https://podcasts.apple.com/us/podcast/ep221-%E5%AF%AB%E4%BD%9C%E7%9B%B4%E6%8A%92%E8%83%B8%E8%87%86-%E8%A1%97%E8%A8%AA%E8%A8%98%E9%8C%84%E6%99%82%E4%BB%A3-ft-%E6%B4%AA%E5%80%AA-%E5%82%91%E5%B0%BC/id1522808228?i=1000690947228) — 2025 podcast episode page listing Hong Ni/Jiani's episode theme, street interview experiences and writing discussion segments for listeners to revisit the original interview.
 
-[^7]: [United Daily News: Hong Nai „Süßer als die Melone?“](https://art.ltn.com.tw/article/paper/1613865) — Volltext des preisgekrönten Werks und der Jurykommentare, direkt überprüfbar über die symbolische Metapher der Melone, Zitate aus dem Werk und die Analyse der Jury über Zuneigung und Liebe.
+[^7]: [自由副刊：洪倪〈西瓜甜不甜〉](https://art.ltn.com.tw/article/paper/1613865) — Full text and jury commentary of the award-winning work from the 19th Lin Rong-san Literature Award; readers can directly verify the watermelon imagery, work citations and jury analysis of family love and romantic love writing.
 
-[^8]: [Wikimedia Commons: Wassermelonen.jpg](https://commons.wikimedia.org/wiki/File:Watermelons.jpg) — Aufnahme von Steve Evans, CC BY 2.0; Original-Datei-URL und Lizenzhinweise.
+[^8]: [Wikimedia Commons：Watermelons.jpg](https://commons.wikimedia.org/wiki/File:Watermelons.jpg) — Photographed by Steve Evans, CC BY 2.0; original file URL and license terms.

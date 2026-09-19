@@ -21,7 +21,7 @@ translatedAt: '2026-09-17T06:43:35+08:00'
 
 ![阿里山林業鐵路列車](https://upload.wikimedia.org/wikipedia/commons/9/9a/Alishan_Forest_Railway.jpg)
 
-_図：阿里山林業鐵路列車。作者 Naplee12。CC BY-SA 3.0。画像ページとライセンス情報は[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway.jpg)を参照してください。[^9]_
+_図：阿里山林業鐵路列車。作者 Naplee12。CC BY-SA 3.0。画像ページとライセンス情報はWikimedia Commonsを参照してください。[^9]_
 
 ## 火車が最初に通過したのは風景ではなく、高度差でした
 
@@ -31,7 +31,7 @@ _図：阿里山林業鐵路列車。作者 Naplee12。CC BY-SA 3.0。画像ペ�
 
 ![阿里山林業鐵路 DL 36 柴油機車停靠北門](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_図：DL 36ディーゼル機関車が北門に停車している様子。作者 Industrial Wales。CC BY-SA 2.0。画像ページとライセンス情報は[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL*36%27_at_Beimen.jpg)を参照してください。[^10]*
+_図：DL 36ディーゼル機関車が北門に停車している様子。作者 Industrial Wales。CC BY-SA 2.0。画像ページとライセンス情報はWikimedia Commonsを参照してください。[^10]_
 
 このため、阿里山林鉄の「終点」は実は複数存在します。旅行者にとっての終点は阿里山駅です。初期の林業にとっては、木材が嘉義に到着し工場や市場に入るまででした。文化景観という視点では、単なる駅のホームで終わるのではなく、沿線集落がどのように生活を続けているかへと延長されます。この多重な終点が、ある列車の旅を単に低地から高地への移動だけでなく、異なる時代の台湾間を移動する体験にしているのです。
 
@@ -58,7 +58,7 @@ _図：DL 36ディーゼル機関車が北門に停車している様子。作�
 
 ![從阿里山林業鐵路車廂外望北門驛月台](https://upload.wikimedia.org/wikipedia/commons/0/0f/Alishan_Forest_Railway%2C_Beimen_Station%2C_Chiayi_CIty_%28Taiwan%29.jpg)
 
-_図：阿里山林業鐵路の車両から眺めた北門駅ホーム。作者 Malcolm Koo。CC BY-SA 4.0。画像ページとライセンス情報は[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpgを参照してください。[^11]\_
+_図：阿里山林業鐵路の車両から眺めた北門駅ホーム。作者 Malcolm Koo。CC BY-SA 4.0。画像ページとライセンス情報はWikimedia Commons.jpgを参照してください。[^11]\_
 
 鉄路がもたらした変化は山の上だけではありませんでした。製材工場、木材の卸売・加工場、従業員宿舎、商店、学校などが輸送システム沿いに集積し、嘉義は「木材の都」と呼ばれる、木材産業を核とした都市紋様を形成しました[^2]。一つの産業線が二つのことを同時に成し遂げたのです。それは、森林資源を山から運び出すことと、都市生活を山の中へ引き込むことでした。
 

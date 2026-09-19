@@ -1,6 +1,6 @@
 ---
-title: 'Megaport Festival: Festival Musik Outdoor Terbesar Taiwan yang Lahir di Pinggir Pelabuhan Kaohsiung'
-description: 'Megaport Festival adalah festival musik outdoor terbesar yang didirikan pada 2006 di pinggir pelabuhan Kaohsiung. Berawal dari pengalaman tim penyelenggara Wild Child Festival, anggota Shining Moon, dan TRA Music, festival ini menggabungkan band selatan Taiwan, panggung bahasa Hokkien, kartel internasional, desa isu NGO, dan pemandangan kota pelabuhan menjadi satu ruang. Hal ini menjadikan pinggir pelabuhan Kaohsiung sebagai tempat bertemu penting bagi budaya pendengar musik Taiwan, identitas kota, dan isu publik.'
+title: 'Megaport Festival: Festival Musik Taiwan yang Tumbuh di Pinggir Pelabuhan Kaohsiung'
+description: 'Megaport Festival adalah festival musik luar ruang berskala besar Taiwan yang didirikan di pinggir Pelabuhan Kaohsiung pada 2006, bermula dari pengalaman kurasi tim Wild Stage (野台開唱), anggota Chthonic (閃靈), dan TRA Music, menyatukan band-band Taiwan selatan, pertunjukan langsung berbahasa Taiwan, bintang internasional, kampung isu NGO, dan lanskap kota pelabuhan dalam satu arena. Festival ini menjadikan pinggir Pelabuhan Kaohsiung sebagai lokasi penting di mana budaya menonton konser Taiwan, identitas kota, dan isu-isu publik saling bertemu.'
 date: 2026-07-10
 category: 'Music'
 tags:
@@ -10,8 +10,8 @@ tags:
     'festival musik',
     'Kaohsiung',
     'musik independen',
-    'bahasa Hokkien',
-    'Shining Moon',
+    'bahasa Taiwan',
+    'Chthonic',
   ]
 subcategory: '音樂產業'
 author: 'Taiwan.md Contributors'
@@ -29,102 +29,102 @@ translatedFrom: 'Music/大港開唱.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:ded0e72872765bab'
 sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
-translatedAt: '2026-09-10T18:19:14+08:00'
+translatedAt: '2026-09-09T15:32:31+08:00'
 ---
 
-# Megaport Festival: Festival Musik Outdoor Terbesar Taiwan yang Lahir di Pinggir Pelabuhan Kaohsiung
+# Megaport Festival: Festival Musik Taiwan yang Tumbuh di Pinggir Pelabuhan Kaohsiung
 
-![ Panggung Panggung Terbuka 2025 di Megaport Festival, dengan lampu dan kerumunan penonton menghadap ke pelabuhan Kaohsiung yang luas. ](/article-images/music/megaport-festival-2025-namba-stage.webp)
-_ Panggung Panggung Terbuka 2025 di Megaport Festival. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+![2025 年大港開唱南霸天舞台，燈光與人群面向高雄港邊的大型舞台。](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_Panggung Selatan Megaport Festival 2025. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
-> **Ringkasan 30 detik:** Megaport Festival (Megaport Festival) adalah festival musik outdoor terbesar yang didirikan pada 2006 di pinggir pelabuhan Kaohsiung. Berawal dari pengalaman tim penyelenggara Wild Child Festival, awalnya dipimpin oleh Lin Chao-tsung, Doris Ye Hsiang-yi, dan tim TRA Music, kemudian dilanjutkan oleh Doris dan tim lain termasuk Dani Wang Tzu-chuan. Megaport menggabungkan band selatan Taiwan, pemandangan pelabuhan, panggung bahasa Hokkien, kartel internasional, kenangan populer Taiwan, dan desa isu NGO dalam satu akhir pekan. Ini mengubah dua hari pertunjukan menjadi cara bagi sebuah kota untuk menggambarkan kembali dirinya melalui suara.
+> **Ringkasan 30 detik:** Megaport Festival adalah festival musik luar ruang berskala besar yang didirikan di pinggir Pelabuhan Kaohsiung pada 2006. Festival ini bermula dari pengalaman tim Wild Stage (野台開唱), awalnya didorong oleh Lin Chang-tso (林昶佐), Doris Yeh (葉湘怡), dan tim TRA Music, kemudian diteruskan oleh Doris dan Dani Wang Tzu-hsiang (汪子驤) serta tim mereka. Megaport menyatukan band-band Taiwan selatan, lanskap pinggir pelabuhan, pertunjukan langsung berbahasa Taiwan, bintang internasional, kenangan pop Taiwan, dan kampung isu NGO, mengubah dua hari pertunjukan menjadi cara sebuah kota membayangkan dirinya sendiri melalui suara.
 
 ---
 
-Pada 2006, Kawasan Kreatif Kaohsiung (Bohai) baru saja bertransformasi dari gudang pelabuhan menjadi kawasan seni; MRT dan tram belum menghubungkan pinggir pelabuhan ke kehidupan kota sehari-hari.
+Pada 2006, Pier-2 (駁二) Kaohsiung baru saja bertransformasi dari gudang area pelabuhan menjadi kawasan seni khusus, MRT dan LRT belum menghubungkan pinggir pelabuhan ke kehidupan sehari-hari kota.
 
-Megaport Festival memulai di musim gugur tahun itu, di tepi pelabuhan Kaohsiung di dermaga nomor 11 dan 12. Halaman riwayat resmi mengingat kembali acara pertama dan menuliskan bahwa saat itu hanya ada tiga panggung: "Panggung Terbuka di Atas Air", "Raja Naga Laut", dan "Angin dan Gelombang"; di antara para penampil ada Sweet Mango, Chen Chi-xing, Hsieh Chin-yen, [[滅火器樂團]], Mint Leaf, Tizzy Bac, serta dari Jepang envy, YURA YURA TEIKOKU. Daftar acara ini menempatkan lagu independen Taiwan, suara alternatif Jepang, kenangan populer bahasa Hokkien, dan pelabuhan Kaohsiung pada akhir pekan yang sama. [^1]
+Megaport Festival digelar pada musim gugur tahun itu, di sisi Dermaga 11 dan 12 Pelabuhan Kaohsiung. Halaman HISTORY resmi menelaah edisi pertama dengan catatan bahwa saat itu hanya ada tiga panggung: "Nanbadian" (南霸天), "Hailongwang" (海龍王), dan "Fengyong" (風湧); daftar penampilnya mencakup Sweetme (甜梅號), Cheer Chen (陳綺貞), Jeannie Hsieh (謝金燕), Fire EX. (滅火器), Mint Leaves (薄荷葉), Tizzy Bac, serta band-band Jepang envy dan YURA YURA TEIKOKU. Daftar program ini menempatkan band independen Taiwan, suara bawah tanah Jepang, kenangan pop berbahasa Taiwan, dan pinggir Pelabuhan Kaohsiung dalam satu akhir pekan yang sama.[^1]
 
-## Selatan Bukan Sekadar Hiasan
+## Selatan Bukan Hiasan
 
-Titik awal Megaport Festival jelas terhubung dengan Wild Child Festival di Taipei.
+Titik awal Megaport Festival jelas terhubung dengan Wild Stage (野台開唱) di Taipei.
 
-Halaman resmi ABOUT menempatkan Megaport Festival sebagai festival musik yang didirikan oleh tim penyelenggara Wild Child Festival di Kaohsiung, dan bersama-sama Wild Child Festival di utara dan selatan, menjadi salah satu pelopor pasar festival musik outdoor terbesar Taiwan. Dalam wawancara VERSE, Doris mengingat tahun 2006 ketika dia bersama Freddy mengorganisir acara pertama Megaport bersama tim TRA Music, dengan slogan "Megaport mengalir dan bergelora, Raja Naga Laut di Panggung Terbuka di Atas Air", dengan tujuan menciptakan festival musik di selatan yang berbeda dari Wild Child Festival di Taipei. [^2][^3]
+Halaman ABOUT resmi memposisikan Megaport sebagai festival musik yang didirikan di Kaohsiung oleh tim penyelenggara Wild Stage, berdua dengan Wild Stage di utara dan selatan, menjadi pelopor pasar festival musik berskala besar di Taiwan. Dalam wawancara VERSE, Doris mengingat bahwa pada 2006 ia bersama Freddy (Lin Chang-tso) membawa tim TRA Music menggelar edisi pertama Megaport dengan slogan "Angin Beri di Pelabuhan Besar, Naga Laut di Selatan Megah" (大港起風湧，海龍南霸天), bertujuan menciptakan festival musik selatan yang berbeda dari Wild Stage di Taipei.[^2][^3]
 
-"Selatan" di sini bukan sekadar visual panggung, juga bukan slogan pemasaran. Setengah dari para penampil acara pertama berasal dari selatan Taiwan, dan nama panggungnya juga mencerminkan semangat pelabuhan: Panggung Terbuka di Atas Air, Raja Naga Laut, Angin dan Gelombang. Nama-nama ini kasar, terang, dan langsung, terhubung langsung dengan ruang terbuka luas di pinggir pelabuhan Kaohsiung, sehingga festival musik ini mulai berbicara dengan suara Kaohsiung sejak acara pertama. [^3]
+"Selatan" di sini bukan sekadar visual panggung, juga bukan jargon pemasaran. Setengah dari penampil edisi pertama Megaport berasal dari Taiwan selatan, nama-nama panggung juga bernuansa kota pelabuhan: Nanbadian, Hailongwang, Fengyong. Nama-nama ini kasar, cerah, langsung, menyatu dengan ruang terbuka pinggir Pelabuhan Kaohsiung, membuat festival musik sejak edisi pertama berbicara dengan nada Kaohsiung.[^3]
 
-## Tim Kurasi yang Tumbuh dari Shining Moon
+## Tim Kurator yang Tumbuh dari Chthonic
 
-Megaport sering disalahartikan sebagai festival musik yang didirikan oleh Lin Chao-tsung, namun yang benar-benar membuatnya menjadi merek jangka panjang adalah sebuah tim.
+Megaport sering dicatat oleh dunia luar sebagai festival yang didirikan Lin Chang-tso, tetapi yang benar-benar menjadikannya merek jangka panjang adalah sebuah tim.
 
-Wawancara VERSE menyatakan bahwa setelah Lin Chao-tsung terpilih sebagai anggota dewan legislatif pada 2016 dan mengundurkan diri dari tim Megaport Festival, Doris dan Dani mengambil alih. Doris memimpin pada tahun 2016 dan 2017, kemudian mengundurkan diri sebagai penasehat; Dani terlibat dalam pengaturan acara sejak 2016 dan disebut sebagai "Presiden" dalam tim. [^3]
+Wawancara VERSE menunjukkan bahwa setelah Lin Chang-tso terpilih menjadi anggota legislatif dan mundur dari tim Megaport pada 2016, Doris dan Dani yang memegang kendali. Doris memimpin pada 2016 dan 2017, kemudian mundur menjadi penasihat; Dani terlibat dalam pengelolaan acara sejak 2016, dikenal di tim sebagai "Presiden" (社長).[^3]
 
-Perubahan ini penting. Megaport Festival berevolusi dari anggota band, kurator, tim kerja, dan staf lapangan menjadi sistem jangka panjang, tidak hanya tertumpu pada daya tarik pribadi seorang bintang. Dani dalam VERSE berkata "jika tidak berkembang, maka mundur", dan perkataan ini sesuai dengan realitas operasional festival musik: panggung, jalur, area belakang, kebijakan pencegahan pandemi, penjualan tiket, merchandise, area istirahat penampil, semuanya harus dirancang ulang setiap tahun. [^4]
+Peralihan ini penting. Megaport dibangun oleh anggota band, kurator, tim kerja, dan pihak tempat secara bersama-sama menjadi institusi jangka panjang, tidak berhenti pada karisma bintang individu. Dani dalam VERSE berbicara tentang "tidak maju berarti mundur", kalimat ini jatuh ke realitas pengelolaan festival musik: panggung, alur, backstage, pencegahan wabah, penjualan tiket, merchandise, area istirahat penampil, setiap tahun harus dibangun ulang.[^4]
 
-Karena pengelola itu sendiri adalah penampil, Megaport Festival sejak dini mengadopsi konsep bahwa "penampil juga adalah klien penyelenggara". Dani percaya bahwa area belakang yang baik akan membuat penampil lebih santai dan penampilan di panggung lebih semangat; sementara Doris mengingatkan bahwa Megaport Festival terbatas oleh geografi pelabuhan, sehingga harus merancang sesuai kondisi lapangan. Internationalisasi Megaport Festival tidak hanya terlihat pada daftar band internasional, tetapi juga dalam cara mengemas pengalaman panggung festival musik asing ke pinggir pelabuhan Kaohsiung, dan perlahan-lahan mengisi ekosistem pertunjukan Taiwan. [^5]
+Justru karena pemimpinnya sendiri adalah penampil, Megaport sejak dini menganggap "penampil juga klien penyelenggara" sebagai konsep pengelolaan. Dani percaya backstage yang baik membuat penampil lebih santai, tampil di panggung pun lebih giat; Doris mengingatkan bahwa Megaport dibatasi oleh geografis pinggir pelabuhan, harus mengatur tata letak mengikuti kondisi tempat. Internasionalisasi Megaport karena itu tidak hanya terlihat pada daftar band asing, juga pada prosesnya menguraikan pengalaman festival musik luar negeri lalu menanamkannya kembali ke pinggir Pelabuhan Kaohsiung, sedikit demi sedikit melengkapi ekosistem pertunjukan Taiwan.[^5]
 
-![ Grup musik 1976 tampil di Megaport Festival 2016, dengan lampu pangang yang menerangi seluruh grup. ](https://upload.wikimedia.org/wikipedia/commons/e/ea/1976bandatMegaport2016.jpg)
-_ Grup musik 1976 tampil di Megaport Festival 2016. Foto: Po Sing Tew / Wikimedia Commons, CC BY 2.0._
+![1976 樂團 2016 年在大港開唱演出，舞台燈光照著整組樂團。](https://upload.wikimedia.org/wikipedia/commons/e/ea/1976bandatMegaport2016.jpg)
+_Band 1976 di Megaport Festival 2016. Foto: Po Sing Tew / Wikimedia Commons, CC BY 2.0._
 
-## Festival Musik untuk Kehidupan
+## Festival Musik Kehidupan
 
-Kurasi paling dikenal Megaport Festival tidak hanya terbatas pada musik independen.
+Kurasi paling khas Megaport tidak hanya soal band independen.
 
-Setelah kembali digelar pada 2015, Doris dan Dani mengundang He Yi-hang dan Chu Shui Creek Bikeway untuk tampil dalam "Show Panggung Gamelan Megaport". Kemudian, Shen Wen-cheng, Wang Cai-hua, Cai Gui, Huang Xi-tian, Hsieh Chin-yen, Cai Qiu-feng, dan generasi lain yang menyanyikan lagu bahasa Hokkien atau kenangan populer juga dibawa ke panggung Megaport. Pengaturan ini memperluas Megaport Festival dari "festival musik untuk penggemar" menjadi sebuah ruang yang dapat menampung rock alternatif, panggung gamelan bahasa Hokkien, idola, hiphop, metal, musik akustik, dan kolaborasi lintas disiplin ilmu. [^3][^6]
+Pasca-pembukaan kembali 2015, Doris dan Dani mengundang He Yi-hang (賀一航) dan Muddy Basin Ramblers (濁水溪公社) berkolaborasi dalam "Megaport Nightclub Show" (大港歌廳秀). Kemudian Shen Wen-cheng (沈文程), Wang Cai-hua (王彩樺), Cai Gui (蔡閨), Huang Si-tien (黃西田), Jeannie Hsieh (謝金燕), Cai Qiu-feng (蔡秋鳳) serta bintang-bintang berbahasa Taiwan dan kenangan pop dari generasi berbeda dibawa ke panggung Megaport. Penataan ini membuat Megaport meluas dari "festival musik untuk pecinta band" menjadi tempat yang sekaligus menampung rock bawah tanah, nightclub show berbahasa Taiwan, idola, hip-hop, heavy metal, folk, dan kolaborasi lintas genre.[^3][^6]
 
-Halaman resmi ABOUT menyebut Megaport Festival sebagai "Festival Musik untuk Kehidupan". Kalimat ini bukan sekadar slogan abstrak; ini mencerminkan metode kurasi: menempatkan berbagai tahap kehidupan, kenangan generasi yang berbeda, bahasa yang berbeda, dan selera musik yang berbeda bertemu di pinggir pelabuhan. Penggemar muda mungkin datang untuk melihat Blood Juice Machine dan Sunset Rollercoaster, namun dalam akhir pekan yang sama mereka juga bisa melihat Huang Xi-tian atau Shen Wen-cheng; suara bahasa Hokkien yang dikenal para orang tua juga akan didengar kembali melalui sistem suara berlebihan di festival musik ini. [^2]
+Halaman ABOUT resmi menyebut Megaport "Festival Musik Kehidupan" (人生的音樂祭). Kalimat ini bukan slogan abstrak; ia merujuk pada metode kurasi: menempatkan fase kehidupan berbeda, kenangan generasi berbeda, bahasa berbeda, dan selera musik berbeda bertemu di pinggir pelabuhan. Penikmat musik muda mungkin datang untuk The Murky (血肉果汁機) dan Sunset Rollercoaster (落日飛車), namun di akhir pekan yang sama menyaksikan Huang Si-tien atau Shen Wen-cheng; suara lagu berbahasa Taiwan yang akrab bagi orang tua, juga diputar ulang melalui sistem suara besar festival musik.[^2]
 
-![ Zheng Yi-nong tampil di Panggung Megaport Festival 2018, memegang gitar dan mikrofon. ](https://upload.wikimedia.org/wikipedia/commons/b/bc/Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)
-_ Zheng Yi-nong tampil di Panggung Megaport Festival 2018. Foto: Ken26729264 / Wikimedia Commons, CC BY-SA 4.0._
+![鄭宜農 2018 年於大港開唱舞台演出，手持吉他與麥克風。](https://upload.wikimedia.org/wikipedia/commons/b/bc/Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)
+_Cheng Yi-nung (鄭宜農) di panggung Megaport Festival 2018. Foto: Ken26729264 / Wikimedia Commons, CC BY-SA 4.0._
 
-## Desa Isu NGO dan Ruang Publik
+## Kampung Isu NGO dan Ruang Publik
 
-Garis lain Megaport Festival adalah isu publik.
+Garis lain Megaport adalah isu publik.
 
-Doris dalam VERSE berkata bahwa Megaport Festival mengatur desa isu NGO karena datang ke festival musik tidak berarti hal-hal yang harus diingat bisa dilupakan. Dani dan Doris juga menghubungkan desa isu NGO dengan semangat dari "Konser Keadilan Tanpa Batas" yang pernah diorganisir oleh Freddy, "Konser Penolakan terhadap Penggabungan Tiongkok", "Konser Kebebasan Tibet", dan lain-lain. Hal ini membuat kualitas publik Megaport Festival tidak hanya ada dalam beberapa lagu atau pernyataan tertentu dari seorang penampil, tetapi juga diatur sebagai bagian dari ruang itu sendiri. [^7]
+Doris dalam VERSE mengatakan Megaport menyediakan kampung isu NGO, karena hadir di festival musik tidak berarti hal-hal yang harus diingat lenyap. Dani dan Doris juga menghubungkan kampung isu NGO kembali ke semangat acara-acara yang pernah diselenggarakan Freddy seperti "Konser Keadilan Tak Terbantahkan" (正義無敵演唱會), "Konser Anti-Penggabungan oleh Tiongkok" (反中國併吞演唱會), "Konser Musik Kebebasan Tibet" (西藏自由音樂會). Hal ini membuat kepublikan Megaport tidak hanya ada di beberapa lagu atau ucapan beberapa penampil, tetapi dikonfigurasi sebagai bagian dari ruang itu sendiri.[^7]
 
-Kualitas publik ini juga menimbulkan kontroversi. Pada 2019, dalam sidang legislatif kota Kaohsiung, anggota partai Kebangkitan Nasional memutar klip penutur ahli kota Taipei Qiu Wei-jie yang mengucapkan kata kasar di panggung Megaport Festival; saat itu, Wali Kota Kaohsiung Han Guo-yu menjawab kritik dengan menyebutkan bahwa konten tersebut "kasar dan tidak pantas". Laporan Central News Agency mencatat pertarungan ini serta kecurigaan Huang Chieh terhadap standar ganda. [^8]
+Kepublikan ini juga menimbulkan kontroversi. Pada 2019, dalam interpelasi DPRD Kota Kaohsiung, anggota DPRD dari KMT memutar video anggota DPRD Taipei Chiou Wei-chieh (邱威傑) mengeluarkan kata-kata kasar di panggung Megaport; Wali Kota saat itu Han Kuo-yu (韓國瑜) menjawab interpelasi sambil menilai kontennya "kasar, biadab, tak pantas dilihat". Central News Agency (中央社) mencatat pertarungan ini, serta pertanyaan Huang Jie (黃捷) tentang standar ganda.[^8]
 
-Bagi Megaport Festival, kontroversi bukanlah hal sepelehnya. Ini menunjukkan bagaimana sebuah kota memandang budaya itu sendiri: festival musik bisa hanya menjadi aktivitas pariwisata, atau bisa menjadi ruang publik di mana generasi muda, band, NGO, tokoh politik, dan nilai-nilai kota saling bertukar dan bertemu.
+Bagi Megaport, kontroversi bukan cabang yang melenceng. Ia menunjukkan bagaimana sebuah kota memandang budayanya sendiri: festival musik bisa sekadar acara pariwisata, juga bisa menjadi ruang publik di mana kaum muda, band, NGO, tokoh politik, dan nilai-nilai kota saling bertumbukan.
 
-## Setelah Penjualan Habis
+## Setelah Habis Terjual
 
-Pada 2019, Megaport Festival mengumumkan penghentian, lalu kembali digelar pada 2021. Pada saat wawancara VERSE 2022, Doris sudah melihatnya sebagai hasil akumulasi jangka panjang, bukan sekadar ledakan berita dari satu peristiwa. Ia berkata, Megaport Festival sejak 2015 setiap tahun terjual habis, perbedaannya hanya dari penjualan sebelum acara menjadi penjualan habis sesaat setelah dibuka. [^9]
+Pada 2019 Megaport mengumumkan berhenti, 2021 dibuka kembali. Hingga wawancara VERSE 2022, Doris sudah memandangnya sebagai hasil akumulasi jangka panjang, bukan ledakan akibat satu peristiwa berita. Ia berkata, Megaport sejak 2015 tiap tahun habis terjual, bedanya hanya dari habis terjual sebelum acara, berubah jadi habis terjual segera setelah dibuka penjualan.[^9]
 
-Situs web resmi menampilkan Megaport Festival 2026 pada tanggal 21 dan 22 Maret, dengan lokasi yang ditunjuk sebagai Kawasan Kreatif Kaohsiung (Bohai); termasuk Sunset Rollercoaster, Ending Band, AiNA THE END, [[滅火器樂團]], Hiromi's Sonicwonder, Käärijä, Yang Fan, Blood Juice Machine, dan lain-lain. Daftar ini masih mempertahankan sifat campuran Megaport Festival: proyek musik animasi Jepang, peserta Eurovision dari Finlandia, rock Taiwan, dan kenangan populer bahasa Hokkien, semuanya bisa muncul bersamaan di akhir pekan di pinggir pelabuhan yang sama. [^10]
+Situs resmi menampilkan Megaport Festival 2026 dijadwalkan 21 dan 22 Maret, lokasi di Kawasan Seni Khusus Pier-2 (高雄駁二藝術特區); daftar penampil mencakup Sunset Rollercoaster (落日飛車), Kessoku Band (結束バンド), AiNA THE END, Fire EX. (滅火器), Hiromi's Sonicwonder, Käärijä, Yang Fan (陽帆), The Murky (血肉果汁機) dan lain-lain. Daftar ini tetap mempertahankan campuran khas Megaport: proyek band anime Jepang, tokoh pembicara Eurovision Finlandia, rock Taiwan dan kenangan pop berbahasa Taiwan, dapat berdampingan di satu akhir pekan di pinggir pelabuhan.[^10]
 
-Megaport Festival layak disebut secara mandiri bukan hanya karena ia besar, tiketnya sulit dibeli, atau kartelnya menarik. Yang lebih penting, ia menghubungkan beberapa garis penting dalam [budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/): visi lokal dan internasional Shining Moon, identitas kota selatan, ekologi panggung [[台灣獨立音樂]], kembalinya bahasa Hokkien sebagai bahasa kontemporer, dan kemungkinan festival musik sebagai ruang publik.
+Megaport Festival layak menjadi entri tersendiri, bukan hanya karena besar, tiket sulit didapat, atau daftar penampil menarik. Lebih penting, ia mengikat beberapa benang kunci dalam [budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/): visi lokal dan internasional Chthonic (閃靈), identitas kota Taiwan selatan, ekosistem pertunjukan [musik independen Taiwan](台灣獨立音樂), kembali bahasa Taiwan sebagai bahasa kontemporer, serta kemungkinan festival musik sebagai ruang publik.
 
-Beberapa festival musik seperti jadwal acara; Megaport Festival lebih seperti kota sementara. Dalam dua hari, gudang, pelabuhan, ladang rumput, dan gedung di pinggir pelabuhan semuanya ditamai kembali oleh suara. Setelah lampu dimatikan dan panggung dibongkar, banyak orang akan kembali tahun depan, seperti kembali ke kampung halaman yang hanya muncul pada bulan Maret.
+Beberapa festival musik seperti daftar program; Megaport lebih mirip kota sementara. Dalam dua hari, gudang, dermaga, rumput, dan venue di pinggir pelabuhan dinamai ulang oleh suara. Setelah lampu padam, panggung dibongkar, banyak orang tahun depan tetap kembali, seperti pulang ke kampung halaman yang hanya muncul di bulan Maret.
 
-**Bacaan Lanjutan**: Lin Chao-tsung, Shining Moon, [budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/), [[台灣獨立音樂]], [[滅火器樂團]]
+**Bacaan Lanjutan**: Lin Chang-tso (林昶佐), Chthonic (閃靈), [budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/), musik independen Taiwan (台灣獨立音樂), Fire EX. (滅火器樂團)
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 3 gambar dari Wikimedia Commons dengan lisensi CC:
+Artikel ini menggunakan 3 gambar berlisensi CC dari Wikimedia Commons:
 
-- **Panggung Panggung Terbuka 2025 di Megaport Festival** (hero) — Foto Xi.you 1010.2008 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)), 2025. Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **Penampilan Grup Musik 1976 di Megaport Festival** (scene-mid 1) — Foto Po Sing Tew ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1976bandatMegaport2016.jpg)), 2016. Lisensi: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-- **Penampilan Zheng Yi-nong di Megaport Festival** (scene-mid 2) — Foto Ken26729264 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)), 2018. Lisensi: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Panggung Selatan Megaport Festival 2025** (hero) — Foto Xi.you 1010.2008 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)), 2025. Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Band 1976 di Megaport Festival** (scene-mid 1) — Foto Po Sing Tew ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1976bandatMegaport2016.jpg)), 2016. Lisensi: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Cheng Yi-nung di Megaport Festival** (scene-mid 2) — Foto Ken26729264 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)), 2018. Lisensi: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referensi
 
-[^1]: [MEGAPORT FESTIVAL Megaport Festival: HISTORY](https://megaportfest.com/info/history/) — Halaman riwayat resmi Megaport Festival, mencatat poster, panggung, penampil, dan teks ulasan resmi dari 2006 hingga kini, merupakan pintu masuk utama untuk memverifikasi tahun dan kartel.
+[^1]: [Megaport Festival: HISTORY](https://megaportfest.com/info/history/) — Halaman sejarah resmi Megaport Festival, mengumpulkan poster, panggung, penampil, dan teks tinjauan resmi sejak 2006, menjadi pintu masuk utama sumber primer untuk verifikasi tahun dan daftar penampil.
 
-[^2]: [MEGAPORT FESTIVAL Megaport Festival: ABOUT](https://megaportfest.com/info/about/) — Halaman pengenalan resmi Megaport Festival, menjelaskan pendirian pada 2006, latar belakang Wild Child Festival, pemandangan pelabuhan, dan posisi "Festival Musik untuk Kehidupan".
+[^2]: [Megaport Festival: ABOUT](https://megaportfest.com/info/about/) — Halaman pengenalan resmi Megaport Festival, menjelaskan pendirian 2006, konteks Wild Stage, lanskap pinggir pelabuhan, dan posisi "Festival Musik Kehidupan".
 
-[^3]: [VERSE: "Megaport Festival: Asal-Usul dan Masa Depan" (bagian atas): Kehidupan di Panggung Festival Musik oleh Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Wawancara VERSE 2022 dengan Doris dan Dani, secara rinci menggambarkan pendirian pada 2006, pelabuhan Kaohsiung dermaga 11 dan 12, persentase band selatan Taiwan, penamaan panggung, dan perubahan tim operasional setelah 2016.
+[^3]: [VERSE: "Megaport Festival" Masa Lalu dan Kini (Bagian Atas): Hidup Pelaut Festival Musik di Tangan Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Wawancara VERSE 2022 dengan Doris dan Dani, menguraikan detail pendirian 2006, Dermaga 11 dan 12 Pelabuhan Kaohsiung, proporsi band Taiwan selatan, penamaan panggung, dan peralihan tim pengelola pasca-2016.
 
-[^4]: [VERSE: "Megaport Festival: Asal-Usul dan Masa Depan" (bagian atas): Kehidupan di Panggung Festival Musik oleh Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Catatan wawancara yang sama mencatat pandangan Dani tentang tekanan operasional "jika tidak berkembang, maka mundur" di Megaport Festival, termasuk tekanan kurator akibat pandemi, kebijakan pencegahan, jalur, dan pengalaman acara.
+[^4]: [VERSE: "Megaport Festival" Masa Lalu dan Kini (Bagian Atas): Hidup Pelaut Festival Musik di Tangan Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Wawancara yang sama mencatat pandangan Dani tentang "tidak maju berarti mundur" dalam pengelolaan festival, serta tekanan kurasi dari wabah, pencegahan wabah, alur, dan pengalaman acara.
 
-[^5]: [VERSE: "Megaport Festival: Asal-Usul dan Masa Depan" (bagian bawah): Bukan Hanya 16 Tahun, Melainkan Totalitas Budaya Sejarah Festival Musik Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Bagian bawah wawancara VERSE menempatkan Megaport Festival dalam konteks budaya pendengar musik Taiwan dan Wild Child Festival, serta membahas budaya penjualan tiket, area belakang penampil, dan pengalaman penampil.
+[^5]: [VERSE: "Megaport Festival" Masa Lalu dan Kini (Bagian Bawah): Bukan Hanya 16 Tahun, Melainkan Totalitas Sejarah Budaya Festival Musik Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Bagian bawah wawancara menempatkan Megaport dalam konteks Wild Stage dan budaya menonton konser Taiwan, serta membahas budaya tiket, backstage penampil, dan pengalaman penampil.
 
-[^6]: [MEGAPORT FESTIVAL Megaport Festival: HISTORY](https://megaportfest.com/info/history/) — Halaman kartel resmi Megaport Festival menampilkan berbagai generasi kenangan populer bahasa Hokkien dan populer yang berbeda, seperti Hsieh Chin-yen, Shen Wen-cheng, Huang Xi-tian, Cai Qiu-feng, yang ditempatkan bersama dengan band independen dan kartel internasional.
+[^6]: [Megaport Festival: HISTORY](https://megaportfest.com/info/history/) — Halaman daftar penampil tahunan resmi menampilkan penampilan Jeannie Hsieh, Shen Wen-cheng, Huang Si-tien, Cai Qiu-feng serta kenangan pop lintas generasi lain, berdampingan dengan band independen dan bintang internasional.
 
-[^7]: [VERSE: "Megaport Festival: Asal-Usul dan Masa Depan" (bagian atas): Kehidupan di Panggung Festival Musik oleh Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Wawancara menjelaskan asal-usul semangat desa isu NGO Megaport Festival, dan bagaimana Doris dan Dani memahami hubungan antara festival musik, kebebasan, keadilan, dan isu publik.
+[^7]: [VERSE: "Megaport Festival" Masa Lalu dan Kini (Bagian Atas): Hidup Pelaut Festival Musik di Tangan Pemimpin](https://www.verse.com.tw/article/megaport-festival-01) — Wawancara menjelaskan sumber semangat kampung isu NGO Megaport, serta bagaimana Doris dan Dani memahami hubungan festival musik dengan kebebasan, keadilan, dan isu publik.
 
-[^8]: [Central News Agency: Han Guo-yu Mengkritik Megaport Festival yang Tidak Pantas, Huang Chieh Mencurigai Standar Ganda](https://www.cna.com.tw/news/aloc/201909260286.aspx) — Laporan Central News Agency 2019 tentang kritik dan penolakan terhadap bahasa di panggung Megaport Festival selama sidang legislatif kota Kaohsiung, menampilkan kontroversi budaya politik yang ditimbulkan oleh sifat publik Megaport Festival.
+[^8]: [Central News Agency: Han Kuo-yu Kritik Megaport Festival Biadab, Huang Jie Pertanyakan Standar Ganda](https://www.cna.com.tw/news/aloc/201909260286.aspx) — Liputan Central News Agency 2019 tentang interpelasi DPRD Kota Kaohsiung yang mengkritik bahasa di panggung Megaport serta bantahan baliknya, memperlihatkan kontroversi budaya politik yang dipicu kepublikan Megaport.
 
-[^9]: [VERSE: "Megaport Festival: Asal-Usul dan Masa Depan" (bagian bawah): Bukan Hanya 16 Tahun, Melainkan Totalitas Budaya Sejarah Festival Musik Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Bagian bawah wawancara mencatat pandangan Doris tentang fenomena penjualan tiket habis Megaport Festival, menyatakan bahwa sejak 2015 setiap tahun terjual habis, bukan akibat satu kontroversi politik.
+[^9]: [VERSE: "Megaport Festival" Masa Lalu dan Kini (Bagian Bawah): Bukan Hanya 16 Tahun, Melainkan Totalitas Sejarah Budaya Festival Musik Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Bagian bawah wawancara mencatat penilaian Doris tentang fenomena habis terjual Megaport, menegaskan bahwa sejak 2015 tiap tahun habis terjual, bukan disebabkan oleh satu kontroversi politik saja.
 
-[^10]: [Situs Web Resmi MEGAPORT FESTIVAL Megaport Festival](https://megaportfest.com/) — Halaman beranda resmi mencantumkan tanggal, lokasi, slogan, dan sebagian kartel Megaport Festival 2026, digunakan untuk mengonfirmasi informasi publik hingga Juli 2026.
+[^10]: [Situs Resmi Megaport Festival](https://megaportfest.com/) — Halaman utama resmi mencantumkan jadwal, lokasi, slogan, dan sebagian daftar penampil Megaport Festival 2026, digunakan untuk mengonfirmasi informasi publik per Juli 2026.

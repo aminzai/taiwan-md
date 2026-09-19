@@ -1,0 +1,30 @@
+{
+  "revision": 22,
+  "submissionId": "835b4785-03e5-42c2-9c4c-1122a0b3466c",
+  "actor": "investigate-reviewer (Sonnet agent a8d21dd73077a31cf, fresh context, read brief + frozen stage0/stage1 + two submissions + raw txt/csv only)",
+  "verdict": "accept",
+  "rationale": "(a) 抽核 58.5 萬／41,397／70.30／59.57／15,840 五個數字全部在 raw 一手檔逐字對上，claims 的 source/location 對得上，support 與 doesNotSupport 分清；(b) counterEvidence 七條是真反證或修正（何佩珊先例、墨西哥／哥倫比亞推翻「71% 幾乎沒國家達到」、全體口徑重算修正角度二），第六條「角度三獲支持」是 confirmation 歸錯欄位但透明標注，投影時用「假說成立」語氣不用「反例」；核心讀者問題未被推翻，不需回 orient；(c) searchLimits 誠實，verification 三層是決定形態；(d) 合成層無任務指涉，Findings 自足，引語逐字綁 URL；(e) 自算數字全部標推算；(f) changedMind 三個實質改變。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/113-新聞稿.txt",
+      "location": "L18；L887 附近表 6 其他服務業列"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/11506-新聞稿.txt",
+      "location": "L96、L101"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/oecd-min-to-median.csv",
+      "location": "KOR, MEDIAN, 2025"
+    },
+    {
+      "path": "reports/staging/low-wage/investigate-submission.json",
+      "location": "data.counterEvidence[5]"
+    },
+    {
+      "path": "reports/staging/low-wage/stage1-research-frozen.md",
+      "location": "§8.A §2-5"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

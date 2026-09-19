@@ -1,18 +1,19 @@
 ---
-title: 'Tsai Jian-ya: Empatengali Penghargaan Penyanyi Terbaik, Bagaimana Orang Singapura Menjadikan Taiwan Sebagai Panggung Utama'
-description: 'Dari dimarahi oleh pianis di bar Singapura pada tahun 1996 hingga meraih empat penghargaan dalam satu malam di Penghargaan Golden Melody ke-33 pada tahun 2022, Tsai Jian-ya menghabiskan 26 tahun untuk menjadi pemegang rekor satu-satunya penerima empat gelar di industri musik berbahasa Tionghoa. Ia tidak lahir di Taiwan, tetapi Penghargaan Golden Melody, tempat tinggal, rekan kolaborasi, dan lagu yang paling sering dinyanyikan semuanya berakar di Taiwan—sebuah identitas lokal bagi seorang artis asing adalah pilihan untuk membatalkan kontrak Warner pada tahun 2006, pindah ke Taipei, dan mendirikan "Tianya Music Studio".'
+title: 'Tanya Chua: Empat Kali Pemenang Penghargaan Golden Melody, Bagaimana Orang Singapura Menjadikan Taiwan Panggungnya'
+description: 'Dari saat seorang pemain keyboard menyuruhnya diam di sebuah bar di Singapura pada 1996, sampai malam ketika ia membawa pulang empat piala sekaligus di Golden Melody Awards ke-33 tahun 2022, Tanya Chua menghabiskan 26 tahun untuk menjadi satu-satunya pemegang rekor empat kali Penyanyi Wanita Terbaik di industri musik Mandarin. Ia tidak lahir di Taiwan, tetapi Golden Melody Awards, tempat tinggalnya, para kolaboratornya, dan lagu-lagunya yang paling banyak dinyanyikan semuanya tumbuh di Taiwan — identitas lokal seorang musisi asing lahir dari keputusan tahun 2006: mengakhiri kontrak dengan Warner, pindah sendiri ke Taipei, dan mendirikan studio musik Tian Ya (天涯音樂工作室).'
 date: 2026-04-28
 category: 'People'
 tags:
   [
-    'Tsai Jian-ya',
     'Tanya Chua',
-    'Penghargaan Golden Melody',
-    'penyanyi-penulis lagu',
+    'Tanya Chua',
+    'Penghargaan Golden Melody Awards',
+    'singer-songwriter',
     'Singapura',
-    'industri musik berbahasa Tionghoa',
-    'produser',
-    'kreasi',
+    'Industri musik Mandarin',
+    'Produser',
+    'Komposer lagu',
+    'Blank Grid',
     'DEPART',
   ]
 subcategory: '當代音樂人'
@@ -25,188 +26,188 @@ translatedFrom: 'People/蔡健雅.md'
 sourceCommitSha: 'dc7865f06'
 sourceContentHash: 'sha256:0b4776a25d38b2ed'
 sourceBodyHash: 'sha256:126c0129a0743d8a'
-translatedAt: '2026-09-17T06:43:41+08:00'
+translatedAt: '2026-09-09T15:32:33+08:00'
 ---
 
-# Tsai Jian-ya: Empatengali Penghargaan Penyanyi Terbaik, Bagaimana Orang Singapura Menjadikan Taiwan Sebagai Panggung Utama
+# Tanya Chua: Empat Kali Pemenang Penghargaan Golden Melody, Bagaimana Orang Singapura Menjadikan Taiwan Panggungnya
 
-> **Ringkasan 30 Detik:** Tsai Jian-ya adalah orang Singapura, lahir di Singapura pada tahun 1975. Ia memasuki industri musik berbahasa Tionghoa dengan album pertamanya 《呼吸》 (Hūxī) pada tahun 1999, dan hingga kini telah berusia 26 tahun dalam industri tersebut. Ia adalah penerima empat penghargaan untuk penyanyi wanita berbahasa Tionghoa/berbahasa Mandarin (2006/2008/2012/2022), dan satu-satunya penyanyi yang meraih empat penghargaan Golden Melody dalam satu malam—pada Penghargaan ke-33 tahun 2022, album 《DEPART》 menyapu bersih penghargaan Album Terbaik Tahun Ini, Album Berbahasa Tionghoa Terbaik, Rekaman Vokal Terbaik, dan Penyanyi Wanita Berbahasa Tionghoa Terbaik. Ia bukan hanya penyanyi, tetapi juga produser; pada tahun 2008 ia meraih dua penghargaan sekaligus: Penyanyi Wanita Berbahasa Mandarin Terbaik + Produser Album Terbaik. Ia pernah menulis lagu dan memproduksi album untuk Faye Wong, Stefanie Sun, Jolin Tsai, Jing Ru, Na Ying, dan Candy Chang. Pada tahun 2024, ia mengerjakan proyek musik drama 《不夠善良的我們》 (Bù Gòu Shànliáng de Wǒmen). Ia tidak pernah memiliki paspor Taiwan, tetapi pulau ini adalah panggung utamanya secara substansial.
+> **Ringkasan 30 detik:** Tanya Chua adalah orang Singapura, lahir tahun 1975 di Singapura, meluncurkan album Mandarin pertamanya "Breathing" tahun 1999 dan memasuki industri musik Mandarin, hingga kini 26 tahun. Dia adalah pemenang empat kali dari Penghargaan Golden Melody untuk Penyanyi Mandarin/Wanita Terbaik (2006/2008/2012/2022), dan satu-satunya penyanyi wanita yang dapat memenangkan empat penghargaan Golden Melody dalam satu malam—tahun 2022 Penghargaan Golden Melody ke-33, album "DEPART" menyapu penghargaan untuk Album Tahun Terbaik, Album Mandarin Terbaik, Perekaman Vokal Terbaik, dan Penyanyi Mandarin Wanita Terbaik. Dia bukan hanya penyanyi, tetapi juga produser, pada tahun 2008 memenangkan ganda penghargaan untuk Penyanyi Mandarin Wanita Terbaik + Produser Album Terbaik. Telah menulis lagu untuk Wang Fei, Sun Yan-zi, A-mei, Leehom Wang, Na Ying, Rainie Yang, dan merancang musik untuk proyek drama lain. Dia telah memenangkan Penghargaan Golden Melody untuk berbagai kolaborasi produksi album. Pada 2024 ia berkolaborasi silang dalam desain musik drama "Our Imperfect Virtues". Dia tidak pernah memegang paspor Taiwan, tetapi pulau ini adalah panggungnya yang sebenarnya.
 
-Pada malam tanggal 2 Juli 2022 di Taipei Arena, Kaohsiung. Penghargaan Golden Melody ke-33 mencapai akhir, amplop Album Terbaik Tahun Ini dibuka, dan pembawa acara membacakan nama: "《DEPART》—Tsai Jian-ya."
+2 Juli 2022 malam, di Kaohsiung Arena. Penghargaan Golden Melody ke-33 memasuki penghujung, amplop untuk Album Tahun Terbaik dibuka, pembawa acara mengumumkan nama: "DEPART—Tanya Chua."
 
-Itu adalah penghargaan keempatnya pada malam itu. Tiga sebelumnya adalah untuk Penyanyi Wanita Berbahasa Tionghoa Terbaik, Album Berbahasa Tionghoa Terbaik, dan Rekaman Vokal Terbaik. Satu album, empat penghargaan dalam satu malam. Dalam sejarah 33 tahun Penghargaan Golden Melody, tidak ada seorang pun yang pernah meraihnya seperti ini.
+Itu adalah yang keempat untuk malam itu. Tiga sebelumnya masing-masing adalah Penyanyi Mandarin Wanita Terbaik, Album Mandarin Terbaik, dan Perekaman Vokal Album Terbaik. Satu album, empat penghargaan dalam satu malam. Dalam 33 tahun sejarah Penghargaan Golden Melody, tidak ada siapa pun yang telah melakukan ini sebelumnya.
 
-Ia berjalan ke atas panggung, matanya berkaca-kaca, tetapi kata pertama yang ia ucapkan adalah: "Saya tidak ingin menangis karena riasan dan rambut saya membutuhkan waktu lama."[^1]
+Dia naik ke panggung, matanya basah, tetapi kata-kata pertama yang dia keluarkan adalah: "Saya tidak ingin menangis, karena riasan dan rambut saya sudah menghabiskan waktu yang sangat lama."[^1]
 
-Tawa terdengar. Kemudian ia berkata: "Tidak menyangka akan mendapatkannya, saya pernah membayangkannya, tapi saya rasa itu tidak mungkin."[^1]
+Tertawa. Kemudian dia berkata: "Saya tidak pernah membayangkan akan memiliki kesempatan mendapatkan ini lagi, saya telah membayangkannya, tetapi saya tidak merasa itu mungkin."[^1]
 
-Kemudian ucapan terima kasih yang sering dikutip: "Semua musisi adalah pencerita (story teller); setiap hal yang terjadi pada kami, semua detailnya, udara yang kami hirup, setiap cerita yang kami lihat, semuanya ditulis oleh kami para musisi. Ketika alien datang di masa depan dan mendengarkan musik kami, mereka akan tahu apa yang telah terjadi."[^1]
+Kemudian datang ungkapan terima kasih yang kemudian sering dikutip: "Semua musisi adalah pencerita (story teller), semua yang terjadi pada kami, setiap detail, udara yang kami hirup, setiap cerita yang kami lihat, semua itu adalah tanggung jawab musisi kami untuk menuliskannya. Kelak ketika alien datang, mendengarkan musik kami, mereka akan tahu apa yang terjadi."[^1]
 
-Saat itu ia berusia 47 tahun. Sudah 16 tahun sejak ia pertama kali memenangkan Golden Melody. Sudah 26 tahun sejak ia pertama kali dipersilakan diam oleh pianis di sebuah bar.
+Dia berusia 47 tahun saat itu. 16 tahun telah berlalu sejak dia memenangkan Penghargaan Golden Melody untuk pertama kalinya. 26 tahun telah berlalu sejak dia pertama kali berdiri di panggung bar dan dibentak oleh pemain keyboard untuk diam.
 
-### Singapura Tahun 1996, Dimarahi Pianis
+### 1996 Singapura, Pemain Keyboard Menyuruhnya Diam
 
-Waktu kembali ke Singapura pada tahun 1996. Seorang gadis yang baru lulus dari Politeknik Singapura dengan jurusan manajemen bisnis tampil di bar. Band sedang berlatih lagu-lagu cover, dan ia menyarankan: "Lagu ini bisa diaransemen agar lebih menarik."
+Waktu mundur ke Singapura tahun 1996. Seorang gadis yang baru lulus dari Polytechnic Institute Singapura dengan spesialisasi manajemen bisnis dan administrasi melakukan pertunjukan di bar. Band sedang berlatih cover lagu, dia membuka mulut dengan saran: "Lagu ini bisa diatur ulang dengan cara yang lebih menarik."
 
-Pianis memintanya diam. "Dia pikir saya sama sekali tidak mengerti musik."[^2]
+Pemain keyboard menyuruhnya diam. "Dia pikir saya sama sekali tidak memahami musik."[^2]
 
-Saat itu ia berusia 21 tahun, sudah bernyanyi di bar selama beberapa tahun. "Saya tidak pernah berpikir untuk mengakhiri kehidupan pertunjukan cover seperti ini; saat itu saya masih muda dan pemikiran saya sederhana. Saya sangat suka bernyanyi, dan menurut saya menyanyi di bar adalah cara yang menarik untuk mendapatkan uang saku."[^3]
+Dia baru berusia 21 tahun saat itu, sudah bernyanyi di bar selama beberapa tahun. "Saya tidak pernah berpikir untuk mengakhiri kehidupan pertunjukan cover ini, saat itu saya masih muda, pemikiran saya juga sangat sederhana, saya sangat mencintai nyanyian, dan saya merasa bernyanyi di bar adalah cara yang menyenangkan untuk menghasilkan uang saku."[^3]
 
-Tetapi kata-kata "diam" membuatnya mulai berpikir: jika ia benar-benar tidak mengerti musik, maka ia harus belajar. Pada tahun 1998, ia menerima beasiswa ke Musicians Institute (MI) di Hollywood, California, AS, untuk mendalami musik populer dengan fokus pada gitar elektrik.
+Tetapi kata "diam" itu membuat dia mulai berpikir: jika dia benar-benar tidak memahami musik, maka dia perlu belajar. Tahun 1998, dia menerima beasiswa untuk belajar di Musicians Institute (MI) di Hollywood, California, dengan spesialisasi gitar elektrik.
 
-Setelah kembali ke Singapura, ia merilis album bahasa Inggris pertamanya, 《Bored》 (diterbitkan oleh Yellow Music di Singapura pada tahun 1997). Kemudian pada tahun 1999: sebuah tahun yang mengubah segalanya; ia menandatangani kontrak dengan Polydor (yang kemudian bergabung dengan Universal Records) dan bersiap untuk merilis album berbahasa Mandarin pertamanya.
+Setelah kembali ke Singapura, dia menulis album bahasa Inggris pertamanya "Bored" (dirilis tahun 1997 melalui Yellow Music di Singapura). Kemudian tahun 1999: tahun yang mengubah segalanya: dia menandatangani kontrak dengan Polydor (kemudian bergabung dengan Universal Records), bersiap meluncurkan album Mandarin pertamanya.
 
-Album itu berjudul 《呼吸》 (Hūxī). Dirilis pada Desember 1999, terutama di pasar Taiwan. Pada tahun 2000, ia masuk nominasi Penghargaan Golden Melody ke-11 sebagai Artis Baru Terbaik dengan album ini[^4].
+Album itu bernama "Breathing" (呼吸). Dirilis Desember 1999, pasar utama adalah Taiwan. Tahun 2000 dia masuk nominasi untuk Penghargaan Golden Melody ke-11 sebagai Artis Baru Terbaik[^4].
 
-> **📝 Catatan Kurator:** Industri musik berbahasa Tionghoa pada tahun 1999 adalah era Stefanie Sun, Xiao Yaxuan, Na Ying, Faye Wong, dan Teresa Teng. Tsai Jian-ya belum menjadi tokoh utama saat itu. Album bahasa Mandarin pertamanya tidak terlalu populer, bahkan ia jarang membicarakannya dalam wawancara berikutnya. Namun, album ini mendefinisikan posisinya selama 25 tahun ke depan—seorang penyanyi yang berasal dari Singapura, menulis lagunya sendiri, dan mengikuti jalur _singer-songwriter_, membuka jalan baru di industri musik berbahasa Tionghoa arus utama.
+> **📝 Catatan Kurator:** Industri musik Mandarin tahun 1999 adalah era Sun Yan-zi, Elaine Hsiao, Na Ying, Wang Fei, dan Sandy Lam. Tanya Chua saat itu belum menjadi tokoh utama. Album Mandarin pertamanya tidak mendapat sambutan besar, bahkan dia sendiri jarang menyebutnya secara khusus dalam wawancara belakangan. Tetapi album ini menentukan posisinya selama 25 tahun ke depan—seorang penyanyi perempuan dari Singapura, menulis lagu sendiri, mengikuti jalur singer-songwriter, membuka celah baru di industri musik Mandarin mainstream.
 
-### India Tahun 2006, Lalu Taipei
+### 2006 India, Kemudian Taipei
 
-Pada tahun 2005 ia memenangkan penghargaan Golden Melody pertamanya: Penyanyi Wanita Berbahasa Mandarin Terbaik ke-17, dengan karya 《雙棲動物》 (Shuāngqī Dòngwù)[^5]. Bagi setiap penyanyi, penghargaan Golden Melody pertama adalah puncak karier. Tetapi bagi Tsai Jian-ya, pada tahun itu ia sebenarnya lebih bingung.
+Tahun 2005 dia memenangkan Penghargaan Golden Melody pertamanya: Penghargaan Golden Melody ke-17 untuk Penyanyi Mandarin Wanita Terbaik, dengan karya "Dual Inhabitation" (雙棲動物)[^5]. Bagi penyanyi mana pun, Penghargaan Golden Melody pertama adalah puncak karir. Tetapi bagi Tanya Chua saat itu, dia sebenarnya lebih bingung.
 
-Kontraknya saat itu masih terikat dengan Warner Music dan agensi Music & Movement (Singapura). Tekanan komersial semakin meningkat; label rekaman ingin dia mengikuti jalur lagu cinta arus utama, sering membuat video musik dan menerima iklan. Ia mulai meragukan apakah jalan ini adalah jalannya.
+Kontraknya saat itu masih berada di Warner Music dan agensi Music & Movement (Singapura). Tekanan komersial semakin berat, perusahaan rekaman menginginkan dia mengikuti jalur lagu romantis mainstream, membuat lebih banyak video musik, menandatangani lebih banyak kesepakatan endorsement. Dia mulai meragukan apakah ini jalan yang dia inginkan.
 
-Pada akhir tahun 2005, ia pergi ke India. Mempelajari yoga, melakukan penjelajahan diri. Kemudian ia membuat keputusan: "Jika saya ingin terus maju di jalur musik, saya harus menemukan kembali niat awal saya terhadap musik dan menjadi penyanyi yang sepenuhnya kreatif."[^6]
+Akhir 2005, dia melakukan perjalanan ke India. Mempelajari yoga, eksplorasi diri. Kemudian membuat keputusan: "Jika ingin terus maju di jalan musik, harus menemukan kembali motivasi awal musik, menjadi penyanyi penciptakan lagu penuh."[^6]
 
-Pada Oktober 2006, ia mengakhiri kontraknya dengan Warner dan Music & Movement. Ia pindah ke Taipei sendirian. Ia mendirikan "Tianya Music Studio". Hak rilis album berbahasa Mandarin diserahkan kepada Yasin Music: sebuah perusahaan yang jauh lebih kecil tetapi memberinya kebebasan kreatif.
+Oktober 2006, dia mengakhiri kontrak Warner dan Music & Movement. Sendirian pindah ke Taipei. Mendirikan "Tianya Music Studio" (天涯音樂工作室). Menandatangani hak distribusi rekaman Mandarin ke Ashin Music: sebuah perusahaan yang jauh lebih kecil, tetapi memberinya kebebasan kreatif.
 
-Ini adalah titik balik sejati dalam kariernya. Bukan debut tahun 1999, bukan penghargaan Golden Melody pertama tahun 2005, melainkan keputusan pada tahun 2006 untuk "mengakhiri kontrak label besar, pindah ke Taipei, dan mendirikan studio."
+Ini adalah titik balik karir sejatinya. Bukan tahun 1999 debut, bukan tahun 2005 Penghargaan Golden Melody pertama, tetapi keputusan tahun 2006 untuk "mengakhiri kontrak perusahaan rekaman besar, pindah ke Taipei, mendirikan studio".
 
-Sejak tahun itu, penghargaan Golden Melody yang ia terima selalu dalam kapasitas _singer-songwriter_, bukan hanya sebagai penyanyi. Sejak tahun itu, ia memiliki "rumah" substansial di Taiwan—bukan secara hukum, tetapi secara kreatif.
+Sejak tahun itu, setiap Penghargaan Golden Melody yang dia menangkan adalah berdasarkan identitas singer-songwriter, bukan identitas penyanyi murni. Sejak tahun itu, dia memiliki "rumah" substansial di Taiwan—bukan dari segi hukum, tetapi dari segi kreatif.
 
-> **📝 Catatan Kurator:** Keputusan pada tahun 2006 mencakup sebuah pilihan yang mungkin tidak terlihat oleh orang luar: ia sebenarnya bisa kembali ke Singapura. Meskipun industri musik berbahasa Tionghoa di Singapura kecil, ada pasar ekspor Mandopop, dan ia sudah memiliki gelar penyanyi terbaik; sangat mudah baginya untuk menjadi senior di sana. Tetapi ia memilih Taipei—sebuah kota tanpa paspor, keluarga, atau kenangan masa kecil baginya. Mengapa? Ia tidak pernah menjawab pertanyaan ini secara langsung. Namun, semua keputusan selama 18 tahun berikutnya (rekan kolaborasi, tempat tinggal, izin tinggal permanen, panggung tur) adalah kelanjutan dari pilihan itu.
+> **📝 Catatan Kurator:** Keputusan tahun 2006 itu mencakup opsi yang tidak mudah dilihat oleh orang luar: dia bisa kembali ke Singapura. Meskipun industri musik Mandarin Singapura kecil, tetapi memiliki posisi ekspor Mandopop, dia sudah memiliki gelar pemenang Penghargaan Golden Melody, kembali menjadi pendahulu sangat mudah. Tetapi dia memilih Taipei—sebuah kota di mana dia tidak memiliki paspor, tidak memiliki anggota keluarga, tidak memiliki kenangan masa kecil. Mengapa? Dia tidak pernah menjawab pertanyaan ini secara langsung. Tetapi semua keputusan berikutnya selama 18 tahun (mitra kolaborasi, tempat tinggal, izin tinggal permanen, panggung tur utama) adalah perpanjangan dari pilihan ini.
 
-### Tahun 2007, Menulis 〈Blank Space〉 dalam Lima Menit
+### 2007, Lima Menit Menulis "Blank Grid"
 
-Pada Oktober 2007, setahun setelah pindah ke Taipei, ia merilis album pertamanya 《Goodbye & Hello》 melalui Yasin Music. Salah satu lagu di album itu berjudul 〈空白格〉 (Kòngbái Gé).
+Oktober 2007, setahun setelah pindah ke Taipei, dia meluncurkan album pertamanya di Ashin Music "Goodbye & Hello". Di dalam album ada sebuah lagu bernama "Blank Grid" (空白格).
 
-Ia kemudian mengatakan dalam wawancara bahwa lagu ini ditulis dalam lima menit pada suatu malam. Saat itu ia sedang menangis sambil menulis di kamar, dan isinya berkaitan dengan hubungan internet yang gagal. Selama rekaman, ia beberapa kali berhenti karena terlalu emosional dan tersedu-sedu.
+Dia mengatakan dalam wawancara belakangan, lagu ini ditulis dalam lima menit di malam hari. Saat itu dia di kamarnya sambil menangis menulis, konten terkait dengan kisah romansa internet yang gagal. Saat merekam dia masih terlalu emosional dan perlu istirahat berkali-kali karena sesegukan.
 
-"Apakah kita semua tidak dewasa, sehingga menganggap pengembaraan itu keren?"—awal lagu ini. Kemudian lagu ini dinyanyikan ulang oleh Angela Chang, dan banyak orang bahkan tidak tahu bahwa penyanyi aslinya adalah Tsai Jian-ya. Tetapi kesalahpahaman ini membuktikan kekuatan lagu tersebut sampai batas tertentu: lagu itu telah melampaui penciptanya, menjadi versi yang menyebar seperti "surat cinta untuk diri sendiri."
+"Apakah kita semua tidak tumbuh dewasa, baru kita memandang pengasingan sebagai kesederhanaan"—pembukaan lagu ini. Belakangan Zhang Shaohan menutup kembali lagu ini, banyak orang bahkan tidak tahu penyanyi aslinya adalah Tanya Chua. Tetapi kesalahpahaman ini sampai batas tertentu membuktikan kekuatan lagu ini: itu telah melampaui penyanyi asli, menjadi versi transmisi "surat cinta untuk diri sendiri".
 
-Album 《Goodbye & Hello》 juga memiliki karya representatif seperti 〈達爾文 I〉 (Dá'ěrwén I) dan 〈當你離開的時候〉 (Dāng Nǐ Líkāi de Shíhòu). Pada Penghargaan Golden Melody ke-19 tahun 2008, Tsai Jian-ya meraih dua penghargaan sekaligus: Penyanyi Wanita Berbahasa Mandarin Terbaik + **Produser Album Terbaik**[^7].
+Album "Goodbye & Hello" juga memiliki karya penting seperti "Darwin I", "When You Leave", dll. Penghargaan Golden Melody ke-19 tahun 2008, Tanya Chua sekaligus memenangkan dua penghargaan: Penyanyi Mandarin Wanita Terbaik + **Produser Album Terbaik**[^7].
 
-Ini adalah rekor langka di industri musik berbahasa Tionghoa. Di industri ini, penyanyi adalah penyanyi, dan produser adalah produser; sangat jarang ada yang melakukan keduanya. Tsai Jian-ya tidak hanya menyanyi dan memproduksi sendiri; ia mulai menulis lagu untuk artis lain sejak awal tahun 2000-an: Faye Wong 〈打錯了〉 (Dǎ Cuòle) (2001), Stefanie Sun 〈第六感〉 (Dì Liù Gǎn) (2003), Jolin Tsai 〈別去打擾他的心〉 (Bié Qù Dǎrǎo Tā de Xīn) (2002), Jing Ru 〈幸福的預感〉 (Xìngfú de Yùgǎn) (2002), dan 〈向左轉向右轉〉 (Xiàng Zuǒ Zhuǎn Xiàng Yòu Zhuǎn) (2003), dan lain-lain[^8]. Kemudian Na Ying, Candy Chang, Hsu Ruyun, Jay Chou, Joe Tsai, Bi Shujin, dan Tseng Peici juga pernah berkolaborasi dengannya.
+Ini adalah rekor dual-expertise yang jarang terjadi dalam industri musik Mandarin. Dalam industri musik Mandarin, penyanyi adalah penyanyi, produser adalah produser, dual-expertise jarang terjadi. Tanya Chua tidak hanya bernyanyi sendiri, memproduksi sendiri; sejak awal 2000-an dia telah menulis lagu untuk penyanyi lain: Wang Fei "Dialed Wrong" (2001), Sun Yan-zi "Sixth Sense" (2003), A-mei "Don't Disturb His Heart" (2002), Leehom Wang "Premonition of Happiness" (2002), "Turn Left Turn Right" (2003) dan lainnya[^8]. Kemudian Na Ying, Rainie Yang, Debbie Huang, Eason Chan, Xiaojing Teng, Bi Shu-jun, Cao Peizhi juga memiliki lagu kolaborasi dengan dia.
 
-> **📝 Catatan Kurator:** Peran produser Tsai Jian-ya lebih mendalam dalam industri daripada peran penyanyinya. Seorang penyanyi yang hanya menyanyikan lagunya sendiri memiliki pengaruh terbatas pada pendengarnya; tetapi seorang produser yang menulis lagu untuk artis papan atas arus utama akan memengaruhi seluruh generasi musik populer berbahasa Tionghoa. Ketika Anda mendengar 〈幸福的預感〉 dari Jing Ru, 〈第六感〉 dari Stefanie Sun, atau 〈打錯了〉 dari Faye Wong—sidik jari Tsai Jian-ya ada di belakangnya. Ini adalah lapisan rekor lain selain gelar "Empatengali Penyanyi Terbaik" miliknya.
+> **📝 Catatan Kurator:** Identitas produser Tanya Chua lebih dalam tertanam di dalam industri dibandingkan identitas penyanyi. Seorang penyanyi yang hanya bernyanyi lagu sendiri, pengaruhnya terbatas pada penonton sendiri; tetapi seorang produser yang menulis lagu untuk A-list mainstream, akan mempengaruhi seluruh generasi musik Mandarin populer. Saat Anda mendengar "Premonition of Happiness" Leehom Wang, "Sixth Sense" Sun Yan-zi, "Dialed Wrong" Wang Fei—di belakangnya semua ada jejak Tanya Chua. Ini adalah lapisan pencatatan lain di luar "empat kali pemenang Penghargaan Golden Melody Penyanyi Wanita Terbaik".
 
-### Tahun 2018, Malam Menulis 〈Surat Wasiat〉
+### 2018, Malam Menulis "Will"
 
-Antara tahun 2007 dan 2017, Tsai Jian-ya merilis lima album berbahasa Mandarin melalui Yasin Music: 《Goodbye & Hello》, 《若你碰到他》 (Ruò Nǐ Pèngdào Tā) (2009), 《說到愛》 (Shuō Dào Ài) (2011), 《天使與魔鬼的對話》 (Tiānshǐ yǔ Móguǐ de Duìhuà) (2013), dan 《失語者》 (Shīyǔzhě) (2015). Di antaranya, 《說到愛》 membuatnya meraih gelar penyanyi terbaik untuk ketiga kalinya pada Penghargaan Golden Melody ke-23[^9].
+Dari 2007 hingga 2017, Tanya Chua meluncurkan lima album Mandarin di Ashin Music: "Goodbye & Hello", "If You Meet Him" (2009), "On Love" (2011), "Dialogue Between Angel and Devil" (2013), "The Voiceless" (2015). Di antaranya "On Love" membuatnya memenangkan Penghargaan Golden Melody ketiga kalinya di Penghargaan Golden Melody ke-23 tahun 2012[^9].
 
-Pada tahun 2017 ia kembali ke Universal Music. Pada Desember 2018, ia merilis album 《我要給世界最悠長的濕吻》 (Wǒ Yào Gěi Shìjiè Zuì Yōucháng de Shīwěn). Album ini telah melalui proses pematangan selama tiga tahun, dan salah satu lagunya berjudul 〈遺書〉 (Yíshū - Surat Wasiat).
+Tahun 2017 dia kembali ke Universal Music. Desember 2018, dia meluncurkan album "The Longest Wet Kiss I Give to the World" (我要給世界最悠長的濕吻). Album ini telah menenangkan selama tiga tahun, di dalamnya ada sebuah lagu bernama "Will" (遺書).
 
-Ia mengatakan dalam wawancara bahwa inspirasi lagu ini adalah kematian seorang teman. Depresi dari bertahun-tahun lalu kembali menyerangnya. Ia mulai menulis lirik dan musik pada suatu malam, awalnya merasa cemas.
+Dia mengatakan dalam wawancara, titik awal lagu ini adalah kepergian seorang teman. Depresi bertahun-tahun lalu datang lagi. Dia mulai menulis lirik dan melodi di malam hari, awalnya gelisah.
 
-"Pada malam ketika saya menulis 《遺書》, saya awalnya sangat gelisah, tetapi saat saya terus menulis, hati saya menjadi tenang. Melihat setiap kata yang saya tulis, saya menyadari bahwa itu semua telah berlalu, pernah dicintai, pernah hidup, telah berusaha, berjuang dan menang. Lagu yang harus ditulis sudah ditulis dengan sepenuh hati. Apa lagi yang perlu disesalkan?"[^10]
+"Pada malam menulis 'Will' awalnya gelisah, tetapi saat menulis hati menjadi tenang, melihat setiap kata yang saya tulis, menemukan bahwa semua itu telah berlalu, telah mencintai, telah hidup, telah memberikan, telah bekerja keras, telah berjuang dan menang, semua lagu yang seharusnya ditulis telah ditulis dengan sepenuh hati. Lalu ada apa yang dipikirkan?"[^10]
 
-"Saya tidak pernah berpikir akan menulis lagu berjudul 《遺書》 suatu hari nanti. Tetapi kehidupan adalah kenyataan; dua kata 'yang paling tidak berani disebutkan' ini terus muncul dalam hidup saya selama beberapa tahun terakhir."[^10]
+"Tidak pernah membayangkan diri sendiri suatu hari akan menulis lagu bernama 'Will'. Tetapi kehidupan adalah kenyataan, beberapa tahun terakhir ini rasanya dua karakter 'yang paling tidak berani disebutkan' terus muncul dalam hidup."[^10]
 
-Video musik 〈遺書〉 disutradarai oleh Yu Jingping, dengan pengambilan gambar _one-shot_. "Menggunakan teknik _one-shot_ memang sulit; semua emosi dan sudut pandang bergantung pada kesamaan. Saya telah bekerja sama dengan Xiao Yu berkali-kali, dia adalah satu-satunya sutradara yang ada di hati saya."[^10]
+Video musik "Will" disutradarai oleh Yu Ching-ping, one-take continuous shot. "Menggunakan satu-take untuk shooting, sebenarnya ada kesulitan, semua sudut emosi bergantung pada chemistry. Berkolaborasi berkali-kali dengan Xiao Yu, dia adalah pilihan sutradara satu-satunya di hati saya."[^10]
 
-Ia mengatakan dalam wawancara berikutnya: "Apakah ketidakpastian masa depan begitu menakutkan? Apa yang harus datang akan datang, dan apa yang harus pergi akan pergi. Siapa yang bisa mengendalikan itu?"[^10]
+Dia kemudian dalam wawancara mengatakan: "Apakah masa depan yang tidak pasti begitu menakutkan? Yang seharusnya datang akan datang, yang seharusnya pergi akan pergi, siapa yang bisa mengendalikan?"[^10]
 
-"Saya harap lagu ini dapat membuat Anda merenungkan hidup Anda dan menemukan keindahan kehidupan."[^10]
+"Semoga lagu ini dapat membuat kalian merenungkan kembali hidup kalian, menemukan keindahan kehidupan."[^10]
 
-〈遺書〉 dinominasikan untuk Penghargaan Komposer Terbaik di Golden Melody ke-30, tetapi tidak memenangkan penghargaan. Namun, lagu ini membuat banyak orang memahami Tsai Jian-ya kembali: cara seorang _singer-songwriter_ menghadapi isu kematian pada usia 40-an sangat berbeda dengan saat ia menulis lagu cinta di usia 20-an.
+"Will" masuk nominasi untuk Penghargaan Golden Melody ke-30 untuk Penulis Lagu Terbaik, tetapi tidak menang. Tetapi lagu ini membuat banyak orang memahami kembali Tanya Chua: cara seorang singer-songwriter menghadapi topik kematian pada usia 40-an, sepenuhnya berbeda dengan saat dia menulis lagu cinta di usia 20-an.
 
-> **📝 Catatan Kurator:** Dalam lintasan kreatif Tsai Jian-ya selama 25 tahun, dari kebingungan masa muda dalam 〈呼吸〉, kecemasan patah hati dalam 〈空白格〉, hingga menghadapi kematian dalam 〈遺書〉—ia tidak berhenti pada satu potongan emosi pun. Apa yang ia tulis setiap dekade berbeda. Inilah perbedaan antara _singer-songwriter_ dan penyanyi pop: penyanyi pop hidup di dalam lagu hits, sedangkan _singer-songwriter_ hidup dalam kehidupannya sendiri.
+> **📝 Catatan Kurator:** Dalam jejak kreativitas 25 tahun Tanya Chua, dari "Breathing" kebingungan muda, hingga "Blank Grid" kecemasan patah hati, hingga "Will" menghadapi kematian di usia pertengahan—dia tidak pernah berhenti pada potongan emosi mana pun. Setiap sepuluh tahun apa yang dia tulis berbeda. Ini adalah perbedaan antara singer-songwriter dan penyanyi populer: penyanyi populer hidup dalam hit, singer-songwriter hidup dalam kehidupannya sendiri.
 
-### Tahun 2021 《DEPART》, Menulis Album dengan Penciuman
+### 2021 "DEPART", Menulis Album Dengan Penciuman
 
-Pada Agustus 2021, Tsai Jian-ya merilis album 《DEPART》. Karya yang telah melalui pematangan selama tiga tahun ini terdiri dari 14 lagu. Ia kemudian menjelaskan album ini dengan cara yang sangat unik: **menggunakan penciuman**.
+Agustus 2021, Tanya Chua meluncurkan album "DEPART". Karya setelah penenangan tiga tahun, 14 lagu. Dia kemudian dalam wawancara menggunakan cara yang sangat aneh untuk mendeskripsikan album ini: **dengan penciuman**.
 
-"Album ini adalah untuk membuktikan diri dan mendokumentasikan apa yang terjadi selama beberapa tahun terakhir."[^1]
+"Album ini untuk membuktikan diri sendiri, dan merekam apa yang terjadi beberapa tahun terakhir ini."[^1]
 
-Struktur albumnya terbagi dalam tiga bagian:
+Struktur album adalah tiga bagian:
 
-- **Bagian Tanah Herbal**: 〈Bluebirds〉, 〈Into The Wild〉, dll., aromanya seperti rumput setelah hujan di padang rumput.
-- **Bagian Kehidupan Sehari-hari**: 〈出走〉 (Chūzǒu), 〈讓浪漫做主〉 (Ràng Làngmàn Zuòzhǔ), dll., aromanya adalah roti yang baru matang, nasi yang baru dimasak.
-- **Epilog Kayu**: 〈Om Tara〉, aromanya adalah dupa dan cedar.
+- **Bagian herbal bumi**: "Bluebirds", "Into The Wild" dan lainnya, aroma adalah padang rumput setelah hujan
+- **Bagian kehidupan sehari-hari**: "Leaving", "Let Romance Take the Lead" dan lainnya, aroma adalah roti baru keluar oven, beras baru dimasak
+- **Bagian kayu kesimpulan**: "Om Tara", aroma adalah kayu cendana, pohon cedar
 
-Menggunakan struktur penciuman untuk seluruh album ini sangat jarang terjadi di industri musik berbahasa Tionghoa. Kebanyakan album berbahasa Tionghoa menggunakan struktur "tema" atau "alur cerita," tetapi Tsai Jian-ya menggunakan "aroma"—ini lebih mirip seni konseptual daripada pop komersial.
+Menggunakan penciuman untuk mengstruktur seluruh album adalah sangat jarang dalam industri musik Mandarin. Kebanyakan album Mandarin menggunakan "tema" atau "garis cerita" untuk struktur, Tanya Chua menggunakan "aroma"—ini lebih seperti conceptual art daripada pop komersial.
 
-Tetapi ia mengatakan bukan hanya tentang aroma. "Saya ingin menulis lagu untuk bumi, untuk umat manusia."[^1] 〈Bluebirds〉 menggambarkan tanah padang rumput, 〈出走〉 menggambarkan meninggalkan zona nyaman, dan 〈Om Tara〉 adalah versi bahasa Inggris dari mantra Bodhisattva Buddhisme Tibet: sebuah album yang tampak abstrak, tetapi pada dasarnya memiliki dua sumbu lingkungan + spiritual.
+Tetapi apa yang dia katakan bukan hanya tentang aroma. "Saya ingin menulis lagu untuk bumi, untuk kemanusiaan."[^1] "Bluebirds" menulis tentang padang rumput dan bumi, "Leaving" menulis tentang meninggalkan zona kenyamanan awal, "Om Tara" adalah versi bahasa Inggris dari mantra dewi Buddha Tibet: sebuah album yang tampak abstrak, tetapi di jantungnya adalah dual-axis environmental + spiritual.
 
-Pada Penghargaan Golden Melody ke-33 tahun 2022, album ini menyapu bersih empat penghargaan: Album Terbaik Tahun Ini, Album Berbahasa Tionghoa Terbaik, Rekaman Vokal Terbaik, dan Penyanyi Wanita Berbahasa Tionghoa Terbaik[^11]. Pada malam itu ia berkata: "Album terbaik adalah yang paling saya inginkan, mungkin karena maknanya."[^1]
+Penghargaan Golden Melody ke-33 tahun 2022, album ini menyapu empat penghargaan: Album Tahun Terbaik, Album Mandarin Terbaik, Perekaman Vokal Album Terbaik, Penyanyi Mandarin Wanita Terbaik[^11]. Dia saat itu mengatakan: "Album tahun terbaik adalah yang paling saya inginkan, mungkin karena maknanya."[^1]
 
-Empat kali menjadi pemegang rekor.
+Empat kali pemenang. Pemegang rekor.
 
-### Tahun 2023 Taipei Arena Kecil, Konser Live Penuh 55 Juta
+### 2023 Taipei Kecil Arena, 55 Juta Pertunjukan Live Penuh
 
-Pada tanggal 6 dan 7 Mei 2023, Tsai Jian-ya mengadakan tur konser 《Let's Depart! Ciuman Terpanjang untuk Dunia》 di Taipei Arena Kecil. Kedua pertunjukan dengan total 22.000 tiket terjual habis, menghasilkan pendapatan sekitar 55 juta Dolar Taiwan. Total biaya produksi adalah 50 juta, dan ia menginvestasikan 3 juta untuk membuat panggung "Cosmic Bluebird"[^12].
+5 dan 6 Mei 2023, Tanya Chua membuka konser tur "Let's Depart! The Longest Wet Kiss to the World" di Taipei Kecil Arena. Dua pertunjukan dengan 22.000 tiket terjual habis, box office sekitar 55 juta Taiwan dollar. Total biaya konser 50 juta, menginvestasikan 3 juta untuk membangun "Blue Bird Universe" stage design[^12].
 
-Yang paling istimewa: **seluruh pertunjukan tanpa _Program_ (trek audio terprogram), murni Live**. Ini sangat jarang terjadi pada konser berbahasa Tionghoa kontemporer. Kebanyakan penyanyi menggunakan _Program_ sebagai latar belakang (musik atau paduan suara diputar secara terprogram, dan penyanyi hanya menyanyikan melodi utama); Tsai Jian-ya memilih _All Live_: yang berarti band dan penyanyi latar harus benar-benar bermain dan bernyanyi sepanjang pertunjukan.
+Yang paling istimewa adalah: **seluruh pertunjukan tanpa Program (background track digital), pure Live**. Ini sangat jarang dalam konser musik Mandarin kontemporer. Kebanyakan penyanyi menggunakan Program untuk backing (musik latar atau harmony menggunakan track digital, penyanyi hanya bernyanyi melodi utama), Tanya Chua memilih pure Live: berarti band dan vokalis harmony harus benar-benar bermain, benar-benar bernyanyi penuh sepanjang pertunjukan.
 
-Pilihan ini melanjutkan filosofi "penyanyi sepenuhnya kreatif" miliknya. Jika lagu itu ditulis sendiri dan diproduksi sendiri, maka penampilan juga harus nyata.
+Pilihan ini melanjutkan filosofi "penyanyi kreator penuh". Jika lagu ditulis sendiri, produksi dilakukan sendiri, maka pertunjukan juga harus benar-benar.
 
-Setelah itu, tur Let's Depart diperluas ke Hong Kong, Guangzhou, Chengdu, Beijing, Shanghai, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen, Chongqing, dll. Pada tanggal 14 September 2024, ia mengadakan pertunjukan tambahan di Taipei Arena Kecil, Kaohsiung. Seorang orang Singapura melakukan tur di seluruh kawasan berbahasa Tionghoa sebagai panggung utama.
+Belakangan Let's Depart tour berkembang ke Hong Kong, Guangzhou, Chengdu, Beijing, Shanghai, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen, Chongqing dan lainnya. 14 September 2024 menambah pertunjukan Kaohsiung Arena. Seorang orang Singapura, menjadikan wilayah Mandarin sebagai panggung utama tur.
 
-> **📝 Catatan Kurator:** Keputusan "All Live tanpa Program" didasarkan pada ekonomi—lebih mahal, lebih sulit, dan lebih melelahkan. Tetapi bagi Tsai Jian-ya, ini adalah garis pemisah antara _singer-songwriter_ dan penyanyi komersial. Ia bisa memilih versi yang hemat biaya, tenaga, dan waktu, tetapi ia tidak memilih itu. Pilihan inilah ringkasan dari 26 tahun kariernya: jalan yang sulit, sama seperti lagu-lagu yang ia tulis.
+> **📝 Catatan Kurator:** Keputusan "pure Live tanpa Program" di belakangnya adalah ekonomi—lebih mahal, lebih sulit, lebih melelahkan. Tetapi bagi Tanya Chua, ini adalah garis pembatas antara singer-songwriter dan penyanyi komersial. Dia bisa memilih versi yang hemat biaya, hemat upaya, hemat waktu, tetapi dia tidak memilih. Pilihan ini adalah ringkasan dari 26 tahun karirnya: jalan yang sulit, sejalan dengan lagu yang dia tulis.
 
-### Tahun 2024 Lintas Batas, 《不夠善良的我們》
+### 2024 Lintas Batas, "Our Imperfect Virtues"
 
-Pada tanggal 12 April 2024, Tsai Jian-ya merilis album 《不夠善良的我們：戲劇音樂設計專輯》 (Bù Gòu Shànliáng de Wǒmen: Album Desain Musik Drama). Ini adalah _soundtrack_ dari drama televisi CCTV/myVideo 《不夠善良的我們》; tetapi perannya bukan hanya sebagai "penyanyi OST," melainkan **desainer musik** untuk seluruh drama. 6 lagu orisinal + 8 trek musik latar drama.
+12 April 2024, Tanya Chua meluncurkan "Our Imperfect Virtues: Drama Music Design Album" (不夠善良的我們：戲劇音樂設計專輯). Ini adalah soundtrack untuk drama PBS/myVideo "Our Imperfect Virtues": tetapi perannya bukan hanya "OST performer", tetapi **music designer** untuk seluruh drama. 6 lagu original + 8 musik drama.
 
-Kisah asalnya sangat menarik: Sutradara Xu Yuting secara "tidak sengaja mendengar" album 《DEPART》 milik Tsai Jian-ya selama tahap penulisan naskah dan terinspirasi, lalu mengajukan permintaan untuk mengundangnya sebagai desainer musik; pada saat yang sama, Tsai Jian-ya juga menyampaikan keinginannya untuk membuat musik drama kepada manajernya. Kedua belah pihak memikirkan satu sama lain secara independen[^13].
+Origin story sangat menarik: Sutradara Xu Yu-ting mendengar "tanpa sengaja" album "DEPART" Tanya Chua selama tahap pembuatan naskah drama dan tergerak, secara aktif menghubungi production company untuk mengundangnya membuat musik; pada waktu yang sama, Tanya Chua juga mengekspresikan kepada agen bahwa ingin membuat musik drama. Kedua belah pihak sepenuhnya independen berpikir satu sama lain[^13].
 
-Lagu tema 〈善良的我們〉 (Shànliáng de Wǒmen) ditulis liriknya oleh Ge Dawei dan digubah melodinya oleh Tsai Jian-ya. Ini adalah karya lain dari kolaborasi mereka selama lebih dari sepuluh tahun: Ge Dawei adalah salah satu penulis lirik paling terkenal di Taiwan, dan ia telah berkolaborasi dengan Tsai Jian-ya dalam banyak lagu seperti 〈Beautiful Love〉, 〈空白格〉, dan lagu-lagu Jing Ru, hingga 〈善良的我們〉 pada tahun 2024.
+Lagu tema "Our Imperfect Virtues" (善良的我們) ditulis lirik oleh Ke Da-wei, musik oleh Tanya Chua. Ini adalah karya lain dari kolaborasi dengan Ke Da-wei selama lebih dari sepuluh tahun: Ke Da-wei adalah salah satu penulis lirik paling terkenal di Taiwan, dia dan Tanya Chua berkolaborasi jangka panjang melintasi "Beautiful Love", "Blank Grid", banyak lagu Leehom Wang, hingga "Our Imperfect Virtues" tahun 2024.
 
-Musik drama lintas batas merupakan ujian dimensi lain bagi seorang _singer-songwriter_. Menulis lagu tunggal hanya melayani satu lagu; menulis musik latar drama harus melayani keseluruhan narasi. Tsai Jian-ya berhasil melakukannya—album ini kemudian dinominasikan untuk "Album Musik Lintas Batas Terbaik" di Penghargaan Golden Melody ke-36 (meskipun tidak memenangkan penghargaan), tetapi lintas batas itu sendiri adalah perluasan dari 25 tahun kariernya.
+Lintas batas ke musik drama untuk singer-songwriter adalah ujian dimensi lain. Menulis single hanya perlu melayani satu lagu, menulis musik drama harus melayani seluruh narasi. Tanya Chua berhasil—album ini kemudian masuk nominasi untuk Penghargaan Golden Melody ke-36 untuk "Best Crossover Music Album" (meskipun tidak menang), tetapi lintas batas itu sendiri sudah merupakan perpanjangan karir 25 tahun.
 
-Pada Penghargaan Golden Melody tahun 2024 (ke-35) ia tidak memenangkan penghargaan. Pada tahun 2025 ia menulis 〈連鎖反應〉 (Liànchǎ Fǎnyìng) untuk Tseng Peici. Mengenai kemajuan album baru, ia mengatakan dalam wawancara: "Benar-benar tidak ada."
+Tahun 2024 Penghargaan Golden Melody (ke-35) dia tidak menang. Tahun 2025 dia menulis "Chain Reaction" untuk Cao Peizhi. Progres album baru, dia mengatakan dalam wawancara: "Benar-benar tidak ada."
 
-Tetapi "tidak ada album baru sama sekali" memiliki makna yang berbeda bagi seorang _singer-songwriter_ selama 25 tahun. Ia tidak lagi perlu membuktikan apa pun melalui album baru.
+Tetapi "benar-benar tidak ada album baru" untuk singer-songwriter 25 tahun berarti hal yang berbeda. Dia tidak lagi perlu membuktikan apa pun melalui album baru.
 
-### Dari Bar ke Alien
+### Dari Bar hingga Alien
 
-Kembali ke panggung Penghargaan Golden Melody tahun 2022 di awal. Kalimat "Ketika alien datang di masa depan dan mendengarkan musik kami, mereka akan tahu apa yang telah terjadi"—sebenarnya adalah sebuah tesis besar.
+Kembali ke scene Penghargaan Golden Melody 2022 di awal. Kalimat itu "Kelak ketika alien datang, mendengarkan musik kami, mereka akan tahu apa yang terjadi"—sebenarnya adalah proposisi yang sangat besar.
 
-Ini mengatakan bahwa: musik bukan hanya hiburan, tetapi catatan peradaban. Dan musisi bukan hanya penampil, tetapi penulis sejarah zaman ini.
+Itu mengatakan: musik bukan hanya hiburan, adalah catatan peradaban. Dan musisi bukan hanya performer, adalah penulis sejarah era ini.
 
-Bagi Tsai Jian-ya, 26 tahun itu ia mencatat: ketidakpercayaan di bar pada tahun 1996, percobaan seorang orang Singapura memasuki industri musik berbahasa Tionghoa pada tahun 1999, taruhan meninggalkan perusahaan besar dan pindah ke Taipei sendirian pada tahun 2006, penulisan lagu dalam lima menit yang kemudian menjadi versi populer pada tahun 2007, bukti ganda meraih penghargaan penyanyi dan produser pada tahun 2008, pencerahan paruh baya saat menghadapi kematian bersama teman di 〈遺書〉 pada tahun 2018, ambisi kreatif menulis album lingkungan dengan penciuman pada tahun 2021, momen rekor empat kali memenangkan Golden Melody dalam satu malam pada tahun 2022, kegigihan seorang pekerja yang melakukan _All Live_ tanpa Program di Taipei Arena Kecil pada tahun 2023, dan dimensi berikutnya dari musik drama lintas batas pada tahun 2024.
+Bagi Tanya Chua, 26 tahun ini dia mencatat: tahun 1996 tidak dipercaya di bar, tahun 1999 orang Singapura mencoba masuk industri musik Mandarin, tahun 2006 meninggalkan perusahaan rekaman besar dan sendirian pindah Taipei bertaruh, tahun 2007 lima menit menulis sebuah lagu yang kemudian menjadi versi transmisi, tahun 2008 sekaligus memenangkan penghargaan penyanyi dan produser membuktikan dual-expertise, tahun 2018 menghadapi kepergian teman menulis "Will" dan bangun di usia pertengahan, tahun 2021 menulis album dengan aroma yang menunjukkan ambisi kreatif, tahun 2022 satu malam memenangkan empat Penghargaan Golden Melody momen pemegang rekor, tahun 2023 Taiwan Kecil Arena pure Live tanpa Program ketekunan profesional, tahun 2024 lintas batas musik drama dimensi berikutnya.
 
-Peristiwa-peristiwa ini terjalin bukan sebagai riwayat hidup penyanyi pop, melainkan sebagai catatan kehidupan seorang _singer-songwriter_. Apa yang ia tulis setiap dekade berbeda, tetapi ia menulisnya dengan cara yang sama—melodi miliknya, lirik miliknya, produksi miliknya, pilihan miliknya.
+Peristiwa-peristiwa ini tidak terhubung menjadi resume penyanyi populer, adalah catatan kehidupan singer-songwriter. Setiap sepuluh tahun apa yang dia tulis berbeda, tetapi dia menggunakan metode yang sama untuk menulis—melodi sendiri, lirik sendiri, produksi sendiri, pilihan sendiri.
 
-Ia tidak pernah memiliki paspor Taiwan. Tetapi Penghargaan Golden Melody-nya, studionya, rekan kolaborasinya, panggung tur konser-nya, dan lagu yang paling sering dinyanyikan—semuanya berakar di pulau ini.
+Dia tidak pernah memegang paspor Taiwan. Tetapi Penghargaan Golden Melody miliknya, studio kerjanya, mitra kolaborasinya, panggung tur utamanya, lagu yang paling banyak dinyanyikan—semuanya berakar di pulau ini.
 
-"Identitas lokal seorang musisi tidak ada pada paspor, tetapi di mana lagunya tumbuh"—Tsai Jian-ya sendiri belum pernah mengatakan kalimat itu, tetapi 26 tahun kariernya adalah bukti tesis tersebut.
+"Identitas lokal seorang musisi bukan pada paspor, tetapi di mana lagu yang dia tulis berakar"—Tanya Chua sendiri tidak pernah mengatakan ini, tetapi karir 26 tahunnya adalah bukti thesis ini.
 
-Dan penghargaan Album Terbaik Tahun Ini pada tahun 2022 adalah sertifikasi resmi dari tesis ini.
+Dan Penghargaan Album Tahun 2022 itu adalah sertifikasi resmi dari thesis ini.
 
 **Bacaan Lanjutan**
 
-- [Stefanie Sun](../People/孫燕姿) — Penyanyi wanita Singapura sezaman di industri musik berbahasa Tionghoa, pola bintang ganda di era 2000-an
-- [Jolin Tsai](../People/張惠妹) — Tsai Jian-ya pernah menulis 〈別去打擾他的心〉 dan 〈解圍〉 untuknya
-- [Lin Youjia](../People/林宥嘉) — Penyanyi pria arus utama sezaman, sebagai pembanding jalur _singer-songwriter_
-- [Candy Chang](../People/楊丞琳) — Tsai Jian-ya pernah menulis 〈孤獨是一種安全感〉 untuknya
-- [Hello Nico](../People/Hello-Nico) — Band yang menjembatani posisi independen / arus utama sezaman
-- [Chen Jianqi](../People/陳建騏) — Produser berbasis Taiwan, produser _singer-songwriter_ sezaman dengan Tsai Jian-ya
+- [Sun Yan-zi](/id/people/stefanie-sun) — Penyanyi musik Mandarin Singapura periode sama, format bintang ganda era 2000-an
+- [A-mei](/id/people/a-mei) — Tanya Chua pernah menulis untuk dirinya "Don't Disturb His Heart", "Help Out"
+- [Leehom Wang](/People/林宥嘉) — Penyanyi pria mainstream periode sama, jalur singer-songwriter perbandingan
+- [Rainie Yang](/People/楊丞琳) — Tanya Chua pernah menulis untuk dirinya "Loneliness Is a Kind of Security"
+- [Hello Nico](/id/people/hello-nico-band) — Posisi jembatan independen/mainstream periode sama
+- [Chen Chien-chi](/id/people/chen-chien-chi-music-producer) — Sumbu produser Taiwan, produser singer-songwriter periode sama dengan Tanya Chua
 
 ## Referensi
 
-[^1]: [Tsai Jian-ya Meraih 4 Penghargaan di Golden Melody ke-33 — Ulasan Kunci Net](https://www.thenewslens.com/article/169098) — Catatan lengkap dari panggung Golden Melody Kaohsiung pada 2022-07-02, termasuk kutipan verbatim seperti "Saya tidak ingin menangis" dan "Ketika alien datang di masa depan".
+[^1]: [Tanya Chua "DEPART" Memenangkan 4 Penghargaan di Penghargaan Golden Melody ke-33 — The News Lens](https://www.thenewslens.com/article/169098) — 2022-07-02 rekaman lengkap kutipan langsung panggung Kaohsiung Golden Melody Awards, termasuk "Saya tidak ingin menangis" "kelak ketika alien datang" dan lainnya verbatim
 
-[^2]: [Tsai Jian-ya — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Catatan pengalaman awal saat tampil di bar Singapura pada tahun 1996 ketika dimarahi oleh pianis.
+[^2]: [Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — catatan pengalaman awal 1996 Singapura bar residency dibentak oleh pemain keyboard untuk diam
 
-[^3]: [Bagian Pengalaman Awal Tsai Jian-ya Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Sumber verbatim "Saya tidak pernah berpikir untuk mengakhiri kehidupan pertunjukan cover seperti ini".
+[^3]: [Segmen pengalaman awal Wikipedia Tanya Chua](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — verbatim sumber "Saya tidak pernah berpikir untuk mengakhiri pertunjukan cover ini"
 
-[^4]: [Daftar Karya Musik Tsai Jian-ya — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Catatan album bahasa Mandarin pertama 《呼吸》 pada tahun 1999 dan nominasi Artis Baru Terbaik di Golden Melody ke-11 pada tahun 2000.
+[^4]: [Daftar karya musik Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — album Mandarin pertama "Breathing" 1999, catatan nominasi Penghargaan Golden Melody ke-11 tahun 2000 sebagai Artis Baru Terbaik
 
-[^5]: [Penyanyi Wanita Berbahasa Mandarin Terbaik ke-17 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Catatan resmi penghargaan Tsai Jian-ya yang pertama dengan 《雙棲動物》 pada tahun 2006.
+[^5]: [Penghargaan Golden Melody ke-17 Penyanyi Mandarin Wanita Terbaik — Wiki](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — catatan resmi 2006 Tanya Chua memenangkan penghargaan pertama dengan "Dual Inhabitation"
 
-[^6]: [Keputusan Tsai Jian-ya setelah India Tahun 2006 — Wikipedia + Berbagai Sumber](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Sumber verbatim "Jika saya ingin terus maju di jalur musik, saya harus menemukan kembali niat awal saya terhadap musik dan menjadi penyanyi yang sepenuhnya kreatif".
+[^6]: [Tanya Chua 2006 keputusan India — Wikipedia + multiple sources](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — verbatim sumber "Jika ingin terus maju di jalan musik, harus menemukan kembali motivasi awal musik, menjadi penyanyi kreator lagu penuh"
 
-[^7]: [Daftar Lengkap Penghargaan Golden Melody ke-19 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Catatan bahwa Tsai Jian-ya meraih dua penghargaan sekaligus pada tahun 2008, Penyanyi Wanita Berbahasa Mandarin Terbaik + Produser Album Terbaik, dengan karya 《Goodbye & Hello》.
+[^7]: [Daftar lengkap Penghargaan Golden Melody ke-19 — Wiki](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — 2008 Tanya Chua sekaligus memenangkan Penyanyi Mandarin Wanita Terbaik + Produser Album Terbaik, karya "Goodbye & Hello"
 
-[^8]: [Daftar Karya Produksi/Penulisan Lagu Tsai Jian-ya — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Catatan lengkap penulisan lagu dan produksi untuk artis papan atas berbahasa Tionghoa seperti Faye Wong, Stefanie Sun, Jolin Tsai, Jing Ru, dll.
+[^8]: [Daftar karya produksi/penulisan lagu Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — catatan lengkap menulis lagu dan produksi untuk Wang Fei, Sun Yan-zi, A-mei, Leehom Wang dan penyanyi A-list Mandarin lainnya
 
-[^9]: [Penyanyi Wanita Berbahasa Mandarin Terbaik ke-23 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Catatan resmi penghargaan Tsai Jian-ya yang ketiga dengan 《說到愛》 pada tahun 2012.
+[^9]: [Penghargaan Golden Melody ke-23 Penyanyi Mandarin Wanita Terbaik — Wiki](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — catatan resmi 2012 Tanya Chua memenangkan penghargaan ketiga kalinya dengan "On Love"
 
-[^10]: [Wawancara Kreasi 〈遺書〉 Tsai Jian-ya — Da Anxi Yuan](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — Wawancara lengkap tahun 2019, termasuk latar belakang kreasi 〈遺書〉, proses ketenangan di malam hari, dan teknik _one-shot_ sutradara Yu Jingping.
+[^10]: [Wawancara kreativitas Tanya Chua "Will" — Epoch Times](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — 2019 wawancara lengkap, termasuk latar belakang kreativitas "Will", proses menenangkan hati malam itu, detail musik video satu-take Yu Ching-ping sutradara dan lainnya verbatim
 
-[^11]: [Daftar Pemenang Lengkap Golden Melody ke-33 — Ulasan Kunci Net](https://www.thenewslens.com/article/169082) — Catatan lengkap empat penghargaan 《DEPART》 pada 2022-07-02 di Kaohsiung.
+[^11]: [Daftar lengkap pemenang Penghargaan Golden Melody ke-33 — The News Lens](https://www.thenewslens.com/article/169082) — 2022-07-02 catatan lengkap Kaohsiung Penghargaan Golden Melody ke-33 "DEPART" empat penghargaan besar
 
-[^12]: [Konser Tsai Jian-ya 《Let's Depart》 Taipei Arena Kecil — Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — Detail penjualan dua pertunjukan di Taipei Arena Kecil pada Mei 2023, pendapatan 55 juta, biaya panggung 50 juta, dan desain "Cosmic Bluebird".
+[^12]: [Konser Taiwan Kecil Arena Tanya Chua "Let's Depart" — Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — 2023-05 Taiwan Kecil Arena dua pertunjukan 22.000 tiket terjual habis, box office 55 juta, biaya panggung 50 juta, detail desain Blue Bird Universe
 
-[^13]: [OST Tsai Jian-ya 《不夠善良的我們》 — KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — Catatan rilis album musik drama pada 2024-04-12, termasuk kisah asal usul di mana Xu Yuting dan Tsai Jian-ya secara independen memikirkan kolaborasi.
+[^13]: [Tanya Chua "Our Imperfect Virtues" OST — KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — 2024-04-12 catatan peluncuran album desain musik drama, termasuk sutradara Xu Yu-ting dan Tanya Chua secara independen saat bersamaan berpikir satu sama lain origin story

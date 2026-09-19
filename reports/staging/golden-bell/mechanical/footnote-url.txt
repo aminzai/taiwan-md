@@ -1,0 +1,5 @@
+🧬 knowledge/Culture/金鐘獎.md
+   lang=zh-TW  category=Culture  slug=金鐘獎
+   ✅ footnote-url  hard=0 warn=0
+
+Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)

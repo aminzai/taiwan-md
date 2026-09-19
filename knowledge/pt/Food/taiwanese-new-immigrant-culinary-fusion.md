@@ -2,7 +2,7 @@
 title: 'Fusão Culinária dos Novos Residentes de Taiwan'
 description: 'Quando o picante tailandês encontra o doce-salgado taiwanês, quando o pho vietnamita se encontra com o luwei taiwanês, quando as especiarias indonésias abraçam ingredientes locais, uma revolução gustativa transfronteiriça está ocorrendo silenciosamente em Taiwan. Os novos residentes trazem não apenas a culinária de sua terra natal, mas também novas possibilidades para enriquecer a cultura gastronômica de Taiwan.'
 date: 2026-03-20
-author: 'Taiwan.md 編輯團隊'
+author: 'Taiwan.md'
 category: 'Food'
 subcategory: '族群飲食'
 tags:
@@ -22,13 +22,15 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
 sourceBodyHash: 'sha256:6806ae061b784232'
 translatedAt: '2026-07-25T06:34:18+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
+imageCredit: 'Tayzar44 / Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 ---
 
 # Fusão Culinária dos Novos Residentes de Taiwan
 
-> 「家鄉的味道不會消失，它會在新的土地上開出不同的花朵。」
+> «O sabor da terra natal não desaparece; ele desabrocha em flores diferentes numa terra nova.»
 >
 > —— 阮氏雲（台越家庭主婦，來台20年）
 
@@ -358,3 +360,7 @@ Nessa era globalizada, a história da culinária dos novos residentes de Taiwan 
 3. Coletânea de artigos de pesquisa sobre cultura culinária de novos residentes
 4. Dados de entrevistas com organizações comunitárias de novos residentes
 5. Pesquisa sobre identidade cultural da segunda geração de novos residentes
+
+## Fontes das imagens
+
+- Hero: pho vietnamita, fotografia de Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg), CC BY 4.0.

@@ -1,187 +1,191 @@
 ---
-title: 'Tsai Jui-yueh: de la celda de Green Island a una sala de danza que el fuego no pudo borrar'
-description: 'Nacida en Tainan en 1921, Tsai Jui-yueh viajó a Japón a los 16 años para estudiar danza; en 1949 fue encarcelada tras la persecución política de su esposo Lei Shih-yu, y tras su liberación siguió enseñando en la calle Zhongshan North Road. Su legado no es solo una coreografía, sino una sala de danza que sobrevivió a la demolición y al incendio, y la pregunta de cómo Taiwán preserva la memoria de la persecución política.'
+title: 'Tsai Jui-yueh: de una celda en la isla Verde a un estudio de danza que el fuego no pudo borrar'
+description: 'Nacida en Tainan en 1921, Tsai Jui-yueh viajó a Japón a los 16 años para estudiar danza. En 1949 fue encarcelada por la persecución política contra su esposo Lei Shih-yu, y al salir de prisión siguió enseñando danza en la calle Zhongshan Norte. Dejó algo más que una técnica de baile: un estudio de danza que fue rescatado, incendiado y que hoy sigue en ensayo, además de la pregunta de cómo Taiwán conserva la memoria de sus víctimas políticas.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'Tsai Jui-yueh',
-    'danza moderna',
+    'Danza moderna',
     'Terror Blanco',
-    'mujeres',
-    'sitio histórico Rosas',
+    'Mujeres',
+    'Monumento Rosa',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
 lastHumanReview: false
-rationale: "{'why_this_hook': '以舞蹈社、牢房與火災的反差呈現蔡瑞月的藝術與政治生命。', 'whats_excluded': '不把未經司法確認的火災責任寫成定論，也不鋪陳完整臺灣現代舞編年史。', 'where_it_hedges': '對 1999 年火災僅陳述已核驗的事件與現存爭議，區分基金會主張與已證事實。', 'whos_pushing_back': '保存團體、官方文資敘事與政治受難檔案對同一場址的不同記憶。'}"
+rationale:
+  why_this_hook: '以舞蹈社、牢房與火災的反差呈現蔡瑞月的藝術與政治生命。'
+  whats_excluded: '不把未經司法確認的火災責任寫成定論，也不鋪陳完整臺灣現代舞編年史。'
+  where_it_hedges: '對 1999 年火災僅陳述已核驗的事件與現存爭議，區分基金會主張與已證事實。'
+  whos_pushing_back: '保存團體、官方文資敘事與政治受難檔案對同一場址的不同記憶。'
 readingTime: 9
-curation: 'incubating'
+curation: incubating
 translatedFrom: 'People/蔡瑞月.md'
 sourceCommitSha: 'c462122e6'
 sourceContentHash: 'sha256:f91b55938ef411f1'
 sourceBodyHash: 'sha256:6b90253634145c2e'
-translatedAt: '2026-09-15T19:45:25+08:00'
+translatedAt: '2026-09-14T05:41:07+08:00'
 ---
 
-# Tsai Jui-yueh: de la celda de Green Island a una sala de danza que el fuego no pudo borrar
+# Tsai Jui-yueh: de una celda en la isla Verde a un estudio de danza que el fuego no pudo borrar
 
-> **Resumen en 30 segundos**: Tsai Jui-yueh viajó de Tainan a Japón para estudiar danza, regresó a Taiwán y fue encarcelada durante el Terror Blanco, y tras su liberación continuó enseñando en la calle Zhongshan North Road. Su sala de danza ha sobrevivido a la amenaza de demolición y a un incendio; hoy es tanto un sitio de danza moderna como un lugar donde Taiwán preserva la memoria de la persecución política.
+> **Panorama en 30 segundos**: Tsai Jui-yueh viajó de Tainan a Japón para estudiar danza. Al regresar a Taiwán fue encarcelada durante el Terror Blanco, y al salir de prisión siguió enseñando en la calle Zhongshan Norte. Su estudio de danza sobrevivió a una amenaza de demolición y a un incendio; hoy es a la vez un espacio de danza contemporánea y un lugar donde Taiwán conserva la memoria de sus víctimas políticas.
 
-1946, a los 25 años, Tsai Jui-yueh tomó un barco de regreso a Taiwán desde Japón y, durante la travesía, coreografió _Canción de la India_. En 1949, su esposo Lei Shih-yu fue arrestado y deportado por el gobierno; meses después, ella también se convirtió en prisionera política y fue enviada a Green Island. Tras su liberación en 1953, reabrió su escuela de danza y finalmente estableció su estudio en una antigua residencia japonesa de madera en la calle Zhongshan North Road de Taipéi.[^1] [^2] [^3]
+En 1946, a los 25 años, Tsai Jui-yueh regresó a Taiwán en barco desde Japón, y durante la travesía coreografió _Canción de la India_. En 1949, su esposo, el poeta Lei Shih-yu, fue arrestado por el gobierno y deportado; unos meses después, ella también se convirtió en presa política y fue enviada a la isla Verde. Tras salir de prisión en 1953, volvió a abrir una escuela de danza, que finalmente instaló en un dormitorio de madera de estilo japonés en la calle Zhongshan Norte, en Taipéi.[^1] [^2] [^3]
 
-![Entrada de la Sala de Investigación de Danza Tsai Jui-yueh, fotografiada en 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
+![Entrada del Instituto de Danza Tsai Jui-yueh, fotografiada en 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
 
-_Fig. 1: Entrada de la Sala de Investigación de Danza Tsai Jui-yueh. Foto: lienyuan lee, licencia CC BY 3.0. URL original: [Archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Licencia y descripción del archivo: [Página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). No se ha modificado la imagen._
+_Figura 1: Entrada del Instituto de Danza Tsai Jui-yueh. Fotografía: lienyuan lee, bajo licencia CC BY 3.0. Enlace directo a la imagen original: [archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Licencia y ficha del archivo: [página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Sin modificaciones._
 
-Esta trayectoria no se parece al currículum habitual de una bailarina. No separa el escenario, la celda, la vigilancia y el incendio, sino que los superpone una y otra vez sobre un mismo cuerpo. La pregunta central que deja Tsai Jui-yueh no es, por tanto, «¿es ella la madre de la danza moderna en Taiwán?», sino: **cuando el Estado puede restringir el movimiento, el trabajo y la familia de una persona, ¿puede el cuerpo conservar su propio ritmo?**
+Este camino no se parece al currículum que se esperaría de una bailarina. No separa el escenario, la celda, la vigilancia y el incendio, sino que los superpone una y otra vez sobre el mismo cuerpo. Por eso, la pregunta central que deja Tsai Jui-yueh no es "¿fue ella la madre de la danza moderna taiwanesa?", sino: **cuando el Estado puede limitar el movimiento, el trabajo y la familia de una persona, ¿puede el cuerpo conservar su propio ritmo?**
 
-📝 Nota de la curadora: La historia de Tsai Jui-yueh no es la de un sufrimiento que corona al arte, sino la del arte que, dentro del sufrimiento, halla una forma de respirar sin pedirle el aire al poder.
+📝 Nota del curador: la historia de Tsai Jui-yueh no consiste en que el sufrimiento corone al arte, sino en que el arte encontró, dentro del sufrimiento, una respiración que no necesitaba pedir prestado el permiso del poder.
 
 ## Una carta sin dirección
 
-Tsai Jui-yueh nació en 1921 en Tainan. En la secundaria, vio una actuación del bailarín japonés Ishii Baku en el teatro Miyako-za de Tainan y empezó a concebir la danza como una ocupación para toda la vida. Más tarde escribió una carta a Japón buscando maestro. Esa carta ni siquiera tenía dirección, pero gracias a la fama de Ishii Baku acabó en sus manos. A los 16 años dejó Tainan e ingresó en la escuela de danza de Ishii Baku, para luego estudiar con Ishii Midori.[^9]
+Tsai Jui-yueh nació en Tainan en 1921. En la secundaria, vio en el teatro Kyūkoza de Tainan una presentación del bailarín japonés Baku Ishii, y a partir de entonces empezó a pensar que la danza podía ser el trabajo de toda su vida. Más tarde envió una carta a Japón para buscar un maestro. Esa carta ni siquiera llevaba dirección, pero gracias a la fama de Baku Ishii terminó llegando a sus manos. A los 16 años, dejó Tainan para entrar en la escuela de danza de Baku Ishii, y después estudió también con Midori Ishii.[^9]
 
-El punto de partida es minúsculo. Una adolescente en una ciudad colonial ve un espectáculo, escribe una carta, espera respuesta y convence a su familia para que la deje ir al extranjero. La historia de la danza en Taiwán suele resumirla como «pionera», pero la palabra «pionera» alisa la aventura de aquellos años. Ella no se plantó al inicio de un camino ya trazado; en un lugar sin caminos, fue la primera en posar el pie.
+Este punto de partida es pequeño. Una adolescente en una ciudad colonial vio una función, escribió una carta, esperó una respuesta y luego convenció a su familia de dejarla salir del país. La historiografía posterior de la danza taiwanesa suele resumirla como "pionera", pero esa palabra termina aplanando el riesgo que asumió en su momento. Ella no estaba parada frente a un camino ya pavimentado: estaba, en un lugar sin camino previo, dando el primer paso con sus propios pies.
 
-Durante sus giras por Japón y el Sureste Asiático, Tsai Jui-yueh acumuló amplia experiencia escénica. Tras la guerra rechazó quedarse en Japón y eligió volver a Taiwán en barco. Un artículo de _Minpo Cultural Magazine_ sitúa su _Canción de la India_, creada durante el viaje de regreso, en el contexto del desarrollo temprano de la danza moderna en Taiwán.[^2]
+Durante sus giras por Japón y el sudeste asiático, Tsai Jui-yueh acumuló una amplia experiencia escénica. Al terminar la guerra, rechazó quedarse a desarrollarse en Japón y eligió volver a Taiwán en barco. Un perfil de Tsai Jui-yueh reproducido por la _Revista Cultural Min Bao_ sitúa la coreografía de _Canción de la India_, creada durante esa travesía de regreso, dentro del contexto del desarrollo temprano de la danza moderna en Taiwán.[^2]
 
-Lo que se dijo a sí misma en el barco se volvió clave para entenderla:
+Lo que se dijo a sí misma en ese barco se convirtió más tarde en una llave para entenderla:
 
-> “I didn’t care if other passengers thought I was crazy.”[^3]
+> "I didn't care if other passengers thought I was crazy."[^3]
 
-No ignoraba la mirada ajena. Simplemente decidió primero que iba a bailar. Otra frase es aún más directa:
+La traducción al español sería: "No me importaba que otros pasajeros pensaran que estaba loca." No es que ignorara cómo la verían los demás. Simplemente ya había decidido bailar. Otra frase suya es aún más directa:
 
-> “I couldn’t wait to get home to perform, to choreograph, to teach.”[^3]
+> "I couldn't wait to get home to perform, to choreograph, to teach."[^3]
 
-La traducción al chino es «No puedo esperar a volver a casa para actuar, coreografiar, enseñar». Aquí «casa» no es un destino tranquilo, sino un lugar que aún no tiene escenario y que hay que construir uno mismo.
+La traducción al español sería: "No podía esperar a llegar a casa para actuar, coreografiar y enseñar." Aquí, "casa" no es un destino tranquilo, sino un lugar donde todavía no existe ningún escenario y que hay que construir con las propias manos.
 
-## No volvió a una tierra en blanco
+## No volvió a un terreno vacío
 
-Poco después de regresar a Tainan en 1946, Tsai Jui-yueh presentó una danza en la iglesia Taipingjing. También empezó a enseñar en Tainan. En 1947 se casó con el poeta Lei Shih-yu; luego ambos se mudaron a Taipéi y vivieron y trabajaron en una residencia para profesores de la Universidad Nacional de Taiwán. Ese edificio de estilo japonés en el callejón 48 de la sección 2 de la calle Zhongshan North Road se convirtió paulatinamente en estudio de danza, hogar familiar y punto de encuentro de amigos artistas.[^4] [^9]
+En 1946, poco después de regresar a Tainan, Tsai Jui-yueh presentó una función de danza en la Iglesia Taiping Jing. También empezó a enseñar danza en Tainan. En 1947 se casó con el poeta Lei Shih-yu, y después ambos se mudaron a Taipéi, donde vivieron y trabajaron en un dormitorio para profesores de la Universidad Nacional de Taiwán. Aquel edificio de estilo japonés, ubicado en el callejón 48 de la sección 2 de la calle Zhongshan Norte, se convirtió gradualmente en aula de danza, hogar familiar y punto de encuentro de amigos del mundo del arte.[^4] [^9]
 
-El valor de esta construcción no proviene solo de quién la habitó. Los archivos y los datos del sitio indican que el inmueble fue originalmente una residencia para funcionarios civiles durante la época japonesa, construido alrededor de 1925, y luego ampliado o reformado para las necesidades de la enseñanza de la danza. Esas huellas temporales no del todo coherentes demuestran, paradójicamente, que la sala de danza no es una pieza de museo sellada, sino un espacio de trabajo que se fue ajustando continuamente a sus usuarios.[^8] [^9]
+El valor de este edificio no proviene solo de quién vivió allí. Los archivos y los datos del sitio indican que la construcción fue originalmente un dormitorio de funcionarios de la era de dominación japonesa, edificado alrededor de 1925, y que más tarde fue ampliado o remodelado para las necesidades de la enseñanza de danza. Estas huellas de distintas épocas, que no coinciden del todo entre sí, en realidad demuestran que el estudio de danza no es una pieza de museo sellada, sino un espacio de trabajo que se ha ido ajustando junto con quienes lo usan.[^8] [^9]
 
-![Fachada de la Sala de Investigación de Danza Tsai Jui-yueh](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
+![Fachada del edificio del Instituto de Danza Tsai Jui-yueh](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
 
-_Fig. 2: Fachada de la Sala de Investigación de Danza Tsai Jui-yueh. Foto: Lin Kao-chih, licencia CC BY-SA 4.0. URL original: [Archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Licencia y descripción del archivo: página del archivo en Wikimedia Commons. No se ha modificado la imagen._
+_Figura 2: Fachada del edificio del Instituto de Danza Tsai Jui-yueh. Fotografía: Lin Kao-chih, bajo licencia CC BY-SA 4.0. Enlace directo a la imagen original: [archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Licencia y ficha del archivo: página del archivo en Wikimedia Commons. Sin modificaciones._
 
 [Página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)
 
-Los documentos conservados en el Archivo Nacional convierten este aula en algo más que un cálido salón literario. Huang Jung-tsan, Tan Tzu-hao, Lan Yin-ting y otros trabajadores culturales frecuentaron el lugar, discutiendo cómo la literatura, la lengua y la danza podían crecer en Taiwán.[^4] Pero el mismo contexto archivístico muestra que esas actividades culturales estaban siempre bajo la mirada de la policía. En 1949, la compañía de canto y danza de Tsai Jui-yueh fue catalogada como «sujeto de control por elementos sospechosos» por el contenido de sus actuaciones. Los documentos policiales llegaban a interpretar los fragmentos escénicos como posibles causantes de «nostalgia y rechazo a la guerra» y «sospecha de propaganda para bandidos y espías».[^5]
+Los materiales conservados por el Archivo Nacional muestran que esta aula no era solo un cálido salón artístico y literario. Figuras como Huang Rong-can, Chin Tzu-hao y Lan Yin-ding solían frecuentar el lugar, donde se hablaba de literatura, de lengua y de cómo la danza podía crecer en Taiwán.[^4] Pero ese mismo contexto documental también muestra que las actividades artísticas estuvieron siempre bajo la mirada de los organismos policiales. En 1949, la compañía de canto y danza de Tsai Jui-yueh fue incluida entre los objetos de "vigilancia de elementos sospechosos" por el contenido de sus presentaciones. Documentos de la Dirección de Policía llegaron incluso a interpretar pasajes escénicos como capaces de provocar "nostalgia y fatiga de guerra" y "sospecha de propaganda a favor de bandidos comunistas".[^5]
 
-No es una reconstrucción posterior la que impone el Terror Blanco sobre la historia del arte; los archivos realmente conservan cómo el Estado miraba la danza. El cuerpo del bailarín no solo era visto como arte, sino también como vehículo del pensamiento. Para el poder, la danza no necesita consignas explícitas para ser peligrosa. El mero movimiento del cuerpo puede leerse como desobediencia.
+Esto no es que las generaciones posteriores hayan proyectado el Terror Blanco sobre la historia del arte: los archivos realmente conservan la manera en que el Estado observaba la danza. El cuerpo de la bailarina no solo era visto como arte, sino también, potencialmente, como portador de ideas. Para el poder, la danza no necesitaba consignas explícitas para ser peligrosa. El simple movimiento del cuerpo ya podía interpretarse como desobediencia.
 
-## El preso número 15 y el ritmo del suelo
+## La reclusa número 15 y el ritmo del suelo
 
-En 1949, Lei Shih-yu fue arrestado por motivos políticos y posteriormente deportado. Tsai Jui-yueh fue detenida por su vinculación con él, encarcelada tres años y enviada a Green Island. Los archivos nacionales registran que Lei Shih-yu y Tsai Jui-yueh estuvieron separados muchos años, hasta que se reencontraron en Hebei, China, en 1990.[^4]
+En 1949, Lei Shih-yu fue arrestado por motivos políticos y posteriormente deportado. Tsai Jui-yueh fue detenida por estar vinculada a su esposo, encarcelada durante tres años y enviada a la isla Verde. Los materiales temáticos del Archivo Nacional registran que Lei Shih-yu y Tsai Jui-yueh estuvieron separados durante años, y que solo volvieron a encontrarse en la provincia de Hebei, en China, en 1990.[^4]
 
-En una historia oral reproducida en otro texto, Tsai Jui-yueh recuerda que, durante los trabajos forzados en Green Island, recogió conchas en el camino, guardando el viento marino y la arena fina como los pocos recuerdos de la vida carcelaria que podía controlar. Al salir le preguntaron «¿por qué me arrestaron?», y la respuesta fue «pensamiento vacilante». Esas dos frases no tienen la misma voz. La primera es el reclamo de comprensión de quien fue encerrado; la segunda, el veredicto con que el Estado cierra la comprensión.[^9] Esta experiencia no debe convertirse en la fábula edificante de «ella venció el sufrimiento con el arte». La celda no se volvió escenario, la persecución política no se volvió aceptable. Lo más exacto es decir: en el lugar donde le quitaron la libertad, ella se esforzó por conservar la sensación de su cuerpo y de su memoria.
+En otra reproducción de historia oral, Tsai Jui-yueh recordaba que, en la isla Verde, mientras trabajaba cargando cubos con una pértiga, recogía conchas en el camino, conservando el viento del mar y la arena fina como uno de los pocos recuerdos que podía controlar en la rutina carcelaria. Al salir de prisión preguntó "¿por qué me arrestaron?", y la respuesta que recibió fue "por inestabilidad ideológica". Estas dos frases no pertenecen a la misma voz: la primera es la exigencia de comprensión de una persona encarcelada; la segunda es el veredicto que el Estado usa para cerrar toda comprensión.[^9] Esta experiencia no debería escribirse como una fábula edificante de "venció el sufrimiento con el arte". La celda no se convirtió por ello en un escenario, ni la persecución política se volvió por ello aceptable. Es más preciso decir que, en un lugar donde le habían arrebatado la libertad, ella siguió esforzándose por conservar la sensación de su cuerpo y de su memoria.
 
-Tras su liberación en 1953, Tsai Jui-yueh volvió a enseñar. Primero abrió clases en la calle Nong'an de Taipéi y luego se trasladó a la ubicación actual de la sala de danza en la sección 2 de la calle Zhongshan North Road. En su apogeo, la sala tenía tres o cuatrocientos alumnos; desde la apertura por la mañana hasta la noche, el suelo siempre tenía alguien pisándolo.[^9]
+Tras salir de prisión en 1953, Tsai Jui-yueh volvió a enseñar danza. Primero abrió una clase en la calle Nong'an, en Taipéi, y luego se trasladó a la sede actual del estudio, en la sección 2 de la calle Zhongshan Norte. En su mejor momento, el estudio llegó a tener entre trescientos y cuatrocientos alumnos, y el suelo se mantenía pisado desde la apertura por la mañana hasta la noche.[^9]
 
-En 1959, para lograr el registro legal de la sala y hacer frente a la vigilancia de los agentes y a la interferencia en las actuaciones, Tsai Jui-yueh la rebautizó como «Sociedad de Danza China». El cambio de nombre respondía a una necesidad administrativa, pero también deja la huella de la era autoritaria: un espacio para enseñar danza debía aprender primero a explicarse dentro del sistema para tener la oportunidad de seguir bailando.[^2] [^9]
+En 1959, para registrar formalmente el estudio y también para hacer frente a la vigilancia de la policía secreta y a las interrupciones de sus presentaciones, Tsai Jui-yueh le cambió el nombre a "Instituto Chino de Danza". Ese cambio de nombre respondía a una necesidad administrativa, pero también dejó una marca de la era autoritaria: un espacio para enseñar danza tenía primero que aprender a explicarse a sí mismo dentro del sistema para poder seguir bailando.[^2] [^9]
 
-Casi nunca rechazaba una invitación a actuar. En su historia oral dijo:
+Casi nunca rechazaba una invitación a presentarse fuera. En su historia oral dijo:
 
-> “I never turned down a show after I got back because I was determined to spread the seeds of dance all over Taiwan.”[^3]
+> "I never turned down a show after I got back because I was determined to spread the seeds of dance all over Taiwan."[^3]
 
-La traducción al chino es «Tras volver, nunca rechacé una actuación, porque estaba decidida a sembrar las semillas de la danza por toda Taiwán». Si solo se lee como una declaración de entusiasmo, se pierde su trasfondo. Ella eligió multiplicar sus apariciones bajo vigilancia, con riesgo de que le cancelaran actuaciones y con restricciones para salir al extranjero.
+La traducción al español sería: "Nunca rechacé una función después de volver, porque estaba decidida a sembrar la danza por toda Taiwán." Si esta frase se lee solo como una declaración entusiasta, se pierde su contexto. Ella decidió multiplicar sus apariciones estando bajo vigilancia, con presentaciones que podían cancelarse en cualquier momento y con las oportunidades de viajar al extranjero restringidas.
 
-## _Los títeres suben al escenario_ no es una libertad abstracta
+## "Marionetas en escena" no es una libertad abstracta
 
-La obra de Tsai Jui-yueh suele discutirse como «el inicio de la danza moderna en Taiwán». No está mal, pero se queda corto. Sus coreografías también abordan un problema concreto: ¿quién mueve el cuerpo y puede este recuperar su propia dirección?
+Las obras de Tsai Jui-yueh suelen presentarse como "el inicio de la danza moderna taiwanesa". Eso no es incorrecto, pero sigue siendo insuficiente. Sus coreografías también abordan un problema concreto: quién mueve los hilos del cuerpo, y si ese cuerpo puede recuperar su propia dirección.
 
-_Canción de la India_ se gestó en el barco de regreso. Lleva la velocidad del retorno y la decisión de una bailarina de traer lo aprendido a la isla. _La persecución_ (1949), inspirada en la imaginería de los pueblos originarios y los bosques de Taiwán, se convirtió después en una de sus piezas emblemáticas.[^2] [^9]
+_Canción de la India_ tomó forma durante la travesía de regreso a Taiwán. Lleva consigo la velocidad del regreso a casa, y también la decisión de una bailarina de traer de vuelta a la isla lo que había aprendido. _Persecución_, creada en 1949 e inspirada en imágenes de los pueblos indígenas de Taiwán y de sus montañas y bosques, se convirtió más tarde en una de sus coreografías más importantes.[^2] [^9]
 
-La que enfrenta más directamente la opresión política es _Los títeres suben al escenario_. Un reportaje de _Taipei Cultural Express_ la describe como una obra posterior a su salida de prisión: la bailarina parece un títere manejado por hilos invisibles, pero en el escenario deja oír una voz de resistencia al poder fuerte.[^7] Esta lectura es válida, pero no hay que inflarla hasta convertirla en «la danza que derrocó la autocracia». Se parece más al testimonio corporal de una persona: sé que los hilos siguen ahí, sé que me están tirando, pero quiero que el público vea esos hilos.
+La obra que enfrenta de manera más directa la represión política es _Marionetas en escena_. El especial del Departamento de Cultura de Taipéi la describe como una obra creada después de que Tsai Jui-yueh saliera de prisión, en la que los bailarines se mueven como marionetas dominadas por hilos invisibles, pero dejan en el escenario una voz de resistencia frente al poder.[^7] Esta lectura es válida, pero no hace falta exagerarla como si se tratara de "una obra de danza que derrocó el autoritarismo". Se parece más a un testimonio corporal dejado por una persona: sé que el hilo sigue ahí, sé que estoy siendo movida, pero aun así quiero que el público vea ese hilo.
 
-Tsai Jui-yueh se mudó a Australia en 1983. Dejó Taiwán, pero no recortó la sala de danza de su vida. En una historia oral publicada por _Taipei Times_ dijo:
+En 1983, Tsai Jui-yueh se trasladó a Australia. Dejó Taiwán, pero no cortó al estudio de danza de su propia vida. En un reportaje de historia oral publicado por el Taipei Times, dijo:
 
-> “It was difficult to leave behind my beloved country and dance studio.”[^3]
+> "It was difficult to leave behind my beloved country and dance studio."[^3]
 
-La segunda parte de la frase suele pasarse por alto. Lo que le costaba dejar no era un país abstracto, sino _country and dance studio_, la tierra y un aula concreta. Para Tsai Jui-yueh, la sala de danza no era telón de fondo, era el órgano con el que se volvía a conectar a Taiwán.
+La traducción al español sería: "Fue difícil dejar atrás mi amado país y mi estudio de danza." La segunda mitad de esta frase suele pasarse por alto. Lo que le costó dejar no era un país abstracto, sino "country and dance studio": una tierra y un aula concreta. Para Tsai Jui-yueh, el estudio de danza no era un simple telón de fondo, sino el órgano que la reconectaba con Taiwán.
 
-## Cómo una casa se vuelve memoria pública
+## Cómo una casa se convirtió en memoria pública
 
-En 1994, la sala de danza corrió riesgo de demolición por las obras del metro de Taipéi. El mundo cultural lanzó una campaña de rescate; tres bailarines permanecieron 24 horas en lo alto del edificio, mientras en el suelo se relevaban con danza, música y charlas. Gracias a ello, la sala se salvó.[^9]
+En 1994, el estudio de danza enfrentó una demolición por las obras del metro de Taipéi. El mundo de la cultura lanzó una campaña de rescate: tres bailarines permanecieron suspendidos en el aire durante 24 horas, mientras que en el suelo se sucedían danzas, música y charlas. Gracias a eso, el estudio se conservó.[^9]
 
-Lo importante de ese movimiento de preservación no es solo que una casa de madera no desapareciera. Mostró por primera vez a gran escala que la preservación cultural no es algo que los expertos decidan por la sociedad, ni que un edificio sobreviva solo porque se le declare monumento. Lo que realmente mantiene un espacio es la disposición de la gente a poner su cuerpo en riesgo, para que una dirección vuelva a ser un asunto público.
+Lo importante de este movimiento de conservación no es solo que, al final, un edificio de madera no desapareciera. Fue la primera vez que el mundo del arte y la cultura de Taiwán mostró, a gran escala, que la preservación cultural no es algo que los expertos deciden por la sociedad, ni algo que ocurre automáticamente solo porque un edificio reciba el título de monumento histórico. Lo que realmente hizo que el espacio sobreviviera fue que hubo personas dispuestas a poner su cuerpo en riesgo para que una dirección volviera a convertirse en un asunto público.
 
-En 1999, la sala fue declarada monumento histórico municipal de Taipéi. Días después, un incendio la destruyó. El episodio sigue generando controversia sobre la investigación y el esclarecimiento de responsabilidades. En 2026, la Agencia Central de Noticias informó que la Fundación Cultural Tsai Jui-yueh y otras organizaciones presentaron una queja ante el Yuan de Control para que se reexaminen las causas del incendio, la preservación in situ y la responsabilidad de las autoridades competentes.[^11]
+En 1999, el estudio de danza fue declarado monumento histórico municipal de Taipéi. Pocos días después, el edificio fue destruido por un incendio. Este episodio todavía genera controversia sobre la investigación y la determinación de responsabilidades. En 2026, la Agencia Central de Noticias (CNA) informó que la Fundación Cultural Tsai Jui-yueh y otros grupos presentaron una queja ante el Yuan de Control, exigiendo que se revisaran las causas del incendio, la conservación de la escena y la responsabilidad de las autoridades competentes.[^11]
 
-Aquí hay que separar el «incendio intencional» del «quién lo provocó». La agencia informó de las demandas de la fundación y los grupos solidarios, y también de sus alegaciones sobre cámaras y peritajes, pero eso no equivale a haber probado que una persona u organismo ordenara el incendio. El artículo puede decir que quedan dudas sobre el incendio, pero no debe presentar como hecho probado una responsabilidad que no ha sido confirmada judicialmente.
+Aquí hay que separar "incendio provocado" de "quién lo provocó". El reportaje de la CNA recoge las declaraciones de la fundación y de los grupos que la apoyan, incluidas sus afirmaciones sobre cámaras de vigilancia y peritajes en el lugar, pero eso no equivale a demostrar que una persona o institución específica haya ordenado el incendio. Se puede afirmar que las dudas sobre el incendio siguen sin resolverse, sin por ello convertir en un hecho probado una responsabilidad que no ha sido confirmada judicialmente.
 
-Ante los restos carbonizados de su sala, Tsai Jui-yueh dijo:
+Frente al estudio de danza ennegrecido, Tsai Jui-yueh dijo:
 
-> «Me parece haber perdido a una hija.»[^10]
+> "Sentí como si hubiera perdido a una hija."[^10]
 
-Esta frase proviene de un artículo de _Minpo Cultural Magazine_ de 2015 reproducido sobre la Sala de Investigación de Danza Tsai Jui-yueh. No es una sentencia judicial ni un informe pericial, sino la memoria de un momento conservada por una entrevistada. La cito para que el lector sepa que ese incendio no fue un evento abstracto de patrimonio, sino que alguien vio arder el suelo de madera, las paredes y los rastros de vida que le eran familiares.
+Esta frase proviene de un artículo sobre el Instituto de Danza Tsai Jui-yueh reproducido en 2015 por la _Revista Cultural Min Bao_. No es un fallo judicial ni un informe de investigación del incendio, sino un recuerdo del momento conservado por la propia entrevistada. Se cita aquí para que el lector sepa que este incendio no fue un episodio abstracto de patrimonio cultural, sino algo que alguien vivió viendo cómo se quemaban un suelo de madera, unas paredes y las huellas de una vida que le eran familiares.
 
-## Tras el fuego, no basta con decir «renacimiento»
+## Después del fuego, no digamos solo "renacimiento"
 
-En 2006, la Sala de Investigación de Danza Tsai Jui-yueh reabrió. El comunicado de la Presidencia de entonces la calificaba como el primer monumento municipal de Taiwán dedicado a la danza, y la posicionaba como puerta de entrada al intercambio internacional de la danza taiwanesa.[^6] La actual presentación de la Oficina de Cultura de Taipéi indica que el sitio exhibirá materiales históricos y audiovisuales de danza, y promoverá la investigación, la educación y el intercambio internacional.[^8]
+En 2006, el Instituto de Danza Tsai Jui-yueh reabrió sus puertas. El comunicado de prensa de la Oficina Presidencial de aquel momento lo describió como el primer monumento histórico municipal de Taiwán dedicado a la danza, y lo situó como una puerta de entrada al intercambio internacional en el ámbito de la danza taiwanesa.[^6] La presentación actual del Departamento de Asuntos Culturales de Taipéi señala que la sede exhibirá materiales históricos e imágenes sobre la danza, promoviendo la investigación, la educación y el intercambio internacional.[^8]
 
-Este posicionamiento hace que el sitio histórico Rosas no sea solo «la casa donde vivió Tsai Jui-yueh». Es a la vez punto de acceso a un archivo de danza, espacio educativo donde el público contacta con el entrenamiento corporal, y base cultural que inserta la danza taiwanesa en el diálogo internacional. Esos tres usos no siempre son naturalmente coherentes. La preservación exige controlar el entorno y las huellas; la enseñanza necesita usar el suelo repetidamente; el intercambio internacional requiere traducir la historia local a un lenguaje comprensible para audiencias externas. El reto a largo plazo de la sala es hacer que esos tres usos se sostengan mutuamente, no que se consuman entre sí.[^6] [^8]
+Esta posición hace que el "Monumento Rosa" sea algo más que "la casa donde vivió Tsai Jui-yueh". Es al mismo tiempo una puerta de archivo que conserva materiales históricos de danza, un espacio educativo que acerca a la gente común al entrenamiento corporal, y un punto cultural que inserta la danza taiwanesa en el diálogo internacional. Estos tres usos no siempre coinciden de manera natural. La conservación exige controlar el ambiente y las huellas; la enseñanza requiere usar el suelo una y otra vez; el intercambio internacional necesita traducir una historia local a un lenguaje comprensible para un público externo. El desafío de largo plazo del estudio de danza es precisamente lograr que estos tres usos se sostengan mutuamente, en lugar de desgastarse entre sí.[^6] [^8]
 
-«Renacer de las cenizas» es una frase cómoda, pero puede tapar los problemas posteriores. Los registros de la reunión de inspección de restauración de noviembre de 1999 conservados por la fundación muestran que, tras el incendio, la fundación, académicos y unidades del gobierno de Taipéi se reunieron para discutir la restauración.[^10] Pero la restauración no termina al volver a levantar los muros. Qué materiales pueden sustituirse, qué huellas deben conservarse, quién tiene derecho a decidir cómo opera un lugar creado por una comunidad cultural, todo eso forma parte del trabajo de preservación.
+"Renacer de las cenizas" es una expresión cómoda, pero también puede ocultar los problemas posteriores. Las actas de la reunión de inspección de restauración de noviembre de 1999, conservadas por la fundación, muestran que, tras el incendio, la fundación, académicos y las unidades correspondientes del gobierno municipal de Taipéi se reunieron para discutir la restauración.[^10] Pero restaurar no termina con volver a levantar una pared. Qué materiales pueden reemplazarse, qué huellas deben conservarse, y quién tiene derecho a decidir cómo funciona un lugar creado por una comunidad cultural: todo esto forma parte del trabajo de conservación.
 
-Por tanto, el valor del sitio histórico Rosas no está solo en que el edificio de madera siga en pie. Su valor está también en que reúne en una misma dirección un tramo de historia de la danza, un tramo de historia de la persecución de mujeres, un tramo de historia del desarrollo urbano y una controversia sobre bienes culturales que aún no se ha esclarecido del todo. La Oficina de Cultura de Taipéi llama a este lugar «cuna de la danza taiwanesa»; si ese nombre no ha de convertirse en eslogan turístico, debe recordarse junto con la vigilancia, la amenaza de demolición, el incendio y las disputas de la restauración.[^8]
+Por eso, el valor del Monumento Rosa no está solo en que el edificio de madera siga en pie. Su valor está también en que reúne, en una misma dirección, un fragmento de la historia de la danza, un fragmento de la historia de la persecución de una mujer, un fragmento de la historia del desarrollo urbano y una controversia patrimonial que todavía no se ha esclarecido del todo. El Departamento de Cultura de Taipéi llama a este lugar "la cuna de la danza taiwanesa"; para que ese nombre no se convierta en un simple eslogan turístico, debe recordarse junto con la vigilancia, la amenaza de demolición, el incendio y la controversia de la restauración.[^8]
 
-Las placas explicativas in situ recuerdan que la «restauración del aspecto original» no es una simple réplica de la apariencia de los años 1920, sino una selección entre las capas del incendio, la enseñanza, las ampliaciones y el uso cotidiano. Ver una placa no equivale a haber leído toda la historia, pero permite al visitante saber: la preservación del patrimonio es también una labor de escritura de la historia; quién entra en el relato y qué huellas se conservan influirán en cómo las generaciones futuras entiendan a Tsai Jui-yueh.[^13] [^14]
+El letrero informativo en el propio sitio también recuerda a los visitantes que "restaurar el aspecto original" no significa simplemente reproducir la fachada de la década de 1920, sino elegir entre las distintas capas dejadas por el incendio, la enseñanza, las ampliaciones y el uso cotidiano. Leer un letrero informativo no equivale a conocer toda esta historia, pero sí permite que el visitante sepa que la conservación del patrimonio cultural es también un trabajo de escritura histórica: quién queda registrado y qué huellas se conservan influye en cómo las generaciones futuras entenderán a Tsai Jui-yueh.[^13] [^14]
 
-![Placa explicativa de la Sala de Investigación de Danza Tsai Jui-yueh](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
+![Letrero informativo del Instituto de Danza Tsai Jui-yueh](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
 
-_Fig. 3: Placa explicativa de la Sala de Investigación de Danza Tsai Jui-yueh. Foto: Solomon203, licencia CC BY-SA 4.0. URL original: [Archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Licencia y descripción del archivo: [Página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). No se ha modificado la imagen._
+_Figura 3: Letrero informativo del Instituto de Danza Tsai Jui-yueh. Fotografía: Solomon203, bajo licencia CC BY-SA 4.0. Enlace directo a la imagen original: [archivo original en Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Licencia y ficha del archivo: [página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Sin modificaciones._
 
-## El suelo sigue esperando el próximo movimiento
+## El suelo todavía espera el próximo movimiento
 
-Tsai Jui-yueh falleció en 2005. No vio la reapertura de 2006, pero su aula se convirtió después en base para festivales de danza, foros culturales e intercambios internacionales.[^2] [^6]
+Tsai Jui-yueh murió en 2005. No llegó a ver la reapertura del Instituto de Danza en 2006, pero el aula que dejó se convirtió después en sede de festivales de danza, foros culturales e intercambios internacionales.[^2] [^6]
 
-Lo que dejó finalmente a Taiwán no es la respuesta de una estatua de «madre de la danza moderna», sino una pregunta que sigue usable: ¿cómo puede la danza, en un lugar con cicatrices políticas, seguir dejando que el cuerpo sea libre?
+Lo último que dejó a Taiwán no es la respuesta de una estatua de bronce que dice "madre de la danza moderna", sino una pregunta que todavía puede usarse: ¿cómo puede la danza, en un lugar con heridas políticas, seguir dejando que el cuerpo sea libre?
 
-La respuesta no está en convertir a Tsai Jui-yueh en alguien que no se hiere. Ella se hirió, se fue, y vio su sala de danza devorada por el fuego. La respuesta se parece más a otro tipo de paciencia: volver a enlazar los movimientos que fueron interrumpidos a la fuerza, entregar una casa de la memoria privada al debate público, y permitir que la próxima generación de bailarines encuentre su propio ritmo en ese mismo suelo.
+La respuesta no consiste en presentar a Tsai Jui-yueh como alguien que nunca sufrió daño. Ella fue herida, se marchó, y también vio cómo el fuego devoraba su propio estudio de danza. La respuesta se acerca más a otro tipo de paciencia: volver a enlazar un movimiento que fue interrumpido a la fuerza, entregar una casa de la memoria privada a la discusión pública, y dejar que la siguiente generación de bailarines encuentre su propio ritmo sobre el mismo suelo.
 
-Tsai Jui-yueh dijo una vez que quería sembrar semillas de danza por toda Taiwán. Las semillas no son souvenirs; deben entrar en la tierra, enfrentar viento, lluvia, vigilancia, planes de demolición e incendios, y aún así haber alguien dispuesto a regarlas. Hoy, al entrar al n.º 10 del callejón 48 de la sección 2 de la calle Zhongshan North Road, lo que realmente merece la pena ver no es un monumento restaurado fielmente, sino si este lugar sigue permitiendo que el cuerpo plantee nuevas preguntas.
+Tsai Jui-yueh dijo una vez que quería sembrar la danza por toda Taiwán. Una semilla no es un recuerdo de souvenir: tiene que entrar en la tierra, enfrentar el viento, la lluvia, la vigilancia, los planes de demolición y los incendios, y necesita además que alguien esté dispuesto a regarla. Hoy, al entrar en el número 10 del callejón 48 de la calle Zhongshan Norte, lo que realmente vale la pena mirar no es un monumento histórico restaurado para parecerse lo más posible al original, sino si ese lugar todavía permite que el cuerpo plantee preguntas nuevas.
 
-📝 Nota de la curadora: La verdadera prueba de que una sala de danza no se quemó no es que las paredes sigan en pie, sino que alguien sigue ensayando dentro y sabe lo que este suelo ha soportado.
+📝 Nota del curador: la verdadera prueba de que un estudio de danza no fue destruido por el fuego no es que las paredes sigan en pie, sino que todavía haya alguien ensayando adentro, sabiendo lo que ese suelo tuvo que soportar.
 
 ## Lecturas complementarias
 
-[Oficina de Cultura de Taipéi: Sala de Investigación de Danza Tsai Jui-yueh](https://culture.gov.taipei/cp.aspx?n=772B4E67566296F7) ofrece información sobre la ubicación actual, el edificio y los servicios.
+El [Departamento de Cultura de Taipéi: Instituto de Danza Tsai Jui-yueh](https://culture.gov.taipei/cp.aspx?n=772B4E67566296F7) ofrece información sobre la sede actual, el edificio y los servicios.
 
-[Archivo Nacional: Tsai Jui-yueh y Tsui Hsiao-ping en el mundo cultural](https://art.archives.gov.tw/tw/art/906.html) permite ampliar el contexto archivístico de los trabajadores culturales bajo el régimen autoritario.
+El [Archivo Nacional: Tsai Jui-yueh y Tsui Hsiao-ping en el mundo del arte](https://art.archives.gov.tw/tw/art/906.html) permite profundizar en el contexto documental de los trabajadores del arte y la cultura bajo el régimen autoritario.
 
-## Datos de licencia de las imágenes
+## Fuentes de imágenes
 
-[^12]: [Wikimedia Commons: Tsai Jui-yueh Dance Institute 20130925.jpg](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg) — Autor: lienyuan lee, licencia CC BY 3.0. El artículo usa la foto original sin modificar.
+[^12]: [Wikimedia Commons: Tsai Jui-yueh Dance Institute 20130925.jpg](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg) — Autor: lienyuan lee, bajo licencia CC BY 3.0. Este artículo usa la fotografía original, sin modificaciones.
 
-[^13]: [Wikimedia Commons: 蔡瑞月（舞蹈研究社）0432.jpg](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg) — Autor: Lin Kao-chih, licencia CC BY-SA 4.0. El artículo usa la foto original sin modificar.
+[^13]: [Wikimedia Commons: 蔡瑞月（舞蹈研究社）0432.jpg](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg) — Autor: Lin Kao-chih, bajo licencia CC BY-SA 4.0. Este artículo usa la fotografía original, sin modificaciones.
 
-[^14]: [Wikimedia Commons: Tsai Jui-yueh Dance Institute plaque 20190706.jpg](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg) — Autor: Solomon203, licencia CC BY-SA 4.0. El artículo usa la foto original sin modificar.
+[^14]: [Wikimedia Commons: Tsai Jui-yueh Dance Institute plaque 20190706.jpg](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg) — Autor: Solomon203, bajo licencia CC BY-SA 4.0. Este artículo usa la fotografía original, sin modificaciones.
 
 ## Referencias
 
-[^1]: [Boletín de la Presidencia: Decreto de elogio](https://www.president.gov.tw/Page/294/36913) — Decreto de 2005 que resume el regreso de Tsai Jui-yueh, la fundación de la sala de investigación, sus creaciones, giras al extranjero y condecoraciones.
+[^1]: [Gaceta de la Oficina Presidencial: condecoración oficial](https://www.president.gov.tw/Page/294/36913) — Orden de condecoración de 2005 que resume el regreso de Tsai Jui-yueh a Taiwán, la fundación de su instituto de danza, su obra creativa, sus presentaciones en el extranjero y los reconocimientos recibidos.
 
-[^2]: [Minpo Cultural Magazine (reproducción): Nacida para la danza — Tsai Jui-yueh, madre de la danza moderna taiwanesa](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Sgoeh/brief/Ng,Sbin.htm) — Artículo biográfico reproducido de _Minpo Cultural Magazine_, que recorre su formación en Japón, su regreso y creación, la persecución política y la evolución de la sala de danza.
+[^2]: [Reproducido por la Revista Cultural Min Bao: Nacida para la danza — la madre de la danza moderna taiwanesa, Tsai Jui-yueh](http://www.laijohn.com/archives/pc/Chhoa/Chhoa,Sgoeh/brief/Ng,Sbin.htm) — Perfil de Tsai Jui-yueh reproducido de la _Revista Cultural Min Bao_, que resume sus estudios de danza en Japón, su obra creativa al regresar a Taiwán, su persecución política y la historia de su instituto de danza.
 
-[^3]: [Taipei Times: Born to groove](https://www.taipeitimes.com/News/feat/archives/2017/05/28/2003671430) — Reportaje biográfico en inglés centrado en historia oral, con citas textuales de Tsai Jui-yueh sobre su regreso, actuaciones, persecución política y salida de la sala de danza.
+[^3]: [Taipei Times: Born to groove](https://www.taipeitimes.com/News/feat/archives/2017/05/28/2003671430) — Perfil en inglés centrado en historia oral, que recoge citas textuales de Tsai Jui-yueh sobre su regreso, sus presentaciones, la persecución política y su partida del instituto de danza.
 
-[^4]: [Archivo Nacional: Tsai Jui-yueh y Tsui Hsiao-ping en el mundo cultural](https://art.archives.gov.tw/tw/art/906.html) — Dossier temático del Archivo Nacional sobre figuras culturales en la era autoritaria, que contextualiza la familia de Tsai Jui-yueh y Lei Shih-yu, la sala de danza y la persecución política.
+[^4]: [Archivo Nacional: Tsai Jui-yueh y Tsui Hsiao-ping en el mundo del arte](https://art.archives.gov.tw/tw/art/906.html) — Especial del Archivo Nacional sobre figuras del arte y la cultura durante la era autoritaria, que explica la familia de Tsai Jui-yueh y Lei Shih-yu, el instituto de danza y el contexto de la persecución política.
 
-[^5]: [Archivo Nacional: Control de elementos sospechosos — Caso de la compañía de canto y danza de Tsai Jui-yueh](https://art.archives.gov.tw/tw/art/906-12793.html) — Página con el nombre y la descripción del caso concreto, que muestra cómo los órganos policiales registraron e interrogaron a la compañía de Tsai Jui-yueh entre 1949 y 1950.
+[^5]: [Archivo Nacional: vigilancia de elementos sospechosos — el caso de la compañía de canto y danza de Tsai Jui-yueh](https://art.archives.gov.tw/tw/art/906-12793.html) — Página con el nombre y la descripción específica del expediente, que muestra cómo los organismos policiales registraron e investigaron a la compañía de Tsai Jui-yueh entre 1949 y 1950.
 
-[^6]: [Presidencia: El presidente asiste a la ceremonia de apertura de la «Sala de Investigación de Danza Tsai Jui-yueh»](https://www.president.gov.tw/NEWS/11292) — Comunicado de 2007 sobre la apertura, que recoge el movimiento de preservación, la evolución de la sala, su estatus de monumento y la influencia cultural de Tsai Jui-yueh.
+[^6]: [Noticias de la Oficina Presidencial: el Presidente asiste a la ceremonia de apertura del "Instituto de Danza Tsai Jui-yueh"](https://www.president.gov.tw/NEWS/11292) — Comunicado de prensa de la reapertura de 2007, que registra la campaña de conservación, la historia del instituto de danza, su estatus como monumento histórico y la influencia cultural de Tsai Jui-yueh.
 
-[^7]: [Taipei Cultural Express: Búsqueda centenaria — El espíritu de la época de Tsai Jui-yueh](https://cultureexpress.taipei/PastTopic/C000004?ID=ae782329-f44a-4948-a1ce-c8fae6964292&PageType=1) — Artículo temático cultural de Taipéi que sitúa _Los títeres suben al escenario_, _Canción de la India_ y otras obras en el contexto del Terror Blanco, la libertad y la justicia transicional.
+[^7]: [Departamento de Cultura de Taipéi — Culture Express: la búsqueda de un siglo — el espíritu de la época de Tsai Jui-yueh](https://cultureexpress.taipei/PastTopic/C000004?ID=ae782329-f44a-4948-a1ce-c8fae6964292&PageType=1) — Artículo especial del Departamento de Cultura de Taipéi que sitúa obras como _Marionetas en escena_ y _Canción de la India_ en el contexto del Terror Blanco, la libertad y la justicia transicional.
 
-[^8]: [Oficina de Cultura de Taipéi: Sala de Investigación de Danza Tsai Jui-yueh](https://culture.gov.taipei/cp.aspx?n=772B4E67566296F7) — Página oficial del museo, con dirección, antecedentes de la residencia de funcionarios japoneses, exposición de materiales de danza y posicionamiento en investigación y educación.
+[^8]: [Departamento de Cultura de Taipéi: Instituto de Danza Tsai Jui-yueh](https://culture.gov.taipei/cp.aspx?n=772B4E67566296F7) — Página oficial del sitio a cargo del Departamento de Cultura del gobierno municipal de Taipéi, con la dirección, los antecedentes del edificio como dormitorio de funcionarios de estilo japonés, y su función de exhibición de materiales históricos de danza e investigación educativa.
 
-[^9]: [Fundación Cultural Tsai Jui-yueh: Trayectoria vital del sitio histórico Rosas](https://www.dance.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91about-us/%E7%8E%AB%E7%91%B0%E5%8F%A4%E8%B9%9F%E7%9A%84%E7%94%9F%E5%91%BD%E6%AD%B7%E7%A8%8B) — Artículo de la fundación sobre la historia vital y la evolución del sitio, con datos sobre su ida a Japón, persecución, enseñanza, movimiento de preservación de 1994 y transmisión del festival de danza.
+[^9]: [Fundación Cultural Tsai Jui-yueh: la trayectoria vital del Monumento Rosa](https://www.dance.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91about-us/%E7%8E%AB%E7%91%B0%E5%8F%A4%E8%B9%9F%E7%9A%84%E7%94%9F%E5%91%BD%E6%AD%B7%E7%A8%8B) — Artículo de la fundación sobre la trayectoria vital y la historia del sitio, que incluye datos sobre el viaje de Tsai Jui-yueh a Japón, su persecución, su labor docente, la campaña de conservación de 1994 y la continuidad de los festivales de danza.
 
-[^10]: [Fundación Cultural Tsai Jui-yueh: Acta de la reunión de inspección de restauración tras el incendio del monumento de noviembre de 1999](https://www.dance.org.tw/1999%E5%B9%B411%E6%9C%88%E5%8F%A4%E8%B9%9F%E7%81%AB%E7%81%BD%E5%BE%8C%E5%8F%AC%E9%96%8B%E4%BF%AE%E5%BE%A9%E6%9C%83%E5%8B%98%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84) — Página pública de la fundación con el acta de la reunión posterior al incendio de noviembre de 1999, que lista a los participantes de la fundación, académicos y unidades gubernamentales.
+[^10]: [Fundación Cultural Tsai Jui-yueh: acta de la reunión de inspección de restauración celebrada tras el incendio del monumento histórico en noviembre de 1999](https://www.dance.org.tw/1999%E5%B9%B411%E6%9C%88%E5%8F%A4%E8%B9%9F%E7%81%AB%E7%81%BD%E5%BE%8C%E5%8F%AC%E9%96%8B%E4%BF%AE%E5%BE%A9%E6%9C%83%E5%8B%98%E6%9C%83%E8%AD%B0%E7%B4%80%E9%8C%84) — Página pública de la fundación sobre la inspección de restauración tras el incendio, que enumera a los participantes de la fundación, del ámbito académico y del gobierno en noviembre de 1999.
 
-[^11]: [Agencia Central de Noticias: La Sala de Investigación de Danza Tsai Jui-yueh sufrió un incendio intencional hace 27 años; la fundación pide reabrir la investigación](https://www.cna.com.tw/news/aipl/202607230250.aspx) — Noticia de 2026 que registra la queja de la fundación ante el Yuan de Control y la controversia sobre las responsabilidades del incendio aún no esclarecidas.
+[^11]: [Agencia Central de Noticias (CNA): el Instituto de Danza Tsai Jui-yueh sufrió un incendio provocado hace 27 años; la fundación espera que se reabra la investigación](https://www.cna.com.tw/news/aipl/202607230250.aspx) — Reportaje concreto de 2026 que registra la petición de la fundación ante el Yuan de Control y la controversia aún no resuelta sobre la responsabilidad del incendio.

@@ -1,0 +1,18 @@
+{
+  "revision": 31,
+  "submissionId": "2f925151-591c-4162-ac32-7256d4f7ceb7",
+  "actor": "compose-reviewer-2 (Sonnet agent a80b81017ef83be20, fresh context, read blueprint + article + submission only)",
+  "verdict": "accept",
+  "rationale": "八步骨架逐一對應、每節有拋接句非面向巡禮；論點在中段以三把尺、兩部法律、862.7 萬拆解、何佩珊與墨西哥反例兌現，結尾是收口非重複；第三型紀律落實（攻擊語入引號歸發言者、每方只代表自己、沉默當內容、兩國例子加「至少在這幾個國家」護欄、無陰謀反問）；數字帶母體年份、自算標推算；前三句具體人事時；結尾無罐頭。觀察項：「其他服務業唯一中位數低於 39 萬」的 superlative 已由 verifier 對 DGBAS 表 6 全行業核過（只有它低於 39 萬），正文語意即「表上唯一」。",
+  "evidence": [
+    {
+      "path": "reports/article-projection/誰算低薪.md",
+      "location": "§2 骨架；§3 各節；§6 結尾"
+    },
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "八個 H2 與各節尾句；section 5 反例段；section 7 但書與 tw-note；結尾段"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

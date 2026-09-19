@@ -1,17 +1,17 @@
 ---
-title: 'Chen Sư Tú: Một thương lượng thị trường ở Tây Đài, dành nửa thế kỷ cúng góp hàng triệu đồng cho từ thiện'
-description: 'Một thương lượng thị trường ở Tây Đài, dành nửa thế kỷ cúng góp hàng triệu đồng, nhưng vẫn nói: "Tôi chỉ là người bán rau thôi."'
+title: 'Trần Cúc: Một người bán rau ở Đài Đông, dùng năm mươi năm tiền rau để quyên tặng hàng chục triệu tiền từ thiện'
+description: 'Một người bán rau ở Đài Đông, dùng năm mươi năm tiền rau quyên tặng hàng chục triệu, nhưng cô nói bản thân "chỉ là một người bán rau"'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Nhân vật',
-    'Từ thiện',
-    'Tây Đài',
-    'Thương lượng',
-    'Thời đại',
-    'Giải thưởng Mác-xin-xơ',
-    'Quyên góp giáo dục',
+    'nhân vật',
+    'từ thiện',
+    'Đài Đông',
+    'bán rau',
+    'tạp chí Time',
+    'giải thưởng Ramon Magsaysay',
+    'quyên tặng giáo dục',
   ]
 subcategory: '慈善與社會'
 author: 'Taiwan.md'
@@ -22,99 +22,105 @@ translatedFrom: 'People/陳樹菊.md'
 sourceCommitSha: '2344309a0'
 sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-09-09T15:01:50+08:00'
 ---
 
-> **30 giây tóm tắt:** Chen Sư Tú, sinh năm 1950, là thương lượng thị trường trung tâm ở Tây Đài. Vì mẹ chết trong lúc sinh năm 13 tuổi nên bỏ học để bán rau. Trong hơn năm năm, cô tích lũy được hàng triệu đồng để tặng cho trường học, trại trẻ em mồ côi và bệnh viện. Năm 2010, cô được tạp chí Thời đại bình chọn vào danh sách 100 người ảnh hưởng lớn nhất thế giới, và đạo diễn Lý An đã viết bài giới thiệu riêng cho cô. Khi nhận giải ở New York, cô nói: "Tôi chỉ là một người bán rau thôi."[^1]
+> **Tóm tắt 30 giây:** Trần Cúc sinh năm 1950, người bán rau ở chợ trung tâm Đài Đông. Năm 13 tuổi, cô bỏ học để bán rau sau khi mẹ qua đời do biến chứng khi mang thai, và trong hơn năm mươi năm sau đó, cô tích lũy quyên tặng hàng chục triệu đồng cho các trường học, trại trẻ mồ côi và bệnh viện. Năm 2010, cô được đăng tải trên tạp chí _Time_ trong danh sách 100 nhân vật có ảnh hưởng nhất thế giới, và đạo diễn Lý An tự viết bài giới thiệu cho cô. Khi cô đi dự lễ trao giải tại New York, cô nói: "Tôi chỉ là một người bán rau."[^1]
 
-## Mẹ chết trên đường đi bệnh viện
+## Mẹ qua đời trên đường đi bệnh viện
 
-Năm 1963, ở Tây Đài. Mẹ của Chen Sư Tú mang thai đứa con thứ bảy, gặp khó khăn trong việc sinh nở. Gia đình không có đủ tiền bảo lãnh để đưa vào bệnh viện, trên đường đi cấp cứu, cả mẹ lẫn thai nhi đều không qua khỏi. [^2]
+Năm 1963, ở Đài Đông. Mẹ Trần Cúc đang mang thai đứa con thứ bảy, khi đó xảy ra biến chứng khi mang thai. Gia đình không đủ tiền đặt cọc bệnh viện yêu cầu, và trên đường đi bệnh viện, mẹ cô cùng với thai nhi đã qua đời.[^2]
 
-Năm đó, Chen Sư Tú mới 13 tuổi, vừa tốt nghiệp Trường Tiểu học Nhân Ái ở Tây Đài. Cô không tiếp tục học nữa, mà nhận lại quầy bán rau của mẹ tại chợ. Từ đó, cô chịu trách nhiệm nuôi nấng bốn người anh trai và hai người em gái. [^3] Một vài năm trước đây, em trai 11 tuổi của cô cũng bị ốm, vì thiếu tiền nên phải nhờ giáo viên tổ chức gây quỹ mới có đủ trả tiền thuốc. [^4]
+Năm đó, Trần Cúc 13 tuổi, vừa tốt nghiệp từ trường tiểu học Nhân Ái Đài Đông. Cô không tiếp tục học, mà kế thừa quầy rau của mẹ ở chợ, và bắt đầu chăm sóc bốn em trai và hai em gái.[^3] Vài năm trước đó, em trai cô lúc 11 tuổi bị bệnh, cũng vì không có tiền khám bệnh, cuối cùng phải có thầy giáo ở trường phát động quyên góp mới đủ tiền chữa bệnh.[^4]
 
-Đến mức độ nghèo đến nỗi phải nhờ người khác giúp đỡ mới có thể khám bệnh — kỷ niệm này sau này trở thành nguồn động lực cho mọi khoản quyên góp của cô.
+Nghèo đến mức không đủ tiền khám bệnh phải dựa vào người khác giúp đỡ — ký ức này sau đó thúc đẩy tất cả những quyên tặng của cô.
 
 ## Toán học trên quầy rau
 
-Quầy bán rau của Chen Sư Tú nằm ở trung tâm chợ Tây Đài. Mỗi ngày, cô bắt đầu làm việc lúc 4 giờ sáng, là người đến sớm nhất và rời đi muộn nhất trong chợ. Để có thể dậy sớm, cô chọn ngủ trên sàn nhà. Chỉ nghỉ một ngày trong cả năm. [^4]
+Quầy rau của Trần Cúc nằm ở chợ trung tâm Đài Đông. Hàng ngày cô dậy lúc bốn giờ sáng sớm, cô là người đến sớm nhất và đi về muộn nhất ở chợ. Để dậy đúng giờ, cô ngủ trên sàn nhà. Cô chỉ nghỉ một ngày một năm.[^4]
 
-Quầy không rộng, nhưng vị trí đẹp — khi chợ mới thành lập, gia đình cô thắng lóc được vị trí đẹp. Sau này, cô phát triển một mô hình kinh doanh riêng: cung cấp rau cho quân đội trên đảo xanh, vì giao hàng trực tiếp từ Tây Đài rẻ hơn nhập từ nơ khác. [^4] Điều này giúp cô ổn định thu nhập, nhưng vẫn chỉ là mức lương của một người bán rau.
+Quầy hàng không lớn, nhưng vị trí tốt — những năm đầu khi chợ mới đưa vào hoạt động, cô gia đình cô đã bốc thăm được vị trí tốt. Cô sau đó phát triển một mô hình kinh doanh riêng: cung cấp rau cho quân đội đồn trú ở Lục Đảo, vì gửi trực tiếp từ Đài Đông rẻ hơn so với vận chuyển từ các nơi khác.[^4] Điều này giúp thu nhập của cô ổn định, nhưng vẫn chỉ là thu nhập của một người bán rau.
 
-Tiền của cô tích lũy từng bán rau nhỏ, không bao giờ có bất kỳ khoản lãi lớn hay cách kiếm nào nhanh chóng. Cô gần như không chi tiền cho bản thân — không ăn ngoài, không mua quần áo mới, sống trong ngôi nhà cũ gần chợ. Phần còn lại của số tiền, cô dùng cho mục đích khác.
+Tiền của cô được tích lũy từng bó rau một, không có bất kỳ lợi tức bất thường nào hay lối tắt nào. Cô gần như không tiêu tiền cho chính mình — không ăn ngoài, không mua quần áo mới, ở trong một ngôi nhà cũ gần chợ. Tiền tiết kiệm được, cô có mục đích khác.
 
-## Lịch sử các khoản quyên góp
+## Dòng thời gian quyên tặng
 
-Năm 1993, cả cha lẫn em trai út của cô đều qua đời. Chen Sû Tú quyên góp 1 triệu đồng cho Đại học Bát Giới (nay là Đại học Bát Giới). Đó là lần đầu tiên cô lấy tiết kiệm ra để quyên góp. [^5]
+Năm 1993, cha cô và em trai thứ hai của cô lần lượt qua đời. Trần Cúc quyên tặng 1 triệu đồng cho Học viện Phật Quang (nay là Đại học Phật Quang). Đó là lần đầu tiên cô rút tiền tiết kiệm của mình ra.[^5]
 
-Từ năm 1996, cô bắt đầu mỗi năm quyên góp 36.000 đồng cho Trại trẻ em A-ni-xê-phi ở Tây Đài, chăm sóc ba em trẻ. Sau này, cô lại quyên góp thêm 1 triệu đồng cho tổ chức này. [^6]
+Từ năm 1996 trở đi, cô bắt đầu quyên tặng 36.000 đồng hàng năm cho Trại trẻ mồ côi Anisseifer ở Đài Đông, nhận nuôi ba cháu nhỏ tại trại. Sau đó cô một lần quyên tặng 1 triệu đồng cho tổ chức này.[^6]
 
-Năm 1997, cô quyên góp 1 triệu đồng cho trường Tiểu học Nhân Ái — nơi cô từng học — để thành lập học bổng khẩn cấp. Năm 2005, cô lại quyên góp thêm 4,5 triệu đồng để xây thư viện. [^7] Cô chọn trường học của mình vì khi còn nhỏ, gia đình nghèo và giáo viên từng giúp đỡ em trai cô. "Người khác từng giúp tôi, nên tôi phải trả lại" — suy nghĩ của cô rất trực tiếp. [^4]
+Năm 1997, cô quyên tặng 1 triệu đồng cho trường tiểu học Nhân Ái (trường cũ của cô), thành lập quỹ học bổng cấp cứu khẩn cấp. Năm 2005, cô quyên tặng thêm 4,5 triệu đồng để xây dựng thư viện.[^7] Cô chọn trường cũ vì khi nhỏ gia đình cô nghèo, thầy giáo ở trường đã giúp đỡ em trai cô. "Người khác đã giúp tôi, tôi phải trả lại" — logic của cô rất đơn giản như vậy.[^4]
 
-Đến năm 2010, khi Thời đại chú ý tới cô, tổng số tiền cô đã quyên góp gần 10 triệu đồng. [^1]
+Đến năm 2010 khi được tạp chí _Time_ chú ý, cô đã tích lũy quyên tặng gần 10 triệu đồng.[^1]
 
 Nhưng cô không dừng lại.
 
-Năm 2012, cô nhận giải Mác-xin-xơ ở Philippines (tương đương Nobel Hòa bình châu Á), giải thưởng 50.000 USD. Cô quyên góp toàn bộ số tiền này cho Bệnh viện Mác-xin ở Tây Đài. [^8]
+Năm 2012, cô được trao giải thưởng Ramon Magsaysay (giải thưởng hòa bình Nobel của châu Á), tiền thưởng 50.000 đô la Mỹ. Cô quyên tặng toàn bộ tiền thưởng cho Bệnh viện Mackay Đài Đông.[^8]
 
-Ngày 10 tháng 10 năm 2018, cô quyên góp hai hợp đồng bảo hiểm trị giá 16 triệu đồng, ủy thác cho Bệnh viện Mác-xin và Bệnh viện Cơ đốc giáo Tây Đài thành lập "Quỹ chăm sóc bệnh nhân nghèo và bệnh ung thư Chen Sư Tú". [^9]
+Ngày 10 tháng 10 năm 2018, cô quyên tặng hai tờ hợp đồng bảo hiểm, giá trị hiện tại 16 triệu đồng, giao phó cho Bệnh viện Mackay Đài Đông và Bệnh viện Cơ Đốc Giáo Đài Đông thành lập "Quỹ chăm sóc bệnh nhân ung thư và những người gặp khó khăn tài chính Trần Cúc".[^9]
 
-Ngày 28 tháng 8 năm 2021 — đúng ngày kỷ niệm mẹ chết — cô lại quyên góp thêm một hợp đồng bảo hiểm trị giá 15 triệu đồng cho chính quyền Tây Đài, chỉ định thành lập "Quỹ hỗ trợ sản phụ khó khăn và cấp cứu khẩn cấp". [^10] Cô nói trong buổi họp báo: "Đã chờ đợi 59 năm, cuối cùng cũng hoàn thành ước mơ này." [^11]
+Ngày 28 tháng 8 năm 2021 — ngày giỗ của mẹ — cô quyên tặng thêm 15 triệu đồng bảo hiểm cho chính quyền tỉnh Đài Đông, chỉ định thành lập "Quỹ hỗ trợ khẩn cấp và an ủi cho người mẹ", dành riêng để giúp đỡ những phụ nữ mang thai gặp khó khăn kinh tế.[^10] Cô nói ở cuộc họp báo, giọng lên tiếng: "Chờ đợi 59 năm, cuối cùng tôi cũng hoàn thành điều ước này."[^11]
 
-Năm năm trước, mẹ cô chết trên đường đi bệnh viện.
+59 năm trước, mẹ cô qua đời trên đường đi bệnh viện.
 
-## Một thương lượng bước lên sân khấu thế giới
+## Một người bán rau bước lên sân khấu thế giới
 
-Tháng 4 năm 2010, Thời đại công bố danh sách 100 người ảnh hưởng lớn nhất thế giới, và Chen Sư Tú đứng ở vị trí thứ tám trong thể loại "Anh hùng" — cùng hàng với ông Obama và các doanh nhân năng lượng sạch. [^1] Đạo diễn Lý An đã viết bài giới thiệu riêng cho cô. Cùng năm, Forbes chọn cô làm một trong 48 nhân vật tiêu biểu về từ thiện ở châu Á. [^12] Tạp chí Độc giả tặng cho cô giải Anh hùng châu Á lần thứ tư. [^5]
+Tháng 4 năm 2010, tạp chí _Time_ công bố danh sách 100 nhân vật có ảnh hưởng nhất thế giới trong năm, Trần Cúc được xếp hạng thứ tám trong hạng mục "Anh hùng" — cùng xếp hạng với Tổng thống Obama và các doanh nhân năng lượng sạch.[^1] Đạo diễn Lý An tự viết bài giới thiệu cho cô. Cùng năm, tạp chí _Forbes_ chọn cô là một vị anh hùng từ thiện của châu Á.[^12] Tạp chí _Reader's Digest_ trao cho cô giải thưởng Anh hùng châu Á lần thứ tư.[^5]
 
-Khi được thông báo về giải thưởng, cô chưa từng nghe nói về Thời đại. Đi lãnh giải ở New York, đó là chuyến đi nước ngoài đầu tiên của cô. Cô mặc trang phục bình thường khi bán rau, nói với báo chí: "Tôi chỉ là một người bán rau, không hiểu tại sao lại chọn tôi." [^1]
+Khi được thông báo đã thắng giải, cô không biết _Time_ Magazine là gì. Chuyến đi New York để nhận giải là lần đầu tiên cô bay ra nước ngoài. Cô mặc quần áo bán rau thường ngày của mình, nói với các phóng viên: "Tôi chỉ là một người bán rau, tôi không biết tại sao lại chọn tôi."[^1]
 
-Những vinh dự này không thay đổi bất kỳ ngày nào trong cuộc đời cô. Khi trở về Tây Đài, cô vẫn xuất hiện tại quầy rau lúc 4 giờ sáng như thường lệ.
+Những danh hiệu này không thay đổi bất kỳ ngày nào của cô. Quay trở lại Đài Đông, cô tiếp tục bán rau lúc bốn giờ sáng mỗi ngày.
 
-Giải Mác-xin-xơ năm 2012, thiên thể 278986 mang tên cô năm 2018 [^5], và giải tiến sĩ danh dự nghệ cho Đại học Tây Đài năm 2025 [^13] — mỗi lần lên nhận giải, cô đều nhanh chóng trở lại quầy rau.
+Năm 2012 giải thưởng Ramon Magsaysay, năm 2018 tiểu hành tinh 278986 được đặt theo tên cô[^5], năm 2025 Đại học Đài Đông trao bằng tiến sĩ danh dự[^13] — mỗi lần bước lên sân khấu nhận giải, cô đều vội quay trở lại quầy rau.
 
-## Sức khỏe không còn đủ
+## Cơ thể không thể chịu đựng được nữa
 
-Tháng 2 năm 2018, Chen Sư Tú ngã xuống trước quầy rau, cấp cứu phẫu thuật khẩn cấp. [^5] Bác sĩ yêu cầu cô nghỉ ngơi, cô nằm một tháng rồi vẫn muốn trở lại bán rau. Nhưng lần này, sức khỏe không cho phép — kết hợp với việc em trai cũng bị ốm cần chăm sóc, cô chính thức đóng cửa quầy rau vào năm 2018. [^4]
+Tháng 2 năm 2018, Trần Cúc bất tỉnh trước quầy rau, phải cấp cứu vào bệnh viện để phẫu thuật.[^5] Bác sĩ bảo cô nghỉ ngơi, cô nằm một tháng rồi muốn quay trở lại bán rau. Nhưng lần này cơ thể không cho phép như ý cô — cộng với em trai cô cũng bị bệnh cần chăm sóc, cô chính thức đóng quầy năm 2018.[^4]
 
-Năm năm bán rau, quầy sau này chuyển thành quầy thịt.
+Bán rau hơn năm mươi năm, vị trí quầy sau đó trở thành một quầy bán thịt.
 
-Sau khi nghỉ hưu, cô vẫn sống tại Tây Đài, vẫn quan tâm tới những người cần giúp đỡ. Khoản quyên góp 15 triệu đồng năm 2021 hoàn toàn được thực hiện sau khi cô nghỉ hưu. Cô nói: "Tiền không mang theo được khi chết, chỉ có đủ để dùng trong cuộc sống. Những gì còn lại, tôi muốn cho những người thực sự cần." [^10]
+Sau khi về hưu, cô vẫn ở Đài Đông, vẫn chăm sóc những người cần giúp đỡ. Quyên tặng 15 triệu đồng năm 2021, là sau khi cô về hưu. Cô nói: "Tiền sinh không mang theo, chết cũng không mang đi. Lương hưu quốc dân đủ cho tôi sử dụng, phần thừa phải cho những người cần."[^10]
 
-## Một phép tính đơn giản
+## Một phép toán đơn giản
 
-Câu chuyện của Chen Sư Tú thường được truyền thông bao phủ như "một hành động tốt đẹp cảm động", nhưng thực ra, nó chỉ là một bài toán số học: Nếu một người tiết kiệm một chút mỗi ngày và kiên trì trong năm năm, thì tổng số tiền họ tích lũy được là bao nhiêu?
+Câu chuyện của Trần Cúc thường được gói gọn như "một hành động từ thiện cảm động", nhưng tháo rời nó, nó thực ra là một bài toán: nếu một người tiết kiệm một chút mỗi ngày, kiên trì năm mươi năm, sẽ tích lũy được bao nhiêu?
 
-Câu trả lời là hàng triệu đồng.
+Câu trả lời là hàng chục triệu.
 
-Câu hỏi sâu hơn là: Tại sao một người bán rau lại làm điều này? Câu trả lời của cô luôn không thay đổi — vì năm năm tuổi, mẹ cô chết trên đường đi bệnh viện, và cô không thể làm gì để giúp mẹ. Năm năm sau, cô cuối cùng cũng có đủ khả năng để bảo vệ những người mẹ khác không phải trải qua điều tương tự. [^11]
+Câu hỏi sâu hơn là: tại sao một người bán rau phải làm việc này? Câu trả lời của cô không bao giờ thay đổi — vì năm cô 13 tuổi, mẹ qua đời trên đường đi bệnh viện, và cô không thể làm gì cả. Năm mươi năm sau, cô cuối cùng có khả năng đảm bảo rằng mẹ của người khác sẽ không gặp phải chuyện tương tự.[^11]
 
-Năm 2025, Đại học Tây Đài trao cho cô danh hiệu tiến sĩ danh dự. Trên sân khấu, cô nói: "Cảm ơn mọ người đã không chê trách tôi bán rau dở hơi." [^13]
+Năm 2025, Đại học Đài Đông trao cho cô bằng tiến sĩ danh dự. Cô lên sân khấu phát biểu: "Cảm ơn mọi người đã không khinh thường tôi bán rau ở lề đường."[^13]
+
+## Đọc thêm
+
+- [Nền văn hóa chợ truyền thống Đài Loan](/lifestyle/台灣市場文化與傳統市場) — Chợ trung tâm Đài Đông nơi Trần Cúc bán rau năm mươi năm, sống trong hệ sinh thái của chợ truyền thống này
+- [Văn hóa tình nguyện viên Đài Loan và sự tham gia từ thiện công cộng](/society/台灣志工文化與公益參與) — Từ Tổ chức từ thiện Từ Vân của Pháp sư Chứng Nghiêm đến quầy rau của Trần Cúc, hai mẫu từ thiện công cộng dân gian Đài Loan
+- [Giáo dục vùng nông thôn Đài Loan](/society/台灣偏鄉教育) — Danh sách những khoản quyên tặng của Trần Cúc qua các năm chủ yếu đi đến: thư viện, trường học, trại trẻ mồ côi kéo dài lâu dài
 
 ## Tài liệu tham khảo
 
 [^1]: "The 2010 TIME 100 — Chen Shu-chu," _TIME Magazine_, 2010. https://content.time.com/time/specials/packages/article/0,28804,1984685_1984949_1985237,00.html
 
-[^2]: 〈Chen Sư Tú〉，Wikipedia. Mẹ chết vì gặp khó khăn trong sinh nở, không đủ tiền bảo lãnh, trên đường đi bệnh viện cùng thai nhi đều không qua khỏi。https://zh.wikipedia.org/zh-tw/陳樹菊
+[^2]: 〈陳樹菊〉，維基百科。母親因難產、無法湊足保證金，送醫途中與腹中胎兒一同喪命。 https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^3]: 〈Chen Sư Tú — Dùng cả cuộc đời để trả ơn〉，《Tạp chí Kiến thức》。https://www.gvm.com.tw/article/14164
+[^3]: 〈陳樹菊 用一輩子的力氣還願〉，《遠見雜誌》。 https://www.gvm.com.tw/article/14164
 
 [^4]: "Taiwan in Time: Donating millions from a vegetable stall," _Taipei Times_, 2023-08-27. https://www.taipeitimes.com/News/feat/archives/2023/08/27/2003805339
 
-[^5]: 〈Chen Sư Tú〉，Wikipedia，"Giới thiệu và giải thưởng" phần。https://zh.wikipedia.org/zh-tw/陳樹菊
+[^5]: 〈陳樹菊〉，維基百科，「榮譽與獎項」段落。 https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^6]: 〈Biết ơn và tỏ lòng biết ơn — Chen Sư Tú quyên góp hơn 10 triệu đồng hàng năm từ năm 1996 để chăm sóc ba trẻ em mồ côi〉，Gia đình Quốc gia Phật giới. https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
+[^6]: 〈知恩感恩報恩 陳樹菊阿嬤行善布施超過千萬〉，地球佛國大家庭。1996 年起每年捐 36,000 元認養三名院童。 https://www.buddhalandonearth.org/family/2021/10/charitable/8290/
 
-[^7]: 〈Người bán rau quyên thư viện — Tiếp tục tích lũy hàng triệu đồng để giúp người nghèo〉，Báo cáo cho biết Chen Sư Tú quyên góp 1 triệu đồng học bổng và 4,5 triệu đồng xây thư viện cho trường Tiểu học Nhân Ái.
+[^7]: 〈菜販捐圖書館 續攢千萬助貧〉，報導指陳樹菊捐 100 萬元獎學金及 450 萬元建圖書館給母校仁愛國小。
 
-[^8]: 〈Chen Sư Tú〉，Wikipedia，"Giải Mác-xin-xơ" phần。Năm 2012, nhận giải, toàn bộ 50.000 USD quyên góp cho Bệnh viện Mác-xin ở Tây Đài。https://zh.wikipedia.org/zh-tw/陳樹菊
+[^8]: 〈陳樹菊〉，維基百科，「麥格塞塞獎」段落。2012 年獲獎，獎金 50,000 美元全數捐台東馬偕。 https://zh.wikipedia.org/zh-tw/陳樹菊
 
-[^9]: 〈Chen Sư Tú tiếp tục quyên góp 16 triệu đồng bảo hiểm — người nhận lợi ích thay đổi thành bệnh viện〉，《Tự do Thời luận》，2018-10-10。https://news.ltn.com.tw/news/life/breakingnews/2576050
+[^9]: 〈陳樹菊再捐 1600 萬 保險受益人改為醫院〉，《自由時報》，2018-10-10。 https://news.ltn.com.tw/news/life/breakingnews/2576050
 
-[^10]: 〈Ngày kỷ niệm mẽo quyên góp thêm 15 triệu đồng — Chen Sư Tú: Tiền lương hưu đã đủ dùng〉，Trung tâm Tin tức Việt Nam，2021-08-28。https://www.cna.com.tw/news/ahel/202108280119.aspx
+[^10]: 〈母忌日再捐 1500 萬元 陳樹菊：國民年金已夠用〉，中央社，2021-08-28。 https://www.cna.com.tw/news/ahel/202108280119.aspx
 
-[^11]: 〈Ngày kỷ niệm mẹ quyên góp 15 triệu đồng — Chen Sư Tú nói nghẹn ngào: Đã chờ đợi 59 năm〉，Tin tức Yahoo truyền lại。https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
+[^11]: 〈母親忌日捐 1500 萬元 陳樹菊哽咽：等了 59 年〉，Yahoo 新聞轉載。 https://tw.news.yahoo.com/母親忌日捐1500萬元-陳樹菊哽咽-等了59年-085532746.html
 
 [^12]: "48 Heroes of Philanthropy," _Forbes Asia_, 2010.
 
-[^13]: 〈Nhận danh hiệu tiến sĩ danh dự từ Đại học Tây Đài — Chen Sư Tú: Cảm ơn mọ người không chê trách tôi bán rau dở hơi〉，《Trang tin điện tử Liên hợp》，2025-06-08。https://udn.com/news/story/6928/8791319
+[^13]: 〈獲頒台東大學名譽博士 陳樹菊：謝謝大家沒有嫌棄我路邊攤賣菜〉，《聯合新聞網》，2025-06-08。 https://udn.com/news/story/6928/8791319

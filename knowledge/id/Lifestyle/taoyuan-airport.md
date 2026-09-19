@@ -1,6 +1,6 @@
 ---
 title: 'Bandara Taoyuan: Dari Nama "Zhongzheng" dalam Sepuluh Pembangunan Besar hingga Uji Coba Triliunan Rupiah untuk Pembukaan Kembali Gerbang Negara 2026'
-description: 'April 2026, atap Terminal Ketiga Bandara Taoyuan resmi selesai, menandai gerbang negara yang dibangun dengan biaya 1.283 miliar Yuan Taiwan akan segera lahir kembali. Dari kelahiran "Bandara Zhongzheng" 1979, lembah banjir 2016, hingga pembukaan Koridor Utara Terminal 2025 yang memicu gelombang transit, Bandara Taoyuan berusaha menemukan kembali posisinya yang hilang dalam persaingan hub penerbangan Asia.'
+description: 'April 2026, atap Terminal Ketiga Bandara Taoyuan resmi selesai, menandai gerbang negara yang dibangun dengan biaya 1.283 miliar dolar Taiwan Baru akan segera lahir kembali. Dari kelahiran "Bandara Zhongzheng" 1979, lembah banjir 2016, hingga pembukaan Koridor Utara Terminal 2025 yang memicu gelombang transit, Bandara Taoyuan berusaha menemukan kembali posisinya yang hilang dalam persaingan hub penerbangan Asia.'
 date: 2026-05-03
 category: 'Lifestyle'
 tags:
@@ -26,7 +26,7 @@ translatedAt: '2026-07-26T19:42:09+08:00'
 
 > **Ringkasan 30 Detik:** Bandara Taoyuan adalah satu-satunya tautan kuat Taiwan ke dunia, sekaligus proyek paling ambisius di antara Sepuluh Pembangunan Besar. Ia pernah dibebani nuansa otoriter karena penggantian nama politik sebelum diresmikan 1979, dan pernah terpuruk menjadi "bandara di atas air" dihujat karena badai 2016. Namun, setelah menderita penundaan delapan tahun Terminal Ketiga dan penambahan anggaran hingga 1.283 miliar Yuan, pembukaan Koridor Utara Terminal akhir 2025 dan penembusan 10 juta penumpang awal 2026 mengisyaratkan gerbang ini mempercepat pengejaran kelompok terdepan Asia. Ini bukan sekadar perluasan bandara, melainkan pertahanan Taiwan di era pasca-pandemi dan pergeseran geopolitik untuk mempertahankan status hub transit ke Amerika Utara dan Asia Tenggara.
 
-26 Februari 1979, sebuah Boeing 747 mendarat di landasan pacu paling modern Asia saat itu, mengawali resmi "Bandara Internasional Zhongzheng". Bangunan yang dibangun dengan biaya 10,3 miliar Yuan Taiwan dari lahan gersang Dayuan, menjadi simbol lepas landas ekonomi Taiwan saat itu.
+26 Februari 1979, sebuah Boeing 747 mendarat di landasan pacu paling modern Asia saat itu, mengawali resmi "Bandara Internasional Zhongzheng". Bangunan yang dibangun dengan biaya 10,3 miliar dolar Taiwan Baru dari lahan gersang Dayuan, menjadi simbol lepas landas ekonomi Taiwan saat itu.
 
 ### Dari "Zhongzheng" ke "Taoyuan": Politik dan Pragmatisme di Balik Nama
 

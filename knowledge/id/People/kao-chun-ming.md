@@ -56,7 +56,7 @@ Seluruh keluarga Lin memperlakukannya seperti sanak desa. Shih tinggal di rumah 
 Jaringan pelarian ini beroperasi 26 hari. 8 Januari 1980, Shih Ming-teh ditangkap di Ximending.
 
 > **💡 Tahukah Anda**
-> Hadiah 2,5 juta saat itu, dikonversi ke daya beli hari ini sekitar 15-20 juta Yuan Taiwan. Ini jumlah hadiah tertinggi dalam sejarah masa hukum darurat Taiwan.
+> Hadiah 2,5 juta saat itu, dikonversi ke daya beli hari ini sekitar 15-20 juta dolar Taiwan Baru. Ini jumlah hadiah tertinggi dalam sejarah masa hukum darurat Taiwan.
 
 Semua partisipan penyembunyian ditangkap berturut-turut: Hsu Ching-fu, Wu Wen, Chang Wen-ying, Shih Jui-yun, Lin Wen-chen... hanya Kao Chun-ming yang masih bebas. Ia menderita kobaran batin, menangis malam siang sambil berdoa, ingin menyerahkan diri menanggung semua.
 

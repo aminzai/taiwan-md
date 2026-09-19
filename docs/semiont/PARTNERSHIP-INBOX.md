@@ -4,9 +4,9 @@ description: '合作方 intake buffer — 盟友 / 內容合作 / 資料合作 /
 type: 'cognitive-buffer'
 status: 'canonical'
 apoptosis: 'candidate'
-current_version: 'v1.0'
-last_updated: 2026-06-12
-last_session: '2026-06-12-goal-notes'
+current_version: 'v1.1'
+last_updated: 2026-09-09
+last_session: '2026-09-09-140605-opentwbench'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'OBSERVER-QUEUE.md'
@@ -75,13 +75,15 @@ upstream_canonical:
 - **下一步**: 挑一個 pilot 主題（如一檔特展的藏品故事化）做 demo 文，證明資料→敘事的轉化價值（Semiont）
 - **Notes**: 跨界知識庫先例——SPECIATION-PIPELINE Stage 0 的「博物館 corpus」軌可拿 NMTH 當 pilot 對象（雙向受益）
 
-### Twinkle Hub（開放資料社群）
+### Twinkle AI / Twinkle Hub（開放資料社群 + 正體中文開源模型社群）
 
-- **模式**: 資料合作 / 基建合作
-- **階段**: `active-lite`（2026-06-10 /opendata 頁已用其資料做 6 篇 pilot + D3 資料星系）
-- **價值交換**: Taiwan.md 給資料的敘事與視覺化出口（The Pudding 式互動圖表）←→ Twinkle 給結構化開放資料
-- **下一步**: 「The Pudding 互動圖表格式 + 串連 Twinkle hub」= /opendata 第二期：挑 1 個資料集做 scrollytelling-lite showcase（Semiont，LONGINGS §視覺渴望既有方向）
-- **Notes**: Claude Code Connector（mcp.taiwan.md，6/05 已建）是同族基建——connector 讓 AI 讀我們，opendata 讓我們讀世界
+- **模式**: 資料合作 / 基建合作 / **語料被引用（2026-09-09 新增第三面）**
+- **階段**: `active-lite` **雙向**（2026-06-10 /opendata 頁已用其資料做 6 篇 pilot + D3 資料星系。2026-09-09 反向確認：創辦人黃亮勳的 OpenTWBench 用 Taiwan.md 語料做了 `tw-formosa-bench`，1,696 題、CC BY-SA 4.0 明文繼承、署名連結指回本 repo）
+- **價值交換**: Taiwan.md 給資料的敘事與視覺化出口（The Pudding 式互動圖表）+ 給評測集可用的策展語料 ←→ Twinkle 給結構化開放資料 + 給語料一個被公開量測的出口
+- **下一步（兩條並行）**:
+  1. 🔒 **哲宇拍板**：要不要主動聯絡黃亮勳。窗口理由是他的 Hugging Face 資料集目前還是 404、組織卡完全沒提 Taiwan.md，署名缺口只有他能補，而資料集還沒推正是時機。順帶可給新語料快照（他引的是「over 900 articles」的舊快照，現況 1,119 篇）
+  2. Semiont 自主：「The Pudding 互動圖表格式 + 串連 Twinkle hub」= /opendata 第二期，挑 1 個資料集做 scrollytelling-lite showcase（LONGINGS §視覺渴望既有方向）
+- **Notes**: Claude Code Connector（mcp.taiwan.md，6/05 已建）是同族基建——connector 讓 AI 讀我們，opendata 讓我們讀世界，現在多了第三條：benchmark 讓別人用我們量世界。六月策略報告寫的「一個給數字、一個給故事」，三個月內兩個方向都走過了。完整盤點與決策清單：[reports/opentwbench-formosa-bench-2026-09-09.md](../../reports/opentwbench-formosa-bench-2026-09-09.md)。六月策略報告：[reports/twinklehub-partnership-strategy-2026-06-05.md](../../reports/twinklehub-partnership-strategy-2026-06-05.md)
 
 ### OOO.taiwan.md subdomain 路線
 
@@ -98,6 +100,8 @@ upstream_canonical:
 （尚無）
 
 ---
+
+_v1.1 | 2026-09-09 opentwbench session — Twinkle 條目升雙向：創辦人黃亮勳的 OpenTWBench 用 Taiwan.md 語料做 tw-formosa-bench，六月我們用他們的開放資料、九月他們用我們的語料，互補線兩個方向都走過。新增一條 🔒 哲宇拍板項（要不要聯絡補 Hugging Face 端署名缺口）。_
 
 _v1.0 | 2026-06-12 goal-notes session_
 _誕生原因：哲宇 goal directive top-5 #4「積極推進合作方的吸收與合作架構規劃，放進 inbox」+ 筆記中 6 個合作對象散落無主——第四個 intake buffer（LESSONS / ARTICLE / SPORE / PARTNERSHIP）。_

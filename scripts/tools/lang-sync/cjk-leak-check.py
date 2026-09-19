@@ -268,10 +268,24 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     "vi": r"Tài liệu tham khảo|Đọc thêm|Nguồn Hình Ảnh",
     "id": r"Referensi|Bacaan Lanjutan|Sumber Gambar",
     "pt": r"Referências|Fontes das imagens|Leitura adicional",
-    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)",
+    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)|(?:छवि|चित्र)\s*स्रोत",
     "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
-    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение",
-    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)",
+    # 2026-09-15: hi 與 ru 補上圖片出處／參考資料標題（跟 #1731 的 de 同一個家族）。
+    # 數字取自 origin/main 實際譯文：hi 有 44 篇 `## छवि स्रोत` + 17 篇 `## चित्र स्रोत`，
+    # ru 有 99 篇 `## Источники изображений` + 41 篇 `## Источники`，三種都不在原表裡，
+    # 於是這些區塊的 CJK（攝影者署名、原始書名、機構原名）全被當正文 leak。ru 全庫實測
+    # 正文 leak 46 → 10，剩下的 10 筆都是真的（引述 PRC 模型的拒絕答覆、校名原文、論語引文）。
+    "ru": r"Ссылки|Справочные материалы|Дополнительное чтение|Источники(?:\s+изображений)?",
+    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)|(?:Bild(?:er)?|Foto(?:s)?|Video|Medien)[- ]?(?:quellen?|nachweise?|rechte|credits?)",
+    # 2026-09-14: de 加上 Bildnachweise／Bildquellen／Bildnachweis（en 有
+    # „Image Sources"，de 缺同等的圖片出處標題變體，照片授權行裡的正體中文
+    # 攝影者署名（如 迷惘的人生）被當成正文 CJK leak 誤報——與 image_health.py
+    # 已認得的 de 圖片出處標題家族一致。
+    # 2026-09-16（#1731 follow-up）：補上連字號複合詞 Bild-Quelle／Bild-Quellen
+    # 與 Fotonachweis／Videonachweis／Bilderquelle（image_health.py 的 de 家族
+    # 收 bild|bilder|foto|fotos|video|medien 前綴，且用 [- ]? 承接——本表原先
+    # 只收無連字號的 Bildquellen/Bildnachweise，`## Bild-Quelle` 標題下的照片
+    # 授權行會被誤掃成正文 leak）。
 }
 # zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
 _ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
@@ -358,30 +372,29 @@ SIMPLIFIED_ONLY_CHARS = frozenset(
     "远还进边违连归业习"
 )
 
-# ja 新字体（shinjitai）與 PRC 簡化字剛好同一個字形的重疊字（第十五家族，
-# 2026-09-16 twmd-babel-nightly）：日本自己的漢字簡化（戰後新字体）跟中國
-# simplified 是各自獨立的改革，但少數字剛好收斂到同一個 Unicode 碼位——
-# 國→国／學→学／畫→画 三字日本標準寫法就是這個字形，不是簡體殘留。書目區
-# 常引用「我が国」「大学」「動画」這類日文詞，SIMPLIFIED_ONLY_CHARS 對 ja
-# 完全不篩就整批誤殺：master.log 2026-09-14〜16 樣本 76 次「書目區簡體殘留」
-# 命中全部落在 ja，字集恰好就是這三字（画12／学19／国45），同期其他語言只有
-# 5 次零星命中且都是別的字（团/议/间/线/华，日文不用這些字形，判定不變）。
-# 判準只豁免這三字，SIMPLIFIED_ONLY_CHARS 其餘字元（华/东/长/书/义等日文
-# 仍用傳統/自己的新字体，跟簡體不同碼位）繼續照舊全部攔。
-JA_SHINJITAI_OVERLAP = frozenset("国学画")
+
+# 日文新字體跟簡化字形撞在一起的字（2026-09-10）：「台北市立国楽団」是台北市立
+# 國樂團的**正確**日文寫法，不是簡體殘留，但 2026-09-05 的字集把 `国` 收了進去，
+# 於是每一篇引用日文樂團／學校／美術館名稱的 ja 譯文都紅燈。
+# 全字集跟日文常用新字體的交集只有這四個字——其餘（讠／钅／饣 部件家族、
+# 「维」「归」…）日文根本不用，對 ja 仍然照擋，所以 ja 引用真的簡體中文來源
+# 還是抓得到。紅得沒道理的閘門會被學會忽略（REFLEXES #74），所以收窄不是放水。
+JA_SHINJITAI_OVERLAP = frozenset("国学画誉")
+# 同一修法 2026-09-16 twmd-babel-nightly 在營運機獨立寫過一次（字集 国学画，master.log
+# 09-14〜16 的 76 次 ja 書目區誤判全落在這三字：画12／学19／国45）；09-19 合併時取 origin 版
+# （多一個「誉」），兩邊證據合在這裡。
 
 
-def detect_simplified_residue(text: str, lang: str = None) -> Optional[str]:
+def detect_simplified_residue(text: str, lang: str = "") -> Optional[str]:
     """書目區內任何一個簡體專用字 → 判「書目區簡體殘留」；找不到回 None。
     傳入的 text 應為書目區原文（未經 strip_legit_zones，才留得住待檢查的
     腳註定義行內容），本函式內部只做 _strip_bib_zone_structure 這種選擇性
-    剝除。lang="ja" 時豁免 JA_SHINJITAI_OVERLAP（見上方常數註解）。"""
-    exempt = JA_SHINJITAI_OVERLAP if lang == "ja" else frozenset()
+    剝除。lang="ja" 時排除新字體重疊字。"""
     scan = _strip_bib_zone_structure(text)
+    charset = (SIMPLIFIED_ONLY_CHARS - JA_SHINJITAI_OVERLAP
+               if lang == "ja" else SIMPLIFIED_ONLY_CHARS)
     for i, ch in enumerate(scan):
-        if ch in exempt:
-            continue
-        if ch in SIMPLIFIED_ONLY_CHARS:
+        if ch in charset:
             ctx = scan[max(0, i - 15):i + 15].replace("\n", " ")
             return f"{ch!r} (e.g. …{ctx}…)"
     return None

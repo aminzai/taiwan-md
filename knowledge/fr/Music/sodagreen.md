@@ -92,7 +92,7 @@ Cette différence d’ordre paraît minime, mais elle influence toute l’histoi
 
 ---
 
-## « 就是這一組了 » : la scène Heat Wave Rock du festival Ho-hai-yan de Gongliao
+## « C’est ce groupe-là » : la scène Heat Wave Rock du festival Ho-hai-yan de Gongliao
 
 ![Le 12 mars 2008, concert live de Sodagreen au The Wall Gongguan à Taipei, avec le chanteur Wu Ching-feng et les cinq autres membres sur scène](/article-images/music/sodagreen-the-wall-2008.webp)
 _Le 12 mars 2008, Sodagreen en live au The Wall Gongguan, Taipei. Photo : utilisateur Wikipédia Solomon203, CC BY-SA 3.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sodagreen-20080312TheWall.jpg)._
@@ -162,7 +162,7 @@ Quatre albums, quatre villes, quatre saisons, quatre styles. Qu’un groupe ind�
 
 Dans une synthèse du projet Vivaldi publiée en 2016, flipermag résume ainsi :
 
-> 「『春』在台東屬於溫暖的民謠，『夏』在倫敦屬於熱情的搖滾，『秋』在北京屬於憂傷的詩歌，『冬』在柏林屬於莊嚴的古典。」[^20]
+> « Le “Printemps”, à Taitung, relève du folk chaleureux ; l’“Été”, à Londres, du rock fervent ; l’“Automne”, à Pékin, de la poésie mélancolique ; l’“Hiver”, à Berlin, du classique solennel. »[^20]
 
 La production de 《冬 未了》 mérite une pause particulière. A-kung, Kung Yu-chi, seul membre de Sodagreen à avoir reçu une formation musicale académique, s’enferme trois mois et termine seul une partition symphonique pour 70 musiciens[^12]. À Berlin, le groupe travaille avec les 60 musiciens du German Pops Orchestra. Pour un groupe indie taïwanais, enregistrer tout un album avec un orchestre symphonique professionnel étranger est alors un format très rare.
 
@@ -180,7 +180,7 @@ Cinq Golden Melody pour un seul album : un résultat rare dans l’histoire du p
 
 Au moment de la sortie de 《冬 未了》, le critique Hou An publie une recension qui contient une phrase souvent citée par les fans :
 
-> 「沒有答案，通常才是生命唯一的答案。」[^26]
+> « N’avoir pas de réponse, c’est le plus souvent la seule réponse que donne la vie. »[^26]
 
 Le critique Ji Mingshui publie, lui, une synthèse du projet Vivaldi dans le média indépendant Stand News. Il situe l’ensemble de la série dans la discussion sur le passage des groupes indie taïwanais « de l’indépendance au marché » et estime que la relation entre indépendance et marché ne relève pas d’une opposition noir-blanc ; une belle présentation et un vrai travail musical ne s’excluent pas mutuellement[^27].
 
@@ -231,7 +231,7 @@ Au second semestre 2019, lorsque les membres de Sodagreen tentent de publier de 
 
 En regard, dans son communiqué de 2022 annonçant l’abandon de la marque, Lin Wei-che décrit ainsi l’état dans lequel il se trouvait :
 
-> 「在疫情最嚴重的時候，我自主管理關在家裡，靜靜的思考，想起過去的點點滴滴。」[^32]
+> « Au plus fort de l’épidémie, confiné chez moi en auto-isolement, j’ai réfléchi en silence et repensé à tous ces petits riens du passé. »[^32]
 
 Les versions des deux parties divergent : c’est habituel dans les contentieux. Ce que l’on peut établir, c’est ceci : le 2 janvier 2017, Sodagreen annonce sa pause ; le 6 septembre 2019, Wu Ching-feng sort son premier album solo studio, 《太空人》, conçu comme une mise en ordre de ses œuvres personnelles pendant la pause du groupe, et non comme un départ du groupe[^33].
 
@@ -245,7 +245,7 @@ _Le 1er janvier 2017, dernier rappel de Sodagreen à Liberty Square. Environ 20 
 
 ---
 
-## « 我曾經視為父親的人 »
+## « L’homme que j’avais considéré comme un père »
 
 Pendant les deux ou trois années qui suivent la pause, les membres de Sodagreen tentent de publier à nouveau de la musique sous le nom « Oaeen ». Mais la relation juridique entre « Oaeen » et « Sodagreen » entre, entre 2019 et 2021, dans une série de procédures judiciaires.
 
@@ -264,19 +264,19 @@ Bilan : contre Wu Ching-feng, Lin Wei-che subit quatre défaites civiles et une 
 
 Le 30 mars 2021, peu avant le jugement d’appel civil, Wu Ching-feng est entouré par les médias à l’extérieur du tribunal. Il déclare :
 
-> 「我一向盲目相信的老師，一個我曾經視為父親的人，為什麼會變成這樣。」[^36]
+> « Ce professeur en qui j’avais toujours cru aveuglément, cet homme que j’avais un jour considéré comme un père — comment en est-on arrivé là ? »[^36]
 
 Le mot clé est «曾經視為», « que j’ai autrefois considéré comme » : un passé, avec le verbe « considérer comme », et non une formulation au présent du type « je le considère comme un père ». De nombreux médias secondaires reprendront ensuite la phrase sous la forme « je l’ai toujours considéré comme un père ». Mais à comparer avec la transcription du journaliste du Liberty Times ce jour-là, la formulation originale est bien « quelqu’un que j’ai autrefois considéré comme un père ». Cette différence n’est pas du purisme rhétorique : « autrefois considéré comme » porte plus de poids que « toujours considéré comme ». Le premier est un certificat de décès d’une relation ; le second n’est qu’une déclaration affective.
 
 Deux mois plus tard, le 11 mai 2021, Wu Ching-feng publie sur Facebook une déclaration publique de 4 000 caractères. Elle est alors reprise intégralement par plusieurs médias. Son ouverture est la suivante :
 
-> 「我於理、於情都毫無虧欠，更是合理合法、仁至義盡。」[^37]
+> « Je ne dois rien à personne, ni en droit ni en affection ; j’ai agi légalement, raisonnablement, et j’ai fait tout ce qui était humainement possible. »[^37]
 
 La formule « en raison comme en affection, je ne dois rien » reprend une structure en miroir issue du chinois classique, mettant l’argument juridique et l’argument émotionnel au même niveau. Certains médias secondaires condenseront plus tard ce passage en « je n’ai pas la moindre culpabilité » pour leurs titres, mais cette formule n’est pas la version littérale du texte Facebook. Cet article retient comme citation la formulation originale : «我於理、於情都毫無虧欠».
 
 La déclaration de 4 000 caractères se clôt ainsi :
 
-> 「音樂一旦失去靈魂，就只剩下技巧；而法律一旦忽略人心，產生漏洞，就只是文字罷了。」[^37]
+> « Une musique qui perd son âme n’est plus que technique ; et un droit qui ignore le cœur humain, et laisse des failles s’y ouvrir, n’est plus que des mots. »[^37]
 
 Quand un musicien engagé dans un litige de marque met musique et droit côte à côte comme deux systèmes susceptibles de perdre le cœur humain, le poids de la phrase tient à ce qu’elle ne dénonce pas seulement l’autre partie : elle accuse toute une structure qui conduit les gens devant les tribunaux.
 
@@ -327,17 +327,17 @@ Le sens du projet de reproduction est ici : entre 2019 et 2022, alors que le nom
 
 ---
 
-## « 該放下了 » et « Nous sommes Sodagreen »
+## « Il est temps de lâcher prise » et « Nous sommes Sodagreen »
 
 Le 30 mai 2022, date anniversaire de la formation de Sodagreen et date du concert School Rock de Chengchi en 2004 où avait été publié 《空氣中的視聽與幻覺》, Lin Wei-che publie sur Facebook un communiqué annonçant qu’il renonce à la propriété de la marque « Sodagreen ».
 
 Le passage central du communiqué est le suivant[^32][^42] :
 
-> 「這個事情走到今天，有一個內在的聲音告訴我『該放下了』。」
+> « Arrivé là où en sont les choses, une voix intérieure me dit qu’il est temps de lâcher prise. »
 >
-> 「在疫情最嚴重的時候，我自主管理關在家裡，靜靜的思考，想起過去的點點滴滴。我知道該做一個決定，放下過去，不管好的壞的都一樣。所以我決定放棄商標的所有權。並祝福這個名字有更好的未來。」
+> « Au plus fort de l’épidémie, confiné chez moi en auto-isolement, j’ai réfléchi en silence et repensé à tous ces petits riens du passé. J’ai su qu’il fallait trancher : laisser le passé derrière moi, le bon comme le mauvais. J’ai donc décidé de renoncer à la propriété de la marque. Et je souhaite à ce nom un meilleur avenir. »
 >
-> 「法律有助於釐清事實，卻也把人與人之間的感情和信任摧毀了。」
+> « Le droit aide à établir les faits, mais il détruit aussi l’affection et la confiance entre les êtres. »
 >
 > 「Life is short，希望大家健康平安，祝福你們。」
 
@@ -355,7 +355,7 @@ Cette phrase avait déjà été prononcée lors du dernier rappel de Liberty Squ
 
 Trois mois plus tard, le 30 mai 2023, encore un 30 mai, Sodagreen donne au Mémorial Tchang Kaï-chek un concert gratuit intitulé 《Sodagreen Round 2》. Sur scène, Wu Ching-feng dit[^45] :
 
-> 「等待很久了，6 年吧，終於可以說出來，我們是蘇打綠。」
+> « On a attendu longtemps — six ans, je crois. On peut enfin le dire : nous sommes Sodagreen. »
 
 Le chiffre « 6 ans » se calcule à partir du 2 janvier 2017, date de l’annonce de la pause.
 

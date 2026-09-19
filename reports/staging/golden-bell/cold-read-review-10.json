@@ -1,0 +1,21 @@
+{
+  "revision": 87,
+  "submissionId": "cbfdf9cb-4559-4ae7-80c9-38c9b7eb49dd",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ae2b8e8454c24c348；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "revise",
+  "rationale": "唯一真問題：表格「公視與製作公司並列」列的《斯卡羅》，同列另三部在正文或錨欄都交代了年份與共同掛牌，唯獨《斯卡羅》無任何後續說明，揭露不一致；最小改法在錨欄補年份與共同掛牌。其餘（額度／入圍已自解、三分之二 hedge、楊麗花非承諾、得獎／入圍用詞一致、主題句結構性覆述、廣播筆記、客家十五年、「這幾次」）屬裁量。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行81 表格《斯卡羅》無年份與共同掛牌——真問題"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行85《天橋上的魔術師》已交代——對照"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "行101／157／125／91／121／212／136——裁量"
+    }
+  ]
+}

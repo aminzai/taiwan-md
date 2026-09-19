@@ -1,0 +1,25 @@
+{
+  "revision": 92,
+  "submissionId": "e4aad008-dcb6-4541-a13b-428e805bfb15",
+  "actor": "冷讀站評閱編輯（Sonnet，Agent ae31c3b7b4a340997；contextDisclosure: fresh-context-draft-and-coldread-only）",
+  "verdict": "accept",
+  "rationale": "冷讀者十三號的五類 confusions、三類 repetitions、三類 forcedConclusions 逐條核對後皆屬讀者偏好或文章已處理的裁量：1994／1996／1998 輪辦 L48 已寫「那三年輪到廣播」；得獎／參賽／製作單位三詞忠實反映各屆官方名單欄位（[^17]-[^21]）；公視三事實 L101 已處理且正文未寫「最多」；陳亞蘭 H2 並置未宣稱因果；三分之二為明確揭露的 hedge；「這幾次」已限定；結尾為前幾輪判裁量的收尾；60 項／824／883／主題句分屬概覽、正文、圖表、筆記不同功能。無新事實或邏輯缺口。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L48 隔年輪辦已交代——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L85／[^19][^20][^21] 官方欄位名——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L101 公視三事實已處理——裁量"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L140／L157／L91／L216／L27／L200——裁量"
+    }
+  ]
+}

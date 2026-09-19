@@ -18,6 +18,10 @@ REPO = Path(__file__).resolve().parent.parent.parent
 I18N_DIR = REPO / "src/i18n"
 CREDS = Path.home() / ".config/taiwan-md/credentials"
 KEY_FILE = CREDS / "openrouter.key"
+# 模型 slug 的 canonical 在 lang-sync/backends/openrouter.py 的 DEFAULT_FREE_MODEL。
+# 這支不 import 那個套件（不同層、避免相依），所以在這裡覆寫一份並用 env 留活口。
+# 改模型時兩邊都要動——`openrouter-model-audit.py` 會抓到漏掉的那邊。
+OR_MODEL = os.environ.get("OPENROUTER_MODEL", "nvidia/nemotron-3-super-120b-a12b:free")
 ENV_FILE = CREDS / ".env"
 
 LANG_NAMES = {
@@ -118,7 +122,7 @@ def _unquote_ts_string(raw: str) -> str:
 
 def call_owl(api_key, system, user, max_retries=3, max_tokens=32000):
     payload = json.dumps({
-        "model": "openrouter/owl-alpha",
+        "model": OR_MODEL,
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         "temperature": 0.2,
         "max_tokens": max_tokens,

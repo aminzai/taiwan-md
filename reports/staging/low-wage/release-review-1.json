@@ -1,0 +1,22 @@
+{
+  "revision": 61,
+  "submissionId": "97eb9330-0388-4b6d-8650-945c416b325f",
+  "actor": "release-editor-1 (Opus agent a6d91f835d6a7ccd4, fresh context, named editor; read article + release/verify submissions + cold-read 6-8 + MANIFESTO §13 + EDITORIAL §三)",
+  "verdict": "revise",
+  "rationale": "座標給得夠、立場兩邊查過沒替誰收尾。退回三處框架誠實度：(1) description 與結尾「三百多萬人沒被任何一把尺量過」跟第四節自己用全體口徑量部分工時、用勞動部調查量移工矛盾，且三百多萬含雇主 48.3 萬；(2) 概覽「差別全在年終那一欄」把主計總處的「主要」升成「全」，113 年統計以投保天數為權數，非整年在職者也在 39 萬線下，全文未提；(3) description 183 字超過 120-160，「差在分母那一格」把同一分母的兩個答案寫成分母不同。最後一節連續兩段同一收尾意象，「回聲設計」裁決只解釋頭尾。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L3；L29；L117-125；L269／L271"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/113-新聞稿.txt",
+      "location": "L380 投保天數為權數"
+    },
+    {
+      "path": "reports/staging/low-wage/release-submission.json",
+      "location": "remainingLimits 漏列"
+    }
+  ],
+  "contextDisclosure": "fresh-context-named-editor"
+}

@@ -1,0 +1,13 @@
+{
+  "revision": 90,
+  "submissionId": "15e3ee3b-4779-46d9-bf5a-f124b7e8faba",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第十六次 delta）",
+  "verdict": "accept",
+  "rationale": "curl 維基得獎列表確認 2022 第 57 屆《斯卡羅》／財團法人公共電視文化事業基金會、台北創造電影有限公司，帶得獎標記。與新句逐字相符，其餘未動。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L76（表格錨欄補 2022 斯卡羅）"
+    }
+  ]
+}

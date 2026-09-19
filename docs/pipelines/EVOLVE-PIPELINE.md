@@ -358,7 +358,7 @@ N 降到 < 3 → daily routine 重新補 P2
    - 加 §Loop 6 時事日曆：未來 30 天內的節慶 / 典禮 / 選舉節點 / 賽事，當時效錨點
 2. **知識庫三邊對照**（每個熱點都要）：`find knowledge -maxdepth 2 -name "*.md" -path "knowledge/[A-Z]*" | grep <關鍵字>` 看有沒有條目、有的話 `date:` / `lastVerified` 多舊；grep ARTICLE-INBOX §Pending 有沒有 entry（Phase 4 CHECK，不重複）；grep ARTICLE-DONE-LOG 是不是剛 ship 過。
 3. **內部訊號補位**：讀 `public/api/dashboard-analytics.json` 的 `searchConsole7d.topQueries` / `opportunities` 與 `ga.topArticles7d`，把外部雷達照不到、但站內數據在叫的條目（高曝光低 CTR / 流量王帶病）列進報告 §內部訊號，跟既有 INBOX entry 對照後只做「升級／提醒」不重列。
-4. **Tier 排序**：Tier 1 立即開發（時效高 × 深度大 × 缺口大，通常 3-4 條）/ Tier 2 近期開發（持續性議題）/ Tier 3 孢子掛鉤（已有條目 × 熱點；出口關閉時只列不 append，同 §news-lens-spore-output Step 0）。每條寫：時效 / 重要性 / 缺口確認（貼 find 結果）/ 建議切角 / footnote 起點來源 / 必驗事實 / 敏感度。
+4. **Tier 排序**：Tier 1 立即開發（時效高 × 深度大 × 缺口大，通常 3-4 條）/ Tier 2 近期開發（持續性議題）/ Tier 3 孢子掛鉤（已有條目 × 熱點；出口關閉時只列不 append，同 §news-lens-spore-output Step 0）。每條寫：時效 / 重要性 / 缺口確認（貼 find 結果）/ **這題裡的人在哪**（至少點出兩個站不同位置、可追溯的人或群體；找不到人的題降 Tier 2——制度機制題天生往說明書長，2026-09-18 三條 Tier 1 全是制度題、隔天全部重做）/ 建議切角 / footnote 起點來源 / 必驗事實 / 敏感度。
 5. **§自主權邊界過濾**：政治立場、在審案件、私人事件當脊椎的題目（例：陳幸妤離婚），標「需哲宇裁定」或「不建議」並寫原因，不當 Tier 1。
 6. **落檔**：`reports/probe/YYYY-MM-DD.md` + `reports/probe/INDEX.md` 加一列（日期 / 熱點數 / 缺口數 / 關鍵發現 / link）。跑 `python3 scripts/tools/article-health.py reports/probe/YYYY-MM-DD.md --check=prose-health` 要 hard=0（warn 可接受，報告體例本來就 bullet 密）。
 7. **餵 ARTICLE-INBOX**：Tier 1 條目寫成完整 entry append §Pending（Priority P0 / P1，Requested 標 `YYYY-MM-DD by twmd-news-lens-weekly (probe)`，Notes 含缺口確認與必驗事實）。這就是本 routine legacy output (1)「≥ 1 candidate」的主要來源。需哲宇裁定的條目也 append，但 Notes 第一行寫「需哲宇裁定 framing」且 Status 維持 pending。

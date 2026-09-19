@@ -1,16 +1,16 @@
 ---
-title: 'Mini Taiwan Pulse — Visualisasi 3D Real-time Transportasi Taiwan'
-description: 'Rasakan denyut nadi Taiwan melalui data terbuka—jejak penerbangan melintasi langit, kapal berlayar di permukaan laut, kereta melaju di rel; 23 lapisan menampilkan pernapasan pulau ini secara real-time.'
+title: 'Mini Taiwan Pulse — Visualisasi 3D Waktu Nyata Transportasi Taiwan'
+description: 'Rasakan denyut nadi Taiwan dengan data terbuka—jejak cahaya penerbangan melintas langit, kapal mengarungi lautan, kereta berlari di rel, 23 lapisan menampilkan napas pulau ini secara waktu nyata.'
 date: 2026-03-22
 category: 'resources'
 tags:
   [
     'sumber daya',
-    'data terbuka',
+    'data-terbuka',
     'visualisasi',
     'transportasi',
     '3D',
-    'waktu nyata',
+    'waktu-nyata',
     'Taiwan.md',
   ]
 subcategory: '公民科技'
@@ -22,103 +22,103 @@ translatedFrom: 'resources/mini-taiwan-pulse.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
 sourceBodyHash: 'sha256:215016d553b05404'
-translatedAt: '2026-09-10T03:36:19+08:00'
+translatedAt: '2026-09-13T05:56:48+08:00'
 ---
 
-# Mini Taiwan Pulse — Visualisasi 3D Realtime Transportasi Taiwan 🌐
+# Mini Taiwan Pulse — Visualisasi 3D Waktu Nyata Transportasi Taiwan 🌐
 
-> 📖 **Artikel Mendalam**: Sumber daya ini telah ditingkatkan menjadi artikel penelitian teknologi sipil yang mendalam; versi lengkap dapat dilihat di [Mini Taiwan Pulse: Bagaimana seorang analis data menganimasikan denyut nadi transportasi Taiwan menjadi jejak cahaya 3D yang bernapas](/id/technology/mini-taiwan-pulse-civic-tech) (2026-04-19). Halaman ini dipertahankan sebagai entri daftar sumber daya.
+> 📖 **Artikel mendalam**: Sumber daya ini telah ditingkatkan menjadi artikel penelitian teknologi sipil mendalam, versi lengkap silakan baca [Mini Taiwan Pulse: Bagaimana Seorang Analis Data Menggambarkan Denyut Transportasi Taiwan Menjadi Jejak Cahaya 3D yang Bernapas](/id/technology/mini-taiwan-pulse-civic-tech) (2026-04-19). Halaman ini disimpan sebagai entri indeks daftar sumber daya.
 
-> **Ikhtisar 30 Detik**: Sebuah proyek _open source_ yang mendinamisasi transportasi Taiwan menjadi bola dan jejak cahaya 3D. Pesawat melukis busur di langit, kapal meninggalkan ekor di permukaan laut, kereta berlari di rel—23 lapisan yang dapat diganti untuk membuat Anda "melihat" denyut nadi Taiwan.
+> **Ringkasan 30 detik:** Sebuah proyek sumber terbuka yang memvisualisasikan dinamika transportasi Taiwan secara waktu nyata menjadi bola cahaya 3D dan jejak cahaya. Penerbangan mengukir busur di langit, kapal meninggalkan ekor di lautan, kereta berlari di rel—23 lapisan yang dapat dialihkan, memungkinkan Anda "melihat" denyut nadi Taiwan.
 
-## Mengapa Layak Diperhatikan
+## Mengapa Patut Diperhatikan
 
-Kebanyakan orang melihat peta Taiwan sebagai garis luar statis. Mini Taiwan Pulse memungkinkan Anda melihat **pulau yang sedang bernapas**.
+Kebanyakan orang melihat peta Taiwan, yang terlihat adalah garis batas statis. Mini Taiwan Pulse memungkinkan Anda melihat sebuah **pulau yang sedang bernapas**.
 
-Proyek ini memiliki ambisi besar: mengintegrasikan data terbuka dari berbagai lembaga pemerintah—penerbangan, AIS kapal, jadwal kereta api cepat Taiwan (THSR), rute MRT, demografi, observasi meteorologi—ke dalam satu peta 3D. Ini bukan sekadar penanda titik; melainkan mengubah data menjadi pemandangan bergerak menggunakan bahasa visual seperti bola cahaya, jejak cahaya, dan ekor komet.
+Ambisi proyek ini tidak kecil: mengintegrasikan data terbuka yang tersebar di berbagai instansi pemerintah—penerbangan, AIS kapal, jadwal KA Taiwan (TRA) dan HSR, rute MRT, statistik populasi, observasi cuaca—ke dalam satu peta 3D yang sama. Bukan sekadar penandaan titik-titik sederhana, melainkan menggunakan bahasa visual bola cahaya, jejak cahaya, ekor komet, mengubah data menjadi pemandangan bergerak.
 
 > **📝 Catatan Kurator**
-> Infrastruktur data terbuka Taiwan menempati peringkat teratas di Asia (sering masuk sepuluh besar dalam [Indeks Data Terbuka Global](https://index.okfn.org/)), namun terdapat kesenjangan besar antara "keterbukaan data" dan "data yang terlihat". Mini Taiwan Pulse sedang mengisi celah ini.
+> Infrastruktur data terbuka Taiwan berada di peringkat teratas di Asia (Indeks Data Terbuka Global [https://index.okfn.org/] beberapa kali masuk sepuluh besar), namun antara "data dibuka" dan "data terlihat" terdapat jurang yang besar. Mini Taiwan Pulse sedang mengisi kesenjangan ini.
 
-## Tiga Lapisan Denyut Nadi
+## Tiga Lapisan Denyut
 
 ### Langit — Jejak Cahaya Penerbangan ✈️
 
-Meliputi 14 bandara di seluruh Taiwan, dengan lebih dari 1.500 penerbangan secara dinamis. Setiap pesawat adalah bola bercahaya yang meninggalkan jejak cahaya gradien seperti komet di belakangnya. Rasio ketinggian dapat disesuaikan (1x hingga 5x), membuat perbedaan antara rute rendah dan rute tinggi terlihat jelas.
+Mencakup 14 bandara di seluruh Taiwan, dinamika waktu nyata 1.500+ penerbangan. Setiap pesawat adalah bola cahaya, di belakangnya menarik jejak cahaya gradien berbentuk ekor komet. Faktor perbesaran ketinggian dapat disesuaikan (1x–5x), membuat perbedaan jalur penerbangan rendah dan tinggi terlihat jelas.
 
-Sumber data: API FlightRadar24.
+Sumber data: FlightRadar24 API.
 
 ### Lautan — Pelacakan Kapal 🚢
 
-Posisi kapal di perairan sekitar Taiwan ditandai dengan bola cahaya biru kehijauan, dan setiap kapal meninggalkan jejak selama 30 menit. Sistem secara otomatis menyaring lonjakan GPS yang abnormal dan MMSI yang tidak valid, memastikan bahwa setiap titik cahaya yang Anda lihat adalah kapal yang nyata.
+Posisi kapal di perairan sekitar Taiwan, ditandai dengan bola cahaya biru kehijauan, setiap kapal meninggalkan jejak ekor selama 30 menit. Sistem secara otomatis menyaring lompatan GPS abnormal dan MMSI tidak valid, memastikan setiap titik cahaya yang Anda lihat adalah kapal nyata.
 
-Sumber data: Data posisi kapal AIS (Sistem Identifikasi Otomatis).
+Sumber data: AIS (Sistem Identifikasi Otomatis) data posisi kapal.
 
-### Daratan — Enam Sistem Jalur 🚄
+### Darat — Enam Sistem Rel 🚄
 
-Ini mungkin bagian yang paling menakjubkan. Enam sistem jalur beroperasi secara sinkron:
+Ini mungkin bagian paling menakjubkan. Enam sistem rel berjalan sinkron:
 
-| Sistem                      | Skala                                                                                    |
-| :-------------------------- | :--------------------------------------------------------------------------------------- |
-| Kereta Api Taiwan (TRA)     | 265 rute, 333 rangkaian kereta, diklasifikasikan dengan 6 warna berdasarkan jenis kereta |
-| Kereta Cepat (THSR)         | Jalur utama Utara-Selatan + cabang                                                       |
-| MRT Taipei (TRTC)           | 8 rute                                                                                   |
-| MRT Kaohsiung (KRTC)        | Garis Merah + Garis Jingga                                                               |
-| Light Rail Kaohsiung (KLRT) | Ringan melingkar                                                                         |
-| MRT Taichung (TMRT)         | Garis Hijau + Garis Biru                                                                 |
+| Sistem               | Skala                                                               |
+| -------------------- | ------------------------------------------------------------------- |
+| KA Taiwan (TRA)      | 265 rute, 333 kereta, diklasifikasikan 6 warna menurut jenis kereta |
+| HSR (THSR)           | Utama utara-selatan + cabang                                        |
+| MRT Taipei (TRTC)    | 8 rute                                                              |
+| MRT Kaohsiung (KRTC) | Merah + Oranye                                                      |
+| LRT Kaohsiung (KLRT) | LRT lingkaran                                                       |
+| MRT Taichung (TMRT)  | Hijau + Biru                                                        |
 
-Pemrosesan TRA sangat kompleks—pencocokan rute OD, seperti jalur bercabang di Delta Changhua, ditangani oleh mesin khusus.
+Penanganan KA Taiwan sangat kompleks—pencocokan rel OD, rute bercabang seperti Segitiga Changhua, semuanya memiliki mesin khusus untuk memprosesnya.
 
-Sumber data: Jadwal publik + data jalur OpenStreetMap (https://www.openstreetmap.org/).
+Sumber data: Jadwal publik + data rel [OpenStreetMap](https://www.openstreetmap.org/).
 
-## Lebih dari Sekadar Transportasi
+## Bukan Hanya Transportasi
 
-Selain kendaraan yang bergerak, proyek ini juga menumpuk lapisan statis dan analitik:
+Selain kendaraan bergerak, proyek ini juga menumpuk banyak lapisan analisis statis:
 
-- **Infrastruktur**: Batas 14 bandara, pilar cahaya 535 stasiun (tinggi = jumlah pemberhentian), berkas rotasi 36 mercusuar dalam 3D
-- **Jaringan Jalan**: Jalan Nasional (Merah), Jalan Provinsi (Jingga), Jalur Sepeda (Hijau), lebar yang menyesuaikan _zoom_
-- **Analisis Populasi**: Peta panas populasi heksagonal H3, mendukung peralihan lalu lintas siang/malam, 9 indikator demografi
-- **Meteorologi**: Data real-time stasiun observasi + permukaan gelombang suhu 3D (resolusi grid 0.03°)
-- **Berita**: RSS CNA Central News Agency + pengkodean geografis Gemini, menandai peristiwa berita di peta
-- **Kemacetan Jalan Nasional**: Pengkodean warna tingkat kemacetan real-time
+- **Infrastruktur**: batas 14 bandara, 535 tiang cahaya stasiun (ketinggian = frekuensi berhenti), 36 mercusuar dengan sinar putar 3D
+- **Jaringan jalan**: jalan tol (merah), jalan provinsi (oranye), jalur sepeda (hijau), lebar adaptif zoom
+- **Analisis populasi**: peta panas populasi H3 heksagonal, mendukung pergantian arus harian/malam, 9 indikator populasi
+- **Cuaca**: data stasiun observasi waktu nyata + permukaan gelombang suhu 3D (resolusi grid 0.03°)
+- **Berita**: RSS CNA Lembaga Berita Pusat + Gemini API geocoding, menandai kejadian berita di peta
+- **Kemacetan jalan tol**: tingkat kemacetan waktu nyata dikodekan warna
 
-Total **23 lapisan yang dapat diganti secara independen**, dibagi dalam sepuluh kategori.
+Total **23 lapisan yang dapat dialihkan secara independen**, sepuluh kategori.
 
 ## Sorotan Teknis
 
-- **TypeScript + Mapbox GL + Three.js**: Peta 2D dirender secara asli oleh Mapbox, sementara elemen 3D (bola cahaya, jejak cahaya, pilar cahaya, permukaan suhu) ditumpuk menggunakan Three.js
-- **Pertimbangan Kinerja**: Penggunaan _InstancedMesh_ untuk rendering kelompok kapal, dan pemotongan pandangan (_viewport culling_) untuk menghindari rendering objek yang tidak terlihat
-- **Ilmu Warna**: Lapisan populasi menggunakan skala warna perseptual seperti Plasma / Viridis / Inferno; normalisasi ekor panjang dengan log1p + gamma, ramah terhadap buta warna
-- **Lisensi MIT**: Sepenuhnya _open source_, sambutan untuk _fork_ dan kontribusi
+- **TypeScript + Mapbox GL + Three.js**: peta 2D menggunakan rendering asli Mapbox, elemen 3D (bola cahaya, jejak cahaya, tiang cahaya, permukaan suhu) ditumpang menggunakan Three.js
+- **Pertimbangan performa**: kapal menggunakan InstancedMesh rendering batch, pemotongan viewport (viewport culling) menghindari rendering objek yang tidak terlihat
+- **Ilmu warna**: lapisan populasi menggunakan Plasma / Viridis / Inferno dan skala warna seragam persepsi, normalisasi log1p + gamma menangani distribusi ekor tebal, ramah buta warna
+- **Lisensi MIT**: sepenuhnya sumber terbuka, selamat fork dan kontribusi
 
 > **📝 Catatan Kurator**
-> Penggunaan _additive blending_ untuk menumpuk jejak cahaya adalah pilihan cerdas—area di mana banyak rute tumpang tindih secara alami menjadi lebih terang, sehingga kepadatan rute dapat dilihat secara visual tanpa perlu grafik statistik tambahan.
+> Penggunaan additive blending untuk penumpukan jejak cahaya adalah pilihan cerdas—area di mana banyak jalur penerbangan tumpang tindih secara alami menjadi lebih terang, secara visual langsung terlihat tingkat kesibukan jalur penerbangan, tanpa perlu grafik statistik tambahan.
 
 ## Ekosistem Data Terbuka
 
-Sumber data yang disambungkan oleh proyek ini sendiri merupakan daftar panduan data terbuka Taiwan:
+Sumber data yang dihubungkan proyek ini, sendiri sudah merupakan daftar panduan data terbuka Taiwan:
 
-| Data                            | Sumber                                                        |
-| :------------------------------ | :------------------------------------------------------------ |
-| Posisi penerbangan real-time    | API FlightRadar24                                             |
-| AIS kapal                       | Sistem Identifikasi Otomatis Kapal Internasional              |
-| Jadwal kereta api               | Jadwal publik + OSM                                           |
-| Bus/Angkutan Umum/Sepeda        | [Data Transportasi Publik TDX](https://tdx.transportdata.tw/) |
-| Statistik populasi              | [Geoinformasi Statistik SEGIS](https://segis.moi.gov.tw/)     |
-| Observasi meteorologi           | [Badan Meteorologi Pusat](https://www.cwa.gov.tw/)            |
-| Area angin lepas pantai         | Biro Energi Kementerian Ekonomi                               |
-| Peristiwa berita                | RSS CNA Central News Agency                                   |
-| Batas bandara/pelabuhan/stasiun | [API Overpass OSM](https://overpass-turbo.eu/)                |
+| Data                            | Sumber                                                          |
+| ------------------------------- | --------------------------------------------------------------- |
+| Posisi penerbangan waktu nyata  | FlightRadar24 API                                               |
+| AIS kapal                       | Sistem Identifikasi Otomatis Kapal Internasional                |
+| Jadwal rel                      | Jadwal publik + OSM                                             |
+| Bus/angkutan/sepeda             | [TDX Data Transportasi Umum](https://tdx.transportdata.tw/)     |
+| Statistik populasi              | [SEGIS Informasi Geografi Statistik](https://segis.moi.gov.tw/) |
+| Observasi cuaca                 | [Badan Meteorologi Pusat](https://www.cwa.gov.tw/)              |
+| Ladang angin lepas pantai       | Kementerian Ekonomi Biro Energi                                 |
+| Kejadian berita                 | RSS CNA Lembaga Berita Pusat                                    |
+| Batas bandara/pelabuhan/stasiun | [OSM Overpass API](https://overpass-turbo.eu/)                  |
 
-⚠️ **Perlu diperhatikan**: [Layanan Distribusi Data Transportasi TDX](https://tdx.transportdata.tw/) Taiwan adalah salah satu platform pemerintah yang menstandarisasi data transportasi publik nasional, mencakup bus, angkutan umum, kereta api, dan sepeda; dokumentasi API lengkap dan gratis untuk digunakan. Ini jarang terjadi secara global.
+⚠️ **Perlu dicatat:** [TDX Layanan Sirkulasi Data Transportasi](https://tdx.transportdata.tw/) Taiwan adalah sedikit platform pemerintah yang menstandarisasi data transportasi umum seluruh negara, mencakup bus, angkutan antar kota, rel, sepeda, dll., dokumentasi API lengkap dan gratis digunakan. Hal ini tidak umum di skala global.
 
 ## Tautan
 
-- **GitHub**: [ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse)
-- **Lisensi**: Lisensi MIT
-- **Bahasa**: TypeScript
-- **Sumber Daya Terkait**: [Platform Data Transportasi TDX](https://tdx.transportdata.tw/) · [Platform Data Terbuka Pemerintah](https://data.gov.tw/) · [Geografi Statistik SEGIS](https://segis.moi.gov.tw/)
+- **GitHub**：[ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse)
+- **Lisensi**：MIT License
+- **Bahasa**：TypeScript
+- **Sumber daya terkait**：[Platform Data TDX Transportasi](https://tdx.transportdata.tw/) · [Platform Data Terbuka Pemerintah](https://data.gov.tw/) · [Geografi Statistik SEGIS](https://segis.moi.gov.tw/)
 
 ---
 
-_Verifikasi terakhir: 2026-03-22_
+_Terakhir diverifikasi: 2026-03-22_

@@ -1,0 +1,21 @@
+{
+  "revision": 2,
+  "submissionId": "5d5b615e-9fb8-4358-b310-83fbd53bcc2b",
+  "actor": "Sonnet orient reviewer, fresh context (Agent ac6a5ea87576fc8b1; contextDisclosure: fresh-context-brief-and-viewpoint-only)",
+  "verdict": "accept",
+  "rationale": "五項判準逐一過關。(a) readerQuestion 貼合 brief §讀者「每年看金鐘轉播、對得獎名單有記憶的台灣人」的原設定，非額外塞入的研究議程。(b) subjectExplanation 的主辦單位換手序列、1965 首屆中山堂八座、61 屆日期，逐條對得上研究支線一與歷史脈絡段，且對「網路平台可報」等未定年份的條款只寫現況不寫年代，沒把待驗證的 2017/2021 說法當定論寫死。(c) 三個角度分別對應研究支線三／二／五，彼此獨立，且各自給了具體可查證的推翻條件（一手名單／要點 diff／報名入圍數），不是「金鐘反映電視史」的同義反覆。(d) uncertainties 六項全部對應研究 §待驗高風險與 §研究方向的具體未驗證項，且正確區分「維基 2026 預填」是查無／錯誤而非不存在。(e) spine 立體群像 P7，三角度落在 facet 1/2/4，沒有把政治敏感或評審爭議拉成主軸。",
+  "evidence": [
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "行 46-48（支線一、二、三：制度換手／獎勵要點／得獎單位遷移曲線）"
+    },
+    {
+      "path": "reports/research/2026-09/金鐘獎.md",
+      "location": "行 50、117（支線五廣播那一半；待驗高風險：維基 2026 預填不採信、NOWnews 單源、沈春華 13 座需一手）"
+    },
+    {
+      "path": "reports/staging/golden-bell/brief.md",
+      "location": "§讀者 與 §未知 段落"
+    }
+  ]
+}

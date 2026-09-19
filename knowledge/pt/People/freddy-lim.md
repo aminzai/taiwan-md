@@ -28,7 +28,7 @@ translatedFrom: 'People/林昶佐.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:685b3a0c30829488'
 sourceBodyHash: 'sha256:dfd669296348affb'
-translatedAt: '2026-09-08T23:20:19.190378+00:00'
+translatedAt: '2026-09-09T15:53:59.777330+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Freddy Lim é o vocalista do Chthonic, um dos fundadores do Megaport Festival, ex-presidente da secção de Taiwan da Anistia Internacional, e uma das figuras mais representativas da terceira força que entrou no parlamento após o Movimento dos Girassóis. O Chthonic escreveu o [Incidente 228](/pt/history/228-incident/), o [Terror Branco de Taiwan](/pt/history/taiwan-white-terror/), o Incidente de Musha, a mitologia de Taiwan e narrativas de espíritos errantes no black metal, fazendo com que a história de Taiwan não fosse apenas lida, mas também ouvida e gritada. Mais tarde, ele participou na fundação do Novo Poder, foi eleito legislador, viveu a saída do partido e um processo de revogação, e após deixar o cargo assumiu o papel de representante em Finlândia, ligando-se ao trabalho internacional. A política foi a sua aventura, o Chthonic continua a ser o seu corpo.
@@ -62,24 +62,24 @@ Quando mais tarde fala do taiwanês, diz que o faz imaginar como viviam os avós
 
 _Vídeo oficial do Chthonic: "Mù chén Wǔdé Diàn" versão folk. Depois de desmontar o muro sonoro do metal para versão acoustic, a voz de Freddy Lim, a melodia em taiwanês e o sentido histórico permanecem em primeiro plano._
 
-## História e Espíritos no Black Metal
+## História e fantasmas no Black Metal
 
-A principal forma de criação do Chthonic é transformar a história de Taiwan em um universo espectral que retorna repetidamente.
+O método criativo mais importante do Chthonic é transformar a história de Taiwan num universo de fantasmas que retornam repetidamente.
 
-《賽德克巴萊》 (Sedekbalai) aborda o Incidente de Wens County (Wenshe). 《十殿》 (Shi Dian) insere o Massacre de 228 no imaginário do inferno e do julgamento. 《高砂軍》 (Gaosha Army) reflete sobre os jovens indígenas de Taiwan recrutados pelo Império Japonês durante a Segunda Guerra Mundial. 《武德》 (Wude) entrelaça modernidade, budōkan e memória colonial. Já 《政治》 (Zhengzhi) coloca em evidência a violência e a resistência pós-guerra em Taiwan.
+《Seediq Bale》 aborda o Incidente de Wushe. 《The Ten Courts》 insere o Incidente 228 na imaginação do inferno e do julgamento. 《Takasago Army》 olha para trás, para os jovens indígenas de Taiwan recrutados pelo Império Japonês na Guerra do Pacífico. 《Budō》 entrelaça modernidade, o Budokan e a memória colonial. 《Politics》 traz diretamente à tona a violência e a resistência do Taiwan pós-guerra.
 
-Estes álbuns transcendem a função de "apresentar a história". Eles parecem fazer a pergunta: se os sofredores não foram verdadeiramente lembrados, eles continuarão voltando?
+Estes álbuns vão além da função de "apresentar a história". Eles são mais como uma pergunta: se as vítimas não forem verdadeiramente lembradas, não continuarão a voltar?
 
-《政治》 também não provém apenas de questões nacionais em caixa alta. Em uma entrevista com o Fundo de Cuidado Anning, Lim Chang-tsaw fala sobre a morte súbita do coração de seu pai em 2017 e sua incapacidade de vê-lo pela última vez. No mesmo ano, sua filha nasceu, e ele foi pressionado por vida e morte em um curto período. Ele disse que a morte de seu pai o fez perceber a necessidade de valorizar quem ama, sem deixar que emoções deixem feridas irreparáveis. Esse sentimento sobre a morte, a paternidade e a reconciliação também foi colocado em 《政治》 em 2018. [^7]
+《Politics》 também não vem apenas de grandes questões nacionais. Em uma entrevista à Fundação de Cuidados Paliativos, Freddy Lim fala sobre a morte súbita do pai por infarto em 2017, sem ter conseguido vê-lo pela última vez. No mesmo ano nasceu sua filha, e vida e morte pesaram sobre ele simultaneamente em um curto espaço de tempo. Ele diz que a morte do pai o fez perceber que deve valorizar quem ama, não deixando que emoções deixem feridas irreparáveis. Esse sentimento diante da morte, da relação pai-filho e da reconciliação também foi colocado no álbum 《Politics》 de 2018.[^7]
 
-Em uma longa entrevista após se aposentar, Lim Chang-tsaw falou sobre como, ao descobrir as histórias familiares de seu avô, ele reinterpretou a maneira como o Chthonic havia escrito sobre os terroristas brancos, os sofredores do Massacre de 228 e o renascimento. Ele disse que originalmente não sabia como essa história do Chthonic deveria terminar. Quando personagens fictícios receberam histórias reais da família, aquele universo musical pareceu finalmente se conectar com o mundo real.
+Em uma longa entrevista após deixar o cargo, Freddy Lim fala sobre como, ao descobrir a história da família do avô materno, passou a compreender de novo a forma como o Chthonic vem escrevendo, há anos, sobre o Terror Branco, as vítimas do 228 e a reencarnação. Ele diz que originalmente não sabia como a história do Chthonic terminaria. Quando personagens fictícios se conectam à história real da família, aquele universo musical parece finalmente se ligar ao mundo real.
 
-O cerne do trabalho que o Chthonic faz ao longo dos anos não está na aparência de "metal + tema taiwanês", mas sim em usar o metal para processar um sentimento muito familiar aos taiwaneses, mas muitas vezes inexpressável: a história não terminou de verdade; talvez haja histórias não contadas escondidas dentro da família.
+O que o Chthonic faz há anos tem seu núcleo não na aparência de "metal mais temática de Taiwan", mas em usar o metal para lidar com um sentimento que os taiwaneses conhecem bem, mas muitas vezes não conseguem expressar: a história não passou de verdade, e talvez haja nas famílias histórias que não foram contadas até o fim.
 
-O cuidado social nasce nesse trabalho musical. Quando os sofredores, os ancestrais e aqueles que foram silenciados ganham voz no palco, surge a próxima pergunta: essas vozes podem ser ouvidas na sociedade?
+A preocupação social nasce justamente dentro desse trabalho musical. Quando vítimas, espíritos ancestrais e silenciados ganham voz no palco, surge a próxima pergunta: essas vozes podem ser ouvidas na sociedade?
 
-![Lim Chang-tsaw segurando um microfone no palco e erguendo uma bandeira do Tibete, em frente à grande estrutura do palco.](/article-images/people/freddy-lim-chthonic-founder.webp)
-_Em 2012, Lim Chang-tsaw levantou a bandeira do Tibete no palco. Esta imagem coloca o papel de vocalista de Freddy, o cuidado com os direitos humanos e a situação internacional de Taiwan no mesmo local. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+![林昶佐在舞台上手持麥克風並舉起西藏旗，站在大型舞台結構前方。](/article-images/people/freddy-lim-chthonic-founder.webp)
+_2012, Freddy Lim no palco erguendo a bandeira do Tibete. Esta imagem coloca a identidade de vocalista do Freddy, sua preocupação com direitos humanos e a situação internacional de Taiwan no mesmo momento. Foto: Hyw83516，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg)（[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)）。_
 
 ## Megaport Festival: transformar som em campo
 
@@ -181,45 +181,45 @@ Megaport Festival: festival de música do sul, identidade urbana, cultura contem
 - [Candidato a legislador do Novo Poder Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG) — Foto: Parlamento Sem Par, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic, Yuan Chih-sien - Mù chén Wǔdé Diàn (versão folk)](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Vídeo oficial do Chthonic no YouTube, usado para mostrar a voz de Freddy Lim como vocalista e a interpretação da versão acoustic.
 
-## Notas
+## Notas de rodapé
 
-[^1]: [Conheça Freddy Lim, a Estrela do Death Metal que Acabou de se Tornar uma Oficial Eleita em Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Reportagem da GQ de 2016, descrevendo Lin Chang-tsuo como vocalista do Shaman King, integrando o cenário internacional de metal e política com dialeto taiwanês e instrumentos tradicionais.
+[^1]: [Conheça Freddy Lim, a Estrela do Death Metal que Acabou de se Tornar um Oficial Eleito em Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Reportagem de perfil da GQ de 2016, descrevendo como Freddy Lim, como vocalista do Chthonic, com taiwanês e instrumentos tradicionais, entrou no cenário internacional do metal e da política.
 
-[^2]: [Site Oficial do Da Gang Open Mic](https://megaportfest.com/) — Website oficial do evento, usado para confirmar a posição contemporânea do Da Gang Open Mic como Festival Musical de Kaohsiung; a história é verificada em Wikipédia.
+[^2]: [Site Oficial do Megaport Festival](https://megaportfest.com/) — Site oficial do evento, usado para confirmar a posição contemporânea do Megaport Festival como festival de música de Kaohsiung; a evolução histórica foi verificada cruzadamente com a Wikipédia.
 
-[^3]: [Conheça Freddy Lim, a Estrela do Death Metal que Acabou de se Tornar uma Oficial Eleita em Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Mesma reportagem da GQ, fornecendo o contexto de como a mídia internacional entendeu 'vocalista de metal entrando no parlamento' em 2016.
+[^3]: [Conheça Freddy Lim, a Estrela do Death Metal que Acabou de se Tornar um Oficial Eleito em Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — A mesma reportagem da GQ, fornecendo o contexto de como a mídia internacional entendeu a 'estrela do metal entrando no parlamento' em 2016.
 
-[^4]: ['Queremos uma sociedade mais justa': Freddy Lim, o deputado metalhead de Taiwan](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — Reportagem do The Guardian de 2020, complementando as observações da mídia internacional sobre seu papel público antes e depois do mandato de Lin Chang-tsuo.
+[^4]: ['Queremos uma sociedade mais justa': Freddy Lim, o deputado metaleiro de Taiwan](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — Reportagem do The Guardian de 2020, complementando as observações da mídia internacional sobre o papel público de Freddy Lim antes e depois de sua reeleição.
 
-[^5]: [De celebridade do rock a legislador: As crenças de Lin Chang-tsuo, taiwanês](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — Reportagem em chinês do The New York Times em 2017, registrando o estágio político inicial de Lin Chang-tsuo ao transitar da cena musical underground para o parlamento, promovendo a visibilidade internacional e questões sociais de Taiwan.
+[^5]: [De Estrela do Rock a Legislador, as Convicções do Taiwanês Freddy Lim](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — Reportagem do New York Times Chinese de 2017, registrando a fase política inicial de Freddy Lim, da cena musical underground ao parlamento, impulsionando a visibilidade internacional de Taiwan e questões sociais.
 
-[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China‘ – wir sind Taiwan“](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Entrevista especial do Der Tagesspiegel em 2022, oferecendo um retrospecto de Lin Chang-tsuo sobre educação sob regime militar, dialeto taiwanês, identidade taiwanesa e narrativa internacional.
+[^6]: [Cantor de Metal e Político Freddy Lim: 'Nunca fomos a 'China Livre' – somos Taiwan'](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Entrevista do Der Tagesspiegel de 2022, fornecendo a retrospectiva de Freddy Lim sobre a educação na lei marcial, o taiwanês, a identidade de Taiwan e a narrativa internacional.
 
-[^7]: [De filho a marido, a pai: Lin Chang-tsuo – perpetuando o amor de outra maneira](https://www.hospice.org.tw/content/3435) — Entrevista do Fundo de Cuidado Paliativo, complementando as experiências de vida de Lin Chang-tsuo após a morte súbita do pai, o nascimento da filha, cuidados paliativos e seu álbum 'Politics'.
+[^7]: [De Filho, Marido a Pai: Freddy Lim – Deixar o Amor Continuar de Outra Forma](https://www.hospice.org.tw/content/3435) — Entrevista da Fundação de Cuidados Paliativos, complementando a experiência de vida de Freddy Lim entre a morte súbita do pai, o nascimento da filha, os cuidados paliativos e o álbum 'Política'.
 
-[^8]: [Cabelo comprido, maquiagem de cadáver... Há 7 anos, Lin Chang-tsuo venceu um velho general militar do Kuomintang como vocalista de banda, escrevendo uma lenda política de pessoa comum](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — Reportagem da Jin Choukan em 2022, organizando o contexto político antes e depois do recall de Lin Chang-tsuo, bem como discussões sobre pautas progressistas como casamento igualitário e os limites do recall.
+[^8]: [Cabelo Longo, Maquiagem de Cadáver... Freddy Lim, Há 7 Anos, como Vocalista de Banda, Derrotou Veterano Militar do KMT, Escrevendo Lenda de Candidato Comum na Política](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — Reportagem da Businesstoday (今周刊) de 2022, organizando o contexto político antes e depois do caso de revogação de Freddy Lim, questões progressistas como casamento igualitário e análise do limiar de revogação.
 
-[^9]: [A vida passada e presente do 'Da Gang Open Mic' (Parte 1): A vida festivalística do líder](https://www.verse.com.tw/article/megaport-festival-01) — Reportagem da VERSE em 2022, organizando o contexto do Da Gang Open Mic, desde sua criação na margem de Kaohsiung em 2006 até a gestão por Doris e Dani após 2016 e as questões comunitárias.
+[^9]: ['Megaport Festival' Passado e Presente (Parte 1): A Vida Cosmopolita do Festival de Música do Capitão](https://www.verse.com.tw/article/megaport-festival-01) — Reportagem da VERSE de 2022, organizando a trajetória do Megaport Festival desde sua criação em 2006 à beira do porto de Kaohsiung, até a gestão de Doris e Dani após 2016 e a vila de questões de ONGs.
 
-[^10]: [A vida passada e presente do 'Da Gang Open Mic' (Parte 2): Mais que 16 anos, uma síntese da história dos festivais musicais de Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Reportagem da VERSE em 2022, complementando a trajetória de Wild Stage Open Mic, internacionalização com múltiplos palcos, cobrança do público, bastidores dos artistas e a elevação da cultura de audição em Taiwan.
+[^10]: ['Megaport Festival' Passado e Presente (Parte 2): Não Apenas 16 Anos, mas a Soma Cultural da História dos Festivais de Música de Taiwan](https://www.verse.com.tw/article/megaport-festival-02) — Reportagem da VERSE de 2022, complementando a longa trajetória do Wild Taiwan Festival, internacionalização de múltiplos palcos, pagamento pelo usuário, bastidores dos artistas e a evolução da cultura de fãs de bandas em Taiwan.
 
-[^11]: [ENTREVISTA: Freddy Lim desvenda a plataforma do Novo Partido](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Entrevista do Taipei Times em 2015, fornecendo o contexto de Lin Chang-tsuo ao se candidatar às eleições como vocalista do Shaman King, ativista de direitos humanos e fundador do Time Force.
+[^11]: [ENTREVISTA: Freddy Lim Apresenta a Plataforma do Novo Partido do Poder](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Entrevista do Taipei Times de 2015, fornecendo o contexto de Freddy Lim entrando nas eleições como vocalista do Chthonic, defensor dos direitos humanos e fundador do Novo Partido do Poder (NPP).
 
-[^12]: [Lim deixa o NPP e apoia a reeleição de Tsai](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Reportagem do Taipei Times em 2019, confirmando que Lin Chang-tsuo saiu do Time Force para concorrer como independente e apoiar a reeleição de Tsai Ing-wen.
+[^12]: [Lim Deixará NPP, Apoiará Candidatura de Reeleição de Tsai](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Reportagem do Taipei Times de 2019, confirmando que Freddy Lim deixou o Novo Partido do Poder, concorreu à reeleição como independente e apoiou a reeleição de Tsai Ing-wen.
 
-[^13]: [O Legislador Independente Freddy Lim sobrevive ao voto de recall](https://focustaiwan.tw/politics/202201090008) — Reportagem da Focus Taiwan/CNA em 2022, confirmando que o processo de recall de Lin Chang-tsuo não foi aprovado por não atingir a cota necessária de votos favoráveis.
+[^13]: [Legislador Independente Freddy Lim Sobrevive a Voto de Revogação](https://focustaiwan.tw/politics/202201090008) — Reportagem do Focus Taiwan/CNA de 2022, confirmando que o caso de revogação de Freddy Lim não passou porque os votos a favor não atingiram o limiar.
 
-[^14]: [Freddy Lim vai se aposentar da política para cuidar da família](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Reportagem do Taipei Times em 2023, registrando o anúncio de Lin Chang-tsuo de não concorrer à reeleição, citando o cuidado com familiares doentes raras como motivo.
+[^14]: [Freddy Lim se Aposenta da Política para Cuidar da Família](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Reportagem do Taipei Times de 2023, registrando o anúncio de Freddy Lim de não concorrer à reeleição, com o motivo de cuidar de familiar acometido por doença rara.
 
-[^15]: [O legislador independente Freddy Lim se candidata ao DPP](https://focustaiwan.tw/politics/202311270019) — Reportagem da Focus Taiwan/CNA em 2023, confirmando que Lin Chang-tsuo solicitou adesão ao Partido Democrático Progressista (DPP) e está se preparando para ajudar nas eleições de 2024.
+[^15]: [Legislador Independente Freddy Lim Solicita Ingresso no DPP](https://focustaiwan.tw/politics/202311270019) — Reportagem do Focus Taiwan/CNA de 2023, confirmando que Freddy Lim solicitou ingresso no DPP e se prepara para auxiliar nas eleições de 2024.
 
-[^16]: [Estrela do rock virou político é nomeado representante de Taiwan à Finlândia](https://focustaiwan.tw/politics/202505190024) — Reportagem da Focus Taiwan/CNA em 2025, confirmando que a Casa Branca (Presidência) anunciou Lin Chang-tsuo como o representante de Taiwan na Finlândia.
+[^16]: [Estrela do Rock Transformada em Político Nomeada Representante de Taiwan na Finlândia](https://focustaiwan.tw/politics/202505190024) — Reportagem do Focus Taiwan/CNA de 2025, confirmando que o Gabinete Presidencial anunciou Freddy Lim como representante de Taiwan na Finlândia.
 
-[^17]: [Chthonic dá uma volta no passado de Taiwan](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Entrevista do Taipei Times em 2003, registrando a história inicial da banda Shaman King, Erhu, Lin Tou-ji, o prêmio de música mais premiado e como Lin Chang-tsuo reorientou a consciência cultural do black metal para a história e lendas locais de Taiwan.
+[^17]: [Chthonic Dá Nova Perspectiva ao Passado de Taiwan](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Entrevista do Taipei Times de 2003, registrando a história inicial do Chthonic, o erhu, Lin Tou-sister, o prêmio Golden Melody de melhor banda, e como Freddy Lim transformou a consciência cultural do black metal de volta à história e lendas populares de Taiwan.
 
-[^18]: [ChthoniC promove a candidatura da ONU de Taiwan em entrevista com a NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Reportagem do Taipei Times em 2007, organizando o contexto em que Shaman King explicou aos espectadores americanos durante turnês no Ozzfest sobre os obstáculos internacionais de Taiwan e cantou 'UNlimited Taiwan'.
+[^18]: [Chthonic Promove Candidatura de Taiwan à ONU em Entrevista à NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Reportagem do Taipei Times de 2007, organizando o contexto do Chthonic durante a turnê Ozzfest explicando em inglês ao público americano a obstrução da participação internacional de Taiwan, e a apresentação de 'UNlimited Taiwan'.
 
-[^19]: [A nova música de Shaman King 'Guo Gu Shan' inspirada por familiares de vítimas políticas](https://www.cna.com.tw/news/amov/202303010226.aspx) — Reportagem da Central News em 2023, complementando o tema da memória histórica nas obras recentes do Shaman King com a inspiração para 'Guo Gu Shan', os familiares das vítimas do Terror Branco e as memórias da família Gao Yi.
+[^19]: [Nova Música do Chthonic 'Montanha Protetora da Nação' Tem Inspiração em Familiares de Vítimas Políticas](https://www.cna.com.tw/news/amov/202303010226.aspx) — Reportagem da CNA de 2023 sobre a inspiração criativa de 'Montanha Protetora da Nação', familiares das vítimas do Terror Branco e a memória da família de Kao Yi-sheng, complementando como as obras recentes do Chthonic continuam o tema da memória histórica.
 
 ## Referências
 

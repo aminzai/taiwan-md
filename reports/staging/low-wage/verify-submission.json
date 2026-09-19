@@ -1,0 +1,134 @@
+{
+  "revision": 85,
+  "stage": "verify",
+  "actor": "主 session 重跑機械閘門（HEAD 566a41b641）並彙整；來源查核由 verify 站查核員 a1bc1166cda4c2b36 執行，後續各批微調由 compose-reviewer-5..14 對原文核，verify-reviewer-1/2 復核",
+  "artifacts": [
+    "knowledge/Society/誰算低薪.md",
+    "reports/staging/low-wage/verify/summary.tsv",
+    "reports/research/2026-09/誰算低薪-stage36-audit.md"
+  ],
+  "data": {
+    "sourceChecks": [
+      "58.5 萬／39 萬／126 萬／16.8%（2024 本國籍全時） ｜ 來源：raw/113-新聞稿.txt 摘要二；126 萬與 16.8% 為譚文玲 9/14 口頭試算（CNA），主計總處無書面表，正文與腳註 2/3 已標 ｜ ✅ 58.5／39；⚠️ 126 萬／16.8% 不可獨立重算，已誠實標示",
+      "41,397／27,598／29,500／差 1,902 ｜ 來源：raw/11507-新聞稿.txt L19,33；mol-2025-09-26 ｜ ✅ 整除自洽",
+      "52,528 本國籍全時 vs 49,491 全體 ｜ 來源：raw/11507-新聞稿.txt L17,24 ｜ ✅ 全文母體標籤正確",
+      "70.03%（全體）／70.30%、70.93%（本國籍全時） ｜ 來源：raw/11506-新聞稿.txt L92-101,141-145 ｜ ✅；腳註 4 依 verify 查核員 mustFix 補 2024 年 70.93% 高點（commit a3b06e6dfd）",
+      "十分位 33.0／38.1 萬；Q1 43.6 萬；分行業四分位 ｜ 來源：raw/113-表2、表6 xlsx ｜ ✅ 全部精確相符，tw-dot 六列逐一對上",
+      "移工 3 萬／加班費 5.1 千／其他非經常 1.5 萬 → 37.5 萬／43.6 萬 ｜ 來源：raw/mol-114年移工管理及運用調查統計結果.txt L150-200（本輪補落檔） ｜ ✅ 底層數字逐字對上，算術可重現",
+      "753.1／862.7／42.6／外籍全時 67／自營作業者 126.5 萬 ｜ 來源：raw/11507-新聞稿.txt；raw/11507-人力資源調查.txt L6974（本輪補落檔：自營作業者 1 265 千） ｜ ✅",
+      "最低工資弧線 1968/600、1984-07-01/6,150、15,840（1997-2007）、連十漲 20,008→29,500、預估 30,975 ｜ 來源：raw/mol-歷年基本工資調整.txt；mol-2025-09-26 新聞稿 ｜ ✅；20,008 生效 2015-07-01 但勞動部自己的「連十漲」以 105 年為基準年，正文照勞動部框架並掛 [^27]",
+      "OECD MIN2AVE Median 韓 59.6／日 46.4／墨 74.9／哥 90.5；台灣 71.3%／60.5% ｜ 來源：raw/oecd-min-to-median.csv（AGGREGATION_OPERATION=Median） ｜ ✅",
+      "OECD 低薪發生率 15 國 tw-bars；OECD 定義英文逐字引語 ｜ 來源：raw/oecd-low-pay-incidence-total.csv；raw/oecd-incidence-of-low-and-high-pay-page.md ｜ ✅ 15 國全部吻合；引語逐字相符、刪節號正確",
+      "分行業非經常性薪資比重 44/39/13/13/12/11% ｜ 來源：raw/11507-新聞稿.txt 表五（全體受僱員工口徑） ｜ ✅ 可重現；依 mustFix 正文與圖說補標「全體受僱員工口徑」（commit a3b06e6dfd）",
+      "許宇甄段（記者轉述＋「按照定義，你不算低薪」）；腳註 6 描述 ｜ 來源：udn.com/news/story/6656/9755906（compose-reviewer-6/7 以 curl 開原頁核） ｜ ✅ 引號只落在報導加引號的短語；「僅一句」誤述已改（commit 932c0b5f93）",
+      "直接引語（譚文玲／民眾黨／聯合報主筆室／楊書瑋／王燕杰／賴清德／卓榮泰） ｜ 來源：Stage 3 verifier-A/B 逐字表（reports/research/2026-09/誰算低薪-stage36-audit.md）；本輪查核員確認腳註分工（統計→官方新聞稿、發言→媒體）內部一致 ｜ ✅",
+      "release 站退回後新增句「這份全年統計以投保天數當權數…」 ｜ 來源：raw/113-新聞稿.txt L380「以投保天數為權數，正確衡量其薪資所得之全年代表性」 ｜ ✅ compose-reviewer-10 對回原文",
+      "第七節許宇甄段引號與腳註 6（第六、七、十一輪三次修正） ｜ 來源：udn.com/news/story/6656/9755906 ｜ ✅ compose-reviewer-6/7/12/13 以 curl 開原頁核",
+      "倒數第二段三句（部分工時時薪／產業移工月薪跟 9/24 走；自營作業者、雇主、無酬家屬、家庭看護工在最低工資法外） ｜ 來源：最低工資法第 3／4 條（law.moj.gov.tw N0030028）＋raw/mol-114年移工調查（隨最低工資調升）＋第四節家庭看護工不適用勞基法 ｜ ✅ compose-reviewer-14 對第四節與法條核"
+    ],
+    "mechanicalChecks": [
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --profile=rewrite-stage-4",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/stage4.txt :: Summary: hard=0  warn=0  info=5  passed=True (fail_on=hard)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --profile=rewrite-stage-3-5",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/stage35.txt :: Summary: hard=0  warn=0  info=2  passed=True (fail_on=hard)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=prose-health",
+        "exitCode": 1,
+        "output": "reports/staging/low-wage/verify/prose-health.txt :: Summary: hard=0  warn=3  info=1  passed=False (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=viz-health",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/viz-health.txt :: Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=image-health",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/image-health.txt :: Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=footnote-url",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/footnote-url.txt :: Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=subcategory-valid",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/subcategory.txt :: Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=wikilink-target",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/wikilink.txt :: Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=link-target",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/link-target.txt :: Summary: hard=0  warn=0  info=0  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/article-health.py knowledge/Society/誰算低薪.md --check=cross-reference",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/cross-ref.txt :: Summary: hard=0  warn=0  info=1  passed=True (fail_on=warn)"
+      },
+      {
+        "command": "python3 scripts/tools/prose-flow.py knowledge/Society/誰算低薪.md",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/prose-flow.txt ::    Summary: 0/3 訊號亮起"
+      },
+      {
+        "command": "python3 scripts/tools/research-report-health.py reports/research/2026-09/誰算低薪.md --tier=depth",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/research-depth.txt ::    Summary: hard_fail=0 warn=0  → PASS"
+      },
+      {
+        "command": "python3 scripts/tools/editorial-room-health.py reports/editorial-room/誰算低薪-projection-review.md reports/editorial-room/誰算低薪-prose-structure-review.md",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/room-health.txt :: ✅ reports/editorial-room/誰算低薪-projection-review.md"
+      },
+      {
+        "command": "node scripts/tools/image-ingest.mjs check public/article-images/society/dgbas-guangbo-building-2023.webp --role hero",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/image-ingest-hero.txt :: 檢驗：0 hard / 0 warn"
+      },
+      {
+        "command": "node scripts/tools/image-ingest.mjs check public/article-images/society/mol-main-entrance-2023.webp public/article-images/society/mol-minimum-wage-ten-year-chart-2025.webp",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/image-ingest-inline.txt :: 檢驗：0 hard / 0 warn"
+      },
+      {
+        "command": "fact-atom-diff.py <da18e9bb9a~1 article> <closing.md>",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/fact-atom-diff.txt :: fact-atom-diff: PASS"
+      },
+      {
+        "command": "python3 (curl -L -A Mozilla --max-time 20 per footnote URL) → verify/curl-footnotes.txt",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/curl-footnotes.txt :: TOTAL 38 ok=37；[^16] OECD 指標頁 403（bot block，頁面文字已存 raw/oecd-incidence-of-low-and-high-pay-page.md）"
+      },
+      {
+        "command": "bash scripts/tools/check-aspect.sh <3 images>",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/check-aspect.txt :: 3/3 ✅（1.626／1.333／1.444，range 0.75-2.5）"
+      },
+      {
+        "command": "git diff da18e9bb9a HEAD -- knowledge/Society/誰算低薪.md",
+        "exitCode": 0,
+        "output": "reports/staging/low-wage/verify/post-closing-cumulative.diff :: 定稿手之後全部微調的累積 diff，各批分別由 compose-reviewer-3..9 以 diff 評閱"
+      }
+    ],
+    "unresolved": [
+      "126 萬／16.8% 為主計總處副處長口頭試算，無書面統計表可獨立重算（正文與腳註已標示；2025 年中位數統計 11 月出爐後可 EVOLVE）",
+      "[^16] OECD 指標頁對 curl 回 403（bot block），頁面文字已存 raw，瀏覽器可開",
+      "prose-health 3 warn 全在逐字引語內的全形分號（中央社、民眾黨聲明、聯合報主筆室原文），不得改",
+      "9/24 審議會結果在 ship 之後，需 EVOLVE-delta",
+      "全年總薪資統計以投保天數為權數，非整年在職者對 126 萬的貢獻比例主計總處未公布（正文與 where_it_hedges 已揭露）"
+    ]
+  }
+}

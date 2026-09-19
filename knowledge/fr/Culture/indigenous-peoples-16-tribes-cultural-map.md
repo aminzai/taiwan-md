@@ -116,7 +116,7 @@ Nous avons tendance à écrire la culture sous forme de listes stables : 16 peup
 - [Wikipedia：達悟族](https://zh.wikipedia.org/wiki/達悟族) — Culture de la saison des poissons volants et société de Lanyu
 - [Wikipedia：撒古流·巴瓦瓦隆](https://zh.wikipedia.org/wiki/撒古流·巴瓦瓦隆) — Biographie et entretiens de l'artiste Paiwan
 - [Wikipedia：卡那卡那富族](https://zh.wikipedia.org/wiki/卡那卡那富族) — Processus de renomination et situation démographique
-- 黃美英（2018）《台灣原住民族發展史》，五南出版
+- Huang Mei-ying (2018), _Taiwan yuanzhumin zu fazhan shi_ 《台灣原住民族發展史》 [Histoire du développement des peuples autochtones de Taïwan], Wu-Nan
 
 ---
 

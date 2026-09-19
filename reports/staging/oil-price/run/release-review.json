@@ -1,0 +1,34 @@
+{
+  "revision": 60,
+  "submissionId": "ed4308e3-6468-4180-a063-92c29efe86a3",
+  "actor": "guide_release_editor (Opus sub-agent, fresh context)",
+  "verdict": "revise",
+  "rationale": "值得推薦的稿，但有兩處可驗證的數字／時間精度錯誤未列進 remainingLimits，各一句話就能修，修完即 ready-for-publication，不需重開 compose／cold-read 迴圈。(1) 第七節第 271 行「補貼跟增資的 4,217.69 億仍然是從國庫出去的錢」：4,217.69 億是經濟部追加總數，文章自己在第六節第 221 行拆成「1,809.35 補貼＋2,338.34 增資＋70 億馬太鞍溪防汛」，補貼跟增資只有 4,147.69 億；同一篇上一節剛寫「兩個數字可以同時是真的，只是不能相減」，下一節把 70 億防汛併進補貼跟增資，讀者用文章自己的數字就能抓到。改法：「補貼跟增資那 4,147.69 億仍然是從國庫出去的錢」或「經濟部這 4,217.69 億，扣掉 70 億防汛之後，補貼跟增資的 4,147.69 億仍然是從國庫出去的錢」。(2) 第一節第 34 行「三個多禮拜過去，它已經站上 32.2 元」：場景是 3 月 22 日晚上八點半，前一句寫「大家在搶的是隔天零時的那一刀」，此刻牌價 30.4，32.2 要到 3 月 23 日零時生效，「已經站上」跟「搶隔天」在同一段矛盾。改法：「三個多禮拜過去，隔天零時它就要站上 32.2 元」。其餘判定：讀者會記得的是第二節「那 11.2 元被切成三份⋯剩下的 0.7 元印上招牌」與「拿 12.29% 去乘 32 元得不到 11.2」（預判讀者會犯的算錯），以及第三節「牌價停著的那二十週，中油帳上的數字每週都在動⋯7 月 19 日回落到約 155.6 億」那條會回落的吸收線；最弱是第七節後半兩段清單式收納（受益者清單＋三件沒回答的事）與第五節三張 tw-figure 連發。remainingLimits 六條逐一對正文屬實、沒有一條該擋 ship（standard-lite 有工件補強；sources/ 缺檔是歸檔債不是事實債；貨物稅 3.7 對 3.415 作者不推測營業稅是對的，柴油 1.995×1.05 對得上 2.1 但汽油 3.415×1.05＝3.59 對不上 3.7）。humanReview「無」如實且揭露到位（frontmatter lastHumanReview: false；「actor 標籤是可稽核自述不是獨立性證明」）；在 Semiont 自主 ship、觀察者事後閱讀、更正走 EVOLVE 的慣例下，兩處修完我給 ready-for-publication。立場：政策機制題，支持方／批評方／中油自己全是逐字引語加歸屬，策展人筆記只描述在野提問的性質（法律要件）不判要件成不成立，「IMF 說累退⋯公開的討論裡只有比喻，沒有分項的銷量數字」反而是對批評方的節制；沒有一句越 MANIFESTO §13。親跑 article-health hard=0 warn=0 info=10 與 verify 站一致；破折號 0；八個 H2 全過 §四還原測試；title 「七毛」對「兩百億」自帶尺，過 §三。",
+  "contextDisclosure": "fresh-context-release-inputs（成品＋各站最後評閱＋判準）",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "第 271 行「補貼跟增資的 4,217.69 億仍然是從國庫出去的錢」對第 221 行「1,809.35⋯2,338.34⋯70 億給馬太鞍溪防汛工程」；第 34 行「它已經站上 32.2 元」對同段前句「隔天零時的那一刀」；第二節「那 11.2 元被切成三份」「拿 12.29% 去乘 32 元得不到 11.2」；第三節「7 月 19 日回落到約 155.6 億」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/release-submission.json",
+      "location": "data.remainingLimits 六條；data.humanReview「人類實際審閱狀態：無」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/verify-review.md",
+      "location": "(b) 承重原子親核六條；(d) unresolved 誠實度；sources/ 缺 [^26][^28]"
+    },
+    {
+      "path": "reports/staging/oil-price/run/cold-read-submission-v4.json",
+      "location": "confusions 兩條極輕微；forcedConclusions 第七節結構性傾向；立場判讀「可接受為作者聲明的不裁判」"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v8.json",
+      "location": "H2-4 還原測試通過、八個 H2 連讀敘事弧線"
+    },
+    {
+      "path": "reports/staging/oil-price/run/release-review.md",
+      "location": "全文"
+    }
+  ]
+}

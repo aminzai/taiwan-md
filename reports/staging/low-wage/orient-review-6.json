@@ -1,0 +1,18 @@
+{
+  "revision": 14,
+  "submissionId": "8eee367d-99fa-4ac4-89d8-c133d2d215fe",
+  "actor": "orient-reviewer-6 (Sonnet agent a36a6bb226d57db2c, fresh context, read brief + frozen stage0 snapshot + submission only)",
+  "verdict": "revise",
+  "rationale": "(a)(c)(d)(e) 通過：subjectExplanation 是說明非宣判；數字逐一對到快照探索紀錄第 11、13、19、20、27 條；搜不到未當不存在；同意第三型與三道 self-check。未過 (b)：角度二「126 萬是地板不是天花板」的推翻條件打在歸因（主計總處 vs OECD 定義）而非量化主張本身——即使 OECD 本來只量全時，被排除的部分工時與移工仍可能更低，「地板」照樣成立，等於沒被自己的推翻條件蓋住。要求改成真正威脅「地板」的反例（例如：若部分工時／移工經查證有相當比例年薪其實高於 39 萬，「地板」不成立，只能說「規模不明的另一群人」）。",
+  "evidence": [
+    {
+      "path": "reports/staging/low-wage/orient-submission.json",
+      "location": "data.candidateAngles[1] 及其『可被推翻之處』"
+    },
+    {
+      "path": "reports/staging/low-wage/stage0-viewpoint-frozen.md",
+      "location": "§探索搜尋紀錄 第 13、20、27 條"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

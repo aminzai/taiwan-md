@@ -42,9 +42,9 @@ sporeLinks:
     "{'id': 104, 'platform': 'x', 'date': '2026-05-28', 'url': 'https://x.com/taiwandotmd/status/2060010924015321462'}",
   ]
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f61'
-sourceContentHash: 'sha256:bad67aad8b965996'
-sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-07-26T10:35:15+08:00'
 ---
 
@@ -305,7 +305,7 @@ Por lo tanto, el marco de "se fue a desarrollar a China" es impreciso. Trabajó 
 
 La noche del sábado 25 de abril de 2026, Estadio Pequeno de Taipei de Taipéi.
 
-Este era el primer concierto en el Estadio Pequeno de Taipei de Where Chou después de 27 años de debut[^5]. El concierto se llamaba "Quiero amar mucho a Where Chou", el diseño del escenario fue encargado al diseñador habitual de los Premios Golden Melody y Golden Horse, Li Shiqi, adoptando el concepto de caleidoscopio, toda la noche de 3 horas, 25 canciones[^34]. Después de la venta el 22 de enero al mediodía, las entradas se agotaron rápidamente, se añadió una función.
+Este era el primer concierto en el Estadio Pequeno de Taipei de Where Chou después de 27 años de debut[^5]. El concierto se llamaba "Quiero amar mucho a Where Chou", el diseño del escenario fue encargado al diseñador habitual de los Premios Golden Melody y Golden Horse, Li Shiqi, adoptando el concepto de caleidoscopio, toda la noche de 3 horas, 25 canciones[^34]. Las entradas salieron a la venta el 22 de enero al mediodía con entrada nominativa; fue una sola función[^41].
 
 ![Imagen del escenario del concierto "Quiero amar mucho a Where Chou" del 25 de abril de 2026 en el Estadio Pequeno de Taipei de Taipéi, primer ataque al estadio después de 27 años de debut](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _Concierto "Quiero amar mucho a Where Chou" en el Estadio Pequeno de Taipei de Taipéi el 25-04-2026. Comentario editorial de uso justo. [Fuente vía TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -450,3 +450,5 @@ Este artículo utiliza capturas de pantalla de 3 obras de imagen públicas, toda
 [^39]: [YouTube: MV oficial de Where Chou "Reemplazo"](https://www.youtube.com/watch?v=WUKnbOlicps) — MV oficial de la versión de Where Chou del canal oficial de "Reemplazo", tema de la serie de televisión "La chica de mil caras" del canal Chinese TV de Hong Kong en 2000; letra y música según sitios de letras de internet son de Ji Zhongping, pero los datos oficiales de canciones de Fuhao Music no verifican directamente, listado como single-source.
 
 [^40]: [Wikipedia en chino: Gente que trabaja](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Artículo de Wikipedia de la serie de televisión "Gente que trabaja", verifica el debut de HBO Asia el 10-05-2020, Where Chou interpreta a Peipei (trabajadora temporal víctima de violencia doméstica, cantaba en la obra).
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

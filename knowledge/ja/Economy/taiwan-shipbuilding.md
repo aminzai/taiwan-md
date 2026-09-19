@@ -30,7 +30,7 @@ translatedAt: '2026-09-17T06:43:35+08:00'
 
 ![2017年台船基隆船所](https://commons.wikimedia.org/wiki/Special:FilePath/2017%20Keelung%20Yard%2C%20CSBC%20Corporation%2C%20Taiwan.jpg?width=1280)
 
-_画像：2017年台船基隆船所。作者 Taiwankengo, CC BY-SA 4.0、[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:2017_Keelung_Yard,_CSBC_Corporation,_Taiwan.jpg)より。_[^10]
+_画像：2017年台船基隆船所。作者 Taiwankengo, CC BY-SA 4.0、Wikimedia Commons ファイルページより。_[^10]
 
 ## なぜ一つの船所は浅瀬から始まったのか
 
@@ -49,7 +49,7 @@ _画像：2017年台船基隆船所。作者 Taiwankengo, CC BY-SA 4.0、[Wikime
 
 ![中鋼自由輪引渡し命名投錨式](https://commons.wikimedia.org/wiki/Special:FilePath/05.21%20%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E4%B8%AD%E9%8B%BC%E8%87%AA%E7%94%B1%E8%BC%AA%E4%BA%A4%E8%88%B9%E5%91%BD%E5%90%8D%E6%93%B2%E7%93%B6%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D_%2840930552483%29.jpg?width=1280)
 
-_画像：中鋼自由輪引渡し命名投錨式。作者 Orizan, CC BY 2.0、[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:05.21_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E4%B8%AD%E9%8B%BC%E8%87%AA%E7%94%B1%E8%BC%AA%E4%BA%A4%E8%88%B9%E5%91%BD%E5%90%8D%E6%93%B2%E7%93%B6%E4%B8%8B%E6%B0%B4%E5%85%B8%E7%A6%AE%E3%80%8D*%2840930552483%29.jpg)より。*[^14]
+_画像：中鋼自由輪引渡し命名投錨式。作者 Orizan, CC BY 2.0、Wikimedia Commons ファイルページより。*[^14]
 
 台湾の造船会社の歴史はさらに古いです。国家文化記憶庫によれば、臺灣造船公司（台湾造船会社）は1948年に再編設立され、その前身は1946年に臺灣船舶渠株式會社と高雄株式會社臺灣鐵工所が合併してできた臺灣機械造船有限公司です。会社設立後、日本からの賠償機器を借り受け設備を拡張し、当時は2,000トン以下の船舶を建造することが可能でした。1978年には中国造船会社に再編され、2007年に台湾国際造船会社へと名称を変更しました[^6]。
 
@@ -67,7 +67,7 @@ _画像：中鋼自由輪引渡し命名投錨式。作者 Orizan, CC BY 2.0、[
 
 ![台船海昌ビル](https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8F%B0%E8%88%B9%E6%B5%B7%E6%98%8C%E5%A4%A7%E6%A8%93.jpg?width=1280)
 
-_画像：台船海昌ビル。作者 葉又嘉, 政府ウェブサイト公開情報提供に基づき使用, [Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E8%88%B9%E6%B5%B7%E6%98%8C%E5%A4%A7%E6%A8%93.jpg)より。_[^11]
+_画像：台船海昌ビル。作者 葉又嘉, 政府ウェブサイト公開情報提供に基づき使用, Wikimedia Commons ファイルページより。_[^11]
 
 ## 同じ船所が担った防衛自立の役割
 
@@ -75,7 +75,7 @@ _画像：台船海昌ビル。作者 葉又嘉, 政府ウェブサイト公開�
 
 ![潜水艦セクション組立工場](https://commons.wikimedia.org/wiki/Special:FilePath/%E6%BD%9B%E8%89%A6%E8%88%B9%E6%AE%B5%E7%B5%84%E5%90%88%E5%B7%A5%E5%BB%A0.jpg?width=1280)
 
-_画像：潜水艦セクション組立工場。作者 Kenchen945, CC BY-SA 4.0、[Wikimedia Commons ファイルページ](https://commons.wikimedia.org/wiki/File:%E6%BD%9B%E8%89%A6%E8%88%B9%E6%AE%B5%E7%B5%84%E5%90%88%E5%B7%A5%E5%BB%A0.jpg)より。_[^12]
+_画像：潜水艦セクション組立工場。作者 Kenchen945, CC BY-SA 4.0、Wikimedia Commons ファイルページより。_[^12]
 
 ここではスケール感を保つ必要があります。政府の文章が記録しているのは、開始、準備作業、そして防衛自立という政治的目標であり、すべての技術成果が完了したことを意味するわけではありません。Taiwan.mdにとって、写真の価値は工場を「成功の証明」として扱うことではなく、防衛工業がいかに工場、セクション、設計、サプライチェーン、長期的な組織能力に依存しているかを示す点にあります。これは1970年代の乾ドック建設の問題と似ていますが、違いは今日のプロジェクトがより高い機敏性と国家安全保障への期待を同時に負っている点です。
 

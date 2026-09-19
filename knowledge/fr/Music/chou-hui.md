@@ -33,9 +33,9 @@ lastVerified: 2026-05-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'c40c53f6'
-sourceContentHash: 'sha256:bad67aad8b965996'
-sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+sourceCommitSha: 'a2811a4f0'
+sourceContentHash: 'sha256:76ee7588d6cf7537'
+sourceBodyHash: 'sha256:14a031263a904f69'
 translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/music/zhou-hui-yueding-mv-thumb-1999.webp'
 imageCredit: '福茂唱片 / 周蕙〈約定〉1999 官方 MV 截圖'
@@ -300,7 +300,7 @@ Le cadrage « elle est partie développer sa carrière en Chine » est donc impr
 
 Samedi soir 25 avril 2026, Taipei Arena.
 
-C’est le premier concert de Chou Hui au Taipei Arena après 27 ans de carrière[^5]. Le concert s’intitule « Je veux vraiment bien aimer Chou Hui » ; la scénographie est confiée à Li Shih-chi, designer régulier des Golden Melody Awards et des Golden Horse Awards, et adopte un concept de kaléidoscope. Le concert dure trois heures et compte 25 chansons[^34]. Après l’ouverture des ventes le 22 janvier à midi, les billets partent rapidement et une date supplémentaire est ajoutée.
+C’est le premier concert de Chou Hui au Taipei Arena après 27 ans de carrière[^5]. Le concert s’intitule « Je veux vraiment bien aimer Chou Hui » ; la scénographie est confiée à Li Shih-chi, designer régulier des Golden Melody Awards et des Golden Horse Awards, et adopte un concept de kaléidoscope. Le concert dure trois heures et compte 25 chansons[^34]. Les billets sont mis en vente le 22 janvier à midi, avec entrée nominative ; il n’y a qu’une seule date[^41].
 
 ![Le 25 avril 2026, Chou Hui sur scène au Taipei Arena lors du concert « Je veux vraiment bien aimer Chou Hui », sa première entrée dans cette salle après 27 ans de carrière](/article-images/music/zhou-hui-xiaojudan-2026.webp)
 _2026-04-25, concert « Je veux vraiment bien aimer Chou Hui » au Taipei Arena. Fair use editorial commentary. [Source via TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
@@ -445,3 +445,5 @@ Cet article utilise des captures de 3 œuvres visuelles publiques, toutes mises 
 [^39]: [YouTube : clip officiel de « Doublure » par Chou Hui](https://www.youtube.com/watch?v=WUKnbOlicps) — Clip officiel de « Doublure » sur la chaîne officielle Where Chou, thème principal de la série « The Many Faces of a Woman » de Phoenix Chinese Channel à Hong Kong en 2000 ; les paroles et la musique sont attribuées à Ji Zhong-ping par des sites de paroles, mais les données officielles de Forward Music ne les vérifient pas directement, d’où la mention de source unique.
 
 [^40]: [Wikipédia chinois : Workers](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Article Wikipédia de la série télévisée « Workers », vérifiant la première diffusion sur HBO Asia le 2020-05-10 et le rôle de Chou Hui dans le personnage de Pei-pei, travailleuse temporaire victime de violences domestiques qui chante sur les chantiers.
+
+[^41]: [理財周刊：27 年一首約定 終於唱進小巨蛋《2026 好想好好愛周蕙 台北小巨蛋演唱會》](https://www.moneyweekly.com.tw/ArticleData/Info/Article/208052) — 記者會報導：4 月 25 日舉辦、門票 1 月 22 日中午 12 點開賣；中文維基百科〈周蕙〉演唱會表列此場為單一場次。2026-09-18 依讀者回報（issue #1746）更正，原「售罄加開」查無來源。

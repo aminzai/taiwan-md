@@ -1,0 +1,24 @@
+{
+  "revision": 83,
+  "stage": "cold-read",
+  "actor": "cold-reader-12 (Sonnet agent adaddc81e42f6ed46, fresh context, read knowledge/Society/誰算低薪.md only)",
+  "artifacts": ["knowledge/Society/誰算低薪.md"],
+  "data": {
+    "contextDisclosure": "fresh-context-draft-only",
+    "retelling": "同一場記者會、同一群本國籍全時員工、同一把 OECD 尺，算月薪零人、算年薪 126 萬人，差別在年終等非經常性薪資有沒有算進去。最低工資法只保障月薪，分母外還有三百多萬人，帶到 9 月 24 日審議會。",
+    "changedUnderstanding": "原以為硬拗粉飾；讀完知道兩個都是真數字，差別是年終法律沒保障，不是造假或選擇性隱瞞。",
+    "fourChecks": {
+      "whyZeroAndMillion": "能",
+      "whoIsOutside": "能：三百多萬人不在 753.1 萬分母裡；部分工時時薪、產業移工月薪跟 9/24 走；自營作業者、雇主、無酬家屬、家庭看護工才在最低工資法外",
+      "whatLawProtects": "能",
+      "whatHappens924": "能"
+    },
+    "sideTaking": "整體平衡；「先講月薪那一欄…主計總處 9 月 16 日之後沒有再回應」稍把主計總處放在守勢。",
+    "titleDescriptionHonest": "有兌現，沒有誇大。",
+    "confusions": ["70.03% 與 70.30%", "兩個 126 萬", "兩個 43.6 萬"],
+    "repetitions": ["「低於平均並非等於低薪」兩次", "核心結論三次"],
+    "forcedConclusions": ["兩國例子", "「沒有一方把話講到那麼細」證據不足"],
+    "readerVerdict": "ship",
+    "readerRationale": "資訊量大但四個檢查都答得出來，法律與統計的核心分野清楚，值得刊出。"
+  }
+}

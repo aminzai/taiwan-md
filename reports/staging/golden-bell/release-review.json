@@ -1,0 +1,29 @@
+{
+  "revision": 96,
+  "submissionId": "f46810da-9c89-4fee-8e6f-4097d0688338",
+  "actor": "release 站主編（Opus，Agent ac2a7d5b0032d0928，具名 release-chief；contextDisclosure: fresh-context-release-only）",
+  "verdict": "revise",
+  "rationale": "論點兌現、§3 逐屆對回維基與 bamid 全數成立。擋 ship 的是一條「第一次」：L73 與表格 L79 說 2010《情義月光》得獎單位「第一次把製作公司永續傳播跟頻道並排寫」——bamid 99 年得獎名單只寫「情義月光（永續傳播有限公司）」無頻道，「並排」是維基第 45 屆頁的欄位格式（第 44 屆頁同樣有兩欄），屬來源格式推論出的里程碑（MANIFESTO §10 第六型變種）。真正事實（得獎單位第一次寫進製作公司而非頻道）更支持論點；表格「製作公司掛名 2023–2025」列也須理順（2010 永續傳播、2015 聯意製作已是先例）。非擋 ship：description 長度、L121 門四次、L101「並非本屆新增」對假想質疑辯護。無人類審閱。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L73 2010「並排寫」——bamid 99 年名單無頻道，事實錯"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L79 表格「製作公司第一次跟頻道並排」——同一錯誤"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L83 表格 2023–2025 階段缺 2010／2015 先例"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L71 老三台 1981–1997 逐屆成立；L134 客家 2011 成立；L44 五次主人成立；L157 廣播從缺成立"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L121 門四次、L101 並非本屆新增——非擋 ship"
+    }
+  ]
+}

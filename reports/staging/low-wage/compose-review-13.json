@@ -1,0 +1,14 @@
+{
+  "revision": 73,
+  "submissionId": "6762e7fd-a363-42ca-9fbc-0775d6a7157c",
+  "actor": "compose-reviewer-13 (Sonnet agent addc12a5a034b9f66, fresh context, read diff + §7)",
+  "verdict": "accept",
+  "rationale": "許宇甄與民眾黨原話都指向「講法」而非發言順序；改後用詞更貼合原話，未替任一方下判斷。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L251；L227；L229"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

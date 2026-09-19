@@ -1,15 +1,15 @@
 ---
-title: 'Coreanos em Taiwan: da escola coreana em Kaohsiung às redes de vida no ecrã do telemóvel'
-description: 'Coreanos em Taiwan não são apenas uma miríada de influenciadores visíveis, mas uma comunidade tecida pelo quotidiano de antigos grupos sociais em Kaohsiung, educação bilingue, intercâmbio juvenil, estudantes internacionais e famílias.'
+title: 'Coreanos em Taiwan: da Escola Coreana de Kaohsiung às telas de celular'
+description: 'Os coreanos em Taiwan não são apenas um grupo de influenciadores visíveis, mas um cotidiano tecido pela comunidade estabelecida de Kaohsiung, educação bilíngue, intercâmbio juvenil, estudantes internacionais e famílias.'
 date: 2026-08-21
 category: 'Society'
 tags:
   [
     'Coreanos em Taiwan',
-    'migração coreana',
-    'cooperação entre Taiwan e Coreia',
-    'escola coreana em Kaohsiung',
-    'vida multicultural',
+    'imigração coreana',
+    'intercâmbio Taiwan-Coreia',
+    'Escola Coreana de Kaohsiung',
+    'vida transcultural',
   ]
 subcategory: '教育'
 author: 'Taiwan.md Contributors'
@@ -23,153 +23,153 @@ translatedFrom: 'Society/韓國人在台灣.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:89564eca20ccb1a4'
 sourceBodyHash: 'sha256:aa22cde38abe8c50'
-translatedAt: '2026-09-13T00:44:04+08:00'
+translatedAt: '2026-09-11T05:40:15+08:00'
 ---
 
-![Vista noturna de Kaohsiung. A cidade já foi um palco importante para a escola coreana e as associações de coreanos locais.](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaohsiung_Skyline_2020.jpg)
+![Paisagem noturna de Kaohsiung. Esta cidade já foi um importante cenário de vida para a Escola Coreana de Kaohsiung e a associação local de coreanos.](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaohsiung_Skyline_2020.jpg)
 
-_Imagem: Mao Mao Da Xiaojiu, "Kaohsiung Skyline 2020", Wikimedia Commons, CC BY-SA 2.0. O ficheiro original e a página de licença estão disponíveis em[^11]._
+_Imagem: Mao Mao Da Shao Ye, 〈Kaohsiung Skyline 2020〉, Wikimedia Commons, CC BY-SA 2.0. Arquivo original e página de licença em [^11]._
 
-> **Visão geral em 30 segundos:** Coreanos em Taiwan não surgiram com as redes sociais. Escolas coreanas em Kaohsiung, associações locais de coreanos, programas de trabalho-turismo, estudantes internacionais e famílias transnacionais já haviam integrado a vida coreana nas cidades de Taiwan. Nos últimos anos, influenciadores tornaram essa comunidade mais visível, mas também nos lembram: ser visível não significa representar a todos.
+> **Visão geral em 30 segundos:** Os coreanos em Taiwan não surgiram repentinamente com o aparecimento de vídeos curtos. A Escola Coreana de Kaohsiung, a associação local de coreanos, o programa de férias-trabalho, estudantes internacionais e famílias transnacionais já haviam inserido a vida coreana nas cidades taiwanesas. Nos últimos anos, influenciadores tornaram esta comunidade mais visível, mas também nos lembram: os que são vistos nunca equivalem a todos.
 
-Em 2013, a aula complementar de uma escola coreana em Kaohsiung contava com apenas 20 alunos. As crianças iam para a escola primária taiuanesa de manhã e, às 13h, retornavam para aulas de língua coreana, cultura coreana e música de quarteto. [^5] Em 2024, o número de estudantes coreanos que vieram estudar a Taiwan chegou a 2.418. [^2] O mesmo "coreanos em Taiwan" inclui uma criança numa pequena escola, um jovem em intercâmbio, uma família que se estabeleceu no sul após se casar com alguém de Taiwan, e também criadores de conteúdo que explicam a Coreia para taiuanos no celular todos os dias.
+Em 2013, a turma da tarde de uma escola coreana em Kaohsiung tinha apenas 20 alunos. As crianças estudavam pela manhã em escolas primárias taiwanesas e, à uma da tarde, voltavam para aulas de língua coreana, cultura coreana e samul nori (música de percussão tradicional de quatro instrumentos). [^5] Em 2024, o número de estudantes coreanos em Taiwan chegou a 2.418. [^2] Um mesmo "coreanos em Taiwan" inclui simultaneamente as crianças de uma pequena escola, jovens em intercâmbio, famílias que se estabeleceram no sul após casarem com taiwaneses, e criadores que explicam a Coreia aos taiwaneses todos os dias nas telas de celular.
 
-Se você só observar coreanos em Taiwan por meio do YouTube, provavelmente chegará a uma resposta clara e rápida: eles são os criadores de conteúdo que falam sobre ácido gástrico, cogumel shiitake e o canal de vendas de bebidas de venda ambulante coreanas — pessoas que transformam diferenças cotidianas em vídeos. Mas essa resposta falta o tempo. Coreanos em Taiwan não surgiram com as redes sociais. A escola coreana em Kaohsiung já tinha 51 anos de existência em 2013, e as associações locais de coreanos também desempenhavam papéis de mediação em divulgação de direitos de imigrantes e atividades culturais. [^3] [^5]
+Se olharmos os coreanos em Taiwan apenas pelo YouTube, a resposta mais fácil, brilhante e rápida é: eles são o Weisuaren, o Jinzhenku, a Meiling Hanmai, pessoas que transformam diferenças cotidianas em vídeos. Mas essa resposta omite um pedaço de tempo. Os coreanos em Taiwan não surgiram de repente com os vídeos curtos. A Escola Coreana de Kaohsiung já funcionava havia 51 anos segundo reportagem de 2013, e a associação local de coreanos também desempenhava papel de mediação na promoção de direitos e atividades culturais pelo Serviço de Imigração. [^3] [^5]
 
 > **📝 Nota do curador**
-> O que os taiuanos mais facilmente veem de coreanos são influenciadores nas telas, mas os primeiros rastros diários deixados por coreanos em Taiwan não estão nos algoritmos, mas numa escola onde crianças entram na escola taiuanesa de manhã e voltam para aulas de língua coreana à tarde.
+> Os taiwaneses veem mais facilmente os coreanos das telas — os influenciadores —, mas o cotidiano mais antigo dos coreanos em Taiwan não está no algoritmo, e sim numa escola que faz as crianças frequentarem a escola primária taiwanesa pela manhã e voltarem para aulas de coreano à tarde.
 
-## Quatro portas de entrada, quatro formas de viver em Taiwan
+## Quatro portas de entrada, quatro vidas em Taiwan
 
-"Coreanos em Taiwan" pode ser entendido por meio de pelo menos quatro portas de entrada. Elas não são identidades mutuamente exclusivas — algumas pessoas podem passar de estudantes a trabalhadores, e algumas famílias enfrentam simultaneamente questões escolares, de residência e de criação de conteúdo. A tabela abaixo apenas organiza as trajetórias de vida que podem ser diretamente verificadas, sem transformar casos individuais em representações de todos os coreanos.
+"Coreanos em Taiwan" pode ser compreendido por pelo menos quatro portas de entrada. Não são identidades mutuamente exclusivas; alguns passam de estudantes a trabalhadores, algumas famílias lidam simultaneamente com escola, residência e criação de conteúdo. A tabela abaixo organiza apenas os percursos de vida diretamente apoiados pelas fontes, sem generalizar casos individuais como representativos de todos os coreanos.
 
-| Porta de entrada              | Cenário concreto observado nas fontes                                                                                                                                                          | Principais desafios                                                                  |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Família e educação maternal   | A turma da tarde da Escola Internacional Coreana de Kaohsiung em 2013 tinha 20 alunos, que iam para a escola primária taiuanesa de manhã e voltavam para aulas de língua coreana à tarde. [^5] | Como manter a língua coreana, e como conviver com colegas taiuanos                   |
-| Trabalho-turismo juvenil      | O programa de trabalho-turismo entre Taiwan e Coreia entrou em vigor em 2011, com idade dos solicitantes coreanos entre 18 e 34 anos, e o trabalho como atividade secundária ao turismo. [^1]  | Como lidar com trabalho, aluguel, transporte e língua em estadias curtas             |
-| Mobilidade no ensino superior | Em 2024, 2.418 estudantes coreanos vieram estudar a Taiwan, e 2.150 estudantes taiuanos foram para a Coreia. [^2]                                                                              | Graus acadêmicos, pesquisa, aprendizado de chinês e próximos passos após a formatura |
-| Casamento e criação digital   | O "Taiwan Business Weekly" registrou a experiência de criadores coreanos residentes em Taiwan em relação a estudos, casamento, filhos, transporte e trabalho criativo. [^4]                    | Como explicar a si mesmo entre relações familiares e identidade pública              |
+| Porta de entrada em Taiwan           | Cenários concretos vistos nas fontes                                                                                                                                   | Questões principais                                                              |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Família e educação na língua materna | Turma da tarde da Escola Internacional Coreana de Kaohsiung em 2013 tinha 20 alunos; de manhã na escola primária taiwanesa, à tarde de volta às aulas de coreano. [^5] | Como as crianças mantêm o coreano e como convivem com colegas taiwaneses         |
+| Férias-trabalho juvenis              | Programa Taiwan-Coreia de férias-trabalho em vigor desde 2011; candidatos coreanos com 18 a 34 anos; trabalho é finalidade acessória às férias. [^1]                   | Como a residência de curto prazo lida com trabalho, moradia, transporte e língua |
+| Mobilidade no ensino superior        | 2.418 estudantes coreanos vieram estudar em Taiwan em 2024; 2.150 estudantes taiwaneses foram para a Coreia. [^2]                                                      | Graduação, pesquisa, aprendizado de chinês e o próximo passo após a formatura    |
+| Casamento e criação digital          | Entrevista do _Taiwan Banker_ registra percurso de estudo, casamento, criação de filhos, transporte e trabalho com conteúdo de criadores coreanos em Taiwan. [^4]      | Como se explicar entre relações familiares e identidade pública                  |
 
-Essas quatro trajetórias não seguem uma escada natural. Documentos oficiais classificam as pessoas por vistos, residência ou razões de estudo, enquanto a vida real frequentemente sobrepõe diferentes razões. O artigo opta por apresentá-las lado a lado para evitar reduzir "coreanos em Taiwan" a uma única narrativa migratória.
+Não há uma escada natural entre esses quatro percursos. Documentos oficiais separam as pessoas por visto, residência ou motivo de estudo; a vida, porém, faz com que diferentes motivos se sobreponham. O artigo opta por colocá-los lado a lado para evitar que "coreanos vêm a Taiwan" se reduza a uma única história de imigração.
 
 ## Uma escola, dois calendários
 
-A história da Escola Internacional Coreana de Kaohsiung começa com o horário. Segundo relatos, os alunos entravam na escola primária taiuanesa de manhã, com os colegas taiuanos, e às 13h foram para a escola coreana, estudando língua coreana, cultura coreana e música de quarteto. A escola também oferecia aulas aos sábados para alunos que não podiam participar durante a semana. [^5]
+A história da Escola Internacional Coreana de Kaohsiung começa pelo horário. A reportagem relata que os alunos entram de manhã em escolas primárias taiwanesas comuns, estudam com colegas taiwaneses, e à uma da tarde até as cinco e meia vão à escola coreana aprender língua coreana, cultura coreana e samul nori. A escola também abre aulas aos sábados, dando chance de contato com o coreano aos que não podem nos dias de semana. [^5]
 
-Não se trata de dois sistemas culturais colocados em salas separadas. Crianças passam metade do dia com o ritmo da escola taiuanesa e depois retornam a outra língua e outras comemorações. O currículo inclui até o "Dia do Kimchi", quando os alunos fazem comida coreana. [^5] Uma criança precisa alternar entre dois sistemas escolares no mesmo dia, e a interculturalidade acaba sendo organizada em uma tabela que ela mesma precisa lembrar.
+Não se trata de colocar duas culturas cada qual num canto da sala. A criança passa meio dia no ritmo da escola taiwanesa e depois entra noutra língua e noutro calendário festivo. O currículo inclui até "dia do kimchi", para que os alunos preparem efetivamente comida coreana. [^5] Uma criança precisa alternar dois sistemas escolares no mesmo dia; a transculturalidade cai, assim, numa grade de horários que ela mesma deve decorar.
 
-Por trás do horário da tarde, há pesos reais. As crianças precisam lembrar de deveres e horários de ambas as escolas, além de dominar duas línguas, e os pais precisam reorganizar suas rotinas entre escola, casa e transporte. O relato não romantiza essa vida como uma vantagem bilingue, mas destaca os desafios do ensino bilingue e intercultural para as crianças, especialmente preocupando os pais com a carga de trabalho. [^5] "Manter a língua materna" não é apenas um lema — exige uma escola, um período da tarde e famílias dispostas a suportar os custos de transporte e matrícula.
+Por trás da grade da tarde há peso real. A criança deve lembrar deveres, horários e línguas dos dois lados; os pais precisam reorganizar turnos entre escola, família e transporte. A reportagem não pinta essa vida como vantagem romântica do bilinguismo, antes aponta que o aprendizado bilíngue e bicultural é desafio para a criança, e os pais se preocupam especialmente com a carga de trabalho. [^5] "Manter a língua materna" deixa de ser slogan: exige uma escola, um período da tarde e famílias dispostas a arcar com transporte e custos curriculares.
 
-O diretor Kim Jin-sub comentou em relato que a língua é a chave para conectar culturas. Ele também acredita que, em ambientes interculturais, é necessário manter uma atitude positiva, estar aberto e respeitar a singularidade da cultura local. Essas palavras soam como princípios profissionais de um diretor, mas na sala de aulas da tarde em Kaohsiung, parecem mais uma técnica cotidiana: primeiro deixe a criança viver em Taiwan, depois garanta que ela não perca a língua coreana.
+O diretor Kim Jin-seop (金鎮燮) diz na reportagem que a língua é a chave para conectar culturas. Acredita também que, trabalhando em ambiente transcultural, é preciso manter atitude positiva, mente aberta e aceitar a singularidade da cultura local. Soam como princípios profissionais de um diretor, mas numa sala de aula vespertina de Kaohsiung parecem mais uma técnica cotidiana: primeiro deixar a criança viver em Taiwan, depois fazer com que não perca o coreano por causa disso.
 
-A escala dessa escola também nos lembra que não devemos ler "coreanos em Taiwan" como um grupo gigantesco e homogêneo. Os 20 alunos da turma da tarde em 2013 e os 2.418 estudantes coreanos que vieram estudar a Taiwan em 2024 representam duas portas de entrada distintas — uma para educação familiar e outra para ensino superior. O primeiro grupo se preocupa com como as crianças mantêm sua língua materna; o segundo, com graus, pesquisa e futuro profissional. Os dois números podem aparecer juntos numa tabela, mas as vidas por trás deles são organizadas de formas diferentes. [^2] [^5]
+O tamanho da escola também nos alerta para não ler "coreanos em Taiwan" como grupo enorme e homogêneo. Os 20 alunos da turma da tarde em 2013 e os 2.418 estudantes coreanos em Taiwan em 2024 representam respectivamente as portas da educação familiar e do ensino superior. A primeira cuida de como a criança preserva a língua materna; a segunda, de diploma, pesquisa e emprego futuro. Os dois números cabem na mesma tabela, mas as vidas por trás são dois arranjos distintos. [^2] [^5]
 
-## Kaohsiung não é um cenário acidental
+## Kaohsiung não é pano de fundo acidental
 
-Em 2016, o Centro de Serviços Conjunto do Sul do Gabinete Executivo relatou que a Direção de Imigração e a Associação de Coreanos de Kaohsiung organizaram uma atividade de troca sobre direitos de residência para estrangeiros na Escola Internacional Coreana de Kaohsiung. Na época, 402 coreanos residentes em Kaohsiung eram os quartos maiores números entre todas as cidades e regiões, e a Associação de Coreanos de Kaohsiung contava com 120 membros. [^3]
+Em 2016, o Centro Conjunto de Serviços do Sul do Yuan Executivo noticiou que o Serviço de Imigração e a Associação de Coreanos de Kaohsiung realizaram intercâmbio sobre direitos de residência de estrangeiros na Escola Internacional Coreana de Kaohsiung. Na época, havia 402 coreanos residentes em Kaohsiung, quarto lugar entre condados e cidades do país, e a associação contava 120 sócios. [^3]
 
-Esse número é apenas uma fotografia de 2016 e não pode ser usado diretamente como estatística populacional atual. O que ele mostra é que a vida coreana em Kaohsiung envolve restaurantes, turismo, escolas, organizações comunitárias e serviços administrativos. Esses pontos se conectam para formar uma rede comunitária onde as pessoas podem se encontrar. A Associação de Coreanos ajuda a conectar recursos, e a Direção de Imigração explica direitos de residência durante as atividades. [^3]
+Esse número já é fatia histórica de 2016, não serve como estatística populacional atual. O que indica é que a vida coreana em Kaohsiung já tinha restaurantes, turismo, escola, organização local e serviços administrativos. Quando esses nós se cruzam, formam uma rede local onde as pessoas se encontram. A associação ajuda a conectar recursos; o Serviço de Imigração explica direitos de residência e permanência no evento. [^3]
 
-Os sistemas migratórios geralmente classificam as pessoas por documentos. A vida real leva as pessoas a questões mais detalhadas: onde a criança estuda língua coreana à tarde, a quem o pai pergunta sobre a renovação da residência, como a comunidade organiza uma festa de Ano Novo e onde procurar alguém que fala coreano quando há problemas legais ou burocráticos. O caso de Kaohsiung transforma "comunidade" em uma instituição visível, e não apenas um campo de nacionalidade em estatísticas populacionais.
+O sistema de imigração costuma classificar pessoas por documentos. A vida, porém, leva a perguntas mais finas: onde a criança aprende a língua materna à tarde, a quem o pai pergunta sobre prorrogação de residência, como a comunidade organiza a festa de fim de ano, a quem recorrer quando surgem problemas jurídicos ou administrativos. O caso de Kaohsiung torna a "comunidade" instituição visível, não apenas coluna de nacionalidade numa estatística.
 
-A Direção de Imigração do Ministério do Interior agora publica mensalmente tabelas de estatísticas de residência de estrangeiros, com dados atualizados para download. [^6] Esses dados são adequados para responder perguntas como "quantos estrangeiros residem legalmente", mas não respondem sozinhos sobre como essas pessoas vivem nas cidades. Para entender coreanos em Taiwan, é preciso juntar as tabelas estatísticas com escolas, associações locais, famílias e experiências de trabalho.
-
-> **📝 Nota do curador**
-> Estatísticas populacionais dirão quem possui qual passaporte, mas o sino da escola às 13h dirá como uma comunidade transforma sua identidade em rotina diária.
-
-## Começando com trabalho-turismo: vida de curta duração
-
-Segundo a explicação oficial do Gabinete de Assuntos Consulares do Ministério das Relações Exteriores, o visto de trabalho-turismo entre Taiwan e Coreia entrou em vigor em 1º de janeiro de 2011. O programa é voltado principalmente para jovens que desejam viajar por um longo período, com o trabalho como meio de custear a viagem — por isso, nem todos os jovens coreanos que vêm a Taiwan pretendem se estabelecer. Os solicitantes coreanos devem ter entre 18 e 34 anos, e só podem participar uma vez com esse programa. [^1]
-
-A explicação oficial também define os limites do programa. O objetivo principal do solicitante ao entrar no país deve ser turismo de longa duração, e o trabalho legal é apenas um meio secundário de financiar a viagem. Os solicitantes não podem trazer esposas, familiares dependentes ou filhos. [^1] Essas regras separam uma pessoa que muda temporariamente para Taiwan de uma família que se estabelece com base em parentes, estudos ou trabalho.
-
-No entanto, para os jovens, a experiência de curta duração pode deixar memórias duradouras. Trabalhadores-turistas precisam encontrar casas para alugar, comprar passagens de transporte, lidar com fricções linguísticas e encontrar a pronúncia e o ritmo dos taiuanos no local de trabalho. O sistema escreve "intercâmbio" na explicação do visto, mas o verdadeiro intercâmbio acontece em uma tabela de horários, num grupo de aluguel ou em um funcionário público que não sabe como traduzir algo.
-
-Portanto, coreanos em Taiwan não devem ser classificados apenas como "imigrantes" ou "turistas". Alguns vêm com diplomas, outros com famílias, outros com um ano de validade, e alguns decidem se estabelecer apenas após o término do período. A explicação da Direção de Imigração sobre requisitos para residência permanente inclui até mesmo a cláusula "coreanos com residência de longa duração aprovada por autorização especial do Ministério das Relações Exteriores". [^7] Isso mostra que existem diferentes caminhos para a residência, e nos lembra de não transformar cada coreano em Taiwan em uma única história.
-
-## A universidade abre duas direções
-
-O relatório do Ministério da Educação de 2025 oferece outra porta de entrada. A Universidade Hankyong da Coreia estabeleceu convênios de irmãos com 34 universidades em Taiwan, e na época 107 estudantes taiuanos estudavam na Universidade Hankyong. O Ministério da Educação também divulgou que, em 2024, 2.418 estudantes coreanos vieram estudar a Taiwan, e 2.150 estudantes taiuanos foram para a Coreia. [^2]
-
-Dentro desses números, há uma simetria fácil de ignorar: estudantes coreanos que vêm a Taiwan e estudantes taiuanos que vão para a Coreia — em ambos os lados, alguém transforma temporariamente a outra sociedade na sua sala de aula. A troca estudantil nem sempre resulta em imigração, mas leva a língua, o sistema escolar e os hábitos de vida do outro de volta para casa.
-
-O Ministério da Educação colocou o escopo da cooperação na mesma reportagem em áreas como engenharia, medicina, colaboração entre universidade e indústria e desenvolvimento de talentos. [^2] Isso difere do intercâmbio entre Taiwan e Coreia baseado apenas em dramas coreanos ou K-pop. Quando estudantes coreanos vêm por graus, pesquisa ou estágios, os cenários enfrentados mudam do consumo cultural para laboratórios, hospitais, administração universitária e relações entre colegas. A compreensão entre Taiwan e Coreia se forma nesses momentos que não cabem em vídeos de 30 segundos.
-
-A pesquisa sobre estudantes internacionais da Universidade Nacional de Ciências Políticas também lembra que o aprendizado transnacional deve ser compreendido no contexto de fluxos estudantis e sistemas educacionais, e não apenas tratar estudantes estrangeiros como paisagens exóticas no campus. [^8] Para estudantes coreanos, Taiwan pode ser um local de pesquisa, um ambiente para aprender chinês, uma experiência de intercâmbio ou um próximo passo sem resposta.
-
-![Vista noturna de Taipei. O intercâmbio no ensino superior leva estudantes coreanos para dentro de campus e para a vida urbana de Taiwan.](https://upload.wikimedia.org/wikipedia/commons/4/42/Taipei_Skyline_2018.jpg)
-
-_Imagem: Heeheemalu, "Taipei Skyline 2018", Wikimedia Commons, CC BY-SA 4.0. O ficheiro original e a página de licença estão disponíveis em[^12]._
-
-## Por que os coreanos nas telas se tornaram familiares?
-
-![Paisagem urbana ao entardecer em Taipei. Estudantes internacionais também precisam aprender a ler o ritmo de uma cidade fora da sala de aula.](https://upload.wikimedia.org/wikipedia/commons/3/37/Taipei_-_Skyline_Sunset.jpg)
-
-_Imagem: Jorge Cancela, "Taipei - Skyline Sunset", Wikimedia Commons, CC BY 2.0. O ficheiro original e a página de licença estão disponíveis em[^13]._
-
-Em 2022, o "Taiwan Business Weekly" voltou a câmera para os criadores de conteúdo que falam sobre Taiwan: o canal de vendas de bebidas de venda ambulante coreanas, o canal de cogumel shiitake e o canal de bebidas de venda ambulante coreanas. O relato registra que o criador de vendas de bebidas de venda ambulante coreanas se formou na Faculdade de Economia da Universidade Nacional de Taiwan e já obteve cidadania taiuanesa, e o criador de cogumel shiitake se formou na Faculdade de Literatura Chinesa da Universidade Nacional de Taiwan. [^4] Sua popularidade transformou coreanos em Taiwan de uma minoria urbana em conteúdo que os taiuanos podem assistir ativamente todos os dias.
-
-Essa mudança não é apenas "os coreanos começaram a usar YouTube". O relato menciona que o criador de vendas de bebidas de venda ambulante coreanas refletiu sobre a deterioração das relações entre Taiwan e Coreia durante a crise diplomática e competições esportivas internacionais, e acredita que a onda de cultura coreana melhorou a atitude dos taiuanos para com os coreanos. [^4] A visibilidade de uma pessoa em Taiwan está, portanto, interligada com relações entre os dois países, cultura pop e algoritmos de plataformas.
-
-O relato também registra o choque entre duas etiquetas sociais em um momento em que alguém chega a Taiwan. Naquele momento, o entrevistado ainda acreditava em cumprimentar professores com uma reverência, mas viu estudantes taiuanos aplaudir professores e comer coxinhas em sala de aula. [^4] Esses detalhes não podem ser usados para generalizar sobre todos os coreanos ou todos os taiuanos, mas dão vida às diferenças culturais, ao invés de apenas listar adjetivos como "Coreia é mais rígida" ou "Taiwan é mais livre".
-
-A experiência do criador de bebidas de venda ambulante coreanas também nos leva à família em Tainan. O relato menciona que, antes de se casar com um taiuanes, ela nunca estudou ou trabalhou em Taiwan, e após o casamento entrou diretamente na extensa família do sul de Taiwan. Sua trajetória também atravessou posições como coreano de ascendência chinesa, escola de língua chinesa e trabalho em Seul antes do casamento em Taiwan. [^4]
-
-Essa história não pode ser resumida como "uma noiva coreana se adapta a Taiwan". Antes de chegar a Tainan, ela já possuía experiência educacional em chinês e histórias familiares transnacionais. A vida após o casamento apenas acrescentou frutas, calor quente, tráfego de motocicletas, criação de filhos e compras coletivas. [^4] Estrangeiros que vêm a Taiwan raramente começam do zero — trazem consigo experiências linguísticas, familiares e migratórias anteriores.
+O Serviço de Imigração do Ministério do Interior publica agora mensalmente tabelas estatísticas de residentes estrangeiros, com dados para download continuamente atualizados. [^6] Esses dados servem para responder "quantos residentes estrangeiros há", mas sozinhos não explicam como vivem na cidade. Para entender os coreanos em Taiwan, é preciso pôr a tabela estatística junto com a escola, a associação local, a família e a experiência de trabalho.
 
 > **📝 Nota do curador**
-> Influenciadores fizeram com que os taiuanos ouvissem pela primeira vez certas vidas coreanas, mas ser ouvido não significa ser representado. O que vale a pena preservar são aquelas experiências que não se deixam reduzir a uma única identidade.
+> A estatística populacional diz quem tem qual passaporte; o sino da uma da tarde na escola é que diz como uma comunidade vive a identidade no dia a dia.
 
-## O fim da comparação é saber quem se adapta
+## A vida de curto prazo que começa nas férias-trabalho
 
-As entrevistas no "Taiwan Business Weekly" mostram as diferenças na vida cotidiana: os entrevistados falam sobre as exigências da Coreia em relação a idade, hierarquia e linguagem de cortesia, e também sobre o uso mais comum de nomes em inglês no ambiente de trabalho em Taiwan, onde chefes e funcionários podem brincar entre si. [^4] Essas descrições são observações dos entrevistados, não estatísticas médias de dois países, por isso devem ser lidas apenas no contexto das vivências dessas pessoas.
+O Bureau de Assuntos Consulares do Ministério das Relações Exteriores informa oficialmente que o visto de férias-trabalho Taiwan-Coreia entrou em vigor em 1º de janeiro de 2011. O regime tem como foco férias longas de jovens, tornando o trabalho arranjo acessório para custear a estadia; por isso, nem todo jovem coreano que vem a Taiwan pretende fixar residência. Candidatos coreanos devem ter 18 a 34 anos e só podem usar o programa uma vez. [^1]
 
-Os entrevistados também mencionam frutas do sul de Taiwan, calor intenso e transporte por motocicleta. Para quem está acostumado com transporte público em Seul, as motocicletas oferecem mobilidade, mas também riscos. [^4] Adaptar-se a uma cidade exige escolhas diárias: andar de moto ou não, como atravessar a rua, como comprar no mercado. Essas decisões repetidas, por fim, se tornam o sentimento que alguém tem pela cidade.
+A explicação oficial traça ao mesmo tempo as fronteiras do regime. O propósito principal da entrada deve ser férias longas; o trabalho legal é apenas meio acessório de financiar a viagem. Não é permitido trazer cônjuge, dependentes ou crianças. [^1] Essas condições separam a pessoa que se muda temporariamente para Taiwan da família que vive em Taiwan por reagrupamento familiar, estudo ou trabalho.
 
-Pesquisas sobre percepções dos taiuanos para com a Coreia voltam o foco para a sociedade taiuanesa, analisando variações demográficas e cognições sobre a Coreia por meio de questionários. [^9] O valor desses estudos é lembrar que a vida de coreanos em Taiwan também é influenciada pelas impressões pré-existentes dos taiuanos. Alguns veem primeiro a onda de cultura coreana, outros pensam primeiro em rivalidades históricas, e outros ainda tratam os coreanos como colegas, colegas ou vizinhos.
+Mas, para o jovem, regime de curto prazo pode deixar memórias de longo prazo. Quem vem em férias-trabalho precisa achar moradia, comprar passagens de transporte, lidar com atritos linguísticos, e no local de trabalho encontra sotaques e ritmos taiwaneses. O regime escreve "intercâmbio" na explicação do visto; o verdadeiro intercâmbio acontece numa escala de turnos, num grupo de aluguel, ou numa janela administrativa onde não se sabe como traduzir.
 
-Portanto, a "tolerância" dos taiuanos para com os coreanos não pode ficar apenas em elogios a si mesmos. Ela se mostra ao aceitar crianças bilingues nas escolas, ao esclarecer regras de residência nas janelas administrativas, ao permitir que profissionais estrangeiros trabalhem, e também ao entender uma pessoa coreana após reconhecer sua nacionalidade, mantendo sua experiência complexa.
+Por isso, coreanos em Taiwan não cabem na dicotomia "imigrante" ou "turista". Alguns vêm com diploma, outros com família, outros com prazo de um ano, e há quem, findo o prazo, decida se fica. O guia de solicitação de residência permanente do Ministério do Interior chega a listar "coreanos residentes de longo prazo em Taiwan aprovados em projeto especial pelo Ministério das Relações Exteriores" no texto do regime. [^7] Isso mostra que os status de residência têm caminhos diversos, e nos lembra de não escrever cada coreano em Taiwan como a mesma história.
 
-## Devolvendo a Coreia à vida cotidiana em Taiwan
+## A universidade abre as duas direções
 
-Voltando à escola em Kaohsiung, onde crianças estudam língua coreana à tarde e vão para a escola taiuanesa de manhã. Voltando à família em Tainan, onde língua coreana, chinês, ascendência coreana e parentes taiuanos coexistem. Voltando às universidades, onde 2.418 estudantes coreanos vieram estudar a Taiwan em 2024, e 2.150 estudantes taiuanos foram para a Coreia. [^2] Voltando às telas do celular, onde alguns criadores coreanos residentes em Taiwan transformam cortesia, clima, política e frutas em histórias que os taiuanos entendem. [^4]
+Reportagem do Ministério da Educação de 2025 traz outra porta. A Universidade Hanyang (漢陽大學) da Coreia firmou convênio de escolas-irmãs com 34 universidades taiwanesas; na época, 107 estudantes taiwaneses estudavam na Hanyang. O Ministério divulgou também que, em 2024, 2.418 estudantes coreanos vieram estudar em Taiwan, enquanto 2.150 estudantes taiwaneses foram para a Coreia. [^2]
 
-Essas portas de entrada são distintas, mas juntas mudam a percepção de "coreanos em Taiwan". O tema não pode ser apenas notícias sobre estrangeiros vindo a Taiwan, nem apenas sobre o mercado de cultura coreana. O mais interessante é como uma comunidade mantém sua língua e reorganiza sua vida em escolas locais, universidades taiuanas, famílias e trabalhos.
+Há nesses números uma simetria fácil de ignorar: tanto os coreanos que vêm a Taiwan quanto os taiwaneses que vão à Coreia põem a outra sociedade temporariamente como sua sala de aula. O intercâmbio estudantil não necessariamente vira imigração, mas leva a língua, o sistema escolar e os costumes do outro de volta ao lugar de origem.
 
-Os sistemas administrativos continuarão a classificar as pessoas por nacionalidade, vistos e razões de residência. Atividades culturais continuarão a usar o Dia da Coreia, kimchi, música e festividades para identificação. As plataformas continuarão a expor a vida de algumas pessoas a mais taiuanos. O que realmente precisa ser notado é que esses três sistemas só iluminam parte do todo.
+O Ministério da Educação coloca na mesma reportagem a cooperação em engenharia, medicina, colaboração indústria-academia e formação de talentos. [^2] Diferencia-se do intercâmbio Taiwan-Coreia que só fala de doramas ou K-pop. Quando estudantes coreanos vêm por diploma, pesquisa ou estágio, seus cenários mudam do consumo cultural para laboratórios, hospitais, administração universitária e relações com colegas. O entendimento mútuo Taiwan-Coreia também se forma devagar nessas cenas que não cabem em trinta segundos de vídeo.
 
-Se perguntarmos o que os coreanos deixaram em Taiwan, a resposta não é necessariamente uma identidade coreana fixa, mas algo mais próximo de uma capacidade de tradução constante: traduzir entre dois horários, entre diferentes níveis de linguagem de cortesia, entre documentos familiares e burocráticos, e também traduzir a si mesmos diante da câmera. Taiwan vê os coreanos, e os coreanos também estão nessa ilha aprendendo a explicar Taiwan.
+Pesquisa sobre estudantes internacionais da Universidade Nacional Chengchi (國立政治大學) lembra que a aprendizagem transfronteiriça deve ser entendida no contexto da mobilidade estudantil e dos sistemas educacionais, não tratando o estudante estrangeiro apenas como paisagem exótica no campus. [^8] Para o estudante coreano, Taiwan pode ser local de pesquisa, ambiente de aprendizado de chinês, experiência de intercâmbio, ou um próximo passo que ainda não tem resposta.
 
-## Leituras recomendadas
+![Paisagem noturna de Taipé. O intercâmbio no ensino superior traz estudantes coreanos para campi e vida urbana de Taiwan.](https://upload.wikimedia.org/wikipedia/commons/4/42/Taipei_Skyline_2018.jpg)
 
-- [Cidade de Kaohsiung](/pt/geography/kaohsiung-city) — contexto urbano onde se localizam a escola coreana e as associações de coreanos.
-- [Sistema educacional de Taiwan](/pt/lifestyle/taiwan-education-system) — entender o contexto institucional das escolas, estudantes internacionais e educação bilingue.
-- [Fusão culinária de novos residentes em Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — entender como comunidades multiculturais se estabelecem em Taiwan a partir da alimentação e da vida familiar.
+_Imagem: Heeheemalu, 〈Taipei Skyline 2018〉, Wikimedia Commons, CC BY-SA 4.0. Arquivo original e página de licença em [^12]._
+
+## Os coreanos na tela: por que se tornaram familiares
+
+![Paisagem urbana de Taipé ao entardecer. Estudantes transfronteiriços, fora da sala de aula, também precisam aprender a ler o ritmo de uma cidade.](https://upload.wikimedia.org/wikipedia/commons/3/37/Taipei_-_Skyline_Sunset.jpg)
+
+_Imagem: Jorge Cancela, 〈Taipei - Skyline Sunset〉, Wikimedia Commons, CC BY 2.0. Arquivo original e página de licença em [^13]._
+
+Reportagem de 2022 do _Taiwan Banker_ vira a lente para Weisuaren, Jinzhenku e Meiling Hanmai. O artigo registra que Weisuaren formou-se em Economia na NTU (Universidade Nacional de Taiwan) e já naturalizou-se taiwanês; Jinzhenku formou-se em Chinês na NTU. [^4] A notoriedade deles transformou os coreanos em Taiwan — de poucas silhuetas na cidade — em pessoas que o público taiwanês pode escolher ativamente assistir todo dia.
+
+A virada aqui não é apenas "coreanos viraram YouTubers". A reportagem menciona que Weisuaren recordou a ruptura diplomática Taiwan-Coreia e a competição esportiva internacional que geraram hostilidade, e considera que, após o boom da onda coreana, a atitude dos taiwaneses para com coreanos mudou visivelmente. [^4] A visibilidade de uma pessoa em Taiwan se entrelaça, assim, com as relações bilaterais, a cultura pop e os algoritmos das plataformas.
+
+A reportagem escreve a colisão de duas cortesesias cotidianas num momento de recém-chegada. Na época, a entrevistada coreana ainda tinha o hábito de ficar em posição de sentido e curvar-se ao encontrar o professor, mas via alunos taiwaneses cumprimentarem o professor com "high-five" e até comerem frango frito em sala de aula. [^4] Esses detalhes não servem para concluir sobre todos os coreanos ou taiwaneses, mas dão movimento à diferença cultural, em vez de uma lista de adjetivos "Coreia mais rígida, Taiwan mais livre".
+
+A experiência de Meiling Hanmai leva o olhar à família em Tainan. A reportagem aponta que, antes de casar com o marido taiwanês, ela não tinha estudado nem trabalhado em Taiwan; após o casamento, entrou diretamente na grande família do sul de Taiwan. Seu histórico familiar também cruza várias posições: etnia coreana na China (朝鮮族), escola de chinês, trabalho em Seul e casamento em Taiwan. [^4]
+
+Essa história não se resume a "nora coreana se integra em Taiwan". Antes de chegar a Tainan, ela já tinha experiência de educação em chinês e histórico familiar transregional. A vida pós-casamento acrescentou frutas, clima quente, trânsito de motos, criação de filhos e compras coletivas. [^4] Quem vem de fora para Taiwan raramente parte do zero; traz consigo experiências anteriores de língua, família e mobilidade.
+
+> **📝 Nota do curador**
+> Influenciadores fizeram os taiwaneses ouvirem pela primeira vez certas vidas de coreanos, mas ser ouvido não equivale a ser representado. O que mais vale guardar costuma ser as experiências que se recusam a ser cortadas numa identidade única.
+
+## O fim da comparação: quem consegue se ajustar
+
+A entrevista do _Taiwan Banker_ pousa a diferença no cotidiano concreto: entrevistados falam das exigências coreanas quanto a idade, hierarquia e honoríficos, e também do uso frequente de nomes em inglês no ambiente de trabalho taiwanês, onde chefes e subordinados às vezes brincam entre si. [^4] São observações dos entrevistados, não médias estatísticas de todos nos dois países; por isso só podem ser lidas devolvidas ao seu lugar de vida.
+
+Entrevistados também mencionam frutas do sul de Taiwan, clima quente e trânsito de motos. Para quem está acostumado ao transporte público de Seul, a moto traz mobilidade e também risco. [^4] Adaptar-se à cidade depende de escolhas diárias: andar ou não de moto, como atravessar a rua, como comprar no mercado. Essas pequenas decisões repetidas é que, afinal, crescem e viram o sentimento por uma cidade.
+
+Pesquisa sobre a percepção dos taiwaneses em relação à Coreia e às relações Taiwan-Coreia recoloca a lente na sociedade taiwanesa, analisando por questionário como diferentes variáveis populacionais se relacionam com o conhecimento sobre a Coreia. [^9] O valor desse tipo de estudo está em lembrar que a vida dos coreanos em Taiwan também sofre influência das impressões pré-existentes dos taiwaneses. Uns veem primeiro a onda coreana, outros pensam primeiro na competição histórica, outros veem o outro como colega, colega de classe ou vizinho.
+
+Portanto, a "tolerância" de Taiwan para com coreanos não pode parar no autoelogio. Ela aparece na capacidade da escola de acolher crianças bilíngues, na janela administrativa que explica claras as regras de residência, no local de trabalho que permite atuação do profissional estrangeiro, e também no momento em que, reconhecida a nacionalidade de um coreano, ele ainda pode ser compreendido na complexidade de sua trajetória.
+
+## Devolver a Coreia ao cotidiano de Taiwan
+
+Voltemos àquela escola de Kaohsiung: à tarde a criança aprende coreano, de manhã estuda com colegas taiwaneses. Voltemos à família de Tainan: coreano, chinês, histórico de etnia coreana na China e parentes taiwaneses coexistem. Voltemos à universidade: 2.418 estudantes coreanos vieram a Taiwan em 2024, do outro lado 2.150 taiwaneses foram para a Coreia. [^2] Voltemos à tela do celular: alguns criadores coreanos em Taiwan transformam cortesia, clima, política e frutas em histórias que o público taiwanês entende. [^4]
+
+Essas portas são diferentes entre si, mas juntas mudam a imaginação de "coreanos em Taiwan". O tema não cabe só em notícias de estrangeiros que vêm a Taiwan, nem só no mercado de consumo da onda coreana. Mais vale observar como uma comunidade preserva a própria língua e, depois, rearranja a vida em escolas locais, universidades taiwanesas, famílias e trabalho.
+
+O sistema administrativo seguirá classificando por nacionalidade, visto e motivo de residência. Atividades culturais seguirão se reconhecendo no Dia da Coreia, kimchi, música e festivais. As plataformas seguirão empurrando a vida de certas pessoas para mais taiwaneses. O que realmente exige atenção é que esses três sistemas só iluminam uma parte cada.
+
+Se perguntarmos o que os coreanos deixaram em Taiwan, a resposta talvez não seja uma "coreanidade" fixa, e sim uma capacidade de traduzir repetidamente: traduzir entre duas grades de horários, entre diferentes honoríficos, entre família e documentos administrativos, e também traduzir a si mesmos diante e atrás das câmeras. Taiwan vê coreanos; coreanos também reaprendem, nesta ilha, a explicar Taiwan.
+
+## Leituras complementares
+
+- [Kaohsiung](/pt/geography/kaohsiung-city) — Contexto urbano onde se situam a Escola Coreana de Kaohsiung e a associação local de coreanos citadas no artigo.
+- [Sistema educacional de Taiwan](/pt/lifestyle/taiwan-education-system) — Para entender o arcabouço de escolas, estudantes internacionais e educação bilíngue em Taiwan.
+- [Fusão gastronômica dos novos residentes de Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — Extensão a partir de alimentação e vida familiar para compreender como comunidades transculturais se enraízam em Taiwan.
 
 ## Referências
 
-[^1]: [Gabinete de Assuntos Consulares do Ministério das Relações Exteriores: Instruções sobre vistos para o programa de trabalho-turismo para cidadãos coreanos](https://www.boca.gov.tw/cp-388-51-cb41a-1.html) — artigo oficial publicado em 17 de julho de 2024, descrevendo o objetivo, idade, número de vezes e restrições de trabalho do programa de trabalho-turismo entre Taiwan e Coreia.
+[^1]: [Bureau de Assuntos Consulares do Ministério das Relações Exteriores: Explicação sobre visto de férias-trabalho para nacionais coreanos em Taiwan](https://www.boca.gov.tw/cp-388-51-cb41a-1.html) — Artigo oficial de visto de 17 de julho de 2024, explicando propósito, idade, frequência e restrições de trabalho do programa de férias-trabalho Taiwan-Coreia.
 
-[^2]: [Departamento de Educação Internacional e Entre Taiwanese do Ministério da Educação: "Conectando educação e indústria — a visita do reitor da Universidade Hankyong da Coreia, Lee Ji-jung, abre novas oportunidades para cooperação educacional entre Taiwan e Coreia"](https://depart.moe.edu.tw/ed2500/News_Content.aspx?n=79D4CEEC271FCB57&sms=70BE182A03B427A5&s=77D9475005E18F4A) — reportagem do Ministério da Educação de 2025, fornecendo dados oficiais sobre fluxos estudantis entre Taiwan e Coreia, convênios de irmãos e cooperação no ensino superior.
+[^2]: [Departamento de Educação Internacional e Transestreito do Ministério da Educação: Conectando educação e indústria — Presidente Lee Gi-jeong (李基晶) da Universidade Hanyang visita Taiwan, abrindo nova etapa de cooperação educacional Taiwan-Coreia](https://depart.moe.edu.tw/ed2500/News_Content.aspx?n=79D4CEEC271FCB57&sms=70BE182A03B427A5&s=77D9475005E18F4A) — Reportagem de visita do Ministério da Educação em 2025, fornecendo dados oficiais de 2024 sobre mobilidade estudantil Taiwan-Coreia, escolas-irmãs e cooperação no ensino superior.
 
-[^3]: [Centro de Serviços Conjunto do Sul do Gabinete Executivo: "Direção de Imigração e Associação de Coreanos de Kaohsiung organizam troca sobre direitos de residência para estrangeiros e celebração coreana do Ano Novo"](https://eysc.ey.gov.tw/Page/DAB11F5DBDC11168/fb2d2f83-49eb-449a-a52e-ef2c196d4f1a) — notícia governamental de 2016, registrando o número de coreanos residentes em Kaohsiung, membros da associação e contexto local de divulgação de direitos de imigração.
+[^3]: [Centro Conjunto de Serviços do Sul do Yuan Executivo: Serviço de Imigração e Associação de Coreanos de Kaohsiung realizam intercâmbio sobre direitos de residência de estrangeiros e celebram juntos festa coreana de fim de ano](https://eysc.ey.gov.tw/Page/DAB11F5DBDC11168/fb2d2f83-49eb-449a-a52e-ef2c196d4f1a) — Notícia governamental de 2016, registrando número de coreanos residentes em Kaohsiung, sócios da associação e contexto local da atividade de promoção de direitos de imigração.
 
-[^4]: [Taiwan Business Weekly: "Coreanos em Taiwan — YouTubers coreanos residentes em Taiwan: conhecendo mais e sentindo a beleza de Taiwan!"](https://taiwanbanker.tabf.org.tw/paperDetail?id=3676) — entrevista de 2022, compilando experiências de estudo, casamento, língua, transporte e adaptação cultural de criadores de conteúdo coreanos residentes em Taiwan.
+[^4]: [Taiwan Banker: Coreanos olham Taiwan》YouTubers coreanos em Taiwan: compreender a fundo, vivenciar a beleza de Taiwan!](https://taiwanbanker.tabf.org.tw/paperDetail?id=3676) — Entrevista de figuras de 2022, reunindo experiências de estudo, casamento, língua, transporte e adaptação cultural de Weisuaren, Jinzhenku e Meiling Hanmai.
 
-[^5]: [Revista bilingue "Capital do Mar" : "Apresentando a Escola Internacional Coreana de Kaohsiung e o diretor Kim Jin-sub / Escola Internacional Coreana de Kaohsiung — enraizando cultura"](https://paper.udn.com/udnpaper/POD0006/237163/web/) — reportagem de publicação local descrevendo a turma da tarde da escola, currículo bilingue, número de alunos e educação cultural coreana.
+[^5]: [Revista Bimestral Bilíngue Capital do Oceano: Presenting Kaohsiung Korean International School and Principal Kim Jin Sub / Escola Coreana de Kaohsiung — cultura enraizada](https://paper.udn.com/udnpaper/POD0006/237163/web/) — Reportagem de publicação local sobre a escola, descrevendo concretamente turma da tarde, currículo bilíngue, número de alunos e educação cultural coreana da Escola Coreana de Kaohsiung.
 
-[^6]: [Direção de Imigração do Ministério do Interior: "Residência de estrangeiros"](https://www.immigration.gov.tw/5385/7344/7350/%E5%A4%96%E5%83%91%E5%B1%85%E7%95%99/?alias=settledown) — portal de estatísticas de residência de estrangeiros da Direção de Imigração, com tabelas oficiais de números de residentes disponíveis para download por mês.
+[^6]: [Serviço de Imigração do Ministério do Interior: Residentes estrangeiros](https://www.immigration.gov.tw/5385/7344/7350/%E5%A4%96%E5%83%91%E5%B1%85%E7%95%99/?alias=settledown) — Portal estatístico de residentes estrangeiros do Serviço de Imigração, continuamente atualizado, com tabelas oficiais mensais de número de residentes e datas dos dados para download.
 
-[^7]: [Direção de Imigração do Ministério do Interior: "Instruções para apresentar pedido de residência permanente para estrangeiros"](https://www.immigration.gov.tw/5385/7244/7250/7317/%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99/362049/) — instruções atualizadas em 2026 sobre requisitos gerais para residência permanente e textos legais para coreanos com residência de longa duração aprovada por autorização especial.
+[^7]: [Serviço de Imigração do Ministério do Interior: Guia de documentos para solicitação de residência permanente por estrangeiros](https://www.immigration.gov.tw/5385/7244/7250/7317/%E6%B0%B8%E4%B9%85%E5%B1%85%E7%95%99/362049/) — Explicação atualizada em 2026 sobre solicitação de residência permanente, listando regras gerais e texto do regime para coreanos residentes de longo prazo aprovados em projeto especial.
 
-[^8]: [Universidade Nacional de Ciências Políticas: "Pesquisa sobre estudantes internacionais na região de Taiwan"](https://www3.nccu.edu.tw/~iaezcpc/publications/C_publications/Journals/%E5%91%A8%E7%A5%9D%E7%91%9B(2011) — \_%E5%8F%B0%E7%81%A3%E5%9C%B0%E5%8D%80%E5%9C%8B%E9%9A%9B%E5%AD%B8%E7%94%9F%E8%AA%BF%E6%9F%A5%E7%A0%94%E7%A9%B0.pdf) — artigo de pesquisa da Universidade Nacional de Ciências Políticas, fornecendo contexto teórico sobre educação transnacional a partir de fluxos estudantis e ambientes de aprendizagem.
+[^8]: [Universidade Nacional Chengchi: Pesquisa de investigação sobre estudantes internacionais na região de Taiwan](https://www3.nccu.edu.tw/~iaezcpc/publications/C_publications/Journals/%E5%91%A8%E7%A5%9D%E7%91%9B(2011) — Artigo de pesquisa da Universidade Nacional Chengchi, fornecendo contexto de pesquisa sobre educação transfronteiriça a partir da mobilidade estudantil e ambiente de aprendizagem.
 
-[^9]: [Universidade Cultural da China: "Pesquisa sobre percepções dos taiuanos para com a Coreia e cognições sobre relações entre Taiwan e Coreia — focada em estatísticas SPSS"](https://irlib.pccu.edu.tw/ir/handle/987654321/48276) — página de tese de 2020, investigando percepções e cognições dos taiuanos sobre a Coreia, complementando a perspectiva da sociedade taiuanesa além dos imigrantes.
+[^9]: [Universidade da Cultura Chinesa: Pesquisa sobre percepção dos taiwaneses em relação à Coreia e reconhecimento das relações Taiwan-Coreia — centrada em estatística SPSS](https://irlib.pccu.edu.tw/ir/handle/987654321/48276) — Página de tese de 2020, estudando percepção dos taiwaneses sobre Coreia e relações Taiwan-Coreia, complementando a visão da sociedade receptora além dos imigrantes.
 
-[^10]: [Escritório de Educação de Colegiados: "Atividade do Dia da Cultura Coreana de 2025 em Kaohsiung"](https://sa.hfu.edu.tw/p/405-1008-1946,c277.php) — anúncio de atividades recentes na região de Kaohsiung, fornecendo a página de eventos do Dia da Cultura Coreana e competições de oratória em coreano, mostrando a continuidade das trocas culturais locais.
+[^10]: [Escritório de Educação da Academia: Atividade do Dia da Cultura Coreana 2025 em Kaohsiung](https://sa.hfu.edu.tw/p/405-1008-1946,c277.php) — Anúncio de atividade recente na região de Kaohsiung, fornecendo página do Dia da Cultura Coreana e concurso de oratória em coreano, mostrando a continuidade do intercâmbio cultural local.
 
-[^11]: [Wikimedia Commons: Kaohsiung Skyline 2020](https://commons.wikimedia.org/wiki/File:Kaohsiung_Skyline_2020.jpg) — imagem noturna de Kaohsiung capturada por Mao Mao Da Xiaojiu, com o ficheiro original marcado como CC BY-SA 2.0, incorporada no texto por meio do link quente da Wikimedia Commons, mantendo informações de autor e licença.
+[^11]: [Wikimedia Commons: Kaohsiung Skyline 2020](https://commons.wikimedia.org/wiki/File:Kaohsiung_Skyline_2020.jpg) — Paisagem noturna de Kaohsiung por Mao Mao Da Shao Ye, arquivo original licenciado CC BY-SA 2.0, incorporado via hotlink do Wikimedia Commons com crédito de autor e licença.
 
-[^12]: [Wikimedia Commons: Taipei Skyline 2018](https://commons.wikimedia.org/wiki/File:Taipei_Skyline_2018.jpg) — imagem noturna de Taipei capturada por Heeheemalu, com o ficheiro original marcado como CC BY-SA 4.0, incorporada no texto por meio do link quente da Wikimedia Commons, mantendo informações de autor e licença.
+[^12]: [Wikimedia Commons: Taipei Skyline 2018](https://commons.wikimedia.org/wiki/File:Taipei_Skyline_2018.jpg) — Paisagem noturna de Taipé por Heeheemalu, arquivo original licenciado CC BY-SA 4.0, incorporado via hotlink do Wikimedia Commons com crédito de autor e licença.
 
-[^13]: [Wikimedia Commons: Taipei - Skyline Sunset](https://commons.wikimedia.org/wiki/File:Taipei_-_Skyline_Sunset.jpg) — paisagem urbana ao entardecer em Taipei capturada por Jorge Cancela, com o ficheiro original marcado como CC BY 2.0, incorporada no texto por meio do link quente da Wikimedia Commons, mantendo informações de autor e licença.
+[^13]: [Wikimedia Commons: Taipei - Skyline Sunset](https://commons.wikimedia.org/wiki/File:Taipei_-_Skyline_Sunset.jpg) — Paisagem de Taipé ao entardecer por Jorge Cancela, arquivo original licenciado CC BY 2.0, incorporado via hotlink do Wikimedia Commons com crédito de autor e licença.

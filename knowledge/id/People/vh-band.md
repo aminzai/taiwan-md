@@ -1,20 +1,20 @@
 ---
-title: 'VH (Vast & Hazy): Koreksi Arah Selama Lima Belas Tahun dari "Band Eksport"'
-description: 'Terbentuk di Penghargaan Jin-So tahun 2011, hiatus pada 2014, dan kembali sebagai duo pada 2017, mereka tiga kali masuk nominasi untuk kategori Duo Penyanyi Terbaik. Di era musik independen yang sering gaduh di Taiwan, Vast & Hazy memilih menjadi wadah kecemasan tanpa nama—dan penggemar secara sukarela menamainya "Band Eksport". Pada tahun 2026, setelah Yi Qi mengumumkan transisi ke latar belakang, Ka Ka melanjutkan perjalanan dengan nama ini.'
+title: 'VH (Vast & Hazy): "Kelompok Musik Tipe Keluar" Calibrasi Arah Lima Belas Tahun'
+description: 'Terbentuk pada 2011 di Penghargaan Jin Chao Tamkang, istirahat pada 2014, kembali sebagai duo pada 2017, tiga kali nominasi Golden Melody Best Vocal Group. Di era kebisingan lingkar independen Taiwan, Vast & Hazy memilih jadi wadah kecemasan tak bernama—penikmat musik secara spontan menamai mereka "Kelompok Musik Tipe Keluar". 2026 Yi-chi mengumumkan pindah ke belakang layar, Kaka membawa nama ini terus melangkah.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'VH',
     'Vast & Hazy',
-    'Musik Independen',
-    'Ka Ka',
-    'Yan Jingxuan',
-    'Yi Qi',
-    'Lin Yiqi',
-    'Penghargaan Jin-So',
-    'Band Eksport',
-    'Rock Emosional',
+    'musik independen',
+    'Kaka',
+    'Yen Ching-hsuan',
+    'Yi-chi',
+    'Lin Yi-chi',
+    'Golden Melody Awards',
+    'Kelompok Musik Tipe Keluar',
+    'emotional rock',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -27,112 +27,112 @@ translatedFrom: 'People/VH.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
-translatedAt: '2026-09-09T11:45:56+08:00'
+translatedAt: '2026-09-13T15:49:24+08:00'
 ---
 
-> **Ringkasan 30 Detik:** VH (Vast & Hazy) adalah duo independen dari Taiwan. Anggota Ka Ka (Yan Jingxuan) dan Yi Qi (Lin Yiqi) terbentuk di Penghargaan Jin-So tahun 2011, dan tiga kali masuk nominasi untuk kategori Duo Penyanyi Terbaik (2019, 2022, 2025). Dengan filosofi kreatif yang mengemas pengamatan kemanusiaan melalui vokal lembut, mereka bangkit secara terbalik di kancah independen yang didominasi oleh rock politik pada tahun 2010-an, dan penggemar secara sukarela menamainya "Band Eksport". Setelah konser tahunan _Mai Xing_ (邁行) pada April 2026, Yi Qi mengumumkan penyesuaian perannya menjadi lebih berfokus di belakang layar, memasuki fase baru dengan Ka Ka sebagai inti.
+> **Ringkasan 30 Detik:** VH (Vast & Hazy) adalah duo independen Taiwan, anggotanya Kaka (Yen Ching-hsuan) dan Yi-chi (Lin Yi-chi) terbentuk pada 2011 di Penghargaan Jin Chao Tamkang, tiga kali nominasi Golden Melody Best Vocal Group (2019, 2022, 2025). Mereka dengan vokal lembut membungkus falsafah kreasi observasi kemanusiaan, bangkit secara terbalik di lingkar independen era 2010-an yang didominasi rock politik, penikmat musik secara spontan menamai mereka "Kelompok Musik Tipe Keluar". Setelah pertunjukan tahunan "Mai Xing" (邁行) April 2026, Yi-chi mengumumkan penyesuaian peran ke belakang layar sebagai utama, kelompok memasuki fase baru berpusat pada Kaka.
 
-Pada tanggal 10 April 2026, RE:VH mengadakan konser tahunan _Mai Xing_ (邁行) di SUB LIVE Taipei. Setelah pertunjukan selesai, Yi Qi mengucapkan satu kalimat: perannya akan disesuaikan menjadi lebih berfokus di belakang layar mulai saat ini, dan dia tidak akan tampil di setiap acara lagi.[^7]
+10 April 2026, SUB LIVE Taipei menggelar RE:VH Pertunjunan Tahunan "Mai Xing" (邁行). Setelah pertunjukan berakhir, Yi-chi mengucapkan satu kalimat: perannya akan disesuaikan ke belakang layar sebagai utama mulai sekarang, tidak lagi tampil di setiap pertunjukan. [^7]
 
-Lima belas tahun "perjalanan" telah menghasilkan sebuah bentuk baru.
+Lima belas tahun "melangkah", melahirkan sebuah bentuk baru.
 
 ### Persimpangan Dua Komunitas Gitar
 
-Pada tahun 2008, Ka Ka (Yan Jingxuan) masih duduk di kelas dua SMA, sementara Yi Qi (Lin Yiqi) berada di kelas tiga SMA. Mereka masing-masing berada di klub gitar sekolah menengah atas di Taipei dan bertemu secara kebetulan dalam pameran bersama lima sekolah—sampai mereka benar-benar saling mengenal saat wawancara di Universitas Seni pada hari yang sama di kelas tiga.
+2008, Kaka (Yen Ching-hsuan) duduk kelas 11, Yi-chi (Lin Yi-chi) duduk kelas 12. Keduanya masing-masing di komunitas gitar SMA mereka di Taipei, saling lewat karena pameran lima sekolah—sampai kelas 12 hari yang sama wawancara di Universitas Seni (藝大) baru resmi kenal.
 
-Beberapa tahun kemudian, mereka berada di lingkaran musik yang sama di Universitas Tamkang. Pada tahun 2011, mereka berpartisipasi dalam Penghargaan Jin-So ke-23 dengan drummer Bai Hu dan lagu orisinal 〈yet,〉, memenangkan juara pertama komposisi, lirik terbaik, dan aransemen terbaik sekaligus.[^1] Bahkan nama band belum ditetapkan saat itu—tetapi catatan kompetisi ini adalah keberadaan publik Vast & Hazy yang paling awal.
+Beberapa tahun kemudian, mereka berada di lingkar musik yang sama di Universitas Tamkang. 2011, mereka dengan drummer Bai Hu (白虎), sebuah lagu asli "yet,", mengikuti Penghargaan Jin Chao Tamkang ke-23, sekaligus meraih juara 1 komposisi, lirik terbaik, aransemen terbaik tiga penghargaan. [^1] Saat itu nama grup pun belum ditetapkan—tapi catatan kompetisi ini, adalah keberadaan publik paling awal Vast & Hazy.
 
-### Sebuah Kepergian yang Diperlukan
+### Kehilangan yang Perlu
 
-Pada akhir tahun 2013, bassis Xiao Han (Lu Yiqian) bergabung. Kemudian pada tahun 2014, formasi Vast & Hazy bubar lagi—anggota melanjutkan kehidupan mereka masing-masing setelah lulus; Bai Hu menjadi perekam untuk Huang Jiewei, sementara Ka Ka dan Yi Qi menjalani hidup terpisah dari musik.
+Akhir 2013, bassist Xiao Han (呂依蒨) bergabung. Lalu 2014, formasi Vast & Hazy lagi bubar—pasca lulus anggota masing-masing menjalani beban hidup lain, Bai Hu jadi rekaman Huang Chieh-wei (黃玠瑋), Kaka dan Yi-chi di luar musik masing-masing menjalani hidup sebentar.
 
-Periode kekosongan ini berlanjut hingga tahun 2017, ketika dihidupkan kembali oleh Yi Qi. Mereka memutuskan untuk melanjutkan proyek ini sebagai duo.
+Periode kosong ini berlanjut hingga 2017, baru dihidupkan kembali oleh Yi-chi. Keduanya memutuskan melanjutkan sebagai duo.
 
-Pada tahun yang sama, mereka merilis EP _Ci Deng Mi Mi_ (次等秘密), yang berisi 〈[Antara Gelombang](https://www.youtube.com/watch?v=10DHUqSVu6I)〉—yang kemudian masuk nominasi untuk Video Musik Terbaik Jin-So ke-29. Lagu ini adalah penanda publik pertama dari duo Vast & Hazy, dan titik awal mereka dalam menetapkan arah suara.[^2]
+Tahun yang sama, mereka merilis EP "Ci Di Mi Mi" (次等秘密), berisi "[Yu Lang Zhi Jian](https://www.youtube.com/watch?v=10DHUqSVu6I)"—kemudian nominasi Golden Melody ke-29 Best Music Video. Lagu ini adalah penanda publik pertama Vast & Hazy bentuk duo, juga titik awal penentuan arah suara mereka. [^2]
 
-### _Signal Pertolongan_: Kecemasan "Aku" Menjadi "Kita"
+### "Qiu Jiu Xin Hao" (求救訊號): Kecemasan "Aku" Jadi "Kita"
 
-Pada Juni 2018, album penuh pertama _Qiu Jiu Xin Hao_ (求救訊號) (I'm Not OK) dirilis.
+Juni 2018, album penuh pertama "Qiu Jiu Xin Hao" (求救訊號, I'm Not OK) dirilis.
 
-Judulnya lugas, tetapi pembungkusannya tidak berteriak. 〈Signal Pertolongan〉, 〈Malfungsi〉, 〈Cedera Tanpa Pembeda〉, 〈Aku Ingin Menjadi Kamu〉—setiap lagu berbicara tentang kerapuhan, namun dengan cara yang tenang. Pada tahun itu, dua acara peluncuran di Legacy Taipei terjual habis; pada tahun 2019, mereka melakukan tur nasional selama 19 kali mencakup 16 wilayah administratif dengan album ini, dan semuanya terjual habis.[^3]
+Judul langsung, tapi pembungkusan tidak berteriak. "Qiu Jiu Xin Hao", "Gu Zhang" (故障), "Wu Cha Bie Shang Hai" (無差別傷害), "Wo Xiang Cheng Wei Ni" (我想成為你)——setiap lagu berbicara kehancuran, tapi semua diucapkan dengan tenang. Tahun itu, Legacy Taipei dua acara rilis habis tiket; 2019, mereka bawa album ini tur sepenuh Taiwan 19 pertunjukan, mencakup 16 wilayah administratif, semuanya habis tiket. [^3]
 
-Album ini membuat mereka masuk nominasi untuk Duo Penyanyi Terbaik Jin-So ke-30.
+Album ini membuat mereka nominasi Golden Melody ke-30 Best Vocal Group.
 
-Ka Ka berbicara tentang awal mula album ini:
+Kaka saat itu membicarakan titik awal album ini:
 
-> "Ketika kita perlahan kehilangan keberanian masa muda, rasa tidak aman terhadap diri sendiri dan dunia akan menyelinap masuk. Tidak semua mimpi memiliki hari terealisasi; bentuk yang paling ingin kita capai seringkali hanya bisa bersembunyi seperti bayangan di belakang kita."[^1]
+> "Saat kita perlahan kehilangan ketakutan masa muda, maka keraguan pada diri, keraguan pada dunia, ketidakamanan itu akan menyerbu. Bukan setiap mimpi pun hari terwujud, penampilan paling diinginkan seringkali hanya bisa seperti bayangan tersembunyi di balik diri sendiri." [^1]
 
-Kata-kata ini ditangkap oleh banyak orang di Taiwan pada tahun 2018-2019—di tengah gelombang kecemasan tempat kerja, tekanan perumahan, dan kelelahan generasi.
+Ucapan ini di Taiwan 2018-2019—di atas gelombang kecemasan tempat kerja, tekanan perumahan, kelelahan generasi—terdengar oleh banyak orang.
 
-### "Berharap Pendengar Menginterpretasikannya dalam Bentuk yang Berbeda"
+### "Berharap Penikmat Masing-Masing Menafsirkan Jadi Bentuk Berbeda"
 
-Filosofi kreatif Ka Ka didasarkan pada penolakan untuk menjelaskan semuanya secara gamblang.
+Falsafah kreasi Kaka, dasarnya menolak menjelaskan dengan jelas.
 
-Dia gemar membaca novel-novel tentang kemanusiaan dan sengaja tidak mengambil tema romansa—"Bagi saya, cinta bukanlah segalanya; saya mendapatkan inspirasi dari aliran emosi antarmanusia, serta refleksi tentang menghadapi diri sendiri dan berempati terhadap orang lain."[^5] Dia menulis tentang kecemasan, kebingungan, dan keadaan tak terdefinisikan kaum modern.
+Dia gemar membaca novel yang mengupas kemanusiaan, sengaja tidak menjadikan cinta tema—"Bagi saya cinta bukan segalanya, saya mengambil inspirasi dari aliran emosi antar manusia, serta refleksi tentang menghadapi diri sendiri, berempati dengan orang lain." [^5] Dia menulis kecemasaan, kebingungan, hal tak terkata orang modern.
 
-Tetapi dia tidak ingin mendominasi interpretasi:
+Tapi dia tidak ingin memimpin tafsiran:
 
-> "Saya berharap bisa memberikan lebih banyak otoritas kepada pendengar. Baik itu lirik atau narasi lagu, saya tidak ingin mengatakan semuanya terlalu kaku; saya harap para pendengar menginterpretasikannya dalam bentuk yang berbeda. Seperti film, jika plotnya terlalu langsung dan sederhana, maka ia kehilangan nuansa dan ruang pengembangan di benak."[^1]
+> "Saya berharap bisa memberi penikmat lebih banyak kekuasaan. Baik lirik maupun narasi lagu, tidak ingin mengucapkan hal terlalu pasti, berharap penikmat masing-masing menafsirkan menjadi bentuk berbeda. Seperti film, jika alur cerita terlalu langsung dan sederhana, akan kehilangan nuansa dan ruang perkembangan di benak." [^1]
 
-Desain ini menjadikan lagu-lagu VH sebagai wadah emosional: bisa menampung patah hati, bisa menampung kelelahan kerja, bisa menampung segala kesedihan yang tidak dapat dijelaskan. Penggemar kemudian secara sukarela memberi mereka julukan—"Band Eksport".
+Desain ini membuat lagu VH jadi wadah emosi: bisa muat patah hati, bisa muat kelelahan kerja, bisa muat segala kesulitan tak terjelaskan. Penikmat musik kemudian secara spontan memberi mereka gelar—"Kelompok Musik Tipe Keluar".
 
-### _Civilization_: Catatan untuk Akhir Zaman
+### "Wen Ming" (文明): Catatan untuk Akhir Zaman
 
-Pada 30 Desember 2021, album kedua _Wen Ming_ (文明) (The Great Beyond) dirilis.
+30 Desember 2021, album kedua "Wen Ming" (文明, The Great Beyond) dirilis.
 
-Ini adalah album konseptual dengan kerangka "arsip akhir zaman", di mana setiap lagu dilengkapi kartu pameran sebagai petunjuk interpretasi.[〈Civilization〉](https://www.youtube.com/watch?v=YXcuZilZjPw) memvisualisasikan kerangka ini melalui video musik: dialektika aturan dan pelarian.
+Ini album konsep, dengan kerangka "arsip akhir zaman", setiap lagu disertai kartu exhibisi sebagai petunjuk tafsiran. MV "[Wen Ming](https://www.youtube.com/watch?v=YXcuZilZjPw)" memvisualisasikan kerangka ini: dialektika aturan dan pelarian.
 
-Album ini masuk nominasi untuk Duo Penyanyi Terbaik Jin-So ke-33.
+Album ini nominasi Golden Melody ke-33 Best Vocal Group.
 
-Yi Qi mengatakan dalam wawancara selanjutnya:
+Yi-chi dalam wawancara kemudian berkata:
 
-> "Ada hal-hal yang belum ada saat rekaman, tetapi baru terbentuk setelah dimainkan beberapa kali di panggung, dan menghasilkan banyak hal baru."[^7]
+> "Ada hal yang saat rekaman belum ada, lalu tunggu sampai tampil langsung beberapa kali, perlahan terbentuk, akan tumbuh hal-hal baru lebih banyak." [^7]
 
-Ini adalah ringkasan logika kreatif Vast & Hazy: draf akhir adalah titik awal, bukan tujuan akhir.
+Ini cerminan logika kreasi keseluruhan Vast & Hazy: finalisasi adalah titik awal, bukan akhir.
 
-### _Lima Prinsip_ dan Nama Baru VH
+### "Wu Chang Fa Ze" (五常法則) dan Nama Baru VH
 
-Pada Mei 2024, album ketiga _Wu Chang Fa Ze_ (五常法則) (5S) dirilis. Kerangka konseptual meminjam metodologi 5S manajemen perusahaan Jepang—tetapi secara terbalik: menggunakan bahasa penataan untuk menggambarkan pergulatan dan pelarian manusia dalam keteraturan.
+Mei 2024, album ketiga "Wu Chang Fa Ze" (五常法則, 5S) dirilis. Kerangka konsep meminjam metodologi 5S manajemen perusahaan Jepang—tapi terbalik: menggunakan bahasa pengaturan merangkum perjuangan dan pelarian manusia dalam ketertiban.
 
-Pada Februari 2025, mereka secara resmi menyederhanakan nama band menjadi **VH**, dan merilis EP pilihan langsung _LIVE Arr. Collection_ secara bersamaan—7 lagu yang mencakup rentang kreasi selama 15 tahun, merekam versi panggung, yaitu "hal-hal baru yang tumbuh setelah puluhan pertunjukan" seperti yang dikatakan Yi Qi.[^4]
+Februari 2025, mereka resmi menyederhanakan nama grup jadi **VH**, serentak merilis pilihan live "LIVE Arr. Collection"—7 lagu mencakup rentang kreasi 15 tahun, berisi versi live, adalah wujud nyata "hal baru yang tumbuh setelah tampil puluhan kali" menurut Yi-chi. [^4]
 
-### Era Pribadi Ka Ka
+### Era Tangan Sendiri Kaka
 
-Pada Juli 2025, Ka Ka merilis single 〈[Kerapuhan yang Perlu dan Keheningan yang Tidak Perlu Sebelum Menjadi Seni](https://www.youtube.com/watch?v=TW266wakB90)〉.
+Juli 2025, Kaka merilis single "[Cheng Wei Yi Shu Zhi Qian De Bi Yao Cui Ruo Yu Fei Bi Yao Chen Mo](https://www.youtube.com/watch?v=TW266wakB90)".
 
-Keistimewaan lagu ini adalah: lirik, musik, aransemen, dan perencanaan semuanya diselesaikan sendiri—ini adalah penampilan publik pertamanya sebagai produser serba bisa.[^6] Dia menyatakan untuk lagu ini:
+Keistimewaan lagu ini: lirik, melodi, aransemen, perencanaan, semua diselesaikan sendirian—pertama kali ia debut publik sebagai produser serba bisa. [^6] Dia menulis manifesto untuk lagu ini:
 
-> "Sebagai seorang kreator yang secara berkelanjutan menjelajahi diri dan berkomunikasi dengan dunia dalam ranah musik dan tulisan, saya menulis perlawanan tanpa kritik terhadap suara-suara yang mempertanyakan dari perbedaan posisi atau estetika."[^6]
+> "Dengan identitas kreator yang lama mengeksplorasi diri di bidang musik dan tulisan, berkomunikasi dengan dunia, saya menulis perlawanan tanpa kritik, menghadapi suara pertanyaan dari perbedaan posisi atau estetika." [^6]
 
-"Perlawanan tanpa kritik"—di Taiwan tahun 2025, kalimat ini memiliki konteksnya sendiri. Dalam lingkungan pasar opini yang dipenuhi persaingan volume, memilih untuk melawan dengan kelembutan adalah sebuah sikap.
+"Perlawanan tanpa kritik"—di Taiwan 2025, kalimat ini punya konteksnya. Di lingkungan pasar opini penuh kompetisi volume suara, memilih kelembutan sebagai perlawanan, itu sendiri adalah sebuah posisi.
 
-### Bentuk Perjalanan
+### Bentuk Melangkah
 
-Ketika Yi Qi mengumumkan transisi ke latar belakang, dia berkata: "Saya masih ada, hanya ingin lebih fokus membuat VH menjadi lebih baik."[^7]
+Yi-chi saat mengumumkan pindah belakang layar berkata: "Saya masih di sini, cuma ingin lebih fokus membuat VH lebih baik." [^7]
 
-Selama lima belas tahun, Vast & Hazy mengalami tiga perubahan identitas: pembentukan sebagai grup multi-anggota pada tahun 2011, hiatus dan kembalinya sebagai duo pada tahun 2014-2017, dan kepergian Yi Qi dari panggung pada tahun 2026. Setiap kali adalah koreksi arah—menuju tempat yang sama, dengan cara yang berbeda.
+Lima belas tahun, Vast & Hazy mengalami tiga kali transformasi identitas: 2011 pembentukan grup multi-orang, 2014-2017 istirahat dan kembali sebagai duo, 2026 Yi-chi mundur dari panggung. Setiap kali, adalah kalibrasi arah—menuju tempat yang sama, ganti cara jalan.
 
-Julukan "Band Eksport" diberikan oleh penggemar, bukan klaim diri mereka sendiri. Menariknya, justru karena hal ini, julukan itu lebih akurat. Di era di mana banyak band memberi tahu penonton apa yang harus dipikirkan melalui suara mereka sendiri, pilihan Vast & Hazy adalah: memberikan Anda sebuah jalan keluar, dan membiarkan Anda memutuskan ke mana harus pergi.
+Gelar "Kelompok Musik Tipe Keluar" ini dari penikmat musik, bukan promosi diri mereka. Menariknya, justru karena begitu, gelar ini jadi lebih tepat. Di era banyak grup menggunakan suara sendiri memberitahu penonton harus pikir apa, pilihan Vast & Hazy adalah: memberimu sebuah keluar, biarkan kamu sendiri tentukan mau ke mana.
 
 **Bacaan Lanjutan**:
 
-- [Cao Dong Mei You Pai Di](/people/草東沒有派對) — Sebuah kontras antara jalur rock politik dan jalur lembut VH di kancah independen Taiwan akhir 2010-an
-- [Wei Ruxuan](/people/魏如萱) — Musisi independen Taiwan yang juga mengikuti jalur "karya lebih utama, eksposur sekunder"
-- [Musik Independen Taiwan](/music/台灣獨立音樂) — Latar belakang ekosistem kebangkitan VH
-- [Hello Nico](/id/people/hello-nico-band) — Kontras dari lingkaran musik independen sezaman; kembali pada tahun 2024 dengan _Plan B_ setelah delapan tahun diam, sebuah bentuk kelembutan dan penekanan lainnya
+- [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — Lingkar independen Taiwan akhir 2010-an yang sama, jalur rock politik dengan jalur lembut VH bertemu
+- [Waa Wei (魏如萱)](/people/魏如萱) — Sama-sama menjalani jalur "karya prioritas, paparan kedua" musisi independen Taiwan
+- [Musik Independen Taiwan (台灣獨立音樂)](/music/台灣獨立音樂) — Latar ekosistem kebangkitan VH
+- [Hello Nico](/id/people/hello-nico-band) — Lingkar independen seraya, diam delapan tahun 2024 kembali lewat "Plan B", kontras lembut dan tekanan lain
 
-## Referensi
+## 參考資料
 
-[^1]: [Kisah _Ci Deng Mi Mi_ Vast & Hazy dan Penulisan Terbuka](https://blow.streetvoice.com/31100/) — Wawancara mendalam Blow Music 2017, Ka Ka berbicara tentang filosofi kreatif, pendelegasian otoritas, dan "berharap pendengar menginterpretasikannya dalam bentuk yang berbeda"
+[^1]: [Vast & Hazy's "Ci Di Mi Mi" (次等秘密) dan Penulisan Terbuka](https://blow.streetvoice.com/31100/) — Blow Music 2017 wawancara mendalam, Kaka bicarakan falsafah kreasi, pelepasan kekuasaan pimpinan, dan "berharap penikmat masing-masing menafsirkan jadi bentuk berbeda"
 
-[^2]: [Vast & Hazy - Wikipedia](https://zh.wikipedia.org/wiki/Vast_%26_Hazy) — Entri VH, latar belakang pembentukan, nominasi Jin-So (ke-29/30/33), dan rekam jejak diskografi lengkap
+[^2]: [Vast & Hazy — Wikipedia](https://zh.wikipedia.org/wiki/Vast_%26_Hazy) — Entri VH, latar pembentukan, nominasi Golden Melody历届 (ke-29/30/33) dan diskografi lengkap
 
-[^3]: [Catatan Tur Nasional _Qiu Jiu Xin Hao_ 2019](https://blow.streetvoice.com/40511/) — Blow Music 2018, dua acara di Legacy terjual habis setelah perilisan album pertama, tur nasional 19 kali di 16 wilayah pada tahun 2019 semuanya terjual habis
+[^3]: ["Qiu Jiu Xin Hao" (求救訊號) 2019 Catatan Tur Se-Taiwan](https://blow.streetvoice.com/40511/) — Blow Music 2018, pasca rilis album pertama Legacy dua pertunjukan habis tiket, 2019 se-Taiwan 19 pertunjukan 16 wilayah administratif tur penuh habis tiket
 
-[^4]: [Perubahan Nama _Wu Chang Fa Ze_ dan VH](https://teamearmusic.com/) — Situs web resmi Team Ear Music, rilis _Wu Chang Fa Ze_ (2024-05) + penyederhanaan resmi menjadi VH (2025-02) + perilisan EP _LIVE Arr. Collection_
+[^4]: ["Wu Chang Fa Ze" (五常法則) dan Penggantian Nama VH](https://teamearmusic.com/) — Situs resmi Team Ear Music, 2024-05 rilis "Wu Chang Fa Ze" + 2025-02 resmi disederhanakan jadi VH + rilis EP "LIVE Arr. Collection"
 
-[^5]: [Metodologi Lirik Ka Ka: Novel Kemanusiaan sebagai Sumber Inspirasi](https://blow.streetvoice.com/40511/) — Blow Music 2018 mendalam, Ka Ka berbicara tentang "cinta bukanlah segalanya" + titik awal kreasi yang gemar membaca novel kemanusiaan
+[^5]: [Metodologi Lirik & Melodi Kaka: Novel Kemanusiaan sebagai Sumber Inspirasi](https://blow.streetvoice.com/40511/) — Blow Music 2018 mendalam, Kaka bicarakan "Bagi saya cinta bukan segalanya" + titik awal kreasi gemar baca novel kemanusiaan
 
-[^6]: [Ka Ka Pertama Kali Menjadi Produser Serba Bisa 〈Kerapuhan yang Perlu dan Keheningan yang Tidak Perlu Sebelum Menjadi Seni〉](https://vocus.cc/article/687a3200fd89780001bd524b) — Vocus 2025, Ka Ka dengan deklarasi "perlawanan tanpa kritik", pertama kali menjadi produser lirik, musik, dan perencanaan serba bisa
+[^6]: [Kaka Pertama Kali Produksi Serba Bisa "Cheng Wei Yi Shu Zhi Qian De Bi Yao Cui Ruo Yu Fei Bi Yao Chen Mo" (成為藝術之前的必要脆弱與非必要沉默)](https://vocus.cc/article/687a3200fd89780001bd524b) — Vocus 2025, Kaka dengan manifesto "Perlawanan Tanpa Kritik", pertama kali lirik melodi aransemen perencanaan produksi penuh
 
-[^7]: [RE:VH _Mai Xing_ Yi Qi Mengumumkan Penyesuaian Peran](https://www.carture.com.tw/others/article/40313-) — CARTURE Culture 2026, setelah konser tahunan _Mai Xing_, Yi Qi mengumumkan transisi ke latar belakang, verbatim "Saya masih ada, hanya ingin lebih fokus membuat VH menjadi lebih baik"
+[^7]: [RE:VH "Mai Xing" (邁行) Yi-chi Umumkan Penyesuaian Peran](https://www.carture.com.tw/others/article/40313-) — CARTURE Budaya Mobil 2026, Yi-chi pasca pertunjunan tahunan "Mai Xing" umumkan pindah belakang layar, verbatim "Saya masih di sini, cuma ingin lebih fokus membuat VH lebih baik"

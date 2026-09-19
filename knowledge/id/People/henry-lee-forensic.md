@@ -1,10 +1,10 @@
 ---
 title: 'Henry Lee'
-description: 'Membangun legenda forensik lewat sekeping tulang hancur, namun justru satu "noda darah" di handuk membuat dua orang menjalani 30 tahun penjara yang salah'
+description: 'Membangun legenda forensik dengan potongan tulang kecil, namun satu noda darah pada handuk membuat dua pria menghabiskan tiga puluh tahun dalam penjara karena kesalahan'
 date: 2026-03-29
 category: 'People'
 tags:
-  ['Tokoh', 'Ilmu Forensik', 'Keturunan Taiwan-Amerika', 'Investigasi Kriminal']
+  ['Tokoh', 'Ilmu Forensik', 'Diaspora Taiwan-Amerika', 'Investigasi Pidana']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -15,103 +15,105 @@ translatedFrom: 'People/李昌鈺.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-09-10T03:36:19+08:00'
+translatedAt: '2026-09-10T10:26:29+08:00'
 ---
 
 # Henry Lee
 
-> **Ringkasan 30 Detik:** Lahir 1938 di Jiangsu, 1949 ikut ibu ke Taiwan, berusia 22 tahun menjadi Kepala Kepolisian termuda dalam sejarah Taiwan, 1964 ke AS meraih doktorat Universitas New York, seumur hidup menangani lebih dari 8000 kasus forensik, terkenal dunia lewat kasus Simpson. Namun 2023 pengadilan federal memutuskan ia memalsukan bukti darah pada kasus pembunuhan Connecticut 1985, menyebabkan dua remaja menjalani lebih dari 30 tahun penjara yang salah. 27 Maret 2026, Henry Lee meninggal di rumahnya di Nevada, berusia 87 tahun.
+> **Ringkasan 30 detik:** Lahir 1938 di Jiangsu, tiba di Taiwan pada 1949, menjadi komandan polisi paling muda di Taiwan pada usia 22 tahun, meraih doktor dari Universitas New York pada 1964, sepanjang hidup menginvestigasi lebih dari 8.000 kasus forensik, dikenal dunia melalui kasus Simpson. Tetapi pada 2023, pengadilan federal menetapkan bahwa dia memalsukan bukti darah dalam kasus pembunuhan Connecticut 1985, menyebabkan dua remaja menghabiskan lebih dari tiga puluh tahun dalam penjara karena kesalahan. Pada 27 Maret 2026, Henry Lee meninggal di rumahnya di Nevada dengan tenang, berusia 87 tahun.
 
-Desember 1987, di tengah musim dingin New England, kepolisian negara bagian Connecticut di tepi sungai yang tertutup salju, mengangkut beberapa keping tulang, setengah mahkota gigi, ujung jempol, dan beberapa helai rambut. Mayat pramugari yang hilang, Helle Crafts, sudah lenyap, dihancurkan suaminya menggunakan mesin penghancur kayu lalu dibuang ke sungai Housatonic.
+Pada Desember 1987, di tengah musim dingin gelap Inggris Baru, petugas polisi Connecticut di tepi sungai yang tertutup salju menyelam untuk mengambil beberapa potongan tulang, setengah mahkota gigi, ujung jari ibu jari, dan beberapa helai rambut. Jasad pramugari yang hilang, Helle Crafts, telah lama lenyap, dicincang oleh suaminya menggunakan mesin pencincang kayu dan didorong ke Sungai Housatonic.
 
-Yang memimpin kasus ini, adalah Kepala Laboratorium Forensik Legislatif Connecticut, seorang lulusan akademi kepolisian yang datang dari Taiwan. Ia menggunakan tulang-tulang hancur itu, membuat juri memberikan vonis bersalah dalam kondisi "tanpa mayat", menciptakan preseden pertama dalam sejarah pidana AS.
+Orang yang memimpin kasus ini adalah direktur laboratorium forensik negara bagian Connecticut, seorang mantan petugas polisi yang lulus dari sekolah polisi Taiwan. Dia menggunakan potongan tulang itu untuk memaksa juri, tanpa adanya mayat utuh, membuat putusan bersalah—pertama kali dalam sejarah pidana Amerika Serikat.
 
-Nama Henry Lee, mulai tercatat dari sini.
-
----
-
-## Dari Kapal Taiping ke New Haven
-
-Henry Lee lahir 1938, di keluarga pedagang garam di Rugao, Jiangsu, bersaudara 13 orang, ia anak ke-11. 1949, ia berusia 11 tahun mengikuti ibu Wang Shuzhen melintasi laut dari Shanghai, tiba di Taiwan. Ayahnya Li Haomin tidak ikut: tepat tahun itu bulan Januari, Kapal Taiping di dekat Kepulauan Zhoushan tabrakan karang tenggelam, sekitar 1500 orang di atasnya tewas, Li Haomin di antaranya.
-
-> **Kejadian Kapal Taiping (27 Januari 1949)** adalah salah satu bencana laut paling tragis dalam sejarah migrasi daratan Tiongkok. Kapal kelebihan muatan, malam hari tidak menyalakan lampu pelayaran, tabrak kapal kargo lalu tenggelam dalam kurang dari dua jam. Puluhan tahun kemudian, hampir setiap kisah keluarga "ke Taiwan 1949" di Taiwan, menyimpan celah serupa.
-
-Usai ayah meninggal keluarga jatuh miskin, Henry Lee kemudian berkata, kalimat ibu "meski miskin, harus bersih-bersih" diingat seumur hidup. Untuk hemat biaya kuliah, ia mendaftar ke Akademi Kepolisian Pusat biaya negara (sekarang Universitas Polisi Pusat), 1960 lulus Sarjana Hukum. Lulus masuk Dinas Kepolisian Pemerintah Kota Taipei, berusia 22 tahun naik jadi Kepala Kepolisian, mencatat rekor termuda dalam sejarah Taiwan.
-
-1964, ia bawa tabungan ke AS. Dulu kuliah Ilmu Kriminal di John Jay College of Criminal Justice Universitas Kota New York, lalu terus ke doktorat Biokimia Universitas New York, lulus 1975. Tahun itu mulai mengajar di Universitas New Haven, dari ruang kelas kecil hanya berisi satu set alat pengambilan sidik jari, langkah demi langkah membangun "Institut Forensik Henry Lee" yang kemudian dinamai dari namanya.
-
-1979, ia menjabat Kepala Laboratorium Forensik Negara Connecticut sekaligus Ahli Forensik Utama, serta Profesor Tetap Universitas New Haven. Posisi ini dipegang 20 tahun hingga 2000, dalam dua dekade itu, Henry Lee menjadi ilmuwan kriminal keturunan Tionghoa paling dikenal global.
+Nama Henry Lee mulai dikenang sejak saat itu.
 
 ---
 
-## Mesin Penghancur Kayu, Simpson, dan 319
+## Dari Kapal Taiping hingga New Haven
+
+Henry Lee lahir pada 1938, dari keluarga pedagang garam di Rugao, Jiangsu, dengan tiga belas kakak-adik, dia adalah anak ke-sebelas. Pada 1949, pada usia sebelas tahun, dia meninggalkan Shanghai bersama ibunya Wang Shu-chen (王淑貞) menuju Taiwan. Ayahnya, Li Hao-min (李浩民), tidak bisa meninggalkan: pada bulan Januari tahun itu, kapal Taiping kandas di dekat kepulauan Zhoushan, sekitar seribu lima ratus penumpang tewas, Li Hao-min termasuk di antara mereka.
+
+> **Peristiwa Kapal Taiping (27 Januari 1949)** adalah salah satu bencana laut paling tragis dalam sejarah migrasi daratan Tiongkok. Kapal itu kelebihan penumpang, lampu navigasi tidak menyala pada malam hari, bertabrakan dengan kapal kargo dan tenggelam dalam waktu kurang dari dua jam. Selama beberapa dekade berikutnya, hampir setiap kisah keluarga Taiwan yang "bermigrasi pada 1949" menyimpan celah serupa.
+
+Setelah ayah meninggal, keadaan keluarga memburuk. Henry Lee kemudian bercerita bahwa perkataan ibunya, "walaupun miskin, kita harus tetap bersih," teringat seumur hidupnya. Untuk menghemat biaya sekolah, dia mendaftar ke Akademi Polisi Pusat dengan beasiswa publik (kini Universitas Polisi Pusat), meraih gelar sarjana hukum pada 1960. Setelah lulus, dia bergabung dengan Biro Polisi Kota Taipei, dan pada usia hanya 22 tahun dipromosikan menjadi komandan polisi—rekor termuda dalam sejarah Taiwan.
+
+Pada 1964, dengan tabungannya sendiri, dia pindah ke Amerika. Awalnya belajar ilmu pidana di Akademi Peradilan Pidana John Jay di Universitas Kota New York, kemudian melanjutkan hingga gelar doktor biokimia di Universitas New York, lulus pada 1975. Tahun itu juga dia bergabung dengan Universitas New Haven sebagai pengajar, membangun dari satu ruang kelas kecil dengan hanya satu perangkat pengumpul sidik jari, hingga akhirnya membentuk "Institut Forensik Lee Henry" yang kemudian dinamai menurut namanya.
+
+Pada 1979, dia menjabat sebagai direktur laboratorium forensik negara bagian Connecticut dan ahli forensik utama, sekaligus profesor dengan posisi tetap di Universitas New Haven. Posisi ini dia pertahankan sampai 2000, dan dalam dua puluh tahun tersebut, Henry Lee menjadi ilmuwan pidana Taiwan-Amerika paling dikenal di dunia.
+
+---
+
+## Pencuci Daging, Simpson, dan 319
 
 **Kasus Helle Crafts (1986–1987)**
 
-Ini kasus yang membuat nama Henry Lee tenar di dunia forensik AS. Suami Helle, pilot Eastern Airlines Richard Crafts, malam musim dingin menghancurkan mayat istrinya lewat mesin penghancur kayu. Henry Lee memimpin tim di tepi sungai bersalju, menyaring 2660 potongan rambut, 87 keping tulang, 1 potong kuku panjang 5 cm, serta beberapa ratus gram lemak tubuh. Potongan-potongan itu akhirnya dibawa ke pengadilan, juri vonis Richard Crafts bersalah pembunuhan tanpa mayat utuh, menetapkan preseden hukum "tanpa mayat pun bisa divonis".
+Inilah kasus yang membuat reputasi Henry Lee bersinar di kalangan forensik Amerika. Suami Helle, pilot Eastern Airlines Richard Crafts, mencincang mayat istrinya menggunakan mesin pencuci kayu pada malam musim dingin. Tim yang dipimpin Henry Lee menyisir tepi sungai bersalju, mengumpulkan 2.660 potongan rambut, 87 fragmen tulang, 1 segmen kuku sepanjang 5 sentimeter, dan ratusan gram lemak tubuh manusia. Potongan-potongan ini akhirnya dibawa ke pengadilan, di mana juri, tanpa adanya mayat utuh, menyatakan Crafts bersalah—menetapkan preseden hukum "dapat dihukum tanpa mayat lengkap."
 
-Ia sendiri kemudian merangkum dengan satu metafora: "Ada yang bandingkan saya dengan Holmes atau Charlie Chan, tapi itu tokoh fiksi. Di dunia nyata, ilmuwan, penyidik, dan publik harus bekerja sama... di antara kita tidak ada jeda iklan."
+Dia sendiri kemudian merangkum pengalaman dengan analogi: "Beberapa orang membandingkan saya dengan Sherlock Holmes atau Charlie Chan, tetapi itu semua karakter fiksi. Dalam kenyataan, ilmuwan, detektif, dan publik harus bekerja sama... tidak ada break komersial di antara kami."
 
 **Kasus Simpson (1995)**
 
-1995, bintang NFL O.J. Simpson dituding bunuh mantan istri Nicole dan temannya Ronald Goldman. Henry Lee hadir sebagai saksi pembela, menantang prosedur penanganan bukti darah jaksa penuntut. Di sidang ia menunjuk, pengambilan dan penyimpanan bukti darah di tempat kejadian perceraian (TKP) memiliki celah serius, menampilkan foto TKP, menunjuk "jenis jejak tekanan tertentu", bermaksud bukti tidak dijaga baik, berpotensi tercemar. Simpson akhirnya dibebas vonis tidak bersalah. Pengadilan ini membuat nama Henry Lee dikenal global, juga membuat istilah "ilmu forensik" pertama kali masuk kosakata jutaan penonton TV.
+Pada 1995, bintang NFL O.J. Simpson dituduh membunuh mantan istri Nicole dan teman lalainya Ronald Goldman. Henry Lee hadir sebagai saksi pertahanan, menantang prosedur penanganan darah dari pihak penuntut. Di pengadilan, dia menunjukkan bahwa pengumpulan dan penyimpanan darah di lokasi kejadian mengandung celah serius, menampilkan foto-foto adegan kejahatan, menunjukkan "semacam jejak impressif," untuk menunjukkan bahwa bukti disimpan dengan tidak baik dan mungkin terkontaminasi. Simpson akhirnya dilepaskan dengan putusan tidak terbukti bersalah. Persidangan ini membawa nama Henry Lee ke seluruh dunia, dan membuat kata "forensik" masuk pertama kali ke kosakata jutaan penonton televisi.
 
-📝 **Pedang Bermata Dua Forensik** Kasus Simpson sekaligus mengukir nama Henry Lee, dan menanam benih kritik di masa depan: seorang ahli yang cukup hebat, bisa membuat cerita pihak manapun kedengarannya seperti kenyataan.
+📝 **Pisau bermata dua forensik** Kasus Simpson tidak hanya membangun reputasi Henry Lee, tetapi juga meninggalkan benih kritik di kemudian hari: seorang ahli yang cukup mahir dapat membuat cerita mana pun terdengar benar bagi kedua belah pihak.
 
-**Kasus Tembakan 319 (2004)**
+**Insiden Penembakan 319 (2004)**
 
-19 Maret 2004, sehari sebelum pemilu presiden Taiwan, Presiden [Chen Shui-bian](/id/people/chen-shui-bian-controversial-president/) dan Wakil Presiden [Annette Lu](/id/people/annette-lu/) saat berkampanye di Tainan ditembak, keduanya luka ringan. Besoknya pemilu, Chen Shui-bian menang tipis sekitar 30 ribu suara. Koalisi Biru menolak hasil, meminta ahli forensik internasional campur tangan.
+Pada 19 Maret 2004, sehari sebelum pemilihan presiden Taiwan, Presiden [Chen Shui-bian](/id/people/chen-shui-bian-controversial-president/) dan Wakil Presiden [Annette Lu](/id/people/annette-lu/) ditembak saat mengadakan kampanye jalanan di Tainan, keduanya terluka ringan. Pada hari pemilihan berikutnya, Chen Shui-bian terpilih kembali dengan selisih sekitar tiga puluh ribu suara. Koalisi pan-Biru menolak menerima hasil dan menuntut campur tangan ahli forensik internasional.
 
-Henry Lee memimpin tiga ahli balistik dan kriminal AS ke Taiwan, melakukan "rekonstruksi balistik bergerak", menganalisis struktur peluru dan jejak alat. Kesimpulan forensiknya mendukung teori "satu peluru dua luka", dari kondisi fisika menilai tembakan memang mungkin terjadi. Namun DPP saat itu menuding, Henry Lee menjabat Ketua Dewan Dukungan Kampanye Lien-Soen di Amerika Utara, mempertanyakan netralitasnya. Kasus kemudian ditutup Kejaksaan Negeri Tainan, menetapkan pelaku adalah Chen Yi-hsiung yang sudah bunuh diri, tapi kontroversi politik berlarut-lahun. Peran Henry Lee di sana, menyediakan analisis balistik fisik, kesimpulan forensiknya sendiri tidak dibantah investigasi lanjutan.
+Henry Lee memimpin tim tiga ahli Amerika dalam balistik dan kejahatan, melakukan "rekonstruksi balistik bergerak," menganalisis struktur selongsong dan jejak alat. Kesimpulan forensiknya mendukung teori "satu peluru dua luka," berdasarkan kondisi fisik, insiden penembakan memang mungkin terjadi. Tetapi Partai Progresif Demokratik pada waktu itu menunjukkan bahwa Henry Lee menjabat sebagai ketua komite dukungan kampanye Lien-Soong di Amerika Utara, menyangsikan objektivitasnya. Kasus ini kemudian ditutup oleh Kantor Kejaksaan Kota Tainan, menentukan tersangka adalah Chen Yi-xiong (陳義雄) yang telah bunuh diri, namun kontroversi politiknya terus berlanjut selama bertahun-tahun. Peran Henry Lee di dalamnya adalah memberikan analisis balistik fisika—kesimpulannya dalam forensik tidak pernah ditolak oleh penyelidikan kemudian.
 
 ---
 
-## 1985, Sehelai Handuk
+## 1985, Sebuah Handuk
 
-1 Desember 1985, Kota New Milford, Connecticut, Everett Carr berusia 65 tahun dibunuh di rumahnya: 27 tusukan, tenggorokan terpotong, 7 kali pukulan benda tumpul.
+Pada 1 Desember 1985, di kota Newmilford, negara bagian Connecticut, Everett Carr berusia 65 tahun dibunuh di rumahnya: 27 luka tusukan, tenggorokan terpotong, tujuh pukulan benda tumpul berat.
 
-Polisi menangkap dua remaja: Shawn Henning 17 tahun dan Ralph "Ricky" Birch 18 tahun. Masalahnya, TKP ada 40+ sidik jari, tidak satu pun cocok keduanya; pakaian dan mobil keduanya, tidak ditemukan noda darah sama sekali.
+Polisi menangkap dua remaja: Shawn Henning berusia 17 tahun dan Ralph "Ricky" Birch berusia 18 tahun. Masalahnya adalah, di tempat kejadian ada lebih dari 40 sidik jari, tidak satupun cocok dengan keduanya; tidak ada darah ditemukan di pakaian mereka atau di mobil mereka.
 
-Sidang 1989, Henry Lee yang belum terlalu dikenal hadir bersaksi, mengemukakan dua hal: pelaku di TKP begitu berdarah tetap mungkin tidak meninggalkan noda darah; serta sehelai handuk ditemukan di kamar mandi Carr, ia tes dan "menunjukkan reaksi sesuai darah". Juri vonis bersalah. Henning nanti bebas bersyarat, Birch baru bebas 2019 usai menjalani lebih dari 30 tahun penjara, lalu digugat ulang.
+Dalam persidangan 1989, pada waktu itu Henry Lee belum terkenal, dia bersaksi dengan dua poin: pembunuh mungkin tidak meninggalkan darah di lokasi kejadian yang berdarah seperti itu; dan handuk yang ditemukan di kamar mandi Carr, setelah dia uji, "menunjukkan reaksi yang konsisten dengan darah." Juri menjatuhkan vonis bersalah. Henning kemudian mendapat pembebasan bersyarat, tetapi Birch tetap di penjara lebih dari tiga puluh tahun, hingga 2019 baru dilepaskan untuk pengadilan ulang.
 
-Kemudian, ahli lain tes ulang handuk itu: bukan darah.
+Kemudian, ahli lain menguji ulang handuk itu: bukan darah.
 
-2020, vonis bersalah keduanya dicabut. Keduanya segera gugat sivil federal, tergugat termasuk Henry Lee, 8 penyidik, dan Kota New Milford.
+Pada 2020, vonis bersalah kedua pria dicabut. Keduanya kemudian mengajukan gugatan sipil federal, daftar tergugat mencakup Henry Lee, delapan detektif polisi, dan kota Newmilford.
 
-22 Juli 2023, Hakim Federal Victor Bolden memutus, Henry Lee bertanggung jawab hukum atas pemalsuan bukti. Dikti hakim tegas: "Kecuali klaim ia melakukan tes, catatan tidak ada bukti tes pernah dilakukan. Faktanya, ahli Henry Lee sendiri menyimpulkan, tidak ada catatan tertulis atau foto yang membuktikan ia melakukan tes darah TMB. Dan catatan menunjukkan, tes yang sebenarnya dilakukan tidak menunjukkan keberadaan darah."
+Pada 22 Juli 2023, hakim federal Victor Bolden memutuskan bahwa Henry Lee bertanggung jawab secara hukum atas pemalsuan bukti. Bahasa putusan hakim sangat jelas: "Selain klaim bahwa dia melakukan pengujian, tidak ada bukti dalam catatan bahwa pengujian pernah dilakukan. Bahkan, para ahli Henry Lee sendiri menyimpulkan bahwa tidak ada catatan tertulis atau foto yang dapat membuktikan dia melakukan tes TMB darah. Dan ada bukti dalam catatan menunjukkan pengujian yang benar-benar dilakukan tidak menunjukkan kehadiran darah."
 
-Negara bagian Connecticut akhirnya sepakat damai 25 juta dolar dengan keduanya.
+Connecticut akhirnya berdamai dengan kedua pria dengan 25 juta dolar.
 
-Berita keluar, Henry Lee sangkal pemalsuan, pernyataan: "Dalam karir 57 tahun saya, saya menyelidiki lebih dari 8000 kasus, tidak pernah dituding perilaku tidak patut atau saksi palsu sengaja. Ini kasus pertama yang harus saya pertahankan." Versi lain ia jelaskan, darah mungkin terdegradasi selama 20 tahun, membuat tes kemudian tidak mendeteksi.
+Setelah berita tersebar, Henry Lee menyangkal pemalsuan, dalam pernyataannya mengatakan: "Dalam 57 tahun karir saya, saya telah menyelidiki lebih dari 8.000 kasus, tidak pernah dituduh tindakan keliru atau kesaksian palsu yang disengaja. Ini adalah kasus pertama yang harus saya pertahankan diri." Versi penjelasan lainnya adalah, darah mungkin telah mengalami degradasi selama dua puluh tahun, membuat pengujian kemudian tidak dapat mendeteksinya.
 
-📝 **Ironi "Biarkan Bukti Bicara"** Motto paling terkenal Henry Lee, puluhan tahun dikutip berulang: "Biarkan bukti bicara." Keputusan hakim federal menempel tanda tanya di samping motto itu. Sehelai handuk itu, pada akhirnya berkata apa?
+📝 **Ironi "Biarkan bukti berbicara"** Aforisme terkenal Henry Lee yang dia kutip berulang kali selama beberapa dekade adalah: "Biarkan bukti berbicara." Putusan hakim federal menempatkan tanda tanya di sebelah aforisme ini. Apa yang sebenarnya dikatakan handuk itu?
 
 ---
 
 ## Laboratorium DNA Taiwan, dan Sepasang Mata
 
-Kontribusi Henry Lee bagi forensik yudikatif Taiwan, dalam penilaian internal sistem kepolisian, bersifat konkret. 1993, ia membantu mewujudkan laboratorium DNA pertama di Pusat Kepolisian Kriminal (CID), membuat pengujian DNA resmi menjadi bagian prosedur pidana Taiwan. Ia juga berkali-kali kembali Taiwan bantu rekonstruksi TKP kasus-kasus terkenal, termasuk Kasus Liu Pang-yu, Kasus Peng Wan-ru, Kasus Bai Xiaoyan, serta Gejaman Penjara Kaohsiung 2015. Di kasus-kasus itu, ia memperkenalkan cara pengambilan bukti modern dan teknologi pelacakan bukti lintas yurisdiksi, memberikan transfer teknologi konkret bagi modernisasi sistem forensik Taiwan.
+Kontribusi Henry Lee terhadap forensik kriminal Taiwan dievaluasi dalam komunitas kepolisian dengan spesifik. Pada 1993, dia membantu mewujudkan pembentukan laboratorium DNA pertama di Biro Penyelidik Pidana Taiwan, membuat pengujian DNA menjadi bagian resmi dari prosedur pidana Taiwan. Dia juga berkali-kali kembali ke Taiwan untuk membantu merekonstruksi tempat kejadian kasus-kasus terkenal, termasuk kasus darah Liu Bang-you, kasus pembunuhan Peng Wan-ru, kasus pembunuhan Bai Xiao-yan, dan insiden sandera Penjara Kaohsiung 2015. Dalam kasus-kasus ini, metode analisis bukti modern yang dia perkenalkan dan teknik pelacakan bukti lintas yurisdiksi memberikan transfer teknologi konkret untuk modernisasi sistem forensik Taiwan.
 
-Seumur hidup ia menulis lebih dari 40 buku ahli, menerima 30+ gelar kehormatan, lama-lama menyumbangkan seluruh penghasilan pidato untuk pendidikan. Beberapa hari sebelum meninggal, ia masih menyelesaikan buku tentang investigasi orang hilang, keluarga menyatakan buku itu tetap rencananya diterbitkan.
+Dia menulis lebih dari 40 buku profesional, menerima lebih dari 30 gelar kehormatan, lama bekerja menyumbangkan semua pendapatan ceramahnya untuk mendukung pendidikan. Beberapa hari sebelum kematian, dia masih menyelesaikan buku tentang penyelidikan orang hilang, anggota keluarga mengatakan buku ini masih akan diterbitkan.
 
-2014, saat wawancara ia berkata, setelah mati ingin menyumbangkan semua organ, hanya mempertahankan mata: "Karena seumur hidup saya mengandalkan sepasang mata ini untuk makan."
+Pada 2014, dalam sebuah wawancara, dia mengatakan bahwa setelah kematian ingin mendonasikan semua organ, hanya menyimpan mata: "Karena sepanjang hidup saya, saya hidup dari sepasang mata ini."
 
-November 2025, didiagnosis tumor otak. 27 Maret 2026, Henry Lee di rumahnya di Henderson, Nevada, pergi dengan tenang. Sesuai wasiatnya, tidak ada upacara duka publik, keluarga menyediakan buku tamu daring, untuk semua pihak menyampaikan duka cita.
-
----
-
-## Bacaan Lanjutan
-
-[Chen Shui-bian](/id/people/chen-shui-bian-controversial-president/) dan [Terraor Putih Taiwan](/id/history/taiwan-white-terror/) memberikan dua perspektif berbeda memahami latar belakang yustisia pidana Taiwan. Jika ingin memahami konteks sejarah ke Taiwan 1949, [Pemindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang](zh only — convert to plain text + Chinese parenthesis) adalah titik awal. [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization/) mencatat evolusi yudikatif Taiwan dari otoriter ke supremasi hukum, Henry Lee di dalamnya menyaksikan dan berpartisipasi pada segmen modernisasi ilmu forensik.
+Pada November 2025, dia didiagnosis mengalami tumor otak. Pada 27 Maret 2026, Henry Lee meninggal dengan damai di rumahnya di Henderson, Nevada. Sesuai keinginan terakhirnya, tidak diadakan upacara duka cita publik, keluarga menyediakan papan pesan online sebagai gantinya, untuk memungkinkan publik mengungkapkan belasungkawa.
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Henry Lee obituary — ABC News（2026-03-28）](https://abcnews.go.com/US/wireStory/henry-lee-famed-forensic-scientist-testified-oj-simpson-131488851)
-- [Judge finds Henry Lee liable for fabricating evidence — AP News（2023-07-22）](https://apnews.com/article/henry-lee-fabricated-murder-evidence-ef08de1e15148b3d48129ead10924009)
-- [Connecticut $25m settlement — The Guardian（2023-09-20）](https://www.theguardian.com/us-news/2023/sep/20/connecticut-settlement-wrongful-conviction-henry-lee-evidence)
-- [Pernyataan Duka Kepolisian — UDN（2026-03-28）](https://udn.com/news/story/7314/9408695)
-- [Detektif Dewa Henry Lee Meninggal — Storm Media（2026-03-27）](https://www.storm.mg/article/11115554)
-- [Entri Henry Lee — Wikipedia Bahasa Tiongkok](https://zh.wikipedia.org/wiki/李昌鈺)
-- [Entri Insiden Tembakan 319 — Wikipedia Bahasa Tiongkok](https://zh.wikipedia.org/wiki/三一九槍擊案)
+[Chen Shui-bian](/id/people/chen-shui-bian-controversial-president/) dan [Teror Putih Taiwan](/id/history/taiwan-white-terror/) menyediakan dua perspektif berbeda untuk memahami latar belakang peradilan pidana Taiwan. Untuk memahami konteks sejarah migrasi 1949, [Relokasi Pemerintah Nasionalis dan Rekonstruksi Pascaperang](/id/history/kmt-government-relocation-and-postwar-reconstruction/) adalah titik awal. [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization/) mencatat evolusi peradilan Taiwan dari otoritarianisme menuju pemerintahan hukum, di mana Henry Lee menjadi saksi dan peserta dalam modernisasi forensik.
+
+---
+
+## Bacaan Lanjutan
+
+- [Henry Lee obituary — ABC News (28-03-2026)](https://abcnews.go.com/US/wireStory/henry-lee-famed-forensic-scientist-testified-oj-simpson-131488851)
+- [Judge finds Henry Lee liable for fabricating evidence — AP News (22-07-2023)](https://apnews.com/article/henry-lee-fabricated-murder-evidence-ef08de1e15148b3d48129ead10924009)
+- [Connecticut $25m settlement — The Guardian (20-09-2023)](https://www.theguardian.com/us-news/2023/sep/20/connecticut-settlement-wrongful-conviction-henry-lee-evidence)
+- [警政署悼念聲明 — 聯合新聞網 (28-03-2026)](https://udn.com/news/story/7314/9408695)
+- [神探李昌鈺辭世 — 風傳媒 (27-03-2026)](https://www.storm.mg/article/11115554)
+- [李昌鈺條目 — 中文維基百科](https://zh.wikipedia.org/wiki/李昌鈺)
+- [三一九槍擊案條目 — 中文維基百科](https://zh.wikipedia.org/wiki/三一九槍擊案)
+
+---

@@ -1,0 +1,22 @@
+{
+  "revision": 33,
+  "submissionId": "ca0fb353-67c3-419b-a2af-5a6619a1f8df",
+  "actor": "guide_investigate_reviewer_3 (Sonnet sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "python diff 確認 v4 相對 v3 只動了 claims[11]（claim #12 內文＋location 補註）與 changedMind 末段的 v4 註記，claims[0..10]／counterEvidence／searchLimits 逐項 identical，改動範圍符合聲明。核對研究報告 §11 第 3 條修正後文字：『§8.A 逐週表 6/20、6/27、7/4、7/11 四週，中油自己那欄吸收為 0（前三週為降價週、7/11 週不調整），7/18 那週吸收 0.3／1.1，累計數卻由 177→172.6→167.1→160.7→155.6』，逐格對照 §8.A 表格行501-505：6/20/6/27/7/4三列『實際調整』欄確實是降價（各-1.0/-0.7、-1.0/-0.8、-0.6/-0.7）且『亞鄰＋專案平穩吸收』欄確實0/0；7/11列『實際調整』確實寫『不調整』且該欄0/0；7/18列『實際調整』同為不調整但『亞鄰＋專案平穩吸收』欄確實是0.3/1.1——與新敘述完全吻合，v3 評閱抓到的『五週吸收0』誤寫已正確改為『四週吸收0＋第五週0.3/1.1』，未引入新的不一致。investigate claim #12 內文與 location 欄同步更新（location 新增『第五列中油欄0.3／1.1』註記），support 欄『逐字一致』現在對這條claim站得住；doesNotSupport 四項本輪未動，內容仍正確區分『官方未寫』與機制推測，未見退步。§11 其餘七條本輪未變動，沿用 v3 已核對通過的結論。修正完整、準確，予以放行。",
+  "contextDisclosure": "investigate-inputs-reread",
+  "evidence": [
+    {
+      "path": "reports/staging/oil-price/run/investigate-submission-v4.json",
+      "location": "data.claims[11]（claim #12 修正後內文與 location 欄）+ data.changedMind 末段（v4 註記）"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§11 第 3 條（行1187，修正後文字含「四週」）；§8.A 逐週資料表 2026-06-20至2026-07-18五列（行501-505）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/investigate-review-v4.md",
+      "location": "全文，含 diff 範圍確認、§11第3條逐格核對表、claim #12 複核"
+    }
+  ]
+}

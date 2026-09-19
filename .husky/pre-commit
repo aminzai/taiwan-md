@@ -46,18 +46,17 @@ staged_files=$(git diff --cached --name-only)
 # 原本只在檔案末段的憑證掃描前才賦值，那個 check 因此永遠拿到空字串。
 staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACMR 2>/dev/null || true)
 
-# ═══ REWRITE-PIPELINE 單檔閱讀版新鮮度（2026-09-05 v9 SSOT 拍板）═══
-# docs/pipelines/REWRITE-PIPELINE-單檔案型完整流程.md 已改為工具生成（不再手
-# 改），來源是 REWRITE-PIPELINE.md 薄索引 + 所有 REWRITE-STAGE-*.md contract。
-# 動到任一來源檔卻沒重新生成，閱讀版會跟 v9 SSOT 漂移——跟舊版 v8.0 手寫單
-# 檔各自演化到內容對不上的老問題同源，這道 gate 防止它重演。
-if echo "$staged_any" | grep -qE '^docs/pipelines/(REWRITE-PIPELINE(-單檔案型完整流程)?\.md|REWRITE-STAGE-[^/]+\.md)$'; then
-  if ! python3 scripts/tools/build-rewrite-single-file.py --check; then
+# ═══ REWRITE-PIPELINE-SINGLE 行數帽（2026-09-19 整併工單 §三）═══
+# 單檔型是現行 canonical。v6.7→v9.9 的 87 個 commit 每段都是一次錯誤換來的，
+# 沒有准入條件就單向長。帽 2,300：要加 N 行先砍 N 行。錯誤修儀器不修句子
+# （§四 規則准入），悶才進規則，且只從讀者 callout 進。
+if echo "$staged_any" | grep -qx 'docs/pipelines/REWRITE-PIPELINE-SINGLE.md'; then
+  single_lines=$(git show :docs/pipelines/REWRITE-PIPELINE-SINGLE.md | wc -l | tr -d ' ')
+  if [ "$single_lines" -gt 2300 ]; then
     echo ""
-    echo "💡 REWRITE-PIPELINE 單檔閱讀版過期"
-    echo "   重跑：python3 scripts/tools/build-rewrite-single-file.py"
-    echo "   然後：git add docs/pipelines/REWRITE-PIPELINE-單檔案型完整流程.md"
-    echo "   跳過此檢查（緊急修復）：git commit --no-verify"
+    echo "❌ REWRITE-PIPELINE-SINGLE.md 現在 ${single_lines} 行，帽是 2,300"
+    echo "   先砍再加：要加 N 行先砍 N 行（reports/staging/rewrite-consolidation-brief-2026-09-19.md §三）"
+    echo "   錯誤 → 修儀器（article-health / FACTCHECK），不新增 pipeline 段落"
     exit 1
   fi
 fi
@@ -80,6 +79,11 @@ if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
 fi
 if echo "$staged_files" | grep -q "^docs/semiont/DIARY.md$"; then
   python3 scripts/tools/memory-index-lint.py --diary || exit 1
+fi
+# OBSERVER-QUEUE §待決 每列要帶預設選項與 default-action（2026-09-18，黃燈起步只 WARN）：
+# 六列只有分析沒有選項在佇列裡躺了八天，一條自主權內的單檔勘誤混在十七條 🔒 之間沒人看出來。
+if echo "$staged_files" | grep -q "^docs/semiont/OBSERVER-QUEUE.md$"; then
+  python3 scripts/tools/observer-queue-lint.py || true
 fi
 
 # ═══ translatedFrom 強制檢查（2026-04-14 η 新增）═══

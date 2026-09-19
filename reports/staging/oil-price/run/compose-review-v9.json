@@ -1,0 +1,26 @@
+{
+  "revision": 63,
+  "submissionId": "ba691ae2-adc6-4e72-ac11-61146c0be90c",
+  "actor": "guide_compose_reviewer (Opus sub-agent, fresh context)",
+  "verdict": "accept",
+  "rationale": "release 站兩處更正都核過：s7「補貼跟增資那 4,147.69 億」對 s6 拆解 1,809.35＋2,338.34＝4,147.69，原 4,217.69 含 70 億馬太鞍溪防汛，正文與 tw-bars 自己就拆過；s1「隔天零時它就要站上 32.2 元」對研究報告 §6.1 #7 逐週牌價（3/16 週 30.4、3/23 週 32.2），3/22 晚的場景原句「已經站上」是錯的，改後與同段「隔天零時的那一刀」呼應。diff 只有這兩句，沒有新腳註、新人名；article-health rewrite-stage-4 與全掃 hard=0 warn=0，prose-health 1。不擋建議：s7 該句可補掛 [^32]（4,147.69 是經濟部稿兩筆相加，[^31] 是行政院稿）。",
+  "contextDisclosure": "compose-inputs-reread",
+  "evidence": [
+    {
+      "path": "knowledge/Economy/台灣油價機制與中油.md",
+      "location": "H2「日本補業者、香港補的士、台灣讓中油先扛」第 3 段「補貼跟增資那 4,147.69 億」；H2「六千億裡」經濟部 4,217.69 拆解段與 tw-bars；H2「週日晚上八點半」第二段「隔天零時它就要站上 32.2 元」"
+    },
+    {
+      "path": "reports/research/2026-09/台灣油價機制與中油.md",
+      "location": "§6.1 #7（3/23 週 95 無鉛 32.2）、#11（1,809.35＋2,338.34＋70＝4,217.69）"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-submission-v9.json",
+      "location": "data.editorialChoices 末段 v9"
+    },
+    {
+      "path": "reports/staging/oil-price/run/compose-review-v9.md",
+      "location": "全文"
+    }
+  ]
+}

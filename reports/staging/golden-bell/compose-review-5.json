@@ -1,0 +1,25 @@
+{
+  "revision": 36,
+  "submissionId": "14024c9c-0635-4786-b0f9-04bac82983bf",
+  "actor": "compose 站評閱編輯（Sonnet，Agent aba7455ab923815c8；contextDisclosure: prior-reviewer-delta-reread，第四次 delta）",
+  "verdict": "accept",
+  "rationale": "三處都核實過。(1) curl 維基第 45 屆金鐘獎頁確認情義月光有得獎圖示、欄位「製作公司：永續傳播有限公司／電視公司：大愛電視」與 [^41] 描述相符；curl 戲劇節目獎得獎列表頁確認 2002 別來無恙儲存格標記得獎，與 [^2] 一致。(2) curl 自由娛樂原文確認「對此，王一明直言：『金鐘獎的意義在於鼓勵，不是在於沒收。』」是報導直接引述獲推薦者本人，改寫後與來源相符，全文 grep「王一明」為 0，Stage 2 護欄仍守住。(3) [^45] 新描述與源文相符。footnote used=70/defs=70 無孤兒，無後台洩漏。",
+  "evidence": [
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L65（2002 別來無恙／2010 情義月光補句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L316（[^41] 定義）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L149（廣播人本人直引句）"
+    },
+    {
+      "path": "knowledge/Culture/金鐘獎.md",
+      "location": "L323（[^45] 描述更新）"
+    }
+  ]
+}

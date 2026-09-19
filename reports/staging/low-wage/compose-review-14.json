@@ -1,0 +1,18 @@
+{
+  "revision": 82,
+  "submissionId": "2e857c5f-21d6-4e9d-a1e3-9e9093adafc8",
+  "actor": "compose-reviewer-14 (Sonnet agent aea6e2e710809c54f, fresh context, read diff + §3/§4/§7/末節 + 腳註 3 + 113 新聞稿 L376-384)",
+  "verdict": "accept",
+  "rationale": "新三句拆解正確且與第四節一致（移工隨最低工資調整、家庭看護工不適用勞基法、第 3 條只及勞基法勞工）；「不在共用分母裡」與分母定義相符；第三節收尾刪重複後仍承接；腳註 3 補述與一手逐字相符；正文「兩欄之間」只剩結尾一次（description 另有一次屬 metadata）。",
+  "evidence": [
+    {
+      "path": "knowledge/Society/誰算低薪.md",
+      "location": "L269；L121-123；L104；L226；L292"
+    },
+    {
+      "path": "reports/research/2026-09/誰算低薪-raw/113-新聞稿.txt",
+      "location": "L376-384"
+    }
+  ],
+  "contextDisclosure": "fresh-context-inputs-only"
+}

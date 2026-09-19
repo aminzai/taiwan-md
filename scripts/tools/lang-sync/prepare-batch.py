@@ -98,7 +98,15 @@ def lookup_wikilink_target(target_zh, en_translations_idx):
     for c in candidates:
         en = en_translations_idx.get(c)
         if en:
-            return "/" + en.replace(".md", "/")
+            # 檔案系統路徑是 `hi/People/wu-bao-chun.md`，站上網址是
+            # `/hi/people/wu-bao-chun/`——分類段小寫。直接把路徑當網址會發出
+            # `/hi/People/...`，在 case-sensitive 主機（Cloudflare Pages）上是 404，
+            # 而本機 macOS 檔案系統不分大小寫，開發時完全看不出來。
+            # 2026-09-09：這支函式發出的目標被 agent 忠實照抄，是全庫大寫死連結的源頭。
+            parts = en.replace(".md", "").split("/")
+            if len(parts) >= 2:
+                parts[1] = parts[1].lower()      # 分類段
+            return "/" + "/".join(parts) + "/"
     return None
 
 

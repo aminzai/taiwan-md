@@ -1,6 +1,6 @@
 ---
-title: 'Semangat Sumber Terbuka Taiwan—Para Insinyur yang Mengubah Cinta Menjadi Energi'
-description: 'Proyek sumber terbuka paling berpengaruh di Taiwan bukanlah perangkat lunak, melainkan sekelompok insinyur yang mengatakan kepada pemerintah dalam acara hackathon: "Anda tidak bisa melakukannya, kami akan melakukannya."'
+title: 'Semangat Open Source Taiwan — Insinyur yang Berkarya karena Cinta, Bukan Gaji'
+description: 'Proyek open source paling berpengaruh di Taiwan bukan sebuah software, melainkan sekelompok insinyur yang berkata kepada pemerintah lewat hackathon: "Kalau kalian tidak becus, biar kami yang kerjakan."'
 date: 2026-03-29
 category: 'Technology'
 tags:
@@ -22,128 +22,126 @@ translatedFrom: 'Technology/台灣開源精神.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
 sourceBodyHash: 'sha256:98feb4bab36f053f'
-translatedAt: '2026-09-10T03:36:19+08:00'
+translatedAt: '2026-09-14T05:21:54+08:00'
 ---
 
-> Meskipun skala industri perangkat lunak Taiwan belum berada di jajaran teratas dunia, lebih dari 44.000 pengguna yang menandai Taiwan di GitHub; komunitas mengadakan lebih dari 70 hackathon secara kumulatif dengan ribuan kontributor—sebagian besar adalah pengembang individu yang mengerjakannya setelah jam kerja. Artikel ini tidak hanya membahas g0v, tetapi juga menyajikan peta lengkap budaya sumber terbuka Taiwan dari empat sudut pandang: manusia, komunitas, pendidikan, dan industri.
-
----
-
-## Hackathon yang Dipicu oleh Iklan
-
-Pada Oktober 2012, pemerintah pusat menayangkan iklan berdurasi 40 detik di televisi untuk mempromosikan "Rencana Peningkatan Dinamika Ekonomi." Isi iklannya hanya satu kalimat: "Rencana ini sangat kompleks dan tidak dapat dijelaskan dengan beberapa kata sederhana."
-
-Kaohsiung-Liang (clkao), lulusan Departemen Ilmu Komputer Universitas Nasional Taiwan, melihat iklan itu lalu membuka komputernya. Bersama beberapa temannya, ia berpartisipasi dalam Yahoo! Open Hack Day, mengubah topik secara mendadak, dan dalam tiga hari mereka membuat proyek "Visualisasi Anggaran Pemerintah Pusat," yang memenangkan penghargaan. Dua bulan kemudian, Kaohsiung-Liang mendaftarkan g0v.tw dan menyelenggarakan "Hackathon Mobilisasi Nol" menggunakan hadiah pemenang tersebut.
-
-Penamaan g0v adalah mengganti huruf 'o' pada _gov_ (pemerintah) menjadi angka 0. Maknanya sangat lugas: Anda tidak bisa melakukannya, kami akan melakukannya.
-
-Ini bukan organisasi. g0v tidak memiliki kantor, dewan direksi, atau karyawan penuh waktu. Ini adalah komunitas terdesentralisasi yang dipertahankan melalui hackathon dua bulanan. Hingga akhir tahun 2025, lebih dari 70 hackathon telah diadakan, dengan lebih dari 8.000 anggota di Slack dan lebih dari 4.500 catatan kolaboratif di HackMD.
+> Skala industri software Taiwan memang tidak masuk jajaran dunia kelas satu, tapi pengguna GitHub yang menandai dirinya Taiwan sudah lebih dari 44.000 orang, hackathon komunitas terkumpul lebih dari 70 kali dengan ribuan kontributor — hampir semuanya pengembang individu yang merogoh kantong sendiri sepulang kerja. Artikel ini tidak cuma bicara soal g0v, tapi merangkai peta lengkap budaya open source Taiwan dari empat sudut: manusia, komunitas, pendidikan, dan industri.
 
 ---
 
-## 100 Aplikasi dalam 72 Jam
+## Hackathon yang Dipicu Sebuah Iklan
 
-Momen paling dikenal secara internasional bagi g0v adalah pada tahun 2020.
+Oktober 2012, Yuan Eksekutif menayangkan iklan televisi 40 detik untuk mempromosikan "Program Pendorong Dinamika Ekonomi". Isi iklannya cuma satu kalimat: "Program ini memang rumit sekali, tidak bisa dijelaskan dengan beberapa kalimat sederhana."
 
-Pada awal pandemi COVID-19, Taiwan menerapkan sistem pelacakan identitas masker. Kementerian Kesehatan merilis API stok masker apotek, dan Joseph Wu (唐鳳) mengumumkan hal itu di saluran obrolan g0v. Dalam 72 jam berikutnya, komunitas pengembang Taiwan mengalami energi kolaboratif yang belum pernah terjadi sebelumnya: Jiang Ming-tsong (kiang) membuat peta lokasi masker apotek, Jarvis Lin membuat aplikasi Android, dan bot obrolan LINE juga diluncurkan pada hari yang sama.
+Kao Chia-liang (高嘉良, clkao), lulusan Teknik Informatika NTU, menonton iklan itu lalu langsung menyalakan komputernya. Bersama beberapa teman ia ikut Yahoo! Open Hack Day, dadakan ganti topik, dan dalam tiga hari menulis proyek "Visualisasi Anggaran Pemerintah Pusat" yang meraih honorable mention. Dua bulan kemudian, Kao mendaftarkan g0v.tw, memakai uang hadiahnya untuk menggelar "Hackathon Mobilisasi Darurat ke-Nol".
 
-Dalam seminggu, lebih dari 100 aplikasi terkait pencarian masker telah dibuat. Diperkirakan hampir seribu insinyur berpartisipasi dalam pengembangannya.
+Nama g0v adalah pelesetan gov (pemerintah) dengan huruf o diganti 0. Maknanya langsung: kalau kalian tidak becus, biar kami yang kerjakan.
 
-_Foreign Affairs_ menerbitkan artikel khusus berjudul _Civic Technology Can Help Stop a Pandemic_, menyatakan bahwa Taiwan menunjukkan jalan ketiga yang berbeda dari pengawasan ala Tiongkok dan raksasa teknologi Barat: inovasi demokratis yang didorong oleh teknologi sipil (_civic tech_). Laporan dari Fakultas Kedokteran Stanford mencatat 124 intervensi independen yang diterapkan Taiwan selama pandemi. NPR, MIT Technology Review, dan Harvard Business Review semuanya membuat laporan khusus tentang hal ini.
-
-Ini bukan jasa pemerintah, juga bukan semata-mata jasa Joseph Wu. Ini adalah hasil kerja sekelompok insinyur tanpa gaji yang mengerjakannya di akhir pekan.
+Ini bukan organisasi. g0v tidak punya kantor, tidak punya dewan direksi, tidak punya karyawan tetap. Ia adalah komunitas terdesentralisasi yang hidup lewat hackathon dua bulanan. Sampai akhir 2025, hackathon sudah digelar lebih dari 70 kali, ada lebih dari 8.000 anggota di Slack, dan lebih dari 4.500 catatan kolaborasi terkumpul di HackMD.
 
 ---
 
-## Sebelum Joseph Wu: Akar Sumber Terbuka Taiwan
+## 72 Jam, 100 Aplikasi
 
-Alasan mengapa g0v dapat terbentuk dengan cepat pada tahun 2012 adalah karena Taiwan sudah memiliki tanah subur sumber terbuka selama dua dekade.
+Momen g0v paling dikenal dunia internasional terjadi pada 2020.
 
-Joseph Wu (唐鳳) mulai belajar Perl pada usia 12 tahun dan berhenti sekolah untuk memulai bisnis pada usia 14 tahun. Sebelum memasuki ranah pemerintahan, ia telah meluncurkan lebih dari 100 proyek di CPAN (platform modul Perl), memimpin Pugs—versi yang dapat dijalankan pertama dari Perl 6 menggunakan Haskell—dan bersama dengan Dan Bricklin, ayah dari _spreadsheet_, mengembangkan EtherCalc. Ia adalah tokoh terkemuka yang diakui oleh komunitas Perl dan Haskell, pengaruhnya dalam lingkaran sumber terbuka internasional jauh lebih awal daripada karier politiknya.
+Di awal wabah COVID-19, Taiwan menerapkan sistem pembelian masker dengan kartu identitas. Kementerian Kesehatan dan Kesejahteraan merilis API terbuka untuk stok masker apotek, dan Menteri Digital saat itu, Audrey Tang (唐鳳), mengumumkannya di kanal chat g0v. 72 jam berikutnya, komunitas pengembang Taiwan meledak dengan energi kolaborasi yang belum pernah terjadi sebelumnya: Chiang Ming-chung (kiang) membuat peta stok masker apotek, Jarvis Lin membuat aplikasi Android, dan bot chat LINE juga rilis di hari yang sama.
 
-PCMan (洪任諭) adalah tokoh representatif lainnya. Ia adalah seorang dokter penyakit dalam yang belajar pemrograman sendiri saat SMA dan membuat perangkat lunak koneksi BBS bernama PCMan. Pada tahun 2006, ia meluncurkan proyek LXDE—lingkungan desktop Linux ringan. LXDE pernah menjadi lingkungan desktop arus utama dengan konsumsi memori terendah di dunia, digunakan oleh distribusi seperti Knoppix dan Lubuntu. Lingkungan desktop yang dibuat oleh seorang dokter Taiwan berjalan di perangkat keras Linux di seluruh dunia. PCMan kemudian bergabung dengan Google, tetapi kisah LXDE menunjukkan ciri khas kontributor sumber terbuka Taiwan: pekerjaan utamanya bukanlah perangkat lunak, melainkan proyek kelas internasional yang dikerjakan pada waktu luang.
+Dalam seminggu, aplikasi terkait pencarian masker sudah lebih dari 100. Insinyur yang ikut terlibat diperkirakan mendekati seribu orang.
 
-jserv (黃敬群) mengambil jalur yang berbeda. Ia terlibat dalam pengembangan perangkat lunak sistem di perusahaan seperti MediaTek dan Andes Technology, kemudian mengajar di Departemen Ilmu Komputer Universitas Nasional Tingkat Tinggi (National Taiwan University), membuka mata kuliah "Desain Kernel Linux"—satu-satunya mata kuliah universitas di Taiwan yang secara sistematis membedah kernel Linux terbaru. Mahasiswanya langsung mengirimkan _patch_ ke Linux, glibc, GCC, dan LLVM. Ia sering memberikan kuliah di COSCUP dan FOSDEM di Eropa. jserv mewakili kontributor "jenius," bukan upaya untuk menanamkan praktik sumber terbuka ke dalam sistem pendidikan.
+_Foreign Affairs_ menerbitkan artikel khusus berjudul _Civic Technology Can Help Stop a Pandemic_, menyebut Taiwan menunjukkan jalan ketiga yang berbeda dari pengawasan gaya Tiongkok maupun raksasa teknologi Barat: inovasi demokrasi yang digerakkan oleh teknologi sipil (civic tech). Laporan Sekolah Kedokteran Stanford mencatat 124 intervensi independen yang diterapkan Taiwan selama masa pandemi. NPR, MIT Technology Review, dan Harvard Business Review sama-sama menurunkan liputan khusus.
 
----
-
-## Ekosistem Komunitas: Lebih dari Sekadar COSCUP
-
-Kepadatan komunitas sumber terbuka Taiwan dianggap luar biasa di Asia.
-
-**COSCUP** (Conference for Open Source Coders, Users and Promoters) telah menjadi konferensi sumber terbuka terbesar di Taiwan sejak tahun 2006. Pada tahun 2024, partisipan melebihi 2.800 orang, dengan lebih dari 40 ruang komunitas yang mencakup topik seperti Kubernetes, PostgreSQL, Ruby, Python, dan Blockchain. Setiap ruang komunitas memiliki jadwal sekitar 6 jam yang dikurasi secara mandiri oleh masing-masing komunitas. COSCUP tidak memungut biaya tiket. Lebih dari seratus sukarelawan semuanya bekerja tanpa bayaran. Tahun 2025 adalah edisi ke-20 COSCUP.
-
-**SITCON** (Students' Information Technology Conference) dimulai pada tahun 2013, sepenuhnya digagas dan diorganisir oleh mahasiswa. Makna keberadaannya adalah: agar siswa SMA berusia 18 tahun melihat bahwa mereka tidak perlu menunggu lulus untuk berpartisipasi dalam sumber terbuka. SITCON mengadakan konferensi setiap Maret, serta HackGen semesteran, kamp musim panas, dan pertemuan dua mingguan.
-
-**PyCon TW** adalah konferensi komunitas Python yang mengumpulkan pengguna lintas disiplin ilmu dari Python. **MozTW** adalah komunitas sukarelawan Mozilla Taiwan, yang telah memelihara versi Mandarin Firefox sejak tahun 2004, menjalankan program duta kampus, dan tim penerjemah sulih suara. Ruang komunitas "Mozzie Workshop" di Taipei beroperasi dari tahun 2014 hingga 2023, didukung oleh donasi lokal setelah dukungan Mozilla berakhir.
-
-Komunitas-komunitas ini memiliki banyak interaksi silang. Seseorang mungkin sekaligus menjadi pembicara COSCUP, kontributor g0v, dan sukarelawan PyCon TW. Lingkaran sumber terbuka Taiwan kecil, tetapi padat.
+Ini bukan jasa pemerintah, dan bukan cuma jasa Audrey Tang. Ini adalah sekelompok insinyur tanpa gaji yang membuka laptop di akhir pekan.
 
 ---
 
-## Warisan dan Keretakan Sistem
+## Sebelum Audrey Tang: Akar Open Source Taiwan
 
-Taiwan pernah mencoba mendorong sumber terbuka melalui pemerintah.
+g0v bisa terbentuk secepat itu pada 2012 karena Taiwan sudah punya tanah open source yang disuburkan selama dua puluh tahun.
 
-Pada tahun 2003, Institute of Information Science di Academia Sinica didukung oleh Biro Industri Kementerian Ekonomi untuk mendirikan "Open Source Software Foundry" (OSSF). OSSF menyediakan hosting proyek, konsultasi hukum, dan promosi buletin, memelihara komunitas sumber terbuka lokal selama lebih dari sepuluh tahun. Pada tahun 2015, Kementerian Sains dan Teknologi memutuskan untuk tidak lagi memberikan subsidi, dan OSSF berhenti beroperasi, dengan situs web ditutup pada akhir tahun 2021.
+Audrey Tang belajar Perl sejak umur 12 tahun, putus sekolah dan mulai berwirausaha di umur 14. Sebelum masuk pemerintahan, ia menginisiasi lebih dari 100 proyek di CPAN (platform modul Perl), memimpin Pugs — versi pertama yang bisa jalan dari implementasi Perl 6 memakai Haskell — dan mengembangkan EtherCalc bersama Dan Bricklin, bapak spreadsheet. Ia diakui sebagai salah satu pemimpin komunitas Perl dan Haskell, dan pengaruhnya di dunia open source internasional jauh mendahului karier politiknya.
 
-Hilangnya OSSF tidak menyebabkan kemunduran aktivitas sumber terbuka di Taiwan—ini justru menunjukkan bahwa energi sumber terbuka Taiwan tidak pernah bergantung pada pemerintah. Yang benar-benar menopang ekosistem adalah "Open Culture Foundation" (OCF) yang didirikan pada tahun 2014. OCF didirikan bersama oleh beberapa komunitas sumber terbuka, dan merupakan badan nirlaba yang berfungsi sebagai manajer keuangan komunitas: membuat faktur untuk COSCUP, membantu proyek mengelola donasi, dan menyediakan konsultasi hukum lisensi sumber terbuka. OCF juga bekerja sama dengan AIT, Kedutaan Besar Inggris di Taiwan, dan Bank Dunia untuk mengekspor pengalaman teknologi sipil Taiwan ke internasional.
+Hong Jen-yu (洪任諭, PCMan) adalah sosok representatif lainnya. Ia dokter penyakit dalam yang belajar pemrograman otodidak sejak SMA dan menulis software koneksi BBS bernama PCMan. Tahun 2006 ia memulai proyek LXDE — lingkungan desktop Linux yang ringan. LXDE pernah menjadi lingkungan desktop mainstream dengan pemakaian memori paling rendah di dunia, dipakai oleh distro seperti Knoppix dan Lubuntu. Sebuah lingkungan desktop buatan dokter Taiwan, berjalan di mesin Linux di seluruh dunia. Hong kemudian bergabung dengan Google, tapi kisah LXDE menunjukkan ciri khas kontributor open source Taiwan: pekerjaan utamanya bukan software, tapi memakai waktu luang membuat proyek kelas dunia.
 
-Struktur ini menarik: rencana pemerintah berakhir, dan yayasan swasta mengambil alih. Sistem itu tumbuh dari bawah ke atas.
-
----
-
-## Alasan Struktural "Mengubah Cinta Menjadi Energi"
-
-Mayoritas kontributor sumber terbuka di Taiwan adalah individu. Tidak ada perusahaan sekelas Red Hat, tidak ada program sponsor skala Google Summer of Code; investasi sumber terbuka oleh perusahaan teknologi sebagian besar adalah "memperbolehkan karyawan mengerjakannya pada waktu luang," bukan "mencantumkan sumber terbuka dalam KPI."
-
-Mengapa?
-
-Industri teknologi Taiwan berpusat pada manufaktur semikonduktor dan desain IC. Model bisnis TSMC, MediaTek, dan Foxconn dibangun di atas kemampuan manufaktur dan hambatan paten, bukan kode sumber terbuka. Perangkat lunak dalam ekosistem ini sering kali merupakan "aksesori dari perangkat keras," bukan sumber pendapatan independen. Dari ribuan perusahaan layanan perangkat lunak, sembilan puluh persen melakukan integrasi sistem yang melayani pasar domestik.
-
-Hasilnya: banyak orang menulis kode, tetapi hampir tidak ada orang yang "hidup dari sumber terbuka." Sumber terbuka adalah urusan setelah jam kerja, acara pertemuan komunitas, atau hackathon hari Sabtu. Di daftar sponsor COSCUP, Anda akan melihat lebih banyak perusahaan asing (Google, LINE, Trend Micro) daripada perusahaan lokal.
-
-Ini belum sepenuhnya buruk. Karena sumber terbuka bukanlah KPI, motivasi para partisipan lebih murni. Peta masker g0v bisa meledak dalam 72 jam bukan karena seseorang menerima perintah kerja, tetapi karena seribu insinyur merasa "hal ini harus dilakukan."
-
-Namun, model ini memiliki batas atas. Tanpa investasi berkelanjutan dari tingkat perusahaan, proyek rentan stagnan setelah pengembang inti mengalami kelelahan. Taiwan tidak kekurangan _hacker_ akhir pekan; yang dibutuhkan adalah posisi yang memungkinkan seseorang mendedikasikan diri penuh waktu untuk sumber terbuka.
+Huang Ching-chun (黃敬群, jserv) mengambil jalan berbeda. Ia mengembangkan software sistem di MediaTek dan Andes Technology, lalu mengajar di Departemen Teknik Informatika Universitas Cheng Kung, membuka mata kuliah "Desain Kernel Linux" — satu-satunya mata kuliah universitas di Taiwan yang membedah kernel Linux terbaru secara sistematis. Murid-muridnya langsung mengirim patch ke Linux, glibc, GCC, dan LLVM. Ia berulang kali menjadi pembicara di COSCUP dan FOSDEM di Eropa. jserv mewakili bukan kontributor tipe "jenius", melainkan upaya menanamkan praktik open source ke dalam sistem pendidikan.
 
 ---
 
-## Kekuatan Senyap 44.000 Orang
+## Ekosistem Komunitas: Bukan Cuma COSCUP
 
-Ada 44.408 pengguna yang menandai Taiwan di GitHub (statistik Maret 2026). Dibutuhkan setidaknya 67 pengikut untuk masuk ke papan peringkat Taiwan di committers.top. Mengingat populasi Taiwan sebesar 23 juta, angka ini berarti ada satu akun GitHub aktif dari setiap 500 orang Taiwan. Dibandingkan dengan Jepang, Singapura, dan Hong Kong, tingkat aktivitas rata-rata pengembang Taiwan berada di kelompok atas Asia.
+Kepadatan komunitas open source Taiwan tergolong luar biasa di Asia.
 
-Yang lebih menarik bukanlah angkanya, melainkan jenis kontribusinya. Peran pengembang Taiwan dalam proyek internasional sering kali adalah "infrastruktur dasar yang tak terlihat": _patch_ kernel, optimasi kompiler, terjemahan lokal, dan penulisan dokumentasi. Mahasiswa dari Universitas Nasional Tingkat Tinggi langsung mengirimkan kode ke kernel Linux. MozTW telah memelihara versi Mandarin Firefox selama dua puluh tahun. Kontribusi ini tidak akan masuk berita, tetapi tanpa itu, perangkat lunak tidak dapat digunakan.
+**COSCUP** (Conference for Open Source Coders, Users and Promoters) berjalan sejak 2006, konferensi open source tahunan terbesar di Taiwan. Sampai 2024, jumlah pesertanya sudah lebih dari 2.800 orang, dengan lebih dari 40 community room yang mencakup topik seperti Kubernetes, PostgreSQL, Ruby, Python, dan Blockchain. Tiap community room punya sekitar 6 jam waktu acara yang dikurasi sendiri oleh komunitasnya masing-masing. COSCUP tidak memungut tiket masuk. Relawannya lebih dari seratus orang, semuanya tanpa bayaran. 2025 adalah COSCUP ke-20.
 
-Komunitas sumber terbuka Taiwan memiliki ciri khas yang jarang ditemukan di Asia: g0v menerapkan metodologi sumber terbuka pada kebijakan publik. Platform vTaiwan menggunakan teknologi Polis untuk konsultasi online, menangani lebih dari 30 isu seperti regulasi Uber dan peraturan _fintech_. _MIT Technology Review_ menyebutnya sebagai "sistem sederhana namun cerdik yang digunakan Taiwan untuk mengalihdayakan hukum kepada masyarakat." Ini bukan lagi masalah pengkodean; ini adalah penerapan logika kolaborasi sumber terbuka pada tata kelola demokratis.
+**SITCON** (Students' Information Technology Conference) berjalan sejak 2013, sepenuhnya diinisiasi dan diorganisasi oleh mahasiswa. Maknanya sederhana: menunjukkan pada anak SMA berusia 18 tahun bahwa mereka tidak perlu menunggu lulus dulu untuk ikut serta dalam open source. SITCON menggelar konferensi tahunan tiap Maret, ditambah HackGen di tengah semester, kemah musim panas, dan pertemuan dua mingguan.
 
-Sumber terbuka di Taiwan tidak pernah hanya urusan komunitas teknologi. Itu adalah sebuah sikap: melihat masalah, membuka editor, dan mulai menulis.
+**PyCon TW** adalah konferensi tahunan komunitas Python yang mengumpulkan pengguna Python lintas bidang. **MozTW** adalah komunitas relawan Mozilla Taiwan yang sejak 2004 merawat versi bahasa Mandarin tradisional Firefox, menjalankan program duta kampus dan kelompok penerjemah subtitle. Ruang komunitas "Mozilla Space" di Taipei beroperasi dari 2014 sampai 2023, dan setelah sponsor Mozilla berhenti, tetap bertahan lewat donasi lokal.
+
+Ada banyak partisipasi silang antar komunitas ini. Orang yang sama bisa jadi pembicara COSCUP, kontributor g0v, dan relawan PyCon TW sekaligus. Lingkaran open source Taiwan tidak besar, tapi kepadatannya tinggi.
+
+---
+
+## Warisan dan Keterputusan Institusi
+
+Taiwan pernah punya upaya pemerintah untuk mendorong open source.
+
+Tahun 2003, Institute of Information Science, Academia Sinica menerima subsidi dari Biro Industri Kementerian Urusan Ekonomi dan mendirikan "Open Source Software Foundry" (OSSF, 自由軟體鑄造場). OSSF menyediakan hosting proyek, konsultasi hukum, dan promosi lewat newsletter, membina komunitas open source lokal selama lebih dari sepuluh tahun. Tahun 2015, Kementerian Sains dan Teknologi memutuskan menghentikan subsidi, OSSF pun berhenti beroperasi, dan situsnya baru benar-benar ditutup akhir 2021.
+
+Hilangnya OSSF tidak membuat aktivitas open source Taiwan menurun — justru ini membuktikan energi open source Taiwan memang tidak pernah bergantung pada pemerintah. Yang benar-benar menopang ekosistem ini adalah "Open Culture Foundation" (OCF, 開放文化基金會) yang didirikan tahun 2014. OCF didirikan bersama oleh berbagai komunitas open source, berbentuk yayasan nirlaba, dan berperan sebagai pengelola keuangan komunitas: menerbitkan invoice untuk COSCUP, mengurus donasi untuk berbagai proyek, dan memberi konsultasi hukum soal lisensi open source. OCF juga bekerja sama dengan lembaga internasional seperti AIT, Kantor Dagang dan Kebudayaan Inggris di Taipei, dan Bank Dunia, membawa pengalaman teknologi sipil Taiwan ke kancah internasional.
+
+Struktur ini menarik: program pemerintah berakhir, yayasan sipil yang mengambil alih. Institusinya tumbuh dari bawah ke atas.
+
+---
+
+## Alasan Struktural di Balik "Kerja karena Cinta"
+
+Sebagian besar kontributor open source Taiwan adalah individu. Tidak ada perusahaan open source sekelas Red Hat, tidak ada program sponsor korporat sebesar Google Summer of Code; keterlibatan perusahaan teknologi dalam open source kebanyakan sebatas "mengizinkan karyawan mengerjakannya di waktu luang", bukan "memasukkan open source ke dalam KPI".
+
+Kenapa begitu?
+
+Industri teknologi Taiwan berporos pada manufaktur kontrak hardware dan desain IC. Model bisnis TSMC, MediaTek, dan Foxconn dibangun di atas kemampuan produksi dan benteng paten, bukan kode sumber terbuka. Dalam ekosistem ini, software sering kali cuma jadi "pelengkap hardware", bukan sumber pendapatan yang berdiri sendiri. Dari ribuan perusahaan layanan software, sembilan dari sepuluh mengerjakan integrasi sistem, melayani pasar domestik.
+
+Hasilnya: orang yang menulis kode banyak, tapi yang "hidup dari open source" hampir tidak ada. Open source jadi urusan sepulang kerja, urusan kumpul komunitas, urusan hackathon hari Sabtu. Di daftar sponsor COSCUP, perusahaan asing (Google, LINE, Trend Micro) lebih banyak muncul dibanding perusahaan lokal.
+
+Ini bukan sepenuhnya hal buruk. Justru karena open source bukan KPI, motivasi pesertanya jadi lebih murni. Peta stok masker g0v bisa meledak dalam 72 jam bukan karena ada yang memberi perintah kerja, tapi karena seribu insinyur merasa "ini harus dikerjakan".
+
+Tapi model ini punya batas. Tanpa investasi berkelanjutan level korporat, proyek gampang mandek begitu maintainer utamanya kelelahan. Taiwan tidak kekurangan weekend hacker, yang kurang adalah posisi kerja penuh waktu di bidang open source.
+
+---
+
+## Kekuatan Diam dari 44.000 Orang
+
+Pengguna GitHub yang menandai dirinya Taiwan berjumlah 44.408 orang (data Maret 2026). Dibutuhkan minimal 67 follower untuk masuk papan peringkat Taiwan di committers.top. Dengan populasi Taiwan 23 juta jiwa, angka ini berarti setiap 500 orang Taiwan ada satu akun GitHub aktif. Dibandingkan Jepang, Singapura, dan Hong Kong, tingkat aktivitas GitHub per kapita pengembang Taiwan termasuk papan atas Asia.
+
+Yang lebih layak diperhatikan bukan angkanya, tapi jenis kontribusinya. Peran pengembang Taiwan di proyek internasional sering kali jadi "infrastruktur tak terlihat": patch kernel, optimisasi compiler, terjemahan lokalisasi, penulisan dokumentasi. Mahasiswa Universitas Cheng Kung langsung mengirim kode ke kernel Linux. MozTW merawat versi Mandarin Firefox selama dua puluh tahun. Kontribusi seperti ini tidak akan jadi berita, tapi tanpanya software tidak akan bisa dipakai.
+
+Komunitas open source Taiwan juga punya satu ciri langka di Asia: g0v menerapkan metodologi open source pada kebijakan publik. Platform vTaiwan memakai teknologi Polis untuk deliberasi daring, menangani lebih dari 30 isu termasuk regulasi Uber dan aturan fintech. _MIT Technology Review_ menyebutnya "sistem sederhana tapi cerdik yang dipakai Taiwan untuk crowdsource hukumnya". Ini sudah bukan lagi soal menulis kode — ini adalah menerapkan logika kolaborasi open source ke tata kelola demokrasi.
+
+Open source di Taiwan tidak pernah sekadar urusan komunitas teknis. Ia adalah sebuah sikap: lihat masalahnya, buka editornya, lalu mulai menulis.
 
 ---
 
 ## Referensi
 
-1. [Panduan Proyek Teknologi Sipil g0v](https://g0v.hackmd.io/@jothon/ctpbook) (Data primer)
-2. [Tahun yang Bergejolak pada 2020, Kontribusi g0v Mungkin Lebih dari Sekadar "Peta Masker"](https://www.gvm.com.tw/article/76428) — _Far-sight Magazine_
-3. [Civic Technology Can Help Stop a Pandemic](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic) — Foreign Affairs (Sumber bahasa Inggris)
-4. [Kekuatan Hacker Sipil g0v Pemerintah Nol Waktu](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Taiwan Guanghua Magazine
-5. [Joseph Wu: Sumber Terbuka sebagai Paradigma Pertukaran Era Baru](https://www.ithome.com.tw/news/93603) — iThome
-6. [PCMan (洪任諭) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B4%AA%E4%BB%BB%E8%AB%AD)
-7. [jserv (黃敬群) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E6%95%AC%E7%BE%A4)
+1. [Buku Panduan Proyek dan Komunitas Teknologi Sipil g0v](https://g0v.hackmd.io/@jothon/ctpbook) (sumber primer)
+2. [2020, Tahun Penuh Gejolak: Kontribusi g0v Tak Cuma "Peta Masker"](https://www.gvm.com.tw/article/76428) — Global Views Monthly
+3. [Civic Technology Can Help Stop a Pandemic](https://www.foreignaffairs.com/articles/asia/2020-03-20/how-civic-technology-can-help-stop-pandemic) — Foreign Affairs (sumber berbahasa Inggris)
+4. [Kekuatan Hacker Sipil, g0v Pemerintah Nol](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Taiwan Panorama
+5. [Audrey Tang, Pemimpin Komunitas Open Source Internasional: Open Source Adalah Paradigma Pertukaran Era Baru](https://www.ithome.com.tw/news/93603) — iThome
+6. [Hong Jen-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B4%AA%E4%BB%BB%E8%AB%AD)
+7. [Huang Ching-chun — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E6%95%AC%E7%BE%A4)
 8. [Open Source Software Foundry — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94%E9%91%84%E9%80%A0%E5%A0%B4)
-9. [Tentang OCF — Open Culture Foundation](https://ocf.tw/en/p/what_is_ocf_en.html)
-10. [committers.top — Pengguna GitHub Paling Aktif di Taiwan](https://committers.top/taiwan.html)
+9. [About OCF — Open Culture Foundation](https://ocf.tw/en/p/what_is_ocf_en.html)
+10. [committers.top — Most active GitHub users in Taiwan](https://committers.top/taiwan.html)
 11. [COSCUP — Wikipedia](https://en.wikipedia.org/wiki/COSCUP)
-12. [Sistem Sederhana namun Cerdik yang Digunakan Taiwan untuk Menggalang Hukumnya](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
+12. [The simple but ingenious system Taiwan uses to crowdsource its laws](https://www.technologyreview.com/2018/08/21/240284/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/) — MIT Technology Review
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — Narasi Kolektif Fork Pemerintah
-- [Sejarah Migrasi Komunitas Online Taiwan](/technology/台灣網路社群遷徙史) — Sejarah Generasi dari BBS ke Discord
-- [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech) — Pola Sumber Terbuka Individu dalam Teknologi Sipil, 193 _commit_ selama enam minggu mengubah data terbuka menjadi lintasan cahaya 3D
-- [Da Yu Shuang Jian](/technology/大宇雙劍) — Kisah Taiwan Lainnya tentang "Melakukan Hal yang Melampaui Skala dengan Gairah" (RPG dari Guanghua Mall)
-- [Tidak Bisa Tidur Tanpa Masuk Gudang Bawah Tanah](/id/technology/into-the-cellar-taiwan-game-podcast) — Komunitas Pengguna 6 Juta yang Tumbuh di Asrama Universitas Nasional Chung-kang
-
-===BODY===
+- [Komunitas Sumber Terbuka dan g0v](/id/technology/open-source-and-g0v) — narasi kolektif tentang fork pemerintah
+- [Sejarah Migrasi Komunitas Internet Taiwan](/technology/台灣網路社群遷徙史) — sejarah lintas generasi dari BBS ke Discord
+- [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech) — wujud open source personal dalam teknologi sipil, enam minggu 193 commit mengubah data terbuka jadi jejak cahaya 3D
+- [Dua Pedang Softstar](/id/technology/softstar-twin-classics) — kisah Taiwan lain soal "berkarya melampaui skala karena semangat" (RPG yang lahir dari Guanghua Market)
+- [Peta Zhongyue Taiwan](/id/technology/into-the-cellar-taiwan-game-podcast) — komunitas 6 juta anggota yang tumbuh dari asrama Universitas Central
