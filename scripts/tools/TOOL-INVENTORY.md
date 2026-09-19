@@ -153,19 +153,20 @@ _v2.0 建立原因_：session η 留下的 27 工具實情已 drift 9 個未列�
 | `footnote-format-fix.py`         | 4 source format auto-fix + 60+ domain → desc resolve；唯一保留的 `.py` auto-fix（DNA #48 canonical）                                                                                                         |
 | `image-caption-table.py`         | 看圖對照表（alt／圖說／可 Read 的本地路徑，每圖一列）— plugin `image-alt` 查 alt 品質、`image-health` 查檔案存在，這支把照片本身推到驗證者面前（v9 3.6.3「看圖一列」，v9 已歸檔；現行單檔型 Stage 3 驗仍用） |
 
-### Class B — Repo / system-layer（7 個）
+### Class B — Repo / system-layer（8 個）
 
 **不是 article-layer** 的健檢，掃認知層 / cron routine / i18n module / hardcoded path。
 
-| Tool                              | 掃描範圍                                               |
-| --------------------------------- | ------------------------------------------------------ |
-| `dna-split-audit.sh`              | DNA.md / REFLEXES.md 拆檔後 cross-ref 一致性           |
-| `routine-sync-check.py`           | ROUTINE.md SSOT vs cron schedule 同步                  |
-| `routine-audit.py`                | Weekly 跨 routine pattern detection（2026-05-16 新增） |
-| `dead-cross-ref-scan.sh`          | 認知層交叉引用斷鏈掃描                                 |
-| `i18n-coverage-audit.sh`          | i18n module 覆蓋率                                     |
-| `check-language-registry-sync.sh` | LangMapRegistry source-of-truth check                  |
-| `check-hardcoded-langs.sh`        | 硬編碼語系列表掃描                                     |
+| Tool                              | 掃描範圍                                                                                                                                  |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `dna-split-audit.sh`              | DNA.md / REFLEXES.md 拆檔後 cross-ref 一致性                                                                                              |
+| `routine-sync-check.py`           | ROUTINE.md SSOT vs cron schedule 同步                                                                                                     |
+| `routine-audit.py`                | Weekly 跨 routine pattern detection（2026-05-16 新增）                                                                                    |
+| `dead-cross-ref-scan.sh`          | 認知層交叉引用斷鏈掃描                                                                                                                    |
+| `i18n-coverage-audit.sh`          | i18n module 覆蓋率                                                                                                                        |
+| `check-language-registry-sync.sh` | LangMapRegistry source-of-truth check                                                                                                     |
+| `check-hardcoded-langs.sh`        | 硬編碼語系列表掃描                                                                                                                        |
+| `heartbeat-memory-check.py`       | 心跳刷新 commit → 收官 memory commit 對賬，抓「做了沒記」的半途停機（2026-09-20 新增，補 routine-liveness 與 memory-index-lint 中間那格） |
 
 ### Class C — Data-layer validators（4 個）
 
