@@ -361,6 +361,38 @@ def done_log_last_entry_date() -> str | None:
     return max(dates) if dates else None
 
 
+def gather_handoff_latency() -> str:
+    """交接延遲（2026-09-20 self-evolve）：handoff-latency.py 量 45 天內交接項目被傳幾班、
+    跨幾天沒人動。§八 給的是最新一班的 handoff 內容，這裡給的是它的年齡分佈——
+    「決定被準確地交給下一個人」四班獨立寫到，此前沒有數字。"""
+    tool = REPO_ROOT / "scripts/tools/handoff-latency.py"
+    if not tool.exists():
+        return ""
+    try:
+        r = subprocess.run(
+            [sys.executable, str(tool), "--days", "45", "--json", "--top", "8"],
+            capture_output=True, text=True, timeout=120, cwd=REPO_ROOT,
+        )
+        d = json.loads(r.stdout)
+    except Exception:
+        return ""
+    sm = d.get("summary", {})
+    out = [
+        f"近 45 天 {sm.get('sessions_with_handoff', 0)} 班有 §Handoff、{sm.get('bullets', 0)} 條交接行。"
+        f"以穩定參照（issue／OBSERVER-QUEUE #N／EXP／LESSONS slug）追蹤 {sm.get('ref_tracked', 0)} 件："
+        f"跨 ≥2 天仍開放 {sm.get('ref_open_multi_day', 0)} 件（跨 ≥14 天 {sm.get('ref_open_span_ge_14', 0)} 件），"
+        f"已收掉 {sm.get('ref_retired', 0)} 件、收掉前中位跨 {sm.get('ref_median_span_to_retire_days', 0)} 天。",
+        "",
+    ]
+    for r_ in d.get("ref_open_top", [])[:8]:
+        tag = "⏳" if r_.get("final") == "blocked" else "📌"
+        out.append(
+            f"- {tag} `{r_['ref']}` 跨 {r_['span_days']} 天／{r_['days']} 天次／{r_['carry']} 班"
+            f"（{r_['first']}→{r_['last']}，距今 {r_['stale_days']} 天）"
+        )
+    return "\n".join(out)
+
+
 def gather_handoff() -> str:
     """Read latest session memory file's Handoff section."""
     memdir = REPO_ROOT / "docs/semiont/memory"
@@ -487,6 +519,7 @@ def render(
     lessons: list[str],
     done_log: list[str],
     handoff: str,
+    handoff_latency: str,
     prs: dict,
     inbox: dict,
     memory_files: list[Path],
@@ -728,6 +761,15 @@ def render(
         A(handoff)
         A("")
 
+    if handoff_latency:
+        A("### 八之二、交接延遲（handoff-latency.py，近 45 天）")
+        A("")
+        A("同一件事被幾班原樣往下傳、跨了幾天沒人動。收掉的多半當天收掉，開放的多半是「等一個沒人授權的決定」——"
+          "體檢時對跨 ≥14 天那批逐件問：它缺的是動作、決定、還是 OBSERVER-QUEUE 的一列？")
+        A("")
+        A(handoff_latency)
+        A("")
+
     # ── 九、ARTICLE-INBOX 待開發 ──────────────────────
     if inbox.get("p0") or inbox.get("p1"):
         A("## 九、待開發主題（ARTICLE-INBOX）")
@@ -879,6 +921,7 @@ def main():
     lessons = gather_lessons_recent(start)
     done_log = gather_done_log_recent(start)
     handoff = gather_handoff()
+    handoff_latency = gather_handoff_latency()
     inbox = gather_inbox_priority()
 
     print("[prep] enumerating memory + diary files in window …", file=sys.stderr)
@@ -905,6 +948,7 @@ def main():
         lessons,
         done_log,
         handoff,
+        handoff_latency,
         prs,
         inbox,
         memory_files,

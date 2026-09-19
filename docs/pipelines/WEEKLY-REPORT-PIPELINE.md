@@ -4,9 +4,9 @@ description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所�
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.5'
-last_updated: 2026-09-05
-last_session: '2026-09-05-absence-protocol-impl（Stage 2.7 桶 3 加缺席模式條款：體檢開頭跑 observer-presence.py 判定在場／缺席，ABSENT 時到期非鎖預設必執行、🔒閾值類可代理，🔒紅線四項永不代理；per MANIFESTO §缺席協議 + fortnight-deep-review-2026-09-05.md §4.2 C，哲宇拍板選 A）'
+current_version: 'v4.6'
+last_updated: 2026-09-20
+last_session: '2026-09-20-twmd-self-evolve-weekly（Stage 2 讀單加 dossier §八之二 交接延遲三問；前版 2026-09-05-absence-protocol-impl：Stage 2.7 桶 3 加缺席模式條款：體檢開頭跑 observer-presence.py 判定在場／缺席，ABSENT 時到期非鎖預設必執行、🔒閾值類可代理，🔒紅線四項永不代理；per MANIFESTO §缺席協議 + fortnight-deep-review-2026-09-05.md §4.2 C，哲宇拍板選 A）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -297,6 +297,7 @@ prep tool **不做** 的事：
    - 哲宇 callout 過的（從 diary 反推 — 如 5/9 brave-kirch-editorial 的 EDITORIAL v6.1 / 5/3 magical-feynman-babel 的 sovereignty backbone）
    - 重大 turning point（如新 DNA 反射誕生 / canonical 升級 / pipeline 重組）
 4. （已讀過的 commit body 部分）re-skim dossier §十一，標記哪些 commit 是 narrative 主軸
+5. **dossier §八之二 交接延遲**（2026-09-20 起，`handoff-latency.py` 產）— 對「跨 ≥14 天仍開放」那批逐件問三個問題：它缺的是一個動作（寫成零判斷的下一步就會被下一班做掉）、一個決定（該進 OBSERVER-QUEUE 帶預設選項，不該在 handoff 裡輪迴）、還是早就做完只是沒人 retire（回 memory 補 strikethrough）。這三種在 handoff 裡長得一模一樣，dossier 只能量年齡，分類要當班判。分到「決定」而 OBSERVER-QUEUE 沒有對應列的，Stage 2.7 桶 3 當場補列
 
 **為什麼必須完整讀 raw**：
 

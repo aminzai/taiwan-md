@@ -3,9 +3,9 @@ title: 'MEMORY-PIPELINE'
 description: 'Session memory 撰寫流程 — 凝練版結構模板 + Stage 0-5 + 5 分鐘 reading test 自檢 + finale contract + index 150字 hard gate (v2.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.3'
-last_updated: 2026-09-05
-last_session: '2026-07-05-120817-dna-audit'
+current_version: 'v2.4'
+last_updated: 2026-09-20
+last_session: '2026-09-20-twmd-self-evolve-weekly（§Handoff 交接項要帶穩定參照，配 handoff-latency.py）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
   - 'DIARY-PIPELINE.md'
@@ -295,6 +295,8 @@ _核心洞察：(1) ... (2) ... (3) ...{每條一句話}_
 
 - [x] ~~已完成項~~
 - [ ] pending 項（必附明確下一步可執行動作，不要寫「需觀察者決策」當 handoff）
+
+> **交接項要帶穩定參照（2026-09-20 self-evolve 新增）**：每條 pending / blocked 至少帶一個改寫也不會變的身分——issue／PR `#N`、`OBSERVER-QUEUE #N`、`EXP-YYYY-MM-DD-id`、LESSONS 的 `slug-with-dashes`；retire 時 strikethrough 裡也留著它。理由：[`handoff-latency.py`](../../scripts/tools/handoff-latency.py) 量「一條交接被幾班原樣往下傳、跨幾天沒人動」，只有靠這些參照才追得住——同一件事被三班各自換句話寫，字面比對就斷了（近 45 天 2,292 條交接行裡，能追的只有帶參照的 203 件）。沒有參照的交接是寫給下一班讀的，有參照的交接才是量得到的。週體檢 dossier §八之二 印這張表。
 
 ## Beat 5 — 反芻
 
