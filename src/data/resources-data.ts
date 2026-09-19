@@ -105,8 +105,8 @@ export const heroCategories: HeroCategory[] = [
       },
       {
         nameKey: 'resources.site.npgov',
-        url: 'https://np.cpami.gov.tw/',
-        domain: 'np.cpami.gov.tw',
+        url: 'https://www.nps.gov.tw/',
+        domain: 'nps.gov.tw',
         featured: true,
         descKey: 'resources.featured.npgov',
       },
@@ -733,8 +733,8 @@ export const cultureVenues: ResourceSite[] = [
 export const cultureParks: ResourceSite[] = [
   {
     nameKey: 'resources.site.npgov',
-    url: 'https://np.cpami.gov.tw/',
-    domain: 'np.cpami.gov.tw',
+    url: 'https://www.nps.gov.tw/',
+    domain: 'nps.gov.tw',
     featured: true,
     descKey: 'resources.featured.npgov',
   },
@@ -948,8 +948,8 @@ export const mediaNgo: ResourceSite[] = [
   },
   {
     nameKey: 'resources.site.digitalDiplomacy',
-    url: 'https://www.digitaldiplomacy.tw/',
-    domain: 'digitaldiplomacy.tw',
+    url: 'https://www.tdda.tw/',
+    domain: 'tdda.tw',
   },
 ];
 
@@ -1032,8 +1032,8 @@ export const econTransport: ResourceSite[] = [
   },
   {
     nameKey: 'resources.site.krtc',
-    url: 'https://www.krtco.com.tw/',
-    domain: 'krtco.com.tw',
+    url: 'https://www.krtc.com.tw/',
+    domain: 'krtc.com.tw',
   },
 ];
 
@@ -1119,11 +1119,6 @@ export const communityProjects: ResourceSite[] = [
     domain: 'disfactory.tw',
   },
   {
-    nameKey: 'resources.site.electionMap',
-    url: 'https://votes.tw/',
-    domain: 'votes.tw',
-  },
-  {
     nameKey: 'resources.site.maskMap',
     url: 'https://kiang.github.io/pharmacies/',
     domain: 'kiang.github.io',
@@ -1135,7 +1130,7 @@ export const communityProjects: ResourceSite[] = [
   },
   {
     nameKey: 'resources.site.ccw',
-    url: 'https://www.ccw.org.tw/',
+    url: 'https://ccw.org.tw/',
     domain: 'ccw.org.tw',
   },
   {

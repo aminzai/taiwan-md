@@ -61,31 +61,38 @@ function addDays(d, n) {
   return nd;
 }
 
-/** cron 5 欄 "min hour dom month dow" → dow===null 表示每天，否則 0-6（週日=0）*/
+/** cron 5 欄 "min hour dom month dow" → dow===null 表示不限星期、dom===null
+ *  表示不限日期；兩者都 null 才是每天。2026-09-19 補 dom：月排程
+ *  `30 10 5 * *` 之前被讀成每天 10:30，terminology-trends-monthly 因此每天
+ *  被記一次 miss、連三個 refresh 週期掛 down（data-refresh-am 09-17/18/19
+ *  handoff 三次寫「疑似缺 cadence-aware 判準」）。 */
 function parseCronDow(cronExpression) {
   const parts = cronExpression.trim().split(/\s+/);
-  if (parts.length < 5) return { hour: 0, min: 0, dow: null };
-  const [min, hour, , , dow] = parts;
+  if (parts.length < 5) return { hour: 0, min: 0, dom: null, dow: null };
+  const [min, hour, dom, , dow] = parts;
   return {
     hour: parseInt(hour, 10) || 0,
     min: parseInt(min, 10) || 0,
+    dom: dom === '*' ? null : parseInt(dom, 10),
     dow: dow === '*' ? null : parseInt(dow, 10),
   };
 }
 
 function cadenceHuman(cronExpression) {
-  const { hour, min, dow } = parseCronDow(cronExpression);
+  const { hour, min, dom, dow } = parseCronDow(cronExpression);
   const hh = String(hour).padStart(2, '0');
   const mm = String(min).padStart(2, '0');
+  if (dom !== null) return `每月 ${dom} 日 ${hh}:${mm}`;
   if (dow === null) return `每天 ${hh}:${mm}`;
   return `每週${WEEKDAY_ZH[dow] ?? '?'} ${hh}:${mm}`;
 }
 
 /** 給定 'YYYY-MM-DD'，該天在該 cron 下是否為期望 fire 日 */
-function isExpectedDate(dateStr, dow) {
+function isExpectedDate(dateStr, dow, dom = null) {
+  const d = new Date(`${dateStr}T00:00:00`);
+  if (dom !== null && d.getDate() !== dom) return false;
   if (dow === null) return true;
-  const wd = new Date(`${dateStr}T00:00:00`).getDay();
-  return wd === dow;
+  return d.getDay() === dow;
 }
 
 // ─────────────────────────── 1. Routine 飛輪狀態板 ───────────────────────────
@@ -115,6 +122,12 @@ const SLUG_ALIASES = {
     'twmd-spore-publish',
   ],
   'twmd-founder-lens-weekly': ['twmd-founder-lens-weekly', 'twmd-founder-lens'],
+  //   - twmd-terminology-trends-monthly → 09-05 那次收官寫 twmd-terminology-trends
+  //     （不帶 -monthly），2026-09-19 補上 alias
+  'twmd-terminology-trends-monthly': [
+    'twmd-terminology-trends-monthly',
+    'twmd-terminology-trends',
+  ],
 };
 
 function normalizeTaskId(taskId) {
@@ -164,7 +177,7 @@ function buildRoutineBoard() {
 
   const items = (liveState.tasks || []).map((task) => {
     const taskSlug = normalizeTaskId(task.taskId);
-    const { hour, min, dow } = parseCronDow(task.cronExpression);
+    const { hour, min, dom, dow } = parseCronDow(task.cronExpression);
     const variants = slugVariantsFor(taskSlug);
     // 這個 task 所有變體別名的 fire 紀錄合併成單一日期集合
     const fireDates = new Set();
@@ -183,7 +196,7 @@ function buildRoutineBoard() {
     for (let i = 13; i >= 0; i--) {
       const d = addDays(today, -i);
       const dateStr = localDateStr(d);
-      const expected = isExpectedDate(dateStr, dow);
+      const expected = isExpectedDate(dateStr, dow, dom);
       let state;
       if (!expected) state = 'idle';
       else if (fireDates.has(dateStr)) state = 'fired';
@@ -209,7 +222,7 @@ function buildRoutineBoard() {
       for (let i = 0; i <= 60; i++) {
         const d = addDays(today, -i);
         const dateStr = localDateStr(d);
-        if (!isExpectedDate(dateStr, dow)) continue;
+        if (!isExpectedDate(dateStr, dow, dom)) continue;
         if (dateStr === todayStr) {
           const now = new Date();
           const due =

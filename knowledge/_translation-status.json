@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T00:38:55+08:00",
-    "zhCommitHead": "9624ea7be",
+    "lastUpdated": "2026-09-20T00:41:02+08:00",
+    "zhCommitHead": "c1d256fc2",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 58,
+        "fresh": 1030,
+        "stale": 61,
         "metadata_stale": 11,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 899,
-        "stale": 100,
+        "fresh": 896,
+        "stale": 103,
         "metadata_stale": 28,
         "missing": 97,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1041,
-        "stale": 56,
+        "fresh": 1038,
+        "stale": 59,
         "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 63,
+        "fresh": 1031,
+        "stale": 66,
         "metadata_stale": 7,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 57,
+        "fresh": 1034,
+        "stale": 60,
         "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 980,
-        "stale": 61,
+        "fresh": 977,
+        "stale": 64,
         "metadata_stale": 64,
         "missing": 19,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 946,
-        "stale": 56,
+        "fresh": 943,
+        "stale": 59,
         "metadata_stale": 9,
         "missing": 113,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 992,
-        "stale": 74,
+        "fresh": 989,
+        "stale": 77,
         "metadata_stale": 11,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 949,
-        "stale": 51,
+        "fresh": 946,
+        "stale": 54,
         "metadata_stale": 11,
         "missing": 113,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 978,
-        "stale": 58,
+        "fresh": 975,
+        "stale": 61,
         "metadata_stale": 15,
         "missing": 73,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1021,
-        "stale": 39,
+        "fresh": 1018,
+        "stale": 42,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 815,
-        "stale": 10,
+        "fresh": 812,
+        "stale": 13,
         "metadata_stale": 4,
         "missing": 295,
         "orphan": 0
@@ -5774,8 +5774,8 @@
           "sourceContentHash": "sha256:a6a639d332e8f086",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-09-19T14:19:59.109302+00:00",
-          "translationLastCommit": "5ce04bf5",
-          "translationLastModified": "2026-08-09T09:51:37+08:00",
+          "translationLastCommit": "c1d256fc",
+          "translationLastModified": "2026-09-20T00:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -6923,8 +6923,8 @@
       "zh": {
         "lastCommit": "24efd20f",
         "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:9913b1fbaa8895dd",
-        "bodyHash": "sha256:ec73a2d32ea085c0"
+        "contentHash": "sha256:df07b8f5f0dd46a8",
+        "bodyHash": "sha256:2f404ef3aa8b254f"
       },
       "translations": {
         "en": {
@@ -6938,8 +6938,8 @@
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "ja": {
           "path": "ja/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -6952,8 +6952,8 @@
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "ko": {
           "path": "ko/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -6966,8 +6966,8 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "es": {
           "path": "es/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -6980,8 +6980,8 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "fr": {
           "path": "fr/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -6994,8 +6994,8 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "vi": {
           "path": "vi/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7008,8 +7008,8 @@
           "translationLastModified": "2026-08-09T12:18:41+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "id": {
           "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7022,8 +7022,8 @@
           "translationLastModified": "2026-09-13T13:10:29+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "pt": {
           "path": "pt/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7036,8 +7036,8 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "hi": {
           "path": "hi/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7050,8 +7050,8 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "ar": {
           "path": "ar/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7064,8 +7064,8 @@
           "translationLastModified": "2026-08-04T04:55:00+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "ru": {
           "path": "ru/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7078,8 +7078,8 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "de": {
           "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -7092,8 +7092,8 @@
           "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         }
       }
     },
@@ -39231,8 +39231,8 @@
       "zh": {
         "lastCommit": "f712b724",
         "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:91ce45b4be5f77a7",
-        "bodyHash": "sha256:fe5beda00418f863"
+        "contentHash": "sha256:9e576e02178fac1e",
+        "bodyHash": "sha256:8ccb8ebcb456fad3"
       },
       "translations": {
         "en": {
@@ -39246,8 +39246,8 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "ja": {
           "path": "ja/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39260,8 +39260,8 @@
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "ko": {
           "path": "ko/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39274,8 +39274,8 @@
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "es": {
           "path": "es/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39288,8 +39288,8 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "fr": {
           "path": "fr/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39302,8 +39302,8 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "vi": {
           "path": "vi/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39316,8 +39316,8 @@
           "translationLastModified": "2026-08-09T11:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "id": {
           "path": "id/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39330,8 +39330,8 @@
           "translationLastModified": "2026-09-16T09:11:42+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "pt": {
           "path": "pt/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39344,8 +39344,8 @@
           "translationLastModified": "2026-07-26T17:15:39+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "hi": {
           "path": "hi/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39358,8 +39358,8 @@
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "ar": {
           "path": "ar/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39372,8 +39372,8 @@
           "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "ru": {
           "path": "ru/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39386,8 +39386,8 @@
           "translationLastModified": "2026-07-26T17:17:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         },
         "de": {
           "path": "de/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -39400,8 +39400,8 @@
           "translationLastModified": "2026-09-17T14:43:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→11)"
         }
       }
     },
@@ -47778,8 +47778,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-09-19T11:59:06+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
+          "translationLastCommit": "c1d256fc",
+          "translationLastModified": "2026-09-20T00:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -54813,8 +54813,8 @@
           "sourceContentHash": "sha256:672f8b4df1c422b7",
           "sourceBodyHash": "sha256:ff708086fed4d9aa",
           "translatedAt": "2026-09-19T14:46:13.939211+00:00",
-          "translationLastCommit": "e7f1ca19",
-          "translationLastModified": "2026-08-27T15:57:55+08:00",
+          "translationLastCommit": "c1d256fc",
+          "translationLastModified": "2026-09-20T00:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -66910,8 +66910,8 @@
       "zh": {
         "lastCommit": "026e5b58",
         "lastModified": "2026-07-25T10:56:52+08:00",
-        "contentHash": "sha256:3a49c509011ce42d",
-        "bodyHash": "sha256:637002941419ff56"
+        "contentHash": "sha256:1f8dee6529992135",
+        "bodyHash": "sha256:97a705b00e6deea8"
       },
       "translations": {
         "en": {
@@ -66925,8 +66925,8 @@
           "translationLastModified": "2026-07-25T19:42:13+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ja": {
           "path": "ja/About/taiwan-official-resources.md",
@@ -66939,8 +66939,8 @@
           "translationLastModified": "2026-07-26T03:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ko": {
           "path": "ko/About/taiwan-official-resources.md",
@@ -66953,8 +66953,8 @@
           "translationLastModified": "2026-07-25T16:08:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "es": {
           "path": "es/About/taiwan-official-resources.md",
@@ -66967,8 +66967,8 @@
           "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "fr": {
           "path": "fr/About/taiwan-official-resources.md",
@@ -66981,8 +66981,8 @@
           "translationLastModified": "2026-07-26T16:38:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "vi": {
           "path": "vi/About/taiwan-official-resources.md",
@@ -66995,8 +66995,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "id": {
           "path": "id/About/taiwan-official-resources.md",
@@ -67009,8 +67009,8 @@
           "translationLastModified": "2026-07-27T11:06:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "pt": {
           "path": "pt/About/taiwan-official-resources.md",
@@ -67023,8 +67023,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "hi": {
           "path": "hi/About/taiwan-official-resources.md",
@@ -67037,8 +67037,8 @@
           "translationLastModified": "2026-07-27T11:46:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ar": {
           "path": "ar/About/taiwan-official-resources.md",
@@ -67051,8 +67051,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ru": {
           "path": "ru/About/taiwan-official-resources.md",
@@ -67065,8 +67065,8 @@
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "de": {
           "path": "de/About/taiwan-official-resources.md",
@@ -67079,8 +67079,8 @@
           "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         }
       }
     },
@@ -91809,8 +91809,8 @@
           "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-09-19T11:59:06+08:00",
-          "translationLastCommit": "e75b621d",
-          "translationLastModified": "2026-09-10T00:44:33+08:00",
+          "translationLastCommit": "c1d256fc",
+          "translationLastModified": "2026-09-20T00:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",

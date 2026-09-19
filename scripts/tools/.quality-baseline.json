@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-19T00:41:10Z",
+  "timestamp": "2026-09-19T12:45:47Z",
   "total": 1124,
   "flagged": 713,
   "files": [
@@ -1278,6 +1278,11 @@
       "file": "society/馬英九迷因.md",
       "score": 4,
       "reasons": "空洞詞8個; 未人工審核; 塑膠句2個; 稀薄段落×1"
+    },
+    {
+      "file": "society/人權與性別平等.md",
+      "score": 4,
+      "reasons": "未人工審核; 分號4個; 稀薄段落×4"
     },
     {
       "file": "society/公共政策網路參與平臺.md",
@@ -2928,11 +2933,6 @@
       "file": "geography/林安泰古厝.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句4個; 稀薄段落×1"
-    },
-    {
-      "file": "geography/台灣板塊運動與地震活動.md",
-      "score": 4,
-      "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 分號4個"
     },
     {
       "file": "geography/宜蘭縣.md",

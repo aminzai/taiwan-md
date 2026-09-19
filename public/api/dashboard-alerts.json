@@ -1,32 +1,16 @@
 {
-  "lastUpdated": "2026-09-19T00:41:17.776Z",
+  "lastUpdated": "2026-09-19T12:45:54.906Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 3,
+  "count": 1,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=58：漂移 — 多維度退化中",
+      "message": "免疫 v3=56：漂移 — 多維度退化中，最大缺口 review_coverage=19（少 20.25 分）",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
-    },
-    {
-      "id": "memory-index-rows",
-      "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 97 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
-      "source": "MEMORY.md",
-      "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-09-17"
-    },
-    {
-      "id": "routine-livestate-stale",
-      "severity": "yellow",
-      "message": "routine-live-state.json dump 齡 242.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
-      "source": "routine-live-state.json",
-      "owner": "twmd-data-refresh",
-      "firstSeen": "2026-09-17"
     }
   ]
 }
