@@ -1,6 +1,6 @@
 ---
-title: 'Die landwirtschaftliche Landschaft und industrielle Verteilung in Taiwan'
-description: 'Der Wandel der landwirtschaftlichen Landschaften von Nord nach Süd zeigt Taiwans Transformation vom „Taiwanischen Kornspeicher“ zur „Feinlandwirtschaft“'
+title: 'Landnutzung und Industrieverteilung in Taiwan'
+description: 'Die landschaftliche Entwicklung der Landwirtschaft von Norden nach Süden zeigt den Wandel Taiwans vom „Taiwanischen Kornkammer“ zur „feinwertigen Landwirtschaft“'
 date: 2026-03-18
 category: 'Geography'
 tags:
@@ -11,7 +11,7 @@ tags:
     'Ernährungssicherheit',
     'Geographie',
   ]
-subcategory: '氣候與溫泉'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
@@ -19,160 +19,170 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Geography/台灣農業地景與產業分布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
-sourceBodyHash: 'sha256:92c2111bcaaae7c8'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: 'b349895a3'
+sourceContentHash: 'sha256:88ba75169cfa45ae'
+sourceBodyHash: 'sha256:9f28d4872bf9c477'
+translatedAt: '2026-09-21T00:58:38+08:00'
 ---
 
-# Die landwirtschaftliche Landschaft und industrielle Verteilung in Taiwan
+# Landnutzung und Industrieverteilung in Taiwan
 
 ## Kurzübersicht
 
-Mit nur 36.000 Quadratkilometern weist Taiwan durch die Unterschiede in Topografie und Klima eine äußerst vielfältige landwirtschaftliche Landschaft auf. Von den Teeterrassen im Norden, dem „Taiwanischen Kornspeicher“ in der Mitte, den tropischen Obstgärten im Süden bis zu den Bio-Farmen im Osten bilden sich deutliche industrielle Agrarzonen.
+Mit nur 36.000 Quadratkilometern weist Taiwan aufgrund seiner Topografie und Klimaverhältnisse eine sehr unterschiedliche landwirtschaftliche Landschaft auf. Von den Teeterrassen im Norden über die „Taiwanische Kornkammer“ im Zentrum bis zu den tropischen Obstgärten im Süden und den Bio-Farmen im Osten bilden sich deutliche landwirtschaftliche Industriezonen.
 
-Die Region „Tzuogsu Creek Rice Granary“, bestehend aus Changhua, Yunlin und Chiayi, liefert noch heute 30 % des Reisbedarfs Taiwans, während Litschis aus Pingtung und Starfruit aus Taitung auf internationalen Märkten wie in Japan und im Nahen Osten bekannt sind.
+Die „Tzuoguo-Reiskammer“ (Zhonghua/Changhua, Yunlin, Chiayi) versorgt etwa 30 % des gesamten Reisbedarfs Taiwans, während Limes und Starfruit aus Pingtung sowie Rambutan aus Taitung zu den repräsentativsten Exportfrüchten Taiwans gehören, die früher China als größter Markt hatten.
 
-Der Bau der Grandesierung-Bewässerungsanlage (Changnan Grand Canal) in den 1920er Jahren legte die Grundlage für die Landwirtschaft Südtaiwans, und die Verbreitung von Reissorten nach dem Zweiten Weltkrieg verdoppelte die Reiserzeugung Taiwans – diese beiden Projekte sind Schlüsselmomente der Modernisierung der taiwanesischen Landwirtschaft.
+Die [嘉南大圳](/de/history/chianan-irrigation-canal/) (Chianan-Bewässerungskanal), dessen Bau 1920 begann und 1930 abgeschlossen wurde, legte die Grundlage für die Wasserwirtschaft in Südtaiwan[^7]. Der im Jahr 1926 benannte Pomelli-Reis veränderte die Reissorten und Märkte Taiwans. Diese beiden Ereignisse sind Schlüsselpunkte der Modernisierung der Landwirtschaft in Taiwan während der japanischen Kolonialzeit.
 
-Schlüsselwörter: Taiwanischer Kornspeicher, Tzuogsu Creek Rice Granary, Feinlandwirtschaft, industrielle Transformation, Ernährungssicherheit
+Schlüsselwörter: Taiwanische Kornkammer, Tzuoguo-Reiskammer, feinwertige Landwirtschaft, industrielle Transformation, Ernährungssicherheit
 
 ## Warum ist das wichtig?
 
-Die Geschichte der taiwanesischen Landwirtschaft dokumentiert die kontinuierliche Transformation einer Insel auf begrenztem Land: von der Züchtung der „Penglai“-Reissorte während der japanischen Kolonialzeit (Einführung 1926) über die ländliche Industrialisierung in den 1970er Jahren bis hin zur Bio-Landwirtschaft und der Dorferneuerung in den 2010er Jahren – jede Phase ist ein Spiegelbild des Wandels der sozialen Struktur Taiwans.
+Die Geschichte der taiwanesischen Landwirtschaft dokumentiert die kontinuierliche Transformation einer Insel unter begrenzten landwirtschaftlichen Bedingungen: von der Sortenverbesserung des Pomelli-Reises während der japanischen Kolonialzeit (Einführung 1926) über die ländliche Industrialisierung in den 1970er Jahren bis hin zur Bio-Landwirtschaft und der Dorferneuerungsbewegung in den 2010er Jahren. Jede Phase ist ein Mikrokosmos des Wandels der sozialen Struktur Taiwans[^2].
 
-Die taiwanesische Landwirtschaft trägt gleichzeitig vier Rollen: die Lebensmittelproduktion, die Landnutzung, den Umweltschutz und die kulturelle Bewahrung. Angesichts des Klimawandels und des urbanen Drucks wandelt sich Taiwan von der reinen Ertragssteigerung hin zur Qualitätsorientierung, von der traditionellen Landwirtschaft hin zur Smart Farming.
+Die taiwanesische Landwirtschaft trägt gleichzeitig vier Funktionen: die Nahrungsmittelproduktion, die Landnutzung, den Umweltschutz und die kulturelle Bewahrung. Angesichts des Klimawandels und des urbanen Drucks wandelt sich Taiwan von der reinen Ertragsmaximierung hin zur Qualitätssteigerung, weg von der traditionellen hin zur intelligenten Landwirtschaft.
 
-Dieser Transformationspfad bietet direkte Referenzwerte für andere kleine Agrarinseln in Asien; taiwanesische Forschungsinstitute teilen regelmäßig Technologien mit Ländern wie Vietnam und Indonesien.
+Dieser Transformationspfad bietet direkte Referenzwerte für andere kleine landwirtschaftliche Inseln in Asien; taiwanesische Forschungsinstitute teilen regelmäßig Technologien mit Ländern wie Vietnam und Indonesien.
 
 ## Landwirtschaft im Norden: Teeanbau und Stadtlandwirtschaft
 
-Die hügeligen Gebiete des Nordens weisen hohe Niederschläge und dichten Nebel auf, was die bekanntesten Teeproduktionsgebiete Taiwans schafft. Nach der Expansion des Taipei-Beckens hat sich die nordische Landwirtschaft hin zu einer Verfeinerung und Urbanisierung entwickelt; städtische Gärten und Bio-Kleinbauern sind neue Modelle geworden.
+Die Hügelregionen des Nordens weisen hohe Niederschläge und dichten Nebel auf, was die bekanntesten Teeproduktionsgebiete Taiwans schafft. Nach der Expansion des Taipei-Beckens hat sich die Landwirtschaft im Norden hin zur Feinwertigkeit und Urbanisierung entwickelt; städtische Gärten und Bio-Kleinbauern sind neue Modelle geworden.
 
 ### Teeanbauregionen
 
-Die hügelige Topografie im Norden Taiwans schafft weltweit bekannte Teeindustrien:
+Die hügelige Topografie des Nordens Taiwans prägt weltweit bekannte Teeindustrien:
 
-- **Wen Shan Baozhong Tea Region**: Die Gebiete von Shiding und Pinglin in der Stadt New Taipei, mit einem feuchten Klima und Niederschlägen über 2000 mm.
+- **Wen Shan Baozhong Tea Area**: Die Region um Shiding und Pinglin in New Taipei City, mit einem feuchten Klima von über 2000 mm Niederschlag.
 - **Sanxia Biluochun**: Hergestellt aus jungen Knospen, die im Frühjahr geerntet werden, mit einem klaren Blumen- und Fruchtaroma.
-- **Alishan Hochlandtee**: Hochteepflanzen in Höhen von 1000 bis 2000 Metern; der intensive Duft entsteht durch große Temperaturschwankungen.
+- **Muzha Tieguanyin**: Ein gereifter Tee aus der Gegend um Maokong in Wenshan, Taipei City, bei dem Teegärten und Tourismus-Teestuben koexistieren.
 
-Die Teeplantagen im Norden nutzen oft Terrassenanbau, um die Hänge optimal zu erschließen; die Terrassenlandschaft ist auch eine touristische Attraktion. Die „Tee-Goldene Ära“ (Cha Jin Sui Yue) der Wen Shan Region wurde als Kulturlandschaft registriert und schützt das traditionelle Teeherstellungshandwerk und die ländlichen Siedlungen.
+Die Teeanbaugebiete im Norden sind oft terrassenförmig an Hängen angelegt, wobei die Landschaft selbst zu einer touristischen Ressource geworden ist; die Region Pinglin bleibt ein Hauptproduktionsgebiet für Wen Shan Baozhong Tea.
 
-### Peri-urbane Landwirtschaft
+### Landwirtschaft am Stadtrand
 
-Mit der Ausdehnung des Großraums Taipei hat sich im Norden eine einzigartige Stadtlandwirtschaft entwickelt:
+Mit der Expansion des Großraums Taipei hat sich eine einzigartige Stadtlandwirtschaft entwickelt:
 
-- **Städtische Gärten**: Vermieten Flächen, damit städtische Bewohner Landwirtschaft erleben können.
-- **Bio-Kleinbauern**: Produzieren hochwertige Gemüse und Obst für den Premiummarkt.
-- **Erholungsfarmen**: Kombinieren Bildung, Tourismus und landwirtschaftliche Produktion.
+- **Bürgergärten**: Vermietung von Flächen, damit städtische Bewohner Landwirtschaft erleben können.
+- **Bio-Kleinbauern**: Spezialisiert auf hochwertige Gemüse für den gehobenen Konsummarkt.
+- **Freizeitfarmen**: Kombinieren Bildung, Tourismus und landwirtschaftliche Produktion.
 
-## Landwirtschaft in der Mitte: Der goldene Korridor des Taiwanischen Kornspeichers
+## Landwirtschaft im Zentrum: Der goldene Korridor der Taiwanischen Kornkammer
 
-Der Goldene Korridor, bestehend aus Changhua, Yunlin und Chiayi, ist ein zentraler Pfeiler der Ernährungssicherheit Taiwans. Das Tzuogsu Creek transportiert große Mengen an Sedimenten und bildet diese fruchtbare Ebene, die 30 % des Reises Taiwans liefert.
+Der goldene Korridor, bestehend aus Changhua, Yunlin und Chiayi, ist ein zentraler Pfeiler der Ernährungssicherheit Taiwans. Der Tzuoguo-Fluss transportiert große Mengen an Sedimenten und bildet die fruchtbaren Ebenen, die etwa 30 % des Reises für ganz Taiwan liefern.
 
-### Tzuogsu Creek Schwemmebene
+### Sedimentschleppe des Tzuoguo-Flusses
 
-Die Ebenen von Changhua, Yunlin und Chiayi im Zentrum sind Kernproduktionsgebiete Taiwans und werden als „Taiwanischer Kornspeicher“ bezeichnet:
+Die Ebenen von Changhua, Yunlin und Chiayi im Zentrum sind Kernanbaugebiete Taiwans und werden als „Taiwanische Kornkammer“ bezeichnet:
 
-**Geografische Vorteile:**
+**Geografischer Vorteil:**
 
-- Der Tzuogsu Creek transportiert reiche Sedimente und bildet fruchtbare Ebenen.
-- Niederschläge von 1200–1500 mm, geeignet für den Reisanbau.
-- Flaches Gelände, das mechanisierten Anbau erleichtert.
+- Der Tzuoguo-Fluss transportiert reiche Sedimente und bildet fruchtbare Ebenen.
+- Die Niederschlagsmenge von 1200–1500 mm ist geeignet für den Reisanbau.
+- Das Gelände ist flach, was mechanisierten Anbau erleichtert.
 
 **Hauptanbauprodukte:**
 
-- **Reis**: Liefert 30 % des gesamten Landes; der Reis aus dem Tzuogsu Creek gilt als die beste Qualität.
-- **Blumen**: Tianwei Highway Garden, Pitu Flower Industry Park.
-- **Gemüse**: Kohl und Blumenkohl für den ganzen Markt Taiwans.
+- **Reis**: Liefert 30 % der Gesamtproduktion Taiwans, mit der besten Qualität des Tzuoguo-Reises.
+- **Blumen**: Tianwei Highway Garden ist einer der größten Blumenmärkte Taiwans.
+- **Gemüse**: Kohl und Brokkoli versorgen den gesamten Markt.
 
-Die Gräben-Trauben (Jufeng) von Changhua und die Orangen von Gu-Keng (Yunlin) sind repräsentative Spezialfrüchte der zentralen Ebene und frühe Beispiele für die Markenbildung in der Landwirtschaft.
+Die Granatäpfel von Changhua und die Mandarinen von Yunlin sind repräsentative feinwertige Früchte des zentralen Gebiets[^3] und frühe Beispiele für die Markenbildung der Landwirte.
 
-### Transformation zur Feinlandwirtschaft
+### Transformation zur Feinwertigen Landwirtschaft
 
-Angesichts des Wettbewerbs durch importierte landwirtschaftliche Produkte und der Alterung der ländlichen Bevölkerung entwickelt sich die Landwirtschaft im Zentrum hin zu einer Verfeinerung:
+Angesichts des Wettbewerbs durch importierte landwirtschaftliche Produkte und der alternden ländlichen Bevölkerung entwickelt sich die Landwirtschaft im Zentrum hin zur Feinwertigkeit:
 
-**Technologieeinsatz:**
+**Technologieanwendung:**
 
-- Intelligente Gewächshausüberwachungssysteme.
-- Drohnen zur Pestbekämpfung.
-- Präzisionslandwirtschaft mit GPS-Düngung.
+- Intelligente Gewächshausüberwachungssysteme
+- Drohnen-Pflanzenschutzmittelabgabe
+- Präzisionslandwirtschaft mit GPS-Düngung
 
 **Markenmanagement:**
 
-- Geografische Kennzeichnung „Tzuogsu Rice“.
-- Industrialisierung der Tianwei Blumenparks.
-- Rückverfolgbarkeit durch landwirtschaftliche Genossenschaften.
+- Regionale Marken wie „Tzuoguo Reis“
+- Industrialisierung von Blumenparks in Tianwei
+- Rückverfolgbarkeit durch landwirtschaftliche Genossenschaften
 
-## Landwirtschaft im Süden: Das tropische Obstreich
+## Landwirtschaft im Süden: Das tropische Königreich der Früchte
 
-Die Regionen Tainan, Kaohsiung und Pingtung im Süden liegen südlich des nördlichen Wendekreises; das Klima ist heiß und feucht mit einer Vegetationsperiode von über 300 Tagen, was die dichteste Ansammlung tropischer Obstbäume in Taiwan schafft. Die Ebene von Jianan profitierte vom Bewässerungsprojekt der Grandesierung-Bewässerungsanlage in den 1920er Jahren und wurde zu einem der größten Reis- und Zuckerrohranbaugebiete Taiwans.
+Die südlichen Gebiete von Tainan, Kaohsiung und Pingtung liegen südlich des nördlichen Wendekreises. Mit langen Sommern und warmen Wintern dauert die Vegetationsperiode über 300 Tage, was zu den dichtesten tropischen Obstbaugebieten Taiwans führt. Die Changhua-Ebene profitiert von der Bewässerungsinfrastruktur aus den 1920er Jahren und ist ein wichtiges Zentrum für Reis- und Zuckerrohrproduktion in Taiwan.
 
-### Tropische Landwirtschaft Pingtung
+### Tropische Landwirtschaft in Pingtung
 
-Die Präfektur Pingtung liegt südlich des nördlichen Wendekreises; das tropische Klima mit hoher Temperatur und Feuchtigkeit bringt eine Vielzahl von tropischen Obstbäumen hervor:
+Die Präfektur Pingtung liegt südlich des nördlichen Wendekreises, und das tropische Klima mit hoher Temperatur und Feuchtigkeit bringt eine Vielzahl von tropischen Obstbäumen hervor:
 
-**Spezialfrüchte:**
+**Besondere Früchte:**
 
-- **Litschis**: Die Präfektur Pingtung macht 60 % der gesamten Produktion aus und ist bekannt für die Sorte „Black Pearl“.
-- **Ananas**: Golden Diamond Ananas wird nach Japan exportiert, mit einem Preis, der dem normalen Ananas 3-5 Mal entspricht.
-- **Mangos**: Aiwen Mango und Jinhuang Mango werden im Sommer auf den gesamten Markt Taiwans geliefert.
+- **Limes**: Die Anbaufläche in Pingtung macht über 70 % Taiwans aus. Die südliche Rosa-Sorte wird wegen ihrer tiefroten Farbe und hohen Zuckergehalt oft als „Schwarzer Perle“[^8] bezeichnet.
+- **Ananas**: Die "Golden Diamond" Ananas ist eine wichtige Exportsorte.
+- **Mango**: Wen-Mango und Jinhuang Mango versorgen den gesamten Markt im Sommer.
 
-Die „Precious Honey棗“ (Zhenbao Mi Zao) von Pingtung ist während des Chinesischen Neujahrs oft nicht ausreichend verfügbar und dient als Beispiel dafür, wie die Landwirte Südtaiwans den saisonalen Marketingrhythmus beherrschen.
+Die Nachfrage nach Süßmandarine in Pingtung vor dem Chinesischen Neujahr war ein repräsentatives Beispiel dafür, wie die Landwirte Südtaiwans den saisonalen Marketingrhythmus beherrschten.
 
-### Die Landwirtschaft der Jianan-Ebene
+### Landwirtschaft der Changhua-Ebene
 
-Die Ebene von Tainan und Chiayi profitiert vom Bewässerungssystem der Grandesierung-Bewässerungsanlage und bildet eine groß angelegte landwirtschaftliche Produktion. Der Bau dieser Anlage während der japanischen Kolonialzeit in den 1920er Jahren erreichte eine Bewässerungsfläche von 150.000 Hektar und führte das „Drei-Jahres-Feldrotationssystem“ (Reis → Zuckerrohr → Brache) ein, wodurch die Grundlage für die moderne Wasserwirtschaft Taiwans gelegt wurde.
+Die Changhua-Ebene von Tainan und Chiayi profitiert vom Bewässerungssystem des Tzuoguo-Kanals und bildet eine groß angelegte landwirtschaftliche Produktion. Der Kanal wurde 1920 begonnen und 1930 abgeschlossen, mit einer bewässerten Fläche von etwa 150.000 Hektar. Da die Wassermenge nicht ausreichte, um das gesamte Bewässerungsgebiet gleichzeitig zu bewässern, nutzte der große Kanal ein „Dreijähriges Fruchtwechsel“-System und teilte das Gebiet in drei Zonen auf, die abwechselnd Reis, Zuckerrohr und Mischkulturen anbauten, wodurch die Grundlage für die moderne Wasserwirtschaft Taiwans gelegt wurde[^5][^7].
 
-Heute machen Reis aus der Jianan-Ebene 25 % der gesamten taiwanesischen Produktion aus; die Orchideenindustrie ist hier konzentriert und Taiwan ist der größte Exporteur von Orchideen weltweit[^1]. Die Garnelenzucht erwirtschaftet jährlich über 3 Milliarden NTD und ist eine wichtige Einnahmequelle für die Küstenlandwirte im Süden.
+Die Changhua-Ebene ist auch heute noch ein wichtiger Reisanbauort in Taiwan. Das Orchid Biotechnology Park in Houbi, Tainan, konzentriert die Orchideienindustrie, und Taiwan ist der weltweit größte Exporteur von Phalaenopsis (Malaika) [^1]. Die Fischzucht entlang der Küste ist eine wichtige Einkommensquelle für Fischer und Landwirte im Süden.
 
 ## Landwirtschaft im Osten: Bio- und indigene Landwirtschaft
 
-Das Hoa-Dong-Tal liegt zwischen dem Zentralgebirge und dem Küstengebirge, fernab industrieller Verschmutzung; die landwirtschaftlichen Produktionsbedingungen werden von Bio-Zertifizierungsstellen anerkannt. Die Anbaufläche für Bio-Landwirtschaft in Hualien macht über 30 % der gesamten landwirtschaftlichen Fläche des Bezirks aus und ist der höchste Prozentsatz im ganzen Land; Marken wie Chishang Rice und Fuli Rice haben sich auf dem Markt für Premiumreis Taiwans einen Namen gemacht.
+Das Hoa-Tung-Tal liegt zwischen dem Zentralgebirge und dem Küstengebirge, weit entfernt von industrieller Verschmutzung. Die Präfektur Hualien ist der County mit der größten zertifizierten Bio-Anbaufläche Taiwans; Anfang 2023 erreichte sie 3.175 Hektar für 662 Haushalte, was deutlich über dem zweitplatzierten Chiayi liegt[^9]. Marken wie Chishang Reis und Fuli Reis haben sich auf dem Markt für Premiumreis in Taiwan einen Namen gemacht.
 
-### Bio-Landwirtschaft im Hoa-Dong-Tal
+### Bio-Landwirtschaft im Hoa-Tung-Tal
 
-Die Regionen Hualien und Taitung im Hoa-Dong-Tal sind aufgrund ihrer abgelegenen Lage und geringeren industriellen Verschmutzung von einer sauberen Umwelt und Wasserversorgung, was eine natürliche Voraussetzung für die Bio-Zertifizierung ist. Die traditionelle Landwirtschaft der indigenen Völker wird hier vollständig bewahrt; zusammen mit dem steigenden Verbraucherbedarf an Bio-Produkten ist dieser Ort zu einem Zentrum der Bio-Landwirtschaft geworden.
+Die Regionen Hualien und Taitung im Hoa-Tung-Tal profitieren von ihrer abgelegenen Lage und geringeren industriellen Verschmutzung, was eine natürliche Garantie für die biologische Zertifizierung bietet[^6]. Die traditionelle Landwirtschaft der indigenen Völker wird hier vollständig bewahrt. Da die Nachfrage der Verbraucher nach Bio-Produkten steigt, ist dieser Ort ein wichtiges Zentrum für die Entwicklung der Bio-Landwirtschaft.
 
-Chishang Rice und Fuli Rice sind repräsentative Marken des Bio-Reises im Hoa-Dong-Tal. Die Starfruit-Produktion in Taitung macht 90 % der gesamten taiwanesischen Produktion aus; die große Exportierung von Damei Starfruit nach China war bekannt. Die Lotusblume ist eine traditionelle indigene Kulturpflanze, die zu Tee und Marmelade verarbeitet und im ganzen Land verkauft wird; die Paiwan und Rukai Völker haben in jüngster Zeit den Anbau von kleinen Reissorten wieder aufgenommen, was ein Indikator für die Wiederbelebung der Kultur und Landwirtschaft ist.
+Chishang Reis und Fuli Reis sind repräsentative Marken des Bio-Reises im Hoa-Tung-Tal. Taitung hat etwa 90 % der gesamten Rambutan-Produktion Taiwans[^10]. Die Lok-Göttin-Blume ist eine traditionelle indigene Kulturpflanze, die zu Tee und Marmelade verarbeitet und in ganz Taiwan verkauft wird; die Paiwan und Rukai haben in den letzten Jahren begonnen, alte Reissorten wieder anzubauen, was ein Indikator für die Wiederbelebung von Kultur und Landwirtschaft ist.
 
 ### Wiederbelebung der indigenen Landwirtschaft
 
-In jüngster Zeit steigern indigene Gemeinschaften ihre Verhandlungsmacht durch die kollektive Führung von Dorfanbaugenossenschaften. Die Wiederanbau von Superfoods wie Quinoa und Baumbohnen in Taiwan sowie ökologische Anbaumethoden, die mit der Natur koexistieren, bilden drei Pfade zur Wiederbelebung der indigenen Landwirtschaft.
+In jüngster Zeit steigern indigene Gemeinschaften ihre Verhandlungsmacht durch kollektives Management über Kooperativen. Die Wiederherstellung von Superfoods wie Quinoa und Baumbohnen in Taiwan, sowie ökologische Anbaumethoden im Einklang mit der Natur, bilden drei Pfade zur Wiederbelebung der indigenen Landwirtschaft[^4].
 
 ## Herausforderungen und Zukunft der Landwirtschaft
 
-Die taiwanesische Landwirtschaft steht vor strukturellen Problemen: Der Durchschnittsalter der landwirtschaftlichen Bevölkerung liegt über 65 Jahren; das Ackerland wird jährlich durch Industrie- und Wohngebiete eingenommen, und der Preisdruck durch importierte landwirtschaftliche Produkte nimmt stetig zu. Gleichzeitig führt der Klimawandel zu einer Zunahme von Extremwetterereignissen, eine Verschiebung der Schädlingsverteilung nach Norden und die Veränderung der Anbauzonen einiger Pflanzen.
+Die taiwanesische Landwirtschaft steht vor strukturellen Problemen: Der Durchschnittsalter der landwirtschaftlichen Betreiber beträgt 64,4 Jahre (Volkszählung von Land-, Fischerei- und Viehwirtschaft 2020)[^11]. Ackerland wird jährlich durch Industrie- und Wohngebiete eingenommen, und der Preisdruck durch importierte landwirtschaftliche Produkte nimmt stetig zu. Gleichzeitig führt der Klimawandel zu einer Zunahme extremer Wetterereignisse; Schädlinge wandern nach Norden, und die Anbauzonen einiger Pflanzen haben sich unbemerkt verändert.
 
 ### Strukturelle Herausforderungen
 
-Der Klimawandel erhöht die Häufigkeit von Taifunen, Dürren und Starkregen; die Verbreitung von Schädlingen verschiebt sich nach Norden, und das Eindringen von Salzwasser bedroht die Küstenlandwirtschaft. Sozial gesehen führt der Wegzug junger ländlicher Menschen, die Enteignung von Ackerland für Fabriken und der Wettbewerb durch importierte Produkte zu einem dreifachen Druck auf die taiwanesische Landwirtschaft.
+Der Klimawandel erhöht die Häufigkeit von Taifunen, Dürren und Starkregen, während die Verbreitung von Schädlingen in höhere Breitengrade vordringt; der Meeresspiegelanstieg bedroht die Küstenlandwirtschaft. Sozial gesehen führen der Abwanderung junger Landwirte, die Enteignung von Ackerland für Fabriken und den Wettbewerb durch importierte Produkte zu einem dreifachen Druck auf die taiwanesische Landwirtschaft.
 
 ### Transformationsstrategien
 
 In technologischer Hinsicht führt Taiwan KI zur Vorhersage von Schädlingen ein, entwickelt vertikale Farmen und Pflanzenfabriken und nutzt die Blockchain zur Erstellung von Lieferketten-Nachverfolgung, sodass Verbraucher den Ursprung und den Anbauprozess jeder Charge nachverfolgen können.
 
-Auf politischer Ebene sind der Aufbau des landwirtschaftlichen Versicherungssystems, die Subventionierung der Rückkehr junger Bauern in die Dörfer und die Durchsetzung der Landnutzungsgesetze drei tragende Säulen zur Stabilisierung der landwirtschaftlichen Versorgung. In industrieller Hinsicht ist die Transformation hin zur Feinlandwirtschaft und die Agrar-Tourismus- sowie Erlebnisökonomie zu wichtigen Einkommensquellen geworden.
+Auf politischer Ebene sind der Aufbau des landwirtschaftlichen Versicherungssystems, die Subventionierung von Rückkehrgründern in ländliche Gebiete und die Durchsetzung der Landnutzungsgesetze drei wichtige Säulen zur Stabilisierung der landwirtschaftlichen Versorgung. In industrieller Hinsicht ist der Wandel hin zur feinwertigen Landwirtschaft und die Agrar-Tourismus- sowie Erlebnisökonomie zu wichtigen Einkommensquellen geworden.
 
 ## Die Landwirtschaft Taiwans aus globaler Sicht
 
 Obwohl Taiwan nicht groß ist, hat es internationale Bedeutung in den Bereichen Technologieexport, nachhaltige Entwicklung und Ernährungssicherheit.
 
-Im Bereich der Orchideenzüchtung ist Taiwan der größte Exporteur von Orchideen weltweit; im Bereich der Agrarbiotechnologie haben die Technologien von Pflanzenfabriken und vertikalen Farmen Taiwans Japan und Singapur exportiert. Das System der Bio-Zertifizierung und die Erfahrungen des ländlichen Gemeinschaftsaufbaus werden auch von landwirtschaftlichen Ministerien in vielen südostasiatischen Ländern referenziert.
+Im Bereich der Orchideenzüchtung ist Taiwan der weltweit größte Exporteur von Phalaenopsis; im Bereich der Agrarbiotechnologie beginnen die Pflanzenfabriken und Anbautechniken Taiwans, ins Ausland zu exportieren; landwirtschaftliche Technologiegruppen verbleiben langfristig in Gastländern und bringen Reis- und Gartenbautechnologien dorthin.
 
-Die taiwanesische Landwirtschaft wandelt sich vom „Taiwanischen Kornspeicher“ zur „Insel der Feinlandwirtschaft“ und gewinnt auf begrenztem Land durch Qualität und Marke; sie bietet einem kleinen asiatischen Agrarökosystem einen praktikablen Transformationspfad.
+Die taiwanesische Landwirtschaft wandelt sich vom „Taiwanischen Kornkammer“ zum „Insel der feinwertigen Landwirtschaft“. Sie gewinnt auf begrenztem Land durch Qualität und Marke und bietet einem kleinen asiatischen Agrarökosystem einen gangbaren Transformationspfad.
 
 ## Referenzen
 
-[^1]: [Jahresbericht der taiwanesischen Landwirtschaft](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Statistikamt für Landwirtschaft, 2025.
+[^1]: [„Taiwanisches Jahreslandwirtschaftsstatistiken“](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Ministerium für Landwirtschaft, Statistikamt, 2025.
 
-[^2]: [Informationen zu Agrarpolitik und -entwicklung](https://www.moa.gov.tw/) — Ministerium für Landwirtschaft, einschließlich „Geschichte der taiwanesischen Landwirtschaft“ (2023).
+[^2]: [Informationen zu Agrarpolitik und Entwicklung](https://www.moa.gov.tw/) — Ministerium für Landwirtschaft
 
-[^3]: [Informationen zur Entwicklung der landwirtschaftlichen Industrie](https://www.chcg.gov.tw/) — Regierung von Changhua, einschließlich „Industrieentwicklungsbericht des Tzuogsu Creek Rice Granary“ (2024).
+[^3]: [Informationen zur Entwicklung der landwirtschaftlichen Industrie](https://www.chcg.gov.tw/) — Changhua County Government
 
-[^4]: [Landwirtschaft und industrielle Entwicklung indigener Völker](https://www.taitung.gov.tw/) — Regierung von Taitung, einschließlich „Plan zur Wiederbelebung der indigenen Landwirtschaft“ (2025).
+[^4]: [Entwicklung der indigenen Landwirtschaft und Industrie](https://www.taitung.gov.tw/) — Taitung County Government
 
-[^5]: [Informationen zu Jianan Grand Canal und Wasserwirtschaftsgeschichte](https://www.ia.gov.tw/) — Amt für Land- und Wasserbau des Ministeriums für Landwirtschaft, einschließlich „Hundertjährige Geschichte des Jianan Grand Canal“ (2020).
+[^5]: [Offizielle Website](https://www.ia.gov.tw/) — Taiwan Agricultural Water Resources Agency (IA)
 
-[^6]: [Informationen zur Entwicklung der Bio-Landwirtschaft im Osten](https://www.hl.gov.tw/) — Landwirtschaftsabteilung der Regierung von Hualien, einschließlich „Umfrage zum aktuellen Stand der Bio-Landwirtschaft im Osten“ (2024).
+[^6]: [Offizielle Website](https://www.hl.gov.tw/) — Hualien County Government Agriculture Bureau
+
+[^7]: [„Über den Chianan-Bewässerungskanal“](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Taiwan Agricultural Water Resources Agency (IA)
+
+[^8]: [„Über Limes“](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — Agricultural Food Education Information Integration Platform
+
+[^9]: [„Der Spitzenreiter bei der Bio-Anbaufläche und -Haushalten“](https://info.organic.org.tw/35259/) — Global Organic Agriculture Information Network
+
+[^10]: [„Chinesische Produktion führt zu Preisverfall; Ministerium für Landwirtschaft fördert Verarbeitung von Ananas und Rambutan“](https://news.ltn.com.tw/news/life/breakingnews/5478936) — Liberty Times, 2026-06-21 — „95 % des Exportmarktes konzentrieren sich auf China“, nach dem chinesischen Importstopp im September 2021 wurde auf Umschichtung und Verarbeitung umgestellt.
+
+[^11]: [„Vorläufige Ergebnisse der Volkszählung von Land-, Fischerei- und Viehwirtschaft für das Jahr 109“](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Executive Yuan Budget Bureau
