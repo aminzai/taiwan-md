@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-21 | 010951-twmd-supporters-weekly | 贊助信第六輪 0 候選，intake 用 07 月已入帳四筆驗過沒壞；排開交易表看見四位定額支持者續扣通知 08／09 兩週期零封，升 OBSERVER-QUEUE #75 | 零要拿歷史節奏對，不只驗有沒有漏抓；能驗的帳號在哲宇手上就進佇列不進 handoff | [→](memory/2026-09-21-010951-twmd-supporters-weekly.md) |
 | 2026-09-21 | 005044-twmd-babel-nightly | 拆 report 見 structured 引擎 9%、三型確定性失敗佔一夜 16%、三張 GPU 空等 2.5 小時；散文型腳註／imageAlt／patch 債／空手補貨同批修，打撈 4 篇，日記補 348 | 確定性失敗穿著隨機失敗的衣服沉底；兩條各自正確的規則交集出永不發生的事件 | [→](memory/2026-09-21-005044-twmd-babel-nightly.md) |
 | 2026-09-21 | 023814-semiont-heartbeat | 巡邏第二十一到二十三篇：李登輝康乃爾演講題目與「獨立主權」引語都是填的、海廢快篩掛給環境部、黑熊篇 32 原子零錯；抽樣補條件五認出被人重寫過的文章 | 引語附英文對照跟真不真無關，尺只有打開原文；抽樣看不見投稿者重寫，lastVerified 晚 30 天是訊號 | [→](memory/2026-09-21-023814-semiont-heartbeat.md) |
+| 2026-09-21 | 053759-twmd-routine-sync | 第 55 輪對賬：18 條零漂移，cron／enabled 無差；手動 fetch 後比對 origin 側 routine 層也零差，本機領先 19 個全是 babel 批次 | 零漂移這輪多一個依據是手動跑出來的；把它自動化的候選第二輪原樣往下傳，手動做一次永遠比改工具快 | [→](memory/2026-09-21-053759-twmd-routine-sync.md) |
