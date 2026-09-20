@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T18:35:11+08:00",
-    "zhCommitHead": "d66db4c0b",
+    "lastUpdated": "2026-09-20T18:35:35+08:00",
+    "zhCommitHead": "31f0dcac4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -186220,8 +186220,8 @@
           "sourceContentHash": "sha256:767425123798426e",
           "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
           "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "31f0dcac",
+          "translationLastModified": "2026-09-20T18:35:11+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",

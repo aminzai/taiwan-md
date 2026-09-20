@@ -2,9 +2,7 @@
 title: 'Jensen Huang'
 description: 'Từ trường nội trú Kentucky đến đế chế 5 nghìn tỷ USD — Một cậu bé Đài Nam quét nhà vệ sinh đã đặt cược vào tương lai chỉ đến sau mười năm như thế nào'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'Nhân vật',
@@ -16,14 +14,18 @@ tags:
     'Đài Nam',
     'GPU',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
+image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e9178b000513a553'
-sourceBodyHash: 'sha256:0447f104316070ca'
-translatedAt: '2026-07-18T18:59:52+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-20T09:02:13.386260+00:00'
 ---
 
 # Jensen Huang (Jensen Huang)
@@ -141,26 +143,27 @@ Curtis Priem nhớ lại: "Ngày đầu tiên chúng tôi đã nghe Jensen. Chú
 
 Được hỏi làm thế nào để vượt qua những năm tháng không thấy điểm kết thúc, câu trả lời của ông rất Huang Jen-hsun: "Giữa đường có rất nhiều nỗi đau, nhưng bạn phải tin vào những gì mình tin"[^18]. Câu nói này gần như có thể làm chú thích cho toàn bộ sự nghiệp của ông — từ quét nhà vệ sinh, rửa bát, đường cùng của kết xuất tứ giác, đến 16 năm chờ đợi CUDA, điều khiến ông khác biệt là trong hơn mười năm trước khi cược được trả giá, ông luôn không buông tay.
 
-## Người quét nhà vệ sinh và hình xăm NVIDIA của ông
+## Bản xát nơi nhà vệ sinh và bông tattoo NVIDIA của ông
 
-Năm 2024, Huang Jen-hsun được trao bằng Tiến sĩ danh dự của Đại học Đài Loan, được _The Economist_ bình chọn là CEO tốt nhất năm, xuất hiện trong danh sách 100 nhân vật có ảnh hưởng của _Time_. Năm 2025, ông và nhà khoa học chính Bill Dally của NVIDIA cùng được trao Giải thưởng Kỹ thuật Nữ hoàng Elizabeth (Queen Elizabeth Prize for Engineering), cùng liệt với các tiên phong AI Geoffrey Hinton, Yann LeCun, Fei-Fei Li, do Vua Charles III của Anh trao giải tại Cung Thánh James[^12].
+Năm 2024, Huang Jen-hsư­n được trao danh dự bác sĩ danh dự cho Đại học Đài Loan, được tạp chí The Economist bình chọn CEO xuất sắc nhất năm, và góp mặt trong danh sách 100 người ảnh hưởng lớn nhất thế giới của tạp chí Time. Năm 2025, ông cùng với nhà khoa học chính tại NVIDIA, Bill Dally, được trao Giải Kỹ thuật Nữ hoàng Elizabeth (Queen Elizabeth Prize for Engineering), cùng với các nhà tiên phong AI như Geoffrey Hinton, Yann LeCun, Fei-Fei Li, và lễ trao giải do Vua Charles III tự tay thực hiện tại Cung St James's[^12]。
 
-Năm 2026, ông được nhiều truyền thông trực tiếp gọi là "Thánh chủ AI", mỗi bài phát biểu công khai đều được coi là quả cầu chỉ hướng của toàn bộ ngành, ngay cả ông mặc chiếc áo da nào, ăn gì ở quầy chợ đêm nào, đều có thể lên trang nhất báo. Một sinh viên kỹ thuật năm 16 tuổi nhảy lên hai cấp, trông giống một đứa trẻ, đã đi đến vị trí mà toàn thế giới đều phải lắng nghe ông. Và cách ông đáp lại tất cả điều này, vẫn là mỗi quý bay về Đài Loan, chui vào quầy ăn vặt Đài Nam, dùng tiếng Đài Loan cãi vã với chủ quán.
+Năm 2026, nhiều truyền thông trực tiếp gọi ông là "đấng sư thầm của AI", mỗi buổi thuyết trình công khai của ông đều được coi là thanh kính cho toàn ngành công nghiệp. Ngay cả những chiếc áo da mà ông mặc, những gánh hàng đường phố mà ông ghé ăn, cũng trở thành tiêu đề tin tức. Một học sinh kỹ thuật năm 16 tuổi, xuất hiện như một cậu nhỏ, đã bước từng bước để trở thành người mà cả thế giới lắng nghe. Và cách ông đáp lại tất cả điều đó, vẫn là mỗi quý lại lặng lẽ bay về Đài Loan, lẻn vào những quán ăn đường phố ở Tainan, trò chuyện bằng tiếng Hokkien với chủ quán。
 
-Nhưng ngoài tất cả các danh hiệu, có một chi tiết có lẽ nói rõ hơn ông là người như thế nào. Khi vốn hóa NVIDIA vượt 1 nghìn tỷ USD, ông đã thực hiện lời hứa với nhân viên, xăm logo NVIDIA lên cánh tay.
+Nhưng ngoài tất cả những danh hiệu ấy, có một chi tiết nhỏ có thể nói lên được bản chất của ông. Khi thị trường vốn hóa của NVIDIA vượt qua 1 nghìn tỷ USD, ông đã giữ lời hứa với nhân viên bằng cách xăm logo của NVIDIA lên cánh tay mình。
 
-Cánh tay của Huang Jen-hsun hiện có hình xăm thương hiệu doanh nghiệp. Cậu bé 10 tuổi với người phòng cùng phòng đầy hình xăm, dạy ông cử tạ, ông dạy bạn đọc và viết. Giao dịch đó cách đây 50 năm, có lẽ là lần có ROI (tỷ suất lợi nhuận trên đầu tư) cao nhất trong cuộc đời ông.
+Tay cánh của Huang Jen-hsư­n bây giờ có một họa tiết thương hiệu doanh nghiệp. Khi còn 10 tuổi, người bạn cùng phòng của ông — người có đầy đủ bông tattoo trên cơ thể — dạy ông tập cường, và ông dạy bạn học đọc viết. Khoảng thời gian trôi qua nửa thế kỷ sau, đó chính là khoảng thời gian mang lại ROI cao nhất trong cuộc đời ông。
 
 ---
 
 **Đọc thêm**:
 
-- [Trương Trung Mậu](/people/張忠謀) — Đối tác quan trọng nhất của NVIDIA, người sáng lập TSMC, tình bạn hơn 30 năm giữa hai người đã buộc chuỗi cung ứng AI toàn cầu
-- Đài Loan doanh nghiệp: TSMC — Công ty Đài Loan gia công chip tiên tiến nhất của NVIDIA, "anh hùng thế giới" trong lời nói của Huang Jen-hsun
-- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Chip của Huang Jen-hsun và Su Zifeng đều được sản xuất trên hòn đảo này, đây là khiên silicon của Đài Loan
-- [NVIDIA tại Đài Loan: Công ty đắt giá nhất thế giới, không có chip nào tự mình làm](/technology/NVIDIA在台灣) — Công ty ông sáng lập cộng sinh với ngành công nghiệp hòn đảo này: chip, máy chủ, tổng bộ, và một thỏa thuận đất 4,434 tỷ
-- [Ji Huai-xin (Jim Huang): Người Đài Loan dạy AI học "suy nghĩ từng bước"](/people/紀懷新) — Một người Đài Loan khác đứng ở tuyến đầu AI, chip của Huang Jen-hsun làm cho AI chạy nhanh, tư duy chuỗi suy luận của Ji Huai-xin làm cho AI học suy nghĩ từng bước
-- [Giang Trấn Thành (Chang Chen-cheng)](/people/江振誠) — Một người Đài Loan khác cũng đứng ở đỉnh cao quốc tế, đi theo con đường ngược lại: chủ động quay lưng ở đỉnh cao, từ chối bị định nghĩa bởi một danh hiệu
+- [Chang Jen-hsư­n](/vi/people/tsmc-morris-chang) — Đối tác then chốt của NVIDIA, người sáng lập TSMC, hơn 30 năm tình bằng hữu của hai người nối kết toàn bộ chuỗi cung ứng AI toàn cầu
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Công ty Đài Loan sản xuất chip tiên tiến nhất cho NVIDIA, "anh hùng thế giới" trong lời gọi của Huang Jen-hsư­n
+- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Các con chip của Huang Jen-hsư­n và Su Tzu-feng đều được sản xuất trên hòn đảo này, đây chính là cái lá chắn thép của Đài Loan
+- [NVIDIA tại Đài Loan: Công ty đắt giá nhất thế giới nhưng chưa từng sản xuất một con chip nào](/vi/technology/nvidia-in-taiwan) — Công ty do ông sáng lập và nền kinh nghiệp của hòn đảo này cùng tồn tại: chip, máy chủ, trung tâm, và khoản đất trị giá 44.34 triệu USD
+- [Chi Hữu Tân: Người dạy AI "nghĩ từng bước một"](/vi/people/chi-huai-hsin) — Một người Đài Loan khác đứng ở tuyến đầu của AI, con chip của Huang Jen-hsư­n giúp AI chạy nhanh, nhưng tư duy chuỗi của Chi Hữu Tân giúp AI học cách lập luận từng bước
+- [Jiang Zhencheng](/vi/people/andre-chiang-taiwanese-culinary-innovator) — Một người Đài Loan khác cũng lên tới đỉnh cao quốc tế, nhưng chọn con đường ngược lại: ở đỉnh cao, quyết định bước ra và từ chối để bất kỳ danh hiệu nào định nghĩa cái chết
+- [Kể chuyện về công nghệ Đài Loan: 100 điểm cho con chip, 60 điểm cho micro](/vi/technology/taiwan-tech-storytelling) — Đặt người giỏi kể chuyện về con chip của Đài Loan và ngành công nghiệp kém kể chuyện nhất cùng một bài, đo lường khoảng cách 40 điểm giữa họ
 
 ## Nguồn hình ảnh
 
