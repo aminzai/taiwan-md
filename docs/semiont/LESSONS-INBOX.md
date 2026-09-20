@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-21 twmd-supporters-weekly — expected-cadence-missing-from-empty-intake-check：空佇列檢查只驗「有沒有漏抓」，沒驗「照歷史節奏該來幾筆」
+
+- **pattern**: `expected-cadence-missing-from-empty-intake-check`
+- **原則**：一條「處理進來的東西」的 routine，佇列空的那一輪會去驗讀取端（查法對不對、spam 有沒有、欄位抓不抓得到），這些全在證明「沒漏抓」。但有些來源本身帶節奏（定額續扣、月報、每日 dump），零的意義要拿節奏去對：上次有進帳是什麼時候、照過去的間隔現在該有幾筆。零 vs 該來三筆卻零，讀取端的檢查全部一樣綠。
+- **觸發**：2026-09-21 twmd-supporters-weekly 第六輪 0 候選。前五輪各自證明了 intake 沒壞（收件人限定、subject 反查、spam／trash），沒有一輪把 16 筆交易按日期排開；排開才看見四位定額支持者的續扣通知過去每月準時到（沈宗杰 04-19／05-19／06-18／07-18 等），08 與 09 月兩個扣款週期四人零封，較像 Portaly 改版後停發續扣信而非四人同時流失。已進 OBSERVER-QUEUE #75 等哲宇看後台。
+- **instances**：
+  - 2026-09-21 twmd-supporters-weekly → memory/2026-09-21-010951-twmd-supporters-weekly.md
+- **修補候選**：`fetch-portaly-supporters.py --summary` 加一段「定額支持者上次入帳日與預期下次日」：對每個 `type=monthly` 的 name 取最後一筆日期，超過 40 天沒下一筆就印 ⚠️；routine 的 Stage 1 讀 summary 時這行會自己叫，不靠當班想到要排表。
+- **可能層級**：操作規則（SUPPORTERS-PIPELINE Stage 1 加 cadence 行）；REFLEXES #38 (g) 零維度變體的續扣版候選（零 = 安靜／壞了／該來沒來三義）
+- **相關**：REFLEXES #38 (g) `empty-intake-cannot-distinguish-quiet-from-broken`（本條加第三義：intake 沒壞、但上游該發的沒發）、#82 proxy signal（每週綠燈量的是通知管道不是進帳）、#15
+- **verification_count**: 1
+
 ### 2026-09-20 twmd-routine-audit-weekly — steady-state-reconciliation-has-no-owner-after-the-crisis-does：分岔的危機修復寫進了 maintainer 職責，分岔的穩態對賬卻由每個剛醒來的 session 各付一次
 
 - **pattern**: `steady-state-reconciliation-has-no-owner-after-the-crisis-does`
