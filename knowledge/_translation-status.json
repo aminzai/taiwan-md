@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T18:58:08+08:00",
-    "zhCommitHead": "1f25af2f2",
+    "lastUpdated": "2026-09-20T20:09:28+08:00",
+    "zhCommitHead": "5eeccadf4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 58,
+        "fresh": 1037,
+        "stale": 57,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 906,
+        "fresh": 907,
         "stale": 103,
         "metadata_stale": 28,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "ko": {
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 993,
-        "stale": 54,
+        "fresh": 994,
+        "stale": 53,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 989,
-        "stale": 78,
+        "fresh": 990,
+        "stale": 77,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 952,
+        "fresh": 953,
         "stale": 53,
         "metadata_stale": 11,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       },
       "ar": {
@@ -19319,8 +19319,8 @@
           "sourceContentHash": "sha256:d376a35c550402b2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T09:11:08.269865+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5eeccadf",
+          "translationLastModified": "2026-09-20T18:58:08+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "fresh",
@@ -40788,7 +40788,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/utility-poles-and-transformer-boxes.md",
+          "translatedFrom": "Lifestyle/電線桿與變電箱.md",
+          "sourceCommitSha": "dd1ef85cd",
+          "sourceContentHash": "sha256:3512b2f6ca0a3376",
+          "sourceBodyHash": "sha256:b926dcc386105146",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/utility-poles-and-transformer-boxes.md",
@@ -48269,18 +48280,16 @@
         "vi": {
           "path": "vi/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "598a5a547",
-          "sourceContentHash": "sha256:2021a6224e30bd5e",
-          "sourceBodyHash": "sha256:ab86534e207e2b33",
-          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:b47bd1e69ecf0593",
+          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+26 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-grid-resilience.md",
@@ -48647,7 +48656,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taipei-smoking-room.md",
+          "translatedFrom": "Society/台北吸菸室.md",
+          "sourceCommitSha": "1929e495a",
+          "sourceContentHash": "sha256:da418b1ee825bfe1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T11:18:19.649728+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -54887,18 +54907,16 @@
         "en": {
           "path": "en/Society/pts-public-television-service.md",
           "translatedFrom": "Society/公視.md",
-          "sourceCommitSha": "81f10131",
-          "sourceContentHash": "sha256:5d55767b0e73ce88",
-          "sourceBodyHash": "sha256:55150dbbe846399a",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:672f8b4df1c422b7",
+          "sourceBodyHash": "sha256:ff708086fed4d9aa",
+          "translatedAt": "2026-09-20T11:29:43.737485+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/pts-public-television-service.md",
@@ -99472,16 +99490,16 @@
         "pt": {
           "path": "pt/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:14127c407e7b0db7",
-          "sourceBodyHash": "sha256:6d452360d79fae70",
-          "translatedAt": "2026-08-03T21:46:30+08:00",
+          "sourceCommitSha": "89b721a3d",
+          "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
+          "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
+          "translatedAt": "2026-09-20T00:52:44+08:00",
           "translationLastCommit": "89b721a3",
           "translationLastModified": "2026-09-18T21:24:38+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (20→5)"
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/tsmc-morris-chang.md",
