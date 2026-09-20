@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T14:20:33+08:00",
-    "zhCommitHead": "68ac62bd9",
+    "lastUpdated": "2026-09-20T14:41:07+08:00",
+    "zhCommitHead": "b68df18ef",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 59,
+        "fresh": 989,
+        "stale": 58,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -8041,8 +8041,8 @@
           "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
           "sourceBodyHash": "sha256:54db8d12b45ad9b3",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "b68df18e",
+          "translationLastModified": "2026-09-20T14:20:33+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -67288,18 +67288,16 @@
         "vi": {
           "path": "vi/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a213  3e5738f",
-          "translatedAt": "2026-07-24T12:35:28+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-20T06:34:48.643170+00:00",
           "translationLastCommit": "0d689a11",
           "translationLastModified": "2026-07-24T18:09:37+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/About/how-an-article-is-born.md",
