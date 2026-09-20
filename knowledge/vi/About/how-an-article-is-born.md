@@ -19,11 +19,12 @@ readingTime: 11
 featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
+relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: '984fb7892'
-sourceContentHash: 'sha256:92fcb394123e4aee'
-sourceBodyHash: 'sha256:b8984a213  3e5738f'
-translatedAt: '2026-07-24T12:35:28+08:00'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:4dc98dc84117c5d8'
+sourceBodyHash: 'sha256:2679dec9ddab6dbc'
+translatedAt: '2026-09-20T06:34:48.643170+00:00'
 ---
 
 # Một bài viết được hình thành như thế nào: Quy trình sáu giai đoạn của Taiwan.md nhằm chống lại bản năng viết lách của AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -205,21 +206,21 @@ Sự tiết chế là một mặt khác của vấn đề. Có thể viết về
 
 Còn một thói quen nhỏ nhưng cực kỳ quan trọng: hãy hào phóng khi viết về "Đài Loan". Dấu vân tay của sự né tránh nằm ở cách dùng từ dịch thuật kiểu ngoại văn; vì không dám viết Đài Loan mà thay bằng "hòn đảo này", "nơi này" làm đại từ, đặc biệt là trong tiêu đề và phần mở đầu. Sửing dụng "hòn đảo" như một hình ảnh văn học hay bối cảnh địa lý thì hoàn toàn có thể và được khuyến khích; cái chúng tôi muốn loại bỏ là sự né tránh vì không dám viết về Đài Loan.
 
-## Sự khác biệt chỉ cần nhìn qua là hiểu
+## Khác biệt nhìn là hiểu
 
-Tổng hợp những kỷ luật này lại sẽ trông như thế nào? Hãy xem một ví dụ so sánh trước và sau.
+Tổng hợp các quy tắc này lại sẽ tạo ra một hình ảnh như thế nào, cách nhanh nhất là xem bản so sánh trước và sau.
 
-Cùng viết về Đới Tử Vịnh (Tai Tzu-ying), một khuôn mẫu rỗng tuếch của AI sẽ là: "Vận động viên cầu lông nổi tiếng của Đài Loan, có thành tích xuất sắc tại các giải đấu quốc tế, giành được nhiều danh hiệu, mang lại vinh quang cho Đài Loan", theo sau là bốn dấu đầu dòng: Thành tựu chính, Phong cách thi đấu, Ảnh hưởng quốc tế, Đóng góp xã học. Cả đoạn không có một năm cụ thể nào, không có một trận đấu cụ thể nào, thay chủ ngữ bằng bất kỳ vận động viên nào cũng đều đúng.
+Khi viết về Thái Tự Anh (Tai Tzu Ying), mẫu rập khuôn trống rỗng của AI sẽ là: "Vận động viên cầu lông nổi tiếng Đài Loan, thành tích xuất sắc trên đấu trường quốc tế, nhiều lần đoạt giải, làm rạng danh Đài Loan", sau đó theo bốn gạch đầu dòng: Thành tựu chính, phong cách thi đấu, tầm ảnh hưởng quốc tế, đóng góp xã hội. Toàn bộ đoạn văn không có bất kỳ năm cụ thể nào, không có một trận đấu cụ thể nào, và chủ ngữ thay bằng vận động viên nào cũng đúng.
 
 ```tw-versus
-Khuôn mẫu rỗng của AI | Bản curation
-Thể hiện xuất sắc, mang lại vinh quang cho Đài Loan | Đứng vị trí số 1 thế giới, duy trì suốt 214 tuần liên tiếp
-Bốn dấu đầu dòng: Thành tựu/Phong cách/Ảnh hưởng/Đóng góp | Sau trận chung kết Olympic Tokyo 2020, đã rơi lệ, trở thành từ khóa tìm kiếm hàng đầu tại Đài Loan
-Thay chủ ngữ bằng ai cũng đúng | Bắt đầu tập luyện 6 tiếng mỗi ngày từ năm 6 tuổi, với lối đánh "phù thủy" tay trái
-Nguồn: EDITORIAL v6.12 §Before/After Đới Tử Vịnh
+Mẫu rập khuôn trống rỗng của AI | Bản được tuyển chọn
+Thành tích xuất sắc, làm rạng danh Đài Loan | Đứng ngôi số một thế giới, liên tục 214 tuần
+Bốn gạch đầu dòng: Thành tựu/Phong cách/Tầm ảnh hưởng/Đóng góp | Nước mắt sau trận vàng tại Olympic Tokyo 2020, đứng top tìm kiếm Google Đài Loan
+Chủ ngữ thay bằng ai cũng đúng | Tập luyện 6 giờ mỗi ngày từ năm 6 tuổi, lối đánh "phù thủy" bằng tay trái
+Nguồn: EDITORIAL v6.12 §Trước/Sau Thái Tự Anh
 ```
 
-Bản curation chỉ làm một việc duy nhất: thay thế mọi tính từ trừu tượng bằng những sự thật có thể kiểm chứng. 214 tuần là chuỗi tuần liên tiếp dài nhất trong lịch sử cầu lông nữ; trận chung kết Olympic 2020 thua Trần Vũ Phi (Chen Yu-fei) chính là khoảnh khắc mà cả cộng đồng Đài Loan cùng ghi nhớ. Sự ấm áp nằm ở những chi tiết như "khoảnh khắc thất bại lại chính là lúc độc giả ghi nhớ sâu sắc nhất". Với bài về ban nhạc Mayday cũng vậy, thay vì viết "Một trong những ban nhạc rock có ảnh hưởng nhất Đài Loan, chinh phục người hâm mộ bằng âm nhạc đầy năng lượng tích cực", hãy viết "Năm học sinh từ trường Trung học Phụ thuộc Đại học Sư phạm đã biểu diễn một ca khúc tại sân khấu dã chiến; 28 năm sau, họ tổ chức hai đêm diễn liên tiếp tại Madison Square Garden (cùng sân khấu mà The Beatles từng đứng) và toàn bộ vé đã bán hết trong vòng 48 giờ"[^13].
+Bản được tuyển chọn chỉ làm một việc: thay thế mọi tính từ trừu tượng bằng sự thật có thể kiểm chứng. 214 tuần là số tuần liên tiếp dài nhất trong lịch sử cầu lông nữ, và trận chung kết vàng thua Trần Vũ Phỉ (Chen Yufei) tại Olympic 2020 là khoảnh khắc mà người dân Đài Loan ghi nhớ tập thể. Cảm xúc được ẩn giấu ở những nơi như "khoảnh khắc ngược lại với việc thất bại lại là lúc độc giả ghi nhớ". Bài viết về Ngũ Nguyệt Thiên (Mayday) cũng tương tự, thay vì viết "Một trong những ban nhạc rock có ảnh hưởng nhất Đài Loan, chinh phục người hâm mộ bằng âm nhạc tích cực", thì nên viết "Các sinh viên của bốn trường trung học phụ thuộc Đại học Sư phạm đã biểu diễn một bài hát tại sân khấu ngoài trời, 28 năm sau lại tổ chức hai buổi diễn tại Madison Square Garden ở New York (sân khấu tương tự nơi The Beatles đặt chân đến Mỹ), vé bán hết trong vòng 48 giờ" [^13].
 
 ## Một ban biên tập không bao giờ tự viết bản thảo
 

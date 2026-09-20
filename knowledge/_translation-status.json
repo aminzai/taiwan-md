@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T15:34:01+08:00",
-    "zhCommitHead": "3f088c82e",
+    "lastUpdated": "2026-09-20T16:05:39+08:00",
+    "zhCommitHead": "9fda813fb",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1041,
-        "stale": 58,
+        "fresh": 1042,
+        "stale": 57,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 989,
-        "stale": 58,
+        "fresh": 990,
+        "stale": 57,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -2528,8 +2528,8 @@
           "sourceContentHash": "sha256:d3459042301dfb22",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T05:25:57.166101+00:00",
-          "translationLastCommit": "b3c9fed9",
-          "translationLastModified": "2026-07-25T05:25:12+08:00",
+          "translationLastCommit": "9fda813f",
+          "translationLastModified": "2026-09-20T15:34:01+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -102243,18 +102243,16 @@
         "vi": {
           "path": "vi/People/liu-an-ting-teach-for-taiwan.md",
           "translatedFrom": "People/劉安婷.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f5a74a02db786491",
-          "sourceBodyHash": "sha256:8514a8a697807f6e",
+          "sourceCommitSha": "75479a4e",
+          "sourceContentHash": "sha256:3dee896f2b15c3b8",
+          "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-08-09T11:16:34+08:00",
           "translationLastCommit": "a27747ea",
           "translationLastModified": "2026-08-09T11:42:37+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/liu-an-ting-teach-for-taiwan.md",
@@ -160037,18 +160035,16 @@
         "ko": {
           "path": "ko/Geography/jinguashi.md",
           "translatedFrom": "Geography/金瓜石.md",
-          "sourceCommitSha": "676c8cd6",
-          "sourceContentHash": "sha256:36ec0adabddd5612",
-          "sourceBodyHash": "sha256:7a207109d1ae592a",
-          "translatedAt": "2026-07-16T00:45:14+08:00",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:b78814073b388a83",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T07:29:47.029150+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/jinguashi.md",
