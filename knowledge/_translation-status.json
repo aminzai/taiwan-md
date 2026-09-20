@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T14:47:54+08:00",
-    "zhCommitHead": "fa9a9480c",
+    "lastUpdated": "2026-09-20T15:21:34+08:00",
+    "zhCommitHead": "65877bc3d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 79,
+        "fresh": 989,
+        "stale": 78,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 951,
+        "fresh": 952,
         "stale": 53,
         "metadata_stale": 11,
-        "missing": 109,
+        "missing": 108,
         "orphan": 0
       },
       "ar": {
@@ -8098,18 +8098,16 @@
         "pt": {
           "path": "pt/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-07-27T01:41:51+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
+          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
+          "translatedAt": "2026-09-20T07:11:25.604832+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -39620,7 +39618,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/invisible-nation.md",
+          "translatedFrom": "Art/看不見的國家.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:fd6fc02e66010c96",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T06:43:03.121486+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/invisible-nation.md",
@@ -44248,8 +44257,8 @@
           "sourceContentHash": "sha256:bc80c48817ccc98d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T05:10:46.006901+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65877bc3",
+          "translationLastModified": "2026-09-20T14:47:54+08:00",
           "inferred": false,
           "footnoteDefs": 50,
           "status": "fresh",
