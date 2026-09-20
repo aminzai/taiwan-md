@@ -1,322 +1,349 @@
 ---
-title: "Taiwan's River Systems and Hydrological Characteristics: The Hydrogeography of Short, Swift Currents and Seasonal Shifts"
-description: "Explore Taiwan's unique river systems, from the Zhuoshui River to the Gaoping River, and understand how the island's topography shapes its hydrological features"
+title: "Taiwan's River Systems and Hydrological Characteristics: A Hydrological Geography of Short, Rapid Flows and Seasonal Changes"
+description: "Exploring Taiwan's unique river systems, from the Chiuanan Irrigation Canal to the Gao-Ping River, to understand how island topography shapes its hydrological features."
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: 'Hydrology and Water Resources'
 tags:
   [
     'Geography',
     'Rivers',
     'Hydrology',
-    'Zhuoshui River',
-    'Gaoping River',
+    'Chiuanan River',
+    'Gao-Ping River',
     'Tamsui River',
     'Water Resources',
   ]
-readingTime: 11
+subcategory: '水文與水資源'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 11
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: '70372d3a0'
-sourceContentHash: 'sha256:8df5b8e9967c9dc4'
-sourceBodyHash: 'sha256:8b2b2e4c01c9feb3'
-translatedAt: '2026-07-24T16:23:46+08:00'
+sourceCommitSha: 'ff1ce7d66'
+sourceContentHash: 'sha256:f2ac5aec701df4d2'
+sourceBodyHash: 'sha256:4cdc3e89f08b13d3'
+translatedAt: '2026-09-21T00:58:23+08:00'
 ---
 
-# Taiwan's River Systems and Hydrological Characteristics: The Hydrogeography of Short, Swift Currents and Seasonal Shifts
+# Taiwan's River Systems and Hydrological Characteristics: A Hydrological Geography of Short, Rapid Flows and Seasonal Changes
 
-## 30-Second Overview
+## 30 Second Overview
 
-The island’s narrow, elongated shape and the eastward shift of its mountain ranges create the typical face of Taiwan’s rivers: **short, swift, and divided east-west**. The **Zhuoshui River** (186.6 km) is the longest in the country, the **Gaoping River** basin has the largest area (3,257 km²), and the **Tamsui River** system links the 400-year development history of the greater Taipei basin. Taiwan’s rivers exhibit a geographical pattern of "longer western flows, shorter eastern flows, steep slopes, and swift currents," storing both hydropower resources and bringing flood pressure during every typhoon.
+The island's narrow shape and eastern mountain range create the typical profile of Taiwanese rivers: **short, rapid flows divided between East and West**. The **Chiuanan River** (186.6 km) is the longest in Taiwan; the **Gao-Ping River** basin is the largest (3,257 sq km) [^1]; and the **Tamsui River** chronicles the four-century development of the Greater Taipei Basin. Taiwanese rivers exhibit a geographical pattern of "long to the west, short to the east, steep slopes, rapid flow," which both stores water resources and brings flood pressure during typhoons.
 
-Among the 129 central-government-managed rivers nationwide, most are less than 50 km long, yet they have an average gradient exceeding 1/100—tens of times steeper than major European rivers.
+There are 118 river systems above the county/city level in Taiwan, with 24 centrally managed rivers [^7]. Most rivers are less than 50 km long, yet their gradients often exceed 1/100, making them tens of times steeper than major European rivers.
 
-During typhoons, river flow in Taiwan can increase by a factor of 100 within 24 hours before dropping sharply. This extreme rhythm shapes Taiwan’s unique hydrological landscape and flood control culture.
+During typhoons, the flow rate of Taiwanese rivers can increase by a hundredfold within 24 hours before rapidly decreasing. This extreme rhythm has shaped Taiwan's unique hydrological landscape and flood control culture.
 
-Keywords: short swift currents, east-west division, seasonal variation, arid-type rivers, hydropower resources, watershed
+Keywords: Short rapid flows, East-West division, Seasonal changes, Winding river types, Water resources, Watershed
 
-## Why It Matters
+## Why It Is Important
 
-Taiwan has 129 central-government-managed rivers. The Zhuoshui River’s alluvial plain formed the Changhua Plain, a prime rice-producing area. The Tamsui River nurtured the Taipei Basin, establishing the political and economic center. The Dajia River’s Dede Reservoir supplies industrial water to central Taiwan. The four functions of river agricultural irrigation, urban water supply, hydropower generation, and ecological corridors form the foundational network for the island’s survival.
+Taiwan has 24 centrally managed rivers and 92 county/city managed rivers [^7]. The Chiuanan River's alluvial deposits formed the Changhua Plain, which is a prime rice production area. The Tamsui River nurtured the Taipei Basin, establishing the political and economic center. The Deyi Reservoir on the Dajia River supplies industrial water to Central Taiwan. Rivers function in four capacities—agricultural irrigation, urban water supply, hydropower generation, and ecological corridors—forming the basic network for island survival.
 
-Rivers are also Taiwan’s primary source of natural disasters. During typhoons, flow increases hundreds of times; the annual difference between wet and dry seasons (May–October accounts for 78% of annual rainfall) forces Taiwan to construct large reservoir systems such as Zengwen, Jiufen, and Shimen.
+Rivers are also Taiwan's most significant source of natural disasters. During typhoons, flow increases hundreds of times; the gap between wet and dry seasons (October–November accounting for 78% of annual rainfall) forces Taiwan to build large reservoir systems such as Zengwen, Hsinchu, and Shimen.
 
-Understanding the short, swift characteristics of Taiwan’s rivers is understanding why this island faces the dual pressure of both abundant water and water scarcity.
+Understanding the short-rapid characteristics of Taiwanese rivers is understanding how this island simultaneously faces the dual pressures of water abundance and scarcity.
 
-## Basic Characteristics of Taiwan’s Rivers
+## Basic Characteristics of Taiwanese Rivers
 
-The characteristics of Taiwan’s rivers are directly determined by topography: the eastward shift of the Central Mountain Range causes asymmetry between eastern and western water systems, young rock layers lead to strong riverbed erosion, and the island’s narrowness limits river length. The superposition of these three geographical factors creates the rare type of "high-energy short rivers" seen globally.
+The characteristics of Taiwanese rivers are directly determined by topography: the central mountain range being located to the east leads to an asymmetry between the eastern and western water systems; young rock layers result in intense riverbed erosion; and the narrowness of the island limits river length. These three geographical factors combine to create a globally rare "high-energy short river" type.
 
-### Topographical Determinism: The Dialogue Between Mountains and Rivers
+### Determinism of Topography: A Dialogue Between Mountains and Rivers
 
 **East-West Division Pattern:**
-Taiwan’s river system primarily uses the Central Mountain Range as a watershed, showing obvious east-west division characteristics. Western river basins are larger with developed alluvial fans. Eastern rivers have steep slopes and dense valleys, with lengths generally under 60 km.
+Taiwan's river systems are primarily divided by the central mountain range, showing distinct East-West division characteristics. Western river basins are larger with developed alluvial fans. Eastern rivers are characterized by steep slopes and dense valleys, generally less than 60 km long.
 
 - **Western Rivers**: Longer, larger basins, developed alluvial fans
-- **Eastern Rivers**: Short and swift, steep slopes, many valley terrains
+- **Eastern Rivers**: Short and rapid, steep slopes, many valley terrains
 
-Representative river data for the whole island are as follows:
+Representative statistics for all of Taiwan's rivers are as follows:
 
-- Total number of rivers in Taiwan: 129 central-government-managed rivers
-- Longest river: Zhuoshui River (186.6 km)
-- Second longest: Gaoping River (171 km)
-- Third longest: Tamsui River (158.7 km, including tributaries)
+- Total number of river systems in Taiwan: 118 (24 centrally managed, 2 inter-provincial, 92 county/city managed) [^7]
+- Longest River: Chiuanan River (186.6 km) [^1]
+- Second Longest: Gao-Ping River (171.0 km) [^1]
+- Third Longest: Tamsui River (158.7 km) [^1]
 
-### Physical Characteristics of "Short Swift Currents"
+### Physical Characteristics of "Short Rapid Flows"
 
-**Short and Compact:**
+**Compact and Vigorous:**
 
-- The maximum east-west width of the Taiwan main island is only 144 km
-- Most rivers are less than 50 km long
-- River slopes are steep, with an average gradient exceeding 1/100
+- The widest point of Taiwan's main island is only 144 km.
+- Most rivers are less than 50 km long.
+- River slopes are steep, with an average gradient exceeding 1/100.
 
-**Swift Flow and Power:**
+**Rapid Flow and High Energy:**
 
-- Large hydropower generation potential; the Dajia River basin has an installed capacity exceeding 1 million kilowatts
-- Strong erosion power, carrying large amounts of sediment
-- Fast flow speed, but unfavorable for navigation development
+- High potential for hydropower; the Dajia River basin has a installed capacity exceeding 1 million tons.
+- Strong erosive power, carrying large amounts of sediment.
+- Fast flow velocity, which is not conducive to navigation development.
 
 ### Extreme Seasonal Variation
 
-**Rainy Season vs. Dry Season:**
+**Wet Season vs. Dry Season:**
 
-- Summer (May–October): Abundant rainfall, river levels surge
-- Winter (November–April): Scant rainfall, some river sections dry up
-- Central and southern rivers are mostly "arid-type," often drying up in winter
+- Summer (May–October): Abundant rainfall, rapid rise in river levels.
+- Winter (November–April): Scarce rainfall, some reaches dry up.
+- Many central and southern rivers are "winding types" that often run dry in winter.
 
 **Typhoon Effect:**
 
-- Flow during typhoons can reach hundreds of times the normal level
-- Instantaneous surge and drop, high flood risk
-- Large amounts of sediment redistributed
+- Flow during typhoons can reach hundreds of times normal flow.
+- Sudden surges and drops result in high flood risk.
+- Redistribution of large amounts of sediment.
 
 ## Three Major River Systems
 
-### Zhuoshui River: Taiwan’s Longest River
+### Chiuanan River: Taiwan's Longest River
 
 **Basic Data:**
 
-- Total Length: 186.6 km
-- Basin Area: 3,157 km²
-- Source: Between the main peak and east peak of Hehuan Mountain in the Central Mountain Range
-- Estuary: Between Dacheng in Changhua and Mailiao in Yunlin
+- Total Length: 186.6 km [^1]
+- Basin Area: 3,157 sq km [^1]
+- Source: Between Mount Kehuan and Dongfeng on the Central Mountain Range [^2]
+- Mouth: Between Dachen in Changhua and Mailiao in Yunlin
 
 **Geographical Features:**
-True to its name, the Zhuoshui River appears turbid due to carrying large amounts of silt. This river connects the geography and culture of central Taiwan:
+The Chiuanan River lives up to its name, appearing turbid due to carrying large amounts of silt. This river connects the geography and culture of Central Taiwan:
 
-- **Upper Reaches**: High mountain valleys, traditional territories of the Atayal and Seediq peoples
-- **Middle Reaches**: Jiji Weir, a key water engineering project supplying over 1.4 billion tons of water annually
-- **Lower Reaches**: Alluvial formation of the Changhua Plain, one of the largest rice-producing areas in the country
+- **Upper Reaches**: Mountain valleys, traditional territories of the Tayag and Sedek peoples.
+- **Middle Reaches**: Jiji Diversion Weir, which draws approximately 200 million cubic meters annually—the largest water facility in Taiwan for irrigation, livelihood, and industrial use in Changhua and Yunlin [^8].
+- **Lower Reaches**: Alluvial deposits formed the Changhua Plain, one of the largest rice production areas in Taiwan.
 
 **Cultural Significance:**
 
-- Nurtured the agricultural civilization of the Changhua Plain
-- The Jiji Line railway was built along the Zhuoshui River
-- Zhuoshui River rice is famous nationwide for its high-quality water source
+- Nurtured the agricultural civilization of the Changhua Plain.
+- The Jiji Line railway was built along the Chiuanan River.
+- Chiuanan Rice is famous throughout Taiwan for its high-quality water source.
 
 **Ecological Value:**
-The Zhuoshui River estuary attracts tens of thousands of migratory birds annually for wintering, including the Black-faced Spoonbill and various species of sandpipers and plovers. The estuary wetlands connect to the Changhua coast, serving as the most critical node in the western coastal migratory bird corridor.
+The mouth of the Chiuanan River attracts tens of thousands of migratory birds annually, including Black-faced Spoonbills and various sandpipers. The wetland at the river mouth connects to the Changhua coast, serving as a critical stopover point for migratory birds on the western coast.
 
-### Gaoping River: The Lifeline of Southern Taiwan
+### Gao-Ping River: The Lifeline of Southern Taiwan
 
 **Basic Data:**
 
-- Total Length: 171 km
-- Basin Area: 3,257 km² (largest in the country)
-- Main Tributaries: Qishan River, Meigong River, Wanrong River
-- Population Served: Approximately 2.6 million people
+- Total Length: 171.0 km [^1]
+- Basin Area: 3,257 sq km (the largest in Taiwan) [^1]
+- Main Tributaries: Laonong River (including Zuo-Kou Stream), Qishan Creek (including Meinong Creek), Ailiao Creek [^9].
 
-**Importance of Water Resources:**
-The Gaoping River is the number one water source in southern Taiwan:
+**Water Resource Importance:**
+The Gao-Ping River is the primary water source for Southern Taiwan:
 
-- Supplies approximately 70% of the water for the Kaohsiung metropolitan area (varies by year)
-- The Zengwen River and Gaoping River systems support the industrial development of southern Taiwan
-- Rivers in the Kaohsiung urban area, such as the Ai River and Qianzhen River, all originate from the Gaoping River system
+- The Gao-Ping Diversion Weir draws an average of 1 to 1.1 million cubic meters daily, accounting for about 70% of the daily water use in Greater Kaohsiung [^10].
+- The Zengwen and Gao-Ping river systems support industrial development in Southern Taiwan.
+- Rivers like Ai River and Qianzhen River within Kaohsiung City are independent small systems; the Ai River originates near Renwu Bagualiao and is not part of the Gao-Ping basin [^11].
 
 **Cultural Landscape:**
 
-- **Meigong Plain**: Hakka settlements preserve traditional tobacco farming methods and paper umbrella craftsmanship
-- **Qishan Old Street**: Historical witness to the banana industry
-- **Liuguo Hot Springs**: A hot spring resort located on the banks of the Wanrong River
+- **Meinong Plain**: Hakka settlements retain traditional tobacco farming and paper umbrella crafts.
+- **Qishan Old Street**: A testament to the history of banana cultivation.
+- **Liuqi Hot Springs**: A hot spring resort located along the Laonong River.
 
 **Challenges and Opportunities:**
 
-- Extreme differences between wet and dry seasons require reservoir regulation
-- Balance between industrial pollution and domestic water use
-- Trade-offs between basin development and ecological protection
+- Extreme differences between wet and dry seasons require reservoir regulation.
+- Balancing industrial pollution with domestic water needs.
+- Trade-offs between basin development and ecological protection.
 
 ### Tamsui River: The Mother River of Northern Taiwan
 
 **Basic Data:**
 
-- Mainstream Length: 158.7 km (including tributary system)
-- Basin Area: 2,726 km²
-- Main Tributaries: Keelung River, Xindian Creek, Dahan River
+- Mainstream Length: 158.7 km [^1]
+- Basin Area: 2,726 sq km [^1]
+- Main Tributaries: Keelung River, Xindian Creek, Dahan River.
 
-The Tamsui River witnesses nearly 400 years of Taiwan’s history: in 1624, the Dutch entered Taiwan via the Tamsui River estuary; in 1709, Han people began large-scale reclamation of the Taipei Basin; the prosperity of "One府 (Tainan), Two Lu (Lugang), Three Bangka (Wanhua)" was built on river transport. After 1895, under Japanese colonial rule, the modernization of the Tamsui Port drove the industrialization of northern Taiwan. Post-war, the greater Taipei metropolitan area expanded along the Tamsui River system, becoming today’s political and economic center.
+The Tamsui River witnesses nearly 400 years of Taiwan's history: in 1629, the Spanish built St. Dominic's Church on the north bank of the Tamsui River; the Dutch took over and rebuilt it as Anthony Fort in 1642, which is today known as Hongmao City [^12]. In 1709, the Ken-hao clan entered the Taipei Basin, and the prosperity of "One Prefecture, Two Deer, Three Wanjia" was built on river transport. During the early Japanese colonial period, Tamsui Port was a gateway for cross-strait trade, but after the Keelung Port construction project began in 1899, Tamsui Port gradually declined due to silting [^13]. After WWII, the Taipei metropolitan area expanded along the Tamsui River system, becoming today's political and economic center.
 
 **Urban Development and Rivers:**
 
-- **Taipei Basin**: Formed by the alluvial deposits of the Tamsui River, serving as the political and economic center
-- **Riverside Parks**: Urban green corridors, recreational spaces for citizens
-- **Riverbank Scenery**: The skyline from Bali, Tamsui to Guandu
+- **Taipei Basin**: Formed by Tamsui River alluvium, it became a political and economic center.
+- **Riverside Parks**: Urban green corridors and recreational spaces for citizens.
+- **Riverfront Scenery**: The skyline from Bali, Tamsui, to Guandu.
 
 **Environmental Changes:**
 
-- 1970s–1980s: Severe industrial pollution, earning the nickname "Black Dragon River"
-- From the 1990s: The government launched the Tamsui River system remediation, intercepting sewage
-- Post-2010s: Ecological restoration shows results; egrets and white wagtails reappear on the riverbanks
+- Mid-1980s: Industrial and domestic sewage turned most reaches of the Tamsui River system into drainage ditches, earning it the infamous nickname "Black River."
+- Starting in 1988: Preliminary projects for the Tamsui River system pollution control began, with day-light sewage interception stations built along the Keelung River and the main stem of the Tamsui River [^14].
+- Post-2010s: Ecological restoration has shown results, with egrets and terns reappearing along the riverbanks.
 
 ## Other Important Rivers
 
-In addition to the three major rivers, Taiwan has dozens of medium-sized rivers, each with its own geographical and cultural significance. Eastern rivers are steep and swift, while central and western rivers often serve both irrigation and hydropower functions.
+Besides the three major rivers, Taiwan has dozens of medium-sized rivers, each with its own geographical and cultural significance. Eastern rivers are steep and rapid; central western rivers often serve both irrigation and hydropower functions.
 
-The Hualien River, Xiuguluan River, and Beinan River, three eastern rivers, cut through the Hualien-Taitung Valley. Each is less than 100 km long but carries the river festival culture of the Amis, Paiwan, and Pingpu peoples.
+The Hualien River, Xiugulan River, and Binnan River—three eastern rivers—flow through the northern, middle, and southern parts of the Hualien-Taitung Valley, with each being less than 100 km long [^1], yet they carry the river rituals of the Amis, Paiwan, and Binnan peoples. The Dajia River, Wu Creek, and Dan River in Central Taiwan are vital water sources from Miaoli to Taichung, collectively forming the water resource skeleton of Taiwan.
 
-The central Dajia River, Wu River, and Da’an River are the water lifelines from Miaoli to Taichung, together forming the water resource skeleton of the entire country.
-
-### Eastern Rivers: Short, Swift, and Majestic
+### Eastern Rivers: Short, Rapid, and Beautiful
 
 **Hualien River:**
 
-- Longest river in the east (57 km long)
-- Cuts through the Central Mountain Range and Coastal Range, forming the Hualien-Taitung Valley
-- Wide riverbed, serving as the main irrigation water source for the Hualien Plain
+- Length: 57.3 km, Basin Area: 1,507 sq km [^1] (The longest eastern river is Binnan River at 84.4 km).
+- Flows north along the northern part of the Hualien-Taitung Valley and empties into the sea south of Hualien City.
+- Wide riverbed, serving as a major irrigation source for the Hualien Plain.
 
-**Xiuguluan River:**
+**Xiugulan River:**
 
-- The only river in Taiwan that cuts across the Coastal Range
-- Popular spot for rafting
-- Estuary forms a tidal mixing zone with high fish diversity
+- Length: 81.2 km [^1], Taiwan's only river that crosses a coastal mountain range.
+- A popular location for rafting activities.
+- The mouth forms a tidal mixing zone with high fish diversity.
 
-**Beinan River:**
+**Binnan River:**
 
-- The mother river of the Taitung Plain
-- Developed river terrace terrain, rich in prehistoric cultural sites
-- Important witness to the Beinan Culture
+- Length: 84.4 km, the longest in the east [^1], the mother river of the Taitung Plain.
+- Developed terraces and rich prehistoric cultural sites.
+- An important witness to Binnan culture.
 
 ### Central Rivers: Pillars of Industrial Development
 
 **Dajia River:**
 
-- Important hydropower river in central Taiwan
-- Key water engineering projects including Dede Reservoir and Qingshan Dam
-- Supports the development of the Taichung Industrial Zone
+- A major hydropower river in Central Taiwan.
+- Important water conservancy projects include the Deyi Reservoir and Qingshan Dam.
+- Supports the development of the Taichung industrial area.
 
-**Wu River:**
+**Wu Creek:**
 
-- Important water source for the Taichung metropolitan area
-- Crosses three counties/cities: Changhua, Taichung, and Nantou
-- Cultural settlements such as Mingjian and Caotun develop along the banks
+- An important water source for the Taichung metropolitan area.
+- Spans three counties/cities: Changhua, Taichung, and Nantou.
+- Cultural settlements like Mingmian and Caotun developed along its banks.
 
-**Da’an River:**
+**Dan River:**
 
-- Important river in Miaoli
-- Tai’an Hot Spring area is located in its upper reaches
-- Intersection of Hakka and indigenous cultures
+- An important river in Miaoli.
+- The Tai'an hot spring area is located upstream of it.
+- A meeting point for Hakka and indigenous cultures.
 
-## Unique Phenomena of Taiwan’s Rivers
+## Unique Phenomena of Taiwanese Rivers
 
-Taiwan’s geology is young and uplifting rapidly, nurturing several river geomorphological phenomena rare in temperate regions. Braided rivers, river capture, and river terraces coexist, demonstrating the dynamic characteristics of the island’s river evolution.
+Taiwan's geology is young with rapid uplift, giving rise to several fluvial landforms rarely seen in temperate regions. The coexistence of braided rivers, river capture, and terrace sites demonstrates the dynamic evolution of Taiwan's rivers.
 
 ### Braided Rivers and Alluvial Fans
 
-**River Geomorphological Features:**
-Due to steep slopes and abundant sediment, many rivers in Taiwan exhibit "braided river" characteristics:
+**Fluvial Landform Characteristics:**
+Due to steep slopes and abundant sediment, many Taiwanese rivers exhibit "braided river" characteristics:
 
-- Wide riverbeds, dispersed water flow
-- Large seasonal channel variations
-- Formation of developed alluvial fan plains
+- Wide riverbeds with dispersed water flow.
+- Significant seasonal changes in channels.
+- Formation of developed alluvial fan plains.
 
 **Typical Cases:**
 
-- Zhuoshui River Alluvial Fan: Forms the prime area of the Changhua Plain
-- Gaoping River Alluvial Fan: Creates the Pingtung Plain
-- Lanyang River Alluvial Fan: Foundation of the Yilan Plain
+- Chiuanan River Alluvial Fan: Forms the prime area of the Changhua Plain.
+- Gao-Ping River Alluvial Fan: Creates the Pingtung Plain.
+- Lanyang River Alluvial Fan: The basis for the Yilan Plain.
 
 ### River Capture Phenomenon
 
-**Witness to Geological Processes:**
-Taiwan’s rapid geological uplift creates an interesting "river capture" phenomenon:
+**A Witness to Geological Processes:**
+Rapid geological uplift in Taiwan leads to interesting "river capture" phenomena:
 
-- Rivers originally flowing east are "captured" by western rivers
-- Most famous case: The upper reaches of the Dajia River originally belonged to the Lanyang River system (specifically the Liwu River system)
-- Demonstrates the youth and activity of Taiwan’s geology
+- Steeper rivers erode upstream into neighboring rivers, "stealing" their upper reaches.
+- The most famous case: The Lanyang River captured the upper reaches of the Dajia River near Siyuan-Kou, resulting in a wide but relatively small water volume for the upper Dajia River valley [^15].
+- This demonstrates the youth and activity of Taiwan's geology.
 
-### Cultural Significance of River Terraces
+### Cultural Significance of Terrace Topography
 
-**Stage for Human Activity:**
-Most known major prehistoric cultural sites in Taiwan are distributed on river terraces:
+**A Stage for Human Activities:**
+Most known prehistoric cultural sites in Taiwan are distributed on river terraces:
 
-- **Beinan Site**: Beinan River terrace, approximately 3,000–5,300 years ago
-- **Shisanhang Site**: Tamsui River terrace, approximately 1,800–500 years ago (200–1500 AD)
-- **Qubing Site**: Upper reaches of the Zhuoshui River, approximately 4,000 years ago
+- **Binnan Site**: Binnan River terrace, dating from approximately 2,300–5,300 years ago [^16].
+- **Shisanxing Site**: Tamsui River terrace, dating from approximately 1800–500 years ago (AD 200–1500).
+- **Qubing Site**: Upstream of the Chiuanan River, with the earliest cultural layer dating back about 4,000 years [^17].
 
-These river terraces not only record the history of river changes but also preserve precious traces of human activity on the island.
+These terrace landscapes not only record the river's history but also preserve precious traces of human activities in Taiwan.
 
 ## Challenges in Water Resource Management
 
-Taiwan’s per capita annual water availability is approximately 2,100 cubic meters, which seems ample. However, rainfall is highly concentrated in the typhoon season (May–October accounts for 78%), and steep terrain causes rainwater to flow into the sea rapidly. The actual usable amount is far lower than the numbers suggest, leading to tight water supply during drought years. In 2021, Taiwan faced its most severe drought in 56 years, with some counties and cities initiating zonal water supply.
+Taiwan receives far more rainfall than the global average, yet the water allocated per person annually is only about 4,100 tons, which is less than the world average of 5,900 tons [^4]. Rainfall is highly concentrated during the typhoon season (May–October accounts for 78%), and steep topography causes rainwater to quickly run into the sea. The actual usable amount is far lower than what the rainfall figures suggest, leading to water shortages in dry years. In 2021, Taiwan experienced its most severe drought in 56 years, forcing some counties/cities to implement zoned water supply.
 
-### Wet-Dry Differences and Regulation
+### Wet and Dry Season Differences and Regulation
 
-Taiwan’s wet and dry seasons are drastically different: May–October accounts for 78% of annual rainfall, while November–April accounts for only 22%. In the dry season, central and southern rivers often dry up. To address this, Taiwan has constructed a water storage system with the Jiufen Reservoir (Xindian Creek, water source for greater Taipei), Shimen Reservoir (Dahan River, lifeline for Taoyuan), Zengwen Reservoir (largest in southern Taiwan), and Dede Reservoir (Dajia River, central industrial zone) as its backbone. Water is stored during the rainy season and allocated during the dry season.
+Taiwan has a significant difference between wet and dry seasons: May–October accounts for 78% of annual rainfall, while November–April only accounts for 22%. Many central and southern rivers run dry in winter. To manage this, Taiwan has built a storage system centered on the Hsinchu Reservoir (Xindian Creek/Greater Taipei water source), Shimen Reservoir (Dahan River/Taoyuan lifeline), Zengwen Reservoir (the largest in Southern Taiwan), and Deyi Reservoir (Dajia River/Central Industry) to store water during the rainy season and allocate it during the dry season.
 
 ### Impact of Urbanization on Rivers
 
-Urbanization subjects rivers to triple pressure: channelization, industrial wastewater pollution, and increased surface runoff. In the 1970s–1980s, the water quality of the Tamsui River deteriorated, earning the nickname "Black Dragon River"; the Ai River in Kaohsiung also became a stinking ditch. From the 1990s, the government launched river remediation; the water quality of the Tamsui River has significantly recovered, the Ai River has become a model for tourist riverbanks, and the old channels of Taichung’s Green River and Liu River were transformed into pedestrian waterfront corridors around 2018.
+Urbanization subjects rivers to triple pressure: channelization, industrial wastewater pollution, and increased surface runoff. In the 1970s–80s, the Tamsui River's water quality deteriorated, earning it the nickname "Black River"; the Ai River in Kaohsiung also became a stinking ditch. Starting in the 1990s, the government initiated river remediation; the Tamsui River's water quality has significantly improved, and the Ai River has become a model for scenic waterfronts. The old riverbeds of Green Creek and Liu Creek in Taichung were renovated into pedestrian waterfront corridors around 2018.
 
-### New Challenges of Climate Change
+### New Challenges from Climate Change
 
-Climate change makes wet-dry differences more extreme, increasing the frequency of super-heavy rains and extending drought periods. Taiwan has recently promoted smart water resource management systems, reclaimed water plant construction, and comprehensive basin governance, attempting to maintain water supply security in a future with more unstable rainfall.
+Climate change makes the wet/dry differences more extreme, increasing the frequency of extreme heavy rainfall events and extending dry periods. In recent years, Taiwan has promoted smart water resource management systems, constructed reclaimed water plants, and implemented integrated basin governance to maintain water security in an increasingly unstable future rainfall pattern.
 
 ## River Culture and Human Landscape
 
 ### Rivers and Settlement Development
 
-Before the prevalence of railways and highways, rivers were Taiwan’s most important transportation arteries. Bangka (now Wanhua) developed into the most prosperous commercial settlement in Qing Dynasty Taiwan relying on Tamsui River water transport; Lugang was the estuary for agricultural products from the Changhua Plain; Qishan became the banana distribution center in southern Taiwan in the late 19th century because the Meigong River waterway transported bananas to the port.
+Before the widespread use of rail and roads, rivers were the most important transportation arteries in Taiwan. Wanhua (formerly Monghia), relying on Tamsui River water transport, developed into the most prosperous commercial settlement in Northern Taiwan during the Qing dynasty; Lukang was an export hub for agricultural products from the Changhua Plain. Bananas from Qishan were transported by railway and road to Kaohsiung Port; 60% of the bananas exported to Japan in the 1960s came from Qishan, leading to the area earning the nickname "Banana Kingdom" [^19].
 
-Modern riverside spaces have transformed into recreational corridors: the Tamsui River bicycle path connects the western side of the Taipei Basin; the night light boats on the Ai River in Kaohsiung have become a tourist card; the Hualien River Riverside Park displays Amis traditional culture.
+Modern riverside spaces have been transformed into recreational corridors: the Tamsui River bicycle path connects the western side of the Taipei Basin; nighttime boat tours on the Ai River in Kaohsiung are a tourist signature; and Hualien River Riverside Park showcases traditional Amis culture.
 
 ### River Beliefs and Folk Customs
 
-Various river beliefs are prevalent in Taiwan’s folk culture: Mazu, as the guardian deity of the ocean and rivers, has port temples often built near water; Shuixian Zunwang (Water Immortal Venerable King) is the water god of Han immigrants, with worship in port cities such as Keelung and Tamsui. Indigenous peoples have their own river festivals, such as the Amis’ annual fishing festival (ilisin), which is closely related to streams.
+Various river beliefs circulate in Taiwan's local customs: Mazu, as a guardian deity of the sea and rivers, is often enshrined in temples built by the water; the Water Immortal King is a water god worshipped by Han immigrants, with shrines in ports like Keelung and Tamsui. Indigenous peoples also have their own river and marine rituals: the Amis Sea Ritual or fishing festival (_misacepo'_) is held at the river mouth and coast every May and June, while the harvest festival (_ilisin_) starting in July is the largest annual celebration [^20].
 
-Rivers are also important landscapes in Taiwan’s literature: the Meigong River in Zhong Lih-ho’s works carries Hakka rural memories; the Dajia River in Yang Ku’s works witnesses the hardships of farmers during the Japanese colonial period; the novel _Beishang_ (Sorrow) by Wu Nian-cheng uses the Hualien River as a backdrop to explore indigenous trauma.
+Rivers are also an important landscape in Taiwanese literature: _Lisam Farm_ by Chung Li-hsu describes Hakka villages below Meinong [^21], while _Sorrow_ by Wu-he depicts a small town being dug up by roads at the Tamsui River mouth [^22].
 
 ## Ecological Corridors and Biodiversity
 
 ### Importance of River Ecosystems
 
-Rivers are the most critical biological corridors between the mountains and sea in Taiwan. Stream fish such as _Hemibarbus macrolepis_ (kuofa) and _Formosania lacustris_ (taibei shibin) migrate along rivers to spawn; raptors and migratory birds migrate along valley air currents; plant seeds spread from high mountains to plain estuaries via water flow.
+Rivers are the most critical ecological corridors between Taiwan's mountains and sea. Stream fish, such as _kuhua_ (a local name), migrate along the rivers to spawn; raptors and migratory birds travel along river valleys' air currents; plant seeds disperse from the mountains to the plains and estuaries via water flow.
 
-Taiwan’s rivers nurture various endemic freshwater fish: the Formosan Masu Salmon (_Oncorhynchus masou formosanus_) survives only in the Qiwanchi Creek of the Dajia River, a relic from the Ice Age; _Formosania_ (taibei shibin) concentrates in the Zhuoshui River basin; _Acanthogobius_ (gao shen mi) is the native dominant species in streams nationwide.
+Taiwan's rivers nurture various endemic freshwater fish: the Taiwanese Salmon (_Oncorhynchus masou formosanus_) survives only in the Qijiawan Creek of the Dajia River, a relict species from the Ice Age; the high-bodied chub (high-body crucian carp) is found only in southern and eastern rivers with large water volumes and many boulders, and has been listed as an endangered fish species since 1989, alongside the Sakura-cheeked salmon [^23].
 
-### Treasure Trove of Estuary Ecology
+### Treasure Trove of Estuarine Ecology
 
-River estuaries are zones of brackish water intersection and highest biodiversity. The Changhua Coast Wetlands at the Zhuoshui River estuary attract over 100,000 migratory birds annually, making it one of the most important stopover sites for sandpipers and plovers globally; the Qinnan Wetlands at the Gaoping River estuary are the core habitat for the Black-faced Spoonbill in southern Taiwan; Guandu Natural Park at the Tamsui River estuary is an ecological protection area rare in the metropolitan circle.
+Estuaries where freshwater meets saltwater are areas of the highest biodiversity. The Changhua Coast wetlands at the mouth of the Chiuanan River are an important stopover site for sandpipers; the dried salt fields in Qiechian, Kaohsiung (north of Zhuhu Salt Field near Xingda Port, south of Erren Creek, not at the Gao-Ping river mouth) are a wintering ground for Black-faced Spoonbills [^24]; and Guandu Nature Park at the Tamsui River mouth is a rare ecological protection area within an urban area.
 
-## Conclusion: The Wisdom of Coexistence Between Water and the Island
+## Conclusion: The Symbiotic Wisdom of Water and Island
 
-Taiwan’s river system demonstrates surprising geographical complexity within a small island. These rivers simultaneously serve irrigation, power generation, urban water supply, and ecological corridors, while recording historical layers from indigenous festivals, Han reclamation in 1709, the 1908 initiation of the Ji Nan Grand Irrigation System by Taira Toichi, to contemporary ecological restoration. The relationship between Taiwan people and rivers has evolved from water transport, irrigation, pollution, and remediation to the present.
+Taiwan's river system exhibits astonishing geographical complexity in a small island. These rivers serve functions such as irrigation, power generation, urban water supply, and ecological corridors, while also recording the historical layers from indigenous rituals, Han colonization in 1709, the construction of the [Chiuanan Irrigation Canal](/en/history/chianan-irrigation-canal/) in 1920 [^25], to contemporary ecological restoration. The relationship between the Taiwanese people and rivers has evolved from water transport and irrigation to pollution and remediation.
 
-Facing the dual challenges of climate change and urbanization, Taiwan’s river management is moving toward a more sustainable direction. How to find a balance between development and protection, how to make rivers beautiful scenery for cities again, and how to maintain river ecology are core issues for Taiwan facing climate change.
+Facing the dual challenges of climate change and urbanization, Taiwan's river management is moving toward a more sustainable direction. Finding a balance between development and protection, making rivers beautiful urban landscapes again, and maintaining river ecosystems are core issues for Taiwan in addressing climate change.
 
-Although Taiwan’s rivers are short, the natural and cultural significance they carry is profound. Every river is a living history book, recording the wisdom of this island’s coexistence with water, and guiding the direction of future sustainable development.
+Although Taiwan's rivers are short, the natural and cultural significance they carry is profound. Each river is a living history book, recording the wisdom of this island coexisting with water, and guiding the direction of future sustainable development.
 
 ## References
 
-[^1]: Water Resources Agency, [Basic Data on Important Rivers in Taiwan](https://www.wra.gov.tw/cp.aspx?n=3164).
+[^1]: [《Basic Data on Centrally Managed Inter-Provincial Rivers》](https://www.wra.gov.tw/cp.aspx?n=3164) — Ministry of Economic Affairs Water Resources Agency
 
-[^2]: Water Resources Agency, Fourth River District Office, [Introduction to the Zhuoshui River Basin](https://www.wra.gov.tw/wra04/cp.aspx?n=10967).
+[^2]: [《Introduction to the Chiuanan River Basin》](https://www.wra.gov.tw/wra04/cp.aspx?n=10967) — Water Resources Agency Fourth River Branch
 
-[^3]: Wikipedia, [Zhuoshui River](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA), [Gaoping River](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%8F%E6%BA%AA), [Tamsui River](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B2%B3).
+[^4]: [〈The Persistent Nightmare of Drought: Why Does Water-Rich Taiwan Still Face Drought?〉](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — Central Weather Administration Climate Encyclopedia
 
-[^4]: Central Weather Bureau, [Taiwan Hydrological and Meteorological Data](https://www.cwa.gov.tw/).
+[^7]: [《Announcement of River Area and Waterway Management Project Land Use Scope: Announcing Rivers as Centrally Managed, Inter-Provincial, and County/City Managed》](https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9279&s=10108&sms=9191) — Ministry of Economic Affairs Water Resources Agency
 
-[^5]: Council of Agriculture, Rural Development and Soil Conservation Bureau, [Taiwan River Topography and Hydrological Characteristics](https://www.swcb.gov.tw/).
+[^8]: [〈Origin of Reservoir Construction〉](https://web.wra.gov.tw/jiji/cp.aspx?n=8792) — Jiji Diversion Weir Management Center
 
-[^6]: Ehanlin Cloud Academy, [Taiwan River Geography Data](https://www.ehanlin.com.tw/).
+[^9]: [〈Gao-Ping River〉](https://www.wra.gov.tw/wra07/cp.aspx?n=12494) — Water Resources Agency Seventh River Branch
+
+[^10]: [〈Gao-Ping Diversion Weir〉](https://www.wra.gov.tw/wrasb/cp.aspx?n=31317) — Water Resources Agency Southern Region Water Resources Branch
+
+[^11]: [〈From Source to Sea: The New Chapter of North Kaohsiung Waterfront After 30 Years of Ai River Remediation〉](https://www.cw.com.tw/article/5138055) — Tianxia Magazine
+
+[^12]: [〈Tamsui Historic Buildings—Hongmao City〉](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=331943) — National Cultural Memory Repository
+
+[^13]: [〈From Trading Port to Scenic View: The Transformation of Tamsui during Japanese Rule〉](https://archives.ith.sinica.edu.tw/collections_con.php?no=229) — Archives of the Institute of Japanese History, Academia Sinica
+
+[^14]: [〈Rivers: The Transformation of Tamsui River〉](https://www.epd.ntpc.gov.tw/StaticPage/river-tamsui) — New Taipei City Government Environmental Protection Bureau
+
+[^15]: [〈Dajia River System〉](https://www.wra.gov.tw/wra03/cp.aspx?n=10468) — Water Resources Agency Third River Branch
+
+[^16]: [〈Taitung Binnan Site〉](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=274387) — National Cultural Memory Repository
+
+[^17]: [〈Qubing Site: Taiwan's First Discovered Highland Settlement〉](https://museum.sinica.edu.tw/knowledge-base/item/118/) — Museum of Historical Artifacts, Academia Sinica Institute of Historical Linguistics
+
+[^19]: [〈The Proud and Not Arrogant Banana: A Story of the "Banana Kingdom"〉](https://www.agriharvest.tw/archives/102002/) — Agriharvest Media
+
+[^20]: [《Indigenous Peoples Annual Ritual Holiday Dates for Year 115》](https://www.cip.gov.tw/data/news/202511/T-01814499.pdf) — Indigenous Peoples Commission
+
+[^21]: [〈Chronology of Chung Li-hsu〉](https://cws.nmtl.gov.tw/home/zh-tw/chronology/550432) — National Taiwan Museum of Literature
+
+[^22]: [〈Sorrow〉](https://toolkit.culture.tw/literatureinfo_155_93.html) — Taiwan Culture Portal
+
+[^23]: [〈High-bodied Chub is a Protected Fish Species〉](https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=42723) — Ministry of Agriculture Knowledge Portal
+
+[^24]: [〈Qiechian Wetlands〉](https://wetland.e-info.org.tw/file/south/2330) — Taiwan Wetland Network (Environmental Information Center)
+
+[^25]: [〈Chiuanan Irrigation Canal〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Ministry of Agriculture, Forestry and Fisheries Water Resources Agency

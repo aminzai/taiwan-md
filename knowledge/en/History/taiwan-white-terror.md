@@ -1,20 +1,29 @@
 ---
 title: "Taiwan's White Terror"
-description: "The 38-year martial law was not maintained by a few thousand secret police officers — it was maintained by a 'joint guarantee' system under which two million families across Taiwan had to vouch for one another in order to hold a job, enroll in school, or get married. Chen Chih-hsiung, Shih Shui-huan, Uyongu Yatauyungana (Kao I-sheng), and Bo Yang — four names, four reasons for arrest, one shared machine."
+description: "The martial law period of 1938 was not maintained by a few thousand secret agents, but by the 'collective responsibility guarantee' system where two million families across Taiwan had to vouch for each other to work, enroll in school, or get married. Chen Zhixiong, Shi Shuihuan, Gao Yisheng, and Bai Yang—four names, four reasons for arrest, one common machine."
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'History'
+tags:
+  [
+    'history',
+    'white terror',
+    'martial law',
+    'political persecution',
+    'collective responsibility guarantee',
+    'Green Island',
+    'Majong Road',
+  ]
 subcategory: '戰後與威權'
-tags: ['歷史', '白色恐怖', '戒嚴', '政治迫害', '連坐保證', '綠島', '馬場町']
-readingTime: 11
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '6c2f8ea8'
-sourceContentHash: 'sha256:95fed80eda56f46a'
-sourceBodyHash: 'sha256:c81706526bb2277b'
-translatedAt: '2026-05-29T00:35:00+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-20T18:05:43.631542+00:00'
 ---
 
 # Taiwan's White Terror
