@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-20 twmd-routine-audit-weekly — steady-state-reconciliation-has-no-owner-after-the-crisis-does：分岔的危機修復寫進了 maintainer 職責，分岔的穩態對賬卻由每個剛醒來的 session 各付一次
+
+- **pattern**: `steady-state-reconciliation-has-no-owner-after-the-crisis-does`
+- **原則**：一個反覆發生的協調成本，在它變成危機的那一次會得到一個 owner 與一條 SOP（09-19 十天分岔 → MAINTAINER §1.1b 十二步 + `merge-divergence.py`）；危機解除後同一個成本以小額、高頻的形式回來，卻沒有人擁有它，因為 SOP 描述的觸發條件是「真分岔」，而每天四次的「本機領先幾十、落後十幾」不叫分岔，只叫「動手前先 git pull」（REFLEXES #67 子規則）。於是每個 session 都照鐵律做了對的事，合起來是四筆 merge commit、4,304 檔、一次衍生檔衝突，而產生這個稅的結構（兩台各自對同一個 ref 生產、本機的產線 commit 不 push）沒有被任何一班當成自己的事。跟 #88「雙職責 routine 轉錄那半停手保管那半跟著消失」是鄰居：那條講職責被拆掉一半，這條講職責只寫了尖峰那一半。
+- **觸發**：2026-09-20 一天內四筆 merge commit 全是「把 origin 併進營運機」的開工動作：00:41 babel-nightly（33 babel commit 堆到 behind 8）、03:08 distill-weekly（7 commit）、08:56 maintainer-am（10 commit）、21:10 routine-audit-weekly（behind 14 / ahead 29，`_translation-status.json` 衝突按 `merge-divergence.py` THEIRS 政策取 origin 後重生）。四班的 memory 都把它寫成「開工前把 origin 併進來」一句話帶過，沒有一班問「為什麼每一班都要做這件事」。量法：`git log --since=1.day --merges --oneline` → memory/2026-09-20-212110-twmd-routine-audit-weekly
+- **instances**：
+  - （四班同日各自獨立做了同一件事，計 vc=4；REFLEXES #15 儀器化門檻 3 已過，標 distill_ready）
+- **修補候選（未做，屬 babel 產線設計）**：(a) dispatcher 在 `--commit-every` 之後補一步 `git pull --rebase && git push`（pre-push 已會處理 in-flight deploy），讓產線自己收自己的帳；(b) 不改 dispatcher，改給 data-refresh-am 或 routine-sync 一條「開工對賬」rider，明寫它是穩態 owner，其他 session 只 fetch 不 merge；(c) 維持現狀但把每日 merge 次數與檔數印進 `routine-status.sh`，讓這筆稅至少看得見。三個都超出本 routine 職權（改產線或改 rider 是 workflow 改動），交 self-evolve-weekly 或 babel-nightly 判。
+- **可能層級**：通用反射候選（任何「危機有 SOP、穩態沒 owner」的協調成本）；操作規則（MAINTAINER §1.1b 補「穩態」那半，或 BABEL-VORTEX-LOOP 補 push）
+- **相關**：REFLEXES #68 多核心 git 協調（本條是它在「兩台機器、一台不 push」下的日常稅）、#88 雙職責一半消失、#67 子規則「動手前先 pull」（本條是那條鐵律被 N 班各自遵守後的總和）、LESSONS `dispatcher-blind-to-the-other-producer`（同根，那條講翻重、本條講併回）、OBSERVER-QUEUE #70（babel-nightly 語意改「檢查＋續命」——如果採 C，「誰 push」也該一起寫）
+- **verification_count**: 4
+- **distill_ready**: true
+- **severity**: structural
+
 ### 2026-09-20 twmd-maintainer-am — canonical-positive-example-fails-its-own-rules：EDITORIAL 拿來示範「好結尾」的正例，拿掉標籤後會被同一份文件的其他規則判成塑膠
 
 - **pattern**: `canonical-positive-example-fails-its-own-rules`
@@ -543,6 +557,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - (c) 驗收條件本身標註「需要哪一級的環境」，讓「這一項無人值守量不到」變成 issue 上看得見的欄位，而不是每輪留言裡重寫一次的一段話。
 
 **對應**：[REFLEXES #16](REFLEXES.md) 環境代表性延伸（本條是它在「沒有真實環境可退回」情境下的變體）／[REFLEXES #24](REFLEXES.md) 工具在說謊（新增型態：工具不支援被測功能，讀數與真缺陷同形）／[REFLEXES #69](REFLEXES.md) 外部尺／LESSONS `prescribed-verification-unavailable-to-unattended-runs`（同族下一層）。
+
+- **pattern**: `verification-tool-lacks-the-feature-it-must-verify`
+- **instances**：
+  - 2026-09-18 twmd-embeddings-nightly — 給 rebuild 掛的每 30 秒 log 監看按換行切，而進度列用 `\r` 回車覆寫同一行，三十分鐘一個事件都沒送出；build 全程健康，監看器缺的正是它要看的那個輸出形式，「沒消息」跟「還在跑」在它那端同形。改成數 ✅ 個數才對上（REFLEXES #85 的一個載體，但落在「工具缺被驗功能」這條的形狀上）→ memory/2026-09-18-050800-twmd-embeddings-nightly
+- **verification_count**: 2（09-02 瀏覽器不實作 `grid-template-rows` 動畫／09-18 log 監看不認回車；兩例都是「有工具比沒工具危險」——沒工具會寫未確認，有工具寫出一份看起來完成的讀數）
 
 ### 2026-08-30 twmd-maintainer-am — scaffold-window-has-no-qa：語言以 scaffold 身分進註冊表後，內容比上線決定早幾個月到，而所有 QA 接線都在那段空窗裡對它不存在
 
@@ -1173,9 +1192,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：一條產線的「待辦」如果只從本機的狀態檔算（stale／missing 對本機 zh），它就不知道世界上還有另一個生產者在做同一批。分岔期間兩台機器各自跑 babel，每一篇兩邊都翻成功的檔都變成一筆合併衝突——產線越健康，衝突面長得越快。修法是給它一份「別人已經做掉」的排除清單，讓它只翻沒人碰過的，產線本身不用停。
 - **觸發**：2026-09-18 00:40 twmd-babel-nightly。origin/main 上 09-17 20:47 的心跳把「營運機分岔」寫進 OBSERVER-QUEUE #68，量到 770 個衝突檔並建議「拍板前兩台都別再跑 babel 存量」。本班自己量：knowledge/ 衝突面 758 檔，本機前 24 小時翻的 215 篇有 57 篇（27%）origin 也翻了。本機 2,405 筆待辦裡 545 筆（23%）是 origin 已做的。造 `babel-origin-exclude.py`（從 merge-base 到 origin/main 的 diff 反查 translatedFrom）＋ `babel-dispatch.py --exclude-file`，重啟後每輪跳過 2,434 對 (lang, zh)。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
 - **instances**：
+- **instances**：
+  - 2026-09-20 twmd-routine-audit-weekly — 第二面：排除清單擋住了「兩台翻同一批」，沒擋住「本機永遠領先」。dispatcher 每 10 篇 commit 一次但從不 push，origin 一有別的生產者（commander-macbook 心跳巡邏）本機就 behind，pre-push 又要求先 rebase，於是每個在營運機醒來的 session 開工第一件事都是把 origin 併進來：09-20 一天四次 merge commit（00:41 babel-nightly 33 commit／03:08 distill 7／08:56 maintainer-am 10／21:10 routine-audit 14，合計 4,304 檔），其中一次撞 `_translation-status.json` 衝突。分岔從十天一次的危機（#68）變成每八小時一次的開工稅，MAINTAINER §1.1b 只寫了危機那一種。誰該擁有穩態的對賬（dispatcher 自己 push？某條 rider？）沒有人寫 → memory/2026-09-20-212110-twmd-routine-audit-weekly
 - **可能層級**：通用反射（任何多台機器對同一佇列各自消化的場景：翻譯、embedding、抓取）
 - **相關**：REFLEXES #92（Twin-artifact 缺重整器——那條講兩個「產物」各自演化中間沒人對賬，本條是兩個「生產者」各自消化同一佇列，對賬的東西要餵回生產者的入口，不是事後合併）。REFLEXES #82（本機 status.py 的 stale／missing 是「本機還缺」的訊號，不是「世界上還沒人翻」的訊號——拿它當後者用就是 proxy signal）
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-09-18 twmd-babel-nightly — supervisor-respawns-the-old-config：讓進程活著的東西在進程外面，殺掉它只會換回舊設定
 

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.36'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-routine-sync（#67 子規則「守衛住在它守的產物裡」同構候選命中：routine-sync.py 分岔期間對 origin 側 prompt 盲，vc=3；零新編號）'
+last_session: '2026-09-20-twmd-routine-audit-weekly（#65 v13：routine-audit.py 分類器兩週看不見 babel 調度器與 origin 側排程 session；零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -276,6 +276,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - **v10 (rewrite same-DNA / 編輯室, 2026-07-15)**：投影／正文作者自檢無法替代乾淨 context 分席 — 設計報告 + dogfood + 負例 block 同 session 驗證；instrument = EDITORIAL-ROOM + REWRITE Step 2.0-R／2.5-R（commits `cc1429753` `2cfacebd2`）
   - **v11 (Babel pulse stale-row 假綠, 2026-07-30)**：`progress-snapshot.py` 的 `dict | None` 在產線系統 Python 3.9 載入期崩潰，外層 `babel-pulse.py` 卻沿用舊 rows 繼續產看板並印「commit 完成」。同一個 awareness tool 同時命中 parser runtime 相容性與 cross-snapshot freshness 兩層盲點。修補為 postponed annotations + snapshot 非零立即停止；Python 3.9 真實執行與遠端 deploy 全綠（`0f72bf896`、`721052994`）。新驗證：awareness 聚合器不能只驗「舊資料仍可讀」，每輪必把上游快照成功當成自己的前置 hard gate。
   - **v12 (pipefail 讓閘門在該響時沉默, 2026-09-10 babel-vortex)**：委派層重驗器的第 8 道寫成 `python3 article-health.py "$f" --quiet | grep -q "passed=False" && reasons+=("health")`，而腳本開頭是 `set -uo pipefail`——管線 exit code 取自最左邊失敗的那一段，article-health 硬失敗時正好 exit 1，**也正是 grep 會命中的那一刻**，於是 `&&` 後面永遠不執行。**檢查器越是抓到東西，這道閘越是沉默。** 整個 session 我對著「0 失敗」做決定；修好後同一批重跑得到 55 通過 / 5 失敗。破的是信心不是產物——pre-commit hook 是真後盾，它擋下了那次 commit。跟表格 #11（`sh -e` 下命令替換賦值靜默 abort）是同一族：**shell 的 exit-code 語意會讓閘門在最需要它的時候閉嘴**。新驗證：任何「跑檢查器 → 判斷輸出」的 gate，一律用檢查器自己的 exit code，不要走 `| grep` 管線；非寫不可時先 `out=$(cmd)` 落地再判。**寫完當場拿一個已知會失敗的檔案試一次**——只驗成功路徑等於沒驗。
+  - **v13 (飛輪自審腳本兩週看不見主角, 2026-09-20 twmd-routine-audit-weekly)**：`routine-audit.py` 的分類器只認 `[routine]` 前綴，babel 統一調度器的 `[semiont] babel:` 與 origin 側排程 session 的 `[semiont] memory: {name} @` 全落 manual-other／manual-memory，09-13 審計量到 71%（344/495）、09-20 60%（638/1060）都被歸「手動」，collision 偵測器因此對當週最大的生產者盲，連兩週回報 0 碰撞；09-13 把修法寫成 P3「留給下次順手改」，09-20 才改（#15 第 13 條 handoff 傳資訊不傳急迫性的自審版）。6/28 tool-fix 補的 `[routine] X:` 動態 fallback 修的是「新 routine 名字」那一層，沒修「不帶 [routine] 前綴的生產者」這一層——尺跟著被量者的命名慣例同步一次，慣例再變一次它就再盲一次。
 - **相關**：REFLEXES #24 第 1+2 種「沉默失敗 / 合理欺騙」（本條是 awareness layer 的 #24 specialization）/ REFLEXES #58「儀器化 detection ≠ remediation」（v4-v8 instance 是 #58 在 awareness layer 的 mature accumulation — 連 8 cycle detect 但 reconciliation 未 ship）/ REFLEXES #59「製造數字的人最易被數字騙」（互補 — #59 是 producer self-validation trap，本條是 awareness tool self-trust trap）/ REFLEXES #60「Automation default-state explicit verify」（同 family — 本條是 #60 對自家 tool 的內視鏡）/ REFLEXES #69「self-report-needs-external-ruler」（編輯室是 meaning-layer 的 external ruler）
 - **跨檔關聯**：[scripts/tools/inbox-signal.sh](../../scripts/tools/inbox-signal.sh) + [scripts/tools/consciousness-snapshot.sh](../../scripts/tools/consciousness-snapshot.sh) + [public/api/dashboard-organism.json](../../public/api/dashboard-organism.json) + [public/api/dashboard-immune.json](../../public/api/dashboard-immune.json) + [routine-audit-2026-05-24.md §3B Active #2](../../reports/routine-audit-2026-05-24.md) + [LESSONS-INBOX §distill #7 + #8 + #9 flags](LESSONS-INBOX.md) + [BECOME_TAIWANMD.md §Step 1.4](../../BECOME_TAIWANMD.md) + [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md) + [reports/editorial-room/](../../reports/editorial-room/)
 

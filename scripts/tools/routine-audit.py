@@ -69,6 +69,18 @@ ROUTINE_FALLBACK_RE = re.compile(r"\[routine\] ([a-z0-9-]+):")
 # 直接從 subject 解析比補齊每個具名 pattern 的 memory 變體更不會再漂移。
 MEMORY_ROUTINE_RE = re.compile(r"\[routine\] memory: (\S+) @")
 
+# 2026-09-20 routine-audit：origin 側的排程 session（commander-macbook 的 semiont-heartbeat、
+# 週日鏈 distill / self-evolve / weekly-report）收官 memory 用的是 `[semiont] memory: {name} @`
+# 同一套 schema，只差前綴——上一版只認 `[routine]`，這些全落 manual-memory。
+SEMIONT_MEMORY_ROUTINE_RE = re.compile(r"\[semiont\] memory: ([A-Za-z0-9_-]+) @")
+
+# babel 統一調度器是 launchd 常駐服務（OBSERVER-QUEUE #70），commit subject 固定
+# `🧬 [semiont] babel: {lang} 批次 N 篇（unified dispatcher, worker=…）`，不帶 [routine]。
+# 09-13 審計量到它占當週 71% commit 卻全落 manual-other，collision 偵測因此看不見它；
+# 09-20 再量是 60%。這裡把它當一條 routine 看（category=routine），不改 [routine] 前綴的語意。
+BABEL_DISPATCHER_RE = re.compile(r"\[semiont\] babel: ")
+HEARTBEAT_RE = re.compile(r"\[semiont\] heartbeat: ")
+
 SEMIONT_PATTERN = r"\[semiont\]"
 PR_SQUASH_PATTERN = r"\(#\d+\)$"
 
@@ -87,9 +99,13 @@ def run_git(args: list[str]) -> str:
 
 def classify_commit(subject: str) -> dict:
     """Map a git commit subject to a category."""
-    mem = MEMORY_ROUTINE_RE.search(subject)
+    mem = MEMORY_ROUTINE_RE.search(subject) or SEMIONT_MEMORY_ROUTINE_RE.search(subject)
     if mem:
         return {"category": "routine", "routine": mem.group(1)}
+    if BABEL_DISPATCHER_RE.search(subject):
+        return {"category": "routine", "routine": "babel-dispatcher"}
+    if HEARTBEAT_RE.search(subject):
+        return {"category": "routine", "routine": "semiont-heartbeat"}
     for name, pattern in ROUTINE_PATTERNS:
         if re.search(pattern, subject):
             return {"category": "routine", "routine": name}
@@ -105,8 +121,10 @@ def classify_commit(subject: str) -> dict:
             return {"category": "semiont", "routine": "manual-diary"}
         if "evolve:" in subject:
             return {"category": "semiont", "routine": "manual-evolve"}
-        if "twmd-rewrite:" in subject:
+        if "twmd-rewrite:" in subject or "] rewrite:" in subject:
             return {"category": "semiont", "routine": "manual-rewrite"}
+        if "] merge:" in subject:
+            return {"category": "semiont", "routine": "manual-merge"}
         if "ARTICLE-INBOX" in subject:
             return {"category": "semiont", "routine": "manual-inbox"}
         if "report:" in subject:
