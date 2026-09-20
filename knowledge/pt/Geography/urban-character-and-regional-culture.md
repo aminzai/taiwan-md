@@ -1,6 +1,6 @@
 ---
-title: 'Características Urbanas e Cultura Regional'
-description: 'De a metrópole internacional de Taipé ao charme da antiga capital de Tainan, como as cidades de Taiwan moldam identidades locais únicas'
+title: 'Características urbanas e cultura regional'
+description: 'Desde a agitação da capital internacional de Taipé até o charme da cidade antiga de Tainan, como as cidades da Taiwan moldaram uma identidade local única'
 date: 2026-03-18
 category: 'Geography'
 tags:
@@ -19,302 +19,318 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Geography/城市特色與區域文化.md'
-sourceCommitSha: '2850f17bc'
-sourceContentHash: 'sha256:d85bf01115410778'
-sourceBodyHash: 'sha256:be641d09ea1153ea'
-translatedAt: '2026-07-27T04:56:50+08:00'
+sourceCommitSha: 'fe34418b1'
+sourceContentHash: 'sha256:7dadbaf276fb07ab'
+sourceBodyHash: 'sha256:755b0e65ac133cb0'
+translatedAt: '2026-09-21T00:58:33+08:00'
 ---
 
-# Características Urbanas e Cultura Regional
+# Características urbanas e cultura regional
 
-## Visão geral em 30 segundos
+## 30 segundos de visão geral
 
-Embora Taiwan não tenha uma área extensa, cada cidade desenvolveu características locais e personalidades culturais distintas. Taipé é o centro político-económico e a janela internacional, Taichung é habitável e desenvolvida, Kaohsiung passa por transformação industrial, Tainan exibe o esplendor de uma antiga capital, Taoyuan é a porta de entrada aérea, Hsinchu é um bastião tecnológico. Essa diversidade urbana reflete as diferentes condições geográficas, desenvolvimentos históricos e especializações industriais das várias regiões de Taiwan, formando também estilos de vida e identidades culturais distintos entre as populações locais.
+Embora a Taiwan tenha uma área relativamente pequena, cada cidade desenvolveu características e personalidades culturais distintas. Taipé é o centro político-econômico e janela internacional; Taitung é uma cidade agradável para viver; Kaohsiung está em transformação industrial; Tainan preserva o esplendor da cidade antiga; Taoyuan é o porto de entrada aéreo; Hsinchu é a cidade tecnológica. Essa diversidade urbana reflete as condições geográficas, o desenvolvimento histórico e as características industriais de diferentes regiões, formando estilos de vida e identidades culturais únicas em cada lugar.
 
-Em 2010, Taiwan concluiu a reforma dos "seis municípios especiais" (Nova Taipé, Taichung, Tainan elevados a municípios especiais), fazendo com que mais de 70% da população de toda a ilha se concentrasse nas áreas de jurisdição dos seis municípios, com impacto profundo na alocação de recursos e na ecologia política.
+Em 2010, a Taiwan criou Nova Taipei, Taitung e Tainan como cidades, e uniu as áreas de condado e cidade de Kaohsiung, formando as "Cinco Grandes Cidades". Em 2014, com a elevação de Taoyuan, formaram-se as "Seis Grandes Cidades", e cerca de 70% da população total da Taiwan está concentrada dentro dessas seis cidades. A estrutura administrativa urbana tem um impacto profundo na distribuição de recursos e na ecologia política.
 
-Além dos seis municípios, o Parque Científico de Hsinchu e o eixo turístico de Hualien-Taitung são igualmente componentes importantes do mapa de características urbanas de Taiwan.
+Além das seis grandes cidades, a Cidade Científica de Hsinchu e o eixo turístico do leste são igualmente importantes na paisagem de características urbanas da Taiwan.
 
 ## Por que é importante
 
-Compreender as características urbanas de Taiwan é compreender a estrutura espacial e a geografia cultural da sociedade taiwanesa. A personalidade de cada cidade é o resultado conjunto de ambiente natural, oportunidades históricas e escolhas humanísticas. Essa diferença local faz com que Taiwan, em pequena área, forme uma diversidade interna única, sendo também a base concreta da identidade local e do orgulho cultural dos taiwaneses.
+Entender as características urbanas da Taiwan significa entender a estrutura espacial e a geografia cultural da sociedade taiwanesa. A personalidade de cada cidade é moldada pela combinação de fatores naturais, oportunidades históricas e escolhas humanas. Essa diferenciação regional permite que a Taiwan, em um território pequeno, mantenha uma diversidade interna única, que é a base concreta da identidade local e do orgulho cultural dos taiwaneses.
 
-As várias cidades de Taiwan desempenham cada uma o seu papel no posicionamento político (capital Taipé), função industrial (tecnologia em Hsinchu, indústria em Taoyuan e Kaohsiung), acumulação cultural (antiga capital Tainan), formando uma rede urbana geograficamente compacta, mas funcionalmente dispersa.
+As cidades da Taiwan desempenham papéis distintos em termos de posicionamento político (capital: Taipé), função industrial (tecnologia: Hsinchu; indústria: Taoyuan e Kaohsiung) e acumulação cultural (cidade antiga: Tainan), formando uma rede urbana geograficamente compacta, mas funcionalmente descentralizada.
 
-Para visitantes estrangeiros, conhecer as diferentes características urbanas ajuda a planear rotas de viagem com mais profundidade, sentindo a face tridimensional da sociedade taiwanesa.
+Para visitantes estrangeiros, compreender as características distintas de cada cidade ajuda a planejar rotas de viagem mais significativas e a perceber a face tridimensional da sociedade taiwanesa[^3][^4]。
 
-## Norte de Taiwan: círculo metropolitano internacional
+## Norte da Taiwan: Cinturão da metrópole internacional
 
-O norte de Taiwan inclui Taipé, Nova Taipé, Taoyuan, Keelung, Hsinchu e outras cidades, com população combinada superior a 8 milhões, representando mais de um terço do total da ilha, sendo a faixa urbana mais densa de Taiwan. O estatuto de centro político de Taipé, o aeroporto internacional de Taoyuan, o parque científico de Hsinchu fazem desta região a principal janela de ligação de Taiwan com o exterior.
+O norte da Taiwan inclui Taipé, Nova Taipei, Taoyuan, Keelung e Hsinchu, com uma população combinada de cerca de 10 milhões, representando mais de 40% da população total da Taiwan[^1], sendo a área urbana mais densa do país. A posição central política de Taipé, o aeroporto internacional de Taoyuan e o parque científico de Hsinchu tornam esta região a principal janela de ligação externa da Taiwan.
 
-O PIB do norte de Taiwan contribui com cerca de 50% do total da ilha, e as mais importantes indústrias financeira, tecnológica e de media de Taiwan concentram-se todas neste corredor.
+As indústrias financeiras, tecnológicas e de mídia mais importantes da Taiwan estão todas concentradas ao longo desse corredor.
 
-### Taipé: centro político, económico e cultural
+### Cidade de Taipé: Centro político, econômico e cultural
 
-**Palavras-chave:** metrópole internacional, centro político, criatividade cultural, vida noturna
-**População:** cerca de 2,6 milhões (centro político e cultural de Taiwan. População em segundo lugar, após Nova Taipé)[^1]
+**Palavras-chave：** Janela internacional, centro político, criatividade cultural, vida noturna
+**População：** Aproximadamente 2,424 milhões (2026, centro político e cultural da Taiwan. A escala populacional é a quarta maior entre as seis grandes cidades, atrás de Nova Taipei, Taitung e Kaohsiung)[^1]
 
-Como capital da República da China (Taiwan), Taipé é o centro político, económico, cultural e de media de Taiwan. Esta cidade preserva o património cultural tradicional e, com atitude aberta, acolhe a internacionalização e a modernização.
+Taipé, como capital da República da China, é o centro político, econômico, cultural e de mídia da Taiwan. A cidade preserva tradições culturais enquanto acolhe a internacionalização e a modernização com uma atitude aberta.
 
-**Personalidade urbana:**
+**Personalidade da cidade：**
 
-- **Ritmo de vida acelerado:** a cidade mais internacionalizada de Taiwan, ritmo de vida relativamente rápido
-- **Cultura diversificada:** alta densidade de museus, teatros, galerias, atividades culturais ricas
-- **Vida noturna vibrante:** mercados noturnos, bares, livrarias e cafés abertos 24 horas
-- **Transporte conveniente:** sistema de metro desenvolvido, única cidade de Taiwan com metropolitano
+- **Ritmo acelerado：** A cidade mais internacionalizada da Taiwan, com um ritmo de vida rápido
+- **Cultura diversificada：** Alta densidade de museus, teatros e galerias, com ricas atividades culturais
+- **Vida noturna vibrante：** Mercados noturnos, bares, livrarias e cafeterias abertas 24 horas
+- **Transporte conveniente：** A rede de metrô é a mais densa do país, com seis linhas principais mais o metrô do aeroporto
 
-O distrito de Xinyi é o núcleo financeiro e comercial moderno, o Taipei 101 (concluído em 2004, na altura o edifício mais alto do mundo) é o marco. Ximending, desde a era colonial japonesa, é um bastião de entretenimento, conhecido pela concentração de cultura jovem e tendências, com o epíteto de "Harajuku de Taipé". O Mercado Noturno de Shilin, a Rua Dihua, a Rua Yongkang representam respectivamente diferentes facetas de mercado noturno turístico, bens tradicionais de Ano Novo e gastronomia criativa.
+O distrito de Xinyi é o núcleo financeiro e comercial moderno, e o Taipei 101 (o prédio mais alto do mundo em 2004) é um marco icônico. O distrito de Ximending, famoso desde a era japonesa como um centro de entretenimento, é conhecido como "o Harajuku de Taipé" por sua cultura jovem e tendências. Os mercados noturnos de Shilin, a rua Dihua e a rua Yongkang representam diferentes aspectos de mercados turísticos noturnos, comércio tradicional e culinária criativa.
 
-**Características culturais:**
-Os taipenses possuem visão internacional relativamente forte, alta aceitação de novidades, forte poder de consumo, mas pressão de vida também relativamente grande. Taipé é o berço da cultura pop de Taiwan, da música, moda às tendências gastronómicas, frequentemente irradiando de Taipé para toda a ilha.
+**Características culturais：**
+Os habitantes de Taipé possuem uma visão mais internacional, são receptivos a novas tendências, têm maior poder de consumo, mas também enfrentam maior pressão de vida. Taipé é a origem da cultura pop taiwanesa, e tendências em música, moda e culinária frequentemente se espalham de Taipé para todo o país.
 
-### Nova Taipé: cidade-satélite diversificada
+### Nova Taipei: Cidade satélite diversificada
 
-**Palavras-chave:** envolvente de Taipé, desenvolvimento diversificado, montanha e mar
-**População:** cerca de 4 milhões (cidade mais populosa de Taiwan)
+**Palavras-chave：** Cinturão de Taipé, desenvolvimento diversificado, montanhas e mares
+**População：** Aproximadamente 4,037 milhões (a cidade com maior população da Taiwan)[^1]
 
-Nova Taipé circunda Taipé, incluindo áreas de montanha, costa, zonas industriais, áreas residenciais e outras paisagens diversificadas, sendo parte importante da área metropolitana de Taipé.
+Nova Taipei circunda a cidade de Taipé, incluindo áreas montanhosas, costas marítimas, zonas industriais e residenciais, sendo uma parte importante da região metropolitana de Taipé.
 
-Nova Taipé tem vasto território, cada distrito com sua feição. A foz do rio Tamsui, a Rua Velha de Tamsui e o Cais dos Pescadores são dos pontos de lazer de fim de semana mais populares do norte de Taiwan. Jiufen e Jinguashi, pela cidade mineira de montanha deixada pela extração de ouro na era japonesa, são frequentemente associados por turistas estrangeiros ao cenário de _A Viagem de Chihiro_. Yingge é famosa pela cerâmica, o Templo Zushi de Sanxia tem entalhes requintados, Wulai de Xindian é local de preservação da cultura termal do povo Atayal.
+Nova Taipei tem uma vasta extensão territorial, e cada distrito tem suas próprias características. As ruas antigas de Tamsui, no delta do rio Tamsui, e o cais de pescadores são os pontos turísticos mais populares nos fins de semana no norte da Taiwan. A cidade de mineração de Jinguashi, formada durante a era japonesa por escavação de minas, é frequentemente associada a visitantes estrangeiros e cenas do filme "Menina Escondida". Yingge é conhecida por sua arte em cerâmica, o templo de Zhanggong in Taishan tem esculturas detalhadas, e Wulai é uma área montanhosa onde os povos nativos Tsai e fontes termais coexistem.
 
-### Taoyuan: porta de entrada aérea
+### Cidade de Taoyuan: Porta de entrada internacional
 
-**Palavras-chave:** aeroporto internacional, indústria desenvolvida, cultura Hakka, etnias diversas
-**População:** cerca de 2,3 milhões
+**Palavras-chave：** Aeroporto internacional, indústria desenvolvida, cultura Hakka, diversidade étnica
+**População：** Aproximadamente 2,357 milhões[^1]
 
-Taoyuan, graças ao Aeroporto Internacional de Taoyuan, tornou-se a porta de entrada internacional de Taiwan, com a maior densidade de zonas industriais da ilha, muitas empresas multinacionais escolhendo aqui instalar as suas sedes em Taiwan.
+Taoyuan se tornou a porta de entrada internacional da Taiwan devido ao Aeroporto Internacional de Taoyuan, e é uma área industrial concentrada onde muitas empresas multinacionais escolhem estabelecer suas sedes na Taiwan.
 
-**Características urbanas:**
+**Características urbanas：**
 
-- **Alto grau de internacionalização:** proporção relativamente alta de trabalhadores migrantes estrangeiros e novos residentes
-- **Bastião industrial:** Zona Industrial de Zhongli, Zona Industrial de Guanyin
-- **Cultura Hakka:** Longtan, Yangmei e outras áreas preservam forte ambiente Hakka
-- **Cultura de lagoas:** "terra das mil lagoas", paisagem hidráulica única
+- **Alto nível de internacionalização：** Proporção elevada de trabalhadores imigrantes e novos residentes estrangeiros
+- **Centro industrial：** Zona industrial de Zhongli e Zona industrial de Guanyin
+- **Cultura Hakka：** Longtian e Yangmei preservam fortes traços culturais Hakka
+- **Cultura de pântanos：** Conhecida como "Terra das Mil Ponds", com paisagens únicas de irrigação
 
-### Condado e cidade de Hsinchu: bastião tecnológico
+### Cidade de Hsinchu: Cidade tecnológica
 
-**Palavras-chave:** parque científico, indústria de alta tecnologia, cidade dos ventos, cultura Hakka
-**População:** cerca de 1 milhão (soma cidade e condado)
+**Palavras-chave：** Parque científico, indústria de alta tecnologia, vento, cultura Hakka
+**População：** Aproximadamente 1,05 milhões (combinando cidade e condado)[^1]
 
-Hsinchu, graças à criação do Parque Científico em 1980, atraiu gigantes de semicondutores como TSMC e MediaTek, saltando para núcleo da indústria de alta tecnologia de Taiwan, chamada pela imprensa estrangeira de "Silicon Valley de Taiwan".
+Hsinchu tornou-se o núcleo da indústria de alta tecnologia da Taiwan após a fundação do Parque Científico em 1980, atraindo empresas líderes como TSMC e MediaTek, sendo conhecida pela mídia estrangeira como "Vale do Silício da Taiwan".
 
-**Características urbanas:**
+**Características urbanas：**
 
-- **Grupo de alta renda:** alta proporção de profissionais de tecnologia, forte poder de consumo
-- **Comunidade internacionalizada:** mais profissionais estrangeiros
-- **Cultura da cidade dos ventos:** vento nordeste forte, desenvolveu cultura de vento única
-- **Bastião educacional:** Universidade Tsing Hua, Universidade Nacional Yang Ming Chiao Tung e outras instituições de topo[^2]
+- **Alta renda populacional：** Alta proporção de profissionais de tecnologia, forte poder de consumo
+- **Comunidade internacionalizada：** Maior número de profissionais estrangeiros
+- **Cultura do vento：** Ventos fortes do nordeste emplumados, desenvolvendo uma cultura única do vento
+- **Centro educacional：** Universidades de elite como National Tsing Hua University e National Yang Ming Chiao Tung University[^2]
 
-**Áreas representativas:**
+**Áreas representativas：**
 
-- **Parque Científico de Hsinchu:** núcleo da indústria de semicondutores e design de IC de Taiwan
-- **Templo Chenghuang de Hsinchu:** centro de fé com incenso próspero, petiscos circundantes famosos
-- **Rua Velha de Beipu:** padrão de povoado Hakka da era Qing preservado até hoje
-- **Rua Velha de Neiwan:** vila de montanha na linha de ramal, famosa por zongzi de flor de gengibre selvagem Hakka
+- **Parque Científico de Hsinchu：** Núcleo da indústria de semicondutores e design de IC da Taiwan
+- **Templo de Hsinchu City God：** Centro de fé movimentado, cercado por comidas de rua famosas
+- **Rua antiga de Beipu：** Distrito histórico Hakka preservado desde a era Qing
+- **Rua antiga de Nuanzan：** Cidadezinha de linha do trem, famosa por seus tambores de arroz de erva de Hakka
 
-## Centro de Taiwan: círculo de vida habitável
+## Centro da Taiwan: Cinturão de vida confortável
 
-Taichung é a cidade nuclear do centro de Taiwan, em 2016 a população ultrapassou Kaohsiung pela primeira vez, subindo a segunda maior metrópole da ilha. A bacia de Taichung tem clima ameno, sem calor extremo no verão nem frio rigoroso no inverno, figurando há muito nos primeiros lugares das sondagens de "cidade mais habitável de Taiwan".
+Taitung é a cidade central da região central da Taiwan. Em julho de 2017, a população ultrapassou a de Kaohsiung (2,778,182 pessoas, apenas 309 a mais), tornando-se a segunda maior cidade do país[^6]。
 
-### Taichung: capital habitável
+A planície de Taitung tem clima ameno, sem verões extremamente quentes nem invernos rigorosamente frios, e frequentemente aparece entre as primeiras posições na pesquisa "Cidade mais agradável para viver da Taiwan".
 
-**Palavras-chave:** clima agradável, criatividade cultural, capital gastronómica, construção progressiva
-**População:** cerca de 2,8 milhões
+### Cidade de Taitung: Cidade agradável para viver
 
-Taichung localiza-se no centro de Taiwan, clima ameno, nos últimos anos, graças a construções municipais e elevação da qualidade de vida, considerada por muitos a cidade mais habitável de Taiwan.
+**Palavras-chave：** Clima agradável, criatividade cultural, cidade gastronômica, progresso urbano
+**População：** Aproximadamente 2,867 milhões[^1]
 
-**Personalidade urbana:**
+Localizada no centro da Taiwan, Taitung tem clima ameno. Nos últimos anos, com a melhoria das construções urbanas e da qualidade de vida, muitas pessoas consideram Taitung a cidade mais agradável para viver da Taiwan.
 
-- **Ritmo descontraído:** comparado ao ritmo acelerado de Taipé, taichungueses vivem de forma mais descontraída
-- **Cultura gastronómica:** berço de inovação da culinária taiwanesa, cultura de petiscos rica
-- **Ambiente criativo-cultural:** pontos criativos como Nova Vila de Qinmei, Vila Microcriativa Fantasia
-- **Modernização da construção:** metro linha azul inaugurado em 2021, ligando centro da cidade à estação HSR de Wuri
+**Personalidade da cidade：**
 
-**Áreas representativas:**
+- **Ritmo relaxado：** Comparado ao ritmo acelerado de Taipé, a vida em Taitung é mais tranquila
+- **Cultura gastronômica：** Culinária taiwanesa inovadora, rica cultura de comida de rua
+- **Ambiente criativo：** Espaços culturais como o bairro de Auditiva Nova Village e o povoado de Fantian Creative
+- **Modernização urbana：** Linha verde do metrô entrou em operação em abril de 2021, conectando os distritos de Nantun, área urbana e estação ferroviária de Wuridashi[^7]
 
-- **Corredor Verde Qinmei Eslite:** espaço urbano combinando compras, cultura, áreas verdes
-- **Mercado Noturno de Fengjia:** maior mercado noturno de Taiwan, berço de petiscos inovadores
-- **Rua Yizhong:** zona comercial estudantil, concentração de cultura jovem
-- **Museu da Literatura de Taichung:** edifício de época japonesa transformado em espaço cultural
+**Áreas representativas：**
 
-**Características de vida:**
-Taichungueses valorizam qualidade de vida, cultura de chá da tarde desenvolvida, exigência relativamente alta com comida. Taichung é também importante berço de bebidas artesanais de Taiwan (como chá de bolhas de pérola), cultura gastronómica inovadora ativa.
+- **Green Garden Avenue de Quemei Chen：** Espaço urbano que combina compras, cultura e áreas verdes
+- **Mercado noturno de Fengjia：** Maior mercado noturno do país, berço de comidas inovadoras
+- **Rua Zhonghua：** Área comercial estudantil, convergência de cultura jovem
+- **Biblioteca de Literatura de Taitung：** Espaço cultural transformado de construção estilo japonês
 
-## Sul de Taiwan: círculo histórico-cultural
+**Características de vida：**
+Os habitantes de Taitung valorizam a qualidade de vida, possuem uma cultura de chá desenvolvida e exigem mais da comida. Taitung também é um importante berço de bebidas artesanais taiwanesas (como o famoso chá de bolhas), com uma cultura de alimentação inovadora ativa.
 
-O sul de Taiwan tem como núcleo Tainan, Kaohsiung, Pingtung, sendo a região desenvolvida mais cedo de Taiwan, e a faixa de preservação cultural tradicional mais completa. O Forte Holandês de Anping, palácios Ming-Zheng, ruas da capital da era Qing e edifícios da era japonesa coexistem em Tainan, formando a paisagem histórico-cultural mais densa de Taiwan.
+## Sul da Taiwan: Cinturão de cultura histórica
 
-### Tainan: capital cultural antiga
+O sul da Taiwan, centrado em Tainan, Kaohsiung e Pingtung, foi a região mais precoce a ser desenvolvida na Taiwan, e também é a área onde a cultura tradicional é mais bem preservada. As ruas antigas da cidade de Tainan, os pátios do período Ming-Zheng e os arranha-céus do período japonês coexistem, formando a faixa de paisagens culturais históricas mais densa da Taiwan.
 
-**Palavras-chave:** monumentos históricos, cultura tradicional, paraíso gastronómico, vida lenta
-**População:** cerca de 1,9 milhões
+### Cidade de Tainan: Cidade antiga cultural
 
-Tainan é a cidade com história mais longa de Taiwan, desde 1624 quando holandeses construíram cidade em Anping, governando continuamente por mais de duzentos anos, preservando até hoje o grupo de monumentos com maior densidade de Taiwan, e famosa em toda a ilha pelos petiscos tradicionais.
+**Palavras-chave：** Monumentos históricos, cultura tradicional, paraíso gastronômico, vida lenta
+**População：** Aproximadamente 1,847 milhões[^1]
 
-**Personalidade urbana:**
+Tainan é a cidade mais antiga da Taiwan: em 1624, os holandeses construíram o forte Zeelandia em Anping; desde então, passando pelo período Ming-Zheng e Qing, Tainan foi o centro político da Taiwan por mais de 200 anos, até que a província foi estabelecida em 1887 e a capital administrativa foi transferida para o norte. Até hoje, Tainan mantém o maior grupo de ruínas históricas do país e é conhecida por suas comidas de rua tradicionais.
 
-- **Profundo património histórico:** densidade de monumentos a nível nacional
-- **Preservação cultural tradicional:** cultura de templos, artesanato tradicional ativos
-- **Cultura gastronómica requintada:** grande variedade de petiscos, sabores tradicionais
-- **Ritmo de vida lento:** valoriza gosto de vida, sem pressa
+**Personalidade da cidade：**
 
-**Características culturais:**
+- **Rica herança histórica：** Densidade de monumentos históricos mais alta do país
+- **Preservação de cultura tradicional：** Cultura de templos e artesanato tradicional ativos
+- **Culinária refinada：** Grande variedade de comidas de rua, sabores tradicionais
+- **Ritmo de vida lento：** Valoriza a qualidade de vida, sem pressa nem agitação
 
-- **Cultura religiosa:** numerosos templos, atividades religiosas frequentes
-- **Petiscos da capital provincial:** tábua de caixão, noodles danzai, sopa de carne bovina e outros clássicos
-- **Literatura e arte:** atmosfera densa de criação literária, atividades artísticas ricas
-- **Cultura arquitetónica:** edifícios de várias épocas, holandesa, Ming-Zheng, japonesa, coexistentes
+**Características culturais：**
 
-**Áreas representativas:**
+- **Cultura religiosa：** Grande número de templos, atividades religiosas frequentes
+- **Comidas de rua da cidade antiga：** Pratos clássicos como "pão de caixão", "noodles com carne", "sopa de carne"
+- **Literatura e arte：** Ambiente literário fértil, ricas atividades artísticas
+- **Cultura arquitetônica：** Construções de diferentes períodos, desde holandês, Ming-Zheng até japonês
 
-- **Forte de Anping:** vestígios da época holandesa, ponto de partida histórico de Tainan
-- **Torre Chihkan:** edifício da época Ming-Zheng, marco de Tainan
-- **Templo de Confúcio:** primeira escola de Taiwan, mais antigo templo de Confúcio da ilha
-- **Rua Shennong:** rua velha de charme antigo, lanternas noturnas especialmente belas
+**Áreas representativas：**
 
-### Kaohsiung: cidade industrial portuária
+- **Forte de Anping：** Sítio arqueológico holandês, ponto de partida da história de Tainan
+- **Torre Chihkan：** Construção do período Ming-Zheng, marco de Tainan
+- **Museu Confuciano：** Primeira escola confuciana da Taiwan
+- **Rua Shennong：** Rua antiga com charme, iluminada especialmente à noite
 
-**Palavras-chave:** capital portuária, indústria pesada, cultura marítima, transformação urbana
-**População:** cerca de 2,7 milhões
+### Cidade de Kaohsiung: Cidade marítima industrial
 
-Kaohsiung é a maior cidade portuária de Taiwan, tradicionalmente conhecida pela indústria pesada, a partir dos anos 2000 demoliu velhas fábricas, tratou o Rio Love, transformando-se em cidade de cultura marítima e turismo.
+**Palavras-chave：** Porto marítimo, indústria pesada, cultura marítima, transformação urbana
+**População：** Aproximadamente 2,708 milhões[^1]
 
-**Personalidade urbana:**
+Kaohsiung é a maior cidade portuária da Taiwan, tradicionalmente conhecida por sua indústria pesada. Desde o início dos anos 2000, com a demolição de antigos armazéns e a limpeza do rio Aodi, a cidade tem se transformado em uma cidade cultural marítima e turística.
 
-- **Ambiente marítimo:** cultura portuária e atmosfera oceânica densas
-- **Transformação industrial:** de indústria pesada para criatividade cultural e turismo
-- **Generosidade do sul de Taiwan:** fortes laços humanos, personalidade relativamente direta
-- **Capital portuária internacional:** ligação estreita com comércio internacional
+**Personalidade da cidade：**
 
-**Desenvolvimento da transformação:**
+- **Características marítimas：** Forte presença de cultura portuária e atmosfera marítima
+- **Transformação industrial：** Da indústria pesada à criatividade cultural e turismo
+- **Espírito sul da Taiwan：** Pessoas amigáveis e diretas, personalidade forte
+- **Porto internacional：** Conexão estreita com comércio internacional
 
-- **Zona Artística Especial de Pier-2:** armazéns industriais transformados em parque criativo-cultural
-- **Tratamento do Rio Love:** de vala malcheirosa a margem romântica
-- **Sistema de metro ligeiro:** primeiro sistema de transporte metro ligeiro de Taiwan
-- **Cultura marítima:** Museu do Porto, escola marítima e outras instituições de educação marítima
+**Desenvolvimento da transformação：**
 
-## Leste de Taiwan: eixo turístico natural
+- **Distrito de arte de Bó'ao：** Parque criativo transformado de armazéns industriais
+- **Limpeza do rio Aodi：** Transformação de um canal sujo em uma margem romântica
+- **Sistema de trilho leve：** Primeiro sistema de trilho leve da Taiwan
+- **Cultura marítima：** Museu Marítimo, Escola Náutica e outras instituições de educação marítima
 
-O leste de Taiwan tem como corpo principal Hualien e Taitung, população combinada inferior a 600 mil, mas possui o Desfiladeiro de Taroko, Vale Longitudinal de Hualien-Taitung, Cordilheira Costeira de Taitung e outras das mais magníficas paisagens naturais de Taiwan. Entre os 14 povos indígenas, 8 têm aglomerados principais no leste de Taiwan, fazendo desta região a área de preservação mais rica de cultura indígena de Taiwan.
+## Leste da Taiwan: Eixo de turismo natural
 
-### Condado de Hualien: sinfonia de montanha e mar
+O leste da Taiwan, centrado em Hualien e Taitung, tem uma população combinada de cerca de 520 mil[^1], mas abriga paisagens naturais deslumbrantes como o desfiladeiro de Taroko, o vale do leste e a cordilheira costeira. Entre os 16 grupos indígenas da Taiwan[^8], os Amis, Bunun, Taroko, Paiwan, Saisiyat, Tsou, Paiwan, Rukai, Atayal e outros têm seus principais agrupamentos no leste da Taiwan, tornando esta região o local mais rico em cultura indígena da Taiwan.
 
-**Palavras-chave:** Taroko, cultura indígena, paisagem natural, vida lenta
-**População:** cerca de 330 mil
+### Condado de Hualien: Harmonia entre montanhas e mares
 
-Hualien enfrenta o Pacífico, encosta-se à Cordilheira Central, o Desfiladeiro de Taroko e o Penhasco de Qingshui compõem a mais magnífica paisagem natural de Taiwan, atraindo anualmente mais de um milhão de visitantes.
+**Palavras-chave：** Taroko, cultura indígena, paisagens naturais, vida lenta
+**População：** Aproximadamente 311 mil[^1]
 
-**Características geográficas:**
+Hualien enfrenta o Oceano Pacífico e tem as montanhas centrais ao fundo. O desfiladeiro de Taroko e o penhasco de Qingshui formam as paisagens naturais mais impressionantes da Taiwan. Em 3 de abril de 2024, um forte terremoto atingiu Taroko, e o parque foi restaurado em fases, com algumas áreas reabrindo ao público em julho de 2025, e a restauração completa estimada para 2031[^9]。
 
-- **Parque Nacional de Taroko:** paisagem de desfiladeiro de nível mundial
-- **Cenário da costa leste:** Penhasco de Qingshui, costa de Qixingtan
-- **Cultura indígena:** rica cultura dos povos Amis e Taroko
-- **Agricultura biológica:** ambiente sem poluição, produtos biológicos de alta qualidade
+**Características geográficas：**
 
-### Condado de Taitung: retaguarda de Taiwan
+- **Parque Nacional de Taroko：** Paisagem de desfiladeiro de classe mundial
+- **Costa leste：** Penhasco de Qingshui, Praia de Qixingtan
+- **Cultura indígena：** Culturas ricas dos grupos Amis e Taroko
+- **Agricultura orgânica：** Ambiente sem poluição, produtos agrícolas orgânicos de alta qualidade
 
-**Palavras-chave:** vida lenta, cultura indígena, balões de ar quente, natureza pura
-**População:** cerca de 210 mil
+### Condado de Taitung: Montanhas posteriores da Taiwan
 
-Taitung é chamada "retaguarda de Taiwan", mantendo ambiente natural relativamente primitivo e ritmo de vida descontraído.
+**Palavras-chave：** Vida lenta, cultura indígena, balão quente, natureza pura
+**População：** Aproximadamente 207 mil[^1]
 
-**Características culturais:**
+Taitung é conhecida como "as montanhas posteriores da Taiwan", preservando um ambiente natural relativamente original e um ritmo de vida tranquilo.
 
-- **Cultura indígena diversificada:** 8 grupos étnicos indígenas coexistem
-- **Cultura de vida lenta:** ritmo de vida lento, enfatiza harmonia com a natureza
-- **Agricultura turística:** atemoia, flor de rosela e outros produtos agrícolas característicos
-- **Festival Internacional de Balões de Ar Quente:** atrai anualmente grande número de turistas
+**Características culturais：**
 
-## Regiões insulares: encantos únicos
+- **Diversidade cultural indígena：** Coexistência de Amis, Bunun, Paiwan, Rukai, Atayal e outros grupos
+- **Cultura de vida lenta：** Ritmo de vida lento, ênfase na harmonia com a natureza
+- **Turismo agrícola：** Cultivos típicos como manga e flor de lótus
+- **Festival internacional de balões quentes：** Atração anual de turistas em massa
 
-Os arquipélagos insulares de Taiwan dispersam-se pelo Estreito de Taiwan e Pacífico ocidental, cada um com geologia e contexto cultural únicos. Penghu são ilhas vulcânicas de basalto, Kinmen e Matsu eram ilhas de linha da frente militar na era da Guerra Fria, Lanyu é o território tradicional do povo Tao (Yami), Xiao Liuqiu é ilha de recife de coral elevado.
+## Ilhas periféricas: Estilos únicos
 
-Kinmen, em 1992, levantou a administração de campo de batalha e abriu ao turismo, conhecida por vestígios militares, povoados Minnan e licor de sorgo. Penghu atrai anualmente mais de um milhão de turistas, o festival de fogos de artifício de verão é uma das mais conhecidas festas insulares de Taiwan.
+As ilhas periféricas da Taiwan estão distribuídas no Estreito de Taiwan e no Pacífico leste, cada uma com características geológicas e culturais distintas. Penghu é uma ilha vulcânica de basalto; Kinmen e Matsu são ilhas fronteiriças militares durante a Guerra Fria; Lanyu é a terra tradicional do grupo indígena Atayal (Yami); e Xiaoqiouqiu é uma ilha formada por recifes de coral.
 
-A cultura do festival do peixe voador do povo Tao de Lanyu e a artesania tradicional de canoas de pranchas encaixadas são preciosos representantes da civilização marítima indígena de Taiwan, nos últimos anos o turismo ecológico substituiu a antiga controvérsia do depósito de resíduos nucleares, tornando-se caso de discussão de desenvolvimento sustentável insular.
+Após o fim da administração militar em 1992, Kinmen abriu-se ao turismo, ficando conhecida por seus sítios militares, vilas Hokkien e aguardente de milho. Penghu atrai mais de um milhão de turistas anualmente, e seu festival de fogos de artifício é um dos eventos mais famosos entre as ilhas periféricas da Taiwan.
 
-### Condado de Penghu: cenário insular
+A cultura do voo de peixes e do panganchu tradicional na ilha de Lanyu, e a tradição de embarcações de madeira, são representações preciosas da civilização marítima indígena da Taiwan. Recentemente, o turismo ecológico substituiu a controvérsia do armazenamento de resíduos nucleares, tornando-se um caso de estudo para o desenvolvimento sustentável das ilhas periféricas.
 
-**Características:** geologia de basalto, cultura de marisco, habitat de aves migratórias
+### Condado de Penghu: Paisagens insulares
 
-### Condado de Kinmen: cultura de campo de batalha
+**Características：** Geologia de basalto, cultura de mariscos, habitat de aves migratórias
 
-**Características:** vestígios militares, arquitetura Minnan, cultura de licor de sorgo
+### Condado de Kinmen: Cultura de fronteira militar
 
-### Condado de Matsu: linha da frente militar
+**Características：** Sítios militares, arquitetura Hokkien, cultura da aguardente de milho
 
-**Características:** cenário de campo de batalha, cultura Min Dong, fenómeno "lágrimas azuis"
+### Condado de Lianjiang (Matsu): Linha de frente militar
 
-## Diferenças e características do desenvolvimento regional
+**Características：** Paisagens de fronteira militar, cultura de Minnan, "lágrimas azuis" notáveis
 
-As diferenças de personalidade cultural entre norte, centro e sul de Taiwan são significativas, estreitamente relacionadas com condições geográficas e trajetórias de desenvolvimento histórico. Essa diferença formou estilos de vida distintos, sendo também a razão concreta pela qual Taiwan mantém diversidade cultural em pequeno território.
+## Diferenças de desenvolvimento regional e características
 
-### Diferenças culturais norte-centro-sul
+As diferenças culturais entre norte e sul da Taiwan são marcantes, relacionadas a condições geográficas e trajetórias históricas de desenvolvimento. Essa diversidade forma estilos de vida distintos, que são a razão concreta pela qual a Taiwan mantém uma diversidade cultural em um território pequeno.
 
-A área metropolitana de Taipé no norte tem ritmo rápido, alto grau de internacionalização, proporção de população forasteira a mais alta da ilha, cultura política e de media irradiando para toda a ilha, mas a densidade urbana traz também maior pressão de vida. O centro — Taichung, Changhua, Nantou — tem ritmo moderado, após a abertura do metro em 2018 o índice de habitabilidade figura repetidamente em primeiro lugar nas sondagens; Tainan, Kaohsiung e outras cidades do sul têm preservação cultural tradicional mais completa, densidade de templos a mais alta da ilha, relações humanas relativamente próximas. O leste — Hualien, Taitung — população escassa (soma inferior a 600 mil), mas preserva a mais completa cultura indígena e ecologia de agricultura biológica de Taiwan.
+### Diferenças culturais norte-sul
 
-### Diferença urbano-rural
+A região metropolitana de Taipé, no norte, tem um ritmo rápido e alto nível de internacionalização, com a maior proporção de população migrante do país, e a cultura política e midiática irradiada para todo o país, mas a alta densidade urbana também traz maior pressão de vida. A região central, incluindo Taitung, Changhua e Nantou, tem um ritmo moderado; após a abertura do metrô de Taitung em 2021, a cidade frequentemente aparece entre as primeiras posições na pesquisa de cidades mais agradáveis para viver; as cidades do sul, como Tainan e Kaohsiung, preservam tradições culturais mais completas, com a maior densidade de templos do país e relações comunitárias mais íntimas. A região leste, com Hualien e Taitung, tem baixa população (menos de 600 mil), mas preserva a cultura indígena mais completa e a agricultura ecológica orgânica da Taiwan.
 
-O salário médio dos seis municípios é cerca de 15-20% superior ao dos condados e cidades não-municípios, construções públicas e recursos médicos concentrados nas cidades, formando tendência de longo prazo de fluxo de população jovem para os seis municípios. A taxa de saída de jovens na região de Hualien-Taitung é especialmente proeminente, diminuição natural da população e emigração ocorrendo simultaneamente, tornando-se dificuldade do desenvolvimento equilibrado do território.
+### Desigualdade entre cidades e campos
 
-A divisão industrial entre cidades é clara: Taipé tem como núcleo finanças, comércio e cultura de media; Taoyuan, Taichung, Kaohsiung são o centro da indústria transformadora; Hsinchu, parques científicos do centro e sul sustentam semicondutores e máquinas de precisão; Tainan, Hualien-Taitung destacam-se em turismo histórico e agricultura biológica; Changhua, Yunlin, Chiayi, Pingtung são as bases de grãos e produtos agrícolas de toda a ilha.
+A média salarial das seis grandes cidades é mais alta que a das cidades e condados fora das seis grandes cidades, e os recursos públicos e médicos estão concentrados nas cidades, formando uma tendência de longo prazo de fluxo de jovens para as seis grandes cidades. A região leste tem uma taxa de emigração juvenil particularmente acentuada, com redução natural da população e migração para fora ocorrendo simultaneamente, tornando-se um problema para o desenvolvimento equilibrado do território.
+
+As indústrias de cada cidade são claramente divididas: Taipé é o núcleo de finanças, comércio e cultura de mídia; Taoyuan, Taitung e Kaohsiung são centros industriais de manufatura; o parque científico de Hsinchu, o parque científico central de Taitung e o parque científico do sul de Tainan sustentam a indústria de semicondutores e máquinas de precisão; Tainan e o leste da Taiwan se destacam no turismo histórico e agricultura orgânica; Changhua, Yunlin, Chiayi e Pingtung são a base de produção agrícola de grãos de todo o país.
 
 ## Identidade local e competição entre cidades
 
-As várias cidades de Taiwan reforçam a identidade local através de marketing diferenciado, formando relação de coopetição benigna. Taipé posiciona-se como metrópole internacional e capital do design, Taichung enfatiza qualidade habitável, Tainan atrai turismo como capital cultural antiga e capital gastronómica, Kaohsiung impulsiona transformação portuária com imagem de capital marítima, Hsinchu atrai talentos tecnológicos com cidade tecnológica e nome de cidade dos ventos.
+As cidades da Taiwan usam estratégias de marketing diferenciadas para fortalecer a identidade local, criando relações de coopetição saudável. Taipé se posiciona como uma metrópole internacional e cidade do design; Taitung enfatiza a qualidade de vida; Tainan atrai turistas com sua imagem de cidade antiga cultural e paraíso gastronômico; Kaohsiung promove a transformação do distrito portuário com a imagem de "capital marítima"; Hsinchu atrai talentos tecnológicos com seus parques científicos e renome de "cidade do vento".
 
-### Marketing urbano e marca
+### Marketing e marcas urbanas
 
-A construção de marca de cada cidade tem claro contexto histórico: a "capital cultural antiga" de Tainan origina-se da acumulação histórica de 300 anos desde a época holandesa até à era Qing; o posicionamento de capital marítima de Kaohsiung consolidou-se após o arranque da Zona Artística Especial de Pier-2 em 2003 e o início das obras do metro ligeiro em 2011; a cidade tecnológica de Hsinchu tem como ponto de partida o Parque Científico de 1980, atraindo em 40 anos mais de 600 empresas tecnológicas.
+A construção de marcas urbanas tem histórias de fundo claras: a "cidade antiga cultural" de Tainan se originou da acumulação histórica de quase 300 anos, desde a era holandesa até a dinastia Qing[^5]；a posição de "capital marítima" de Kaohsiung foi gradualmente consolidada após a abertura do Distrito de Arte de Bó'ao em 2002[^10] e o início do construção do trilho circular em 2013[^11]；o parque científico de Hsinchu se baseia na fundação do parque científico em 1980, atraindo mais de 600 empresas tecnológicas em 40 anos.
 
-### Identidade local e cultura dialetal
+### Identidade local e cultura de dialetos
 
-Os residentes de diferentes cidades têm forte sentido de identificação com a sua própria cidade, essa identificação expressa-se frequentemente através de comida, dialeto, estilo de vida. Por exemplo, o orgulho dos tainaneses pelos petiscos, a personalidade marítima dos kaohsiungueses, o gosto de vida dos taichungueses, etc.
+Habitantes de diferentes cidades possuem fortes sentimentos de identidade com suas cidades, frequentemente expressos através de comida, dialetos e estilos de vida. Por exemplo, o orgulho dos habitantes de Tainan por suas comidas de rua, o espírito marítimo dos habitantes de Kaohsiung e o gosto pela vida de Taitung.
 
-### Competição benigna entre cidades
+### Competição saudável entre cidades
 
-A transformação da Zona Artística Especial de Pier-2 iniciada por Kaohsiung em 2003 referenciou o modelo de revitalização de armazéns industriais do Parque Criativo Cultural Huashan 1914 de Taipé; a preservação da Vila Arco-Íris de Taichung inspirou-se na experiência de revitalização comunitária da Velha Casa Xinli de Tainan. Esse mecanismo de aprendizagem mútua entre cidades acelerou o nível geral de renovação urbana de Taiwan.
+O Distrito de Arte de Bó'ao de Kaohsiung, que começou com apenas três armazéns em 2002[^10]、o Distrito Cultural de Songshan de Taipé, inaugurado em 2011、e o Distrito Cultural de Zengyan de Tainan, são todos exemplos de transformação de espaços industriais em espaços culturais. A prática de referência mútua entre cidades acelera o nível geral de revitalização de espaços antigos na Taiwan.
 
 ## Tendências futuras de desenvolvimento
 
-Em 2007, a abertura total da HSR reduziu Taipé-Kaohsiung a 96 minutos, o corredor ocidental formou formalmente "círculo de vida de um dia", remodelando o padrão de competição e divisão de trabalho entre cidades. Renovação urbana, construção de cidades inteligentes e integração regional tornaram-se os três eixos principais de desenvolvimento das várias cidades de Taiwan na década de 2020.
+Em 2007, a ferrovia de alta velocidade entrou em operação em toda a linha, reduzindo o tempo entre Taipé e Kaohsiung para 96 minutos e formalizando a formação do "cinturão de vida de um dia" ao longo da costa oeste. A renovação urbana, a construção de cidades inteligentes e a integração regional tornaram-se os três grandes eixos de desenvolvimento das cidades da Taiwan na década de 2020.
 
-### Renovação e regeneração urbana
+### Renovação urbana e regeneração
 
-Muitas cidades transformam velhas zonas industriais em espaços criativo-culturais, ativam edifícios históricos como instalações culturais. O Parque Criativo Cultural de Songshan de Taipé (inaugurado 2011), a Zona Artística Especial de Pier-2 de Kaohsiung, o Parque Criativo Cultural Ten Drum de Tainan são casos típicos, impulsionando também atividade imobiliária e comercial circundante.
+Muitas cidades transformam antigos distritos industriais em espaços culturais criativos, e edifícios históricos são revitalizados como instalações culturais. O Distrito Cultural de Songshan de Taipé (inaugurado em 2011)、o Distrito de Arte de Bó'ao de Kaohsiung e o Distrito Cultural de Zengyan de Tainan são exemplos típicos, também impulsionando atividades imobiliárias e comerciais nas áreas circundantes.
 
 ### Desenvolvimento de cidades inteligentes
 
-As várias cidades de Taiwan promovem construção de cidades inteligentes, com IoT, big data, IA a melhorar a governação urbana. Taoyuan em 2020 reconhecida pelo Fórum de Comunidades Inteligentes Global (ICF), o sistema de semáforos inteligentes de Taichung cobre principais artérias, o Parque de Inovação 5G AIoT de Asia New Bay de Kaohsiung é o maior campo experimental de cidade inteligente de Taiwan.
+As cidades da Taiwan promovem a construção de cidades inteligentes, utilizando IoT, big data e IA para melhorar a governança urbana. Taoyuan ganhou o prêmio de "Cidade Inteligente do Ano" no Fórum Global de Cidades Inteligentes (ICF) em 2019[^12]；o sistema de semáforos inteligentes de Taitung cobre as principais avenidas；e o parque de inovação 5G AIoT de Aotai em Kaohsiung é o maior campo de experimentação de cidades inteligentes da Taiwan.
 
 ### Cooperação e integração regional
 
-O círculo de vida de um dia da HSR faz surgir modelo de deslocamento transfronteiriço "emprego em Taipé-Nova Taipé, residência em Tainan". Com o avanço da construção do metro em Tainan e Chiayi, a academia prevê que na década de 2030 o oeste de Taiwan possa formar três faixas metropolitanas contíguas norte-centro-sul, alterando o padrão de distribuição populacional e configuração industrial.
+O "cinturão de vida de um dia" da ferrovia de alta velocidade deu origem ao padrão de deslocamento "trabalhar em duas cidades, morar em Tainan". Com o avanço da construção do metrô de Tainan, especialistas preveem que, na década de 2030, a costa oeste da Taiwan possa formar três cinturões metropolitanos conectados — norte, centro e sul — mudando a distribuição populacional e a configuração industrial.
 
-## Sugestões para visitantes de Taiwan
+## Sugestões para visitantes
 
-Taiwan não tem grande área, mas as características urbanas diferem significativamente, sugere-se escolher rota consoante o propósito da viagem. Visitantes de primeira vez sugerem-se base em Taipé (2-3 dias), depois HSR para sul até Tainan ou Taichung (1-2 dias), podendo sentir o contraste de personalidade urbana entre norte e sul. Turismo cultural profundo pode ter como eixo a capital antiga de Tainan e a vila de Lukang; paisagem natural privilegia Taroko de Hualien e Chishang de Taitung; ambiente urbano moderno tem como mais representativos o distrito de Xinyi de Taipé combinado com a Zona Artística Especial de Pier-2 de Kaohsiung.
+A Taiwan tem uma área pequena, mas as características urbanas são marcantes. Recomenda-se escolher rotas de viagem de acordo com os interesses. Para primeiros visitantes, recomenda-se usar Taipé como base (2-3 dias), depois viajar para Tainan ou Taitung ao longo da ferrovia de alta velocidade (1-2 dias), para sentir a contrastação entre as personalidades urbanas do norte e do sul. Para turismo cultural profundo, recomenda-se focar na cidade antiga de Tainan e na vila de Lugang; para paisagens naturais, recomenda-se o desfiladeiro de Taroko em Hualien e o distrito de Chongshan em Taitung; para experiências urbanas modernas, recomenda-se o distrito de Xinyi em Taipé combinado com o Distrito de Arte de Bó'ao em Kaohsiung.
 
-Em transporte, a HSR liga os seis municípios ocidentais de forma mais rápida; a ferrovia convencional (TRA) em volta da ilha alcança o leste e a linha sul-link; autocarros entre pontos turísticos são económicos. Taipé é a única cidade de toda a ilha com rede de metropolitano (MRT), o metro do aeroporto inaugurado em 2017 liga diretamente ao aeroporto de Taoyuan em apenas 35 minutos.
+Em termos de transporte, a ferrovia de alta velocidade conecta as seis grandes cidades de forma mais rápida; a ferrovia convencional circundando a ilha chega ao leste e ao sul; e os ônibus intermunicipais são econômicos e práticos. A rede de metrô de Taipé é a mais densa do país; Kaohsiung, Taoyuan e Taitung também possuem metrô ou trilhos leves. Após a operação do metrô do aeroporto em 2017, o trem direto da estação ferroviária de Taipé ao Aeroporto Internacional de Taoyuan leva cerca de 35 minutos.
 
-Opções de alojamento variam consoante o estilo da cidade: Taipé tem hotéis boutique e hostels em paralelo, Tainan tem hotéis culturais remodelados de velhas casas históricas com bastante carácter, a região de Hualien-Taitung tem resorts à beira-mar permitindo aos turistas sentir de perto o ambiente natural da retaguarda.
+As opções de hospedagem variam de acordo com o estilo da cidade: Taipé oferece hotéis boutique e hostels juvenis; Tainan tem hotéis culturais transformados de casas históricas; e o leste da Taiwan oferece resorts de férias com vistas marítimas para que os turistas possam apreciar a natureza das montanhas posteriores de perto.
 
-## Reflexão alargada
+## Reflexões adicionais
 
-A formação das características urbanas de Taiwan reflete a complexa interação entre ambiente geográfico, oportunidades históricas, escolhas políticas e qualidades humanísticas. Na era da globalização, como manter as características locais enquanto se eleva a competitividade internacional, é o desafio comum a todas as cidades de Taiwan.
+A formação das características urbanas da Taiwan reflete a interação complexa entre fatores geográficos, oportunidades históricas, escolhas políticas e traços humanos. Na era da globalização, como manter as características locais enquanto se melhora a competitividade internacional é um desafio comum a todas as cidades da Taiwan.
 
-Desde a reforma dos seis municípios em 2010, a capacidade de governação urbana melhorou significativamente, as decisões dos presidentes de câmara em construção de metro, políticas culturais, promoção turística, influenciam diretamente a atratividade populacional e o ambiente de investimento das cidades.
+Desde a reforma administrativa das cinco grandes cidades em 2010 e a formação das seis grandes cidades em 2014, a capacidade de governança urbana melhorou significativamente. As decisões tomadas pelos prefeitos nas áreas de construção de metrô, políticas culturais e promoção turística afetaram diretamente a atração de população e o ambiente de investimento das cidades.
 
-Essa diversidade urbana constitui o ativo humanístico mais único de Taiwan, permitindo que na mesma ilha as pessoas possam escolher ritmos de vida e ambientes culturais radicalmente diferentes. Compreender as diferenças de características urbanas é o ponto de partida para conhecer a complexidade e a inclusividade da sociedade taiwanesa.
+Essa diversidade urbana constitui o mais valioso patrimônio humano da Taiwan, permitindo que pessoas na mesma ilha escolham ritmos de vida e ambientes culturais completamente diferentes. Compreender as diferenças nas características urbanas é o ponto de partida para entender a complexidade e a inclusão da sociedade taiwanesa.
 
 ## Referências
 
-[^1]: Departamento de Administração Doméstica do Ministério do Interior, [Sistema de Consulta de Dados Estatísticos de População](https://www.ris.gov.tw/).
+[^1]: [Sistema de Consulta de Dados Populacionais](https://www.ris.gov.tw/) — Departamento de Registro Civil do Ministério do Interior，dados populacionais de julho de 2026 para cada cidade e condado: Taipé 2,424,159; Nova Taipei 4,037,150; Taoyuan 2,357,121; Taitung 2,867,246; Tainan 1,847,288; Kaohsiung 2,708,485; Hsinchu 455,813; Condado de Hsinchu 598,352; Keelung 358,287; Hualien 311,067; Taitung 207,747 (também consultar [Wikipédia: Lista de população por regiões administrativas da Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)）。
 
-[^2]: Universidade Nacional Yang Ming Chiao Tung, [Sítio Oficial](https://www.nycu.edu.tw/), inclui história da escola e apresentação institucional.
+[^2]: [site oficial](https://www.nycu.edu.tw/) — Universidade Nacional Yang Ming Chiao Tung，incluindo história da fundação e introdução geral da universidade.
 
-[^3]: Administração de Turismo do Ministério dos Transportes, [Dados Estatísticos de Turismo Urbano](https://admin.taiwan.net.tw/).
+[^3]: [Estatísticas de turismo urbano](https://admin.taiwan.net.tw/) — Agência de Turismo do Ministério das Comunicações。
 
-[^4]: Lin Shu-jung et al., [《Releitura de Taiwan: Perspetiva Antropológica》](https://www.books.com.tw/products/0010659492).
+[^4]: [《Relembrando a Taiwan: Visão antropológica》](https://www.books.com.tw/products/0010659492) — Lin Shuhua et al。
 
-[^5]: Departamentos de Cultura das várias cidades, [Publicações oficiais (exemplo do Departamento de Cultura de Tainan)](https://culture.tainan.gov.tw/).
+[^5]: [Publicações oficiais (tomando como exemplo a publicação da prefeitura de Tainan)](https://culture.tainan.gov.tw/) — Culturais de cada cidade。
+
+[^6]: [〈População maior que Kaohsiung por 309 pessoas, Taitung se torna a segunda maior cidade da Taiwan〉](https://news.pts.org.tw/article/366695) — Noticiário da TV Pública，2017-08-02 — população de Taitung atingiu 2,778,182 pessoas em 31 de julho.
+
+[^7]: [〈Quebra de 1,8 milhões de passageiros! Linha verde do metrô de Taitung entra em operação oficial em 25 de abril〉](https://www.taichung.gov.tw/8868/8872/9962/1768573) — Prefeitura de Taitung
+
+[^8]: [〈"Lalanuas" e "Kanakanavu" oficialmente reconhecidos como o 15º e 16º grupos indígenas da Taiwan〉](https://www.ey.gov.tw/Page/9277F759E41CCD91/66709823-8a18-4895-b9e9-d95ef0a324f3) — Gabinete Executivo，2014-06-26.
+
+[^9]: [〈0403 após o terremoto, inspeção de dois anos em Taroko, previsão de recuperação total até 2031〉](https://news.pts.org.tw/article/797721) — Noticiário da TV Pública，área de recreação de Chongde reabriu ao público em 1º de julho de 2025, conforme [Noticiário United: 〈0403 após forte terremoto, parque nacional de Taroko restaura em fases e reabre parcialmente〉](https://udn.com/news/story/7266/8104336)。
+
+[^10]: [〈Conhecendo Bó'ao〉](https://pier2.org/about/) — Distrito de Arte de Bó'ao
+
+[^11]: [〈Introdução ao trilho leve〉](https://mtbu.kcg.gov.tw/Communicate/LightRail/LR01.html) — Departamento de Engenharia de Metrô da Prefeitura de Kaohsiung
+
+[^12]: [〈Top 1 globalmente! Taoyuan conquista o prêmio de Cidade Inteligente do Ano do ICF após 11 anos de esforço〉](https://udn.com/news/story/7324/3871289) — Noticiário United，2019-06 — após 10 vezes Smart21 e 4 vezes Top7, finalmente ganhou o prêmio em 2019.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T03:04:35+08:00",
-    "zhCommitHead": "5def6096c",
+    "lastUpdated": "2026-09-21T03:09:21+08:00",
+    "zhCommitHead": "0908d488e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 944,
+        "fresh": 945,
         "stale": 65,
         "metadata_stale": 9,
-        "missing": 106,
+        "missing": 105,
         "orphan": 0
       },
       "pt": {
@@ -46728,8 +46728,8 @@
           "sourceContentHash": "sha256:62a0444682031043",
           "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
           "translatedAt": "2026-09-21T00:58:27+08:00",
-          "translationLastCommit": "fb8d74d0",
-          "translationLastModified": "2026-09-09T09:08:30+08:00",
+          "translationLastCommit": "0908d488",
+          "translationLastModified": "2026-09-21T03:04:35+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -48257,8 +48257,8 @@
           "sourceContentHash": "sha256:b47bd1e69ecf0593",
           "sourceBodyHash": "sha256:57a68bead4c3e5e8",
           "translatedAt": "2026-09-21T00:58:27+08:00",
-          "translationLastCommit": "5ec771ae",
-          "translationLastModified": "2026-09-11T14:20:14+08:00",
+          "translationLastCommit": "0908d488",
+          "translationLastModified": "2026-09-21T03:04:35+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -86700,7 +86700,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/luo-dayou.md",
+          "translatedFrom": "People/羅大佑.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:2bd311f3a1309672",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T18:22:43.230582+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -167694,8 +167705,8 @@
           "sourceContentHash": "sha256:7dadbaf276fb07ab",
           "sourceBodyHash": "sha256:755b0e65ac133cb0",
           "translatedAt": "2026-09-21T00:58:27+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "0908d488",
+          "translationLastModified": "2026-09-21T03:04:35+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
