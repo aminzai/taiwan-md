@@ -1,16 +1,16 @@
 ---
-title: 'Tài nguyên trang web chính thức của Đài Loan'
-description: 'Tài nguyên trang web chính thức của Taiwan.md là chỉ mục toàn diện và chính xác nhất của Đài Loan, bao gồm các cơ quan chính phủ, văn hóa giáo dục, du lịch, công nghệ kinh tế và truyền hình thông tin. Từ Nhà Trưởng đến các cơ quan địa phương, từ Kinh Thái Tự đến Bảo Tin Tự, bản đồ này dẫn dắt bạn tìm các cổng truy cập chính thức đầu tiên của Đài Loan theo từng lĩnh vực, đồng thời giải thích cách xác minh và sử dụng từng loại tài nguyên.'
+title: 'Tài Loan: Tài nguyên trang web chính thức'
+description: 'Tài nguyên trang web của Taiwan.md là chỉ mục các trang web chính thức và có thẩm quyền đầy đủ nhất về Đài Loan, bao gồm các lĩnh vực như cơ quan chính phủ, giáo dục văn hóa, du lịch, kinh tế công nghệ và truyền thông. Từ Phủ Tổng thống đến chính quyền địa phương, từ Cố Cung đến CCTV, bản tổng hợp này giúp bạn tìm thấy các cổng thông tin chính thức đầu tiên của Đài Loan theo từng lĩnh vực và giải thích cách xác minh cũng như sử dụng từng loại tài nguyên.'
 date: 2026-03-18
 tags:
   [
-    'about',
+    'giới thiệu',
     'tài nguyên chính thức',
     'chỉ mục trang web',
     'cơ quan chính phủ',
-    'văn hóa giáo dục',
+    'giáo dục văn hóa',
     'du lịch',
-    'truyền hình',
+    'truyền thông',
   ]
 author: 'Taiwan.md'
 readingTime: 3
@@ -18,121 +18,122 @@ featured: false
 category: 'About'
 lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源.md'
-sourceCommitSha: '026e5b584'
-sourceContentHash: 'sha256:3a49c509011ce42d'
-sourceBodyHash: 'sha256:637002941419ff56'
-translatedAt: '2026-07-27T09:40:31+08:00'
+sourceCommitSha: '0f26e4f94'
+sourceContentHash: 'sha256:1f8dee6529992135'
+sourceBodyHash: 'sha256:97a705b00e6deea8'
+translatedAt: '2026-09-20T00:52:41+08:00'
 ---
 
-# Tài nguyên trang web chính thức của Đài Loan
+# Tài nguyên trang web Đài Loan
 
-Tài nguyên trang web chính thức của Taiwan.md là chỉ mục toàn diện và chính xác nhất của Đài Loan, bao gồm các cơ quan chính phủ, văn hóa giáo dục, du lịch, công nghệ kinh tế và truyền hình thông tin.
+Tài nguyên trang web của Taiwan.md là chỉ mục các trang web chính thức/có thẩm quyền đầy đủ nhất về Đài Loan, bao gồm các lĩnh vực như cơ quan chính phủ, giáo dục văn hóa, du lịch, kinh tế công nghệ và truyền thông.
 
 ## Phân loại tài nguyên
 
 ### 🏛️ Cơ quan chính phủ
 
-- **Chính phủ trung ương**: Nhà Trưởng, Nội y minh, Quốc hội, Tòa án tố tụng và năm cơ quan liên quan
-- **Các bộ ngành**: Bộ Y tế và Văn phòng hỗ trợ dân cư, Bộ Lao động, Bộ Môi trường, Bộ Nông nghiệp, Bộ Quốc phòng, Bộ Tư pháp và các bộ ngành khác
-- **Chính phủ địa phương**: Sáu thành phố trực thuộc trung ương (Hà Nội, Thượng Bình, Trung Bình, Hạ Long, Nam Chi, Tứ Xuyên)
-- **Cơ quan đặc biệt**: Hội đồng Phát triển Quốc gia, Hội đồng Người dân tộc thiểu số, Hội đồng Người dân tộc nguyên thủy và các cơ quan khác
+- **Chính phủ trung ương**: Năm cơ quan của Ngũ Viện (Phủ Tổng thống, Hành chính viện, Lập pháp viện, Tư pháp viện, v.v.)
+- **Các Bộ**: Bộ Y tế và Phúc lợi, Bộ Lao động, Bộ Môi trường, Bộ Nông nghiệp, Bộ Quốc phòng, Bộ Tư pháp, v.v.
+- **Chính quyền địa phương**: Chính quyền sáu thành phố (Đài Bắc, Tân Bắc, Đài Trung, Cao Hùng, Đài Nam, Đào Viên)
+- **Các cơ quan đặc biệt**: Hội đồng Phát triển Quốc gia, Ủy ban Mặt trận Quốc dân, Hội người bản địa, v.v.
 
-### 🎭 Văn hóa và giáo dục
+### 🎭 Văn hóa và Giáo dục
 
-- **Bảo tàng**: Kinh Thái Tự, Bảo tàng Khoa học Tự nhiên Đài Loan, Bảo tàng Biển và Hải sản, Bảo tàng Văn hóa và Văn học Đài Loan
-- **Các trường đại học xuất sắc**: Đại học Đài Loan, Đại học Quốc gia Đài Loan, Đại học Kỹ thuật Đài Loan, Đại học Nam Đài, Đại học Quốc gia Đài Loan, Trường Đại học Sư phạm Đài Loan
-- **Các tổ chức nghiên cứu**: Viện Nghiên cứu Khoa học Trung ương, Quốc gia Khối nghiên cứu Khoa học và Công nghệ
-- **Các tổ chức nghệ thuật**: Hội đồng Nghệ thuật Hai khu, Trại Học tập Quân sự, Hội đồng Văn học Đài Loan
+- **Bảo tàng**: Cố Cung, Bảo tàng Lịch sử Đài Loan, Bảo tàng Khoa học Tự nhiên, Thủy cung, Bảo tàng Văn học Đài Loan
+- **Các trường đại học hàng đầu**: Đại học Đài Loan (Đài Đại), Đại học Thanh Hoa (Thanh Đại), Đại học Dương Minh Giao, Đại học Thành Đại, Đại học Chính trị, Đại học Sư phạm
+- **Cơ quan nghiên cứu**: Viện Nghiên cứu Trung Quốc (Trung Nghiên Viện), Hội đồng Khoa học Quốc gia
+- **Cơ quan nghệ thuật và văn hóa**: Hai Đại sảnh viện, Vệ Vũ Doanh, Văn Sách Viện
 
-### ✈️ Du lịch và du lịch
+### ✈️ Du lịch và Lữ hành
 
-- **Các khu dự trù quốc gia**: Thạch Sơn, Hùng Vũ, Đào Ngọc, Bách Bình, Nguồn Sơn
-- **Giao thông vận tải**: Đường sắt Đài Loan, Đường sắt cao tốc Đài Loan, Dịch vụ du lịch Đài Loan
-- **Các cơ quan chính phủ**: Bộ Du lịch, Bộ Xuất nhập cảnh, Bộ Giao thông, Bộ Khí tượng
+- **Vườn quốc gia**: Ngọc Sơn, Thái Lộc Các, Khên Đinh, Tuyết Bá, Dương Minh Sơn
+- **Giao thông vận tải**: Đường sắt Đài Loan (Đài Thiết), Cao tốc (Cao Thiết), Taiwan Good Travel
+- **Cơ quan chính thức**: Cục Du lịch, Cục Xuất nhập cảnh, Bộ Giao thông, Cục Khí tượng
 
-### 💼 Công nghệ và kinh tế
+### 💼 Công nghệ và Kinh tế
 
-- **Doanh nghiệp tiêu biểu**: Tập đoàn Bán dẫn Đài Loan, Tập đoàn Bán dẫn Đài Loan, Tập đoàn Foxconn, Tập đoàn Điện tử Đài Loan
-- **Các tổ chức nghiên cứu**: Hội đồng Công nghệ Thông tin, Viện Nghiên cứu Khoa học Trung ương, Viện Nghiên cứu Công nghệ
-- **Các tổ chức tài chính**: Sàn giao dịch chứng khoán, Trung tâm Giao dịch chứng khoán, Hội đồng Tài chính
-- **Các cơ quan chính phủ**: Bộ Kinh tế, Bộ Thương mại, Bộ Dịch vụ doanh nghiệp nhỏ và vừa
+- **Các doanh nghiệp tiêu biểu**: TSMC (Đài Kích Điện), UMC (Liên Điện), Foxconn (Hồng Hải), Delta Electronics (Đài Đạt Điện)
+- **Cơ quan R&D**: Hội đồng Tư vấn Khoa học, Viện Nghiên cứu Quốc gia, Viện Công nghiệp
+- **Tổ chức tài chính**: Sở Giao dịch Chứng khoán, Trung tâm Môi giới, Cơ quan Quản lý Tài chính
+- **Cơ quan chính phủ**: Bộ Kinh tế, Cục Thương mại, Cục Doanh nghiệp Vừa và Nhỏ
 
-### 📰 Truyền hình và tin tức
+### 📰 Truyền thông và Báo chí
 
-- **Truyền hình chính phủ**: Hội nhóm Báo chí Đài Loan, Truyền hình Công cộng, Truyền hình Trung ương, Focus Taiwan
-- **Truyền hình phổ thông**: Báo hợp đồng, Báo tự do, TVBS, Ba Lợi, Đông Sơn
-- **Truyền hông số**: Mạng lưới Báo chí Chủ động, Nhà báo, Tạp chí Dưới đất
+- **Truyền thông chính thức**: Thông tấn xã Trung ương (Trung Tâm Xã), CCTV, Đài Phát thanh Trung ương, Focus Taiwan
+- **Truyền thông đại chúng**: Nhật báo Liên hợp (Liên Hợp Báo), Tự do Thời báo (Tự Do Thị Báo), TVBS, Sanli, Eastson
+- **Truyền thông số**: Quan điểm then chốt (Quan Kiên Bình Luận Võng), Reporter (Báo Đả Bảo Giả), Thiên Hạ tạp chí
 
-### 🏥 Y tế và sức khỏe
+### 🏥 Y tế và Sức khỏe
 
-- **Các cơ quan chính phủ**: Bộ Kỹ thuật Dịch vụ Y tế, Bảo hiểm xã hội
-- **Các trung tâm y tế**: Bệnh viện Đại học Đài Loan, Bệnh viện Quốc tế, Hệ thống y tế Long Gang
+- **Cơ quan chính phủ**: Cục Quản lý Dịch bệnh, Cục Bảo hiểm Y tế
+- **Trung tâm y học**: Bệnh viện Đại học Đài Loan (Đài Đại Viện), Bệnh viện Vinh Tổng (Vinh Tông), Hệ thống chăm sóc sức khỏe Chang Gung
 
-### 🤝 NGO / xã hội dân sự
+### 🤝 NGO / Xã hội dân sự
 
-- **Các tổ chức nhân quyền**: Hiệp hội Thúc đẩy Nhân quyền Đài Loan
-- **Các tổ chức bảo vệ môi trường**: Trung tâm Thông tin Môi trường, Hiệp hội Bảo vệ Các khu tự nhiên
-- **Lợi ích số**: Quỹ Văn hóa Mở
-- **Giám sát truyền hình**: Trung tâm Xác minh Sự kiện Đài Loan
+- **Tổ chức nhân quyền**: Hội xúc tiến Nhân quyền Đài Loan
+- **Nhóm bảo vệ môi trường**: Trung tâm Thông tin Môi trường, Hiệp hội Bảo tồn Hoang dã
+- **Quyền kỹ thuật số**: Quỹ Văn hóa Mở
+- **Giám sát truyền thông**: Trung tâm Kiểm chứng Sự thật Đài Loan
 
-### 🎭 Các nơi diễn đạt nghệ thuật
+### 🎭 Không gian nghệ thuật và văn hóa
 
-- **Các bảo tàng nghệ thuật**: Bảo tàng Bắc Mỹ, Bảo tàng Hai Tây
-- **Các nơi diễn đạt nghệ thuật**: Nhà hát Lý trường Quốc gia thành phố Trung Bình
-- **Khu vực văn hóa sáng tạo**: Sơn Hà, Hoa Sơn, Bãi biển Hai
+- **Bảo tàng nghệ thuật**: Bắc Mỹ Quan, Cao Mỹ Quan
+- **Không gian biểu diễn**: Nhà hát Opera Quốc gia Đài Loan (Đài Trung Quốc Gia Ca Đoàn)
+- **Khu sáng tạo văn hóa**: Song Nghiệp, Hoa Sơn, Bạc Nhị
 
-### 🤖 Tài liệu ngôn ngữ AI và dữ liệu mở
+### 🤖 Ngữ liệu AI và Dữ liệu mở
 
-- **[Cơ sở dữ liệu ngôn ngữ huấn luyện AI chính trị Đài Loan (TAIC)](https://taic.moda.gov.tw)**: Bộ Phát triển Kỹ thuật Số thúc đẩy, bao gồm các tập dữ liệu tiếng Trung đơn giản chất lượng cao của các cơ quan trung ương, hơn 3000 bộ dữ liệu, hơn 11 tỷ Tokens, bao gồm văn hóa nghệ thuật, từ vựng ngôn ngữ, lịch sử hiện vật, văn hóa địa phương, du lịch và giáo dục học tập trong sáu nhóm lớn. Các doanh nghiệp và nghiên cứu có thể nộp đơn đề nghị sử dụng. Vào giữa năm 2026 sẽ mở rộng hợp tác với các bên thứ ba.
-- **Nền tảng chính phủ**: Trang web mở dữ liệu chính phủ (data.gov.tw), trang web cổng thông tin chính phủ
-- **Tra cứu luật lệ**: Cơ sở dữ liệu Luật quốc gia
-- **Tham gia công dân**: chính phủ g0v zero hour
-- **Bảo tàng văn hóa**: Bảo tàng Lưu trữ Đài Loan, Kho lưu trữ Văn hóa Quốc gia
+- **[Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan (TAIC)](https://taic.moda.gov.tw)**: Được Bộ Phát triển Kỹ thuật số thúc đẩy, thu thập các ngữ liệu tiếng Trung phồn thể của các cơ quan. Khi chính thức khởi động vào tháng 12 năm 2025, hơn 200 cơ quan chính phủ đã tham gia, tải lên hơn 2.000 bộ dữ liệu và hơn 600 triệu Tokens[^1]; chủ đề bao gồm văn hóa nghệ thuật, từ vựng ngôn ngữ, di vật lịch sử, văn hóa địa phương, du lịch, học tập, v.v. [^2], hiện đang mở rộng sang hai loại phòng ngừa thảm họa và tài nguyên môi trường khác. Nhà phát triển, đơn vị nghiên cứu và trường học có thể đăng ký tài khoản trực tuyến để sử dụng; Bộ Phát triển số cho biết giai đoạn ba sẽ hợp tác với các nhóm dân sự[^1].
+- **Nền tảng chính phủ**: Nền tảng mở dữ liệu chính phủ (data.gov.tw), Trang web cổng thông tin chính phủ
+- **Tra cứu pháp quy**: Cơ sở dữ liệu pháp luật quốc gia
+- **Tham gia công dân**: g0v Zero Time Government
+- **Lưu trữ văn hóa**: Lưu trữ Đài Loan, Kho ký ức văn hóa quốc gia
 
-## Thống kê (tháng 3 năm 2026)
+## Số liệu thống kê (Tháng 9 năm 2026)
 
-- **Số lượng trang web**: hơn 180 trang web chính thức và uy tín
-- **Số loại phân loại**: 12 nhóm phân loại lớn
-- **Phạm vi bao phủ**: chính phủ, giáo dục, văn hóa, công nghệ, truyền hình, y tế, xã hội dân sự, nghệ thuật, giao thông, doanh nghiệp và các lĩnh vực khác
+Các con số được căn cứ theo tính toán tức thời của trang [/resources](https://taiwan.md/resources), đây là ảnh chụp nhanh tại thời điểm bài viết này được cập nhật:
 
-### Phân bố chi tiết
+- **Tổng số trang web**: Khoảng 170 trang web chính thức/có thẩm quyền
+- **Chương mục**: 5 chương (Quản trị quốc gia, Văn hóa và tri thức, Tiếng nói Đài Loan, Kinh tế và đời sống, Công nghệ dân sự và cộng đồng), với 17 tiểu loại bên dưới
+- **Lựa chọn cốt lõi**: 34 trang web được hiển thị trên bản đồ tư duy tương tác
 
-- **Chính phủ địa phương**: 22 cơ quan chính phủ tỉnh thành
-- **Các tổ chức nghiên cứu đại học**: 10 trường đại học xuất sắc + 5 tổ chức nghiên cứu
-- **Các khu dự trù quốc gia**: 9 khu dự trù và khu du lịch
-- **Các địa điểm nghệ thuật**: 13 bảo tàng, bảo tàng nghệ thuật và địa điểm diễn đạt nghệ thuật quan trọng
-- **Y tế và sức khỏe**: 8 cơ quan y tế và cơ quan y tế
-- **NGO xã hội dân sự**: 8 tổ chức phi lợi nhuận quan trọng
-- **Các bộ ngành trung ương**: 16 cơ quan chính phủ trung ương
-- **Doanh nghiệp quan trọng**: 7 doanh nghiệp và công ty công nghệ tiêu biểu
-- **Truyền hình truyền thống**: 11 trang tin tức truyền hình phổ thông
-- **Giao thông vận tải**: 6 dịch vụ giao thông công cộng và dịch vụ giao thông
-- **Văn hóa số**: 4 nền tảng số và khoa học du lịch
-- **Độ chính xác nổi bật**: 48 trang web quan trọng nhất (hiển thị trên bản đồ tư duy)
+### Phân bổ chi tiết
 
-## Nguồn dữ liệu và xác minh
+- **Quản trị quốc gia**: Ngũ Viện 6, các Bộ trung ương 23, chính quyền cấp huyện/thành phố 22, nền tảng dữ liệu mở 4
+- **Văn hóa và tri thức**: Trường đại học và cơ quan nghiên cứu 14, bảo tàng 8, không gian nghệ thuật văn hóa 12, vườn quốc gia và khu phong cảnh 13
+- **Tiếng nói Đài Loan**: Truyền thông đại chúng 15, truyền thông số 6, NGO và các nhóm dân sự 8
+- **Kinh tế và đời sống**: Doanh nghiệp tiêu biểu 9, giao thông vận tải 6, y tế và sức khỏe 7, tổ chức tài chính 3
+- **Công nghệ dân sự và cộng đồng**: Các dự án mã nguồn mở và công nghệ dân sự 10, văn hóa ẩm thực 2
 
-Tất cả các trang web được liệt kê đều được xác minh theo các bước sau:
+## Nguồn dữ liệu và Xác minh
 
-1. Xác minh địa chỉ web chính xác
-2. Xác nhận tính chính thức và uy tín
-3. Kiểm tra khả năng truy cập trang web
+Tất cả các trang web được thu thập đều đã trải qua quá trình xác minh sau:
+
+1. Xác minh tính chính xác của URL
+2. Xác nhận tính chính thức/có thẩm quyền
+3. Kiểm tra khả năng truy cập của trang web
 4. Kiểm tra tính đầy đủ của nội dung
 
-## Bảo trì và cập nhật
+## Cập nhật và Bảo trì
 
-Danh sách tài nguyên được cập nhật thường xuyên, đảm bảo:
+Danh sách tài nguyên được cập nhật định kỳ để đảm bảo:
 
-- Các cơ quan mới thành lập được liệt kê kịp thời
-- Thay đổi địa chỉ web được cập nhật ngay lập tức
-- Các liên kết không hoạt động được xóa bỏ kịp thời
-- Cấu trúc phân loại được cải tiến liên tục
+- Các cơ quan mới thành lập được thu thập kịp thời
+- Thay đổi URL được cập nhật ngay lập tức
+- Liên kết không hoạt động được dọn dẹp kịp thời
+- Cấu trúc phân loại liên tục được tối ưu hóa
 
 ## Hướng dẫn sử dụng
 
-Truy cập [Trang web tài nguyên của Taiwan.md](https://taiwan.md/resources) có thể:
+Truy cập [trang tài nguyên Taiwan.md](https://taiwan.md/resources) có thể:
 
-- Duyệt danh sách đầy đủ các trang web
-- Sử dụng bản đồ tư duy tương tác để khám phá
+- Duyệt qua danh sách trang web hoàn chỉnh
+- Khám phá bằng bản đồ tư duy tương tác
 - Chuyển nhanh đến trang web mục tiêu
-- Hiểu chức năng của các cơ quan
+- Tìm hiểu mô tả chức năng của từng cơ quan
+
+## Tài liệu tham khảo
+
+[^1]: [Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan chính thức khởi động, nhận đăng ký trực tuyến kể từ hôm nay](https://www.cna.com.tw/news/afe/202512240226.aspx) — Thông tấn xã Trung ương, 2025-12-24: Hơn 200 cơ quan, hơn 2.000 bộ dữ liệu, hơn 600 triệu Tokens; giai đoạn ba sẽ hợp tác với các nhóm dân sự
+
+[^2]: [Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan | Chi tiết](https://moda.gov.tw/digital-affairs/plural-innovation/operations/18874) — Bộ Phát triển Kỹ thuật số: Hợp tác với hơn 200 cơ quan như Bộ Giáo dục, Bộ Văn hóa, Hội người bản địa, Ủy ban Khách Gia, v.v., các loại ngữ liệu theo chủ đề

@@ -19,11 +19,12 @@ featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:3ce4a541b6ce34e3'
-sourceBodyHash: 'sha256:cd63c30ef144f27a'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:c40e9256e5031f97'
+sourceBodyHash: 'sha256:b933f7d83c83a92f'
+translatedAt: '2026-09-19T23:21:34.548657+00:00'
 ---
 
 # Bí ẩn tính toán trực giác của các cô bán cơm tự chọn

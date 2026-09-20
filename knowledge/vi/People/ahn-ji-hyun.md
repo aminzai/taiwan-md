@@ -1,60 +1,60 @@
 ---
-title: 'Ahn Ji-hyun'
-description: 'Từ người cổ vũ chuyên nghiệp Hàn Quốc đến ngoại binh chính thức của Taiwan Steel Wing Stars, cô mang kinh nghiệm biểu diễn quốc tế vào sân chính ở Cao Hùng; giai đoạn Đại Vòm năm 2026 cũng trở thành điểm quan sát công khai về sự điều chỉnh chấn thương và vai trò ngoài sân của cô.'
+title: 'An Chi-ai: Từ cổ vũ viên chuyên nghiệp Hàn Quốc đến ngoại binh chủ lực của Đài Loan Steel Wing Stars, cô mang kinh nghiệm biểu diễn quốc tế đến sân nhà ở Cao Hùng; lịch trình tại Đại Cự Đản năm 2026 cũng là điểm quan sát công khai về sự điều chỉnh chấn thương và vai trò bên sân.'
+description: 'Từ khi Đài Loan Steel gia nhập Trung Chức, An Chi-ai đã có mặt từ đầu. Trong giai đoạn chuyển địa điểm sang Đại Cự Đản vào tháng 5 năm 2026, truyền thông đã đưa tin về sự điều chỉnh của cô tại khu vực bên sân và các buổi biểu diễn sau trận đấu do chấn thương vai.'
 date: 2026-05-13
 category: 'People'
 tags:
   [
     'Nhân vật nổi tiếng',
-    'Ahn Ji-hyun',
+    'An Chi-ai',
     'Hàn Quốc',
-    'Cổ vũ viên',
-    'Taiwan Steel Eagles',
+    'cổ vũ viên',
+    'Đài Loan Steel Eagles',
     'Wing Stars',
     'Cao Hùng',
   ]
-subcategory: 'Nhân vật nổi tiếng'
+subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: '859d7316'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Ahn Ji-hyun, cổ vũ viên Hàn Quốc, thành viên Wing Stars của Taiwan Steel'
+translatedAt: '2026-09-20T00:52:41+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Năm 2023 Taiwan Steel gia nhập Giải Bóng chày Chuyên nghiệp Trung Hoa, Ahn Ji-hyun gia nhập hệ thống Wing Stars và lâu dài đứng hàng đầu. Tháng 5 năm 2026 khi Taiwan Steel chuyển tới Đại Vòm Đài Bắc, các phương tiện truyền thông cũng báo cáo về sự điều chỉnh của cô với chấn thương "trật khớp vai phải" và các vai trò ngoài sân, cho thấy rằng các ngoại binh được yêu thích cao cũng phải đối mặt với rủi ro cơ thể và áp lực lịch trình.
+> **Tóm tắt 30 giây:** Khi Đài Loan Steel gia nhập Trung Chức vào năm 2023, An Chi-ai đã tham gia hệ thống Wing Stars và luôn đứng ở hàng đầu. Trong giai đoạn chuyển địa điểm sang Đại Cự Đản vào tháng 5 năm 2026, truyền thông cũng đưa tin về sự điều chỉnh của cô tại khu vực bên sân và các buổi biểu diễn sau trận đấu do chấn thương như "trật khớp vai phải", cho thấy ngay cả những ngoại binh nổi tiếng cũng phải đối mặt với rủi ro thể chất và áp lực lịch trình.
 
-Khi Taiwan Steel Eagles thiết lập ngôn ngữ sân chính thế hệ đầu tiên, Ahn Ji-hyun đã đứng ở hàng đầu. Cô không phải khách mời tạm thời giữa mùa, mà là người đi cùng từ các hoạt động trước mùa tới các trận đấu thường xuyên, lớn lên cùng với hệ thống đội bóng.
+Khi Đài Loan Steel Eagles thiết lập đội ngũ ngôn ngữ chủ nhà đầu tiên, An Chi-ai đã có mặt ở hàng ghế đầu. Cô không chỉ là một sự xuất hiện ngắn ngủi giữa mùa giải mà còn trưởng thành cùng hệ thống câu lạc bộ qua các trận đấu thường lệ.
 
-Theo tổng hợp của _ETtoday Thể thao Mây_ từ buổi họp báo thành lập Wing Stars, khi đội bóng công bố bố trí ngoại binh Hàn Quốc, cũng có nhắc đến vai trò kiểu đội trưởng của Ahn Ji-hyun trong đội hình (báo cáo mô tả phân công với các chức danh như "Giám đốc cổ vũ"). [Nguồn: Đông Sơn Tân Phương Tiện Truyền thông / ETtoday Thể thao Mây][^1]
+Theo bài tổng hợp của 《ETtoday 運動雲》 tại buổi họp báo ra mắt Wing Stars, khi đội công bố dàn ngoại binh Hàn Quốc, cũng có đề cập đến vai trò lãnh đạo của An Chi-ai trong đội hình (báo cáo mô tả sự phân công nhiệm vụ bằng các chức danh như "Giám đốc cổ vũ"). [Nguồn: Đông Sâm Tân Truyền Thông / ETtoday 運動雲][^1]
 
-## Tháng 5 năm 2026: Giai đoạn Đại Vòm và sự điều chỉnh chấn thương
+## Tháng 5 năm 2026: Lịch trình Đại Cự Đản và điều chỉnh chấn thương
 
-Theo báo cáo ngày 1 tháng 5 năm 2026 của _Tân Lập Tin tức_, Taiwan Steel Eagles tổ chức loạt trận chủ đề tại Đại Vòm Đài Bắc; báo cáo chỉ ra rằng thành viên Hàn Quốc của Wing Stars Ahn Ji-hyun không thể cổ vũ theo hình thức đã định vì trật khớp vai phải, và mô tả cách cô điều chỉnh biểu diễn ngoài sân và sau trận bằng cách ca hát. [Nguồn: Tân Lập Tin tức][^2]
+Theo báo cáo của 《三立新聞網》 ngày 1 tháng 5 năm 2026, Đài Loan Steel Eagles đã tổ chức các trận đấu chủ đề tại Đại Cự Đản. Báo cáo chỉ ra rằng thành viên Hàn Quốc An Chi-ai của Wing Stars không thể cổ vũ theo hình thức định sẵn do bị trật khớp vai phải và mô tả sự điều chỉnh biểu diễn của cô tại khu vực bên sân và sau trận đấu bằng cách ca hát. [Nguồn: Sanli News][^2]
 
-Tầm quan trọng của những báo cáo này không nằm ở việc khai thác tin đồn chấn thương, mà ở gợi ý rằng: tình trạng cơ thể của những người cổ vũ trong các giai đoạn lịch trình dày đặc sẽ trực tiếp định hình lại "những gì có thể được quay phim". Đối với những người hiểu sự giải trí hóa của bóng chày chuyên nghiệp Đài Loan, đây là một hiện thực cấu trúc đáng ghi lại hơn các bước nhảy.
+Tầm quan trọng của những báo cáo này không nằm ở việc giật gân về chấn thương, mà là để chỉ ra rằng: trong một lịch trình dày đặc, tình trạng thể chất sẽ trực tiếp định hình "buổi biểu diễn có thể được ghi lại". Đối với những người hiểu về tính giải trí hóa bóng chày Đài Loan, đây là một thực tế cấu trúc đáng được ghi nhận hơn cả các bước nhảy.
 
-## Từ "công việc xuyên quốc gia" tới "sống địa phương"
+## Từ "Lao động quốc tế" đến "Cuộc sống địa phương"
 
-Ahn Ji-hyun và các đồng đội từng được các phương tiện truyền thông liên kết với những tường thuật địa phương như "di cư tới Cao Hùng". Đối với Taiwan.md, ý nghĩa của con đường này nằm ở: khi các thành viên Hàn Quốc đặt tọa độ sống vào thành phố Đài Loan, sự hiểu biết của các fan bóng về cô cũng sẽ chuyển từ "ngôi sao" sang "một thành viên của cộng đồng địa phương".
+An Chi-ai và đồng đội từng bị truyền thông liên kết với các câu chuyện địa phương như "di cư đến Cao Hùng". Đối với Taiwan.md, ý nghĩa của tuyến đường này là: khi thành viên Hàn Quốc đặt tọa độ cuộc sống vào một thành phố Đài Loan, sự hiểu biết của người hâm mộ về cô cũng sẽ chuyển từ "ngôi sao" sang "một thành viên của cộng đồng địa phương".
 
-## Độ nổi tiếng, áp lực và sự kiểm tra công khai
+## Độ nổi tiếng, áp lực và sự giám sát công chúng
 
-Dưới cấu trúc độ nổi tiếng cao, lịch trình, camera, phương tiện truyền thông xã hội và thông tin riêng tư đều có thể được phóng đại theo thời gian thực. "Công việc cổ vũ" do đó vừa là biểu diễn sân khấu vừa là lao động truyền thông công khai kéo dài."
+Dưới cấu trúc có độ nổi tiếng cao, lịch trình làm việc, ống kính máy quay, mạng xã hội và tin tức cá nhân đều có thể bị khuếch đại ngay lập tức. Do đó, "công việc cổ vũ" vừa là biểu diễn trên sân khấu vừa là lao động truyền thông công khai liên tục.
 
-## Ý nghĩa trong bối cảnh nhân vật nổi tiếng Đài Loan
+## Ý nghĩa trong bối cảnh nhân vật nổi tiếng của Đài Loan
 
-Tính đại diện của Ahn Ji-hyun nằm ở chỗ cô thể hiện một mô hình dài hạn khả thi cho các cổ vũ viên Hàn Quốc ở Đài Loan: sân nhất định, thương hiệu nhất định và nhịp độ tiếp xúc nhất định, và khi mật độ trận đấu tăng cao, cô phải chịu những chi phí cơ thể tương ứng.
+Tính tiêu biểu của An Chi-ai là cô đã thể hiện một mô hình khả thi cho các cổ vũ viên Hàn Quốc tại Đài Loan: địa điểm cố định, thương hiệu cố định và nhịp độ phơi bày cố định, đồng thời phải chịu chi phí thể chất tương ứng khi mật độ trận đấu tăng lên.
 
-## Tài liệu tham khảo / Nguồn
+## Tài liệu tham khảo / Sources
 
-[^1]: ETtoday Thể thao Mây (Đông Sơn Tân Phương Tiện Truyền thông), 〈Đội cổ vũ Taiwan Steel mạnh nhất ngoài binh +1 Mingo phát huy lớn: chứng minh tôi là trần〉 (bao gồm bối cảnh cuộc họp báo Wing Stars), https://sports.ettoday.net/news/2664696
+[^1]: ETtoday 運動雲 (Đông Sâm Tân Truyền Thông), 〈Ngoại binh mạnh nhất của Đài Loan Steel lại +1 lời tuyên bố hào hứng Mingo: Chứng minh tôi là đỉnh cao〉 (bao gồm bối cảnh họp báo Wing Stars), https://sports.ettoday.net/news/2664696
 
-[^2]: Tân Lập Tin tức SETN, 〈Trung Chế / Truyền hình nhập lục hoan nghênh Vương Bạch Dung trăm xuất thủ, Ahn Ji-hyun tiết lộ "không đọc không trả lời"! Hóa giải anh ta có thể rất bận〉, ngày 1 tháng 5 năm 2026, https://www.setn.com/News.aspx?NewsID=1832147
+[^2]: Sanli News SETN, 〈Trung Chức / Tin đồn gửi sticker chúc mừng Vương Bách Dung trăm cú home run An Chi-ai tiết lộ "chưa đọc chưa trả lời"! Có lẽ cô ấy rất bận〉, 2026-05-01, https://www.setn.com/News.aspx?NewsID=1832147
 
-Bách khoa toàn thư (Tổng quan nhân vật): https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87
+Wikipedia (Tổng quan nhân vật): https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87

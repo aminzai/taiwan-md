@@ -22,10 +22,12 @@ readingTime: 7
 featured: false
 lastVerified: 2026-04-01
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Nature/蘭嶼生態系.md'
-sourceCommitSha: '82e98bfd4'
-sourceContentHash: 'sha256:74332f1aa587ae82'
-translatedAt: '2026-07-25T05:43:36.415062+00:00'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:c5b9ea1f1f0ebfd3'
+sourceBodyHash: 'sha256:31718e0ce0828285'
+translatedAt: '2026-09-19T23:28:16.067430+00:00'
 ---
 
 **Tóm tắt 10 giây:** Đảo Lan Yu là đầu mút phía bắc của cung đảo lửa Philippines, trạm dừng của dòng Hắc Triều, nhà của dân tộc Tao —
