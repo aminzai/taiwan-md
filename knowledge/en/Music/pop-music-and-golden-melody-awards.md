@@ -2,9 +2,7 @@
 title: 'Golden Melody Awards: Taiwan Honors Its Own Music, and the Moments Remembered for a Lifetime Across Thirty-Five Years'
 description: "In 2024 at Taipei Arena, No Party for Cao Dong ascended for a second time, their manager accepted the awards, and the entire hall fell silent for a drummer who had died. Across thirty-five years, the Golden Melody Awards have grown from a handwritten letter by Tsai Chin into a national ceremony, crowned Jay Chou's Fantasy, A-Mei's 14 nominations, and given top honors to songs in Taiwanese, Hakka, and Indigenous languages. This is where Taiwan honors its own music and decides which voices deserve to be remembered."
 date: 2026-06-28
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '音樂產業與獎項'
 tags:
   [
     'Golden Melody Awards',
@@ -15,17 +13,21 @@ tags:
     'Taiwanese-language Songs',
     'Cultural Policy',
   ]
-readingTime: 16
+subcategory: '音樂產業與獎項'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-28
 lastHumanReview: false
-featured: false
-translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '47d78ce7'
-sourceContentHash: 'sha256:5406c0a04ed7374f'
-sourceBodyHash: 'sha256:0794328a7ed72af5'
-translatedAt: '2026-06-29T00:47:38+08:00'
+readingTime: 16
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'
+rationale: "{'why_this_hook': '凡凡的鼓聲全場靜默——用一個情感重量最高的時刻，帶讀者立體認識「金曲獎是台灣怎麼決定什麼聲音值得被記住」，而非押一個論戰式論點（spine_type 立體群像）。', 'whats_excluded': '唱片產業興衰/串流轉型交給台灣流行音樂與串流時代不重複；兩岸/審查時刻（島嶼天光騰訊跳過、巴奈天安門被微博刪、大陸歌手缺席）只純中立紀實，不下主權判斷、不用對抗語言（§自主權邊界 政治立場處置）。', 'where_it_hedges': '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。', 'whos_pushing_back': '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'}"
+relatedDiary: ['2026-06-28-080352-manual']
+translatedFrom: 'Music/金曲獎.md'
+sourceCommitSha: '7701a4867'
+sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceBodyHash: 'sha256:89d2f2476f597f2c'
+translatedAt: '2026-09-20T10:44:17.880815+00:00'
 ---
 
 # Golden Melody Awards: Taiwan Honors Its Own Music, and the Moments Remembered for a Lifetime Across Thirty-Five Years
@@ -74,27 +76,27 @@ That night, at Taipei’s Sun Yat-sen Memorial Hall, Cui Taijing entered in form
 
 The first edition was in fact quite plain: no red carpet, none of the large-scale performances that came later, and not even a “Best Vocal Album” award, which would only be added in the second edition. But the skeleton was in place. With one letter, an official whose whole family were fans, and several years of preparation, Taiwan from then on had one night every year devoted to deciding: “This year, which voices deserve to be remembered?”
 
-## The Room Where the Door Is Closed
+## The Room Where the Door Closes for Voting
 
-To understand why a Golden Melody Award is taken so seriously, you first have to see how it is decided.
+To understand why a Golden Melody Award carries such weight, you first have to look at how it's decided.
 
-Put simply, the Golden Melody Awards judging system is a group of people shut in a room, listening carefully to every work, and then voting. It sounds simple. The difficult parts are “carefully” and “shut in.”
+The Golden Melody Awards' judging system, put plainly, is a group of people locked in a room, listening seriously to every work, and then voting. It sounds simple; the hard part is that "seriously" and "locked away."
 
-The process has three rounds. In the preliminary round, judges listen through an online system and score independently. In the second and final rounds, they enter closed-door meetings. The final decision-making round takes place on the morning of the ceremony. Judges vote anonymously by computer to choose the winners who will be announced that evening.
+The whole process has three rounds: in the preliminary round, judges listen to songs individually in an online system and score independently; the semi-final and final rounds enter closed-door meetings. The decisive final round is scheduled for the morning of the awards ceremony, where judges vote anonymously by computer to select the winners to be announced that night.
 
-> 📝 **Curator’s note:** Many people’s instinctive reaction to “closed-door judging” is “black box” or “small circle.” But the Golden Melody Awards close the room precisely to block another force: the market. When all the judges are isolated, forbidden to look at sales figures, and insulated from lobbying, the only things they can rely on are their own ears and professional judgment. In other words, what that closed door blocks is the inertia of “whoever sells well should win.” Half the credibility of a Golden Melody Award comes from that door.
+> 📝 **Curator's Note**: Many people's instinctive reaction to "closed-door judging" is "black box, clique." But the Golden Melody Awards closes the room to block precisely another force — the market. When all judges are isolated, not allowed to see sales figures, not allowed to be lobbied, the only thing they can rely on is their own ears and professional judgment. In other words, that closed door blocks the inertia of "whoever sells best should win." Half of a Golden Melody's credibility comes from this door.
 
-How far does this secrecy go? Blow, which has reported on the awards, once described the final judging scene: judges enter a small isolation room, “smoking and bathroom trips are accompanied by designated staff the whole way,” they cannot speak to anyone en route, and anonymous computerized voting continues until the result appears. Even phones are collected together and returned only after the final award has been presented.
+How far does this secrecy go? Blow, which has covered the process, described the final judging scene: judges enter small rooms for isolation, "with dedicated escorts for smoking and bathroom breaks," unable to speak to anyone on the way, voting anonymously by computer until results appear. Even phones are collected uniformly and only returned after the last award is presented.
 
-This is not legend. When 2026, 37th-edition winner Chen Hsien-ching went onstage, she laughed that she had originally prepared a speech, but “unfortunately my phone was taken away,” so she had to improvise. Phones moving in and out between judges and winners are themselves the best annotation to this secrecy mechanism.
+This isn't legend. At the 37th edition in 2026, winner Chen Hsien-ching laughed on stage saying she had prepared a speech, "but my phone was taken away" — so she had to improvise. Phones moving in and out between judges and winners is itself the best footnote to this secrecy mechanism.
 
-So how do the judges actually choose? The official line is that they look for “forward-looking” qualities and affirm works of artistic value, without having to follow the commercial market. Dela, head of KAO!INC. and a three-time Golden Melody judge, once put the standard in more colloquial terms. He said that when a choice was difficult and two albums were both very good, he would ask himself one question:
+So how are judges selected anyway? The official line looks for "forward-looking vision," affirming works with artistic value that need not follow the commercial market. Dila, founder of Yen She who has served as a judge for three editions, offered a more colloquial criterion. He said when it's hard to choose between two excellent albums, he asks himself one question:
 
-> “Would I want to buy this record?”
+> "Would I want to buy this record?"
 
-There is something compelling about that sentence. It reduces the criterion for an industry award to the most honest impulse of a music fan: would I take out my own money to buy this? Dela also said something for people who think “not winning means losing”: “A nomination is recognition. It really is.”
+The charm of this sentence lies in how it distills an industry award's criterion into a music fan's most honest impulse: would I, myself, pay money for this? Dila also said something for those who feel "not winning means losing": "Being nominated is affirmation, for real."
 
-Of course, the system is not without objections. Some say it lacks explicit written criteria and relies too much on individual judges’ professional ethics. Others say that when the same person is nominated in multiple categories, judges tend to distribute awards. These debates have always been there. But precisely because people care and keep discussing them, what happens in that room is worth taking seriously.
+Of course, this system isn't without critics. Some say it lacks explicit judging criteria, relying too much on individual judges' professional ethics; some say when the same person is nominated in multiple categories, judges tend to spread the awards around. These discussions have always existed: but it's precisely because people care and discuss that what happens in this room is worth taking seriously.
 
 ## Golden Melodies for Kings and Queens
 
@@ -238,27 +240,26 @@ _Opening of the 37th Golden Melody Awards ceremony in 2026. A-Lin hosted for the
 
 After 37 editions, this ceremony that began with a letter is still grand, still funny, and still capable of making people remember an entire night.
 
-## Thirty-Some Years of How This Island Listens to Itself
+## Three Decades: How This Island Listens to Itself
 
-Return to those few seconds of silence.
+Back to those few seconds of silence.
 
-At Taipei Arena in 2024, No Party for Cao Dong ascended for a second time, their manager accepted on their behalf, and said, “Thank you, Fan-fan.” Fan-fan is gone, but the drums she played remain in The Servile. Every time someone presses play, that drum part sounds again. A drummer who left was remembered by an entire industry because of the Golden Melody Awards. An album from three years earlier was heard anew by an entire generation because of her.
+At the 2024 Taipei Arena, No Party for Cao Dong cemented their legendary status for the second time; their agent accepted on their behalf and said, "Thank you, Fan Fan." Fan Fan is gone, but the drums she played live on in _Ugly Slave_ — every time someone hits play, that drumbeat sounds once more. A departed drummer, remembered by an entire industry because of the Golden Melody Awards; a three-year-old album, heard anew by a whole generation because of it.
 
-That is probably what the Golden Melody Awards do. From the plain first edition in 1990 to the 37th edition today, they answer the same question for Taiwan once a year: this year, which voices on this island deserve to be remembered properly?
+This is probably what the Golden Melody Awards do: from that modest first edition in 1990 to the 37th edition today, they answer the same question for Taiwan year after year — what voices on this island this year are worth remembering well.
 
-They remember Jay Chou’s sweeping Fantasy night, A-Mei’s persistence across 14 nominations, and also a sea sung by a Taitung police officer, an album entirely in Paiwan, a Hakka singer who refused a trophy, and a song born in the streets. Mandarin, Taiwanese, Hakka, Indigenous languages; million-selling works and songs whose words many people cannot understand; pop kings at the height of fame and people quietly writing songs. The awards leave all these voices on the same stage.
+What it remembers includes Jay Chou's sweep on the night of _Fantasy_, A-Mei's persistence through fourteen nominations, a Taitung policeman singing of the sea, an album entirely in Paiwan, a Hakka singer who refused the trophy, a song born on the streets. Mandarin, Taiwanese, Hakka, Indigenous languages; million-sellers and songs not a single word understood; reigning heavenly kings and quiet songwriters — it places all these voices on the same stage.
 
-Across thirty-some years, the Golden Melody Awards have not really been giving prizes. They have been recording, year after year, how this island listens to itself.
-
----
+After thirty-odd years, the Golden Melody Awards aren't really about giving out awards. They're about recording, year by year, how this island listens to itself — on Taiwan's behalf.
 
 ## Further Reading
 
-- [Taiwanese Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The full rise and fall of the industry from the record business to the streaming era; the Golden Melody Awards are the official markers along this line
-- [The Evolution of Taiwanese-language Songs in Taiwan](/en/music/taiwanese-hokkien-song-evolution) — From sorrowful laments to the rock turn of Lim Giong’s “Marching Forward,” how Taiwanese-language songs entered the mainstream
-- [Taiwanese Indigenous Music Traditions](/en/music/indigenous-music-traditions) — From tribal songs to Purdur Chen and ABAO, the roots and contemporary forms of Indigenous music
-- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators in the lineage of Samingad, Panai, and ABAO
-- [Taiwanese Independent Music](/en/music/indie-music-scene) — How No Party for Cao Dong and the StreetVoice generation bypassed the record industry and reached the Golden Melody Awards’ highest stage
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The full rise-and-fall history of the industry from the record era to the streaming age; the Golden Melody Awards are the official yardstick along this timeline
+- [Evolution of Taiwanese Hokkien Songs](/en/music/taiwanese-hokkien-song-evolution) — From sentimental ballads to Lin Qiang's "Marching Forward" and its rock turn, how Taiwanese-language songs entered the mainstream
+- [Taiwan Indigenous Music Traditions](/en/music/indigenous-music-traditions) — From tribal songs to Chen Chien-nien and ABAO, the roots and contemporary face of Indigenous music in Taiwan
+- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators like Sangpuy, Panai, and ABAO
+- [Taiwan Indie Music Scene](/en/music/indie-music-scene) — How No Party for Cao Dong, StreetVoice, and their generation bypassed the record industry to reach the Golden Melody stage
+- [Golden Bell Awards](/culture/金鐘獎) — The oldest of the "Three Golden Awards": forged for radio in 1965, sixty-one years of winners documenting whose hands held Taiwan's television
 
 ## Image Sources
 

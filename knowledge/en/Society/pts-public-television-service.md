@@ -2,9 +2,7 @@
 title: 'Public Television: From the NT$900 Million Golden Headband to Expulsion from the Legislative Chamber, Twenty-Eight Years of Independence Still Unfinished'
 description: 'When PTS went on air in 1998, the Public Television Act required government-donated funding to decrease year by year and eventually froze it at NT$900 million annually. That provision bound PTS for 23 years. In the meantime, it nurtured five flagship Taiwanese dramas that shook society: The World Between Us, Gold Leaf, The Teenage Psychic, Wake Up, and A Touch of Green. In May 2023, legal amendments lifted the golden headband, and the budget more than doubled to NT$2.3 billion. But 19 months later, 1% of the budget was cut and 25% frozen; another year later, in May 2026, Chairperson Hu Yuan-hui was asked to leave the Legislative Yuan chamber. What PTS has proved over 28 years is this: removing the golden headband does not mean independence has been built.'
 date: 2026-05-27
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '媒體與言論'
 tags:
   [
     'Media',
@@ -14,19 +12,22 @@ tags:
     'Political Parties, Government, and Military Exit from Media',
     "Arm's-Length Principle",
   ]
-readingTime: 16
+subcategory: '媒體與言論'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: false
-translatedFrom: 'Society/公視.md'
-sourceCommitSha: '81f10131'
-sourceContentHash: 'sha256:5d55767b0e73ce88'
-sourceBodyHash: 'sha256:55150dbbe846399a'
-translatedAt: '2026-06-22T00:30:00+08:00'
+readingTime: 16
 image: '/article-images/society/pts-building-b-2024.webp'
 imageCredit: 'Yu tptw / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Public_Television_Service_B_Building_20240316.jpg'
+rationale: "{'why_this_hook': '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。', 'whats_excluded': 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。', 'where_it_hedges': '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。', 'whos_pushing_back': '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'}"
+translatedFrom: 'Society/公視.md'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:672f8b4df1c422b7'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
+translatedAt: '2026-09-20T11:29:43.737485+00:00'
 ---
 
 > **30-second overview:**
@@ -150,33 +151,34 @@ The CPB shutdown occurred in the same year as Taiwan's January 2025 budget-cutti
 
 Place Taiwan's NT$2.3 billion PTS in this global map: the BBC is 67 times larger, NHK 54 times larger, KBS about 20 times larger, and CPB before shutdown 7 times larger. Taiwan's public-media resources have never truly reached the level of a "medium-sized public broadcaster," yet its content output, from The Teenage Psychic, The World Between Us, and Gold Leaf to records in international co-production and reverse licensing, has surpassed the limits of scale in multiple respects. This gap is itself Taiwan's over-performance, and also the source of the fragility of Taiwan's public media: it depends too much on the individual choices of a few screenwriters, directors, and producers, and lacks the institutionalized content-production pipeline of the BBC or NHK.
 
-## A 28-Year Test Strip
+## The 28-Year Trial
 
-Return to those 30 minutes on May 7, 2026.
+Returning to the 30 minutes on May 7, 2026.
 
-When Hu Yuan-hui stood up and left the chamber, he was the second head in the history of Taiwan's public media to be pushed out of position by political pressure. The first was Feng Hsien-hsien in 2010, though her role was president rather than chairperson. Sixteen years separated them.
+When Hu Yuan-hui left the chamber, he was the second chairperson of Taiwan's public media organization to be pushed out by political pressure (the first being Feng Hsien-hsien in 2010, though she held the position of general manager). Sixteen years separated these two events.
 
-From the launch on July 1, 1998, to the chamber expulsion on May 7, 2026, PTS has traveled 28 years. In between were 23 years of the NT$900 million golden headband, three years of legal thaw, and a new political targeting 19 months later. Removing the golden headband is not the same as removing the golden band from Sun Wukong's head. At any time, a new incantation can be chanted again.
+From its launch on July 1, 1998, until the expulsion from the chamber on May 7, 2026, public television had gone through 28 years. This period included nine years under a "nine-hundred-million restraint" [^43], three years of legislative amendment relief, and another 19 months of new political targeting. The lifting of the restraint does not mean removing the Golden Hoop from Sun Wukong's head; at any time, a new spell can be cast.
 
-But over those 28 years, this institution has also accumulated things that neither the lifting nor the freezing of the NT$900 million budget can change:
+However, over these 28 years, the organization has accumulated things that cannot be changed by whether the nine-hundred-million budget is released or frozen:
 
-500 documentaries premiered by PTS,[^21] five flagship dramas that shook society, 1.22 million PTS+ streaming members,[^42] editorial guidelines developed with the Taiwan FactCheck Center to fight deepfake disinformation,[^43] and a multilingual channel map built in collaboration with the Hakka Affairs Council, the Indigenous Peoples Cultural Foundation, and the Ministry of Culture. These things were accumulated one case at a time by several generations of television workers over 28 years. Budget amounts alone cannot buy them.
+500 premiere documentaries [^21], five flagship dramas that shook society, 1.22 million public television+ streaming members [^42], editorial standards developed in cooperation with the Taiwan Fact Check Center to combat deepfake misinformation [^43], and a multi-lingual channel landscape built in collaboration with the Hakka Affairs Council, the Indigenous Peoples Union, and the Ministry of Culture. These achievements were accumulated case by case by generations of television workers over 28 years; they are not things that can be bought with budget figures alone.
 
-The Reuters Institute's 2024 Digital News Report found Taiwan's overall media trust at 33%, higher in the Asia-Pacific only than South Korea's 31%. But in this low-trust environment, PTS was listed as "one of the most trusted brands."[^43] A channel nobody watches made dramas that produced collective healing across society; an institution with a budget only one-sixty-seventh of the BBC's was named by readers as one of the most trusted brands.
+A Reuters Institute Digital News Report from 2024 showed that overall media trust in Taiwan was 33%, only slightly higher than South Korea's 31% in the Asia-Pacific region. Yet, within this environment of low overall trust, PTS public television was listed as "one of the most trusted brands" [^43]. An organization with a budget one-sixtieth that of the BBC, yet cited by readers as a highly trusted brand—making dramas for an audience that doesn't watch;
 
-The real question PTS has asked over 28 years is not "do we have enough money?" It is "are we mature enough?" Mature enough to sustain a public space that serves neither advertising nor the government? There is no answer yet. The January 2025 budget cuts and the May 2026 chamber expulsion are both asking the same question.
+The real question public television has been asking over 28 years is not "Do we have enough money?" but rather, "Are we mature enough"—mature enough to sustain a public space that serves neither advertising nor the government? This question currently lacks an answer. Both the budget cuts in January 2025 and the expulsion from the chamber in May 2026 are asking the same question.
 
-Perhaps the next 28 years will give an answer. Perhaps they will not. But one thing PTS has already proved over these 28 years is this: the fact that it asks this question every year is itself a test strip for the maturity of Taiwan's democracy.
+Perhaps the next 28 years will provide an answer. Perhaps not. But one thing public television has proven over these 28 years is that its very existence, year after year, in asking this question serves as a test of Taiwan's democratic maturity.
 
 **Further Reading**:
 
-- [Taiwan Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — PTS as one part of the media ecosystem, and its interaction with the broader environment of press freedom
-- [CommonWealth Magazine](/en/society/commonwealth-magazine) — How a commercial financial media outlet tackles the same question of "who media should be accountable to," surviving on paid subscribers and a corporate ecosystem — a contrast with PTS's public-funding path
-- [Taiwan Variety Shows](/en/culture/taiwan-variety-shows) — A comparison with commercial television variety programs, for understanding why PTS chose to make dramas and documentaries
-- [Taiwan Film and Television Scores](/en/music/taiwan-screen-scoring-from-cinema-to-games) — The place of PTS flagship-drama scores within Taiwan's music industry
-- [Taiwan Animation Outsourcing](/en/economy/taiwan-creator-economy) — A comparison with the commercial IP industry, showing the different logic behind PTS's choices in animation subject matter
-- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — The long-term contribution of PTS's Documentary Viewpoint to preserving Taiwan's cultural memory
-- [Taiwan Design Research Institute](/en/society/taiwan-design-research-institute) — Another government-funded foundation walking the tightrope between "being seen" and publicness, turning design into a way for the government to serve the people
+- [Taiwan Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — The interaction between public television as part of the media ecosystem and the overall press freedom environment
+- [Commonwealth Magazine](/en/society/commonwealth-magazine) — How commercial financial media handles the same difficult question of "who should media be accountable to," surviving through paid subscriptions and corporate ecosystems, forming a contrast with public television's public budget path
+- [Taiwan Variety Shows](/en/culture/taiwan-variety-shows) — A comparison with variety shows from commercial broadcasters, understanding why public television chooses dramas and documentaries
+- [Taiwan Screen Scoring](/en/music/taiwan-screen-scoring-from-cinema-to-games) — The place of public television flagship drama scores in Taiwan's music industry
+- [Taiwan Animation Outsourcing](/en/economy/taiwan-creator-economy) — A comparison with the commercial IP industry, and the different logic behind public television's choice of animation themes
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — The long-term contribution of the public television documentary _Documentary Viewpoint_ to preserving Taiwan's cultural memory
+- [Taiwan Design Research Institute](/en/society/taiwan-design-research-institute) — Another quasi-governmental organization walking a tightrope between "being seen" and publicity, turning design into a way for the government to serve the people
+- [Golden Bell Awards](/culture/金鐘獎) — From _Once_ in 2000 to 60 nominations at the 61st ceremony, how public television is listed alongside its affiliations with broadcast and nomination quotas
 
 ## Image Sources
 
