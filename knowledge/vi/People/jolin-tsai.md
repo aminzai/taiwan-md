@@ -1,126 +1,128 @@
 ---
-title: 'Jolin Tsai'
-description: 'Nữ ca sĩ nổi tiếng không phải do tài năng—bị giáo viên múa học gọi là "người không đủ material để múa"— sau 25 năm trở thành ca sĩ kết hợp hát và múa giành nhiều giải thưởng nhất trong lịch sử Giải Thánh Ngọc'
+title: 'Thái Y Lâm: Không phải Thiên hậu của thiên tài – Ca sĩ vũ đạo được nói là "không hợp nhảy", 25 năm sau trở thành nghệ sĩ có nhiều giải thưởng nhất lịch sử Giải thưởng Quốc khúc'
+description: 'Câu chuyện về sự nghiệp của Thái Y Lâm không chỉ dừng lại ở ca hát và vũ đạo, mà còn là hành trình chứng minh sức mạnh thể chất qua từng album.'
 date: 2026-03-24
 category: 'People'
 tags:
   [
     'Nhân vật',
     'Ca sĩ',
-    'Vòng đàn nghệ thuật',
+    'Giới nghệ thuật',
     'Quyền lợi LGBTQ+',
-    'Nhạc pop',
-    'Giải Thánh Ngọc',
+    'Âm nhạc đại chúng',
+    'Giải thưởng Quốc khúc',
   ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:1eed0b39727d52a4'
 sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-09-21T00:58:30+08:00'
 ---
 
-> **30 giây tóm tắt:** Vào năm 1998, một giáo viên múa học nói cô không phải là người "đủ material để múa". 25 năm sau, các buổi hòa nhạc của cô thực hiện biểu diễn treo dây ở độ cao 10 mét không xuống đất, không có người thay thế. sự nghiệp của Jolin Tsai là một câu chuyện về "tài năng địa phương"—không phải do tài năng, mà do cô luyện tập mỗi album thành một kỳ thi thể lực. Bốn giải Thánh Ngọc Nhạc sĩ quốc ngữ nữ, doanh thu các vòng tour tính tổng hơn 4 tỷ đồng TWD, và một ca khúc "Em trai hồng" khiến toàn bộ làng nhạc Hoa ngôn bắt đầu thảo luận về quyền lợi LGBTQ+.
+> **Tóm tắt 30 giây:** Năm 1998, một giáo viên dạy nhảy nói rằng cô "không có tố chất để nhảy". Hai mươi lăm năm sau, buổi hòa nhạc của cô diễn ra với màn đu dây ở độ cao mười mét mà không cần người đóng thế. Sự nghiệp của Thái Y Lâm là câu chuyện về "tài năng thực tế" – không dựa vào thiên phú, mà dựa vào việc biến mỗi album thành một bài kiểm tra thể lực. Bốn giải thưởng Nữ ca sĩ nhạc Hoa ngữ xuất sắc nhất, doanh thu tour diễn tích lũy hơn 4 tỷ Đài tệ, và ca khúc 《Thiếu niên Hồng nhan》 đã khiến toàn bộ giới âm nhạc Hoa ngữ bắt đầu nói về bình đẳng giới.
 
-Vào ngày 20 tháng 4 năm 2000, một học sinh lớp ba trường Trung học cấp hai ở Tỉnh Pingdong, Yeh Yong-ze (葉永鋕), đã bước vào vệ sinh phòng sau giờ nghỉ và chưa từng ra khỏi đó. Anh ta vì hành vi ngọt ngào kéo dài đã bị bạo hành, và nguyên nhân tử vong vẫn còn tranh cãi. 18 năm sau, Jolin Tsai viết câu chuyện của anh vào một bài hát.
+Vào ngày 20 tháng 4 năm 2000, học sinh lớp ba trường Cao Thụ Quốc trung tại huyện Bình Đông, Diệp Vĩnh Cung (葉永鋕), bước vào nhà vệ sinh sau giờ học và không bao giờ bước ra. Anh đã phải chịu đựng sự bắt nạt vì tính cách mềm yếu trong một thời gian dài, nguyên nhân cái chết của anh vẫn còn gây tranh cãi cho đến nay. Mười tám năm sau, Thái Y Lâm đã viết câu chuyện của anh vào một bài hát.
 
-Cách mở đầu này dường như không liên quan đến một nữ ca sĩ nổi tiếng. Nhưng Jolin Tsai chính là Jolin Tsai, chính là vì câu chuyện của cô không bao giờ chỉ dừng lại ở việc hát và múa.
+Mở đầu này dường như không liên quan gì đến một thiên hậu nhạc đại chúng. Nhưng lý do mà Thái Y Lâm là Thái Y Lâm, chính là vì câu chuyện của cô chưa bao giờ chỉ xoay quanh ca hát và vũ đạo.
 
-## Buổi học múa ở vị trí cuối cùng
+## Hạng cuối trong lớp học khiêu vũ
 
-Năm 1998, cô gái 17 tuổi từ Xinzhuang, Jolin Tsai (蔡依林), tham gia cuộc thi ca hát trên kênh MTV Đài Loan "New Sound Card Battle", chiến thắng giải. Năm sau này, cô ký hợp đồng với Universal Music, xuất hiện với tên nghệ thuật "Jolin Tsai", ra mắt album đầu tiên "1019". Bán hàng của album thành công, nhưng vấn đề nhanh chóng xuất hiện: cô gần như không có nền tảng múa.
+Năm 1998, tại Tân Trang, cô gái mười bảy tuổi Thái Nghi Linh (蔡宜凌) đã giành giải quán quân cuộc thi hát trên MTV Đài Loan 《Vòng Sóng Mới》. Năm sau, cô ký hợp đồng với Universal Music và sử dụng nghệ danh "Thái Y Lâm" để phát hành album đầu tay 《1019》. Đĩa nhạc bán chạy, nhưng vấn đề nhanh chóng nảy sinh: cô gần như không có nền tảng về vũ đạo.
 
-Không phải "cơ bản yếu", mà là không có. Gập gọn đầu gối không chạm đất, múa với tay chân đồng đều, đồng bộ cơ thể xếp thứ hai cuối trong các người mới vào làng. Lời nhận xét của giáo viên múa rất thẳng thắp: "Người không đủ material để múa."
+Không phải là "nền tảng yếu", mà là bằng không. Cô không thể cúi người chạm sàn, khiêu vũ hai tay hai chân, sự phối hợp cơ thể của cô đứng ở hạng cuối trong số các tân binh cùng thời. Giáo viên dạy nhảy đã thẳng thắn nhận xét: "Không có tố chất để nhảy."
 
-Thay vì hầu hết các ca sĩ sẽ chọn hướng ca trùng, tránh thiếu sót, Jolin Tsai lại làm ngược lại—cô quyết định biến phần yếu kém nhất thành thương hiệu chính.
+Nếu là hầu hết các ca sĩ khác, họ có lẽ sẽ chọn con đường nhạc trữ tình để che giấu khuyết điểm. Nhưng Thái Y Lâm lại làm ngược lại – cô quyết định biến mắt xích yếu nhất thành thương hiệu của mình.
 
-> **📝 Ghi chú của nhà dựng dự kiến**
-> Các ca sĩ kết hợp hát và múa trong làng nhạc pop toàn cầu—thậm chí có Bia Na Si, hay cả Jennie Fox—hầu hết đều được dạy múa từ sớm. Jolin Tsai là trường hợp ngược lại: cô trước tiên là ca sĩ, sau đó học múa từ không, cuối cùng đạt chuẩn của vận động viên thể thao điệp.
-> Con đường phát triển "lập trình ngược" này, hiếm hoi trong làng nhạc pop quốc tế.
+> **📝 Ghi chú của người biên tập**
+> Các ca sĩ vũ đạo trên trường quốc tế đại chúng – kể cả Binnese, hay Jennifer và nhiều người khác – gần như đều được đào tạo về vũ đạo từ nhỏ.
+> Thái Y Lâm thì ngược lại: trước tiên là ca sĩ, sau đó học nhảy từ con số không, cuối cùng đẩy cơ thể lên trình độ vận động viên thể dục dụng cụ.
+> Con đường phát triển "kỹ thuật đảo ngược" này cực kỳ hiếm thấy trên trường quốc tế đại chúng.
 
-## Mỗi album đều là một kỳ thi thể lực
+## Mỗi album là một bài kiểm tra thể lực
 
-Năm 2003, album "Look at Me 72 Changes" là thời điểm quan trọng. Album bán hơn 300.000 bản tại Đài Loan, Jolin Tsai lần đầu nhận giải Nhạc sĩ nữ doanh thu cao nhất năm. Nhưng thay đổi thực sự không phải là doanh số—mà là cô mẹu một mô hình: mỗi album mới, cô học một kỹ năng thể chất mới.
+Album 《Xem tôi 72 tuổi》 năm 2003 là bước ngoặt. Album này đã bán hơn 30 vạn bản tại Đài Loan, và Thái Y Lâm lần đầu tiên giành giải Nữ ca sĩ doanh số vàng năm. Nhưng sự thay đổi thực sự không nằm ở doanh số – mà là cô đã thiết lập một mô hình từ đó: mỗi album mới, cô đều phải học một kỹ năng thể chất mới.
 
-Múa sân khấu (2006, album "Playgirl"). Phép màu (2007, album "Agent J"). Thể thao dây ruy băng (2010, album "Myself", biểu diễn trên sân khấu với động tác xe đạp chuyên nghiệp). Treo dây ở độ cao (2018, vòng tour thế giới "Ugly Beauty", 10 mét không xuống đất, không có người thay thế).
+Múa dây (2006 với 《Vũ Nương》). Ảo thuật (2007 với 《Tặc vụ J》). Thể dục ruy băng (2010 với 《Myself》, thực hiện động tác ngựa trên dụng cụ thể dục chuyên nghiệp trong buổi hòa nhạc). Đu dây trên cao (tour thế giới 《Ugly Beauty》 năm 2018, ở độ cao mười mét mà không có người đóng thế).
 
-Cô nói: "Tôi không phải là người tài năng, tôi là người có tài năng địa phương." Câu nói này sau này trở thành tinh thần đồng hành của cả sự nghiệp. Buổi hòa nhạc tại Đại sảnh Nhà Grand vào năm 2007, cả đàn nhạc tên "Tài năng địa phương".
+Bản thân cô nói: "Tôi không phải thiên tài, tôi là tài năng thực tế." Câu này sau đó đã trở thành thương hiệu cốt lõi trong sự nghiệp của cô. Buổi hòa nhạc tại Tiểu Cự Đán năm 2007 thậm chí còn được đặt tên là 《Tài Năng Thực Tế》.
 
-Trong bản mô tả album của Sony Music, Jolin Tsai từng viết: "Trước đây nếu không đạt 100%, tôi sẽ rất tiếc nuối, tôi cảm thấy mình không xứng đáng được nhắc đến." Sự yêu cầu gần như quá trình của cô kéo cô về phía trước, và năm tháng sau đó, nó trở thành vấn đề tâm lý mà cô muốn vượt qua.
+Trong lời giới thiệu album của Sony Music, Thái Y Lâm từng nói: "Trước đây nếu không đạt điểm một trăm thì tôi sẽ rất tự trách, tôi cảm thấy mình là một người không đáng nhắc đến." Sự tự yêu cầu gần như ám ảnh này đã thúc đẩy sự tiến hóa của cô, và cũng trở thành vấn đề tâm lý mà cô muốn vượt qua nhiều năm sau đó.
 
-> **💡 Bạn biết không?**
-> Tên thật của Jolin Tsai là "蔡宜凌", "Jolin Tsai" là tên nghệ thuật.
-> Cô sau này chính thức đổi tên thành "蔡依翎", nhưng trong sự nghiệp nghệ thuật, cô vẫn dùng "Jolin Tsai" đến nay.
+> **💡 Bạn có biết không**
+> Tên thật của Thái Y Lâm là "Thái Nghi Linh", còn "Y Lâm" là nghệ danh.
+> Sau này cô chính thức đổi tên thành "Thái Y Lăng", nhưng sự nghiệp vẫn sử dụng "Thái Y Lâm".
 
-## Bảng tính chịu 4 tỷ đồng
+## Toán học đằng sau doanh thu 4 tỷ
 
-Số liệu là người trung thực nhất. Jolin Tsai từ năm 2007 đến nay đã tổ chức sáu vòng tour lớn:
+Con số là thứ trung thực nhất. Từ năm 2007 đến nay, Thái Y Lâm đã tổ chức sáu tour diễn lớn:
 
-| Vòng tour   | Năm       | Thành phố    | Lần | Khán giả | Doanh thu (đồng TWD) |
-| ----------- | --------- | ------------ | --- | -------- | -------------------- |
-| Myself      | 2010-2013 | 31           | 35  | 600.000  | Khoảng 1,5 tỷ        |
-| Play        | 2015-2017 | 23           | 34  | —        | Khoảng 1,5 tỷ        |
-| Ugly Beauty | 2019-2024 | 23           | 34  | 600.000  | Khoảng 1,5 tỷ        |
-| Pleasure    | 2025-     | Đang diễn ra | —   | —        | —                    |
+| Tour diễn   | Năm       | Thành phố    | Số lần | Khán giả | Doanh thu (Đài tệ) |
+| :---------- | :-------- | :----------- | :----- | :------- | :----------------- |
+| Myself      | 2010-2013 | 31           | 35     | 6 vạn    | Khoảng 1,5 tỷ      |
+| Play        | 2015-2017 | 23           | 34     | —        | Khoảng 1,5 tỷ      |
+| Ugly Beauty | 2019-2024 | 23           | 34     | 6 vạn    | Khoảng 1,5 tỷ      |
+| Pleasure    | 2025-     | Đang diễn ra | —      | —        | —                  |
 
-Sáu vòng tour cộng lại hơn 100 buổi, doanh thu tính tổng hơn 4 tỷ đồng TWD. Trong làng nhạc Hoa ngôn, con số này nằm trong cùng quy mô với Jhou Chieh-Lun (周杰倫) và Wu Yue-tian (五月天). Cô là ca sĩ nữ có doanh thu cao nhất tại Đài Loan từ đầu thế kỷ 2000, không có đối thủ.
+Ba tour diễn cộng lại hơn 100 lần, doanh thu tích lũy hơn 4 tỷ Đài tệ. Trong giới âm nhạc Hoa ngữ, con số này ngang hàng với [Chu Kiệt Luân](/vi/people/jay-chou/) và [Ngũ Nguyệt Thiên](/vi/music/mayday-band/). Cô là nữ ca sĩ có doanh thu cao nhất ở Đài Loan kể từ những năm 2000, không ai sánh bằng.
 
-Nhưng phía sau con số doanh thu là chi phí sản xuất. Album "Ugly Beauty" có ngân sách sản xuất vượt 1 tỷ đồng TWD—một con số gần như chưa từng được ghi nhận trong ngành đĩa nhạc Hoa ngôn. Jolin Tsai và đội ngũ của cô biến mỗi buổi biểu diễn thành một thử thách giới hạn thể chất, đó là thương hiệu của cô và cũng là "độ bám" thương mại mà cô xây dựng.
+Nhưng điều đáng chú ý đằng sau con số doanh thu là chi phí sản xuất. Ngân sách sản xuất album 《Ugly Beauty》 vượt quá một trăm triệu Đài tệ – điều này gần như chưa từng có trong giới nhạc Hoa ngữ. Thái Y Lâm và đội ngũ của cô đã sản xuất mỗi buổi biểu diễn như một thử thách thể chất cực độ, đây vừa là điểm bán hàng, vừa là rào cản thương mại của cô.
 
-## "Em trai hồng": một bài hát thay đổi một cuộc trò chuyện
+## 《Thiếu niên Hồng nhan》: Một bài hát thay đổi một cuộc đối thoại
 
-Vào ngày 29 tháng 12 năm 2018, Jolin Tsai ra mắt album thứ 14 "Ugly Beauty", trong đó có ca khúc "Em trai hồng" lấy cảm hứng từ vụ việc Yeh Yong-ze. Lời ca được Ji Xin (阿信) của Wu Yue-tian (五月天) cùng viết: "Dù sinh ra vô tội, bạn không cần xin lỗi."
+Vào tháng 12 năm 2018, Thái Y Lâm phát hành album thứ mười bốn 《Ugly Beauty》, trong đó có ca khúc 〈Thiếu niên Hồng nhan〉 lấy cảm hứng từ sự kiện Diệp Vĩnh Cung. Lời bài hát được sáng tác chung bởi A Tín (阿信) của [Ngũ Nguyệt Thiên](/vi/music/mayday-band/): "Sinh ra là người không có tội, bạn không cần phải xin lỗi."
 
-Đây là lần đầu tiên trong lịch sử nhạc pop Hoa ngôn, một ca sĩ cấp vị nữ đồng sá tác với chủ đề LGBTQ+ và bạo hành trường học.
+Đây là lần đầu tiên trong lịch sử âm nhạc đại chúng Hoa ngữ có một ca sĩ cấp thiên hậu xử lý trực diện vấn đề LGBTQ+ và bắt nạt học đường.
 
-Vào ngày 29 tháng 6 năm 2019, lễ trao giải Năm 30 Giải Thánh Ngọc tại Đài Loan, "Em trai hồng" giành giải Nhạc truyền thống. Jolin Tsai trên sân khấu khóc kể: "Yeh Yong-ze đã nhắc nhở tôi, bất kỳ lúc nào, tôi cũng có thể là một nhóm thiểu số nào đó, vì vậy tôi phải dùng lòng tử tế, yêu thương bất kỳ người nào gần đó. Bài hát này dâng hiến cho anh ấy, và dâng hiến cho tất cả những người từng nghĩ mình không có cơ hội chọn không có lựa chọn. Bạn phải nhớ rằng, hãy chọn bản thân mình, và ủng hộ bản thân mình." (Lời nói tại Giải Thánh Ngọc 2019, theo Central News Agency)
+Vào ngày 29 tháng 6 năm 2019, lễ trao giải Giải thưởng Quốc khúc lần thứ ba mươi, 〈Thiếu niên Hồng nhan〉 đã giành giải Ca khúc của năm. Trên sân khấu, Thái Y Lâm nghẹn ngào: "Diệp Vĩnh Cung đã nhắc nhở tôi rằng trong bất kỳ hoàn cảnh nào, tôi cũng có thể trở thành một thiểu số nào đó, vì vậy tôi càng phải dùng sự đồng cảm để yêu thương tất cả mọi người xung quanh mình. Bài hát này dành cho cậu ấy, và cũng dành cho tất cả những ai từng nghĩ rằng mình hoàn toàn không có lựa chọn. Bạn nhất định phải nhớ chọn chính mình, ủng hộ chính mình." (Trích từ báo cáo của Trung ương xã về Giải thưởng Quốc khúc).
 
-Năm ngoái, ngày 24 tháng 5 năm 2019, Đài Loan trở thành quốc gia đầu tiên ở châu Á légifê hôn nhân đồng tính. "Em trai hồng" từ một bài hát trở thành một biểu tượng của thời đại.
+Năm ngày trước đó, vào ngày 24 tháng 5 năm 2019, Đài Loan trở thành quốc gia châu Á đầu tiên hợp pháp hóa hôn nhân đồng giới. 〈Thiếu niên Hồng nhan〉 đã trở thành một biểu tượng thời đại từ một bài hát.
 
-> **⚠️ Góc độ tranh cãi**
-> Vào năm 2023, Jolin Tsai bị yêu cầu không biểu diễn "Em trai hồng" tại các buổi hòa nhạc tại Trung Quốc đại lục.
-> Việc kiểm duyệt chính thức lại tăng cường ý nghĩa biểu tượng của ca khúc này—những bài hát bị cấm thường chính là những bài hát xúc phạm sâu sắc.
+> **⚠️ Quan điểm gây tranh cãi**
+> Năm 2023, Thái Y Lâm bị yêu cầu không được trình diễn 〈Thiếu niên Hồng nhan〉 trong buổi hòa nhạc tại Trung Quốc đại lục.
+> Bản thân việc kiểm duyệt đã càng củng cố ý nghĩa biểu tượng của bài hát này – những bài hát bị cấm thường là những bài chạm đến nỗi đau thực sự.
 
-## Từ hoàn hảo đến "Đẹp kỳ quái"
+## Từ chủ nghĩa hoàn hảo đến 《Quái Mỹ》
 
-Khái niệm trung tâm của album "Ugly Beauty" hơn cả một bài hát. Jolin Tsai kể rằng vài năm trước, cô bắt đầu đọc các tác phẩm của Carl Jung về tâm lý học, nhận ra mình luôn giữ mặt kín về mặt "không hoàn hảo". Trong bản phỏng vấn của Sony Music, cô thẳng thắp: "Đối với tôi, mặt mũi một bên đẹp, mặt mũi một bên xấu chính là một phần của cảm xúc. Khi bạn bắt đầu đối mặt với nó, bạn mới thực sự tự do."
+Khái niệm cốt lõi của album 《Ugly Beauty》 đáng để bàn luận hơn cả bản thân ca khúc. Thái Y Lâm nói rằng trong những năm đó, cô bắt đầu đọc các tác phẩm tâm lý học của Jung, và nhận ra mình đã kìm nén khía cạnh "không hoàn hảo" trong một thời gian dài. Trong cuộc phỏng vấn với Sony Music, cô thú nhận: "Đối với tôi, đối diện với mặt xấu xí (ugly) của bản thân là một phần của cảm xúc, khi bạn bắt đầu đối diện với nó, bạn mới thực sự tự do."
 
-Đây là một điểm quay trở lại thú vị: một người xây dựng sự nghiệp bằng cách "luôn cố gắng đạt 100%", dùng một album toàn bộ để thách thức "100%" chính mình. Từ "Nếu không đạt 100%, tôi không xứng đáng được nhắc đến" đến "Đẹp và xấu là một thứ", con đường này cô đi qua gần 20 năm.
+Đây là một bước ngoặt thú vị: một người đã xây dựng sự nghiệp dựa trên việc "không ngừng theo đuổi sự hoàn hảo", lại dùng cả một album để chất vấn chính khái niệm "sự hoàn hảo". Hành trình từ "tôi không đạt điểm một trăm thì không đáng nhắc đến" đến "ugly và beauty là một chuyện" mà cô đã đi gần hai mươi năm.
 
-> **📝 Ghi chú của nhà dựng dự kiến**
-> Nếu nửa đầu sự nghiệp của Jolin Tsai là "dùng thể chất chứng minh tài năng địa phương có thể thắng",
-> nửa sau là "dùng nhạc nhận thức rằng sự hoàn hảo chính là một loại thương tác."
-> Hai câu chuyện này cộng lại, mới là câu chuyện hoàn chỉnh của cô.
+> **📝 Ghi chú của người biên tập**
+> Nếu nửa đầu sự nghiệp của Thái Y Lâm là "dùng cơ thể để chứng minh rằng mình có thể thắng",
+> thì nửa sau là "dùng âm nhạc để thừa nhận rằng chủ nghĩa hoàn hảo tự nó là một nỗi đau".
+> Hai câu chuyện này kết hợp lại mới tạo nên câu chuyện trọn vẹn của cô.
 
-## Bánh bông trôi và nghỉ dưỡng của nữ ca sĩ ở châu Á
+## Bánh kem phủ đường và thời gian rảnh của thiên hậu châu Á
 
-Vào tháng 11 năm 2016, Jolin Tsai mang một chiếc bánh bông trôi có hình dáng của ngọn lửa Marilyn Monroe, bay tới Anh Quốc tham gia triển lãm thế giới "Cake International". Cô giành giải vàng. Cùng năm, cô cũng giành giải bạc tại một cuộc thi bánh bông trôi quốc tế khác.
+Vào tháng 11 năm 2016, Thái Y Lâm mang theo một chiếc bánh kem phủ đường hình Marilyn Monroe bay đến Anh tham gia cuộc thi quốc tế về bánh ngọt "Cake International". Cô đã giành huy chương vàng. Ngay trước đó trong năm đó, cô cũng giành huy chương bạc tại một cuộc thi phủ đường quốc tế khác.
 
-Một nữ ca sĩ ở châu Á đi Anh Quốc thi bánh bông trôi, việc này chính là minh chứng cho vấn đề. Lời nguyên thủy của Jolin Tsai: "Tôi không thể chịu đựng được việc bỏ cuộc vì chưa biết tốt." Câu nói này, từ múa, thể thao, sân khấu đến bánh bông trôi, trong 20 năm qua không thay đổi.
+Việc một thiên hậu châu Á đi Anh vì bánh kem còn nói lên nhiều điều hơn cả huy chương. Lời nguyên bản của Thái Y Lâm: "Tôi không thể chịu đựng được việc bỏ cuộc khi chưa học xong." – Câu này đã không thay đổi trong hai mươi năm, từ vũ đạo, thể dục dụng cụ, múa dây cho đến làm bánh phủ đường.
 
-## Bốn giải Thánh Ngọc Nhạc sĩ quốc ngữ nữ
+## Bốn giải Nữ ca sĩ xuất sắc nhất
 
-Jolin Tsai xứng đáng được nhắc đến riêng về giải Thánh Ngọc. Cô đã giành bốn giải Thánh Ngọc Nhạc sĩ quốc ngữ nữ—đây là kỷ lục trong lịch sử Giải Thánh Ngọc. Cộng thêm các giải thưởng khác như Giải Nhạc truyền thống, cô là ca sĩ kết hợp hát và múa giành nhiều giải thưởng nhất trong lịch sử Giải Thánh Ngọc.
+Hồ sơ của Thái Y Lâm tại Giải thưởng Quốc khúc rất đáng được liệt kê riêng. Cô đã giành bốn giải Nữ ca sĩ nhạc Hoa ngữ xuất sắc nhất – đây là kỷ lục cao nhất trong lịch sử giải thưởng này. Cùng với các giải khác như Ca khúc của năm, cô là ca sĩ vũ đạo có số lượng giải thưởng nhiều nhất tại Giải thưởng Quốc khúc.
 
-Tạp chí Billboard của Hoa Kỳ gọi cô là "Vương miện của C-Pop" (nhạc pop Hoa ngôn), chỉ ra rằng trong thập niên 2000, Jolin Tsai và Jhou Chieh-Lun (周杰倫) cùng định hình thời kỳ vàng của nhạc pop Đài Loan.
+Tạp chí _Billboard_ của Mỹ gọi cô là "Nữ hoàng nhạc Hoa ngữ" (Queen of C-Pop), chỉ ra rằng trong những năm 2000, Thái Y Lâm và Chu Kiệt Luân đã cùng nhau định hình thời đại vàng son của âm nhạc Đài Loan.
 
-> **✦** "Yeh Yong-ze đã nhắc nhở tôi, bất kỳ lúc nào, tôi cũng có thể là một nhóm thiểu số nào đó."—Jolin Tsai, Giải Thánh Ngọc 2019
+> **✦** "Diệp Vĩnh Cung đã nhắc nhở tôi rằng trong bất kỳ hoàn cảnh nào, tôi cũng có thể trở thành một thiểu số nào đó." – Thái Y Lâm, Giải thưởng Quốc khúc năm 2019.
 
-Vào ngày 30 tháng 12 năm 2025, vòng tour thế giới thứ sáu của Jolin Tsai "Pleasure" khai mạc tại Grand Hyatt Taipei, liên tục biểu diễn ba ngày kỷ niệm năm mới. Cảm hứng đến từ bức tranh "Sân vui" của nhà vẽ Hà Lan Naeurion Mies van der Rohe. Người 44 tuổi vẫn đứng trên sân khấu, vẫn đang học cái mới, vẫn dùng thể chất nói lại câu nói cũ—"Tôi không phải là người tài năng, nhưng tôi có thể cố gắng hơn cả người tài năng."
+Vào ngày 30 tháng 12 năm 2025, tour diễn thế giới lần thứ sáu của Thái Y Lâm 《Pleasure》 khai màn tại Đài Bắc Đại Cự Đán và kéo dài ba đêm giao thừa. Nguồn cảm hứng đến từ bức tranh _Thiên đường con người_ (The Garden of Eden) của họa sĩ Hà Lan Jan van Eyck. Ở tuổi bốn mươi tư, cô vẫn đứng trên sân khấu, vẫn học những điều mới, và vẫn dùng cơ thể để nói câu cũ – "Tôi không phải thiên tài, nhưng tôi có thể cố gắng hơn cả thiên tài."
 
-Tuy nhiên, hơn là con số doanh thu, người ta nên nhớ điều đó sáng sớm năm 2019. Khi Jolin Tsai nói tên Yeh Yong-ze trên sân khấu Giải Thánh Ngọc, lúc đó, cái chết của một thanh niên, một ca khúc nhạc pop, và quan điểm xã hội về giới tính, đều va chạm với nhau trong một câu câu. Đó không phải là giải trí, đó là nơi văn hóa pop đạt tới xa nhất.
+Tuy nhiên, thay vì con số doanh thu, có lẽ người ta nên ghi nhớ đêm năm 2019. Khi Thái Y Lâm nhắc đến tên Diệp Vĩnh Cung trên sân khấu Giải thưởng Quốc khúc, cái chết của một thiếu niên, một bài hát đại chúng và thái độ xã hội đối với giới tính đã va chạm trong cùng một câu nói. Đó không phải là giải trí, đó là nơi xa nhất mà văn hóa đại chúng có thể vươn tới.
 
 ## Tài liệu tham khảo
 
-- [Em trai hồng giành giải Thánh Ngọc Nhạc truyền thống, Jolin Tsai khóc kể câu chuyện Yeh Yong-ze — Central News Agency](https://www.cna.com.tw/news/firstnews/201906295014.aspx) (tài liệu gốc)
-- [Đầy đủ danh sách các phát biểu và danh sách giành thắng của Giải Thánh Ngọc Năm 30 — BIOS monthly](https://www.biosmonthly.com/article/10033) (tài liệu gốc)
-- [Vòng tour thế giới Myself — Wikipedia](https://zh.wikipedia.org/zh-tw/Myself%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
-- [Ugly Beauty World Tour — Wikipedia](https://en.m.wikipedia.org/wiki/Ugly_Beauty_World_Tour) (tiếng Anh)
-- [Jolin Tsai UGLY BEAUTY bản đặc biệt — Sony Music](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty/) (tài liệu gốc)
-- [Vụ việc Yeh Yong-ze — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%91%89%E6%B0%B8%E9%8B%95%E4%BA%8B%E4%BB%B6)
-- [Jolin Tsai giành huy chương vàng tại Cake International — GirlStyle](https://girlstyle.com/sg/article/3987/8-times-jolin-tsai-wow-ed-us-with-her-cakes) (tiếng Anh)
-- [Vòng tour thế giới Pleasure — Wikipedia](https://zh.wikipedia.org/zh-hant/Pleasure%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
+- [Thiếu niên Hồng nhan giành Ca khúc của năm Giải thưởng Quốc khúc – Thái Y Lâm nghẹn ngào nhớ Diệp Vĩnh Cung — Trung ương xã](https://www.cna.com.tw/news/firstnews/201906295014.aspx) (Nguồn chính)
+- [Lời cảm ơn và danh sách đầy đủ tại Giải thưởng Quốc khúc lần thứ 30 – BIOS monthly](https://www.biosmonthly.com/article/10033) (Nguồn chính)
+- [Tour diễn thế giới Myself – Wikipedia](https://zh.wikipedia.org/zh-tw/Myself%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)
+- [Ugly Beauty World Tour – Wikipedia](https://en.m.wikipedia.org/wiki/Ugly_Beauty_World_Tour) (Tiếng Anh)
+- [Thái Y Lâm UGLY BEAUTY Phiên bản sưu tầm Quái Mỹ – Sony Music](https://www.sonymusic.com.tw/album/jolin-tsai-ugly-beauty/) (Nguồn chính)
+- [Sự kiện Diệp Vĩnh Cung – Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%91%89%E6%B0%B8%E9%8B%95%E4%BA%8B%E4%BB%B6)
+- [Jolin Tsai Cake International Gold Medal – GirlStyle](https://girlstyle.com/sg/article/3987/8-times-jolin-tsai-wow-ed-us-with-her-cakes) (Tiếng Anh)
+- [Tour diễn thế giới Pleasure – Wikipedia](https://zh.wikipedia.org/zh-hant/Pleasure%E4%B8%96%E7%95%8C%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83)

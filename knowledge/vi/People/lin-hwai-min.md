@@ -1,128 +1,131 @@
 ---
-title: 'Lý Hoàu Minh'
-description: 'Một nhà văn tạo ra tứp dance troupe hiện đại đầu tiên trong thế giới ngôn ngữ Hoa và khiến nó tồn tại hơn 50 năm'
+title: 'Lâm Hồi Minh'
+description: 'Một nhà văn tạo ra nhóm múa hiện đại đầu tiên trong thế giới tiếng Hán, và để nó sống hơn 50 năm'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'nhảy',
-    'nghệ thuật',
-    'nghệ thuật biểu diễn',
-    'Đài Bắc Trung Hoa',
+    'Nhân vật',
+    'Múa',
+    'Nghệ thuật',
+    'Nghệ thuật biểu diễn',
+    'Nhóm múa Đám Mây Cửa',
   ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'People/林懷民.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
-translatedAt: '2026-07-26T19:42:09+08:00'
+translatedAt: '2026-09-21T00:58:30+08:00'
 ---
 
-> **30 giây tổng quan:** Năm 1973, một nhà văn năm 26 tuổi không có nền tảng chuyên môn về nhảy Lý Hoàu Minh đã thành lập tứp dance troupe chuyên nghiệp đầu tiên tại Đài Loan "Đài Bắc Trung Hoa". Tứp dance troupe này không chỉ trở thành tứp dance troupe hiện đại đầu tiên trong thế giới ngôn ngữ Hoa, mà còn hoạt động trên sân khấu quốc tế hơn 50 năm, được《New York Times》 khen ngợi là "tứp dance troupe quan trọng nhất châu Á".
+> **30 giây tóm tắt:** Năm 1973, một cậu thanh niên 26 tuổi không có nền tảng múa nào, nhà văn Lâm Hồi Minh,
+> đã thành lập nhóm múa hiện đại đầu tiên chuyên nghiệp tại Đài Loan mang tên "Nhóm múa Đám Mây Cửa". Nhóm múa không chỉ trở thành nhóm múa đương đại đầu tiên trong thế giới tiếng Hán, mà còn hoạt động trên sân khấu quốc tế hơn 50 năm, được nhật báo New York Times gọi là "nhóm múa đương đại quan trọng nhất châu Á".
 
-Năm 1970, Lý Hoàu Minh, một người đàn 23 tuổi, đang học tập trong khoá "workshop viết truyện ngỏi" tại Đại học Iowa của Hoa Kỳ. Năm đó, ông đã xuất bản đối tượng nổi tiếng của làng văn học Đài Loan "Côn", một câu chuyện kể về sự bốc lở trẻ em thời thứ 60s ở phố Tây Hồ, thành phố Taipei. Nhưng trong một buổi tối xa xôi, ông bước vào một phòng học nhảy và bắt đầu một hành trình thay đổi hoàn toàn ngành nghệ thuật biểu diễn của Đài Loan.
+Năm 1970, Lâm Hồi Minh 23 tuổi đang theo học chương trình "Học viện nhà văn" tại Đại học Iowa ở Hoa Kỳ. Năm đó, anh đã xuất bản tác phẩm đã giúp anh nổi tiếng là "Trường tiể", là một nhà văn trẻ được cộng đồng văn học Đài Loan chú ý. Nhưng vào một đêm ở nước ngoài, anh bước vào một lớp múa, bắt đầu một cuộc phiêu lưu hoàn toàn thay đổi nghệ thuật biểu diễn Đài Loan.
 
-Ai cũng không ngờ tứp nhà văn trẻ tuổi ấy sau ba năm sẽ thành lập tứp dance troupe chuyên nghiệp đầu tiên trong thế giới ngôn ngữ Hoa, và khiến nó tồn tại hơn một thế kỷ.
+Không ai ngờ rằng, ba năm sau, nhà văn này sẽ thành lập nhóm múa hiện đại đầu tiên trong thế giới tiếng Hán, và để nó sống qua nửa thế kỷ.
 
-## Từ văn học đến cơ thể: một quay đường ngẫu nhiên
+## Từ văn học đến cơ thể: Một chuyển hướng bất ngờ
 
-Lý Hoàu Minh, sinh năm 1947 tại thế giới quê sổ của Jamyi, là một thế hệ người có nguồn gốc từ tầng lớp quý tộc. Ông nội là một tri pháp sư tiền tất ước mơ, ông tái là một bác sĩ nổi tiếng về thế giới Hàn Quốc, cha mình Lý Kim Sinh là thị trưởng đầu tiên của tỉnh Jamyi. Trong một gia đình giàu có văn hóa, con đường lành nghề nghiệp của Lý Hoàu Minh như một điều khả thi như chờ ngày. Từ khi mới 14 tuổi bắt đầu xuất bản truyện ngỏi, đến năm 22 tuổi xuất bản "Côn", một câu chuyện mô tả về sự bốc lở trẻ em thời thứ 60s ở phố Tây Hồ, thành phố Taipei, đánh dấu một thời kỳ.
+Lâm Hồi Minh, sinh năm 1947 tại Tân Cương, thuộc gia đình quý tộc tại Chiayi. Ông nội từng là thám ngữ thời nhà Thanh, ông nội là bác sĩ Nhật, cha làm thị trưởng đầu tiên của quận Chiayi. Trong một gia đình trí thức như vậy, việc Lâm Hồi Minh chọn con đường văn học dườ như là điều tự nhiên — bắt đầu đăng bài viết kể từ 14 tuổi, xuất bản "Trường tiể" ở 22 tuổi, mô tả sự mập mờ của thanh thiếu niên Đài Loan thập niên 1960 tại quán cà phê Mingxing ở Bắc Hồ, đánh dấu một thời đại.
 
-> **💡 Bạn biết không**
-> Lý Hoàu Minh, lúc còn 5 tuổi, đã yêu thích nhảy sau khi xem phim "Đào Tím Hoa". Nhưng ông chỉ chính thức bắt đầu học nhảy khi mới 23 tuổi.
+> **💡 Bạn có biết không?**
+> Khi mới 5 tuổi, Lâm Hồi Minh đã thích thú với múa sau khi xem phim "Hồng Nhung Hồng", nhưng đến 23 tuổi mới bắt đầu học múa chính thức.
 
-Nhưng quay đường của một nhà văn trẻ tuổi trong Iowa lại đã mở ra một cánh cửa mới cho nghệ thuật biểu diễn Đài Loan. Năm 1970, ông bắt đầu học nhảy chính thức, đồng thời hoàn thành bằng cấp và nghiên cứu về nhảy hiện đại. Sau khi nhận được bằng thạc sĩ về nghệ thuật và trở về Đài Loan năm 1972, ông quyết định một "sự noá" mạnh mẽ: thành lập một tứp dance troupe.
+Nhưng sự chuyển hướng của Lâm Hồi Minh tại Iowa đã mở ra một cánh cửa mới cho Đài Loan. Năm 1970, anh bắt đầu học múa chính thức, đồng thời học bằng và nghiên cứu múa hiện đại. Năm 1972, sau khi nhận bằng thạc sĩ nghệ thuật trở về Đài Loan, anh đưa ra một quyết định "bốc đồng": thành lập một nhóm múa hiện đại.
 
-Đó là năm 1973. Không có hỗ trợ tài chính từ chính phủ, không có không gian chuẩn mực, thậm chí không đủ người nhảy. Lý Hoàu Minh và vài người bạn trẻ đồng hành, trong một sân khấu thí nghiệm, đã ra mắt lần đầu tiên của "Đài Bắc Trung Hoa".
+Đó là năm 1973. Không có sự hỗ trợ từ chính phủ, không có không gian chuyên nghiệp, thậm chí không có đủ số lượng người múa. Lâm Hồi Minh và một nhóm thanh niên cùng tâm hồn, bắt đầu vở biểu diễn đầu tiên của Nhóm múa Đám Mây Cửa tại nhà hát thí nghiệm.
 
-## Đài Bắc Trung Hoa: một tên cổ xưa đổi mới lại
+## Đám Mây Cửa: Một cuộc cách mạng hiện đại với tên gọi cổ xưa
 
-"Đài Bắc Trung Hoa" là một nghi lễ lớn thời Hùng Đế. Lý Hoàu Minh chọn tên cổ xưa này không phải là một may mắn. Ông mong muốn tạo ra những bản nhảy có nguồn gốc từ văn hóa riêng của mình, chứ không phải là sao chép mô hình nhảy hiện đại phương Tây. Quan trọng hơn, ông từng nói với các nhà báo rằng mục đích cuối cùng của "Đài Bắc Trung Hoa" là "phải nhảy với cả dân tộc".
+"Đám Mây Cửa" là một bản nhảy lớn trong truyền thuyết thời đại Hoàng Đế. Lâm Hồi Minh chọn tên gọi cổ này không phải là ngẫu nhiên. Ông mong muốn tạo ra những tác phẩm múa mang nguồn gốc văn hóa riêng, thay vì chỉ là bản sao của múa hiện đại phương Tây. Điều quan trọng hơn, ông nói với truyền thông rằng mục tiêu cuối cùng của Đám Mây Cửa là "để mọi người cùng nhảy".
 
-Câu nói này trong năm 1973 nghe có vẻ như một nhiệm vụ không thể thực hiện. Nhảy hiện đại tại Đài Loan gần như là một lĩnh vực trống rỗng, khán giả đâu, tài chính đâu. Nhưng Lý Hoàu Minh và "Đài Bắc Trung Hoa" lại từng bước biến những điều không thể thành những điều khả thi.
+Trong thời điểm năm 1973, điều này nghe như một nhiệm vụ bất khả kháng kháng. Múa hiện đại ở Đài Loan gần như là một lĩnh vực trống rỗng, khán giả ở đâu? Nguồn tài chính ở đâu? Nhưng Lâm Hồi Minh và Đám Mây Cửa, từng bước biến điều không thể khả dĩ thành hiện thực.
 
-Vào năm 1978, Lý Hoàu Minh cùng các nhà nhảy đã dời đến bờ sông mới tên, đánh đá các viên đá, trải nghiệm về thể xác của người nguyen thủy lao động, và tạo ra "Chuyển Hành" — một vở kịch thiên tây về hành trình dâng dẫn người nguyen thủy qua biển đông, vượt qua đảo Taiwan. Đây là lần đầu tiên một tác phẩm kịch có chủ đề về lịch sử địa phương.
+Năm 1978, Lâm Hồi Minh đưa các nhà biểu diễn đến bờ sông Tân Tây, đổ đá để trải nghiệm công việc của những người trước đây, tạo ra "Di sản Lửa" — một bản nhảy thần thoại kể về "Thuyền gỗ chở qua sông Hồ, Bắc Sơn qua Đài Loan". Đây là một tác phẩm kịch mang chủ đề lịch sử Đài Loan.
 
-> **📝 Ghi chú của người dẫn chương**
-> Lần đầu chiếu rạp của "Chuyển Hành" là ngày 16 tháng 12 năm 1978, đúng ngày Chính phủ Hoa Kỳ công bố ngắt chứng nhận quan hệ với Chính phủ Dân Quốc Trung Hoa. Trong vòng hai tháng, vở kịch kể về hành trình dâng dẫn người nguyen thủy qua sông đen, chiến đấu xây dựng quê hương của vở kịch đã xua hương, truyền cảm hứng cho hơn 20.000 khán giả.
+> **📝 Ghi chú nhà soạn lịch**
+> Ngày diễn ra buổi lễ mở màn của "Di sản Lửa" là ngày 16 tháng 12 năm 1978, trùng khớp với ngày Mỹ đưa ra thông báo cắt đứt quan hệ ngoại giao với Trung Hoa Dân Quốc.
+> Trong hai tháng, bản nhảy miêu tả hành trình khó khăn của những người lao động vượt qua sông đen và phát triển đất đai đã an ủi và truyền cảm hứng cho hơn 20.000 khán giả.
 
-Đây không phải là hòa may. Đây là một quyết định lịch sử. Vào thời điểm xã hội Đài Loan cần thiết về bản sắc văn hóa, "Đài Bắc Trung Hoa" đã dùng cơ thể mình nói lên câu chuyện của mảnh đất này.
+Đây không phải là sự trùng hợp, mà là sự định mệnh. Ở thời điểm xã hội Đài Loan đang cần nhận thức văn hóa nhất, Đám Mây Cửa đã nói lên câu chuyện của mảnh đất này bằng cơ thể.
 
-## Ngôn ngữ cơ thể phương Đông
+## Ngôn ngữ hiện đại của cơ thể Đông phương
 
-Lý Hoàu Minh là người ta rất ngưỡng mộ vì sự khai thác sâu sắc và biến dạng lại văn hóa phương Đông. "Bay Kỷ" (1993) được sao chép từ một bài thơ cùng tên của Quốc Nguyên, biến vị ngữ văn cổ điển thành một bài nhảy sinh động. "Bài Hát Các Người Lạ" (1994) lấy cảm hứng từ tiểu thuyết của Hermann Hesse và các kinh điển Phật giáo, và năm 1994, Lý Hoàu Minh đã tự mình đến chùa Bodhi Jaya, nơi Nguson Phật đã đạt chánh pháp, và trở về sau đó tạo ra một tác phẩm biến các nghi lễ tôn giáo châu Á thành một lễ hội kịch biểu đạo hiện đại.
+Điều khiến người ta ngưỡng mộ nhất ở Lâm Hồi Minh chính là sự khám phá sâu sắc và chuyển đổi hiện đại của văn hóa Đông phương. "Chín bài ca" (1993) dựa trên cùng một bài thơ của Quan Học, biến hữu tượng văn học cổ xưa thành thẩm mỹ động học múa. "Bài ca của người lang thang" (1994) lấy cảm hứng từ tiểu thuyết của Hermann Hesse và kinh điển Phật giáo, năm 1994, Lâm Hồi Minh tự tay tham quan địa điểm Phật đạt được giác ngộ tại Bodh Gaya, trở về và sáng tạo ra tác phẩm biến nghi lễ tôn giáo châu Á thành lễ hội kịch đương đại.
 
-"Khói Hương" (2003) lấy cảm hứng từ tranh vẽ nước ngọc thời Song, các nhà nhảy di chuyển như những giọt mực trong làn khói mỏng manh. "Cây Ngô" (2013) lại đưa vòng đời sinh mệnh của đồng bằng ngô trên sân khấu, và năm 2013, học sinh đã ra mắt trên thực địa đồng ngô thật tại Tân Trúc, làm cho nhảy và huyết thể hòa quyện.
+"Khói lá" (2003) lấy cảm hứng từ tranh thiên nhiên thời Song, những người biểu diễn múa trong sương mù như những nét mực. "Lúa chín" (2013) mang vòng đời của cánh đồng lúa ở Tây Hạ lên sân khấu, năm 2013 thậm chí tổ chức biểu diễn thực sự trong cánh đồng lúa ở Tây Hạ, kết hợp múa và thiên nhiên thành một.
 
-Những tác phẩm này phản ánh triết lý "Cơ thể chính là cảnh quan" của Lý Hoàu Minh. Ông cho rằng trong cơ thể người phương Đông giấu chứa nhiều mã bí văn hóa khác với phương Tây, nhảy hiện đại nên lấy nhân tính đất mẹ làm nguồn năng lượng.
+Những tác phẩm này phản ánh triết lý thẩm mỹ "Cơ thể là cảnh quan" của Lâm Hồi Minh. Ông tin rằng cơ thể người Đông phương chứa đựng mật mã văn hóa khác biệt so với phương Tây, và múa hiện đại nên được nuôi dưỡng từ đất liền văn hóa của chính mình.
 
-Bài phê bình của《New York Times》 viết: "Lý Hoàu Minh thành công trong việc hòa hợp các kỹ thuật và khái niệm về nhảy và kịch của phương Đông và phương Tây."
+Đánh giá của nhật báo New York Times về múa viên viết: "Lâm Hồi Minh thành công trong việc kết hợp kỹ thuật múa và khái niệm kịch của phương Tây và Đông".
 
-## Vụ cháy và sự sinh tồn: thảm họa năm 2008
+## Cháy nổ và tái sinh: Bão tùng năm 2008
 
-Vào ngày 11 tháng 2 năm 2008, vào lúc đêm 1 giờ sáng ngày Tết đầu năm, một cuộc gọi điện đã xuyên qua không gian yên tĩnh của Lý Hoàu Minh. "Đài Bắc Trung Hoa" tại Hắc Long đã dùng 16 năm một cơ sở thực hành bằng thép mạ, bị thiêu rụi hoàn toàn trong một vụ cháy.
+Ngày 11 tháng 2 năm 2008, vào lúc 1h sáng mùa xuân, một cuộc gọi điện thoại đã phá vỡ sự bình yên của Lâm Hồi Minh. Nhà hàng xuất hiện của Đám Mây Cửa tại Bắc Lỵ, nơi họ đã sử dụng 16 năm, bị một vụ cháy lớn đốt cháy hoàn toàn.
 
-"Người gọi điện là một cô gái sống gần phòng thực hành, cô ấy chưa ngủ. Tôi không biết cô ấy là ai, hay tại sao có số điện thoại của tôi... Tôi liền chạy đến, lạ dại, cảnh tượng đó." Lý Hoàu Minh nhớ lại sau sự kiện.
+"Người gọi là một cô gáp sống gần nơi luyện tập, vừa mới thức dậy, tôi không biết cô ấy nhưng cũng không biết tại sao cô ấy lại có số điện thoại của tôi... Tôi chạy đến ngay, sợ chết điếng, cảnh tượng thật sự đẫm lệ." Lâm Hồi Minh nhớ lại sau này.
 
-Các phụ kiện biểu diễn, các tài liệu lịch sử, trang phục... gần như đều đã bị thiêu rụi. Đối với một tứp dance troupe đã tồn tại 35 năm, điều đó tương đương như đốt cháy hết toàn bộ ký ức tập thể.
+Tất cả các hiện vật biểu diễn, liệu trình năm tháng, trang phục, gần như đều bị cháy cháy. Đối với một nhóm múa đã tồn tại 35 năm, đây giống như việc đốt cháy toàn bộ ký ức tập thể.
 
-Nhưng thảm họa này lại thu hút lực hỗ trợ không previsto của xã hội Đài Loan. Với sự giúp đỡ của các bên liên quan, "Đài Bắc Trung Hoa" đã thu hút hơn 370 triệu đồng để tái thiết. Ba năm sau, Lý Hoàu Minh trong một buổi hội thảo nói: "Vì một vụ cháy đã xoá đi sân thực hành cũ, 'Đài Bắc Trung Hoa' lại có cơ hội nhìn thấy những thử thách và may mắn trong 50 năm tới."
+Nhưng bão tùng này lại thu hút sự ủng hộ chưa từng thấy trước đây từ xã hội Đài Loan. Dưới sự hỗ trợ của mọi người, Đám Mây Cửa quyên góp được hơn 370 triệu để xây dựng lại. Ba năm sau, Lâm Hồi Minh nói trong một buổi họp mặt: "Chỉ vì một vụ cháy đã đốt cháy nhà luyện tập cũ, Đám Mây Cửa đã có thể nhìn về phía trước 50 năm tới với những thách thức và niềm vui."
 
-Năm 2011, "Đài Bắc Trung Hoa" hội trường tại Tân Uc được xây dựng, trở thành hội trường đầu tiên do người dân quyên góp xây dựng tại Đài Loan.
+Năm 2011, nhà hát Đám Mây Cửa tại Tân Tây được hoàn thành, trở thành nhà hát đầu tiên ở Đài Loan được xây dựng bởi tổ chức tư nhân.
 
-## Hướng tới thế giới, không quên đất nước
+## Đi tới thế giới, không quên cội nguồn
 
-Dưới sự dẫn dắt của Lý Hoàu Minh, "Đài Bắc Trung Hoa" từ năm 1983 khi ra mắt lần đầu tiên tại châu Âu, đã có những dấu chân khắp năm bốn châu lục, tổng cộng hơn 300 buổi biểu diễn nước ngoài. Vào năm 2018, "Đài Bắc Trung Hoa" được trao giải "Những tứp dance troupe xuất sắc" của British Council.
+Dưới sự lãnh đạo của Lâm Hồi Minh, Nhóm múa Đám Mây Cửa từ lần đầu tiên xuất nước sang châu Âu vào năm 1983, đã đi tới mọi lục thổ, tích lũy hơn 300 lần biểu diễn nước ngoài. Năm 2018, Đám Mây Cửa được trao giải "Nhóm múa xuất sắc" tại Giải thưởng múa vụ quốc gia Anh.
 
-Nhưng Lý Hoàu Minh không bao giờ quên trách nhiệm địa phương dù đã thành công trên trường quốc tế. Mỗi năm, "Đài Bắc Trung Hoa" luôn tổ chức các buổi biểu diễn ngoài trời khắp nơi Đài Loan, từ Nghệ Thuốc Kỷ Niệm tại Hà Nội đến các thị xã xa xôi, để nhiều người dân hơn được tiếp xúc với nhảy hiện đại. Lý Hoàu Minh từng nói: "Nếu bỏ đi các buổi biểu diễn ngoài trời, 'Đài Bắc Trung Hoa' sẽ ngay lập tức bịnh viên vì sức khỏe."
+Nhưng Lâm Hồi Minh không bao giờ quên trách nhiệm địa phương dù đã thành công quốc tế. Hằng năm, Đám Mây Cửa đều tổ chức biểu diễn ngoài trời ở khắp các tỉ thành Đài Loan, từ Bắc Hồ cho tới các vùng miền hẻo lánh, để nhiều người có cơ hội tiếp xúc với múa hiện đại. Lâm Hồi Minh từng nói: "Nếu bỏ qua những buổi biểu diễn ngoài trời, Đám Mây Cửa sẽ ngay lập tức bị nhập viện."
 
-> **⚠️ Góc đối mặt**
-> Các buổi biểu diễn ngoài trời của "Đài Bắc Trung Hoa" dù rất được ưa chuộng, nhưng cũng có những nhà phê bình cho rằng cách làm "lãng phí khán giả" này có thể ảnh hưởng đến sự thuần mỹ của nghệ thuật. Lý Hoàu Minh đáp lại: "Tôi là một nhà chỉnh sửa được đào tạo từ khán giả ngoài trời."
+> **⚠️ Quan điểm tranh cãi**
+> Mặc dù các buổi biểu diễn ngoài trời của Đám Mây Cửa rất được yêu thích, một số nhà phê bình múa đã hoài nghi rằng cách làm "để vừa lòng khán giả" này có ảnh hưởng gì đến tính sạch sẽ của nghệ thuật. Câu trả lời của Lâm Hồi Minh là: "Tôi là một nhà biên nhảy được đào tạo bởi khán giả ngoài trời."
 
-## Xác nhận quốc tế và thành tựu suốt đời
+## Sự công nhận quốc tế và thành tựu trọn đời
 
-Năm 2013, Lý Hoàu Minh được trao giải thành công suốt đời của American Dance Festival, một tôn vinh được biết đến như "Phần Nobel" của nhảy. Ông là người thứ năm nhận giải này, sau Martha Graham, Merce Cunningham, Bijan Doherty và William Forsythe, và là người đầu tiên trong số các nhà chỉnh sửa châu Á.
+Năm 2013, Lâm Hồi Minh được trao giải "Giải thưởng múa hiện đại thế giới" với danh hiệu "Nhà biên nhảy tài năng nhất" tại Lễ hội múa biểu Mỹ. Ông trở thành người thứ năm được vinh danh sau Martha Graham, Merce Cunningham, Bessie Love, William Forsythe, đồng thời là nhà biên nhảy châu Á đầu tiên nhận được vinh dự này.
 
-Ngoài ra, ông còn nhận được giải thành công suốt đời của Dance Europe Festival ở Đức (2009), giải thưởng của Los Angeles Philharmonic III, và huy hiệu hiệp hạ của nghệ thuật Pháp.
+Ngoài ra, ông còn nhận được Giải thưởng múa biểu quốc tế của Đức năm 2009, Giải thưởng Rockafeller III của Mỹ, Huệ thiện Kỵ thuyật của Pháp, cùng nhiều giải thưởng quốc tế khác.
 
-Nhưng đối với Lý Hoàu Minh, thành tựu lớn nhất có lẽ không phải là những giải thưởng mà không đo đếm được, mà là hệ sinh thái hoàn chỉnh do ông xây dựng: từ "Đài Bắc Trung Hoa", "Đài Bắc Trung Hoa 2" đến "Phòng học Đài Bắc Trung Hoa", ông đã xây dựng một hệ thống để nhảy hiện đại gắn bó với Đài Loan.
+Nhưng đối với Lâm Hồi Minh, thành tựu lớn nhất không phải là những giải thưởng này, mà là hệ sinh thái mà Đám Mây Cửa đã xây dựng: từ Đám Mây Cửa, Đám Mây Cửa 2 cho tới lớp học múa Đám Mây Cửa, ông đã tạo ra một hệ thống hoàn chỉnh để múa hiện đại củng cố tại Đài Loan.
 
-## Thừa hưởng: từ Lý Hoàu Minh đến Zeng Zhonglong
+## Sự nối tiếp: Từ Lâm Hồi Minh tới Trịnh Tương Long
 
-Vào năm 2017, một vụ tai nạn khiến người đàn 70 tuổi của Lý Hoàu Minh bắt đầu suy nghĩ về việc truyền lại. Vào cuối năm 2019, ông chính thức nghỉ hưu, giao quyền sang Zeng Zhonglong, người từng làm trưởng nhảm viên của "Đài Bắc Trung Hoa 2" vào thời kỳ này.
+Năm 2017, một vụ tai nạn giao thông khiến Lâm Hồi Minh 70 tuổi bắt đầu suy nghĩ về sự nối tiếp. Vào cuối năm 2019, ông chính thức nghỉ hưu, giao lại Đám Mây Cửa cho Trịnh Tương Long, người từng là giám đốc nghệ thuật của Đám Mây Cửa 2.
 
-"Tôi không nghỉ hưu nữa, cô ấy sẽ trở thành chú Prince Charles." Lý Hoàu Minh cười nhẹn.
+"Nếu tôi không nghỉ hưu, anh ấy sẽ trở thành hoàng tử Charles." Lâm Hồi Minh đùa cợm.
 
-Quá trình thừa hưởng này kéo dài nhiều năm, Lý Hoàu Minh tự tay nuôi dưỡng người kế thừa, đảm bảo tinh thần nghệ thuật của "Đài Bắc Trung Hoa" có thể được tiếp tục. Vào năm 2020, Zeng Zhonglong chính thức nhận quyền làm trưởng nhảm viên của "Đài Bắc Trung Hoa", và ra mắt bản nhảy đầu tiên sau khi nhận quyền là "Đồng Hương".
+Quá trình này kéo dài nhiều năm, Lâm Hồi Minh cẩn trọng nuôi dưỡng người kế vị, đảm bảo tinh thần nghệ thuật của Đám Mây Cửa có thể được kế thừa. Năm 2020, Trịnh Tương Long chính thức nhận nhiệm vụ giám đốc nghệ thuật của Nhóm múa Đám Mây Cửa, ra mắt với bản nhảy đầu tiên sau khi nhận nhiệm vụ mang tên "Định Quang".
 
-Lý Hoàu Minh từng nói: "Tôi mong muốn 'Đài Bắc Trung Hoa' phải là một thương hiệu, không phải là một tập thể của một người." Dưới sự dẫn dắt của ông trong vòng 46 năm, "Đài Bắc Trung Hoa" đã tạo ra tổng cộng 90 bản nhảy, nuôi dưỡng nhiều nhà nhảy, và nhiều người đã trở thành các nhà chỉnh sửa và nhà nhảy quan trọng, tạo nên "truyền thống Đài Bắc Trung Hoa" với ảnh hưởng rộng rãi.
+Lâm Hồi Minh từng nói: "Tôi hy vọng Đám Mây Cửa là một thương hiệu, không phải là một nhóm của một người." Trong 46 năm lãnh đạo, Nhóm múa Đám Mây Cửa đã sáng tạo ra 90 bản nhảy, đào tạo hàng ngàn người biểu diễn, nhiều người trở thành những nhà múa và nhà biên nhảy quan trọng, tạo nên ảnh hưởng của "Phong cách Đám Mây Cửa".
 
-## Một kết thúc và một khởi đầu của một thời kỳ
+## Kết thúc và khởi đầu của một thời đại
 
-Năm 2000, Lý Hoàu Minh được trao giải Nghệ Thuật Quốc Gia. Năm 2019, cuốn truyện ngỏi của ông "Côn" đã ra mặt bản dành cho kỷ niệm 50 năm. Vào năm 2022, cuốn "Dòng Chảy Và Gương Phản" của ông đã nhận được hai giải thưởng: Giải thưởng Văn Học Đài Loan và Giải Năm thứ 2 của Triển Lãm Sách Quốc Tế Hà Nội cho Văn Học Không Truyện.
+Năm 2000, Lâm Hồi Minh được vinh danh với Giải thưởng Quốc gia Nghệ thuật. Năm 2019, tiểu thuyết "Trường tiể" của ông ra mắt bản kỷ niệm 50 năm. Năm 2022, cuốn sách "Dòng chảy và phản chiếu" của ông giành giải nhất tại Lễ hội sách phi hư cấu của Hội chợ sách quốc tế Bắc Hồ.
 
-Từ nhà văn đến nhà nhảy, từ một sự noá cá nhân thành một nhận dạng của một thời kỳ, Lý Hoàu Minh đã chứng minh qua bốn mươi năm cuộc đời một điều: một nghệ sĩ thật sự không phải là người sao chép, mà là người sáng tạo ra. Ông đã đưa nhảy hiện đại tại Đài Loan từ vô dụng sang phổ biến, từ nền tảng địa phương sang quốc tế.
+Từ nhà văn đến nhà múa, từ một cá nhân đột phá đến biểu tượng của một thời đại, Lâm Hồi Minh trong nửa thế kỷ đã chứng minh một điều: một nghệ sĩ thực sự không phải là người sao chép, mà là người sáng tạo. Ông để múa hiện đại tỏa sáng tại Đài Loan từ không có đến có, từ ít người đến nhiều người, từ địa phương đến quốc tế.
 
-> **✦** "Con người, những gì trong cuộc đời mình có thể bị lấy đi, chỉ có giấc mơ mới không thể mất." — Lý Hoàu Minh
+> **✦** "Cuộc đời một con người, mọi thứ đều có thể bị lấy đi, chỉ có ước mơ không thể." — Lâm Hồi Minh
 
-50 năm của "Đài Bắc Trung Hoa", đây là một câu chuyện về sự kiên trì với giấc mơ, và cũng là phản ánh hình ảnh của văn hóa Đài Loan từ vô dụng đến mạnh mẽ. Trên sân khấu của "Đài Bắc Trung Hoa", nhịp điệu của bản thân bảo bối của hòn đảo này đang được sống hóa.
+Đám Mây Cửa 50 năm, đây là câu chuyện về sự kiên trì ước mơ, cũng là bản chất của sự phát triển từ không có đến có, từ yếu đuối đến mạnh mẽ của văn hóa Đài Loan. Trên sân khấu của Đám Mây Cửa, nhịp điệu là linh hồn của chính hòn đảo này.
 
-## Tham khảo
+## Tài liệu tham khảo
 
-- [Trang web chính thức của Đài Bắc Trung Hoa - Người sáng lập](https://www.cloudgate.org.tw/cg/about/founder)
-- [Báo Kinh tế: "Đài Bắc Trung Hoa" từ hòn đảo sang thế giới](https://www.thenewslens.com/article/129667)
-- [Bạn Nhớ Tôi: Những nghệ sĩ vận động văn hóa Đài Loan — Lý Hoàu Minh](https://taiwan.k12ea.gov.tw/index.php?inter=people&id=48)
-- [Lý Hoàu Minh - Wikipedia](https://zh.wikipedia.org/zh-tw/林懷民)
-- [Đài Bắc Trung Hoa - Wikipedia](https://zh.wikipedia.org/zh-tw/雲門舞集)
-- [The New York Times: In Taiwan, a Contemporary Dance Troupe Brings in the Crowds](https://www.nytimes.com/2019/07/30/arts/dance/cloud-gate-dance-taiwan.html)
-- [Báo Phát Thuyên: Sau 45 năm, "Đài Bắc Trung Hoa" "Chuyển Hành" trở lại vị trí lịch sử](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
-- [Báo Kinh tế: Lý Hoàu Minh tuyên bố nghỉ hưu năm 2019](https://www.thenewslens.com/article/83952)
-- [Báo Phát Thuyên: Sau vụ cháy, "Đài Bắc Trung Hoa" hội trường đi đâu?](https://www.twreporter.org/a/theatre-cloud-gate)
-- [China Times: Truyện ngỏi của Lý Hoàu Minh "Côn" ra mắt 50 năm](https://www.chinatimes.com/realtimenews/20191022003051-260405)
-- [Giải Thưởng Nghệ Thuật Quốc Gia: Lý Hoàu Minh](https://www.ncafroc.org.tw/artsaward/winnerDetail@1224)
-- [Báo Liên Đoàn: "Đài Bắc Trung Hoa" 40 năm, kết quả đẹp của "Cây Ngô"](https://www.chinatimes.com/realtimenews/20131122005081-260508)
+- [Trang web chính thức của Nhóm múa Đám Mây Cửa - Người sáng lập](https://www.cloudgate.org.tw/cg/about/founder)
+- [Trang web Key Commentary: Từ hòn đảo tới toàn thế giới với "Nhóm múa Đám Mây Cửa"](https://www.thenewslens.com/article/129667)
+- [Đài Loan nhớ bạn: Nghệ sĩ đưa múa lên Đài Loan — Lâm Hồi Minh](https://taiwan.k12ea.gov.tw/index.php?inter=people&id=48)
+- [Lâm Hồi Minh - Wikipedia](https://zh.wikipedia.org/zh-tw/林懷民)
+- [Nhóm múa Đám Mây Cửa - Wikipedia](https://zh.wikipedia.org/zh-tw/雲門舞集)
+- [New York Times: Tại Đài Loan, một nhóm múa đương đại thu hút khán giả](https://www.nytimes.com/2019/07/30/arts/dance/cloud-gate-dance-taiwan.html)
+- [Reporter: Lùi lại có nghĩa là tiến lên — 45 năm sau, "Di sản Lửa" của Đám Mây Cửa trở về từ bờ vực lịch sử](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
+- [Trang web Key Commentary: Lâm Hồi Minh công bố nghỉ hưu năm 2019](https://www.thenewslens.com/article/83952)
+- [Reporter: Sau vụ cháy đó, Đám Mây Cửa sẽ đi đâu?](https://www.twreporter.org/a/theatre-cloud-gate)
+- [Thời báo Đông Tây: Năm 50 của tiểu thuyết đại diện của Lâm Hồi Minh "Trường tiể"](https://www.chinatimes.com/realtimenews/20191022003051-260405)
+- [Giải thưởng Nghệ thuật Quốc gia: Lâm Hồi Minh](https://www.ncafroc.org.tw/artsaward/winnerDetail@1224)
+- [Trang web tin tức Liên hiệp: Đám Mây Cửa múa 40 năm, "Lúa chín" đẹp đẽ thu hoạch](https://www.chinatimes.com/realtimenews/20131122005081-260508)
