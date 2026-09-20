@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19T22:21:05.236Z",
+  "generated_at": "2026-09-20T06:46:04.528Z",
   "routines": {
     "fetched_at": "2026-09-20T06:16:02+08:00",
-    "stale_hours": 0.1,
+    "stale_hours": 8.5,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -10,7 +10,7 @@
         "cadence_human": "每天 07:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-19T07:08:11+08:00",
+        "last_fire": "2026-09-20T07:11:22+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -66,7 +66,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -141,8 +141,8 @@
         "cron": "0 6 * * *",
         "cadence_human": "每天 06:00",
         "enabled": true,
-        "status": "degraded",
-        "last_fire": "2026-09-19T06:11:21+08:00",
+        "status": "operational",
+        "last_fire": "2026-09-20T06:18:51+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "missed"
+            "state": "fired"
           }
         ]
       },
@@ -406,7 +406,7 @@
         "cadence_human": "每天 08:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-19T08:41:02+08:00",
+        "last_fire": "2026-09-20T08:52:04+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -462,7 +462,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -802,7 +802,7 @@
         "cadence_human": "每天 06:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-19T06:36:13+08:00",
+        "last_fire": "2026-09-20T06:35:44+08:00",
         "grid14": [
           {
             "date": "2026-09-07",
@@ -858,7 +858,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -924,7 +924,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1312,29 +1312,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-19T22:18:46Z",
+      "ts": "2026-09-20T06:21:18Z",
       "conclusion": "success",
-      "title": "Engineering contracts: 🧬 [routine] refresh: 每日資料刷新，14 步完成（Step 1 因平行 babel dispatcher 跳過）"
+      "title": "Routine stall alert: Routine stall alert"
     },
     {
-      "ts": "2026-09-19T22:18:46Z",
-      "conclusion": "in_progress",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] refresh: 每日資料刷新，14 步完成（Step 1 因平行 babel dispatcher 跳過）"
-    },
-    {
-      "ts": "2026-09-19T22:03:36Z",
-      "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-20 05:10 — 13 語…"
-    },
-    {
-      "ts": "2026-09-19T21:57:10Z",
-      "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
-    },
-    {
-      "ts": "2026-09-19T21:57:10Z",
+      "ts": "2026-09-20T00:56:37Z",
       "conclusion": "success",
-      "title": "Engineering contracts: 🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=macm4max1+mac…"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] merge: maintainer-am 收官把 origin 這班的合併與勘誤併回營運機，讓 dispatche…"
+    },
+    {
+      "ts": "2026-09-20T00:55:01Z",
+      "conclusion": "cancelled",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-maintainer-am @ 2026-09-20 08:30 — 零分岔的第一班：三…"
+    },
+    {
+      "ts": "2026-09-20T00:47:18Z",
+      "conclusion": "cancelled",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: 台灣災難醫療體系 — 「921 有 500 人本來可以活」是阪神大地震的數字，放回日本 DMAT 的起…"
+    },
+    {
+      "ts": "2026-09-20T00:44:09Z",
+      "conclusion": "cancelled",
+      "title": "Deploy to GitHub Pages: Merge pull request #1755 from aminzai/translate/ar-paper-windmill-the…"
     }
   ]
 }

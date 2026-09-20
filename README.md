@@ -103,20 +103,20 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇪🇸 Español (es)                | 1104  |
 | 🇫🇷 Français (fr)               | 1105  |
 | 🇻🇳 Tiếng Việt (vi)             | 1107  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1013  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1014  |
 | 🇵🇹 Português (pt)              | 1077  |
-| 🇮🇳 हिन्दी (hi)                 | 1014  |
+| 🇮🇳 हिन्दी (hi)                 | 1015  |
 | 🇸🇦 العربية (ar)                | 1054  |
 | 🇷🇺 Русский (ru)                | 1068  |
-| 🌐 Deutsch (de)                | 833   |
+| 🌐 Deutsch (de)                | 835   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1182  |
+| ⭐ GitHub Stars                | 1184  |
 | 🍴 Forks                       | 186   |
-| 📅 Articles last 7 days        | 34    |
-| 📅 Articles last 30 days       | 196   |
+| 📅 Articles last 7 days        | 36    |
+| 📅 Articles last 30 days       | 132   |
 
 <!-- STATS:END -->
 

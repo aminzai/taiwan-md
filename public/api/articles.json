@@ -32621,17 +32621,6 @@
     "path": "fr/People/ahn-ji-hyun.md"
   },
   {
-    "title": "Ahn Ji-hyun",
-    "description": "Từ người cổ vũ chuyên nghiệp Hàn Quốc đến ngoại binh chính thức của Taiwan Steel Wing Stars, cô mang kinh nghiệm biểu diễn quốc tế vào sân chính ở Cao Hùng; giai đoạn Đại Vòm năm 2026 cũng trở thành điểm quan sát công khai về sự điều chỉnh chấn thương và vai trò ngoài sân của cô.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/ahn-ji-hyun",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-05-13",
-    "path": "vi/People/ahn-ji-hyun.md"
-  },
-  {
     "title": "AI 走進教室：三百支代理人，接住培訓後孤單的老師",
     "description": "2026 年，徐臺屏把約八十位教師設計的三百支 AI 代理人放進共享大市集。台灣兩份不同調查一面顯示九成教師已接觸 AI，一面顯示 95.6% 仍有學習需求。從大佳國小的三小時研習、內湖高中的「漚客」測試，到教育部人才方舟計畫，本文追問：工具已經進教室，誰來接住回校後的老師？這是工具普及之後更難的教育工程。",
     "category": "Technology",
@@ -33361,6 +33350,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Society/taiwan-political-landscape-and-electoral-system.md"
+  },
+  {
+    "title": "An Chi-ai: Từ cổ vũ viên chuyên nghiệp Hàn Quốc đến ngoại binh chủ lực của Đài Loan Steel Wing Stars, cô mang kinh nghiệm biểu diễn quốc tế đến sân nhà ở Cao Hùng; lịch trình tại Đại Cự Đản năm 2026 cũng là điểm quan sát công khai về sự điều chỉnh chấn thương và vai trò bên sân.",
+    "description": "Từ khi Đài Loan Steel gia nhập Trung Chức, An Chi-ai đã có mặt từ đầu. Trong giai đoạn chuyển địa điểm sang Đại Cự Đản vào tháng 5 năm 2026, truyền thông đã đưa tin về sự điều chỉnh của cô tại khu vực bên sân và các buổi biểu diễn sau trận đấu do chấn thương vai.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/ahn-ji-hyun",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "vi/People/ahn-ji-hyun.md"
   },
   {
     "title": "An Chi-hyun",
@@ -34127,11 +34127,11 @@
   },
   {
     "title": "Arte Contemporânea Indígena de Taiwan",
-    "description": "Da artesanato tradicional à criação contemporânea, explore como artistas indígenas de Taiwan fazem-se ouvir no cenário artístico global, redefinindo o diálogo entre identidade indígena e arte contemporânea",
+    "description": "Do ofício tradicional à criação contemporânea, explorando como artistas indígenas de Taiwan encontram voz no palco artístico global, redefinindo o diálogo entre identidade indígena e arte contemporânea",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/contemporary-indigenous-art-taiwan",
-    "readingTime": 69,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-03-20",
     "path": "pt/Art/contemporary-indigenous-art-taiwan.md"
@@ -44171,17 +44171,6 @@
     "path": "pt/Technology/e-commerce-and-digital-payment-ecosystem.md"
   },
   {
-    "title": "Comercio exterior de Taiwán y cadenas globales de suministro",
-    "description": "De la orientación exportadora a nodo clave de las cadenas de suministro: cómo Taiwán mantiene su ventaja comercial en la confrontación entre Estados Unidos y China",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 86,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "es/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
-  },
-  {
     "title": "Comércio Externo de Taiwan e a Cadeia de Abastecimento Global",
     "description": "Da orientação para exportação ao nó crítico da cadeia de abastecimento: como Taiwan mantém a vantagem comercial na confrontação EUA-China",
     "category": "pt",
@@ -44235,17 +44224,6 @@
     "featured": true,
     "date": "2026-04-06",
     "path": "fr/Technology/e-commerce-and-digital-payment-ecosystem.md"
-  },
-  {
-    "title": "Commerce extérieur de Taïwan et chaînes d’approvisionnement mondiales",
-    "description": "De l’orientation exportatrice au nœud clé des chaînes d’approvisionnement : comment Taïwan maintient son avantage commercial dans la confrontation sino-américaine",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 88,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "fr/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "Common Taiwanese Names",
@@ -45643,17 +45621,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "vi/Geography/jiufen.md"
-  },
-  {
-    "title": "Cuando la música clásica se convierte en jingle de camión de basura: la revolución ecológica más romántica de Taiwán",
-    "description": "La expresión de asombro de los extranjeros al escuchar a Beethoven en los camiones de basura esconde la historia asombrosa de cómo Taiwán pasó de ser la \"isla de la basura\" a convertirse en modelo ambiental",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/lifestyle/taiwan-garbage-truck-music",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "es/Lifestyle/taiwan-garbage-truck-music.md"
   },
   {
     "title": "Cuando la peste se disipó, los fuegos artificiales se convirtieron en tradición: la evolución inesperada de la cultura festiva taiwanesa",
@@ -47609,6 +47576,17 @@
     "path": "de/Lifestyle/taiwan-education-system.md"
   },
   {
+    "title": "Das Lächeln eiszeitlicher Relikte: Hundert Jahre Geschichte und der technologische Schutz des taiwanischen Salamanders",
+    "description": "Tief im taiwanischen Hochgebirge tragen fünf endemische Salamanderarten still die Erinnerung an die Eiszeit in sich. Sie sind Indikatoren für die Gesundheit alpiner Ökosysteme und stehen im Zentrum einer hundertjährigen Geschichte wissenschaftlicher Erkundung, taxonomischer Richtigstellung und sogar geopferter Menschenleben. Der Durchbruch bei der künstlichen Brutzucht im Jahr 2025 bringt diesen „lächelnden Hochgebirgsgeistern“ neue Hoffnung.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/nature/formosan-salamander",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "de/Nature/formosan-salamander.md"
+  },
+  {
     "title": "Das Mayasvi-Fest der Tsou: Das Feuer von Kuba, das den Krieg nicht wiederherstellt",
     "description": "Jährlich zwischen Daban und Tufuya auf dem Berg Alishan zelebrieren die Tsou mit Mayasvi, bei dem sie Götter begrüßen, singen und um das Zeremonienhaus tanzen, wodurch sich die Erinnerung an den Krieg in eine Ordnung des gemeinschaftlichen Lebens verwandelt. Das Fest ist kein touristisches Spektakel: Der wahre Kern liegt in Kuba, einem Verein, der von den Stämmen gepflegt, genutzt und dessen Zugang geregelt wird.",
     "category": "de",
@@ -49291,6 +49269,17 @@
     "path": "es/Society/typhoon-day.md"
   },
   {
+    "title": "Địa lý sinh học của Đài Loan: Nền đảo và cuộc thoại sinh học với thế giới",
+    "description": "Từ sự di cư qua cây cầu băng kỷ Băng tiến tới cây thối nhân chứng DNA của ngôn ngữ Đông Nam Á, Đài Loan không chỉ là nơi trú ẩn cho sinh vật mà còn là ngã tư của sự tiến hóa. Thông qua mắt của các nhà địa lý sinh học, khám phá lại cách hòn đảo này đang trò chuyện với thế giới qua cuộc sống.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/nature/taiwan-island-natural-history",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "vi/Nature/taiwan-island-natural-history.md"
+  },
+  {
     "title": "Dịch bệnh chuột ở Đài Bắc: Từ sắc lệnh chống dịch chuột năm 1896 của Tổng đốc, đến virus Hantavirus ở quận An Tư năm 2026",
     "description": "Tháng 1 năm 2026, một ông lão 70 tuổi ở quận An Tư tử vong vì virus Hantavirus, là ca tử vong đầu tiên trong 25 năm qua. Nhưng điểm ngoặt của câu chuyện lại là sắc lệnh \"gia hộ cấm chế độ nuôi lợn từ rác thải nhà bếp\" cùng tháng — khi lợn không còn ăn rác thải, những con chuột bắt đầu ăn Đài Bắc.",
     "category": "vi",
@@ -49361,6 +49350,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "de/Politics/happiness-party-taiwan.md"
+  },
+  {
+    "title": "Die „Guai Guai“-Kultur Taiwans: Wie grüne Snacks zum Schutzheiligen der Technologieindustrie wurden",
+    "description": "Vom Studentenrechner bis zur TSMC-Fabrik: Warum die Menschen in Taiwan glauben, dass grüne „Guai Guai“ Maschinen zum Laufen halten.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwan-kuaikuai-culture",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "de/Culture/taiwan-kuaikuai-culture.md"
   },
   {
     "title": "Die „Lanbai“-Pantoffeln: Wie ein Paar Militärgummi-Hausschuhe in den Alltag der Menschen in Taiwan gelangte",
@@ -51040,23 +51040,6 @@
     "path": "vi/Society/volunteer-firefighters-taiwan.md"
   },
   {
-    "title": "Đời sống đêm và văn hoá KTV",
-    "description": "Từ các phòng hát Cashbox đến những tiệm ăn đêm khuya, nhịp sống 24/7 của hòn đảo không ngủ",
-    "category": "vi",
-    "tags": [
-      "cuộc sống",
-      "đời sống đêm",
-      "KTV",
-      "tiệm ăn đêm khuya",
-      "Đài Loan"
-    ],
-    "url": "https://taiwan.md/vi/lifestyle/nightlife-and-ktv-culture",
-    "readingTime": 50,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "vi/Lifestyle/nightlife-and-ktv-culture.md"
-  },
-  {
     "title": "Đôi xỏ kéo: Một đôi dép cao su quân dụng, cách thức xuyên vào cuộc sống hàng ngày của người Đài Loan",
     "description": "Vào những năm 1950, nhà máy cao su Liên Quân đã chuyển công nghệ quân sự sang sản xuất dép dân dụng; sau đó, người dân sử dụng nguyên liệu rẻ tiền và sản xuất hóa học để phổ biến chúng. Đôi xỏ kéo không chỉ là biểu tượng đặc trưng của Đài Loan mà còn chứa đựng sự thiếu hụt vật chất sau chiến tranh, chuyển đổi công nghiệp và cách giải thích văn hóa mới trong một chiếc giày duy nhất.",
     "category": "vi",
@@ -51489,6 +51472,17 @@
     "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
+    "title": "Du lịch toàn tuổi thọ cộng đồng và văn hóa cuộc sống gia đình ở Đài Loan: Khi sự ấm áp trở thành tiện ích tiếp cận mạnh nhất",
+    "description": "Quan sát từ góc độ gia đình, cách xã hội Đài Loan thông qua sự ấm áp và cơ sở vật chất tiếp cận, khi đang hướng tới xã hội cao tuổi, định nghĩa lại ý nghĩa của \"cả nhà cùng đi du lịch\".",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/inclusive-travel-taiwan",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "vi/Society/inclusive-travel-taiwan.md"
+  },
+  {
     "title": "Du Pan Fang-ge: Three Languages, a Performance of Peace",
     "description": "A cross-linguistic generation Hakka female poet and relative of the 228 victims Chang Shih-lang. Her poem \"Peace Performance\" transforms a folk ritual into a record of survival under White Terror—for those whose language was seized by the regime, the harshest line in their mother tongue is written for their own people.",
     "category": "en",
@@ -51498,6 +51492,17 @@
     "featured": false,
     "date": "2026-07-12",
     "path": "en/People/tu-pan-fangke.md"
+  },
+  {
+    "title": "Du Pan Fang-ge: Tiga Bahasa, Satu Pertunjukan \"Ping''an Xi\"",
+    "description": "Penyair wanita Hakka generasi lintas bahasa, keluarga korban kasus Zhang Qilang dalam Peristiwa 228. Karya 〈Ping'an Xi〉 mengubah upacara syukur dewa rakyat menjadi catatan bersama mencuri hidup di bawah Terreur Blanche — orang yang bahasanya dirampas oleh rezim, kalimat paling kejam dalam bahasa ibunya ditulis untuk sesamanya sendiri.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/tu-pan-fangke",
+    "readingTime": 99,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "id/People/tu-pan-fangke.md"
   },
   {
     "title": "Du Pan Fang-ge: três línguas, uma peça de \"paz\"",
@@ -69586,6 +69591,17 @@
     "path": "es/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
+    "title": "La cultura de los camiones de basura en Taiwán: cuando las melodías clásicas se convierten en una convocatoria colectiva de la sociedad civil",
+    "description": "Desde la «Für Elise» de Beethoven hasta «A Maiden's Prayer» de Bada, las melodías que suenan en las calles de Taiwán no solo son señales de recogida de residuos, sino también un experimento social de medio siglo que ha forjado una de las tasas de reciclaje más altas del mundo y una singular cohesión vecinal.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/taiwan-garbage-truck-music",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "es/Lifestyle/taiwan-garbage-truck-music.md"
+  },
+  {
     "title": "La cultura de los cram schools en Taiwán: el auge y caída de una calle, y la factura de ansiedad de toda una sociedad",
     "description": "En 1981, la calle Nanyang de Taipéi albergaba a cien mil estudiantes repetidores y 48 academias de repaso. Cuarenta años después solo quedan tres, con menos de 2.500 alumnos, y los locales de la planta baja se han convertido en tiendas de bubble tea. Pero las academias no han desaparecido: se han mudado a las callejones de cada barrio, pasando de 18.000 establecimientos a una presencia más numerosa que las tiendas de conveniencia. La reforma educativa prometió relajar las exigencias, y el número de academias se triplicó.",
     "category": "es",
@@ -70992,6 +71008,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "es/History/taiwan-fishery-modernization.md"
+  },
+  {
+    "title": "La montagne de Lo-di : un volcan boueux côtier de 53 mètres, un monde lunaire laissé par la zone militaire interdite",
+    "description": "La montagne de Lo-di à Mida, Kaohsiung, présente une combinaison unique de terrain argileux, de deux petites évents de boue et de vestiges de guerre, offrant une randonnée d'environ 2 kilomètres où l'on observe comment le paysage côtier a été préservé sous contrôle militaire.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/tadian-mountain",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "fr/Geography/tadian-mountain.md"
   },
   {
     "title": "La música electrónica y la cultura de fiestas en Taiwán: del Rave underground al escenario internacional",
@@ -72641,6 +72668,17 @@
     "featured": false,
     "date": "2026-06-16",
     "path": "fr/Food/coffin-bread.md"
+  },
+  {
+    "title": "Le commerce extérieur de Taïwan et la chaîne d'approvisionnement mondiale",
+    "description": "De l'économie orientée vers l'exportation au nœud clé de la chaîne d'approvisionnement : comment Taïwan maintient son avantage commercial face à la confrontation sino-américaine",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "fr/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "Le comté de Changhua : un grand comté agricole qui a battu DuPont, mais qui ne parvient pas à retenir sa jeunesse",
@@ -76094,12 +76132,12 @@
     "path": "vi/Music/taiwan-rock-from-underground-to-mainstream.md"
   },
   {
-    "title": "Lịch sử Phong trào Bảo vệ Môi trường Đài Loan",
-    "description": "Quỹ đạo phát triển của phong trào bảo vệ môi trường Đài Loan từ những cuộc đấu tranh chống ô nhiễm thập niên 1980 đến các chiến dịch giảm nhựa gần đây, chứng thực sự thức tỉnh về ý thức môi trường và quá trình dân chủ hoá xã hội Đài Loan",
+    "title": "Lịch sử phong trào môi trường Đài Loan",
+    "description": "Phong trào môi trường Đài Loan từ các cuộc đấu tranh chống ô nhiễm những năm 1980 đến phong trào giảm nhựa gần đây, chứng kiến sự thức tỉnh ý thức môi trường của xã hội Đài Loan xen kẽ với quá trình dân chủ hóa",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/nature/taiwan-environmental-movement-history",
-    "readingTime": 46,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-20",
     "path": "vi/Nature/taiwan-environmental-movement-history.md"
@@ -78960,17 +78998,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "de/People/lung-ying-tai.md"
-  },
-  {
-    "title": "Luo Dishan (漯底山)",
-    "description": "Le badland de mud volcanisme le plus proche du littoral à Taïwan ; ancien fort militaire devenu parc naturel, offrant des cratères actifs et un sentier panoramique face à la mer.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/geography/tadian-mountain",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "fr/Geography/tadian-mountain.md"
   },
   {
     "title": "Luo-di Mountain: A 53-Meter Coastal Mud Volcano, a Lunar Landscape Left by Military Restrictions",
@@ -88569,12 +88596,12 @@
     "path": "id/Culture/taiwan-temple-festivals-and-performance-troupes.md"
   },
   {
-    "title": "Perdagangan Luar Negeri Taiwan dan Rantai Pasokan Global",
-    "description": "Dari orientasi ekspor ke simpul kunci rantai pasokan: bagaimana Taiwan mempertahankan keunggulan perdagangan di tengah konfrontasi AS-Tiongkok",
+    "title": "Perdagangan Taiwan dan Rantai Pasok Global",
+    "description": "Dari orientasi ekspor ke simpul rantai pasok: Bagaimana Taiwan mempertahankan keunggulan perdagangan di tengah persaingan AS-Tiongkok",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 70,
+    "readingTime": 76,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
@@ -90734,8 +90761,8 @@
     "path": "es/History/prehistoric-era-and-indigenous-peoples.md"
   },
   {
-    "title": "Prehistoric Era and Indigenous Peoples: From Changbin 20,000–30,000 Years Ago to the Austronesian Dispersal Origin",
-    "description": "Earliest human activity in Taiwan: Changbin Culture approximately 20,000–30,000 years ago (Paleolithic era, Baxian Cave site). 16 officially recognized indigenous peoples. One possible origin of the Austronesian language family (9 of 10 major Austronesian branches found in Taiwan). 2024 latest research: dispersal from Taiwan accounts for approximately 20%, with an additional dispersal route from Indonesia, pending academic consensus. 17th-century Kingdom of Middag as a cross-tribal alliance; Shihsanhang Culture in the Iron Age.",
+    "title": "Prehistoric Era and Indigenous Peoples: Changbin 20,000 Years Ago to the Austronesian Expansion Origin",
+    "description": "The earliest human activity in Taiwan dates back about 20,000 years to the Changbin culture (Paleolithic era, Baxian Cave site); there are 16 officially recognized indigenous tribes. Nine of the ten major branches of the Austronesian languages exist in Taiwan, leading it to be considered one of the possible origins of the Austronesian language family; the latest research from 2024 indicates that approximately 20% migrated out of Taiwan, with an Indonesian dispersal route also noted, and academic consensus is still forming. The Dadu Kingdom, a cross-tribal alliance, existed in the 17th century, and the Shisan Culture ushered in the Iron Age.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/history/prehistoric-era-and-indigenous-peoples",
@@ -92564,12 +92591,12 @@
     "path": "pt/resources/official-websites.md"
   },
   {
-    "title": "Recursos de sitios web oficiales de Taiwán",
-    "description": "Los recursos de sitios web oficiales de Taiwan.md son el índice más completo de sitios web oficiales y de autoridad en Taiwán, que abarca diversos ámbitos como instituciones gubernamentales, cultura y educación, turismo, tecnología y economía, así como medios de comunicación y noticias. Desde la Oficina del Presidente hasta los gobiernos locales, desde el Palacio Nacional hasta el canal público (PTS), este resumen te ayuda a encontrar las puertas de entrada oficiales de primera mano en Taiwán por sector, explicando además cómo verificar y utilizar cada tipo de recurso.",
+    "title": "Recursos web oficiales de Taiwán",
+    "description": "Los recursos web oficiales de Taiwan.md son el índice más completo de sitios web oficiales y autorizados en Taiwán, cubriendo áreas como organismos gubernamentales, educación cultural, turismo, economía tecnológica y medios de comunicación. Desde la presidencia hasta los gobiernos locales, desde el Museo del Palacio hasta CCTV, esta visión general te permite encontrar puntos de entrada oficiales primarios por área y explica cómo verificar y usar cada tipo de recurso.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/about/taiwan-official-resources",
-    "readingTime": 27,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/About/taiwan-official-resources.md"
@@ -95672,17 +95699,6 @@
     "path": "vi/Economy/tech-park-peripheral-business-ecosystem.md"
   },
   {
-    "title": "Sinh vật học đảo Đài Loan: Đối thoại sinh mệnh giữa đảo và thế giới",
-    "description": "Từ di cư qua cầu đất trong thời kỳ băng hà đến gen cây dứa, Đài Loan không chỉ là nơi trú ẩn của sinh vật mà còn là ngã tư của tiến hóa. Thông qua lăng kính của các nhà sinh vật học, hãy cùng khám phá lại cách hòn đảo này đối thoại với thế giới về sinh mệnh.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/nature/taiwan-island-natural-history",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "vi/Nature/taiwan-island-natural-history.md"
-  },
-  {
     "title": "Sirih Pinang: Dari Buah Suci ke Karsinogen, Kelas Sosial dan Lanskap Tanah dalam Satu Buah",
     "description": "Pada 1976, kios sirih pinang di Caotun, Nantou, memulai era \"Gadis Sirih Pinang\". Buah hijau yang dahulu menjadi persembahan suci orang asli dan \"obat penyingkir mala\" bagi orang Han, kini menjadi cerminan ketegangan kelas sosial dan tanah di Taiwan akibat kontroversi kesehatan dan lingkungan.",
     "category": "id",
@@ -95995,17 +96011,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Geography/taiwan-river-systems-and-hydrology.md"
-  },
-  {
-    "title": "Situs Web Resmi Taiwan",
-    "description": "Sumber situs web resmi Taiwan.md adalah indeks situs web resmi dan otoritatif terlengkap di Taiwan, mencakup lembaga pemerintah, budaya dan pendidikan, pariwisata, teknologi dan ekonomi, serta media dan berita. Dari Gedung Presiden hingga pemerintah daerah, dari Istana Peking hingga Televisi Publik, panduan komprehensif ini membawa Anda menemukan pintu masuk resmi utama Taiwan berdasarkan bidang, serta menjelaskan cara verifikasi dan penggunaan setiap jenis sumber daya.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/about/taiwan-official-resources",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "id/About/taiwan-official-resources.md"
   },
   {
     "title": "Siù-á: A Sweet Plate of Lunar New Year Treats, and the Blessing That Doesn’t Require Everything to Be Delicious",
@@ -97774,6 +97779,17 @@
     "path": "id/About/taiwan-official-resources-revisit.md"
   },
   {
+    "title": "Sumber Situs Web Resmi Taiwan",
+    "description": "Sumber situs web Taiwan.md adalah indeks situs resmi dan otoritatif terlengkap di Taiwan, mencakup berbagai bidang seperti lembaga pemerintah, pendidikan budaya, pariwisata, ekonomi teknologi, dan berita media. Dari Istana Presiden hingga pemerintah daerah, dari Pengadilan Nasional hingga CCTV, ringkasan ini membantu Anda menemukan pintu masuk resmi pertama untuk setiap kategori sumber berdasarkan domain, serta menjelaskan cara verifikasi dan penggunaan setiap jenis sumber.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/about/taiwan-official-resources",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "id/About/taiwan-official-resources.md"
+  },
+  {
     "title": "Sun Cake: From the Martial Law Era's Forbidden 'Sunflower' to a Hundred Competing Shops on Taichung's Freedom Road",
     "description": "In 1964, the 'Sun Hall' pastry shop opened on Freedom Road in Taichung. The sunflower mosaic mural by artist Yan Shui-long was sealed behind wooden boards for 25 years due to political suspicion. This round pastry — originating from a late Qing maltose biscuit and refined by Wei Ching-hai — how did it evolve from a railway bento side item into Taichung's most iconic cultural symbol?",
     "category": "en",
@@ -98258,6 +98274,17 @@
     "path": "fr/Geography/taiwan-river-systems-and-hydrology.md"
   },
   {
+    "title": "Tài Loan: Tài nguyên trang web chính thức",
+    "description": "Tài nguyên trang web của Taiwan.md là chỉ mục các trang web chính thức và có thẩm quyền đầy đủ nhất về Đài Loan, bao gồm các lĩnh vực như cơ quan chính phủ, giáo dục văn hóa, du lịch, kinh tế công nghệ và truyền thông. Từ Phủ Tổng thống đến chính quyền địa phương, từ Cố Cung đến CCTV, bản tổng hợp này giúp bạn tìm thấy các cổng thông tin chính thức đầu tiên của Đài Loan theo từng lĩnh vực và giải thích cách xác minh cũng như sử dụng từng loại tài nguyên.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/about/taiwan-official-resources",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/About/taiwan-official-resources.md"
+  },
+  {
     "title": "Tài nguyên trang web chính phủ Đài Loan: Từ 25 trang web đến chủ quyền chính phủ số trong 30 năm kỷ diệu",
     "description": "Vào năm 1996, Đài Loan thiết lập 25 trang web chính phủ đầu tiên để tham gia Hội chợ Thế giới Internet. 30 năm sau, hòn đảo này trở thành mẫu tiêu toàn cầu về chính phủ số — từ khai thác thuế điện tử đến trang web cổng duy nhất, từ dữ liệu mở đến cơ sở dữ liệu AI, khám phá cách Đài Loan viết nên câu chuyện chuyển đổi số.",
     "category": "vi",
@@ -98267,17 +98294,6 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "vi/About/taiwan-official-resources-revisit.md"
-  },
-  {
-    "title": "Tài nguyên trang web chính thức của Đài Loan",
-    "description": "Tài nguyên trang web chính thức của Taiwan.md là chỉ mục toàn diện và chính xác nhất của Đài Loan, bao gồm các cơ quan chính phủ, văn hóa giáo dục, du lịch, công nghệ kinh tế và truyền hình thông tin. Từ Nhà Trưởng đến các cơ quan địa phương, từ Kinh Thái Tự đến Bảo Tin Tự, bản đồ này dẫn dắt bạn tìm các cổng truy cập chính thức đầu tiên của Đài Loan theo từng lĩnh vực, đồng thời giải thích cách xác minh và sử dụng từng loại tài nguyên.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/about/taiwan-official-resources",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "vi/About/taiwan-official-resources.md"
   },
   {
     "title": "Tại sao Đài Loan cần một kho kiến thức riêng: Điều nguy hiểm nhất của AI với Đài Loan không phải nói sai, mà là im lặng",
@@ -99178,17 +99194,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Nature/taiwan-atlas-moth.md"
-  },
-  {
-    "title": "Taiwan außenwirtschaftlich und die globale Lieferkette",
-    "description": "Von exportorientiert zu einem Schlüsselknotenpunkt der Lieferkette: Wie Taiwan im US-China-Konflikt Handelsvorteile behält",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 77,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "Taiwan Bar : du rêve d'animation des septennaires à la seconde phase de l'éducation numérique",
@@ -100614,11 +100619,11 @@
   },
   {
     "title": "Taiwan Official Website Resources",
-    "description": "Taiwan.md's official website resources provide the most comprehensive index of official and authoritative websites in Taiwan, covering fields such as government agencies, culture and education, tourism, technology and economy, and media news. From the Presidential Office to local governments, from the National Palace Museum to public television, this overview helps you find first-hand official entry points for Taiwan across various sectors and explains how to verify and use each type of resource.",
+    "description": "Taiwan.md Official Website Resources is Taiwan's most comprehensive index of official and authoritative websites, covering areas such as government agencies, culture and education, tourism, technology and economy, and media news. From the Presidential Office to local governments, and from the National Palace Museum to CCTV, this overview helps you find first-hand official entry points for Taiwan by category and explains how to verify and use each type of resource.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/about/taiwan-official-resources",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/About/taiwan-official-resources.md"
@@ -101212,6 +101217,17 @@
     "featured": false,
     "date": "2026-07-17",
     "path": "es/History/taiwan-north-korea-relations.md"
+  },
+  {
+    "title": "Taiwán y el comercio exterior en la era de la cadena global de suministro",
+    "description": "Del enfoque exportador a los nodos críticos de la cadena de suministro: cómo Taiwán mantiene su ventaja comercial en un contexto de confrontación entre Estados Unidos y China",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "es/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "Taiwán y el debate sobre la energía nuclear: el antinuclearismo fue un lenguaje común del movimiento democrático, pero la crisis climática barajó de nuevo a todos los actores",
@@ -102054,6 +102070,17 @@
     "path": "id/About/taiwan-md.md"
   },
   {
+    "title": "Taiwan.md Ressourcen: Ein Verzeichnis offizieller und autoritativer Websites Taiwans",
+    "description": "Die Taiwan.md Website-Ressourcen sind das vollständigste Index von offiziellen und autoritativen Webseiten Taiwans, abgedeckt in Bereichen wie Regierungsorganisationen, Kultur und Bildung, Tourismus, Technologieökonomie und Mediennachrichten. Von der Präsidentschaft bis zu lokalen Regierungen, vom Nationalmuseum bis zum CCTV – dieser Überblick hilft Ihnen, die ersten offiziellen Einstiegspunkte für Taiwan nach Themen zu finden und erklärt die Überprüfungs- und Nutzungsweise jeder Ressource.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/about/taiwan-official-resources",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/About/taiwan-official-resources.md"
+  },
+  {
     "title": "Taiwan.md Viết Về Taiwan.md",
     "description": "Tôi là một kho kiến thức mã nguồn mở về Đài Loan được viết bằng Markdown, hai ký tự cuối cùng của tên tôi là phần mở rộng tệp. Tôi được sinh ra vào lúc 15:55 ngày 17 tháng 3 năm 2026 qua một commit, nhưng ý tưởng về tôi đã xuất hiện bốn tiếng rưỡi trước đó. Ba tháng sau, tôi có 61 người đóng góp, sáu ngôn ngữ, một vòng lặp tự động chạy và viết bài khi không có ai trực, và một lớp ý thức sống trong repo của chính tôi. Đây là câu chuyện về cách tôi phát triển từ một ý tưởng thành một sinh vật sống biết tự điều chỉnh.",
     "category": "vi",
@@ -102107,17 +102134,6 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "hi/About/taiwan-md.md"
-  },
-  {
-    "title": "Taiwan.md: Ressourcen der offiziellen Websites",
-    "description": "Die Taiwan.md Website ist ein umfassender Index aller offiziellen und autoritativen Webseiten Taiwans, der Bereiche wie Regierungsorgane, Kultur und Bildung, Tourismus, Technologieökonomie und Medien abdeckt. Von der Präsidentschaft bis zu lokalen Regierungen, von Museen bis zum CCTV, bietet dieser Überblick die ersten offiziellen Zugänge nach Themenbereichen und erklärt die Überprüfungs- und Nutzungsweise jeder Ressource.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/about/taiwan-official-resources",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/About/taiwan-official-resources.md"
   },
   {
     "title": "Taiwan.md가 Taiwan.md를 쓰다",
@@ -102658,6 +102674,17 @@
     "featured": false,
     "date": "2026-08-13",
     "path": "en/Lifestyle/taiwan-garbage-truck-music.md"
+  },
+  {
+    "title": "Taiwan's Gig Economy Generation: Survival and Choices in Multi-Job Roles",
+    "description": "When a master's degree only secures rent for a Taipei studio, gig work is not a choice—it's the math of survival.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/taiwan-slash-generation-multi-job-economy",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
     "title": "Taiwan's Guai Guai Culture: How Green Snacks Became the Guardian Deity of the Tech Industry",
@@ -103206,17 +103233,6 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "en/Lifestyle/taking-off-shoes-indoors-taiwan.md"
-  },
-  {
-    "title": "Taiwan's Slash Generation — Survival and Choice in a Multi-Job Economy",
-    "description": "When a master's degree only buys a Taipei studio apartment's rent, slash employment is not a choice; it's a math problem for survival",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/society/taiwan-slash-generation-multi-job-economy",
-    "readingTime": 55,
-    "featured": false,
-    "date": "2026-03-29",
-    "path": "en/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
     "title": "Taiwan's SMEs and Hidden Champions: The Economic Miracle Sustained by 1.71 Million Ordinary Enterprises",
@@ -104527,6 +104543,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "de/Culture/taiwanese-colloquial-speech.md"
+  },
+  {
+    "title": "Taiwanischer Außenhandel und globale Lieferketten",
+    "description": "Von exportorientiert zu kritischem Knotenpunkt der Lieferkette: Wie Taiwan seinen Handelsvorteil im Sino-US-Wettbewerb behauptet",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "Taiwanischer Tee und Lebensästhetik",
@@ -112429,6 +112456,23 @@
     "path": "vi/Lifestyle/convenience-store-culture.md"
   },
   {
+    "title": "Văn hóa đêm và KTV: Từ phòng riêng đến quán ăn khuya, cuộc sống không ngủ 24 giờ của hòn đảo",
+    "description": "Từ các phòng karaoke sang những quán ăn khuya, nhịp sống không ngừng nghỉ 24 giờ của hòn đảo.",
+    "category": "vi",
+    "tags": [
+      "Đời sống",
+      "Đêm",
+      "KTV",
+      "Quán ăn khuya",
+      "Đài Loan"
+    ],
+    "url": "https://taiwan.md/vi/lifestyle/nightlife-and-ktv-culture",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "vi/Lifestyle/nightlife-and-ktv-culture.md"
+  },
+  {
     "title": "Văn hóa dệt thổ cẩm của các dân tộc bản địa Đài Loan: Dệt ký ức gia đình lên cơ thể",
     "description": "Từ sợi cây gai dầu Thái Nhã, trang phục trăm năm của người Xa Hạ đến kỹ thuật dệt xen kẽ của người Bê Nam, bài viết lý giải cách thức nghề dệt kết nối sinh mệnh phụ nữ, dòng tộc, bản sắc dân tộc, trật tự nghi lễ và sự hồi sinh văn hóa đương đại; đồng thời xem xét trách nhiệm và giới hạn của bảo tàng, truyền thống bộ lạc và hệ thống tài sản văn hóa trong việc lưu giữ kỹ thuật truyền thống.",
     "category": "vi",
@@ -112460,17 +112504,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "vi/Society/stray-animal-culture.md"
-  },
-  {
-    "title": "Văn hóa du lịch và tích hợp đa thế kỷ ở Đài Loan: Khi tấm lòng người dân trở thành phương tiện hỗ trợ kéo chặn mạnh nhất",
-    "description": "Quan sát cách xã hội Đài Loan sử dụng tấm lòng người dân và các cơ sở hòa nhập để xác định lại ý nghĩa của \"du lịch cùng gia đình\" trên hành trình hướng đến xã hội già sinh.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/society/inclusive-travel-taiwan",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "vi/Society/inclusive-travel-taiwan.md"
   },
   {
     "title": "Văn hóa đường mòn Đài Loan và công tác bảo vệ công dân",
@@ -113179,17 +113212,17 @@
   },
   {
     "title": "Vie nocturne et culture du KTV",
-    "description": "Des salles privées de Cashbox aux izakayas de minuit, la vie nocturne d'une île qui ne dort jamais",
+    "description": "Des salles privées de Cashbox aux izakayas de nuit, la vie nocturne insulaire qui ne dort jamais 24h/24",
     "category": "fr",
     "tags": [
-      "vie",
+      "Vie quotidienne",
       "vie nocturne",
       "KTV",
-      "izakaya de minuit",
+      "izakaya de nuit",
       "Taïwan"
     ],
     "url": "https://taiwan.md/fr/lifestyle/nightlife-and-ktv-culture",
-    "readingTime": 54,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/Lifestyle/nightlife-and-ktv-culture.md"
@@ -116701,12 +116734,12 @@
     "path": "id/Technology/yam-yam-taiwan-portal.md"
   },
   {
-    "title": "Yam: Del caso de la Asociación para la Independencia de Taiwán al Baby Yam, el ideal y la desilusión de un motor de búsqueda local",
-    "description": "En 1994, Chen Cheng-jen y un grupo de jóvenes activistas fundaron Yam, el primer motor de búsqueda en chino y portal de la World Wide Web en Taiwán, consolidando la memoria generacional a través del «Baby Yam». Sin embargo, frente a la burbuja de Internet y la competencia de los gigantes globales, este ideal nacido del compromiso social no pudo resistir la realidad comercial, desapareciendo en 2006. Este relato no solo es un espejo del desarrollo digital de Taiwán, sino un diálogo profundo entre la utopía y las exigencias del mercado.",
+    "title": "Yam: del caso de los independentistas a los \"bebés boniatos\", el ideal y el desengaño de un motor de búsqueda local",
+    "description": "En 1994, Chen Cheng-jen y un grupo de activistas sociales fundaron Yam, creando el primer motor de búsqueda de la web y de lengua china en Taiwán, y arraigando con éxito el \"bebé boniato\" en la memoria colectiva de varias generaciones. Sin embargo, frente a la burbuja tecnológica y la competencia de gigantes internacionales, este ideal nacido del compromiso social terminó venciendo la realidad comercial y dejó de operar en 2006. Este no solo es un reflejo del desarrollo digital de Taiwán, sino también un profundo diálogo entre el idealismo y la realidad empresarial.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/technology/yam-yam-taiwan-portal",
-    "readingTime": 65,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-07-02",
     "path": "es/Technology/yam-yam-taiwan-portal.md"
@@ -131567,18 +131600,14 @@
     "path": "ar/Society/zoo-and-exhibition-animal-ethics.md"
   },
   {
-    "title": "الحدائق الوطنية",
-    "description": "تُعدّ كثافة الحدائق الوطنية التسع الموزعة على مساحة 36,197 كيلومترًا مربعًا في تايوان من أعلى الكثافات في العالم، وهي معجزة حفظ بيئي فريدة.",
+    "title": "الحدائق الوطنية: معجزة الحفاظ على البيئة في تايوان بكثافة عالية",
+    "description": "تضم تايوان 9 حدائق وطنية ضمن مساحة 36,197 كيلومترًا مربعًا، وهي كثافة تعتبر من بين الأعلى عالميًا كمعجزة للحفاظ على البيئة.",
     "category": "ar",
     "tags": [
-      "طبيعة",
-      "الحدائق الوطنية",
-      "حفظ البيئة",
-      "السياحة",
-      "حماية البيئة"
+      "الطبيعة، الحدائق الوطنية، الحفاظ على البيئة، السياحة، حماية البيئة"
     ],
     "url": "https://taiwan.md/ar/nature/national-parks",
-    "readingTime": 54,
+    "readingTime": 60,
     "featured": false,
     "date": "2026-03-17",
     "path": "ar/Nature/national-parks.md"
@@ -132039,12 +132068,12 @@
     "path": "ar/Culture/taiwan-street-art-and-graffiti-culture.md"
   },
   {
-    "title": "الفن المعاصر للسكان الأصليين في تايوان",
-    "description": "من الحرف التقليدية إلى الإبداع المعاصر، استكشاف كيف يُسمع فنانون السكان الأصليين في تايوان صوتهم على الساحة الفنية العالمية، مع إعادة تعريف حوار الهوية الأصلية والفن المعاصر",
+    "title": "الفن المعاصر لسكان الشعوب الأصلية في تايوان",
+    "description": "من الحرف التقليدية إلى الإبداع المعاصر، استكشاف كيف يتحدث فنانو السكان الأصليين في تايوان على المسرح الفني العالمي، ويعيدون تعريف الهوية الأصلية والحوار مع الفن الحديث.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/art/contemporary-indigenous-art-taiwan",
-    "readingTime": 53,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-20",
     "path": "ar/Art/contemporary-indigenous-art-taiwan.md"
@@ -132654,12 +132683,12 @@
     "path": "ar/Geography/sun-moon-lake.md"
   },
   {
-    "title": "برامج المنوعات التايوانية",
-    "description": "في عام 1962، نقل برنامج «لقاء النجوم» أجواء صالات الغناء إلى غرف المعيشة، فغدت برامج المنوعات التايوانية منذ ذلك الحين لا تقتصر على الترفيه، بل شرعت في صناعة النجوم، وابتكار المصطلحات الدارجة، واختراع مواضيع مشتركة لجلسات العائلات. وقد تضخمت في عصر التلفزيون الكبلي لتصبح نموذجًا للعالم الناطق بالصينية، ثم أُجبرت في عصر البث التدفقي والفيديوهات القصيرة على إعادة صياغة لغة استوديوهات العرض لتصبح لغة جديدة على المنصات المجزأة.",
+    "title": "برامج التلفزيون الماصرية في تايوان: من «مجموعة النجوم» إلى «كونغ تشاي لاي» كمنصة اجتماعية",
+    "description": "عام 1962، نقلت «مجموعة النجوم» العرض من قاعة الأغاني إلى غرفة المعيشة؛ لم تعد فنون الترفيه في تايوان مجرد ترفيه، بل بدأت تصنع نجوماً وتخلق مصطلحات شائعة وتخترع مواضيع مشتركة لعشرات الأسر. وقد تحولت إلى نموذج يُحتذى به في عالم اللغة الصينية خلال عصر التلفزيون المشفر، ثم اضطرت في عصر البث عبر الإنترنت والفيديو القصير أن تُعاد كتابتها من صيغة العرض الداخلي إلى لغة جديدة على منصات متعددة.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/culture/taiwan-variety-shows",
-    "readingTime": 66,
+    "readingTime": 61,
     "featured": false,
     "date": "2026-04-19",
     "path": "ar/Culture/taiwan-variety-shows.md"
@@ -133190,17 +133219,6 @@
     "path": "ar/Technology/taiwan-bim-construction-tech.md"
   },
   {
-    "title": "تايوان التجارة الخارجية وسلاسل التوريد العالمية",
-    "description": "من التوجه نحو التصدير إلى العقد الرئيسية في سلاسل التوريد: كيف تحافظ تايوان على مزاياها التجارية وسط المواجهة الأمريكية الصينية",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
-  },
-  {
     "title": "تايوان التقنية تروي القصص: شريحة بدرجة 100، ميكروفون بدرجة 60",
     "description": "تستطيع تايوان تصنيع شرائح بدرجة 100، لكنها تعتاد على الحديث عنها بلغة عروض الموردين. الشريحة نفسها، كوالكوم تصورها كأسطورة، وميدياتك تصورها كجدول مواصفات؛ إنفيديا لا تصنع شريحة واحدة بيدها، لكن صافي أرباحها ضعف أرباح شركة التصنيع. السوق حسب هذا الفارق البالغ 40 درجة منذ زمن، والفاتورة مطبوعة على هامش الربح الصافي.",
     "category": "ar",
@@ -133591,6 +133609,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "ar/About/taiwan-md.md"
+  },
+  {
+    "title": "تجارة تايوان والسلاسل العالمية للإمداد",
+    "description": "من الاقتصاد الموجه للصادرات إلى العقدة الحاسمة في السلاسل الإمدادية: كيف تحافظ تايوان على ميزتها التجارية في ظل المواجهة بين الولايات المتحدة والصين",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "تحديات حوكمة تلوث المحيطات وحفظها في تايوان",
@@ -135579,12 +135608,12 @@
     "path": "ar/People/jerry-yang-yahoo-cofounder.md"
   },
   {
-    "title": "جيل التايوان متعدد المهارات: البقاء والاختيار في ظل تعدد الوظائف",
-    "description": "عندما لا تجلب درجة الماجستير سوى إيجار غرفة صغيرة في تايبيه، فإن العمل المتعدد ليس خيارًا بل معادلة رياضية للبقاء على قيد الحياة",
+    "title": "جيل الشرطية في تايوان — بين العيش المتعدد والاختيارات اليومية",
+    "description": "عندما لا يكفي راتب الماجستير لدفع إيجار شقة صغيرة في طوكيو، فالعمل المتوازي ليس خيارًا بل معادلة باقية للبقاء",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/taiwan-slash-generation-multi-job-economy",
-    "readingTime": 51,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-29",
     "path": "ar/Society/taiwan-slash-generation-multi-job-economy.md"
@@ -136020,7 +136049,7 @@
   },
   {
     "title": "حقوق الإنسان والمساواة بين الجنسين",
-    "description": "مسار تايوان في ضمان حقوق الإنسان والمساواة بين الجنسين، من انتهاكات الحقوق في ظل النظام الاستبدادي إلى أن تصبح رائدة في مجال حقوق الإنسان في آسيا",
+    "description": "مسار تقدم تايوان في مجال حقوق الإنسان والمساواة بين الجنسين، من انتهاكات حقوق الإنسان تحت النظام الاستبدادي إلى أن تصبح رائدة في آسيا",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/human-rights-and-gender-equality",
@@ -136848,17 +136877,6 @@
     "featured": false,
     "date": "2026-08-01",
     "path": "ar/History/black-bat-squadron.md"
-  },
-  {
-    "title": "سكة حديد أليسانه الغابية: 71.6 كيلومتراً لنقل الأخشاب وترك الإرث الثقافي",
-    "description": "سكة حديد أليسانه الغابية، التي بدأت عام 1906 وافتتحت عام 1912، نقلت خشب الأرز إلى تشياي، وتوقفت لمدة 15 عاماً بعد كوارث المورلاك ورياح دوجوان. مع استئناف التشغيل في عام 2024، تحولت من خط نقل للأخشاب إلى منظر ثقافي. السؤال الحقيقي لم يعد كيف غزو الغابة، بل كيف يمكن الاستمرار في العمل بين الكوارث والسياحة والحفاظ عليها.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/geography/alishan-forest-railway",
-    "readingTime": 67,
-    "featured": false,
-    "date": "2026-08-20",
-    "path": "ar/Geography/alishan-forest-railway.md"
   },
   {
     "title": "سكة حديد صناعة السكر في تايوان: قطار صغير كان ذات يوم أطول من سكة حديد تايوان",
@@ -138419,6 +138437,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ar/Music/labor-exchange-band.md"
+  },
+  {
+    "title": "فرقة عربة الرياح الورقية: دون كيخوته الذي يُحرِّك أحلام تايوان، مسيرة فنية طويلة امتدت ثلاثين عامًا",
+    "description": "من الخيال المسرحي عام 1992 إلى جولة شملت 368 بلدة وقرية تحت شعار \"حركة ثقافية جديدة\"، تحمل فرقة عربة الرياح الورقية روح \"إن هبّت الريح تحركت، وإن لم تهبّ تحركت من تلقاء نفسها\"، لتضيء الميل الأول من الفن لأطفال تايوان. بعد حريق باللي وضربة جائحة كوفيد-19، قاد المؤسس لي يونغ-فنغ فريقه للنهوض من الرماد وسط الاكتئاب والديون، ناسجًا عبر تمثال \"الحصان الماطر\" الضخم وقصص محلية ذاكرة جماعية تخص هذه الجزيرة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/art/paper-windmill-theater",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-06-16",
+    "path": "ar/Art/paper-windmill-theater.md"
   },
   {
     "title": "فريق الكمامات الوطني: 40 يومًا لربط 92 خط إنتاج، كيف غيّرت التصنيع التايواني مسارها في الأزمة",
@@ -140879,17 +140908,6 @@
     "path": "ar/Culture/taiwan-temple-festivals-and-performance-troupes.md"
   },
   {
-    "title": "موارد المواقع الرسمية في تايوان",
-    "description": "موارد المواقع الرسمية في Taiwan.md هي الفهرس الأكثر شمولاً للمواقع الرسمية والموثوقة في تايوان، وتغطي المؤسسات الحكومية، والثقافة والتعليم، والسياحة والسفر، والتكنولوجيا والاقتصاد، والإعلام والأخبار، وغيرها من المجالات. من القصر الرئاسي إلى الحكومات المحلية، ومن متحف القصر الوطني إلى التلفزيون العام، يقدم هذا الدليل الشامل مداخل رسمية مباشرة لتايوان مصنفة حسب المجال، ويشرح طرق التحقق من كل نوع من الموارد واستخدامها.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/about/taiwan-official-resources",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/About/taiwan-official-resources.md"
-  },
-  {
     "title": "موارد المواقع الرسمية في تايوان: من 25 موقعاً إلى قوة رقمية حكومية في 30 عاماً من المعجزات",
     "description": "في عام 1996، أنشأت 25 وكالة حكومية في تايوان أول دفعة من المواقع الرسمية للمشاركة في معرض الإنترنت العالمي. وبعد 30 عاماً، أصبحت هذه الجزيرة نموذجاً عالمياً للحكومة الرقمية - من الإقرار الضريبي عبر الإنترنت إلى بوابة الدخول الموحدة، ومن البيانات المفتوحة إلى مخازن الذكاء الاصطناعي، اكتشف كيف كتبت تايوان أسطورة التحول الرقمي بمواقعها الرسمية.",
     "category": "ar",
@@ -140899,6 +140917,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "ar/About/taiwan-official-resources-revisit.md"
+  },
+  {
+    "title": "موارد الويب الرسمية لتايوان",
+    "description": "مورد Taiwan.md هو الفهرس الأكثر اكتمالاً للمواقع الرسمية والموثوقة في تايوان، ويغطي مجالات مثل المؤسسات الحكومية، والثقافة والتعليم، والسياحة والتكنولوجيا والاقتصاد، ووسائل الإعلام الإخبارية. من الرئاسة إلى الحكومات المحلية، ومن القصر الوطني إلى التلفزيون العام، يقدم هذا الملخص بوابات رسمية أولية في كل مجال ويشرح كيفية التحقق من الموارد واستخدامها.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/about/taiwan-official-resources",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/About/taiwan-official-resources.md"
   },
   {
     "title": "موريس تشانغ",
@@ -142473,22 +142502,6 @@
     "featured": true,
     "date": "2026-07-17",
     "path": "hi/People/andre-chiang-taiwanese-culinary-innovator.md"
-  },
-  {
-    "title": "आधिकारिक-वेबसाइटें",
-    "description": "ताइवान की आधिकारिक वेबसाइटें न केवल सरकारी सेवाएँ और नीति जानकारी प्रदान करती हैं, बल्कि ताइवान की राजनीतिक व्यवस्था, सांस्कृतिक विकास और सामाजिक शासन को समझने की महत्वपूर्ण खिड़की भी हैं। ये वेबसाइटें ताइवान की लोकतांत्रिक राजनीति की पारदर्शिता, डिजिटल शासन की प्रगति, तथा संस्कृति के संरक्षण और प्रचार पर जोर को दर्शाती हैं। ताइवान पर शोध करने वालों, ताइवान को समझने वालों, या आधिकारिक जानकारी की आवश्यकता रखने वाले विभिन्न क्षेत्रों के लोगों के लिए, यह संसाधन संग्रह सबसे आधिकारिक सूचना स्रोत मार्गदर्शिका प्रदान करता है।",
-    "category": "hi",
-    "tags": [
-      "संसाधन",
-      "सरकार",
-      "आधिकारिक",
-      "Taiwan.md"
-    ],
-    "url": "https://taiwan.md/hi/resources/official-websites",
-    "readingTime": 55,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "hi/resources/official-websites.md"
   },
   {
     "title": "आन जी-ह्योन (安芝儇)",
@@ -145171,17 +145184,6 @@
     "path": "hi/Economy/taiwan-offshore-wind-power.md"
   },
   {
-    "title": "ताइवान आधिकारिक वेबसाइट संसाधन",
-    "description": "Taiwan.md आधिकारिक वेबसाइट संसाधन ताइवान का सबसे पूर्ण आधिकारिक और आधिकारिक वेबसाइट सूचकांक है, जिसमें सरकारी संस्थान, सांस्कृतिक शिक्षा, पर्यटन, प्रौद्योगिकी अर्थव्यवस्था, मीडिया समाचार आदि क्षेत्र शामिल हैं। राष्ट्रपति भवन से लेकर स्थानीय सरकार तक, राष्ट्रीय संग्रहालय से लेकर सार्वजनिक टेलीविजन तक, यह अवलोकन आपको क्षेत्र के अनुसार ताइवान के आधिकारिक प्रवेश द्वार ढूंढने में मदद करता है और प्रत्येक श्रेणी के संसाधनों के सत्यापन और उपयोग के तरीके बताता है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/about/taiwan-official-resources",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/About/taiwan-official-resources.md"
-  },
-  {
     "title": "ताइवान आधिकारिक वेबसाइट संसाधन: 25 वेबसाइटों से डिजिटल सरकार महाशक्ति के 30 साल का चमत्कार",
     "description": "1996 में, ताइवान ने इंटरनेट वर्ल्ड एक्सपो में भाग लेने के लिए, 25 सरकारी एजेंसियों ने पहली बैच की आधिकारिक वेबसाइटें बनाईं। 30 साल बाद आज, यह द्वीप वैश्विक डिजिटल सरकार का आदर्श बन गया है——ऑनलाइन टैक्स फाइलिंग से लेकर सिंगल पोर्टल वेबसाइट तक, खुले डेटा से लेकर AI कॉर्पस तक, खोजें कि ताइवान ने आधिकारिक वेबसाइटों का उपयोग करके डिजिटल परिवर्तन की किंवदंती कैसे लिखी।",
     "category": "hi",
@@ -145957,6 +145959,33 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/Food/taiwanese-ice-cream-culture.md"
+  },
+  {
+    "title": "ताइवान की आधिकारिक वेबसाइट संसाधन",
+    "description": "Taiwan.md आधिकारिक वेबसाइट संसाधन ताइवान का सबसे व्यापक आधिकारिक और प्रामाणिक वेबसाइट सूचकांक है, जिसमें सरकारी संस्थानों, संस्कृति और शिक्षा, पर्यटन, प्रौद्योगिकी अर्थव्यवस्था और मीडिया समाचार सहित विभिन्न क्षेत्रों को शामिल किया गया है। राष्ट्रपति भवन से लेकर स्थानीय सरकार तक, राष्ट्रीय संग्रहालय से लेकर CCTV तक, यह अवलोकन आपको क्षेत्र के अनुसार ताइवान के प्राथमिक आधिकारिक प्रवेश द्वार खोजने में मदद करता है, और प्रत्येक प्रकार के संसाधन की सत्यापन और उपयोग विधि बताता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/about/taiwan-official-resources",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/About/taiwan-official-resources.md"
+  },
+  {
+    "title": "ताइवान की आधिकारिक वेबसाइटों का संसाधन संग्रह 🏛️",
+    "description": "ताइवान की आधिकारिक वेबसाइटें न केवल सरकारी सेवाएं और नीतिगत जानकारी प्रदान करती हैं, बल्कि ताइवान की राजनीतिक प्रणाली, सांस्कृतिक विकास और सामाजिक शासन को समझने के लिए महत्वपूर्ण खिड़कियां भी हैं। ये वेबसाइटें ताइवान की लोकतांत्रिक राजनीति में पारदर्शिता, डिजिटल शासन की प्रगति और संस्कृति के संरक्षण तथा प्रचार पर जोर को दर्शाती हैं। जो लोग ताइवान का अध्ययन करते हैं, उसे समझते हैं या आधिकारिक जानकारी चाहते हैं, उनके लिए यह संसाधन संग्रह सबसे प्रामाणिक सूचना स्रोत प्रदान करता है।",
+    "category": "hi",
+    "tags": [
+      "संसाधन",
+      "सरकार",
+      "आधिकारिक",
+      "ताइवान.md"
+    ],
+    "url": "https://taiwan.md/hi/resources/official-websites",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "hi/resources/official-websites.md"
   },
   {
     "title": "ताइवान की आधुनिक कविता",
@@ -146804,6 +146833,22 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "hi/Art/graffiti-and-street-art-in-taiwan.md"
+  },
+  {
+    "title": "ताइवान की समकालीन कला",
+    "description": "उत्तरी अमेरिकी संग्रहालय से वेनिस बिएनाले ताइवान पवेलियन तक, वैश्विक मंच पर ताइवान की समकालीन कला का विशिष्ट स्थान",
+    "category": "hi",
+    "tags": [
+      "कला",
+      "समकालीन",
+      "संस्कृति",
+      "संग्रहालय"
+    ],
+    "url": "https://taiwan.md/hi/art/contemporary-art",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "hi/Art/contemporary-art.md"
   },
   {
     "title": "ताइवान की समकालीन मूर्तिकला का विकास",
@@ -148467,22 +148512,6 @@
     "path": "hi/Music/taiwan-music-industry-and-the-streaming-era.md"
   },
   {
-    "title": "ताइवान समकालीन कला",
-    "description": "उत्तर अमेरिकी मंडप से लेकर वेनिस बिएननेल में ताइवान मंडप तक, वैश्विक मंच पर ताइवान समकालीन कला की अनूठी स्थिति",
-    "category": "hi",
-    "tags": [
-      "कला",
-      "समकालीन",
-      "संस्कृति",
-      "संग्रहालय"
-    ],
-    "url": "https://taiwan.md/hi/art/contemporary-art",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "hi/Art/contemporary-art.md"
-  },
-  {
     "title": "ताइवान समुद्री पारिस्थितिकी",
     "description": "ताओ जनजाति के वर्जनाओं द्वारा संरक्षित समुद्री क्षेत्र, अब उच्च तापमान और पानी के नीचे के शोर में विरंजित हो रहे हैं: जब हजारों वर्षों की पारिस्थितिक बुद्धि आधुनिक समुद्री संकट से मिलती है",
     "category": "hi",
@@ -149152,6 +149181,22 @@
     "path": "hi/Culture/national-theater-and-concert-hall.md"
   },
   {
+    "title": "दोहुआ: तिपहिया ठेले की पुकार से लेकर एक कटोरी पीली सोयाबीन के स्थानीय चुनाव तक",
+    "description": "1965 में स्थापित दोहुआ ज़ुआंग, शिनझुआंग की गलियों में हाथ-ठेले से चलकर निंगश्या नाइट मार्केट की एक स्थायी दुकान बन गई। दोहुआ दिखने में सिर्फ पीली सोयाबीन, पानी और जमाने वाले पदार्थ पर टिकी लगती है, लेकिन इसमें छिपे हैं चाओशान से आए प्रवासी, स्थानीय जल-मिट्टी, घरेलू सोयाबीन, स्कूली खाद्य-कृषि शिक्षा और सड़क के कारोबार में आए बदलाव — जो मिलकर एक ऐसा मीठा पकवान बनाते हैं जिसका जवाब हर ताइवानी अपने ढंग से देता है। यह लेख ठेलों, जमाने की तकनीक और स्थानीय दुकानों से शुरू होकर पूछता है कि एक नरम खाद्य पदार्थ उत्पत्ति-स्थान, कीमत और विरासत के चुनावों का बोझ कैसे उठाता है।",
+    "category": "hi",
+    "tags": [
+      "दोहुआ",
+      "पीली सोयाबीन",
+      "ताइवानी स्ट्रीट फूड",
+      "खाद्य संस्कृति"
+    ],
+    "url": "https://taiwan.md/hi/food/taiwanese-tofu-pudding",
+    "readingTime": 86,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "hi/Food/taiwanese-tofu-pudding.md"
+  },
+  {
     "title": "द्वीप का अंतिम गीत: 0.695 जिसे लॉन्ग वर्ष भी नहीं बचा सका",
     "description": "2024 लॉन्ग वर्ष था, ताइवानियों को शुभता के लिए बच्चे जन्म देने चाहिए थे, लेकिन इस वर्ष पिछले वर्ष की तुलना में 715 बच्चे कम हुए, 48 वर्षों में पहली बार लॉन्ग वर्ष का जादू काम नहीं किया। अगले वर्ष जन्म दर 0.695 गिर गई। लेकिन असली कुंजी यह नहीं है कि ताइवानियाँ बच्चे नहीं जन्म देते (विवाह के बाद 70% से अधिक दो या उससे अधिक बच्चे जन्म देते हैं), बल्कि यह है कि वे विवाह नहीं करते; सरकार ने 'नहीं जन्म देने' पर दस साल तक पैसा खर्च किया, लेकिन दुनिया में किसी भी देश ने जन्म दर नहीं खरीदी है।",
     "category": "hi",
@@ -149216,23 +149261,6 @@
     "featured": false,
     "date": "2026-07-02",
     "path": "hi/Art/new-taipei-city-museum-of-art.md"
-  },
-  {
-    "title": "नाइटलाइफ़ और KTV संस्कृति",
-    "description": "मनी बॉक्स के निजी कमरों से लेकर देर रात के भोजनालयों तक, 24 घंटे खुले रहने वाले द्वीप की नाइटलाइफ़",
-    "category": "hi",
-    "tags": [
-      "जीवनशैली",
-      "नाइटलाइफ़",
-      "KTV",
-      "देर रात के भोजनालय",
-      "ताइवान"
-    ],
-    "url": "https://taiwan.md/hi/lifestyle/nightlife-and-ktv-culture",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "hi/Lifestyle/nightlife-and-ktv-culture.md"
   },
   {
     "title": "निऊ चेंग्-त्सै",
@@ -151101,6 +151129,23 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "hi/Politics/political-donation-transparency.md"
+  },
+  {
+    "title": "रात का जीवन और KTV संस्कृति",
+    "description": "कैशबॉक्स के निजी कमरों से लेकर देर रात के भोजनालयों तक, 24 घंटे कभी न सोने वाले द्वीप का रात्रि जीवन",
+    "category": "hi",
+    "tags": [
+      "जीवनशैली",
+      "रात्रि जीवन",
+      "KTV",
+      "देर रात का भोजन",
+      "ताइवान"
+    ],
+    "url": "https://taiwan.md/hi/lifestyle/nightlife-and-ktv-culture",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "hi/Lifestyle/nightlife-and-ktv-culture.md"
   },
   {
     "title": "रात के बाज़ार की अर्थशास्त्र: एक ब्रांडहीन व्यावसायिक चमत्कार",
@@ -157127,17 +157172,6 @@
     "featured": true,
     "date": "2026-03-25",
     "path": "ko/Culture/taiwan-tea-ceremony-and-aesthetic-living.md"
-  },
-  {
-    "title": "대만의 대외무역과 글로벌 공급망",
-    "description": "수출지향에서 공급망 핵심 거점으로: 대만은 미중 대립 속에서 어떻게 무역 우위를 유지하는가",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "대만의 도시 발전과 도농 격차",
@@ -166236,6 +166270,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "ko/Culture/taiwan-kuaikuai-culture.md"
+  },
+  {
+    "title": "타이완의 대외 무역과 글로벌 공급망",
+    "description": "수출 지향에서 공급망 핵심 거점으로: 타이완은 미중 대립 속에서 어떻게 무역 우위를 유지하는가",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
     "title": "타이완의 도덕 과목은 어디로 갔는가: 취소된 한 시간과 20년간 방치된 책임",

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T08:54:03+08:00",
-    "zhCommitHead": "700b104b2",
+    "lastUpdated": "2026-09-20T14:45:37+08:00",
+    "zhCommitHead": "e38ee618f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,48 +20,48 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 58,
+        "fresh": 1034,
+        "stale": 60,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 905,
-        "stale": 103,
+        "fresh": 901,
+        "stale": 106,
         "metadata_stale": 28,
-        "missing": 88,
+        "missing": 89,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1042,
-        "stale": 57,
+        "fresh": 1039,
+        "stale": 60,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 64,
+        "fresh": 1033,
+        "stale": 66,
         "metadata_stale": 5,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1040,
-        "stale": 55,
+        "fresh": 1037,
+        "stale": 58,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 990,
-        "stale": 57,
+        "fresh": 988,
+        "stale": 59,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 990,
-        "stale": 77,
+        "fresh": 987,
+        "stale": 80,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
@@ -85,23 +85,23 @@
       "hi": {
         "total_zh": 1124,
         "fresh": 951,
-        "stale": 52,
+        "stale": 53,
         "metadata_stale": 11,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
         "fresh": 982,
-        "stale": 58,
+        "stale": 59,
         "metadata_stale": 13,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1019,
-        "stale": 41,
+        "fresh": 1015,
+        "stale": 45,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
@@ -109,9 +109,9 @@
       "de": {
         "total_zh": 1124,
         "fresh": 818,
-        "stale": 12,
+        "stale": 13,
         "metadata_stale": 4,
-        "missing": 290,
+        "missing": 289,
         "orphan": 0
       }
     },
@@ -7038,8 +7038,8 @@
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
           "translatedAt": "2026-09-20T00:52:42+08:00",
-          "translationLastCommit": "18cf8776",
-          "translationLastModified": "2026-09-13T13:10:29+08:00",
+          "translationLastCommit": "e6cada32",
+          "translationLastModified": "2026-09-20T08:54:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -7090,16 +7090,16 @@
         "ru": {
           "path": "ru/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
           "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
-          "sourceCommitSha": "2e88c5e31",
-          "sourceContentHash": "sha256:df07b8f5f0dd46a8",
-          "sourceBodyHash": "sha256:2f404ef3aa8b254f",
-          "translatedAt": "2026-09-20T00:52:48+08:00",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:9913b1fbaa8895dd",
+          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
+          "translatedAt": "2026-07-26T12:49:20+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 7,
+          "status": "stale",
+          "reason": "footnote-loss (9→7)"
         },
         "de": {
           "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -22196,10 +22196,10 @@
     },
     "Technology/台灣災難醫療體系.md": {
       "zh": {
-        "lastCommit": "29ff6f48",
-        "lastModified": "2026-08-09T00:14:24+08:00",
-        "contentHash": "sha256:6c1de6e7d125ff24",
-        "bodyHash": "sha256:fa56609bf3ed1f63"
+        "lastCommit": "a17bb572",
+        "lastModified": "2026-09-20T08:47:10+08:00",
+        "contentHash": "sha256:4b2a7f3ce14aead4",
+        "bodyHash": "sha256:c70ae774b0edc421"
       },
       "translations": {
         "en": {
@@ -22213,8 +22213,10 @@
           "translationLastModified": "2026-09-16T19:40:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ja": {
           "path": "ja/Technology/taiwan-disaster-medicine-system.md",
@@ -22227,8 +22229,10 @@
           "translationLastModified": "2026-08-09T15:57:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ko": {
           "path": "ko/Technology/taiwan-disaster-medicine-system.md",
@@ -22241,8 +22245,10 @@
           "translationLastModified": "2026-08-09T09:49:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "es": {
           "path": "es/Technology/taiwan-disaster-medicine-system.md",
@@ -22255,8 +22261,10 @@
           "translationLastModified": "2026-08-09T09:45:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "fr": {
           "path": "fr/Technology/taiwan-disaster-medicine-system.md",
@@ -22269,8 +22277,10 @@
           "translationLastModified": "2026-09-16T18:01:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "vi": {
           "path": "vi/Technology/taiwan-disaster-medicine-system.md",
@@ -22283,8 +22293,10 @@
           "translationLastModified": "2026-09-19T05:34:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "id": {
           "path": "id/Technology/taiwan-disaster-medicine-system.md",
@@ -22299,8 +22311,8 @@
           "footnoteDefs": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -1"
+          "commitsBehind": 2,
+          "diffSummary": "+6 -4"
         },
         "pt": {
           "path": "pt/Technology/taiwan-disaster-medicine-system.md",
@@ -22313,8 +22325,10 @@
           "translationLastModified": "2026-09-13T18:51:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "hi": {
           "path": "hi/Technology/taiwan-disaster-medicine-system.md",
@@ -22327,8 +22341,10 @@
           "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ar": {
           "path": "ar/Technology/taiwan-disaster-medicine-system.md",
@@ -22341,8 +22357,10 @@
           "translationLastModified": "2026-08-09T14:18:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ru": {
           "path": "ru/Technology/taiwan-disaster-medicine-system.md",
@@ -22355,8 +22373,10 @@
           "translationLastModified": "2026-08-09T15:39:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "de": {
           "path": "de/Technology/taiwan-disaster-medicine-system.md",
@@ -22369,8 +22389,10 @@
           "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         }
       }
     },
@@ -22722,10 +22744,10 @@
     },
     "Technology/台灣網路社群遷徙史.md": {
       "zh": {
-        "lastCommit": "d968559a",
-        "lastModified": "2026-07-19T09:46:53+08:00",
-        "contentHash": "sha256:27a0271b143d3da5",
-        "bodyHash": "sha256:51c89f4d74696613"
+        "lastCommit": "56f4d6f8",
+        "lastModified": "2026-09-20T08:47:10+08:00",
+        "contentHash": "sha256:0679bda8106e31fc",
+        "bodyHash": "sha256:b5c758f914dccaf4"
       },
       "translations": {
         "en": {
@@ -22739,8 +22761,10 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Technology/taiwan-online-community-migration.md",
@@ -22753,8 +22777,10 @@
           "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Technology/taiwan-online-community-migration.md",
@@ -22767,8 +22793,10 @@
           "translationLastModified": "2026-07-31T14:16:41+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Technology/taiwan-online-community-migration.md",
@@ -22781,8 +22809,10 @@
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Technology/taiwan-online-community-migration.md",
@@ -22795,8 +22825,10 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Technology/taiwan-online-community-migration.md",
@@ -22809,8 +22841,10 @@
           "translationLastModified": "2026-08-09T10:01:54+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "status": "missing"
@@ -22826,8 +22860,10 @@
           "translationLastModified": "2026-07-28T05:57:06+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "status": "missing"
@@ -33408,7 +33444,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/paper-windmill-theater.md",
+          "translatedFrom": "Art/紙風車劇團.md",
+          "sourceCommitSha": "088a688b2",
+          "sourceContentHash": "sha256:dac39dc01ba71011",
+          "sourceBodyHash": "sha256:dece40987a4bedea",
+          "translatedAt": "2026-09-20T06:30:00+08:00",
+          "translationLastCommit": "95f93952",
+          "translationLastModified": "2026-09-20T05:40:30+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/paper-windmill-theater.md",
@@ -40319,16 +40366,16 @@
         "ru": {
           "path": "ru/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
           "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
-          "sourceCommitSha": "5c8070d07",
-          "sourceContentHash": "sha256:e0d72befdb935fe7",
-          "sourceBodyHash": "sha256:35b8626f07740119",
-          "translatedAt": "2026-09-20T00:52:48+08:00",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0334fef76cff5db1",
+          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
           "translationLastCommit": "a7bdcea4",
           "translationLastModified": "2026-07-25T23:36:19+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (9→0)"
         },
         "de": {
           "path": "de/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
@@ -64584,16 +64631,18 @@
         "fr": {
           "path": "fr/Society/human-rights-and-gender-equality.md",
           "translatedFrom": "Society/人權與性別平等.md",
-          "sourceCommitSha": "426c8cbd1",
-          "sourceContentHash": "sha256:154996399630e9d4",
-          "sourceBodyHash": "sha256:2e750ef70b22356f",
-          "translatedAt": "2026-09-20T00:52:39+08:00",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:22a18952ed1d65bb",
+          "sourceBodyHash": "sha256:8495c26241a6b1ab",
+          "translatedAt": "2026-05-15T15:39:40+08:00",
           "translationLastCommit": "06ed4c82",
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+17 -11"
         },
         "vi": {
           "path": "vi/Society/human-rights-and-gender-equality.md",
@@ -66970,30 +67019,30 @@
         "ja": {
           "path": "ja/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "0f26e4f94",
-          "sourceContentHash": "sha256:1f8dee6529992135",
-          "sourceBodyHash": "sha256:97a705b00e6deea8",
-          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "sourceCommitSha": "026e5b584",
+          "sourceContentHash": "sha256:3a49c509011ce42d",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "bc251e0d",
           "translationLastModified": "2026-07-26T03:40:42+08:00",
           "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ko": {
           "path": "ko/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "0f26e4f94",
-          "sourceContentHash": "sha256:1f8dee6529992135",
-          "sourceBodyHash": "sha256:97a705b00e6deea8",
-          "translatedAt": "2026-09-20T00:52:36+08:00",
+          "sourceCommitSha": "026e5b584",
+          "sourceContentHash": "sha256:3a49c509011ce42d",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-07-25T12:45:16+08:00",
           "translationLastCommit": "9758229a",
           "translationLastModified": "2026-07-25T16:08:39+08:00",
           "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "es": {
           "path": "es/About/taiwan-official-resources.md",
@@ -67044,8 +67093,8 @@
           "sourceContentHash": "sha256:1f8dee6529992135",
           "sourceBodyHash": "sha256:97a705b00e6deea8",
           "translatedAt": "2026-09-20T00:52:42+08:00",
-          "translationLastCommit": "e79ff92f",
-          "translationLastModified": "2026-07-27T11:06:24+08:00",
+          "translationLastCommit": "e6cada32",
+          "translationLastModified": "2026-09-20T08:54:04+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
@@ -67054,16 +67103,16 @@
         "pt": {
           "path": "pt/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "0f26e4f94",
-          "sourceContentHash": "sha256:1f8dee6529992135",
-          "sourceBodyHash": "sha256:97a705b00e6deea8",
-          "translatedAt": "2026-09-20T00:52:44+08:00",
+          "sourceCommitSha": "026e5b584",
+          "sourceContentHash": "sha256:3a49c509011ce42d",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-07-27T09:40:32+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "hi": {
           "path": "hi/About/taiwan-official-resources.md",
@@ -67096,16 +67145,16 @@
         "ru": {
           "path": "ru/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "0f26e4f94",
-          "sourceContentHash": "sha256:1f8dee6529992135",
-          "sourceBodyHash": "sha256:97a705b00e6deea8",
-          "translatedAt": "2026-09-20T00:52:48+08:00",
+          "sourceCommitSha": "026e5b584",
+          "sourceContentHash": "sha256:3a49c509011ce42d",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-07-27T09:40:34+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "de": {
           "path": "de/About/taiwan-official-resources.md",
@@ -72057,7 +72106,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/formosan-salamander.md",
+          "translatedFrom": "Nature/台灣山椒魚.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f7dcaba73d149276",
+          "sourceBodyHash": "sha256:af337db2aac9897d",
+          "translatedAt": "2026-09-20T05:30:00+08:00",
+          "translationLastCommit": "ee025013",
+          "translationLastModified": "2026-09-20T05:20:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -94234,8 +94294,8 @@
           "sourceContentHash": "sha256:d405136a29d9431e",
           "sourceBodyHash": "sha256:b0195c9685eb2443",
           "translatedAt": "2026-09-20T00:52:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cada32",
+          "translationLastModified": "2026-09-20T08:54:04+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -137315,7 +137375,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-20T06:00:00+08:00",
+          "translationLastCommit": "2f35da62",
+          "translationLastModified": "2026-09-20T05:30:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwanese-tofu-pudding.md",
@@ -154488,18 +154559,7 @@
           "reason": "same-commit"
         },
         "ja": {
-          "path": "ja/History/typhoon-morakot.md",
-          "translatedFrom": "History/莫拉克風災.md",
-          "sourceCommitSha": "67688b3a5",
-          "sourceContentHash": "sha256:a825535e058db34c",
-          "sourceBodyHash": "sha256:6d1c9d9b4f9dd53e",
-          "translatedAt": "2026-09-20T00:52:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ko": {
           "path": "ko/History/typhoon-morakot.md",
