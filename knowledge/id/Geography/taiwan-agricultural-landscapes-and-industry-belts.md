@@ -1,10 +1,10 @@
 ---
-title: 'Lanskap Pertanian Taiwan dan Distribusi Industri'
-description: 'Perubahan lanskap pertanian dari utara ke selatan, menampilkan transformasi Taiwan dari "lumbung padi Taiwan" menuju "pertanian presisi"'
+title: 'Lanskap Pertanian dan Distribusi Industri Taiwan'
+description: 'Perubahan lanskap pertanian dari utara ke selatan, menunjukkan perjalanan transformasi Taiwan dari "Lumbung Padi Taiwan" menjadi "Pertanian Presisi"'
 date: 2026-03-18
 category: 'Geography'
-tags: ['Pertanian', 'Lanskap', 'Industri', 'Keamanan Pangan', 'Geografi']
-subcategory: '氣候與溫泉'
+tags: ['pertanian', 'lanskap', 'industri', 'ketahanan pangan', 'geografi']
+subcategory: '城市與人文地理'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
@@ -12,160 +12,170 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Geography/台灣農業地景與產業分布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
-sourceBodyHash: 'sha256:92c2111bcaaae7c8'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: 'b349895a3'
+sourceContentHash: 'sha256:88ba75169cfa45ae'
+sourceBodyHash: 'sha256:9f28d4872bf9c477'
+translatedAt: '2026-09-21T00:58:31+08:00'
 ---
 
-# Lanskap Pertanian Taiwan dan Distribusi Industri
+# Lanskap Pertanian dan Distribusi Industri Taiwan
 
-## 30 Detik Ikhtisar
+## Ikhtisar 30 Detik
 
-Taiwan dengan luas hanya 36.000 kilometer persegi, namun berkat perbedaan topografi dan iklim menciptakan lanskap pertanian yang sangat berbeda. Dari teras teh di utara, "lumbung padi Taiwan" di tengah, kebun buah tropis di selatan, hingga pertanian organik di timur, membentuk distribusi sabuk industri pertanian yang jelas.
+Dengan luas hanya 36.000 kilometer persegi, Taiwan memiliki lanskap pertanian yang sangat berbeda berkat perbedaan topografi dan iklim. Dari terasering kebun teh di utara, "Lumbung Padi Taiwan" di tengah, perkebunan tropis di selatan, hingga pertanian organik di timur, terbentuklah distribusi zona industri pertanian yang jelas.
 
-Lumbung padi Sungai Zhuoshui yang dibentuk oleh Changhua, Yunlin, dan Chiayi hingga kini memasok 30% beras seluruh Taiwan, sementara buah jambu air dari Pingtung dan buah nona dari Taitung telah menembus pasar internasional di Jepang, Timur Tengah, dan negara lain.
+"Lumbung Padi Sungai Tsuchi" yang terdiri dari Changhua, Yunlin, dan Chiayi memasok sekitar sepertiga padi nasional, sementara buah sukun (lianwu) di Pingtung dan srikaya (shijia) di Taitung adalah buah ekspor paling representatif Taiwan, yang pernah menjadikan Tiongkok sebagai pasar terbesar.
 
-Pada tahun 1920-an pembangunan Saluran Irigasi Jianan meletakkan fondasi dasar pertanian di Taiwan Selatan, sedangkan promosi varietas beras Ponlai pada tahun 1945 mengalihkan produksi beras Taiwan, kedua proyek ini menjadi titik balik kunci modernisasi pertanian Taiwan.
+Pembangunan [Saluran Irigasi Chianan](/id/history/chianan-irrigation-canal/) yang dimulai pada tahun 1920 dan selesai pada tahun 1930 meletakkan dasar irigasi pertanian di Taiwan selatan[^7], sementara beras Penglai (Penglai Mi) yang dipromosikan pada tahun 1926 mengubah varietas dan pasar padi Taiwan. Kedua peristiwa ini adalah titik kunci modernisasi pertanian Taiwan selama periode pemerintahan Jepang.
 
-Kata kunci: lumbung padi Taiwan, lumbung padi Sungai Zhuoshui, pertanian presisi, transformasi industri, keamanan pangan
+Kata kunci: Lumbung Padi Taiwan, Lumbung Padi Sungai Tsuchi, Pertanian Presisi, Transformasi Industri, Ketahanan Pangan
 
-## Mengapa Hal Ini Penting
+## Mengapa Ini Penting
 
-Sejarah perkembangan pertanian Taiwan merekam bagaimana sebuah pulau melakukan transformasi berkelanjutan di atas lahan terbatas: dari perbaikan varietas "beras Ponlai" pada masa kolonial Jepang (promosi tahun 1926), hingga industrialisasi pedesaan pada tahun 1970-an, dan kemudian gerakan pertanian organik dan pembangunan kembali pedesaan pada dekade 2010-an, setiap fase adalah cerminan dari transformasi struktur sosial Taiwan.
+Sejarah perkembangan pertanian Taiwan mencatat bagaimana sebuah pulau bertransformasi secara berkelanjutan di lahan terbatas: dari pemuliaan varietas "Penglai Mi" selama periode pemerintahan Jepang (dipromosikan pada tahun 1926), ke industrialisasi pedesaan pada tahun 1970-an, dan gerakan pertanian organik serta regenerasi pedesaan pada tahun 2010-an. Setiap tahap adalah cerminan transformasi struktur sosial Taiwan[^2].
 
-Pertanian Taiwan bersamaan memikul empat peran sekaligus: produksi pangan, pemanfaatan lahan, perlindungan lingkungan, dan transmisi budaya. Seiring perubahan iklim dan tekanan urbanisasi, Taiwan beralih dari mengejar kuantitas produksi menuju mengejar kualitas, dari pertanian tradisional menuju pertanian cerdas.
+Pertanian Taiwan secara simultan memikul empat peran: produksi pangan, pemanfaatan lahan, perlindungan lingkungan, dan pelestarian budaya. Dengan perubahan iklim dan tekanan urbanisasi, Taiwan beralih dari mengejar kuantitas menjadi mengejar kualitas, dari pertanian tradisional menuju pertanian cerdas.
 
-Lintasan transformasi ini memiliki nilai referensi langsung bagi pulau-pulau pertanian kecil Asia lainnya, dan lembaga riset pertanian Taiwan secara berkala berbagi teknologi dengan Vietnam, Indonesia, dan tempat lain.
+Lintasan transformasi ini memberikan nilai referensi langsung bagi pulau-pulau kecil di Asia lainnya; lembaga penelitian pertanian Taiwan juga secara rutin berbagi teknologi dengan Vietnam, Indonesia, dan negara lain.
 
-## Pertanian Utara: Kebun Teh dan Pertanian Perkotaan
+## Pertanian Utara: Kebun Teh dan Pertanian Kota
 
-Dataran berbukit di utara dengan curah hujan tinggi dan kabut pekat menghasilkan daerah penghasil teh paling terkenal Taiwan. Setelah ekspansi cekungan Taipei, pertanian utara bergeser ke arah presisi dan urbanisasi, taman warga dan petani organik kecil menjadi model yang sedang berkembang.
+Daerah perbukitan utara memiliki curah hujan tinggi dan kabut tebal, menciptakan zona produksi teh paling terkenal di Taiwan. Setelah perluasan cekungan Taipei, pertanian utara beralih ke arah presisi dan urbanisasi; kebun warga kota (citizen farm) dan petani organik kecil menjadi model yang baru.
 
-### Sabuk Industri Teh
+### Zona Industri Teh
 
-Dataran berbukit Taiwan utara menciptakan industri teh terkenal dunia:
+Topografi perbukitan di Taiwan Utara telah menghasilkan industri teh kelas dunia:
 
-- **Daerah Teh Wenshan Baozhong**: Sekitar Shiding dan Pinglin di Kota New Taipei, dengan curah hujan tahunan lebih dari 2000mm di lingkungan yang lembab
-- **Biluochun Sanxia**: Menggunakan tunas muda yang dipetik pada musim semi untuk diproduksi, memiliki rasa wangi bunga dan buah yang halus
-- **Teh Gunung Tinggi Alishan**: Taman teh gunung tinggi di ketinggian 1000-2000 meter, karena perbedaan suhu besar, keharuman sangat pekat
+- **Daerah Teh Baozhong Wenshan**: Sekitar Shiding dan Pingshan di Kota New Taipei, dengan lingkungan lembap dengan curah hujan lebih dari 2000mm per tahun.
+- **Biluochun Sanxia**: Dibuat dari pucuk muda yang dipanen pada musim semi, memiliki aroma bunga dan buah yang segar.
+- **Tieguanyin Muzha**: Teh fermentasi berat di sekitar Maokong, Distrik Wenshan, Taipei City, dengan kebun teh dan kedai teh wisata berdampingan.
 
-Kebun teh di utara sebagian besar menggunakan penanaman terasering, memanfaatkan lahan miring sepenuhnya, pemandangan terasering juga telah menjadi sumber daya pariwisata. Daerah teh Wenshan dengan "masa emas teh" telah didaftarkan sebagai lanskap budaya, melindungi keahlian pembuatan teh tradisional dan permukiman pedesaan.
+Kebun teh di utara sebagian besar dibuat bertingkat di lereng bukit, dan lanskap kebun teh itu sendiri menjadi sumber daya wisata; daerah Pingshan masih merupakan produsen utama teh Baozhong.
 
-### Pertanian Tepi Perkotaan
+### Pertanian Pinggiran Kota
 
-Dengan ekspansi wilayah metropolitan Greater Taipei, utara mengembangkan pertanian perkotaan yang unik:
+Seiring perluasan wilayah metropolitan Taipei Raya, pertanian unik berkembang di utara:
 
-- **Taman Warga**: Menyediakan layanan penyewaan lahan bagi penduduk perkotaan untuk merasakan pengalaman bercocok tanam
-- **Petani Organik Kecil**: Khusus melayani pasar konsumsi tinggi dengan sayuran dan buah presisi
-- **Pertanian Santai**: Menggabungkan pendidikan, pariwisata, dan produksi pertanian
+- **Kebun Warga Kota**: Layanan penyewaan lahan bagi penduduk kota untuk merasakan kegiatan bertani.
+- **Petani Organik Kecil**: Sayuran dan buah-buahan presisi yang ditujukan khusus untuk pasar kelas atas.
+- **Perkebunan Rekreasi**: Menggabungkan pendidikan, pariwisata, dan produksi pertanian.
 
 ## Pertanian Tengah: Koridor Emas Lumbung Padi Taiwan
 
-Koridor emas yang dibentuk oleh Changhua, Yunlin, dan Chiayi adalah pilar inti keamanan pangan Taiwan. Sungai Zhuoshui membawa banyak tanah aluvial, menciptakan dataran subur yang memasok 30% beras seluruh Taiwan—wilayah yang dikenal sebagai "lumbung padi Taiwan".
+Koridor emas yang terdiri dari Changhua, Yunlin, dan Chiayi adalah pilar inti ketahanan pangan Taiwan. Sungai Tsuchi membawa sedimen aluvial dalam jumlah besar, membentuk dataran subur yang memasok sepertiga padi nasional.
 
-### Kipas Aluvial Sungai Zhuoshui
+### Dataran Aluvial Sungai Tsuchi
 
-Dataran Changhua, Yunlin, dan Chiayi di bagian tengah adalah basis produksi pertanian inti Taiwan, dikenal sebagai "lumbung padi Taiwan":
+Dataran di Changhua, Yunlin, dan Chiayi di tengah adalah basis produksi pertanian utama Taiwan, dijuluki "Lumbung Padi Taiwan":
 
 **Keunggulan Geografis:**
 
-- Sungai Zhuoshui membawa tanah aluvial berlimpah, menciptakan dataran subur
-- Curah hujan tahunan 1200-1500mm, cocok untuk pertumbuhan padi
-- Topografi datar, memudahkan mekanisasi pertanian
+- Sungai Tsuchi membawa sedimen aluvial yang kaya, membentuk dataran subur.
+- Curah hujan 1200–1500mm per tahun, cocok untuk pertumbuhan padi.
+- Medan datar, memudahkan pengolahan mekanis.
 
-**Produk Pertanian Utama:**
+**Produk Utama:**
 
-- **Beras**: Memasok 30% produksi seluruh Taiwan, dengan beras Sungai Zhuoshui berkualitas terbaik
-- **Bunga**: Taman bunga Jalan Industri Tianwei, taman industri bunga Pitou
-- **Sayuran**: Kubis, kembang kol memasok pasar seluruh Taiwan
+- **Beras**: Menyumbang 30% dari total produksi nasional, dengan kualitas terbaik dari beras Sungai Tsuchi.
+- **Bunga**: Taman Tianwei adalah salah satu pusat distribusi bunga terbesar di Taiwan.
+- **Sayuran**: Kubis dan kembang kol memasok pasar nasional.
 
-Anggur Jinfeng Changhua dan jeruk Gugan Yunlin Gukeng adalah buah presisi paling representatif di dataran tengah, juga merupakan kasus awal transformasi merek petani pertanian.
+Anggur Jufen Changhua dan jeruk Gu-keng Yunlin adalah buah presisi paling representatif dari dataran tengah[^3], dan juga merupakan contoh awal transformasi merek petani.
 
 ### Transformasi Pertanian Presisi
 
-Menghadapi kompetisi produk pertanian impor dan penuaan populasi pedesaan, pertanian tengah sedang mengembangkan arah presisi:
+Menghadapi persaingan produk impor dan penuaan populasi pedesaan, pertanian di tengah bergerak menuju presisi:
 
 **Aplikasi Teknologi:**
 
 - Sistem pemantauan rumah kaca cerdas
-- Penyemprotan pestisida tanpa awak
-- Pupuk presisi dengan penentuan posisi GPS pertanian presisi
+- Penyemprotan pestisida oleh drone
+- Pemupukan berbasis GPS pertanian presisi
 
-**Manajemen Merek:**
+**Manajemen Berbasis Merek:**
 
-- Sertifikasi tanda geografis "beras Zhuoshui"
-- Pabrik pariwisata bunga Tianwei yang bertransformasi
-- Pelacakan jejak produksi penjualan pertanian dari asosiasi petani
+- Merek asal seperti "Beras Tsuchi"
+- Pabrik wisata bunga Tianwei
+- Pelacakan riwayat produksi koperasi petani
 
 ## Pertanian Selatan: Kerajaan Buah Tropis
 
-Taiwan Selatan di Tainan, Kaohsiung, dan Pingtung terletak di sebelah selatan Garis Balik Utara, dengan musim panas panjang dan musim dingin hangat, musim tumbuh lebih dari 300 hari, menciptakan daerah pohon buah tropis paling terkonsentrasi Taiwan. Dataran Jianan yang diuntungkan oleh pembangunan Saluran Irigasi Jianan pada dekade 1920-an, menjadi basis produksi beras dan tebu skala terbesar Taiwan.
+Taiwan, Kaohsiung, dan Pingtung di selatan Garis Balik Utara, memiliki musim panas yang panjang dan musim dingin yang hangat, dengan musim tanam lebih dari 300 hari, menciptakan zona penghasil buah tropis paling terkonsentrasi di Taiwan. Dataran Chianan diuntungkan oleh pembangunan irigasi Saluran Irigasi Chianan pada tahun 1920-an, menjadikannya basis produksi padi dan tebu terbesar di Taiwan.
 
 ### Pertanian Tropis Pingtung
 
-Provinsi Pingtung terletak di sebelah selatan Garis Balik Utara, iklim tropis tahunan panas dan lembab menghasilkan berbagai pohon buah tropis:
+Pingtung County terletak di selatan Garis Balik Utara, iklim tropis yang panas dan lembap sepanjang tahun memelihara berbagai jenis buah tropis:
 
-**Buah Khusus:**
+**Buah Khas:**
 
-- **Buah Jambu Air**: Provinsi Pingtung memasok 60% produksi seluruh Taiwan, terkenal dengan jenis "mutiara hitam"
-- **Nanas**: Nanas emas batu permata diekspor ke Jepang, harga satuan adalah 3-5 kali lebih tinggi dari nanas biasa
-- **Mangga**: Mangga Avin, mangga Jinhuang memasok pasar Taiwan seluruh di musim panas
+- **Sukun (Lianwu)**: Luas penanaman di Pingtung mencakup lebih dari tujuh puluh persen dari seluruh Taiwan. Varietas Nanfanghong terkenal dengan warna merah tua dan kadar gula yang tinggi, biasa disebut "Mutiara Hitam"[^8].
+- **Nanas**: Nanas Jinzan adalah varietas utama untuk ekspor.
+- **Mangga**: Mangga Aiwen dan mangga Jinhuang memasok pasar nasional pada musim panas.
 
-"Jujube Harta Karun" Pingtung di malam Tahun Baru sangat diminati, menjadi kasus perwakilan petani Taiwan Selatan menguasai ritme pemasaran yang bergantung pada musim.
+Permintaan buah jeruk madu Pingtung menjelang Tahun Baru Imlek seringkali tidak terpenuhi, menjadi contoh representatif petani di Taiwan selatan yang menguasai ritme pemasaran musiman.
 
-### Pertanian Dataran Jianan
+### Pertanian Dataran Chianan
 
-Dataran Jianan Taiwan dan Chiayi mendapat manfaat dari sistem irigasi Saluran Irigasi Jianan, membentuk produksi pertanian berskala besar. Pada dekade 1920-an selama masa kolonial Jepang membangun Saluran Irigasi Jianan, area irigasi mencapai 150.000 hektar, dan menerapkan sistem "rotasi tiga tahun" (pertanian padi → budidaya tebu → lahan menanti hujan), meletakkan fondasi pertanian modern dasar air irigasi Taiwan.
+Dataran Changhua dan Chiayi diuntungkan oleh sistem irigasi Saluran Irigasi Chianan, membentuk produksi pertanian skala besar. Saluran Irigasi Chianan dibangun pada tahun 1920 dan selesai pada tahun 1930, dengan area irigasi sekitar 150.000 hektar; karena pasokan air yang tidak cukup untuk menanam padi di seluruh daerah irigasi secara bersamaan, saluran besar ini menerapkan sistem "rotasi tiga tahun", membagi daerah irigasi menjadi tiga zona yang bergantian ditanami padi, tebu, dan tanaman campuran, meletakkan dasar bagi pertanian modern Taiwan[^5][^7].
 
-Hari ini produksi beras dataran Jianan memasok 25% seluruh Taiwan, industri anggrek kupu-kupu berkumpul di sini, Taiwan adalah eksportir terbesar anggrek kupu-kupu dunia[^1]. Budidaya ikan bandeng tahunan menghasilkan lebih dari 3 miliar yuan, adalah sumber pendapatan penting untuk kegiatan pertanian-perikanan gabungan di daerah pantai selatan.
+Saat ini, Dataran Chianan masih merupakan area produksi padi penting di seluruh Taiwan. Taman Bioteknologi Anggrek Taiwan di Houbi, Taichung, memusatkan industri anggrek bulan; Taiwan adalah eksportir terbesar anggrek bulan di dunia[^1]. Budidaya ikan sepat (shimekiyu) adalah sumber pendapatan penting bagi nelayan dan petani pesisir selatan.
 
-## Pertanian Timur: Pertanian Organik dan Pertanian Masyarakat Adat
+## Pertanian Timur: Organik dan Pertanian Pribumi
 
-Lembah Huadong yang terjebak di antara Pegunungan Tengah dan Pegunungan Pantai, jauh dari polusi industri, kondisi produksi pertanian diakui oleh lembaga sertifikasi organik. Area lahan pertanian organik Hualien sekitar 30% atau lebih dari lahan pertanian seluruh kabupaten, adalah proporsi tertinggi di negara; merek seperti beras Chihshang, beras Fuli telah membangun reputasi di pasar beras presisi Taiwan.
+Lembah Hoa-dong terletak di antara Pegunungan Tengah dan Pegunungan Pantai, jauh dari polusi industri. Kabupaten Hualien adalah kabupaten dengan area bersertifikat organik terbesar di Taiwan pada awal tahun 2023, yaitu 3.175 hektar dengan 662 rumah tangga, jauh melebihi Changhua yang berada di urutan kedua[^9]; merek seperti Beras Chishang dan Beras Fuli telah membangun reputasi di pasar beras premium Taiwan.
 
-### Pertanian Organik Lembah Huadong
+### Pertanian Organik Lembah Hoa-dong
 
-Karena lokasi terpencil Hualien dan Taitung, polusi industri kurang, lingkungan bersih dan sumber air adalah jaminan alami untuk sertifikasi organik, metode pertanian tradisional masyarakat adat juga mendapat perlindungan lengkap di tempat ini, ditambah permintaan konsumen untuk produk organik meningkat, membuat tempat ini menjadi pusat perkembangan pertanian organik seluruh negara.
+Lembah Hoa-dong di Hualien dan Taitung memiliki lingkungan yang bersih dan sumber air karena lokasinya yang terpencil dan sedikit polusi industri, yang merupakan jaminan alami untuk sertifikasi organik[^6]. Metode pertanian tradisional suku pribumi juga dilestarikan sepenuhnya di sini. Ditambah dengan meningkatnya permintaan konsumen akan produk organik, tempat ini menjadi pusat pengembangan pertanian organik.
 
-Beras Fuli, beras Chihshang adalah merek perwakilan beras organik Huadong, produksi buah nona Taitung memasok 90% seluruh Taiwan, buah nona besar pernah diekspor berskala ke daratan Tiongkok. Bunga rosella adalah tanaman tradisional masyarakat adat, diproduksi menjadi teh bunga, selai dijual ke seluruh Taiwan; sukul tradisional Paiwan dan Rukai baru-baru ini memulai replantasi, menjadi indikator revitalisasi budaya dan pertanian ganda.
+Beras Fuli dan Beras Chishang adalah merek padi organik representatif dari Hoa-dong. Taitung menyumbang sekitar sembilan puluh persen dari total produksi srikaya nasional, dan pada tahun 2021, sembilan puluh lima persen srikaya nanas diekspor ke Tiongkok sebelum larangan impor[^10]. Bunga dewi (Luoshenhua) adalah tanaman tradisional suku pribumi yang diolah menjadi teh bunga dan selai untuk dijual di seluruh Taiwan; komunitas Paowan dan Rukai baru-baru ini melakukan reintroduksi padi, menjadikannya indikator pemulihan budaya dan pertanian.
 
-### Revitalisasi Pertanian Masyarakat Adat
+### Revitalisasi Pertanian Pribumi
 
-Dalam beberapa tahun terakhir, komunitas masyarakat adat melalui kerja sama koperasi industri kampung kelola secara kolektif, meningkatkan kekuatan tawar-menawar mereka terhadap saluran distribusi. Rekultivasi tanaman makanan super tradisional seperti quinoa Taiwan dan kacang pohon, dan metode pertanian ramah ekologi yang hidup berdampingan dengan alam, membentuk tiga jalur revitalisasi pertanian masyarakat adat.
+Dalam beberapa tahun terakhir, komunitas adat mengelola secara kolektif melalui koperasi industri suku, meningkatkan daya tawar mereka terhadap rantai pasokan. Pemulihan tanaman superfood seperti quinoa Taiwan dan kacang pohon (shudou) serta metode ekologis yang hidup selaras dengan alam telah membentuk tiga jalur revitalisasi pertanian pribumi[^4].
 
 ## Tantangan dan Masa Depan Pertanian
 
-Pertanian Taiwan menghadapi kesulitan struktural: rata-rata usia populasi pertanian melebihi 65 tahun, lahan pertanian terus diikis oleh penggunaan lahan industri dan perumahan, tekanan harga produk pertanian impor meningkat setiap tahun. Pada saat yang sama, perubahan iklim meningkatkan frekuensi cuaca ekstrem, distribusi hama dan penyakit bergeser ke utara, zona yang cocok ditanami beberapa tanaman telah berubah secara diam-diam.
+Pertanian Taiwan menghadapi dilema struktural: usia rata-rata pengelola pertanian adalah 64,4 tahun (Survei Peternakan, Kehutanan, Perikanan, dan Peternakan Tahun 2020)[^11], lahan pertanian terus tergerus oleh penggunaan industri dan perumahan, sementara tekanan harga produk impor semakin meningkat setiap tahun. Selain itu, perubahan iklim meningkatkan frekuensi cuaca ekstrem, menyebabkan migrasi hama ke utara, dan zona kesesuaian beberapa tanaman telah berubah secara diam-diam.
 
 ### Tantangan Struktural
 
-Perubahan iklim membuat frekuensi topan, kekeringan, dan hujan lebat meningkat, garis distribusi hama dan penyakit bergeser ke utara, genangan air laut mengancam lahan pertanian pantai. Dari segi sosial, pemuda pedesaan mengalihkan pekerjaan, lahan pertanian disita untuk industrialisasi, ditambah kompetisi produk pertanian impor, membentuk tiga tekanan berat pada pertanian Taiwan.
+Perubahan iklim meningkatkan frekuensi topan, kekeringan, dan hujan lebat; garis distribusi hama bergeser ke utara, dan intrusi air laut mengancam lahan pertanian pesisir. Secara sosial, migrasi kaum muda dari pedesaan, konversi lahan menjadi pabrik, ditambah persaingan produk impor, membentuk tiga tekanan pada pertanian Taiwan.
 
 ### Strategi Transformasi
 
-Di sisi teknologi, Taiwan memperkenalkan prediksi hama dan penyakit berbasis AI, mengembangkan pertanian vertikal dan pabrik tanaman, dan menggunakan blockchain untuk membangun jejak produksi penjualan, memungkinkan konsumen melacak asal dan proses penanaman setiap batch produk pertanian.
+Dalam hal teknologi, Taiwan memperkenalkan prediksi hama berbasis AI, mengembangkan pertanian vertikal dan pabrik tanaman, serta menggunakan blockchain untuk membangun riwayat produksi, memungkinkan konsumen melacak asal dan proses penanaman setiap batch produk pertanian.
 
-Dari segi kebijakan, sistem asuransi pertanian, subsidi pengembalian pemuda petani muda dan penegakan penggunaan lahan pertanian, adalah tiga pilar stabilisasi pasokan pertanian. Dari segi industri, pertanian Taiwan bertransformasi ke pertanian presisi, pariwisata pertanian dan ekonomi pengalaman telah menjadi sumber pendapatan penting.
+Dari segi kebijakan, pembentukan sistem asuransi pertanian, subsidi kewirausahaan kaum muda kembali ke desa, dan penegakan hukum penggunaan lahan pertanian adalah tiga pilar utama dalam menstabilkan pasokan pertanian. Dalam hal industri, transformasi pertanian Taiwan menuju pertanian presisi, serta ekonomi wisata dan pengalaman pertanian, telah menjadi sumber pendapatan penting.
 
 ## Pertanian Taiwan dari Perspektif Global
 
-Meskipun pertanian Taiwan skala tidak besar, namun memiliki makna indikator internasional di tiga aspek: ekspor teknologi, pembangunan berkelanjutan, dan keamanan pangan.
+Meskipun skala pertanian Taiwan tidak besar, ia memiliki signifikansi indikator internasional dalam tiga aspek: ekspor teknologi, pembangunan berkelanjutan, dan ketahanan pangan.
 
-Dalam aspek pemuliaan bunga anggrek, Taiwan adalah eksportir anggrek kupu-kupu terbesar dunia; di aspek bioteknologi pertanian, teknologi pertanian vertikal dan pabrik tanaman Taiwan telah diekspor ke Jepang, Singapura. Sistem sertifikasi pertanian organik dan pengalaman pembangunan masyarakat pedesaan, juga dijadikan acuan oleh banyak negara pertanian Asia Tenggara.
+Dalam bidang pemuliaan anggrek, Taiwan adalah eksportir terbesar anggrek bulan di dunia; dalam bioteknologi pertanian, pabrik tanaman dan teknik hortikultura fasilitas Taiwan juga mulai diekspor ke luar negeri; kelompok teknis pertanian ditugaskan secara jangka panjang di negara-negara sahabat untuk membawa teknologi padi dan hortikultura ke sana.
 
-Pertanian Taiwan sedang bertransformasi dari "lumbung padi Taiwan" menuju "pulau pertanian presisi", dengan kualitas dan merek menang di atas lahan terbatas, memberikan jalur transformasi yang dapat dilaksanakan bagi ekonomi pertanian kecil Asia.
+Pertanian Taiwan sedang bertransisi dari "Lumbung Padi Taiwan" menjadi "Pulau Pertanian Presisi", meraih kemenangan melalui kualitas dan merek di lahan terbatas, menawarkan jalur transformasi yang layak bagi ekonomi pertanian kecil Asia.
 
-## Materi Referensi
+## Referensi
 
-[^1]: Biro Statistik Kementerian Pertanian, [Laporan Statistik Pertanian Taiwan Tahunan](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+[^1]: [《Laporan Tahunan Statistik Pertanian Taiwan》](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Biro Statistik Kementerian Pertanian, 2025.
 
-[^2]: Kementerian Pertanian, [Informasi Kebijakan dan Pengembangan Pertanian](https://www.moa.gov.tw/), berisi Sejarah Perkembangan Pertanian Taiwan (2023).
+[^2]: [Informasi Kebijakan dan Pengembangan Pertanian](https://www.moa.gov.tw/) — Kementerian Pertanian
 
-[^3]: Pemerintah Kabupaten Changhua, [Informasi Pengembangan Industri Pertanian Terkait](https://www.chcg.gov.tw/), berisi Laporan Pengembangan Industri Lumbung Padi Sungai Zhuoshui (2024).
+[^3]: [Informasi Terkait Pengembangan Industri Pertanian](https://www.chcg.gov.tw/) — Pemerintah Kabupaten Changhua
 
-[^4]: Pemerintah Kabupaten Taitung, [Pertanian Masyarakat Adat dan Pengembangan Industri](https://www.taitung.gov.tw/), berisi Rencana Revitalisasi Pertanian Masyarakat Adat (2025).
+[^4]: [Pengembangan Pertanian dan Industri Pribumi](https://www.taitung.gov.tw/) — Pemerintah Kabupaten Taitung
 
-[^5]: Direktorat Irigasi Pertanian Kementerian Pertanian, [Informasi Sejarah Saluran Irigasi Jianan dan Irigasi](https://www.ia.gov.tw/), berisi Sejarah Seratus Tahun Saluran Irigasi Jianan (2020).
+[^5]: [Situs Resmi](https://www.ia.gov.tw/) — Biro Irigasi Pertanian Kementerian Pertanian
 
-[^6]: Dinas Pertanian Pemerintah Kabupaten Hualien, [Informasi Pengembangan Pertanian Organik Timur](https://www.hl.gov.tw/), berisi Survei Situasi Pertanian Organik Timur (2024).
+[^6]: [Situs Resmi](https://www.hl.gov.tw/) — Dinas Pertanian Kabupaten Hualien
+
+[^7]: [〈Saluran Irigasi Chianan〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Biro Irigasi Pertanian Kementerian Pertanian
+
+[^8]: [〈Kumpulan Sukun Umum〉](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — Platform Informasi Pendidikan Pangan Kementerian Pertanian
+
+[^9]: [〈Juara Luas Tanam dan Jumlah Rumah Tangga Pertanian Organik〉](https://info.organic.org.tw/35259/) — Jaringan Informasi Pertanian Organik Global
+
+[^10]: [〈Harga Produk Tiongkok Anjlok, Kementerian Pertanian Mendorong Pengolahan Srikaya Nanas Taiwan dan Diversifikasi〉](https://news.ltn.com.tw/news/life/breakingnews/5478936) — Liberty Times, 2026-06-21 — "95% pasar ekspor terkonsentrasi di Tiongkok", setelah Tiongkok menangguhkan impor pada September 2021, beralih ke diversifikasi dan pengolahan.
+
+[^11]: [〈Hasil Survei Peternakan, Kehutanan, Perikanan, dan Peternakan Tahun 109〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Biro Statistik Nasional
