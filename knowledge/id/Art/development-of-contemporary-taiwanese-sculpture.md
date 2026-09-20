@@ -1,570 +1,571 @@
 ---
-title: 'Perkembangan Seni Patung Kontemporer Taiwan'
-description: 'Dari Yang Yuyu, Chu Ming hingga generasi baru, jelajahi trajektori evolusi seni patung Taiwan dan semangat kreatifnya'
+title: 'Perkembangan Patung Kontemporer Taiwan'
+description: 'Menjelajahi lintasan evolusi dan semangat kreatif seni patung Taiwan, dari Yang Ying-feng, Chu Ming hingga generasi baru'
 date: 2026-03-18
 category: 'Art'
 tags:
   [
-    'patung',
+    'Patung',
     'Chu Ming',
-    'Yang Yuyu',
-    'Lin Shun-long',
+    'Yang Ying-feng',
+    'Lin Shun-lung',
     'Hung Yi',
-    'seni publik',
-    'seni kontemporer',
-    'ukiran kayu',
+    'Seni Publik',
+    'Seni Kontemporer',
+    'Ukiran Kayu',
   ]
 subcategory: '視覺藝術'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:91ce45b4be5f77a7'
-sourceBodyHash: 'sha256:fe5beda00418f863'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: 'b8f50ebb3'
+sourceContentHash: 'sha256:9e576e02178fac1e'
+sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
+translatedAt: '2026-09-21T00:58:31+08:00'
 ---
 
-# Perkembangan Seni Patung Kontemporer Taiwan
+# Perkembangan Patung Kontemporer Taiwan
 
-## Ringkasan 30 Detik
+## Ikhtisar 30 Detik
 
-Seni patung kontemporer Taiwan berkembang dari kerajinan ukiran kayu tradisional, mengalami tiga periode generasi penting: Huang Tu-shui meletakkan dasar patung modern, Yang Yuyu membangun kosakata patung kontemporer, dan Chu Ming mengintegrasikan semangat Timur dengan visi internasional. Sejak gerakan patung modern 1960an, seniman patung Taiwan mencapai terobosan signifikan dalam penggunaan material, ekspresi tema, dan konsep ruang. Saat ini ruang pameran seperti Museum Patung Chu Ming dan taman patung outdoor tersebar di seluruh Taiwan, sementara seniman generasi baru seperti Lin Shun-long dan Hung Yi terus mendorong pengembangan beragam seni patung. Patung Taiwan juga telah mengumpulkan visibilitas dan penerimaan koleksi yang stabil di pameran internasional.
+Patung kontemporer Taiwan berkembang dari kerajinan ukir kayu tradisional, melalui tiga generasi penting: Huang Tu-shui meletakkan dasar patung modern; Yang Ying-feng membangun kosakata patung kontemporer; dan Chu Ming mengintegrasikan semangat Timur ke dalam pandangan internasional. Sejak gerakan seni modern pada tahun 1960-an, para pematung Taiwan telah mencapai terobosan signifikan dalam penggunaan material, ekspresi tema, dan konsep ruang. Saat ini, tempat pamer seperti Museum Chu Ming dan Taman Patung Luar Ruangan tersebar di seluruh Taiwan, sementara seniman generasi baru seperti Lin Shun-lung dan Hung Yi terus mendorong perkembangan seni patung yang beragam. Seni patung Taiwan juga telah memperoleh visibilitas dan pengakuan koleksi tertentu dalam pameran internasional.
 
-Chu Ming meninggal pada Mei 2023 dengan usia 85 tahun. Museum yang dia dirikan semasa hidup dan warisan kreatifnya merupakan koordinat penting untuk memahami bagaimana patung Taiwan mencapai panggung internasional[^1].
+Chu Ming meninggal pada April 2023 pada usia 85 tahun. Museum dan warisan kreatif yang ia dirikan semasa hidupnya adalah koordinat penting untuk memahami bagaimana seni patung Taiwan bergerak ke kancah internasional[^1].
 
-Membaca artikel ini memerlukan waktu sekitar 18 menit, cocok untuk pembaca yang tertarik pada sejarah seni Taiwan, seni publik, atau medium patung.
+Artikel ini membutuhkan waktu sekitar 18 menit untuk dibaca, cocok bagi pembaca yang tertarik pada sejarah seni Taiwan, seni publik, atau medium patung.
 
-**Kata kunci**: seri Tai Chi, seri Manusia, patung modern, seni publik, inovasi material, estetika Timur
+**Kata Kunci**: Seri Tai Chi, Seri Manusia, Patung Modern, Seni Publik, Inovasi Material, Estetika Timur
 
-## Mengapa Penting
+## Mengapa Ini Penting
 
-Perkembangan seni patung kontemporer Taiwan memiliki makna berlapis. Di satu sisi, karya patung mencatat transformasi masyarakat Taiwan dari era pertanian, industrialisasi, hingga budaya pascamodern; di sisi lain, kebijakan seni publik mendorong patung keluar dari galeri seni ke ruang kehidupan sehari-hari, mengubah hubungan masyarakat umum dengan karya seni.
+Perkembangan patung kontemporer Taiwan memiliki makna berlapis. Di satu sisi, karya patung mencatat proses transformasi masyarakat Taiwan dari masyarakat agraris menjadi industri dan budaya pascamodern; di sisi lain, implementasi kebijakan seni publik membawa patung keluar dari museum dan masuk ke ruang kehidupan sehari-hari, mengubah hubungan antara orang biasa dan karya seni.
 
-Bagi mereka yang peduli dengan kebijakan budaya, perkembangan patung Taiwan juga menjadi studi kasus tentang "bagaimana kebijakan mendorong ekosistem seni"—dari sistem pendidikan, subsidi penciptaan, hingga regulasi seni publik, setiap dimensi membentuk lanskap patung kontemporer hari ini.
+Bagi mereka yang peduli pada kebijakan budaya, perkembangan patung Taiwan juga merupakan studi kasus tentang "bagaimana kebijakan mendorong ekosistem seni"—mulai dari sistem pendidikan, subsidi kreatif, hingga regulasi seni publik; setiap aspek membentuk lanskap patung saat ini.
 
-Dari tema kerakyatan hingga isu-isu kontemporer, karya patung mencerminkan transformasi sosial Taiwan dan identitas budaya; keahlian ukiran kayu tradisional ditransformasi dalam tangan seniman kontemporer menjadi bahasa ekspresif baru, mengawetkan dan memperdalam memori kerajinan budaya.
+Dari tema lokal ke isu kontemporer, karya patung mencerminkan perubahan sosial dan identitas budaya masyarakat Taiwan; teknik ukir kayu tradisional ditransformasikan menjadi kosakata ekspresi baru oleh seniman kontemporer, melestarikan dan memperdalam memori kerajinan budaya.
 
-- **Posisi di panggung seni internasional**: Seniman patung Taiwan berhasil meraih penghargaan di pameran internasional, meningkatkan daya tarik budaya lunak Taiwan
-- **Peningkatan estetika ruang publik**: Karya patung berkualitas tinggi memasuki ruang publik dalam skala besar, meningkatkan standar keindahan estetika kota
-- **Nilai pendidikan dan warisan**: Membangun sistem pendidikan patung yang sistematis, melatih talenta kreatif generasi baru
+- **Status di Kancah Internasional**: Pematung Taiwan meraih prestasi berulang dalam pameran internasional, meningkatkan kekuatan lunak budaya Taiwan.
+- **Peningkatan Keindahan Ruang Publik**: Banyak karya patung berkualitas memasuki ruang publik, meningkatkan kualitas estetika kota.
+- **Nilai Pewarisan Pendidikan**: Membangun sistem pendidikan patung yang sistematis untuk membina talenta kreatif generasi baru.
 
 ## Konteks Perkembangan Patung Taiwan
 
-Sejarah patung Taiwan dapat dibagi menjadi tiga lapisan: tradisi kerajinan rakyat yang diwakili oleh ukiran kayu kuil, transformasi modern dengan pengenalan seni patung realis Barat pada era Jepang, dan pembentukan kosakata seni kontemporer oleh generasi maestro pasca-Perang. Ketiga lapisan ini tidak terpisah secara jelas, tetapi saling tumpang tindih, membentuk wajah beragam patung Taiwan saat ini.
+Sejarah seni patung Taiwan dapat dibagi menjadi tiga lapisan: tradisi kerajinan rakyat yang diwakili oleh ukiran kuil, transformasi modern pada periode pemerintahan Jepang yang memperkenalkan realisme Barat, dan generasi maestro yang membangun kosakata kontemporer pasca-perang. Ketiga lapisan ini tidak terpisah secara tegas, melainkan saling bertumpuk, membentuk wajah beragam seni patung Taiwan saat ini.
 
-Akar tradisi kerajinan tertanam dalam masyarakat imigran, dengan permintaan ukiran agama mendukung seluruh sistem sistem master. Era Jepang membuka jendela teknik realis Barat melalui sistem pameran resmi, sementara pembentukan sistem pendidikan seni pasca-Perang menyediakan tanah pemeliharaan bagi generasi maestro.
+Akar tradisi kerajinan tertanam dalam masyarakat imigran; kebutuhan pahatan keagamaan menopang seluruh sistem maestro. Sistem pameran resmi pada masa pemerintahan Jepang membuka jendela terhadap teknik realisme Barat, sementara pembentukan sistem pendidikan seni pasca-perang menyediakan tanah bagi generasi maestro.
 
-Dari karya Huang Tu-shui tahun 1920 "Nectar of Compassion (甘露水)" diterima di Imperial Exhibition, hingga patung Taiwan naik ke panggung pameran internasional tahun 1990an, evolusi ini merentang tujuh puluh tahun, melibatkan tiga konteks sejarah yang sangat berbeda: pendidikan kolonial, pembangunan budaya pasca-Perang, dan globalisasi.
+Dari Huang Tu-shui yang menjadi orang Taiwan pertama terpilih dalam Pameran Kekaisaran pada tahun 1920 dengan karyanya _Seruling Anak Gunung_ (山童吹笛), dan terpilih lagi pada Pameran Kekaisaran ketiga pada tahun 1921 dengan karya _Air Murni_ (甘露水)[^2], hingga seni patung Taiwan naik ke panggung internasional pada tahun 1990-an, evolusi ini membentang selama tujuh puluh tahun, melibatkan tiga konteks sejarah yang sangat berbeda: pendidikan kolonial, pembangunan budaya pasca-perang, dan globalisasi.
 
-### Fondasi Tradisional: Akar Kerajinan Rakyat yang Mendalam
+### Dasar Tradisional: Akar Kuat Kerajinan Rakyat
 
-**Tradisi ukiran kayu kuil**:
+**Tradisi Ukiran Kuil**:
 
-- Teknik ukiran yang diimpor oleh imigran pada era Ming-Qing
-- Keahlian presisi dalam ukiran ikon dewata dan dekorasi arsitektur
-- Sistem transmisi teknik melalui hubungan master-apprentice
+- Teknik pahat yang dibawa oleh para imigran pada periode Ming dan Qing
+- Teknik ahli dalam memahat dewa dan dekorasi arsitektur
+- Sistem transmisi teknik melalui sistem maestro
 
-**Ciri-ciri ukiran kerajinan**:
+**Karakteristik Pahatan Kerajinan**:
 
 - Menekankan fungsi praktis dan efek dekoratif
-- Tema cerita rakyat dan mitologi yang kaya
-- Teknik manual halus dan penguasaan alat khusus
+- Materi cerita rakyat dan mitologi yang kaya
+- Teknik tangan yang teliti dan penggunaan alat
 
-**Variasi gaya regional**:
+**Perbedaan Gaya Lokal**:
 
-- Utara: gaya lebih sederhana dan terukur
-- Tengah: dekorasi kompleks dan megah
-- Selatan: ekspresi bebas dan penuh semangat
+- Utara: Cenderung sederhana dan lugas
+- Tengah: Dekorasi rumit dan mewah
+- Selatan: Penuh semangat dan bebas
 
 ### Transformasi Modern: Lompatan dari Kerajinan ke Seni
 
-**Huang Tu-shui (1895-1930)**: Seniman patung modern generasi pertama Taiwan
+**Huang Tu-shui (1895-1930)**: Generasi pertama pematung modern Taiwan
 
-- Ciri karya: Memadukan realisme gaya Jepang dengan tema kerakyatan Taiwan
-- Karya penting: "Nectar of Compassion (甘露水)", "Pheasant (帝雉)", "Southern Country (南國)"
-- Signifikansi sejarah: Membuka era patung modern Taiwan
+- Karakteristik karya: Menggabungkan realisme Jepang dengan nuansa lokal Taiwan
+- Karya representatif: _Air Murni_ (甘露水) (1921), _Burung Pheasant_ (帝雉) (1922), _Kelompok Kerbau_ (水牛群像) (1930)[^2]
+- Signifikansi historis: Membuka jalan bagi patung modern Taiwan.
 
-**Perkembangan era Jepang**:
+**Perkembangan pada Masa Pemerintahan Jepang**:
 
-- Sistem pameran resmi memperkenalkan konsep patung Barat
-- Sistem pendidikan seni perlahan-lahan dibangun
-- Modernisasi teknik dan material
+- Sistem pameran resmi memperkenalkan pandangan pahat Barat
+- Sistem pendidikan seni secara bertahap terbentuk
+- Modernisasi dan perbaikan teknik material.
 
-### Penetapan Kontemporer: Fondasi Generasi Maestro
+### Penegasan Kontemporer: Pondasi Generasi Maestro
 
-**Yang Yuyu (1926-1997)**: Perintis patung modern
+**Yang Ying-feng (1926-1997)**: Perintis patung modern[^16]
 
-**Visi artistik**:
+**Filosofi Seni**:
 
-- Pelopor "modernisasi patung Tiongkok"
 - Menekankan spiritualitas dan estetika Timur
-- Pendukung konsep "patung lanskap"
+- Mengemukakan konsep "Patung Lanskap" (_Lifescape Sculpture_) sekitar tahun 1980-an[^3]
 
-**Karya penting**:
+**Karya Penting**:
 
-- "Phoenix Descending (鳳凰來儀)": Landmark Bandara Internasional Taipei
-- "Taroko": Eksplorasi abstrak keindahan pegunungan Taiwan
-- "Dragon Gate (龍門)": Interpretasi modern dari simbol tradisional
+- _Phoenix Datang_ (鳳凰來儀): Patung lanskap raksasa berstruktur baja merah di depan Paviliun Republik Tiongkok pada Pameran Dunia Osaka tahun 1970[^3].
+- Seri Lanskap Taitung: Mengekspresikan keindahan pegunungan Taiwan dengan metode abstrak.
+- Perencanaan patung lanskap untuk Terminal Bandara Internasional Kaohsiung dan lobi keberangkatan[^3].
 
-**Ciri-ciri kreativitas**:
+**Karakteristik Kreatif**:
 
-- Inovasi dalam penggunaan material stainless steel
-- Kombinasi abstraksi geometris dengan bentuk organik
-- Pertimbangan holistik lingkungan ruang
+- Penggunaan inovatif material baja tahan karat (stainless steel).
+- Kombinasi bentuk geometris dan organik.
+- Pertimbangan keseluruhan ruang lingkungan.
 
-## Chu Ming: Seniman Patung Taiwan dari Kerakyatan ke Panggung Internasional
+## Chu Ming: Pematung Taiwan dari Lokal ke Internasional
 
-Chu Ming (1938-2023) adalah seniman patung paling dikenal secara internasional dalam sejarah patung Taiwan[^1]. Karya-karyanya berawal dari magang dalam tradisi ukiran kayu, dipandu oleh Yang Yuyu memasuki ranah seni kontemporer, mengembangkan dua sistem kreativitas utama seri Tai Chi dan seri Manusia, dengan koleksi karya tersebar di berbagai negara Eropa, Amerika, dan Asia.
+Chu Ming (1938-2023) adalah seniman dengan visibilitas internasional tertinggi dalam sejarah seni patung Taiwan[^1]. Karyanya dimulai dari warisan ukiran kayu tradisional, kemudian diarahkan ke ranah seni kontemporer di bawah bimbingan Yang Ying-feng, mengembangkan dua sistem kreatif utama: Seri Tai Chi dan Seri Manusia. Karya-karyanya dikoleksi di seluruh Eropa, Amerika, dan Asia.
 
-### Perjalanan Artistik dan Transformasi Gaya
+### Perjalanan Seni dan Evolusi Gaya
 
-**Seri awal kerakyatan (tahun 1970an)**:
+**Seri Lokal Awal (1970-an)**:
 
-**Latar belakang magang**:
+**Latar Belakang Guru**:
 
-- Tahun 1953-1957 belajar ukiran kayu tradisional dengan Li Chin-chuan
-- Tahun 1968-1976 menandingi Yang Yuyu untuk belajar patung modern
-- Transisi dari pengrajin menjadi seniman seni kontemporer
+- Sejak 1953, ia belajar dari pemahat Li Jinchuan di Kuil Tongsiao Cihui selama tiga tahun empat bulan.
+- Pada tahun 1968, ia menjadi murid Yang Ying-feng dan belajar patung modern selama delapan tahun[^5].
+- Bertransisi dari pengrajin kerajinan menjadi seniman kontemporer.
 
-**Karya representatif**:
+**Karya Representatif**:
 
-- "Anak Penggembala": Penggambaran kehidupan kerakyatan sederhana
-- "Kerja Sama Bersama": Representasi dinamis kehidupan pedesaan
-- "Kerbau": Kombinasi sempurna kekuatan dan keindahan
+- _Anak Gembala_: Penggambaran kehidupan pedesaan yang sederhana.
+- _Kerja Sama Bersama_: Presentasi hidup kehidupan desa.
+- _Kerbau_: Perpaduan sempurna antara kekuatan dan keindahan.
 
-**Ciri-ciri kreativitas**:
+**Karakteristik Kreatif**:
 
-- Mempertahankan intisari teknik ukiran kayu tradisional
-- Menekankan eksplorasi vitalitas karya
-- Metode penyederhanaan "mengasingkan bentuk untuk mempertahankan esensi"
+- Mempertahankan esensi teknik ukir kayu tradisional.
+- Menekankan ekspresi vitalitas karya.
+- Metode penyederhanaan yang mempertahankan roh.
 
-### Seri Tai Chi: Penyatuan Sempurna Budaya Timur dan Barat
+### Seri Tai Chi: Fusi Sempurna Budaya Timur dan Barat
 
-**Konsep kreativitas**:
+**Filosofi Kreatif**:
 
-- Mentransformasi gerakan tubuh martial arts tai chi menjadi bahasa patung
-- Mengejar keseimbangan estetika antara dinamis dan statis
-- Merepresentasikan filosofi Tiongkok tentang harmoni yin-yang
+- Mentransformasi gerakan tubuh dari seni bela diri Tai Chi menjadi kosakata patung.
+- Mengejar estetika keseimbangan antara gerak dan diam.
+- Mewujudkan pemikiran harmoni Yin dan Yang dalam filsafat Tiongkok.
 
-**Ciri-ciri teknik**:
+**Karakteristik Teknik**:
 
-- Menyisakan jejak kapak pada permukaan blok besar
-- Penyederhanaan bentuk untuk menekankan dinamika gerakan
-- Pendekatan ekspresif yang sekaligus abstrak dan figuratif
+- Mempertahankan bekas pahat kasar pada bidang besar.
+- Penyederhanaan bentuk menekankan dinamisme.
+- Metode ekspresi yang bersifat abstrak sekaligus konkret.
 
-**Karya penting**:
+**Karya Penting**:
 
-- "Tai Chi Series-Single Whip Down (太極系列-單鞭下勢)"
-- "Tai Chi Series-Paired Practice (太極系列-對練)"
-- "Tai Chi Series-Beginning Posture (太極系列-起勢)"
+- _Seri Tai Chi - Gerakan Pukulan Tunggal_
+- _Seri Tai Chi - Latihan Pasangan_
+- _Seri Tai Chi - Memulai Gerak_
 
-**Pengaruh internasional**:
+**Pengaruh Internasional**:
 
-- Pameran solo Tokyo Central Art Museum 1977 menciptakan sensasi
-- Pameran besar Place Vendôme Paris 1997
-- Menetapkan posisi patung Taiwan di panggung seni internasional
+- Pameran tunggal di Museum Pusat Tokyo pada tahun 1977 menggemparkan.
+- Pameran besar di Place Vendôme, Paris pada tahun 1997.
+- Menegaskan posisi seni patung Taiwan di kancah internasional.
 
-### Seri Manusia: Observasi Mendalam atas Kehidupan Kontemporer
+### Seri Manusia: Pengamatan Mendalam Kehidupan Kontemporer
 
-**Transformasi kreativitas**:
+**Pergeseran Kreatif**:
 
-- Tahap kreativitas baru dimulai 1980an
-- Peralihan dari budaya tradisional ke observasi masyarakat kontemporer
-- Eksperimen beragam dalam penggunaan material
+- Tahap kreasi baru yang dimulai pada tahun 1980-an.
+- Transisi dari budaya tradisional ke pengamatan masyarakat kontemporer.
+- Eksperimen diversifikasi penggunaan material.
 
-**Konten tematik**:
+**Isi Tema**:
 
-Seri tentang tentara merefleksikan perang dan perdamaian, sementara seri atlet menampilkan keindahan dinamika tubuh manusia.
+Seri militer merefleksikan perang dan perdamaian, sementara seri atlet menampilkan keindahan dinamika tubuh manusia.
 
-- **Seri balet**: Dialog antara seni Timur dan Barat
-- **Seri militer**: Interpretasi artistik budaya militer
+- **Seri Balet**: Dialog antara seni Timur dan Barat.
+- **Seri Tiga Militer**: Interpretasi artistik budaya militer.
 
-**Inovasi material**:
+**Inovasi Material**:
 
-- Tanah liat: Mempertahankan sentuhan tangan dan kualitas sederhana
-- Busa: Upaya berani dalam material eksperimental
-- Stainless steel: Penerapan material industri modern
-- Styrofoam: Eksplorasi material ringan
-- Perunggu: Interpretasi modern material tradisional
+- Tanah liat: Mempertahankan tekstur dan sifat sederhana.
+- Busa: Eksperimen berani dengan material.
+- Baja tahan karat: Penggunaan material industri modern.
+- Polistirena: Eksplorasi material ringan.
+- Perunggu: Interpretasi modern dari material tradisional.
 
-### Museum Patung Chu Ming: Fondasi Penting Pendidikan Seni
+### Museum Chu Ming: Basis Penting Pendidikan Seni
 
-**Latar belakang pendirian**:
+**Latar Belakang Pendirian**:
 
-Museum Patung Chu Ming didirikan tahun 1999 di Jinshan, Kota Taipei Baru, sebagai museum pribadi pertama berdasarkan seniman tunggal di Taiwan, menampilkan perjalanan kreatif lengkap Chu Ming dari ukiran kayu kerakyatan hingga seri Manusia[^6]. Chu Ming meninggal Mei 2023 dengan usia 85 tahun; museum tetap terbuka untuk publik dan menjadi institusi utama untuk menyimpan warisan artistiknya[^1].
+Museum Chu Ming dibuka di Jinshan, Kota New Taipei pada tahun 1999. Setelah persiapan selama dua belas tahun sejak 1987, museum ini menampilkan perjalanan kreatif lengkap Chu Ming dari ukiran kayu lokal hingga Seri Manusia[^6]. Ia meninggal pada 22 April 2023 pada usia 85 tahun; museum tetap terbuka dan menjadi institusi utama untuk melestarikan warisan seninya[^1].
 
-**Desain ruang**:
+**Desain Ruang**:
 
-- Kombinasi taman patung outdoor dan ruang pameran indoor
-- Penempatan di lingkungan alam yang indah dengan pemandangan laut dan gunung
-- Dialog harmonis antara karya seni dan lingkungan
+- Menggabungkan taman patung luar ruangan dengan ruang pamer dalam ruangan.
+- Penataan di lingkungan alami yang menghadap gunung dan laut.
+- Dialog harmonis antara karya seni dan lingkungan.
 
-**Fungsi pendidikan**:
+**Fungsi Pendidikan**:
 
-- Program promosi pendidikan patung
-- Mekanisme seniman residensi untuk penciptaan
-- Platform pertukaran patung internasional
+- Program promosi pendidikan patung.
+- Mekanisme kreasi residensi seniman.
+- Platform pertukaran internasional seni patung.
 
-## Eksplorasi Beragam Seniman Patung Generasi Baru
+## Eksplorasi Beragam Seniman Generasi Baru
 
-Lin Shun-long, Hung Yi, dan seniman patung generasi kelahiran 1960-70an telah membuka jalur kreativitas yang berangkat dari ruang publik dalam ekosistem seni kontemporer Taiwan. Karya-karya mereka secara luas tersebar di ruang publik kota-kota, menciptakan kontak langsung dengan masyarakat luas, membentuk hubungan sosial yang berbeda dengan generasi maestro.
+Pematung seperti Lin Shun-lung dan Hung Yi, yang lahir antara tahun 1950-70, telah menempuh jalur kreatif yang berawal dari ruang publik dalam ekosistem seni kontemporer Taiwan. Karya mereka banyak ditempatkan di ruang publik kota, bersentuhan langsung dengan masyarakat umum, membentuk hubungan sosial yang berbeda dari generasi maestro.
 
-Lin Shun-long terkenal dalam seni bumi, menggunakan material alami seperti bambu menciptakan instalasi berskala besar di ruang outdoor; Hung Yi diakui karena patung daya rupa binatang dengan warna cerah, menggabungkan elemen seni rakyat Taiwan, karya-karyanya mudah didekati dan memiliki daya pengenal yang kuat. Selain itu, Liao Ying-hsi, Chen Cheng-hsiung, Pu Hao-ming dan seniman lainnya masing-masing melakukan eksplorasi mendalam dalam pengelasan logam, etika ukiran batu, instalasi multimedia dan lain-lain.
+Lin Shun-lung unggul dalam seni lanskap alam (_land art_), menciptakan instalasi besar di ruang luar menggunakan material alami seperti bambu; sementara Hung Yi terkenal dengan patung hewan berwarna cerah, memadukan elemen seni rakyat Taiwan, menghasilkan karya yang mudah didekati dan memiliki identitas kuat. Selain itu, seniman dari generasi berbeda seperti Liao Ying-hsi, Chen Cheng-hsiung, Pu Hao-ming, dan Li Yik-hsien masing-masing mendalami bidang patung dengan pewarnaan baja tahan karat, ukiran kayu, patung perunggu, dan seni publik mosaik.
 
-Masa pertumbuhan seniman-seniman generasi baru ini bertepatan dengan era besar-besaran implementasi kebijakan seni publik Taiwan, kebijakan menyediakan peluang kreativitas dan dukungan pasar yang sampai tingkat tertentu membentuk jalur kreativitas generasi ini.
+Masa pertumbuhan seniman generasi baru ini bertepatan dengan periode implementasi besar-besaran kebijakan seni publik Taiwan; peluang kreatif dan dukungan pasar yang disediakan oleh kebijakan tersebut, dalam batas tertentu membentuk jalur kreatif para seniman ini.
 
-### Lin Shun-long: Penyair Seni Lingkungan
+### Lin Shun-lung: Penyair Seni Lingkungan
 
-**Filosofi kreativitas**:
+**Filosofi Kreatif**:
 
-- Perhatian terhadap ekologi lingkungan dan kepedulian kemanusiaan
-- Penciptaan seni bumi menggunakan material alami
-- Penekanan pada hubungan simbiosis antara seni dan lingkungan
+- Memperhatikan ekologi lingkungan dan kepedulian kemanusiaan.
+- Menciptakan seni lanskap alam menggunakan material alami.
+- Menekankan hubungan simbiosis antara seni dan lingkungan.
 
-**Karya penting**:
+**Karya Penting**:
 
-- "Moon Fish (月亮魚)": Seni lanskap Taiwan Expo 2018 Taichung
-- "Listening to the Sound of Flowers Blooming (聆聽花開的聲音)": Zona hutan Houli Taiwan Expo
-- "Seed Boat (種子船)": Seni lingkungan Taman Alam Guandu
+- _Melintasi Batas Negara・Laut_ (Perahu Benih): Pada tahun 2013, ia membuat perahu benih berbentuk buah kacang dari kayu apung; pada tahun 2016, karya ini kembali ke Festival Seni Internasional Setouchi dan dikoleksi secara permanen oleh Prefektur Kagawa[^8].
+- _Benih—Sebuah Biji Jatuh dari Langit_: Di Taman Hori, Taiwan Expo 2018, ia membuat benih raksasa berdiameter 12 meter dan tinggi 15 meter dari bambu Moso dan bambu Osmanthus[^9].
+- _Melintasi Batas Negara・Ombak_: Pulau Shodoshima pada Festival Seni Internasional Setouchi tahun 2019, ruang berbentuk bulu paku laut yang terdiri dari lebih dari empat ribu batang bambu[^10].
 
-**Ciri-ciri kreativitas**:
+**Karakteristik Kreatif**:
 
-- Penggunaan cerdas material alami seperti bambu
-- Integrasi instalasi outdoor berskala besar dengan lingkungan
-- Kemampuan menciptakan ruang yang bernada puitis
+- Penggunaan cerdas material alami seperti bambu.
+- Integrasi instalasi luar ruangan berskala besar dengan lingkungan.
+- Kemampuan menciptakan ruang puitis.
 
-### Hung Yi: Ekspresi Kontemporer Berwarna-Warni
+### Hung Yi: Ekspresi Kontemporer yang Penuh Warna
 
-**Gaya artistik**:
+**Gaya Seni**:
 
-- Patung binatang dengan warna-warni cerah
-- Integrasi elemen seni rakyat Taiwan
-- Kombinasi material modern dan pola tradisional
+- Patung hewan berwarna cerah.
+- Menggabungkan elemen seni rakyat Taiwan.
+- Kombinasi material modern dan pola tradisional.
 
-**Karya representatif**:
+**Karya Representatif**:
 
-- Seri "Banteng (牛)": Interpretasi kontemporer ternak air Taiwan
-- "Monkey Blessing (福祿猴)": Lampu utama Taiwan Lantern Festival 2016
-- "Monkey King (美猴王)": Kombinasi mitologi tradisional dan estetika modern
+- Seri _Sapi_: Interpretasi kontemporer dari kerbau Taiwan.
+- _Monyet Fu Lu_: Lampu utama Festival Lentera Taipei 2016.
+- _Sun Go Kong_: Menggabungkan mitologi tradisional dengan estetika modern.
 
-**Ciri-ciri kreativitas**:
+**Karakteristik Kreatif**:
 
-- Penguasaan material fiberglass
-- Transformasi modern motif keberuntungan tradisional
-- Karakteristik ramah publik dalam seni publik
+- Penggunaan mahir material serat kaca.
+- Transformasi pola keberuntungan rakyat menjadi bentuk modern.
+- Sifat seni publik yang mudah diterima masyarakat.
 
-### Seniman Patung Kontemporer Penting Lainnya
+### Pematung Kontemporer Penting Lainnya
 
-**Liao Ying-hsi**:
+**Liao Ying-hsi (1968-)**:
 
-- Pelopor patung pengelasan logam
-- Transformasi artistik material industri
-- Ekspresi bentuk abstrak yang presisi
+- Lulus dari Departemen Lukisan Barat, Institut Seni Universitas Donghai; beralih dari dua dimensi ke tiga dimensi pada tahun 2008.
+- Menggunakan bentuk baja tahan karat dan pewarnaan, melanjutkan konsep garis "Urutan Genetik".
+- Memiliki peran sebagai seniman sekaligus kurator internasional[^11].
 
-**Chen Cheng-hsiung**:
+**Chen Cheng-hsiung (1942-)**:
 
-- Eksplorasi mendalam material ukiran batu
-- Interpretasi patung filsafat Zen Timur
-- Ekspresi makna melalui bentuk sederhana
+- Pematung kayu dari Tainan; belajar di toko patung Buddha Beigang dan Guru Li Huanmei di Lukang sejak 1955, lulus pada tahun 1958.
+- Menggabungkan teknik pahat Tangshan, patung Buddha Taiwan, ukiran Jepang _Ittō_, dan realisme Barat.
+- Memenangkan Penghargaan Sastra Wu Sanlian pada tahun 1983 dan Penghargaan Struktur Baru Jepang pada tahun 1989; pameran tunggal di Museum Kota Tainan pada tahun 2021[^12].
 
-**Pu Hao-ming**:
+**Pu Hao-ming (1944-)**:
 
-- Patung multimedia gabungan
-- Kepedulian isu sosial kontemporer
-- Eksperimen ruang instalasi seni
+- Putra pematung Pu Tsian-sheng; terlibat dalam pembuatan patung bersama ayahnya selama tiga belas tahun.
+- Belajar di Royal Academy of Fine Arts, Brussels, Belgia dan Paris, Prancis pada tahun 1980.
+- Patung perunggu realis; pameran "Suhu: Pameran Patung Ayah dan Anak Pu Tsian-sheng x Pu Hao-ming" di Museum Amerika Selatan pada tahun 2024[^13].
 
-**Li I-hsun**:
+**Li Yik-hsien**:
 
-- Keahlian teknik pengecoran perunggu
-- Representasi bentuk manusia yang dinamis
-- Interpretasi gaya realis kontemporer
+- Menciptakan seni publik melalui kolase material campuran.
 
 ## Seni Publik dan Ruang Kota
 
-Tahun 1992, "Undang-Undang Promosi Seni dan Budaya" menetapkan kebijakan "satu persen seni publik", mengharuskan proyek konstruksi publik mengalokasikan 1% anggaran untuk pemasangan karya seni[^9]. Kebijakan ini mengubah cara produksi patung Taiwan: seniman memiliki sumber proyek yang stabil, dan ruang kota secara akumulatif mengumpulkan sejumlah besar karya patung.
+Pada tahun 1992, _Peraturan Insentif Budaya dan Seni_ menetapkan kebijakan "Seni Publik Satu Persen", yang mewajibkan proyek konstruksi umum mengalokasikan 1% dana untuk instalasi karya seni[^17]. Kebijakan ini mengubah cara produksi patung Taiwan: seniman memiliki sumber proyek yang stabil, dan ruang kota mengakumulasi banyak karya patung.
 
-Taiwan hingga saat ini telah memasang lebih dari 3.000 karya seni publik, tersebar di hub transportasi, kampus, taman, dan lembaga pemerintah[^7]. Di balik angka ini adalah mesin institusional kompleks yang terdiri dari tinjauan komite, partisipasi komunitas, dan tender seniman, keefektifan dan kontroversi operasionalnya masih menjadi topik diskusi dalam kebijakan budaya.
+Menurut statistik Kementerian Budaya, hingga Desember 2023, total 5.537 karya seni publik telah diselesaikan di Taiwan, melibatkan lebih dari dua ribu seniman dan akademisi, tersebar di pusat transportasi, kampus, taman, dan instansi pemerintah[^7]. Di balik angka ini terdapat sistem kompleks yang terdiri dari peninjauan komite, partisipasi komunitas, dan tender seniman; efektivitas dan kontroversi sistem ini masih menjadi topik diskusi dalam dunia kebijakan budaya.
 
-Bagaimana mempertahankan kualitas karya seni di tengah batasan anggaran dan proses administratif adalah tantangan jangka panjang yang dihadapi kebijakan seni publik; beberapa karya rusak atau dipindahkan karena kurangnya pemeliharaan, juga memicu diskusi tentang keberlanjutan seni publik.
+Tantangan jangka panjang kebijakan seni publik adalah bagaimana mempertahankan kualitas artistik di bawah batasan anggaran dan proses administrasi; beberapa karya rusak atau dihapus karena kurangnya pemeliharaan, memicu diskusi tentang keberlanjutan seni publik.
 
 ### Perkembangan Kebijakan Seni Publik
 
-**Proses legislasi**:
+**Proses Legal**:
 
-- Tahun 1992 "Undang-Undang Promosi Seni dan Budaya"
-- Penetapan peraturan pemasangan seni publik
-- Implementasi kebijakan "satu persen seni publik"
+- _Peraturan Insentif Budaya dan Seni_ tahun 1992.
+- Penetapan metode instalasi seni publik.
+- Implementasi kebijakan "Satu Persen Seni Publik".
 
-**Mekanisme pemasangan**:
+**Mekanisme Instalasi**:
 
-- Proyek konstruksi publik wajib mengalokasikan 1% anggaran untuk karya seni
-- Sistem tinjauan komite profesional
-- Program penciptaan partisipatif komunitas
+- Proyek umum wajib mengalokasikan 1% dana untuk karya seni.
+- Sistem peninjauan komite profesional.
+- Program kreasi partisipatif komunitas.
 
-**Evaluasi hasil**:
+**Evaluasi Hasil**:
 
-- Total lebih dari 3.000 karya seni publik di seluruh Taiwan
-- Peningkatan standar estetika keindahan kota
-- Peluang penciptaan yang diperluas bagi seniman
+- Total 5.537 karya seni publik diselesaikan di seluruh Taiwan (hingga Desember 2023)[^7].
+- Meningkatkan kualitas estetika kota.
+- Mendorong peluang kreatif seniman.
 
-### Contoh Kasus Patung Publik Penting
+### Kasus Patung Publik Penting
 
-**Landmark hub transportasi**:
+**Landmark Pusat Transportasi**:
 
-- "Phoenix Descending (鳳凰來儀)" di Bandara Taoyuan (Yang Yuyu)
-- "Dome of Light (光之穹頂)" di Stasiun MRT Formosa (Master Shuixian)
-- "Flower of Wisdom (智慧之花)" di Taipei 101 (desain Issey Miyake)
+- _Kubah Cahaya_ (The Dome of Light) di Stasiun MRT Kaohsiung Belle Isle (oleh seniman kaca Italia Narcissus Quagliata, yang disebut Taiwan sebagai "Master Lily"); patung lanskap Yang Ying-feng di Bandara Internasional Kaohsiung[^3].
 
-**Patung estetika urban**:
+**Seni Publik Landmark Komersial**:
 
-- "Heart of Taichung (台中之心)" Pemerintah Kota Taichung
-- "Boat of Love (愛之船)" Sungai Love Kaohsiung
-- "Taman Budaya Kongzi (孔廟文化園區)" Tainan
+- _LOVE_ (Robert Indiana) dan _Kehidupan Tak Terbatas_ (Kang Mu-xiang, dibuat dari kabel lift pensiunan) di Taipei 101[^14].
 
-**Pendidikan seni kampus**:
+**Pendidikan Seni Kampus**:
 
-- Pemasangan patung edukatif di berbagai sekolah
-- Program seniman residensi di kampus
-- Mekanisme penciptaan kolaboratif guru-murid
+- Sekolah berbagai tingkatan memasang patung edukatif.
+- Program residensi seniman di kampus.
+- Mekanisme kreasi bersama antara guru dan murid.
 
-### Taman Patung dan Ruang Pameran
+### Taman Patung dan Ruang Pamer
 
-**Lokasi pameran profesional**:
+**Area Pamer Profesional**:
 
-- **Museum Patung Chu Ming**: Jinshan, Kota Taipei Baru
-- **Taman Patung Chimei Museum**: Distrik Rende, Tainan
-- **Taman Patung National Taiwan Museum of Fine Arts**: Distrik Xitun, Taichung
+- **Museum Chu Ming**: Jinshan, Kota New Taipei.
+- **Kompleks Museum Chi Mei**: Rinde, Tainan.
+- **Patung Luar Ruangan Kompleks Museum Nasional Taiwan**: Distrik X, Taichung.
 
-**Taman patung urban**:
+**Taman Patung Kota**:
 
-- Taman Hutan Daan Taipei
-- Taman Hutan Aozidai Kaohsiung
-- Taman Patung Fengle Taichung
+- Taman Patung Fengle, Taichung.
 
-**Pameran patung internasional**:
+**Pameran Seni Internasional**:
 
-- Pameran Patung Outdoor Internasional Guandu
-- Pameran Patung Internasional Taichung Tahunan
-- Festival Seni Patung Batu Internasional Hualien
+- Festival Seni Batu Internasional Hualien.
 
-## Pengembangan Inovatif Teknik dan Material
+## Inovasi Teknik Material
 
-Perkembangan patung Taiwan dalam teknik dan material mencerminkan perubahan kondisi material dalam seluruh ekosistem seni. Dari ukiran kayu manual tradisional kuil, hingga eksplorasi stainless steel dan perunggu era 1960-80an, hingga ke penggunaan luas multimedia gabungan dan alat digital seniman kontemporer, setiap transformasi material di baliknya adalah pendidikan kerajinan dan dukungan industri yang sesuai.
+Perkembangan seni patung Taiwan dalam hal teknik material mencerminkan perubahan kondisi materi di seluruh ekosistem seni. Dari kerajinan tangan ukiran kuil, hingga eksplorasi baja tahan karat dan perunggu pada tahun 1960-80-an, dan penggunaan material campuran serta alat digital oleh seniman kontemporer saat ini, setiap konversi material didukung oleh pendidikan kerajinan dan dukungan industri yang sesuai.
 
-Inovasi Yang Yuyu dalam penggunaan stainless steel, eksperimen Chu Ming dengan material non-tradisional seperti busa dan styrofoam, keduanya sempat memicu diskusi dalam dunia seni. Generasi baru seniman memperkenalkan pencetakan 3D dan pemotongan laser, yang mengubah ambang pembuatan patung dan kemungkinan bentuk.
+Penggunaan inovatif baja tahan karat oleh Yang Ying-feng, dan eksperimen Chu Ming dengan material non-tradisional seperti busa dan polistirena, pernah memicu diskusi di dunia seni pada masanya. Generasi baru memperkenalkan pencetakan 3D dan pemotongan laser, mengubah ambang batas pembuatan patung dan kemungkinan bentuknya.
 
-Warisan pendidikan keahlian kerajinan Taiwan (khususnya ukiran kayu dan pemrosesan logam) menyediakan dasar tenaga kerja teknik tertentu untuk seni patung; universitas seperti Universitas Seni Taiwan Nasional dan Universitas Seni Tainan Nasional juga melatih sekelompok pencipta yang menguasai media secara mendalam[^11].
+Tradisi pendidikan teknik Taiwan (terutama ukiran kayu dan pemrosesan logam) menyediakan dasar tenaga kerja teknis untuk seni patung; universitas seperti National Taiwan University of the Arts dan National Tainan University of the Arts juga membina para pencipta yang menguasai material secara mendalam[^18].
 
-### Interpretasi Modern Material Tradisional
+### Interpretasi Modern dari Material Tradisional
 
-**Inovasi teknik ukiran kayu**:
+**Inovasi Teknik Ukir Kayu**:
 
-- Peningkatan artistik teknik tradisional
-- Pengenalan alat-alat baru dalam aplikasi
-- Perbaikan dan pelestarian teknik pemrosesan
+- Peningkatan artistik teknik tradisional.
+- Pengenalan dan aplikasi alat baru.
+- Perbaikan teknik konservasi.
 
-**Pengukiran batu**:
+**Pahatan Batu**:
 
-- Pengembangan dan pemanfaatan bahan batu lokal Taiwan
-- Pemrosesan presisi marmer dan granit
-- Kombinasi mesin modern dan keahlian manual
+- Pengembangan pemanfaatan batu lokal Taiwan.
+- Pemrosesan presisi marmer dan granit.
+- Kombinasi mesin modern dan tangan.
 
-**Penuangan logam**:
+**Pengecoran Logam**:
 
-- Lokalisasi teknologi penuangan perunggu
-- Penerapan material paduan modern
-- Pengembangan teknik cetakan presisi
+- Lokalisasi teknologi pengecoran perunggu.
+- Penggunaan material paduan modern.
+- Perkembangan teknik cetak ulang yang presisi.
 
 ### Eksplorasi Eksperimental Material Kontemporer
 
-**Material industri**:
+**Material Industri**:
 
-- Kemungkinan kreativitas stainless steel
-- Keunggulan pelaksanaan ringan paduan aluminium
-- Ekspresi struktural material baja
+- Potensi kreatif baja tahan karat.
+- Keunggulan ringan dari paduan aluminium.
+- Ekspresi struktural dari bahan besi dan baja.
 
-**Media gabungan**:
+**Material Campuran**:
 
-- Kombinasi resin dan serat
-- Integrasi keramik dan logam
-- Dialog antara material alami dan sintetis
+- Kombinasi resin dan serat.
+- Penggabungan keramik dan logam.
+- Dialog antara material alami dan buatan manusia.
 
-**Teknologi baru**:
+**Teknologi Baru**:
 
-- Aplikasi seni teknologi pencetakan 3D
-- Perangkat lunak desain patung digital
-- Pemrosesan presisi pemotongan laser
+- Aplikasi seni teknologi pencetakan 3D.
+- Perangkat lunak desain patung digital.
+- Pemrosesan presisi pemotongan laser.
 
-### Pendidikan Teknik dan Warisan
+### Pendidikan dan Transmisi Teknik
 
-**Sistem pendidikan akademik**:
+**Sistem Pendidikan Akademik**:
 
-- Program kursus kelompok patung departemen seni rupa
-- Patung kerajinan di sistem pendidikan kejuruan
-- Pelatihan profesional mendalam pascasarjana
+- Kurikulum departemen patung di fakultas seni.
+- Departemen ukiran kerajinan dalam sistem kejuruan.
+- Pelatihan profesional mendalam di tingkat pascasarjana.
 
-**Sistem pewarisan master tradisional**:
+**Sistem Guru-Murid (Maestro)**:
 
-- Sistem pengakuan pengrajin seni tradisional
-- Program pewarisan teknik tradisional
-- Mekanisme pembimbingan pemuda
+- Sistem sertifikasi maestro kerajinan tradisional.
+- Promosi rencana transmisi teknik.
+- Mekanisme pembinaan magang pemuda.
 
-**Budaya studio kerja**:
+**Budaya Studio**:
 
-- Studio pribadi seniman
-- Model studio kerja bersama
-- Pertukaran residensi kreatif internasional
+- Studio pribadi seniman.
+- Model studio bersama.
+- Pertukaran kreatif residensi internasional.
 
 ## Pertukaran Internasional dan Pengaruh Luar Negeri
 
-Visibilitas internasional patung Taiwan terutama dibangun melalui dua jalur: pameran pribadi seniman di luar negeri (diwakili oleh pameran Tokyo Chu Ming 1977 dan pameran Place Vendôme Paris 1997), dan partisipasi institusional yang dipimpin pemerintah seperti paviliun Taiwan di Venice Biennale[^7]. Keduanya saling melengkapi, bersama membentuk citra patung Taiwan di luar negeri.
+Visibilitas seni patung Taiwan di kancah internasional sebagian besar dibangun melalui dua jalur: pameran luar negeri individu seniman (diwakili oleh pameran Tokyo Chu Ming tahun 1977 dan Pameran Vendôme Paris tahun 1997), dan partisipasi kelembagaan seperti Paviliun Taiwan di Biennale Venesia yang dipimpin pemerintah. Kedua hal ini saling melengkapi, bersama-sama membentuk citra seni patung Taiwan di luar negeri.
 
-Perlu diperhatikan bahwa visibilitas patung Taiwan di luar negeri sangat bergantung pada reputasi seniman individual—nama Chu Ming hampir sinonim dengan metafor patung Taiwan di panggung internasional. Fenomena konsentrasi tinggi ini, di satu sisi menunjukkan pencapaian Chu Ming memang luar biasa, di sisi lain mencerminkan ruang pengembangan dalam pekerjaan promosi merek patung Taiwan secara sistematis.
+Perlu dicatat bahwa visibilitas seni patung Taiwan di luar negeri sangat bergantung pada reputasi individu seniman—nama Chu Ming hampir identik dengan sinonim seni patung Taiwan secara internasional. Fenomena konsentrasi yang tinggi ini, di satu sisi menunjukkan prestasi Chu Ming memang luar biasa, namun di sisi lain juga mencerminkan ruang untuk pengembangan upaya sistematis dalam membangun merek seni patung Taiwan.
 
-Program residensi seniman luar negeri yang dipromosikan Kementerian Budaya dan pemerintah daerah berbagai kota tahun-tahun terakhir, memberikan seniman patung Taiwan lebih banyak kesempatan untuk bersinggungan dengan ekosistem seni internasional, juga mengakumulasi representativitas internasional yang beragam di luar Chu Ming[^9].
+Program residensi seniman di luar negeri yang didorong oleh Kementerian Budaya dan pemerintah kota telah memberikan lebih banyak kesempatan bagi pematung Taiwan untuk bersentuhan dengan ekosistem seni internasional, selain Chu Ming, dalam mengakumulasi representasi internasional yang beragam[^17].
 
-### Visibilitas Internasional Patung Taiwan
+### Visibilitas Seni Patung Taiwan Internasional
 
-**Pameran internasional penting**:
+**Pameran Internasional Penting**:
 
-- Partisipasi paviliun Taiwan Venice Biennale
-- Zona pameran Asia São Paulo Biennale
-- Pameran undangan Documenta Kassel
+- Partisipasi Paviliun Taiwan di Biennale Venesia.
+- Festival Seni Batu Internasional Setouchi dan Festival Seni Lanskap Okuwa Tsuma (Lin Shun-lung)[^8].
 
-**Pameran pribadi di luar negeri**:
+**Pameran Individu Luar Negeri**:
 
-- Pameran pribadi Chu Ming Paris (1997)
-- Pameran pribadi Yang Yuyu New York (tahun 1980an)
-- Pameran keliling Eropa-Amerika seniman generasi baru
+- Pameran tunggal Chu Ming di Museum Pusat Tokyo (1977) dan pameran besar di Place Vendôme, Paris (1997)[^1].
+- Pameran tunggal Yang Ying-feng di Milan (1964)[^3].
 
-**Pengakuan koleksi internasional**:
+**Pengakuan Koleksi Internasional**:
 
-- Koleksi museum seni penting Eropa-Amerika
-- Partisipasi pameran seni internasional
-- Preferensi kolektor pribadi
+- Dikoleksi oleh museum penting Eropa dan Amerika.
+- Partisipasi dalam pameran seni internasional.
+- Disukai oleh kolektor pribadi.
 
 ### Diplomasi Budaya dan Pertukaran Seni
 
-**Program promosi pemerintah**:
+**Program yang Didorong Pemerintah**:
 
-- Residensi seniman luar negeri Kementerian Budaya
-- Pertukaran riset patung internasional
-- Pelaksanaan perjanjian budaya bilateral
+- Residensi seniman di luar negeri Kementerian Budaya.
+- Pertukaran penelitian patung internasional.
+- Implementasi perjanjian budaya bilateral.
 
-**Kolaborasi akademis**:
+**Kerja Sama Akademik**:
 
-- Seminar patung internasional
-- Program kolaborasi kreativitas lintas negara
-- Pertukaran kunjungan teknik keahlian lintas negara
+- Seminar seni patung internasional.
+- Proyek kolaborasi lintas negara.
+- Pertukaran kunjungan teknik dan metode kerja.
 
-**Peluang ekspansi pasar**:
+**Peluang Ekspansi Pasar**:
 
-- Partisipasi pasar seni internasional
-- Promosi keagenan galeri luar negeri
-- Peningkatan nilai investasi koleksi
+- Partisipasi pasar seni internasional.
+- Promosi di galeri luar negeri.
+- Peningkatan nilai investasi koleksi.
 
-## Isu Kontemporer dan Pengembangan Masa Depan
+## Isu Kontemporer dan Perkembangan Masa Depan
 
-Patung Taiwan kontemporer telah mengalihkan pertanyaan dari "bagaimana membangun kosakata kontemporer" menjadi "bagaimana mempertahankan perspektif sendiri dalam konteks globalisasi". Ekologi lingkungan, keberagaman budaya, dan teknologi digital adalah tiga topik yang saat ini paling terpusat dalam diskusi komunitas patung Taiwan.
+Tantangan yang dihadapi seni patung Taiwan kontemporer telah bergeser dari "bagaimana membangun kosakata kontemporer" menjadi "bagaimana mempertahankan perspektif diri dalam konteks globalisasi". Ekologi lingkungan, budaya beragam, dan teknologi digital adalah tiga tema yang paling intens dibahas oleh komunitas seni patung Taiwan saat ini.
 
-Kebangkitan patung kontemporer masyarakat adat adalah fenomena penting dalam ranah patung Taiwan tahun-tahun terakhir: Rahic Talif (拉黑子·達立夫) menciptakan dengan pelat besi yang menggabungkan memori budaya Amis, Sakuliu Pavavalung (撒古流·巴瓦瓦隆) mengembangkan bahasa patung kontemporer unik yang berangkat dari motif tradisional Paiwan. Kreasi-kreasi ini sekaligus adalah ekspresi artistik dan deklarasi subjektivitas budaya penduduk asli[^11].
+Kebangkitan seni patung adat (pribumi) adalah fenomena penting dalam lanskap seni patung Taiwan baru-baru ini: Rahic Talif menggunakan kayu apung dan sampah laut, menggabungkan memori budaya Amis[^15]; sementara Sakuliu Pavavalung mengembangkan bahasa patung kontemporer yang unik dari pola tradisional Paiwan. Karya-karya ini adalah ekspresi artistik sekaligus penegasan subjek kultural masyarakat adat[^18].
 
-Visibilitas seniman patung perempuan juga telah meningkat dalam tahun-tahun terakhir, isu gender, politik tubuh, etika ekologi membawa lapisan diskursus baru untuk patung kontemporer Taiwan, membuat diskusi dalam bidang ini tidak lagi terbatas pada teknik dan bentuk.
+Visibilitas seniman perempuan juga meningkat dalam beberapa tahun terakhir; tema gender, politik tubuh, dan etika ekologis membawa lapisan wacana baru bagi seni patung Taiwan kontemporer, membuat diskusi di bidang ini tidak lagi terbatas pada teknik dan bentuk.
 
-### Respons Seni terhadap Isu Sosial
+### Tanggapan Artistik terhadap Isu Sosial
 
-**Kesadaran perlindungan lingkungan**:
+**Kesadaran Perlindungan Lingkungan**:
 
-- Kreativitas daur ulang limbah
-- Tema kepedulian lingkungan ekologi
-- Promosi penggunaan material berkelanjutan
+- Kreasi daur ulang sampah.
+- Tema kepedulian lingkungan ekologis.
+- Promosi penggunaan material berkelanjutan.
 
-**Dialog budaya beragam**:
+**Dialog Budaya Beragam**:
 
-- Revitalisasi budaya patung masyarakat adat
-- Ekspresi integrasi budaya warga baru
-- Kolaborasi seni lintas etnik
+- Revitalisasi budaya patung adat.
+- Ekspresi fusi budaya imigran baru.
+- Kolaborasi seni antar etnis.
 
-**Ekspresi kesetaraan gender**:
+**Ekspresi Kesetaraan Gender**:
 
-- Peningkatan status seniman patung perempuan
-- Eksplorasi karya isu gender
-- Pengrusakan stereotip gender tradisional
+- Peningkatan status seniman perempuan.
+- Eksplorasi karya bertema gender.
+- Membongkar stereotip gender tradisional.
 
-### Tantangan Baru Era Digital
+### Tantangan Baru di Era Digital
 
-**Integrasi realitas virtual**:
+**Integrasi Realitas Virtual (VR)**:
 
-- Aplikasi teknologi VR dalam pameran patung
-- Perangkat lunak desain patung digital
-- Pengalaman kunjungan museum online
+- Aplikasi pameran patung menggunakan teknologi VR.
+- Alat desain patung digital.
+- Pengalaman kunjungan museum daring.
 
-**Pengaruh media sosial**:
+**Pengaruh Media Sosial**:
 
-- Perubahan cara penyebaran karya
-- Inovasi model partisipasi penonton
-- Mekanisme umpan balik interaktif real-time
+- Perubahan cara penyebaran karya.
+- Inovasi model partisipasi penonton.
+- Mekanisme umpan balik interaktif secara _real-time_.
 
-**NFT dan koleksi digital**:
+**NFT dan Koleksi Digital**:
 
-- Sertifikasi karya patung digital
-- Penerapan teknologi blockchain
-- Model investasi koleksi baru
+- Sertifikasi karya patung digital.
+- Aplikasi teknologi blockchain.
+- Model investasi koleksi yang baru muncul.
 
-### Tren Pengembangan Masa Depan
+### Tren Perkembangan Masa Depan
 
-**Beragamnya tema kreativitas**:
+**Diversifikasi Tema Kreatif**:
 
-- Kepedulian isu globalisasi
-- Penggalian mendalam budaya lokal
-- Peningkatan kolaborasi lintas disiplin
+- Kepedulian terhadap isu globalisasi.
+- Penggalian mendalam budaya lokal.
+- Peningkatan kolaborasi lintas disiplin.
 
-**Inovasi teknologi berkelanjutan**:
+**Inovasi Teknologi Berkelanjutan**:
 
-- Pengembangan material baru terus-menerus
-- Penyempurnaan dan perbaikan teknik pembuatan
-- Integrasi mendalam teknologi digital
+- Pengembangan material baru yang berkelanjutan.
+- Penyempurnaan metode pembuatan.
+- Integrasi teknologi digital yang lebih dalam.
 
-**Pendalaman promosi pendidikan**:
+**Pendalaman Edukasi dan Promosi**:
 
-- Penanaman pendidikan estetika ke tingkat yang lebih dalam
-- Peningkatan partisipasi seni komunitas
-- Internasionalisasi pertukaran seni
+- Pendidikan estetika yang berakar ke bawah.
+- Peningkatan partisipasi seni komunitas.
+- Frekuensi pertukaran internasional yang meningkat.
 
 ## Kesimpulan
 
-Perjalanan perkembangan patung kontemporer Taiwan adalah kisah menawan dari kerajinan tradisional menuju panggung seni internasional. Dari permulaan modernisasi Huang Tu-shui, konstruksi kontemporer Yang Yuyu, hingga terobosan internasionalisasi Chu Ming, setiap generasi seniman patung menambahkan lapisan dan makna baru pada seni patung Taiwan.
+Perjalanan perkembangan seni patung kontemporer Taiwan adalah kisah luar biasa dari kerajinan tradisional menuju kancah internasional. Dari permulaan modern oleh Huang Tu-shui, pembangunan kontemporer oleh Yang Ying-feng, hingga terobosan internasional oleh Chu Ming, setiap generasi seniman telah menambahkan lapisan dan makna baru pada seni patung Taiwan[^4].
 
-Dalam era globalisasi, seniman patung Taiwan menghadapi peluang dan tantangan baru. Bagaimana mempertahankan karakteristik budaya sambil menyerap tren internasional; bagaimana mempertahankan esensi seni dalam inovasi teknik; bagaimana bersikeras pada ideal kreativitas di bawah pertimbangan komersial, ini semua adalah pertanyaan penting yang perlu dipikirkan dalam pengembangan patung kontemporer.
+Di era globalisasi, pematung Taiwan menghadapi peluang dan tantangan baru. Bagaimana menyerap tren internasional sambil mempertahankan ciri khas budaya; bagaimana menjaga esensi artistik di tengah inovasi teknologi; dan bagaimana mempertahankan cita-cita kreatif di bawah pertimbangan komersial—semua ini adalah isu penting yang harus dipikirkan dalam perkembangan seni patung kontemporer.
 
-Dari pendirian Museum Patung Chu Ming hingga pembangunan taman patung di berbagai tempat, dari implementasi kebijakan seni publik hingga pendalaman pertukaran internasional, seni patung Taiwan terus berkembang menuju arah yang lebih beragam, terbuka, dan internasional. Aset budaya berharga ini tidak hanya memperkaya lanskap artistik Taiwan, tetapi juga menjadi jembatan penting yang menghubungkan masa lalu dan masa depan, lokal dan internasional.
+Dari pendirian Museum Chu Ming hingga pembangunan taman patung di berbagai tempat, dari dorongan kebijakan seni publik hingga pendalaman pertukaran internasional, seni patung Taiwan berkembang menuju arah yang lebih beragam, terbuka, dan internasional. Dan warisan budaya yang berharga ini tidak hanya memperkaya lanskap seni Taiwan, tetapi juga menjadi jembatan penting yang menghubungkan masa lalu dan masa depan, lokalitas dan internasional.
 
-Melalui setiap karya patung, kami melihat tidak hanya ide-ide cerdas dan keahlian seniman, tetapi juga kedalaman dan luas budaya Taiwan. Dalam ruang tiga dimensi, seniman patung Taiwan dengan kedua tangan mereka, mengukir ingatan dan mimpi pulau.
+Melalui setiap karya patung, kita melihat bukan hanya kecerdikan dan keahlian seniman, tetapi juga kedalaman dan keluasan budaya Taiwan. Dalam ruang tiga dimensi, seni patung Taiwan menggunakan tangan mereka untuk mengukir memori dan mimpi pulau ini.
 
 ## Referensi
 
-[^1]: [Wikipedia "Chu Ming (Sculptor)"](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — Biografi Chu Ming, perjalanan kreatif, dan informasi museum (versi pembaruan 2025)
+[^1]: [Entri Wikipedia tentang Chu Ming (Pematung)](<https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98_(%E9%9B%95%E5%A1%91%E5%AE%B6)>) — Biografi Chu Ming, guru-murid, pameran Museum Pusat Tokyo 1977 dan Place Vendôme Paris 1997, dua belas tahun pendirian museum, meninggal pada 22 April 2023.
 
-[^2]: [Ravenel Auction Company](https://ravenel.com/) — File data seniman Chu Ming resmi dan tren pasar
+[^2]: [Entri Wikipedia tentang Huang Tu-shui](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%9C%9F%E6%B0%B4) — _Seruling Anak Gunung_ terpilih dalam Pameran Kekaisaran kedua pada tahun 1920, _Air Murni_ terpilih dalam Pameran Kekaisaran ketiga pada tahun 1921, _Burung Pheasant_ (1922), _Kelompok Kerbau_ (1930).
 
-[^3]: [Chinese Culture University General Education "Three Peaks of Taiwanese Sculpture" Lecture](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Kuliah yang dipimpin Prof. Hsiao Chung-chih, perbandingan tiga generasi Huang Tu-shui, Yang Yuyu, Chu Ming (2022)
+[^3]: [Entri Wikipedia tentang Yang Ying-feng](https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%8B%B1%E9%A2%A8) — _Phoenix Datang_ di Pameran Dunia Osaka tahun 1970, pameran tunggal Milan tahun 1964, Seri Lanskap Taitung, konsep patung lanskap, komisi Bandara Internasional Kaohsiung.
 
-[^4]: [China Times "Chu Ming's Path to Mastery, Yang Yuyu Exhibition Exchange Reveals Sharp Edge, Tai Chi Series Sensation in Japan"](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Pameran Tokyo Chu Ming 1977 dan hubungan guru-murid dengan Yang Yuyu (23 April 2023)
+[^4]: [Halaman Kuliah Pendidikan Umum Universitas Budaya Tiongkok (Tiga Raksasa Patung Taiwan—Dari Huang Tu-shui, Yang Ying-feng hingga Chu Ming)](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Disampaikan oleh Profesor Hsiao Ching-rui dari National Cheng Kung University, perbandingan tiga generasi.
 
-[^5]: [Vocus "Taiwanese Sculptor Chu Ming and Hong Kong Affinity" Special Report](https://vocus.cc/article/644cd3f8fd897800015f9262) — Asal-usul kreativitas dan pameran Chu Ming dengan komunitas seni Hong Kong (2024)
+[^5]: [Situs Web Berita Times mengenai "Jalan Maestro Chu Ming: Pameran Yang Ying-feng Memperlihatkan Kehebatan, Seri Tai Chi Menggemparkan Jepang"](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Pameran Tokyo Chu Ming tahun 1977 dan hubungan guru-murid dengan Yang Ying-feng (23 April 2023).
 
-[^6]: [Museum Patung Chu Ming](https://www.juming.org.tw/) — Situs resmi, informasi pameran, koleksi lengkap karya seni dan promosi pendidikan
+[^6]: [Museum Chu Ming](https://www.juming.org.tw/) — Situs web resmi, pameran, koleksi seni lengkap, dan informasi promosi pendidikan.
 
-[^7]: [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/) — Laporan penelitian "Sejarah Perkembangan Patung Kontemporer Taiwan" (2021)
+[^7]: [Siaran Pers Kementerian Budaya tentang Revisi Metode Instalasi Seni Publik](https://www.moc.gov.tw/News_Content.aspx?n=105&s=221837) — 02-08-2024: "Total 5.537 karya diselesaikan hingga Desember tahun lalu, melibatkan lebih dari 2.000 seniman dan akademisi".
 
-[^8]: [Museum Seni Yang Yuyu](https://yuyuyang.org.tw/) — Arsip digital koleksi lengkap Yang Yuyu dan informasi pameran
+[^8]: [Program Kolaborasi Lintas Domain Kementerian Budaya Seniman Lin Shun-lung (Perahu Benih) Kembali ke Festival Seni Internasional Setouchi](https://www.moc.gov.tw/information_250_44251.html) — Perahu benih kayu apung _Melintasi Batas Negara・Laut_ tahun 2013, dipasang di lokasi utama Festival Seni Internasional Setouchi pada tahun 2016, dikoleksi secara permanen oleh Prefektur Kagawa.
 
-[^9]: [Situs resmi Seni Publik Kementerian Budaya](https://publicart.moc.gov.tw/) — Kebijakan seni publik Taiwan, peraturan, dan informasi kasus-kasus penerapan
+[^9]: [Liberty Times "Sebiji Benih Jatuh dari Langit! Kreasi Expo Taiwan Menyampaikan Harapan dan Kehidupan"](https://news.ltn.com.tw/news/life/breakingnews/2583320) — _Benih—Sebuah Biji Jatuh dari Langit_ di Taman Hori, Taiwan Expo 2018, bambu Moso dan bambu Osmanthus, diameter 12 meter, tinggi 15 meter.
 
-[^11]: [National Taiwan University of the Arts](https://www.ntua.edu.tw/) — Informasi kursus departemen patung dan jurnal penelitian
+[^10]: [Wawancara MOT TIMES dengan Lin Shun-lung: Ruang yang Dibuat dengan 4000 Batang Bambu](http://www.mottimes.com/cht/interview_detail.php?serial=427) — _Melintasi Batas Negara・Ombak_ di Pulau Shodoshima, Festival Seni Internasional Setouchi tahun 2019.
 
-[^12]: [Taipei Fine Arts Museum](https://www.tfam.museum/) — Katalog pameran "Taiwan Sculpture 1945-2020" (2020)
+[^11]: [Situs Web Seni Non-Kolam halaman seniman Liao Ying-hsi](https://artemperor.tw/artist/9115) — Lahir di Taichung pada tahun 1968, Departemen Lukisan Barat Institut Seni Universitas Donghai, beralih ke kreasi tiga dimensi pada tahun 2008, juga kurator internasional.
+
+[^12]: [Museum Kota Tainan "Anping・Kedamaian・Manusia - Pameran Pendahuluan Patung Chen Cheng-hsiung 2021"](https://www.tnam.museum/exhibition/detail/195) — Lahir di Tainan pada tahun 1942, belajar sejak 1955, lulus pada tahun 1958, Penghargaan Sastra Wu Sanlian 1983, Penghargaan Struktur Baru Jepang 1989.
+
+[^13]: [Museum Kota Tainan "Suhu: Pameran Patung Ayah dan Anak Pu Tsian-sheng x Pu Hao-ming"](https://www.tnam.museum/exhibition/detail/584) — Pu Hao-ming lulus dari Departemen Seni Fakultas Budaya pada tahun 1967, bersama ayahnya selama tiga belas tahun, belajar di Brussels dan Paris pada tahun 1980.
+
+[^14]: [Entri Wikipedia Taipei 101 §Seni Publik](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101) — _LOVE_ (Robert Indiana), _Kehidupan Tak Terbatas_ (Kang Mu-xiang, dari kabel lift pensiunan), dll.
+
+[^15]: [Entri Wikipedia Rahic Talif](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%BB%91%E5%AD%90%C2%B7%E9%81%94%E7%AB%8B%E5%A4%AB) — Seniman adat Amis, ahli dalam ukiran kayu menggunakan kayu apung, dengan bahan seperti sampah laut, jaring ikan, dan besi.
+
+[^16]: [Museum Yang Ying-feng](https://yuyuyang.org.tw/) — Koleksi digital dan informasi pameran _Karya Lengkap Yang Ying-feng_.
+
+[^17]: [Situs Web Resmi Seni Publik Kementerian Budaya](https://publicart.moc.gov.tw/) — Informasi kebijakan, regulasi, dan kasus seni publik Taiwan.
+
+[^18]: [National Taiwan University of the Arts](https://www.ntua.edu.tw/) — Informasi kurikulum Departemen Patung.
