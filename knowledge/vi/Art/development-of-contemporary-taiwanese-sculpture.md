@@ -1,570 +1,572 @@
 ---
-title: 'Sự phát triển của điêu khắc đương đại Đài Loan'
-description: 'Từ Dương Anh Phong, Chu Ming đến thế hệ mới, khám phá quỹ đạo tiến hóa và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan'
+title: 'Sự phát triển điêu khắc đương đại tại Đài Loan'
+description: 'Khám phá quỹ đạo tiến hóa và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan, từ Dương Anh Phong, Chu Minh đến thế hệ mới'
 date: 2026-03-18
 category: 'Art'
 tags:
   [
     'điêu khắc',
-    'Chu Ming',
+    'Chu Minh',
     'Dương Anh Phong',
-    'Lâm Thuận Long',
+    'Lâm Thuấn Long',
     'Hồng Dịch',
-    'công cộng nghệ thuật',
-    'đương đại nghệ thuật',
+    'nghệ thuật công cộng',
+    'nghệ thuật đương đại',
     'điêu khắc gỗ',
   ]
-subcategory: 'Nghệ thuật hình ảnh'
+subcategory: '視覺藝術'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:91ce45b4be5f77a7'
-sourceBodyHash: 'sha256:fe5beda00418f863'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: 'b8f50ebb3'
+sourceContentHash: 'sha256:9e576e02178fac1e'
+sourceBodyHash: 'sha256:8ccb8ebcb456fad3'
+translatedAt: '2026-09-20T00:52:41+08:00'
 ---
 
-# Sự phát triển của điêu khắc đương đại Đài Loan
+# Sự phát triển điêu khắc đương đại tại Đài Loan
 
-## 30 giây tìm hiểu tổng quát
+## Tổng quan 30 giây
 
-Điêu khắc đương đại Đài Loan phát triển từ những công nghệ điêu khắc gỗ truyền thống, trải qua ba thế hệ quan trọng: Hoàng Thổ Thủy thiết lập nền tảng cho điêu khắc hiện đại, Dương Anh Phong xây dựng ngôn ngữ điêu khắc đương đại, Chu Ming hòa hợp tinh thần Đông phương vào tầm nhìn quốc tế. Bắt đầu từ phong trào điêu khắc hiện đại những năm 1960, các nhà điêu khắc Đài Loan đạt được những bước ngoặt quan trọng trong việc sử dụng chất liệu, thể hiện chủ đề và khái niệm không gian. Ngày nay, Bảo tàng Chu Ming, các công viên điêu khắc ngoài trời và những không gian trưng bày khác xuất hiện trên toàn bộ Đài Loan, các nghệ sĩ thế hệ mới như Lâm Thuận Long, Hồng Dịch tiếp tục thúc đẩy sự phát triển đa dạng của nghệ thuật điêu khắc, đồng thời điêu khắc Đài Loan cũng tích lũy được một mức độ hiện diện nhất định trong các triển lãm quốc tế và được các bộ sưu tập công nhân[^1].
+Điêu khắc đương đại Đài Loan phát triển từ nghề thủ công điêu khắc gỗ truyền thống, trải qua ba thế hệ quan trọng: Hoàng Thổ Thủy đặt nền móng cho điêu khắc hiện đại; Dương Anh Phong xây dựng ngôn ngữ điêu khắc đương đại; và Chu Minh đưa tinh thần phương Đông vào tầm nhìn quốc tế. Bắt đầu từ phong trào điêu khắc hiện đại những năm 1960, các nhà điêu khắc Đài Loan đã đạt được những đột phá quan trọng về ứng dụng vật liệu, biểu đạt chủ đề và khái niệm không gian. Ngày nay, với các không gian trưng bày như Bảo tàng Chu Minh và công viên điêu khắc ngoài trời trải rộng khắp đảo, các nghệ sĩ thế hệ mới như Lâm Thuấn Long, Hồng Dịch tiếp tục thúc đẩy sự đa dạng của nghệ thuật điêu khắc; đồng thời, điêu khắc Đài Loan cũng đã tích lũy được mức độ nhận diện và sự công nhận trong giới sưu tầm quốc tế.
 
-Chu Ming đã qua đời vào tháng 5 năm 2023, hưởng thọ 85 tuổi. Bảo tàng anh ta để lại và di sản sáng tạo trong thời gian sống là những mốc đỡ quan trọng để hiểu cách điêu khắc Đài Loan tiến tới sân khấu quốc tế[^1].
+Chu Minh qua đời vào tháng 4 năm 2023, hưởng thọ 85 tuổi. Bảo tàng và di sản sáng tạo mà ông xây dựng khi còn sống là một tọa độ quan trọng để hiểu cách điêu khắc Đài Loan vươn ra thế giới[^1].
 
-Đọc bài viết này mất khoảng 18 phút, phù hợp với những độc giả quan tâm tới lịch sử nghệ thuật Đài Loan, nghệ thuật công cộng hoặc các chất liệu điêu khắc.
+Bài viết này cần khoảng 18 phút để đọc, phù hợp với độc giả quan tâm đến lịch sử nghệ thuật, nghệ thuật công cộng hoặc chất liệu điêu khắc của Đài Loan.
 
-**Từ khóa chính**: Chuỗi Thái Cực, chuỗi Nhân Gian, điêu khắc hiện đại, nghệ thuật công cộng, sáng tạo chất liệu, thẩm mỹ học Đông phương
+**Từ khóa**: Loạn Thư (Thái Cực), Nhân Gian, Điêu khắc hiện đại, Nghệ thuật công cộng, Đổi mới vật liệu, Mỹ học phương Đông
 
-## Tại sao nó quan trọng
+## Tại sao điều này lại quan trọng
 
-Sự phát triển của điêu khắc đương đại Đài Loan mang nhiều ý nghĩa đa chiều. Một mặt, các tác phẩm điêu khắc ghi lại hành trình của xã hội Đài Loan từ chuyển đổi từ xã hội nông nghiệp, công nghiệp hóa đến văn hóa hiện đại; mặt khác, việc thực hiện chính sách nghệ thuật công cộng giúp điêu khắc bước ra khỏi bảo tàng và bước vào các không gian sống hàng ngày, thay đổi cách con người tiếp xúc với những tác phẩm nghệ thuật.
+Sự phát triển của điêu khắc đương đại Đài Loan mang ý nghĩa đa tầng. Một mặt, các tác phẩm điêu khắc ghi lại quá trình xã hội Đài Loan chuyển đổi từ xã hội nông nghiệp sang công nghiệp hóa và văn hóa hậu hiện đại; mặt khác, việc thúc đẩy chính sách nghệ thuật công cộng đã đưa điêu khắc ra khỏi bảo tàng, vào không gian đời sống hàng ngày, thay đổi mối quan hệ giữa người dân bình thường và tác phẩm nghệ thuật.
 
-Đối với những ai quan tâm tới chính sách văn hóa, sự phát triển của điêu khắc Đài Loan cũng là một tình huống "chính sách thúc đẩy sinh thái nghệ thuật như thế nào" — từ hệ thống giáo dục, hỗ trợ sáng tạo đến các quy định về nghệ thuật công cộng, mỗi khâu đều hình thành cảnh quan điêu khắc ngày nay.
+Đối với những ai quan tâm đến chính sách văn hóa, sự phát triển của điêu khắc Đài Loan còn là một ví dụ về việc "chính sách thúc đẩy hệ sinh thái nghệ thuật"—từ hệ thống giáo dục, hỗ trợ sáng tạo đến các quy định về nghệ thuật công cộng, mỗi khâu đều đã định hình nên cảnh quan điêu khắc ngày nay.
 
-Từ những chủ đề ngoại ô đến các vấn đề đương đại, các tác phẩm điêu khắc phản ánh những thay đổi xã hội và nhận dạng văn hóa của Đài Loan; kỹ thuật điêu khắc gỗ truyền thống lại được các nghệ sĩ đương đại chuyển hóa thành những ngôn ngữ thể hiện mới, bảo tồn và làm sâu sắc thêm ký ức của kỹ thuật văn hóa.
+Từ chủ đề địa phương đến các vấn đề đương đại, các tác phẩm điêu khắc phản ánh sự biến đổi xã hội và bản sắc văn hóa của Đài Loan; kỹ thuật điêu khắc gỗ truyền thống được chuyển hóa thành ngôn ngữ biểu đạt mới trong tay các nghệ sĩ đương đại, lưu giữ và làm sâu sắc thêm ký ức về nghề thủ công văn hóa.
 
-- **Vị trí trong giới nghệ thuật quốc tế**: Các nhà điêu khắc Đài Loan liên tục giành được thành tích cao trong các triển lãm quốc tế, nâng cao sức mạnh mềm văn hóa của Đài Loan
-- **Làm đẹp không gian công cộng**: Lượng lớn các tác phẩm điêu khắc chất lượng cao được đưa vào không gian công cộng, nâng cao tiêu chuẩn thẩm mỹ thành phố
-- **Giá trị truyền thừa giáo dục**: Thiết lập một hệ thống giáo dục điêu khắc có hệ thống, đào tạo những người sáng tạo thế hệ mới
+- **Vị thế trên trường quốc tế**: Các nhà điêu khắc Đài Loan liên tục gặt hái thành tích tại các triển lãm quốc tế, nâng cao sức mạnh mềm văn hóa của Đài Loan.
+- **Cải tạo không gian công cộng**: Số lượng lớn tác phẩm điêu khắc chất lượng cao được đưa vào không gian công cộng, nâng cao chất lượng thẩm mỹ đô thị.
+- **Giá trị kế thừa giáo dục**: Xây dựng hệ thống giáo dục điêu khắc có tính hệ thống, nuôi dưỡng nhân tài sáng tạo thế hệ mới.
 
-## Quỹ đạo phát triển điêu khắc Đài Loan
+## Bối cảnh phát triển điêu khắc Đài Loan
 
-Lịch sử điêu khắc Đài Loan có thể chia thành ba tầng: truyền thống kỹ thuật dân gian được đại diện bởi các bộ tượng điêu khắc gỗ chùa chiền, sự chuyển đổi hiện đại có sự can thiệp của phương pháp điêu khắc chân thực phương Tây thời Nhật trị, và cách xây dựng ngôn ngữ nghệ thuật đương đại của thế hệ bậc thầy sau chiến tranh. Ba tầng này không tách biệt hoàn toàn, mà xếp chồng lên nhau, tạo thành mặt mũi đa dạng của điêu khắc Đài Loan ngày nay.
+Lịch sử điêu khắc Đài Loan có thể được chia thành ba tầng lớp: truyền thống thủ công dân gian tiêu biểu là điêu khắc gỗ chùa chiền; sự chuyển đổi hiện đại hóa khi tiếp nhận điêu khắc tả thực phương Tây trong thời kỳ Nhật trị; và thế hệ bậc thầy đã thiết lập ngôn ngữ nghệ thuật đương đại sau chiến tranh. Ba tầng lớp này không hoàn toàn tách biệt mà chồng chéo lên nhau, tạo nên diện mạo đa dạng của điêu khắc Đài Loan ngày nay.
 
-Gốc rễ của truyền thống kỹ thuật được đâm chồi trong xã hội di cư, nhu cầu điêu khắc tôn giáo hỗ trợ toàn bộ hệ thống thạc sĩ. Thời Nhật trị, hệ thống triển lãm chính thức mở ra cửa sổ cho những kỹ thuật chân thực phương Tây, còn việc thiết lập hệ thống giáo dục nghệ thuật sau chiến tranh lại cung cấp đất nuôi để nuôi dạy thế hệ bậc thầy.
+Nền tảng thủ công được cắm rễ trong xã hội di dân; nhu cầu điêu khắc tôn giáo đã hỗ trợ hệ thống thợ thủ công. Chế độ triển lãm quan chức thời Nhật trị mở ra cửa sổ nhìn vào kỹ thuật tả thực phương Tây, và việc thiết lập hệ thống giáo dục mỹ thuật sau chiến tranh đã cung cấp đất đai để nuôi dưỡng thế hệ bậc thầy.
 
-Từ tác phẩm "Nước cam lồ" (Kannon) năm 1920 của Hoàng Thổ Thủy được Đế triển chọn, cho đến khi điêu khắc Đài Loan bước lên sân khấu triển lãm quốc tế những năm 1990, quỹ đạo tiến hóa này kéo dài bảy mươi năm, liên quan đến giáo dục thuộc địa, xây dựng văn hóa sau chiến tranh và toàn cầu hóa — ba bối cảnh lịch sử hoàn toàn khác biệt.
+Từ khi Hoàng Thổ Thủy trở thành người Đài Loan đầu tiên được chọn tham gia Triển lãm Đế quốc với tác phẩm _Tiếng sáo của trẻ đồng quê_ vào năm 1920, và tiếp tục được chọn trong Triển lãm Đế quốc lần thứ ba với tác phẩm _Nước Cam Lộ_ vào năm 1921[^2], quá trình tiến hóa này kéo dài bảy thập kỷ, bao hàm bối cảnh lịch sử hoàn toàn khác biệt của giáo dục thuộc địa, xây dựng văn hóa hậu chiến và toàn cầu hóa.
 
-### Nền tảng truyền thống: Gốc rễ sâu đậm của kỹ thuật dân gian
+### Nền tảng truyền thống: Gốc rễ sâu xa của thủ công dân gian
 
 **Truyền thống điêu khắc gỗ chùa chiền**:
 
-- Kỹ thuật điêu khắc được truyền vào từ thời Ming và Thanh cùng với những người di cư
-- Công pháp tinh xảo trong điêu khắc thần tượng và trang trí kiến trúc
-- Hệ thống truyền thừa kỹ thuật của thạc sĩ (师傅制度)
+- Kỹ thuật điêu khắc du nhập cùng người di cư từ thời Minh Thanh.
+- Các phương pháp tinh xảo trong điêu khắc tượng thần và trang trí kiến trúc.
+- Hệ thống kế thừa kỹ thuật của thợ thủ công.
 
-**Đặc trưng của điêu khắc kỹ thuật**:
+**Đặc điểm điêu khắc thủ công**:
 
-- Trọng tâm vào chức năng thực tiễn và hiệu ứng trang trí
-- Những chủ đề phong phú từ câu chuyện dân gian và thần thoại
-- Những kỹ thuật tay tinh xảo và vận dụng công cụ
+- Coi trọng chức năng thực dụng và hiệu ứng trang trí.
+- Vật liệu phong phú từ các câu chuyện dân gian và thần thoại.
+- Kỹ thuật thủ công tỉ mỉ và cách sử dụng công cụ.
 
-**Sự khác biệt về phong cách khu vực**:
+**Sự khác biệt theo vùng miền**:
 
-- Phía bắc: Đơn giản và lịch sự hơn
-- Phía giữa: Trang trí phức tạp và lộng lẫy
-- Phía nam: Nhiệt tình và tự do
+- Miền Bắc: tương đối giản dị, thanh nhã.
+- Miền Trung: trang trí phức tạp, lộng lẫy.
+- Miền Nam: nhiệt tình, phóng khoáng, tự do.
 
-### Chuyển đổi hiện đại: Bước nhảy từ kỹ thuật đến nghệ thuật
+### Chuyển đổi hiện đại: Vươn lên từ thủ công đến nghệ thuật
 
-**Hoàng Thổ Thủy (1895-1930)**: Nhà điêu khắc hiện đại thế hệ đầu tiên của Đài Loan
+**Hoàng Thổ Thủy (1895-1930)**: Thế hệ điêu khắc hiện đại đầu tiên của Đài Loan
 
-- Đặc trưng tác phẩm: Hòa hợp chân thực phong cách Nhật và đất nước ngoại ô Đài Loan
-- Tác phẩm đại diện: "Nước cam lồ" (Kannon), "Chim Takin", "Quốc gia Nam"
-- Ý nghĩa lịch sử: Khai mở sáng tạo điêu khắc hiện đại Đài Loan
+- Đặc điểm tác phẩm: dung hợp tả thực Nhật Bản với phong cảnh địa phương Đài Loan.
+- Tác phẩm tiêu biểu: _Nước Cam Lộ_ (1921), _Chim Đế_ (1922), _Quần thể bò_ (1930)[^2].
+- Ý nghĩa lịch sử: Mở ra tiên phong cho điêu khắc hiện đại Đài Loan.
 
-**Sự phát triển thời Nhật trị**:
+**Phát triển thời Nhật trị**:
 
-- Hệ thống triển lãm chính thức giới thiệu khái niệm điêu khắc phương Tây
-- Hệ thống giáo dục nghệ thuật dần được thiết lập
-- Hiện đại hóa công pháp và kỹ thuật chất liệu
+- Chế độ triển lãm quan chức đưa vào tư tưởng điêu khắc phương Tây.
+- Hệ thống giáo dục mỹ thuật dần được thiết lập.
+- Hiện đại hóa và cải tiến kỹ thuật vật liệu.
 
-### Xác lập đương đại: Nền tảng của thế hệ bậc thầy
+### Thiết lập đương đại: Nền móng của thế hệ bậc thầy
 
-**Dương Anh Phong (1926-1997)**: Nhà sáng lập điêu khắc hiện đại
+**Dương Anh Phong (1926-1997)**: Người đặt nền móng cho điêu khắc hiện đại[^16].
 
-**Quan niệm nghệ thuật**:
+**Ý niệm nghệ thuật**:
 
-- Tiên phong của "Hiện đại hóa điêu khắc Trung Quốc"
-- Nhấn mạnh tính tinh thần và thẩm mỹ học Đông phương
-- Người chủ trương khái niệm "điêu khắc cảnh quan"
+- Nhấn mạnh tính tinh thần và mỹ học phương Đông.
+- Đề xuất khái niệm "Điêu khắc cảnh quan" (Lifescape Sculpture) vào khoảng những năm 1980[^3].
 
-**Tác phẩm quan trọng**:
+**Tác phẩm tiêu biểu**:
 
-- "Phượng hoàng đến đây" (Phượng Hoàng Lai Nghi): Địa chỉ sân bay quốc tế Đài Bắc
-- "Núi Taroko" (Thái Lỗ Các): Thể hiện trừu tượng vẻ đẹp dãy núi Đài Loan
-- "Cổng Long" (Long Môn): Cách diễn giải hiện đại những hình ảnh truyền thống
+- _Phượng Hoàng Lai Nghi_: Tác phẩm điêu khắc kiến trúc khổng lồ bằng thép màu đỏ trước Bảo tàng Trung Hoa Dân Quốc tại Triển lãm Thế giới Osaka năm 1970[^3].
+- Loạt tác phẩm phong cảnh núi Thái Lộc: Biểu đạt vẻ đẹp của núi non Đài Loan bằng thủ pháp trừu tượng.
+- Thiết kế điêu khắc cho nhà ga hàng không quốc tế Cao Hùng và sảnh xuất ngoại[^3].
 
-**Đặc trưng sáng tạo**:
+**Đặc điểm sáng tạo**:
 
-- Sử dụng sáng tạo chất liệu thép không gỉ
-- Kết hợp trừu tượng hình học và hình dáng hữu cơ
-- Xem xét toàn thể không gian môi trường
+- Ứng dụng sáng tạo vật liệu thép không gỉ.
+- Kết hợp hình học trừu tượng và hình thái hữu cơ.
+- Quan tâm tổng thể đến không gian môi trường.
 
-## Chu Ming: Từ đất nước ngoại ô đến quốc tế của nhà điêu khắc Đài Loan
+## Chu Minh: Nhà điêu khắc Đài Loan từ địa phương đến quốc tế
 
-Chu Ming (1938-2023) là nhà nghệ sĩ điêu khắc nổi tiếng quốc tế nhất trong lịch sử điêu khắc Đài Loan[^1]. Sáng tạo của anh ta bắt đầu từ việc thừa kế truyền thống điêu khắc gỗ, sau đó được Dương Anh Phong hướng dẫn bước vào lĩnh vực nghệ thuật đương đại, phát triển ra hai hệ thống sáng tạo chính là chuỗi Thái Cực và chuỗi Nhân Gian, các tác phẩm được bộ sưu tập ở khắp châu Âu, châu Mỹ và châu Á.
+Chu Minh (1938-2023) là nghệ sĩ có mức độ nhận diện quốc tế cao nhất trong lịch sử điêu khắc Đài Loan[^1]. Sáng tác của ông bắt đầu từ việc kế thừa điêu khắc gỗ truyền thống, sau đó được Dương Anh Phong dẫn dắt vào lĩnh vực nghệ thuật đương đại, phát triển hai hệ thống sáng tạo lớn là Loạn Thư và Nhân Gian, với các tác phẩm được sưu tầm khắp châu Âu, châu Mỹ và châu Á.
 
-### Quỹ đạo sáng tạo và sự tiến hóa phong cách
+### Hành trình nghệ thuật và sự tiến hóa phong cách
 
-**Chuỗi ngoại ô thời kỳ đầu (thập niên 1970)**:
+**Loạt tác phẩm địa phương ban đầu (thập niên 1970)**:
 
-**Nền tảng thầy bạn**:
+**Bối cảnh sư phụ**:
 
-- Từ 1953-1957 theo học Lý Kim Xuyên học điêu khắc gỗ truyền thống
-- Từ 1968-1976 sư phụ Dương Anh Phong học điêu khắc hiện đại
-- Chuyển đổi từ thợ kỹ thuật sang nghệ sĩ nghệ thuật đương đại
+- Từ năm 1953, ông học nghề điêu khắc tại Miếu Từ Huệ Thông Tiêu, dưới sự hướng dẫn của Lý Kim Xuyên, và tốt nghiệp sau bốn năm.
+- Năm 1968, ông theo Dương Anh Phong làm thầy, học điêu khắc hiện đại trong tám năm[^5].
+- Chuyển đổi từ thợ thủ công sang nghệ sĩ đương đại.
 
-**Tác phẩm đại diện**:
+**Tác phẩm tiêu biểu**:
 
-- "Cậu bé chăn trâu" (Mục Đồng): Mô phỏng cuộc sống nông thôn thuần lập
-- "Cùng tâm hợp lực" (Đồng Tâm Hiệp Lực): Thể hiện sống động của cuộc sống nông thôn
-- "Trâu" (Nước Trâu): Sự kết hợp hoàn hảo của sức mạnh và vẻ đẹp
+- _Trẻ đồng quê_: Khắc họa cuộc sống dân dã.
+- _Hợp tác đoàn kết_: Trình bày sinh động đời sống nông thôn.
+- _Bò nước_: Sự kết hợp hoàn hảo giữa sức mạnh và cái đẹp.
 
-**Đặc trưng sáng tạo**:
+**Đặc điểm sáng tạo**:
 
-- Giữ lại tinh tế của kỹ thuật điêu khắc gỗ truyền thống
-- Chú trọng vào thể hiện sức sống của tác phẩm
-- Phương pháp đơn giản hóa loại bỏ hình để giữ tinh thần
+- Giữ lại tinh hoa kỹ thuật điêu khắc gỗ truyền thống.
+- Chú trọng biểu đạt sức sống của tác phẩm.
+- Thủ pháp đơn giản hóa, giữ lại thần thái.
 
-### Chuỗi Thái Cực: Hòa hợp hoàn hảo của văn hóa Đông và Tây
+### Loạn Thư: Sự dung hợp hoàn hảo giữa Đông và Tây
 
-**Quan niệm sáng tạo**:
+**Ý niệm sáng tạo**:
 
-- Chuyển hóa động tác thân thể của tuyện tái cực quyền thành ngôn ngữ điêu khắc
-- Tìm kiếm thẩm mỹ học cân bằng giữa động và tĩnh
-- Thể hiện tư tưởng hòa hợp âm dương của triết học Trung Quốc
+- Chuyển đổi các chuyển động cơ thể của Thái Cực Quyền thành ngôn ngữ điêu khắc.
+- Theo đuổi mỹ học cân bằng giữa động và tĩnh.
+- Thể hiện tư tưởng âm dương hài hòa của triết học Trung Hoa.
 
-**Đặc trưng kỹ thuật**:
+**Đặc điểm kỹ thuật**:
 
-- Bảo tồn dấu vết chẻ từ khối lớn
-- Đơn giản hóa hình dáng để nhấn mạnh động thái
-- Phương pháp thể hiện vừa trừu tượng vừa cụ thể
+- Giữ lại dấu vết đục bổ lớn trên bề mặt.
+- Đơn giản hóa hình thể để nhấn mạnh sự chuyển động.
+- Thủ pháp biểu đạt vừa trừu tượng vừa cụ thể.
 
-**Tác phẩm quan trọng**:
+**Tác phẩm tiêu biểu**:
 
-- "Chuỗi Thái Cực - Một chiếc cằm hạ thế" (Chuỗi Thái Cực - Đơn Biễn Hạ Thế)
-- "Chuỗi Thái Cực - Tập luyện" (Chuỗi Thái Cực - Đối Luyện)
-- "Chuỗi Thái Cực - Khởi thế" (Chuỗi Thái Cực - Khởi Thế)
+- _Loạn Thư - Hạ thế đơn tiện_
+- _Loạn Thư - Đối luyện_
+- _Loạn Thư - Khởi thế_
 
 **Ảnh hưởng quốc tế**:
 
-- Triển lãm cá nhân Bảo tàng Nghệ thuật Trung ương Tokyo năm 1977 gây tác động lớn
-- Triển lãm quy mô lớn Quảng trường Vân Đơn Paris năm 1997
-- Xác định vị trí của điêu khắc Đài Loan trong giới nghệ thuật quốc tế
+- Triển lãm cá nhân tại Bảo tàng Trung ương Tokyo năm 1977 gây chấn động.
+- Triển lãm lớn tại Quảng trường Vạn Đằng, Paris năm 1997.
+- Thiết lập vị thế của điêu khắc Đài Loan trên trường nghệ thuật quốc tế.
 
-### Chuỗi Nhân Gian: Quan sát sâu sắc của cuộc sống đương đại
+### Nhân Gian: Quan sát sâu sắc đời sống đương đại
 
-**Bước ngoặt sáng tạo**:
+**Chuyển hướng sáng tạo**:
 
-- Giai đoạn sáng tạo mới bắt đầu từ thập niên 1980
-- Chuyển từ văn hóa truyền thống sang quan sát xã hội đương đại
-- Những nỗ lực đa dạng hóa sử dụng chất liệu
+- Giai đoạn sáng tác mới bắt đầu từ những năm 1980.
+- Chuyển từ văn hóa truyền thống sang quan sát xã hội đương đại.
+- Thử nghiệm đa dạng trong ứng dụng vật liệu.
 
 **Nội dung chủ đề**:
 
-Chuỗi lính phản ánh suy niệm về chiến tranh và hòa bình, trong khi chuỗi vận động viên thì thể hiện vẻ đẹp của các động tác cơ thể con người.
+Loạt tác phẩm quân nhân phản tư về chiến tranh và hòa bình, còn loạt tác phẩm vận động viên thể hiện vẻ đẹp năng động của cơ thể con người.
 
-- **Chuỗi ba lê**: Đối thoại giữa nghệ thuật Đông và Tây
-- **Chuỗi ba ba ba** (Chuỗi ba quân đội): Cách diễn giải nghệ thuật về văn hóa quân sự
+- **Loạt múa ba lê**: Đối thoại giữa nghệ thuật Đông và Tây.
+- **Loạt Tam Quân**: Sự diễn giải nghệ thuật về văn hóa quân sự.
 
-**Sáng tạo chất liệu**:
+**Đổi mới vật liệu**:
 
-- Đất sét: Bảo tồn cảm xúc tay và phẩm chất giản dị
-- Bọt biển: Nỗ lực táo bạo với chất liệu thử nghiệm
-- Thép không gỉ: Sử dụng chất liệu công nghiệp hiện đại
-- Bộ xương xỉ (Bảo lý long): Khám phá chất liệu nhẹ
-- Đồng (Bronze): Diễn giải hiện đại của chất liệu truyền thống
+- Đất sét: Giữ lại cảm giác và đặc tính mộc mạc.
+- Mút xốp: Thử nghiệm táo bạo với vật liệu thử nghiệm.
+- Thép không gỉ: Ứng dụng vật liệu công nghiệp hiện đại.
+- Polypropylene (Polyren): Khám phá vật liệu nhẹ.
+- Đồng: Sự diễn giải hiện đại của vật liệu truyền thống.
 
-### Bảo tàng Chu Ming: Cơ sở giáo dục nghệ thuật quan trọng
+### Bảo tàng Chu Minh: Căn cứ quan trọng của giáo dục nghệ thuật
 
-**Bối cảnh thiết lập**:
+**Bối cảnh thành lập**:
 
-Bảo tàng Chu Ming được thành lập vào năm 1999 ở quận Cân Sơn, thành phố Tân Bắc, là bảo tàng cá nhân đầu tiên của Đài Loan tập trung vào một nghệ sĩ duy nhất, trình bày quỹ đạo sáng tạo hoàn chỉnh của Chu Ming từ điêu khắc gỗ ngoại ô đến chuỗi Nhân Gian[^6]. Chu Ming qua đời vào tháng 5 năm 2023, hưởng thọ 85 tuổi; bảo tàng vẫn mở cửa cho công chúng, trở thành cơ sở chính để bảo tồn di sản nghệ thuật của anh[^1].
+Bảo tàng Chu Minh khai trương tại khu Kim Sơn, Tân Bắc, vào năm 1999, sau mười hai năm chuẩn bị từ năm 1987. Đây là bảo tàng lấy một nghệ sĩ làm chủ đề, trưng bày toàn bộ quá trình sáng tạo của Chu Minh từ điêu khắc gỗ địa phương đến Loạn Thư[^6]. Ông qua đời vào ngày 22 tháng 4 năm 2023, hưởng thọ 85 tuổi; bảo tàng vẫn mở cửa và là cơ quan chính lưu giữ di sản nghệ thuật của ông[^1].
 
 **Thiết kế không gian**:
 
-- Kết hợp công viên điêu khắc ngoài trời với không gian triển lãm trong nhà
-- Thiết lập ở vị trí phụ thuộc dãy núi và gần biển
-- Đối thoại hài hòa giữa tác phẩm nghệ thuật và môi trường
+- Kết hợp công viên điêu khắc ngoài trời và không gian triển lãm trong nhà.
+- Thiết lập trong môi trường tự nhiên gần núi và biển.
+- Đối thoại hài hòa giữa tác phẩm nghệ thuật và môi trường.
 
 **Chức năng giáo dục**:
 
-- Chương trình quảng bá giáo dục điêu khắc
-- Cơ chế tạo điều kiện cho các nghệ sĩ trú đóng
-- Nền tảng trao đổi điêu khắc quốc tế
+- Chương trình phổ biến giáo dục điêu khắc.
+- Cơ chế sáng tạo lưu trú của nghệ sĩ.
+- Nền tảng giao lưu điêu khắc quốc tế.
 
-## Sự khám phá đa dạng của thế hệ điêu khắc gia mới
+## Sự khám phá đa dạng của các nhà điêu khắc thế hệ mới
 
-Lâm Thuận Long, Hồng Dịch và những nhà điêu khắc sinh ra trong thập niên 1960-70, trong sinh thái nghệ thuật đương đại Đài Loan đã tìm ra một con đường sáng tạo bắt đầu từ không gian công cộng. Tác phẩm của họ rộng rãi đặt ở không gian công cộng thành phố, tạo ra tiếp xúc trực tiếp với công chúng rộng lớn, hình thành mối quan hệ xã hội khác với thế hệ bậc thầy.
+Các nhà điêu khắc sinh từ những năm 1950–1970 như Lâm Thuấn Long, Hồng Dịch đã mở ra một con đường sáng tạo bắt đầu từ không gian công cộng trong hệ sinh thái nghệ thuật đương đại Đài Loan. Tác phẩm của họ được triển khai rộng rãi tại các không gian công cộng đô thị, tiếp xúc trực tiếp với công chúng, hình thành mối quan hệ xã hội khác biệt so với thế hệ bậc thầy.
 
-Lâm Thuận Long nổi tiếng về nghệ thuật đất đai, sử dụng những chất liệu tự nhiên như tre để tạo ra những cài đặt quy mô lớn trong không gian ngoài trời; Hồng Dịch lại nổi bật với những điêu khắc hình động vật có màu sắc tươi sáng, hòa hợp những yếu tố từ nghệ thuật dân gian Đài Loan, tác phẩm thân thiện với công chúng và có tính nhận dạng cao. Ngoài ra, những nghệ sĩ như Liêu Đón Bộ, Trần Chính Hùng, Phù Hào Minh, mỗi người đều chuyên sâu vào các hướng khác nhau như hàn kim loại, khắc đá thiền định, lắp ráp đa chất liệu.
+Lâm Thuấn Long nổi tiếng với nghệ thuật đất, sử dụng vật liệu tự nhiên như tre để sáng tạo các tác phẩm sắp đặt lớn ngoài trời; còn Hồng Dịch được biết đến với những bức điêu khắc động vật rực rỡ màu sắc, kết hợp các yếu tố nghệ thuật dân gian Đài Loan, mang tính gần gũi và dễ nhận diện. Ngoài ra, các nghệ sĩ thuộc nhiều thế hệ khác như Liêu Nghênh Tích, Trần Chính Hùng, Bồ Hạo Minh, Lý Ức Huân đã chuyên sâu vào các lĩnh vực điêu khắc trang trí bằng thép không gỉ, điêu khắc gỗ, tượng đồng và nghệ thuật công cộng mosaic.
 
-Thời kỳ trưởng thành của những nhà điêu khắc thế hệ mới này, chính là thời kỳ chính sách nghệ thuật công cộng của Đài Loan được triển khai quy mô lớn, chính sách cung cấp cơ hội sáng tạo và hỗ trợ thị trường, ở một mức độ nào đó hình thành con đường sáng tạo của thế hệ nghệ sĩ này.
+Thời kỳ trưởng thành của những nhà điêu khắc thế hệ mới này trùng với giai đoạn chính sách nghệ thuật công cộng Đài Loan được thực hiện quy mô lớn; cơ hội sáng tạo và sự hỗ trợ thị trường do chính sách cung cấp đã định hình con đường sáng tạo của thế hệ nghệ sĩ này ở một mức độ nào đó.
 
-### Lâm Thuận Long: Nhà thơ của nghệ thuật môi trường
+### Lâm Thuấn Long: Nhà thơ của nghệ thuật môi trường
 
-**Quan niệm sáng tạo**:
+**Ý niệm sáng tạo**:
 
-- Chú trọng đến sinh thái môi trường và quan tâm nhân văn
-- Sử dụng chất liệu tự nhiên để thực hiện sáng tạo nghệ thuật đất đai trong không gian ngoài trời
-- Nhấn mạnh mối quan hệ chung sống giữa nghệ thuật và môi trường
+- Quan tâm đến sinh thái môi trường và sự quan tâm nhân văn.
+- Sáng tạo nghệ thuật đất bằng vật liệu tự nhiên.
+- Nhấn mạnh mối quan hệ cộng sinh giữa nghệ thuật và môi trường.
 
-**Tác phẩm quan trọng**:
+**Tác phẩm tiêu biểu**:
 
-- "Cá mặt trăng" (Nguyệt Lương Cá): Nghệ thuật cảnh quan Hội chợ Hoa Đài Trung 2018
-- "Lắng nghe tiếng hoa nở" (Linh Tĩnh Hoa Khai Của Âm Thanh): Khu rừng Hậu Lý Hội Chợ Hoa
-- "Thuyền hạt giống" (Chủng Tử Thuyền): Nghệ thuật môi trường Công viên Tự nhiên Quan Đảo
+- _Vượt qua biên giới - Biển_ (Thuyền hạt giống): Tác phẩm thuyền hạt giống làm từ gỗ trôi, có hình dạng quả bàn cờ, được trưng bày tại Lễ hội Nghệ thuật Quốc tế Setouchi năm 2016 và được tỉnh Kagawa lưu giữ vĩnh viễn[^8].
+- _Hạt giống—Một hạt giống rơi từ trên trời_: Năm 2018 tại công viên rừng Hoa Bò Lý, sử dụng tre Mạnh Tông và tre Quế đan xen tạo thành một tác phẩm khổng lồ đường kính 12 mét, cao 15 mét[^9].
+- _Vượt qua biên giới - Sóng_: Tại đảo Tiểu Đậu, Lễ hội Nghệ thuật Quốc tế Setouchi năm 2019, không gian hình nhím biển được tạo thành từ hơn bốn nghìn cây tre[^10].
 
-**Đặc trưng sáng tạo**:
+**Đặc điểm sáng tạo**:
 
-- Sử dụng khéo léo chất liệu tự nhiên như tre
-- Tích hợp lắp ráp ngoài trời quy mô lớn với môi trường
-- Khả năng tạo không gian thơ mộng
+- Sử dụng khéo léo các vật liệu tự nhiên như tre.
+- Tích hợp tác phẩm sắp đặt lớn ngoài trời vào môi trường.
+- Khả năng kiến tạo không gian mang tính thơ mộng.
 
-### Hồng Dịch: Thể hiện đương đại có màu sắc rực rỡ
+### Hồng Dịch: Sự biểu đạt đương đại rực rỡ sắc màu
 
 **Phong cách nghệ thuật**:
 
-- Điêu khắc hình động vật có màu sắc tươi sáng
-- Hòa hợp những yếu tố từ nghệ thuật dân gian Đài Loan
-- Kết hợp chất liệu hiện đại với hoa văn truyền thống
+- Điêu khắc động vật với màu sắc tươi sáng.
+- Dung hợp các yếu tố nghệ thuật dân gian Đài Loan.
+- Kết hợp vật liệu hiện đại và hoa văn truyền thống.
 
-**Tác phẩm đại diện**:
+**Tác phẩm tiêu biểu**:
 
-- Chuỗi "Bò": Cách diễn giải đương đại về trâu nước Đài Loan
-- "Khỉ phúc lộc" (Phúc Lộc Hầu): Đèn chính Hội Chợ Đèn Lồng Đài Bắc năm 2016
-- "Vua Khỉ Đẹp Trai" (Mỹ Hầu Vương): Kết hợp truyền thuyết truyền thống và thẩm mỹ học hiện đại
+- Loạt tác phẩm _Bò_: Sự diễn giải đương đại về bò nước Đài Loan.
+- _Khỉ Phúc Lộc_: Đèn chính tại Lễ hội đèn lồng Đài Bắc năm 2016.
+- _Nhân vật Tôn Ngộ Không_: Kết hợp thần thoại truyền thống và mỹ học hiện đại.
 
-**Đặc trưng sáng tạo**:
+**Đặc điểm sáng tạo**:
 
-- Thành thạo trong sử dụng chất liệu sợi thủy tinh
-- Chuyển hóa hiện đại của hoa văn may mắn dân gian
-- Phẩm chất thân thiện công cộng của nghệ thuật công cộng
+- Sử dụng thành thạo vật liệu sợi thủy tinh.
+- Chuyển đổi các hoa văn may mắn dân gian sang phong cách hiện đại.
+- Tính gần gũi của nghệ thuật công cộng.
 
-### Những nhà điêu khắc đương đại quan trọng khác
+### Các nhà điêu khắc đương đại quan trọng khác
 
-**Liêu Đón Bộ**:
+**Liêu Nghênh Tích (1968-)**:
 
-- Tiên phong của điêu khắc hàn kim loại
-- Chuyển hóa nghệ thuật của chất liệu công nghiệp
-- Thể hiện tinh luyện của hình dáng trừu tượng
+- Xuất thân từ nhóm hội họa phương Tây, Viện Nghiên cứu Mỹ thuật Đại học Đông Hải; chuyển từ hai chiều sang sáng tác ba chiều từ năm 2008.
+- Điêu khắc bằng thép không gỉ và trang trí màu sắc, kế thừa khái niệm đường nét "chuỗi gen".
+- Đồng thời là nghệ sĩ và giám tuyển quốc tế[^11].
 
-**Trần Chính Hùng**:
+**Trần Chính Hùng (1942-)**:
 
-- Khám phá sâu sắc chất liệu đá
-- Cách diễn giải điêu khắc về triết học thiền Đông phương
-- Thể hiện thiền định của hình dáng giản dị
+- Nhà điêu khắc gỗ tại Đài Nam. Từ năm 1955, ông học nghề tại tiệm tượng Phật Bắc Cảng và thầy Lý Hoàn Mỹ ở Lộc Cảng; tốt nghiệp năm 1958.
+- Kỹ thuật đục kết hợp kỹ thuật của thợ Tang Sơn, tượng Phật Đài Loan, điêu khắc một nhát của Nhật Bản và tả thực phương Tây.
+- Giải thưởng Văn học Ngô Tam Liên năm 1983, giải Tân Cấu trúc Nhật Bản năm 1989; triển lãm cá nhân tại Bảo tàng Thành phố Đài Nam năm 2021[^12].
 
-**Phù Hào Minh**:
+**Bồ Hạo Minh (1944-)**:
 
-- Điêu khắc phức hợp đa chất liệu
-- Quan tâm đến các vấn đề xã hội đương đại
-- Thực nghiệm không gian của nghệ thuật lắp ráp
+- Con trai của nhà điêu khắc Bồ Thiêm Sinh, đã tham gia làm tượng cùng cha trong mười ba năm.
+- Năm 1980, ông du học tại Học viện Hoàng gia Brussels, Bỉ và Paris, Pháp.
+- Điêu khắc chân dung bằng đồng tả thực; triển lãm "Nhiệt độ: Triển lãm điêu khắc cha con Bồ Thiêm Sinh x Bồ Hạo Minh" tại Bảo tàng Nam Mỹ năm 2024[^13].
 
 **Lý Ức Huân**:
 
-- Chuyên môn kỹ thuật đúc đồng
-- Phác họa sống động của hình dáng nhân vật
-- Cách diễn giải phong cách chân thực đương đại
+- Sáng tạo nghệ thuật công cộng bằng kỹ thuật ghép mosaic vật liệu hỗn hợp.
 
-## Nghệ thuật công cộng và không gian thành phố
+## Nghệ thuật công cộng và không gian đô thị
 
-Năm 1992, "Điều lệ về hỗ trợ và phát triển văn hóa nghệ thuật" đặt ra chính sách "một phần trăm nghệ thuật công cộng", yêu cầu các dự án công cộng dành riêng 1% kinh phí để lắp đặt tác phẩm nghệ thuật[^9]. Chính sách này đã thay đổi cách thức sản xuất điêu khắc Đài Loan: các nghệ sĩ có được những nguồn cơm lành ổn định, không gian thành phố cũng tích lũy được lượng lớn tác phẩm điêu khắc.
+Năm 1992, _Quy chế thưởng trợ nghệ thuật văn hóa_ đã thiết lập chính sách "một phần trăm nghệ thuật công cộng", yêu cầu các dự án công trình phải trích 1% kinh phí để lắp đặt tác phẩm nghệ thuật[^17]. Chính sách này đã thay đổi phương thức sản xuất điêu khắc Đài Loan: các nghệ sĩ có nguồn việc ổn định, và không gian đô thị cũng tích lũy được số lượng lớn các tác phẩm điêu khắc.
 
-Cho đến nay, Đài Loan đã lắp đặt hơn 3.000 tác phẩm nghệ thuật công cộng, phân bố rộng khắp các trung tâm giao thông, trường học, công viên và các cơ quan chính phủ[^7]. Con số này đằng sau, là một hệ thống phức tạp gồm có kiểm duyệt ủy ban, tham gia cộng đồng, cạnh tranh nhà thầu, và hiệu quả vận hành cũng như những tranh cãi vẫn là chủ đề thảo luận trong lĩnh vực chính sách văn hóa.
+Theo thống kê của Bộ Văn hóa, tính đến tháng 12 năm 2023, tổng cộng đã hoàn thành 5.537 tác phẩm nghệ thuật công cộng tại Đài Loan, với sự tham gia của hơn hai nghìn nghệ sĩ và học giả, trải rộng trên các nút giao thông, khuôn viên trường học, công viên và cơ quan chính phủ[^7]. Đằng sau con số này là một hệ thống phức tạp bao gồm quy trình thẩm định của ủy ban, sự tham gia của cộng đồng và đấu thầu của nghệ sĩ; hiệu quả hoạt động và tranh cãi vẫn là chủ đề thảo luận trong giới chính sách văn hóa.
 
-Làm thế nào để duy trì chất lượng tác phẩm nghệ thuật trong hạn chế ngân sách và quy trình hành chính, là một thách thức lâu dài mà chính sách nghệ thuật công cộng phải đối mặt; một số tác phẩm do thiếu bảo trì nên bị hư hỏng hoặc dỡ bỏ, cũng làm nảy sinh những thảo luận về tính bền vững của nghệ thuật công cộng.
+Việc duy trì chất lượng nghệ thuật trong khuôn khổ hạn chế ngân sách và quy trình hành chính là thách thức lâu dài của chính sách nghệ thuật công cộng; một số tác phẩm bị hư hỏng hoặc dỡ bỏ do thiếu bảo dưỡng, cũng gây ra các cuộc thảo luận về tính bền vững của nghệ thuật công cộng.
 
 ### Phát triển chính sách nghệ thuật công cộng
 
-**Quá trình pháp định**:
+**Quá trình pháp chế hóa**:
 
-- Năm 1992 "Điều lệ về hỗ trợ và phát triển văn hóa nghệ thuật"
-- Quy định lắp đặt nghệ thuật công cộng
-- Thực hiện chính sách "một phần trăm nghệ thuật công cộng"
+- _Quy chế thưởng trợ nghệ thuật văn hóa_ năm 1992.
+- Ban hành quy định lắp đặt nghệ thuật công cộng.
+- Thực hiện chính sách "một phần trăm nghệ thuật công cộng".
 
 **Cơ chế lắp đặt**:
 
-- Các dự án công cộng phải dành riêng 1% kinh phí để lắp đặt tác phẩm nghệ thuật
-- Hệ thống kiểm duyệt của ủy ban chuyên gia
-- Quy trình sáng tạo với sự tham gia của cộng đồng
+- Công trình công cộng phải trích 1% kinh phí để lắp đặt tác phẩm nghệ thuật.
+- Hệ thống thẩm định chuyên môn.
+- Chương trình sáng tạo có sự tham gia của cộng đồng.
 
 **Đánh giá hiệu quả**:
 
-- Toàn bộ Đài Loan đã lắp đặt hơn 3.000 tác phẩm nghệ thuật công cộng
-- Nâng cao chất lượng thẩm mỹ thành phố
-- Thúc đẩy cơ hội sáng tạo cho các nghệ sĩ
+- Tổng cộng hoàn thành 5.537 tác phẩm nghệ thuật công cộng trên toàn đảo (tính đến tháng 12 năm 2023)[^7].
+- Nâng cao chất lượng thẩm mỹ đô thị.
+- Thúc đẩy cơ hội sáng tạo cho nghệ sĩ.
 
-### Những ví dụ quan trọng về điêu khắc công cộng
+### Các trường hợp điêu khắc công cộng tiêu biểu
 
-**Địa chỉ trung tâm giao thông**:
+**Biểu tượng nút giao thông**:
 
-- "Phượng hoàng đến đây" (Phượng Hoàng Lai Nghi) ở Sân bay Đào Viên (Dương Anh Phong)
-- "Mái vòm ánh sáng" (Quang Chi Mái Vòm) ở Trạm đề Tuyệt Đẹp Cao Hùng (Thạc Tiên Đại Sư)
-- "Hoa của trí tuệ" (Trí Huệ Chi Hoa) ở Tòa nhà Đài Loan 101 (Thiết kế của Miyake Issey)
+- _Vòm ánh sáng_ (Narcissus Quagliata, nghệ sĩ nghệ thuật thủy tinh Ý) tại Ga Metro Kaohsiung Formosa;
+- Tác phẩm điêu khắc cảnh quan của Dương Anh Phong tại Nhà ga hàng không quốc tế Cao Hùng[^3].
 
-**Điêu khắc cảnh quan đô thị**:
+**Nghệ thuật công cộng mang tính thương mại**:
 
-- "Trái tim của Đài Trung" (Đài Trung Chi Tâm) ở Tòa nhà chính quyền Đài Trung
-- "Thuyền tình yêu" (Tình Yêu Chi Thuyền) ở Sông Tình Cao Hùng
-- "Khu vườn văn hóa Khu lăng mộ Khổng Tử" ở Đài Nam
+- _LOVE_ (Robert Indiana), _Cuộc sống vô tận_ (Khang Mộc Tường, làm từ cáp thang máy đã qua sử dụng) tại Taipei 101[^14].
 
-**Giáo dục nghệ thuật trong trường học**:
+**Giáo dục nghệ thuật trường học**:
 
-- Lắp đặt điêu khắc giáo dục ở các trường tiểu, trung, cao
-- Chương trình các nghệ sĩ trú đóng trong trường
-- Cơ chế sáng tạo chung của học sinh và giáo viên
+- Các trường ở các cấp độ lắp đặt điêu khắc mang tính giáo dục.
+- Chương trình nghệ sĩ lưu trú trong khuôn viên trường.
+- Cơ chế sáng tạo chung giữa thầy và trò.
 
 ### Công viên điêu khắc và không gian trưng bày
 
-**Những không gian trưng bày chuyên nghiệp**:
+**Không gian trưng bày chuyên nghiệp**:
 
-- **Bảo tàng Chu Ming**: Quận Cân Sơn, thành phố Tân Bắc
-- **Công viên điêu khắc Bảo tàng Kỳ Mỹ**: Khu Nam Đức, thành phố Đài Nam
-- **Công viên điêu khắc Bảo tàng Quốc gia Đài Loan**: Khu Tây, thành phố Đài Trung
+- **Bảo tàng Chu Minh**: Khu Kim Sơn, Tân Bắc.
+- **Khu vực Bảo tàng Nemo**: Khu Nhân Đức, Đài Nam.
+- **Điêu khắc ngoài trời tại khu bảo tàng Quốc gia Đài Loan**: Tây Khu, Đài Trung.
 
 **Công viên điêu khắc đô thị**:
 
-- Công viên rừng Thái An Đài Bắc
-- Công viên rừng Lõm Tử Đáy Cao Hùng
-- Công viên điêu khắc Phong Lạc Đài Trung
+- Công viên điêu khắc Phong Lạc, Đài Trung.
 
 **Triển lãm điêu khắc quốc tế**:
 
-- Triển lãm điêu khắc ngoài trời quốc tế Quan Đảo
-- Triển lãm điêu khắc quốc tế hàng năm Đài Trung
-- Lễ hội nghệ thuật điêu khắc đá quốc tế Hoa Liên
+- Lễ hội Nghệ thuật Điêu khắc Đá Quốc tế Hoa Liên.
 
-## Phát triển sáng tạo công pháp vật liệu
+## Đổi mới kỹ thuật vật liệu
 
-Phát triển của điêu khắc Đài Loan về công pháp vật liệu, phản ánh sự thay đổi của điều kiện vật chất toàn bộ hệ sinh thái nghệ thuật. Từ các kỹ thuật điêu khắc gỗ thủ công truyền thống, đến năm 1960-80 khám phá thép không gỉ, đồng, đến những ngày này các nghệ sĩ đương đại sử dụng rộng rãi chất liệu phức hợp và công cụ số, mỗi lần chuyển đổi chất liệu đều có giáo dục kỹ thuật và hỗ trợ công nghiệp tương ứng.
+Sự phát triển của điêu khắc Đài Loan về kỹ thuật vật liệu phản ánh sự thay đổi điều kiện vật chất của toàn bộ hệ sinh thái nghệ thuật. Từ thủ công truyền thống trong điêu khắc gỗ chùa chiền, đến việc khám phá thép không gỉ và đồng từ những năm 1960–1980, và cho đến khi các nghệ sĩ đương đại sử dụng rộng rãi vật liệu hỗn hợp và công cụ kỹ thuật số, mỗi sự chuyển đổi vật liệu đều có sự hỗ trợ của giáo dục nghề nghiệp và ngành công nghiệp tương ứng.
 
-Sáng tạo của Dương Anh Phong về thép không gỉ, thử nghiệm của Chu Ming về những chất liệu phi truyền thống như bọt biển và bộ xương xỉ, đều từng tạo ra tranh cãi trong giới nghệ thuật vào thời đó. Thế hệ nghệ sĩ mới đang giới thiệu in 3D và cắt laser, làm cho ngưỡng sản xuất điêu khắc và khả năng hình dáng đều có những thay đổi.
+Việc Dương Anh Phong sáng tạo ứng dụng thép không gỉ, hay Chu Minh thử nghiệm với các vật liệu phi truyền thống như mút xốp và polyren, đã gây ra những cuộc thảo luận trong giới nghệ thuật vào thời điểm đó. Thế hệ nghệ sĩ mới đã đưa in 3D và cắt laser vào, làm thay đổi ngưỡng sản xuất và khả năng tạo hình của điêu khắc.
 
-Truyền thống giáo dục kỹ thuật công nghiệp Đài Loan (đặc biệt là điêu khắc gỗ và gia công kim loại) cung cấp nền tảng nhân lực kỹ thuật nhất định cho nghệ thuật điêu khắc, các trường đại học như Đại học Nghệ thuật Quốc gia Đài Loan, Đại học Nghệ thuật Quốc gia Đài Nam cũng đã đào tạo một lô những nhà sáng tạo có sự nắm bắt sâu sắc về chất liệu[^11].
+Truyền thống giáo dục kỹ thuật thủ công của Đài Loan (đặc biệt là điêu khắc gỗ và gia công kim loại) cung cấp một nền tảng nhân lực kỹ thuật nhất định cho nghệ thuật điêu khắc; các học viện như Đại học Nghệ thuật Quốc gia Đài Loan, Đại học Nghệ thuật Quốc gia Đài Nam cũng đã đào tạo ra một số nhà sáng tạo có sự nắm vững sâu sắc về vật liệu[^18].
 
-### Diễn giải hiện đại của chất liệu truyền thống
+### Diễn giải hiện đại của vật liệu truyền thống
 
-**Cải cách kỹ thuật điêu khắc gỗ**:
+**Cải tiến kỹ thuật điêu khắc gỗ**:
 
-- Nâng cao nghệ thuật hóa của kỹ thuật truyền thống
-- Giới thiệu ứng dụng công cụ mới
-- Cải tiến kỹ thuật xử lý bảo quản
+- Nâng cao tính nghệ thuật của kỹ thuật truyền thống.
+- Ứng dụng các công cụ mới.
+- Cải tiến kỹ thuật xử lý và bảo quản.
 
 **Điêu khắc đá**:
 
-- Phát triển và sử dụng vật liệu đá bản địa Đài Loan
-- Gia công tinh vi của đá hoa cương, đá hoa
-- Kết hợp của máy móc hiện đại và công việc thủ công
+- Phát triển và sử dụng vật liệu đá bản địa Đài Loan.
+- Gia công tinh xảo đá cẩm thạch, đá granite.
+- Kết hợp giữa máy móc hiện đại và thủ công.
 
 **Đúc kim loại**:
 
-- Địa phương hóa kỹ thuật đúc đồng
-- Sử dụng chất liệu hợp kim hiện đại
-- Phát triển công pháp khuôn lạnh chính xác
+- Bản địa hóa kỹ thuật đúc đồng.
+- Ứng dụng các vật liệu hợp kim hiện đại.
+- Phát triển kỹ thuật tạo khuôn chính xác.
 
-### Khám phá thử nghiệm với chất liệu đương đại
+### Thử nghiệm với vật liệu đương đại
 
-**Chất liệu công nghiệp**:
+**Vật liệu công nghiệp**:
 
-- Khả năng sáng tạo của thép không gỉ
-- Ưu điểm nhẹ của hợp kim nhôm
-- Thể hiện kết cấu của chất liệu thép sắt
+- Khả năng sáng tạo của thép không gỉ.
+- Ưu điểm về tính nhẹ của hợp kim nhôm.
+- Biểu đạt cấu trúc bằng vật liệu sắt thép.
 
-**Chất liệu phức hợp**:
+**Vật liệu hỗn hợp**:
 
-- Sự kết hợp của nhựa và sợi
-- Sự kết hợp của gốm và kim loại
-- Đối thoại giữa chất liệu tự nhiên và nhân tạo
+- Sự kết hợp giữa nhựa và sợi.
+- Kết hợp gốm sứ và kim loại.
+- Đối thoại giữa vật liệu tự nhiên và nhân tạo.
 
 **Công nghệ mới nổi**:
 
-- Ứng dụng nghệ thuật của công nghệ in 3D
-- Phần mềm thiết kế điêu khắc số
-- Gia công chính xác của cắt laser
+- Ứng dụng nghệ thuật của công nghệ in 3D.
+- Phần mềm thiết kế điêu khắc kỹ thuật số.
+- Gia công chính xác bằng cắt laser.
 
-### Giáo dục kỹ thuật và truyền thừa
+### Giáo dục và truyền thừa kỹ thuật
 
 **Hệ thống giáo dục học viện**:
 
-- Khóa học nhóm điêu khắc các khoa mỹ thuật
-- Các khoa điêu khắc kỹ thuật trong hệ thống kỹ năng
-- Đào tạo chuyên sâu sau đại học
+- Các khóa học nhóm điêu khắc thuộc khoa Mỹ thuật.
+- Khoa điêu khắc thủ công trong hệ thống nghề nghiệp.
+- Đào tạo chuyên sâu tại các nghiên cứu sinh.
 
-**Hệ thống truyền thừa thạc sĩ**:
+**Chế độ sư phụ kế thừa**:
 
-- Hệ thống công nhân kỹ thuật truyền thống
-- Thúc đẩy chương trình truyền thừa kỹ thuật
-- Cơ chế đào tạo học viên trẻ
+- Hệ thống chứng nhận thợ thủ công truyền thống.
+- Thúc đẩy các chương trình chuyển giao kỹ thuật.
+- Cơ chế nuôi dưỡng học trò trẻ.
 
 **Văn hóa xưởng làm việc**:
 
-- Xưởng làm việc riêng của nghệ sĩ
-- Mô hình xưởng làm việc chung
-- Giao lưu sáng tạo lưu trú quốc tế
+- Xưởng cá nhân của nghệ sĩ.
+- Mô hình xưởng chung.
+- Giao lưu sáng tạo lưu trú quốc tế.
 
-## Giao lưu quốc tế và ảnh hưởng nước ngoài
+## Giao lưu quốc tế và ảnh hưởng ở nước ngoài
 
-Năng lực hiện diện quốc tế của điêu khắc Đài Loan chủ yếu được thiết lập thông qua hai con đường: triển lãm nước ngoài của từng nghệ sĩ (có triển lãm Tokyo năm 1977 của Chu Ming, triển lãm quảng trường Vân Đơn Paris năm 1997 là những đại diện), và sự tham gia có tổ chức của chính phủ như Đôi nên Triển lãm Trung Quốc Đài Loan tại Venice[^7]. Hai con đường này bổ sung lẫn nhau, cùng nhau hình thành hình ảnh của điêu khắc Đài Loan ở nước ngoài.
+Mức độ nhận diện quốc tế của điêu khắc Đài Loan chủ yếu được xây dựng qua hai con đường: triển lãm cá nhân ở nước ngoài của nghệ sĩ (tiêu biểu là triển lãm Tokyo năm 1977, Quảng trường Vạn Đằng Paris năm 1997 của Chu Minh), và sự tham gia mang tính hệ thống như gian hàng Đài Loan tại Triển lãm Nghệ thuật Venice do chính phủ chủ trì. Hai yếu tố này hỗ trợ lẫn nhau, cùng định hình hình ảnh điêu khắc Đài Loan ở nước ngoài.
 
-Điều đáng lưu ý là năng lực hiện diện quốc tế của điêu khắc Đài Loan phụ thuộc cao vào danh tiếng của từng nghệ sĩ — tên tuổi Chu Ming gần như được coi là từ đồng nghĩa với điêu khắc Đài Loan trên sân khấu quốc tế. Hiện tượng tập trung cao độ này, một mặt nói lên thành tích của Chu Ming thực sự nổi bật, mặt khác cũng phản ánh rằng công việc thúc đẩy thương hiệu điêu khắc Đài Loan một cách có hệ thống vẫn còn không gian phát triển.
+Điều đáng chú ý là mức độ nhận diện quốc tế của điêu khắc Đài Loan phụ thuộc rất nhiều vào danh tiếng cá nhân của các nghệ sĩ—tên tuổi Chu Minh gần như đồng nghĩa với đại từ thay thế cho điêu khắc Đài Loan trên trường quốc tế. Hiện tượng tập trung cao này, một mặt cho thấy thành tựu của Chu Minh thực sự xuất sắc, mặt khác cũng phản ánh rằng công tác thúc đẩy thương hiệu điêu khắc Đài Loan một cách hệ thống vẫn còn nhiều dư địa để phát triển.
 
-Bộ Văn hóa và các chính quyền địa phương thúc đẩy chương trình lưu trú sáng tạo nghệ sĩ nước ngoài, trong những năm gần đây đã cung cấp cho các nhà điêu khắc Đài Loan nhiều cơ hội tiếp xúc với hệ sinh thái nghệ thuật quốc tế, cũng đang tích lũy tính đa dạng đại diện quốc tế ngoài Chu Ming[^9].
+Các chương trình lưu trú nghệ sĩ ở nước ngoài do Bộ Văn hóa và các chính quyền cấp huyện tổ chức trong những năm gần đây đã mang lại nhiều cơ hội tiếp xúc với hệ sinh thái nghệ thuật quốc tế hơn cho các nhà điêu khắc Đài Loan, đồng thời tích lũy được tính đại diện đa dạng bên cạnh Chu Minh[^17].
 
-### Năng lực hiện diện quốc tế của điêu khắc Đài Loan
+### Mức độ nhận diện quốc tế của điêu khắc Đài Loan
 
 **Triển lãm quốc tế quan trọng**:
 
-- Tham gia Triển lãm Đôi nên Trung Quốc Đài Loan tại Venice
-- Khu vực triển lãm Châu Á Triển lãm Đôi nên Tây Ban Nha
-- Triển lãm mời giáo sư Kassel Văn bản
+- Tham gia gian hàng Đài Loan tại Triển lãm Nghệ thuật Venice.
+- Lễ hội Nghệ thuật Đất Quốc tế Setouchi, Lễ hội nghệ thuật đất Ogasawara (Lâm Thuấn Long)[^8].
 
-**Triển lãm cá nhân nước ngoài**:
+**Triển lãm cá nhân ở nước ngoài**:
 
-- Triển lãm cá nhân Chu Ming Paris (1997)
-- Triển lãm cá nhân Dương Anh Phong New York (thập niên 1980)
-- Triển lãm quốc gia giới thiệu nghệ sĩ thế hệ mới ở châu Âu và Mỹ
+- Triển lãm cá nhân tại Bảo tàng Trung ương Tokyo của Chu Minh (1977), triển lãm lớn tại Quảng trường Vạn Đằng, Paris (1997)[^1].
+- Triển lãm cá nhân của Dương Anh Phong tại Milan (1964)[^3].
 
-**Công nhân bộ sưu tập quốc tế**:
+**Sự công nhận từ giới sưu tầm quốc tế**:
 
-- Bộ sưu tập bảo tàng mỹ thuật quan trọng châu Âu và Mỹ
-- Tham gia triển lãm nghệ thuật quốc tế
-- Yêu thích của những nhà sưu tập tư nhân
+- Được các bảo tàng lớn ở châu Âu và châu Mỹ lưu giữ.
+- Tham gia các hội chợ nghệ thuật quốc tế.
+- Được sự ưu ái của các nhà sưu tập tư nhân.
 
 ### Ngoại giao văn hóa và giao lưu nghệ thuật
 
-**Chương trình thúc đẩy của chính phủ**:
+**Các chương trình do chính phủ thúc đẩy**:
 
-- Lưu trú sáng tạo nước ngoài của Bộ Văn hóa
-- Giao lưu nghiên cứu điêu khắc quốc tế
-- Thực hiện các thỏa thuận văn hóa hai bên
+- Chương trình lưu trú ở nước ngoài của nghệ sĩ do Bộ Văn hóa tổ chức.
+- Trao đổi nghiên cứu điêu khắc quốc tế.
+- Thực hiện các hiệp định văn hóa song phương.
 
-**Giao lưu hợp tác học tập**:
+**Hợp tác học thuật**:
 
-- Hội thảo điêu khắc quốc tế
-- Chương trình sáng tạo hợp tác đa quốc gia
-- Tương tác giao lưu kỹ thuật công pháp
+- Các hội thảo nghiên cứu điêu khắc quốc tế.
+- Chương trình hợp tác sáng tạo xuyên quốc gia.
+- Giao lưu trao đổi kỹ thuật và công pháp.
 
 **Cơ hội mở rộng thị trường**:
 
-- Tham gia thị trường nghệ thuật quốc tế
-- Quảng bá đại lý phòng tranh nước ngoài
-- Nâng cao giá trị đầu tư bộ sưu tập
+- Tham gia thị trường nghệ thuật quốc tế.
+- Quảng bá ở nước ngoài thông qua các phòng trưng bày đại diện.
+- Nâng cao giá trị đầu tư sưu tầm.
 
-## Những vấn đề đương đại và phát triển tương lai
+## Các vấn đề đương đại và xu hướng tương lai
 
-Những vấn đề mà điêu khắc đương đại Đài Loan đối mặt, đã chuyển từ "làm thế nào để xây dựng ngôn ngữ đương đại" sang "làm thế nào để duy trì quan điểm của chính mình trong bối cảnh toàn cầu hóa". Những chủ đề về sinh thái môi trường, đa dạng văn hóa, công nghệ số, là ba chủ đề mà giới điêu khắc Đài Loan hiện đang thảo luận tập trung nhất.
+Các thách thức mà điêu khắc Đài Loan đương đại đang đối mặt đã chuyển từ "làm thế nào để thiết lập ngôn ngữ đương đại" sang "làm thế nào để giữ vững góc nhìn của bản thân trong bối cảnh toàn cầu hóa". Môi trường sinh thái, văn hóa đa dạng và công nghệ kỹ thuật số là ba chủ đề được giới điêu khắc Đài Loan thảo luận tập trung nhất hiện nay.
 
-Sự nổi lên của điêu khắc đương đại của những dân tộc bản địa, là hiện tượng quan trọng trong lĩnh vực điêu khắc Đài Loan trong những năm gần đây: Lạt Hắc Tử·Đạt Lập Phúc (Rahic Talif) với sáng tạo mảnh sắt kết hợp ký ức văn hóa dân tộc Mân Nam, Tạ Cổ Lưu·Ba Vạ Va Lôn (Sakuliu Pavavalung) phát triển từ hoa văn truyền thống dân tộc Bát Wan, phát triển ngôn ngữ điêu khắc đương đại độc đáo. Những sáng tạo này vừa là thể hiện nghệ thuật, vừa là tuyên bố chủ thể văn hóa của những dân tộc bản địa[^11].
+Sự trỗi dậy của điêu khắc đương đại người bản địa là một hiện tượng quan trọng trong lĩnh vực điêu khắc Đài Loan gần đây: Rahic Talif (Lạp Hách Tử Lập) sử dụng gỗ trôi và phế liệu biển, kết hợp ký ức văn hóa Amis[^15]; còn Sakuliu Pavavalung (Tát Cổ Lưu Bạc Oa Long) phát triển ngôn ngữ điêu khắc đương đại độc đáo từ các hoa văn truyền thống của người Paiwan. Những sáng tạo này vừa là sự biểu đạt nghệ thuật, vừa là lời tuyên bố về tính chủ thể văn hóa của người bản địa[^18].
 
-Năng lực hiện diện của những nữ điêu khắc gia cũng đã có nâng cao trong những năm gần đây, những vấn đề về giới tính, chính trị cơ thể, đạo đức sinh thái đưa những tầng lớp luận tiếp nối mới cho điêu khắc đương đại Đài Loan, khiến thảo luận trong lĩnh vực này không còn bị hạn chế bởi công pháp và hình dáng.
+Mức độ nhận diện của các nữ nghệ sĩ điêu khắc cũng đã được nâng cao trong những năm gần đây; các chủ đề như bình đẳng giới, chính trị cơ thể và đạo đức sinh thái mang lại một tầng diễn ngôn mới cho điêu khắc Đài Loan đương đại, khiến cuộc thảo luận trong lĩnh vực này không còn bị giới hạn ở kỹ thuật và hình thức.
 
-### Phản ứng nghệ thuật của những vấn đề xã hội
+### Phản ứng nghệ thuật đối với các vấn đề xã hội
 
-**Nhận thức bảo vệ môi trường**:
+**Ý thức bảo vệ môi trường**:
 
-- Sáng tạo tái sử dụng đồ thải
-- Chủ đề quan tâm sinh thái môi trường
-- Quảng bá sử dụng vật liệu bền vững
+- Sáng tạo tái sử dụng chất thải.
+- Chủ đề quan tâm đến môi trường sinh thái.
+- Thúc đẩy sử dụng vật liệu bền vững.
 
 **Đối thoại văn hóa đa dạng**:
 
-- Phục hưng và khôi phục văn hóa điêu khắc của những dân tộc bản địa
-- Thể hiện hòa hợp văn hóa của người nhập cư mới
-- Hợp tác nghệ thuật giữa những dân tộc khác nhau
+- Hồi sinh văn hóa điêu khắc người bản địa.
+- Biểu hiện sự hòa hợp của văn hóa dân cư mới.
+- Hợp tác nghệ thuật liên tộc.
 
-**Thể hiện bình đẳng giới**:
+**Biểu đạt bình đẳng giới**:
 
-- Nâng cao vị thế của nữ điêu khắc gia
-- Tác phẩm khám phá những vấn đề giới tính
-- Phá vỡ những ấn tượng giới tính truyền thống
+- Nâng cao vị thế của các nữ nghệ sĩ điêu khắc.
+- Nghiên cứu các tác phẩm về vấn đề giới.
+- Phá vỡ những khuôn mẫu giới truyền thống.
 
-### Những thách thức mới của thời đại số
+### Thách thức mới trong kỷ nguyên số
 
-**Tích hợp thực tế ảo**:
+**Tích hợp thực tế ảo (VR)**:
 
-- Ứng dụng công nghệ VR trong trưng bày điêu khắc
-- Phần mềm thiết kế điêu khắc số
-- Trải nghiệm bảo tàng mỹ thuật trực tuyến
+- Ứng dụng trưng bày điêu khắc bằng công nghệ VR.
+- Công cụ thiết kế điêu khắc kỹ thuật số.
+- Trải nghiệm tham quan bảo tàng trực tuyến.
 
-**Ảnh hưởng của phương tiện truyền thông xã hội**:
+**Ảnh hưởng của mạng xã hội**:
 
-- Thay đổi cách thức truyền bá tác phẩm
-- Sáng tạo những mô hình tham gia khán giả mới
-- Cơ chế phản hồi tương tác tức thời
+- Thay đổi phương thức truyền bá tác phẩm.
+- Đổi mới mô hình tương tác của khán giả.
+- Cơ chế phản hồi tức thời.
 
-**NFT và bộ sưu tập số**:
+**NFT và sưu tầm kỹ thuật số**:
 
-- Công nhân tác phẩm điêu khắc số
-- Ứng dụng công nghệ chuỗi khối
-- Mô hình đầu tư bộ sưu tập mới nổi
+- Chứng nhận các tác phẩm điêu khắc kỹ thuật số.
+- Ứng dụng công nghệ blockchain.
+- Mô hình đầu tư sưu tầm mới nổi.
 
-### Những xu hướng phát triển tương lai
+### Xu hướng phát triển tương lai
 
-**Đa dạng hóa những chủ đề sáng tạo**:
+**Đa dạng hóa chủ đề sáng tạo**:
 
-- Quan tâm những vấn đề toàn cầu hóa
-- Khám phá sâu sắc văn hóa địa phương
-- Tăng cộng tác giữa những lĩnh vực khác
+- Quan tâm đến các vấn đề toàn cầu.
+- Khai phá sâu sắc văn hóa bản địa.
+- Tăng cường hợp tác liên ngành.
 
-**Tiếp tục sáng tạo công nghệ**:
+**Sự đổi mới kỹ thuật không ngừng**:
 
-- Phát triển liên tục những chất liệu mới
-- Tinh xảo hóa và cải tiến công pháp sản xuất
-- Tích hợp sâu sắc công nghệ số
+- Phát triển vật liệu mới liên tục.
+- Cải tiến phương pháp sản xuất.
+- Tích hợp sâu công nghệ số.
 
-**Sâu hóa quảng bá giáo dục**:
+**Đào tạo và phổ biến sâu rộng**:
 
-- Thấm nhuần giáo dục cảm ngạc tư duy đạo đức từ giai đoạn sơ cấp
-- Nâng cao tham gia nghệ thuật cộng đồng
-- Tăng tần suất giao lưu quốc tế
+- Giáo dục thẩm mỹ bén rễ xuống cơ sở.
+- Nâng cao sự tham gia của cộng đồng vào nghệ thuật.
+- Tăng cường giao lưu quốc tế.
 
 ## Kết luận
 
-Quỹ đạo phát triển của điêu khắc đương đại Đài Loan, là một câu chuyện rực rỡ từ kỹ thuật truyền thống bước tới sân khấu nghệ thuật quốc tế. Từ khởi đầu hiện đại hóa của Hoàng Thổ Thủy, đến xây dựng đương đại hóa của Dương Anh Phong, sau đó đến bước ngoặt quốc tế hóa của Chu Ming, mỗi thế hệ nhà điêu khắc đều đã cộng thêm những tầng lớp mới và ý nghĩa cho nghệ thuật điêu khắc Đài Loan.
+Quá trình phát triển của điêu khắc đương đại Đài Loan là một câu chuyện tuyệt vời từ nghề thủ công truyền thống đến trường nghệ thuật quốc tế. Từ khởi đầu hiện đại hóa của Hoàng Thổ Thủy, đến sự kiến tạo đương đại của Dương Anh Phong, và đột phá quốc tế của Chu Minh, mỗi thế hệ nghệ sĩ đã bổ sung thêm những tầng ý nghĩa mới cho nghệ thuật điêu khắc Đài Loan[^4].
 
-Trong thời đại toàn cầu hóa, những nhà điêu khắc Đài Loan đối mặt với những cơ hội và thách thức mới. Làm thế nào để duy trì đặc trưng văn hóa trong khi hấp thụ những xu hướng quốc tế; làm thế nào để trong sáng tạo công nghệ, duy trì bản chất nghệ thuật; làm thế nào để dưới sự xem xét thương mại, kiên định lý tưởng sáng tạo, những điều này đều là những vấn đề quan trọng mà phát triển điêu khắc đương đại cần phải suy ngẫm.
+Trong thời đại toàn cầu hóa, các nhà điêu khắc Đài Loan đang đối mặt với những cơ hội và thách thức mới. Làm thế nào để tiếp thu xu hướng quốc tế trong khi vẫn giữ được đặc trưng văn hóa; làm thế nào để duy trì bản chất nghệ thuật trong đổi mới kỹ thuật; làm thế nào để kiên định lý tưởng sáng tạo trong cân nhắc thương mại—đây đều là những vấn đề quan trọng cần suy ngẫm trong sự phát triển của điêu khắc đương đại.
 
-Từ việc thiết lập Bảo tàng Chu Ming cho đến xây dựng những công viên điêu khắc ở các địa phương, từ thúc đẩy chính sách nghệ thuật công cộng cho đến sâu hóa giao lưu quốc tế, nghệ thuật điêu khắc Đài Loan đang phát triển theo hướng càng ngày càng đa dạng, cởi mở, quốc tế hóa. Và những tài sản văn hóa quý báu này, không chỉ làm giàu thêm cảnh quan nghệ thuật Đài Loan, mà còn trở thành cầu nối quan trọng kết nối quá khứ và tương lai, bản địa và quốc tế.
+Từ việc thành lập Bảo tàng Chu Minh đến việc xây dựng các công viên điêu khắc trên khắp đảo, từ sự thúc đẩy chính sách nghệ thuật công cộng đến việc làm sâu sắc giao lưu quốc tế, nghệ thuật điêu khắc Đài Loan đang hướng tới sự đa dạng hơn, cởi mở hơn và quốc tế hóa hơn. Và những tài sản văn hóa quý giá này không chỉ làm phong phú thêm cảnh quan nghệ thuật của Đài Loan mà còn là cây cầu nối quan trọng giữa quá khứ và tương lai, bản địa và quốc tế.
 
-Thông qua mỗi tác phẩm điêu khắc, chúng ta thấy không chỉ là sáng tạo và kỹ thuật của các nghệ sĩ, mà còn là độ sâu và độ rộng của văn hóa Đài Loan. Trong không gian ba chiều, những nhà điêu khắc Đài Loan bằng những bàn tay của họ, đã khắc ghi ký ức và giấc mơ của đảo quốc.
+Qua mỗi tác phẩm điêu khắc, chúng ta nhìn thấy không chỉ sự tinh xảo và kỹ năng của người nghệ sĩ, mà còn cả chiều sâu và bề rộng văn hóa Đài Loan. Trong không gian ba chiều, các nhà điêu khắc Đài Loan dùng đôi tay của mình để tạc nên ký ức và giấc mơ của hòn đảo.
 
 ## Tài liệu tham khảo
 
-[^1]: [Wikipedia《Chu Ming (Nhà điêu khắc gia)》](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — Tiểu sử, quỹ đạo sáng tạo của Chu Ming và giới thiệu bảo tàng (phiên bản cập nhật năm 2025)
+[^1]: [Mục Wikipedia về Chu Minh (nhà điêu khắc)](<https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98_(%E9%9B%95%E5%A1%91%E5%AE%B6)>) — Tiểu sử Chu Minh, sự kế thừa, triển lãm tại Bảo tàng Trung ương Tokyo năm 1977 và Quảng trường Vạn Đằng Paris năm 1997, mười hai năm xây dựng bảo tàng, qua đời ngày 22 tháng 4 năm 2023.
 
-[^2]: [Công ty đấu giá Ravenel](https://ravenel.com/) — Tài liệu chính thức của Chu Ming và tình hình thị trường
+[^2]: [Mục Wikipedia về Hoàng Thổ Thủy](https://zh.wikipedia.org/wiki/%E9%BB%83%E5%9C%9F%E6%B0%B4) — _Tiếng sáo của trẻ đồng quê_ được chọn trong Triển lãm Đế quốc lần thứ hai vào năm 1920, _Nước Cam Lộ_ được chọn trong Triển lãm Đế quốc lần thứ ba vào năm 1921, _Chim Đế_ (1922), _Quần thể bò_ (1930).
 
-[^3]: [Đại học Văn hóa Trung Quốc Giáo dục chung nhân văn《Ba đỉnh cao điêu khắc Đài Loan》Trang giảng](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Do giáo sư Tiêu Kinh Thái chủ giảng, so sánh ba thế hệ Hoàng Thổ Thủy, Dương Anh Phong, Chu Ming (2022)
+[^3]: [Mục Wikipedia về Dương Anh Phong](https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%8B%B1%E9%A2%A8) — _Phượng Hoàng Lai Nghi_ tại Triển lãm Thế giới Osaka năm 1970, triển lãm cá nhân Milan năm 1964, Loạt tác phẩm phong cảnh núi Thái Lộc, ý niệm điêu khắc cảnh quan, ủy thác của Nhà ga hàng không quốc tế Cao Hùng.
 
-[^4]: [Tin tức Chiết thời Trung Quốc《Con đường bậc thầy Chu Ming Dương Anh Phong triển lãm thay đổi sẽ lộ lồng sắc》](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Triển lãm Tokyo năm 1977 của Chu Ming và mối quan hệ thầy bạn với Dương Anh Phong (ngày 23 tháng 4 năm 2023)
+[^4]: [Trang bài giảng về "Ba đỉnh cao điêu khắc Đài Loan—từ Hoàng Thổ Thủy, Dương Anh Phong đến Chu Minh" của Đại học Văn hóa Trung Quốc](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Giáo sư Tiêu Quỳnh Thụy của Đại học Thành Đạt trình bày, so sánh ba thế hệ.
 
-[^5]: [Vocus《Tình duyên của nhà điêu khắc gia Đài Loan Chu Ming với Hồng Kông》Báo cáo chuyên đề](https://vocus.cc/article/644cd3f8fd897800015f9262) — Nguồn sáng tạo của Chu Ming với giới nghệ thuật Hồng Kông và triển lãm (2024)
+[^5]: [Trang tin tức thời sự về "Con đường bậc thầy Chu Minh: Triển lãm Dương Anh Phong làm nổi bật tài năng, Loạn Thư gây chấn động Nhật Bản"](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Triển lãm Tokyo năm 1977 của Chu Minh và mối quan hệ sư đồ với Dương Anh Phong (ngày 23 tháng 4 năm 2023).
 
-[^6]: [Bảo tàng Chu Ming](https://www.juming.org.tw/) — Trang web chính thức, thông tin triển lãm, toàn tập nghệ thuật và quảng bá giáo dục
+[^6]: [Bảo tàng Chu Minh](https://www.juming.org.tw/) — Trang web chính thức, thông tin triển lãm, toàn bộ tác phẩm và phổ biến giáo dục.
 
-[^7]: [Bảo tàng Quốc gia Đài Loan](https://www.ntmofa.gov.tw/) — Báo cáo nghiên cứu《Lịch sử phát triển điêu khắc đương đại Đài Loan》(2021)
+[^7]: [Thông cáo báo chí của Bộ Văn hóa về việc sửa đổi _Quy chế lắp đặt nghệ thuật công cộng_](https://www.moc.gov.tw/News_Content.aspx?n=105&s=221837) — Ngày 02-08-2024: "Tính đến tháng 12 năm ngoái, tổng cộng đã hoàn thành 5.537 tác phẩm, với sự tham gia của hơn 2.000 nghệ sĩ và học giả".
 
-[^8]: [Bảo tàng Dương Anh Phong](https://yuyuyang.org.tw/) — Bộ sưu tập kỹ thuật số《Hoàn chỉnh Dương Anh Phong》và thông tin triển lãm
+[^8]: [Chương trình hợp tác liên ngành của Bộ Văn hóa - Tác phẩm _Thuyền hạt giống_ của nghệ sĩ Lâm Thuấn Long trở về tại Lễ hội Nghệ thuật Quốc tế Setouchi năm 2016](https://www.moc.gov.tw/information_250_44251.html) — Thuyền hạt giống bằng gỗ trôi năm 2013, được lắp đặt tại địa điểm chính của Lễ hội Nghệ thuật Quốc tế Setouchi năm 2016, tỉnh Kagawa lưu giữ vĩnh viễn.
 
-[^9]: [Trang web chính thức nghệ thuật công cộng Bộ Văn hóa](https://publicart.moc.gov.tw/) — Chính sách, pháp luật, quy định và thông tin các dự án lắp đặt nghệ thuật công cộng Đài Loan
+[^9]: [Báo Tự Do Thời Báo - "Một hạt giống rơi từ trên trời! Hoa Bò truyền tải hy vọng và sức sống"](https://news.ltn.com.tw/news/life/breakingnews/2583320) — _Hạt giống—Một hạt giống rơi từ trên trời_ tại công viên rừng Hoa Bò Lý, Đài Trung năm 2018, tre Mạnh Tông và tre Quế, đường kính 12 mét, cao 15 mét.
 
-[^11]: [Đại học Nghệ thuật Quốc gia Đài Loan](https://www.ntua.edu.tw/) — Thông tin khóa học khoa điêu khắc và tạp chí nghiên cứu
+[^10]: [Phỏng vấn chuyên đề MOT TIMES: Không gian được tạo ra bằng 4000 cây tre của Lâm Thuấn Long](http://www.mottimes.com/cht/interview_detail.php?serial=427) — _Vượt qua biên giới - Sóng_ tại đảo Tiểu Đậu, Lễ hội Nghệ thuật Quốc tế Setouchi năm 2019.
 
-[^12]: [Bảo tàng Mỹ thuật Lập pháp Đài Bắc](https://www.tfam.museum/) — Hình ảnh triển lãm《Điêu khắc Đài Loan 1945-2020》(2020)
+[^11]: [Trang nghệ sĩ Liêu Nghênh Tích trên trang web Phi Trì Trung Nghệ](https://artemperor.tw/artist/9115) — Sinh năm 1968 tại Đài Trung, nhóm hội họa phương Tây của Viện Nghiên cứu Mỹ thuật Đại học Đông Hải, chuyển sang sáng tác ba chiều từ năm 2008, đồng thời là giám tuyển quốc tế.
+
+[^12]: [Triển lãm tiền trưng bày điêu khắc _An Bình - Hòa bình - Người_ tại Bảo tàng Thành phố Đài Nam](https://www.tnam.museum/exhibition/detail/195) — Sinh năm 1942 tại Đài Nam, bắt đầu học nghề từ năm 1955, tốt nghiệp năm 1958, Giải thưởng Văn học Ngô Tam Liên năm 1983, giải Tân Cấu trúc Nhật Bản năm 1989.
+
+[^13]: [Triển lãm _Nhiệt độ: Triển lãm điêu khắc cha con Bồ Thiêm Sinh x Bồ Hạo Minh_ tại Bảo tàng Thành phố Đài Nam](https://www.tnam.museum/exhibition/detail/584) — Bồ Hạo Minh tốt nghiệp khoa Mỹ thuật, trường Văn hóa năm 1967, cùng cha trong mười ba năm, du học ở Brussels và Paris năm 1980.
+
+[^14]: [Mục Wikipedia về Taipei 101 §Nghệ thuật công cộng](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97101) — _LOVE_ của Robert Indiana, _Cuộc sống vô tận_ (cáp thang máy đã qua sử dụng) của Khang Mộc Tường, _Vòng Trái Đất_ của Trang Phổ.
+
+[^15]: [Mục Wikipedia về Rahic Talif](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%BB%91%E5%AD%90%C2%B7%E9%81%94%E7%AB%8B%E5%A4%AB) — Nghệ sĩ người Amis, chuyên sử dụng gỗ trôi để điêu khắc, với vật liệu là phế thải biển, lưới đánh cá, thanh sắt.
+
+[^16]: [Bảo tàng Dương Anh Phong](https://yuyuyang.org.tw/) — Thông tin số hóa và triển lãm _Toàn tập Dương Anh Phong_.
+
+[^17]: [Trang web chính thức về nghệ thuật công cộng của Bộ Văn hóa](https://publicart.moc.gov.tw/) — Thông tin về chính sách, quy định và các trường hợp lắp đặt nghệ thuật công cộng Đài Loan.
+
+[^18]: [Đại học Nghệ thuật Quốc gia Đài Loan](https://www.ntua.edu.tw/) — Thông tin khóa học khoa điêu khắc.
