@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T17:17:03+08:00",
-    "zhCommitHead": "f3d4dc3f7",
+    "lastUpdated": "2026-09-20T17:55:10+08:00",
+    "zhCommitHead": "254f6c0e1",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 991,
-        "stale": 56,
+        "fresh": 992,
+        "stale": 55,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 983,
+        "fresh": 984,
         "stale": 58,
         "metadata_stale": 13,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "ru": {
@@ -19317,7 +19317,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/acer-pc-industry-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：宏碁.md",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:d376a35c550402b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T09:11:08.269865+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -78283,18 +78294,16 @@
         "vi": {
           "path": "vi/Politics/indigenous-name-rectification.md",
           "translatedFrom": "Politics/原住民族正名.md",
-          "sourceCommitSha": "2414d550b",
-          "sourceContentHash": "sha256:201301d5ef8902fa",
-          "sourceBodyHash": "sha256:64a6bc7308f455d1",
-          "translatedAt": "2026-09-13T17:51:57+08:00",
+          "sourceCommitSha": "3a2cee9a5",
+          "sourceContentHash": "sha256:f7989f09dc5120dd",
+          "sourceBodyHash": "sha256:22f458cb51ab119a",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "df7bf8e5",
           "translationLastModified": "2026-09-13T21:01:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+39 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Politics/indigenous-name-rectification.md",
@@ -99399,8 +99408,8 @@
           "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
           "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
           "translatedAt": "2026-09-20T00:52:36+08:00",
-          "translationLastCommit": "89b721a3",
-          "translationLastModified": "2026-09-18T21:24:38+08:00",
+          "translationLastCommit": "254f6c0e",
+          "translationLastModified": "2026-09-20T17:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -160033,8 +160042,8 @@
           "sourceContentHash": "sha256:b78814073b388a83",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T07:29:47.029150+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "254f6c0e",
+          "translationLastModified": "2026-09-20T17:17:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
