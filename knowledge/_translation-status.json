@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T17:55:15+08:00",
-    "zhCommitHead": "ec750cb54",
+    "lastUpdated": "2026-09-20T18:35:11+08:00",
+    "zhCommitHead": "d66db4c0b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 948,
+        "fresh": 949,
         "stale": 59,
         "metadata_stale": 9,
-        "missing": 108,
+        "missing": 107,
         "orphan": 0
       },
       "pt": {
@@ -53075,8 +53075,8 @@
           "sourceContentHash": "sha256:2a4f80e7fc721f19",
           "sourceBodyHash": "sha256:fc5314c473c1914f",
           "translatedAt": "2026-09-20T08:15:24.077349+00:00",
-          "translationLastCommit": "67daef1e",
-          "translationLastModified": "2026-08-01T01:04:37+08:00",
+          "translationLastCommit": "d66db4c0",
+          "translationLastModified": "2026-09-20T17:55:15+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -67615,8 +67615,8 @@
           "sourceContentHash": "sha256:20046b0bdaf571de",
           "sourceBodyHash": "sha256:43aaf2c0f446a093",
           "translatedAt": "2026-09-20T00:52:34+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "ec750cb5",
+          "translationLastModified": "2026-09-20T17:55:10+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -166173,7 +166173,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/ximending.md",
+          "translatedFrom": "Geography/西門町.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:0ee777992a128197",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T10:20:14.130026+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/ximending.md",
