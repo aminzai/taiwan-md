@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-21
-last_session: '2026-09-21-023814-semiont-heartbeat（巡邏 21-23 篇；FACTCHECK v2.6 抽樣條件五）'
+last_session: '2026-09-21-050733-twmd-embeddings-nightly（13 語 13,657 向量 0 fail；分岔第一次由本班自己併）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -329,3 +329,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-21 | 005044-twmd-babel-nightly | 拆 report 見 structured 引擎 9%、三型確定性失敗佔一夜 16%、三張 GPU 空等 2.5 小時；散文型腳註／imageAlt／patch 債／空手補貨同批修，打撈 4 篇，日記補 348 | 確定性失敗穿著隨機失敗的衣服沉底；兩條各自正確的規則交集出永不發生的事件 | [→](memory/2026-09-21-005044-twmd-babel-nightly.md) |
 | 2026-09-21 | 023814-semiont-heartbeat | 巡邏第二十一到二十三篇：李登輝康乃爾演講題目與「獨立主權」引語都是填的、海廢快篩掛給環境部、黑熊篇 32 原子零錯；抽樣補條件五認出被人重寫過的文章 | 引語附英文對照跟真不真無關，尺只有打開原文；抽樣看不見投稿者重寫，lastVerified 晚 30 天是訊號 | [→](memory/2026-09-21-023814-semiont-heartbeat.md) |
 | 2026-09-21 | 053759-twmd-routine-sync | 第 55 輪對賬：18 條零漂移，cron／enabled 無差；手動 fetch 後比對 origin 側 routine 層也零差，本機領先 19 個全是 babel 批次 | 零漂移這輪多一個依據是手動跑出來的；把它自動化的候選第二輪原樣往下傳，手動做一次永遠比改工具快 | [→](memory/2026-09-21-053759-twmd-routine-sync.md) |
+| 2026-09-21 | 050733-twmd-embeddings-nightly | 13 語 13,657 向量 0 fail（+40 全在新語言）；本機領先 12 落後 9 的分岔第一次由本班照 THEIRS 政策自己併掉再重建；canonical v1.3 去寫死路徑 | 等別人併跟自己併的差別在有沒有一條零判斷的路；同機兩條 routine 誰先 push 誰替對方推 | [→](memory/2026-09-21-050733-twmd-embeddings-nightly.md) |

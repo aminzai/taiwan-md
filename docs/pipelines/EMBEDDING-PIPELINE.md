@@ -3,9 +3,9 @@ title: 'EMBEDDING-PIPELINE'
 description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.2: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.2'
-last_updated: 2026-08-19
-last_session: '2026-08-19-053717-twmd-embeddings-nightly'
+current_version: 'v1.3'
+last_updated: 2026-09-21
+last_session: '2026-09-21-050733-twmd-embeddings-nightly'
 sister_docs:
   - 'REMOTE-GPU-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -75,12 +75,14 @@ curl -s -m 20 "$EMBED_HOST/api/embeddings" -H 'Content-Type: application/json' \
 ### Stage 1 — Rebuild（~13 分鐘，6 語 4640 向量）
 
 ```bash
-cd /Users/cheyuwu/Projects/taiwan-md
+cd "$(git rev-parse --show-toplevel)"   # 不寫死 home 路徑：指揮部是 /Users/cheyuwu、營運機是 /Users/musebase
 git checkout main && git pull origin main
 EMBED_HOST="$EMBED_HOST" node scripts/core/build-embeddings.mjs --langs all
 ```
 
 每語 ~136s（fr 較少 ~118s）。輸出 `🧬 done — N article vectors across 6 langs`。
+
+> **本機與 origin 真分岔時**（營運機上常態：babel dispatcher 在本機不停 commit，心跳巡邏在 origin 側 commit）：`git pull` 走 merge，唯一會衝突的多半是 `knowledge/_translation-status.json`——按 [`merge-divergence.py`](../../scripts/tools/merge-divergence.py) 的 THEIRS 政策 `git checkout --theirs` 取 origin，再跑 `scripts/tools/lang-sync/status.py` 重生後 `git add`，零判斷。工作樹裡 dispatcher 正在寫的 dirty 檔不碰；merge 前先 `git merge-tree --write-tree origin/main HEAD` 看衝突清單，出現 `_translation-status.json` 以外的衝突就 abort 回到本機 HEAD 重建（索引照樣可用，差的只是 origin 側那幾篇的文字改動），把衝突留給 maintainer Step 1.1b。
 
 ### Stage 2 — Verify（儀器化，不靠肉眼）
 
@@ -149,6 +151,8 @@ git push origin main
 ROUTINE.md SSOT 一行登記在排程表。修排程先改 ROUTINE.md 再 sync 任務檔。
 
 ---
+
+_v1.3 | 2026-09-21 twmd-embeddings-nightly session | **Stage 1 去掉寫死的 home 路徑＋補真分岔時的 merge 處置**：`cd` 改 `git rev-parse --show-toplevel`（09-20／09-21 連兩夜在營運機 `/Users/musebase` 上照實際路徑跑，canonical 卻指著指揮部的 `/Users/cheyuwu`）；`git pull` 遇 `_translation-status.json` 衝突的處置寫成一段（THEIRS＋status.py 重生，跟 maintainer 的 merge-divergence.py 同一政策），其他衝突不自己解。觸發：09-21 本機領先 12 落後 9，第一次由本 routine 自己併分岔。_
 
 _v1.2 | 2026-08-19 twmd-embeddings-nightly session | **Stage 3 commit timestamp 改先落變數再代入**：`$(date ...)` 直接嵌進 heredoc 字串改成先 `NOW=$(date ...)` 存變數並印出來確認，再用 `$NOW` 代入 commit message。觸發：2026-08-18／2026-08-19 連續兩夜（含 08-19 同一 session 內二次）把時間占位符手動謄寫成字面文字（`05:2X`／`05:0X`），push / 定稿前才靠人工複查抓到，LESSONS-INBOX `retyping-shell-substitution-loses-the-substitution` vc=3 canonical 門檻。修法把「有沒有代換成功」變成下指令前肉眼可確認的中間狀態。_
 
