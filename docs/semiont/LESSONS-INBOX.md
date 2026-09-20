@@ -344,6 +344,43 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #38 (g) `empty-intake-cannot-distinguish-quiet-from-broken`（本條加第三義：intake 沒壞、但上游該發的沒發）、#82 proxy signal（每週綠燈量的是通知管道不是進帳）、#15
 - **verification_count**: 1
 
+### 2026-09-21 twmd-babel-nightly — deterministic-parser-defect-billed-as-model-failure：一個確定性的解析器缺陷穿著模型失敗的衣服被重試了八次，然後把文章沉進「耗盡」
+
+- **pattern**: `deterministic-parser-defect-billed-as-model-failure`
+- **原則**：產線把每次失敗記成「這篇×這個模型又沒過」，但失敗裡有一種是**輸入端**就已經壞掉的：解析器對某種形狀的原文（散文型腳註：出處前綴＋連結、句中連結、方括號時間碼）產出必然被驗證器擋下的結構，跟模型翻得好不好完全無關。這種失敗每次重試結果都一樣，卻跟真正的隨機失敗記在同一個計數器裡，累計八次就被判「現役 tier 全滅」沉進佇列尾。
+- **觸發**：2026-09-21 00:36 追 run 33830 的 structured-heavy 引擎 221 次只過 20：36 次死在 Phase N「title contains markdown/newline」，追到 `extract_footnote_defs` 最後一個分支把散文型腳註切成半個連結、URL 後整段丟掉；全庫 158 篇 ≥30 腳註的 zh 稿裡 20 篇有這型腳註（台灣網路社群遷徙史 44/47 條、電競 32/32），它們在 structured 引擎裡從 07-25 pilot 起就永遠過不去，每次 130–750 秒。修法 `244baf079`（整條當 desc 送翻，17,489 條腳註身分回圈零 URL 遺失）。同夜第二型：`imageAlt` 被兩條引擎當 passthrough 複製 zh 而閘門要求翻，36 次；第三型：patch 引擎把既有譯文的 tags 債原封組回被擋，五次拒收才升級。三型合計一夜 ≥ 86 次確定性失敗，佔 535 次嘗試的 16%，而 report 只寫「no output written」與「verify=1」。
+- **instances**：
+  - 2026-09-21 twmd-babel-nightly 散文型腳註／imageAlt／tags 債三型 → memory/2026-09-21-005044-twmd-babel-nightly.md
+- **修補候選**：dispatcher 記 fail 時多一欄「本次失敗是否可由輸入端預判」——最便宜的版本是在派工前跑一次 `extract_footnote_defs` 與 frontmatter 對比，任何在派工前就能判定必敗的組合直接記 `precheck-fail` 不派、不計 fail_count（REFLEXES #38 (d) 那條「閘門誤判可修、本質太難重試無用」的第三桶：**還沒派就知道會敗**）。
+- **可能層級**：通用反射候選（任何「輸入端確定性缺陷混進輸出端隨機失敗的計數器」）
+- **相關**：REFLEXES #38 (d) `fail_counts` 混閘門誤判與本質太難（本條是第三種根因：解析器對輸入形狀的缺陷，重試零意義且每次燒完整工作量）、#85（「不知道敗在哪」借了「模型沒過」的符號）、#90（逐條回報把單一根因打散成 36 個看似無關的錯誤）
+- **verification_count**: 1
+
+### 2026-09-21 twmd-babel-nightly — gate-and-engine-disagree-on-who-owns-a-field：同一個 frontmatter 欄位，閘門說要翻、引擎說要複製，兩個方向都出過事
+
+- **pattern**: `gate-and-engine-disagree-on-who-owns-a-field`
+- **原則**：verify-translation.py 對每個 frontmatter 欄位有一份「該翻／該原樣」的清單，structured-translate 與 patch-translate 各自也有一份，三份是手抄的、沒有共同來源。兩份漂開時閘門會把引擎的成品全數擋下（引擎不翻該翻的），或整批放行錯的東西（引擎翻了不該翻的，而閘門只 WARN）。
+- **觸發**：2026-09-21 imageAlt——verify 第 13 檢查把它跟 title、description 同列「不得留原文」，兩條引擎都把它當 passthrough 機械複製 zh；zh 有 imageAlt 的 48 篇稿、223 個譯本缺這欄，一夜 36 次拒收全在這一格，而閘門的報告字樣（`frontmatter not untranslated`）讀起來像模型偷懶。修 `structured-translate.py`／`patch-translate.py` 把 imageAlt 送進 Phase F。
+- **instances**：
+  - 2026-09-20 twmd-babel-nightly subcategory：引擎翻了、分類頁分群鍵要原樣，閘門只 WARN，存量漲到 1,795 → memory/2026-09-20-005650-twmd-babel-nightly.md（當時記在 `production-line-follows-the-older-canon-while-the-newer-gate-only-warns`，方向相反的同一結構）
+  - 2026-09-21 twmd-babel-nightly imageAlt：引擎複製、閘門要翻 → memory/2026-09-21-005044-twmd-babel-nightly.md
+- **修補候選**：欄位所有權表只寫一份——`verify-translation.py` 已有 `TRANSLATED` 與 `PASSTHROUGH` 兩個清單，structured 已 import `PASSTHROUGH`，把 `TRANSLATED` 也 import 進兩條引擎當 Phase F payload 的唯一來源，三份手抄清單收成一份。
+- **可能層級**：操作規則（TRANSLATION／SQUEEZE pipeline：frontmatter 欄位所有權單一 SSOT）；通用反射候選（閘門與生產者各自維護同一張規則表）
+- **相關**：REFLEXES #83 檢查器兩把尺（本條的兩把尺分別在閘門與引擎，且各自都對）、#56 canonical↔production 漂移（這裡漂的是兩支 production 工具之間）、#92 twin-artifact 缺重整器
+- **verification_count**: 2
+
+### 2026-09-21 twmd-babel-nightly — escalation-condition-requires-a-retry-the-sink-prevents：耗盡升級要「連續兩夜耗盡」，但耗盡的文章從此不再被試，條件結構上永遠不成立
+
+- **pattern**: `escalation-condition-requires-a-retry-the-sink-prevents`
+- **原則**：義務鐵律第 4 條（09-05）規定同一對 (語言, 文章) 連續兩夜 cascade exhausted 就自動進 OBSERVER-QUEUE；09-20 為了不讓難篇佔隊首，把累計失敗 ≥8 的整批壓到佇列尾。兩條都對，合起來是：耗盡的文章不再被派、不再耗盡第二次、升級永不觸發。190 對「現役 tier 全滅」的文章從此靜默地 carry，正是第 4 條要禁止的事。
+- **觸發**：2026-09-21 00:45 對賬 `reports/babel/cascade-exhausted.json`：09-20 前已耗盡 157 對，run 33830 二十三小時內對它們的重試次數是 0；OBSERVER-QUEUE 自 09-05 起沒有任何一列由 `append_observer_queue_row` 寫入。
+- **instances**：
+  - 2026-09-21 twmd-babel-nightly → memory/2026-09-21-005044-twmd-babel-nightly.md
+- **修補候選**：升級條件改成不依賴重試——「耗盡 ≥1 次且到下一夜仍是 missing／stale」即升級；或把 190 對一次彙總成一列（不是 190 列）交哲宇決定 Tier 6 要不要開。屬閘門邏輯改動，留 Full mode 或哲宇拍。
+- **可能層級**：通用反射候選（兩條各自正確的規則，交集是一個永遠不會發生的事件）
+- **相關**：REFLEXES #82 proxy signal（「連續兩夜耗盡」是「還沒被救」的替身，替身被另一條規則消滅了）、#96 已知會壞不減少壞的機率（第 4 條的意圖寫在 pipeline，控制流沒走到）、#64 ABORT-DEFER
+- **verification_count**: 1
+
 ### 2026-09-20 twmd-routine-audit-weekly — steady-state-reconciliation-has-no-owner-after-the-crisis-does：分岔的危機修復寫進了 maintainer 職責，分岔的穩態對賬卻由每個剛醒來的 session 各付一次
 
 - **pattern**: `steady-state-reconciliation-has-no-owner-after-the-crisis-does`

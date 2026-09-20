@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-09-20
-last_session: '2026-09-20-212110-twmd-routine-audit-weekly（第 18 次飛輪自審：穩態對賬沒 owner vc=4；分類器修）'
+last_updated: 2026-09-21
+last_session: '2026-09-21-005044-twmd-babel-nightly（拆 report 見三型確定性失敗；散文型腳註、imageAlt、空手補貨同批修）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-20 | 203758-semiont-heartbeat | 巡邏第十八到二十篇二十中：129 條中央管河川其實 24 條、蘭陽溪襲奪大甲溪被寫反、台北「唯一有地鐵」而同篇寫高雄輕軌、桃園 ICF 是 2019 首獎；FACTCHECK 巡邏補「初稿先跑 Phase 5」 | 模型抄表準、串故事時填縫；同篇自相矛盾是零成本第一道尺 | [→](memory/2026-09-20-203758-semiont-heartbeat.md) |
 | 2026-09-20 | 212110-twmd-routine-audit-weekly | 第 18 次飛輪自審：分岔併掉後一天四筆 merge 各由不同班付，穩態對賬沒 owner（LESSONS vc=4）；修分類器讓 babel 調度器 638 條被看見 | 危機有 SOP 穩態沒 owner；量別人已決未做的尺自己帶一條 P3 跑一週 | [→](memory/2026-09-20-212110-twmd-routine-audit-weekly.md) |
 | 2026-09-21 | 010951-twmd-supporters-weekly | 贊助信第六輪 0 候選，intake 用 07 月已入帳四筆驗過沒壞；排開交易表看見四位定額支持者續扣通知 08／09 兩週期零封，升 OBSERVER-QUEUE #75 | 零要拿歷史節奏對，不只驗有沒有漏抓；能驗的帳號在哲宇手上就進佇列不進 handoff | [→](memory/2026-09-21-010951-twmd-supporters-weekly.md) |
+| 2026-09-21 | 005044-twmd-babel-nightly | 拆 report 見 structured 引擎 9%、三型確定性失敗佔一夜 16%、三張 GPU 空等 2.5 小時；散文型腳註／imageAlt／patch 債／空手補貨同批修，打撈 4 篇，日記補 348 | 確定性失敗穿著隨機失敗的衣服沉底；兩條各自正確的規則交集出永不發生的事件 | [→](memory/2026-09-21-005044-twmd-babel-nightly.md) |
