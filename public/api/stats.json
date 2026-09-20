@@ -1,9 +1,13 @@
 {
-  "totalArticles": 13752,
+  "totalArticles": 13769,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 8994,
+  "totalTags": 9010,
   "categories": [
+    {
+      "name": "vi",
+      "count": 1107
+    },
     {
       "name": "es",
       "count": 1104
@@ -22,19 +26,15 @@
     },
     {
       "name": "ja",
-      "count": 1035
-    },
-    {
-      "name": "vi",
-      "count": 1107
+      "count": 1038
     },
     {
       "name": "hi",
-      "count": 1015
+      "count": 1019
     },
     {
       "name": "ru",
-      "count": 1068
+      "count": 1069
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 1014
+      "count": 1017
     },
     {
       "name": "ar",
-      "count": 1054
+      "count": 1056
     },
     {
       "name": "pt",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 835
+      "count": 839
     },
     {
       "name": "Lifestyle",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 67
+      "count": 68
     },
     {
       "name": "人物",
@@ -135,15 +135,15 @@
       "count": 36
     },
     {
+      "name": "原住民族",
+      "count": 31
+    },
+    {
       "name": "ODM",
       "count": 31
     },
     {
       "name": "民主化",
-      "count": 30
-    },
-    {
-      "name": "原住民族",
       "count": 30
     },
     {
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13752,
+    "zh-TW": 13769,
     "en": 0
   },
-  "lastUpdated": "2026-09-20T12:41:14.016Z",
+  "lastUpdated": "2026-09-20T18:41:51.298Z",
   "stars": 1185,
   "forks": 186,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
     "en": 1108,
-    "ja": 1035,
+    "ja": 1038,
     "ko": 1106,
     "es": 1104,
     "fr": 1105,
     "vi": 1107,
-    "id": 1014,
+    "id": 1017,
     "pt": 1077,
-    "hi": 1015,
-    "ar": 1054,
-    "ru": 1068,
-    "de": 835
+    "hi": 1019,
+    "ar": 1056,
+    "ru": 1069,
+    "de": 839
   },
   "enPages": 1108,
   "totalPages": 1122

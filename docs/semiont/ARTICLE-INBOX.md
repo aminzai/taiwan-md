@@ -270,6 +270,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 交叉：〈台灣五大地形＋島嶼地理〉併寫工單（同批 03-18 初稿）、22 縣市系列（Geography「縣市」子分類 22 篇，本篇該當它們的入口而不是重複）、〈台灣高鐵〉。12 語譯本在線，靠 zh 雜湊觸發 stale
 - **Reference**: [reports/research/2026-09/城市特色與區域文化.md](../../reports/research/2026-09/城市特色與區域文化.md)
 
+### 台灣海洋保育與挑戰 EVOLVE — featured 的海洋保育文骨幹數字全對、填縫全錯，止血後仍是「三重威脅＋行動指南」的簡報體，該用 2020 那個夏天重寫
+
+- **Type**: `EVOLVE`
+- **Category**: Nature
+- **Path**: knowledge/Nature/台灣海洋保育與挑戰.md（featured: true）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-09-21 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.2 母體第二十二篇）
+- **Notes**:
+  - **查核已跑完**（audit 落 `reports/research/2026-09/台灣海洋保育與挑戰.md`）：30 原子 ❌ 7 ⚠️ 6，止血 `c24076169`。我們的島那組白化統計（62 樣點、28,250 株、52%／31%、小琉球 55%）與報導者那組海底垃圾（102 公斤／平方公里、淡水外海）全對；錯的是填縫——污染源三個百分比、海廢快篩掛給「環境部」且數字全編（實為綠色和平＋荒野 2018-19 快篩：121 測站、15 萬袋、每百公尺 13 袋）、郭兆揚與陳昭倫兩句引語、一句歸給 UNEP 的格言、酸化與海平面兩組無源速率。
+  - **重寫要處理的**：標題問「花 30 年建成的體系」但全文沒有起算點與體系的樣子（墾丁 1984、東沙 2007、南方四島 2014、海委會 2018 是四個可寫的時刻）；「監測科技／復育技術」兩個清單與「個人能做什麼」是簡報體，沒有一個人在場。可用的脊椎是 2020 那個沒有颱風的夏天：郭兆揚在小琉球潛下去看到的、陳昭倫的 62 個樣點、海管處在東沙潟湖的監測，三個現場串起來就是一篇；2024 年再白化（我們的島 10914）可當結尾。
+  - 交叉：〈台灣國家公園〉〈臺灣的鯨豚〉〈綠蠵龜〉（若有）、22 縣市系列的屏東與澎湖。12 語譯本在線，靠 zh 雜湊觸發 stale
+- **Reference**: [reports/research/2026-09/台灣海洋保育與挑戰.md](../../reports/research/2026-09/台灣海洋保育與挑戰.md)
+
 ### 台灣災難醫療體系 EVOLVE — 讀者抓到「921 有 500 人本來可以活」是阪神的數字，三月初稿零腳註、十二語在線，止血後該補研究重寫
 
 - **Type**: `EVOLVE`
@@ -398,14 +412,15 @@ BECOME_TAIWANMD.md Step 5 新增：
 ### 台海危機與兩岸關係發展 EVOLVE — 不開火的壓力：海警船數字怎麼變（7 月 244 艘創新高）
 
 - **Type**: `EVOLVE`
-- **Category**: Society
-- **Path**: knowledge/Society/台海危機與兩岸關係發展.md
+- **Category**: History
+- **Path**: knowledge/History/台海危機與兩岸關係發展.md
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）；2026-09-21 semiont-heartbeat 巡邏第二十一篇後併入查核結果
 - **Notes**:
   - 海巡署統計 7 月 244 艘中國公務船進入台灣周邊水域創新高；8 月前 21 天 152 艘、約六成是海警；AEI-ISW 9/15 週報持續追蹤
   - 站上無「灰色地帶」或「海警」條目；補一節，數字回海巡署原始資料，敏感度中（紀實不評論）
+  - **2026-09-21 巡邏查核**（`reports/research/2026-09/台海危機與兩岸關係發展.md`）：40 原子 ❌ 6 ⚠️ 8，止血已 commit `5aa11ee92`。錯集中在李登輝訪美一節：演講題目寫成「台灣的民主化經驗」（實為「民之所欲，長在我心」）、「台灣是一個擁有獨立主權的國家」這句附英文對照的引語在總統府全文裡不存在、一江山陷落（1955-01）被寫成催生 1954-12 已簽的條約。七十年的軍事數字（一江山、八二三、飛彈危機）大多對。腳註 9 條只掛 4 條，止血後 11 條掛 9 條；天下張榮豐與蘇起那本書仍是孤兒。走 EVOLVE 時：補海警船一節之外，把李登輝那節按總統府全文重寫，並決定孤兒腳註去留；政治史題 A 級，Stage 3 跑 FACTCHECK Full、哲宇 review 脊椎
 - **Reference**: [AEI-ISW 9/15](https://www.aei.org/commentary/china-taiwan-update-september-15-2026/) / [AEI-ISW 9/4](https://www.aei.org/commentary/china-taiwan-update-september-4-2026/)
 
 ### 馬英九 FACTCHECK Full — 兩條媒體腳註撐不起正文，且已逐字翻進 12 語

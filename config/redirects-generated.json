@@ -124,12 +124,7 @@
   "/ja/technology/computex-taipei": "/ja/technology/computex/",
   "/ko/technology/computex-taipei": "/ko/technology/computex/",
   "/ru/technology/miin": "/ru/technology/miin-music-app/",
-  "/id/technology/taiwan-robotics/": "/id/technology/taiwan-robotics-industry",
-  "/de/technology/半導體產業/": "/de/technology/taiwan-semiconductor-industry",
-  "/de/nature/台灣國家公園/": "/de/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
-  "/hi/technology/PTT批踢踢/": "/hi/technology/ptt-bulletin-board-system",
-  "/ar/economy/台灣企業：台積電/": "/ar/economy/tsmc",
-  "/ar/society/社會運動與公民參與/": "/ar/society/social-movements-and-civic-participation",
-  "/es/nature/台灣國家公園/": "/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
-  "/id/society/社會運動與公民參與/": "/id/society/social-movements-and-civic-participation"
+  "/hi/society/太陽花學運/": "/hi/society/sunflower-movement",
+  "/pt/society/社會運動與公民參與/": "/pt/society/social-movements-and-civic-participation",
+  "/pt/technology/PTT批踢踢/": "/pt/technology/ptt-bulletin-board-system"
 }
