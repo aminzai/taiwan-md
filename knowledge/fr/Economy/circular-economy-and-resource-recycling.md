@@ -1,10 +1,8 @@
 ---
-title: 'L’économie circulaire et la réutilisation des ressources à Taïwan'
-description: 'De l’économie linéaire à l’économie circulaire : exploration du recyclage des ressources, du traitement des déchets et des modèles de développement durable à Taïwan'
+title: "L'économie circulaire à Taïwan et la réutilisation des ressources"
+description: "Passer d'une économie linéaire à une économie circulaire : explorer les modèles de recyclage, de traitement des déchets et de développement durable à Taïwan"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '能源與永續'
 tags:
   [
     'économie circulaire',
@@ -14,193 +12,196 @@ tags:
     'politique environnementale',
     'réutilisation des ressources',
   ]
-readingTime: 14
-lastVerified: 2026-03-19
-lastHumanReview: false
-featured: false
-translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
-sourceCommitSha: 'f944f63b'
-sourceContentHash: 'sha256:1f3ebd8f501cc764'
-sourceBodyHash: 'sha256:09a7619ad7b7047a'
-translatedAt: '2026-05-15T13:52:06+08:00'
+subcategory: '能源與永續'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
+readingTime: 14
+featured: false
+lastVerified: 2026-09-20
+lastHumanReview: false
+translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
+sourceCommitSha: '705fe2539'
+sourceContentHash: 'sha256:b945d3a9f265b5de'
+sourceBodyHash: 'sha256:9cb708cf066e8c05'
+translatedAt: '2026-09-21T00:58:28+08:00'
 ---
 
-# L’économie circulaire et la réutilisation des ressources à Taïwan
+# L'économie circulaire à Taïwan et la réutilisation des ressources
 
 ## Aperçu en 30 secondes
 
-Depuis les années 1990, Taïwan promeut un système de recyclage des ressources et a développé un modèle d’économie circulaire doté d’une visibilité internationale. Grâce au principe des 3R — « réduire, réutiliser, recycler » —, le taux de recyclage des ressources à Taïwan est d’environ 56 % (données du ministère de l’Environnement ; les différences de périmètre statistique — déchets ménagers seuls ou total incluant les déchets industriels — influent sur les chiffres)[^5]. En 2023, l’Administration de la protection de l’environnement a été élevée au rang de ministère de l’Environnement, avec la création de l’« Administration de la circulation des ressources » ; l’économie circulaire a été inscrite parmi les politiques nationales prioritaires, avec pour objectif de construire une société pleinement circulaire d’ici 2030.
+Taïwan a promu un système de recyclage depuis les années 1990, développant un modèle d'économie circulaire doté d'une visibilité internationale. Grâce au principe des 3R — « Réduire, Réutiliser, Recycler » —, le taux de récupération des déchets ménagers à Taïwan a atteint 58,55 % en 2024 (selon les statistiques du Ministère de l'Environnement, calculé comme le volume des déchets recyclables plus les restes alimentaires divisé par la production totale de déchets). En août 2023, l'Agence pour la protection de l'environnement a été élevée au rang de Ministère de l'Environnement, créant l'Agence pour le cycle des ressources (Resource Circulation Agency), qui a désigné l'économie circulaire comme une politique nationale prioritaire[^3].
 
-**Mots-clés** : économie circulaire, principe des 3R, recyclage des ressources, tri des déchets, traitement des déchets, développement durable
+**Mots-clés** : économie circulaire, principe 3R, recyclage des ressources, tri des déchets, traitement des déchets, développement durable
 
-## Pourquoi c’est important
+## Pourquoi est-ce important ?
 
-Le développement de l’économie circulaire à Taïwan possède une valeur d’exemple à l’échelle mondiale. Les conditions géographiques — territoire restreint, forte densité de population et ressources naturelles limitées — ont contraint Taïwan à porter la gestion des déchets à un très haut niveau d’exigence. Cela a non seulement amélioré directement le cadre de vie et la santé publique, mais aussi favorisé l’émergence de nouvelles industries vertes. Les technologies avancées de circularité des ressources sont devenues un élément du soft power taïwanais à l’exportation, tandis que le fonctionnement de l’ensemble du système transforme les modes de consommation de la population et encourage la formation d’une culture de vie durable.
+Le développement de l'économie circulaire à Taïwan a une signification exemplaire mondiale. Les conditions géographiques — territoire étroit et population dense avec des ressources naturelles limitées — ont forcé Taïwan à pousser la gestion des déchets à l'extrême ; cela améliore non seulement directement l'environnement de vie et l'hygiène publique, mais stimule également l'émergence d'industries vertes. Les technologies avancées du cycle des ressources sont devenues une force douce exportée par Taïwan, et le fonctionnement de ce système est en train de modifier les habitudes de consommation des citoyens, favorisant la formation d'une culture de vie durable.
 
-## Évolution de l’économie circulaire à Taïwan
+## Parcours du développement de l'économie circulaire à Taïwan
 
-### Première étape : mise en place du système de recyclage des ressources (1990-2005)
+### Première phase : Établissement du système de recyclage (1990-2005)
 
-**Origine politique** : après la levée de la loi martiale en 1987, la prise de conscience environnementale s’est renforcée ; les « guerres des déchets » ont créé une occasion de réforme des politiques publiques et ont finalement conduit à la promulgation et à l’entrée en vigueur, en 2002, de la Loi sur le recyclage et la réutilisation des ressources[^1].
+**Origine politique** : Après la levée des restrictions politiques en 1987, la prise de conscience environnementale a fait émerger une "guerre des déchets" comme catalyseur de réformes politiques. La révision de la Loi sur le nettoyage des déchets en 1988 a introduit un système de responsabilité élargie du producteur, et le Plan « Quatre en Un » pour le recyclage des ressources a été promu en 1997, avec l'entrée en vigueur de la Loi sur le recyclage et la réutilisation des ressources en 2002[^1][^3].
 
-**Jalons importants** : le tri des déchets a commencé à être encouragé en 1990, puis le plan de recyclage des ressources « quatre-en-un » a été officiellement lancé en 1997.
+**Jalons importants** :
 
-- **2000** : politique de limitation de l’usage de la vaisselle jetable
-- **2003** : système de tarification des déchets par sac
+- **En 2000** : Taipei est devenu le premier à mettre en œuvre la taxe sur les sacs poubelle (à partir du 1er juillet)[^9]
+- **En 2002** : La politique de restriction de l'utilisation des sacs plastiques pour les courses et des ustensiles jetables en plastique a été mise en place par étapes (à partir du 1er juillet)[^10]
 
-**Caractéristiques du système** : la responsabilité élargie du producteur constitue le cœur du dispositif. Le fonctionnement est coordonné par le comité de gestion du fonds de recyclage, avec une répartition des rôles entre la population, les recycleurs et le gouvernement[^8].
+**Caractéristiques du système** : Le système de responsabilité élargie du producteur est au cœur du mécanisme, géré par le Fonds de recyclage des ressources, avec une répartition des tâches entre les citoyens locaux, les recycleurs, les gouvernements locaux et le fonds de recyclage[^8].
 
-### Deuxième étape : optimisation du système et montée en capacité technologique (2005-2015)
+### Deuxième phase : Optimisation du système et amélioration technologique (2005-2015)
 
-Le cœur de la deuxième étape réside dans l’approfondissement simultané de la technologie et des institutions. L’amélioration des techniques d’incinération des déchets, l’introduction de systèmes automatisés de tri et la maturation des technologies de traitement des déchets dangereux ont progressé en parallèle avec le développement d’un système d’achats verts, d’un dispositif de certification par labels environnementaux et d’une gestion renforcée des déchets industriels. En 2015, le taux de recyclage des ressources dépassait régulièrement 50 %, le système de collecte des déchets était en voie d’achèvement et la chaîne industrielle du recyclage et de la réutilisation prenait forme.
+Le cœur de cette deuxième phase fut l'approfondissement simultané des technologies et des systèmes. L'amélioration des techniques d'incinération des déchets, l'introduction de systèmes de tri automatisés et la maturation des techniques de traitement des déchets dangereux ont été accompagnées par le développement du système de commande publique verte, de la certification du label environnemental et un renforcement de la gestion des déchets industriels. En 2015, le taux de récupération des ressources a régulièrement dépassé les 50 %, le système de collecte et d'élimination des déchets est devenu complet, et la chaîne industrielle de recyclage s'est formée durant cette période.
 
-### Troisième étape : transition vers l’économie circulaire (2015-aujourd’hui)
+### Troisième phase : Transition vers l'économie circulaire (2015 à aujourd'hui)
 
-**Montée en gamme des politiques publiques** :
+**Élévation politique** :
 
-- **2018** : publication du programme de promotion de l’économie circulaire[^6]
-- **2023** : élévation de l’Administration de la protection de l’environnement au rang de ministère de l’Environnement et création de l’Administration de la circulation des ressources[^3]
-- **2024** : révision du plan de promotion de la réduction, du recyclage et de la circulation des ressources[^2]
+- **En 2018** : Le Conseil exécutif a adopté le « Plan de promotion de l'économie circulaire » (le 20 décembre), centré sur « l'industrialisation du cycle et la circularité industrielle »[^2]
+- **En 2022** : L'Agence pour la protection de l'environnement a approuvé le « Nouveau siècle du cycle — Plan de promotion du cycle des ressources (Années 110-113) », ciblant quatre matériaux : biomasse, produits chimiques organiques, métaux et granulés inorganiques[^4]
+- **En 2023** : L'Agence pour la protection de l'environnement est devenue le Ministère de l'Environnement, créant l'Agence pour le cycle des ressources[^3]
+- **Depuis 2023** : Le « Plan de promotion du recyclage et du cycle des ressources (Années 112-116) » a été poursuivi, axé sur la révision des deux lois relatives au cycle des ressources, l'intégration des ressources clés et stratégiques, et la création d'une marque Taïwan verte[^6]
 
-**Objectifs fixés** : construire une société circulaire d’ici 2030, porter le taux de valorisation des déchets à 70 % et atteindre une valeur de production de l’économie circulaire de 2 billions de dollars taïwanais.
+**Objectifs fixés** : Le Ministère de l'Environnement considère une société circulaire — « maximiser le recyclage des ressources et minimiser la production de déchets » — comme une orientation à long terme. Les indicateurs annuels spécifiques sont définis chaque année par les plans politiques, par exemple, un objectif de 55,5 % pour le taux de récupération des déchets ménagers en 2024 et un objectif de 73 % pour le taux de recyclage des cendres grises, avec des réalisations respectives de 58,55 % et 83 %[^4].
 
-## Architecture du système de recyclage des ressources
+## Structure du système de recyclage des ressources
 
-### Base juridique et cadre politique
+### Base légale et cadre politique
 
-La base juridique du recyclage des ressources à Taïwan repose conjointement sur la Loi sur le recyclage et la réutilisation des ressources, la Loi sur l’élimination des déchets et le Programme de promotion de l’économie circulaire. Sa mise en œuvre suit le principe des 3R : réduction (Reduce, réduire les déchets à la source), réutilisation (Reuse, prolonger le cycle de vie des objets) et recyclage-réutilisation (Recycle, transformer les déchets en ressources régénérées).
+La base légale du recyclage des ressources à Taïwan est constituée par la Loi sur le recyclage et la réutilisation des ressources et la Loi sur le nettoyage des déchets, complétées par le « Plan de promotion de l'économie circulaire » du Conseil exécutif. L'exécution suit le principe 3R : Réduire (Reduce, réduction des déchets à la source), Réutiliser (Reuse, prolongation du cycle de vie des objets) et Recycler (Recycle, transformation des déchets en ressources secondaires).
 
-### Le système de recyclage quatre-en-un
+### Système « Quatre en Un »
 
-Le système quatre-en-un attribue des responsabilités distinctes à la population, aux recycleurs, au fonds de recyclage et aux organismes publics. La population effectue le tri à la source et coopère avec les horaires et points fixes de collecte ; les recycleurs sont chargés de la collecte et du traitement des déchets, du tri et de la classification, ainsi que du contrôle de la qualité des matières régénérées ; le fonds de recyclage perçoit les frais de recyclage et de traitement et distribue des primes afin de maintenir le fonctionnement du système ; les organismes publics prennent en charge l’élaboration des politiques, la supervision, les inspections et l’éducation du public.
+Le système « Quatre en Un » assigne des rôles spécifiques aux citoyens, aux recycleurs, au fonds de recyclage et aux agences gouvernementales : les citoyens trient correctement les déchets à la source et participent à la collecte régulière ; les recycleurs sont responsables de la collecte, du traitement, du tri et du contrôle qualité des matières secondaires ; le fonds de recyclage prélève les frais de traitement et distribue des primes pour maintenir le système en fonctionnement ; les agences gouvernementales sont chargées de l'élaboration des politiques, de la surveillance et de l'éducation.
 
 ### Système de tri des déchets
 
-**Catégories de base** :
+**Classification de base** :
 
-- **Déchets ordinaires** : déchets mélangés non recyclables
-- **Matières recyclables** : matériaux pouvant être valorisés
-- **Déchets de cuisine** : déchets organiques pouvant être transformés en compost
+- **Déchets ménagers** : Déchets mélangés non recyclables
+- **Matériaux recyclables** : Matériaux réutilisables
+- **Restes alimentaires** : Déchets organiques, pouvant être transformés en compost
 
-**Sous-catégories du recyclage des ressources** : le papier (cartons, journaux, magazines) et les plastiques (bouteilles en PET, sacs plastiques, contenants) constituent les deux catégories les plus volumineuses, suivies par :
+**Détail du recyclage des ressources** : Le papier (cartons, journaux, magazines) et le plastique (bouteilles PET, sacs plastiques, récipients) sont les deux catégories les plus volumineuses, suivies par :
 
-- **Métaux** : boîtes en fer, canettes en aluminium, etc.
-- **Verre** : bouteilles et contenants en verre
-- **Autres** : piles, ampoules, appareils électriques, etc.
+- **Métaux** : Boîtes de fer, boîtes d'aluminium, etc.
+- **Verre** : Bouteilles en verre, contenants en verre
+- **Autres** : Piles, ampoules, appareils électriques, etc.
 
 ## Technologies et installations de traitement des déchets
 
-### Système d’incinération
+### Système d'incinération
 
-Les 24 usines d’incinération de Taïwan utilisent une technologie d’incinération à haute température, de 850 à 1100 °C, associée à des équipements avancés de prévention de la pollution. Leur capacité de traitement quotidienne est d’environ 24 000 tonnes, avec une capacité installée de production électrique de 460 MW, combinant incinération des déchets et récupération de chaleur.
+Il existe 28 installations d'incinération à travers le pays (dont 24 grandes usines d'incinération), utilisant une incinération à haute température associée à des équipements de prévention de la pollution. La capacité de traitement totale est d'environ 24 000 tonnes par jour, avec un traitement annuel effectif de 6,81 million de tonnes et une production électrique d'environ 3,4 milliards de kWh en 2024, réalisant ainsi simultanément l'incinération des déchets et la récupération d'énergie. La plupart des grandes usines fonctionnent depuis plus de 20 ans, et le Ministère de l'Environnement a lancé un projet de mise à niveau pour 16 installations fin 2024[^4].
 
-**Processus de traitement** : après réception et stockage temporaire, les déchets entrent dans la phase d’incinération à haute température ; les fumées passent par des équipements de prévention de la pollution ; les mâchefers sont traités en vue d’une réutilisation ; la chaleur est convertie en électricité. Ces cinq maillons forment une boucle fermée sans déchets résiduels.
+**Processus de traitement** : Après la réception des déchets, ils passent par une incinération à haute température. Les gaz de fumée traversent des équipements de prévention de la pollution, et les résidus sont traités et réutilisés, l'énergie thermique étant convertie en électricité — formant un cycle fermé sans déchet sur cinq étapes.
 
 ### Gestion des décharges
 
-Les décharges sont équipées de systèmes anti-infiltration, d’installations de traitement des lixiviats et de dispositifs de collecte et d’utilisation du biogaz. Elles disposent également d’un réseau de surveillance environnementale à trois niveaux — eaux souterraines, qualité de l’air et pollution des sols — afin de garantir la sécurité environnementale à long terme.
+Les décharges sont équipées d'un système anti-infiltration, d'installations de traitement des eaux de ruissellement et d'appareils de collecte de biogaz, avec un réseau de surveillance environnementale en trois couches (eau souterraine, qualité de l'air, pollution du sol) pour assurer la sécurité environnementale à long terme.
 
-### Technologies de traitement des déchets de cuisine
+### Technologie de traitement des restes alimentaires
 
-Les déchets de cuisine sont transformés en engrais organique par compostage — décomposition biologique, fermentation à température contrôlée et contrôle qualité du produit final — ou intégrés à un processus de digestion anaérobie permettant de récupérer du biogaz et de produire de l’engrais liquide, réalisant ainsi une valorisation énergétique circulaire des déchets organiques.
+Les restes alimentaires sont transformés en engrais organiques par compostage (décomposition biologique, fermentation contrôlée par température, inspection de la qualité du produit fini), ou introduits dans un processus de digestion anaérobie pour récupérer le biogaz et produire du fertilisant liquide, réalisant ainsi une valorisation énergétique des déchets organiques.
 
-## Développement des industries de l’économie circulaire
+## Développement industriel de l'économie circulaire
 
 ### Industrie de la régénération des déchets
 
-L’industrie taïwanaise de la régénération des déchets s’est structurée autour de trois grands piliers : la régénération des plastiques (transformation de bouteilles en PET en fibres, moulage par injection de plastiques usagés, valeur de production annuelle d’environ 20 milliards de dollars taïwanais), le recyclage des métaux (refabrication de ferraille et d’acier, raffinage des métaux non ferreux, valeur annuelle d’environ 50 milliards de dollars taïwanais) et la régénération du papier (fabrication de pâte à partir de vieux papiers, produits en papier recyclé, valeur annuelle d’environ 15 milliards de dollars taïwanais).
+L'industrie de la régénération des déchets à Taïwan s'est structurée autour de trois piliers principaux : le recyclage du plastique (fabrication de fibres à partir de bouteilles PET, moulage par injection de plastiques usagés), la récupération des métaux (remaniement des ferrailles, raffinage des métaux non ferreux) et le recyclage du papier (production de pâte à papier usagée, produits en papier recyclé).
 
 ### Technologies circulaires innovantes
 
-Du côté des technologies innovantes, trois voies progressent simultanément : les biomatériaux (plastiques biodégradables, utilisation des déchets agricoles, biocarburants), la mine urbaine (récupération de métaux précieux dans les déchets électroniques, extraction d’éléments de terres rares) et la chimie verte (solvants non toxiques, procédés verts). Elles illustrent l’évolution de l’économie circulaire taïwanaise vers un contenu technologique plus élevé.
+En matière d'innovation technologique, trois voies progressent simultanément : les matériaux biosourcés (plastiques biodégradables, utilisation des déchets agricoles, biocarburants), l'exploitation minière urbaine (récupération de métaux précieux dans les déchets électroniques, extraction d'éléments de terres rares) et la chimie verte (solvants non toxiques, procédés verts). Cela représente une évolution de l'économie circulaire à Taïwan vers un contenu technologique plus élevé[^7].
 
-### Synergies dans les chaînes industrielles
+### Symbiose des chaînes industrielles
 
-L’écologisation des zones industrielles transforme les déchets d’entreprises individuelles en matières premières pour des entreprises voisines grâce à l’échange et à l’utilisation de déchets, à l’usage en cascade de l’énergie et au recyclage de l’eau. Associée à des plateformes d’appariement des déchets industriels, à des systèmes de certification des matériaux circulaires et à la gestion des chaînes d’approvisionnement vertes, elle forme des réseaux de symbiose à l’échelle des sites industriels.
+L'écologisation des zones industrielles se fait par l'échange de déchets, l'utilisation en cascade de l'énergie et le recyclage des ressources en eau. Les déchets d'une entreprise sont transformés en matières premières pour une entreprise voisine, complétant ainsi un réseau symbiotique au niveau du site industriel grâce à la plateforme d'appariement des déchets industriels, au système de certification des matériaux circulaires et à la gestion de la chaîne d'approvisionnement verte.
 
-## Politiques publiques et mesures de promotion
+## Politiques gouvernementales et mesures de promotion
 
-### Plans nationaux de promotion
+### Plans nationaux
 
-**Plan de promotion de la réduction, du recyclage et de la circulation des ressources (2021-2024)** :
+**De « Plan de promotion du recyclage et de la réutilisation » à « Plan de promotion du recyclage et du cycle des ressources »** : Le « Plan de promotion du recyclage et de la réutilisation (Années 107-109) » du Conseil exécutif en 2018 a divisé le cycle de vie des matériaux en quatre points clés — production, consommation, recyclage, cycle — incluant la promotion d'une conception de produits circulaire, la stimulation de la symbiose industrielle, la création de modèles de consommation verte et la promotion de l'achat vert par le gouvernement[^11]. Le « Plan de promotion du recyclage et du cycle des ressources (Années 112-116) », qui a repris en 2023, se concentre sur trois aspects[^6] :
 
-**Cinq axes stratégiques** :
+1. La révision des deux lois relatives au cycle des ressources : la Loi sur le cycle des ressources et la Loi sur le nettoyage des déchets
+2. L'inventaire des ressources clés et stratégiques de Taïwan pour promouvoir leur utilisation circulaire nationale
+3. La création d'une marque Taïwan verte : mise en place d'un mécanisme de gestion des matériaux recyclés, introduction du suivi numérique des produits
 
-1. Consolider les données de référence sur les flux de matières
-2. Promouvoir la conception de produits faciles à recycler
-3. Favoriser les synergies entre chaînes industrielles
-4. Créer des modes de consommation verte
-5. Promouvoir les achats publics verts
+**Résultats vérifiables** : En 2024, le volume de déchets et de contenants à recycler annoncé était de 1,54 million de tonnes, avec un taux de récupération des déchets ménagers de 58,55 %, et la valeur totale des achats verts gouvernementaux dépassant les 89,1 milliards de dollars[^4][^11].
 
-**Objectifs concrets** :
+### Innovation réglementaire
 
-- Porter le taux de réutilisation des déchets industriels à 82 %[^4]
-- Porter le taux de recyclage des déchets ménagers à 65 %[^4]
-- Atteindre une valeur de production de l’économie circulaire de 1,8 billion de dollars taïwanais (objectif du plan 2021-2024)[^2]
+La responsabilité élargie du producteur oblige les fabricants à assumer la responsabilité du recyclage sur tout le cycle de vie du produit, internalisant ainsi les coûts de traitement. Le système d'achat vert pousse le gouvernement à acheter des produits écologiques en tête de file, créant une traction de marché grâce aux récompenses des entreprises privées et à la promotion des labels environnementaux. La politique de restriction plastique contrôle les articles en plastique à usage unique à la source, promeut des substituts réutilisables et impose l'utilisation payante des sacs plastiques.
 
-### Innovation réglementaire et institutionnelle
+### Soutien à la R&D technologique
 
-La responsabilité élargie du producteur impose aux fabricants d’assumer la responsabilité du recyclage sur l’ensemble du cycle de vie des produits, en internalisant les coûts de recyclage et de traitement et en intégrant les considérations de recyclage dès la conception. Le système d’achats verts permet au gouvernement de montrer l’exemple dans l’acquisition de produits écologiques ; combiné aux incitations accordées aux entreprises privées et à la promotion des labels environnementaux, il crée une force de traction sur le marché. La politique de limitation des plastiques contrôle à la source les produits plastiques à usage unique, encourage les alternatives réutilisables et applique l’usage payant des sacs plastiques.
+Le gouvernement encourage le développement de technologies d'économie circulaire, la construction de sites pilotes et la formation de talents par la coopération industrie-académie-recherche ; il participe également aux organisations internationales sur l'économie circulaire pour élaborer des normes techniques et partager les meilleures pratiques de Taïwan.
 
-### Soutien à la recherche et au développement technologique
-
-Par la coopération entre industrie, universités et instituts de recherche, le gouvernement promeut la recherche-développement technologique en économie circulaire, la mise en place de sites de démonstration et la formation des talents. À l’international, il participe à des organisations consacrées à l’économie circulaire, contribue à l’élaboration de normes techniques et partage les meilleures pratiques taïwanaises.
-
-## Participation de la population et conscience environnementale
+## Participation citoyenne et conscience environnementale
 
 ### Pratiques quotidiennes
 
-Les pratiques environnementales quotidiennes de la population taïwanaise couvrent trois dimensions. La culture du tri des déchets — habitudes de tri fin, lavage des matières recyclables, respect des horaires et points fixes de collecte — est profondément ancrée dans la vie quotidienne. L’esprit d’économie et de soin des objets favorise la réparation et la réutilisation, l’essor des plateformes d’occasion et la participation à l’économie du partage. Les choix de consommation écologique se manifestent par l’achat prioritaire de produits respectueux de l’environnement, la réduction des produits sur-emballés et le soutien à la production locale.
+La pratique environnementale quotidienne des citoyens taïwanais couvre trois domaines : la culture du tri des déchets (habitudes de tri fin, nettoyage des matériaux recyclés, participation à la collecte régulière) est profondément ancrée ; l'esprit d'économie de la chose se manifeste par la réparation et la réutilisation d'objets, l'émergence de plateformes d'échange de seconde main et la participation à l'économie du partage ; le choix de consommation écologique se traduit par la préférence pour les produits écologiques, la réduction des emballages excessifs et le soutien à la production locale.
 
-### Résultats de l’éducation et de la sensibilisation
+### Résultats de sensibilisation éducative
 
-Dans les écoles, les cours d’environnement sont intégrés à l’enseignement, le recyclage des ressources sur les campus est encouragé et de jeunes relais environnementaux sont formés. Au niveau des communautés locales, des stations de recyclage de quartier sont installées, des journées de nettoyage sont organisées et des équipes de bénévoles environnementaux sont constituées. La communication médiatique diffuse largement les notions environnementales, accroît le soutien aux politiques publiques et produit déjà des effets concrets sur les changements de comportement.
+Les écoles intègrent des cours environnementaux dans leur enseignement et promeuvent le recyclage des ressources sur le campus, formant de jeunes défenseurs de l'environnement ; au niveau communautaire, des stations de recyclage sont installées dans les quartiers, des journées de nettoyage sont organisées et des bénévoles écologiques sont formés. La sensibilisation médiatique a popularisé la conscience environnementale, stimulant le soutien politique, avec des preuves concrètes d'un changement comportemental global.
 
-## Position internationale et réalisations
+## Statut international et réalisations
 
-### Indicateurs de performance de rang mondial
+### Indicateurs de performance mondiale
 
-Le taux de recyclage des ressources à Taïwan est d’environ 56 % (statistiques du ministère de l’Environnement ; les différences de périmètre influent sur les chiffres)[^5], et son niveau de gestion des déchets est proche de celui des pays avancés de l’Union européenne. En matière d’exportation technologique, les techniques d’incinération des déchets, la fabrication d’équipements de tri et le conseil en systèmes de gestion constituent déjà des formes concrètes de soft power. La certification ISO 14001 des systèmes de management environnemental, les cas de meilleures pratiques en économie circulaire et la mise en œuvre des objectifs de développement durable des Nations unies sont autant de repères concrets de la présence taïwanaise dans le champ international de l’économie circulaire.
+Le taux de récupération des déchets ménagers à Taïwan est de 58,55 % en 2024[^4] (il existe également une statistique pour les déchets industriels, qui ne peut être additionnée),[^5] le niveau de gestion des déchets étant comparable à celui des pays avancés de l'Union européenne. En matière d'exportation technologique, la technologie d'incinération des déchets, la fabrication d'équipements de tri et le conseil en systèmes de gestion ont formé une force douce concrète. La certification du système de management environnemental ISO 14001, les études de cas de meilleures pratiques en économie circulaire et l'application des Objectifs de développement durable des Nations Unies constituent les coordonnées spécifiques de Taïwan dans le domaine international de l'économie circulaire.
 
 ### Coopération régionale et influence
 
-Taïwan participe au groupe de travail de l’APEC sur l’économie circulaire, exporte des technologies vers l’Asie du Sud-Est et contribue à l’élaboration de normes régionales. Les conférences internationales, les visites d’échanges techniques et le conseil en conception institutionnelle font du modèle taïwanais d’économie circulaire une référence reproductible dans la région Asie-Pacifique.
+Taïwan échange des expériences sur l'économie circulaire via des plateformes régionales comme l'APEC, exportant la technologie vers l'Asie du Sud-Est. Les colloques internationaux, les visites d'échange technologique et le conseil en conception de systèmes font de Taïwan un modèle de référence reproductible dans la région Asie-Pacifique.
 
-## Défis et développements futurs
+## Défis et perspectives futures
 
 ### Défis actuels
 
-Sur le plan technique, les défis se concentrent sur la séparation des matériaux composites, le traitement de la pollution par les microplastiques et la complexification des déchets électroniques. Sur le plan économique, le secteur fait face à la hausse des coûts de recyclage, aux enjeux de compétitivité de la qualité des matières régénérées et aux fluctuations des prix internationaux des matières premières. Sur le plan social, l’essoufflement de la participation du public, l’hétérogénéité de la coopération des acteurs économiques et l’insuffisance de la coordination interministerielle sont les principaux obstacles à l’approfondissement du système.
+Les défis techniques se concentrent sur la séparation des matériaux composites, le traitement de la pollution par les microplastiques et la complexification des déchets électroniques ; les défis économiques sont liés à l'augmentation des coûts de recyclage, à la compétitivité des matières secondaires et aux fluctuations des prix des matières premières internationales. Sur le plan social, la lassitude de la participation citoyenne, la variabilité de la volonté des entreprises à coopérer et le manque de coordination interministérielle sont les principaux freins à l'approfondissement du système.
 
-### Orientations futures
+### Directions futures
 
-L’innovation technologique s’articule autour du tri intelligent par IA, des technologies de recyclage chimique et de la gestion numérique traçable. Du côté institutionnel, l’accent est mis sur l’amélioration du cadre réglementaire, l’ajustement des mécanismes incitatifs et le renforcement de la supervision. Au niveau international, les efforts portent sur l’intégration aux réseaux mondiaux de l’économie circulaire, la gestion des chaînes d’approvisionnement transnationales et l’articulation avec les mécanismes d’échange de carbone.
+L'innovation technologique se concentre sur le tri intelligent par IA, les techniques de recyclage chimique et la gestion par suivi numérique ; au niveau systémique, on promeut l'amélioration du cadre réglementaire, l'ajustement des mécanismes d'incitation et le renforcement de la surveillance ; au niveau international, l'accent est mis sur l'adhésion aux réseaux mondiaux de l'économie circulaire, la gestion des chaînes d'approvisionnement transfrontalières et l'intégration du mécanisme de négociation carbone.
 
-### Vision et objectifs pour 2030
+### Objectifs pour 2030
 
-Les indicateurs quantitatifs pour 2030 sont un taux de valorisation des déchets de 70 %, une valeur de production de l’économie circulaire de 2 billions de dollars taïwanais[^2] et une réduction de 20 % des émissions de gaz à effet de serre. Les objectifs qualitatifs consistent à construire une société pleinement circulaire, à former des talents dans l’économie circulaire et à devenir un pôle de l’économie circulaire en Asie-Pacifique.
+Le Ministère de l'Environnement considère l'économie circulaire comme une industrie : en avril 2026, le chiffre d'affaires annuel de l'industrie de l'économie circulaire à Taïwan atteindra environ 168,8 milliards de dollars TWD, avec plus de 100 000 employés, et le gouvernement utilisera prioritairement des produits conformes aux principes de l'économie circulaire via l'achat vert[^12]. L'objectif qualitatif est de construire une société circulaire complète, de former des talents en économie circulaire et de devenir un pôle d'excellence en matière d'économie circulaire dans la région Asie-Pacifique.
 
 ## Conclusion
 
-L’évolution de l’économie circulaire à Taïwan est l’histoire d’une transformation allant des « guerres des déchets » à un « modèle circulaire ». En plus de trente ans, grâce à l’orientation des politiques publiques, à l’innovation technologique des entreprises et à une large participation de la population, Taïwan a construit un système de circulation des ressources de niveau mondial. Celui-ci a non seulement résolu des problèmes de déchets, mais aussi créé de nouvelles valeurs économiques.
+Le parcours du développement de l'économie circulaire à Taïwan est une histoire de transformation, passant de la « guerre des déchets » au « modèle circulaire ». En plus de trente ans, grâce au guidage politique gouvernemental, à l'innovation technologique des entreprises et à la large participation citoyenne, Taïwan a construit un système de cycle des ressources de niveau mondial, résolvant non seulement le problème des déchets, mais créant également une nouvelle valeur économique.
 
-Depuis les « guerres des déchets » jusqu’à la création de l’Administration de la circulation des ressources, trente années d’accumulation de politiques publiques ont fait passer le taux de recyclage des ressources de quelques pourcents à 56 %. La leçon centrale de ce processus est la suivante : les incitations institutionnelles — le recyclage quatre-en-un — sont plus efficaces que la seule sensibilisation ; la responsabilité élargie du producteur conduit les entreprises à internaliser les coûts de recyclage dès la phase de conception ; et la production d’électricité par incinération des déchets transforme le « dernier kilomètre » en actif énergétique. L’objectif de 2 billions de dollars taïwanais de valeur circulaire en 2030 mettra à l’épreuve la capacité de Taïwan à convertir trente ans d’accumulation technologique en un modèle industriel exportable.
+Le passage de la « guerre des déchets » à la création de l'Agence pour le cycle des ressources représente plus de trente ans d'accumulation politique, faisant passer le taux de récupération des déchets ménagers de chiffres simples à près de 60 %. La leçon centrale de ce processus est : les incitations systémiques (le système Quatre en Un) sont plus efficaces que la simple sensibilisation ; la responsabilité élargie du producteur oblige les entreprises à internaliser les coûts de recyclage dès la conception ; et l'électricité produite par l'incinération des déchets transforme le « dernier kilomètre » en un actif énergétique. Le passage d'un chiffre d'affaires annuel de 168,8 milliards de dollars TWD au concept d'« industrie du trillion » évoqué par le Ministre de l'Environnement[^12] teste la capacité de Taïwan à transformer trente ans d'accumulation technologique en un modèle industriel exportable.
 
 ## Références
 
-[^1]: [Base nationale des lois et règlements — Loi sur le recyclage et la réutilisation des ressources](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050049) — Promulguée et entrée en vigueur le 3 juillet 2002, confirmant 2002 comme année de législation.
+[^1]: [Base de données législative nationale — Loi sur le recyclage et la réutilisation des ressources](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050049) — Promulguée le 3 juillet du 91e année républicaine.
 
-[^2]: [Yuan exécutif — Plan de promotion de la réduction, du recyclage et de la circulation des ressources (2021-2024)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/18ef26a4-5d05-4fb3-963e-6b228e713576) — Confirme les objectifs du plan 2021-2024 (valeur de production de l’économie circulaire : 1,8 billion) ; l’objectif de vision pour 2030 (2 billions) relève d’un autre document.
+[^2]: [Conseil exécutif — Plan de promotion de l'économie circulaire](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/18ef26a4-5d05-4fb3-963e-6b228e713576) — Adopté par le Conseil exécutif le 20 décembre du 107e année, avec quatre stratégies principales : R&D et zones d'innovation technologique circulaire et des matériaux, nouveaux parcs pilotes circulaires, consommation et commerce verts, intégration de l'énergie et symbiose industrielle.
 
-[^3]: [Administration de la circulation des ressources, ministère de l’Environnement](https://www.reca.gov.tw/) — Réglementations, plans et statistiques relatifs à la circulation des ressources.
+[^3]: [Conseil exécutif — Aperçu national : protection de l'environnement](https://www.ey.gov.tw/state/C2AE0169E229A561) — « Le système de responsabilité élargie du producteur a été promu en 77e année législative, et le Plan Quatre en Un pour le recyclage des ressources a été mis en œuvre en 86e année. » « L'Agence pour la protection de l'environnement est restructurée en Ministère de l'Environnement le 22 août du 112e année républicaine, créant l'Agence pour le cycle des ressources ».
 
-[^4]: [Yuan exécutif — Présentation nationale du recyclage et du traitement des déchets (2023)](https://www.ey.gov.tw/state/4AC21DC94B8E19A8/aea35f1b-0fe3-4ca9-8ab9-6579fd30a8f3) — Situation actuelle du traitement des déchets à Taïwan.
+[^4]: [Rapport annuel de performance ministériel du Ministère de l'Environnement pour l'année 113](https://service.moenv.gov.tw/File/Get/moenv/zh-tw/Sx8jLPJTKaug1KJ) — Objectif de taux de récupération des déchets ménagers à 55,5 %, réalisation de 58,55 % ; objectif de taux de recyclage des cendres grises à 73 %, réalisation de 83 %. Les 28 installations d'incinération du pays (dont 24 grandes usines) traitent 6,81 million de tonnes par an et produisent environ 3,4 milliards de kWh. La mise à niveau de 16 installations a commencé fin 113 ; « Nouveau siècle du cycle — Plan de promotion du cycle des ressources (Années 110-113) ».
 
-[^5]: [Administration de la circulation des ressources, ministère de l’Environnement — Annuaire statistique du recyclage des ressources dans la région de Taïwan (2020-2023)](https://www.reca.gov.tw/) — Statistiques du taux de recyclage des ressources ; les différences de périmètre statistique (déchets ménagers seuls ou total incluant les déchets industriels) influent sur les chiffres, environ 56 % étant le chiffre officiellement cité.
+[^5]: [Agence pour le cycle des ressources du Ministère de l'Environnement — Rapport annuel sur le recyclage des ressources](https://www.reca.gov.tw/) — Statistiques annuelles de recyclage, les chiffres varient selon les catégories (déchets ménagers vs. déchets industriels).
 
-[^6]: [Ministère des Affaires économiques — Livre blanc sur l’économie circulaire (2019)](https://www.moea.gov.tw/) — Contexte des politiques industrielles de l’économie circulaire.
+[^6]: [Conseil exécutif — Plan de promotion du recyclage et du cycle des ressources — Construction d'une société circulaire](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/002e2701-02a9-470d-bb05-57de58534c98) — Plan pour les années 112-116, trois stratégies : révision des deux lois relatives au cycle des ressources, intégration des ressources clés et stratégiques de Taïwan, création d'une marque Taïwan verte.
 
-[^7]: [Institut de recherche sur la technologie industrielle — Rapport de recherche sur le développement technologique et les applications industrielles de l’économie circulaire (2023)](https://www.itri.org.tw/) — Données sur les applications circulaires au niveau technologique.
+[^7]: [Institut de technologie industrielle](https://www.itri.org.tw/) — Données sur les technologies circulaires et les applications industrielles.
 
-[^8]: [Administration de la circulation des ressources, ministère de l’Environnement — Évaluation des résultats du système de recyclage quatre-en-un](https://www.reca.gov.tw/4in1rc) — Évolution et résultats du système quatre-en-un (initialement placé sous l’autorité de l’Administration de la protection de l’environnement, puis transféré en 2023 à l’Administration de la circulation des ressources après l’élévation au rang de ministère de l’Environnement).
+[^8]: [Agence pour le cycle des ressources du Ministère de l'Environnement — Plan Quatre en Un pour le recyclage des ressources](https://www.reca.gov.tw/4in1rc) — Historique et résultats du système Quatre en Un (initialement sous la tutelle de l'Agence pour la protection de l'environnement, transféré à l'Agence pour le cycle des ressources après son élévation au rang de Ministère de l'Environnement en 2023).
+
+[^9]: [Bureau de protection de l'environnement du gouvernement de Taipei — Aperçu de la politique de taxe sur les sacs poubelle](https://www.dep.gov.taipei/News_Content.aspx?n=9D5081C3BFCC977A&s=FB47A528846715AA) — Taipei a mis en œuvre la taxe sur les sacs poubelle à partir du 1er juillet du 89e année républicaine.
+
+[^10]: [Ministère de l'Environnement — Cibles, méthodes et dates d'application de la restriction de l'utilisation des sacs plastiques pour les courses](https://oaout.moenv.gov.tw/law/LawContent.aspx?id=GL006482) — La politique de restriction de l'utilisation des sacs plastiques pour les courses et des ustensiles en plastique (y compris le polystyrène) a été mise en œuvre par étapes à partir du 1er juillet du 91e année républicaine.
+
+[^11]: [Conseil exécutif — Promotion de l'économie circulaire — créer un double gain économique et environnemental](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/12c0a2b8-485d-49d7-ba9e-a9a10b82828e) — Le Plan de promotion du recyclage et de la réutilisation (Années 107 à 109) avec quatre stratégies clés : production, consommation, recyclage, cycle. « Le taux de récupération des déchets à Taïwan est de 58 % et se classe troisième au monde » (mars 107).
+
+[^12]: [Economic Daily — Chiffre d'affaires annuel de l'économie circulaire à Taïwan atteint 168,8 milliards ; Peng Ching-ming : il faut augmenter les incitations pour développer l'industrie](https://money.udn.com/money/story/7307/9431219) — Le 9 avril 2026 : « le chiffre d'affaires annuel de l'industrie de l'économie circulaire à Taïwan a atteint environ 168,8 milliards TWD », avec plus de 100 000 employés. Le gouvernement utilise prioritairement des produits conformes aux principes de l'économie circulaire via l'achat vert.

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T03:33:49+08:00",
-    "zhCommitHead": "118fea051",
+    "lastUpdated": "2026-09-21T03:37:44+08:00",
+    "zhCommitHead": "433bf3023",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1032,
-        "stale": 67,
+        "fresh": 1033,
+        "stale": 66,
         "metadata_stale": 5,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 59,
+        "fresh": 1037,
+        "stale": 58,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
@@ -9059,16 +9059,16 @@
         "es": {
           "path": "es/Economy/taiwan-agricultural-modernization.md",
           "translatedFrom": "Economy/台灣農業現代化發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:6abff98edbff2fbe",
-          "sourceBodyHash": "sha256:5dcfc71454466970",
-          "translatedAt": "2026-05-16T22:20:03Z",
+          "sourceCommitSha": "05aa5b7b0",
+          "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
+          "sourceBodyHash": "sha256:c2c5a393d951d7c5",
+          "translatedAt": "2026-09-21T00:58:27+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-agricultural-modernization.md",
@@ -17145,16 +17145,16 @@
         "fr": {
           "path": "fr/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "369298aba",
-          "sourceContentHash": "sha256:19b72b95becb40d7",
-          "sourceBodyHash": "sha256:966a2693a6cccc59",
-          "translatedAt": "2026-07-24T22:03:25+08:00",
+          "sourceCommitSha": "83cd5d0f3",
+          "sourceContentHash": "sha256:5226e0cd696e818f",
+          "sourceBodyHash": "sha256:3697d708565efd02",
+          "translatedAt": "2026-09-21T00:58:28+08:00",
           "translationLastCommit": "8ae53afd",
           "translationLastModified": "2026-07-25T00:39:10+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -22301,8 +22301,8 @@
           "sourceContentHash": "sha256:4b2a7f3ce14aead4",
           "sourceBodyHash": "sha256:c70ae774b0edc421",
           "translatedAt": "2026-09-20T18:02:59.365251+00:00",
-          "translationLastCommit": "907839df",
-          "translationLastModified": "2026-09-19T05:34:44+08:00",
+          "translationLastCommit": "433bf302",
+          "translationLastModified": "2026-09-21T03:33:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -109318,8 +109318,8 @@
           "sourceContentHash": "sha256:42fcc41544e48198",
           "sourceBodyHash": "sha256:13ac312ffbbbdc9b",
           "translatedAt": "2026-09-21T00:58:30+08:00",
-          "translationLastCommit": "4f880be2",
-          "translationLastModified": "2026-07-26T21:43:18+08:00",
+          "translationLastCommit": "433bf302",
+          "translationLastModified": "2026-09-21T03:33:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -111804,8 +111804,8 @@
           "sourceContentHash": "sha256:1eed0b39727d52a4",
           "sourceBodyHash": "sha256:ecfb49e20d9c0f4b",
           "translatedAt": "2026-09-21T00:58:30+08:00",
-          "translationLastCommit": "a6b4758f",
-          "translationLastModified": "2026-07-26T18:00:18+08:00",
+          "translationLastCommit": "433bf302",
+          "translationLastModified": "2026-09-21T03:33:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
