@@ -98,7 +98,11 @@ CHAPTER_SIZE_RATIO_LIMIT = 0.5
 # structured-translate.py TRANSLATABLE_FM_FIELDS + subcategory 特例）；只有這些
 # 欄位「語意上」在 old_sha→HEAD 之間真的變了，才值得為 frontmatter 燒一次 LLM
 # 呼叫——否則只是 date/image 這類 passthrough 欄位變動，機械複製就夠。
-FM_COMPARE_FIELDS = ["title", "description", "tags", "subcategory"]
+FM_COMPARE_FIELDS = ["title", "description", "tags", "subcategory", "imageAlt"]
+# 譯文既有 tags 有幾成跟 zh 逐字相同就算「沒翻」——同 verify-translation.py 第 14
+# 檢查的 60% 門檻（那把尺會把整篇擋下，這裡只是提前用同一把尺決定要不要燒一次
+# frontmatter 呼叫把債順手還掉）。
+TAGS_UNTRANSLATED_RATIO = 0.6
 
 
 # ════════════════════════ git helpers ════════════════════════
@@ -429,6 +433,10 @@ def rebuild_frontmatter_preserve_translation(zh_fm: dict, tr_fm: dict, zh_path: 
             lines.append("  ]")
         elif key == "subcategory":
             lines.append(f"subcategory: {st.yaml_single_quote(str(tr_fm.get('subcategory', zh_fm[key])))}")
+        elif key == "imageAlt":
+            # 只有在 main() 判定「譯文已有翻好的 imageAlt」時才會走到這裡沿用舊值；
+            # 缺欄或原字的情況 main() 已改走 LLM 路徑（見 fm_debt）。
+            lines.append(f"imageAlt: {st.yaml_single_quote(str(tr_fm.get('imageAlt', zh_fm[key])))}")
         else:
             # passthrough + 任何其他未明確歸類的欄位：機械複製 zh 目前值
             lines.append(f"{key}: {st.render_scalar(zh_fm[key])}")
@@ -591,6 +599,20 @@ def main() -> int:
         return 2
     trans_content = trans_path.read_text(encoding="utf-8")
 
+    # 2026-09-21：既有譯文根本不是目標語言時（OBSERVER-QUEUE #53 那 65 篇英文
+    # 佔著 ja/ko 位子的存量），局部 patch 只是在英文上補幾段韓文，verify trio
+    # 一定拒收；dispatcher 要撞滿 5 次拒收才升級整篇重翻，每次 2-3 分鐘白燒。
+    # 跟 verify_one() 第一關同一把尺（target-language-check.py），fail 就直接
+    # 回 exit=2「不適用」，讓 dispatcher 立刻走整篇路徑。
+    tl = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/target-language-check.py", str(trans_path)],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    if tl.returncode == 1:
+        reason = " ".join(l.strip() for l in tl.stdout.splitlines()[:2])
+        print(f"⏩ existing translation is not {args.lang} ({reason}) — not patchable, fallback to full retranslate")
+        return 2
+
     try:
         tr_fm, _tr_fm_lines, tr_body_lines = parse_frontmatter_and_body(trans_content)
     except ValueError as e:
@@ -658,6 +680,25 @@ def main() -> int:
     except (FileNotFoundError, ValueError):
         old_zh_fm = {}
     fm_fields_changed = any(old_zh_fm.get(f) != zh_fm.get(f) for f in FM_COMPARE_FIELDS)
+    # 2026-09-21：既有譯文自己帶著 frontmatter 債時，「語意沒變就沿用舊值」會把債
+    # 原封不動組回去，verify trio 當場擋下（一夜 patch 55 次拒收裡 14 次是這兩型：
+    # zh 後來才加的 imageAlt 譯文根本沒有這欄、或譯文的 tags 還是 zh 原字），
+    # 五次拒收後才升級整篇重翻——每次拒收都燒掉一次完整 patch。撞到 patch 範圍的
+    # pre-existing 問題一律順手接住（REFLEXES #42 v4），這裡多燒一次 frontmatter
+    # 呼叫換整篇過閘。
+    fm_debt = []
+    zh_alt = zh_fm.get("imageAlt")
+    if zh_alt and tr_fm.get("imageAlt") in (None, "", zh_alt):
+        fm_debt.append("imageAlt 譯文缺欄或未翻")
+    zh_tags = zh_fm.get("tags")
+    tr_tags = tr_fm.get("tags")
+    if isinstance(zh_tags, list) and zh_tags and isinstance(tr_tags, list) and tr_tags:
+        same = sum(1 for t in tr_tags if t in zh_tags)
+        if same / len(tr_tags) >= TAGS_UNTRANSLATED_RATIO:
+            fm_debt.append(f"tags {same}/{len(tr_tags)} 仍是 zh 原字")
+    if fm_debt and not fm_fields_changed:
+        fm_fields_changed = True
+        print(f"   frontmatter 既有債 → 改走 LLM 重翻 frontmatter：{'; '.join(fm_debt)}")
     print(f"   frontmatter translatable fields changed: {fm_fields_changed}")
 
     if args.dry_run:

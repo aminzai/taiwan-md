@@ -284,3 +284,29 @@ def test_prose_footnote_ignores_model_supplied_title():
 
     assert out["2"]["title"] == ""
     assert out["2"]["desc"] == "See [Wikipedia: BBS in Taiwan](https://zh.wikipedia.org/wiki/BBS)."
+
+
+def test_translate_frontmatter_translates_image_alt_instead_of_copying_zh():
+    """verify-translation.py 第 13 檢查把 imageAlt 跟 title/description 同列
+    「不得留原文」，但 2026-09-21 前本引擎把它當 passthrough 機械複製——zh 有
+    imageAlt 的 48 篇在 structured 路徑永遠過不了閘（一夜 36 次）。"""
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            import json
+            payload = json.loads(user)
+            assert payload["imageAlt"] == "桐花祭開幕", "imageAlt 必須進 prompt"
+            out = {k: f"vi:{v}" if isinstance(v, str) else [f"vi:{t}" for t in v]
+                   for k, v in payload.items()}
+            return json.dumps(out, ensure_ascii=False)
+
+    zh_fm = {
+        "title": "苗栗縣", "description": "客家", "category": "Geography",
+        "image": "/img/miaoli.jpg", "imageAlt": "桐花祭開幕", "imageCredit": "CC",
+        "tags": ["a"], "date": "2026-01-01",
+    }
+    block = MODULE.translate_frontmatter(zh_fm, "", "Geography/苗栗縣.md", "vi", Backend(), {})
+    assert "imageAlt: 'vi:桐花祭開幕'" in block
+    assert "image: /img/miaoli.jpg" in block or "image: '/img/miaoli.jpg'" in block
+    assert "imageCredit: CC" in block or "imageCredit: 'CC'" in block

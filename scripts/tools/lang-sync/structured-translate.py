@@ -103,7 +103,11 @@ INLINE_FN_REF_RE = re.compile(r"\[\^([^\]]+)\]")
 MD_LINK_URL_RE = re.compile(rf"\]\(({MD_TARGET_PATTERN})\)")
 EMBEDDED_LINK_RE = re.compile(rf"\[([^\]]*)\]\(({MD_TARGET_PATTERN})\)")
 
-TRANSLATABLE_FM_FIELDS = ["title", "description", "tags"]
+# imageAlt 2026-09-21 補進：verify-translation.py 第 13 檢查把它跟 title/description
+# 同列「不得留原文」，但本引擎跟 patch-translate 都把它當 passthrough 機械複製 zh
+# ——凡 zh 有 imageAlt 的稿（48 篇、223 個譯本缺這欄）兩條引擎永遠過不了閘，一夜
+# 36 次嘗試全敗在這一格（#83 兩把尺：跟 09-20 subcategory 那條同型、方向相反）。
+TRANSLATABLE_FM_FIELDS = ["title", "description", "tags", "imageAlt"]
 
 PILOT_ROOT = Path("/tmp/structured-pilot")
 
@@ -325,6 +329,8 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
         "- 'title'/'description': natural accurate translation, no machine-translate "
         "tells, no added or invented facts.\n"
         "- 'tags': translate each tag value; the array length MUST stay identical.\n"
+        "- 'imageAlt' (if present): translate the image alt text as a plain "
+        "sentence — no markdown, no quotes added.\n"
     )
     user = json.dumps(payload, ensure_ascii=False)
 
@@ -351,7 +357,7 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
 
         leaks = []
         if lang not in ("ja", "ko"):
-            for fk in ("title", "description"):
+            for fk in ("title", "description", "imageAlt"):
                 if fk in data and _verify.has_cjk(str(data[fk])):
                     leaks.append(fk)
             if "tags" in data and any(_verify.has_cjk(str(t)) for t in data.get("tags", [])):
@@ -378,6 +384,8 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
             lines.append("  ]")
         elif key == "subcategory":
             lines.append(f"subcategory: {yaml_single_quote(str(subcat_final))}")
+        elif key == "imageAlt":
+            lines.append(f"imageAlt: {yaml_single_quote(str(data.get('imageAlt', zh_fm[key])))}")
         elif key in PASSTHROUGH:
             lines.append(f"{key}: {render_scalar(zh_fm[key])}")
         else:
