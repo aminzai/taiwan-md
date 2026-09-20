@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T23:25:36+08:00",
-    "zhCommitHead": "508b48ee2",
+    "lastUpdated": "2026-09-21T00:36:54+08:00",
+    "zhCommitHead": "76d28ad40",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 79,
+        "fresh": 989,
+        "stale": 78,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1014,
-        "stale": 47,
+        "fresh": 1016,
+        "stale": 45,
         "metadata_stale": 8,
         "missing": 55,
         "orphan": 0
@@ -8125,18 +8125,16 @@
         "ru": {
           "path": "ru/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
+          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
+          "translatedAt": "2026-09-20T15:33:28.128242+00:00",
           "translationLastCommit": "420bbe71",
           "translationLastModified": "2026-08-04T08:48:14+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -39501,8 +39499,8 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-09-20T00:52:48+08:00",
-          "translationLastCommit": "2c5705e8",
-          "translationLastModified": "2026-07-26T17:17:57+08:00",
+          "translationLastCommit": "76d28ad4",
+          "translationLastModified": "2026-09-20T23:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -48317,18 +48315,16 @@
         "pt": {
           "path": "pt/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "598a5a547",
-          "sourceContentHash": "sha256:2021a6224e30bd5e",
-          "sourceBodyHash": "sha256:ab86534e207e2b33",
-          "translatedAt": "2026-09-12T19:57:16+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:b47bd1e69ecf0593",
+          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
+          "translatedAt": "2026-09-20T00:52:44+08:00",
           "translationLastCommit": "1f546d73",
           "translationLastModified": "2026-09-13T01:02:41+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+26 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-grid-resilience.md",
@@ -82567,8 +82563,8 @@
           "sourceContentHash": "sha256:67d7cdf3a4bcd692",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T14:04:48.561710+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76d28ad4",
+          "translationLastModified": "2026-09-20T23:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "fresh",
@@ -120764,18 +120760,16 @@
         "ru": {
           "path": "ru/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
           "translatedFrom": "People/馬英九.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:321dcc1f48006944",
+          "sourceCommitSha": "8cc6a667e",
+          "sourceContentHash": "sha256:70721e3134a573dc",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-07T02:33:20.478357+00:00",
+          "translatedAt": "2026-09-20T15:34:12.238563+00:00",
           "translationLastCommit": "8cc6a667",
           "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
-          "footnoteDefs": 43,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+50 -54"
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
