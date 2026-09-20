@@ -32,10 +32,10 @@ difficulty: 'intermediate'
 readingTime: 24
 rationale: "{'why_this_hook': '複眼＝看的方法，對抗「得獎履歷」通行敘事；中華商場是可感記憶入口', 'whats_excluded': '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費', 'where_it_hedges': '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪', 'whos_pushing_back': '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'}"
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'fdd06c978'
-sourceContentHash: 'sha256:9e044da79052e1d4'
-sourceBodyHash: 'sha256:0b3e476aa45a53ca'
-translatedAt: '2026-08-01T05:12:37+08:00'
+sourceCommitSha: '36aaa72e1'
+sourceContentHash: 'sha256:4084ed4b3480a75a'
+sourceBodyHash: 'sha256:70f421624b5717be'
+translatedAt: '2026-09-20T13:05:29.713771+00:00'
 ---
 
 # Wu Ming-yi: Reconstruyendo la Taiwán desaparecida a través de ojos compuestos
@@ -79,47 +79,47 @@ Su labor docente en Dong Hwa (Departamento de Literatura China, luego Departamen
 
 El marco de la escritura naturalista también le llevó a una transición. Lo no ficcional puede describir especies y hábitats con gran precisión, pero le resulta difícil contener simultáneamente el metal de la guerra, los fantasmas del centro comercial y la inmensa y absurda modernidad del impacto de la isla de basura en la costa este. Necesitaba la novela para que sus ojos compuestos se extendieran desde el campo hacia la profundidad del tiempo. La escritura natural temprana en Taiwán solía ser criticada por quedarse en el afecto sentimental y carecer de profundidad intelectual; cuando él entró en el debate académico, su objetivo era precisamente trazar un mapa que pudiera ser debatido. La escritura y la investigación comparten en él el mismo par de ojos: una mano sostiene la red para capturar las venas de las alas de una mariposa, y la otra clava las coordenadas de la historia literaria en la tierra de Taiwán post-1980. Si el lector solo mira las medallas en la solapa de sus novelas, es fácil olvidar que primero fue la persona que trazó el mapa.
 
-## El centro comercial Zhonghua fue derribado, pero él lo escribió de vuelta
+## El centro comercial Zhonghua demolido, escrito de vuelta por Wu Ming-yi
 
-![Vista exterior del centro comercial Zhonghua en 1965; un bloque de locales públicos situado en un lado de Ximending, con gente y vehículos transitando](/article-images/people/zhonghua-market-1965.jpg)
-_Centro comercial Zhonghua, 1965. Agencia de Información del Ejecutivo. Este bloque de locales, inaugurado en 1961 y demolido en 1992, es el prototipo espacial de la infancia de Wu Ming-yi y de "El mago del paso elevado". Dominio público._
+![Fachada del centro comercial Zhonghua en 1965, un edificio comercial continuo ubicado al lado de Ximending, con gente y vehículos circulando entre ellos](/article-images/people/zhonghua-market-1965.jpg)
+_ Centro comercial Zhonghua, 1965. Foto del Departamento de Información del Consejo Ejecutivo. Este edificio comercial continuo, inaugurado en 1961 y demolido en 1992, fue el prototipo espacial del calzado de la infancia de Wu Ming-yi y de 《El mago del paso elevado》. Dominio público. _
 
-El centro comercial Zhonghua se inauguró el 22 de abril de 1961 y sus secciones fueron demolidas en octubre de 1992 por razones que incluían la soterración del ferrocarril, el metro y el plan de la avenida arbolada de Zhonghua Road. [^1] Para la generación media que ha transitado Ximending, aquel lugar era el olor de los soportales y la sombra del paso elevado, un labiente en el que se perdían tras la escuela, no una entrada en la historia arquitectónica. Tras su desaparición, solo quedaron fotos y relatos orales. Hasta que en 2011, _El mago del paso elevado_ trajo de vuelta al papel el Zhonghua de los años 80. [^2]
+El centro comercial Zhonghua abrió el 22 de abril de 1961 y fue demolido en octubre de 1992, por razones que incluían la subterránea del ferrocarril, el metro y el plan de la avenida Zhonghua con la avenida Linhai. [^1] Para los adultos que caminaban por Ximending, era un lugar de olores de tiendas al aire libre y sombras de pasos elevados, un laberinto al que se colaban después de la escuela, no una entrada en la historia de la arquitectura. Después de que el centro comercial desapareciera, solo quedaban fotos y relatos orales. Hasta 2011, 《El mago del paso elevado》 escribió de vuelta el Zhonghua de los años 80 en papel. [^2]
 
-En la novela aparecen un misterioso mago en el paso elevado, una cebra luminosa y el pequeño hijo de la zapatería. Wu Ming-yi le dijo a OKAPI: "¡El centro comercial Zhonghua era un lugar verdaderamente extraordinario; toda la magia estaba allí!". [^4] La magia aquí cumple una función estructural. El centro comercial en sí ha desaparecido, pero la magia permite que el espacio perdido sea nuevamente transitable. La primera aplicación social de los ojos compuestos a la "desaparición" recae en la memoria urbana: quién recuerda aún a las familias que cocinaban bajo los soportales, o quién puede señalar el orden de los edificios de Zhongxiao, Ren'ai, Xinyi y Heping.
+En la novela había un mago misterioso en el paso elevado, una cebra luminosa y un niño pequeño de la tienda de calzado. Wu Ming-yi le dijo a OKAPI: «¡El centro comercial Zhonghua era un lugar increíble, toda la magia estaba ahí!» [^4] La magia asume aquí una función estructural. El centro comercial había desaparecido, y la magia hacía que el espacio desaparecido pudiera ser recorrido nuevamente. La primera aplicación social de Wu Ming-yi a «la desaparición» cayó sobre la memoria urbana: ¿Quién recuerda las familias que cocinaban en las tiendas al aire libre? ¿Quién puede señalar el orden de los edificios en Zhongxiao y Ren'ai?
 
-![Neones y multitudes bajo los soportales del centro comercial Zhonghua durante la noche; los letreros y luces crean la densidad urbana de la Ximending de los años 80](/article-images/people/zhonghua-market-night.jpg)
+![Luces nocturnas y multitud en las tiendas al aire libre del centro comercial Zhonghua, con letreros y luces que se superponen creando la densidad de la vida nocturna de Ximending en los años 80](/article-images/people/zhonghua-market-night.jpg)
 
-![Vista de los soportales del primer piso del edificio "Xin" del centro comercial Zhonghua: letreros de tiendas, columnas y escala peatonal](/article-images/people/zhonghua-market-xin.jpg)
-_Vista nocturna del centro comercial Zhonghua (imagen histórica). Los neones y soportales previos a la demolición son la memoria visual que regresa repetidamente en la novela y la serie de PTS. Vía Wikimedia Commons, CC BY 3.0._
+![Vista nocturna del centro comercial Zhonghua (imagen histórica). Antes de la demolición, luces y letreros eran recuerdos visuales que la novela y la serie de TV volvían a visitar](/article-images/people/zhonghua-market-xin.jpg)
+_ Vista nocturna del centro comercial Zhonghua (imagen histórica). Antes de la demolición, luces y letreros eran recuerdos visuales que la novela y la serie de TV volvían a visitar. Foto vía Wikimedia Commons, CC BY 3.0. _
 
-El 20 de febrero de 2021 se estrenó la serie de PTS _El mago del paso elevado_, dirigida por Yang Ya-che. [^10] El set en Sanchiao ocupaba unas dos a dos punto cinco hectáreas; los informes indican que el presupuesto para escenografía fue de unos ochenta millones, recreando casi cincuenta tiendas. Los medios estiman que el coste total de producción fue de unos doscientos millones, mientras que el departamento de programas declara unos veinte millones por episodio. Estos tres niveles de cifras son distintos y no deben confundirse como "una inversión de doscientos millones en escenografía". [^11] Tras el fin del rodaje, ese centro comercial ficticio sería demolido una vez más: la demolición real fue en 1992; la virtual ocurrió alrededor de 2020. Dos desapariciones superpuestas en un mismo pasillo. Los informes también mencionan que las vías y los cobertizos se completaron al máximo, conectando con la memoria del rodaje de _A Love in Vergance_ de Hou Hsiao-hsien. [^11] El sonido de los trabajadores retirando los letreros suena como el fin definitivo de una era que ya había terminado.
+El 20 de febrero de 2021, la serie de TV de CTI 《El mago del paso elevado》 tuvo su estreno, dirigida por Yang Yazhuo. [^10] El set de filmación en Xizhi ocupaba entre dos y dos comas cinco hectáreas, y los informes indicaban que el costo del set era de aproximadamente 80 millones de dólares, recreando unos 50 locales comerciales. Según fuentes de la prensa, el presupuesto total de la producción era de aproximadamente 200 millones de dólares, y la unidad de programación dijo que el costo por episodio era de aproximadamente 20 millones de dólares. Estos tres números son de niveles diferentes y no deben mezclarse como «un presupuesto de 200 millones para reconstruir el centro comercial Zhonghua». [^11] Después del rodaje, ese falso centro comercial también sería demolido otra vez: la demolición real fue en 1992, la demolición virtual fue alrededor de 2020, dos desapariciones superpuestas en el mismo pasillo. Los informes también mencionaron que los rieles y el cobertizo del tren estaban perfectamente adaptados, correspondientes a la memoria de la línea de filmación de Hou Hsiao-hsien en 《Chénshēng zhī àn》. [^11] El sonido de los trabajadores quitando los letreros era como terminar una vez más la era que ya había terminado.
 
 ```tw-stat
-Aprox. 200 millones | Coste total de producción (según medios) | Incluye personal, efectos y postproducción
-Aprox. 80 millones | Escenografía del set | Sanchiao, casi 50 tiendas recreadas
-Aprox. 20 millones | Presupuesto por episodio (según departamento de programas) | Nivel distinto a los dos anteriores
-Fuente: Free Entertainment / Taiwan News / Registros de actividades de Tamkang; no confundir las tres cifras
+Aproximadamente 200 millones | Presupuesto total de la producción (fuente de prensa) | Incluye personal, efectos especiales, postproducción
+Aproximadamente 80 millones | Costo del set de filmación | Xizhi, unos 50 locales comerciales
+Aproximadamente 20 millones | Costo por episodio (declarado por la unidad de programación) | Nivel diferente a los anteriores
+Fuente: Free Entertainment / Taiwan News / Registro de actividades de Tamkang; los tres números no deben mezclarse
 ```
 
 ```tw-note
-Nota explicativa
-Las tres cifras sobre el "dinero" de la serie de PTS suelen mezclarse en las noticias como "una inversión de 200 millones para reconstruir el centro comercial Zhonghua". Este artículo las separa: total de producción, escenografía y presupuesto por episodio, para evitar presentar distintos niveles contables como una única cifra dramática.
+Explicación
+Los tres números de la serie de CTI sobre «dinero» suelen ser confundidos por los medios en una frase como «un presupuesto de 200 millones para reconstruir el centro comercial Zhonghua». Este artículo los separa: presupuesto total, costo del set, costo por episodio, para evitar escribir diferentes niveles contables como un solo número dramático.
 ```
 
-<iframe width="10							height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Tráiler oficial de la serie de PTS 《El mago del paso elevado》" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Trailer oficial de la serie de CTI 《El mago del paso elevado》" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Durante la etapa promocional, Wu Ming-yi expresó su deseo de que quienes vivieron la era del centro comercial vieran esta obra no solo para evocar recuerdos, sino como si vivieran una vez más en un universo paralelo. "Al igual que hoy la tecnología digital puede crear Marte para que todos desembarquen virtualmente en el planeta, espero que las nuevas generaciones descubran que el centro comercial Zhonghua es como ese Marte que pisan por primera vez". [^12]
+Durante el periodo de preproducción, Wu Ming-yi dijo: esperaba que las personas que vivieron la era del centro comercial vieran esta serie, no solo para evocar memorias, sino como si vivieran de nuevo en un espacio paralelo. «Es como ahora podemos usar tecnología digital para crear Marte, permitiendo a todos aterrizar virtualmente en el planeta. Espero que los jóvenes espectadores descubran: el centro comercial Zhonghua es como Marte para ellos cuando pisan algo por primera vez.» [^12]
 
 ```tw-quote
-El centro comercial Zhonghua es como ese Marte que ellos pisan por primera vez.
-Wu Ming-yi | Durante la promoción de la serie de PTS, Marie Claire / Free Entertainment (fuentes cruzadas)
+El centro comercial Zhonghua es como Marte para ellos cuando pisan algo por primera vez
+Wu Ming-yi | Periodo de preproducción de la serie de CTI, Marie Claire / Free Entertainment
 ```
 
-> **💡 ¿Sabías que...?**
-> La demolición del centro comercial Zhonghua se realizó por secciones ("Zhong $\to$ Hsiao-ren $\to$ Ai-xin $\to$ Yi-he-ping") en un intervalo de unos diez días. La novela y la serie han convertido este laberinto inexistente en un portal de memoria compartido entre generaciones.
+> **💡 ¿Sabías que...**
+> Cuando se demolió el centro comercial Zhonghua, se hizo por secciones siguiendo el orden «Zhongxiao → Ren'ai → Xinyi → Yongle», en unos diez días. La novela y la serie convirtieron este laberinto que ya no existía en una entrada de memoria compartida entre generaciones.
 
-Una vez que la memoria urbana es reescrita, el lector se pregunta: ¿qué más ha desaparecido que merezca el mismo esfuerzo por recuperar? El centro comercial representa la infancia, las cajas de zapatos y los soportales, el espectáculo en el paso elevado que no se sabe si es magia o un engaño. La guerra y la bicicleta, por su parte, expanden la escala desde el barrio hacia la familia y la historia de la isla. Los mismos ojos comienzan a enfocar simultáneamente la vida urbana de corto plazo y el trauma de largo plazo.
+Una vez que la memoria urbana es escrita de vuelta, los lectores querrán preguntar una cuestión más amplia: ¿qué otras cosas desaparecidas valen la pena recuperar con tanta energía? El centro comercial era la infancia, los cajones de zapatos y las tiendas al aire libre, las actuaciones en el paso elevado que eran mágicas o engañosas. La guerra y el tren ajustaron la escala desde el vecindario hasta la familia y la historia de la isla. Un mismo par de ojos ahora debe enfocar simultáneamente la vida cotidiana efímera y el trauma de largo plazo.
 
 ## El avión de combate en el cajón de su padre y una bicicleta desaparecida
 
@@ -189,32 +189,33 @@ En aprox. dos semanas | Cambio de etiqueta | Cambiado a "Taiwan, China" (según 
 Fuente: Guardian / Liberty Times / Sentinel (vía oficial) / Critical Kaopying
 ```
 
-## El viento marino de las librerías de Hualien y las nubes a dos mil metros
+## El viento del mar dentro de la librería de Hualien, y las nubes a dos mil metros
 
-![Retrato de Wu Ming-yi en la Universidad Dong Hwa: cabello corto, camisa clara, expresión tranquila](/article-images/people/wu-ming-yi-ndhu.jpg)
-_Wu Ming-$\\yi$. Profesor del Departamento de Literatura China de la Universidad Dong Hwa; enseña y escribe en Hualien desde hace mucho tiempo. Foto: National Dong Hwa University / Attribution._
+![Retrato de Wu Ming-yi en el entorno de la Universidad Nacional Dong Hwa: cabello corto, camisa clara, expresión tranquila](/article-images/people/wu-ming-yi-ndhu.jpg)
+_ Wu Ming-yi. Profesor de la Universidad Nacional Dong Hwa, enseñando y escribiendo durante mucho tiempo en Hualien. Foto: Universidad Nacional Dong Hwa / Atribución._
 
-Tras los premios y las traducciones, los ojos compuestos tienen una segunda vida: lo transmedia y lo local. En 2014, _Luz flotante_ (浮光) fue un ensayo fotográfico publicado por la editorial New Classic, elevando la escritura de la imagen de un subgénero de la prosa naturalista a un experimento independiente. [^33] En 2019 se publicó la colección de relatos _Tierra de lluvia amarga_, que incluye 〈Las nubes a dos mil metros〉, sobre un abogado que, tras la muerte de su esposa, busca archivos de una novela inacabada y recuerdos de la piel de un leopardo de niebla taiwanés. [^27] En 2025, Chen Xin-yi convirtió este relato en una experiencia de VR titulada 〈Las nubes a dos mil metros〉 (_The Clouds Are Two Thousand Meters Up_), que ganó el Grand Prize en la sección Venice Immersive del 82.º Festival de Venecia. [^28] El relato literario se convierte en una altura que se puede recorrer. Al quitarse el casco, el espectador permanece suspendido entre la piel del leopardo y los archivos incompletos. El Museo de Arte de la Universidad Normal de Beijing también realizó una exposición inmersiva basada en este VR, conectando la memoria de los bosques y el leopardo con el cuerpo del público urbano.
+Después de los premios y las traducciones, el ojo compuesto tiene una segunda vida: multimedia y local. _Floating Light_ (2014) es un texto fotográfico publicado por New Classic, que lleva la escritura de imágenes desde el ensayo naturalista hasta un experimento independiente.[^33] En 2019 se publicó el libro de relatos _Hard Rain_ (《苦雨之地》), que incluye el cuento _Las nubes están a dos mil metros_ (〈雲在兩千米〉), sobre un abogado que, tras la muerte de su esposa, busca el archivo incompleto de una novela y recuerdos de piel de gato nublado de Taiwán.[^27] En 2025, Chen Xinyi adaptó este cuento al formato de realidad virtual _Las nubes están a dos mil metros_ (_The Clouds Are Two Thousand Meters Up_), galardonado con el Gran Premio de la sección inmersiva en la 82.ª edición del Festival de Venecia.[^28] Un relato breve de literatura se convierte en un espacio físico que se puede transitar. Al quitarse el casco, el público permanece aún entre la piel del gato nublado y el archivo incompleto. El Museo de Bellas Artes de Taipéi también ha realizado una exposición inmersiva basada en esta obra de realidad virtual, devolviendo al cuerpo del público urbano las memorias de la montaña, el bosque y el gato nublado.
 
-En 2023, _Hotel Brisa Marina_ (海風酒店) fue publicado por Xiaoxie, ganando el premio a la mejor creación en chino del año de Openbook. [^29] La novela desplaza la mirada hacia la geografía de la costa este, cerca de Xiulin, Heping y las zonas de cementeras (los nombres se han modificado en el libro a "Haifeng", etc.), escribiendo sobre la tierra de Taroko, mitos de gigantes y quién cuenta las historias. [^30] El protagonista animal es un mangosta de tres patas. El autor consultó extensamente materiales sobre Taroko y utilizó artículos de campo con el debido consentimiento. [^30] La estrategia de distribución fue en sí misma un evento industrial: solo ventas y actividades en librerías independientes; durante 56 días y 86 sesiones, desde la librería Hualien Shiguang hasta Wugu en Nuevo Taipéi. [^29] El hábito del autor de visitar librerías independientes se amplificó ese año en una gira por todo Taiwán. Cuando la primera edición se apilaba como una pequeña montaña en las ventanas de las librerías de Hualien, los nombres indígenas de Taroko y las chimeneas de las cementeras ya coexistían en el mismo mapa novelístico.
+En 2023, _El hotel del viento del mar_ (《海風酒店》) fue publicado por Xiaozhuan, ganando el Premio anual de escritura en chino de Openbook.[^29] La novela dirige la mirada hacia los pueblos costeros del este cerca de Xiulin y la aldea de Peace, así como hacia las zonas industriales de cemento (los nombres de lugares en el libro se han cambiado por "Haifeng", etc.), retratando la tierra de los Atayal, mitos de gigantes y quién cuenta la historia.[^30] El animal protagonista termina siendo un cangrejo de agua dulce de tres patas. El autor leyó extensivamente sobre los Atayal, consultó artículos de campo y obtuvo el consentimiento correspondiente.[^30] La estrategia de publicación también es un evento de la industria: solo se vende en librerías independientes y durante eventos, 56 días, 86 sesiones, desde la librería de segunda mano de Hualien hasta Xinbei en Guishan.[^29] El autor, que lleva años visitando librerías independientes, ve su hábito amplificado en esta ocasión hasta convertirse en una gira por toda Taiwán. Cuando la primera tirada se amontonó en la ventana de la librería de Hualien, los nombres de lugares en atayal y las chimeneas de las fábricas de cemento ya estaban juntos en el mismo mapa de la novela.
 
 ```tw-stat
-56 días | Gira por librerías de 《海風酒店》 | Informe de Openbook
-86 sesiones | Número de eventos | De Hualien a Wugu, Nuevo Taipéi
-Aprox. 100,000 | Beca Kuroshio / anual | Desde 2013, en nombre de su madre
-Fuente: Openbook p-68257; Página de becas de la Fundación Kuroshio
+56 días | Gira de librerías independientes de _El hotel del viento del mar_ | Informe de Openbook
+86 sesiones | Número de eventos | Hualien → Xinbei Guishan
+aprox. 100.000 | Subvención anual de Black Tide | Desde 2013, a nombre de su madre
+Fuente: Openbook p-68257; página de subvenciones de la Fundación Black Tide
 ```
 
-En el debate del premio, algunos jueces consideraron que ciertos personajes estaban construidos de forma estereotipada y, por ello, no votaron por la obra. Esto es una divergencia estética y un debate público dentro del jurado, y no debe elevarse a un "rechazo oficial de las comunidades indígenas hacia la novela". [^31] Que un autor de etnia Han escriba sobre la política de representación de la lucha contra el cemento en Taroko es algo que debe discutirse con agudeza. La profundidad debe preservarse; la condena narrativa, no.
+Durante la decisión del premio, algunos miembros del jurado consideraron que ciertos personajes estaban exageradamente estereotipados y, por ello, no votaron a favor del libro. Esta es una disputa estética interna del jurado y un debate público, y no debería convertirse en un evento unificado de "la comunidad indígena rechaza oficialmente la novela".[^31] La representación política de un autor han por escribir sobre la resistencia al cemento en tierras atayal merece una discusión aguda. Hay que mantener la profundidad, pero no es necesario recurrir a narrativas de condena.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="TEDxTaipei: Literatura arraigada en la tierra por Wu Ming-yi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Wu Ming-yi TEDxTaipei: Literatura arraigada en la tierra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-La práctica ambiental no se queda solo en el papel. Ha sido director ejecutivo de la Asociación para la Conservación Ecológica y director de la Fundación Educativa y Cultural Marina Kuroshio. Desde 2013, bajo el nombre de su madre, estableció la Beca Kuroshio, que aporta unos cien mil yuanes anuales para fomentar concursos de ciencia, investigación, conservación y creación artística con temática marina. [^32] Para mediados de la década de 2020, esta beca ha llegado a su decimotercera edición, acumulando decenas de beneficiarios en diez años. [^32] Los informes mencionan su participación en limpiezas de playas en la desembocadura del río Hualien; no hay tanta distancia entre el aula y la línea de marea. [^7] El mar de nubes del campus de Dong Hwa en Hualien, las aulas de la costa de Kuroshio, los mostradores de las librerías y las nubes de la VR son distintas caras de sus ojos compuestos en la actualidad. La enseñanza, lo local y lo transmedia rotan simultáneamente.
+La práctica ambiental también se desarrolla más allá del papel. Ha sido durante mucho tiempo miembro del consejo directivo de la Asociación de Ecología Marina y director de la Fundación Cultural y Educativa Black Tide. Desde 2013, a nombre de su madre, establece la subvención Black Tide, con aproximadamente 100.000 dólares anuales, fomentando concursos científicos, investigaciones, conservación y creaciones artísticas sobre temas marinos.[^32] A mediados de los años 2020, esta subvención ya había apoyado a la décima edición, acumulando decenas de beneficiarios a lo largo de diez años.[^32] La reportera anota que lo ha visto participar en actividades de limpieza de playas en la desembocadura del río Hualien, y que entre el aula y la línea de la marea no hay tanta distancia.[^7] Las nubes del campus de Dong Hwa en Hualien, las aulas en la costa de Black Tide, el mostrador de la librería y las nubes en realidad virtual son varias caras del ojo compuesto en la actualidad. La enseñanza, el lugar y los medios multimedia giran simultáneamente.
 
-Los ojos compuestos, llegados a este punto, se han transformado en entrenamiento de observación en clase, en una elección industrial para giras de librerías, en becas para la costa de Kuroshio y en nubes a dos mil metros dentro de un casco de VR. En su charla en TEDxTaipei sobre "Literatura arraigada en la tierra", decía que lo que los estudiantes practican en clase es cómo enfocar simultáneamente una especie, una calle y un vestigio de guerra, sin fragmentarlos en temas de redacción inconexos.
+El ojo compuesto ha evolucionado hasta convertirse en el entrenamiento de observación en el aula, las decisiones de publicación en librerías independientes, las subvenciones en la costa de Black Tide y las nubes a dos mil metros dentro del casco. En TEDxTaipei habló sobre "literatura arraigada en la tierra": lo que los estudiantes practican en clase es cómo enfocar simultáneamente una especie, una calle y un legado de guerra, sin descomponerlos en redacciones sueltas e independientes.
 
-> **⚠️ Punto de controversia**
-> El debate sobre la "estereotipación" en el premio para _Hotel Brisa Marina_ recuerda algo al lector: cuando se escribe sobre el cemento y la memoria tribal de la costa este desde una perspectiva transétnica, la representación misma es política. Wu Ming-yi elige entrar en esta zona de riesgo; la agudeza de la crítica no significa automáticamente el fracaso de la obra, ni un veredicía unánime de las comunidades indígenas.
+> **⚠️ Perspectiva polémica**
+> La discusión sobre "estereotipos" generada por _El hotel del viento del mar_ en la ceremonia del premio recuerda al lector algo: al escribir sobre la memoria de cemento y comunidades indígenas en la costa oriental, la representación misma es política. Wu Ming-yi decidió adentrarse en esta zona de riesgo; las críticas agudas del campo no equivalen automáticamente a un fracaso de la obra, ni tampoco a un juicio unánime de la comunidad indígena.
+> </l>
 
 ## Los ojos compuestos siguen rotando
 
