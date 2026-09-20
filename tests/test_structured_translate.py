@@ -241,8 +241,8 @@ def test_extract_prose_footnote_keeps_whole_text_and_armors_links():
     assert defs[0]["_link_restore"] == [("@@LINK0@@", "https://time.udn.com/a")]
     assert defs[1]["prose"]
     assert "[1:00:07]" in defs[1]["desc"] and "@@LINK0@@" in defs[1]["desc"]
-    # 純文字、無方括號的舊路徑不變：整條當 title
-    assert not defs[2]["prose"] and defs[2]["title"].startswith("散見於")
+    # 純文字、無方括號、無 URL：也是散文（第一個上線 run 撞到模型把長 title 搬進 desc）
+    assert defs[2]["prose"] and defs[2]["desc"].startswith("散見於") and defs[2]["title"] == ""
 
 
 def test_prose_footnote_roundtrip_validates_and_assembles_verbatim_shape():

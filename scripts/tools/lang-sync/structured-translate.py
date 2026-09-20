@@ -488,9 +488,16 @@ def extract_footnote_defs(body: str) -> list[dict]:
                 title, url, desc = "", "", rest
             else:
                 url_m = re.search(r"https?://\S+", rest)
-                url = url_m.group(0).rstrip(".,，。、") if url_m else ""
-                title = rest[: url_m.start()].strip(" —-") if url_m else rest
-                desc = ""
+                if url_m:
+                    url = url_m.group(0).rstrip(".,，。、")
+                    title, desc = rest[: url_m.start()].strip(" —-"), ""
+                else:
+                    # 純文字引註（「吳哲宇口述值，2026-08-16 Openbook 對談…」）：沒有連結
+                    # 也沒有方括號。09-21 00:43 前它是「整條當 title、desc 空」，第一個
+                    # 上線的 run 就撞到模型把長 title 搬進 desc、title 交空（新 prompt
+                    # 的散文規則讓它這樣做），驗證器報 15 條 title empty。乾脆也當
+                    # 散文：整條在 desc，組回 `[^n]: desc`，跟舊輸出一字不差。
+                    title, url, desc = "", "", rest
         desc_protected, link_restore = _protect_embedded_links(desc)
         defs.append({
             "n": n,
