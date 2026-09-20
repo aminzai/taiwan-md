@@ -1,6 +1,6 @@
 ---
-title: 'Sistema fluvial y características hidrológicas de Taiwán: Hidrogeografía de corrientes cortas y rápidas con variaciones estacionales'
-description: 'Explorar el sistema fluvial único de Taiwán, desde el río Zhuoshui hasta el río Gaoping, comprendiendo cómo la geografía insular moldea las características hidrológicas de la isla'
+title: 'Sistemas fluviales y características hidrológicas de Taiwán: ríos cortos y caudalosos y cambios estacionales en la geografía hidrológica'
+description: 'Explora los sistemas fluviales únicos de Taiwán, desde el río Choshui hasta el río Kaoping, y comprende cómo la topografía insular moldea las características hidrológicas de Taiwán'
 date: 2026-03-18
 category: 'Geography'
 tags:
@@ -8,8 +8,8 @@ tags:
     'geografía',
     'ríos',
     'hidrología',
-    'río Zhuoshui',
-    'río Gaoping',
+    'río Choshui',
+    'río Kaoping',
     'río Tamsui',
     'recursos hídricos',
   ]
@@ -20,303 +20,332 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: '70372d3a0'
-sourceContentHash: 'sha256:8df5b8e9967c9dc4'
-sourceBodyHash: 'sha256:8b2b2e4c01c9feb3'
-translatedAt: '2026-07-27T05:46:59+08:00'
+sourceCommitSha: 'ff1ce7d66'
+sourceContentHash: 'sha256:f2ac5aec701df4d2'
+sourceBodyHash: 'sha256:4cdc3e89f08b13d3'
+translatedAt: '2026-09-21T00:58:27+08:00'
 ---
 
-# Sistema fluvial y características hidrológicas de Taiwán: Hidrogeografía de corrientes cortas y rápidas con variaciones estacionales
+# Sistemas fluviales y características hidrológicas de Taiwán: ríos cortos y caudalosos y cambios estacionales en la geografía hidrológica
 
-## 30 segundos para comprender
+## Resumen en 30 segundos
 
-La forma alargada y estrecha de la isla, con la cordillera desplazada hacia el este, define la imagen típica de los ríos de Taiwán: **cortos, de fuerte pendiente y con flujo bifurcado entre el este y el oeste**. El **río Zhuoshui** (186,6 km) es el más largo de toda la isla, mientras que la cuenca del **río Gaoping** tiene la superficie más extensa (3.257 km²). El **río Tamsui**, por su parte, articula la historia de desarrollo de los últimos cuatrocientos años de la cuenca de Taipéi. La geografía de los ríos de Taiwán presenta un patrón de «ríos más largos al oeste, más cortos al este, con pendientes pronunciadas y corrientes rápidas», lo que tanto almacena recursos de energía hidroeléctrica como genera presión por inundaciones cada vez que llegan los tifones.
+La forma alargada de la isla y la ubicación oriental de las cordilleras crean el típico aspecto de los ríos de Taiwán: «**cortos y caudalosos, con división este-oeste**». El **río Choshui (濁水溪)** (186,6 km) es el más largo de la isla, el **río Kaoping (高屏溪)** tiene la cuenca más extensa (3.257 km²)[^1], y el **río Tamsui (淡水河)** vincula cuatro siglos de historia de la cuenca del Gran Taipéi. Los ríos taiwaneses presentan una configuración geográfica de «largos al oeste, cortos al este, pendientes pronunciadas y corrientes rápidas», que tanto almacenan recursos hidroeléctricos como generan presión de inundaciones con cada tifón.
 
-De los 129 ríos bajo gestión central de toda la isla, la mayoría tiene una longitud inferior a 50 km, pero su pendiente media supera 1/100, lo que los hace decenas de veces más empinados que los grandes ríos de Europa.
+En toda la isla hay 118 sistemas fluviales a nivel de condado/ciudad o superior, de los cuales 24 son de gestión central[^7]; la mayoría mide menos de 50 km, pero sus pendientes superan a menudo 1/100, varias decenas de veces más pronunciadas que los grandes ríos europeos.
 
-Durante los tifones, el caudal de los ríos de Taiwán puede aumentar cien veces en 24 horas y luego descender bruscamente. Esta ritmo extremo ha moldeado el paisaje hidrológico único de Taiwán y su cultura de control de inundaciones.
+Cada tifón, el caudal de los ríos taiwaneses puede multiplicarse por cien en 24 horas para luego desplomarse, y este ritmo extremo moldea el paisaje hidrológico único y la cultura de prevención de inundaciones de Taiwán.
 
-Palabras clave: corrientes cortas y rápidas, flujo bifurcado este-oeste, variación estacional, ríos de tipo salvaje, recursos de energía hidroeléctrica, divisoria de aguas
+Palabras clave: ríos cortos y caudalosos, división este-oeste, cambio estacional, ríos de lecho trenzado, recursos hidroeléctricos, divisoria de aguas
 
 ## Por qué es importante
 
-Taiwán cuenta con 129 ríos bajo gestión central. El río Zhuoshui ha formado la llanura de Zhanghua mediante la sedimentación, convirtiéndola en la zona esencial de producción de arroz. El río Tamsui ha dado origen a la cuenca de Taipéi, estableciendo el centro político y económico. El embalse de Deji del río Dajia abastece el agua industrial de la región central. Las cuatro funciones de la irrigación agrícola, el suministro urbano de agua, la generación de energía hidroeléctrica y los corredores ecológicos coexisten, constituyendo la red básica para la supervivencia de la isla.
+Taiwán cuenta con 24 ríos de gestión central y 92 de gestión condal/ciudadana[^7]. El río Choshui formó con sus aluviones la llanura de Changhua, zona nuclear de producción arrocera. El río Tamsui nutrió la cuenca de Taipéi, sentando las bases del centro político y económico. El embalse de Techi (德基水庫) en el río Dajia (大甲溪) abastece de agua industrial al centro de Taiwán. Riego agrícola, suministro urbano, generación hidroeléctrica y corredores ecológicos: las cuatro funciones fluviales operan en paralelo, tejiendo la red básica de supervivencia de la isla.
 
-Los ríos son también la principal fuente de desastres naturales de Taiwán. Durante los tifones, el caudal aumenta cientos de veces; la gran diferencia entre las épocas de aguas altas y bajas (del 5 al 10 mes, que concentran el 78 % de las precipitaciones anuales) ha obligado a Taiwán a construir un sistema de grandes embalses como Zengwen, Jade y Shimen.
+Los ríos son también la principal fuente de desastres naturales en Taiwán. Durante los tifones el caudal se multiplica por cientos, y la brecha anual entre estación húmeda y seca (mayo-octubre concentra el 78 % de la lluvia) obligó a construir grandes sistemas de embalses como Tsengwen (曾文), Feitsui (翡翠) y Shihmen (石門).
 
-Comprender la naturaleza corta y rápida de los ríos de Taiwán es comprender por qué esta isla enfrenta simultáneamente la doble presión de tener abundancia y escasez de agua.
+Comprender la naturaleza de «río corto y caudaloso» de Taiwán es entender por qué esta isla afronta simultáneamente la doble presión de abundancia y escasez de agua.
 
-## Características básicas del sistema fluvial de Taiwán
+## Características básicas de los ríos de Taiwán
 
-Las características de los ríos de Taiwán están determinadas directamente por la geografía: el desplazamiento de la cordillera Central hacia el este provoca una asimetría en los sistemas hídricos este-oeste, la juventud de las formaciones rocosas intensifica la erosión del lecho fluvial y la forma alargada de la isla limita la longitud de los ríos. La superposición de estos tres factores geográficos ha creado un tipo de «río corto de alta energía» poco común a nivel mundial.
+Las características de los ríos taiwaneses las dicta directamente el relieve: la cordillera Central desplazada al este genera asimetría entre cuencas orientales y occidentales, las capas geológicas jóvenes provocan fuerte erosión del lecho, y la forma alargada de la isla limita la longitud fluvial. Estos tres factores geográficos superpuestos crean el tipo globalmente raro de «ríos cortos de alta energía».
 
-### Determinismo del relieve: el diálogo entre la cordillera y los ríos
+### Determinismo del relieve: diálogo entre montañas y ríos
 
-**Patrón de flujo bifurcado este-oeste:**
-El sistema fluvial de Taiwán toma principalmente la cordillera Central como divisoria de aguas, presentando una característica clara de flujo bifurcado entre el este y el oeste. Las cuencas de los ríos occidentales son más extensas y los abanicos aluviales están muy desarrollados. Los ríos orientales tienen pendientes pronunciadas y valles estrechos, con longitudes que generalmente no superan los 60 km.
+**Formato de división este-oeste:**
+El sistema fluvial de Taiwán toma la cordillera Central como divisoria de aguas, mostrando una clara división este-oeste. Las cuencas occidentales son más amplias y desarrollan abanicos aluviales; los ríos orientales, de pendiente escarpada y densos cañones, rara vez superan los 60 km.
 
-- **Ríos occidentales**: más largos, cuencas más extensas, abanicos aluviales desarrollados.
-- **Ríos orientales**: cortos y de fuerte pendiente, empinados, con terreno de cañones.
+- **Ríos occidentales**: más largos, cuencas mayores, abanicos aluviales desarrollados
+- **Ríos orientales**: cortos y caudalosos, pendientes pronunciadas, abundantes cañones
 
-Los datos numéricos de los ríos representativos de toda la isla son los siguientes:
+Cifras representativas de los ríos de la isla:
 
-- Número total de ríos de la isla: 129 ríos bajo gestión central.
-- Río más largo: río Zhuoshui (186,6 km).
-- Segundo más largo: río Gaoping (171 km).
-- Tercer más largo: río Tamsui (158,7 km, incluyendo afluentes).
+- Total de sistemas fluviales a nivel condal/ciudadano o superior: 118 (gestión central 24, interprovinciales 2, gestión condal/ciudadana 92)[^7]
+- Río más largo: Choshui (濁水溪) (186,6 km)[^1]
+- Segundo más largo: Kaoping (高屏溪) (171,0 km)[^1]
+- Tercero más largo: Tamsui (淡水河) (158,7 km)[^1]
 
-### Características físicas de las «corrientes cortas y rápidas»
+### Características físicas de los «ríos cortos y caudalosos»
 
-**Cortos pero eficientes:**
+**Cortos y vigorosos:**
 
-- La anchura máxima de la isla de Taiwán, de este a oeste, es de solo 144 km.
-- La mayoría de los ríos tienen una longitud inferior a 50 km.
-- La pendiente de los ríos es pronunciada, con una pendiente media superior a 1/100.
+- La isla mide apenas 144 km en su parte más ancha este-oeste
+- La mayoría de los ríos mide menos de 50 km
+- Pendientes fluviales pronunciadas, pendiente media superior a 1/100
 
-**Potencial de energía en el flujo rápido:**
+**Corriente rápida y energética:**
 
-- Gran potencial para la generación de energía hidroeléctrica; la capacidad instalada de la cuenca del río Dajia supera el millón de kilovatios.
-- Fuerte poder de erosión, transportando grandes cantidades de sedimentos.
-- Rápida velocidad de flujo, pero desfavorable para el desarrollo de la navegación.
+- Gran potencial hidroeléctrico; la cuenca del Dajia supera el millón de kW de capacidad instalada
+- Fuerte poder erosivo, transportan enormes volúmenes de sedimento
+- Velocidad elevada, desfavorable para la navegación
 
-### Variación estacional extrema
+### Variabilidad estacional extrema
 
 **Estación lluviosa vs. estación seca:**
 
-- Verano (may-octubre): precipitaciones abundantes, los niveles de los ríos se disparan.
-- Invierno (nov-abril): precipitaciones escasas, algunas secciones de los ríos se secan.
-- Los ríos del centro y sur son mayoritariamente de «tipo salvaje», secándose a menudo en invierno.
+- Verano (mayo-octubre): lluvias abundantes, nivel fluvial se dispara
+- Invierno (noviembre-abril): lluvias escasas, tramos enteros se secan
+- Los ríos del centro y sur son mayormente «ríos de lecho trenzado», en invierno a menudo dejan de fluir
 
-**Efecto de los tifones:**
+**Efecto tifón:**
 
-- El caudal durante los tifones puede alcanzar cientos de veces el promedio habitual.
-- Rápidos picos y descensos bruscos, alto riesgo de inundaciones.
-- Redistribución masiva de sedimentos.
+- Durante los tifones el caudal puede alcanzar cientos de veces el normal
+- Subidas y bajadas bruscas, alto riesgo de inundaciones
+- Redistribución masiva de sedimentos
 
-## Los tres grandes sistemas fluviales
+## Tres grandes sistemas fluviales
 
-### Río Zhuoshui: el río más largo de Taiwán
+### Río Choshui (濁水溪): el río más largo de Taiwán
 
 **Datos básicos:**
 
-- Longitud total: 186,6 km.
-- Superficie de la cuenca: 3.157 km².
-- Nacimiento: entre el pico principal y el pico oriental del monte Hehuan de la cordillera Central.
-- Desembocadura: entre Dacheng (condado de Changhua) y Mailiao (condado de Yunlin).
+- Longitud total: 186,6 km[^1]
+- Superficie de cuenca: 3.157 km²[^1]
+- Origen: entre la cumbre principal y la cumbre este del monte Hehuan (合歡山) en la cordillera Central[^2]
+- Desembocadura: entre Dacheng (大城), Changhua, y Mailiao (麥寮), Yunlin
 
-**Características geográficas:**
-El río Zhuoshui lleva su nombre a la perfección, ya que presenta un estado turbio debido a la gran cantidad de lodo y arena que transporta. Este río articula la geografía y la cultura del centro de Taiwán:
+**Rasgos geográficos:**
+El Choshui hace honor a su nombre: arrastra tal cantidad de limo que presenta aspecto turbio. Este río une la geografía y la cultura del centro de Taiwán:
 
-- **Cuenca alta**: cañones de alta montaña, territorios tradicionales de los grupos Atayal y Seediq.
-- **Cuenca media**: el dique de captación de Jiji, una obra de ingeniería hídrica clave que abastece más de 1.400 millones de toneladas de agua al año.
-- **Cuenca baja**: ha formado la llanura de Zhanghua mediante sedimentación, siendo una de las principales zonas de producción de arroz de toda la isla.
+- **Tramo superior**: cañones de alta montaña, territorio tradicional de los pueblos atayal (泰雅族) y seediq (賽德克族)
+- **Tramo medio**: presa de Chichi (集集攔河堰), mayor captación anual de la isla (~2.000 millones m³), abastece riego, consumo humano e industria del Sexto Complejo Petroquímico (六輕) en Changhua y Yunlin[^8]
+- **Tramo inferior**: aluviones que forman la llanura de Changhua, una de las mayores zonas arroceras de Taiwán
 
-**Significado cultural:**
+**Significado humano:**
 
-- Ha dado origen a la civilización agrícola de la llanura de Zhanghua.
-- El ferrocarril de la línea Jiji se construyó siguiendo el curso del río Zhuoshui.
-- El arroz del río Zhuoshui es famoso en toda la isla por su agua de calidad.
+- Gestó la civilización agrícola de la llanura de Changhua
+- El ferrocarril de la línea Chichi (集集線) se tiende junto al Choshui
+- El arroz del Choshui es famoso en toda la isla por la calidad de su agua
 
 **Valor ecológico:**
-La desembocadura del río Zhuoshui atrae anualmente a decenas de miles de aves migratorias para pasar el invierno, incluyendo el chorlito patinegro y varias especies de limícolas de la familia Charadriidae. Los humedales de la desembocadura se conectan con la costa de Changhua, siendo el nodo más crucial del corredor de aves migratorias de la costa occidental.
+La desembocadura del Choshui atrae cada año decenas de miles de aves migratorias invernantes, entre ellas la espátula de cara negra (黑面琵鷺) y numerosas limícolas. El humedal fluvial conecta con la costa de Changhua, constituyendo el nudo clave del corredor de aves migratorias de la costa occidental.
 
-### Río Gaoping: la línea de vida del sur de Taiwán
+### Río Kaoping (高屏溪): la arteria vital del sur de Taiwán
 
 **Datos básicos:**
 
-- Longitud total: 171 km.
-- Superficie de la cuenca: 3.257 km² (la más grande de toda la isla).
-- Afluentes principales: río Qishan, río Meilong, río Wanrong.
-- Población servida: aproximadamente 2,6 millones de personas.
+- Longitud total: 171,0 km[^1]
+- Superficie de cuenca: 3.257 km² (la mayor de la isla)[^1]
+- Principales afluentes: Laonong (荖濃溪) (incluye Chokou 濁口溪), Chishan (旗山溪) (incluye Meinong 美濃溪), Ailiao (隘寮溪)[^9]
 
-**Importancia de los recursos hídricos:**
-El río Gaoping es la principal fuente de agua del sur de Taiwán:
+**Importancia hídrica:**
+El Kaoping es la primera fuente de agua del sur de Taiwán:
 
-- Abastece aproximadamente el 70 % del agua de la zona metropolitana de Kaohsiung (varía según el año).
-- Los sistemas de los ríos Zengwen y Gaoping sostienen el desarrollo industrial del sur de Taiwán.
-- Los ríos urbanos de Kaohsiung, como el río Ai y el río Qianzhen, tienen su origen en el sistema hídrico del río Gaoping.
+- La presa de Kaoping (高屏溪攔河堰) capta en promedio 1,0-1,1 millones m³/día, cubriendo ~70 % del consumo diario del Gran Kaohsiung[^10]
+- Los sistemas Tsengwen (曾文溪) y Kaoping sostienen el desarrollo industrial del sur
+- El río Ai (愛河) y el río Cianjhen (前鎮河), que cruzan el área urbana de Kaohsiung, son sistemas menores independientes; el Ai nace en la zona de Bagualiao (八卦寮), distrito de Renwu, y no pertenece a la cuenca del Kaoping[^11]
 
 **Paisaje cultural:**
 
-- **Llanura de Meilong**: los asentamientos hakka conservan los métodos tradicionales de cultivo del tabaco y la artesanía de los paraguas de papel.
-- **Calle antigua de Qishan**: testimonio histórico de la industria del plátano.
-- **Termas de Liugui**: un destino de aguas termales situado a orillas del río Wanrong.
+- **Llanura de Meinong (美濃平原)**: agglomerados hakka que conservan cultivo tradicional de tabaco y artesanía de sombrillas de papel
+- **Calle antigua de Chishan (旗山老街)**: testigo histórico de la industria bananera
+- **Termas de Liukuei (六龜溫泉)**: estación termal a orillas del Laonong
 
-**Desafíos y oportunidades:**
+**Retos y oportunidades:**
 
-- La diferencia entre las épocas de aguas altas y bajas es extrema, requiriendo regulación mediante embalses.
-- Equilibrio entre la contaminación industrial y el agua para consumo doméstico.
-- Compensación entre el desarrollo de la cuenca y la protección ecológica.
+- Diferencia extrema entre crecida y estiaje, requiere regulación por embalses
+- Equilibrio entre contaminación industrial y agua potable
+- Arbitraje entre desarrollo de cuenca y conservación ecológica
 
-### Río Tamsui: el río madre del norte de Taiwán
+### Río Tamsui (淡水河): la madre del norte de Taiwán
 
 **Datos básicos:**
 
-- Longitud del curso principal: 158,7 km (incluyendo el sistema de afluentes).
-- Superficie de la cuenca: 2.726 km².
-- Afluentes principales: río Keelung, río Xindian, río Dahan.
+- Longitud del cauce principal: 158,7 km[^1]
+- Superficie de cuenca: 2.726 km²[^1]
+- Principales afluentes: Keelung (基隆河), Xindian (新店溪), Dahan (大漢溪)
 
-El río Tamsui ha sido testigo de los últimos 400 años de historia de Taiwán: en 1624, los neerlandeses entraron en Taiwán siguiendo la desembocadura del río Tamsui; en 1709, los chinos han comenzaron el desarrollo a gran escala de la cuenca de Taipéi; el florecimiento de la frase «una capital, dos puertos, tres barrios» se basaba en el transporte fluvial. Tras la colonización japonesa en 1895, la modernización del puerto de Tamsui impulsó la industrialización del norte de Taiwán. Tras la guerra, la zona metropolitana de Taipéi se expandió a lo largo del sistema del río Tamsui, convirtiéndose en el centro político y económico actual.
+El Tamsui atestigua casi 400 años de historia taiwanesa: en 1629 los españoles levantaron la ciudad de Santo Domingo en la orilla norte de la desembocadura; en 1642 los holandeses la reconvirtieron en el fuerte Antonio, hoy Fuerte Rojo (紅毛城)[^12]; en 1709 la compañía de Chen Lai-chang (陳賴章) penetró en la cuenca de Taipéi, y la prosperidad de «una prefectura, dos ciervos, tres Monga» (一府二鹿三艋舺) se cimentó en el transporte fluvial. A inicios de la época japonesa el puerto de Tamsui seguía siendo puerta comercial, pero el inicio de las obras del puerto de Keelung en 1899 y la sedimentación de la barra provocaron su declive[^13]. Tras la guerra, el área metropolitana de Taipéi se expandió a lo largo del sistema Tamsui, convirtiéndose en el actual centro político y económico.
 
-**Desarrollo urbano y ríos:**
+**Desarrollo urbano y río:**
 
-- **Cuenca de Taipéi**: formada por la sedimentación del río Tamsui, se ha convertido en el centro político y económico.
-- **Parques ribereños**: corredores verdes urbanos, espacios de recreación para los ciudadanos.
-- **Paisaje ribereño**: el horizonte que va desde Bali y Tamsui hasta Guandu.
+- **Cuenca de Taipéi (台北盆地)**: aluvión del Tamsui, devino centro político y económico
+- **Parques ribereños**: corredores verdes urbanos, espacios de ocio ciudadano
+- **Paisaje ribereño**: línea de horizonte desde Bali (八里), Tamsui (淡水) hasta Guandu (關渡)
 
-**Cambio ambiental:**
+**Evolución ambiental:**
 
-- Décadas de 1970-1980: contaminación industrial grave, conocido como el «río Negro» (Heilongjiang).
-- Desde la década de 1990: el gobierno inició la restauración del sistema del río Tamsui, desviando las aguas residuales.
-- Desde la década de 2010: la restauración ecológica ha dado frutos, con la reaparición de garcetas blancas y colirrojos en las riberas.
+- Mediados de los 80: vertidos industriales y domésticos convirtieron la mayoría de tramos en cloacas, ganándose el infame mote de «Heilongjiang (黑龍江)»[^14]
+- Desde 1988: arranque del plan de saneamiento del sistema Tamsui, con estaciones de interceptación de aguas residuales en tiempo seco a lo largo del Keelung y el cauce principal[^14]
+- Años 2010 en adelante: recuperación ecológica visible, retorno de garzas y lavanderas a las orillas
 
 ## Otros ríos importantes
 
-Además de los tres grandes ríos, Taiwán cuenta con decenas de ríos de tamaño medio que tienen su propia importancia geográfica y cultural. Los ríos del este tienen pendientes pronunciadas y corrientes rápidas, mientras que los ríos del centro y oeste del oeste cumplen funciones tanto de irrigación como de generación de energía hidroeléctrica.
+Además de los tres grandes, decenas de ríos medianos poseen cada uno su significado geográfico y cultural. Los ríos orientales son escarpados y caudalosos; los del centro-oeste combinan riego e hidroeléctrica.
 
-Los ríos del este Hualien, Xiuguluan y Beinan atraviesan la llanura aluvial de Hualien-Taitung. Cada uno tiene una longitud inferior a 100 km, pero llevan la cultura de las ceremonias de los ríos de los grupos Amis, Paiwan y Bunan.
+El Hualien (花蓮溪), el Siouguluan (秀姑巒溪) y el Peinan (卑南溪) recorren respectivamente los segmentos norte, centro y sur del valle longitudinal de Hualien-Taitung (花東縱谷); ninguno supera los 100 km[^1], pero portan la cultura ritual fluvial de los pueblos amis (阿美族), paiwan (排灣族) y puyuma (卑南族).
 
-Los ríos del centro Dajia, Wu y Da'an son la línea de vida de los recursos hídricos desde el condado de Miaoli hasta Taichung, constituyendo conjuntamente el esqueleto de los recursos hídricos de toda la isla.
+Los ríos Dajia (大甲溪), Wu (烏溪) y Daan (大安溪) del centro son la columna vertebral hídrica de Miaoli a Taichung, componiendo juntos el esqueleto de recursos hídricos de la isla.
 
-### Ríos del este: cortos, rápidos y escarpados
+### Ríos orientales: cortos, caudalosos, escarpados y bellos
 
-**Río Hualien:**
+**Río Hualien (花蓮溪):**
 
-- El río más largo del este (57 km de longitud).
-- Atraviesa la cordillera Central y la cordillera Costera, formando la llanura aluvial de Hualien-Taitung.
-- Lecho fluvial ancho, es la principal fuente de agua de riego de la llanura de Hualien.
+- 57,3 km, cuenca de 1.507 km²[^1] (el más largo del este es el Peinan, 84,4 km)
+- Fluye hacia el norte por el segmento norte del valle longitudinal, desemboca al sur de la ciudad de Hualien
+- Lecho ancho, principal fuente de riego de la llanura de Hualien
 
-**Río Xiuguluan:**
+**Río Siouguluan (秀姑巒溪):**
 
-- El único río de Taiwán que atraviesa transversalmente la cordillera Costera.
-- Lugar popular para el rafting.
-- La desembocadura forma una zona de mezcla de marea, con alta diversidad de peces.
+- 81,2 km[^1], único río taiwanés que atraviesa transversalmente la cordillera Costera
+- Destino popular para rafting
+- Desembocadura forma zona de mezcla mareal, alta diversidad ictiológica
 
-**Río Beinan:**
+**Río Peinan (卑南溪):**
 
-- El río madre de la llanura de Taitung.
-- Terreno de terrazas fluviales desarrollado, con abundantes sitios de la cultura prehistórica.
-- Testimonio importante de la cultura Beinan.
+- 84,4 km, el más largo del este[^1], madre de la llanura de Taitung
+- Terrazas fluviales desarrolladas, yacimientos prehistóricos abundantes
+- Testigo clave de la cultura Peinan (卑南文化)
 
-### Ríos del centro: el pilar del desarrollo industrial
+### Ríos centrales: pilares del desarrollo industrial
 
-**Río Dajia:**
+**Río Dajia (大甲溪):**
 
-- Río importante para la generación de energía hidroeléctrica en el centro.
-- Embalses y obras de ingeniería importantes como el embalse Deji y la presa Qingshan.
-- Sostiene el desarrollo de la zona industrial de Taichung.
+- Importante río hidroeléctrico del centro
+- Embalse de Techi (德基水庫), presa de Chingshan (青山壩) y otras grandes obras hidráulicas
+- Sostiene el desarrollo de la zona industrial de Taichung
 
-**Río Wu:**
+**Río Wu (烏溪):**
 
-- Fuente de agua importante para la zona metropolitana de Taichung.
-- Cruza los tres condados/ciudades de Changhua, Taichung y Nantou.
-- Asentamientos culturales como Mingjian y Caotun se desarrollan a lo largo de sus riberas.
+- Fuente hídrica clave del área metropolitana de Taichung
+- Cruza los tres condados/ciudades de Changhua, Taichung y Nantou
+- Agglomerados culturales como Mingjian (名間) y Caotun (草屯) florecieron a sus orillas
 
-**Río Da'an:**
+**Río Daan (大安溪):**
 
-- Río importante del condado de Miaoli.
-- La zona de aguas termales de Tai'an se encuentra en su curso alto.
-- Punto de encuentro entre la cultura hakka y la cultura indígena.
+- Río importante de Miaoli
+- Zona termal de Tai'an (泰安溫泉) en su curso alto
+- Encuentro de culturas hakka y aborigen
 
-## Fenómenos únicos de los ríos de Taiwán
+## Fenómenos fluviales únicos de Taiwán
 
-La geología de Taiwán es joven y el levantamiento es rápido, lo que ha dado lugar a varios fenómenos de geomorfología fluvial poco comunes en las regiones templadas. La coexistencia de cauces en tren de trenzado, la captura de ríos y las terrazas fluviales muestra la naturaleza dinámica de la evolución de los ríos de esta isla.
+La geología joven y el rápido levantamiento de Taiwán engendran varios fenómenos geomorfológicos fluviales raros en zonas templadas. Canales trenzados, captura fluvial y terrazas coexisten, revelando la dinámica evolutiva de los ríos isleños.
 
-### Ríos en tren de trenzado y abanicos aluviales
+### Ríos trenzados y abanicos aluviales
 
-**Características de la geomorfología fluvial:**
-Debido a la pendiente pronunciada y a la gran cantidad de sedimentos, muchos ríos de Taiwán presentan características de «ríos en tren de trenzado»:
+**Rasgos geomorfológicos:**
+Por la pendiente pronunciada y la abundancia de sedimento, muchos ríos taiwaneses muestran morfología «trenzada»:
 
-- Lecho fluvial ancho, flujo de agua disperso.
-- Gran variación estacional de los cauces.
-- Formación de llanuras de abanicos aluviales desarrolladas.
+- Lecho ancho, flujo disperso
+- Gran variabilidad estacional del canal
+- Forman abanicos aluviales desarrollados
 
 **Casos típicos:**
 
-- Abanico aluvial del río Zhuoshui: forma la zona esencial de la llanura de Zhanghua.
-- Abanico aluvial del río Gaoping: da origen a la llanura de Pingtung.
-- Abanico aluvial del río Lanyang: base de la llanura de Yilan.
+- Abanico del Choshui: forma el núcleo de la llanura de Changhua
+- Abanico del Kaoping: crea la llanura de Pingtung
+- Abanico del Lanyang (蘭陽溪): base de la llanura de Yilan
 
-### Fenómeno de la captura de ríos
+### Captura fluvial
 
 **Testimonio de la acción geológica:**
-El rápido levantamiento geológico de Taiwán ha creado el interesante fenómeno de la «captura de ríos»:
+El rápido levantamiento geológico produce interesantes fenómenos de «captura fluvial»:
 
-- Los ríos que originalmente fluían hacia el este han sido «capturados» por los ríos del oeste.
-- El caso más famoso: la cuenca alta del río Dajia pertenecía originalmente al sistema del río Lifu.
-- Muestra la juventud y la vitalidad de la geología de Taiwán.
+- Ríos de mayor pendiente erosionan hacia la cabecera y «roban» el curso superior de ríos vecinos
+- Caso más famoso: el Lanyang capturó en la zona del paso Siyuan (思源埡口) el curso superior del Dajia, dejando el valle superior de este último ancho pero con poco caudal[^15]
+- Evidencia de la juventud y actividad geológica de Taiwán
 
 ### Significado cultural de las terrazas fluviales
 
 **Escenario de la actividad humana:**
-Los principales sitios de la cultura prehistórica conocidos de Taiwán se distribuyen en terrenos de terrazas fluviales:
+Los principales yacimientos prehistóricos conocidos de Taiwán se distribuyen sobre terrazas fluviales:
 
-- **Sitio Beinan**: terraza del río Beinan, hace aproximadamente 3.000-5.300 años.
-- **Sitio Shisanhang**: terraza del río Tamsui, hace aproximadamente 1.800-500 años (200-1500 d. C.).
-- **Sitio Qubing**: cuenca alta del río Zhuoshui, hace unos 4.000 años.
+- **Yacimiento de Peinan (卑南遺址)**: terraza del Peinan, ca. 2.300-5.300 años AP[^16]
+- **Yacimiento de Shisanhang (十三行遺址)**: terraza del Tamsui, ca. 1.800-500 años AP (200-1500 d.C.)
+- **Yacimiento de Chuping (曲冰遺址)**: curso alto del Choshui, capa cultural más antigua ca. 4.000 años AP[^17]
 
-Estos terrenos de terrazas fluviales no solo registran la historia de cambio de los ríos, sino que también preservan las huellas preciosas de la actividad humana de Taiwán.
+Estas terrazas no solo registran la historia fluvial, sino que preservan valiosas huellas de la actividad humana en Taiwán.
 
-## Desafíos de la gestión de los recursos hídricos
+## Retos de la gestión de recursos hídricos
 
-El uso anual per cápita de agua en Taiwán es de aproximadamente 2.100 metros cúbicos, lo que parece abundante, pero las precipitaciones están altamente concentradas en la temporada de tifones (del 5 al 10 mes, que representa el 78 %), y la geografía empinada hace que el agua de lluvia llegue rápidamente al mar. La cantidad realmente utilizable es muy inferior a la que muestran las cifras, lo que provoca tensiones en el suministro de agua en años de sequía. En 2021, Taiwán sufrió la peor sequía en 56 años, y algunos condados y ciudades activaron el suministro de agua por zonas.
+La precipitación anual de Taiwán supera ampliamente la media mundial, pero el agua dulce disponible per cápita y año es de ~4.100 toneladas, inferior a la media mundial de ~5.900 toneladas[^4]: la lluvia se concentra en la estación de tifones (mayo-octubre, 78 %), y el relieve escarpado hace que el agua corra presto al mar, por lo que el volumen efectivamente utilizable dista mucho de la cifra bruta, generando tensión de suministro en años secos. En 2021 Taiwán sufrió la peor sequía en 56 años, con racionamiento zonal en varios condados/ciudades.
 
-### Diferencia entre épocas de aguas altas y bajas y regulación
+### Diferencia crecida-estiaje y regulación
 
-La diferencia entre las épocas de aguas altas y bajas en Taiwán es extrema: del 5 al 10 mes representa el 78 % de las precipitaciones anuales, mientras que del 11 al 4 mes solo representa el 22 %. En la estación seca, es común que los ríos del centro y sur se sequen. Para ello, Taiwán ha construido un sistema de almacenamiento de agua con el embalse Jade (río Xindian, fuente de agua de la gran Taipéi), el embalse Shimen (río Dahan, arteria vital de Taoyuan), el embalse Zengwen (el más grande del sur de Taiwán) y el embalse Deji (río Dajia, industria central) como columna vertebral. Se almacena agua en la temporada de lluvias y se distribuye en la estación seca.
+La brecha es enorme: mayo-octubre aporta el 78 % de la lluvia anual, noviembre-abril solo el 22 %; los ríos del centro y sur en estiaje a menudo se secan. Para regularlo, Taiwán construyó un sistema troncal de embalses: Feitsui (Xindian, fuente del Gran Taipéi), Shihmen (Dahan, vida de Taoyuan), Tsengwen (mayor del sur), Techi (Dajia, industria central), que almacenan en húmeda y liberan en seca.
 
-### Impacto de la urbanización en los ríos
+### Impacto de la urbanización sobre los ríos
 
-La urbanización ha sometido a los ríos a una triple presión: la canalización de los cauces, la contaminación por aguas residuales industriales y el aumento brusco de la escorrentía superficial. En las décadas de 1970 y 1980, la calidad del agua del río Tamsui se deterioró, llegando a ser conocido como el «río Negro»; el río Ai de Kaohsiung también se convirtió en un canal de aguas residuales. Desde la década de 1990, el gobierno inició la restauración de los ríos; la calidad del agua del río Tamsui se ha recuperado claramente, el río Ai se ha convertido en un modelo de ribera turística, y los antiguos cauces del río Lüchuan y del río Liuchuan en Taichung fueron transformados en corredores ribereños peatonales alrededor de 2018.
+La urbanización impone triple presión: canalización artificial, contaminación industrial y escorrentía superficial disparada. En los 70-80 el Tamsui se degradó hasta ser el «Heilongjiang»; el río Ai de Kaohsiung se volvió cloaca. Desde los 90 el gobierno impulsó saneamiento: el Tamsui mejoró notablemente, el Ai se transformó en referente de río turístico, y los antiguos cauces del Green River (綠川) y Liu River (柳川) en Taichung se reconvirtieron en 2018 en corredores peatonales ribereños.
 
-### Nuevos desafíos del cambio climático
+### Nuevo reto del cambio climático
 
-El cambio climático ha vuelto más extremas las diferencias entre las épocas de aguas altas y bajas, ha aumentado la frecuencia de lluvias torrenciales extremas y ha prolongado los períodos de sequía. En los últimos años, Taiwán ha impulsado sistemas de gestión inteligente de recursos hídricos, la construcción de plantas de agua regenerada y la gestión integral de las cuencas, intentando mantener la seguridad del suministro de agua en un futuro con precipitaciones más inestables.
+El cambio climático extrema la diferencia crecida-estiaje, aumenta la frecuencia de lluvias torrenciales y alarga los periodos secos. Taiwán impulsa últimamente sistemas inteligentes de gestión hídrica, plantas de agua regenerada y gestión integral de cuencas, buscando mantener la seguridad hídrica bajo precipitaciones más inestables.
 
-## Cultura fluvial y paisajes humanos
+## Cultura fluvial y paisaje humano
 
-### Ríos y desarrollo de los asentamientos
+### Ríos y formación de agglomerados
 
-Antes de la generalización de las carreteras y ferrocarriles, los ríos eran la arteria de transporte más importante de Taiwán. Monga (actual Wanhua) se desarrolló como el asentamiento comercial más próspero de Taiwán en la dinastía Qing gracias al transporte fluvial del río Tamsui; Lukang era la desembocadura de los productos agrícolas de la llanura de Zhanghua; Qishan se convirtió en el centro de distribución de plátanos del sur de Taiwán a finales del siglo XIX gracias al transporte fluvial del río Meilong hacia el puerto.
+Antes del ferrocarril, los ríos fueron la principal arteria de transporte. Monga (艋舺, hoy Wanhua) prosperó como mayor centro comercial del norte en la época Qing gracias al transporte fluvial del Tamsui; Lukang (鹿港) fue puerto de salida de los productos agrícolas de la llanura de Changhua. Los plátanos de Chishan (旗山) salían por ferrocarril azucarero y carretera al puerto de Kaohsiung; en los 60 el 60 % de los plátanos exportados a Japón provenían de Chishan, y en 1968 la exportación total alcanzó 36 millones de cajas, valiéndole a Chishan el título de «Reino del Plátano»[^19].
 
-Los espacios ribereños modernos se han transformado en corredores de recreación: el carril bici del río Tamsui conecta el lado occidental de la cuenca de Taipéi; los barcos de luces nocturnos del río Ai en Kaohsiung se han convertido en una tarjeta de presentación turística; el parque ribereño del río Hualien muestra la cultura tradicional del grupo Amis.
+Hoy los espacios ribereños mutan en corredores de ocio: la ciclovía del Tamsui une el flanco oeste de la cuenca de Taipéi; los barcos nocturnos iluminados del Ai son emblema turístico de Kaohsiung; el parque ribereño del Hualien exhibe la cultura tradicional amis.
 
-### Creencias fluviales y folclore
+### Creencias y costumbres fluviales
 
-En Taiwán se difunden múltiples creencias fluviales: Mazu, como diosa protectora del mar y los ríos, tiene templos portuarios construidos junto al agua; el rey Shuixian es la deidad del agua de los inmigrantes chinos han, con cultos en ciudades portuarias como Keelung y Tamsui. Los pueblos indígenas tienen sus propias ceremonias fluviales; por ejemplo, la ceremonia de pesca (ilisin) del grupo Amis, que se celebra cada año, está estrechamente relacionada con los arroyos.
+En el folklore taiwanés coexisten múltiples cultos fluviales: Mazu (媽祖), guardiana de mar y ríos, tiene templos portuarios junto al agua; el Rey de los Inmortales del Agua (水仙尊王), dios hídrico de los inmigrantes han, se venera en puertos como Keelung y Tamsui. Los pueblos originarios mantienen sus propios rituales de río y mar: los amis celebran cada mayo-junio el festival del mar o de la pesca (misacepo') en desembocaduras y playas, y desde julio el festival de la cosecha (ilisin) es su gran cita anual[^20].
 
-Los ríos son también un paisaje importante en la literatura de Taiwán: el río Meilong bajo la pluma de Zhong Lihe lleva la memoria rural hakka; el río Dajian en las obras de Yang Kui testifica el sufrimiento de los agricultores durante el período de la colonización japonesa; la obra _Sadness_ de Wu He explora el trauma indígena tomando como telón de fondo el río Hualien.
+Los ríos pueblan también la literatura taiwanesa: _La granja de Penghu_ (《笠山農場》) de Chung Li-ho (鍾理和) retrata la aldea hakka al pie de Meinong[^21]; _Tristeza_ (《悲傷》) de Wuhe (舞鶴) convierte en protagonista el pueblo de la desembocadura del Tamsui que una carretera está destripando[^22].
 
 ## Corredores ecológicos y biodiversidad
 
-### Importancia del ecosistema fluvial
+### Importancia de los ecosistemas fluviales
 
-Los ríos son el corredor biológico más crucial entre las montañas y el mar de Taiwán. Peces de arroyo como el _Trout_ amargo (kuei hua) y el _Bitterling_ de Taiwán migran río arriba para desovar; las aves rapaces y las aves migratorias migran a lo largo de las corrientes de aire de los valles fluviales; las semillas de las plantas se dispersan desde las altas montañas hasta las desembocaduras de los ríos en las llanuras a través del flujo de agua.
+Los ríos son el corredor biológico clave entre montaña y mar. El _Candidia barbata_ (苦花) y el _Opsariichthys pachycephalus_ (台灣石鮒) remontan para desovar; rapaces y migratorias siguen las corrientes ascendentes de los valles; semillas vegetales descienden de la alta montaña a llanuras y desembocaduras.
 
-Los ríos de Taiwán han dado origen a varias especies de peces de agua dulce endémicas: el _Trout_ de Taiwán (_Oncorhynchus masou formosanus_) solo sobrevive en el arroyo Qijiawan del río Dajia, siendo una especie relicta de la era glaciar; el _Bitterling_ de Taiwán se concentra en la cuenca del río Zhuoshui; el _Bitterling_ de cuerpo alto es la especie nativa dominante en los arroyos de toda la isla.
+Los ríos taiwaneses albergan múltiples peces de agua dulce endémicos: el salmón de Taiwán (Oncorhynchus masou formosanus) solo subsiste en el arroyo Chichiawan (七家灣溪) del Dajia, reliquia glacial; el _Spinibarbus hollandi_ (高身鯝魚 / 高身鏟頜魚) habita exclusivamente en corrientes meridionales y orientales de gran caudal y bloques, y desde 1989 figura como especie en peligro crítico junto al salmón cerezo (櫻花鉤吻鮭)[^23].
 
-### Tesoro de la ecología de la desembocadura
+### Tesoro ecológico de los estuarios
 
-La desembocadura de los ríos es la zona de encuentro entre agua salada y dulce, con la mayor biodiversidad. Los humedales de la costa de Changhua en la desembocadura del río Zhuoshui atraen anualmente a más de 100.000 aves migratorias, siendo uno de los puntos de paso más importantes del mundo para las aves limícolas de la familia Charadriidae; los humedales de Qianfan en la desembocadura del río Gaoping son el hábitat central del sur de Taiwán para el chorlito patinegro; el parque natural de Guandu en la desembocadura del río Tamsui es una zona de protección ecológica poco común en el área metropolitana.
+Las desembocaduras, donde agua dulce y salada se mezclan, concentran la mayor biodiversidad. El humedal costero de Changhua en la boca del Choshui es escala crucial para limícolas; el humedal de salinas abandonadas de Chiatin (茄萣) (junto al puerto de Singda, al sur de la boca del Erhjen 二仁溪, no en la del Kaoping) es uno de los cuarteles de invernada de la espátula de cara negra en el sur[^24]; el Parque Natural de Guandu (關渡自然公園) en la boca del Tamsui es raro refugio ecológico dentro del área metropolitana.
 
-## Conclusión: la sabiduría de la coexistencia entre el agua y la isla
+## Conclusión: la sabiduría de la simbiosis entre agua e isla
 
-El sistema fluvial de Taiwán muestra una complejidad geográfica sorprendente en una isla de pequeña superficie. Estos ríos cumplen simultáneamente las funciones de irrigación, generación de energía, suministro de agua urbano y corredores ecológicos, y registran las capas históricas desde las ceremonias de los pueblos indígenas, el desarrollo a gran escala por parte de los chinos han en 1709, la planificación del Gran Canal de Jiannan iniciada por Tada Yoshikazu en 1908, hasta la restauración ecológica contemporánea. La relación de los taiwaneses con los ríos ha evolucionado desde el transporte fluvial, la irrigación, la contaminación y la restauración, hasta el día de hoy.
+El sistema fluvial de Taiwán exhibe en una isla reducida una asombrosa complejidad geográfica. Estos ríos asumen a la vez riego, generación, suministro urbano y corredores ecológicos, y registran capas históricas que van de los rituales aborígenes a la colonización han de 1709, la inauguración en 1920 del [Canal Chianan (嘉南大圳)](/es/history/chianan-irrigation-canal/)[^25] y la actual restauración ecológica. La relación de los taiwaneses con sus ríos ha evolucionado del transporte y riego a la contaminación, el saneamiento y la actualidad.
 
-Ante el doble desafío del cambio climático y la urbanización, la gestión de los ríos de Taiwán avanza hacia una dirección más sostenible. Cómo encontrar un equilibrio entre el desarrollo y la protección, cómo hacer que los ríos vuelvan a ser el hermoso paisaje de las ciudades y cómo mantener la ecología de los ríos son las cuestiones centrales que enfrenta Taiwán ante el cambio climático.
+Ante el doble desafío del cambio climático y la urbanización, la gestión fluvial taiwanesa avanza hacia mayor sostenibilidad. Cómo equilibrar desarrollo y protección, cómo devolver a los ríos su belleza urbana, cómo salvaguardar su ecología: son los retos nucleares de Taiwán frente al cambio climático.
 
-Aunque los ríos de Taiwán son cortos, su significado natural y cultural es extremadamente profundo. Cada río es un libro de historia vivo, que registra la sabiduría de la coexistencia de esta isla con el agua y señala la dirección del desarrollo sostenible futuro.
+Aunque cortos, los ríos de Taiwán encierran un significado natural y humano profundísimo. Cada río es un libro de historia vivo, que narra la sabiduría de la simbiosis entre esta isla y el agua, y orienta el rumbo del desarrollo sostenible futuro.
 
 ## Referencias
 
-[^1]: Departamento de Hidráulica, [«Datos básicos de los ríos importantes de Taiwán»](https://www.wra.gov.tw/cp.aspx?n=3164).
+[^1]: [«Datos básicos de ríos de gestión central e interprovinciales»](https://www.wra.gov.tw/cp.aspx?n=3164) — Agencia de Recursos Hídricos del Ministerio de Asuntos Económicos
 
-[^2]: Cuarta División de Gestión de Ríos del Departamento de Hidráulica, [«Introducción a la cuenca del río Zhuoshui»](https://www.wra.gov.tw/wra04/cp.aspx?n=10967).
+[^2]: [«Introducción a la cuenca del Choshui»](https://www.wra.gov.tw/wra04/cp.aspx?n=10967) — Cuarta División de Agencia Fluvial
 
-[^3]: Wikipedia, [«Río Zhuoshui»](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA), [«Río Gaoping»](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%8F%E6%BA%AA), [«Río Tamsui»](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B2%B3).
+[^4]: [«La pesadilla persistente de la sequía: ¿por qué Taiwán, tan lluvioso, sigue enfrentando crisis hídricas?»](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — Enciclopedia Climática de la Administración Meteorológica Central
 
-[^4]: Oficina Central de Meteorología, [«Datos hidrológicos y meteorológicos de Taiwán»](https://www.cwa.gov.tw/).
+[^7]: [«Anuncio del ámbito de planes de gestión fluvial y terrenos de tratamiento de vías navegables: ríos anunciados divididos en gestión central, interprovincial y condal/ciudadana»](https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9279&s=10108&sms=9191) — Agencia de Recursos Hídricos del Ministerio de Asuntos Económicos
 
-[^5]: Departamento de Desarrollo Rural y Conservación de Suelos y Agua del Ministerio de Agricultura, [«Geomorfología y características hidrológicas de los ríos de Taiwán»](https://www.swcb.gov.tw/).
+[^8]: [«Origen de la construcción del embalse»](https://web.wra.gov.tw/jiji/cp.aspx?n=8792) — Centro de Gestión de la Presa de Chichi de la Agencia de Recursos Hídricos
 
-[^6]: Academia en la Nube de Hanlin, [«Datos geográficos de los ríos de Taiwán»](https://www.ehanlin.com.tw/).
+[^9]: [«Río Kaoping»](https://www.wra.gov.tw/wra07/cp.aspx?n=12494) — Séptima División de Agencia Fluvial
+
+[^10]: [«Presa de Kaoping»](https://www.wra.gov.tw/wrasb/cp.aspx?n=31317) — División de Recursos Hídricos del Sur de la Agencia de Recursos Hídricos
+
+[^11]: [«Del nacimiento a la desembocadura: 30 años de saneamiento del río Ai completados, abre nuevo capítulo ribereño del norte de Kaohsiung»](https://www.cw.com.tw/article/5138055) — Revista Tianxia
+
+[^12]: [«Arquitectura histórica de Tamsui - Fuerte Rojo»](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=331943) — Banco Nacional de Memoria Cultural
+
+[^13]: [«De puerto comercial a paisaje victorioso: la transformación de Tamsui en la época japonesa»](https://archives.ith.sinica.edu.tw/collections_con.php?no=229) — Archivo del Instituto de Historia de Taiwán de Academia Sinica
+
+[^14]: [«Río: la metamorfosis del Tamsui»](https://www.epd.ntpc.gov.tw/StaticPage/river-tamsui) — Oficina de Protección Ambiental del Gobierno de Nuevo Taipéi
+
+[^15]: [«Sistema fluvial del Dajia»](https://www.wra.gov.tw/wra03/cp.aspx?n=10468) — Tercera División de Agencia Fluvial
+
+[^16]: [«Yacimiento de Peinan en Taitung»](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=274387) — Banco Nacional de Memoria Cultural
+
+[^17]: [«Primer yacimiento de aldea de alta montaña descubierto en Taiwán: yacimiento de Chuping»](https://museum.sinica.edu.tw/knowledge-base/item/118/) — Museo de Artefactos Históricos del Instituto de Historia y Filología de Academia Sinica
+
+[^19]: [«Plátano delicado pero orgulloso: la historia del 'Reino del Plátano' contada desde el principio»](https://www.agriharvest.tw/archives/102002/) — AgriMedia（農傳媒專文）
+
+[^20]: [«Calendario de días festivos por rituales estacionales de pueblos originarios 2026»](https://www.cip.gov.tw/data/news/202511/T-01814499.pdf) — Consejo de Pueblos Originarios
+
+[^21]: [«Cronología literaria de Chung Li-ho»](https://cws.nmtl.gov.tw/home/zh-tw/chronology/550432) — Museo Nacional de Literatura de Taiwán
+
+[^22]: [«Tristeza»](https://toolkit.culture.tw/literatureinfo_155_93.html) — Portal Cultural de Taiwán
+
+[^23]: [«El Spinibarbus hollandi es especie de conservación»](https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=42723) — Portal de Conocimiento Agrícola del Ministerio de Agricultura
+
+[^24]: [«Humedal de Chiatin»](https://wetland.e-info.org.tw/file/south/2330) — Red de Humedales de Taiwán (Centro de Información Ambiental)
+
+[^25]: [«Canal Chianan»](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Agencia de Riego y Drenaje del Ministerio de Agricultura
