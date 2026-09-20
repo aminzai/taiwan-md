@@ -1,13 +1,13 @@
 ---
-title: 'Taiwan.md: Ressourcen der offiziellen Websites'
-description: 'Die Taiwan.md Website ist ein umfassender Index aller offiziellen und autoritativen Webseiten Taiwans, der Bereiche wie Regierungsorgane, Kultur und Bildung, Tourismus, Technologieökonomie und Medien abdeckt. Von der Präsidentschaft bis zu lokalen Regierungen, von Museen bis zum CCTV, bietet dieser Überblick die ersten offiziellen Zugänge nach Themenbereichen und erklärt die Überprüfungs- und Nutzungsweise jeder Ressource.'
+title: 'Taiwan.md Ressourcen: Ein Verzeichnis offizieller und autoritativer Websites Taiwans'
+description: 'Die Taiwan.md Website-Ressourcen sind das vollständigste Index von offiziellen und autoritativen Webseiten Taiwans, abgedeckt in Bereichen wie Regierungsorganisationen, Kultur und Bildung, Tourismus, Technologieökonomie und Mediennachrichten. Von der Präsidentschaft bis zu lokalen Regierungen, vom Nationalmuseum bis zum CCTV – dieser Überblick hilft Ihnen, die ersten offiziellen Einstiegspunkte für Taiwan nach Themen zu finden und erklärt die Überprüfungs- und Nutzungsweise jeder Ressource.'
 date: 2026-03-18
 tags:
   [
-    'about',
+    'überblick',
     'offizielle Ressourcen',
     'Website-Index',
-    'Regierungsorgane',
+    'Regierungsorganisationen',
     'Kultur und Bildung',
     'Tourismus',
     'Medien',
@@ -18,121 +18,122 @@ featured: false
 category: 'About'
 lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源.md'
-sourceCommitSha: '026e5b584'
-sourceContentHash: 'sha256:3a49c509011ce42d'
-sourceBodyHash: 'sha256:637002941419ff56'
-translatedAt: '2026-09-12T12:53:10+08:00'
+sourceCommitSha: '0f26e4f94'
+sourceContentHash: 'sha256:1f8dee6529992135'
+sourceBodyHash: 'sha256:97a705b00e6deea8'
+translatedAt: '2026-09-20T00:52:50+08:00'
 ---
 
-# Taiwan.md: Ressourcen der offiziellen Websites
+# Taiwan.md Ressourcen: Ein Verzeichnis offizieller und autoritativer Websites Taiwans
 
-Die Taiwan.md Website ist ein umfassender Index aller offiziellen/autoritativen Webseiten Taiwans und deckt Bereiche wie Regierungsorgane, Kultur und Bildung, Tourismus, Technologieökonomie und Medien ab.
+Die Taiwan.md Ressourcen sind das vollständigste Index von offiziellen und autoritativen Webseiten Taiwans, abgedeckt in Bereichen wie Regierungsorganisationen, Kultur und Bildung, Tourismus, Technologieökonomie und Mediennachrichten.
 
-## Klassifizierung der Ressourcen
+## Ressourcentypen
 
-### 🏛️ Regierungsbehörden
+### 🏛️ Offizielle Institutionen
 
-- **Zentralregierung**: Die fünf Säulen (Präsidentschaft, Executive Yuan, Legislative Yuan, Judicial Yuan etc.)
-- **Ministerien**: Ministerium für Gesundheit und Wohlfahrt, Ministerium für Arbeit, Umweltministerium, Landwirtschaftsministerium, Verteidigungsministerium, Justizministerium usw.
-- **Lokale Regierungen**: Die sechs Großstädte (Taipeh, New Taipei City, Taichung, Kaohsiung, Tainan, Taoyuan)
-- **Spezialorganisationen**: National Science and Technology Council (NSTC), Mainland Affairs Council (MAC), Indigenous Peoples Council usw.
+- **Zentralregierung**: Die fünf Säulen der Regierung (Präsidentschaft, Exekutive, Legislative, Judikative etc.)
+- **Ministerien**: Gesundheitsministerium, Arbeitsministerium, Umweltministerium, Landwirtschaftsministerium, Verteidigungsministerium, Justizministerium und andere.
+- **Lokale Regierungen**: Die sechs Großstädte (Taipeh, New Taipei, Taichung, Kaohsiung, Tainan, Taoyuan).
+- **Spezialinstitutionen**: Nationales Entwicklungsrat, Landwirtschaftsministerrat, indigene Volksgruppenvereinigungen und andere.
 
 ### 🎭 Kultur und Bildung
 
-- **Museen**: National Palace Museum, Taiwan History Museum, Museum für Naturwissenschaften, Meeresmuseum, Taiwanesisches Literaturmuseum
-- **Führende Universitäten**: National Taiwan University (NTU), National Tsing Hua University (NTHU), National Yang Ming Chiao Tung University (NYCU), National Cheng Kung University (NCKU), National Chengchi University (NCCU), National Taiwan Normal University (NTNU)
-- **Forschungsinstitute**: Academia Sinica, National Science and Technology Council (NSTC)
-- **Kulturinstitutionen**: National Theater and Art Center, Wufeng Cultural and Arts Center, Taiwan Creative Works Development Foundation
+- **Museen**: Nationalmuseum (Formosa), Taiwan Geschichtsmuseum, Museum für Naturwissenschaften, Meeresbiologisches Museum, Taiwanesches Literaturmuseum.
+- **Führende Universitäten**: National Taiwan University (NTU), National Tsing Hua University (NTHU), National Yang Ming Chiao Tung University (NYCU), National Cheng Kung University (NCKU), National Chengchi University (NCCU), National Taiwan Normal University (NTNU).
+- **Forschungsinstitutionen**: Academia Sinica, Nationales Wissenschaftsrat.
+- **Kulturinstitutionen**: Taiwan Performing Arts Center, Wewoo Cultural and Arts Center, Kulturförderungszentrum.
 
 ### ✈️ Tourismus und Reisen
 
-- **Nationalparks**: Yushan, Taroko, Kenting, Xueba, Yangmingshan
-- **Transportwesen**: Taiwan Railways (TRA), High Speed Rail (HSR), Taiwan Tourist Shuttle
-- **Offizielle Stellen**: Taiwan Tourism Bureau, Immigration Agency, Ministry of Transportation and Communications, Central Weather Agency
+- **Nationalparks**: Yushan, Taroko, Kenting, Xueba, Yangmingshan.
+- **Transportmittel**: Taiwan Railways (TRA), High Speed Rail (HSR), Taiwan Tourist Shuttle.
+- **Offizielle Stellen**: Nationales Tourismusamt, Einwanderungsbehörde, Ministerium für Verkehr, Meteorologisches Amt.
 
 ### 💼 Technologie und Wirtschaft
 
-- **Schlüsselunternehmen**: TSMC, UMC, Foxconn, Delta Electronics
-- **Forschungs-/Entwicklungsinstitute**: Industrial Technology Research Institute (ITRI), National Research Institutes
-- **Finanzinstitutionen**: Taiwan Stock Exchange (TWSE), Commodity Exchange Center (TSE), Financial Supervisory Commission (FSC)
-- **Regierungsbehörden**: Ministry of Economic Affairs, Trade Bureau, Small and Medium Enterprise Administration
+- **Schlüsselunternehmen**: TSMC, United Microelectronics Corporation (UMC), Foxconn, Delta Electronics.
+- **F&E-Institutionen**: Taiwan Institute of Industrial Technology (TIIT), Nationales Forschungsinstitut, Industrial Research Institute.
+- **Finanzinstitutionen**: Taiwan Stock Exchange (TWSE), OTC Market, Finanzaufsichtsbehörde.
+- **Regierungsstellen**: Ministerium für Wirtschaft, Handelsamt, Klein- und Mittelstandsamt.
 
 ### 📰 Medien und Nachrichten
 
-- **Offizielle Medien**: Central News Agency (CNA), CCTV, Taiwan Broadcasting Corporation (TBC), Focus Taiwan
-- **Mainstream-Medien**: United Daily News, Liberty Times, TVBS, Sanli, ETtoday
-- **Digitale Medien**: Key Opinion Network, Reporter, Asia Times
+- **Offizielle Medien**: Central News Agency (CNA), CCTV, Taiwan Broadcast Network (TBN), Focus Taiwan.
+- **Mainstream-Medien**: United Daily News, Liberty Times, TVBS, Sanli, Eastson.
+- **Digitale Medien**: Key Opinion Network, Reporter, Asia Times.
 
 ### 🏥 Medizin und Gesundheit
 
-- **Regierungsbehörden**: CDC (Center for Disease Control), National Health Insurance Agency
-- **Medizinische Zentren**: NTUH, Veterans General Hospital, Chang Gung Medical System
+- **Regierungsstellen**: Gesundheitsaufsichtsbehörde, Krankenversicherungsbehörde.
+- **Medizinische Zentren**: NTU Hospital, Veterans General Hospital (VGH), Chang Gung Medical System.
 
 ### 🤝 NGOs / Zivilgesellschaft
 
-- **Menschenrechtsorganisationen**: Taiwan Human Rights Promotion Foundation
-- **Umweltschutzgruppen**: Environmental Information Center, Wilderness Protection Association
-- **Digitale Rechte**: Open Culture Foundation
-- **Medienüberwachung**: Taiwan Fact Check Center
+- **Menschenrechtsorganisationen**: Taiwan Human Rights Promotion Foundation.
+- **Umweltschutzgruppen**: Environmental Information Center, Wilderness Protection Association.
+- **Digitale Rechte**: Open Culture Foundation.
+- **Medienüberwachung**: Taiwan Fact Check Center.
 
-### 🎭 Kulturelle Veranstaltungsorte
+### 🎭 Kulturstätten
 
-- **Museen/Galerien**: MoMA (National Museum of Art), Kaohsiung Museum of Fine Arts
-- **Veranstaltungsstätten**: National Theater of Taiwan
-- **Kreativparks**: Songyan, Huashan, Pier-2
+- **Museen/Galerien**: National Museum of Taiwan (North America), Kaohsiung Museum of Fine Arts.
+- **Bühnen**: Taiwan National Opera and Ballet.
+- **Kreativzonen**: Songyan, Huashan, Pier-2 Art Center.
 
 ### 🤖 KI-Daten und offene Daten
 
-- **[Taiwan AI Training Corpus (TAIC)](https://taic.moda.gov.tw)**: Gefördert vom Ministerium für digitale Entwicklung. Es enthält qualitativ hochwertige traditionelle chinesische Datensätze von zentralen Behörden mit über 3000 Datensätzen und mehr als 1 Milliarde Tokens, abgedeckt in sechs Kategorien wie Kulturkunst, Sprache und Vokabular, historische Artefakte, lokale Kultur, Tourismus und Bildung. Unternehmen und Forschungseinrichtungen können eine Nutzung beantragen. Die Zusammenarbeit mit der Zivilgesellschaft wird in der zweiten Jahreshälfte 2026 ausgebaut.
-- **Regierungsplattformen**: Open Government Data Platform (data.gov.tw), Regierungsportal
-- **Gesetzesabfrage**: Nationale Datenbank für Gesetze
-- **Bürgerbeteiligung**: g0v Zero-Hour Government
-- **Kulturerbe**: Heritage Taiwan, National Cultural Memory Bank
+- **[KI-Trainingsdatensatz für die Souveränität Taiwans (TAIC)](https://taic.moda.gov.tw)**: Gefördert vom Ministerium für digitale Entwicklung, sammelt dieser Datensatz chinesische Schriftzeichenkorpora verschiedener Behörden. Bei der offiziellen Einführung im Dezember 2025 wurden über 200 Regierungsbehörden beteiligt und mehr als 2 Milliarden Datenmengen (Datasets) sowie über 600 Millionen Tokens hochgeladen[^1]; die Themen umfassen Kulturkunst, Vokabular, historische Artefakte, lokale Kultur, Tourismus und Bildung[^2]. Es dient derzeit der Katastrophenprävention und dem Umweltschutz. Entwickler, Forschungseinrichtungen und Schulen können Online-Konten beantragen; das Ministerium für digitale Entwicklung kündigte eine Zusammenarbeit mit zivilgesellschaftlichen Gruppen in Phase Drei an[^1].
+- **Regierungsplattformen**: Open Government Data Platform (data.gov.tw), Regierungsportal.
+- **Gesetzesabfragen**: Nationale Datenbank für Gesetze.
+- **Bürgerbeteiligung**: g0v Zero Hour Government.
+- **Kulturelles Erbe**: Digitales Archiv Taiwans, Nationales Kulturgedächtnis.
 
-## Statistiken (März 2026)
+## Statistiken (September 2026)
 
-- **Anzahl der Websites**: Über 180 offizielle/autoritative Websites
-- **Anzahl der Kategorien**: 12 große Kategorien
-- **Abdeckungsbereich**: Alle Bereiche wie Regierung, Bildung, Kultur, Technologie, Medien, Gesundheit, Zivilgesellschaft, Kunst und Sport, Transport, Unternehmen usw.
+Die Zahlen basieren auf dem Echtzeit-Zähler der Seite [/resources](https://taiwan.md/resources); dies ist ein Schnappschuss zum Zeitpunkt dieser Aktualisierung:
+
+- **Gesamtzahl der Websites**: Ungefähr 170 offizielle/autoritative Websites.
+- **Kapitel**: 5 Kapitel (Staatsführung, Kultur und Wissen, Die Stimme Taiwans, Wirtschaft und Leben, Bürgertechnologie und Gesellschaft), mit insgesamt 17 Unterkategorien.
+- **Kernauswahl**: 34 Websites werden in der interaktiven Mindmap angezeigt.
 
 ### Detaillierte Verteilung
 
-- **Lokale Regierungen**: 22 Bezirksverwaltungen
-- **Universitäten/Forschungsinstitute**: 10 führende Universitäten + 5 Forschungsinstitute
-- **Nationalparks**: 9 Nationalparks und Landschaftsschutzgebiete
-- **Kulturelle Veranstaltungsorte**: 13 wichtige Museen, Galerien und Spielstätten
-- **Medizin/Gesundheit**: 8 Gesundheitsbehörden und medizinische Einrichtungen
-- **NGOs/Zivilgesellschaft**: 8 wichtige gemeinnützige Organisationen
-- **Ministerialabteilungen**: 16 zentrale Regierungsstellen
-- **Schlüsselunternehmen**: 7 führende Unternehmen und Technologiekonzerne
-- **Traditionelle Medien**: 11 Mainstream-Nachrichtenmedien
-- **Transportwesen**: 6 öffentliche Verkehrs- und Transportdienste
-- **Digitale Kultur**: 4 digitale Archiv- und Wissenschaftsplattformen
-- **Kernauswahl**: 48 der wichtigsten Websites (angezeigt in der Mindmap)
+- **Staatsführung**: Fünf Säulen (6), Ministerien/Behörden (23), Städte und Bezirke (22), Open Data Plattformen (4).
+- **Kultur und Wissen**: Universitäten und Forschungsinstitutionen (14), Museen (8), Kulturstätten (12), Nationalparks und Landschaften (13).
+- **Die Stimme Taiwans**: Mainstream-Medien (15), Digitale Medien (6), NGOs und zivilgesellschaftliche Gruppen (8).
+- **Wirtschaft und Leben**: Schlüsselunternehmen (9), Transportmittel (6), Medizin und Gesundheit (7), Finanzinstitutionen (3).
+- **Bürgertechnologie und Gesellschaft**: Open-Source- und Bürgertechnologieprojekte (10), Esskultur (2).
 
 ## Datenquellen und Verifizierung
 
-Alle erfassten Websites wurden folgenden Prüfungen unterzogen:
+Alle aufgeführten Websites wurden folgenden Prüfungen unterzogen:
 
-1. Überprüfung der korrekten URL
-2. Bestätigung des offiziellen/autoritativen Status
-3. Test der Webseiten-Erreichbarkeit
-4. Prüfung der Inhaltsvollständigkeit
+1. Überprüfung der URL-Korrektheit.
+2. Bestätigung des offiziellen/autoritativen Status.
+3. Test der Website-Erreichbarkeit.
+4. Prüfung der Inhaltsvollständigkeit.
 
 ## Aktualisierung und Wartung
 
 Die Ressourcenliste wird regelmäßig aktualisiert, um sicherzustellen:
 
-- Die rechtzeitige Aufnahme neu gegründeter Organisationen
-- Die sofortige Aktualisierung bei Änderungen der URLs
-- Die zeitnahe Bereinigung ungültiger Links
-- Die kontinuierliche Optimierung der Kategoriestruktur
+- Die rechtzeitige Aufnahme neu gegründeter Institutionen.
+- Die sofortige Aktualisierung bei Adressänderungen.
+- Die zeitnahe Bereinigung von ungültigen Links.
+- Die kontinuierliche Optimierung der Klassifikationsstruktur.
 
 ## Nutzungsanleitung
 
 Der Besuch der [Taiwan.md Ressourcenseite](https://taiwan.md/resources) ermöglicht:
 
-- Durchsicht der vollständigen Website-Liste
-- Erkundung mittels interaktiver Mindmap
-- Schnelles Springen zu den Zielwebsites
-- Verständnis der Funktionsbeschreibung jeder Organisation
+- Durchsicht der vollständigen Website-Liste.
+- Erkundung mittels interaktiver Mindmap.
+- Schnelles Springen zu den Zielwebsites.
+- Verständnis der Funktionsbeschreibung jeder Institution.
+
+## Referenzen
+
+[^1]: [Offizielle Einführung des KI-Trainingsdatensatzes für die Souveränität Taiwans, Online-Anträge ab sofort möglich](https://www.cna.com.tw/news/afe/202512240226.aspx) — CNA, 2025-12-24: Über 200 Institutionen, mehr als 2 Milliarden Datenmengen und über 600 Millionen Tokens; Phase Drei wird mit zivilgesellschaftlichen Gruppen zusammenarbeiten.
+
+[^2]: [KI-Trainingsdatensatz für die Souveränität Taiwans | Spezifische Nutzung](https://moda.gov.tw/digital-affairs/plural-innovation/operations/18874) — Ministerium für digitale Entwicklung: Kooperation mit über 200 Institutionen wie dem Bildungsministerium, Kulturministerium, indigenen Volksgruppenvereinigungen und Hakka-Komitees; Themenkorpuskategorien.

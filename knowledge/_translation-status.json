@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T08:01:26+08:00",
-    "zhCommitHead": "f9ba57e4a",
+    "lastUpdated": "2026-09-20T08:19:04+08:00",
+    "zhCommitHead": "0d0f2b81f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 952,
+        "fresh": 951,
         "stale": 52,
         "metadata_stale": 11,
-        "missing": 109,
+        "missing": 110,
         "orphan": 0
       },
       "ar": {
@@ -35461,8 +35461,8 @@
           "sourceContentHash": "sha256:3041eabbe02feebf",
           "sourceBodyHash": "sha256:71f7a0b38a49387b",
           "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "66e8626f",
-          "translationLastModified": "2026-08-09T07:49:34+08:00",
+          "translationLastCommit": "0d0f2b81",
+          "translationLastModified": "2026-09-20T08:01:30+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -39748,8 +39748,8 @@
           "sourceContentHash": "sha256:029227bd7721737f",
           "sourceBodyHash": "sha256:0c3be7e5f653ab89",
           "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "0d0f2b81",
+          "translationLastModified": "2026-09-20T08:01:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -41864,8 +41864,8 @@
           "sourceContentHash": "sha256:b34cbc0681b4b3a1",
           "sourceBodyHash": "sha256:4439d8751309731f",
           "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "0d0f2b81",
+          "translationLastModified": "2026-09-20T08:01:30+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -67094,8 +67094,8 @@
           "sourceContentHash": "sha256:1f8dee6529992135",
           "sourceBodyHash": "sha256:97a705b00e6deea8",
           "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "c732d67a",
-          "translationLastModified": "2026-07-27T11:46:50+08:00",
+          "translationLastCommit": "0d0f2b81",
+          "translationLastModified": "2026-09-20T08:01:30+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
@@ -162215,18 +162215,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-20T00:52:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
