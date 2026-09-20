@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T21:09:54+08:00",
-    "zhCommitHead": "c28347ff5",
+    "lastUpdated": "2026-09-20T21:38:17+08:00",
+    "zhCommitHead": "8863ec2bd",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 19,
         "metadata_stale": 4,
-        "missing": 286,
+        "missing": 285,
         "orphan": 0
       }
     },
@@ -17084,8 +17084,8 @@
     },
     "Economy/農業科技與精緻農業.md": {
       "zh": {
-        "lastCommit": "369298ab",
-        "lastModified": "2026-07-19T10:05:46+08:00",
+        "lastCommit": "83cd5d0f",
+        "lastModified": "2026-09-20T15:08:20+08:00",
         "contentHash": "sha256:5226e0cd696e818f",
         "bodyHash": "sha256:3697d708565efd02"
       },
@@ -51142,7 +51142,18 @@
           "diffSummary": "+1 -0"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-design-research-institute.md",
+          "translatedFrom": "Society/台灣設計研究院.md",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:31f2d67654f5ca72",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T12:54:47.320201+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -161507,8 +161518,8 @@
     },
     "Geography/台灣島嶼地理特色與形成.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
+        "lastCommit": "754685ed",
+        "lastModified": "2026-09-20T15:08:35+08:00",
         "contentHash": "sha256:d82f573c8035bd6e",
         "bodyHash": "sha256:e12316843009e7dd"
       },
@@ -162677,8 +162688,8 @@
     },
     "Geography/台灣農業地景與產業分布.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
+        "lastCommit": "b349895a",
+        "lastModified": "2026-09-20T21:01:56+08:00",
         "contentHash": "sha256:88ba75169cfa45ae",
         "bodyHash": "sha256:9f28d4872bf9c477"
       },
@@ -165921,8 +165932,8 @@
     },
     "Geography/台灣五大地形與地理結構.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
+        "lastCommit": "14fb95e7",
+        "lastModified": "2026-09-20T15:08:34+08:00",
         "contentHash": "sha256:51364b574313e11f",
         "bodyHash": "sha256:aa95a7b2cb0e4dcb"
       },
@@ -167573,8 +167584,8 @@
     },
     "Geography/城市特色與區域文化.md": {
       "zh": {
-        "lastCommit": "2850f17b",
-        "lastModified": "2026-07-19T09:52:54+08:00",
+        "lastCommit": "fe34418b",
+        "lastModified": "2026-09-20T21:02:33+08:00",
         "contentHash": "sha256:7dadbaf276fb07ab",
         "bodyHash": "sha256:755b0e65ac133cb0"
       },
@@ -168922,8 +168933,8 @@
     },
     "Geography/台灣河川系統與水文特色.md": {
       "zh": {
-        "lastCommit": "70372d3a",
-        "lastModified": "2026-07-19T09:54:56+08:00",
+        "lastCommit": "ff1ce7d6",
+        "lastModified": "2026-09-20T21:01:39+08:00",
         "contentHash": "sha256:f2ac5aec701df4d2",
         "bodyHash": "sha256:4cdc3e89f08b13d3"
       },

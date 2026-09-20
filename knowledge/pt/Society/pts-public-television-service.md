@@ -24,10 +24,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Public_Television_Service_B_Building_20240316.jpg'
 rationale: "{'why_this_hook': '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。', 'whats_excluded': 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。', 'where_it_hedges': '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。', 'whos_pushing_back': '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'}"
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '81f10131f'
-sourceContentHash: 'sha256:5d55767b0e73ce88'
-sourceBodyHash: 'sha256:55150dbbe846399a'
-translatedAt: '2026-07-27T01:41:51+08:00'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:672f8b4df1c422b7'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
+translatedAt: '2026-09-20T13:08:35.204863+00:00'
 ---
 
 > **Visão geral em 30 segundos:**
@@ -151,33 +151,35 @@ O encerramento da CPB, ocorrido no mesmo ano do caos do corte orçamentário de 
 
 Colocando a PTS de 23 bilhões nesse mapa global: BBC 67 vezes, NHK 54 vezes, KBS cerca de 20 vezes, CPB (antes do encerramento) 7 vezes. O volume de recursos da mídia pública de Taiwan nunca entrou de fato no nível de "mídia pública de médio porte", mas sua produção de conteúdo (_The Magician on the Skywalk_, _O Mundo Entre Nós_, _Seqalu: Formosa 1867_ em coprodução internacional ou licenciamento reverso) já superou em múltiplas dimensões o limite de escala. Essa discrepância é o over-performance de Taiwan, e também a raiz da fragilidade da mídia pública taiwanesa: depende demais das escolhas pessoais de alguns roteiristas, diretores, produtores; não tem o pipeline de produção de conteúdo institucionalizado da BBC/NHK.
 
-## O papel de prova de 28 anos
+## 28 anos de papel de proveta
 
-Voltemos aos 30 minutos de 7 de maio de 2026.
+De volta aos 30 minutos de 7 de maio de 2026.
 
-Quando Hu Yuan-hui se levantou e saiu do plenário, ele foi o segundo presidente na história da mídia pública de Taiwan expulso do cargo por pressão política (o primeiro foi Feng Hsien-hsien em 2010, embora na condição de diretor-geral). 16 anos de intervalo.
+Quando Hu Yuan-hsiung se levantou e abandonou o plenário, ele era o segundo presidente da história da televisão pública de Taiwan a ser afastado por pressão política (o primeiro foi Feng Hsien-hsien em 2010, embora seu cargo fosse o de diretor-geral). O intervalo entre os dois casos foi de 16 anos.
 
-Da estreia em 1º de julho de 1998 à expulsão do plenário em 7 de maio de 2026, a PTS percorreu 28 anos. No meio, 23 anos de maldição dos 9 bilhões, 3 anos de emenda para descongelamento, 19 meses depois nova mira política. A maldição quebrada não equivale a arrancar o anel dourado da cabeça de Sun Wukong. A qualquer momento, um novo feitiço pode ser recitado.
+De 1 de julho de 1998, data do lançamento, aos 7 de maio de 2026, data da expulsão do plenário, a PTS percorreu 28 anos. Nesses anos, sofreu nove anos de restrições orçamentárias, três anos de reformas legislativas para descongelar o orçamento, e, 19 meses depois, um novo alvo político. Mas remover ou congelar o orçamento de nove bilhões não significa tirar a coroa de ouro da cabeça de Sun Wukong. A qualquer momento, um novo feitiço pode ser lançado novamente.
 
-Mas em 28 anos, essa instituição também acumulou coisas que nem a liberação nem o congelamento dos 9 bilhões mudam:
+Entretanto, ao longo de 28 anos, a instituição também acumulou algo que nenhum orçamento — seja congelado ou desbloqueado — pode alterar:
 
-500 documentários nacionais estreados pela PTS[^21], 5 dramas-âncora que abalaram a sociedade, 1,22 milhão de assinantes do streaming PTS+[^42], parceria com o Centro de Verificação de Fatos de Taiwan contra deepfakes nas diretrizes editoriais[^43], cooperação com o Conselho Hakka, Conselho Indígena, Ministério da Cultura para estabelecer o mapa de canais multilíngues. Essas coisas foram acumuladas caso a caso, ao longo de 28 anos, por várias gerações de trabalhadores da televisão; o valor do orçamento em si não compra.
+500 documentários de estreia da PTS[^21], cinco séries de televisão de impacto social, 1,22 milhões de assinantes do serviço de streaming PTS+[^42], diretrizes de produção e jornalismo colaboradas com o Centro de Verificação de Fatos de Taiwan para combater desinformação e notícias falsas[^43], e uma presença em canais multilíngues estabelecida em parceria com a Comissão Hakka, a Comissão de Línguas Indígenas e o Ministério da Cultura. Tudo isso foi construído caso a caso por gerações de profissionais da televisão, e nenhum montante orçamentário pode comprar isso.
 
-Relatório de Notícias Digitais 2024 do Instituto Reuters: confiança geral na mídia em Taiwan 33%, Ásia-Pacífico apenas acima dos 31% da Coreia do Sul. Mas nesse ambiente de baixa confiança geral, a PTS é listada como "uma das marcas mais confiáveis"[^43]. Um canal que ninguém assiste, faz dramas de cura coletiva nacional; uma instituição com orçamento 1/67 da BBC, é listada pelos leitores como marca mais confiável.
+Segundo o relatório de 2024 da Reuters Institute sobre notícias digitais, a confiança geral do público taiwanês na mídia é de 33%, o que coloca Taiwan acima apenas da Coreia do Sul (31%) na região da Ásia-Pacífico. Mas mesmo em um ambiente de baixa confiança, a PTS foi eleita como uma das marcas mais confiáveis[^43]. Um canal que ninguém assiste, mas que produz dramas que curam coletivamente o país. Uma instituição cujo orçamento é apenas 1/67 do da BBC, mas que é considerada uma das marcas mais confiáveis.
 
-A verdadeira pergunta da PTS em 28 anos não é "temos dinheiro suficiente", é "somos maduros o suficiente" — maduros o suficiente para sustentar um espaço público que não serve à publicidade nem ao governo? Essa pergunta atualmente não tem resposta. O corte de janeiro de 2025 e a expulsão do plenário em maio de 2026 fazem a mesma pergunta.
+Ao longo de 28 anos, a verdadeira pergunta que a PTS faz não é “será que temos dinheiro suficiente?”, mas sim “será que somos maduros o suficiente?” — maduros o suficiente para suportar um espaço público que não serve a anúncios nem ao governo? Essa pergunta ainda não tem resposta. Tanto o corte orçamentário de janeiro de 2025 quanto a expulsão do plenário em maio de 2026 fazem a mesma pergunta.
 
-Talvez os próximos 28 anos deem a resposta. Talvez não. Mas uma coisa os 28 anos já provaram: o fato de a PTS continuar a cada ano fazendo a existência dessa pergunta, por si só, já é o papel de prova do grau de maturidade da democracia de Taiwan.
+Talvez os próximos 28 anos forneçam a resposta. Talvez não. Mas uma coisa que a PTS já provou ao longo de 28 anos: o simples fato de fazer essa pergunta todos os anos é, por si só, um teste de pH da maturidade democrática de Taiwan.
 
-**Leitura complementar**:
+**Leituras recomendadas**:
 
-- [Mídia e liberdade de imprensa em Taiwan](/pt/society/media-and-press-freedom-in-taiwan) — A PTS como elo do ecossistema midiático, interação com o ambiente geral de liberdade de imprensa
-- [CommonWealth Magazine](/society/天下雜誌) — Como a mídia de negócios resolve a mesma questão difícil "a mídia deve responder a quem", sobrevivendo com assinantes pagos e ecossistema corporativo, em contraponto ao caminho de orçamento público da PTS
-- [Variedades de Taiwan](/pt/culture/taiwan-variety-shows) — Em contraponto aos programas de variedade da TV comercial, entender por que a PTS escolhe fazer drama e documentário
-- [Trilha sonora do audiovisual de Taiwan](/music/台灣影視配樂) — A posição das trilhas dos dramas-âncora da PTS na indústria musical de Taiwan
-- [Animação por encomenda de Taiwan](/pt/economy/taiwan-creator-economy) — Em contraponto à indústria de IP comercial, a lógica diferente da PTS na escolha de temas de animação
-- [Festas e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) — A contribuição de longo prazo do documentário _Perspectiva Documental_ da PTS para a preservação da memória cultural de Taiwan
-- [Instituto de Pesquisa de Design de Taiwan](/society/台灣設計研究院) — Outra entidade de direito público que caminha na corda bamba entre "ser vista" e publicidade, transformando design em método de o governo servir o povo
+- [Mídia e liberdade de imprensa em Taiwan](/pt/society/media-and-press-freedom-in-taiwan) — A PTS como parte da ecologia da mídia e sua interação com o ambiente geral de liberdade de imprensa
+- [Revista Common Wealth](/pt/society/commonwealth-magazine) — Como a mídia comercial enfrenta o mesmo dilema de “para quem a mídia deve ser responsável”, sobrevivendo com assinantes pagos e ecossistema corporativo, contrastando com o caminho de orçamento público da PTS
+- [Programas de variedades em Taiwan](/pt/culture/taiwan-variety-shows) — Em contraste com os programas de variedades das emissoras comerciais, entendendo por que a PTS opta por produzir dramas e documentários
+- [Trilhas sonoras de Taiwan no cinema e nos jogos](/pt/music/taiwan-screen-scoring-from-cinema-to-games) — A posição das trilhas sonoras das séries da PTS na indústria musical de Taiwan
+- [Dublagem e produção de animação em Taiwan](/pt/economy/taiwan-creator-economy) — Em contraste com a indústria comercial de IP, a lógica diferente da PTS na escolha de temas de animação
+- [Festivais e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) — A contribuição de longa data dos documentários da PTS, como _Document Point_, para a preservação da memória cultural de Taiwan
+- [Instituto de Pesquisa de Design de Taiwan](/pt/society/taiwan-design-research-institute) — Outra instituição sem fins lucrativos que caminha por um corda bamba entre a visibilidade e a natureza pública, transformando design em um meio pelo qual o governo serve o povo
+- [Prêmio Golden Bell](/culture/金鐘獎) — Desde _Once Upon a Time_ em 2000 até as seis indicações na 61ª edição, como a categoria de “programa de drama premiado” registra a PTS, e também sua tripla identidade de emissora, produtora e concorrente
+  </arg_value></tool_call>
 
 ## Fontes das imagens
 
