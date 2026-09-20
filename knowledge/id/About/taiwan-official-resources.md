@@ -1,14 +1,14 @@
 ---
-title: 'Situs Web Resmi Taiwan'
-description: 'Sumber situs web resmi Taiwan.md adalah indeks situs web resmi dan otoritatif terlengkap di Taiwan, mencakup lembaga pemerintah, budaya dan pendidikan, pariwisata, teknologi dan ekonomi, serta media dan berita. Dari Gedung Presiden hingga pemerintah daerah, dari Istana Peking hingga Televisi Publik, panduan komprehensif ini membawa Anda menemukan pintu masuk resmi utama Taiwan berdasarkan bidang, serta menjelaskan cara verifikasi dan penggunaan setiap jenis sumber daya.'
+title: 'Sumber Situs Web Resmi Taiwan'
+description: 'Sumber situs web Taiwan.md adalah indeks situs resmi dan otoritatif terlengkap di Taiwan, mencakup berbagai bidang seperti lembaga pemerintah, pendidikan budaya, pariwisata, ekonomi teknologi, dan berita media. Dari Istana Presiden hingga pemerintah daerah, dari Pengadilan Nasional hingga CCTV, ringkasan ini membantu Anda menemukan pintu masuk resmi pertama untuk setiap kategori sumber berdasarkan domain, serta menjelaskan cara verifikasi dan penggunaan setiap jenis sumber.'
 date: 2026-03-18
 tags:
   [
     'tentang',
-    'sumber daya resmi',
+    'sumber resmi',
     'indeks situs web',
     'lembaga pemerintah',
-    'budaya dan pendidikan',
+    'pendidikan budaya',
     'pariwisata',
     'media',
   ]
@@ -18,121 +18,122 @@ featured: false
 category: 'About'
 lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源.md'
-sourceCommitSha: '026e5b584'
-sourceContentHash: 'sha256:3a49c509011ce42d'
-sourceBodyHash: 'sha256:637002941419ff56'
-translatedAt: '2026-07-27T09:40:32+08:00'
+sourceCommitSha: '0f26e4f94'
+sourceContentHash: 'sha256:1f8dee6529992135'
+sourceBodyHash: 'sha256:97a705b00e6deea8'
+translatedAt: '2026-09-20T00:52:42+08:00'
 ---
 
-# Situs Web Resmi Taiwan
+# Sumber Situs Web Resmi Taiwan
 
-Sumber situs web resmi Taiwan.md adalah indeks situs web resmi/otoritatif terlengkap di Taiwan, mencakup lembaga pemerintah, budaya dan pendidikan, pariwisata, teknologi dan ekonomi, serta media dan berita.
+Sumber situs web Taiwan.md adalah indeks situs resmi/otoritatif terlengkap di Taiwan, mencakup berbagai bidang seperti lembaga pemerintah, pendidikan budaya, pariwisata, ekonomi teknologi, dan berita media.
 
-## Klasifikasi Sumber Daya
+## Klasifikasi Sumber
 
-### 🏛️ Lembaga Resmi
+### 🏛️ Lembaga Pemerintah
 
-- **Pemerintah Pusat**: Gedung Presiden, Yuan Eksekutif, Yuan Legislatif, Yuan Yudikatif, dan lima yun lainnya
-- **Kementerian dan Komisi**: Kementerian Kesehatan dan Kesejahteraan, Kementerian Tenaga Kerja, Kementerian Lingkungan Hidup, Kementerian Pertanian, Kementerian Pertahanan, Kementerian Kehakiman, dll.
-- **Pemerintah Daerah**: Enam kota metropolitan (Taipei, Taipei Baru, Taichung, Kaohsiung, Tainan, Taoyuan)
-- **Lembaga Khusus**: Komisi Pembangunan Nasional, Komisi Daratan, Komisi Urusan Orang Asli, dll.
+- **Pemerintah Pusat**: Lima badan yudikatif (Istana Presiden, Yuan Eksekutif, Legislatif, Yudisial)
+- **Kementerian**: Kementerian Kesehatan, Tenaga Kerja, Lingkungan Hidup, Pertanian, Pertahanan, Kehakiman, dll.
+- **Pemerintah Daerah**: Pemerintah enam kota besar (Taipei, New Taipei, Taichung, Kaohsiung, Tainan, Taoyuan)
+- **Lembaga Khusus**: Dewan Nasional untuk Pengembangan Ekonomi, Komisi Lahan dan Sumber Daya Alam, Asosiasi Masyarakat Adat, dll.
 
 ### 🎭 Budaya dan Pendidikan
 
-- **Museum**: Istana Peking, Museum Sejarah Nasional Taiwan, Museum Sains Alam, Museum Biota Laut, Museum Literatur Taiwan
-- **Universitas Terkemuka**: Universitas Nasional Taiwan, Universitas Nasional Tsing Hua, Universitas Nasional Yang Ming Chiao Tung, Universitas Nasional Cheng Kung, Universitas Politik Nasional, Universitas Pendidikan Nasional
-- **Lembaga Penelitian**: Institut Sinica, Komisi Sains Nasional
-- **Lembaga Seni dan Budaya**: Pusat Seni Pertunjukan Nasional, Wei Wu Ying, Institut Strategi Budaya
+- **Museum**: Pengadilan Nasional (National Palace Museum), Museum Sejarah Taiwan, Museum Sains Alam, Akuarium Laut, Perpustakaan Sastra Taiwan
+- **Universitas Ternama**: National Taiwan University (NTU), National Tsing Hua University (NTHU), National Yang Ming Chiao Tung University (NYCU), National Cheng Kung University (NCKU), National Chengchi University (NCCU), National Taiwan Normal University (NTNU)
+- **Lembaga Penelitian**: Academia Sinica, Badan Sains Nasional
+- **Institusi Seni dan Budaya**: Taipei Concert Hall, Wufeng Cultural and Arts Center, Taiwan Creative Park
 
-### ✈️ Pariwisata dan Wisata
+### ✈️ Pariwisata dan Perjalanan
 
-- **Taman Nasional**: Yushan, Taroko, Kenting, Xueba, Yangming Shan
-- **Transportasi**: Kereta Api Taiwan, Kereta Cepat Taiwan, Taiwan Good Travel
-- **Lembaga Resmi**: Administrasi Pariwisata, Administrasi Imigrasi, Kementerian Transportasi dan Komunikasi, Administrasi Meteorologi
+- **Taman Nasional**: Yushan, Taroko, Kenting, Xueba, Yangmingshan
+- **Transportasi**: Taiwan Railways Administration (TRA), High Speed Rail (HSR), Taiwan Tourist Shuttle
+- **Lembaga Resmi**: Administrasi Pariwisata, Administrasi Imigrasi, Kementerian Transportasi, Badan Meteorologi
 
 ### 💼 Teknologi dan Ekonomi
 
-- **Perusahaan Ikonik**: TSMC, UMC, Foxconn, Delta Electronics
-- **Lembaga R&D**: Institut Informasi dan Komunikasi, Institut Penelitian Ekonomi Nasional, Institut Teknologi Industri
-- **Lembaga Keuangan**: Bursa Efek Taiwan, OTC Center, Komisi Pengawasan Keuangan dan Perbankan
-- **Lembaga Pemerintah**: Kementerian Ekonomi, Administrasi Perdagangan, Administrasi Usaha Kecil dan Menengah
+- **Perusahaan Indeks**: TSMC, UMC, Foxconn, Delta Electronics
+- **Lembaga R&D**: Taiwan Institute of Industrial Technology (TIIT), National Research Institute, Industrial Research Institute
+- **Institusi Keuangan**: Bursa Efek Taiwan, Pusat Perdagangan Kertas, Badan Pengawas Keuangan
+- **Lembaga Pemerintah**: Kementerian Ekonomi, Administrasi Dagang, Administrasi Usaha Kecil dan Menengah
 
 ### 📰 Media dan Berita
 
-- **Media Resmi**: Central News Agency, Public Television, Radio Tiongkok, Focus Taiwan
-- **Media Utama**: United Daily News, Liberty Times, TVBS, Sanlih E-Television, Eastern TV
-- **Media Digital**: The News Lens, The Reporter, CommonWealth Magazine
+- **Media Resmi**: Central News Agency (CNA), CCTV, Taiwan Broadcast Network, Focus Taiwan
+- **Media Utama**: United Daily News, Liberty Times, TVBS, Sanli, Tsony
+- **Media Digital**: Key Opinion Network, Reporter, Asia Times
 
 ### 🏥 Kesehatan dan Medis
 
-- **Lembaga Pemerintah**: Administrasi Pengendalian Penyakit, Administrasi Asuransi Kesehatan Nasional
-- **Pusat Medis**: Rumah Sakit Universitas Nasional Taiwan, Rumah Sakit Umum Veterans, Sistem Medis Chang Gung
+- **Lembaga Pemerintah**: Badan Pengawasan Penyakit Menular, Badan Asuransi Kesehatan
+- **Pusat Medis**: National Taiwan University Hospital (NTUH), Veterans General Hospital, Chang Gung Medical Center System
 
-### 🤝 NGO / Masyarakat Sipil
+### 🤝 LSM / Masyarakat Sipil
 
-- **Organisasi Hak Asasi Manusia**: Asosiasi Promosi Hak Asasi Manusia Taiwan
-- **Kelompok Lingkungan**: Pusat Informasi Lingkungan, Asosiasi Perlindungan Liar
-- **Hak Digital**: Yayasan Budaya Terbuka
-- **Pengawasan Media**: Pusat Verifikasi Fakta Taiwan
+- **Organisasi HAM**: Taiwan Human Rights Promotion Foundation
+- **Kelompok Lingkungan**: Environmental Information Center, Wilderness Protection Association
+- **Hak Digital**: Open Culture Foundation
+- **Pengawas Media**: Taiwan Fact Check Center
 
-### 🎭 Venue Seni dan Budaya
+### 🎭 Tempat Seni dan Budaya
 
-- **Galeri Seni**: Museum Seni Kontemporer Taipei, Museum Seni Kaohsiung
-- **Venue Pertunjukan**: Teater Nasional Taichung
-- **Taman Kreatif**: Songshan Tobacco Factory, Huashan, Pier-2
+- **Museum Seni**: National Museum of Art (Taipei), National Museum of Fine Arts
+- **Tempat Pertunjukan**: Taipei Opera House
+- **Distrik Kreatif**: Songyan, Huashan, Pier-2
 
-### 🤖 Corpus AI dan Data Terbuka
+### 🤖 Korpus AI dan Data Terbuka
 
-- **[Corpus Pelatihan AI Kedaulatan Taiwan (TAIC)](https://taic.moda.gov.tw)**: Diprakarsai oleh Kementerian Pembangunan Digital, mengumpulkan corpus bahasa Tionghoa tradisional berkualitas tinggi dari lembaga pusat, dengan lebih dari 3.000 set data dan lebih dari 11 miliar token, mencakup enam kategori utama: seni budaya, kosakata bahasa, artefak sejarah, budaya lokal, pariwisata, dan pembelajaran pendidikan. Perusahaan dan lembaga penelitian dapat mengajukan permohonan penggunaan. Pada paruh kedua tahun 2026, kerja sama dengan sektor swasta akan diperluas.
-- **Platform Pemerintah**: Platform Data Terbuka Pemerintah (data.gov.tw), Portal Pemerintah
-- **Pencarian Regulasi**: Basis Data Regulasi Nasional
-- **Partisipasi Warga**: g0v Pemerintah Nol Jam
-- **Koleksi Budaya**: Diancang Taiwan, Basis Memori Budaya Nasional
+- **[Korpus Pelatihan AI Kedaulatan Taiwan (TAIC)](https://taic.moda.gov.tw)**: Didorong oleh Kementerian Pengembangan Digital, mengumpulkan korpus bahasa Mandarin tradisional dari berbagai lembaga. Ketika diluncurkan secara resmi pada Desember 2025, lebih dari 200 lembaga telah berpartisipasi, mengunggah lebih dari 2.000 set data dan lebih dari 600 juta Token[^1]; topiknya mencakup seni budaya, kosakata bahasa, artefak sejarah, budaya lokal, pariwisata, dan pembelajaran pendidikan[^2], berdiri sebagai jenis pencegahan bencana dan sumber daya lingkungan yang baru. Pengembang, lembaga penelitian, dan sekolah dapat mengajukan akun secara online untuk penggunaan; Kementerian Digital menyatakan bahwa tahap ketiga akan bekerja sama dengan kelompok swasta[^1].
+- **Platform Pemerintah**: Platform Data Terbuka Pemerintah (data.gov.tw), Situs Web Portal Pemerintah
+- **Pencarian Regulasi**: Basis Data Hukum Nasional
+- **Partisipasi Warga**: g0v Zero Hour Government
+- **Warisan Budaya**: Archive Taiwan, National Cultural Memory Bank
 
-## Data Statistik (Maret 2026)
+## Statistik (September 2026)
 
-- **Jumlah Situs Web**: Lebih dari 180 situs web resmi/otoritatif
-- **Jumlah Kategori**: 12 kategori utama
-- **Cakupan**: Seluruh bidang termasuk pemerintah, pendidikan, budaya, teknologi, media, kesehatan, masyarakat sipil, seni dan budaya, transportasi, dan perusahaan
+Angka didasarkan pada penghitungan waktu nyata di halaman [/resources](https://taiwan.md/resources), ini adalah tangkapan saat artikel ini diperbarui:
 
-### Distribusi Detail
+- **Total Situs Web**: Sekitar 170 situs resmi/otoritatif
+- **Bab**: 5 bab (Tata Kelola Negara, Budaya dan Pengetahuan, Suara Taiwan, Ekonomi dan Kehidupan, Teknologi Sipil dan Komunitas), dengan 17 subkategori di bawahnya
+- **Pilihan Inti**: 34 situs ditampilkan pada peta pikiran interaktif
 
-- **Pemerintah Daerah**: 22 pemerintah kabupaten dan kota
-- **Lembaga Penelitian Universitas**: 10 universitas terkemuka + 5 lembaga penelitian
-- **Taman Nasional**: 9 taman nasional dan kawasan pemandangan
-- **Venue Seni dan Budaya**: 13 museum penting, galeri seni, dan venue pertunjukan
-- **Kesehatan dan Medis**: 8 lembaga kesehatan dan institusi medis
-- **Masyarakat Sipil NGO**: 8 organisasi nirlaba penting
-- **Kementerian dan Administrasi**: 16 lembaga pemerintah pusat
-- **Perusahaan Penting**: 7 perusahaan ikonik dan teknologi
-- **Media Tradisional**: 11 media berita utama
-- **Transportasi**: 6 layanan transportasi umum dan transportasi
-- **Budaya Digital**: 4 platform koleksi digital dan sains populer
-- **Pilihan Inti**: 48 situs web paling penting (ditampilkan dalam peta konsep)
+### Distribusi Rinci
+
+- **Tata Kelola Negara**: Lima badan 6, Kementerian Pusat 23, Pemerintah Kabupaten/Kota 22, Platform Data Terbuka 4
+- **Budaya dan Pengetahuan**: Universitas dan Lembaga Penelitian 14, Museum 8, Tempat Seni dan Budaya 12, Taman Nasional dan Area Pemandangan 13
+- **Suara Taiwan**: Media Utama 15, Media Digital 6, LSM dan Kelompok Sipil 8
+- **Ekonomi dan Kehidupan**: Perusahaan Indeks 9, Transportasi 6, Kesehatan Medis 7, Institusi Keuangan 3
+- **Teknologi Sipil dan Komunitas**: Proyek Teknologi Sumber Terbuka dan Sipil 10, Budaya Makanan 2
 
 ## Sumber Data dan Verifikasi
 
-Semua situs web yang dicantumkan telah melalui verifikasi berikut:
+Semua situs yang tercantum telah diverifikasi melalui:
 
-1. Verifikasi keakuratan URL
-2. Konfirmasi otoritas/resmi
+1. Verifikasi kebenaran URL
+2. Konfirmasi status resmi/otoritatif
 3. Pengujian aksesibilitas situs web
 4. Pemeriksaan kelengkapan konten
 
-## Pembaruan dan Perawatan
+## Pembaruan dan Pemeliharaan
 
-Daftar sumber daya diperbarui secara berkala untuk memastikan:
+Daftar sumber diperbarui secara berkala untuk memastikan:
 
-- Lembaga baru yang didirikan segera dicantumkan
-- Perubahan URL diperbarui secara real-time
-- Tautan yang tidak berfungsi segera dibersihkan
+- Lembaga yang baru dibentuk dicatat tepat waktu
+- Perubahan URL diperbarui segera
+- Tautan mati dibersihkan tepat waktu
 - Struktur klasifikasi terus dioptimalkan
 
 ## Panduan Penggunaan
 
-Mengunjungi [Halaman Sumber Daya Taiwan.md](https://taiwan.md/resources) memungkinkan Anda untuk:
+Mengunjungi [halaman Sumber Taiwan.md](https://taiwan.md/resources) memungkinkan Anda untuk:
 
-- Menjelajahi daftar situs web lengkap
-- Menggunakan peta konsep interaktif untuk eksplorasi
-- Beralih cepat ke situs web target
-- Memahami penjelasan fungsi setiap lembaga
+- Menelusuri daftar situs web lengkap
+- Mengeksplorasi menggunakan peta pikiran interaktif
+- Melompat cepat ke situs target
+- Memahami deskripsi fungsi setiap lembaga
+
+## Referensi
+
+[^1]: [Peluncuran Resmi Korpus Pelatihan AI Kedaulatan Taiwan Menerima Aplikasi Online Mulai Sekarang](https://www.cna.com.tw/news/afe/202512240226.aspx) — Central News Agency, 2025-12-24: Lebih dari 200 lembaga, lebih dari 2.000 set data, lebih dari 600 juta Token; tahap ketiga akan bekerja sama dengan kelompok swasta
+
+[^2]: [Korpus Pelatihan AI Kedaulatan Taiwan | Detail](https://moda.gov.tw/digital-affairs/plural-innovation/operations/18874) — Kementerian Pengembangan Digital: Berkolaborasi dengan lebih dari 200 lembaga termasuk Kementerian Pendidikan, Kementerian Budaya, Asosiasi Masyarakat Adat, dan Komite Hak Hokkien
