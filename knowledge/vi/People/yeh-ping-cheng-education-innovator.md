@@ -18,11 +18,12 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 5
+curation: 'incubating'
 translatedFrom: 'People/葉丙成.md'
-sourceCommitSha: 'df2e7558'
-sourceContentHash: 'sha256:a1c9ab56ccbac30c3448fbfe349e5cef49c412abf887f67ddbcfa79f4d15c4de'
-sourceBodyHash: 'sha256:e010fabc90905920505b8e6223d8c04644c41002ada54b72f4964302dbdccec4'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:340bb6abbf6b93a5'
+sourceBodyHash: 'sha256:f85ae58b5cc5815d'
+translatedAt: '2026-09-20T22:14:49.086584+00:00'
 ---
 
 # Diệp Bính Thành: Từ Lớp Xác Suất đến Cuộc Cách Mạng Giáo Dục Dựa Trên Trò Chơi

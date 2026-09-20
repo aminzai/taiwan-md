@@ -19,11 +19,12 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
 translatedFrom: 'People/金針菇.md'
-sourceCommitSha: '859d7316'
-sourceContentHash: 'sha256:934025fdab9efd06f7c2ed67304f711d6654485870d73ec09803bbef7aa291f0'
-sourceBodyHash: 'sha256:fb258670846627977663ff53ad6a0839b4bad476161ec3546c2ac63b3e407c92'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:a4d0a0070adaa30d'
+sourceBodyHash: 'sha256:4b10f11517195560'
+translatedAt: '2026-09-20T21:46:47.043179+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Jin (cây nấm kim tiêu) không phải một cầu thủ nước ngoài trên sân bóng, mà là một người sáng tạo nội dung có sức bền lâu dài trên các nền tảng. Cô ghi lại cuộc sống tại Đài Loan bằng tiếng Trung Quốc, biến chủ đề "người Hàn Quốc sống ở Đài Loan" thành một loại nội dung có thể tiếp tục cập nhật theo dõi, với ảnh hưởng vượt quá những video đơn lẻ hoặc sự kiện cô lập.

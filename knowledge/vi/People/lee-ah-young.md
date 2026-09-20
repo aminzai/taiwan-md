@@ -16,15 +16,15 @@ tags:
 subcategory: 'nhân vật đương đại'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 9
 lastVerified: 2026-05-13
 lastHumanReview: false
+readingTime: 9
+curation: 'incubating'
 translatedFrom: 'People/李雅英.md'
-sourceCommitSha: '859d7316'
-sourceContentHash: 'sha256:6bdb5826bc17deb58f9a386afc5a3bd89003bc5faaf248d93cb4e5f7c92fcc50'
-sourceBodyHash: 'sha256:0d8898be8f6d2f740a22e2661ea84834133a406fc0828aad9325342a14a11cba'
-translatedAt: 2026-07-31T00:00:00Z
-imageAlt: 'Lý A Anh biểu diễn với Fubon Angels'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:1893791073a1e549'
+sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
+translatedAt: '2026-09-20T22:23:17.332439+00:00'
 ---
 
 > **30 giây tổng quan:** Lý A Anh tại Đài Loan không phải trường hợp "nổi tiếng một lúc", mà là trường hợp "luôn ở đó". Cô liên tục cộng tác với Fubon qua nhiều mùa giải, duy trì mức độ tham gia cao và khả năng nhận dạng cao, biến lực lượng hỗ trợ Hàn Quốc từ nhân vật gây chuyên đề thành bộ khung nội dung cố định trên sân bóng.

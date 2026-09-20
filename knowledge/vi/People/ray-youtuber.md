@@ -1,15 +1,15 @@
 ---
 title: 'Ray (YouTuber)'
-description: 'Học sinh trung học phổ thông Đài Loan năm sinh 2005, Hồ Chí Vũ (Rayasianboy), trong chuyến du học tại Nhật Bản đã gây nổi tiếng bằng cách tự giới thiệu: "My name is Ray, I''m from Taiwan". Hiện tại, anh có hơn 2,7 triệu follower trên Twitch, 1,43 triệu người đăng ký trên YouTube, đã đưa hộ chiếp Đài Loan, phở tái và trà đáo vào các video nổi tiếng trên YouTube của GQ Hoa Kỳ, ký hợp tác với Adidas ra thương hiệu quần áo cá nhân RUEI, sau đó tuyên bố nghỉ học để chuyển sang mở phòng khám nha khoa tại Atlanta, khẳng định tiềm năng của thế hệ trẻ Đài Loan trong kỷ nguyên số.'
+description: 'Sinh năm 2005, học sinh trung học phổ thông tại Đài Loan, Khải Xương Tây (Ray) tên thật là Từ Thiên Phong, bùng nổ khi đang đi du học ở Nhật, nói câu "Tên tôi là Ray, tôi đến từ Đài Loan". Hiện nay, anh sở hữu hơn 2,7 triệu người theo dõi trên Twitch và 1,43 triệu người đăng ký trên YouTube, đưa hộ chiếu Đài Loan, mì bò và nước mía vào video hot của Vogue, ký hợp đồng với Adidas ra mắt thương hiệu cá nhân RUEI, sau đó công bố nghỉ hưu để đầu tư vào phòng khám nha khoa ở Atlanta, cho thế giới thấy tiềm năng của người trẻ Đài Loan.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
     'YouTuber',
-    'người phát sóng trực tuyến',
+    'streamer',
     'Twitch',
     'Kai Cenat',
-    'nhà sáng tạo kỹ thuật số',
+    'sáng tạo số',
     'hình ảnh quốc tế của Đài Loan',
     'AMP',
   ]
@@ -19,66 +19,71 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
 translatedFrom: 'People/Ray.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:970d28e96a195c6a'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:7bb33d5e90715777'
 sourceBodyHash: 'sha256:bfea2eb77a7d1c05'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-09-21T00:58:30+08:00'
 ---
 
 # Ray (YouTuber)
 
-> **Tóm tắt 30 giây:**  
-> Hồ Chí Vũ (Rayasianboy), sinh ngày 31 tháng 10 năm 2005 tại Đài Loan, hiện đang là học sinh trung học phổ thông Tân Khang (New Taipei). Vào tháng 7 năm 2023 khi đi du học ở Tokyo, Nhật Bản, anh đã gặp người phát sóng trực tuyến nước ngoài Kai Cenat tại khu vực trước một cửa hàng 7-Eleven, dám đến giao tiếp và tự giới thiệu: "My name is Ray, I'm from Taiwan". Đoạn video ngắn này đã nhanh chóng lan truyền khắp các cộng đồng ở châu Âu và Bắc Mỹ. Anh tham gia tập đoàn AMP, hiện có hơn 2,7 triệu follower trên Twitch, 1,43 triệu người đăng ký trên YouTube (RAY LIVE). Vào năm 2025, anh xuất hiện trong các video GQ, giới thiệu hộ chiếp Trung Hoa Dân Quốc (Đài Loan), phở tái và trà đáo; ký hợp tác lâu dài với Adidas Basketball ra thương hiệu quần áo cá nhân "RUEI" (lấy từ tên Ruei), đồng thời đồng hành trong chiến dịch liên ngân hàng với BAPE. Tháng 6 cùng năm, anh tham gia giải bóng rổ thiện nguyện của người sáng lập cộng đồng tại Houston, ghi ba pha ba ba (bao gồm cả cú sút Logo Shot ở giữa sân), luôn nhấn mạnh "tôi đến từ Đài Loan" trong các buổi phát sóng. Vào cuối năm 2025, anh thắng giải "Người phát sóng trực tuyến môi trường sống tốt nhất" tại The Streamer Awards, trở thành nhà sáng tạo Đài Loan đầu tiên nhận giải thưởng này.
+> **30 giây tóm tắt:**  
+> Sinh ngày 31 tháng 10 năm 2005 tại Đài Loan, Từ Thiên Phong (Rayasianboy), học sinh trung học phổ thông tại Bắc Tân Dương. Tháng 7 năm 2023, trong chuyến đi học đường ở Nhật, anh gặp Kai Cenat đang phát trực tuyến bên ngoài cửa hàng 7-Eleven và tự giới thiệu: "Tên tôi là Ray, tôi đến từ Đài Loan", khoảnh khắc này lan truyền nhanh chóng trên mạng xã hội. Anh gia nhập nhóm AMP, hiện nay có hơn 2,7 triệu người theo dõi trên Twitch và 1,43 triệu người đăng ký trên YouTube (RAY LIVE). Năm 2025, anh xuất hiện trong video của GQ, trưng bày hộ chiếu Đài Loan và đồ ăn, ký hợp đồng với Adidas ra mắt thương hiệu thời trang cá nhân RUEI, đồng thời giành giải "Streamer thực tế xuất sắc nhất" tại The Streamer Awards, sau đó công bố nghỉ hưu để đầu tư vào phòng khám nha khoa ở Atlanta.
 
-## Tại sao quan trọng
+## Tại sao điều này quan trọng
 
-Một học sinh trung học phổ thông bình thường của Đài Loan, không có công ty quản lý, không có bao bọc ngôi sao, nhưng chỉ nhờ một câu tiếng Anh và sự dũng cảm trên đường phố đã từ học trường Tân Khang đến vòng tròn phát sóng trực tuyến thế giới, cùng Kai Cenat và các thành viên AMP chơi game, đồng thời mang lại vịnh Đài Loan thường ngày vào các góc đóng góp quốc tế. Đây không chỉ là câu chuyện thành công cá nhân mà còn cho thấy con đường chân thực của thế hệ trẻ Đài Loan trong kỷ nguyên số — dám bước ra ngoài, thế giới sẽ đáp lại.
+Một học sinh trung học bình thường ở Đài Loan, không có công ty quản lý, không có bao bì sao chép, chỉ bằng một câu tiếng Anh và sự can đảm trên phố, Từ Thiên Phong đã đi từ trường trung học Bắc Tân Dương tới vòng tròn phát trực tuyến ở Mỹ, chơi cùng Kai Cenat và thành viên AMP, đưa cuộc sống hàng ngày của Đài Loan trực tiếp vào ống kính quay quốc tế. Đây không chỉ là câu chuyện nổi tiếng cá nhân, mà còn cho chúng ta thấy con đường thực sự của người trẻ Đài Loan trong thời đại số: dám bưỗm ra ngoài, thế giới sẽ đáp lại.
 
 ## Nội dung chính
 
-### Nguồn gốc: Từ sân chơi đến đường phố Nhật Bản
+### Nguồn gốc: Từ sân bóng đến phố đi bộ ở Nhật
 
-Ray từ nhỏ thích thể thao, trước khi chuyển sang bóng rổ, sau đó tham gia đội bóng rổ trường Tân Khang. Vào tháng 7 năm 2023, trong chuyến du học tới Tokyo, Nhật Bản, anh gặp Kai Cenat đang phát sóng trực tuyến trước một cửa hàng tiện lợi. Anh dám đến giao tiếp, đoạn trò ngắn gọn được quay lại và nhanh chóng lan truyền trong các cộng đồng phương Tây. Kai sau đó đã bay đến Đài Loan tham dự lễ kỷ niệm tốt nghiệp của Ray vào tháng 6 năm 2024, tình bạn xuyên biên giới này được các nhà báo gọi là phiên bản hiện đại của "bạn đồng hành" trong phim "Peaky Blinders".
+Từ nhỏ yêu thích thể thao, Từ Thiên Phong từng chơi bóng đá rồi chuyển sang bóng rổ, thi đấu ở đội tuyển trường Bắc Tân Dương với vị trí hậu vệ. Tháng 7 năm 2023, trong chuyến đi học đường ở Tokyo, Nhật, anh gặp Kai Cenat đang phát trực tuyến bên ngoài cửa hàng tiện lợi. Anh tiến lại và tự giới thiệu, đoạn hội thoại ngắn này được ghi hình và lan truyền nhanh trên mạng xã hội phương Tây. Sau đó, Kai còn bay đến Đài Loan để tham dự buổi lễ tốt nghiệp của Từ Thiên Phong vào tháng 6 năm 2024, khoảnh khắc này được truyền thông mô tả như một phiên bản hiện đại của phần mở đầu trong phim "Thời điểm căng thẳng".
 
-### Bước ngoặt quan trọng: Từ người mới vào đến hiện tượng quốc tế
+### Chuyển biến then chốt: Từ người thường đến hiện tượng quốc tế
 
-Từ năm 2024, Ray chính thức mở kênh phát sóng trực tuyến trên Twitch với tên rayasianboy. Nội dung bao gồm tương tác hằng ngày, chơi game và ghi lại hành trình (vlog). Kênh nhanh chóng được tham gia vào tập đoàn phát sóng trực tuyến Hoa Kỳ AMP và trở thành thành viên của Clover House. Các tác phẩm nổi bật bao gồm phỏng vấn và video "10 Things Ray Can't Live Without" trên GQ Sports (tháng 4 năm 2025), trong đó anh giới thiệu hộ chiếp Trung Hoa Dân Quốc (Đài Loan), phở tái và trà đáo. Video đã lên tới top 5 video nổi tiếng trên YouTube của Hoa Kỳ.
+Từ tháng 4 năm 2024, Từ Thiên Phong chính thức mở kênh Twitch với tên người dùng rayasianboy, nội dung chủ yếu là tương tác hàng ngày, chơi game và vlog. Nhanh chóng anh gia nhập nhóm streamer Mỹ AMP và trở thành thành viên của Clover House. Tác phẩm đáng chú ý bao gồm video GQ Sports "10 Điều Ray Không Thể Thiếu" (tháng 4 năm 2025), trong đó anh trưng bày hộ chiếu Cộng hòa Trung Hoa Dân quốc, mì gói Wugui, và nước mía, video lên top 5 trên YouTube nước Mỹ.
 
-Vào năm 2025, anh ký hợp tác lâu dài với Adidas Basketball, ra thương hiệu quần áo cá nhân "RUEI" (lấy từ tên Ruei), ngay lập tức cháy hàng; đồng thời là người mẫu trong chiến dịch liên ngân hàng với BAPE. Tháng 6 cùng năm, anh tham gia giải bóng rổ thiện nguyện của người sáng lập cộng đồng tại Houston, ghi ba pha ba ba (bao gồm cả cú sút Logo Shot ở giữa sân), luôn nhấn mạnh "tôi đến từ Đài Loan" trong các buổi phát sóng. Vào cuối năm 2025, anh thắng giải "Người phát sóng trực tuyến môi trường sống tốt nhất" tại The Streamer Awards, trở thành nhà sáng tạo Đài Loan đầu tiên nhận giải thưởng này.
+Năm 2025, anh ký hợp đồng dài hạn với Adidas Basketball, ra mắt thương hiệu thời trang cá nhân "RUEI" (lấy tên từ tên thật của anh), sản phẩm ngay bán hết. Đồng thời, anh hợp tác cùng BAPE làm người mẫu. Vào tháng 6 cùng năm, anh tham gia trận bóng nhân từ cho các sáng tạo nội thành Houston, ném 4 quả ba điểm (bao gồm cả cú bắn Logo Shot ở giữa sân), liên tục nhấn mạnh "Tôi đến từ Đài Loan", đoạn phim lan truyền rộng rãi trên mạng xã hội. Vào cuối năm 2025, anh giành giải "Streamer thực tế xuất sắc nhất" tại The Streamer Awards, trở thành người sáng tạo Đài Loan đầu tiên đạt được vinh dự này.
 
-### Hiện trạng: Sống ở Hoa Kỳ và hướng đi mới
+### Hiện tại: Cuộc sống ở Mỹ và hướng đi mới
 
-Ray sau đó định cư tại Atlanta, Hoa Kỳ, sinh sống tại biệt thự mà Kai đã tặng cho anh. Anh tiếp tục phát sóng trực tuyến trên Twitch và YouTube (RAY LIVE tích lũy hơn 4,3 tỷ lượt xem). Cùng tháng 10 năm 2025, anh tuyên bố nghỉ phát sóng trực tuyến, chuyển sang đầu tư vào phòng khám nha khoa tại Atlanta, theo đuổi ước mơ trở thành bác sĩ. Vào đầu năm 2026, anh mua lại toàn bộ số tiền khoảng 300.000 USD để sở hữu Lamborghini Urus.
+Sau đó, Từ Thiên Phong chuyển đến sống ở Atlanta, Mỹ, ở trong ngôi nhà xa hội do Kai tặng. Anh vẫn tiếp tục phát trực tuyến trên Twitch và YouTube (RAY LIVE đạt hơn 430 triệu lượt xem), đồng thời vào tháng 10 năm 2025, anh công bố rời khỏi cộng đồng streamer để đầu tư vào phòng khám nha khoa ở Atlanta, theo đuổi giấc mơ trở thành nha sĩ. Đầu năm 2026, anh mua một chiếc Lamborghini Urus bằng tiền mặt khoảng 300.000 USD.
 
-### Thử thách và tranh cãi
+### Thách thức và tranh cãi
 
-Sự nhanh chóng nổi tiếng cũng mang lại áp lực. Vào tháng 3 năm 2025, anh tạm hoạt động trên các kênh phát sóng trực tuyến, giải thích đó là do vấn đề sức khỏe tinh thần (mental break), không phải do bắt buộc làm việc. Một số phát sóng trực tuyến bị tác động bởi ngôn ngữ sử dụng trong AMP, cũng như nhận xét xã hội Đài Loan như "những người không có vai trò" trong đời sống (NPC) trên phim của Logan Paul, đã gây tranh cãi trong cộng đồng Đài Loan. Trên sân khấu lễ trao giải cuối năm 2025, khi được hỏi về diện mạthực sự của VTuber Ironmouse, đã gây tranh cãi về quyền riêng tư. Ray sau đó xin lỗi nhưng cho rằng mình hoang mang. Các sự kiện này anh thường phản hồi bằng cách nói: "Mỗi người đều có quan điểm riêng".
+Được nổi tiếng nhanh chóng cũng mang lại áp lực. Tháng 3 năm 2025, anh tạm thời ngưng phát trực tuyến, làm rõ đây là để nghỉ ngơi tâm lý (mental break), chứ không phải để nhập ngũ. Một số ngôn ngữ trong phát trực bị ảnh hưởng bởi AMP, cũng như nhận xét của anh trong chương trình của Logan Paul mô tả xã hội Đài Loan "như NPC", từng gây thảo luận tại cộng đồng Đài Loan. Vào cuối năm 2025, câu hỏi về "hình dạng thật" của VTuber Ironmouse tại lễ trao giải cũng gây tranh cãi về quyền riêng tư, Từ Thiên Phong sau đó xin lỗi nhưng cũng thừa nhận bối rối. Anh thường trả lời những sự kiện này bằng câu "Mỗi người đều có quan điểm riêng của mình".
 
-### ý nghĩa đối với Đài Loan
+### Ý nghĩa đối với Đài Loan
 
-Mỗi lần xuất hiện trên các góc đóng góp quốc tế, Ray đều tự nhiên nhắc đến mình đến từ Đài Loan, được các fangirl gọi là "nhà ngoại giao mạnh nhất". Từ "học sinh trung học phổ thông Đài Loan mạnh nhất" đến khi mang lại đồ ăn và văn hóa Đài Loan vào các video nổi tiếng trên YouTube của Hoa Kỳ, anh đã chứng minh thế hệ trẻ Đài Loan không cần đợi đợi người khác khám phá, chính mình có thể bước ra ngoài, để thế giới nhìn thấy.
+Mỗi lần xuất hiện trước ống kính quốc tế, Từ Thiên Phong luôn tự nhiên nhắc đến nguồn gốc từ Đài Loan, được mạng lưới fan gọi là "Đại sứ ngoại giao mạnh nhất". Từ "Học sinh trung học Đài Loan mạnh nhất" đến việc mang đồ ăn và văn hóa Đài Loan vào video hot ở Mỹ, anh chứng minh rằng người trẻ Đài Loan không cần chờ đợi để được phát hiện, họ có thể tự ra ngoài và được thế giới nhìn thấy.
 
 ## Tài liệu tham khảo
 
 - [Kênh Twitch của Ray](https://www.twitch.tv/rayasianboy)
 - [Kênh YouTube chính thức RAY LIVE](https://www.youtube.com/@RayLiveee)
 - [Instagram của Ray](https://www.instagram.com/rayasianboy_)
-- [Phỏng vấn và video GQ Taiwan](https://www.gq.com.tw/article/gq-hype-ray-2025)
-- [Lịch sử phát triển YouTube Đài Loan hoặc các bài viết liên quan đến nhà sáng tạo kỹ thuật số (sẽ được liên kết nếu có)]
+- [Trang GQ Taiwan và video liên quan](https://www.gq.com.tw/article/gq-hype-ray-2025)
+- [Bài viết về lịch sử phát triển YouTube Đài Loan hoặc sáng tạo số (kết nối khi có sẵn)]
 
 ## Tài liệu tham khảo
 
-1. Wikipedia (tiếng Trung) - Ray (YouTuber của Đài Loan) (phiên bản mới nhất năm 2026)  
-   https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber)
+1. Wikipedia (tiếng Trung) - Ray (YouTuber Đài Loan) (phiên bản cập nhật năm 2026)  
+   https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber
 
 2. Wikipedia (tiếng Anh) - Rayasianboy  
    https://en.wikipedia.org/wiki/Rayasianboy
 
-3. GQ Taiwan / GQ Sports 2025 phỏng vấn và video  
+3. GQ Taiwan / GQ Sports - Trang phỏng vấn và video năm 2025  
    https://www.gq.com.tw/article/gq-hype-ray-2025
 
-4. Bản ghi chép chính thức của The Streamer Awards (danh sách giải thưởng năm 2025)
+4. The Streamer Awards - Hồ sơ chính thức (danh sách giải thưởng năm 2025)
 
-5. SocialCounts / Social Blade (dữ liệu mới nhất tháng 3 năm 2026)  
-   Twitch: hơn 2,7 triệu follower; YouTube RAY LIVE: 1,43 triệu người đăng ký, 4,36 tỷ lượt xem
+5. SocialCounts / Social Blade (dữ liệu cập nhật tháng 3 năm 2026)  
+   Twitch: hơn 2,7 triệu người theo dõi; YouTube RAY LIVE: 1,43 triệu người đăng ký, 436 triệu lượt xem
+
+```
+
+```

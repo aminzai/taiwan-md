@@ -19,11 +19,12 @@ featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
 readingTime: 9
+curation: 'incubating'
 translatedFrom: 'People/邊荷律.md'
-sourceCommitSha: 'ef5765aba'
-sourceContentHash: 'sha256:a82c81c4c8a8e532845723c65dcb0bd46ad06105d8a39eb440f7b6a5d6fd02c2'
-sourceBodyHash: 'sha256:6988c21a16072eb86afa12cdd7301c2d203593ed37433363577b76f1f0babd80'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:860b8c0055b0c881'
+sourceBodyHash: 'sha256:34601056f655cc89'
+translatedAt: '2026-09-20T22:39:03.913361+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Byun Ha-yul (邊荷律) là một trong những thành viên chính yếu người Hàn Quốc của nhóm cổ vũ Passion Sisters trong đội Trung Tín Anh Em. Xung quanh mùa giải 2026, cô không chỉ nói về Giải bóng chày cổ điển thế giới (WBC) và cảm xúc khi sống ở Đài Loan, mà còn giải thích cách tình trạng sức khỏe gia đình ảnh hưởng đến tâm trạng của cô—điều này mở rộng cuộc thảo luận từ "sức hấp dẫn trên sân khấu" sang "căng thẳng giữa công việc và gia đình".
