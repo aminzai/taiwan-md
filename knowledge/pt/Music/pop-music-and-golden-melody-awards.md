@@ -24,10 +24,10 @@ imageCredit: 'Solomon203'
 rationale: "{'why_this_hook': '凡凡的鼓聲全場靜默——用一個情感重量最高的時刻，帶讀者立體認識「金曲獎是台灣怎麼決定什麼聲音值得被記住」，而非押一個論戰式論點（spine_type 立體群像）。', 'whats_excluded': '唱片產業興衰/串流轉型交給台灣流行音樂與串流時代不重複；兩岸/審查時刻（島嶼天光騰訊跳過、巴奈天安門被微博刪、大陸歌手缺席）只純中立紀實，不下主權判斷、不用對抗語言（§自主權邊界 政治立場處置）。', 'where_it_hedges': '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。', 'whos_pushing_back': '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'}"
 relatedDiary: ['2026-06-28-080352-manual']
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '47d78ce76'
-sourceContentHash: 'sha256:5406c0a04ed7374f'
-sourceBodyHash: 'sha256:0794328a7ed72af5'
-translatedAt: '2026-07-27T18:30:13+08:00'
+sourceCommitSha: '7701a4867'
+sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceBodyHash: 'sha256:89d2f2476f597f2c'
+translatedAt: '2026-09-20T14:22:24.491584+00:00'
 ---
 
 # Golden Melody Awards: Taiwan a premiar a sua própria música, e os momentos que se guardam para a vida toda ao longo de trinta e cinco anos
@@ -76,27 +76,27 @@ Naquela noite, no Memorial Nacional Dr. Sun Yat-sen em Taipé, Tsui Tai-ching (�
 
 A primeira edição era na verdade muito simples: não havia passadeira vermelha, não havia aquelas grandes atuações posteriores, nem o prémio de «Melhor Álbum de Interpretação» existia ainda, só apareceu na segunda edição. Mas a estrutura estava montada. Uma carta, um diretor cuja família toda era fã, mais uns anos de preparação, e Taiwan passou a ter todos os anos uma noite dedicada a decidir «este ano, que vozes merecem ser lembradas».
 
-## Aquela sala de votação fechada
+## A sala do voto fechado
 
-Para perceber porque é que um Golden Melody tem tanto peso, há que ver primeiro como é que ele é decidido.
+Para entender por que um prêmio Golden Melody é tão valorizado, é preciso primeiro ver como ele é julgado.
 
-O sistema de júri dos Golden Melody, dito de forma simples, é um grupo de pessoas fechadas numa sala, a ouvir com atenção todas as obras, e depois a votar. Parece simples, o difícil é esse «com atenção» e esse «fechadas».
+O sistema de jurados dos Golden Melody, no fim das contas, é um grupo de pessoas fechadas em uma sala, ouvindo atentamente todas as obras e depois votando. Parece simples, mas o difícil é o "atentamente" e o "fechadas".
 
-O processo todo divide-se em três fases. Na primeira, os jurados ouvem as músicas cada um no seu sistema online, dão notas independentemente; na segunda e na terceira, entram em reunião à porta fechada. A derradeira terceira fase acontece na manhã do dia da gala, os jurados votam anonimamente por computador, escolhem os vencedores que serão anunciados nessa noite.
+Todo o processo é dividido em três instâncias: na primeira fase, os jurados ouvem as músicas individualmente por meio de um sistema online e dão suas notas de forma independente. As fases de segunda e terceira instância se dão em sessões fechadas. A instância final, que decide os vencedores, está programada para o dia do evento de premiação, com jurados votando anonelamente por computador, escolhendo os ganhadores da noite.
 
-> 📝 **Nota do curador**: Muita gente reage instintivamente a «júri à porta fechada» com «caixa negra, panelinha». Mas os Golden Melody fecham a porta justamente para bloquear outra força — o mercado. Quando todos os jurados são isolados, proibidos de ver vendas, proibidos de ser abordados, a única coisa em que se podem apoiar são os seus próprios ouvidos e o seu julgamento profissional. Dito de outro modo, essa porta fechada bloqueia a inércia de «quem vende mais é quem deve ganhar». Metade da credibilidade de um Golden Melody vem dessa porta.
+> 📝 **Nota do curador**: Muitas pessoas reagem instintivamente a "jurado fechado" com "caixa preta, círculo fechado". Mas o motivo pelo qual os organizadores dos Golden Melody fecham a sala é justamente para bloquear outro tipo de força — o mercado. Quando todos os jurados estão isolados, sem acesso a dados de vendas e sem poderem ser influenciados, eles só podem contar com seus próprios ouvidos e julgamento profissional. Em outras palavras, a porta que se fecha aqui está mantendo à distância a lógica de "quem vende mais merece o prêmio". A credibilidade de um prêmio Golden Melody tem metade de sua força vinda dessa porta.
 
-Até que ponto vai o sigilo? A Blow (吹音樂), que já cobriu o processo, descreveu o ambiente da terceira fase: os jurados entram na salinha e ficam isolados, «a fumar, na casa de banho sempre com alguém a acompanhar», pelo caminho não podem falar com ninguém, votação anónima por computador até sair o resultado. Até os telemóveis são recolhidos uniformemente, só devolvidos depois de entregue o último prémio.
+Como é o nível de sigilo? O músico Blow, que participou de reportagens sobre o processo, descreveu como era o ambiente da instância final: os jurados entravam em uma sala separada, "com atendentes acompanhando para cigarros e banheiros", sem poder conversar com ninguém ao longo do caminho, votando anonelamente por computador até que os resultados aparecessem. Até os celulares eram recolhidos, e só eram devolvuídos após o último prêmio ser entregue.
 
-Isto não é lenda. Em 2026, na 37.ª edição, a vencedora Chen Hsien-ching (陳嫺靜) subiu ao palco e disse a rir que tinha preparado discurso, «mas como o telemóvel foi recolhido» — teve de improvisar. O telemóvel a entrar e sair entre jurados e vencedores é por si só a melhor nota de rodapé desse mecanismo de sigilo.
+Isso não é lenda. Quando a vencedora da 37ª edição, Chen Hsien-chin, subiu ao palco, ela mesma brincou dizendo que havia preparado um discurso, "mas infelizmente o celular havia sido recolhido" — e teve que improvisar. O fato de os celulares entrarem e saírem entre jurados e vencedores é, por si só, o melhor comprovante desse sistema de sigilo.
 
-E como é que os jurados são escolhidos? A versão oficial diz que se olha para a «vanguarda», se afirmam obras com valor artístico, não é preciso seguir o mercado comercial. O diretor da Yen Cheng Music (顏社), Dila, que já foi jurado três edições, deu um critério mais coloquial. Ele disse que quando é difícil escolher, dois álbuns ambos muito bons, ele se faz uma pergunta:
+Então, como os jurados escolhem? A versão oficial diz que se busca "inovação" e reconhecer obras com valor artístico, sem precisar seguir a tendência do mercado comercial. O empresário cultural de três mandatos como jurado, Di La, já explicou isso de forma mais simples. Ele disse que, diante de uma escolha difícil entre dois álbins excelentes, perguntava a si mesmo:
 
-> «Eu compraria este disco?»
+> "Eu compraria este álbum?"
 
-Esta frase é fascinante. Ela reduz o critério de um grande prémio da indústria ao impulso mais honesto de um fã: eu, pessoalmente, pagaria por este disco? Dila disse ainda uma frase para quem acha que «não ganhar é perder»: «Estar nomeado já é uma afirmação, é a sério.»
+O encanto dessa frase é que ela reduz o critério de um grande prêmio da indústria à reação mais sincera de um fã: "Eu mesmo pagaria por isso?" Di La também disse algo para quem acha que "não ganhar é perder": "Ser indicado já é uma confirmação — e é real."
 
-Claro que este sistema também tem quem discorde. Uns dizem que não há critérios escritos, depende demasiado da ética profissional de cada jurado; outros dizem que quando a mesma pessoa concorre em várias categorias, os jurados tendem a repartir os prémios. Estas discussões sempre existiram: mas é justamente porque há quem se importe, quem discuta, que o que se passa naquela sala merece ser olhado a sério.
+Claro, esse sistema também não é isento de críticas. Alguns dizem que não há critérios explícitos de avaliação, dependendo demais da ética profissional de cada jurado; outros argumentam que, quando alguém é indicado em várias categorias, os jurados tendem a espalhar os prêmios. Essas discussões sempre existiram — e justamente porque há pessoas que se importam e debatem, tudo o que acontece nessa sala merece atenção séria.
 
 ## Os reis e rainhas dos Golden Melody
 
@@ -254,13 +254,14 @@ Trinta e poucos anos depois, os Golden Melody na verdade não estão a dar prém
 
 ---
 
-## Leitura complementar
+## Leituras recomendadas
 
-- [Música Pop de Taiwan](/music/台灣流行音樂) — Da indústria do disco à era do streaming, toda a história de ascensão e queda da indústria, os Golden Melody são a escala oficial desta linha
-- [Evolução da Canção em Taiwanês](/music/台灣台語歌曲演進) — Da canção de dor de cotovelo ao _Forward_ de Lin Chiang, a viragem rock, como a canção em taiwanês entrou no mainstream
-- [Tradição Musical Indígena de Taiwan](/pt/music/indigenous-music-traditions) — Das canções das aldeias a Chen Chien-nien, Abao, as raízes e o contemporâneo da música indígena
-- [Cantores Indígenas Contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — As vozes e situações desta linhagem de criadores como Chi Hsiao-chun (紀曉君), Panai, Abao
-- [Música Independente de Taiwan](/pt/music/indie-music-scene) — Como os No Party for Cao Dong, a geração StreetVoice contornaram a indústria do disco, subiram ao palco mais alto dos Golden Melody
+- [Música popular de Taiwan](/music/台灣流行音樂) — Da indústria fonográfica à era de streaming, a história completa do ascenso e declínio da indústria; os Golden Melody são a marca oficial ao longo desse caminho
+- [Evolução da música em taiquês de Taiwan](/music/台灣台語歌曲演進) — Do lamento melancólico ao rock de Lin Chiang <向前走>, como a música em taiquês chegou ao mainstream
+- [Tradições musicais indígenas de Taiwan](/pt/music/indigenous-music-traditions) — Das canções tribais a Chen Chien-nien e Abao, as raízes e a contemporaneidade da música indígena
+- [Cantores indígenas contemporâneos](/pt/music/contemporary-indigenous-singer-songwriters) — A voz e a situação de Ji Xiaoqiu, Paiwan e Abao nessa linha de criadores
+- [Cena de música independente de Taiwan](/pt/music/indie-music-scene) — Como o leste da grama e a geração das ruas contornaram a indústria fonográfica para chegar ao topo dos Golden Melody
+- [Prêmios Golden Bell](/culture/金鐘獎) — A mais antiga das três ouro: uma campainha fundada para a radiodifusão em 1965, a lista de vencedores de 61 anos registra quem segura a TV de Taiwan
 
 ## Fontes das imagens
 
