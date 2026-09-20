@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T20:23:31+08:00",
-    "zhCommitHead": "35effd058",
+    "lastUpdated": "2026-09-20T21:03:13+08:00",
+    "zhCommitHead": "01ba5620e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 994,
-        "stale": 53,
+        "fresh": 995,
+        "stale": 52,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -39422,8 +39422,8 @@
           "sourceContentHash": "sha256:9e576e02178fac1e",
           "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
           "translatedAt": "2026-09-20T00:52:41+08:00",
-          "translationLastCommit": "29f4fec6",
-          "translationLastModified": "2026-08-09T11:48:54+08:00",
+          "translationLastCommit": "01ba5620",
+          "translationLastModified": "2026-09-20T20:23:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -48284,8 +48284,8 @@
           "sourceContentHash": "sha256:b47bd1e69ecf0593",
           "sourceBodyHash": "sha256:57a68bead4c3e5e8",
           "translatedAt": "2026-09-20T00:52:41+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "01ba5620",
+          "translationLastModified": "2026-09-20T20:23:31+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123687,16 +123687,16 @@
         "vi": {
           "path": "vi/People/hung-hsing-fu.md",
           "translatedFrom": "People/洪醒夫.md",
-          "sourceCommitSha": "b771a2011",
-          "sourceContentHash": "sha256:7de74580c2e1d825",
-          "sourceBodyHash": "sha256:669b88afae826e6b",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "e413aa732",
+          "sourceContentHash": "sha256:7a0754dc62002a77",
+          "sourceBodyHash": "sha256:f80ea3550618f493",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→0)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/hung-hsing-fu.md",
