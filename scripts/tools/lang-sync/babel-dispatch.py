@@ -600,6 +600,10 @@ class RunState:
         self.tier6_cap: int = BABEL_TIER6_NIGHTLY_CAP       # 由 main() 依 --tier6-nightly-cap 覆寫
         self.tier7_cap: int = BABEL_TIER7_NIGHTLY_CAP       # 由 main() 依 --tier7-nightly-cap 覆寫
         self.exhausted_this_run: list = []                  # ["lang:zh", ...] 本 run 觸發 cascade_exhausted 的清單
+        # 輪中補貨（2026-09-21）：本輪已排進佇列的 (lang:zh)，補貨時不重排；補貨序號與鎖
+        self.round_seen: set = set()
+        self.topup_lock = threading.Lock()
+        self.topup_seq: int = 0
 
 
 class TaskQueue:
@@ -644,6 +648,11 @@ class TaskQueue:
     def __len__(self):
         with self._lock:
             return len(self._dq)
+
+    def extend(self, tasks: list) -> None:
+        """輪中補貨（2026-09-21 top-up，見 topup_queue()）。"""
+        with self._lock:
+            self._dq.extend(tasks)
 
 
 # ────────────────────────── status / worklist ──────────────────────────
@@ -1754,11 +1763,76 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
     return _ok
 
 
+TOPUP_PER_LANG = 10   # 每次補貨每語言最多排進幾篇（小批：讓剛完成的檔下輪 status 重算後再進場）
+
+
+def topup_queue(worker: Worker, queue: TaskQueue, state: RunState, langs: list, args,
+                run_dir: Path, round_num: int, slug_map_path: Path, seen_missing_slug: set,
+                log: Logger, exclusions: set | None = None) -> bool:
+    """輪中補貨：worker 在本輪佇列裡再也 claim 不到東西時，替它從 backlog 撈一批
+    它接得了的語言，直接 extend 進同一個佇列。回 True = 補到了，worker 續跑；
+    False = 這個 worker 能接的語言在全庫 backlog 裡都沒東西了，照舊退出等輪次結束。
+
+    為什麼需要（2026-09-21 run 33830 實撞）：一輪 = 每語言 10×worker 篇，十二語 564 篇；
+    三個地端 gemma worker 切軌跳過 pt/ru，22:30 把其他十語的份額吃完後 worker_loop
+    直接 return，剩下 32 篇 pt/ru 由兩個雲端 worker 以每篇 10–35 分鐘慢慢磨，
+    三張 GPU 空等 3–5 小時等輪次結束才能拿到下一輪的貨；而這個尾巴每一輪都會出現，
+    因為切軌讓「誰能接哪種語言」不再對稱。三重巡檢看不到它：進程活著、log 在動、
+    report 也有新列（雲端 worker 的）。
+    補貨不重排本輪已排過的 (lang, zh)（state.round_seen），也不碰 in_flight；
+    Tier 6/7 restricted worker 不補貨（它們的資格集合每輪重算，補貨會繞過那道帳）。"""
+    if worker.tier != "normal":
+        return False
+    eligible_langs = [l for l in langs if l not in worker.skip_langs]
+    if not eligible_langs:
+        return False
+    with state.topup_lock:
+        try:
+            status_data = refresh_status(log)
+        except Exception as e:  # noqa: BLE001
+            log(f"⚠️  top-up status refresh 失敗（worker={worker.label}）：{e}")
+            return False
+        with state.lock:
+            seen = set(state.round_seen) | set(state.in_flight)
+            fail_counts = dict(state.fail_counts)
+        per_lang: dict = {}
+        state.topup_seq += 1
+        seq = state.topup_seq
+        for lang in eligible_langs:
+            try:
+                worklist_full = build_worklist(status_data, lang, args.priority, args.order,
+                                               max_zh_bytes=args.max_zh_bytes, log=None,
+                                               fail_counts=fail_counts, exclude=exclusions)
+            except Exception as e:  # noqa: BLE001
+                log(f"⚠️  top-up build_worklist {lang} 失敗：{e}")
+                continue
+            fresh = [zh for zh in worklist_full if f"{lang}:{zh}" not in seen][:TOPUP_PER_LANG]
+            if not fresh:
+                continue
+            round_dir = run_dir / "tasks" / lang / f"round{round_num:02d}-topup{seq:02d}"
+            run_prepare_batch(lang, fresh, slug_map_path, round_dir, log)
+            groups = collect_and_filter_groups(round_dir, lang, seen_missing_slug, log)
+            if groups:
+                per_lang[lang] = groups
+        if not per_lang:
+            log(f"💤 worker={worker.label} 本輪已無可接任務，backlog 裡它能接的語言"
+                f"（{','.join(eligible_langs)}）也沒有新貨——退出等輪次結束")
+            return False
+        tasks = interleave_by_lang(per_lang)
+        with state.lock:
+            state.round_seen.update(f"{l}:{z}" for l, _g, z in tasks)
+        queue.extend(tasks)
+        log(f"🔄 top-up #{seq}（worker={worker.label} 空手）：補進 {len(tasks)} 篇 "
+            f"({', '.join(f'{l}={len(v)}' for l, v in per_lang.items())})")
+        return True
+
+
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
                  engine: str = "whole", no_patch: bool = False,
-                 no_noop_bump: bool = False, excl_cache: Optional["ExclusionCache"] = None) -> None:
+                 no_noop_bump: bool = False, excl_cache: Optional["ExclusionCache"] = None,
+                 topup=None) -> None:
     task_filter = make_task_filter(worker, state, report, log, excl_cache)
     while True:
         wait_if_frozen(worker, workers, log)
@@ -1766,6 +1840,14 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
             last_worker_snapshot = dict(state.last_worker)
         task = queue.claim(worker.label, last_worker_snapshot, task_filter)
         if task is None:
+            # 2026-09-21：空手不直接退出，先向 backlog 補貨（見 topup_queue）。
+            if topup is not None:
+                try:
+                    if topup(worker, queue):
+                        continue
+                except Exception as e:  # noqa: BLE001
+                    # 補貨壞掉不能讓 worker 執行緒靜默消失（#38 (f)）：記一行、照舊退出本輪。
+                    log(f"⚠️  top-up 例外（worker={worker.label}，退出本輪）：{e}")
             return
         lang, group_path, zh_path = task
         with state.lock:
@@ -2069,12 +2151,21 @@ def main() -> None:
             f"({', '.join(f'{l}={len(v)}' for l, v in per_lang_tasks.items())})")
 
         queue = TaskQueue(tasks)
+        with state.lock:
+            state.round_seen = {f"{l}:{z}" for l, _g, z in tasks}
+            state.topup_seq = 0
+        _rn, _langs, _excl = round_num, list(langs), exclusions
+
+        def _topup(w, q):
+            return topup_queue(w, q, state, _langs, args, run_dir, _rn, slug_map_path,
+                               seen_missing_slug, log, exclusions=_excl)
+
         with ThreadPoolExecutor(max_workers=len(workers)) as pool:
             futures = [
                 pool.submit(worker_loop, w, workers, queue, state, report, freezes,
                             args.no_commit, args.commit_every, log,
                             engine=args.engine, no_patch=args.no_patch, no_noop_bump=args.no_noop_bump,
-                            excl_cache=excl_cache)
+                            excl_cache=excl_cache, topup=_topup)
                 for w in workers
             ]
             for f in futures:
