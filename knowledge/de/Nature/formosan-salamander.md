@@ -1,0 +1,137 @@
+---
+title: 'Das Lächeln eiszeitlicher Relikte: Hundert Jahre Geschichte und der technologische Schutz des taiwanischen Salamanders'
+description: 'Tief im taiwanischen Hochgebirge tragen fünf endemische Salamanderarten still die Erinnerung an die Eiszeit in sich. Sie sind Indikatoren für die Gesundheit alpiner Ökosysteme und stehen im Zentrum einer hundertjährigen Geschichte wissenschaftlicher Erkundung, taxonomischer Richtigstellung und sogar geopferter Menschenleben. Der Durchbruch bei der künstlichen Brutzucht im Jahr 2025 bringt diesen „lächelnden Hochgebirgsgeistern“ neue Hoffnung.'
+date: 2026-04-26
+category: 'Nature'
+tags:
+  [
+    'Salamander',
+    'Eiszeit-Relikt',
+    'Taiwan-endemische Art',
+    'Lächelnder Hochgebirgsgeist',
+    'Lü Kuang-yang',
+    'Lai Chun-hsiang',
+    'Chu Yu-tien',
+    'Künstliche Brutzucht',
+    'Naturschutz',
+    'Klimawandel',
+    'Shei-Pa-Nationalpark',
+    'Taiwan Mobile',
+    'National Taiwan University',
+  ]
+subcategory: '野生動物'
+author: 'idlccp1984'
+featured: false
+lastVerified: 2026-04-26
+lastHumanReview: false
+readingTime: 15
+translatedFrom: 'Nature/台灣山椒魚.md'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:f7dcaba73d149276'
+sourceBodyHash: 'sha256:af337db2aac9897d'
+translatedAt: '2026-09-20T05:30:00+08:00'
+---
+
+> **30-Sekunden-Zusammenfassung:** Auf der subtropischen Insel Taiwan verbergen sich fünf eiszeitliche Reliktarten – die Salamander der Gattung Hynobius. Sie überleben still in den Quellgebieten der Hochgebirgsbäche oberhalb von 2.000 Metern, und ihre runden Augen mit den leicht nach oben gezogenen Mundwinkeln haben ihnen den Beinamen „das Lächeln“ eingebracht. Von einer hundert Jahre alten Namensverwechslung über die jahrzehntelange, unermüdliche Suche der Wissenschaftler bis hin zum Verlust eines Menschenlebens – die Geschichte des Salamanders ist sowohl ein ökologisches Wunder Taiwans als auch eine tiefgreifende Reflexion über das Zusammenleben von Mensch und Natur. Im Jahr 2025 gelang Taiwan Mobile in Zusammenarbeit mit dem Forschungsteam von Professor Chu Yu-tien von der National Taiwan University erstmals die künstliche Brutzucht – ein Hoffnungsschimmer für die Zukunft dieser Hochgebirgsgeister.
+
+## Boten der Eiszeit: Die eigenartige Herkunft und das Lächeln des taiwanischen Salamanders
+
+Im Jahr 1919 sammelte der japanische Gelehrte Sonan Jinhaku auf dem Alishan in Taiwan ein bis dahin unbekanntes Amphib und läutete damit die Erforschung des taiwanischen Salamanders ein.[^1] Diese als „Sanshouyu“ (Pfefferbaum-Fisch) bezeichneten Tiere gehören tatsächlich zur Familie der Winkelzahnmolche (Hynobiidae) innerhalb der Ordnung der Schwanzlurche; ihr Name rührt daher, dass ihr Hautsekret nach dem Sansho-Pfeffer riecht.[^2] Sie zählen zu den ältesten Amphibien der Erde – ihre Vorfahren lassen sich bis ins Karbon vor mehr als dreihundert Millionen Jahren zurückverfolgen und sind damit älter als die Dinosaurier.[^3] Ihre runden Augen und die leicht nach oben gezogenen Mundwinkel haben ihnen den Ruf als „lächelnde Hochgebirgsgeister“ eingebracht.
+
+Dass Taiwan, obwohl subtropisch gelegen, fünf endemische Salamanderarten beherbergt, ist an sich schon ein kontraintuitives ökologisches Wunder. Die taiwanischen Salamander markieren die südlichste Verbreitungsgrenze der weltweiten Gattung Hynobius und sind zugleich die einzige subtropische Population dieser Gattung – eine evolutionsbiologisch einzigartige Stellung.[^4] Wissenschaftler vermuten, dass die Vorfahren der Salamander vor mehreren Millionen Jahren, während der Eiszeit, über eine Landbrücke vom asiatischen Kontinent nach Taiwan wanderten.[^4] Als die Eiszeit endete, der Meeresspiegel stieg und die Landbrücke verschwand, wurden diese an Kälte angepassten Lebewesen im taiwanischen Hochgebirge „eingeschlossen“ und entwickelten sich zu eigenständigen Arten. Sie wählten die ganzjährig kühlen und feuchten Quellgebiete der Bäche oberhalb von 2.000 Metern als Lebensraum – diese Hochgebirgsumgebungen wurden zu ihrem „eiszeitlichen Refugium“ auf einer subtropischen Insel.[^4]
+
+Die Analyse der mitochondrialen DNA zeigt, dass die fünf taiwanischen Salamanderarten von einem gemeinsamen Vorfahren abstammen und sich vor etwa 4,5 bis 8 Millionen Jahren (im Durchschnitt vor 6,38 Millionen Jahren) von den Salamandern des asiatischen Festlands abspalteten, während sich die Artbildung innerhalb Taiwans vor etwa 2,5 bis 4,5 Millionen Jahren (im Durchschnitt vor 3,56 Millionen Jahren) ereignete.[^5] Der Guanwu-Salamander trennte sich genetisch am frühesten von der japanisch-/festlandasiatischen Population, während sich die übrigen vier Arten in zwei Linien aufspalten (der Sonan- und der Alishan-Salamander sind näher verwandt; der taiwanische Salamander und der Nanhu-Salamander bilden eine weitere Linie).[^5] Diese genetischen Belege enthüllen sowohl die geologische Entwicklung und Klimageschichte der Insel Taiwan als auch die Bedeutung des taiwanischen Salamanders für die globale biologische Vielfalt.
+
+> 📝 Kuratoren-Notiz: Eiszeitliche lebende Fossilien auf einer tropischen Insel zu entdecken, ist an sich schon eines der faszinierendsten Paradoxe der taiwanischen Ökologie. Ihr Lächeln ist ein stiller Zeuge, der Jahrmillionen überspannt.
+
+## Hundertjährige Verwechslung und Vermächtnis: Der lange Weg vom Missverständnis zur Richtigstellung
+
+Die Forschungsgeschichte des taiwanischen Salamanders ist voller Windungen und Dramatik. Hundert Jahre lang bestand in der Wissenschaft eine „Verwechslung“ bei der Klassifizierung zweier Salamanderarten.[^6] Im Jahr 1922 veröffentlichte der japanische Gelehrte Maki Shigeichirō aufgrund äußerer morphologischer Unterschiede die Erstbeschreibungen des taiwanischen Salamanders (Hynobius formosanus) und des Sonan-Salamanders (Hynobius sonani).[^6] Da die Typusexemplare vermutlich beim großen Kantō-Erdbeben von 1923 verlorengingen und die frühen Beschreibungen zudem nicht präzise genug waren, stellten spätere Forscher beim Abgleich der Typusexemplare mit den Wildpopulationen fest, dass die Beschreibungen und die tatsächlichen Erscheinungsformen genau vertauscht waren.[^6]
+
+Nach Jahren wiederholter Diskussionen und Untersuchungen taiwanischer und japanischer Wissenschaftler gab die Verwaltung des Shei-Pa-Nationalparks im Januar 2025 offiziell bekannt: Was bislang fälschlicherweise als taiwanischer Salamander galt, war in Wirklichkeit der Sonan-Salamander, und was man fälschlicherweise für den Sonan-Salamander hielt, war der „echte“ taiwanische Salamander.[^6][^7] Diese hundert Jahre währende „Identitätsverwechslung“ konnte durch die Bemühungen der Wissenschaftler endlich aufgeklärt werden – ein Beweis für die Strenge und die Herausforderungen der biologischen Taxonomie. Nach der Richtigstellung gilt: Der Sonan-Salamander zeichnet sich durch gelbe Flecken auf dem Körper und vier Zehen an allen vier Gliedmaßen aus; sein Hauptlebensraum liegt am Westgrat des Schneegebirges, vom Hauptgipfel bis zum Siyuan-Pass, wo dieser an das zentrale Bergland anschließt. Der taiwanische Salamander hingegen ist rotbraun oder schwarzbraun mit fleckigen Zeichnungen gefärbt, hat vier Zehen an den Vorder- und fünf an den Hinterbeinen und ist hauptsächlich im mittleren bis nördlichen Abschnitt des zentralen Berglands verbreitet.[^6][^7]
+
+Auf dem langen Forschungsweg des taiwanischen Salamanders haben viele Wissenschaftler ihr Lebenswerk investiert. Unter ihnen ist Lü Kuang-yang, emeritierter Professor am Fachbereich Biowissenschaften der National Taiwan Normal University, der als „Großvater der Salamander“ bezeichnet wird. Er begann seine Salamanderforschung bereits in den 1980er-Jahren und durchstreifte dabei das gesamte taiwanische Hochgebirge.[^8] Er und sein Team beschrieben neue Arten wie den Guanwu- und den Nanhu-Salamander und legten damit ein wichtiges Fundament für die Klassifikation und den Schutz der taiwanischen Salamander.[^8] Aus Professor Lüs früher Forschungszeit ist eine denkwürdige Anekdote überliefert: Auf einem Wasabifeld am Alishan – wo menschliche Störung unbeabsichtigt ein geeignetes Mikrohabitat schuf – entdeckte er erstmals Salamander, und einmal bestätigte er deren Verbreitung sogar, nachdem eine Schlange mehrere Alishan-Salamander erbrochen hatte. Diese Geschichten zeigen die Mühen und Zufälle der frühen Feldforschung.[^9]
+
+Doch dieser Forschungsweg war auch voller Härten und Gefahren. Im Jahr 2016 verunglückte Dr. Lai Chun-hsiang, ein Schüler von Professor Lü, der sich ebenfalls der Salamanderforschung verschrieben hatte, bei einer Untersuchungsexpedition auf den Qilai-Nordgipfel tödlich, als er in eine Schlucht stürzte.[^10] Diese Tragödie erschütterte die wissenschaftliche Gemeinschaft und legte einen tragischen Schatten über die Naturschutzarbeit für den Salamander. Dr. Lais Opfer erinnert uns an den Preis, den Menschen bei der Erforschung und dem Schutz der Natur zahlen. Seine Witwe, Frau Hsieh Wei-chun, verneigte sich bei der Sondervorführung des Dokumentarfilms „Der Salamander kommt“ zusammen mit ihren beiden Kindern tief vor dem damaligen Rettungsteam, um sich zu bedanken – eine bewegende Szene.[^11]
+
+Die Forschung von Dr. Lai wurde von Professor Chu Yu-tien vom Fachbereich für Tierwissenschaften und -technologie der National Taiwan University fortgeführt. Seit 2016 leitet Professor Chu ein Team, das die Salamanderforschung fortsetzt und die vollständige geografische Verbreitungskarte, die genetische Struktur, die Phylogeografie und die Lebensgeschichte aller fünf Salamanderarten erfasst hat – einschließlich medizinischer Bildgebung von Skelett und Fortpflanzungssystem – und dabei feststellte, dass sich die Tiere überwiegend von Insekten ernähren.[^12] Sein Beitritt sicherte die Kontinuität und Vertiefung der taiwanischen Salamanderforschung.
+
+> 📝 Kuratoren-Notiz: Die Klärung der hundertjährigen Verwechslung ist ein Triumph der Wissenschaft und zugleich eine Hommage an die unzähligen Feldforschungen und Opfer früherer Generationen von Wissenschaftlern. Jedes Forschungsergebnis trägt Liebe und Ehrfurcht vor dem Leben in sich.
+
+## Hinter dem Lächeln: Die fragile Überlebenslage und die gravierenden Herausforderungen
+
+Taiwan beherbergt heute fünf endemische Salamanderarten, die jeweils an den Quellgebieten unterschiedlicher Flusssysteme im taiwanischen Hochgebirge leben und ein deutlich allopatrisches Verbreitungsmuster aufweisen – ihre Lebensräume überschneiden sich größtenteils nicht, nur wenige sind benachbart oder sympatrisch. Dies ist ein Beleg für den Reichtum der genetischen Vielfalt Taiwans.[^4] Ihr Schutzstatus ist überwiegend „vom Aussterben bedroht der Klasse I“, der Nanhu-Salamander gilt sogar als vom Aussterben akut bedroht.[^13]
+
+| Artname | Wissenschaftlicher Name | Morphologische Merkmale | Hauptverbreitung | Taiwanischer Schutzstatus | IUCN-Rote-Liste-Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Guanwu-Salamander | *Hynobius fuca* bzw. *H. fucus* | Körper vollständig schwarz mit kleinen weißen Punkten, fünf Zehen an den Hinterbeinen (fünfte Zehe verkümmert) | Nordwestlicher Teil des Schneegebirges (Beichatian-Berg, Lala-Berg, Guanwu u. a.) | Vom Aussterben bedroht | Fast gefährdet (NT) |
+| Taiwanischer Salamander | *Hynobius formosanus* | Körper rotbraun oder schwarzbraun mit fleckigen Zeichnungen, vier Zehen an den Vorder-, fünf an den Hinterbeinen (fünfte Zehe verkümmert) | Mittlerer bis nördlicher Abschnitt des zentralen Berglands | Vom Aussterben bedroht | Gefährdet (EN) |
+| Nanhu-Salamander | *Hynobius glacialis* | Schlanker Körperbau, gelbbraune, unregelmäßige feine Flecken, vier Zehen an den Vorder-, fünf an den Hinterbeinen (fünfte Zehe leicht verkümmert), größere Körpergröße, kleinstes Verbreitungsgebiet | Nördlicher Abschnitt des zentralen Berglands, Region Nanhu (Nanhu-Fluss, Oberlauf des Zhongyangjian-Flusses, im Taroko-Nationalpark), alpine Tundra auf etwa 2.400–3.600 m Höhe | Vom Aussterben bedroht | Vom Aussterben akut bedroht (CR) |
+| Sonan-Salamander | *Hynobius sonani* | Gelbe Flecken am Körper, vier Zehen an allen vier Gliedmaßen | Teilweise innerhalb des Shei-Pa-Nationalparks verbreitet | Vom Aussterben bedroht | Gefährdet (EN) |
+| Alishan-Salamander | *Hynobius arisanensis* | Körperlänge etwa 10 cm, braune Färbung ohne Flecken, fünf Zehen an den Hinterbeinen | Südlicher Abschnitt des zentralen Berglands, Yushan-Gebirge, vom Alishan-Gebirge bis zum Beidawu-Berg, Quellgebiet des Kaoping-Flusses | Selten und wertvoll | Gefährdet (EN) |
+
+Salamander reagieren äußerst empfindlich auf ihre Umwelt: Sie benötigen ganzjährig niedrige Temperaturen (etwa 8–16 °C), Feuchtigkeit und klares Wasser, um zu überleben. Ausgewachsene Tiere halten sich meist in Nadelwäldern, Pfeilbambus-Dickichten oder in der Laubstreu und in Felsspalten auf; die Laichzeit liegt meist im Winter, wobei sie temporäre Gewässer nutzen, die durch winterlichen Regen oder Schneeschmelze entstehen.[^14] Das macht sie zu den unmittelbarsten Opfern und zugleich zu Indikatorarten des Klimawandels.[^15] Die globale Erwärmung führt zu steigenden Temperaturen im Hochgebirge, veränderten Niederschlagsmustern und geringerem winterlichem Schneefall – all dies bedroht unmittelbar die Fortpflanzung und das Überleben der Salamander. Reicht beispielsweise der winterliche Regen oder das Schmelzwasser nicht aus, verringern sich die für die Salamanderfortpflanzung geeigneten Gewässer; häufige Starkregenereignisse hingegen können ihre Eiballen fortspülen.[^15] Unter extremen klimatischen Bedingungen führt anhaltend unzureichender winterlicher Niederschlag oder Schneefall sogar zum Fortpflanzungsversagen – ihre Fortpflanzungssaison erstreckt sich über bis zu fünf bis sechs Monate.[^16]
+
+Neben dem Klimawandel ist auch der Einfluss menschlicher Aktivitäten nicht zu unterschätzen. Die Politik der Öffnung der Bergwälder ermöglicht zwar mehr Menschen den Zugang zur Natur, bringt aber auch Freizeitdruck und Umweltzerstörung mit sich. Müll entlang der Wanderwege, Verschmutzung der Wasserquellen, wildes Urinieren und Defäkieren, das Verlassen der markierten Wege und das Umdrehen von Steinen – all diese Verschmutzungen und Störungen können für die fragilen Salamanderpopulationen tödlich sein.[^16] Besonders der Nanhu-Salamander steht unter enormem Freizeitdruck, da sein Lebensraum in der Nähe der Nanhu-Berghütte liegt; es gab sogar Monitoringperioden, in denen kein einziges Individuum gefunden wurde.[^16] Zudem ist die Standorttreue der Salamander sehr hoch und ihr Aktionsradius extrem klein (die jährliche Bewegungsdistanz eines Individuums beträgt nur etwa 14 Meter), was sie angesichts von Umweltveränderungen noch verletzlicher macht.[^16]
+
+> 📝 Kuratoren-Notiz: Ihr Lächeln mag ein Zeichen sein, das die Eiszeit hinterlassen hat, doch es spiegelt zugleich die gravierendste Überlebensprüfung des 21. Jahrhunderts wider. Diese Hochgebirgsgeister sind die „Wächter“ für die ökologische Gesundheit Taiwans.
+
+## Hoffnung und Technologie: Ein neues Kapitel im Schutz des taiwanischen Salamanders
+
+Trotz der gravierenden Herausforderungen gibt es auch neue Hoffnung für den Schutz des taiwanischen Salamanders. Im Jahr 2022 veröffentlichte die Forstbehörde (heute Agentur für Forstwirtschaft und Naturschutz) den „Aktionsplan zum Schutz des taiwanischen Salamanders“, der eine klare Richtung für die Schutzstrategien der einzelnen Arten vorgibt.[^17] Dieser Plan integriert zudem das Wildtierschutzgesetz, das Feuchtgebietsschutzgesetz sowie die übergreifende Schutzpolitik für den Erhaltungskorridor des zentralen Berglands.
+
+Noch ermutigender: Seit 2023 haben Taiwan Mobile und das Forschungsteam von Professor Chu Yu-tien von der National Taiwan University eine ressortübergreifende Zusammenarbeit gestartet, um technologische Möglichkeiten in den Salamanderschutz einzubringen. Ihnen gelang der Durchbruch bei der künstlichen Brutzucht: Die Schlupfrate beim Guanwu-Salamander erreichte 95 Prozent, beim Alishan-Salamander sogar 100 Prozent.[^18] Damit wurden erstmals seit hundert Jahren die Entwicklung befruchteter Salamandereier, das Brutpflegeverhalten und der Schlupfvorgang in kostbaren Bildaufnahmen dokumentiert – eine Schlüsseltechnologie für die Zucht in Gefangenschaft und die Wiederansiedlung wilder Populationen. Das Projekt kombiniert AIoT-Überwachungstechnologie zur präzisen Erfassung von Mikroumweltdaten mit Feldversuchen zur Wiederansiedlung in geeigneten Brutlebensräumen (etwa durch das Anlegen künstlicher Unterschlupfe) sowie mit der Konservierung von genetischem Material (mittels Flüssigstickstoff und Tiefkühlausrüstung), um eine Genbank für zahlreiche taiwanische endemische Arten aufzubauen.[^18] Im selben Jahr unterzeichnete Taiwan Mobile zudem eine Kooperationsvereinbarung mit dem Yushan-Nationalpark und der Agentur für Forstwirtschaft und Naturschutz, um den Schutz des Salamanders gemeinsam voranzutreiben – ein Vorbild für unternehmerische Verantwortung und ressortübergreifende Zusammenarbeit.[^18]
+
+Darüber hinaus setzt sich die grenzüberschreitende Zusammenarbeit fort: Die drei alpinen Nationalparks Shei-Pa, Yushan und Taroko haben gemeinsam das Team von Professor Chu mit Untersuchungen beauftragt, um das Mikroklima sowie den Chytridpilz (Batrachochytrium) zu überwachen – bislang wurde beim taiwanischen Salamander noch keine Infektion festgestellt –, um die Gesundheit des Lebensraums sicherzustellen.[^12] Langfristige Markierungsstudien zeigen zudem, dass einzelne Salamander mehr als zehn Jahre alt werden können, was auf eine gewisse Widerstandsfähigkeit hindeutet.[^16] Diese aktiven Maßnahmen zeichnen zusammen mit der Förderung der öffentlichen Bildungsarbeit ein hoffnungsvolles Bild für die Zukunft des taiwanischen Salamanders.
+
+## Das Lächeln der Eiszeit bewahren: Der Zukunftsweg des taiwanischen Naturschutzes
+
+Der Salamander ist eine kostbare endemische Art Taiwans und zugleich ein wichtiger Indikator dafür, ob das alpine Ökosystem angesichts des globalen Klimawandels gesund bleibt. Ihre Empfindlichkeit gegenüber der Umwelt bedeutet, dass Auf und Ab der Population den Druck, dem das Hochgebirgsökosystem ausgesetzt ist, unmittelbar widerspiegeln. Den Salamander zu schützen bedeutet, die Integrität und biologische Vielfalt der taiwanischen Hochgebirgsökologie zu schützen.
+
+In den letzten Jahren haben mit der Veröffentlichung des Dokumentarfilms „Der Salamander kommt“ von Regisseur Mai Jue-ming, der 17 Jahre lang für diesen Film drehte, sowie durch die unermüdlichen Bemühungen der Wissenschaftler immer mehr Menschen in Taiwan begonnen, diese „Boten der Eiszeit“ kennenzulernen und sich um sie zu sorgen.[^19] Auch der Taipeh-Zoo und andere Institutionen veranstalteten die Sonderausstellung „Auf die Hochgebirgsinsel“, in der die neuesten Forschungsergebnisse gezeigt und die Öffentlichkeit dazu aufgerufen wurde, Klimaschutzmaßnahmen zu ergreifen und beim Bergsteigen Verschmutzung und Störungen zu vermeiden.[^20] Diese Welle der Aufmerksamkeit bringt neue Hoffnung für den Schutz des Salamanders. Dennoch bleibt der Weg des Naturschutzes lang und voller Herausforderungen. Neben kontinuierlicher wissenschaftlicher Forschung und Habitatüberwachung braucht es die gemeinsame Beteiligung von Regierung, Wissenschaft, zivilgesellschaftlichen Organisationen und der breiten Öffentlichkeit.
+
+Das öffentliche Bewusstsein für den Salamander zu schärfen, verantwortungsvolle Aktivitäten im Bergland zu fördern, die Störung des Lebensraums durch menschliche Aktivitäten zu reduzieren und den Gedanken des ökologischen Naturschutzes in das Bildungssystem zu integrieren, sind derzeit die dringlichsten Aufgaben. Nur wenn mehr Menschen den einzigartigen Wert und die Verletzlichkeit des Salamanders verstehen, lässt sich genügend Kraft bündeln, damit diese über Jahrmillionen der Evolution entstandenen, seit der Eiszeit bis heute überlebenden „lächelnden Geister“ sich weiterhin in Taiwans Hochgebirgsbächen fortpflanzen können und zu einem ewigen Symbol für die nachhaltige ökologische Entwicklung Taiwans werden.
+
+> 📝 Kuratoren-Notiz: Das Überleben des Salamanders betrifft den Fortbestand einer Art – und es stellt zugleich die Frage, ob wir der nächsten Generation ein Taiwan hinterlassen können, das im Einklang mit der Natur lebt.
+
+## Quellen
+
+[^1]: [Wildtiere: Der taiwanische Salamander, ein lächelnder Hochgebirgsgeist](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=88d277e5-3be8-4699-a4a7-f71143ce084c) — Science & Technology Vista, Ministerium für Wissenschaft und Technologie (o. D.).
+
+[^2]: [Häufige Missverständnisse bei der Benennung und Klassifikation des Salamanders](https://www.facebook.com/greenpeace.org.tw/posts/1069450275213390/) — Greenpeace Taiwan (15. April 2025). Facebook-Beitrag von Greenpeace, der erklärt, dass der Salamander kein Fisch ist, sondern zur Familie der Winkelzahnmolche in der Ordnung der Schwanzlurche gehört und sein Name auf die japanische Bezeichnung für sein nach Sansho-Pfeffer riechendes Hautsekret zurückgeht.
+
+[^3]: [Der eiszeitliche taiwanische Salamander, der uns anlächelt – können wir ihm helfen, die gravierenden Herausforderungen des 21. Jahrhunderts weiterhin lächelnd zu bestehen?](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=86bd9b13-f044-4a3e-ad5f-140e0f278591) — Science & Technology Vista (o. D.).
+
+[^4]: [Der eiszeitliche taiwanische Salamander, der uns anlächelt – können wir ihm helfen, die gravierenden Herausforderungen des 21. Jahrhunderts weiterhin lächelnd zu bestehen?](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=86bd9b13-f044-4a3e-ad5f-140e0f278591) — Science & Technology Vista (o. D.).
+
+[^5]: [Das Team von Professor Chu Yu-tien vom Fachbereich für Tierwissenschaften und -technologie erstellt die geografische Verbreitungskarte des taiwanischen Salamanders](https://sustainable.ntu.edu.tw/ntu-sdgs/actions/6448f0fae24f0/detail) — Büro für nachhaltige Entwicklung der National Taiwan University (26. April 2023).
+
+[^6]: [Der taiwanische Salamander und der Sonan-Salamander: Hundert Jahre Verwechslung](https://udn.com/news/story/7470/8477889) — United Daily News (9. Januar 2025).
+
+[^7]: [„Der taiwanische Salamander“ existiert nicht! Shei-Pa lüftet das Rätsel um den Lebensraum des Salamanders und stellt die Artbezeichnung richtig](https://www.chinatimes.com/realtimenews/20250108003315-260405) — China Times (8. Januar 2025).
+
+[^8]: [Professor Lü Kuang-yang vom Fachbereich Biowissenschaften widmete 30 Jahre seines Wissens dem Schutz des taiwanischen Schatzes Salamander](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=21471) — National Taiwan Normal University (o. D.).
+
+[^9]: [Der Salamander kommt! Von eiszeitlichem Relikt zu technologiegestütztem Naturschutz – die Resilienz und Hoffnung der taiwanischen Ökologie](https://e-info.org.tw/node/236009) — Taiwan Environmental Information Association (10. März 2023).
+
+[^10]: [Die Assistentin der National Taiwan Normal University, die den Salamander erforschte, stürzte am „Schwarzen Qilai“ zu Tode](https://news.ltn.com.tw/news/society/paper/1004995) — Liberty Times (o. D.).
+
+[^11]: [Sonderscreening von „Der Salamander kommt“: Dank an das damalige Rettungsteam – Dr. Lai Chun-hsiangs Witwe verneigt sich mit ihren Kindern](https://tw.news.yahoo.com/%E5%B1%B1%E6%A4%92%E9%AD%9A%E4%BE%86%E4%BA%86-%E5%8C%85%E5%A0%B4%E6%84%9F%E8%AC%9D%E7%95%B6%E5%B9%B4%E5%89%8D%E6%95%91%E9%9B%A3%E5%9C%98%E9%9A%8A-%E8%B3%B4%E4%BF%8A%E7%A5%A5%E5%8D%9A%E5%A3%AB%E9%81%BA%E5%AD%B8%E8%88%87%E5%B0%8F%E5%AD%B8%E8%BA%AC%E8%87%B4%E8%AC%9D-160000294.html) — Yahoo News (10. März 2023).
+
+[^12]: [Der eiszeitliche taiwanische Salamander, der uns anlächelt – können wir ihm helfen, die gravierenden Herausforderungen des 21. Jahrhunderts weiterhin lächelnd zu bestehen?](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=86bd9b13-f044-4a3e-ad5f-140e0f278591) — Science & Technology Vista (o. D.).
+
+[^13]: [Häufige Missverständnisse bei der Benennung und Klassifikation des Salamanders](https://www.facebook.com/greenpeace.org.tw/posts/1069450275213390/) — Greenpeace Taiwan (15. April 2025). Facebook-Beitrag von Greenpeace, der erklärt, dass der Salamander kein Fisch ist, sondern zur Familie der Winkelzahnmolche in der Ordnung der Schwanzlurche gehört und sein Name auf die japanische Bezeichnung für sein nach Sansho-Pfeffer riechendes Hautsekret zurückgeht.
+
+[^14]: [Häufige Missverständnisse bei der Benennung und Klassifikation des Salamanders](https://www.facebook.com/greenpeace.org.tw/posts/1069450275213390/) — Greenpeace Taiwan (15. April 2025). Facebook-Beitrag von Greenpeace, der erklärt, dass der Salamander kein Fisch ist, sondern zur Familie der Winkelzahnmolche in der Ordnung der Schwanzlurche gehört und sein Name auf die japanische Bezeichnung für sein nach Sansho-Pfeffer riechendes Hautsekret zurückgeht.
+
+[^15]: [Der eiszeitliche taiwanische Salamander, der uns anlächelt – können wir ihm helfen, die gravierenden Herausforderungen des 21. Jahrhunderts weiterhin lächelnd zu bestehen?](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=86bd9b13-f044-4a3e-ad5f-140e0f278591) — Science & Technology Vista (o. D.).
+
+[^16]: [Der eiszeitliche taiwanische Salamander, der uns anlächelt – können wir ihm helfen, die gravierenden Herausforderungen des 21. Jahrhunderts weiterhin lächelnd zu bestehen?](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=86bd9b13-f044-4a3e-ad5f-140e0f278591) — Science & Technology Vista (o. D.).
+
+[^17]: [Aktionsplan zum Schutz des taiwanischen Salamanders (PDF)](https://conservation.forest.gov.tw/) — 2022 von der Agentur für Forstwirtschaft und Naturschutz veröffentlichter offizieller Aktionsplan, der Schutzstrategien für die fünf endemischen Salamanderarten bereitstellt (einschließlich des Rahmens von Wildtierschutzgesetz, Feuchtgebietsschutzgesetz und Erhaltungskorridor des zentralen Berglands).
+
+[^18]: [Taiwan Mobile gelingt gemeinsam mit dem Team von Professor Chu Yu-tien von der National Taiwan University die erfolgreiche künstliche Brutzucht des Salamanders](https://www.taiwanmobile.com/news/news/2025/20250315.html) — Taiwan Mobile (15. März 2025).
+
+[^19]: [Der Salamander kommt! Von eiszeitlichem Relikt zu technologiegestütztem Naturschutz – die Resilienz und Hoffnung der taiwanischen Ökologie](https://e-info.org.tw/node/236009) — Taiwan Environmental Information Association (10. März 2023).
+
+[^20]: [Sonderausstellung „Auf die Hochgebirgsinsel“ – Begegnung mit dem eiszeitlichen Relikt Salamander](https://www.zoo.gov.taipei/News_Content.aspx?n=867972004275138B&sms=78D644F2755E16A9&s=734033100344079C) — Taipeh-Zoo (15. März 2023).
