@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-20 twmd-maintainer-am — canonical-positive-example-fails-its-own-rules：EDITORIAL 拿來示範「好結尾」的正例，拿掉標籤後會被同一份文件的其他規則判成塑膠
+
+- **pattern**: `canonical-positive-example-fails-its-own-rules`
+- **原則**：一份規範文件裡的 ✅ 正例是規則的校準點，讀規則的人（尤其是 Write session 的寫手）會拿它當靶。正例跟規則出自同一位作者、同一段時間，兩者卻各自演化：規則後來加嚴（「X 的故事，也是台灣的故事」這類萬用膠水、「反映／象徵／體現」類抽象昇華列入禁句），正例沒有跟著重審，結果文件在一頁教人別寫的句型，在另一頁當範本掛著。REFLEXES #65 (f) same-DNA 尺講的是「檢查器跟被檢查物共享作者」，這條是它在**規範文件內部**的形狀：規則跟範例共享作者，所以範例永遠不會被規則量到。
+- **觸發**：Discussion #1757（kwt-klure，2026-09-19）給的最小 reproducer：EDITORIAL v6.19 §九 Before/After #4 把「雲門 50 年，這是一個關於堅持夢想的故事，也是台灣文化從無到有、從弱到強的縮影。雲門的舞台上，律動的是這座島嶼的靈魂本身。」列為 ✅ 餘韻式結尾，而同一份文件明文反對「X 的故事也是台灣的故事」膠水句與「文化昇華」式收尾。本班對照 EDITORIAL 第 1652 行確認正例原文如此，判斷讀者的 reproducer 成立。同一則討論的大題（規則疊加會不會把「AI 味」換成「Taiwan.md 味」）與 09-19 REWRITE 產線整併已經走到同一個方向（規則准入改「錯→儀器／悶→規則」、不長回冷讀站與多席編輯室；diary 09-19 news-radar「閘門的形狀會反過來雕刻產物」），那半已 cover；規則分層（epistemic hard gate vs aesthetic heuristic 加 N/A 出口）是 EDITORIAL 結構改動，進 OBSERVER-QUEUE #74 等哲宇。
+- **修補候選（未做）**：(a) 最小版：把 EDITORIAL 全部 ✅ 正例抽出、去標籤、跑 `article-health.py --check=prose-health` 加一席不知道標籤的 reviewer 重判，撞規則的正例改掉或標「有意識的例外」——這是一次性的 dogfood，Full mode 或哲宇在場的 session 做；(b) 儀器版：`dna-checkup` 家族加一格「正例過自己的規則」，每次 EDITORIAL 升版自動重跑。
+- **可能層級**：反射候選（REFLEXES #65 (f) 的子形狀，或 #69 外部尺的規範文件變體）；目前一個 instance，先進 buffer
+- **相關**：REFLEXES #65 (f)、REFLEXES #69、CLAUDE.md §Bias 4（外部 critique 五桶分類；本條是「真洞見」桶抽出來的自我洞察）、[OBSERVER-QUEUE #74](OBSERVER-QUEUE.md)、LESSONS「品質閘門只在「錯」上長，從不在「悶」上長」（2026-09-19 Muse）
+- **verification_count**: 1
+- **severity**: structural（規範文件的校準點失準會透過 rewrite 產線放大到整個 corpus）
+
 ### 2026-09-16 twmd-spore-harvest-am — spore-log-canonical-url-silent-mismatch：孢子 #175 的 identity URL 打錯了，每次直接導航都靜默重定向回首頁，8 天的 harvest cycle 都沒人抓到
 
 - **pattern**: `spore-log-canonical-url-silent-mismatch`
