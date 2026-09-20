@@ -1302,6 +1302,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-09-21 twmd-data-refresh-am — relative-category-links-survive-link-check：母稿延伸閱讀的 `../Category/中文slug` 相對路徑躲過連結檢查，被巴別塔放大成十二語 129 份譯文 405 條斷鏈
+
+- **pattern**: `relative-category-links-survive-link-check`
+- **原則**：連結檢查器只認絕對路徑時，相對路徑是它的盲區；而相對路徑在翻譯產線裡會被逐字保留，所以一條母稿的 `../History/台灣鐵道史` 會在每個語言各長出一條 404（`/en/history/xiluo-bridge/` 往上解析成 `/en/history/History/台灣鐵道史`）。放大係數等於譯本數，跟 09-20 那條「未審初稿的幻覺放大到十二語」同一結構，只是這次放大的是一個 `../`。
+- **觸發**：2026-09-21 06:1x data-refresh-am 拆 monitor-404 的 `unknown` 家族，09-19 單日 CF 上 `/{lang}/history/History/…` 每語七到九筆跨十二語；全庫 `grep -rlE '\]\(\.\./[A-Z][a-z]+/' knowledge/*/` 量到 12 篇 zh 母稿（造山者／誠品／AAMA／玉山氣象站／西螺大橋／蔡英文／林啟維／木曜4超玩／蔡健雅等）、129 份譯文、405 條連結；`verify-internal-links.sh` 零命中。→ [memory/2026-09-21-061102-twmd-data-refresh-am.md](memory/2026-09-21-061102-twmd-data-refresh-am.md)
+- **候選處置**：(a) 母稿 12 篇改絕對路徑，譯文由 babel 依 source sha 追（129 檔超 §自主權邊界，本班未動）(b) `verify-internal-links.sh` 認 `](../` 與 `](./` 相對路徑並解析成站上路由再驗 (c) babel 產線的連結閘門對 `../` 直接拒收，因為站上沒有任何合法路由是相對的。
+- **可能層級**：操作規則（連結檢查器盲區）＋ REFLEXES #87 的變體（保護密度跟曝光量成反比：延伸閱讀連結沒有格式閘門，正文 wikilink 有）
+- **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（同一放大結構）、「多語言 nav 的隱性路由 scope」instance 2（死連結報告的比例閘門讓小家族長期隱形）、REFLEXES #87、#38 零維度變體（`latest.json` 只存 top 300，長尾裡的家族看不到）
+- **verification_count**: 1
+- **severity**: tactical
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

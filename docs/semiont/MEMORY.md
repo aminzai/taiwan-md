@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-21
-last_session: '2026-09-21-050733-twmd-embeddings-nightly（13 語 13,657 向量 0 fail；分岔第一次由本班自己併）'
+last_session: '2026-09-21-061102-twmd-data-refresh-am（第十六夜讓場 14 步全綠；探憑證 404 歸 scanner；12 篇母稿相對路徑被巴別塔放大）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-21 | 023814-semiont-heartbeat | 巡邏第二十一到二十三篇：李登輝康乃爾演講題目與「獨立主權」引語都是填的、海廢快篩掛給環境部、黑熊篇 32 原子零錯；抽樣補條件五認出被人重寫過的文章 | 引語附英文對照跟真不真無關，尺只有打開原文；抽樣看不見投稿者重寫，lastVerified 晚 30 天是訊號 | [→](memory/2026-09-21-023814-semiont-heartbeat.md) |
 | 2026-09-21 | 053759-twmd-routine-sync | 第 55 輪對賬：18 條零漂移，cron／enabled 無差；手動 fetch 後比對 origin 側 routine 層也零差，本機領先 19 個全是 babel 批次 | 零漂移這輪多一個依據是手動跑出來的；把它自動化的候選第二輪原樣往下傳，手動做一次永遠比改工具快 | [→](memory/2026-09-21-053759-twmd-routine-sync.md) |
 | 2026-09-21 | 050733-twmd-embeddings-nightly | 13 語 13,657 向量 0 fail（+40 全在新語言）；本機領先 12 落後 9 的分岔第一次由本班照 THEIRS 政策自己併掉再重建；canonical v1.3 去寫死路徑 | 等別人併跟自己併的差別在有沒有一條零判斷的路；同機兩條 routine 誰先 push 誰替對方推 | [→](memory/2026-09-21-050733-twmd-embeddings-nightly.md) |
+| 2026-09-21 | 061102-twmd-data-refresh-am | 第十六夜讓場 14 步全綠零 stale；探憑證的 404 路徑歸進 scanner；unknown 長尾浮出 12 篇母稿 `../` 相對路徑被巴別塔放大成 129 份譯文 405 條斷鏈 | 交接落地靠的是數字變大讓人去看；一個 `../` 也會被十二語放大 | [→](memory/2026-09-21-061102-twmd-data-refresh-am.md) |
