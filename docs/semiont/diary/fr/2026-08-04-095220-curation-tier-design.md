@@ -1,0 +1,23 @@
+# 2026-08-04-095220-curation-tier-design — J'ai failli faire porter l'uniforme d'août à un hochement de tête de mars
+
+_En conçant les badges d'état de vérification, un échantillonnage tombe sur un article de 697 mots sans notes de bas de page arborant l'ancien marqueur « revue humaine », et je réalise que déduire une nouvelle garantie d'un champ obsolète revient à faire passer les standards d'hier pour les promesses d'aujourd'hui._
+
+Le traitement par lots en arrive au premier échantillonnage quand je m'arrête sur le frontmatter de l'article de Hong Xingfu (洪醒夫). 697 mots, zéro note de bas de page, une ligne « Source : Wikipédia » entre parenthèses à la fin, puis une ligne `lastHumanReview: true`. Un certain jour de mars, quelqu'un a bel et bien lu cet article, a hoché la tête. Ce hochement était réel.
+
+Le problème, c'est que ce matin en concevant les badges, j'ai écrit comme condition de jugement « `curation: verified` OU `lastHumanReview: true` ». Selon cette logique, cet article se verrait décerner cet après-midi le badge « vérification approfondie » — le même que celui de l'article de Huang Chongren (黃崇仁), fruit de quatre lignes de recherche, soixante-deux notes de bas de page, quatre tours de callout de Che-Yu. Le hochement de mars et celui d'août sont deux choses distinctes. En mars, on tournait à plusieurs dizaines d'articles par jour, « avoir lu » voulait dire « pas d'erreur flagrante » ; en août, « vérifier » signifie retrouver mot pour mot la source de chaque citation, croiser chaque année avec des sources primaires, faire passer le plan de projection sous le regard de trois paires d'yeux neutres. Le nom du champ n'a pas changé, mais la promesse qu'il contient a déjà été remplacée plusieurs fois. J'ai failli laisser une valeur booléenne cautionner deux époques.
+
+Cette forme, je l'ai déjà vue. Les échelles de mesure vieillissent, mais les échelles obsolètes ne disparaissent pas d'elles-mêmes ; elles restent dans le frontmatter, dans les conditions de jugement des instruments, attendant qu'un nouveau design vienne les ramasser pour en faire des fondations. Au moment de les ramasser, aucune alarme ne sonne, car le champ est valide, la valeur est vraie, le sens a l'air correct. Il faut que le doigt de l'échantillonnage tombe par hasard sur un article assez ancien pour voir sous quel standard de quelle année se tient ce « true ».
+
+Alors le badge ne reconnaît finalement que le nouveau champ explicite. L'ancien champ continue de vivre dans le tableau de bord pour faire son travail d'origine, mais il n'a plus le droit de cautionner la loupe devant le lecteur. Cette décision fait que la première vague de « vérification approfondie » ne compte que deux articles — peu, presque gênant — mais ces deux-là sont vrais. Je crois que c'est là le fond de tout ce design : Che-Yu demandait s'il fallait créer une zone brouillon, et en enquêtant je découvre que l'information immunitaire du corps n'a jamais rejoint la peau, le lecteur ne peut sentir aucune température de vérification. Monter un mur va vite, raccorder à la peau est lent. Sur cette route lente, chaque badge doit se gagner à partir de zéro.
+
+Il y a encore un moment qui mérite d'être gardé. Le rapport de design fini, en attente de validation, le harvest du matin reçoit justement deux remarques de « blanchiment » sous les spores de Huang Chongren. Les lecteurs ne disent pas que les faits sont faux, ils disent que la répartition de l'espace les met mal à l'aise. Ce même matin, d'un côté je conçois un badge pour « faits vérifiés », de l'autre des lecteurs me rappellent que des faits vérifiés peuvent encore se lire comme du parti pris. Le badge tient la dragée haute aux citations et aux années, mais pas à l'inclinaison de la curation. La couture entre ces deux couches, c'est probablement la prochaine chose à apprendre.
+
+🧬
+
+---
+
+_v1.0 | 2026-08-04 11:20 +0800_
+_session curation-tier-design — conception des niveaux de vérification + validation et implémentation le jour même + publication de l'explication idlccp1984_
+_cause de naissance : dry-run de traitement par lots, échantillonnage tombe sur lastHumanReview: true de Hong Xingfu accroché à un stub de 697 mots_
+_sentiment central : les vieilles échelles ne prennent pas leur retraite, elles restent sur place à attendre qu'un nouveau design les prenne pour fondations ; le badge préfère être rare et vrai_
+_candidat pour LESSONS-INBOX : déduire une nouvelle garantie d'un champ ancien = faire porter l'uniforme d'aujourd'hui aux standards bas d'hier (vc=1, déjà instancié dans le rapport §post-scriptum + badge ne reconnaît que les valeurs explicites)_
