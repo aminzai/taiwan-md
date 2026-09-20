@@ -1,255 +1,261 @@
 ---
-title: 'Agricultura e Revitalização Rural de Taiwan'
-description: 'Do Reino do Arroz à Agricultura de Precisão: A História da Transformação Agrícola e do Renascimento das Comunidades Rurais de Taiwan'
+title: 'Agricultura e Renascimento Rural em Taiwan'
+description: 'Do reino da arroz à agricultura de precisão: a história da transformação agrícola e renascimento das comunidades rurais em Taiwan'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '農業經濟'
 tags:
   [
     'Agricultura',
-    'Revitalização Rural',
+    'Renascimento Rural',
     'Agricultura de Precisão',
     'Agricultura Orgânica',
-    'Retorno de Jovens ao Campo',
-    'Sistema de Associações de Agricultores',
-    'Construção Comunitária',
+    'Jovens que Retornam às Fazendas',
+    'Sistema Cooperativo Agrícola',
+    'Planejamento Comunitário',
   ]
-lastVerified: 2026-03-19
-lastHumanReview: false
+subcategory: '農業經濟'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-09-20
+lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:95d473c7b6d24541'
-sourceBodyHash: 'sha256:a996bea328f05c29'
-translatedAt: '2026-07-26T03:58:09+08:00'
+sourceCommitSha: '35a9b46c8'
+sourceContentHash: 'sha256:bea7a776566a0bbd'
+sourceBodyHash: 'sha256:760025faea8ce9a0'
+translatedAt: '2026-09-21T00:58:33+08:00'
 ---
 
-# Agricultura e Revitalização Rural de Taiwan
+# Agricultura e Renascimento Rural em Taiwan
 
-Nos campos de cebolinha de Sansing, no Condado de Yilan, um jovem de 33 anos que retornou ao campo transmite ao vivo a colheita pelo celular, compartilhando com a audiência online os segredos do cultivo de cebolinha orgânica de Sansing. Do outro lado da tela, consumidores em Taipé já fizeram seus pedidos de pré-venda. Esse cenário era inimaginável há 50 anos — na época, os agricultores preocupavam-se com o excesso de capacidade de produção de arroz, e os jovens deixavam suas terras natais em massa para trabalhar em fábricas. Hoje, a agricultura de Taiwan transformou-se do "reino do arroz de produção em massa" no "modelo de agricultura de precisão", e as áreas rurais, antes cantos decadentes de perda populacional, renasceram como novos mundos onde criatividade e sustentabilidade coexistem.
+Nas plantações de cebolinha em Sanxing, no condado de Yilan, um jovem de 33 anos que retornou à fazenda está transmitindo ao vivo pelo celular o processo de colheita, compartilhando com o público online os segredos de cultivo do cebolinha orgânico de Sanxing. Ao outro lado da tela, consumidores em Taipé já fizeram encomendas antecipadas. Essa cena seria impensável há 50 anos — naquela época, os agricultores se preocupavam com o excesso de produção de arroz, enquanto os jovens emigravam em massa para as fábricas em busca de trabalho. Hoje, a agricultura de Taiwan transformou-se de um "reino produtor de arroz em escala" a um "modelo de agricultura de precisão", e as áreas rurais, que antes enfrentavam o abandono devido à emigração populacional, renasceram como novos espaços onde a criatividade e a sustentabilidade coexistem.
 
-> A terra agrícola de Taiwan representa apenas 24% da área do território; o valor da produção anual da agricultura, silvicultura, pesca e pecuária primárias é de aproximadamente 351,3 bilhões de NTD (2023; a cadeia agroalimentar completa, incluindo restauração, atinge 1,6835 trilhão de NTD)[^1]. A população empregada na agricultura corresponde a cerca de 4,4% do total de empregados no país (estatísticas do Ministério da Agricultura de 2023, aproximadamente 509 mil pessoas)[^1], sustentando uma cadeia industrial completa que envolve o sustento de 6 milhões de pessoas.
+> Taiwan possui cerca de 20% da área territorial cultivável. No início de 2024, a agricultura, silvicultura, pesca e pecuária primárias representavam apenas 1,5% do PIB nacional, mas incluindo a produção de alimentos, bebidas, comércio atacadista e varejista e serviços de alimentação, a contribuição bruta da agroalimentação chegou a 1,7449 trilhão de dólares (6,8% do PIB), empregando cerca de 2 milhões de pessoas (17,2% da população total), dos quais 490 mil trabalhavam diretamente na agricultura primária (4,3%)[^1]。
 
-## Por que isso importa
+## Por que isso é importante
 
-A agricultura é a raiz cultural e ecológica de Taiwan, além de ser uma indústria importante que sustenta toda a sociedade. Desde o melhoramento do arroz Ponlai durante o período colonial japonês, passando pela reforma agrária do pós-guerra, até a agricultura de precisão de hoje, a história do desenvolvimento agrícola de Taiwan é também uma história de transformação social. Quando o mundo enfrenta desafios de segurança alimentar, a experiência de transformação agrícola de Taiwan — como alcançar alto valor de produção em terras limitadas, como revitalizar áreas rurais através da construção comunitária — oferece uma referência valiosa para muitos países em desenvolvimento.
+A agricultura é a base da cultura e da ecologia de Taiwan, além de ser um setor essencial ao suporte da sociedade como um todo. Desde o período de ocupação japonesa, com a melhoramento genético do arroz Penglan, passando pela reforma agrária pós-guerra, até a atual agricultura de precisão, a história do desenvolvimento agrícola de Taiwan reflete a história das transformações sociais. Diante dos desafios globais de segurança alimentar, a experiência de transformação agrícola de Taiwan — como maximizar o valor agregado em terras limitadas, e como revitalizar áreas rurais por meio do planejamento comunitário — oferece uma referência valiosa para muitos países em desenvolvimento.
 
-## Do Reino do Arroz à Agricultura de Precisão
+## Do reino do arroz à agricultura de precisão
 
-### 1950-1980: A Era Dourada do Reino do Arroz
+### 1950-1980: A era de ouro do reino do arroz
 
-**A reforma agrária como fundação:**
-A reforma agrária de 1949-1953 transformou o sistema de grandes latifundiários do período colonial japonês em "o lavrador tem sua terra", estimulando a motivação produtiva dos agricultores. Com a promoção de variedades superiores de arroz Ponlai, a produção de arroz de Taiwan aumentou rapidamente.
+**Fundamentos da reforma agrária:**
+A reforma agrária de 1949-1953 transformou o sistema de grandes proprietários da era japonesa em "terra para os que trabalham a terra", estimulando a motivação produtiva dos agricultores. Em conjunto com a promoção de variedades de arroz Penglan de alta qualidade, a produtividade do arroz em Taiwan aumentou rapidamente.
 
-**Revolução Verde:**
+**Revolução verde:**
 
-- Anos 1960: introdução de tecnologia do Instituto Internacional de Pesquisa do Arroz (IRRI)
-- Promoção do uso de fertilizantes químicos e agrotóxicos
-- Estabelecimento do sistema de irrigação de terras agrícolas
-- A produtividade do arroz subiu de 2,8 toneladas por hectare em 1950 para 4,5 toneladas em 1980[^1]
+- Década de 1960: introdução das tecnologias do IRRI (International Rice Research Institute)
+- Promoção do uso de fertilizantes e pesticidas químicos
+- Construção de sistemas de irrigação de campos agrícolas
+- A produtividade do arroz por unidade de área aumentou significativamente nas três décadas após a guerra; a partir da década de 1970, Taiwan começou a enfrentar o problema de superprodução de arroz[^3]
 
-**Estabelecimento do sistema de associações de agricultores:**
-As associações tornaram-se a ponte entre agricultores e governo, responsáveis por:
+**Estabelecimento do sistema cooperativo agrícola:**
+As cooperativas agrícolas se tornaram a ponte entre os agricultores e o governo, responsáveis por:
 
-- Extensão de tecnologia agrícola
+- Promoção de tecnologias agrícolas
 - Compra e venda de produtos agrícolas
 - Serviços financeiros agrícolas
-- Educação e treinamento de agricultores
+- Treinamento e educação dos agricultores
 
-### 1980-2000: Ajuste da Estrutura Industrial
+### 1980-2000: Ajuste estrutural da indústria
 
-Com a aceleração da industrialização, a agricultura enfrentou êxodo de mão de obra e declínio da vantagem comparativa:
+Com a aceleração da industrialização, a agricultura enfrentou a perda de mão de obra e a redução da competitividade:
 
-**Crise de excesso de arroz:**
+**Crise de superprodução de arroz:**
 
-- Anos 1980: produção excessiva de arroz; o governo promoveu "política de redução da produção de arroz"
-- Incentivo à conversão para culturas de alto valor econômico
-- Início da atenção à qualidade em vez de quantidade dos produtos agrícolas
+- Década de 1980: superprodução de arroz, governo implementou política de redução da plantação de arroz
+- Incentivo ao plantio de culturas de alto valor econômico
+- Começou-se a prestar atenção à qualidade dos produtos agrícolas em vez de focar apenas na quantidade
 
 **Desenvolvimento diversificado:**
 
-- Avanço nas técnicas de cultivo de vegetais e frutas
-- Ascensão da indústria de flores e jardinagem
+- Aperfeiçoamento das técnicas de cultivo de hortaliças e frutas
+- Aflorimento da indústria florícola e de jardinagem
 - Modernização da pecuária
-- Avanços na tecnologia de aquicultura
+- Avanços na técnica de aquicultura
 
-### 2000-presente: Paradigma da Agricultura de Precisão
+### 2000-Atualmente: Modelo de agricultura de precisão
 
-**Política de agricultura de precisão:**
-Em 2002, o governo propôs formalmente o conceito de "agricultura de precisão"[^2], enfatizando:
+**Políticas de agricultura de precisão:**
+Desde a década de 1980, os órgãos agrícolas governamentais adotaram a "agricultura de precisão" como direção de transformação. Em 2009, o Gabinete Executivo aprovou o "Plano de Excelência e Saúde da Agricultura de Precisão", incluído como uma das seis novas indústrias emergentes[^2], enfatizando:
 
-- Alta qualidade, alto valor agregado
-- Ambientalmente amigável e desenvolvimento sustentável
+- Alta qualidade e alto valor agregado
+- Amigável ao meio ambiente e desenvolvimento sustentável
 - Aplicação de tecnologia e inovação
 - Branding e internacionalização
 
-## O Caminho da Revitalização das Comunidades Rurais
+## Caminho para o renascimento das comunidades rurais
 
-### Movimento de Construção Comunitária Rural
+### Movimento de planejamento comunitário rural
 
-**Despertar da construção comunitária nos anos 1990:**
-Inspirado pelo movimento japonês "Uma Vila, Um Produto", Taiwan começou a promover a construção comunitária integral:
+**Anos 1990: conscientização sobre planejamento comunitário:**
+Em 1994, o Conselho de Construção e Cultura (BASTA) propôs "planejamento comunitário integrado", inspirando-se nas experiências japonesas de desenvolvimento urbano e "uma vila, um produto", Taiwan começou a promover o planejamento comunitário:
 
-- Descobrir características locais e recursos culturais
+- Explorar características locais e recursos culturais
 - Cultivar consciência e identidade comunitária
-- Combinar desenvolvimento industrial com turismo
-- Estabelecer capacidade de autogestão comunitária
+- Integrar desenvolvimento industrial com turismo
+- Construir capacidade de gestão autônoma comunitária
 
 **Casos de sucesso:**
 
-**Beipu, Hsinchu:**
-Combinação da cultura Hakka com a indústria de caqui seco, desenvolvendo turismo cultural
+**Xinpu, Hsinchu:**
+Combinando a cultura hakka com a indústria centenária de biscoitos de abóbora, desenvolveu turismo cultural com os biscoitos de abóbora secos ao sol sob o vento das nove montanhas[^8]
 
-- Preservação da técnica tradicional de fabricação de caqui seco
-- Restauração de sítios históricos e edifícios históricos
-- Desenvolvimento de atividades de festivais de caqui seco
-- Estabelecimento de marca e canais de distribuição de caqui seco
+- Preservar técnicas tradicionais de fabricação de biscoitos de abóbora
+- Restaurar monumentos históricos e edifícios antigos
+- Desenvolver festivais de biscoitos de abóbora
+- Estabelecer marca e canais de distribuição de biscoitos de abóbora
 
-**Comunidade Taomi, Nantou:**
-Modelo de reconstrução pós-terremoto de 921, transformando ruínas em vila ecológica
+**Comunidade de Taomei, Nantou:**
+Reconstrução pós-terremoto de 921 como modelo de vila ecológica, transformando escombros em vila ecológica
 
-- Reconstrução de lares com métodos ecológicos de construção
-- Desenvolvimento de ecoturismo e educação ambiental
-- A Igreja de Papel torna-se símbolo do renascimento da comunidade
+- Reconstrução ecológica com técnicas verdes
+- Desenvolvimento de turismo ecológico e educação ambiental
+- Igreja de papel tornou-se símbolo do renascimento comunitário
 - Base de pesquisa e conservação da ecologia de anfíbios
 
-### Lei de Revitalização Rural e Prática
+### Legislação e práticas de renascimento rural
 
-**Aprovação da Lei de Revitalização Rural em 2010:**
+**Aprovação da Lei de Renascimento Rural em 2010:**
 
-- A Lei de Revitalização Rural estipula investimento de 150 bilhões de NTD em 10 anos no Fundo de Revitalização Rural (aprovada legislativamente no ano 99 da República)[^5]
-- Promoção de planos de revitalização por unidade comunitária
-- Combinação de construção de infraestrutura com melhoria de capacidades
-- Ênfase no planejamento participativo de baixo para cima
+- A Lei de Renascimento Rural (promulgada no ano 99 do calendário republicano) no seu artigo 7 estabelece a criação de um fundo de renascimento rural de 150 bilhões de dólares taiuaneses, a ser orçamentado gradualmente ao longo de dez anos[^5]
+- Promover planos de renascimento com base em comunidades
+- Combinar construção física com melhoria de software
+- Enfatizar planejamento participativo de base, com o Departamento de Desenvolvimento Rural e Conservação do Solo e Água concedendo orientação às comunidades para elaborar planos[^6]
 
-**Estratégias de revitalização:**
+**Estratégias de renascimento:**
 
-1. **Revitalização industrial:** Desenvolver produtos agrícolas característicos e sexta-industrialização da agricultura
-2. **Preservação cultural:** Manter arquitetura tradicional e bens culturais imateriais
-3. **Melhoria ambiental:** Requalificação de canais de irrigação, trilhas e espaços públicos
-4. **Cultivo de talentos:** Retorno de jovens rurais ao campo e formação de líderes comunitários
+1. **Ativação da indústria:** desenvolver produtos agrícolas característicos e promover a agroindústria de seis níveis
+2. **Preservação cultural:** proteger construções tradicionais e patrimônios culturais imateriais
+3. **Melhoria ambiental:** limpar sistemas de água, construir trilhas e espaços públicos
+4. **Desenvolvimento de talentos:** incentivo à retomada da fazenda por jovens rurais e formação de líderes comunitários
 
-## A Onda de Retorno de Jovens ao Campo
+## Onda de jovens que retornam às fazendas
 
-### Ascensão dos Novos Agricultores
+### Ascensão dos novos agricultores
 
-**Onda de retorno pós-2010:**
-Influenciados por incidentes de segurança alimentar e pela busca por qualidade de vida, cada vez mais jovens escolhem retornar ao campo para cultivar:
+**Onda de retorno após 2010:**
+Influenciados por incidentes de segurança alimentar e busca por qualidade de vida, um número crescente de jovens optou por retornar às fazendas. A maioria desses novos agricultores possui formação em áreas não agrícolas, valorizando práticas amigáveis ao meio ambiente e gestão de marcas, e o Departamento de Agricultura oferece programas de apoio como "Cem Jovens Agricultores Notáveis" para acolhi-los.
 
-- Jovens graduados universitários representam 40% dos que retornam para cultivar
-- Idade média dos novos agricultores: 35 anos, inferior à dos agricultores tradicionais
-- Maioria possui formação profissional não agrícola
-- Valorizam práticas ambientalmente amigáveis e gestão de marca
-
-### Novos Modelos de Gestão Agrícola da Nova Geração
+### Modelos de gestão agrícola da nova geração
 
 **Agricultura tecnológica:**
 
 - Estufas inteligentes e sistemas de controle ambiental
-- Pulverização e monitoramento por drones
+- Aplicação e monitoramento por drones
 - Aplicação de sensores IoT
-- Análise de big data e tomada de decisão assistida por IA
+- Análise de big data e decisão assistida por IA
 
-**Gestão de marca:**
+**Gestão baseada em marca:**
 
-- Estabelecimento de marca pessoal ou da fazenda
-- Educação alimentar/agrícola e atividades de experiência
-- Marketing em redes sociais
-- Venda direta ao consumidor (direto da origem)
+- Criar marcas pessoais ou de fazendas
+- Educação e experiências alimentares
+- Marketing nas redes sociais
+- Venda direta ao consumidor (entrega direta da fazenda)
 
-**Sexta-industrialização:**
+**Agroindústria de seis níveis:**
 
-- Produção primária: produtos agrícolas seguros e de qualidade
-- Processamento secundário: processamento e embalagem de produtos agrícolas
-- Serviços terciários: turismo de experiência e serviços de restauração
-- Efeito sinérgico 1×2×3=6
+- Nível 1: produção — produtos agrícolas seguros e de alta qualidade
+- Nível 2: processamento — refinamento e embalagem de produtos agrícolas
+- Nível 3: serviços — experiências turísticas e serviços de alimentação
+- 1×2×3=6 benefícios integrados
 
-### Casos de Sucesso de Retorno ao Campo
+### Casos de sucesso de retorno
 
-**"Liangshi Agricriativo" em Dapi, Yunlin:**
-Jovem graduado da NTU (Universidade Nacional de Taiwan) que retornou ao campo, transformou o negócio familiar de vegetais fermentados:
+**Picles de Daipi, Yunlin:**
+O condado de Daipi, líder nacional na produção de picles, redefiniu uma indústria tradicional que era conhecida por causa dos resíduos de salinização como marca local[^9]：
 
-- Introduziu sistema de controle de segurança alimentar HACCP
-- Desenvolveu pratos criativos e produtos de vegetais fermentados
-- Combinou educação alimentar/agrícola com experiência na fazenda
-- Estabeleceu sistema de vendas online e entrega
+- 2003: estabelecimento de zona profissional especializada em picles
+- Em parceria com o Instituto de Ciências da Vida da Universidade Nacional de Taiwan, transformou anualmente milhares de toneladas de água salina em ração animal e fertilizante líquido
+- Restaurante de picles e artesanato de palha de arroz transformaram a indústria em portas de entrada para educação alimentar e turismo
 
-**"Fazenda Ecológica Nafuna" em Linari, Pingtung:**
-Modelo de reconstrução indígena pós-tufão Morakot:
+**Vila Lina, Pindao:**
+Após a destruição causada pela tempestade Morak em 2009, três vilas — Dajia em Shimen, Maja em Qishan e Chahe em Wutai — se relocaram para a fazenda de Maja e reconstruíram suas casas[^10]：
 
-- Cultivo de quinoa vermelha orgânica e painço
-- Combinação de conhecimento agrícola tradicional com tecnologia moderna
-- Desenvolvimento de ecoturismo tribal
-- Promoção da educação cultural indígena
+- Grãos tradicionais como amaranto vermelho, milho pequeno e feijão-de-poleo tornaram-se parte da mesa e dos produtos da vila
+- Armazém de grãos de Maja (Kubav) transformou o amaranto vermelho em oficina e pratos saborosos
+- Turismo ecológico indígena e educação cultural indígena andam juntas
 
-## A Ascensão da Agricultura Orgânica
+## Auge da agricultura orgânica
 
-### Histórico do Desenvolvimento Orgânico
+### Processo de desenvolvimento da agricultura orgânica
 
-O desenvolvimento da agricultura orgânica em Taiwan divide-se em três períodos. O período inicial (1980-1995): fundação da Fundação de Desenvolvimento da Agricultura Orgânica Cixin, a Aliança de Donas de Casa promoveu compras coletivas, a consciência ambiental dos consumidores começou a despertar. O período de crescimento (1995-2007): estabelecimento do sistema de selo de produtos orgânicos, o projeto de lei de promoção da agricultura orgânica entrou em fase de discussão, o mercado orgânico expandiu-se. A partir de 2007, entrou na fase de institucionalização: a "Lei de Gestão da Produção e Verificação de Produtos Agrícolas" foi aprovada, a "Lei de Promoção da Agricultura Orgânica" entrou em vigor em 2018, e em 2023 a área certificada orgânica atingiu 17.365 hectares, com 5.131 agricultores orgânicos[^7].
+O desenvolvimento da agricultura orgânica em Taiwan pode ser dividido em três fases. Na fase inicial (finais dos anos 1980 a 1990), a Federação das Esposas (fundada em 1987) promoveu a compra coletiva, e a Fundação de Desenvolvimento da Agricultura Orgânica Benevolente foi estabelecida em 1997, despertando a consciência ambiental dos consumidores[^11]。 Em 2007, a Lei de Regulamentação da Produção e Verificação de Produtos Agrícolas estabeleceu um sistema de verificação de terceiros, naquele momento, a área certificada orgânica representava apenas 0,24% da área cultivada. Após a aprovação da Lei de Promoção da Agricultura Orgânica em 2018, entrou na fase de aceleração: até o final de 2025, a área certificada orgânica chegará a 21.871 hectares (2,81% da área cultivada), e em agosto de 2026, haverá 6.600 agricultores certificados orgânicos, com uma área total de 23.631 hectares[^7][^12]。
 
-### Desafios e Oportunidades da Agricultura Orgânica
+### Desafios e oportunidades da agricultura orgânica
 
-Os principais desafios da agricultura orgânica residem na perda de renda durante o período de transição, na alta barreira técnica para controle orgânico de pragas, na dificuldade em estabelecer canais de venda, e na aceitação de preço dos consumidores para produtos orgânicos, que permanece como fator limitante. Por outro lado, o aumento da consciência sobre segurança alimentar impulsiona a demanda orgânica, somado a subsídios de política, crescimento do mercado orgânico internacional e combinação com ecoturismo, o impulso de crescimento da agricultura orgânica fortaleceu-se claramente.
+Os principais desafios da agricultura orgânica incluem perda de renda durante o período de transição, altos requisitos técnicos para controle biológico de pragas, e dificuldades na construção de canais de vendas. Além disso, a aceitação do preço pelos consumidores ainda é um fator limitante. Por outro lado, a conscientização sobre a segurança alimentar impulsionou a demanda por produtos orgânicos, e combinada com subsídios governamentais, mercados internacionais orgânicos em crescimento e integração com turismo ecológico, a força motriz do crescimento da agricultura orgânica tornou-se evidente.
 
-## A Evolução do Sistema de Associações de Agricultores
+## Evolução do sistema cooperativo agrícola
 
-### Funções Tradicionais das Associações
+### Funções tradicionais das cooperativas agrícolas
 
-As associações tradicionais desempenhavam funções políticas e econômicas duplas: no aspecto político, representavam interesses dos agricultores, promoviam políticas agrícolas, mobilizavam organizações de base rural; no aspecto econômico, executavam comercialização conjunta de produtos agrícolas, compra conjunta de insumos agrícolas, serviços financeiros e de seguros agrícolas, e extensão de tecnologia agrícola.
+As cooperativas agrícolas tradicionais possuem funções tanto políticas quanto econômicas: politicamente, representam os interesses dos agricultores, promovem políticas agrícolas e mobilizam organizações de base rurais; economicamente, realizam a comercialização conjunta de produtos agrícolas, aquisição coletiva de insumos agrícolas, serviços financeiros e seguros agrícolas, e promoção de tecnologias agrícolas.
 
-### Transformação das Associações Modernas
+### Transformação moderna das cooperativas agrícolas
 
-Os serviços das associações modernas estenderam-se da agricultura para varejo de supermercado, lazer, turismo e restauração, cuidado comunitário de longa duração e educação cultural, promovendo simultaneamente a transformação digital — plataforma de compras online, pagamento digital, análise de big data agrícola e serviços de agricultura inteligente, constituindo as quatro dimensões da atualização digital das associações.
+Os serviços das cooperativas agrícolas modernas expandiram-se da agricultura para o varejo de supermercados, turismo de lazer e alimentação, cuidados comunitários de idosos e educação cultural, ao mesmo tempo que avançam na transformação digital — plataformas de compras online, pagamentos digitais, análise de dados agrícolas em larga escala e serviços de agricultura inteligente, formando quatro dimensões do upgrade digital das cooperativas agrícolas.
 
-**Caso de transformação bem-sucedida:**
+**Casos de sucesso de transformação:**
 
-**Associação de Agricultores de Gukeng, Yunlin:** Com a construção da marca de café de Gukeng como núcleo, estendeu-se para festivais de cultura do café, turismo temático de café e gestão premium de produtos agrícolas, formando um caminho completo de culturalização da indústria.
+**Cooperativa Agrícola de Gugang, Yunlin:**
+Tomando a marca de café de Gugang como núcleo, expandiu para festivais culturais de café, turismo temático de café e gestão de produtos agrícolas premium, formando uma trajetória completa de industrialização cultural.
 
-## Inovação em Tecnologia Agrícola
+## Inovação tecnológica na agricultura
 
-### Desenvolvimento da Agricultura Inteligente
+### Desenvolvimento da agricultura inteligente
 
-A agricultura de instalações baseia-se em estufas inteligentes, irrigação e fertirrigação automatizadas, fábricas de plantas LED e tecnologia de fazendas verticais; a agricultura de precisão integra navegação GPS de máquinas agrícolas, aplicação de fertilizante em taxa variável, monitoramento do crescimento das culturas e modelos de previsão de rendimento. As aplicações de biotecnologia incluem melhoramento de variedades resistentes a pragas e doenças, desenvolvimento de fertilizantes microbianos, seleção assistida por marcadores genéticos e produção de mudas por cultura de tecidos; as três dimensões compõem conjuntamente a arquitetura tecnológica da agricultura inteligente de Taiwan.
+A agricultura protegida concentra-se em estufas inteligentes, sistemas automatizados de irrigação e fertilização, fábricas de plantas com LED e técnicas de cultivo vertical. A agricultura de precisão integra navegação de máquinas agrícolas com GPS, aplicação de fertilizantes em doses variáveis, monitoramento do crescimento das plantas e modelos de previsão de produtividade. Aplicações de biotecnologia incluem desenvolvimento de variedades resistentes a pragas, desenvolvimento de fertilizantes microbianos, seleção assistida por marcadores genéticos e produção de mudas por cultivo de tecidos, formando três dimensões da estrutura tecnológica da agricultura inteligente de Taiwan.
 
-### Plataformas Digitais Agrícolas
+### Plataformas digitais agrícolas
 
-O sistema de rastreabilidade de produção e comercialização, através de QR Code, rastreia o processo de produção, apresentando diretamente ao consumidor informações de segurança alimentar, construindo confiança e aumentando o valor da marca. A plataforma de e-commerce agrícola integra vendas online, direto da origem, reserva de experiência na fazenda e compartilhamento de conhecimento agrícola, permitindo que agricultores contornem intermediários e alcancem consumidores diretamente.
+O sistema de rastreamento da cadeia produtiva utiliza QR Code para rastrear o processo de produção, apresentando diretamente informações de segurança alimentar aos consumidores, construindo confiança e aumentando o valor da marca. As plataformas de comércio eletrônico agrícola integram vendas online, entrega direta da fazenda, reservas de experiências em fazendas e compartilhamento de conhecimentos agrícolas, permitindo que os agricultores contatem diretamente os consumidores, evitando intermediários.
 
-## Desafios Voltados para o Futuro
+## Desafios para o futuro
 
-### Adaptação às Mudanças Climáticas
+### Adaptação às mudanças climáticas
 
-As ferramentas de política para adaptação às mudanças climáticas incluem desenvolvimento de variedades resistentes à seca e inundação, fortalecimento da prevenção de desastres na agricultura de instalações, aperfeiçoamento do sistema de seguro agrícola e mecanismo de assistência para retomada do cultivo pós-desastre; os modelos de produção sustentável avançam simultaneamente em quatro frentes: agricultura de sumidouro de carbono, agricultura circular, conservação da biodiversidade e manutenção da saúde do solo.
+Ferramentas políticas para adaptação às mudanças climáticas incluem desenvolvimento de variedades resistentes à seca e à inundação, fortalecimento da agricultura protegida contra desastres naturais, aperfeiçoamento do sistema de seguros agrícolas e mecanismos de apoio à recuperação pós-desastre; modelos de produção sustentáveis avançam simultaneamente em quatro dimensões: agricultura de sequestro de carbono, agricultura circular, conservação da biodiversidade e manutenção da saúde do solo.
 
-### Garantia de Segurança Alimentar
+### Segurança alimentar
 
-Diante da flutuação dos preços internacionais de grãos e riscos da cadeia de suprimentos, a estratégia de segurança alimentar de Taiwan inclui aumentar a taxa de autoabastecimento, estabelecer reservas estratégicas de grãos, desenvolver fontes alternativas de proteína e fortalecer a cooperação regional em grãos.
+Diante das flutuações internacionais de preços de alimentos e riscos na cadeia de suprimentos, as estratégias de segurança alimentar de Taiwan incluem aumentar a taxa de autossuficiência, estabelecer estoques estratégicos de alimentos, desenvolver fontes alternativas de proteínas e fortalecer a cooperação regional de alimentos.
 
-### Herança Geracional e Inovação
+### Transmissão intergeracional e inovação
 
-Os focos da herança de tecnologia agrícola estão na preservação do conhecimento de métodos agrícolas tradicionais, intercâmbio de experiências entre novas e velhas gerações, aperfeiçoamento do sistema de educação agrícola e sistema de formação de agricultores profissionais; a atualização industrial direciona-se para agricultura de alto valor agregado, surgimento da indústria de serviços agrícolas, expansão de mercados internacionais e construção de valor de marca.
+O foco na transmissão de tecnologias agrícolas está na preservação de conhecimentos tradicionais de cultivo, na troca de experiências entre gerações, no aperfeiçoamento do sistema educacional agrícola e na formação de agricultores profissionais; o upgrade da indústria aponta para agricultura de alto valor agregado, crescimento do setor de serviços agrícolas, expansão para mercados internacionais e construção de valor de marca.
 
-## Nova Esperança para o Campo
+## Nova esperança para as áreas rurais
 
-O Taiwan rural de hoje já não é a região atrasada da imaginação tradicional. Da persistência dos pequenos agricultores orgânicos, à criatividade dos jovens que retornam ao campo, até a transformação do sistema de associações de agricultores, o campo está redefinindo seu próprio valor. Esta terra carrega as múltiplas energias da produção de grãos, herança cultural, conservação ecológica e experimentação inovadora.
+Hoje, as áreas rurais de Taiwan já não são mais as áreas atrasadas da imagem tradicional. Desde a perseverança dos pequenos agricultores orgânicos, passando pela criatividade dos jovens que retornam às fazendas, até a transformação do sistema cooperativo agrícola, as áreas rurais estão redefinindo seu próprio valor. Esta terra carrega a energia de produção de alimentos, transmissão cultural, conservação ecológica e experimentação inovadora.
 
-Sob o duplo desafio da globalização e das mudanças climáticas, a experiência de transformação da agricultura e do campo de Taiwan pode ser uma referência importante para o mundo na busca do caminho para o desenvolvimento sustentável. A agricultura de Taiwan passou por três fases de transformação — reino do arroz, reconstrução da agricultura de precisão e revitalização das comunidades rurais — e o caminho de criar alto valor em terras limitadas já foi citado por múltiplos institutos de pesquisa de políticas agrícolas da Ásia como modelo operacional de economia de pequenos agricultores.
+Diante dos desafios duplos da globalização e das mudanças climáticas, a experiência de transformação da agricultura e das áreas rurais de Taiwan pode ser a referência importante que o mundo busca para encontrar o caminho do desenvolvimento sustentável. A agricultura de Taiwan passou por três fases de transformação: do reino do arroz, à reconstrução da agricultura de precisão, ao renascimento das comunidades rurais, criando um modelo raro de pequenos agricultores em terras limitadas.
 
-## Leituras Complementares
+## Leituras recomendadas
 
-- [Pequenas e Médias Empresas e Campeões Ocultos de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions)
-- [Comércio Exterior e Cadeia de Suprimentos Global de Taiwan](/pt/economy/taiwan-foreign-trade-and-global-supply-chain)
+- [Pequenas e médias empresas e campeões invisíveis de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions)
+- [Comércio exterior de Taiwan e cadeia de suprimentos global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## Referências
 
-[^1]: [Anuário Estatístico Agrícola do Ministério da Agricultura (incluindo contas satélite da agricultura e da cadeia agroalimentar)](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Estatísticas anuais de valor de produção da agricultura, silvicultura, pesca e pecuária, número de empregados e contas satélite da cadeia agroalimentar
+[^1]: [Departamento de Agricultura — A produção bruta da agroalimentação em 2024 representa 6,8% do PIB nacional, empregando cerca de 2 milhões de pessoas](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10026) — "Produção bruta da agroalimentação: 1,7449 trilhão de dólares" "Agricultura primária: 1,5%" "Empregamento: cerca de 2 milhões de pessoas" "Agricultura primária: 490 mil pessoas (4,3%)"
 
-[^2]: [Explicação da Política de Agricultura de Precisão do Ministério da Agricultura](https://www.moa.gov.tw/) — Histórico e objetivos da política de promoção da agricultura de precisão
+[^2]: [Departamento de Agricultura — Promoção do Plano de Excelência e Saúde da Agricultura de Precisão](https://www.moa.gov.tw/ws.php?id=19572) — O plano foi aprovado em 7 de maio de 2009 pelo Gabinete Executivo; três eixos principais: saúde, excelência e qualidade de vida
 
-[^5]: [Base de Dados Nacional de Leis "Lei de Revitalização Rural"](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0090059) — Artigo 44 da Lei de Revitalização Rural: base legal para o Fundo de Revitalização Rural de 150 bilhões de NTD em 10 anos
+[^3]: [Consulta de dados estatísticos agrícolas do Departamento de Agricultura](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Área, produção e produtividade do arroz ao longo dos anos
 
-[^6]: [Resultados dos Planos de Revitalização Rural da Agência de Desenvolvimento Rural e Conservação de Solo e Água do Ministério da Agricultura](https://www.ardswc.gov.tw/) — Relatórios de resultados de orientação e execução de comunidades de revitalização rural
+[^5]: [Base de dados nacionais de legislação — Artigo 7 da Lei de Renascimento Rural](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — "Deve ser estabelecido um fundo de renascimento rural de 150 bilhões de dólares taiuaneses, a ser orçamentado gradualmente ao longo de dez anos após a entrada em vigor desta lei"
 
-[^7]: [Estatísticas de Agricultura Orgânica da Agência de Alimentos e Agricultura do Ministério da Agricultura](https://taft.moa.gov.tw/) — Estatísticas de área certificada orgânica, número de agricultores e certificação de produtos agrícolas orgânicos
+[^6]: [Departamento de Desenvolvimento Rural e Conservação do Solo e Água do Departamento de Agricultura](https://www.ardswc.gov.tw/) — Resultados de apoio e execução do plano de renascimento comunitário rural
+
+[^7]: [Comissão de Arroz e Grãos — Situação de agricultores e áreas de cultivo orgânico em agosto de 2026](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — Total de 6.600 agricultores, 23.631 hectares
+
+[^8]: [Wikipédia — Festival de Biscoitos de Abóbora de Xinpu](https://zh.wikipedia.org/zh-tw/新埔柿餅節) — História de mais de um século da indústria de biscoitos de abóbora em Xinpu; secagem de abóboras ao vento das nove montanhas no outono
+
+[^9]: [Noticiário da TV Pública — Os resíduos de salinização dos picles de Daipi chegam a milhares de toneladas por ano; planeja-se cooperar com a Universidade Nacional de Taiwan para transformá-los em fertilizante líquido](https://news.pts.org.tw/article/698144) — Produção de picles de Daipi líder nacional; zona especializada em picles desde 2003; cooperação com o Instituto de Ciências da Vida da Universidade Nacional de Taiwan para transformação de resíduos
+
+[^10]: [Gestão do Parque Nacional de Shilin — Vila Lina](https://www.maolin-nsa.gov.tw/zh-tw/attraction/119/) — Três vilas afetadas pela tempestade Morak: Dajia em Shimen, Maja em Qishan e Chahe em Wutai, se relocaram para a fazenda de Maja e reconstruíram suas casas
+
+[^11]: [Fundação Benevolente de Desenvolvimento da Agricultura Orgânica — Sobre a Fundação Benevolente](https://toaf.org.tw/about) — Fundada em 1997 pelo monge Budista de vida cotidiana
+
+[^12]: [Centro de Promoção da Agricultura Orgânica — Tendências de crescimento da área de verificação orgânica e práticas de cultivo amigáveis ao meio ambiente em Taiwan de 2007 a 2025](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — Em 2007, representava 0,24% da área cultivada; até o final de 2025, a área verificada orgânica chegará a 21.871 hectares (2,81%)

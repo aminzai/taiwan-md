@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:6c1de6e7d125ff24'
-sourceBodyHash: 'sha256:fa56609bf3ed1f63'
-translatedAt: '2026-09-13T15:49:25+08:00'
+sourceCommitSha: 'a17bb572e'
+sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceBodyHash: 'sha256:c70ae774b0edc421'
+translatedAt: '2026-09-20T22:48:56.459991+00:00'
 ---
 
 ## Abertura: uma decisão de 8 minutos que salva vidas
@@ -32,31 +32,31 @@ Quando o desastre ocorre, como o sistema de medicina de desastres de Taiwan é a
 
 ## A revolução institucional nascida dos escombros do 921
 
-### A lição de sangue: 500 pessoas poderiam ter sobrevivido
+### 921 em diante: primeiro a lei, depois a equipe
 
-A modernização do sistema de medicina de desastres de Taiwan começou com um reconhecimento doloroso: **se o sistema de emergência médica estivesse aperfeiçoado, 500 das vítimas do terremoto de 921 poderiam ter sobrevivido**. Essa reflexão gerou a _Lei de Prevenção e Proteção contra Desastres_ de 2000, incorporando formalmente a medicina de desastres à operação geral de resposta a desastres do país.
+A modernização do sistema de saúde de desastre de Taiwan teve início com o terremoto de Jiji de 1999, conhecido como 921. Essa tragédia fez com que o país reconhecesse a necessidade de uma estrutura legal unificada para resposta a desastres. Aprovada em 2000 pela República da China (Taiwan), a Lei de Prevenção e Resposta a Desastres regulamentou o funcionamento atual da resposta nacional a emergências, incluindo a medicina de desastre. A partir de 2000, as equipes de resgate médico de desastre de Taiwan começaram a buscar referências internacionais, desenvolvendo progressivamente suas próprias práticas.
 
-Mas o verdadeiro ponto de virada foi em 2005, no décimo aniversário do terremoto de Hanshin no Japão, quando Taiwan introduziu oficialmente o conceito de Equipes Médicas de Assistência a Desastres (DMAT). Não foi um simples transplante tecnológico, mas uma revolução institucional.
+Um dos modelos inspiradores foi o do Japão. A Equipe de Assistência Médica de Desastre (DMAT) japonesa foi criada em 2005, exatamente no décimo aniversário do terremoto de Kobe. A análise pós-tragédia concluiu que, se o sistema de emergência médica fosse mais eficiente, cerca de 500 vítimas poderiam ter sido salvas — um contraponto que impulsionou a criação do DMAT japonês. Taiwan, por sua vez, adotou não apenas a tecnologia, mas a filosofia por trás desse modelo: «hospitais como unidades centrais, equipes pequenas e rápidas em apoio ao local».
 
-> **Nota do curador**: A trajetória de desenvolvimento do DMAT de Taiwan reflete a mudança de mentalidade na medicina de desastres, do "tratamento pós-evento" para a "resposta imediata". A chave não está em quantos equipamentos avançados se possui, mas em estabelecer um mecanismo de mobilização rápida.
+> **Nota do curador**: A trajetória do DMAT de Taiwan reflete a transição da medicina de desastre de «tratamento pós-fato» para «resposta imediata». A chave não está na quantidade de equipamentos avançados, mas na capacidade de mobilização rápida.
 
-### Duas vias paralelas: a fusão taiwanesa dos modelos japonês e americano
+### Dois caminhos paralelos: a fusão dos modelos japonês e norte-americano em Taiwan
 
-A singularidade de Taiwan reside em ter absorvido simultaneamente duas filosofias de medicina de desastres radicalmente diferentes, a japonesa e a americana:
+O que torna Taiwan único é a absorção simultânea de duas filosofias distintas de medicina de desastre:
 
-**Modelo japonês de precisão** (DMAT de primeira classe):
+**Modelo japonês de precisão** (DMAT de primeira categoria):
 
 - Equipes de 3 a 4 pessoas
-- Resposta rápida em 48 horas
-- Foco nas necessidades médicas específicas do local
+- Resposta rápida em até 48 horas
+- Adaptado às necessidades médicas específicas do local
 
-**Modelo americano de implantação** (DMAT de segunda classe):
+**Modelo norte-americano de construção** (DMAT de segunda categoria):
 
 - Equipes de 30 a 40 pessoas
-- Operação autossuficiente por 3 a 14 dias
-- Estabelecimento de unidades médicas temporárias em áreas com recursos médicos insuficientes
+- Autossuficientes por 3 a 14 dias
+- Estabelecem unidades médicas temporárias em áreas com recursos limitados
 
-A terceira classe é uma criação original de Taiwan: equipes especializadas para assistência internacional, demonstrando a ambição da diplomacia de medicina de desastres.
+A terceira categoria, exclusiva de Taiwan, é uma equipe dedicada exclusivamente a assistência internacional, demonstrando a ambição da diplomacia da medicina de desastre.
 
 ## O código institucional: por que a medicina de emergência?
 
