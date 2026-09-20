@@ -23,9 +23,10 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:d773645991915097'
-translatedAt: '2026-07-30T15:01:24.861723+00:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
+sourceBodyHash: 'sha256:396a9fed148c94a2'
+translatedAt: '2026-09-20T20:16:07.730136+00:00'
 ---
 
 > **Resumo em 30 segundos:** HUR+ (originalmente HUR), vice-campeã do 《菱格世代 DD52》 de 2020 com o grupo "Tempestade de Espadas", estreou com seis integrantes; o produtor Felipe.Z fundou a AOA Entertainment Lab Starlink Eurasia. Perderam a final por 2,5 pontos, mas o grupo campeão G.O.F viu sua repercussão despencar em um ano, enquanto o PINK FUN, que estreou na mesma época, enfrentou uma controvérsia de saída de integrantes. Seis anos depois, HUR+ é o único dos três grupos de estreia que ainda lança álbuns. Três álbuns (《REVELATION》《Crimzon》《9OF9 ARCANA》), arrecadação ultrapassou 1,5 milhão em dez minutos para promoção na Coreia, nacionalidades das integrantes abrangem Mongólia, Reino Unido, Indonésia e Vietnã. Felipe.Z disse: "Se usarmos a mesma receita da Coreia, como Taiwan poderia vencer?"
@@ -197,13 +198,13 @@ O HUR+ está provando essa hipótese. Ainda não provou completamente, mas a cad
 
 ---
 
-## Leitura complementar
+## Leitura Adicional
 
-- [Lien Ying](/pt/people/lien-ying) — dançarina principal do HUR+, primeiro caso de membro de grupo a seguir carreira solo em Taiwan. «O nível de dança que um girl group deve ter»
-- [A nova geração de ídolos de Taiwan](/pt/culture/taiwan-new-idol-generation) — do DD52 ao Universe Cheerleader, o experimento industrial de seis anos dos survival shows de ídolos em Taiwan
-- [Rainie Yang](/pt/people/rainie-yang) — mentora-chefe do DD52, também a história de 25 anos conquistando autonomia a partir do sistema de ídolos
-- [Mayday](/pt/music/mayday-band) — a história de longa trajetória de outro grupo musical de Taiwan, de pequenos palcos às grandes arenas da Ásia
-- [A música independente de Taiwan](/pt/music/indie-music-scene) — a interseção entre o estilo musical do HUR+ e a música eletrônica independente
+- [Lien Ying](/pt/people/lien-ying) — A principal dançarina do HUR+, o primeiro caso em Taiwan de membro de grupo fazendo solo. "O nível de dança que um girl group deveria ter"
+- [Nova Geração de Ídolos de Taiwan](/pt/culture/taiwan-new-idol-generation) — Seis anos de experimento da indústria de _reality shows_ de ídolos, do DD52 ao torcida espacial
+- [Rainie Yang](/pt/people/rainie-yang) — A mentora principal do DD52 e a história de vinte e cinco anos saindo do sistema de ídolos para ter autonomia
+- [Mayday](/pt/music/mayday-band) — Outra história de longa duração de uma banda musical de Taiwan, dos pequenos palcos aos estádios asiáticos
+- [Música Independente de Taiwan](/pt/music/indie-music-scene) — A intersecção do estilo musical do HUR+ com a música eletrônica independente
 
 ## Referências
 

@@ -1,381 +1,385 @@
 ---
-title: 'Modernização da Agricultura de Taiwan'
-description: 'Explora a transformação de Taiwan da agricultura tradicional para a agricultura moderna de precisão, incluindo agricultura orgânica, regeneração rural, agricultura de lazer e outros modelos inovadores de desenvolvimento'
+title: 'Desenvolvimento da modernização da agricultura em Taiwan'
+description: 'Explora o processo de transformação da agricultura tradicional baseada no trabalho manual em uma agricultura moderna e refinada em Taiwan, incluindo a agricultura orgânica, a regeneração rural e os modelos inovadores de turismo agrícola'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
     'agricultura',
-    'agricultura de precisão',
+    'agricultura refinada',
     'agricultura orgânica',
     'regeneração rural',
-    'agricultura de lazer',
+    'turismo agrícola',
     'modernização',
   ]
 subcategory: '農業經濟'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-09-20
 lastHumanReview: false
 readingTime: 17
 translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:6abff98edbff2fbe'
-sourceBodyHash: 'sha256:5dcfc71454466970'
-translatedAt: '2026-07-26T11:16:46+08:00'
+sourceCommitSha: '05aa5b7b0'
+sourceContentHash: 'sha256:8c2c2c2ee5f2b237'
+sourceBodyHash: 'sha256:c2c5a393d951d7c5'
+translatedAt: '2026-09-21T00:58:33+08:00'
 ---
 
-# Modernização da Agricultura de Taiwan
+# Desenvolvimento da modernização da agricultura em Taiwan
 
-## Visão geral em 30 segundos
+## 30 segundos de visão geral
 
-A agricultura de Taiwan transformou-se, em apenas algumas décadas, de uma agricultura tradicional intensiva em mão de obra para uma agricultura moderna de precisão, intensiva em tecnologia e de alto valor acrescentado. Este processo de transformação inclui a cientificidade da tecnologia de produção, a empresarialização do modo de gestão e a premiumização dos produtos. Desde a promoção da agricultura orgânica, a implementação de planos de regeneração rural, até ao surgimento da agricultura de lazer, a agricultura de Taiwan desenvolveu um "modelo Taiwan" único, que não só mantém a competitividade agrícola, como também cria um paradigma de desenvolvimento sustentável de triplo valor: agrícola, ecológico e cultural.
+A agricultura em Taiwan transformou-se, em apenas algumas décadas, de uma agricultura tradicional baseada no trabalho manual para uma agricultura moderna e refinada, intensiva em tecnologia e com alto valor agregado. Esse processo de transformação inclui a cientificação das técnicas de produção, a empresarialização dos métodos de gestão e a especialização dos produtos. Desde a promoção da agricultura orgânica, a implementação de planos de regeneração rural, até o surgimento do turismo agrícola, a agricultura em Taiwan desenvolveu um modelo único — o "modelo Taiwan" — que não apenas mantém a competitividade agrícola, mas também cria um paradigma de desenvolvimento sustentável que integra valor agrícola, ecológico e cultural.
 
-**Palavras-chave:** agricultura de precisão, agricultura orgânica, regeneração rural, agricultura de lazer, agricultura inteligente, desenvolvimento sustentável
+**Palavras-chave:** agricultura refinada, agricultura orgânica, regeneração rural, turismo agrícola, agricultura inteligente, desenvolvimento sustentável
 
 ## Por que é importante
 
-### O milagre da premiumização da pequena agricultura
+### O milagre da especialização da economia de pequenos agricultores
 
-A área média de cultivo por exploração agrícola em Taiwan é inferior a 1 hectare, enquadrando-se, a nível mundial, na pequena agricultura. No entanto, a agricultura de Taiwan consegue criar alto valor de produção e alta qualidade em terras limitadas. Este modelo de desenvolvimento "pequeno mas preciso" tem valor de referência direto para países e regiões que enfrentam condições semelhantes.
+A média de área cultivada por agricultor em Taiwan é de menos de 1 hectare, classificando o país como uma economia de pequenos agricultores. No entanto, a agricultura em Taiwan consegue criar altos valores e qualidades em terras limitadas — esse modelo de "pequeno mas refinado" tem valor de referência direto para outros países e regiões com condições semelhantes ao redor do mundo.
 
-### Paradigma da multifuncionalidade agrícola
+### Modelo de multifuncionalidade agrícola
 
-A agricultura moderna de Taiwan já ultrapassou a função única de produção de alimentos, desenvolvendo múltiplas funções como conservação ecológica, manutenção da paisagem, transmissão cultural, lazer e turismo. Esta agricultura multifuncional impulsiona o retorno populacional ao meio rural, a utilização ativa da terra e oferece aos citadinos locais de proximidade com a natureza e de experiência da cultura rural.
+A agricultura moderna em Taiwan ultrapassou a função simples de produção de alimentos, desenvolvendo funções múltiplas como conservação ecológica, manutenção de paisagens, transmissão cultural e turismo de lazer. Essa agricultura multifuncional impulsionou o retorno da população rural, a ativação do uso do solo e também ofereceu aos moradores urbanos um local para se conectar com a natureza e experimentar a cultura rural.
 
-### Prática visionária de desenvolvimento sustentável
+### Prática avançada de desenvolvimento sustentável
 
-Face às alterações climáticas e aos desafios ambientais, a agricultura de Taiwan voltou-se para um modelo de desenvolvimento sustentável, orgânico e ecológico. Do apoio político à aceitação do mercado, a experiência de Taiwan na promoção da agricultura sustentável oferece referências concretas para o desenvolvimento agrícola global.
+Diante das mudanças climáticas e dos desafios ambientais, a agricultura em Taiwan já se voltou para modelos de desenvolvimento sustentáveis baseados na organicidade e na ecologia. Desde o apoio político até a aceitação do mercado, a experiência de Taiwan em promover a agricultura sustentável oferece referências concretas para o desenvolvimento agrícola global.
 
-## Bases e desafios da agricultura tradicional
+## Bases da agricultura tradicional e desafios
 
-### Bases agrícolas do período colonial japonês
+### Bases agrícolas durante o período colonial japonês
 
-As bases do desenvolvimento da agricultura moderna de Taiwan remontam ao período colonial japonês. O governo colonial japonês, para transformar Taiwan no celeiro do Japão, investiu massivamente na melhoria das infraestruturas agrícolas.
+As bases para o desenvolvimento moderno da agricultura em Taiwan podem ser rastreadas até o período colonial japonês. O governo colonial japonês investiu recursos significativos para melhorar a infraestrutura agrícola, com o objetivo de transformar Taiwan na "celeiro" do Japão.
 
-**Construção de infraestruturas hídricas**: Grandes obras hidráulicas como o Canal Chianan e o Canal Taoyuan resolveram o problema da seca no sul de Taiwan, libertando a produção de cereais da dependência do clima. Estes sistemas de irrigação continuam a ser a espinha dorsal das infraestruturas agrícolas de Taiwan[^1].
+**Construção de infraestrutura hídrica**: projetos de grandes canais de irrigação como o Grande Canal de Chiayi e o Grande Canal de Taoyuan resolveram os problemas de seca no sul de Taiwan, permitindo que a produção agrícola não dependesse mais das condições climáticas. Esses sistemas de irrigação continuam sendo a infraestrutura fundamental da agricultura em Taiwan até hoje.
 
-**Melhoramento de variedades e introdução de tecnologia**: Na década de 1920, o período colonial introduziu o arroz ponlai, melhorou variedades de cana-de-açúcar e estabeleceu instituições de experimentação agrícola, lançando as bases para o posterior desenvolvimento da tecnologia agrícola.
+**Melhoramento de variedades e introdução de tecnologias**: na década de 1920, durante o período colonial japonês, foram introduzidas variedades de arroz como o arroz Pisão, foram melhoradas as variedades de cana-de-açúcar e foi estabelecido o instituto de experimentação agrícola, lançando as bases para o desenvolvimento posterior da tecnologia agrícola.
 
-**Estabelecimento da organização das associações de agricultores**: A criação do sistema de associações de agricultores proporcionou aos agricultores serviços de orientação técnica, apoio financeiro e comercialização de produtos, sistema que se mantém até hoje. O sistema de associações de agricultores de Taiwan divide-se em três níveis: associações de base (distritos/cidades), associações de condados/cidades e a Federação Nacional das Associações de Cooperativas Agrícolas, totalizando 288 associações de base em toda a ilha. As associações assumem funções diversas como extensão agrícola, compras e vendas conjuntas, finanças rurais e seguro agrícola, sendo o principal canal para a difusão do conhecimento de modernização agrícola no meio rural e um pilar importante para a negociação coletiva e acesso ao mercado por parte dos agricultores.
+**Criação de cooperativas agrícolas**: o estabelecimento do sistema de cooperativas agrícolas ofereceu aos agricultores serviços de orientação técnica, apoio financeiro e comercialização de produtos — um sistema que perdura até hoje. De acordo com a Lei das Cooperativas Agrícolas, as cooperativas agrícolas em Taiwan são divididas em três níveis: cooperativas agrícolas de distritos (cidades, condados, áreas), cooperativas agrícolas de condados (cidades) e cooperativas agrícolas nacionais, com um total de 302 cooperativas em todos os níveis. A Cooperativa Agrícola Nacional da República da China (ROC) foi fundada em 18 de abril de 2013[^4]. As cooperativas assumem funções como educação e promoção agrícola, compra e venda coletiva, serviços financeiros rurais e seguros agrícolas. Elas são o principal canal para levar conhecimentos de modernização agrícola ao interior e também o pilar fundamental para a negociação coletiva dos agricultores e o acesso ao mercado.
 
-### Reforma agrária do pós-guerra
+### Reforma agrária nos primeiros anos após a guerra
 
-A reforma agrária de 1949-1953 criou condições favoráveis para a modernização da agricultura de Taiwan.
+Entre 1949 e 1953, a reforma agrária criou condições favoráveis para a modernização da agricultura em Taiwan.
 
-**A terra a quem a lavra**: A reforma agrária permitiu que os agricultores obtivessem a propriedade da terra, aumentando diretamente a sua vontade de produzir.
+**Terra para os agricultores**: a reforma agrária concedeu aos agricultores a propriedade da terra, aumentando diretamente a motivação para a produção.
 
-**Aumento da renda dos agricultores**: Os agricultores proprietários viram a sua renda aumentar significativamente, fornecendo capital para investimento agrícola e melhoramento de variedades.
+**Aumento da renda dos agricultores**: os agricultores que possuíam terra viram seu rendimento significativamente melhorar, fornecendo capital para investimentos agrícolas e melhoramento de variedades.
 
-**Formação do mercado de consumo rural**: O aumento da renda dos agricultores promoveu o consumo rural e criou também mercado para produtos industriais.
+**Formação de mercados de consumo rural**: o aumento da renda dos agricultores impulsionou o consumo rural, também criando mercado para os produtos industriais.
 
-### Impacto da industrialização na agricultura
+### Impacto da industrialização sobre a agricultura
 
-Nas décadas de 1960-1970, Taiwan iniciou o processo de industrialização, e a agricultura enfrentou desafios sem precedentes.
+Na década de 1960 a 1970, com o início do processo de industrialização em Taiwan, a agricultura enfrentou desafios sem precedentes.
 
-**Êxodo da mão de obra rural**: O desenvolvimento industrial atraiu grande número de jovens rurais para as fábricas, causando escassez de mão de obra e envelhecimento populacional no meio rural.
+**Desemprego rural**: o desenvolvimento industrial atraiu grande número de jovens rurais para as fábricas, resultando em escassez de mão de obra rural e envelhecimento populacional.
 
-**Uso não agrícola de terras agrícolas**: A expansão de zonas industriais ocupou grande quantidade de terras agrícolas de qualidade, reduzindo anualmente a área de terras agrícolas.
+**Conversão de terras agrícolas para uso não agrícola**: a expansão das zonas industriais ocupou grandes áreas de terras agrícolas de alta qualidade, reduzindo gradualmente a área de terras cultiváveis.
 
-**Mudança da vantagem comparativa**: O rápido desenvolvimento da indústria e dos serviços fez com que o peso da agricultura na economia nacional caísse rapidamente, pressionando os agricultores a reconverterem-se.
+**Mudança nos interesses comparativos**: o rápido desenvolvimento industrial e dos serviços fez com que a participação da agricultura na economia nacional caísse rapidamente, colocando os agricultores sob pressão para se mudar de profissão.
 
-## Percurso de desenvolvimento da agricultura de precisão
+## Evolução do desenvolvimento da agricultura refinada
 
-### Inversão de política e planeamento estratégico
+### Mudança de políticas e planejamento estratégico
 
-A partir da década de 1980, o governo de Taiwan começou a promover a estratégia de desenvolvimento da "agricultura de precisão", visando criar o máximo valor económico com recursos agrícolas limitados.
+A partir da década de 1980, as autoridades agrícolas começaram a adotar a "agricultura refinada" como estratégia de desenvolvimento, visando criar o máximo valor econômico com os recursos agrícolas limitados. Em maio de 2009, o Gabinete Executivo aprovou o "Plano de Excelência e Saúde da Agricultura Refinada", incluindo-o como uma das seis novas indústrias emergentes[^2].
 
-**Definição de agricultura de precisão**: Agricultura de precisão refere-se à utilização de tecnologia agrícola avançada para realizar produção agrícola de alta densidade e alto valor, enfatizando as características de "intensiva em mão de obra, intensiva em tecnologia, intensiva em capital".
+**Definição de agricultura refinada**: a agricultura refinada refere-se ao uso de tecnologias agrícolas avançadas para produzir com alta densidade e alto valor, enfatizando as características de "intensivo em mão de obra, intensivo em tecnologia e intensivo em capital".
 
-**Objetivos políticos**: A política de agricultura de precisão tem como três eixos principais a gestão refinada, a tecnologia científica e a qualidade premium, complementados pelos objetivos de atrair jovens para a agricultura e revitalizar o desenvolvimento rural. O governo apoia a transformação através de I&D tecnológico, formação de talentos, subsídios financeiros e abertura de mercados.
+**Objetivos da política**: o "Plano de Excelência e Saúde da Agricultura Refinada" tem três eixos principais: agricultura saudável (aprofundar a verificação de marcas), agricultura de excelência (pesquisa e desenvolvimento tecnológica de ponta) e agricultura para estilo de vida saudável (redefinir o charme rural)[^2], com medidas de apoio como desenvolvimento tecnológico, formação de talentos, subsídios financeiros e abertura de mercados, visando atrair jovens para a agricultura e revitalizar o desenvolvimento rural.
 
-### Ascensão da agricultura tecnológica
+### Surgimento da agricultura baseada em tecnologia
 
-**I&D em tecnologia agrícola**: O governo investiu em I&D de tecnologia agrícola, estabelecendo um sistema de investigação e experimentação agrícola. Desde melhoramento, cultivo, controlo de pragas e doenças até ao processamento pós-colheita, todos os elos contam com suporte tecnológico.
+**Pesquisa e desenvolvimento em tecnologia agrícola**: o governo investiu em pesquisa e desenvolvimento de tecnologia agrícola, estabelecendo um sistema de experimentação e pesquisa agrícola. Desde a melhoria de variedades, cultivo, controle de pragas até o pós-colheita, cada etapa conta com apoio tecnológico.
 
-**Desenvolvimento da agricultura em estufa**: Estufas, casas de rede, sistemas de controlo ambiental e outras instalações de agricultura protegida desenvolveram-se rapidamente, permitindo que a produção agrícola não dependa das condições climáticas, aumentando a estabilidade do rendimento e da qualidade.
+**Desenvolvimento da agricultura protegida**: estufas, telhados de sombra, sistemas de controle ambiental e outras formas de agricultura protegida se desenvolveram rapidamente, permitindo que a produção agrícola não fosse afetada pelo clima, melhorando a estabilidade da produtividade e da qualidade.
 
-**Aplicação de biotecnologia**: Cultura de tecidos, transgénese, melhoramento assistido por marcadores moleculares e outras aplicações de biotecnologia aumentaram drasticamente a eficiência e precisão do melhoramento varietal.
+**Aplicação de biotecnologia**: técnicas como cultivo de tecidos, transformação genética e seleção assistida por marcadores moleculares foram amplamente aplicadas, aumentando significativamente a eficiência e a precisão do melhoramento de variedades.
 
-**Início da agricultura inteligente**: Internet das Coisas, big data, inteligência artificial e outras novas tecnologias começaram a ser aplicadas na produção agrícola, realizando gestão de precisão e operações automatizadas.
+**Início da agricultura inteligente**: tecnologias emergentes como internet das coisas, big data e inteligência artificial começaram a ser aplicadas na produção agrícola, permitindo gestão precisa e operações automatizadas.
 
-### Estabelecimento da agricultura de marca
+### Estabelecimento de marcas agrícolas
 
-**Diferenciação de produtos**: A agricultura de Taiwan passou da produção em massa para a premiumização, produzindo produtos agrícolas de alta qualidade através de melhoramento varietal e gestão refinada.
+**Diferenciação de produtos**: a agricultura em Taiwan mudou-se do modelo de produção em massa para a produção de produtos premium, por meio do melhoramento de variedades e gestão refinada, produzindo produtos agrícolas de alta qualidade.
 
-**Gestão de marcas**: O estabelecimento de marcas como "Taiwan Bom Agrícola" e "Rastreabilidade Produção-Venda" aumentou o reconhecimento de mercado e o valor acrescentado dos produtos agrícolas de Taiwan[^7].
+**Gestão de marcas**: marcas como "Boas Práticas Agrícolas de Taiwan" e o sistema de rastreabilidade "Produtos Agrícolas com Rastreabilidade Completa" foram estabelecidas, melhorando o reconhecimento de mercado e o valor agregado dos produtos agrícolas em Taiwan[^7].
 
-**Marketing internacional**: Frutas, flores, chás e outros produtos agrícolas de qualidade de Taiwan estabeleceram boa reputação nos mercados internacionais, com peso estável e crescente das exportações de marca.
+**Comercialização internacional**: frutas, flores e chás de alta qualidade de Taiwan já estabelecem boa reputação nos mercados internacionais, com a proporção de exportação de marcas mantendo um crescimento estável.
 
 ## Promoção e desenvolvimento da agricultura orgânica
 
-### Evolução da política de agricultura orgânica
+### Evolução das políticas de agricultura orgânica
 
-O desenvolvimento da agricultura orgânica em Taiwan passou por um processo de evolução desde a iniciativa espontânea da sociedade civil até à liderança governamental.
+O desenvolvimento da agricultura orgânica em Taiwan passou por uma transição de iniciativas espontâneas da sociedade civil para a liderança do governo.
 
-**Desenvolvimento inicial (décadas de 1980-1990)**: A consciencialização ambiental e de saúde na sociedade civil emergiu, com alguns agricultores a adotarem espontaneamente modos de cultivo orgânico.
+**Desenvolvimento inicial (1980-1990)**: com o aumento da consciência ambiental e da saúde pública, alguns agricultores começaram espontaneamente a adotar métodos de cultivo orgânicos.
 
-**Estabelecimento do sistema (décadas de 2000-2010)**: O governo começou a estabelecer o sistema de certificação da agricultura orgânica, promulgando a "Lei de Gestão da Produção e Verificação de Produtos Agrícolas", fornecendo garantia legal para o desenvolvimento da agricultura orgânica.
+**Estabelecimento institucional (2000-2010)**: o governo começou a estabelecer um sistema de certificação para a agricultura orgânica, promulgando a Lei de Gestão da Produção e Verificação de Produtos Agrícolas, fornecendo garantias legais para o desenvolvimento da agricultura orgânica.
 
-**Promoção institucionalizada (2018-presente)**: A promulgação da "Lei de Promoção da Agricultura Orgânica" em 2018 marcou a entrada da agricultura orgânica de Taiwan na fase de promoção institucionalizada, com o governo a definir metas de duplicação da área de agricultura orgânica.
+**Implementação institucionalizada (2018-atualmente)**: a Lei de Promoção da Agricultura Orgânica, publicada em maio de 2018 e entrando em vigor em maio de 2019, marcou a entrada da agricultura orgânica em Taiwan na fase de promoção institucionalizada, incluindo no seu escopo o cultivo amigável ao meio ambiente que segue as definições orgânicas, mesmo sem certificação oficial[^9].
 
 ### Situação atual e conquistas da agricultura orgânica
 
-**Crescimento da área de cultivo**: A área de agricultura orgânica de Taiwan cresceu de 800 hectares em 2000 para perto de 20.000 hectares em 2025, um aumento superior a 25 vezes[^1].
+**Crescimento da área plantada**: quando o sistema de verificação foi lançado em 2007, a área verificada para produtos orgânicos representava apenas 0,24% de toda a área cultivada nacional; até o final de 2025, atingiu 21.871 hectares (2,81% da área cultivada), somados aos 6.735 hectares de cultivo amigável ao meio ambiente, totalizando 3,67% da área cultivada[^9]. Até agosto de 2026, havia 6.600 agricultores verificados, com uma área de 23.631 hectares, sendo hortaliças e arroz as duas principais categorias[^1].
 
-**Diversificação de produtos**: Desde o inicial foco em vegetais, expandiu-se para arroz, frutas, chá, produtos pecuários e várias categorias de produtos agrícolas.
+**Diversificação de produtos**: inicialmente focada em hortaliças, a produção orgânica expandiu-se para arroz, frutas, chás e produtos de pecuária.
 
-**Aumento da aceitação do mercado**: A aceitação de produtos orgânicos pelo mercado aumentou significativamente, com a procura dos consumidores por segurança alimentar e respeito ambiental a impulsionar a expansão do mercado orgânico.
+**Aceitação crescente do mercado**: a aceitação dos produtos orgânicos pelo mercado melhorou significativamente, com a demanda dos consumidores por segurança alimentar e produtos amigáveis ao meio ambiente impulsionando a expansão do mercado orgânico.
 
-**Alinhamento com certificação internacional**: Produtos orgânicos de Taiwan obtiveram certificação internacional, podendo ser exportados para Japão, EUA, UE e outros mercados.
+**Certificação internacional**: os produtos agrícolas orgânicos de Taiwan obtiveram certificação internacional, podendo ser exportados para Japão, Estados Unidos, União Europeia e outros mercados.
 
-### Cultivo amigo do ambiente
+### Práticas agrícolas amigáveis ao meio ambiente
 
-Além da agricultura orgânica, Taiwan promove também o cultivo amigo do ambiente, apoiando agricultores que, embora ainda não tenham obtido certificação orgânica, adotam modos de produção amigos do ambiente.
+Além da agricultura orgânica, Taiwan também promove práticas agrícolas amigáveis ao meio ambiente, oferecendo apoio aos agricultores que ainda não obtiveram certificação orgânica, mas adotam métodos de produção amigáveis ao meio ambiente.
 
-**Inclusividade política**: A política de cultivo amigo do ambiente reconhece que a transformação agrícola requer tempo, oferecendo aos agricultores opções flexíveis.
+**Inclusão política**: as políticas de práticas agrícolas amigáveis ao meio ambiente reconhecem que a transformação agrícola requer tempo, oferecendo aos agricultores opções flexíveis.
 
-**Sistema de pagamentos ecológicos**: O governo concede pagamentos ecológicos a agricultores que adotam cultivo amigo do ambiente, incentivando a redução do uso de pesticidas e fertilizantes químicos.
+**Sistema de pagamento ecológico**: o governo oferece pagamentos ecológicos aos agricultores que adotam práticas agrícolas amigáveis ao meio ambiente, incentivando a redução do uso de agrotóxicos e fertilizantes químicos[^11].
 
-**Proteção da biodiversidade**: O cultivo amigo do ambiente ajuda a proteger os ecossistemas agrícolas, mantendo a biodiversidade.
+**Proteção da biodiversidade**: as práticas agrícolas amigáveis ao meio ambiente ajudam a proteger ecossistemas de terras agrícolas e preservar a biodiversidade.
 
-## Planos de regeneração rural
+## Plano de regeneração rural
 
 ### Contexto e objetivos do plano
 
 O plano de regeneração rural, implementado a partir de 2010, é uma política importante do governo de Taiwan para promover o desenvolvimento rural.
 
-**Contexto político**: Face ao êxodo populacional rural, infraestruturas envelhecidas, declínio industrial e outros problemas, o governo propôs o plano de regeneração rural, esperando promover a revitalização rural através de uma abordagem "bottom-up".
+**Contexto político**: diante do desemprego rural, infraestrutura deteriorada e declínio industrial, o governo propôs o plano de regeneração rural, visando promover a revitalização rural por meio de uma abordagem "de baixo para cima".
 
 **Objetivos centrais**:
 
-- Melhorar infraestruturas rurais e equipamentos públicos
+- Melhorar infraestrutura e instalações públicas rurais
 - Promover o desenvolvimento industrial rural
-- Transmitir a cultura rural
+- Transmitir cultura rural
 - Elevar a qualidade de vida rural
-- Atrair jovens de regresso às origens
+- Atrair jovens para retornar às zonas rurais
 
-**Investimento orçamental**: O governo investiu 150 mil milhões de novos dólares taiwaneses, executados em quatro fases, demonstrando a importância atribuída ao desenvolvimento rural[^5].
+**Investimento orçamentário**: o artigo 7º da Lei de Regeneração Rural estabelece a criação de um fundo de regeneração rural de 150 bilhões de dólares taiuanueses (NT$), a ser gradualmente alocado ao longo de dez anos após a entrada em vigor da lei, implementado pelo Instituto de Desenvolvimento Rural e Conservação do Solo e da Água[^5].
 
 ### Estratégias e métodos de implementação
 
-**Liderança comunitária**: Enfatiza a protagonismo dos residentes comunitários, com as comunidades a proporem planos de desenvolvimento e o governo a fornecer apoio de recursos.
+**Liderança comunitária**: enfatiza a iniciativa dos moradores da comunidade, com os cidadãos propondo planos de desenvolvimento e o governo fornecendo apoio de recursos.
 
-**Planeamento integrado**: Além da construção de hardware, abrange simultaneamente vertentes de software como preservação cultural, desenvolvimento industrial, formação de recursos humanos.
+**Planejamento integrado**: além da construção física, também abrange dimensões como preservação cultural, desenvolvimento industrial e formação de recursos humanos.
 
-**Adaptação às condições locais**: Desenvolve diferentes modelos de regeneração rural consoante as características e condições de cada região.
+**Adaptação às condições locais**: de acordo com as características e condições de cada região, desenvolvem-se diferentes modelos de regeneração rural.
 
-**Desenvolvimento sustentável**: Enfatiza a proteção ambiental e manutenção ecológica, promovendo energia verde e economia circular.
+**Desenvolvimento sustentável**: enfatiza a proteção ambiental e conservação ecológica, promovendo energia verde e economia circular.
 
-### Casos de sucesso e paradigmas
+### Casos de sucesso e modelos exemplares
 
-**Comunidade Xiecheng de Xinshe**: Com a indústria de shiitake como núcleo, combinada com turismo de campos de flores, transformou-se com sucesso em zona de agricultura de lazer.
+**Comunidade de Xiehe-Cheng**: com base na indústria de cogumelos, combinada com a atração turística de "flor de primavera", transformou-se com sucesso em uma zona de turismo agrícola.
 
-**Shuili de Nantou**: Através do renascimento da indústria de ameixas e preservação cultural, reencontrou dinamismo para o desenvolvimento rural.
+**Xinyi, Nantou**: por meio da revitalização da indústria de abelhas e preservação cultural, encontrou novo impulso para o desenvolvimento rural.
 
-**Aldeia Shengou de Yilan**: Combinando agricultura orgânica e experiência agrícola, desenvolveu o modelo de quinta educativa.
+**Vila Shenggou, Yilan**: combinando agricultura orgânica e experiências agrícolas, desenvolveu o modelo de hortas educacionais.
 
-**Fengbin de Hualien**: Comunidade indígena combinando recursos costeiros, desenvolve ecoturismo e experiência de cultura indígena.
+**Fengbin, Hualien**: comunidades indígenas combinando recursos costeiros, desenvolveram turismo ecológico e experiências culturais indígenas.
 
-## Desenvolvimento rápido da agricultura de lazer
+## Rápido desenvolvimento do turismo agrícola
 
-### Contexto do surgimento da agricultura de lazer
+### Contexto do surgimento do turismo agrícola
 
-O aumento do rendimento nacional impulsionou a mudança na procura por qualidade de vida, com os residentes urbanos a manifestarem necessidade alargada de proximidade com a natureza e experiência da vida rural, criando espaço de mercado para a agricultura de lazer.
+O aumento do rendimento nacional elevou a demanda por qualidade de vida, e os residentes urbanos mostraram um crescente desejo de se conectar com a natureza e experimentar a vida rural, criando espaço de mercado para o turismo agrícola.
 
-**Reflexão sobre a urbanização**: A pressão e o sentimento de alienação da vida urbana levaram as pessoas a ansiar pelo regresso à natureza, pela busca de experiências rurais simples.
+**Reflexão sobre a urbanização**: a pressão e o distanciamento da vida urbana fizeram com que as pessoas desejassem retornar à natureza e buscar experiências rurais simples.
 
-**Mudança nas necessidades educativas**: Os pais desejam que as crianças contactem com a natureza, compreendam a agricultura; a agricultura de lazer oferece uma boa plataforma educativa.
+**Mudança nas necessidades educacionais**: os pais desejam que os filhos entrem em contato com a natureza e aprendam sobre a agricultura, e o turismo agrícola oferece uma boa plataforma educacional.
 
-**Surgimento da economia de fim de semana**: A implementação do sistema de dois dias de descanso semanal criou condições de tempo para turismo de curta duração e atividades de lazer.
+**Desenvolvimento da economia de férias**: a implementação do sistema de folgas de dois dias por semana criou condições de tempo para viagens de curta distância e atividades de lazer.
 
-### Modelos de desenvolvimento da agricultura de lazer
+### Modelos de desenvolvimento do turismo agrícola
 
-**Quintas de turismo**: Oferecem experiência de colheita de produtos agrícolas, como quintas de morangos, laranjas, lotus, permitindo aos visitantes colher pessoalmente os produtos.
+**Hortas turísticas**: oferecem experiências de colheita de produtos agrícolas, como hortas de morangos, hortas de laranjas, hortas de lotus e outras, permitindo que os turistas colham produtos agrícolas com as próprias mãos.
 
-**Experiência agrícola**: Desenham várias atividades de experiência de trabalho agrícol, como transplante de arroz, colheita, fabrico de chá, conserva de vegetais, permitindo aos citadinos experimentar a vida do agricultor.
+**Experiências agrícolas**: design de atividades de experiência agrícola, como plantio, colheita, fabricação de chá, conservas e outras, permitindo que os urbanos experimentem a vida de agricultores.
 
-**Educação agrícola**: Combinando educação ambiental e educação alimentar-agrícola, permitem a estudantes e público compreender o processo de produção agrícola e a origem dos alimentos.
+**Educação agrícola**: combinando educação ambiental e educação alimentar, ensinando estudantes e o público sobre o processo de produção agrícola e a origem dos alimentos.
 
-**Alojamento rural**: Oferecem serviços de alojamento, permitindo aos visitantes experienciar profundamente a vida rural, desfrutar da tranquilidade e beleza do campo.
+**Pousadas rurais**: oferecem serviços de alojamento, permitindo que os turistas desfrutem de uma experiência profunda da vida rural, apreciando a tranquilidade e a beleza do campo.
 
-**Experiência de transformação de produtos agrícolas**: Desenvolvem atividades DIY de transformação de produtos agrícolas, como fabrico de compotas, panificação, fabrico de sabonetes.
+**Experiências de processamento de produtos agrícolas**: desenvolvimento de atividades DIY com produtos agrícolas, como fabricação de geleias, bolos, sabonetes e outras.
 
-### Paradigmas de sucesso e características
+### Casos de sucesso e características marcantes
 
-**Quinta de Qingjing**: Combinando pecuária, horticultura e turismo, tornou-se uma das quintas de lazer mais famosas de Taiwan[^6].
+**Fazenda Qingjing**: combinando pecuária, horticultura e turismo, tornou-se uma das fazendas de lazer mais conhecidas de Taiwan[^6].
 
-**Quinta Feiniu**: Baseada na pecuária leiteira, desenvolveu uma cadeia de experiência de lazer agrícola abrangendo experiência de quinta, DIY de laticínios e educação ecológica.
+**Fazenda Feinu**: com base na criação de bovinos de leite, desenvolveu uma cadeia de experiências que inclui visitas à fazenda, atividades DIY de produtos lácteos e educação ecológica.
 
-**Rio Dongshan de Yilan**: Combinando cultura do arroz e ambiente de aldeia aquática, desenvolveu modelo único de turismo rural.
+**Rio Dongshan, Yilan**: combinando cultura de arroz e paisagens de terra à prova d'água, desenvolveu um modelo único de turismo rural.
 
-**Chishang de Taitung**: Baseado em arroz de alta qualidade, combinando paisagem campestre e cultura slow life, atrai grande número de visitantes.
+**Chihshang, Taitung**: com base no arroz de alta qualidade, combinando paisagens de campo e cultura de vida lenta, atrai grande número de turistas.
 
 ## Desenvolvimento da agricultura inteligente
 
-### Agricultura tecnológica 4.0
+### Agricultura baseada em tecnologia 4.0
 
-Taiwan está a promover o desenvolvimento da agricultura inteligente, utilizando Internet das Coisas, big data, inteligência artificial e outras tecnologias para elevar a eficiência e qualidade da produção agrícola.
+Taiwan está promovendo o desenvolvimento da agricultura inteligente, aplicando tecnologias como internet das coisas, big data e inteligência artificial para melhorar a eficiência e a qualidade da produção agrícola.
 
-**Tecnologia de sensores**: Aplicação de vários sensores de solo, meteorológicos, de crescimento de culturas, realizando monitorização de precisão do ambiente de produção agrícola.
+**Tecnologia de sensores**: aplicação de sensores para monitorar solo, clima e crescimento de culturas, permitindo monitoramento preciso do ambiente de produção agrícola.
 
-**Equipamentos automatizados**: Aplicação de equipamentos de rega automática, fertilização automática, colheita automática, reduzindo necessidades de mão de obra, aumentando eficiência de produção.
+**Equipamentos automatizados**: aplicação de equipamentos como irrigação automática, fertilização automática e colheita automática, reduzindo a necessidade de mão de obra e melhorando a eficiência produtiva.
 
-**Análise de big data**: Recolha e análise de dados de produção agrícola, fornecendo suporte de decisão científico aos agricultores.
+**Análise de big data**: coleta e análise de dados de produção agrícola, fornecendo suporte científico às decisões dos agricultores.
 
-**Aplicações de IA**: Utilização de inteligência artificial para identificação de pragas e doenças, previsão de rendimento, classificação de qualidade, etc.
+**Aplicação de IA**: utilização de inteligência artificial para identificação de pragas, previsão de produtividade e classificação de qualidade.
 
 ### Prática da agricultura de precisão
 
-**Fertilização de precisão**: Com base em resultados de análise do solo, ajustar precisamente fórmulas de fertilizantes, reduzir desperdício, diminuir carga ambiental.
+**Fertilização de precisão**: de acordo com os resultados de análise do solo, ajusta-se precisamente a formulação de fertilizantes, reduzindo desperdícios e diminuindo a carga ambiental.
 
-**Aplicação de pesticidas de precisão**: Utilizando sistemas de monitorização de pragas e doenças, aplicação precisa de pesticidas, reduzindo quantidade utilizada.
+**Aplicação de pesticidas de precisão**: utilização de sistemas de monitoramento de pragas para aplicar pesticidas com precisão, reduzindo o uso de agrotóxicos.
 
-**Irrigação de precisão**: Com base nas necessidades hídricas da cultura e teor de humidade do solo, controlo preciso da irrigação, poupando recursos hídricos.
+**Irrigação de precisão**: de acordo com as necessidades hídricas das culturas e o teor de umidade do solo, controla-se a irrigação com precisão, economizando recursos hídricos.
 
-**Colheita de precisão**: Utilizando tecnologia de deteção de maturação, colheita no momento ótimo, garantindo qualidade do produto.
+**Colheita de precisão**: utilização de tecnologia de detecção de maturidade para colher no momento ótimo, garantindo a qualidade dos produtos.
 
 ### Resultados da agricultura inteligente
 
-**Aumento de rendimento**: A aplicação de tecnologias de agricultura inteligente pode aumentar o rendimento das culturas (relatório do plano de agricultura inteligente do Ministério da Agricultura)[^10].
+**Aumento da produtividade**: a aplicação de tecnologias de agricultura inteligente pode aumentar o rendimento das culturas (relatório do plano de agricultura inteligente do Ministério da Agricultura)[^10].
 
-**Melhoria de qualidade**: A gestão de precisão torna a qualidade dos produtos agrícolas mais estável, reduzindo diferenças entre lotes.
+**Melhoria da qualidade**: a gestão precisa torna a qualidade dos produtos agrícolas mais estável, reduzindo as diferenças entre lotes.
 
-**Redução de custos**: A automatização e gestão de precisão reduziram custos de mão de obra e de insumos.
+**Redução de custos**: a automação e a gestão precisa reduzem os custos de mão de obra e de materiais.
 
-**Amigo do ambiente**: Redução do uso de pesticidas e fertilizantes químicos, diminuindo impactos negativos no ambiente.
+**Amigável ao meio ambiente**: redução do uso de agrotóxicos e fertilizantes químicos, diminuindo o impacto negativo no ambiente.
 
-## Integração da cadeia de valor agrícola
+## Integração da cadeia produtiva agrícola
 
-### Desenvolvimento da indústria de sexto nível
+### Desenvolvimento da indústria de seis níveis
 
-A agricultura de Taiwan promove o desenvolvimento da indústria de sexto nível, integrando produção primária, transformação secundária, serviços terciários, criando maior valor acrescentado.
+Taiwan promove o desenvolvimento da indústria de seis níveis, integrando produção primária, processamento secundário e serviços terciários, criando maior valor agregado.
 
-**Indústria de transformação de produtos agrícolas**: Desenvolvimento de tecnologia de transformação refinada, produção de produtos transformados de alto valor acrescentado, prolongando prazo de conservação, aumentando diversidade de produtos.
+**Indústria de processamento de produtos agrícolas**: desenvolvimento de tecnologias de processamento refinado, produção de produtos agrícolas processados de alto valor agregado, prolongando o período de conservação dos produtos agrícolas e aumentando a diversidade de produtos.
 
-**Indústria de serviços agrícolas**: Inclui serviços técnicos agrícolas, serviços de maquinaria agrícola, finanças agrícolas, seguros agrícolas, etc., fornecendo apoio abrangente à produção agrícola.
+**Indústria de serviços agrícolas**: inclui serviços de tecnologia agrícola, serviços de máquinas agrícolas, finanças rurais, seguros agrícolas e outros, fornecendo suporte abrangente à produção agrícola.
 
-**Indústria de turismo agrícola**: Combinando produção agrícola e turismo, desenvolvendo experiência agrícola, alojamento rural, lembranças de produtos agrícolas, etc.
+**Indústria do turismo agrícola**: combinação de produção agrícola e turismo, desenvolvendo experiências agrícolas, pousadas rurais, lembrancinhas agrícolas e outros.
 
-### Sistema de rastreabilidade produção-venda
+### Sistema de rastreabilidade de produtos agrícolas
 
-**Rastreabilidade de segurança alimentar**: Estabelecimento de sistema de registo completo da produção à venda, garantindo rastreabilidade da segurança alimentar.
+**Rastreabilidade de segurança alimentar**: estabelecimento de um sistema completo de registros desde a produção até a venda, garantindo a rastreabilidade da segurança dos alimentos.
 
-**Garantia de qualidade**: Através de produção padronizada e sistema de certificação, elevando qualidade dos produtos agrícolas e confiança dos consumidores.
+**Garantia de qualidade**: por meio de normas de produção padronizadas e sistemas de certificação, melhora-se a qualidade dos produtos agrícolas e a confiança dos consumidores.
 
-**Valorização da marca**: A marca de rastreabilidade produção-venda torna-se garantia de produtos agrícolas de qualidade, aumentando competitividade dos produtos.
+**Aumento do valor da marca**: o selo de rastreabilidade torna-se garantia de produtos agrícolas de qualidade, aumentando a competitividade dos produtos.
 
-### Comércio eletrónico e venda direta
+### Comércio eletrônico e venda direta
 
-**Plataformas de venda online**: Agricultores vendem diretamente produtos agrícolas através de plataformas online, reduzindo elos intermédios, aumentando rendimentos.
+**Plataformas de venda online**: os agricultores vendem produtos agrícolas diretamente por meio de plataformas digitais, reduzindo intermediários e aumentando os lucros.
 
-**Agricultura apoiada pela comunidade**: Consumidores encomendam diretamente aos agricultores, estabelecendo relações estáveis de produção-venda.
+**Agricultura com apoio comunitário**: os consumidores compram diretamente dos agricultores, estabelecendo relações estáveis de oferta e demanda.
 
-**Mercados de agricultores**: Realização regular de mercados de agricultores, permitindo contacto direto entre agricultores e consumidores, construindo relações de confiança.
+**Mercados de produtores**: organização regular de mercados de produtores, permitindo que os agricultores vendam diretamente aos consumidores, construindo relações de confiança.
 
-## Desafios enfrentados e respostas
+## Desafios atuais e respostas
 
-### Impacto das alterações climáticas
+### Impacto das mudanças climáticas
 
-**Clima extremo**: Aumento da frequência de tufões, secas, chuvas torrenciais e outros fenómenos climáticos extremos, impactando a produção agrícola.
+**Eventos climáticos extremos**: o aumento da frequência de tempestades, secas e chuvas intensas afeta a produção agrícola.
 
-**Mudança de pragas e doenças**: As alterações climáticas levam ao surgimento de novas pragas e doenças, métodos tradicionais de controlo necessitam ajustamento.
+**Variação de pragas**: as mudanças climáticas levam à aparição de novas pragas, exigindo ajustes nos métodos tradicionais de controle.
 
-**Adaptabilidade das culturas**: Variedades tradicionais podem não se adaptar às novas condições climáticas, necessitando melhoramento de novas variedades.
+**Adaptabilidade das culturas**: variedades tradicionais podem não se adaptar às novas condições climáticas, exigindo a criação de novas variedades.
 
 **Estratégias de resposta**:
 
-- Desenvolver variedades resistentes a stress
-- Construir infraestruturas de prevenção de desastres
-- Ajustar sistemas de cultivo
-- Estabelecer sistemas de alerta precoce
+- Desenvolvimento de variedades resistentes a condições adversas
+- Construção de instalações de emergência
+- Ajuste dos sistemas de plantio
+- Estabelecimento de sistemas de alerta precoce
 
 ### Escassez de mão de obra
 
-**Envelhecimento populacional**: Envelhecimento severo da população rural, jovens não querem trabalhar na agricultura.
+**Envelhecimento populacional**: o envelhecimento da população rural é grave, e os jovens não desejam trabalhar na agricultura.
 
-**Necessidade sazonal de mão de obra**: Certas culturas necessitam grande quantidade de mão de obra em épocas específicas, mas difícil recrutamento.
+**Necessidade sazonal de mão de obra**: algumas culturas precisam de grande quantidade de mão de obra em períodos específicos, mas é difícil recrutar.
 
-**Falta de talentos técnicos**: A agricultura moderna necessita mais talentos técnicos, mas sistema de formação ainda carece de reforço.
-
-**Estratégias de resposta**:
-
-- Promover mecanização agrícola
-- Introduzir trabalhadores estrangeiros
-- Reforçar formação profissional
-- Melhorar condições na agricultura
-
-### Pressão da concorrência internacional
-
-**Liberalização do comércio de produtos agrícolas**: OMC e vários acordos comerciais regionais aumentaram pressão da concorrência internacional.
-
-**Concorrência de custos**: Comparado com Sudeste Asiático e outras regiões de baixo custo, a agricultura de Taiwan enfrenta desvantagem de custos.
-
-**Concorrência de qualidade**: Necessário vencer pela qualidade e características, seguir rota de alto valor.
+**Falta de talentos técnicos**: a agricultura moderna precisa de mais profissionais técnicos, mas o sistema de formação ainda precisa ser aprimorado.
 
 **Estratégias de resposta**:
 
-- Reforçar marketing de marca
-- Desenvolver produtos de alto valor acrescentado
-- Estabelecer características regionais
-- Expandir mercados de nicho
+- Promoção da mecanização agrícola
+- Recrutamento de trabalhadores estrangeiros
+- Aprofundamento da formação profissional
+- Melhoria das condições de trabalho na agricultura
 
-## Perspetivas futuras de desenvolvimento sustentável
+### Pressão da competição internacional
+
+**Liberalização do comércio agrícola**: a OMC e vários acordos comerciais regionais aumentaram a pressão da competição internacional.
+
+**Vantagem de custos**: comparado a regiões de baixo custo como o sudeste asiático, a agricultura em Taiwan enfrenta desvantagens de custos.
+
+**Competência de qualidade**: é necessário competir em qualidade e características, seguindo a estratégia de alto valor.
+
+**Estratégias de resposta**:
+
+- Fortalecimento do marketing de marcas
+- Desenvolvimento de produtos de alto valor agregado
+- Criação de características regionais
+- Expansão de mercados nichos
+
+## Perspectivas futuras de desenvolvimento sustentável
 
 ### Promoção da agricultura circular
 
-**Utilização circular de recursos**: Reutilização de resíduos agrícolas, como palha de arroz para fabrico de painéis, bagaço de frutas para fabrico de fertilizante orgânico, etc.
+**Reutilização de recursos**: reutilização de resíduos agrícolas, como fabricação de painéis com palha de arroz, produção de fertilizantes orgânicos com bagaços de frutas.
 
-**Ciclo energético**: Utilização de resíduos agrícolas para produção de energia verde, como biogás para geração de eletricidade, instalação de painéis solares, etc.
+**Ciclo energético**: utilização de resíduos agrícolas para gerar energia verde, como geração de biogás, instalação de painéis solares.
 
-**Ciclo de recursos hídricos**: Desenvolvimento de tecnologia de irrigação poupadora de água, recuperação e utilização de água da chuva e água tratada.
+**Ciclo hídrico**: desenvolvimento de tecnologias de irrigação que economizam água, reciclagem de águas de chuva e águas tratadas.
 
 ### Proteção da biodiversidade
 
-**Ecologia de campo**: Preservação de habitats biológicos nos campos agrícolas, manutenção da biodiversidade agrícola.
+**Ecossistemas de campo**: preservação de habitats biológicos em áreas agrícolas, protegendo a biodiversidade dos campos agrícolas.
 
-**Preservação de recursos genéticos**: Preservação de variedades tradicionais e espécies silvestres, manutenção de recursos genéticos agrícolas.
+**Preservação de recursos genéticos**: preservação de variedades tradicionais e espécies silvestres, protegendo os recursos genéticos agrícolas.
 
-**Métodos de cultivo amigos do ambiente**: Promoção de métodos de cultivo sem pesticidas nem fertilizantes químicos, proteção do solo e fontes de água.
+**Métodos agrícolas amigáveis ao meio ambiente**: promoção de métodos de cultivo que não utilizam agrotóxicos e fertilizantes químicos, protegendo o solo e os recursos hídricos.
 
-### Agricultura de neutralidade carbónica
+### Agricultura carbono-neutra
 
-**Medidas de redução de carbono**: Redução de emissões de gases com efeito de estufa no processo de produção agrícola.
+**Medidas de redução de emissões**: redução de gases de efeito estufão durante o processo de produção agrícola.
 
-**Métodos de cultivo de sequestro de carbono**: Através de gestão do solo e cultivo de culturas, aumentar armazenamento de carbono no solo.
+**Métodos de sequestro de carbono**: por meio de gestão do solo e plantio de culturas, aumenta-se o armazenamento de carbono no solo.
 
-**Mecanismo de comércio de carbono**: Estabelecimento de sistema de comércio de carbono agrícola, fornecendo incentivos económicos a agricultores que reduzem carbono.
+**Mecanismo de comércio de carbono**: estabelecimento de um sistema de comércio de carbono agrícola, oferecendo incentivos econômicos aos agricultores que reduzem emissões.
 
-### Ecossistema agrícola digital
+### Ecossistema digital da agricultura
 
-**Integração de plataformas**: Construção de plataforma integrada de agricultura digital, ligando elos de produção, transformação, venda.
+**Integração de plataformas**: estabelecimento de plataformas digitais integradas de agricultura, conectando produção, processamento e venda.
 
-**Partilha de dados**: Estabelecimento de plataforma de big data agrícola, promovendo partilha e aplicação de dados.
+**Compartilhamento de dados**: criação de uma plataforma de big data agrícola, promovendo o compartilhamento e aplicação de dados.
 
-**Serviços inovadores**: Desenvolvimento de novos modelos de serviços agrícolas baseados em tecnologia digital.
+**Inovação de serviços**: desenvolvimento de novos modelos de serviços agrícolas baseados em tecnologias digitais.
 
-O motor da modernização da agricultura de Taiwan sempre foi a pressão externa: o êxodo de mão de obra forçou a mecanização, a concorrência da OMC forçou a marcação, as crises de segurança alimentar forçaram a organicização. Cada pressão encontrou uma saída política. O próximo desafio é a atualização de variedades sob alterações climáticas e o conflito de uso do solo entre agricultura e energia solar — a solução depende igualmente de inovação institucional pioneira.
+A motivação por trás da modernização da agricultura em Taiwan sempre vem de pressões externas: a fuga de mão de obra rural forçou a mecanização, a competição da WTO forçou a marcação de produtos, a crise de segurança alimentar forçou a organicidade. Cada pressão encontrou uma saída política. O próximo desafio é a atualização de variedades diante das mudanças climáticas e as contradições de uso do solo entre a agricultura e a geração de energia — a solução continua dependendo de inovações institucionais antecedentes.
 
-**Leitura complementar**:
+**Leituras recomendadas**:
 
-- [Crise climática e transição para zero líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Impacto das alterações climáticas na agricultura e pesca, e conflitos de uso do solo provocados pela política de simbiose agricultura-energia
+- [Crise climática em Taiwan e transformação para carbono-zero](/pt/nature/taiwan-climate-change-net-zero-transition) — impactos das mudanças climáticas sobre a agricultura e a pesca, além dos conflitos de uso do solo causados pela política de coexistência entre agricultura e geração de energia
 
 ## Referências
 
-[^1]: [Anuário Estatístico Agrícola do Ministério da Agricultura](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Dados estatísticos agrícolas anuais do Ministério da Agricultura (antigo Conselho de Agricultura do Yuan Executivo)
+[^1]: [Departamento de Agricultura e Recursos Alimentares — Situação geral do número de agricultores verificados e área plantada em agosto de 2025](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — total de 6.600 agricultores, 23.631 hectares; hortaliças 11.389 hectares, arroz 3.660 hectares, grãos diversos 3.137 hectares
 
-[^2]: [Planeamento de política de agricultura de precisão da Comissão Nacional de Desenvolvimento](https://www.ndc.gov.tw/) — Relatório de planeamento de política de agricultura de precisão e transformação agrícola
+[^2]: [Ministério da Agricultura — Plano de Excelência e Saúde da Agricultura Refinada](https://www.moa.gov.tw/ws.php?id=19572) — o plano foi aprovado em 7 de maio de 2009 pelo Gabinete Executivo; três eixos: agricultura saudável, agricultura de excelência, agricultura para estilo de vida saudável
 
-[^3]: [Desenvolvimento de tecnologia agrícola do Instituto de Experimentação Agrícola do Ministério da Agricultura](https://www.tari.gov.tw/) — Relatório de resultados de investigação em tecnologia agrícola e desenvolvimento tecnológico
+[^3]: [Instituto de Experimentação Agrícola do Ministério da Agricultura](https://www.tari.gov.tw/) — relatórios de pesquisa e desenvolvimento tecnológico agrícola
 
-[^5]: [Relatório de resultados de execução do plano de regeneração rural da Agência de Desenvolvimento Rural e Conservação de Solo e Água do Ministério da Agricultura](https://www.ardswc.gov.tw/) — Eficácia de execução do fundo de regeneração rural e registos de orientação comunitária
+[^4]: [Wikipedia — Cooperativas agrícolas](https://zh.wikipedia.org/zh-tw/農會) — sistema de três níveis segundo o artigo 6º da Lei das Cooperativas Agrícolas; "atualmente, Taiwan tem um total de 302 cooperativas agrícolas em todos os níveis"; a Cooperativa Agrícola Nacional da República da China (ROC) foi fundada em 18 de abril de 2013
 
-[^6]: [Relatório de inquérito da indústria de agricultura de lazer da Associação de Desenvolvimento de Agricultura de Lazer de Taiwan](https://www.taiwanfarm.org.tw/) — Inquérito sobre número de quintas de lazer nacionais, número de visitantes e escala da indústria
+[^5]: [Base de dados nacional de legislação — Artigo 7º da Lei de Regeneração Rural](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — "deve ser estabelecido um fundo de regeneração rural de 150 bilhões de dólares taiuanueses (NT$), a ser gradualmente alocado ao longo de dez anos após a entrada em vigor desta lei"
 
-[^7]: [Estatísticas de certificação de produtos agrícolas com rastreabilidade produção-venda da Agência de Alimentos do Ministério da Agricultura](https://taft.moa.gov.tw/) — Estatísticas de categorias e áreas de produtos agrícolas certificados com rastreabilidade produção-venda em Taiwan
+[^6]: [Associação de Desenvolvimento do Turismo Agrícola de Taiwan](https://www.taiwanfarm.org.tw/) — informações sobre fazendas de lazer e pesquisas industriais
 
-[^8]: [Investigação sobre transformação da agricultura de Taiwan do Instituto de Investigação Económica da Academia Sinica](https://www.econ.sinica.edu.tw/) — Análise da transformação estrutural e avaliação de políticas da agricultura de Taiwan
+[^7]: [Departamento de Agricultura e Recursos Alimentares do Ministério da Agricultura — Site de informações sobre produtos agrícolas com rastreabilidade completa](https://taft.moa.gov.tw/) — estatísticas de área e categorias de produtos agrícolas certificados com rastreabilidade completa
 
-[^10]: [Livro branco de desenvolvimento de tecnologia de agricultura inteligente do Instituto de Investigação de Tecnologia Agrícola](https://www.atri.org.tw/) — Situação atual da aplicação de IoT, IA e tecnologia de automação na agricultura
+[^8]: [Instituto de Economia da Academia Sinica](https://www.econ.sinica.edu.tw/) — análise da transformação estrutural da agricultura em Taiwan e avaliação de políticas
 
-[^11]: [Plano de promoção de cultivo amigo do ambiente do Ministério do Ambiente](https://www.moenv.gov.tw/) — Eficácia de promoção de pagamentos ecológicos e política de cultivo amigo do ambiente
+[^9]: [Centro de Promoção da Agricultura Orgânica — Tendências de crescimento da área de verificação orgânica e práticas agrícolas amigáveis ao meio ambiente em Taiwan de 2007 a 2025](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — em 2007, a área verificada orgânica representava 0,24% da área cultivada; até o final de 2025, a área verificada orgânica atingiu 21.871 hectares (2,81%), e as práticas agrícolas amigáveis ao meio ambiente atingiram 6.735 hectares (0,86%); legislação da Lei de Promoção da Agricultura Orgânica em 2018
+
+[^10]: [Instituto de Pesquisa em Tecnologia Agrícola](https://www.atri.org.tw/) — situação atual da aplicação de internet das coisas, inteligência artificial e tecnologias automatizadas na agricultura
+
+[^11]: [Departamento de Agricultura e Recursos Alimentares do Ministério da Agricultura — Agricultura orgânica e práticas agrícolas amigáveis ao meio ambiente](https://www.afa.gov.tw/cht/index.php?code=list&ids=1177) — orientação e políticas de pagamento ecológico para práticas agrícolas amigáveis ao meio ambiente
