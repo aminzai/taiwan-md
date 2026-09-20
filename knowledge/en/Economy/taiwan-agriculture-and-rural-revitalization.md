@@ -1,255 +1,260 @@
 ---
-title: 'Taiwanese Agriculture and Rural Revitalization'
-description: 'From Rice Kingdom to Premium Agriculture: The Story of Taiwan’s Agricultural Transformation and the Rebirth of Rural Communities'
+title: "Taiwan's Agriculture and Rural Revitalization"
+description: 'From Rice Kingdom to Precision Agriculture: The Story of Agricultural Transformation and Rural Community Regeneration in Taiwan'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '農業經濟'
 tags:
   [
-    'agriculture',
-    'rural revitalization',
-    'premium agriculture',
-    'organic agriculture',
-    'youth returning home',
-    'farmers’ association system',
-    'community building',
+    'Agriculture',
+    'Rural Revitalization',
+    'Precision Agriculture',
+    'Organic Farming',
+    'Youth Return to Hometown',
+    "Farmers' Association System",
+    'Community Building',
   ]
-lastVerified: 2026-03-19
-lastHumanReview: false
+subcategory: '農業經濟'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-09-20
+lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:95d473c7b6d24541'
-sourceBodyHash: 'sha256:a996bea328f05c29'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: '35a9b46c8'
+sourceContentHash: 'sha256:bea7a776566a0bbd'
+sourceBodyHash: 'sha256:760025faea8ce9a0'
+translatedAt: '2026-09-21T00:58:23+08:00'
 ---
 
-# Taiwanese Agriculture and Rural Revitalization
+# Taiwan's Agriculture and Rural Revitalization
 
-In the scallion fields of Sanxing Township, Yilan, a 33-year-old young farmer who has returned home is livestreaming the harvest on a mobile phone, introducing online viewers to the cultivation techniques behind organic Sanxing scallions. On the other end of the screen, consumers in Taipei have already placed preorder purchases. This scene would have been unimaginable 50 years ago, when farmers were worrying over excess rice production capacity and young people were leaving villages en masse to work in factories. Today, Taiwanese agriculture has transformed from a "rice kingdom of mass production" into a "model of premium agriculture," while rural communities have also been reborn from declining corners marked by population loss into new spaces where creativity and sustainability coexist.
+In the scallion fields of Sanxing Township, Yilan, a 33-year-old youth returning to his hometown is live-streaming the harvesting process on his phone, introducing the cultivation secrets of organic Sanxing scallions to online viewers. On the other end of the screen, consumers in Taipei have already placed pre-orders. This scene was unimaginable 50 years ago—back then, farmers were worried about rice overproduction, and young people were leaving for factories to work. Today, Taiwan's agriculture has transformed from a "mass production rice kingdom" into a "precision agriculture model," and rural areas have been reborn from declining corners suffering from population loss into new lands where creativity and sustainability coexist.
 
-> Agricultural land accounts for only 24% of Taiwan’s total land area, and the annual output value of primary agriculture, forestry, fisheries, and animal husbandry is approximately NT$351.3 billion (2023; the full agri-food chain, including food and beverage services, reaches NT$1.6835 trillion)[^1]. Agricultural employment accounts for about 4.4% of Taiwan’s total employed population (2023 statistics from the Ministry of Agriculture, approximately 509,000 people)[^1], behind which stands a complete industrial chain involving the livelihoods of 6 million people.
+> Approximately 20% of Taiwan's land is cultivated. In early 2024, primary agriculture, forestry, and fishery only accounted for 1.5% of the national GDP, but when including food and beverage manufacturing, wholesale/retail, and catering, the gross output of the agricultural and agri-food chain reached NT$1.7449 trillion, accounting for 6.8% of GDP; employment numbers were about 2 million people (17.2% of the nation), with 490,000 in primary agriculture, forestry, and fishery (4.3%) [^1].
 
 ## Why This Matters
 
-Agriculture is the foundation of Taiwan’s culture and ecology, as well as an important industry supporting society as a whole. From the breeding of Ponlai rice during the Japanese colonial period, to postwar land reform, to today’s premium agriculture, the history of Taiwan’s agricultural development is also a history of social transformation. As the world faces the challenge of food security, Taiwan’s experience in agricultural transformation -- how to achieve high output value on limited land, and how to revitalize rural communities through community building -- offers valuable lessons for many developing countries.
+Agriculture is the foundation of Taiwan's culture and ecology, and it is a vital industry supporting the overall society. From the Penglai rice breeding during the Japanese colonial period to post-war land reform, and up to today's precision agriculture, the history of Taiwanese agricultural development is a history of social change. As the world faces food security challenges, Taiwan's experience in agricultural transformation—how to achieve high value on limited land and how to revitalize rural areas through community building—provides valuable lessons for many developing countries.
 
-## From Rice Kingdom to Premium Agriculture
+## From Rice Kingdom to Precision Agriculture
 
-### 1950-1980: The Golden Age of the Rice Kingdom
+### 1950–1980: The Golden Age of the Rice Kingdom
 
-**The foundation laid by land reform:**
-The land reform of 1949-1953 transformed the large-landlord system inherited from the Japanese colonial period into a system of "land to the tiller," stimulating farmers’ motivation to produce. Together with the promotion of improved Ponlai rice varieties, Taiwan’s rice output rose rapidly.
+**Land Reform Foundation:**
+The Land Reform from 1949 to 1953 changed the landlord system from the Japanese colonial era into "the tiller has his land," stimulating farmers' production motivation. Coupled with the promotion of superior Penglai rice varieties, Taiwan's rice output rapidly increased.
 
-**The Green Revolution:**
+**Green Revolution:**
 
-- Introduction of technologies from the International Rice Research Institute (IRRI) in the 1960s
-- Promotion of chemical fertilizers and pesticide use
+- Adoption of International Rice Research Institute (IRRI) technology in the 1960s
+- Promotion of chemical fertilizers and pesticides
 - Establishment of farmland irrigation systems
-- Rice yields increased from 2.8 tonnes per hectare in 1950 to 4.5 tonnes in 1980[^1]
+- Rice yield per unit area significantly increased over three decades post-war, leading to rice overproduction starting in the 1970s [^3]
 
-**Establishment of the farmers’ association system:**
-Farmers’ associations became the bridge between farmers and the government, responsible for:
+**Farmers' Association System Establishment:**
+The Farmers' Associations became a bridge between farmers and the government, responsible for:
 
-- Agricultural technology extension
-- Purchase and sale of agricultural products
+- Agricultural technology promotion
+- Purchasing and selling agricultural products
 - Agricultural financial services
 - Farmer education and training
 
-### 1980-2000: Industrial Restructuring
+### 1980–2000: Industrial Structure Adjustment
 
-As industrialization accelerated, agriculture faced labor outflows and a decline in comparative advantage:
+As industrialization accelerated, agriculture faced labor outflow and declining comparative advantages:
 
-**The rice surplus crisis:**
+**Rice Overproduction Crisis:**
 
-- In the 1980s, rice output exceeded demand, and the government promoted a "rice production reduction policy"
-- Farmers were encouraged to shift to crops with higher economic value
-- Attention began to move from agricultural output volume to product quality
+- Rice overproduction in the 1980s led the government to promote a "rice reduction policy"
+- Encouragement to switch to high-value crops
+- Beginning to focus on product quality rather than quantity
 
-**Diversified development:**
+**Diversification Development:**
 
-- Improvement of vegetable and fruit cultivation technologies
-- Rise of the floriculture and horticulture industries
+- Improved vegetable and fruit cultivation techniques
+- Rise of floriculture
 - Modernization of animal husbandry
 - Breakthroughs in aquaculture technology
 
-### 2000-Present: A Model of Premium Agriculture
+### 2000–Present: The Precision Agriculture Model
 
-**Premium agriculture policy:**
-In 2002, the government formally proposed the concept of "premium agriculture"[^2], emphasizing:
+**Precision Agriculture Policy:**
+Since the 1980s, agricultural policy units have focused on "precision agriculture" as a direction for transformation. In 2009, the Executive Yuan passed the "Precision Agriculture Health Excellence Plan," listing it as one of six emerging industries [^2], emphasizing:
 
 - High quality and high added value
 - Environmental friendliness and sustainable development
-- Technological application and innovation
+- Technology application and innovation
 - Branding and internationalization
 
-## The Path of Rural Community Revitalization
+## The Path to Rural Community Revitalization
 
-### The Rural Community-Building Movement
+### Rural Community Building Movement
 
-**The emergence of community building in the 1990s:**
-Inspired by Japan’s "one village, one product" movement, Taiwan began promoting comprehensive community building:
+**Inception in the 1990s:**
+In 1994, the Ministry of Culture and Education proposed "Community Comprehensive Development," learning from Japan's town building and the "One Village, One Product" experience. Taiwan began promoting community building:
 
 - Discovering local characteristics and cultural resources
-- Cultivating community consciousness and identity
+- Fostering community consciousness and identity
 - Combining industrial development with tourism
-- Building communities’ capacity for autonomous management
+- Establishing self-management capabilities in communities
 
-**Successful cases:**
+**Success Cases:**
 
-**Beipu, Hsinchu:**
-Combining Hakka culture with the dried persimmon industry to develop cultural tourism
+**Xinpu, Hsinchu:**
+By combining Hakka culture with the century-old persimmon cake industry, this area developed cultural tourism through sun-drying persimmons by the nine winds [^8]:
 
-- Preserving traditional dried persimmon production techniques
-- Renovating monuments and historic buildings
-- Developing dried persimmon festival activities
-- Establishing dried persimmon brands and distribution channels
+- Preserving traditional persimmon cake making techniques
+- Restoring historical sites and heritage buildings
+- Developing persimmon festival activities
+- Establishing a brand and distribution channel for persimmon cakes
 
-**Taomi Community, Nantou:**
-A model of reconstruction after the 921 earthquake, transformed from ruins into an ecological village
+**Tao Mi Community, Nantou:**
+A model of reconstruction after the 921 earthquake, transforming from ruins into an ecological village:
 
-- Rebuilding homes with ecological engineering methods
-- Developing ecotourism and environmental education
-- The Paper Dome became a symbol of community rebirth
-- Establishing a base for amphibian ecological research and conservation
+- Rebuilding homes using ecological methods
+- Developing eco-tourism and environmental education
+- Paper churches becoming symbols of community rebirth
+- Ecological research and conservation base for frogs
 
-### The Rural Regeneration Act and Its Practice
+### Rural Revitalization Ordinances and Practice
 
-**Passage of the Rural Regeneration Act in 2010:**
+**The Rural Revitalization Ordinance was passed in 2010:**
 
-- The Rural Regeneration Act legally mandated a 10-year investment of NT$150 billion in the Rural Regeneration Fund (passed in 2010, Republic of China year 99)[^5]
-- Regeneration plans were promoted with communities as the unit
-- Hardware construction was combined with software capacity-building
-- Bottom-up participatory planning was emphasized
+- Article 7 of the _Rural Revitalization Ordinance_ (promulgated in ROC Year 99) stipulates the establishment of a NT$150 billion Rural Revitalization Fund, to be budgeted annually over ten years [^5].
+- Revitalization plans are promoted on a community basis.
+- Combining hardware construction with software improvement.
+- Emphasizing bottom-up participatory planning, guided by the Agency for Rural Development and Water Conservancy [^6].
 
-**Regeneration strategies:**
+**Revitalization Strategies:**
 
-1. **Industrial revitalization:** Developing distinctive agricultural products and six-level agricultural industrialization
-2. **Cultural preservation:** Maintaining traditional buildings and intangible cultural assets
-3. **Environmental improvement:** Restoring irrigation channels, trails, and public spaces
-4. **Talent cultivation:** Encouraging rural youth to return home and cultivating community leaders
+1.  **Industrial Vitalization:** Developing characteristic agricultural products and agricultural diversification (six levels).
+2.  **Cultural Preservation:** Maintaining traditional architecture and intangible cultural heritage.
+3.  **Environmental Improvement:** Rectifying irrigation canals, trails, and public spaces.
+4.  **Talent Cultivation:** Youth returning to rural areas and nurturing community leaders.
 
 ## The Wave of Youth Returning Home
 
-### The Rise of New Farmers
+### Rise of New Farmers
 
-**The post-2010 return-home wave:**
-Influenced by food safety incidents and the pursuit of quality of life, growing numbers of young people have chosen to return home and farm:
+**The Return Trend After 2010:**
+Influenced by food safety incidents and the pursuit of quality of life, more and more young people have chosen to return home to farm. Most of these new farmers bring professional backgrounds from non-agricultural fields, emphasizing environmental friendliness and brand management. The Ministry of Agriculture has supported them through programs like "Hundred Great Young Farmers."
 
-- University graduates account for 40% of those returning home to farm
-- The average age of new farmers is 35, lower than that of traditional farmers
-- Most have professional backgrounds outside agriculture
-- They emphasize environmental friendliness and brand management
+### New Generation Agricultural Operating Models
 
-### New-Generation Agricultural Business Models
-
-**Technology agriculture:**
+**Technology Agriculture:**
 
 - Smart greenhouses and environmental control systems
 - Drone spraying and monitoring
-- Applications of Internet of Things sensors
+- IoT sensor applications
 - Big data analysis and AI-assisted decision-making
 
-**Brand-oriented management:**
+**Branding Operations:**
 
 - Establishing personal or farm brands
-- Food and agricultural education and experiential activities
+- Food and agriculture education and experience activities
 - Social media marketing
-- Direct-to-consumer sales through farm-to-table delivery
+- Direct sales to consumers (farm-to-table)
 
-**Six-level industrialization:**
+**Six-Level Industrialization:**
 
-- Primary production: safe, high-quality agricultural products
-- Secondary processing: refinement and packaging of agricultural products
-- Tertiary services: tourism experiences and food and beverage services
-- The integrated effect of 1 x 2 x 3 = 6
+- Level 1 Production: Safe and high-quality agricultural products.
+- Level 2 Processing: Refining and packaging agricultural products.
+- Level 3 Services: Tourism experiences and catering services.
+- Comprehensive synergy of 1x2x3=6.
 
-### Successful Cases of Returning Home
+### Successful Return Cases
 
-**Good Food Agricultural Innovation in Dapi, Yunlin:**
-A young returnee who graduated from National Taiwan University transformed the family’s pickled mustard greens business:
+**Dapi, Yunlin Sour Cabbage:**
+Dapi Township, which has the largest sour cabbage production in Taiwan, successfully re-established a traditional industry that was once known for fermentation wastewater into a local brand [^9]:
 
-- Introduced the HACCP food safety control system
-- Developed creative dishes and products based on pickled mustard greens
-- Integrated food and agricultural education with farm experiences
-- Established online sales and home-delivery systems
+- A specialized sour cabbage zone was established in 2003 to concentrate and treat fermentation wastewater.
+- In cooperation with the Institute of Life Sciences at National Taiwan University, thousands of tons of high-salt wastewater annually are converted into feed and liquid fertilizer.
+- The sour cabbage museum and straw crafts have turned the industry into an entrance for food and agriculture education and tourism.
 
-**Navuana Ecological Farm in Rinari, Pingtung:**
-A model of Indigenous reconstruction after Typhoon Morakot:
+**Linaoli Tribe, Pingtung:**
+After the Morakot typhoon in 2009, three villages—Dasha Village in Sandimen Township, Majia Village in Majia Township, and Haocha Village in Wutai Township—relocated to rebuild their homes at the Majia Farm [^10]:
 
-- Organic cultivation of red quinoa and millet
-- Integration of traditional farming knowledge with modern techniques
-- Development of tribal ecotourism
-- Promotion of Indigenous cultural education
+- Traditional crops such as red quinoa, millet, and tree beans have become staples on the tribal table and products.
+- The Kubav granary makes red quinoa into workshops and specialty cuisine.
+- Ecological tourism and indigenous cultural education are conducted in parallel within the tribe.
 
 ## The Rise of Organic Agriculture
 
-### The Course of Organic Development
+### History of Organic Development
 
-The development of organic agriculture in Taiwan can be divided into three periods. The germination period from 1980 to 1995 saw the establishment of the Tse-Xin Organic Agriculture Foundation, the Homemakers Union promoted joint purchasing, and consumers’ environmental consciousness began to awaken. During the growth period from 1995 to 2007, the organic agricultural product certification label system was established, the draft Organic Agriculture Promotion Act entered the deliberation stage, and the organic market expanded. After 2007, organic agriculture entered an institutionalized stage: the Agricultural Production and Certification Act was passed, the Organic Agriculture Promotion Act took effect in 2018, and by 2023 certified organic area had reached 17,365 hectares, with 5,131 organic farming households[^7].
+Taiwan's organic agriculture development can be divided into three periods. The incubation period from the late 1980s to the 1990s saw the promotion of collective purchasing by the Women's Alliance (founded in 1987) and the establishment of the Tzu Chi Organic Agriculture Development Foundation in 1997, as consumer environmental awareness began to awaken [^11]. In 2007, the _Food Product Production and Verification Management Act_ established a third-party verification system; at that time, certified organic land only accounted for 0.24% of cultivated land. The acceleration phase began after the passage of the _Organic Agriculture Promotion Act_ in 2018: by the end of 2025, certified organic land reached 21,871 hectares (2.81%), and in August 2026, there were 6,600 certified organic households covering 23,631 hectares [^7][^12].
 
-### Challenges and Opportunities for Organic Agriculture
+### Challenges and Opportunities in Organic Agriculture
 
-The main challenges for organic agriculture lie in income losses during the transition period, the high technical threshold for organic pest and disease control, and the difficulty of establishing sales channels. Consumers’ price acceptance of organic agricultural products also remains a constraining factor. On the other hand, rising food safety awareness has driven demand for organic products, and together with government policy subsidies, growth in the international organic market, and integration with ecotourism, the momentum behind organic agriculture has clearly strengthened.
+The main challenges for organic agriculture include income loss during the transition period, high barriers to organic control technology, and difficulties in establishing sales channels. Consumer price acceptance is also a constraint. On the other hand, rising food safety awareness has driven demand for organic products. Coupled with government policy subsidies, the growth of international organic markets, and integration with eco-tourism, the growth momentum of organic agriculture has significantly increased.
 
-## The Evolution of the Farmers’ Association System
+## Evolution of the Farmers' Association System
 
-### Traditional Functions of Farmers’ Associations
+### Traditional Functions of Farmers' Associations
 
-Traditional farmers’ associations have both political and economic functions. Politically, they represent farmers’ interests, communicate agricultural policies, and mobilize grassroots rural organizations. Economically, they carry out joint marketing of agricultural products, joint procurement of agricultural materials, agricultural finance and insurance services, and agricultural technology extension.
+Traditional farmers' associations held dual functions: political and economic. Politically, they represented farmers' interests, promoted agricultural policies, and mobilized grassroots organizations in rural areas; economically, they executed collective marketing of agricultural products, joint procurement of agricultural materials, agricultural finance and insurance services, and agricultural technology promotion.
 
-### Transformation of Modern Farmers’ Associations
+### Modern Transformation of Farmers' Associations
 
-The services of modern farmers’ associations have extended from agriculture into supermarket retail, leisure tourism and dining, long-term care and community support, and cultural education. At the same time, they have advanced digital transformation: online shopping platforms, digital payments, agricultural big data analysis, and smart agriculture services together constitute the four dimensions of farmers’ associations’ digital upgrading.
+Modern farmers' associations have expanded their services beyond agriculture to include supermarket retail, leisure tourism catering, long-term care community support, and cultural education. They are simultaneously promoting digital transformation—online shopping platforms, digital payments, agricultural big data analysis, and smart agricultural services—forming four dimensions of the association's digital upgrade.
 
-**Successful transformation case:**
+**Successful Transformation Case:**
 
-**Gukeng Farmers’ Association, Yunlin:** Centered on establishing the Gukeng coffee brand, it has extended into coffee cultural festivals, coffee-themed tourism, and premium management of agricultural products, forming a complete path for culturalizing an industry.
+**Gukeng Farmers' Association, Yunlin:** Centered around the Gukeng coffee brand, this association has extended into coffee culture festivals, coffee-themed tourism, and high-end agricultural product management, forming a complete path toward industrial culturalization.
 
 ## Agricultural Technology Innovation
 
-### Development of Smart Agriculture
+### Smart Agriculture Development
 
-Facility agriculture centers on smart greenhouses, automated irrigation and fertilization, LED plant factories, and vertical farming technologies. Precision agriculture integrates GPS agricultural machinery navigation, variable-rate fertilization, crop growth monitoring, and yield prediction models. Applications of biotechnology include breeding varieties resistant to diseases and pests, developing microbial fertilizers, marker-assisted selection, and producing tissue-cultured seedlings. These three dimensions together form the technological architecture of Taiwan’s smart agriculture.
+Facility agriculture is mainly based on smart greenhouses, automated irrigation and fertilization, LED plant factories, and vertical farming technology. Precision agriculture integrates GPS machinery navigation, variable rate fertilization, crop growth monitoring, and yield prediction models. Biotechnological applications include breeding disease-resistant varieties, developing microbial fertilizers, genetic marker-assisted selection, and tissue culture seedling production; these three dimensions collectively form the technological framework of Taiwan's smart agriculture.
 
 ### Digital Agriculture Platforms
 
-The traceable agricultural products system uses QR codes to trace the production process, presenting food safety information directly to consumers, building trust and enhancing brand value. Agricultural e-commerce platforms integrate online sales, farm-to-consumer delivery, farm experience reservations, and agricultural knowledge sharing, allowing farmers to bypass intermediaries and reach consumers directly.
+The traceability system (production ledger) presents the production process via QR codes, directly showing food safety information to consumers, thereby building trust and enhancing brand value. Agricultural e-commerce platforms integrate online sales, farm-to-table delivery, farm experience reservations, and agricultural knowledge sharing, allowing farmers to bypass intermediaries and reach consumers directly.
 
-## Future Challenges
+## Challenges Looking Ahead
 
 ### Climate Change Adaptation
 
-Policy tools for climate change adaptation include breeding drought-resistant and flood-tolerant varieties, strengthening disaster prevention in facility agriculture, improving the agricultural insurance system, and establishing post-disaster replanting guidance mechanisms. Sustainable production models are being advanced simultaneously across four dimensions: carbon-sink agriculture, circular agriculture, biodiversity conservation, and soil health maintenance.
+Policy tools for climate change adaptation include breeding drought-resistant and flood-tolerant varieties, strengthening disaster prevention in facility agriculture, improving the agricultural insurance system, and establishing post-disaster cultivation support mechanisms. Sustainable production models are advanced simultaneously across four aspects: carbon sequestration agriculture, circular agriculture, biodiversity conservation, and soil health maintenance.
 
-### Food Security
+### Food Security Guarantee
 
-Facing fluctuations in international food prices and supply-chain risks, Taiwan’s food security strategy includes raising the self-sufficiency rate, establishing strategic food reserves, developing alternative protein sources, and strengthening regional food cooperation.
+Faced with fluctuations in international food prices and supply chain risks, Taiwan's food security strategy includes increasing self-sufficiency rates, establishing strategic food reserves, developing alternative protein sources, and strengthening regional food cooperation.
 
 ### Generational Succession and Innovation
 
-The priorities for transmitting agricultural knowledge are preserving traditional farming knowledge, enabling exchanges between older and younger generations, improving the agricultural education system, and establishing a system for cultivating professional farmers. Industrial upgrading is oriented toward high-value-added agriculture, the rise of agricultural services, expansion into international markets, and the construction of brand value.
+Key focuses for agricultural technology succession include preserving traditional farming knowledge, exchanging experiences between old and new generations, perfecting the agricultural education system, and nurturing professional farmers. Industrial upgrading is focused on high added-value agriculture, the rise of agricultural services, expansion into international markets, and building brand value.
 
-## New Hope for Rural Communities
+## New Hope for Rural Areas
 
-Today’s rural Taiwan is no longer the backward region of conventional imagination. From the persistence of small organic farmers, to the creativity of young people returning home, to the transformation of the farmers’ association system, rural communities are redefining their own value. This land carries multiple forms of energy: food production, cultural transmission, ecological conservation, and experimental innovation.
+Today's rural areas in Taiwan are no longer backward regions as traditionally perceived. From the perseverance of organic small farmers to the creativity of returning youth and the transformation of the Farmers' Association system, rural areas are redefining their value. This land carries multiple energies: food production, cultural inheritance, ecological conservation, and innovative experimentation.
 
-Under the dual challenges of globalization and climate change, the transformation experience of Taiwanese agriculture and rural communities may be an important reference for the world as it searches for paths toward sustainable development. Taiwanese agriculture has undergone three stages of transformation -- the rice kingdom, the reconstruction of premium agriculture, and the revitalization of rural communities. Its path for creating high output value on limited land has already been cited by multiple Asian agricultural policy research institutions as an operational model for smallholder economies.
+Under the dual challenges of globalization and climate change, Taiwan's experience in agricultural and rural transformation may be an important reference point for the world in its search for a path to sustainable development. Having undergone three transformations—the Rice Kingdom, Precision Agriculture reconstruction, and Rural Community Revitalization—Taiwan has found a path to create high value on limited land, serving as an operational model rarely seen in small-scale farming economics.
 
 ## Further Reading
 
-- [Taiwan’s Small and Medium-Sized Enterprises and Hidden Champions](/en/economy/taiwan-smes-and-hidden-champions)
-- [Taiwan’s Foreign Trade and Global Supply Chains](/en/economy/taiwan-foreign-trade-and-global-supply-chain)
+- [Taiwan's Small and Medium Enterprises and Hidden Champions](/economy/台灣中小企業與隱形冠軍)
+- [Taiwan's Foreign Trade and Global Supply Chains](/economy/台灣外貿與全球供應鏈)
 
 ## References
 
-[^1]: [Ministry of Agriculture Agricultural Statistics Yearbook (including agriculture and agri-food chain satellite accounts)](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Statistics on annual output value of agriculture, forestry, fisheries, and animal husbandry, employment figures, and agri-food chain satellite accounts
+[^1]: [Ministry of Agriculture — Gross Output of Agricultural and Agri-food Chain Production in Year 113 Accounting for 6.8% of National GDP, Employment Numbers About 2 Million People](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10026) — "Gross output of agricultural and agri-food chain production was NT$1.7449 trillion," "Primary agriculture, forestry, and fishery accounted for 1.5%," "Employment numbers were about 2 million people," "Primary agriculture, forestry, and fishery accounted for 490,000 (4.3%)"
 
-[^2]: [Ministry of Agriculture explanation of premium agriculture policy](https://www.moa.gov.tw/) — Policy history and objectives for the promotion of premium agriculture
+[^2]: [Ministry of Agriculture — Promoting the Precision Agriculture Health Excellence Plan](https://www.moa.gov.tw/ws.php?id=19572) — The plan was passed by the Executive Yuan on May 7, Year 98; focusing on health, excellence, and happiness.
 
-[^5]: [Laws & Regulations Database of the Republic of China: Rural Regeneration Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0090059) — Article 44 of the Rural Regeneration Act: legal basis for the 10-year NT$150 billion Rural Regeneration Fund
+[^3]: [Agricultural Statistics Database of the Ministry of Agriculture](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Annual data on rice area, production, and yield per unit area.
 
-[^6]: [Rural regeneration plan outcomes from the Agency of Rural Development and Soil and Water Conservation, Ministry of Agriculture](https://www.ardswc.gov.tw/) — Reports on guidance and implementation outcomes for rural regeneration communities
+[^5]: [National Legal Database — Article 7 of the Rural Revitalization Ordinance](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — "A Rural Revitalization Fund shall be established with NT$150 billion, and budgeted annually within ten years of the enforcement of this Ordinance."
 
-[^7]: [Agriculture and Food Agency, Ministry of Agriculture organic agriculture statistics](https://taft.moa.gov.tw/) — Statistics on certified organic area, farming households, and organic agricultural product certification
+[^6]: [Agency for Rural Development and Water Conservancy](https://www.ardswc.gov.tw/) — Guidance and implementation results of rural revitalization communities.
+
+[^7]: [Agricultural and Food Affairs Agency — Overview of Organic Cultivation Households and Planting Area in Year 115 (August)](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — Totaling 6,600 households and 23,631 hectares.
+
+[^8]: [Wikipedia — Xinpu Persimmon Cake Festival](https://zh.wikipedia.org/zh-tw/新埔柿餅節) — Over a century of persimmon cake manufacturing history in Xinpu Township; autumn sun-drying by the nine winds.
+
+[^9]: [CNA News — Dapi Sour Cabbage Wastewater Reaching Thousand Tons Annually, Proposed Cooperation with NTU to Convert into Liquid Fertilizer](https://news.pts.org.tw/article/698144) — Dapi has the largest sour cabbage production in Taiwan; specialized zone established in 2003; cooperation with NTU Institute of Life Sciences to convert wastewater.
+
+[^10]: [Maolin National Scenic Area Management Office — Linaoli Tribe](https://www.maolin-nsa.gov.tw/zh-tw/attraction/119/) — Rebuilding homes at Majia Farm after the Morakot typhoon, involving Dasha, Majia, and Haocha villages.
+
+[^11]: [Tzu Chi Organic Agriculture Development Foundation — About Tzu Chi](https://toaf.org.tw/about) — Founded in 1997 by Venerable Daily Monk.
+
+[^12]: [Organic Agriculture Promotion Center — Trends of Certified Organic and Friendly Farming Area in Taiwan from 2007 to 2025](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — Accounted for 0.24% of cultivated land in 2007; 21,871 hectares (2.81%) certified organic by the end of 2025.

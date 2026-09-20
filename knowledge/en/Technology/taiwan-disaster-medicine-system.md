@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:6c1de6e7d125ff24'
-sourceBodyHash: 'sha256:fa56609bf3ed1f63'
-translatedAt: '2026-09-16T10:04:30.323040+00:00'
+sourceCommitSha: 'a17bb572e'
+sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceBodyHash: 'sha256:c70ae774b0edc421'
+translatedAt: '2026-09-20T22:27:27.202517+00:00'
 ---
 
 ## Opening: An 8-Minute Life-or-Death Decision
@@ -30,33 +30,33 @@ At 7:58 a.m. on April 3, 2024, a 7.1-magnitude earthquake struck Hualien. At the
 
 When disaster strikes, how does Taiwan's disaster medicine system activate in the shortest time? Why do emergency department physicians serve as the core of disaster medicine? This seemingly obvious operating model actually conceals profound ingenuity in institutional design.
 
-## A Systemic Revolution Born in the Rubble of 921
+## Institutional Revolution Born from the 921 Ruins
 
-### The Blood Lesson: 500 People Who Could Have Survived
+### After 921: Law First, Teams Second
 
-The modernization of Taiwan's disaster medicine system began with a painful recognition: **if the emergency medical system had been adequate, 500 of the 921 earthquake's casualties could have survived.** This reflection catalyzed the 2000 Disaster Prevention and Protection Act, formally incorporating disaster medicine into the nation's overall disaster response operations.
+The modernization of Taiwan's disaster medical system began with the 1999 921 Jiji Earthquake. That earthquake revealed the lack of a unified legal framework for the nation's overall disaster response. The _Disaster Prevention and Protection Act_ passed in 2000 regulated the current national disaster response operations, and disaster medicine was incorporated into it. After 2000, domestic disaster medical assistance teams began learning from other countries and gradually developed.
 
-But the true turning point came in 2005, on the tenth anniversary of Japan's Kobe earthquake, when Taiwan formally introduced the Disaster Medical Assistance Team (DMAT) concept. This was not a simple technology transfer — it was a systemic revolution.
+One of the learning targets was Japan. Japan's Disaster Medical Assistance Teams (DMAT) were established in 2005, on the 10th anniversary of the Great Hanshin Earthquake: post-quake review indicated that if the emergency medical system had been complete, approximately 500 of the victims might have been saved — this reflection gave birth to Japan's DMAT. What Taiwan introduced was the concept of "hospital-based units, rapid on-site support by small teams," not merely a technical transplant.
 
-> **Curator's Note:** Taiwan's DMAT development trajectory reflects the conceptual shift in disaster medicine from "post-event treatment" to "real-time response." The key is not how much advanced equipment is on hand, but building a rapid mobilization mechanism.
+> **Curator's Note**: The development of Taiwan's DMAT reflects a shift in disaster medicine from "post-disaster treatment" to "immediate response." The key lies not in how much advanced equipment one possesses, but in establishing a rapid mobilization mechanism.
 
-### Dual Tracks: Taiwan's Fusion of Japanese and American Models
+### Dual-Track Approach: Taiwan's Fusion of Japanese and American Models
 
-Taiwan's uniqueness lies in simultaneously absorbing two fundamentally different disaster medicine philosophies from Japan and the United States:
+Taiwan's uniqueness lies in simultaneously adopting two fundamentally different disaster medical philosophies from Japan and the United States:
 
-**Japanese precision model (Type 1 DMAT):**
+**Japanese Precision Model** (Type 1 DMAT):
 
-- Teams of 3–4 people
+- 3-4 person teams
 - Rapid response within 48 hours
-- Targeted at specific on-scene medical needs
+- Targeting specific on-site medical needs
 
-**American deployment model (Type 2 DMAT):**
+**American Deployment Model** (Type 2 DMAT):
 
-- Teams of 30–40 people
-- 3–14 days of self-sufficient operation
-- Establishing temporary medical units in areas with insufficient medical resources
+- 30-40 person teams
+- 3-14 days of self-sustained operations
+- Establishing temporary medical facilities in areas with insufficient medical resources
 
-The Type 3 is Taiwan's own creation — a team dedicated to international relief operations — reflecting an ambition for disaster medicine diplomacy.
+Type 3 is Taiwan's original creation — international assistance dedicated teams — demonstrating the ambition of disaster medical diplomacy.
 
 ## The Institutional Code: Why Emergency Medicine?
 

@@ -1,171 +1,181 @@
 ---
-title: 'Taiwan Agricultural Landscapes and Industry Belts'
-description: 'The shift in agricultural landscapes from north to south traces Taiwan''s transformation from the "Taiwanese Granary" to "precision agriculture."'
+title: "Taiwan's Agricultural Landscapes and Industrial Distribution"
+description: 'The transformation path of Taiwan, from "Taiwan''s Granary" to "High-Value Agriculture," showcased through the agricultural landscapes from north to south.'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '氣候與溫泉'
 tags: ['Agriculture', 'Landscape', 'Industry', 'Food Security', 'Geography']
+subcategory: '城市與人文地理'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Geography/台灣農業地景與產業分布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
-sourceBodyHash: 'sha256:92c2111bcaaae7c8'
-translatedAt: '2026-05-20T05:08:27+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: 'b349895a3'
+sourceContentHash: 'sha256:88ba75169cfa45ae'
+sourceBodyHash: 'sha256:9f28d4872bf9c477'
+translatedAt: '2026-09-21T00:58:23+08:00'
 ---
 
-# Taiwan Agricultural Landscapes and Industry Belts
+# Taiwan's Agricultural Landscapes and Industrial Distribution
 
 ## 30-Second Overview
 
-Taiwan covers only 36,000 square kilometers, yet its varied terrain and climate have produced strikingly different agricultural landscapes. From tea terraces in the north, the "Taiwanese Granary" in the central region, tropical fruit orchards in the south, to organic farms in the east, distinct agricultural industry belts have formed across the island.
+With an area of only 36,000 square kilometers, Taiwan features distinctly different agricultural landscapes due to variations in topography and climate. From the tea terraces in the north, the "Taiwan Granary" in the center, tropical orchards in the south, to organic farms in the east, there is a clear distribution of agricultural industries.
 
-The "Zhuoshui River Rice Barn," encompassing Changhua, Yunlin, and Chiayi, still supplies 30% of Taiwan's rice. Pingtung's wax apples and Taitung's sugar apples (atemoya) have made their mark in international markets such as Japan and the Middle East.
+The "Tudœuvre Rice Bowl," comprising Changhua, Yunlin, and Chiayi, supplies about 30% of Taiwan's rice. Lychee from Pingtung and persimmon from Taitung are representative export fruits of Taiwan, which once relied heavily on China as its largest market.
 
-The construction of the Chianan Irrigation System in the 1920s laid the foundation for agricultural water infrastructure in southern Taiwan, while the post-1945 promotion of the Hengchun (Penglai) rice variety doubled Taiwan's rice yields. These two milestones were pivotal to Taiwan's agricultural modernization.
+The [Chianan Irrigation Canal](/en/history/chianan-irrigation-canal/), constructed in 1920 and completed in 1930[^7], established the agricultural water conservancy foundation for Southern Taiwan. Punglai rice, promoted in 1926, rewrote the varieties and markets of Taiwanese rice cultivation; these two events were critical turning points in the modernization of agriculture during the Japanese colonial period.
 
-Keywords: Taiwanese Granary, Zhuoshui River Rice Barn, precision agriculture, industrial transformation, food security
+Keywords: Taiwan Granary, Tudœuvre Rice Bowl, High-Value Agriculture, Industrial Transformation, Food Security
 
 ## Why It Matters
 
-Taiwan's agricultural development history records how an island has undergone continuous transformation on limited land: from the Japanese colonial-era improvement of the "Penglai rice" variety (promoted in 1926), to rural industrialization in the 1970s, to the organic agriculture and rural regeneration movements of the 2010s. Each phase is a microcosm of Taiwan's broader social restructuring.
+The history of Taiwanese agriculture records how an island continuously transformed on limited land: from the improvement of "Punglai rice" varieties (promoted in 1926) during the Japanese colonial period, to rural industrialization in the 1970s, and finally to the organic farming and rural revitalization movements of the 2010s. Each stage is a microcosm of Taiwan's social structure transformation[^2].
 
-Taiwanese agriculture simultaneously fulfills four roles: food production, land use, environmental protection, and cultural preservation. Amid climate change and urbanization pressures, Taiwan is shifting from pursuing volume to pursuing quality, and from traditional agriculture to smart agriculture.
+Taiwanese agriculture simultaneously bears four roles: food production, land use, environmental protection, and cultural heritage preservation. Amid climate change and urbanization pressures, Taiwan is shifting from pursuing yield to pursuing quality, moving from traditional farming to smart agriculture.
 
-This transformation trajectory offers direct reference value for other small agricultural islands in Asia. Taiwan's agricultural research institutions also regularly share technology with Vietnam, Indonesia, and other regions.
+This trajectory offers direct reference value for other small agricultural islands in Asia; Taiwanese agricultural research institutions also regularly share technology with countries like Vietnam and Indonesia.
 
 ## Northern Agriculture: Tea Gardens and Urban Farming
 
-The northern hills receive high annual rainfall and heavy fog, creating Taiwan's most renowned tea-producing region. As the Taipei Basin has expanded, northern agriculture has shifted toward refinement and urbanization, with community gardens and small-scale organic farming emerging as new models.
+The northern hilly areas experience high annual rainfall and dense fog, creating Taiwan's most famous tea-producing regions. After the expansion of the Taipei basin, northern agriculture has shifted toward refinement and urbanization, making community gardens and small organic farms emerging models.
 
-### Tea Industry Belt
+### The Tea Industry Belt
 
-The hilly terrain of northern Taiwan has given rise to a world-famous tea industry:
+The topography of Northern Taiwan has created a world-renowned tea industry:
 
-- **Wenshan Baozhong Tea Region**: Shiding and Pinglin areas of New Taipei City, with a humid environment receiving over 2,000 mm of annual rainfall
-- **Sanxia Biluochun**: Made from tender spring buds, with a fresh floral-fruity aroma
-- **Alishan High-Mountain Tea**: Tea gardens at 1,000–2,000 meters elevation, where large day-night temperature differences produce intense aroma
+- **Wenshan Black Tea Areas**: Areas around Shiding and Pingshan in New Taipei City, characterized by humid environments with annual rainfall exceeding 2000mm.
+- **Sanxia Biluochun**: Made from tender buds harvested in spring, possessing floral and fruity aromas.
+- **Muzha Tieguanyin**: A re-fermented tea found around Maokong in Wenshan District, Taipei City, where tea gardens coexist with tourist tea houses.
 
-Northern tea gardens mostly use terraced cultivation, making full use of sloped land. The terrace landscapes have also become tourism resources. The "Golden Age of Tea" in the Wenshan tea district has been registered as a cultural landscape, preserving traditional tea-making craftsmanship and rural settlements.
+Many northern tea gardens are terraced along slopes, making the tea garden landscape itself a tourism resource; the Pingshan area remains a major producer of Wenshan black tea.
 
-### Peri-Urban Agriculture
+### Urban Fringe Agriculture
 
-As the Greater Taipei metropolitan area has expanded, the north has developed a distinctive form of urban agriculture:
+With the expansion of the Greater Taipei metropolitan area, unique urban agriculture has developed in the north:
 
-- **Community gardens**: Lease-based services allowing urban residents to experience farming
-- **Small-scale organic farms**: Producing premium fruits and vegetables for the high-end consumer market
-- **Recreational farms**: Combining education, tourism, and agricultural production
+- **Community Gardens**: Land rental services allowing urban residents to experience farming.
+- **Small Organic Farms**: High-value vegetables exclusively for premium consumer markets.
+- **Leisure Farms**: Combining education, tourism, and agricultural production.
 
-## Central Agriculture: The Golden Corridor of the Taiwanese Granary
+## Central Agriculture: The Golden Corridor of Taiwan's Granary
 
-The golden corridor formed by Changhua, Yunlin, and Chiayi is the core pillar of Taiwan's food security. The Zhuoshui River carries large volumes of alluvial soil, creating the fertile plains that supply 30% of the island's rice.
+The golden corridor formed by Changhua, Yunlin, and Chiayi is a core pillar of Taiwan's food security. The Tudœuvre River carries large amounts of alluvial soil, creating this fertile plain that supplies 30% of the rice to the entire island.
 
-### Zhuoshui River Alluvial Fan
+### Tudœuvre Alluvial Fan
 
-The Changhua, Yunlin, and Chiayi plains in central Taiwan are the island's core agricultural production base, known as the "Taiwanese Granary":
+The plains of Changhua, Yunlin, and Chiayi in the central region are core agricultural production bases, known as the "Taiwan Granary":
 
-**Geographic advantages:**
+**Geographical Advantages:**
 
-- The Zhuoshui River carries rich alluvial soil, forming fertile plains
-- Annual rainfall of 1,200–1,500 mm, suitable for rice cultivation
-- Flat terrain, facilitating mechanized farming
+- The Tudœuvre River carries rich alluvial soil, forming fertile plains.
+- Annual rainfall is 1200–1500mm, suitable for rice cultivation.
+- The terrain is flat, facilitating mechanized farming.
 
-**Major agricultural products:**
+**Main Agricultural Products:**
 
-- **Rice**: 30% of total island output, with Zhuoshui River rice regarded as the highest quality
-- **Flowers**: Tianwu Highway Garden and Pitou Flower Industry Park
-- **Vegetables**: Cabbage and cauliflower supplying the island-wide market
+- **Rice**: Accounts for 30% of the national production, with Tudœuvre Rice being of the highest quality.
+- **Flowers**: Tianwei Flower Garden is one of Taiwan's largest flower distribution centers.
+- **Vegetables**: Cabbage and cauliflower supply the entire market.
 
-Changhua's Kyoho grapes and Yunlin's Gukeng tangerines are the most representative premium fruits of the central plains and were early cases of farmer-led brand transformation.
+Changhua Jufen grapes and Yunlin Gukeng mandarins are representative high-value fruits of the central plain[^3], and they serve as early case studies in farmer branding transformation.
 
-### Precision Agriculture Transformation
+### High-Value Agriculture Transformation
 
-Facing competition from imported produce and an aging rural population, central Taiwan's agriculture is moving toward refinement:
+Facing competition from imported agricultural products and aging rural populations, central agriculture is moving toward refinement:
 
-**Technology applications:**
+**Technological Applications:**
 
 - Smart greenhouse monitoring systems
-- Drone-based pesticide spraying
-- GPS-guided precision fertilization
+- Drone spraying of pesticides
+- Precision farming GPS fertilization
 
-**Brand-driven operations:**
+**Branding Operations:**
 
-- "Zhuoshui Rice" geographical indication certification
-- Tianwu flower tourism factory model
-- Farmers' association production-and-marketing traceability tracking
+- Regional brands like "Tudœuvre Rice"
+- Industrialization of Tianwei flower tourism
+- Traceability tracking by agricultural cooperatives
 
 ## Southern Agriculture: The Tropical Fruit Kingdom
 
-Southern Taiwan — Tainan, Kaohsiung, and Pingtung — lies south of the Tropic of Cancer, with long summers, mild winters, and a growing season exceeding 300 days, creating the island's most concentrated tropical fruit production zone. The Chianan Plain, benefiting from the Chianan Irrigation System built in the 1920s, became Taiwan's largest rice and sugarcane production base.
+Southern Tainan, Kaohsiung, and Pingtung are south of the Tropic of Cancer, enjoying long summers and warm winters with a growing season exceeding 300 days, which has created Taiwan's most concentrated tropical fruit production area. The Chianan plain benefits from the water conservancy construction of the [Chianan Irrigation Canal](/en/history/chianan-irrigation-canal/) in the 1920s, becoming Taiwan's largest base for rice and sugarcane production.
 
 ### Pingtung Tropical Agriculture
 
-Pingtung County lies south of the Tropic of Cancer. Its year-round hot, humid tropical climate nurtures a wide variety of tropical fruit trees:
+Pingtung County, located south of the Tropic of Cancer, has a tropical climate characterized by high temperatures and humidity year-round, nurturing a variety of tropical fruits:
 
-**Signature fruits:**
+**Specialty Fruits:**
 
-- **Wax apples (rose apples)**: Pingtung accounts for 60% of total island output, famous for the "Black Pearl" cultivar
-- **Pineapples**: Tainung No. 17 (Golden Diamond) pineapples are exported to Japan at 3–5 times the price of standard pineapples
-- **Mangoes**: Irwin and Jinhwang mangoes supply the island-wide market during summer
+- **Lychee**: Pingtung accounts for over 70% of Taiwan's cultivation area. The Nanyang pink variety, known as "Black Pearl," is famous for its deep red color and high sugar content[^8].
+- **Pineapple**: Golden Diamond pineapple is a major export variety.
+- **Mango**: Aiwen mangoes and Jinhuang mangoes supply the entire market during the summer.
 
-Pingtung's "Precious Indian jujube" is in high demand just before Lunar New Year, representing a textbook case of southern farmers mastering seasonal marketing timing.
+The shortage of Pingtung honey tangerines before Chinese New Year exemplifies how southern Taiwanese farmers manage seasonal marketing rhythms.
 
 ### Chianan Plain Agriculture
 
-The Chianan Plain in Tainan and Chiayi benefits from the Chianan Irrigation System, enabling large-scale agricultural production. Built during the Japanese colonial period in the 1920s, the Chianan Irrigation System irrigated 150,000 hectares and introduced a "three-year rotation" system (rice → sugarcane → rain-fed crops), laying the foundation for modern agricultural water infrastructure in Taiwan.
+Tainan and Chiayi's Chianan plain benefits from the Chianan Irrigation system, leading to large-scale agricultural production. The [Chianan Irrigation Canal](/en/history/chianan-irrigation-canal/) was constructed in 1920 and completed in 1930, irrigating an area of about 150,000 hectares. Due to insufficient water volume for the entire irrigation zone to plant rice simultaneously, the canal adopted a "three-year rotation" system, dividing the zone into three sections that alternate between rice, sugarcane, and mixed crops, establishing the foundation of modern Taiwanese agricultural water conservancy[^5][^7].
 
-Today, the Chianan Plain produces 25% of Taiwan's rice. The phalaenopsis (butterfly orchid) industry is clustered here, and Taiwan is the world's largest exporter of butterfly orchids[^1]. Milkfish farming generates over NT$3 billion in annual output, serving as a key income source for coastal farming-fishing households in the south.
+Today, the Chianan plain remains an important rice production area in Taiwan. The Orchid Biotechnology Park in Houbi, Tainan, has clustered the orchid industry here, making Taiwan a major global exporter of orchids[^1]. Shrimp farming is also an important income source for coastal farmers and fishermen in the south.
 
 ## Eastern Agriculture: Organic and Indigenous Farming
 
-The Huatung (East Rift) Valley, sandwiched between the Central Mountain Range and the Coastal Mountain Range, is far from industrial pollution, and its agricultural production conditions are recognized by organic certification bodies. Hualien County's organic farmland accounts for over 30% of the county's total agricultural land — the highest proportion of any county or city in Taiwan. Brands such as Chihshang rice and Fuli rice have established reputations in Taiwan's premium rice market.
+The Hualien-Taitung Valley is nestled between the Central Mountain Range and the Coast Mountains, far from industrial pollution. Hualien County is the county with the largest certified organic area in Taiwan, reaching 3,175 hectares and 662 households in early 2023, significantly more than Chiayi County (the second largest)[^9]. Brands like Chishang rice and Fuli rice have established reputations in Taiwan's fine rice market.
 
-### Huatung Valley Organic Agriculture
+### Hualien-Taitung Valley Organic Agriculture
 
-The Huatung Valley in Hualien and Taitung, being remote and relatively free of industrial pollution, benefits from a clean environment and water sources — natural advantages for organic certification. Indigenous traditional farming methods are also fully preserved here. Combined with rising consumer demand for organic products, this has made the region a stronghold for organic agriculture.
+The Hualien-Taitung Valley, due to its remote location and relatively low industrial pollution, has a natural guarantee of organic certification through clean environments and water resources[^6]. Traditional indigenous farming methods are also fully preserved here. Coupled with rising consumer demand for organic products, this area has become a hub for organic agricultural development.
 
-Fuli rice and Chihshang rice are the flagship brands of Huatung organic rice. Taitung County produces 90% of Taiwan's sugar apples (atemoya), and the large-eye sugar apple was once exported to mainland China on a large scale. Roselle (Hibiscus sabdariffa) is a indigenous traditional crop, processed into flower tea and jam sold across the island. Millet cultivated by the Paiwan and Rukai peoples has seen a revival in recent years, becoming an indicator of dual cultural and agricultural revitalization.
+Fuli rice and Chishang rice are representative brands of organic rice in the Hualien-Taitung region. Taitung County accounts for about 90% of Taiwan's persimmon production; before China banned imports in 2021, 95% of the pineapple persimmon was exported to China[^10]. The Luo Shen flower is a traditional indigenous crop, processed into tea and jam sold across Taiwan. The Paiwan and Rukai tribes have recently resumed cultivating small grains, serving as indicators of cultural and agricultural revitalization.
 
 ### Indigenous Agricultural Revitalization
 
-In recent years, indigenous communities have collectively managed operations through tribal cooperatives, strengthening their bargaining power with distribution channels. The restoration of cultural crops such as Taiwan quinoa (Chenopodium formosanum) and tree beans (Cajanus cajan) — both regarded as superfoods — along with ecological farming methods that coexist with nature, form three pathways for indigenous agricultural revitalization.
+In recent years, indigenous communities have improved their bargaining power through collective management via tribal industry cooperatives. The cultivation of superfoods like Taiwanese quinoa and tree beans, along with ecological farming methods that coexist with nature, form three paths for the revitalization of indigenous agriculture[^4].
 
-## Agricultural Challenges and the Future
+## Agricultural Challenges and Future
 
-Taiwan's agriculture faces structural difficulties: the average age of the farming population exceeds 65, farmland is steadily encroached upon by industrial and residential development, and price pressure from imported agricultural products intensifies year by year. Meanwhile, climate change is increasing the frequency of extreme weather, shifting pest and disease ranges northward, and quietly altering the suitable growing zones for certain crops.
+Taiwan's agriculture faces structural dilemmas: the average age of agricultural operators is 64.4 years (according to the 2020 Survey on Agriculture, Forestry, Fishery, and Animal Husbandry)[^11], farmland is eroded year by year by industrial and residential use, and price pressures from imported agricultural products intensify annually. Concurrently, climate change increases the frequency of extreme weather, pushes pest distribution northward, and subtly changes the suitable growing areas for certain crops.
 
 ### Structural Challenges
 
-Climate change has increased the frequency of typhoons, droughts, and heavy rainfall. Pest and disease distribution lines are shifting northward, and saltwater intrusion threatens coastal farmland. On the social front, the outflow of rural youth, farmland being requisitioned for factory use, and competition from imported agricultural products form a triple pressure on Taiwan's agriculture.
+Climate change leads to an increase in typhoons, droughts, and heavy rains, while the migration of pest distribution lines threatens coastal farmlands through saltwater intrusion. Socially, rural youth outflow, land requisitioned for factories, and competition from imported agricultural products form a triple pressure on Taiwanese agriculture.
 
 ### Transformation Strategies
 
-On the technology front, Taiwan has introduced AI for pest and disease prediction, developed vertical farms and plant factories, and used blockchain to establish production-and-marketing traceability, allowing consumers to track the origin and growing process of every batch of produce.
+In technology, Taiwan is introducing AI to predict pests and diseases, developing vertical farms and plant factories, and using blockchain to establish supply chain traceability, allowing consumers to track the origin and cultivation process of every batch of produce.
 
-On the policy front, the establishment of an agricultural insurance system, subsidies for young farmers returning to start businesses, and enforcement of agricultural-land-for-agricultural-use regulations are the three pillars for stabilizing agricultural supply. On the industry front, Taiwan's agriculture is transforming toward premium agriculture, and agritourism and the experience economy have become important sources of income.
+In policy, establishing agricultural insurance systems, subsidizing young farmers returning to start businesses, and enforcing land use regulations are the three pillars stabilizing agricultural supply. In industry, Taiwan's agriculture is transforming into high-value agriculture, with agri-tourism and experience economy becoming important revenue sources.
 
-## Taiwan Agriculture in a Global Context
+## Taiwanese Agriculture from a Global Perspective
 
-Although Taiwan's agriculture is modest in scale, it holds international significance in three areas: technology export, sustainable development, and food security.
+Although not large in scale, Taiwanese agriculture holds international significance in terms of technological export, sustainable development, and food security.
 
-In orchid breeding technology, Taiwan is the world's largest exporter of phalaenopsis (butterfly orchids). In agricultural biotechnology, Taiwan's plant factory and vertical farm technology has been exported to Japan and Singapore. Taiwan's organic agriculture certification system and rural community-building experience have also been referenced by agricultural departments in multiple Southeast Asian countries.
+In orchid breeding technology, Taiwan is the world's largest exporter of orchids; in agricultural biotechnology, Taiwan's plant factories and facility farming technologies are beginning to be exported overseas; agricultural technology groups are stationed long-term in friendly countries, bringing rice and horticultural techniques locally.
 
-Taiwan's agriculture is transforming from the "Taiwanese Granary" to a "Precision Agriculture Island," competing on quality and brand strength within limited land, and offering a viable transformation pathway for small agricultural economies across Asia.
+Taiwanese agriculture is transitioning from a "Taiwan Granary" to an "Island of High-Value Agriculture," succeeding through quality and brand on limited land, providing a viable transformation path for small Asian agricultural economies.
 
 ## References
 
-[^1]: Department of Statistics, Ministry of Agriculture, [_Taiwan Agricultural Statistical Yearbook_](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+[^1]: [Agricultural Statistics Yearbook](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Ministry of Agriculture Statistics, 2025.
 
-[^2]: Ministry of Agriculture, [Agricultural Policy and Development Information](https://www.moa.gov.tw/), including _History of Taiwan's Agricultural Development_ (2023).
+[^2]: [Agricultural Policy and Development Information](https://www.moa.gov.tw/) — Ministry of Agriculture
 
-[^3]: Changhua County Government, [Agricultural Industry Development Information](https://www.chcg.gov.tw/), including _Zhuoshui River Rice Barn Industry Development Report_ (2024).
+[^3]: [Information on Agricultural Industry Development](https://www.chcg.gov.tw/) — Changhua County Government
 
-[^4]: Taitung County Government, [Indigenous Agriculture and Industry Development](https://www.taitung.gov.tw/), including _Indigenous Agricultural Revitalization Plan_ (2025).
+[^4]: [Indigenous Agriculture and Industry Development](https://www.taitung.gov.tw/) — Taitung County Government
 
-[^5]: Agency of Irrigation and Engineering, Ministry of Agriculture, [Chianan Irrigation System and Water History Information](https://www.ia.gov.tw/), including _Centennial History of the Chianan Irrigation System_ (2020).
+[^5]: [Official Website](https://www.ia.gov.tw/) — National Irrigation Administration
 
-[^6]: Hualien County Government Agriculture Department, [Eastern Organic Agriculture Development Information](https://www.hl.gov.tw/), including _Survey of the Current State of Eastern Organic Agriculture_ (2024).
+[^6]: [Official Website](https://www.hl.gov.tw/) — Hualien County Government Agricultural Office
+
+[^7]: [〈Chianan Irrigation Canal〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — National Irrigation Administration
+
+[^8]: [〈Common Lychee Collection〉](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — Food and Agriculture Education Information Integration Platform
+
+[^9]: [〈The Leader in Certified Organic Farming Area and Households〉](https://info.organic.org.tw/35259/) — Global Organic Agriculture Information Network
+
+[^10]: [〈China's Output Price Collapse Encourages Taiwan to Process Pineapple Persimmon and Switch Crops〉](https://news.ltn.com.tw/news/life/breakingnews/5478936) — Liberty Times, June 21, 2026 — "95% of the export market is concentrated in China," leading to crop switching and processing routes after China suspended imports in September 2021.
+
+[^11]: [〈Preliminary Results of the 109 Survey on Agriculture, Forestry, Fishery, and Animal Husbandry〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Executive Yuan Statistical Agency
