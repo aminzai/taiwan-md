@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T16:44:34+08:00",
-    "zhCommitHead": "8c98f64f1",
+    "lastUpdated": "2026-09-20T17:10:34+08:00",
+    "zhCommitHead": "c0ca3b71d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 103,
         "metadata_stale": 28,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1042,
-        "stale": 57,
+        "fresh": 1043,
+        "stale": 56,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 990,
-        "stale": 57,
+        "fresh": 991,
+        "stale": 56,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -8102,8 +8102,8 @@
           "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
           "sourceBodyHash": "sha256:54db8d12b45ad9b3",
           "translatedAt": "2026-09-20T07:11:25.604832+00:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "c0ca3b71",
+          "translationLastModified": "2026-09-20T16:44:35+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -96430,18 +96430,16 @@
         "vi": {
           "path": "vi/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-18T18:59:52+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-20T09:02:13.386260+00:00",
           "translationLastCommit": "52d77b08",
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jensen-huang.md",
@@ -99397,18 +99395,16 @@
         "ko": {
           "path": "ko/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:14127c407e7b0db7",
-          "sourceBodyHash": "sha256:6d452360d79fae70",
-          "translatedAt": "2026-08-03T22:55:36+08:00",
+          "sourceCommitSha": "89b721a3d",
+          "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
+          "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
+          "translatedAt": "2026-09-20T00:52:36+08:00",
           "translationLastCommit": "89b721a3",
           "translationLastModified": "2026-09-18T21:24:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+70 -38"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tsmc-morris-chang.md",
@@ -186198,7 +186194,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/taiwan-lantern-festival.md",
+          "translatedFrom": "Culture/燈會.md",
+          "sourceCommitSha": "98d54f4a0",
+          "sourceContentHash": "sha256:767425123798426e",
+          "sourceBodyHash": "sha256:efd4dce4c6d7acb4",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/taiwan-lantern-festival.md",
