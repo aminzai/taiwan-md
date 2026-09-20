@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:6c1de6e7d125ff24'
-sourceBodyHash: 'sha256:fa56609bf3ed1f63'
-translatedAt: '2026-09-16T10:01:07.545548+00:00'
+sourceCommitSha: 'a17bb572e'
+sourceContentHash: 'sha256:4b2a7f3ce14aead4'
+sourceBodyHash: 'sha256:c70ae774b0edc421'
+translatedAt: '2026-09-20T22:02:52.072142+00:00'
 ---
 
 ## Prologue : une décision de vie ou de mort en 8 minutes
