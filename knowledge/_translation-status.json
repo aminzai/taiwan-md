@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T03:43:56+08:00",
-    "zhCommitHead": "84e850de1",
+    "lastUpdated": "2026-09-21T04:07:42+08:00",
+    "zhCommitHead": "09b7af068",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 903,
+        "fresh": 904,
         "stale": 108,
         "metadata_stale": 28,
-        "missing": 85,
+        "missing": 84,
         "orphan": 0
       },
       "ko": {
@@ -52,42 +52,42 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 58,
+        "fresh": 1038,
+        "stale": 57,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 993,
+        "fresh": 994,
         "stale": 56,
-        "metadata_stale": 58,
+        "metadata_stale": 57,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 946,
-        "stale": 65,
+        "fresh": 947,
+        "stale": 64,
         "metadata_stale": 8,
         "missing": 105,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 993,
-        "stale": 74,
+        "fresh": 994,
+        "stale": 73,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 953,
+        "fresh": 954,
         "stale": 57,
         "metadata_stale": 10,
-        "missing": 104,
+        "missing": 103,
         "orphan": 0
       },
       "ar": {
@@ -100,16 +100,16 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1016,
+        "fresh": 1017,
         "stale": 45,
         "metadata_stale": 8,
-        "missing": 55,
+        "missing": 54,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 818,
-        "stale": 18,
+        "fresh": 820,
+        "stale": 16,
         "metadata_stale": 4,
         "missing": 284,
         "orphan": 0
@@ -9115,16 +9115,16 @@
         "pt": {
           "path": "pt/Economy/taiwan-agricultural-modernization.md",
           "translatedFrom": "Economy/台灣農業現代化發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:6abff98edbff2fbe",
-          "sourceBodyHash": "sha256:5dcfc71454466970",
-          "translatedAt": "2026-07-26T11:16:46+08:00",
+          "sourceCommitSha": "05aa5b7b0",
+          "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
+          "sourceBodyHash": "sha256:c2c5a393d951d7c5",
+          "translatedAt": "2026-09-21T00:58:33+08:00",
           "translationLastCommit": "afe0630d",
           "translationLastModified": "2026-07-26T13:07:31+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-agricultural-modernization.md",
@@ -9171,16 +9171,16 @@
         "de": {
           "path": "de/Economy/taiwan-agricultural-modernization.md",
           "translatedFrom": "Economy/台灣農業現代化發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:6abff98edbff2fbe",
-          "sourceBodyHash": "sha256:5dcfc71454466970",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "sourceCommitSha": "05aa5b7b0",
+          "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
+          "sourceBodyHash": "sha256:c2c5a393d951d7c5",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
           "translationLastCommit": "0fda2654",
           "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -15678,7 +15678,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/slp-taipei-startup-leadership-program.md",
+          "translatedFrom": "Economy/SLP台北創業領導計畫.md",
+          "sourceCommitSha": "cc540a12b",
+          "sourceContentHash": "sha256:43d208bb15493ffd",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T19:00:15.650479+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -39437,16 +39448,16 @@
         "id": {
           "path": "id/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-21T00:58:31+08:00",
           "translationLastCommit": "912556b5",
           "translationLastModified": "2026-09-16T09:11:42+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -100431,8 +100442,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09b7af06",
+          "translationLastModified": "2026-09-21T03:43:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -101958,18 +101969,16 @@
         "vi": {
           "path": "vi/People/annette-lu.md",
           "translatedFrom": "People/呂秀蓮.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:4f2e975be9df55bf",
           "sourceBodyHash": "sha256:e2af78942d7ac0ac",
-          "translatedAt": "2026-07-26T20:52:22+08:00",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "d0978739",
           "translationLastModified": "2026-07-26T23:22:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/annette-lu.md",
@@ -104030,7 +104039,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/domidoro.md",
+          "translatedFrom": "People/多米多羅.md",
+          "sourceCommitSha": "4e7919913",
+          "sourceContentHash": "sha256:bfcd5767d7b581f0",
+          "sourceBodyHash": "sha256:7d79b5e0261f5aba",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/domidoro.md",
@@ -156790,7 +156810,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/1959-august-7-flood.md",
+          "translatedFrom": "History/87水災.md",
+          "sourceCommitSha": "a007d05a2",
+          "sourceContentHash": "sha256:ba3d35e713460c50",
+          "sourceBodyHash": "sha256:d7642501b86ebb9c",
+          "translatedAt": "2026-09-21T00:58:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/1959-august-7-flood.md",
@@ -161634,16 +161665,16 @@
         "fr": {
           "path": "fr/Geography/geography-and-geology.md",
           "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:fd5b44b607710000",
-          "sourceBodyHash": "sha256:b019853dd2be5b1d",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "754685ed1",
+          "sourceContentHash": "sha256:d82f573c8035bd6e",
+          "sourceBodyHash": "sha256:e12316843009e7dd",
+          "translatedAt": "2026-09-21T00:58:28+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/geography-and-geology.md",
@@ -167771,8 +167802,8 @@
           "sourceContentHash": "sha256:7dadbaf276fb07ab",
           "sourceBodyHash": "sha256:755b0e65ac133cb0",
           "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "994999b5",
-          "translationLastModified": "2026-07-27T05:39:01+08:00",
+          "translationLastCommit": "09b7af06",
+          "translationLastModified": "2026-09-21T03:43:56+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -169158,16 +169189,16 @@
         "de": {
           "path": "de/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "70372d3a0",
-          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
-          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
-          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "sourceCommitSha": "ff1ce7d66",
+          "sourceContentHash": "sha256:f2ac5aec701df4d2",
+          "sourceBodyHash": "sha256:4cdc3e89f08b13d3",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
           "translationLastCommit": "412004a2",
           "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (21→6)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
