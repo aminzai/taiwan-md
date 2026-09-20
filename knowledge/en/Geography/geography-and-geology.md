@@ -1,242 +1,256 @@
 ---
-title: 'Geographic Features and Formation of the Island of Taiwan'
-description: "Explore Taiwan's distinctive island geography, from plate tectonics to terrain structure, and understand the natural mysteries of Formosa"
+title: "Taiwan's Island Geography: Features and Formation"
+description: "Explore Taiwan's unique island geography, from plate tectonics to landform structures, uncovering the natural mysteries of the island of Formosa"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
+tags: ['geography', 'geology', 'island', 'plate tectonics', 'landforms']
 subcategory: '島嶼與海洋'
-tags: ['geography', 'geology', 'islands', 'plate tectonics', 'terrain']
-readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
-featured: false
-translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fd5b44b607710000'
-sourceBodyHash: 'sha256:b019853dd2be5b1d'
-translatedAt: '2026-05-20T05:08:27+08:00'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
+readingTime: 12
+featured: false
+lastVerified: 2026-09-20
+lastHumanReview: false
+translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: '754685ed1'
+sourceContentHash: 'sha256:d82f573c8035bd6e'
+sourceBodyHash: 'sha256:e12316843009e7dd'
+translatedAt: '2026-09-21T00:58:23+08:00'
 ---
 
-# Geographic Features and Formation of the Island of Taiwan
+# Taiwan's Island Geography: Features and Formation
 
 ## 30-Second Overview
 
-Taiwan is an island located at the boundary between the Asian continent and the Pacific Ocean. Its main island covers 35,808 square kilometers and was formed by the collision of the Philippine Sea Plate and the Eurasian Plate. It has the typical characteristics of “high mountains, small plains, and short, fast-flowing rivers.” Its five major terrain types consist of 29% mountains, 40% hills and terraces, and 31% plains and basins. Its geological history spans from the Paleozoic to the Cenozoic, displaying exceptionally high geological diversity.
+Taiwan is an island located at the junction of the Asian mainland and the Pacific Ocean. The main island covers an area of 35,808 square kilometers and was formed by the collision between the Philippine Sea Plate and the Eurasian Plate. It exhibits the typical characteristics of "high mountains, small plains, and short, rapid rivers." The proportions of the five major landforms are: mountains 29%, hilly terraces 40%, and alluvial plains 31%[^8]. The geological age spans from the Paleozoic to the Neolithic era, displaying extremely high geological diversity.
 
-From sea level to Yushan at 3,952 meters, Taiwan crosses four ecological zones within a horizontal distance of less than 150 kilometers. This kind of vertical compression is almost unparalleled among islands of comparable size worldwide.
+From sea level to the 3,952-meter-high Mount Jade, within a horizontal distance of less than 150 kilometers, four ecological belts are traversed — a vertical compression that is nearly unparalleled among islands of similar size worldwide.
 
-Keywords: plate collision, five major terrain types, en echelon arrangement, geological diversity, island arc system
+Keywords: plate collision, five major landforms, ranges arranged in sequence, geological diversity, island arc system
 
 ## Why It Matters
 
-Taiwan’s geographic position and geological structure have shaped the island’s natural environment while also profoundly influencing patterns of human activity, the distribution of ecosystems, and the frequency of geological hazards. The roots of disasters such as earthquakes, typhoons, and landslides all lie in its geographic structure; complex terrain creates diverse ecological habitats; and settlement distribution, transportation routes, and industrial development are all constrained by geographic conditions.
+Taiwan's geographical location and geological structure simultaneously shape the island's natural environment and profoundly influence patterns of human activity, ecosystem distribution, and the frequency of geological disasters. Earthquakes, typhoons, landslides, and other disasters all originate from the geographical structure; complex terrain creates diverse ecological habitats; and the distribution of settlements, transportation routes, and industrial development are all constrained by geographical conditions.
 
-Understanding Taiwan’s geographic features is the scientific foundation for land-use planning and environmental conservation, as well as the starting point for knowing this land.
+Understanding Taiwan's geographical features is the scientific foundation for land use planning and environmental conservation, and is also the starting point for us to get to know this land.
 
-After the 1999 Jiji earthquake, commonly known in Taiwan as the 921 earthquake, Taiwan began systematically establishing a management system for geologically sensitive areas, directly translating geographic research into disaster-prevention policy.
+After the 921 earthquake in 1999, Taiwan began to systematically establish geological sensitive area management systems, directly transforming geographical research into disaster prevention policies.
 
-## Plate Tectonics and Geological Foundations
+## Plate Tectonics and Geological Foundation
 
-Taiwan’s geological foundation comes from the collision of two major plates. The Philippine Sea Plate moves northwest at a rate of 8.2 centimeters per year, compressing the Eurasian Plate and creating the history of Taiwan’s uplift from the seafloor. This collision is still ongoing today, and the Central Mountain Range continues to rise each year.
+Taiwan's geological foundation stems from the collision of two major plates. The Philippine Sea Plate moves northwestward at a speed of 8.2 centimeters per year, pushing against the Eurasian Plate, resulting in Taiwan's history of rising from the sea floor. This collision continues to this day, and the Central Mountain Range is still rising each year.
 
-### Active Orogeny
+### Active Orogenesis
 
-Taiwan lies on the convergent boundary between the Philippine Sea Plate and the Eurasian Plate, making it one of the most active orogenic regions in the world. According to GPS observations, the Philippine Sea Plate moves northwest at a rate of 8.2 centimeters per year. This intense plate movement has created Taiwan’s distinctive geological landscape.
+Taiwan is located at the convergence boundary of the Philippine Sea Plate and the Eurasian Plate, making it one of the most active areas of orogenesis in the world. According to GPS observation data, the Philippine Sea Plate moves northwestward at a speed of 8.2 centimeters per year, and this intense plate movement has created Taiwan's unique geological landscapes.
 
-**Plate collision patterns**:
+**Plate Collision Patterns**:
 
-- **North**: the Philippine Sea Plate subducts northward beneath the Eurasian Plate
-- **South**: the Eurasian Plate subducts eastward beneath the Philippine Sea Plate
-- **Central Taiwan**: the two plates collide directly, forming Taiwan’s highest mountains
+- **Northern Taiwan**: The Philippine Sea Plate subducts northward beneath the Eurasian Plate
+- **Southern Taiwan**: The Eurasian Plate subducts eastward beneath the Philippine Sea Plate
+- **Central Taiwan**: The two plates collide directly, forming Taiwan's highest mountain range
 
-### A Condensed Geological Timeline
+### Geological Time as a Microcosm
 
-Although Taiwan is not large in area, it condenses geological history from the Paleozoic to the Cenozoic:
+Although Taiwan's area is not large, it condenses geological history from the Paleozoic to the Neolithic era:
 
-**Distribution of major rock types**:
+**Main Rock Distribution**:
 
-- **Metamorphic rocks** (eastern side of the Central Mountain Range): marble, schist, and others, representing the results of compression and metamorphism in the deep crust
-- **Igneous rocks** (Datun Mountain, Penghu, and the Coastal Mountain Range): basalt, andesite, and others, showing evidence of volcanic activity
-- **Sedimentary rocks** (western plains and hills): sandstone, shale, and others, forming the rock strata that occupy the largest area on Taiwan proper
+- **Metamorphic Rocks** (eastern side of the Central Mountain Range): marble, slate, etc., representing the results of deep crustal squeezing and metamorphism
+- **Igneous Rocks** (Dawan Mountain, Penghu, Coastal Mountain Range): basalt, andesite, etc., showing evidence of volcanic activity
+- **Sedimentary Rocks** (western plains and hills): sandstone, shale, etc., which are the largest rock strata on the Taiwan mainland
 
-## Distinctive Island Terrain Features
+## Unique Island Landform Features
 
-### Proportions of the Five Major Terrain Types
+### Proportions of the Five Major Landforms
 
-Taiwan’s terrain structure displays the typical characteristics of a “high-mountain island”:
+Taiwan's landform structure exhibits the typical characteristics of a "high mountain island":
 
-| Terrain type           | Elevation range    | Area share | Main distribution                                    |
-| ---------------------- | ------------------ | ---------- | ---------------------------------------------------- |
-| **Mountains**          | Above 1,000 meters | 29%        | Central Mountain Range, Xueshan Range, Alishan Range |
-| **Hills and terraces** | 100-1,000 meters   | 40%        | Miaoli Hills, Zhudong Hills, Linkou Terrace          |
-| **Plains and basins**  | Below 100 meters   | 31%        | Chianan Plain, Pingtung Plain, Taipei Basin          |
+| Landform Type       | Elevation Range    | Area Proportion | Main Distribution                                                   |
+| ------------------- | ------------------ | --------------- | ------------------------------------------------------------------- |
+| **Mountains**       | Above 1,000 meters | 29%             | Central Mountain Range, Snow Mountain Range, Alishan Mountain Range |
+| **Hilly Terraces**  | 100-1,000 meters   | 40%             | Miaoli Hills, Zhudong Hills, Linkou Terrace                         |
+| **Alluvial Plains** | Below 100 meters   | 31%             | Chianan Plain, Pingtung Plain, Taipei Basin                         |
 
-### En Echelon Arrangement of Mountain Ranges
+### Sequential Arrangement of Mountain Ranges
 
-Taiwan’s mountain ranges display an “en echelon arrangement.” From north to south, they include:
+Taiwan's five major mountain ranges exhibit a "sequentially arranged" feature, from east to west in order:
 
-1. **Datun Mountain system**: a volcanic group, with Datun Mountain as its main peak at 1,092 meters
-2. **Xueshan Range**: Xueshan main peak, 3,886 meters, Taiwan’s second-highest peak
-3. **Central Mountain Range**: Taiwan’s backbone, including renowned Baiyue peaks such as Yushan (3,952 meters)
-4. **Alishan Range**: the main mountain system of the Alishan area
-5. **Coastal Mountain Range**: eastern Taiwan’s only longitudinal mountain range, with Dulan Mountain at 1,190 meters
+1. **Coastal Mountain Range**: The only north-south mountain range east of the East Rift Valley, with the highest peak being Xingang Mountain at 1,680 meters, and Dulan Mountain at 1,190 meters
+2. **Central Mountain Range**: Taiwan's backbone, with the highest peak being Sigunlun Mountain at 3,825 meters, and the most peaks above 3,000 meters
+3. **Snow Mountain Range**: Northern section, with the main peak of Snow Mountain at 3,886 meters, Taiwan's second-highest peak
+4. **Jade Mountain Range**: Main peak Jade Mountain at 3,952 meters, the highest peak in Taiwan and Northeast Asia
+5. **Alishan Mountain Range**: Westernmost, with the highest peak Daxa Mountain at 2,663 meters
 
-This arrangement reflects the directional nature of plate compression and also produces Taiwan’s terrain pattern of a steep east and gentler west.
+The Datun Volcano Group in the north (highest peak Qixing Mountain at 1,120 meters) is an independent volcanic landform and is not counted among the five major mountain ranges[^4].
+
+This arrangement reflects the directional nature of plate compression and also creates Taiwan's characteristic of steep eastern slopes and gentle western slopes.
 
 ## River Systems and Hydrological Features
 
-Taiwan’s rivers are short and swift because they are constrained by terrain; even the longest, the Zhuoshui River, is only 186 kilometers long. The Central Mountain Range is the watershed divide for eastern and western rivers, creating sharp differences between the two sides in river length, gradient, and hydrological characteristics.
+Taiwan's rivers are short and rapid due to topographical constraints, with the longest river, the Dajia River, measuring only 186.6 kilometers[^9]. The Central Mountain Range serves as the watershed between the eastern and western rivers, resulting in significant differences in length, gradient, and hydrological characteristics on both sides.
 
-### Short, Fast-Flowing Rivers
+### Characteristics of Short and Rapid Rivers
 
-Because Taiwan is a long, narrow island with mountain ranges running along its length, its rivers generally have the characteristic of being “short and fast-flowing”:
+Due to Taiwan's narrow and elongated island shape and the north-south orientation of its mountain ranges, rivers generally exhibit the characteristics of "short and rapid":
 
-**Lengths of major rivers**:
+**Main River Lengths**:
 
-- **Zhuoshui River**: 186.4 kilometers (the longest river)
-- **Gaoping River**: 170.9 kilometers
+- **Dajia River**: 186.6 kilometers (longest river)
+- **Gaoping River**: 171.0 kilometers
 - **Tamsui River**: 158.7 kilometers
-- **Dajia River**: 142.3 kilometers
+- **Zengwen River**: 138.5 kilometers
 
-**Hydrological features**:
+The Dajia River's main stream is 124.2 kilometers long, ranking after the Zengwen River[^9].
+
+**Hydrological Features**:
 
 - Rivers have steep gradients, with an average slope of 1/250
-- Wet and dry seasons differ sharply, and water levels rise rapidly during typhoons
-- Sediment loads are high, and alluvial fan landforms are well developed
-- Short river lengths limit watershed area
+- Great disparity between wet and dry seasons, with water levels rising dramatically during typhoon periods
+- High sediment load, with well-developed alluvial fan landforms
+- The short length of rivers limits the size of their watersheds
 
 ### Watershed Divide Effect
 
-The Central Mountain Range forms the main watershed divide between eastern and western Taiwan, resulting in:
+The Central Mountain Range forms the main watershed between eastern and western Taiwan, resulting in:
 
-- **Eastern rivers**: short and steep, flowing directly into the Pacific Ocean
-- **Western rivers**: relatively longer, flowing into the Taiwan Strait
-- **North-south rivers**: such as the Xiuguluan River in the Huatung Valley
+- **Eastern Rivers**: Short, steep, and directly flowing into the Pacific Ocean
+- **Western Rivers**: Relatively longer, flowing into the Taiwan Strait
+- **North-South Rivers**: Such as the Xigun River in the East Rift Valley
 
-## Coastal Landforms and the Marine Environment
+## Coastal Landforms and Marine Environment
 
-Taiwan is surrounded by the sea, with a total coastline of about 1,566 kilometers. Because the geological backgrounds of the east and west coasts differ, they display sharply contrasting landforms: the east coast is dominated by fault coasts and steep rocky shores, while the west coast is characterized by gentle sandy shores and broad intertidal zones.
+Taiwan is surrounded by the sea on all sides, with the mainland coastline approximately 1,200 kilometers long (varying by agency measurement, ranging from 1,139 to 1,340 kilometers), and including offshore islands totaling over 1,500 kilometers[^10]. Due to differences in geological background, the east and west coasts present distinctly different landform features: the east coast is dominated by fault coasts with steep cliffs, while the west coast is characterized by gentle sandy shores with wide tidal flats.
 
-### Contrast Between the East and West Coasts
+### Contrasts Between East and West Coasts
 
-Taiwan’s coastal landforms show clear east-west differences:
+Taiwan's coastal landforms show significant east-west differences:
 
-**East coast features**:
+**East Coast Features**:
 
-- Dominated by fault coasts, with steep rocky shores
-- Well-developed marine terraces, such as Shitiping in Hualien
-- Directly faces the deep waters of the Pacific Ocean
-- The seabed drops steeply, forming deep-sea ecosystems
+- Fault coasts dominate, with steep cliffs
+- Well-developed marine terraces (such as Hualien's Shihti Ping)
+- Directly facing the deep sea of the Pacific Ocean
+- Steep underwater topography, forming deep-sea ecosystems
 
-**West coast features**:
+**West Coast Features**:
 
-- Gentle sandy shores and broad intertidal zones
-- Estuarine wetlands and lagoon landforms, such as Qigu Lagoon
-- The Taiwan Strait forms a relatively shallow marine environment
+- Gentle sandy shores with wide tidal flats
+- River delta wetlands and tidal lakes (such as Qigu Tidal Lake)
+- Relatively shallow waters of the Taiwan Strait
 - Rich coastal aquaculture and wetland ecosystems
 
-### Geological Diversity of the Outlying Islands
+### Geological Diversity of Offshore Islands
 
-Taiwan’s outlying island groups display different geological features:
+Taiwan's offshore islands exhibit different geological characteristics:
 
-- **Penghu Islands**: basalt mesa landforms, with characteristics of volcanic islands
-- **Lanyu and Green Island**: andesite volcanic islands
-- **Xiaoliuqiu**: an uplifted coral reef island
-- **Kinmen and Matsu**: granitic geology, sharing origins with the mainland
+- **Penghu Archipelago**: Basalt tableland landforms, volcanic island characteristics
+- **Green Island, Orchid Island**: Andesite volcanic islands
+- **Xiao Liuqiu**: Coral reef uplift island
+- **Kinmen, Matsu**: Granite geology, sharing the same origin as the mainland
 
-## Interactions Between Climate and Terrain
+## Interaction of Climate and Terrain
 
-The tall Central Mountain Range runs lengthwise through Taiwan and blocks the northeast and southwest monsoons. This is the fundamental reason rainfall in eastern and western Taiwan can differ by a factor of three. The mountains not only determine rainfall but also create local climatic phenomena such as foehn winds and orographic clouds, with far-reaching effects on agriculture and ecology.
+The Central Mountain Range, towering and running north-south, blocks the East Asian monsoon and the South Asian monsoon, which is the fundamental reason for the threefold difference in rainfall between eastern and western Taiwan. The mountain range not only determines precipitation but also creates local climate phenomena such as foehn winds and orographic clouds, with profound impacts on agriculture and ecology.
 
-Taiwan’s average annual rainfall is about 2,515 millimeters, three times the global average. Yet because rainfall is concentrated by terrain, uneven water-resource distribution remains a long-term challenge.
+Taiwan's annual average rainfall is approximately 2,500 millimeters, 2.6 times the global average[^12], but due to the concentration of rainfall in certain areas, uneven distribution of water resources remains a long-term challenge.
 
-### Orographic Rainfall and Monsoons
+### Orographic Rain and Monsoons
 
-The interaction between the orientation of Taiwan’s mountains and monsoon directions creates complex rainfall patterns:
+The interaction between Taiwan's mountain range orientation and monsoon direction creates complex precipitation patterns:
 
-**Windward-side effects**:
+**Windward Side Effect**:
 
-- The summer southwest monsoon brings abundant rainfall to the southwestern mountain areas
-- The winter northeast monsoon causes frequent rain in northern and northeastern Taiwan
-- The blocking effect of the Central Mountain Range creates rainfall differences between eastern and western Taiwan
+- Summer South Asian monsoons bring abundant rainfall to the mountainous areas of southern and western Taiwan
+- Winter East Asian monsoons cause heavy rainfall in northern and northeastern Taiwan
+- The blocking effect of the Central Mountain Range creates a rainfall difference between eastern and western Taiwan
 
-**Foehn phenomenon**:
+**Foehn Phenomenon**:
 
-- Foehn winds develop after typhoons or monsoons cross the Central Mountain Range
-- Spring foehn temperatures in the Taitung area can exceed 40°C
-- These winds affect agricultural production and residents’ daily lives
+- Foehn winds are generated when typhoons or monsoons pass over the Central Mountain Range
+- The foehn winds in Taitung under the circulation of typhoons can reach temperatures approaching or even exceeding 40°C
+- This affects agricultural production and residents' daily lives
 
-## Geological Hazards and Environmental Challenges
+## Geological Disasters and Environmental Challenges
 
-Taiwan lies at the intersection of the circum-Pacific seismic belt and western Pacific typhoon tracks, making it one of the regions with the highest density of geological hazards in the world. More than 1,000 felt earthquakes occur each year. Together with landslides and debris flows triggered by typhoon rains, they form a compound natural-hazard threat.
+Taiwan is located at the intersection of the Pacific Ring of Fire and the Western Pacific typhoon path, making it one of the regions with the highest density of geological disasters in the world. There are over 1,000 perceptible earthquakes each year, and combined with landslides and debris flows triggered by typhoon rains, they form a complex type of natural disaster threat.
 
 ### Active Faults and Earthquakes
 
-Taiwan has 36 active faults, direct evidence that plate-driven orogeny is still underway. The 1999 Jiji earthquake, known as the 921 earthquake, was caused by movement along the Chelungpu Fault. Its maximum vertical displacement reached 8 meters, and it took more than 2,400 lives, making it the most severe earthquake disaster in modern Taiwan.
+The Ministry of Economic Affairs' Geological Survey and Mining Administration has announced 36 active faults, which are direct evidence that the plate orogenesis movement is still ongoing[^1]. The 921 earthquake in September 1999 was caused by the movement of the Chelungpu Fault, with vertical displacement of nearly 10 meters in the Shihkang Dam area, resulting in 2,415 deaths — the most significant earthquake disaster in modern Taiwan.
 
-Major fault zones include the Chelungpu Fault and the Chihshang Fault. The Chihshang Fault was reactivated during the 2022 Chishang earthquake, also known as the 918 earthquake, causing clear surface rupture in the Huatung Valley.
+Major fault zones include the Chelungpu Fault and the Chimei Fault. The earthquake on September 18, 2022, had a magnitude of 6.8, and its causative structure was a left-lateral fault with a north-northeast trend and a steep westward inclination, which was not among the announced 36 faults; geological surveys found surface ruptures and sand blows along the Chimei Fault and the Yuli Fault[^11].
 
 ### Landslides and Debris Flows
 
-Steep terrain and abundant rainfall make Taiwan a high-risk area for landslides. More than 60% of the island’s mountainous land has slopes exceeding 30%, and typhoon rains often trigger large-scale landslides. Management of geologically sensitive areas and debris-flow warning systems are core mechanisms for safeguarding Taiwan’s territory.
+The steep terrain and abundant rainfall make Taiwan a high-risk area for landslides. Mountains and hilly terraces together account for nearly 70% of the island, and heavy rains from typhoons often trigger large-scale landslides. The management of geological sensitive areas and the debris flow early warning system are the core mechanisms of Taiwan's land protection.
 
-## Effects of Geographic Features on Ecology
+## Impact of Geographical Features on Ecology
 
-The vertical compression of Taiwan’s terrain gives the island a complete ecological sequence from the tropics to cold alpine environments within a very small area. From coastal forests to alpine tundra, five ecological zones all appear within a horizontal distance of 150 kilometers. This density of compression has few equals among islands of comparable size worldwide.
+The vertical compression of Taiwan's terrain allows the island to possess a complete ecological sequence from tropical to polar zones within an extremely small area. From coastal forests to alpine tundra, five ecological belts appear within a 150-kilometer horizontal distance — a compression density that is rare among islands of similar size worldwide.
 
-Island isolation and terrain barriers jointly promote species differentiation. Taiwan’s endemic vascular plants account for as much as 27% of the total, while endemic animals such as the Formosan black bear, Mikado pheasant, and Taiwan salamanders maintain stable populations in mid- to high-elevation zones.
+Island isolation and terrain barriers jointly promote species differentiation. The proportion of endemic species of Taiwan's vascular plants reaches 27%, and endemic animals such as the Taiwan black bear, Mikado bird, and Taiwan salmon are preserved in stable populations in the middle and high mountains.
 
-### Elevation Gradients and Ecological Zones
+### Altitudinal Gradient and Ecological Belts
 
-Taiwan’s enormous elevation differences over short distances create compressed ecological zones: from coastal forest (0-500 meters), lowland broadleaf forest (500-1,500 meters), mid-elevation mixed forest (1,500-2,500 meters), subalpine coniferous forest (2,500-3,500 meters), to alpine tundra (above 3,500 meters).
+Taiwan's enormous altitudinal difference within a short distance creates compressed ecological belts: from coastal forests (0-500 meters), lowland broadleaf forests (500-1,500 meters), mid-altitude mixed forests (1,500-2,500 meters), subalpine coniferous forests (2,500-3,500 meters), to alpine tundra (above 3,500 meters).
 
-### Geographic Isolation and Endemic Species
+### Geographical Isolation and Endemic Species
 
-Mountain-range separation forms different biomes in eastern and western Taiwan, while elevation gradients create vertically distributed biodiversity. The Central Mountain Range is a natural boundary for the east-west distribution of many species, and the bird and plant compositions of its eastern and western slopes differ significantly.
+The division of mountain ranges creates different biotic communities in eastern and western Taiwan, and the altitudinal gradient creates vertical biodiversity. The Central Mountain Range is a natural boundary for the east-west distribution of many species, with significant differences in the composition of birds and plants on the eastern and western slopes.
 
-## Human-Geographic Influence
+## Influence on Human Geography
 
-Terrain is the underlying logic of Taiwan’s human geography. The western plains concentrate more than 70% of the national population, forming an urban axis from Taipei to Kaohsiung. Eastern mountain areas are sparsely populated, yet they preserve more Indigenous cultures and primary ecosystems.
+Terrain is the underlying logic of Taiwan's human geography. The western half hosts over 90% of the population (Hualien and Taitung counties combined account for less than 3% of the national total), forming an urban axis from Taipei to Kaohsiung; the mountainous areas in the east have sparse populations but retain more indigenous cultures and pristine ecology.
 
 ### Settlement Distribution Patterns
 
-Terrain conditions determine Taiwan’s population distribution: the western plains have the highest population density; settlements in the eastern longitudinal valley are arranged linearly along river terraces and alluvial fans; and Indigenous mountain townships are based on terraces and slopes adapted to the terrain.
+Terrain conditions determine the distribution of Taiwan's population: the western plains have the highest population density, settlements in the East Rift Valley are arranged linearly along river terraces and alluvial fans, and mountain villages rely on terrain-adapted terraces and slopes as settlement foundations.
 
-### Constraints on Transportation Development
+### Transportation Development Constraints
 
-The Central Mountain Range forms a transverse barrier that makes east-west transportation difficult, with only a few cross-island highways passing through it. Tunnel and bridge engineering has therefore become highly developed. The Xueshan Tunnel, 12.9 kilometers long and opened to traffic in 2006, is a representative project that overcame terrain constraints; the Gaoping Bridge is one of Taiwan’s longest highway bridges.
+The Central Mountain Range running east-west hinders east-west transportation, with only a few highways traversing it. Tunnel and bridge engineering has therefore developed highly: the Xueshan Tunnel, with a total length of 12.9 kilometers (opened in 2006), is a representative project that breaks through terrain limitations.
 
-## Future Prospects and Challenges
+## Future Outlook and Challenges
 
-Climate change and population concentration are further intensifying the vulnerability of Taiwan’s geographic environment. More extreme rainfall increases the risk of landslides and debris flows, sea-level rise threatens low-lying coasts, and rising temperatures are changing the distribution boundaries of alpine ecological zones.
+Climate change and population concentration have further intensified the vulnerability of Taiwan's geographical environment. Increased extreme rainfall raises the risk of landslides and debris flows, sea level rise threatens low-lying coastal areas, and rising temperatures are also changing the distribution boundaries of high-mountain ecosystems.
 
-### Climate Change Impacts
+### Impact of Climate Change
 
-Recent studies show that the maximum single-day rainfall brought by typhoons in Taiwan is trending upward, debris-flow events are increasing, and some mountain settlements face pressure to relocate. The distribution zones of alpine plants have measurably shifted upward, and the area of alpine tundra near Yushan is shrinking.
+Recent studies show that the maximum daily rainfall brought by typhoons in Taiwan has been increasing, debris flow events have increased, and some mountain settlements face relocation pressures. The distribution range of high-mountain plants has been measurably moving upward, and the area of alpine tundra near Mount Jade is shrinking.
 
-### Territorial Conservation Strategies
+### Land Conservation Strategies
 
-In 2015, Taiwan promulgated the Spatial Planning Act, designating conservation, agricultural, and urban-rural development zones according to terrain conditions and restricting development in geologically fragile areas. Management of geologically sensitive areas and the Coastal Zone Management Act respectively establish regulatory mechanisms for landslides, active faults, and coastal erosion.
+Taiwan promulgated the "Land Planning Act" in 2016 (passed in late 2015), designating conservation, agriculture, and urban development zones based on terrain conditions, restricting development in fragile geological areas. The geological sensitive area management and coastal management laws respectively establish control mechanisms for landslides, active faults, and coastal erosion.
 
 ## Conclusion
 
-Taiwan’s island geography is the product of the long-term intertwining of plate collision, climatic processes, and ecological evolution. From the macroscopic perspective of plate tectonics to the microscopic details of ecosystems, this island displays rich geological and ecological layers within a small area. Understanding Taiwan’s geographic features is not only the foundation for knowing the environment of one’s homeland, but also the starting point for the wisdom needed to coexist harmoniously with nature.
+Taiwan's island geographical features are the result of long-term interaction between plate collision, climatic action, and ecological evolution. From the macro perspective of plate movement to the micro details of ecosystems, this island demonstrates rich geological and ecological layers within a small area. Understanding Taiwan's geographical features is not only the foundation for recognizing the local environment but also the starting point for wisdom in harmoniously coexisting with nature.
 
-Facing the dual pressures of climate change and human development, how to make good use of geographic knowledge for sustainable territorial planning will be a key issue in Taiwan’s future development.
+Under the dual pressures of climate change and human development, how to make good use of geographical knowledge for sustainable land planning will be a key issue for Taiwan's future development.
 
 ## References
 
-[^1]: Geological Survey and Mining Management Agency, Ministry of Economic Affairs (2023), [_Introduction to Taiwan Geology_](https://www.gsmma.gov.tw/).
+[^1]: [《Taiwan Geology Overview》](https://www.gsmma.gov.tw/) — Ministry of Economic Affairs, Geological Survey and Mining Administration (2023).
 
-[^2]: Central Weather Administration (2024), [_Taiwan Climate Statistics_](https://www.cwa.gov.tw/).
+[^2]: [《Taiwan Climate Statistics》](https://www.cwa.gov.tw/) — Central Weather Administration (2024).
 
-[^3]: National Land Surveying and Mapping Center, Ministry of the Interior (2024), [_Annual Report on National Land Surveying Statistics_](https://www.nlsc.gov.tw/).
+[^3]: [《National Land Surveying Statistical Yearbook》](https://www.nlsc.gov.tw/) — Ministry of the Interior, National Land Surveying and Mapping Center (2024).
 
-[^4]: Wikipedia (2025), [“Geography of Taiwan”](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+[^4]: [〈Taiwan Geography〉](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86) — Wikipedia (2025).
 
-[^5]: Wikipedia (2022), [“Geology of Taiwan”](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+[^5]: [〈Taiwan Geology〉](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA) — Wikipedia (2022).
 
-[^6]: Taiwan Landscape Conservation Network, Forestry and Nature Conservation Agency, Ministry of Agriculture, [“Composition and Features of Island Landscapes”](https://landscape.forest.gov.tw/).
+[^6]: [〈Composition and Characteristics of Island Landscapes〉](https://landscape.forest.gov.tw/) — Ministry of Agriculture, Forestry and National Park Service, Taiwan Scenic Conservation Network.
 
-[^7]: 3people.com.tw (2025), [“Encyclopedia of Taiwan Geography”](https://www.3people.com.tw/).
+[^7]: [〈Taiwan Geographical Encyclopedia〉](https://www.3people.com.tw/) — Sanmin Supplementary Junior High School (2025).
+
+[^8]: [〈Taiwan's Five Major Landforms〉](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — Taipei City Teaching Resource Center
+
+[^9]: [〈Basic Data of Cross-Provincial and Municipal Rivers〉](https://www.wra.gov.tw/cp.aspx?n=3164) — Ministry of Economic Affairs, Water Resources Agency
+
+[^10]: [〈Detailed Introduction to Taiwan's Coastline〉](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — Ministry of Economic Affairs, Water Resources Agency
+
+[^11]: [〈20220917 Hualien Earthquake, 0918 Chimei Earthquake Geological Survey Report〉](https://fault.gsmma.gov.tw/Reports/More/63cc5a4b2020403d9f79d3c33a7aba0c) — Ministry of Economic Affairs, Geological Survey and Mining Administration
+
+[^12]: [〈The Persistent Nightmare of Drought: Why Does Rain-Rich Taiwan Still Face Drought Dilemmas?〉](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — Central Weather Administration Climate Encyclopedia

@@ -1,267 +1,286 @@
 ---
-title: "Taiwan's Five Major Landforms and Geographic Structure: An Island Landscape from Mountains to Plains"
-description: "Explore Taiwan's distinctive geographic structure, from the Central Mountain Range to the western plains, and understand the island's diverse landforms"
+title: "Taiwan's Five Landforms and Geographic Structures: From Mountain Ranges to Plains"
+description: "Explore Taiwan's unique geographic structure, from the Central Mountain Range to the western plains, and understand the island's diverse landforms"
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Geography"
-subcategory: "地形與地質"
-tags: ["Geography", "Landforms", "Mountain Ranges", "Plains", "Taiwan", "Physical Geography"]
-readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
+category: 'Geography'
+tags:
+  [
+    'geography',
+    'landforms',
+    'mountain ranges',
+    'plains',
+    'Taiwan',
+    'physical geography',
+  ]
+subcategory: '地形與地質'
+author: 'Taiwan.md'
 featured: true
-translatedFrom: "Geography/台灣五大地形與地理結構.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:b14a14cb2829b8df"
-sourceBodyHash: "sha256:0d43b9a8dba0aa39"
-translatedAt: "2026-05-20T05:08:27+08:00"
+lastVerified: 2026-09-20
+lastHumanReview: false
+readingTime: 12
+translatedFrom: 'Geography/台灣五大地形與地理結構.md'
+sourceCommitSha: '14fb95e71'
+sourceContentHash: 'sha256:51364b574313e11f'
+sourceBodyHash: 'sha256:aa95a7b2cb0e4dcb'
+translatedAt: '2026-09-21T00:58:23+08:00'
 ---
 
-# Taiwan's Five Major Landforms and Geographic Structure: An Island Landscape from Mountains to Plains
+# Taiwan's Five Landforms and Geographic Structures: From Mountain Ranges to Plains
 
 ## 30-Second Overview
 
-Taiwan is a long, narrow island running north to south, with complex terrain composed of **five major landforms**: mountains, hills, tablelands, basins, and plains. Its **five major mountain ranges** (the Central Mountain Range, Xueshan Range, Yushan Range, Alishan Range, and Coastal Mountain Range) run longitudinally from north to south, while its **five major plains** (the Chianan Plain, Changhua Plain, Pingtung Plain, Yilan Plain, and East Rift Valley Plain) nurtured Taiwan's agricultural civilization. This asymmetrical structure of "mountains toward the east, plains toward the west" has produced Taiwan's distinctive natural landscapes and patterns of human settlement.
+Taiwan is a north-south elongated island with complex terrain, composed of **five major landforms**: mountains, hills, terraces, basins, and plains. The **five major mountain ranges** (Central Mountain Range, Snow Mountain Range, Jade Mountain Range, Alishan Range, and Coastal Range) run north to south, while the **five major plains** (Chianan, Changhua, Pingtung, Yilan, and Hualien-Taitung Rift Valley) nurture Taiwan's agricultural civilization. This "mountains lean east, plains lean west" asymmetric structure creates Taiwan's unique natural landscapes and human settlements.
 
-From sea level to the summit of Yushan at 3,952 meters, Taiwan spans tropical, subtropical, temperate, and cold-temperate ecological zones within a horizontal distance of less than 150 kilometers. This kind of vertical compression is almost unparalleled among islands of comparable size worldwide.
+From sea level to the 3,952-meter peak of Jade Mountain, Taiwan spans tropical, subtropical, temperate, and cold zones within less than 150 kilometers of horizontal distance — a vertical compression nearly unparalleled among islands of similar size worldwide.
 
-Of the island's total area of 35,808 square kilometers, mountains account for 29% and hills and tablelands for 40%. Usable plains make up less than one-third of the land, yet support a population of more than 23 million.
+Of the entire island's 35,808 square kilometers, mountains account for 29%, hills and terraces 40%, and available plains less than one-third[^1], yet it supports over 23 million people.
 
-Keywords: Central Mountain Range, Chianan Plain, plate compression, river alluviation, geographic diversity
+Keywords: Central Mountain Range, Chianan Plain, tectonic compression, river alluvium, geographic diversity
 
 ## Why It Matters
 
-Taiwan covers only 36,000 square kilometers, yet its vertical relief extends nearly 4,000 meters, from Yushan at 3,952 meters to the western plains at sea level. This geographic structure has shaped Taiwan's agriculture, population distribution, climate, and ecological patterns.
+Taiwan covers only 36,000 square kilometers, yet from the 3,952-meter Jade Mountain to the western plains at sea level, the vertical elevation difference approaches 4,000 meters. This geographic structure shapes Taiwan's agriculture, population distribution, climate, and ecological patterns.
 
-Eighty-five percent of the population is concentrated on the western plains, making them the island's political and economic center. The Central Mountain Range blocks the northeast monsoon, producing starkly different rainfall patterns between eastern and western Taiwan. Vertical ecological zones extending from the subtropics to the cold-temperate zone place Taiwan among the most biodiverse islands of similar size in the world.
+Over 90% of the population lives in the western half, forming the political and economic center; the Central Mountain Range blocks the northeastern monsoon, creating distinctly different rainfall patterns between east and west; and the vertical ecological zones from subtropical to cold temperate make Taiwan's biodiversity stand out among islands of comparable size.
 
-To understand Taiwan's landforms is to understand how this island, within such a small territory, has fostered such sharply differentiated natural and human landscapes.
+Understanding Taiwan's landforms is understanding how this island can nurture such vastly different natural and human landscapes within such a small territory.
 
-## The Five Major Mountain Ranges: Taiwan's Backbone
+## Five Mountain Ranges: Taiwan's Backbone
 
-Taiwan's five main mountain ranges run north-south, forming a "backbone" structure that is the fundamental cause of the island's terrain asymmetry: steep in the east and gentler in the west. The Central Mountain Range extends 340 kilometers and averages more than 2,000 meters in elevation, making it the island's geographic axis. The main peak of the Yushan Range, at 3,952 meters, is the highest peak in Northeast Asia. The main peak of the Xueshan Range, at 3,886 meters, is Taiwan's second-highest mountain.
+Taiwan's five major mountain ranges run north to south, forming a "spine" structure — the fundamental reason for Taiwan's geographic asymmetry (steep east, gentle west). The Central Mountain Range stretches about 340 kilometers with an average elevation above 2,000 meters, serving as the island's geographic axis; the Jade Mountain Range's main peak at 3,952 meters is the highest in East Asia[^5]; the Snow Mountain Range's main peak at 3,886 meters is Taiwan's second highest[^2].
 
 ### Central Mountain Range: The Island's Backbone
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Extends 340 kilometers, running through Taiwan from north to south
-- Average elevation exceeds 2,000 meters
-- Contains Taiwan's largest number of peaks above 3,000 meters
-- Forms the watershed between the Pacific Ocean and the Taiwan Strait
+- 340 kilometers long, running north to south through Taiwan
+- Average elevation over 2,000 meters
+- Home to the most 3,000-meter peaks in Taiwan
+- Watershed between the Pacific Ocean and Taiwan Strait
 
 **Geological Background:**
-The Central Mountain Range is the product of collision and compression between the Eurasian Plate and the Philippine Sea Plate, and is composed mainly of metamorphic rock. This range is not only Taiwan's geographic backbone, but also a boundary between ecological and cultural regions.
+The Central Mountain Range is the product of collision and compression between the Eurasian Plate and the Philippine Sea Plate, primarily composed of metamorphic rocks. This mountain range is not only Taiwan's geographic backbone but also a boundary for ecology and culture.
 
-**Major Peaks:**
+**Notable Peaks:**
 
-- Xiuguluan Mountain (3,860 meters): the highest peak in the Central Mountain Range
-- Nanhu Dashan (3,742 meters)
+- Xueshanli Mountain (3,825 m): Highest peak of the Central Mountain Range, third highest in Taiwan. When the 100 Peaks Club was established in 1972, the surveyed elevation was 3,860 meters; after joint surveying in the late 1970s, 3,825 meters became standard in mountaineering circles, with the latest map from the National Land Surveying and Mapping Center showing 3,829 meters[^7]
+- Nanhu Mountain (3,742 m)
 
-### Xueshan Range: Northern Taiwan's Barrier
+### Snow Mountain Range: Northern Taiwan's Barrier
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Located in northern Taiwan, about 180 kilometers long
-- Composed mainly of slate and shale
-- The main peak of Xueshan reaches 3,886 meters, making it Taiwan's second-highest peak
+- Located in northern Taiwan, approximately 260 kilometers long and 28 kilometers wide[^2]
+- Primarily composed of shale, sandstone, and slate
+- Snow Mountain Main Peak at 3,886 meters, Taiwan's second highest
 
 **Ecological Significance:**
-The Xueshan Range contains one of Taiwan's best-preserved high-mountain ecosystems. Landmarks such as Xueshan's Black Forest, Cui Pond, and 369 Lodge are pilgrimage sites for mountaineers. Rare animals such as the Formosan sambar deer and Mikado pheasant inhabit the area.
+The Snow Mountain Range preserves Taiwan's best alpine ecosystem. Snow Mountain Forest, Cuichi, and 369 Mountain Villa are pilgrimage sites for hikers. The Taiwan serow and Mikado duck inhabit this area.
 
-### Yushan Range: Northeast Asia's Highest Peak
+### Jade Mountain Range: Highest Peak in East Asia
 
-**Location and Characteristics:**
+**Location and Features:**
 
 - Located in central-southern Taiwan
-- Its main peak, Yushan, reaches 3,952 meters and is the highest peak in Northeast Asia
+- Main peak Jade Mountain at 3,952 meters, highest in East Asia
 - Composed of schist and slate
 
 **Cultural Significance:**
-Yushan, called Pattonkan by the Tsou people, who hold that their ancestors once lived atop the mountain, is a sacred mountain for Indigenous peoples and a spiritual landmark of Taiwan. After Japanese rule began in 1895, it was named "Niitakayama" ("New High Mountain"). After the war in 1945, it was officially named "Yushan."
+Jade Mountain is a sacred mountain for indigenous peoples and a spiritual landmark of Taiwan. The Tsou people call it Patungkuonʉ (the shining mountain, Chinese transliteration "Batuqshan"), while the Bunun legend tells of ancestors taking refuge on Jade Mountain during a great flood, with souls returning to the mountain after death. In 1897, the Meiji Emperor named it "Shinkozan"; in 1947, the Taiwan Provincial Government ordered it renamed back to "Yushan"[^8].
 
 ### Alishan Range: Home of the Forest Railway
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Located in central-southern Taiwan, at elevations of 1,000-2,000 meters
-- Composed mainly of sandstone and shale
-- Known for its sunrise views, sea of clouds, and forest railway
+- Located in central-southern Taiwan, average elevation around 2,000 meters, highest peak Daxueshan at 2,663 meters
+- Primarily composed of sandstone and shale
+- Famous for sunrise, sea of clouds, and forest railways
 
 **Human Landscape:**
-From the logging industry that began under Japanese rule in 1910 to the post-1990s transition toward ecotourism, Alishan has witnessed Taiwan's changing ideas about the use of natural resources.
+From the opening of the Alishan Forest Railway in 1912 and the logging industry during the Japanese colonial period, to the transformation into eco-tourism in the 1990s, Alishan witnessed the evolution of Taiwan's approach to natural resource utilization.
 
-### Coastal Mountain Range: A Young Mountain Range
+### Coastal Range: The Youngest Mountain Range
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Located in eastern Taiwan, about 150 kilometers long
-- Elevation ranges from 600 to 1,600 meters
-- Taiwan's youngest mountain range, at about 5 million years old
+- Located in eastern Taiwan, approximately 150 to 175 kilometers long, averaging 10 kilometers wide east to west
+- Elevations mostly between 600 to 1,600 meters, highest peak Xingang Mountain at 1,680 meters[^2]
+- The youngest mountain range in Taiwan
 
 **Geological Features:**
-The Coastal Mountain Range was formed by compression from the Philippine Sea Plate and is composed mainly of volcanic and sedimentary rocks. Hot spring clusters such as Zhiben Hot Spring and Antong Hot Spring are distributed here.
+The Coastal Range is the result of the Luzon Arc on the Philippine Sea Plate colliding with Eurasia. Its geology is dominated by andesitic volcanic breccia, similar to Green Island and Orchid Island[^2]. The Anchong Hot Springs lie on the western side of the Coastal Range; the commonly mentioned Qibin Hot Springs are located in the slate area of the Central Mountain Range and do not belong to the Coastal Range.
 
-## The Five Major Plains: Cradles of Agricultural Civilization
+## Five Plains: Cradle of Agricultural Civilization
 
 ### Chianan Plain: Taiwan's Largest Plain
 
-**Scale and Extent:**
+**Size and Scope:**
 
-- About 4,550 square kilometers in area, making it Taiwan's largest plain
-- Covers counties and cities including Yunlin, Chiayi, Tainan, and Kaohsiung
-- 71 kilometers wide from east to west and 110 kilometers long from north to south
+- Approximately 4,550 square kilometers, Taiwan's largest plain[^3]
+- Encompassing Changhua, Yunlin, Chiayi, Tainan, and Kaohsiung
+- About 71 kilometers wide east to west, 110 kilometers long north to south
 
 **Formation Process:**
-The plain was formed by alluvial deposits from multiple rivers, including the Zhuoshui River, Beigang River, Bazhang River, Jishui River, Zengwen River, Yanshui River, and Erren River. These rivers carried large quantities of sediment, which accumulated over tens of thousands of years to form a fertile alluvial plain.
+Formed by alluvial deposits from the Dajia River, Beigao River, Bajhang River, Jishui River, Zengwen River, Yanshui River, and Erren River. These rivers carried vast amounts of sediment, accumulating over tens of thousands of years to form fertile alluvial plains.
 
 **Agricultural Value:**
 
-- Taiwan's largest rice-producing area, supplying 30% of the island's rice
-- A major production area for commercial crops such as sugarcane, peanuts, and sweet potatoes
-- The construction of the Chianan Irrigation System in the 1920s turned this land into "Taiwan's granary"
+- Taiwan's most important agricultural and rice-producing area, hence known as the "granary"[^3]
+- Sugarcane, peanuts, and sweet potatoes are major cash crops
+- In the 1920s, the construction of the Chianan Dazhu turned this land into "Taiwan's grain store"
 
-### Changhua Plain: A Gift from the Zhuoshui River
+### Changhua Plain: The Gift of the Dajia River
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Formed mainly by sediments from the Zhuoshui River
+- Primarily formed by Dajia River alluvium
 - Fertile soil with high organic matter content
-- A major supply area for vegetables and fruit in northern Taiwan
+- One of Taiwan's major vegetable and flower supply areas
 
-**Agricultural Features:**
-The Changhua Plain is known for high-value intensive agriculture, with a particularly developed flower industry. Grapes from Erlin Township, Kyoho grapes from Dacun Township, and flowers from Tianwei Township are all brands of Taiwanese agriculture.
+**Agricultural Characteristics:**
+The Changhua Plain is known for its refined agriculture. The flower industry is particularly developed. Grapes in Yulin Town, Jufeng grapes in Dacun Township, and flowers in Tianwei Township are all brands of Taiwan's agriculture.
 
-### Pingtung Plain: Tropical Character in the South
+### Pingtung Plain: Tropical Flavor in the South
 
-**Location and Characteristics:**
+**Location and Features:**
 
 - Located in southern Taiwan
-- Formed by alluvial deposits from rivers including the Gaoping River, Qishan River, Laonong River, Ailiao River, and Linbian River
-- Has the lowest latitude and the longest growing season
+- Formed by alluvial deposits from the Gaoping River, Qishan River, Laonong River, Ailio River, and Linbei River
+- Lowest latitude with the longest growing season
 
 **Agricultural Advantages:**
 
-- A warm year-round climate suitable for tropical crops
-- A major production area for tropical fruits such as mangoes, wax apples, and jujubes
-- A well-developed aquaculture industry
+- Warm year-round climate suitable for tropical crops
+- Mango, lychee, and jujube are major tropical fruit producing areas
+- Aquaculture industry is well-developed
 
-### Yilan Plain: A Green Land of Abundant Rain
+### Yilan Plain: Rain-Rich Green Land
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Located between the Xueshan Range and the Central Mountain Range
-- Surrounded by mountains on three sides and facing the sea on one side
-- Rich annual rainfall, earning it the name "Taiwan's Venice"
+- Located between the Snow Mountain Range and Central Mountain Range
+- Surrounded by mountains on three sides, facing the sea on one
+- Abundant rainfall, one of the rainiest plains in Taiwan
 
-**Agricultural Features:**
+**Agricultural Characteristics:**
 
-- A production area for high-quality rice
-- Known across Taiwan for Sanxing scallions and Jiaoxi hot spring rice
-- A pioneer in the development of organic agriculture
+- High-quality rice producing area
+- Scallions and jujubes famous throughout Taiwan
+- Pioneer in organic agriculture development
 
-### East Rift Valley Plain: A Hidden Landscape of the Houshan
+### Hualien-Taitung Rift Valley Plain: Hidden Mountain Valley
 
-**Location and Characteristics:**
+**Location and Features:**
 
-- Located between the Central Mountain Range and the Coastal Mountain Range
-- A long, narrow plain about 180 kilometers in length
+- Located between the Central Mountain Range and Coastal Range
+- Long and narrow plain, approximately 180 kilometers long
 
 **Agriculture and Ecology:**
 
-- An important base for organic agriculture
-- Well-preserved Indigenous agricultural culture
-- Specialty agricultural products such as daylilies and sugar apples
+- Important base for organic agriculture
+- Indigenous agricultural culture well-preserved
+- Golden needle flowers and java plum specialties
 
 ## Other Important Landforms
 
-In addition to mountains and plains, Taiwan also has tablelands and basins. Tablelands are flat uplands cut by erosion, providing hinterlands for urban expansion. Basins are low-lying landforms created by crustal movement; the Taipei, Taichung, and Puli basins are all population, political, and economic centers in Taiwan.
+In addition to mountains and plains, Taiwan also has terraces and basins. Terraces are flat highlands cut by erosion, providing land for urban expansion; basins are low-lying areas formed by crustal movement, with Taipei, Taichung, and Puli being major population and economic centers.
 
-### Tableland Landforms
+### Terrace Landforms
 
-**Characteristics and Distribution:**
+**Features and Distribution:**
 
-- Linkou Tableland, Taoyuan Tableland, Dadu Tableland, and Bagua Tableland
-- Flat uplands formed by river erosion and dissection
-- Well-drained and suitable for urban development
+- Linkou Terrace, Taoyuan Terrace, Dadu Terrace, Bagu Terrace
+- Flat highlands formed by river erosion
+- Good drainage, suitable for urban development
 
 **Human Significance:**
-Tableland terrain has provided important space for Taiwan's urban development. Taoyuan International Airport is built on the Taoyuan Tableland, while Linkou New Town makes use of the flat terrain of the Linkou Tableland.
+Terrace landforms provide important space for Taiwan's urban development. Taoyuan International Airport was built on the Taoyuan Terrace, and the new town of Linkou utilizes the flat terrain of the Linkou Terrace.
 
 ### Basin Landforms
 
 **Major Basins:**
 
-- **Taipei Basin**: About 243 square kilometers in area; after 1949, it became Taiwan's political and economic center
-- **Taichung Basin**: The development core of central Taiwan
-- **Puli Basin**: The center of Nantou County, known as Taiwan's "geographic center"
+- **Taipei Basin**: Approximately 243 square kilometers, became Taiwan's political and economic center after 1949
+- **Taichung Basin**: Core of development in central Taiwan
+- **Puli Basin**: Center of Nantou County, known as "Taiwan's geographic center"
 
 **Formation and Characteristics:**
-Most of Taiwan's basins are structural basins formed by crustal movement. With flat terrain and fertile soil, basin interiors became important areas for population concentration and urban development.
+Most of Taiwan's basins are structural basins formed by crustal movement. The terrain within basins is flat with fertile soil, making them important areas for population concentration and urban development.
 
-## The Impact of Landforms on Taiwan's Development
+## Impact of Landforms on Taiwan's Development
 
-Landforms are the underlying logic of all human geography in Taiwan: population distribution, the agricultural map, climate zones, and ecological belts are all directly determined by the spatial arrangement of mountains and plains. The western plains are the stage of Taiwan's economy, while the eastern mountains are a protective barrier for ecology and culture.
+Landforms are the underlying logic of all human patterns in Taiwan: population distribution, agricultural territory, climate zones, and ecological boundaries are all directly determined by the spatial arrangement of mountains and plains. The western plains are the stage for Taiwan's economy, while the eastern mountains are the protective barrier for ecology and culture.
 
 ### Determinants of Population Distribution
 
-**The Densely Populated Western Belt:**
-About 85% of Taiwan's population is concentrated on the western plains, forming a "western urban axis" from Taipei to Kaohsiung. This distribution pattern directly reflects the profound influence of terrain on human activity.
+**Western Population Density Belt:**
+Over 90% of Taiwan's population lives in the western half (Hualien and Taitung counties combined account for less than 3% of the national total), forming a "western urban axis" from Taipei to Kaohsiung. This distribution pattern directly reflects the profound influence of landforms on human activity.
 
-**Sparse Population in the East:**
-Although eastern Taiwan is scenic, it has many mountains and few plains, as well as relatively inconvenient transportation. Its population density is therefore lower, but this has also helped preserve more primary ecosystems and Indigenous cultures.
+**Eastern Population Sparseness:**
+Although the east is scenic, it has more mountains and fewer plains, plus inconvenient transportation, resulting in relatively low population density. However, this has also preserved more original ecology and indigenous culture.
 
-### The Basis of Agricultural Development
+### Foundation of Agricultural Development
 
-**Intensive Agriculture vs. Extensive Agriculture:**
+**Intensive vs Extensive Agriculture:**
 
-The western plains practice intensive agriculture, with high-value crops such as flowers, vegetables, and fruits as mainstays. The clean water of eastern mountain areas has made them key regions for organic agriculture. Offshore islands, meanwhile, combine distinctive agriculture and fisheries with tourism to develop differentiated industrial models.
+The western plains engage in intensive agriculture, with high-value crops such as flowers, fruits, and vegetables as mainstays; the mountainous areas in the east have clean water quality, becoming a hub for organic agriculture development; and the outlying islands focus on characteristic agriculture and fisheries combined with tourism, developing a differentiated industrial model.
 
 ### Climate Regulation
 
-**The Blocking Effect on Monsoons:**
-The Central Mountain Range blocks the northeast and southwest monsoons, causing:
+**Monsoon Blocking Effect:**
+The Central Mountain Range blocks the northeastern and southwestern monsoons, resulting in:
 
-- Northeast: a long rainy season, with annual rainfall above 3,000 millimeters
-- Southwest: distinct wet and dry seasons, with annual rainfall around 1,500 millimeters
-- East: located along typhoon tracks, with concentrated rainfall
+- Northeast: Long rainy season, annual rainfall over 3,000 millimeters
+- Southwest: Distinct dry and wet seasons, annual rainfall around 1,500 millimeters
+- East: Typhoon paths, concentrated rainfall
 
-### A Protective Barrier for Ecological Diversity
+### Protection of Ecological Diversity
 
-**Vertical Ecosystems:**
-From sea level to Yushan at 3,952 meters, Taiwan has complete ecosystems ranging from tropical to cold-temperate zones. This vertical distribution of ecological diversity is extremely rare on such a small island.
+**Vertical Ecosystem:**
+From sea level to 3,952 meters at Jade Mountain, Taiwan possesses a complete ecosystem from tropical to cold temperate. This vertical distribution of biodiversity is extremely rare on such a small island.
 
-**Biogeographic Boundary:**
-The Central Mountain Range forms a natural boundary for the distribution of many organisms. Because of geographic isolation, eastern and western Taiwan have evolved different endemic species.
+**Biogeographic Boundaries:**
+The Central Mountain Range serves as a natural boundary for many species distributions, with the east and west evolving different endemic species due to geographic isolation.
 
-## Challenges and Opportunities of Taiwan's Geographic Structure
+## Challenges and Opportunities of Geographic Structure
 
-### Vulnerability to Natural Hazards
+### Vulnerability to Natural Disasters
 
-Taiwan is located on the Circum-Pacific seismic belt. Plate activity caused the 1999 Jiji earthquake, also known as the 921 earthquake, with a magnitude of 7.3. It claimed more than 2,400 lives, making it Taiwan's most severe modern earthquake disaster, and directly prompted a comprehensive revision of building seismic-resistance regulations.
+Taiwan sits on the Pacific Ring of Fire, and tectonic activity caused the 1999 Jiji earthquake (Richter scale 7.3) that claimed over 2,400 lives[^9], the most severe earthquake disaster in Taiwan's modern history, also directly prompting a comprehensive revision of building seismic resistance regulations.
 
-Steep mountain terrain makes typhoon downpours likely to trigger debris flows. Short, steep rivers cause floods to rise rapidly. Climate change is further increasing the frequency and intensity of extreme weather.
+Steep mountains make typhoon rainstorms prone to landslides, and short rivers lead to rapid flood surges, with climate change further intensifying the frequency and strength of extreme weather events.
 
 ### Development Opportunities
 
-Terrain diversity also brings substantial development opportunities. Landscape variation from coast to high mountains creates tourism resources; different elevations are suitable for different crops, diversifying Taiwan's agriculture; and the Central Mountain Range's wind and hydropower resources, together with geothermal potential, are part of Taiwan's natural endowment for renewable energy.
+Geographic diversity also brings abundant development opportunities: landscape differences from coast to mountains create tourism resources; different altitudes suit different crops, making Taiwan's agriculture diversified; the wind and water power of the Central Mountain Range, along with geothermal potential, are natural endowments for renewable energy.
 
 **International Strategic Position:**
-Taiwan sits at a key maritime transportation point in East Asia. Its geographic position carries major strategic value, and its mountain terrain also provides a natural defensive barrier.
+Taiwan is located at the maritime transportation hub of East Asia, with important strategic value. The mountainous terrain also provides natural defensive barriers.
 
-## Conclusion: A Classic Case in Island Geography
+## Conclusion: A Model of Island Geography
 
-Taiwan's landform structure is the product of the long-term interaction of plate movement, climatic processes, and human activity. The Central Mountain Range, Chianan Plain, Coastal Mountain Range, and ancient metamorphic rock layers: together, these geographic elements have shaped Taiwan's natural appearance while also constraining and forming the lifestyles, cultural development, and economic activities of its people.
+Taiwan's landform structure is the result of long-term interaction between plate tectonics, climate action, and human activity. The Central Mountain Range, Chianan Plain, Coastal Range, and ancient metamorphic rock layers — these geographic elements together shape Taiwan's natural landscape, while also constraining and shaping the lifestyle, cultural development, and economic activities of the island's inhabitants.
 
-To understand Taiwan's landforms is to understand how this island, within limited territory, has developed sharply differentiated natural and human landscapes. From the perspective of human geography, Taiwan is one of the most extreme cases of landform differentiation among small islands.
+Understanding Taiwan's landforms is understanding how this island can develop such significantly different natural and human landscapes within a limited territory. From the perspective of human geography, Taiwan is one of the most extreme cases of landform variation in small islands.
 
-This geographic structure is both a constraint on Taiwan's development and a source of its distinctiveness. How to find development opportunities within topographic limits, and how to build resilience amid the threat of natural disasters, remain continuing challenges for Taiwan.
+This geographic structure is both a constraint on Taiwan's development and the source of Taiwan's uniqueness. How to find development opportunities within landform constraints and build resilience against natural disasters are issues Taiwan continues to face.
 
 ## References
 
-[^1]: Geological Survey and Mining Management Agency, Ministry of Economic Affairs, [*Introduction to the Geology of Taiwan*](https://www.gsmma.gov.tw/).
-[^2]: Wikipedia, ["List of Mountains in Taiwan"](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B1%B1%E8%84%88%E5%88%97%E8%A1%A8).
-[^3]: Wikipedia, ["Chianan Plain"](https://zh.wikipedia.org/zh-tw/%E5%98%89%E5%8D%97%E5%B9%B3%E5%8E%9F).
-[^4]: Department of Geosciences, National Taiwan University, [*Geological Guide to the Coastal Mountain Range*](http://www.gl.ntu.edu.tw/).
-[^5]: Yushan National Park Headquarters, [Frequently Asked Questions on Yushan's Elevation](https://www.ysnp.gov.tw/FAQ/C007000).
-[^6]: Hanlin Cloud Academy, [*Geographic Materials on Taiwan's Plains*](https://www.ehanlin.com.tw/).
+[^1]: [《Taiwan Geological Overview》](https://www.gsmma.gov.tw/) — Ministry of Economic Affairs, Geological Survey and Mining Management Center; Landform proportions also see Taipei City Teaching Resource Center, [〈Taiwan's Five Landforms〉](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm): Plains and basins 31%, hills and terraces 40%, mountains 29%.
+
+[^2]: [〈List of Taiwan Mountain Ranges〉](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B1%B1%E8%84%88%E5%88%97%E8%A1%A8) — Wikipedia; Individual range entries: [〈Snow Mountain Range〉](https://zh.wikipedia.org/zh-tw/雪山山脈) (approximately 260 kilometers long, 28 kilometers wide, shale, sandstone, and slate)、[〈Coastal Range〉](https://zh.wikipedia.org/zh-tw/海岸山脈) (approximately 175 kilometers long, highest peak Xingang Mountain 1,680 meters, andesitic volcanic breccia).
+
+[^3]: [〈Chianan Plain〉](https://zh.wikipedia.org/zh-tw/%E5%98%89%E5%8D%97%E5%B9%B3%E5%8E%9F) — Wikipedia.
+
+[^4]: [《Coastal Range Geological Guide》](http://www.gl.ntu.edu.tw/) — Department of Geological Sciences, National Taiwan University.
+
+[^5]: [Jade Mountain Height FAQ](https://www.ysnp.gov.tw/FAQ/C007000) — Jade Mountain National Park Administration.
+
+[^6]: [《Taiwan Plain Geographic Data》](https://www.ehanlin.com.tw/) — Hanshin Cloud College.
+
+[^7]: [〈Xueshanli Mountain〉](https://zh.wikipedia.org/zh-tw/秀姑巒山) — Wikipedia（維基百科條目）
+
+[^8]: [〈Yushan〉](https://zh.wikipedia.org/zh-tw/玉山) — Wikipedia（維基百科條目）
+
+[^9]: [〈921 Earthquake〉](https://zh.wikipedia.org/zh-tw/921大地震) — Wikipedia（維基百科條目）

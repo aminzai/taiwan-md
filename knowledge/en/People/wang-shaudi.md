@@ -1,19 +1,28 @@
 ---
-title: "Wang Shaudi: The Boys Over Flowers and Taiwan Television's Gentle Revolution"
-description: "General's son turned rebel, rebel turned godmother of Taiwanese television — Wang Shaudi spent forty years proving that making television can be a social movement"
+title: "Wang Xiao-di: The Sexagenarian Boy and Taiwan Television's Gentle Revolution"
+description: "From a general's son to a rebellious youth, from a rebellious youth to the godmother of Taiwanese TV dramas — Wang Xiao-di spent forty years proving that making television can be a social movement."
 date: 2026-03-28
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Director',
+    'Television',
+    'Film',
+    'Qseries',
+    'PTS',
+    'Golden Bell Awards',
+    'LGBTQ+',
+  ]
 subcategory: '藝術與文化人物'
-tags: ['導演', '電視', '電影', '植劇場', '公視', '金鐘獎', 'LGBTQ+']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:585e0e43e012a49f'
-sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
-translatedAt: '2026-05-13T01:07:52Z'
+sourceCommitSha: '3638ec158'
+sourceContentHash: 'sha256:50eb815f9c92fea3'
+sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
+translatedAt: '2026-09-20T21:43:36.327282+00:00'
 ---
 
 > **30-second overview:** Wang Shaudi is one of Taiwan's most important television directors, having nurtured an entire generation of actors and screenwriters over four decades. Her father was General Wang Sheng (王昇), the head of the intelligence and political warfare system during the martial law era, yet she chose to speak for ordinary people. From the 1980s series _Whole Family Happiness_ to the 2016 project Qseries (植劇場), she has used her camera to document the dignity of Taiwan's social underclass, proving through action that making television is a form of social movement. In 2014, she received the National Award for Arts.
@@ -35,17 +44,17 @@ After that, the curriculum shifted from geometry to algebra, and her scores jump
 
 ## A Nun, a Teacher, One Sentence
 
-Getting into drama school, she felt ashamed. "When I sneaked out to see outdoor opera as a kid, adults always said, 'Actresses and women are hard to keep.' College was so hard to get into — did even actors need a college degree?" But her father was thrilled — his child had gotten into university — and even gave her a book: _Ten Great Chinese Drama Masters_.
+Getting into the drama department, she felt ashamed. "As a kid I'd sneak out to watch outdoor Taiwanese opera, and adults would always say, 'Actresses and women are hard to raise.' College is so hard to get into — do you really have to go to university just to be an actor?" But her father was delighted: as long as his son could get into university, that was enough; he even gave her a copy of _Ten Great Masters of Chinese Drama_.
 
-Actually, it was a nun in middle school — Sister De — who had seen through her: You love showing off in class and imitating teachers so much, why not try for the drama department? At the time, she scoffed, thinking the nun was mocking a bad student. Then she actually passed the entrance exam.
+In fact, it was a nun in middle school, Sister De, who saw through her: "You love showing off and mimicking teachers in class so much — why don't you try for the drama department?" At the time she scoffed, thinking the nun was just trying to embarrass a student. Then the Joint College Entrance Examination results came back — she'd been admitted.
 
-After graduating from the drama department, in 1975 she went to Trinity University in Texas to pursue a master's in theater. There she encountered another life-changing moment.
+After graduating from the Department of Drama at Chinese Culture University, she went to Trinity University in Texas in 1975 to pursue a master's in theater. There she encountered another life-changing moment.
 
-For a school production, she played a two-headed monster, and everyone cheered. The next year, the teacher asked her to play Blanche in _A Streetcar Named Desire_ — a female role. She refused: "I won't play a woman." The teacher asked: "Is it that you can't, or that you won't?" She said she could, but wouldn't.
+In a school production she played a two-headed monster, and the audience cheered. The next year, her professor cast her as Blanche in _A Streetcar Named Desire_ — a female role. She refused: "I don't play women." The professor asked: "Is it that you won't, or that you can't?" She said she could, but wouldn't.
 
-"The teacher asked, 'So you want to be less?' — Do you want to become a narrower person? That question floored me. I was stunned. I had never thought about it from that angle. Later, I did the role, and it was very successful. After that, this question never really troubled me again." (From a _Mirror Media_ interview)
+"The professor asked one question: 'So you want to be less?' — Do you want to become a narrower person? That question stopped me cold. I froze; I'd never thought about it from that angle. Later, I played the role, and it was a success. From then on, I've rarely been troubled by that question again." (From a _Mirror Media_ interview)
 
-> **✦** "No one's life is easy — everyone struggles. Within that struggle, ordinary people have limited conditions. The more ordinary the person, the more admirable."
+> **✦** "No one's life is easy; nobody has it easy. In that difficulty, ordinary people have limited means — and the more ordinary the person, the more worthy of respect."
 
 ## From _Strawman_ to Rice Film Studio
 

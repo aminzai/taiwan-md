@@ -2,6 +2,7 @@
 title: "Taiwan's Mountains and Hiking Culture"
 description: '268 peaks above 3,000 meters are packed onto a single island, yet it took Taiwanese people half a century before they were allowed to freely climb their own mountains.'
 date: 2026-03-18
+category: 'Nature'
 tags:
   [
     'mountains',
@@ -14,16 +15,15 @@ tags:
     'Lin Wen-an',
   ]
 subcategory: '山岳與登山'
-category: 'Nature'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-07-25
 lastHumanReview: true
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
-sourceBodyHash: 'sha256:571a99d15e048f22'
-translatedAt: '2026-05-17T06:06:00Z'
-author: 'Taiwan.md'
-featured: false
+sourceCommitSha: '6d3808267'
+sourceContentHash: 'sha256:578491ed43f8d7d0'
+sourceBodyHash: 'sha256:be3b3f9150c7c64e'
+translatedAt: '2026-09-20T20:46:41.494208+00:00'
 ---
 
 # Taiwan's Mountains and Hiking Culture
@@ -34,16 +34,16 @@ In April 1900, a 23-year-old Japanese man shouldered surveying equipment and cli
 
 But for those who lived within the mountains, these peaks had never needed naming by outsiders.
 
-## Tongku Saveq: Mountains Older Than Nations
+## Donggu Shafei: The Ancient Mountains of the Indigenous Peoples
 
-Yushan (Jade Mountain), 3,952 meters — the highest peak in Northeast Asia. The Bunun people call it "Tongku Saveq" (東谷沙飛), meaning "sanctuary" — the last refuge of the ancestors during the time of the great flood.[^3] The Atayal call Xueshan (Snow Mountain) "B'bu' Hagay" (Stone Mountain). Dabajianshan is the Atayal sacred mountain "Papak Waqa," and tribal members must perform blessing rituals before ascending. The Tsou regard Yushan as a sacred mountain; certain peaks are considered residences of ancestral spirits and may not be climbed at will.
+Yushan, at 3,952 meters, is the highest peak in Northeast Asia. The Bunun people call it _Tongku Saveq_ (東谷沙飛), meaning "shelter," which they believe was the last refuge for their ancestors during the Great Flood[^3]. The Taíyā people from the mountain villages on the southern slopes of Xueshan call the mountain _B'bu' Hagay_, meaning stone mountain, referring to the mass of sandstone piled up at the summit; the Northse group in the Daan Creek watershed on the west has a different name, _Sekoan_ or _Sekuwan_, meaning scree and fissure[^12]. The term "Babo Hagai," often found in documents from the Japanese colonial period, is a transcription based on Japanese onomatopoeia and differs from the modern Taíyā language standard published by the Indigenous Language Research Center. Daba Peak is the sacred mountain of the Taíyā, _Papak Waqa_, and rituals must be performed before the people ascend it. The Tsou people also consider Yushan a sacred mountain, with certain peaks believed to be ancestral abodes that should not be climbed arbitrarily.
 
-These names preceded the Chinese-language name "Yushan" by thousands of years. During the Qing Kangxi era, Yu Yonghe's travelogue "A Brief Account of My Journey to Taiwan" noted viewing this mountain from afar: "the summit is gleaming white as jade" — and so the name "Yushan" (Jade Mountain) came to be. During the Japanese colonial period it was renamed "Niitakayama" (meaning "the new high mountain, higher than Fuji"), then changed back to Yushan after the war. The mountain never moved. Its name cycled through four rounds.
+These names predate the Sino-Chinese appellation "Yushan" by thousands of years. During the Kangxi period of the Qing dynasty, Yu Yonghe's _Bi Hai Ji You_ (Travelogue of the Sea) recorded seeing this mountain as "brilliant white like jade" for the first time, giving rise to the name "Yushan." During the Japanese colonial period, it was renamed "Shinkōzan" (a new high peak higher than Mount Fuji), and after World War II, it reverted to Yushan. The mountain itself did not move; only its name changed four times.
 
 > **📝 Curator's Note**
-> A mountain's naming history is an island's power history. Whoever has the right to name it has claimed sovereignty. But the Bunun never needed to claim anything — they were always there.
+> The history of a mountain's name is the power history of an island. Whoever has the right to name it claims sovereignty. But the Bunun people do not need to claim—they have always been there.
 
-Taiwan's five mountain ranges (Central Range, Xueshan Range, Yushan Range, Coastal Range, Alishan Range) are the product of the collision and compression between the Eurasian Plate and the Philippine Sea Plate. The Central Range runs 270 kilometers north to south like a spine through the entire island, with more than 170 peaks above 3,000 meters. From sea level to nearly 4,000 meters, the vertical distance spans only a few dozen kilometers, with climate shifting from subtropical to alpine subarctic. This "compressed vertical world" allows Taiwan to contain, within a tiny area, a complete ecological spectrum from [camphor broadleaf forests](/en/nature/taiwan-forest-ecosystems/) to [high-mountain grasslands](/en/nature/taiwan-alpine-ecosystems-glacial-relicts/).
+Taiwan's five major mountain ranges (Central Mountain Range, Xueshan Mountain Range, Yushan Mountain Range, Coast Mountain Range, and Alishan Mountain Range) are products of the collision and compression between the Eurasian Plate and the Philippine Sea Plate. The Central Mountain Range stretches 270 kilometers north to south, like a spine running through the entire island, containing over 170 peaks above 3,000 meters. In a vertical distance spanning only a few tens of kilometers from sea level to nearly 4,000 meters, the climate transitions completely from subtropical to alpine cold. This "compressed vertical world" allows Taiwan to possess a complete ecological gradient within a very small area, ranging from [broad-leaved camphor forests](/en/nature/taiwan-forest-ecosystems/) to [alpine grasslands](/en/nature/taiwan-alpine-ecosystems-glacial-relicts/).
 
 ## The Father of the Hundred Peaks
 
@@ -113,24 +113,26 @@ The surface of Jiaming Lake reflects the sky. Whether or not anyone is watching.
 
 ## References
 
-[^1]: [National Cultural Memory Bank: Mori Ushinosuke](https://tcmb.culture.tw/zh-tw/detail?id=661812&indexCode=Culture_Object) — Mori Ushinosuke (1877–1926), arrived in Taiwan at age 18 in 1895, worked at institutions including the Bureau of Productive Industries Museum under the Taiwan Governor-General's Office; over thirty years walked the entire island of Taiwan and Orchid Island, the most deeply embedded scholar of indigenous mountain settlements in the Japanese colonial era.
+[^1]: [National Cultural Memory Repository: Morii Chūnosuke](https://tcmb.culture.tw/zh-tw/detail?id=661812&indexCode=Culture_Object) — Morii Chūnosuke (1877-1926) arrived in Taiwan at the age of 18 in 1895 and worked for institutions such as the Museum affiliated with the Taiwan Governor's Office. Over thirty years, he traveled across the entire island of Taiwan and Lanyu, becoming one of the most thorough scholars studying mountain tribes during the Japanese colonial period.
 
-[^2]: [BIOS Monthly: Field Surveys and Photography in Japanese-Era Taiwan (Part 2)](https://www.biosmonthly.com/article/7737) — Introduces the ethnographic surveys of Mori Ushinosuke and Torii Ryuzo in Taiwan; more than twenty Taiwanese alpine plant species named morii are his lasting monument.
+[^2]: [BIOS Monthly: Field Surveys and Photography in Colonial Taiwan (II)](https://www.biosmonthly.com/article/7737) — This introduces the ethnological surveys conducted by Morii Chūnosuke and Torii Ryuzō in Taiwan. Over twenty species of Taiwanese alpine plants named after Morii are a testament to his work.
 
-[^3]: [Mata Taiwan: Knowing Taiwan Shouldn't Stop at Yushan — Recognize "Tongku Saveq"](https://www.matataiwan.com/2016/07/15/tongku-saveq/) — The Bunun people call Yushan "Tongku Saveq" (East Valley Flying), meaning "sanctuary," originating in the legend of the last ancestral refuge during the great flood.
+[^3]: [Mata Taiwan: Don't Think Taiwan is Only Yushan; You Must Know This 'Donggu Shayi'](https://www.matataiwan.com/2016/07/15/tongku-saveq/) — The Bunun tribe calls Yushan Tongku Saveq (東谷沙飛), meaning 'shelter,' which originates from the legend of ancestors seeking refuge during a great flood.
 
-[^4]: [Sunriver Culture: A Brief History of the Hundred Peaks — You've Returned from the Hundred Peaks, So You Should Know Their Story](https://www.sunriver.com.tw/takayama/history.htm) — Details the 1971 Central Mountain Range traverse and the Hundred Peaks selection process; records the selection criteria and founding history of the Hundred Peaks Club by the Four Heavenly Kings of the Alpine World (Lin Wen-an, Hsing Tien-cheng, Tsai Ching-chang, Ding Tong-san).
+[^4]: [Upper River Culture: A Brief History of the Hundred Mountains—When You Return From the Hundred Mountains, You Should Know Their Stories](https://www.sunriver.com.tw/takayama/history.htm) — This details the 1971 traverse of the Central Mountain Range and the selection process for the Hundred Mountains. It records the selection criteria of the four 'Heavenly Kings' (Lin Wenan, Xing Tianzheng, Cai Jingzhang, Ding Tongsan) and the founding history of the Hundred Mountains Club.
 
-[^5]: [Wikipedia: Taiwan's Hundred Peaks](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%99%BE%E5%B2%B3) — In 1971 Lin Wen-an drafted Taiwan's Hundred Peaks inspired by Fukada Kyuya's "One Hundred Mountains of Japan"; selection criteria: elevation above 10,000 feet, named on maps, preference for triangulation points, plus the subjective criteria of "extraordinary, precipitous, majestic, and beautiful."
+[^5]: [Wikipedia: Taiwan's Hundred Mountains](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%99%BE%E5%B2%B3) — In 1971, Lin Wenan drafted the list of Taiwan's Hundred Mountains, inspired by Kyūmi Shimada's 'A Hundred Famous Mountains in Japan.' The selection criteria were an altitude of over 10,000 feet, having a name on maps, preferably having a trig point, plus subjective conditions of 'exotic, dangerous, steep, and beautiful'.
 
-[^6]: [Executive Yuan: Taiwan's Mountains Are Magnificent — Premier Su Announces Mountain Opening Policy (2019)](https://www.ey.gov.tw/PageRedirect.aspx?l=bda82de6-ef4a-4630-b207-17e1199c27fe) — On October 21, 2019, the Executive Yuan announced the "Salute to the Mountains" five policy pillars, adopting a one-stop mountain entry registration website and greatly relaxing entry controls.
+[^6]: [Executive Yuan: Taiwan's Mountains Are Awesome—Premier Su Announces Forest De-restriction Policy (2019)](https://www.ey.gov.tw/PageRedirect.aspx?l=bda82de6-ef4a-4630-b207-17e1199c27fe) — On October 21, 2019, the Executive Yuan announced five major policy pillars of 'Respecting the Mountains,' adopting a one-stop mountain registration website and significantly relaxing entry controls.
 
-[^7]: [The News Lens: Reading Taiwan's 2020 "Hiking Boom" Through Mountain Accident Statistics](https://www.thenewslens.com/feature/taiwanmountain/142353) — In 2019 there were 207 mountain accidents with 27 deaths; in 2020 these surged to 454 accidents and 41 deaths; suburban hiking accidents grew 230%; getting lost accounted for the largest share of mountain rescue requests (38%).
+[^7]: [Key Comment Network: Analyzing 2020's 'Taiwan Hiking Fever' Through Mountain Rescue Statistics](https://www.thenewslens.com/feature/taiwanmountain/142353) — In 2019, there were 207 mountain accidents resulting in 27 deaths. In 2020, this surged to 454 cases and 41 deaths, with suburban mountain incidents growing by 230%, and getting lost being the most common reason for distress calls (38%).
 
-[^8]: [Wikipedia: Chang Po-wei Mountain Accident](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%8D%9A%E5%B4%B4%E5%B1%B1%E9%9B%A3) — In February 2011, Chang Po-wei climbed Baigu Mountain alone and became lost; the fire department deployed 600+ personnel over 51 days without success; civilian hikers found the body within 2 days; sparked comprehensive review of mountain search-and-rescue systems.
+[^8]: [Wikipedia: Chang Bo-wai Mountain Accident](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%8D%9A%E5%B4%B4%E5%B1%B1%E9%9B%A3) — In February 2011, Chang Bo-wai got lost while solo climbing White Turtle Mountain. The fire department mobilized over 600 personnel to search for 51 days without success. A civilian mountaineer found the body on the second day of their ascent, leading to a comprehensive review of mountain rescue systems.
 
-[^9]: [The News Lens: Citizens Have No Right to "Zero Risk in Mountaineering" — Chang Po-wei Mountain Accident State Compensation Case Verdict Final](https://www.thenewslens.com/article/86363) — First instance court ruled against the Nantou County Fire Department with 2.67 million NT dollars damages; second instance High Court reversed and overturned; Supreme Court dismissed appeal in 2018, verdict final.
+[^9]: [Key Comment Network: People Do Not Have the Right to 'Zero-Risk Hiking'—Chang Bo-wai Mountain Accident Compensation Case Ruled Without Compensation](https://www.thenewslens.com/article/86363) — In the first instance, the Nantou Fire Department was found liable for damages of 2.67 million NTD; in the second instance, the High Court overturned this and ruled no compensation was due, which was upheld by the Supreme Court in 2018.
 
-[^10]: [China Times: The Angel's Tear — Jiaming Lake Is a Glacial Remnant (2014)](https://www.chinatimes.com/newspapers/20140905000811-260114) — In 2003 Professor Chi Shih-cheng determined it to be a cirque lake based on cirque steps, terminal moraines, and glacial striations; Yang Chien-fu et al. proposed the meteorite impact hypothesis in 2015; Central Geological Survey's Chu Hsiao-tsu found no coesite and estimates meteorite origin probability at only about 2%.
+[^10]: [China Times: Tears of Angels—Jiaming Lake is a Glacial Relic (2014)](https://www.chinatimes.com/newspapers/20140905000811-260114) — In 2003, Professor Qi Shizheng determined it was an ice-dammed lake based on moraines, terminal moraines, and striations; in 2015, Yang Jianfu et al. proposed a meteorite impact theory; Zhu Xiaozu of the Central Geological Survey did not find chert and estimated the probability of a meteorite origin at only about 2%.
 
-[^11]: [Books.com.tw: "Savages' Footsteps: Mori Ushinosuke's Taiwan Explorations," Collector's Anniversary Edition](https://www.books.com.tw/products/0010900485) — Translated and annotated by Yang Nan-chun, published by Yuan-Liou. Mori Ushinosuke disappeared on the ship returning to Japan in 1926, believed to have jumped into the sea. This book records the full scope of his thirty years of field research in Taiwan's mountain indigenous settlements.
+[^11]: [Books.com: 'Shenfa Travelogue: Morii Chūnosuke's Taiwan Expedition' Collector's Edition](https://www.books.com.tw/products/0010900485) — Translated and annotated by Yang Nanjun, published by Yuanliu Press. Morii Chūnosuke disappeared on the return ship to Japan in 1926, presumed to have committed suicide by drowning. This book records the entirety of his field research into mountain tribes in Taiwan over thirty years.
+
+[^12]: [Wikipedia: Snow Mountains (Taiwan)](<https://zh.wikipedia.org/zh-tw/雪山_(臺灣)>) — The article notes that the Taiya names for snow mountains vary by tribe: the Upper Group (Sqoyaw, a surrounding tribe in the Dajia River basin south of Snow Mountain) calls it 'B'bu' Hagay,' meaning 'stone mountain,' referring to the sandstone blocks scattered on the summit; the Lower Group (the West D'an Creek basin) calls it 'Sekoan' or 'Sekuwan,' meaning 'shale and fissure.' The old spelling 'Babo Hagai' was a Japanese phonetic transcription from the colonial period, which Reader Allen Tsai pointed out should be corrected according to the modern standard published by the Indigenous Language Research Development Center.
