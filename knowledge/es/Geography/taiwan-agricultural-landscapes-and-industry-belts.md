@@ -1,172 +1,182 @@
 ---
-title: 'Paisajes agrícolas y distribución industrial de Taiwán'
-description: 'Los cambios en los paisajes agrícolas de norte a sur reflejan la transición de Taiwán desde el "Granero de Taiwán" hacia la "agricultura de precisión"'
+title: 'Paisaje agrícola e industria de Taiwán'
+description: 'El cambio en el paisaje agrícola de norte a sur muestra la transformación de Taiwán de "granero de Taiwán" a "agricultura de calidad".'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '氣候與溫泉'
 tags:
   ['agricultura', 'paisaje', 'industria', 'seguridad alimentaria', 'geografía']
+subcategory: '城市與人文地理'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Geography/台灣農業地景與產業分布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
-sourceBodyHash: 'sha256:92c2111bcaaae7c8'
-translatedAt: '2026-05-20T05:08:32+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: 'b349895a3'
+sourceContentHash: 'sha256:88ba75169cfa45ae'
+sourceBodyHash: 'sha256:9f28d4872bf9c477'
+translatedAt: '2026-09-21T00:58:27+08:00'
 ---
 
-# Paisajes agrícolas y distribución industrial de Taiwán
+# Paisaje agrícola e industria de Taiwán
 
-## Panorama en 30 segundos
+## Resumen de 30 segundos
 
-Taiwán tiene una superficie de apenas 36 000 km², pero las diferencias topográficas y climáticas han dado lugar a paisajes agrícolas radicalmente distintos. Desde las terrazas de plantaciones de té en el norte, el "Granero de Taiwán" en el centro, los huertos tropicales en el sur, hasta las granjas orgánicas en el este, se forman franjas industriales agrícolas claramente diferenciadas.
+Taiwán tiene apenas 36,000 km², pero debido a las diferencias de relieve y clima, presenta paisajes agrícolas muy distintos. Desde los cultivos de té en terrazas en el norte, pasando por el "granero de Taiwán" en el centro, los huertos tropicales en el sur y las granjas orgánicas en el este, se forma una banda agrícola industrial claramente definida.
 
-El "Granero del Río Zhuoshui", conformado por Changhua, Yunlin y Chiayi, sigue suministrando el 30 % del arroz de toda la isla. La manzana de cera (liwù) de Pingtung y la chirimoya (shìjiā) de Taitung se han ganado reconocimiento en mercados internacionales como Japón y Oriente Medio.
+Changhua, Yunlin y Chiayi forman el "granero del arroz del río Zhuoshui", que abastece alrededor del 30% del arroz de toda Taiwán; el pomarillo de Pingtung y el fruto de la pasión de Taitung son las frutas de exportación más representativas de Taiwán, que solían tener a China como su mayor mercado.
 
-La construcción del sistema de irrigación de Jianan en la década de 1920 sentó las bases hidráulicas agrícolas del sur de Taiwán, y la promoción de la variedad de arroz Hōrai tras 1945 duplicó la producción arrocera de la isla. Estos dos proyectos fueron nodos clave en la modernización agrícola de Taiwán.
+La construcción del canal de riego de Chianan (/es/history/chianan-irrigation-canal/), iniciada en 1920 y completada en 1930, sentó las bases del riego agrícola en el sur de Taiwán[^7]; el arroz "Penglai", promovido en 1926, reescribió las variedades y mercados del arroz en Taiwán. Estos dos eventos son hitos clave en la modernización agrícola de Taiwán durante la época de la colonia japonesa.
 
-Palabras clave: Granero de Taiwán, Granero del Río Zhuoshui, agricultura de precisión, transformación industrial, seguridad alimentaria
+Palabras clave: granero de Taiwán, granero del río Zhuoshui, agricultura de calidad, transformación industrial, seguridad alimentaria
 
 ## Por qué es importante
 
-La historia del desarrollo agrícola de Taiwán registra cómo una isla ha logrado transformaciones sucesivas en un territorio limitado: desde la mejora de la variedad de arroz "Hōrai" durante el período colonial japonés (promocionada en 1926), pasando por la industrialización rural de la década de 1970, hasta el movimiento de agricultura orgánica y revitalización rural de la década de 2010. Cada etapa constituye un reflejo de la transformación de la estructura social taiwanesa.
+La historia del desarrollo agrícola de Taiwán registra cómo una isla logra transformarse continuamente con tierras limitadas: desde la mejora de variedades de arroz "Penglai" durante la época colonial japonesa (promovido en 1926), pasando por la industrialización rural en los años 70, hasta el movimiento de agricultura orgánica y revitalización rural en la década de 2010; cada etapa refleja la transformación estructural de la sociedad taiwanesa[^2]。
 
-La agricultura de Taiwán desempeña simultáneamente cuatro funciones: producción de alimentos, uso del suelo, protección ambiental y preservación cultural. Ante el cambio climático y la presión de la urbanización, la isla está pasando de buscar volumen de producción a buscar calidad, y de la agricultura tradicional a la agricultura inteligente.
+La agricultura de Taiwán asume simultáneamente cuatro roles: producción de alimentos, uso de tierras, protección ambiental y herencia cultural. Con el cambio climático y la presión de la urbanización, Taiwán está pasando de perseguir el rendimiento a perseguir la calidad, de la agricultura tradicional a la agricultura inteligente.
 
-Esta trayectoria de transformación tiene un valor de referencia directo para otras islas agrícolas pequeñas de Asia. Las instituciones de investigación agrícola taiwanesas comparten regularmente tecnología con países como Vietnam e Indonesia.
+La trayectoria de esta transformación tiene un valor de referencia directo para otras islas agrícolas pequeñas en Asia; los institutos de investigación agrícola de Taiwán también comparten regularmente tecnologías con Vietnam e Indonesia.
 
-## Agricultura del norte: plantaciones de té y agricultura urbana
+## Agricultura en el norte: cultivos de té y agricultura urbana
 
-Las zonas montañosas del norte, con alta pluviosidad anual y niebla densa, han dado lugar a las regiones productoras de té más reconocidas de Taiwán. Tras la expansión de la cuenca de Taipéi, la agricultura del norte ha girado hacia la especialización y la urbanización, con huertos ciudadanos y pequeños agricultores orgánicos como modelos emergentes.
+Las zonas colinas del norte reciben grandes cantidades de lluvia y niebla, lo que da lugar a las zonas de producción de té más famosas de Taiwán. Con la expansión de la cuenca de Taipéi, la agricultura del norte se ha dirigido hacia la especialización y la urbanización, con huertos urbanos y pequeños agricultores orgánicos como nuevos modelos.
 
-### Franja industrial del té
+### Cinturón de producción de té
 
-El terreno montañoso del norte de Taiwán ha generado una industria tealera de fama mundial:
+El relieve colinero del norte de Taiwán ha dado lugar a un famoso cinturón de producción de té:
 
-- **Zona de té Baozhong de Wenshan**: en las áreas de Shiding y Pinglin, Nuevo Taipéi, con un entorno húmedo que supera los 2000 mm de precipitación anual.
-- **Biluochun de Sanxia**: elaborado con brotes tiernos recolectados en primavera, con un aroma floral y afrutado.
-- **Té de alta montaña de Alishan**: plantaciones situadas entre 1000 y 2000 metros de altitud, donde la gran diferencia de temperatura entre el día y la noche intensifica el aroma.
+- **Zona de té Baozhong de Wenshan**：En las áreas de Shihding y Pinglin de Nueva Taipéi, con un entorno húmedo con más de 2,000 mm de lluvia anual
+- **Biluochun de Sanshui**：Hecho con brotes tiernos recogidos en primavera, con un aroma floral frutal fresco
+- **Oolong de Muzha**：Oolong de fermentación pesada en la zona de Mao'ao de la distrito de Wenshan en Taipéi, donde coexisten plantaciones de té y salones de té turísticos
 
-Las plantaciones de té del norte utilizan predominantemente terrazas para aprovechar al máximo las laderas, y el paisaje resultante se ha convertido también en un recurso turístico. La "Era Dorada del Té" en la zona de Wenshan ha sido registrada como paisaje cultural, protegiendo las técnicas tradicionales de elaboración del té y los asentamientos rurales.
+Los cultivos de té del norte suelen estar dispuestos en terrazas a lo largo de las laderas; el paisaje de los cultivos de té también se ha convertido en un recurso turístico; Pinglin sigue siendo la principal zona de producción de Baozhong de Wenshan.
 
-### Agricultura en el perímetro urbano
+### Agricultura en los márgenes urbanos
 
-Con la expansión del área metropolitana de Taipéi, el norte ha desarrollado una agricultura urbana singular:
+Con la expansión del área metropolitana de Gran Taipéi, el norte ha desarrollado una agricultura urbana única:
 
-- **Huertos ciudadanos**: servicios de alquiler de parcelas que permiten a los residentes urbanos experimentar la agricultura.
-- **Pequeños agricultores orgánicos**: producción de frutas y hortalizas de alta gama para mercados de consumo premium.
-- **Granjas recreativas**: combinan educación, turismo y producción agrícola.
+- **Huertos urbanos**：Servicios de alquiler de tierras para que los residentes urbanos experimenten la labor agrícola
+- **Pequeños agricultores orgánicos**：Proveedores de productos frescos de alta gama para mercados de consumo premium
+- **Granjas recreativas**：Integran educación, turismo y producción agrícola
 
-## Agricultura del centro: el corredor dorado del Granero de Taiwán
+## Agricultura en el centro: el corredor dorado del "granero de Taiwán"
 
-El corredor dorado conformado por Changhua, Yunlin y Chiayi constituye el pilar central de la seguridad alimentaria de Taiwán. El río Zhuoshui transporta grandes cantidades de aluvión, formando la fértil llanura que suministra el 30 % del arroz de toda la isla.
+Changhua, Yunlin y Chiayi forman un corredor dorado que es el pilar fundamental de la seguridad alimentaria de Taiwán. El río Zhuoshui arrastra grandes cantidades de sedimentos aluviales, creando una llanura fértil que produce alrededor del 30% del arroz de toda Taiwán.
 
-### Cono aluvial del río Zhuoshui
+### Llanura aluvial del río Zhuoshui
 
-La llanura central de Changhua, Yunlin y Chiayi es la base agrícola principal de Taiwán, conocida como el "Granero de Taiwán":
+Las llanuras de Changhua, Yunlin y Chiayi en el centro son la base principal de producción agrícola de Taiwán, conocidas como el "granero de Taiwán":
 
-**Ventajas geográficas:**
+**Ventajas geográficas：**
 
-- El río Zhuoshui aporta abundante aluvión, formando una llanura fértil.
-- Precipitación anual de 1200-1500 mm, adecuada para el cultivo de arroz.
-- Terreno plano, que facilita la mecanización agrícola.
+- El río Zhuoshui arrastra ricas capas de sedimentos aluviales, formando llanuras fértiles
+- Precipitación anual de 1,200-1,500 mm, adecuada para el cultivo de arroz
+- Terreno plano, fácil de mecanizar
 
-**Principales productos:**
+**Principales productos agrícolas：**
 
-- **Arroz**: 30 % de la producción nacional, siendo el arroz del río Zhuoshui de la más alta calidad.
-- **Flores**: Jardín de la Carretera de Tianwei y Parque Industrial de Floricultura de Pitou.
-- **Hortalizas**: col y coliflor abastecen el mercado nacional.
+- **Arroz**：30% de la producción nacional, el arroz del río Zhuoshui tiene la mejor calidad
+- **Flores**：El jardín de la carretera de Tianwei es uno de los mayores centros de distribución florales del país
+- **Verduras**：Repollo chino y coliflor abastecen los mercados de toda Taiwán
 
-La uva Kyoho de Changhua y la naranja de Gukeng, Yunlin, son las frutas de precisión más representativas de la llanura central y casos pioneros de transformación hacia la marca por parte de los agricultores.
+La uva "Jumbo" de Changhua y el naranjo antiguo de Gukeng en Yunlin son frutas de calidad representativas del centro, y también son casos pioneros de transformación de marcas agrarias[^3]。
 
-### Transformación hacia la agricultura de precisión
+### Transformación hacia la agricultura de calidad
 
-Ante la competencia de productos agrícolas importados y el envejecimiento de la población rural, la agricultura del centro avanza hacia la especialización:
+Frente a la competencia de importaciones agrícolas y al envejecimiento de la población rural, la agricultura del centro se está especializando:
 
-**Aplicaciones tecnológicas:**
+**Aplicación de tecnología：**
 
-- Sistemas de monitoreo inteligente en invernaderos.
-- Pulverización de plaguicidas mediante drones.
-- Fertilización con GPS de precisión en agricultura de precisión.
+- Sistemas de monitoreo de invernaderos inteligentes
+- Drones para aplicar pesticidas
+- Agricultura de precisión con posicionamiento GPS para fertilizar
 
-**Gestión de marca:**
+**Gestión de marcas：**
 
-- Certificación de indicación geográfica "Arroz del Zhuoshui".
-- Industrialización turística de las flores de Tianwei.
-- Trazabilidad de la cadena de producción y venta por parte de las asociaciones agrícolas.
+- Marcas de origen como "Arroz del río Zhuoshui"
+- Fábricas de flores de Tianwei con turismo
+- Seguimiento de trazas de productos agrícolas por cooperativas agrarias
 
-## Agricultura del sur: el reino de las frutas tropicales
+## Agricultura en el sur: reino de frutas tropicales
 
-El sur —Tainan, Kaohsiung y Pingtung— se encuentra al sur del trópico de Cáncer, con veranos largos e inviernos cálidos, y una temporada de crecimiento que supera los 300 días, lo que ha dado lugar a la región de frutales tropicales más concentrada de Taiwán. La llanura de Jianan, beneficiada por las obras hidráulicas del sistema de irrigación de Jianan en la década de 1920, se convirtió en la mayor base de producción de arroz y caña de azúcar de la isla.
+Tainan, Kaohsiung y Pingtung en el sur están ubicados al sur de la línea del paraleo tropical, con veranos largos y cálidos y más de 300 días de estación de crecimiento, lo que da lugar a la concentración más alta de cultivos de frutas tropicales de Taiwán. La llanura de Chianan se benefició de la construcción del sistema de riego del canal de Chianan en la década de 1920, convirtiéndose en la base de producción más grande de arroz y caña de azúcar de Taiwán.
 
 ### Agricultura tropical de Pingtung
 
-El condado de Pingtung se sitúa al sur del trópico de Cáncer. Su clima tropical, cálido y húmedo durante todo el año, favorece una gran diversidad de frutales tropicales:
+Pingtung se encuentra al sur de la línea del paraleo tropical, con un clima tropical cálido y húmedo durante todo el año, que da lugar a una gran variedad de frutas tropicales:
 
-**Frutas destacadas:**
+**Frutas representativas：**
 
-- **Manzana de cera (liwù)**: el condado de Pingtung concentra el 60 % de la producción nacional, famoso por la variedad "Perla Negra".
-- **Piña**: la piña Tainung No. 17 (Diamante Dorado) se exporta a Japón a un precio 3-5 veces superior al de la piña común.
-- **Mango**: las variedades Irwin y Jinhuang abastecen el mercado nacional durante el verano.
+- **Pomelo de la piel roja**：El área de cultivo de pomelos en Pingtung representa más del 70% de toda Taiwán; las variedades de fruto de invierno de sabor dulce y color rojo intenso son conocidas como "perla negra"[^8]
+- **Piña**：Piña "Diamante" es la variedad principal de exportación
+- **Mango**：Mangos "Aiwen" y "Jinhuang" abastecen los mercados de toda Taiwán en verano
 
-El "dátil de jade" (zhēnbǎo mìzǎo) de Pingtung es muy demandado antes del Año Nuevo Lunar, constituyendo un caso representativo de cómo los agricultores del sur dominan el ritmo de marketing estacional.
+Los melones de pesciga de Pingtung escasean antes de la festividad de Año Nuevo, convirtiéndose en un caso representativo de cómo los agricultores del sur captan el ritmo de las estacionales de marketing.
 
-### Agricultura de la llanura de Jianan
+### Agricultura en la llanura de Chianan
 
-La llanura de Jianan, en Tainan y Chiayi, se beneficia del sistema de irrigación de Jianan, formando una producción agrícola a gran escala. Durante el período colonial japonés, en la década de 1920, se construyó el sistema de irrigación de Jianan, con una superficie regada de 150 000 hectáreas, e implementó un sistema de "rotación trienal" (arroz → caña de azúcar → cultivo de secano), sentando las bases de la infraestructura hidráulica agrícola moderna de Taiwán.
+Tainan y Chiayi se benefician del sistema de riego del canal de Chianan, formando una producción agrícola a gran escala. El canal de Chianan comenzó su construcción en 1920 y se completó en 1930, con un área de riego de aproximadamente 150,000 hectáreas; debido a la escasez de agua que no permite que toda el área de riego cultive arroz al mismo tiempo, el canal adoptó un sistema de rotación de tres años, dividiendo el área de riego en tres zonas que alternan entre cultivo de arroz, caña de azúcar y cultivos auxiliares, sentando las bases del riego agrícola moderno de Taiwán[^5][^7]。
 
-Hoy, la producción de arroz de la llanura de Jianan representa el 25 % del total nacional. La industria de la orquídea Phalaenopsis se concentra en esta zona, y Taiwán es el mayor exportador mundial de orquídeas Phalaenopsis[^1]. La acuicultura de lechero de leche (Chanos chanos) genera una producción anual superior a 3000 millones de dólares taiwaneses, siendo una fuente de ingresos importante para las comunidades costeras del sur que combinan pesca y agricultura.
+Hoy en día, la llanura de Chianan sigue siendo una importante zona de producción de arroz; el parque de biotecnología de orquídeas de Tainan, "Taiwán Orchid Nursery", ha atraído a la industria de orquídeas, y Taiwán es el mayor país exportador de orquídeas del mundo[^1]。La acuicultura de pescados pequeños es una fuente importante de ingresos para los agricultores y pescadores costeros del sur.
 
-## Agricultura del este: agricultura orgánica y agricultura indígena
+## Agricultura en el este: orgánica y agricultura indígena
 
-El valle de Huatung, situado entre la Cordillera Central y la Cordillera Costera, se encuentra alejado de la contaminación industrial, y sus condiciones de producción agrícola están reconocidas por las certificadoras orgánicas. La superficie de agricultura orgánica en el condado de Hualien representa más del 30 % de la tierra agrícola del condado, la proporción más alta de toda la isla. Marcas como el arroz de Chishang y el arroz de Fuli ya han consolidado su reputación en el mercado de arroz premium de Taiwán.
+El valle central de la costa este está ubicado entre la cordillera central y la cordillera costera, lejos de la contaminación industrial. Hualien es la ciudad con el área más grande de certificación orgánica de toda Taiwán, alcanzando 3,175 hectáreas y 662 unidades en principios de 2023, muy por encima de la segunda ciudad, Chiayi[^9]；arroz orgánico de marcas como "arroz de Fuli" y "arroz de Chihshiang" han ganado reputación en el mercado premium de arroz de Taiwán.
 
-### Agricultura orgánica del valle de Huatung
+### Agricultura orgánica del valle central de la costa este
 
-El valle de Huatung en Hualien y Taitung, al ser una zona remota con escasa contaminación industrial, ofrece un entorno y fuentes de agua limpios que constituyen una garantía natural para la certificación orgánica. Las técnicas agrícolas tradicionales de los pueblos indígenas también se han preservado íntegramente en esta región. Sumado al aumento de la demanda de productos orgánicos por parte de los consumidores, esto ha convertido al este en un eje central del desarrollo de la agricultura orgánica.
+Hualien y Taitung, en el valle central de la costa este, están ubicados en zonas alejadas con poca contaminación industrial; el entorno limpio y los recursos hídricos son garantías naturales para la certificación orgánica[^6]，y las técnicas tradicionales de agricultura indígena se han preservado completamente aquí; con el aumento de la demanda de productos orgánicos por parte de los consumidores, este lugar se ha convertido en un centro clave de desarrollo de la agricultura orgánica.
 
-El arroz de Fuli y el arroz de Chishang son las marcas representativas del arroz orgánico de Huatung. La producción de chirimoya del condado de Taitung representa el 90 % del total nacional, y la chirimoya de ojo grande (Taimu shìjiā) se exportó masivamente a China continental. La rosa de Jamaica (luóshén huā) es un cultivo tradicional indígena que se procesa como té de flores y mermelada para su venta en toda la isla. El mijo de los pueblos Paiwan y Rukai ha sido objeto de un programa de recuperación en los últimos años, convirtiéndose en un indicador de la doble revitalización cultural y agrícola.
+"Arroz de Fuli" y "Arroz de Chihshiang" son marcas representativas de arroz orgánico del este; la producción de fruto de la pasión de Taitung representa alrededor del 90% de toda Taiwán; el fruto de la pasión en 2021, antes de que China impusiera restricciones de importación, exportaba el 95% a China[^10]。La flor de saúco es un cultivo tradicional de los pueblos indígenas, fabricado en té florales y mermeladas y vendido en toda Taiwán; los arrozales de los pueblos Pingyan y Lukai han comenzado a volver a cultivar, convirtiéndose en indicadores de revitalización cultural y agrícola.
 
 ### Revitalización de la agricultura indígena
 
-En los últimos años, las comunidades indígenas han mejorado su poder de negociación con los canales de distribución mediante cooperativas industriales de gestión colectiva. La recuperación de cultivos culturales considerados superalimentos —como el amaranto taiwán (Chenopodium formosanum) y el frijol de árbol (Cajanus cajan)—, junto con las prácticas agroecológicas de coexistencia con la naturaleza, constituyen las tres vías de revitalización de la agricultura indígena.
+En los últimos años, las comunidades indígenas han promovido cooperativas de productos agrícolas para mejorar su capacidad de negociación en los canales de distribución. La recuperación de cultivos culturales como el amaranto de Taiwán y el frijol arbóreo, junto con técnicas agrícolas ecológicas que conviven con la naturaleza, forman tres vías para la revitalización de la agricultura indígena[^4]。
 
 ## Desafíos agrícolas y futuro
 
-La agricultura de Taiwán enfrenta dificultades estructurales: la edad promedio de la población agrícola supera los 65 años, la tierra de cultivo es progresivamente absorbida por usos industriales y residenciales, y la presión por los precios de los productos agrícolas importados se intensifica año tras año. Al mismo tiempo, el cambio climático ha incrementado la frecuencia de fenómenos meteorológicos extremos, la distribución de plagas y enfermedades se ha desplazado hacia el norte, y las zonas aptas para ciertos cultivos han cambiado silenciosamente.
+La agricultura de Taiwán enfrenta desafíos estructurales: la edad promedio de los gestores agrícolas es de 64.4 años (según el censo agrícola de 2020)[^11]，las tierras agrícolas se ven cada vez más erosionadas por la industria y la construcción de viviendas, y la presión de precios de productos agrícolas importados aumenta cada año. Al mismo tiempo, el cambio climático ha aumentado la frecuencia de eventos climáticos extremos, los patógenos y plagas se desplazan hacia el norte, y algunas zonas de cultivo han cambiado silenciosamente.
 
 ### Desafíos estructurales
 
-El cambio climático ha aumentado la frecuencia de tifones, sequías e inundaciones, la línea de distribución de plagas y enfermedades se ha desplazado hacia el norte, y la intrusión de agua de mar amenaza las tierras agrícolas costeras. En el plano social, la migración de jóvenes rurales, la expropiación de tierras agrícolas para uso industrial y la competencia de productos agrícolas importados constituyen una triple presión sobre la agricultura taiwanesa.
+El cambio climático ha aumentado la frecuencia de tormentas, sequías e inundaciones, los patógenos y plagas se desplazan hacia el norte, y la intrusión de agua de mar amenaza las tierras agrícolas costeras. En la sociedad, los jóvenes rurales emigran, las tierras agrícolas son expropiadas para construir fábricas, y la competencia de productos agrícolas importados crea tres presiones para la agricultura de Taiwán.
 
 ### Estrategias de transformación
 
-En el ámbito tecnológico, Taiwán ha introducido predicción de plagas y enfermedades mediante inteligencia artificial, desarrollado granjas verticales y fábricas de plantas, y utilizado blockchain para establecer trazabilidad en la cadena de producción y venta, permitiendo a los consumidores rastrear el origen y el proceso de cultivo de cada lote de productos agrícolas.
+En tecnología, Taiwán ha introducido IA para predecir plagas y enfermedades, ha desarrollado granjas verticales y fábricas de plantas, y ha utilizado blockchain para establecer trazas de productos agrícolas, permitiendo a los consumidores seguir el lugar de origen y el proceso de cultivo de cada partida de productos agrícolas.
 
-En el ámbito político, el establecimiento de un sistema de seguro agrícola, los subsidios para el emprendimiento de jóvenes agricultores que regresan al campo y la aplicación de la normativa de uso agrícola exclusivo de la tierra de cultivo constituyen los tres pilares para estabilizar la oferta agrícola. En el ámbito industrial, la agricultura de Taiwán se está transformando hacia la agricultura de alta gama, y el turismo agrícola y la economía experiencial se han convertido en fuentes de ingresos importantes.
+En políticas, la seguros agrícolas, los subsidios para jóvenes agricultores que regresan a sus pueblos y la aplicación de leyes de uso de tierras agrícolas son los tres pilares para estabilizar el suministro agrícola. En la industria, la agricultura de Taiwán se está transformando hacia la agricultura premium, y el turismo agrícola y la economía de experiencias se han convertido en fuentes importantes de ingresos.
 
-## La agricultura de Taiwán desde una perspectiva global
+## Perspectiva global de la agricultura de Taiwán
 
-Aunque la escala de la agricultura taiwanesa es modesta, posee un significado como referente internacional en tres dimensiones: transferencia tecnológica, desarrollo sostenible y seguridad alimentaria.
+Aunque la agricultura de Taiwán no es grande en tamaño, destaca por su significado internacional en tres aspectos: tecnología de exportación, desarrollo sostenible y seguridad alimentaria.
 
-En materia de tecnología de mejoramiento de orquídeas, Taiwán es el mayor exportador mundial de orquídeas Phalaenopsis. En biotecnología agrícola, las tecnologías de fábricas de plantas y granjas verticales de Taiwán ya se han exportado a Japón y Singapur. El sistema de certificación de agricultura orgánica y la experiencia en desarrollo de comunidades rurales también han sido adoptados como referencia por los ministerios de agricultura de varios países del sudeste asiático.
+En técnicas de cultivo de orquídeas, Taiwán es el mayor país exportador de orquídeas del mundo; en biotecnología agrícola, las técnicas de fábricas de plantas y cultivo en invernaderos de Taiwán también han comenzado a exportarse al extranjero; los equipos técnicos agrícolas de Taiwán han estado presentes durante mucho tiempo en países amigos, llevando técnicas de cultivo de arroz y horticultura a lugares locales.
 
-La agricultura de Taiwán se está transformando del "Granero de Taiwán" a la "isla de agricultura de precisión", compitiendo con calidad y marca en un territorio limitado, y ofreciendo una vía de transformación viable para las economías agrícolas pequeñas de Asia.
+La agricultura de Taiwán se está transformando del "granero de Taiwán" al "archipiélago de agricultura de calidad", ganando con calidad y marcas en tierras limitadas, proporcionando una ruta viable de transformación para economías agrícolas pequeñas en Asia.
 
 ## Referencias
 
-[^1]: Departamento de Estadística del Ministerio de Agricultura, [Anuario Estadístico Agrícola de Taiwán](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+[^1]: [Informe anual de estadísticas agrícolas de Taiwán](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Oficina de Estadísticas Agrícolas del Ministerio de Agricultura，2025。
 
-[^2]: Ministerio de Agricultura, [Información sobre políticas y desarrollo agrícola](https://www.moa.gov.tw/), incluye Historia del Desarrollo Agrícola de Taiwán (2023).
+[^2]: [Información sobre políticas y desarrollo agrícola](https://www.moa.gov.tw/) — Ministerio de Agricultura
 
-[^3]: Gobierno del condado de Changhua, [Información sobre el desarrollo de la industria agrícola](https://www.chcg.gov.tw/), incluye Informe sobre el Desarrollo Industrial del Granero del Río Zhuoshui (2024).
+[^3]: [Información sobre desarrollo de industrias agrícolas](https://www.chcg.gov.tw/) — Gobierno del condado de Changhua
 
-[^4]: Gobierno del condado de Taitung, [Agricultura indígena y desarrollo industrial](https://www.taitung.gov.tw/), incluye Plan de Revitalización de la Agricultura Indígena (2025).
+[^4]: [Desarrollo de agricultura y industrias indígenas](https://www.taitung.gov.tw/) — Gobierno del condado de Taitung
 
-[^5]: Administración de Riego Agrícola del Ministerio de Agricultura, [Información histórica sobre el sistema de irrigación de Jianan y la hidráulica](https://www.ia.gov.tw/), incluia Centenario del Sistema de Irrigación de Jianan (2020).
+[^5]: [Sitio web oficial](https://www.ia.gov.tw/) — Oficina de Riego de Tierras Agrícolas del Ministerio de Agricultura
 
-[^6]: Departamento de Agricultura del Gobierno del condado de Hualien, [Información sobre el desarrollo de la agricultura orgánica del este](https://www.hl.gov.tw/), incluye Encuesta sobre el Estado Actual de la Agricultura Orgánica del Este (2024).
+[^6]: [Sitio web oficial](https://www.hl.gov.tw/) — Oficina de Agricultura del Gobierno del condado de Hualien
+
+[^7]: [Canal de Chianan](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Oficina de Riego de Tierras Agrícolas del Ministerio de Agricultura
+
+[^8]: [Conjunto de pomelos comunes](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — Plataforma de Información Educativa sobre Alimentos y Agricultura del Ministerio de Agricultura
+
+[^9]: [La ciudad con mayor área y número de unidades certificadas](https://info.organic.org.tw/35259/) — Red Global de Información sobre Agricultura Orgánica
+
+[^10]: [China reduce precios de producción local, Ministerio de Agricultura anima a Taiwán a procesar y transformar frutos de la pasión](https://news.ltn.com.tw/news/life/breakingnews/5478936) — Libre Times，2026-06-21 — "El 95% de las exportaciones se concentran en China", después de que China suspendiera las importaciones en septiembre de 2021, se enfocó en transformación y procesamiento.
+
+[^11]: [Resultados preliminares del censo agrícola de 2020](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Oficina Nacional de Estadísticas del Consejo Ejecutivo
