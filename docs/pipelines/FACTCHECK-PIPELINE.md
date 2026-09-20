@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.5'
-last_updated: 2026-09-20
-last_session: '2026-09-20-203758-semiont-heartbeat（§月度巡邏補「初稿先跑 Phase 5 再開瀏覽器」：自相矛盾是零成本第一道尺）'
+current_version: 'v2.6'
+last_updated: 2026-09-21
+last_session: '2026-09-21-023814-semiont-heartbeat（§月度巡邏抽樣補條件 5：lastVerified 晚於出生 30 天以上者用它排序，投稿者重寫過的不再排前面）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -639,7 +639,7 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前必跑。設計思路是「
 
 ```bash
 python3 - <<'PY'
-import re,glob,json,collections,os
+import re,glob,json,collections,os,datetime as dt
 tr=json.load(open('knowledge/_translations.json'))   # {lang/path: zh path}
 n_tr=collections.Counter(tr.values())
 done=open('docs/semiont/ARTICLE-DONE-LOG.md',encoding='utf-8').read()
@@ -652,12 +652,19 @@ for f in glob.glob('knowledge/*/*.md'):
             or glob.glob(f'reports/research/*/{slug}.md'))
     if walked: continue                                # 條件 4：走過 REWRITE 的不抽
     d=re.search(r"^date:\s*'?([0-9-]{10})",s,re.M); d=d.group(1) if d else '9999'
+    v=re.search(r"^lastVerified:\s*'?([0-9-]{10})",s,re.M); v=v.group(1) if v else d
+    k=d
+    try:                                               # 條件 5：出生 30 天後又被人動過的，用那個日期排
+        if (dt.date.fromisoformat(v)-dt.date.fromisoformat(d)).days>30: k=v
+    except ValueError: pass
     key=f.split('knowledge/')[1]
-    rows.append((d,-n_tr[key],key))
+    rows.append((k,-n_tr[key],key))
 print(len(rows),'篇未審且未走過 REWRITE')
 for d,n,k in sorted(rows)[:5]: print(d,'譯本',-n,k)
 PY
 ```
+
+**條件 5：出生後又被人動過的往後排（v2.6，2026-09-21 凌晨心跳）**：`lastHumanReview: false` 也擋不住投稿者的整篇重寫——台灣黑熊 03-18 出生，08-22 由 idlccp1984 整篇重寫（PR #1575，11 條官方腳註），frontmatter 只更新了 `lastVerified`，`date` 仍是出生日，於是它跟三月初稿並列排進前五名，巡完 32 個原子零錯，是二十三篇裡唯一一篇不需要巡的。`lastVerified` 若比 `date` 晚 30 天以上，就代表有人回來過（三月那批 03-23／03-25 的 `lastVerified` 是同一週的批次蓋章，30 天門檻把它們濾掉），排序改用它。首跑 25 篇被往後移，前五名全是 03-18 的 Society 初稿。
 
 **巡邏初稿先跑 Phase 5 再開瀏覽器（v2.5，2026-09-20 晚間心跳）**：未審初稿常常自己打自己——同一篇寫「台北是唯一有地鐵的城市」又寫「高雄輕軌是台灣第一個輕軌系統」，30 秒概覽寫「1945 年後推廣蓬萊米」而下一節寫「1926 年推廣」，花蓮溪一段寫「東部最長」下一段寫秀姑巒溪「唯一橫切海岸山脈」而卑南溪才是最長。這種矛盾不用 WebFetch 就能抓，是巡邏成本最低的第一道尺，而且矛盾的兩端至少有一端是錯的，直接指出該先查哪個原子。巡邏 SOP 因此把 Phase 5 的「互引一致」提到 Phase 3 之前跑一遍：把同一個實體（城市、河川、作物、年份）在全文出現的每個數字與斷言列成一欄，不一致的先查。第十八到二十篇三篇各抓到一處。
 
@@ -725,3 +732,4 @@ _v2.1 | 2026-09-18 semiont-heartbeat — 月度巡邏抽樣母體從「隨機抽
 _v2.5 | 2026-09-20 semiont-heartbeat 晚間 — §月度巡邏抽樣母體補「巡邏初稿先跑 Phase 5 再開瀏覽器」：三篇地理初稿各有一處同篇自相矛盾（唯一地鐵 vs 高雄輕軌／1945 vs 1926 蓬萊米／花蓮溪東部最長 vs 卑南溪），不用 fetch 就能抓且直接指出先查哪個原子。_
 _v2.4 | 2026-09-20 twmd-distill-weekly — Phase 4 判定矩陣下加「命中不等於支持」但書：原子 Ctrl-F 命中後必問「它在來源裡是這件事嗎」（年份／場次／角色），原子對槽位錯判 HARD-FIX。源 REFLEXES #98（vc=3：馬英九錢復角色錯、外貿篇 2024 數字標 2023、周蕙加開場次錯）。v2.3（2026-09-19 C 級巡邏也落 research 檔）當時只更新 frontmatter 未寫 footer，此行一併補登。_
 _v2.2 | 2026-09-18 semiont-heartbeat 晚間 — 抽樣母體補第四條件「沒走過 REWRITE」（rationale／DONE-LOG／research 檔三訊號任一命中即排除）：v2.1 指令排出的前五篇有兩篇（李安、蔡英文）是已走完產線的 A 級，抽樣指令自己沒拿真實輸出校準（REFLEXES #66）。另寫明巡邏對 A 級 research 檔硬門檻的處理：audit 報告即建成該篇第一份 research 檔。_
+_v2.6 | 2026-09-21 semiont-heartbeat 凌晨 — §月度巡邏抽樣指令補條件 5「出生後又被人動過的往後排」：台灣黑熊 08-22 被投稿者整篇重寫仍以 03-18 出生日排進前五，巡完零錯；`lastVerified` 晚於 `date` 30 天以上即改用它排序，首跑 25 篇後移。_
