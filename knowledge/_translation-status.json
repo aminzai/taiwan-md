@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T12:47:45+08:00",
-    "zhCommitHead": "5a243de83",
+    "lastUpdated": "2026-09-20T14:20:33+08:00",
+    "zhCommitHead": "68ac62bd9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 903,
-        "stale": 105,
+        "fresh": 905,
+        "stale": 103,
         "metadata_stale": 28,
         "missing": 88,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1040,
-        "stale": 59,
+        "fresh": 1041,
+        "stale": 58,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 947,
+        "fresh": 948,
         "stale": 59,
         "metadata_stale": 9,
-        "missing": 109,
+        "missing": 108,
         "orphan": 0
       },
       "pt": {
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 982,
-        "stale": 59,
+        "fresh": 983,
+        "stale": 58,
         "metadata_stale": 13,
         "missing": 70,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 13,
         "metadata_stale": 4,
-        "missing": 288,
+        "missing": 287,
         "orphan": 0
       }
     },
@@ -2522,7 +2522,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/taiwan-hip-hop-and-rap.md",
+          "translatedFrom": "Music/台灣嘻哈與饒舌發展.md",
+          "sourceCommitSha": "3d2adaeb8",
+          "sourceContentHash": "sha256:d3459042301dfb22",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T05:25:57.166101+00:00",
+          "translationLastCommit": "b3c9fed9",
+          "translationLastModified": "2026-07-25T05:25:12+08:00",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-hip-hop-and-rap.md",
@@ -8026,16 +8037,16 @@
         "ko": {
           "path": "ko/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:442f27209d04a396",
-          "sourceBodyHash": "sha256:1dc11e21cef45412",
-          "translatedAt": "2026-06-13T00:00:00Z",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
+          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
+          "translatedAt": "2026-09-20T00:52:36+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "footnote-loss (28→14)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-uniform-invoice.md",
@@ -39335,16 +39346,16 @@
         "ja": {
           "path": "ja/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -44231,7 +44242,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/ezway.md",
+          "translatedFrom": "Lifestyle/台灣海關報關制度與EZWAY.md",
+          "sourceCommitSha": "258412070",
+          "sourceContentHash": "sha256:bc80c48817ccc98d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T05:10:46.006901+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 50,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48162,18 +48184,16 @@
         "ja": {
           "path": "ja/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "598a5a547",
-          "sourceContentHash": "sha256:2021a6224e30bd5e",
-          "sourceBodyHash": "sha256:ab86534e207e2b33",
-          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:b47bd1e69ecf0593",
+          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
+          "translatedAt": "2026-09-20T00:52:35+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+26 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-grid-resilience.md",
@@ -71242,8 +71262,8 @@
           "sourceContentHash": "sha256:c15c81ec44174b35",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-20T03:03:56.464037+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "68ac62bd",
+          "translationLastModified": "2026-09-20T12:47:45+08:00",
           "inferred": false,
           "footnoteDefs": 63,
           "status": "fresh",
@@ -73159,18 +73179,16 @@
         "ar": {
           "path": "ar/Nature/taiwan-climate-change-net-zero-transition.md",
           "translatedFrom": "Nature/台灣氣候危機與淨零轉型.md",
-          "sourceCommitSha": "2da8b92f2",
-          "sourceContentHash": "sha256:387f185bb5291526",
-          "sourceBodyHash": "sha256:bdaf6e0f03c1164f",
-          "translatedAt": "2026-08-04T17:32:49.635126+00:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:e17f8ccac18bf65b",
+          "sourceBodyHash": "sha256:65e86904ae441416",
+          "translatedAt": "2026-09-20T05:05:21.044851+00:00",
           "translationLastCommit": "c3219c49",
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-climate-change-net-zero-transition.md",
