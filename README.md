@@ -98,25 +98,25 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📄 Total articles (zh-TW SSOT) | 1122  |
 | 🇹🇼 Chinese (zh-TW)             | 1122  |
 | 🇺🇸 English (en)                | 1108  |
-| 🇯🇵 日本語 (ja)                 | 1035  |
+| 🇯🇵 日本語 (ja)                 | 1038  |
 | 🇰🇷 한국어 (ko)                 | 1106  |
 | 🇪🇸 Español (es)                | 1104  |
 | 🇫🇷 Français (fr)               | 1105  |
 | 🇻🇳 Tiếng Việt (vi)             | 1107  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1014  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1017  |
 | 🇵🇹 Português (pt)              | 1077  |
-| 🇮🇳 हिन्दी (hi)                 | 1015  |
-| 🇸🇦 العربية (ar)                | 1054  |
-| 🇷🇺 Русский (ru)                | 1068  |
-| 🌐 Deutsch (de)                | 835   |
+| 🇮🇳 हिन्दी (hi)                 | 1019  |
+| 🇸🇦 العربية (ar)                | 1056  |
+| 🇷🇺 Русский (ru)                | 1069  |
+| 🌐 Deutsch (de)                | 839   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1185  |
 | 🍴 Forks                       | 186   |
-| 📅 Articles last 7 days        | 39    |
-| 📅 Articles last 30 days       | 135   |
+| 📅 Articles last 7 days        | 42    |
+| 📅 Articles last 30 days       | 138   |
 
 <!-- STATS:END -->
 

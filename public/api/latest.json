@@ -1,8 +1,35 @@
 {
-  "_generated": "2026-09-20T12:42:05.813Z",
+  "_generated": "2026-09-20T18:42:41.517Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "城市特色與區域文化",
+        "desc": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
+        "category": "geography",
+        "href": "/geography/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
+        "date": "2026-09-20T21:02:33+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣農業地景與產業分布",
+        "desc": "從北到南的農業地景變化，彰顯台灣從「台灣穀倉」到「精緻農業」的轉型之路",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E5%9C%B0%E6%99%AF%E8%88%87%E7%94%A2%E6%A5%AD%E5%88%86%E5%B8%83",
+        "date": "2026-09-20T21:01:56+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣河川系統與水文特色：短急流與季節變遷的水文地理",
+        "desc": "探索台灣獨特的河川系統，從濁水溪到高屏溪，了解島嶼地形如何塑造台灣的水文特色",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E6%B2%B3%E5%B7%9D%E7%B3%BB%E7%B5%B1%E8%88%87%E6%B0%B4%E6%96%87%E7%89%B9%E8%89%B2",
+        "date": "2026-09-20T21:01:39+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
       {
         "title": "台灣島嶼地理特色與形成",
         "desc": "探索台灣獨特的島嶼地理特色，從板塊運動到地形結構，了解福爾摩沙島的自然奧秘",
@@ -245,33 +272,6 @@
         "date": "2026-09-18T08:44:24+08:00",
         "readingTime": 22,
         "image": "/article-images/music/zhou-hui-yueding-mv-thumb-1999.webp"
-      },
-      {
-        "title": "台灣原住民當代藝術",
-        "desc": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93",
-        "date": "2026-09-18T02:54:30+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長",
-        "desc": "日治苗栗樟腦佔全台 95%，三義用煉樟樹頭起家做木雕。2002 年公館北河村辦了第一次桐花祭。2008 年劉政鴻接下 202 億負債的縣，2014 年離任時帳面 676 億。中間發生過朱馮敏喝農藥、張藥房強拆、客家圓樓 1.2 億蓋成蚊子館。今天 53 萬人住在這個 62.5% 客家比例全台第二高的縣裡。",
-        "category": "geography",
-        "href": "/geography/%E8%8B%97%E6%A0%97%E7%B8%A3",
-        "date": "2026-09-17T20:47:04+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/miaoli-tung-blossom-festival-2023.webp"
-      },
-      {
-        "title": "台灣市場文化：一座市場不只賣菜，也保存城市的記憶",
-        "desc": "從日治公設市場、戰後人口移動、建國市場遷建到台北市電子支付，理解台灣傳統市場如何同時承擔食物供應、庶民經濟、社區關係與城市記憶，並在安全、便利與人情之間尋找下一個位置。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E5%B8%82%E5%A0%B4%E6%96%87%E5%8C%96%E8%88%87%E5%82%B3%E7%B5%B1%E5%B8%82%E5%A0%B4",
-        "date": "2026-09-15T08:51:36+08:00",
-        "readingTime": 8,
-        "image": "/article-images/lifestyle/nanmen-market-2023.webp"
       }
     ],
     "en": [
@@ -982,8 +982,8 @@
         "image": ""
       },
       {
-        "title": "장중머우 (Morris Chang)",
-        "desc": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
+        "title": "장중머우 (Morris Chang): 반도체 교부, TSMC 창립자, 웨이퍼 파운드리 모델로 글로벌 기술 산업을 바꾼 전설적 기업가",
+        "desc": "반도체 교부이자 TSMC의 창업자인 장중머우는 전문 웨이퍼 파운드리 모델을 개척하여 글로벌 기술 생태계를 재편한 인물이다.",
         "category": "people",
         "href": "/ko/people/tsmc-morris-chang",
         "date": "2026-09-18T21:24:38+08:00",
@@ -1391,8 +1391,8 @@
         "image": ""
       },
       {
-        "title": "Morris Chang (Zhang Zhongmou)",
-        "desc": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
+        "title": "Chang Chung-mou (Morris Chang)",
+        "desc": "Père du semi-conducteur, fondateur de TSMC, entrepreneur légendaire qui a transformé l'industrie mondiale des technologies grâce au modèle de fabrication par lots",
         "category": "people",
         "href": "/fr/people/tsmc-morris-chang",
         "date": "2026-09-18T21:24:38+08:00",
@@ -2198,8 +2198,8 @@
         "image": ""
       },
       {
-        "title": "Morris Chang",
-        "desc": "Padrinho dos semicondutores, fundador da TSMC, o lendário empresário que transformou a indústria tecnológica global com o modelo de fundição de wafers",
+        "title": "Morris Chang (Zhang Zhongmou)",
+        "desc": "Patriarca do semicondutor, fundador da TSMC, empreendedor lendário que transformou a indústria global de tecnologia com o modelo de fabricação de wafers",
         "category": "people",
         "href": "/pt/people/tsmc-morris-chang",
         "date": "2026-09-18T21:24:38+08:00",
@@ -2578,8 +2578,8 @@
         "image": ""
       },
       {
-        "title": "मॉरिस चांग",
-        "desc": "अर्धचालक गुरु, TSMC के संस्थापक, वेफर फाउंड्री मॉडल से वैश्विक तकनीक उद्योग को बदलने वाले दिग्गज उद्यमी",
+        "title": "मॉरिस चांग (चियांग जोंग-मोउ): सेमीकंडक्टर के जनक, टीएसएमसी के संस्थापक; वह महान उद्यमी जिसने वेफर फैब्रिकेशन मॉडल से वैश्विक प्रौद्योगिकी उद्योग को बदला",
+        "desc": "वह दिग्गज उद्यमी जिन्होंने दुनिया की पहली पेशेवर वेफर फैब्रिकेशन कंपनी स्थापित की और एक व्यावसायिक मॉडल पेश किया जिससे वैश्विक तकनीकी पारिस्थितिकी तंत्र का पुनर्गठन हुआ।",
         "category": "people",
         "href": "/hi/people/tsmc-morris-chang",
         "date": "2026-09-18T21:24:38+08:00",
@@ -3041,8 +3041,8 @@
         "image": ""
       },
       {
-        "title": "Ма Иньцзю: доктор права Гарварда, ставший переводчиком с английского в офисе Чан Цзин-гуо, прослужил восемь лет президентом, закрепившимся образом «неподкупного» лидера, оставившим после себя наследие в отношениях двух берегов, движении «Подсолнух» и «22K»",
-        "desc": "7 ноября 2015 года в Сингапуре, в отеле «Шангри-Ла», он пожал руку Си Цзиньпину на 1 минуту 20 секунд — первая встреча высших лидеров двух берегов с 1949 года. Одну и ту же фотографию тайваньское общество до сих пор воспринимает двояко: одни видят исторический прорыв, другие — уступку суверенитету. Восьмилетний президентский мандат с образом «неподкупности», вопросы двух берегов, «22K» и движение «Подсолнух», а также повторный визит в Китай через десять лет после ухода с поста и заявление семьи 2026 года — до сих пор не имеют однозначной оценки",
+        "title": "Ма Иньцзю: доктор юридических наук из Гарварда перевёл тексты Чан Кэгуо в английский, восемь лет президентствовал под лозунгом «непорочности», оставивший след в делах приморского побережья, «солнечном цвете» и 22K",
+        "desc": "7 ноября 2015 года в Сингапуре, в отеле Шангри-Ла, он пожал руку Си Цзиньпиню на 1 минуту 20 секунд — впервые за 66 лет с 1949 года лидеры с обеих сторон приморского побережья встретились. На этом же снимке тайское общество до сих пор помнит это по-разному: кто-то видит исторический прорыв, кто-то — уступку субъектности. Его восемь лет президентства с «непорочным» обликом, приморские отношения, 22K и «солнечный цвет», а также десятилетие после ухода в Китай и заявление семьи в 2026 году до сих пор не вызывают однозначных оценок.",
         "category": "people",
         "href": "/ru/people/ma-ying-jeou-cross-strait-reconciliation-leader",
         "date": "2026-09-18T15:14:09+08:00",

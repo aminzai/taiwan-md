@@ -1,5 +1,18 @@
 [
   {
+    "title": ",",
+    "description": ",",
+    "category": "vi",
+    "tags": [
+      "and"
+    ],
+    "url": "https://taiwan.md/vi/people/hung-hsing-fu",
+    "readingTime": 94,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "vi/People/hung-hsing-fu.md"
+  },
+  {
     "title": "¿Adónde fue la clase de moral en Taiwán: una asignatura cancelada y una responsabilidad que nadie ha asumido en veinte años",
     "description": "Antes de 1993, cada estudiante de primaria en Taiwán cursaba semanalmente \"Moral y Salud\", y cada estudiante de secundaria cursaba \"Cívica y Moral\". El Currículo de Nueve Años Consecutivos eliminó ambas asignaturas, \"integrando\" la moral en los siete grandes dominios de aprendizaje. El resultado fue que, en las casi 60 páginas de la descripción del programa del dominio de Ciencias Sociales, apenas se mencionaba la palabra \"moral\"; el 78% de los docentes afirmó que lo que más debía reforzarse era la educación moral, pero ningún profesor de ninguna asignatura consideró que fuera su responsabilidad.",
     "category": "es",
@@ -6144,17 +6157,6 @@
     "path": "ja/Society/taiwan-teacher-discipline-dilemma.md"
   },
   {
-    "title": "台湾現代彫刻の発展",
-    "description": "楊英風、朱銘から新世代へ、台湾彫刻芸術の変遷の軌跡と創作精神を探る",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/art/development-of-contemporary-taiwanese-sculpture",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ja/Art/development-of-contemporary-taiwanese-sculpture.md"
-  },
-  {
     "title": "台湾現代詩",
     "description": "三つの書房から生まれたモダニズム実験が、いかにして最も郷土的な詩歌革命を偶然に生み出したか",
     "category": "ja",
@@ -6470,6 +6472,24 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Food/braised-pork-rice.md"
+  },
+  {
+    "title": "台湾燈會：移動する国家級祭典舞台",
+    "description": "台湾燈會は、1990年の台北元宵灯会を出発点とし、開催都市の交代、地域の創意、デジタル技術の導入を経て、民俗、芸術、観光、公共ガバナンスを融合させた国家的な祭典へと発展しました。これは単に夜間にメインライトを点灯させるだけでなく、各都市の景観、産業、交通、集合的想像力を台湾全土に提示し、大規模文化活動がいかに日常生活と協調するガバナンス課題を残したかを示しています。",
+    "category": "ja",
+    "tags": [
+      "台灣燈會",
+      "元宵節",
+      "主燈",
+      "祭典ガバナンス",
+      "都市文化",
+      "灯芸"
+    ],
+    "url": "https://taiwan.md/ja/culture/taiwan-lantern-festival",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-08-25",
+    "path": "ja/Culture/taiwan-lantern-festival.md"
   },
   {
     "title": "台湾麺食文化",
@@ -7058,12 +7078,12 @@
     "path": "ja/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
   },
   {
-    "title": "台湾の公式ウェブサイト資源",
-    "description": "Taiwan.mdの公式ウェブサイト資源は、台湾で最も包括的な公式および権威あるウェブサイト索引であり、政府機関、文化教育、観光旅行、科技経済、メディアニュースなどの各分野をカバーしています。総統府から地方政府、故宮から公共テレビまで、この総覧は分野別に台湾の第一線の公式入口を見つけ、各リソースの検証と使用方法を説明します。",
+    "title": "台湾の公式ウェブサイトリソース",
+    "description": "Taiwan.md の公式ウェブサイトリソースは、政府機関、文化教育、観光旅行、科学技術経済、メディアニュースなど、台湾における最も包括的な公的・権威あるウェブサイト索引です。大統領府から地方自治体、故宮博物院から公共放送に至るまで、この総覧は分野ごとに台湾の一次情報源となる公式入り口を見つけ出し、各リソースの検証方法と利用方法を説明しています。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/about/taiwan-official-resources",
-    "readingTime": 8,
+    "readingTime": 10,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/About/taiwan-official-resources.md"
@@ -7851,6 +7871,17 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "ja/Lifestyle/taiwan-education-system.md"
+  },
+  {
+    "title": "台湾の現代彫刻の発展",
+    "description": "楊英風（よう・えいふう）、朱銘（ちゅう・めい）から新世代まで、台湾の彫刻芸術の変遷軌跡と創作精神を探る",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/development-of-contemporary-taiwanese-sculpture",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ja/Art/development-of-contemporary-taiwanese-sculpture.md"
   },
   {
     "title": "台湾の現代アート",
@@ -10672,7 +10703,7 @@
       "水資源"
     ],
     "url": "https://taiwan.md/geography/%E5%8F%B0%E7%81%A3%E6%B2%B3%E5%B7%9D%E7%B3%BB%E7%B5%B1%E8%88%87%E6%B0%B4%E6%96%87%E7%89%B9%E8%89%B2",
-    "readingTime": 20,
+    "readingTime": 29,
     "featured": true,
     "date": "2026-03-18",
     "path": "Geography/台灣河川系統與水文特色.md"
@@ -12676,7 +12707,7 @@
       "地理"
     ],
     "url": "https://taiwan.md/geography/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E5%9C%B0%E6%99%AF%E8%88%87%E7%94%A2%E6%A5%AD%E5%88%86%E5%B8%83",
-    "readingTime": 13,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-18",
     "path": "Geography/台灣農業地景與產業分布.md"
@@ -19306,7 +19337,7 @@
       "文化地理"
     ],
     "url": "https://taiwan.md/geography/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
-    "readingTime": 24,
+    "readingTime": 29,
     "featured": true,
     "date": "2026-03-18",
     "path": "Geography/城市特色與區域文化.md"
@@ -26670,7 +26701,7 @@
   },
   {
     "title": "電力網のレジリエンス：停電後、誰が先に都市を復旧させるのか",
-    "description": "2017年8月15日と2022年3月3日の大規模停電は、台湾の電力網が発電量だけでなく、集中型ノード、運用手順、送配電設備、地域的な復旧能力において真に脆弱であることを示しました。電力は医療、交通、通信、産業の基盤であるため、レジリエンスとは単なる台電（台湾電力）の工学問題ではなく、停電後に都市全体がどう再始動するかという問題です。",
+    "description": "2017年8月15日と2022年3月3日の大停電は、台湾の電力網が脆弱なのは発電量だけではなく、集中型ノード、操作手順、送配電設備、そして地域的な復旧能力にあることを示しました。電力は医療、交通、通信、産業の基盤であるため、レジリエンスとは単に台電（台湾電力）の工学問題ではなく、停電後に都市全体がどう再始動するかという問題です。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/taiwan-grid-resilience",
@@ -26678,6 +26709,23 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "ja/Society/taiwan-grid-resilience.md"
+  },
+  {
+    "title": "電柱と変圧器：台湾が現代生活を街角に飾り、地域の記憶を描き出す様",
+    "description": "1905年の水力発電から今日の地下化や彩色された変圧器まで、電力設備はいかにして都市の基盤、災害リスク、そして地域的識別子となり得るのか。",
+    "category": "ja",
+    "tags": [
+      "電柱",
+      "変圧器",
+      "電線地中化",
+      "台湾の街並み",
+      "公共設備"
+    ],
+    "url": "https://taiwan.md/ja/lifestyle/utility-poles-and-transformer-boxes",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "ja/Lifestyle/utility-poles-and-transformer-boxes.md"
   },
   {
     "title": "電網韌性：停電之後，誰能先恢復城市",
@@ -33939,6 +33987,17 @@
     "path": "es/Society/learning-poverty-in-taiwan.md"
   },
   {
+    "title": "Ar-condicionado não é luxo: a pobreza energética em Taiwan e a governança pública da segurança térmica do ambiente doméstico",
+    "description": "A pobreza energética em Taiwan não se resume apenas à incapacidade de pagar a conta de luz: inclui morar em casas antigas com isolamento térmico deficiente, usar eletrodomésticos de alto consumo, ter medo de ligar o ar-condicionado e ser forçado a trocar saúde por contas que cabem no orçamento. A partir do cruzamento entre gastos energéticos, condições habitacionais e riscos de queimaduras por calor, o texto reconstrói o problema da pobreza energética em Taiwan e propõe diretrizes políticas centradas na segurança térmica do ambiente doméstico, diagnósticos domiciliares, transformações comunitárias e governança de dados, mostrando como a transição energética pode conciliar a dignidade e a segurança sanitária das famílias mais vulneráveis.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/energy-poverty-and-cooling",
+    "readingTime": 108,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "pt/Society/energy-poverty-and-cooling.md"
+  },
+  {
     "title": "Archipelagisches Denken: Taiwan auf der Landkarte der Nusantara zurückfinden",
     "description": "Taiwan ist keine isolierte Insel am Rande Chinas, sondern ein Nordostrand des Malaysischen Weltgebietes (Nusantara), die Ursprungsregion der Austronesier und ein Ausgangspunkt der pazifischen Expansion. Eine 30-Grad-Drehung nach Süden enthüllt ein ebenso gültiges, aber übersehenes Koordinatensystem.",
     "category": "de",
@@ -39389,6 +39448,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "es/People/chang-chung-jen-chung-i-twins.md"
+  },
+  {
+    "title": "Chang Chung-mou (Morris Chang)",
+    "description": "Père du semi-conducteur, fondateur de TSMC, entrepreneur légendaire qui a transformé l'industrie mondiale des technologies grâce au modèle de fabrication par lots",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/tsmc-morris-chang",
+    "readingTime": 149,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "fr/People/tsmc-morris-chang.md"
   },
   {
     "title": "Chang Chung-ren dan Chang Chung-yi: Baru Dimulai Setelah Tubuh Dipisahkan",
@@ -48532,6 +48602,17 @@
     "path": "de/Culture/port-of-kaohsiung.md"
   },
   {
+    "title": "Der himmelstrebende Tannenbaum von Da'an: Der höchste Baum Ostasiens, versteckt seit siebenhundert Jahren an unerreichbaren Orten",
+    "description": "Während des chinesischen Neujahrs 2023 suchte ein Team nach Bäumen sieben Tage lang in einem tiefen Tal am Ursprung des Da'an-Baches, das kaum jemand erreicht. Dort wurde mit einem Maßband von der Baumkrone einer Taiwan-Tanne gemessen – 84,1 Meter, der höchste Baum Ostasiens. Er ist 4,6 Meter höher als die Lasermessungen vorhergesagt hatten. Eine Insel, die jedes Jahr von Taifunen heimgesucht und durch Erdrutsche und Überschwemmungen bedroht ist, sollte eigentlich kein solches hohes Leben beherbergen; doch gerade weil er in einem unzugänglichen Bachbett wächst, hat er der großflächigen Abholzung entgangen und siebenhundert Jahre überdauert. Dieselbe „Unerreichbarkeit“ hat ihm geholfen zu überleben und uns erst ermöglicht, die gesamte Insel mit Laserscans abzubilden und ihn in diesem Jahr zum ersten Mal zu entdecken.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/nature/daan-river-yitian-sword",
+    "readingTime": 222,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "de/Nature/daan-river-yitian-sword.md"
+  },
+  {
     "title": "Der Hüter hinter dem Vorhang: Die Entwicklung der taiwanesischen Filmeinstufung von der „Filmprüfung“ zum fünfstufigen System",
     "description": "Das taiwanesische Einstufungssystem ist ein Bild der Geschichte, wie von der Inhaltskontrolle während der Militärherrschaft zur Kinder- und Jugendschutzrolle in der Demokratie gewechselt wurde. Von der Abschaffung des „Gesetzes über die Filmprüfung“ 1983, über die Schaffung der Schutzstufe durch den „Jurassic Park“-Streit 1993, bis zur vollständigen Einführung des fünfstufigen Systems 2026, dokumentiert dieser Artikel die langsame Entwicklung von der Zensur zur Information.",
     "category": "de",
@@ -48906,11 +48987,11 @@
   },
   {
     "title": "Desenvolvimento da Escultura Contemporânea de Taiwan",
-    "description": "De Yang Ying-feng e Ju Ming à nova geração, explore a trajetória evolutiva e o espírito criativo da arte escultórica de Taiwan",
+    "description": "De Yang Ying-feng e Ju Ming à nova geração, explorando a trajetória evolutiva e o espírito criativo da arte escultórica de Taiwan",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/development-of-contemporary-taiwanese-sculpture",
-    "readingTime": 110,
+    "readingTime": 125,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Art/development-of-contemporary-taiwanese-sculpture.md"
@@ -50408,12 +50489,12 @@
     "path": "de/People/tgop.md"
   },
   {
-    "title": "Điều hành công cộng về an toàn nhiệt và sự nghèo đói năng lượng tại Đài Loan: Điều hòa không phải là xa xỉ phẩm",
-    "description": "Nghèo đói năng lượng ở Đài Loan không chỉ thể hiện qua việc không chi trả được hóa đơn tiền điện, mà còn bao gồm việc sống trong các ngôi nhà cũ cách nhiệt kém, sử dụng thiết bị tiêu thụ nhiều năng lượng, sợ bật điều hòa, và buộc phải đánh đổi sức khỏe lấy hóa đơn có thể chi trả trong điều kiện nhiệt độ cao. Bài viết tái cấu trúc vấn đề nghèo đói năng lượng tại Đài Loan từ giao điểm của chi tiêu năng lượng, điều kiện nhà ở và tổn thương do nhiệt, đồng thời đề xuất định hướng chính sách tập trung vào an toàn nhiệt dân cư, chẩn đoán tận nơi, cải tạo cộng đồng và quản trị dữ liệu để cho thấy quá trình chuyển đổi năng lượng có thể đảm bảo phẩm giá sống và an toàn sức khỏe của các hộ gia đình yếu thế.",
+    "title": "Điều hành công cộng về an toàn nhiệt trong điều kiện nghèo năng lượng tại Đài Loan: Điều hòa không phải là xa xỉ phẩm",
+    "description": "Nghèo năng lượng ở Đài Loan không chỉ thể hiện việc không đủ tiền điện, mà còn bao gồm việc sống trong các ngôi nhà cũ cách nhiệt kém, sử dụng thiết bị tiêu thụ nhiều năng lượng, sợ bật điều hòa và buộc phải đánh đổi sức khỏe lấy hóa đơn thanh toán được. Bài viết tái cấu trúc vấn đề nghèo năng lượng dựa trên giao điểm giữa chi tiêu năng lượng, điều kiện nhà ở và tổn thương nhiệt, đồng thời đề xuất định hướng chính sách lấy an toàn nhiệt trong nhà ở, chẩn đoán tại chỗ, cải tạo cộng đồng và quản trị dữ liệu làm cốt lõi để minh họa cách chuyển đổi năng lượng vừa đảm bảo phẩm giá sống vừa đảm bảo an toàn sức khỏe cho các hộ gia đình yếu thế.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/energy-poverty-and-cooling",
-    "readingTime": 101,
+    "readingTime": 100,
     "featured": false,
     "date": "2026-08-16",
     "path": "vi/Society/energy-poverty-and-cooling.md"
@@ -51378,18 +51459,12 @@
     "path": "de/Food/sanxia-tea.md"
   },
   {
-    "title": "Droits humains et égalité des genres",
-    "description": "Le parcours progressif de Taïwan en matière de protection des droits humains et d'égalité des genres, des violations des droits humains sous le régime autoritaire à son rôle de pionnier des droits humains en Asie",
+    "title": "Droits de l'homme et égalité entre les sexes",
+    "description": "Le parcours de Taïwan dans le domaine des droits de l'homme et de l'égalité entre les sexes, des violations sous le régime autoritaire à la position de leader en matière de droits de l'homme en Asie",
     "category": "fr",
-    "tags": [
-      "Society",
-      "人權",
-      "性別平等",
-      "同性婚姻",
-      "轉型正義"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/society/human-rights-and-gender-equality",
-    "readingTime": 57,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/Society/human-rights-and-gender-equality.md"
@@ -55941,7 +56016,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/economy/taiwan-uniform-invoice",
-    "readingTime": 165,
+    "readingTime": 168,
     "featured": false,
     "date": "2026-05-01",
     "path": "pt/Economy/taiwan-uniform-invoice.md"
@@ -57740,7 +57815,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/music/pop-music-and-golden-melody-awards",
-    "readingTime": 162,
+    "readingTime": 164,
     "featured": false,
     "date": "2026-06-28",
     "path": "pt/Music/pop-music-and-golden-melody-awards.md"
@@ -60521,17 +60596,6 @@
     "path": "vi/People/hung-chieh-ni.md"
   },
   {
-    "title": "Hồng Tỉnh Phu: Ngôi sao văn học nông thôn sụp đổ sớm",
-    "description": "Sinh năm 1949 tại gia đình nông dân nghèo ở Nhị Lâm, Chương Hóa, Hồng Tỉnh Phu công bố tác phẩm đầu tiên lúc 18 tuổi, qua đời ở tuổi 33 vì tai nạn giao thông, để lại 15 năm sáng tác nông thôn với những tác phẩm kinh điển như \"Mặt đen của Kỷ Niệm\" và \"Đất Tôi\", được bạn văn chơi chữ gọi là \"Hồng Tỉnh Phu-xki\", trở thành tiếng nói không thể xóa nhòa của nông thôn Đài Loan thời hậu chiến.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/hung-hsing-fu",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-03-27",
-    "path": "vi/People/hung-hsing-fu.md"
-  },
-  {
     "title": "Hong Xingfu: Tokoh Agung Sastra Nativis yang Gugur Terlalu Dini",
     "description": "Lahir 1949 di keluarga miskin petani generasi turun-temurun di Erlin, Changhua, Hong Xingfu menerbitkan novel pertamanya pada usia 18 tahun, dan sebelum meninggal dunia akibat kecelakaan pada usia 33 tahun, ia menciptakan sastra nativis sebagai guru sekolah dasar, dalam 15 tahun menulis karya klasik seperti \"Heimian Qingzi\", \"Wu Tu\", \"San Xi\", menangkap wajah nyata transformasi pedesaan Taiwan dari pertanian ke industri-perdagangan, dijuluki teman-teman sastrawan \"Hong Xingfu-ski\", menjadi suara pedesaan tak terhapuskan dalam sastra pasca-perang Taiwan.",
     "category": "id",
@@ -62613,6 +62677,17 @@
     "path": "en/Geography/hukou-old-street.md"
   },
   {
+    "title": "Hukum Kesehatan: Empat Puluh Tahun Antara Norma Institusi dan Daya Tarik Pasar",
+    "description": "Hukum Kesehatan Taiwan diumumkan pada 1986, mengubah kewajiban pidana dokter pada 2017, dan memasukkan rasio perawat per pasien ke dalam hukum pada 2026. Hukum dapat menuliskan 'berapa tempat tidur yang bisa ditangani oleh satu perawat', namun tidak dapat menuliskan 'apakah perawat itu ada'—320.000 lisensi perawat, namun hanya tersisa 190.000 tangan klinis. Ini bukanlah hukum asuransi kesehatan, bukanlah hukum dokter, melainkan adalah landasan bagaimana 'rumah sakit' ini ada sebagai institusi, serta adalah pertarik yang belum terpecahkan selama empat puluh tahun antara sifat sukarela (publik) layanan kesehatan dan mekanisme pasar.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/medical-care-act",
+    "readingTime": 310,
+    "featured": false,
+    "date": "2026-05-10",
+    "path": "id/Society/medical-care-act.md"
+  },
+  {
     "title": "Human Rights and Gender Equality",
     "description": "Taiwan's progress in human rights protection and gender equality, from human rights violations under authoritarian rule to becoming a pioneer in human rights across Asia",
     "category": "en",
@@ -64527,7 +64602,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jensen-huang",
-    "readingTime": 102,
+    "readingTime": 104,
     "featured": true,
     "date": "2026-03-25",
     "path": "vi/People/jensen-huang.md"
@@ -65816,6 +65891,17 @@
     "path": "fr/Technology/justfont-and-taiwan-typography.md"
   },
   {
+    "title": "justfont und die Schriftentwicklung Taiwans: Ein Schriftdesign nach einem Tee aus Taiwan bringt die Schriftenmacher ins Rampenlicht",
+    "description": "Am 8. September 2015 wurde eine mit einem taiwanesischen Tee benannte Schriftart namens „Jin Xuan“ auf flyingV veröffentlicht, welche in 76 Minuten die Marke von 1,5 Millionen erreichte und letztendlich durch 7.667 Unterstützer 25,93 Millionen Dollar einsammelte. Die Menschen lasen sie täglich, doch der Markt war so klein, dass er keine Schriftentwicklungsfirma ernähren konnte. Von den dünnen Ming-Schriften von Huakang über die Bleistiftschrift in Taiyuan Road bis hin zu Lin Xia, die aus der Bildhauerei stammt – dies ist die Geschichte, wie Taiwan die Schriftenmacher ins Rampenlicht holte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/technology/justfont-and-taiwan-typography",
+    "readingTime": 212,
+    "featured": true,
+    "date": "2026-04-29",
+    "path": "de/Technology/justfont-and-taiwan-typography.md"
+  },
+  {
     "title": "justfont với phát triển nền font chữ Đài Loan: Dùng tên một loại trà Đài Loan, đưa những người sáng tạo font chữ lên nắng sáng",
     "description": "Vào ngày 8 tháng 9 năm 2015 buổi sáng, bộ font chữ được đặt tên theo trà Đài Loan \"Jin Xuan\" ra mắt trên nền tảng tài trợ cộng đồng flyingV, chạm đến mốc 1,5 triệu USD chỉ trong 76 phút, cuối cùng 7.667 người cùng tài trợ 25,930,099 USD. Cùng hàng triệu người hàng ngày đọc các ký tự trong font này, nhưng thị trường lúc đó nhỏ đến mức không thể nuôi được bất kỳ công ty thiết kế font chữ nào. Từ những font chữ chi tiết của Hua Kang ở Hoa Kinh, những gạch đá vôi trên đại lộ Tây Yên, đến Lin Hsiu-a, người từng thiết kế tranh Phật tích, đây là câu chuyện về cách Đài Loan đưa những người sáng tạo font chữ lên nắng sáng.",
     "category": "vi",
@@ -66878,12 +66964,12 @@
     "path": "id/Culture/taiwan-religion-and-temple-culture.md"
   },
   {
-    "title": "Khả năng phục hồi của lưới điện: Ai sẽ khôi phục thành phố trước sau khi mất điện?",
-    "description": "Hai sự cố mất điện lớn năm 2017 và 2022 đã cho Đài Loan thấy rằng điểm yếu thực sự của lưới điện không chỉ nằm ở công suất phát, mà còn ở các nút tập trung, quy trình vận hành, thiết bị truyền tải và khả năng phục hồi tại địa phương. Khi điện trở thành nền tảng chung của y tế, giao thông, viễn thông và công nghiệp, tính đàn hồi không chỉ là vấn đề kỹ thuật của Đài Điện, mà là cách cả một thành phố bắt đầu lại sau khi mất điện.",
+    "title": "Khả năng phục hồi của lưới điện: Sau khi mất điện, ai có thể khôi phục thành phố trước?",
+    "description": "Hai vụ mất điện lớn năm 2017 và 2022 đã cho Đài Loan thấy sự mong manh thực sự của lưới điện không chỉ nằm ở sản lượng phát điện mà còn ở các nút tập trung, quy trình vận hành, thiết bị truyền tải và năng lực phục hồi tại địa phương. Khi điện trở thành nền tảng chung cho y tế, giao thông, viễn thông và công nghiệp, khả năng phục hồi không chỉ là vấn đề kỹ thuật của Đài Điện (Taipower) mà còn là cách cả một thành phố bắt đầu lại sau khi mất điện.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/taiwan-grid-resilience",
-    "readingTime": 110,
+    "readingTime": 112,
     "featured": false,
     "date": "2026-08-15",
     "path": "vi/Society/taiwan-grid-resilience.md"
@@ -68794,7 +68880,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/taiwan-higher-education-expansion-and-decline",
-    "readingTime": 182,
+    "readingTime": 184,
     "featured": false,
     "date": "2026-04-25",
     "path": "fr/Society/taiwan-higher-education-expansion-and-decline.md"
@@ -82036,17 +82122,6 @@
     "path": "de/History/typhoon-morakot.md"
   },
   {
-    "title": "Morris Chang",
-    "description": "Padrinho dos semicondutores, fundador da TSMC, o lendário empresário que transformou a indústria tecnológica global com o modelo de fundição de wafers",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/tsmc-morris-chang",
-    "readingTime": 131,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "pt/People/tsmc-morris-chang.md"
-  },
-  {
     "title": "Morris Chang (張忠謀)",
     "description": "El padrino de los semiconductores y fundador de TSMC, un empresario legendario que transformó la industria tecnológica mundial mediante el modelo de fundición de semiconductores.",
     "category": "es",
@@ -82081,14 +82156,14 @@
   },
   {
     "title": "Morris Chang (Zhang Zhongmou)",
-    "description": "Le parrain des semi-conducteurs, fondateur de TSMC, entrepreneur légendaire ayant transformé l'industrie technologique mondiale grâce au modèle de la fonderie de wafers.",
-    "category": "fr",
+    "description": "Patriarca do semicondutor, fundador da TSMC, empreendedor lendário que transformou a indústria global de tecnologia com o modelo de fabricação de wafers",
+    "category": "pt",
     "tags": [],
-    "url": "https://taiwan.md/fr/people/tsmc-morris-chang",
-    "readingTime": 149,
+    "url": "https://taiwan.md/pt/people/tsmc-morris-chang",
+    "readingTime": 141,
     "featured": true,
     "date": "2026-03-17",
-    "path": "fr/People/tsmc-morris-chang.md"
+    "path": "pt/People/tsmc-morris-chang.md"
   },
   {
     "title": "Morris Chang vs. Chang Hsin-cheng: From Semiconductor Tycoon to the \"Eight-No Hermit\" Defending Taiwan",
@@ -82190,6 +82265,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Society/social-movements-and-civic-participation.md"
+  },
+  {
+    "title": "Movimento das Placas Tectónicas e Atividade Sísmica em Taiwan",
+    "description": "Explora as características geológicas de Taiwan na fronteira de convergência entre a Placa Eurasiática e a Placa do Mar das Filipinas, bem como as causas da sua frequente atividade sísmica",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/tectonic-plates-and-seismic-activity",
+    "readingTime": 64,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "pt/Geography/tectonic-plates-and-seismic-activity.md"
   },
   {
     "title": "Movimento de Petição para a Instalação do Parlamento de Taiwan: Uma Petição, Quatorze Anos a Levar a Autonomia à Vida Pública",
@@ -85630,17 +85716,6 @@
     "path": "id/Society/taiwan-low-birth-rate-crisis.md"
   },
   {
-    "title": "O ar condicionado não é artigo de luxo: a pobreza energética de Taiwan e a governação pública da segurança térmica habitacional",
-    "description": "A pobreza energética de Taiwan não significa apenas não conseguir pagar a conta de luz; inclui também viver em casas antigas com isolamento deficiente, usar eletrodomésticos de alto consumo, ter medo de ligar o ar condicionado e ser forçado a trocar saúde por contas pagáveis no calor extremo. Este artigo reconstrói o problema da pobreza energética de Taiwan a partir da intersecção entre gastos com energia, condições habitacionais e danos pelo calor, e propõe direções políticas centradas na segurança térmica habitacional, diagnósticos domiciliares, transformação comunitária e governação de dados, explicando como a transição energética pode conciliar a dignidade de vida e a segurança sanitária das famílias vulneráveis.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/energy-poverty-and-cooling",
-    "readingTime": 106,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "pt/Society/energy-poverty-and-cooling.md"
-  },
-  {
     "title": "O bento da TRA: como um pedaço de costela transformou uma longa viagem na memória coletiva dos taiwaneses",
     "description": "Venda em plataformas em 1914, o trem expresso sem carro-restaurante em 1956, a costela frita e depois cozida em molho em 1961, e a volta das filas para a marmita redonda em 2000: como uma refeição nascida para a mobilidade, entre velocidade, conservação, sabores locais e mãos de artesãos, tornou-se o gosto com que os taiwaneses reconhecem a viagem e a terra natal.",
     "category": "pt",
@@ -85920,17 +85995,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "pt/History/taiwan-womens-movement.md"
-  },
-  {
-    "title": "O Movimento das Placas Tectónicas e a Atividade Sísmica de Taiwan",
-    "description": "Explora as características geológicas de Taiwan na fronteira entre a Placa Euroasiática e a Placa do Mar das Filipinas, bem como as causas da sua frequente atividade sísmica",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/geography/tectonic-plates-and-seismic-activity",
-    "readingTime": 62,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "pt/Geography/tectonic-plates-and-seismic-activity.md"
   },
   {
     "title": "O nascimento de um professor: quarenta anos de reforma e colapso do sistema de formação docente de Taiwan",
@@ -88814,6 +88878,17 @@
     "path": "id/Economy/taiwan-fintech-development.md"
   },
   {
+    "title": "Perkembangan Hip-Hop dan Rap Taiwan: Bahasa Mandarin Tak Mampu Rap, Dialek Taiwan Tak Layak Dipamerkan, Bukan Slum, Mereka Mengubah Tiga Kelemahan Menjadi Suara Kedaulatan yang Unik",
+    "description": "Pada tahun 2004, dua tahun setelah Song Yue-ting pergi, ibunya dan adiknya naik panggung untuk menerima penghargaan lirik terbaik di Golden Melody. Rima ganda dalam lagu 'Life's a Struggle' mendorong prasangka bahwa 'Bahasa Mandarin tidak cocok untuk rap'. Dari era bawah tanah yang belajar dari album impor satu per satu, hingga Leo Wang dan Hot Dog secara berurutan memenangkan Raja Lagu Rap, Taiwan telah menempuh perjalanan selama dua puluh tahun. Namun, hal yang paling menarik dari pulau ini bukanlah kemiripannya dengan Amerika, melainkan bagaimana ia mengubah tiga kelemahan bawaan—nada bahasa Mandarin, aksen dialek Taiwan, dan bukan kelompok miskin—menjadi suara kedaulatan yang beragam dan hanya bisa dinyanyikan di sini.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/taiwan-hip-hop-and-rap",
+    "readingTime": 250,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Music/taiwan-hip-hop-and-rap.md"
+  },
+  {
     "title": "Perkembangan Industri Antariksa Taiwan: Negara Pembuat Satelit, Tanpa Roket Sendiri",
     "description": "Taiwan setiap tahun merakit komponen elektronik senilai miliaran dolar untuk dunia, namun baru meluncurkan satelit resolusi sub-meter pertama pada 2025—sebuah kisah tentang kemandirian teknologi, realitas internasional, dan mimpi antariksa komersial.",
     "category": "id",
@@ -89563,17 +89638,6 @@
     "path": "vi/Music/taiwan-campus-folk-song-movement.md"
   },
   {
-    "title": "Phong trào đặt lại tên gọi cho dân tộc bản địa: Từ «người dân núi» đến chủ thể tập thể trong hiến pháp",
-    "description": "Phong trào đặt lại tên gọi cho dân tộc bản địa vào những năm 1990, bề nổi bề này chỉ là thay đổi một cách gọi, mà thực chất đòi hỏi nhà nước công nhận ai có quyền đặt tên, ai có thể làm chủ thể chính trị, và quyền sở hữu đất cũng như tự quyết của nhóm nào phải được nhận diện bởi hệ thống pháp lý. Từ ngày 29 tháng 12 năm 1984 khi tổ chức Quyền lợi Dân tộc Bản địa được thành lập, cho tới các cuộc biểu tình sửa đổi hiến pháp vào năm 1991 và 1992, cho tới khi từ năm 1994 «dân tộc bản địa» và năm 1997 «dân tộc bản địa» được ghi vào hiến pháp, toàn bộ tiến trình này được thúc đẩy bởi các tổ chức bản địa, giáo hội, đại biểu quốc gia và các hoạt động chính trị bên ngoài hệ thống, đồng thời dấu lại quy trình đàm phán kéo dài giữa các bên.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/politics/indigenous-name-rectification",
-    "readingTime": 115,
-    "featured": false,
-    "date": "2026-08-20",
-    "path": "vi/Politics/indigenous-name-rectification.md"
-  },
-  {
     "title": "Phong trào Hoa Hướng Dương — Mười hai năm sau ba mươi giây đó",
     "description": "Một đại biểu lập pháp nằm dưới đất đọc ba mươi giây qua microphone cổ áo, khiến việc chiếm đóng Viện Lập pháp kéo dài hai mươi bốn ngày, thức tỉnh chính trị của cả một thế hệ, và trở thành điểm khởi đầu của sự chuyển hướng kinh tế Đài Loan từ Trung Quốc. Mười hai năm sau, luật lệ mà học sinh yêu cầu chưa được thông qua, nhưng họ đã thắng một trận chiến mà họ không biết mình đang chiến đấu.",
     "category": "vi",
@@ -89594,6 +89658,17 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "vi/History/taiwan-womens-movement.md"
+  },
+  {
+    "title": "Phong trào Tái định danh Người bản địa: Từ \"Sơn bào\" đến Chủ thể tập thể trong Hiến pháp",
+    "description": "Phong trào tái định danh người bản địa vào những năm 1990, bề ngoài là thay đổi một tên gọi, nhưng thực chất đòi hỏi sự công nhận của quốc gia về quyền đặt tên, khả năng trở thành chủ thể chính trị và quyền đất đai tự trị cần được hệ thống nhìn nhận.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/politics/indigenous-name-rectification",
+    "readingTime": 107,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "vi/Politics/indigenous-name-rectification.md"
   },
   {
     "title": "Phong trào xã hội Đài Loan thời kỳ Nhật trị",
@@ -91316,7 +91391,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/pts-public-television-service",
-    "readingTime": 148,
+    "readingTime": 150,
     "featured": false,
     "date": "2026-05-27",
     "path": "en/Society/pts-public-television-service.md"
@@ -92564,12 +92639,12 @@
     "path": "pt/About/taiwan-official-resources-revisit.md"
   },
   {
-    "title": "Recursos de Sites Oficiais de Taiwan",
-    "description": "Os Recursos de Sites Oficiais do Taiwan.md são o índice mais completo de sites oficiais e autoritativos de Taiwan, abrangendo instituições governamentais, cultura e educação, turismo, tecnologia e economia, mídia e notícias, entre outros domínios. Do Palácio Presidencial aos governos locais, do Museu do Palácio Nacional à PTS, esta visão geral guia você por domínio aos portais oficiais de primeira mão de Taiwan e explica como verificar e usar cada tipo de recurso.",
+    "title": "Recursos de sites oficiais de Taiwan",
+    "description": "Os recursos de sites oficiais do Taiwan.md são o índice mais completo de sites oficiais e autoritativos de Taiwan, abrangendo instituições governamentais, cultura e educação, turismo, tecnologia e economia, mídia e notícias. Do Palácio Presidencial aos governos locais, do Museu do Palácio Nacional à PTS, esta visão geral leva você a encontrar as entradas oficiais de primeira mão de Taiwan por área, e explica os métodos de verificação e uso de cada tipo de recurso.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/about/taiwan-official-resources",
-    "readingTime": 26,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/About/taiwan-official-resources.md"
@@ -93046,11 +93121,11 @@
   },
   {
     "title": "Resiliência da rede elétrica: após o apagão, quem consegue restaurar a cidade primeiro",
-    "description": "Os grandes apagões de 815 em 2017 e 303 em 2022 revelaram que a verdadeira fragilidade da rede de Taiwan não está apenas na geração, mas em nós centralizados, procedimentos operacionais, equipamentos de transmissão e distribuição e capacidade de recuperação local. Quando a eletricidade se torna a base comum de saúde, transporte, comunicações e indústria, a resiliência deixa de ser apenas um problema de engenharia da Taipower e passa a ser a questão de como uma cidade inteira recomeça após perder a energia.",
+    "description": "Os grandes apagões de 815 em 2017 e 303 em 2022 revelaram que a verdadeira fragilidade da rede elétrica de Taiwan não reside apenas na capacidade de geração, mas em nós centralizados, procedimentos operacionais, equipamentos de transmissão e distribuição e na capacidade de recuperação local. Quando a eletricidade se torna a base comum de saúde, transporte, comunicações e indústria, a resiliência deixa de ser apenas um problema de engenharia da Taipower e passa a ser a questão de como uma cidade inteira recomeça após perder energia.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/taiwan-grid-resilience",
-    "readingTime": 110,
+    "readingTime": 115,
     "featured": false,
     "date": "2026-08-15",
     "path": "pt/Society/taiwan-grid-resilience.md"
@@ -97434,17 +97509,6 @@
     "path": "vi/Society/taiwan-higher-education-expansion-and-decline.md"
   },
   {
-    "title": "Sự phát triển của điêu khắc đương đại Đài Loan",
-    "description": "Từ Dương Anh Phong, Chu Ming đến thế hệ mới, khám phá quỹ đạo tiến hóa và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/art/development-of-contemporary-taiwanese-sculpture",
-    "readingTime": 108,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "vi/Art/development-of-contemporary-taiwanese-sculpture.md"
-  },
-  {
     "title": "Sự phát triển của nhạc đường tiếng Đài Loan: Từ \"bài hát cho người già\" đến \"mối tình mới của giới trẻ thơ\"",
     "description": "Theo dõi sự biến đổi của nhạc đường tiếng Đài Loan từ thời đại Nakashi, Hong Yi Feng, Jody Chiang cho đến các ban nhạc thế hệ mới như Eggplant Egg, Sorry Youth và Collage, khám phá cách âm nhạc tiếng Đài Loan tìm lại sự công nhận của giới trẻ",
     "category": "vi",
@@ -97454,6 +97518,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "vi/Music/taiwanese-hokkien-song-evolution.md"
+  },
+  {
+    "title": "Sự phát triển điêu khắc đương đại tại Đài Loan",
+    "description": "Khám phá quỹ đạo tiến hóa và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan, từ Dương Anh Phong, Chu Minh đến thế hệ mới",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/art/development-of-contemporary-taiwanese-sculpture",
+    "readingTime": 119,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Art/development-of-contemporary-taiwanese-sculpture.md"
   },
   {
     "title": "Sự phát triển ngành công nghiệp âm thanh Đài Loan",
@@ -99661,6 +99736,17 @@
     "path": "en/Society/taiwan-defense-modernization.md"
   },
   {
+    "title": "Taiwan Design Institute: Die Institution, die Design heimlich in Gesundheitszentren und Wahlscheine einbaut",
+    "description": "Nach der Renovierung des Ticketbereichs am Zhongshan Bahnhof der Taipei Metro im Jahr 2022 kommentierte jemand: „Es ist gut gemacht, macht es nicht mehr.“ Eine Organisation, die durch den Golden Point Award, Messen mit Millionen von Besuchern und internationale Rankings überlebt hat, setzt ihr größtes Einsatzgebiet dort – in Wartebereichen von Gesundheitszentren in Xizhi oder in der Schriftart auf Ihrem Wahlzettel, wo Sie „keine Empfindung“ haben. Das Taiwan Design Institute möchte beweisen, dass diese Fertigungsinsel selbst bestimmen kann, wie Dinge aussehen, einschließlich der Art und Weise, wie die Regierung mit den Menschen umgeht – von dem Ruf „Made in Taiwan ist ein Synonym für Imitationen“ hin zu „Designkraft ist nationale Stärke“.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/taiwan-design-research-institute",
+    "readingTime": 157,
+    "featured": false,
+    "date": "2026-06-04",
+    "path": "de/Society/taiwan-design-research-institute.md"
+  },
+  {
     "title": "Taiwan Design Institute: The Organization That Secretly Puts Design into Clinics and Ballots",
     "description": "In 2022, after the renovation of the ticket area at Taipei Metro Zhongshan Station, someone commented, \"It was done well; don''t do it again.\" An organization that survives on Gold Point Awards, million-visitor design exhibitions, and international rankings places its biggest bets in areas you might not feel—the waiting areas of clinics in Xizhi, or the typeface on your ballot. The Taiwan Design Institute aims to prove that this manufacturing island can decide what things look like for itself, including how the government interacts with the people, moving from \"Made in Taiwan is a synonym for imitation\" to \"design power is national strength.\"",
     "category": "en",
@@ -101301,6 +101387,17 @@
     "path": "de/Lifestyle/taiwan-youbike-and-micromobility-revolution.md"
   },
   {
+    "title": "Taiwan Zollanmeldung und EZ WAY: Mit dem Klick auf „Anmeldung übereinstimmt“ haben Sie jemanden bevollmächtigt",
+    "description": "Das Handy vibriert, eine Reihe von kaum verständlichen Artikelbezeichnungen erscheint in der Push-Nachricht, und wenn Sie „Anmeldung übereinstimmt“ drücken, vollziehen Sie rechtlich gesehen einen Zollanmeldeauftrag. 7,59 Millionen Menschen auf Taiwan haben diese App registriert. Nach einem Beitrag im August 2026, bei dem viele zum ersten Mal nachfragten, wer sie betreibt: Die Finanzverwaltung hält 36,11 %, und die staatseigene Guanmao Network nicht mehr die Mehrheit. Gleichzeitig wird der Freigrenzwert von 2.000 NTD zum zweiten Mal gesenkt. Wer hat für diesen einfachen Weg bezahlt, und wer konnte vom Anfang bis zum Ende nichts sagen?",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/lifestyle/ezway",
+    "readingTime": 198,
+    "featured": true,
+    "date": "2026-08-04",
+    "path": "de/Lifestyle/ezway.md"
+  },
+  {
     "title": "Taiwan-Bank: E.Sun Financial Holding – die Bank des professionellen Managements von Huang Yong-jen",
     "description": "E.Sun Financial Holding wurde 1992 von Huang Yong-jen gegründet und ist ein Vertreter der ersten Welle neuer Banken nach der Aufhebung der Martial Law in Taiwan, die nicht an große Konzerne gebunden war. Huang Nan-chou übernahm 2023 die Vorstandsvorsitzende Position vom Gründer Huang Yong-jen. Mit einer Vermögensgröße von 2,8 Billionen TWD im Jahr 2024 ist E.Sun eine der drei größten privaten Finanzholding-Unternehmen in Taiwan und hat sich einen einzigartigen Weg von professionellem Bankwesen zu digitaler Innovation eingeschlagen.",
     "category": "de",
@@ -102848,12 +102945,12 @@
     "path": "en/Society/taiwan-marriage-equality-lgbtq-rights.md"
   },
   {
-    "title": "Taiwan's Mascots: From Datong Baby Merchandise to Global Local Icons",
-    "description": "From the 1969 Datong Baby, Oh Bear and Xiongzan, to Kaohsiung MRT's Maolimiao, Tiger Duck, Timeng, and Caiqi Duck, how have Taiwanese mascots carried local memory, transportation scenes, campus identity, soccer emotion, and corporate IP; the real test of a character is whether it can leave the standee and enter people's lives.",
+    "title": "Taiwan's Mascots: From Datong Baby Gifts to Global Local Characters",
+    "description": "The arrival of the Datong Baby in living rooms in 1969, the fervor ignited by the professional baseball mascots in 1990; later, Oh Bear, Xiongzan, Fish Head Boy, and Caiqi Duck brought tourism, urban governance, sports, and local cuisine onto one stage. The true test for all Taiwanese public sector bears is not how cute they look, but whether they can move beyond billboards and one-off events to perform concrete tasks for a locality.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/mascot-culture-in-taiwan",
-    "readingTime": 117,
+    "readingTime": 138,
     "featured": false,
     "date": "2026-04-21",
     "path": "en/Lifestyle/mascot-culture-in-taiwan.md"
@@ -106152,7 +106249,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/pts-public-television-service",
-    "readingTime": 143,
+    "readingTime": 146,
     "featured": false,
     "date": "2026-05-27",
     "path": "pt/Society/pts-public-television-service.md"
@@ -115013,12 +115110,12 @@
     "path": "en/Society/where-did-taiwan-moral-education-go.md"
   },
   {
-    "title": "Why Taiwan Needs Its Own Knowledge Base",
-    "description": "When AI models speak in human language telling stories written by others, how can Taiwanese ensure their own stories aren't rewritten?",
+    "title": "Why Taiwan Needs Its Own Knowledge Base: The Greatest Danger AI Poses to Taiwan Is Not Getting It Wrong, but Saying Nothing at All",
+    "description": "In May 2026, a Taiwan open-source project used a free AI to translate a profile of singer Chang Hsien into Japanese, and got back only: \"Hello, I can''t provide relevant content.\" AI doesn''t produce knowledge—it regurgitates the largest, best-structured, clearest-licensed version on the web, and that version is increasingly not written by Taiwanese. Even Academia Sinica''s own model once answered \"My country''s leader is Xi Jinping.\" The real threat isn''t that Taiwan''s data is stolen—or even tampered with—it''s being silenced: the blank space you never notice. Taiwan needs a public, auditable, multilingual, indelible version, even if openness itself comes at a cost.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/about/why-taiwan-needs-its-own-knowledge-base",
-    "readingTime": 30,
+    "readingTime": 159,
     "featured": false,
     "date": "2026-07-17",
     "path": "en/About/why-taiwan-needs-its-own-knowledge-base.md"
@@ -115635,7 +115732,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/wu-ming-yi",
-    "readingTime": 144,
+    "readingTime": 146,
     "featured": true,
     "date": "2026-07-28",
     "path": "es/People/wu-ming-yi.md"
@@ -116318,6 +116415,17 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "vi/Geography/ximending.md"
+  },
+  {
+    "title": "Ximending: Jalan Hiburan yang Dibangun oleh Orang Jepang pada Tahun 1896, Masih Menjadi Jalan Termuda di Taipei Setelah 130 Tahun",
+    "description": "Pada Desember 1908, Ximen Honglou dibuka dengan desain Juro Kondō. Pasar bata dari Gua Bagua dan Gedung Salib adalah 'Asakusa' yang diberikan Kekaisaran Jepang kepada Taipei. Tiga puluh tahun kemudian, orang Jepang pergi, dan pada tahun 1961, Zhonghua Market dibangun sepanjang jalur kereta api. Pada tahun 1992, itu dibongkar bersama relnya. Pada tahun 1999, area pejalan kaki ditetapkan, dan Jalur Banan dibuka, menjadikan Ximending ruang tamu terbuka bagi kaum muda Taipei. Dari kota kolonial, zona hiburan era Jepang, jalan film pasca-perang, MTV masa darurat militer, hingga skateboard hip hop pasca-pencabutan larangan, dan bar gay serta Cosplay pada tahun 2026—di bawah Gua Bagua yang sama, lima generasi kaum muda telah berganti.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/ximending",
+    "readingTime": 211,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "id/Geography/ximending.md"
   },
   {
     "title": "Ximending: la calle de entretenimiento que los japoneses construyeron en 1896 y que, 130 años después, sigue siendo la calle más joven de Taipéi",
@@ -119186,6 +119294,17 @@
     "path": "ru/Food/ba-wan-meatball.md"
   },
   {
+    "title": "Бадд-трі?te: студентка медичного факультета, девять лет обучения — год перерыва в обучении",
+    "description": "21 августа 2021 года, надев черную шляпу и солнцезащитные очки, Бадд-трі?te вышла на сцену, чтобы принять премию «Лучший новый исполнитель» 32-й церемонии «Золотой музыкальной награды». Она сказала в камеру: «Не бойтесь». Её настоящее имя — Линь Чжи И, она из Хсинчжу, Хсинчжу женская средняя школа, она девять лет училась на медицинском факультете Академии обороны, включая один год перерыва в обучении во время третьего курса и один год продления обучения (два года практики, не проходя три года клинического обучения). Она завершила обучение интерн-резидентуре, получила степень врача, и в день награждения днём работала в операционной в маске, как стажёр-врач. Год, когда она остановилась на самой конкурентной академической дорожке Тайваня.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/huai-te-indie-singer",
+    "readingTime": 179,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "ru/People/huai-te-indie-singer.md"
+  },
+  {
     "title": "Бай Сяньюн: «Тайбэйцы» 1971 — двадцатилетний тур «Молодёжной версии «Павильона пионов»»",
     "description": "Родился в 1937 году в Гуйлине (Гуанси), сын Бай Чуньси. В 1956 году поступил на факультет иностранных языков Тайваньского университета, вместе с Ваном Вэньсином и др. основал журнал «Современная литература». В 1971 году — сборник 14 рассказов «Тайбэйцы»; 1983 — «Проклятые дети». В 2003 году запустил проект «Молодёжная версия «Павильона пионов»», премьера в апреле 2004 года, в 2024 году — 20-летие. В 2003 году получил Национальную премию литературы и искусства.",
     "category": "ru",
@@ -121811,14 +121930,14 @@
     "path": "ru/Food/taiwan-rice-cuisine-culture.md"
   },
   {
-    "title": "Культура рынков Тайваня и традиционные рынки",
-    "description": "Из отражения повседневной жизни простого народа видим гибкость и трансформацию общества Тайваня",
+    "title": "Культура рынков Тайваня: один рынок продаёт не только овощи, но и сохраняет память города",
+    "description": "От публичного рынка эпохи Японского управления, миграций послевоенного времени и рынка Жандин до электронных платежей в Тайбее — понимание того, как традиционные рынцы Тайваня одновременно обеспечивают продовольственное снабжение, народную экономику, сообщество и городскую память, ищут своё место между безопасностью, удобством и человеческими связями.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/taiwan-traditional-markets-and-market-culture",
-    "readingTime": 51,
+    "readingTime": 62,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-09-13",
     "path": "ru/Lifestyle/taiwan-traditional-markets-and-market-culture.md"
   },
   {
@@ -122739,12 +122858,12 @@
     "path": "ru/People/liao-chiung-chih.md"
   },
   {
-    "title": "Ма Иньцзю: доктор права Гарварда, ставший переводчиком с английского в офисе Чан Цзин-гуо, прослужил восемь лет президентом, закрепившимся образом «неподкупного» лидера, оставившим после себя наследие в отношениях двух берегов, движении «Подсолнух» и «22K»",
-    "description": "7 ноября 2015 года в Сингапуре, в отеле «Шангри-Ла», он пожал руку Си Цзиньпину на 1 минуту 20 секунд — первая встреча высших лидеров двух берегов с 1949 года. Одну и ту же фотографию тайваньское общество до сих пор воспринимает двояко: одни видят исторический прорыв, другие — уступку суверенитету. Восьмилетний президентский мандат с образом «неподкупности», вопросы двух берегов, «22K» и движение «Подсолнух», а также повторный визит в Китай через десять лет после ухода с поста и заявление семьи 2026 года — до сих пор не имеют однозначной оценки",
+    "title": "Ма Иньцзю: доктор юридических наук из Гарварда перевёл тексты Чан Кэгуо в английский, восемь лет президентствовал под лозунгом «непорочности», оставивший след в делах приморского побережья, «солнечном цвете» и 22K",
+    "description": "7 ноября 2015 года в Сингапуре, в отеле Шангри-Ла, он пожал руку Си Цзиньпиню на 1 минуту 20 секунд — впервые за 66 лет с 1949 года лидеры с обеих сторон приморского побережья встретились. На этом же снимке тайское общество до сих пор помнит это по-разному: кто-то видит исторический прорыв, кто-то — уступку субъектности. Его восемь лет президентства с «непорочным» обликом, приморские отношения, 22K и «солнечный цвет», а также десятилетие после ухода в Китай и заявление семьи в 2026 году до сих пор не вызывают однозначных оценок.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/people/ma-ying-jeou-cross-strait-reconciliation-leader",
-    "readingTime": 204,
+    "readingTime": 207,
     "featured": false,
     "date": "2026-03-30",
     "path": "ru/People/ma-ying-jeou-cross-strait-reconciliation-leader.md"
@@ -123746,6 +123865,17 @@
     "path": "ru/Technology/open-culture-foundation.md"
   },
   {
+    "title": "Официальные веб-ресурсы Тайваня",
+    "description": "Официальные веб-ресурсы Taiwan.md — самый полный индекс официальных и авторитетных веб-сайтов Тайваня, охватывающий государственные учреждения, культуру и образование, туризм, науку и экономику, СМИ и новости. От Президентского дворца до местных правительств, от Музея Гугун до ПТС — этот обзор поможет найти первоисточники по категориям и объясняет способы проверки и использования каждого типа ресурсов.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/about/taiwan-official-resources",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ru/About/taiwan-official-resources.md"
+  },
+  {
     "title": "Па Цзюн: от таруко-молодёжи Хуаляня к «подслушивателю», за голову которого ККП назначила миллион",
     "description": "В ноябре 2025 года Цюаньчжоуское управление общественной безопасности провинции Фуцзянь опубликовало розыскное объявление с наградой в отношении тайваньского блогера Па Цзюня. Этот молодой человек из таруко (одной из коренных национальностей Тайваня), начавший путь в Синьчэньском селе Хуаляня и когда-то награждённый за туристические видео, за всего шесть лет превратился из местного креатора в «наёмника за независимость Тайваня» по версии Бюро по делам Тайваня, а на международной арене продолжает разоблачать внутреннюю кухню работы объединённого фрона ККП.",
     "category": "ru",
@@ -124505,11 +124635,11 @@
   },
   {
     "title": "Развитие современной скульптуры Тайваня",
-    "description": "От Ян Инфэн и Чжу Мин до нового поколения: исследуем эволюционный путь и творческий дух тайваньского скульптурного искусства",
+    "description": "От Ян Юньфэнь и Чжу Минь до нового поколения: исследование эволюции и творческого духа тайваньского скульптурного искусства",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/art/development-of-contemporary-taiwanese-sculpture",
-    "readingTime": 106,
+    "readingTime": 122,
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Art/development-of-contemporary-taiwanese-sculpture.md"
@@ -124623,17 +124753,6 @@
     "featured": true,
     "date": "2026-04-29",
     "path": "ru/Society/the-reporter-investigative-journalism.md"
-  },
-  {
-    "title": "Ресурсы официальных веб-сайтов Тайваня",
-    "description": "Ресурсы официальных веб-сайтов Taiwan.md — это наиболее полный индекс официальных и авторитетных веб-сайтов Тайваня, охватывающий государственные учреждения, культуру и образование, туризм, науку и экономику, СМИ и новости. От Президентского дворца до местных правительств, от Музея Гугун до PTS — этот обзор поможет вам по категориям найти первоисточники официальной информации Тайваня и объясняет способы проверки и использования каждого типа ресурсов.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/about/taiwan-official-resources",
-    "readingTime": 25,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ru/About/taiwan-official-resources.md"
   },
   {
     "title": "Ресурсы официальных сайтов Тайваня: от 25 сайтов к цифровой сверхдержаве за 30 лет — чудо",
@@ -125903,11 +126022,11 @@
   },
   {
     "title": "Тайваньская внешняя торговля и глобальные цепочки поставок",
-    "description": "От экспортной ориентации к ключевому узлу цепочек поставок: как Тайвань сохраняет торговые преимущества при противостоянии США и Китая",
+    "description": "От экспортной ориентации к ключевым узлам цепочек поставок: как Тайвань сохраняет торговые преимущества при противостоянии США и Китая",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 73,
+    "readingTime": 78,
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
@@ -127693,7 +127812,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/economy/taiwan-uniform-invoice",
-    "readingTime": 172,
+    "readingTime": 176,
     "featured": false,
     "date": "2026-05-01",
     "path": "ru/Economy/taiwan-uniform-invoice.md"
@@ -130480,7 +130599,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/nature/taiwan-climate-change-net-zero-transition",
-    "readingTime": 191,
+    "readingTime": 192,
     "featured": true,
     "date": "2026-05-19",
     "path": "ar/Nature/taiwan-climate-change-net-zero-transition.md"
@@ -131917,6 +132036,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ar/Music/village-armed-youth.md"
+  },
+  {
+    "title": "الشركات التايوانية: إتشيما - من رسم منحنى الابتسامة، كان أصعب عليه الوقوف على طرفيه",
+    "description": "في عام 1992، رسم شيه تشينغ رونغ داخل شركة إتشيما منحنى مفتوحاً للأعلى، وأخبر الصناعة التايوانية بأكملها: لا تتعثروا في مرحلة التجميع ذات القيمة المضافة الأقل، بل اتجهوا نحو طرفي البحث والتطوير والعلامة التجارية. هذه الجملة أثرت على تايوان لمدة ثلاثين عامًا. لكن الشخص الذي رسم الخط سقط ثلاث مرات في طريقه نحو طرف العلامة التجارية - إجبار الشركة الكبرى على التجزئة في عام 2000، والوصول إلى المرتبة الثانية عالميًا مع نفاد المخزون في عام 2011، وخسارة 20.5 مليار يوان في عام 2013 مما أجبر المؤسس البالغ من العمر ثمانية وستين عامًا على العودة. أما واي تشانغ، الشركة المتعاقدة الصغيرة التي تم فصلها ولم تحظَ بالتقدير في ذلك الوقت، فقد وصلت إلى قمة الابتسامة في عصر الذكاء الاصطناعي.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/acer-pc-industry-pioneer",
+    "readingTime": 186,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "ar/Economy/acer-pc-industry-pioneer.md"
   },
   {
     "title": "الشعر التايواني الحديث",
@@ -133835,6 +133965,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/steve-chang.md"
+  },
+  {
+    "title": "تشانغ يام (Treasure Hill): المستوطنة المخالفة التي دُمرت لـ 30 عامًا، لتتحول إلى أرقى قرية فنية في تايبيه",
+    "description": "في يوليو 1980، حددت حكومة تايبيه هذه التلة كمنطقة مخصصة للمنتزه رقم 297. دخل أكثر من 200 منزل مخالف حالة \"الانتظار للهدم\". بعد محاولات هدم في عامي 1993 و 1994 و 2001، تحول المسار إلى \"الحفظ في الموقع\" بعد حادثة كونغ لو لي في عام 1997، وافتتحت القرية الفنية الدولية في 2 أكتوبر 2010. أصبحت قرية تعايش فني-سكني تضم أكثر من 500 فنان من أكثر من 40 دولة.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/treasure-hill",
+    "readingTime": 181,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "ar/Geography/treasure-hill.md"
   },
   {
     "title": "تشانغ يو-شينغ: من آيدول إلى نبي، تجربة موسيقية تعبر العصور",
@@ -135936,14 +136077,18 @@
     "path": "ar/History/taiwan-parliament-petition-movement.md"
   },
   {
-    "title": "حركة الصفائح التكتونية والنشاط الزلزالي في تايوان",
-    "description": "استكشاف الخصائص الجيولوجية لتايوان الواقعة على حدود صفيحتي أوراسيا وبحر الفلبين، وأسباب النشاط الزلزالي المتكرر فيها",
+    "title": "حركة الصفائح والنشاط الزلزالي في تايوان",
+    "description": "استكشاف الخصائص الجيولوجية لتايوان الواقعة عند تقاطع صفيحة أوراسيا وصفيحة بحر الفلبين، والأسباب الكامنة وراء النشاط الزلزالي المتكرر.",
     "category": "ar",
     "tags": [
-      "جيولوجيا، حركة الصفائح، الزلازل، الصدوع النشطة، الكوارث الطبيعية"
+      "جيولوجيا",
+      "حركة الصفائح",
+      "زلازل",
+      "الصدوع النشطة",
+      "كوارث طبيعية"
     ],
     "url": "https://taiwan.md/ar/geography/tectonic-plates-and-seismic-activity",
-    "readingTime": 46,
+    "readingTime": 49,
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/Geography/tectonic-plates-and-seismic-activity.md"
@@ -142310,6 +142455,17 @@
     "path": "hi/Society/migrant-workers-in-taiwan.md"
   },
   {
+    "title": "अदृश्य राष्ट्र: एक अमेरिकी निर्देशक ने सात साल तक कैमरे का शटर दबाया, और एक ऐसा द्वीप बनाया जिसे दुनिया देखना नहीं चाहती",
+    "description": "जून 2025 में ताइवान के थिएटरों में, एक अमेरिकी द्वारा बनाई गई डॉक्यूमेंट्री बानतीन मिलियन से अधिक की बिक्री हुई और फिल्म इतिहास में तीसरा स्थान हासिल किया। ग जींगवेन ने सात वर्षों तक पांच व्यक्तिगत साक्षात्कार के माध्यम से ताइवान को कैमरे पर लाया, जो संयुक्त राष्ट्र द्वारा अपदस्त है, जिसके राजनयिक संबंध 22 से घटाकर 12 हो गए हैं, और ओलंपिक में केवल 'चाइनाटाउन' के रूप में जाना जाता है। लेकिन सबसे अधिक सवाल यह है कि इस फिल्म ने, जो ताइवान को 'दृश्यमान' बनाने का दावा करती है, खुद किसे फ्रेम के बाहर छोड़ दिया—देखना कभी कोई स्थिति नहीं, बल्कि एक क्रिया होती है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/art/invisible-nation",
+    "readingTime": 165,
+    "featured": true,
+    "date": "2026-06-13",
+    "path": "hi/Art/invisible-nation.md"
+  },
+  {
     "title": "अनानास डिब्बाबंद: एक डिब्बे की मिठाई ने युद्धोत्तर ताइवान को विदेशी मुद्रा कैसे लौटाई",
     "description": "1902 में काऊशुंग के फेंगशान की पहली फैक्टरी ने अनानास को खट्टे छोटे देशी किस्म से दूर-दराज के जहाजों पर जाने लायक डिब्बाबंद में बदल दिया। 1957 में ताइतुंग शुगर मिल ने अमेरिकी सहायता, महिला श्रमिकों और पांच उत्पादन लाइनों से यूरोप-अमेरिका के बाजार खोले। 1969 में निर्यात 44.3 लाख बक्से पहुंचा, 1980 के दशक में फिर ताजा फल की ओर मुड़ गया। अनानास गायब नहीं हुआ, बस विदेशी मुद्रा उद्योग से अपनी जगह बदल ली।",
     "category": "hi",
@@ -145106,6 +145262,17 @@
     "path": "hi/Geography/taipei-city.md"
   },
   {
+    "title": "ताइपेई स्मोकिंग बूथ: धूम्रपान रहित शहर में, वह साँस लेता हुआ कांच का बक्सा",
+    "description": "7 मई 2026 को, सिमेन मेट्रो के निकास 6 के बगल में एक पारदर्शी बॉक्स स्थापित किया गया, जो पूरे ताइवान का पहला बाहरी नेगेटिव प्रेशर स्मोकिंग बूथ है; जब दरवाजा खुलता है, तो हवा अंदर जाती है और बाहर नहीं निकलती। ताइपेई धूम्रपान रहित शहर बनना चाहता है, लेकिन पहले सड़क पर धूम्रपान करने वालों के लिए कांच का घर बना दिया है। 1984 में फेफड़े का एक हिस्सा काटने से लेकर, इनडोर सेकंड-हैंड स्मोक 3.2% तक और बाहर लगभग आधा होने तक, यह बक्सा एक कानूनी सिगरेट और एक शहर द्वारा अभी भी अनसुलझे सार्वजनिक स्थान के अनुबंध को समाहित करता है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/taipei-smoking-room",
+    "readingTime": 176,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "hi/Society/taipei-smoking-room.md"
+  },
+  {
     "title": "ताइवान Game Jam समुदाय",
     "description": "ग्लोबल गेम जैम के ताइवान में उतरने से लेकर KUSO GAME JAM के \"कचरा कृति\" को दर्शन बनाने तक—ताइवान Game Jam समुदाय ने दस वर्षों में कैसे स्वतंत्र खेल पारिस्थितिकी का इनक्यूबेटर और प्रयोगशाला बना लिया",
     "category": "hi",
@@ -145915,6 +146082,23 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "hi/Food/taiwan-fermented-and-pickled-foods.md"
+  },
+  {
+    "title": "ताइवान की 'स्किल्ड' पीढ़ी—एक व्यक्ति, कई भूमिकाएँ: अस्तित्व और विकल्प",
+    "description": "जब मास्टर डिग्री केवल ताइपेई के एक छोटे अपार्टमेंट का किराया दिला पाती है, तो 'मल्टी-टास्किंग' कोई विकल्प नहीं, बल्कि जीने का गणितीय समीकरण बन जाता है।",
+    "category": "hi",
+    "tags": [
+      "मल्टी-टास्किंग",
+      "गिग इकोनॉमी",
+      "वेतन",
+      "आवास की कीमतें",
+      "युवा रोजगार"
+    ],
+    "url": "https://taiwan.md/hi/society/taiwan-slash-generation-multi-job-economy",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "hi/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
     "title": "ताइवान की अगरबत्ती संस्कृति और अगरबत्ती के बांस की जन्मभूमि",
@@ -146920,23 +147104,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "hi/Lifestyle/convenience-store-culture.md"
-  },
-  {
-    "title": "ताइवान की स्लैश पीढ़ी——एक व्यक्ति, अनेक नौकरियाँ: अस्तित्व और चुनाव",
-    "description": "जब मास्टर डिग्री केवल ताइपे के एक स्टूडियो अपार्टमेंट का किराया दिला सके, तो स्लैश कोई विकल्प नहीं, बल्कि जीवित रहने का गणितीय सवाल है",
-    "category": "hi",
-    "tags": [
-      "स्लैश",
-      "गिग अर्थव्यवस्था",
-      "वेतन",
-      "आवास मूल्य",
-      "युवा रोजगार"
-    ],
-    "url": "https://taiwan.md/hi/society/taiwan-slash-generation-multi-job-economy",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-29",
-    "path": "hi/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
     "title": "ताइवान की स्वतंत्र किताबघर संस्कृति: एक किताब कैसे किसी जगह का बैठकखाना बन जाती है",
@@ -149397,6 +149564,17 @@
     "path": "hi/Lifestyle/tour-bus.md"
   },
   {
+    "title": "पर्वत निर्माता: सदी का दांव — एक ऐसा ताइवान सेमीकंडक्टर महाकाव्य जिसका नाम कहने से पहले एक अक्षर हटाना पड़ा",
+    "description": "13 जून 2025 को रिलीज़ हुई डॉक्यूमेंट्री 'पर्वत निर्माता' ताइवान के अपरिहार्य सेमीकंडक्टर इतिहास पर प्रकाश डालती है। लेकिन इसका मूल शीर्षक 'सिलड' था। शियाओ जुजेन ने इस उद्योग की 'चिंता में जन्म' को फिल्माने के लिए पांच साल लगाए और 80 से अधिक लोगों का साक्षात्कार लिया, फिर भी उन्होंने शीर्षक से सबसे तीखा अक्षर हटा दिया—जब यह द्वीप अपने सबसे मजबूत दांव पर गर्व कर रहा है, तो उसे पहले यह सोचना पड़ता है कि दूसरी तरफ क्या सुनेगा।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/art/mountain-makers-tsmc-documentary",
+    "readingTime": 179,
+    "featured": true,
+    "date": "2026-06-16",
+    "path": "hi/Art/mountain-makers-tsmc-documentary.md"
+  },
+  {
     "title": "पशु उद्यान और प्रदर्शित पशुओं की नैतिकता",
     "description": "लोहे की पिंजरे में हाथी से लेकर Xpark की जेलीफिश दीवार तक — ताइवान मानव और प्रदर्शित पशुओं के संबंध को फिर से परिभाषित कर रहा है",
     "category": "hi",
@@ -150720,12 +150898,12 @@
     "path": "hi/Food/mai-dang-le-burger.md"
   },
   {
-    "title": "मॉरिस चांग",
-    "description": "अर्धचालक गुरु, TSMC के संस्थापक, वेफर फाउंड्री मॉडल से वैश्विक तकनीक उद्योग को बदलने वाले दिग्गज उद्यमी",
+    "title": "मॉरिस चांग (चियांग जोंग-मोउ): सेमीकंडक्टर के जनक, टीएसएमसी के संस्थापक; वह महान उद्यमी जिसने वेफर फैब्रिकेशन मॉडल से वैश्विक प्रौद्योगिकी उद्योग को बदला",
+    "description": "वह दिग्गज उद्यमी जिन्होंने दुनिया की पहली पेशेवर वेफर फैब्रिकेशन कंपनी स्थापित की और एक व्यावसायिक मॉडल पेश किया जिससे वैश्विक तकनीकी पारिस्थितिकी तंत्र का पुनर्गठन हुआ।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/tsmc-morris-chang",
-    "readingTime": 110,
+    "readingTime": 137,
     "featured": true,
     "date": "2026-03-17",
     "path": "hi/People/tsmc-morris-chang.md"
@@ -151946,6 +152124,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/lung-ying-tai.md"
+  },
+  {
+    "title": "लू कुआनवेई: डॉक्टर का लाइसेंस होने के बावजूद सफेद कोट नहीं पहना, उन्होंने एक ऐसी चीज़ पर दांव लगाया जिसे बचाना भी मुश्किल है साबित करना",
+    "description": "उन्होंने डॉक्टर का लाइसेंस प्राप्त किया लेकिन सफेद कोट नहीं पहना; वह नव-झोउ (New Zhou) के समान शिक्षा प्लेटफॉर्म से जुड़े और ऑनलाइन स्व-अध्ययन मंच का उपयोग ताइवान में शैक्षिक असमानता को कम करने के लिए करना चाहते थे। लेकिन वैश्विक शोध लगभग एकमत है: यह उपकरण उन बच्चों की सबसे अधिक मदद करता है जिनके पास पहले से ही पर्याप्त संसाधन हैं। बारह साल बाद, जिस चीज़ पर उन्होंने दांव लगाया था, उसे आज तक कोई स्वतंत्र प्रमाण साबित नहीं कर पाया है, और 'साबित न कर पाना' का उनका सामना करना, उनके छोड़ने के किसी भी काम से कहीं अधिक यादगार है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/lu-guan-wei-junyiacademy-founder",
+    "readingTime": 174,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "hi/People/lu-guan-wei-junyiacademy-founder.md"
   },
   {
     "title": "लू गुआंग-झोंग: बस से कुचले गए तीन-स्वर्ण सम्राट",
@@ -154668,12 +154857,12 @@
     "path": "ko/Music/pop-music-and-golden-melody-awards.md"
   },
   {
-    "title": "금과석(진궈스): 모래금에서 전포, 아직 씻겨지지 않은 비소 토양까지, 한 산 위에 겹겹이 쌓인 삶의 층위",
-    "description": "1942년 11월 14일, 523명의 연합군 전포가 금과석의 구리 광산갱으로 들어섰다. 누군가는 3년을 견디고, 누군가는 그 산을 벗어나지 못한 날들이 시작되었다. 이 산이 기억되는 방식은 대부분 13층 유적지의 주황색 야간 조명, 만져볼 수 있는 220kg 금괴, 구펀을 들르는 길에 우연히 마주치는 비경 해안 풍경이다. 그러나 같은 산 아래에는 현지 광부가 폐를 대가로 바꾼 금, 500여 명의 외국 전포의 뼈, 그리고 아직 정화되지 않은 비소 토양이 묻혀 있다. 이것들을 함께 보아야 비로소 금과석 전체를 볼 수 있다.",
+    "title": "금광석: 모래 금, 전쟁 포로, 아직 정화되지 않은 비소 흙이 쌓인 산",
+    "description": "1942년 11월 14일, 523명의 연합군 포로가 금광석의 구리 광산으로 들어와 세 달을 견디거나 나오지 못한 날들을 시작했습니다. 이 산은 주로 십삼층 유적의 주황색 야경등, 만져볼 수 있는 220kg짜리 금괴, 그리고 지우펀에 들르다 지나치는 비밀스러운 바다 전망으로 기억됩니다. 하지만 같은 산에는 현지 광부들이 폐로 얻어낸 금, 500여 명 외국 전쟁 포로의 유골, 그리고 아직 정화가 완료되지 않은 비소 흙도 묻혀 있습니다. 이 모든 것을 함께 보아야 진정한 금광석을 볼 수 있습니다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/geography/jinguashi",
-    "readingTime": 86,
+    "readingTime": 95,
     "featured": false,
     "date": "2026-07-05",
     "path": "ko/Geography/jinguashi.md"
@@ -159255,6 +159444,24 @@
     "path": "ko/Culture/taiwan-panorama-magazine.md"
   },
   {
+    "title": "발권: 1951년 전 국민을 세무 조사관으로 만든 그 종이 한 장",
+    "description": "1951년 원단, 38세 재정청장 런셴췬(任顯群)이 추첨 번호를 영수증에 인쇄해 소비자의 탐욕으로 가게가 세금을 성실히 신고하는지 감시하게 했고, 1년 만에 영업세 수입을 75% 끌어올렸다. 70여 년 뒤 이 설계는 발명자보다, 탄생 당시의 권위주의 통치보다 더 오래 살아남았다——2024년 한 차례 코드 논란이 일기 전까지, 아무도 이 시스템이 여전히 믿을 만한지 묻지 않았다.",
+    "category": "ko",
+    "tags": [
+      "Economy",
+      "통일발권",
+      "재정세제",
+      "런셴췬",
+      "디지털 거버넌스",
+      "공익"
+    ],
+    "url": "https://taiwan.md/ko/economy/taiwan-uniform-invoice",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "ko/Economy/taiwan-uniform-invoice.md"
+  },
+  {
     "title": "밤 문화와 KTV 문화",
     "description": "현금고(錢櫃) 룸부터 심야 식당까지, 24시간 잠들지 않는 섬의 밤 생활",
     "category": "ko",
@@ -162537,20 +162744,12 @@
     "path": "ko/People/chang-chung-jen-chung-i-twins.md"
   },
   {
-    "title": "장중머우 (Morris Chang)",
-    "description": "반도체 업계의 대부이자 TSMC 창립자, 파운드리 모델로 글로벌 기술 산업을 변화시킨 전설적인 기업가",
+    "title": "장중머우 (Morris Chang): 반도체 교부, TSMC 창립자, 웨이퍼 파운드리 모델로 글로벌 기술 산업을 바꾼 전설적 기업가",
+    "description": "반도체 교부이자 TSMC의 창업자인 장중머우는 전문 웨이퍼 파운드리 모델을 개척하여 글로벌 기술 생태계를 재편한 인물이다.",
     "category": "ko",
-    "tags": [
-      "인물",
-      "장중머우",
-      "TSMC",
-      "반도체",
-      "기업가",
-      "파운드리",
-      "수호신"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/people/tsmc-morris-chang",
-    "readingTime": 73,
+    "readingTime": 68,
     "featured": true,
     "date": "2026-03-17",
     "path": "ko/People/tsmc-morris-chang.md"
@@ -164652,17 +164851,6 @@
     "path": "ko/resources/official-websites.md"
   },
   {
-    "title": "타이완 공식 웹사이트 자원",
-    "description": "Taiwan.md 공식 웹사이트 자원은 정부 기관, 문화 교육, 관광 여행, 기술 경제, 미디어 뉴스 등 다양한 분야를 아우르는 타이완에서 가장 완벽한 공식 및 권위 있는 웹사이트 인덱스이다. 대통령실부터 지방 정부까지, 고궁박물관부터 공시(PTS)에 이르기까지, 이 개요는 사용자가 각 분야별로 타이완의 1차 공식 입구를 찾을 수 있도록 안내하며 각 유형 자원의 검증 및 활용 방법을 설명한다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/about/taiwan-official-resources",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/About/taiwan-official-resources.md"
-  },
-  {
     "title": "타이완 과일 왕국",
     "description": "과일 왕국의 명성 아래 수입 과일 연간 생산액이 302억 신기록을 세우는 사이, 국내 생산량은 10년간 20% 감소 — 달콤한 명성 뒤에 숨겨진 냉혹한 현실",
     "category": "ko",
@@ -165711,6 +165899,17 @@
     "path": "ko/Art/traditional-arts-of-taiwan.md"
   },
   {
+    "title": "타이완 정부 공식 웹사이트 자원",
+    "description": "Taiwan.md 정부 공식 웹사이트 자원은 타이완에서 가장 완비된 공식/권위 웹사이트 색인으로, 정부 기관, 문화 교육, 관광 여행, 과학 기술 경제, 언론 뉴스 등 다양한 분야를 포함합니다. 총리부흥회에서 지방 정부, 경복궁에서 공영방송까지, 이 한눈에 보는 자원 목록은 여러분에게 분야별로 타이완의 첫 번째 공식 입구를 안내하고, 각 자원의 검증 방법과 사용법을 설명합니다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/about/taiwan-official-resources",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/About/taiwan-official-resources.md"
+  },
+  {
     "title": "타이완 조류 창살(창문 충돌) 문제: 보이지 않는 도시의 살인자",
     "description": "타이완 야생조류의 건축물 유리창 충돌로 인한 사망 현황, 과학적 원리, 계절적 영향 및 예방 사례를 심층적으로 탐구하고, 조류 친화적 건축물 관련 법규의 진전을 분석한다.",
     "category": "ko",
@@ -166747,17 +166946,6 @@
     "featured": false,
     "date": "2026-07-13",
     "path": "ko/Economy/taiwan-enterprise-uni-president.md"
-  },
-  {
-    "title": "통일영수증: 1951년, 모든 시민을 세금 감시원으로 만든 그 영수증",
-    "description": "1951년 원단, 타이완성 재정청장 런셴췬(任顯群)은 모든 영수증에 추첨 번호를 인쇄해 상인들에게 발급을 의무화했다. 음료 한 잔의 영수증이 동시에 거래 내역이자 복권이 되었다. 70년이 지난 지금, 그것은 클라우드 영수증·사회복지 재원·AI 알고리즘 논쟁으로 진화했다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/economy/taiwan-uniform-invoice",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-05-01",
-    "path": "ko/Economy/taiwan-uniform-invoice.md"
   },
   {
     "title": "통전단(統戰團): 소리 없이 스미는 인지전, 저가 관광부터 인플루언서 트래픽까지",
@@ -168697,6 +168885,23 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "ja/People/mona-rudao.md"
+  },
+  {
+    "title": "モーラック台風災害：家は建ったが、いつになれば故郷に帰れるのか",
+    "description": "2009年の台風災害は村落を破壊しただけでなく、台湾に安全、安置、土地、そして原住民族の参画の関係を再考させた。",
+    "category": "ja",
+    "tags": [
+      "モーラック台風災害",
+      "八八水害",
+      "災後復興",
+      "原住民族",
+      "小林村"
+    ],
+    "url": "https://taiwan.md/ja/history/typhoon-morakot",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "ja/History/typhoon-morakot.md"
   },
   {
     "title": "モナネン：二つの盲目、一冊の詩集",
