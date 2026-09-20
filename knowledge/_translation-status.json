@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T07:55:25+08:00",
-    "zhCommitHead": "18e4193d9",
+    "lastUpdated": "2026-09-20T08:01:26+08:00",
+    "zhCommitHead": "f9ba57e4a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 59,
+        "fresh": 1036,
+        "stale": 58,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 820,
+        "fresh": 821,
         "stale": 12,
         "metadata_stale": 4,
-        "missing": 288,
+        "missing": 287,
         "orphan": 0
       }
     },
@@ -6996,8 +6996,8 @@
           "sourceContentHash": "sha256:df07b8f5f0dd46a8",
           "sourceBodyHash": "sha256:2f404ef3aa8b254f",
           "translatedAt": "2026-09-20T00:52:38+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "f9ba57e4",
+          "translationLastModified": "2026-09-20T07:55:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -27675,8 +27675,8 @@
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
           "translatedAt": "2026-09-20T00:52:38+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "f9ba57e4",
+          "translationLastModified": "2026-09-20T07:55:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -42516,8 +42516,8 @@
           "sourceContentHash": "sha256:02bd3943b09e813f",
           "sourceBodyHash": "sha256:45fcf1e43c9080d6",
           "translatedAt": "2026-09-20T00:52:38+08:00",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
+          "translationLastCommit": "f9ba57e4",
+          "translationLastModified": "2026-09-20T07:55:25+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -67024,8 +67024,8 @@
           "sourceContentHash": "sha256:1f8dee6529992135",
           "sourceBodyHash": "sha256:97a705b00e6deea8",
           "translatedAt": "2026-09-20T00:52:38+08:00",
-          "translationLastCommit": "9405dd26",
-          "translationLastModified": "2026-07-25T17:12:56+08:00",
+          "translationLastCommit": "f9ba57e4",
+          "translationLastModified": "2026-09-20T07:55:25+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
@@ -162261,18 +162261,16 @@
         "en": {
           "path": "en/Geography/gongguan.md",
           "translatedFrom": "Geography/公館.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:bcc022be65ff89b5",
-          "sourceBodyHash": "sha256:b3b5dbb9d7dd34fc",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:02c38601d122ae9f",
+          "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
+          "translatedAt": "2026-09-20T00:01:05.993062+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/gongguan.md",
@@ -185940,7 +185938,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-kuaikuai-culture.md",
+          "translatedFrom": "Culture/台灣乖乖文化.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:b95317cbf18e6ec7",
+          "sourceBodyHash": "sha256:2856e1a6d3a978a3",
+          "translatedAt": "2026-09-20T00:52:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
