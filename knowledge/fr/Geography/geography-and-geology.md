@@ -1,242 +1,242 @@
 ---
-title: "Caractéristiques géographiques et formation de l'île de Taïwan"
-description: "Explorez les caractéristiques géographiques uniques de l'île de Taïwan, de la tectonique des plaques à la structure topographique, et découvrez les mystères naturels de l'île de Formose"
+title: 'Caractéristiques géographiques insulaires et formation de Taïwan'
+description: "Exploration des caractéristiques géographiques uniques de Taïwan, du mouvement de plaques à la structure topographique, pour comprendre les mystères naturels de l'île de Formose"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
+tags: ['géographie', 'géologie', 'île', 'mouvement de plaques', 'relief']
 subcategory: '島嶼與海洋'
-tags: ['géologie', 'géographie', 'île', 'tectonique des plaques', 'topographie']
-readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
-featured: false
-translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fd5b44b607710000'
-sourceBodyHash: 'sha256:b019853dd2be5b1d'
-translatedAt: '2026-05-20T05:08:34+08:00'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
+readingTime: 12
+featured: false
+lastVerified: 2026-09-20
+lastHumanReview: false
+translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: '754685ed1'
+sourceContentHash: 'sha256:d82f573c8035bd6e'
+sourceBodyHash: 'sha256:e12316843009e7dd'
+translatedAt: '2026-09-21T00:58:28+08:00'
 ---
 
-# Caractéristiques géographiques et formation de l'île de Taïwan
+# Caractéristiques géographiques insulaires et formation de Taïwan
 
 ## Aperçu en 30 secondes
 
-Taïwan est une île située à la jonction entre le continent asiatique et l'océan Pacifique. L'île principale couvre une superficie de 35 808 km² et résulte de la collision entre la plaque mer des Philippines et la plaque eurasienne. Elle présente les caractéristiques typiques d'« altitude élevée, plaines réduites, rivières courtes et torrentielles ». La répartition des cinq grands types de relief est la suivante : montagnes 29 %, collines et plateaux 40 %, plaines et bassins 31 %. Les ères géologiques s'étendent du Paléozoïque au Cénozoïque, témoignant d'une diversité géologique exceptionnelle.
+Taïwan est une île située à la jonction du continent asiatique et du Pacifique. L'île principale, d'une superficie de 35 808 kilomètres carrés, a été formée par la collision entre les plaques de mer des Philippines et la plaque eurasienne. Elle présente les caractéristiques typiques d'un paysage « montagnes hautes, plaines petites, rivières courtes et rapides », avec une répartition du relief en cinq types : montagne (29 %), plateau/colline (40 %) et plaine/bassin (31 %) [^8]. Son âge géologique s'étend de l'ère Paléozoïque à l'Holocène, présentant une très grande diversité géologique.
 
-Du niveau de la mer jusqu'au mont Yu (3 952 m d'altitude), quatre zones écologiques se succèdent sur une distance horizontale de moins de 150 km — une compression verticale quasi sans équivalent parmi les îles de superficie comparable dans le monde.
+En parcourant moins de 150 kilomètres en ligne droite, on traverse quatre zones écologiques différentes, du niveau de la mer jusqu'au Yushan (Jade Mountain) à 3 952 mètres ; cette compression verticale est presque unique parmi les îles de surface équivalente dans le monde.
 
-Mots-clés : collision de plaques, cinq grands reliefs, disposition en éventail, diversité géologique, système d'arc insulaire
+Mots-clés : collision des plaques, cinq types de relief, alignement en migration, diversité géologique, système d'arc insulaire
 
 ## Pourquoi c'est important
 
-La position géologique et la structure tectonique de Taïwan façonnent à la fois l'environnement naturel de l'île et influencent profondément les modes d'activité humaine, la répartition des écosystèmes ainsi que la fréquence des catastrophes géologiques. Les séismes, typhons et glissements de terrain trouvent tous leur origine dans la structure géographique ; la topographie complexe crée une grande diversité d'habitats écologiques ; la répartition des agglomérations, les axes de transport et le développement industriel sont tous conditionnés par les contraintes géographiques.
+La position géographique et la structure géologique de Taïwan ont façonné à la fois son environnement naturel et les modes d'activités humaines, la distribution des écosystèmes, ainsi que la fréquence des catastrophes géologiques. Les tremblements de terre, les typhons et les glissements de terrain trouvent leurs racines dans cette structure géographique ; le relief complexe crée une diversité d'habitats écologiques ; l'implantation des établissements, les réseaux de transport et le développement industriel sont tous contraints par les conditions géographiques.
 
-Comprendre les caractéristiques géographiques de Taïwan constitue le fondement scientifique de l'aménagement du territoire et de la conservation de l'environnement, et représente le point de départ pour mieux connaître cette terre.
+Comprendre les caractéristiques géographiques de Taïwan est la base scientifique pour l'aménagement du territoire et la conservation de l'environnement, c'est aussi le point de départ de notre connaissance de cette terre.
 
-Après le séisme du 21 septembre 1999 (921), Taïwan a commencé à mettre en place de manière systématique un système de gestion des zones géologiquement sensibles, transformant directement la recherche géographique en politiques de prévention des catastrophes.
+Après le grand tremblement de terre de 921 en 1999, Taïwan a commencé à établir un système de gestion des zones géologiquement sensibles, transformant directement la recherche géographique en politique de prévention des catastrophes.
 
-## Tectonique des plaques et fondements géologiques
+## Mouvement des plaques et fondations géologiques
 
-Les fondements géologiques de Taïwan proviennent de la collision entre deux grandes plaques tectoniques. La plaque mer des Philippines se déplace vers le nord-ouest à une vitesse de 8,2 cm par an, poussant la plaque eurasienne et provoquant le soulèvement de Taïwan depuis le fond marin. Cette collision se poursuit encore aujourd'hui : la chaîne centrale continue de s'élever chaque année.
+La base géologique de Taïwan provient de la collision entre deux grandes plaques. La plaque de mer des Philippines se déplace vers le nord-ouest à une vitesse de 8,2 cm par an, poussant la plaque eurasienne, ce qui a engendré l'histoire d'élévation de Taïwan depuis le fond marin. Cette collision est toujours en cours, et la chaîne centrale continue de s'élever chaque année.
 
-### Une orogenèse active
+### Tectonique active
 
-Taïwan se situe à la limite convergente entre la plaque mer des Philippines et la plaque eurasienne, ce qui en fait l'une des régions les plus actives au monde en matière de formation de montagnes. Selon les données d'observation GPS, la plaque mer des Philippines se déplace vers le nord-ouest à une vitesse de 8,2 cm par an. Ce mouvement tectonique intense a façonné le paysage géologique unique de Taïwan.
+Taïwan se situe à une frontière convergente entre la plaque de mer des Philippines et la plaque eurasienne, ce qui en fait l'une des régions les plus actives au monde en matière d'orogenèse (formation de montagnes). Selon les données d'observation GPS, la plaque de mer des Philippines se déplace vers le nord-ouest à 8,2 cm par an ; ce mouvement intense des plaques a créé le paysage géologique unique de Taïwan.
 
-**Modes de collision des plaques** :
+**Modèles de collision des plaques** :
 
-- **Au nord** : la plaque mer des Philippines plonge vers le nord sous la plaque eurasienne
-- **Au sud** : la plaque eurasienne plonge vers l'est sous la plaque mer des Philippines
-- **Au centre** : les deux plaques entrent en collision directe, formant les plus hautes montagnes de Taïwan
+- **Nord** : La plaque de mer des Philippines plonge sous la plaque eurasienne en direction du nord.
+- **Sud** : La plaque eurasienne plonge sous la plaque de mer des Philippines en direction de l'est.
+- **Centre** : Les deux plaques entrent en collision directe, formant les plus hautes montagnes de Taïwan.
 
-### Un condensé d'ères géologiques
+### Un instantané de l'histoire géologique
 
-Bien que de superficie modeste, Taïwan condense une histoire géologique allant du Paléozoïque au Cénozoïque :
+Bien que sa superficie ne soit pas grande, Taïwan condense une histoire géologique allant du Paléozoïque à l'Holocène :
 
-**Répartition des principaux types de roches** :
+**Distribution des principaux types de roches** :
 
-- **Roches métamorphiques** (versant est de la chaîne centrale) : marbre, schiste, etc., témoignant de la métamorphose en profondeur de la croûte terrestre sous l'effet de la compression
-- **Roches ignées** (monts Tatung, Penghu, chaîne côtière) : basalte, andésite, etc., traces d'activité volcanique
-- **Roches sédimentaires** (plaines et collines de l'ouest) : grès, schiste argileux, etc., qui constituent la plus grande superficie rocheuse de l'île principale
+- **Roches métamorphiques** (est de la chaîne centrale) : marbre, schiste, etc., représentant le résultat de la transformation sous pression de la croûte profonde.
+- **Roches ignées** (Taotunshan, Penghu, Chaogang Mountains) : basalte, andésite, etc., témoignant d'une activité volcanique.
+- **Roches sédimentaires** (plateaux et collines occidentales) : grès, argilite, etc., constituant la couche rocheuse de plus grande superficie sur l'île principale.
 
 ## Caractéristiques topographiques insulaires uniques
 
-### Proportion des cinq grands types de relief
+### Répartition des cinq types de relief
 
-La structure topographique de Taïwan présente les caractéristiques typiques d'une « île de haute montagne » :
+La structure du relief de Taïwan présente une caractéristique typique d'une « île montagneuse » :
 
-| Type de relief           | Altitude             | Proportion de superficie | Répartition principale                                     |
-| ------------------------ | -------------------- | ------------------------ | ---------------------------------------------------------- |
-| **Montagnes**            | Supérieure à 1 000 m | 29 %                     | Chaîne centrale, chaîne Xueshan, chaîne Alishan            |
-| **Collines et plateaux** | 100 – 1 000 m        | 40 %                     | Collines de Miaoli, collines de Zhudong, plateau de Linkou |
-| **Plaines et bassins**   | Inférieure à 100 m   | 31 %                     | Plaine de Jiianan, plaine de Pingtung, bassin de Taipei    |
+| Type de relief      | Étendue altimétrique | Proportion de surface | Distribution principale                                    |
+| :------------------ | :------------------- | :-------------------- | :--------------------------------------------------------- |
+| **Montagne**        | Au-dessus de 1 000 m | 29%                   | Chaîne centrale, Chaîne Xue Shan, Chaîne Alishan           |
+| **Plateau/Colline** | 100 à 1 000 m        | 40%                   | Collines de Miaoli, Collines de Zhukang, Plateau de Linkou |
+| **Plaine/Bassin**   | En dessous de 100 m  | 31%                   | Plaines de Gianan, Plaines de Pingtung, Bassin de Taipei   |
 
-### Disposition en éventail des chaînes de montagnes
+### L'alignement en migration des chaînes de montagnes
 
-Les chaînes de montagnes de Taïwan présentent une disposition en « éventail » (雁行排列), comprenant du nord au sud :
+Les cinq grandes chaînes de montagnes de Taïwan présentent une caractéristique d'« alignement en migration » (ou « file d'oiseaux »), disposées séquentiellement de l'est à l'ouest :
 
-1. **Massif des monts Tatung** : ensemble volcanique, le pic Tatung culmine à 1 092 m
-2. **Chaîne Xueshan** : le pic Xueshan culmine à 3 886 m, deuxième plus haut sommet de Taïwan
-3. **Chaîne centrale** : l'échine de Taïwan, comprenant le mont Yu (3 952 m) et les cent sommets célèbres
-4. **Chaîne Alishan** : le principal massif de la région d'Alishan
-5. **Chaîne côtière** : la seule chaîne longitudinale de l'est de Taïwan, le mont Dulan culmine à 1 190 m
+1. **Chaîne Chaogang** : la seule chaîne longitudinale à l'est de la Vallée du Hoa-Dong, avec le pic Xin Gangshan à 1 680 m et Dulanshan à 1 190 m.
+2. **Chaîne Centrale** : la colonne vertébrale de Taïwan, avec le pic Xiugulan à 3 825 m, abritant le plus grand nombre de sommets au-delà de 3 000 mètres.
+3. **Chaîne Xue Shan** : section nord, avec le sommet principal Xueshan à 3 886 m, la deuxième plus haute montagne de Taïwan.
+4. **Chaîne Yushan** : le pic principal Yushan (Jade Mountain) à 3 952 m, la plus haute montagne de Taïwan et d'Asie du Nord-Est.
+5. **Chaîne Alishan** : la plus occidentale, avec le pic Da Ta Shan à 2 663 m.
 
-Cette disposition reflète la directionnalité de la compression tectonique et explique la topographie caractéristique de Taïwan, escarpée à l'est et plus douce à l'ouest.
+Le groupe volcanique de Datun au nord (avec le pic Qixingshan à 1 120 m) est un relief volcanique indépendant et n'est pas inclus dans les cinq grandes chaînes [^4].
 
-## Système fluvial et caractéristiques hydrologiques
+Cette disposition reflète la direction de la compression des plaques, créant une caractéristique topographique où l'est est abrupt et l'ouest plus doux.
 
-Les rivières de Taïwan, contraintes par la topographie, sont courtes et torrentielles. La plus longue, la rivière Zhuoshui, ne mesure que 186 km. La chaîne centrale constitue la ligne de partage des eaux entre les rivières de l'est et de l'ouest, créant des différences marquées en longueur, pente et caractéristiques hydrologiques de part et d'autre.
+## Systèmes fluviaux et caractéristiques hydrologiques
 
-### Caractéristiques de rivières courtes et torrentielles
+Les rivières de Taïwan sont courtes et rapides en raison des contraintes topographiques ; même le Chuanshui (Turbid Stream), la plus longue, ne mesure que 186,6 km [^9]. La chaîne centrale est un bassin versant divisant les cours d'eau orientaux et occidentaux, ce qui entraîne des différences marquées dans la longueur, la pente et les caractéristiques hydrologiques des rivières de chaque côté.
 
-En raison de l'allongement étroit de l'île et de la chaîne montagneuse qui la traverse, les rivières présentent généralement des caractéristiques « courtes et torrentielles » :
+### Caractéristiques « Rivières courtes et rapides »
 
-**Longueur des principales rivières** :
+En raison de la forme allongée de l'île et du tracé longitudinal des montagnes, les rivières présentent généralement le caractère de « cours d'eau courts et rapides » :
 
-- **Rivière Zhuoshui** : 186,4 km (la plus longue rivière)
-- **Rivière Gaoping** : 170,9 km
-- **Rivière Tamsui** : 158,7 km
-- **Rivière Dajia** : 142,3 km
+**Longueurs principales des rivières** :
+
+- **Chuanshui (Turbid Stream)** : 186,6 km (la plus longue)
+- **Gaopingxi (High Pingtung Stream)** : 171,0 km
+- **Tamsui River** : 158,7 km
+- **Zengwen Stream** : 138,5 km
+
+Le cours principal du Jiaoxi Creek mesure 124,2 km, se classant après le Zengwen [^9].
 
 **Caractéristiques hydrologiques** :
 
-- Pente des rivières abrupte, dénivelé moyen de 1/250
-- Écart marqué entre les périodes de hautes et basses eaux, montée rapide du niveau lors des typhons
-- Charge sédimentaire élevée, cônes de déjection bien développés
-- La longueur limitée des rivières restreint la taille des bassins versants
+- Pentes abruptes des rivières, avec une pente moyenne de 1/250
+- Forte variation entre les périodes d'abondance et de sécheresse, avec des crues soudaines pendant les typhons.
+- Teneur élevée en sédiments, développement de deltas alluviaux.
+- La courte longueur des rivières limite la superficie du bassin versant.
 
-### Effet de la ligne de partage des eaux
+### Effet de division des bassins versants
 
-La chaîne centrale forme la principale ligne de partage des eaux entre l'est et l'ouest de Taïwan, entraînant :
+La chaîne centrale forme le principal bassin versant divisant l'est et l'ouest de Taïwan, ce qui entraîne :
 
-- **Rivières de l'est** : courtes et escarpées, se jetant directement dans l'océan Pacifique
-- **Rivières de l'ouest** : relativement plus longues, se jetant dans le détroit de Taïwan
-- **Rivières nord-sud** : comme la rivière Xiukuluan dans la vallée de Huadong
+- **Rivières orientales** : courtes et abruptes, se jetant directement dans le Pacifique.
+- **Rivières occidentales** : relativement plus longues, se déversant dans le détroit de Taïwan.
+- **Rivières nord-sud** : comme la Xiugulan Stream dans la Vallée du Hoa-Dong.
 
-## Relief côtier et environnement marin
+## Topographie côtière et environnement marin
 
-Taïwan est entouré par la mer sur ses quatre côtés, avec un littoral total d'environ 1 566 km. Les côtes est et ouest, de par leurs contextes géologiques différents, présentent des paysages radicalement distincts : la côte est est principalement une côte de faille, avec des falaises abruptes ; la côte ouest se caractérise par des plages sableuses plates et de vastes zones intertidales.
+Taïwan est entourée par la mer sur ses quatre côtés. La côte de l'île principale mesure environ 1 200 km (selon les méthodes des différentes agences, allant de 1 139 à 1 340 km), et avec les îles périphériques, elle atteint plus de 1 500 km [^10]. Les côtes est et ouest présentent des paysages topographiques très différents en raison de leurs contextes géologiques : la côte est est principalement une côte de failles avec des falaises abruptes ; la côte ouest se caractérise par des plages douces et étendues.
 
-### Contraste entre les côtes est et ouest
+### Comparaison entre les côtes Est et Ouest
 
-Le relief côtier de Taïwan présente des différences est-ouest marquées :
+La topographie côtière de Taïwan montre des différences marquées entre l'Est et l'Ouest :
 
-**Caractéristiques de la côte est** :
+**Caractéristiques de la côte Est** :
 
-- Principalement une côte de faille, avec des falaises rocheuses abruptes
-- Terrasses marines bien développées (comme Shitiping à Hualien)
-- Face directe à l'océan Pacifique profond
-- Topographie sous-marine en forte pente, formant des écosystèmes d'eau profonde
+- Principalement une côte de failles, avec des falaises abruptes.
+- Développement de paysages d'érosion marine (comme les formations rocheuses de Hualien Shiti).
+- Face directe à la mer profonde du Pacifique.
+- Topographie sous-marine en pente raide, formant un écosystème marin profond.
 
-**Caractéristiques de la côte ouest** :
+**Caractéristiques de la côte Ouest** :
 
-- Plages sableuses plates, zones intertidales vastes
-- Zones humides estuariennes et lagunes (comme la lagune de Cigu)
-- Environnement de mer peu profonde du détroit de Taïwan
-- Écosystèmes riches d'aquaculture côtière et de zones humides
+- Plages douces et étendues, vastes zones intertidales.
+- Zones humides d'embouchure fluviale et lagunes (comme le lac lagunaire de Qixu).
+- Environnement relatif moins profond dans le détroit de Taïwan.
+- Riche en aquaculture côtière et écosystèmes humides.
 
 ### Diversité géologique des îles périphériques
 
-Les archipels périphériques de Taïwan présentent des caractéristiques géologiques variées :
+Les archipels de Taïwan présentent des caractéristiques géologiques différentes :
 
-- **Archipel de Penghu** : relief de plateaux basaltiques, caractéristique d'îles volcaniques
-- **Orchid Island (Lanyu) et Green Island (Ludao)** : îles volcaniques d'andésite
-- **Xiao Liuqiu** : île de soulèvement corallien
-- **Kinmen (Jinmen) et Matsu (Mazu)** : substrat granitique, d'origine continentale
+- **Archipel de Penghu** : topographie volcanique basaltique, caractéristique d'îles volcaniques.
+- **Lanyu, Green Island** : îles volcaniques andésitiques.
+- **Xiaoliuqiu** : île émergée de récif corallien.
+- **Kinmen, Mazu** : géologie granitique, partageant une origine avec le continent.
 
 ## Interaction entre climat et topographie
 
-La chaîne centrale, élevée et traversant l'île du nord au sud, bloque la mousson du nord-est et celle du sud-ouest, ce qui est la cause fondamentale de l'écart de précipitations pouvant aller jusqu'à un facteur trois entre l'est et l'ouest de Taïwan. La chaîne montagneuse ne détermine pas seulement les précipitations : elle crée également des phénomènes climatiques locaux tels que le foehn et les nuages orographiques, avec des impacts profonds sur l'agriculture et l'écologie.
+La chaîne centrale, qui s'étend majestueusement, est la cause fondamentale du différentiel de précipitations (jusqu'à trois fois) entre l'est et l'ouest de Taïwan en raison de son blocage des vents saisonniers du nord-est et du sud-ouest. La montagne ne détermine pas seulement les précipitations, elle crée également des phénomènes climatiques locaux tels que le vent chaud descendant (_fengbu_) ou les nuages orographiques, avec des répercussions profondes sur l'agriculture et l'écologie.
 
-La pluviométrie annuelle moyenne de Taïwan est d'environ 2 515 mm, soit trois fois la moyenne mondiale, mais en raison de la concentration topographique, la répartition inégale des ressources en eau constitue un défi de longue date.
+La précipitation annuelle moyenne de Taïwan est d'environ 2 500 mm, soit 2,6 fois la moyenne mondiale [^12], mais la distribution inégale des ressources en eau due à la topographie représente un défi à long terme.
 
-### Pluies orographiques et moussons
+### Précipitations orographiques et moussons
 
-L'interaction entre l'orientation des chaînes de montagnes de Taïwan et la direction des moussons crée des régimes pluviométriques complexes :
+L'interaction entre l'orientation montagneuse de Taïwan et les directions des moussons crée des régimes de précipitations complexes :
 
-**Effet des versants au vent** :
+**Effet de face au vent** :
 
-- La mousson d'été du sud-ouest apporte d'abondantes précipitations aux montagnes du sud-ouest
-- La mousson d'hiver du nord-est provoque de fortes pluies dans le nord et le nord-est
-- L'effet de blocage de la chaîne centrale crée les différences de précipitations entre l'est et l'ouest
+- Les moussons du sud-ouest en été apportent d'abondantes pluies aux régions montagneuses du sud-ouest.
+- Les moussons du nord-est en hiver provoquent beaucoup de pluie dans le nord et le nord-est.
+- L'effet de blocage de la chaîne centrale crée une différence de précipitations entre l'est et l'ouest.
 
-**Phénomène de foehn** :
+**Phénomène du vent chaud descendant (_fengbu_)** :
 
-- Un foehn se produit lorsque les typhons ou les moussons franchissent la chaîne centrale
-- Dans la région de Taitung, les températures du foehn printanier peuvent dépasser 40 °C
-- Impact sur la production agricole et la vie des habitants
+- Le _fengbu_ se produit après que les typhons ou les moussons ont franchi la chaîne centrale.
+- À Taidong, sous le flux cyclonique d'un typhon, la température peut approcher ou dépasser 40°C.
+- Cela affecte la production agricole et la vie des résidents.
 
 ## Catastrophes géologiques et défis environnementaux
 
-Taïwan se situe au croisement de la ceinture de feu du Pacifique et de la trajectoire des typhons du Pacifique ouest, ce qui en fait l'une des régions au monde présentant la plus forte densité de catastrophes géologiques. Chaque année, plus de 1 000 séismes sont ressentis, et les typhons et pluies torrentielles provoquent des glissements de terrain et des coulées de débris, constituant une menace de catastrophes naturelles complexes.
+Taïwan est située à l'intersection de la ceinture sismique du Pacifique et des trajectoires cycloniques du Pacifique occidental, ce qui en fait l'une des régions avec la plus haute densité de catastrophes géologiques au monde. Plus de 1 000 tremblements de terre ressentis par an, combinés aux glissements de terrain et coulées de boue provoqués par les pluies torrentielles des typhons, constituent une menace naturelle complexe.
 
 ### Failles actives et séismes
 
-Taïwan compte 36 failles actives sur son territoire, preuve directe que l'orogenèse liée aux plaques tectoniques est toujours en cours. Le séisme du 21 septembre 1999 (921) a été causé par le mouvement de la faille de Chelungpu, avec un déplacement vertical maximal de 8 m, tuant plus de 2 400 personnes — la catastrophe sismique la plus grave de l'histoire récente de Taïwan.
+Le Centre de recherche géologique et de gestion minière du Ministère de l'économie a répertorié 36 failles actives, ce qui est une preuve directe que le mouvement orogénique se poursuit [^1]. Le grand tremblement de terre de 921 en 1999 fut provoqué par le mouvement de la faille de Chulongpo ; le déplacement vertical près de 10 mètres dans la zone du barrage Shiqian a causé 2 415 victimes, faisant de cette catastrophe sismique l'événement majeur le plus récent à Taïwan.
 
-Les principales zones de faille comprennent la faille de Chelungpu, la faille de Chishang, entre autres. La faille de Chishang s'est réactivée lors du séisme du 18 septembre 2022 (918), provoquant une rupture de surface visible dans la vallée de Huadong.
+Les principaux systèmes de failles incluent la faille de Chulongpo et la faille de Chi Shang. Le tremblement de terre de Chi Shang du 18 septembre 2022 (magnitude 6,8) a eu comme structure focale une faille décrochante à fort angle orientée vers l'ouest sous la chaîne centrale, qui n'était pas dans les 36 failles répertoriées ; des recherches géologiques ont révélé des ruptures de surface et des éruptions de sable le long des failles de Chi Shang et Yuli [^11].
 
-### Glissements de terrain et coulées de débris
+### Glissements de terrain et coulées de boue
 
-La topographie escarpée et les précipitations abondantes font de Taïwan une zone à haut risque de glissements de terrain. Les montagnes dont la pente dépasse 30 % représentent plus de 60 % de la superficie de l'île, et les typhons provoquent fréquemment des glissements de terrain à grande échelle. La gestion des zones géologiquement sensibles et les systèmes d'alerte aux coulées de débris constituent les mécanismes centraux de la protection du territoire national.
+Le relief escarpé et les précipitations abondantes font de Taïwan une zone à haut risque d'instabilité. Les zones montagneuses et les plateaux/collines représentent près des sept dixièmes de l'île, et les pluies torrentielles des typhons provoquent souvent d'importants glissements de terrain. La gestion des zones géologiquement sensibles et le système d'alerte aux coulées de boue sont des mécanismes centraux pour la sécurité territoriale de Taïwan.
 
-## Impact des caractéristiques géographiques sur l'écologie
+## Influence de la géographie humaine
 
-La compression verticale de la topographie taïwanaise permet à l'île de posséder, sur une superficie réduite, une séquence écologique complète allant du tropical au boréal. De la forêt littorale à la toundra alpine, cinq zones écologiques se succèdent sur une distance horizontale de 150 km — une densité de compression rarement égalée parmi les îles de superficole comparable dans le monde.
+Le relief est la logique sous-jacente du paysage humain de Taïwan. Le sud-ouest concentre plus de 90 % de la population (les deux comtés de Hualien et Taitung représentent moins de 3 % de la population nationale), formant un axe urbain allant de Taipei à Kaohsiung ; l'est montagneux est peuplé, mais conserve davantage de culture autochtone et d'écologie primaire.
 
-L'isolement insulaire et les barrières topographiques favorisent conjointement la spéciation. La proportion d'espèces endémiques de plantes vasculaires à Taïwan atteint 27 %, et des espèces animales endémiques telles que l'ours noir de Taïwan, le faisan de Mikado et la salamandre de Taïwan maintiennent des populations stables dans les zones de moyenne et haute altitude.
+### Modèles d'implantation des établissements
 
-### Gradient altitudinal et zones écologiques
+Les conditions topographiques déterminent la répartition de la population de Taïwan : la densité de population est la plus élevée dans les plaines occidentales ; les établissements de la vallée orientale sont alignés le long des plateaux fluviaux et des deltas, tandis que les communautés indigènes en montagne utilisent des terrasses et des pentes adaptées au relief comme base d'établissement.
 
-La différence d'altitude considérable sur de courtes distances à Taïwan crée des zones écologiques compressées : de la forêt littorale (0-500 m), à la forêt de feuillus de basse altitude (500-1 500 m), à la forêt mixte de moyenne altitude (1 500-2 500 m), à la forêt de conifères subalpine (2 500-3 500 m), jusqu'à la toundra alpine (au-dessus de 3 500 m).
+### Contraintes du développement des transports
 
-### Isolement géographique et endémisme
+La chaîne centrale bloque horizontalement les déplacements Est-Ouest, ne permettant que quelques routes transversales. Les projets de tunnels et de ponts sont donc très développés : le tunnel Xue Shan (Xueshan Tunnel), d'une longueur totale de 12,9 km (inauguré en 2006), est un exemple représentatif de la percée des contraintes topographiques.
 
-La séparation par les chaînes de montagnes forme des biomes distincts à l'est et à l'ouest, tandis que le gradient altitudinal crée une biodiversité à distribution verticale. La chaîne centrale constitue une frontière naturelle pour la distribution est-ouest de nombreuses espèces, avec des compositions d'oiseaux et de plantes significativement différentes entre les versants est et ouest.
+## Perspectives futures et défis
 
-## Impact sur la géographie humaine
-
-La topographie constitue la logique sous-jacente du paysage humain de Taïwan. Les plaines de l'ouest concentrent plus de 70 % de la population nationale, formant un axe urbain de Taipei à Kaohsiung ; les montagnes de l'est, faiblement peuplées, ont davantage préservé les cultures autochtones et les écosystèmes primitifs.
-
-### Modèles de répartition des agglomérations
-
-Les conditions topographiques déterminent la répartition de la population taïwanaise : les plaines de l'ouest présentent la plus forte densité de population, les agglomérations de la vallée orientale s'alignent de manière linéaire le long des terrasses fluviales et des cônes de déjection, et les villages autochtones de montagne s'adaptent au relief en s'implantant sur des terraines et des pentes.
-
-### Contraintes sur le développement des transports
-
-La chaîne centrale constitue une barrière transversale rendant les communications est-ouest difficiles, avec seulement quelques routes traversières. Les ouvrages de tunnels et de ponts sont donc particulièrement développés : le tunnel de Xueshan, long de 12,9 km (mis en service en 2006), est un ouvrage emblématique de franchissement topographique ; le pont de Gaoping est l'un des plus longs ponts routiers de Taïwan.
-
-## Perspectives d'avenir et défis
-
-Le changement climatique et la concentration de la population accentuent davantage la vulnérabilité de l'environnement géographique de Taïwan. L'augmentation des précipitations extrêmes accroît les risques de glissements de terrain et de coulées de débris, la montée du niveau de la mer menace les côtes basses, et la hausse des températures modifie également les limites de distribution des zones écologiques de haute altitude.
+Le changement climatique et la concentration de la population exacerbent davantage la vulnérabilité de l'environnement géographique de Taïwan. L'augmentation des précipitations extrêmes augmente le risque de glissements de terrain, l'élévation du niveau de la mer menace les côtes basses, et l'augmentation de la température modifie également les limites de distribution des zones écologiques de montagne.
 
 ### Impacts du changement climatique
 
-Des études récentes montrent une tendance à la hausse des précipitations journalières maximales apportées par les typhons à Taïwan, une augmentation des événements de coulées de débris, et certaines agglomérations de montagne font face à des pressions de relocalisation. Les zones de répartition des plantes alpines se déplacent de manière mesurable vers le haut, et la superficie de la toundra alpine aux alentours du mont Yu diminue.
+Des études récentes montrent une tendance à la hausse des précipitations maximales journalières apportées par les typhons à Taïwan, entraînant une augmentation des événements de coulées de boue, forçant certaines communautés de montagne à envisager une migration. La zone de distribution des plantes de haute altitude se déplace mesurablement vers le haut ; la superficie du plateau alpin près de Yushan diminue.
 
-### Stratégies de conservation du territoire
+### Stratégies de conservation territoriale
 
-Taïwan a promulgué la _Loi sur la planification du territoire national_ en 2015, délimitant des zones de conservation, agricoles et de développement urbain et rural en fonction des conditions topographiques, et limitant l'aménagement dans les zones géologiquement fragiles. La gestion des zones géologiquement sensibles et la loi sur la gestion du littoral établissent respectivement des mécanismes de contrôle pour les glissements de terrain, les failles actives et l'érosion côtière.
+En 2016, Taïwan a publié la Loi sur l'aménagement du territoire (approvée en lecture définitive fin 2015), qui divise les zones en fonction des conditions topographiques pour la conservation, l'agriculture et le développement urbain, limitant le développement dans les zones géologiquement fragiles. La loi sur la gestion des zones géologiques sensibles et la loi sur la gestion côtière établissent respectivement des mécanismes de contrôle contre les glissements de terrain, les failles actives et l'érosion côtière.
 
 ## Conclusion
 
-Les caractéristiques géographiques insulaires de Taïwan sont le produit d'une interaction à long terme entre la collision des plaques tectoniques, les processus climatiques et l'évolution écologique. De la vision macroscopique de la tectonique des plaques aux détails microscopiques des écosystèmes, cette île présente une richesse géologique et écologique remarquable sur une superficie réduite. Comprendre les caractéristiques géographiques de Taïwan n'est pas seulement la base pour connaître notre environnement, mais aussi le point de départ d'une coexistence harmonieuse avec la nature.
+Les caractéristiques géographiques insulaires de Taïwan sont le produit d'une interaction complexe et prolongée entre la collision des plaques, l'action climatique et l'évolution écologique. Du point de vue macroscopique du mouvement des plaques aux détails microscopiques des écosystèmes, cette île présente une riche stratification géologique et écologique dans une petite surface. Comprendre les caractéristiques géographiques de Taïwan est non seulement la base pour connaître son environnement, mais aussi le point de départ de notre sagesse pour coexister harmonieusement avec la nature.
 
-Face à la double pression du changement climatique et de l'aménagement humain, savoir utiliser les connaissances géographiques pour un aménagement durable du territoire sera une question clé du développement futur de Taïwan.
+Face à la double pression du changement climatique et du développement humain, comment utiliser les connaissances géographiques pour un aménagement territorial durable sera un défi clé pour le développement futur de Taïwan.
 
 ## Références
 
-[^1]: Bureau d'études géologiques et de gestion minière, Ministère de l'Économie (2023), [« Introduction à la géologie de Taïwan »](https://www.gsmma.gov.tw/).
+[^1]: [Introduction à la géologie de Taïwan](https://www.gsmma.gov.tw/) — Centre de recherche géologique et de gestion minière du Ministère de l'économie (2023).
 
-[^2]: Administration centrale de la météorologie (2024), [« Statistiques climatiques de Taïwan »](https://www.cwa.gov.tw/).
+[^2]: [Données statistiques climatiques de Taïwan](https://www.cwa.gov.tw/) — Agence météorologique centrale (2024).
 
-[^3]: Centre national de topographie et cartographie, Ministère de l'Intérieur (2024), [« Rapport annuel des statistiques de mesure du territoire »](https://www.nlsc.gov.tw/).
+[^3]: [Rapport annuel des relevés territoriaux](https://www.nlsc.gov.tw/) — Centre national de cartographie territoriale du Ministère de l'intérieur (2024).
 
-[^4]: Wikipédia (2025), [« Géographie de Taïwan »](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+[^4]: [Géographie de Taïwan](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86) — Wikipédia (2025).
 
-[^5]: Wikipédia (2022), [« Géologie de Taïwan »](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+[^5]: [Géologie de Taïwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA) — Wikipédia (2022).
 
-[^6]: Réseau de conservation des paysages de Taïwan, Agence forestière et de conservation de la nature, Ministère de l'Agriculture, [« Composition et caractéristiques des paysages insulaires »](https://landscape.forest.gov.tw/).
+[^6]: [Composition et caractéristiques des paysages insulaires](https://landscape.forest.gov.tw/) — Réseau de conservation du paysage insulaire par le Ministère de l'agriculture, des forêts et de la conservation de la nature.
 
-[^7]: Sanmin Fuxiao (2025), [« Encyclopédie des connaissances géographiques de Taïwan »](https://www.3people.com.tw/).
+[^7]: [Encyclopédie des connaissances géographiques de Taïwan](https://www.3people.com.tw/) — Sanmin Bokao (2025).
+
+[^8]: [Les cinq types de relief de Taïwan](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — Centre de ressources pédagogiques de Taipei
+
+[^9]: [Données de base sur les rivières traversant plusieurs provinces](https://www.wra.gov.tw/cp.aspx?n=3164) — Agence des ressources en eau du Ministère de l'économie (2023)
+
+[^10]: [Description détaillée des côtes de Taïwan](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — Agence des ressources en eau du Ministère de l'économie (2023)
+
+[^11]: [Rapport d'enquête géologique sur le séisme de Guanshan du 17/09/2022 et le séisme de Chi Shang du 18/09](https://fault.gsmma.gov.tw/Reports/More/63cc5a4b2020403d9f79d3c33a7aba0c) — Centre de recherche géologique et de gestion minière du Ministère de l'économie
+
+[^12]: [Le cauchemar persistant de la sécheresse : pourquoi Taïwan, riche en pluies, fait-elle face à des difficultés de sécheresse ?](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — Encyclopédie climatique de l'Agence météorologique centrale
