@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T07:03:39+08:00",
-    "zhCommitHead": "9e5e982f3",
+    "lastUpdated": "2026-09-21T07:07:07+08:00",
+    "zhCommitHead": "95fea6c7b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1038,
-        "stale": 57,
+        "fresh": 1039,
+        "stale": 56,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1005,
+        "fresh": 1006,
         "stale": 54,
-        "metadata_stale": 48,
+        "metadata_stale": 47,
         "missing": 17,
         "orphan": 0
       },
@@ -76,16 +76,16 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1003,
-        "stale": 65,
+        "fresh": 1004,
+        "stale": 64,
         "metadata_stale": 10,
         "missing": 46,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 962,
-        "stale": 52,
+        "fresh": 963,
+        "stale": 51,
         "metadata_stale": 9,
         "missing": 101,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1025,
+        "fresh": 1024,
         "stale": 39,
         "metadata_stale": 8,
-        "missing": 52,
+        "missing": 53,
         "orphan": 0
       },
       "de": {
@@ -9172,8 +9172,8 @@
           "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
           "sourceBodyHash": "sha256:c2c5a393d951d7c5",
           "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "548b4114",
-          "translationLastModified": "2026-07-26T21:32:55+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -16407,8 +16407,8 @@
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
           "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -17277,8 +17277,8 @@
           "sourceContentHash": "sha256:5226e0cd696e818f",
           "sourceBodyHash": "sha256:3697d708565efd02",
           "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "a085b393",
-          "translationLastModified": "2026-07-27T01:40:54+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -22411,8 +22411,8 @@
           "sourceContentHash": "sha256:4b2a7f3ce14aead4",
           "sourceBodyHash": "sha256:c70ae774b0edc421",
           "translatedAt": "2026-09-20T22:51:58.114724+00:00",
-          "translationLastCommit": "500805a0",
-          "translationLastModified": "2026-08-09T15:39:15+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -67184,16 +67184,16 @@
         "fr": {
           "path": "fr/About/taiwan-official-resources.md",
           "translatedFrom": "About/台灣官方網站資源.md",
-          "sourceCommitSha": "026e5b584",
-          "sourceContentHash": "sha256:3a49c509011ce42d",
-          "sourceBodyHash": "sha256:637002941419ff56",
-          "translatedAt": "2026-07-26T15:11:23+08:00",
+          "sourceCommitSha": "0f26e4f94",
+          "sourceContentHash": "sha256:1f8dee6529992135",
+          "sourceBodyHash": "sha256:97a705b00e6deea8",
+          "translatedAt": "2026-09-21T00:58:28+08:00",
           "translationLastCommit": "e228a98b",
           "translationLastModified": "2026-07-26T16:38:58+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (2→0)"
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/About/taiwan-official-resources.md",
@@ -100985,18 +100985,16 @@
         "vi": {
           "path": "vi/People/park-min-seo.md",
           "translatedFrom": "People/朴旻曙.md",
-          "sourceCommitSha": "859d7316",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9b7fc7c2dcfd2ba4",
           "sourceBodyHash": "sha256:88c017dc32e26447",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
           "footnoteDefs": 1,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/park-min-seo.md",
@@ -161865,8 +161863,8 @@
           "sourceContentHash": "sha256:d82f573c8035bd6e",
           "sourceBodyHash": "sha256:e12316843009e7dd",
           "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -162558,18 +162556,7 @@
           "reason": "same-commit"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -163025,16 +163012,16 @@
         "hi": {
           "path": "hi/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
           "translatedFrom": "Geography/台灣農業地景與產業分布.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:5fcedd0ad0dc94f7",
-          "sourceBodyHash": "sha256:92c2111bcaaae7c8",
-          "translatedAt": "2026-08-06T18:32:30+08:00",
+          "sourceCommitSha": "b349895a3",
+          "sourceContentHash": "sha256:88ba75169cfa45ae",
+          "sourceBodyHash": "sha256:9f28d4872bf9c477",
+          "translatedAt": "2026-09-21T00:58:34+08:00",
           "translationLastCommit": "66e8626f",
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (11→6)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
@@ -166312,8 +166299,8 @@
           "sourceContentHash": "sha256:51364b574313e11f",
           "sourceBodyHash": "sha256:aa95a7b2cb0e4dcb",
           "translatedAt": "2026-09-21T00:58:37+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "95fea6c7",
+          "translationLastModified": "2026-09-21T07:03:43+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -188251,18 +188238,16 @@
         "pt": {
           "path": "pt/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:c5c6c2825029a48f",
-          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-08-04T20:19:12+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:7af3421e7470e32a",
+          "sourceBodyHash": "sha256:5c337ebcf1a5b681",
+          "translatedAt": "2026-09-20T23:04:24.944180+00:00",
           "translationLastCommit": "c64bb7a0",
           "translationLastModified": "2026-08-05T00:30:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-prime-time-drama.md",
