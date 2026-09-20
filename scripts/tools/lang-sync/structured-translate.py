@@ -465,6 +465,19 @@ def extract_footnote_defs(body: str) -> list[dict]:
                 title, url = leading_link.group(1), leading_link.group(2)
                 desc = rest[leading_link.end():].strip()
                 desc = re.sub(r"^(?:\+|—)\s*", "", desc)
+            elif EMBEDDED_LINK_RE.search(rest) or "[" in rest or "]" in rest:
+                # 散文型腳註：`報時光：[標題](URL) — desc`（連結前有出處前綴）、
+                # 「…同場另見[活動官方頁](URL)，講題為…」（連結在句中）、或
+                # 「演講逐字稿 [1:00:07]（未公開素材）」（方括號時間碼）。
+                # 2026-09-21 前這些全掉進下面的裸 URL 分支：title 切成
+                # `報時光：[標題](`、URL 之後的整段 desc 直接丟掉，組回來是
+                # `[[標題](](URL)` 這種巢狀壞連結，validate_footnotes 的方括號
+                # 檢查再把整篇擋下——一夜 36 次 Phase N 全在這裡陣亡，每次燒
+                # 130–750 秒，而 20 篇 ≥30 腳註的 zh 稿在 structured 引擎裡永遠
+                # 過不去。改成整條當 desc 送翻（title/url 空），內嵌連結的 URL
+                # 全走 @@LINKn@@ 保護，組回時照原樣 `[^n]: desc`，跟 whole 引擎
+                # 對這種腳註的處理一致。
+                title, url, desc = "", "", rest
             else:
                 url_m = re.search(r"https?://\S+", rest)
                 url = url_m.group(0).rstrip(".,，。、") if url_m else ""
@@ -477,6 +490,8 @@ def extract_footnote_defs(body: str) -> list[dict]:
             "url": url.strip(),
             "desc": desc_protected.strip(),
             "_link_restore": link_restore,
+            # prose = 整條腳註都在 desc（title/url 皆空），翻完不接受模型補的 title
+            "prose": not title and not url and bool(desc),
         })
     return defs
 
@@ -557,7 +572,10 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             "markdown code fence — JSON only.\n"
             "- 'title': the source's title, translated (keep proper nouns / "
             "publication names recognizable).\n"
-            "- 'desc': a short one-line description of what the source documents."
+            "- 'desc': a short one-line description of what the source documents.\n"
+            "- If 'title' is an empty string, the entry is a prose footnote: 'desc' IS "
+            "the whole footnote — translate it in full, sentence by sentence (do not "
+            "summarize, do not drop anything), and return 'title' as an empty string."
         )
         user = json.dumps(payload, ensure_ascii=False)
         try:
@@ -628,6 +646,10 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             title = str(item.get("title", d["title"]))
             desc = str(item.get("desc", d["desc"]))
             desc = _restore_embedded_links(desc, d["_link_restore"])
+            if d.get("prose"):
+                # 散文型腳註沒有 title 槽位；模型若自作主張填一個，組回去會多出
+                # 一段原文沒有的字。只收 desc。
+                title = ""
             out[d["n"]] = {"title": title, "desc": desc}
     return out
 
@@ -642,8 +664,14 @@ def validate_footnotes(defs: list[dict], translated: dict) -> list[str]:
     trans_ids = set(translated.keys())
     if orig_ids != trans_ids:
         problems.append(f"id set mismatch: missing={orig_ids - trans_ids} extra={trans_ids - orig_ids}")
+    prose_ids = {d["n"] for d in defs if d.get("prose")}
     for n, item in translated.items():
         title = str(item.get("title", ""))
+        if n in prose_ids:
+            # 散文型腳註：整條在 desc，title 本來就空；desc 空才是問題。
+            if not str(item.get("desc", "")).strip():
+                problems.append(f"footnote {n}: prose footnote translated to empty")
+            continue
         if not title.strip():
             problems.append(f"footnote {n}: title empty")
         if "\n" in title or "[" in title or "]" in title:
@@ -656,7 +684,9 @@ def assemble_footnote_defs(defs: list[dict], translated: dict) -> str:
     for d in defs:
         t = translated.get(d["n"], {"title": d["title"], "desc": d["desc"]})
         title, desc = t["title"], t["desc"]
-        if not d["url"]:
+        if d.get("prose"):
+            lines.append(f"[^{d['n']}]: {desc}")
+        elif not d["url"]:
             # 2026-07-25 pilot 發現（台灣咖啡文化.md [^3]/[^7]/[^9] 等）：來源本來
             # 就是純文字引註，沒有 URL（「散見於台灣飲食文化研究及地方誌」這種泛引）
             # ——硬包成 [title]() 會產生殘破的空連結。原樣保留純文字格式，不強加
@@ -1159,6 +1189,15 @@ def main():
     # dispatcher 端走「no output」路徑（保留舊版、退避重排），省整輪 gate。
     if failed_chunks:
         print(f"❌ {len(failed_chunks)} chunk(s) failed after retries — aborting, no output written")
+        # 2026-09-21：dispatcher 不帶 --metrics-out，exit 1 時 metrics 也不落檔，
+        # 一夜 66 次「chunk 失敗」在 master.log 只剩上面那一行——燒掉約 40 小時
+        # worker 時間卻查不出敗在腳註標記、URL、CJK 殘留還是 backend 逾時
+        # （REFLEXES #85：「不知道」不能借「沒事」的符號）。把每個失敗 chunk 的
+        # 最後一輪問題印出來，dispatcher 收 stdout 尾 3000 字，這裡剛好進得去。
+        for c in failed_chunks:
+            issues = "; ".join(str(i) for i in c.get("issues", []))[:300]
+            print(f"   chunk {c['index']} ({c['zh_chars']} zh chars, "
+                  f"{c['attempts']} attempt(s)): {issues}")
         if args.metrics_out:
             Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
         return 1

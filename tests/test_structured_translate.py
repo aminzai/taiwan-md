@@ -221,3 +221,66 @@ def test_translate_frontmatter_copies_subcategory_verbatim_from_zh():
     block = MODULE.translate_frontmatter(zh_fm, "", "Music/周蕙.md", "vi", Backend(), {})
     assert "subcategory: '歌手'" in block
     assert "title: 'vi:周蕙'" in block
+
+
+def test_extract_prose_footnote_keeps_whole_text_and_armors_links():
+    """散文型腳註（出處前綴＋連結、句中連結、方括號時間碼）2026-09-21 前掉進裸
+    URL 分支：title 切成 `報時光：[標題](`、URL 後的 desc 整段丟掉，組回是巢狀壞
+    連結，再被 validate_footnotes 擋下——一夜 36 次 Phase N 全在此陣亡。"""
+    body = (
+        "[^1]: 報時光：[被周杰倫買走](https://time.udn.com/a) — 報導 TPA 奪冠。\n"
+        "[^9]: 吳哲宇，演講逐字稿 [1:00:07]（未公開素材）。同場另見"
+        "[活動官方頁](https://events.example/x)，講題為主權實作。\n"
+        "[^3]: 散見於台灣飲食文化研究及地方誌。"
+    )
+
+    defs = MODULE.extract_footnote_defs(body)
+
+    assert defs[0]["prose"] and defs[0]["title"] == "" and defs[0]["url"] == ""
+    assert defs[0]["desc"] == "報時光：[被周杰倫買走](@@LINK0@@) — 報導 TPA 奪冠。"
+    assert defs[0]["_link_restore"] == [("@@LINK0@@", "https://time.udn.com/a")]
+    assert defs[1]["prose"]
+    assert "[1:00:07]" in defs[1]["desc"] and "@@LINK0@@" in defs[1]["desc"]
+    # 純文字、無方括號的舊路徑不變：整條當 title
+    assert not defs[2]["prose"] and defs[2]["title"].startswith("散見於")
+
+
+def test_prose_footnote_roundtrip_validates_and_assembles_verbatim_shape():
+    body = "[^1]: 報時光：[被周杰倫買走](https://time.udn.com/a) — 報導 TPA 奪冠。"
+    defs = MODULE.extract_footnote_defs(body)
+    translated = {
+        "1": {
+            "title": "",
+            "desc": "Time UDN: [Bought by Jay Chou](https://time.udn.com/a) — on TPA's win.",
+        }
+    }
+
+    assert MODULE.validate_footnotes(defs, translated) == []
+    assert MODULE.assemble_footnote_defs(defs, translated) == (
+        "[^1]: Time UDN: [Bought by Jay Chou](https://time.udn.com/a) — on TPA's win."
+    )
+    assert MODULE.validate_footnotes(defs, {"1": {"title": "", "desc": " "}}) == [
+        "footnote 1: prose footnote translated to empty"
+    ]
+
+
+def test_prose_footnote_ignores_model_supplied_title():
+    """模型看到空 title 有時會自己補一個；組回去會多出原文沒有的字。"""
+    body = "[^2]: 見[維基百科：BBS 在台灣](https://zh.wikipedia.org/wiki/BBS)。"
+    defs = MODULE.extract_footnote_defs(body)
+    import json
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            payload = json.loads(user)
+            return json.dumps([
+                {"n": p["n"], "title": "Invented Title", "desc": "See [Wikipedia: BBS in Taiwan](@@LINK0@@)."}
+                for p in payload
+            ], ensure_ascii=False)
+
+    out = MODULE.translate_footnotes(defs, "en", Backend(), {"calls": []})
+
+    assert out["2"]["title"] == ""
+    assert out["2"]["desc"] == "See [Wikipedia: BBS in Taiwan](https://zh.wikipedia.org/wiki/BBS)."
