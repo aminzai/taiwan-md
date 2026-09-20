@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T18:35:35+08:00",
-    "zhCommitHead": "31f0dcac4",
+    "lastUpdated": "2026-09-20T18:58:08+08:00",
+    "zhCommitHead": "1f25af2f2",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 59,
+        "fresh": 1036,
+        "stale": 58,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1043,
-        "stale": 56,
+        "fresh": 1044,
+        "stale": 55,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1039,
-        "stale": 56,
+        "fresh": 1040,
+        "stale": 55,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 992,
-        "stale": 55,
+        "fresh": 993,
+        "stale": 54,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
@@ -5710,18 +5710,16 @@
         "en": {
           "path": "en/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce7",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-06-29T00:47:38+08:00",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-20T10:44:17.880815+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/pop-music-and-golden-melody-awards.md",
@@ -5742,18 +5740,16 @@
         "ko": {
           "path": "ko/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce7",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-06-29T00:47:38+08:00",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-20T10:47:45.754803+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/pop-music-and-golden-melody-awards.md",
@@ -39422,16 +39418,16 @@
         "vi": {
           "path": "vi/Art/development-of-contemporary-taiwanese-sculpture.md",
           "translatedFrom": "Art/台灣當代雕塑發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:91ce45b4be5f77a7",
-          "sourceBodyHash": "sha256:fe5beda00418f863",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "b8f50ebb3",
+          "sourceContentHash": "sha256:9e576e02178fac1e",
+          "sourceBodyHash": "sha256:8ccb8ebcb456fad3",
+          "translatedAt": "2026-09-20T00:52:41+08:00",
           "translationLastCommit": "29f4fec6",
           "translationLastModified": "2026-08-09T11:48:54+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (18→11)"
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -78298,8 +78294,8 @@
           "sourceContentHash": "sha256:f7989f09dc5120dd",
           "sourceBodyHash": "sha256:22f458cb51ab119a",
           "translatedAt": "2026-09-20T00:52:41+08:00",
-          "translationLastCommit": "df7bf8e5",
-          "translationLastModified": "2026-09-13T21:01:53+08:00",
+          "translationLastCommit": "1f25af2f",
+          "translationLastModified": "2026-09-20T18:35:35+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -96443,8 +96439,8 @@
           "sourceContentHash": "sha256:28ebca4abc1527e4",
           "sourceBodyHash": "sha256:2ae685b1d23ee474",
           "translatedAt": "2026-09-20T09:02:13.386260+00:00",
-          "translationLastCommit": "52d77b08",
-          "translationLastModified": "2026-07-27T19:03:33+08:00",
+          "translationLastCommit": "1f25af2f",
+          "translationLastModified": "2026-09-20T18:35:35+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -99434,18 +99430,16 @@
         "fr": {
           "path": "fr/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:14127c407e7b0db7",
-          "sourceBodyHash": "sha256:6d452360d79fae70",
-          "translatedAt": "2026-08-03T22:55:36+08:00",
+          "sourceCommitSha": "89b721a3d",
+          "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
+          "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
+          "translatedAt": "2026-09-20T00:52:39+08:00",
           "translationLastCommit": "89b721a3",
           "translationLastModified": "2026-09-18T21:24:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+70 -38"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tsmc-morris-chang.md",
