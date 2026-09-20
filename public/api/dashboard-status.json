@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T18:42:25.864Z",
+  "generated_at": "2026-09-20T22:13:59.368Z",
   "routines": {
     "fetched_at": "2026-09-20T06:16:02+08:00",
-    "stale_hours": 20.4,
+    "stale_hours": 24,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -75,8 +75,8 @@
         "cron": "30 0 * * *",
         "cadence_human": "每天 00:30",
         "enabled": true,
-        "status": "degraded",
-        "last_fire": "2026-09-20T00:56:50+08:00",
+        "status": "operational",
+        "last_fire": "2026-09-21T00:50:44+08:00",
         "grid14": [
           {
             "date": "2026-09-08",
@@ -132,7 +132,7 @@
           },
           {
             "date": "2026-09-21",
-            "state": "missed"
+            "state": "fired"
           }
         ]
       },
@@ -141,7 +141,7 @@
         "cron": "0 6 * * *",
         "cadence_human": "每天 06:00",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-09-20T06:18:51+08:00",
         "grid14": [
           {
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-21",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -274,7 +274,7 @@
         "cadence_human": "每天 05:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-20T05:10:01+08:00",
+        "last_fire": "2026-09-21T05:07:33+08:00",
         "grid14": [
           {
             "date": "2026-09-08",
@@ -330,7 +330,7 @@
           },
           {
             "date": "2026-09-21",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -670,7 +670,7 @@
         "cadence_human": "每天 05:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-09-20T05:38:57+08:00",
+        "last_fire": "2026-09-21T05:37:59+08:00",
         "grid14": [
           {
             "date": "2026-09-08",
@@ -726,7 +726,7 @@
           },
           {
             "date": "2026-09-21",
-            "state": "idle"
+            "state": "fired"
           }
         ]
       },
@@ -1312,29 +1312,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-20T18:15:11Z",
-      "conclusion": "success",
-      "title": "Routine stall alert: Routine stall alert"
+      "ts": "2026-09-20T21:58:15Z",
+      "conclusion": "in_progress",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-21 05:07 — 13 語…"
     },
     {
-      "ts": "2026-09-20T17:15:38Z",
+      "ts": "2026-09-20T21:55:16Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-supporters-weekly @ 2026-09-21 01:00 — 第六輪 0…"
+      "title": "Engineering contracts: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-21 05:53"
     },
     {
-      "ts": "2026-09-20T16:59:15Z",
-      "conclusion": "success",
-      "title": "Python tests: 🧬 [semiont] babel: 葡文打撈 1 篇換版時擱在工作樹的完稿（verify_one 1/1 過，worker=nemo）"
-    },
-    {
-      "ts": "2026-09-20T16:59:15Z",
+      "ts": "2026-09-20T21:55:16Z",
       "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: 葡文打撈 1 篇換版時擱在工作樹的完稿（verify_one 1/1 過，worker=nemo）"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-21 05:53"
     },
     {
-      "ts": "2026-09-20T16:59:15Z",
+      "ts": "2026-09-20T21:40:07Z",
+      "conclusion": "cancelled",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-09-21 05:30 — 第 55 輪三層對賬…"
+    },
+    {
+      "ts": "2026-09-20T21:27:21Z",
       "conclusion": "success",
-      "title": "Engineering contracts: 🧬 [semiont] babel: 葡文打撈 1 篇換版時擱在工作樹的完稿（verify_one 1/1 過，worker=nemo）"
+      "title": "Translation PR Check: translate(id): 麥當樂 → mai-dang-le-burger"
     }
   ]
 }

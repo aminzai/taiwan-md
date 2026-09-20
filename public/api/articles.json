@@ -74,6 +74,17 @@
     "path": "ko/People/mavis-fan-singer.md"
   },
   {
+    "title": "'८७ बाढ़': बाढ़ ने कैसे ताइवान के घर और राष्ट्र को फिर से लिखा",
+    "description": "अगस्त 1959 की '८७ बाढ़' ने ताइवान के मध्य और दक्षिण को गंभीर रूप से प्रभावित किया, जिसमें 667 लोग मारे गए, 408 लापता हो गए और 3 लाख से अधिक लोग विस्थापित हुए। डौ-ल्यू में भारी बारिश, टूटे पुलों, अमेरिकी हेलीकॉप्टर द्वारा हवाई सर्वेक्षण, आपदा रिपोर्ट और एक उत्तर-जाने वाली महिला श्रमिक की वापसी की यादों के माध्यम से, '८७ बाढ़' केवल मौसम की आपदा नहीं थी, बल्कि यह राष्ट्र के सांख्यिकीयकरण, बचाव, पुनर्निर्माण और स्थानीय जीवन के पुनर्गठन का एक मोड़ भी था।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/1959-august-7-flood",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-08-22",
+    "path": "hi/History/1959-august-7-flood.md"
+  },
+  {
     "title": "'CommonWealth Magazine: cuarenta años clasificando el «éxito» de Taiwán desde el lugar más cercano al capital'",
     "description": "En junio de 1981, una revista económico-financiera llamada CommonWealth nació en una isla bajo ley marcial; su primera tirada de diez mil ejemplares se agotó en dos días. El impulsor fue el economista Kao Hsi-chun, y su alma fue Diane Ying, exreportera de United Press International y The New York Times. Cuarenta años después, se convirtió en uno de los medios más confiables de Taiwán, y también en el «definidor del éxito» detrás de las listas de las 2.000 empresas principales, los 50 grandes grupos y las ciudades felices. La fuente de su credibilidad y la fuente de su poder para clasificar provienen de la misma distancia.",
     "category": "es",
@@ -5052,7 +5063,7 @@
       "地緣政治"
     ],
     "url": "https://taiwan.md/history/%E5%8F%B0%E6%B5%B7%E5%8D%B1%E6%A9%9F%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E7%99%BC%E5%B1%95",
-    "readingTime": 24,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-04-08",
     "path": "History/台海危機與兩岸關係發展.md"
@@ -6337,11 +6348,18 @@
   },
   {
     "title": "台湾農業の現代化発展",
-    "description": "台湾が伝統農業から現代的な精緻農業へ転換した過程を考察し、有機農業、農村再生、レクリエーション農業などの革新的な発展モデルを含めて論じます",
+    "description": "台湾が伝統的農業から現代の精緻農業へ転換する過程を探討する。有機農業、農村再生、レジャー農業などの革新的発展モデルを含む",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "農業",
+      "精緻農業",
+      "有機農業",
+      "農村再生",
+      "レジャー農業",
+      "現代化"
+    ],
     "url": "https://taiwan.md/ja/economy/taiwan-agricultural-modernization",
-    "readingTime": 33,
+    "readingTime": 35,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Economy/taiwan-agricultural-modernization.md"
@@ -7060,19 +7078,19 @@
     "path": "ja/Society/taiwan-generations.md"
   },
   {
-    "title": "台湾の五大地形と地理構造：山脈から平野までの島嶼の風貌",
-    "description": "台湾の独自の地理構造を探る。中央山脈から西部平野まで、この島嶼の地形の多様性を理解する",
+    "title": "台湾の五大地形と地理的構造：山脈から平原に至る島の景観",
+    "description": "中央山脈から西部平原まで、台湾特有の地理的構造を探求し、この島々の地形的多様性を理解します。",
     "category": "ja",
     "tags": [
       "地理",
       "地形",
       "山脈",
-      "平野",
+      "平原",
       "台湾",
       "自然地理"
     ],
     "url": "https://taiwan.md/ja/geography/taiwan-five-major-landforms-and-geographic-structure",
-    "readingTime": 21,
+    "readingTime": 26,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
@@ -7698,8 +7716,8 @@
     "path": "ja/Society/taiwan-provincial-tensions.md"
   },
   {
-    "title": "台湾の島嶼地理の特色と形成",
-    "description": "台湾の独自の島嶼地理の特色を探る。プレート運動から地形構造まで、フォルモサ島の自然の神秘を解き明かします。",
+    "title": "台湾の島嶼地理的特色と形成",
+    "description": "台湾特有の島嶼地理的特色を、プレート運動から地形構造まで探求し、フォルモサ島の自然の神秘を理解します。",
     "category": "ja",
     "tags": [
       "地理",
@@ -7709,7 +7727,7 @@
       "地形"
     ],
     "url": "https://taiwan.md/ja/geography/geography-and-geology",
-    "readingTime": 23,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Geography/geography-and-geology.md"
@@ -7985,11 +8003,11 @@
   },
   {
     "title": "台湾の循環経済と資源再利用",
-    "description": "線形経済から循環経済への転換を通じて、台湾の資源リサイクル、廃棄物処理、持続可能な発展モデルを探ります",
+    "description": "線形経済から循環経済へ転換し、台湾の資源回収・廃棄物処理・持続可能な発展モデルを探る",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/economy/circular-economy-and-resource-recycling",
-    "readingTime": 23,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Economy/circular-economy-and-resource-recycling.md"
@@ -15001,6 +15019,23 @@
     "path": "People/多米多羅.md"
   },
   {
+    "title": "多ミ多ロ：「間違いを指摘する」を一種の公共パフォーマンスにする——笑いの向こうに誰が修正資格を持つのか",
+    "description": "2024年、八曜和茶の日本語文言を訂正する動画で「日本語警察」として注目を集めた多ミ多ロ。2026年には黄山料の作品を批評する動画でさらに多くの人の目を得た。東京での日本語、漫画、社会文化批評からセクシャルハラスメント問題の司法攻防まで、彼の路線は単なる毒舌ではなく、「私が指摘する」を観客が一緒に参加できるパフォーマンスに変えている。",
+    "category": "ja",
+    "tags": [
+      "多ミ多ロ",
+      "YouTuber",
+      "日本語警察",
+      "日本",
+      "ネットカルチャー"
+    ],
+    "url": "https://taiwan.md/ja/people/domidoro",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "ja/People/domidoro.md"
+  },
+  {
     "title": "安坑輕軌：一座橋跨過新店溪，最後一哩還在社區裡",
     "description": "2015 年國發會審議安坑線時，安坑的人口已經長得比道路快；2023 年 7.5 公里的輕軌終於跨過新店溪接上十四張。2025 年全年運量約 203 萬人次，與規劃階段每日 6.9 萬人次的目標仍有距離。這條線留下的問題是：列車到了，居民要怎麼走到列車、再走回家？",
     "category": "Geography",
@@ -17518,6 +17553,24 @@
     "featured": false,
     "date": "2026-05-03",
     "path": "People/季麟連.md"
+  },
+  {
+    "title": "学力テスト：わずか3日間の試験なのに、高校3年分を一枚の成績表に折り込んでしまう試験",
+    "description": "1954年の聯考（大学聯合招生）、1994年の學測（学科能力測驗）から今日の分科測驗まで、台湾の大学入学制度がいかに単一基準と多元選抜の間で調整されてきたかを理解し、學測・分科測驗・重考の異なるルートを整理する。",
+    "category": "ja",
+    "tags": [
+      "學測",
+      "分科測驗",
+      "大学聯考",
+      "大学入学",
+      "教育",
+      "高校生"
+    ],
+    "url": "https://taiwan.md/ja/society/gsat-taiwan",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ja/Society/gsat-taiwan.md"
   },
   {
     "title": "学校給食：脱脂粉乳から蛍光カレーまで、台湾の子どもたちの食卓をめぐる百年の変革",
@@ -26571,17 +26624,17 @@
   },
   {
     "title": "農業技術と精緻農業",
-    "description": "台灣がどのように伝統農業からハイテク精緻農業へ転換し、農業の奇跡を創造したか",
+    "description": "台湾がいかに伝統農業からハイテク精緻農業へ転換し、農業の奇跡を創り出したか",
     "category": "ja",
     "tags": [
       "精緻農業",
       "農業技術",
-      "蘭花",
-      "パイナップル释迦",
+      "ラン",
+      "鳳梨釈迦",
       "スマート農業"
     ],
     "url": "https://taiwan.md/ja/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 23,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Economy/agricultural-technology-and-refined-agriculture.md"
@@ -31686,6 +31739,17 @@
     "path": "pt/Culture/taiwan-new-idol-generation.md"
   },
   {
+    "title": "A orquídea de Taiwan: como uma flor se tornou uma indústria de exportação global",
+    "description": "Na década de 1990, uma orquídea saiu de um estufa em Taiwan e começou a atravessar os oceanos não como um ramo florido, mas como uma planta com raízes. Seu sucesso não se deve apenas ao clima, mas também à pesquisa de melhoramento genético de figuras como Lee Kai-shek, aos estufas padronizados da Taiwan Sugar Corporation, à divisão de tarefas entre pequenos viveiros de Tainan, e às negociações de quarentena, transporte e direitos de variedades. O que parece uma flor frágil é, na verdade, uma exportação de um sistema produtivo replicável, verificável e transferível entre fronteiras.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/economy/taiwan-orchid-industry",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "pt/Economy/taiwan-orchid-industry.md"
+  },
+  {
     "title": "A paciência na taça de alumínio: setenta anos de filosofia do banho-maria no pig heart vermicelli do A-ming",
     "description": "No nº 72 da Rua Pao-an em Tainan, o pig heart vermicelli do Huang Hsien-ming abre às 17 h e forma filas gigantescas todas as noites; entrou no Bib Gourmand Michelin em 2022. O segredo não está no ingrediente — o coração de porco é miudeza barata de trabalhador — mas no método: fatias de coração em taças de alumínio aquecidas em banho-maria, deixando a temperatura penetrar lentamente de fora para dentro, produzindo coração sem cheiro forte, sem dureza, com doçura natural.",
     "category": "pt",
@@ -32488,26 +32552,15 @@
     "path": "en/History/taiwan-farmers-association-history.md"
   },
   {
-    "title": "Agricultural Technology and Refined Agriculture",
-    "description": "How Taiwan transformed from traditional agriculture to high-tech refined agriculture, creating an agricultural miracle",
+    "title": "Agricultural Technology and Precision Agriculture",
+    "description": "How Taiwan transformed from traditional farming to high-tech precision agriculture, creating an agricultural miracle",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 66,
+    "readingTime": 75,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Economy/agricultural-technology-and-refined-agriculture.md"
-  },
-  {
-    "title": "Agriculture et revitalisation rurale à Taïwan",
-    "description": "Du royaume du riz à l'agriculture de précision : l'histoire de la transformation agricole de Taïwan et de la renaissance des communautés rurales",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/economy/taiwan-agriculture-and-rural-revitalization",
-    "readingTime": 74,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "fr/Economy/taiwan-agriculture-and-rural-revitalization.md"
   },
   {
     "title": "Água encanada de Taiwan: um século de engenharia e ansiedade com a seca por trás da torneira",
@@ -33316,22 +33369,6 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "de/Culture/traditional-festivals-and-celebrations.md"
-  },
-  {
-    "title": "Alta Velocidade de Taiwan: do \"zero de investimento governamental\" ao \"propriedade estatal, gestão privada\", o custo de reduzir a distância em 90 minutos",
-    "description": "Em 1998, Yin Qi assinou este contrato BOT, prometendo zero investimento do governo. Em 2015, o Parlamento rejeitou por 18 a 0 a proposta de reforma financeira, e Ye Kuangshi pediu demissão na mesma noite. Em dezessete anos, como Taiwan usou 513,3 bilhões de NT$ e uma guerra tecnológica entre Europa e Japão para comprimir a distância norte-sul em 90 minutos?",
-    "category": "pt",
-    "tags": [
-      "Transporte",
-      "Infraestrutura",
-      "Economia",
-      "Sociedade"
-    ],
-    "url": "https://taiwan.md/pt/lifestyle/taiwan-high-speed-rail",
-    "readingTime": 118,
-    "featured": false,
-    "date": "2026-04-19",
-    "path": "pt/Lifestyle/taiwan-high-speed-rail.md"
   },
   {
     "title": "Âm nhạc Đài Loan: đảo làm hôn phối cho cả thế giới, cuối cùng chỉ còn lại khả năng hát những gì kẻ khác không thể hát",
@@ -38927,53 +38964,53 @@
   },
   {
     "title": "Características geográficas y formación de la isla de Taiwán",
-    "description": "Explora las singulares características geográficas de la isla de Taiwán, desde el movimiento de placas tectónicas hasta la estructura topográfica, y descubre los secretos naturales de la isla de Formosa",
+    "description": "Explora las características geográficas únicas de Taiwán, desde el movimiento de las placas hasta la estructura del terreno, y descubre los misterios naturales de la isla de Formosa",
     "category": "es",
     "tags": [
-      "Geología",
       "Geografía",
+      "Geología",
       "Isla",
       "Movimiento de placas",
-      "Topografía"
+      "Relieve"
     ],
     "url": "https://taiwan.md/es/geography/geography-and-geology",
-    "readingTime": 71,
+    "readingTime": 74,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Geography/geography-and-geology.md"
   },
   {
-    "title": "Características Urbanas e Cultura Regional",
-    "description": "De a metrópole internacional de Taipé ao charme da antiga capital de Tainan, como as cidades de Taiwan moldam identidades locais únicas",
+    "title": "Características urbanas e cultura regional",
+    "description": "Desde a agitação da capital internacional de Taipé até o charme da cidade antiga de Tainan, como as cidades da Taiwan moldaram uma identidade local única",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/geography/urban-character-and-regional-culture",
-    "readingTime": 98,
+    "readingTime": 110,
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Geography/urban-character-and-regional-culture.md"
   },
   {
     "title": "Características urbanas y cultura regional",
-    "description": "Desde la metrópolis internacional de Taipéi hasta el aire de antigua capital de Tainan: cómo las ciudades de Taiwán moldean identidades locales distintivas",
+    "description": "Desde la metrópolis internacional de Taipéi hasta el encanto antiguo de Tainan, cómo las ciudades de Taiwán forjan identidades locales únicas",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/geography/urban-character-and-regional-culture",
-    "readingTime": 108,
+    "readingTime": 111,
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Geography/urban-character-and-regional-culture.md"
   },
   {
-    "title": "Caractéristiques géographiques et formation de l'île de Taïwan",
-    "description": "Explorez les caractéristiques géographiques uniques de l'île de Taïwan, de la tectonique des plaques à la structure topographique, et découvrez les mystères naturels de l'île de Formose",
+    "title": "Caractéristiques géographiques insulaires et formation de Taïwan",
+    "description": "Exploration des caractéristiques géographiques uniques de Taïwan, du mouvement de plaques à la structure topographique, pour comprendre les mystères naturels de l'île de Formose",
     "category": "fr",
     "tags": [
-      "géologie",
       "géographie",
+      "géologie",
       "île",
-      "tectonique des plaques",
-      "topographie"
+      "mouvement de plaques",
+      "relief"
     ],
     "url": "https://taiwan.md/fr/geography/geography-and-geology",
     "readingTime": 72,
@@ -41349,6 +41386,17 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "fr/People/cheng-li-wun.md"
+  },
+  {
+    "title": "Cheng Li-wen",
+    "description": "Dari seorang gadis mahasiswi yang berjagaan puasa demi kemerdekaan Taiwan di pintu gerbang Universitas Nasional Taiwan pada 1988, hingga menjadi ketua Partai Nasional Republik yang berkata \"keduanya, orang Taiwan dan orang Tiongkok adalah orang Tiongkok\" di depan Presiden Xi Jinping pada 2026. Apa yang terjadi di antara dua titik ini?",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/cheng-li-wun",
+    "readingTime": 115,
+    "featured": true,
+    "date": "2026-04-11",
+    "path": "id/People/cheng-li-wun.md"
   },
   {
     "title": "Cheng Li-wen",
@@ -43949,17 +43997,6 @@
     "path": "fr/Culture/taiwan-panorama-magazine.md"
   },
   {
-    "title": "Ciri Khas Kota dan Budaya Wilayah",
-    "description": "Dari metro internasional Taipei hingga nuansa kota tua Tainan, bagaimana berbagai kota Taiwan membentuk identitas lokal yang unik",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/geography/urban-character-and-regional-culture",
-    "readingTime": 82,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "id/Geography/urban-character-and-regional-culture.md"
-  },
-  {
     "title": "Ciudad de Chiayi: nombrada Chiayi por un emperador, pero convertida en la ciudad provincial más fácil de pasar por alto",
     "description": "En el año 52 del reinado Qianlong de la dinastía Qing, un edicto cambió el nombre de “Zhuluo” a “Chiayi”: la única ciudad de todo Taiwán cuyo nombre fue otorgado personalmente por un emperador. En 1908, los japoneses levantaron en los arrozales, 3.3 kilómetros al suroeste de esta ciudad, el primer monumento del mundo al trópico de Cáncer. En 1931, el equipo heterogéneo de tres grupos étnicos de la Escuela Agrícola y Forestal de Chiayi llegó al subcampeonato en Koshien. El 25 de marzo de 1947, el pintor Chen Cheng-po fue atado y fusilado frente a la estación de tren; su cadáver permaneció tres días en la calle. Hoy, la Ciudad de Chiayi tiene 260,000 habitantes y 60 kilómetros cuadrados, no cuenta con estación de tren de alta velocidad, está completamente rodeada por el Condado de Chiayi y es un espécimen de ciudad mediana taiwanesa.",
     "category": "es",
@@ -44241,12 +44278,12 @@
     "path": "pt/Technology/e-commerce-and-digital-payment-ecosystem.md"
   },
   {
-    "title": "Comércio Externo de Taiwan e a Cadeia de Abastecimento Global",
-    "description": "Da orientação para exportação ao nó crítico da cadeia de abastecimento: como Taiwan mantém a vantagem comercial na confrontação EUA-China",
+    "title": "Comércio Exterior de Taiwan e a Cadeia de Suprimentos Global",
+    "description": "Da orientação para exportação ao nó chave da cadeia de suprimentos: como Taiwan mantém sua vantagem comercial na rivalidade EUA-China",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 71,
+    "readingTime": 85,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
@@ -46531,17 +46568,6 @@
     "path": "vi/Technology/east-asian-input-methods.md"
   },
   {
-    "title": "Cương Thái Văn: Từ khói nên Bắc Hương đến thiên thần nhạc tiếng Tai, và cuộc chiến bí mật kéo dài 9 năm",
-    "description": "Từ khi thứ 10 tuổi hát tại nhà hàng Bắc Hương, đến khi trở thành thiên thần nhạc tiếng Tai với doanh số bán hàng triệu, Cương Thái Văn đã viết lại vị trí văn hóa dân tộc của Đài Loan bằng tiếng hát, nhưng tại đỉnh cao, cô chọn ngừng hát vì cuộc chiến bí mật chống ung thư.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/jody-chiang",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "vi/People/jody-chiang.md"
-  },
-  {
     "title": "Curadores de Taiwan e a Construção Cultural Artística",
     "description": "Desde os primórdios institucionais do início dos anos 1990 até as plataformas internacionais de hoje, como os curadores de Taiwan construíram o discurso artístico local na onda da globalização e como encontraram a sua própria voz no sistema internacional de bienais? Uma história evolutiva de 30 anos sobre identidade cultural e construção profissional.",
     "category": "pt",
@@ -47757,6 +47783,17 @@
     "path": "de/Culture/hla-alua-people.md"
   },
   {
+    "title": "Das Waldökosystem Taiwans",
+    "description": "Eine vertikale Reise vom Meeresspiegel bis zum Gipfel des Jade-Mountains, durch das dichteste Waldspektrum der Erde",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/nature/taiwan-forest-ecosystems",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/Nature/taiwan-forest-ecosystems.md"
+  },
+  {
     "title": "Das Zhongli-Ereignis: Wie ein manipuliertes Wahlscheinwerfzeug die Entwicklung der lokalen Demokratie in Taiwan beschleunigte",
     "description": "Am 19. November 1977 stellte sich der unabhängige Kandidat Xu Xingliang der Nominierung der Kuomintang für das Präsidentenamt des Bezirks Taoyuan entgegen. Ausgehend von einem umstrittenen Wahlscheinwerfzeug in der Zhongli-Volksschule, blockierten die Massen die Polizeidienststelle. In dieser außer Kontrolle geratenen Nacht veränderte sich, wie Wahlscheine betrachtet wurden, und hinterließ bis heute unvollendete Akten und Opfer. Der Beitrag beleuchtet die Entwicklung von Wahlliedern, lokalen Fraktionen und Wahllokalräumen und fragt, warum die Ordnung der autoritären Ära vor einem einzigen Wahlscheinwerkzeug ihre Glaubwürdigkeit verlor.",
     "category": "de",
@@ -48903,6 +48940,17 @@
     "path": "es/Technology/artificial-intelligence-development-strategy.md"
   },
   {
+    "title": "Desarrollo de la Modernización Agrícola en Taiwán",
+    "description": "Exploración del proceso de transición de la agricultura tradicional a la agricultura moderna y de alta calidad en Taiwán, incluyendo modelos innovadores como la agricultura orgánica, la regeneración rural y el agroturismo.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/taiwan-agricultural-modernization",
+    "readingTime": 114,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "es/Economy/taiwan-agricultural-modernization.md"
+  },
+  {
     "title": "Desarrollo de la tecnología financiera en Taiwán",
     "description": "Un prodigio de Wall Street regresa a Taiwán para fundar una plataforma de pagos móviles; nueve años después, su empresa es clausurada y sus cuentas tienen menos de mil yuanes. Esta no es solo la historia de un hombre, sino la década de la tecnología financiera en toda la isla, oscilando entre la 'apertura' y la 'pérdida de control'.",
     "category": "es",
@@ -49039,6 +49087,17 @@
     "featured": true,
     "date": "2026-03-29",
     "path": "pt/Technology/taiwan-space-industry-development.md"
+  },
+  {
+    "title": "Desenvolvimento da modernização da agricultura em Taiwan",
+    "description": "Explora o processo de transformação da agricultura tradicional baseada no trabalho manual em uma agricultura moderna e refinada em Taiwan, incluindo a agricultura orgânica, a regeneração rural e os modelos inovadores de turismo agrícola",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/economy/taiwan-agricultural-modernization",
+    "readingTime": 114,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "pt/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Desenvolvimento do sistema de cuidados de longa duração de Taiwan",
@@ -49657,17 +49716,6 @@
     "path": "de/Economy/taiwan-fintech-development.md"
   },
   {
-    "title": "Die Entwicklung der modernen Landwirtschaft in Taiwan",
-    "description": "Eine Untersuchung des Wandels von der traditionellen zur modernen, hochwertigen Landwirtschaft in Taiwan, einschließlich innovativer Entwicklungsmodelle wie Bio-, ländliche Erneuerung und Freizeitlandwirtschaft.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/economy/taiwan-agricultural-modernization",
-    "readingTime": 106,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "de/Economy/taiwan-agricultural-modernization.md"
-  },
-  {
     "title": "Die Entwicklung der taiwanesischen Cybersicherheitsindustrie",
     "description": "Von staatlichen Politikmaßnahmen bis zu zivilgesellschaftlicher Innovation: Wie Taiwan inmitten globaler Cyberbedrohungen ein ganzheitliches Ökosystem der Informationssicherheit aufbaut",
     "category": "de",
@@ -49820,23 +49868,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "de/Lifestyle/taiwan-recycling-and-circular-living-culture.md"
-  },
-  {
-    "title": "Die Inselgeographie und Entstehung Taiwans",
-    "description": "Erkundung der einzigartigen insularen geographischen Merkmale Taiwans, von Plattentektonik bis zu den topografischen Strukturen, um die natürlichen Geheimnisse der Formosa-Insel zu verstehen.",
-    "category": "de",
-    "tags": [
-      "Geographie",
-      "Geologie",
-      "Inseln",
-      "Plattentektonik",
-      "Topographie"
-    ],
-    "url": "https://taiwan.md/de/geography/geography-and-geology",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Geography/geography-and-geology.md"
   },
   {
     "title": "Die Jiaogong Band: Die Musik des Widerstands aus der ländlichen Taiwan",
@@ -52024,6 +52055,17 @@
     "path": "fr/Nature/taiwan-marine-ecology-and-coral-conservation.md"
   },
   {
+    "title": "Economia Circular e Reutilização de Recursos em Taiwan",
+    "description": "Da economia linear para a economia circular, explorando os modelos de reciclagem de recursos, gestão de resíduos e desenvolvimento sustentável de Taiwan",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/economy/circular-economy-and-resource-recycling",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "pt/Economy/circular-economy-and-resource-recycling.md"
+  },
+  {
     "title": "Economía circular y reutilización de recursos en Taiwán",
     "description": "Del paso de la economía lineal a la economía circular: exploración del reciclaje de recursos, el tratamiento de residuos y los modelos de desarrollo sostenible en Taiwán",
     "category": "es",
@@ -52577,12 +52619,12 @@
     "path": "id/Economy/night-market-economics.md"
   },
   {
-    "title": "Ekonomi Sirkular Taiwan dan Pemanfaatan Kembali Sumber Daya",
-    "description": "Transisi dari ekonomi linear menuju ekonomi sirkular, eksplorasi sumber daya, penanganan limbah Taiwan dan model pembangunan berkelanjutan",
+    "title": "Ekonomi Sirkular dan Pemanfaatan Ulang Sumber Daya di Taiwan",
+    "description": "Transisi dari ekonomi linier ke ekonomi sirkular, mengeksplorasi model daur ulang sumber daya, pengelolaan limbah, dan pembangunan berkelanjutan di Taiwan.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/economy/circular-economy-and-resource-recycling",
-    "readingTime": 65,
+    "readingTime": 79,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Economy/circular-economy-and-resource-recycling.md"
@@ -56500,6 +56542,17 @@
     "path": "fr/Culture/taiwan-pinball-night-market.md"
   },
   {
+    "title": "Flüsse Taiwans und ihre hydrologischen Besonderheiten: Kurz, heftig und von den Jahreszeiten geprägt",
+    "description": "Entdecken Sie das einzigartige Flusssystem Taiwans – von der Zhusi-Fluss (Chuanxi) bis zum Gaoping-Fluss (Gaopingxi) – und wie das Inselrelief Taiwans hydrologische Muster prägt",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/taiwan-river-systems-and-hydrology",
+    "readingTime": 96,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "de/Geography/taiwan-river-systems-and-hydrology.md"
+  },
+  {
     "title": "Flying Fish: How One Fish Dictates the Calendar, Table, and Taboos of Lanyu",
     "description": "The Tao (Yami) people's flying fish festival encompasses approximately eleven rituals and three sets of taboos: when to catch, who can eat, how to cook, and when to stop—all dictated by a single fish.",
     "category": "en",
@@ -57407,21 +57460,21 @@
     "path": "pt/Geography/geography-and-geology.md"
   },
   {
-    "title": "Geographic Features and Formation of the Island of Taiwan",
-    "description": "Explore Taiwan's distinctive island geography, from plate tectonics to terrain structure, and understand the natural mysteries of Formosa",
-    "category": "en",
+    "title": "Geografische Merkmale und Entstehung der Insel Taiwan",
+    "description": "Erkundung der einzigartigen Insengeographie Taiwans, von der Plattentektonik bis zur Topostruktur, um die natürlichen Geheimnisse der Insel Formosa zu verstehen.",
+    "category": "de",
     "tags": [
-      "geography",
-      "geology",
-      "islands",
-      "plate tectonics",
-      "terrain"
+      "Geografie",
+      "Geologie",
+      "Insel",
+      "Plattentektonik",
+      "Topographie"
     ],
-    "url": "https://taiwan.md/en/geography/geography-and-geology",
-    "readingTime": 64,
+    "url": "https://taiwan.md/de/geography/geography-and-geology",
+    "readingTime": 69,
     "featured": false,
     "date": "2026-03-18",
-    "path": "en/Geography/geography-and-geology.md"
+    "path": "de/Geography/geography-and-geology.md"
   },
   {
     "title": "Gerakan Lagu Rakyat Taiwan",
@@ -57676,6 +57729,28 @@
     "featured": true,
     "date": "2026-05-25",
     "path": "vi/Art/chiang-hsien-yi.md"
+  },
+  {
+    "title": "Giang Huệ: Thiên hậu Đài ngữ bước ra từ khói lưu huỳnh Bắc Đầu, và cuộc chiến bí mật kéo dài chín năm của bà",
+    "description": "Từ việc hát rong ở các quán rượu Bắc Đầu năm 10 tuổi đến ngôi sao ca nhạc Đài ngữ bán được hàng triệu bản, Giang Huệ đã viết lại vị thế văn hóa dân gian Đài Loan bằng tiếng hát, nhưng lại chọn cách \"ngừng hát\" trong giai đoạn đỉnh cao vì một cuộc chiến chống ung thư bí mật.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/jody-chiang",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "vi/People/jody-chiang.md"
+  },
+  {
+    "title": "Giang Vi Văn: Chiến binh bò đực trong phong trào văn học Đài ngữ",
+    "description": "Một sinh viên ngành cơ khí, tại sao lại trở thành người tiên phong cấp tiến nhất của phong trào văn học Đài ngữ? Từ việc giương biểu ngữ phản đối Hoàng Xuân Minh năm 2011 đến chuyên gia nghiên cứu Việt Nam, Giang Vi Văn dùng hành động để minh chứng cho niềm tin tối thượng về sự đồng nhất ngôn ngữ.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chiung-wi-vun",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "vi/People/chiung-wi-vun.md"
   },
   {
     "title": "Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire",
@@ -58945,6 +59020,17 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "fr/People/han-kuo-yu.md"
+  },
+  {
+    "title": "Han Kuo-yu",
+    "description": "Presiden pertama yang pernah diturunkans (recall) dalam sejarah konstitusi Republik Tiongkok (Taiwan), lalu empat tahun kemudian terpilih sebagai Ketua DPR. Apa trajektori politiknya?",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/han-kuo-yu",
+    "readingTime": 87,
+    "featured": true,
+    "date": "2026-04-11",
+    "path": "id/People/han-kuo-yu.md"
   },
   {
     "title": "Han Kuo-yu",
@@ -60519,12 +60605,12 @@
     "path": "fr/People/hung-hsing-fu.md"
   },
   {
-    "title": "Hong Hsing-fu: o gigante da literatura nativista que tombou precocemente",
-    "description": "Nascido em 1949 numa família camponesa pobre de Erlin, Changhua, Hong Hsing-fu publicou o primeiro romance aos 18 anos; antes de morrer aos 33 num acidente de carro, atuou como professor primário escrevendo literatura nativista, produzindo em apenas 15 anos clássicos como 《黑面慶仔》, 《吾土》, 《散戲》, que captam a verdadeira face da transformação do campo taiwanês da agricultura para a indústria e o comércio, alcunhado pelos pares de \"Hong Hsing-fu-ski\", tornando-se a voz inapagável das aldeias na literatura taiwanesa do pós-guerra.",
+    "title": "Hong Hsin-fu: o astro do folclore rural que caiu cedo",
+    "description": "Nascido em uma família camponosa pobre em Erin, Changhua, Hong Hsin-fu (1949–1982) ensinava nos colégios primários de Dajia e Shekou, em Taichung, durante o dia, e, à noite, escrevia com dedicação para registrar a desintegração das tradições rurais taiwanesas em meio à transformação urbana e industrial, e a dignidade dos pequenos personagens. Com \"Hong Hsin-fu\" e \"Sanxi\", suas obras sacudiram a cena literária pós-guerra, sendo incluídas nos livros didáticos de ensino fundamental e médio, mas ele faleceu tragicamente em um acidente de carro durante uma noite de tempestade, aos 32 anos, deixando para a ilha uma das visões mais sinceras e profundas da vida rural.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/hung-hsing-fu",
-    "readingTime": 13,
+    "readingTime": 103,
     "featured": false,
     "date": "2026-03-27",
     "path": "pt/People/hung-hsing-fu.md"
@@ -65682,17 +65768,6 @@
     "path": "pt/People/jolin-tsai.md"
   },
   {
-    "title": "Jolin Tsai",
-    "description": "Nữ ca sĩ nổi tiếng không phải do tài năng—bị giáo viên múa học gọi là \"người không đủ material để múa\"— sau 25 năm trở thành ca sĩ kết hợp hát và múa giành nhiều giải thưởng nhất trong lịch sử Giải Thánh Ngọc",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/jolin-tsai",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "vi/People/jolin-tsai.md"
-  },
-  {
     "title": "Jolin Tsai (蔡依林): Taiwanese Pop Queen — Career, Age, and Rise to Stardom",
     "description": "Born 1980 in Taipei, Jolin Tsai debuted at 19 and became Asia's most spectacular live performer. From a dance instructor saying she had no talent to aerial rings 10 meters above the stage — her 25-year career proves discipline defeats genius. Full biography and discography.",
     "category": "en",
@@ -66771,12 +66846,12 @@
     "path": "id/Culture/mid-autumn-festival.md"
   },
   {
-    "title": "Kemiskinan Belajar: Duduk di Kelas Tapi Tidak Belajar Apa-apa",
-    "description": "Pada tahun 2019, Bank Dunia memperkenalkan istilah baru \"Learning Poverty\" (Kemiskinan Belajar) untuk menggambarkan fenomena yang lebih sulit terlihat daripada buta aksara: seorang anak 10 tahun yang setiap hari hadir tepat waktu, duduk dengan patuh, dan mengumpulkan tugas, namun tidak dapat memahami cerita sederhana yang sesuai dengan usianya. Pada Februari 2023, Bank Dunia memperbarui bahwa tingkat kemiskinan belajar global tetap berada di 70%. PISA 2022 Taiwan berada di lima besar dunia, dan skor matematika siswa 20% termiskin mengejar rata-rata OECD, yang secara permukaan terlihat sebagai kebangkitan besar. Namun, laporan PISA yang sama menunjukkan kesenjangan 54 poin antara wilayah perkotaan (571 poin) dan daerah terpencil (517 poin); Survei Yayasan Boyou 2019 terhadap 13 SMP di daerah terpencil menunjukkan 6 sekolah di mana 70% siswa mendapat nilai C dalam bahasa Inggris, dan 5 sekolah di mana 70% siswa mendapat nilai C dalam matematika. Kemiskinan belajar versi Taiwan bersembunyi dalam kesenjangan ini dan belum terukur secara resmi.",
+    "title": "Kemiskinan Belajar: Duduk di Kelas Tapi Tak Belajar Apa-apa",
+    "description": "World Bank 2019 memperkenalkan istilah baru \"Learning Poverty\" untuk menggambarkan fenomena yang lebih tidak terlihat daripada kemiskinan: seorang anak berusia 10 tahun yang datang ke sekolah setiap hari, duduk dengan baik, dan mengumpulkan tugas, namun tidak mampu membaca dan memahami sebuah cerita sederhana yang sesuai dengan usianya. Pada Februari 2023, World Bank memperbarui data global dan tingkat kemiskinan belajar tetap berada di 70%. PISA 2022 Taiwan berhasil masuk lima besar global, dan 20% siswa paling lemah di Taiwan bahkan mencapai skor matematika rata-rata OECD, sehingga secara tampak terlihat seperti ada perbaikan besar. Namun, laporan PISA yang sama menunjukkan adanya perbedaan 54 poin antara skor rata-rata kota (571) dan daerah pedesaan (517); berdasarkan survei Yayasan Welfare Sosial Pojok Tahun 108, di 13 sekolah menengah di daerah terpencil, 6 sekolah memiliki 70% siswanya mendapatkan nilai C dalam bahasa Inggris, dan 5 sekolah memiliki 70% siswanya mendapatkan nilai C dalam matematika. Kemiskinan belajar versi Taiwan tersembunyi di balik perbedaan ini, dan belum pernah diukur secara resmi.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/learning-poverty-in-taiwan",
-    "readingTime": 124,
+    "readingTime": 132,
     "featured": true,
     "date": "2026-04-12",
     "path": "id/Society/learning-poverty-in-taiwan.md"
@@ -67008,6 +67083,17 @@
     "path": "vi/History/grand-hotel-taipei.md"
   },
   {
+    "title": "Khas Kota dan Budaya Wilayah",
+    "description": "Dari metropolis internasional Taipei hingga nuansa kota tua Tainan, bagaimana kota-kota Taiwan membentuk identitas lokal yang unik",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/urban-character-and-regional-culture",
+    "readingTime": 90,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Geography/urban-character-and-regional-culture.md"
+  },
+  {
     "title": "Khỉ Đài Loan: Cuộc chơi sinh tồn tại Đại học Trung Sơn, quyền lực đôi đặn và sự thật của những người dân tụ cổ động",
     "description": "Từ những ngày vô lý của sinh viên Đại học Trung Sơn kéo đồng với súng BB để lấy thức ăn, đến lần đầu tiên của nhà khảo cổ Thái Anh Văn (Robert Swinhoe) ghi nhận loài này vào kỷ niệm 1862, khỉ Đài Loan thường bị gọi là \"kẻ rỡi\". Đằng sau đó là một xã hội đôi đặn nghiêm khắc đã tự do sinh sống từ hàng ngàn năm trước tại Thượng Sơn, và dưới áp lực mở rộng của khu dân cư và bị con người cho ăn, đã ép éo họ phải diễn ra văn hóa sinh tồn.",
     "category": "vi",
@@ -67030,7 +67116,7 @@
       "y tế từ xa"
     ],
     "url": "https://taiwan.md/vi/technology/taiwan-disaster-medicine-system",
-    "readingTime": 48,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-24",
     "path": "vi/Technology/taiwan-disaster-medicine-system.md"
@@ -68544,6 +68630,17 @@
     "path": "fr/Lifestyle/taoyuan-airport.md"
   },
   {
+    "title": "L'agriculture et la renaissance rurale à Taïwan",
+    "description": "De le royaume du riz à l'agriculture de précision : l'histoire de la transformation agricole et de la renaissance des communautés rurales à Taïwan",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/taiwan-agriculture-and-rural-revitalization",
+    "readingTime": 80,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "fr/Economy/taiwan-agriculture-and-rural-revitalization.md"
+  },
+  {
     "title": "L'Aide américaine : Comment un sac de farine est devenu un système de développement",
     "description": "De 1951 à 1965, l'aide américaine n'a pas seulement apporté des dollars, du matériel militaire et des denrées alimentaires ; elle a intégré capital, technologie, éducation et sécurité de la Guerre froide dans l'économie de l'après-guerre taïwanaise. De l'entrée de la 7e flotte dans le détroit de Taïwan après la guerre de Corée aux choix industriels d'Yin Zhongrong, en passant par la loi PL-480, l'éducation scientifique et les institutions administratives, comment l'aide américaine a-t-elle été réinterprétée localement et bureaucratiquement ? Elle a soutenu la reconstruction d'après-guerre tout en laissant des controverses entre dépendance, surveillance et autonomie.",
     "category": "fr",
@@ -68681,12 +68778,12 @@
     "path": "fr/Nature/taiwan-marine-ecology.md"
   },
   {
-    "title": "L’économie circulaire et la réutilisation des ressources à Taïwan",
-    "description": "De l’économie linéaire à l’économie circulaire : exploration du recyclage des ressources, du traitement des déchets et des modèles de développement durable à Taïwan",
+    "title": "L'économie circulaire à Taïwan et la réutilisation des ressources",
+    "description": "Passer d'une économie linéaire à une économie circulaire : explorer les modèles de recyclage, de traitement des déchets et de développement durable à Taïwan",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/economy/circular-economy-and-resource-recycling",
-    "readingTime": 79,
+    "readingTime": 91,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Economy/circular-economy-and-resource-recycling.md"
@@ -71703,17 +71800,6 @@
     "path": "fr/Food/hsinchu-rice-noodles.md"
   },
   {
-    "title": "Lã Vĩ Hoa (Annette Lu)",
-    "description": "Từ tù phản kháng thành phó tổng thống: cuộc đời huyền thoại của người phụ nữ đầu tiên thế giới Hoa ngữ đảm nhiệm vai trò phó tổng thống",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/annette-lu",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "vi/People/annette-lu.md"
-  },
-  {
     "title": "La vía transversal de 1908: una línea que cosió la isla y preservó la velocidad colonial",
     "description": "En 1887, Liu Mingchuan tendió el primer tramo ferroviario hacia el norte desde Taipéi; en 1908, la línea transversal conectó Keelung, Taichung y Takao en un solo eje. Transportaba arroz y azúcar para el imperio, pero también acercó a algunos agricultores a los mercados; la velocidad que trajo el ferrocarril nunca se distribuyó con igualdad.",
     "category": "es",
@@ -72140,6 +72226,17 @@
     "path": "vi/People/lin-chia-chen-singer.md"
   },
   {
+    "title": "Lâm Hồi Minh",
+    "description": "Một nhà văn tạo ra nhóm múa hiện đại đầu tiên trong thế giới tiếng Hán, và để nó sống hơn 50 năm",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/lin-hwai-min",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "vi/People/lin-hwai-min.md"
+  },
+  {
     "title": "Lâm Kinh Yêu: Từ Thái Cực Vân Thủ đến Thuật toán, Anh ấy dùng Cái \"Tồn tại nhưng Vô hình\" để Trả lời",
     "description": "Sinh ra ở Cao Hùng, Đại học Nghệ thuật Đài Bắc học văn bằng âm nhạc tác phẩm và nghệ thuật truyền thông mới, Đại học Quốc gia Đài Loan bằng tiến sĩ công nghệ thông tin đa phương tiện, Viện Quốc gia Pháp Cao cấp Mỹ thuật hậu tiến sĩ. Từng dạy tại Đại học Thanh Hoa, Đại học Nghệ thuật Nam Đài Loan, là Giám đốc C-LAB Phòng thí nghiệm Âm thanh Đài Loan (2019), hiện là Phó Giáo sư Dự án Chương trình Bậc đại học Lĩnh vực Đổi mới Trường D-School ĐH Đài Loan. Năm 2022 với \"Metaphysics\" lên sân Art Blocks (200 phiên bản), \"Mythologic\" trưng bày tại Hong Kong Basel Interactive Casting, là họa sĩ nghệ thuật sinh ra của Chương trình \"Bảy mươi Ngọn núi\" FAB DAO \"Địa Chỉ Bí Mật\". Chủ đề sáng tạo cốt lõi của anh ta không thay đổi trong mười lăm năm: \"Thế giới có rất nhiều thứ có thể cảm nhận được nhưng không nhìn thấy được.\"",
     "category": "vi",
@@ -72463,6 +72560,17 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "es/Culture/blue-white-slippers.md"
+  },
+  {
+    "title": "Las cinco grandes formas del relieve y la estructura geográfica de Taiwán: de las cordilleras a las llanuras, la fisonomía de la isla",
+    "description": "Explora la estructura geográfica única de Taiwán, desde la Cordillera Central hasta las llanuras occidentales, y conoce la diversidad geomorfológica de esta isla",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/taiwan-five-major-landforms-and-geographic-structure",
+    "readingTime": 67,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "es/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
   },
   {
     "title": "Las crisis del Estrecho de Taiwán y el desarrollo de las relaciones entre ambas orillas",
@@ -72842,6 +72950,17 @@
     "featured": true,
     "date": "2026-03-29",
     "path": "fr/Technology/taiwan-space-industry-development.md"
+  },
+  {
+    "title": "Le développement de la modernisation agricole à Taïwan",
+    "description": "Analyse du processus de transition de l'agriculture traditionnelle vers une agriculture moderne et raffinée à Taïwan, incluant les modèles innovants tels que l'agriculture biologique, la régénération rurale et l'agritourisme.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/taiwan-agricultural-modernization",
+    "readingTime": 118,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "fr/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Le développement de la sculpture contemporaine taïwanaise",
@@ -74858,19 +74977,12 @@
     "path": "fr/Music/choir.md"
   },
   {
-    "title": "Les cinq grands reliefs et la structure géographique de Taïwan : d'une île de montagnes à de plaines",
-    "description": "Explorez la structure géographique unique de Taïwan, de la Chaîne centrale aux plaines de l'ouest, et découvrez la diversité des reliefs de cette île",
+    "title": "Les cinq grandes formations géomorphologiques de Taïwan et sa structure géographique : des chaînes de montagnes aux plaines, le visage insulaire",
+    "description": "Explorez la structure géographique unique de Taïwan, de la Chaîne centrale aux plaines occidentales, et découvrez la diversité géomorphologique de cette île.",
     "category": "fr",
-    "tags": [
-      "géographie",
-      "relief",
-      "montagnes",
-      "plaines",
-      "Taïwan",
-      "géographie physique"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/geography/taiwan-five-major-landforms-and-geographic-structure",
-    "readingTime": 64,
+    "readingTime": 76,
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
@@ -77191,6 +77303,17 @@
     "path": "es/People/lin-chi-er-astronaut.md"
   },
   {
+    "title": "Lin Vi: Dari \"Tingkat Dansa yang Harus Dimiliki oleh Seorang Girl Group\" hingga Solo EP dalam Enam Tahun",
+    "description": "Pada 2020, seorang gadis berusia dua puluh satu dari Taichung di atas panggung seleksi menyatakan kepada Pan Wei-bo: \"Aku ingin semua orang tahu, tingkat dansa yang harus dimiliki oleh seorang girl group.\" Enam tahun kemudian, ia merilis solo EP, penggemar menggalang dana untuk mengadakan panggung ulang tahun di Dadaocheng, dan iklan dukungan disiarkan secara bersamaan di tiga negara. Ia sedang memenuhi janjinya.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/lien-ying",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-04-23",
+    "path": "id/People/lien-ying.md"
+  },
+  {
     "title": "Lin Xinru: Dari Wajah Ziwei ke Kalkulator Produser",
     "description": "Pada 1998, *Huan Zhu Ge Ge* membuat Lin Xinru menjadi Ziwei; 2009 ia mendirikan studionya, 2015 meraih Penghargaan Drama Golden Bell dengan *16 Individual Summers*, dan 2021 menginvestasikan 2,5 miliar untuk menghidupkan Lorong Lin Sen Bei di Netflix. Dari kelas akting New York hingga program Magister Shih Hsin, ia kembali ke set — bukan meninggalkan kamera, melainkan mulai menanggung jawab setiap adegan dan setiap orang dalam satu drama utuh.",
     "category": "id",
@@ -78137,6 +78260,17 @@
     "path": "es/People/luo-dayou.md"
   },
   {
+    "title": "Lo Ta-yu: Menyanyikan Sepenuhnya Orang-orang Taiwan yang Kehilangan Akar, Sendiri Pindah Rumah Sembilan Belas Kali Masih Mencari Jalan",
+    "description": "Pada tahun 1970-an, di ruang anatomi mayat sebuah fakultas kedokteran di Taichung, seorang mahasiswa kedokteran radiologi bersembunyi berlatih menyanyi, karena \"di sana gemaannya bagus, tidak ada yang akan tahu aku sedang menyanyi\". Kemudian dia menulis \"Lukang, The Little Town\", \"Orphan of Asia\", \"Pearl of the Orient\", menanyakan bagi seluruh generasi \"siapa aku\". Tetapi orang ini yang menyanyikan tentang kehilangan akar, sendiri pindah dari Taipei ke New York, Hong Kong, Beijing, dalam dua puluh sembilan tahun pindah rumah sembilan belas kali. Pada usia tujuh puluh tahun, dia berkata dirinya hanyalah \"survivor yang luar biasa\".",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/luo-dayou",
+    "readingTime": 129,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "id/People/luo-dayou.md"
+  },
+  {
     "title": "Lo Ta-yu: The Man Who Sang Taiwan's Rootlessness, Moved Nineteen Times, and Is Still Looking for the Road",
     "description": "In the 1970s, inside the gross anatomy room of a medical college in Taichung, a radiology student hid away to practice singing, because “the echo there was very good, and no one would know I was singing.” Later he wrote “Lukang, the Little Town,” “Orphan of Asia,” and “Pearl of the Orient,” asking “Who am I?” on behalf of an entire generation. Yet this man who sang so much rootlessness moved from Taipei to New York, Hong Kong, and Beijing, relocating nineteen times in twenty-nine years. At seventy, he said he was only a “remarkable survivor.”",
     "category": "en",
@@ -78349,24 +78483,6 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "es/Society/volunteer-firefighters-taiwan.md"
-  },
-  {
-    "title": "Los cinco grandes tipos de relieve y estructura geográfica de Taiwán: el paisaje insular de las montañas a las llanuras",
-    "description": "Explora la estructura geográfica única de Taiwán, desde la Cordillera Central hasta las llanuras occidentales, y descubre la diversidad topográfica de esta isla",
-    "category": "es",
-    "tags": [
-      "geografía",
-      "relieve",
-      "montañas",
-      "llanuras",
-      "Taiwán",
-      "geografía natural"
-    ],
-    "url": "https://taiwan.md/es/geography/taiwan-five-major-landforms-and-geographic-structure",
-    "readingTime": 67,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "es/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
   },
   {
     "title": "Los constructores de montañas: la apuesta del siglo — una epopeya taiwanesa de los semiconductores que tuvo que lijar una palabra de su título antes de poder pronunciarlo",
@@ -79191,11 +79307,11 @@
   },
   {
     "title": "Lý Đa Huệ",
-    "description": "Từ đội cổ vũ K-baseball đến đại diện hàng đầu cổ vũ một đội bóng chày Đài Loan, cô đã biến \"sự nổi tiếng khách\" thành \"phát triển dài hạn tại địa phương\" — một mẫu Hallyu mới.",
+    "description": "Từ đội cheerleader Hàn Quốc đến đại diện ứng viên hàng đầu của giải bóng chày chuyên nghiệp Đài Loan, cô đã biến \"sự phổ biến ở sân khách\" thành \"mô hình phát triển lâu dài tại địa phương\" mới của Hallyu.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/lee-da-hye",
-    "readingTime": 27,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-05-13",
     "path": "vi/People/lee-da-hye.md"
@@ -79221,17 +79337,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "vi/People/lee-ho-jung.md"
-  },
-  {
-    "title": "Lý Hoàu Minh",
-    "description": "Một nhà văn tạo ra tứp dance troupe hiện đại đầu tiên trong thế giới ngôn ngữ Hoa và khiến nó tồn tại hơn 50 năm",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/lin-hwai-min",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "vi/People/lin-hwai-min.md"
   },
   {
     "title": "Lý Khoa Tài Tử: Khi Khoa Học Trở Thành Lưu Lượng, Chuyên Môn Cũng Trở Thành Trách Nhiệm Công Cộng",
@@ -79306,13 +79411,24 @@
     "path": "vi/People/li-chih-kai.md"
   },
   {
-    "title": "Lý Viễn Triết",
-    "description": "Chủ nhân Giải Nobel Hóa học năm 1986, người mở ra lĩnh vực mới trong động lực học hóa học bằng kỹ thuật chùm phân tử giao nhau và là nhà khoa học Đài Loan đầu tiên đoạt Giải Nobel",
+    "title": "Lý Tường Liên",
+    "description": "Từ phản loạn phạm đến phó Tổng thống: Tiểu sử của người phụ nữ đầu tiên trong thế giới Hán giới giữ chức phó Tổng thống",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/annette-lu",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "vi/People/annette-lu.md"
+  },
+  {
+    "title": "Lý Viễn Tĩnh",
+    "description": "Giải Nobel Hóa học 1986, khai phá công nghệ tia phân tử giao nhau mở ra lĩnh vực mới trong động lực học hóa học, là nhà khoa học Nobel đầu tiên của Đài Loan",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/lee-yuan-tseh",
-    "readingTime": 38,
-    "featured": true,
+    "readingTime": 35,
+    "featured": false,
     "date": "2026-03-21",
     "path": "vi/People/lee-yuan-tseh.md"
   },
@@ -80022,6 +80138,17 @@
     "featured": false,
     "date": "2026-04-21",
     "path": "id/Lifestyle/mascot-culture-in-taiwan.md"
+  },
+  {
+    "title": "Mascotas de Taiwán: De los regalos del Bebé Datong a la aparición global de personajes locales",
+    "description": "El Bebé Datong llegó al salón en 1969, y el primer año de béisbol profesional encendió la locura en las gradas en 1990; luego llegaron Oh-Bear, Xiongzan y Caiqi Duck, llevando a los personajes a escenas de mercado y transporte. Cuando las agencias gubernamentales de todo Taiwán se apresuraron a lanzar docenas de peluches del oso negro, la verdadera prueba de una mascota no es ser linda, sino poder salir del cartel y completar tareas específicas para la localidad en la vida diaria.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/mascot-culture-in-taiwan",
+    "readingTime": 155,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "es/Lifestyle/mascot-culture-in-taiwan.md"
   },
   {
     "title": "Mascotes de Taiwan: do brinde do Datong Baby aos personagens locais em todo o território",
@@ -81770,28 +81897,6 @@
     "path": "id/History/taiwan-fishery-modernization.md"
   },
   {
-    "title": "Modernisasi Pertanian Taiwan",
-    "description": "Menelusuri transformasi Taiwan dari pertanian tradisional menjadi pertanian presisi modern, termasuk pertanian organik, regenerasi pedesaan, pertanian rekreasi, dan model inovasi pengembangan lainnya",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/economy/taiwan-agricultural-modernization",
-    "readingTime": 93,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "id/Economy/taiwan-agricultural-modernization.md"
-  },
-  {
-    "title": "Modernisation de l'agriculture taïwanaise",
-    "description": "Examine le processus par lequel Taïwan est passée d'une agriculture traditionnelle à une agriculture moderne de précision, y compris les modèles innovants de développement tels que l'agriculture biologique, la revitalisation rurale et l'agritourisme",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/economy/taiwan-agricultural-modernization",
-    "readingTime": 117,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "fr/Economy/taiwan-agricultural-modernization.md"
-  },
-  {
     "title": "Modernisation de la pêche taïwanaise : Comment un filet relie Qianzhen, les trois océans et la table d'une île",
     "description": "De la politique halieutique de l'époque coloniale japonaise au port de Qianzhen et aux équipements de congélation après-guerre, en passant par le plan de développement de la pêche hauturière de 1979, le régime des zones économiques exclusives de 1982 et les sanctions internationales de 2005, cet article retrace la transformation de la pêche taïwanaise, passant d'une activité côtière de subsistance à une industrie transocéanique. L'article examine également les écoles de pêche, les instituts de recherche halieutique, l'exportation d'aquaculture, les familles de villages de pêcheurs, la diversification des ports et la responsabilité de l'État du pavillon, expliquant les ressources, la main-d'œuvre, la gouvernance locale et les règles internationales derrière la croissance des captures.",
     "category": "fr",
@@ -81812,28 +81917,6 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "de/History/taiwan-fishery-modernization.md"
-  },
-  {
-    "title": "Modernização da Agricultura de Taiwan",
-    "description": "Explora a transformação de Taiwan da agricultura tradicional para a agricultura moderna de precisão, incluindo agricultura orgânica, regeneração rural, agricultura de lazer e outros modelos inovadores de desenvolvimento",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/economy/taiwan-agricultural-modernization",
-    "readingTime": 104,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "pt/Economy/taiwan-agricultural-modernization.md"
-  },
-  {
-    "title": "Modernización de la agricultura en Taiwán",
-    "description": "Análisis del proceso por el cual Taiwán pasó de una agricultura tradicional a una agricultura moderna de alto valor, incluidos modelos innovadores como la agricultura orgánica, la regeneración rural y la agricultura recreativa",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/taiwan-agricultural-modernization",
-    "readingTime": 112,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "es/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Mohanaw: Dua Macam Buta, Satu Antologi Puisi",
@@ -84043,6 +84126,17 @@
     "featured": false,
     "date": "2026-07-22",
     "path": "Economy/NET.md"
+  },
+  {
+    "title": "Netzresilienz: Wer kann nach einem Stromausfall die Stadt wieder zum Laufen bringen?",
+    "description": "Die Großstromausfälle von 2017 und 2022 zeigten Taiwan, dass die Schwachstellen des Netzes nicht nur in der Erzeugung liegen, sondern auch in zentralisierten Knotenpunkten, Betriebsabläufen, Übertragungs- und Verteilungsausrüstung sowie der lokalen Wiederherstellungskapazität. Wenn Strom die Grundlage für Medizin, Verkehr, Kommunikation und Industrie ist, ist Resilienz nicht nur ein technisches Problem von Taipower, sondern wie eine ganze Stadt nach einem Netzausfall neu beginnt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/taiwan-grid-resilience",
+    "readingTime": 124,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "de/Society/taiwan-grid-resilience.md"
   },
   {
     "title": "Neuanländische Währung: Von 40.000 auf 1 Yuan bis zur Anerkennung als Nationalwährung im Jahr 2000",
@@ -87575,8 +87669,8 @@
     "path": "pt/Society/paraguay-taiwan.md"
   },
   {
-    "title": "Paraguay and Taiwan: South America's Only Diplomatic Ally, a Sixty-Nine-Year Pragmatic Partnership",
-    "description": "Diplomatic relations established in 1957, remained with Taipei after the 1989 coup, signed an ECA in 2017, and co-founded the Taiwan-Paraguay Polytechnic University in 2018. Paraguay is Taiwan's only diplomatic ally in South America and the largest by area among its current allies; this relationship is sustained by pork, beef, education, and technology cooperation delivering tangible mutual benefit.",
+    "title": "Paraguay and Taiwan: The Sole Diplomatic Tie in South America, a Sixty-Nine-Year Reality Partnership",
+    "description": "Established diplomatic relations in 1957, remained in Taipei after the 1989 coup, signed the ECA in 2017, and founded the Taiwan-Paraguay College of Science and Technology in 2018. Paraguay is Taiwan's only diplomatic ally in South America and the largest by area among existing diplomatic allies; this relationship is sustained by practical interests in pork, beef, education, and technological cooperation.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/paraguay-taiwan",
@@ -87801,17 +87895,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "pt/People/park-sung-eun-actress.md"
-  },
-  {
-    "title": "Park Sung-eun",
-    "description": "Từ khách tham gia trao đổi đến chính thức gia nhập Fubon, cô đã dùng khả năng thích ứng nhanh chóng và độ ổn định trên sân khấu để trở thành đại diện thế hệ mới trong hàng ngũ năm ngôi sao Hàn Quốc.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/park-sung-eun-actress",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-05-13",
-    "path": "vi/People/park-sung-eun-actress.md"
   },
   {
     "title": "Parques Científicos de Taiwan: a aposta de um arrozal que se tornou a veia vital do mundo — e o seu ponto mais frágil",
@@ -88933,6 +89016,28 @@
     "path": "id/Technology/taiwan-software-industry-development.md"
   },
   {
+    "title": "Perkembangan Modernisasi Pertanian Taiwan",
+    "description": "Mengeksplorasi proses transisi pertanian Taiwan dari pertanian tradisional ke pertanian presisi modern, termasuk model inovatif seperti pertanian organik, regenerasi pedesaan, dan agrowisata.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/taiwan-agricultural-modernization",
+    "readingTime": 101,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Economy/taiwan-agricultural-modernization.md"
+  },
+  {
+    "title": "Perkembangan Patung Kontemporer Taiwan",
+    "description": "Menjelajahi lintasan evolusi dan semangat kreatif seni patung Taiwan, dari Yang Ying-feng, Chu Ming hingga generasi baru",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/art/development-of-contemporary-taiwanese-sculpture",
+    "readingTime": 115,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "id/Art/development-of-contemporary-taiwanese-sculpture.md"
+  },
+  {
     "title": "Perkembangan Perkotaan Taiwan dan Kesenjangan Kota-Desa",
     "description": "70 tahun dari pulau pertanian menjadi pulau perkotaan, enam kota besar mengumpulkan 70% populasi: cahaya dan bayangnya — kemakmuran Taichung vs kemunduran Yunlin yang kejam",
     "category": "id",
@@ -88942,17 +89047,6 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "id/Geography/taiwan-urban-development-and-rural-urban-divide.md"
-  },
-  {
-    "title": "Perkembangan Seni Patung Kontemporer Taiwan",
-    "description": "Dari Yang Yuyu, Chu Ming hingga generasi baru, jelajahi trajektori evolusi seni patung Taiwan dan semangat kreatifnya",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/art/development-of-contemporary-taiwanese-sculpture",
-    "readingTime": 101,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "id/Art/development-of-contemporary-taiwanese-sculpture.md"
   },
   {
     "title": "Perkembangan Sistem Perawatan Jangka Panjang di Taiwan",
@@ -89411,6 +89505,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "vi/Culture/yanshui-beehive-fireworks.md"
+  },
+  {
+    "title": "Phạt Sao Băng",
+    "description": "Từ khách mời giao lưu đến chính thức gia nhập Fubon Angels, cô ấy đã trở thành đại diện thế hệ mới của năm tinh linh Hàn Quốc nhờ tốc độ thích nghi và sự ổn định trên sân khấu.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/park-sung-eun-actress",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "vi/People/park-sung-eun-actress.md"
   },
   {
     "title": "Phát triển chuỗi sản xuất ô tô điện Đài Loan",
@@ -91682,7 +91787,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/art/qseries-drama-platform",
-    "readingTime": 69,
+    "readingTime": 71,
     "featured": false,
     "date": "2026-03-30",
     "path": "pt/Art/qseries-drama-platform.md"
@@ -92470,11 +92575,11 @@
   },
   {
     "title": "Ray (YouTuber)",
-    "description": "Học sinh trung học phổ thông Đài Loan năm sinh 2005, Hồ Chí Vũ (Rayasianboy), trong chuyến du học tại Nhật Bản đã gây nổi tiếng bằng cách tự giới thiệu: \"My name is Ray, I''m from Taiwan\". Hiện tại, anh có hơn 2,7 triệu follower trên Twitch, 1,43 triệu người đăng ký trên YouTube, đã đưa hộ chiếp Đài Loan, phở tái và trà đáo vào các video nổi tiếng trên YouTube của GQ Hoa Kỳ, ký hợp tác với Adidas ra thương hiệu quần áo cá nhân RUEI, sau đó tuyên bố nghỉ học để chuyển sang mở phòng khám nha khoa tại Atlanta, khẳng định tiềm năng của thế hệ trẻ Đài Loan trong kỷ nguyên số.",
+    "description": "Sinh năm 2005, học sinh trung học phổ thông tại Đài Loan, Khải Xương Tây (Ray) tên thật là Từ Thiên Phong, bùng nổ khi đang đi du học ở Nhật, nói câu \"Tên tôi là Ray, tôi đến từ Đài Loan\". Hiện nay, anh sở hữu hơn 2,7 triệu người theo dõi trên Twitch và 1,43 triệu người đăng ký trên YouTube, đưa hộ chiếu Đài Loan, mì bò và nước mía vào video hot của Vogue, ký hợp đồng với Adidas ra mắt thương hiệu cá nhân RUEI, sau đó công bố nghỉ hưu để đầu tư vào phòng khám nha khoa ở Atlanta, cho thế giới thấy tiềm năng của người trẻ Đài Loan.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/ray-youtuber",
-    "readingTime": 25,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-03-23",
     "path": "vi/People/ray-youtuber.md"
@@ -93131,12 +93236,12 @@
     "path": "pt/Society/taiwan-grid-resilience.md"
   },
   {
-    "title": "Resiliencia de la red eléctrica: Tras el apagón, ¿quién recupera primero la ciudad?",
-    "description": "Los grandes apagones del 15 de agosto de 2017 y del 3 de marzo de 2022 revelaron que la verdadera vulnerabilidad de la red eléctrica de Taiwán no reside únicamente en la capacidad de generación, sino en los nodos centralizados, los procedimientos operativos, el equipamiento de transmisión y distribución, y la capacidad de recuperación local. Cuando la electricidad se convierte en la base común para la sanidad, el transporte, las comunicaciones y la industria, la resiliencia deja de ser solo un problema de ingeniería de Taipower para convertirse en la cuestión de cómo una ciudad puede reiniciarse tras perder el suministro eléctrico.",
+    "title": "Resiliencia de la red eléctrica: tras el apagón, ¿quién recupera la ciudad primero?",
+    "description": "Los apagones masivos del 815 de 2017 y el 303 de 2022 revelaron que la verdadera fragilidad de la red eléctrica de Taiwán no reside solo en la capacidad de generación, sino en los nodos centralizados, los procedimientos operativos, los equipos de transmisión y distribución y la capacidad de recuperación local. Cuando la electricidad se convierte en la base común de la salud, el transporte, las comunicaciones y la industria, la resiliencia deja de ser solo un problema de ingeniería de Taipower y pasa a ser cómo una ciudad entera vuelve a empezar tras perder la electricidad.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-grid-resilience",
-    "readingTime": 132,
+    "readingTime": 114,
     "featured": false,
     "date": "2026-08-15",
     "path": "es/Society/taiwan-grid-resilience.md"
@@ -95873,12 +95978,12 @@
     "path": "id/Lifestyle/taiwan-education-system.md"
   },
   {
-    "title": "Sistem Sungai dan Karakteristik Hidrologi Taiwan: Geografi Hidrologi dengan Aliran Pendek-Cepat dan Perubahan Musiman",
-    "description": "Menjelajahi sistem sungai unik di Taiwan, dari Sungai ZuoShui hingga Sungai GaoPing, dan memahami bagaimana topografi pulau membentuk karakteristik hidrologi Taiwan.",
+    "title": "Sistem Sungai dan Karakteristik Hidrologi Taiwan: Geografi Hidrologi Aliran Cepat dan Perubahan Musiman",
+    "description": "Menjelajahi sistem sungai unik di Taiwan, dari Sungai Zhuoshui hingga Sungai Gao Pingtang, untuk memahami bagaimana topografi pulau membentuk karakteristik hidrologis Taiwan.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 79,
+    "readingTime": 90,
     "featured": true,
     "date": "2026-03-18",
     "path": "id/Geography/taiwan-river-systems-and-hydrology.md"
@@ -96066,17 +96171,6 @@
     "path": "es/Society/education-system-and-admissions-culture.md"
   },
   {
-    "title": "Sistema fluvial y características hidrológicas de Taiwán: Hidrogeografía de corrientes cortas y rápidas con variaciones estacionales",
-    "description": "Explorar el sistema fluvial único de Taiwán, desde el río Zhuoshui hasta el río Gaoping, comprendiendo cómo la geografía insular moldea las características hidrológicas de la isla",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 90,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "es/Geography/taiwan-river-systems-and-hydrology.md"
-  },
-  {
     "title": "Sistemas Fluviais e Características Hidrológicas de Taiwan: Rios Curtos e Íngremes e a Geografia Hidrológica das Mudanças Sazonais",
     "description": "Explore o sistema fluvial único de Taiwan, do Rio Choshui ao Rio Kaoping, e entenda como a geomorfologia insular molda as características hidrológicas de Taiwan.",
     "category": "pt",
@@ -96086,6 +96180,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Geography/taiwan-river-systems-and-hydrology.md"
+  },
+  {
+    "title": "Sistemas fluviales y características hidrológicas de Taiwán: ríos cortos y caudalosos y cambios estacionales en la geografía hidrológica",
+    "description": "Explora los sistemas fluviales únicos de Taiwán, desde el río Choshui hasta el río Kaoping, y comprende cómo la topografía insular moldea las características hidrológicas de Taiwán",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/taiwan-river-systems-and-hydrology",
+    "readingTime": 88,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "es/Geography/taiwan-river-systems-and-hydrology.md"
   },
   {
     "title": "Siù-á: A Sweet Plate of Lunar New Year Treats, and the Blessing That Doesn’t Require Everything to Be Delicious",
@@ -96772,12 +96877,12 @@
     "path": "de/Culture/linguistic-diversity-and-mother-tongue-culture.md"
   },
   {
-    "title": "Städtische Besonderheiten und regionale Kulturen",
-    "description": "Von der internationalen Metropole Taipeh bis zum antiken Flair von Tainan: Wie die Städte Taiwans einzigartige lokale Identitäten formen",
+    "title": "Stadtcharakteristika und regionale Kultur",
+    "description": "Wie die verschiedenen Städte Taiwans, von der internationalen Metropole Taipei bis zur historischen Stadt Tainan, eine einzigartige lokale Identität formen.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/geography/urban-character-and-regional-culture",
-    "readingTime": 99,
+    "readingTime": 111,
     "featured": true,
     "date": "2026-03-18",
     "path": "de/Geography/urban-character-and-regional-culture.md"
@@ -101349,17 +101454,6 @@
     "path": "es/Society/taiwan-lithuania.md"
   },
   {
-    "title": "Taiwán y sus mascotas: del regalo de un osito de gran tamaño al protagonismo local de los personajes",
-    "description": "Desde el osito de gran tamaño de 1969, Oh Bear y Fun Fun Bear, hasta el transporte de Kaohsiung, Miaomiao, Tiger Duck, Taimon y el pato de fideos, cómo las mascotas de Taiwán han cargado la memoria local, escenarios de transporte, identidad universitaria, emociones de fútbol y propiedad intelectual empresarial; la verdadera prueba de un personaje es si puede salir del cartel y entrar en la vida de la gente.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/lifestyle/mascot-culture-in-taiwan",
-    "readingTime": 131,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "es/Lifestyle/mascot-culture-in-taiwan.md"
-  },
-  {
     "title": "Taiwan YouBike Culture and the Urban Micromobility Revolution",
     "description": "From 'last mile' to daily infrastructure: how YouBike used small pricing, dense station networks, and real-time dispatch to reshape Taiwan's urban movement habits and relationship with time.",
     "category": "en",
@@ -101451,17 +101545,6 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "de/Society/encyclopedia-of-taiwan.md"
-  },
-  {
-    "title": "Taiwan-Flüsse und ihre hydrologischen Besonderheiten: Kurz, heftig und saisonal geprägt",
-    "description": "Entdecken Sie Taiwans einzigartiges Flusssystem – von der Ziulin-Fluss (Chihshui Creek) bis zum Gaoping-Fluss (Gaoping Creek) – und erfahren Sie, wie das Inselrelief Taiwans Wasserlandschaft prägt.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 84,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "de/Geography/taiwan-river-systems-and-hydrology.md"
   },
   {
     "title": "Taiwan-Folklore und Lieder: Vom Plagiat zum Welthören",
@@ -101837,6 +101920,17 @@
     "path": "es/History/taiping-steamer-disaster.md"
   },
   {
+    "title": "Taiwan: Berge und Bergkultur",
+    "description": "268 Gipfel über drei Tausend Meter auf einer Insel – doch Taiwanesen brauchten ein halbes Jahrhundert, bis sie endlich frei auf eigene Berge zugreifen konnten.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/nature/taiwan-mountains-and-hiking-culture",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Nature/taiwan-mountains-and-hiking-culture.md"
+  },
+  {
     "title": "Taïwan: Comment un campus féminin préserve la mémoire de l'ascension sociale, du corps et de l'espace public",
     "description": "De la sélection coloniale de 1904 aux uniformes verts anti-aériens de 1952, le lycée féminin n° 1 de Taipei n'est pas seulement le berceau du leadership féminin à Taïwan, mais aussi un musée miniature de la politique spatiale.",
     "category": "fr",
@@ -101879,17 +101973,6 @@
     "featured": false,
     "date": "2026-04-10",
     "path": "pt/Society/taiwan-defense-modernization.md"
-  },
-  {
-    "title": "Taiwan: economia circular e reutilização de recursos",
-    "description": "Da economia linear à circular: explorando a reciclagem de recursos, gestão de resíduos e modelos de desenvolvimento sustentável de Taiwan",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/economy/circular-economy-and-resource-recycling",
-    "readingTime": 70,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "pt/Economy/circular-economy-and-resource-recycling.md"
   },
   {
     "title": "Taiwan: Ein Hotspot der Biodiversität",
@@ -101978,17 +102061,6 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "id/Society/lgbtq-in-taiwan.md"
-  },
-  {
-    "title": "Taiwan: Kreislaufwirtschaft und Ressourcenrecycling",
-    "description": "Vom linearen zur Kreislaufwirtschaft: Taiwan erkundet Modelle für Ressourcenrecycling, Abfallbehandlung und nachhaltige Entwicklung",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/economy/circular-economy-and-resource-recycling",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Economy/circular-economy-and-resource-recycling.md"
   },
   {
     "title": "Taiwán: La reja de seguridad como autobiografía de una familia",
@@ -102344,15 +102416,15 @@
     "path": "ko/Society/taiwan-generations.md"
   },
   {
-    "title": "Taiwan's Agricultural Modernization",
-    "description": "Examines Taiwan’s transition from traditional agriculture to modern, high-value agriculture, including innovative development models such as organic agriculture, rural regeneration, and leisure agriculture",
+    "title": "Taiwan's Agriculture and Rural Revitalization",
+    "description": "From Rice Kingdom to Precision Agriculture: The Story of Agricultural Transformation and Rural Community Regeneration in Taiwan",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/economy/taiwan-agricultural-modernization",
-    "readingTime": 99,
-    "featured": true,
+    "url": "https://taiwan.md/en/economy/taiwan-agriculture-and-rural-revitalization",
+    "readingTime": 69,
+    "featured": false,
     "date": "2026-03-18",
-    "path": "en/Economy/taiwan-agricultural-modernization.md"
+    "path": "en/Economy/taiwan-agriculture-and-rural-revitalization.md"
   },
   {
     "title": "Taiwan's AI Everyday — When Artificial Intelligence Enters the Streets and Alleyways",
@@ -102700,19 +102772,12 @@
     "path": "en/History/taiwan-fishery-modernization.md"
   },
   {
-    "title": "Taiwan's Five Major Landforms and Geographic Structure: An Island Landscape from Mountains to Plains",
-    "description": "Explore Taiwan's distinctive geographic structure, from the Central Mountain Range to the western plains, and understand the island's diverse landforms",
+    "title": "Taiwan's Five Landforms and Geographic Structures: From Mountain Ranges to Plains",
+    "description": "Explore Taiwan's unique geographic structure, from the Central Mountain Range to the western plains, and understand the island's diverse landforms",
     "category": "en",
-    "tags": [
-      "Geography",
-      "Landforms",
-      "Mountain Ranges",
-      "Plains",
-      "Taiwan",
-      "Physical Geography"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/taiwan-five-major-landforms-and-geographic-structure",
-    "readingTime": 61,
+    "readingTime": 63,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
@@ -102855,6 +102920,23 @@
     "path": "en/Economy/taiwan-international-trade-policy.md"
   },
   {
+    "title": "Taiwan's Island Geography: Features and Formation",
+    "description": "Explore Taiwan's unique island geography, from plate tectonics to landform structures, uncovering the natural mysteries of the island of Formosa",
+    "category": "en",
+    "tags": [
+      "geography",
+      "geology",
+      "island",
+      "plate tectonics",
+      "landforms"
+    ],
+    "url": "https://taiwan.md/en/geography/geography-and-geology",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Geography/geography-and-geology.md"
+  },
+  {
     "title": "Taiwan's Labeling in International Standards",
     "description": "From ISO Codes to Open-Source Software — How Taiwan's Name Is Written, Contested, and Corrected in Global Digital Infrastructure",
     "category": "en",
@@ -102994,7 +103076,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/nature/taiwan-mountains-and-hiking-culture",
-    "readingTime": 66,
+    "readingTime": 72,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Nature/taiwan-mountains-and-hiking-culture.md"
@@ -103233,12 +103315,12 @@
     "path": "en/Food/taiwan-rice-cuisine-culture.md"
   },
   {
-    "title": "Taiwan's River Systems and Hydrological Characteristics: The Hydrogeography of Short, Swift Currents and Seasonal Shifts",
-    "description": "Explore Taiwan's unique river systems, from the Zhuoshui River to the Gaoping River, and understand how the island's topography shapes its hydrological features",
+    "title": "Taiwan's River Systems and Hydrological Characteristics: A Hydrological Geography of Short, Rapid Flows and Seasonal Changes",
+    "description": "Exploring Taiwan's unique river systems, from the Chiuanan Irrigation Canal to the Gao-Ping River, to understand how island topography shapes its hydrological features.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 76,
+    "readingTime": 88,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Geography/taiwan-river-systems-and-hydrology.md"
@@ -103537,17 +103619,9 @@
   },
   {
     "title": "Taiwan's White Terror",
-    "description": "The 38-year martial law was not maintained by a few thousand secret police officers — it was maintained by a 'joint guarantee' system under which two million families across Taiwan had to vouch for one another in order to hold a job, enroll in school, or get married. Chen Chih-hsiung, Shih Shui-huan, Uyongu Yatauyungana (Kao I-sheng), and Bo Yang — four names, four reasons for arrest, one shared machine.",
+    "description": "The martial law period of 1938 was not maintained by a few thousand secret agents, but by the 'collective responsibility guarantee' system where two million families across Taiwan had to vouch for each other to work, enroll in school, or get married. Chen Zhixiong, Shi Shuihuan, Gao Yisheng, and Bai Yang—four names, four reasons for arrest, one common machine.",
     "category": "en",
-    "tags": [
-      "歷史",
-      "白色恐怖",
-      "戒嚴",
-      "政治迫害",
-      "連坐保證",
-      "綠島",
-      "馬場町"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/history/taiwan-white-terror",
     "readingTime": 96,
     "featured": true,
@@ -103635,17 +103709,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "de/Economy/taiwanese-companies-realtek-semiconductor.md"
-  },
-  {
-    "title": "Taiwanese Agriculture and Rural Revitalization",
-    "description": "From Rice Kingdom to Premium Agriculture: The Story of Taiwan’s Agricultural Transformation and the Rebirth of Rural Communities",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/economy/taiwan-agriculture-and-rural-revitalization",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Economy/taiwan-agriculture-and-rural-revitalization.md"
   },
   {
     "title": "Taiwanese Architecture",
@@ -104439,6 +104502,17 @@
     "path": "de/Society/taiwan-judicial-reform-and-preventive-detention.md"
   },
   {
+    "title": "Taiwanische Kreislaufwirtschaft und Ressourcenwiederverwendung",
+    "description": "Übergang von der linearen zur Kreislaufwirtschaft; Erforschung von Recycling, Abfallbehandlung und nachhaltigen Entwicklungsmustern in Taiwan.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/economy/circular-economy-and-resource-recycling",
+    "readingTime": 82,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Economy/circular-economy-and-resource-recycling.md"
+  },
+  {
     "title": "Taiwanische Kuratoren und die Konstruktion der Kunstkultur",
     "description": "Von den Anfängen im frühen 1990er-Jahre bis zu internationalen Plattformen heute: Wie konstruieren taiwanische Kuratoren lokale künstlerische Diskurse in der globalen Welle und finden ihre Stimme im System der internationalen Biennale? Eine 30-jährige Entwicklungsgeschichte der kulturellen Identität und des professionellen Aufbaus.",
     "category": "de",
@@ -104882,6 +104956,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "de/Economy/taiwan-agriculture-and-rural-revitalization.md"
+  },
+  {
+    "title": "Taiwans landwirtschaftliche Modernisierung",
+    "description": "Untersuchung von Taiwans Wandel von der traditionellen zur modernen Präzisionslandwirtschaft, einschließlich ökologischer Landwirtschaft, ländlicher Erneuerung und Freizeitlandwirtschaft als innovative Entwicklungsmodelle",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/economy/taiwan-agricultural-modernization",
+    "readingTime": 104,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "de/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Taiwans Militärdorf-Küche",
@@ -106004,12 +106089,12 @@
     "path": "id/Geography/qingshui-cliff.md"
   },
   {
-    "title": "Technologies agricoles et agriculture de précision",
-    "description": "Comment Taïwan est passé d’une agriculture traditionnelle à une agriculture de haute technologie et de précision, créant un miracle agricole",
+    "title": "Technologie agricole et agriculture de précision",
+    "description": "Comment Taïwan est passé de l'agriculture traditionnelle à l'agriculture de précision de haute technologie, créant un miracle agricole",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 80,
+    "readingTime": 86,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Economy/agricultural-technology-and-refined-agriculture.md"
@@ -106026,23 +106111,23 @@
     "path": "pt/Culture/taiwan-floral-fabric.md"
   },
   {
-    "title": "Tecnologia Agrícola e Agricultura Refinada",
-    "description": "Como Taiwan transformou a agricultura tradicional em agricultura refinada de alta tecnologia, criando um milagre agrícola",
+    "title": "Tecnologia Agrícola e Agricultura de Precisão",
+    "description": "Como Taiwan transformou a agricultura tradicional em uma agricultura de alta tecnologia e precisão, criando um milagre agrícola",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 74,
+    "readingTime": 79,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Economy/agricultural-technology-and-refined-agriculture.md"
   },
   {
-    "title": "Tecnología agrícola y agricultura de precisión",
-    "description": "Cómo Taiwán transformó su agricultura tradicional en una agricultura de alta tecnología y precisión, creando un milagro agrícola",
+    "title": "Tecnología Agrícola y Agricultura de Precisión",
+    "description": "Cómo Taiwán ha transformado la agricultura tradicional en una agricultura de alta tecnología y precisión, creando un milagro agrícola",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 77,
+    "readingTime": 85,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Economy/agricultural-technology-and-refined-agriculture.md"
@@ -106898,6 +106983,17 @@
     "path": "vi/People/tsai-jui-yueh.md"
   },
   {
+    "title": "Thái Y Lâm: Không phải Thiên hậu của thiên tài – Ca sĩ vũ đạo được nói là \"không hợp nhảy\", 25 năm sau trở thành nghệ sĩ có nhiều giải thưởng nhất lịch sử Giải thưởng Quốc khúc",
+    "description": "Câu chuyện về sự nghiệp của Thái Y Lâm không chỉ dừng lại ở ca hát và vũ đạo, mà còn là hành trình chứng minh sức mạnh thể chất qua từng album.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/jolin-tsai",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "vi/People/jolin-tsai.md"
+  },
+  {
     "title": "Thẩm Bá Dương: Ông nghiên cứu chiến tranh nhận thức của Trung Quốc, rồi Trung Quốc vẽ ông lên bản đồ vệ tinh",
     "description": "Năm 2021, Thẩm Bá Dương cùng học giả chiến lược Hà Trừng Huy đồng sáng lập Học viện Kuma, được Robert Tsao (Tào Hưng Thành) tài trợ 600 triệu Đài tệ, đặt mục tiêu đào tạo ba triệu chiến binh dân phòng trong ba năm. Tháng 2 năm 2024, ông bước vào Quốc hội với tư cách nghị sĩ theo danh sách đảng của Đảng Dân chủ Tiến bộ. Ngày 28 tháng 10 năm 2025, ông trở thành chính trị gia dân cử đầu tiên của Đài Loan bị Trung Quốc lập án điều tra với tội danh \"chia rẽ quốc gia\"; CCTV còn làm chuyên đề \"lật tẩy\" kèm lời cảnh cáo \"người tiếp theo chính là anh\". Ngày đầu năm 2026, một tài khoản Weibo của Trung Quốc dùng ảnh vệ tinh thương mại công bố tọa độ nhà riêng và nơi làm việc của ông tại Đài Bắc; đến Lễ Tình nhân, ông ở trên máy bay sang Pháp. Ngày 13 tháng 5, Đảng Dân chủ Tiến bộ chính thức mời ông ra tranh cử thị trưởng Đài Bắc — đúng là thành phố mà tọa độ đã bị vệ tinh Trung Quốc đánh dấu.",
     "category": "vi",
@@ -106984,6 +107080,17 @@
     "featured": false,
     "date": "2026-07-20",
     "path": "vi/Culture/lunar-july-ghost-month.md"
+  },
+  {
+    "title": "Thắng tự cháy biến, chứ không chịu oxy hoá: Mã Hiếu và người tình đầu tiên của mình — Fô Rơ Mô Sa",
+    "description": "Từ việc rút ra 20.000 chiếc răng cho đến việc thành lập trường học cho phụ nữ, nhà sứ thần kiệu tại Kanh Dịch Mã Hiếu (George Leslie Mackay) đã trở thành một người Đài Loan thực sự, dùng 30 năm cuộc đời để viết lại lịch sử y tế, giáo dục và khám phá khoa học ở miền Bắc Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/george-leslie-mackay",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "vi/People/george-leslie-mackay.md"
   },
   {
     "title": "Thánh Khải Sư: Từ video hấp trứng đến món năm đông lạnh, chi phí niềm tin của người ảnh hưởng ẩm thực",
@@ -107915,6 +108022,17 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "en/Society/taiwan-blood-donation.md"
+  },
+  {
+    "title": "The Modernization of Taiwan's Agriculture",
+    "description": "Examines the trajectory of Taiwan''s transformation from traditional, labor-intensive agriculture to modern, high-value-added \"premium agriculture,\" covering organic farming, rural regeneration, and agritourism as innovative development models.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/economy/taiwan-agricultural-modernization",
+    "readingTime": 104,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "en/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "The Mudan Incident: A Clash of Civilizations and the Awakening of Sovereignty in the Stone Ridge Gorge",
@@ -110273,6 +110391,17 @@
     "path": "en/Geography/treasure-hill.md"
   },
   {
+    "title": "Trem de Alta Velocidade de Taiwan: Da Experimentação Financeira do BOT ao Cotidiano do Corredor Oeste",
+    "description": "O trem de alta velocidade de Taiwan não é apenas a redução do tempo entre Taipé e Kaohsiung para uma hora e meia; é um experimento sistêmico que transita da concessão privada (BOT) à responsabilidade pública, cuja transformação do corredor oeste depende de finanças, conexões e áreas das estações.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/lifestyle/taiwan-high-speed-rail",
+    "readingTime": 110,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "pt/Lifestyle/taiwan-high-speed-rail.md"
+  },
+  {
     "title": "Trenggiling Taiwan",
     "description": "Mamalia yang paling banyak diselundupkan di dunia menemukan rumah yang aman di Taiwan",
     "category": "id",
@@ -111706,17 +111835,6 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "vi/People/chiang-wei-shui.md"
-  },
-  {
-    "title": "Tưởng Giới Thạch: Chiến binh bò sát của phong trào văn hóa Đài Bắc",
-    "description": "Một sinh viên ngành cơ khí tại Đài Bắc, tại sao lại trở thành người thúc đẩy mạnh mẽ phong trào văn hóa Đài Bắc? Từ phát biểu bạt ngàn năm 2011 đến trở thành chuyên gia nghiên cứu Việt Nam, Tưởng Giới Thạch dùng hành động thể hiện niềm tin tuyệt đối rằng ngôn ngữ chính là trường chiến của bản sắc dân tộc.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/chiung-wi-vun",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "vi/People/chiung-wi-vun.md"
   },
   {
     "title": "Tưởng Kinh Quốc: Người đẩy mở tấm cửa quyền lực độc tài một khe hở",
@@ -113263,17 +113381,6 @@
     "path": "vi/Society/teach-for-taiwan.md"
   },
   {
-    "title": "Vì yêu đảo Formosa: George Leslie Mackay – Người đã dành tất cả sự tôn kính của mình cho Đài Loan",
-    "description": "Từ khi thực hiện hơn 20.000 ca khám răng đến khi thành lập các trường học cho phụ nữ, kinh tế học sĩ Canada George Leslie Mackay đã trở thành \"người Đài Loan chính thức\" bằng cách dành ba thập kỷ cuộn cuốn của mình cho việc thay đổi lịch sử y tế, giáo dục và khoa học khám phá ở Bắc Đài Loan.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/george-leslie-mackay",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-31",
-    "path": "vi/People/george-leslie-mackay.md"
-  },
-  {
     "title": "Vida nocturna y cultura KTV",
     "description": "Desde las salas privadas de KTV hasta los comedores nocturnos, una isla que nunca cierra",
     "category": "es",
@@ -114369,25 +114476,6 @@
     "path": "es/People/wang-shaudi.md"
   },
   {
-    "title": "Wang Shaudi: The Boys Over Flowers and Taiwan Television's Gentle Revolution",
-    "description": "General's son turned rebel, rebel turned godmother of Taiwanese television — Wang Shaudi spent forty years proving that making television can be a social movement",
-    "category": "en",
-    "tags": [
-      "導演",
-      "電視",
-      "電影",
-      "植劇場",
-      "公視",
-      "金鐘獎",
-      "LGBTQ+"
-    ],
-    "url": "https://taiwan.md/en/people/wang-shaudi",
-    "readingTime": 59,
-    "featured": false,
-    "date": "2026-03-28",
-    "path": "en/People/wang-shaudi.md"
-  },
-  {
     "title": "Wang Vĩnh Thịnh: Từ cửa hàng gạ bán hai mươi năm chiến đấu cho dự án điện lực, cho tới tranh chấn di chúc sau khi qua đời",
     "description": "Sinh năm 1917 ngày 18 tháng 1 năm Tân Dậu, tại Đài Bắc Tân Tiến, Wang Vĩnh Thịnh năm 15 tuổi bỏ học vay tiền mở cửa hàng gạ, năm 1954 thành lập Tập đoàn Nhựa Đài Loan. Năm 1973 đề xuất dự án Điện lực thứ sáu, sau gần hai mươi năm chiến đấu mới được chấp thuận, năm 1998 tại vùng biển Mỹ Lộc chính thức sản xuất. Ngày 15 tháng 10 năm 2008 tử trận tại Hoa Kỳ, thọ 92 tuổi, để lại một cuộc tranh chấn di chúc kéo dài hơn mười năm.",
     "category": "vi",
@@ -114452,6 +114540,17 @@
     "featured": false,
     "date": "2026-07-24",
     "path": "en/Economy/want-want-group.md"
+  },
+  {
+    "title": "Wang Xiao-di: The Sexagenarian Boy and Taiwan Television's Gentle Revolution",
+    "description": "From a general's son to a rebellious youth, from a rebellious youth to the godmother of Taiwanese TV dramas — Wang Xiao-di spent forty years proving that making television can be a social movement.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/wang-shaudi",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "en/People/wang-shaudi.md"
   },
   {
     "title": "Wang Xinren (Aluan Wang): Generativer Künstler, der Landschaft durch Code erschafft und Gemeinnützigkeit in Verträge integriert",
@@ -116928,6 +117027,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "es/Culture/yanshui-beehive-fireworks.md"
+  },
+  {
+    "title": "Yang Cheng-lin: Kolom Produser dari Rainie Girl Group hingga Pembuat 〈Ambiguous 2025〉",
+    "description": "Pada tanggal 9 September 2025, Yang Cheng-lin merilis 〈Ambiguous 2025〉 yang ia produksi sendiri, bertepatan dengan peringatan 20 tahun versi asli 〈Ambiguous〉. Penyanyi ini, yang debut dari grup virtual BMG pada tahun 2000, populer di dunia berbahasa Mandarin pada tahun 2005, dan dikenal karena penampilan ekstremnya pada tahun 2012, menghabiskan dua puluh lima tahun bernegosiasi dengan \"siapa yang mendefinisikannya\"—hingga namanya tertulis di kolom produser.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/rainie-yang",
+    "readingTime": 133,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "id/People/rainie-yang.md"
   },
   {
     "title": "Yang Chuan-kwang : le village de Taitung, l'argent à Rome, et le record du monde à 9 121 points de l'Homme de fer asiatique",
@@ -120076,6 +120186,17 @@
     "path": "ru/Geography/chiayi-city.md"
   },
   {
+    "title": "Городская специфика и региональная культура",
+    "description": "От международного мегаполиса Тайбэя до атмосферы древнего города Тайнэня, как города Тайваня формируют уникальную местную идентичность",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/urban-character-and-regional-culture",
+    "readingTime": 105,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ru/Geography/urban-character-and-regional-culture.md"
+  },
+  {
     "title": "Государственные праздники: история Тайваня, написанная через «дни, когда не нужно идти на работу»",
     "description": "Первым законным государственным праздником Китайской Республики (Тайвань) не стал Двойная десятка, не стал Новый год — а 228-е 1997 года. От «Дня позорного правления» 17 июня в колониальный период до споров в Законодательном Юане 2025 года о «Возвращении против Конца войны» — каждая красная дата в календаре — это ответ того или иного режима на вопрос, что Тайвань должно помнить и кому оно принадлежит. Но выходной день никогда не был лишь вопросом национальной идентичности — это одновременно вопрос о том, имеют ли работники право на отдых.",
     "category": "ru",
@@ -120647,6 +120768,17 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "ru/Geography/yehliu-geopark.md"
+  },
+  {
+    "title": "Железная дорога Алиишань: 71,6 километра, предназначенные для перевозки древесины и сохранения культуры",
+    "description": "Железная дорога Алиишань, начатая в 1906 году и открытая в 1912 году, когда-то доставляла кедр в Цзяи. После перерыва на 15 лет из-за урагана Морак она была полностью восстановлена в 2024 году и превратилась из линии лесозаготовки в культурный ландшафт. Теперь вопрос не в том, как покорить лес, а в том, как функционировать среди стихийных бедствий, туризма и сохранения наследия.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/alishan-forest-railway",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ru/Geography/alishan-forest-railway.md"
   },
   {
     "title": "Железный бык: как «Цзе-ге» из просветительского ролика против сексуального насилия стал его жизнью на десять лет",
@@ -122925,6 +123057,17 @@
     "path": "ru/Music/mayday-band.md"
   },
   {
+    "title": "Макдоналдс: тайваньский ресторан-бургер, появившийся раньше в Сити-Станции, встретил оригинал спустя шесть лет",
+    "description": "Макдоналдс, открывшийся у Сити-Станции Тайбэя 8 июля 1978 года, некогда назывался первым специализированным бургерным в Тайване. Это был не американский Макдоналдс, а ранний бренд, разработанный на основе тайваньских исследований и имитации американского фастфуд-процесса; он демонстрирует пересечение городской жизни, культуры питания вне дома и брендовой суверенности в 1980-х годах.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/food/mai-dang-le-burger",
+    "readingTime": 103,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "ru/Food/mai-dang-le-burger.md"
+  },
+  {
     "title": "Малая ночная цапля: мечтаемая птица орнитологов, «большая глупая птица» кампусов",
     "description": "В записях Общества диких птиц Китайской Республики (Тайвань) за 1985–1992 гг. из 4000 наблюдений малая ночная цапля встречалась лишь в 25 случаях и считалась «редкой оседлой птицей». Тридцать лет спустя её можно видеть ежедневно на Коксовой аллее Тайваньского университета и в парке Даань. Распространённое мнение — «птица перестала бояться людей», — но исследования кольцевания, начатые Юань Сяовэем в 2010 г., указывают на иную причину: урбанизированные кампусы с густыми рощами и газонами без пестицидов случайно воспроизвели её естественную среду обитания — низинные леса. Птица не изменилась, изменилась среда.",
     "category": "ru",
@@ -123110,6 +123253,17 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "ru/History/taiwan-fishery-modernization.md"
+  },
+  {
+    "title": "Модернизация сельского хозяйства Тайваня",
+    "description": "Рассмотрение пути трансформации Тайваня от традиционного сельского хозяйства к современному прецизионному аграрному сектору, включая развитие органического земледелия, возрождение сельских территорий, агротуризм и другие инновационные модели развития",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/economy/taiwan-agricultural-modernization",
+    "readingTime": 98,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ru/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Можно предсказать ветер и дождь, но не судьбу: четыреста лет Тайваня с тайфунами",
@@ -123739,17 +123893,6 @@
     "path": "ru/Economy/taiwan-orchid-industry.md"
   },
   {
-    "title": "Особенности городов и региональная культура",
-    "description": "От международного мегаполиса Тайбэя до древней столицы Тainanь: как города Тайваня формируют уникальную местную идентичность",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/geography/urban-character-and-regional-culture",
-    "readingTime": 93,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ru/Geography/urban-character-and-regional-culture.md"
-  },
-  {
     "title": "Остров Гueixань: направление к дому, в которое смотрят жители Иляня каждый день, но жители самого острова уже не могут вернуться",
     "description": "Бабушка Хуан Чэнь Юй переехала с острова Гueixань в Тоучэн более тридцати лет назад, но каждую ночь всё ещё видит в снах жизнь на острове. Для жителей Иляня на берегу Гueixань — это первая из «восьми пейзажей Ланьян» и ориентир «скоро дом» у выхода из тоннеля Сюэшань; для настоящих жителей острова это — родной дом, увезённый переселением 1970-х без компенсации. Видно, но не подобраться; можно подобраться, но нельзя жить. Писатель У Мыньсянь в 1975 году назвал его «островом, который скоро забудут», — полвека спустя остров не забыт, запомнились пейзажи и легенды, а забыты люди, жившие на нём.",
     "category": "ru",
@@ -124377,6 +124520,17 @@
     "path": "ru/Nature/bird-window-collision-taiwan.md"
   },
   {
+    "title": "Программа лидерства стартапов SLP Тайбэй: урок, начав с шести тысяч и достигший пятидесяти восьми тысяч, который трудно найти",
+    "description": "В 2012 году группа людей, которые сами занимались предпринимательством, организовала в Тайбэе курс за свой счет. Стоимость первого курса составляла всего шесть тысяч юаней, что эквивалентно менее чем ста юаням в час. Четырнадцать лет спустя то же самое превратилось в институционализированное сообщество с сотнями участников и тремядцатью местами, цена которого приближается к шестидесяти тысячам, а на официальном сайте всегда говорится: «все средства используются для студентов». Это история взаимопомощи стартап-сообщества Тайваня, основанная на человеческих связях и прагматизме.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/economy/slp-taipei-startup-leadership-program",
+    "readingTime": 151,
+    "featured": false,
+    "date": "2026-07-05",
+    "path": "ru/Economy/slp-taipei-startup-leadership-program.md"
+  },
+  {
     "title": "Продольная железная дорога: в 1908 году одна линия сшила остров, оставив скорость колониализма",
     "description": "В 1887 году Лю Мыньчуань прокладывал первый участок железной дороги от Тайбэя на север, а в 1908 году Продольная линия соединила Цзилунь, Тайчжунь и ТакAO в одну магистраль. Она доставляла рис и сахар для империи, но также приблизила часть крестьян к рынкам; скорость, принесённая железной дорогой, никогда не распределялась поровну для всех.",
     "category": "ru",
@@ -124599,17 +124753,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/Culture/taiwan-cultural-creative-park-development.md"
-  },
-  {
-    "title": "Развитие модернизации сельского хозяйства Тайваня",
-    "description": "Рассмотрение пути трансформации Тайваня от традиционного сельского хозяйства к современному точному земледелию, включая инновационные модели развития: органическое земледелие, возрождение сельских территорий, агротуризм",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/economy/taiwan-agricultural-modernization",
-    "readingTime": 91,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ru/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "Развитие программной промышленности Тайваня",
@@ -125046,12 +125189,12 @@
     "path": "ru/Politics/central-election-commission.md"
   },
   {
-    "title": "Системы рек Тайваня и их гидрологические особенности: короткие бурные реки и сезонные изменения",
-    "description": "Исследуйте уникальную систему рек Тайваня, от Чжоушуйси до Гаопинси, и узнайте, как островная топография формирует гидрологический облик Тайваня",
+    "title": "Системы рек Тайваня и их гидрологические особенности: короткие быстрые потоки и сезонные изменения",
+    "description": "Изучите уникальную систему рек Тайваня — от реки Чжуши до реки Гаопинь — и узнайте, как островная местность формирует гидрологические особенности",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 70,
+    "readingTime": 89,
     "featured": true,
     "date": "2026-03-18",
     "path": "ru/Geography/taiwan-river-systems-and-hydrology.md"
@@ -131258,11 +131401,11 @@
   },
   {
     "title": "الاقتصاد الدائري في تايوان وإعادة استخدام الموارد",
-    "description": "التحول من الاقتصاد الخطي إلى الاقتصاد الدائري، واستكشاف نماذج تايوان في إعادة تدوير الموارد، ومعالجة النفايات، والتنمية المستدامة",
+    "description": "الانتقال من الاقتصاد الخطي إلى الاقتصاد الدائري، واستكشاف نماذج إعادة تدوير الموارد ومعالجة النفايات والتنمية المستدامة في تايوان.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/economy/circular-economy-and-resource-recycling",
-    "readingTime": 54,
+    "readingTime": 66,
     "featured": false,
     "date": "2026-03-18",
     "path": "ar/Economy/circular-economy-and-resource-recycling.md"
@@ -131523,17 +131666,6 @@
     "path": "ar/Geography/administrative-divisions-of-taiwan.md"
   },
   {
-    "title": "التكنولوجيا الزراعية والزراعة الدقيقة",
-    "description": "كيف تحولت تايوان من الزراعة التقليدية إلى الزراعة الدقيقة عالية التقنية، محققة معجزة زراعية",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 53,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md"
-  },
-  {
     "title": "التكيف مع الحرارة ليس رفاهية: الفقر في الطاقة والعيش الآمن في تايوان كقضايا حكم عامة",
     "description": "لا يعني الفقر في الطاقة تايوان فقط عدم القدرة على دفع فاتورة الكهرباء، بل يشمل السكن في شقق قديمة لا تعزل جيدًا، واستخدام أجهزة منخفضة الكفاءة، والخوف من تشغيل التكييف، والضغط الذي يتطلبه التحمل في درجات الحرارة المرتفعة مقابل القدرة على تحمل الفاتورة. تستعرض هذه المقالة الفقر في الطاقة من منظور الإنفاق على الطاقة، وظروف السكن، وتفاعل حرارة الجسد، وتقترح اتجاهات سياسية تركز على الأمن الحراري السكني، والتشخيص المنزلي، وتحسين المجتمعات، والحوكمة بالبيانات، موضحة كيف يمكن للتحول الطاقي أن يحقق العدل بين الأقلية دون المساس بكرامة وسلامة الأسر.",
     "category": "ar",
@@ -131550,7 +131682,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/pts-public-television-service",
-    "readingTime": 117,
+    "readingTime": 118,
     "featured": false,
     "date": "2026-05-27",
     "path": "ar/Society/pts-public-television-service.md"
@@ -131826,6 +131958,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/Food/taiwan-bread-and-baking.md"
+  },
+  {
+    "title": "الخصائص الحضرية والثقافة الإقليمية",
+    "description": "من المدن العالمية في تايبيه إلى سحر العاصمة القديمة في تاي난، كيف تشكل مدن تايوان هوياتها المحلية الفريدة؟",
+    "category": "ar",
+    "tags": [
+      "مدن",
+      "ثقافة إقليمية",
+      "خصائص محلية",
+      "تنمية حضرية",
+      "جغرافيا ثقافية"
+    ],
+    "url": "https://taiwan.md/ar/geography/urban-character-and-regional-culture",
+    "readingTime": 87,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ar/Geography/urban-character-and-regional-culture.md"
   },
   {
     "title": "الخط الطولي للسكك الحديدية: في عام 1908، خط واحد خيَّط الجزيرة، وأبقى سرعة الاستعمار",
@@ -134832,6 +134981,17 @@
     "path": "ar/Music/indigenous-music-traditions.md"
   },
   {
+    "title": "تكنولوجيا الزراعة والزراعة الدقيقة",
+    "description": "كيف حوّلت تايوان الزراعة التقليدية إلى زراعة دقيقة عالية التكنولوجيا وخلقت معجزة زراعية",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/agricultural-technology-and-refined-agriculture",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md"
+  },
+  {
     "title": "تلك الشرطة المائلة العكسية داخل حرف \"غونغ\" (功): الضريبتان الافتراضيتان اللتان يدفعهما المهندسون التايوانيون يوميًا",
     "description": "على نظام Windows 11 باللغة zh-TW، ألقى سكريبت حالة الترجمة بجميع المسارات الأربعة آلاف الممسوحة في التصنيف \"root\"، فأصبح تصنيف Technology صفرًا، بينما كان تكامل المستمر (CI) على Linux أخضر في نفس الأسبوع. يستخدم السكريبت الشرطة المائلة (/) لتقسيم أسماء التصنيفات، بينما يستخدم القرص الشرطة المائلة العكسية (\\)، فلا يتمكن من التقسيم. هناك طبقة أقدم مدفونة داخل الحرف: البايت الثاني لحرف \"غونغ\" (功) في ترميز Big5 هو نفسه الشرطة المائلة العكسية في ASCII، ويسميها المطورون \"شو غونغ غاي\" (許功蓋). كيف تُكتب المسارات، وما الرموز التي تسكن داخل الحروف، لم تضع القيم الافتراضية هذه الآلة في الحسبان. إن quotePath في Git هو خط آخر، وسببه مختلف.",
     "category": "ar",
@@ -136381,17 +136541,6 @@
     "path": "ar/Geography/geography-and-geology.md"
   },
   {
-    "title": "خصائص المدن والثقافة الإقليمية",
-    "description": "من العاصمة الدولية تايبيه إلى سحر العاصمة القديمة تاينان، كيف تشكل مدن تايوان هويات محلية فريدة",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/geography/urban-character-and-regional-culture",
-    "readingTime": 75,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ar/Geography/urban-character-and-regional-culture.md"
-  },
-  {
     "title": "خط بانون (板南線): 26.5 كيلومتراً تخيط مدينتين تحت الأرض",
     "description": "في 24 ديسمبر 1999، بدأ خط بانون (板南線) بربط شيمن (西門) ومعبد لونغشان (龍山寺) وبلدية المدينة (市政府)، ثم امتد لاحقاً إلى دينغبو (頂埔) ومركز نانغونغ للمعارض (南港展覽館). أعادت هذه الخطوط الجوفية البالغ طولها 26.5 كيلومتراً والمحطة 23، كتابة أوقات التنقل والتدفقات التجارية ومسارات المشي وتصورات الأراضي بين بانكياو (板橋) وتايبيه (台北) ونانغونغ (南港)، تاركةً تساؤلات حول من يستوعب تدفق الناس، ومن يتحمل التغيير، وكيف تُقطع آخر 500 متر.",
     "category": "ar",
@@ -137022,6 +137171,17 @@
     "featured": false,
     "date": "2026-08-01",
     "path": "ar/History/black-bat-squadron.md"
+  },
+  {
+    "title": "سكة حديد أليسانه الغابية: 71.6 كيلومترًا من نقل الأخشاب وترك التراث الثقافي",
+    "description": "سكة حديد أليسانه الغابية، التي بدأت عام 1906 وافتتحت عام 1912، كانت تنقل خشب الأرز إلى تشياي، وتوقفت لمدة 15 عامًا بعد كارثة الرياح في مولاك ودوجوان. مع استئناف التشغيل الكامل في عام 2024، تحولت من خط نقل للأخشاب إلى منظر ثقافي. السؤال الحقيقي الآن ليس كيف غزو الغابة، بل كيف يمكن الاستمرار في العمل بين الكوارث والسياحة والحفظ.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/alishan-forest-railway",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ar/Geography/alishan-forest-railway.md"
   },
   {
     "title": "سكة حديد صناعة السكر في تايوان: قطار صغير كان ذات يوم أطول من سكة حديد تايوان",
@@ -140104,6 +140264,17 @@
     "path": "ar/Music/mayday-band.md"
   },
   {
+    "title": "مبادرة أرمام للبيع بالتقسيط في تايبيه: مجموعة من الأشخاص الذين كان بإمكانهم الاعتكاف، ينقلون الحرفة بأبطأ طريقة",
+    "description": "في عام 2012، جلست مجموعة من الأشخاص الذين كان بإمكانهم الاعتكاف في غرفة صغيرة في تايبيه، ووعدوا رائد أعمال على مدار عامين: بدون أسهم، بدون تدخل في الشؤون اليومية، فقط تسليم الحرفة. بعد ثلاثة عشر سنة وخمسة عشر دورة، تشمل القائمة شركات مثل أبير، وشركة اجتماعية، وبورتالي؛ وما زال المؤسسون يقولون إن الطريق لم يكتمل بعد. أبطأ طريقة للإرث مكتوبة في المؤسسات، لا يمكن نسخها بالاختصار—الأسماء المعلقة على الجدران، معظمها لا يزال في الطريق.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/aama-taipei-cradle-program",
+    "readingTime": 132,
+    "featured": false,
+    "date": "2026-07-05",
+    "path": "ar/Economy/aama-taipei-cradle-program.md"
+  },
+  {
     "title": "متحف تايبيه الجديدة للفنون: قصب نهر داهان، و\"تحفة فنية غير مكتملة\" للجماليات الحضرية",
     "description": "في 25 أبريل 2025، افتتح متحف تايبيه الجديدة للفنون رسميًا في يينغه، وهذا المبنى الذي صممه ياو رين شي بتكلفة تقارب 3 مليارات دولار تايواني، يستلهم صورته من \"متحف في قلب القصب\"، محاولًا زرع بذور الفن على حافة المدينة. ومع ذلك، فمن تأخر الأعمال وزيادة الميزانيات إلى اتهامات \"متحف البعوض\" بعد الافتتاح، لم يعد مجرد صرح فني، بل أصبح مرآة تعكس التوترات المعقدة في البناء العام والرؤية الثقافية في تايوان.",
     "category": "ar",
@@ -141345,12 +141516,12 @@
     "path": "ar/Politics/city-councilor-system-taiwan.md"
   },
   {
-    "title": "نظام الأنهار في تايوان وخصائصها الهيدرولوجية: الأنهار القصيرة السريعة والتغيرات الموسمية في الجغرافيا المائية",
-    "description": "استكشاف نظام الأنهار الفريد في تايوان، من نهر تشوشوي إلى نهر كاوبينج، وفهم كيف يشكل تضاريس الجزيرة الخصائص الهيدرولوجية لتايوان",
+    "title": "نظام الأنهار والميزات الهيدرولوجية لتايوان: جغرافية مائية من الجريان السريع والتغير الموسمي",
+    "description": "استكشاف نظام أنهار تايوان الفريد، من نهر تشيانغ شوي إلى نهر غاو بين، لفهم كيف شكّل التضاريس الجزيرية الخصائص المائية لتايوان.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/geography/taiwan-river-systems-and-hydrology",
-    "readingTime": 62,
+    "readingTime": 76,
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/Geography/taiwan-river-systems-and-hydrology.md"
@@ -143203,6 +143374,23 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "hi/Food/kinmen-kaoliang-liquor.md"
+  },
+  {
+    "title": "कियाओयी कृषि-वानलिन: एक उपविजेता टीम ने कैसे ताइवान के लिए काबूसन (कबूकेन) के दरवाजे खोले",
+    "description": "अगस्त 1931 में, कियाओयी कृषि-वानलिन की यात्रा किलोंग से जापान के काबूसन तक हुई थी। यह स्कूल टीम, जिसमें हान चीनी, स्वदेशी और जापानी छात्र शामिल थे, फाइनल तक पहुंची और उपविजेता बनी। इसने केवल \"तियानशिया कियानोंग\" नहीं छोड़ा, बल्कि एक उपनिवेश कैसे दूसरे के मैदान में देखा गया और उस मैदान को अपनी स्मृति कैसे बनाया।",
+    "category": "hi",
+    "tags": [
+      "कियाओयी कृषि-वानलिन",
+      "कियानोंग",
+      "बेसबॉल",
+      "काबूसन",
+      "जापानी शासन काल"
+    ],
+    "url": "https://taiwan.md/hi/history/kano-chiayi-agriculture-forestry",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "hi/History/kano-chiayi-agriculture-forestry.md"
   },
   {
     "title": "किसान संघ केवल उर्वरक बेचने के लिए नहीं: ताइवान के ग्रामीण सार्वजनिक संगठन ने औपनिवेशिक व्यवस्था से ऋण विभाग सुधार तक का सफर कैसे तय किया",
@@ -145792,6 +145980,17 @@
     "path": "hi/Lifestyle/taiwan-traditional-markets-and-market-culture.md"
   },
   {
+    "title": "ताइवान का बाहरी व्यापार और वैश्विक आपूर्ति श्रृंखला",
+    "description": "निर्यात की ओर से आपूर्ति श्रृंखला के महत्वपूर्ण स्टेशनों तक: ताइवान कैसे अपने व्यापार में ऊपरी; हिस्सेदारी बनाए रखता है जबकि यह चीन और अमेरिका के बीच संघर्ष कर रहे हैं",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/taiwan-foreign-trade-and-global-supply-chain",
+    "readingTime": 70,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
+  },
+  {
     "title": "ताइवान का भविष्य संकल्प पत्र: \"वर्तमान\" दो शब्द, जिन्होंने सत्ताईस साल तक सहारा दिया",
     "description": "1999 में, लिन चो-शुई ने \"चीन गणराज्य\" राष्ट्रीय नाम से पहले \"वर्तमान\" दो शब्द जोड़े, जिससे चेन शुई-बियान गुट नाखुश था। इन दो शब्दों ने एक साथ स्वतंत्रता समर्थकों और मध्यमार्गी मतदाताओं को शांत किया, जिससे 2000 में पहली बार सत्ता परिवर्तन का द्वार खुला। सत्ताईस साल बाद, ताइवान के युवा मानते हैं कि \"ताइवान मूलतः स्वतंत्र है\" यह सामान्य ज्ञान है, फिर भी वे नहीं जानते कि यह सामान्य ज्ञान एक अस्पष्टता से भरे दस्तावेज़ से निकला है।",
     "category": "hi",
@@ -145889,6 +146088,22 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "hi/Technology/taiwan-robotics-industry.md"
+  },
+  {
+    "title": "ताइवान का लुरुई संस्कृति: एक बर्तन में गहरा मेरिनेड, कैसे बना बचाने की तकनीक से सड़कों के चुनाव में",
+    "description": "1980 के दशक में गरम लुरुई की लोकप्रियता शुरू हुई, 1990 के दशक में चेन ब्रांड्स ने सड़कों के स्टॉल को दोहराने योग्य अनुभव में बदलना शुरू कर दिया। चाहे वह चाहूँ-में से मेरिनेड, सॉस और कैaramेल की प्रतिक्रिया हो, या ठंडा लुरुई, गर्म लुरुई और कूल्ड चेन हो — ताइवान का लुरुई वाकई एक निश्चित रेसिपी नहीं छोड़ता, बल्कि हर व्यक्ति के लिए सामग्री, स्वाद और जीवन शैली चुनने की आज़ादी छोड़ता है।",
+    "category": "hi",
+    "tags": [
+      "लुरुई",
+      "खाने-पीने की संस्कृति",
+      "सड़कों का छोटा खाना",
+      "खाद्य उद्योग"
+    ],
+    "url": "https://taiwan.md/hi/food/taiwan-lu-wei-braised-snacks",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "hi/Food/taiwan-lu-wei-braised-snacks.md"
   },
   {
     "title": "ताइवान का लोकतान्त्रिक संक्रमण — तानाशाही का खुद की खोदी हुई कब्र",
@@ -146389,17 +146604,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "hi/Lifestyle/taiwan-arcade-culture-and-streetscapes.md"
-  },
-  {
-    "title": "ताइवान की कृषि आधुनिकीकरण की प्रगति",
-    "description": "ताइवान की पारंपरिक कृषि से आधुनिक परिष्कृत कृषि में रूपांतरण की प्रक्रिया का अन्वेषण, जिसमें जैविक कृषि, ग्रामीण पुनर्जीवन और मनोरंजन कृषि जैसे नवीन विकास मॉडल शामिल हैं",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/economy/taiwan-agricultural-modernization",
-    "readingTime": 84,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "hi/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "ताइवान की कृषि और ग्रामीण पुनर्जागरण",
@@ -146942,17 +147146,6 @@
     "path": "hi/Art/taiwanese-architecture.md"
   },
   {
-    "title": "ताइवान की विदेश व्यापार और वैश्विक आपूर्ति श्रृंखला",
-    "description": "निर्यात-केंद्रित मॉडल से लेकर आपूर्ति श्रृंखला के महत्वपूर्ण बिंदु तक: ताइवान अमेरिका-चीन प्रतिस्पर्धा में अपनी व्यापारिक श्रेष्ठता कैसे बनाए रखता है",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 61,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
-  },
-  {
     "title": "ताइवान की शिक्षा प्रणाली: संयुक्त प्रवेश परीक्षा नरक से बहुआयामी भूलभुलैया तक का द्वीप प्रयोग",
     "description": "ताइवान ने 30 साल तक संयुक्त प्रवेश परीक्षा प्रणाली को तोड़ने की कोशिश की, और परिणाम यह है कि नवीनतम विषय-विशिष्ट परीक्षा (डिविजनल एग्जामिनेशन) के लिए पुनः परीक्षा कक्षाओं में नामांकन दो गुना बढ़ गया है। एक द्वीप कैसे शिक्षा के दबाव और न्यायसंगत शिक्षा के बीच समाज का विज्ञान प्रयोग कर रहा है?",
     "category": "hi",
@@ -147181,6 +147374,17 @@
     "featured": true,
     "date": "2026-05-18",
     "path": "hi/Technology/taiwan-ai-academy.md"
+  },
+  {
+    "title": "ताइवान कृषि के आधुनिकीकरण का विकास",
+    "description": "ताइवान के पारंपरिक कृषि से आधुनिक सुंदर कृषि में परिवर्तन की प्रक्रिया का अन्वेशण, जिसमें जैविक कृषि, ग्रामीण पुनर्जन्म, विश्राम कृषि आदि नवीनतम विकास मॉडल शामिल हैं",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/taiwan-agricultural-modernization",
+    "readingTime": 90,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "hi/Economy/taiwan-agricultural-modernization.md"
   },
   {
     "title": "ताइवान के 16 मूलनिवासी समुदायों का सांस्कृतिक मानचित्र",
@@ -148635,17 +148839,6 @@
     "path": "hi/Technology/taiwan-vr-metaverse-rise-and-fall.md"
   },
   {
-    "title": "ताइवान वैरायटी शो",
-    "description": "1962 में \"ग्रुप स्टार मीटिंग\" ने नाइटक्लब को लिविंग रूम में ला दिया, ताइवानी वैरायटी शो तब से न केवल मनोरंजन के लिए जिम्मेदार रहे, बल्कि सितारे बनाने, लोकप्रिय वाक्यांश बनाने, परिवार के लिविंग रूम के लिए साझा विषयों का आविष्कार करने लगे। यह एक समय केबल टीवी युग में चीनी भाषी दुनिया का मॉडल बन गया, और स्ट्रीमिंग व शॉर्ट वीडियो युग में स्टूडियो शो से मजबूरन निक्षेप प्लेटफॉर्म पर नई भाषा में बदलने को मजबूर हुआ।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/culture/taiwan-variety-shows",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-04-19",
-    "path": "hi/Culture/taiwan-variety-shows.md"
-  },
-  {
     "title": "ताइवान शाकाहार संस्कृति",
     "description": "ताइवान में शाकाहारी जनसंख्या विश्व में शीर्ष तीन है, बौद्ध शाकाहार परंपरा से लेकर आधुनिक पौधे-आधारित मांस विकल्प के नवाचार तक",
     "category": "hi",
@@ -148900,6 +149093,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "hi/Food/braised-pork-rice.md"
+  },
+  {
+    "title": "ताइवानी विविधता कार्यक्रम",
+    "description": "1962 में 'क्वन शिंग हुई' (群星會) ने नाइटक्लब को ड्राइंग रूम में ला दिया, ताइवानी विविधता तब से सिर्फ मनोरंजन नहीं, बल्कि सितारे बनाने, मुहावरे गढ़ने और पारिवारिक ड्राइंग रूम को साझा विषय देने लगी। केबल टीवी युग में यह चीनी-भाषी दुनिया का नमूना बनकर फूला-फला, फिर स्ट्रीमिंग और शॉर्ट-वीडियो दौर में स्टूडियो शोकेस से निकलकर विभाजित प्लेटफॉर्मों की नई भाषा में ढलने को मजबूर हुआ।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/culture/taiwan-variety-shows",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-04-19",
+    "path": "hi/Culture/taiwan-variety-shows.md"
   },
   {
     "title": "ताई त्सू-यिंग",
@@ -152633,11 +152837,11 @@
   },
   {
     "title": "शहरों की विशेषताएँ और क्षेत्रीय संस्कृति",
-    "description": "ताइपे के अंतरराष्ट्रीय महानगर से लेकर ताइनान के प्राचीन राजधानी के माहौल तक, ताइवान के विभिन्न शहर कैसे अनूठी स्थानीय पहचान को आकार देते हैं",
+    "description": "ताइपे के अंतरराष्ट्रीय महानगर से लेकर ताइनान की प्राचीन राजधानी की शैली तक, ताइवान के विभिन्न शहर कैसे अद्वितीय स्थानीय पहचान को आकार देते हैं",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/geography/urban-character-and-regional-culture",
-    "readingTime": 84,
+    "readingTime": 95,
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Geography/urban-character-and-regional-culture.md"
@@ -153084,6 +153288,17 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "hi/History/withdrawal-from-united-nations.md"
+  },
+  {
+    "title": "सस्ता: 'सेकेंडरी एम्पायर' के साथ इतिहास बताने वाले व्यक्ति का अंत ज़ेबरा क्रॉसिंग पर हुआ",
+    "description": "2021 में, चीप (Cheap) ने 'सेकेंडरी एम्पायर' की युद्ध छवियों का उपयोग करके विभिन्न देशों का इतिहास बताया था, और चैनल के 81 लाख सब्सक्राइबर थे। 2023 में, उन्होंने नागरिक अधिकारों के लिए सड़कों पर उतरने का आह्वान किया, और बाद में सामग्री की कथित साहित्यिक चोरी और जोमैन (Joeman) का समर्थन करने को लेकर दर्शकों से जवाब दिया। इतिहास कथाकार से सार्वजनिक वकालत तक, उन्हें एक ही समस्या का सामना करना पड़ा: आवाज़ प्रवेश द्वार खोल सकती है, लेकिन सत्यापन, निरंतर जिम्मेदारी और शामिल लोगों के प्रति विवेक का विकल्प नहीं हो सकती।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/cheap-youtuber",
+    "readingTime": 105,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "hi/People/cheap-youtuber.md"
   },
   {
     "title": "सहकारी समिति: स्कूल के गेट पर गायब होता लोकतांत्रिक प्रयोग और मीट बन की सुगंध",
@@ -155051,17 +155266,17 @@
   },
   {
     "title": "농업 기술과 정밀 농업",
-    "description": "대만이 어떻게 전통 농업에서 고도화된 정밀 농업으로 전환하여 농업의 기적을 창조했는가",
+    "description": "타이완은 전통 농업에서 첨단 정밀 농업으로 전환하며 농업적 기적을 창조하다",
     "category": "ko",
     "tags": [
-      "정밀 농업",
-      "농업 기술",
+      "정밀농업",
+      "농업기술",
       "난초",
-      "파인애플 감",
-      "스마트 농업"
+      "파인애플드래곤",
+      "스마트농업"
     ],
     "url": "https://taiwan.md/ko/economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 27,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Economy/agricultural-technology-and-refined-agriculture.md"
@@ -155858,35 +156073,6 @@
     "path": "ko/Geography/taiwan-agricultural-landscapes-and-industry-belts.md"
   },
   {
-    "title": "대만 농업 현대화 발전",
-    "description": "대만이 전통 농업에서 현대적 정밀 농업으로 전환해 온 과정을 살피며, 유기농업, 농촌 재생, 레저 농업 등 혁신적 발전 모델을 포함한다",
-    "category": "ko",
-    "tags": [
-      "농업",
-      "정밀 농업",
-      "유기농업",
-      "농촌 재생",
-      "레저 농업",
-      "현대화"
-    ],
-    "url": "https://taiwan.md/ko/economy/taiwan-agricultural-modernization",
-    "readingTime": 37,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ko/Economy/taiwan-agricultural-modernization.md"
-  },
-  {
-    "title": "대만 농업과 농촌 재생",
-    "description": "쌀 왕국에서 고부가가치 농업으로: 대만 농업 전환과 농촌 공동체 재생의 이야기",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/economy/taiwan-agriculture-and-rural-revitalization",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Economy/taiwan-agriculture-and-rural-revitalization.md"
-  },
-  {
     "title": "대만 농촌 교육: 아이들에게 필요한 것은 감동 스토리가 아니라 온전한 지원 체계다",
     "description": "농촌 교육은 단순히 학교가 멀리 있다는 문제가 아니다. 교사 이직률, 복식 학급, 교통과 기숙사, 가정의 지원, 지역사회 연계, 그리고 사회가 규정하는 성공의 단일한 기준까지—진짜 어려움은 아이가 교실을 떠난 후 지원 체계가 층층이 무너진다는 것이다.",
     "category": "ko",
@@ -156233,23 +156419,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ko/Politics/taiwan-campaign-rallies.md"
-  },
-  {
-    "title": "대만 섬 지리적 특징과 형성",
-    "description": "대만의 독특한 섬 지리적 특징을 탐구하며, 판 운동에서 지형 구조까지, 포르모사 섬의 자연적 비밀을 알아본다",
-    "category": "ko",
-    "tags": [
-      "지리",
-      "지질",
-      "섬",
-      "판 운동",
-      "지형"
-    ],
-    "url": "https://taiwan.md/ko/geography/geography-and-geology",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Geography/geography-and-geology.md"
   },
   {
     "title": "대만 섬유 산업: 황혼기 산업에서 올림픽 기능복의 숨겨진 챔피언으로",
@@ -157231,24 +157400,6 @@
     "path": "ko/Society/teach-for-taiwan.md"
   },
   {
-    "title": "대만의 5대 지형과 지리 구조: 산맥에서 평원까지의 섬 경관",
-    "description": "대만의 독특한 지리 구조를 탐구하며, 중앙산맥에서 서부 평원까지 이 섬의 지형 다양성을 알아본다",
-    "category": "ko",
-    "tags": [
-      "지리",
-      "지형",
-      "산맥",
-      "평원",
-      "대만",
-      "자연지리"
-    ],
-    "url": "https://taiwan.md/ko/geography/taiwan-five-major-landforms-and-geographic-structure",
-    "readingTime": 24,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ko/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
-  },
-  {
     "title": "대만의 AI 일상 — 인공지능이 골목 구석구석으로 들어오다",
     "description": "대만 사람들은 매일 수십 번씩 AI와 상호작용하지만, 대부분은 자신이 AI와 대화하고 있다는 사실을 모른다",
     "category": "ko",
@@ -157474,17 +157625,6 @@
     "featured": true,
     "date": "2026-04-28",
     "path": "ko/Society/taiwan-diplomatic-allies-and-international-relations.md"
-  },
-  {
-    "title": "대만의 순환경제와 자원 재이용",
-    "description": "선형경제에서 순환경제로 전환하며 대만의 자원 회수, 폐기물 처리와 지속가능발전 모델을 탐구한다",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/economy/circular-economy-and-resource-recycling",
-    "readingTime": 25,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Economy/circular-economy-and-resource-recycling.md"
   },
   {
     "title": "대만의 야시장 문화",
@@ -161200,16 +161340,16 @@
     "path": "ko/Culture/national-theater-and-concert-hall.md"
   },
   {
-    "title": "양촨광: 타이둥 부족, 로마 은메달, 9121점 세계 기록의 아시아 아이언맨",
-    "description": "1933년 7월 10일 타이둥 마란 아메이족 부족에서 태어난 양촨광은 타이완 최초의 올림픽 메달리스트이다. 1960년 로마 올림픽 10종 경기에서 8334점으로 은메달을 획득했으며, 1963년 9121점으로 세계 기록을 경신하고 장대높이뛰기 4.83m 기록으로 국제 육상 연맹(IAAF)의 점수 기준을 변경하도록 만들었다. 2007년 1월 27일 미국 캘리포니아에서 뇌졸중으로 타계하여 73세를 일기로 삶을 마쳤다. 2025년 4월 문화부가 국보로 지정했다.",
+    "title": "양촨광: 타이둥 부족, 로마 은메달, 9121점 세계 기록을 세운 아시아의 인간 돌쇠",
+    "description": "1933년 7월 10일 타이둥 마란 아미족 부족에서 태어난 양촨광은 대만의 최초 올림픽 메달리스트이다. 그는 1960년 로마 올림픽 데이브레이드(Decathlon)에서 8334점으로 은메달을 획득했으며, 1963년 9121점으로 세계 기록을 경신하고 높이뛰기에서 4.83미터를 기록하여 국제육상연맹(IAAF)의 채점 기준을 수정하게 만들었다. 그는 2007년 1월 27일 미국 캘리포니아에서 73세로 사망했으며, 2025년 4월 문화부로부터 국보로 지정되었다.",
     "category": "ko",
     "tags": [
       "체육",
       "육상",
       "올림픽",
-      "10종 경기",
+      "데이브레이드",
       "원주민",
-      "아메이족"
+      "아미족"
     ],
     "url": "https://taiwan.md/ko/people/yang-chuan-kwang-asian-iron-man",
     "readingTime": 27,
@@ -165083,6 +165223,35 @@
     "path": "ko/Economy/taiwan-orchid-industry.md"
   },
   {
+    "title": "타이완 농업 현대화 발전상",
+    "description": "전통 농업에서 현대 정밀 농업으로의 전환 과정, 유기농업, 농촌 재생, 레저 농업 등의 혁신적 발전 모델 탐구",
+    "category": "ko",
+    "tags": [
+      "농업",
+      "정밀농업",
+      "유기농업",
+      "농촌재생",
+      "레저농업",
+      "현대화"
+    ],
+    "url": "https://taiwan.md/ko/economy/taiwan-agricultural-modernization",
+    "readingTime": 41,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ko/Economy/taiwan-agricultural-modernization.md"
+  },
+  {
+    "title": "타이완 농업과 농촌 재생",
+    "description": "쌀 왕국에서 정예 농업으로: 타이완 농업의 전환과 농촌 공동체의 재생 이야기",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/economy/taiwan-agriculture-and-rural-revitalization",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Economy/taiwan-agriculture-and-rural-revitalization.md"
+  },
+  {
     "title": "타이완 뉴미디어 아트",
     "description": "1980년대 비디오 선구자부터 베니스 VR 대상까지, 핵심 예술가 16인과 40년 디지털 아트 혁명의 완전한 맥락. 타이완이 어떻게 코드로 시를 쓰며 국제 예술 지도에 자신의 이름을 새겼는가.",
     "category": "ko",
@@ -166438,6 +166607,24 @@
     "path": "ko/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
+    "title": "타이완의 5대 지형과 지리구조：산맥에서 평원까지의 섬의 풍경",
+    "description": "타이완의 독특한 지리구조를 탐색하며, 중앙산맥에서 서부 평원까지, 이 섬의 지형 다양성을 알아보기",
+    "category": "ko",
+    "tags": [
+      "지리",
+      "지형",
+      "산맥",
+      "평원",
+      "타이완",
+      "자연지리"
+    ],
+    "url": "https://taiwan.md/ko/geography/taiwan-five-major-landforms-and-geographic-structure",
+    "readingTime": 26,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ko/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
+  },
+  {
     "title": "타이완의 군인촌 요리",
     "description": "1949년 대이주가 가져온 각 성의 맛, 대나무 울타리 안의 주방에서 군인촌 철거 후의 미각 보존까지",
     "category": "ko",
@@ -166589,6 +166776,34 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Nature/taiwan-mountains-and-hiking-culture.md"
+  },
+  {
+    "title": "타이완의 섬 지리적 특성과 형성 과정",
+    "description": "판 구조 운동부터 지형 구조까지, 타이완만의 독특한 섬 지리적 특성을 탐구하며 포르모사 섬의 자연적 신비를 이해한다.",
+    "category": "ko",
+    "tags": [
+      "지리",
+      "지질",
+      "섬",
+      "판구조운동",
+      "지형"
+    ],
+    "url": "https://taiwan.md/ko/geography/geography-and-geology",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Geography/geography-and-geology.md"
+  },
+  {
+    "title": "타이완의 순환경제와 자원 재활용",
+    "description": "선형 경제에서 순환 경제로 전환, 타이완의 자원 회수, 폐기물 처리 및 지속 가능한 발전 모델을 탐색",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/economy/circular-economy-and-resource-recycling",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Economy/circular-economy-and-resource-recycling.md"
   },
   {
     "title": "타이완의 스레드: '나 조금 먹을게'에서 이집트 학생증까지, 하나의 동적 벽이 디지털 야시장이 되다",

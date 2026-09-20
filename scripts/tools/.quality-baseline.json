@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-20T18:42:09Z",
+  "timestamp": "2026-09-20T22:13:47Z",
   "total": 1124,
   "flagged": 712,
   "files": [
@@ -1371,8 +1371,8 @@
     },
     {
       "file": "nature/台灣海洋保育與挑戰.md",
-      "score": 4,
-      "reasons": "未人工審核; 分號4個; 稀薄段落×3"
+      "score": 5,
+      "reasons": "未人工審核; 分號6個; 英式短句開場3處; 稀薄段落×3"
     },
     {
       "file": "nature/杉林溪.md",

@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-21T02:42:14.296128",
+  "lastUpdated": "2026-09-21T06:13:50.836854",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 59,
   "status": "漂移 — 多維度退化中",
   "components": {
     "review_coverage": 19.0,
-    "plugin_pass_rate": 70.2,
+    "plugin_pass_rate": 70.1,
     "plugin_health": 100.0,
     "citation_density": 93.8,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 3.3
+    "external_rulers": 3.6
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -31,15 +31,15 @@
     },
     {
       "dimension": "external_rulers",
-      "score": 3.3,
+      "score": 3.6,
       "weight": 0.1,
-      "pointsLost": 9.67
+      "pointsLost": 9.64
     },
     {
       "dimension": "plugin_pass_rate",
-      "score": 70.2,
+      "score": 70.1,
       "weight": 0.2,
-      "pointsLost": 5.96
+      "pointsLost": 5.98
     },
     {
       "dimension": "tool_freshness",
@@ -109,8 +109,8 @@
     "total_files": 1124,
     "hard_pass_files": 1124,
     "hard_pass_pct": 100.0,
-    "warn_pass_files": 6,
-    "warn_pass_pct": 0.5,
+    "warn_pass_files": 5,
+    "warn_pass_pct": 0.4,
     "weight_formula": "hard×0.7 + warn×0.3"
   },
   "citationDetail": {
@@ -130,7 +130,7 @@
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 1371,
+    "new_articles_7d": 1271,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -344,11 +344,11 @@
     "note": "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄：LESSONS immune-chronic entry §一頁診斷 2026-07-10。"
   },
   "externalRulersDetail": {
-    "ruledArticles": 37,
+    "ruledArticles": 40,
     "totalArticles": 1122,
     "rulerSources": {
       "factcheckReports": true,
-      "patrolAuditFiles": 20,
+      "patrolAuditFiles": 23,
       "readerErrataCommits90d": true,
       "patrolHealCommits90d": true,
       "lastVerifiedExcluded": "99.6% saturated backfill (2026-06-10)"

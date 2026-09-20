@@ -1,7 +1,302 @@
 {
-  "generatedAt": "2026-09-20T18:41:51.029Z",
+  "generatedAt": "2026-09-20T22:13:34.517Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "cc4c18bf8ce0e1fe3caaad05ea796b28a4ef6783",
+      "date": "2026-09-21T06:10:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "8c4e4cfbee14b26b2be8ad7de74b6e9b5f3171c8",
+      "date": "2026-09-21T06:05:12+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "57ea9472d2db173647bfabc78732e2c0d31c81af",
+      "date": "2026-09-21T05:57:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-21 05:07 — 13 語 13,657 向量 0 fail；本機領先 12 落後 9 的分岔第一次由本班自己併掉再重建；EMBEDDING-PIPELINE v1.3 去掉寫死路徑並補分岔處置",
+      "articles": []
+    },
+    {
+      "hash": "80c9f701664846159d2da02636eccb11489f6f83",
+      "date": "2026-09-21T05:53:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-21 05:53",
+      "articles": []
+    },
+    {
+      "hash": "f235bde7860bdf03737ca9f70634f7faece475a5",
+      "date": "2026-09-21T05:50:38+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "1c4a3ca77bd09012318400a64b6d49245d598238",
+      "date": "2026-09-21T05:44:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 5 篇（unified dispatcher, worker=lagunas+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "a7248a5be40aa3a54c6c2e6e042ae5629b67852f",
+      "date": "2026-09-21T05:39:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-09-21 05:30 — 第 55 輪三層對賬 18 條零漂移，順手比對 origin 側 routine 層也零差",
+      "articles": []
+    },
+    {
+      "hash": "c5ac5b0bb86add8fd349573a9aa8b6115278de37",
+      "date": "2026-09-21T05:35:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "e21adec25f110e3f6b52b5c0744a52329b110294",
+      "date": "2026-09-21T05:33:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "55a9f685cba8d0f4682f930300d7807c8bdbdf8d",
+      "date": "2026-09-21T05:29:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 4 篇（unified dispatcher, worker=macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "f7530c3fc5bbcc44db472993264f505b74d5dff3",
+      "date": "2026-09-21T05:27:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "61ecdb6f9456cfa8cd38c98cd6ffd4e9b7622784",
+      "date": "2026-09-21T05:23:32+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 4 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "ca266587498ce2f2e139878c9d61893d93d5d6f6",
+      "date": "2026-09-21T05:23:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "fbac71493e7cbda5556c7d03d83465e13a434b8b",
+      "date": "2026-09-21T05:09:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] merge: embeddings 開工前把 origin 凌晨的心跳巡邏併進營運機（9 commits）",
+      "articles": []
+    },
+    {
+      "hash": "8c39ffa77c08c62b923076e9d1c7db63b0dec2cc",
+      "date": "2026-09-21T05:03:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "615af8b2affc05505b97117f3f38f4b036460009",
+      "date": "2026-09-21T04:48:58+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 3 篇（unified dispatcher, worker=macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "53fd32000eb26a1591685ab969921e90abbba438",
+      "date": "2026-09-21T04:29:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "d5a6f9b677aa6d8d0f6dbc87e4db2b6ed22c21fe",
+      "date": "2026-09-21T04:07:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "09b7af068dc25c5c1d0221487ba34059797c61c9",
+      "date": "2026-09-21T03:43:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 3 篇（unified dispatcher, worker=macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "84e850de135ff39951e78c866318afdd0d7e7f1d",
+      "date": "2026-09-21T03:37:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 4 篇（unified dispatcher, worker=macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "433bf3023b668a89e996c318d03d7e3c07d42335",
+      "date": "2026-09-21T03:33:50+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 4 篇（unified dispatcher, worker=lagunas+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "118fea0511bff88c326858ffd8c787202623d276",
+      "date": "2026-09-21T03:09:22+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "c2c1f49360cc273ffc1f83597d79fe2a3494009d",
+      "date": "2026-09-21T03:05:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 本輪 memory 與 INBOX 工單裡的 commit hash 改成 rebase 後的值",
+      "articles": []
+    },
+    {
+      "hash": "68ced86228bd09a660d82ee3c4c7bed95edba6f0",
+      "date": "2026-09-21T03:01:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-21 02:38 — 巡邏第二十一到二十三篇：李登輝康乃爾演講的題目與引語都是填的、海廢快篩掛錯機構、黑熊篇零錯；抽樣學會認出被人重寫過的文章",
+      "articles": []
+    },
+    {
+      "hash": "a5d940ed714e745d0b14a9945668e95598f3c9f8",
+      "date": "2026-09-21T02:59:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 海洋保育篇登記 P2 重寫工單——骨幹數字全對、填縫全錯，該用 2020 沒有颱風的那個夏天當脊椎重寫",
+      "articles": []
+    },
+    {
+      "hash": "0d0483fcc540c638ece8d8656dd63d914897be19",
+      "date": "2026-09-21T02:58:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 台海危機 EVOLVE 工單併入巡邏查核結果（李登輝訪美一節要按總統府全文重寫）並把路徑從 Society 改回 History",
+      "articles": []
+    },
+    {
+      "hash": "adc45f71800a05dbc99ef5edb41df8f727ee859b",
+      "date": "2026-09-21T02:58:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 巡邏抽樣學會認出「出生後被人重寫過」的文章——lastVerified 比出生晚 30 天以上就用它排序，台灣黑熊這種投稿者整篇重寫過的不再跟三月初稿並列排前五（首跑 25 篇後移）",
+      "articles": []
+    },
+    {
+      "hash": "68d0510081d7bf9168ebc158f0c336c7acab8666",
+      "date": "2026-09-21T02:56:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第二十三篇——台灣黑熊三十二個原子零錯，是巡邏以來第一篇；只修插畫作者欄（林慧秋不是上傳者 Davidzdh）、遇熊三不歸屬、圖片來源段自相矛盾的一句，Deep Blue 論文換 handle 頁",
+      "articles": [
+        {
+          "url": "/nature/台灣黑熊",
+          "name": "台灣黑熊"
+        }
+      ]
+    },
+    {
+      "hash": "c24076169fb720d93ed236c3cb71f5039adebc50",
+      "date": "2026-09-21T02:56:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第二十二篇——海廢快篩是綠色和平與荒野做的不是環境部，數字換回 121 測站、15 萬袋、每百公尺 13 袋；污染源三個百分比與 UNEP 格言查無整段刪；郭兆揚與陳昭倫兩句引語去引號；全球塑膠入海 800 萬公噸；GitHub 死鏈換海管處東沙白化公告、海龜隻次掛 113 年計畫成果頁",
+      "articles": [
+        {
+          "url": "/nature/台灣海洋保育與挑戰",
+          "name": "台灣海洋保育與挑戰"
+        }
+      ]
+    },
+    {
+      "hash": "5aa11ee920f6cc746a1b6f32ee484774fa912fb3",
+      "date": "2026-09-21T02:56:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第二十一篇——一江山陷落（1955 年 1 月）不可能催生 1954 年 12 月簽的中美共同防禦條約、李登輝康乃爾演講題目是「民之所欲，長在我心」且全文沒有「台灣是一個擁有獨立主權的國家」這句、曾永賢與國務院官員兩句引語去引號、130 公里坑道查無、金門距廈門是 1.8 公里；五條孤兒腳註掛回正文，補總統府演講原文與飛彈危機兩條來源",
+      "articles": [
+        {
+          "url": "/history/台海危機與兩岸關係發展",
+          "name": "台海危機與兩岸關係發展"
+        }
+      ]
+    },
+    {
+      "hash": "4b14dfd27761d46f7c96fa1b2cce4622f055d3e6",
+      "date": "2026-09-21T02:43:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 凌晨心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
+    {
+      "hash": "0908d488e9979d40f30b7abe0c71c2d155aa4af7",
+      "date": "2026-09-21T03:04:35+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 4 篇（unified dispatcher, worker=macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5def6096c22cb271969a8bd6f05008826432e4d0",
+      "date": "2026-09-21T03:00:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 2 篇（unified dispatcher, worker=macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "837579bc2e2f865e51596d01cb98e5d093996a6e",
+      "date": "2026-09-21T02:57:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 3 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "8ca644e9cdca85c811d89c16e5cd1109ff4d2bcd",
+      "date": "2026-09-21T02:56:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "932601107932df6496b70a53b0e64937752c95d0",
+      "date": "2026-09-21T02:50:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: twmd-babel-nightly @ 2026-09-21 00:30 — 把 report 按引擎切開才看見 structured 只過 9%、三型確定性失敗佔一夜六分之一、三張 GPU 空等兩個半小時；同批修散文型腳註、imageAlt、patch 既有債與空手補貨，日記補 348 篇",
+      "articles": []
+    },
+    {
+      "hash": "341dbda92943d34d848d25d06c97412eaa453a43",
+      "date": "2026-09-21T02:48:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 日記巴別塔補第 71 到 140 篇 × 5 語（348 篇譯文，nemotron-3-ultra，整合性 audit 1,768 篇 0 critical）",
+      "articles": []
+    },
+    {
+      "hash": "e613f1cb0246ce088e4f45d1cffc590b6b465f79",
+      "date": "2026-09-21T01:27:04+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: Phase N 腳註批次加字元預算——散文型引註整條送翻後，一批 15 條會撐到 3,500 字讓本機模型逾時",
+      "articles": []
+    },
+    {
+      "hash": "bb66e275fec82850989374c5b3978d164a072327",
+      "date": "2026-09-21T01:22:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: patch 引擎在自己的三重驗證前先跑三支安全 fixer——大寫 category 這種純格式錯不再讓整次 patch 作廢",
+      "articles": []
+    },
+    {
+      "hash": "34b54dd1801c335b275a4b4c25d13906538a2e94",
+      "date": "2026-09-21T01:21:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 純文字引註也當散文型腳註送翻——新 prompt 上線第一篇就撞到模型把長 title 搬進 desc",
+      "articles": []
+    },
     {
       "hash": "b9358985c35045f4b1983873b4c6e44b9a2bf225",
       "date": "2026-09-21T01:15:02+08:00",
@@ -16131,7 +16426,7 @@
     },
     {
       "hash": "38b7284eddb254b15c29f0fe12bb18b8cb4c48e2",
-      "date": "2026-09-01T02:02:45Z",
+      "date": "2026-09-01T02:02:45+00:00",
       "author": "dreamline2",
       "message": "docs(people): standardize Morris Chang footnotes across zh and i18n",
       "articles": [
@@ -81487,291 +81782,6 @@
       "date": "2026-04-14T22:01:10+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] evolve: v1.3.0 認知層同步 — CONSCIOUSNESS 里程碑 + MEMORY 索引 + HEARTBEAT Beat 0.5 EXP 查驗",
-      "articles": []
-    },
-    {
-      "hash": "6f12f8e3e2cf9c7ef662dcfddffc974a6da1ad20",
-      "date": "2026-04-14T21:39:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diagnose: μ Phase E — EXP-2026-04-11-A 首次可證偽實驗命中 + Beat 1 漏看補正",
-      "articles": []
-    },
-    {
-      "hash": "f1c1d41e49ee3b799433fc60c99d25687007b6ed",
-      "date": "2026-04-14T21:13:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: μ session — 心跳 + 李洋孢子 4h 大爆發 85K + 二次加速曲線發現",
-      "articles": [
-        {
-          "url": "/people/李洋",
-          "name": "李洋"
-        }
-      ]
-    },
-    {
-      "hash": "b197b122884363a0d6bcf3610cdf13b8b2ca5f05",
-      "date": "2026-04-14T19:34:20+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: λ session 收官 — 心跳 + 李洋孢子 2h 爆發 + PR 雪崩診斷 + 錯誤邊界新哲學",
-      "articles": []
-    },
-    {
-      "hash": "2bed5444823362c8095420a58238ee98531e68cf",
-      "date": "2026-04-14T19:30:19+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: sync src/content + dashboard JSON 後 52 個 PR 批次 merge",
-      "articles": []
-    },
-    {
-      "hash": "a47ad32d4cbb27c6b0c9b5cb0c56e21700ab8df0",
-      "date": "2026-04-14T19:29:12+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #464 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "f4a46a964655d23a84fbefae9dbc57c1586b01fc",
-      "date": "2026-04-14T19:26:07+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #515 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "14d75e47da5f3d4a6e03e6706d93516456a8b06b",
-      "date": "2026-04-14T19:25:23+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #513 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "95919d849e7b839cde3a6ba3e9f93d455ccf02c9",
-      "date": "2026-04-14T19:25:17+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #509 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "9e29fa14a7cbe2ce0e53c39e15b37a770a66ffe9",
-      "date": "2026-04-14T19:25:11+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #506 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "7cf3000bdaa775b324bf992abf4c627bbbd03369",
-      "date": "2026-04-14T19:25:05+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #503 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "dd6283999d416915f09d7a1de1a956d7749bcdb4",
-      "date": "2026-04-14T19:24:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #499 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "1fbd1458dee641f670d2c331f611a7c21a874be2",
-      "date": "2026-04-14T19:24:53+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #496 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "3251d683913db5dc96866eeb2a2ee3c83a4bcde9",
-      "date": "2026-04-14T19:24:47+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #493 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "f1761dc9c5cb2898c2837c5f206a1d9bffeda60b",
-      "date": "2026-04-14T19:24:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #491 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "427796b67992a0aad61589dc5d3882731dfa238f",
-      "date": "2026-04-14T19:24:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #488 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "bba875792e74b7602e30ac28f5d9a820bbe4b493",
-      "date": "2026-04-14T19:24:28+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #484 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "6a6ab7ca7dc35625ed8d9d07de16af0d03b719ff",
-      "date": "2026-04-14T19:24:22+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #481 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "68ab1c61aec8cf58d928e13ff188bd1fc054ebe6",
-      "date": "2026-04-14T19:24:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #478 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "57e6b3349a97643d861aac13a38ecfdd23ca67c1",
-      "date": "2026-04-14T19:24:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #474 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "5665395e36977971728be2f460ad4e8bcfbe8602",
-      "date": "2026-04-14T19:24:04+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #471 (batch cherry-pick): 8 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "5f48e83e572f618f226f57f55c3f98592caf7f8d",
-      "date": "2026-04-14T19:23:57+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #467 (batch cherry-pick): 9 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "21dad75401f46ee3e9a4e57ca8940caabe4d9738",
-      "date": "2026-04-14T19:23:22+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #512 (batch cherry-pick): 421 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "26b02d7db9486ca3a5d753fe8f4fc81027911f90",
-      "date": "2026-04-14T19:23:02+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #511 (batch cherry-pick): 417 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "0378a7f1eae16d4205c1e88a0b895a2aeea39ee6",
-      "date": "2026-04-14T19:22:44+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #510 (batch cherry-pick): 410 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "3d19b8f2a60e5430af160d8e55651c697fb1f937",
-      "date": "2026-04-14T19:22:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #508 (batch cherry-pick): 403 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "29ac3e2728b6f31119d3b856f26f73b4f9f5914e",
-      "date": "2026-04-14T19:22:09+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #507 (batch cherry-pick): 394 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "d3f1dd53be6789be2ac8ba3427d9d36f990b552a",
-      "date": "2026-04-14T19:21:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #505 (batch cherry-pick): 394 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "954527b6296ebc294a5a2910256a007cabbf98f5",
-      "date": "2026-04-14T19:21:33+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #504 (batch cherry-pick): 386 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "ee5a2672df39bf0706b5413ec81df69eedb2860a",
-      "date": "2026-04-14T19:21:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #502 (batch cherry-pick): 378 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "3f32473676b922e9b0a0d6c72e386d2e719e0a44",
-      "date": "2026-04-14T19:20:58+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #501 (batch cherry-pick): 370 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "3ec3dd2b55ed9cde9641783a5bba150888f39327",
-      "date": "2026-04-14T19:20:40+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #500 (batch cherry-pick): 362 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "230428abbeb54cd250029f9a18c5bba39236ad43",
-      "date": "2026-04-14T19:20:24+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #498 (batch cherry-pick): 353 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "9337f37ff31374c78fdec2ba1e198c985fcc9313",
-      "date": "2026-04-14T19:20:08+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #497 (batch cherry-pick): 345 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "5aa9443435aa84480b8e4ac3432cb66a60328704",
-      "date": "2026-04-14T19:19:52+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #495 (batch cherry-pick): 339 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "be3831f048a692e28167a9357109de37319a49b1",
-      "date": "2026-04-14T19:19:36+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #494 (batch cherry-pick): 331 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "a9670d0d551e65ad8837f4a2954b87480f88ba09",
-      "date": "2026-04-14T19:19:21+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #492 (batch cherry-pick): 322 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "fc573c1575763df610ededbb5a3d0c37c84adca8",
-      "date": "2026-04-14T19:19:05+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #490 (batch cherry-pick): 314 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "85bd3f214c24be3275f420fadaadfb4e3d27cc90",
-      "date": "2026-04-14T19:18:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #489 (batch cherry-pick): 307 files via API + sync",
-      "articles": []
-    },
-    {
-      "hash": "19bd6c2a0657c28caaa7203d6b9b5148ff0343b7",
-      "date": "2026-04-14T19:17:24+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: People batch 15 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "4100ecf0e105839fc341dfd6b29b60d0d2565ff5",
-      "date": "2026-04-14T19:17:00+08:00",
-      "author": "Che-Yu Wu",
-      "message": "Merge PR #487 (preview-fr): 299 files via cherry-pick + sync",
       "articles": []
     }
   ]

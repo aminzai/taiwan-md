@@ -3858,43 +3858,49 @@
     },
     {
       "date": "2026-09-19",
-      "total_404": 5500,
+      "total_404": 5999,
       "truncated": false,
       "families": {
         "scanner": {
-          "count": 559,
-          "bot": 122,
-          "browser": 436,
+          "count": 1122,
+          "bot": 187,
+          "browser": 934,
           "empty": 1
         },
         "probe-wellknown": {
-          "count": 99,
-          "bot": 1,
-          "browser": 98,
+          "count": 92,
+          "bot": 0,
+          "browser": 92,
           "empty": 0
         },
         "unknown": {
-          "count": 3785,
-          "bot": 1125,
-          "browser": 2660,
+          "count": 3671,
+          "bot": 1129,
+          "browser": 2542,
           "empty": 0
         },
         "md-extension": {
-          "count": 549,
-          "bot": 409,
-          "browser": 140,
+          "count": 599,
+          "bot": 447,
+          "browser": 152,
           "empty": 0
         },
         "stale-asset": {
-          "count": 39,
+          "count": 38,
           "bot": 24,
-          "browser": 15,
+          "browser": 14,
           "empty": 0
         },
         "slug-variant": {
-          "count": 374,
-          "bot": 354,
+          "count": 379,
+          "bot": 359,
           "browser": 20,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 24,
+          "bot": 8,
+          "browser": 16,
           "empty": 0
         },
         "untranslated-demand": {
@@ -3904,25 +3910,19 @@
           "empty": 0
         },
         "bad-encoding": {
-          "count": 42,
+          "count": 37,
           "bot": 6,
-          "browser": 36,
-          "empty": 0
-        },
-        "missing-asset": {
-          "count": 19,
-          "bot": 8,
-          "browser": 11,
+          "browser": 31,
           "empty": 0
         },
         "renamed-or-truncated": {
-          "count": 13,
+          "count": 16,
           "bot": 6,
-          "browser": 7,
+          "browser": 10,
           "empty": 0
         }
       }
     }
   ],
-  "updated": "2026-09-20T18:40:11.362029+00:00"
+  "updated": "2026-09-20T22:16:16.221714+00:00"
 }

@@ -101,7 +101,14 @@ RESOLVABLE_FAMILIES = {
 
 SCANNER_RE = re.compile(
     r"\.env|\.php|/wp-|phpunit|/vendor/|cgi-bin|admin|backup|\.sql|\.git/|\.aws|\.ssh"
-    r"|^/(contact|contact-us|about-us|contactus|index\.php)",
+    r"|^/(contact|contact-us|about-us|contactus|index\.php)"
+    # 2026-09-21 credential / config-file probing (was 55-66% of `unknown`
+    # for four straight days: /.docker/secrets.json, /s3.secret, /.netrc,
+    # /credentials.yml, /aws/config/s3.json, /inc/data/database.sdb, /login).
+    # Root-level dotfiles are never a real route here; .well-known is a
+    # separate family and is excluded explicitly.
+    r"|^/\.(?!well-known/)|secret|credential|\.(key|pem|sdb)$|/aws/"
+    r"|^/(login|config\.js|constants\.js|app-config\.json|appsettings[^/]*\.json)$",
     re.IGNORECASE,
 )
 STALE_ASSET_RE = re.compile(r"^/_astro/")
