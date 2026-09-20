@@ -864,6 +864,23 @@ def main() -> int:
         _restore_or_unlink("H2 數不符")
         return 1
 
+    # 2026-09-21：三支安全 fixer 接進 patch 路徑。dispatcher 在整篇／structured
+    # 路徑會先跑 link-target／link-url-mangle／footnote-format 的 --fix 再送
+    # verify_one，但 patch 引擎的三重驗證在這裡自己跑、自己拒收，dispatcher 的
+    # heal 永遠輪不到它——run 98122 第一輪 外送專法 五語 patch 全被同一個
+    # `/pt/Economy/` 大寫 category 擋下，每次十分鐘。fixer 只修 casing／decode／
+    # 純缺 description 這類確定性格式，不放寬閘門。
+    for check in ("link-target", "link-url-mangle", "footnote-format"):
+        hr = subprocess.run(
+            ["python3", "scripts/tools/article-health.py", str(out_path),
+             "--profile=pre-commit", f"--check={check}", "--fix", "--quiet"],
+            cwd=REPO, capture_output=True, text=True,
+        )
+        if hr.returncode != 0:
+            print(f"   🔴 {check} heal 失敗 rc={hr.returncode}: {(hr.stdout + hr.stderr).strip()[-200:]}")
+        elif hr.stdout.strip():
+            print(f"   🔧 {check} heal: {hr.stdout.strip()[-160:]}")
+
     ok, details = run_verify_trio(args.zh_path, out_path, args.lang)
     metrics["phases"]["validation"] = {"prettier_ok": prettier_ok, "prettier_msg": prettier_msg, **details}
     if not ok:
