@@ -20,11 +20,12 @@ featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:6b7e4f91c9d8e7c0708cb82ba90c3ff3f85ed37d24f351ff1b58f3f21fc9f3d2'
-sourceBodyHash: 'sha256:dcb79e520722938f601a6306c9be76bd04cbf6b738df4fc899552faf5958da38'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:ffd25b21bdd9c278'
+sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
+translatedAt: '2026-09-20T20:46:43.246039+00:00'
 ---
 
 > **30 giây tổng quan:** Chen Wei-Yin là cầu thủ ném Đài Loan đầu tiên nhảy trực tiếp từ bóng chày Nhật sang Đại liên đoàn,
