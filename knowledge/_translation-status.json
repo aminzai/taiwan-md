@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T16:05:39+08:00",
-    "zhCommitHead": "9fda813fb",
+    "lastUpdated": "2026-09-20T16:30:27+08:00",
+    "zhCommitHead": "6e9a7a3ae",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 60,
+        "fresh": 1035,
+        "stale": 59,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1038,
-        "stale": 57,
+        "fresh": 1039,
+        "stale": 56,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
@@ -53060,18 +53060,16 @@
         "fr": {
           "path": "fr/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-31T12:09:10+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:2a4f80e7fc721f19",
+          "sourceBodyHash": "sha256:fc5314c473c1914f",
+          "translatedAt": "2026-09-20T08:15:24.077349+00:00",
           "translationLastCommit": "67daef1e",
           "translationLastModified": "2026-08-01T01:04:37+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -67312,8 +67310,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-20T06:34:48.643170+00:00",
-          "translationLastCommit": "0d689a11",
-          "translationLastModified": "2026-07-24T18:09:37+08:00",
+          "translationLastCommit": "6e9a7a3a",
+          "translationLastModified": "2026-09-20T16:05:40+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -67602,16 +67600,16 @@
         "en": {
           "path": "en/About/why-taiwan-needs-its-own-knowledge-base.md",
           "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:62ec81a90f901dec",
-          "sourceBodyHash": "sha256:352de879384e19e9",
-          "translatedAt": "2026-06-16T17:10:15Z",
+          "sourceCommitSha": "b7dd78637",
+          "sourceContentHash": "sha256:20046b0bdaf571de",
+          "sourceBodyHash": "sha256:43aaf2c0f446a093",
+          "translatedAt": "2026-09-20T00:52:34+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -102247,8 +102245,8 @@
           "sourceContentHash": "sha256:3dee896f2b15c3b8",
           "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-08-09T11:16:34+08:00",
-          "translationLastCommit": "a27747ea",
-          "translationLastModified": "2026-08-09T11:42:37+08:00",
+          "translationLastCommit": "6e9a7a3a",
+          "translationLastModified": "2026-09-20T16:05:40+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
