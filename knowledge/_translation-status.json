@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T09:07:10+08:00",
-    "zhCommitHead": "442ea38bc",
+    "lastUpdated": "2026-09-20T09:30:16+08:00",
+    "zhCommitHead": "ff951fe3d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 946,
+        "fresh": 947,
         "stale": 59,
         "metadata_stale": 9,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "pt": {
@@ -54401,7 +54401,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/medical-care-act.md",
+          "translatedFrom": "Society/醫療法.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a87fc88d09f6e189",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-20T01:05:35.528782+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/medical-care-act.md",
@@ -64635,8 +64646,8 @@
           "sourceContentHash": "sha256:154996399630e9d4",
           "sourceBodyHash": "sha256:2e750ef70b22356f",
           "translatedAt": "2026-09-20T00:52:39+08:00",
-          "translationLastCommit": "06ed4c82",
-          "translationLastModified": "2026-05-20T12:37:22+08:00",
+          "translationLastCommit": "ff951fe3",
+          "translationLastModified": "2026-09-20T09:07:10+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
