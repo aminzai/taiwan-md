@@ -28,10 +28,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gate_of_Yung_Ta_Institute_of_Technology_%26_Commerce.JPG'
 relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
-sourceCommitSha: '3b2bfbb30'
-sourceContentHash: 'sha256:0e32d79d3df5fb08'
-sourceBodyHash: 'sha256:4ba5d74427c47aed'
-translatedAt: '2026-07-31T12:09:10+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:2a4f80e7fc721f19'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
+translatedAt: '2026-09-20T08:15:24.077349+00:00'
 ---
 
 > **Aperçu en 30 secondes :** En 1994, Taïwan comptait 58 établissements d'enseignement supérieur, et moins de 20 % des jeunes de 18 ans pouvaient accéder à un cursus universitaire de quatre ans. La manifestation du 10 avril (« 4-10 ») réclamait « l'expansion des lycées et universités ». Le gouvernement a ouvert les portes par la méthode la plus simple : l'élévation de statut des écoles techniques existantes. Vingt ans plus tard, le nombre d'établissements atteignait 148, le taux net de scolarisation dépassait 70 %, et les femmes, les étudiants issus de milieux défavorisés et les premiers universitaires de leur famille sont réellement entrés dans le système. Puis, le mur de la dénatalité est arrivé : le nombre d'étudiants a atteint son sommet en 2012, mais la loi sur le retrait n'a été légiférée qu'en 2022. Cette expérience n'a prévu que l'ouverture ; les règles de fermeture sont arrivées avec dix ans de retard. Aujourd'hui, Gaofeng, Yongda et Daojiang ont éteint leurs lumières, et la facture retombe sur les étudiants et les enseignants qui ont le moins de choix.
@@ -204,31 +204,32 @@ Pour revenir à cette dette de 200 milliards, la vérité n'est qu'une moitié d
 
 Lors de l'ouverture des portes, personne n'a demandé : si un jour ces écoles doivent être rendues, à qui appartiendront ces terrains et ces bâtiments ? Le silence d'autrefois est aujourd'un payé par chaque école en retrait qui doit passer l'examen de rattrapage. Alors, après trente ans, qu'a réellement appris cette société ?
 
-## Les relevés de notes sont conservés, mais les enseignants et étudiants cherchent encore leur place
+## Les relevés de notes sont archivés, mais les enseignants et les élèves cherchent toujours leur place
 
-Regardons à nouveau les relevés de notes : cette société a-t-elle appris à fermer les portes ? La réponse est à moitié honnête.
+Revoyons les relevés de notes une nouvelle fois : cette société a-t-elle appris à fermer les portes ? La réponse est honnête, à moitié oui, à moitié non.
 
-D'un côté, le système assure effectivement la continuité. L'article 20 de la loi sur le retrait stipule explicitement qu'en cas de cessation d'activité, les dossiers scolaires des étudiants doivent être conservés de manière permanente et transférés vers des établissements désignés. Depuis 2018, le ministère de l'Éducation a chargé l'Université technologique de Yunlin de mettre en place une « base de données des dossiers scolaires des étudiants d'écoles en retrait » ; les diplômés peuvent demander leurs relevés en ligne pour 20 TWD et leurs attestations de diplôme pour 100 TWD[^31]. L'école d'origine a disparu, mais le papier prouvant que vous y avez étudié demeure. C'est une conception réelle qui protège les individus ; le retrait ne signifie pas un vide documentaire.
+Une moitié, le système a effectivement tenu le coup. L’article 20 de la réglementation sur la fermeture prévoit expressément que, lorsqu’un établissement ferme, les dossiers académiques des étudiants doivent être conservés indéfiniment et transférés à un établissement désigné. Depuis 2018, le ministère de l’Éducation a confié à l’Université des technologies de Yunlin la création de la « base de données des dossiers académiques des établissements en cours de fermeture ». Les diplômés peuvent ainsi demander leurs relevés de notes en ligne, à 20 roupies pièce, et 100 roupies pour l’attestation de diplôme[^31]. L’université a disparu, mais le papier prouvant que vous y avez étudié existe toujours. C’est un véritable filet de sécurité, et la fermeture ne signifie pas nécessairement un vide administratif.
 
-L'école primaire Chonghua est un autre exemple de réaffectation. Après la fermeture de Gaofeng, le terrain a été repris par la Fondation Tianwang du Daoism, et en '2016, l'école est devenue l'école primaire Chonghua[^18] — le premier cas de « l'université devenant école primaire » à Taïwan. La dénatalité tue les universités d'une main, mais nécessite des écoles primaires de l'autre ; sur le même campus, on accueille désormais des enfants plus petits. L'Institut de technologie et de gestion Daojiang, quant à lui, s'est transformé en une fondation pour les soins de longue durée ; le campus libéré accueille désormais des personnes plus âgées.
+L’école Chonghua primaire illustre une autre forme de prise en charge. Après la fermeture de l’université Haofeng, le terrain a été cédé à la fondation impériale de la Voie unique en 2016, devenant l’école Chonghua primaire[^18] — la première « université devenue école primaire » de toute l’île. La déclin natalal a tué un jour les universités, mais le même manque d’enfants pousse aujourd’hui à créer des écoles primaires. Le même terrain accueille donc des générations successives, d’abord plus grandes, puis plus petites. L’institut supérieur de technologie et de gestion de Diangong s’est quant à lui transformé en association de soins de fin de vie, et son campus a accueilli des personnes âgées au lieu d’étudiants.
 
-Mais de l'autre côté, l'individu doit se débrouiller seul. Ce taux d'abandon de 16,42 % et ce taux de reconversion des enseignants de 14 % disent la même chose : les documents sont conservés, mais les gens cherchent encore leur place. Et le mur n'a pas fini sa course. Le ministère de l'Éducation estime qu'en 2040 (année scolaire 129), il ne restera que 146 000 nouveaux étudiants de première année[^32] ; à partir de 2028, le ratio de sélection pour les admissions universitaires passera de 3 à 4 pour permettre à plus de candidats d'accéder à la seconde étape[^32]. Quant au futur, avec 135 000 naissances en 2024 et seulement 108 000 en 2025, ces enfants ne constitueront le plafond des nouveaux étudiants qu'en 2042 ou 2043 ; toutefois, cela dépasse les estimations officielles du ministère, on ne peut que déduire grossièrement à partir des chiffres de natalité[^13].
+Mais l’autre moitié, c’est les gens qui se débrouillent seuls. Ce taux d’abandon de 16,42 %, ce taux de 14 % de professeurs qui changent de carrière — tout cela raconte la même histoire : les dossiers sont archivés, mais les personnes cherchent encore leur place. Et les murs ne sont pas encore tous tombés. Le ministère de l’Éducation estime que, d’ici 2040 (année académique 129), il ne restera plus que 146 000 nouveaux étudiants en première année[^32] ; à partir de 2028, le taux de sélection pour l’admission universitaire passera de 3 à 4 fois, afin de laisser plus de candidats accéder à la phase suivante[^32]. Et au-delà, les naissances de 135 000 en 2024 et de seulement 108 000 en 2025 suggèrent que cette génération, 18 ans plus tard (vers 2042-2043), constituera le plafond des effectifs universitaires — une projection au-delà des estimations officielles, basée uniquement sur les chiffres de naissances[^13].
 
-Si vous êtes un parent et que vous voulez vérifier si l'école choisie par votre enfant est sûre, vous constaterez une chose : le ministère de l'Éducation ne publie pas activement la liste complète des établissements sous surveillance ou en phase d'assistance spécialisée[^20]. Vous voulez chercher, mais vous ne trouvez rien. C'est, en soi, une réponse silencieuse sur « la raison d'être des universités ».
+Si vous êtes parent et que vous voulez vérifier si l’université à laquelle votre enfant postule est en sécurité, vous découvrirez un constat étonnant : le ministère de l’Éducation ne publie pas activement la liste complète des écoles en alerte ou en programme d’accompagnement spécial[^20]. On ne peut pas les trouver non plus. Cela-même, c’est une réponse silencieuse à la question : « Pour qui existe l’université ? »
 
-L'histoire revient à Pan Kun-cheng. Dix ans plus tard, il a 33 ans et travaille dans l'immobilier. Quand on lui pose des questions sur ses études, il essayait au début de mettre en avant son passé, mais « beaucoup de gens ne connaissent pas Gaofeng, il fallait expliquer longtemps ; finalement, il n'en parlait plus volontiers et disait simplement qu'il était diplôm'é de l'Université technologique Shu-de »[^18].
+Revenons à Pan Kun-cheng. Dix ans ont passé, il a maintenant 33 ans, et travaille dans l’immobilier. Quand on lui demande son parcours, il commence par hésiter, puis finit par dire : « Beaucoup de gens ne connaissent pas Haofeng, il faut trop s’expliquer. Alors, j’ai arrêté de le mentionner et j’ai simplement dit que j’avais diplômé de l’Université Shuiche’. »[^18]
 
-L'empreinte laissée par l'école Gaofeng dans le monde est double. L'une se trouve dans la base de données, dans le système géré par l'Université technologique de Yunlin, où un relevé de notes coûte 20 TWD et peut être consulté à tout moment. L'autre se trouve dans la présentation de Pan Kun-cheng : c'est un nom qu'il ne prononce plus.
+Cette université, Haofeng, a laissé derrière elle deux traces dans le monde. Une dans la base de données, archivée par l’Université des technologies de Yunlin, où un relevé de notes coûte 20 roupies et peut être consulté à tout moment. L’autre dans l’autoprésentation de Pan Kun-cheng, où le nom de l’université n’est plus jamais prononcé.
 
-L'ouverture des portes a pris dix ans à Taïwan. Apprendre à les fermer en prend trente — et l'apprentissage continue. Le panneau publicitaire devant la gare de Pingtung est démonté depuis longtemps, mais la porte de l'école Yongda se dresse toujours au bord de la route dans le district de Linluo. Entre l'ouverture et la fermeture des portes, ce sont toujours les êtres humains qui se tiennent là.
+Il a fallu dix ans à Taïwan pour apprendre à ouvrir les portes. Apprendre à fermer a pris trente ans — et le processus n’est pas encore terminé. Le panneau de recrutement devant la gare de Pingdong a longtemps été enlevé, mais la porte de l’ancien campus de Yongda est toujours debout, là, au bord de la route de Linluo. Entre l’ouverture et la fermeture, c’est toujours l’être humain qui reste debout.
 
 ---
 
-**Lectures complémentaires :**
+**Lecture complémentaire** :
 
-- [Crise de la dénatalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Comment ce mur démographique qui s'abat sur les universités s'est formé et vers quoi il se dirige.
-- [Éducation système et culture d'admission](/fr/society/education-system-and-admissions-culture) — L'étroitesse des examens nationaux et le culte de la réussite scolaire, ce que l'expansion universitaire cherchait à assouplir.
-- [Pauvreté d'apprentissage](/fr/society/learning-poverty-in-taiwan) — Après la massification des diplômes, où se cache la véritable fracture de l'apprentissage ?
+- [Crise de la baisse de la natalité au Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — La mur de la baisse de la natalité qui a fait tomber les universités : comment il s’est formé et où il va
+- [Système éducatif et culture d’admission](/fr/society/education-system-and-admissions-culture) — Les examens d’entrée et le culte de l’admission : c’est précisément pourquoi les universités ont multiplié les débouchés
+- [La pauvreté éducative](/fr/society/learning-poverty-in-taiwan) — Après la généralisation de l’enseignement supérieur, où se cache-t-elle vraiment la fracture pédagogique ?
+- [L’Institut de recherche centrale](/society/中央研究院) — Cet organisme qui n’a ni besoin de recruter ni d’enseigner, dont la légitimité est inscrite directement dans la loi organique du Bureau présidentiel, et qui illustre la relative précarité perçue par les universités
 
 ---
 
