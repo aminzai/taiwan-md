@@ -310,3 +310,29 @@ def test_translate_frontmatter_translates_image_alt_instead_of_copying_zh():
     assert "imageAlt: 'vi:桐花祭開幕'" in block
     assert "image: /img/miaoli.jpg" in block or "image: '/img/miaoli.jpg'" in block
     assert "imageCredit: CC" in block or "imageCredit: 'CC'" in block
+
+
+def test_translate_footnotes_batches_by_char_budget_not_only_count():
+    """散文型腳註整條進 desc 後一批 15 條可達 3,500 字，本機模型 Phase N 撞 240 秒
+    逾時（2026-09-21 外送專法 de）。字元預算讓長引註多拆幾批、短引註批次不變。"""
+    import json
+    seen = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            payload = json.loads(user)
+            seen.append(len(payload))
+            return json.dumps([{"n": p["n"], "title": p["title"], "desc": p["desc"]} for p in payload])
+
+    long_defs = [{"n": str(i), "title": "", "desc": "字" * 700, "url": "", "_link_restore": [], "prose": True}
+                 for i in range(1, 7)]
+    MODULE.translate_footnotes(long_defs, "de", Backend(), {"calls": []})
+    assert seen == [2, 2, 2]          # 每批 ≤2000 字 → 兩條一批
+
+    seen.clear()
+    short_defs = [{"n": str(i), "title": "短", "desc": "", "url": "https://x/" + str(i), "_link_restore": []}
+                  for i in range(1, 21)]
+    MODULE.translate_footnotes(short_defs, "de", Backend(), {"calls": []})
+    assert seen == [15, 5]            # 短引註仍照 15 條一批

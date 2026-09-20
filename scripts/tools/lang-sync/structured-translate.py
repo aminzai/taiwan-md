@@ -571,9 +571,24 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
     lang_name = LANG_NAMES.get(lang, lang)
     out: dict[str, dict] = {}
     batch_size = 15
-    n_batches = (len(defs) + batch_size - 1) // batch_size
-    for bi in range(n_batches):
-        batch = defs[bi * batch_size: (bi + 1) * batch_size]
+    # 2026-09-21：批次除了條數上限，再加字元預算。散文型腳註整條進 desc 後，
+    # 一批 15 條可以到 3,500 個中文字（外送專法 62 條 14,268 字），本機 gemma
+    # 在 Phase N 兩次都撞 240 秒逾時；同樣 15 條的短引註只有幾百字。字元預算
+    # 讓長引註的文章多拆幾批、每批仍在單次呼叫吃得下的範圍，短引註的批次不變。
+    batch_char_budget = 2000
+    batches: list[list[dict]] = []
+    cur: list[dict] = []
+    cur_chars = 0
+    for d in defs:
+        d_chars = len(d["title"]) + len(d["desc"])
+        if cur and (len(cur) >= batch_size or cur_chars + d_chars > batch_char_budget):
+            batches.append(cur)
+            cur, cur_chars = [], 0
+        cur.append(d)
+        cur_chars += d_chars
+    if cur:
+        batches.append(cur)
+    for bi, batch in enumerate(batches):
         payload = [{"n": d["n"], "title": d["title"], "desc": d["desc"]} for d in batch]
         system = (
             f"Translate ONLY the 'title' and 'desc' fields of each footnote source "
