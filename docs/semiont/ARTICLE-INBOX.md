@@ -398,14 +398,15 @@ BECOME_TAIWANMD.md Step 5 新增：
 ### 台海危機與兩岸關係發展 EVOLVE — 不開火的壓力：海警船數字怎麼變（7 月 244 艘創新高）
 
 - **Type**: `EVOLVE`
-- **Category**: Society
-- **Path**: knowledge/Society/台海危機與兩岸關係發展.md
+- **Category**: History
+- **Path**: knowledge/History/台海危機與兩岸關係發展.md
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）；2026-09-21 semiont-heartbeat 巡邏第二十一篇後併入查核結果
 - **Notes**:
   - 海巡署統計 7 月 244 艘中國公務船進入台灣周邊水域創新高；8 月前 21 天 152 艘、約六成是海警；AEI-ISW 9/15 週報持續追蹤
   - 站上無「灰色地帶」或「海警」條目；補一節，數字回海巡署原始資料，敏感度中（紀實不評論）
+  - **2026-09-21 巡邏查核**（`reports/research/2026-09/台海危機與兩岸關係發展.md`）：40 原子 ❌ 6 ⚠️ 8，止血已 commit `bf7a00d35`。錯集中在李登輝訪美一節：演講題目寫成「台灣的民主化經驗」（實為「民之所欲，長在我心」）、「台灣是一個擁有獨立主權的國家」這句附英文對照的引語在總統府全文裡不存在、一江山陷落（1955-01）被寫成催生 1954-12 已簽的條約。七十年的軍事數字（一江山、八二三、飛彈危機）大多對。腳註 9 條只掛 4 條，止血後 11 條掛 9 條；天下張榮豐與蘇起那本書仍是孤兒。走 EVOLVE 時：補海警船一節之外，把李登輝那節按總統府全文重寫，並決定孤兒腳註去留；政治史題 A 級，Stage 3 跑 FACTCHECK Full、哲宇 review 脊椎
 - **Reference**: [AEI-ISW 9/15](https://www.aei.org/commentary/china-taiwan-update-september-15-2026/) / [AEI-ISW 9/4](https://www.aei.org/commentary/china-taiwan-update-september-4-2026/)
 
 ### 馬英九 FACTCHECK Full — 兩條媒體腳註撐不起正文，且已逐字翻進 12 語
