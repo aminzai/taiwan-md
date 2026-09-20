@@ -117,7 +117,7 @@ def test_format_plugin_metadata():
 def test_grade_a_high_density(tmp_path):
     body = textwrap.dedent(
         """\
-        短文 內容。
+        短文 內容[^1]，再一句[^2]，第三句[^3]。
 
         [^1]: [src](https://e.com) — desc enough chars
         [^2]: [src2](https://e.com) — desc enough chars2
@@ -130,10 +130,49 @@ def test_grade_a_high_density(tmp_path):
     assert violations == []
 
 
+def test_reference_list_never_cited_downgrades_to_c(tmp_path):
+    """2026-09-20: defs exist but the body never points at them — that is a
+    reading list, not citation. Two Geography drafts graded B this way."""
+    body = textwrap.dedent(
+        """\
+        正文從頭到尾沒有任何引用標記。
+
+        [^1]: [src](https://e.com) — desc enough chars
+        [^2]: [src2](https://e.com) — desc enough chars2
+        [^3]: [src3](https://e.com) — desc enough chars3
+        """
+    )
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_density.check(target, {}))
+    assert len(violations) == 1
+    assert violations[0].severity == Severity.WARN
+    assert violations[0].fix_suggestion == "C"
+    assert "零" in violations[0].message
+
+
+def test_partially_unreferenced_defs_are_info(tmp_path):
+    body = textwrap.dedent(
+        """\
+        只有第一條被引用[^1]。
+
+        [^1]: [src](https://e.com) — desc enough chars
+        [^2]: [src2](https://e.com) — desc enough chars2
+        [^3]: [src3](https://e.com) — desc enough chars3
+        [^4]: [src4](https://e.com) — desc enough chars4
+        """
+    )
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_density.check(target, {}))
+    infos = [v for v in violations if v.severity == Severity.INFO]
+    assert len(infos) == 1
+    assert "3/4" in infos[0].message
+    assert all(v.severity != Severity.WARN for v in violations)
+
+
 def test_grade_b_few_footnotes(tmp_path):
     body = textwrap.dedent(
         """\
-        段落內容比較長，但腳註只有一個。
+        段落內容比較長，但腳註只有一個[^1]。
 
         [^1]: [src](https://e.com) — desc enough chars
         """

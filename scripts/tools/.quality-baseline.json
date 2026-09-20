@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-19T22:14:04Z",
+  "timestamp": "2026-09-20T12:41:32Z",
   "total": 1124,
   "flagged": 713,
   "files": [
@@ -312,7 +312,7 @@
     {
       "file": "economy/農業科技與精緻農業.md",
       "score": 5,
-      "reasons": "未人工審核; 分號12個; 稀薄段落×4"
+      "reasons": "未人工審核; 分號9個; 稀薄段落×4"
     },
     {
       "file": "economy/紡織業.md",
@@ -422,7 +422,7 @@
     {
       "file": "technology/台灣災難醫療體系.md",
       "score": 12,
-      "reasons": "年份僅1個; 未人工審核; 塑膠句6個; 後段清單堆砌59%; 稀薄段落×1; 無腳註"
+      "reasons": "年份僅1個; 未人工審核; 塑膠句5個; 後段清單堆砌59%; 稀薄段落×1; 無腳註"
     },
     {
       "file": "technology/電子商務與數位支付生態系.md",
@@ -3052,7 +3052,7 @@
     {
       "file": "geography/台灣五大地形與地理結構.md",
       "score": 4,
-      "reasons": "未人工審核; 分號9個; 稀薄段落×1"
+      "reasons": "未人工審核; 分號10個; 稀薄段落×1"
     },
     {
       "file": "geography/西門町.md",

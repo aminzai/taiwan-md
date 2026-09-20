@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.4'
+current_version: 'v2.5'
 last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-distill-weekly（Phase 4 加「命中不等於支持」但書，源 REFLEXES #98）'
+last_session: '2026-09-20-203758-semiont-heartbeat（§月度巡邏補「初稿先跑 Phase 5 再開瀏覽器」：自相矛盾是零成本第一道尺）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -659,6 +659,8 @@ for d,n,k in sorted(rows)[:5]: print(d,'譯本',-n,k)
 PY
 ```
 
+**巡邏初稿先跑 Phase 5 再開瀏覽器（v2.5，2026-09-20 晚間心跳）**：未審初稿常常自己打自己——同一篇寫「台北是唯一有地鐵的城市」又寫「高雄輕軌是台灣第一個輕軌系統」，30 秒概覽寫「1945 年後推廣蓬萊米」而下一節寫「1926 年推廣」，花蓮溪一段寫「東部最長」下一段寫秀姑巒溪「唯一橫切海岸山脈」而卑南溪才是最長。這種矛盾不用 WebFetch 就能抓，是巡邏成本最低的第一道尺，而且矛盾的兩端至少有一端是錯的，直接指出該先查哪個原子。巡邏 SOP 因此把 Phase 5 的「互引一致」提到 Phase 3 之前跑一遍：把同一個實體（城市、河川、作物、年份）在全文出現的每個數字與斷言列成一欄，不一致的先查。第十八到二十篇三篇各抓到一處。
+
 2026-09-18 晚間實跑：母體 593 篇；前五為 About/緣起故事（C 級，當晚抽查完，三處對不上 git）、People/張忠謀（A 級，40KB／20 條維基腳註／48 處引語，當晚派 audit）、Lifestyle/夜生活與KTV文化、resources/official-websites、Art/當代藝術。
 
 誕生：2026-09-18 heartbeat 執行 OBSERVER-QUEUE #64——`Art/台灣原住民當代藝術.md`（03-20 初稿、未審、六條泛連結腳註）逐位查證後九位藝術家族籍多處寫錯、一位人物憑空捏造，十語譯本在線半年全部忠實照抄；抓到它的是翻譯線第 14 道人名閘，不是任何一次巡邏。LESSONS `babel-amplifies-source-hallucinations-factcheck-patrol-samples-the-wrong-stratum`。
@@ -720,5 +722,6 @@ _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAI
 _作者：Taiwan.md（θ）_
 _relations: REWRITE-PIPELINE.md §Stage 3.5（pointer 到本檔 SSOT） / RESEARCH.md（從 0 蒐集 vs 本檔從 1 反查） / EDITORIAL.md §挖引語制度 / MANIFESTO §10 幻覺鐵律 + §指標 over 複寫 / REFLEXES #16/#17/#22/#23/#26 / MAINTAINER-PIPELINE §Footnote source authority audit_
 _v2.1 | 2026-09-18 semiont-heartbeat — 月度巡邏抽樣母體從「隨機抽 5 篇 A/B 級」改成「未審核 × 出生最早 × 譯本最多」加權，A/B 級是已走過 Stage 3.3 的層，巡邏抽它等於抽最不需要巡邏的那批。觸發：OBSERVER-QUEUE #64 台灣原住民當代藝術（三月未審初稿的幻覺被巴別塔忠實放大到十語半年）。_
+_v2.5 | 2026-09-20 semiont-heartbeat 晚間 — §月度巡邏抽樣母體補「巡邏初稿先跑 Phase 5 再開瀏覽器」：三篇地理初稿各有一處同篇自相矛盾（唯一地鐵 vs 高雄輕軌／1945 vs 1926 蓬萊米／花蓮溪東部最長 vs 卑南溪），不用 fetch 就能抓且直接指出先查哪個原子。_
 _v2.4 | 2026-09-20 twmd-distill-weekly — Phase 4 判定矩陣下加「命中不等於支持」但書：原子 Ctrl-F 命中後必問「它在來源裡是這件事嗎」（年份／場次／角色），原子對槽位錯判 HARD-FIX。源 REFLEXES #98（vc=3：馬英九錢復角色錯、外貿篇 2024 數字標 2023、周蕙加開場次錯）。v2.3（2026-09-19 C 級巡邏也落 research 檔）當時只更新 frontmatter 未寫 footer，此行一併補登。_
 _v2.2 | 2026-09-18 semiont-heartbeat 晚間 — 抽樣母體補第四條件「沒走過 REWRITE」（rationale／DONE-LOG／research 檔三訊號任一命中即排除）：v2.1 指令排出的前五篇有兩篇（李安、蔡英文）是已走完產線的 A 級，抽樣指令自己沒拿真實輸出校準（REFLEXES #66）。另寫明巡邏對 A 級 research 檔硬門檻的處理：audit 報告即建成該篇第一份 research 檔。_

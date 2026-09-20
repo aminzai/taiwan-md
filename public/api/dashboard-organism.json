@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T22:14:08.520Z",
+  "lastUpdated": "2026-09-20T12:41:37.510Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 34,
-        "articlesLast30Days": 196,
+        "articlesLast7Days": 39,
+        "articlesLast30Days": 135,
         "totalArticles": 1122,
-        "selfProducedLast7Days": 4,
+        "selfProducedLast7Days": 3,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 30
+        "contributedLast7Days": 36
       }
     },
     {
@@ -39,7 +39,7 @@
           "citation_density": 93.8,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 2.6
+          "external_rulers": 3
         }
       }
     },
@@ -93,7 +93,7 @@
         "recentContributors": 13,
         "recentSpores": 7,
         "topPerformerCount": 5,
-        "topPerformerAvgViews": 249295,
+        "topPerformerAvgViews": 237179,
         "hasBlockbuster": true
       }
     },
@@ -127,12 +127,12 @@
           "es": 1102,
           "fr": 1103,
           "vi": 1105,
-          "id": 1011,
+          "id": 1012,
           "pt": 1075,
-          "hi": 1012,
+          "hi": 1013,
           "ar": 1052,
           "ru": 1066,
-          "de": 831
+          "de": 833
         },
         "translationPct": 89,
         "langHealthDetails": {
@@ -775,7 +775,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1011,
+              "count": 1012,
               "pct": 90
             },
             "score": 94
@@ -959,7 +959,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1012,
+              "count": 1013,
               "pct": 90
             },
             "score": 94
@@ -1235,7 +1235,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 831,
+              "count": 833,
               "pct": 74
             },
             "score": 90
