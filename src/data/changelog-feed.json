@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-09-20T06:45:42.505Z",
+  "generatedAt": "2026-09-20T12:41:13.524Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "32789b7dc731367c84bedb88a9ff2b97a99967f7",
+      "date": "2026-09-20T15:17:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: semiont-heartbeat @ 2026-09-20 14:43 — 巡邏第十五到第十七篇十七篇十七中：鳳梨釋迦是以色列品種、玉山被放進中央山脈、秀姑巒山是 1972 年的舊值；腳註等級學會分辨參考清單與引用",
+      "articles": []
+    },
+    {
+      "hash": "ebf522d44f9a7354276d1ee308be31ddf136dc5d",
+      "date": "2026-09-20T15:14:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 腳註等級學會分辨參考清單與引用——定義了腳註但正文一處都沒引用的文章，從此降 C 並亮警告（兩篇地理初稿 6-7 條腳註零引用卻評 B；全庫還有 7 篇同型、260 篇部分沒引用）",
+      "articles": []
+    },
+    {
+      "hash": "f088513ad8b370f7a170cbf0d4e156d35091fb55",
+      "date": "2026-09-20T15:10:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 巡邏第六輪補進神經迴路（17 篇 17 中，地理姊妹稿 23-24%）；兩篇地理初稿併寫工單登記 INBOX P2，農業併寫工單加進第三篇",
+      "articles": []
+    },
+    {
+      "hash": "754685ed1c12e15b1d3793d944b21561f48ce4f0",
+      "date": "2026-09-20T15:08:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第十七篇——玉山被放進中央山脈、大屯山系被算成五大山脈之一、大甲溪 142.3 公里查無（水利署 124.2，第四長是曾文溪 138.5）、1,566 公里是含離島值；918 地震改成地礦中心報告的兩層陳述",
+      "articles": [
+        {
+          "url": "/geography/台灣島嶼地理特色與形成",
+          "name": "台灣島嶼地理特色與形成"
+        }
+      ]
+    },
+    {
+      "hash": "14fb95e71c22cfe038eec2f59cbcd4c36412cd51",
+      "date": "2026-09-20T15:08:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第十六篇——秀姑巒山 3,860 是 1972 年的舊值改 3,825、新高山 1897 年命名 1947 年改回、知本溫泉在中央山脈不在海岸山脈、洪水傳說歸布農族；宜蘭「台灣威尼斯」查無",
+      "articles": [
+        {
+          "url": "/geography/台灣五大地形與地理結構",
+          "name": "台灣五大地形與地理結構"
+        }
+      ]
+    },
+    {
+      "hash": "83cd5d0f3d14f935ac47fc4eddbc3188b73ef0e1",
+      "date": "2026-09-20T15:08:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 巡邏第十五篇——鳳梨釋迦是 1965 年自以色列引進的品種不是本土育成、智慧農業 4.0 的三個目標數字與新農業方案三主軸全是填的、無人機 150 萬公頃次查無；蘭花數字換農業部 2023 原文，農民平均年齡換普查 64.4 歲",
+      "articles": [
+        {
+          "url": "/economy/農業科技與精緻農業",
+          "name": "農業科技與精緻農業"
+        }
+      ]
+    },
+    {
+      "hash": "a17c8946fd10ec731cd58090e9da435b9fdb7839",
+      "date": "2026-09-20T14:47:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heartbeat: 下午心跳刷新全部 dashboard 資料",
+      "articles": []
+    },
     {
       "hash": "e38ee618f59154635e58b8fbda479e0620e3ff8f",
       "date": "2026-09-20T08:56:10+08:00",
@@ -81703,55 +81767,6 @@
       "date": "2026-04-14T17:46:47+08:00",
       "author": "柒藍",
       "message": "Add French translations: People batch 6 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "8e83c5627544685109f237baf867a848ce20a2ce",
-      "date": "2026-04-14T17:43:55+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: People batch 5 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "4a1bdd6757cfdebba06123fb8a69f5bb67184bf6",
-      "date": "2026-04-14T17:42:53+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: People batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "d9f40c0e3e3049bfe93049097fe1d123d2e8915d",
-      "date": "2026-04-14T17:41:00+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: People batch 4 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "41b278558cd46bc26d809f30a119d22fc5714c81",
-      "date": "2026-04-14T17:38:17+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: People batch 3 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "156cfad940f8b8de06b7692323c3f79ad47a1eb0",
-      "date": "2026-04-14T17:34:26+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: People batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "62236dc2bd44508aea19149f17bb909e3744ebed",
-      "date": "2026-04-14T17:33:37+08:00",
-      "author": "柒藍",
-      "message": "Add Korean translations: People batch 2 (8 articles)",
-      "articles": []
-    },
-    {
-      "hash": "f1ae2f1570df8b4ed5192332438699f939534652",
-      "date": "2026-04-14T17:29:38+08:00",
-      "author": "柒藍",
-      "message": "Add French translations: People batch 1 (8 articles)",
       "articles": []
     }
   ]

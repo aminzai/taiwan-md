@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-20T14:45:37+08:00",
-    "zhCommitHead": "e38ee618f",
+    "lastUpdated": "2026-09-20T20:41:00+08:00",
+    "zhCommitHead": "32789b7dc",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 60,
+        "fresh": 1031,
+        "stale": 63,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 901,
-        "stale": 106,
+        "fresh": 898,
+        "stale": 109,
         "metadata_stale": 28,
         "missing": 89,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1039,
-        "stale": 60,
+        "fresh": 1036,
+        "stale": 63,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 66,
+        "fresh": 1030,
+        "stale": 69,
         "metadata_stale": 5,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 58,
+        "fresh": 1034,
+        "stale": 61,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 59,
+        "fresh": 985,
+        "stale": 62,
         "metadata_stale": 60,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 946,
-        "stale": 59,
+        "fresh": 943,
+        "stale": 62,
         "metadata_stale": 9,
         "missing": 110,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 987,
-        "stale": 80,
+        "fresh": 984,
+        "stale": 83,
         "metadata_stale": 10,
         "missing": 47,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 951,
-        "stale": 53,
+        "fresh": 948,
+        "stale": 56,
         "metadata_stale": 11,
         "missing": 109,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 982,
-        "stale": 59,
+        "fresh": 979,
+        "stale": 62,
         "metadata_stale": 13,
         "missing": 70,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1015,
-        "stale": 45,
+        "fresh": 1012,
+        "stale": 48,
         "metadata_stale": 8,
         "missing": 56,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 818,
-        "stale": 13,
+        "fresh": 815,
+        "stale": 16,
         "metadata_stale": 4,
         "missing": 289,
         "orphan": 0
@@ -17079,10 +17079,10 @@
     },
     "Economy/農業科技與精緻農業.md": {
       "zh": {
-        "lastCommit": "369298ab",
-        "lastModified": "2026-07-19T10:05:46+08:00",
-        "contentHash": "sha256:19b72b95becb40d7",
-        "bodyHash": "sha256:966a2693a6cccc59"
+        "lastCommit": "83cd5d0f",
+        "lastModified": "2026-09-20T15:08:20+08:00",
+        "contentHash": "sha256:5226e0cd696e818f",
+        "bodyHash": "sha256:3697d708565efd02"
       },
       "translations": {
         "en": {
@@ -17096,8 +17096,8 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ja": {
           "path": "ja/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17110,8 +17110,8 @@
           "translationLastModified": "2026-07-25T07:52:11+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ko": {
           "path": "ko/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17124,8 +17124,8 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "es": {
           "path": "es/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17138,8 +17138,8 @@
           "translationLastModified": "2026-07-25T00:49:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "fr": {
           "path": "fr/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17152,8 +17152,8 @@
           "translationLastModified": "2026-07-25T00:39:10+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "vi": {
           "path": "vi/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17166,8 +17166,8 @@
           "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "id": {
           "path": "id/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17180,8 +17180,8 @@
           "translationLastModified": "2026-07-24T20:29:48+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "pt": {
           "path": "pt/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17194,8 +17194,8 @@
           "translationLastModified": "2026-07-26T03:41:06+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "hi": {
           "path": "hi/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17208,8 +17208,8 @@
           "translationLastModified": "2026-07-25T10:06:25+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ar": {
           "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17222,8 +17222,8 @@
           "translationLastModified": "2026-07-27T03:10:19+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ru": {
           "path": "ru/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17236,8 +17236,8 @@
           "translationLastModified": "2026-07-27T01:40:54+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "de": {
           "path": "de/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -17250,8 +17250,8 @@
           "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         }
       }
     },
@@ -161424,10 +161424,10 @@
     },
     "Geography/台灣島嶼地理特色與形成.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:fd5b44b607710000",
-        "bodyHash": "sha256:b019853dd2be5b1d"
+        "lastCommit": "754685ed",
+        "lastModified": "2026-09-20T15:08:35+08:00",
+        "contentHash": "sha256:d82f573c8035bd6e",
+        "bodyHash": "sha256:e12316843009e7dd"
       },
       "translations": {
         "en": {
@@ -161441,8 +161441,8 @@
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ja": {
           "path": "ja/Geography/geography-and-geology.md",
@@ -161455,8 +161455,8 @@
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ko": {
           "path": "ko/Geography/geography-and-geology.md",
@@ -161469,8 +161469,8 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "es": {
           "path": "es/Geography/geography-and-geology.md",
@@ -161483,8 +161483,8 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "fr": {
           "path": "fr/Geography/geography-and-geology.md",
@@ -161497,8 +161497,8 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "vi": {
           "path": "vi/Geography/geography-and-geology.md",
@@ -161511,8 +161511,8 @@
           "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "id": {
           "path": "id/Geography/geography-and-geology.md",
@@ -161525,8 +161525,8 @@
           "translationLastModified": "2026-08-10T08:17:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "pt": {
           "path": "pt/Geography/geography-and-geology.md",
@@ -161539,8 +161539,8 @@
           "translationLastModified": "2026-07-26T08:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "hi": {
           "path": "hi/Geography/geography-and-geology.md",
@@ -161553,8 +161553,8 @@
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ar": {
           "path": "ar/Geography/geography-and-geology.md",
@@ -161567,8 +161567,8 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ru": {
           "path": "ru/Geography/geography-and-geology.md",
@@ -161581,8 +161581,8 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "de": {
           "path": "de/Geography/geography-and-geology.md",
@@ -161595,8 +161595,8 @@
           "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         }
       }
     },
@@ -165838,10 +165838,10 @@
     },
     "Geography/台灣五大地形與地理結構.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:b14a14cb2829b8df",
-        "bodyHash": "sha256:0d43b9a8dba0aa39"
+        "lastCommit": "14fb95e7",
+        "lastModified": "2026-09-20T15:08:34+08:00",
+        "contentHash": "sha256:51364b574313e11f",
+        "bodyHash": "sha256:aa95a7b2cb0e4dcb"
       },
       "translations": {
         "en": {
@@ -165855,8 +165855,8 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "ja": {
           "path": "ja/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165869,8 +165869,8 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "ko": {
           "path": "ko/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165883,8 +165883,8 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "es": {
           "path": "es/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165897,8 +165897,8 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "fr": {
           "path": "fr/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165911,8 +165911,8 @@
           "translationLastModified": "2026-05-25T07:49:49+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "vi": {
           "path": "vi/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165925,8 +165925,8 @@
           "translationLastModified": "2026-08-09T12:21:21+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "id": {
           "path": "id/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165939,8 +165939,8 @@
           "translationLastModified": "2026-09-15T23:09:40+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "pt": {
           "path": "pt/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165953,8 +165953,8 @@
           "translationLastModified": "2026-07-26T08:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "hi": {
           "path": "hi/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165967,8 +165967,8 @@
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "ar": {
           "path": "ar/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165981,8 +165981,8 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "ru": {
           "path": "ru/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -165995,8 +165995,8 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         },
         "de": {
           "path": "de/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -166009,8 +166009,8 @@
           "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (9→6)"
         }
       }
     },

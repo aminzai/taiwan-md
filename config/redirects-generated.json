@@ -124,9 +124,12 @@
   "/ja/technology/computex-taipei": "/ja/technology/computex/",
   "/ko/technology/computex-taipei": "/ko/technology/computex/",
   "/ru/technology/miin": "/ru/technology/miin-music-app/",
-  "/ar/technology/半導體產業/": "/ar/technology/taiwan-semiconductor-industry",
+  "/id/technology/taiwan-robotics/": "/id/technology/taiwan-robotics-industry",
+  "/de/technology/半導體產業/": "/de/technology/taiwan-semiconductor-industry",
+  "/de/nature/台灣國家公園/": "/de/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
+  "/hi/technology/PTT批踢踢/": "/hi/technology/ptt-bulletin-board-system",
   "/ar/economy/台灣企業：台積電/": "/ar/economy/tsmc",
-  "/ar/society/台灣媒體與新聞自由/": "/ar/society/media-and-press-freedom-in-taiwan",
-  "/ar/technology/開源社群與g0v/": "/ar/technology/open-source-and-g0v",
-  "/pt/technology/開源社群與g0v/": "/pt/technology/open-source-and-g0v"
+  "/ar/society/社會運動與公民參與/": "/ar/society/social-movements-and-civic-participation",
+  "/es/nature/台灣國家公園/": "/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
+  "/id/society/社會運動與公民參與/": "/id/society/social-movements-and-civic-participation"
 }

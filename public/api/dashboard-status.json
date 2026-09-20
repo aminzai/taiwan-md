@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T06:46:04.528Z",
+  "generated_at": "2026-09-20T12:41:49.582Z",
   "routines": {
     "fetched_at": "2026-09-20T06:16:02+08:00",
-    "stale_hours": 8.5,
+    "stale_hours": 14.4,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -594,7 +594,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -990,7 +990,7 @@
           },
           {
             "date": "2026-09-20",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1312,29 +1312,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-20T06:21:18Z",
+      "ts": "2026-09-20T12:18:21Z",
       "conclusion": "success",
       "title": "Routine stall alert: Routine stall alert"
     },
     {
-      "ts": "2026-09-20T00:56:37Z",
+      "ts": "2026-09-20T07:18:37Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] merge: maintainer-am 收官把 origin 這班的合併與勘誤併回營運機，讓 dispatche…"
+      "title": "Python tests: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-20 14:43 — 巡邏第十五到第十七篇…"
     },
     {
-      "ts": "2026-09-20T00:55:01Z",
-      "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-maintainer-am @ 2026-09-20 08:30 — 零分岔的第一班：三…"
+      "ts": "2026-09-20T07:18:37Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-20 14:43 — 巡邏第十五到第十七篇…"
     },
     {
-      "ts": "2026-09-20T00:47:18Z",
-      "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: 台灣災難醫療體系 — 「921 有 500 人本來可以活」是阪神大地震的數字，放回日本 DMAT 的起…"
+      "ts": "2026-09-20T07:18:37Z",
+      "conclusion": "success",
+      "title": "Engineering contracts: 🧬 [semiont] memory: semiont-heartbeat @ 2026-09-20 14:43 — 巡邏第十五到第十七篇…"
     },
     {
-      "ts": "2026-09-20T00:44:09Z",
-      "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: Merge pull request #1755 from aminzai/translate/ar-paper-windmill-the…"
+      "ts": "2026-09-20T06:21:18Z",
+      "conclusion": "success",
+      "title": "Routine stall alert: Routine stall alert"
     }
   ]
 }

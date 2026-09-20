@@ -3858,43 +3858,31 @@
     },
     {
       "date": "2026-09-19",
-      "total_404": 3544,
+      "total_404": 4962,
       "truncated": false,
       "families": {
         "scanner": {
-          "count": 545,
-          "bot": 4,
-          "browser": 540,
+          "count": 521,
+          "bot": 5,
+          "browser": 515,
           "empty": 1
         },
         "probe-wellknown": {
-          "count": 112,
+          "count": 116,
           "bot": 26,
-          "browser": 86,
+          "browser": 90,
           "empty": 0
         },
         "unknown": {
-          "count": 2156,
-          "bot": 814,
-          "browser": 1342,
-          "empty": 0
-        },
-        "slug-variant": {
-          "count": 261,
-          "bot": 245,
-          "browser": 16,
+          "count": 3470,
+          "bot": 893,
+          "browser": 2577,
           "empty": 0
         },
         "md-extension": {
-          "count": 337,
-          "bot": 255,
-          "browser": 82,
-          "empty": 0
-        },
-        "missing-asset": {
-          "count": 40,
-          "bot": 23,
-          "browser": 17,
+          "count": 436,
+          "bot": 324,
+          "browser": 112,
           "empty": 0
         },
         "untranslated-demand": {
@@ -3903,22 +3891,34 @@
           "browser": 0,
           "empty": 0
         },
+        "slug-variant": {
+          "count": 296,
+          "bot": 279,
+          "browser": 17,
+          "empty": 0
+        },
         "bad-encoding": {
           "count": 36,
-          "bot": 4,
-          "browser": 32,
+          "bot": 6,
+          "browser": 30,
           "empty": 0
         },
         "stale-asset": {
-          "count": 31,
-          "bot": 23,
-          "browser": 8,
+          "count": 25,
+          "bot": 11,
+          "browser": 14,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 27,
+          "bot": 11,
+          "browser": 16,
           "empty": 0
         },
         "renamed-or-truncated": {
-          "count": 8,
-          "bot": 5,
-          "browser": 3,
+          "count": 17,
+          "bot": 7,
+          "browser": 10,
           "empty": 0
         },
         "phantom": {
@@ -3930,5 +3930,5 @@
       }
     }
   ],
-  "updated": "2026-09-20T06:44:44.722822+00:00"
+  "updated": "2026-09-20T12:39:27.579052+00:00"
 }

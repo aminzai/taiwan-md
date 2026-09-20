@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T14:45:55.371115",
+  "lastUpdated": "2026-09-20T20:41:37.173534",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 59,
@@ -11,7 +11,7 @@
     "citation_density": 93.8,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 2.8
+    "external_rulers": 3.0
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -31,9 +31,9 @@
     },
     {
       "dimension": "external_rulers",
-      "score": 2.8,
+      "score": 3.0,
       "weight": 0.1,
-      "pointsLost": 9.72
+      "pointsLost": 9.7
     },
     {
       "dimension": "plugin_pass_rate",
@@ -125,12 +125,12 @@
   },
   "freshnessDetail": {
     "editorial_days_old": 1,
-    "avg_plugin_days_old": 61.9,
+    "avg_plugin_days_old": 57.7,
     "plugin_count": 33,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 1484,
+    "new_articles_7d": 1392,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -198,9 +198,9 @@
       },
       {
         "plugin": "footnote_density",
-        "plugin_age_days": 139,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "footnote_format",
@@ -344,11 +344,11 @@
     "note": "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄：LESSONS immune-chronic entry §一頁診斷 2026-07-10。"
   },
   "externalRulersDetail": {
-    "ruledArticles": 31,
+    "ruledArticles": 34,
     "totalArticles": 1122,
     "rulerSources": {
       "factcheckReports": true,
-      "patrolAuditFiles": 14,
+      "patrolAuditFiles": 17,
       "readerErrataCommits90d": true,
       "patrolHealCommits90d": true,
       "lastVerifiedExcluded": "99.6% saturated backfill (2026-06-10)"
