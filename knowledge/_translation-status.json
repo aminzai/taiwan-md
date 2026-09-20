@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T05:35:27+08:00",
-    "zhCommitHead": "e21adec25",
+    "lastUpdated": "2026-09-21T05:44:01+08:00",
+    "zhCommitHead": "a7248a5be",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 57,
+        "fresh": 1038,
+        "stale": 56,
         "metadata_stale": 8,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 904,
-        "stale": 108,
+        "fresh": 905,
+        "stale": 107,
         "metadata_stale": 28,
         "missing": 84,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1041,
-        "stale": 58,
+        "fresh": 1042,
+        "stale": 57,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -76,17 +76,17 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 995,
+        "fresh": 996,
         "stale": 72,
         "metadata_stale": 10,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 955,
+        "fresh": 956,
         "stale": 58,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 101,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 18,
         "metadata_stale": 4,
-        "missing": 280,
+        "missing": 279,
         "orphan": 0
       }
     },
@@ -8782,7 +8782,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-21T00:58:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
@@ -9155,8 +9166,8 @@
           "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
           "sourceBodyHash": "sha256:c2c5a393d951d7c5",
           "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "8df3d363",
-          "translationLastModified": "2026-07-27T04:04:57+08:00",
+          "translationLastCommit": "c5ac5b0b",
+          "translationLastModified": "2026-09-21T05:35:30+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -69645,7 +69656,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-mountains-and-hiking-culture.md",
+          "translatedFrom": "Nature/台灣山岳與登山文化.md",
+          "sourceCommitSha": "6d3808267",
+          "sourceContentHash": "sha256:578491ed43f8d7d0",
+          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106211,16 +106233,16 @@
         "ko": {
           "path": "ko/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0a",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-05-25T21:07:07Z",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-21T00:58:26+08:00",
           "translationLastCommit": "5d1476df",
           "translationLastModified": "2026-05-26T08:11:11+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/yang-chuan-kwang-asian-iron-man.md",
@@ -122753,18 +122775,16 @@
         "en": {
           "path": "en/People/wang-shaudi.md",
           "translatedFrom": "People/王小棣.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:585e0e43e012a49f",
-          "sourceBodyHash": "sha256:e1c0f0613a0e3a84",
-          "translatedAt": "2026-05-13T01:07:52Z",
+          "sourceCommitSha": "3638ec158",
+          "sourceContentHash": "sha256:50eb815f9c92fea3",
+          "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
+          "translatedAt": "2026-09-20T21:43:36.327282+00:00",
           "translationLastCommit": "06ed4c82",
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/wang-shaudi.md",
@@ -129980,8 +130000,8 @@
           "sourceContentHash": "sha256:90efb96feb86e99d",
           "sourceBodyHash": "sha256:dff447eeed675def",
           "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c5ac5b0b",
+          "translationLastModified": "2026-09-21T05:35:30+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -156922,8 +156942,8 @@
           "sourceContentHash": "sha256:ba3d35e713460c50",
           "sourceBodyHash": "sha256:d7642501b86ebb9c",
           "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c5ac5b0b",
+          "translationLastModified": "2026-09-21T05:35:30+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -157072,7 +157092,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-21T00:58:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/kano-chiayi-agriculture-forestry.md",
@@ -161729,16 +161760,16 @@
         "ja": {
           "path": "ja/Geography/geography-and-geology.md",
           "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:fd5b44b607710000",
-          "sourceBodyHash": "sha256:b019853dd2be5b1d",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "754685ed1",
+          "sourceContentHash": "sha256:d82f573c8035bd6e",
+          "sourceBodyHash": "sha256:e12316843009e7dd",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/geography-and-geology.md",
@@ -162535,18 +162566,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-21T00:58:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -189502,18 +189522,16 @@
         "hi": {
           "path": "hi/Culture/taiwan-variety-shows.md",
           "translatedFrom": "Culture/台灣綜藝.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a2572613f79ed394",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:2f942e5ae555f89d",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
-          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translatedAt": "2026-09-21T00:58:34+08:00",
           "translationLastCommit": "eb2135ec",
           "translationLastModified": "2026-07-25T06:59:36+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-variety-shows.md",
