@@ -19,6 +19,10 @@ featured: true
 lastVerified: 2026-07-16
 lastHumanReview: false
 readingTime: '22'
+image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
+imageCredit: 'Fujifilmuser Taiwan'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
 translatedFrom: 'History/大罷免.md'
 sourceCommitSha: '6262f8c93'
 sourceContentHash: 'sha256:0bdd57229f623a95'

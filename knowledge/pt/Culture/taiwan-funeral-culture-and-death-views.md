@@ -17,7 +17,7 @@ tags:
 readingTime: '13'
 lastVerified: '2026-04-08'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣殯葬文化與生死觀.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c4dd3375c0cfa0a5'

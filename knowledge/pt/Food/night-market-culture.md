@@ -10,6 +10,10 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:cad0161e7864d0ae'

@@ -15,7 +15,7 @@ tags:
   - 'café de loja de conveniência'
 lastVerified: '2026-03-23'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/台灣咖啡產業.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'

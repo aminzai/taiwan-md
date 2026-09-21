@@ -21,7 +21,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-04-07'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:098044cbe17d84d6'

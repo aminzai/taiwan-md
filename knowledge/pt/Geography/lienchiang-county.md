@@ -26,8 +26,8 @@ lastHumanReview: false
 readingTime: 15
 researchReport: 'reports/research/2026-05/連江縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png'
-imageCredit: 'Sleepingstar'
+image: '/article-images/geography/matsu-islands-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Matsu_Montage.png'
 translatedFrom: 'Geography/連江縣.md'

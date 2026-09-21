@@ -16,7 +16,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-04-16'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/黑松.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:764c87b479e4e9af'

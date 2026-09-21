@@ -25,10 +25,6 @@ lastHumanReview: false
 readingTime: 18
 researchReport: 'reports/research/2026-05/嘉義縣.md'
 series: '22 縣市系列（batch 2）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg'
-imageCredit: 'Peellden'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Tashan_in_morning_glow.jpg'
 translatedFrom: 'Geography/嘉義縣.md'
 sourceCommitSha: '6f28d6167'
 sourceContentHash: 'sha256:e233ab9cc8b79527'

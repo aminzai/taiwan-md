@@ -27,6 +27,9 @@ featured: true
 lastVerified: 2026-07-08
 lastHumanReview: false
 readingTime: 16
+image: '/article-images/food/fruit-kingdom-mango-fangliao-2009.webp'
+imageCredit: '陳偉城栽種、屏東枋寮 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '9bab1acf2'
 sourceContentHash: 'sha256:9a6d62e64c75b406'

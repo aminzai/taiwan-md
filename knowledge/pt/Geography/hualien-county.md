@@ -26,13 +26,15 @@ readingTime: 18
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
 translatedFrom: 'Geography/花蓮縣.md'
 sourceCommitSha: 'b74252d93'
 sourceContentHash: 'sha256:405286ffbb97b596'
 sourceBodyHash: 'sha256:367ba2e7b9a712c5'
 translatedAt: '2026-07-25T13:49:59+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
-imageCredit: Fred Hsu
+image: '/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp'
+imageCredit: 'Fred Hsu / Wikimedia Commons'
 ---
 
 # Hualien: O povo Sakizaya, invisível por 129 anos; o Taroko, devolvido pelo reconhecimento oficial, e o 0403, que o afastou novamente
@@ -131,7 +133,7 @@ A coincidência geográfica é surpreendente. A área da aldeia Kangle, condado 
 
 O Tzu Chi hoje tem status consultivo de ONG, uma rede de socorro cobrindo mais de 130 países, a Universidade Tzu Chi e a Universidade de Ciência e Tecnologia de Hualien, e os Quatro Grandes Vocações (caridade, medicina, educação, humanidades). Mas os hualieneses lembram que, antes de 17 de agosto de 1986, o centro médico mais próximo estava a 300 km de distância.
 
-![O Salão Jing Si (Jing Si Hall), cidade de Hualien, 2009. A origem da fundação da "Associação de Méritos Tzu Chi do Budismo em Dificuldades" em Hualien em 14 de maio de 1966. Em 17 de agosto de 1986, o Hospital Tzu Chi de Hualien foi inaugurado no condado de Xincheng próximo, elevado a Centro Médico em 2002.](/article-images/geography/hualien-01.webp)
+![O Salão Jing Si (Jing Si Hall), cidade de Hualien, 2009. A origem da fundação da "Associação de Méritos Tzu Chi do Budismo em Dificuldades" em Hualien em 14 de maio de 1966. Em 17 de agosto de 1986, o Hospital Tzu Chi de Hualien foi inaugurado no condado de Xincheng próximo, elevado a Centro Médico em 2002.](/article-images/geography/hualien-jing-si-hall-2009.webp)
 _O Salão Jing Si, cidade de Hualien, 2009. Foto: Fred Hsu, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
 
 ## Um grupo étnico devolveu dois nomes
@@ -187,7 +189,7 @@ Os casos de morte estão espalhados por Hualien: na Rodovia Zhongheng, km 183,2,
 
 O dano mais grave do Parque Nacional Taroko está nas trilhas internas. As trilhas Sakadang, Yanzi Kou e Jiudong são as três trilhas mais famosas do parque, todas destruídas. O guia sênior do Parque, Lin Maoyao, disse à CNA: "**O que mais me chocou em Yanzi Kou foi que, após o terremoto, ao chegar lá, eu continuava lembrando como era antes; senti que estava especialmente brilhante, descobri que o túnel aberto inteiro desmoronou.**" [^23] O vice-diretor do Parque, Lin Zhongshan, disse: "**É necessário desenvolver pontos turísticos alternativos e promover o ecoturismo profundo.**" [^23] Estima-se que a recuperação de todo o parque leve "**cerca de 7 anos**"; a reconstrução de Sakadang e Yanzi Kou deve ser concluída em 2031, e o Parque admite que "**abrir todo o parque em 7 anos é impossível**" [^23].
 
-![Equipes de resgate trabalhando perto do Edifício Uranus (Uranus Building), rodovia Xuanyuan, cidade de Hualien, após o terremoto 0403 de 2024. Este edifício de dez andares está semi-inclinado a 45 graus, sendo a cena mais lembrada nas imagens do terremoto 0403; a residente do sobrenome Kang ficou presa por mais de 12 horas e infelizmente faleceu.](/article-images/geography/hualien-02.webp)
+![Equipes de resgate trabalhando perto do Edifício Uranus (Uranus Building), rodovia Xuanyuan, cidade de Hualien, após o terremoto 0403 de 2024. Este edifício de dez andares está semi-inclinado a 45 graus, sendo a cena mais lembrada nas imagens do terremoto 0403; a residente do sobrenome Kang ficou presa por mais de 12 horas e infelizmente faleceu.](/article-images/geography/hualien-uranus-building-rescue-2024.webp)
 _Cena de resgate do Edifício Uranus, rodovia Xuanyuan, cidade de Hualien, 2024-04-03. Foto: Shufu Liu, Gabinete do Presidente, [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
 
 Os números do turismo provaram o quão pesado foi este terremoto. Antes do terremoto, o Parque Nacional Taroko tinha cerca de 4 milhões de turistas por ano, atingindo 6,6 milhões no pico. Em 2024, os turistas do Taroko foram apenas 210.000, 3,2% do pico [^24]. O número total de turistas no condado de Hualien em 2024 foi de cerca de 6,7 milhões, comparado a 14 milhões em 2023, **uma queda de 54,29%**, a maior em uma década. Das 135 pousadas do condado, 22 escolheram sair ou fechar [^24].

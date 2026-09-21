@@ -19,6 +19,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
+image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
 sourceCommitSha: '09c1bf1a9'
 sourceContentHash: 'sha256:e9178b000513a553'

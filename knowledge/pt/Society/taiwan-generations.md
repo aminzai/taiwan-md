@@ -18,6 +18,8 @@ readingTime: 18
 lastVerified: 2026-06-08
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
 translatedFrom: 'Society/台灣的年級生世代.md'
 sourceCommitSha: '805200859'
 sourceContentHash: 'sha256:1b3e5e3f22f40ead'

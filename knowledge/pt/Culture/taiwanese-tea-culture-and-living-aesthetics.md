@@ -20,6 +20,7 @@ featured: true
 lastVerified: 2026-07-12
 lastHumanReview: false
 readingTime: 20
+image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: '1ca06efe1'
 sourceContentHash: 'sha256:8bdbe5a1e20e55e8'

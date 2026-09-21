@@ -27,8 +27,8 @@ lastHumanReview: false
 readingTime: 15
 researchReport: 'reports/research/2026-05/台東縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png'
-imageCredit: 'Sleepingstar'
+image: '/article-images/geography/taitung-county-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png'
 translatedFrom: 'Geography/台東縣.md'
@@ -179,7 +179,7 @@ Na cultura tradicional Tao, o mar é domínio dos homens, a montanha das mulhere
 
 O barco de tábuas encaixadas (chinurikuran, barco grande 27 tábuas, tatara, barco pequeno 21 tábuas) é o ápice do artesanato Tao, cores tradicionais vermelho (terra vermelha da montanha), branco (cinza de concha), preto (fuligem de panela), o olho do barco com totem circular é o símbolo cultural Tao mais conhecido[^28].
 
-![Barco tradicional de tábuas encaixadas Tao, Lan-yü, agosto de 2015. O barco grande chinurikuran tem 27 tábuas, leva 8-10 pessoas; o pequeno tatara tem 21 tábuas. O totem circular do olho do barco é o símbolo cultural Tao mais difundido.](/article-images/geography/taitung-03.webp)
+![Barco tradicional de tábuas encaixadas Tao, Lan-yü, agosto de 2015. O barco grande chinurikuran tem 27 tábuas, leva 8-10 pessoas; o pequeno tatara tem 21 tábuas. O totem circular do olho do barco é o símbolo cultural Tao mais difundido.](/article-images/geography/taitung-tao-plank-boat-2015.webp)
 _Barco tradicional de tábuas encaixadas Tao, 02-08-2015. Foto: Cho Hsun Lu. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
 
 O clima de Lan-yü é tropical oceânico, precipitação anual acima de 3.000 mm (muito acima dos cerca de 1.900 mm da área urbana de Taitung no Vale Huatung e 1.500 mm do lado sotavento da Cordilheira Costeira), monção nordeste forte no inverno. A **casa semi-subterrânea tradicional Tao (talakaval)** foi desenhada para esse clima, baixa, meia enterrada, paredes de terra isolantes, a monção nordeste passa direto pelo telhado[^29]. Hoje, a aldeia Yeyin preserva o agglomerado de casas semi-subterrâneas mais completo, a única forma de aldeia antiga ainda habitada em toda Lan-yü.

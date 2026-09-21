@@ -19,7 +19,7 @@ tags:
 readingTime: '45'
 lastVerified: '2026-04-26'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/三峽茶.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:39992ba044ff9cc4'

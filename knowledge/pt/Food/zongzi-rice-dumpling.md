@@ -18,7 +18,7 @@ tags:
 readingTime: '7'
 lastVerified: '2026-04-05'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'Food/粽子.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:417f55638e009ac3'

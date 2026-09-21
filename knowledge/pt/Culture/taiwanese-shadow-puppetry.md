@@ -15,7 +15,7 @@ tags:
   ]
 lastVerified: '2026-05-02'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/皮影戲.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:5a4d0fb0959c27ae'

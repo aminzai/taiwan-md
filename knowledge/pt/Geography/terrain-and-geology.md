@@ -17,7 +17,7 @@ tags:
 readingTime: '8'
 lastVerified: '2026-03-23'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Geography/地形與地質.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'

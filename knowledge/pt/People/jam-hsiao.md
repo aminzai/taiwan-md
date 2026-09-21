@@ -16,7 +16,7 @@ tags:
   ]
 lastVerified: '2026-03-23'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'People/蕭敬騰.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'

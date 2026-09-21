@@ -16,7 +16,7 @@ tags:
 readingTime: '8'
 lastVerified: '2026-03-29'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:9c408bfc603af1d1'

@@ -19,6 +19,10 @@ featured: false
 lastVerified: 2026-07-18
 lastHumanReview: true
 readingTime: 15
+image: '/article-images/economy/kaohsiung-epz-inauguration-1966.webp'
+imageCredit: '行政院珍貴史料展示'
+imageLicense: '政府史料典藏（editorial commentary use）'
+imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
 sourceCommitSha: '9c5ad569a'
 sourceContentHash: 'sha256:97768e7e71587490'

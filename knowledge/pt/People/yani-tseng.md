@@ -15,7 +15,7 @@ tags:
   - 'Golfe Feminino'
 lastVerified: '2026-03-31'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/曾雅妮.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:890dbecd669ee83c'

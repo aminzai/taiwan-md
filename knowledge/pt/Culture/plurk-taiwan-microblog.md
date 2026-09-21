@@ -14,7 +14,7 @@ tags:
   ]
 lastVerified: '2026-04-01'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/噗浪Plurk.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:96026947f084b369'

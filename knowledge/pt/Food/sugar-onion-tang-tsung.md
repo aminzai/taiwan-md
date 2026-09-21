@@ -18,7 +18,7 @@ tags:
 readingTime: '15'
 lastVerified: '2026-04-23'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'Food/糖蔥.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:ca062268b3b89018'

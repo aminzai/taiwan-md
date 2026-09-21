@@ -22,6 +22,10 @@ featured: true
 lastVerified: 2026-06-13
 lastHumanReview: false
 readingTime: 18
+image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
+imageCredit: 'hinnk'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'd520299ba'
 sourceContentHash: 'sha256:83c16fc3741fa4e4'

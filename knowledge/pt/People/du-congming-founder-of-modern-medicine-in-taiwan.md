@@ -18,7 +18,7 @@ tags:
   ]
 lastVerified: '2026-03-31'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/杜聰明.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'

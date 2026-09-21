@@ -18,6 +18,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
+image: '/article-images/people/ang-lee-bafta-2013.webp'
+imageCredit: 'Sean Reynolds'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
 translatedFrom: 'People/李安.md'
 sourceCommitSha: '09c1bf1a9'
 sourceContentHash: 'sha256:270ebb8ad85e9750'

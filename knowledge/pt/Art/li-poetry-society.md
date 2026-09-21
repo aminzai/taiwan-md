@@ -21,6 +21,10 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-20
 lastHumanReview: false
+image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
+imageCredit: 'Rico Shen via Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
 translatedFrom: 'Art/笠詩社.md'
 sourceCommitSha: '6f05295a9'
 sourceContentHash: 'sha256:3f29bb0238e156dd'

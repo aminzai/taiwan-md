@@ -9,7 +9,7 @@ tags: ['Taichung', 'Nantun', 'juta', 'sabor tradicional', 'culinária de verão'
 readingTime: '9'
 lastVerified: '2026-05-03'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/麻芛湯.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:37e6bdeac5fb1d7c'

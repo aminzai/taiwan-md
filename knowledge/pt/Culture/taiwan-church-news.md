@@ -17,7 +17,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-04-29'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣教會公報.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:3439ffa9774025fa'

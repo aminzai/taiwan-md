@@ -19,7 +19,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-05-02'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/兩廳院.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1b722cc963da8ad2'

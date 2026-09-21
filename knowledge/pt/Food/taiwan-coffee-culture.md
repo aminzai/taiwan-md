@@ -17,7 +17,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-04-06'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/台灣咖啡文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:547ccdf1b16e61de'
