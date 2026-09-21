@@ -6,14 +6,16 @@ category: 'Food'
 tags: ['Food', '차 문화', '우롱차', '고산차', '손흔들 음료', '버블티']
 subcategory: '음료 문화'
 author: 'Taiwan.md'
-featured: true
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
+image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
 imageAlt: 'Formosa Oolong Tea 문구가 적힌 대만 우롱차 포장'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
 created: 2026-03-23
 readingTime: 12
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg'
 translatedFrom: 'Food/茶文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:86475082b87388fc'

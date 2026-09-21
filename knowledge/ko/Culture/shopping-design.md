@@ -28,7 +28,7 @@ viewpoint_formed: true
 spine_type: '입체 군상'
 image: '/article-images/culture/shopping-design-designbiz-2022-banner.jpg'
 imageCredit: 'Shopping Design／DesignBIZ Fest'
-imageLicense: 'Fair use(editorial commentary)'
+imageLicense: 'Fair use（editorial commentary）'
 imageSource: 'https://designbiz.shoppingdesign.com.tw/2022/'
 rationale:
   why_this_hook: '창간호의 흰색 vs 제100호의 "흰색 디자인을 구매하다" — 같은 흰색이 11년을 사이에 두고 "구매"라는 두 글자를 더한 것 ＝ 취향을 동작으로 바꾼 것 ＝ 분간하기. 따뜻하고 구체적이며 여운을 남긴다(마지막에 분간해야 할 것은 그 자신). gotcha를 미리 심지 않는다.'

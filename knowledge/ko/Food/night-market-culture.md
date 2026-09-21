@@ -9,9 +9,11 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
+image: '/article-images/food/shilin-night-market-crowd-2015.webp'
 imageAlt: '대만의 야시장 문화'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Richy / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cad0161e7864d0ae'

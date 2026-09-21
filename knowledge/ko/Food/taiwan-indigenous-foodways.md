@@ -20,10 +20,12 @@ author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-29
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
+image: '/article-images/food/amis-music-festival-dancers-2016.webp'
 imageAlt: '대만 원주민 문화 축제'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'HaeB / Wikimedia Commons'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
 sourceBodyHash: 'sha256:50386f161e8d186f'

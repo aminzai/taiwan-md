@@ -9,13 +9,15 @@ tags: ['사운드스케이프', '경청', '도시 문화', '감각', '타이베�
 lastVerified: 2026-06-26
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Culture/台灣聲景.md'
 sourceCommitSha: '8b61d368'
 sourceContentHash: 'sha256:819a7ee143f7b981'
 sourceBodyHash: 'sha256:efd1cd3b8e9f03d6'
 translatedAt: '2026-06-27T00:54:19+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/culture/shilin-night-market-soundscape-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
 ---
 
 # 타이완의 사운드스케이프: 쓰레기차의 클래식, 지하철의 새소리, 그리고 들리지만 좀처럼 경청되지 않는 섬

@@ -27,7 +27,7 @@ researchReport: reports/research/2026-07/大支-outline.md
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
-imageLicense: '성명표시 라이선스(정부 웹사이트 데이터 개방 선언)'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
 rationale:
   why_this_hook: '타이난과 대만어 랩이라는 입구에서 출발함으로써, 다즈를 정치적 의사 표명의 인물로만 그리는 것을 피한다.'

@@ -21,6 +21,8 @@ tags:
 lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
 translatedFrom: 'Art/數位荒原.md'
 sourceCommitSha: 'a74c440b3'
 sourceContentHash: 'sha256:f8ec8d5fb97942ca'

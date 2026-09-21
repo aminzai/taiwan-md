@@ -17,13 +17,15 @@ category: 'Food'
 readingTime: 12
 lastVerified: 2026-03-31
 lastHumanReview: true
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 translatedFrom: 'Food/台灣手路菜.md'
 sourceCommitSha: 'b0e441fa'
 sourceContentHash: 'sha256:976bf813ab549fe2'
 sourceBodyHash: 'sha256:c76694b44c893f41'
 translatedAt: '2026-06-10T16:42:09Z'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/960px-Sanbeiji.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
+imageCredit: 'Archon6812 / Wikimedia Commons'
 featured: true
 ---
 
