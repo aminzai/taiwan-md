@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T15:24:01+08:00",
-    "zhCommitHead": "96e33f050",
+    "lastUpdated": "2026-09-21T15:40:24+08:00",
+    "zhCommitHead": "a613f724a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 898,
+        "fresh": 899,
         "stale": 113,
         "metadata_stale": 29,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "ko": {
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 996,
-        "stale": 62,
+        "fresh": 997,
+        "stale": 61,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -141694,7 +141694,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/ba-pu-ice-cream.md",
+          "translatedFrom": "Food/叭噗冰.md",
+          "sourceCommitSha": "077700e9b",
+          "sourceContentHash": "sha256:f85e683b942ab42b",
+          "sourceBodyHash": "sha256:d870fca28f0e56bd",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/ba-pu-ice-cream.md",
@@ -164652,8 +164663,8 @@
           "sourceContentHash": "sha256:2c4fe0156269ff13",
           "sourceBodyHash": "sha256:123f0a9f012e26b6",
           "translatedAt": "2026-09-21T05:39:56.881783+00:00",
-          "translationLastCommit": "4d154e53",
-          "translationLastModified": "2026-07-29T09:12:58+08:00",
+          "translationLastCommit": "a613f724",
+          "translationLastModified": "2026-09-21T15:24:02+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -169498,16 +169509,16 @@
         "vi": {
           "path": "vi/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "70372d3a0",
-          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
-          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
-          "translatedAt": "2026-07-24T12:35:28+08:00",
+          "sourceCommitSha": "ff1ce7d66",
+          "sourceContentHash": "sha256:f2ac5aec701df4d2",
+          "sourceBodyHash": "sha256:4cdc3e89f08b13d3",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "26a727c9",
           "translationLastModified": "2026-07-24T15:47:25+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (21→6)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taiwan-river-systems-and-hydrology.md",
