@@ -23,7 +23,11 @@ image: '/article-images/history/taichung-prefectural-hall-exterior.webp'
 imageCredit: '臺中市文化資產處／國家文化資產網'
 imageLicense: '依原來源頁授權與政府資料開放宣告'
 imageSource: 'https://www.tchac.taichung.gov.tw/building?uid=33&pid=18'
-rationale: "{'why_this_hook': '從臺中州廳站在道路十字口的姿勢切入。它不是被城市包圍的孤立古蹟，而是曾經把官署、街道、銀行、郵便局與地方行政排成一個可被看見的秩序。', 'whats_excluded': '不把臺中州廳只寫成森山松之助的風格作品，也不把日治行政空間浪漫化為沒有代價的現代化；同時不把戰後使用簡化成單純的政權替換。', 'where_it_hedges': '興建年份、建築構成、國定古蹟指定與修復工程以文化資產處、文化部、國家文化資產網、國家檔案與研究資料交叉核對。對於未有具體史料支撐的室內事件與個人故事不作推測。', 'whos_pushing_back': '保存能讓城市重新看見被遮蔽的建築細節，但古蹟的價值不只由外觀決定。誰可以進入、如何使用、修復費用由誰負擔，以及殖民行政留下的權力記憶要如何解釋，都是再利用的一部分。'}"
+rationale:
+  why_this_hook: '從臺中州廳站在道路十字口的姿勢切入。它不是被城市包圍的孤立古蹟，而是曾經把官署、街道、銀行、郵便局與地方行政排成一個可被看見的秩序。'
+  whats_excluded: '不把臺中州廳只寫成森山松之助的風格作品，也不把日治行政空間浪漫化為沒有代價的現代化；同時不把戰後使用簡化成單純的政權替換。'
+  where_it_hedges: '興建年份、建築構成、國定古蹟指定與修復工程以文化資產處、文化部、國家文化資產網、國家檔案與研究資料交叉核對。對於未有具體史料支撐的室內事件與個人故事不作推測。'
+  whos_pushing_back: '保存能讓城市重新看見被遮蔽的建築細節，但古蹟的價值不只由外觀決定。誰可以進入、如何使用、修復費用由誰負擔，以及殖民行政留下的權力記憶要如何解釋，都是再利用的一部分。'
 translatedFrom: 'History/台中州廳.md'
 sourceCommitSha: '39cb84dab'
 sourceContentHash: 'sha256:17af96b268beb6de'

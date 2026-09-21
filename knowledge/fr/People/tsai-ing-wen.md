@@ -23,7 +23,11 @@ image: '/article-images/people/tsai-2016-campaign.webp'
 imageCredit: 'MiNe (sfmine79)'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg'
-rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
+rationale:
+  why_this_hook: '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。'
+  whats_excluded: '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。'
+  where_it_hedges: '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。'
+  whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
 sourceCommitSha: '23c89f2a9'

@@ -10,7 +10,11 @@ featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
-rationale: "{'why_this_hook': '用香腸攤的彈珠臺切入，說明台灣版本不是全球 pinball 的縮小版，而是食物、機率與機械共同形成的庶民文化。', 'whats_excluded': '不把台灣夜市彈珠臺、歐美 pinball 與玻璃彈珠童玩混寫，僅在必要處交代它們的接點。', 'where_it_hedges': '對於台灣機台的普及年代與玩法，以館藏說明和博物館文章為準，不推算未被來源記錄的店家數量。', 'whos_pushing_back': '文章保留彈珠臺兼具技巧、機率與獎品交換的矛盾，不把它粉飾成單純無害的懷舊遊戲。'}"
+rationale:
+  why_this_hook: '用香腸攤的彈珠臺切入，說明台灣版本不是全球 pinball 的縮小版，而是食物、機率與機械共同形成的庶民文化。'
+  whats_excluded: '不把台灣夜市彈珠臺、歐美 pinball 與玻璃彈珠童玩混寫，僅在必要處交代它們的接點。'
+  where_it_hedges: '對於台灣機台的普及年代與玩法，以館藏說明和博物館文章為準，不推算未被來源記錄的店家數量。'
+  whos_pushing_back: '文章保留彈珠臺兼具技巧、機率與獎品交換的矛盾，不把它粉飾成單純無害的懷舊遊戲。'
 curation: 'incubating'
 translatedFrom: 'Culture/彈珠檯.md'
 sourceCommitSha: '9830f442a'
