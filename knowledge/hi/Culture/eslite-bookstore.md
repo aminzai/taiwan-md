@@ -32,7 +32,11 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-08/eslite-bookstore-cultural-landmark.md'
 readingTime: 750
 curation: 'incubating'
-rationale: "{'why_this_hook': '誠品書店是台灣少數能跨越國界、被視為「生活方式輸出」的文化品牌，其 24 小時模式是全球都市文化中的獨特案例。', 'whats_excluded': '排除特定暢銷書榜單的細節分析；排除個別門市的微小經營異動；排除誠品生活旗下非文化類專櫃的品牌史。', 'where_it_hedges': '關於實體書店沒落的討論，明確標註電商衝擊與誠品自身策略調整的交互影響，避免將熄燈簡化為單一原因。', 'whos_pushing_back': '傳統獨立書店批評誠品過度商業化導致書店「百貨化」；文化評論者擔憂誠品在全球擴張中可能面臨的審查與文化稀釋問題。'}"
+rationale:
+  why_this_hook: '誠品書店是台灣少數能跨越國界、被視為「生活方式輸出」的文化品牌，其 24 小時模式是全球都市文化中的獨特案例。'
+  whats_excluded: '排除特定暢銷書榜單的細節分析；排除個別門市的微小經營異動；排除誠品生活旗下非文化類專櫃的品牌史。'
+  where_it_hedges: '關於實體書店沒落的討論，明確標註電商衝擊與誠品自身策略調整的交互影響，避免將熄燈簡化為單一原因。'
+  whos_pushing_back: '傳統獨立書店批評誠品過度商業化導致書店「百貨化」；文化評論者擔憂誠品在全球擴張中可能面臨的審查與文化稀釋問題。'
 relatedDiary: ['2026-08-13-manual']
 translatedFrom: 'Culture/誠品書店.md'
 sourceCommitSha: '63ad1b2b8'

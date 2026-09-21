@@ -19,7 +19,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '從歷史遊戲說書轉向交通倡議，觀察網紅如何取得公共影響力，也如何被爭議反過來檢驗。', 'whats_excluded': '不把 Cheap 寫成歷史學者或交通專家，因為文章主題是網路公共角色，不是替他評定專業資格。', 'where_it_hedges': '疑似抄襲段落明確標示為公開指控，Joeman 段落分開呈現 Cheap 的回應與批評者的疑問，不把爭議寫成已確定判決。', 'whos_pushing_back': '歷史專業者、交通政策工作者、被爭議捲入的學生家屬與要求守法一致的觀眾，都可能反對把平台聲量直接等同公共正當性。'}"
+rationale:
+  why_this_hook: '從歷史遊戲說書轉向交通倡議，觀察網紅如何取得公共影響力，也如何被爭議反過來檢驗。'
+  whats_excluded: '不把 Cheap 寫成歷史學者或交通專家，因為文章主題是網路公共角色，不是替他評定專業資格。'
+  where_it_hedges: '疑似抄襲段落明確標示為公開指控，Joeman 段落分開呈現 Cheap 的回應與批評者的疑問，不把爭議寫成已確定判決。'
+  whos_pushing_back: '歷史專業者、交通政策工作者、被爭議捲入的學生家屬與要求守法一致的觀眾，都可能反對把平台聲量直接等同公共正當性。'
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/Cheap.md'

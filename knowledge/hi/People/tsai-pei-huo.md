@@ -23,7 +23,12 @@ image: '/article-images/people/cai-peihuo-portrait.webp'
 imageCredit: '未具名 Wikimedia Commons 貢獻者'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Cai_Peihuo.jpg'
-rationale: "{'why_this_hook': '從語言與公共能力切入蔡培火，而不是只列出生卒年與運動年表；追蹤他如何把教師工作、白話字出版、歌曲、報刊與自治主張互相接起來。', 'whats_excluded': '不把蔡培火寫成臺灣議會設置請願運動總史，也不把文化部或博物館的概括性評價改寫成唯一結論；不使用無法穩定核對的引語與傳聞。', 'where_it_hedges': '蔡培火參與的組織、出版物與政治活動常由不同館藏以不同時間口徑記述。本文優先採用人物頁、作品詳情頁與官方運動史頁相互對照，不把作品目錄直接等同於完整思想體系。', 'whos_pushing_back': '文章同時呈現蔡培火的文化啟蒙理想與殖民制度的限制，也呈現語言運動內部的讀者、教育資源與政治代表問題；白話字不是天然普及的答案，自治也不是只靠口號即可實現。', 'which_framing': '以「誰能讀、誰能寫、誰能在公共場合說話」作為貫穿線索，把人物生平、語言技術、媒體、組織與政治請願放在同一條可查證的路徑上。'}"
+rationale:
+  why_this_hook: '從語言與公共能力切入蔡培火，而不是只列出生卒年與運動年表；追蹤他如何把教師工作、白話字出版、歌曲、報刊與自治主張互相接起來。'
+  whats_excluded: '不把蔡培火寫成臺灣議會設置請願運動總史，也不把文化部或博物館的概括性評價改寫成唯一結論；不使用無法穩定核對的引語與傳聞。'
+  where_it_hedges: '蔡培火參與的組織、出版物與政治活動常由不同館藏以不同時間口徑記述。本文優先採用人物頁、作品詳情頁與官方運動史頁相互對照，不把作品目錄直接等同於完整思想體系。'
+  whos_pushing_back: '文章同時呈現蔡培火的文化啟蒙理想與殖民制度的限制，也呈現語言運動內部的讀者、教育資源與政治代表問題；白話字不是天然普及的答案，自治也不是只靠口號即可實現。'
+  which_framing: '以「誰能讀、誰能寫、誰能在公共場合說話」作為貫穿線索，把人物生平、語言技術、媒體、組織與政治請願放在同一條可查證的路徑上。'
 curation: 'incubating'
 translatedFrom: 'People/蔡培火.md'
 sourceCommitSha: 'e974b4c9e'

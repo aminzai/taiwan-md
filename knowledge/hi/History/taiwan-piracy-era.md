@@ -11,7 +11,11 @@ lastVerified: 2026-08-18
 lastHumanReview: true
 researchReport: 'reports/research/2026-08/pirate-kingdom-tsmc-trust.md'
 readingTime: 12
-rationale: "{'why_this_hook': '「海盜王國」的國際汙名與台積電信任經濟形成強反差，影片引發的懷舊共鳴可轉化為制度史知識增量', 'whats_excluded': '排除未經正式新聞證實的坊間細節（麥當樂判決最終結果未下筆），排除中國大陸觀點來源', 'where_it_hedges': '「六成仿冒品出自台灣」為 1986 年美聯社轉述美國 ITC 單方估計，文中已標明來源', 'whos_pushing_back': '部分民眾對盜版年代帶有懷舊情感，可能質疑仿冒與台積電成功直接掛鉤的因果敘事'}"
+rationale:
+  why_this_hook: '「海盜王國」的國際汙名與台積電信任經濟形成強反差，影片引發的懷舊共鳴可轉化為制度史知識增量'
+  whats_excluded: '排除未經正式新聞證實的坊間細節（麥當樂判決最終結果未下筆），排除中國大陸觀點來源'
+  where_it_hedges: '「六成仿冒品出自台灣」為 1986 年美聯社轉述美國 ITC 單方估計，文中已標明來源'
+  whos_pushing_back: '部分民眾對盜版年代帶有懷舊情感，可能質疑仿冒與台積電成功直接掛鉤的因果敘事'
 curation: 'incubating'
 translatedFrom: 'History/台灣盜版史.md'
 sourceCommitSha: '373a07d35'

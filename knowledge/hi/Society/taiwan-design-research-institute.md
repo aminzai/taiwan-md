@@ -23,7 +23,11 @@ image: '/article-images/society/tdri-songshan-entrance-2022.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Entrance_2,_Songshan_Cultural_and_Creative_Park_20220423.jpg'
-rationale: "{'why_this_hook': '核心矛盾是「靠被看見存活的機構，把最大賭注押在你沒感覺的地方」。中山站作為 hook 一石二鳥——它既是最被看見的案子，又是「被看見反咬」的證據，把整篇 spine 的張力濃縮進一個讀者真的走過的車站售票區。', 'whats_excluded': '排除 2025 彰化設計展 784 萬人次（5 agent 共 38 次搜尋零來源）、第四金（YouTuber 標題）、97% 選民認同當硬事實（線上問卷無樣本）、波蘭夥伴國 MOU、石井裕、揭牌精確日、員工數、各年細部預算。這些 unverified 寫進去會讓一篇談「被看見」的文章自己變成過度膨脹的政績稿。', 'where_it_hedges': '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。', 'whos_pushing_back': 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'}"
+rationale:
+  why_this_hook: '核心矛盾是「靠被看見存活的機構，把最大賭注押在你沒感覺的地方」。中山站作為 hook 一石二鳥——它既是最被看見的案子，又是「被看見反咬」的證據，把整篇 spine 的張力濃縮進一個讀者真的走過的車站售票區。'
+  whats_excluded: '排除 2025 彰化設計展 784 萬人次（5 agent 共 38 次搜尋零來源）、第四金（YouTuber 標題）、97% 選民認同當硬事實（線上問卷無樣本）、波蘭夥伴國 MOU、石井裕、揭牌精確日、員工數、各年細部預算。這些 unverified 寫進去會讓一篇談「被看見」的文章自己變成過度膨脹的政績稿。'
+  where_it_hedges: '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。'
+  whos_pushing_back: 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'
 translatedFrom: 'Society/台灣設計研究院.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:dc9a16af37eefe47'

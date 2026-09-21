@@ -10,7 +10,11 @@ featured: false
 lastVerified: 2026-08-19
 lastHumanReview: false
 readingTime: 5
-rationale: "{'why_this_hook': '從錫蘭因過度被看見而離開台灣的反差切入，讓人物經歷與網路名人的日常界線在第一段相遇。', 'whats_excluded': '未延伸未有逐頁來源支持的訂閱數、收入、私生活與今日居住地，也不把個人觀感升格為台灣社會的客觀總評。', 'where_it_hedges': '2023 年報導中的訂閱數只標為當時數字；飲食、市容與生活評價均歸屬於錫蘭或媒體轉述，不寫成普遍事實。', 'whos_pushing_back': '支持其直白批評的觀眾、認為外來者居住時間不足以概括台灣的讀者，以及關注偷拍與公共注視界線的網路使用者。'}"
+rationale:
+  why_this_hook: '從錫蘭因過度被看見而離開台灣的反差切入，讓人物經歷與網路名人的日常界線在第一段相遇。'
+  whats_excluded: '未延伸未有逐頁來源支持的訂閱數、收入、私生活與今日居住地，也不把個人觀感升格為台灣社會的客觀總評。'
+  where_it_hedges: '2023 年報導中的訂閱數只標為當時數字；飲食、市容與生活評價均歸屬於錫蘭或媒體轉述，不寫成普遍事實。'
+  whos_pushing_back: '支持其直白批評的觀眾、認為外來者居住時間不足以概括台灣的讀者，以及關注偷拍與公共注視界線的網路使用者。'
 curation: 'incubating'
 translatedFrom: 'People/Ceylan.md'
 sourceCommitSha: '6cb632bab'

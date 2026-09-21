@@ -21,7 +21,11 @@ image: '/article-images/history/cross-party-freeway-no1-2015.webp'
 imageCredit: 'Koika / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Freeway_No._1_Taishan_section.jpg'
-rationale: "{'why_this_hook': '讀者 lov3ngine 厭倦藍綠宣傳、想記得跨黨派的長遠善。用他自己提的民生/民主/民權/主權四把尺，把「誰做的」踢出算式——最不像政府文宣、也最有策展觀點的切角。', 'whats_excluded': '移工/非公民完整權益（僅健保段一句 caveat）；執行者（公務員）視角的政策成敗；個別政策的完整專文深度（本篇是 synthesis，cross-link 過去）。', 'where_it_hedges': '戒急用忍標「蓋棺難論定」、前瞻標「塵埃未定」、同婚「跨黨派」限定為藍委跑票的例外；四把尺誠實標為讀者的價值取向、非天定中性；後見之明 own 為方法本身、不假裝客觀。', 'whos_pushing_back': '深藍（怕「跨黨派」框架稀釋國民黨威權期功績）；社運與受難族群（怕漂白善政策對地主、外省族群、同婚對立面的傷害）；政治學者（質疑四把尺權重誰定、能否把政策從政治脈絡剝離）。'}"
+rationale:
+  why_this_hook: '讀者 lov3ngine 厭倦藍綠宣傳、想記得跨黨派的長遠善。用他自己提的民生/民主/民權/主權四把尺，把「誰做的」踢出算式——最不像政府文宣、也最有策展觀點的切角。'
+  whats_excluded: '移工/非公民完整權益（僅健保段一句 caveat）；執行者（公務員）視角的政策成敗；個別政策的完整專文深度（本篇是 synthesis，cross-link 過去）。'
+  where_it_hedges: '戒急用忍標「蓋棺難論定」、前瞻標「塵埃未定」、同婚「跨黨派」限定為藍委跑票的例外；四把尺誠實標為讀者的價值取向、非天定中性；後見之明 own 為方法本身、不假裝客觀。'
+  whos_pushing_back: '深藍（怕「跨黨派」框架稀釋國民黨威權期功績）；社運與受難族群（怕漂白善政策對地主、外省族群、同婚對立面的傷害）；政治學者（質疑四把尺權重誰定、能否把政策從政治脈絡剝離）。'
 translatedFrom: 'History/跨黨派的好政策.md'
 sourceCommitSha: 'e666af3e1'
 sourceContentHash: 'sha256:05458bb41dd9205e'

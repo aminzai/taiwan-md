@@ -20,7 +20,11 @@ lastHumanReview: false
 readingTime: 12
 viewpoint_formed: true
 curation: 'incubating'
-rationale: "{'why_this_hook': '以臺中港把梧棲推向世界的建港工程為入口，連接十大建設、地方港市、工程自然與當代海岸治理。', 'whats_excluded': '不把十大建設簡化成單一領導人的功績，不把港務機關的宣傳性排名當成未經交叉核對的客觀結論，也不替環評爭議任一方預先裁判。', 'where_it_hedges': '對工程數字採官方與學術來源可直接支持的範圍，對地方生活與白海豚議題標明來源的觀察與爭議，不把未讀全文的研究結果擴張。', 'whos_pushing_back': '把地方仕紳、梧棲老街、工程單位、港務機關、研究者與環境團體放在同一條歷史線上，保留港口發展與海岸生活之間的拉扯。'}"
+rationale:
+  why_this_hook: '以臺中港把梧棲推向世界的建港工程為入口，連接十大建設、地方港市、工程自然與當代海岸治理。'
+  whats_excluded: '不把十大建設簡化成單一領導人的功績，不把港務機關的宣傳性排名當成未經交叉核對的客觀結論，也不替環評爭議任一方預先裁判。'
+  where_it_hedges: '對工程數字採官方與學術來源可直接支持的範圍，對地方生活與白海豚議題標明來源的觀察與爭議，不把未讀全文的研究結果擴張。'
+  whos_pushing_back: '把地方仕紳、梧棲老街、工程單位、港務機關、研究者與環境團體放在同一條歷史線上，保留港口發展與海岸生活之間的拉扯。'
 translatedFrom: 'History/台中港.md'
 sourceCommitSha: '853cd1e60'
 sourceContentHash: 'sha256:b6e5c247e5675857'
