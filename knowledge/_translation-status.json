@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T17:27:40+08:00",
-    "zhCommitHead": "04f4a646e",
+    "lastUpdated": "2026-09-21T18:33:37+08:00",
+    "zhCommitHead": "0b4cb937c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 900,
+        "fresh": 901,
         "stale": 113,
         "metadata_stale": 29,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "ko": {
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1026,
-        "stale": 67,
+        "fresh": 1027,
+        "stale": 66,
         "metadata_stale": 12,
         "missing": 19,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 993,
-        "stale": 73,
+        "fresh": 994,
+        "stale": 72,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1012,
+        "fresh": 1013,
         "stale": 51,
         "metadata_stale": 10,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 19,
         "metadata_stale": 6,
-        "missing": 276,
+        "missing": 275,
         "orphan": 0
       }
     },
@@ -5770,18 +5770,16 @@
         "fr": {
           "path": "fr/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce7",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-06-29T00:47:38+08:00",
+          "sourceCommitSha": "7701a4867",
+          "sourceContentHash": "sha256:a6a639d332e8f086",
+          "sourceBodyHash": "sha256:89d2f2476f597f2c",
+          "translatedAt": "2026-09-21T09:36:50.040407+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/pop-music-and-golden-melody-awards.md",
@@ -55524,8 +55522,8 @@
           "sourceContentHash": "sha256:9680a9c97c074b94",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T07:04:56.974807+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b4cb937",
+          "translationLastModified": "2026-09-21T17:27:40+08:00",
           "inferred": false,
           "footnoteDefs": 58,
           "status": "fresh",
@@ -95238,7 +95236,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/jason-wu-fashion-designer.md",
+          "translatedFrom": "People/吳季剛.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:cd5b6f64f9368b38",
+          "sourceBodyHash": "sha256:62721bcda4248fc8",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/jason-wu-fashion-designer.md",
@@ -132842,7 +132851,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-breakfast-culture.md",
+          "translatedFrom": "Food/台灣早餐文化.md",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T10:03:55.234007+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -163125,18 +163145,16 @@
         "pt": {
           "path": "pt/Geography/hsinchu-county.md",
           "translatedFrom": "Geography/新竹縣.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:eefcd1a536e4ddf5",
-          "sourceBodyHash": "sha256:a716f79b2442afc5",
-          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:bf74cbc86604e18b",
+          "sourceBodyHash": "sha256:e2a36aeb8ae88cc6",
+          "translatedAt": "2026-09-21T09:36:49.177435+00:00",
           "translationLastCommit": "889deb6c",
           "translationLastModified": "2026-07-29T12:33:45+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/hsinchu-county.md",
@@ -179364,7 +179382,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/shopping-design.md",
+          "translatedFrom": "Culture/Shopping Design.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:ad45b627d00f528f",
+          "sourceBodyHash": "sha256:da4269ea46f7ec77",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
