@@ -1,9 +1,9 @@
 ---
-title: 'Chi-Wei Lin: Dari Merek Permainan Papan Pemenang Penghargaan Internasional, ke Platform Komersial Kreator 200 Ribu Pengguna'
-description: "Chi-Wei Lin (林啟維, dikenal online sebagai CW) adalah pengusaha Taiwan. Pada 2014, permainan papan edukatifnya memenangkan perak di Parents' Choice Awards Amerika Serikat, mengalahkan Lego; satu dekade kemudian, Portaly yang ia dirikan menjadi platform komersial kreator terbesar di Taiwan, tempat 200 ribu orang mengubah pengaruh menjadi pendapatan, mulai menguntungkan sejak 2025 tanpa biaya pemasaran berbayar, tumbuh melalui organic PLG (product-led growth). Dari industri tradisional ke perangkat lunak, lalu ke AI, setiap kali memulai dari nol. Dia selalu melakukan hal yang sama: membantu orang mengubah satu hal menjadi hal lain, kemudian membagikan metodenya secara terbuka."
+title: 'Chi-Wei Lin: Dari merek permainan papan fisik pemenang penghargaan internasional menjadi platform perangkat lunak untuk 200 ribu kreator'
+description: "Chi-Wei Lin (CW) adalah seorang wirausahawan Taiwan. Pada tahun 2014, permainan edukatifnya meraih perak di 'Parents' Choice Awards' di Amerika Serikat mengalahkan Lego; sepuluh tahun kemudian, Portaly yang ia dirikan menjadi platform bisnis kreator terbesar di Taiwan, tempat 200 ribu pengguna menukarkan pengaruh mereka dengan pendapatan, dan tumbuh secara organik melalui PLG (Pertumbuhan Didorong Produk) mulai tahun 2025 dengan keuntungan dan pemasaran tanpa biaya. Ia beralih dari industri tradisional ke perangkat lunak, lalu ke AI, selalu memulai dari nol dan belajar kembali. Ia terus melakukan hal yang sama: membantu orang mengubah satu hal menjadi hal lain, dan kemudian membagikan metodenya secara terbuka."
 date: 2026-06-17
 category: 'People'
-tags: ['Kewirausahaan', 'Portaly', 'PLG', 'AI', 'SaaS', 'Ekonomi Kreator']
+tags: ['wirausaha', 'Portaly', 'PLG', 'AI', 'SaaS', 'ekonomi kreator']
 subcategory: '科技與企業'
 author: 'CW Lin (林啟維)'
 featured: false
@@ -11,10 +11,10 @@ lastVerified: 2026-07-03
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/林啟維.md'
-sourceCommitSha: 'cfaa22a5d'
-sourceContentHash: 'sha256:82817fc4c48a612b'
-sourceBodyHash: 'sha256:5e2c0e25dde8c071'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:50a3b31b4cb61eed'
+sourceBodyHash: 'sha256:e893f57da90167f4'
+translatedAt: '2026-09-21T16:48:24.406652+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Chi-Wei Lin (林啟維, dikenal online sebagai CW atau CW Lin) adalah pengusaha Taiwan, pendiri dan CEO Portaly, lulusan Program Teknik Elektro Universitas Taiwan (NTU) dan Program Magister Teknik Elektro UCLA. Dari industri tradisional ke perangkat lunak, lalu ke AI, setiap kali memulai dari nol dan belajar ulang. Usaha pertamanya adalah merek permainan papan edukatif "Shepherd Kit" untuk anak-anak, yang pada 2014 memenangkan medali perak di Parents' Choice Awards Amerika Serikat, mengalahkan Lego dan menciptakan rekor terbaik Taiwan, dengan akumulasi crowdfunding lebih dari 1 juta dolar AS, dijual ke Commonwealth Magazine Group pada 2021. Pada 2022 ia membangun Portaly (nama resmi perusahaan: Real Engine Corp Ltd), yang dalam empat tahun menjadi platform komersial kreator terbesar di Taiwan, dengan 200 ribu pengguna pada 2025, mulai menguntungkan sejak 2025 melalui PLG organik (product-led growth) tanpa biaya pemasaran berbayar. Dia juga pengusaha Program Akselerator AAMA Taipei Generasi ke-13, penulis kolom di "Manager Today" dan "Meet Startup", yang terus berbagi metode AI dan pertumbuhan startup secara terbuka melalui build in public. Perpustakaan pengetahuan yang sedang Anda baca menerima aliran donasi melalui platformnya.
@@ -74,19 +74,19 @@ Dalam pengenalan AAMA, Portaly adalah platform kreator dan KOC terbesar Taiwan, 
 > **📝 Catatan Kurasi**
 > Mengatakan "tanpa tim pemasaran" terdengar seperti kekurangan di kalangan investor. Namun untuk Portaly itu adalah argumen: jika alat begitu bagus sehingga kreator sendiri akan mengajak rekan industri masuk, maka tidak perlu membeli iklan sama sekali. Menguntungkan, tanpa pemasaran berbayar, PLG ketiga-tiganya terjadi bersamaan, inilah tempat yang benar-benar sulit ditiru.
 
-## Praktisi Build in Public
+## Praktisi _Build in Public_
 
-Selama beberapa tahun terakhir, Chi-Wei Lin punya identitas lain: praktisi build in public (membangun secara terbuka). Dia telah melakukan ini selama bertahun-tahun: di fase awal Portaly, dia berbagi terbuka metode survei tim mereka yang dalam satu setengah bulan mewawancara 100 influencer super pelanggan [^14]; pada 2024, dia habiskan dua bulan mengelola akun Threads dari 120 pengikut menjadi sepuluh ribu, kemudian tulis seluruh logika algoritma dan metode pertumbuhan follower, ditransmisi ulang oleh _Digital Era_ (Business Next) dengan izin [^15]; pada 2026 masuk Silicon Valley, dia tulis pengalaman kreator startup Taiwan dalam gelombang penambangan AI sebagai catatan, dipublikasikan di _Meet Startup_. [^16] Sekaligus dia membuka kolom di _Manager Today_ (Manager Today) dan _Meet Startup_ (Meet), tidak menulis tentang kisah sukses, melainkan hal yang sedang dia pakai sendiri: proses pengembangan produk full-AI, daftar periksa budaya AI untuk eksekutif, sistem manajemen pengetahuan AI Vault (Lemari AI). [^10][^11] Dia membuka sumber arsitektur AI knowledge base miliknya sebagai [Vault for Founders](https://github.com/cwlin0131/Vault-for-Founders), dan menulis "Lobster Manual" pengenalan OpenClaw untuk non-engineer; menurut data publiknya, dokumen AI ini telah diakses dan dibagikan oleh ribuan orang. [^9] Pada 2026 dia diundang hadir di konferensi tahunan Stripe Sessions (menurut data publiknya, sebagai representatif founder Asia Pasifik), setelah pulang hal pertama yang dia lakukan adalah menulis catatan sesudah acara, mengingatkan startup Taiwan: dalam model bisnis Anda, apakah ada tempat untuk AI agent? [^11][^9]
+Dalam beberapa tahun terakhir, CW Lin memiliki identitas tambahan: praktisi _build in public_ (membangun secara terbuka). Ia telah melakukan hal ini selama bertahun-tahun: pada masa awal Portaly, ia membagikan secara terbuka metodologi survei yang dilakukan tim terhadap 100 pelanggan super selebritas dalam satu setengah bulan[^14]; pada tahun 2024, ia menghabiskan dua bulan untuk mengembangkan akun Threads dari 120 pengikut menjadi sepuluh ribu, kemudian menulis seluruh logika algoritma dan metode pertumbuhan pengikut, yang diizinkan untuk direproduksi oleh _Digital Age_ (Business Next)[^15]; pada tahun 2026, saat memasuki Silicon Valley, ia mendokumentasikan posisi para wirausahawan Taiwan dalam demam emas AI dan menerbitkannya di _Meet_.[^16] Ia juga membuka kolom khusus di _Manager Today_ dan _Meet_, yang tidak membahas teori kesuksesan, melainkan hal-hal yang sedang ia gunakan: proses pengembangan produk berbasis AI secara penuh, daftar periksa budaya AI untuk manajer, dan sistem manajemen pengetahuan AI Vault (Brankas AI).[^10][^11] Ia membuka struktur basis pengetahuan AI miliknya sebagai [Vault for Founders](https://github.com/cwlin0131/Vault-for-Founders) dan juga menulis "Buku Panduan Lobster" untuk pemula OpenClaw bagi non-insinyur; berdasarkan data publiknya, dokumen-dokumen AI ini telah digunakan dan dibagikan oleh ribuan orang.[^9] Pada tahun 2026, ia diundang ke konferensi Stripe Sessions (berdasarkan data publiknya, sebagai perwakilan wirausahawan Asia Pasifik), dan hal pertama yang ia tulis setelah kembali adalah ulasan, mengingatkan para _startup_ Taiwan: apakah model bisnis Anda memiliki tempat bagi agen AI?[^11][^9]
 
-Kebiasaan ini menembus kedua fase usahanya: pengalaman crowdfunding dan lisensi IP dari era Shepherd Kit, metode PLG dan cara mendorong AI dari era Portaly, dia kemas semuanya jadi sesuatu yang orang lain bisa langsung pakai. Dari mainan papan fisik, halaman kreator hingga metode mengelola AI, bentuk produk berubah tiga kali, garis di bawahnya tidak pernah bergeser: cari satu tempat orang tersendat, buat satu mesin, bantu dia tarik keluar yang tersendat itu, lalu bagikan cara membuatnya ke orang berikutnya yang tersendat.
+Kebiasaan ini menyelimuti dua fase kewirausahaannya: penggalangan dana publik pada masa Sheepdog dan pengalaman lisensi museum, serta metode PLG dan adopsi AI di Portaly. Ia mengorganisasi semuanya menjadi sesuatu yang dapat langsung digunakan orang lain. Mulai dari _board game_ fisik, halaman kreator, hingga metode manajemen AI, bentuk produknya telah berubah tiga kali, tetapi garis bawahnya tetap sama: menemukan titik hambatan seseorang, membuat sebuah mesin untuk mengeluarkan hambatan tersebut, dan kemudian membagikan metodenya kepada orang berikutnya yang mengalami hambatan.
 
-Ini juga menjelaskan satu kebetulan kecil. Perpustakaan pengetahuan yang sedang Anda baca ini [Taiwan.md](/id/about/taiwan-md), halaman kontribusi menulis "diproses aliran keuangan oleh Portaly", tautan donasi arahkan ke `portaly.cc/taiwanmd/support`. [^12] Ketika satu orang Taiwan ingin berbicara untuk Taiwan, minta donasi ke dunia, lapisan yang terima uang, kebetulan adalah orang Taiwan lain yang membuatnya.
+Ini juga menjelaskan sebuah kebetulan kecil. Basis pengetahuan yang Anda baca ini [Taiwan.md](/id/about/taiwan-md), di halaman sponsor tertulis "Diproses oleh Portaly", dan tautan donasi mengarah ke `portaly.cc/taiwanmd/support`.[^12] Ketika seorang orang Taiwan ingin berbicara untuk Taiwan dan menggalang dana dari dunia, lapisan penerima uang itu justru dibuat oleh orang Taiwan lainnya.
 
-> **Pengungkapan Transparan:** Draf awal artikel ini ditulis dan diserahkan oleh subjek artikel itu sendiri (CW Lin). Isi didasarkan terutama pada laporan pihak ketiga publik; hanya yang ditandai "menurut data publik Chi-Wei Lin", sumbernya adalah situs resmi orang itu atau pernyataan sosial media pribadi.
+> **Pengungkapan Transparan:** Draf awal artikel ini ditulis dan diserahkan oleh penulis utama (CW Lin). Konten sebagian besar didasarkan pada laporan publik pihak ketiga; hanya yang ditandai "Berdasarkan data publik CW Lin" yang sumbernya adalah situs web atau pernyataan pribadi penulis.
 
 **Bacaan Lanjutan**:
 
-- [Program Akselerator AAMA Taipei](../Economy/AAMA台北搖籃計畫.md): Chi-Wei Lin adalah pengusaha Generasi ke-13 program mentoring dua tahun hubungan satu-satu ini, satu model dukungan startup Taiwan yang tidak berinvestasi, tidak ambil saham
+- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): CW Lin adalah wirausahawan ke-13 dari program mentor satu lawan satu selama dua tahun ini, sebuah model dukungan kewirausahaan Taiwan yang tidak melibatkan investasi dan tidak mengambil saham.
 
 ## Referensi
 

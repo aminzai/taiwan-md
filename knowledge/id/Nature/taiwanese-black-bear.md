@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-19T01:37:24+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T15:44:28.438530+00:00'
 ---
 
 # Beruang Madu Taiwan
@@ -53,27 +53,27 @@ Angka-angka beruang madu Taiwan sering diletakan dalam satu paragraf, namun pemb
 > **📝 Catatan Kurator**
 > Yang paling dibutuhkan oleh konservasi beruang madu adalah memahami asal-usul setiap angka dan pertanyaan apa yang dijawabnya, bukan mengejar satu angka yang tampak sangat akurat. Ketika 1.200 masih bisa naik atau turun, menyimpan ketidakpastian dengan jujur justru membuat perkiraan awal benar-benar mendukung ilmu pengetahuan.
 
-## Di Bawah Tanda V Putih, Ada Seekor Beruang yang Tidak Tinggal di Gua
+## Di Bawah Huruf V Putih, Bersembunyi Seekor Beruang yang Tidak Tinggal di Gua
 
-Beruang Madu Taiwan (nama ilmiahnya _Ursus thibetanus formosanus_) dengan bulu hitamnya, telinga bulat, ekor pendek, dan tanda V atau bulan sabit kuning-putih di dada, tidak memiliki kemungkinan kebingungan lain dalam spesies beruang di Taiwan. Beruang dewasa beratnya sekitar 60 hingga 150 kg, panjang tubuh sekitar 130 hingga 180 cm. [^2]
+Beruang Hitam Taiwan (_Ursus thibetanus formosanus_) dengan bulu hitam, telinga bulat, ekor pendek, dan pola huruf V atau bulan sabit berwarna kuning-putih di dada, tidak memiliki objek lain yang mungkin tertukar di antara spesies beruang di Taiwan. Individu dewasa memiliki berat sekitar 60 hingga 150 kilogram, dengan panjang tubuh sekitar 130 hingga 180 cm.[^2]
 
-Ia tidak hanya tinggal di "hutan pegunungan" yang kabur. Data resmi mencatatnya muncul dari elevasi 300 meter hingga 3.700 meter, meskipun distribusi utamanya tetap berada di hutan pegunungan Tiongkok Tengah antara 1.000 hingga 2.500 meter. Ini berarti beruang madu Taiwan membutuhkan hutan yang terhubung agar bisa bergerak, mencari makan, dan berkembang biak. Batas satu area pelindung pun tidak cukup. [^2]
+Ia tidak hanya tinggal di tempat yang kabur seperti "pegunungan dalam". Data resmi mencatat kemunculannya di daerah pegunungan dari ketinggian 300 meter hingga 3.700 meter, dengan sebaran utama masih berada di hutan antara 1.000 hingga 2.500 meter di Pegunungan Sentral. Hal ini menunjukkan bahwa Beruang Hitam Taiwan membutuhkan hutan yang terhubung untuk bergerak, mencari makan, dan berkembang biak. Batasan satu kawasan konservasi sangat tidak mencukupi.[^2]
 
-Beruang Madu Taiwan tidak mengalami hibernasi, aktif sepanjang tahun. Tidak memiliki sarang tetap, aktif terutama pada siang hari, aktivitas meningkat di musim panas dan gugur. Pada musim gugur dan dingin, buah Fagaceae masuri, aktivitas malam hari mungkin meningkat. Studi pelacakan radio di Taman Nasional Yushan memperkirakan rentang aktivitas individu sekitar 27 hingga 202 km². [^2] [^5]
+Beruang Hitam Taiwan tidak hibernasi; ia aktif sepanjang tahun. Ia tidak memiliki sarang tetap, dan sebagian besar aktivitasnya dilakukan di siang hari, dengan peningkatan aktivitas pada musim panas dan gugur. Pada musim gugur dan dingin, buah-buahan dari famili _Ursidae_ matang, dan aktivitas malam hari juga bisa meningkat. Penelitian pelacakan radio di Taman Nasional Yushan memperkirakan jangkauan tahunan individu sekitar 27 hingga 202 kilometer persegi.[^2] [^5]
 
-### Setahun Hanya Melahirkan Beberapa Anak Beruang
+### Berapa Banyak Anak yang Lahir dalam Setahun?
 
-Musim kawin beruang madu Taiwan biasanya terjadi pada Juni hingga Agustus. Setelah kawin, embrio mengalami penundaan pertumbuhan, betina biasanya melahirkan pada Desember hingga Februari tahun berikutnya, setiap kelahian biasanya satu hingga tiga ekor. Anak-anak beruang harus tinggal bersama ibunya hingga musim kawin berikutnya sebelum perlahan-lahan terpisah. [^2]
+Musim kawin Beruang Hitam Taiwan berlangsung kira-kira dari Juni hingga Agustus. Setelah kawin, embrio mengalami implantasi tertunda; induk biasanya melahirkan pada Desember hingga Februari tahun berikutnya, dengan rata-rata satu hingga tiga anak per kelahiran.[^2]
 
-Karena ibu memiliki musim kawin tetap, anak-anak beruang juga harus belajar mencari makan, mengenali bahaya, dan menggunakan hutan di bawah pengawasan ibunya. Pemulihan populasi membutuhkan waktu. Ketika data riset menunjukkan peningkatan catatan, para peneliti juga memeriksa usia kawin, kelangsungan hidup anak-anak, dan pengenalan individu antar generasi, untuk menentukan apakah peningkatan tersebut hanyalah peluang pengamatan yang meningkat, atau benar-benar populasi yang berkelanjutan. [^2] [^4]
+Karena induk memiliki musim reproduksi yang tetap, anak-anak juga harus belajar mencari makan, mengenali bahaya, dan menggunakan hutan di dekat induk mereka sampai musim kawin berikutnya. Pemulihan populasi membutuhkan waktu. Ketika data penelitian menunjukkan peningkatan jumlah, para peneliti akan memeriksa usia reproduktif, kelangsungan hidup anak, dan identifikasi individu dari generasi yang berbeda untuk menentukan apakah peningkatannya hanyalah peluang pengamatan, ataukah itu adalah populasi yang berkelanjutan.[^2] [^4]
 
-![Beruang Madu Taiwan dalam lingkungan perawatan buatan, menampilkan postur dan tanda dada](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Beruang Hitam Taiwan dalam lingkungan pemeliharaan buatan, menunjukkan bentuk tubuh dan pola dada](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_ Foto ini adalah gambar lingkungan perawatan buatan beruang madu Taiwan (Formosan black bear), sebagai referensi visual postur, cakar, dan tanda dada, bukan bukti distribusi alami di luar sana. Foto: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Foto telah dimasukkan ke dalam proyek._
+_Foto ini adalah citra beruang hitam Formosa dari lingkungan buatan, sebagai referensi visual untuk bentuk tubuh, cakar panjang, dan pola dada, bukan bukti sebaran di alam liar Taiwan. Gambar: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Gambar telah dimasukkan ke dalam proyek._
 
-![Ilustrasi beruang madu Taiwan dengan tanda V putih di dada](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Ilustrasi Beruang Hitam Taiwan dengan pola V putih di dada](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_ Ilustrasi ini digunakan untuk menggambarkan postur dan tanda dada beruang madu Taiwan, bukan foto individu di alam liar. Foto: SilverSea Design / Davidzdh, CC BY 4.0, Wikimedia Commons. Foto telah dimasukkan ke dalam proyek._
+_Ilustrasi ini digunakan untuk menunjukkan bentuk tubuh dan pola dada Beruang Hitam Taiwan, bukan foto individu di alam liar. Gambar: SilverSea Design/Lin Hui-chiu Chofy Lin, CC BY 4.0, Wikimedia Commons. Gambar telah dimasukkan ke dalam proyek._
 
 ## Makanannya Menentukan Kemana Ia Pergi
 
@@ -130,21 +130,21 @@ _ Foto ini berasal dari catatan pameran Pusat Pengunjung Nanzih, sebagai referen
 
 _ Video resmi Taman Nasional Yushan "Yushan Menyalakan Beruang": berdasarkan habitat hutan dan riset konservasi, menjelaskan mengapa beruang madu membutuhkan hutan yang terus-menerus. _
 
-## Ketika Bertemu dengan Beruang, Simpan Dulu Tisu Manusia
+## Saat Manusia dan Beruang Bertemu, Singkirkan Godaan Manusia Terlebih Dahulu
 
-Video promosi resmi Taman Nasional Yushan "Beruang Bertemu Manusia (Encounter a Formosan black bear)" merangkum kebiasaan ekologi, rentang distribusi, dan cara menghadapi beruang dalam sebuah film pendek yang cocok ditonton sebelum mendaki. Dibaca bersama dengan panduan teks, prinsip "jaga jarak" bisa berubah dari prinsip abstrak menjadi persiapan konkret sebelum masuk ke gunung. [^11]
+Video edukasi resmi yang dibuat oleh Dinas Pengelola Taman Nasional Yushan, 《Encounter a Formosan black bear》 (Bertemu Beruang Madu Taiwan), merangkum kebiasaan ekologis, rentang sebaran beruang hitam, dan cara menghadapi pertemuan dengan beruang dalam format pendek yang cocok ditonton sebelum mendaki. Ketika dibaca bersama panduan teks, hal ini mengubah "menjaga jarak" dari prinsip abstrak menjadi persiapan konkret sebelum masuk hutan.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Beruang Bertemu Manusia (Encounter a Formosan black bear) | Video promosi resmi Taman Nasional Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="熊熊遇見 Encounter a Formosan black bear｜玉山國家公園管理處官方宣導影片" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_ Video promosi resmi Taman Nasional Yushan: dari kebiasaan dan distribusi beruang, membahas cara mengurangi kontak yang tidak perlu antara manusia dan beruang sebelum memasuki gunung. _
+_Video edukasi resmi Dinas Pengelola Taman Nasional Yushan: membahas cara mengurangi kontak manusia dan beruang yang tidak perlu, berdasarkan kebiasaan dan sebaran beruang hitam._
 
-Panduan resmi Taman Nasional Yushan mengingatkan, beruang madu Taiwan biasanya waspada dan diskret, ketika menyadarikan kehadiran manusia biasanya akan menjauh. Bagi pendaki, persiapan yang paling praktis adalah menyimpan makanan sendiri, jangan biarkan menjadi alasan bagi beruang untuk mendekat. Saat meninggalkan gunung, sampah, sisa makanan, dan semua makanan harus dibawa pulang. [^3]
+Panduan resmi Taman Nasional Yushan mengingatkan bahwa beruang hitam Taiwan umumnya waspada dan pemalu; mereka biasanya akan pergi setelah mendeteksi keberadaan manusia. Bagi para pendaki, persiapan yang paling praktis adalah menyimpan makanan sendiri dengan baik, agar makanan tersebut tidak menjadi alasan bagi beruang untuk mendekati manusia. Saat meninggalkan area hutan, semua sampah, sisa makanan, dan segala jenis makanan harus dibawa keluar.[^3]
 
-Jika benar-benar melihat beruang, petugas menyarankan tetap tenang, diam, dan segera meninggalkan lokasi, jangan mengejar, tidak memberi makan, dan tidak mencoba mendekat untuk berfoto. Saat mendaki, bisa membawa lonceng beruang atau peluit untuk membuat suara, berkelompok, dan melaporkan kepada unit pengelola ketika melihat beruang atau jejaknya. Panduan asli Taman Nasional Yushan ditulis dengan jelas: "Jika melihat beruang, harap tetap tenang, diam, dan segera meninggalkan lokasi." [^3]
+Jika benar-benar melihat beruang hitam, pihak taman menyarankan untuk tetap tenang, diam, dan segera meninggalkan lokasi; tidak mengejar, tidak memberi makan, dan tidak mencoba mendekat untuk mengambil foto adalah garis dasar dari setiap panduan pertemuan dengan beruang. Saat mendaki, Anda dapat membawa lonceng atau peluit untuk membuat suara, berjalan dalam rombongan, dan melaporkan ke pihak pengelola jika melihat beruang atau jejak beruang di dekat lokasi. Teks asli Taman Nasional Yushan menyatakan dengan lugas: "Jika melihat beruang hitam, tetap tenang, diam, dan segera meninggalkan lokasi."[^3]
 
-Praktik-praktik ini membuat hutan tetap terbuka, dan menyimpan pertemuan dalam jarak yang singkat dan bisa mundur. Kepala Taman Nasional Wang Chenji mengatakan, tujuan konservasi telah "secara eksplisit beralih ke 'pencegahan dan pengelolaan yang seimbang'". [^10] Mengelola sumber makanan manusia biasanya lebih efektif dan lebih awal dibandingkan menunggu sampai beruang terbiasa menggelembungkan punggung.
+Praktik-praktik ini menjaga hutan tetap terbuka dan membuat pertemuan berlangsung dalam jarak yang singkat dan dapat ditinggalkan. Wang Cheng-chi, direktur Biro Taman Nasional, mengatakan bahwa tujuan konservasi telah "beralih secara jelas ke 'pencegahan dan manajemen yang seimbang'".[^10] Mengelola sumber makanan manusia biasanya lebih cepat dan lebih mudah berhasil daripada menunggu beruang terbiasa mencari ransum lalu menanganinya.
 
 ## Beruang Tidak Boleh Hanya Tersisa sebagai Karakter Lucu
 
@@ -200,40 +200,40 @@ Setiap metode memiliki kelemahan tersendiri, dan ketika digabungkan, baru cukup 
 > **📝 Catatan Kurator**
 > Data konservasi seperti suara-suara yang berbeda yang kembali dari gunung. Kamera melihat satu siluet, data genetik mengenali satu individu, pelacak meninggalkan jalur gerak. Tidak ada satu data pun yang bisa mewakili seluruh gunung, namun ketika mereka bertumpuk, jalur beruang yang tak terlihat pun perlahan terbentuk.
 
-## Sumber Foto
+## Sumber Gambar
 
-Artikel ini menggunakan 6 foto dengan lisensi terbuka bebas dari Wikimedia Commons, tidak mengunduh berkas foto, dan tidak salah menggunakan foto sebag bukti individu atau distribusi geografis di Taiwan. Lisensi dan sumber setiap foto adalah sebagai berikut.
+Artikel ini menggunakan 6 gambar bebas atau berlisensi terbuka dari Wikimedia Commons, dan gambar tersebut tidak disalahartikan sebagai bukti individu liar atau sebaran geografis di Taiwan. Lisensi dan sumber setiap gambar adalah sebagai berikut:
 
-- **Beruang Madu Taiwan di lingkungan perawatan buatan**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Beruang Madu Taiwan di Kebun Binatang Shoushan**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, sesuai Government Website Open Information Announcement kebun binatang Shoushan, digunakan terbuka, harus mencantumkan sumber. Hotlink: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Ilustrasi beruang madu Taiwan**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Lin Huiqiu Chofy, CC BY 4.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Foto beruang madu Taiwan**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Foto beruang madu Taiwan yang sedang menyusu anaknya**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Foto pameran beruang madu di Pusat Pengunjung Nanzih**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Sudah dimasukkan ke dalam proyek: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Beruang Hitam Formosa dalam Lingkungan Buatan**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. URL langsung: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Beruang Hitam Formosa di Kebun Binatang Shoushan**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, bebas digunakan berdasarkan Pengumuman Informasi Terbuka Situs Web Pemerintah Kebun Binatang Shoushan, dengan mencantumkan sumber. URL langsung: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Ilustrasi Beruang Hitam Taiwan**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design／林慧秋 Chofy Lin, CC BY 4.0. URL langsung: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Foto Beruang Hitam Formosa**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. URL langsung: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Foto Anak Beruang Hitam Formosa Menyusu**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. URL langsung: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Foto Pameran Beruang Hitam Taiwan di Pusat Pengunjung Na'an**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — 舟集 Toadboat, CC BY-SA 4.0. Sudah dimasukkan ke proyek: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## Referensi
 
-[^1]: [Taiwan Menuju Negara yang Memiliki Beruang, Berkomitmen pada Koekistensi Manusia-Beruang](https://www.forest.gov.tw/news/0076122) — Departemen Kehutanan dan Perlindungan Alam Sekitar, Kementerian Pertanian, 16 Mei 2025. Menyediakan 2.034 catatan temuan dari 2011 hingga 2025, perubahan distribusi wilayah administratif, tren elevasi, pemulihan hutan, dan kebijakan koekistensi manusia-beruang.
+[^1]: [Taiwan Memasuki Negara Beruang dan Mendedikasikan Diri untuk Koeksistensi Manusia-Beruang](https://www.forest.gov.tw/news/0076122) — Badan Kehutanan dan Konservasi Alam Kementerian Pertanian, 2025-05-16. Menyediakan 2.034 catatan penemuan dari tahun 2011–2025, perubahan distribusi administratif, tren ketinggian, restorasi hutan, dan kebijakan koeksistensi manusia-beruang.
 
-[^2]: [Edukasi Beruang Madu Taiwan](https://www.ysnp.gov.tw/StaticPage/Science) — Kantor Taman Nasional Yushan, Kementerian Dalam Negeri. Menyediakan informasi taksonomi, morfologi, elevasi distribusi, reproduksi, makanan, aktivitas sepanjang tahun, dan rentang aktivitas.
+[^2]: [Pengetahuan Umum Beruang Hitam Taiwan](https://www.ysnp.gov.tw/StaticPage/Science) — Manajemen Taman Nasional Gunung Yushan, Badan Taman Nasional Kementerian Dalam Negeri. Menyediakan data klasifikasi, penampilan fisik, ketinggian sebaran, reproduksi, pola makan, aktivitas sepanjang tahun, dan area aktivitas.
 
-[^3]: [Bersama Beruang](https://www.ysnp.gov.tw/StaticPage/Coexist) — Kantor Taman Nasional Yushan, Kementerian Dalam Negeri. Menyediakan panduan resmi tentang cara menghadapi beruang, pengelolaan makanan, berkumpul dalam kelompok, melaporkan, dan mengenali jejak beruang.
+[^3]: [Hidup Bersama Beruang](https://www.ysnp.gov.tw/StaticPage/Coexist) — Manajemen Taman Nasional Gunung Yushan, Badan Taman Nasional Kementerian Dalam Negeri. Menyediakan panduan resmi mengenai pertemuan dengan beruang, manajemen makanan, pendampingan, pelaporan, dan identifikasi jejak beruang.
 
-[^4]: [Departemen Kehutanan Memperkirakan Sekitar 1.200 Ekor Beruang Madu Taiwan, Akan Membangun Pusat Penyimpanan Jangka Panjang](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central Daily News, 23 Maret 2026. Melaporkan perkiraan awal 1.200 ekor, keterbatasan representatif data, kemungkinan koreksi selanjutnya, dan rencana pusat penyimpanan jangka panjang.
+[^4]: [Estimasi Awal Beruang Hitam Taiwan Sekitar 1200 Ekor; Pusat Penampungan Jangka Panjang Akan Dibangun](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, 23 Maret 2026. Melaporkan estimasi awal sekitar 1.200 ekor, keterbatasan representasi data, kemungkinan koreksi di masa mendatang, dan perencanaan pusat penampungan jangka panjang.
 
-[^5]: [Pameran Digital Taman Nasional Taiwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Kementerian Dalam Negeri, Taman Nasional. Menggabungkan ekologi beruang madu Taiwan, proses riset sejak 1996, survei cedera 1998–2001, pengenalan genetik individu, dan promosi konservasi.
+[^5]: [Pameran Digital Koleksi Taman Nasional Taiwan Online](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Badan Taman Nasional Kementerian Dalam Negeri. Mengumpulkan ekologi beruang hitam Taiwan, sejarah penelitian sejak tahun 1996, survei cedera dari tahun 1998–2001, identifikasi individu genetik, dan promosi konservasi.
 
-[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Menyediakan data kotorak, jejak makan, dan studi wawancara dengan pemburu suku asli di Taman Nasional Yushan dari 1998 hingga 2000.
+[^6]: [Diet Beruang Hitam Asia di Taiwan, dengan Perbandingan Metodologis dan Geografis](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Menyediakan penelitian tentang pembuangan, jejak makan, dan wawancara pemburu adat di Taman Nasional Gunung Yushan dari tahun 1998–2000.
 
-[^7]: [Dampak Luka yang Disebabkan oleh Perangkap pada Pola Penggunaan Ruang Beruang Madu Asia yang Terancam di Taiwan](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue Universitas Michigan, 2024. Membandingkan rentang aktivitas, gerakan, dan pemilihan habitat antara 6 ekor beruang yang terluka dan 9 ekor sehat di Taman Nasional Yushan.
+[^7]: [Dampak Cedera Akibat Perangkap Jaring pada Penggunaan Ruang Beruang Hitam Asia yang Terancam Punah di Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue University of Michigan, 2024. Membandingkan area aktivitas, pergerakan, dan pilihan habitat antara 6 beruang yang terluka dan 9 beruang sehat di Taman Nasional Gunung Yushan.
 
-[^8]: [Modul 3: Jalan Pulang](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museum Ilmu Pengetahuan Alam Nasional, 2021. Menjelaskan proses perawatan, pelatihan alam, dan keterampilan hidup yang harus dipelajari oleh beruang anak Nanzih sebelum kembali ke alam liar.
+[^8]: [Unit Tiga: Jalan Pulang](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museum Sains Alam Nasional, 2021. Menjelaskan perawatan, pelatihan penjinakan (rehabilitasi), dan keterampilan hidup yang harus dipelajari oleh beruang kecil di Nan'an sebelum dilepaskan ke alam liar.
 
-[^9]: [Halaman Misi dan Tugas: Platform Aksi Konservasi Beruang Madu Taiwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Asosiasi Konservasi Beruang Madu Taiwan. Menggabungkan interaksi manusia-beruang, perdagangan ilegal, pengelolaan habitat, riset, pendidikan, pengembangan kemampuan, dan pembuatan kebijakan ke dalam satu kerangka konservasi.
+[^9]: [Halaman Misi dan Tugas: Pedoman Aksi Konservasi Beruang Hitam Taiwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Asosiasi Konservasi Beruang Hitam Taiwan. Mengumpulkan tujuan konservasi seperti interaksi manusia-beruang, perdagangan ilegal, pengelolaan habitat, penelitian, pendidikan, pengembangan kapasitas, dan legislasi kebijakan.
 
-[^10]: [Hanya untuk Ia Bisa Berjalan di Hutan dengan Tenang — 30 Tahun Taman Nasional Menjaga Jalan Pulang Beruang Madu Taiwan](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Kementerian Dalam Negeri, Taman Nasional, 2026. Menjelaskan integrasi tiga Taman Nasional pegunungan, koridor habitat, pengelolaan makanan, peringatan teknologi, dan partisipasi lokal.
+[^10]: [Hanya Agar Mereka Bisa Berjalan Bebas di Hutan: Taman Nasional Menjaga Jalan Pulang Beruang Hitam Taiwan Selama 30 Tahun](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Badan Taman Nasional Kementerian Dalam Negeri, 2026. Menjelaskan arah integrasi dari tiga taman nasional pegunungan tinggi, koridor habitat, manajemen makanan, peringatan teknologi, dan partisipasi lokal.
 
-[^11]: [Video Beruang Madu](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Kantor Taman Nasional Yushan, Kementerian Dalam Negeri. Halaman video resmi mencantumkan video "Beruang Bertemu Manusia (Encounter a Formosan black bear)" dan "Yushan Menyalakan Beruang", dengan konten mencakup kebiasaan ekologi, rentang distribusi, cara menghadapi, habitat hutan, dan riset konservasi.
+[^11]: [Video Beruang Hitam](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Manajemen Taman Nasional Gunung Yushan, Badan Taman Nasional Kementerian Dalam Negeri. Halaman video resmi mencantumkan video seperti 《Encounter a Formosan black bear》 dan 《Yushan Raising Bears》, yang mencakup kebiasaan ekologis, area sebaran, penanganan pertemuan dengan beruang, habitat hutan, dan penelitian konservasi.
 
 ## Bacaan Lanjutan
 
