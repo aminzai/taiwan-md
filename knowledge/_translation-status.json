@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T05:53:55+08:00",
-    "zhCommitHead": "f4f033dc1",
+    "lastUpdated": "2026-09-22T05:59:21+08:00",
+    "zhCommitHead": "ec1118f68",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1023,
+        "fresh": 1024,
         "stale": 44,
-        "metadata_stale": 40,
+        "metadata_stale": 39,
         "missing": 17,
         "orphan": 0
       },
@@ -133711,8 +133711,8 @@
           "sourceContentHash": "sha256:c6c5b08befa8584a",
           "sourceBodyHash": "sha256:65be42b8cac6c9ca",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "ec1118f6",
+          "translationLastModified": "2026-09-22T05:53:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 7699,
@@ -141609,8 +141609,8 @@
           "sourceContentHash": "sha256:7cca8a0f488ac56f",
           "sourceBodyHash": "sha256:a40f868b6fc53c66",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "ec1118f6",
+          "translationLastModified": "2026-09-22T05:53:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 9740,
@@ -154771,19 +154771,17 @@
         "vi": {
           "path": "vi/History/yingge-ceramics-old-street.md",
           "translatedFrom": "History/鶯歌陶瓷老街.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6023f24cf4042189",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 25941,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 27041,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/History/yingge-ceramics-old-street.md",
