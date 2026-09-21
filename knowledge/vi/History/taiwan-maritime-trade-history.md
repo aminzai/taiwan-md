@@ -1,15 +1,15 @@
 ---
-title: 'Lịch sử thương mại hải trường Đài Loan'
-description: 'Trong thời kỳ hải ngoại hoàng kim, Đài Loan từ trung tâm thương mại quốc tế đến hoàng quốc hải trường hải quân'
+title: 'Lịch sử thương mại biển Đài Loan'
+description: 'Đài Loan trong thời kỳ lụa thương mại: từ trung tâm thương mại quốc tế đến câu chuyện lên và rơi của vương quốc biển cướp'
 date: 2026-03-20
 category: 'History'
 tags:
   [
-    'thương mại hải trường',
-    'thời kỳ hải ngoại hoàng kim',
-    'thương mại quốc tế',
-    'hải quân',
-    'thành phố cảng',
+    'Thương mại biển',
+    'Thời kỳ lụa thương mại',
+    'Thương mại quốc tế',
+    'Cướp biển',
+    'Thành phố cảng',
   ]
 subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
@@ -18,107 +18,108 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 9
+curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-07-26T11:16:39+08:00'
+translatedAt: '2026-09-22T04:48:28+08:00'
 ---
 
-# Lịch sử thương mại hải trường Đài Loan
+# Lịch sử thương mại biển Đài Loan
 
-Trong thế kỷ 16 và 17, thời kỳ hải ngoại hoàng kim, Đài Loan không còn là hòn đảo nhỏ ở mép đất Dài Đông, mà là trục sắt quan trọng kết nối Trung Quốc, Nhật Bản, Đông Nam Á. Từ cơ sở thương mại quốc tế của Hà Lan, đến quyền hải hoàng của triều đại Zheng, Đài Loan từng là trung tâm thương mại một trong những nơi thịnh vượng nhất khu vực hải trường Dài Đông.
+Trong thời kỳ lụa thương mại thế giới ở thế kỷ 16 và 17, Đài Loan không phải là một hòn đảo bi marginal của Đông Á, mà là một nút giao thông thương mại quan trọng nối giữa Trung Quốc, Nhật Bản và Đông Nam Á. Từ cơ sở thương mại quốc tế của người Hà Lan, đến đế chế biển của triều đại Chính Tĩnh, Đài Loan từng là một trong những trung tâm thương mại sầm uất nhất vùng biển Đông Á.
 
-## Thời kỳ tiền sử: Gene hàng rào biển của văn hóa Nam Ô
+## Thời tiền sử: Di sản biển của nền văn hóa Đảo Nhiên
 
-Trước khi người Hà Lan đến, người bản địa Đài Loan đã thể hiện khả năng hải trường xuất sắc. Các phát hiện khảo cổ cho thấy, từ 3.000 năm trước, Đài Loan đã có mạng lưới thương mại của dụng cụ đá tinh xảo, sứ tượng, thậm chí lan tỏa đến Philippines, Việt Nam.
+Ngay cả trước khi người Hà Lan đặt chân đến, người bản địa Đài Loan đã thể hiện năng lực biển xuất xứ. Các phát hiện khảo cổ cho thấy, cách đây 3.000 năm, Đài Loan đã có mạng lưới thương mại đá chất lượng cao, gốm sứ, thậm chí lan tỏa đến Philippines và Việt Nam.
 
-Công nghệ làm thuyền khung gỗ của người Atayal phản ánh sự thấu hiểu sâu sắc về biển cả của người bản địa. Họ không chỉ biết làm thuyền mà còn phát triển hệ thống kiến thức hải trường phức hợp, bao gồm dòng chảy, mùa gió, di cư của đàn cá. Những gene văn hóa biển này đã đặt nền móng cho nền hạ tầng trở thành trung tâm thương mại của Đài Loan.
+Kỹ thuật chế tạo thuyền gỗ ghép của người Đảo Đài (Atayal) phản ánh sự hiểu biết sâu sắc của người bản địa về biển đông. Họ không chỉ biết đóng thuyền, mà còn phát triển một hệ thống tri thức biển phức tạp, bao gồm dòng chảy biển, mùa thuận, và lộ trình di cư của cá. Những di sản văn hóa biển này, đã đặt nền tảng cho sự trở thành trung tâm thương mại sau này của Đài Loan.
 
-## Thời kỳ Hà Lan: Tuổi vàng của thương mại khu vực Đông Á
+## Thời kỳ Hà Lan: Thời kỳ hoàng kim của thương mại Đông Á
 
-### Thành phố Batavia: Amsterdam của Đông Á
+### Thành cổ Hotrantraz: Amsterdam của Đông Á
 
-Năm 1624, Công ty Thương mại Đông Hà Lan (VOC) thành lập Batavia ở Tainan, biến Đài Loan thành trung tâm thương mại khu vực Đông Á. Hà Lan chọn Đài Loan không phải là hòa hẹn, mà là kết quả của việc cân nhắc kỹ lưỡng.
+Năm 1624, Công ty Đông Ấn Hà Lan đã thiết lập thành cổ Hotrantraz tại Thành phố Đông (Tây), biến Đài Loan thành trung tâm của mạng lưới thương mại Đông Á. Sự lựa chọn của người Hà Lan không phải là ngẫu nhiên, mà là kết quả của sự tính toán cẩn thận.
 
-Đài Loan nằm ở vị trí trung tâm của Trung Quốc, Nhật Bản, Đông Nam Á, có lợi thế địa lý tuyệt vời. Quan trọng hơn, triều đại Minh thực hành chính sách cấm hải, do đó người Trung Quốc không thể thương mại trực tiếp, phải qua ba nơi trung gian. Đài Loan trở thành trung tâm vận hành của nền kinh tế khổng lồ này.
+Đài Loan nằm ở vị trí trung tâm giữa Trung Quốc, Nhật Bản và Đông Nam Á, với lợi thế địa lý tuyệt vời. Điều quan trọng hơn, triều đình Minh đang thực thi chính sách cấm biển, khiến các thương gia Trung Quốc không thể thương mại trực tiếp, buộc phải đi qua khu vực thứ ba để chuyển tải hàng hóa. Đài Loan trở thành trung tâm vận hành của nền kinh tế ngầm khổng lồ này.
 
-Hà Lan đã xây dựng một hệ thống thương mại tỉ mỉ. Họ nhập khẩu từ Trung Quốc: sợi tơ sống, gốm sứ, trà; từ Nhật Bản: bạc liều; từ Đông Nam Á: gia vị, gỗ; sau đó tại Đài Loan thực hiện chế biến, đóng gói lại và chuyển giao. Kho của Batavia ngập tràn hàng giá trị từ khắp nơi.
+Người Hà Lan đã xây dựng một hệ thống thương mại tinh vi. Họ nhập khẩu tơ lụa, bát tràng, trà từ Trung Quốc; nhập khẩu tiền xu bạc từ Nhật Bản; nhập khẩu gia vị, gỗ quý từ Đông Nam Á, sau đó tại Đài Loan tiến hành chế biến, đóng gói và phân phối lại. Kho hàng của thành cổ Hotrantraz đầy ắp hàng hóa quý hiếm từ khắp nơi trên thế giới.
 
-### Sự nở rộ của vua đất sương
+### Sự trỗi của vương quốc đường
 
-Hà Lan không chỉ làm trung gian thương mại mà còn phát triển các ngành công nghiệp nơi đây. Họ phát hiện khí hậu Đài Loan rất thích hợp để trồng đừng, do đó mạnh mẽ đẩy mạnh nghiệp nghiệp này. Công nghệ làm đường tại Đài Loan được nâng cao dưới sự hướng dẫn của Hà Lan, sản phẩm đường chất lượng cao rất được thị trường Nhật Bản ưa chuộng.
+Người Hà Lan không chỉ làm kinh doanh chuyển tải, mà còn phát triển công nghiệp địa phương. Họ phát hiện ra khí hậu Đài Loan rất thích hợp để trồng mía, vì vậy đã thúc đẩy mạnh mẽ ngành đường. Kỹ thuật sản xuất đường ở Đài Loan dưới sự hướng dẫn của người Hà Lan nhanh chóng được nâng cao, sản phẩm đường thốt nhiên chất lượng cao được thị trường Nhật Bản ưa chuộng.
 
-Vào thập niên 1650, năm sản lượng đường tại Đài Loan đạt hàng trăm nghìn tấn, trở thành lưu vực sản xuất đường lớn nhất Đông Á. Mỗi ngày, các tàu đầy đường đừng khởi hành từ Cảng An Bang, đi đến Nhật Bản, Đông Nam Á. Ngành đường không chỉ mang lại phú quý mà còn thu hút một lượng lớn người Trung Quốc di cư, hình thành các khu đông anh nghiệp nghiệp sớm nhất của Đài Loan.
+Vào những năm 1650, sản lượng đường hàng năm của Đài Loan đạt hàng triệu cân, trở thành trung tâm sản xuất đường lớn nhất Đông Á. Cảng An Phong mỗi ngày đều có những con tàu chở đầy đường thốt nhiên rời bến, hướng tới Nhật Bản và các vùng miền Đông Nam Á. Ngành đường không chỉ mang lại giàu có, mà còn thu hút hàng loạt nhập cư Trung Quốc, tạo thành một trong những cụm công nghiệp sớm nhất của Đài Loan.
 
-## Thời kỳ Minh-Zheng: Vựa hải trường tối cao
+## Thời kỳ Minh-Tĩnh: Hoàng kim của vương quốc biển
 
-### Zheng Zhi Long: Người quan trọng của lịch sử thương mại hải trường Đài Loan
+### Thái Tử Long: Người sáng lập đế chế thương mại biển
 
-Con trai Zheng Success, Zheng Zhi Long, thực ra là một nhân vật quan trọng trong lịch sử thương mại hải trường Đài Loan. Gốc họ hải thương, ông sau khi bị triều đại Minh tuyển dụng, kiểm soát toàn bộ mạng lưới thương mại bờ đông của Trung Quốc.
+Cha của Thái Tử Long (Chính Tĩnh), Thái Tử Long, thực sự là một nhân vật then chốt trong lịch sử thương mại biển Đài Loan. Ông ban đầu là một thương gia biển, sau đó được triều đình Minh tuyển dụng, kiểm soát toàn bộ mạng lưới thương mại ven biển phía đông Trung Quốc.
 
-Đế quốc thương mại của Zheng Zhi Long khổng lồ, dưới sự quản lý có hàng nghìn tàu, mây ngàn thuyền thủy sản. Ông lập ra quy tắc thương mại hải trường, phát hành chứng nhận đi lại, thu phí bảo vệ. Bất kỳ tàu thương nào muốn duy trì hành trình trên bờ đông cũng phải có phép màu từ tập đoàn Zheng. Bộ hệ thống này dù nhìn giống "thu phí bảo vệ của hải quân" thực ra cung cấp một trật tự hải trường hiệu quả.
+Đế chế thương mại của Thái Tử Long thật sự rộng lớn, với hàng ngàn con tàu và hàng chục nghìn thuyền viên dưới sự quản lý của ông. Ông đã ban hành quy tắc thương mại biển, phát hành giấy phép thương mại, và thu thuế bảo vệ. Bất kỳ tàu thương nào muốn đi biển ven phía đông cũng phải xin phép từ tập đoàn Thái. Dù nghe có vẻ như "thu phí bảo vệ của bọn cướp biển", nhưng thực tế hệ thống này cảo bảo trật tự biển tốt.
 
-### Zheng Success: Cơ sở hải trường chống đánh đuổi Minh
+### Thái Tử Long: Cứơ sở biển cho cuộc cách mạng chống Thanh phục Minh
 
-Năm 1661, Zheng Success đánh tan Hà Lan, lập lại triều đại Minh-Zheng. Đối với ông, Đài Loan không chỉ là cơ sở chống đánh đuổi đảo, mà còn là nguồn năng lượng kinh tế để duy trì một quân đội lớn.
+Năm 1661, Thái Tử Long đã đuổi cục quyền lực Hà Lan ra khỏi Đài Loan, lập ra triều đại Minh-Tĩnh. Đối với ông, Đài Loan không chỉ là cứơ sở cho cuộc cách mạng chống Thanh phục Minh, mà còng là dòng chảy máu kinh tế nuôi dưỡng quân đội lớn.
 
-Chế độ Zheng tiếp tục truyền thống thương mại của thời kỳ Hà Lan, nhưng quy mô lớn hơn. Họ kiểm soát diện tích hải trường từ Đài Loan, Phú Quốc, Kiên Giang đến bờ đông Trung Quốc, tạo thành một quốc gia hải trường thực sự. Tàu binh của Zheng không chỉ làm thương mại mà còn cung cấp dịch vụ bảo vệ, vận chuyển, tài chính, gần như là người hùng hải trường của khu vực Dài Đông.
+Chính quyền Thái duy trì truyền thống thương mại từ thời kỳ Hà Lan, nhưng quy mô mở rộng hơn. Họ kiểm soát một khu vực biển rộng lớn từ Đài Loan, Phúc Kiến, Quảng Ninh cho đến bờ biển phía đông tỉnh Quảng Trị, tạo thành một thực sự là một vương quốc biển. Hải quan của Thái không chỉ làm kinh doanh thương mại, mà còn cung cấp dịch vụ bảo vệ, vận tải và tài chính, thực sự là người thống trị vùng biển Đông Á.
 
-### Vua đất sương: Venice của châu Á
+### Vương quốc Đông Ninh: Thành phố Hồng Kông của châu Á
 
-Thời kỳ Zheng chính là thời kỳ vàng của thương mại hải trường Minh-Zheng. Vua đất sương có thương mại chặt chẽ với Nhật Bản, Đông Nam Á, Nam Lục, thậm chí tới Ấn Độ Dương. Tainan trở thành Venice của châu Á, các vị quốc tế tụ tập, nhiều ngôn ngữ trội lên, tạo nên bức tranh quốc tế chưa từng có.
+Thời kỳ hoàng kim của thương mại biển Minh-Tĩnh là thời kỳ hoàng kim của vương quốc Đông Ninh. Vương quốc Đông Ninh duy trì mối quan hệ thương mại mật thiết với Nhật Bản, Đông Nam Á, và các quốc gia Nam Á, thậm chí lan tỏa đến vùng biển Ấn Độ. Thành phố Đông trở thành một Thành phố Hồng Kông của châu Á, nơi quây tôn hợp các thương gia quốc tế, ngôn ngữ xen kẽ, tạo nên một khung cảnh quốc tế chưa từng thấy.
 
-Chế độ Zheng còn phát hành tiền tệ riêng, xây dựng hệ thống thuế đầy đủ. Họ thu thuế trên hàng hoá thương mại, thu phí cảng cho tàu, thu nhập rất đáng kể. Theo như ghi chép, trong thời kỳ Minh-Zheng, thu ngân sách của Đài Loan đạt hàng trăm nghìn liang bạc, sức mạnh kinh tế không thể phải nhỏ bé.
+Chính quyền Thái cũng phát hành đồng tiền riêng, thiết lập một hệ thống thuế hoàn chỉnh. Họ thu thuế trên hàng hóa thương mại, thu phí cảng cho tàu thuyền, thu nhập rất lớn. Theo ghi chép, thời kỳ Minh-Tĩnh, ngân ngân sách của Đài Loan đạt hàng triệu đồng bạc trắng, sức mạnh kinh tế không thể bỏ qua.
 
-## Thời kỳ đại dương: Mạng lưới thương mại bị ngắt quãng
+## Thời kỳ Thanh: Sự cắt đứt của mạng lưới thương mại
 
-### Tác động của chính sách cấm hải
+### Tác động của chính sách chuyển đảo
 
-Năm 1683, quân đội đại dương chiếm Đài Loan, thi hành chính sách cấm hải nghiêm ngặt. Đại dương cho rằng thương mại hải trường của Đài Loan là hành vi "đi tiếp địch", phải kiểm soát chặt chẽ. Họ phá hủy các cảng ven biển, hạn chế tàu ra biển, cấm họ thương mại với người bản địa và các quốc gia khác.
+Năm 1683, khi quân Thanh chiếm lĩệt Đài Loan, họ áp dụng chính sách cấm biển nghiêm ngặt. Chính phủ Thanh coi hoạt động thương mại biển của Đài Loan là "hành vi hỗ trợ kẻ thù", phải kiểm soát chặt chẽ. Họ phá hủy cơ sở hạ tầng cảng kết, hạn chế tàu thuyền ra khơi, cấm giao thương dân sự với nước ngoài.
 
-Bộ chính sách này gây thiệt hại tàn khốc đối với Đài Loan. Các cảng thương mại từng thịnh vượng nhanh chóng suy yếu, các vị thương gia quốc tế rời đi, mạng lưới thương mại tan vỡ. Tainan chuyển từ trung tâm thương mại quốc tế thành thành phố xa xôi, Cảng An Bang từ khu vực đông đúc nghĩa bằng trở thành làng cạn khách.
+Chính sách này gây thiệt hại thảm khốc cho Đài Loan. Những cảng kết thịnh vượm nhanh chóng suy tàn, các thương gia quốc tế rời bỏ, mạng lưới thương mại sụp đổ. Thành phố Đông từ một trung tâm thương mại quốc tế trở thành một thị trấn hẻo lánh, cảng An Phong từ một khu vực sầm uất biến thành một ngôn viên du lịch vắng lặng.
 
-### Sự ong trùng của thương mại đi giấu
+### Sự bùng nổ của thương mại bí lật
 
-Nhưng chính sách cấm hải không thể ngắt hoàn toàn thương mại hải trường của Đài Loan. Các lợi ích kinh tế khổng lồ khiến các hoạt động đi giấu thương mại ngày càng phổ biến. Các cảng nhỏ nằm ven biển của Đài Loan xuất hiện, dùng để thương mại bất hợp pháp.
+Tuy nhiên, chính sách cấm biển không thể hoàn toàn cắt đứt hoạt động thương mại biển của Đài Loan. Nhờ lợi nhuận kinh tế khổng lồ, thương mại bí lật lại trở nên phong hành hơn. Dọc bờ biển Đài Loan xuất hiện hàng ngàn cảng nhỏ, chuyên nghiệp cho hoạt động thương mại bất hợp pháp.
 
-Cảng Lục, Tân Kinh, Gà Bông (Kiên Giang) trở thành các con đường chính của thương mại đi giấu. Các thương gia dùng đêm, sương mù để giao dịch, tránh kiểm tra của chính quyền. Dù quy mô nhỏ hơn, nhưng thương mại nền vẫn giữ được truyền thống thương mại hải trường của Đài Loan.
+Lộc Gia, Đan Bắc, Cê La (Đài Bắc) đều trở thành những tuyến đường thương mại bí lật. Các thương gia lợi dụng đêm trăng và sương mù để giao dịch, tránh sự truy quét của chính phủ. Dù quy mô nhỏ hơn, nhưng thương mại bí lật này vẫn duy trì truyền thống thương mại biển của Đài Loan.
 
-## Mở cửa và mở cửa: Trở lại sân chơi quốc tế
+## Mở cảng thương mại: Trở lại trên sân khấu quốc tế
 
-### Năm 1860: Cơ hội mới được ép buộc mở cửa
+### Năm 1860: Cơ hội mới trong việc mở cảng
 
-Sau khi ký kết Hiệp địng Tianjin năm 1860, Tân Kinh, An Bang, Kaohsiung, Kiên Giang bị ép buộc mở cửa. Dù là dưới áp lực của các bên ngoài, nhưng đối với Đài Loan, đây là cơ hội trở lại sân chơi thương mại quốc tế.
+Sau khi ký kết Điều ước Thiên Tân năm 1860, bốn cảng Đan Bắc, An Phong, Cao Hùng, Cê La bị buộc phải mở cửa. Dù là dưới áp lực nước ngoài, nhưng đối với Đài Loan, đây là cơ hội để trở lại sân khấu thương mại quốc tế.
 
-John Thornton, một nhà thương gia Anh tới thăm Đài Loan, thành lập doanh nghiệp xuất khẩu trà. Ông phát hiện chất lượng trà Oolong của Đài Loan xuất sắc, rất phù hợp để xuất khẩu. Với sự thúc đẩy của ông, trà của Đài Loan nhanh chóng xuất khẩu vào thị trường quốc tế, trở thành hàng hoá xuất khẩu quan trọng.
+Nhà thương mại Anh quốc, John Todd, tới Đại Đất Xanh, thiết lập doanh nghiệp xuất khẩu trà. Ông phát hiện ra chất lượng trà hoa của Đài Loan rất tốt, phù hợp cho xuất khẩu. Dưới sự thúc đẩy của ông, trà Đài Loan nhanh chóng xuyên thủng thị trường quốc tế, trở thành hàng xuất khẩu quan trọng.
 
-### Sự nở rộ của vua đất sương
+### Sự trỗi của vương quốc trầm hương
 
-Ngoài trà, đất sương của Đài Loan cũng trở thành hàng hoá "ăn mừng" trên thế giới. Đất sương là nguyên liệu chính để sản xuất thuốc nổ không khói và băng keo phim điện, nhu cầu rất lớn. Các khu rừng nguyên sinh của Đài Loan có tài nguyên đất sương phong phú, chất lượng tốt, nhanh chóng chiếm lĩnh thị trường đất sương thế giới.
+Ngoài trà, trầm hương của Đài Loan cũng trở nên cực kỳ được săn đón trên thị trường quốc tế. Trầm hương là nguyên liệu quan trọng để sản xuất thuốc nổ không khói và phim ảnh, nhu cầu rất lớn. Nguồn trầm hương của Đài Loan phong phú, chất lượng tốt, nhanh chóng chiếm lĩnh thị phần thế giới.
 
-Khi ngài Liu Ming truyền giáo giám mạng của Đài Loan, đất sương được đưa vào danh mục bán riêng. Chính phủ kiểm soát chặt chẽ thương mại đất sương, thu về lợi nhuận khổng lồ. Thu nhập từ đất sương trở thành nguồn tài chính quan trọng cho công tác hiện đại hóa của Đài Loan, dùng để xây dựng đường sắt, cảng biển, lắp đặt dây điện.
+Khi Lý Minh Truyền làm quan trưởng Đài Loan, ông đã đưa trầm hương vào danh mục hàng độc quyền. Chính phủ kiểm soát chặt chẽ thương mại trầm hương, thu được lợi nhuận lớn. Nguồn thu từ trầm hương trở thành nguồn tài chính quan trọng cho các dự án hiện đại hóa của Đài Loan, dùng để xây dựng đường sắt, cải thiện cảng kết, lắp đặt dây cáp điện.
 
-## Thời kỳ kiểm soát bằng Nhật Bản: Tuổi vàng của thương mại hải trường di tản
+## Thời kỳ thuộc địa Nhật: Thời kỳ hoàng kim của thương mại thuộc địa
 
-Sau khi Nhật Bản kiểm soát Đài Loan, Đài Loan được đưa vào khuôn khổ chính sách nam tiến của Nhật Bản. Đài Loan trở lại là trung tâm chuyển tiếp thương mại nối Nhật Bản và Đông Nam Á, nhưng lần này là trong khung hệ thống di tản.
+Sau khi Nhật Bản thống trị Đài Loan, họ đưa Đài Loan vào khuôn khổ của chính sách xuất khẩu Nam Á của mình. Đài Loan một lần nữa trở thành trung tâm giao thông thương mại giữa Nhật Bản và Đông Nam Á, nhưng lần này hoạt động trong khuôn khổ hệ thống thuộc địa.
 
-Cảng Kiên Giang, Kaohsiung được đầu tư phát triển bởi Nhật Bản, nhanh chóng hiện đại hoá, trở thành cảng sâu nước quan trọng của Dài Đông. Các ngành công nghiệp như đường và lúa mì của Đài Loan được đầu tư phát triển bởi vốn Nhật Bản, sản phẩm chủ yếu dùng cho nhân dân Nhật Bản và thị trường Nam Lục.
+Cảng Cê La, cảng Cao Hùng dưới sự vận hành của người Nhật nhanh chóng hiện đại hóa, trở thành những cảng sâu nước lớn quan trọng của Đông Á. Các ngành công nghiệp đường, gạo của Đài Loan dưới sự đầu tư vốn Nhật nhanh chóng phát triển mạnh, sản phẩm chủ yếu cung cấp cho Nhật Bản và các thị trường Nam Á.
 
-Mặc dù là thương mại di tản, nhưng về mặt thực tế, đã nâng cao khả năng kỹ thuật của cảng và khả năng thương mại của Đài Loan. Những công trình này đã đặt nền móng quan trọng cho phát triển kinh tế sau chiến tranh.
+Mặc dù là thương mại thuộc địa, nhưng thực tế nâng cao cơ sở hạ tầng cảng kết và năng lực thương mại của Đài Loan. Những công trình hạ tầng này đã đặt nền tảng quan trọng cho sự phát triển kinh tế sau chiến tranh của Đài Loan.
 
-## Bài học của thời kỳ hải trường Đài Loan ngày nay
+## Bài học hiện đại từ lịch sử thương mại biển Đài Loan
 
-Nhìn lên lịch sử thương mại hải trường của Đài Loan, chúng ta thấy một sự thật quan trọng: Đài Loan từng không phải là đảo đóng kín, mà là một quốc gia mở biển. Dù là thời kỳ thương mại quốc tế của Hà Lan, hay thời kỳ vua hải trường của Minh-Zheng, Đài Loan đã thể hiện khả năng hải trường vượt trội.
+Nhìn lại lịch sử thương mại biển Đài Loan, chúng ta thấy một sự thật quan trọng: Đài Loan từ chưa bao giờ là một hòn đảo kín đồng, mà là một quốc gia biển mở cửa. Dù là trung tâm thương mại quốc tế thời kỳ Hà Lan, hay vương quốc biển thời kỳ Minh-Tĩnh, Đài Loan luôn thể hiện năng lực biển xuất xứ.
 
-Ngày nay, Đài Loan vẫn là trục sắt quan trọng của khu vực Á Pacific, các cảng như Kaohsiung, Taipei, Kiên Giang tiếp nối truyền thống hải trường hàng trăm năm. Gen hàng rào biển của chúng ta vẫn còn, chỉ cần được tái thức.
+Ngày nay, Đài Loan vẫn là một nút giao thông thương mại quan trọng của khu vực Châu Á - Thái Lan, với các cảng lớn như cảng Cao Hùng, cảng Đài Bắc, cảng Cê La tiếp nối truyền thống biển hàng trăm năm. Di sản biển của chúng ta chưa bao giờ biến mất, chỉ cần được tỉi lại.
 
-Đối mặt với thách thức của thế kỷ 21, Đài Loan có lẽ nên suy nghĩ lại về bản sắc hải trường của mình. Chúng ta không chỉ là hòn đảo ở mép đất Trung Quốc, mà còn là cây cầu nối hai bờ của bán biển Pacific. Đó có lẽ là bài học quan trọng nhất từ lịch sử thương mại hải trường của Đài Loan.
+Đối mặt với thách thức của thế kỷ 21, Đài Loan nên cân nhắc lại bản sắc biển của mình. Chúng ta không chỉ là một hòn đảo ven biển của Trung Quốc, mà còn là cây cầu nối giữa hai bờ biển của Thái Lan Bắc. Đây chính là bài học quan trọng nhất từ lịch sử thương mại biển Đài Loan.
 
 ---
 
-Mở rộng đọc thêm:
+Tài liệu tham khảo:
 
-- [Thời kỳ Hà Lan-Zheng](/history/荷西明鄭時期)
-- [Thời kỳ đại dương](/history/清治時期)
-- [Địa hình bờ biển và đặc điểm thủy tự của Đài Loan](/geography/台灣海岸地形與海洋地景)
+- [Thời kỳ Minh-Tĩnh của phương Tây](/vi/history/dutch-spanish-and-koxinga-era)
+- [Thời kỳ Thanh](/vi/history/qing-dynasty-rule)
+- [Địa hình bờ biển Đài Loan và phong cảnh biển](/vi/geography/taiwan-coastal-landforms-and-seascapes)

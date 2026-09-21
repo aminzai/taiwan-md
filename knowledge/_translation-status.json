@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T06:48:42+08:00",
-    "zhCommitHead": "5faca082f",
+    "lastUpdated": "2026-09-22T07:32:22+08:00",
+    "zhCommitHead": "03a36e846",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1057,
-        "stale": 39,
+        "fresh": 1059,
+        "stale": 37,
         "metadata_stale": 6,
         "missing": 22,
         "orphan": 0
@@ -36,58 +36,58 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1053,
-        "stale": 46,
+        "fresh": 1055,
+        "stale": 44,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 64,
+        "fresh": 1038,
+        "stale": 62,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1046,
+        "fresh": 1048,
         "stale": 50,
         "metadata_stale": 9,
-        "missing": 19,
+        "missing": 17,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1025,
+        "fresh": 1027,
         "stale": 44,
-        "metadata_stale": 38,
+        "metadata_stale": 36,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 960,
+        "fresh": 961,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1015,
-        "stale": 53,
+        "fresh": 1016,
+        "stale": 52,
         "metadata_stale": 11,
         "missing": 45,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 963,
+        "fresh": 964,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1025,
-        "stale": 41,
+        "fresh": 1026,
+        "stale": 40,
         "metadata_stale": 9,
         "missing": 49,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 842,
+        "fresh": 843,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 267,
+        "missing": 266,
         "orphan": 0
       }
     },
@@ -3692,19 +3692,17 @@
         "ko": {
           "path": "ko/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-14T00:51:45+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-22T04:48:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 15876,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 16481,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/megaport-festival.md",
@@ -5146,8 +5144,8 @@
           "sourceContentHash": "sha256:4ae0b9c19401a360",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T20:49:49.470764+00:00",
-          "translationLastCommit": "d6ea86f0",
-          "translationLastModified": "2026-09-22T01:05:30+08:00",
+          "translationLastCommit": "8fd5beb0",
+          "translationLastModified": "2026-09-22T06:48:43+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 44401,
@@ -40463,19 +40461,17 @@
         "es": {
           "path": "es/Art/taiwanese-architecture.md",
           "translatedFrom": "Art/台灣建築.md",
-          "sourceCommitSha": "eac12cd9",
-          "sourceContentHash": "sha256:211251c042500a3e",
-          "sourceBodyHash": "sha256:41c2c3ee5e118612",
-          "translatedAt": "2026-07-03T16:37:27Z",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:af80f0616e9c061e",
+          "sourceBodyHash": "sha256:a2382584d5d27df7",
+          "translatedAt": "2026-09-21T23:04:00.981117+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 30026,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 30080,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/taiwanese-architecture.md",
@@ -50022,17 +50018,17 @@
         "ru": {
           "path": "ru/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "25b97c085",
-          "sourceContentHash": "sha256:cfeed87bcc86a207",
-          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
-          "translatedAt": "2026-09-08T00:42:58+08:00",
+          "sourceCommitSha": "c0061c6df",
+          "sourceContentHash": "sha256:62a0444682031043",
+          "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
           "translationLastCommit": "65067dfe",
           "translationLastModified": "2026-09-08T14:32:59+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 57473,
-          "status": "stale",
-          "reason": "footnote-loss (26→21)"
+          "footnoteDefs": 26,
+          "bytes": 66006,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/mascot-culture-in-taiwan.md",
@@ -100889,7 +100885,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-09-22T04:48:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 32705,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138202,8 +138210,8 @@
           "sourceContentHash": "sha256:86820d44ddf9a31a",
           "sourceBodyHash": "sha256:d37208c6e0c05c9c",
           "translatedAt": "2026-09-22T04:48:26+08:00",
-          "translationLastCommit": "d6ea86f0",
-          "translationLastModified": "2026-09-22T01:05:30+08:00",
+          "translationLastCommit": "8fd5beb0",
+          "translationLastModified": "2026-09-22T06:48:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 18913,
@@ -140434,19 +140442,17 @@
         "en": {
           "path": "en/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-22T04:48:26+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13201,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 14918,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-rice-cuisine-culture.md",
@@ -140468,19 +140474,17 @@
         "ko": {
           "path": "ko/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-04-14T04:09:26+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-22T04:48:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14588,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 13937,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-rice-cuisine-culture.md",
@@ -142118,19 +142122,17 @@
         "en": {
           "path": "en/Food/taiwanese-ice-cream-culture.md",
           "translatedFrom": "Food/台灣冰品文化.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:4dac67a4f3297b76",
-          "sourceBodyHash": "sha256:aae5f010fab3924f",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-22T04:48:26+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 13444,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 13644,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwanese-ice-cream-culture.md",
@@ -163751,19 +163753,17 @@
         "vi": {
           "path": "vi/History/taiwan-maritime-trade-history.md",
           "translatedFrom": "History/台灣海洋貿易史.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:3828ee010a982636",
           "sourceBodyHash": "sha256:1b234f51be7edbb9",
-          "translatedAt": "2026-07-26T11:16:39+08:00",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "4dc2cbd4",
           "translationLastModified": "2026-07-26T13:02:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13080,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 13963,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-maritime-trade-history.md",
@@ -165729,19 +165729,17 @@
         "vi": {
           "path": "vi/History/sanxia-old-street.md",
           "translatedFrom": "History/三峽老街.md",
-          "sourceCommitSha": "a43cf9153",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 12858,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 13626,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/sanxia-old-street.md",
@@ -165856,13 +165854,37 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 27710,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-22T04:48:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 25563,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -172945,17 +172967,17 @@
         "pt": {
           "path": "pt/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:2cef849f8ebc6df7",
-          "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-08-04T20:19:12+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:833f85e006d23e04",
+          "sourceBodyHash": "sha256:fa90458e0d20dada",
+          "translatedAt": "2026-09-22T04:48:30+08:00",
           "translationLastCommit": "d91d85f9",
           "translationLastModified": "2026-08-04T21:48:54+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 5765,
-          "status": "stale",
-          "reason": "footnote-loss (13→0)"
+          "footnoteDefs": 13,
+          "bytes": 19933,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/tadian-mountain.md",
@@ -188333,19 +188355,17 @@
         "es": {
           "path": "es/Culture/magazine.md",
           "translatedFrom": "Culture/雜誌.md",
-          "sourceCommitSha": "9b5cb286e",
-          "sourceContentHash": "sha256:9006089787032015",
-          "sourceBodyHash": "sha256:d3e99a5c4124d826",
-          "translatedAt": "2026-05-12T21:49:55+08:00",
+          "sourceCommitSha": "e0fa60041",
+          "sourceContentHash": "sha256:ee59ed48db607f3f",
+          "sourceBodyHash": "sha256:26d93e9626e6b86e",
+          "translatedAt": "2026-09-21T23:20:56.067490+00:00",
           "translationLastCommit": "09eee019",
           "translationLastModified": "2026-05-12T22:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 23403,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 23406,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/magazine.md",
@@ -199698,7 +199718,19 @@
           "diffSummary": "+10 -10"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
+          "translatedFrom": "Culture/台灣茶文化.md",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T22:37:24.593389+00:00",
+          "translationLastCommit": "89881c8f",
+          "translationLastModified": "2026-07-25T07:22:46+08:00",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 107568,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -205062,7 +205094,19 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 42527,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"

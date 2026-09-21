@@ -1,122 +1,123 @@
 ---
-title: 'Lịch sử khai thác rừng Đài Loan: Chuyển hướng thế kỷ từ khai thác tài nguyên đến an ninh quốc thổ'
-description: 'Từ khói sương tinh dầu camphor thời kỳ Thanh trị, đến tiếng reng rỉ ray thép thời kỳ Nhật trị, rồi đến kỷ nguyên khai thác gỗ hoành tráng rung chuyển non sông sau chiến tranh. Bài viết này xem xét logic địa chính trị toàn cầu đằng sau chính sách khai thác rừng Đài Loan, và làm rõ sự thật thực tế của trăm năm lâm nghiệp dựa trên dữ liệu.'
+title: 'Lịch sử phát triển rừng Đài Loan: Bước ngoặt thế kỷ từ khai thác tài nguyên đến an ninh quốc thổ'
+description: 'Từ cơn sốt nhựa thông thời Thanh triều, tiếng bánh răng thép vang vọng dưới thời Nhật trị, cho đến thời kỳ đốn gỗ dữ dội sau chiến tranh. Bài viết này hệ thống hóa logic địa chính trị toàn cầu đằng sau các chính sách lâm nghiệp Đài Loan và làm sáng tỏ sự thật của ngành lâm nghiệp một thế kỷ qua bằng số liệu.'
 date: 2026-03-25
 category: 'History'
 tags:
   [
-    'Chính sách lâm nghiệp',
-    'Đường sắt rừng',
-    'Dùng rừng nuôi chính',
-    'Camphor',
-    'Chính sách cấm khai thác',
-    'Quan điểm lịch sử thế giới',
-    'Địa chính trị',
+    'chính sách lâm nghiệp',
+    'đường sắt rừng',
+    'kinh tế dựa vào rừng',
+    'nhựa thông',
+    'chính sách cấm khai thác',
+    'góc nhìn lịch sử thế giới',
+    'địa chính trị',
   ]
-subcategory: 'Colonialism and Empire'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'History/台灣森林開發史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8069998f1aa354c8'
 sourceBodyHash: 'sha256:55bbc4efed5f30a9'
-translatedAt: '2026-07-25T07:55:51+08:00'
+translatedAt: '2026-09-22T04:48:28+08:00'
 ---
 
-> Ai đã lấy đi những khu rừng quý giá của chúng ta? Câu trả lời có thể khác với suy nghĩ của bạn.
-
----
-
-## Thời kỳ cuối Thanh: Châm ngòi Cách mạng Công nghiệp và Chế độ độc quyền Camphor
-
-Lịch sử khai thác rừng hiện đại của Đài Loan không bắt đầu từ khát khao gỗ, mà bắt đầu từ việc độc quyền "camphor".
-
-### Công nghiệp Xê-lu-lô toàn cầu và "Khai sơn phu phiền"
-
-Thế kỷ 19 giữa, phương Tây đang trải qua Cách mạng Công nghiệp lần thứ hai, sự ra đời của **Xê-lu-lô (Celluloid)** (nguyên liệu nhựa sơ khai) và **hỏa thuốc vô khói** khiến camphor trở thành vật tư chiến lược. Lúc bấy giờ Đài Loan cung cấp khoảng 70% camphor toàn cầu.
-
-- **Logic chính sách**: Để làm đầy kho bạc, triều Thanh thúc đẩy "Khai sơn phu phiền", bề ngoài là giáo hóa, thực chất là để thâm nhập vùng núi thiết lập "lò camphor".
-- **Ứng chứng lịch sử thế giới**: Điều này hợp nhịp với chủ nghĩa thực dân tài nguyên (Resource Colonialism) mà các cường quốc thời bấy giờ thực hiện trên toàn cầu để cướp đoạt các cây trồng đặc dụng.
-- **Tác động sâu xa**: Kỳ này khai thác rừng theo kiểu "cướp phá", dẫn đến rừng camphor nông núi bị chặt sạch, đồng thời cũng phá vỡ ranh giới sinh thái của đồng bào nguyên cư dân tộc thiểu số vùng núi, gây ra xung đột dân tộc kéo dài trăm năm.
+> Ai đã lấy đi những cánh rừng quý giá của chúng ta? Câu trả lời có thể không như bạn nghĩ.
 
 ---
 
-## Thời kỳ Nhật trị: Hiện đại hóa Đế quốc và Văn minh Ray Thép
+## Hậu kỳ Thanh triều: Mồi lửa Cách mạng Công nghiệp và độc quyền nhựa thông
 
-1895, sau khi Nhật Bản nhận Đài Loan, chính sách lâm nghiệp chuyển từ "cướp phá vùng biên" sang "hệ thống quan doanh".
+Sự phát triển lâm nghiệp hiện đại ở Đài Loan không bắt đầu từ nhu cầu gỗ, mà bắt đầu từ sự độc quyền đối với "nhựa thông".
 
-### Chiến lược Đế quốc và Ba trại lâm quan doanh lớn
+### Ngành công nghiệp Celluloid toàn cầu và việc khai phá bản đồ
 
-Sau Duy Tân Minh Trị, Nhật Bản hiện đại hóa cần lượng lớn gỗ chất lượng cao, mà rừng thông sơn (hinoki) sâu trong núi Đài Loan chính là vật liệu cơ sở hạ tầng tốt nhất trong mắt Đế quốc.
+Vào giữa thế kỷ 19, phương Tây đang trải qua cuộc Cách mạng Công nghiệp lần thứ hai. Việc phát minh ra **Celluloid** (nguyên liệu nhựa sơ khai) và **thuốc súng không khói** đã biến nhựa thông thành một vật tư chiến lược. Vào thời điểm đó, Đài Loan cung cấp khoảng 70% lượng nhựa thông toàn cầu.
 
-- **Suy luận kỹ thuật**: Chính phủ Nhật Bản sẵn sàng đầu tư khổng lồ xây ba tuyến đường sắt rừng **A Li Sơn, Thái Bình Sơn, Bát Tiên Sơn**, vì họ視 Đài Loan là lãnh thổ vĩnh viễn, theo đuổi "kinh doanh dài hạn".
-- **Chi tiết kỹ thuật đường sắt rừng**: Dẫn nhập đầu máy hơi **Shay bánh răng che** của Mỹ, công nghệ xy lanh đứng và truyền động bánh răng che nhằm khắc phục độ dốc cực lớn và địa hình đứt gãy của dãy núi Đài Loan.
-- **Góc nhìn lịch sử thế giới**: Điều này phản ánh tham vọng xây dựng "lâm nghiệp Đế quốc" bắt chước các cường quốc phương Tây của Đại Nhật Đế quốc đầu thế kỷ 20, dùng gỗ thông sơn Đài Loan xây đền thờ (như Đền Minh Trị) và hạm quân, biểu tượng cho tính hợp pháp và quyền lực của chính quyền.
+- **Logic chính sách**: Triều đình Thanh triều thúc đẩy việc "khai sơn phủ phiên" (mở núi và thu thuế) nhằm làm giàu kho bạc; bề ngoài là giáo hóa, thực chất là để thiết lập các "nhiệm vụ sản xuất nhựa thông" sâu trong vùng núi.
+- **Minh chứng lịch sử thế giới**: Điều này hoàn toàn phù hợp với chủ nghĩa thực dân khai thác tài nguyên đặc biệt của các cường quốc thời bấy giờ trên phạm vi toàn cầu (Resource Colonialism).
+- **Ảnh hưởng sâu xa**: Việc phát triển rừng trong giai đoạn này mang tính "cướp đoạt", dẫn đến việc các khu rừng thông núi thấp bị đốn sạch, đồng thời phá vỡ ranh giới sinh thái của người bản địa vùng núi, gây ra xung đột sắc tộc kéo dài hàng trăm năm.
 
 ---
 
-## Chuyển型 sau chiến: Đảo lạnh Chiến tranh Lạnh và "Dùng rừng nuôi chính"
+## Thời kỳ Nhật trị: Hiện đại hóa đế quốc và nền văn minh đường sắt thép
 
-Sau 1945, quyền lực thay đổi. Chính phủ Quốc dân đối mặt với局 diện hoàn toàn khác thời Nhật trị, khiến số phận rừng xảy ra chuyển gãy kịch liệt.
+Sau khi Nhật Bản cai quản Đài Loan vào năm 1895, chính sách lâm nghiệp chuyển từ "khai thác biên viễn" sang "hệ thống hóa do quan phủ quản lý".
 
-### Ngân sách viện trợ Mỹ cạn kiệt và Tính cấp bách sinh tồn
+### Chiến lược đế quốc và ba khu rừng lớn của quan phủ
 
-Những năm 1950–1960, Đài Loan bị đẩy lên tuyến đầu chiến tranh lạnh. Với việc viện trợ Mỹ kết thúc năm 1965, chính quyền cấp thiết tự籌 tài nguyên để duy trì chi tiêu quân sự khổng lồ.
+Việc xây dựng hiện đại sau Minh Trị Duy Tân của Nhật Bản đòi hỏi một lượng lớn gỗ chất lượng cao, và các cánh rừng gỗ tuyết tùng (Hinoki) sâu trong núi Đài Loan chính là vật liệu cơ sở hạ tầng tốt nhất trong mắt đế quốc.
 
-- **Động cơ chính sách**: Thúc đẩy chính sách sản nghiệp "Dùng nông lâm nuôi dưỡng công thương" (Diêu Hạc Niên, 1993),視 rừng như "máy rút tiền xanh". Lúc này tài nguyên rừng là hàng hóa đổi lấy ngoại tệ Mỹ.
-  - Năm 1956 mở rộng khai thác mười ba lâm khu, thi hành "Tam đa lâm chính": "nhiều trồng rừng, nhiều khai thác, nhiều nộp kho".
-  - Năm 1958 công bố Phương châm kinh doanh lâm nghiệp Đài Loan, chỉ đạo toàn tỉnh rừng tự nhiên trừ dành cho nghiên cứu, quan sát hoặc cảnh quan, thông sơn kỳ hạn thanh lý 80 năm, các loại khác 40 năm, theo kỳ cải tạo thành rừng trồng (Diêu Hạc Niên, 1993).
-- **Chuyển hướng kỹ thuật: Cách mạng đường rừng**: Để tối đa hóa lợi nhuận, chính phủ từ bỏ đường sắt đắt đỏ, chuyển sang **hệ thống đường rừng** phá hoại cực mạnh. Xe tải trọng lớn trực tiếp lao vào sâu rừng, không chỉ tốc độ khai thác kinh người, việc cắt xẻ đường không đúng kỹ thuật còn gây ra họa ngầm sạt lở đất trầm trọng cho hậu thế.
+- **Suy luận kỹ thuật**: Chính phủ Nhật Bản sẵn sàng đầu tư nguồn lực khổng lồ để xây dựng ba tuyến đường sắt lâm nghiệp lớn: **Alishan, Taiping và Baxian**. Lý do là họ coi Đài Loan là lãnh thổ vĩnh viễn và theo đuổi "quản lý dài hạn".
+- **Chi tiết kỹ thuật đường sắt**: Việc nhập khẩu đầu máy xe lửa sử dụng bánh răng cưa của Mỹ (Shay) với hệ thống xi lanh thẳng đứng và truyền động bằng bánh răng cưa, nhằm khắc phục độ dốc cực đoan và địa hình chia cắt của dãy núi Đài Loan.
+- **Quan điểm lịch sử thế giới**: Điều này phản ánh tham vọng của Đế quốc Nhật Bản đầu thế kỷ 20 trong việc mô phỏng các cường quốc phương Tây để xây dựng "lâm nghiệp đế quốc", sử dụng gỗ tuyết tùng Đài Loan để xây đền thờ (như Thần đạo Mạc Nhật) và đóng tàu chiến, tượng trưng cho tính hợp pháp và sức mạnh của chính quyền.
+
+---
+
+## Chuyển đổi sau chiến tranh: Hòn đảo cô lập trong Chiến tranh Lạnh và "Kinh tế dựa vào rừng"
+
+Sau năm 1945, chế độ đã thay đổi. Tình hình mà Chính phủ Quốc dân phải đối mặt hoàn toàn khác với thời Nhật trị, dẫn đến sự chuyển biến kịch liệt trong vận mệnh của rừng.
+
+### Cắt đứt viện trợ Mỹ và tính cấp bách sinh tồn
+
+Từ những năm 1950 đến 1960, Đài Loan bị đẩy ra tuyến đầu phòng thủ Chiến tranh Lạnh. Khi viện trợ Mỹ kết thúc vào năm 1965, chính quyền cần khẩn cấp tìm nguồn tài chính để duy trì chi tiêu quân sự khổng lồ.
+
+- **Động cơ chính sách**: Thúc đẩy chính sách công nghiệp "Phát triển nông lâm thành thương mại" (Yao He-nien, 1993), coi rừng là một "máy rút tiền xanh". Lúc này, tài nguyên rừng là hàng hóa để đổi lấy ngoại tệ Mỹ.
+  - Năm 1956, mở rộng khai thác mười ba khu rừng theo chính sách Tam Đa Lâm (trồng nhiều, đốn nhiều, nộp thuế nhiều) (Jiao Guo-mo, 1993).
+  - Năm 1958, ban hành Phương hướng quản lý lâm nghiệp Đài Loan, ra lệnh rằng đối với các rừng tự nhiên trên toàn tỉnh, nếu không được giữ lại cho mục đích nghiên cứu, quan sát hoặc cảnh quan, gỗ tuyết tùng phải được thanh toán trong vòng 80 năm và phần còn lại là 40 năm để cải tạo thành rừng nhân tạo (Yao He-nien, 1993).
+- **Chuyển đổi kỹ thuật: Cách mạng đường lâm nghiệp**: Để tối đa hóa lợi nhuận, chính phủ từ bỏ hệ thống đường sắt đắt đỏ và thay thế bằng **"hệ thống đường lâm nghiệp"** có tính phá hủy cực cao. Xe tải lớn trực tiếp tiến vào sâu trong núi; không chỉ tốc độ khai thác kinh ngạc, mà việc cắt xẻ đường sá thiếu đúng mức còn gây ra nguy cơ sạt lở đất nghiêm trọng cho hậu thế.
 
 ### So sánh dữ liệu lịch sử
 
-- **Phân tích dữ liệu**: Theo thống kê Diêu Hạc Niên (1993), ba trại lâm quan doanh Nhật trị (A Li Sơn, Bát Tiên Sơn, Thái Bình Sơn) từ 1912–1945, diện tích khai thác cộng khoảng 18.432 ha, thể tích khai thác khoảng 6,63 triệu m³. Cần lưu ý con số này chỉ bao gồm quan doanh, chưa tính doanh nhân dân cùng kỳ, nên thực tế tổng khai thác cao hơn. Sau chiến 1946–1990, thể tích khai thác đạt 44,567 triệu m³, diện tích khai thác vượt 344.000 ha, gấp 6,7 lần con số quan doanh Nhật trị (Bành Quốc Động, 1989; Lâm vụ cục, 1991; trích dẫn từ Lâm Quốc Toàn, 1993).
-- **Khác biệt giải đọc**: Năm đỉnh điểm khai thác 1972, Tạp chí Lâm vụ cục (1997) ghi nhận 1,8 triệu m³, Tiêu Quốc Mô (1993) ước tính vượt 2 triệu m³. Cho thấy sử liệu lâm nghiệp kỷ nguyên khai thác lớn vẫn chờ công khai thêm và học thuật làm rõ (Lý Căn Chính, 2016). Nhưng mọi nguồn đều chỉ về một sự kiện.
-- **Suy luận thời đại**: Điều này phản ánh tư duy "phản công đại lục"視 Đài Loan là chỗ ở tạm, chiến lược hao mòn ngắn hạn, chứ không phải quy hoạch quốc thổ dài hạn. Nhưng "xử trí" của quan điểm sử học Quốc dân chính phủ在于: nó biến một cuộc khai thác tài nguyên quy mô lớn hơn, chi phí thấp hơn, thiếu bền vững hơn, thành một sử thi dân tộc về "sinh tồn" và "phát triển".
+- **Phân tích tài liệu**: Dựa trên thống kê của Yao He-nien (1993), ba khu rừng lớn do quan phủ quản lý thời Nhật trị (Alishan, Baxian, Taiping) đã khai thác tổng cộng khoảng 18.432 km² từ năm 1912 đến 1945, với khối lượng gỗ khoảng 6,63 triệu mét khối. Cần lưu ý rằng con số này chỉ bao gồm các khu rừng do quan phủ quản lý và chưa tính đến các đơn vị khai thác tư nhân cùng thời, do đó tổng sản lượng thực tế phải cao hơn con số này. Trong giai đoạn sau chiến tranh từ năm 1946 đến 1990, khối lượng gỗ thu được lên tới hơn 44,56 triệu mét khối, diện tích khai phá hơn 344 nghìn km², gấp khoảng 6,7 lần so với con số của quan phủ thời Nhật trị (Peng Guo-tong, 1989; Cục Lâm nghiệp, 1991; trích dẫn từ Lin Guo-quan, 1993).
+- **Giải thích sự khác biệt**: Trong năm cao điểm khai thác 1972, Tạp chí Cục Lâm nghiệp (1997) ghi nhận là 1,8 triệu mét khối, trong khi Jiao Guo-mo (1993) ước tính vượt quá 2 triệu mét khối. Điều này cho thấy lịch sử lâm nghiệp thời kỳ đốn gỗ lớn vẫn cần được công bố và làm rõ thêm bằng tài liệu học thuật (Li Gen-zheng, 2016). Tuy nhiên, các nguồn dữ liệu khác nhau đều dẫn đến cùng một câu chuyện.
+- **Suy luận thời đại**: Điều này phản ánh chiến lược tiêu hao ngắn hạn của chính quyền khi coi Đài Loan là nơi trú ngụ tạm thời trong tư duy "phản công đại lục", chứ không phải là quy hoạch quốc thổ dài hạn. Nhưng sự "xử lý" trong quan điểm lịch sử của Chính phủ Quốc dân là biến một cuộc khai thác tài nguyên quy mô lớn hơn, chi phí thấp hơn và thiếu tính bền vững hơn thành một bản anh hùng ca dân tộc về "sự sinh tồn" và "phát triển".
 
-### Đối lập nhị nguyên được kiến tạo
+### Sự đối lập nhị nguyên được định hình
 
-Trong vài chục năm qua, giáo dục và tuyên truyền Quốc dân chính phủ thành công xây dựng một công thức đối lập:
+Trong nhiều thập kỷ giáo dục và tuyên truyền, Chính phủ Quốc dân đã xây dựng thành công một công thức đối lập:
 
-- Thời Nhật trị = Cướp phá: Định nghĩa khai thác Nhật là "cướp tài nguyên thuộc địa phụng sự quốc mẫu", nhấn mạnh Thần mộc A Li Sơn bị chặt đi xây Đền Minh Trị, củng cố cảm xúc nạn nhân. Thời Nhật trị dùng đường sắt rừng, quỹ đạo cố định rõ ràng, những gốc "Thần mộc" tàn lưu ngày nay ở A Li Sơn phần lớn là di sản sau khai thác Nhật trị. Những di sản còn lại liên tục nhắc nhở người ta về khai thác năm xưa.
-- Thời sau chiến = Xây dựng: Gói gọn hành vi khai thác lớn trong nghĩa lý dân tộc "cơ địa phản công", "phát triển kinh tế", "an trí vinh chiến". Và chính phủ gắn liền khai thác lâm nghiệp với khai thông **Đông Tây Hoành Kont Công Lộ (Trung Hoành)**, hình thành sự kiện anh hùng của thời đại. Sau chiến dẫn nhập **hệ thống đường rừng** kiểu Mỹ (Forest Road), dùng xe tải trọng lớn thâm nhập vùng núi. Đường rừng mở nhanh, chi phí thấp, khai thác xong thường do sạt lở mà biến mất hoặc phong tỏa.
+- Thời kỳ Nhật trị = Cướp đoạt: Việc phát triển của Nhật Bản được định nghĩa là "giành tài nguyên thuộc địa để phụng sự mẫu quốc", nhấn mạnh việc cây thần Alishan bị đốn để xây Thần đạo Mạc Nhật, củng cố tâm lý nạn nhân. Các tuyến đường sắt lâm nghiệp thời Nhật trị có quỹ đạo cố định và dễ thấy; những gốc cây còn sót lại mà chúng ta nhìn thấy ở Alishan ngày nay phần lớn là do quá trình khai thác thời Nhật trị để lại. Những di sản còn sót lại này không ngừng nhắc nhở mọi người về sự phát triển của thời đó.
+- Thời kỳ sau chiến tranh = Xây dựng: Hành vi đốn gỗ được đóng gói dưới lý tưởng dân tộc cao cả của "cơ sở phục hồi", "phát triển kinh tế" và "an trí cựu binh". Hơn nữa, chính phủ đã gắn kết chặt chẽ việc phát triển lâm nghiệp với việc mở tuyến **Đường bộ Đông Tây xuyên lục địa (Trung Hoành)**, tạo nên một câu chuyện anh hùng của thời đại. Phát triển sau chiến tranh đã nhập khẩu **"hệ thống đường lâm nghiệp"** kiểu Mỹ (Forest Road), sử dụng xe tải hạng nặng để tiến sâu vào vùng núi. Việc mở đường lâm nghiệp nhanh chóng, chi phí thấp, và thường biến mất hoặc bị đóng lại do sạt lở sau khi khai thác xong.
 
-**Điểm gây hiểu lầm**: Điều này khiến đại chúng bỏ qua tính liên tục của kinh doanh lâm nghiệp. Thực tế, Lâm vụ cục đầu sau chiến gần như hoàn toàn kế thừa chế độ quan doanh và kỹ thuật Nhật trị, nhưng cường độ thực thi lại xa vượt trước đó.
-
----
-
-## Chuyển型 thế kỷ: Từ "Chinh phục" sang "Hòa giải"
-
-Từ những năm 1980, ý thức môi trường thức tỉnh toàn cầu, Đài Loan cũng trải qua các vận động công dân như "Cứu nhóm Thần mộc Tư Lan".
-
-- **Năm 1991 cấm khai thác toàn diện**: Đây là ranh mũi lâm sử Đài Loan. Chính phủ chính thức tuyên bố cấm hoàn toàn khai thác rừng tự nhiên, phương châm kinh doanh rừng từ "khai thác kinh tế" chuyển sang "an ninh quốc thổ".
-- **Ứng chứng bối cảnh Đông Á**: Điều này nhất quán với xu hướng những năm 1990 các nước Đông Á (như Trung Quốc, Thái Lan) sau khi trải qua lũ lụt lớn纷纷 thực hiện lệnh cấm khai thác.
-- **Tác động hậu thế**: Cấm khai thác khiến tỷ lệ tự cấp gỗ Đài Loan giảm dưới 1%, ngành công nghiệp cực kỳ phụ thuộc nhập khẩu. Điều này thúc đẩy ngày nay suy nghĩ lại điểm cân bằng giữa "khai thác rừng tư nhân" và "phát triển bền vững gỗ quốc sản".
+**Điểm gây hiểu lầm**: Điều này khiến công chúng bỏ qua tính liên tục của hoạt động quản lý lâm nghiệp. Trên thực tế, Cục Lâm nghiệp đầu thời kỳ sau chiến tranh gần như kế thừa hoàn toàn hệ thống và kỹ thuật của các khu rừng do quan phủ quản lý thời Nhật trị, nhưng cường độ thực thi lại vượt xa trước đó.
 
 ---
 
-## Tổng kết: Quỹ đạo thời đại khai thác rừng
+## Chuyển đổi thế kỷ: Từ "Chinh phục" sang "Hòa giải"
 
-Nhìn toàn bộ trục thời gian, rừng Đài Loan trải qua ba lần chuyển dịch định giá trị:
+Từ những năm 1980, ý thức về môi trường đã thức tỉnh trên phạm vi toàn cầu, và Đài Loan cũng trải qua các phong trào dân sự như "giải cứu quần thể cây thần Seiran".
 
-- **Trước thế kỷ 19**: Rừng là "hoang dã", là chướng ngại vật khai hoang.
-- **Đầu–giữa thế kỷ 20**: Rừng là "tài sản", là con bài đổi lấy quốc lực và đô la Mỹ.
-- **Thế kỷ 21**: Rừng là "nhà園", là hàng rào đàn hồi đệm chống khí hậu cực đoan.
+- **Cấm khai thác hoàn toàn năm 1991**: Đây là bước ngoặt trong lịch sử lâm nghiệp Đài Loan. Chính phủ chính thức tuyên bố cấm tuyệt đối việc đốn rừng tự nhiên, và phương hướng quản lý rừng chuyển từ "khai thác kinh tế" sang "an ninh quốc thổ".
+- **Minh chứng bối cảnh Đông Á**: Điều này phù hợp với xu hướng các nước Đông Á trong những năm 1990 (như Trung Quốc, Thái Lan) áp dụng lệnh cấm khai thác sau khi trải qua lũ lụt quy mô lớn.
+- **Ảnh hưởng hậu thế**: Việc cấm khai thác khiến tỷ lệ tự cung ứng gỗ của Đài Loan giảm xuống dưới 1%, ngành công nghiệp phụ thuộc cực độ vào nhập khẩu. Điều này thúc đẩy việc suy nghĩ lại về điểm cân bằng giữa "sử dụng rừng tư nhân" và "phát triển bền vững vật liệu trong nước" trong thời đại ngày nay.
 
-Ba trăm năm chính sách lâm nghiệp này, bản chất là sự biến thiên của định nghĩa "giá trị tự nhiên" bởi con người. Khi hôm nay chúng ta bước vào A Li Sơn, thấy được không chỉ phong cảnh, mà còn những vết tích khắc sâu trong vòng niên轮, về địa chính trị toàn cầu và sự giãy đẫ sinh tồn.
+---
+
+## Kết luận: Quỹ đạo phát triển rừng
+
+Nhìn trên toàn bộ dòng thời gian, rừng Đài Loan đã trải qua ba lần dịch chuyển định nghĩa giá trị:
+
+- **Trước thế kỷ 19**: Rừng là "hoang dã", là vật cản cho việc khai phá.
+- **Đầu và giữa thế kỷ 20**: Rừng là "tài sản", là con bài để đổi lấy sức mạnh quốc gia và ngoại tệ Mỹ.
+- **Thế kỷ 21**: Rừng là "quê hương", là rào cản khả năng phục hồi chống lại khí hậu khắc nghiệt.
+
+Các chính sách lâm nghiệp trong ba trăm năm qua, về bản chất, là sự biến đổi trong định nghĩa của nhân loại đối với "giá trị tự nhiên". Khi chúng ta bước vào Alishan ngày nay, điều chúng ta nhìn thấy không chỉ nên là cảnh đẹp, mà còn phải là những dấu vết sâu sắc được khắc ghi trong vòng cây, về cuộc đấu tranh sinh tồn và địa chính trị toàn cầu.
 
 ---
 
 ## Tài liệu tham khảo
 
-- Lý Căn Chính, 2016, 〈Kỷ nguyên khai thác lớn Đài Loan, đến tận cùng chặt bao nhiêu cây?〉，tạp chí Đại Nguyên Sơn Thùy Phong Hồ. 20 tháng 7 năm 2016. Địa chỉ: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
-- Lâm vụ cục tỉnh Đài Loan, 1997, 《Tạp chí Lâm vụ cục tỉnh Đài Loan》。Đài Bắc: Lâm vụ cục tỉnh Đài Loan.
-- Nông Truyền媒, 2019, 〈Nghe thân thế rừng, bật mí vẻ đẹp và bi tráng kỷ nguyên khai thác lớn Đài Loan〉，https://www.agriharvest.tw/archives/8214/。
-- Diêu Hạc Niên, 1993, 〈Lâm nghiệp thời Nhật chiếm〉，trang 9–30; 〈Lâm nghiệp đầu kỳ Quang phục〉，trang 31–64,收入 Ủy ban biên soạn Sử lâm Đài Loan Trung Hoa Dân Quốc編, 《Sử lâm Đài Loan Trung Hoa Dân Quốc》。Đài Bắc: Trung Hoa Lâm học hội.
-- Tiêu Quốc Mô, 1993, 〈Chính sách lâm nghiệp〉，trang 175–193,收入 《Sử lâm Đài Loan Trung Hoa Dân Quốc》。Đài Bắc: Trung Hoa Lâm học hội.
-- Lâm Quốc Toàn, 1993, 〈Quá khứ và hiện trạng tài nguyên rừng〉，trang 1–29,收入 Hạ Vũ Cửu, Vương Lập Chí, Kim Hằng Tiêu編, 《Kinh doanh bền vững tài nguyên rừng》。Đài Bắc: Lâm nghiệp thử nghiệm sở tỉnh Đài Loan.
-- Bành Quốc Động, 1989, 〈Vấn đề sinh thái đối mặt kinh doanh rừng Đài Loan〉，luận văn发表 tại "Kinh doanh rừng dưới vấn đề sinh thái"。Đài Bắc: Thử nghiệm sở Lâm nghiệp.
-- Lâm vụ cục, 1991, 《Thống kê lâm nghiệp tỉnh Đài Loan》。Đài Bắc: Lâm vụ cục.
+- Li Gen-zheng, 2016, 〈Đài Loan thời kỳ đốn gỗ lớn, rốt cuộc đã chặt bao nhiêu cây?〉, đăng trên trang web Hồ Thúy Phong Đại Nguyên. Ngày 20 tháng 7 năm 2016. http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
+- Cục Lâm nghiệp tỉnh Đài Loan, 1997, 《Tạp chí Cục Lâm nghiệp tỉnh Đài Loan》. Đài Bắc: Cục Lâm nghiệp tỉnh Đài Loan.
+- Truyền thông Nông nghiệp, 2019, 〈Lắng nghe thân thế của rừng, vén màn vẻ đẹp và sự thăng trầm của thời kỳ đốn gỗ lớn ở Đài Loan〉, https://www.agriharvest.tw/archives/8214/.
+- Yao He-nien, 1993, 〈Lâm nghiệp thời Nhật trị〉, tr. 9–30; 〈Lâm nghiệp đầu thời Quang phục〉, tr. 31–64, được biên soạn trong 《Tài liệu lâm nghiệp Đài Loan Trung Hoa Dân Quốc》, Đài Bắc: Hội Lâm học Trung Hoa.
+- Jiao Guo-mo, 1993, 〈Chính sách lâm nghiệp〉, tr. 175–193, được biên soạn trong 《Tài liệu lâm nghiệp Đài Loan Trung Hoa Dân Quốc》, Đài Bắc: Hội Lâm học Trung Hoa.
+- Lin Guo-quan, 1993, 〈Quá khứ và hiện trạng tài nguyên rừng〉, tr. 1–29, được biên soạn trong 《Quản lý bền vững tài nguyên rừng》 do Xia Yu-jiu, Wang Li-zhi và Jin Heng-biao biên tập, Đài Bắc: Viện Thử nghiệm Lâm nghiệp tỉnh Đài Loan.
+- Peng Guo-tong, 1989, 〈Các vấn đề sinh thái mà quản lý lâm nghiệp Đài Loan phải đối mặt〉, bài báo đăng trên "Quản lý rừng dưới các vấn đề sinh thái". Đài Bắc: Viện Thử nghiệm Lâm nghiệp.
+- Cục Lâm nghiệp, 1991, 《Thống kê lâm nghiệp tỉnh Đài Loan》. Đài Bắc: Cục Lâm nghiệp.
