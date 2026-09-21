@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-17T06:43:34+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T16:06:41.549852+00:00'
 ---
 
 # Formosan Black Bear
@@ -53,27 +53,27 @@ The figures related to the Formosan black bear are often presented together, yet
 > **📝 Curator's Note**
 > What is most needed in black bear conservation is knowing how each number was derived and what question it answers, rather than pursuing a single, seemingly precise figure. By honestly retaining uncertainty—even when the 1,200 estimate may still be revised up or down—the preliminary assessment can truly serve science.
 
-## A Bear That Doesn't Live in a Cave, Hidden Beneath the White V
+## The White V, Hiding a Bear That Doesn't Live in a Den
 
-The black fur, round ears, short tail, and yellow-white V-shaped or crescent markings on the chest of the Formosan black bear (_Ursus thibetanus formosanus_) make it unmistakable among Taiwan's bears. Adult individuals weigh about 60 to 150 kilograms and measure approximately 130 to 180 centimeters in length.[^2]
+The _Formosan black bear_ (_Ursus thibetanus formosanus_) is unmistakable in Taiwan thanks to its black fur, round ears, short tail, and the yellowish-white V-shape or crescent marking on its chest. Adults weigh roughly 60 to 150 kilograms and measure about 130 to 180 centimeters in length.[^2]
 
-It is not confined to a vague area called "deep mountains." Official records show appearances from altitudes as low as 300 meters up to 3,700 meters, though its primary distribution remains in the forests of the Central Mountain Range between 1,000 and 2,500 meters. This indicates that Formosan black bears require connected forest ecosystems for movement, foraging, and reproduction; the boundaries of a single protected area are far insufficient.[^2]
+It doesn't live only in the vaguely defined "mountain interior." Official records show it occurring from elevations of 300 meters up to 3,700 meters, with its main distribution still concentrated in the 1,000-to-2,500-meter forests of the Central Mountain Range. This means the Formosan black bear needs connected mountain forests so it can move, forage, and breed—single protected areas' boundaries are far from sufficient.[^2]
 
-Formosan black bears do not hibernate and may be active year-round. They do not have fixed dens, and activity increases during summer and autumn. In autumn and winter, when acorns mature, nocturnal activity may increase. Radio telemetry studies in Yushan National Park estimate the annual home range of an individual to be about 27 to 202 square kilometers.[^2] [^5]
+The Formosan black bear does not hibernate and may be active year-round. It has no fixed den, is primarily diurnal, and activity increases in summer and autumn. In autumn and winter, when fruits of the Fagaceae family ripen, nocturnal activity may increase as well. Radio-tracking studies in Yushan National Park estimate an individual's annual activity range at roughly 27 to 202 square kilometers.[^2] [^5]
 
-### How Many Cubs Are Born Each Year?
+### Only a Few Cubs Born Each Year
 
-The breeding season for Formosan black bears is generally from June to August. After mating, the embryo undergoes delayed implantation; mothers typically give birth from December to February of the following year, usually producing one to three cubs per litter.[^2]
+The Formosan black bear's breeding season runs from about June to August. After mating, the embryo undergoes delayed implantation, and females typically give birth from December to February of the following year, usually to one to three cubs. Cubs stay with their mother until the next breeding season before gradually leaving.[^2]
 
-Cubs must stay with their mother until the next breeding season before gradually dispersing. Due to the mother's fixed breeding cycle, the cubs must learn to forage, recognize dangers, and navigate the forest alongside her. Population recovery takes time. When research data shows an increase in records, researchers simultaneously examine reproductive age, cub survival rates, and individual identification across generations to determine if the increase is merely due to observation opportunity or genuine population continuity.[^2] [^4]
+Because females have a fixed breeding season, cubs must learn to forage, recognize danger, and navigate the forest while staying by their mother's side—population recovery takes time. When research data show increasing records, researchers simultaneously examine breeding age, cub survival, and individual identification across generations to determine whether the increase reflects greater observation opportunities or a population capable of sustaining itself.[^2] [^4]
 
-![A Formosan black bear in a captive environment, showing its physique and chest markings](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Formosan black bear in an artificial environment, showing body shape and chest marking](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_This photo is an image of the Formosan black bear in a captive setting, provided as a visual reference for morphology, long claws, and chest markings, and is not evidence of wild distribution. Image: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. The image has been archived in the project._
+_This photo is an artificial-environment image of a Formosan black bear, provided as a visual reference for body shape, claws, and chest marking—not as evidence of Taiwan's wild distribution. Photo: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Image archived in the project._
 
-![Illustration of the Formosan black bear with a white V marking on its chest](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Illustration of a Formosan black bear with a white V-shaped chest marking](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_This illustration depicts the physique and chest markings of the Formosan black bear and is not a photo of a wild individual. Image: SilverSea Design/Davidzdh, CC BY 4.0, Wikimedia Commons. The image has been archived in the project._
+_This illustration is meant to suggest the Formosan black bear's body shape and chest marking, not a wild individual. Illustration: SilverSea Design / Chofy Lin, CC BY 4.0, Wikimedia Commons. Image archived in the project._
 
 ## What They Eat Determines Where They Go
 
@@ -130,21 +130,21 @@ _This photo is from an exhibition record at the Nan'an Visitor Center, provided 
 
 _The official video from the Yushan National Park Management Office, "Yushan Bear Rearing," focuses on forest habitat and conservation research to explain why bears need continuous forests._
 
-## When Humans Meet Bears, First Put Away Human Temptations
+## When Encountering Bears, Put Away Human Bait First
 
-The official promotional video produced by the Yushan National Park management office, _Encounter a Formosan black bear_, condenses the ecological habits, distribution range, and encounter protocols of the Formosan black bear into a short clip suitable for viewing before hiking. Read alongside textual guidance, it transforms "maintaining distance" from an abstract principle into concrete preparation before entering the mountains.[^11]
+The official promotional video from the Yushan National Park Management Office, _Encounter a Formosan Black Bear_, condenses the black bear's ecology, habits, distribution, and encounter-response guidance into a short film suitable for viewing before hiking. Read alongside written instructions, it turns the abstract principle of "maintaining distance" into concrete preparation before entering the mountains.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Encounter a Formosan black bear | Official Promotional Video from Yushan National Park Management Office" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="熊熊遇見 Encounter a Formosan black bear｜玉山國家公園管理處官方宣導影片" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_The official promotional video from the Yushan National Park Management Office discusses how to reduce unnecessary human-bear contact based on bear habits and distribution._
+_Official promotional video from the Yushan National Park Management Office: discussing how to reduce unnecessary human-bear encounters before entering the mountains, based on black bear habits and distribution._
 
-Official guidelines from Yushan National Park remind visitors that Formosan black bears are typically wary and secretive, usually leaving after detecting humans. For hikers, the most practical preparation is to secure your food so it does not become a reason for bears to approach people. When leaving the mountain area, all garbage, kitchen waste, and food must be taken down.[^3]
+Yushan National Park's official guidance reminds visitors that Formosan black bears are typically alert and secretive, and usually leave once they detect human presence. For hikers, the most practical preparation is securing one's food and not letting it become a reason for bears to approach humans. When leaving the mountain area, all garbage, kitchen waste, and food must be packed out.[^3]
 
-If you do see a black bear, park staff advises remaining calm, staying quiet, and leaving the area quickly—do not chase, feed, or attempt to approach for photos. Hikers can carry bear bells or whistles to make noise, travel in groups, and report sightings or bear tracks to management units nearby. The original text from Yushan National Park is very direct: "If you see a black bear, remain calm, stay quiet, and leave the area quickly."[^3]
+If one does encounter a black bear, the park recommends staying calm, moving quietly and leaving the area as quickly as possible; do not chase, feed, or attempt to approach for photos — these are the common baseline of every bear encounter guide. When hiking, one can carry bear bells or whistles to make noise, travel in groups, and report sightings of bears or bear signs to the management unit as soon as possible. Yushan National Park's original text is direct: "If you see a black bear, please stay calm, leave quietly and quickly."[^3]
 
-These practices keep the forests open and limit encounters to brief, retreatable distances. Wang Cheng-qi, Director of the National Park Agency, stated that conservation goals have "clearly shifted toward 'prevention and management in tandem.'"[^10] Managing human food sources is often earlier and easier to achieve than waiting for bears to develop a habit of searching through backpacks.
+These practices keep the forest open and leave encounters at a brief, withdrawable distance. Yushan National Park Commission Director Wang Chen-mi states that conservation goals have clearly shifted toward "prevention and management in equal measure."[^10] Managing human food sources is usually more effective and earlier than trying to change bears' habits of rummaging through backpacks.
 
 ## Black Bears Cannot Be Just Cute Patterns
 
@@ -200,40 +200,40 @@ Different methods have blind spots; only when combined are they sufficient to su
 > **📝 Curator's Note**
 > Conservation data are like different voices transmitted from the mountains. The camera sees a silhouette, genetic data identifies an individual, and the tracker leaves a path of movement. No single type of data can represent the entire mountain alone, but when layered together, it slowly forms the unseen bear path.
 
-## Image Sources
+## Image Credits
 
-This article uses raw URLs of 6 freely or openly licensed images from Wikimedia Commons; the image files were not downloaded, nor were they misrepresented as wild individuals or geographical distributions in Taiwan. The licenses and sources for each image are as follows:
+This article uses 6 freely-licensed images from Wikimedia Commons. The images are not used as evidence of wild individuals or geographic distribution in Taiwan. Licensing and attribution details for each image are as follows.
 
-- **Formosan black bear in a captive environment**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Formosan black bear at Shoushan Zoo**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, used under the Open Information Announcement of the Shoushan Zoo Government Website, attribution required. Raw URL: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Illustration of the Formosan black bear**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design/Chofy Lin, CC BY 4.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Formosan black bear photo**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Formosan black bear suckling cubs photo**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Raw URL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Formosan black bear display at Nan'an Visitor Center**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Archived in project: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Formosan black bear in an artificial environment**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Direct link: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Formosan black bear at Shoushan Zoo**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, used under the Shoushan Zoo Government Website Open Information Announcement, source attribution required. Direct link: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Formosan black bear illustration**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design/Chofy Lin, CC BY 4.0. Direct link: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Formosan black bear photo**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Direct link: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Formosan black bear suckling cubs photo**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Direct link: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Formosan black bear display at Na'an Visitor Center**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Archived in project: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## References
 
-[^1]: [Taiwan Enters Bear Country, Committing to Human-Bear Coexistence](https://www.forest.gov.tw/news/0076122) — Forestry and Natural Resources Agency, Ministry of Agriculture, 2025-05-16. Provides the 2,034 discovery records from 2011–2025, changes in administrative area distribution, altitude trends, forest restoration, and human-bear coexistence policies.
+[^1]: [Taiwan Enters the Bear Country Era, Committed to Coexistence with Humans and Bears](https://www.forest.gov.tw/news/0076122) — Agriculture and Forestry Research and Nature Conservation, Ministry of Agriculture, May 16, 2025. Provides 2,034 records of sightings from 2011 to 2025, changes in administrative district distribution, altitude trends, forest restoration, and human-bear coexistence policies.
 
-[^2]: [Formosan Black Bear Popular Science](https://www.ysnp.gov.tw/StaticPage/Science) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. Provides classification, appearance, habitat altitude, breeding, diet, year-round activity, and home range data.
+[^2]: [Encyclopedia of the Formosan Black Bear](https://www.ysnp.gov.tw/StaticPage/Science) — Yushan National Park Administration, National Park Service, Ministry of the Interior. Provides information on classification, appearance, altitude distribution, reproduction, diet, year-round activity, and activity range.
 
-[^3]: [Coexisting with Bears](https://www.ysnp.gov.tw/StaticPage/Coexist) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. Provides official guidelines on bear encounters, food management, group travel, reporting, and tracking bear signs.
+[^3]: [Living with Bears](https://www.ysnp.gov.tw/StaticPage/Coexist) — Yushan National Park Administration, National Park Service, Ministry of the Interior. Provides official guidelines on encountering bears, food management, traveling with others, reporting incidents, and identifying bear signs.
 
-[^4]: [Forestry Agency Estimates 1,200 Formosan Black Bears, to Establish Long-Term Captive Center](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, 2026-03-23. Reports the preliminary estimate of about 1,200, limitations in data representation, potential subsequent revisions, and long-term captive center planning.
+[^4]: [Forestry and Nature Conservation Agency Estimates Approximately 1,200 Formosan Black Bears in Taiwan, Plans to Build Long-Term Care Center](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, March 23, 2026. Reports on the preliminary estimate of approximately 1,200 bears, limitations in data representativeness, potential future corrections, and long-term care center planning.
 
-[^5]: [Online Special Exhibition of Taiwan National Parks](https://npda.nps.gov.tw/Exhibition2/A/A30002) — National Parks Administration, Ministry of the Interior. Organizes the ecology of the Formosan black bear, research history since 1996, injury surveys from 1998–2001, genetic individual identification, and conservation promotion.
+[^5]: [Digital Archives of Taiwan's National Parks - Special Online Exhibition](https://npda.nps.gov.tw/Exhibition2/A/A30002) — National Park Service, Ministry of the Interior. Compiles information on the ecology of the Formosan black bear, research history since 1996, injury surveys from 1998 to 2001, genetic individual identification, and conservation promotion.
 
-[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Provides the study on scat, foraging traces, and interviews with Indigenous hunters from Yushan National Park between 1998–2000.
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Provides research on feces analysis, feeding traces, and interviews with indigenous hunters in Yushan National Park from 1998 to 2000.
 
-[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue University of Michigan, 2024. Compares the home range, movement, and habitat selection of 6 injured and 9 healthy Formosan black bears in Yushan National Park.
+[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue, University of Michigan, 2024. Compares activity ranges, movement patterns, and habitat selection between 6 injured and 9 healthy black bears in Yushan National Park.
 
-[^8]: [Unit Three: The Road Home](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — National Museum of Natural Science, 2021. Explains the care, rewilding training, and life skills that must be learned before returning to the wild for the Nan'an cubs.
+[^8]: [Unit 3: The Journey Home](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — National Museum of Natural Science, 2021. Explains the care of Nan'an cubs, wild training, and the life skills they need to learn before returning to the wild.
 
-[^9]: [Mission and Tasks Page: Formosan Black Bear Conservation Action Guidelines](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Formosan Black Bear Conservation Association. Organizes conservation goals including human-bear interaction, illegal trade, habitat management, research, education, capacity building, and legislative policy.
+[^9]: [Mission and Tasks: Conservation Action Plan for the Formosan Black Bear](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Formosan Black Bear Conservation Association. Compiles conservation goals including human-bear interactions, illegal trade, habitat management, research, education, capacity building, and policy legislation.
 
-[^10]: [Only So That They Can Roam the Forests Freely: 30 Years of National Park Protecting the Way Home for Taiwan's Black Bears](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — National Parks Administration, Ministry of the Interior, 2026. Explains the integrated approach involving three high-mountain national parks, habitat corridors, food management, technological early warning, and local participation.
+[^10]: [Only So That They May Roam Freely in the Mountains - National Parks' 30-Year Journey of Protecting the Formosan Black Bear](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — National Park Service, Ministry of the Interior, 2026. Explains the integration of three high-mountain national parks, habitat corridors, food management, technological early warning systems, and local participation.
 
-[^11]: [Bear Video](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Yushan National Park Management Office, National Parks Administration, Ministry of the Interior. The official video page lists videos such as _Encounter a Formosan black bear_ and _Yushan Bear Rearing_, covering ecological habits, distribution range, encounter response, forest habitat, and conservation research.
+[^11]: [Black Bear Videos](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Yushan National Park Administration, National Park Service, Ministry of the Interior. Official video page featuring videos such as "Encounter a Formosan Black Bear" and "Raising Cubs in Yushan," covering ecology, distribution range, bear encounter responses, forest habitats, and conservation research.
 
 ## Further Reading
 
