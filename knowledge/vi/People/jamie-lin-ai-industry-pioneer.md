@@ -24,7 +24,11 @@ image: '/article-images/people/lee-feng-chien-tsai-google-2019.webp'
 imageCredit: '總統府 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: "https://commons.wikimedia.org/wiki/File:Google_Taiwan_Branch_Engineering_Director_Lee-Feng_Chien_speaking_with_Taiwanese_President_Tsai_Ing-wen_upon_her_visit_at_Google's_office_at_Taipei_101_20190417.jpg"
-rationale: "{'why_this_hook': '從「他在 Google 來台灣以前就做了台灣的搜尋」切入，避免把簡立峰只寫成 Google 台灣的招牌人物，突顯他的技術根與對台灣主體性的關切。', 'whats_excluded': '未展開完整論文清單、Google 台灣歷年產品線細節、以及每一場演講的逐一時間線，保留給後續研究。', 'where_it_hedges': '退休時年齡、Google 台灣員工從「逾兩千」到「約三千」的成長口徑、「全國博碩士論文檢索系統」的先驅定位，皆採軟化語氣或標明來源。', 'whos_pushing_back': '認為 AI 時代人才焦慮被過度渲染、或不認同「新出海」論述的讀者，可能覺得他的警告太滿。'}"
+rationale:
+  why_this_hook: '從「他在 Google 來台灣以前就做了台灣的搜尋」切入，避免把簡立峰只寫成 Google 台灣的招牌人物，突顯他的技術根與對台灣主體性的關切。'
+  whats_excluded: '未展開完整論文清單、Google 台灣歷年產品線細節、以及每一場演講的逐一時間線，保留給後續研究。'
+  where_it_hedges: '退休時年齡、Google 台灣員工從「逾兩千」到「約三千」的成長口徑、「全國博碩士論文檢索系統」的先驅定位，皆採軟化語氣或標明來源。'
+  whos_pushing_back: '認為 AI 時代人才焦慮被過度渲染、或不認同「新出海」論述的讀者，可能覺得他的警告太滿。'
 translatedFrom: 'People/簡立峰.md'
 sourceCommitSha: '717a640b3'
 sourceContentHash: 'sha256:8fe13ae8a4b4ef0b'

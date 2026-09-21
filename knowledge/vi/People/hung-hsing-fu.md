@@ -11,7 +11,11 @@ lastVerified: 2026-09-13
 lastHumanReview: false
 readingTime: 18
 curation: 'incubating'
-rationale: "{'why_this_hook': '聚焦教師與作家雙重身分的抉擇，不寫成單向神話，著眼於台灣由農業轉向工商社會時，一個基層知識分子如何用具體的小人物骨氣回答「文學為誰而寫」', 'whats_excluded': '排除獎項流水帳、排除將車禍事故獵奇化的瑣碎細節、排除與同代作家的派系高下裁決', 'where_it_hedges': '平衡呈現鄉土文學思潮中其不喊口號的創作取向，客觀記述其早期現代主義摸索與成熟期農村寫實的風格轉化', 'whos_pushing_back': '戰後現代主義純文學觀點對鄉土寫實技巧的質疑、當代課本選文去脈絡化抒情閱讀帶來的詮釋偏誤'}"
+rationale:
+  why_this_hook: '聚焦教師與作家雙重身分的抉擇，不寫成單向神話，著眼於台灣由農業轉向工商社會時，一個基層知識分子如何用具體的小人物骨氣回答「文學為誰而寫」'
+  whats_excluded: '排除獎項流水帳、排除將車禍事故獵奇化的瑣碎細節、排除與同代作家的派系高下裁決'
+  where_it_hedges: '平衡呈現鄉土文學思潮中其不喊口號的創作取向，客觀記述其早期現代主義摸索與成熟期農村寫實的風格轉化'
+  whos_pushing_back: '戰後現代主義純文學觀點對鄉土寫實技巧的質疑、當代課本選文去脈絡化抒情閱讀帶來的詮釋偏誤'
 relatedDiary: ['2026-09-13-005513-pr1712-review']
 translatedFrom: 'People/洪醒夫.md'
 sourceCommitSha: 'e413aa732'

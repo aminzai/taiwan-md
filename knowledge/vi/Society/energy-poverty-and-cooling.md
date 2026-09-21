@@ -19,7 +19,12 @@ lastVerified: 2026-08-16
 lastHumanReview: false
 readingTime: 16
 curation: 'incubating'
-rationale: "{'why_this_hook': '以夏季高溫與老舊住宅為切口，說明能源貧窮如何同時發生在家庭帳單、家電效率、建築隔熱與健康風險。', 'whats_excluded': '不把單一調查的能源支出比例外推為全台能源貧窮人口，也不把地方補助案例寫成全台一致制度。', 'where_it_hedges': '對能源貧窮的全國規模、因果關係與政策成效採保守表述，區分已核對的官方資料、民間整理與本文政策建議。', 'whos_pushing_back': '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。', 'which_framing': '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'}"
+rationale:
+  why_this_hook: '以夏季高溫與老舊住宅為切口，說明能源貧窮如何同時發生在家庭帳單、家電效率、建築隔熱與健康風險。'
+  whats_excluded: '不把單一調查的能源支出比例外推為全台能源貧窮人口，也不把地方補助案例寫成全台一致制度。'
+  where_it_hedges: '對能源貧窮的全國規模、因果關係與政策成效採保守表述，區分已核對的官方資料、民間整理與本文政策建議。'
+  whos_pushing_back: '納入租屋者、低收入戶、長者、幼童、身心障礙者與地方執行者的觀點，並指出設備補助可能排除無前期資金或無施工權限的家庭。'
+  which_framing: '以居住熱安全與能源正義取代單純節電責任論，將住宅、社福、衛生、氣候調適與能源治理放在同一政策框架中。'
 translatedFrom: 'Society/冷氣與能源貧窮議題.md'
 sourceCommitSha: 'c2191ba3a'
 sourceContentHash: 'sha256:089b9a12e2ebe8d8'

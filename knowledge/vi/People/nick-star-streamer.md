@@ -16,7 +16,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-rationale: "{'why_this_hook': '以拳擊、直播與身分表態的交會，說明尼克星如何把不同內容格式變成同一種現場表演。', 'whats_excluded': '不把公開影片推論成完整傳記，也不把單一直播表態擴大成未經證實的整體政治立場。', 'where_it_hedges': '對人物背景、動機、觀看數變化與爭議責任，僅採用來源頁可直接驗證的敘述。', 'whos_pushing_back': '以新聞報導與創作者公開影片互相對照，保留平台流量、直播界線與觀眾反應帶來的反方問題。'}"
+rationale:
+  why_this_hook: '以拳擊、直播與身分表態的交會，說明尼克星如何把不同內容格式變成同一種現場表演。'
+  whats_excluded: '不把公開影片推論成完整傳記，也不把單一直播表態擴大成未經證實的整體政治立場。'
+  where_it_hedges: '對人物背景、動機、觀看數變化與爭議責任，僅採用來源頁可直接驗證的敘述。'
+  whos_pushing_back: '以新聞報導與創作者公開影片互相對照，保留平台流量、直播界線與觀眾反應帶來的反方問題。'
 readingTime: 8
 translatedFrom: 'People/尼克星.md'
 sourceCommitSha: 'b9ebab71d'

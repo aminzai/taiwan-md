@@ -10,7 +10,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '以綠線兩次安全挫折對照通車與運量，說明捷運如何成為城市信任的日常工程。', 'whats_excluded': '不重述全台捷運史，也不把未核定的遠期路網當成既成事實。', 'where_it_hedges': '房價、運量與路網影響只依已查到的研究與官方紀錄，不推論因果超過來源範圍。', 'whos_pushing_back': '支持道路優先或質疑單一路線效益的讀者，可從公車替代性與轉乘缺口檢驗本文觀點。'}"
+rationale:
+  why_this_hook: '以綠線兩次安全挫折對照通車與運量，說明捷運如何成為城市信任的日常工程。'
+  whats_excluded: '不重述全台捷運史，也不把未核定的遠期路網當成既成事實。'
+  where_it_hedges: '房價、運量與路網影響只依已查到的研究與官方紀錄，不推論因果超過來源範圍。'
+  whos_pushing_back: '支持道路優先或質疑單一路線效益的讀者，可從公車替代性與轉乘缺口檢驗本文觀點。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
