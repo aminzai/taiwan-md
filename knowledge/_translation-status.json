@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T15:40:24+08:00",
-    "zhCommitHead": "a613f724a",
+    "lastUpdated": "2026-09-21T16:27:54+08:00",
+    "zhCommitHead": "a4278b962",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 61,
+        "fresh": 1037,
+        "stale": 60,
         "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1011,
+        "fresh": 1012,
         "stale": 51,
         "metadata_stale": 10,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "de": {
@@ -16947,8 +16947,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T05:43:10.753263+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4278b96",
+          "translationLastModified": "2026-09-21T15:40:24+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "status": "fresh",
@@ -55518,7 +55518,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/poisoned-potato-cognitive-warfare-taiwan.md",
+          "translatedFrom": "Society/毒馬鈴薯認知作戰.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:9680a9c97c074b94",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T07:04:56.974807+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -86150,18 +86161,16 @@
         "ko": {
           "path": "ko/People/bernard-tseng.md",
           "translatedFrom": "People/曾博恩.md",
-          "sourceCommitSha": "86db85f3d",
-          "sourceContentHash": "sha256:47cec189b7c7bcfc",
-          "sourceBodyHash": "sha256:db17e32fed11eadc",
-          "translatedAt": "2026-05-16T05:07:55+08:00",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T07:28:32.700805+00:00",
           "translationLastCommit": "4f72f613",
           "translationLastModified": "2026-08-31T08:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/bernard-tseng.md",

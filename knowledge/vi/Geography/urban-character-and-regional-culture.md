@@ -1,319 +1,334 @@
 ---
-title: 'Đặc sắc đô thị và văn hóa vùng miền'
-description: 'Từ đô thị quốc tế Đài Bắc đến phong vị cố đô Đài Nam, các thành phố tại Đài Loan đã hình thành bản sắc địa phương độc đáo như thế nào'
+title: 'Đặc trưng đô thị và văn hóa khu vực'
+description: 'Từ trung tâm đô thị quốc tế ở Đài Bắc đến khí dĩ cổ kính ở Đài Nam, cách mà các thành phố khác nhau của Đài Loan tạo nên bản sắc địa phương độc đáo'
 date: 2026-03-18
 category: 'Geography'
 tags:
   [
-    'Thành phố',
-    'Văn hóa vùng miền',
-    'Đặc trưng địa phương',
-    'Phát triển đô thị',
-    'Địa lý văn hóa',
+    'đô thị',
+    'văn hóa khu vực',
+    'đặc trưng địa phương',
+    'phát triển đô thị',
+    'địa lý văn hóa',
   ]
-subcategory: 'Địa lý đô thị và nhân văn'
+subcategory: '城市與人文地理'
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Geography/城市特色與區域文化.md'
-sourceCommitSha: '2850f17bc'
-sourceContentHash: 'sha256:d85bf01115410778'
-sourceBodyHash: 'sha256:be641d09ea1153ea'
-translatedAt: '2026-07-24T15:52:20+08:00'
+sourceCommitSha: 'fe34418b1'
+sourceContentHash: 'sha256:7dadbaf276fb07ab'
+sourceBodyHash: 'sha256:755b0e65ac133cb0'
+translatedAt: '2026-09-21T00:58:30+08:00'
 ---
 
-# Đặc sắc đô thị và văn hóa vùng miền
+# Đặc trưng đô thị và văn hóa khu vực
 
-## Tổng quan trong 30 giây
+## 30 giây tổng quan
 
-Mặc dù Đài Loan có diện tích không lớn, nhưng mỗi thành phố đều phát triển những đặc trưng địa phương và cá tính văn hóa rõ nét. Đài Bắc là trung tâm chính trị - kinh tế và cửa ngõ quốc tế; Đài Trung là đô thị đáng sống và phát triển; Cao Hùng đang chuyển mình từ công nghiệp; Đài Nam mang phong thái cố đô; Đào Viên là cửa ngạch hàng không; Tân Trúc là trọng điểm công nghệ. Sự đa dạng đô thị này phản ánh điều kiện địa lý, tiến trình lịch sử và đặc thù ngành nghề của các vùng miền khác nhau tại Đài Loan, đồng thời hình thành nên lối sống và bản sắc văn hóa riêng biệt của người dân mỗi nơi.
+Dù Đài Loan có diện tích nhỏ, mỗi thành phố đều phát triển nên những đặc trưng địa phương và bản sắc văn hóa rõ nét. Đài Bắc là trung tâm chính trị kinh tế và cửa ngõ quốc tế; Đài Trung phát triển đời sống thoải mái; Hải Đăng chuyển đổi công nghiệp; Đài Nam giữ gìn phong cách cổ kính; Thượng Nguyên là cửa ngõ hàng không; Tân Trúc là trung tâm công nghệ. Sự đa dạng này phản ánh điều kiện địa lý, quá trình phát triển lịch sử và đặc thù ngành công nghiệp của từng vùng, đồng thời tạo nên lối sống và bản sắc văn hóa khác biệt ở mỗi nơi.
 
-Vào năm 2010, Đài Loan đã hoàn tất việc cải cách hệ thống sáu đô thị trực thuộc trung ương (Tân Bắc, Đài Trung, Đài Nam được nâng cấp lên thành thành phố trực thuộc trung ương), khiến hơn 70% dân số toàn đảo tập trung trong phạm vi quản lý của sáu đô thị này. Cấu trúc hành chính đô thị này có ảnh hưởng sâu sắc đến việc phân bổ nguồn lực và hệ sinh thái chính trị.
+Năm 2010, Đài Loan nâng cấp Tam Đại (Tân Bắc, Đài Trung, Đài Nam) và hợp nhất khu vực Hải Đăng thành "năm đại thành phố". Sau khi Thượng Nguyên nâng cấp năm 2014, sáu đại thành phố chính thức hình thành, với khoảng 70% dân số quê nhà tập trung trong phạm vi chúng. Cơ cấu hành chính đô thị ảnh hưởng sâu rộng tới phân bổ nguồn lực và sinh thái chính trị.
 
-Ngoài sáu đô thị lớn, Thành phố Khoa học Tân Trúc và trục du lịch Hoa - Đông cũng là những thành phần quan trọng trong bản đồ đặc sắc đô thị của Đài Loan.
+Ngoài sáu đại thành phố, khu kinh học Tân Trúc và trục du lịch miền Đông cũng là những thành phần quan trọng trong bản đồ đặc trưng đô thị của Đài Loan.
 
-## Tại sao điều này lại quan trọng
+## Vì sao điều này quan trọng
 
-Hiểu về đặc sắc đô thị của Đài Loan chính là hiểu về cấu trúc không gian và địa lý văn hóa của xã hội Đài Loan. Cá tính của mỗi thành phố là kết quả của sự tương tác giữa môi trường tự nhiên, cơ hội lịch sử và những lựa chọn nhân văn. Sự khác biệt vùng miền này tạo nên một sự đa dạng nội tại độc đáo trong một diện tích nhỏ, đồng thời là nền tảng cụ thể cho bản sắc địa phương và niềm tự hào văn hóa của người dân Đài Loan.
+Hiểu biết về đặc trưng đô thị của Đài Loan đồng nghĩa với việc hiểu rõ cấu trúc không gian xã hội và địa lý văn hóa của xã hội Đài Loan. Nhân cách mỗi thành phố đều là kết quả của môi trường tự nhiên, cơ hội lịch sử và lựa chọn con người. Sự khác biệt địa phương này giúp Đài Loan duy trì sự đa dạng nội tại độc đáo trên một mảnh đất nhỏ, đồng thời là nền tảng cụ thể cho bản sắc địa phương và niềm tự hào văn hóa của người dân Đài Loan.
 
-Các thành phố tại Đài Loan đảm nhận các vai trò khác nhau về vị thế chính trị (thủ đô Đài Bắc), chức năng công nghiệp (công nghệ tại Tân Tr</strong> Trúc, công nghiệp tại Đào Viên và Cao Hùng), và sự tích lũy văn hóa (cố đô Đài Nam), tạo thành một mạng lưới đô thị chặt chẽ về mặt địa lý nhưng phân tán về mặt chức năng.
+Các thành phố khác nhau của Đài Loan đóng vai trò riêng trong các lĩnh vực: trung tâm chính trị (Đài Bắc – thủ đô), chức năng công nghiệp (Tân Trúc – công nghệ, Thượng Nguyên – công nghiệp), và tích lũy văn hóa (Đài Nam – cổ kính). Điều này tạo thành một mạng lưới đô thị vừa gắn kết chặt chẽ về địa lý, vừa phân chia rõ rệt về chức năng.
 
-Đối với du khách nước ngoài, việc hiểu rõ đặc sắc của từng thành phố sẽ giúp lên kế hoạch cho những lộ trình du lịch sâu sắc hơn, cảm nhận được diện mạo đa chiều của xã hội Đài Loan.
+Đối với du khách quốc tế, nắm bắt đặc trưng khác biệt giữa các thành phố sẽ giúp lên kế hoạch hành trình du lịch phong phú hơn và cảm nhận được diện mạo đa chiều của xã hội Đài Loan[^3][^4]。
 
-## Miền Bắc Đài Loan: Vùng đô thị quốc tế
+## Khu vực Bắc Đài Loan: Khu vực đô thị quốc tế
 
-Miền Bắc Đài Loan bao gồm các thành phố như Đài Bắc, Tân Bắc, Đào Viên, Cơ Long, Tân Trúc..., với tổng dân số vượt quá 8 triệu người, chiếm hơn một phần ba dân số toàn đảo, là dải đô thị mật độ cao nhất Đài Loan. Vị thế trung tâm chính trị của Đài Bắc, sân bay quốc tế tại Đào Viên và khu khoa học tại Tân Trúc đã biến khu vực này thành cửa sổ kết nối chính của Đài Loan với thế giới.
+Khu vực Bắc Đài Loan bao gồm Đài Bắc, Tân Bắc, Thượng Nguyên, Cơ Liễn và Tân Trúc, với tổng dân số khoảng 10 triệu người, chiếm hơn 40% dân số toàn quốc[^1]，là khu vực đô thị dày đặc nhất của Đài Loan。Đài Bắc giữ vai trò trung tâm chính trị, sân bay quốc tế Thượng Nguyên và khu công nghệ Tân Trúc khiến khu vực này trở thành cửa ngõ chính cho liên kết bên ngoài của Đài Loan。
 
-Đóng góp GDP của miền Bắc chiếm khoảng 50% toàn đảo; các ngành tài chính, công nghệ và truyền thông quan trọng nhất của Đài Loan đều tập trung dọc theo hành lang này.
+Tất cả các ngành công nghiệp tài chính, công nghệ và truyền thông quan trọng nhất của Đài Loan đều tập trung dọc theo con hẻm này。
 
-### Thành phố Đài Bắc: Trung tâm Chính trị - Kinh tế - Văn hóa
+### Thành phố Đài Bắc: Trung tâm chính trị kinh tế văn hóa
 
-**Từ khóa:** Đô thị quốc tế, trung tâm chính trị, sáng tạo văn hóa, cuộc sống về đêm
-**Dân số:** Khoảng 2,6 triệu người (Trung tâm chính trị và văn hóa của Đài Loan. Quy mô dân số đứng sau Tân Bắc)[^1]
+**Từ khóa：** quốc tế hóa, trung tâm chính trị, sáng tạo văn hóa, đời sống đêm
+**Dân số：** khoảng 2,424,159 người (2026，trung tâm chính trị và văn hóa của Đài Loan。Quy mô dân số xếp thứ tư trong sáu đại thành phố, sau Tân Bắc, Đài Trung và Hải Đăng）[^1]
 
-Với tư cách là thủ đô của Trung Hoa Dân Quốc (Đài Loan), Đài Bắc là trung tâm chính trị, kinh tế, văn hóa và truyền thông của Đài Loan. Thành phố này vừa gìn giữ được chiều sâu văn hóa truyền thống, vừa đón nhận sự quốc tế hóa và hiện đại hóa với thái độ cởi mở.
+Đài Bắc, với tư cách là thủ đô của Trung Hoa Dân Quốc (Đài Loan), là trung tâm chính trị, kinh tế, văn hóa và truyền thông của Đài Loan。Thành phố vừa giữ gìn di sản văn hóa truyền thống, vừa đón nhận mở cửa tinh thần với quốc tế hóa và hiện đại hóa。
 
-**Cá tính đô thị:**
+**Bản sắc thành phố：**
 
-- **Nhịp sống nhanh:** Là thành phố quốc tế hóa nhất Đài Loan, nhịp sống tương đối hối hả.
-- **Văn hóa đa dạng:** Mật độ bảo tàng, nhà hát, triển lãng nghệ thuật cao, các hoạt động văn hóa phong phú.
-- **Cuộc sống về đêm sôi động:** Các chợ đêm, quán bar, hiệu sách và quán cà phê mở cửa 24 giờ.
-- **Giao thông thuận tiện:** Hệ thống tàu điện ngầm (MRT) phát triển; là thành phố duy nhất tại Đài Loan có hệ thống tàu điện ngầm.
+- **Sống động nhanh：** thành phố quốc tế hóa nhất của Đài Loan, nhịp sống nhanh
+- **Đa dạng văn hóa：** mật độ bảo tàng, nhà hát, phòng tranh nghệ thuật cao, hoạt động văn hóa phong phú
+- **Đời sống đêm sôi động：** chợ đêm, quán bar, cửa hàng sách và quán cà phê mở cửa 24 giờ
+- **Giao thông thuận tiện：** mạng lưới tàu điện ngầm dày đặc nhất toàn quốc, sáu tuyến chính cộng với tuyến tàu điện ngầm sân bay
 
-Quận Xinyi là hạt nhân thương mại tài chính hiện đại, với tòa tháp Taipei 101 (từng là tòa nhà cao nhất thế giới khi hoàn thành năm 2004) là biểu tượng. Ximending là trung tâm giải trí từ thời Nhật thuộc, nổi tiếng là nơi tụ họp của văn hóa giới trẻ và xu hướng thời trang, được mệnh danh là "Harajuku của Đài Bắc". Chợ đêm Sĩ Lâm (Shilin), phố Díhuà, phố Yǒngkāng mỗi nơi đại diện cho một khứu giác khác nhau: từ chợ đêm du lịch, phố hàng Tết truyền thống đến ẩm thực sáng tạo.
+Khu Tín (Xinyi) là trung tâm tài chính thương mại hiện đại, và Tò 101 Đài Bắc (khi hoàn thành năm 2004 là tòa nhà cao nhất thế giới) là biểu tượng đáng chú ý。Khu Tây Môn (Ximending) từ thời Nhật thuộc đã là khu vực giải trí sôi nổi tiếng, nổi tiếng với văn hóa trẻ trung độc đáo, được gọi là "bản đồ cổ của Đài Bắc"。Chợ Shilin, phố Địa Hóa (Dihua), và phố Long Cung (Yongkang) tương ứng với các khu di tích du lịch, hàng hoá truyền thống và ẩm thực sáng tạo。
 
-### Thành phố Tân Bắc: Đô thị vệ tinh đa dạng
+**Đặc trưng văn hóa：**
+Người dân Đài Bắc có tầm nhìn toàn cầu rộng mở, sẵn sàng đón nhận những điều mới lạ, tiêu dùng mạnh mẽ nhưng cũng chịu áp lực cuộc sống cao hơn so với các khu vực khác。Đài Bắc là nguồn phát xuất cho văn hóa đường phố của Đài Loan, từ âm nhạc, thời trang cho đến xu hướng ẩm thực, thường lan truyền từ Đài Bắc tới khắp cả nước。
 
-**Từ khóa:** Bao quanh Đài Bắc, phát triển đa dạng, kết hợp giữa núi và biển
-**Dân số:** Khoảng 4 triệu người (Thành phố đông dân nhất Đài Loan)
+### Thành phố Tân Bắc: Thành phố vệ tinh đa dạng
 
-Bao quanh thành phố Đài Bắc, Tân Bắc bao gồm nhiều địa hình đa dạng như vùng núi, ven biển, khu công nghiệp và khu dân cư, là một phần quan trọng của vùng đô thị Đài Bắc.
+**Từ khóa：** quanh Đài Bắc, phát triển đa dạng, kết hợp núi và biển
+**Dân số：** khoảng 4,037,150 người (thành phố đông dân nhất của Đài Loan）[^1]
 
-Tân Bắc có diện tích rộng lớn với mỗi quận một vẻ. Phố cổ Đạm Thủy (Tamsui) và bến tàu Yürén tại cửa sông Đạm Thủy là điểm du lịch cuối tuần nổi tiếng nhất miền Bắc. Cửu Phần (Jiufen) và Kim Qua Thạch (Jinguashan) với các khu dân cư đồi núi từ thời khai thác mỏ vàng Nhật thuộc thường gợi nhắc du khách quốc tế đến bối cảnh trong phim _Spirited Away_. Ứng Ca (Yingge) nổi tiếng với nghề gốm sứ, Tam Hiệp (Sanxia) với những nét chạm khắc tinh xảo tại chùa Tổ Sư, còn Tân Điếm (Xindian) và Ô Lai (Wulai) là nơi lưu giữ văn hóa suối nước nóng của người tộc Atayal.
+Tân Bắc xung quanh Đài Bắc, bao gồm khu vực núi, bờ biển, khu công nghiệp và khu dân cư, với địa hình đa dạng, là một phần quan trọng của khu vực đô thị Đài Bắc。
 
-### Thành trưởng Đào Viên: Cửa ngõ hàng không
+Tân Bắc có diện tích rộng lớn với mỗi khu vực đều có điểm nhấn riêng。Phố cổ Tản Vân (Tamsui) và bến cảng du lịch cuối tuần nổi tiếng nhất ở Bắc Đài Loan。Khu phố vàng Keo (Jinufu) do khai thác mỏ vàng thời Nhật thuộc, thường được du khách nước ngoài và khán giả phim "Cô gái bí ẩn" liên tưởng。Khu vực Cúng (Cingue) nổi tiếng với nghệ thuật gốm sứ, chùa Thái Tử (Suzhi) có tượng chạm khắc tinh xảo, và khu vực U-Ly (Wulai) là khu vực núi với cộng đồng dân tộc Thái và suốn nước nướng。
 
-**Từ khóa:** Sân bay quốc tế, công nghiệp phát triển, văn hóa Khách Gia, đa sắc tộc
-**Dân số:** Khoảng 2,3 triệu người
+### Thành phố Thượng Nguyên: Cửa ngõ hàng không
 
-Đào Viên trở thành cửa ngõ quốc tế của Đài Loan nhờ có sân bay quốc tế Đào Viên. Mật độ khu công nghiệp cao nhất toàn đảo, nhiều doanh nghiệp đa quốc gia đã chọn nơi đây làm trụ sở chính tại Đài Loan.
+**Từ khóa：** sân bay quốc tế, công nghiệp phát triển, văn hóa Khế, đa dân tộc
+**Dân số：** khoảng 2,357,121 người[^1]
 
-**Đặc sắc đô thị:**
+Thượng Nguyên trở thành cửa ngõ quốc tế của Đài Loan nhờ sân bay quốc tế Thượng Nguyên, với mật độ khu công nghiệp dày đặc, nhiều doanh công ty đa quốc gia chọn đặt trung tâm tại đây。
 
-- **Mức độ quốc tế hóa cao:** Tỷ lệ lao động nước ngoài và cư dân mới khá lớn.
-  chuẩn bị cho sự đa dạng sắc tộc.
-- **Trọng điểm công nghiệp:** Khu công nghiệp Trung Lịch (Zhongli), khu công nghiệp Quan Âm (Guanyin).
-- **Văn hóa Khách Gia:** Các vùng như Long Đàm (Longtan), Dương Mai (Yangmei) vẫn lưu giữ đậm nét phong cách Khách Gia.
-- **Văn hóa đầm nước:** Được mệnh danh là "quê hương của ngàn đầm nước", với cảnh quan thủy lợi độc đáo.
+**Đặc trưng thành phố：**
 
-### Thành phố và huyện Tân Trúc: Trọng điểm công nghệ
+- **Mức độ quốc tế hóa cao：** tỷ lệ công nhân nước ngoài và phụ nữ mới cưới cao
+- **Trung tâm công nghiệp：** khu công nghiệp Trung Cương (Zhongli), khu công nghiệp Quan Âm (Guanyin)
+- **Văn hóa Khế：** khu vực Long Tân (Longtan), Yang Mei giữ gìn phong cách văn hóa Khế đậm chất
+- **Văn hóa đầm thải：** "thiên đường nghìn con kênh", cảnh quan thủy lợi độc đáo
 
-**Từ khóa:** Khu khoa học, ngành công nghệ cao, thành phố gió, văn hóa Khách Gia
-**Dân số:** Khoảng 1 triệu người (Tổng hợp cả thành phố và huyện)
+### Thành phố và quận Tân Trúc: Trung tâm công nghệ
 
-Nhờ việc thành lập Khu Khoa học vào năm 1980, Tân Trúc đã quy tụ các "ông lớn" bán dẫn như TSMC, MediaTek, vươn lên trở thành hạt nhân của ngành công nghệ cao Đài Loan, được truyền thông quốc tế gọi là "Thung lũng Silicon của Đài Loan".
+**Từ khóa：** khu công nghệ, ngành công nghiệp cao cấp, vùng gió, văn hóa Khế
+**Dân số：** khoảng 1,054,165 người (tổng hợp thành phố và quận）[^1]
 
-**Đặc sắc đô thị:**
+Tân Trúc nâng cấp nhờ việc thành lập khu công nghệ năm 1980, thu hút các công ty lãnh đạo như TSMC và MediaTek, trở thành lõi ngành công nghiệp cao cấp của Đài Loan, được báo chí quốc tế gọi là "thung lũng Silicon của Đài Loan"。
 
-- **Nhóm dân cư thu nhập cao:** Tỷ lệ nhân sự ngành công nghệ cao, sức mua lớn.
-- **Cộng đồng quốc tế:** Nhiều chuyên gia nước ngoài sinh sống.
-- **Văn hóa thành phố gió:** Do ảnh dụng của gió mùa Đông Bắc mạnh mẽ, hình thành nên văn hóa gió độc đáo.
-- **Trọng điểm giáo dục:** Quy tụ các học viện hàng đầu như Đại học Thanh Hoa, Đại học Quốc lập Dương Minh Giao Thông[^2].
+**Đặc trưng thành phố：**
 
-**Khu vực tiêu biểu:**
+- **Nhóm thu nhập cao：** tỷ lệ nhân viên công nghệ cao, sức mua mạnh
+- **Cộng đồng quốc tế hóa：** số lượng chuyên gia nước ngoài đông
+- **Văn hóa vùng gió：** gió mùa đông mạnh mẽ, phát triển nền văn hóa đặc biệt
+- **Trung tâm giáo dục：** Đại học Quốc gia Thái Học (Hsinchu), Đại học Quốc gia Yang Ming Chiao Tung[^2]
 
-- **Khu Khoa học Tân Trúc:** Trái tim của ngành bán dẫn và thiết kế IC tại Đài Loan.
-- **Chùa Thành Hoàng Tân Trúc:** Trung tâm tín ngưỡng sầm uất, nổi tiếng với các món ăn nhẹ xung quanh.
-- **Phố cổ Bắc Phổ (Beipu):** Khu phố lịch sử lưu giữ cấu trúc định cư của người Khách Gia từ thời Thanh.
-- **Phố cổ Nội Loan (Neiwan):** Thị trấn vùng núi, nổi tiếng với món xôi hoa huệ dại (Wild Ginger Flower Zongzi).
+**Khu vực đại diện：**
 
-## Miền Trung Đài Loan: Vòng kết nối sống đáng mơ ước
+- **Khu công nghệ Tân Trúc：** lõi ngành công nghiệp bán dẫn và thiết kế IC của Đài Loan
+- **Chùa Thành Thánh Tân Trúc：** trung tâm tín ngưỡng sôi nổi, nổi tiếng với các món ăn vặt nhỏ xung quanh
+- **Phố cổ Bắc Bộ (Beipu Old Street)：** khu phố lịch sử của làng Khế thời Thanh, được bảo quản nguyên vẹn
+- **Phố cổ Nội Vân (Neiwan Old Street)：** thị trấn ven đường, nổi tiếng với bánh gạo tiêu và bánh mì Khế
 
-Đài Trung là thành phố cốt lõi của miền Trung. Năm 2016, dân số nơi đây lần đầu vượt qua Cao Hùng, trở thành đô thị lớn thứ hai toàn đảo. Lưu vực Đài Trung có khí hậu ôn hòa, mùa hè không quá nóng gay gạch, mùa đông không quá lạnh giá, luôn đứng đầu trong các cuộc khảo sát về "thành phố đáng sống nhất Đài Loan".
+## Khu vực Trung Đài Loan: Vòng tròn đời sống thoải mái
 
-### Thành phố Đài Trung: Đô thị đáng sống
+Đài Trung là trung tâm của khu vực Trung Đài Loan。Vào tháng 7 năm 2017, dân số Đài Trung lần đầu vượt quá Hải Đăng (2,778,182 người, thắng 309 người), trở thành thành phố lớn thứ hai của Đài Loan[^6]。Hợp đồng Đài Trung có khí hậu ôn hòa, mùa hè không nóng bức xúc, mùa đông không lạnh giá, liên tục nằm trong các bình chọn "thành phố đáng sống nhất Đài Loan"。
 
-**Từ khóa:** Khí hậu dễ chịu, sáng tạo văn hóa, thiên đường ẩm thực, hạ tầng tiến bộ
-**Dân số:** Khoảng 2,8 triệu người
+### Thành phố Đài Trung: Thành phố đáng sống
 
-Nằm ở miền Trung Đài Loan với khí hậu ôn hòa, những năm gần đây nhờ sự phát triển hạ tầng đô thị và nâng cao chất lượng sống, Đài Trung được nhiều người coi là thành phố đáng sống nhất Đài Loan.
+**Từ khóa：** khí hậu thoải mái, sáng tạo văn hóa, thiên đường ẩm thực, tiến bộ cơ sở hạ tầng
+**Dân số：** khoảng 2,867,246 người[^1]
 
-**Cá tính đô thị:**
+Đài Trung nằm ở trung tâm Đài Loan, với khí hậu ôn hòa。Trong những năm gần đây, nhờ cải thiện hạ tầng đô thị và chất lượng cuộc sống, nhiều người cho rằng Đài Trung là thành phố đáng sống nhất của Đài Loan。
 
-- **Nhịp sống thư thái:** So với nhịp độ nhanh của Đài Bắc, người dân Đài Trung sống thong dong hơn.
-- **Văn hóa ẩm thực:** Nơi khởi nguồn của nhiều món ăn Đài Loan sáng tạo, văn hóa ăn nhẹ phong phú.
-  🤝 **Hơi thở sáng tạo:** Các điểm đến văn hóa như làng nghệ thuật thẩm kế (Shenji New Village), cụm sáng tạo FantaBook...
-- **Hạ tầng hiện đại:** Tuyến tàu điện ngầm (MRT) Blue Line thông xe năm 2021, kết nối khu vực nội đô với ga cao tốc Wuri.
+**Bản sắc thành phố：**
 
-**Khu vực tiêu biểu:**
+- **Nhịp sống chậm rãi：** so với sự sống tấp nhanh của Đài Bắc, cuộc sống của người Đài Trung chậm rãi hơn
+- **Văn hóa ẩm thực：** nguồn gốc đổi mới ẩm thực Đài Loan, văn hóa món ăn nhỏ phong phú
+- **Khí chất sáng tạo：** khu phố Tái Kiến Sinh (Taichung Creative Base), khu sáng tạo Fantasia (Fantasia Creative Cluster)
+- **Hiện đại hóa cơ sở hạ tầng：** tuyến tàu điện ngầm xanh (Green Line) khánh thành vào ngày 25 tháng 4 năm 2021, kết nối khu Bắc Tân, khu phố trung tâm và ga cao tốc U Đất (Wuridun)
 
-- **Công viên xanh Chinamei (Chimei):** Không gian đô thị kết hợp giữa mua sắm, văn hóa và mảng xanh.
-- **Chợ đêm Phùng Giáp (Fengjia):** Chợ đêm lớn nhất Đài Loan, nơi khởi nguồn của nhiều món ăn sáng tạo.
-- **Phố Nhất Trung (Yizhong):** Khu thương mại sinh viên, tụ điểm của văn hóa trẻ.
-- **Nhà văn học Đài Trung:** Không gian văn hóa được chuyển đổi từ kiến trúc phong cách Nhật Bản.
+**Khu vực đại diện：**
 
-**Đặc sắc đời sống:**
-Người dân Đài Trung coi trọng chất lượng cuộc sống, văn hóa trà chiều phát triển và yêu cầu cao về ẩm thực. Đài Trung cũng là nơi khởi nguồn quan trọng của các loại thức uống thủ công (như trà sữa trân châu), với nền văn hóa ẩm thực luôn đổi mới.
+- **Đường cây xanh Quan Mỹ Chân (Chimei Green Boulevard)：** không gian đô thị kết hợp mua sắm, văn hóa và công viên xanh
+- **Chợ đêm Fongcha (Fengjia Night Market)：** quy mô lớn nhất của Đài Loan, nguồn gốc đổi mới món ăn nhỏ
+- **Phố One Trung (Yizhong Street)：** khu thương tập trung sinh viên, tập trung văn hóa trẻ trung
+- **Viện Văn hóa Đài Trung (Taichung Cultural & Creative Industry Center)：** không gian văn hóa được chuyển đổi từ kiến trúc Nhật
 
-## Miền Nam Đài Loan: Vòng kết nối văn hóa lịch sử
+**Đặc trưng cuộc sống：**
+Người dân Đài Trung coi trọng chất lượng cuộc sống, văn hóa trà chiều phong phú, đòi hỏi cao về chất lượng thực phẩm。Đài Trung cũng là nguồn gốc của các đồ uống thủ công (như trà sữa với hạt chân) của Đài Loan, với nền văn hóa nhà hàng đổi mới sôi nổi。
 
-Miền Nam Đài Loan với lõi là Đài Nam, Cao Hùng và Bình Đông, là khu vực được khai phá sớm nhất và cũng là nơi bảo tồn trọn vẹn nhất các giá trị văn hóa truyền thống. Các di tích như thành đài Hà Lan, cung điện Minh Trịnh, phố cổ Phủ Thành thời Thanh cùng với kiến trúc thời Nhật Bản cùng tồn tại, tạo nên dải cảnh quan văn hóa lịch sử dày đặc nhất Đài Loan.
+## Khu vực Nam Đài Loan: Vòng tròn lịch sử văn hóa
 
-### Thành phố Đài Nam: Cố đô văn hóa
+Nam Đài Loan lấy Đài Nam, Hải Đăng và Bình Đông làm trung tâm, là khu vực được phát triển sớm nhất của Đài Loan, cũng là nơi bảo quản truyền thống văn hóa trọn vẹn nhất。Cung điện Hà Lan, cung điện Minh Trị, phố phường hành chính thời Thanh và kiến trúc thời Nhật ở Đài Nam tồn tại đồng thời, tạo thành dải cảnh quan lịch sử văn hóa dày đặc nhất của Đài Loan。
 
-**Từ khóa:** Di tích lịch sử, văn hóa truyền thống, thiên đường ẩm thực, lối sống chậm
-**Dân số:** Khoảng 1,9 triệu người
+### Thành phố Đài Nam: Thành phố cổ văn hóa
 
-Đài Nam là thành phố có lịch sử lâu đời nhất Đài Loan. Kể từ khi người Hà Lan xây thành tại An Bình (Anping) vào năm 1624, nơi đây đã trải qua hơn hai trăm năm cai trị liên tục, đến nay vẫn lưu giữ cụm di tích dày đặc nhất và nổi tiếng khắp Đài Loan với các món ăn truyền thống.
+**Từ khóa：** di tích lịch sử, văn hóa truyền thống, thiên đường ẩm thực, lối sống chậm rãi
+**Dân số：** khoảng 1,847,288 người[^1]
 
-**Cá tính đô thị:**
+Đài Nam là thành phố có lịch sử lâu đời nhất của Đài Loan: năm 1624, người Hà Lan xây dựng thành cổ An Phing (Anping)；sau đó qua thời kỳ Minh Trị và Thanh, Đài Nam từng là trung tâm chính trị của Đài Loan trong hơn hai trăm năm, cho đến khi tỉnh lãnh chính thức thành lập năm 1887 và thủ đô chuyển về phía bắc。Ngày nay, Đài Nam vẫn giữ lại khu tập trung di tích lịch sử dày đặc nhất của cả nước, đồng thời nổi tiếng với ẩm thực truyền thống khắp cả nước。
 
-- **Nền tảng lịch sử sâu dày:** Mật độ di tích cao nhất toàn đảo.
-- **Bảo tồn văn hóa truyền thống:** Văn hóa đền chùa và thủ công mỹ nghệ truyền thống rất phát triển.
-- **Ẩm thực tinh tế:** Các món ăn nhẹ đa dạng, hương vị chuẩn truyền thống.
-- **Nhịp sống chậm rãi:** Coi trọng phong cách sống, không vội vã.
+**Bản sắc thành phố：**
 
-**Đặc sắc văn hóa:**
+- **Di sản lịch sử phong phú：** mật độ di tích lịch sử cao nhất của cả nước
+- **Bảo quản văn hóa truyền thống：** văn hóa chùa chiền, nghề thủ công truyền thống sôi nổi
+- **Văn hóa ẩm thực tinh tế：** đa dạng món ăn nhỏ, hương vị truyền thống
+- **Nhịp sống chậm rãi：** coi trọng hương vị cuộc sống, không vội vã
 
-- **Văn hóa tôn giáo:** Số lượng đền chùa rất lớn, các hoạt động tôn giáo diễn ra thường xuyên.
-- **Ẩm thực Phủ Thành:** Các món kinh điển như bánh mì quan tài (Guancai Ban), mì Đạm Tử (Dan Zai Noodles), canh thịt bò (Beef Soup)...
-- **Văn học nghệ thuật:** Không khí sáng tác văn học đậm nét, hoạt động nghệ thuật phong phú.
-- **Văn hóa kiến trúc:** Sự giao thoa giữa các thời kỳ Hà Lan, Minh Trịnh đến Nhật Bản.
+**Đặc trưng văn hóa：**
 
-**Khu vực tiêu biểu:**
+- **Văn hóa tôn giáo：** số lượng chùa chiền đông đảo, hoạt động tôn giáo sôi nổi
+- **Ẩm thực phố cổ thành phố (Fucheng Snacks)：** các món như thùng xác, mì dìn dân, súp bò
+- **Văn hóa văn chương nghệ thuật：** không khí sáng tạo văn chương hùng mạnh, hoạt động nghệ thuật phong phú
+- **Văn hóa kiến trúc：** kiến trúc từ thời Hà Lan, Minh Trị đến thời Nhật tồn tại đồng thời
 
-- **Pháo đài An Bình (Anping Fort):** Di tích thời Hà Lan, điểm khởi đầu lịch sử của Đài Nam.
-  <0xA0>- **Tháp Xích Khảm (Chihkan Tower):** Kiến trúc thời Minh Trịnh, biểu tượng của Đài Nam.
-- **Văn Miếu (Confucian Temple):** Ngôi trường đầu tiên của Đài Loan, văn miếu lâu đời nhất.
-- **Phố Thần Nông (Shennong Street):** Con phố cổ kính, lung linh đặc biệt vào ban đêm.
+**Khu vực đại diện：**
 
-### Thành phố Cao Hùng: Đô thị công nghiệp biển
+- **Thành cổ An Phing (Anping Fort)：** di tích thời Hà Lan, điểm khởi đầu lịch sử của Đài Nam
+- **Tháp Đỏ (Chihkan Tower)：** kiến trúc thời Minh Trị, biểu tượng của Đài Nam
+- **Chùa Kinh (Confucius Temple)：** trường học đầu tiên của cả nước, nhà Kinh đầu tiên của Đài Loan
+- **Phố Sinh Dương (Shennong Street)：** con phố cổ đầy màu sắc, đặc biệt rực rỡ vào ban đêm
 
-**Từ khóa:** Thành phố cảng, công nghiệp nặng, văn hóa biển, chuyển đổi đô thị
-**Dân số:** Khoảng 2,7 triệu người
+### Thành phố Hải Đăng: Thành phố cảng công nghiệp
 
-Cao Hùng là thành phố cảng lớn nhất Đài Loan. Truyền thống vốn nổi tiếng với ngành công nghiệp nặng, nhưng từ những năm 2000, nhờ việc dỡ bỏ các nhà máy cũ và cải tạo sông Ái Hà (Love River), nơi đây đã chuyển mình thành một thành phố văn hóa biển và du lịch.
+**Từ khóa：** cảng biển, công nghiệp nặng, văn hóa biển, chuyển đổi đô thị
+**Dân số：** khoảng 2,708,485 người[^1]
 
-**Cá tính đô thị:**
+Hải Đăng là thành phố cảng lớn nhất của Đài Loan, truyền thống nổi tiếng với công nghiệp nặng。Từ năm 2000, Hải Đăng bắt đầu rạn xóa nhà máy cũ, xử lý sông Công Nhĩ (Love River), chuyển đổi thành thành phố văn hóa biển và du lịch。
 
-- **Phong vị biển cả:** Đậm đà văn hóa cảng và hơi thở đại dương.
-- **Chuyển đổi công nghiệp:** Từ công nghiệp nặng sang văn hóa sáng tạo và du lịch.
+**Bản sắc thành phố：**
 
-- **Sự hào sảng của miền Nam:** Con người nồng hậu, tính cách thẳng thắn.
-- **Cảng biển quốc tế:** Kết nối chặt chẽ với thương mại toàn cầu.
+- **Phong cách biển tĩnh：** văn hóa cảng biển và không khí biển mạnh mẽ
+- **Chuyển đổi công nghiệp：** từ công nghiệp nặng chuyển sang sáng tạo và du lịch
+- **Tính cách Nam Đài Loan mạnh mẽ：** tình cảm thân thiện, tính cách thẳng thắn
+- **Cửa ngõ đường biển quốc tế：** liên kết mật chặt với thương mại quốc tế
 
-**Phát triển chuyển đổi:**
+**Phát triển chuyển đổi：**
 
-- **Khu nghệ thuật Pier-2 (B Dock):** Khu phức hợp sáng tạo được cải tạo từ các kho hàng công nghiệp cũ.
-- **Cải tạo sông Ái Hà:** Từ một dòng kênh ô nhiễm trở thành bờ sông lãng mạn.
-- **Hệ thống tàu điện nhẹ (LRT):** Hệ thống vận tải tàu điện nhẹ đầu tiên của Đài Loan.
-- **Văn hóa biển:** Bảo tàng hàng hải, trường hàng hải và các hoạt động giáo dục biển.
+- **Khu nghệ thuật Bát Hai (Pier-2 Art Center)：** khu công nghiệp kho bạc chuyển đổi thành khu vực sáng tạo
+- **Xử lý sông Công Nhĩ (Love River)：** từ kênh rạch bốc mùi thành bờ sông lãng mạn
+- **Hệ thống tàu điện nhẹ (Light Rail)：** hệ thống vận tải tàu điện nhẹ đầu tiên của Đài Loan
+- **Văn hóa biển：** bảo tàng biển, trường học hàng hải
 
-## Miền Đông Đài Loan: Trục du lịch tự nhiên
+## Khu vực Đông Đài Loan: Trục du lịch tự nhiên
 
-Miền Đông Đài Loan với trọng tâm là Hoa Liên và Đài Đông, dù tổng dân số chưa tới 600.000 người nhưng lại sở hữu những cảnh quan thiên nhiên hùng vĩ nhất Đài Loan như hẻm núi Thái Lỗ Cách (Taroko), thung lũng Hoa - Đông, dãy núi ven biển Đài Đông. Trong số 14 dân tộc bản địa, có 8 nhóm cư trú chính tại miền Đông, biến nơi đây thành vùng đất bảo tồn văn hóa người bản địa phong phú nhất Đài Loan.
+Khu vực Đông Đài Loan chủ yếu bao gồm Hoa Ninh và Đài Đông, với tổng dân số khoảng 520,000 người[^1]，nhưng sở hữu những danh lam thắng cảnh tuyệt đẹp nhất của Đài Loan như thung lũng Thái Lực (Taroko), thung lũng Đông Hải (Huatung Valley) và dãy núi ven biển。Trong 16 dân tộc bản địa của Đài Loan[^8]，người Amis, người Paiwan, người Thái Lực, người Sakizaya, người Garmal, người Bunun, người Puyuma, người Rukai, người Atayal đều có cộng đồng chính thức tại Đông Đài Loan, khiến khu vực này trở thành nơi bảo quản văn hóa dân tộc bản địa phong phú nhất của Đài Loan。
 
-### Huyện Hoa Liên: Bản giao hưởng của Núi và Biển
+### Quận Hoa Ninh: Giao thoa của núi và biển
 
-**Từ khóa:** Thái Lỗ Cách, văn hóa bản địa, cảnh quan tự nhiên, lối sống chậm
-**Dân số:** Khoảng 330.000 người
+**Từ khóa：** Thái Lực, văn hóa dân tộc bản địa, danh lam thắng cảnh tự nhiên, lối sống chậm rãi
+**Dân số：** khoảng 311,067 người[^1]
 
-Hoa Liên hướng mặt ra Thái Bình Dương, lưng tựa dãy núi Trung Ương. Hẻm núi Thái Lỗ Cách và vách đá Thanh Thủy (Qingshui) tạo nên cảnh quan thiên nhiên tráng lệ nhất Đài Loan, thu hút hơn một triệu lượt khách du lịch mỗi năm.
+Hoa Ninh đối diện với biển Đông, lưng hông núi trung tâm, với thung lũng Thái Lực và bờ biển Thanh Nước (Qingshui Cliffs) tạo nên danh lam thắng cảnh tự nhiên tuyệt đẹp nhất của Đài Loan。Ngày 3 tháng 4 năm 2024, trận động đất mạnh đã tàn phá Thái Lực, khu vực phải khôi phục theo giai đoạn, đến tháng 7 năm 2025 mới mở lại một số khu vui chơi, tổng thể dự kiến hoàn thành vào năm 2031[^9]。
 
-**Đặc sắc địa lý:**
+**Đặc trưng địa lý：**
 
-- **Công viên Quốc gia Thái Lỗ Cách:** Cảnh quan hẻm núi đẳng cấp thế giới.
-- **Phong cảnh bờ biển phía Đông:** Vách đá Thanh Thủy, bãi biển Thất Tinh Đàm (Qixingtan).
-- **Văn hóa bản địa:** Sự phong phú của văn hóa người tộc Amis, người tộc Taroko.
-- **Nông nghiệp hữu cơ:** Môi trường không ô nhiễm, sản phẩm nông nghiệp hữu cơ chất lượng cao.
+- **Quốc gia Thái Lực (Taroko National Park)：** danh lam thắng cảnh thung lũng thế giới
+- **Phong cảnh bờ biển Đông Hải (East Coast)：** bờ biển Thanh Nước, bãi biển Bảy Sao (Qixingtan Beach)
+- **Văn hóa dân tộc bản địa：** văn hóa của người Amis và người Thái Lực phong phú
+- **Nông nghiệp hữu cơ：** môi trường không ô nhiễm, chất lượng nông sản hữu cơ tốt
 
-### Huyện Đài Đông: "Hậu sơn" của Đài Loan
+### Quận Đài Đông: Phía sau của Đài Loan
 
-**Từ khóa:** Lối sống chậm, văn hóa bản địa, khinh khí cầu, thiên nhiên thuần khiy
-**Dân số:** Khoảng 210.000 người
+**Từ khóa：** lối sống chậm rãi, văn hóa dân tộc bản địa, khí nổi, tự nhiên trong sáng
+**Dân số：** khoảng 207,747 người[^1]
 
-Đài Đông được mệnh phá là "Hậu sơn" (vùng núi phía sau) của Đài Loan, nơi duy trì môi trường tự nhiên tương đối nguyên sơ và nhịp sống thư thái.
+Đài Đông được gọi là "phía sau của Đài Loan", giữ gìn môi trường tự nhiên nguyên sơ và nhịp sống chậm rãi。
 
-**Đặc sắc văn hóa:**
+**Đặc trưng văn hóa：**
 
-- **Sự đa dạng bản địa:** Nơi chung sống của 8 nhóm dân tộc bản địa.
-- **Văn hóa sống chậm:** Nhịp sống chậm rãi, nhấn mạnh sự hòa hợp với thiên nhiên.
-- **Nông nghiệp du lịch:** Các sản phẩm đặc trưng như quả thiền (sugar apple), hoa lục trà (roselle).
-- **Lễ hội khinh khí cầu quốc tế:** Thu hút lượng lớn khách du lịch mỗi năm.
+- **Đa dạng văn hóa dân tộc bản địa：** người Amis, Paiwan, Puyuma, Rukai, Bunun, Atayal cùng tồn tại
+- **Văn hóa sống chậm rãi：** nhịp sống chậm, nhấn mạnh hòa hợp với thiên nhiên
+- **Nông nghiệp du lịch：** trái cây như dứa, hoa Thanh Lan (Lansium parasiticum)
+- **Lễ hội khí nổi quốc tế：** thu hút lượng lớn du khách mỗi năm
 
-## Khu vực hải đảo: Phong vị độc đáo
+## Khu vực đảo xa: Phong cách độc đáo
 
-Các đảo ngoài khơi Đài Loan nằm rải rác ở eo biển Đài Loan và phía Đông Thái Bình Dương, mỗi nơi đều có đặc điểm địa chất và bối cảnh văn hóa riêng biệt. Bành Hồ (Penghu) là quần đảo núi lửa đá huyền vũ; Kim Môn (Kinmen) và Mã Tổ (Matsu) là những hòn đảo tiền tuyến quân sự thời Chiến tranh Lạnh; Lan Dự (Lanyu) là lãnh thổ truyền thống của người tộc Tao (Yami); Tiểu Lưu Cầu (Xiaoliuqiu) là đảo san hô nâng lên.
+Các quần đảo của Đài Loan rải rác ở eo biển Đài Loan và biển Đông Thái, mỗi đảo đều có đặc tính địa chất và nền văn hóa riêng。Phú Lộc (Penghu) là đảo núi lửa bazan, Căm Khoản (Jinsha) và Mẫu Tử (Matsu) là những đảo chiến trường thời Chiến tranh Lạnh, đảo Lân (Lanyu) là lãnh thổ truyền thống của người Atayal (người Đảo), và đảo Tiểu Lượu (Xiao Liuqiyu) là đảo san hô lên từ biển.
 
-Kim Môn, sau khi bãi bỏ chế độ quản lý chiến trường vào năm 1992, đã mở cửa du lịch, nổi tiếng với các di tích quân sự, làng mạc người Mân Nam và rượu cao lương. Bành Hồ thu hút hơn một triệu du khách mỗi năm, với lễ hội pháo hoa mùa hè là một trong những lễ hội hải đảo nổi tiếng nhất Đài Loan.
+Căm Khoản giải phóng trạng thái chiến trường sau năm 1992, mở cửa du lịch, nổi tiếng với di tích quân sự, làng chài Nam Ngu (Minnan) và rượu ngô. Phú Lộc thu hút hơn một triệu lượt khách mỗi năm, lễ hội pháo hoa mùa hè là một trong những lễ hội đảo nổi tiếng nhất của Đài Loan。
 
-Văn hóa lễ hội cá bay của người tộc Tao tại Lan Dự cùng nghề đóng thuyền truyền thống là đại diện quý giá cho nền văn minh biển của người bản địa Đài Loan. Những năm gần đây, du lịch sinh thái đã thay thế các tranh chấp về lưu trữ chất thải hạt nhân, trở thành một trường hợp điển triển về phát triển bền vững tại hải đảo.
+Đảo Lân nổi tiếng với lễ hội cá chép của người Atayal và nghệ thuật thuyền gỗ truyền thống, đại diện cho nền văn hóa biển dân tộc bản địa của Đài Loan。Gần đây, du lịch sinh thái đã thay thế tranh cãi lưu trữ chất thải phát xạt, trở thành ví dụ điển hình cho phát triển bền vững của các đảo xa。
 
-### Huyện Bành Hồ: Phong cảnh hải đảo
+### Quận Phú Lộc: Phong cảnh biển đảo
 
-**Đặc trưng:** Địa chất đá huyền vũ, văn hóa hải sản, điểm dừng chân của chim di cư.
+**Đặc trưng：** địa chất bazan, văn hóa hải sản, nơi trú ẩn chim
 
-### Huyện Kim Môn: Văn hóa chiến trường
+### Quận Căm Khoản: Văn hóa chiến trường
 
-**Đặc trưng:** Di tích quân sự, kiến trúc Mân Nam, văn hóa rượu cao lương.
+**Đặc trưng：** di tích quân sự, kiến trúc Nam Ngu, văn hóa rượu ngô
 
-### Huyện Mã Tổ: Tiền tuyến quân sự
+### Quận Mẫu Tử (Mẫu Tử): Tiền tuyến quân sự
 
-**Đặc trưng:** Cảnh quan chiến trường, văn hóa Mân Đông, hiện tượng "nước mắt xanh" (Blue Tears) kỳ ảo.
+**Đặc trưng：** cảnh quan chiến trường, văn hóa Đông Ngu, hiện tượng "mắt nước lệ xanh"
 
-## Sự khác biệt và đặc sắc trong phát triển vùng miền
+## Sự chênh lệch phát triển khu vực và đặc trưng
 
-Sự khác biệt về tính cách văn hóa giữa miền Bắc và miền Nam Đài Loan rất rõ rệt, liên quan chặt chẽ đến điều kiện địa lý và quỹ đạo phát triển lịch sử. Sự khác biệt này tạo nên những lối sống đặc thù, cũng là lý do chính giúp Đài Loan duy trì được sự đa dạng văn hóa trên một diện tích nhỏ.
+Sự chênh lệch văn hóa giữa Bắc và Nam của Đài Loan rất rõ rệt, liên quan mật thiết đến điều kiện địa lý và quá trình phát triển lịch sử。Sự chênh lệch này tạo nên lối sống đặc trưng và là lý do cụ thể giúp Đài Loan duy trì sự đa dạng văn hóa trên một mảnh đất nhỏ。
 
-### Khác biệt văn hóa Bắc - Trung - Nam
+### Chênh lệch văn hóa Bắc Trung Nam
 
-Khu vực đô thị miền Bắc (Đài Bắc) có nhịp độ nhanh, mức độ quốc tế hóa cao, tỷ lệ dân nhập cư cao nhất toàn đảo; các luồng văn hóa chính trị và truyền thông lan tỏa khắp Đài Loan, nhưng mật độ đô thị cũng mang lại áp lực sống lớn. Miền Trung (Đài Trung, Chương Hóa, Nam Đầu) có nhịp độ vừa phải; sau khi tàu điện ngầm thông xe năm 2018, chỉ số đáng sống tại đây thường đứng đầu các khảo sát dân cư. Các thành phố miền Nam như Đài Nam, Cao Hùng bảo tồn văn hóa truyền thống trọn vẹn hơn, mật độ đền chùa cao nhất toàn đảo và sự gắn kết cộng đồng rất chặt chẽ. Miền Đông (Hoa Liên, Đài Đông) dù dân số thưa thớt (tổng cộng dưới 600.000 người) nhưng lại sở hữu hệ sinh thái nông nghiệp hữu cơ và văn hóa bản địa nguyên vẹn nhất.
+Khu vực Bắc Đài Loan (Đài Bắc) có nhịp sống nhanh, mức độ quốc tế hóa cao, tỷ lệ dân số ngoại thườu cao nhất của cả nước, văn hóa chính trị và truyền thông lan truyền tới khắp cả nước, nhưng mật độ đô thị cũng mang lại mức áp lực cuộc sống cao。Khu vực Trung Đài Loan (Đài Trung, Chương Hóa, Nam Tố) có nhịp sống vừa phải, sau khi Đài Trung khánh thành tuyến tàu điện ngầm năm 2021, thường xuất hiện trong các bình chọn thành phố đáng sống；khu vực Nam Đài Loan (Đài Nam, Hải Đăng) giữ gìn truyền thống văn hóa trọn vẹn, mật độ chùa chiền cao nhất của cả nước, mối quan hệ xã hội thân thiện gần gũi。Phía Đông (Hoa Ninh, Đài Đông) có dân số thưa thớm (chỉ dưới 600,000 người), nhưng giữ gìn văn hóa dân tộc bản địa trọn vẹn và nông nghiệp hữu cơ sinh thái。
 
-### Khoảng cách thành thị - nông thôn
+### Khoảng cách đô thị nông thôn
 
-Mức lương trung bình tại sáu đô thị lớn cao hơn khoảng 15-20% so với các huyện không thuộc sáu đô thị này. Cơ sở hạ tầng công cộng và nguồn lực y tế tập trung ở đô thị, tạo nên xu hướng dịch chuyển dân số trẻ về các thành phố lớn trong dài hạn. Tại khu vực Hoa - Đông, tỷ lệ thanh niên rời đi đặc biệt nổi bật, tình trạng giảm dân số tự nhiên đi kèm với sự di cư là một thách thức lớn cho sự phát triển cân bằng quốc gia.
+Trung bình lương của sáu đại thành phố cao hơn so với các tỉnh thành khác, hạ tầng công cộng và nguồn lực y tế tập trung vào khu vực đô thị, tạo nên xu hướng dài hạn là dân số trẻ chuyển về sáu đại thành phố。Tỷ lệ thu nhập thanh thiếu niên ở miền Đông đặc biệt cao, dân số tự nhiên giảm và di cư đồng thời xảy ra, trở thành thách thức cho công bằng phát triển đất nước。
 
-Sự phân công ngành nghề giữa các thành phố rất rõ ràng: Đài Bắc tập trung vào tài chính, thương mại và truyền thông; Đào Viên, Đài Trung, Cao Hùng là trọng điểm sản xuất; Tân Trúc và Đài Trung (khu Khoa học Nam) hỗ trợ ngành bán dẫn và máy móc chính xác; Đài Nam và Hoa - Đông mạnh về du lịch lịch sử và nông nghiệp hữu cơ; Chương Hóa, Vân Lâm, Gia Nghĩa, Bình Đông là vựa lương thực của toàn đảo.
+Các ngành công nghiệp của từng thành phố rõ rệt: Đài Bắc tập trung vào tài chính thương mại và văn hóa truyền thông；Thượng Nguyên, Đài Trung, Hải Đăng là trung tâm công nghiệp sản xuất；khu công nghệ Tân Trúc, khu công nghệ Đài Trung, khu công nghệ Nam (Nanke) hỗ trợ ngành bán dẫn và máy móc chính xác；Đài Nam và miền Đông nổi tiếng với du lịch lịch sử và nông nghiệp hữu cơ；Chương Hóa, Vân Lương, Gia Định, Bình Đông là nền tảng nông sản thực phẩm của cả nước。
 
-## Bản sắc địa phương và sự cạnh tranh giữa các thành phố
+## Bản sắc địa phương và cạnh tranh đô thị
 
-Các thành phố tại Đài Loan tăng cường bản sắc địa phương thông qua chiến lược marketing khác biệt hóa, tạo nên mối quan hệ cạnh tranh lành mạnh. Đài Bắc định vị là đô thị quốc tế và thành phố thiết kế; Đài Trung nhấn mạnh chất lượng sống đáng mơ ước; Đài Nam thu hút du khách bằng danh hiệu cố đô văn hóa và thiên đường ẩm thực; Cao Hùng thúc đẩy chuyển đổi khu cảng với hình ảnh thủ phủ biển; Tân Trúc thu hút nhân tài công nghệ nhờ danh tiếng thành phố khoa học và thành phố gió.
+Các thành phố của Đài Loan thúc đẩy sự khác biệt hóa để củng cố bản sắc địa phương, tạo ra mối quan hệ cạnh tranh cùng hợp lợi。Đài Bắc định vị làm trung tâm đô thị quốc tế và thiết kế；Đài Trung nhấn mạnh chất lượng đời sống；Đài Nam thu hút du khách bằng danh lam thắng cảnh cổ và thiên đường ẩm thực；Hải Đăng thúc đẩy chuyển đổi khu vực cảng biển bằng hình ảnh "thành phố biển đầu tiên"；Tân Trúc dựa trên danh tiếng khu công nghệ và vùng gió để thu hút nhân lựực công nghệ。
 
-### Marketing đô thị và xây dựng thương hiệu
+### Chiến lược tiếp thị và thương hiệu đô thị
 
-Việc xây dựng thương hiệu của mỗi thành phố đều có bối cảnh lịch sử rõ ràng: "Cố đô văn hóa" của Đài Nam bắt nguồn từ sự tích lũy lịch sử 300 năm từ thời Hà Lan đến thời Thanh; vị thế thủ phủ biển của Cao Hùng được xác lập sau khi Khu nghệ thuật Pier-2 khởi động năm 2003 và tàu điện nhẹ khởi công năm 2011; Thành phố Khoa học Tân Trúc lấy mốc từ Khu Khoa học năm 1980, trong 40 năm qua đã thu hút hơn 600 doanh nghiệp công nghệ.
+Việc xây dựng thương hiệu của từng thành phố đều có nền tảng lịch sử rõ rệt：danh hiệu "thành phố cổ văn hóa" của Đài Nam xuất phát từ gần ba trăm năm lịch sử từ thời Hà Lan đến thời Thanh[^5]；hình ảnh "thành phố biển đầu tiên" của Hải Đăng được khẳng định sau khi khu nghệ thuật Bát Hai mở cung năm 2002[^10] và dự án tàu điện nhẹ hình vòng năm 2013[^11]；khu công nghệ Tân Trúc dựa trên khu công nghệ năm 1980, thu hút hơn 600 doanh công nghệ trong 40 năm。
 
-### Bản sắc địa phương và văn hóa phương ngữ
+### Bản sắc địa phương và ngôn ngữ vùng miền
 
-Cư dân ở các thành phố khác nhau đều có lòng tự hào mạnh mẽ về nơi mình sống, sự tự hào này thường được thể hiện qua ẩm thực, phương ngữ và lối sống. Ví dụ như niềm tự hào về món ăn nhẹ của người Đài Nam, tính cách phóng khoảng của người Cao Hùng, hay gu thẩm mỹ trong cuộc sống của người Đài Trung.
+Cư dân ở mỗi thành phố đều có cảm xúc mạnh mẽ về sự gắn kết với thành phố của mình, thường được thể hiện qua ẩm thực, phong cách địa phương và lối sống。Ví dụ như niềm tự hào của người Đài Nam về món ăn nhỏ, tính cách biển của người Hải Đăng, hay phong cách sống của người Đài Trung。
 
-### Sự cạnh tranh lành mạnh giữa các thành phố
+### Cạnh tranh lành mạnh giữa các thành phố
 
-Mô hình cải tạo Khu nghệ thuật Pier-2 (Cao Hùng) từ năm 2003 đã tham khảo mô hình hồi sinh nhà máy công nghiệp của Khu văn hóa sáng tạo Hoa Sơn 1914 (Đài Bắc); việc bảo tồn Làng Cầu vồng (Đài Trung) cũng học hỏi kinh nghiệm cải tạo cộng đồng từ các ngôi nhà cổ tại Đài Nam. Cơ chế học hỏi lẫn nhau này đã thúc đẩy mức độ chỉnh trang đô thị tổng thể của Đài Loan.
+Khu nghệ thuật Bát Hai của Hải Đăng (bắt đầu từ ba kho bạc cảng năm 2002)[^10]、khu sáng tạo Tung Shan của Đài Bắc (mở cửa năm 2011)、khu sáng tạo Thập Nhị Kỷ của Đài Nam (Thap Duc Creative Park)，đều là những ví dụ tiêu biểu về việc chuyển đổi không gian công nghiệp thành không gian văn hóa。Cách làm của các thành phố lẫn nhau tham khảo, nâng cao tổng thể tiêu chuẩn cho việc sống động lại không gian cũ của Đài Loan。
 
-## Xu hướng phát triển tương lai
+## Xu hướng phát triển trong tương lai
 
-Việc thông xe toàn tuyến đường sắt cao tốc năm 2007 đã rút ngắn thời gian từ Đài Bắc đến Cao Hùng xuống còn 96 phút, chính thức hình thành "vòng kết nối một ngày" cho hành lang phía Tây, tái định hình cấu trúc cạnh tranh và phân công lao động giữa các thành phố. Chỉnh trang đô thị, xây dựng thành phố thông minh và tích hợp vùng miền sẽ là ba trục phát triển chính của các thành phố Đài Loan trong thập niên 2020.
+Năm 2007, tuyến cao tốc toàn tuyến đi vào hoạt động, rút ngắn thời gian đi lại giữa Đài Bắc và Hải Đăng còại 96 phút, chính thức hình thành "vòng đời một ngày" của Tây Nguyên，điều này tái cấu trúc quan hệ cạnh tranh và phân chia công năng của các thành phố。Cập nhật đô thị, xây dựng đô thị thông minh và tích hợp khu vực trở thành ba trụ cột phát triển chính của các thành phố Đài Loan trong thập kỷ 2020。
 
-### Chỉnh trang và tái thiết đô thị
+### Cập nhật và tái sinh đô thị
 
-Nhiều thành phố đang chuyển đổi các khu công nghiệp cũ thành không gian sáng tạo, hồi sinh các kiến trúc lịch sử thành cơ sở văn hóa. Khu văn hóa sáng tạo Songshan (Đài Bắc - khai trương 2011), Khu nghệ thuật Pier-2 (Cao Hưng) và Khu văn hóa sáng tạo Thập Cổ (Đài Nam) là những ví dụ điển hình, đồng thời thúc đẩy bất động sản và hoạt động thương mại xung quanh.
+Nhiều thành phố chuyển đổi khu công nghiệp lỗi thời thành không gian sáng tạo, đồng thời hoạt động hóa các công trình kiến trúc lịch sử thành chuỗi cơ sở văn hóa。Khu sáng tạo Tung Shan của Đài Bắc (mở cửa năm 2011)、khu nghệ thuật Bát Hai của Hải Đăng、khu sáng tạo Thập Nhị Kỷ của Đài Nam là những trường hợp tiêu biểu, đồng thời thúc đẩy hoạt động bất động sản và thương mại xung quanh。
 
-### Phát triển thành phố thông minh
+### Phát triển đô thị thông minh
 
-Các thành phố tại Đài Loan đang thúc đẩy xây dựng thành phố thông minh bằng IoT, Big Data và AI để cải thiện quản trị đô thị. Đào Viên đã được Diễn đàn Thành phố Thông minh Toàn cầu (ICF) công nhận vào năm 2020; hệ thống tín hiệu giao thông thông minh của Đài Trung đã bao phủ các trục đường chính; Khu đổi mới AIoT Á Băng (Asia Bay) tại Cao Hùng là thực địa thử nghiệm thành phố thông minh lớn nhất Đài Loan.
+Các thành phố của Đài Loan thúc đẩy xây dựng đô thị thông minh, sử dụng IoT, dữ liệu lớn và trí tuệ nhân tạo để cải thiện quản lý đô thị。Thượng Nguyên giành giải Nhất về đô thị thông minh từ Diễn đàn Đô thị Thông minh Toàn cầu (ICF) năm 2019[^12]、hệ thống tín hiệu giao thông thông minh của Đài Trung phủ sóng lên các tuyến phố chính、khu đổi mới 5G AIoT của Nam Đảo (A-Wan) ở Hải Đăng là môi trường thử nghiệm đô thị thông minh lớn nhất của Đài Loan。
 
-### Hợp tác và tích hợp vùng miền
+### Hợp tác và tích hợp khu vực
 
-Vòng kết nối một ngày của đường sắt cao tốc đã tạo ra mô hình làm việc liên vùng "làm việc tại vùng Song-Bắc, sinh sống tại Đài Nam". Với sự tiến triển của dự án tàu điện ngầm tại Đài Nam và Gia Nghĩa, giới học thuật dự báo vào thập niên 2030, miền Tây Đài Loan có thể hình thành ba dải đô thị liên kết Bắc - Trung - Nam, làm thay đổi cấu trúc phân bổ dân số và bố trí ngành nghề.
+Vòng đời một ngày của cao tốc tạo điều kiện cho mô hình đi làm và sinh sống xuyên khu vực "làm việc tại hai thành phố Bắc, sinh sống tại Đài Nam"。Với sự tiến triển của dự án tàu điện ngầm Đài Nam, các nhà nghiên cứu dự báo rằng vào những năm 2030, khu vực Tây Nguyên của Đài Loan có thể hình thành ba vòng đời đô thị liên tục (Bắc Trung Nam), thay đổi mô hình dân số và cấu trúc công nghiệp。
 
-## Lời khuyên cho du khách đến Đài Loan
+## Lời khuyên cho du khách quốc tế
 
-Diện tích Đài Loan không lớn nhưng đặc sắc giữa các thành phố rất khác biệt, vì vậy nên lựa chọn lộ trình dựa trên mục đích du lịch. Với lần đầu đến Đài Loan, nên lấy Đài Bắc làm căn cứ (2-3 ngày), sau đó đi tàu cao tốc xuống Đài Nam hoặc Đài Trung (1-2 ngày) để cảm nhận sự đối lập giữa các phong cách đô thị Bắc - Nam. Nếu muốn du lịch văn hóa chuyên sâu, hãy lấy cố đô Đài Nam và thị trấn Lộc Cảng (Lukang) làm trục chính; nếu yêu thích cảnh quan tự nhiên, ưu tiên hẻm núi Thái Lỗ Cách (Hoa Liên) và Trì Thượng (Chihkan); còn phong cách đô thị hiện đại thì sự kết hợp giữa Quận Xinyi (Đài Bắc) và Khu nghệ thuật Pier-2 (Cao Hùng) là tiêu biểu nhất.
+Dù diện tích nhỏ, Đài Loan có sự chênh lệch đặc trưng rõ rệt, khuyến nghị lên kế hoạch hành trình theo mục đích du lịch。Dành cho lần đầu đến Đài Loan, nên dùng Đài Bắc làm trung tâm (2-3 ngày), sau đó đi cao tốc xuống Nam Đài Loan (1-2 ngày), để cảm nhận sự tương phản giữa phong cách đô thị Bắc và Nam。Đối với du lịch văn hóa sâu, nên chọn Đài Nam cổ và khu phố nhỏ Gia Lợn (Lugang) làm trục chính；danh lam thắng cảnh tự nhiên nên chọn Thung lũng Thái Lực của Hoa Ninh và khu vực Đài Đông (Chicheng)；phong cách đô thị hiện đại nên chọn khu Tín của Đài Bắc kết hợp với khu nghệ thuật Bát Hai của Hải Đăng。
 
-Về giao thông, đường sắt cao tốc là nhanh nhất để kết nối sáu đô thị phía Tây; tuyến đường sắt truyền thống bao quanh đảo có thể đưa bạn đến miền Đông và vùng ven biển phía Nam; các tuyến xe khách giữa các điểm tham quan rất kinh tế. Đài Bắc là thành phố duy nhất tại Đài Loan có mạng lưới tàu điện ngạch (MRT) hoàn chỉnh, và sau khi Tuyến sân bay thông xe năm 2017, việc đi thẳng từ sân bay Đào Viên đến Đài Bắc chỉ mất 35 phút.
+Về giao thông, cao tốc nhanh chóng kết nối sáu đại thành phố phía Tây, tuyến đường sắt quanh đảo có thể tiếp cận miền Đông và khu vực Nam Hải；các tuyến xe khách giữa các điểm đến là một lựa chọn tiết kiệm chi phí。Mạng lưới tàu điện ngầm của Đài Bắc dày đặc nhất, Hải Đăng, Thượng Nguyên và Đài Trung cũng có hệ thống tàu điện ngầm hoặc tàu điện nhẹ riêng。Sau khi tuyến tàu điện ngầm sân bay khánh thành năm 2017, thời gian đi lại từ ga trung tâm Đài Bắc đến sân bay Thượng Nguyên chỉ mất khoảng 35 phút。
 
-Lựa chọn lưu trú cũng khác nhau tùy theo phong cách thành phố: Đài Bắc có sự đan xen giữa khách sạn cao cấp và nhà trọ thanh niên; Đài Nam nổi tiếng với các nhà nghỉ văn hóa cải tạo từ nhà cổ; còn vùng Hoa - Đông với các khu nghỉ dưỡng ven biển sẽ giúp du khách cảm nhận gần gũi hơn với thiên nhiên hoang sơ.
+Lựa chọn nghỉ dưỡng phù hợp với phong cách của từng thành phố：Đài Bắc có cả khách sạn boutique và nhà nghỉ thanh niên；Đài Nam có những khách sạn văn hóa độc đáo từ các ngôi nhà cổ；khu vực Đông có khu nghỉ dưỡng biển view biển để du khách trải nghiệm môi trường tự nhiên nguyên sơ。
 
 ## Suy ngẫm mở rộng
 
-Sự hình thành đặc sắc đô thị tại Đài Loan phản ánh sự tương tác phức tạp giữa môi trường địa lý, cơ hội lịch sử, lựa chọn chính sách và đặc điểm nhân văn. Trong thời đại toàn cầu hóa, làm thế nào để vừa nâng cao năng lực cạnh tranh quốc tế vừa duy trì được bản sắc địa phương là thách trình chung mà các thành phố tại Đài Loan đang phải đối mặt.
+Sự hình thành đặc trưng đô thị của Đài Loan phản ánh sự tương tác phức tạp giữa môi trường địa lý, cơ hội lịch sử, lựa chọn chính sách và bản chất con người。在thời đại toàn cầu hóa, cách duy trì bản sắc địa phương đồng thời nâng cao năng lực cạnh tranh quốc tế là thách thức chung của tất cả các thành phố của Đài Loan。
 
-Kể từ cuộc cải cách sáu đô thị năm 2010, năng lực quản trị đô thị đã tăng lên rõ rệt. Các quyết sách của thị trưởng về xây dựng tàu điện ngầm, chính sách văn hóa và quảng bá du lịch đã ảnh tác trực tiếp đến sức hút dân số và môi trường đầu tư của mỗi thành phố.
+Từ năm 2010 (cải cách năm đại thành phố) đến năm 2014 (hình thành sáu đại thành phố), năng lực quản lý đô thị đã được cải thiện đáng kể, và các quyết định của thị trưởng về hạ tầng tàu điện ngầm, chính sách văn hóa và thúc đẩy du lịch đã trực tiếp ảnh hưởng đến sức hút dân số và môi trường đầu tư của từng thành phố。
 
-Sự đa dạng đô thị này cấu thành tài sản nhân văn độc đáo nhất của Đài Loan, cho phép con người trên cùng một hòn đảo có thể lựa chọn những nhịp sống và môi trường văn hóa hoàn toàn khác biệt. Hiểu được sự khác biệt về đặc sắc đô thị chính là điểm khởi đầu để thấu hiểu tính phức tạp và bao dung của xã hội Đài Loan.
+Sự đa dạng này tạo nên tài sản văn hóa đặc trưng nhất của Đài Loan, cho phép người dân trên một hòn đảo chọn lựa nhịp sống và môi trường văn hóa khác nhau。Hiểu biết về sự chênh lệch đặc trưng đô thị là điểm khởi đầu để nhận thức về sự phong phú và tính thẩm nhập của xã hội Đài Loan。
 
 ## Tài liệu tham khảo
 
-[^1]: Cục Hộ tịch, Bộ Nội vụ, [Hệ thống tra cứu dữ liệu thống kê dân số](https://www.ris.gov.tw/).
+[^1]: [Hệ thống truy vấn thống kê dân số](https://www.ris.gov.tw/) — Bộ Nội các, dữ liệu dân số tháng 7 năm 2026: Đài Bắc 2,424,159; Tân Bắc 4,037,150; Thượng Nguyên 2,357,121; Đài Trung 2,867,246; Đài Nam 1,847,288; Hải Đăng 2,708,485; Tân Trúc 455,813; quận Tân Trúc 598,352; Cơ Liễn 358,287; Hoa Ninh 311,067; Đài Đông 207,747 (theo tổng hợp [Wikipedia tiếng Việt](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8))。
 
-[^2]: Đại học Quốc lập Dương Minh Giao Thông, [Trang web chính thức](https://www.nycu.edu.tw/), bao gồm lịch sử và giới thiệu trường.
+[^2]: [trang web chính thức](https://www.nycu.edu.tw/) — Đại học Quốc gia Yang Ming Chiao Tung, bao gồm lịch sử và giới thiệu trường học。
 
-[^3]: Cục Du lịch, Bộ Giao thông, [Dữ liệu thống kê du lịch đô thị](https://admin.taiwan.net.tw/).
+[^3]: [thống kê du lịch đô thị](https://admin.taiwan.net.tw/) — Bộ Giao thông Vận tải。
 
-[^4]: Lâm Thục Dung và cộng sự, [_Đọc lại Đài Loan: Góc nhìn nhân học_](https://www.books.com.tw/products/0010659492).
+[^4]: [《Đọ lại Đài Loan：Tầm nhìn nhân học học》](https://www.books.com.tw/products/0010659492) — Linh Thụ Nhiên và cộng tác viên。
 
-[^5]: Cục Văn hóa các thành phố, [Ấn phẩm chính thức (Lấy ví dụ Cục Văn hóa Thành phố Đài Nam)](https://culture.tainan.gov.tw/).
+[^5]: [sản phẩm xuất bản chính thức（ví dụ: sở văn hóa Đài Nam）](https://culture.tainan.gov.tw/) — Các sở văn hóa của thành phố。
+
+[^6]: [〈Dân số nhiều hơn Hải Đăng 309 người, Đài Trung trở thành thành phố lớn thứ hai của Đài Loan〉](https://news.pts.org.tw/article/366695) — Truyền hình Công cộng Đài Loan, 02-08-2017 — dân số Đài Trung đạt 2,778,182 người vào ngày 31 tháng 7。
+
+[^7]: [〈Chính thức khánh thành! Tuyến tàu điện ngầm xanh của Đài Trung chuyển mạch vào ngày 25 tháng 4〉](https://www.taichung.gov.tw/8868/8872/9962/1768573) — Chính quyền Đài Trung
+
+[^8]: [〈「Dân tộc Lā'ālūwā (La'aluwang)」 và 「dân tộc Kanakana (Kanakana)」 chính thức trở thành dân tộc bản địa thứ 15 và 16 của Đài Loan〉](https://www.ey.gov.tw/Page/9277F759E41CCD91/66709823-8a18-4895-b9e9-d95ef0a324f3) — Chính phủ Điều hành, 26-06-2014。
+
+[^9]: [〈0403 sau động đất mạnh, kiểm tra Thái Lực 2 năm, Thủ tướng ước tính hoàn thành vào năm 2031〉](https://news.pts.org.tw/article/797721) — Truyền hình Công cộng Đài Loan, khu vui chơi Chũng Đức mở lại ngày 1 tháng 7 năm 2025, xem [Tin tức United〈0403 sau động đất mạnh, Thái Lực Quốc gia Park tái mở theo giai đoạn〉](https://udn.com/news/story/7266/8104336)。
+
+[^10]: [〈Giới thiệu về Bát Hai〉](https://pier2.org/about/) — Khu nghệ thuật Bát Hai
+
+[^11]: [〈Giới thiệu tàu điện nhẹ〉](https://mtbu.kcg.gov.tw/Communicate/LightRail/LR01.html) — Cục Đường sắt Đài Loan
+
+[^12]: [〈Toàn cầu Top1! Thành phố Thượng Nguyên nỗ lực 11 năm, lần đầu giành giải thưởng Nhất về đô thị thông minh ICF〉](https://udn.com/news/story/7324/3871289) — Tin tức United, tháng 6 năm 2019 — sau 10 lần Smart21 và 4 lần Top7, giành giải Nhất vào năm 2019。
