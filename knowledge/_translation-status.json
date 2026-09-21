@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T02:14:36+08:00",
-    "zhCommitHead": "7abc5b7af",
+    "lastUpdated": "2026-09-22T02:39:14+08:00",
+    "zhCommitHead": "22fa7cc70",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1049,
+        "fresh": 1050,
         "stale": 45,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 22,
         "orphan": 0
       },
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1016,
+        "fresh": 1017,
         "stale": 44,
-        "metadata_stale": 47,
+        "metadata_stale": 46,
         "missing": 17,
         "orphan": 0
       },
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1010,
-        "stale": 58,
+        "fresh": 1011,
+        "stale": 57,
         "metadata_stale": 11,
         "missing": 45,
         "orphan": 0
@@ -36707,8 +36707,8 @@
           "sourceContentHash": "sha256:139e55c779ec2a2f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T16:12:04.050377+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "22fa7cc7",
+          "translationLastModified": "2026-09-22T02:14:36+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 55780,
@@ -55895,8 +55895,8 @@
           "sourceContentHash": "sha256:ebc2cadf850b7fc2",
           "sourceBodyHash": "sha256:37186c1b6ac0ce30",
           "translatedAt": "2026-09-21T23:34:07+08:00",
-          "translationLastCommit": "92e170b3",
-          "translationLastModified": "2026-09-15T22:34:02+08:00",
+          "translationLastCommit": "22fa7cc7",
+          "translationLastModified": "2026-09-22T02:14:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 13675,
@@ -114565,8 +114565,8 @@
           "sourceContentHash": "sha256:bbe9414090e28df8",
           "sourceBodyHash": "sha256:eec2d91f1c8e6db1",
           "translatedAt": "2026-09-21T23:34:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "22fa7cc7",
+          "translationLastModified": "2026-09-22T02:14:36+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 27056,
@@ -134481,19 +134481,17 @@
         "pt": {
           "path": "pt/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "fdd06c978",
-          "sourceContentHash": "sha256:9e044da79052e1d4",
-          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
-          "translatedAt": "2026-07-29T06:33:09+08:00",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:4084ed4b3480a75a",
+          "sourceBodyHash": "sha256:70f421624b5717be",
+          "translatedAt": "2026-09-21T18:27:00.896806+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 44727,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "bytes": 44734,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/wu-ming-yi.md",
@@ -144161,19 +144159,17 @@
         "vi": {
           "path": "vi/Food/rice-ball.md",
           "translatedFrom": "Food/飯糰.md",
-          "sourceCommitSha": "70c09b92f",
-          "sourceContentHash": "sha256:9504291a64409206",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c0f8cc644aeae280",
           "sourceBodyHash": "sha256:fd7a2d45f0c2514e",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 13995,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 14454,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Food/rice-ball.md",
@@ -195700,19 +195696,17 @@
         "en": {
           "path": "en/Culture/taiwan-soundscape.md",
           "translatedFrom": "Culture/台灣聲景.md",
-          "sourceCommitSha": "8b61d368",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:819a7ee143f7b981",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
-          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 34702,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -3"
+          "bytes": 32928,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/taiwan-soundscape.md",

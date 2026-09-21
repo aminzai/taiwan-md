@@ -1,159 +1,156 @@
 ---
-title: 'Conservación marina en Taiwán: ¿por qué un sistema construido en 30 años no pudo salvar un evento de blanqueamiento de coral?'
-description: 'En 2020, las aguas de Taiwán experimentaron el blanqueamiento de coral más grande de su historia. Desde Xiaoliuqiú hasta el atolón de Dongsha, incluso los corales dentro de áreas protegidas murieron por el calor. ¿Qué problema expuso esto?'
+title: 'Conservación marina en Taiwán: ¿por qué un sistema construido en 30 años no puede salvar una blanqueadición de corales?'
+description: 'En 2020, las aguas de Taiwán sufrieron la mayor blanqueadición de corales registrada. Desde el pequeño Ryukyu hasta el arrecife de Dongsha, incluso los corales dentro de zonas protegidas murieron bajo el calor. ¿Qué problema revela esto?'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Nature'
+tags:
+  [
+    'Conservación marina',
+    'protección ambiental',
+    'contaminación marina',
+    'arrecifes de coral',
+    'parque nacional marino',
+  ]
 subcategory: '國家公園與步道'
-tags: ['conservación marina', 'protección ambiental', 'contaminación marina', 'arrecifes de coral', 'parque nacional marino']
-readingTime: 8
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: true
+readingTime: 8
 translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:0c4a6676abd7e73d'
-sourceBodyHash: 'sha256:fe639063298f999a'
-translatedAt: '2026-05-20T05:08:32+08:00'
+sourceCommitSha: 'c24076169'
+sourceContentHash: 'sha256:f5c7b68537fffdbb'
+sourceBodyHash: 'sha256:8a34ab63ff63d541'
+translatedAt: '2026-09-21T23:34:04+08:00'
 ---
 
-# Conservación marina en Taiwán: ¿por qué un sistema construido en 30 años no pudo salvar un evento de blanqueamiento de coral?
+# Conservación marina en Taiwán: ¿por qué un sistema construido en 30 años no puede salvar una blanqueadición de corales?
 
-> **Resumen en 30 segundos**: En el verano de 2020, Taiwán experimentó el blanqueamiento de coral más grande de su historia, y ni siquiera áreas protegidas como Xiaoliuqiú o el atolón de Dongsha se salvaron. Esta "ola de calor marina" expuso una cruda realidad: el sistema de conservación construido a lo largo de 30 años resultó impotente frente al cambio climático. La densidad de residuos en las aguas de Taiwán alcanza los 102 kg por km², una cifra superior a la de Japón, Corea del Sur y China, pero el éxito en la recuperación de la tortuga verde ofrece un rayo de esperanza.
+> **30 segundos de resumen**: En verano de 2020, Taiwán vivió la mayor blanqueadición de corales en su historia, y ni siquiera las zonas protegidas como el pequeño Ryukyu o el arrecife de Dongsha pudieron salvarse. Esta "ola de calor marina" revela una cruel realidad: el sistema de conservación construido en 30 años resulta impotente frente al cambio climático. La densidad de desechos en las aguas de Taiwán alcanza 102 kg por km², más alta que Japón, Corea y China continental, pero el éxito en la recuperación de la tortuga verde ofrece esperanza.
 
-En julio de 2020, el investigador posdoctoral del Academia Sinica Guo Zhaoyang se sumergió en las aguas de Xiaoliuqiú y contempló un paisaje que "nunca había visto en diez años de buceo": extensas extensiones de coral habían perdido su color, reducidas a esqueletos blancos. No fue un caso aislado. Los arrecifes de coral que rodean Taiwán, desde Kenting hasta la Isla Verde, desde Penghu hasta Dongsha, atravesaban una crisis de supervivencia sin precedentes.
+En julio de 2020, el investigador postdoctoral del Instituto de Biodiversidad de Academia Sinica, Guo Zhaoyang, sumergido en las aguas del pequeño Ryukyu, observó vastas extensiones de coral perdiendo color y tornándose en huesos blancos. No fue un caso aislado. Los arrecifes de coral alrededor de Taiwán —desde el Parque Nacional de Kenting hasta la isla de Green —, desde Penghu hasta Dongsha, enfrentaban una crisis de supervivencia sin precedentes.
 
-Ese año, por primera vez en 56 años, ningún tifón tocó tierra en Taiwán. Sin la acción refrescante de los tifones, el agua de mar se calentó como una olla a fuego lento, y los corales "murieron de calor". Lo más sorprendente fue que incluso el atolón de Dongsha, declarado parque nacional marino en 2007, no escapó de la catástrofe.
+Ese año, Taiwán no registró ningún tifón en tierra por primera vez en 56 años. Sin los tifones para enfriar las aguas, el océano se redujo a un caldo a fuego lento, y los corales "murieron de calor". Más sorprendente aún: incluso el Parque Nacional Marino de Dongsha, creado en 2007, no escapó al desastre. Desde principios de julio, la oficina de gestión del parque monitoreaba y detectó blanqueadición en los corales de grietas microscópicas y corales hongo en la laguna del arrecife.
 
-> **📝 Nota del curador**
-> La historia de la conservación marina de Taiwán es, en esencia, una carrera contra el tiempo: ¿puede la velocidad a la que los humanos establecen sistemas de protección alcanzar el ritmo de destrucción del cambio climático?
+> **📝 Nota del curador**  
+> La historia de la conservación marina en Taiwán es en realidad una carrera contra el tiempo: ¿podrá la humanidad construir sistemas de protección tan rápido como el cambio climático destruye?
 
-## El descontrol de 2020: el mayor blanqueamiento de coral de la historia
+## El caos de 2020: la mayor blanqueadición de corales en la historia
 
-| 55%                  | 30%                  |
-| -------------------- | -------------------- |
-| Mortalidad de coral estimada en Xiaoliuqiú | Pérdida estimada en la costa noreste y en Kenting |
+¿Qué tan grave fue la blanqueadición de 2020? El investigador del Instituto de Biodiversidad de Academia Sinica, Chen Zhao-lun, la describió como "sin precedentes". El alcance de esta blanqueadición no solo incluyó los puntos calientes tradicionales del sur de Taiwán, sino también lugares como las islas Nangan y Beigan en Penghu, y la costa noreste, que nunca antes habían registrado blanqueadiciones masivas.
 
-¿Qué tan grave fue el blanqueamiento de coral de 2020? Chen Zhaolun, del Centro de Investigación en Biodiversidad del Academia Sinica, lo calificó de "sin precedentes". El alcance del blanqueamiento no se limitó a los puntos críticos tradicionales del sur de Taiwán; incluso lugares donde nunca se había registrado un blanqueamiento masivo —Xiaoliuqiú, las Islas del Sur de Penghu y la costa noreste— cayeron por completo.
+**¿Qué es la blanqueadición de corales?** Los corales albergan algas simbióticas que proporcionan nutrientes y color. Cuando la temperatura del agua sube o el medio ambiente se degrada, los corales expulsan estas algas, perdiendo color y tornándose blancos. Si el calor persiste demasiado tiempo, los corales mueren.
 
-**¿Qué es el blanqueamiento de coral?** Los corales albergan en su interior algas simbióticas que les proporcionan nutrientes y color. Cuando la temperatura del agua sube o el entorno se deteriora, los corales expulsan esas algas, pierden su color y se vuelven blancos. Si el calor persiste demasiado tiempo, el coral muere.
+Los investigadores registraron 28,250 corales en 62 puntos de monitoreo en Taiwán, descubriendo que el 52% mostraba difertes grados de estrés térmico, y el 31% moriría incluso si la temperatura disminuía. ¿Qué significa esto? Cuando más del 30% de los corales mueren, la biodiversidad colapsa drásticamente; los peces pierden sus lugares de reproducción y la cadena alimentaria marina se desmorona.
 
-El equipo de investigación monitoreó 28.250 colonias de coral en 62 estaciones de observación en Taiwán y descubrió que el 52% sufría estrés térmico en distintos grados, y que el 31% moriría aunque la temperatura del agua descendiera.[^2] ¿Qué significa esta cifra? Cuando más del 30% de los corales mueren, la biodiversidad se reduce drásticamente; los bancos de peces pierden sus criaderas y la cadena alimentaria marina colapsa.
+> **⚠️ Alerta climática urgente**  
+> En 2020, las aguas de Taiwán soportaron un estrés térmico de 15, superando al evento de blanqueadición masiva de 1998 (estrés térmico de aproximadamente 10).
 
-> **⚠️ Alerta climática**
-> En 2020, el estrés térmico soportado por las aguas de Taiwán superó los 15 grados-semana, un nivel más severo que el del gran blanqueamiento de 1998 (estrés térmico de 10). Fue el año con la temperatura del mar más alta en la historia meteorológica de Taiwán.
+Lo más irónico es que el pequeño Ryukyu solía ser el "modelo a seguir" de la conservación marina en Taiwán. Los drones de la Comisión de Protección del Medio Ambiente marino realizaban inspecciones mensuales y contaban cientos de tortugas marinas en la costa. Pero frente a la "ola de calor marina" provocada por el cambio climático, incluso los esfuerzos de conservación locales perfectamente ejecutados parecían insignificantes.
 
-Lo más irónico es que Xiaoliuqiú era considerado el "alumno modelo" de la conservación marina de Taiwán. La población de tortugas verdes había crecido desde cifras de un solo dígito hasta varios cientos de ejemplares (según encuestas de la Administración de Conservación Marina), y la cobertura de coral se mantenía por encima del 60% antes del blanqueamiento de 2020. Pero frente a la "ola de calor marina" provocada por el cambio climático, incluso los esfuerzos de conservación local más impecables resultaron insuficientes.
+## Una isla rodeada de basura: los datos hablan por sí mismos
 
-## Una isla rodeada de basura: los datos hablan
+Taiwán está rodeada de mar, pero este océano soporta una enorme presión. Según una investigación de Chensheng Environmental Consulting en 2019, recolectada desde la bahía de Bali hasta el puerto de Donggang, **la densidad de desechos marinos en la costa oeste de Taiwán alcanza 102 kg por km²**, superando a las encuestas existentes de Japón, Corea y China continental.
 
-Taiwán es una isla rodeada de mar por los cuatro costados, pero ese mar soporta una presión enorme. Según una encuesta de 2020 de la consultora ambiental Chengyang Environment, **la densidad de residuos en el fondo marino de la costa occidental de Taiwán alcanza los 102 kg por km²**, una cifra superior a las registradas en las costas de Japón, Corea del Sur y China.[^3]
+El punto más contaminado fue el mar abierto frente al río Danshui, donde los desechos recuperados (más de 200 artículos) superaron en número a los organismos vivos (alrededor de 70 caracoles y moluscos).
 
-El punto de muestreo más contaminado se encontraba en la desembocadura del río Tamsui, donde los residuos recogidos (más de 200 piezas) superaban en número a los organismos vivos (unas 70 conchas y caracoles). ¿De dónde proviene toda esta basura?
+La orilla también reflejaba la misma situación. Desde julio de 2018, Greenpeace y la Asociación de Protección de la Naturaleza realizaron un "tamizaje rápido de desechos marinos" durante un año en 121 estaciones costeras de la isla, estimando que existían aproximadamente 150,000 bolsas de basura en las costas de Taiwán, con un promedio de 13 bolsas cada 100 metros. Aproximadamente la mitad de los desechos se concentraban en solo el 10% de las costas, y el 65% se acumulaban en tramos orientados al norte, donde los vientos invernales empujaban la basura hacia tierra. Cada año, alrededor de 800 millones de toneladas de plástico ingresan al océano, y entre las diez fuentes principales de desechos marinos, los productos de plástico de un solo uso ocupan ocho de ellas.
 
-**Análisis de las fuentes de contaminación**:
+> **💡 ¿Sabías qué?**  
+> Según el informe de WWF de 2022, más de 2,100 especies enfrentan la amenaza de la contaminación por plástico, y se estima que el 90% de las aves marinas y el 52% de las tortugas marinas han ingerido plástico.
 
-- **Contaminación de origen terrestre (70-80%)**: residuos domésticos arrastrados por los ríos
-- **Residuos pesqueros (15-20%)**: redes de pesca abandonadas y poliestireno expandido
-- **Contaminación transfronteriza (5-10%)**: residuos flotantes procedentes de países vecinos
+Aún más preocupante es el problema de los microplásticos. En 2022, Greenpeace inspeccionó los hábitats de seis especies protegidas en Taiwán y descubrió altas proporciones de microplásticos tanto en las heces de los animales como en sus ecosistemas acuáticos. Incluso los animales terrestres protegidos no pueden escapar del impacto de la contaminación marina.
 
-Cada año, aproximadamente 12,7 millones de toneladas de residuos plásticos llegan a los océanos del mundo. La encuesta de diagnóstico rápido de residuos marinos del Ministerio de Medio Ambiente revela que la densidad de residuos en las costas de Taiwán promedia 1.855 piezas por kilómetro, de las cuales el 82,7% son productos plásticos.[^4]
+## El sistema de conservación de 30 años: logros y limitaciones
 
-> **💡 ¿Sabías que...?**
-> Según el informe de 2022 del Fondo Mundial para la Naturaleza (WWF), 2.141 especies marinas en todo el mundo se ven afectadas por la contaminación plástica, y el 90% de las aves marinas y el 50% de las tortugas marinas han ingerido plástico.[^5]
+Frente a la crisis marina, Taiwán no se quedó pasivo. El 28 de abril de 2018, Taiwán estableció la Comisión de Mar, integrando las funciones marinas dispersas en diferentes departamentos. Esta fue la primera comisión central ubicada en el sur de Taiwán, simbolizando la importancia nacional de los asuntos marinos.
 
-Más preocupante aún es el problema de los microplásticos. En 2022, Greenpeace analizó los hábitats de seis especies protegidas en Taiwán y detectó microplásticos en proporciones extremadamente altas tanto en las heces de los animales como en las aguas de sus hábitats. Incluso las especies protegidas terrestres no escapan al impacto de la contaminación marina.
+**Estructura organizativa de la Comisión de Mar**: La Comisión de Mar coordina políticas marinas; la Oficina de Protección del Medio Ambiente Marino se encarga de la protección ambiental; la Oficina de Patrullaje Marítimo gestiona la aplicación de la ley y el rescate en alta mar; el Instituto Nacional de Estudios Marinos proporciona apoyo científico e investigativo.
 
-## 30 años de sistema de conservación: logros y limitaciones
+La red actual de zonas marinas protegidas en Taiwán incluye:
 
-Frente a la crisis marina, Taiwán no se ha quedado de brazos cruzados. El 28 de abril de 2018, se estableció la Comisión Oceánica de Taiwán, integrando las competencias marinas que antes estaban dispersas entre distintos ministerios.[^1] Fue el primer ministerio central del gobierno ubicado en el sur de Taiwán, un símbolo de la importancia que el Estado otorga a los asuntos marinos.
+1. **Parque Nacional Marino de Dongsha** (2007): 353,000 hectáreas, el primer parque nacional marino de Taiwán
+2. **Parque Nacional Marino de Nangan y Beigan en Penghu** (2014): 35,000 hectáreas, protege la geología de basalto y la ecología marina
+3. **Zona de conservación de recursos pesqueros del pequeño Ryukyu**: un modelo exitoso de cooperación entre gobierno, academia y sociedad civil
 
-**Estructura organizativa de la Comisión Oceánica**: la Comisión Oceánica se encarga de coordinar la política marina; la Administración de Conservación Marina se dedica exclusivamente a la protección ambiental; la Guardia Costera se responsabiliza de la vigilancia marítima y el rescate; y el Instituto Nacional de Investigación Marina proporciona el respaldo científico.
+Sin embargo, la catástrofe de blanqueadición de 2020 reveló un problema fundamental: **el concepto de zonas protegidas se basa en "controlar la interferencia humana", pero el cambio climático es un problema global que no se resuelve con un simple delimitar áreas.**
 
-La red actual de áreas marinas protegidas de Taiwán incluye:
+## El milagro del pequeño Ryukyu: lecciones de un caso exitoso
 
-1. **Parque Nacional del Atolón de Dongsha** (2007): 353.000 hectáreas, el primer parque nacional marino de Taiwán
-2. **Parque Nacional de las Islas del Sur de Penghu** (2014): 35.000 hectáreas, protege la geología de basalto y el ecosistema marino
-3. **Zona de Conservación de Recursos Pesqueros de Xiaoliuqiú**: un modelo exitoso de colaboración entre gobierno, academia y sociedad civil
+A pesar de los desafíos climáticos, los logros de conservación en el pequeño Ryukyu siguen siendo dignos de estudio. ¿Cómo se convirtió esta isla de apenas 6.8 km² en una estrella de la conservación marina en Taiwán?
 
-Sin embargo, el desastre del blanqueamiento de coral de 2020 puso al descubierto un problema central: **el concepto de área protegida se basa en "controlar la interferencia humana", pero el cambio climático es un problema global que no se resuelve trazando un perímetro en un mapa.**
+**Logros de conservación en el pequeño Ryukyu**:
 
-## El milagro de Xiaoliuqiú: lecciones de un caso de éxito
+- **Densidad de tortugas**: según la investigación mensual con drones de la Oficina de Protección del Medio Ambiente Marino en 2024, el promedio anual fue de 637 tortugas, alcanzando un pico de 981 en noviembre
+- **Corales**: antes de la blanqueadición masiva de 2020, era uno de los mejores sitios de buceo de corales en Taiwán; se estima una pérdida del 55% de los corales tras la blanqueadición
 
-A pesar de los desafíos climáticos, los logros de conservación de Xiaoliuqiú merecen ser examinados. ¿Cómo logró esta isla de coral de apenas 6,8 km² convertirse en la estrella de la conservación marina de Taiwán?
+La clave del éxito radica en el "modelo de tres colaboraciones":
 
-**Logros de conservación en Xiaoliuqiú**:
+1. **Políticas gubernamentales**: establecimiento de zonas de conservación pesquera, limitando prácticas pesqueras dañinas
+2. **Apoyo científico**: instituciones académicas como la Universidad Nacional de Sun Yat-sen han realizado monitoreos a largo plazo
+3. **Protección comunitaria**: organizaciones como el Estudio del Mar y la Asociación de la Isla Laochuan impulsan la ciencia ciudadana marina
 
-- **Recuperación de la población de tortugas verdes**: la población creció desde cifras de un solo dígito hasta varios cientos de ejemplares (según encuestas de la Administración de Conservación Marina)
-- **Densidad de tortugas marinas**: según datos de la Administración de Conservación Marina, el promedio costero es de 637 avistamientos, con un pico de 981 en noviembre
-- **Cobertura de coral**: gravemente afectada tras el blanqueamiento masivo de 2020, se mantenía por encima del 60% antes del evento
+> **📝 Observación del curador**  
+> El éxito del pequeño Ryukyu demuestra el poder de la movilización social. Los instructores de buceo locales se convirtieron en "científicos ciudadanos marinos", los dueños de pensiones promovieron "alimentos amigables con el mar", y la conservación se transformó en un movimiento comunitario en toda la isla.
 
-La clave del éxito reside en el "modelo de cooperación tripartita":
+Pero incluso este caso modelo sufrió una pérdida del 55% de corales en 2020. Esto nos recuerda: **los esfuerzos locales de conservación son necesarios, pero no suficientes.**
 
-1. **Políticas gubernamentales**: establecimiento de zonas de conservación de recursos pesqueros y restricción de métodos de pesca dañinos
-2. **Respaldo científico**: monitoreo a largo plazo por parte de instituciones académicas como la Universidad Nacional Sun Yat-sen
-3. **Vigilancia comunitaria**: ONG como Haiyong Studio y Laogu Yu Association impulsan la ciencia ciudadana marina
+## Tecnología vs. naturaleza: experimentos innovadores en Taiwán
 
-> **📝 Observación del curador**
-> El éxito de Xiaoliuqiú demuestra el poder de la movilización social. Los instructores de buceo locales se convirtieron en "científicos ciudadanos marinos", los hosteleros promovieron la "dieta respetuosa con el océano" y la conservación se transformó en un movimiento de toda la isla.
-
-Pero incluso este caso ejemplar sufrió la pérdida del 55% de sus corales en 2020. Esto nos recuerda que **los esfuerzos de conservación local son necesarios, pero no suficientes.**
-
-## Tecnología vs. naturaleza: los intentos innovadores de Taiwán
-
-Ante las limitaciones de los métodos de conservación tradicionales, Taiwán ha comenzado a explorar soluciones tecnológicas:
+Frente a las limitaciones de los métodos tradicionales de conservación, Taiwán comenzó a explorar soluciones tecnológicas:
 
 **Tecnología de monitoreo**:
 
-- Teledetección satelital para vigilar cambios en la temperatura del agua de mar
-- Reconocimiento de imágenes con IA para clasificar residuos marinos
-- Sistemas de monitoreo en tiempo real de la calidad del agua
+- Teledetección satelital para monitorear cambios en la temperatura del agua
+- Inteligencia artificial para identificar tipos de desechos marinos
+- Sistemas de monitoreo de calidad del agua en tiempo real
 
-**Técnicas de restauración**:
+**Tecnología de recuperación**:
 
-- Reproducción artificial y trasplante de coral
-- Experimentos de captura de carbono mediante cultivo de algas
-- Robots de recolección de residuos marinos
+- Reproducción y trasplante artificial de corales
+- Experimentos de cultivo de algas marinas para secuestrar carbono
+- Robots de recogida de desechos marinos
 
-Pero Chen Zhaolun, del Academia Sinica, advierte: "La tecnología solo puede ganar tiempo; la verdadera solución sigue siendo reducir las emisiones de gases de efecto invernadero."
+Pero los investigadores que estudian los corales saben que estas tecnologías solo pueden ganar tiempo; la causa raíz de la blanqueadición es el calentamiento global, y la verdadera solución sigue siendo reducir las emisiones de gases de efecto invernadero.
 
-## El futuro del océano bajo el cambio climático
+## El futuro marino bajo el cambio climático
 
-Los océanos de Taiwán enfrentan una triple amenaza:
+Las aguas de Taiwán enfrentan tres amenazas simultáneas:
 
-1. **Acidificación oceánica**: el CO₂ atmosférico se disuelve en el agua de mar, con un descenso anual del pH de 0,002-0,003
-2. **Aumento del nivel del mar**: sube a un ritmo de 1,4-3,4 mm por año
-3. **Clima extremo**: los tifones aumentan de intensidad y los períodos de calor se prolongan
+1. **Acidificación oceánica**: el CO₂ atmosférico se disuelve en el agua, haciéndola más ácida año tras año
+2. **Aumento del nivel del mar**: inundando zonas costeras y humedales
+3. **Clima extremo**: intensificación de los tifones y prolongación del calor extremo
 
-Todos estos son problemas globales que ningún país puede resolver por sí solo. La experiencia de Taiwán —desde la protección integral del atolón de Dongsha hasta la movilización comunitaria de Xiaoliuqiú, pasando por la dolorosa lección del blanqueamiento de coral de 2020— ofrece valiosas enseñanzas.
+Estos son problemas globales que ningún país puede resolver por sí solo. La experiencia de Taiwán —desde la protección integral de Dongsha hasta la movilización comunitaria del pequeño Ryukyu, pasando por la lección dolorosa de la blanqueadición de 2020— ofrece valiosas enseñanzas.
 
-## ¿Qué puede hacer cada persona? Una guía práctica de acción
+## ¿Qué puedes hacer tú? Guía práctica de acción
 
-Ante un desafío de tal magnitud, las acciones individuales pueden parecer insignificantes, pero el poder colectivo no debe subestimarse:
+Ante desafíos tan grandes, las acciones individuales pueden parecer pequeñas, pero su impacto colectivo no debe subestimarse. La primera medida para reducir plásticos es rechazar productos de un solo uso, optar por artículos con empaques mínimos y apoyar empresas de economía circular. En términos de consumo, elegir mariscos con certificación MSC, utilizar productos de protección solar amigables con los corales, y participar activamente en actividades de limpieza de playas y fondos marinos, generan un impacto real. A nivel de políticas, se puede prestar atención a las leyes de conservación marina, apoyar la legislación de descarbonización, y mantener supervisión sobre las prácticas ambientales de las empresas.
 
-El primer paso para reducir el plástico en la vida cotidiana es rechazar los plásticos de un solo uso, elegir productos con envases sin plástico y apoyar a empresas de economía circular. Como consumidores, optar por mariscos con certificación MSC de sostenibilidad, utilizar protector solar respetuoso con los corales y participar personalmente en limpiezas de playas y fondos marinos genera un impacto real. En el ámbito político, conviene seguir de cerca los proyectos de ley de conservación marina, apoyar la legislación de reducción de emisiones de carbono y mantener un escrutinio sobre el desempeño ambiental de las empresas.
+## Conclusión: la cuenta atrás ha comenzado
 
-> **✦** "No podemos proteger un océano vivo en un planeta muerto." (Programa de las Naciones Unidas para el Medio Ambiente)[^8]
+La historia de la conservación marina en Taiwán es una carrera contra el tiempo. Hemos invertido 30 años en construir sistemas de protección y criar casos exitosos como el del pequeño Ryukyu, pero la velocidad del cambio climático podría ser aún mayor.
 
-## Conclusión: el tiempo corre
+La blanqueadición de 2020 es una advertencia. Muestra que establecer zonas protegidas y limpiar los océanos son pasos necesarios, pero el cambio climático sigue siendo la amenaza principal, exigiendo acciones a nivel global.
 
-La historia de la conservación marina de Taiwán es una carrera contra el tiempo. Tardamos 30 años en construir sistemas de protección y en cultivar casos de éxito como Xiaoliuqiú, pero el ritmo de destrucción del cambio climático puede ser aún más rápido.
+Taiwán está rodeada de mar; el destino del océano es el destino de la isla. Mientras trabajamos para proteger este hogar azul para las futuras generaciones, el reloj sigue corriendo. Cada grado adicional de calentamiento, cada bolsa de plástico que cae al mar, cada oportunidad perdida de descarbonizar, decide el futuro marino de Taiwán.
 
-El desastre del blanqueamiento de coral de 2020 fue una advertencia. Demostró que establecer áreas protegidas y limpiar los residuos marinos es necesario, pero que el cambio climático es la amenaza fundamental y requiere acciones a escala global.
+La buena noticia es que el éxito en la recuperación de la tortuga verde en el pequeño Ryukyu demuestra que las estrategias de conservación correctas funcionan. La mala noticia es que incluso estos logros son frágiles frente al cambio climático. Necesitamos encontrar un equilibrio entre conservación y descarbonización, y construir puentes entre acciones locales y conciencia global.
 
-Taiwán es una isla rodeada de mar; el destino del océano es el destino de la isla. Cuando protegemos este hogar azul para las generaciones futuras, el tiempo corre. Cada grado de calentamiento, cada residuo plástico que llega al mar, cada oportunidad de reducir emisiones que se pierde, determina el futuro de los océanos de Taiwán.
-
-La buena noticia es que la recuperación de las tortugas verdes en Xiaoliuqiú demuestra que las estrategias de conservación correctas sí funcionan. La mala noticia es que esos logros siguen siendo frágiles frente al cambio climático. Necesitamos encontrar un equilibrio entre conservación y descarbonización, y construir un puente entre la acción local y el pensamiento global.
-
-Solo así los océanos de Taiwán podrán avanzar hacia una nueva prosperidad en los próximos 30 años, y no solo hacia la mera supervivencia.
+Solo así, Taiwán podrá dar la vuelta en los próximos 30 años hacia un renacimiento marino, y no solo sobrevivir.
 
 ## Referencias
 
-[^1]: [Estructura organizativa de la Comisión Oceánica](https://www.oac.gov.tw/ch/home.jsp?id=19&parentpath=0%2C1) — Confirmación de la fundación de la Comisión Oceánica el 28 de abril de 2018.
-[^2]: [El primer blanqueamiento masivo de coral a nivel nacional en la historia (2020) - Nuestra Isla](https://ourisland.pts.org.tw/content/7392) — Datos de la encuesta en 62 estaciones de monitoreo con 28.250 colonias de coral.
-[^3]: [Informe de residuos submarinos - The Reporter](https://www.twreporter.org/a/marine-litter) — Encuesta de densidad de residuos en el fondo marino de Chengyang Environment, 2020.
-[^4]: [Un año de diagnóstico rápido de residuos marinos revela la verdad sobre la contaminación costera de Taiwán - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Datos de densidad de residuos costeros y proporción de plástico en Taiwán.
-[^5]: [Informe sobre el impacto de la contaminación plástica marina - Fondo Mundial para la Naturaleza](https://www.sow.org.tw/sites/sow/files/u26227/shi_jie_zi_ran_ji_jin_hui_yan_jiu_zhai_yao__hai_yang_su_jiao_wu_ran_dui_hai_yang_wu_zhong_sheng_wu_duo_yang_xing_he_sheng_tai_xi_tong_de_ying_xiang_zhong_wen_ban_20221205_0.pdf) — Informe de 2022: 2.141 especies afectadas por la contaminación plástica a nivel mundial.
-[^6]: [Plataforma de observación del blanqueamiento de coral en Taiwán - Centro de Investigación en Biodiversidad del Academia Sinica](https://github.com/Bio-Div-Taiwan/Taiwan-Coral-Bleaching-Platform) — Base de datos de monitoreo del blanqueamiento de coral del Academia Sinica.
-[^7]: [Programa de monitoreo de tortugas marinas en Xiaoliuqiú - Administración de Conservación Marina](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Datos de encuestas de población de tortugas marinas en Xiaoliuqiú.
-[^8]: [Estado actual de la promoción del tratado global sobre plásticos - Programa de las Naciones Unidas para el Medio Ambiente](https://www.unep.org/news-and-stories/story/global-plastics-treaty-what-we-know-so-far) — Avances del tratado global sobre plásticos del PNUMA.
+[^1]: [Estructura organizativa de la Comisión de Mar](https://www.oac.gov.tw/ch/home.jsp?id=19&parentpath=0%2C1) — Confirmación del establecimiento de la Comisión de Mar el 28 de abril de 2018.
+
+[^2]: [La primera blanqueadición masiva de corales en la historia de Taiwán - Nuestra isla](https://ourisland.pts.org.tw/content/7392) — Datos de monitoreo de 62 puntos y 28,250 corales.
+
+[^3]: [Informe de investigación de desechos marinos en el fondo del mar - Reporte](https://www.twreporter.org/a/marine-litter) — Investigación de densidad de desechos marinos de Chensheng Environmental Consulting en 2020.
+
+[^4]: [Investigación anual de desechos marinos revela la verdad sobre la contaminación costera de Taiwán - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Datos sobre densidad de desechos y proporción de plástico en las costas de Taiwán.
+
+[^5]: [Informe sobre el impacto de la contaminación por plástico en el mar - WWF](https://www.sow.org.tw/sites/sow/files/u26227/shi_jie_zi_ran_ji_jin_hui_yan_jiu_zhai_yao__hai_yang_su_jiao_wu_ran_dui_hai_yang_wu_zhong_sheng_wu_duo_yang_xing_he_sheng_tai_xi_tong_de_ying_xiang_zhong_wen_ban_20221205_0.pdf) — Informe de 2022: 2,141 especies afectadas por la contaminación por plástico a nivel mundial.
+
+[^6]: [La oficina de gestión continúa monitoreando la blanqueadición de corales en el Parque Nacional Marino de Dongsha y Penghu Nangan y Beigan](https://www.marine.gov.tw/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/%E8%A1%8C%E6%94%BF%E5%85%AC%E5%91%8A/2652-%E6%B5%B7%E7%AE%A1%E8%99%95%E6%8C%81%E7%BA%8C%E7%9B%A3%E6%8E%A7%E6%9D%B1%E6%B2%99%E7%92%B0%E7%A4%81%E5%8F%8A%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E7%8F%8A%E7%91%9A%E7%99%BD%E5%8C%96%E7%8B%80%E6%B3%81) — Anuncio de monitoreo de la blanqueadición de corales en la laguna de Dongsha en 2020.
+
+[^7]: [Programa de investigación y monitoreo de la recuperación ecológica marina del pequeño Ryukyu del año 113](https://www.oca.gov.tw/ch/home.jsp?id=618&parentpath=0,299&mcustomize=research_view.jsp&dataserno=202501240001) — Investigación con drones mensuales de tortugas marinas en 2024: promedio anual de 637, pico de 981 en noviembre.
