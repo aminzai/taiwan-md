@@ -111,6 +111,36 @@ TRANSLATABLE_FM_FIELDS = ["title", "description", "tags", "imageAlt"]
 
 PILOT_ROOT = Path("/tmp/structured-pilot")
 
+# chunk 級字元比上限 2026-09-22 改為按語言從 ratio-bands.json 推：舊碼對十二語一律寫死
+# [0.8, 4.0]，這把尺是 2026-07-25 vi pilot 時憑印象放的，之後沒人對其他語言重驗過。
+# 拿 120 篇×12 語已上站的合格譯文按 H2 切塊實測（同一種切法），chunk 級比值的 p95：
+# fr 4.60 / es 4.61 / de 4.37 / id 4.06 / pt 4.12，p99.5 最高 fr 5.19——也就是說
+# 羅曼語與德文每篇約十塊裡有一塊會合法地越過 4.0，整篇 structured 因此中止，
+# run 98122 一夜 39 次 chunk 比值拒收裡 35 次落在 4.01～4.89 這一格（fr 15 / es 7 /
+# id 6 / de 6），structured 引擎在這些語言的通過率被壓到 12%。
+# 修法：上限 = max(4.0, healthy_max × CHUNK_RATIO_SLACK)。chunk 比 whole 噪音大（短塊、
+# 標題行、連結文字佈局），所以給整篇 band 的 1.3 倍鬆度；每個語言的 p99.5 都在新上限
+# 之下、en 那顆 20.46 的胡言亂語仍擋得住；ja/ko 上限維持 4.0 不收緊（本次只修假陽性
+# 家族，不新開拒收面）。下限 0.8 不動——掉段的守門是腳註集合、URL multiset、H2 數。
+CHUNK_RATIO_FLOOR = 0.8
+CHUNK_RATIO_LEGACY_CEILING = 4.0
+CHUNK_RATIO_SLACK = 1.3
+RATIO_BANDS_PATH = SCRIPT_DIR / "ratio-bands.json"
+
+
+def chunk_ratio_band(lang: str) -> tuple[float, float]:
+    """回傳 (下限, 上限)。上限依 ratio-bands.json 該語言 healthy_max 放大，讀不到
+    或該語言未校準時退回舊寫死值，行為與 2026-09-22 前完全相同。"""
+    ceiling = CHUNK_RATIO_LEGACY_CEILING
+    try:
+        bands = json.loads(RATIO_BANDS_PATH.read_text(encoding="utf-8")).get("bands", {})
+        hmax = float(bands.get(lang, {}).get("healthy_max", 0) or 0)
+        if hmax > 0:
+            ceiling = max(CHUNK_RATIO_LEGACY_CEILING, round(hmax * CHUNK_RATIO_SLACK, 2))
+    except (OSError, ValueError, TypeError):
+        pass
+    return CHUNK_RATIO_FLOOR, ceiling
+
 
 # ────────────────── backend selection ──────────────────
 
@@ -845,8 +875,9 @@ def _validate_chunk(zh_chunk: str, out: str, zh_refs: set, lang: str, tmp_dir: P
     if FN_DEF_RE.search(out):
         issues.append("hallucinated footnote definition line(s) in body output (should only contain reference markers)")
     ratio = len(out) / max(len(zh_chunk), 1)
-    if not (0.8 <= ratio <= 4.0):
-        issues.append(f"ratio out of band [0.8,4.0]: {ratio:.2f}")
+    lo, hi = chunk_ratio_band(lang)
+    if not (lo <= ratio <= hi):
+        issues.append(f"ratio out of band [{lo},{hi}]: {ratio:.2f}")
     hits = _cjk_leak_hits(out, lang, tmp_dir)
     if hits:
         issues.append(f"cjk leak: {hits[0]}")

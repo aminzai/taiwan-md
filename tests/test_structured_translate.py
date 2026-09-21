@@ -336,3 +336,25 @@ def test_translate_footnotes_batches_by_char_budget_not_only_count():
                   for i in range(1, 21)]
     MODULE.translate_footnotes(short_defs, "de", Backend(), {"calls": []})
     assert seen == [15, 5]            # 短引註仍照 15 條一批
+
+
+def test_chunk_ratio_ceiling_follows_language_band(tmp_path):
+    """2026-09-22：chunk 比值上限從寫死 4.0 改按 ratio-bands.json 該語言 healthy_max 放大。
+    fr 合格譯文 chunk 級 p95 已是 4.60，舊上限每篇十塊擋一塊，structured 在羅曼語 12% 通過率的病根。"""
+    lo, hi = MODULE.chunk_ratio_band("fr")
+    assert lo == MODULE.CHUNK_RATIO_FLOOR
+    assert hi > MODULE.CHUNK_RATIO_LEGACY_CEILING  # fr healthy_max 4.0 × 1.3
+    # ja/ko 整篇 band 遠低於 4.0，上限不收緊（本次只修假陽性，不新開拒收面）
+    assert MODULE.chunk_ratio_band("ja")[1] == MODULE.CHUNK_RATIO_LEGACY_CEILING
+    # 未校準語言退回舊值
+    assert MODULE.chunk_ratio_band("xx") == (MODULE.CHUNK_RATIO_FLOOR, MODULE.CHUNK_RATIO_LEGACY_CEILING)
+
+    zh = "## 標題\n\n" + "這是一段中文內容。" * 40
+    out_fr = "## Titre\n\n" + "Ceci est un paragraphe de contenu en français. " * 33
+    ratio = len(out_fr) / len(zh)
+    assert 4.0 < ratio < hi, ratio  # 落在舊上限與新上限之間的合法 chunk
+    issues = MODULE._validate_chunk(zh, out_fr, set(), "fr", tmp_path)
+    assert not any(i.startswith("ratio out of band") for i in issues), issues
+    # 明顯胡言亂語（20 倍）仍擋
+    issues = MODULE._validate_chunk(zh, out_fr * 5, set(), "fr", tmp_path)
+    assert any(i.startswith("ratio out of band") for i in issues), issues
