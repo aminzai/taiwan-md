@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T03:36:26+08:00",
-    "zhCommitHead": "9aef21bd4",
+    "lastUpdated": "2026-09-22T04:16:46+08:00",
+    "zhCommitHead": "45c9899ec",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 43,
+        "fresh": 1054,
+        "stale": 41,
         "metadata_stale": 7,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 906,
+        "fresh": 908,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 79,
+        "missing": 77,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1050,
-        "stale": 49,
+        "fresh": 1052,
+        "stale": 47,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1042,
-        "stale": 53,
+        "fresh": 1043,
+        "stale": 52,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1019,
+        "fresh": 1021,
         "stale": 44,
-        "metadata_stale": 44,
+        "metadata_stale": 42,
         "missing": 17,
         "orphan": 0
       },
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1012,
-        "stale": 56,
+        "fresh": 1014,
+        "stale": 54,
         "metadata_stale": 11,
         "missing": 45,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 961,
+        "fresh": 962,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 99,
+        "missing": 98,
         "orphan": 0
       },
       "ar": {
@@ -18042,7 +18042,19 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-enterprise-uni-president.md",
+          "translatedFrom": "Economy/台灣企業：統一企業.md",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T19:48:51.623866+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 64,
+          "bytes": 141681,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-enterprise-uni-president.md",
@@ -59732,19 +59744,17 @@
         "fr": {
           "path": "fr/Society/taipei-rat-problem.md",
           "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2a7adde08eabea57",
-          "sourceBodyHash": "sha256:c303ba562f23c253",
-          "translatedAt": "2026-05-09T11:09:58+08:00",
+          "sourceCommitSha": "44b9afeef",
+          "sourceContentHash": "sha256:ea94b427916538a7",
+          "sourceBodyHash": "sha256:bcba667c74795d16",
+          "translatedAt": "2026-09-21T20:05:47.750932+00:00",
           "translationLastCommit": "45f38fef",
           "translationLastModified": "2026-05-09T12:10:53+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 30084,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 30290,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taipei-rat-problem.md",
@@ -73514,8 +73524,8 @@
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
           "translatedAt": "2026-09-21T23:34:06+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "45c9899e",
+          "translationLastModified": "2026-09-22T03:36:26+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 26017,
@@ -110029,17 +110039,17 @@
         "pt": {
           "path": "pt/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-07-25T06:34:18+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-22T02:06:16+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "bytes": 16965,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "footnoteDefs": 25,
+          "bytes": 41696,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/pa-chiung-political-youtuber.md",
@@ -112026,17 +112036,17 @@
         "ko": {
           "path": "ko/People/red-shin-minecraft-youtuber.md",
           "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:c0745c4b9d2ae295",
-          "sourceBodyHash": "sha256:c2f250d5a21d59eb",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "sourceCommitSha": "fb7f4f824",
+          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
+          "sourceBodyHash": "sha256:02c4e1b3fececdae",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 11881,
-          "status": "stale",
-          "reason": "footnote-loss (18→9)"
+          "footnoteDefs": 18,
+          "bytes": 34939,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/red-shin-minecraft-youtuber.md",
@@ -141951,19 +141961,17 @@
         "vi": {
           "path": "vi/Food/eel-noodles.md",
           "translatedFrom": "Food/鱔魚意麵.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:6060b205f72b8e41",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:81213e22c8b81c39",
           "sourceBodyHash": "sha256:7eb60f7eb1751d17",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10529,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 9922,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Food/eel-noodles.md",
@@ -144915,19 +144923,17 @@
         "vi": {
           "path": "vi/Food/beef-soup.md",
           "translatedFrom": "Food/牛肉湯.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:28c5ddfd25d93a95",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:1bed2e499f02597c",
           "sourceBodyHash": "sha256:2b57fc3112c5bc59",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10044,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 10674,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Food/beef-soup.md",
@@ -153178,19 +153184,17 @@
         "en": {
           "path": "en/Food/taiwan-specialty-home-cooking.md",
           "translatedFrom": "Food/台灣手路菜.md",
-          "sourceCommitSha": "b0e441fa",
-          "sourceContentHash": "sha256:976bf813ab549fe2",
-          "sourceBodyHash": "sha256:c76694b44c893f41",
-          "translatedAt": "2026-06-10T16:43:34Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 16231,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "bytes": 15598,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-specialty-home-cooking.md",
@@ -153368,19 +153372,17 @@
         "en": {
           "path": "en/Food/taiwan-fermented-and-pickled-foods.md",
           "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c2ef664839dd9cc6",
-          "sourceBodyHash": "sha256:b693c93c53efd3dc",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 15220,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -3"
+          "bytes": 15104,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-fermented-and-pickled-foods.md",
@@ -157693,7 +157695,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/shihmen-reservoir.md",
+          "translatedFrom": "History/石門水庫.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:d8b88408a353bacc",
+          "sourceBodyHash": "sha256:6772a9de43938945",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 32097,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/shihmen-reservoir.md",
@@ -158624,19 +158638,17 @@
         "ko": {
           "path": "ko/History/228-incident.md",
           "translatedFrom": "History/二二八事件.md",
-          "sourceCommitSha": "9bddcff6",
-          "sourceContentHash": "sha256:4d3c97207d94073d",
-          "sourceBodyHash": "sha256:1db38e403d646d80",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "936ada6c3",
+          "sourceContentHash": "sha256:99bda6e7dc861382",
+          "sourceBodyHash": "sha256:3ffe04bee42caf48",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 26962,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -10"
+          "bytes": 29009,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/228-incident.md",
@@ -167055,19 +167067,17 @@
         "pt": {
           "path": "pt/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "710263a86",
-          "sourceContentHash": "sha256:bc916494357a8d5d",
-          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:1c4df7a1034d9237",
+          "sourceBodyHash": "sha256:decacb8f3924c150",
+          "translatedAt": "2026-09-21T20:08:34.509062+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 29914,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 30002,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-white-terror.md",
@@ -188995,7 +189005,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/tatung-rice-cooker.md",
+          "translatedFrom": "Culture/電鍋.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:38bd6da6b374726e",
+          "sourceBodyHash": "sha256:0397f50429259390",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 29861,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/tatung-rice-cooker.md",
