@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T02:39:57+08:00",
-    "zhCommitHead": "9db058963",
+    "lastUpdated": "2026-09-22T03:14:42+08:00",
+    "zhCommitHead": "d48454eba",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1050,
-        "stale": 45,
+        "fresh": 1051,
+        "stale": 44,
         "metadata_stale": 7,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 905,
+        "fresh": 906,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 80,
+        "missing": 79,
         "orphan": 0
       },
       "ko": {
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1017,
+        "fresh": 1018,
         "stale": 44,
-        "metadata_stale": 46,
+        "metadata_stale": 45,
         "missing": 17,
         "orphan": 0
       },
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1011,
-        "stale": 57,
+        "fresh": 1012,
+        "stale": 56,
         "metadata_stale": 11,
         "missing": 45,
         "orphan": 0
@@ -71929,19 +71929,17 @@
         "pt": {
           "path": "pt/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-21T18:57:08.826597+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 44195,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 44278,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/About/how-an-article-is-born.md",
@@ -73439,8 +73437,8 @@
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
           "translatedAt": "2026-09-21T23:34:04+08:00",
-          "translationLastCommit": "740ab7c1",
-          "translationLastModified": "2026-08-09T12:26:50+08:00",
+          "translationLastCommit": "00397ac3",
+          "translationLastModified": "2026-09-22T02:39:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 18376,
@@ -114667,8 +114665,8 @@
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
           "translatedAt": "2026-09-21T17:08:22.127572+00:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "00397ac3",
+          "translationLastModified": "2026-09-22T02:39:57+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 36372,
@@ -137293,19 +137291,17 @@
         "vi": {
           "path": "vi/People/kevin-lin-ultramarathon-desert-pioneer.md",
           "translatedFrom": "People/林義傑.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:8741429d614846be",
           "sourceBodyHash": "sha256:3713eaac6b565ca6",
-          "translatedAt": "2026-07-26T03:58:04+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12169,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 13469,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/kevin-lin-ultramarathon-desert-pioneer.md",
@@ -144163,8 +144159,8 @@
           "sourceContentHash": "sha256:c0f8cc644aeae280",
           "sourceBodyHash": "sha256:fd7a2d45f0c2514e",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "00397ac3",
+          "translationLastModified": "2026-09-22T02:39:57+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 14454,
@@ -152470,19 +152466,17 @@
         "en": {
           "path": "en/Food/bubble-tea.md",
           "translatedFrom": "Food/珍珠奶茶.md",
-          "sourceCommitSha": "30569f74",
-          "sourceContentHash": "sha256:d90e80b19559290b",
-          "sourceBodyHash": "sha256:9bc13bf8c8054628",
-          "translatedAt": "2026-05-16T21:50:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 15175,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 16050,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/bubble-tea.md",
@@ -155469,7 +155463,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/1935-hsinchu-taichung-earthquake.md",
+          "translatedFrom": "History/1935新竹臺中地震.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 31914,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/1935-hsinchu-taichung-earthquake.md",
