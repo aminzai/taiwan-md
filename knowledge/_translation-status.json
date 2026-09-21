@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T19:08:59+08:00",
-    "zhCommitHead": "d948b5f8c",
+    "lastUpdated": "2026-09-21T19:45:44+08:00",
+    "zhCommitHead": "d06eee73b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 994,
-        "stale": 72,
+        "fresh": 995,
+        "stale": 71,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 976,
-        "stale": 67,
+        "fresh": 977,
+        "stale": 66,
         "metadata_stale": 15,
         "missing": 66,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 824,
+        "fresh": 825,
         "stale": 19,
         "metadata_stale": 6,
-        "missing": 275,
+        "missing": 274,
         "orphan": 0
       }
     },
@@ -5774,8 +5774,8 @@
           "sourceContentHash": "sha256:a6a639d332e8f086",
           "sourceBodyHash": "sha256:89d2f2476f597f2c",
           "translatedAt": "2026-09-21T09:36:50.040407+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "d06eee73",
+          "translationLastModified": "2026-09-21T19:08:59+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -68099,7 +68099,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/About/taiwan-md.md",
+          "translatedFrom": "About/taiwan-md.md",
+          "sourceCommitSha": "b8160c741",
+          "sourceContentHash": "sha256:de46b78b6b1ae5fb",
+          "sourceBodyHash": "sha256:ba0673429f6e80dd",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -162698,18 +162709,16 @@
         "ar": {
           "path": "ar/Geography/miaoli-county.md",
           "translatedFrom": "Geography/苗栗縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:0de597da286e629e",
-          "sourceBodyHash": "sha256:9523731d73687bb2",
-          "translatedAt": "2026-09-08T01:58:37.373073+00:00",
+          "sourceCommitSha": "8d4f4b434",
+          "sourceContentHash": "sha256:d42a13d401176a58",
+          "sourceBodyHash": "sha256:240cad04d9fcb9fe",
+          "translatedAt": "2026-09-21T11:12:53.498910+00:00",
           "translationLastCommit": "458b22cc",
           "translationLastModified": "2026-09-08T09:59:07+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/miaoli-county.md",
@@ -172992,18 +173001,16 @@
         "pt": {
           "path": "pt/Geography/keelung-city.md",
           "translatedFrom": "Geography/基隆市.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:d96d5a768e497ec1",
-          "sourceBodyHash": "sha256:a875e0cc381f5fed",
-          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2fb0e2b29a78f122",
+          "sourceBodyHash": "sha256:5db325d228abad28",
+          "translatedAt": "2026-09-21T11:11:05.310972+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/keelung-city.md",
