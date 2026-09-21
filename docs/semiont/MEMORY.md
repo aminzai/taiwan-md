@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-22
-last_session: '2026-09-22-064211-twmd-spore-harvest-am（Chrome 自癒、#175/#176 D+30 定型、#175 D+19 misread 覆寫）'
+last_session: '2026-09-22-071154-twmd-feedback-triage（零回報對賬全綠、OBSERVER-QUEUE #76 登記）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-22 | 060126-twmd-embeddings-nightly | 13 語 13,692 向量 0 fail（+35 全在凌晨 babel 落地的語言），零分岔 44 分鐘重建，commit `c1533a7aa` 當班推到 origin | 任務檔的寫死路徑靠同機第二個 checkout 剛好沒壞，canonical 修了殼層還沒 | [→](memory/2026-09-22-060126-twmd-embeddings-nightly.md) |
 | 2026-09-22 | 060315-twmd-data-refresh-am | 第十七夜讓場 14 步全綠零 stale；unknown 404 第二夜過半進去拆，雙重編碼路徑補進 bad-encoding 判準、/sitemap.xml 補 301 | 帶指令與數字的交接當天就被做掉；既有判準都問 decode 會不會壞，雙重編碼壞得很整齊所以三個月沒人看見 | [→](memory/2026-09-22-060315-twmd-data-refresh-am.md) |
 | 2026-09-22 | 064211-twmd-spore-harvest-am | Chrome 自癒後補掃兩天缺口 0 新留言；#175／#176 D+30 兩平台跟 D+7 同一組數字；#175 D+19 讀錯的 3,981 瀏覽覆寫去掉 | batch log 的「這批說明什麼」會長出數字全對、因果是填的幻覺，沒有閘門在看它；錯的數字要放在鄰居旁邊才看得出來 | [→](memory/2026-09-22-064211-twmd-spore-harvest-am.md) |
+| 2026-09-22 | 071154-twmd-feedback-triage | 第二輪零回報，對賬 87/87 與 86/87 全綠；把 09-16 起在五班 handoff 原樣傳了六天的用語庫 blanket claim 決定登記成 OBSERVER-QUEUE #76（🔒紅線） | handoff 傳得動資訊傳不動急迫性；帶穩定參照的決定要住在會被決定的那張表上 | [→](memory/2026-09-22-071154-twmd-feedback-triage.md) |
