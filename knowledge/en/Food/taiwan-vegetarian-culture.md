@@ -15,9 +15,11 @@ featured: false
 category: 'Food'
 lastVerified: 2026-05-16
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Taiwanese_vegetarian_sign.jpg'
+image: '/article-images/food/taiwanese-vegetarian-sign.webp'
 imageAlt: 'Taiwan vegetarian sign'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'user:takoradee / Wikimedia Commons'
+imageLicense: 'CC BY 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwanese_vegetarian_sign.jpg'
 translatedFrom: 'Food/台灣素食文化.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:b6884a554f5b7c89'

@@ -17,9 +17,11 @@ featured: true
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg'
+image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
 imageAlt: 'Vietnamese pho'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Tayzar44 / Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bd8e4eaaa3e395c7'

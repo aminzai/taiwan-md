@@ -17,6 +17,8 @@ readingTime: 22
 lastVerified: 2026-07-16
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
 translatedFrom: 'History/大罷免.md'
 sourceCommitSha: '5add39fc8'
 sourceContentHash: 'sha256:1c18939671190740'

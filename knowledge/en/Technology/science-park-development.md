@@ -21,6 +21,8 @@ lastVerified: 2026-05-29
 lastHumanReview: false
 featured: true
 image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
 translatedFrom: 'Technology/科技園區發展.md'
 sourceCommitSha: 'bc725e8c'
 sourceContentHash: 'sha256:19e7a45a0852260f'

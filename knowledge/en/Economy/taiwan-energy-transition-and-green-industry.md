@@ -1,4 +1,8 @@
 ---
+image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
+imageCredit: 'M. Weitzel (Wikimedia Commons)'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
 originalTranslatedFrom: 'Economy/台灣能源轉型與綠能產業.md'
 translationNeedsSync: true
@@ -17,7 +21,7 @@ tags:
   ]
 readingTime: 12
 author: 'Taiwan.md Translation Team'
-featured: false
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 ---

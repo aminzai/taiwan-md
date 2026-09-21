@@ -22,6 +22,8 @@ readingTime: 18
 lastVerified: 2026-06-13
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:b60bd097d9577c55'

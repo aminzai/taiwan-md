@@ -19,6 +19,7 @@ readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 featured: true
+imageLicense: 'Fair use editorial commentary'
 translatedFrom: 'People/黃山料.md'
 sourceCommitSha: '00939ce59'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'

@@ -15,15 +15,15 @@ tags:
   ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 15
-featured: true
+featured: false
 category: 'Food'
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: '/article-images/food/danzi-noodle-tainan.webp'
+image: '/article-images/food/raohe-street-night-market-entrance-2017.webp'
 imageAlt: 'Tainan Dan-Zai Noodles'
-imageCredit: 'Shoestring（Wikivoyage） / Wikimedia Commons'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Danzi_noodle,_Tainan,_Taiwan.jpg'
+imageCredit: 'Ken Marshall / Wikimedia Commons'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 ---
 
 # Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood

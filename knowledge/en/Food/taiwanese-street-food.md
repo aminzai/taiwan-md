@@ -1,4 +1,6 @@
 ---
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
 sourceCommitSha: '1facb1b9'
 sourceContentHash: 'sha256:d44d711c2a614f5f'
@@ -23,9 +25,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
+image: '/article-images/food/raohe-street-night-market-entrance-2017.webp'
 imageAlt: 'Night view of the entrance to Raohe Street Night Market, neon signs flickering'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Ken Marshall / Wikimedia Commons'
 ---
 
 # Taiwanese Street Food
