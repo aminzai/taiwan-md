@@ -1,213 +1,212 @@
 ---
-title: 'Tanya Chua: cuatro veces reina del Golden Melody, cómo una singapurense convirtió a Taiwán en su hogar'
-description: 'Desde que un tecladista le dijo que se callara en un bar de Singapur en 1996, hasta ganar cuatro premios en una sola noche en la 33.ª edición del Golden Melody en 2022, Tanya Chua tardó 26 años en convertirse en la única artista en la historia de la música Mandopop en ganar cuatro veces el premio a mejor cantante femenina. No nació en Taiwán, pero el Golden Melody, su lugar de residencia, sus colaboraciones y sus canciones más cantadas crecieron en Taiwán. La identidad local de una artista extranjera se forjó en 2006, cuando decidió romper su contrato con Warner, mudarse sola a Taipéi y fundar el estudio musical "Tianya Music".'
+title: 'Tsai Ing-wen: Cuatro veces ganadora del Grammy; ¿Cómo hizo una persona de Singapur que Taiwán fuera su escenario principal?'
+description: 'Desde que un tecladista le pidió callar en un bar de Singapur en 1996, hasta ganar cuatro premios en una noche en el 33.º Premio Grammy en 2022, Tsai Ing-wen se ha convertido en la única ganadora cuádruple del panorama musical cantado en chino. Ella no nació en Taiwán, pero los Grammys, su residencia, sus colaboradores y las canciones más populares están arraigados en Taiwán; esta identidad local de una artista extranjera es la elección que hizo al cancelar su contrato con Warner en 2006, mudarse a Taipéi y fundar "Tianya Music Studio".'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
-category: People
-subcategory: '當代音樂人'
+category: 'People'
 tags:
   [
+    'Tsai Ing-wen',
     'Tanya Chua',
-    'Tanya Chua',
-    'Golden Melody',
+    'Premio Grammy',
     'cantautora',
     'Singapur',
-    'música Mandopop',
+    'panorama musical cantado en chino',
     'productora',
-    'composición',
-    'Blank Space',
+    'creación',
     'DEPART',
   ]
-readingTime: 22
+subcategory: '當代音樂人'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
-translatedFrom: People/蔡健雅.md
-sourceCommitSha: 'dc7865f0'
-sourceContentHash: 'sha256:0b4776a25d38b2ed'
-sourceBodyHash: 'sha256:126c0129a0743d8a'
-translatedAt: 2026-05-01T20:54:23+08:00
+readingTime: 22
+translatedFrom: 'People/蔡健雅.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:bbe9414090e28df8'
+sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
-# Tanya Chua: cuatro veces reina del Golden Melody, cómo una singapurense convirtió a Taiwán en su hogar
+# Tsai Ing-wen: Cuatro veces ganadora del Grammy; ¿Cómo hizo una persona de Singapur que Taiwán fuera su escenario principal?
 
-> **Resumen en 30 segundos:** Tanya Chua es singapurense, nació en Singapur en 1975 y entró en la música Mandopop en 1999 con su primer álbum en mandarín _Breathe_. Lleva 26 años en la industria. Ha ganado cuatro veces el premio a mejor cantante femenina en mandarín/chino del Golden Melody (2006/2008/2012/2022), y es la única cantante femenina en llevarse cuatro premios en una sola noche: en la 33.ª edición de 2022, su álbum _DEPART_ arrasó con Álbum del Año, Mejor Álbum en Chino, Mejor Grabación de Audio y Mejor Cantante Femenina en Chino. No es solo cantante, sino también productora: en 2008 ganó simultáneamente Mejor Cantante Femenina en Mandarín y Mejor Productor de Álbum. Ha escrito canciones y producido álbumes para Faye Wong, Stefanie Sun, A-Mei, Fish Leong, Na Ying y Rainie Yang. En 2024 incursionó en el diseño musical para la serie _Imperfect Us_. Nunca ha tenido pasaporte taiwanés, pero esta isla es su hogar en todos los sentidos.
+> **Resumen de 30 segundos:** Tsai Ing-wen es de Singapur, nacida en 1975. Debutó en el panorama musical cantado en chino con su primer álbum en 1999. Ha ganado cuatro premios Grammy como cantante femenina (2006/2008/2012/2022) y es la única artista en ganar cuatro Grammys en una sola noche: en el 33.º Premio, con el álbum _DEPART_, que arrasó en las categorías de Álbum del Año, Mejor Álbum Cantado en Chino, Mejor Grabación Vocal y Mejor Cantante Femenina en Chino. Ella no es solo cantante, sino también productora; en 2008 ganó simultáneamente los premios de Mejor Cantante Femenina en Chino y Mejor Productor de Álbum. Ha compuesto canciones y producido álbumes para Faye Wong, Stefanie Sun, A-mei, Jing Ru, Na Ying y Cecilia Cheung. En 2024, colaboró en la banda sonora del drama _No Somos Suficientemente Amables_. Nunca ha tenido un pasaporte taiwanés, pero esta isla es su escenario principal de facto.
 
-La noche del 2 de julio de 2022, en el Kaohsiung Arena. La 33.ª ceremonia del Golden Melody llegaba a su fin. Se abrió el sobre del Álbum del Año y el presentador anunció: "_DEPART_ — Tanya Chua."
+El 2 de julio de 2022, en el pabellón Kaohsiung. Al final del 33.º Premio Grammy, se abrió el sobre del Álbum del Año y el presentador anunció: "《DEPART》—Tsai Ing-wen."
 
-Era su cuarto premio de la noche. Los tres anteriores habían sido Mejor Cantante Femenina en Chino, Mejor Álbum en Chino y Mejor Álbum de Grabación de Audio. Un álbum, cuatro premios en una sola noche. En los 33 años de historia del Golden Melody, nadie lo había logrado así.
+Ese fue su cuarto premio esa noche. Los tres anteriores fueron para Mejor Cantante Femenina en Chino, Mejor Álbum Cantado en Chino y Mejor Grabación Vocal. Cuatro premios en una sola noche. En la historia de 33 años del Grammy, nadie lo había logrado así.
 
-Subió al escenario con los ojos húmedos, pero lo primero que dijo fue: "No quiero llorar, porque me tomó mucho tiempo maquillarme y peinarme."[^1]
+Subió al escenario con los ojos llorosos, pero su primera palabra fue: "No quiero llorar porque me tomó mucho tiempo el maquillaje y peinado."[^1]
 
-Risas. Luego añadió: "No pensé que tendría otra oportunidad de ganar esto. Lo imaginé, pero no creí que fuera posible."[^1]
+Risas. Luego dijo: "No pensé que tendría esta oportunidad, lo imaginé, pero no creí que fuera posible."[^1]
 
-Después vino la frase que sería citada una y otra vez en su discurso de agradecimiento: "Todos los músicos somos narradores de historias (_story tellers_). Todo lo que nos ocurre, cada detalle, el aire que respiramos, cada historia que vemos, depende de que nosotros, los músicos, la escribamos. Cuando los extraterrestres lleguen algún día, al escuchar nuestra música, sabrán lo que pasó."[^1]
+Luego vino la cita ganadora que se citó repetidamente: "Todos los músicos son narradores (story tellers); todo lo que nos sucede, todos los detalles, el aire que respiramos, cada historia que vemos, es escrito por nosotros, los músicos. Cuando lleguen extraterrestres en el futuro y escuchen nuestra música, sabrán lo que ha pasado."[^1]
 
-Tenía 47 años. Habían pasado 16 años desde su primer premio Golden Melody. 26 años desde que un tecladista le dijo que se callara en un bar de Singapur.
+Tenía 47 años ese año. Habían pasado 16 años desde su primer Grammy. Habían pasado 26 años desde que fue reprendida por un tecladista en un bar.
 
-### 1996, Singapur: el tecladista le dijo que se callara
+### Singapur, 1996: El tecladista le pidió callar
 
-Retrocedamos a 1996, Singapur. Una joven recién graduada de la Singapore Polytechnic, donde estudió administración de empresas, cantaba en un bar. La banda ensayaba covers y ella se atrevió a sugerir: "Esta canción podría arreglarse de forma más interesante."
+Retrocedemos a Singapur en 1996. Una joven recién graduada de la Universidad Tecnológica de Singapur, con una carrera en administración de empresas, cantaba en bares. La banda ensayaba canciones populares y ella sugirió: "Esta canción se podría reordenar para que sea más interesante."
 
-El tecladista le dijo que se callara. "Pensó que yo no entendía nada de música."[^2]
+El tecladista le dijo que callara. "Él pensó que yo no entendía nada de música."[^2]
 
-Tenía 21 años y ya llevaba varios años cantando en bares. "Nunca pensé en terminar con esa vida de covers. Era joven y mis ideas eran simples: amaba cantar y pensaba que cantar en bares era una forma divertida de ganar algo de dinero."[^3]
+Ella tenía 21 años y había estado cantando en bares durante varios años. "Nunca pensé en terminar mi vida de interpretación de covers; era joven, mis ideas eran simples, me encantaba cantar y consideraba que cantar en un bar era una forma interesante de ganar dinero para mis gastos."[^3]
 
-Pero esa palabra —"cállate"— la hizo reflexionar: si de verdad no entendía de música, tendría que aprender. En 1998, obtuvo una beca para estudiar en el Musicians Institute (MI) de Hollywood, California, especializándose en guitarra eléctrica.
+Pero la palabra "callar" la hizo pensar: si realmente no entendía música, entonces tenía que aprender. En 1998, obtuvo una beca e ingresó al Musicians Institute (MI) en Hollywood, California, EE. UU., estudiando guitarra eléctrica.
 
-De vuelta en Singapur, grabó su primer álbum en inglés, _Bored_ (1997, editado por Yellow Music en Singapur). Y luego llegó 1999 — un año que lo cambió todo — cuando firmó con PolyGram (absorbido después por Universal Music) para lanzar su primer álbum en mandarín.
+Al regresar a Singapur, lanzó su primer álbum en inglés, _Bored_ (distribuido por Yellow Music en Singapur en 1997). Luego, en 1999: un año que lo cambió todo: firmó con Polydor (posteriormente absorbida por Universal Records) y se preparó para lanzar su primer álbum cantado en chino.
 
-El álbum se llamó _Breathe_. Se editó en diciembre de 1999, dirigido principalmente al mercado taiwanés. En 2000 fue nominada al Mejor Artista Revelación en la 11.ª edición del Golden Melody con este álbum.[^4]
+Ese álbum se llamó _Respiración_ (_Huxi_). Se lanzó en diciembre de 1999, principalmente en el mercado taiwanés. En 2000, fue nominada al 11.º Premio Grammy por Mejor Novato[^4].
 
-> **📝 Nota del curador:** En 1999, el panorama de la música Mandopop estaba dominado por Stefanie Sun, Elva Hsiao, Na Ying, Faye Wong y Sandy Lam. Tanya Chua aún no era protagonista. Su primer álbum en mandarín no fue un gran éxito comercial, y ella misma rara vez lo menciona en entrevistas posteriores. Pero ese álbum definió su posición durante los siguientes 25 años: una cantante singapurense que escribe sus propias canciones, con una trayectoria de cantautora, abriendo una nueva grieta en la música Mandopop dominante.
+> **📝 Nota del curador:** El panorama musical cantado en chino en 1999 era la época de Stefanie Sun, Hsiao Yaxuan, Na Ying y Faye Wong. Tsai Ing-wen no era la protagonista entonces. Su primer álbum en chino no fue un gran éxito; ella rara vez lo menciona en sus entrevistas posteriores. Pero este álbum definió su posición durante los siguientes 25 años: una cantante que venía de Singapur, escribiendo sus propias canciones y siguiendo la línea de cantautora, abrió un nuevo camino en el panorama musical cantado en chino mainstream.
 
-### 2005, India; después, Taipéi
+### 2006, India, y luego Taipéi
 
-En 2005 ganó su primer premio Golden Melody — Mejor Cantante Femenina en Mandarín en la 17.ª edición — con el álbum _Amphibian_.[^5] Para cualquier cantante, el primer Golden Melody es un punto álgido en su carrera. Pero para Tanya Chua, ese año estuvo marcado más por la confusión que por la gloria.
+En 2005 ganó su primer Grammy: Mejor Cantante Femenina en Chino del 17.º Premio, por la obra _Animales Dobles_ (_Shuangqi Dongwu_)[^5]. Para cualquier cantante, el primer Grammy es un punto álgido profesional. Pero para Tsai Ing-wen, ella estaba más confundida ese año.
 
-Su contrato seguía vinculado a Warner Music y a la agencia Music & Movement (Singapur). La presión comercial aumentaba: la discográfica quería que se orientara hacia el camino del balada mainstream, que grabara más videoclips y aceptara más patrocinios. Empezó a preguntarse si ese era realmente el camino que quería.
+Su contrato todavía estaba con Warner Music y la agencia Music & Movement (Singapur). La presión comercial se hacía cada vez mayor; la discográfica quería que siguiera una línea de baladas mainstream, haciendo más videos musicales y aceptando más patrocinios. Ella comenzó a dudar si este era el camino que quería.
 
-A finales de 2005 viajó a India. Practicó yoga y se dedicó a la exploración interior. Entonces tomó una decisión: "Si quiero seguir avanzando en el camino de la música, debo recuperar mi motivación original y convertirme en una cantautora de composición completa."[^6]
+A finales de 2005, viajó a India. Estudió yoga y se exploró a sí misma. Luego tomó una decisión: "Si quiero seguir adelante en la música, debo recuperar mi intención original con la música y convertirme en una artista totalmente autoral."[^6]
 
-En octubre de 2006, terminó sus contratos con Warner y Music & Movement. Se mudó sola a Taipéi. Fundó el estudio musical "Tianya Music". Firmó la distribución de sus discos en mandarín con Asia Muse Entertainment, una compañía mucho más pequeña pero que le daba libertad creativa.
+En octubre de 2006, terminó su contrato con Warner y Music & Movement. Se mudó sola a Taipéi. Fundó "Tianya Music Studio". Encargó los derechos de distribución de sus álbumes cantados en chino a Yashen Music: una compañía mucho más pequeña, pero que le daba libertad creativa.
 
-Este fue el verdadero punto de inflexión de su carrera. No fue su debut en 1999, ni su primer Golden Melody en 2005, sino la decisión de 2006: romper con una gran discográfica, mudarse a Taipéi y fundar su propio estudio.
+Este fue el verdadero punto de inflexión de su carrera. No fue su debut en 1999 ni su primer Grammy en 2005, sino la decisión de "terminar el contrato con una gran discográfica, mudarse a Taipéi y fundar un estudio" en 2006.
 
-Desde ese año, todos sus premios Golden Melody correspondieron a su identidad de cantautora, no solo de cantante. Desde ese año, tuvo un "hogar" real en Taiwán — no en sentido legal, sino creativo.
+A partir de ese año, los Grammys que ganó fueron como cantautora, no solo como cantante. A partir de ese año, tuvo un "hogar" real en Taiwán; no legal, sino creativo.
 
-> **📝 Nota del curador:** La decisión de 2006 incluía una opción que un observador externo no percibe fácilmente: podría haber vuelto a Singapur. La escena musical Mandopop singapurense es pequeña, pero tiene una posición de exportación, y con su título de reina del Golden Melody habría sido fácil regresar como veterana. Pero eligió Taipéi — una ciudad donde no tenía pasaporte, ni familia, ni recuerdos de infancia. ¿Por qué? Nunca ha respondido directamente a esa pregunta. Pero todas las decisiones de los 18 años siguientes (colaboraciones, lugar de residencia, permiso de residencia permanente, base de sus giras) son una extensión de esa elección.
+> **📝 Nota del curador:** La decisión de 2006 incluía una opción que a menudo pasa desapercibida: podría haber regresado a Singapur. Aunque el panorama musical cantado en chino de Singapur era pequeño, tenía un nicho de exportación de Mandopop, y ella ya tenía el título de ganadora del Grammy; habría sido fácil volver como veterana. Pero eligió Taipéi, una ciudad sin pasaporte, sin familia ni recuerdos de infancia. ¿Por qué? Nunca ha respondido directamente a esta pregunta. Pero todas las decisiones de los siguientes 18 años (colaboradores, lugar de residencia, permiso de residencia permanente, giras) son una extensión de esa elección.
 
-### 2007: escribió «Blank Space» en cinco minutos
+### 2007: Escribiendo _Cuadros en Blanco_ en cinco minutos
 
-En octubre de 2007, un año después de mudarse a Taipéi, lanzó su primer álbum con Asia Muse: _Goodbye & Hello_. Una de las canciones se titulaba «Blank Space» (空白格).
+En octubre de 2007, un año después de mudarse a Taipéi, lanzó su primer álbum con Yashen Music, _Adiós y Hola_. Una canción del álbum se llama _Cuadros en Blanco_ (_Kongsai Ge_).
 
-En entrevistas posteriores contó que la escribió en una noche, en cinco minutos. Estaba en su habitación, llorando mientras componía, y la letra trataba sobre una relación fallida en internet. Durante la grabación, tuvo que detenerse varias veces por la emoción.
+Ella dijo más tarde en una entrevista que esta canción fue escrita en cinco minutos una noche. Estaba llorando mientras escribía en su habitación; el contenido estaba relacionado con una relación fallida por internet. Durante la grabación, tuvo que hacer pausas varias veces debido a la emoción y los sollozos.
 
-"¿Será que si no crecemos, convertimos la vagancia en algo genial?" — así comienza la canción. Más tarde, Angela Zhang la versionó, y mucha gente ni siquiera sabe que la intérprete original es Tanya Chua. Pero ese malentendido demuestra, en cierto modo, el poder de la canción: ha trascendido a su creadora y se ha convertido en una versión cantada por todos, una especie de "carta de amor a uno mismo".
+"¿Es porque ninguno de nosotros crecimos y consideramos vagar como algo elegante?" —comienza esta canción. Más tarde, Cecilia Cheung la interpretó, y mucha gente ni siquiera sabía que la cantante original era Tsai Ing-wen. Pero este malentendido demostró en cierto modo el poder de la canción: se había trascendido a su creadora para convertirse en una versión popularizada como "una carta de amor para uno mismo".
 
-El álbum _Goodbye & Hello_ también incluye otros temas emblemáticos como «Darwin I» y «When You Left». En la 19.ª edición del Golden Melody en 2008, Tanya Chua ganó dos premios simultáneamente: Mejor Cantante Femenina en Mandarín y **Mejor Productor de Álbum**.[^7]
+_Adiós y Hola_ también incluye obras representativas como _Darwin I_ y _Cuando te vas_. En el 19.º Premio Grammy de 2008, Tsai Ing-wen ganó dos premios: Mejor Cantante Femenina en Chino + **Mejor Productor de Álbum**[^7].
 
-Es un logro poco común en la música Mandopop. En esta industria, los cantantes son cantantes y los productores son productores; los que dominan ambas disciplinas son raros. Tanya Chua no solo canta y produce sus propios discos: desde principios de los años 2000 ha escrito canciones para otros artistas: «Wrong Number» para Faye Wong (2001), «Sixth Sense» para Stefanie Sun (2003), «Don't Bother His Heart» para A-Mei (2002), «Premonition of Happiness» (2002) y «Turn Left Turn Right» (2003) para Fish Leong, entre otras.[^8] Posteriormente, Na Ying, Rainie Yoga, Valen Hsu, Eason Chan, Jam Hsiao, Bii y Tseng Pei-ci también han colaborado con ella.
+Este es un récord raro en el panorama musical cantado en chino. En este ámbito, la cantante es solo una cantante y el productor es solo un productor; los que hacen ambas cosas son pocos. Tsai Ing-wen no solo canta y produce ella misma; comenzó a escribir canciones para otros artistas desde principios de la década de 2000: _Me Equivocé_ (Faye Wong, 2001), _Sexto Sentido_ (Stefanie Sun, 2003), _No Molestes su Corazón_ (A-mei, 2002), _Premonición de Felicidad_ (Jing Ru, 2002), _Girar a la Izquierda y a la Derecha_ (2003), etc.[^8]. Más tarde colaboró con Na Ying, Cecilia Cheung, Hsu Ju-yun, Eason Chan, Joe Cheng, Bi Shujin y Tseng Pei-tsu.
 
-> **📝 Nota del curador:** La faceta de productora de Tanya Chua tiene un impacto más profundo en la industria que la de cantante. Una cantante que solo interpreta sus propias canciones limita su influencia a su propia audiencia; pero una productora que escribe para grandes estrellas del panorama Mandopop influye en toda una generación de música popular. Cuando escuchas «Premonition of Happiness» de Fish Leong, «Sixth Sense» de Stefanie Sun o «Wrong Number» de Faye Wong — detrás están las huellas de Tanya Chua. Este es otro de sus récords, más allá de sus cuatro títulos de reina del Golden Melody.
+> **📝 Nota del curador:** La identidad de Tsai Ing-wen como productora es más profunda en la industria que su identidad como cantante. Una cantante que solo canta sus propias canciones tiene una influencia limitada a su propia audiencia; pero un productor que escribe para estrellas mainstream influye en toda una generación del pop cantado en chino. Cuando escuchas _Premonición de Felicidad_ de Jing Ru, _Sexto Sentido_ de Stefanie Sun o _Me Equivocé_ de Faye Wong, la huella de Tsai Ing-wen está detrás. Esta es otra capa de su récord más allá de ser "cuatro veces ganadora del Grammy".
 
-### 2018: la noche en que escribió «Testament»
+### 2018: La noche en que escribió _Testamento_
 
-Entre 2007 y 2017, Tanya Chua lanzó cinco álbumes en mandarín con Asia Muse: _Goodbye & Hello_, _If You Run Into Him_ (2009), _Talk About Love_ (2011), _Dialogue Between Angels and Demons_ (2013) y _Aphasia_ (2015). _Talk About Love_ le valió su tercer título de reina del Golden Melody en la 23.ª edición de 2012.[^9]
+Entre 2007 y 2017, Tsai Ing-wen lanzó cinco álbumes cantados en chino con Yashen Music: _Adiós y Hola_, _Si lo Encuentras_ (2009), _Hablando de Amor_ (2011), _Diálogo entre Ángel y Diablo_ (2013) y _Silenciosa_ (2015). _Hablando de Amor_ le valió su tercer Grammy en el 23.º Premio, en 2012[^9].
 
-En 2017 regresó a Universal Music. En diciembre de 2018 publicó el álbum _I Want to Give the World the Longest Wet Kiss_. Un trabajo tras tres años de maduración, que incluía una canción llamada «Testament» (遺書).
+En 2017 regresó a Universal Music. En diciembre de 2018, lanzó el álbum _Quiero Darle al Mundo un Beso Largo_. Este álbum fue la destilación de tres años y contiene una canción llamada _Testamento_ (_Yishu_).
 
-En una entrevista contó que el punto de partida fue el fallecimiento de un amigo. La depresión que había padecido años atrás regresó. Una noche comenzó a escribir la letra y la melodía, inicialmente angustiada.
+Ella dijo en una entrevista que la inspiración para esta canción provino del fallecimiento de un amigo. La depresión de hace muchos años volvió a aparecer. Comenzó a escribir letras y música una noche, sintiéndose ansiosa.
 
-"La noche que escribí 'Testament' estaba angustiada, pero mientras escribía, mi mente se fue tranquilizando. Al ver cada palabra que había escrito, me di cuenta de que todo eso ya había pasado: había amado, había vivido, había dado, había luchado, había luchado y había vencido, había escrito todas las canciones que debía escribir con el corazón. ¿Qué más podía lamentar?"[^10]
+"La noche en que escribí _Testamento_, estaba nerviosa, pero mientras escribía, mi corazón se calmó; al ver cada palabra que había escrito, me di cuenta de que todo había pasado, que había amado, vivido, dado, luchado y vencido, y que había escrito las canciones que debía. ¿Qué lamento queda?"[^10]
 
-"Nunca pensé que algún día escribiría una canción llamada 'Testament'. Pero la vida es así de real: en los últimos años, estas dos palabras que más temía mencionar no dejaban de aparecer."[^10]
+"Nunca pensé que un día escribiría una canción llamada _Testamento_. Pero la vida es real; estas dos palabras 'las más difíciles de mencionar' han aparecido sin cesar en mi vida estos años."[^10]
 
-El videoclip de «Testament» fue dirigido por Ching Ping Yu (余靜萍), en una sola toma continua. "Grabar en plano secuencia tiene su dificultad: todos los ángulos y emociones dependen de la complicidad. He colaborado muchas veces con Ping Yu; ella es la única directora que tendría en mente."[^10]
+El video musical de _Testamento_ fue dirigido por Yu Jingping, filmado en un solo plano. "Filmar en un solo plano tiene dificultades; todas las emociones y ángulos dependen de la química. He trabajado con Xiao Yu muchas veces; ella es la única directora que tengo en mente."[^10]
 
-En una entrevista posterior dijo: "¿Es tan aterrador lo incierto del futuro? Lo que tenga que venir vendrá, lo que tenga que irse se irá. ¿Quién puede controlarlo?"[^10]
+Ella dijo más tarde en una entrevista: "¿Es tan terrible lo incierto del futuro? Lo que debe venir vendrá, y lo que debe irse se irá, ¿quién puede controlarlo?"[^10]
 
-"Espero que esta canción les permita repasar sus vidas y encontrar lo valioso de la existencia."[^10]
+"Espero que esta canción les permita reflexionar sobre su vida y encontrar la preciosidad de la existencia."[^10]
 
-«Testament» fue nominada al Mejor Compositor en la 30.ª edición del Golden Melody, pero no ganó. Sin embargo, esta canción hizo que mucha gente reinterpretara a Tanya Chua: la forma en que una cantautora de más de 40 años enfrenta el tema de la muerte es completamente distinta a cuando escribía canciones de amor a los 20.
+_Testamento_ fue nominada al 30.º Premio Grammy a Mejor Compositor, pero no ganó. Pero esta canción hizo que mucha gente entendiera a Tsai Ing-wen de una manera diferente: la forma en que una cantautora aborda el tema de la muerte después de los 40 años es completamente distinta a cuando escribía canciones románticas a sus veintitantos.
 
-> **📝 Nota del curador:** En la trayectoria creativa de 25 años de Tanya Chua, desde la confusión juvenil de _Breathe_, pasando por la angustia de una ruptura en «Blank Space», hasta el enfrentamiento con la muerte en la mediana edad en «Testament» — nunca se quedó en un solo corte emocional. Lo que escribe cada década es diferente. Ahí radica la diferencia entre una cantautora y una cantante pop: la cantante pop vive dentro de sus éxitos; la cantautora vive dentro de su propia vida.
+> **📝 Nota del curador:** En la trayectoria creativa de Tsai Ing-wen durante 25 años, desde la confusión juvenil de _Respiración_ hasta la ansiedad por desamor de _Cuadros en Blanco_, y el enfrentamiento con la muerte en _Testamento_; ella no se detuvo en ningún fragmento emocional. Cada década escribió algo diferente. Esta es la diferencia entre una cantante pop y una cantautora: la cantante pop vive en el éxito, la cantautora vive en su propia vida.
 
-### 2021, _DEPART_: un álbum escrito con el olfato
+### 2021: _DEPART_, un álbum escrito con el olfato
 
-En agosto de 2021, Tanya Chua lanzó el álbum _DEPART_. Una obra tras tres años de maduración, con 14 canciones. En entrevistas posteriores describió el álbum de una manera muy particular: **a través del olfato**.
+En agosto de 2021, Tsai Ing-wen lanzó el álbum _DEPART_. Una obra destilada tras tres años, con 14 canciones. Ella describió este álbum de una manera muy peculiar en una entrevista: **usando el olfato**.
 
-"Este álbum es para demostrarme a mí misma y documentar lo que ha ocurrido en los últimos años."[^1]
+"Este álbum es para demostrarme a mí misma y registrar lo que ha pasado en estos años."[^1]
 
-La estructura del álbum es tripartita:
+La estructura del álbum era tripartita:
 
-- **Sección de hierbas y tierra**: «Bluebirds», «Into The Wild», etc., con olor a hierba después de la lluvia en la pradera.
-- **Sección de la vida cotidiana**: «Breakaway», «Let Romance Lead», etc., con olor a pan recién horneado y arroz recién cocido.
-- **Sección final de madera**: «Om Tara», con olor a sándalo y cedro.
+- **Sección Terrestre Herbácea**: _Bluebirds_, _Into The Wild_, etc., con un aroma de hierba después de la lluvia en la pradera.
+- **Sección Cotidiana**: _Escape_ (_Chuzou_), _Dejar que el Romance Decida_, etc., con el olor a pan recién horneado y arroz recién cocido.
+- **Final Maderoso**: _Om Tara_, con un aroma a sándalo y cedro.
 
-Estructurar un álbum entero a través del olfato es algo muy poco común en la música Mandopop. La mayoría de los álbumes en mandarín se estructuran por "temas" o "líneas narrativas"; Tanya Chua usó "olores" — algo más propio del arte conceptual que del pop comercial.
+Estructurar todo un álbum basándose en olores es muy raro en el panorama musical cantado en chino. La mayoría de los álbumes cantados en chino usan estructuras de "tema" o "línea narrativa"; Tsai Ing-wen usó el "aroma", lo cual se asemeja más a arte conceptual que a pop comercial.
 
-Pero ella hablaba de algo más que olores. "Quiero escribir canciones por la Tierra, por la humanidad."[^1] «Bluebirds» habla de la pradera y la tierra, «Breakaway» de salir de la zona de confort, «Om Tara» es una versión en inglés del mantra budista Tara — un álbum aparentemente abstracto cuyo núcleo es un doble eje ambiental y espiritual.
+Pero ella no solo habló del olfato. "Quería escribir canciones por la Tierra, por la humanidad."[^1] _Bluebirds_ representa la tierra de la pradera, _Escape_ representa dejar la zona de confort original, y _Om Tara_ es una versión en inglés del mantra budista tibetano: un álbum aparentemente abstracto con dos ejes fundamentales: ambiental y espiritual.
 
-En la 33.ª edición del Golden Melody en 2022, el álbum arrasó con cuatro premios: Álbum del Año, Mejor Álbum en Chino, Mejor Álbum de Grabación de Audio y Mejor Cantante Femenina en Chino.[^11] Esa noche dijo: "El Álbum del Año era el que más quería ganar, quizá por lo que significa."[^1]
+En el 33.º Premio Grammy de 2022, este álbum arrasó en cuatro categorías: Álbum del Año, Mejor Álbum Cantado en Chino, Mejor Grabación Vocal y Mejor Cantante Femenina en Chino[^11]. Esa noche dijo: "El Álbum del Año era lo que más quería, quizás por su significado."[^1]
 
-Cuatro veces reina. Récord absoluto.
+Cuatro veces ganadora. Récordista.
 
-### 2023, Taipei Arena: 55 millones de taiwaneses, todo en vivo
+### 2023: Live completo en el pequeño pabellón de Taipéi, 55 millones
 
-El 6 y 7 de mayo de 2023, Tanya Chua ofreció su gira _Let's Depart! Give the World the Longest Kiss_ en el Taipei Arena. Las 22.000 entradas para ambas noches se agotaron, con una recaudación de aproximadamente 55 millones de dólares taiwaneses. El coste total del concierto fue de 50 millones, con una inversión de 3 millones en la escenografía del "Pájaro Azul Cósmico".[^12]
+El 6 y 7 de mayo de 2023, Tsai Ing-wen realizó la gira _Let's Depart! El Beso Más Largo al Mundo_ en el pequeño pabellón de Taipéi. Las dos funciones, con 22,000 entradas cada una, se agotaron, generando ingresos por aproximadamente 55 millones de dólares taiwaneses. La producción total del concierto fue de 50 millones, invirtiendo 3 millones para crear el escenario "Pájaro Cósmico"[^12].
 
-Lo más destacado: **sin Program (pistas pregrabadas), completamente en vivo**. Esto es extremadamente raro en los conciertos contemporáneos de Mandopop. La mayoría de los artistas usan Program para reforzar el fondo (música de acompañamiento o coros reproducidos digitalmente, mientras el cantante solo interpreta la melodía principal). Tanya Chua eligió el formato completamente en vivo, lo que significa que la banda y los coristas tuvieron que tocar y cantar de verdad durante todo el concierto.
+Lo más especial: **todo en vivo, sin pistas pregrabadas (Program)**. Esto es muy raro en los conciertos cantados en chino contemporáneos. La mayoría de los artistas usan pistas pregrabadas como base (música o coros reproducidos por máquina, y el cantante solo canta la melodía principal); Tsai Ing-wen eligió todo en vivo: lo que significa que la banda y los cantantes de apoyo tienen que tocar y cantar durante toda la función.
 
-Esta elección es coherente con su filosofía de "cantautora de composición completa". Si las canciones las escribes tú y la producción la haces tú, la actuación también debería ser auténtica.
+Esta elección continúa su filosofía de "cantautora total". Si las canciones son escritas por ella y producidas por ella, entonces la actuación también debe ser real.
 
-Posteriormente, la gira _Let's Depart_ se expandió a Hong Kong, Cantón, Chengdu, Pekín, Shanghái, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen, Chongqing y otras ciudades. El 14 de septiembre de 2024 se añadió una fecha adicional en el Kaohsiung Arena. Una singapurense que gira por todo el mundo Mandopop como si fuera su hogar.
+Posteriormente, la gira _Let's Depart_ se expandió a Hong Kong, Guangzhou, Chengdu, Beijing, Shanghái, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen y Chongqing. El 14 de septiembre de 2024, añadió una fecha en el pabellón Kaohsiung. Una persona de Singapur realizando giras por la región cantada en chino como si fuera su escenario principal.
 
-> **📝 Nota del curador:** La decisión de "sin Program, todo en vivo" tiene una lógica económica detrás: es más cara, más difícil y más agotadora. Pero para Tanya Chua, esta es la línea divisoria entre una cantautora y una cantante comercial. Podría haber elegido la versión más barata, más fácil y más rápida, pero no lo hizo. Esta elección es un resumen de sus 26 años de carrera: el camino difícil, coherente con las canciones que escribe.
+> **📝 Nota del curador:** La decisión de "todo en vivo sin pistas pregrabadas" tiene fundamentos económicos: es más caro, más difícil y más agotador. Pero para Tsai Ing-wen, esta es la línea divisoria entre una cantautora y una cantante comercial. Podría haber elegido la versión que ahorra dinero, esfuerzo o tiempo, pero no lo hizo. Esta elección es un microcosmos de su carrera de 26 años: el camino difícil, al igual que sus canciones.
 
-### 2024: incursión en _Imperfect Us_
+### 2024: Crossover, _No Somos Suficientemente Amables_
 
-El 12 de abril de 2024, Tanya Chua lanzó _Imperfect Us: Drama Music Design Album_. Era la banda sonora de la serie _Imperfect Us_ de Public Television Service/myVideo, pero su papel no se limitó a "intérprete de la OST": fue el **diseño musical** de toda la serie. 6 canciones originales + 8 piezas de música incidental.
+El 12 de abril de 2024, Tsai Ing-wen lanzó _No Somos Suficientemente Amables: Álbum de Diseño Musical Dramático_. Esta es la banda sonora del drama televisivo _No Somos Suficientemente Amables_: pero su papel no fue solo el de "cantante de OST", sino el de **diseñadora musical** de toda la obra. 6 canciones originales + 8 piezas musicales para el drama.
 
-El origen de la historia es peculiar: la directora Mag Hsu (徐誉庭), durante la fase de guion, "escuchó casualmente" el álbum _DEPART_ de Tanya Chua y se conmovió, por lo que propuso al productor invitarla a hacer la banda sonora. Al mismo tiempo, Tanya Chua expresó a su manager su interés en hacer música para una serie. Ambas partes pensaron la una en la otra de forma completamente independiente.[^13]
+La historia original es curiosa: el director Xu Yuting, durante la fase de creación del guion, "escuchó por casualidad" el álbum _DEPART_ de Tsai Ing-wen y se sintió conmovido, sugiriendo proactivamente que ella hiciera la música; al mismo tiempo, Tsai Ing-wen también expresó a su mánager su deseo de hacer música para teatro. Ambos llegaron a la idea de forma independiente[^13].
 
-El tema principal, «The Kind Us» (善良的我們), tiene letra de Ge Dawei (葛大為) y música de Tanya Chua. Es otra colaboración más en una relación de más de una década entre ambos: Ge Dawei es uno de los letristas más reconocidos de Taiwán, y su colaboración a largo plazo con Tanya Chua abarca canciones como «Beautiful Love», «Blank Space», varios temas de Fish Leong, hasta «The Kind Us» en 2024.
+La canción principal _Somos Amables_ fue escrita por Ge Dawei y compuesta por Tsai Ing-wen. Esta es otra obra en más de una década de colaboración entre ella y Ge Dawei: Ge Dawei es uno de los letristas más conocidos de Taiwán, y ha colaborado con Tsai Ing-wen en muchas canciones como _Amor Hermoso_, _Cuadros en Blanco_ y varias de Jing Ru, hasta _Somos Amables_ en 2024.
 
-La incursión en la música para series supone para una cantautora un desafío de otra dimensión. Escribir un single solo debe servir a una canción; escribir música incidental para una serie debe servir a toda la narrativa. Tanya Chua lo logró: el álbum fue nominado al Mejor Álbum de Música Transfronteriza en la 36.ª edición del Golden Melody (aunque no ganó), pero la incursión en sí misma ya es una extensión de sus 25 años de carrera.
+El crossover a la música dramática es otra prueba para una cantautora. Escribir un sencillo solo sirve a una canción; escribir música para teatro sirve a toda una narrativa. Tsai Ing-wen lo logró: este álbum fue nominado al 36.º Premio Grammy a Mejor Álbum de Música Crossover (aunque no ganó), pero el crossover en sí mismo es una extensión de su carrera de 25 años.
 
-En los Golden Melody de 2024 (35.ª edición) no ganó ningún premio. En 2025 escribió «Chain Reaction» para Tseng Pei-ci. Sobre el progreso de un nuevo álbum, dijo en una entrevista: "Nada en absoluto."
+En el 35.º Premio Grammy de 2024, ella no ganó nada. En 2025 escribió _Reacción en Cadena_ para Tseng Pei-tsu. Sobre el progreso del nuevo álbum, dijo en una entrevista: "Absolutamente nada."
 
-Pero "no tener ningún álbum nuevo" tiene un significado distinto para una cantautora con 25 años de carrera. Ya no necesita demostrar nada con un nuevo disco.
+Pero "no tener un nuevo álbum" tiene un significado diferente para una cantautora de 25 años. Ya no necesita demostrar nada con un nuevo álbum.
 
 ### Del bar a los extraterrestres
 
-Volvamos a la escena del Golden Melody de 2022. Esa frase — "cuando los extraterrestres lleguen algún día, al escuchar nuestra música, sabrán lo que pasó" — en realidad plantea una gran proposición.
+Volviendo al escenario del Grammy de 2022. La frase: "Cuando lleguen extraterrestres en el futuro y escuchen nuestra música, sabrán lo que ha pasado", es en realidad una gran tesis.
 
-Dice que la música no es solo entretenimiento, sino un registro de la civilización. Y que los músicos no son solo intérpretes, sino los cronistas de esta era.
+Dice que la música no es solo entretenimiento, sino un registro de la civilización. Y que los músicos no son solo intérpretes, sino escritores de la historia de esta era.
 
-Para Tanya Chua, estos 26 años ha documentado: la incredulidad en un bar en 1996, la incursión de una singapurense en la música Mandopop en 1999, la apuesta de dejar una gran discográfica y mudarse sola a Taipéi en 2006, una canción escrita en cinco minutos que se convirtió en un clásico en 2007, la doble prueba de ganar premios como cantante y productora en 2008, el despertar de la mediana edad al escribir «Testament» tras la muerte de un amigo en 2018, la ambición creativa de escribir un álbum ambiental a través del olfato en 2021, el momento récord de ganar cuatro premios Golden Melody en una noche en 2022, la persistencia artesanal de un concierto completamente en vivo sin Program en el Taipei Arena en 2023, y la siguiente dimensión de incursionar en la música para series en 2024.
+Para Tsai Ing-wen, estos 26 años han registrado: la incredulidad del bar en 1996, el intento de una persona de Singapur de entrar al panorama musical cantado en chino en 1999, la apuesta de mudarse sola a Taipéi después de dejar una gran compañía en 2006, escribir una canción en cinco minutos en 2007 que luego se popularizó, el doble premio de cantante y productora en 2008, el despertar maduro al enfrentar la muerte con _Testamento_ en 2018, la ambición creativa de hacer un álbum ambiental con olfato en 2021, el momento récord de ganar cuatro Grammys en una noche en 2022, la persistencia del "todo en vivo sin pistas pregrabadas" en el pequeño pabellón en 2023, y la siguiente dimensión del crossover a la música dramática en 2024.
 
-Estos eventos, vinculados, no son el currículum de una cantante pop, sino las notas vitales de una cantautora. Cada década escribe cosas diferentes, pero lo hace con el mismo método: su propia melodía, sus propias letras, su propia producción, sus propias decisiones.
+Estos eventos no forman un currículum de cantante pop, sino las notas de vida de una cantautora. Cada década escribió algo diferente, pero lo hizo con el mismo método: su propia melodía, sus propias letras, su propia producción, su propia elección.
 
-Nunca ha tenido pasaporte taiwanés. Pero sus premios Golden Melody, su estudio, sus colaboraciones, su base de giras y sus canciones más cantadas crecieron en esta isla.
+Ella nunca ha tenido un pasaporte taiwanés. Pero sus Grammys, su estudio, sus colaboradores, su escenario principal y las canciones más populares... están arraigados en esta isla.
 
-"La identidad local de un músico no está en el pasaporte, sino en dónde crecen las canciones que escribe" — Tanya Chua nunca ha dicho esta frase textualmente, pero sus 26 años de carrera son la prueba de esta tesis.
+"La identidad local de un músico no está en el pasaporte, sino en dónde crecen sus canciones"—Tsai Ing-wen nunca dijo esto, pero su carrera de 26 años es la prueba de esta tesis.
 
-Y ese premio al Álbum del Año en 2022 fue la certificación oficial de dicha tesis.
+Y ese Álbum del Año de 2022 fue la certificación oficial de esta tesis.
 
 **Lectura adicional**
 
-- [Stefanie Sun](../People/孫燕姿) — Cantante singapurense de la misma generación, el panorama de las dos estrellas del Mandopop de Singapur en los años 2000.
-- [A-Mei](../People/張惠妹) — Tanya Chua le escribió «Don't Bother His Heart» y «Rescue».
-- [Yoga Lin](../People/林宥嘉) — Cantante masculino contemporáneo del Mandopop mainstream, trayectoria de cantautora como contrapunto.
-- [Rainie Yang](../People/楊丞琳) — Tanya Chua le escribió «Loneliness Is a Kind of Security».
-- [Hello Nico](../People/Hello-Nico) — Banda en la posición puente entre lo independiente y lo mainstream en el mismo período.
-- [George Chen](../People/陳建騏) — Eje de productores taiwaneses, productor-cantautor contemporáneo de Tanya Chua.
+- [Stefanie Sun](/es/people/stefanie-sun) — Cantante femenina contemporánea en el panorama musical cantado en chino de Singapur, un par de estrellas en la década de 2000
+- [A-mei](/es/people/a-mei) — Tsai Ing-wen le escribió _No Molestes su Corazón_ y _Despejar_
+- [Lin Youjia](/es/people/yoga-lin) — Cantante masculino mainstream contemporáneo, un contrapunto en la línea de cantautora
+- [Cecilia Cheung](/es/people/rainie-yang) — Tsai Ing-wen le escribió _La Soledad es una Sensación Segura_
+- [Hello Nico](/es/people/hello-nico-band) — Banda independiente/transicional contemporánea
+- [Chen Jianqi](/es/people/chen-chien-chi-music-producer) — Productor taiwanés, un productor cantautora contemporáneo
 
 ## Referencias
 
-[^1]: [Tanya Chua gana 4 premios con _DEPART_ en la 33.ª edición del Golden Melody — The News Lens](https://www.thenewslens.com/article/169098) — Registro completo de las citas textuales de la ceremonia del Golden Melody en Kaohsiung el 2022-07-02, incluyendo "No quiero llorar" y "cuando los extraterrestres lleguen".
+[^1]: [Tsai Ing-wen _DEPART_ gana 4 Grammys del 33.º Premio - Crítica Clave Web](https://www.thenewslens.com/article/169098) — Registro completo de la entrevista en el pabellón Kaohsiung del 2 de julio de 2022, incluyendo citas verbatim como "No quiero llorar" y "Cuando lleguen extraterrestres".
 
-[^2]: [Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Registro de la experiencia temprana en 1996 cuando un tecladista le dijo que se callara mientras cantaba en un bar de Singapur.
+[^2]: [Tsai Ing-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Registro de su experiencia temprana cantando en bares de Singapur en 1996 donde un tecladista le pidió callar.
 
-[^3]: [Sección de primeros años de Tanya Chua en Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Fuente de la cita textual: "Nunca pensé en terminar con esa vida de covers".
+[^3]: [Sección de experiencias tempranas de Tsai Ing-wen, Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Fuente verbatim: "Nunca pensé en terminar mi vida de interpretación de covers".
 
-[^4]: [Lista de obras musicales de Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — _Breathe_ (1999), primer álbum en mandarín; nominación al Mejor Artista Revelación en la 11.ª edición del Golden Melody en 2000.
+[^4]: [Lista de obras musicales de Tsai Ing-wen - Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Registro del primer álbum cantado en chino _Respiración_ en 1999 y la nominación al 11.º Premio Grammy por Mejor Novato en 2000.
 
-[^5]: [Mejor Cantante Femenina en Mandarín en la 17.ª edición del Golden Melody — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Registro oficial de la primera victoria de Tanya Chua con _Amphibian_ en 2006.
+[^5]: [Mejor Cantante Femenina en Chino del 17.º Premio - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Registro oficial de su primer premio con _Animales Dobles_ en 2006.
 
-[^6]: [Decisión de Tanya Chua tras India en 2006 — Wikipedia + múltiples fuentes](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Fuente de la cita textual: "Si quiero seguir avanzando en el camino de la música, debo recuperar mi motivación original y convertirme en una cantautora de composición completa".
+[^6]: [Decisión de Tsai Ing-wen después de India en 2006 - Wikipedia + Múltiples fuentes](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Fuente verbatim: "Si quiero seguir adelante en la música, debo recuperar mi intención original con la música y convertirme en una artista totalmente autoral".
 
-[^7]: [Lista completa de la 19.ª edición del Golden Melody — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Tanya Chua ganó simultáneamente Mejor Cantante Femenina en Mandarín y Mejor Productor de Álbum en 2008 con _Goodbye & Hello_.
+[^7]: [Lista completa del 19.º Premio Grammy - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Registro de que Tsai Ing-wen ganó simultáneamente Mejor Cantante Femenina en Chino + Mejor Productor de Álbum en 2008, con la obra _Adiós y Hola_.
 
-[^8]: [Lista de obras producidas/escritas por Tanya Chua — Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Registro completo de canciones escritas y producidas para Faye Wong, Stefanie Sun, A-Mei, Fish Leong y otras grandes estrellas del Mandopop.
+[^8]: [Lista de obras producidas/escritas por Tsai Ing-wen - Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Registro completo de las canciones escritas y producidas para estrellas A cantadas en chino como Faye Wong, Stefanie Sun, A-mei, Jing Ru, etc.
 
-[^9]: [Mejor Cantante Femenina en Mandarín en la 23.ª edición del Golden Melody — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Registro oficial de la tercera victoria de Tanya Chua con _Talk About Love_ en 2012.
+[^9]: [Mejor Cantante Femenina en Chino del 23.º Premio - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Registro oficial de su tercer premio con _Hablando de Amor_ en 2012.
 
-[^10]: [Entrevista sobre la composición de «Testament» — The Epoch Times](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — Entrevista completa de 2019, incluyendo el contexto de composición de «Testament», el proceso de calma nocturna, el videoclip en plano secuencia dirigido por Ching Ping Yu, entre otras citas textuales.
+[^10]: [Entrevista sobre la creación de _Testamento_ por Tsai Ing-wen - Da Anxi Yuan](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — Entrevista completa de 2019, incluyendo el trasfondo de la creación de _Testamento_, el proceso de calma nocturna y el video en un solo plano del director Yu Jingping.
 
-[^11]: [Lista completa de ganadores de la 33.ª edición del Golden Melody — The News Lens](https://www.thenewslens.com/article/169082) — Registro completo de los cuatro premios de _DEPART_ en la 33.ª edición del Golden Melody en Kaohsiung el 2022-07-02.
+[^11]: [Lista completa de ganadores del 33.º Premio Grammy - Crítica Clave Web](https://www.thenewslens.com/article/169082) — Registro completo de los cuatro premios de _DEPART_ en el pabellón Kaohsiung el 2 de julio de 2022.
 
-[^12]: [Concierto de Tanya Chua _Let's Depart_ en Taipei Arena — Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — Las 22.000 entradas para las dos funciones en Taipei Arena en mayo de 2023 se agotaron; recaudación de 55 millones de taiwaneses; coste del escenario de 50 millones; detalles del diseño del "Pájaro Azul Cósmico".
+[^12]: [Concierto de Tsai Ing-wen _Let's Depart_ en el pequeño pabellón de Taipéi - Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — Detalles del agotamiento de las dos funciones en el pequeño pabellón de Taipéi el 2023, los ingresos de 55 millones y la producción de 50 millones para el diseño "Pájaro Cósmico".
 
-[^13]: [OST de _Imperfect Us_ de Tanya Chua — KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — Registro de publicación del álbum de diseño musical de la serie el 2024-04-12, incluyendo la historia del origen donde Mag Hsu y Tanya Chua pensaron la una en la otra de forma independiente.
+[^13]: [OST _No Somos Suficientemente Amables_ - KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — Registro del lanzamiento del álbum de diseño musical dramático el 12 de abril de 2024, incluyendo la historia original de cómo Xu Yuting y Tsai Ing-wen llegaron a colaborar independientemente.

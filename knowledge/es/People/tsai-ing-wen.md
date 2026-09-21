@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-27T22:12:15+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T14:41:18.283073+00:00'
 ---
 
 # Tsai Ing-wen: de la noche de la derrota a los 8,17 millones de votos, ocho años de una presidencia tranquila
@@ -178,13 +178,13 @@ Al abandonar la Presidencia, los 8,17 millones de votos ya son una cifra histór
 
 ## Referencias
 
-[^1]: [Comisión Electoral Central: Resultados de las elecciones presidenciales y vicepresidenciales de la 13.ª legislatura](https://db.cec.gov.tw/ElecTable/Election?type=President); [CNA: Repaso del discurso de derrota de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — La diferencia oficial de votos fue de 797.561; el término original del discurso fue «desanimarse».
+[^1]: [Comisión Electoral Central: Resultados de las elecciones presidenciales y vicepresidenciales de la 13.ª legislatura](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [CNA: Repaso del discurso de derrota de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — La diferencia oficial de votos fue de 797.561; el término original del discurso fue «desanimarse»
 
 [^2]: [Comisión Electoral Central: Base de datos de elecciones presidenciales y vicepresidenciales](https://db.cec.gov.tw/ElecTable/Election?type=President) — 2016: 6.894.744 votos (56,12%); 2020: 8.170.231 votos (57,13%).
 
-[^3]: [CNA: Crecimiento y familia de Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx); [ETtoday: Versiones sobre la ascendencia Paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Los datos públicos varían respecto a la generación de su ascendencia; este artículo solo adopta «posee ascendencia Paiwan».
+[^3]: [CNA: Crecimiento y familia de Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday: Versiones sobre la ascendencia Paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Los datos públicos varían respecto a la generación de su ascendencia; este artículo solo adopta «posee ascendencia Paiwan»
 
-[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen); [University of London: Statement on Dr Tsai o Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Las instituciones confirmaron el título de 1984.
+[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [University of London: Statement on Dr Tsai o Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Las instituciones confirmaron el título de 1984
 
 [^5]: [CNN: Tsai Ing-wen, the leader who put Taiwan on the map](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Se distinguen las observaciones personales de las de Gu Li-xiong y Vanessa Hope.
 
@@ -192,7 +192,7 @@ Al abandonar la Presidencia, los 8,17 millones de votos ya son una cifra histór
 
 [^7]: [Presidencia: El Presidente se disculpa con los pueblos indígenas en nombre del gobierno](https://www.president.gov.tw/NEWS/20603) — Transcripción literal y compromiso de política del 1 de agosto de 2016.
 
-[^8]: [CNA: Aprobación de la ley especial para el matrimonio igualitario](https://www.cna.com.tw/news/firstnews/201905175002.aspx); [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Tercera lectura el 17 de mayo, entrada en vigor el 24 de mayo; 526 parejas el primer día.
+[^8]: [CNA: Aprobación de la ley especial para el matrimonio igualitario](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Tercera lectura el 17 de mayo, entrada en vigor el 24 de mayo; 526 parejas el primer día
 
 [^9]: [Oficina de Reforma de Pensiones del Ejecutivo: Proceso de la reforma de pensiones](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Cronología legislativa de las reformas para funcionarios y militares.
 
@@ -206,7 +206,7 @@ Al abandonar la Presidencia, los 8,17 millones de votos ya son una cifra histór
 
 [^14]: [Presidencia: Plan de ajuste de la estructura de fuerzas de defensa nacional](https://www.president.gov.tw/News/27201) — Anunciado el 27 de diciembre de 2022; implementación del servicio militar de un año a partir de 2024.
 
-[^15]: [Ministerio de Defensa de Japón: Movimientos de misiles balísticos chinos en agosto de 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html); [Ministerio de Defensa (Taiwán): Dinámica de ejercicios militares de la RPC](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japón identificó 9, Taiwán contabilizó 11; se mantienen las diferencias de cifras.
+[^15]: [Ministerio de Defensa de Japón: Movimientos de misiles balísticos chinos en agosto de 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Ministerio de Defensa (Taiwán): Dinámica de ejercicios militares de la RPC](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japón identificó 9, Taiwán contabilizó 11; se mantienen las diferencias de cifras
 
 [^16]: [CSIS ChinaPower: Tracking China's Increased Military Activities in 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 cruces de la línea media del estrecho en 2022.
 
@@ -218,7 +218,7 @@ Al abandonar la Presidencia, los 8,17 millones de votos ya son una cifra histór
 
 [^20]: [Administración de Gestión de Tierras del Ministerio del Interior: Progreso de la vivienda social](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Cifras oficiales sobre construcción directa, gestión por alquiler y subsidios.
 
-[^21]: [Ministerio de Economía: Explicación de la política de transición energética](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001); [Control Yuan: Investigación sobre apagones nacionales](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Los objetivos estructurales y los incidentes de apagón deben atribuirse por separado.
+[^21]: [Ministerio de Economía: Explicación de la política de transición energética](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Control Yuan: Investigación sobre apagones nacionales](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Los objetivos estructurales y los incidentes de apagón deben atribuirse por separado
 
 [^22]: [BBC: China newspaper criticised over unmarried Tsai comments](https://www.bbc.com/news/world-asia-36309137) — Críticas por discriminación de género tras vincular la soltería con el carácter político en medios chinos.
 

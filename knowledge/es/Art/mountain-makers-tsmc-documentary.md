@@ -2,30 +2,33 @@
 title: 'Los constructores de montañas: la apuesta del siglo — una epopeya taiwanesa de los semiconductores que tuvo que lijar una palabra de su título antes de poder pronunciarlo'
 description: 'Estrenado el 13 de junio de 2025, el documental Los constructores de montañas (A Chip Odyssey) narra la epopeya irreemplazable de los semiconductores de Taiwán. Pero su título original era Escudo de silicio. Hsiao Chu-chen dedicó cinco años y entrevistó a más de 80 personas para captar el espíritu de una industria "nacida en la adversidad", solo para lijar la palabra más afilada del título: cuando este país presume de su carta estratégica más fuerte, primero tiene que sopesar cómo la oirá la otra orilla.'
 date: 2026-06-16
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '紀錄片'
 tags:
-  - 'documental'
-  - 'TSMC'
-  - 'semiconductores'
-  - 'Hsiao Chu-chen'
-  - 'CNEX'
-  - 'escudo de silicio'
-  - 'Ben Tsiang'
-  - 'Chen Tien-shun'
+  [
+    'documental',
+    'TSMC',
+    'semiconductores',
+    'Hsiao Chu-chen',
+    'CNEX',
+    'escudo de silicio',
+    'Ben Tsiang',
+    'Chen Tien-shun',
+  ]
+subcategory: '紀錄片'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '36b47295'
-sourceContentHash: 'sha256:04951f7f999b2b98'
-sourceBodyHash: 'sha256:3df28689a2b61ed4'
-translatedAt: '2026-06-17T01:45:00+08:00'
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+translatedFrom: 'Art/造山者世紀的賭注.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T13:49:38.819119+00:00'
 ---
 
 # Los constructores de montañas: la apuesta del siglo — una epopeya taiwanesa de los semiconductores que tuvo que lijar una palabra de su título antes de poder pronunciarlo
@@ -166,27 +169,27 @@ Después de ver la película en junio, Hsiao Bi-khim dijo: «lo más importante 
 
 Ambos discursos son dignos, y ambos integran la película en un marco de relato nacional. Pero la posición que la propia película elige es, de hecho, mucho más humilde que los discursos: Hsiao Chu-chen lo dijo así: «después de terminar esta película, yo también siento que soy una constructora de montañas; aunque sea un grano de arena pequeño, también soy parte del movimiento que levanta la montaña»[^45].
 
-## La constructora de montañas, en realidad, no está
+## Los "Constructores de Montañas" no estaban presentes
 
-La historia vuelve a la tarde del 26 de junio de 2025, a un cine del distrito de Xinyi.
+La historia vuelve a la noche del 26 de junio de 2025 en un cine del distrito de Xinyi.
 
-Morris Chang, de 94 años, y su esposa se sentaron en la última fila y vieron la película entera. Cuando se encendieron las luces del final, él, con la mascarilla puesta, bajó despacio por el pasillo, alzó las dos manos, saludó al público y agradeció a todos[^4]. Hsiao Chu-chen estaba en la sala: en cinco años nunca había logrado una entrevista frontal con este personaje central de los «constructores de montañas»; al final, ese personaje central acudió él mismo ante la película como un «espectador».
+El matrimonio Chang, de 94 años, se sienta en la última fila y ve la película completa. Al encenderse las luces al final, él baja por el pasillo con mascarilla puesta, levantando los brazos y saludando a la audiencia[^4]. Hsiao Chu-chen está presente; durante cinco años no ha tenido una entrevista directa con esta figura central de "Los constructores de montañas", y finalmente ella misma llega al frente como "espectadora".
 
-> **✦** Lo que la epopeya no logró captar, la realidad lo aportó.
+> **✦** La realidad complementa lo que la épica no capturó.
 
-La tensión de la película da así una vuelta entera y vuelve al punto de partida: la persona no entrevistada, la palabra retirada del título, el dinero deliberadamente disperso: esa es la verdadera columna vertebral de la película. En una epopeya taiwanesa de los semiconductores, es fácil decir «construimos una montaña». Lo que de verdad cuenta, lo más difícil de poner en palabras, es que, mientras todos miran esta montaña, los constructores de montañas de este país han aprendido a dejar historia para sí mismos en algún lugar entre lo que se puede decir y lo que no.
+La tensión de esta película da una vuelta para volver al punto de partida: esa persona que no fue entrevistada, la palabra que se quitó del título, y el dinero deliberadamente disperso; estos son la verdadera columna vertebral de la película. Una épica taiwanesa sobre semiconductores puede contar fácilmente "construimos una montaña"; lo que realmente cuenta es algo más difícil de mencionar: mientras todos miran esta montaña, los constructores de esta isla han aprendido a dejar su historia entre lo que se puede decir y lo que no se puede decir.
 
-Las cifras de taquilla que han ardido durante un año, las proyecciones en el extranjero una tras otra, los discursos de la vicepresidenta y de la expresidenta, los elogios del presidente de ESMC: todo eso se disipará. Pero la figura que se levantó de la última fila aquella tarde, esa quedará. No subió a la pantalla; salió desde la platea.
+Los números de taquilla extendidos por un año, las giras internacionales, los discursos del vicepresidente y el expresidente, los elogios del presidente de ESMC; todo esto pasará. Pero la figura en la última fila esa noche permanecerá. Él no apareció en la pantalla; salió desde la audiencia.
 
-Desde el momento en que esta isla aprendió, al elogiarse a sí misma, a sopesar primero cómo la oiría la otra orilla, cada constructor de montañas se había convertido ya, en realidad, en espectador: mirando cómo otros hablan de la montaña que él levantó, cómo otros la oyen y cómo otros entran a verla con una entrada en la mano.
+Desde el momento en que esta isla comenzó a presumir, cada constructor de montañas se convirtió en espectador: observando cómo se mira la montaña que construyeron, cómo la escucha la gente, y cómo compran las entradas para verla.
 
 **Lecturas relacionadas**:
 
-- [Industria de los semiconductores](../Technology/半導體產業.md) — El contexto completo de la industria taiwanesa de la fundición de obleas, desde la reunión de desayuno de 1974 en la casa de leche de soja Xiao Xinxin hasta C. C. Wei caminando hacia la Casa Blanca en 2025; el esqueleto temporal de _Los constructores de montañas_ se injerta sobre este eje.
-- [Morris Chang](../People/張忠謀.md) — El protagonista que no se sentó delante de la cámara; el segundo tomo que él mismo escribió se publicó apenas medio año antes del estreno.
-- [Nación invisible](../Art/看不見的國家.md) — Documental hermano estrenado el mismo día, en el que la directora estadounidense Vanessa Hope abre, desde la vía democrática, otro canal del «valor de Taiwán».
-- [Desarrollo de los parques científicos](../Technology/科技園區發展.md) — El Parque Científico de Hsinchu como escenario físico de la mayoría de las escenas de _Los constructores de montañas_, que de la apuesta de una pequeña ciudad crece hasta convertirse en un nodo de la cadena global de suministro.
-- [Tsai Ing-wen](../People/蔡英文.md) — En agosto de 2025, cuando la taquilla superó los 25 millones de NT$, la expresidenta, ya fuera del cargo, entró al cine con el exvicepresidente Chen Chien-jen y su esposa, añadiendo un trasfondo político a la película.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — El contexto completo del _foundry_ taiwanesa, desde el desayuno en la tienda de tofu Xiao Xinxin en 1974 hasta la visita de Hsiao Chu-chen a la Casa Blanca en 2025; la estructura temporal de 《Los constructores de montañas》 se apoya en este eje.
+- [Morris Chang](/es/people/tsmc-morris-chang) — El protagonista que no apareció ante las cámaras, publicó su segunda parte él mismo seis meses antes del estreno de la película.
+- [Nación invisible](/es/art/invisible-nation) — La película documental hermana estrenada el mismo día, donde la directora estadounidense Vanessa Hope aborda otra voz sobre el "valor taiwaneso" desde la vía democrática.
+- [Desarrollo de parques tecnológicos](/es/technology/science-park-development) — El Parque Científico de Hsinchu, como escenario físico de la mayoría de las escenas de 《Los constructores de montañas》, se transformó de una apuesta pequeña en un centro de la cadena de suministro global.
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — Cuando los ingresos por taquilla alcanzaron 25 millones de NT$ en agosto de 2025, la expresidenta asistió al cine con su esposo Chen Chien-pang, escribiendo un telón de fondo político para esta película.
 
 ## Créditos de las imágenes
 
