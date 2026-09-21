@@ -1,7 +1,11 @@
 ---
 title: 'Jimmy Liao: As imagens vistas como "curativas" foram trazidas por um sobrevivente de leucemia de dentro de um aquário de vidro'
 description: 'Em 1995, o diretor de arte publicitário Liao Fu-pin (廖福彬), aos 37 anos, foi diagnosticado com leucemia mieloide aguda, acenando para amigos através do vidro de um quarto estéril. Após a alta, os "pequeninos" que ele desenhava para ganhar a vida ganharam vida, e ele começou a criar "O Peixe que Sorri", "A Lua Esqueceu", "Virar à Esquerda, Virar à Direita" e "O Metrô". Por trás do "curativo", "cult" e da Praça Jimmy Liao em I-lan Lo-tung (宜蘭羅東) que os taiwaneses lembram, está alguém que esteve no inferno, traduzindo morte e solidão em forma legível, depois expandindo para um império que abrange cinema, musicais, circo e arte pública, com uma exposição de 25 anos ainda em Hong Kong em 2026.'
-rationale: "{'why_this_hook': '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。', 'whats_excluded': '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。', 'where_it_hedges': '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。', 'whos_pushing_back': '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'}"
+rationale:
+  why_this_hook: '玻璃缸的魚是幾米本人的隱喻（住院隔窗招手），同時是反轉「療癒系」標籤的鑰匙——首尾呼應扛整篇 spine。'
+  whats_excluded: '商業批判（IP 過度氾濫稀釋作品）點到帝國規模即止不展開，非本文焦點；履歷表↔Studs Terkel、紐約時報專文、陳綺貞寫歌等未證實連結全數略去。'
+  where_it_hedges: '奧美廣告（幾米本人未親口點名，標「據報導」）；幾米廣場「2013 年 6 月底」不寫精確日期；田中央硬連結寫成丟丟噹森林而非廣場共創。'
+  whos_pushing_back: '可能質疑陣營為「幾米過度商業化、跨媒體稀釋作品」的評論者；本文以「私密疾病長成公共語言」的角度回應而非反駁。'
 date: 2026-03-19
 category: 'People'
 tags:

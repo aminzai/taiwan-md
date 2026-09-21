@@ -24,7 +24,13 @@ lastVerified: 2026-06-15
 lastHumanReview: false
 readingTime: 25
 researchReport: 'reports/research/2026-06/台灣網路社群遷徙史-evolve-20260614.md'
-rationale: "{'whats_excluded': ['演算法善惡 / AI 推薦是不是進步 — 屬獨立主題（認知作戰/演算法），本篇談遷徙與記憶歸屬不展開演算法價值判斷', '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫', 'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題']}"
+rationale:
+  whats_excluded:
+    [
+      '演算法善惡 / AI 推薦是不是進步 — 屬獨立主題（認知作戰/演算法），本篇談遷徙與記憶歸屬不展開演算法價值判斷',
+      '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫',
+      'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
+    ]
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 sourceCommitSha: 'd968559a8'
 sourceContentHash: 'sha256:27a0271b143d3da5'

@@ -26,10 +26,10 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.aamataipei.com.tw/archives/44255'
 relatedDiary: ['2026-07-15-121155-manual']
 translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
-sourceCommitSha: '2e6738999'
-sourceContentHash: 'sha256:c03fa77efb2f6e8c'
-sourceBodyHash: 'sha256:8e73793f11fceb53'
-translatedAt: '2026-08-04T06:18:09+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:ccfdff52514bee03'
+sourceBodyHash: 'sha256:c85b648ab9e302be'
+translatedAt: '2026-09-21T16:10:49.351690+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O AAMA Taipei Cradle Program é uma existência rara em Taiwan: um programa de mentoria para empreendedores que não investe, não toma participação, nem cobra propinas. Lançado em 2012 pelo editor da _Digital Era_ Chan Hung-chih (詹宏志) e pelo consultor contabilístico reformado Yen Lou-yu (顏漏有), permite que empresários seniores usem dois anos para acompanhar, um a um, um empreendedor em fase de crescimento. Admite apenas cerca de vinte pessoas por ano, treze anos depois só chegou à décima quinta turma, mas já acumulou nomes como Appier, Social Enterprise Insights, Portaly. O seu ponto mais contra-intuitivo reside numa escolha: um grupo de pessoas que podiam ter-se reformado para gozar a vida, escolheu a forma mais lenta, mais desprovida de economias de escala, de transmitir o "como fazer crescer uma empresa" — um ofício difícil de verbalizar — passando-o pessoalmente à geração seguinte, sem nada pedir em troca.

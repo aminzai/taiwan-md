@@ -16,7 +16,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
 lastHumanReview: false
-rationale: "{'why_this_hook': '以舞蹈社、牢房與火災的反差呈現蔡瑞月的藝術與政治生命。', 'whats_excluded': '不把未經司法確認的火災責任寫成定論，也不鋪陳完整臺灣現代舞編年史。', 'where_it_hedges': '對 1999 年火災僅陳述已核驗的事件與現存爭議，區分基金會主張與已證事實。', 'whos_pushing_back': '保存團體、官方文資敘事與政治受難檔案對同一場址的不同記憶。'}"
+rationale:
+  why_this_hook: '以舞蹈社、牢房與火災的反差呈現蔡瑞月的藝術與政治生命。'
+  whats_excluded: '不把未經司法確認的火災責任寫成定論，也不鋪陳完整臺灣現代舞編年史。'
+  where_it_hedges: '對 1999 年火災僅陳述已核驗的事件與現存爭議，區分基金會主張與已證事實。'
+  whos_pushing_back: '保存團體、官方文資敘事與政治受難檔案對同一場址的不同記憶。'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/蔡瑞月.md'

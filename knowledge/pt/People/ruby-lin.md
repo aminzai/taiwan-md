@@ -11,7 +11,11 @@ featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
-rationale: "{'why_this_hook': '用紫薇與計算機的反差，呈現林心如從被觀看的演員轉為承擔整部作品的製作人。', 'whats_excluded': '不寫私生活八卦、外貌評價與未能由文章頁核驗的傳聞。', 'where_it_hedges': '對作品影響的判斷以公開訪談、校方資料、政府文化資料與學術評論為限，不把榜單表現等同於藝術價值。', 'whos_pushing_back': '文章保留製作成本、田調限制與女性角色再現等問題，避免把轉型寫成單純勵志故事。'}"
+rationale:
+  why_this_hook: '用紫薇與計算機的反差，呈現林心如從被觀看的演員轉為承擔整部作品的製作人。'
+  whats_excluded: '不寫私生活八卦、外貌評價與未能由文章頁核驗的傳聞。'
+  where_it_hedges: '對作品影響的判斷以公開訪談、校方資料、政府文化資料與學術評論為限，不把榜單表現等同於藝術價值。'
+  whos_pushing_back: '文章保留製作成本、田調限制與女性角色再現等問題，避免把轉型寫成單純勵志故事。'
 curation: 'incubating'
 translatedFrom: 'People/林心如.md'
 sourceCommitSha: '13c7fbcdb'

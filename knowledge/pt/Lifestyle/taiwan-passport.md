@@ -13,7 +13,11 @@ tags:
     'identidade',
   ]
 subcategory: '交通與移動'
-rationale: "{'why_this_hook': '從 2021 年新版護照放大的 TAIWAN 出發，理解封面辨識、法規資格、晶片驗證與各國入境政策如何共同構成台灣護照的實際作用。', 'whats_excluded': '不做各國免簽排名、不提供個人申辦攻略，也不把護照封面設計直接等同於外交承認。', 'where_it_hedges': '把外交部的政策說明、領務法規、國際民航組織規格與 Wikimedia 影像來源分開標註。簽證待遇以官方最新公告為準。', 'whos_pushing_back': '封面改版的辨識度與法律名稱同時存在，本文保留兩者的制度差異，不替任何單一政治命名方案下結論。'}"
+rationale:
+  why_this_hook: '從 2021 年新版護照放大的 TAIWAN 出發，理解封面辨識、法規資格、晶片驗證與各國入境政策如何共同構成台灣護照的實際作用。'
+  whats_excluded: '不做各國免簽排名、不提供個人申辦攻略，也不把護照封面設計直接等同於外交承認。'
+  where_it_hedges: '把外交部的政策說明、領務法規、國際民航組織規格與 Wikimedia 影像來源分開標註。簽證待遇以官方最新公告為準。'
+  whos_pushing_back: '封面改版的辨識度與法律名稱同時存在，本文保留兩者的制度差異，不替任何單一政治命名方案下結論。'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-22

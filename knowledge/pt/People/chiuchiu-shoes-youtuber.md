@@ -18,7 +18,11 @@ lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
-rationale: "{'why_this_hook': '以刪除翻譯作品為敘事入口，說明啾啾鞋如何把化學訓練、資料閱讀與台中生活條件轉化為知識創作方法。', 'whats_excluded': '不把未能逐頁核對的頻道現況、社群傳聞或無關平台統計寫入正文。', 'where_it_hedges': '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。', 'whos_pushing_back': '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'}"
+rationale:
+  why_this_hook: '以刪除翻譯作品為敘事入口，說明啾啾鞋如何把化學訓練、資料閱讀與台中生活條件轉化為知識創作方法。'
+  whats_excluded: '不把未能逐頁核對的頻道現況、社群傳聞或無關平台統計寫入正文。'
+  where_it_hedges: '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。'
+  whos_pushing_back: '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'
 translatedFrom: 'People/啾啾鞋.md'
 sourceCommitSha: '9c63d8227'
 sourceContentHash: 'sha256:4ae6e15b4e3eea8f'

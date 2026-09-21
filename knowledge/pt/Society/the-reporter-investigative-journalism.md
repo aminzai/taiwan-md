@@ -23,7 +23,11 @@ image: '/article-images/society/the-reporter-brand-logo.webp'
 imageCredit: '報導者 The Reporter'
 imageLicense: 'Fair use（editorial commentary）'
 imageSource: 'https://www.twreporter.org'
-rationale: "{'why_this_hook': '「燒錢的速度永遠跑在募款前面」抓住非營利調查報導的核心張力：成本結構與收入結構的賽跑，比「公民媒體很偉大」誠實也更有戲。', 'whats_excluded': '不評報導者的政治立場；童子賢民進黨智庫副董的政治傾向質疑無事實佐證，不寫；2000 萬初始捐助為市場傳言，只採官方確認的 500 萬；坊間「年收逾 9000 萬」與官方募款收入口徑不同，不混用。', 'where_it_hedges': '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。', 'whos_pushing_back': 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'}"
+rationale:
+  why_this_hook: '「燒錢的速度永遠跑在募款前面」抓住非營利調查報導的核心張力：成本結構與收入結構的賽跑，比「公民媒體很偉大」誠實也更有戲。'
+  whats_excluded: '不評報導者的政治立場；童子賢民進黨智庫副董的政治傾向質疑無事實佐證，不寫；2000 萬初始捐助為市場傳言，只採官方確認的 500 萬；坊間「年收逾 9000 萬」與官方募款收入口徑不同，不混用。'
+  where_it_hedges: '直美風潮定位為修法「觸發器之一」非唯一動因；綁債黑工職稱標兩個版本、柴藍與涂二審分開宣判；2025 募款未結算不列；96% 假訊息數字標明來源與口徑。'
+  whos_pushing_back: 'PTT、Mobile01 質疑報導者政治偏綠；個人部落格批評「不要再有下一個報導者」。本文採中立框架（寫做了什麼調查與獲獎，不評傾向）回應這層質疑。'
 sporeLinks:
   [
     "{'id': 144, 'platform': 'threads', 'date': '2026-06-16', 'url': 'https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL'}",

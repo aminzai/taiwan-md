@@ -18,7 +18,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '從楊肇嘉寫下「清水全滅」的名片與黃旺成的井邊日記切入，追蹤震災如何改變街道、鐵路與觀測制度。', 'whats_excluded': '不重寫臺灣地震通史、921 地震或魚藤坪斷橋單一景點，只處理 1935 年震災的現場記憶、災後治理與基礎設施變化。', 'where_it_hedges': '不同來源對規模有 6.9、7.1 與地震矩規模 7.2 的不同口徑，正文標示來源口徑，不把差異抹平。個人日記與地方記憶只代表特定人的經驗。', 'whos_pushing_back': '災後重建確實改善部分街道與觀測制度，但市區改正也把地方生活納入殖民政府的規劃，不能只寫成單向的現代化進步。'}"
+rationale:
+  why_this_hook: '從楊肇嘉寫下「清水全滅」的名片與黃旺成的井邊日記切入，追蹤震災如何改變街道、鐵路與觀測制度。'
+  whats_excluded: '不重寫臺灣地震通史、921 地震或魚藤坪斷橋單一景點，只處理 1935 年震災的現場記憶、災後治理與基礎設施變化。'
+  where_it_hedges: '不同來源對規模有 6.9、7.1 與地震矩規模 7.2 的不同口徑，正文標示來源口徑，不把差異抹平。個人日記與地方記憶只代表特定人的經驗。'
+  whos_pushing_back: '災後重建確實改善部分街道與觀測制度，但市區改正也把地方生活納入殖民政府的規劃，不能只寫成單向的現代化進步。'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'History/1935新竹臺中地震.md'
