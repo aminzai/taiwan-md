@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T13:39:25+08:00",
-    "zhCommitHead": "08b8e4144",
+    "lastUpdated": "2026-09-21T14:42:29+08:00",
+    "zhCommitHead": "ced44585b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1031,
-        "stale": 61,
+        "fresh": 1032,
+        "stale": 60,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 62,
+        "fresh": 1036,
+        "stale": 61,
         "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 991,
-        "stale": 75,
+        "fresh": 992,
+        "stale": 74,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 67,
         "metadata_stale": 15,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "ru": {
@@ -16941,7 +16941,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-enterprise-uni-president.md",
+          "translatedFrom": "Economy/台灣企業：統一企業.md",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T05:43:10.753263+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 64,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -162519,18 +162530,16 @@
         "en": {
           "path": "en/Geography/miaoli-county.md",
           "translatedFrom": "Geography/苗栗縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:0de597da286e629e",
-          "sourceBodyHash": "sha256:9523731d73687bb2",
-          "translatedAt": "2026-09-08T02:56:33.667753+00:00",
+          "sourceCommitSha": "8d4f4b434",
+          "sourceContentHash": "sha256:d42a13d401176a58",
+          "sourceBodyHash": "sha256:240cad04d9fcb9fe",
+          "translatedAt": "2026-09-21T06:01:24.670775+00:00",
           "translationLastCommit": "581a9221",
           "translationLastModified": "2026-09-08T12:06:52+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/miaoli-county.md",
@@ -164639,18 +164648,16 @@
         "pt": {
           "path": "pt/Geography/beitou-hot-spring-street.md",
           "translatedFrom": "Geography/北投溫泉街.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fb76ac27fc6cd3ba",
-          "sourceBodyHash": "sha256:a32189fb31dd0c7d",
-          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2c4fe0156269ff13",
+          "sourceBodyHash": "sha256:123f0a9f012e26b6",
+          "translatedAt": "2026-09-21T05:39:56.881783+00:00",
           "translationLastCommit": "4d154e53",
           "translationLastModified": "2026-07-29T09:12:58+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/beitou-hot-spring-street.md",
@@ -168962,18 +168969,16 @@
         "ko": {
           "path": "ko/Geography/nantou-county.md",
           "translatedFrom": "Geography/南投縣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:c80f3accc7342bb8",
-          "sourceBodyHash": "sha256:9116715a2d516221",
-          "translatedAt": "2026-06-16T17:05:51Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3e20b5d7cae61e95",
+          "sourceBodyHash": "sha256:b09f70f5d82caaa2",
+          "translatedAt": "2026-09-21T00:58:26+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/nantou-county.md",
@@ -182316,8 +182321,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-21T00:58:28+08:00",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
+          "translationLastCommit": "ced44585",
+          "translationLastModified": "2026-09-21T13:39:26+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",

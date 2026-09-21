@@ -1,6 +1,6 @@
 ---
-title: 'Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years'
-description: "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest."
+title: "Miaoli County: The Hakka County Whose Mayor Doubled the County's Debt Over Eight Years"
+description: "Japanese colonial camphor in Miaoli accounted for 95% of Taiwan's total; Sanyi started with wood carving using camphor tree trunks. The first Tung flower festival was held in Gongguan, Beihe Village in 2002. In 2008, Liu Chenghong took over the county with a debt of 202 billion, and by the time he left in 2014, it reached 67.6 billion. During this period, there were incidents such as Chu Fengmin drinking pesticides, Chang Pharmacy's forced demolition, and the Hakka Roundhouse being built into a mosquito museum worth 120 million. Today, 530,000 people live in this county with the second-highest Hakka proportion in Taiwan at 62.5%."
 date: 2026-05-18
 category: 'Geography'
 tags:
@@ -8,13 +8,13 @@ tags:
     'Miaoli',
     'Miaoli County',
     'Hakka',
-    'Hakka Culture',
-    'Dapu Incident',
-    'Sanyi Woodcarving',
-    'Tung Blossom',
-    'Saisiyat',
-    'Ritual to the Short Spirits',
-    'Liu Cheng-hung',
+    'Hakka culture',
+    'Dapu incident',
+    'Sanyi wood carving',
+    'oyster plant flower',
+    'Sase Tribe',
+    'Aisheng Festival',
+    'Liu Chenghong',
     '22 Counties and Cities Series',
   ]
 subcategory: '縣市'
@@ -25,12 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: 'The Hakka Tung Flower Festival in Sanyi, Miaoli, opened for blessing next to the century-old Stone God in 2023'
+imageCredit: '中華民國客家委員會'
+imageLicense: 'OGDL-Taiwan-1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T02:56:33.667753+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-21T06:01:24.670775+00:00'
 ---
 
 # Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years
@@ -214,17 +218,17 @@ Stubbornness is this: you do not leave the land. Even if suffocating things have
 
 ## Image Sources
 
-This article uses six Wikimedia Commons CC-licensed images, hot-linked from the Wikimedia upload server:
+This article uses 7 images from Wikimedia Commons (the hero image is licensed under government open data and has been incorporated into this site's gallery; the other 6 are CC licensed):
 
-- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: Council for Hakka Affairs, Republic of China, 2023-04-14, CC BY 4.0. Official image of the Hakka Tung Blossom Festival.
-- **Scene §1903 Opening**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Shengxing Station, the highest point on the Western Trunk Line.
-- **Scene §Sanyi Woodcarving**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000, 2010-05-01, CC BY-SA 3.0. Sanyi Wood Sculpture Museum.
-- **Scene §Dahu Strawberries**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Dahu strawberry farm.
-- **Scene §Ritual to the Short Spirits**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Photo: CenkX, 2006, CC BY-SA 3.0. Nanzhuang Saisiyat paSta’ay ceremony.
-- **Scene §Dapu Incident**: [2013-08-18 Demolish the Government](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: Fan-chiang Chung-tsen, 2013-08-18, CC BY-SA 2.0. Scene of the Demolish the Government movement.
-- **Scene §530,000 People**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen, 2021-01-28, CC BY-SA 4.0. Dahu strawberry tourist farm.
+- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: ROC Council for Hakka Affairs, April 14, 2023, [OGDL-Taiwan-1.0](https://data.gov.tw/license) (Government open data license, compatible with CC BY 4.0). This is an official record photo from the Sanyi Township Hundred Stone Blessing and Worship ceremony, announcing the opening of the Tung Blossom Festival, and has been incorporated into this site's gallery.
+- **Scene §1903 Train Line**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng, June 2, 2010, CC BY-SA 2.0. Shengxing Station, the highest point of the longitudinal line.
+- **Scene §Sanyi Wood Carving**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000, May 1, 2010, CC BY-SA 3.0. Sanyi Wood Sculpture Museum.
+- **Scene §Dahu Strawberries**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo, March 24, 2017, CC BY-SA 4.0. Dahu strawberry farm.
+- **Scene §Short Spirit Ritual**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Photo: CenkX, 2006, CC BY-SA 3.0. Nanzhuang Saisiyat paSta'ay ritual.
+- **Scene §Dapu Incident**: [2013-08-18 Dismantling Government](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: Zhongcen Fan Jiang, August 18, 2013, CC BY-SA 2.0. Scene from the Dismantling Government movement.
+- **Scene §53 Ten Thousand People**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen, January 28, 2021, CC BY-SA 4.0. Dahu strawberry tourist orchard.
 
-License terms: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+License terms: [OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## References
 
