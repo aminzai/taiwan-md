@@ -112,7 +112,7 @@ Third, reclaimed water forces data to become more transparent. To earn local tru
 
 Reclaimed water is therefore not a “patch” for semiconductor water shortage. It is more like an institutional test: can Taiwan combine municipal sewage, industrial demand, local trust, and climate risk into a water-resource system that can operate over the long term?
 
-![Diagram of reclaimed water and semiconductor manufacturing water loop: reservoirs and rivers, municipal sewage, reclaimed-water plants, fabs, and local governance form a water-resource loop](/article-images/technology/reclaimed-water-semiconductor-loop-en.svg)
+![Diagram of reclaimed water and semiconductor manufacturing water loop: reservoirs and rivers, municipal sewage, reclaimed-water plants, fabs, and local governance form a water-resource loop](/article-images/technology/reclaimed-water-semiconductor-loop.svg)
 
 _A Taiwan.md self-made diagram. Reclaimed water connects municipal sewage, industrial demand, local trust, and drought response into a system, turning semiconductor water use into a public-infrastructure question._
 
