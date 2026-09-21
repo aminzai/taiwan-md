@@ -2,9 +2,7 @@
 title: "Mountain Makers: A Century's Gamble — A Taiwanese Semiconductor Epic That Had to Sand One Word Off Its Title Before It Could Be Spoken"
 description: 'Released on June 13, 2025, the documentary A Chip Odyssey tells the irreplaceable epic of Taiwan''s semiconductor industry. But its original title was Silicon Shield. Hsiao Chu-chen spent five years and interviewed more than 80 people to capture this industry''s story of being "born of adversity," only to sand the sharpest word off the title: when this country boasts of its strongest strategic card, it first has to weigh how the other side will hear it.'
 date: 2026-06-16
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '紀錄片'
 tags:
   [
     'Documentary',
@@ -16,18 +14,21 @@ tags:
     'Ben Tsiang',
     'Chen Tien-shun',
   ]
+subcategory: '紀錄片'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '36b47295'
-sourceContentHash: 'sha256:04951f7f999b2b98'
-sourceBodyHash: 'sha256:3df28689a2b61ed4'
-translatedAt: '2026-06-17T01:18:25+08:00'
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+translatedFrom: 'Art/造山者世紀的賭注.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T13:46:49.409565+00:00'
 ---
 
 # Mountain Makers: A Century's Gamble — A Taiwanese Semiconductor Epic That Had to Sand One Word Off Its Title Before It Could Be Spoken
@@ -168,27 +169,27 @@ After watching the film in June, Hsiao Bi-khim said: "More importantly, this fil
 
 Both speeches are dignified, and both fold the film into a national narrative frame. But the position the film itself chooses is actually much humbler than the speeches -- Hsiao Chu-chen once said: "After finishing this film, I also feel that I am a mountain maker. Even if I am a small grain of sand, I am still part of the mountain-making movement"[^45].
 
-## The Mountain Maker Is Not Really Present
+## The Mountain Makers Were Not Present
 
-The story returns to the evening of June 26, 2025, in a cinema in Xinyi District.
+The story returns to the cinema in Xinyi District on the evening of June 26, 2025.
 
-Ninety-four-year-old Morris Chang and his wife sat in the last row and watched the entire film. When the end lights came on, he slowly walked down the aisle wearing a mask, raised both hands high, waved to the audience, and acknowledged everyone[^4]. Hsiao Chu-chen sat in the theater -- across five years, she had never managed to conduct a head-on interview with this core figure among the "mountain makers"; in the end, this core figure came before the film himself as an "audience member."
+The 94-year-old Morris Chang couple watched the entire film from the last row. As the end credits rolled, he slowly walked down the aisle wearing a mask, raising both hands and waving to the audience in greeting[^4]. Chi Chih-ching was present—in five years, she had never conducted a direct interview with this core figure, so at the end, the core figure himself came before the film as an "audience member."
 
-> **-** What the epic did not capture, reality supplied.
+> **✦** Reality supplemented what the epic failed to capture.
 
-The film's tension therefore circles back to its starting point: the person who was not interviewed, the word removed from the title, and the money deliberately dispersed -- these are the film's real spine. For a Taiwanese semiconductor epic, it is easy to say, "we built a mountain." What it truly says, the harder thing to put into words, is that while everyone is looking at this mountain, this country's mountain makers have learned how to leave history for themselves somewhere between what can be said and what cannot.
+The tension of this film thus circled back to its origin: the person who was not interviewed, the word removed from the title, and the deliberately dispersed funds—these were the true spine of the film. A Taiwanese semiconductor epic that easily tells the story of "we built a mountain" speaks something much harder to address; while everyone looked at this mountain, the mountain makers on this island learned how to leave their history between what could be said and what could not be said.
 
-The box-office numbers that burned for a year, the overseas screenings one after another, the speeches by the vice president and former president, the praise from ESMC's president -- all of these will dissipate. But the figure who stood up from the last row that evening will remain. He did not walk onto the screen; he walked out from the audience.
+The box office figures spanning a year, the overseas tours, the speeches by the Vice President and former President, and the praise from ESMC's CEO—all of these will fade. But the figure standing in the last row that evening will remain. He did not walk onto the screen; he walked out of the audience.
 
-From the moment this country learned, when boasting of itself, to first weigh how the other side would hear it, every mountain maker had already become an audience member -- watching how the mountain they built is spoken of by others, heard by others, and entered by others with a ticket in hand.
+From the moment this island began to boast about itself while keeping an eye on the other side, every mountain maker had already become an audience member—watching how the mountain they built was talked about, heard, and bought tickets to see by others.
 
 **Further Reading**:
 
-- [Semiconductor Industry](../Technology/半導體產業.md) -- The complete context of Taiwan's wafer foundry industry, from the 1974 breakfast meeting at Xiao Xinxin Soy Milk Shop to C. C. Wei walking into the White House in 2025; the timeline of _A Chip Odyssey_ is grafted onto this axis.
-- [Morris Chang](../People/張忠謀.md) -- The protagonist who did not sit before the camera; the second volume he wrote himself was published only six months before the film's release.
-- [Invisible Nation](../Art/看不見的國家.md) -- The sister documentary released on the same day, in which American director Vanessa Hope cuts into another audio channel of "Taiwanese value" through the democratic path.
-- [Science Park Development](../Technology/科技園區發展.md) -- Hsinchu Science Park as the physical stage for many of _A Chip Odyssey_'s scenes, growing from a small city's gamble into a hub of the global supply chain.
-- [Tsai Ing-wen](../People/蔡英文.md) -- In August 2025, when the box office passed NT$25 million, the former president entered the theater after leaving office with former vice president Chen Chien-jen and his wife, writing a political backdrop for the film.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The complete context of Taiwan's wafer fabrication, from the Little Xinxin Soy Milk Shop breakfast in 1974 to Wei Zhejia entering the White House in 2025; _A Chip Odyssey_'s temporal skeleton is grafted onto this axis.
+- [Morris Chang](/en/people/tsmc-morris-chang) — The protagonist who did not appear before the camera; his second volume, written by himself, was published six months before the film's release.
+- [Invisible Nation](/en/art/invisible-nation) — A sister documentary released on the same day, where American director Vanessa Hope explores another narrative of "Taiwanese values" through a democratic path.
+- [Science Park Development](/en/technology/science-park-development) — Hsinchu Science Park, as the physical stage for most scenes in _A Chip Odyssey_, grew from a small town's gamble into a global supply chain hub.
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — When the box office surpassed NT$25 million in August 2025, the former President attended the cinema with Chen Chien-ren and his wife, adding a political backdrop to the film.
 
 ## Image Sources
 

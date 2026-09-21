@@ -2,9 +2,7 @@
 title: 'AAMA Taipei Cradle Program: A Group That Could Have Retired, Handing Over Craftsmanship in the Slowest Way'
 description: 'In 2012, a group of people who could have retired sat down in a small room in Taipei and promised to accompany an entrepreneur for two years: no equity, no interference in daily operations, only handing over craftsmanship. Thirteen years and fifteen cohorts, the list includes Appier, Social Enterprise Stream, and Portaly; the founders still say the road is only half done. The slowest inheritance is written into the system, shortcuts cannot be copied—the names on the wall, most are still on the way.'
 date: 2026-07-05
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '新創經濟'
 tags:
   [
     'Entrepreneurship',
@@ -16,16 +14,22 @@ tags:
     'AAMA',
     'Social Enterprise',
   ]
+subcategory: '新創經濟'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-07-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
-sourceCommitSha: '2e6738999'
-sourceContentHash: 'sha256:c03fa77efb2f6e8c'
-sourceBodyHash: 'sha256:8e73793f11fceb53'
-translatedAt: '2026-07-24T10:40:41+08:00'
+researchReport: 'reports/research/2026-07/AAMA台北搖籃計畫.md'
 image: '/article-images/economy/aama-15th-cohort-2026.webp'
 imageCredit: 'AAMA台北搖籃計畫'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://www.aamataipei.com.tw/archives/44255'
+relatedDiary: ['2026-07-15-121155-manual']
+translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:ccfdff52514bee03'
+sourceBodyHash: 'sha256:c85b648ab9e302be'
+translatedAt: '2026-09-21T14:08:25.459136+00:00'
 ---
 
 > **30-Second Overview:** The AAMA Taipei Cradle Program is a rare existence in Taiwan: a startup mentorship program that does not invest, take equity, or charge tuition. Founded in 2012 by _Hung-Tze Jang_ (詹宏志), publisher of _Digital Times_, and retired accounting consultant _Charles Yen_ (顏漏有), it pairs seasoned executives with one growing entrepreneur for two years. It accepts only about twenty participants annually; after thirteen years, it has reached its fifteenth cohort, yet has accumulated names like Appier, Social Enterprise Stream, and Portaly. Its most counterintuitive feature is a choice: a group of people who could have retired to enjoy life chose the slowest, least scalable method to hand over the hard-to-articulate craft of "how to grow a company" to the next generation, without expecting anything in return.
@@ -112,45 +116,45 @@ _Chinese Yen_ has a comment on the traits of entrepreneurs they are looking for,
 > **📝 Curator's Note**
 > The sentence _Charles Yen_ repeatedly says is "success cannot be replicated, but wisdom can be inherited"[^30]. Deconstructing this sentence hides the foundational argument of this entire program. The Silicon Valley model believes in scalable methodologies, standardizing processes, bringing hundreds of companies per batch. AAMA believes exactly the opposite of methodology: the truly valuable part of judgment is precisely unstandardizable and unscalable, so it can only be passed in the oldest way, that is, master-apprentice, face-to-face, slowly. Its scale of about twenty people seems limited, but is actually deliberate: what it believes in cannot be mass-produced.
 
-## The Road Is Only Half Done
+## Halfway There
 
-Up to here, it is all warm. But an honest group portrait must accommodate its own tension.
+Up to this point, things have been warm. But an honest portrait must accommodate its own tension.
 
-AAMA likes to talk about "finishing the course but not graduating," _Charles Yen_’s original words are: "We often say AAMA is finishing the course but not graduating."[^31] Meaning you will not have a day to "graduate" and leave; you stay in this community for life. This is its most moving narrative: a relationship that will not end.
+AAMA likes to talk about "graduating without graduating." Yan Lou-ye has said in the original text: "We often say AAMA is graduating without graduating."[^31] This means you don't leave after a day; you remain in this community for life. This is its most moving narrative: an unending relationship.
 
-But the same program, on the application page, explicitly requires students to maintain an "over 80% participation rate in learning activities" during the two-year period[^32]. On one side is the warm promise of "a lifetime community," on the other is the specific governance threshold of "80% attendance rate." These two are not so contradictory as to require arguing, but they do exist simultaneously. A community held together by personal connections and emotion, once it needs to formalize, be responsible to donors, and be sustainable, must grow quantitative rules. This is the growing pain all organizations face moving from "a group of friends" to "an institution."
+Yet, the same program requires participants to maintain an "80% participation rate in learning activities" on the application page over two years.[^32] On one hand, there is the warm promise of a "lifelong community," and on the other, there is the concrete governance threshold of "80% attendance." These are not contradictory enough to cause an argument, but they do exist simultaneously. A community bound by human connection and emotion must grow quantitative rules when it seeks formalization, accountability to donors, and sustainability. This is a growing pain that every organization transitioning from "a group of friends" to "an institution" encounters.
 
-There is another honest blank that must be addressed: this article cannot find any public record of any alumnus company going bankrupt or exiting. Searching from multiple angles multiple times, the results are all stories of growth and success. But this does not mean AAMA alumni have "zero failure." Media willingness to report on failure cases is inherently low; AAMA has never publicly released exit rate statistics; the only found "exit" case (TapPay acquisition) was still a successful acquisition rather than liquidation[^33]. So a more accurate statement is: the samples we see tend towards survivors. This report card truly presents a landscape selectively illuminated by media, not a guarantee of 100% success rate.
+There is also an honest blank spot that must be addressed: this article could not find any public records of AAMA alumni companies going bankrupt or exiting. Multiple searches from different angles yielded only stories of growth and success. But this does not mean AAMA alumni have a "zero failure rate." Media interest in reporting on failures is naturally low, and AAMA has never publicly released exit statistics; the only documented "exit" case (the acquisition of TapPay) was a successful merger, not a liquidation.[^33] Therefore, a more accurate description is: the samples we see tend to be survivors. This report truly presents a landscape selectively illuminated by the media, not a guarantee of 100% success.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/U00e_uRxxxw" title="From a Program to a Community" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/U00e_uRxxxw" title="From a Program to a Community" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Official short film "From a Program to a Community" produced by the AAMA Community Culture channel._
+_AAMA's official channel, "AAMA Community Culture," produced the short video "From a Program to a Community."_
 
-In Taiwan's startup support system, AAMA is often compared to AppWorks. The differences between the two can be organized into a clear comparison: AppWorks has a batch every half year, 30-40 teams per batch, manages four venture capital funds, invests from seed to Series C, it is an "accelerate plus invest" model; AAMA is two years one-on-one, about twenty people annually, no investment no equity, focusing on "growth-stage" rather than earliest-stage entrepreneurs[^34].
+In Taiwan's startup support system, AAMA is often compared to AppWorks. The differences between the two can be summarized in a clear comparison: AppWorks runs cohorts every six months with 30-40 teams per cohort, managing four venture capital funds and investing from seed to Series C; this is an "acceleration plus investment" model. AAMA operates one-on-one over two years with about twenty people annually, without investing or taking equity, focusing on the "growth phase" rather than early-stage entrepreneurs.[^34]
 
-Interestingly, the founders of these two institutions, with completely different positioning yet often mentioned together, actually participate in each other's ecosystems. _Chihchen Lin_ (林之晨), founder of AppWorks, is listed on the AAMA official website's mentor list[^35]. Rather than confrontation, this is more like the natural overlap of familiar faces in a small ecosystem. Taiwan government's official census (FINDIT Ecosystem Survey) also classifies AAMA as a "comprehensive-type startup base," explicitly not placing it in the "accelerator" classification system. It was never the same thing from the beginning[^36].
+Interestingly, these two institutions, which have completely different positioning yet are often compared, have founders who participate in each other's ecosystems. Lin Chi-chen, a founder of AppWorks, is listed as a mentor on the AAMA official website.[^35] Rather than being competitive, it is more like a natural overlap of familiar faces within a small ecosystem. The official census by the Taiwan government (FINDIT Ecosystem Survey) also classifies AAMA as a "comprehensive startup base," explicitly not placing it in the "accelerator" classification system. It was not the same thing from the start.[^36]
 
-What is truly worth stopping to look at is another contrast. AAMA has a sister program (SLP, Taipei Startup Leadership Program) with highly overlapping target audiences, also not focusing on investment and equity. Logically, these two programs should often be talked about together. But flipping through both official websites and media reports, one finds a thing: **they are two parallel worlds, never mentioning each other publicly**.
+What is truly worth stopping to look at is another comparison. AAMA has a sister program (SLP, Taipei Startup Leadership Program) that shares a high degree of service overlap and also does not focus on investment or equity. Logically, these two programs should often be discussed together. However, after searching the official websites and media reports of both, one thing becomes clear: **they are parallel worlds and have never publicly mentioned each other.**
 
-This "zero intersection" itself explains the landscape of Taiwan's startup support system better than any competition story: it is more like a galaxy of small systems operating independently, not interacting with each other, rather than an integrated market. Every program is on its own orbit, in the way it believes, catching a small group of entrepreneurs.
+This "zero intersection" speaks more to the nature of Taiwan's startup support system than any competitive story: it is more like a collection of small galaxies operating independently and not interacting, rather than an integrated market. Each program operates on its own trajectory, supporting a small group of entrepreneurs in the way it believes in.
 
-In 2022, AAMA turned ten. This is a moment suitable for self-praise: accumulated 106 mentors, accompanied 299 entrepreneurs, interaction hours reached 10,000 hours[^37]. By 2024, the official website statistics showed alumni companies' annual revenue totaled over 57 billion NTD; in 2026's 15th cohort, 158 applications set a five-year high, female application ratio reached 34%, annual revenue over 100 million NTD application companies doubled from 9 to 19[^38]. These numbers are all beautiful.
+In 2022, AAMA celebrated its tenth anniversary. This was a time for self-praise: accumulating one hundred and six mentors, accompanying two hundred and ninety-nine entrepreneurs, and achieving ten thousand hours of interaction.[^37] By 2024, the official website reported that the cumulative annual revenue of alumni companies exceeded 57 billion NTD; in the fifteenth cohort in 2026, 158 applicants set a near five-year high, with female applicants reaching 34%, and companies generating over 100 million NTD doubling from nine to nineteen.[^38] These numbers are impressive.
 
-But at the tenth anniversary forum, _Charles Yen_ did not choose to celebrate. He quoted the argument from the book _Startup Community_, saying a sentence: "Operating a startup community requires accumulating at least 20 years to exert true influence, so we are only half done."[^39]
+But at the tenth-anniversary forum, Yan Lou-ye did not choose to celebrate. Citing the arguments in the book _Startup Community_, he made one statement: "It takes at least 20 years to operate a startup community to have a real impact, so we have only done half."[^39]
 
-This sentence is the "unfinished" framework drawn by the founder themselves, from within rather than external nitpicking. A person with ten years of achievements standing at a celebration occasion, choosing to say "we are only half done," contains a rare clarity. It admits a thing: the inheritance of judgment is inherently a slow work where results cannot be seen clearly in ten years, requiring twenty or thirty years to measure.
+This sentence is a framework of "incompleteness" drawn by the founders themselves, not from external criticism. A person who has accumulated ten years of achievements, standing at a celebration, choosing to say "we have only done half," contains a rare clarity. It acknowledges one thing: the transmission of judgment is inherently slow work that cannot be judged in ten years and requires twenty or thirty years.
 
-So looking back, the most counterintuitive thing about the AAMA Taipei Cradle Program was never how many unicorns it produced. It was thirteen years ago, a group of people who could have retired to enjoy life, in an era when everyone was pursuing "faster, bigger, more," chose the slowest, least scalable, and least cost-effective path: two years, one-on-one, no equity, to do a thing where results are only visible after twenty years. Among those twenty people in the first cohort, some have now returned to sit in the mentor's position, waiting to accompany the next young person still stumbling, temporarily unable to see the end. Craftsmanship is just like this, handed from one pair of hands to another.
+Looking back, the most counterintuitive aspect of AAMA's Taipei Cradle Program was never how many unicorns it produced. It was thirteen years ago when a group of people who could have enjoyed retirement chose the slowest, least scalable, and seemingly least profitable path—two years, one-on-one, without taking equity—to do something that might only show results in twenty years, while everyone else was pursuing "faster, bigger, more." In the first cohort of twenty, some are now back to sit as mentors, waiting to guide the next generation who is still stumbling and cannot yet see the finish line. This is how skills are passed from one pair of hands to another.
 
 **Further Reading**:
 
-- [Startup Ecosystem](../Economy/新創生態系.md): The panorama of Taiwan's startup ecosystem, from early challenges to accelerators, venture capital, and the pursuit of unicorns, see what landscape AAMA sits in
-- [Qiwei Lin: From an Internationally Awarded Physical Board Game Brand to a Software Platform for 200,000 Creators](../People/林啟維.md): AAMA 13th cohort alumnus, Portaly founder, a profile of an entrepreneur who "resets and relearns every time"
-- [Taiwan Enterprise: Advantech](../Economy/台灣企業：研華科技.md): One of the AAMA Foundation donors, and also a partner in the "AIoT Corporate Co-creation Program"
-- [SLP Taipei Startup Leadership Program](../Economy/SLP台北創業領導計畫.md): Another sister track not focusing on equity
-- [Taiwan Self-media Creator Economy](../Economy/台灣自媒體創作者經濟.md): Understand the creator economy wave in which AAMA's recent alumni (such as Portaly) are situated
+- [Taiwan Startup Ecosystem](/en/economy/taiwan-startup-ecosystem-overview): An overview of Taiwan's startup ecosystem, from early challenges to the pursuit of accelerators, venture capital, and unicorns, seeing where AAMA fits in the landscape.
+- [Lin Chi-wei: From an Internationally Awarded Physical Board Game Brand to a Software Platform for 200,000 Creators](/en/people/lin-chi-wei-social-innovator): A profile of an entrepreneur who "restarts from zero" as an alumnus of AAMA's thirteenth cohort, the founder of Portaly.
+- [Taiwanese Enterprises: Advantech Technology](/en/economy/advantech-technology): A donor to the AAMA Foundation and a partner in the "AIoT Corporate Co-creation Program."
+- [SLP Taipei Startup Leadership Program](/en/economy/slp-taipei-startup-leadership-program): Another sister track that does not focus on equity.
+- [Taiwanese Self-Media Creator Economy](/en/economy/taiwan-self-media-creator-economy): Understanding the creator economy wave in which AAMA alumni (such as Portaly) operate in recent years.
 
 ## Image Sources
 
