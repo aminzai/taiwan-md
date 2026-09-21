@@ -398,3 +398,19 @@ def test_resolve_wikilinks_links_when_translation_exists_else_plain_text():
     assert "這頁不存在於任何分類" in out and linked == 1 and plain == 1
     # 不在翻譯語言清單 → 原樣
     assert x.resolve_wikilinks(text, "zz") == (text, 0, 0)
+
+
+def test_render_scalar_list_of_mappings_becomes_block_sequence():
+    """2026-09-22 回歸：dict 改渲染 block mapping 後，sporeLinks（list of mapping）被塞進 flow list，
+    台海危機七語全撞「while parsing a flow sequence」。含 dict／list／多行元素的 list 改渲染 block sequence。"""
+    import yaml
+
+    spore = [{"id": 13, "platform": "threads", "date": "2026-04-08", "url": "https://x/y"}]
+    out = "sporeLinks:" + MODULE.render_scalar(spore) + "\n"
+    assert yaml.safe_load(out) == {"sporeLinks": spore}
+    assert "[" not in out.split("\n")[0]
+    # 純標量 list 仍是 inline flow list（relatedDiary 慣例不變）
+    assert MODULE.render_scalar(["a", "b"]) == "['a', 'b']"
+    nested = {"x": [{"a": 1, "b": {"c": 2}}, {"a": 3}], "z": [[1, 2], [3]]}
+    o = "r:" + MODULE.render_scalar(nested) + "\n"
+    assert yaml.safe_load(o) == {"r": nested}

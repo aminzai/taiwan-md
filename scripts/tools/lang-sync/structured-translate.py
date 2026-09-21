@@ -305,6 +305,12 @@ def render_scalar(value, indent: int = 0) -> str:
         # 產出 '[''a'', ''b'']' 這種「長得像 list 的單一字串」。不炸 YAML、
         # 不觸發 verify 的 PASSTHROUGH 檢查（未涵蓋 relatedDiary），是會
         # 靜默存活的型別走樣；裝甲常駐化後每次翻譯都會經過，重啟產線前必修。
+        # 2026-09-22：元素含 dict／list／多行字串（sporeLinks 是 list of mapping）時
+        # 不能塞 flow list——dict 那條改渲染 block mapping 的同一夜，台海危機七語全撞
+        # 「while parsing a flow sequence」，就是 block mapping 被塞進 [ ] 裡（本班自己
+        # 造成的回歸，一小時內抓到）。這種 list 改渲染 block sequence。
+        if any(isinstance(v, (dict, list)) or (isinstance(v, str) and "\n" in v) for v in value):
+            return render_block_sequence(value, indent=indent + 2)
         return "[" + ", ".join(render_scalar(v) for v in value) + "]"
     if value is None:
         # 2026-09-22：None 曾 fallthrough 成字串 'None'（beyblade 三語 rationale: 'None'）
@@ -318,6 +324,29 @@ def render_scalar(value, indent: int = 0) -> str:
     return yaml_single_quote(value)
 
 
+def render_block_sequence(items: list, indent: int) -> str:
+    """把 list 渲染成 `- item` 的縮排 block sequence（回傳值以換行開頭，接在 `field:` 後）。
+    dict 元素第一個鍵跟在 `- ` 後、其餘鍵對齊縮排 indent+2；其他型別走 render_scalar。"""
+    pad = " " * indent
+    lines = []
+    for v in items:
+        if isinstance(v, dict) and v:
+            keys = list(v.keys())
+            first = keys[0]
+            fv = v[first]
+            head = f"{pad}- {first}:" + (render_block_mapping(fv, indent + 4) if isinstance(fv, dict)
+                                          else " " + render_scalar(fv, indent=indent + 2))
+            lines.append(head)
+            rest = {k: v[k] for k in keys[1:]}
+            if rest:
+                lines.append(render_block_mapping(rest, indent + 2).lstrip("\n"))
+        elif isinstance(v, list):
+            lines.append(f"{pad}-" + render_block_sequence(v, indent + 2))
+        else:
+            lines.append(f"{pad}- {render_scalar(v, indent=indent)}")
+    return "\n" + "\n".join(lines)
+
+
 def render_block_mapping(mapping: dict, indent: int) -> str:
     """把 dict 渲染成 `key: value` 的縮排 block mapping，第一行留空讓呼叫端接在
     `field:` 之後（回傳值以換行開頭）。巢狀 dict 遞迴縮排，其他型別走 render_scalar。"""
@@ -327,7 +356,9 @@ def render_block_mapping(mapping: dict, indent: int) -> str:
         if isinstance(v, dict):
             lines.append(f"{pad}{k}:" + render_block_mapping(v, indent + 2))
         else:
-            lines.append(f"{pad}{k}: {render_scalar(v, indent=indent)}")
+            rendered = render_scalar(v, indent=indent)
+            sep = "" if rendered.startswith("\n") else " "   # block sequence 接在 `key:` 後不留尾空白
+            lines.append(f"{pad}{k}:{sep}{rendered}")
     return "\n" + "\n".join(lines)
 
 
