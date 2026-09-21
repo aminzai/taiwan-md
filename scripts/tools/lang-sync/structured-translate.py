@@ -298,7 +298,29 @@ def render_scalar(value) -> str:
         # 不觸發 verify 的 PASSTHROUGH 檢查（未涵蓋 relatedDiary），是會
         # 靜默存活的型別走樣；裝甲常駐化後每次翻譯都會經過，重啟產線前必修。
         return "[" + ", ".join(render_scalar(v) for v in value) + "]"
+    if value is None:
+        # 2026-09-22：None 曾 fallthrough 成字串 'None'（beyblade 三語 rationale: 'None'）
+        return "null"
+    if isinstance(value, dict):
+        # 2026-09-22：巢狀 mapping（rationale 的 why_this_hook／whats_excluded 四鍵）曾
+        # fallthrough 到 yaml_single_quote(str(dict))，上站 1,140 份譯文的 rationale 變成
+        # 一整串 Python dict repr——跟上面 list 那條是同一個型別走樣家族的第三個成員
+        # （list 07-26、None／dict 09-22）。改渲染成縮排 block mapping，跟 zh 同形。
+        return render_block_mapping(value, indent=2)
     return yaml_single_quote(value)
+
+
+def render_block_mapping(mapping: dict, indent: int) -> str:
+    """把 dict 渲染成 `key: value` 的縮排 block mapping，第一行留空讓呼叫端接在
+    `field:` 之後（回傳值以換行開頭）。巢狀 dict 遞迴縮排，其他型別走 render_scalar。"""
+    pad = " " * indent
+    lines = []
+    for k, v in mapping.items():
+        if isinstance(v, dict):
+            lines.append(f"{pad}{k}:" + render_block_mapping(v, indent + 2))
+        else:
+            lines.append(f"{pad}{k}: {render_scalar(v)}")
+    return "\n" + "\n".join(lines)
 
 
 def load_subcategory_i18n() -> dict:

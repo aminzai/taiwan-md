@@ -215,14 +215,30 @@ def build_translation_prompt(article, zh_content, lang):
     # Build a "target frontmatter scaffold" — what the model should emit
     target_fm_lines = []
     # Translate-from-zh fields
-    for key in ["title", "description"]:
+    # 2026-09-22：imageAlt 補進——verify-translation 第 13 檢查把它跟 title/description
+    # 同列「不得留原文」，但整篇引擎的 scaffold 沒列它，模型從 zh 全文照抄；zh 有
+    # imageAlt 的 48 篇在 whole 引擎永遠過不了閘（run 98122 一夜 51 次拒收全在這格，
+    # 貓眼石／醬油／台灣小吃／水道頭各 4-5 次）。structured／patch 兩條引擎 09-21 已修，
+    # 這是第三條。tags 同時從 preserve 改 translate——scaffold 寫 preserve、系統規則
+    # 寫 translate 互相矛盾，ja 一夜 9 次「tags 跟 zh 一字不差」就是模型聽了 scaffold。
+    for key in ["title", "description", "imageAlt"]:
         if key in zh_fields:
             target_fm_lines.append(f"{key}: <translate from zh: {zh_fields[key]!r}>")
-    # Preserve-as-is fields
-    for key in ["date", "author", "category", "subcategory", "tags",
-                "readingTime", "lastVerified", "lastHumanReview", "featured"]:
+    if "tags" in zh_fields:
+        target_fm_lines.append(
+            f"tags: <translate EACH tag to the target language, keep list shape: {zh_fields['tags']!r}>")
+    # Preserve-as-is fields（subcategory 是分類頁分群鍵，原樣 zh；image／imageCredit／
+    # researchReport 是路徑與署名；rationale 是 zh 編輯部內部 mapping，整塊原樣保留
+    # 不要壓成一行字串）
+    for key in ["date", "author", "category", "subcategory",
+                "readingTime", "lastVerified", "lastHumanReview", "featured",
+                "image", "imageCredit", "researchReport", "difficulty"]:
         if key in zh_fields:
             target_fm_lines.append(f"{key}: <preserve from zh: {zh_fields[key]!r}>")
+    if "rationale" in zh_fields:
+        target_fm_lines.append(
+            "rationale: <preserve the zh nested mapping VERBATIM as YAML block "
+            "(indented sub-keys), never flatten it into a quoted string>")
     # Sync placeholder fields (verbatim)
     for key, value in placeholder.items():
         target_fm_lines.append(f"{key}: <verbatim from placeholder: {value!r}>")
@@ -240,8 +256,10 @@ Translate zh-TW articles to {LANG_NAMES.get(lang, lang)} following these rules:
 CRITICAL frontmatter rules — emit ALL fields from the target scaffold:
 - `title`: translate the zh title to {LANG_NAMES.get(lang, lang)}
 - `description`: translate the zh description to {LANG_NAMES.get(lang, lang)}
+- `imageAlt`: translate to {LANG_NAMES.get(lang, lang)} (it is reader-facing alt text; never leave it in Chinese)
 - `tags`: translate each tag value to {LANG_NAMES.get(lang, lang)} (keep YAML list shape)
-- `category`, `subcategory`, `date`, `author`, `readingTime`, `lastVerified`, `lastHumanReview`, `featured`: keep zh value VERBATIM (do not translate or alter)
+- `category`, `subcategory`, `date`, `author`, `readingTime`, `lastVerified`, `lastHumanReview`, `featured`, `image`, `imageCredit`, `researchReport`: keep zh value VERBATIM (do not translate or alter)
+- `rationale` (if present): keep the nested YAML mapping exactly as in zh (indented sub-keys); do NOT flatten it into a quoted string
 - Sync placeholder fields (translatedFrom / sourceCommitSha / sourceContentHash / translatedAt): VERBATIM from placeholder
 - ALL YAML string values quoted; descriptions with apostrophes use DOUBLE QUOTES
 - Frontmatter ends with `\\n---\\n` newline before closing `---`

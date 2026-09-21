@@ -358,3 +358,16 @@ def test_chunk_ratio_ceiling_follows_language_band(tmp_path):
     # 明顯胡言亂語（20 倍）仍擋
     issues = MODULE._validate_chunk(zh, out_fr * 5, set(), "fr", tmp_path)
     assert any(i.startswith("ratio out of band") for i in issues), issues
+
+
+def test_render_scalar_keeps_nested_mapping_and_null_as_yaml_types():
+    """2026-09-22：dict 曾 fallthrough 成 str(dict) 單引號字串（上站 1,140 份譯文的 rationale
+    變成 Python repr 一整行）、None 曾變字串 'None'（beyblade 三語）。跟 07-26 的 list 案是同一個
+    型別走樣家族。"""
+    import yaml
+
+    d = {"why_this_hook": "從一條光切入", "nested": {"a": 1, "b": "it's"}, "n": None, "l": ["x", "y"]}
+    out = "rationale:" + MODULE.render_scalar(d)
+    assert yaml.safe_load(out) == {"rationale": d}
+    assert "{'" not in out  # 不是 repr
+    assert MODULE.render_scalar(None) == "null"
