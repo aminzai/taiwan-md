@@ -1312,6 +1312,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（同一放大結構）、「多語言 nav 的隱性路由 scope」instance 2（死連結報告的比例閘門讓小家族長期隱形）、REFLEXES #87、#38 零維度變體（`latest.json` 只存 top 300，長尾裡的家族看不到）
 - **verification_count**: 1
 - **severity**: tactical
+- **2026-09-21 twmd-maintainer-am 落地**：(a) 12 篇母稿 38 條改絕對路徑，三條目標不存在的改指大稻埕／台灣電影／純文字（`4f3974f86`）；(b) `verify_internal_links.py` 加 `is_relative_href` + `resolve_relative_href`，在 09-07 舊 dist 上 456 條相對連結現形（`69f7c6211`）。(c) babel 產線拒收 `../` 未做。譯文那 129 檔等 babel 依 source sha 追，本班沒碰。
 
 ## ✅ 已消化（保留 pointer）
 

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-21
-last_session: '2026-09-21-070948-twmd-feedback-triage（零回報，對賬全綠，#1756 維護者回覆 sync 進 archive）'
+last_session: '2026-09-21-084105-twmd-maintainer-am（3 PR merge、12 篇母稿相對路徑 heal＋連結檢查器認相對路徑、紙風車劇團腳註轉換）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-21 | 061102-twmd-data-refresh-am | 第十六夜讓場 14 步全綠零 stale；探憑證的 404 路徑歸進 scanner；unknown 長尾浮出 12 篇母稿 `../` 相對路徑被巴別塔放大成 129 份譯文 405 條斷鏈 | 交接落地靠的是數字變大讓人去看；一個 `../` 也會被十二語放大 | [→](memory/2026-09-21-061102-twmd-data-refresh-am.md) |
 | 2026-09-21 | 063542-twmd-spore-harvest-am | Chrome MCP 兩次探針 `[]`，Stage 2 閘門前 abort（前日成功，vc=1）；Chrome 以 `--no-startup-window` 活著但無視窗；D+30 與回覆分頁缺口交明天 | Chrome 活著跟擴充功能連得上隔著一個視窗；環境問題交人要帶 pid | [→](memory/2026-09-21-063542-twmd-spore-harvest-am.md) |
 | 2026-09-21 | 070948-twmd-feedback-triage | 零回報的一輪，對賬 87/87 與 86/87 全綠；唯一非零是 #1756 維護者回覆 sync 進 archive，昨天那筆回報從讀者到 git 33 小時閉環 | 主權層留住的是整段對話不只讀者原話；零筆也照 --commit 跑對賬才會落地 | [→](memory/2026-09-21-070948-twmd-feedback-triage.md) |
+| 2026-09-21 | 084105-twmd-maintainer-am | aminzai 三篇譯文收下；data-refresh 交來的 12 篇母稿 `../` 相對路徑修掉並讓連結檢查器認相對路徑（舊 dist 上 456 條現形）；紙風車劇團 17 條方括號引用轉腳註 | 帶指令與數字的交接當班做掉；只剩一個決定的 issue 核阻塞仍在並如實記下 | [→](memory/2026-09-21-084105-twmd-maintainer-am.md) |
