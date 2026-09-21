@@ -1,62 +1,63 @@
 ---
-title: 'Hà Phi Bằng'
-description: 'Một người dẫn đường trước thị trường tám năm, liên tục lỗ bảy năm, cuối cùng thành lập tập đoàn xuất bản lớn nhất Đài Loan.'
-date: '2026-03-26'
-author: 'Taiwan.md'
+title: 'Hà Phi Bằng: Người làm truyền thông đã xây dựng tập đoàn xuất bản lớn nhất Đài Loan sau tám năm dẫn đầu thị trường và bảy năm thua lỗ liên tiếp'
+description: 'Một nhân vật truyền thông, người đã lãnh đạo thị trường trong tám năm, chịu lỗ bảy năm liên tục, và cuối cùng thành lập tập đoàn xuất bản lớn nhất Đài Loan.'
+date: 2026-03-26
 category: 'People'
+tags: ['Truyền thông đô thị', 'ngành xuất bản', 'chuyển đổi số', 'tự sự']
 subcategory: '數位與媒體'
-tags: ['Thành Bang Truyền Thông', 'Xuất bản nghiệp', 'Chuyển đổi số', 'Tự Hào']
-lastVerified: '2026-03-26'
-lastHumanReview: 'false'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-26
+lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
-translatedAt: '2026-07-24T23:02:11+08:00'
+translatedAt: '2026-09-22T02:06:15+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Năm 1987, Hà Phi Bằng sáng lập _Thương mại Tuần báo_, bảy năm đầu mỗi năm lỗ hàng chục triệu. Ngày nay, Tập đoàn Truyền thông Thành Bang do ông xây dựng không chỉ là vương quốc xuất bản lớn nhất Đài Loan, mà còn là một trong số ít truyền thống truyền thông sống sót qua làn sóng chuyển đổi số. Hành trình của ông chính là sử ký sinh tồn của báo chí giấy Đài Loan trước tác động của kỹ thuật số.
+> **Tóm tắt 30 giây:** Năm 1987, Hà Phi Bằng sáng lập tạp chí Thương Chu (Commercial Weekly), và trong bảy năm đầu tiên, tờ báo này thua lỗ hàng chục triệu. Ngày nay, tập đoàn Truyền thông Thành Bang do ông thành lập không chỉ là vương quốc xuất bản lớn nhất Đài Loan mà còn là một trong số ít phương tiện truyền thông truyền thống sống sót qua làn sóng chuyển đổi số. Hành trình của ông chính là câu chuyện sinh tồn của báo chí giấy Đài Loan trước cú sốc kỹ thuật số.
 
-| 7 năm                                                        | 1 tỷ nguyên                           |
-| ------------------------------------------------------------ | ------------------------------------- |
-| Thời gian liên tục lỗ vốn khi sáng lập _Thương mại Tuần báo_ | Số vốn đầu tư mua lại PIXNET năm 2007 |
+| Thời gian thua lỗ liên tiếp       | Số tiền đầu tư thu mua Pixnet              |
+| :-------------------------------- | :----------------------------------------- |
+| Giai đoạn sáng lập 《Thương Chu》 | Khoản đầu tư 100 triệu Đài tệ vào năm 2007 |
 
-Năm 1987, Hà Phi Bằng 30 tuổi đã đưa ra một quyết định táo bạo: trong thời Đài Loan chưa có thói quen đọc tạp chí tài chính, ông sáng lập _Thương mại Tuần báo_. Đó là một khởi đầu thảm họa. Liên tục bảy, tám năm, tạp chí này mỗi năm lỗ một, hai chục triệu mới Đài.
+Năm 1987, khi Hà Phi Bằng mới 30 tuổi, ông đã đưa ra một quyết định táo bạo: thành lập tạp chí 《Thương Chu》 trong thời kỳ mà người dân Đài Loan chưa có thói quen đọc các tạp chí tài chính. Đây là một khởi đầu thảm họa. Liên tục bảy, tám năm, tờ báo này thua lỗ hàng chục triệu Đài tệ mỗi năm.
 
-> 「Sáng lập _Thương mại Tuần báo_, tôi dẫn đường trước thị trường tám năm, cũng lỗ vốn không chỉ tám năm.」——**Hà Phi Bằng** (nguồn: phỏng vấn Podcast The News Lens)
+“Sáng lập 《Thương Chu》, tôi đã dẫn đầu thị trường tám năm, và cũng chịu lỗ hơn tám năm.” — **Hà Phi Bằng** (trích từ Podcast phỏng vấn The News Lens)
 
-> **📝 Ghi chú người biên soạn**
-> Điểm hấp dẫn nhất trong câu chuyện của Hà Phi Bằng nằm ở «sự dũng cảm thừa nhận sai lầm». Trong một xã hội sùng bái CEO kiểu anh hùng, một người sáng lập có thể nói ra «sa thải chính mình» để cứu công ty, rung chuyển hơn bất kỳ học thuyết thành công nào. Chính điều này giải thích tại sao series sách «Tự Hào» (自慢) do ông viết sau này (doanh số tại Đài Loan vượt 500.000 bản) lại gây cộng hưởng mạnh mẽ.
+> **📝 Ghi chú của người biên tập**
+> Điểm hấp dẫn nhất trong câu chuyện của Hà Phi Bằng là "dũng khí thừa nhận sai lầm". Trong một xã hội tôn sùng các CEO kiểu anh hùng, việc một nhà sáng lập có thể nói ra "tự sa thải mình" để cứu công ty còn gây chấn động hơn bất kỳ cuốn sách kinh doanh thành công nào. Đây chính là lý do khiến loạt sách 《Tự Sự》 của ông (với doanh số bán trên 50 vạn bản tại Đài Loan) tạo được sự đồng cảm.
 
-Đối mặt với áp lực tài chính như hố không đáy, ông đưa ra một quyết định ngược với trực giác của nhà khởi nghiệp: **ông sa thải chính mình**. Sau khi nhận ra điểm mù của mình trong quản trị, ông nhường quyền điều hành, lui về hậu trường. Cuộc nhường quyền này ngược lại giúp nguồn lực được phân bổ lại, tạp chí hồi sinh, cuối cùng trở thành tạp chí tài chính phát hành lượng lớn nhất Đài Loan.
+Đối mặt với áp lực tài chính như một cái hố không đáy, ông đã đưa ra một quyết định đi ngược lại trực giác của một nhà khởi nghiệp: **ông tự sa thải mình**. Sau khi nhận ra những điểm mù trong quản lý, ông đã giao quyền điều hành và rút lui về phía sau. Bước ngoặt nhượng bộ này lại giúp nguồn lực được tái phân bổ, khiến tạp chí hồi sinh và cuối cùng trở thành tạp chí tài chính có lượng phát hành lớn nhất Đài Loan.
 
-### Mua lại bộ phận số lỗ vốn nhất
+### Mua lại bộ phận kỹ thuật số thua lỗ nhất
 
-Sau năm 2000, thử thách thực sự mới bắt đầu. Internet trỗi dậy, thị trường giấy in thu hẹp từng năm.
+Sau thiên niên kỷ mới, thử thách thực sự mới bắt đầu. Internet trỗi dậy, thị trường in ấn co lại qua từng năm.
 
-Năm 2007, khi nhiều truyền thống truyền thông còn quan망, Hà Phi Bằng quyết định dùng 1 tỷ mới Đài Loan mua lại nền tảng blog PIXNET. Quyết định lúc bấy giờ trông như vứt tiền ra sông — PIXNET ban đầu mỗi năm lỗ tới 3.000 vạn, trở thành gánh nặng tài chính lớn nhất của tập đoàn.
+Năm 2007, khi nhiều phương tiện truyền thông truyền thống vẫn đang quan sát, Hà Phi Bằng đã quyết định dùng 100 triệu Đài tệ để thu mua nền tảng blog Pixnet (PIXNET). Quyết định này lúc đó trông giống như ném tiền xuống nước — ban đầu Pixnet thua lỗ tới 30 triệu mỗi năm và trở thành gánh nặng tài chính lớn nhất của tập đoàn.
 
-Nhưng ông đã thấu hiểu một điều: người làm báo giấy không cứu được báo giấy.
+Nhưng ông đã nhìn ra một điều: người làm báo giấy không thể cứu được báo giấy.
 
-> 「Người làm truyền thống truyền thông là 『di dân số』, chúng ta cần dẫn nhập 『bản địa số』.」——**Hà Phi Bằng** (nguồn: phỏng vấn _Thời đại Số_)
+“Người lao động truyền thông truyền thống là ‘người nhập cư kỹ thuật số’, chúng ta cần thu hút ‘người bản địa kỹ thuật số’.” — **Hà Phi Bằng** (trích từ phỏng vấn Digital Age)
 
-Hà Phi Bằng trao cho đội ngũ số trẻ quyền tự chủ rất lớn. Ông để Tập đoàn Thành Bang hàng năm đầu tư tới 20% lợi nhuận (khoảng 8.000 vạn mới Đài) vào các thử nghiệm số, chịu đựng vô vàn sai lầm thử sai. Kiêng nể tám năm, PIXNET cuối cùng năm 2015 chuyển lỗ thành lãi.
+Hà Phi Bằng đã trao cho đội ngũ trẻ về kỹ thuật số một quyền tự chủ rất lớn. Ông để tập đoàn đầu tư tới 20% lợi nhuận hàng năm (khoảng 80 triệu Đài tệ) vào các thử nghiệm kỹ thuật số, chấp nhận vô số lần thử và sai. Sau tám năm nỗ lực, Pixnet cuối cùng đã chuyển sang có lãi vào năm 2015.
 
-### Va chạm giá trị thế hệ tại ngã rẽ truyền thừa
+### Va chạm giá trị khi thế hệ thay đổi
 
-Tuy nhiên, đứng tại đỉnh gió làn sóng chuyển thế, phát ngôn của Hà Phi Bằng cũng nhiều lần gây tranh cãi.
+Tuy nhiên, đứng trên đỉnh của sự giao thoa thời đại, những phát ngôn của Hà Phi Bằng cũng nhiều lần gây tranh cãi.
 
-Năm 2014, ông đăng bài xã luận «Nói lời công đạo cho chủ doanh nghiệp», cố gắng thảo luận quan hệ lao động - tư bản tại Đài Loan, nhưng bị cộng đồng mạng chỉ trích gay gắt là «tay sai của phía tư bản». Gần đây, lời khen ngợi công khai của ông đối với **Đường Phong (Tang Feng, 唐鳳)** và các nhân vật chính trị khác, cũng bị dân PTT chất疑 là tách biệt thực tế. Là một lãnh đạo tập đoàn trải qua kỳ kinh tế khởi飞, khi đối tượng độc giả của ông từ «người đọc tài chính mua tạp chí» biến thành «dân mạng nắm quyền thiết lập chuyện», va chạm giá trị thế hệ này gần như là tất yếu.
+Năm 2014, ông đã đăng bài xã luận 《Nói một lời công bằng cho chủ doanh nghiệp》, cố gắng tìm hiểu về quan hệ lao động và giới trong Đài Loan, nhưng lại bị cộng đồng mạng mạnh mẽ chỉ trích là "tay sai của phía tư bản". Những lời ca ngợi công khai của ông dành cho các nhân vật chính trị như [Đường Phượng](/vi/people/audrey-tang/) trong những năm gần đây cũng bị cư dân PTT chất vấn là xa rời thực tế. Là một nhà lãnh đạo tập đoàn đã trải qua thời kỳ kinh tế bùng nổ, sự va chạm giá trị thế hệ này gần như là điều tất yếu khi đối tượng khán giả của ông chuyển từ "những người đọc tài chính mua báo" thành "những cư dân mạng nắm giữ quyền phát ngôn".
 
-Dù tranh cãi thế nào, năm 2020, Hà Phi Bằng được trao giải thưởng cao quý nhất ngành xuất bản Đài Loan — Giải Kim Đỉnh Đặc biệt Cống hiến. Báo tiếng Anh _Taipei Times_ trong bài báo dẫn dắt cho rằng, đây là sự công nhận đối với nỗ lực lâu năm của ông nhằm cải thiện môi trường xuất bản Đài Loan.
+Nhưng bất kể tranh cãi ra sao, vào năm 2020, Hà Phi Bằng đã được trao giải thưởng cao quý nhất trong giới xuất bản Đài Loan là Giải Kim Đỉnh (Golden Tripod Award) cho đóng góp đặc biệt. Tờ báo tiếng Anh 《Taipei Times》 đã chỉ ra rằng đây là sự ghi nhận đối với nỗ lực lâu dài của ông nhằm cải thiện môi trường xuất bản tại Đài Loan.
 
-Người sáng lập tạp chí năm 1987 ấy, từng愁 trước báo cáo tài chính, thậm chí quyết định sa thải chính mình, hoặc chưa từng nghĩ rằng, những thử sai của năm xưa, sẽ trở thành bản hướng dẫn sinh tồn quan trọng nhất cho ngành xuất bản Đài Loan đối mặt với cự lang số ba mươi năm sau.
+Người sáng lập tạp chí, người từng lo lắng về bảng cân đối kế toán và thậm chí quyết định tự sa thải mình vào năm 1987, có lẽ chưa bao giờ nghĩ rằng những lần thử nghiệm của ông khi đó sẽ trở thành cẩm nang sinh tồn quan trọng nhất cho ngành xuất bản Đài Loan khi đối mặt với cơn sóng thần kỹ thuật số ba mươi năm sau.
 
 ## Tài liệu tham khảo
 
-- [Trang chủ Tập đoàn Truyền thông Thành Bang: Giới thiệu Tổng giám đốc](https://www.cite.com.tw/about/ceo) (nguồn thứ nhất)
-- [The News Lens: Sáng lập _Thương mại Tuần báo_, tôi dẫn đường trước thị trường tám năm, cũng lỗ vốn không chỉ tám năm](https://www.thenewslens.com/article/145678)
-- [Thời đại Số: Từ PIXNET chuyển lỗ thành lãi nhìn chuyển đổi số của Thành Bang](https://www.bnext.com.tw/article/43317/cite-media-digital-transformation)
-- [Taipei Times: Ngành xuất bản vinh danh người của mình tại Giải Kim Đỉnh](https://www.taipeitimes.com/News/taiwan/archives/2020/09/12/2003743261)
-- [Bộ Văn hóa: Danh sách giải thưởng Giải Kim Đỉnh lần thứ bốn mươi tư](https://www.moc.gov.tw/information_250_89456.html) (nguồn thứ nhất)
+- [Trang web chính thức Tập đoàn Truyền thông Thành Bang: Giới thiệu CEO](https://www.cite.com.tw/about/ceo) (Nguồn trực tiếp)
+- [The News Lens: Sáng lập 《Thương Chu》, tôi đã dẫn đầu thị trường tám năm, và cũng chịu lỗ hơn tám năm](https://www.thenewslens.com/article/145678)
+- [Digital Age: Nhìn vào việc Pixnet chuyển sang có lãi để thấy sự chuyển đổi số của Thành Bang](https://www.bnext.com.tw/article/43317/cite-media-digital-transformation)
+- [Taipei Times: Ngành xuất bản vinh danh chính mình tại Giải thưởng Kim Đỉnh](https://www.taipeitimes.com/News/taiwan/archives/2020/09/12/2003743261)
+- [Bộ Văn hóa: Danh sách người đoạt giải Đại hội thứ 44 Giải Kim Đỉnh](https://www.moc.gov.tw/information_250_89456.html) (Nguồn trực tiếp)

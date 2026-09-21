@@ -1,81 +1,90 @@
 ---
-title: 'Không phải do Trương Thành Công mang đến: Lịch sử nuôi trồng 400 năm của cá basa'
-description: 'Người Tây Ninh gọi cá basa là "cá gia đình", nhưng nguồn gốc là công nghệ nuôi trồng do Công ty Đông Dương Hà Lan mang từ Indonesia, trước Trương Thành Công đến Đài Loan 37 năm. 4.500 hecta ao nuôi cá ở Qigu, và các cách nấu ăn dùng hết các phần của con cá hơn 7 loại, là phần số sót độc đáo của 400 năm lịch sử nuôi trồng này.'
+title: 'Không phải do Thái Anh Văn mang đến: Lịch sử 400 năm nuôi trồng cá chép'
+description: 'Người Đài Bắc gọi cá chép là "gia cá", nhưng nguồn gốc của nó là kỹ thuật nuôi trồng được Công ty Đông Ấn Đức (Hà Lan) mang từ Indonesia, cách đây 37 năm trước khi Thái Anh Văn đến Đài Loan. Diện tích 4.500 hecta cánh đồng cá và hơn 7 cách chế biến cho một con cá, đây là những di tích sống động của 400 năm lịch sử nuôi trồng.'
 date: 2026-07-02
 category: 'Food'
 tags:
-  ['Tây Ninh', 'cá basa', 'Qigu', 'nuôi trồng', 'Hà Lan', 'ẩm thực', 'bữa sáng']
+  [
+    'Đài Bắc',
+    'cá chép',
+    'Thất Bảo',
+    'nuôi trồng',
+    'Hà Lan',
+    'đồ ăn nhanh',
+    'bữa sáng',
+  ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/虱目魚粥.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:162956900cab6d34'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:7cca8a0f488ac56f'
 sourceBodyHash: 'sha256:a40f868b6fc53c66'
-translatedAt: '2026-07-28T08:16:22+08:00'
+translatedAt: '2026-09-22T02:06:15+08:00'
 ---
 
-Lúc 4 giờ sáng, các ao nuôi cá ở Qigu vẫn còn tối. Nhân viên nuôi cá đeo giày gòm, mở cửa ao, đàn cá nghe tiếng nước chảy và bắt đầu xil xil. Cá basa không chịu nhiệt độ thấp, cần thiết bị giữ nhiệt vào mùa đông, trong mùa hè thu hoạch bắt đầu từ lúc ban đêm – nếu không thu hoạch, các quầy xôi ở trung tâm Tây Ninh sẽ phải đóng cửa vào sáng hôm sau. Chuỗi cung ứng từ Qigu đến phố Quốc Hoa đã chạy đầu tiên cách đây hơn 300 năm.
+Lúc 4 giờ sáng, dọc bờ cánh đồng cá ở Thất Bảo vẫn còn tối. Các thợ lược nuôi cá bước trên giày cao su, mở cửa cống, đàn cá bắt đầu lăn tăn theo tiếng nước. Cá chép không chịu đựng được nhiệt độ thấp, mùa đông phải lắp thiết bị ấm, mùa hè thu hoạch bắt đầu từ rất sớm — nếu không thu hoạch kịp, vào sáng hôm sau các quán cháo ở trung tâm thành phố Đài Bắc sẽ thiếu hàng. Dây chuyền cung ứng từ Thất Bảo đến phố Quốc Hoa, cách đây hơn 300 năm đã vận hành trở back.
 
-Đây không phải là cá và Trương Thành Công có quan hệ gì.
+Dòng cá này và Thái Anh Văn không liên quan gì đến nhau.
 
-## Câu chuyện hay nhất để nghe nhưng không chính xác nhất
+## Câu chuyện hay nhất — cũng là không chính xác nhất
 
-Truyền thuyết dân gian nói rằng: Trương Thành Công đến Đài Loan, đội quân thiếu lương, thấy một loại cá ở bờ biển An Bình. Hỏi với đồng đội: "Đây là cá gì?" – âm thanh "gì" trong ngữ miên nam bị hiểu lầm truyền thành "basa", và tên cá được đặt thế này.
+Truyền thuyết dân gian kể: Thái Anh Văn đến Đài Loan, quân đội thiếu lương thực, ở bãi biển An Bình thấy một loài cá, hỏi người địa phương: "Đây là con cá gì?" — Tên tiếng Minh Ná (Hokkien) "gì" bị phát âm sai thành "chép mắt", và tên cá chính thức đã được đặt ra như vậy.
 
-Câu chuyện này lan truyền rộng rãi ở các đền thánh, sách giáo khoa, và tấm phiếu du lịch, có cảm xúc, hình ảnh sinh động, dễ nhớ. Nhưng các nhà sử học đã chỉ ra vấn đề: Công ty Đông Dương Hà Lan mang công nghệ nuôi trồng cá basa từ Indonesia vào Đài Loan trong thời kỳ thực dân Hà Lan (1624–1662), trước Trương Thành Công đến đây năm 1661 hơn 37 năm. Kinh thánh《Taiwan Fu Zhi》（1694）thế kỷ 17 ghi nhận lịch sử nuôi trồng cá basa. Điểm đầu tiên của khu vực nuôi trồng nằm ở Lục Hồ Ngộ – ngày nay thuộc khu vực An Bình. Hơn bốn thế kỷ.
+Câu chuyện này lan truyền ở chợ đền, sách giáo khoa, tờ rơi du lịch, mang lại cảm xúc và hình ảnh rõ rện, dễ nhớ. Nhưng các nhà sử học đã chỉ ra vấn đề từ lâu: Công ty Đông Ấn Đức đã mang kỹ thuật nuôi trồng cá chép vào Đài Loan, thời gian là thời kỳ Hà Lan thu phủ (1624–1662), ít nhất 37 năm trước khi Thái Anh Văn đến năm 1661. Vào cuối thế kỷ 17, sách "Tống Thái" (1694) đã ghi chép về việc nuôi trồng cá chép, những nơi nuôi trồng đầu tiên nằm ở khu vực Thận Ngư — ngày nay là khu vực An Bình. Hơn 400 năm rồi.
 
-📝 Ghi chú của nhà xuất bản: Truyền thuyết "cá basa là do Trương Thành Công mang đến" chính xác phản ánh một điều: sức mạnh của một câu chuyện hay hơn dài hơn bằng bằng chứng lịch sử. Người Hà Lan mang công nghệ nuôi trồng, Trương Thành Công lại xây lấn quyền đặt tên.
+📝 Ghi chú nhà soạn trích: Câu truyện "cá chép được Thái Anh Văn mang đến" thực sự minh chứng cho một điều: sức sống của một câu chuyện tốt, mạnh hơn cả bằng chứng lịch sử. Người Hà Lan mang kỹ thuật nuôi trồng, nhưng Thái Anh Văn lại chiếm lĩnh quyền đặt tên.
 
-## Qigu: Địa lý học của các ao nuôi cá
+## Thất Bảo: Địa lý học của cánh đồng cá
 
-Ngày nay Tây Ninh vẫn là khu vực sản xuất cá basa lớn nhất quốc gia, thặng dư năm chiếm 50% tổng sản lượng quốc gia. Trung tâm chính là Qigu – diện tích nuôi cá hơn 4.500 hecta, hơn 6.000 con cá, là điểm số hàng đầu quốc gia.
+Ngày nay, Thái Bắc vẫn là khu vực sản xuất cá chép lớn nhất trên đảo, với sản lượng hàng năm chiếm khoảng 50% tổng sản lượng toàn đảo. Trung tâm là khu vực Thất Bảo — diện tích nuôi trồng cá khẩm công hơn 4.500 hecta, hơn 6.000 cánh đồng cá nhỏ, dẫn đầu cả nước.
 
-Địa hình của Qigu là yếu tố then chốt: bờ biển thấp đẳng cấp, đất sét phù hợp, mặn vừa phải – tự nhiên là nơi nuôi cá lý tưởng. Từ trung tâm Tây Ninh, lái xe khoảng bốn mươi phút, nhưng ở đó, hai bên đường là chuỗi dài các mặt nước, các cá vồn đứng trên đồng ao, xa là biển Đông Việt Nam.
+Địa hình Thất Bảo là yếu tố then chốt: bờ biển phẳng lở, đất bùn, mức muối vừa phải, tự nhiên đã là điều kiện cho cánh đồng cá. Từ trung tâm thành phố Đài Bắc chỉ mất khoảng 40 phút đi xe, nhưng ở đây, hai bên đường là những mặt nước liên tục, những con cò trắng đứng trên bờ đê, xa xa là vịnh Thái Lan.
 
-Từ An Bình đến phố Quốc Hoa, khoảng cách thẳng chứng không quá mười sáu kilômét. Từ Qigu đi về phía, cũng không quá bốn mươi kilômét. Chuỗi cung ứng ngắn gọn này là nền tảng để bữa sáng giá rẻ và tươi mới của cá basa tại Tây Ninh.
+Từ An Bình đến các quán cháo trên phố Quốc Hoa, quãng đường thẳng không quá 15 km. Tính cả Thất Bảo, cũng không quá 40 km. Dây chuyền cung ứng ngắn này là nền tảng vật chất để cá chép ở Thái Bắc rẻ và tươi.
 
-📝 Ghi chú của nhà xuất bản: Qigu không chỉ nuôi cá basa, mà còn là một trong hai địa điểm quan trọng nhất thế giới để nuôi cá vỏ xanh qua đêm – nơi lâu dài diễn ra tranh chấp giữa lợi ích bảo tồn sinh thái và nền nghề nghiệp đáng kinh ngạc. Các ao nuôi không chỉ là nguồn thực phẩm, mà còn là không gian chính trị sinh thái.
+📝 Ghi chú nhà soạn trích: Thất Bảo không chỉ nuôi cá chép, còn là một trong những nơi quan trọng nhất trên thế giới cho bói cá xuống đông của cò trắng. Cuộc tranh giành giữa bảo vệ động sinh học và lợi ích ngành chài lưỜi kéo dài ở đây — cánh đồng cá không chỉ là nguồn gốc của thực phẩm, mà còn là không gian chính trị sinh thái.
 
-## Học hỏi các phần của con cá
+## Tri thức về từng phần của con cá
 
-Người Tây Ninh ăn cá basa không để lại chất thải. Đây là di sản của logic bữa sáng của công nhân bến cảng: mỗi phần có vị trí riêng.
+Người Thái Bắc ăn cá chép không lãng phí. Đây là di sản từ bữa sáng của công nhân bến cảng: mỗi bộ phận đều có chỗ đứng của nó.
 
-Bụng cá (phần abdomen) chứa nhiều bơ, nướng khô phù hợp nhất, vỏ giòn, bụng mềm, một miếng gấp đôi kết cấu. Miếng cá (phần xương sống) hợp với xôi, ngọt tự nhiên, dẻo dai, vị tinh tế không xuất hiện ồn ào. Da cá chất liệu cao, nấu súp phù hợp nhất, uống xuống sẽ dính mép miệng – đó là protein gelatin, không phải chất thêm. Ruột cá chiên giòn rụm, nhưng yêu cầu độ tươi rất cao, là cách ăn khó nhất để sao chép thành công ở ngoại tỉnh. Đầu cá luộm hoặc nấu đỏ, giàu chất gelatin, thích hợp để thưởng thức từ từ. Trứng cá có hạn chế về mùa, chiên hoặc làm salsa, là điều các thợ mê biết tìm.
+Bụng cá (bụng) chứa nhiều chất béo nhất, phù hợp để chiên khô, da giòn, bụng mềm, mang lại hai kết cấu khác nhau trong một miếng. Thịt cá (thịt lưng) vào cháo là tốt nhất, ngọt thanh, giòn sần, thơm thoang không lấn át. Da cá giàu collagen, phù hợp để nấu súp, uống xuống sẽ cảm thấy dính miệng một chút — đó là collagen, không phải chất bổ sung. Ruột cá chiên giòn, giòn như tiếng cười, nhưng đòi hỏi độ tươi rất cao, là cách ăn khó nhất để sao chép ở nơi khác. Đầu cá kho hoặc hầm, giàu collagen, phù hợp để từ từ nếm thử. Trứng cá trong thời vụ, chiên hoặc ướp mắm, là món đồ mà khách hàng thân cũng biết theo đuổi.
 
-Mỗi mũi cắt đều tỉ mỉ, bởi vì mỗi phần đều xứng đáng được đối xử riêng biệt.
+Mỗi cú cắt đều sắc b tang, vì mỗi bộ phận đều xứng đáng được đối xử riêng biệt.
 
-📝 Ghi chú của nhà xuất bản: Văn hóa "ăn các phần của cá basa" thực chất là logic ăn uống không lãng phí của công nhân. Khi đặt đơn tại quầy xôi tại Tây Ninh, bạn không chỉ chọn nguyên liệu, mà còn chọn cách hiểu biết khác nhau về một con cá. Người qua lại chọn "tổng hợp" là khách du lịch, người thường xuyên có sở thích riêng mới là khách quen.
+📝 Ghi chú nhà soạn trích: Văn hóa "ăn từng bộ phận" của cá chép, bản chất là logic ăn uống không lãng phí của công nhân. Khi bạn đặt hàng ở quán cháo Thái Bắc, bạn không chỉ chọn nguyên liệu, mà còn lựa chọn cách hiểu biết khác nhau về một con cá. Những người đặt "tổ hợp" là du khách, những người có sở thích riêng mới là khách hàng thường xuyên.
 
-## Bát xôi trắng lúc năm giờ sáng
+## Những bát cháo trắng vào lúc 5 giờ sáng
 
-Năm giờ sáng, quầy xôi phân tách các phần đã luộc sẵn, cho vào các đĩa nhỏ, đặt lên bàn để khách hàng tự do thêm vào xôi trắng.
+Vào lúc 5h30 sáng, các quán cháo sẽ nấu riêng từng bộ phận, phân phát vào các bát nhỏ, đưa ra bàn để khách tự cho vào cháo trắng.
 
-Hệ thống tự chọn này không phải là ý tưởng ẩm thực mới lạ, mà là tốc độ. Công nhân bến cảng ăn sáng không có thời gian chờ đợi đầu bếp quyết định thứ gì có trong ly của họ. Nguyên liệu có sẵn, khách hàng tự biết hôm nay cần bổ sung gì, tránh gì – tiêu thụ năng lượng lớn cần thêm ruột cá, đêm qua đã uống nhiều nên uống xôi trong suốt kèm súp da cá.
+Hệ thống tự chọn này không phải là sáng tạo ẩm thực, mà là hiệu quả. Công nhân bến cảng ăn sáng, họ không có thời gian chờ đợi đầu bếp quyết định bát của họ sẽ có gì. Nguyên liệu được đặt ở đó, bạn tự biết hôm nay cần bổ sung gì, tránh gì — nếu cơ thể tiêu hao nhiều thì thêm một chút ruột cá, nếu uống nhiều rượu tối hôm trước thì uống cháo trong với súp da cá.
 
-Logic nuôi trồng cá qua bốn thế kỷ vẫn còn sống động trong nhịp điệu bữa sáng ngày nay.
+Logic nuôi trồng cách đây 300 năm, vẫn còn sống trong nhịp sống của buổi sáng hôm nay.
 
-## Tên gọi vẫn là vấn đề chưa được giải đáp
+## Tên gọi vẫn là một bí ẩn
 
-"Cá basa" tên gọi thực sự xuất phát từ đâu, các nhà nghiên cứu cho đến nay chưa có lời giải thích chắc chắn.
+Tên "cá chép" thực sự xuất phát từ đâu, học giới vẫn chưa có kết luận chung.
 
-Có người cho rằng nguồn gốc từ âm âm Hà Lan hoặc Ma Quốc; có người phân tích cho rằng có thể xuất phát từ "hẹt mục" trong ngữ miên nam – liên quan đến đặc điểm mắt cá basa siêu nhỏ; hay có người cho rằng là các công nhân ở các khu vực nuôi trồng địa phương đặt tên riêng, cuối cùng bị tiếng miên nam cố định lại.
+Có người nói là từ tiếng Hà Lan hoặc tiếng Malay; có người nghiên cứu cho rằng có thể xuất phát từ từ "tiểu mục" trong tiếng Tâm Ngư (liên quan đến đặc điểm mắt nhỏ của con cá); cũng có người tin rằng là cách gọi của các công nhân ở các vùng nuôi trồng khác nhau, cuối cùng được cố định bởi tiếng Tâm Ngư.
 
-Câu chuyện Trương Thành Công hỏi "cá gì" vẫn là phiên bản lan truyền rộng rãi nhất. Đôi khi, câu chuyện hay nhất không nhất thiết là chính xác nhất – nhưng nó để lại một cái tên trong bữa sáng mỗi người trên bàn ăn của bốn thế kỷ nuôi trồng cá.
+Câu chuyện Thái Anh Văn hỏi "con cá gì", vẫn là phiên bản được lan truyền rộng rãi nhất. Đôi khi, câu chuyện dễ nhớ nhất không phải là câu chuyện chính xác nhất — nhưng nó đã để lại một cái tên cho ngành công nghiệp nuôi trồng cách đây 400 năm, trên mỗi bữa sáng của mỗi người.
 
 ---
 
-## Tham khảo
+## Tài liệu tham khảo
 
-- [Cá basa — Wikipedia](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
-- [Tên gọi "cá basa" và Trương Thành Công có liên quan gì? — Food Next tương lai báo cáo](https://www.foodnext.net/life/culture/paper/5098989327)
-- [《Hành trình Tây Ninh》: Cá basa nuôi trồng bền vững ao, đồng thời nuôi trồng bữa sáng và ngực ngọt của thủ đô – Báo Kinh tế](https://www.thenewslens.com/article/131368)
-- [Cá basa, cá chân lên, cá đuôi xanh: Các món ăn mang lại bữa ăn – Central News Agency](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [Từ cá basa nhìn về Đài Loan (phần trên) – Tạp chí Hội Viện Địa lý Hoa Kỳ](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
-- [Đi đến Qigu để trải nghiệm nuôi cá lúc 5 giờ sáng – Du lịch vui vẻ Đài Loan](https://smiletaiwan.cw.com.tw/article/5955)
-- [Cá basa, cá chân lên, cá đuôi xanh: Hãy cùng biết các loại hải sản nuôi trồng mang lại bữa ăn – PanSci Vô điều kiện](https://pansci.asia/archives/174611)
-- [Tổng quan ngành nghề Qigu – Sở Nông nghiệp Qigu, Tây Ninh](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
-- [Cá basa Đài Loan – Cổng thông tin hợp nhất giáo dục nông nghiệp và ẩm thực (Bộ Nông nghiệp Việt Nam)](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)
+- [Cá chép — Wikipedia](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
+- [Tên gọi "cá chép" có liên quan gì đến Thái Anh Văn? — Food Next Tương lai thực phẩm](https://www.foodnext.net/life/culture/paper/5098989327)
+- [《Đi bộ qua lịch sử Thái Bắc》： Cá chép làm dồi dào cánh đồng cá, cũng làm phong phú bữa sáng và dạ dày của người Thái Bắc — Trang bình luận trọng điểm](https://www.thenewslens.com/article/131368)
+- [Cháo cá và cá chép ở Thái Bắc, có thể xuất xứ từ hàng hóa nhập khẩu châu Âu thế kỷ 17 — Trung Hoa Dân Quốc Đài Loan](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [Nhìn từ cá chép đến Đài Loan (phần 1) — Tạp chí Địa lý Hoa Dân Quốc Đài Loan](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
+- [Trải nghiệm làm công nhân cá ở cánh đồng cá Thất Bảo, Thái Bắc — Cười với Đài Loan](https://smiletaiwan.cw.com.tw/article/5955)
+- [Cá chép, cá thuần, cá hồi, hãy đến với nhau để biết về sản phẩm nuôi trồng biểu tượng trên bàn ăn — PanSci Khoa học phổ thông](https://pansci.asia/archives/174611)
+- [Tổng quan ngành công nghiệp khu vực Thất Bảo — UBND khu vực Thất Bảo, Thái Bắc](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
+- [Cá chép Thái Bắc — Nền tảng thông tin giáo dục thực phẩm nông nghiệp (Bộ Nông nghiệp)](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)

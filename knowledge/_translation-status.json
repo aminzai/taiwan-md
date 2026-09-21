@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T05:45:38+08:00",
-    "zhCommitHead": "308312062",
+    "lastUpdated": "2026-09-22T05:53:55+08:00",
+    "zhCommitHead": "f4f033dc1",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1056,
-        "stale": 40,
+        "fresh": 1057,
+        "stale": 39,
         "metadata_stale": 6,
         "missing": 22,
         "orphan": 0
@@ -18046,8 +18046,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T19:48:51.623866+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f4f033dc",
+          "translationLastModified": "2026-09-22T05:45:39+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "bytes": 141681,
@@ -47136,8 +47136,8 @@
           "sourceContentHash": "sha256:f05a2e0d9322fb19",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T20:09:03.851256+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f4f033dc",
+          "translationLastModified": "2026-09-22T05:45:39+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 120100,
@@ -138180,19 +138180,17 @@
         "en": {
           "path": "en/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-22T04:48:26+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 16630,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 18913,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/night-market-culture.md",
