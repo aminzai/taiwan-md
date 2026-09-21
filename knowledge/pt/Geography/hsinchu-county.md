@@ -32,10 +32,10 @@ imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg'
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: 'fe48ea49d'
-sourceContentHash: 'sha256:eefcd1a536e4ddf5'
-sourceBodyHash: 'sha256:a716f79b2442afc5'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:bf74cbc86604e18b'
+sourceBodyHash: 'sha256:e2a36aeb8ae88cc6'
+translatedAt: '2026-09-21T09:36:49.177435+00:00'
 ---
 
 # Condado de Hsinchu: 235 anos de fé nos mártires leais e a maior renda per capita de Taiwan vivem no mesmo rio Touchien
@@ -90,20 +90,20 @@ A Mansão Chiang A-hsin costuma ser confundida com arquitetura do período japon
 
 > **✦** "**Enquanto eu estiver aqui, a música de oito sons não cessará.**" (revista VERSE citando o transmissor local Peng Chun-yang[^14])
 
-## O vento nove-desce: bolos de caqui, macarrão de arroz, chá Dongfang Meiren
+## Nove-Desce:柿餅、米粉、椪風茶
 
-O clima do condado de Hsinchu é ditado pela geomorfologia.
+O clima de Hsinchu é determinado pelo relevo.
 
-A vertente sudoeste da Cordilheira Xueshan, as Colinas de Xiangshan e o Planalto de Hukou formam uma planície aluvial em forma de trombeta; o monção nordeste entra e, constrangido pelo relevo, intensifica-se. A cada ano, a partir do final do nono mês lunar (meados de outubro no calendário gregoriano), sopra um vento seco e forte chamado "Vento Nove-Desce" (九降風), com velocidade até 20 m/s[^17]. O Vento Nove-Desce transforma três produtos em especialidades do condado: macarrão de arroz de Hsinchu (região de Zhubei, macarrão molhado pendurado em varais de bambu, o vento norte seca mais uniformemente que o sol), bolos de caqui de Xinpu (vila de Hangkeng, setembro a dezembro, pelo menos 170 anos de história, processo de 7-9 dias: tirar o cabinho, descascar, secar ao sol, secar ao vento, modelar), e erva-gelatina de Guanxi (colhida após secagem ao vento norte, para gelatina e chá de erva-gelatina; Guanxi responde por mais de 60% da produção nacional)[^18].
+A cordilheira de Xueshan, as colinas de Xiushan e a planície de Lake Hou formam uma planície aluvial em forma de corneta, e quando o vento do nordeste chega, é reforçado pelo relevo. A partir do final do nono mês lunar (cerca de meados de outubro no calendário gregoriano), sopra um vento seco e frio conhecido como "Nove-Desce", com velocidade podendo chegar a 20 metros por segundo[^17]. O Nove-Desce influencia três coisas que tornam os produtos típicos de Hsinchu: o macarrão de arroz de Hsinchu (em Zhubei, o macarrão é mergulhado em água e pendurado em estacas, e o vento seca de forma mais uniforme do que a secagem ao sol), os bolos de caqui de Xinpu (em Han'ge, secos ao sol de setembro a dezembro, com história de pelo menos 170 anos, processo de 7 a 9 dias: retirada do caule, descasque, secagem solar, secagem pelo vento, modelagem), e o chá xiancao (secado pelo vento e colhido, usado para fazer gelatina de chá e chá xiancao; a cidade de Guandu em Hsinchu representa mais de 60% da produção de xiancao em toda a ilha)[^18]。
 
-![Chá moído de Beipu, abril de 2023. O chá moído hakka é bebida tradicional feita moendo chá, gergelim, amendoim e mais de dez ingredientes em tigela de cerâmica; no processo de turistificação pós-guerra de Beipu tornou-se a experiência gastronômica hakka mais identificável do condado de Hsinchu.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_Chá moído de Beipu. Foto: Presidência. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+![Bolos de caqui de Xinpu, abril de 2023。](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
+_擂茶 de Beipu。Photo: Presidência da República da China (Taiwan)。[CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei%20cha%20at%20Beipu%2C%20Taiwan%202023-04-09.jpg)._
 
-Xinpu tem outra rua: a Rua das Tiras (板條街). Nas ruas Zhongzheng, Heping, Chenggong concentram-se mais de 200 lojas de tiras de arroz, com o dito "**Norte Xinpu, Sul Meinong**"[^19]. As tiras hakka (板條) são ícone da culinária hakka, mesma coisa que os "ban tiao" (粄條) dos hoklo, só grafia diferente.
+Xinpu também tem uma rua de macarrão. Ao longo da Rua Zhongzheng, Rua Heping e Rua Chenggong, há mais de 200 lojas de macarrão, conhecidas como "**Beixinpu, Nanmei Nong**"[^19]。O macarrão hakka é um ícone da culinária hakka, e é o mesmo que os habitantes hokkien chamam de "fideos".
 
-O chá é outra linha econômica das colinas do condado. Beipu chama "Chá Pengfeng" (膨風茶), Emei chama "Chá Dongfang Meiren" (東方美人茶), na verdade o mesmo chá com nomes locais diferentes. Segredo da fabricação: as folhas devem primeiro ser sugadas pela cigarrinha verde (小綠葉蟬), formando folhas "chou" (著蝝), só assim geram aroma especial de mel e fruta madura; por isso não se pode pulverizar agrotóxico (pulverizou, o inseto foge)[^20]. Grau de fermentação padrão da Estação de Melhoramento de Chá de Taiwan: 60%; versão real dos agricultores de Hsinchu-Miaoli chega a 75-85%. A origem do nome "Pengfeng" (客語 "gabarse") diz-se que agricultores levavam à cidade, comerciantes compravam tudo, vizinhos achavam que o agricultor estava "gabando-se"; depois espalhou-se a história de que "comerciantes britânicos ofereceram o chá Pengfeng da fábrica Ruichang de Beipu à Rainha Vitória", mas a fonte primária de Vitória provando o chá é incerta[^21], pode ser citada como narrativa cultural, não como fato histórico.
+A indústria do chá é outra linha econômica nas colinas de Hsinchu. A cidade de Beipu chama "chá Pfengfeng" e a cidade de Emei chama "chá Dongfang Meiren", na verdade são o mesmo tipo de chá com nomes diferentes em locais diferentes. A chave para fazer chá: primeiro deixa os besouros verdes (Euthrips eulaliensis) comerem as folhas formando "manchas de besouro", e então as folhas produzem aroma doce e aroma de fruta madura; porque precisa esperar os besouros verdes, não pode usar pesticidas (se usar, os besouros fogem)[^20]。A taxa de fermentação de 60% é o padrão do Instituto de Pesquisa e Melhoria do Chá de Taiwan, e os agricultores de Hsinchu e Miaoli na prática atingem 75-85%。A lenda do nome do chá diz que os agricultores levavam o chá para vender na cidade, e os comerciantes estrangeiros compravam tudo; os moradores achavam que os agricultores estavam "exagerando" (em hokkien, "chá Pfengfeng" significa "exagerar"), mas a história de que "o comerciante britânico presenteou a rainha Vitória com o chá Pfengfeng produzido pela fábrica de chá Rui Chang em Beipu" é muito conhecida, embora a fonte original da rainha Vitória provando chá seja incerta[^21]；pode ser mencionada como narrativa cultural, mas não pode ser escrita como fato histórico.
 
-O Vento Nove-Desce e as aldeias hakka correspondem no ritmo de vida: após final de setembro, bolos de caqui secando, erva-gelatina colhida, macarrão pendurado, chá sendo moído. O outono inteiro da aldeia hakka é um mapa de alimentos secos ao vento.
+O Nove-Desce e as vilas hakka estão sincronizados no ritmo da vida: no final de setembro, os bolos de caqui estão secando, o xiancao está sendo colhido, o macarrão está pendurado, e as folhas de chá estão sendo misturadas. Todo o outono, as vilas hakka formam um mapa de alimentos secos pelo vento.
 
 ## Smangus: o conselho tribal diz que a terra é compartilhada
 

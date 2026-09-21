@@ -1,6 +1,6 @@
 ---
-title: 'Condado de Miaoli: o condado hakka teimoso que em oito anos elegeu um prefeito que triplicou a dívida pública'
-description: 'Na era japonesa, Miaoli produzia 95% do cânfora de Taiwan; Sanyi aproveitou os tocos de cânfora para iniciar a escultura em madeira. Em 2002, a vila de Beihe em Gongguan realizou o primeiro Festival das Flores de Tung. Em 2008, Liu Cheng-hung assumiu um condado com 20,2 bilhões de dívida; ao sair em 2014, a dívida contábil chegava a 67,6 bilhões. Pelo meio, Chu Feng-min, aos 73 anos, bebeu agrotóxico; a farmácia Chang foi demolida à força; o Edifício Redondo Hakka custou 1,2 bilhão e virou "prédio dos mosquitos". Hoje, 530 mil pessoas vivem neste condado onde 62,5% são hakka — a segunda maior proporção de Taiwan.'
+title: 'Miaoli: O condado de pescoço forte Hakka, que elegeu um prefeito em oito anos para dobrar a dívida do tesouro'
+description: 'O cedro de Miaoli durante o domínio japonês representava 95% de Taiwan. Sanmi começou com a escultura em madeira usando os tocos das árvores de cedro. O primeiro Festival da Flor de Tung (Tung Hua) foi realizado na vila de Beihe, Gongguan, em 2002. Em 2008, Liu Chenghong assumiu o condado com uma dívida de 22 bilhões de NTD, e quando deixou o cargo em 2014, a conta estava em 67.6 bilhões. Houve incidentes como Chu Fengmin bebendo pesticida, Zhang Yaofang demolindo à força e o Castelo Hakka construído por 120 milhões para ser um museu de mosquitos. Hoje, 530 mil pessoas moram neste condado com 62,5% da população Hakka, o segundo maior em Taiwan.'
 date: 2026-05-18
 category: 'Geography'
 tags:
@@ -9,13 +9,13 @@ tags:
     'Condado de Miaoli',
     'Hakka',
     'Cultura Hakka',
-    'Incidente de Dapu',
-    'Escultura em Madeira de Sanyi',
+    'Incidente de Dapou',
+    'Escultura de madeira de Sanmi',
     'Flor de Tung',
-    'Saisiyat',
-    'Festival dos Espíritos Anões',
-    'Liu Cheng-hung',
-    'Série 22 Condados e Cidades',
+    'Sase Tak',
+    'Festival Ai Ling',
+    'Liu Chenghong',
+    'Série dos 22 municípios',
   ]
 subcategory: '縣市'
 author: 'Taiwan.md Contributors'
@@ -25,12 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: 'O Festival da Flor de Tung Hakka em Miaoli, realizado em 2023, ao lado do centenário Stone Bo Gong'
+imageCredit: '中華民國客家委員會'
+imageLicense: 'OGDL-Taiwan-1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T02:50:16.721788+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-21T09:12:40.964534+00:00'
 ---
 
 # Condado de Miaoli: o condado hakka teimoso que em oito anos elegeu um prefeito que triplicou a dívida pública
@@ -212,19 +216,19 @@ Teimoso é assim: você não sai da terra. Mesmo que a terra tenha vivido coisas
 - [Divisão administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1889 criação do Condado de Miaoli, 1950 reorganização pós-guerra, 2015 elevação de Toufen
 - [Desenvolvimento urbano e disparidade urbano-rural em Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Em escala maior, a posição de Miaoli como "condado hakka interior com êxodo populacional" na estrutura urbano-rural de Taiwan
 
-## Fontes das imagens
+## Fontes das Imagens
 
-Este artigo usa 6 imagens do Wikimedia Commons com licença CC, hot-link direto do servidor de upload do Wikimedia:
+Este artigo utiliza 7 imagens do Wikimedia Commons (a _hero_ possui licença de dados abertos governamentais, e foi incorporada ao banco de imagens deste site; as outras 6 possuem licença CC):
 
-- **Hero**: [Festival das Flores de Tung 2023](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Foto: Conselho Hakka da República da China, 2023-04-14, CC BY 4.0. Imagem oficial do Festival das Flores de Tung Hakka.
-- **Cena §1903 inauguração**: [Estação Shengxing 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Foto: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Estação Shengxing, ponto mais alto da Linha Principal.
-- **Cena §Escultura de Sanyi**: [Museu de Escultura em Madeira de Sanyi 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Foto: SSR2000, 2010-05-01, CC BY-SA 3.0. Museu de Escultura em Madeira de Sanyi.
-- **Cena §Morango de Dahu**: [Pomar de morango, township de Dahu 2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Foto: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Pomar de morango de Dahu.
-- **Cena §Festival dos Anões**: [Saisiyat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Foto: CenkX, 2006, CC BY-SA 3.0. Festival Pas-ta'ai dos Saisiyat de Nanzhuang.
-- **Cena §Incidente de Dapu**: [2013-08-18 Demolam o Governo](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Foto: Zhongcen Fanjiang, 2013-08-18, CC BY-SA 2.0. Cena do movimento "Demolam o Governo".
-- **Cena §530 mil**: [Pomar de Morango de Dahu Miaoli 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Foto: Rick888chen, 2021-01-28, CC BY-SA 4.0. Pomar turístico de morango de Dahu.
+- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Foto: Comissão Hakka da República da China, 14 de abril de 2023, [OGDL-Taiwan-1.0](https://data.gov.tw/license) (Licença de dados abertos governamentais, compatível com CC BY 4.0). Esta foto oficial registra a bênção e o anúncio do início do Festival das Flores de Tung Hakka ao lado da Pedra Ancestral de San Yi, e foi incorporada ao banco de imagens deste site.
+- **Cena §1903 Estação**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Foto: Cheng-en Cheng, 02 de junho de 2010, CC BY-SA 2.0. Estação Shengxing, o ponto mais alto da linha ferroviária.
+- **Cena §Escultura em Madeira de San Yi**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Foto: SSR2000, 01 de maio de 2010, CC BY-SA 3.0. Museu da Escultura em Madeira de San Yi.
+- **Cena §Morango de Dahu**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Foto: Taiwankengo, 24 de março de 2017, CC BY-SA 4.0. Pomar de Morango de Dahu.
+- **Cena §Festival Saisiyat**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Foto: CenkX, 2006, CC BY-SA 3.0. Festival paSta'ay dos Saisiyat de Nanzhuang.
+- **Cena §Incidente de Dapu**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Foto: 中岑 范姜, 18 de agosto de 2013, CC BY-SA 2.0. Local do movimento de desmantelamento do governo.
+- **Cena §53 Mil Pessoas**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Foto: Rick888chen, 28 de janeiro de 2021, CC BY-SA 4.0. Pomar de Morango de Dahu em Miaoli.
 
-Termos de licença: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Termos de Licença: [OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referências
 
