@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T06:05:54+08:00",
-    "zhCommitHead": "771032971",
+    "lastUpdated": "2026-09-22T06:21:46+08:00",
+    "zhCommitHead": "3fe4cc8d0",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1044,
+        "fresh": 1045,
         "stale": 51,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 19,
         "orphan": 0
       },
@@ -5208,19 +5208,17 @@
         "fr": {
           "path": "fr/Music/sunset-rollercoaster.md",
           "translatedFrom": "Music/落日飛車.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
-          "sourceBodyHash": "sha256:2680b892b33ad9fa",
-          "translatedAt": "2026-05-28T05:08:35+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4ae0b9c19401a360",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T21:54:26.254195+00:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 48936,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 48965,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Music/sunset-rollercoaster.md",
