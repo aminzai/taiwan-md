@@ -2,9 +2,7 @@
 title: '예팅하오: 기술의 “부정확한” 사용으로 예기치 못한 음상 예술을 끌어낸 예술가, 43세에 하나의 생태계를 남기다'
 description: '1981년 타오위안에서 태어나 푸런대학교 응용미술학과에서 컴퓨터 애니메이션을 전공하고, 타이베이예술대학교 과학기술예술연구소를 졸업했다. 친구들은 모두 그를 PUTA라고 불렀다. 2007년 실성제 창립 참여, 2013년 야오중한과 음상 듀오 HH 결성, 2017년 TouchDesignerTW 공동 운영, 2018년 노이즈 플루이드 인수에 이르기까지 그는 줄곧 한 가지 일을 해왔다. 도구를 해체해 더 많은 사람이 쓰게 하는 일이다. 2024년 11월 12일, 43세의 나이로 일찍 세상을 떠난 그가 남긴 것은 개인 작품 목록이 아니라 대만 음상 예술의 하나의 생태계였다.'
 date: 2026-05-22
-author: 'Taiwan.md Contributors'
 category: 'Art'
-subcategory: '聲音與新媒體藝術'
 tags:
   [
     '사운드 아트',
@@ -23,19 +21,22 @@ tags:
     '기술예술',
     '오디오비주얼',
   ]
-readingTime: 22
+subcategory: '聲音與新媒體藝術'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-22
 lastHumanReview: false
-featured: false
-translatedFrom: 'Art/葉廷皓.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:63b47718f8145b2c'
-sourceBodyHash: 'sha256:04f5859af8f97035'
-translatedAt: '2026-06-16T16:55:29Z'
+researchReport: 'reports/research/2026-05/yeh-ting-hao.md'
+readingTime: 22
 image: '/article-images/art/yeh-ting-hao-reverberation-hero-2024.webp'
 imageCredit: '臺中國家歌劇院 NTT'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=_-L_wAYDmBs'
+translatedFrom: 'Art/葉廷皓.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:a5453a6f1dbec222'
+sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
+translatedAt: '2026-09-21T13:42:49.463174+00:00'
 ---
 
 ## 예팅하오: 기술의 “부정확한” 사용으로 예기치 못한 음상 예술을 끌어낸 예술가, 43세에 하나의 생태계를 남기다
@@ -230,20 +231,20 @@ PUTA는 떠났다. 그러나 그가 심어둔 생태계는 여전히 작동하�
 
 ## 이미지 출처
 
-이 글은 타이중국가가극원 NTT 공식 《환상의 잔향》 다큐멘터리 스틸 3장을 사용하며, **fair use editorial commentary** 용법을 따른다(per [Pipeline §1.9.2 제8항](../docs/pipelines/REWRITE-PIPELINE.md)). 모든 이미지는 원본 서버 핫링크를 피하기 위해 `public/article-images/art/`에 캐시했다.
+본문은 타이중국가가극원(NTT) 공식 《환상의 잔향》 기록 영상의 스틸 컷 3장을 **공정 이용 편집 논평** 방식으로 사용하였다. 모든 이미지는 열 연결 소스 서버를 피하기 위해 `public/article-images/art/`에 캐시되었다:
 
-- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 1280×720 hero, 다큐멘터리 첫 프레임 스틸. Photo: 타이중국가가극원 NTT 공식 채널, Fair use editorial commentary on Yeh Ting-Hao's NTT residency work.
-- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, 예팅하오가 현장에서 조정하는 장면. Photo: 위와 같음.
-- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, 몰입형 프로젝션 공연 장면. Photo: 위와 같음.
+- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 1280×720 히어로 이미지로, 기록 영상의 첫 프레임 스틸 컷. 사진: 타이중국가가극원 NTT 공식 채널, Yeh Ting-Hao의 NTT 레지던시 작업에 대한 공정 이용 편집 논평.
+- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 장면 중간 샷으로, 예팅하오 현장 테스트 화면. 사진: 상동.
+- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 장면 중간 샷으로, 몰입형 프로젝션 공연 클립. 사진: 상동.
 
-### 이미지 경계 기록
+### 이미지 출처 기록
 
-예팅하오는 동시대 음상 예술가로서 개인 초상, 초기 공연 기록, 기타 작품(예: 《하의식 기계》, 《광류》, 《O.S.C.》)의 영상 기록 대부분이 개인 웹사이트, Instagram, Facebook, 각 기관의 전시·공연 페이지에 있다. 이들은 모두 저작권으로 보호되는 원저작자 자료다. Wikimedia Commons API 검색(“葉廷皓”, “Yeh Ting-Hao”, “Lacking Sound Festival”, “Taiwanese sound artists”)은 모두 0 hits를 반환했으며, 사용할 수 있는 PD/CC 이미지는 없다. 위의 NTT 다큐멘터리 fair use 스틸 3장을 제외하고, 이 글에는 다른 영상 소재를 수록하지 않는다. 독자는 아래 링크를 통해 예팅하오의 영상 기록을 찾아볼 수 있다.
+예팅하오는 현대 음향 예술가로서 개인 초상, 초기 공연 기록, 기타 작품(예: 《하의식 기계》, 《광류》, 《O.S.C.》)의 시각적 기록은 대부분 개인 웹사이트, 인스타그램, 페이스북, 각 기관 전시 페이지 등 저작권이 보호되는 원본 자료에 존재한다. Wikimedia Commons API 검색("葉廷皓", "Yeh Ting-Hao", "Lacking Sound Festival", "Taiwanese sound artists") 결과 0건으로, PD/CC 이미지는 사용할 수 없었다. 상기 NTT 기록 영상의 공정 이용 스틸 컷 외에는 본문에 다른 시각 자료를 포함하지 않았다. 독자는 다음 링크를 통해 예팅하오의 이미지 기록을 찾아볼 수 있다:
 
-- 《환상의 잔향》 전체 다큐멘터리: [YouTube — 2023-2024 가극원 레지던시 아티스트 예팅하오 《환상의 잔향》 다큐멘터리](https://www.youtube.com/watch?v=_-L_wAYDmBs) (타이중국가가극원 NTT 공식 채널)
-- HH 《remotion》 앨범: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) ／ [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
-- 노이즈 플루이드(Fluid Noise) 작품 기록: [DAC.Taipei 예팅하오 Puta 항목](https://dac.taipei/project/fluidnoise-puta)
-- 타이베이예대 뉴미디어예술학과 추모 특집: [예팅하오 PUTA: 빛과 소리의 언어로 디지털 우주 속 호흡을 이어가다](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
+- 《환상의 잔향》 전체 기록 영상: [YouTube — 2023-2024 가극원 레지던시 아티스트 예팅하오《환상의 잔향》기록 영상](https://www.youtube.com/watch?v=_-L_wAYDmBs) (타이중국가가극원 NTT 공식 채널)
+- HH 《remotion》 앨범: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) / [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
+- 노이즈 플로우(Fluid Noise) 작품 기록: [DAC.Taipei 예팅하오 Puta 항목](https://dac.taipei/project/fluidnoise-puta)
+- 북예대 신미계 추모 특집: [예팅하오 PUTA: 빛과 소리의 언어로 디지털 우주 속 호흡을 잇다](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
 
 ## 참고자료
 
