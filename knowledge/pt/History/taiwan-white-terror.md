@@ -2,7 +2,7 @@
 title: 'Terror Branco em Taiwan'
 description: 'Os 38 anos de lei marcial não foram sustentados por alguns milhares de agentes secretos, mas por um sistema de “garantia por responsabilidade solidária”, no qual dois milhões de famílias em Taiwan precisavam garantir umas às outras para poder trabalhar, estudar e se casar. Chen Chih-hsiung, Shih Shui-huan, Uyongu Yatauyungana e Bo Yang — quatro nomes, quatro motivos para serem presos, uma mesma máquina.'
 date: 2026-04-05
-category: 'pt'
+category: 'History'
 tags:
   [
     'História',
@@ -18,12 +18,12 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-readingTime: '11'
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-21T20:08:34.509062+00:00'
 ---
 
 # Terror Branco em Taiwan
@@ -155,29 +155,30 @@ No Dia Mundial dos Direitos Humanos de 2013, seu filho, Kao Ying-chieh, doou as 
 
 ---
 
-## Por que essa história ainda não terminou
+## Por Que Esta História Ainda Não Acabou
 
-É fácil dizer que “o Terror Branco ficou no passado”. A lei marcial terminou em 1987; o Estatuto para a Punição da Rebelião foi revogado em 1991; uma fundação de indenização foi criada em 1995; e a Comissão de Justiça de Transição começou a funcionar em 2018. Há 38 anos, a máquina estatal deixou de matar.
+É fácil dizer que o "Terror Branco" acabou. Trinta e oito anos se passaram desde que a máquina estatal parou de matar, após a desmobilização em 1987, a revogação do Estatuto de Repressão à Rebelião em 1991, a criação da Fundação de Compensação em 1995 e o início da transição em 2018.
 
-Mas abra a história familiar de qualquer taiwanês nascido entre as décadas de 1950 e 1980 e, ao chegar às páginas sobre seus pais, as palavras “servir como fiador” aparecerão com frequência, seguidas de uma pausa. O tio se recusou a servir de fiador; o vizinho serviu; o avô quase perdeu o emprego porque não tinha quem o garantisse. É nessa pausa que o Terror Branco ainda não terminou.
+Mas se você abrir a história familiar de qualquer taiwanês nascido entre as décadas de 1950 e 1980, e folhear as páginas dos pais, a palavra "garantidor" (作保) frequentemente aparece, seguida por uma pausa. O tio recusou-se a ser garantidor; o vizinho já havia sido um garantidor; o avô quase perdeu o emprego por não ter um garantidor. Essa pausa é onde o Terror Branco ainda não acabou.
 
-Chen Chih-hsiung foi executado por fuzilamento em Machangding, em 1963. Uyongu Yatauyungana foi executado em Taipé, em 1954. Shih Shui-huan foi executada em Taipé, em 1956. Suas famílias levaram meio século para ousar pronunciar publicamente esses nomes. A justiça de transição de Taiwan anulou 5.983 condenações, [^3] criou parques memoriais e ergueu monumentos.
+Chen Chih-hsiung foi baleado e morto em Ma-chang em 1963. Kao Yi-sheng foi baleado e morto em Taipé em 1954. Shih Shui-huan foi baleada e morta em Taipé em 1956. Suas famílias demoraram meio século para se atrever a dizer esses nomes publicamente. A justiça de transição de Taiwan anulou 5.983 condenações criminais, [^3] estabeleceu parques comemorativos e construiu monumentos.
 
-Os descendentes daqueles 5 mil informantes dos campi universitários, porém, continuam vivendo, trabalhando e votando em Taiwan. Nenhuma lei de depuração os obriga a esclarecer o que seus pais ou avós fizeram. [^6] O chamado “passado” nunca foi submetido a uma prestação pública de contas.
+Mas os descendentes desses cerca de 5.000 cidadãos universitários ainda vivem, trabalham e votam em Taiwan. O que seus pais ou avós fizeram não é algo que o Código de Desinfecção (除垢法) exija que eles esclareçam. [^6] O suposto "passado" nunca foi contabilizado publicamente.
 
-Isto não é ódio: é um livro-caixa. O Terror Branco não terá terminado no dia do fim da lei marcial, nem no dia da dissolução da Comissão de Justiça de Transição. Terminará quando a sociedade taiwanesa estiver disposta a reconhecer que o sistema que transformou dois milhões de famílias em uma rede de vigilância mútua ainda deixou suas marcas na desconfiança que sentimos diante dos vizinhos, dos desconhecidos e das palavras “servir como fiador”.
+Isto não é ódio; é um livro-razão. O dia em que o Terror Branco terminou não será o dia da desmobilização, nem o dia do fim da transição. Será quando a sociedade de Taiwan estiver disposta a reconhecer: que as marcas desse sistema — aquele que transformou dois milhões de famílias em uma rede de vigilância mútua — ainda estão gravadas na nossa apreensão com vizinhos, estranhos e a palavra "garantidor".
 
-**Leituras adicionais**:
+**Leitura Complementar**:
 
-- [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — o panorama completo de quatro décadas de transição, da lei marcial a um dos sistemas democráticos mais livres da Ásia
-- [Período da lei marcial](/pt/history/martial-law-era) — a estrutura jurídica de 38 anos e 56 dias e o processo que levou ao fim da lei marcial
-- [Justiça de transição em Taiwan](/history/台灣轉型正義) — a tarefa inconclusa de investigar a verdade e responsabilizar os perpetradores após o fim da lei marcial
-- [Museu Nacional de Direitos Humanos](/history/國家人權博物館) — a instituição responsável pelos parques memoriais do Terror Branco em Jingmei e na Ilha Verde, desde seis anos de preparação até o congelamento orçamentário de 2025
-- [Incidente de 28 de Fevereiro](/history/二二八事件) — o prelúdio do Terror Branco: como a repressão de 1947 anunciou o regime de lei marcial
-- [Incidente de Kaohsiung](/pt/history/kaohsiung-incident-formosa-incident) — uma importante virada no período final do Terror Branco, em 1979
-- [Alishan: a floresta do império e a montanha de Uyongu Yatauyungana](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — a montanha de Uyongu Yatauyungana e a história do silenciamento de seu povo
-- [Nota fiscal: o papel de 1951 que transformou toda a população em fiscal tributário](/pt/economy/taiwan-uniform-invoice) — Jen Hsien-chun, idealizador do sistema de notas fiscais, também viveu na mesma época; em 1955, foi preso por “saber da existência de comunistas e não denunciá-los”: bastava um rótulo para destruir uma vida
-- [Yin Hai-kuang](/pt/people/yin-haiguang-liberalism-philosopher) — professor de filosofia da Universidade Nacional de Taiwan e pioneiro do liberalismo taiwanês, mantido em prisão domiciliar na viela 18 da rua Wenzhou após o Caso Lei Chen, em 1960
+- [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — A visão geral da transformação de quarenta anos, do estado de sítio ao sistema mais livre e democrático da Ásia
+- [Período de Estado de Sítio](/pt/history/martial-law-era) — O recipiente legal de 38 anos e o processo de desmobilização
+- [Justiça de Transição em Taiwan](/pt/history/taiwan-transitional-justice) — A tarefa inacabada da investigação da verdade e da responsabilização dos agressores após a desmobilização
+- [Museu Nacional dos Direitos Humanos](/pt/history/national-human-rights-museum) — Instituição dos parques comemorativos do Terror Branco em Jingmei e Green Island, desde o planejamento de seis anos até o congelamento orçamentário em 2025
+- [Incidente de 228](/pt/history/228-incident) — O prelúdio do Terror Branco; como a repressão de 1947 anunciou o sistema de estado de sítio
+- [Incidente de Kaohsiung](/pt/history/kaohsiung-incident-formosa-incident) — Um ponto de virada importante no final do Terror Branco em 1979
+- [Academia Sinica](/society/中央研究院) — A instituição que publicou as entrevistas orais "Memória Branca" pelo Instituto de História de Taiwan, e o momento em que ela voltou seu foco para esta ilha
+- [Alishan: O Plantio Imperial e a Montanha de Kao Yi-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — A montanha de Kao Yi-sheng e a história dos povos silenciados
+- [Recibo: O papel de 1951 que transformou todos em fiscais tributários](/pt/economy/taiwan-uniform-invoice) — O próprio projetista do sistema de recibos, Ren Hsien-ch'un, viveu na mesma época e foi preso em 1955 por "não denunciar o inimigo", um chapéu suficiente para ser fatal
+- [Yin Hai-guang](/pt/people/yin-haiguang-liberalism-philosopher) — O professor do Departamento de Filosofia da Universidade Nacional de Taiwan, que foi mantido sob prisão domiciliar na Rua 18 de Wenzhou após o Caso Lei Zhen em 1960, um dos fundadores do liberalismo taiwanês
 
 ## Referências
 
