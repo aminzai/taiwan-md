@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T04:22:04+08:00",
-    "zhCommitHead": "8f95b2f45",
+    "lastUpdated": "2026-09-22T04:56:23+08:00",
+    "zhCommitHead": "43ef73968",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 41,
+        "fresh": 1055,
+        "stale": 40,
         "metadata_stale": 7,
         "missing": 22,
         "orphan": 0
@@ -36,42 +36,42 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 47,
+        "fresh": 1053,
+        "stale": 46,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 66,
+        "fresh": 1035,
+        "stale": 65,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1043,
-        "stale": 52,
+        "fresh": 1044,
+        "stale": 51,
         "metadata_stale": 10,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1021,
+        "fresh": 1023,
         "stale": 44,
-        "metadata_stale": 42,
+        "metadata_stale": 40,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 958,
+        "fresh": 959,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 99,
+        "missing": 98,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 962,
+        "fresh": 963,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 838,
-        "stale": 11,
+        "fresh": 841,
+        "stale": 10,
         "metadata_stale": 5,
-        "missing": 270,
+        "missing": 268,
         "orphan": 0
       }
     },
@@ -1899,17 +1899,17 @@
         "es": {
           "path": "es/Music/taiwan-folk-music-and-songs.md",
           "translatedFrom": "Music/台灣民謠與歌謠.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:b219ae0c22f1ce55",
           "sourceBodyHash": "sha256:943159c3ad5fba6c",
-          "translatedAt": "2026-05-02T02:09:57+08:00",
+          "translatedAt": "2026-09-22T02:06:14+08:00",
           "translationLastCommit": "269b9371",
           "translationLastModified": "2026-09-10T02:19:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 2242,
-          "status": "stale",
-          "reason": "truncated (ratio 0.22)"
+          "bytes": 14189,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/taiwan-folk-music-and-songs.md",
@@ -47132,7 +47132,19 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-bus-system.md",
+          "translatedFrom": "Lifestyle/台灣的公車系統.md",
+          "sourceCommitSha": "036f4f3f2",
+          "sourceContentHash": "sha256:f05a2e0d9322fb19",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T20:09:03.851256+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "bytes": 120100,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -59847,7 +59859,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taipei-rat-problem.md",
+          "translatedFrom": "Society/台北鼠患.md",
+          "sourceCommitSha": "44b9afeef",
+          "sourceContentHash": "sha256:7bfcc784f6998122",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T20:10:32.201734+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 28593,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -73535,19 +73559,17 @@
         "de": {
           "path": "de/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0c4a6676abd7e73d",
-          "sourceBodyHash": "sha256:fe639063298f999a",
-          "translatedAt": "2026-09-17T06:43:49+08:00",
+          "sourceCommitSha": "c24076169",
+          "sourceContentHash": "sha256:f5c7b68537fffdbb",
+          "sourceBodyHash": "sha256:8a34ab63ff63d541",
+          "translatedAt": "2026-09-22T02:06:17+08:00",
           "translationLastCommit": "bc7b525a",
           "translationLastModified": "2026-09-17T09:35:59+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 14362,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+22 -26"
+          "footnoteDefs": 7,
+          "bytes": 16143,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -126145,8 +126167,8 @@
           "sourceContentHash": "sha256:7bf4114050e0bd18",
           "sourceBodyHash": "sha256:56cd3707ce723649",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "a6b4758f",
-          "translationLastModified": "2026-07-26T18:00:18+08:00",
+          "translationLastCommit": "43ef7396",
+          "translationLastModified": "2026-09-22T04:22:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 13393,
@@ -133687,19 +133709,17 @@
         "vi": {
           "path": "vi/People/he-feipeng.md",
           "translatedFrom": "People/何飛鵬.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c6c5b08befa8584a",
           "sourceBodyHash": "sha256:65be42b8cac6c9ca",
-          "translatedAt": "2026-07-24T23:02:11+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 7100,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 7699,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/he-feipeng.md",
@@ -137301,8 +137321,8 @@
           "sourceContentHash": "sha256:8741429d614846be",
           "sourceBodyHash": "sha256:3713eaac6b565ca6",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "43ef7396",
+          "translationLastModified": "2026-09-22T04:22:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 13469,
@@ -137664,19 +137684,17 @@
         "fr": {
           "path": "fr/Food/beef-noodle-soup.md",
           "translatedFrom": "Food/牛肉麵.md",
-          "sourceCommitSha": "30569f742",
-          "sourceContentHash": "sha256:2d9ee979d4f7479e",
-          "sourceBodyHash": "sha256:fcb7ba6bb70c92d6",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "271c50fbe",
+          "sourceContentHash": "sha256:0f8567c72fce22ef",
+          "sourceBodyHash": "sha256:31e72a4ea39ea451",
+          "translatedAt": "2026-09-22T02:06:14+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 4,
-          "bytes": 22883,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "bytes": 21081,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/beef-noodle-soup.md",
@@ -141591,19 +141609,17 @@
         "vi": {
           "path": "vi/Food/milkfish-congee.md",
           "translatedFrom": "Food/虱目魚粥.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:162956900cab6d34",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:7cca8a0f488ac56f",
           "sourceBodyHash": "sha256:a40f868b6fc53c66",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 9358,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 9740,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Food/milkfish-congee.md",
@@ -141965,8 +141981,8 @@
           "sourceContentHash": "sha256:81213e22c8b81c39",
           "sourceBodyHash": "sha256:7eb60f7eb1751d17",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "43ef7396",
+          "translationLastModified": "2026-09-22T04:22:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 9922,
@@ -144927,8 +144943,8 @@
           "sourceContentHash": "sha256:1bed2e499f02597c",
           "sourceBodyHash": "sha256:2b57fc3112c5bc59",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "43ef7396",
+          "translationLastModified": "2026-09-22T04:22:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 10674,
@@ -151698,19 +151714,17 @@
         "en": {
           "path": "en/Culture/golden-age-echoes-taiwan-tea-culture.md",
           "translatedFrom": "Food/茶文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:86475082b87388fc",
-          "sourceBodyHash": "sha256:a9375147f15627a6",
-          "translatedAt": "2026-05-01T17:09:56+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86fb5241b5393f5b",
+          "sourceBodyHash": "sha256:add135df68f1784c",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12554,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -4"
+          "bytes": 11362,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/golden-age-echoes-taiwan-tea-culture.md",
@@ -163168,7 +163182,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kaohsiung-incident-formosa-incident.md",
+          "translatedFrom": "History/美麗島事件.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b6388def07095d7a",
+          "sourceBodyHash": "sha256:023966d5fd73721a",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 22580,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/kaohsiung-incident-formosa-incident.md",
@@ -166988,19 +167014,17 @@
         "ko": {
           "path": "ko/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "710263a86",
-          "sourceContentHash": "sha256:bc916494357a8d5d",
-          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
-          "translatedAt": "2026-07-27T23:51:16.384090+00:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:1c4df7a1034d9237",
+          "sourceBodyHash": "sha256:decacb8f3924c150",
+          "translatedAt": "2026-09-22T02:06:13+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 26881,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 26391,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-white-terror.md",
@@ -171717,7 +171741,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taiwan-urban-development-and-rural-urban-divide.md",
+          "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
+          "sourceCommitSha": "f45a19331",
+          "sourceContentHash": "sha256:bfa78a33fd163a9a",
+          "sourceBodyHash": "sha256:aa0440f383f174b1",
+          "translatedAt": "2026-09-22T02:06:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 22785,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
