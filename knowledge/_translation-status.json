@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T20:46:37+08:00",
-    "zhCommitHead": "6c83e8ebe",
+    "lastUpdated": "2026-09-21T21:30:11+08:00",
+    "zhCommitHead": "e5133c125",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 58,
+        "fresh": 1035,
+        "stale": 57,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
@@ -36,32 +36,32 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1038,
-        "stale": 59,
+        "fresh": 1039,
+        "stale": 58,
         "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1022,
+        "fresh": 1023,
         "stale": 75,
-        "metadata_stale": 7,
+        "metadata_stale": 6,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1028,
-        "stale": 66,
+        "fresh": 1029,
+        "stale": 65,
         "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1001,
-        "stale": 57,
+        "fresh": 1002,
+        "stale": 56,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 977,
-        "stale": 66,
+        "fresh": 978,
+        "stale": 65,
         "metadata_stale": 15,
         "missing": 66,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 19,
         "metadata_stale": 6,
-        "missing": 273,
+        "missing": 272,
         "orphan": 0
       }
     },
@@ -9141,16 +9141,16 @@
         "ar": {
           "path": "ar/Economy/taiwan-agricultural-modernization.md",
           "translatedFrom": "Economy/台灣農業現代化發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:6abff98edbff2fbe",
-          "sourceBodyHash": "sha256:5dcfc71454466970",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "sourceCommitSha": "05aa5b7b0",
+          "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
+          "sourceBodyHash": "sha256:c2c5a393d951d7c5",
+          "translatedAt": "2026-09-21T00:58:35+08:00",
           "translationLastCommit": "2a6e2d13",
           "translationLastModified": "2026-07-27T00:47:17+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-agricultural-modernization.md",
@@ -51131,18 +51131,16 @@
         "es": {
           "path": "es/Society/taiwan-design-research-institute.md",
           "translatedFrom": "Society/台灣設計研究院.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:dc9a16af37eefe47",
-          "sourceBodyHash": "sha256:f7df18837078b48f",
-          "translatedAt": "2026-06-16T17:04:27Z",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:31f2d67654f5ca72",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T13:00:41.333607+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-design-research-institute.md",
@@ -59648,7 +59646,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132420,7 +132429,7 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-19T19:08:15.584315+00:00",
+          "translatedAt": "2026-09-21T12:15:16.011649+00:00",
           "translationLastCommit": "de17e461",
           "translationLastModified": "2026-09-20T04:57:06+08:00",
           "inferred": false,
@@ -162722,8 +162731,8 @@
           "sourceContentHash": "sha256:d42a13d401176a58",
           "sourceBodyHash": "sha256:240cad04d9fcb9fe",
           "translatedAt": "2026-09-21T11:12:53.498910+00:00",
-          "translationLastCommit": "458b22cc",
-          "translationLastModified": "2026-09-08T09:59:07+08:00",
+          "translationLastCommit": "e5133c12",
+          "translationLastModified": "2026-09-21T20:46:37+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -166562,16 +166571,16 @@
         "vi": {
           "path": "vi/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
           "translatedFrom": "Geography/台灣五大地形與地理結構.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:b14a14cb2829b8df",
-          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
-          "translatedAt": "2026-08-09T12:06:28+08:00",
+          "sourceCommitSha": "14fb95e71",
+          "sourceContentHash": "sha256:51364b574313e11f",
+          "sourceBodyHash": "sha256:aa95a7b2cb0e4dcb",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "b5f0136b",
           "translationLastModified": "2026-08-09T12:21:21+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (9→6)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -168142,16 +168151,16 @@
         "en": {
           "path": "en/Culture/urban-character-and-regional-culture.md",
           "translatedFrom": "Geography/城市特色與區域文化.md",
-          "sourceCommitSha": "2850f17b",
-          "sourceContentHash": "sha256:d85bf01115410778",
-          "sourceBodyHash": "sha256:be641d09ea1153ea",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "fe34418b1",
+          "sourceContentHash": "sha256:7dadbaf276fb07ab",
+          "sourceBodyHash": "sha256:755b0e65ac133cb0",
+          "translatedAt": "2026-09-21T00:58:23+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (12→5)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/urban-character-and-regional-culture.md",
@@ -168198,16 +168207,16 @@
         "fr": {
           "path": "fr/Geography/urban-character-and-regional-culture.md",
           "translatedFrom": "Geography/城市特色與區域文化.md",
-          "sourceCommitSha": "2850f17b",
-          "sourceContentHash": "sha256:d85bf01115410778",
-          "sourceBodyHash": "sha256:be641d09ea1153ea",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "fe34418b1",
+          "sourceContentHash": "sha256:7dadbaf276fb07ab",
+          "sourceBodyHash": "sha256:755b0e65ac133cb0",
+          "translatedAt": "2026-09-21T00:58:28+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (12→5)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/urban-character-and-regional-culture.md",
@@ -169517,16 +169526,16 @@
         "ko": {
           "path": "ko/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "70372d3a",
-          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
-          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "ff1ce7d66",
+          "sourceContentHash": "sha256:f2ac5aec701df4d2",
+          "sourceBodyHash": "sha256:4cdc3e89f08b13d3",
+          "translatedAt": "2026-09-21T00:58:26+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (21→6)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taiwan-river-systems-and-hydrology.md",
