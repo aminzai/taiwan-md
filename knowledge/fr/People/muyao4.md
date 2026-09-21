@@ -20,19 +20,19 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '1b55dfc6c'
-sourceContentHash: 'sha256:f1e33836f112b9c8'
-sourceBodyHash: 'sha256:fb1ea1d55d3dd211'
-translatedAt: '2026-09-12T03:32:22+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:c545680e99f6d0ab'
+sourceBodyHash: 'sha256:809502b72dc5c3f5'
+translatedAt: '2026-09-21T14:36:03.295174+00:00'
 ---
 
-> **Aperçu en 30 secondes :** En 2015, _Mu Yao 4 Super Play_ a été lancé sur Maccabi TV ; la première émission de la « série Un jour » est apparue en 2016, et une chaîne YouTube dédiée a été créée en 2017. La partie la plus intéressante du programme ne réside pas dans le fait d'envoyer Tai Chi-yuan, KID ou Winnie accomplir un travail pendant une journée, mais dans le fait de placer des artisans, des adjoints et du personnel d'arrière-plan, habituellement invisibles, dans un espace de visualisation partagé par tout le public taïwanais. _Mu Yao_ semble transformer les célébrités en personnes ordinaires, mais en réalité, il transforme les compétences invisibles du travail ordinaire en un programme de masse.
+**30 secondes :** En 2015, 《木曜4超玩》 démarre sur MACABI Network TV ; la première « série Un jour » sort en 2016, la chaîne YouTube en 2017. L'intérêt n'est pas d'envoyer Tsai Chih-yuan, KID ou Winne travailler une journée, mais de mettre en scène des artisans, techniciens et gens de l'ombre — jamais héros d'écran — sous le regard de tout Taïwan. L'émission semble transformer des stars en gens ordinaires ; en fait, elle rend visible l'expertise invisible des métiers quotidiens.
 
-Lorsque Tai Chi-yuan a grimpé pour la première fois sur une tour électrique, la difficulté réelle ne résidait pas dans le fait de faire des blagues devant la caméra. Sur les fils de fer du centre d'entraînement de Taïwan Power, il a fallu qu'il coupe plus de dix fois avant d'y parvenir. Pour les tours à haute tension, il devait enfiler son équipement de sécurité et grimper échelon par échelon. Le mensuel de Taïwan Power a relaté ce tournage, se souvenant qu'il avait dû changer deux ou trois tenues de travail en raison de la transpiration.
+Quand Tsai Chih-yuan gravit son premier pylône, la difficulté n'est pas de jouer devant la caméra. Au centre de formation de Taipower, il rate plus de dix fois la coupe du câble. Pour le pylône haute tension, il enfile l'équipement, monte crampon après crampon. Le mensuel de Taipower raconte qu'il a changé deux ou trois tenues, trempées de sueur.
 
-C'est un objet pertinent pour comprendre _Mu Yao 4 Super Play_ : une paire de ciseaux qui ne coupe pas le fil de fer, plutôt qu'un nombre de vues impressionnant. Le programme place les célébrités sur le lieu de travail, sans pour autant simplifier le travail. Au contraire, la maladresse des célébrités donne soudainement une forme aux compétences habituellement masquées par le quotidien.
+Objet idéal pour comprendre 《木曜4超玩》 : une pince qui ne coupe pas le fer, pas un beau chiffre d'audience. Mettre des stars sur le terrain ne simplifie pas le métier. Leur maladresse dessine au contraire le contour de l'expertise que le quotidien cache.
 
-> 📝 **Note du curateur :** Le « effet spécial » le plus précieux de _Mu Yao_ est souvent l'échec des animateurs lors de leur première tentative. L'échec n'est pas monté comme une citation motivante, mais laisse place au sentiment du temps : doigts enflés, incapacité à grimper, nécessité de recommencer.
+> 📝 **Note du curateur :** Le meilleur « effet spécial » de 《木曜4超玩》 est souvent l'échec initial du présentateur. L'échec n'est pas réduit à une devise ; il reste — doigts gonflés, impossible de monter, il faut recommencer — la sensation du temps qui passe.
 
 ## De la plateforme de diffusion en direct à l'expérimentation de la « série Un jour »
 
@@ -94,20 +94,20 @@ Une autre question à laquelle le programme a dû faire face est la manière don
 
 Cette fin rend le terme « esprit de Mu Yao » dangereux. Si l'on attribue le succès du programme au caractère d'un animateur, on manque la planification, la caméra, le montage, les partenaires et les artisans. Si l'on attribue le succès à une formule reproductible, on feint que la restructuration de l'équipe ne changera pas l'odeur du programme. _Mu Yao_ ne laisse pas une réponse de « succès des influenceurs », mais une question : lorsque le public aime la manière dont un groupe travaille ensemble, comment le programme peut-il reconstruire la confiance après le départ de ce groupe ?
 
-## La méthode de production de la série Un jour : décomposer le « travail » en étapes observables
+## La méthode de production de la série « Un jour » : décomposer le « travail » en étapes observables
 
-La série Un jour semble être une personne effectuant un travail pendant une journée, mais elle comporte au moins quatre niveaux de production. Le premier niveau est le choix du métier : le thème doit avoir un sentiment d'étrangeté, mais ne peut pas être complètement étranger à la vie du public. Le deuxième niveau est l'enseignement sur place : l'animateur n'obtient pas directement un titre professionnel, mais doit d'abord接受 l'entraînement aux outils, à la sécurité et au processus. Le troisième niveau est l'échec et la réessai : l'incompétence de l'animateur fournit des points comiques, tout en rendant visible la compétence de l'artisan. Le quatrième niveau est le post-production, qui compresse un long travail de travail en un récit que les spectateurs sont toujours prêts à suivre. Les études et les entretiens avec l'équipe de production indiquent que la forme de _Mu Yao_ a été摸索ée progressivement entre la diffusion en direct, le pré-enregistrement, l'interaction et la pression commerciale, et n'était pas une formule complète dès le départ.[^2] [^3]
+« La série Un jour » semble, en surface, suivre une personne qui effectue un travail pendant une journée, mais elle comprend en réalité au moins quatre niveaux de production. Le premier niveau est le choix du métier : le sujet doit présenter un caractère d'étrangeté, sans pour autant être totalement sans lien avec la vie du public. Le deuxième niveau est la formation sur le terrain : l'animateur n'obtient pas directement un titre professionnel, mais doit d'abord suivre une formation aux outils, à la sécurité et aux processus. Le troisième niveau est l'échec et la nouvelle tentative : la maladresse de l'animateur fournit des moments comiques, tout en rendant visible l'expertise du professionnel. Le quatrième niveau, enfin, est la post-production, qui compresse de longues heures de travail en un récit que le public reste prêt à suivre. Les entretiens menés auprès des équipes de recherche et de production indiquent que le format de 木曜 a été progressivement élaboré entre le direct, le pré-enregistré, l'interaction et les pressions commerciales, et non pas défini d'emblée par une formule complète.[^2] [^3]
 
-Ces quatre niveaux expliquent également pourquoi le simple « déballage » ordinaire est insuffisant. Le déballage nécessite généralement seulement de montrer un objet. La série Un jour exige que le programme replace l'objet dans un ensemble de relations de travail : qui enseigne à l'animateur, qui vérifie la sécurité, qui gère l'échec, qui continue le travail après le départ de l'animateur. Liao Chi-chang, parlant de la planification, souligne que le produit ou le domaine fourni par l'entreprise ne doit pas être filmé simplement parce qu'il « semble beau », mais doit faire ressentir au public extérieur la difficulté, la nouveauté ou la valeur universelle du travail.[^3]
+Ces quatre niveaux expliquent aussi pourquoi un simple « unboxing » ne suffit pas. L'unboxing se contente généralement de présenter un objet. La série Un jour, elle, exige que le programme replace l'objet dans un ensemble de relations de travail : qui enseigne à l'animateur, qui vérifie la sécurité, qui gère les ratés, qui continue le travail après le départ de l'animateur. Liao Chi-chang, lorsqu'il évoque la conception, insiste sur le fait que les produits ou lieux fournis par une entreprise ne méritent pas d'être filmés simplement parce qu'« on les trouve beaux » ; ils doivent encore permettre au public externe de ressentir la difficulté, la nouveauté ou la valeur universelle du travail.[^3]
 
-| Niveau de l'émission  | Contenu vu par le spectateur                                               | Travail habituellement ignoré                                                        |
-| --------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Choix du métier       | Un métier étranger ou peu filmé                                            | Comment les planificateurs jugent si le thème a un intérêt public                    |
-| Formation sur place   | L'animateur prend des outils, porte un équipement, écoute des explications | Enseignement de l'artisan, sécurité du travail et gestion des risques                |
-| Échec et réessai      | Maladresse, erreurs, corrections et nouveaux défis                         | La compétence est le résultat d'un entraînement à long terme, pas une réaction innée |
-| Récit post-production | Points comiques, rythme et histoire complète d'un épisode                  | Comment le montage décide quels travaux sont conservés et lesquels sont omis         |
+| Niveau du programme          | Contenu visible par le public                                           | Travail habituellement négligé                                                    |
+| ---------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Choix du métier              | Un métier étranger ou peu filmé                                         | Comment les concepteurs jugent si un sujet présente un intérêt public             |
+| Formation sur le terrain     | L'animateur prend les outils, enfile l'équipement, écoute les consignes | L'enseignement du professionnel, la sécurité au travail et la gestion des risques |
+| Échec et nouvelle tentative  | Maladresse, erreurs, corrections et nouveaux défis                      | L'expertise résulte d'un entraînement de long terme, non d'un réflexe inné        |
+| Narration en post-production | Points comiques, rythme et histoire complète d'un épisode               | Comment le montage décide quels travaux sont conservés, lesquels sont omis        |
 
-Ainsi, la « naturalité » de _Mu Yao_ n'est pas l'absence de conception, mais une conception cachée à l'endroit où les spectateurs n'ont pas besoin de prêter attention. Lorsque les spectateurs voient Tai Chi-yuan incapable de couper le fil de fer, ils ne pensent généralement pas simultanément à la position de la caméra, au jugement du personnel de sécurité, au temps d'attente sur place et à la manière dont le montage compose un segment compréhensible à partir d'échecs répétés. C'est précisément ce travail de production caché qui fait paraître le travail devant la caméra comme naturel.
+Par conséquent, le « naturel » de 木曜 n'est pas l'absence de conception, mais une conception cachée là où le public n'a pas besoin de regarder. Quand le public voit Tu Chih-yuan incapable de couper un fil de fer, il ne pense généralement pas en même temps à la position de la caméra, au jugement du personnel de sécurité, au temps d'attente sur le terrain, ni à la manière dont le montage assemble les échecs répétés en un segment compréhensible. C'est précisément ce travail de production dissimulé qui fait que le travail devant la caméra semble se produire naturellement.
 
 ## Les nombres de vues ne sont pas la même chose
 
@@ -139,11 +139,11 @@ Les images de Tai Chi-yuan échouant à couper le fil de fer, les 58 minutes où
 
 Il semble transformer les célébrités en personnes ordinaires ; plus profondément, il nous rappelle que les personnes ordinaires n'ont jamais de travail ordinaire.
 
-## Lectures complémentaires
+## Pour aller plus loin
 
-[Industrie et culture des YouTubers taïwanais](../Culture/台灣YouTuber產業與文化.md)
+[L'industrie et la culture des YouTubers à Taïwan](/fr/culture/taiwan-youtuber-industry)
 
-[Variétés taïwanaises](../Culture/台灣綜藝.md)
+[Les émissions de variétés à Taïwan](/fr/culture/taiwan-variety-shows)
 
 [Comment la culture en ligne cohabite avec le commerce : comment la « série Un jour » répond-elle aux nouveaux types de programmes de variétés ?](http://commagazine.twmedia.org/?p=5929)
 

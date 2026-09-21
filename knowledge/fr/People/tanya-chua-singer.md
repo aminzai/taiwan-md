@@ -1,213 +1,212 @@
 ---
-title: 'Tanya Chua : quatre fois reine des Golden Melody Awards, comment une Singapourienne a fait de Taïwan son territoire'
-description: "De 1996, lorsqu'un claviériste lui a dit de la fermer dans un bar de Singapour, à 2022, lorsqu'elle a remporté quatre trophées en une seule soirée lors de la 33ᵉ cérémonie des Golden Melody Awards, Tanya Chua a mis 26 ans à devenir la seule artiste de l'histoire de la musique sinophone à avoir été couronnée quatre fois meilleure chanteuse. Elle n'est pas née à Taïwan, mais les Golden Melody Awards, son lieu de résidence, ses collaborateurs et ses chansons les plus fredonnées ont tous grandi à Taïwan — l'identité locale d'une artiste étrangère s'est jouée en 2006, lorsqu'elle a décidé de rompre son contrat Warner, de s'installer seule à Taipei et de fonder son propre studio, « Tianya Music »."
+title: 'Tsai Jian-ya : la chanteuse reine du Golden Melody, comment une Singapourienne a fait de Taïwan sa scène principale'
+description: 'De l''incident où elle fut gronder par un pianiste dans un bar à Singapour en 1996, au soir où elle remporta quatre prix lors du 33e Golden Melody Award en 2022, Tsai Jian-ya a passé 26 ans à se construire comme la seule artiste de la scène mandarine à obtenir ce titre quatre fois. Bien qu''elle ne soit pas née à Taïwan, le Golden Melody Award, son lieu de résidence, ses collaborateurs et les chansons les plus chantées sont ancrés à Taïwan — une identité locale pour une artiste étrangère, qui est le choix fait en 2006 lors du renoncement au contrat Warner pour s''installer à Taipei et fonder "Tianya Music Studio".'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
-category: People
-subcategory: '當代音樂人'
+category: 'People'
 tags:
   [
+    'Tsai Jian-ya',
     'Tanya Chua',
-    'Tanya Chua',
-    'Golden Melody Awards',
-    'auteure-compositrice-interprète',
+    'Golden Melody Award',
+    'chanteuse-compositrice',
     'Singapour',
-    'musique sinophone',
+    'scène mandarine',
     'productrice',
-    'composition',
-    'Kong Bai Ge',
+    'création',
     'DEPART',
   ]
-readingTime: 22
+subcategory: '當代音樂人'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-featured: true
-translatedFrom: People/蔡健雅.md
-sourceCommitSha: 'dc7865f0'
-sourceContentHash: 'sha256:0b4776a25d38b2ed'
-sourceBodyHash: 'sha256:126c0129a0743d8a'
-translatedAt: 2026-05-02T01:17:16+08:00
+readingTime: 22
+translatedFrom: 'People/蔡健雅.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:bbe9414090e28df8'
+sourceBodyHash: 'sha256:eec2d91f1c8e6db1'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
-# Tanya Chua : quatre fois reine des Golden Melody Awards, comment une Singapourienne a fait de Taïwan son territoire
+# Tsai Jian-ya : la chanteuse reine du Golden Melody, comment une Singapourienne a fait de Taïwan sa scène principale
 
-> **En 30 secondes :** Tanya Chua est Singapourienne, née en 1975 à Singapour. En 1999, elle sort son premier album en mandarin, _Hūxī_ (_Respiration_), et entre dans l'univers de la musique sinophone, où elle évolue depuis 26 ans. Elle a remporté quatre fois le prix de la meilleure chanteuse mandarin/chinois aux Golden Melody Awards (2006, 2008, 2012, 2022), et est la seule artiste à avoir remporté quatre trophées en une seule soirée — lors de la 33ᵉ édition en 2022, son album _DEPART_ a raflé l'album de l'année, le meilleur album en mandarin, le meilleur album pour l'enregistrement vocal et la meilleure chanteuse en mandarin. Elle n'est pas seulement interprète, elle est aussi productrice : en 2008, elle a remporté simultanément le prix de la meilleure chanteuse mandarin et celui du meilleur producteur d'album. Elle a écrit des chansons et produit des albums pour Faye Wong, Stefanie Sun, A-Mei, Fish Leong, Na Ying et Rainie Yang. En 2024, elle s'est lancée dans la conception musicale pour la série _Imperfect Us_. Elle n'a jamais obtenu de passeport taïwanais, mais cette île est devenue son territoire de fait.
+> **Aperçu en 30 secondes :** Tsai Jian-ya est originaire de Singapour, née en 1975. Elle est entrée sur la scène mandarine avec son premier album national _Huxi_ (Respiration) en 1999, et cela fait maintenant 26 ans. Elle a remporté le prix de chanteuse nationale/mandarine quatre fois (en 2006, 2008, 2012 et 2022), et est la seule artiste à avoir gagné quatre Golden Melody Awards en une seule soirée — avec l'album _DEPART_ lors du 33e édition en 2022, qui a remporté le prix de l'album de l'année, le meilleur album mandarin, le meilleur enregistrement vocal et le meilleur chanteuse mandarine. Elle n'est pas seulement une chanteuse, mais aussi une productrice ; en 2008, elle a reçu simultanément les prix de meilleure chanteuse nationale et de meilleur producteur d'album. Elle a écrit des chansons et produit pour Faye Wong, Teresa Teng, Ai-Mei Chang, Jing Ru Liang, Na Ying et Candy Cheung. En 2024, elle travaille en tant que créatrice musicale pour la série _Bugu Liangshan De Wo Men_. Elle n'a jamais eu de passeport taïwanais, mais cette île est son terrain d'attache effectif.
 
-Le 2 juillet 2022, au soir, au Kaohsiung Arena. La 33ᵉ cérémonie des Golden Melody Awards touche à sa fin. L'enveloppe de l'album de l'année est ouverte. L'animateur prononce le nom : « _DEPART_ — Tanya Chua. »
+Le soir du 2 juillet 2022, au Taipei Arena (Kaohsiung). À la fin du 33e Golden Melody Award, l'enveloppe du prix de l'album de l'année a été ouverte, et l'animateur a annoncé : « _DEPART_ — Tsai Jian-ya. »
 
-C'est son quatrième trophée de la soirée. Les trois précédents étaient la meilleure chanteuse en mandarin, le meilleur album en mandarin et le meilleur album pour l'enregistrement vocal. Un album, quatre trophées en une soirée. En 33 ans d'histoire des Golden Melody Awards, personne n'avait jamais accompli cela.
+C'était son quatrième prix ce soir-là. Les trois précédents étaient pour la meilleure chanteuse mandarine, le meilleur album mandarin et le meilleur enregistrement vocal. Un album, quatre prix en une soirée. En 33 ans d'histoire du Golden Melody Award, personne n'avait fait cela.
 
-Elle monte sur scène, les yeux embués, mais sa première phrase est : « Je ne veux pas pleurer, parce que ma coiffure et mon maquillage ont pris beaucoup de temps. »[^1]
+Elle est montée sur scène, les yeux brillants, mais sa première phrase fut : « Je ne veux pas pleurer parce que mon maquillage et ma coiffure ont pris beaucoup de temps. »[^1]
 
-Des rires. Puis elle ajoute : « Je n'aurais jamais cru avoir une nouvelle chance de remporter celui-ci. J'y ai rêvé, mais je ne pensais pas que c'était possible. »[^1]
+Des rires. Puis elle a dit : « Je ne m'attendais pas à avoir cette chance, je l'avais imaginée, mais je ne pensais pas que c'était possible. »[^1]
 
-Viennent ensuite ces mots de remerciement, depuis lors cités maintes fois : « Tous les musiciens sont des conteurs d'histoires (_story tellers_). Tout ce qui nous arrive, chaque détail, l'air que nous respirons, chaque histoire que nous voyons, c'est grâce à nous, les musiciens, que tout cela est mis par écrit. Quand les extraterrestres viendront un jour, en écoutant notre musique, ils sauront ce qui s'est passé. »[^1]
+Ensuite, la citation gagnante qui fut souvent citée : « Tous les artistes sont des conteurs (story teller) ; tout ce qui nous arrive, tous les détails, l'air que nous respirons, chaque histoire que nous voyons, est écrit par nous, ces artistes. Quand les extraterrestres viendront plus tard et entendront notre musique, ils sauront ce qui s'est passé. »[^1]
 
-Elle a 47 ans. Sixteen years have passed since her first Golden Melody Award. Vingt-six ans se sont écoulés depuis ce soir dans un bar où un claviériste lui a dit de la fermer.
+Elle avait 47 ans cette année-là. Cela faisait 16 ans depuis son premier Golden Melody Award. Cela faisait 26 ans depuis qu'elle fut gronder par un pianiste sur une scène de bar.
 
-### 1996, Singapour : le claviériste lui dit de la fermer
+### Singapour en 1996 : le pianiste lui dit de se taire
 
-Revenons à 1996, à Singapour. Une jeune femme tout juste diplômée de la Singapore Polytechnic, où elle a étudié la gestion des affaires, chante dans un bar. Le groupe répète des reprises. Elle ose une suggestion : « On pourrait réarranger cette chanson, ce serait plus intéressant. »
+Revenons à Singapour en 1996. Une jeune femme, fraîchement diplômée d'une école polytechnique de Singapour avec une spécialisation en gestion d'entreprise, jouait dans un bar. Le groupe répétait des reprises, et elle suggéra : « Cette chanson pourrait être réarrangée pour être plus intéressante. »
 
-Le claviériste lui dit de la fermer. « Il pensait que je ne connaissais rien à la musique. »[^2]
+Le pianiste lui dit de se taire. « Il pensait que je ne comprenais rien à la musique. »[^2]
 
-Elle a 21 ans et chante déjà dans des bars depuis plusieurs années. « Je n'avais jamais envisagé de mettre fin à cette vie de reprises. J'étais encore jeune, mes idées étaient simples. J'aimais chanter, et chanter dans un bar me semblait un moyen amusant de gagner de l'argent de poche. »[^3]
+Elle avait 21 ans à l'époque et jouait dans des bars depuis plusieurs années. « Je n'avais jamais pensé arrêter ce genre de performance de reprises ; j'étais jeune, mes idées étaient simples, j'aimais chanter et je trouvais que chanter en bar était une façon intéressante de gagner de l'argent de poche. »[^3]
 
-Mais ce « ferme-la » l'a poussée à réfléchir : si elle ne connaissait vraiment rien à la musique, alors elle devait apprendre. En 1998, elle obtient une bourse pour étudier au Musicians Institute (MI) de Hollywood, en Californie, où elle se spécialise en guitare électrique.
+Mais le mot "se taire" l'a fait réfléchir : si elle ne comprenait vraiment pas la musique, alors elle devait apprendre. En 1998, elle a reçu une bourse et s'est formée au Musicians Institute (MI) à Hollywood, en Californie, se spécialisant dans la guitare électrique.
 
-De retour à Singapour, elle écrit son premier album en anglais, _Bored_ (sorti en 1997 via Yellow Music à Singapour). Puis, en 1999 — une année qui a tout changé — elle signe avec PolyGram (absorbé plus tard par Universal Music) et prépare son premier album en mandarin.
+De retour à Singapour, elle a enregistré son premier album en anglais, _Bored_ (sorti via Yellow Music à Singapour en 1997). Puis en 1999 : une année qui tout changea ; elle a signé avec Polydor (plus tard racheté par Universal Records) pour préparer son premier album national.
 
-Cet album s'intitule _Hūxī_ (_Respiration_). Sorti en décembre 1999, il cible principalement le marché taïwanais. En 2000, elle est nommée pour le meilleur nouvel artiste lors de la 11ᵉ cérémonie des Golden Melody Awards[^4].
+Cet album s'appelait _Huxi_ (Respiration). Il est sorti en décembre 1999, principalement sur le marché taïwanais. En 2000, elle a été nommée pour le 11e Golden Melody Award dans la catégorie Nouveau Talent[^4].
 
-> **📝 Note du commissaire :** En 1999, l'univers de la musique sinophone est celui de Stefanie Sun, Elva Hsiao, Na Ying, Faye Wong et Sandy Lam. Tanya Chua n'est pas encore une figure centrale. Son premier album en mandarin ne connaît pas un succès retentissant, et elle-même n'en parle que rarement en interview. Mais cet album définit les 25 années qui suivent : une chanteuse venue de Singapour, auteure de ses propres chansons, sur une ligne auteure-compositrice-interprète, qui ouvre une brèche nouvelle dans la musique sinophone grand public.
+> **📝 Note de l'éditeur :** La scène mandarine en 1999 était à l'ère de Teresa Teng, Xiao Ya-chuan, Na Ying et Faye Wong. Tsai Jian-ya n'était pas encore la vedette. Son premier album national ne fut pas un grand succès, et elle ne le mentionne que rarement dans ses interviews ultérieures. Mais cet album a défini son positionnement pour les 25 années suivantes — une chanteuse venue de Singapour, qui écrit ses propres chansons, suivant la voie de la _singer-songwriter_, ouvrant une nouvelle niche sur la scène mandarine grand public.
 
-### 2006 : l'Inde, puis Taipei
+### 2006 à Inde, puis Taipei
 
-En 2005, elle remporte son premier Golden Melody Award — le prix de la meilleure chanteuse mandarin lors de la 17ᵉ édition, pour son album _Shuāngqī Dòngwù_ (_Animal amphibie_)[^5]. Pour n'importe quelle chanteuse, un premier Golden Melody Award est un sommet de carrière. Mais pour Tanya Chua, cette année-là est aussi celle d'un profond désarroi.
+En 2005, elle a remporté son premier Golden Melody Award : le prix de meilleure chanteuse nationale du 17e édition pour son œuvre _Shuangqi Dongwu_ (Animal à double vie)[^5]. Pour n'importe quel chanteur, un premier Golden Melody Award est un sommet de carrière. Mais pour Tsai Jian-ya, elle était en réalité plus confuse cette année-là.
 
-Son contrat est alors lié à Warner Music et à l'agence de management Music & Movement (Singapour). La pression commerciale s'intensifie : la maison de disque souhaite qu'elle s'oriente vers la chanson d'amour grand public, qu'elle tourne plus de clips, qu'elle accepte plus de contrats publicitaires. Elle commence à douter que cette voie soit la bonne.
+Son contrat était encore lié à Warner Music et à l'agence Music & Movement (Singapour). La pression commerciale augmentait ; la maison de disques voulait qu'elle se tourne vers les ballades grand public, avec plus de clips vidéo et plus de publicités. Elle commençait à douter si c'était le chemin qu'elle souhaitait.
 
-Fin 2005, elle part pour l'Inde. Elle y étudie le yoga et se consacre à une quête intérieure. Puis elle prend une décision : « Si je veux continuer à avancer dans la musique, je dois retrouver ma passion première et devenir une auteure-compositrice-interprète à part entière. »[^6]
+Fin 2005, elle est allée en Inde. Elle a étudié le yoga et s'est auto-explorée. Puis elle a pris une décision : « Si je voulais continuer sur la voie de la musique, je devais retrouver mon intention initiale pour la musique et devenir une artiste entièrement créative. »[^6]
 
-En octobre 2006, elle rompt ses contrats avec Warner et Music & Movement. Elle s'installe seule à Taipei. Elle fonde son propre studio, « Tianya Music ». Elle confie la distribution de ses albums en mandarin à AsiaMuse Entertainment — une structure bien plus petite, mais qui lui offre une liberté de création totale.
+En octobre 2006, elle a rompu son contrat avec Warner et Music & Movement. Elle s'est installée seule à Taipei. Elle a fondé "Tianya Music Studio". Elle a confié les droits de distribution de ses albums nationaux à Yashen Music : une entreprise beaucoup plus petite, mais qui lui offrait la liberté créative.
 
-C'est le véritable tournant de sa carrière. Pas ses débuts en 1999, pas son premier Golden Melody Award en 2005, mais cette décision de 2006 : rompre avec une major, s'installer à Taipei, fonder son studio.
+C'était son véritable point de bascule professionnel. Ce n'était ni son début en 1999, ni son premier Golden Melody Award en 2005, mais cette décision de « rompre le contrat avec une grande maison de disques, de s'installer à Taipei et de fonder un studio » en 2006.
 
-À partir de cette année-là, tous ses Golden Melody Awards sont remportés en tant qu'auteure-compositrice-interprète, et non en tant que simple interprète. À partir de cette année-là, elle a un véritable « chez elle » à Taïwan — non pas au sens juridique, mais au sens créatif.
+À partir de cette année-là, tous les Golden Melody Awards qu'elle a reçus ont été en tant que _singer-songwriter_, et non seulement comme chanteuse. À partir de cette année-là, elle a eu un "chez-soi" effectif à Taïwan — pas légalement, mais créativement.
 
-> **📝 Note du commissaire :** La décision de 2006 comportait un choix invisible de l'extérieur : elle aurait pu rentrer à Singapour. La scène musicale sinophone y est plus modeste, mais elle offre une position d'artiste Mandopop à l'export. Déjà sacrée reine des Golden Melody Awards, elle aurait pu y revenir en tant que figure établie sans difficulté. Mais elle a choisi Taipei — une ville dont elle n'a ni le passeport, ni la famille, ni les souvenirs d'enfance. Pourquoi ? Elle n'a jamais répondu frontalement à cette question. Mais toutes les décisions des 18 années qui ont suivi (collaborateurs, lieu de résidence, résidence permanente, tournées principales) sont le prolongement de ce choix.
+> **📝 Note de l'éditeur :** La décision de 2006 incluait une option que les étrangers ne voient pas facilement : elle aurait pu retourner à Singapour. Bien que la scène mandarine de Singapour soit petite, elle offre des débouchés pour le Mandopop, et elle avait déjà le titre de chanteuse reine du Golden Melody ; il aurait été facile pour elle d'y revenir en tant qu'artiste établie. Mais elle a choisi Taipei — une ville où elle n'avait ni passeport, ni famille, ni souvenirs d'enfance. Pourquoi ? Elle n'a jamais répondu directement à cette question. Mais toutes les décisions des 18 années suivantes (collaborateurs, lieu de résidence, droit de séjour permanent, tournées) sont une extension de ce choix.
 
-### 2007 : _Kong Bai Ge_ en cinq minutes
+### 2007 : écrire _Blank Space_ en cinq minutes
 
-En octobre 2007, un an après son installation à Taipei, elle sort chez AsiaMuse Entertainment son premier album, _Goodbye & Hello_. L'album contient une chanson intitulée _Kong Bai Ge_ (_Case vide_).
+En octobre 2007, un an après son installation à Taipei, elle a sorti son premier album chez Yashen Music, _Goodbye & Hello_. L'album contenait une chanson intitulée _Blank Space_ (Espacement vide).
 
-Elle a raconté en interview que cette chanson a été écrite en une nuit, en cinq minutes. Elle était dans sa chambre, elle pleurait tout en écrivant, le texte lié à une relation en ligne qui avait échoué. Pendant l'enregistrement, elle a dû s'arrêter à plusieurs reprises, submergée par l'émotion.
+Elle a raconté dans des interviews que cette chanson fut écrite en cinq minutes un soir. Elle l'a écrite en pleurant dans sa chambre, le contenu étant lié à une relation amoureuse ratée sur Internet. Lors de l'enregistrement, elle s'est arrêtée plusieurs fois en sanglotant à cause de son émotion.
 
-« Est-ce que c'est parce qu'on ne grandit pas qu'on prend la vagabondise pour de l'élégance » — le début de la chanson. Plus tard, Angela Zhang l'a reprise en couverture, et beaucoup ne savent même pas que l'interprète originale est Tanya Chua. Mais cette méconnaissance prouve, d'une certaine manière, la puissance de la chanson : elle a transcendé son interprète d'origine pour devenir une version fredonnée comme une « lettre d'amour à soi-même ».
+« Est-ce parce que nous ne sommes pas devenus adultes que nous considérons la vie nomade comme quelque chose d'exubérant ? » — c'était le début de cette chanson. Plus tard, Angela Chang a repris cette chanson, et beaucoup ignoraient même que l'originale était Tsai Jian-ya. Mais cette confusion prouvait en quelque sorte la force de la chanson : elle avait dépassé son auteure pour devenir une version populaire, comme une "lettre d'amour à soi-même".
 
-L'album _Goodbye & Hello_ contient d'autres titres phares comme _Darwin I_ et _Dāng Nǐ Líkāi de Shíhòu_ (_Quand tu es parti_). Lors de la 19ᵉ cérémonie des Golden Melody Awards en 2008, Tanya Chua remporte simultanément deux trophées : la meilleure chanteuse mandarin et le **meilleur producteur d'album**[^7].
+L'album _Goodbye & Hello_ contenait également des œuvres emblématiques telles que _Darwin I_ et _When You Leave_. En 2008, lors du 19e Golden Melody Award, Tsai Jian-ya a remporté deux prix : la meilleure chanteuse nationale + **le meilleur producteur d'album**[^7].
 
-C'est un accomplissement rare dans l'univers sinophone. Dans la musique sinophone, les interprètes sont interprètes, les producteurs sont producteurs ; ceux qui maîtrisent les deux sont peu nombreux. Tanya Chua ne se contente pas de chanter ses propres chansons, elle les produit elle-même. Depuis le début des années 2000, elle écrit aussi pour d'autres artistes : Faye Wong (_Dǎ Cuò Le_, 2001), Stefanie Sun (_Dì Liù Gǎn_, 2003), A-Mei (_Bié Qù Dǎrǎo Tā de Xīn_, 2002), Fish Leong (_Xìngfú de Yùgǎn_, 2002 ; _Xiàng Zuǒ Zhuǎn Xiàng Yòu Zhuǎn_, 2003), entre autres[^8]. Par la suite, Na Ying, Rainie Yang, Valen Hsu, Eason Chan, Jam Hsiao, Bii et Pets Tseng ont également collaboré avec elle.
+C'était un double titre rare sur la scène mandarine. Dans cette industrie, on est soit chanteur, soit producteur ; peu de gens font les deux. Tsai Jian-ya ne se contentait pas de chanter et de produire elle-même ; elle écrivait pour d'autres artistes depuis le début des années 2000 : _Dacuo Le_ (Erreur) pour Faye Wong (2001), _Sixth Sense_ pour Teresa Teng (2003), _Don't Disturb His Heart_ pour Ai-Mei Chang (2002), _Premonition of Happiness_ pour Jing Ru Liang (2002), _Turn Left Turn Right_ (2003), etc.[^8]. Plus tard, elle a collaboré avec Na Ying, Candy Cheung, Hsu Ru-yun, Jay Chou, Joe Shiing-teng, Bi Shu-jin et Tseng Pei-tsu.
 
-> **📝 Note du commissaire :** L'identité de productrice de Tanya Chua est plus profondément ancrée dans l'industrie que celle d'interprète. Une chanteuse qui n'interprète que ses propres chansons limite son influence à son propre public. Mais une productrice qui écrit pour les grandes stars de la Mandopop influence toute une génération de musique sinophone. Quand vous écoutez _Xìngfú de Yùgǎn_ de Fish Leong, _Dì Liù Gǎn_ de Stefanie Sun ou _Dǎ Cuò Le_ de Faye Wong — les empreintes de Tanya Chua sont là. C'est une autre dimension de son palmarès, au-delà de ses quatre couronnes de Golden Melody Awards.
+> **📝 Note de l'éditeur :** Le rôle de productrice de Tsai Jian-ya était plus profond dans l'industrie que son rôle de chanteuse. Une chanteuse qui ne chante que ses propres chansons a une influence limitée à son propre public ; mais un producteur qui écrit pour des artistes A-list grand public influence toute une génération de pop mandarine. Lorsque vous écoutez _Premonition of Happiness_ de Jing Ru Liang, _Sixth Sense_ de Teresa Teng ou _Dacuo Le_ de Faye Wong — on retrouve la marque de Tsai Jian-ya derrière. C'est une autre couche de son statut de "chanteuse reine du Golden Melody".
 
-### 2018 : la nuit où elle a écrit _Yí Shū_ (_Lettre testamentaire_)
+### 2018 : la nuit où elle a écrit _Testament_
 
-De 2007 à 2017, Tanya Chua sort cinq albums en mandarin chez AsiaMuse Entertainment : _Goodbye & Hello_, _Ruò Nǐ Pèngdào Tā_ (2009), _Shuōdào Ài_ (2011), _Tiānshǐ yǔ Móguǐ de Duìhuà_ (2013) et _Shīyǔzhě_ (2015). _Shuōdào Ài_ lui vaut un troisième sacre lors de la 23ᵉ cérémonie des Golden Melody Awards en 2012[^9].
+De 2007 à 2017, Tsai Jian-ya a sorti cinq albums nationaux chez Yashen Music : _Goodbye & Hello_, _If You Meet Him_ (2009), _Talking About Love_ (2011), _Dialogue Between Angel and Devil_ (2013) et _Mute_ (2015). Parmi eux, _Talking About Love_ lui a valu son troisième Golden Melody Award lors du 23e édition en 2012[^9].
 
-En 2017, elle retourne chez Universal Music. En décembre 2018, elle publie l'album _Wǒ Yào Gěi Shìjiè Zuì Yōucháng de Shīwěn_ (_Je veux donner au monde le baiser humide le plus long_). Cet album, fruit de trois ans de maturation, contient une chanson intitulée _Yí Shū_ (_Lettre testamentaire_).
+En 2017, elle est retournée chez Universal Music. En décembre 2018, elle a sorti l'album _I Want to Give the World the Longest Kiss_. Cet album était le résultat de trois ans de maturation et contenait une chanson intitulée _Testament_ (Lettre de testament).
 
-Elle a raconté en interview que le point de départ de cette chanson a été le décès d'un ami. Une dépression, des années plus tard, est revenue la hanter. Un soir, elle a commencé à écrire les paroles et la mélodie, le cœur en vrac.
+Elle a expliqué dans des interviews que cette chanson avait commencé par la mort d'un ami. La dépression, ancienne visiteuse, était revenue. Elle a commencé à écrire les paroles et la musique un soir, initialement en proie au chaos émotionnel.
 
-« Cette nuit-là, en écrivant _Yí Shū_, mon cœur était en désordre. Mais au fil de l'écriture, il s'est apaisé. En relisant chaque mot que j'avais écrit, j'ai réalisé que tout cela appartenait au passé : j'avais aimé, j'avais vécu, j'avais donné, j'avais fait des efforts, j'avais lutté et j'avais surmonté. Toutes les chansons que je devais écrire, je les avais écrites avec tout mon cœur. Quel regret pouvait-il rester ? »[^10]
+« Le soir où j'écrivais _Testament_, j'étais anxieuse, mais en écrivant, mon cœur s'est calmé. En voyant chaque mot que j'avais écrit, j'ai réalisé que tout cela était passé, que j'avais aimé, vécu, donné, lutté et vaincu. J'avais écrit les chansons qu'il fallait écrire avec cœur. Qu'y a-t-il de regrettable ? »[^10]
 
-« Je n'aurais jamais imaginé écrire un jour une chanson intitulée _Lettre testamentaire_. Mais la vie est réaliste : ces dernières années, ces deux mots que l'on « n'ose pas prononcer » n'ont cessé d'apparaître dans mon quotidien. »[^10]
+« Je n'aurais jamais pensé un jour écrire une chanson intitulée _Testament_. Mais la vie est la réalité ; ces deux mots, que j'ai toujours eu du mal à aborder, sont apparus sans cesse dans ma vie ces dernières années. »[^10]
 
-Le clip de _Yí Shū_ est réalisé par Ching Ping Yu, en un seul plan-séquence. « Tourner en un seul plan-séquence présente des difficultés : chaque angle, chaque émotion repose sur la complicité. J'ai collaboré de nombreuses fois avec Yu — elle était la seule réalisatrice possible à mes yeux. »[^10]
+Le clip de _Testament_ a été réalisé par Yu Jingping en plan-unique. « Filmer en plan unique présente des difficultés, toutes les émotions et tous les angles dépendent de la complicité. J'ai beaucoup travaillé avec Xiao Yu, elle est pour moi l'unique réalisatrice dans mon cœur. »[^10]
 
-Elle a déclaré en interview : « L'incertitude de l'avenir est-elle si terrifiante ? Ce qui doit arriver arrivera, ce qui doit partir partira. Qui peut le contrôler ? »[^10
+Elle a dit plus tard lors d'une interview : « L'incertitude du futur est-elle si effrayante ? Ce qui doit venir viendra, ce qui doit partir partira, qui peut le contrôler ? »[^10]
 
-« J'espère que cette chanson vous permettra de revenir sur votre vie et de trouver ce qui est précieux dans l'existence. »[^10]
+« J'espère que cette chanson vous permettra de revoir votre vie et de trouver la préciosité de l'existence. »[^10]
 
-_Yí Shū_ a été nommée pour le meilleur compositeur lors de la 30ᵉ cérémonie des Golden Melody Awards, sans remporter le prix. Mais cette chanson a permis à beaucoup de redécouvrir Tanya Chua — la manière dont une auteure-compositrice-interprète de plus de 40 ans affronte la question de la mort est radicalement différente de celle dont elle écrivait des chansons d'amour à 20 ans.
+_Testament_ a été nominé pour le prix du meilleur compositeur lors du 30e Golden Melody Award, mais n'a pas gagné. Cependant, cette chanson a permis à beaucoup de mieux comprendre Tsai Jian-ya : la manière dont une _singer-songwriter_ aborde les questions de mort à plus de 40 ans est totalement différente de celle qu'elle avait en écrivant des chansons d'amour à moins de 20 ans.
 
-> **📝 Note du commissaire :** Sur les 25 ans de parcours créatif de Tanya Chua, de la confusion juvénile de _Hūxī_ à l'anxiété de la rupture de _Kong Bai Ge_, puis à la confrontation avec la mort à l'âge mûr dans _Yí Shū_ — elle ne s'est jamais figée dans une seule tranche émotionnelle. Chaque décennie, elle écrit des choses différentes. C'est la différence entre une auteure-compositrice-interprète et une chanteuse pop : la chanteuse pop vit dans ses tubes, l'auteure-compositrice-interprète vit dans sa propre vie.
+> **📝 Note de l'éditeur :** Au cours de ses 25 années de création, le parcours de Tsai Jian-ya — de la confusion juvénile de _Huxi_, à l'anxiété amoureuse de _Blank Space_, jusqu'à la confrontation avec la mort dans _Testament_ — elle n'est jamais restée bloquée sur un seul fragment émotionnel. Ce qu'elle a écrit chaque décennie est différent. C'est la différence entre une chanteuse pop et une _singer-songwriter_ : la pop vit dans les tubes, la _singer-songwriter_ vit dans sa propre vie.
 
 ### 2021 : _DEPART_, un album écrit avec l'odorat
 
-En août 2021, Tanya Chua publie l'album _DEPART_. Fruit de trois ans de maturation, il contient 14 chansons. En interview, elle a décrit cet album d'une manière singulière : **à travers l'odorat**.
+En août 2021, Tsai Jian-ya a sorti l'album _DEPART_. Un travail mûri après trois ans, composé de 14 chansons. Elle a décrit cet album d'une manière très étrange dans une interview : **avec l'odorat**.
 
-« Cet album est là pour prouver ce que je suis et pour consigner ce qui s'est passé ces dernières années. »[^1]
+« Cet album est fait pour prouver qui je suis et pour enregistrer ce qui s'est passé ces dernières années. »[^1]
 
-La structure de l'album est en trois parties :
+La structure de l'album était en trois actes :
 
-- **La partie herbacée et terrestre** : _Bluebirds_, _Into The Wild_, etc. — l'odeur de l'herbe après la pluie dans une prairie
-- **La partie du quotidien** : _Chū Zǒu_ (_Le départ_), _Ràng Làngmàn Zuò Zhǔ_ (_Laisse le romantisme régner_), etc. — l'odeur du pain sortant du four, du riz fraîchement cuit
-- **La partie finale boisée** : _Om Tara_ — l'odeur du santal et du cèdre
+- **Acte Végétal** : _Bluebirds_, _Into The Wild_, etc., avec une odeur de pelouse après la pluie dans les prairies.
+- **Acte Quotidien** : _Escape_ (Fuir), _Let Romance Rule_ (Laisser le romantisme décider), etc., avec l'odeur du pain fraîchement sorti ou du riz cuit.
+- **Finale Boisée** : _Om Tara_, avec une odeur d'encens et de cèdre.
 
-Structurer un album entier par l'odorat est extrêmement rare dans la musique sinophone. La plupart des albums sinophones sont structurés par « thème » ou « fil narratif ». Tanya Chua utilise « l'odorat » — ce qui relève davantage de l'art conceptuel que du pop commercial.
+Structurer un album entier par l'odorat est très rare sur la scène mandarine. La plupart des albums mandariens utilisent une structure "thème" ou "arc narratif", mais Tsai Jian-ya a utilisé l'"odeur" — ce qui ressemble plus à de l'art conceptuel qu'à de la pop commerciale.
 
-Mais elle ne parle pas seulement d'odeurs. « Je veux écrire des chansons pour la Terre, pour l'humanité. »[^1] _Bluebirds_ évoque la prairie et la terre, _Chū Zǒu_ parle du départ de sa zone de confort, _Om Tara_ est une version anglaise du mantra de Tara du bouddhisme tibétain — un album en apparence abstrait, mais dont le cœur bat sur deux axes : environnemental et spirituel.
+Mais elle ne parlait pas seulement d'odeurs. « Je voulais écrire des chansons pour la Terre, pour l'humanité. »[^1] _Bluebirds_ évoque les prairies, _Escape_ parle du fait de quitter sa zone de confort, et _Om Tara_ est une version anglaise du mantra bouddhiste tibétain : un album apparemment abstrait, mais avec deux axes fondamentaux : environnemental et spirituel.
 
-Lors de la 33ᵉ cérémonie des Golden Melody Awards en 2022, cet album rafle quatre prix : l'album de l'année, le meilleur album en mandarin, le meilleur album pour l'enregistrement vocal et la meilleure chanteuse en mandarin[^11]. Ce soir-là, elle déclare : « L'album de l'année est celui que je voulais le plus remporter, peut-être à cause de ce qu'il représente. »[^1]
+Lors du 33e Golden Melody Award en 2022, cet album a remporté quatre prix : l'album de l'année, le meilleur album mandarin, le meilleur enregistrement vocal et le meilleur chanteuse mandarine[^11]. Ce soir-là, elle a dit : « L'album de l'année était celui que je voulais le plus, peut-être à cause de sa signification. »[^1]
 
-Quatrième couronne. Détentrice du record.
+Quatre fois la reine. La recordwoman.
 
-### 2023 : le Taipei Arena, 55 millions de dollars taïwanais en tout live
+### 2023 : Taipei Small Arena, 55 millions en concert live
 
-Les 6 et 7 mai 2023, Tanya Chua donne deux concerts au Taipei Arena dans le cadre de sa tournée _Let's Depart! Donner au monde le baiser le plus long_. Les 22 000 billets des deux soirées sont tous vendus, pour un chiffre d'affaires d'environ 55 millions de dollars taïwanais. Le coût total du concert s'élève à 50 millions, dont 30 millions investis dans la scénologie du « vaisseau Qing Niao de l'univers »[^12].
+Les 6 et 7 mai 2023, Tsai Jian-ya a donné le concert _Let's Depart! The Longest Kiss to the World_ au Taipei Small Arena. Les deux représentations, avec 22 000 billets chacune, ont été toutes vendues, générant un chiffre d'affaires d'environ 55 millions de dollars taïwanais. Le coût total du concert était de 50 millions, et 3 millions ont été investis dans la scénographie "Cosmic Bluebird"[^12].
 
-Le point le plus remarquable : **aucune bande-son préenregistrée (program), tout est live**. C'est extrêmement rare dans les concerts sinophones contemporains. La plupart des artistes utilisent des programmes pour le fond sonore (musique de fond ou chœurs préenregistrés, l'artiste ne chantant que la mélodie principale). Tanya Chua a choisi le tout live — ce qui signifie que le groupe et les choristes doivent réellement jouer et chanter en direct tout au long du spectacle.
+Le plus spécial : **il n'y a eu aucun programme (piste préenregistrée), c'était entièrement en live**. C'est extrêmement rare dans les concerts mandariens contemporains. La plupart des chanteurs utilisent un programme pour compléter la base (musique d'accompagnement ou chœurs joués par ordinateur, le chanteur ne fait que le refrain principal) ; Tsai Jian-ya a choisi le tout _live_ : ce qui signifie que le groupe et les chanteurs d'accompagnement devaient réellement jouer et chanter pendant tout le spectacle.
 
-Ce choix prolonge sa philosophie d'auteure-compositrice-interprète à part entière. Si les chansons sont écrites par elle, la production est la sienne, alors la performance doit aussi être authentique.
+Ce choix prolonge sa philosophie de "chanteuse entièrement créative". Si la chanson est écrite par elle, si la production est faite par elle, alors la performance doit être réelle.
 
-La tournée Let's Depart s'étend ensuite à Hong Kong, Canton, Chengdu, Pékin, Shanghai, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen, Chongqing, entre autres. Le 14 septembre 2024, une date supplémentaire est ajoutée au Kaohsiung Arena. Une Singapourienne qui fait de l'espace sinophone son territoire de tournée.
+Par la suite, la tournée _Let's Depart_ s'est étendue à Hong Kong, Guangzhou, Chengdu, Beijing, Shanghai, Shenzhen, Wuhan, Suzhou, Hangzhou, Xiamen et Chongqing. Elle a eu une date supplémentaire au Taipei Arena le 14 septembre 2024. Une Singapourienne faisant une tournée dans la zone mandarine comme si c'était son terrain d'attache.
 
-> **📝 Note du commissaire :** La décision du « tout live sans programme » relève d'une logique économique — plus coûteuse, plus difficile, plus éprouvante. Mais pour Tanya Chua, c'est la ligne de démarcation entre l'auteure-compositrice-interprète et la chanteuse commerciale. Elle aurait pu choisir la version moins chère, moins exigeante, moins chronophage. Elle ne l'a pas fait. Ce choix est la synthèse de ses 26 ans de carrière : le chemin difficile, en accord avec les chansons qu'elle écrit.
+> **📝 Note de l'éditeur :** La décision "entièrement en live, sans programme" est ancrée dans l'économie — plus cher, plus difficile, plus fatigant. Mais pour Tsai Jian-ya, c'est la ligne de démarcation entre une _singer-songwriter_ et une chanteuse commerciale. Elle aurait pu choisir la version économique, facile ou rapide, mais elle ne l'a pas fait. Ce choix est un microcosme de ses 26 ans de carrière : le chemin difficile, tout comme les chansons qu'elle écrit.
 
-### 2024 : la traversée vers _Imperfect Us_
+### 2024 : Crossover avec _Bugu Liangshan De Wo Men_
 
-Le 12 avril 2024, Tanya Chua publie l'album _Imperfect Us : Conception musicale dramatique_. Il s'agit de la bande originale de la série _Imperfect Us_ (diffusée sur Public Television Service / myVideo) — mais son rôle ne se limite pas à « interprète de la BO » : elle est la **conceptrice musicale** de l'ensemble de la série. Six chansons originales et huit pièces de musique dramatique.
+Le 12 avril 2024, Tsai Jian-ya a publié l'album _Bugu Liangshan De Wo Men: Album de conception musicale théâtrale_. Il s'agit de la bande originale du drame télévisé _Bugu Liangshan De Wo Men_ sur CCTV/myVideo : mais son rôle n'était pas seulement celui d'"interprète OST", elle était la **concepteure musicale** de toute la pièce. 6 chansons originales + 8 pistes musicales théâtrales.
 
-L'histoire des origines est singulière : la réalisatrice Hsu Yu-ting, en phase d'écriture du scénario, « entend par hasard » l'album _DEPART_ de Tanya Chua et en est émue ; elle propose spontanément au producteur de l'inviter à composer la musique. Au même moment, Tanya Chua exprime à son agent son désir de travailler sur de la musique dramatique. Les deux parties pensent à l'autre de manière totalement indépendante[^13].
+L'histoire est curieuse : le réalisateur Xu Yuting a été "par hasard" touché par l'album _DEPART_ de Tsai Jian-ya pendant la phase de création du scénario et lui a proposé d'être la compositrice ; en même temps, Tsai Jian-ya avait exprimé à son agent son désir de faire de la musique théâtrale. Les deux ont pensé à l'autre indépendamment[^13].
 
-Le thème principal, _Shànliáng de Wǒmen_ (_Les gentils d'entre nous_), est écrit par Ge Da-wei (paroles) et composé par Tanya Chua. C'est une nouvelle collaboration dans leur partenariat de plus de dix ans — Ge Da-wei est l'un des paroliers les plus renommés de Taïwan, et ses collaborations de longue date avec Tanya Chua s'étendent de _Beautiful Love_ à _Kong Bai Ge_, en passant par de nombreuses chansons de Fish Leong, jusqu'à _Shànliáng de Wǒmen_ en 2024.
+La chanson thème _Good Love_ (Gentille nous) a été écrite par Ge Dawei et composée par Tsai Jian-ya. C'est une autre œuvre parmi les plus dix années de collaboration avec Ge Dawei : Ge Dawei est l'un des paroliers les plus connus à Taïwan, et il collabore longuement avec Tsai Jian-ya sur _Beautiful Love_, _Blank Space_, plusieurs chansons pour Jing Ru Liang, jusqu'à _Good Love_ en 2024.
 
-La musique dramatique représente un défi d'une autre dimension pour une auteure-compositrice-interprète. Écrire un single ne sert qu'une seule chanson ; écrire une musique de drama sert l'ensemble du récit. Tanya Chua a relevé le défi — cet album a ensuite été nommé pour le meilleur album de musique transculturelle lors de la 36ᵉ cérémonie des Golden Melody Awards (sans remporter le prix), mais la traversée elle-même est déjà un prolongement de ses 25 ans de carrière.
+Le travail de conception musicale théâtrale est un autre type d'épreuve pour une _singer-songwriter_. Écrire un single sert une seule chanson ; écrire la musique d'une pièce sert tout le récit. Tsai Jian-ya y a réussi — cet album a été nominé pour le prix du meilleur album musical crossover lors du 36e Golden Melody Award (bien qu'il n'ait pas gagné), mais le crossover lui-même est une extension de ses 25 ans de carrière.
 
-Lors des Golden Melody Awards 2024 (35ᵉ édition), elle ne remporte pas de prix. En 2025, elle écrit _Lián Suǒ Fǎnyìng_ (_Réaction en chaîne_) pour Pets Tseng. Quant à l'avancement d'un nouvel album, elle déclare en interview : « Pas du tout. »
+Elle n'a pas remporté de prix au 35e Golden Melody Award en 2024. En 2025, elle a écrit _Chain Reaction_ pour Tseng Pei-tsu. Concernant les nouveaux albums, elle a dit dans une interview : « Pas du tout. »
 
-Mais « pas du tout de nouvel album » n'a pas la même signification pour une auteure-compositrice-interprète de 25 ans. Elle n'a plus besoin d'un nouvel album pour prouver quoi que ce soit.
+Mais "pas d'album nouveau" signifie quelque chose de différent pour une _singer-songwriter_ de 25 ans. Elle n'a plus besoin de prouver quoi que ce soit avec un nouvel album.
 
 ### Du bar aux extraterrestres
 
-Revenons à cette scène des Golden Melody Awards de 2022. Cette phrase — « Quand les extraterrestres viendront un jour, en écoutant notre musique, ils sauront ce qui s'est passé » — pose en réalité une question immense.
+Revenons au lieu du Golden Melody Award en 2022. La phrase "Quand les extraterrestres viendront, ils sauront ce qui s'est passé en écoutant notre musique" est en réalité une grande thèse.
 
-Elle dit ceci : la musique n'est pas seulement un divertissement, elle est l'enregistrement d'une civilisation. Et les musiciens ne sont pas seulement des interprètes, ils sont les chroniqueurs de cette époque.
+Elle signifie que la musique n'est pas seulement un divertissement, mais un enregistrement de civilisation. Et l'artiste n'est pas seulement un interprète, mais un chroniqueur de son époque.
 
-Pour Tanya Chua, voici ce qu'elle a consigné au cours de ces 26 ans : le manque de confiance d'un claviériste dans un bar en 1996, la tentative d'une Singapourienne s'aventurant dans la musique sinophone en 1999, le pari de quitter une major pour s'installer seule à Taipei en 2006, une chanson écrite en cinq minutes qui devient un classique fredonné en 2007, la preuve d'une double maîtrise — interprète et productrice — en 2008, l'éveil de la quarantaine face au décès d'un ami en écrivant _Yí Shū_ en 2018, l'ambition créative d'écrire un album environnemental structuré par l'odorat en 2021, le moment record de quatre trophées en une soirée aux Golden Melody Awards en 2022, la persévérance artisanale du tout live sans program au Taipei Arena en 2023, la nouvelle dimension de la musique dramatique en 2024.
+Pour Tsai Jian-ya, ces 26 ans ont été le registre des événements suivants : l'incrédulité du bar en 1996, la tentative d'une Singapourienne d'entrer sur la scène mandarine en 1999, le pari de quitter une grande maison de disques pour s'installer seule à Taipei en 2006, l'écriture en cinq minutes d'une chanson devenue populaire en 2007, la preuve du double titre chanteuse/productrice en 2008, l'éveil au milieu de la vie face à la mort avec _Testament_ en 2018, l'ambition créative d'un album environnemental écrit avec l'odorat en 2021, le moment où elle a gagné quatre Golden Melody Awards en une soirée en 2022, l'obstination du travailleur de la scène "entièrement live sans programme" en 2023, et la dimension suivante du crossover musical théâtral en 2024.
 
-Ces événements, mis bout à bout, ne forment pas le CV d'une chanteuse pop, mais le carnet de vie d'une auteure-compositrice-interprète. Chaque décennie, elle écrit des choses différentes, mais elle utilise toujours la même méthode : sa propre mélodie, ses propres paroles, sa propre production, ses propres choix.
+Ces événements ne forment pas le CV d'une chanteuse pop, mais le carnet de bord d'une _singer-songwriter_. Chaque décennie elle a écrit quelque chose de différent, mais elle l'a fait avec la même méthode — sa propre mélodie, ses propres paroles, sa propre production, son propre choix.
 
-Elle n'a jamais obtenu de passeport taïwanais. Mais ses Golden Melody Awards, son studio, ses collaborateurs, ses tournées principales, ses chansons les plus fredonnées — tout cela a grandi sur cette île.
+Elle n'a jamais eu de passeport taïwanais. Mais son Golden Melody Award, son studio, ses collaborateurs, son lieu de concert principal, ses chansons les plus chantées — tout cela est enraciné sur cette île.
 
-« L'identité locale d'une musicienne ne réside pas dans un passeport, mais dans l'endroit où ses chansons ont grandi » — Tanya Chua n'a jamais prononcé ces mots, mais ses 26 ans de carrière en sont la démonstration.
+« L'identité locale d'un artiste ne se trouve pas dans le passeport, mais là où sa musique prend racine », — Tsai Jian-ya n'a jamais dit cela elle-même, mais ses 26 ans de carrière sont la preuve de cette thèse.
 
-Et ce prix de l'album de l'année en 2022 en est la certification officielle.
+Et le prix de l'album de l'année en 2022 est la certification officielle de cette thèse.
 
-**Pour aller plus loin**
+**Lectures complémentaires**
 
-- [Stefanie Sun](../People/孫燕姿) — Chanteuse singapourienne de la même époque, figure du duo des années 2000
-- [A-Mei](../People/張惠妹) — Pour qui Tanya Chua a écrit _Bié Qù Dǎrǎo Tā de Xīn_ et _Jiě Wéi_
-- [Yoga Lin](../People/林宥嘉) — Chanteur sinophone grand public de la même période, parcours d'auteur-compositeur-interprète en miroir
-- [Rainie Yang](../People/楊丞琳) — Pour qui Tanya Chua a écrit _Gūdú Shì Yī Zhǒng Ānquán Gǎn_
-- [Hello Nico](../People/Hello-Nico) — Groupe à la charnière entre indé et grand public à la même période
-- [Chen Chien-chi](../People/陳建騏) — Axe de la production taïwanaise, producteur-auteur-compositeur-interprète de la même génération que Tanya Chua
+- [Teresa Teng](/fr/people/stefanie-sun) — Chanteuse mandarine contemporaine de Singapour, figure des années 2000
+- [Ai-Mei Chang](/fr/people/a-mei) — Tsai Jian-ya lui a écrit _Don't Disturb His Heart_ et _Jiewei_
+- [Lin Yu-jia](/fr/people/yoga-lin) — Chanteur mandarin grand public contemporain, un contrepoint de la voie _singer-songwriter_
+- [Candy Cheung](/fr/people/rainie-yang) — Tsai Jian-ya lui a écrit _Loneliness is a Sense of Security_
+- [Hello Nico](/fr/people/hello-nico-band) — Groupe indépendant / pont entre l'indépendant et le grand public contemporain
+- [Chen Jianqi](/fr/people/chen-chien-chi-music-producer) — axe producteur taïwanais, un producteur _singer-songwriter_ de la même époque que Tsai Jian-ya
 
 ## Références
 
-[^1]: [Tanya Chua remporte 4 prix aux 33ᵉ Golden Melody Awards avec _DEPART_ — The News Lens](https://www.thenewslens.com/article/169098) — Compte rendu intégral des citations sur place à Kaohsiung le 2 juillet 2022, incluant les propos textuels « Je ne veux pas pleurer » et « quand les extraterrestres viendront »
+[^1]: [Tsai Jian-ya remporte 4 prix au Golden Melody Award du 33e édition — Critique Clé Net](https://www.thenewslens.com/article/169098) — Enregistrement complet des citations du site du Taipei Arena en juillet 2022, incluant les verbatim "Je ne veux pas pleurer" et "Quand les extraterrestres viendront".
 
-[^2]: [Tanya Chua — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Récit de la période de bars à Singapour en 1996, lorsque le claviériste lui a dit de la fermer
+[^2]: [Tsai Jian-ya - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Récit de ses débuts dans un bar à Singapour en 1996 où elle fut gronder par un pianiste.
 
-[^3]: [Parcours des premières années de Tanya Chua — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Source textuelle de « Je n'avais jamais envisagé de mettre fin à cette vie de reprises »
+[^3]: [Section des débuts sur la Wikipédia de Tsai Jian-ya](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Source verbatim : "Je n'avais jamais pensé arrêter ce genre de performance de reprises".
 
-[^4]: [Discographie de Tanya Chua — Wikipédia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Premier album en mandarin _Hūxī_ (1999), nomination au meilleur nouvel artiste aux 11ᵉ Golden Melody Awards (2000)
+[^4]: [Liste des œuvres musicales de Tsai Jian-ya - Wikipédia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Enregistrement du premier album national _Huxi_ en 1999 et de la nomination pour le 11e Golden Melody Award en 2000.
 
-[^5]: [Meilleure chanteuse mandarin — 17ᵉ Golden Melody Awards — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Première couronne de Tanya Chua pour _Shuāngqī Dòngwù_ en 2006
+[^5]: [Meilleure chanteuse nationale au 17e Golden Melody Award - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC17%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Enregistrement officiel du premier prix remporté par Tsai Jian-ya avec _Shuangqi Dongwu_ en 2006.
 
-[^6]: [La décision de Tanya Chua après l'Inde en 2006 — Wikipédia et sources multiples](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Source textuelle de « Si je veux continuer à avancer dans la musique, je dois retrouver ma passion première et devenir une auteure-compositrice-interprète à part entière »
+[^6]: [Décision de Tsai Jian-ya après l'Inde en 2006 - Wikipédia + Multi-sources](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E5%81%A5%E9%9B%85) — Source verbatim : "Si je voulais continuer sur la voie de la musique, je devais retrouver mon intention initiale pour la musique et devenir une artiste entièrement créative".
 
-[^7]: [Liste complète des lauréats des 19ᵉ Golden Melody Awards — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Tanya Chua remporte simultanément la meilleure chanteuse mandarin et le meilleur producteur d'album en 2008 pour _Goodbye & Hello_
+[^7]: [Liste complète des prix du 19e Golden Melody Award - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC19%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Enregistrement de la double victoire de Tsai Jian-ya en 2008 : meilleure chanteuse nationale + meilleur producteur d'album, pour l'œuvre _Goodbye & Hello_.
 
-[^8]: [Liste des chansons écrites et produites par Tanya Chua — Wikipédia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Récit complet des chansons écrites et produites pour Faye Wong, Stefanie Sun, A-Mei, Fish Leong et d'autres grandes stars sinophones
+[^8]: [Liste des travaux de production/écriture de Tsai Jian-ya - Wikipédia](https://zh.wikipedia.org/zh-cn/%E8%94%A1%E5%81%A5%E9%9B%85%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8) — Enregistrement complet des chansons écrites et produites pour les A-listers mandariens comme Faye Wong, Teresa Teng, Ai-Mei Chang, Jing Ru Liang.
 
-[^9]: [Meilleure chanteuse mandarin — 23ᵉ Golden Melody Awards — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Troisième couronne de Tanya Chua pour _Shuōdào Ài_ en 2012
+[^9]: [Meilleure chanteuse nationale au 23e Golden Melody Award - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC23%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Enregistrement officiel du troisième prix remporté par Tsai Jian-ya avec _Talking About Love_ en 2012.
 
-[^10]: [Entretien de Tanya Chua sur la création de _Yí Shū_ — The Epoch Times](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — Entretien intégral de 219, incluant le contexte de création de _Yí Shū_, le processus de calme nocturne, le clip en plan-séquence de Ching Ping Yu, entre autres propos textuels
+[^10]: [Interview de création de Tsai Jian-ya sur _Testament_ - Da An Qi Yuan](https://www.epochtimes.com/b5/19/4/2/n11157958.htm) — Interview complète de 2019, incluant le contexte de la création de _Testament_, le processus de calme nocturne et le clip en plan unique réalisé par Yu Jingping.
 
-[^11]: [Liste complète des lauréats des 33ᵉ Golden Melody Awards — The News Lens](https://www.thenewslens.com/article/169082) — Récit complet des quatre prix remportés par _DEPART_ lors des 33ᵉ Golden Melody Awards à Kaohsiung le 2 juillet 2022
+[^11]: [Liste complète des prix du 33e Golden Melody Award - Critique Clé Net](https://www.thenewslens.com/article/169082) — Enregistrement complet des quatre grands prix de _DEPART_ lors du Taipei Arena en juillet 2022.
 
-[^12]: [Concert de Tanya Chua _Let's Depart_ au Taipei Arena — Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — Deux concerts au Taipei Arena en mai 2023, 22 000 billets vendus, chiffre d'affaires de 55 millions de dollars taïwanais, coût scénique de 50 millions, détails du design du « vaisseau Qing Niao de l'univers »
+[^12]: [Concert Tsai Jian-ya _Let's Depart_ au Taipei Small Arena - Marie Claire](https://www.marieclaire.com.tw/entertainment/music/66696) — Détails sur les deux concerts vendus à 22 000 places le 6 et 7 mai 2023, avec un chiffre d'affaires de 55 millions et une scénographie coûtant 50 millions.
 
-[^13]: [BO de _Imperfect Us_ par Tanya Chua — KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — Récit de la sortie de l'album de conception musicale dramatique le 12 avril 2024, incluant l'histoire des origines où Hsu Yu-ting et Tanya Chua ont pensé à l'autre de manière indépendante et simultanée
+[^13]: [OST _Bugu Liangshan De Wo Men_ - KKBOX](https://www.kkbox.com/tw/en/album/WsE--KeDjmG2CAwKc5) — Enregistrement de la sortie de l'album de conception musicale théâtrale le 12 avril 2024, incluant l'histoire où Xu Yuting et Tsai Jian-ya ont pensé à leur collaboration indépendamment.

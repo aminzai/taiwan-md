@@ -2,30 +2,33 @@
 title: 'Les Façonneurs de montagnes : le pari du siècle — une épopée taïwanaise des semi-conducteurs qui a dû limer un mot de son titre avant de pouvoir être prononcée'
 description: 'Sorti le 13 juin 2025, le documentaire Les Façonneurs de montagnes (A Chip Odyssey) raconte l’épopée irremplaçable des semi-conducteurs taïwanais. Mais son titre originel était Bouclier de silicium. Hsiao Chu-chen a passé cinq ans et interrogé plus de 80 personnes pour saisir l’esprit d’une industrie « née dans l’adversité » — pour finir par limer le mot le plus tranchant du titre. Quand ce pays se vante de sa carte stratégique la plus forte, il doit d’abord soupeser comment l’autre rive l’entendra.'
 date: 2026-06-16
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '紀錄片'
 tags:
-  - 'documentaire'
-  - 'TSMC'
-  - 'semi-conducteurs'
-  - 'Hsiao Chu-chen'
-  - 'CNEX'
-  - 'bouclier de silicium'
-  - 'Ben Tsiang'
-  - 'Chen Tien-shun'
+  [
+    'documentaire',
+    'TSMC',
+    'semi-conducteurs',
+    'Hsiao Chu-chen',
+    'CNEX',
+    'bouclier de silicium',
+    'Ben Tsiang',
+    'Chen Tien-shun',
+  ]
+subcategory: '紀錄片'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '36b47295'
-sourceContentHash: 'sha256:04951f7f999b2b98'
-sourceBodyHash: 'sha256:3df28689a2b61ed4'
-translatedAt: '2026-06-17T01:45:00+08:00'
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+translatedFrom: 'Art/造山者世紀的賭注.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T13:50:02.022458+00:00'
 ---
 
 # Les Façonneurs de montagnes : le pari du siècle — une épopée taïwanaise des semi-conducteurs qui a dû limer un mot de son titre avant de pouvoir être prononcée
@@ -166,27 +169,27 @@ Après la projection de juin, Hsiao Bi-khim a déclaré : « ce qui est plus imp
 
 Les deux allocutions sont dignes, et elles intègrent toutes deux le film dans un cadre de récit national. Mais la position que le film lui-même se choisit est en réalité bien plus humble que ces allocutions — Hsiao Chu-chen l’a dit ainsi : « après avoir terminé ce film, je sens moi aussi que je suis une façonneuse de montagnes ; même un petit grain de sable fait partie du mouvement qui forme la montagne »[^45].
 
-## La façonneuse de montagnes n’est en fait pas là
+## Les Façonneurs ne sont pas réellement présents
 
-Le récit revient au soir du 26 juin 2025, dans un cinéma du district de Xinyi.
+L'histoire revient au cinéma du district de Xinyi le soir du 26 juin 2025.
 
-Morris Chang, 94 ans, et son épouse se sont assis au dernier rang et ont regardé tout le film. Quand les lumières de fin se sont rallumées, il a descendu lentement l’allée le masque sur le visage, levé haut ses deux mains, salué la salle d’un geste et remercié chacun[^4]. Hsiao Chu-chen était présente — en cinq ans, elle n’avait jamais réussi à mener une interview frontale avec cette figure centrale parmi les « façonneurs de montagnes » ; à la fin, c’est cette figure centrale elle-même qui s’est présentée devant le film, dans le rôle d’un « spectateur ».
+Le couple Chang, âgé de 94 ans, a regardé l'intégralité du film en dernière rangée. Lorsque les lumières se sont allumées à la fin, il est descendu lentement par l'allée, portant un masque, levant les deux bras et saluant le public[^4]. Hsiao Chu-chen était présente sur place — elle n'avait jamais pu interviewer au sens direct cette figure centrale des « Façonneurs » en cinq ans, jusqu'à ce que cette figure centrale vienne elle-même devant l'écran en tant que « spectatrice ».
 
-> **✦** Ce que l’épopée n’a pas saisi, la réalité l’a comblé.
+> **✦** Ce que le chef-d’œuvre n'a pas montré, la réalité l'a complété.
 
-La tension du film fait alors un tour complet et revient à son point de départ : la personne non interrogée, le mot retiré du titre, l’argent délibérément dispersé — voilà la véritable colonne vertébrale du film. Dans une épopée taïwanaise des semi-conducteurs, il est facile de dire « nous avons bâti une montagne » ; ce qu’il dit réellement, plus difficile à formuler, c’est qu’à l’instant où tout le monde regarde cette montagne, les façonneurs de montagnes de ce pays ont appris à laisser quelque part, entre ce qui peut être dit et ce qui ne peut pas l’être, une histoire pour eux-mêmes.
+La tension de ce film a donc fait un détour pour revenir au point de départ : cet individu qui n'a pas été interviewé, le mot retiré du titre, et l'argent délibérément dispersé — voilà la véritable colonne vertébrale de cette œuvre. Une épopée taïwanaise sur les semi-conducteurs peut facilement raconter « nous avons construit une montagne » ; ce qu'elle raconte réellement, c'est quelque chose de plus difficile à aborder : alors que tout le monde regarde cette montagne, les Façonneurs de cette île ont appris comment se laisser une place dans l'histoire entre ce qui peut être dit et ce qui ne peut pas.
 
-Les chiffres de billetterie qui ont brûlé pendant un an, les projections à l’étranger les unes après les autres, les allocutions de la vice-présidente et de l’ancienne présidente, les éloges du président de l’ESMC — tout cela se dissipera. Mais la silhouette qui s’est levée du dernier rang ce soir-là restera. Il n’a pas marché jusqu’à l’écran ; il est sorti depuis la salle.
+Les chiffres du box-office étalés sur un an, les tournées internationales, les discours du vice-président et de l'ancien président, les éloges du PDG d'ESMC — tout cela s'estompera. Mais la silhouette debout en dernière rangée ce soir-là restera. Il n'est pas apparu sur grand écran ; il est sorti des gradins.
 
-À l’instant où cette île, en se vantant d’elle-même, a appris à soupeser d’abord comment l’autre rive l’entendrait, chaque façonneur de montagnes était en réalité déjà devenu spectateur — regardant comment d’autres parlent de la montagne qu’il a bâtie, comment d’autres l’entendent, comment d’autres entrent y voir, billet à la main.
+Dès le moment où cette île a appris à peser l'autre rive, chaque Façonneur est devenu spectateur — regardant la montagne qu'il a construite, comment les autres en parlent, comment ils l'écoutent, et comment ils achètent leurs billets pour y assister.
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Industrie des semi-conducteurs](../Technology/半導體產業.md) — Le contexte complet de l’industrie taïwanaise de la fonderie de plaquettes, depuis la réunion-petit-déjeuner de 1974 chez Xiao Xinxin jusqu’à C. C. Wei franchissant la Maison-Blanche en 2025 ; le squelette temporel de _Les Façonneurs de montagnes_ se greffe sur cet axe.
-- [Morris Chang](../People/張忠謀.md) — Le protagoniste qui ne s’est pas assis devant la caméra ; le second tome qu’il a lui-même écrit n’est paru qu’un semestre avant la sortie du film.
-- [Nation invisible](../Art/看不見的國家.md) — Documentaire sœur sorti le même jour, dans lequel la réalisatrice américaine Vanessa Hope ouvre, par la voie démocratique, un autre canal de la « valeur de Taïwan ».
-- [Développement des parcs scientifiques](../Technology/科技園區發展.md) — Le Parc scientifique de Hsinchu comme scène physique de la plupart des séquences de _Les Façonneurs de montagnes_, qui, du pari d’une petite ville, devient un nœud de la chaîne d’approvisionnement mondiale.
-- [Tsai Ing-wen](../People/蔡英文.md) — En août 2025, lorsque la recette a dépassé les 25 millions de NT$, l’ancienne présidente, désormais sortie de fonctions, est entrée au cinéma accompagnée de l’ancien vice-président Chen Chien-jen et de son épouse, écrivant pour le film une toile de fond politique.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le contexte complet de la fabrication de puces taïwanaise, du petit déjeuner chez Xiao Xinxin en 1974 à l'entrée de Wei Zhe dans la Maison Blanche en 2025, est le squelette temporel des _Façonneurs_.
+- [Morris Chang](/fr/people/tsmc-morris-chang) — Le personnage principal qui n'est pas apparu devant la caméra a publié son deuxième tome six mois avant la sortie du film.
+- [Nation invisible](/fr/art/invisible-nation) — Un documentaire sœur sorti le même jour, où la réalisatrice américaine Vanessa Hope explore une autre voix de la « valeur taïwanaise » à travers la voie démocratique.
+- [Développement des parcs technologiques](/fr/technology/science-park-development) — Le parc scientifique de Hsinchu, qui est le décor physique de la plupart des scènes des _Façonneurs_, est passé d'un pari de petite ville à un pivot de la chaîne d'approvisionnement mondiale.
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — Lorsque les recettes ont dépassé 25 millions de NT$ en août 2025, l'ancienne présidente est allée au cinéma avec Chen Chien-pang et son épouse, ajoutant un contexte politique à ce film.
 
 ## Crédits des images
 
