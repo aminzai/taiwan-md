@@ -9,13 +9,15 @@ tags: ['夜市', '小吃', '文化', '観光', '庶民生活']
 lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
 sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-05-01T18:02:56+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
 ---
 
 # 台湾の夜市文化

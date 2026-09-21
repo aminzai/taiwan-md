@@ -17,14 +17,16 @@ tags:
   ]
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
+featured: true
+imageLicense: 'CC0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Breakfast_sold_in_taiwan.jpg'
 translatedFrom: 'Food/台灣早餐文化.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:03f68d8696f5da84'
 sourceBodyHash: 'sha256:dc5728577e386104'
 translatedAt: '2026-05-20T05:08:29+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/taiwan-breakfast-hero-set.webp'
+imageCredit: 'K1234567890y / Wikimedia Commons'
 ---
 
 # 台湾の朝食文化

@@ -11,6 +11,8 @@ readingTime: 28
 lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2014%E8%98%87%E6%89%93%E7%B6%A010%E5%91%A8%E5%B9%B4%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E6%9C%83-%E7%A9%BA%E6%B0%A3%E4%B8%AD%E7%9A%84%E8%A6%96%E8%81%BD%E8%88%87%E5%B9%BB%E8%A6%BA-42.jpg'
 translatedFrom: 'Music/蘇打綠.md'
 sourceCommitSha: 'ac048ecf8'
 sourceContentHash: 'sha256:0b7436a5f5ecebd9'

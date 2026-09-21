@@ -31,8 +31,8 @@ sourceCommitSha: '036da279d'
 sourceContentHash: 'sha256:68dcc74d52d8c737'
 sourceBodyHash: 'sha256:24b0d8d16f592539'
 translatedAt: '2026-05-18T05:08:08+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/f/f7/Formosa_Plastics_Group_Mail-Liao_Industrial_Complex%2CMailiao%2C_Yunlin_%28Taiwan%29.jpg
-imageCredit: Mk2010
+image: '/article-images/geography/formosa-plastics-mailiao-complex-yunlin.webp'
+imageCredit: 'Mk2010 / Wikimedia Commons'
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,Mailiao,_Yunlin_(Taiwan).jpg
 ---

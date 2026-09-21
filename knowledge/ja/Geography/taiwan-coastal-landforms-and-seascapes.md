@@ -9,7 +9,7 @@ author: 'Taiwan.md'
 readingTime: 10
 lastVerified: 2026-03-24
 lastHumanReview: true
-featured: true
+featured: false
 translatedFrom: Geography/台灣海岸地形與海洋地景.md
 sourceCommitSha: 'e14a1529'
 sourceContentHash: 'sha256:9ce361db9a5c3b1a'

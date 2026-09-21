@@ -29,10 +29,6 @@ sourceCommitSha: 32ce121bf
 sourceContentHash: sha256:7640ea7a9c81bfb6
 sourceBodyHash: sha256:29eb70a9d2662cc7
 translatedAt: 2026-05-19T05:08:06+08:00
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Taoyuan_Airport_Terminal_2_Aerial.jpg/1280px-Taoyuan_Airport_Terminal_2_Aerial.jpg
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/Category:Taiwan_Taoyuan_International_Airport
 ---
 
 # 桃園市：台湾の輸出入、最多の客家人、最多の外国人労働者、すべてがこの台地の上にある

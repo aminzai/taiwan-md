@@ -28,9 +28,9 @@ sourceCommitSha: 'b457dbbb1'
 sourceContentHash: 'sha256:0d7e5732a8513df0'
 sourceBodyHash: 'sha256:f743a82d302f341a'
 translatedAt: '2026-05-18T05:08:08+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
 imageCredit: 中華民國客家委員會
-imageLicense: CC BY 4.0
+imageLicense: 'OGDL-Taiwan-1.0'
 imageSource: https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg
 ---
 

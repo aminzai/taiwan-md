@@ -32,9 +32,9 @@ sourceCommitSha: 'a5490c04'
 sourceContentHash: 'sha256:244cad849cf26403'
 sourceBodyHash: 'sha256:fd14be167daa0221'
 translatedAt: '2026-06-16T17:04:12Z'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg
-imageCredit: peellden
-imageLicense: CC BY-SA 3.0
+image: '/article-images/geography/kaohsiung-night-skyline-2014.webp'
+imageCredit: 'hngyue photography / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
 imageSource: https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg
 ---
 

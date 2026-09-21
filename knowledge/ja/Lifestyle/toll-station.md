@@ -19,6 +19,8 @@ readingTime: 15
 lastVerified: 2026-07-19
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20080818a.jpg'
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '09ffe560f'
 sourceContentHash: 'sha256:ef6fab2f2ae48840'

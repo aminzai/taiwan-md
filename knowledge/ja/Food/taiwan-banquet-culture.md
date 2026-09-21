@@ -20,6 +20,8 @@ readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 featured: false
+imageLicense: 'CC0 1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 translatedFrom: 'Food/台灣辦桌文化.md'
 sourceCommitSha: '26a67c779'
 sourceContentHash: 'sha256:87996856be7f510f'

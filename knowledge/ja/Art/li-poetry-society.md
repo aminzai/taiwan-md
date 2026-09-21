@@ -21,6 +21,8 @@ tags:
 lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
 translatedFrom: 'Art/笠詩社.md'
 sourceCommitSha: '65a87b489'
 sourceContentHash: 'sha256:89548c331e33bc3b'

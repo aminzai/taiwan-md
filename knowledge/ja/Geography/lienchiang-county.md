@@ -29,8 +29,8 @@ sourceCommitSha: '2f3bfdbf'
 sourceContentHash: 'sha256:8ae350615e660491'
 sourceBodyHash: 'sha256:2da5583381fa39ad'
 translatedAt: '2026-05-18T05:08:08+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png
-imageCredit: Sleepingstar
+image: '/article-images/geography/matsu-islands-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Matsu_Montage.png
 ---

@@ -27,7 +27,7 @@ researchReport: reports/research/2026-07/大支-outline.md
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
-imageLicense: '姓名標示授權（政府ウェブサイト・データオープン宣言）'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
 rationale:
   why_this_hook: '台南と台湾語ラップという入口から書くことで、大支を政治的な意思表明の人物としてのみ描くことを避けます。'

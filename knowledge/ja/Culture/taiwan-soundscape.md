@@ -9,13 +9,15 @@ tags: ['サウンドスケープ', '聴取', '都市文化', '知覚', '台北MR
 lastVerified: 2026-06-26
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Culture/台灣聲景.md'
 sourceCommitSha: '8b61d368'
 sourceContentHash: 'sha256:819a7ee143f7b981'
 sourceBodyHash: 'sha256:efd1cd3b8e9f03d6'
 translatedAt: '2026-06-27T00:54:19+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/culture/shilin-night-market-soundscape-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
 ---
 
 # 台湾のサウンドスケープ：ごみ収集車のクラシック音楽、MRTの鳥の声、そして聞こえてはいてもほとんど聴かれていない島

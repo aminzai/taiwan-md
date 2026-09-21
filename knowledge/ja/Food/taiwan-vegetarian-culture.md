@@ -10,13 +10,15 @@ lastHumanReview: true
 author: 'Taiwan.md'
 featured: false
 readingTime: 8
+imageLicense: 'CC BY 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwanese_vegetarian_sign.jpg'
 translatedFrom: 'Food/台灣素食文化.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:b6884a554f5b7c89'
 sourceBodyHash: 'sha256:6d448c8add3f1fbd'
 translatedAt: '2026-05-17T05:33:00Z'
-image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Taiwanese_vegetarian_sign.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/taiwanese-vegetarian-sign.webp'
+imageCredit: 'user:takoradee / Wikimedia Commons'
 ---
 
 # 台湾のベジタリアン文化

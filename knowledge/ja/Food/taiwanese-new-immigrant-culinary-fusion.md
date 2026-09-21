@@ -10,13 +10,15 @@ readingTime: 10
 lastVerified: 2026-03-20
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
 sourceBodyHash: 'sha256:6806ae061b784232'
 translatedAt: '2026-05-01T19:52:32+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
+imageCredit: 'Tayzar44 / Wikimedia Commons'
 ---
 
 # 台湾の新住民フードフュージョン
