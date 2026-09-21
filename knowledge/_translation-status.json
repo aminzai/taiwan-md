@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T03:16:12+08:00",
-    "zhCommitHead": "a1e64516e",
+    "lastUpdated": "2026-09-22T03:26:20+08:00",
+    "zhCommitHead": "c32a4f5b0",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1049,
-        "stale": 50,
+        "fresh": 1050,
+        "stale": 49,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 67,
+        "fresh": 1034,
+        "stale": 66,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1018,
+        "fresh": 1019,
         "stale": 44,
-        "metadata_stale": 45,
+        "metadata_stale": 44,
         "missing": 17,
         "orphan": 0
       },
@@ -35748,8 +35748,8 @@
           "sourceContentHash": "sha256:bcce97e3493eec98",
           "sourceBodyHash": "sha256:c5eb598a94be9567",
           "translatedAt": "2026-09-21T23:34:05+08:00",
-          "translationLastCommit": "09302111",
-          "translationLastModified": "2026-09-10T03:30:44+08:00",
+          "translationLastCommit": "c32a4f5b",
+          "translationLastModified": "2026-09-22T03:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 35883,
@@ -114712,8 +114712,8 @@
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
           "translatedAt": "2026-09-21T17:45:26.330726+00:00",
-          "translationLastCommit": "4ff6b680",
-          "translationLastModified": "2026-09-12T08:15:43+08:00",
+          "translationLastCommit": "c32a4f5b",
+          "translationLastModified": "2026-09-22T03:16:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 55240,
@@ -126133,19 +126133,17 @@
         "vi": {
           "path": "vi/People/li-mei-shu.md",
           "translatedFrom": "People/李梅樹.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:7bf4114050e0bd18",
           "sourceBodyHash": "sha256:56cd3707ce723649",
-          "translatedAt": "2026-07-26T15:32:43+08:00",
+          "translatedAt": "2026-09-22T02:06:15+08:00",
           "translationLastCommit": "a6b4758f",
           "translationLastModified": "2026-07-26T18:00:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13269,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 13393,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/li-mei-shu.md",
@@ -150816,17 +150814,17 @@
         "ko": {
           "path": "ko/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cec5a64527d2ad7f",
-          "sourceBodyHash": "sha256:c88724fc04366f08",
-          "translatedAt": "2026-04-14T03:55:14+08:00",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T19:07:34.352531+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 18972,
-          "status": "stale",
-          "reason": "footnote-loss (40→0)"
+          "footnoteDefs": 40,
+          "bytes": 53795,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-fruit-kingdom.md",
@@ -184173,19 +184171,17 @@
         "es": {
           "path": "es/Geography/keelung-city.md",
           "translatedFrom": "Geography/基隆市.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:d96d5a768e497ec1",
-          "sourceBodyHash": "sha256:a875e0cc381f5fed",
-          "translatedAt": "2026-06-16T17:04:27Z",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2f468b2d4bb51497",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T19:09:33.957411+00:00",
           "translationLastCommit": "2e0a3f40",
           "translationLastModified": "2026-09-22T01:09:14+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 47421,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -4"
+          "bytes": 47306,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/keelung-city.md",
