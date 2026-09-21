@@ -133,7 +133,7 @@ Y el mercado de pescado de Kanzaiding (mencionado antes) es en realidad el verda
 
 ## Frente a las casas coloridas de Zhengbin, las ruinas de Agenna
 
-![Casas coloridas de la calle del puerto pesquero de Zhengbin, agosto de 2025. Durante el mandato del alcalde Lin Youchang, en colaboración con la directora del Departamento de Paisaje de la Universidad Cultural de Taiwán, Guo Qiongying, se pintaron las viejas casas junto al puerto con 55 colores distintos. Enfrente se encuentran las ruinas del astillero Agenna, visibles en el mismo encuadre.](/article-images/geography/keelung-01.webp)
+![Casas coloridas de la calle del puerto pesquero de Zhengbin, agosto de 2025. Durante el mandato del alcalde Lin Youchang, en colaboración con la directora del Departamento de Paisaje de la Universidad Cultural de Taiwán, Guo Qiongying, se pintaron las viejas casas junto al puerto con 55 colores distintos. Enfrente se encuentran las ruinas del astillero Agenna, visibles en el mismo encuadre.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
 _Casas coloridas de la calle del puerto pesquero de Zhengbin, 2025-08-12. Foto: colaborador de Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
 
 Si quieres ver cómo una ciudad gestiona sus ruinas, ve al puerto pesquero de Zhengbin.
