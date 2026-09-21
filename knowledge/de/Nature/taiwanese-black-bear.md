@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-13T00:44:08+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T14:13:34.624927+00:00'
 ---
 
 # Taiwan-Schwarzer Bär
@@ -53,27 +53,27 @@ Die Zahl der Bären wird oft ohne Klärung, welche Frage sie beantwortet, zusamm
 > **📝 Redaktionsnotiz**
 > Für den Schutz von Bären ist es entscheidend zu verstehen, wie jede Zahl entstanden ist und welche Frage sie beantwortet – nicht nach einer scheinbar präzisen Einzahl zu suchen. Solange die Schätzung von 1.200 Tiere noch angepasst werden kann, sollte die Unsicherheit offen bleiben, damit die grobe Schätzung wissenschaftlich nutzbar bleibt.
 
-## Unter dem weißen V verbirgt sich ein Bär, der nicht in einer Höhle lebt
+## Unter dem weißen V liegt ein Bär, der nicht in einer Höhle lebt
 
-Der Taiwan-Schwarze Bär (wissenschaftlicher Name: _Ursus thibetanus formosanus_) hat schwarzes Fell, runde Ohren, kurzen Schwanz und ein gelb-weißes V- oder Halbmondmuster auf der Brust – ein eindeutiges Merkmal, das Verwechslungen mit anderen Bären in Taiwan ausschließt. Erwachsene Tiere wiegen zwischen 60 und 150 Kilogramm und sind 130 bis 180 Zentimeter lang.[^2]
+Der Formosane Schwarze Bär (_Ursus thibetanus formosanus_) ist durch sein schwarzes Fell, seine runden Ohren, seinen kurzen Schwanz und das gelbweiße V- oder halbmondförmige Muster auf der Brust charakterisiert. Dies macht ihn innerhalb der Bärenarten Taiwans einzigartig identifizierbar. Erwachsene Tiere wiegen zwischen 60 und 150 Kilogramm und sind etwa 130 bis 180 cm lang. [^2]
 
-Er lebt nicht nur „tief im Wald“. Offizielle Daten zeigen, dass er in Höhenlagen von 300 bis 3.700 Metern beobachtet wurde; die Hauptverteilung liegt weiterhin zwischen 1.000 und 2.500 Metern in der Zentralgebirgsregion. Das zeigt, dass der Taiwan-Schwarze Bär verbundenen Wald braucht, um sich fortzubewegen, zu fressen und sich fortzupflanzen. Ein einzelner Schutzgebiet reicht nicht aus.[^2]
+Er lebt nicht nur in den „tiefen Wäldern“. Offizielle Daten verzeichnen seine Vorkommen in Bergregionen von 300 bis 3.700 Metern Höhe, wobei die Hauptverteilung sich im Wald zwischen 1.000 und 2.500 Metern des Zentralgebirges befindet. Dies bedeutet, dass der Formosane Schwarze Bär zusammenhängende Wälder benötigt, um wandern, Nahrung suchen und sich fortpflanzen zu können. Die Grenzen eines einzelnen Schutzgebietes reichen bei Weitem nicht aus. [^2]
 
-Der Taiwan-Schwarze Bär ruht nicht über den Winter und ist das ganze Jahr über aktiv. Er hat keine feste Höhle und ist hauptsächlich tagsüber aktiv; in Sommer und Herbst steigt die Aktivität. Im Herbst, wenn die Kastanien reif sind, kann sich die Nachtaktivität erhöhen. Radio-Tracking-Studien im Yushan-Nationalpark schätzen die jährliche Aktivitätsfläche eines Individuums auf 27 bis 202 Quadratkilometer.[^2] [^5]
+Der Formosane Schwarze Bär überwintert nicht; er ist das ganze Jahr aktiv. Er hat keine festen Baue und ist tagsüber am aktivsten, wobei die Aktivität im Spätsommer und Herbst zunimmt. Die Funkverfolgung im Yushan Nationalpark schätzt den jährlichen Aktivitätsradius eines Individuums auf etwa 27 bis 202 Quadratkilometer. [^2] [^5]
 
-### Ein Jahr bringt nur wenige Jungtiere
+### Wie viele Jungtiere werden pro Jahr geboren?
 
-Die Fortpflanzungszeit des Taiwan-Schwarzen Bären liegt etwa im Juni bis August. Nach der Paarung wird die Embrioreifung verzögert; die Mütter gebären in der Regel von Dezember bis Februar des Folgejahres, meist ein bis drei Jungtiere pro Wurf. Die Jungtiere bleiben bis zur nächsten Fortpflanzungssaison bei der Mutter, bevor sie sich langsam von ihr trennen.[^2]
+Die Brutzeit des Formosanen Schwarzen Bären liegt ungefähr zwischen Juni und August. Nach der Paarung erfolgt eine verzögerte Einnistung, und die Mutterbären gebären typischerweise von Dezember bis Februar des Folgejahres, meist ein bis drei Jungtiere pro Wurf. Die Jungen müssen bei der Mutter bleiben, bis zur nächsten Brutzeit, bevor sie langsam abziehen. [^2]
 
-Da die Mütter eine feste Fortpflanzungszeit haben, müssen die Jungtiere bei ihrer Mutter lernen, wie sie Nahrung finden, Gefahren erkennen und den Wald nutzen – die Populationserholung braucht Zeit. Wenn Studien zeigen, dass die Anzahl der Nachweise zunimmt, prüfen die Forscher gleichzeitig das Alter der Fortpflanzung, die Überleblichkeit der Jungtiere und die individuelle Identifikation verschiedener Generationen, um zu bestimmen, ob die Zunahme auf verbesserte Beobachtungsbedingungen oder eine nachhaltige Populationsentwicklung zurückzuführen ist.[^2] [^4]
+Da die Mütter einen festen Brutzyklus haben, müssen auch die Jungtiere bei der Mutter lernen, Nahrung zu finden, Gefahren zu erkennen und den Wald zu nutzen; eine Erholung der Population benötigt Zeit. Wenn Daten zeigen, dass die Beobachtungszahlen steigen, überprüfen Forscher gleichzeitig das Reproduktionsalter, die Überlebensrate der Jungen und die Identifizierung von Individuen verschiedener Generationen, um festzustellen, ob es sich um mehr Sichtungen oder um eine nachhaltige Population handelt. [^2] [^4]
 
-![Tierische Fütterungsumgebung des Taiwan-Schwarzen Bären als visuelle Referenz für Körperform, krumme Klauen und Brustmuster](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Formosaner Schwarzer Bär in einer Zuchtumgebung, zeigt Körperbau und Brustmuster](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_ Dieses Foto zeigt eine künstlerische Fütterungsumgebung des Taiwan-Schwarzen Bären als Referenz für Körperform, krumme Klauen und Brustmuster – nicht als Beweis für die Verbreitung im wilden Taiwans. Bild: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Bild wurde archiviert._
+_Dieses Foto ist eine Bildaufnahme des Formosanen Schwarzen Bären in einer Zuchtumgebung und dient als visuelle Referenz für den Körperbau, die langen Krallen und das Brustmuster; es stellt keinen Beweis für die Wildverbreitung auf Taiwan dar. Bild: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Das Bild wurde dem Projekt hinzugefügt._
 
-![Illustration des Taiwan-Schwarzen Bären mit weißem V-Muster auf der Brust](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Illustration des Formosanen Schwarzen Bären mit weißem V-Muster auf der Brust](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_ Diese Illustration dient als schematische Darstellung der Körperform und des Brustmusters des Taiwan-Schwarzen Bären – kein Wildbild. Bild: SilverSea Design / Davidzdh, CC BY 4.0, Wikimedia Commons. Bild wurde archiviert._
+_Diese Illustration dient zur Veranschaulichung des Körperbaus und des Brustmusters des Formosanen Schwarzen Bären und ist kein Foto eines Wildtieres. Bild: SilverSea Design/林慧秋 Chofy Lin, CC BY 4.0, Wikimedia Commons. Das Bild wurde dem Projekt hinzugefügt._
 
 ## Was er isst, bestimmt, wohin er geht
 
@@ -130,21 +130,21 @@ _ Dieses Foto stammt aus der Ausstellung im Nan’an-Besucherzentrum und dient a
 
 _ Offizielles Video des Yushan-Nationalparks „Yushan züchtet Bären“: Themen sind Waldlebensraum und Schutzstudien, erklärt, warum Bären zusammenhängende Wälder brauchen._
 
-## Wenn der Mensch auf den Bär trifft: Zuerst menschliche Versuchungen entfernen
+## Beim Treffen von Mensch und Bär zuerst die menschlichen Versuchungen wegräumen
 
-Das offizielle Propagationsvideo des Yushan-Nationalparks „Bär trifft auf Menschen – Encounter a Formosan black bear“ fasst Verhaltensweisen, Verbreitungsmuster und Tipps für den Umgang mit Bären in einem kurzen Film für Wanderer zusammen. In Kombination mit schriftlichen Anleitungen hilft es, den Abstand zu „Bären halten“ von einer abstrakten Regel zu einer konkreten Vorbereitung für den Bergweg zu machen.[^11]
+Das vom Yushan Nationalpark Management erstellte offizielle Informationsvideo „Encounter a Formosan black bear“ fasst das Verhalten, den Verbreitungsraum des Schwarzbären und das Vorgehen im Begegnungsfall in einem Kurzfilm zusammen, der vor einer Wanderung angesehen werden kann. In Verbindung mit den schriftlichen Anweisungen verwandelt dies die abstrakte Regel „Abstand halten“ in eine konkrete Vorbereitung vor dem Aufbruch ins Gelände.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Bär trifft auf Menschen – Encounter a Formosan black bear | Offizielles Propagationsvideo des Yushan-Nationalparks" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="熊熊遇見 Encounter a Formosan black bear｜玉山國家公園管理處官方宣導影片" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_ Offizielles Propagationsvideo des Yushan-Nationalparks: Ausgehend von Verhaltensweisen und Verbreitung des Bären, wie man unerwünschte Begegnungen im Wald vermeiden kann._
+_Offizielles Informationsvideo des Yushan Nationalparks: Wie man unnötige Mensch-Bär-Kontakte vor dem Betreten des Gebiets reduziert, basierend auf den Gewohnheiten und der Verbreitung des Schwarzbären._
 
-Die offizielle Anleitung des Yushan-Nationalparks erinnert daran, dass der Taiwan-Schwarze Bär in der Regel wachsam und schüchtern ist und sich bei Wahrnehmung von Menschen entfernt. Für Wanderer ist die praktischste Vorbereitung, die eigene Nahrung gut zu verwahren und nicht als Anreiz für Bären zu dienen. Beim Verlassen des Parks muss alles – Müll, Küchenabfälle und jede Art von Nahrung – mitgenommen werden.[^3]
+Die offiziellen Hinweise des Yushan Nationalparks weisen darauf hin, dass die Taiwan-Schwarzbären in der Regel scheu und geheimnisvoll sind und meistens fliehen, nachdem sie Menschen gespürt haben. Die praktischste Vorbereitung für Wanderer ist es daher, ihr Essen sicher zu verstauen und es nicht zum Grund zu machen, warum ein Bär sich nähert. Beim Verlassen des Gebiets müssen Müll, Lebensmittelreste und sämtliches Essen mitgenommen werden.[^3]
 
-Sollte ein Bär getroffen werden, rät das Personal, ruhig zu bleiben, leise und schnell vom Ort zu gehen – nicht zu jagen, nicht zu füttern und nicht zu versuchen, ein Foto von ihm zu machen. Wanderer können Bärenklingeln oder Pfeifen tragen, um Lärm zu erzeugen, in Gruppen wandern und bei Sichtung eines Bären oder seiner Spuren unverzüglich die zuständigen Behörden zu informieren. Die offizielle Anleitung des Yushan-Nationalparks ist klar: „Wenn Sie einen Bär sehen, bleiben Sie ruhig und verlassen Sie den Ort schnell und leise.“[^3]
+Sollte tatsächlich ein Schwarzbär gesichtet werden, empfiehlt der Park die Beibehaltung der Ruhe, Stille und eine schnelle Entfernung vom Ort; nicht jagen, nicht füttern und nicht versuchen, sich für Fotos zu nähern, ist die gemeinsame Grundregel jeder Begegnungsanleitung. Beim Wandern kann man einen Bärenspinner oder Pfeife mitnehmen, um Geräusche zu machen, in Gruppen gehen und bei Sichtung eines Schwarzbären oder von Spuren die zuständige Verwaltung benachrichtigen. Der Originaltext des Yushan Nationalparks sagt sehr direkt: „Wenn Sie einen Schwarzbären sehen, bleiben Sie ruhig, seien Sie leise und entfernen Sie sich schnell vom Ort.“[^3]
 
-Diese Maßnahmen halten den Wald offen und begrenzen Begegnungen auf kurze, rückzugsfähige Distanzen. Der Direktor der Nationalparks, Wang Chen-ji, betonte, dass die Schutzziele nun klar in Richtnung „Prävention und Management“ verschoben sind.[^10] Die Kontrolle der menschlichen Nahrungsquellen ist in der Regel wirksamer und schneller als es, die Bären daran zu gewöhnen, Taschen zu durchstöbern.
+Diese Vorgehensweisen halten das Waldgebiet offen und begrenzen Begegnungen auf kurze, zurückziehbare Distanzen. Wang Cheng-qi, der Direktor des Nationalparkamtes, erklärte, dass das Schutzziel „eindeutig zu ‚Prävention und Management gleichermaßen‘ gewechselt“ wurde.[^10] Die Verwaltung menschlicher Nahrungsquellen ist in der Regel früher und einfacher wirksam als die Wartezeit, bis der Bär sich an das Durchwühlen von Rucksäcken gewöhnt hat.
 
 ## Der Bär darf nicht nur als süßes Bild bleiben
 
@@ -200,40 +200,40 @@ Jede Methode hat ihre eigenen Schwächen – erst in Kombination liefern sie gen
 > **📝 Redaktionsnotiz**
 > Naturschutzforschungsdaten sind wie verschiedene Stimmen, die aus dem Wald zurückkehren. Kameras sehen eine Silhouette, Genetikdaten identifizieren ein Individuum, Tracker hinterlassen eine Bewegungsroute. Keine einzelne Datenquelle kann den gesamten Wald repräsentieren – doch wenn sie alle zusammenkommen, entsteht nach und nach der unsichtbare Pfad der Bären.
 
-## Bildnachweise
+## Bildquellen
 
-Dieser Artikel verwendet 6 lizenzfreie oder offene Bilder von Wikimedia Commons als direkte Hotlinks, ohne die Bilddateien herunterzuladen oder die Bilder fälschlicherweise als Beweis für Wildbeobachtungen oder geografische Verbreitung in Taiwan zu verwenden. Die Lizenzen und Quellen sind wie folgt angegeben.
+Dieser Text verwendet 6 Bilder von Wikimedia Commons, die unter freier oder lizenzfreier Nutzung stehen, und stellt diese nicht fälschlicherweise als reale Exemplare oder Verbreitungsgebiete des Bären auf Taiwan dar. Die Lizenzen und Quellen der einzelnen Bilder sind wie folgt:
 
-- **Formosan black bear in künstlerischer Haltung**：[File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Formosan black bear im Shoushan-Tiergarten**：[File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, lizenziert gemäß der Open Information Announcement der Shoushan-Tiergarten-Website, Quellenangabe erforderlich. Hotlink: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Illustration des Taiwan-Schwarzen Bären**：[File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Lin Huiqiu Chofy, CC BY 4.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Formosan black bear Foto**：[File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Formosan black bear suckling cubs Foto**：[File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Ausstellungsfoto des Taiwan-Schwarzen Bären im Nan’an-Besucherzentrum**：[File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Archiviert unter: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Formosan Black Bear in künstlicher Umgebung**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Taiwanischer Schwarzbär im Shoushan Zoo**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, freigegeben durch die Government Website Open Information Announcement des Shoushan Zoos, Quellenangabe erforderlich. Hotlink: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Illustration des Taiwanischen Schwarzbären**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — 銀海設計 SilverSea Design / 林慧秋 Chofy Lin, CC BY 4.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Foto des Formosan Black Bear**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Foto von Formosan Black Bear mit Säuglingen**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Hotlink: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Foto des Taiwanischen Schwarzbären im Na'an Besucherzentrum**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — 舟集 Toadboat, CC BY-SA 4.0. Im Projekt gespeichert: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
-## Quellenangaben
+## Referenzmaterialien
 
-[^1]: [Taiwan wird zu einem Land der Bären – auf dem Weg zur Friedenspräsenz zwischen Menschen und Bären](https://www.forest.gov.tw/news/0076122) — Forst- und Naturschutzamt, 2025-05-16. Enthält 2.034 dokumentierte Fälle von 2011–2025, Veränderungen der Verwaltungsbezirke, Höhenverteilung, Waldwiederherstellung und Politik für das Zusammenleben von Menschen und Bären.
+[^1]: [Taiwan tritt in eine Nation mit Bären ein und widmet sich dem friedlichen Zusammenleben von Mensch und Bär](https://www.forest.gov.tw/news/0076122) — Landwirtschaftsministerium, Forst- und Naturschutzbehörde, 2025-05-16. Liefert 2.034 Fundaufzeichnungen aus den Jahren 2011–2025, Veränderungen der Verwaltungszonen, Höhenentwicklungen, Waldrenaturierung und Politik des Zusammenlebens von Mensch und Bär.
 
-[^2]: [Taiwan-Schwarzer Bär – Wissenschaftliche Information](https://www.ysnp.gov.tw/StaticPage/Science) — Yushan-Nationalpark, Forst- und Naturschutzverwaltung. Enthält Klassifikation, äußere Merkmale, Höhenverteilung, Fortpflanzung, Ernährung, Jahresaktivität und Aktivitätsfläche.
+[^2]: [Wissenswertes über asiatische Schwarzbären in Taiwan](https://www.ysnp.gov.tw/StaticPage/Science) — Nationalparkverwaltung des Innenministeriums, Verwaltung des Yushan Nationalparks. Liefert Daten zu Klassifizierung, Aussehen, Verbreitungshöhe, Fortpflanzung, Ernährung, ganzjähriger Aktivität und Aktivitätsbereich.
 
-[^3]: [Zusammenleben mit Bären](https://www.ysnp.gov.tw/StaticPage/Coexist) — Yushan-Nationalpark, Forst- und Naturschutzverwaltung. Enthält offizielle Anleitungen für den Umgang mit Bären, Nahrungsmanagement, Gruppenwanderung und Meldung von Bärenspuren.
+[^3]: [Zusammenleben mit Bären](https://www.ysnp.gov.tw/StaticPage/Coexist) — Nationalparkverwaltung des Innenministeriums, Verwaltung des Yushan Nationalparks. Liefert offizielle Richtlinien für Begegnungen mit Bären, Lebensmittelmanagement, Begleitung, Meldung und Erkennung von Bärenspuren.
 
-[^4]: [Forstschutz schätzt Taiwan-Schwarzen Bären auf etwa 1.200 Tiere – Bau eines langfristigen Aufnahmecenters geplant](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, 2026-03-23. Bericht über die grobe Schätzung von 1.200 Tieren, Einschränkungen der Datenrepräsentativität, mögliche Anpassungen und Planung eines langfristigen Aufnahmecenters.
+[^4]: [Erste Schätzung der Forstschutzbehörde: Etwa 1200 asiatische Schwarzbären in Taiwan; langfristiges Auffangzentrum soll gebaut werden](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News Agency, 2026-03-23. Berichtet über die erste Schätzung von etwa 1.200 Tieren, die Einschränkungen der Datenrepräsentativität, mögliche Nachkorrekturen und die Planung eines langfristigen Auffangzentrums.
 
-[^5]: [Digitale Sonderausstellung der taiwanesischen Nationalparks](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Forst- und Naturschutzverwaltung. Enthält die Ökologie des Taiwan-Schwarzen Bären, die Forschungsgeschichte seit 1996, Untersuchungen von Verletzungen von 1998–2001, genetische Individuenidentifikation und Schutzaktionen.
+[^5]: [Online-Sonderausstellung des digitalen Schatzkammerns der Nationalparks in Taiwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Nationalparkverwaltung des Innenministeriums. Organisiert Ökologie der asiatischen Schwarzbären in Taiwan, Forschungsgeschichte seit 1996, Schadensuntersuchungen von 1998–2001, genetische Individuenerkennung und Naturschutzförderung.
 
-[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Enthält Ausscheidungsdaten, Nahrungsreste und Interviews mit indigenen Jägern aus dem Yushan-Nationalpark von 1998–2000.
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Bietet Studien zu Fallen, Nahrungsspuren und Interviews mit indigenen Jägern im Yushan Nationalpark von 1998–2000.
 
-[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, University of Michigan Deep Blue, 2024. Vergleicht Aktivitätsfläche, Bewegungsmuster und Habitatwahl von 6 verletzten und 9 gesunden Bären im Yushan-Nationalpark.
+[^7]: [Auswirkungen von Fallstricken auf die Raumnutzung gefährdeter asiatischer Schwarzbären in Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue University of Michigan, 2024. Vergleicht den Aktivitätsbereich, die Mobilität und die Lebensraumwahl von 6 verletzten und 9 gesunden Schwarzbären im Yushan Nationalpark.
 
-[^8]: [Modul 3: Der Weg nach Hause](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Nationales Museum für Naturwissenschaften, 2021. Erklärt die Fütterung, das Training für das Leben im Freien und die notwendigen Fähigkeiten des Nan’an-Jungen vor der Rückkehr in die Wildnis.
+[^8]: [Modul Drei: Der Weg nach Hause](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — National Museum of Natural Sciences, 2021. Erklärt die Pflege, das Wildtier-Training und die notwendigen Lebenskompetenzen für den Wiedereintritt in die Wildnis von kleinen Schwarzbären aus Nan'an.
 
-[^9]: [Mission und Aufgaben: Aktionsplan für den Taiwan-Schwarzen Bären](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Taiwan-Schwarzer-Bär-Schutzvereinigung. Enthält Schutzziele für menschliche Interaktion, illegellen Handel, Lebensraummanagement, Forschung, Bildung, Kapazitätsaufbau und politikgesetzliche Maßnahmen.
+[^9]: [Mission und Aufgabe: Leitlinien zum Naturschutz der asiatischen Schwarzbären in Taiwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Verein zum Schutz der asiatischen Schwarzbären in Taiwan. Organisiert Naturschutzziele wie Mensch-Bär-Interaktion, illegale Handelsgeschäfte, Lebensraummanagement, Forschung, Bildung, Kapazitätsentwicklung und Gesetzgebung.
 
-[^10]: [Nur damit er sicher im Wald bewegen kann – 30 Jahre Schutz des Taiwan-Schwarzen Bären auf seiner Heimater](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Forst- und Naturschutzverwaltung, 2026. Erklärt die Integration der drei Hochgebirgs-Nationalparks, Lebensraumkorridore, Nahrungsmanagement, technische Frühwarnsysteme und lokale Beteiligung.
+[^10]: [Nur damit sie frei im Wald laufen können: Nationalparks schützen den Weg nach Hause für asiatische Schwarzbären in Taiwan seit 30 Jahren](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Nationalparkverwaltung des Innenministeriums, 2026. Erklärt die integrierten Ansätze von drei Hochgebirgsnationalparks, Korridoren, Lebensmittelmanagement, technologischer Warnung und lokaler Beteiligung.
 
-[^11]: [Bärenvideos](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Yushan-Nationalpark, Forst- und Naturschutzverwaltung. Offizielle Videoseite mit „Bär trifft auf Menschen – Encounter a Formosan black bear“ und „Yushan züchtet Bären“, Themen sind Verhaltensweisen, Verbreitung, Umgang mit Bären, Waldlebensraum und Schutzstudien.
+[^11]: [Schwarzbär-Videos](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Nationalparkverwaltung des Innenministeriums, Verwaltung des Yushan Nationalparks. Die offizielle Videoseite listet Videos wie „Encounter a Formosan black bear“ und „Yushan Bear Rearing“ auf, deren Inhalte Ökologie, Verbreitungsgebiete, Umgang mit Bären, Waldlebensräume und Naturschutzforschung umfassen.
 
 ## Weiterführende Literatur
 

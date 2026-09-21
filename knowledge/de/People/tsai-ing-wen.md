@@ -3,8 +3,16 @@ title: 'Tsai Ing-wen: Von der Nacht der Niederlage zu 8,17 Millionen Stimmen –
 description: 'Am 14. Januar 2012 verlor Tsai Ing-wen die Präsidentschaftswahl mit einem Rückstand von 797.561 Stimmen; acht Jahre später gewann sie mit 8.170.231 Stimmen und stellte damit den höchsten Stimmenrekord in Taiwans Geschichte der direkten Präsidentschaftswahl auf. Von der Gelehrten für internationales Handelsrecht zur ersten Präsidentin hinterließ sie Errungenschaften mit der Entschuldigung gegenüber den indigenen Völkern, dem Sondergesetz zur gleichgeschlechtlichen Ehe, der Rentenreform und der Aufrechterhaltung des Status quo – und ließ zugleich unerledigte Fragen zu Justiz, Wohnen, Energie und den Beziehungen über die Taiwanstraße zurück. Es waren acht Jahre, in denen ruhige Führung zur Institution wurde und die Institution ihre eigenen Lücken hinterließ.'
 date: 2026-03-17
 category: 'People'
+tags:
+  [
+    'Tsai Ing-wen',
+    'Präsidentin',
+    'Weibliche Führung',
+    'Demokratie',
+    'Politik',
+    'Indigene Völker',
+  ]
 subcategory: '政治與民主'
-tags: ['Tsai Ing-wen', 'Präsidentin', 'Weibliche Führung', 'Demokratie', 'Politik', 'Indigene Völker']
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-12
@@ -17,9 +25,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:dcecf3cea0744f65'
-translatedAt: '2026-08-19T02:08:47+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T14:20:33.596626+00:00'
 ---
 
 # Tsai Ing-wen: Von der Nacht der Niederlage zu 8,17 Millionen Stimmen – acht Jahre Präsidentschaft in Zurückhaltung
@@ -139,25 +148,25 @@ Eine andere Landkarte expandierte dagegen in die entgegengesetzte Richtung. Der 
 
 Daher sind „weniger diplomatische Partner“ und „mehr internationale Unterstützung“ beide wahr, messen aber Verschiedenes. Erstere zählt die Staaten, die die Republik China anerkennen; Letztere beschreibt substanzielle Verbindungen ohne formale diplomatische Anerkennung. Die Regierung Tsai entschied, die begrenzten Ressourcen auf Letzteres zu setzen; diese Wahl erhöhte Taiwans Präsenz in demokratischen Ländern, konnte die formelle diplomatische Anerkennung aber nicht vor weiterem Verlust bewahren. Wie der Leser diese Wahl bewertet, hängt davon ab, ob man den Kern der Diplomatie in Titel, in substanzieller Zusammenarbeit oder in der Unverzichtbarkeit beider sieht.
 
-## Nach dem Amtsende: erst die Regeln ansehen, dann hineingehen
+## Nach dem Amt: Zuerst die Regeln prüfen, dann handeln
 
-Am 20. Mai 2024 übergab Tsai Ing-wen das Präsidentenamt an Lai Ching-te. Die DPP gewann drei Präsidentschaftswahlen in Folge – zum ersten Mal in der Geschichte der direkten Präsidentschaftswahl.
+Am 20. Mai 2024 übergab Tsai Ing-wen das Präsidentenamt an Lai Ching-te. Die Demokratische Fortschrittspartei (DPP) hatte drei aufeinanderfolgende Präsidentschaftswahlen gewonnen, was ein erstmaliges Parteiergebnis nach der direkten Wahl des Präsidenten war.
 
-Im Oktober desselben Jahres besuchte sie als ehemalige Präsidentin Tschechien, Frankreich und Belgien und nahm im EU-Parlamentsgebäude an einem Abendempfang der Abgeordneten teil. Es war der erste Besuch einer ehemaligen taiwanesischen Präsidentin im EU-Hauptquartier, aber keine formelle Rede vor dem EU-Parlament; auch die ursprünglich geplanten Englandtermine wurden nicht wahrgenommen.[^18]
+Im Oktober desselben Jahres besuchte sie als ehemalige Präsidentin Tschechien, Frankreich und Belgien und nahm in einem Parlamentsabend im Europäischen Parlament teil. Sie war die erste ehemalige Präsidentin Taiwans, die das EU-Hauptquartier betrat, doch es handelte sich nicht um eine offizielle Rede im Europäischen Parlament; die ursprünglich geplante Reise nach Großbritannien fand nicht statt.[^18]
 
-Vom WTO-Verhandlungstisch bis zu einem Sitzungsraum im EU-Parlament tat sie weiter im Wesentlichen dasselbe: erst sehen, wie weit die Regeln einen gehen lassen, dann Taiwan an diese Grenze führen.
+Von den WTO-Verhandlungsbäneten bis zu einem Konferenzraum des Europäischen Parlaments tat sie weiterhin Ähnliches: Sie sah zuerst, was die Regeln erlaubten, und brachte Taiwan an diese Grenze.
 
-Die Geschichte kehrt am Ende zur Bühne der Niederlage von 2012 zurück. Das „Nicht aufgeben“ ist nach acht Jahren Präsidentschaft nicht mehr nur ein Trost. Indigene Landfragen, Justizreform, Wohnpreise, Energie und das Risiko über der Taiwanstraße wurden von ihr nicht gelöst; das Sondergesetz zur gleichgeschlechtlichen Ehe, das Rentensystem und die Verteidigungsanpassungen sind dagegen Realität geworden, mit der sich nachfolgende Regierungen auseinandersetzen oder auf die sie antworten müssen.
+Die Geschichte kehrt zum Wahlsieg von 2012 zurück. Der Satz „Nicht aufgeben“ war nach acht Jahren Präsidentschaft nicht mehr nur ein Trostwort. Die Landrechte der indigenen Völker, die Justizreform, die Immobilienpreise, die Energie und das Risiko in der Taiwanstraße wurden von ihr nicht gelöst; die Gesetze zur gleichgeschlechtlichen Ehe, das Rentensystem und die Verteidigungsanpassung waren Realitäten, mit denen die nachfolgende Regierung umgehen oder reagieren musste.
 
-Als sie den Präsidentenpalast verließ, waren die 8,17 Millionen Stimmen längst eine historische Zahl. Was blieb, war ein anderes, leiseres Zeugnis: Ein Politiker kann Institutionen hinterlassen, ohne die Lautstärke zu erhöhen – und die Institution bewahrt getreu auf, was er vollendet hat, und auch das, was er nicht vollendet hat.
+Als sie das Präsidentenamt verließ, war die Zahl von 8,17 Millionen Stimmen bereits Geschichte. Was blieb, war ein anderes, ruhigeres Beweisstück: Ein Politiker kann Systeme hinterlassen, ohne lauter zu schreien; und diese Systeme bewahren sowohl das, was er erreicht hat, als auch das, was er nicht geschafft hat.
 
 **Weiterführende Lektüre**:
 
-- [Unsichtbare Nation](../Art/看不見的國家.md) — die Dokumentation, in der Vanessa Hope Tsai Ing-wen sieben Jahre lang aus nächster Nähe filmte; von außen beobachtet sie ihren Charakter und die taiwanesische Demokratie.
-- [Taiwanesische gleichgeschlechtliche Ehe und Geschlechtergleichstellung](../Society/台灣同婚與性別平權.md) — der vollständige Verlauf von Interpretation 748 über das Referendum bis zum Inkrafttreten des Sondergesetzes.
-- [Geschichte der indigenen Völker Taiwans und der Namenskorrektur-Bewegung](../History/台灣原住民族歷史與正名運動.md) — die Kämpfe vor der Entschuldigung und die nach der Entschuldigung noch offenen Fragen von Land und Identität.
-- [Ma Ying-jeou](馬英九.md) — der ehemalige Präsident, der Tsai Ing-wen 2012 besiegte und ihr 2016 die Macht übergab.
-- [Lai Ching-te](賴清德.md) — Tsai Ing-wens Vizepräsident und Nachfolger.
+- [Das unsichtbare Land](/art/看不見的國家) — Eine Dokumentation von Ge Jeong-mun, die sieben Jahre Tsais Ing-wens begleitet und ihre Persönlichkeit sowie die taiwanische Demokratie aus externer Sicht beobachtet.
+- [Ehe und Gleichberechtigung in Taiwan](/de/society/taiwan-marriage-equality-lgbtq-rights) — Der gesamte Prozess von der Zeichen 748, über das Referendum bis zum Inkrafttreten des Gesetzes.
+- [Geschichte und Namensgebung der indigenen Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Der Kampf vor der Entschuldigung und die weiterhin zu klärenden Fragen bezüglich Land und Identität nach der Entschuldigung.
+- [Ma Ying-jeou](馬英九.md) — Die ehemalige Präsidentin, die Tsai Ing-wen 2012 besiegte und ihr 2016 das Amt übergab.
+- [Lai Ching-te](賴清德.md) — Vizepräsidentin und Nachfolger von Tsai Ing-wen.
 
 ## Bildquellen
 
@@ -168,13 +177,13 @@ Als sie den Präsidentenpalast verließ, waren die 8,17 Millionen Stimmen längs
 
 ## Referenzen
 
-[^1]: [Zentrale Wahlkommission: Ergebnis der 13. Präsidenten- und Vizepräsidentenwahl](https://db.cec.gov.tw/ElecTable/Election?type=President); [Central News Agency: Rückblick auf Tsai Ing-wens Niederlagenrede](https://www.cna.com.tw/news/aipl/202401130310.aspx) — offizielle Stimmenzahlen ergeben den Rückstand von 797.561 Stimmen; die Rede verwendet das Wort „洩氣“ (den Mut verlieren).
+[^1]: [Zentrale Wahlkommission: Ergebnis der 13. Präsidenten- und Vizepräsidentenwahl](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [Central News Agency: Rückblick auf Tsai Ing-wens Niederlagenrede](https://www.cna.com.tw/news/aipl/202401130310.aspx) — offizielle Stimmenzahlen ergeben den Rückstand von 797.561 Stimmen; die Rede verwendet das Wort „洩氣“ (den Mut verlieren)
 
 [^2]: [Zentrale Wahlkommission: Datenbank der Präsidenten- und Vizepräsidentenwahlen](https://db.cec.gov.tw/ElecTable/Election?type=President) — 2016: 6.894.744 Stimmen (56,12 %); 2020: 8.170.231 Stimmen (57,13 %).
 
-[^3]: [Central News Agency: Kindheit und Familie von Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx); [ETtoday: Aussagen zur Paiwan-Abstammung](https://www.ettoday.net/news/20160514/694830.htm) — die öffentlichen Quellen nennen unterschiedliche Generationenzahlen; dieser Artikel übernimmt nur „hat Paiwan-Abstammung“.
+[^3]: [Central News Agency: Kindheit und Familie von Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday: Aussagen zur Paiwan-Abstammung](https://www.ettoday.net/news/20160514/694830.htm) — die öffentlichen Quellen nennen unterschiedliche Generationenzahlen; dieser Artikel übernimmt nur „hat Paiwan-Abstammung“
 
-[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen); [University of London: Statement on Dr Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — die Hochschulen bestätigen den Abschluss von 1984 aus erster Quelle.
+[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [University of London: Statement on Dr Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — die Hochschulen bestätigen den Abschluss von 1984 aus erster Quelle
 
 [^5]: [CNN: Tsai Ing-wen, the leader who put Taiwan on the map](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — die Selbstbeschreibung und die Beobachtungen von Ku Li-hsiung und Vanessa Hope müssen getrennt zugeordnet werden.
 
@@ -182,7 +191,7 @@ Als sie den Präsidentenpalast verließ, waren die 8,17 Millionen Stimmen längs
 
 [^7]: [Präsidialamt: Die Präsidentin entschuldigt sich im Namen der Regierung bei den indigenen Völkern](https://www.president.gov.tw/NEWS/20603) — Wortprotokoll und politische Zusagen vom 1. August 2016.
 
-[^8]: [Central News Agency: Dritte Lesung des Sondergesetzes zur gleichgeschlechtlichen Ehe](https://www.cna.com.tw/news/firstnews/201905175002.aspx); [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — dritte Lesung am 17. Mai, Inkrafttreten am 24. Mai; 526 Paare am ersten Tag.
+[^8]: [Central News Agency: Dritte Lesung des Sondergesetzes zur gleichgeschlechtlichen Ehe](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — dritte Lesung am 17. Mai, Inkrafttreten am 24. Mai; 526 Paare am ersten Tag
 
 [^9]: [Büro der Exekutiv-Yuan-Rentenreform: Verlauf der Rentenreform](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Gesetze und Zeitplan der Rentenreform für Beamte und Militär.
 
@@ -196,7 +205,7 @@ Als sie den Präsidentenpalast verließ, waren die 8,17 Millionen Stimmen längs
 
 [^14]: [Präsidialamt: Plan zur Anpassung der Personalstruktur der nationalen Verteidigung](https://www.president.gov.tw/News/27201) — verkündet am 27. Dezember 2022, einjährige Wehrpflicht ab 2024.
 
-[^15]: [Japanisches Verteidigungsministerium: Bewegungen chinesischer ballistischer Raketen im August 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html); [Verteidigungsministerium: Lage der Militärmanöver der Volksbefreiungsarmee](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japan identifizierte 9, Taiwan zählte 11; dieser Artikel belässt den Unterschied der offiziellen Angaben.
+[^15]: [Japanisches Verteidigungsministerium: Bewegungen chinesischer ballistischer Raketen im August 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Verteidigungsministerium: Lage der Militärmanöver der Volksbefreiungsarmee](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japan identifizierte 9, Taiwan zählte 11; dieser Artikel belässt den Unterschied der offiziellen Angaben
 
 [^16]: [CSIS ChinaPower: Tracking China's Increased Military Activities in 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 Überflüge der Mittellinie der Taiwanstraße im Jahr 2022.
 
@@ -208,7 +217,7 @@ Als sie den Präsidentenpalast verließ, waren die 8,17 Millionen Stimmen längs
 
 [^20]: [Nationale Bau- und Planungsbehörde: Fortschritt des Sozialwohnungsbaus](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — die offizielle Rechenweise für direkten Bau, Anmietung im Paket und Mietzuschüsse.
 
-[^21]: [Wirtschaftsministerium: Erläuterung der Energiewendepolitik](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001); [Kontroll-Yuan: Untersuchung der landesweiten Stromausfälle](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — die Ziele der Energiestruktur und die Stromausfälle sind getrennt zu bewerten.
+[^21]: [Wirtschaftsministerium: Erläuterung der Energiewendepolitik](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Kontroll-Yuan: Untersuchung der landesweiten Stromausfälle](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — die Ziele der Energiestruktur und die Stromausfälle sind getrennt zu bewerten
 
 [^22]: [BBC: China newspaper criticised over unmarried Tsai comments](https://www.bbc.com/news/world-asia-36309137) — die Kritik am Sexismus, nachdem chinesische Staatsmedien Unverheiratetheit mit politischem Charakter in Verbindung gebracht hatten.
 
