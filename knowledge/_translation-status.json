@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T17:03:10+08:00",
-    "zhCommitHead": "8210ae19f",
+    "lastUpdated": "2026-09-21T17:22:48+08:00",
+    "zhCommitHead": "a6d2d71d4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1032,
-        "stale": 60,
+        "fresh": 1033,
+        "stale": 59,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 899,
+        "fresh": 900,
         "stale": 113,
         "metadata_stale": 29,
-        "missing": 83,
+        "missing": 82,
         "orphan": 0
       },
       "ko": {
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 997,
-        "stale": 61,
+        "fresh": 998,
+        "stale": 60,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 992,
-        "stale": 74,
+        "fresh": 993,
+        "stale": 73,
         "metadata_stale": 12,
         "missing": 46,
         "orphan": 0
@@ -9087,16 +9087,16 @@
         "vi": {
           "path": "vi/Economy/taiwan-agricultural-modernization.md",
           "translatedFrom": "Economy/台灣農業現代化發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:6abff98edbff2fbe",
-          "sourceBodyHash": "sha256:5dcfc71454466970",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "05aa5b7b0",
+          "sourceContentHash": "sha256:8c2c2c2ee5f2b237",
+          "sourceBodyHash": "sha256:c2c5a393d951d7c5",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "83909701",
           "translationLastModified": "2026-08-09T12:04:05+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-agricultural-modernization.md",
@@ -133936,7 +133936,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/mai-dang-le-burger.md",
+          "translatedFrom": "Food/麥當樂.md",
+          "sourceCommitSha": "b79e85b11",
+          "sourceContentHash": "sha256:1eec7db88151a213",
+          "sourceBodyHash": "sha256:09d674a05740ab52",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/mai-dang-le-burger.md",
@@ -141551,16 +141562,16 @@
         "en": {
           "path": "en/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cec5a64527d2ad7f",
-          "sourceBodyHash": "sha256:c88724fc04366f08",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T08:53:21.007894+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (40→0)"
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-fruit-kingdom.md",
@@ -141709,8 +141720,8 @@
           "sourceContentHash": "sha256:f85e683b942ab42b",
           "sourceBodyHash": "sha256:d870fca28f0e56bd",
           "translatedAt": "2026-09-21T00:58:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a6d2d71d",
+          "translationLastModified": "2026-09-21T17:03:10+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -162654,18 +162665,16 @@
         "pt": {
           "path": "pt/Geography/miaoli-county.md",
           "translatedFrom": "Geography/苗栗縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:0de597da286e629e",
-          "sourceBodyHash": "sha256:9523731d73687bb2",
-          "translatedAt": "2026-09-08T02:50:16.721788+00:00",
+          "sourceCommitSha": "8d4f4b434",
+          "sourceContentHash": "sha256:d42a13d401176a58",
+          "sourceBodyHash": "sha256:240cad04d9fcb9fe",
+          "translatedAt": "2026-09-21T09:12:40.964534+00:00",
           "translationLastCommit": "2da9406d",
           "translationLastModified": "2026-09-08T10:50:46+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
