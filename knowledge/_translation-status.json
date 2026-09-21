@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T20:41:57+08:00",
-    "zhCommitHead": "221132f1e",
+    "lastUpdated": "2026-09-21T20:46:37+08:00",
+    "zhCommitHead": "6c83e8ebe",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1000,
-        "stale": 58,
+        "fresh": 1001,
+        "stale": 57,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 995,
+        "fresh": 996,
         "stale": 71,
         "metadata_stale": 12,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "hi": {
@@ -75898,8 +75898,8 @@
           "sourceContentHash": "sha256:49afbaec6d9c06b3",
           "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
           "translatedAt": "2026-09-21T00:58:33+08:00",
-          "translationLastCommit": "1312be0d",
-          "translationLastModified": "2026-07-26T10:24:51+08:00",
+          "translationLastCommit": "6c83e8eb",
+          "translationLastModified": "2026-09-21T20:41:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "stale",
@@ -134045,7 +134045,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/mai-dang-le-burger.md",
+          "translatedFrom": "Food/麥當樂.md",
+          "sourceCommitSha": "b79e85b11",
+          "sourceContentHash": "sha256:1eec7db88151a213",
+          "sourceBodyHash": "sha256:09d674a05740ab52",
+          "translatedAt": "2026-09-21T00:58:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/mai-dang-le-burger.md",
@@ -162122,16 +162133,16 @@
         "vi": {
           "path": "vi/Geography/geography-and-geology.md",
           "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:fd5b44b607710000",
-          "sourceBodyHash": "sha256:b019853dd2be5b1d",
-          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "sourceCommitSha": "754685ed1",
+          "sourceContentHash": "sha256:d82f573c8035bd6e",
+          "sourceBodyHash": "sha256:e12316843009e7dd",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "075478e6",
           "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/geography-and-geology.md",
@@ -173003,8 +173014,8 @@
           "sourceContentHash": "sha256:2fb0e2b29a78f122",
           "sourceBodyHash": "sha256:5db325d228abad28",
           "translatedAt": "2026-09-21T11:11:05.310972+00:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "6c83e8eb",
+          "translationLastModified": "2026-09-21T20:41:57+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
