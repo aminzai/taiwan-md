@@ -1,105 +1,106 @@
 ---
-title: 'Chiang Wei-shui : le médecin qui diagnostiqua les lésions coloniales par son « Discours clinique »'
-description: "En 1921, le médecin Chiang Wei-shui publia son « Discours clinique », personnifiant Taïwan comme un « enfant attardé de la culture mondiale », diagnostiquant la cause de la maladie comme une malnutrition intellectuelle. Il fonda l'Association culturelle de Taïwan et le premier parti politique légal, le Parti populaire de Taïwan. Emprisonné plus de dix fois au cours de sa vie, il tissa un réseau d'éveil entre l'hôpital Da-an et le restaurant Chunfeng Deyi, laissant en héritage pratique la formule « Les compatriotes doivent s'unir, l'union est une vraie force »."
+title: 'Chiang Wei-shui: diagnostiquer la maladie coloniale avec leçon de clinique'
+description: 'En 1921, le médecin Chiang Wei-shui publie le manifeste "Leçons de clinique", diagnostiquant Taïwan comme un "enfant malade de la civilisation mondiale", dont la maladie est causée par une carence en nutrition intellectuelle. Fondateur de l''Association culturelle de Taïwan et du premier parti politique légal, le Parti du peuple de Taïwan, il est emprisonné plus de dix fois, tissant un réseau de réveil entre l''hôpital de Da''an et le restaurant printanier, laissant l''héritage "Les compatriotes doivent s''unir, l''union est puissante".'
+date: 2026-04-28
 category: 'People'
 tags:
   [
     'Chiang Wei-shui',
     'Association culturelle de Taïwan',
-    'Parti populaire de Taïwan',
-    'Période coloniale japonaise',
-    'Éveil culturel',
-    'Hôpital Da-an',
-    'Discours clinique',
+    'Parti du peuple de Taïwan',
+    'période coloniale japonaise',
+    'éveil culturel',
+    "hôpital de Da'an",
+    'Leçons de clinique',
   ]
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
-readingTime: 15
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-translatedFrom: People/蔣渭水.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0f3a996ef981d6ff'
-sourceBodyHash: 'sha256:d65332102dab634a'
-translatedAt: 2026-05-01T22:19:06+08:00
-featured: false
+readingTime: 15
+translatedFrom: 'People/蔣渭水.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:01b765cf1533e92c'
+sourceBodyHash: 'sha256:70dc8164d3983fc6'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
-> **Aperçu en 30 secondes :**
-> Chiang Wei-shui fut l'âme des mouvements sociaux taïwanais dans les années 1920. En tant que médecin, il rédigea le célèbre « Discours clinique », diagnostiquant que la société taïwanaise souffrait de « malnutrition intellectuelle ». Il fonda non seulement l'Association culturelle de Taïwan et le premier parti politique légal, le Parti populaire de Taïwan, mais transforma aussi l'hôpital Da-an en salle de consultation révolutionnaire. Il passa sa vie à courir entre prisons, hôpitaux et restaurants, avant de mourir prématurément à l'âge de 40 ans, laissant pour testament : « Les compatriotes doivent s'unir, l'union est une vraie force ». Cette phrase demeure aujourd'hui un pilier essentiel de l'esprit démocratique taïwanais.
+> **Résumé en 30 secondes :**
+> Chiang Wei-shui est une figure centrale du mouvement social taïwanais des années 1920. Médecin de formation, il publie le manifeste célèbre "Leçons de clinique", diagnostiquant la société taïwanaise comme atteinte d'une "carence en nutrition intellectuelle". Il fonde non seulement l'Association culturelle de Taïwan mais aussi le premier parti politique légal de Taïwan, le Parti du peuple de Taïwan. Il transforme l'hôpital de Da'an en salle de traitement politique. Sa vie oscille entre prison, hôpital et restaurants, s'éteignant prématurément à 40 ans, laissant comme testament "Les compatriotes doivent s'unir, l'union est puissante", un pilier fondamental de l'esprit démocratique taïwanais.
 
-En juillet 1914, dans le laboratoire de l'École de médecine du Gouvernement général de Taïpei, plusieurs étudiants cultivaient en secret des vibrions cholériques mortels. Ce n'était pas pour la recherche académique, mais dans le cadre d'un complot d'assassinat transmarin. Du Congming, étudiant de quatrième année, était chargé de la culture des souches bactériennes, tandis que l'organisateur et le collecteur de fonds derrière le projet n'était autre que Chiang Wei-shui, plus tard surnommé le « Sun Yat-sen de Taïwan ». Ils projetaient de déverser les bactéries dans les sources d'eau de Pékin pour empoisonner Yuan Shikai, qui s'apprêtait à se proclamer empereur. Bien que ce « complot bactériologique » n'aboutit pas, il ouvrit la voie aux vingt années de carrière de « médecin de la nation » qui suivirent pour ce praticien. [^1][^2]
+En juillet 1914, dans les laboratoires de l'école de médecine du gouvernement général de Taïwan, quelques étudiants cultivaient secrètement la bactérie du choléra. Ce n'était pas pour la recherche scientifique, mais pour un complot d'assassinat transnational. Duông Mông-minh, alors en quatrième année, était chargé de cultiver les bactéries, tandis que le stratège et financeur derrière cette opération, futur "fils adoptif de Sun Yat-sen", était Chiang Wei-shui. Leur plan visait d'empoisonner l'eau de Pékin pour assassiner Yuan Shikai, alors en route pour proclamer l'empereur. Bien que cet "assassinat bactérien" échoue, il marque le début des vingt années de carrière politique de Chiang Wei-shui en tant que "médecin de la nation".[^1][^2]
 
-### L'esprit rebelle de l'époque de l'École de médecine
+### Les gènes rebelles d'un étudiant en médecine
 
-Chiang Wei-shui naquit à Yilan en 1891. Dans son enfance, il exerça la fonction de _ji tong_ (médium spiritiste), une expérience qui lui donna une observation profonde des souffrances populaires et des superstitions. En 1910, il fut admis avec d'excellentes notes à l'École de médecine du Gouvernement général de Taïwan. Durant ses études, il fut à la fois un étudiant brillant et un leader du mouvement étudiant. Bien que le directeur de l'école, Takagi Tomoichi, fût rigoureux dans sa gestion académique, Chiang Wei-shui organisa à plusieurs reprises des grèves étudiantes pour protester contre les traitements injustes de l'administration scolaire, et alla même jusqu'à organiser, avec le soutien de Shi Yanhan (futur professeur à la faculté de médecine de l'Université nationale de Taïwan), des actions de résistance à forte connotation nationaliste. [^3][^4]
+Chiang Wei-shui naît en 1891 à Yilan. Son enfance, passée comme enfant possédé par des esprits, lui donne une perception profonde des souffrances populaires et des croyances superstitieuses. En 1910, il intègre l'école de médecine du gouvernement général de Taïwan avec d'excellents résultats. Pendant ses études, il est à la fois un élève brillant et un leader étudiant. Bien que le directeur de l'école, Takagi Tomoe, fût exigeant dans l'enseignement, Chiang Wei-shui organise plusieurs grèves étudiantes pour protester contre les injustices, et avec le soutien de Shi Hazhao (futur professeur à la faculté de médecine de l'Université nationale de Taïwan), il mène des actions de résistance conscientes de l'identité nationale.[^3][^4]
 
-Après son diplôme en 1915, Chiang Wei-shui effectua un stage d'un an à l'hôpital de Yilan, puis ouvrit l'hôpital Da-an dans le quartier de Dadaocheng à Taïpei. Mais son esprit ne se limitait pas aux patients de sa salle d'examen : c'était l'ensemble de l'île de Taïwan, sous domination coloniale et spirituellement appauvrie, qu'il avait à cœur.
+Diplômé en 1915, Chiang Wei-shui effectue un stage d'un an à l'hôpital de Yilan, puis s'installe à Taipei, dans le quartier de Dadaocheng, pour fonder l'hôpital de Da'an. Mais ce qu'il soigne dans ses cabinets, ce n'est pas seulement les patients, c'est toute l'île de Taïwan, colonisée et aliénée.
 
-### L'hôpital Da-an : salle de consultation du mouvement social
+### L'hôpital de Da'an : la salle de traitement du mouvement social
 
-L'hôpital Da-an (aujourd'hui l'ancien site de la société I-Mei Foods sur Yanping North Road à Taïpei) dépassa rapidement sa fonction d'établissement médical. L'étage supérieur servit de bureau préparatoire pour l'Association culturelle de Taïwan et de centre de distribution générale du _Taiwan Minpao_ (Journal populaire de Taïwan). Chiang Wei-shui gérait également le restaurant Chunfeng Deyi à proximité, où il nouait des liens avec des personnalités de tous horizons. Il se plaignait parfois d'être accaparé par les affaires et le commerce, mais la préoccupation politique coulant dans ses veines lui faisait réaliser que « connaître le monde entier ne signifie pas avoir de vrais amis » : seule l'éveil du peuple pouvait véritablement changer la situation. [^5][^6]
+L'hôpital de Da'an (aujourd'hui situé sur l'ancien site de la boulangerie Yi Miao sur la rue Nanping North) va vite dépasser sa fonction médicale. Au-dessus de l'hôpital se trouve le siège provisoire de l'Association culturelle de Taïwan, ainsi que le siège de l'imprimerie du "Journal de Taïwan". Chiang Wei-shui gère aussi un restaurant appelé "Printemps et vent printanier" à proximité, où il tisse un réseau d'intellectuels et de patriotes. Il s'était autrefois plaint de la difficulté de concilier affaires et activités, mais la préoccupation politique qui couve en lui pousse à réaliser que "bien que nous rencontrions des milliers de personnes, combien sont-ceux avec qui nous pouvons partager une âme sœur ?" Il comprend que pour changer le monde, il faut d'abord éveiller le peuple.[^5][^6]
 
-**📝 Note du conservateur :** Ce qui rend Chiang Wei-shui si fascinant, c'est sa multiplicité de rôles. Il fréquentait les élites locales dans les restaurants, soignait les pauvres à l'hôpital et rédigeait des articles critiques dans les journaux. Il savait que pour faire avancer un mouvement, les slogans ne suffisaient pas : il fallait des bases solides et des fonds stables. L'hôpital Da-an était le « quartier général clandestin » le plus puissant de cette époque.
+**📝 Note du conservateur :** Ce qui rend Chiang Wei-shui si captivant, c'est sa double identité. Dans les restaurants, il discute avec les notables ; dans les hôpitaux, il soigne les pauvres ; dans les journaux, il critique le pouvoir. Il savait que pour faire avancer un mouvement, il ne suffit pas de slogans, mais qu'il faut des bases physiques et une source de financement stable. L'hôpital de Da'an est devenue la "base arrière" la plus puissante de l'époque.
 
-### Le « Discours clinique » : diagnostic ultime de Taïwan
+### Le "Leçons de clinique" : diagnostic ultime de Taïwan
 
-Le 30 novembre 1921, Chiang Wei-shui publia le « Discours clinique » dans le _Bulletin de l'Association culturelle de Taïwan_, provoquant une onde de choc à travers l'île. Il imita le format d'un diagnostic médical pour personnifier Taïwan :
+Le 30 novembre 1921, Chiang Wei-shui publie dans le bulletin de l'Association culturelle de Taïwan un texte bouleversant intitulé "Leçons de clinique". Il imite le format d'un certificat médical pour "diagnostiquer" Taïwan :
 
-- **Patient :** L'île de Taïwan
-- **Origine :** Circuit de Taïwan, province du Fujian, République de Chine
-- **Domicile actuel :** Gouvernement général de Taïwan, Empire du Japon
-- **Diagnostic :** Enfant attardé de la culture mondiale
-- **Cause :** Malnutrition intellectuelle
+- **Patient :** Île de Taïwan
+- **Origine :** Province de Taïwan, République de Chine
+- **Résidence actuelle :** Gouvernement général colonial de Taïwan, Empire japonais
+- **Diagnostic :** Enfant malade de la civilisation mondiale
+- **Cause :** Carence en nutrition intellectuelle
 
-Dans son diagnostic, il affirmait sans détour que, malgré une apparence remarquable, Taïwan souffrait d'une vie spirituelle appauvrie par les séquelles du passé. La prescription qu'il proposait comprenait : l'éducation scolaire formelle (à dose maximale), l'éducation complémentaire (à dose maximale), des jardins d'enfants et des salles de lecture de journaux. Ce discours était à la fois une métaphore littéraire et le plan d'action de l'Association culturelle de Taïwan pour la décennie à venir. [^7][^8]
+Dans ce certificat, il affirme ouvertement que Taïwan, bien qu'apparemment belle, a été empoisonnée par le passé et souffre d'une pauvreté spirituelle. Sa prescription comprend : l'enseignement scolaire obligatoire (en grande quantité), l'instruction complémentaire (en grande quantité), les écoles maternelles et les clubs de lecture. Ce texte, à la fois littéraire et politique, devient le plan d'action de l'Association culturelle de Taïwan pour les dix prochaines années.[^7][^8]
 
-### De l'éveil culturel à la politique partisane
+### De l'éveil culturel à la politique par le biais des partis
 
-Le 17 octobre 1921, l'Association culturelle de Taïwan fut fondée à l'école pour filles Jingxiu. En tant que directeur général, Chiang Wei-shui promut des conférences à l'échelle de l'île, des écoles d'été et des activités d'éducation esthétique. En 1923, il fut impliqué dans l'« Incident de l'ordre public » lié au « Mouvement de pétition pour l'établissement d'un Parlement de Taïwan » et fut emprisonné avec Cai Peihuo et d'autres. En prison, il écrivit _Notes de prison_, montrant un esprit optimiste intact malgré les barreaux. [^9]
+Le 17 octobre 1921, l'Association culturelle de Taïwan est fondée à l'école secondaire féminine de Jingxiu. Chiang Wei-shui, en tant que directeur général, organise des conférences à travers l'île, des écoles d'été et des activités artistiques. En 1923, il participe à la pétition pour la création d'un conseil provincial de Taïwan, ce qui déclenche l'"incident de la police", et il est emprisonné avec Cai Pihou et d'autres activistes. En prison, il rédige "Souvenirs de prison", montrant son optimisme indéfectible malgré sa captivité.[^9]
 
-En 1927, l'Association culturelle se divisa en raison de désaccords sur l'orientation. Chiang Wei-shui se tourna alors vers la fondation du « Parti populaire de Taïwan » — le premier parti politique légal et moderne de l'histoire de Taïwan. Il proposa trois grands principes : « établir une politique fondée sur le peuple, construire une organisation économique rationnelle, réformer les systèmes sociaux déraisonnables ». Il s'investit activement dans le mouvement ouvrier en fondant la « Fédération générale des travailleurs amis de Taïwan », cherchant à déplacer le centre de gravité du mouvement des élites vers les masses populaires. [^10][^11]
+En 1927, l'Association culturelle de Taïwan se scinde à cause de divergences idéologiques. Chiang Wei-shui décide alors de fonder le "Parti du peuple de Taïwan", le premier parti politique moderne légal de l'histoire de Taïwan. Il propose trois principes : établir une politique populaire, construire une organisation économique rationnelle, et éliminer les institutions sociales injustes. Il s'implique également activement dans le mouvement ouvrier, créant la "Fédération générale des travailleurs de Taïwan", cherchant à déplacer le centre du mouvement des notables vers les masses populaires.[^10][^11]
 
-### Héritage : Les compatriotes doivent s'unir, l'union est une vraie force
+### Héritage : Les compatriotes doivent s'unir, l'union est puissante
 
-Chiang Wei-shui fut arrêté et placé en détention plus de dix fois au cours de sa vie, cumulant 144 jours d'incarcération. Les années de lutte épuisante et les séjours en prison consumèrent sa santé. Le 5 août 1931, il mourut d'une fièvre typhoïde intestinale à l'hôpital de Taïpei, à seulement 40 ans. Sur son lit de mort, il prononça ces derniers mots : « Les compatriotes doivent s'unir, l'union est une vraie force ». Ses funérailles attirèrent plus de cinq mille personnes et furent qualifiées de « deuil populaire », devenant le plus grand rassemblement politique de la période coloniale japonaise à Taïwan. [^12][^13]
+Chiang Wei-shui est arrêté et détenu plus de dix fois au cours de sa vie, passant 144 jours en prison. Les épuisantes activités et les séjours en prison ont épuisé sa santé. Le 5 août 1931, il meurt à l'hôpital de Taipei des suites d'une fièvre typhoïde, à l'âge de seulement 40 ans. Avant de mourir, il lègue ce testament : "Les compatriotes doivent s'unir, l'union est puissante". Plus de cinq mille personnes assistent à ses funérailles, baptisées "funérailles populaires", marquant le plus grand rassemblement politique de l'époque coloniale de Taïwan.[^12][^13]
 
-**📝 Note du conservateur :** Chiang Wei-shui est surnommé le « Sun Yat-sen de Taïwan », mais sa plus grande différence avec Sun Yat-sen réside dans son attachement constant à la résistance « non violente » dans le cadre du système légal. Il diagnostiquait la société avec le calme du médecin et mettait ses idéaux en pratique avec la ferveur du révolutionnaire. En ces temps sombres de colonisation, la « prescription intellectuelle » qu'il proposa n'a pas encore perdu sa pertinence.
+**📝 Note du conservateur :** Chiang Wei-shui est surnommé "le Sun Yat-sen de Taïwan", mais contrairement à Sun Yat-sen, il insiste toujours sur la lutte non violente à l'intérieur du cadre juridique. Il utilise la sagesse froide d'un médecin pour diagnostiquer la société, et la chaleur du sang d'un révolutionnaire pour réaliser ses idéaux. Dans cette sombre ère coloniale, sa "recette intellectuelle" reste d'actualité.
 
-Après avoir lu son histoire, demandons-nous : dans notre époque contemporaine d'explosion de l'information mais de fragmentation, Taïwan souffre-t-il encore d'une forme de « malnutrition intellectuelle » ? Le « Discours clinique » de Chiang Wei-shui n'est pas seulement un document historique : c'est un miroir reflétant les luttes et les aspirations de chaque génération de Taïwanais en quête d'éveil.
+Après avoir lu son histoire, demandons-nous : dans un monde où l'information est abondante mais fragmentée, Taïwan souffre-t-elle encore d'une forme de "carence en nutrition intellectuelle" ? Le "Leçons de clinique" de Chiang Wei-shui n'est pas seulement un document historique, mais aussi un miroir reflétant la lutte de chaque génération de Taïwanais pour l'éveil de soi-même.
 
-**Pour aller plus loin**
+**Lecture complémentaire**
 
-- [Lai He](賴和) — Père de la littérature taïwanaise moderne de la même époque, pionnier de l'éveil culturel aux côtés de Chiang Wei-shui
-- [Mouvements sociaux à Taïwan sous l'occupation japonaise](../History/日治時期臺灣社會運動) — Le contexte global du mouvement dans lequel s'inscrivit Chiang Wei-shui
-- [Parti populaire de Taïwan](台灣民眾黨) — Le premier parti politique légal fondé par Chiang Wei-shui
+- [Lai Ho](賴和) — Père de la nouvelle littérature taïwanaise de l'époque, pionnier de l'éveil culturel avec Chiang Wei-shui
+- [Mouvement social de Taïwan sous le règne colonial japonais](/fr/history/social-movements-during-japanese-rule) — Contexte global du mouvement auquel appartient Chiang Wei-shui
+- [Parti du peuple de Taïwan](台灣民眾黨) — Le premier parti politique légal de Taïwan fondé par Chiang Wei-shui
 
 ---
 
 **Sources**
 
-[^1]: [〈暗殺〉來自台灣的憤青：暗殺袁世凱的台籍學生們](https://ohsir.tw/6437/) — Étude sur l'affaire de l'assassinat de Yuan Shikai par vibrion cholérique impliquant Du Congming et Chiang Wei-shui en 1914
+[^1]: [Assassinat venu de Taïwan : les étudiants taïwanais qui ont tenté d'assassiner Yuan Shikai](https://ohsir.tw/6437/) — Étude historique sur l'assassinat par choléra de Yuan Shikai par Duong Mong-minh et Chiang Wei-shui en 1914
 
-[^2]: [刺殺袁世凱：杜聰明與蔣渭水的秘密行動](https://www.facebook.com/NCHU.tw/posts/1400096042145468/) — Publication officielle de l'Université Chung Hsing reprenant l'étude historique
+[^2]: [Assassinat de Yuan Shikai : les opérations secrètes de Duong Mong-minh et Chiang Wei-shui](https://www.facebook.com/NCHU.tw/posts/1400096042145468/) — Réimpression historique par l'université de Zhongxing sur Facebook
 
-[^3]: [蔣渭水條目 — 國立臺灣歷史博物館〈點集臺灣史〉](https://the.nmth.gov.tw/nmth/zh-TW/Item/Detail/293c1e0f-85fe-4d6a-8c6a-6dce4270eaf1) — L'esprit rebelle de l'époque de l'École de médecine et la confrontation avec le directeur Takagi Tomoichi, archives nationales
+[^3]: [Chiang Wei-shui — Musée historique national de Taïwan, "Points de Taïwan"](https://the.nmth.gov.tw/nmth/zh-TW/Item/Detail/293c1e0f-85fe-4d6a-8c6a-6dce4270eaf1) — Archives nationales sur la rébellion étudiante et le conflit avec le directeur Takagi Tomoe
 
-[^4]: [醫學校時的蔣渭水 — 國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=661082) — Documents d'archives sur la période 1910-1915, époque où Chiang Wei-shui était leader du mouvement étudiant à l'École de médecine
+[^4]: [Chiang Wei-shui à l'école de médecine — Base nationale de mémoire culturelle](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=661082) — Documents historiques sur la période 1910-1915, leader étudiant
 
-[^5]: [三家大安醫院的抗日傳奇 — 蔣渭水文化基金會](http://www.weishui.tw/p/blog-page_15.html) — Positionnement historique de l'hôpital Da-an en tant que bureau préparatoire de l'Association culturelle et centre de distribution du _Taiwan Minpao_
+[^5]: [La légende anti-japonaise des trois hôpitaux de Da'an — Fondation culturelle Chiang Wei-shui](http://www.weishui.tw/p/blog-page_15.html) — Position historique de l'hôpital de Da'an comme siège provisoire de l'Association culturelle et siège de l'imprimerie du "Journal de Taïwan"
 
-[^6]: [春風得意樓 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%98%A5%E9%A2%A8%E5%BE%97%E6%84%8F%E6%A8%93) — Contexte de l'époque où Chiang Wei-shui gérait un restaurant comme lieu de démocratie à Dadaocheng
+[^6]: [Printemps et vent printanier — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%98%A5%E9%A2%A8%E5%BE%97%E6%84%8F%E6%A8%93) — Contexte historique du restaurant de Chiang Wei-shui comme lieu de rencontre démocratique à Dadaocheng
 
-[^7]: [〈臨床講義〉對名叫臺灣的患者的診斷](https://gec.csu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MekUzTDNCMFlWODBNakEyWHpFME5EWTJPVEZmTVRZME1UTXVjR1Jt) — Texte original de Chiang Wei-shui du 30 novembre 1921, version numérisée par le centre d'éducation générale de l'Université Cheng Shiu
+[^7]: [Leçons de clinique : diagnostic du patient Taïwan](https://gec.csu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MekUzTDNCMFlWODBNakEyWHpFME5EWTJPVEZmTVRZME1UTXVjR1Jt) — Texte original de Chiang Wei-shui du 30 novembre 1921, version numérisée par le centre de formation générale de l'Université de Zhengji
 
-[^8]: [臨床講義：臺灣診斷書全文 — 鯨魚網站](https://www.hi-on.org/article-single.php?At=58&An=193035) — Texte complet du « Discours clinique » de Chiang Wei-shui : diagnostic, cause et prescription
+[^8]: [Leçons de clinique : texte complet du diagnostic de Taïwan — Site Whale](https://www.hi-on.org/article-single.php?At=58&An=193035) — Texte intégral du diagnostic, des causes et des prescriptions de Chiang Wei-shui
 
-[^9]: [蔣渭水《獄中記》/《北署游記》](https://www.th.gov.tw/) — Documents reproduits par la Bibliothèque de littérature taïwanaise, témoignage de l'esprit optimiste durant l'emprisonnement de 1923 lié à l'Incident de l'ordre public
+[^9]: [Chiang Wei-shui, "Souvenirs de prison"/"Récréations au bureau de la police de Nord"](https://www.th.gov.tw/) — Documents réédités par la bibliothèque taïwanaise, preuves de l'optimisme de Chiang Wei-shui pendant l'incident de la police de 1923
 
-[^10]: [臺灣民眾黨 1927 — 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8_%281927%E5%B9%B4%29) — Histoire du premier parti politique légal de Taïwan et ses trois grands principes
+[^10]: [Parti du peuple de Taïwan 1927 — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8_%281927%E5%B9%B4%29) — Histoire du premier parti politique légal de Taïwan et ses trois principes
 
-[^11]: [政治暗夜中的恆星：日據時代民族鬥士蔣渭水 — 台灣光華雜誌](https://www.taiwan-panorama.com/Articles/Details?Guid=e6f7635e-7b3e-494e-9e7f-1741aa541b37) — Contexte de la fondation de la Fédération générale des travailleurs amis de Taïwan et orientation vers les masses populaires
+[^11]: [Étoile dans la nuit politique : le combattant nationaliste de l'ère coloniale — Revue Taïwan Guanghua](https://www.taiwan-panorama.com/Articles/Details?Guid=e6f7635e-7b3e-494e-9e7f-1741aa541b37) — Contexte historique de la création de la Fédération générale des travailleurs de Taïwan et la stratégie populaire
 
-[^12]: [蔣渭水文化基金會官方網站](http://www.weishui.tw/) — Biographie officielle documentant les 144 jours d'incarcération de Chiang Wei-shui et les cinq mille personnes présentes à ses funérailles populaires
+[^12]: [Site officiel de la Fondation culturelle Chiang Wei-shui](http://www.weishui.tw/) — Biographie officielle des 144 jours de détention et des funérailles populaires de cinq mille personnes
 
-[^13]: [國史館《蔣渭水先生全集》](https://www.drnh.gov.tw/) — Attestation originale du testament « Les compatriotes doivent s'unir, l'union est une vraie force »
+[^13]: [Recueil complet de Chiang Wei-shui — Institut d'histoire nationale](https://www.drnh.gov.tw/) — Texte original du testament "Les compatriotes doivent s'unir, l'union est puissante"

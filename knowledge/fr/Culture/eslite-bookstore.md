@@ -35,10 +35,10 @@ curation: 'incubating'
 rationale: "{'why_this_hook': '誠品書店是台灣少數能跨越國界、被視為「生活方式輸出」的文化品牌，其 24 小時模式是全球都市文化中的獨特案例。', 'whats_excluded': '排除特定暢銷書榜單的細節分析；排除個別門市的微小經營異動；排除誠品生活旗下非文化類專櫃的品牌史。', 'where_it_hedges': '關於實體書店沒落的討論，明確標註電商衝擊與誠品自身策略調整的交互影響，避免將熄燈簡化為單一原因。', 'whos_pushing_back': '傳統獨立書店批評誠品過度商業化導致書店「百貨化」；文化評論者擔憂誠品在全球擴張中可能面臨的審查與文化稀釋問題。'}"
 relatedDiary: ['2026-08-13-manual']
 translatedFrom: 'Culture/誠品書店.md'
-sourceCommitSha: '63ad1b2b8'
-sourceContentHash: 'sha256:ec07a1faa117e7b7'
-sourceBodyHash: 'sha256:49e3639b8d3ada20'
-translatedAt: '2026-09-13T08:08:48+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:3b7540877760c9ee'
+sourceBodyHash: 'sha256:2e2b5a8142de57dd'
+translatedAt: '2026-09-21T15:47:39.434555+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Eslite Bookstore est la boussole spirituelle de la culture contemporaine taïwanaise, fondée par Wu Ching-you en 1989. Son charme central réside dans l'intégration de l'« humanité, l'art, la créativité et la vie » dans le commissariat d'exposition spatial, et l'innovation en 1999 du modèle d'exploitation « ouvert 24 heures sur 24 », faisant de la lecture un rituel urbain nocturne. Eslite a non seulement changé les habitudes de lecture des Taïwanais, mais a également développé, via le modèle hybride de « l'art soutenu par le commerce », une librairie devenue un « écosystème de vie culturelle » incluant design, restauration et spectacles. Avec plus de 40 points de vente à Taïwan et une expansion réussie à Hong Kong, en Chine continentale, au Japon et en Malaisie, Eslite reste une marque culturelle majeure exportée par Taïwan, témoin de la transition de l'île, de son essor économique à la prise de conscience de son sujet culturel. Il ne s'agit pas seulement de l'ascension et du déclin d'une librairie, mais de la quête incessante des Taïwanais pour « l'apaisement de l'esprit ». Cette « bibliothèque invisible » continue d'évoluer au rythme de l'époque, adoptant de nouvelles formes pour l'ère numérique, devenant un symbole de résilience culturelle de l'île.
@@ -51,40 +51,40 @@ Les premières années d'Eslite ne visaient pas le profit comme objectif premier
 
 Eslite brisa l'image traditionnelle des librairies encombrées et désordonnées, introduisant des planchers en bois, un éclairage doux et un mécanisme professionnel de sélection de livres, élevant le fait de « visiter une librairie » d'un simple acte d'achat à une pratique de l'esthétique de la vie. Ce n'était pas seulement une révolution de l'espace commercial, mais une réponse concrète à la soif de vie spirituelle de haute qualité de la société taïwanaise après la levée de la loi martiale. Dans ce contexte historique, Eslite devint le foyer spirituel des intellectuels et des jeunes artistes taïwanais. Ce idéalisme de « faire des pertes pour le faire » devint l'actif immatériel le plus central d'Eslite, lui permettant de maintenir son halo culturel inremplaçable lors de son expansion commerciale ultérieure. L'attachement de Wu Ching-you aux « livres de niche » fit même considérer Eslite, dans ses débuts, comme une « œuvre d'intérêt social » plutôt que comme une entreprise purement commerciale [^5] [^9].
 
-## Ouvert 24 heures sur 24 : le havre de l'âme de la ville nocturne et observation sociologique
+## 24 heures d'ouverture : le havre de paix social des villes nocturnes et l'observation sociologique
 
-En 1995, le magasin Dun Nan d'Eslite déménagea à son adresse actuelle sur la route Dunhua Sud (fermé depuis). En 1999, Eslite lança audacieusement le projet « ouvert 24 heures sur 24 », une innovation qui transforma radicalement le paysage nocturne de Taipei. À cette époque, Taïwan traversait les douleurs de la transition économique et l'aube de l'ère numérique ; Eslite offrait un espace nocturne chaleureux et appartenant, sans besoin d'alcool ni de tumulte.
+En 1995, la boutique Eslite Dun Nan a déménagé à son emplacement actuel (qui est aujourd'hui éteint). En 1999, Eslite a lancé avec audace le projet « ouvert 24 heures sur 24 », une innovation qui a complètement transformé le paysage nocturne de Taipei. À cette époque, Taïwan traversait les douleurs de la transition économique et l'aube de l'ère numérique ; Eslite offrait un espace nocturne chaleureux et propice à l'appartenance, sans alcool ni agitation.
 
-Cette « librairie de minuit » devint rapidement une attraction incontournable pour les touristes internationaux venant à Taïwan. Le magazine _TIME_ l'avait d'ailleurs élue « meilleure librairie d'Asie ». Dans les escaliers du magasin Dun Nan d'Eslite, l'on pouvait voir des étudiants préparant des examens, des designers en quête d'inspiration, des ingénieurs sortant de leur service, voire des voyageurs sans hébergement pour la nuit. Cette inclusivité d'une « lecture sans défense » créa un capital social unique.
+Cette « librairie de minuit » est rapidement devenue une attraction incontournable pour les touristes internationaux en visite à Taïwan. Le magazine _TIME_ l'a d'ailleurs classée comme la « meilleure librairie d'Asie ». Sur les marches d'Eslite Dun Nan, on pouvait apercevoir des étudiants en révision, des designers à la recherche d'inspiration, des ingénieurs rentrant du travail ou même des voyageurs sans nulle part où aller tard le soir. Cette inclusivité, qui ne juge pas le « lecteur », a créé un capital social singulier.
 
-_Fig. : Les étagères circulaires en bois et les escaliers en bois du magasin Dun Nan d'Eslite, qui étaient le repère culturel le plus chaleureux de la nuit taïwanaise, définissant le rituel urbain de la « lecture nocturne ». _
+_Figure : Les étagères circulaires et les escaliers en bois d'Eslite Dun Nan, autrefois une coordonnée culturelle chaleureuse de la nuit à Taipei, définissant l'« rituel de lecture nocturne » urbain._
 
-La librairie ouverte 24h/24 n'est pas seulement un espace de vente au détail, mais un « havre de l'âme » urbain ; elle symbolise le respect d'une ville pour le savoir et la compassion envers les solitaires. Ce paysage culturel influença plus tard la planification urbaine et l'imagination culturelle de Hong Kong, Suzhou, Tokyo, etc. Le modèle 24h/24 du magasin Dun Nan d'Eslite a en réalité défini une « sécurité » et une « hauteur de civilisation » de la vie urbaine taïwanaise. Alors que les nuits des villes du monde sont souvent occupées par des bars et des discothèques, Taipei possède une lumière jaune chaleureuse qui reste allumée pour ceux qui aspirent au savoir. Cette « sérénité intellectuelle nocturne » est devenue une étiquette importante de la soft power de Taïwan [^4] [^11] [^17].
+Une librairie ouverte 24 heures sur 24 n'est pas seulement un espace de vente au détail ; c'est un « havre de paix » pour la ville, symbolisant le respect d'une culture et la compassion envers les solitaires. Ce paysage culturel a ensuite influencé l'aménagement urbain et l'imaginaire culturel dans des villes comme Hong Kong, Suzhou ou Tokyo. Le modèle 24 heures d'Eslite Dun Nan a en réalité défini un certain « sentiment de sécurité » et une certaine « hauteur civilisationnelle » du mode de vie urbain taïwanais. Alors que les nuits des villes du monde sont souvent occupées par des bars et des boîtes de nuit, Taipei offrait toujours une lumière jaune chaleureuse pour ceux qui aspiraient à la connaissance. Cette « sérénité intellectuelle nocturne » est devenue un marqueur important de la force douce de Taïwan [^4] [^11] [^17].
 
 ```tw-timeline
-1989 | Point de départ de la fondation | Wu Ching-you fonde la première librairie Eslite au rond-point Ren'ai de Taipei, se concentrant sur la sélection de livres spécialisés en art et humanités et la gestion de galeries
-1995 | Déménagement à Dun Nan | Le magasin Dun Nan d'Eslite déménage à son adresse actuelle, commençant à établir l'ébauche d'une gestion hybride, intégrant des magasins de design et des espaces artistiques
-1999 | Révolution nocturne | Le magasin Dun Nan lance officiellement le mode d'ouverture 24h/24, devenant la première librairie humaniste au monde à ne jamais fermer
-2004 | Année du profit | Après 15 ans de pertes, Eslite réalise pour la première fois un bénéfice annuel complet, prouvant le modèle de « l'art soutenu par le commerce »
-2006 | Xinyi en tant que magasin phare | Ouverture du magasin Xinyi d'Eslite, établissant le grand modèle commercial de « department store de vie culturelle », devenant un nouveau repère de Taipei
-2012 | Exportation transfrontalière | Ouverture du magasin de Causeway Bay à Hong Kong, ouvrant la voie internationale à la chaîne de l'esthétique de la vie taïwanaise, exportant les valeurs culturelles taïwanaises
-2020 | Fermeture de Dun Nan | Le magasin phare Dun Nan ferme ses portes à l'expiration du bail, le magasin Xinyi reprend la responsabilité 24h/24, provoquant une nostalgie à travers tout Taïwan
-2023 | Fermeture de Xinyi | Le magasin Xinyi ferme ses portes à l'expiration du bail, le modèle de librairie 24h/24 se déplace officiellement vers le magasin Songshan, ouvrant le mode de lecture du parc culturel
-2024 | Songshan prend le relais | Le magasin Songshan d'Eslite termine sa rénovation, devenant un nouveau repère 24h/24 « visible du ciel », intégrant le paysage culturel et créatif
-Source : Rapports annuels d'Eslite Living, Taïwan Guanghua Magazine, Digital Times, 2024
+1989 | Point de départ | Wu Ching-you fonde le premier magasin Eslite à Ren'ai Yuan dans Taipei, se concentrant sur des sélections spécialisées en arts et culture et la gestion de galeries.
+1995 | Changement d'adresse Dun Nan | Le magasin Eslite Dun Nan déménage à son emplacement actuel, commençant à établir un modèle d'exploitation mixte intégrant une boutique de design et un espace artistique.
+1999 | Révolution nocturne | Le magasin Dun Nan lance officiellement le mode d'ouverture 24 heures sur 24, devenant la première librairie humaniste ouverte en permanence au monde.
+2004 | Année du profit | Après 15 ans de pertes, Eslite réalise son premier bénéfice annuel, prouvant le modèle « l'art nourri par le commerce ».
+2006 | Flagship Xinyi | L'ouverture d'Eslite Xinyi établit le grand modèle commercial de « grand magasin de vie culturelle », devenant une nouvelle référence à Taipei.
+2012 | Exportation transmarine | L'ouverture du magasin de Causeway Bay à Hong Kong lance la voie des chaînes internationales de l'esthétique de vie taïwanaise, exportant la valeur culturelle taïwanaise.
+2020 | Extinction Dun Nan | Le magasin emblématique d'Eslite Dun Nan ferme en raison de l'expiration du bail, le magasin Xinyi reprenant la mission 24 heures sur 24, suscitant une nostalgie dans tout Taïwan.
+2023 | Extinction Xinyi | Le magasin Xinyi ferme en raison de l'expiration du bail ; la librairie ouverte 24 heures sur 24 est officiellement transférée au complexe Songyan, inaugurant un modèle de lecture en parc.
+2024 | Prise de relais par Songyan | Eslite Songyan rénove et devient une nouvelle référence 24 heures sur 24 « visible du ciel », intégrant le paysage culturel créatif.
+Source : Rapport annuel d'Eslite Living, Magazine Guanghua de Taïwan, Digital Times, 2024
 ```
 
-## L'art soutenu par le commerce : modèle hybride et esthétique commerciale d'Eslite Living
+## Nourrir la culture par le commerce : l'esthétique commerciale de Eslite
 
-La clé permettant à Eslite de maintenir sa hauteur culturelle réside dans son modèle commercial réussi de « l'art soutenu par le commerce ». Avec l'expansion de son échelle, Eslite développa la marque « Eslite Living » (Eslite Spectrum), associant la librairie à des comptoirs de design, des marques culturelles et créatives, une restauration raffinée, voire des salles de spectacle et des cinémas. Ce « champ culturel hybride » permit à la librairie de ne plus lutter seule, devenant le moteur central attirant le flux de visiteurs, soutenant ensuite les coûts élevés de loyer et de sélection de livres grâce aux revenus non-livres.
+La clé du maintien d'un haut niveau culturel chez Eslite réside dans son modèle commercial réussi de « nourrir la culture avec le commerce » (_yǐ shāng yǎng wén_). À mesure que l'entreprise s'agrandit, elle a développé la marque « Eslite Spectrum » (誠品生活), en combinant la librairie avec des boutiques de design, des marques créatives, une restauration raffinée, voire des salles de spectacle et des cinémas. Ce « lieu culturel hybride » empêche la librairie d'être isolée ; elle devient plutôt un moteur central attirant les flux de clients, soutenant ainsi le coût élevé du loyer et celui de la sélection des livres grâce aux revenus non littéraires.
 
-_Fig. : Le magasin Songshan d'Eslite représente le résultat de la transformation d'Eslite intégrant profondément la lecture avec l'architecture historique et l'artisanat du design. Grâce au commissariat d'exposition spatial, Eslite a réussi à transformer la librairie traditionnelle en un écosystème de vie culturelle multifonctionnel._
+_Figure : Le magasin Eslite Songshan représente le résultat de la transformation par laquelle Eslite a profondément intégré la lecture avec l'architecture historique et l'artisanat du design. Grâce à une curation spatiale, Eslite est parvenu à transformer la librairie traditionnelle en un écosystème culturel multifonctionnel._
 
-Ce modèle atteignit son apogée au magasin Songshan. Le magasin Songshan d'Eslite comprend non seulement une librairie, mais aussi un hôtel culturel et créatif conçu par Toyo Ito, une salle de cinéma d'art et d'essai, ainsi que de nombreux ateliers artisanaux mettant l'accent sur la « performance réelle ». Eslite y joue non seulement le rôle de détaillant, mais celui de « commissaire d'exposition culturel ».
+Ce modèle a atteint son apogée au magasin Songshan. Eslite Songshan ne propose pas seulement des livres ; il comprend également un hôtel créatif conçu par Toyo Ito, un cinéma d'art et essai, ainsi que de nombreux ateliers artisanaux mettant l'accent sur la « performance ». Chez Eslite, on n'est donc pas seulement un détaillant, mais aussi un « curateur culturel ».
 
-Cependant, cette tendance à la « department store » a suscité les critiques de certains intellectuels, estimant que l'atmosphère commerciale d'Eslite recouvrait progressivement le parfum des livres. À ce sujet, la présidente d'Eslite, Wu Min-jie, a admis que la culture et les revenus sont d'importance égale ; seul un système commercial sain peut garantir la pérennité de l'espace de lecture. Cette tension entre idéal et réalité est la voie de survie d'Eslite depuis plus de trente ans. Le design spatial d'Eslite met souvent l'accent sur « l'échelle humaine » ; même dans les espaces commerciaux, de nombreux sièges et espaces blancs sont conservés, ce respect pour l'individu constituant sa compétitivité centrale. Cette philosophie de gestion du « troisième espace » permit à Eslite de maintenir sa valeur physique inremplaçable face aux chocs des géants du e-commerce comme Amazon [^12] [^14] [^19].
+Cependant, cette tendance à la « marchandisation » a suscité des critiques de la part de certains intellectuels, qui estiment que le caractère commercial d'Eslite masque progressivement l'amour du livre. À ce sujet, Wu Min-jie, PDG d'Eslite, a admis que la culture et les revenus sont également importants ; seul un système commercial sain peut garantir la pérennité de l'espace de lecture. Cette tension entre l'idéal et le réel est la voie de survie d'Eslite depuis plus de trente ans. La conception spatiale d'Eslite met souvent l'accent sur « l'échelle humaine » ; même dans un espace commercial, on conserve de nombreux sièges et des espaces vides, ce respect pour l'humain constitue son avantage concurrentiel fondamental. Cette philosophie de gestion du « troisième lieu » permet à Eslite de maintenir sa valeur physique irremplaçable face aux géants du e-commerce comme Amazon [^12] [^14] [^19].
 
-<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="Le voyage Eslite du Chevalier du Rêve : Documentaire sur Wu Ching-you" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="夢想騎士的誠品之旅：吳清友紀錄片" allowfullscreen></iframe>
 
 ## Le crépuscule des époques Dun Nan et Xinyi : 180 000 heures de garde et adieux de dix mille personnes
 
@@ -178,54 +178,52 @@ Source : Données statistiques d'Eslite Living 2024
 
 ## Lectures complémentaires
 
-- [Parcs culturels et créatifs de Taïwan : du usine abandonnée au moteur sensible de la ville](../Culture/台灣文化創意園區發展.md)
-- [Esthétique urbaine d'entrelacement ancien et nouveau : le mouvement de préservation de Dadaocheng et de la rue Dihua](../Geography/城市與人文地理.md)
-- [Histoire du cinéma taïwanais : du réalisme sain à la nouvelle vague numérique](../Art/電影.md)
-- [The Reporter - La bataille de survie des librairies physiques : restructuration du paysage culturel après la fermeture d'Eslite](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [Musique pop taïwanaise : des chansons interdites au centre de créativité asiatique](../Music/台灣流行音樂.md)
-
----
+- [Développement des parcs culturels de Taïwan : du site industriel abandonné au moteur sensoriel de la ville](/fr/culture/taiwan-cultural-creative-park-development)
+- [L'esthétique urbaine où s'entremêlent le nouveau et l'ancien : le mouvement de préservation à Dadaocheng et Dixiangamei](/fr/geography/dadaocheng)
+- [Histoire du cinéma taïwanais : du réalisme social au nouveau cinéma numérique](/fr/art/taiwanese-cinema)
+- [Journaliste - La bataille pour la survie des librairies physiques : le réagencement du paysage culturel après l'extinction de Eslite](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
+- [Musique populaire taïwanaise : des chansons interdites au centre créatif asiatique](/fr/music/golden-melodies-legacy-taiwan-pop-music)
 
 ---
 
 ## Références
 
-[^1]: [Site officiel d'Eslite Living — Parcours de développement : le voyage culturel commençant avec le magasin du rond-point Ren'ai en 1989](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Enregistre détaillément les jalons temporels des débuts d'Eslite et de son expansion majeure au fil des ans.
+[^1]: [Site officiel de Eslite — Parcours du développement : le voyage culturel à partir du magasin Ren Ai Yuan Huan en 1989](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Enregistrement détaillé des jalons temporels de la création initiale et des grandes expansions d'Eslite.
 
-[^2]: [Wikipédia — Article sur la librairie Eslite : histoire de l'entreprise, modèle d'exploitation et controverses de fermeture](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Fournit des informations complètes sur la structure actionnariale d'Eslite, ses enregistrements de cotation et les transitions de ses magasins.
+[^2]: [Wikipédia — Article sur Eslite Book Store : histoire de l'entreprise, modèle opérationnel et controverse de fermeture](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Fournit des informations globales sur la structure actionnariale d'Eslite, son historique en bourse et les changements de ses différentes succursales.
 
-[^3]: [Taïwan Guanghua Magazine — La dernière page de la librairie de minuit : la fermeture du magasin Dun Nan d'Eslite et la mémoire collective sociale](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — Analyse en profondeur la signification et le lien émotionnel du modèle de librairie 24h/24 pour la culture urbaine taïwanaise.
+[^3]: [Magazine Guanghua Taiwan — La dernière page du libraire nocturne : le signal d'extinction de Eslite Dunnan et la mémoire collective sociale](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — Analyse approfondie de la signification culturelle urbaine à Taïwan et des liens émotionnels avec le modèle de librairie 24 heures.
 
-[^4]: [Machine à temps de United Daily News — [La librairie humaniste du rond-point Ren'ai en 1989] Vous vous souvenez de ce repère culturel ?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Compile les archives historiques précieuses des images des débuts d'Eslite et l'intention initiale de fondation de Wu Ching-you.
+[^4]: [Time Machine du United Daily News — [La librairie Eslite Ren Ai Yuan Huan en 1989] Vous souvenez-vous de ce monument culturel ?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Rassemble des archives historiques et des images précieuses sur les débuts d'Eslite et l'intention fondatrice de Wu Qingyou.
 
-[^5]: [Marie Claire Taïwan — Bonne nuit Eslite Dun Nan ! Fermeture officielle après 31 ans, lettre d'adieu de la présidente Wu Min-jie](https://www.marieclaire.com.tw/lifestyle/news/50233) — Enregistre le moment historique de la fermeture du magasin Dun Nan en 2020 et le tournant de la vision des gestionnaires.
+[^5]: [Marie Claire — Bonne nuit, Eslite Dunnan ! La fermeture officielle après 31 ans, la lettre d'adieu du PDG Wu Minjie](https://www.marieclaire.com.tw/lifestyle/news/50233) — Documente le moment historique de la fermeture de la succursale Dunnan en 2020 et le tournant visionnaire des dirigeants.
 
-[^6]: [Baidu Baike — Biographie de Wu Ching-you : de marchand de cuisines au fondateur de la librairie Eslite, philosophie de la vie](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Compile le contexte personnel de Wu Ching-you et sa définition des valeurs centrales d'Eslite.
+[^6]: [Baidu Baike — Biographie de Wu Qingyou : la philosophie de vie du marchand d'ustensiles de cuisine au fondateur d'Eslite Book Store](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Rassemble les informations personnelles sur Wu Qingyou et sa définition de la valeur fondamentale d'Eslite.
 
-[^7]: [Actualités officielles d'Eslite Living — Le magasin Songshan d'Eslite prend le relais ! Créer une librairie 24h/24 « visible du ciel et des nuages au crépuscule »](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Présente les concepts de design et les fonctions du magasin Songshan en 2024 en tant que nouveau repère de lecture 24h/24.
+[^7]: [Nouvelles officielles d'Eslite — Eslite Songyan prend le relais ! Création d'une librairie 24 heures 'où l'on peut voir les nuages du matin et du soir'](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Présente la conception et la fonction de la succursale Songyan en tant que nouveau repère de lecture 24 heures en 2024.
 
-[^8]: [Eslite Meet — 8 points forts de la nouvelle rénovation de la librairie 24h/24 Eslite Songshan : puisant dans les essences du design de Dun Nan et Xinyi](https://meet.eslite.com/tw/tc/news/202509260003) — Fournit les détails de la configuration spatiale spécifique et les améliorations de service après la rénovation du magasin Songshan.
+[^8]: [Eslite Meet des fans d'Eslite — 8 points forts de la rénovation de la librairie Eslite Songyan : absorber l'essence du design de Dunnan et Xinyi](https://meet.eslite.com/tw/tc/news/202509260003) — Fournit les détails spécifiques de l'aménagement spatial et de l'amélioration des services après la rénovation de la succursale Songyan.
 
-[^9]: [Commercial Weekly — Ne pas abandonner la librairie 24h/24 ! La présidente d'Eslite admet : la culture et les revenus sont d'importance égale](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — Interview en profondeur de Wu Min-jie sur la stratégie de gestion d'Eslite équilibrant commerce et idéal.
+[^9]: [Business Weekly — Ne pas abandonner la librairie 24 heures ! Le PDG d'Eslite révèle : la culture est aussi importante que le revenu](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — Interview approfondie de Wu Minjie sur la stratégie de gestion d'Eslite entre les affaires et l'idéal.
 
-[^10]: [YouTube Taiwan Heart Scenery — Le secret derrière la librairie Eslite : le seul havre de lecture 24h/24 à travers Taïwan](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Matériel audiovisuel enregistrant la position sensible et la fonction de guérison d'Eslite dans la société taïwanaise.
+[^10]: [YouTube Paysage du Cœur Taïwan — Le secret derrière Eslite Book Store : un havre de lecture 24 heures unique à Taïwan](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Matériel audiovisuel documentant la position sensorielle et la fonction thérapeutique d'Eslite dans la société taïwanaise.
 
-[^11]: [Weekly History — Histoire du développement d'Eslite : pionnier de la librairie 24h/24, la légende de la marque permettant à la lecture de ne jamais fermer](https://weeklyhistory.net/eslite-brandstory/) — Reconstitue détaillément le processus de transformation d'Eslite de librairie spécialisée en marque de department store de vie.
+[^11]: [Weekly History — Histoire du développement d'Eslite : la légende de la marque qui ne ferme jamais pour la lecture, en tant que première librairie 24 heures](https://weeklyhistory.net/eslite-brandstory/) — Trace le processus de transformation d'Eslite, passant d'une librairie spécialisée à un magasin de vie.
 
-[^12]: [Eslite Meet — Informations de service Eslite Living Songshan : cœur de l'exploitation hybride de la performance transversale et du centre commercial](https://meet.eslite.com/tw/tc/store/20180220034) — Présente les projets d'exploitation spécifiques et l'esprit de marque d'Eslite Living dans le parc Songshan.
+[^12]: [Eslite Meet des fans d'Eslite — Informations sur les services d'Eslite Life Songyan : l'essence de la gestion dans le complexe commercial intersectoriel](https://meet.eslite.com/tw/tc/store/20180220034) — Présente les projets opérationnels spécifiques et l'esprit de marque d'Eslite Life dans le parc Songyan.
 
-[^13]: [INSIDE — Observation des tendances numériques : guide de transformation numérique, déploiement omnicanal d'Eslite, gestion des membres et transformation organisationnelle](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Analyse professionnelle des stratégies et des résultats de la transformation numérique d'Eslite face aux chocs du e-commerce.
+[^13]: [INSIDE Observation des tendances Internet — Guide de transformation numérique : déploiement omnicanal d'Eslite, gestion des membres et transformation organisationnelle](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Analyse professionnelle de la stratégie de transformation numérique d'Eslite face à l'impact du commerce électronique et ses résultats.
 
-[^14]: [Digital Times — Eslite rentable pour la première fois en 4 ans ! Le e-commerce devrait amortir en 3 ans, 5 grands magasins phares Nord-Sud installés](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Rapport sur l'assemblée des actionnaires d'Eslite 2025 concernant l'amélioration de la situation financière et les plans futurs d'ouverture de magasins.
+[^14]: [Ère Numérique — Eslite réalise son premier bénéfice en 4 ans ! Le e-commerce devrait rembourser en 3 ans, les 5 grands magasins de Taipei, Taïnan, Centrale et Sud sont prêts](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Rapport sur l'Assemblée générale des actionnaires d'Eslite en 2025 concernant la bonne santé financière et le plan d'expansion futur.
 
-[^15]: [Tripadvisor Reviews — Magasin Songshan d'Eslite Living : attraction incontournable combinant culture créative, librairie et paysage historique](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Obtient les évaluations du public et les enregistrements d'expérience d'Eslite en tant que repère touristique international.
+[^15]: [Tripadvisor Avis de voyage — Eslite Life Songyan : un lieu incontournable combinant culture, librairie et paysage historique](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Récupère les évaluations publiques et les enregistrements d'expérience concernant Eslite en tant que site touristique international.
 
-[^16]: [CommonWealth Magazine — La vérité derrière la fermeture d'Eslite : bataille de survie physique sous le double impact du prix immobilier élevé et du e-commerce](https://www.cw.com.tw/) — Référence à l'analyse de la transition de l'industrie de détail taïwanaise et de la signification sociologique de la fermeture d'Eslite.
+[^16]: [Magazine Tianxia — La vérité derrière la fermeture d'Eslite : une bataille de survie physique face aux prix élevés et au e-commerce](https://www.cw.com.tw/) — Référence à l'analyse sur le changement du commerce de détail à Taïwan et la signification sociologique de la fermeture d'Eslite.
 
-[^17]: [Magazine TIME — Le meilleur d'Asie : pourquoi la librairie Eslite est-elle la meilleure librairie d'Asie ?](https://time.com/) — Obtient l'évaluation autoritaire et le positionnement d'Eslite dans les médias internationaux.
+[^17]: [TIME Magazine — Le meilleur de l'Asie : pourquoi Eslite Book Store est la meilleure librairie d'Asie ?](https://time.com/) — Récupère les évaluations et le positionnement autoritaires d'Eslite dans les médias internationaux.
 
-[^18]: [Revue de Sociologie — Librairie Eslite et construction du goût de la classe moyenne taïwanaise : une enquête de sociologie de l'espace](https://www.ios.sinica.edu.tw/) — Référence aux thèses académiques sur l'influence d'Eslite sur la culture du goût à Taïwan.
+[^18]: [Journal de sociologie — La construction du goût de la classe moyenne taïwanaise par Eslite Book Store : une étude en sociologie de l'espace](https://www.ios.sinica.edu.tw/) — Référence aux discussions académiques sur l'influence d'Eslite sur la culture des goûts à Taïwan.
 
-[^19]: [Institut de design de Taïwan — Rapport de commissariat d'exposition spatial et d'incubation de marques culturelles et créatives Eslite Songshan](https://www.tdri.org.tw/) — Obtient l'analyse professionnelle du rôle d'Eslite dans la chaîne industrielle culturelle et créative.
+[^19]: [Institut de conception de Taïwan — Rapport sur le curating spatial et le développement de marques culturelles d'Eslite Songyan](https://www.tdri.org.tw/) — Récupère l'analyse professionnelle du rôle d'Eslite dans la chaîne de valeur industrielle culturelle.
 
-[^20]: [Bureau de l'industrie du ministère du développement économique — Rapport d'exportation de l'industrie de l'esthétique de la vie taïwanaise : compétitivité d'Eslite sur les marchés étrangers](https://www.ida.gov.tw/) — Référence à l'évaluation et aux perspectives du gouvernement sur le processus d'internationalisation d'Eslite.
+[^20]: [Agence des PME du Ministère Économique — Rapport sur l'exportation de l'esthétique de vie taïwanaise : la compétitivité d'Eslite sur les marchés étrangers](https://www.ida.gov.tw/) — Référence à l'évaluation et aux perspectives gouvernementales concernant le processus internationalisation d'Eslite.

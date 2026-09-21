@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-18T00:53:04+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T16:15:45.135073+00:00'
 ---
 
 # L'ours noir de Taïwan
@@ -53,27 +53,27 @@ Les chiffres sur les ours sont souvent présentés ensemble, mais ils répondent
 > **📝 Note du conservateur**
 > Ce dont les efforts de conservation ont le plus besoin, c’est de savoir d’où viennent chaque chiffre et quelle question il répond, plutôt que de poursuivre un seul chiffre apparemment précis. Tant que 1 200 ours peut encore être revu à la hausse ou à la baisse, conserver honnêtement l’incertitude permet à l’estimation préliminaire de vraiment servir la science.
 
-## Sous le V blanc, une bête qui ne vit pas dans une caverne
+## Sous la V blanche, se cache un ours qui ne vit pas dans les cavernes
 
-L’ours noir de Taïwan (nom scientifique : _Ursus thibetanus formosanus_) a un pelage noir, des oreilles rondes, une queue courte et un V jaune-blanc ou une lune sur la poitrine, ce qui élimine toute confusion possible avec d’autres ours à Taïwan. Les adultes pèsent entre 60 et 150 kg, mesurent entre 130 et 180 cm de long.[^2]
+L’ours noir de Taïwan (nom scientifique : _Ursus thibetanus formosanus_) se distingue par ses poils noirs, ses oreilles rondes, sa queue courte et la tache jaune-blanc en forme de V ou de croissant sur sa poitrine, laissant peu de place à la confusion avec d’autres ours dans l’île. Les individus adultes pèsent entre 60 et 150 kilogrammes, et mesurent entre 130 et 180 centimètres de long.[^2]
 
-Il ne vit pas seulement dans les « hautes montagnes ». Les données officielles montrent qu’il a été observé entre 300 et 3 700 mètres d’altitude, bien que sa distribution principale reste entre 1 000 et 2 500 mètres dans la chaîne centrale. Cela signifie que l’ours noir de Taïwan a besoin de forêts connectées pour se déplacer, se nourrir et se reproduire. Les limites d’une seule zone protégée ne suffisent pas.[^2]
+Il ne se limite pas à vivre dans les « montagnes profondes ». Les données officielles signalent sa présence entre 300 et 3 700 mètres d’altitude, avec une distribution principale située entre 1 000 et 2 500 mètres dans la chaîne montagneuse centrale. Cela signifie que l’ours noir de Taïwan dépend de forêts connectées pour se déplacer, se nourrir et se reproduire. Les frontières d’une seule zone protégée sont bien loin d’être suffisantes.[^2]
 
-L’ours ne s’endort pas l’hiver et est actif toute l’année. Il n’a pas de tanière fixe, est principalement diurne, et son activité augmente en été et automne. En automne et en hiver, l’activité nocturne peut augmenter avec la maturation des noix du genre _Castanopsis_. Selon les recherches de suivi par radio dans le parc national de Yushan, la portée annuelle d’un individu varie entre 27 et 202 km².[^2] [^5]
+L’ours noir de Taïwan ne s’endort pas l’hiver et reste actif toute l’année. Il est principalement diurne, avec une activité accrue en été et en automne. Lorsque les fruits des Fagaceae mûrissent en automne et en hiver, l’activité nocturne peut également augmenter. Une étude de suivi par radio menée dans le Parc national de Yushan estime que la portée annuelle d’un individu varie entre 27 et 202 kilomètres carrés.[^2] [^5]
 
-### Une portée par an, quelques petits
+### Une portée de quelques petits par an
 
-La période de reproduction de l’ours noir de Taïwan a lieu généralement entre juin et août. Après la copulation, le fœtus entre en développement différé, et les femelles donnent naissance entre décembre et février de l’année suivante, généralement à un ou deux petits. Les petits restent avec leur mère jusqu’à la saison de reproduction suivante, puis s’éloignent progressivement.[^2]
+La période de reproduction de l’ours noir de Taïwan tombe généralement entre juin et août. Après la copulation, le fœtus entre en développement avec un retard de mise en place, et les femelles donnent naissance entre décembre et février de l’année suivante, généralement à un ou deux petits, parfois trois. Les petits restent avec leur mère jusqu’à la saison de reproduction suivante, avant de s’en séparer progressivement.[^2]
 
-Étant donné que les femelles ont une saison de reproduction fixe, les petits doivent apprendre à trouver de la nourriture, à reconnaître les dangers et à utiliser la forêt en compagnie de leur mère, la reconstitution de la population prend du temps. Lorsque les données montrent une augmentation des enregistrements, les chercheurs examinent également l’âge de reproduction, la survie des petits et l’identification individuelle entre les générations pour déterminer s’il s’agit d’une augmentation des opportunités d’observation ou d’une population réellement viable.[^2] [^4]
+En raison de la saison de reproduction fixe des femelles, les petits doivent apprendre à trouver de la nourriture, à reconnaître les dangers et à naviguer dans les forêts en compagnie de leur mère, ce qui rend la reprise de la population un processus long. Lorsque les données montrent une augmentation des observations, les chercheurs examinent simultanément l’âge de reproduction, la survie des petits et l’identification individuelle entre les générations pour déterminer s’il s’agit d’une augmentation des opportunités d’observation ou d’une population réellement viable.[^2] [^4]
 
-![Photo de l'ours noir de Taïwan dans un environnement d’élevage, montrant la morphologie et la tache poitrinale](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Photo de l’ours noir de Taïwan en milieu captif, montrant la morphologie et la tache poitrillère](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_Cette photo montre un ours noir de Taïwan (\_Ursus thibetanus formosanus_) dans un environnement artificiel, servant de référence visuelle pour la morphologie, les griffes longues et la tache poitrinale. Photo : Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Image intégrée au projet.\_
+_ Cette photo représente un ours noir de Taïwan en milieu captif, servant de référence visuelle pour la morphologie, les griffes longues et la tache poitrillère. Elle ne constitue pas une preuve de la distribution sauvage de l’espèce. Photo : Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Image intégrée au projet. _
 
-![Illustration de l'ours noir de Taïwan, montrant la tache V blanche sur la poitrine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Illustration de l’ours noir de Taïwan, montrant la tache V blanc sur la poitrine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_Cette illustration sert d’exemple pour la morphologie et la tache poitrinale de l’ours noir de Taïwan, et ne représente pas une photo d’un individu sauvage. Illustration : SilverSea Design / Davidzdh, CC BY 4.0, Wikimedia Commons. Image intégrée au projet._
+_ Cette illustration schématise la morphologie et la tache poitrillère de l’ours noir de Taïwan. Il ne s’agit pas d’une photo d’un individu sauvage. Illustration : SilverSea Design / Lin Huiqiu (Chofy Lin), CC BY 4.0, Wikimedia Commons. Image intégrée au projet. _
 
 ## Ce qu’il mange détermine où il va
 
@@ -130,21 +130,21 @@ _Cette photo provient des archives du centre des visiteurs de Nan’an, servant 
 
 _Vidéo officielle du bureau du parc national de Yushan intitulée « Élever les ours de Yushan » : aborde l’habitat forestier et la recherche de conservation, expliquant pourquoi les ours ont besoin de forêts continues._
 
-## Quand on croise un ours, commençons par retirer les attractions humaines
+## Quand on fait la rencontre avec un ours, rangeons d’abord les attractions humaines
 
-La vidéo officielle de sensibilisation du bureau du parc national de Yushan, intitulée « Encounter a Formosan black bear », résume les habitudes écologiques, la distribution et les conseils pour faire face à un ours en un court métrage adapté à la visualisation avant l’escalade. Lire cette vidéo avec les instructions écrites permet de transformer le principe abstrait de « garder sa distance » en une préparation concrète avant d’entrer dans les montagnes.[^11]
+La vidéo officielle de sensibilisation du parc national de Yushan intitulée _« L’ours rencontre l’homme : rencontre avec un ours noir de Taïwan »_ résume l’écologie et le comportement des ours noirs, leur répartition géographique et les gestes à adopter lors d’une rencontre, le tout condensé dans un court métrage adapté à la visualisation avant la randonnée. Lire cette vidéo aux côtés des consignes écrites permet de transformer l’abstraction du principe « maintenir une distance » en une préparation concrète avant d’entrer dans les montagnes.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Encounter a Formosan black bear | Vidéo officielle de sensibilisation du bureau du parc national de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="L’ours rencontre l’homme : rencontre avec un ours noir de Taïwan｜vidéo officielle de sensibilisation du parc national de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Vidéo officielle de sensibilisation du bureau du parc national de Yushan : aborde les habitudes des ours, leur distribution, les conseils pour faire face à un ours et les moyens de réduire les contacts inutiles entre humains et ours lors de l’entrée dans les montagnes._
+_Vidéo officielle de sensibilisation du parc national de Yushan : à partir des habitudes et de la répartition des ours noirs, comment réduire les contacts inutiles entre l’homme et l’ours avant d’entrer dans les montagnes._
 
-Les instructions officielles du parc national de Yushan rappellent que les ours noirs de Taïwan sont généralement vigilants et discrets, et qu’ils s’éloignent dès qu’ils remarquent la présence humaine. Pour les randonneurs, la préparation la plus concrète consiste à ranger soigneusement ses aliments et à ne pas laisser d’excuse à l’ours de s’approcher des humains. En quittant les montagnes, tous les déchets, les déchets de cuisine et les aliments doivent être emmenés avec soi.[^3]
+Les consignes officielles du parc national de Yushan rappellent que les ours noirs de Taïwan sont généralement vigilants et discrets : dès qu’ils remarquent la présence humaine, ils s’en vont. Pour les randonneurs, le geste le plus concret à prendre est de ranger soigneusement ses provisions et de ne pas laisser de nourriture à portée de l’ours. En quittant les lieux, tous les déchets, déchets alimentaires et restes de nourriture doivent être emmenés avec soi.[^3]
 
-Si vous croisez réellement un ours, il est recommandé de rester calme, de s’éloigner silencieusement sans le poursuivre, le nourrir ou tenter de le photographier de près. Pendant la randonnée, on peut porter une cloche d’ours ou un sifflet pour créer du bruit, voyager en groupe, et signaler immédiatement la présence d’un ours ou de ses traces aux autorités compétentes. Le texte officiel du parc national de Yushan est direct : « Si vous voyez un ours, restez calme et éloignez-vous silencieusement. »[^3]
+En cas de rencontre réelle avec un ours, l’organisme conseille de rester calme, de s’éloigner silencieusement et rapidement ; il ne faut surtout pas le poursuivre, le nourrir ou tenter de s’approcher pour le photographier — cela constitue la règle commune à toutes les consignes de gestion des rencontres. Les randonneurs peuvent porter des cloches d’ours ou des sifflets pour produire des bruits, voyager en groupe, et signaler immédiatement la présence d’un ours ou de traces d’ours aux autorités compétentes. Le texte original du parc national de Yushan est particulièrement direct : « Si vous voyez un ours noir, restez calme, partez en silence et rapidement. »[^3]
 
-Ces pratiques permettent de maintenir l’ouverture des forêts tout en limitant les rencontres à une durée brève et réversible. Le directeur des parcs nationaux, Wang Chenggi (王成機), a déclaré que les objectifs de conservation se sont « clairement tournés vers une approche combinant prévention et gestion ».[^10] Gérer les sources d’alimentation humaine est généralement plus efficace et plus précoce que d’attendre que l’ours apprenne à fouiller les sacs à dos.
+Ces pratiques permettent de maintenir l’accès aux forêts tout en limitant les rencontres à une durée brève et réversible. Le directeur du Service des parcs nationaux, Wang Chen-ji, a déclaré que les objectifs de conservation avaient « clairement évolué vers une approche combinant prévention et gestion ».[^10] Gérer la source de nourriture humaine est généralement plus efficace et plus précoce que d’attendre que les ours apprennent à fouiller les sacs à dos.
 
 ## Les ours ne doivent pas se réduire à de simples motifs mignons
 
@@ -202,38 +202,38 @@ Chaque méthode a ses propres limites, mais réunies, elles forment une base suf
 
 ## Sources des images
 
-Cet article utilise 6 images libres ou à licence ouverte provenant de Wikimedia Commons, sans télécharger les fichiers image, et sans utiliser les images comme preuves de distribution ou de localisation des individus sauvages à Taïwan. Les licences et les sources de chaque image sont indiquées ci-dessous.
+Cet article utilise 6 images libres ou à licence ouverte provenant de Wikimedia Commons. Les images n'ont pas été utilisées comme preuves de l'existence d'individus ou de la répartition géographique des ours noirs de Taïwan dans la nature. Les licences et sources de chaque image sont indiquées ci-dessous.
 
-- **Ours noir de Taïwan dans un environnement artificiel**：[File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Lien direct :https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Ours noir de Taïwan au zoo de Shoushan**：[File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, utilisé conformément à la licence ouverte du site web officiel du zoo de Shoushan, doit mentionner la source. Lien direct :https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Illustration de l'ours noir de Taïwan**：[File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Chofy Lin, CC BY 4.0. Lien direct :https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Photo de l'ours noir de Taïwan**：[File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Lien direct :https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Photo de l'ours noir de Taïwan allaitant des petits**：[File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Lien direct :https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Photo d’exposition de l'ours noir de Taïwan au centre des visiteurs de Nan’an**：[File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Intégré au projet : `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Ours noir de Formose en milieu artificiel** : [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. URL directe : https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Ours noir de Taïwan au zoo de Shoushan** : [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, utilisé conformément à l'annonce d'informations ouvertes du site officiel du zoo de Shoushan, doit mentionner la source. URL directe : https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Illustration de l'ours noir de Taïwan** : [File:臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Chofy Lin, CC BY 4.0. URL directe : https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Photo de l'ours noir de Formose** : [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. URL directe : https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Photo de l'ours noir de Formose allaitant ses petits** : [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. URL directe : https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Photo de l'exposition de l'ours noir de Taïwan au centre de visiteurs de Nan'an** : [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Intégré au projet : `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## Références
 
-[^1]: [Taïwan entre dans l’ère de l’ours, cherchant la coexistence pacifique entre humains et ours](https://www.forest.gov.tw/news/0076122) — Office de la foresterie et de la conservation de la nature (BFAS), 16 mai 2025. Fournit 2 034 enregistrements d’observations entre 2011 et 2025, les changements de distribution administrative, les tendances altitudinale, la restauration forestière et les politiques de coexistence entre humains et ours.
+[^1]: [Taïwan accueille des ours et s'efforce de concilier cohabitation humaine et ours](https://www.forest.gov.tw/news/0076122) — Bureau de la sylviculture et de la conservation de la nature du ministère de l'agriculture, 16 mai 2025. Fournit 2 034 enregistrements d'observations entre 2011 et 2025, les variations de la répartition par district administratif, les tendances d'altitude, la restauration forestière et les politiques de cohabitation entre les humains et les ours.
 
-[^2]: [Éducation sur l'ours noir de Taïwan](https://www.ysnp.gov.tw/StaticPage/Science) — Bureau du parc national de Yushan, Office des parcs nationaux, ministère de l’Intérieur. Fournit la classification, la morphologie, la distribution altitudinale, la reproduction, l’alimentation, l’activité annuelle et les données sur la portée.
+[^2]: [Culture populaire sur l'ours noir de Taïwan](https://www.ysnp.gov.tw/StaticPage/Science) — Bureau de gestion du parc national de Jade Mountain, délivrance des parcs nationaux du ministère de l'intérieur. Fournit des données sur la classification, l'apparence, la distribution altitudinale, la reproduction, l'alimentation, les activités annuelles et la portée des déplacements.
 
-[^3]: [Coexister avec les ours](https://www.ysnp.gov.tw/StaticPage/Coexist) — Bureau du parc national de Yushan, Office des parcs nationaux, ministère de l’Intérieur. Fournit des conseils officiels sur la rencontre avec un ours, la gestion des aliments, la marche en groupe, les signalements et la reconnaissance des traces d’ours.
+[^3]: [Coexister avec les ours](https://www.ysnp.gov.tw/StaticPage/Coexist) — Bureau de gestion du parc national de Jade Mountain, délivrance des parcs nationaux du ministère de l'intérieur. Fournit des directives officielles sur la manière de faire face à un ours, la gestion de l'alimentation, l'accompagnement, la déclaration d'incidents et la reconnaissance des traces d'ours.
 
-[^4]: [L’Office de la foresterie et de la conservation de la nature (BFAS) estime à environ 1 200 le nombre d’ours noirs de Taïwan, et prévoit de construire un centre de réception à long terme](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Agence centrale de presse, 23 mars 2026. Rapporte l’estimation préliminaire de 1 200 ours, les limites de la représentativité des données, les possibilités de révision ultérieure et le plan d’un centre de réception à long terme.
+[^4]: [Le bureau de la conservation de la forêt estime à environ 1 200 l'ours noir de Taïwan et prévoit de construire un centre de réception à long terme](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Agence centrale de presse, 23 mars 2026. Rapporte une estimation préliminaire d'environ 1 200 individus, les limites de représentativité des données et les possibilités de révision ultérieure ainsi que le planification d'un centre de réception à long terme.
 
-[^5]: [Exposition numérique des parcs nationaux de Taïwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Office des parcs nationaux, ministère de l’Intérieur. Compile les écosystèmes des ours noirs de Taïwan, l’historique des recherches depuis 1996, l’enquête sur les blessures entre 1998 et 2001, l’identification individuelle génétique et la promotion de la conservation.
+[^5]: [Exposition en ligne de la collection numérique des parcs nationaux de Taïwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Délivrance des parcs nationaux du ministère de l'intérieur. Compile l'écologie de l'ours noir de Taïwan, l'historique des recherches depuis 1996, les enquêtes sur les individus handicapés entre 1998 et 2001, l'identification génétique des individus et la sensibilisation à la conservation.
 
-[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Fournit des données sur les déjections, les traces de consommation et les entretiens avec des chasseurs autochtones dans le parc national de Yushan entre 1998 et 2000.
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Fournit des recherches sur les rejets d'analyse fécale, les traces d'alimentation et les entretiens avec des chasseurs autochtones dans le parc national de Jade Mountain entre 1998 et 2000.
 
-[^7]: [Impact des blessures causées par les pièges sur l’utilisation de l’espace des ours noirs de Taïwan menacés d’extinction](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue de l’Université du Michigan, 2024. Compare la portée annuelle, le déplacement et le choix de l’habitat entre 6 ours blessés et 9 ours sains dans le parc national de Yushan.
+[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue de l'université du Michigan, 2024. Compare l'étendue des déplacements, les mouvements et le choix des habitats entre 6 ours blessés et 9 ours noirs en bonne santé dans le parc national de Jade Mountain.
 
-[^8]: [Unité 3 : Le chemin du retour](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Musée national des sciences naturelles, 2021. Explique l’élevage, l’habituation et les compétences de vie nécessaires avant la réintroduction de l’ours de Nan’an.
+[^8]: [Unité 3 : Le chemin du retour](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Musée national des sciences naturelles, 2021. Explique l'élevage des petits ours de Nangan, l'entraînement à la vie sauvage et les compétences de vie nécessaires avant de retourner dans la nature.
 
-[^9]: [Mission et objectifs : Programme de conservation de l'ours noir de Taïwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Association de conservation de l'ours noir de Taïwan. Compile les objectifs de conservation tels que les interactions humains-ours, le commerce illégal, la gestion de l’habitat, la recherche, l’éducation, le développement des capacités et la législation.
+[^9]: [Page de mission et d'objectifs : Programme d'action de conservation de l'ours noir de Taïwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Association de conservation de l'ours noir de Taïwan. Compile les objectifs de conservation liés aux interactions entre les humains et les ours, au commerce illégal, à la gestion des habitats, à la recherche, à l'éducation, au développement des capacités et à la législation politique.
 
-[^10]: [Pour qu’ils puissent marcher librement dans les forêts : 30 ans de protection de l'ours noir de Taïwan par les parcs nationaux](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Office des parcs nationaux, ministère de l’Intérieur, 2026. Explique l’intégration des parcs nationaux de montagne, des corridors écologiques, de la gestion des aliments, des systèmes d’alerte technologiques et de la participation locale.
+[^10]: [Pour qu'ils puissent se déplacer librement dans les forêts : 30 ans de protection par les parcs nationaux du chemin de retour de l'ours noir de Taïwan](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Délivrance des parcs nationaux du ministère de l'intérieur, 2026. Explique l'intégration des trois parcs nationaux de montagne, des couloirs de habitat, de la gestion alimentaire, des systèmes d'alerte technologiques et de la participation locale.
 
-[^11]: [Vidéos sur les ours](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Bureau du parc national de Yushan, Office des parcs nationaux, ministère de l’Intérieur. La page vidéo officielle liste des vidéos comme « Encounter a Formosan black bear » et « Élever les ours de Yushan », couvrant les habitudes écologiques, la distribution, les conseils pour faire face à un ours, l’habitat forestier et la recherche de conservation.
+[^11]: [Vidéos d'ours](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Bureau de gestion du parc national de Jade Mountain, délivrance des parcs nationaux du ministère de l'intérieur. La page vidéo officielle présente notamment les vidéos « Encounter a Formosan black bear » et « Jade Mountain nurtures bears », couvrant l'écologie, les habitudes, la distribution géographique, les réactions face aux ours, les habitats forestiers et la recherche de conservation.
 
 ## Lecture complémentaire
 

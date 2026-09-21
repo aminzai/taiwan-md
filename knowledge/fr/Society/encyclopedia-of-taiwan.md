@@ -1,115 +1,115 @@
 ---
-title: "L'Encyclopédie de Taïwan : un rêve de savoir national à 500 millions"
-description: "En 2004, Taïwan lance le plus grand chantier de connaissances de son histoire, l'« Encyclopédie de Taïwan ». Du plan initial de 1,4 milliard de NT$ de Wang Jung-wen à l'exécution réelle de 520 millions, après trois itérations de système et l'évolution des licences, le projet ferme son site indépendant en 2014. C'est l'histoire d'un changement de paradigme : à l'ère numérique, l'État passe du « gardien du texte canonique » au « fournisseur de matière première ouverte »."
+title: "Encyclopédie de Taïwan : Le rêve de savoir national d'une valeur de cinq cents millions de yuans"
+description: "En 2004, Taïwan a lancé l'« Encyclopédie de Taïwan », le projet de connaissance à plus grande échelle de son histoire. Ce projet, partant du plan ambitieux initial de 1,4 milliard de yuans par Wang Rongwen pour une exécution réelle de 520 millions, a connu trois itérations systémiques et des évolutions de licences avant que le site indépendant ne soit fermé en 2014. Il s'agit non seulement d'une histoire de transformation technologique, mais aussi d'un profond changement de paradigme national : passer du statut de « détenteur de l'autorité éditoriale » à celui de « fournisseur de ressources ouvertes » à l'ère numérique."
 date: 2026-04-28
+category: 'Society'
 tags:
   [
     'Ministère de la Culture',
-    'Wang Jung-wen',
-    'Archives numériques',
-    'Mémoire culturelle nationale',
-    'Souveraineté du savoir',
+    'Wang Rongwen',
+    'patrimoine numérique',
+    'base de données culturelle nationale',
+    'souveraineté des connaissances',
     'Web 2.0',
-    'Lee Yuan-tseh',
+    'Li Yuan-che',
   ]
-category: 'Society'
-subcategory: 'Médias et expression'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 20
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:dacc755fc6695d56'
-sourceBodyHash: 'sha256:8ca41487dbdd4aec'
-translatedAt: '2026-05-09T14:31:09Z'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:ebc2cadf850b7fc2'
+sourceBodyHash: 'sha256:37186c1b6ac0ce30'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
 > **Aperçu en 30 secondes :**
-> Lancée en 2004, l'« Encyclopédie de Taïwan » est un jalon de la tentative taïwanaise d'asseoir une subjectivité culturelle, avec un budget total atteignant 520 millions de NT$. Partie d'un plan grandiose de 1,4 milliard de NT$ imaginé par l'éditeur Wang Jung-wen (30 volumes, 100 000 entrées, version anglaise), l'exécution a oscillé entre l'« autorité » des relectures expertes et la « liberté » de la collaboration en ligne. Trois itérations de système (développement propre, MediaWiki, système indépendant), évolution des licences (de la GFDL aux CC), réduction du plan papier — pour aboutir, le 15 juillet 2014, à la fermeture du site indépendant et l'intégration à la « Base de données nationale de la culture ». Cette expérience illustre la mutation du rôle de l'État à l'ère numérique : du monopole du « canon » à la fourniture de « matières ouvertes » co-créées avec la société et l'IA.
+> L'« Encyclopédie de Taïwan », lancée en 2004, fut une étape clé dans la tentative de Taïwan d'établir sa propre identité culturelle, avec un budget total estimé à 520 millions. Ce projet est parti du plan grandiose initial de 1,4 milliard de yuans imaginé par l'éditeur Wang Rongwen (incluant 30 tomes massifs, 100 000 entrées et une version anglaise), mais il a été marqué par des tensions récurrentes entre « l'autorité » vérifiée par les experts et la « liberté » de collaboration en ligne. Après trois itérations systémiques (développement propre, MediaWiki, système indépendant), l'évolution du mécanisme de licence (de GFDL à CC) et la réduction du projet papier, le site indépendant a finalement été fermé le 15 juillet 2014 pour être intégré dans la « Base de données culturelle nationale ». Cette expérience a démontré la transformation du rôle national à l'ère numérique : passer de la tentative de monopoliser l'« interprétation canonique » à celle de fournir des « ressources ouvertes » pour la collaboration citoyenne et IA.
 
-« A-Bian a toujours pensé que nous devions disposer d'une _Encyclopédie de Taïwan_, capable de cristalliser fidèlement les courants de l'époque et le sentiment populaire. »[^1] Le 13 mai 2004, dans le 135e numéro de sa lettre électronique, le président d'alors Chen Shui-bian élève la rédaction d'une encyclopédie au rang de stratégie nationale, soulignant son rôle de « moteur de recherche complet sur Taïwan » et de « collection de connaissances de la culture taïwanaise »[^1][^2].
+« A-Bian [Chen Shui-bian] pensait toujours que nous devrions avoir une _Encyclopédie de Taïwan_, une encyclopédie capable de refléter fidèlement les tendances de l'époque et le sentiment populaire de Taïwan. »[^1] Le 13 mai 2004, le président Chen Shui-bian a élevé la compilation de cette encyclopédie au rang de stratégie nationale dans le numéro 135 du « Bulletin électronique A-Bian », soulignant son importance en tant que « moteur de recherche complet pour l'étude de Taïwan » et « collection de connaissances sur la culture taïwanaise »[^1][^2].
 
-Ce chantier de 500 millions est un pari sur le « droit d'interpréter Taïwan ». Sous-projet du « Plan national des archives numériques », il s'inscrit dans la politique nationale de numérisation, de l'industrie créative et des données ouvertes[^2].
+Ce projet, d'une valeur de 500 millions, fut un pari sur le « droit d'interprétation propre à Taïwan ». En tant que sous-projet du « Plan national de patrimoine numérique », il était étroitement lié aux politiques nationales de numérisation, d'industrie créative culturelle et de données ouvertes à l'époque[^2].
 
-### Vision : le plan grandiose à 1,4 milliard d'un magnat de l'édition
+### Vision : Le plan grandiose de 1,4 milliard de yuans du magnat de l'édition
 
-L'âme du projet est Wang Jung-wen, président de Yuan-Liou Publishing. Pour cet éditeur, une encyclopédie est la médaille suprême. Vision initiale très ambitieuse : finir la **version chinoise en ligne en 4 ans**, la **version anglaise en ligne en 5 ans**, le **papier en 6 ans** (au moins **30 volumes**, **50 millions de caractères chinois**, 10 000 jeux imprimés à offrir aux écoles et à l'international)[^2].
+Le personnage central de ce projet colossal est Wang Rongwen, directeur général de Yuanliu Publishing. Pour lui, l'encyclopédie était le plus haut honneur d'un éditeur. La vision présentée par Wang Rongwen au début du projet était extrêmement ambitieuse : il souhaitait terminer la **version chinoise en ligne en 4 ans**, la **version anglaise en ligne en 5 ans** et publier la **version imprimée en 6 ans** (au moins **30 tomes massifs**, avec **50 millions de caractères chinois**, pour une édition de 10 000 exemplaires offerte aux écoles et à l'international)[^2].
 
-Objectifs de contenu : architecture claire en arbre du savoir (Propedia) et **au moins 100 000 entrées**. Référé à la révision de l'_Encyclopædia Britannica_ (16e éd.), budget total estimé à **1,4 milliard de NT$** sur six ans, avec proposition de fonder une fondation pour l'entretien de long terme[^2]. Pour assurer l'autorité, le prix Nobel Lee Yuan-tseh est nommé en mai 2007 **rédacteur en chef du comité de contrôle**[^1][^3].
+Les objectifs de contenu comprenaient une **structure de connaissances claire (Propedia)** et **au moins 100 000 entrées**. En se basant sur le budget révisé du 16e édition de _Britannica_, il a estimé que le budget total sur six ans devait atteindre **1,4 milliard de yuans**, suggérant la création d'une fondation pour l'entretien à long terme[^2]. Pour garantir son autorité, le projet a invité Li Yuan-che (李遠哲) — lauréat du prix Nobel — à servir de **superviseur principal au comité éditorial** en mai 2007[^1][^3].
 
-La réalité a divergé de l'idéal. Le budget effectif fut d'environ **520 millions de NT$**[^1]. Le plan initial de **20 volumes papier** prévus pour 2008 a été réduit ; pour des raisons budgétaires et un recentrage numérique, seule la première phase de 6 volumes a été éditée par la filiale « Wisdom Repository Learning Technology » de Yuan-Liou ; le grand programme papier n'a pas vu le jour comme prévu[^1][^2][^4].
+Cependant, il y eut un écart significatif entre la réalité et l'idéal. Le budget réel d'exécution était d'environ **520 millions de yuans**[^1]. Le plan initial prévoyant la publication de **20 tomes imprimés en 2008** n'a pas été réalisé comme prévu, car le financement et le changement de concentration ont conduit à ce que seule la filiale de Yuanliu, "Smart Storage Learning Technology", complète les 6 premiers tomes, sans réaliser l'ampleur du projet d'impression[^1][^2][^4].
 
-📝 Note du commissaire : quand le rêve éditorial rencontre le budget public, ce pari semble doté du meilleur soutien… mais il est aussi condamné à dix ans de négociation avec la bureaucratie, l'évolution technique et la culture des communautés.
+📝 Note du curateur : Lorsque le rêve de publication rencontre le budget national, ce pari semble avoir un soutien puissant, mais il est aussi destiné à négocier avec la bureaucratie, les changements technologiques et la culture communautaire pendant dix ans.
 
-### Pivot : trois itérations de système et la lutte des licences
+### Le tournant : Les tensions des trois itérations systémiques et du mécanisme de licence
 
-Le projet a d'abord priorisé une « édition grand public » et a connu trois grandes itérations techniques et licencielles :
+Au début du projet, une stratégie privilégiant la « version grand public » a été adoptée, suivie par trois grandes itérations techniques et évolutions de licences :
 
-1.  **Système développé en interne (lancé en janvier 2005)**, par l'Association de l'Agenda 21 de Taïwan. L'inscription exigeait nom, téléphone, voire **numéro de carte d'identité**, suscitant de fortes inquiétudes sur la vie privée[^1][^2]. Le système initial « rémunérait l'auteur après acceptation par relecture », ce qui provoqua un afflux d'entrées et un retard sévère de l'examen[^5].
-2.  **MediaWiki (refonte 2007)** : le site passe à MediaWiki, sous **licence GNU FDL**[^2]. L'ouverture élevée du système a permis « presque aucune vérification du contenu utilisateur » et **les copies en violation de droits ont proliféré**, créant la plus grande crise de qualité du projet[^1][^2].
-3.  **Système indépendant (refonte d'octobre 2009)** : pour résoudre les violations de droits et la qualité, le site bascule vers un système indépendant (taiwanpedia.culture.tw), licencié en **CC BY-NC-SA 2.5**, clarifiant la position « ouvert mais non commercial »[^1][^2].
+1. **Système développé en interne (activé en janvier 2005)** : Géré par l'Association pour le programme du XXIe siècle à Taïwan. L'inscription nécessitait un nom, un numéro de téléphone, voire un **numéro d'identité**, ce qui a soulevé de graves préoccupations concernant la vie privée[^1][^2]. La méthode initiale « paiement après vérification de la contribution » a entraîné un afflux massif d'entrées et un retard important dans le processus de révision[^5].
+2. **Système MediaWiki (révisé en 2007)** : Le site est passé au système MediaWiki, avec une licence basée sur la **GNU Free Documentation License (GFDL)**[^2]. À cette période, l'ouverture du système a conduit à un « contenu de nettet qui était presque sans vérification », et des **articles contrefaits étaient omniprésents**, devenant la plus grande crise de qualité du projet[^1][^2].
+3. **Système indépendant (révisé en octobre 2009)** : Pour résoudre les problèmes de contrefaçon et de qualité, le site a été modifié à nouveau pour utiliser un système indépendant (taiwanpedia.culture.tw), ajustant la licence à **CC BY-NC-SA 2.5 Creative Commons**, précisant une position « ouverte mais non commerciale »[^1][^2].
 
-« Les internautes habitués au web ont tendance à rejeter l'écriture et la modération du savoir dirigées par l'État. »[^5] C'est le consensus du Conseil des affaires culturelles (aujourd'hui ministère de la Culture) après une consultation d'experts en 2006. Les craintes sur la suppression de la modération ne portaient pas que sur l'autorité, mais aussi sur le risque que la « subjectivité taïwanaise » soit diluée dans le bruit[^2].
+« Les citoyens qui utilisent Internet ont tendance à rejeter les connaissances rédigées et vérifiées par des autorités officielles. »[^5] C'était un consensus issu de discussions menées en 2006 par le Ministère de la Culture (alors Conseil national de la culture) avec des experts. Les experts craignaient non seulement l'autorité, mais aussi que « l'identité propre à Taïwan » soit diluée par le bruit[^2].
 
-### Résultats : production de savoir sous le « ton pyramide »
+### Résultats : La production de connaissances sous la tonalité pyramidale
 
-Malgré les heurts, _L'Encyclopédie de Taïwan_ a légué un patrimoine académique précieux. Sa version professionnelle insiste sur le « ton pyramide » : trois premières phrases avec des faits concrets, puis approfondissement progressif et accessible, enfin lectures complémentaires[^6]. Au milieu et à la fin des années 2000, le projet a systématisé histoire, géographie, folklore, littérature, etc. — 16 domaines au total[^5][^7].
+Malgré les difficultés, l'« Encyclopédie de Taïwan » a laissé un héritage académique précieux. La version professionnelle insistait sur la « tonalité pyramidale » : les trois premières phrases devaient contenir des faits concrets, suivies d'une explication progressive, et se terminant par une lecture approfondie[^6]. Ce projet a organisé de manière systématique 16 domaines — histoire, géographie, coutumes, littérature, etc. — pour Taïwan à la fin des années 2000[^5][^7].
 
-| Catégorie                              | Données                                                                            |
-| :------------------------------------- | :--------------------------------------------------------------------------------- |
-| **Plan version grand public**          | 15 036 entrées                                                                     |
-| **Soumissions grand public**           | 11 793 (environ 10 648 ont passé l'examen au début)[^2]                            |
-| **Cumul**                              | Environ **50 008 entrées** fin 2011 (cumul incluant non strictement examinées)[^2] |
-| **Production version professionnelle** | Plus de **13 000 entrées de haute qualité revues par experts**[^5]                 |
-| **Ressources multimédias**             | 8 929 images et quelques fichiers audio/vidéo[^2]                                  |
+| Catégorie                      | Contenu des données                                                                                            |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| **Plan Grand Public**          | 15 036 entrées                                                                                                 |
+| **Soumission Grand Public**    | 11 793 (environ 10 648 après vérification) [^2]                                                                |
+| **Données cumulées**           | Environ **50 008 entrées** accumulées jusqu'à fin 2011 (y compris les quantités non strictement vérifiées)[^2] |
+| **Production Professionnelle** | Plus de **13 000 entrées de haute qualité révisées par des experts**[^5]                                       |
+| **Ressources multimédias**     | 8 929 images et certains fichiers vidéo[^2]                                                                    |
 
-📝 Note du commissaire : le plus précieux n'est pas les 500 millions, mais le bilan complet de connaissances que l'encyclopédie a forcé les experts de tous les domaines à dresser pour Taïwan, à un moment crucial de la transition numérique, en tentant d'interagir avec les communautés en ligne.
+📝 Note du curateur : Ce qui est le plus précieux dans cette encyclopédie, ce n'est pas les cinq cents millions de yuans, mais le fait qu'elle a forcé des experts de divers domaines à effectuer un examen complet des connaissances pour Taïwan au début de la transformation numérique et à tenter d'interagir avec la communauté en ligne.
 
-### Dénouement : le retrait numérique de 2014 et le changement de paradigme
+### La fin : Le retrait numérique de 2014 et le changement de paradigme
 
-En juin 2014, le ministère de la Culture intègre officiellement les entrées de l'_Encyclopédie de Taïwan_ à la « Base de données nationale de la culture » (nrch.culture.tw), sans plus de collaboration ouverte[^1][^2]. Le **15 juillet 2014**, le site indépendant est officiellement fermé[^1][^2].
+En juin 2014, le Ministère de la Culture a officiellement intégré les entrées de l'« Encyclopédie de Taïwan » dans la « Base de données culturelle nationale » (nrch.culture.tw), cessant la collaboration communautaire[^1][^2]. Le **15 juillet 2014**, le site indépendant a été définitivement fermé[^1][^2].
 
-C'est un tournant : l'État reconnaît les limites d'un « canon » unique à l'ère du Web 2.0 et choisit de transformer le contenu en composante d'« Open Data ». Aujourd'hui, ces entrées sont intégrées à la « Mémoire culturelle nationale 2.0 », passant du « canon expert » à la « bibliothèque de matière commune », avec applications NLP et IA, dans une logique de partage et de recréation de l'« ADN culturel »[^8][^9].
+Ceci représente un tournant important : l'État a choisi de reconnaître les limites d'une « encyclopédie canonique » gérée par une seule entité à l'ère du Web 2.0, et a plutôt transformé le contenu en partie des « Données Ouvertes ». Aujourd'hui, ces entrées sont intégrées dans la « Base de données culturelle nationale 2.0 », passant d'un « canon éditorialisé par les experts » à un « répertoire de ressources pour tous », intégrant l'IA et le NLP, mettant l'accent sur le partage et la récréation de l'« ADN culturel »[^8][^9].
 
-### Défis et controverses : nouveau front de la souveraineté du savoir
+### Défis et controverses : Le nouveau champ de bataille de la souveraineté des connaissances
 
-Cette guerre du savoir n'est pas finie. Fin 2025, les Éditions Encyclopaedia of China publient _Encyclopédie de Taïwan · Histoire_, 960 000 caractères, axée sur le « principe d'une seule Chine »[^10]. Preuve que, sans nous définir nous-mêmes, d'autres le feront pour nous.
+Cette guerre des savoirs ne s'est pas terminée. Fin 2025, l'éditeur chinois _China Encyclopedia Press_ a lancé l'_Encyclopédie de Taïwan · Histoire_, avec 960 000 caractères, insistant sur le « principe d'une seule Chine »[^10]. Cela prouve que si nous ne nous définissons pas, quelqu'un d'autre le fera pour nous.
 
-L'avenir de la souveraineté taïwanaise du savoir n'est peut-être pas dans un « canon national », mais dans la capacité à rendre le contenu local visible et entretenu sur les plateformes globales (Wikipédia, grands modèles d'IA). Cette expérience à 500 millions a livré une leçon profonde : le rôle de l'État est mieux placé en gardien de l'archivage de base et de la donnée ouverte qu'en monopolisateur du canon.
+L'avenir de la souveraineté des connaissances taïwanaises réside peut-être non pas dans un « canon national », mais dans la manière dont le contenu local est visible et maintenu sur les plateformes mondiales (comme Wikipédia ou les grands modèles d'IA). Cette expérience, qui a coûté cinq cents millions, a laissé une leçon profonde : le rôle le plus adapté pour l'État est celui de gardien du patrimoine de base et des données ouvertes, et non celui de détenteur exclusif de l'interprétation des connaissances.
 
-📝 Note du commissaire : à l'ère de la collaboration distribuée, la vitalité du savoir vient de l'ouverture, non du contrôle.
+📝 Note du curateur : Cette expérience prouve que l'État convient à être un dépositaire de base et des données ouvertes, et non un monopoliste de l'interprétation canonique. À l'ère de la collaboration distribuée, la vitalité du savoir provient de l'ouverture, pas du contrôle.
 
-**Pour aller plus loin** :
+**Lectures complémentaires :**
 
-- [Ministère de la Culture](../Society/文化部) — Organisme gouvernemental dirigeant le projet
-- [Wikipédia](維基百科) — Paradigme contemporain d'encyclopédie collaborative Web 2.0
-- [PanSci](/fr/society/pansci) — Communauté de vulgarisation scientifique et plateforme de savoir civile ; des articles aux cours, des vidéos aux services créateurs, l'exemple de la transformation du savoir dans l'économie de plateforme
-- [Mémoire culturelle nationale](國家文化記憶庫) — Plateforme successeur recevant les entrées du projet
+- Ministère de la Culture — L'organisme gouvernemental qui a dirigé le projet
+- [Wikipédia](維基百科) — Le paradigme d'encyclopédie collaboratif Web 2.0 à cette époque
+- [PanScience](/fr/society/pansci) — Cas comparatif des communautés scientifiques amateurs et des plateformes de connaissances, montrant comment les connaissances sont transformées dans l'économie des plateformes (articles, cours, vidéos, services aux créateurs)
+- [Base de données culturelle nationale](國家文化記憶庫) — La plateforme successorale qui a reçu les entrées du projet
 
 ---
 
 **Références :**
 
-[^1]: [L'Encyclopédie de Taïwan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Budget 520 M NT$ + trois itérations + chronologie complète jusqu'à la fermeture en 2014
+[^1]: [Encyclopédie de Taïwan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Chronologie complète : 520 millions de yuans + trois itérations systémiques + fermeture en 2014
 
-[^2]: [Évolution éditoriale de l'encyclopédie traditionnelle vs Wikipédia — Bulletin de la bibliothèque NTU](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Article académique comparant le canon et la collaboration
+[^2]: [Évolution éditoriale entre encyclopédies traditionnelles et Wikipédia - Bibliothèque universitaire de Tainan](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Article académique comparant les modèles d'édition canonique et collaboratif
 
-[^3]: [Lee Yuan-tseh — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Prix Nobel de chimie, rédacteur en chef du comité en 2007
+[^3]: [Li Yuan-che - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Lauréat du prix Nobel de chimie, superviseur principal de l'Encyclopédie de Taïwan en 2007
 
-[^4]: [Encyclopédie de Taïwan — Baike](https://m.baike.com/wikiid/362001236109550645) — Réduction du plan papier de 30 à 6 volumes
+[^4]: [Grande Encyclopédie de Taïwan - Douyin Encyclopedia](https://m.baike.com/wikiid/362001236109550645) — Registre passant des 30 tomes massifs à 6 premiers tomes par la filiale "Smart Storage"
 
-[^5]: [Suppression de la modération — Taiwan Law Network](https://www.lawtw.com/archives/344744) — Le consensus du CCA en 2006
+[^5]: [Modification de l'Encyclopédie de Taïwan et annulation du mécanisme de vérification - Taiwan Law Net](https://www.lawtw.com/archives/344744) — Enregistrement du consensus en 2006 où le Ministère de la Culture a invité des experts à discuter du « rejet par les citoyens d'Internet de la vérification dirigée par l'autorité »
 
-[^6]: [Style éditorial professionnel — Blog Wisdom Repository](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Règle « ton pyramide »
+[^6]: [Norme de rédaction de la version professionnelle de l'Encyclopédie de Taïwan - Blog Smart Storage Encyclopedia](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Norme de rédaction exigeant que les trois premières phrases contiennent des faits concrets
 
-[^7]: [Index historique des entrées](https://xiyu.url.tw/1/11/11-37.htm) — Visite des 16 domaines
+[^7]: [Histoire et index de classification de l'Encyclopédie de Taïwan](https://xiyu.url.tw/1/11/11-37.htm) — Guide d'entrées pour la systématisation de 16 domaines
 
-[^8]: [Communiqué Mémoire culturelle nationale 2.0 — Ministère de la Culture](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Du « canon » à la « matière commune »
+[^8]: [Nouvelle mise en ligne de la Base de données culturelle nationale 2.0 - Communiqué du Ministère de la Culture](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Annonce de l'intégration des entrées de l'Encyclopédie de Taïwan dans le « répertoire de ressources pour tous » + intégration NLP/IA
 
-[^9]: [Portail thématique de la Mémoire culturelle nationale](https://nrch.culture.tw/nrch/zh-tw)
+[^9]: [Page d'accueil du site thématique de la Base de données culturelle nationale](https://nrch.culture.tw/nrch/zh-tw) — Plateforme successorale qui a reçu les entrées de l'Encyclopédie de Taïwan
 
-[^10]: [Storm Media — _Encyclopédie de Taïwan · Histoire_ chinoise (960 000 caractères) « principe d'une seule Chine »](https://www.storm.mg/article/11083147) — Sortie 2025
+[^10]: [La Chine, _Grande Encyclopédie de Taïwan · Histoire_ de 960 000 caractères insiste sur le principe d'une seule Chine - Feng Media](https://www.storm.mg/article/11083147) — Lancée par China Encyclopedia Press en 2025, soulignant la compétition trans-meridionale pour la souveraineté des connaissances
 
-[^11]: [Wang Jung-wen sur l'édition de l'Encyclopédie](http://ceo.ylib.com/job011.htm) — Vision d'origine à 1,4 milliard de NT$
+[^11]: [Wang Rongwen : Mon opinion et ma méthode concernant la compilation de l'_Encyclopédie de Taïwan_](http://ceo.ylib.com/job011.htm) — Vision originale du plan grandiose de 1,4 milliard de yuans par le PDG de Yuanliu et planification en 30 tomes
