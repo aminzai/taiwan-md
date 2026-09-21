@@ -18,7 +18,11 @@ featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 18
-rationale: "{'why_this_hook': '把停電從供電量爭論改寫成關於節點、程序、地方復原與公共服務的基礎設施議題。', 'which_framing': '台灣的半導體產業、醫療、交通、通訊與日常生活高度依賴穩定電力。', 'where_it_hedges': '十年 5,645 億元電網韌性計畫正在推進，微電網與分散式供電也開始進入地方防災場景。', 'whos_pushing_back': '以 2017 年 815 與 2022 年 303 事故作為制度轉折，連結配電改善與能源轉型。'}"
+rationale:
+  why_this_hook: '把停電從供電量爭論改寫成關於節點、程序、地方復原與公共服務的基礎設施議題。'
+  which_framing: '台灣的半導體產業、醫療、交通、通訊與日常生活高度依賴穩定電力。'
+  where_it_hedges: '十年 5,645 億元電網韌性計畫正在推進，微電網與分散式供電也開始進入地方防災場景。'
+  whos_pushing_back: '以 2017 年 815 與 2022 年 303 事故作為制度轉折，連結配電改善與能源轉型。'
 curation: 'incubating'
 translatedFrom: 'Society/電網韌性.md'
 sourceCommitSha: 'e80217d19'

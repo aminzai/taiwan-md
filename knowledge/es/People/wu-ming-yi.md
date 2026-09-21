@@ -30,7 +30,11 @@ imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1965%E4%B8%AD%E8%8F%AF%E5%95%86%E5%A0%B4%E5%BB%BA%E7%AF%89.jpg'
 difficulty: 'intermediate'
 readingTime: 24
-rationale: "{'why_this_hook': '複眼＝看的方法，對抗「得獎履歷」通行敘事；中華商場是可感記憶入口', 'whats_excluded': '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費', 'where_it_hedges': '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪', 'whos_pushing_back': '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'}"
+rationale:
+  why_this_hook: '複眼＝看的方法，對抗「得獎履歷」通行敘事；中華商場是可感記憶入口'
+  whats_excluded: '獎項流水帳、國籍事件當主脊、劇情百科式複述、對楊双子的對立消費'
+  where_it_hedges: '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪'
+  whos_pushing_back: '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'
 translatedFrom: 'People/吳明益.md'
 sourceCommitSha: '36aaa72e1'
 sourceContentHash: 'sha256:4084ed4b3480a75a'

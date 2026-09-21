@@ -20,7 +20,11 @@ image: '/article-images/food/kaohsiung-city-sunset.webp'
 imageAlt: 'Atardecer sobre el centro de Kaohsiung y su puerto'
 imageCredit: 'Heeheemalu / Wikimedia Commons'
 readingTime: 9
-rationale: "{'why_this_hook': '從高雄七賢二路 224 號和一碗麵線羹切入。這兩個可核對的細節同時交代丹丹的地理起點與菜單特徵，讓文章先落在一間店和一份餐，而不是先把品牌寫成抽象的南部象徵。', 'whats_excluded': '不寫沒有官方文件支持的 2026 年店數，不把家族加盟、租金、供應鏈、口味或公益活動推測寫成不北上的原因，也不把旅遊文章的個人推薦當成銷量排名或全體南部人的共同記憶。', 'where_it_hedges': '1984 年由品牌頁與多篇媒體交叉支持。2008 年 38 家、2019 年初 43 家與 2021 年分店頁各有資料日期，分開呈現。加盟與不北上只寫成媒體轉述與外界猜測，因為目前找到的公開來源沒有品牌正式說明。', 'whos_pushing_back': '可能認為丹丹應該北上展店的讀者、把南部限定看成行銷操作的讀者，以及只想要一份必吃清單而不想看來源限制的讀者。文章保留這些問題，但不替品牌或消費者補上沒有證據的答案。'}"
+rationale:
+  why_this_hook: '從高雄七賢二路 224 號和一碗麵線羹切入。這兩個可核對的細節同時交代丹丹的地理起點與菜單特徵，讓文章先落在一間店和一份餐，而不是先把品牌寫成抽象的南部象徵。'
+  whats_excluded: '不寫沒有官方文件支持的 2026 年店數，不把家族加盟、租金、供應鏈、口味或公益活動推測寫成不北上的原因，也不把旅遊文章的個人推薦當成銷量排名或全體南部人的共同記憶。'
+  where_it_hedges: '1984 年由品牌頁與多篇媒體交叉支持。2008 年 38 家、2019 年初 43 家與 2021 年分店頁各有資料日期，分開呈現。加盟與不北上只寫成媒體轉述與外界猜測，因為目前找到的公開來源沒有品牌正式說明。'
+  whos_pushing_back: '可能認為丹丹應該北上展店的讀者、把南部限定看成行銷操作的讀者，以及只想要一份必吃清單而不想看來源限制的讀者。文章保留這些問題，但不替品牌或消費者補上沒有證據的答案。'
 curation: 'incubating'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Sunset_over_the_city_centre_of_Kaohsiung,_Taiwan.jpg'

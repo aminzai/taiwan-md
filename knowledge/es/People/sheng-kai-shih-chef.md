@@ -19,7 +19,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '從家用料理短片與餐廳創業出發，觀察料理網紅如何把觀看轉成商品，也如何在食品爭議中面對信任成本。', 'whats_excluded': '不把聖凱師寫成食品安全專家，也不把媒體報導中的消費爭議擴張成未經法院確認的個人定罪。', 'where_it_hedges': '年菜事件分開呈現消費者反映、錵鑶說法、代工廠抗辯與法院判決可確認的部分，不把報導中的指控混寫成單一事實。', 'whos_pushing_back': '消費者、食品代工業者、餐飲勞動者與重視食品標示和品質管理的讀者，都可能對成功故事的單線敘事提出反問。'}"
+rationale:
+  why_this_hook: '從家用料理短片與餐廳創業出發，觀察料理網紅如何把觀看轉成商品，也如何在食品爭議中面對信任成本。'
+  whats_excluded: '不把聖凱師寫成食品安全專家，也不把媒體報導中的消費爭議擴張成未經法院確認的個人定罪。'
+  where_it_hedges: '年菜事件分開呈現消費者反映、錵鑶說法、代工廠抗辯與法院判決可確認的部分，不把報導中的指控混寫成單一事實。'
+  whos_pushing_back: '消費者、食品代工業者、餐飲勞動者與重視食品標示和品質管理的讀者，都可能對成功故事的單線敘事提出反問。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/聖凱師.md'
