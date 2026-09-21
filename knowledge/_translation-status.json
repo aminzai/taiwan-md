@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T06:21:46+08:00",
-    "zhCommitHead": "3fe4cc8d0",
+    "lastUpdated": "2026-09-22T06:48:42+08:00",
+    "zhCommitHead": "5faca082f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,40 +44,40 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 65,
+        "fresh": 1036,
+        "stale": 64,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1045,
-        "stale": 51,
+        "fresh": 1046,
+        "stale": 50,
         "metadata_stale": 9,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1024,
+        "fresh": 1025,
         "stale": 44,
-        "metadata_stale": 39,
+        "metadata_stale": 38,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 959,
+        "fresh": 960,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1014,
-        "stale": 54,
+        "fresh": 1015,
+        "stale": 53,
         "metadata_stale": 11,
         "missing": 45,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1024,
+        "fresh": 1025,
         "stale": 41,
         "metadata_stale": 9,
-        "missing": 50,
+        "missing": 49,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 841,
+        "fresh": 842,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 268,
+        "missing": 267,
         "orphan": 0
       }
     },
@@ -68592,19 +68592,17 @@
         "fr": {
           "path": "fr/Society/taiwan-diplomatic-allies-and-international-relations.md",
           "translatedFrom": "Society/台灣邦交國與國際外交.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:106427f4b2a59983",
-          "sourceBodyHash": "sha256:52dab0b7f31fb6c8",
-          "translatedAt": "2026-06-07T02:26:08+08:00",
+          "sourceCommitSha": "669a4c875",
+          "sourceContentHash": "sha256:4a54c99c213cd153",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T22:30:16.464691+00:00",
           "translationLastCommit": "00b2431a",
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 42,
-          "bytes": 43756,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "bytes": 45142,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/taiwan-diplomatic-allies-and-international-relations.md",
@@ -102079,19 +102077,17 @@
         "es": {
           "path": "es/People/cheng-chou-yu-poet.md",
           "translatedFrom": "People/鄭愁予.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:7c0bf67bc5769db3",
-          "sourceBodyHash": "sha256:84e6ff9ee9820120",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "sourceCommitSha": "cce7f2522",
+          "sourceContentHash": "sha256:05733d2c54bfc625",
+          "sourceBodyHash": "sha256:77382e9a08c09f18",
+          "translatedAt": "2026-09-21T22:31:45.867664+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 34877,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "bytes": 34689,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/cheng-chou-yu-poet.md",
@@ -103911,7 +103907,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/lu-guan-wei-junyiacademy-founder.md",
+          "translatedFrom": "People/呂冠緯.md",
+          "sourceCommitSha": "0bedbf853",
+          "sourceContentHash": "sha256:8eb31268ec4f6e73",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T22:09:59.167882+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "bytes": 55917,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129754,7 +129762,19 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/nieh-yung-jen.md",
+          "translatedFrom": "People/聶永真.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:54a5de1265f2b2ea",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T22:10:04.040569+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 74232,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -141486,7 +141506,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-breakfast-culture.md",
+          "translatedFrom": "Food/台灣早餐文化.md",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T22:00:07.959048+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 61534,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -162241,19 +162273,17 @@
         "vi": {
           "path": "vi/History/taiwan-forestry-history.md",
           "translatedFrom": "History/台灣森林開發史.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:8069998f1aa354c8",
           "sourceBodyHash": "sha256:55bbc4efed5f30a9",
-          "translatedAt": "2026-07-25T07:55:51+08:00",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "845f041c",
           "translationLastModified": "2026-07-25T09:20:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13213,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 14999,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-forestry-history.md",
@@ -163180,8 +163210,8 @@
           "sourceContentHash": "sha256:b6388def07095d7a",
           "sourceBodyHash": "sha256:023966d5fd73721a",
           "translatedAt": "2026-09-22T02:06:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5faca082",
+          "translationLastModified": "2026-09-22T06:21:46+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 22580,
@@ -195281,17 +195311,17 @@
         "pt": {
           "path": "pt/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7f4fc66b36800cb9",
+          "sourceBodyHash": "sha256:3e6fa91c9ef25405",
+          "translatedAt": "2026-09-22T04:48:30+08:00",
           "translationLastCommit": "c2c79c00",
           "translationLastModified": "2026-07-25T00:43:31+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 10617,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "footnoteDefs": 10,
+          "bytes": 22434,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-furry-culture.md",
