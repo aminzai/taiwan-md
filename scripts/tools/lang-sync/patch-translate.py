@@ -86,6 +86,7 @@ cjkleak = import_module("cjk-leak-check")
 import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 zh_chunk 抽取點）
 
 _whole = import_module("translate")  # materialize_resolved_wikilinks（見 _resolve_wikilinks）
+_verify = import_module("verify-translation")  # extract_urls：跟 verify 第 11 檢查同一把尺（既有債預檢）
 
 LANG_NAMES = st.LANG_NAMES
 load_lang_guide_sections = st.load_lang_guide_sections
@@ -626,6 +627,31 @@ def main() -> int:
     if not git_sha_resolvable(old_sha, zh_rel):
         print(f"⏩ old_sha {old_sha} not resolvable for {zh_rel} — fallback")
         return 2
+
+    # 2026-09-22：既有譯文對「它自己翻的那版 zh」就已經帶 URL／腳註定義債時，局部 patch
+    # 只換掉幾章、其他章的債原封不動，verify trio 第 9／11 檢查對整份檔案量，一定拒收；
+    # dispatcher 要撞滿 5 次才升級整篇，run 98122 一夜 60 次 patch 拒收裡能讀出原因的
+    # 全是這型（zh=47 vs en=44、zh=51 vs en=16⋯⋯）。跟 target-language-check 那條預檢同一個
+    # 道理：不適用就 exit=2，讓整篇路徑立刻接手，不在注定失敗的路上燒五次。
+    # 用 verify-translation 的 extract_urls／FN_DEF_RE 同一把尺量，不另抄 regex（#83）。
+    old_zh_content = subprocess.run(
+        ["git", "show", f"{old_sha}:{zh_rel}"], cwd=REPO, capture_output=True, text=True,
+    ).stdout
+    if old_zh_content:
+        try:
+            _, _, old_zh_body_lines = parse_frontmatter_and_body(old_zh_content)
+            old_zh_body = "\n".join(old_zh_body_lines)
+            tr_body = "\n".join(tr_body_lines)
+            from collections import Counter as _Counter
+            url_debt = _Counter(_verify.extract_urls(old_zh_body)) != _Counter(_verify.extract_urls(tr_body))
+            fn_debt = len(FN_DEF_RE.findall(old_zh_body)) != len(FN_DEF_RE.findall(tr_body))
+            if url_debt or fn_debt:
+                kind = "+".join(k for k, v in (("URL multiset", url_debt), ("footnote defs", fn_debt)) if v)
+                print(f"⏩ existing translation already carries {kind} debt against its own source "
+                      f"({old_sha}) — patch cannot pass verify, fallback to full retranslate")
+                return 2
+        except ValueError:
+            pass  # 舊版 zh frontmatter 解析不了就不做這道預檢，照常往下
 
     diff_text = git_diff_u0(old_sha, zh_rel)
     if not diff_text.strip():

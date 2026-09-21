@@ -202,6 +202,29 @@ def detect_lang(trans_path: str) -> str:
     return m.group(1) if m else "en"
 
 
+URL_PATTERN = (
+    r"https?://[^\s<>\)\"\]`"
+    r"，。；：！？、（）〔〕【】《》「」『』…"      # 中日韓全形
+    r"،؛؟«»"                                    # 阿拉伯／波斯
+    r"।॥"                                       # 天城體 danda
+    r"]+"
+)
+
+
+def extract_urls(body: str) -> list[str]:
+    """抽網址並剝掉尾端的句讀（第 11 檢查「URL count」的尺；2026-09-22 從函式內
+    hoist 到模組層，讓 patch-translate.py 的「既有譯文自己就帶 URL 債」預檢 import
+    同一把尺，不另抄一份 regex）。
+
+    中文原文常把網址直接黏在標點後面（沒有空格），譯文則用該語言自己的
+    半形標點——同一個網址於是被抽成 `…AE` vs `…AE,` 兩個不同 token，
+    multiset 比對永遠不合。**兩邊套同一套剝除規則**才是對稱的比較：
+    剝的是句讀（. , ; : ! ?），不是網址結構字元（/ ? # & = 等），所以
+    真正的網址竄改（改路徑、換域名、加減參數）仍然抓得到。
+    """
+    return [u.rstrip(".,;:!?") for u in re.findall(URL_PATTERN, body)]
+
+
 def count_pattern(text: str, pat: str, flags=0) -> int:
     return len(re.findall(pat, text, flags))
 
@@ -434,24 +457,7 @@ def main():
     # 2026-08-01 那次同一種病：**擋下的是好譯文**。
     # 反引號一起加進來：URL 裡不可能有反引號，而 `\`URL\`` 這種行內碼寫法會讓
     # 兩側都多吞一個字元（湊巧對稱才沒爆），拿掉比留著乾淨。
-    url_pattern = (
-        r"https?://[^\s<>\)\"\]`"
-        r"，。；：！？、（）〔〕【】《》「」『』…"      # 中日韓全形
-        r"،؛؟«»"                                    # 阿拉伯／波斯
-        r"।॥"                                       # 天城體 danda
-        r"]+"
-    )
-
-    def _urls(body: str) -> list[str]:
-        """抽網址並剝掉尾端的句讀。
-
-        中文原文常把網址直接黏在標點後面（沒有空格），譯文則用該語言自己的
-        半形標點——同一個網址於是被抽成 `…AE` vs `…AE,` 兩個不同 token，
-        multiset 比對永遠不合。**兩邊套同一套剝除規則**才是對稱的比較：
-        剝的是句讀（. , ; : ! ?），不是網址結構字元（/ ? # & = 等），所以
-        真正的網址竄改（改路徑、換域名、加減參數）仍然抓得到。
-        """
-        return [u.rstrip(".,;:!?") for u in re.findall(url_pattern, body)]
+    _urls = extract_urls  # 模組層單一來源（2026-09-22 hoist，patch-translate 預檢同一把尺）
 
     zh_url_values = _urls(zh_body)
     en_url_values = _urls(en_body)
