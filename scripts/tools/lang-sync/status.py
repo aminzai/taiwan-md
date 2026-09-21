@@ -38,6 +38,9 @@ KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
 from langs import ALL_TRANSLATION_LANGS
 LANG_DIRS = ALL_TRANSLATION_LANGS  # SSOT: src/config/languages.mjs via langs.py (2026-07-18 出生戰役去硬編碼)
+# 全檔 bytes 比例低於此值判 truncated → 強制 stale（見 classify()）。數值 SSOT 與
+# audit-quality.py SUSPICIOUS_THRESHOLD / babel-dispatch.py CRITICAL_TRUNCATION_RATIO 一致。
+TRUNCATION_RATIO = 0.5
 
 
 # ---------- frontmatter parsing (no yaml dep, single-line scalar only) ----------
@@ -260,6 +263,7 @@ def scan_zh() -> dict:
             "contentHash": body_hash(content),
             "bodyHash": body_hash_pure(content),  # NEW: trailer-stripped pure narrative
             "footnoteDefs": count_footnote_defs(content),
+            "bytes": len(content.encode("utf-8")),
         }
     return result
 
@@ -296,6 +300,7 @@ def scan_translations(lang: str) -> dict:
             "translationLastModified": date,
             "inferred": fm.get("translatedFromInferred", "") in ("true", "True"),
             "footnoteDefs": count_footnote_defs(content),
+            "bytes": len(content.encode("utf-8")),
         }
     return result
 
@@ -324,6 +329,18 @@ def classify(zh_data: dict, trans_data: dict) -> dict:
     tr_fns = trans_data.get("footnoteDefs", 0)
     if zh_fns > 0 and tr_fns < zh_fns:
         return {"status": "stale", "reason": f"footnote-loss ({zh_fns}→{tr_fns})"}
+
+    # Truncation gate (2026-09-22)：跟上面腳註閘同一個道理——全檔 bytes 比例低於
+    # TRUNCATION_RATIO 的譯文是被攔腰砍斷的（ja 12,144 bytes 的 zh 只剩 2,077 bytes），
+    # 但 provenance 三個 hash 都對得上就被判 fresh，此後沒有任何路徑會再碰它：
+    # babel-health 每夜量到 76 份 CRITICAL(<0.5)，其中 11 份 status=fresh、65 份 stale；
+    # Tier 6/7 的資格集合也只看 stale／metadata-stale。門檻跟 audit-quality.py
+    # SUSPICIOUS_THRESHOLD／babel-dispatch.py CRITICAL_TRUNCATION_RATIO 同一把尺。
+    # 強制 stale（不是 missing）：舊頁留著給讀者，等新譯文過閘才換——寧可 stale 也不要 missing。
+    zh_bytes = zh_data.get("bytes", 0)
+    tr_bytes = trans_data.get("bytes", 0)
+    if zh_bytes > 0 and tr_bytes > 0 and (tr_bytes / zh_bytes) < TRUNCATION_RATIO:
+        return {"status": "stale", "reason": f"truncated (ratio {tr_bytes / zh_bytes:.2f})"}
 
     zh_sha = zh_data["lastCommit"]
     zh_hash = zh_data["contentHash"]

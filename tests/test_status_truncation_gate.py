@@ -1,0 +1,43 @@
+"""status.py classify()：截斷閘（2026-09-22）。provenance 三個 hash 全對但全檔 bytes 比例 < 0.5 的譯文
+過去被判 fresh、從此沒有任何路徑再碰它（babel-health 量到 11 份 fresh 卻 CRITICAL）。"""
+import importlib.util
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "tools" / "lang-sync"))
+MODULE_PATH = Path(__file__).resolve().parents[1] / "scripts" / "tools" / "lang-sync" / "status.py"
+SPEC = importlib.util.spec_from_file_location("lang_sync_status", MODULE_PATH)
+MODULE = importlib.util.module_from_spec(SPEC)
+assert SPEC and SPEC.loader
+SPEC.loader.exec_module(MODULE)
+
+
+def _zh(**kw):
+    base = {"lastCommit": "abc1234", "contentHash": "sha256:aa", "bodyHash": "sha256:bb", "footnoteDefs": 0, "bytes": 12000}
+    base.update(kw)
+    return base
+
+
+def _tr(**kw):
+    base = {"translatedFrom": "About/x.md", "sourceCommitSha": "abc1234", "sourceContentHash": "sha256:aa",
+            "sourceBodyHash": "sha256:bb", "footnoteDefs": 0, "bytes": 12000}
+    base.update(kw)
+    return base
+
+
+def test_truncated_translation_is_forced_stale_even_with_matching_provenance():
+    r = MODULE.classify(_zh(), _tr(bytes=2000))
+    assert r["status"] == "stale" and r["reason"].startswith("truncated")
+
+
+def test_footnote_loss_gate_still_fires_first():
+    r = MODULE.classify(_zh(footnoteDefs=5), _tr(bytes=2000, footnoteDefs=3))
+    assert r["reason"].startswith("footnote-loss")
+
+
+def test_missing_bytes_fields_do_not_trigger_gate(monkeypatch):
+    # 舊 status cache 沒有 bytes 欄位時不誤判（0 不算）
+    monkeypatch.setattr(MODULE, "git_commits_between", lambda *a, **k: 0)
+    monkeypatch.setattr(MODULE.Path, "exists", lambda self: True)
+    r = MODULE.classify(_zh(bytes=0), _tr(bytes=0))
+    assert r["status"] == "fresh"
