@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-27T04:56:49+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T14:29:20.552553+00:00'
 ---
 
 # Tsai Ing-wen: Dari Malam Kekalahan ke 8,17 Juta Suara, Delapan Tahun Presiden yang Tenang
@@ -178,13 +178,13 @@ Ia meninggalkan Istana Presiden, 8,17 juta suara sudah jadi angka sejarah. Tersi
 
 ## Referensi
 
-[^1]: [Komisi Pemilihan Pusat: Hasil Pemilihan Presiden/Wakil Presiden Ke-13](https://db.cec.gov.tw/ElecTable/Election?type=President)；[CNA: Tinjauan Pidato Kekalahan Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Selisih resmi 797.561 suara; pidato menggunakan kata "洩氣" (putus asa).
+[^1]: [Komisi Pemilihan Pusat: Hasil Pemilihan Presiden/Wakil Presiden Ke-13](https://db.cec.gov.tw/ElecTable/Election?type=President) — ；[CNA: Tinjauan Pidato Kekalahan Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Selisih resmi 797.561 suara; pidato menggunakan kata "洩氣" (putus asa)
 
 [^2]: [Komisi Pemilihan Pusat: Database Pemilihan Presiden/Wakil Presiden](https://db.cec.gov.tw/ElecTable/Election?type=President) — 2016: 6.894.744 suara (56,12%); 2020: 8.170.231 suara (57,13%).
 
-[^3]: [CNA: Pertumbuhan dan Keluarga Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx)；[ETtoday: Klaim Keturunan Paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Sumber terbuka beda soal generasi keturunan, tulisan ini hanya pakai "memiliki darah Paiwan".
+[^3]: [CNA: Pertumbuhan dan Keluarga Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ；[ETtoday: Klaim Keturunan Paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Sumber terbuka beda soal generasi keturunan, tulisan ini hanya pakai "memiliki darah Paiwan"
 
-[^4]: [LSE: Pernyataan soal S3 Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen)；[Universitas London: Pernyataan soal S3 Dr Tsai Ing-wen](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Konfirmasi langsung kampus soal gelar 1984.
+[^4]: [LSE: Pernyataan soal S3 Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ；[Universitas London: Pernyataan soal S3 Dr Tsai Ing-wen](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Konfirmasi langsung kampus soal gelar 1984
 
 [^5]: [CNN: Tsai Ing-wen, pemimpin yang menempatkan Taiwan di peta](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Pernyataan sendiri, observasi Gu Li-hsiung, dan Vanessa Hope harus dibedakan atribusinya.
 
@@ -192,7 +192,7 @@ Ia meninggalkan Istana Presiden, 8,17 juta suara sudah jadi angka sejarah. Tersi
 
 [^7]: [Kantor Presiden: Presiden Mewakili Pemerintah Minta Maaf ke Suku Asli](https://www.president.gov.tw/NEWS/20603) — Transkrip lengkap dan komitmen kebijakan 1 Agustus 2016.
 
-[^8]: [CNA: Undang-Undang Perkawinan Sesama Jenis Disahkan](https://www.cna.com.tw/news/firstnews/201905175002.aspx)；[BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — 17 Mei disahkan, 24 Mei berlaku; hari pertama 526 pasangan.
+[^8]: [CNA: Undang-Undang Perkawinan Sesama Jenis Disahkan](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ；[BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — 17 Mei disahkan, 24 Mei berlaku; hari pertama 526 pasangan
 
 [^9]: [Kantor Reformasi Pensiun Administrasi: Sejarah Reformasi Pensiun](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — RUU dan jadwal berlaku pensiun sipil dan militer.
 
@@ -206,7 +206,7 @@ Ia meninggalkan Istana Presiden, 8,17 juta suara sudah jadi angka sejarah. Tersi
 
 [^14]: [Kantor Presiden: Skema Penyesuaian Struktur Kekuatan Pertahanan Nasional](https://www.president.gov.tw/News/27201) — Diumumkan 27 Desember 2022, berlaku 2024 wajib milik satu tahun.
 
-[^15]: [Kementerian Pertahanan Jepang: Pergerakan Rudal Balistik Tiongkok Agustus 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html)；[Kementerian Pertahanan: Dinamik Latihan Militer Tiongkok](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Jepang identifikasi 9, Taiwan catat 11, tulisan ini pertahankan perbedaan metodologi.
+[^15]: [Kementerian Pertahanan Jepang: Pergerakan Rudal Balistik Tiongkok Agustus 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ；[Kementerian Pertahanan: Dinamik Latihan Militer Tiongkok](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Jepang identifikasi 9, Taiwan catat 11, tulisan ini pertahankan perbedaan metodologi
 
 [^16]: [CSIS ChinaPower: Melacak Peningkatan Aktivitas Militer Tiongkok 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 2022 lintas garis tengah 564 kali.
 
@@ -218,7 +218,7 @@ Ia meninggalkan Istana Presiden, 8,17 juta suara sudah jadi angka sejarah. Tersi
 
 [^20]: [Badan Pengelolaan Tanah Kementerian Dalam Negeri: Kemajuan Perumahan Sosial](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Statistik resmi pembangunan langsung, sewa kelola, subsidi sewa.
 
-[^21]: [Kementerian Ekonomi: Penjelasan Kebijakan Transisi Energi](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001)；[Badan Pengawas: Investigasi Pemadaman Massal Nasional](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Target struktur energi dan insiden pemadaman harus diatribusikan terpisah.
+[^21]: [Kementerian Ekonomi: Penjelasan Kebijakan Transisi Energi](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ；[Badan Pengawas: Investigasi Pemadaman Massal Nasional](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Target struktur energi dan insiden pemadaman harus diatribusikan terpisah
 
 [^22]: [BBC: Koran Tiongkok Dikritik soal Komentar Tsai yang Belum Menikah](https://www.bbc.com/news/world-asia-36309137) — Media resmi Tiongkok mengaitkan lajang dengan kepribadian politik, memicu kritik diskriminasi gender.
 

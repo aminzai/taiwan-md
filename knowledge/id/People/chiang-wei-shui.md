@@ -1,6 +1,6 @@
 ---
-title: 'Chiang Wei-shui: Sang Dokter yang Mendiagnosis Lesi Koloni dengan "Kuliah Klinis"'
-description: 'Pada 1921, dokter Chiang Wei-shui menerbitkan "Kuliah Klinis", mempersonifikasikan Taiwan sebagai "anak bodoh budaya dunia", mendiagnosis penyebabnya sebagai gizi buruk intelektual. Ia mendirikan Persatuan Budaya Taiwan dan partai politik sah pertama Taiwan, Partai Rakyat Taiwan, masuk penjara lebih dari sepuluh kali seumur hidupnya, menjalin jaringan kebangkitan antara Rumah Sakit Da-an dan Spring Wind Pavilion, meninggalkan warisan praktis "Saudara harus bersatu, persatuan benar-benar berkuasa".'
+title: 'Chiang Wei-shui: Dokter yang Mendiagnosis Penyakit Kolonial melalui *Clinical Lectures*'
+description: 'Pada 1921, dokter Chiang Wei-shui (江渭水) menerbitkan *Clinical Lectures*, yang mempersonifikasikan Taiwan sebagai "anak yang kekurangan gizi secara budaya". Ia menyimpulkan penyebabnya adalah kekurangan nutrisi intelektual. Ia didirikan Persatuan Budaya Taiwan dan Partai Politik pertama yang sah di Taiwan, sering dipenjara lebih dari sepuluh kali. Di Rumah Sakit Taiping dan lantai atas restoran Spring Breeze, ia menenun jaringan kesadaran. Ia meninggalkan warisan "sesama harus bersatu, persatuan sungguh kuat".'
 date: 2026-04-28
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Chiang Wei-shui',
     'Persatuan Budaya Taiwan',
     'Partai Rakyat Taiwan',
-    'Masa Pendudukan Jepang',
-    'Pencerahan Budaya',
-    'Rumah Sakit Da-an',
-    'Kuliah Klinis',
+    'masa kolonial Jepang',
+    'pencerahan budaya',
+    'Rumah Sakit Taiping',
+    '*Clinical Lectures*',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,87 +20,87 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'People/蔣渭水.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0f3a996ef981d6ff'
-sourceBodyHash: 'sha256:d65332102dab634a'
-translatedAt: '2026-07-26T12:49:15+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:01b765cf1533e92c'
+sourceBodyHash: 'sha256:70dc8164d3983fc6'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
-> **Ringkasan 30 Detik:**
-> Chiang Wei-shui adalah figur jiwa gerakan sosial Taiwan pada 1920-an. Ia menggunakan identitasnya sebagai dokter untuk mengeluarkan "Kuliah Klinis" yang terkenal, mendiagnosis masyarakat Taiwan menderita "penyakit gizi buruk intelektual". Ia tidak hanya mendirikan Persatuan Budaya Taiwan dan partai politik sah pertama Taiwan, Partai Rakyat Taiwan, tetapi juga mengubah Rumah Sakit Da-an menjadi ruang konsultasi revolusi. Sepanjang hidupnya ia berlari antara penjara, rumah sakit, dan restoran, akhirnya meninggal dunia pada usia 40 tahun, meninggalkan pesan terakhir "Saudara harus bersatu, persatuan benar-benar berkuasa", yang hingga kini tetap menjadi batu angkur penting semangat demokrasi Taiwan.
+> **Ringkasan 30 detik:**
+> Chiang Wei-shui adalah tokoh sentral gerakan sosial masyarakat Taiwan pada tahun 1920-an. Ia mengeluarkan resep terkenal _Clinical Lectures_ sebagai seorang dokter, mendiagnosis masyarakat Taiwan yang menderita "malnutrisi intelektual". Ia bukan hanya mendirikan Persatuan Budaya Taiwan dan Partai Politik pertama yang sah di Taiwan, tetapi juga mengubah Rumah Sakit Taiping menjadi klinik revolusioner. Hidupnya berkelana antara penjara, rumah sakit, dan restoran, akhirnya meninggal muda pada usia 40 tahun, meninggalkan pesan warisan "sesama harus bersatu, persatuan sungguh kuat", yang hingga kini menjadi fondasi penting semangat demokrasi Taiwan.
 
-Pada Juli 1914, di laboratorium Sekolah Kedokteran Kepala Gubernur Taipei, beberapa siswa diam-diam mengembangkan bakteri kolera yang mematikan. Ini bukan untuk penelitian akademis, melainkan rencana pembunuhan lintas laut. Siswa tahun keempat Tu Tsung-ming bertanggung jawab mengembangkan kuman, sedangkan perencana dan pengumpul dana di balik layar, adalah Chiang Wei-shui yang nantinya dijuluki "Sun Yat-sen Taiwan". Mereka berencana memasukkan kuman ke sumber air Beijing, membunuh Yuan Shikai yang bersiap mengangkat diri menjadi kaisar. Meskipun akhirnya gagal, "pembunuhan bakteri" ini membuka序幕 (prolog) karir "mengobati negara" Chiang Wei-shui selama dua dekade ke depan.[^1][^2]
+Juli 1914, di laboratorium Sekolah Kedokteran Universitas Tokyo di Taipei, sekelompok mahasiswa sedang secara rahasia menumbuhkan bakteri disenteri yang mematikan. Ini bukan untuk penelitian akademis, tetapi merupakan rencana pembunuhan siluman yang melintasi laut. Mahasiswa tahun keempat Du Cong-ming bertanggung jawab atas penanaman bakteri, sementara perencana dan penggalang dana di baliknya adalah orang yang kemudian akan dikenal sebagai "Sun Yat-sen Taiwan", Chiang Wei-shui. Mereka berencana untuk membuang bakteri ke dalam sumber air Beijing untuk membunuh Yuan Shi-kai yang sedang bersiap untuk menjadi kaisar. Meskipun akhirnya gagal, "pembunuhan bakteri" ini membuka bab pertama dari karier "mengobati negara" selama dua puluh tahun berikutnya. [^1][^2]
 
-### Gen Anti-Establishment di Masa Sekolah Kedokteran
+### Sifat Rebel di Sekolah Kedokteran
 
-Chiang Wei-shui lahir 1891 di Yilan, masa kecilnya pernah menjadi _jitong_ (media roh), pengalaman ini memberinya pengamatan mendalam tentang penderitaan rakyat dan kepercayaan mistis. 1910, ia lulus dengan nilai cemerlang masuk Sekolah Kedokteran Kepala Gubernur Taiwan. Saat kuliah, ia既是 (adalah) siswa berprestasi,也是 (dan juga) pemimpin gerakan mahasiswa. Kepala sekolah saat itu Takagi Tomoeda meski ketat dalam berpendidikan, Chiang Wei-shui tetap beberapa kali menggerakkan mogok siswa, memprotes ketidakadilan sekolah, bahkan dengan dukungan Shih Yen-han (nanti profesor Fakultas Kedokteran Universitas Taiwan), mengorganisir aksi perlawanan dengan kesadaran etnis.[^3][^4]
+Chiang Wei-shui lahir pada tahun 1891 di Yilan, dulu pernah menjadi penasihat roh (medium), yang memberinya pengamatan yang mendalam tentang penderitaan rakyat dan kepercayaan mistik. Pada 1910, ia lulus dengan nilai terbaik di Sekolah Kedokteran Universitas Tokyo. Di sekolah, ia bukan hanya seorang pelajar berprestasi tinggi, tetapi juga pemimpin gerakan mahasiswa. Meskipun Kepala Sekolah Gao Mu You-zhi dikenal keras dalam pengajaran, Chiang Wei-shui masih beberapa kali memimpin mogok kuliah untuk protes perlakuan tidak adil dari pihak sekolah, bahkan mengorganisir aksi perlawanan bernuansa nasionalis di bawah dukungan orang seperti Shi Yan-han (yang kemudian menjadi profesor Fakultas Kedokteran Universitas Taiwan). [^3][^4]
 
-Lulus 1915, Chiang Wei-shui magang setahun di Rumah Sakit Yilan, lalu langsung ke Dadaocheng Taipei membuka Rumah Sakit Da-an. Namun, yang ada di hatinya bukan hanya pasien di ruang konsultasi, melainkan seluruh pulau Taiwan yang dijajah dan miskin secara spiritual.
+Setelah lulus pada 1915, Chiang Wei-shui magang satu tahun di Rumah Sakit Yilan, kemudian pindah ke distrik Dazhu di Taipei untuk membuka Rumah Sakit Taiping. Namun, yang ia rawat bukan hanya pasien di dalam klinik, tetapi seluruh pulau Taiwan yang ditaklukkan dan kekurangan gizi secara spiritual.
 
-### Rumah Sakit Da-an: Ruang Konsultasi Gerakan Sosial
+### Rumah Sakit Taiping: Klinik Gerakan Sosial
 
-Rumah Sakit Da-an (lokasi lama Yimei Food di Jalan Yanping Utara, Taipei) segera melampaui fungsi institusi medis. Lantai atas rumah sakit menjadi kantor persiapan Persatuan Budaya Taiwan, juga pusat distribusi utama _Taiwan Minbao_ (Surat Kabar Rakyat Taiwan). Chiang Wei-shui bahkan mengelola restoran "Spring Wind Pavilion" di dekatnya, menjalin pertemanan dengan berbagai pahlawan. Ia pernah mengeluh sibuk di dunia bisnis dan usaha, tapi kepedulian politik yang tersembunyi di darahnya menyadarkannya bahwa "kenalan penuh di dunia, tahu hati berapa orang", hanya dengan pencerahan massa barulah bisa benar-benar mengubah status quo.[^5][^6]
+Rumah Sakit Taiping (kini berada di lokasi lama makanan Yimei di Jalan Yanping Utara, Taipei) segera bertransformasi dari sekadar institusi kesehatan. Lantai atasnya menjadi kantor persiapan Persatuan Budaya Taiwan dan pusat distribusi utama _Taiwan Daily News_. Chiang Wei-shui juga membuka restoran Spring Breeze di dekatnya, untuk mengumpulkan para pemimpin masyarakat. Ia pernah merenungkan betapa sibuknya ia di tempat pasar dan bisnis, namun kekhawatiran politik yang tertanam dalam darahnya membuatnya menyadari "kenalan di seluruh dunia, tetapi orang yang benar-benar bisa dipercaya sangat sedikit". Hanya dengan memberi pengetahuan kepada rakyat, perubahan yang sesungguhnya baru bisa terjadi. [^5][^6]
 
-**📝 Catatan Kurator:** Keberagaman identitas "slash" Chiang Wei-shui paling memikat. Ia bersosialisasi dengan gentry di restoran, mengobati rakyat miskin di rumah sakit, menulis kritik di redaksi surat kabar. Ia tahu gerakan tidak bisa hanya mengandalkan slogan, butuh titik tumpu fisik dan dana stabil, dan Rumah Sakit Da-an就是 (adalah) "markas bawah tanah" terkuat era itu.
+**📝 Catatan Kurator:** Yang paling menarik tentang Chiang Wei-shui adalah "garis miring" identitasnya. Ia berinteraksi dengan bangsawan di restoran, merawat rakyat miskin di rumah sakit, dan menulis kritik di kantor berita. Ia menyadari bahwa untuk memajukan gerakan, sekadar mengeluarkan slogan tidak cukup; diperlukan basis fisik dan dana yang stabil. Rumah Sakit Taiping adalah "markas bawah tanah" yang paling kuat pada masa itu.
 
-### "Kuliah Klinis": Diagnosis Terakhir untuk Taiwan
+### _Clinical Lectures_: Diagnosis Akhir tentang Taiwan
 
-30 November 1921, Chiang Wei-shui di _Buletin Persatuan Budaya Taiwan_ menerbitkan "Kuliah Klinis" yang mengguncang seluruh pulau. Ia meniru format diagnosis dokter, mempersonifikasikan Taiwan:
+Pada 30 November 1921, Chiang Wei-shui menerbitkan _Clinical Lectures_ yang mengguncang seluruh pulau di _Taiwan Cultural Association Journal_. Ia meniru format resep dokter untuk mempersonifikasikan Taiwan:
 
 - **Pasien:** Pulau Taiwan
-- **Asal:** Provinsi Taiwan, Provinsi Fujian, Republik Tiongkok
-- **Alamat Sekarang:** Kepala Gubernur Taiwan, Kekaisaran Jepang
-- **Nama Penyakit:** Anak Bodoh Budaya Dunia
-- **Penyebab:** Gizi Buruk Intelektual
+- **Asal:** Provinsi Fujian, RRC, Distrik Taiwan
+- **Tempat Tinggal Sekarang:** Kantor Residen Kolonial Jepang di Taiwan
+- **Nama Penyakit:** Anak yang kekurangan gizi dalam budaya global
+- **Sebab:** Kekurangan nutrisi intelektual
 
-Dalam surat diagnosisnya ia menyatakan tegas, Taiwan meski penampilan luar biasa, tapi karena racun masa lalu, kehidupan spiritual miskin. Resep yang ia berikan meliputi: pendidikan sekolah formal (dosis maksimal), pendidikan pemantapan (dosis maksimal), taman kanak-kanak dan komunitas baca koran. Kuliah ini既是 (adalah) metafora sastra,也是 (dan juga) cetak biru aksi Persatuan Budaya Taiwan untuk sepuluh tahun ke depan.[^7][^8]
+Di dalam resepnya, ia jujur menyatakan bahwa meskipun Taiwan lahir dengan kemewahan, ia telah tercemar selama bertahun-tahun dan kehidupan spiritualnya hambar. Resep yang ia resepkan meliputi: pendidikan sekolah reguler (dosis maksimal), pendidikan tambahan (dosis maksimal), taman kanak-kanak, dan kelompok membaca. _Clinical Lectures_ ini bukan hanya metafora sastra, tetapi juga peta jalan aksi Persatuan Budaya Taiwan selama satu dekade ke depan. [^7][^8]
 
 ### Dari Pencerahan Budaya ke Politik Partai
 
-17 Oktober 1921, Persatuan Budaya Taiwan didirikan di Sekolah Perempuan Seishu. Chiang Wei-shui sebagai sekretaris eksekutif, mendorong ceramah sepuluh pulau, sekolah musim panas, dan kegiatan pendidikan estetika. 1923, ia因 (karena) berpartisipasi "Gerakan Petisi Pendirian Parlemen Taiwan" memicu "Kejadian Pemeliharaan Keamanan", bersama Cai Peihuo dll masuk penjara. Di penjara, ia menulis _Catatan di Penjara_, menunjukkan semangat optimis yang tidak berubah meski terkurung.[^9]
+Pada 17 Oktober 1921, Persatuan Budaya Taiwan didirikan di Sekolah Wanita Jingxiu. Sebagai Direktur Eksekutif, Chiang Wei-shui mempromosikan kuliah di seluruh pulau, sekolah musim panas, dan kegiatan estetika. Pada 1923, ia terlibat dalam "gerakan permohonan pembentukan dewan Taiwan" yang menyebabkan "insiden penjagaan keamanan", dan dipenjara bersama Chen Pei-huo dan lain-lain. Di penjara, ia menulis _Catatan Penjara_, menunjukkan semangat optimisnya meskipun terjebak. [^9]
 
-1927, Persatuan Budaya pecah karena perbedaan aliran. Chiang Wei-shui beralih mendorong pendirian "Partai Rakyat Taiwan"——partai modern sah pertama dalam sejarah Taiwan. Ia mengajukan tiga platform: "Menegakkan politik berbasis rakyat, membangun organisasi ekonomi rasional, memperbaiki sistem sosial tidak rasional". Ia lebih aktif campur tangan gerakan buruh, mendirikan "Federasi Serikat Buruh Taiwan", berusaha memindahkan pusat gerakan dari kalangan gentry ke lapisan rakyat bawah.[^10][^11]
+Pada 1927, Persatuan Budaya Taiwan retak akibat perbedaan pandangan. Chiang Wei-shui kemudian mendorong pembentukan "Partai Rakyat Taiwan" — partai politik pertama yang sah di Taiwan. Ia mengusulkan tiga agenda utama: "mendirikan pemerintahan berdasarkan rakyat, membangun organisasi ekonomi yang rasional, dan menghilangkan sistem sosial yang tidak adil". Ia juga aktif terlibat dalam gerakan buruh, mendirikan "Serikat Buruh Taiwan", berupaya memindahkan fokus gerakan dari kalangan bangsawan ke rakyat biasa. [^10][^11]
 
-### Warisan: Saudara Harus Bersatu, Persatuan Benar-benar Berkuasa
+### Warisan: Sesama Harus Bersatu, Persatuan Sungguh Kuat
 
-Chiang Wei-shui seumur hidup ditangkap, ditahan lebih dari sepuluh kali, total hari di penjara 144 hari. Tahun-tahun berlari dan bencana penjara menguras tenaganya. 5 Agustus 1931, ia meninggal karena tifus di Rumah Sakit Taipei, berusia baru 40 tahun. Sebelum meninggal, ia meninggalkan pesan: "Saudara harus bersatu, persatuan benar-benar berkuasa". Pemakamannya dihadiri lebih dari lima ribu orang, dijuluki "Pemakaman Massa", menjadi pertemuan politik terbesar di Taiwan masa pendudukan Jepang.[^12][^13]
+Chiang Wei-shui ditangkap dan ditahan lebih dari sepuluh kali seumur hidupnya, dengan total 144 hari di penjara. Beban perjalanan dan masa penjara yang panjang melelahkan tubuhnya. Pada 5 Agustus 1931, ia meninggal karena demam tipesa di Rumah Sakit Taipei, hanya berusia 40 tahun. Sebelum meninggal, ia meninggalkan pesan warisan: "Sesama harus bersatu, persatuan sungguh kuat". Pemakamannya menarik lebih dari lima ribu orang hadir, dikenal sebagai "pemakaman rakyat", menjadi kongresi politik terbesar di Taiwan pada masa kolonial Jepang. [^12][^13]
 
-**📝 Catatan Kurator:** Chiang Wei-shui dijuluki "Sun Yat-sen Taiwan", tapi perbedaan terbesarnya dengan Sun Yat-sen adalah, ia selalu berpegang pada "kekerasan" dalam kerangka hukum. Ia mendiagnosis masyarakat dengan tenang dokter, mewujudkan ideal dengan darah panas revolusioner. Di era kolonial gelap itu, "resep intelektual" yang ia buat hingga kini belum kadaluwarsa.
+**📝 Catatan Kurator:** Chiang Wei-shui sering disebut sebagai "Sun Yat-sen Taiwan", namun perbedaan terbesar antara ia dan Sun Yat-sen adalah bahwa ia selalu mempertahankan perlawanan "non-kekerasan" di dalam kerangka hukum. Ia menggunakan ketenangan seorang dokter untuk mendianosisaikan masyarakat, dan semangat seorang revolusioner untuk mempraktikkan idealisme. Pada zaman gelap kolonial, resep "intelektual" yang ia keluarkan tak pernah kedaluwarsa.
 
-Menyelesaikan kisahnya, kita patut bertanya: di era ledakan informasi tapi terfragmentasi sekarang, apakah Taiwan masih menderita bentuk tertentu "gizi buruk intelektual"? "Kuliah Klinis" Chiang Wei-shui bukan hanya dokumen sejarah, lebih是一面 (sebuah) cermin, memantulkan perjuangan dan kerinduan setiap generasi orang Taiwan mengejar kebangkitan diri.
+Setelah mendengar kisahnya, mari kita bertanya pada diri sendiri: di era informasi yang meletupan namun terfragmentasi, apakah Taiwan masih menderita dari bentuk "kekurangan nutrisi intelektual"? _Clinical Lectures_ Chiang Wei-shui bukan hanya dokumen sejarah, tetapi juga cermin yang memantulkan perjuangan dan keinginan setiap generasi rakyat Taiwan untuk menyadari diri.
 
-**Baca Lanjutan**
+**Bacaan Lanjutan**
 
-- [Lai He (賴和)](賴和) — Ayah Sastra Baru Taiwan masa yang sama, bersama Chiang Wei-shui menjadi pelopor pencerahan budaya
-- [Gerakan Sosial Taiwan Masa Pendudukan Jepang](../History/日治時期臺灣社會運動) — Konteks gerakan keseluruhan tempat Chiang Wei-shui berada
-- [Partai Rakyat Taiwan](台灣民眾黨) — Partai sah pertama Taiwan yang didirikan Chiang Wei-shui
+- [Chiang Wei-shui](賴和) — Ayah dari sastra modern Taiwan pada masa yang sama, bersama Chiang Wei-shui sebagai pelopor pencerahan budaya
+- [Gerakan Sosial Masyarakat Taiwan pada Masa Kolonial Jepang](/id/history/social-movements-during-japanese-rule) — Latar belakang gerakan yang meliputi Chiang Wei-shui
+- [Partai Rakyat Taiwan](台灣民眾黨) — Partai politik pertama yang sah di Taiwan yang didirikan oleh Chiang Wei-shui
 
 ---
 
-**Sumber Referensi**
+**Referensi**
 
-[^1]: [〈Pembunuhan〉 Pemuda Marah dari Taiwan: Pelajar Taiwan yang Membunuh Yuan Shikai](https://ohsir.tw/6437/) — Kajian sejarah 1914 Tu Tsung-ming + Chiang Wei-shui bakteri kolera membunuh Yuan Shikai
+[^1]: [Pembunuhan dari Penggila Taiwan: Mahasiswa Taiwan yang Mencoba Membunuh Yuan Shi-kai](https://ohsir.tw/6437/) — Studi kritis tentang pembunuhan bakteri Yuan Shi-kai oleh Du Cong-ming dan Chiang Wei-shui pada 1914
 
-[^2]: [Membunuh Yuan Shikai: Aksi Rahasia Tu Tsung-ming dan Chiang Wei-shui](https://www.facebook.com/NCHU.tw/posts/1400096042145468/) — Repost Facebook resmi Universitas Chung Hsing kajian sejarah
+[^2]: [Pembunuhan Yuan Shi-kai: Operasi Rahasia Du Cong-ming dan Chiang Wei-shui](https://www.facebook.com/NCHU.tw/posts/1400096042145468/) — Repositori Facebook resmi Universitas Chung Hsing menyebarkan kajian sejarah
 
-[^3]: [Entri Chiang Wei-shui — Museum Sejarah Nasional Taiwan "Titik Kumpul Sejarah Taiwan"](https://the.nmth.gov.tw/nmth/zh-TW/Item/Detail/293c1e0f-85fe-4d6a-8c6a-6dce4270eaf1) — Gen anti-establishment masa sekolah kedokteran + konfrontasi dengan Kepala Sekolah Takagi Tomoeda koleksi nasional
+[^3]: [Karya Chiang Wei-shui — Museum Sejarah Taiwan Nasional <Pointing to Taiwan History>](https://the.nmth.gov.tw/nmth/zh-TW/Item/Detail/293c1e0f-85fe-4d6a-8c6a-6dce4270eaf1) — Sifat rebel di sekolah kedokteran + konfrontasi dengan Kepala Sekolah Gao Mu You-zhi
 
-[^4]: [Chiang Wei-shui di Masa Sekolah Kedokteran — Arsip Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=661082) — Arsip sejarah 1910-1915 masa pemimpin gerakan mahasiswa sekolah kedokteran
+[^4]: [Chiang Wei-shui di Sekolah Kedokteran — National Cultural Memory Database](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=661082) — Dokumen tentang periode 1910-1915 sebagai pemimpin gerakan mahasiswa
 
-[^5]: [Legenda Anti-Jepang Tiga Rumah Sakit Da-an — Yayasan Budaya Chiang Wei-shui](http://www.weishui.tw/p/blog-page_15.html) — Posisi sejarah Rumah Sakit Da-an sebagai kantor persiapan Persatuan Budaya + pusat distribusi Surat Kabar Rakyat
+[^5]: [Legenda Tiga Rumah Sakit Taiping — Yayasan Budaya Chiang Wei-shui](http://www.weishui.tw/p/blog-page_15.html) — Posisi historis Rumah Sakit Taiping sebagai kantor persiapan Persatuan Budaya + pusat distribusi _Taiwan Daily News_
 
-[^6]: [Spring Wind Pavilion — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%98%A5%E9%A2%A8%E5%BE%97%E6%84%8F%E6%A8%93) — Latar belakang era Chiang Wei-shui mengelola restoran sebagai tanah suci demokrasi Dadaocheng
+[^6]: [Spring Breeze Restaurant — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%98%A5%E9%A2%A8%E5%BE%97%E6%84%8F%E6%A8%93) — Latar belakang zaman tentang restoran yang dioperasikan Chiang Wei-shui sebagai santo suci demokrasi di Dazhu
 
-[^7]: [〈Kuliah Klinis〉 Diagnosis untuk Pasien Bernama Taiwan](https://gec.csu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MekUzTDNCMFlWODBNakEyWHpFME5EWTJPVEZmTVRZME1UTXVjR1Jt) — 1921-11-30 naskah asli Chiang Wei-shui, versi digitalisasi Pusat Pendidikan Umum Universitas Cheng Shiu
+[^7]: [Clinical Lectures: Diagnosis tentang Pasien yang Bernama Taiwan](https://gec.csu.edu.tw/app/index.php?Action=downloadfile&file=WVhSMFlXTm9MekUzTDNCMFlWODBNakEyWHpFME5EWTJPVEZmTVRZME1UTXVjR1Jt) — Teks asli Chiang Wei-shui pada 30 November 1921, versi digital Pusat Pengajian Umum Universitas Zhengzhong
 
-[^8]: [Kuliah Klinis: Teks Lengkap Surat Diagnosis Taiwan — Situs Whale](https://www.hi-on.org/article-single.php?At=58&An=193035) — Nama penyebab/resep lengkap naskah asli Chiang Wei-shui "Kuliah Klinis"
+[^8]: [Clinical Lectures: Teks Lengkap Diagnosis Taiwan — Situs Whale](https://www.hi-on.org/article-single.php?At=58&An=193035) — Teks asli lengkap nama penyakit, sebab, dan resep _Clinical Lectures_ Chiang Wei-shui
 
-[^9]: [Chiang Wei-shui _Catatan di Penjara_ / _Catatan Bermain di Kantor Polisi Utara_](https://www.th.gov.tw/) — Reprint Arsip Dokumen Taiwan, bukti semangat optimis masa masuk penjara 1923 Kejadian Pemeliharaan Keamanan
+[^9]: [Catatan Penjara dan Catatan Tur Selatan Chiang Wei-shui](https://www.th.gov.tw/) — Reprint dari Arsip Nasional Taiwan, bukti semangat optimis selama masa penjara pada 1923
 
-[^10]: [Partai Rakyat Taiwan 1927 — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8_%281927%E5%B9%B4%29) — Sejarah partai sah pertama sejarah Taiwan dan tiga platform
+[^10]: [Partai Rakyat Taiwan 1927 — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E7%9C%BE%E9%BB%A8_%281927%E5%B9%B4%29) — Sejarah partai politik pertama yang sah di Taiwan dan tiga agenda utamanya
 
-[^11]: [Bintang Abadi di Gelap Politik: Pahlawan Etnik Masa Pendudukan Jepang Chiang Wei-shui — Majalah Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=e6f7635e-7b3e-494e-9e7f-1741aa541b37) — Latar belakang pendirian Federasi Serikat Buruh Taiwan dan aliran lapisan rakyat
+[^11]: [Bintang di Malam Kehidupan Politik: Pemberontak Nasionalis pada Masa Kolonial Jepang — Majalah Taiwan Guanghua](https://www.taiwan-panorama.com/Articles/Details?Guid=e6f7635e-7b3e-494e-9e7f-1741aa541b37) — Latar belakang pendirian Serikat Buruh Taiwan dan pendekatan ke rakyat
 
-[^12]: [Situs Resmi Yayasan Budaya Chiang Wei-shui](http://www.weishui.tw/) — Catatan resmi 144 hari penjara Chiang Wei-shui + pemakaman massa lima ribu orang mengantar
+[^12]: [Situs Resmi Yayasan Budaya Chiang Wei-shui](http://www.weishui.tw/) — Rekam jejak resmi Chiang Wei-shui selama 144 hari penjara + pemakaman rakyat lima ribu orang
 
-[^13]: [Arsip Nasional _Kumpulan Lengkap Tuan Chiang Wei-shui_](https://www.drnh.gov.tw/) — Catatan asli pesan terakhir "Saudara harus bersatu, persatuan benar-benar berkuasa"
+[^13]: [Koleksi Karya Lengkap Chiang Wei-shui — Arkiv Sejarah Nasional](https://www.drnh.gov.tw/) — Rekam pesan warisan "Sesama harus bersatu, persatuan sungguh kuat" Chiang Wei-shui

@@ -2,9 +2,7 @@
 title: 'Para Pembentuk Gunung: Pertaruhan Abad Ini — Epos Semikonduktor Taiwan yang Baru Bisa Diucapkan Setelah Satu Kata pada Judulnya Dihaluskan'
 description: 'Film dokumenter Para Pembentuk Gunung, yang dirilis pada 13 Juni 2025, mengisahkan epos tentang semikonduktor Taiwan yang tak tergantikan. Namun, judul awalnya adalah Perisai Silikon. Untuk merekam bagaimana industri ini “lahir dari kecemasan”, Hsiao Chu-chen menghabiskan lima tahun dan mewawancarai lebih dari 80 orang, tetapi akhirnya menghaluskan kata paling tajam dalam judulnya—ketika negara ini membanggakan kartu terkuatnya, bahkan cara mengungkapkannya harus terlebih dahulu mempertimbangkan bagaimana pihak seberang Selat Taiwan akan mendengarnya.'
 date: 2026-06-16
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: 'Film dokumenter'
 tags:
   [
     'Film dokumenter',
@@ -16,16 +14,21 @@ tags:
     'Ben Tsiang',
     'Chen Tien-shun',
   ]
+subcategory: 'Film dokumenter'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '36b47295'
-sourceContentHash: 'sha256:04951f7f999b2b98'
-sourceBodyHash: 'sha256:3df28689a2b61ed4'
-translatedAt: '2026-07-18T18:59:53+08:00'
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+translatedFrom: 'Art/造山者世紀的賭注.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T13:44:20.713550+00:00'
 ---
 
 # Para Pembentuk Gunung: Pertaruhan Abad Ini — Epos Semikonduktor Taiwan yang Baru Bisa Diucapkan Setelah Satu Kata pada Judulnya Dihaluskan
@@ -166,27 +169,27 @@ Setelah menonton pada Juni, Hsiao Bi-khim berkata: “Yang lebih penting, film i
 
 Kedua pidato itu pantas dan sama-sama memasukkan film ini ke dalam kerangka narasi kebangsaan. Namun, posisi yang dipilih film tersebut sesungguhnya jauh lebih rendah hati daripada pidato-pidato itu—Hsiao pernah berkata: “Setelah menyelesaikan film ini, saya pun merasa diri saya seorang pembentuk gunung. Meski hanya sebutir pasir kecil, saya tetap menjadi bagian dari gerakan pembentukan gunung.”[^45]
 
-## Sang Pembentuk Gunung Sebenarnya Tidak Hadir
+## Para Pembentuk Gunung Sebenarnya Tidak Hadir
 
-Kisah kembali ke petang 26 Juni 2025 di bioskop Distrik Xinyi.
+Kisah kembali ke bioskop di Distrik Xinyi pada malam tanggal 26 Juni 2025.
 
-Morris Chang yang berusia 94 tahun dan istrinya duduk di baris terakhir dan menonton seluruh film. Ketika lampu akhir film menyala, ia perlahan menyusuri lorong dengan masker masih terpasang, mengangkat kedua tangannya, melambai kepada penonton, dan memberi salam kepada semua orang[^4]. Hsiao Chu-chen berada di tempat itu—selama lima tahun ia tidak pernah berhasil mewawancarai secara langsung tokoh inti di antara para “pembentuk gunung” tersebut; pada akhirnya, tokoh inti itu sendiri datang ke hadapan film sebagai seorang “penonton”.
+Pasangan Tsang Chung-mo, yang berusia 94 tahun, duduk di barisan paling belakang dan menonton seluruh film tersebut. Ketika lampu penutup menyala, ia berjalan turun dari lorong sambil mengenakan masker, mengangkat kedua tangannya, melambai kepada penonton, dan memberikan salam kepada semua orang[^4]. Hsiao Chu-chen hadir di lokasi—selama lima tahun ia tidak pernah melakukan wawancara langsung dengan tokoh inti "Para Pembentuk Gunung" ini, hingga akhirnya tokoh inti itu sendiri datang ke depan layar sebagai seorang "penonton".
 
-> **✦** Apa yang gagal direkam epos, dilengkapi oleh kenyataan.
+> **✦** Realitas melengkapi apa yang tidak ditangkap oleh epik.
 
-Dengan demikian, ketegangan film ini berputar kembali ke titik awal: orang yang tidak diwawancarai, kata yang dihapus dari judul, dan dana yang sengaja dihimpun dari banyak pihak—semuanya merupakan tulang belakang sejati film ini. Bagi sebuah epos semikonduktor Taiwan, mengatakan “kita telah membentuk sebuah gunung” adalah perkara mudah; hal yang sesungguhnya dikisahkannya jauh lebih sulit diucapkan: ketika semua orang memandang gunung tersebut, para pembentuk gunung dari negara ini belajar meninggalkan sejarah bagi diri mereka sendiri di antara apa yang boleh dan tidak boleh dikatakan.
+Ketegangan film ini berputar kembali ke titik awal: orang yang tidak diwawancarai, kata yang dihapus dari judul film, dan uang yang sengaja disebar—mereka adalah tulang punggung sejati dari film ini. Sebuah epos semikonduktor Taiwan, mudah untuk mengatakan "kami telah membangun gunung"; tetapi hal yang lebih sulit untuk dibicarakan, ketika semua orang menyaksikan gunung itu, para pembentuk gunung di pulau ini belajar bagaimana meninggalkan sejarah bagi diri mereka sendiri di antara apa yang bisa dikatakan dan apa yang tidak bisa dikatakan.
 
-Angka pendapatan yang terus tumbuh selama setahun, tur internasional dari satu tempat ke tempat lain, pidato wakil presiden dan mantan presiden, serta pujian presiden ESMC—semuanya akan berlalu. Namun, sosok yang bangkit dari baris terakhir pada petang itu akan tetap tinggal. Ia tidak naik ke layar; ia melangkah keluar dari kursi penonton.
+Angka penjualan tiket selama setahun, tur internasional satu per satu, pidato dari wakil presiden dan mantan presiden, pujian dari CEO ESMC—semua itu akan memudar. Tetapi sosok yang berdiri di barisan paling belakang pada malam itu, akan tetap ada. Ia tidak naik ke layar; ia berjalan keluar dari kursi penonton.
 
-Sejak negara ini belajar mempertimbangkan reaksi pihak seberang Selat Taiwan sebelum membanggakan dirinya sendiri, setiap pembentuk gunung sebenarnya telah menjadi penonton—menyaksikan bagaimana gunung yang mereka bentuk dibicarakan orang lain, didengar orang lain, dan dimasuki orang lain setelah membeli tiket.
+Sejak pulau ini belajar untuk menimbang pihak seberang saat membanggakan dirinya, setiap pembentuk gunung sebenarnya sudah menjadi penonton—melihat gunung yang mereka bangun, bagaimana orang lain membicarakannya, bagaimana orang lain mendengarnya, dan bagaimana orang lain membeli tiket untuk masuk.
 
-**Bacaan lanjutan**:
+**Bacaan Lanjutan**:
 
-- [Industri semikonduktor](../Technology/半導體產業.md) — Konteks lengkap manufaktur wafer Taiwan, dari rapat sarapan di Kedai Susu Kedelai Hsiao Hsin-hsin pada 1974 hingga C.C. Wei memasuki Gedung Putih pada 2025; kerangka kronologis _Para Pembentuk Gunung_ dibangun di atas poros ini.
-- [Morris Chang](../People/張忠謀.md) — Tokoh utama yang tidak duduk di depan kamera; jilid kedua autobiografi yang ditulisnya baru terbit enam bulan sebelum film dirilis.
-- [Invisible Nation](../Art/看不見的國家.md) — Dokumenter saudara yang dirilis pada hari yang sama; kanal suara lain tentang “nilai Taiwan” yang didekati sutradara Amerika Serikat Vanessa Hope melalui demokrasi.
-- [Perkembangan kawasan teknologi](../Technology/科技園區發展.md) — Hsinchu Science Park sebagai panggung fisik bagi banyak adegan _Para Pembentuk Gunung_, berkembang dari pertaruhan sebuah kota kecil menjadi pusat rantai pasok global.
-- [Tsai Ing-wen](../People/蔡英文.md) — Ketika pendapatan film melampaui NT$25 juta pada Agustus 2025, mantan presiden tersebut datang ke bioskop bersama mantan Wakil Presiden Chen Chien-jen dan istrinya, menambahkan latar politik bagi film ini.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Konteks lengkap dari pabrik semikonduktor Taiwan yang berkembang dari pertemuan sarapan kedai susu kecil pada tahun 1974 hingga kunjungan Hsiao Chu-chen ke Gedung Putih pada tahun 2025; kerangka waktu 《Para Pembentuk Gunung》 disematkan pada sumbu ini.
+- [Tsang Chung-mo](/id/people/tsmc-morris-chang) — Tokoh utama yang tidak pernah duduk di depan kamera, buku lanjutan yang ia tulis sendiri diterbitkan enam bulan sebelum film dirilis.
+- [Negara Tak Terlihat](/id/art/invisible-nation) — Film dokumenter saudara yang rilis pada hari yang sama, sutradara Amerika Vanessa Hope menyajikan suara lain tentang "nilai Taiwan" dari jalur demokrasi.
+- [Pengembangan Taman Sains](/id/technology/science-park-development) — Science Park Hsinchu sebagai panggung fisik untuk sebagian besar adegan 《Para Pembentuk Gunung》, berkembang dari taruhan kota kecil menjadi pusat rantai pasokan global.
+- [Tsai Ing-wen](/id/people/tsai-ing-wen) — Pada Agustus 2025 ketika penjualan tiket mencapai 25 juta NTD, mantan presiden menonton di bioskop bersama pasangan Chen Chien-ping, memberikan latar belakang politik bagi film ini.
 
 ## Sumber gambar
 
