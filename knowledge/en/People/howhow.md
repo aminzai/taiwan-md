@@ -2,9 +2,7 @@
 title: 'Howhow: The Person Who Laid Sponsored Content Out in the Sun, and the Increasingly Expensive Honesty He Sustains Alone'
 description: 'In 2015, a YouTuber with fewer than 100,000 followers was flown to New York by Samsung. He thought he was being hired as a photographer and saved the contact as "great benefactor." Chen Tzu-hao later turned the advertising that creators most want to hide into his signature with the line "straight into the sponsored-content topic!" Sustaining 1.54 million subscribers by writing, directing, acting, and editing alone, he nevertheless dislikes loneliness and has always wanted a team; the long-form videos he insists on making now sit precisely in the lane most heavily crushed by short-form video.'
 date: 2026-05-13
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
     'YouTuber',
@@ -15,19 +13,21 @@ tags:
     'SevenFat',
     'Savannah College of Art and Design',
   ]
-readingTime: 16
+subcategory: '數位與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-05
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/Howhow.md'
-sourceCommitSha: 'f5975a22'
-sourceContentHash: 'sha256:c742af5d03f4c9ab'
-sourceBodyHash: 'sha256:a358cb4047d78691'
-translatedAt: '2026-07-16T00:48:13+08:00'
+readingTime: 16
 image: '/article-images/people/howhow-sevenfat-band-2017.webp'
 imageCredit: 'RJ廉傑克曼'
 imageLicense: 'CC BY 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:七月半.jpeg'
+translatedFrom: 'People/Howhow.md'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:25c8ad9313478f48'
+sourceBodyHash: 'sha256:d75a906a8210150b'
+translatedAt: '2026-09-21T10:55:00.487137+00:00'
 ---
 
 > **30-second Overview:** Chen Tzu-hao (Howhow) did one of the most counterintuitive things in Taiwan YouTube history. While everyone else tried every way possible to hide sponsored content, he put up a giant subtitle reading “straight into the sponsored-content topic!” and turned the thing creators found most awkward into his signature. By writing scripts, directing, acting, and editing alone, he sustained the HowFun channel, with 1.54 million subscribers and 760 million views. But there are three layers of contradiction here that you may not have expected: the “honest sponsored content” for which he is praised is precisely the deceptive mechanism academics describe as “advertising that does not look like advertising”; his “one-person team” is a label imposed by others, while he himself dislikes loneliness and has always wanted a team; and the high-cost long-form videos he insists on making sit exactly in the lane most fiercely pressured by short-form video. This article is about how a creator preserves his own rhythm, and how that insistence is becoming expensive.
@@ -42,24 +42,24 @@ What truly showed him the magic of images was a short film uploaded on June 24, 
 
 After the graduation video became popular, he made a decision that ran against the instincts of an economics major: after completing military service, he went to the United States to study for a master’s degree in animation and visual effects at Savannah College of Art and Design (SCAD).[^1] He described his family as having “sent me abroad to drink that foreign ink.”[^5] At SCAD, his major was animation and visual effects; that often omitted “animation” neatly explains why his later videos could pack in so many visual tricks by himself. His years studying abroad also turned “facing the camera alone” from a real-life circumstance into the most familiar posture in his work.
 
-## Putting “Sponsored Content” in the Sunlight
+## Putting "Sponsored Content" in the Sunlight
 
-![Howhow (Chen Tzu-hao) being interviewed on an online program, wearing black-rimmed glasses and a dark top, gesturing shyly under studio lights](/article-images/people/howhow-webtvasia-interview-2016.webp)
-_Howhow being interviewed about his creative work and sponsored-content methods. The “king of sponsored content” who laid advertising out in the sun is, in private, a National Chengchi University boy who calls himself a marginal person. Photo: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG_SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA_x_HOWFUN_02.png)._
+![Howhow (Chen Tzu-hao) being interviewed by an online show, wearing black-rimmed glasses and a dark top, making a gesture under the studio lights, with a shy expression](/article-images/people/howhow-webtvasia-interview-2016.webp)
+_Howhow discusses his creative approach and sponsored-content methods. The "King of Sponsored Content" laid bare in the sunlight is, in private, a self-described loner and a boy from National Chengchi University. Photo: WebTVAsiaTaiwan. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WebTVAsia%E3%80%90BIG%20SHOT%E7%B6%B2%E8%B7%AF%E7%B4%85%E4%BA%BA%E8%AA%8C%E3%80%91%E5%B0%88%E8%A8%AA%20x%20HOWFUN%2002.png)._
 
-In September 2015, fate came knocking in a way even he could not quite explain. Samsung was holding the Unpacked launch event for the Galaxy Note 5 at Lincoln Center in New York and, through the advertising agency Leo Burnett, reached out to Howhow, who at the time still had fewer than 100,000 followers.[^6] In his own recollection, he “thought they wanted me to be a photographer,” because “my subscriber count and like count were not high at the time,” and he could not understand why they had chosen him.[^7] He even saved the Samsung contact in his phone under the three characters “great benefactor.”[^7]
+In September 2015, fate struck in a way even he can't quite explain. Samsung was holding the Galaxy Note 5 Unpacked event at New York's Lincoln Center, and through the ad agency Leo Burnett, they reached out to Howhow, who at the time had fewer than 100,000 subscribers[^6]. He recalls thinking, "I figured they wanted to hire me as a photographer," because "my subscriber count and likes were still pretty low," and he couldn't understand why they'd chosen him[^7]. He even saved the contact info for Samsung's representative in his phone as "Benefactor"[^7].
 
-> **📝 Curator’s Note**
-> Standard profiles often write this episode as “Samsung recognized his visual style,” but that is a romanticized version that reverses cause and effect. Howhow’s own account says exactly the opposite: he did not know why he had been chosen and even thought he was being hired as a photographer. Samsung was betting on someone who was not yet famous but whose work made people trust him. In this industry, trust before traffic is a rarer path than “first chase followers, then take deals.” The contact name “great benefactor” records the stunned gratitude of a small-channel creator at the moment the world chose him.
+> **📝 Curator's Note**
+> Most write-ups frame this as "Samsung saw his visual style," but that's a romanticized reversal of causality. Howhow's own account is the opposite: he had no idea why he was picked and thought he was being hired as a photographer. Samsung was betting on someone not yet famous but whose work inspired trust. In this industry, trust comes before traffic — a rarer path than "chase followers first, take jobs later." The contact name "Benefactor" captures that moment when a small-channel creator was unexpectedly chosen by the world.
 
-What truly turned Howhow into the “king of sponsored content” was the way he handled sponsored content. When ordinary YouTubers receive a brand deal, they try every possible way to hide the advertisement inside the plot so viewers are sold to without realizing it. Howhow did the opposite. He used an abrupt tonal shift in the story, paired it with a giant subtitle, and directly wrote out: “straight into the sponsored-content topic!”[^8] Viewers are usually most irritated by smuggled-in ads; he simply laid the ad out in the sun, and people smiled knowingly instead.
+What really made Howhow the "King of Sponsored Content" was his approach to handling sponsored content. Most YouTubers try to hide ads within their storylines so viewers are unknowingly marketed to. Howhow did the opposite — he used a tonal shift in the narrative, paired with a big on-screen title that literally read "Entering the sponsored-content topic!"[^8]. Viewers who hate being stealth-advertised couldn't help but laugh when he put the ad right out in the open.
 
-Behind that “directness” was a philosophy he had thought through clearly. He said: “If viewers watch until the end and only then realize, ‘it was sponsored content after all,’ that is actually a kind of success,” because “the storytelling method is very important... if it outweighs the aversion to sponsored content, then you have done it right.”[^9] If we take that sentence apart, what he cares about is actually whether the story is good enough to watch, so good that you forget it is an ad. To the old question of whether taking money to serve brands lets down the audience, his answer was pragmatic: “Serve them and make them think it is funny; that is enough.”[^7]
+Behind this "straightforward" approach is a philosophy he's thought through carefully. He says, "If viewers only realize at the end that it was sponsored content, that's actually a success," because "how you tell the story matters... more than the dislike of sponsored content — it means you did it right."[^9] Breaking that down, what he cares about is really "is the story good enough to make you forget it's an ad?" For the age-old question of "does getting paid to serve brands mean betraying your audience?" his answer is pragmatic: "As long as they think it's funny, serving them is enough."[^7]
 
-> **⚠️ Contested Viewpoint**
-> This model of “honest sponsored content” sounds impeccable, but academics see another side. Research on native advertising shows that even when something is clearly labeled “this is advertising,” roughly one-quarter of audiences still do not realize they are viewing advertising and are therefore influenced by it.[^10] In other words, “making advertising enjoyable to watch” is itself the deceptive mechanism by which “advertising does not look like advertising”: the more happily you laugh, the more your guard drops. Howhow’s “straight into the sponsored-content topic!” indeed pushes disclosure to the extreme, but his skill is also exactly what academics are most wary of: the better an ad is to watch, the more it makes people forget it is an ad. The fatigue and distrust in Taiwan toward “ye pei,” a punning homophone for sponsored content, belongs to the same anxiety about “advertising seeping into content.” Some viewers have also mocked him directly: “How has your channel ended up with nothing but sponsored content?”[^11] A person who turns brand deals into his signature cannot escape the backlash of “will there be nothing left but brand deals?”
+> **⚠️ Controversial Take**
+> This "honest sponsored content" approach sounds bulletproof, but academia sees another side. Native advertising research shows that even when "this is an ad" is clearly labeled, roughly a quarter of viewers still don't realize they're watching an advertisement and are thus influenced[^10]. In other words, "making ads entertaining" is itself a mechanism of "ads that don't feel like ads": the happier you laugh, the lower your guard. Howhow's "Entering the sponsored-content topic!" pushes labeling to its extreme, but his cleverness is exactly where academia is most wary: the better the ad, the more it makes you forget it's an ad. Taiwan society's fatigue and distrust of "ye-pei" (a pun on sponsored content) is the same anxiety as "ads seeping into content." Some viewers have even quipped, "Your channel is nothing but sponsored content now."[^11] Once you make sponsored content your signature, you can't escape the backlash of "will it be all sponsored content?"
 
-Taiwan’s regulations are also catching up with this issue. In 2023, the Fair Trade Commission amended relevant rules to require influencers to bear joint liability with sellers for products they recommend, a regime regarded as among Asia’s strictest influencer-advertising regulations.[^12] In an environment that increasingly demands transparency, Howhow’s practice of “I openly tell you this is sponsored content” seems to have taken the right side early. Yet academia reminds us that transparency in form does not mean influence cannot infiltrate.
+Taiwan's regulations are catching up too. In 2023, the Fair Trade Commission revised its guidelines to require influencers to be jointly liable with sellers for recommended products, seen as one of the strictest influencer advertising standards in Asia[^12]. In this increasingly transparent environment, Howhow's "I'll just tell you outright this is sponsored content" approach looks like it got ahead of the curve. But academia reminds us: transparency in form doesn't mean there's no subtle influence.
 
 ## Alone, But He Never Wanted To Be Alone
 
