@@ -173,3 +173,7 @@
 /ja/technology/computex-taipei /ja/technology/computex/ 301
 /ko/technology/computex-taipei /ko/technology/computex/ 301
 /ru/technology/miin /ru/technology/miin-music-app/ 301
+
+# 爬蟲與瀏覽器慣例先試 /sitemap.xml；站上真正的入口是 Astro 產的 sitemap-index.xml
+# （robots.txt 已指向它）。2026-09-20 CF 一天 10 筆 404，長期是 unknown 家族榜首。
+/sitemap.xml /sitemap-index.xml 301
