@@ -10,7 +10,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '用公平由機運完成作為核心觀點，解釋台灣賽鴿為何同時吸引普通鴿友、形成龐大產業，又把動物福利風險推向海上與賽後。', 'whats_excluded': '不把所有鴿友概括成賭徒，不把倡議團體的估計寫成官方統計，也不把單一救援案例擴大成全台死亡總數。', 'where_it_hedges': '歸返率、賽制與政府調查採具體來源。受訪者對跑鴿、野鴿來源與賽後處理的說法，均標示為報導或訪談內容。', 'whos_pushing_back': '鴿友重視競技公平與飼養技術，動保團體則要求降低海翔風險並建立責任機制。文章保留兩方張力，不替任一方杜撰立場。'}"
+rationale:
+  why_this_hook: '用公平由機運完成作為核心觀點，解釋台灣賽鴿為何同時吸引普通鴿友、形成龐大產業，又把動物福利風險推向海上與賽後。'
+  whats_excluded: '不把所有鴿友概括成賭徒，不把倡議團體的估計寫成官方統計，也不把單一救援案例擴大成全台死亡總數。'
+  where_it_hedges: '歸返率、賽制與政府調查採具體來源。受訪者對跑鴿、野鴿來源與賽後處理的說法，均標示為報導或訪談內容。'
+  whos_pushing_back: '鴿友重視競技公平與飼養技術，動保團體則要求降低海翔風險並建立責任機制。文章保留兩方張力，不替任一方杜撰立場。'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Society/賽鴿.md'

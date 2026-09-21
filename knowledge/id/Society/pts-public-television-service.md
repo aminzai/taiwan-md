@@ -22,7 +22,11 @@ image: '/article-images/society/pts-building-b-2024.webp'
 imageCredit: 'Yu tptw / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Public_Television_Service_B_Building_20240316.jpg'
-rationale: "{'why_this_hook': '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。', 'whats_excluded': 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。', 'where_it_hedges': '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。', 'whos_pushing_back': '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'}"
+rationale:
+  why_this_hook: '從 2026-05-07 議場驅逐切入，把 28 年弧線拉出來：1997 立法妥協 → 23 年緊箍咒 → 2023 修法解凍 → 2025 砍預算之亂 → 2026 議場事件。Hook 不是「公視缺錢」(v1 寫法)，是「緊箍咒解開後同一套政治邏輯重新瞄準」這個 fault-line。'
+  whats_excluded: 'TaiwanPlus 內部編輯流程細節（Louise Watt 川普報導事件已涵蓋象徵性 case，不展開全部 6 起爭議）；客家台 / 台語台 / 原民台各自獨立發展史（subcategory 不同，留給專文）；公視製播獎項完整清單（金鐘細項對讀者價值低，只引 60 屆 32 金 anchor）；藍營「TaiwanPlus 是 DPP 喉舌」的全部論述（已用陳學聖 + 陳玉珍 anchor，不重複展開）。'
+  where_it_hedges: '「9 億預算養出旗艦劇」實際是 9 億 + 文化部專案補助 + 國際合製拼出來（如《一把青》文化部補 6000 萬、《通靈少女》HBO Asia 合製），文中用「9 億基礎預算 + 專案補助層層加碼」概括，不細列每劇預算。「2026 民主成熟度試紙」是觀點，非實證 — 用問句結尾留給讀者，不下斷論。'
+  whos_pushing_back: '國民黨立委陳玉珍、羅智強、陳學聖（質疑預算暴增、TaiwanPlus 政治偏頗）；商業電視業者（長期擔憂公視擴大）；「公視沒人在看」立場一般觀眾（收視率長年低）。三方都有 footnote 引用。'
 translatedFrom: 'Society/公視.md'
 sourceCommitSha: '6b09bda3b'
 sourceContentHash: 'sha256:4db765c86303453e'

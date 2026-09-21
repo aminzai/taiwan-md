@@ -20,7 +20,11 @@ featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
-rationale: "{'why_this_hook': '從海外設廠的多重持份者切入，避免把出海簡化成「台積電搬走」或單一企業新聞。', 'whats_excluded': '不逐案整理所有海外投資金額、補助條件與廠區時程。', 'where_it_hedges': '同時處理企業成長、政府安全、民眾成本、外國夥伴備援與台灣核心能力是否外移。', 'whos_pushing_back': '國外政府與客戶需要台灣能力，但也明確希望降低對台灣本島集中產能的依賴。'}"
+rationale:
+  why_this_hook: '從海外設廠的多重持份者切入，避免把出海簡化成「台積電搬走」或單一企業新聞。'
+  whats_excluded: '不逐案整理所有海外投資金額、補助條件與廠區時程。'
+  where_it_hedges: '同時處理企業成長、政府安全、民眾成本、外國夥伴備援與台灣核心能力是否外移。'
+  whos_pushing_back: '國外政府與客戶需要台灣能力，但也明確希望降低對台灣本島集中產能的依賴。'
 image: '/article-images/economy/tsmc-fab21-arizona-2023.webp'
 imageCredit: 'Hunter Trick / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'

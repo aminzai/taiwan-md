@@ -19,7 +19,11 @@ lastVerified: 2026-09-02
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
-rationale: "{'why_this_hook': '把阿貴放回台灣網路內容史，觀察一個低門檻 Flash 角色如何穿過短片、遊戲、唱片、電影與公共衛生宣導。', 'whats_excluded': '不把阿貴寫成台灣動畫產業的完整通史，不列出所有角色與商品，也不把媒體榜單稱號寫成正式獎項。', 'where_it_hedges': '「全球首部全 Flash 電影」與「亞洲十大傑出人物」均以資料來源的記錄方式保守轉述，避免把跨來源的宣稱寫成無爭議定論。', 'whos_pushing_back': '熟悉 Flash 歷史的人可能認為阿貴的技術創新被高估。保存研究者也會提醒，官方網站停止更新後，社群記憶不能代替原始檔案。'}"
+rationale:
+  why_this_hook: '把阿貴放回台灣網路內容史，觀察一個低門檻 Flash 角色如何穿過短片、遊戲、唱片、電影與公共衛生宣導。'
+  whats_excluded: '不把阿貴寫成台灣動畫產業的完整通史，不列出所有角色與商品，也不把媒體榜單稱號寫成正式獎項。'
+  where_it_hedges: '「全球首部全 Flash 電影」與「亞洲十大傑出人物」均以資料來源的記錄方式保守轉述，避免把跨來源的宣稱寫成無爭議定論。'
+  whos_pushing_back: '熟悉 Flash 歷史的人可能認為阿貴的技術創新被高估。保存研究者也會提醒，官方網站停止更新後，社群記憶不能代替原始檔案。'
 translatedFrom: 'Culture/阿貴動畫.md'
 sourceCommitSha: '8730173b1'
 sourceContentHash: 'sha256:e731c57f65bf71e6'
