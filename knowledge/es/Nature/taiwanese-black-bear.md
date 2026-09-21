@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-17T06:43:38+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T16:36:47.977962+00:00'
 ---
 
 # Oso negro de Taiwán
@@ -53,27 +53,27 @@ Los datos del oso negro de Taiwán a menudo se presentan en la misma sección, p
 > **📝 Nota del curador**
 > Lo que más necesita la conservación del oso negro es saber cómo se obtienen los números y qué preguntas responden, en lugar de buscar un número único que parezca preciso. Al mantener honestamente la incertidumbre (cuando 1,200 aún puede aumentar o disminuir), se permite que la estimación inicial sirva verdaderamente a la ciencia.
 
-## Un oso que no vive en una cueva, escondido bajo el V blanco
+## Bajo la V blanca se esconde un oso que no vive en cuevas
 
-El pelaje negro, las orejas redondas, la cola corta y la marca en forma de V amarilla-blanca o creciente en el pecho del oso negro de Taiwán (_Ursus thibetanus formosanus_) hacen que no haya otro candidato con el que se pueda confundir entre los osos de Taiwán. Los adultos pesan alrededor de 60 a 150 kilogramos y miden entre 130 y 180 centímetros.[^2]
+El oso negro de Taiwán (nombre científico _Ursus thibetanus formosanus_), con su pelaje negro, orejas redondas, cola corta y la marca en forma de V o de media luna de color amarillo blanquecino en el pecho, no tiene ninguna otra especie de oso en Taiwán con la que pueda confundirse. Los ejemplares adultos pesan aproximadamente entre 60 y 150 kilogramos y miden entre 130 y 180 centímetros de longitud.[^2]
 
-No solo vive en un lugar vago llamado "montaña profunda". Los registros oficiales indican que ha aparecido en zonas montañosas desde los 300 hasta los 3,700 metros de altitud, aunque su distribución principal sigue siendo en bosques entre 1,000 y 2,500 metros de la Cordillera Central. Esto significa que el oso negro de Taiwán necesita un bosque conectado para poder moverse, alimentarse y reproducirse. La frontera de una sola área protegida es insuficiente.[^2]
+No vive solo en ese lugar vago que es la «montaña profunda». Los registros oficiales documentan su presencia en zonas montañosas desde los 300 hasta los 3.700 metros de altitud, aunque su distribución principal sigue estando en los bosques de la Cordillera Central entre 1.000 y 2.500 metros. Esto indica que el oso negro de Taiwán necesita bosques conectados que le permitan desplazarse, alimentarse y reproducirse. Los límites de una sola área protegida distan mucho de ser suficientes.[^2]
 
-El oso negro de Taiwán no hiberna; puede estar activo todo el año. No tiene un nido fijo y está más activo durante el día, con mayor actividad en verano y otoño. En otoño e invierno, cuando maduran los frutos del género _Castanea_, la actividad nocturna también puede aumentar. Los estudios de seguimiento por radio en el Parque Nacional Yushan estiman que el rango anual de un individuo es de aproximadamente 27 a 202 kilómetros cuadrados.[^2] [^5]
+El oso negro de Taiwán no hiberna y puede estar activo durante todo el año. No tiene guarida fija, es activo principalmente durante el día, y su actividad aumenta en verano y otoño. Cuando llega el otoño-invierno y maduran los frutos de las Fagáceas, su actividad nocturna también puede aumentar. Un estudio de radioseguimiento en el Parque Nacional Yushan estima que el área de actividad anual de un individuo oscila entre 27 y 202 kilómetros cuadrados.[^2] [^5]
 
-### ¿Cuántos oseznos nacen al año?
+### Solo nacen unas pocas crías al año
 
-La temporada de reproducción del oso negro de Taiwán es aproximadamente entre junio y agosto. Después del apareamiento, el embrión experimenta una gestación retardada; la madre generalmente da a luz entre diciembre y febrero del año siguiente, con uno a tres crías por camada. Los oseznos deben permanecer con su madre hasta la temporada reproductiva siguiente antes de separarse.[^2]
+La época de reproducción del oso negro de Taiwán se sitúa aproximadamente entre junio y agosto. Tras el apareamiento, el embrión experimenta una implantación diferida, y la hembra suele dar a luz entre diciembre y febrero del año siguiente, con camadas de una a tres crías. Las crías permanecen con su madre hasta la siguiente temporada de reproducción, momento en que se independizan gradualmente.[^2]
 
-Dado que las madres tienen una temporada de reproducción fija, los oseznos también deben aprender a buscar alimento, reconocer peligros y usar el bosque junto a su madre. La recuperación poblacional requiere tiempo. Cuando los datos de investigación muestran un aumento en los registros, los investigadores revisan simultáneamente la edad reproductiva, la supervivencia de los oseznos y la identificación de individuos de diferentes generaciones para determinar si el aumento se debe a más oportunidades de observación o a una población sostenible.[^2] [^4]
+Dado que las hembras tienen una temporada de reproducción fija y las crías deben aprender junto a su madre a buscar alimento, reconocer peligros y desenvolverse en el bosque, la recuperación de la población requiere tiempo. Cuando los datos de investigación muestran un aumento de registros, los investigadores examinan simultáneamente la edad reproductiva, la supervivencia de las crías y la identificación de individuos de diferentes generaciones para determinar si el aumento refleja mayores oportunidades de observación o una población verdaderamente sostenible.[^2] [^4]
 
-![Oso negro de Taiwán en un entorno de cría artificial, mostrando su físico y las marcas del pecho](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Oso negro de Taiwán en entorno de cuidado artificial, mostrando su complexión y marca pectoral](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_Esta imagen es una representación de un oso negro de Formosa en un entorno artificial, utilizada como referencia visual para el físico, garras largas y las marcas del pecho, no como evidencia de distribución silvestre en Taiwán. Imagen: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. La imagen ha sido incorporada al proyecto._
+_Esta foto es una imagen de oso negro de Formosa en entorno artificial, que sirve como referencia visual de su complexión, garras largas y marca pectoral, no como evidencia de distribución silvestre en Taiwán. Imagen: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Imagen incorporada al proyecto._
 
-![Ilustración del oso negro de Taiwán con la marca V blanca en el pecho](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Ilustración de oso negro de Taiwán, con marca en forma de V blanca en el pecho](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_Esta ilustración se utiliza para representar el físico y las marcas del pecho del oso negro de Taiwán, no es una foto de un individuo silvestre. Imagen: SilverSea Design/Davidzdh, CC BY 4.0, Wikimedia Commons. La imagen ha sido incorporada al proyecto._
+_Esta ilustración sirve para mostrar la complexión y la marca pectoral del oso negro de Taiwán; no es una foto de un individuo silvestre. Imagen: SilverSea Design／林慧秋 Chofy Lin, CC BY 4.0, Wikimedia Commons. Imagen incorporada al proyecto._
 
 ## ¿Qué come y hacia dónde va?
 
@@ -213,27 +213,27 @@ Este artículo utiliza 6 URLs de redes originales libres o abiertas de Wikimedia
 
 ## Referencias
 
-[^1]: [Taiwán entra en la era de los osos y se compromete con la coexistencia pacífica humano-oso](https://www.forest.gov.tw/news/0076122) — Agencia Forestal y de Conservación Natural, Ministerio de Agricultura, 16/05/2025. Proporciona 2,034 registros de avistamiento (2011–2025), cambios en la distribución administrativa, tendencias de altitud, restauración forestal y políticas de coexistencia humano-oso.
+[^1]: [Taiwán entra en la era de los osos, dedicada a la coexistencia pacífica entre humanos y osos](https://www.forest.gov.tw/news/0076122) — Agencia de Silvicultura y Conservación de la Naturaleza del Ministerio de Agricultura, 2025-05-16. Proporciona 2,034 registros de avistamiento de 2011-2025, cambios en la distribución administrativa, tendencias de altitud, restauración forestal y políticas de coexistencia humano-oso.
 
-[^2]: [Ciencia popular del oso negro de Taiwán](https://www.ysnp.gov.tw/StaticPage/Science) — Oficina de Gestión del Parque Nacional Yushan, Agencia Nacional de Parques. Proporciona clasificación, apariencia, altitud de distribución, reproducción, dieta, actividad anual y rango de movimiento.
+[^2]: [Divulgación científica sobre el oso negro de Taiwán](https://www.ysnp.gov.tw/StaticPage/Science) — Oficina de Gestión del Parque Nacional Yushan, Agencia de Parques Nacionales del Ministerio del Interior. Proporciona datos sobre clasificación, apariencia, altitud de distribución, reproducción, dieta, actividad anual y rango de actividad.
 
-[^3]: [Coexistir con osos](https://www.ysnp.gov.tw/StaticPage/Coexist) — Oficina de Gestión del Parque Nacional Yushan, Agencia Nacional de Parques. Proporciona guías oficiales sobre encuentros con osos, gestión alimentaria, senderismo, reporte y reconocimiento de huellas.
+[^3]: [Convivir con los osos](https://www.ysnp.gov.tw/StaticPage/Coexist) — Oficina de Gestión del Parque Nacional Yushan, Agencia de Parques Nacionales del Ministerio del Interior. Proporciona directrices oficiales sobre encuentros con osos, gestión de alimentos, acompañamiento, reporte e identificación de rastros de osos.
 
-[^4]: [La agencia forestal estima unos 1,200 osos negros en Taiwán y planea un centro de acogida a largo plazo](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Central News, 23/03/2026. Reporta la estimación preliminar de alrededor de 1,200, las limitaciones de representatividad de los datos, posibles correcciones posteriores y la planificación del centro de acogida a largo plazo.
+[^4]: [La Agencia de Conservación Forestal estima inicialmente unos 1200 osos negros de Taiwán; se construirá un centro de acogida a largo plazo](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Agencia Central de Noticias, 2026-03-23. Informa sobre la estimación inicial de aproximadamente 1,200 individuos, limitaciones de representatividad de los datos, posibles revisiones posteriores y planes para un centro de acogida a largo plazo.
 
-[^5]: [Exposición en línea de colecciones digitales de parques nacionales de Taiwán](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Agencia Nacional de Parques. Organiza la ecología del oso negro de Taiwán, el historial de investigación desde 1996, las investigaciones sobre heridos (1998–2001), la identificación genética individual y la promoción de la conservación.
+[^5]: [Exposición especial en línea del archivo digital de los parques nacionales de Taiwán](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Agencia de Parques Nacionales del Ministerio del Interior. Compila la ecología del oso negro de Taiwán, la historia de investigación desde 1996, la encuesta de individuos heridos de 1998-2001, la identificación genética individual y la promoción de la conservación.
 
-[^6]: [Dietas de osos negros asiáticos en Taiwán, con comparaciones metodológicas y geográficas](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Proporciona la investigación sobre desechos, rastros de alimentación y entrevistas con cazadores indígenas en el Parque Nacional Yushan (1998–2000).
+[^6]: [Dietas de los osos negros asiáticos en Taiwán, con comparaciones metodológicas y geográficas](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Proporciona estudio sobre heces, rastros de alimentación y entrevistas a cazadores indígenas en el Parque Nacional Yushan de 1998-2000.
 
-[^7]: [Impacto de las heridas causadas por trampas en el uso del espacio de osos negros asiáticos en peligro de Taiwán](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue University of Michigan, 2024. Compara el rango de actividad y la selección de hábitat de 6 osos heridos y 9 osos sanos del Parque Nacional Yushan.
+[^7]: [Impacto de las lesiones causadas por trampas de lazo en el uso del espacio de los osos negros asiáticos en peligro en Taiwán](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue de la Universidad de Míchigan, 2024. Compara el rango de actividad, movimiento y selección de hábitat de 6 osos negros heridos y 9 sanos en el Parque Nacional Yushan.
 
-[^8]: [Unidad Tres: El camino a casa](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museo Nacional de Ciencias Naturales, 2021. Explica el cuidado, el entrenamiento de liberación y las habilidades de vida que deben aprender antes de volver al medio silvestre para los oseznos de Nan'an.
+[^8]: [Unidad tres: El camino a casa](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museo Nacional de Ciencias Naturales, 2021. Explica el cuidado, entrenamiento de rewilding y habilidades de vida que el osezno de Nan'an debe aprender antes de regresar a la naturaleza.
 
-[^9]: [Página interna de misión: Plan de acción de conservación del oso negro de Taiwán](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Asociación de Conservación del Oso Negro de Taiwán. Organiza objetivos de conservación como la interacción humano-oso, el comercio ilegal, la gestión del hábitat, la investigación, la educación, el desarrollo de capacidades y la legislación de políticas.
+[^9]: [Misión y tareas: Directrices de acción para la conservación del oso negro de Taiwán](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Asociación para la Conservación del Oso Negro de Taiwán. Compila objetivos de conservación como interacción humano-oso, comercio ilegal, gestión de hábitat, investigación, educación, desarrollo de capacidades y legislación política.
 
-[^10]: [Solo para que pueda moverse libremente en el bosque: 30 años de protección del oso negro de Taiwán por los parques nacionales](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Agencia Nacional de Parques, 2026. Explica la dirección integrada de tres parques nacionales montañosos, corredores de hábitat, gestión alimentaria, alerta tecnológica y participación local.
+[^10]: [Solo para que pueda caminar libremente por las montañas y bosques: 30 años de los parques nacionales protegiendo el camino a casa del oso negro de Taiwán](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Agencia de Parques Nacionales del Ministerio del Interior, 2026. Explica la dirección integrada de tres parques nacionales de alta montaña, corredores de hábitat, gestión de alimentos, alerta tecnológica temprana y participación local.
 
-[^11]: [Video del oso negro](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Oficina de Gestión del Parque Nacional Yushan, Agencia Nacional de Parques. La página oficial contiene videos como "Encounter a Formosan black bear" y "Crianza de osos en Yushan", que cubren hábitos ecológicos, rango de distribución, respuesta al encuentro, hábitat forestal e investigación de conservación.
+[^11]: [Videos del oso negro](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Oficina de Gestión del Parque Nacional Yushan, Agencia de Parques Nacionales del Ministerio del Interior. La página oficial de videos lista '熊熊遇見 Encounter a Formosan black bear' y '玉山育熊', entre otros, cubriendo hábitos ecológicos, rango de distribución, respuesta a encuentros con osos, hábitat forestal e investigación de conservación.
 
 ## Lectura extendida
 
