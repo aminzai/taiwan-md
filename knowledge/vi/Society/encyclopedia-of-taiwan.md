@@ -1,17 +1,17 @@
 ---
-title: 'Bách Khoa Tứp Đại Của Đài Loan: Mộng Mơ Tri Thức Cấp Quốc Gia Với Năm Tỷ Đồng'
-description: 'Năm 2004, Đài Loan khởi động dự án tri thức quy mô lớn nhất trong lịch sử, "Bách Khoa Tứp Đại Của Đài Loan". Dự án này bắt đầu từ bản đồ lớn với 14 tỷ đồng của Thái Anh Văn, đến thực tế 52 triệu đồng, qua ba lần cập nhật hệ thống và phát triển bản quyền, cuối cùng đóng lại trang web độc lập vào năm 2014. Đây không chỉ là một cuộc cách mạng công nghệ, mà còn là sự chuyển đổi sâu sắc của quốc gia trong thế kỷ số từ "người xác định bản quyền" sang "nhà cung cấp nguyên liệu mở".'
+title: 'Encyclopædia Tân Đại Đài Loan: Giấc mơ tri thức quốc gia 500 triệu đồng'
+description: 'Năm 2004, Đài Loan đã ra mắt dự án kỹ thuật tri thức lớn nhất lịch sử — "Encyclopædia Tân Đại Đài Loan". Từ bức tranh đẹp 1,4 tỷ đồng ban đầu của ông Vương Vinh Văn cho tới khoản ngân sách thực tế 520 triệu đồng, dự án trải qua ba lần cập nhật hệ thống và phát triển giấy phép, cuối cùng đóng cửa trang web độc lập vào năm 2014. Đây không chỉ là lịch sử chuyển đổi công nghệ, mà còn là sự chuyển đổi tư duy sâu sắc của nhà nước trong thời đại số: từ "người định nghĩa uy tín" sang "người cung cấp tài nguyên mở".'
 date: 2026-04-28
 category: 'Society'
 tags:
   [
-    'Bộ Văn Hóa',
-    'Thái Anh Văn',
-    'Lưu trữ số',
-    'Kho Lưu Trữ Văn Hóa Quốc Gia',
-    'Chủ quyền tri thức',
+    'Bộ Văn hóa',
+    'Vương Vinh Văn',
+    'Bảo tàng số',
+    'Thư viện văn hóa quốc gia',
+    'chủ quyền tri thức',
     'Web 2.0',
-    'Lại Thanh Đức',
+    'Lý Viễn Trí',
   ]
 subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
@@ -20,96 +20,98 @@ readingTime: 20
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: '4cd497a8f'
-sourceContentHash: 'sha256:dacc755fc6695d56'
-sourceBodyHash: 'sha256:8ca41487dbdd4aec'
-translatedAt: '2026-07-26T11:16:39+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:ebc2cadf850b7fc2'
+sourceBodyHash: 'sha256:37186c1b6ac0ce30'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
 > **Tóm tắt 30 giây:**
-> "Bách Khoa Tứp Đại Của Đài Loan" khởi động vào năm 2004 làm mốc mốc mốc của những nỗ lực xây dựng chủ quyền văn hóa của Đài Loan, có ngân sách đạt tới 52 triệu đồng. Dự án này bắt đầu từ kế hoạch khổng lồ 14 tỷ đồng của Chủ tịch hãng xuất bản Thái Anh Văn (bao gồm 30 cuốn, 100.000 thuật ngữ và bản tiếng Anh), nhưng trong quá trình thực thi, đã trải qua nhiều tranh luận giữa yêu cầu "chuyên nghiệp" và "tự do hợp tác". Sau ba lần cập nhật hệ thống (tự phát triển, MediaWiki, hệ thống độc lập), sự thay đổi trong bản quyền (từ GFDL sang CC), và sự giảm bớt kế hoạch bản in, cuối cùng vào ngày 15 tháng 7 năm 2014, trang web độc lập đã đóng lại, hòa nhập vào "Cơ sở dữ liệu Văn hóa Quốc gia". Đây là một thí nghiệm cho thấy vai trò chuyển đổi của quốc gia trong thế kỷ số: từ cố gắng áp đặt "bản dịch chính thức" sang cung cấp "nguyên liệu mở" để cộng đồng và AI hợp tác.
+> "Encyclopædia Tân Đại Đài Loan", ra mắt vào năm 2004, là cột mốc quan trọng trong hành trình Đài Loan xây dựng bản sắc văn hóa, với ngân sách lên tới 520 triệu đồng. Dự án này bắt đầu từ tầm nhìn tham vọng 1,4 tỷ đồng của nhà xuất bản Vương Vinh Văn (bao gồm 30 tập lớn, hơn 100.000 bài viết và bản tiếng Anh), nhưng trong quá trình thực hiện, luôn căng thẳng giữa "uy tín" do chuyên gia kiểm duyệt và "tự do" từ sự hợp tác trực tuyến. Sau ba lần cập nhật hệ thống (tự phát triển, MediaWiki, hệ thống độc lập), sự phát triển cơ chế cấp phép (từ GFDL sang CC), cùng với việc thu hẹp kế hoạch bản in, cuối cùng vào ngày 15 tháng 7 năm 2014, trang web độc lập chính thức đóng cửa và được hợp nhất vào "Cơ sở dữ liệu Văn hóa Quốc gia". Thí nghiệm này chứng minh sự chuyển đổi vai trò của nhà nước trong thời đại số: từ nỗ lực độc quyền "phiên bản chuẩn", chuyển sang cung cấp "nguyên liệu mở" để cộng đồng và AI cùng hợp tác.
 
-"Chủ tịch Tức Bình luôn cho rằng chúng ta nên có một cuốn 'Bách Khoa Tứp Đại Của Đài Loan', một cuốn tài liệu trung thực phản ánh xu hướng thời đại và tâm hồn người Đài Loan."[^1] Vào ngày 13 tháng 5 năm 2004, khi đang làm Tổng thống, Tức Bình đã nâng cao mục tiêu biên tập bách khoa lên tầng cao chiến lược quốc gia, nhấn mạnh tầm quan trọng của nó như một "công cụ tìm kiếm toàn diện về Đài Loan" và "tập hợp tri thức văn hóa Đài Loan"[^1][^2].
+"Chủ tịch Tổng thống Chen Shui-bian (Thái Anh Văn) luôn tin rằng chúng ta cần có một bộ "Encyclopædia Tân Đại Đài Loan", một bộ có khả năng phản ánh trung thực xu hướng thời đại và tâm lý người dân Đài Loan."[^1] Ngày 13 tháng 5 năm 2004, trong tờ "Bản tin Điện tử của Chủ tịch" số 135, ông chính thức đưa dự án biên soạn bách khoa toàn thư lên tầm quan trọng chiến lược quốc gia, nhấn mạnh vai trò thiết yếu của nó như "công cụ tìm kiếm toàn diện cho nghiên cứu Đài Loan" và "kho tri thức văn hóa Đài Loan"[^1][^2]。
 
-Dự án này với ngân sách 5 triệu đồng là một cuộc chơi quyền lực về "quyền tự diễn giải chủ thể của Đài Loan". Là một phần của dự án "kế hoạch quốc gia lưu trữ số", nó gắn bó chặt chẽ với xu hướng số hóa của quốc gia, ngành công nghiệp sáng tạo văn hóa và chính sách dữ liệu mở[^2].
+Dự án 500 triệu đồng này là một cuộc cá cược về "quyền được giải thích theo góc nhìn Đài Loan". Là một phần của "Dự án Quốc gia Bảo tàng Số", nó liên quan mật thiết tới chính sách số hóa, công nghiệp sáng tạo văn hóa và mở dữ liệu của nhà nước lúc bấy giờ[^2]。
 
-### Tầm nhìn: Bản đồ khổng lồ 14 tỷ đồng của nhà xuất bản
+### Tầm nhìn: Bức tranh đẹp 1,4 tỷ đồng của nhà xuất bản
 
-Người sáng lập của dự án, Chủ tịch hãng xuất bản Thái Anh Văn là người chịu trách nhiệm chính. Với quan điểm của ông, bách khoa là huy hiệu cuối cùng của ngành xuất bản. Tầm nhìn ban đầu của Thái Anh Văn rất tham vọng: ông mong muốn hoàn thành phiên bản tiếng Trung trực tuyến trong vòng 4 năm, phiên bản tiếng Anh trực tuyến trong vòng 5 năm, và xuất bản bản in vào năm 6 ( ít nhất 30 cuốn, 50 triệu chữ Hán, in 10.000 bộ tặng trường học và quốc tế)[^2].
+Linh hồn của dự án khổng lồ này thuộc về Chủ tịch Công ty Far East New Century, Vương Vinh Văn (Wang Rongwen). Đối với ông, bách khoa toàn thư là chiến tích tối thượng của một nhà xuất bản. Tầm nhìn mà Vương đề xuất ở giai đoạn đầu rất tham vọng: ông mong muốn **hoàn thành bản tiếng Trung trực tuyến trong vòng 4 năm**, **bản tiếng Anh trực tuyến trong 5 năm**, **bản in giấy trong 6 năm** (ít nhất **30 tập lớn**, **50 triệu ký tự**, in 10.000 bản tặng cho trường học và quốc tế)[^2]。
 
-Mục tiêu bao gồm cấu trúc phân cấp tri thức (Propedia) và ít nhất 100.000 thuật ngữ. Dựa trên ngân sách sửa đổi phiên bản 16 của Bách Khoa Tứp Đại Của Thế Giới, ông ước tính ngân sách tổng cộng trong vòng 6 năm cần 14 tỷ đồng, đề xuất thành lập tổ chức phi nhà nước để bảo trì lâu dài[^2]. Để đảm bảo tính chuyên nghiệp, dự án đã mời giáo sư Li Thanh Đức (nhà vô dịch Hóa học) vào năm 2007 tháng 5 giữo chức "Giám đốc tổng hợp của Ủy ban Hội đồng Biên tập Giám sát"[^1][^3].
+Mục tiêu nội dung bao gồm **cấu trúc tri thức rõ ràng (Propedia)** và **ít nhất 100.000 bài viết**. Ông tham chiếu ngân sách điều chỉnh phiên bản 16 của Encyclopædia Britannica để ước tính tổng ngân sách sẽ cần **1,4 tỷ đồng** trong 6 năm, đồng thời đề xuất thành lập một quỹ từ thiện để duy trì lâu dài[^2]。Để đảm bảo uy tín, dự án đã mời nhà nhận giải Nobel Lý Viễn Trí (Lee Yuan-ting) vào tháng 5 năm 2007 nhận vai trò **Giám đốc Tổng hội Biên tập Giám đốc**[^1][^3]。
 
-Tuy nhiên, khoảng cách giữa thực tế và lý tưởng rất lớn. Ngân sách thực thi chỉ đạt khoảng 52 triệu đồng[^1]. Kế hoạch ban đầu dự kiến xuất bản 20 cuốn vào năm 2008, nhưng trong quá trình triển khai do hạn chế ngân sách và chuyển đổi trọng tâm sang số hóa, cuối cùng chỉ được công ty con của Thái Anh Văn "Tri thức Học thuật" hoàn thành giai đoạn đầu tiên 6 cuốn, kế hoạch xuất bản bản in quy mô lớn cuối cùng không được triển khai đúng hạn[^1][^2][^4].
+Tuy nhiên, thực tế luôn cách xa mơ màng. Ngân sách thực tế chỉ khoảng **520 triệu đồng**[^1]。Kế hoạch in ấn **20 cuốn** vào năm 2008 đã bị thu hẹp trong quá trình thực hiện do ngân sách và chuyển hướng trọng tâm sang số, cuối cùng chỉ có công ty con của Far East — "Wisdom Archive Learning Technology" — hoàn thành giai đoạn đầu với 6 cuốn, và kế hoạch in ấn quy mô lớn cuối cùng cũng không được thực hiện đúng tiến độ[^1][^2][^4]。
 
-📝 Ghi chú của người dẫn chương: Khi ước mơ xuất bản gặp ngân sách quốc gia, cuộc chơi này dường như có phương pháp hỗ trợ mạnh mẽ nhất, nhưng cũng định sẵn phải kéo dài hơn mười năm với quy trình cơ quan, thay đổi công nghệ và văn hóa cộng đồng.
+📝 Ghi chú nhà biên tập: Khi giấc mơ xuất bản gặp ngân sách nhà nước, cuộc cá cược này dù đã có sự hỗ trợ mạnh mẽ nhất vẫn phải đối mặt với hệ thống hành chính, biến đổi công nghệ và văn hóa cộng đồng trong suốt một thập kỷ.
 
-### Nửa bước: Ba lần cập nhật hệ thống và thay đổi bản quyền
+### Chuyển hướng: Ba lần cập nhật hệ thống và cuộc tranh cãi về giấy phép
 
-Ban đầu dự án áp dụng chiến lược "phiên bản công chúng" và trải qua ba lần cập nhật hệ thống kỹ thuật và phát triển bản quyền:
+Ở giai đoạn đầu, dự án áp dụng chiến lược "phiên bản phổ thông trước tiên", trải qua ba lần cập nhật hệ thống chính và sự phát triển giấy phép:
 
-1.  **Hệ thống tự phát triển (bắt đầu tháng 1 năm 2005)**: Được triển khai bởi Hiệp hội Chương trình Thế kỷ 21 của Đài Loan. Hệ thống này yêu cầu đăng ký cung cấp tên, số điện thoại, thậm chí **số CMND**, gây ra những nghi ngờ về quyền riêng tư nghiêm trọng[^1][^2]. Ban đầu áp dụng chính sách "nộp bài qua kiểm duyệt thì được trả tiền", dẫn đến số lượng lớn bài viết được gửi vào, nhưng tốc độ kiểm duyệt chậm chạp[^5].
-2.  **Hệ thống MediaWiki (năm 2007)** : Trang web chuyển sang sử dụng hệ thống MediaWiki, bản quyền sử dụng **Giấy phép GNU Tài liệu Tự do (GFDL)**[^2]. Thời kỳ này do tính mở của hệ thống cao, dẫn đến "nội dung người dùng gần như không kiểm duyệt", **bài viết sao chép vi phạm bản quyền chiếm phần lớn**, trở thành vấn đề chất lượng lớn nhất của dự án[^1][^2].
-3.  **Hệ thống độc lập (tháng 10 năm 2009)**: Để giải quyết vấn đề vi phạm bản quyền và chất lượng, trang web lại được cập nhật lại thành hệ thống độc lập (taiwanpedia.culture.tw), thay đổi bản quyền thành **Giấy phép Creative Commons BY-NC-SA 2.5**, xác định rõ ràng "mở nhưng không cho phép sử dụng thương mại"[^1][^2].
+1. **Hệ thống tự phát triển (ra mắt tháng 1 năm 2005)**: Được thực hiện bởi Hội đồng Thập niên Thế kỷ 21 của Đài Loan. Hệ thống yêu cầu đăng ký phải cung cấp họ tên, số điện thoại, thậm chí **mã số CCCD**, gây ra nghi ngờ nghiêm trọng về quyền riêng tư[^1][^2]。Giai đoạn đầu áp dụng chính sách "nộp bài qua kiểm duyệt sẽ được trả tiền", dẫn đến lượng bài viết đổ về rất lớn, khiến tiến trình kiểm duyệt bị chậm chễ[^5]。
+2. **Hệ thống MediaWiki (năm 2007)**: Trang web chuyển sang hệ thống MediaWiki, với cơ chế cấp phép **Giấy phép Tự do GNU (GFDL)**[^2]。Thời gian này do tính mở của hệ thống, dẫn đến "nội dung từ người dùng gần như không được kiểm tra", **bài viết sao chép vi phạm bản quyền lan tràn**, trở thành khủng hoảng chất lượng lớn nhất của dự án[^1][^2]。
+3. **Hệ thống độc lập (năm 2009, tháng 10)**: Để giải quyết vấn đề bản quyền và chất lượng, trang web lại một lần nữa được nâng cấp lên hệ thống độc lập (taiwanpedia.culture.tw), điều chỉnh cơ chế cấp phép thành **CC BY-NC-SA 2.5 Creative Commons**, rõ ràng thể hiện quan điểm "mở nhưng không cho phép sử dụng thương mại"[^1][^2]。
 
-"Người dùng thích mạng mía, thường phản đối việc chính phủ chủ động viết và kiểm duyệt tri thức."[^5] Đây là tổng hợp của các chuyên gia và nhà nghiên cứu được Bộ Văn hóa (hiện là Bộ Văn hóa) mời tham gia khảo sát vào năm 2006. Các chuyên gia lo ngại về việc hủy bỏ quy trình kiểm duyệt không chỉ về mặt chuyên nghiệp, mà còn lo ngại về việc "tự diễn giải chủ thể của Đài Loan" có bị làm mờ bởi tiếng ồn[^2].
+"Những người yêu thích sử dụng internet thường xuyên từ chối sự soạn thảo và kiểm duyệt tri thức do nhà nước dẫn dắt."[^5] Đây là kết luận sau khi các chuyên gia được Bộ Thông tin và Văn hóa (hiện là Bộ Văn hóa) mời thảo luận vào năm 2006. Các chuyên gia không chỉ lo ngại về uy tín, mà còn lo ngại "bản sắc Đài Loan" có bị phai nhạt bởi tiếng ồn không?[^2]。
 
-### Kết quả: Tri thức được sản xuất dưới lớp kim tinh
+### Kết quả: Sản lượng tri thức dưới góc nhìn kim tự tháp
 
-Mặc dù quá trình dao động, "Bách Khoa Tứp Đại Của Đài Loan" vẫn để lại di sản học thuật giá trị. Phiên bản chuyên nghiệp nhấn mạnh "phong cách viết kiến trúc kim tinh": đầu đề cập ba câu phải có sự thật cụ thể, sau đó đi sâu lên trên và dưới, cuối cùng cung cấp hướng dẫn mở rộng[^6]. Dự án này trong giai đoạn giữa và sau năm 2000, đã tổ chức sắp xếp hệ thống các lĩnh vực như lịch sử, địa lý, dân gian, văn học... 16 lĩnh vực[^5][^7].
+Dù quá trình gặp nhiều trở ngại, "Encyclopædia Tân Đại Đài Loan" vẫn để lại di sản học thuật quý giá. Phiên bản chuyên nghiệp nhấn mạnh "góc nhìn kim tự tháp": ba câu mở đầu phải chứa đựng những sự kiện cụ thể, sau đó đi sâu và dễ hiểu, cuối cùng cung cấp hướng dẫn mở rộng[^6]。Dự án này đã tổ chức hệ thống 16 lĩnh vực khác nhau của Đài Loan vào giữa và cuối những năm 2000, bao gồm lịch sử, địa lý, phong tục, văn học, v.v.[^5][^7]。
 
-| Loại                          | Nội dung số liệu                                                                                       |
-| :---------------------------- | :----------------------------------------------------------------------------------------------------- |
-| **Kế hoạch công chúng**       | 15.036 mục từ                                                                                          |
-| **Bài đăng công chúng**       | 11.793 mục (trước khi qua kiểm duyệt khoảng 10.648 mục)[^2]                                            |
-| **Tích lũy số liệu**          | Đến cuối năm 2011 đã tích lũy khoảng **50.008 mục từ** (bao gồm số lượng chưa kiểm duyệt chặt chẽ)[^2] |
-| **Kết quả chuyên nghiệp**     | Hơn **130.000 mục từ chất lượng cao được chuyên gia xác nhận**[^5]                                     |
-| **Tài nguyên đa phương tiện** | 8.929 hình ảnh và một số tệp video[^2]                                                                 |
+| Loại hình                             | Nội dung số liệu                                                                                                |
+| :------------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
+| **Kế hoạch phiên bản phổ thông**      | 15,036 mục từ                                                                                                   |
+| **Đóng góp phiên bản phổ thông**      | 11,793 mục (khoảng 10,648 mục được chấp nhận sau kiểm duyệt ban đầu)[^2]                                        |
+| **Dữ liệu tích lũy**                  | Đến cuối năm 2011, tích lũy khoảng **50,008 mục từ** (bao gồm cả số lượng chưa được kiểm duyệt nghiêm ngặt)[^2] |
+| **Sản lượng phiên bản chuyên nghiệp** | Hơn **13.000 mục từ chất lượng cao đã qua kiểm duyệt của chuyên gia**[^5]                                       |
+| **Tài nguyên đa phương tiện**         | 8,929 hình ảnh và một số tệp đa phương tiện khác[^2]                                                            |
 
-📝 Ghi chú của người dẫn chương: Bách Khoa Tứp Đại Của Đài Loan giá trị nhất không chỉ là năm tỷ đồng, mà còn là sự ép buộc các chuyên gia trong các lĩnh vực khác nhau trong giai đoạn đầu của quá trình chuyển đổi số, đã làm việc vì Đài Loan một lần duy nhất để thực hiện kiểm tra tri thức và thử thách tương tác với cộng đồng mạng.
+📝 Ghi chú nhà biên tập: Điều quý giá nhất của bộ bách khoa này không chỉ là 500 triệu đồng, mà là nó buộc các chuyên gia trong nhiều lĩnh vực phải thực hiện một cuộc kiểm tra tri thức toàn diện cho Đài Loan ở giai đoạn đầu của sự chuyển đổi số, đồng thời cố gắng tương tác với cộng đồng mạng.
 
-### Kết thúc: Rút lui số hóa vào năm 2014 và chuyển đổi mẫu hình
+### Kết thúc: Sự rút lui số hóa và chuyển đổi tư duy năm 2014
 
-Vào tháng 6 năm 2014, Bộ Văn hóa chính thức đưa các mục từ của "Bách Khoa Tứp Đại Của Đài Loan" vào "Cơ sở dữ liệu Văn hóa Quốc gia" (nrch.culture.tw), không còn mở rộng hợp tác cộng đồng[^1][^2]. Vào ngày **15 tháng 7 năm 2014**, trang web độc lập chính thức đóng lại[^1][^2].
+Vào tháng 6 năm 2014, Bộ Văn hóa chính thức hợp nhất các mục của "Encyclopædia Tân Đại Đài Loan" vào "Cơ sở dữ liệu Văn hóa Quốc gia" (nrch.culture.tw), ngừng mở cực hợp tác cộng đồng[^1][^2]。**Ngày 15 tháng 7 năm 2014**, trang web độc lập chính thức đóng cửa[^1][^2]。
 
-Đây là một điểm chuyển đổi quan trọng: Quốc gia quyết định nhận thức hạn chế của việc chủ động một "bách khoa chính thức định sử" trong thế kỷ Web 2.0, chuyển sang làm cho nội dung như một phần của "dữ liệu mở" (Open Data). Hiện nay, các mục từ này đã được hợp nhất vào "Cơ sở dữ liệu Văn hóa Quốc gia 2.0", chuyển từ "bản dịch chính thức của chuyên gia" sang "nguyên liệu cộng đồng", và được tích hợp vào ứng dụng NLP và AI, nhấn mạnh sự chia sẻ và tái tạo lại "DNA văn hóa"[^8][^9].
+Đây là một bước ngoặt quan trọng: nhà nước chọn công nhận những hạn chế của việc dẫn dắt một "bách khoa chuẩn" duy nhất trong thời đại Web 2.0, chuyển sang xem xét nội dung như một phần của "dữ liệu mở" (Open Data). Ngày nay, những mục này đã được tích hợp vào "Thư viện Văn hóa Quốc gia 2.0", từ "bách khoa do chuyên gia định nghĩa" chuyển thành "kho tài liệu cho toàn dân", đồng thời áp dụng NLP và AI, nhấn mạnh chia sẻ và sáng tạo lại "DNA văn hóa"[^8][^9]。
 
-### Thách thức và tranh cãi: Chiến trường chủ quyền tri thức mới
+### Thách thức và tranh cãi: Trường chiến mới về chủ quyền tri thức
 
-Cuộc chiến tranh tri thức chưa kết thúc. Vào cuối năm 2025, Nhà xuất bản Bách Khoa Tứp Đại Của Trung Quốc ra mắt cuốn "Bách Khoa Tứp Đại Của Đài Loan · Lịch sử" gồm 96 triệu chữ, nhấn mạnh "nguyên tắc một Trung Quốc"[^10]. Điều này chứng minh rằng, khi chúng ta không định nghĩa bản thân, người khác sẽ thay thế.
+Cuộc chiến tranh tri thức này chưa kết thúc. Vào cuối năm 2025, Nhà xuất bản Bách khoa Trung Quốc ra mắt cuốn sách "Lịch sử Bách khoa Đài Loan" với 960.000 từ, nhấn mạnh "nguyên tắc một Trung Quốc"[^10]。Điều này chứng minh: nếu chúng ta không tự định nghĩa bản thân, người khác sẽ định nghĩa thay chúng ta.
 
-Tương lai của chủ quyền tri thức của Đài Loan, có lẽ không nằm ở "bản dịch chính thức cấp quốc gia", mà là cách để nội dung bản địa được hiển thị và bảo vệ hiệu quả trên các nền tảng toàn cầu (như Wikipedia, mô hình ngôn ngữ lớn AI). Cuộc thí nghiệm năm 5 triệu đồng để lại những bài học sâu sắc: Quốc gia phù hợp nhất là người bảo vệ dữ liệu cơ bản và dữ liệu mở, chứ không phải người chiếm động việc diễn giải bản dịch.
+Tương lai của chủ quyền tri thức Đài Loan, có lẽ không nằm ở "bách khoa quốc gia", mà ở cách nội dung địa phương được nhìn thấy và duy trì hiệu quả trên các nền tảng toàn cầu (như Wikipedia, mô hình ngôn ngữ lớn AI). Cuộc thí nghiệm tốn 500 triệu đồng này để lại bài học sâu sắc: vai trò phù hợp nhất của nhà nước là làm người bảo vệ nền tảng và dữ liệu mở, chứ không phải người độc quyền kiểm soát việc giải thích tri thức.
 
-📝 Ghi chú của người dẫn chương: Thí nghiệm này chứng minh: Quốc gia nên làm người bảo vệ dữ liệu cơ bản và dữ liệu mở, chứ không phải người chiếm động việc diễn giải bản dịch. Trong thế kỷ hợp tác phi tập trung, sức sống của tri thức đến từ sự mở, không phải sự kiểm soát.
+📝 Ghi chú nhà biên tập: Thí nghiệm này chứng minh: nhà nước nên là người bảo vệ nền tảng và dữ liệu mở, chứ không phải người độc quyền kiểm soát việc giải thích. Trong thời đại hợp tác phân tán, sức sống của tri thức đến từ sự mở cửa, chứ không phải sự kiểm soát.
 
-**Đọc thêm**:
+**Đọc thêm:**
 
-- [Bộ Văn hóa](../Society/文化部) — Cơ quan chính phủ chính hữu cho dự án này
-- [Wikipedia](維基百科) — Bách Khoa Tứp Đại hợp tác Web 2.0 thời kỷ
-- [Vô điện tử](/society/泛科學) — Cộng đồng khoa học dân sự và nền tảng tri thức như một trường hợp đối chiếu, từ bài viết, khóa học, video đến dịch vụ cho tác giả, phản ánh cách tri thức được chuyển đổi trên nền kinh tế nền tảng
-- [Cơ sở dữ liệu Văn hóa Quốc gia](國家文化記憶庫) — Nền tảng tiếp nhận các mục từ của dự án này
+- Bộ Văn hóa — Cơ quan chính phủ dẫn dắt dự án này
+- [Wikipedia](維基百科) — Mô hình bách khoa hợp tác Web 2.0 cùng thời kỳ
+- [Khoa học phổ thông](/vi/society/pansci) — Tường trình so sánh với nền tảng tri thức cộng đồng dân sự, từ bài viết, khóa học, video cho tới dịch vụ cho nhà sáng tạo, cho thấy cách tri thức được biến đổi trong nền kinh tế nền tảng
+- [Thư viện Văn hóa Quốc gia](國家文化記憶庫) — Nền tảng tiếp nối các mục của dự án này
 
 ---
 
 **Tài liệu tham khảo:**
 
-[^1]: [Bách Khoa Tứp Đại Của Đài Loan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Ngân sách 52 triệu đồng + ba lần cập nhật hệ thống + đóng lại năm 2014 là lịch sử chi tiết
+[^1]: [Encyclopædia Tân Đại Đài Loan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Lộ trình đầy đủ về ngân sách 520 triệu đồng + ba lần cập nhật hệ thống + sự đóng cửa năm 2014
 
-[^2]: [So sánh Bách Khoa Tứp Đại Của Truyền thống và Wikipedia về quá trình biên tập — Thư viện Đại học Đài Loan Thông tin](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Bài luận học thuật so sánh phong cách biên tập bản dịch và hợp tác
+[^2]: [Phát triển biên tập truyền thống và Wikipedia — Tin tức Thư viện Đại học Thượng Hải](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Bài luận học thuật so sánh mô hình biên tập giữa bách khoa chuẩn và bách khoa hợp tác
 
-[^3]: [Lại Thanh Đức — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Giáo sư vô dịch Hóa học, vào năm 2007 tháng 5 giữo chức "Giám đốc tổng hợp của Ủy ban Hội đồng Biên tập Giám sát" của Bách Khoa Tứp Đại Của Đài Loan
+[^3]: [Lý Viễn Trí — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Nhà nhận giải Nobel Hóa học, nhận vai trò Giám đốc Tổng hội Biên tập của Encyclopædia Tân Đại Đài Loan vào năm 2007
 
-[^4]: [Bách Khoa Tứp Đại Của Đài Loan — Bách Khoa Tứp Đại trên Douyin](https://m.baike.com/wikiid/362001236109550645) — Ghi chép về kế hoạch xuất bản bản in từ 30 cuốn giảm xuống công ty con "Tri thức Học thuật" giai đoạn đầu tiên 6 cuốn
+[^4]: [Encyclopædia Tân Đại Đài Loan — Bách khoa Douyin](https://m.baike.com/wikiid/362001236109550645) — Hồ sơ kế hoạch in ấn từ 30 tập lớn được thu hẹp xuống 6 tập đầu tiên của công ty con "Wisdom Archive"
 
-[^5]: [Bách Khoa Tứp Đại Của Đài Loan thay đổi hủy bỏ quy trình kiểm duyệt — Trang web pháp luật Đài Loan](https://www.lawtw.com/archives/344744) — Ghi chép về sự thống nhất của các chuyên gia và nhà nghiên cứu được Bộ Văn hóa mời khảo sát năm 2006 về "người dùng mạng mía thường phản đối việc chính phủ chủ động kiểm duyệt tri thức"
+[^5]: [Encyclopædia Tân Đại Đài Loan thay đổi bỏ cơ chế kiểm duyệt — Mạng lưới pháp lý Đài Loan](https://www.lawtw.com/archives/344744) — Hồ sơ cuộc thảo luận của Bộ Thông tin và Văn hóa năm 2006 mời các chuyên gia học thuật thảo luận về "người dùng mạng thường xuyên từ chối sự kiểm duyệt do nhà nước dẫn dắt"
 
-[^6]: [Quy tắc viết của phiên bản chuyên nghiệp của Bách Khoa Tứp Đại Của Đài Loan — Blog Tri thức Học thuật](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Quy tắc viết "kiến trúc kim tinh" yêu cầu đầu đề cập ba câu phải có sự thật cụ thể
+[^6]: [Quy tắc biên tập phiên bản chuyên nghiệp của Encyclopædia Tân Đại Đài Loan — Blog Bách khoa Wisdom Archive](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Quy tắc viết "góc nhìn kim tự tháp" yêu cầu ba câu mở đầu phải chứa đựng sự kiện cụ thể
 
-[^7]: [Lịch sử và chỉ mục phân loại của Bách Khoa Tứp Đại Của Đài Loan](https://xiyu.url.tw/1/11/11-37.htm) — Hướng dẫn các mục từ được sắp xếp hệ thống trong 16 lĩnh vực
+[^7]: [Lịch sử và chỉ mục phân loại của Encyclopædia Tân Đại Đài Loan](https://xiyu.url.tw/1/11/11-37.htm) — Điều hướng các mục trong 16 lĩnh vực được tổ chức hệ thống
 
-[^8]: [Ra mắt Cơ sở dữ liệu Văn hóa Quốc gia 2.0 — Thông cáo báo chí Bộ Văn hóa](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Thông báo tích hợp từ "bản dịch chuyên gia" sang "nguyên liệu cộng đồng" + ứng dụng NLP/AI
+[^8]: [Thư viện Văn hóa Quốc gia 2.0 chính thức ra mắt — Thông cáo báo chí Bộ Văn hóa](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Thông báo tích hợp từ "bách khoa do chuyên gia định nghĩa" sang "kho tài liệu cho toàn dân" + ứng dụng NLP/AI
 
-[^9]: [Trang chủ các website chủ đề của Cơ sở dữ liệu Văn hóa Quốc gia](https://nrch.culture.tw/nrch/zh-tw) — Nền tảng tiếp nhận các mục từ của Bách Khoa Tứp Đại Của Đài Loan
+[^9]: [Cổng nhập vào các trang chủ đề của Thư viện Văn hóa Quốc gia](https://nrch.culture.tw/nrch/zh-tw) — Nền tảng tiếp nối các mục của Encyclopædia Tân Đại Đài Loan
 
-[^10]: [Bách Khoa Tứp Đại Của Trung Quốc 96 triệu chữ "Bách Khoa Tứp Đại Của Đài Loan · Lịch sử" nhấn mạnh nguyên tắc một Trung Quốc — Wind News](https://www.storm.mg/article/11083147) — Năm 2025 Nhà xuất bản Bách Khoa Tứp Đại Của Trung Quốc ra mắt, phản ánh sự cạnh tranh chủ quyền tri thức xuyên biên giới
+[^10]: [Bách khoa Trung Quốc ra mắt cuốn sách 960.000 từ "Lịch sử Bách khoa Đài Loan" nhấn mạnh nguyên tắc một Trung Quốc — Truyền thông Phong](https://www.storm.mg/article/11083147) — Năm 2025, Nhà xuất bản Bách khoa Trung Quốc ra mắt, phản ánh cuộc cạnh tranh về chủ quyền tri thức xuyên biển
 
-[^11]: [Thái Anh Văn: Tôi nhìn nhận và thực hành về Bách Khoa Tứp Đại Của Đài Loan](http://ceo.ylib.com/job011.htm) — Tầm nhìn ban đầu 14 tỷ đồng và kế hoạch 30 cuốn của Chủ tịch Far East Publishing
+[^11]: [Vương Vinh Văn: Quan điểm và cách tiếp cận của tôi trong việc biên soạn "Encyclopædia Tân Đại Đài Loan"](http://ceo.ylib.com/job011.htm) — Tầm nhìn ban đầu 1,4 tỷ đồng và kế hoạch 30 tập lớn của Chủ tịch Far East
+
+---

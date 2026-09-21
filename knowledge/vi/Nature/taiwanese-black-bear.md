@@ -21,10 +21,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-18T00:53:05+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T16:15:24.181428+00:00'
 ---
 
 # Đài Bắc Trung Hoa
@@ -53,27 +53,27 @@ Các con số về Đài Bắc Trung Hoa thường được đưa ra cùng một
 > **📝 Ghi chú biên tập viên**
 > Điều quan trọng nhất đối với bảo vệ Đài Bắc Trung Hoa là hiểu từng con số đến từ đâu và trả lời câu hỏi nào, chứ không phải theo đuổi một con số duy nhất trông cho đúng chính xác. Khi 1.200 con vẫn có thể điều chỉnh lên hoặc xuống, việc giữ nguyên sự bất định thực sự giúp ước tính sơ bộ phục vụ cho khoa học.
 
-## Dưới lớp V trắng: Một chú gấu không ngủ trong hang
+## Dưới chữ V trắng, ẩn náu một chú gấu không sống trong hang
 
-Đài Bắc Trung Hoa (danh từ khoa học: _Ursus thibetanus formosanus_) với lông đen, tai tròn, đuôi ngắn và dấu V hoặc hình mặt trăng vàng trắng trên ngực giúp nó không bị nhầm lẫn với bất kỳ loài gấu nào khác tại Đài Loan. Cá thể trưởng trọng lượng khoảng 60–150 kg, chiều dài khoảng 130–180 cm.[^2]
+Gấu đen Đài Loan (tên khoa học là _Ursus thibetanus formosanus_) với bộ lông đen, đôi tai tròn, đuôi ngắn và vết vằn hình chữ V hoặc hình trăng lưỡi liềm màu vàng trắng ở ngực, khiến nó không có đối tượng nào khác trong loài gấu tại Đài Loan có thể bị nhầm lẫn. Cá thể trưởng thành nặng khoảng 60 đến 150 kg, chiều dài cơ thể khoảng 130 đến 180 cm.[^2]
 
-Nó không chỉ sống ở những nơi "rừng sâu" mơ hồ. Theo hồ sơ chính thức, nó xuất hiện từ mặt nước 300 m lên đến 3.700 m, mặc dù phân bố chính vẫn ở khu vực 1.000–2.500 m của dãy núi Trung tâm. Điều này cho thấy Đài Bắc Trung Hoa cần rừng núi liên thông để di chuyển, tìm kiếm thức ăn và sinh sản. Một khu bảo vệ duy nhất không đủ.[^2]
+Nó không chỉ sống ở những nơi "sâu trong núi" một cách mơ hồ. Các tài liệu chính thức ghi nhận sự xuất hiện của nó từ các khu vực có độ cao từ 300 mét đến 3.700 mét, nhưng phân bố chủ yếu vẫn là rừng ở độ cao 1.000 đến 2.500 mét thuộc dãy núi Trung ương. Điều này cho thấy gấu đen Đài Loan cần một hệ thống rừng liên thông để chúng có thể di chuyển, kiếm ăn và sinh sản. Ranh giới của một khu bảo tồn đơn lẻ là hoàn toàn không đủ.[^2]
 
-Đài Bắc Trung Hoa không ngủ đông và hoạt động suốt cả năm. Chúng không có tổ ổ cố định, chủ yếu hoạt động vào ban ngày, hoạt động tăng vào mùa hè và thu. Vào mùa thu và đông, khi trái cây hạt loại phong phú, hoạt động ban đêm cũng có thể tăng lên. Nghiên cứu theo dõi bằng vô tuyến ở Vườn Quốc gia Yushan ước tính phạm vi hoạt động hàng năm của mỗi cá thể từ 27–202 km².[^2] [^5]
+Gấu đen Đài Loan không ngủ đông mà hoạt động quanh năm. Chúng không có hang ổ cố định; chủ yếu hoạt động vào ban ngày, với hoạt động tăng lên vào mùa hè và thu. Đến mùa thu và đông, quả của họ Đậu (Fagaceae) chín, khiến hoạt động về đêm cũng có thể nhiều hơn. Nghiên cứu theo dõi bằng radio tại Vườn quốc gia Ngọc Sơn ước tính phạm vi hoạt động hàng năm của một cá thể khoảng 27 đến 202 km vuông.[^2] [^5]
 
-### Mỗi năm chỉ chào đón một vài chú gấu con
+### Mỗi năm chỉ chào đón vài chú gấu con
 
-Thời kỳ sinh sản của Đài Bắc Trung Hoa thường rơi vào tháng 6–8. Sau khi giao phối, phôi Ấn đục sẽ bị trì hoãn, và sư tử thường sinh ra giữa tháng 12 và tháng 2 năm sau, thường là 1–3 chú gấu mỗi lần. Chú gấu cần ở bên mẹ cho đến trước mùa sinh sản kế tiếp mới tách ra.[^2]
+Mùa sinh sản của gấu đen Đài Loan diễn ra vào khoảng tháng Sáu đến tháng Tám. Sau khi giao phối, phôi thai trải qua sự trì hoãn làm tổ; mẹ gấu thường sinh con từ tháng Mười Hai đến tháng Hai năm sau, mỗi lứa thường có một đến ba con. Gấu con phải ở bên mẹ cho đến mùa sinh sản tiếp theo mới dần rời đi.[^2]
 
-Do sư tử có mùa sinh sản cố định, chú gấu cần học cách tìm kiếm thức ăn, nhận biết nguy hiểm và sử dụng rừng núi bên cạnh mẹ. Khi dữ liệu nghiên cứu cho thấy số lượng tăng lên, các nhà nghiên cứu cần đồng thời xem xét độ tuổi sinh sản, tỷ lệ sống sót của chú gấu và nhận dạng cá thể qua thế hệ để quyết định liệu sự gia tăng là do cơ hội quan sát tăng hay là dân số có thể duy trì được.[^2] [^4]
+Do mẹ gấu có chu kỳ sinh sản cố định, gấu con cũng phải học cách tìm kiếm thức ăn, nhận biết nguy hiểm và sử dụng rừng cùng với mẹ. Việc phục hồi quần thể cần thời gian. Khi dữ liệu nghiên cứu cho thấy sự gia tăng, các nhà nghiên cứu sẽ đồng thời kiểm tra tuổi sinh sản, tỷ lệ sống sót của gấu con và khả năng nhận dạng cá thể qua các thế hệ để xác định xem sự gia tăng đó là do cơ hội quan sát hay là quần thể có thể duy trì được.[^2] [^4]
 
-![Đài Bắc Trung Hoa trong môi trường nuôi nhân tạo, thể hiện cơ thể và dấu V trên ngực](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Ảnh gấu đen Đài Loan trong môi trường nuôi nhốt, thể hiện hình dáng và vết vằn ngực](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_Ảnh này là hình ảnh môi trường nuôi nhân tạo của Formosan black bear, chỉ như một tham chiếu hình ảnh về cơ thể, móng vuốt và dấu V trên ngực, không phải là bằng chứng cho sự hiện diện hoang dã tại Đài Loan. Ảnh: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Ảnh đã được thu thập vào dự án._
+_Bức ảnh này là hình ảnh mô phỏng về gấu đen Đài Loan trong môi trường nhân tạo, dùng để tham khảo về hình dáng, móng vuốt và vết vằn ngực, không phải bằng chứng phân bố tự nhiên tại Đài Loan. Ảnh: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Hình ảnh đã được lưu trữ trong dự án._
 
-![Minh hoạ Đài Bắc Trung Hoa, có dấu V trắng trên ngực](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Tranh minh họa gấu đen Đài Loan với vết vằn chữ V trắng ở ngực](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_Minh hoạ này chỉ dùng để minh họa cơ thể và dấu V trên ngực của Đài Bắc Trung Hoa, không phải là ảnh thực tế của cá thể hoang dã. Ảnh: SilverSea Design / Davidzdh, CC BY 4.0, Wikimedia Commons. Ảnh đã được thu thập vào dự án._
+_Bức tranh này được dùng để minh họa hình dáng và vết vằn ngực của gấu đen Đài Loan, không phải ảnh cá thể trong tự nhiên. Ảnh: SilverSea Design／林慧秋 Chofy Lin, CC BY 4.0, Wikimedia Commons. Hình ảnh đã được lưu trữ trong dự án._
 
 ## Chế độ ăn uống quyết định hướng đi của nó
 
@@ -130,21 +130,21 @@ _Ảnh này đến từ hồ sơ trưng bày của Trung tâm Du khách Nam An, 
 
 _Đoạn video chính thức của Văn phòng Quản lý Vườn Quốc gia Yushan: "Yushan nuôi gấu", chủ đề về môi trường sống và nghiên cứu bảo vệ, giải thích tại sao gấu cần rừng núi liên tục._
 
-## Khi gặp gấu, hãy thu dọn những mưu cơ của con người trước tiên
+## Khi gặp gỡ gấu, trước hết hãy cất giữ sự cám dỗ của con người
 
-Đoạn video giới thiệu chính thức của Văn phòng Quản lý Vườn Quốc gia Yushan: "Gặp gấu – Encounter a Formosan black bear", tóm tắt thói quen sinh học, phạm vi phân bố và cách xử lý khi gặp gấu thành một đoạn ngắn phù hợp để xem trước khi lên núi. Khi kết hợp với hướng dẫn văn bản để đọc cùng, nó giúp "giữ khoảng cách" từ một nguyên tắc trừu tượng trở thành chuẩn bị cụ thể trước khi lên núi.[^11]
+Bộ phận quản lý Vườn quốc gia Ngọc Sơn đã sản xuất video tuyên truyền chính thức 《Gặp gỡ Gấu Đài Loan》 (Encounter a Formosan black bear), tóm lược tập tính sinh thái, phạm vi phân bố và cách ứng phó khi gặp gấu của loài gấu đen thành một đoạn phim ngắn phù hợp để xem trước khi leo núi. Khi đọc cùng với hướng dẫn bằng văn bản, nó giúp biến "giữ khoảng cách" từ một nguyên tắc trừu tượng thành sự chuẩn bị cụ thể trước chuyến đi vào rừng.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Gặp gấu – Encounter a Formosan black bear | Video giới thiệu chính thức của Văn phòng Quản lý Vườn Quốc gia Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Gặp gỡ Gấu Đài Loan｜Bộ phận quản lý Vườn quốc gia Ngọc Sơn" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Đoạn video giới thiệu chính thức của Văn phòng Quản lý Vườn Quốc gia Yushan: Từ thói quen sinh học và phạm vi phân bố của gấu, thảo luận cách giảm thiểu tiếp xúc không cần thiết giữa con người và gấu khi nhập khu vực núi._
+_Video tuyên truyền chính thức của Bộ phận quản lý Vườn quốc gia Ngọc Sơn: Từ tập tính và phân bố của gấu đen, nói về cách giảm thiểu tiếp xúc không cần thiết giữa người và gấu trước khi vào khu vực núi._
 
-Hướng dẫn chính thức của Vườn Quốc gia Yushan nhắc nhở, Đài Bắc Trung Hoa thường cảnh giác và thích ẩn náu, khi nhận ra sự hiện diện của con người, chúng thường rời đi. Đối với người leo núi, sự chuẩn bị thực tế nhất là đóng kín thực phẩm của mình, đừng để nó trở thành lý do để gấu tới gần con người. Khi rời khỏi khu vực, rác, chất thải bếp và tất cả thực phẩm cần được mang theo.[^3]
+Hướng dẫn chính thức của Vườn quốc gia Ngọc Sơn nhắc nhở rằng gấu đen Đài Loan thường cảnh giác và kín đáo; chúng đa phần sẽ rời đi sau khi phát hiện sự hiện diện của con người. Đối với những người leo núi, sự chuẩn bị thiết thực nhất là cất giữ thức ăn của mình, không để nó trở thành lý do khiến gấu tiếp cận con người. Khi rời khỏi khu vực núi, rác thải, thức ăn thừa và tất cả các loại thực phẩm đều phải được mang đi.[^3]
 
-Nếu thực sự gặp gấu, ban quản lý đề nghị giữ bình tĩnh, im lặng và nhanh chóng rời khỏi nơi hiện tại, không chạy theo, không cho ăn và không cố gần để chụp ảnh. Khi leo núi, có thể mang theo chuông gấu hoặc huỏng để tạo tiếng ồn, đi nhóm và khi thấy gấu hoặc dấu vết gấu, báo ngay cho cơ quan quản lý. Văn bản gốc của Yushan viết rất trực tiếp: "Nếu thấy gấu, hãy giữ bình tĩnh, im lặng và nhanh chóng rời khỏi nơi hiện tại."[^3]
+Nếu thực sự nhìn thấy gấu đen, ban quản lý đề nghị giữ bình tĩnh, im lặng và nhanh chóng rời khỏi hiện trường; không đuổi theo, không cho ăn, và không cố gắng tiếp cận để chụp ảnh là giới hạn chung của mọi hướng dẫn ứng phó với gấu. Khi leo núi có thể mang theo chuông báo động hoặc còi tạo ra âm thanh, đi theo nhóm, và nếu nhìn thấy dấu vết gấu thì thông báo ngay cho cơ quan quản lý gần đó. Văn bản gốc của Vườn quốc gia Ngọc Sơn viết rất thẳng thắn: "Nếu nhìn thấy gấu đen, xin hãy giữ bình tĩnh, im lặng và nhanh chóng rời khỏi hiện trường."[^3]
 
-Những thực hành này giúp rừng núi duy trì sự mở cửa, đồng thời giữ cho cuộc gặp gỡ ở khoảng cách ngắn và có thể rút lui. Giám đốc Công viên Quốc gia, Vương Thành Cơ (Wang Chenggi) cho biết, mục tiêu bảo vệ đã "rõ rệt chuyển hướng từ phòng tránh đến quản lý đồng thời".[^10] Quản lý nguồn thực phẩm của con người thường hiệu quả hơn việc chờ đợi gấu làm quen với việc sủa túi xách của bạn.
+Những hành động này giúp duy trì sự mở của rừng núi, đồng thời giới hạn cuộc gặp gỡ ở khoảng cách ngắn ngủi và có thể rút lui. Ông Vương Thành Cơ Kỳ, Giám đốc Ban quản lý Vườn quốc gia, cho biết mục tiêu bảo tồn đã "rõ ràng chuyển sang 'vừa phòng ngừa vừa quản lý'".[^10] Quản lý nguồn thức ăn của con người thường hiệu quả hơn và dễ thực hiện hơn là chờ gấu quen với việc lục lọi ba lô rồi mới xử lý.
 
 ## Gấu không thể chỉ còn lại là hình ảnh đáng yêu
 
@@ -200,40 +200,40 @@ Mỗi phương pháp đều có những điểm mù riêng, nhưng khi kết h�
 > **📝 Ghi chú biên tập viên**
 > Dữ liệu bảo vệ giống như những tiếng nói khác nhau truyền về từ rừng núi. Máy ảnh nhìn thấy một bóng người, dữ liệu di truyền nhận dạng một cá thể, trình theo dõi để lại lộ trình di chuyển. Không có loại dữ liệu nào có thể đại diện cho cả khu rừng, nhưng chúng chồng lên nhau, cho phép con đường gấu vốn không thấy dần hình thành.
 
-## Nguồn ảnh
+## Nguồn hình ảnh
 
-Bài viết sử dụng 6 ảnh tự do hoặc công cộng trên Wikimedia Commons với URL gốc trực tiếp, không tải về tệp ảnh và không lầm lẫn sử dụng ảnh như bằng chứng cho cá thể hoặc phân bố địa lý thực tại tại Đài Loan. Giấy phép và nguồn gốc của từng ảnh như sau.
+Bài viết này sử dụng 6 hình ảnh miễn phí hoặc có giấy phép mở từ Wikimedia Commons và không dùng các hình ảnh này để chứng minh cá thể hoang dã hay phân bố địa lý của Đài Loan. Giấy phép và nguồn gốc của mỗi hình ảnh như sau:
 
-- **Formosan black bear trong môi trường nuôi nhân tạo**：[File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. URL trực tiếp: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Formosan black bear tại Thâm Thủy Động vật**：[File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, theo Thông báo Thông tin Mở của Thâm Thủy Động vật Chính phủ, cần ghi rõ nguồn gốc. URL trực tiếp: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Minh hoạ Đài Bắc Trung Hoa**：[File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Chofy Lin, CC BY 4.0. URL trực tiếp: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Formosan black bear ảnh**：[File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. URL trực tiếp: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Formosan black bear suckling cubs ảnh**：[File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. URL trực tiếp: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Ảnh trưng bày của Trung tâm Du khách Nam An về Đài Bắc Trung Hoa**：[File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Đã thu thập vào dự án: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Gấu đen Formosa trong môi trường nhân tạo**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Liên kết nóng: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Gấu đen Formosa tại Vườn thú Thọ Sơn**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, sử dụng tự do theo Thông báo thông tin mở của Trang web Chính phủ Vườn thú Thọ Sơn, cần ghi rõ nguồn. Liên kết nóng: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Tranh minh họa gấu đen Formosa**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — 銀海設計 SilverSea Design/林慧秋 Chofy Lin, CC BY 4.0. Liên kết nóng: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Ảnh gấu đen Formosa**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Liên kết nóng: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Ảnh gấu đen Formosa đang bú cõc**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Liên kết nóng: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Ảnh trưng bày gấu đen Formosa tại Trung tâm du khách Nam An**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — 舟集 Toadboat, CC BY-SA 4.0. Đã được đưa vào dự án: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## Tài liệu tham khảo
 
-[^1]: [Đài Loan trở thành quốc gia có gấu, cam kết đồng tồn tại giữa con người và gấu](https://www.forest.gov.tw/news/0076122) — Sở Nông nghiệp và Bảo vệ Tự nhiên, ngày 16 tháng 5 năm 2025. Cung cấp 2.034 hồ sơ phát hiện từ 2011–2025, thay đổi phân bố hành chính, xu hướng độ cao, phục hồi rừng và chính sách đồng tồn tại giữa con người và gấu.
+[^1]: [Đài Loan bước vào quốc gia có gấu và nỗ lực chung sống hòa bình giữa người và gấu](https://www.forest.gov.tw/news/0076122) — Cục Lâm nghiệp và Bảo tồn Thiên nhiên thuộc Bộ Nông nghiệp, 2025-05-16. Cung cấp 2.034 hồ sơ phát hiện từ năm 2011–2025, sự thay đổi phân bố hành chính, xu hướng độ cao, phục hồi rừng và các chính sách chung sống giữa người và gấu.
 
-[^2]: [Khoa học về Đài Bắc Trung Hoa](https://www.ysnp.gov.tw/StaticPage/Science) — Văn phòng Quản lý Vườn Quốc gia Yushan, Sở Nội các Công viên Quốc gia. Cung cấp phân loại, hình dạng, độ cao phân bố, sinh sản, chế độ ăn uống, hoạt động suốt cả năm và phạm vi hoạt động.
+[^2]: [Kiến thức phổ thông về Gấu đen Đài Loan](https://www.ysnp.gov.tw/StaticPage/Science) — Văn phòng Quản lý Vườn quốc gia Ngọc Sơn thuộc Cục Công viên Quốc gia Bộ Nội vụ. Cung cấp dữ liệu về phân loại, hình dáng, độ cao phân bố, sinh sản, chế độ ăn uống, hoạt động quanh năm và phạm vi hoạt động.
 
-[^3]: [Sống chung với gấu](https://www.ysnp.gov.tw/StaticPage/Coexist) — Văn phòng Quản lý Vườn Quốc gia Yushan, Sở Nội các Công viên Quốc gia. Cung cấp hướng dẫn chính thức về cách xử lý khi gặp gấu, quản lý thực phẩm, đi nhóm, báo cáo và nhận biết dấu vết gấu.
+[^3]: [Cùng chung sống với gấu](https://www.ysnp.gov.tw/StaticPage/Coexist) — Văn phòng Quản lý Vườn quốc gia Ngọc Sơn thuộc Cục Công viên Quốc gia Bộ Nội vụ. Cung cấp hướng dẫn chính thức về cách xử lý khi gặp gấu, quản lý thức ăn, đi cùng, báo cáo và nhận dạng dấu vết gấu.
 
-[^4]: [Sở Nông nghiệp và Bảo vệ Tự nhiên ước tính khoảng 1.200 con gấu tại Đài Loan, sẽ xây dựng trung tâm lưu trữ dài hạn](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Cơ quan Tin học Trung Quốc, ngày 23 tháng 3 năm 2026. Báo cáo ước tích sơ bộ khoảng 1.200 con, hạn chế về tính đại diện của dữ liệu, khả năng điều chỉnh trong tương lai và kế hoạch xây dựng trung tâm lưu trữ dài hạn.
+[^4]: [Cơ sở ban đầu ước tính số lượng Gấu đen Đài Loan khoảng 1200 con, sẽ xây dựng trung tâm nuôi nhốt dài hạn](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Thông tấn xã Trung ương, 2026-03-23. Báo cáo về ước tính sơ bộ khoảng 1.200 con, những hạn chế của dữ liệu đại diện và khả năng hiệu chỉnh tiếp theo cùng với kế hoạch xây dựng trung tâm nuôi nhốt dài hạn.
 
-[^5]: [Triển lãm số trực tuyến của Công viên Quốc gia](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Sở Nội các Công viên Quốc gia. Tổng hợp sinh học học của Đài Bắc Trung Hoa, tiến trình nghiên cứu từ năm 1996, điều tra chấn thương từ năm 1998–2001, nhận dạng cá thể di truyền và phong trào bảo vệ.
+[^5]: [Triển lãm trực tuyến số hóa các công viên quốc gia Đài Loan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Cục Công viên Quốc gia Bộ Nội vụ. Tổng hợp sinh thái của Gấu đen Đài Loan, quá trình nghiên cứu từ năm 1996, khảo sát thương tật từ năm 1998–2001, nhận dạng cá thể di truyền và phổ biến bảo tồn.
 
-[^6]: [Chế độ ăn uống của gấu bạc Liên Phương tại Đài Loan, kèm theo so sánh phương pháp và địa lý](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Cung cấp nghiên cứu đại tiễn, dấu vết ăn uống và phỏng vấn người bản địa săn tại Vườn Quốc gia Yushan từ năm 1998–2000.
+[^6]: [Chế độ ăn của Gấu đen châu Á ở Đài Loan, với so sánh về phương pháp luận và địa lý](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Cung cấp nghiên cứu về việc săn bắt, dấu vết thức ăn và phỏng vấn thợ săn bản địa tại Vườn quốc gia Ngọc Sơn từ năm 1998–2000.
 
-[^7]: [Tác động của vết thương do bẫy đến sự sử dụng không gian của gấu bạc Liên Phương đang bị đe dọa tại Đài Loan](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — Fang Chen, Deep Blue của Đại học Michigan, 2024. So sánh phạm vi hoạt động, di chuyển và lựa chọn môi trường sống giữa 6 con gấu bị thương và 9 con khỏe mạnh tại Vườn Quốc gia Yushan.
+[^7]: [Tác động của thương tật do bẫy lưới đối với không gian sử dụng của Gấu đen châu Á đang bị đe dọa ở Đài Loan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Đại học Michigan Deep Blue, 2024. So sánh phạm vi hoạt động, di chuyển và lựa chọn môi trường sống giữa 6 con gấu bị thương và 9 con gấu khỏe mạnh tại Vườn quốc gia Ngọc Sơn.
 
-[^8]: [Đơn vị 3: Con đường về nhà](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Viện Bảo tàng Khoa học Tự nhiên Quốc gia, 2021. Giải thích quá trình nuôi dưỡng và huấn luyện hoá dã của gấu con Nam An, cũng như các kỹ năng sống cần học trước khi trở lại hoang dã.
+[^8]: [Chủ đề ba: Con đường trở về nhà](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Bảo tàng Khoa học Tự nhiên Quốc lập, 2021. Giải thích các kỹ năng sống cần thiết mà gấu con Nam An phải học trước khi được thả về tự nhiên.
 
-[^9]: [Trang chiến lược và nhiệm vụ: Chiến lược hành động bảo vệ Đài Bắc Trung Hoa](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Liên đoàn Bảo vệ Đài Bắc Trung Hoa. Tổng hợp các mục tiêu bảo vệ bao gồm: tương tác giữa con người và gấu, giao thương bất hợp pháp, quản lý môi trường sống, nghiên cứu, giáo dục, phát triển năng lực và lập pháp chính sách.
+[^9]: [Trang nội dung Sứ mệnh và Nhiệm vụ: Nguyên tắc hành động bảo tồn Gấu đen Đài Loan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Hiệp hội Bảo tồn Gấu đen Đài Loan. Tổng hợp các mục tiêu bảo tồn như tương tác người-gấu, buôn bán bất hợp pháp, quản lý môi trường sống, nghiên cứu, giáo dục, phát triển năng lực và lập pháp.
 
-[^10]: [Chỉ vì họ có thể tự do đi qua rừng núi — 30 năm công viên quốc gia bảo vệ hành trình về nhà của Đài Bắc Trung Hoa](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Sở Nội các Công viên Quốc gia, 2026. Giải thích sự tích hợp của ba công viên quốc gia dãy núi cao, hành lang sinh thái, quản lý thực phẩm, cảnh báo công nghệ và tham gia địa phương.
+[^10]: [Chỉ vì chúng có thể tự do đi lại trong rừng: 30 năm bảo vệ con đường trở về nhà của Gấu đen Đài Loan tại các công viên quốc gia](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Cục Công viên Quốc gia Bộ Nội vụ, 2026. Giải thích định hướng tích hợp của ba công viên quốc gia kiểu núi cao, hành lang môi trường sống, quản lý thức ăn, cảnh báo công nghệ và sự tham gia của địa phương.
 
-[^11]: [Video gấu](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Văn phòng Quản lý Vườn Quốc gia Yushan, Sở Nội các Công viên Quốc gia. Trang video chính thức liệt kê các video bao gồm "Gặp gấu – Encounter a Formosan black bear" và "Yushan nuôi gấu", nội dung bao phủ sinh học học, phạm vi phân bố, cách xử lý khi gặp, môi trường rừng và nghiên cứu bảo vệ.
+[^11]: [Video về Gấu đen](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Văn phòng Quản lý Vườn quốc gia Ngọc Sơn thuộc Cục Công viên Quốc gia Bộ Nội vụ. Trang video chính thức liệt kê các video như 《Encounter a Formosan black bear》 và 《Nuôi gấu tại Ngọc Sơn》, nội dung bao gồm tập tính sinh thái, phạm vi phân bố, ứng phó khi gặp gấu, môi trường sống rừng và nghiên cứu bảo tồn.
 
 ## Tài liệu tham khảo mở rộng
 

@@ -35,10 +35,10 @@ curation: 'incubating'
 rationale: "{'why_this_hook': '誠品書店是台灣少數能跨越國界、被視為「生活方式輸出」的文化品牌，其 24 小時模式是全球都市文化中的獨特案例。', 'whats_excluded': '排除特定暢銷書榜單的細節分析；排除個別門市的微小經營異動；排除誠品生活旗下非文化類專櫃的品牌史。', 'where_it_hedges': '關於實體書店沒落的討論，明確標註電商衝擊與誠品自身策略調整的交互影響，避免將熄燈簡化為單一原因。', 'whos_pushing_back': '傳統獨立書店批評誠品過度商業化導致書店「百貨化」；文化評論者擔憂誠品在全球擴張中可能面臨的審查與文化稀釋問題。'}"
 relatedDiary: ['2026-08-13-manual']
 translatedFrom: 'Culture/誠品書店.md'
-sourceCommitSha: '63ad1b2b8'
-sourceContentHash: 'sha256:ec07a1faa117e7b7'
-sourceBodyHash: 'sha256:49e3639b8d3ada20'
-translatedAt: '2026-09-15T06:51:28+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:3b7540877760c9ee'
+sourceBodyHash: 'sha256:2e2b5a8142de57dd'
+translatedAt: '2026-09-21T16:03:10.622614+00:00'
 ---
 
 > **30 giây tóm tắt:** Nhà sách Eslite (Eslite Bookstore) là tọa độ tinh thần văn hóa đương đại của Đài Loan, do Thái Chính Dũ (Wu, Qingyou) sáng lập năm 1989. Sức hút cốt lõi nằm ở sự kết hợp "nhân văn, nghệ thuật, sáng tạo, đời sống" vào không gian trưng bày, cùng với việc sáng tạo mô hình "mở cửa 24 giờ" vào năm 1999, biến việc đọc sách thành một nghi lễ đô thị vào ban đêm. Eslite không chỉ thay đổi thói quen đọc sách của người dân Đài Loan, mà còn thông qua mô hình "kinh doanh để nuôi dưỡng văn hóa", phát triển nhà sách thành một "vòng sinh thái văn hóa đời sống" bao gồm thiết kế, ẩm thực, biểu diễn. Hiện nay Eslite kiểm soát hơn 40 địa điểm trên khắp đảo, và đã thành công mở rộng sang Hồ Chí Minh, Trung Quốc đại lục, Nhật Bản, Malaysia. Dù phải đối mặt với thách thức chuyển đổi số và việc đóng cửa của một số cửa hàng tiêu biểu, Eslite vẫn là thương hiệu văn hóa quan trọng mà Đài Loan xuất khẩu ra thế giới, chứng kiến hành trình chuyển đổi từ cất hành kinh tế đến nhận thức đầu tiên của chủ thể văn hóa đảo quốc. Đây không chỉ là câu chuyện thịnh thực của một cửa hàng sách, mà còn là sự không ngừng tì kiếm "nơi an tâm cho tâm hồn" của người dân đảo. Tòa nhà "thư viện vô hình" này đang dần phát triển thành hình thái mới của thời đại số theo sự sống động của thời gian, trở thành biểu tượng sự kiên cường của đảo quốc.
@@ -51,40 +51,40 @@ Ban đầu, Eslite không đặt lợi nhuận làm mục tiêu hàng đầu, m�
 
 Nó phá vỡ ấn tượng chung của nhà sách truyền thống lúc đó là chật chội và lộn xộn, mang đến sàn gỗ, ánh sáng dịu nhẹ và cơ chế lựa chọn sách chuyên nghiệp, biến "việc dạo chợ sách" từ một hành vi mua sắm đơn thuần thành một thực hành nghệ thuật đời sống. Đây không chỉ là một cuộc cách mạng không gian thương mại, mà còn là câu trả lời thực tế của xã hội Đài Loan trong thời kỳ giải mã sau đối với nhu cầu cuộc sống tinh thần chất lượng cao. Eslite trở thành nơi tâm linh của giới trí thức và thanh thiếu niên nghệ thuật Đài Loan. Sự "lãng phí để làm" kiểu lý tưởng này, trở thành tài sản phi vật thường cốt lõi của Eslite, giúp nó duy trì được ánh sáng văn hóa không thể thay thế trong quá trình mở rộng thương mại sau này. Sự kiên trì của Thái Chính Dũ trong việc đề xuất "sách lẻ", thậm chí còn khiến Eslite trong giai đoạn đầu được coi là "lợi ích cộng đồng" thay vì chỉ là hoạt động thương mại [^5] [^9]。
 
-## 24 giờ mở cửa: Nơi trú ẩn linh hồn của đô thị đêm khuya và quan sát xã hội học
+## 24 Giờ Không Ngủ: Bến Đỗ Tinh Thần Của Thành Phố Trong Đêm và Quan Sát Xã Hội Học
 
-Năm 1995, Eslite Đông Nam chuyển đến đường Đông Hóa hiện tại (hiện đã đóng cửa). Năm 1999, Eslite dũng cảm khởi động dự án "mở cửa 24 giờ", một đột phá sáng tạo hoàn toàn thay đổi phong cảnh đêm khuya của Thượng Hải. Thời điểm đó, Đài Loan đang trải qua giai đoạn đau khổ trong quá trình chuyển đổi kinh tế và bình minh của thời đại số. Eslite cung cấp một không gian đêm khuya không cần đến rượu bia, không cần sự ồn ào, nhưng vẫn mang lại cảm giác ấm áp và thuộc về cho con người.
+Năm 1995, cửa hàng Eslite Dunnan chuyển đến địa điểm hiện tại (hiện đã đóng cửa). Năm 1999, Eslite táo bạo khởi xướng dự án "24 giờ không ngủ", một sáng kiến đã thay đổi hoàn toàn cảnh quan đêm của Đài Bắc. Vào thời điểm đó, Đài Loan đang trong giai đoạn đau đớn của quá trình chuyển đổi kinh tế và bình minh của kỷ nguyên số; Eslite cung cấp một không gian ban đêm ấm áp và mang lại cảm giác thân thuộc mà không cần rượu bia hay sự ồn ào.
 
-Tòa "nhà sách đêm" nhanh chóng trở thành điểm dừng chân không thể thiếu của du khách quốc tế đến tham quan. Tạp chí TIME từng bình chọn nó là "Cửa hàng sách tốt nhất châu Á". Trên những bậc thang của Eslite Đông Nam, bạn có thể gặp sinh viên học tập, nhà thiết kế tìm kiếm cảm hứng, kỹ sư vừa tan làm, thậm chí là những người lữ hành không nơi nào để đến vào ban đêm. Sự bao la "không bảo vệ" trong việc đọc sách tạo ra vốn xã hội đặc biệt.
+"Hiệu sách nửa đêm" này nhanh chóng trở thành điểm đến không thể bỏ qua đối với khách du lịch quốc tế, và tạp chí _Thời đại_ (TIME) từng đánh giá nó là "hiệu sách tốt nhất châu Á". Trên cầu thang của Eslite Dunnan, bạn có thể nhìn thấy những sinh viên ôn thi, các nhà thiết kế tìm kiếm cảm hứng, các kỹ sư vừa tan làm, hoặc thậm chí là những lữ khách không nơi nào để đến vào đêm khuya. Tính bao dung "đọc sách không phòng bị" này đã tạo ra một loại vốn xã hội độc đáo.
 
-_Hình ảnh: Giá sách tròn và cầu thang gỗ của Eslite Đông Nam, từng là tọa độ văn hóa ấm áp nhất của Thượng Hải đêm khuya, định nghĩa nghi lễ đọc sách đô thị._
+_Hình: Giá sách tròn và cầu thang gỗ của Eslite Dunnan, từng là tọa độ văn hóa ấm áp nhất của Đài Bắc về đêm, định hình nghi thức đô thị "đọc sách ban đêm"._
 
-Cửa hàng sách 24 giờ không chỉ là không gian bán lẻ, mà còn là "nơi trú ẩn linh hồn" của một thành phố, biểu tượng sự tôn trọng của thành phố đối với tri thức và sự thông cảm của cộng đồng đối với những người cô đơn. Phong cách cảnh quan văn hóa này sau này cũng ảnh hưởng đến kế hoạch đô thị và hình ảnh văn hóa ở Hồ Chí Minh, Thượng Hải, Tokyo và nhiều nơi khác. Mô hình 24 giờ của Eslite Đông Nam thực sự đã định nghĩa một "cảm giác an toàn" và "mức độ văn minh" trong đời sống đô thị Đài Loan. Khi các thành phố trên thế giới khác đêm khuya bị chiếm lĩnh bởi các quán rượi và câu lạc bộ đêm, Thượng Hải có một ngọn đèn vàng ấm áp, luôn sẵn sàng cho những người khao khát tri thức. Sự "bình yên trí tuệ vào ban đêm" này, trở thành nhãn hiệu quan trọng của sức mạnh mềm của Đài Loan [^4] [^11] [^17]。
+Hiệu sách 24 giờ không chỉ là một không gian bán lẻ mà còn là một "bến đỗ tinh thần" của thành phố; nó tượng trưng cho sự tôn kính tri thức và lòng trắc ẩn đối với những người cô đơn của một đô thị. Cảnh quan văn hóa này sau đó cũng ảnh hưởng đến quy hoạch đô thị và trí tưởng tượng văn hóa ở Hồng Kông, Tô Châu, Tokyo và nhiều nơi khác. Mô hình 24 giờ của Eslite Dunnan về cơ bản đã định nghĩa một loại "cảm giác an toàn" và "trình độ văn minh" trong cuộc sống đô thị Đài Loan. Trong khi các thành phố trên thế giới thường bị chiếm lĩnh bởi quán bar và câu lạc bộ đêm vào ban đêm, thì ở Đài Bắc vẫn có một ánh sáng vàng ấm áp luôn được thắp lên cho những ai khao khát tri thức. Sự "an yên trí tuệ trong đêm khuya" này đã trở thành một nhãn hiệu quan trọng của sức mạnh mềm Đài Loan [^4] [^11] [^17].
 
 ```tw-timeline
-1989 | Điểm khởi đầu | Thái Chính Dũ sáng lập cửa hàng sách Eslite đầu tiên tại vòng tròn Nhân Ái, Thượng Hải, chuyên về sách nhân văn nghệ thuật và vận hành tiệm ảnh
-1995 | Di chuyển Đông Nam | Eslite Đông Nam chuyển đến địa chỉ hiện tại, bắt đầu hình thành dạng kinh doanh đa chức năng, tích hợp cửa hàng thiết kế và không gian nghệ thuật
-1999 | Cách mạng đêm khuya | Cửa hàng Đông Nam chính thức khởi động mô hình mở cửa 24 giờ, trở thành cửa hàng nhân văn đầu tiên trên thế giới không bao giờ đóng cửa
-2004 | Năm lợi nhuận | Eslite sau 15 năm lỗ, lần đầu tiên đạt được lợi nhuận hàng năm toàn bộ, chứng minh mô hình "kinh doanh để nuôi dưỡng văn hóa"
-2006 | Cửa hàng tiêu chuẩn tại Khu nhà thờ | Cửa hàng Eslite Khu nhà thờ mở cửa, khẳng định mô hình kinh doanh lớn "cuộc sống văn hóa", trở thành biểu tượng mới của Thượng Hải
-2012 | Mở rộng ra biển ngoài | Cửa hàng tại Hồ Chí Minh mở cửa, khởi động hành trình kết nối đời sống văn hóa Đài Loan, xuất khẩu giá trị văn hóa
-2020 | Đêm Đông Nam tắt đèn | Cửa hàng Đông Nam tiêu biểu do thuê hạn chót kết thúc và kế hoạch cập nhật đô thị chính thức tắt đèn. Cửa hàng Khu nhà thờ tiếp nhận trách nhiệm 24 giờ, gây ra cơn thói nhớ khắp đảo
-2023 | Khu nhà thờ tắt đèn | Cửa hàng Khu nhà thờ do thuê hạn chót kết thúc tắt đèn, cửa hàng 24 giờ chính thức chuyển sang Khu vườn, khởi động mô hình khu vườn
-2024 | Khu vườn tiếp nối | Cửa hàng Eslite Khu vườn hoàn thành cải tạo, trở thành địa danh 24 giờ mới "có thể nhìn thấy bầu trời", tích hợp cảnh quan văn hóa sáng tạo
-Nguồn: Báo cáo thường niên Eslite Life, Tạp chí Ánh sáng Đài Loan, Thời đại số, 2024
+1989 | Khởi điểm | Ngô Thanh Hữu sáng lập Eslite đầu tiên tại Nhân ái Viên hoàn, tập trung vào tuyển chọn sách chuyên ngành nhân văn và quản lý phòng trưng bày.
+1995 | Chuyển địa điểm Dunnan | Eslite Dunnan chuyển đến địa điểm hiện tại, bắt đầu xây dựng mô hình kinh doanh kết hợp, tích hợp cửa hàng thiết kế và không gian nghệ thuật.
+1999 | Cách mạng ban đêm | Cửa hàng Dunnan chính thức khởi động mô hình hoạt động 24 giờ, trở thành hiệu sách nhân văn đầu tiên trên thế giới không bao giờ đóng cửa.
+2004 | Năm có lãi | Sau 15 năm thua lỗ, Eslite lần đầu tiên đạt lợi nhuận trong cả năm, chứng minh mô hình "kinh doanh nuôi dưỡng văn hóa".
+2006 | Cửa hàng flagship Xìn Nghị | Eslite Xìn Nghị khai trương, thiết lập mô hình thương mại lớn của "trung tâm thương mại văn hóa", trở thành một địa danh mới của Đài Bắc.
+2012 | Xuất khẩu xuyên biển | Cửa hàng Đồng La Loan (Hồng Kông) khai trương, mở ra con đường chuỗi quốc tế của thẩm mỹ sống Đài Loan, xuất khẩu giá trị văn hóa Đài Loan.
+2020 | Dunnan đóng cửa | Cửa hàng mang tính biểu tượng Dunnan đóng cửa do hết hợp đồng thuê, nhượng lại trách nhiệm 24 giờ cho Xìn Nghị, gây ra sự hoài niệm trên toàn đảo.
+2023 | Xìn Nghị đóng cửa | Cửa hàng Xìn Nghị đóng cửa do hết hợp đồng thuê, hiệu sách 24 giờ chính thức chuyển đến Eslite Matsu, mở ra mô hình đọc sách trong khu phức hợp.
+2024 | Matsu tiếp nhận | Eslite Matsu hoàn thành cải tạo, trở thành địa danh 24 giờ mới "có thể nhìn thấy bầu trời", tích hợp cảnh quan văn hóa và sáng tạo.
+Nguồn: Báo cáo thường niên Eslite Life, Tạp chí Quang Hoa Đài Loan, Thời đại số, 2024
 ```
 
-## Kinh doanh để nuôi dưỡng văn hóa: Mô hình đa chức năng và nghệ thuật thương mại của Eslite Life
+## Dùng thương mại nuôi văn hóa: Mỹ học kinh doanh của cuộc sống Thành Phẩm
 
-Yếu tố then chốt giúp Eslite duy trì được chiều sâu văn hóa nằm ở mô hình kinh doanh "kinh doanh để nuôi dưỡng văn hóa" thành công của nó. Khi quy mô mở rộng, Eslite phát triển thương hiệu "Eslite Life" (Eslite Spectrum), kết hợp nhà sách với các gian hàng thiết kế, thương hiệu sáng tạo, nhà hàng tinh tế, thậm chí cả hội trường biểu diễn, rạp chiếu phim. Dạng "không gian văn hóa đa chức năng" này giúp nhà sách không còn đơn độc chiến đấu, mà trở thành động cơ trung tâm thu hút khách hàng, qua đó tạo ra doanh thu phi sách để bù đắp chi phí cao cho tiền thuê nhà và lựa chọn sách.
+Chìa khóa để Thành Phẩm duy trì được tầm vóc văn hóa nằm ở mô hình kinh doanh thành công "dùng thương mại nuôi văn hóa". Khi quy mô mở rộng, Thành Phẩm đã phát triển thương hiệu "Thành Phẩm Sinh Hoạt" (Eslite Spectrum), kết hợp nhà sách với các quầy hàng thiết kế, thương hiệu sáng tạo, ẩm thực tinh tế và thậm chí cả phòng biểu diễn, rạp chiếu phim. "Không gian văn hóa tổng hợp" này giúp nhà sách không còn đơn độc chiến đấu mà trở thành động cơ cốt lõi thu hút khách ghé thăm, đồng thời dùng doanh thu phi sách để gánh vác chi phí thuê mặt bằng đắt đỏ và chi phí tuyển chọn sách.
 
-_Hình ảnh: Eslite Khu vườn đại diện cho sự kết hợp sâu sắc giữa việc đọc sách và kiến trúc lịch sử, nghệ thuật thủ công trong không gian của Eslite._
+_Hình: Cửa hàng Thành Phẩm tại Song Nghiệp đại diện cho kết quả chuyển đổi khi Thành Phẩm tích hợp sâu sắc việc đọc với kiến trúc lịch sử và thủ công mỹ nghệ. Thông qua việc dàn dựng không gian, Thành Phẩm đã thành công biến nhà sách truyền thống thành một hệ sinh thái văn hóa đa chức năng._
 
-Mô hình này đạt đến đỉnh cao ở Khu vườn. Eslite Khu vườn không chỉ có nhà sách, mà còn bao gồm một khách sạn sáng tạo do ông Ito Richi thiết kế, một rạp chiếu phim nghệ thuật, cùng nhiều xưởng thủ công nhấn mạnh "trình diễn thực tế". Eslite đóng vai trò không chỉ là người bán lẻ, mà còn là "người tổ chức trưng bày văn hóa".
+Mô hình này đạt đến đỉnh cao tại cửa hàng Song Nghiệp. Thành Phẩm ở Song Nghiệp không chỉ có nhà sách mà còn bao gồm một khách sạn sáng tạo do Itō Toyo thiết kế, một rạp chiếu phim nghệ thuật và nhiều xưởng thủ công nhấn mạnh vào "trình diễn". Tại đây, Thành Phẩm đóng vai trò không chỉ là nhà bán lẻ mà còn là một "nhà kiến tạo văn hóa".
 
-Tuy nhiên, xu hướng "thương mại hóa" này cũng gây ra chỉ trích từ một số giới trí thức, cho rằng hơi ứng thở thương mại của Eslite đang dần lấn át chỗ cho không khí sách vở. Đối với điều này, Chủ tịch Eslite Thái Mãn Kiệt (Wu, Man-chieh) từng thừa nhận, văn hóa và doanh thu đều quan trọng, chỉ có một hệ thống kinh tế khỏe mạnh mới có thể bảo đảm sự tồn tại bền vững của không gian đọc sách. Cuộc kéo căng giữa lý tưởng và thực tại này, chính là con đường sống của Eslite trong hơn ba mươi năm. Thiết kế không gian của Eslite thường nhấn mạnh "tỷ lệ con người", ngay cả trong không gian thương mại, vẫn giữ lại nhiều chỗ ngồi và khoảng trống, sự tôn trọng con người này là lợi thế cạnh tranh cốt lõi của nó. Triết lý kinh doanh "không gian thứ ba" này, giúp Eslite vẫn duy trì được giá trị thực thể không thể thay thế dù chịu ảnh hưởng từ Amazon (Amazon) và các đối thủ thương mại điện tử [^12] [^14] [^19]。
+Tuy nhiên, xu hướng "thương mại hóa" này cũng gây ra những lời phê bình từ một bộ phận trí thức, cho rằng hơi thở thương mại của Thành Phẩm dần che lấp mùi sách. Về vấn đề này, Chủ tịch Thành Phẩm Ngô Mẫn Khiết từng thẳng thắn thừa nhận rằng văn hóa và doanh thu đều quan trọng như nhau; chỉ có một hệ thống kinh doanh lành mạnh mới đảm bảo sự tồn tại bền vững của không gian đọc. Sự giằng co giữa lý tưởng và thực tế này chính là con đường sinh tồn của Thành Phẩm trong hơn ba mươi năm qua. Thiết kế không gian của Thành Phẩm thường nhấn mạnh vào "quy mô con người"; ngay cả trong không gian thương mại, họ vẫn giữ lại rất nhiều chỗ ngồi và khoảng trống, sự tôn trọng đối với con người này là năng lực cạnh tranh cốt lõi của họ. Triết lý vận hành "không gian thứ ba" này đã giúp Thành Phẩm duy trì giá trị vật chất không thể thay thế của mình trước sức ép từ các gã khổng lồ thương mại điện tử như Amazon [^12] [^14] [^19].
 
-<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="Hành trình Eslite của những người mơ màng: Bản ghi âm phim về Thái Chính Dũ" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="夢想騎士的誠品之旅：吳清友紀錄片" allowfullscreen></iframe>
 
 ## Lời chào của Đông Nam và Khu nhà thờ: 180.000 giờ chờ đợi và sự chia ly của hàng triệu người
 
@@ -98,15 +98,15 @@ Năm 2024, Eslite Khu vườn hoàn thành cải tạo lớn và chính thức n
 
 Thiết kế của Khu vườn lấy cảm hứng từ "cầu thang đọc sách" của Đông Nam và "hành lang đọc sách 40 mét" của Khu nhà thờ, nỗ lực tái hiện những điều kinh điển trong cảnh quan mới. Nó tích hợp các gian hàng băng than, du lịch Eslite, rạp chiếu phim nghệ thuật, tạo thành một "vòng sinh thái văn hóa" hoàn chỉnh. Eslite đang thử nghiệm một mô hình kinh doanh "bền vững hơn" tại đây: thông qua lưu lượng khách du lịch và không khí sáng tạo của khu vườn, giảm sự phụ thuộc vào doanh thu bán lẻ đơn lẻ. Đây không chỉ là sự dời chuyển của nhà sách, mà còn là một định nghĩa dũng cảm của Eslite về "hình thái nhà sách trong tương lai": nó phải là một không gian mang hơi thở, có khả năng tương tác với thiên nhiên của đô thị. Câu chuyện ánh sáng của Khu vườn, mang lại một cảm giác thiêng liêng về thiên nhiên cho việc đọc sách vào ban đêm, định nghĩa lại thẩm mỹ đọc sách đô thị thế kỷ 21 [^7] [^8] [^12]。
 
-## Nghệ thuật không gian và ngôn ngữ thị giác: Câu chuyện kiến trúc và xây dựng phong cách của Eslite
+## Mỹ học không gian và ngôn ngữ thị giác: Tự sự kiến trúc và xây dựng gu thẩm mỹ của Eslite
 
-Thành công của Eslite phần lớn đến từ sự theo đuổi tối đa hóa "nghệ thuật không gian". Mỗi cửa hàng của Eslite nhấn mạnh "liên kết nhưng không sao chép", thiết kế riêng biệt dựa trên bối cảnh lịch sử và đặc điểm đô thị địa phương. Ví dụ, cửa hàng Đông Nam đã đóng cửa, sử dụng cầu thang gỗ và giá sách tròn để tạo ra cảm giác nghi lễ của "thiên đường tri thức". Cửa hàng Khu nhà thờ sử dụng hành lang rộng mở để thể hiện "trung tâm đọc sách tiếng Trung lớn nhất thế giới". Cửa hàng Khu vườn sử dụng cửa sổ lớn để mang lại màu xanh của khu vườn sáng tạo Đông Sương và ánh sáng ban ngày.
+Thành công của Eslite phần lớn đến từ việc theo đuổi triệt để "mỹ học không gian". Mỗi cửa hàng của Eslite đều nhấn mạnh sự "liên kết mà không sao chép", được thiết kế riêng dựa trên bối cảnh lịch sử và đặc điểm đô thị tại địa phương. Ví dụ, chi nhánh Dunnan đã đóng cửa tạo ra cảm giác nghi lễ của một "đền thờ tri thức" bằng cầu thang gỗ và giá sách hình tròn. Trong khi đó, chi nhánh Xinyi thể hiện khí chất của một "trung tâm đọc tiếng Trung toàn cầu" qua hành lang rộng rãi. Còn chi nhánh Songyan lại tận dụng những ô cửa sổ lớn để đưa màu xanh và ánh sáng ban mai/hoàng hôn của Khu văn hóa Songshan vào bên trong.
 
-Ngôn ngữ thị giác của Eslite — màu gỗ ổn định, ánh sáng vàng ấm, hệ thống biển hiệu thấp — đã trở thành cấu hình tiêu chuẩn của "phong cách văn hóa trẻ" của Đài Loan. Thiết kế này không chỉ vì vẻ đẹp, mà còn tạo ra một "biên giới tâm lý". Khi người đọc bước vào Eslite, nhịp sống ồn ào của đô thị sẽ bị lọc ra, thay vào đó là sự yên tĩnh tập trung vào bên trong.
+Ngôn ngữ thị giác của Eslite—màu gỗ trầm tĩnh, ánh sáng vàng ấm áp, hệ thống biển hiệu khiêm tốn—đã trở thành cấu hình tiêu chuẩn cho "thẩm mỹ trí thức" (wenqing) của Đài Loan. Thiết kế này không chỉ nhằm mục đích thẩm mỹ mà còn để tạo ra một "ranh giới tâm lý". Khoảnh khắc độc giả bước vào Eslite, nhịp điệu ồn ào của đô thị sẽ bị lọc bỏ, thay vào đó là cảm giác tĩnh lặng tập trung vào nội tâm.
 
-_Hình ảnh: Nhà sách Eslite nổi tiếng với gỗ và ánh sáng ấm áp, khả năng "trưng bày không gian" này là lợi thế cạnh tranh cốt lõi để duy trì giá trị thực thể trong thời đại thương mại điện tử._
+_Hình: Các hiệu sách Eslite nổi tiếng với tông màu gỗ và ánh sáng ấm áp; khả năng "trưng bày không gian" này là năng lực cạnh tranh cốt lõi giúp họ duy trì giá trị vật lý trong kỷ nguyên thương mại điện tử._
 
-Chức năng "chữa lành" của không gian này, trong thời đại thông tin quá tải, trở nên đặc biệt quý giá. Hệ thống nhận diện thị giác của Eslite cũng trải qua nhiều lần phát triển, từ sự sang trọng ban đầu chuyển sang thiết kế hiện đại và nhất quán toàn kênh, nhưng luôn giữ sự kiên trì với "con người". ảnh hưởngng nghệ thuật này thậm chí lan tỏa đến nội thất và bố trí không gian thương mại của Đài Loan, tạo ra một "phong cách Eslite" đặc trưng. Eslite không chỉ đang bán sách, mà còn đang bán một "hình ảnh của cuộc sống lý tưởng" [^10] [^18]。
+"Chức năng chữa lành" của không gian này trở nên vô cùng quý giá trong thời đại kỹ thuật số quá tải thông tin. Hệ thống nhận diện thị giác của Eslite cũng đã trải qua nhiều lần tiến hóa, từ cảm giác nghệ thuật tao nhã ban đầu chuyển sang thiết kế hiện đại và nhất quán trên mọi kênh, nhưng vẫn luôn kiên trì với "cảm giác nhân văn". Ảnh hưởng thẩm mỹ này thậm chí còn lan tỏa vào thiết kế nội thất và bố cục không gian thương mại của Đài Loan, tạo nên một "phong cách Eslite" độc đáo. Eslite không chỉ bán sách; nó đang bán một "sự tưởng tượng về cuộc sống lý tưởng" [^10] [^18].
 
 ## Người thúc đẩy ngành công nghiệp xuất bản: Lựa chọn sách và quyền lực của chuyên gia đọc sách của Eslite
 
@@ -178,54 +178,52 @@ Nguồn: Dữ liệu thống kê Eslite Life 2024
 
 ## Đọc thêm
 
-- [Phát triển khu vườn sáng tạo văn hóa Đài Loan: Từ nhà máy công nghiệp đã bỏ hoang đến động cơ cảm xúc của đô thị](../Culture/台灣文化創意園區發展.md)
-- [Đường phố mỹ thuật giao thoa cũ và mới: Phong trào bảo tồn kiến trúc của Đại Trì và Đường Độc](../Geography/城市與人文地理.md)
-- [Lịch sử phim Đài Loan: Từ thực dụng lành mạnh đến sóng mới số](../Art/電影.md)
-- [Báo cáo viên - Cuộc chiến sống sót của nhà sách thực thể: Sự tái cấu trúc bản đồ văn hóa sau khi Eslite tắt đèn](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [Âm nhạc đại chúng Đài Loan: Từ bài ca bị cấm đến trung tâm sáng tạo châu Á](../Music/台灣流行音樂.md)
-
----
+- [Phát triển khu sáng tạo văn hóa Đài Loan: Từ nhà máy bỏ hoang đến động cơ cảm xúc của đô thị](/vi/culture/taiwan-cultural-creative-park-development)
+- [Mỹ học đô thị giao thoa cũ và mới: Phong trào bảo tồn Đại Đạo Thành và Đông Hoa phố](/vi/geography/dadaocheng)
+- [Lịch sử điện ảnh Đài Loan: Từ hiện thực lành mạnh đến làn sóng kỹ thuật số](/vi/art/taiwanese-cinema)
+- [Phóng viên - Cuộc chiến sinh tồn của hiệu sách vật lý: Tái cấu trúc bản đồ văn hóa sau khi Thành Phẩm tắt đèn](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
+- [Âm nhạc đại chúng Đài Loan: Từ bài hát bị cấm đến trung tâm sáng tạo châu Á](/vi/music/golden-melodies-legacy-taiwan-pop-music)
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang web chính thức Eslite Life — Lộ trình phát triển: Hành trình văn hóa từ năm 1989 tại vòng tròinam](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Ghi chép chi tiết về giai đoạn đầu của Eslite và các mốc thời gian mở rộng lớn.
+[^1]: [Trang web chính thức của Eslite — Hành trình phát triển: Cuộc hành trình văn hóa bắt đầu từ cửa hàng Ren Ai Yuan Huan năm 1989](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Ghi chép chi tiết các mốc thời gian về sự ra đời và mở rộng lớn qua các năm của Eslite.
 
-[^2]: [Wikipedia — Mục nhập Eslite Bookstore: Lịch sử công ty, mô hình kinh doanh và tranh cãi về việc tắt đèn](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Cung cấp thông tin tổng hợp về cấu trúc cổ phần, hồ sơ niêm yết và sự thay đổi của các cửa hàng.
+[^2]: [Wikipedia — Mục sách Eslite: Lịch sử doanh nghiệp, mô hình kinh doanh và tranh cãi đóng cửa](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Cung cấp thông tin tổng hợp về cơ cấu cổ phần, lịch sử niêm yết và sự thay đổi của các chi nhánh Eslite.
 
-[^3]: [Tạp chí Ánh sáng Đài Loan — Trang cuối của nhà sách đêm: Dấu mốc tắt đèn của Eslite Đông Nam và ký ức tập thể xã hội](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — Phân tích sâu về ý nghĩa văn hóa xã hội của mô hình nhà sách 24 giờ và kết nối cảm xúc.
+[^3]: [Tạp chí Guanghua Đài Loan — Trang cuối cùng của hiệu sách đêm khuya: Tín hiệu đóng cửa của Eslite Dunnan và ký ức tập thể xã hội](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — Phân tích sâu sắc ý nghĩa văn hóa đô thị Đài Loan và sự gắn kết cảm xúc của mô hình hiệu sách 24 giờ.
 
-[^4]: [Dòng thời gian UDN — 【Năm 1989, Eslite tại vòng tròinam】Bạn có nhớ biểu tượng nhân văn này không?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Sắp xếp hình ảnh hiếm và nguyên nhân sáng lập ban đầu của Thái Chính Dũ.
+[^4]: [Máy thời gian báo United Daily — [Eslite năm 1989 tại Ren Ai Yuan Huan] Bạn còn nhớ địa danh văn hóa này không?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Tổng hợp các tư liệu hình ảnh quý giá và hồ sơ lịch sử về ý định sáng lập của Ngô Thanh Hữu khi Eslite mới thành lập.
 
-[^5]: [Tạp chí đẹp Marie Claire — Tạm biệt Eslite Đông Nam! 31 năm lịch sử chính thức tắt đèn, thư tay tạm biệt của Chủ tịch Thái Mãn Kiệt](https://www.marieclaire.com.tw/lifestyle/news/50233) — Ghi chép khoảnh khắc lịch sử của sự tắt đèn năm 2020 và chuyển đổi tầm nhìn của người lãnh đạo.
+[^5]: [Marie Claire Beauty — Tạm biệt Eslite Dunnan! Thư chia tay từ Chủ tịch Ngô Mẫn Kiệt nhân dịp 31 năm hoạt động chính thức đóng cửa](https://www.marieclaire.com.tw/lifestyle/news/50233) — Ghi lại khoảnh khắc lịch sử khi chi nhánh Dunnan đóng cửa vào năm 2020 và sự chuyển hướng tầm nhìn của người điều hành.
 
-[^6]: [Baidu Baike — Tiểu sử Thái Chính Dũ: Từ thương nhân bếp tủ đến triết lý cuộc đời của nhà sách Eslite](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Sắp xếp nền tảng cá nhân và định nghĩa giá trị cốt lõi của Thái Chính Dũ.
+[^6]: [Bách khoa toàn thư Baidu — Tiểu sử Ngô Thanh Hữu: Triết lý sống từ thương nhân đồ dùng nhà bếp đến người sáng lập Eslite](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Tổng hợp về bối cảnh cá nhân của Ngô Thanh Hữu và định nghĩa giá trị cốt lõi của ông đối với Eslite.
 
-[^7]: [Tin tức chính thức Eslite Life — Eslite Life Khu vườn tiếp nối! Tạo nên nhà sách 24 giờ "có thể nhìn thấy bầu trời và đám mây qua các thời điểm trong ngày"](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Giới thiệu triết lý thiết kế và chức năng của Khu vườn năm 2024.
+[^7]: [Tin tức chính thức của Eslite — Cửa hàng Matsya tiếp nối! Xây dựng hiệu sách 24 giờ 'nhìn thấy mây sáng tối'](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Giới thiệu triết lý thiết kế và chức năng của cửa hàng Matsya, một địa điểm đọc mới hoạt động 24 giờ vào năm 2024.
 
-[^8]: [Eslite Meet — Những điểm nhấn 8 lớn trong việc cải tạo Eslite Khu vườn 24 giờ: Hấp thụ thiết kế tinh hoa từ Đông Nam và Khu nhà thờ](https://meet.eslite.com/tw/tc/news/202509260003) — Cung cấp chi tiết cấu hình không gian và nâng cấp dịch vụ sau khi cải tạo.
+[^8]: [Eslite Meet Fan — 8 điểm nổi bật khi Eslite Matsya được cải tạo thành hiệu sách 24 giờ: Tiếp thu tinh hoa thiết kế từ Dunnan và Xinyi](https://meet.eslite.com/tw/tc/news/202509260003) — Cung cấp chi tiết về bố cục không gian và nâng cấp dịch vụ sau khi cải tạo cửa hàng Matsya.
 
-[^9]: [Tạp chí Thương mại — Không từ bỏ nhà sách 24 giờ! Chủ tịch Eslite thừa nhận: Văn hóa và doanh thu đều quan trọng bằng nhau](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — Phỏng vấn sâu về chiến lược cân bằng giữa lý tưởng và thực tế của Thái Mãn Kiệt.
+[^9]: [Tạp chí Thương mại — Không bỏ cuộc hiệu sách 24 giờ! Chủ tịch Eslite thẳng thắn: Văn hóa và doanh thu đều quan trọng như nhau](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — Phỏng vấn chuyên sâu Ngô Mẫn Kiệt về chiến lược kinh doanh cân bằng giữa lý tưởng và thương mại của Eslite.
 
-[^10]: [YouTube Taiwan Tâm lý — Bí mật sau Eslite: Nhà sách đọc sách duy nhất duy nhất trên đảo không bao giờ tắt đèn](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Tài liệu video ghi nhận vị thế cảm xúc và chức năng chữa lành của Eslite trong xã hội Đài Loan.
+[^10]: [YouTube Tâm cảnh Đài Loan — Bí mật đằng sau hiệu sách Eslite: Vùng trú ẩn đọc duy nhất 24 giờ trên toàn quốc](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Tài liệu video ghi lại vị trí cảm xúc và chức năng chữa lành của Eslite trong xã hội Đài Loan.
 
-[^11]: [Weekly History — Lịch sử phát triển Eslite: Khai cửa sổ đầu tiên nhà sách 24 giờ, kể câu chuyện thương hiệu huyền thoại không bao giờ ngủ](https://weeklyhistory.net/eslite-brandstory/) — Sắp xếp chi tiết hành trình từ nhà sách chuyên nghiệp đến thương hiệu đời sống.
+[^11]: [Weekly History — Lịch sử phát triển Eslite: Huyền thoại thương hiệu tiên phong hiệu sách 24 giờ, không ngừng nghỉ việc đọc](https://weeklyhistory.net/eslite-brandstory/) — Sắp xếp chi tiết quá trình chuyển đổi của Eslite từ một nhà sách chuyên nghiệp thành một trung tâm thương mại đời sống.
 
-[^12]: [Eslite Meet — Thông tin dịch vụ Eslite Life Khu vườn: Lĩnh vực thực hành liên ngành và lõi kinh doanh của nhà hàng đa chức năng](https://meet.eslite.com/tw/tc/store/20180220034) — Giới thiệu các dự án vận hành cụ thể và tinh thần thương hiệu của Eslite tại khu vườn.
+[^12]: [Eslite Meet Fan — Thông tin dịch vụ Eslite Matsya: Trải nghiệm đa ngành và cốt lõi kinh doanh của khu phức hợp thương mại](https://meet.eslite.com/tw/tc/store/20180220034) — Giới thiệu các hạng mục hoạt động cụ thể và tinh thần thương hiệu của Eslite trong khu vực Matsya.
 
-[^13]: [INSIDE — Quan sát xu hướng cạnh tranh thương mại điện tử: Chiến lược toàn kênh, kinh tế thành viên và cách mạng tổ chức của Eslite](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Phân tích chuyên nghiệp về chiến lược số của Eslite khi đối mặt với sóng thương mại điện tử.
+[^13]: [INSIDE Quan sát xu hướng mạng — Hướng dẫn chuyển đổi số: Bố cục đa kênh, quản lý thành viên và chuyển đổi tổ chức của Eslite](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Phân tích chuyên nghiệp về chiến lược chuyển đổi số và hiệu quả của Eslite khi đối mặt với sự cạnh tranh từ thương mại điện tử.
 
-[^14]: [Thời đại số — Eslite lợi nhuận năm 2024! Thương mại điện tử sẽ hoàn vốn trong vòng 3 năm, năm lớn 5 cửa hàng tiêu chuẩn phủ sóng bao phủ Bắc Trung Nam](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Báo cáo thông tin tài chính cải thiện và kế hoạch mở rộng trong năm 2025.
+[^14]: [Thời đại số — Eslite lần đầu tiên có lãi sau 4 năm! Thương mại điện tử được kỳ vọng hoàn vốn trong 3 năm, 5 cửa hàng flagship Bắc Trung Nam đã sẵn sàng](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Báo cáo về tình hình tài chính cải thiện và kế hoạch mở rộng tương lai của Eslite tại cuộc họp cổ đông năm 2025.
 
-[^15]: [Đánh giá du lịch Tripadvisor — Eslite Life Khu vườn: Điểm đến không thể bỏ lỡ kết hợp văn hóa, sách và cảnh quan lịch sử](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Lấy được đánh giá công chúng và kinh nghiệm thực tế của Eslite như một địa danh du lịch quốc tế.
+[^15]: [Đánh giá du lịch Tripadvisor — Cửa hàng Eslite Matsya: Điểm đến không thể bỏ qua kết hợp văn hóa, sách và cảnh quan lịch sử](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Thu thập đánh giá của công chúng và hồ sơ trải nghiệm về Eslite như một địa danh du lịch quốc tế.
 
-[^16]: [Tạp chí Thiên Đường — Bí mật sau sự tắt đèn của Eslite: Cuộc chiến sống sót của không gian thực thể dưới sự ép giá của giá nhà đất và thương mại điện tử](https://www.cw.com.tw/) — Tham khảo phân tích về sự thay đổi ngành bán lẻ và ý nghĩa xã hội học của việc tắt đèn.
+[^16]: [Tạp chí Tianxia — Sự thật đằng sau việc Eslite đóng cửa: Cuộc chiến sinh tồn thực thể dưới áp lực giá nhà cao và thương mại điện tử](https://www.cw.com.tw/) — Tham khảo các phân tích về sự thay đổi của ngành bán lẻ Đài Loan và ý nghĩa xã hội học của việc Eslite đóng cửa.
 
-[^17]: [Thời gian TIME — Những nơi tốt nhất châu Á: Tại sao Eslite là nhà sách tốt nhất châu Á?](https://time.com/) — Lấy được đánh giá uy tín và vị thế quốc tế của Eslite.
+[^17]: [Tạp chí Thời đại TIME — Tốt nhất châu Á: Tại sao hiệu sách Eslite là nhà sách tốt nhất Châu Á?](https://time.com/) — Thu thập đánh giá uy tín từ truyền thông quốc tế về vị thế và định vị của Eslite.
 
-[^18]: [Tạp chí xã hội học — Eslite và sự xây dựng phong cách lớp trung lưu Đài Loan: Một cuộc điều tra về xã hội không gian](https://www.ios.sinica.edu.tw/) — Tham khảo luận đề tham khảo về ảnh hưởng của Eslite đến văn hóa phong cách của Đài Loan.
+[^18]: [Tạp chí xã hội học — Xây dựng gu thẩm mỹ tầng lớp trung lưu Đài Loan: Một nghiên cứu xã hội không gian](https://www.ios.sinica.edu.tw/) — Tham khảo các luận thuyết học thuật về ảnh hưởng của Eslite đối với văn hóa và thị hiếu người dân Đài Loan.
 
-[^19]: [Viện Nghiên cứu Thiết kế Đài Loan — Báo cáo về trưng bày không gian và nuôi dưỡng thương hiệu sáng tạo của Eslite Khu vườn](https://www.tdri.org.tw/) — Lấy được phân tích chuyên nghiệp về vai trò của Eslite trong chuỗi cung ứng sáng tạo.
+[^19]: [Viện Thiết kế Đài Loan — Báo cáo giám tuyển không gian và nuôi dưỡng thương hiệu văn hóa tại Eslite Matsya](https://www.tdri.org.tw/) — Thu thập phân tích chuyên môn về vai trò của Eslite trong chuỗi giá trị công nghiệp văn hóa.
 
-[^20]: [Bộ phận Phát triển Kinh tế — Báo cáo xuất khẩu công nghiệp đời sống thẩm mỹ Đài Loan: Vai trò cạnh tranh của Eslite trên thị trường quốc tế](https://www.ida.gov.tw/) — Tham khảo đánh giá và triển vọng của chính phủ về hành trình quốc tế hóa của Eslite.
+[^20]: [Cục Phát triển Công nghiệp Bộ Kinh tế — Báo cáo xuất khẩu ngành thẩm mỹ sống Đài Loan: Khả năng cạnh tranh của Eslite trên thị trường nước ngoài](https://www.ida.gov.tw/) — Tham khảo đánh giá và triển vọng của chính phủ về quá trình quốc tế hóa của Eslite.
