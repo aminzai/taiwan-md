@@ -1,20 +1,28 @@
 ---
-title: "La prolifération des rats à Taïpei : de l'édit antipeste du Gouvernement général en 1896 au virus Hantan à Da'an en 2026"
-description: "En janvier 2026, un homme d'une soixantaine d'années est décédé du syndrome à virus Hantan dans l'arrondissement de Da'an, le premier décès en Taïwan depuis 25 ans. Mais le véritable tournant de cette histoire est survenu le même mois : l'interdiction de nourrir les porcs avec les déchets alimentaires ménagers. Quand les porcs ne mangent plus les ordures, les rats commencent à manger Taïpei."
+title: "Rongeurs à Taipei : de l'édit de peste du gouverneur en 1896 au virus Hantavirus dans le district de Daan en 2026"
+description: "En janvier 2026, un homme âgé de soixante-dix ans est décédé d'une infection par le hantavirus dans le district de Daan, marquant le premier décès enregistré à Taïwan depuis 25 ans. Mais le véritable tournant de l'histoire fut l'interdiction des porcs nourris avec les déchets ménagers mise en place le même mois – lorsque les cochons n'ont plus mangé les restes alimentaires, les rats ont commencé à manger Taipei."
 date: 2026-05-05
-author: 'Taiwan.md Contributors'
 category: 'Society'
+tags:
+  [
+    'questions urbaines',
+    'santé publique',
+    'gestion environnementale',
+    'Taipei',
+    'animaux',
+    'déchets alimentaires',
+  ]
 subcategory: '社區與日常'
-tags: ['都市議題', '公共衛生', '環境治理', '台北', '動物', '廚餘']
-readingTime: 11
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-05
 lastHumanReview: false
-featured: false
+readingTime: 11
 translatedFrom: 'Society/台北鼠患.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2a7adde08eabea57'
-sourceBodyHash: 'sha256:c303ba562f23c253'
-translatedAt: '2026-05-09T11:09:58+08:00'
+sourceCommitSha: '44b9afeef'
+sourceContentHash: 'sha256:ea94b427916538a7'
+sourceBodyHash: 'sha256:bcba667c74795d16'
+translatedAt: '2026-09-21T20:05:47.750932+00:00'
 ---
 
 # La prolifération des rats à Taïpei : de l'édit antipeste du Gouvernement général en 1896 au virus Hantan à Da'an en 2026
@@ -23,15 +31,15 @@ translatedAt: '2026-05-09T11:09:58+08:00'
 
 > Le 13 janvier 2026, un homme d'une soixantaine d'années est décédé d'un choc septique associé à une défaillance multiviscérale dans l'arrondissement de Da'an. Fin janvier, le diagnostic de syndrome à virus Hantan a été confirmé — le premier cas mortel en Taïwan depuis 2001[^1]. La famille a confirmé la présence de traces de rats au domicile. Deux rats des égouts capturés par le bureau de l'environnement à proximité du domicile se sont révélés positifs aux anticorps du virus Hantan[^2]. À partir de ce jour, la « prolifération des rats » à Taïpei est passée du statut de curiosité journalistique à celui de crise municipale. Mais peu de gens ont remarqué qu'en ce même mois de janvier 2026, le ministère de l'Agriculture annonçait l'interdiction totale de nourrir les porcs avec les déchets alimentaires ménagers. Les 126 tonnes quotidiennes de déchets alimentaires de Taïpei ont dès lors fini dans les camions-poubelles, les incinérateurs — et aussi dans les égouts. Quand les porcs ne mangent plus les ordures, la population de rats de Taïpei a trouvé un nouveau festin.
 
-## Un patient qui ramène la question des rats sur le devant de la scène
+## I. Un cas, qui a ramené les nuisibles au devant de la scène
 
-Si l'on devait choisir un tournant dans l'histoire de la prolifération des rats à Taïpei, ce serait le 31 janvier 2026, en après-midi — le sous-directeur du Centre de contrôle des maladies, Luo Yijun, annonçait en conférence de presse le décès d'un homme d'une soixantaine d'années du syndrome à virus Hantan dans l'arrondissement de Da'an, le **premier cas mortel en Taïwan depuis 2001**[^1]. La famille a déclaré que des souris avaient été observées récemment au domicile. Deux rats des égouts capturés par les services environnementaux à proximité du domicile se sont révélés positifs aux anticorps du virus Hantan[^2].
+Si l'on devait choisir un tournant dans l'histoire des rongeurs à Taïpei, ce serait l'après-midi du 31 janvier 2026 : le sous-directeur de l'Agence nationale de santé publique (CDC), Luo Yijun, annonçant lors d'une conférence de presse le décès d'un homme âgé de plus de 70 ans par syndrome grippal Hantavirus dans le district de Da'an. Il s'agissait du **premier cas mortel depuis 2001** à Taïwan [^1]. La famille a indiqué que des activités de rats avaient été observées récemment chez eux, et deux rats des égouts capturés autour du domicile par les autorités environnementales présentaient des anticorps positifs pour le Hantavirus [^2].
 
-En l'espace de deux semaines, « rat » est devenu un mot-clé à Taïpei. Une vidéo filmée par un touriste hongkongais au night market de Raohe (夜市) est devenue virale sur Threads : un rat des égouts sortait tranquillement du stand de Chuizu Xiang (川醉湘麻辣燙) et grignotait du gâteau de riz sanguin dans la zone d'ingrédients de braisage[^3]. En remontant à 2024, un rat avait été aperçu sortant du comptoir d'un restaurant dans la galerie marchande du Shin Kong Mitsukoshi Xinyi A8, un cuisinier le chassant avec un parapluie ; des restaurants de Ximending et du night market de Guanghua avaient également été filmés par le bureau de la santé avec des rats volant de la nourriture, et sanctionnés en vertu de la loi sur la sécurité alimentaire[^4][^5][^6].
+En l'espace de deux semaines, le mot « rat » est devenu un mot-clé à Taïpei. Une vidéo publiée sur Threads, filmée par un touriste hongkongaise au marché nocturne de Raohe, s'est rendue virale : un rat des égouts sortait avec assurance d'un stand de _Chuan Zui Xiang Ma La Tang_ et grignotait du _mi xue gao_ (gâteau de sang de riz) dans la zone des ingrédients en marinade [^3]. En remontant à 2024, on avait déjà observé des rats s'échapper d'un restaurant de nouilles au Food Street A8 de Shin Kong Mitsukoshi Xinyi, que les gens avaient aperçus et qu'un cuisinier essayait de chasser avec un parapluie. Des restaurants de _xiaochi_ (petits plats) à Ximending et au marché nocturne de Guanghua avaient également été photographiés par le bureau de la santé en train de manger, entraînant des amendes conformément à la loi sur la sécurité alimentaire [^4][^5][^6].
 
-Même le métro de Taïpei a été entraîné dans l'affaire. Le 7 février, le Taipei Metro a publié un communiqué annonçant qu'il « renforçait continuellement la lutte contre les nuisibles », lançant une désinfection complète des stations et des rames, et faisant poser des dispositifs de capture et de destruction par des prestataires chaque mois[^7]. Une réponse officielle qui ne nie ni ne confirme suffisait pour que l'on comprenne : ce n'est pas un incident isolé, c'est le problème d'une ville entière.
+Même le métro de Taïpei a été impliqué. Le MRT de Taipei a publié un communiqué le 7 février, indiquant qu'il « renforcerait continuellement la lutte contre les nuisibles », en lançant une désinfection complète des stations et des rames, et en faisant appel mensuellement à des entreprises pour installer des dispositifs de piégeage [^7]. Cette formule administrative, ni démentie ni prouvée, était suffisante pour faire prendre conscience que ce n'était pas un événement isolé, mais un problème urbain.
 
-📝 **Note du curateur :** Quand un décès dû au virus Hantan survient à Da'an, chaque rat jusque-là ignoré est soudainement rendu visible — la population de rats n'a pas soudainement explosé, c'est la « visibilité » qui a changé.
+📝 **Note du curateur :** Lorsque le décès par virus survient dans le district de Da'an, chaque rat jusqu'alors ignoré est remis en lumière — ce n'est pas la « bouche des rats » qui augmente soudainement, c'est leur « visibilité ».
 
 ## Une chronologie oubliée : en 1896, Taïpei aussi a connu des morts à cause des rats
 
