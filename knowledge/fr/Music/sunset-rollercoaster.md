@@ -1,313 +1,319 @@
 ---
-title: "Sunset Rollercoaster : d'une photo de fond Photo Booth à Coachella, 14 ans à chanter le crépuscule de Taipei en anglais"
-description: "En 2010, un étudiant de 19 ans choisit au hasard le preset « Sunset Rollercoaster » de Mac Photo Booth comme photo de profil MySpace. Quatorze ans plus tard, ce groupe devient le premier groupe taïwanais invité à Coachella en plus de vingt ans. Tout en anglais, City Pop subtropicale, sans s'appuyer sur un système industriel : à partir d'une simple silhouette de montagnes russes prise au vol, ils ont inventé la manière dont Taïwan s'est le plus fait entendre dans le monde."
+title: "Sunset Rollercoaster : 14 ans de musique en anglais, d'un fond de photo booth à Coachella"
+description: "En 2010, un étudiant de 19 ans a choisi par hasard le préréglage « Sunset Rollercoaster » pour son avatar MySpace avec Mac Photo Booth. Quatorze ans plus tard, ce groupe est devenu le premier groupe taïwanais invité à Coachella en plus de vingt ans. En anglais, dans une ambiance City Pop subtropicale et sans dépendre du système industriel, ils ont créé la manière dont Taïwan est entendu par le monde, à partir d'une silhouette de montagnes russes prise au hasard."
 date: 2026-05-23
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'groupe indépendant',
     'city-pop',
     'tournée internationale',
-    'Golden Melody Awards',
+    'prix musical',
     'coachella',
     'hyukoh',
-    'Taipei',
+    'taipei',
   ]
-readingTime: '12min'
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-27
 lastHumanReview: false
-featured: true
-translatedFrom: 'Music/落日飛車.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:a199eb8f6aa7f0fc'
-sourceBodyHash: 'sha256:2680b892b33ad9fa'
-translatedAt: '2026-05-28T05:08:35+08:00'
 image: '/article-images/music/sunset-rollercoaster-live-2018.webp'
 imageCredit: '大梦谭 (damengtan) / Wikimedia Commons'
 imageLicense: 'CC BY 2.5'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(1).jpg'
+readingTime: '12min'
+sporeLinks:
+  - id: 101
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY1oPxokz0L'
+  - id: 102
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059577645722210476'
+translatedFrom: 'Music/落日飛車.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4ae0b9c19401a360'
+translatedAt: '2026-09-21T21:54:26.254195+00:00'
 ---
 
-# Sunset Rollercoaster : d'une photo de fond Photo Booth à Coachella, 14 ans à chanter le crépuscule de Taipei en anglais
+# Sunset Rollercoaster : de la photo de cabine à Coachella, 14 ans d'un groupe chantant le coucher de soleil de Taipei en anglais
 
-> **Vue d'ensemble en 30 secondes :** Sunset Rollercoaster est un groupe indépendant formé à Taipei en 2009. Ils ont fait quelque chose que peu de groupes de la scène indie taïwanaise avaient tenté : chanter le Taipei subtropical entièrement en anglais. Après la sortie de leur premier album, _Bossa Nova_, en 2011, le groupe se sépare ; il se reforme en 2015, après que le chanteur Kuo Kuo a été exempté de service militaire en raison d'une myopie de 1 300 degrés et après la fin de sa mission comme guitariste dans le groupe Algae de Deserts Chang/Anpu. En 2016, le titre 〈My Jinji〉, extrait de l'EP _JinJi Kikko_, dépasse le milliard d'écoutes cumulées sur Spotify[^1] ; en 2018, le groupe devient le premier groupe taïwanais à jouer sur Audiotree Live aux États-Unis ; en 2023, il devient le premier groupe taïwanais invité à monter sur une grande scène de Coachella en plus de vingt ans[^2] ; en 2024, _AAA_, album réalisé avec le groupe coréen Hyukoh, est nommé dans neuf catégories aux 36e Golden Melody Awards et remporte trois prix. Une photo de fond Photo Booth choisie au hasard est devenue, quatorze ans plus tard, ce faisceau de lumière par lequel la musique taïwanaise s'est le plus fait entendre dans le monde.
+> **Aperçu en 30 secondes :** Sunset Rollercoaster est un groupe indépendant formé à Taipei en 2009. Ils ont fait quelque chose que peu font dans la scène indie taïwanaise : chanter le subtropical Taïwan entièrement en anglais. Après la sortie de leur premier EP, _Bossa Nova_, en 2011, ils se sont séparés, avant d'être reformés en 2015 par le chanteur Kuo Kuo après avoir quitté son rôle de guitariste dans le groupe Chang Hsien Algae à cause d'une incapacité liée à une myopie de 1300 degrés. Le titre 〈My Jinji〉 de l'EP _JinJi Kikko_, sorti en 2016, a dépassé les cent millions d'écoutes sur Spotify [^1] ; ils sont devenus le premier groupe taïwanais à se produire sur Audiotree Live aux États-Unis en 2018 ; et en 2023, ils sont devenus le premier groupe taïwanais invité à la grande scène du festival Coachella après plus de vingt ans [^2] ; en 2024, leur album _AAA_, en collaboration avec le groupe coréen Hyukoh, a été nominé pour neuf prix aux Golden Melody Awards et en a remporté trois. Une photo de cabine prise au hasard est devenue la lumière la plus entendue du monde dans la musique taïwanaise 14 ans plus tard.
 
-Taipei, 2010. Un étudiant de 19 ans est assis devant son MacBook. Il vient d'ouvrir une page MySpace pour son groupe et a besoin d'une photo de profil. Ne sachant pas quoi photographier, il lance Photo Booth, l'application intégrée au Mac. Dans les presets, il y a une image de fond : une silhouette de montagnes russes, un coucher de soleil. Il choisit celle-là.
+En 2010, un étudiant de 19 ans était assis devant son MacBook à Taipei. Il venait de créer une page de groupe sur MySpace et avait besoin d'une photo de profil. Ne sachant pas quoi prendre, il a ouvert Photo Booth intégré à Mac. Parmi les modèles prédéfinis, il y en avait un avec une silhouette de montagnes russes et un coucher de soleil. Il en a choisi celui-ci.
 
-« C'est comme ça que le Rollercoaster est arrivé », dira Kuo Kuo (Tseng Kuo-hung) huit ans plus tard dans une interview[^3].
+« Les montagnes russes sont arrivées comme ça », a dit Kuo Kuo (Tseng Kuo-hung) dans une interview huit ans plus tard [^3].
 
-Cette image de fond choisie sans réfléchir deviendra ensuite tout ce que le groupe est : son nom, la pochette de son premier mini-EP, l'atmosphère de tout son univers musical. Elle n'avait pas été conçue pour représenter quoi que ce soit, mais quatorze ans plus tard, elle représentait une chose que personne n'aurait pu prévoir à l'époque. Le chemin par lequel la musique taïwanaise s'est tournée vers le monde ne venait ni du système industriel de la K-pop ni de la diplomatie culturelle de l'État. Tout a commencé avec un garçon de 19 ans qui, dans Photo Booth sur son MacBook, a simplement choisi une image au hasard.
+Ce fond d'écran choisi au hasard est devenu tout ce qui concerne le groupe : son nom, la pochette de leur premier mini-EP, l'ambiance de tout leur univers musical. Il n'a pas été conçu pour représenter quoi que ce soit, mais 14 ans plus tard, il représente quelque chose qu'on ne pouvait pas prédire à l'époque. La voie de la musique taïwanaise vers le monde ne vient ni du système industriel K-pop, ni de la diplomatie culturelle gouvernementale ; tout a commencé par un jeune homme de 19 ans qui a choisi une image au hasard dans Photo Booth sur son MacBook.
 
-## Ce preset dans Photo Booth
+## Le préréglage du photomaton
 
 Sunset Rollercoaster n'est pas apparu de nulle part.
 
-Avant de former Sunset Rollercoaster, Kuo Kuo avait déjà touché à plusieurs groupes. Le premier était Acid Lips, un groupe post-punk du lycée. Puis vinrent F.L.A.T CLUB, le « Faux club des jeunes artistes littéraires »[^4], Boyz & Girl, ainsi que Come on! BayBay!, qui enregistrait un album à la même période en 2010. Le batteur de BayBay! était alors « Birdman » Huang Shih-wei ; le groupe comptait aussi un certain Chen Hung-li, qui reviendrait plus tard chez Sunset Rollercoaster comme bassiste[^5].
+Avant de former Sunset Rollercoaster, Kuo Kuo avait déjà joué dans plusieurs groupes. Au début, au lycée, il y eut le groupe post-punk Acid Lips (Lèvres Acides). Ensuite, il y eut « F.L.A.T CLUB »[^4], Boyz & Girl, ainsi que « Allez ! Beibei ! », avec lequel il a enregistré un album en 2010. Le batteur de _Allez ! Beibei !_ était Huang Shih-wei, surnommé « Bird Man », et l'un des membres s'appelait Chen Hongli, qui rejoindra plus tard Sunset Rollercoaster comme bassiste[^5].
 
-En 2009, Kuo Kuo forme Sunset Rollercoaster avec Kevin Lee (Lee Po-hao, alors étudiant en médecine à Taipei Medical University) et le batteur Luo Tsun-lung. Leur premier concert a lieu le 29 janvier à Underworld, sur Shida Road[^6]. Ce petit bar crasseux, détruit ensuite par le renouvellement urbain, était l'un des foyers rituels de la scène indie de Taipei dans les années 2000.
+En 2009, Kuo Kuo forma Sunset Rollercoaster avec Kevin Lee (Li Bo-wen, alors étudiant à la Faculté de médecine de Taipei) et le batteur Luo Zonglong. Leur première performance a eu lieu le 29 janvier au club underground Underworld sur Shida Road[^6]. Ce petit bar miteux, qui a depuis été réaménagé, était un repère de la scène indie de Taipei dans les années 2000.
 
-Le nom du groupe n'est venu qu'après coup. Dans la version que Kuo Kuo donne en interview :
+Le nom du groupe a été choisi après coup. La version donnée par Kuo Kuo lors d'une interview est la suivante :
 
-> « Myspace avait besoin d'une profile pic ; je ne savais pas quoi photographier, alors j'ai utilisé un pre set dans photo booth sur l'ordinateur Apple, qui s'appelait Sunset Rollercoaster... c'est comme ça que le Rollercoaster est arrivé. »[^3]
+> « J'avais besoin d'une photo de profil pour Myspace et je ne savais pas quoi prendre, alors j'ai utilisé un préréglage du photomaton sur l'ordinateur Apple, qui s'appelait Sunset Rollercoaster... C'est ainsi que le groupe est né. »[^3]
 
-Le caractère anti-industriel de cette histoire d'origine a ensuite déterminé l'atmosphère du groupe pendant quatorze ans. Pas de consultant en marque, pas de réunion de naming, pas de considérations SEO. Une image par défaut de Photo Booth est devenue le texte affiché sur le fond de scène du désert de Coachella.
+Cette histoire, empreinte d'anti-industrie, a défini l'atmosphère du groupe pendant 14 ans. Il n'y eut ni consultant en marque, ni réunion de nommage, ni considération SEO. Une image par défaut de photomaton est devenue un arrière-plan sur la scène désertique de Coachella.
 
-> 📝 **Note curatoriale** : Le récit courant de « l'indie qui devient international » a tendance à attribuer chaque tournant au fait que « le groupe a pris la bonne décision stratégique ». L'histoire de Sunset Rollercoaster fonctionne en réalité à l'inverse : tous les nœuds décisifs sont des choix non calculés, pris sur le moment. L'image Photo Booth était une improvisation d'un après-midi en dortoir ; le choix du tout-anglais, selon Kuo Kuo lui-même, tenait au fait que cela « semblait moins dissonant » ; Coachella, c'est l'organisateur qui a envoyé l'invitation. Le groupe taïwanais que le monde a le plus entendu est précisément celui qui ressemble le moins à un projet soigneusement conçu.
+> 📝 **Note du curateur** : Le récit courant selon lequel « l'indie devient international » a tendance à attribuer chaque tournant à une « décision stratégique correcte prise par le groupe ». Or, l'histoire de Sunset Rollercoaster est au contraire : tous les points clés sont des choix spontanés. L'image du photomaton n'était qu'un hasard d'un après-midi dans une chambre ; le choix en anglais a été fait par Kuo Kuo lui-même car il trouvait que cela « ne détonnait pas » ; et Coachella est venu avec une invitation de l'organisateur. Ce groupe, le plus écouté au monde par Taïwan, ressemble le moins à quelque chose qui aurait été méticuleusement conçu.
 
-## Un mastering à Abbey Road, puis plus rien
+## Abbey Road Master, puis disparu
 
-Le 22 septembre 2011, Sunset Rollercoaster autoproduit son premier album, _Bossa Nova_[^7].
+Le 22 septembre 2011, Sunset Rollercoaster a sorti son premier album en auto-financement, _Bossa Nova_ [^7].
 
-Le titre vient de la bossa nova, mais la musique elle-même est plus proche d'un mélange de surf rock lo-fi et de post-punk. L'enregistrement a lieu au Rooftop Audio de Taipei ; le mastering est envoyé à Londres, aux Abbey Road Studios, et traité personnellement par Steve Rooke[^8]. Pour un premier album bricolé par une bande d'étudiants, la dernière étape de production se déroule dans le même studio où les Beatles ont enregistré _Abbey Road_.
+Le titre de l'album est inspiré par Bossa Nova (巴薩諾瓦), mais la musique elle-même se rapproche davantage d'un mélange entre le surf rock lo-fi et le post-punk. L'enregistrement a été réalisé à Rooftop Audio à Taipei, et le mastering a été envoyé à Abbey Road Studios à Londres, où Steve Rooke s'est occupé personnellement [^8]. C'était un premier album fait de manière artisanale par un groupe d'étudiants, dont la dernière étape a eu lieu dans le studio qui a enregistré _Abbey Road_ des Beatles.
 
-Puis le groupe se sépare.
+Puis ils se sont séparés.
 
-Les fans pensent qu'il s'agissait simplement d'un petit groupe de Taipei qui n'a pas percé, disparu après un seul album. À la fin de 2012, Kuo Kuo rejoint le groupe Algae d'Anpu comme guitariste, en remplacement de Sante, et part en tournée avec elle pendant quatre ans[^9]. Le batteur Luo Tsun-lung monte un side project dark industrial appelé Fossil, avec Kuo Kuo. Le site officiel du groupe reste sans mise à jour pendant quatre ans.
+Les fans pensaient que ce n'était qu'un petit groupe de Taipei qui n'avait pas réussi à percer, et qui avait disparu après un seul album. Kuo Kuo a rejoint le groupe Algae d'An Pu à la fin de 2012 en tant que guitariste (remplaçant l'ancien membre), et ils ont tourné pendant quatre ans [^9]. Le batteur Luo Zunlong est parti former un side-projet dark industrial appelé « 化石 » avec Kuo Kuo. Le site web officiel du groupe n'a pas été mis à jour pendant ces quatre années.
 
-« We wanted to try something else », dira plus tard Kuo Kuo dans une interview à _Bandcamp Daily_[^10].
+« Nous voulions essayer autre chose. » a déclaré Kuo Kuo plus tard dans une interview pour Bandcamp Daily [^10].
 
-Ces quatre années de silence sont le contraste le plus important du futur « mythe Coachella ». L'histoire de Sunset Rollercoaster n'est pas un modèle inspirant d'« indie parti de zéro et devenu célèbre du jour au lendemain » ; c'est plutôt celle d'un groupe dont les membres ont fait, chacun de leur côté, des choses entièrement différentes pendant quatre ans, avant de revenir et de trouver enfin leur véritable forme.
+Ce silence de quatre ans est le contraste le plus important de la « mythologie Coachella ». L'histoire de Sunset Rollercoaster n'est pas un modèle inspirant du type « indie qui devient célèbre du néant à l'un », mais plutôt celle d'« un groupe de personnes qui font toutes des choses complètement différentes pendant quatre ans, et qui finissent par se révéler vraiment après leur retour. »
 
-## L'avis d'exemption pour 1 300 degrés de myopie
+## Notification de myopie à -1300 dioptries
 
-Un après-midi de 2015, Kuo Kuo reçoit un ordre d'appel.
+Un après-midi en 2015, Kuo Kuo reçut une convocation militaire.
 
-Il devait partir faire son service militaire, mais un mois avant l'incorporation, le ministère de la Défense lui envoie un avis d'exemption, au motif qu'il a 1 300 degrés de myopie. Le destin qui devait le voir se raser la tête et porter l'uniforme bascule à cause d'un certificat d'optométrie.
+Il était censé se présenter au service militaire, mais un mois avant le début du service, le ministère de la défense lui envoya un avis d'exemption, invoquant sa myopie à -1300 dioptries. Son destin, celui de se raser la tête et de porter l'uniforme militaire dans moins d'un mois, fut bouleversé par une simple ordonnance d'examen de la vue.
 
-Cette année-là, Kuo Kuo a 24 ans. Il vient de terminer les tournées avec Algae, Sunset Rollercoaster est séparé depuis quatre ans, et il n'a pas d'emploi à temps plein. L'expérience de scène accumulée pendant quatre ans aux côtés d'Anpu, combinée à tout un réseau d'anciens amis du milieu théâtral de son université qui savent jouer du synthétiseur, du saxophone ou de la clarinette, lui fait soudain comprendre qu'il peut tirer toutes ces lignes dans une même direction.
+Cette année-là, Kuo Kuo avait 24 ans. Il venait de terminer les tournées du groupe Algae, et _Sunset Rollercoaster_ s'était dissous quatre ans auparavant ; il n'avait pas de travail stable. L'expérience scénique accumulée en quatre ans avec An Pu (Chang Hsien), ainsi que ses anciens amis du milieu théâtral de son université d'origine – qui jouaient du synthétiseur, du saxophone et du clarinette –, firent réaliser soudain à Kuo Kuo qu'il pouvait orienter tous ces fils dans la même direction.
 
-« J'ai décidé de vraiment prendre le groupe au sérieux », se souviendra-t-il ensuite[^11].
+« J'ai décidé de prendre le groupe au sérieux », se remémore-t-il après coup[^11].
 
-Le 1er juillet 2015, Sunset Rollercoaster donne son premier concert de reformation au The Wall, à Taipei[^12]. Du trio d'origine (Kuo Kuo, Kevin, Tsun-lung), il n'en reste que deux. Kevin ne revient pas, Birdman non plus. Les nouveaux membres sont d'anciens compagnons de Come on! BayBay! : Chen Hung-li (basse et synthétiseur), Wang Shao-hsuan (claviers) et Huang Hao-ting (saxophone). La formation à cinq ajoute cuivres, synthétiseurs et une texture funky soft rock que personne dans la scène indie taïwanaise n'avait vraiment explorée ainsi.
+Le 1er juillet 2015, _Sunset Rollercoaster_ organisa sa première reconstitution à The Wall à Taipei[^12]. Les trois membres originels (Kuo Kuo, Kevin, Tsunlong) n'étaient plus que deux. Kevin était reparti, et Tionghuai n'était pas revenu. De nouveaux membres furent ajoutés : Chen Hongli (basse + synthétiseur), ancien membre du groupe « Let's Go! Beibei ! », Wang Shaoxuan (clavier) et Huang Haoting (saxophone). Avec une formation de cinq personnes, le groupe intégra des instruments à vent, du synthétiseur, et une texture funky soft rock que personne n'avait explorée dans la scène indie taïwanaise.
 
-Cette année-là, ils commencent à écrire les trois chansons qui deviendront _Jinji Kikko_.
+Cette année-là, ils commencèrent à écrire les trois chansons qui deviendraient _Jinji Kikko_.
 
-> 💡 **Le saviez-vous ?** Pendant les quatre années où Kuo Kuo a été guitariste dans Algae, il a partagé la scène avec Anpu (Deserts Chang) plus de 100 fois. Depuis la reformation de Sunset Rollercoaster, Anpu et Kuo Kuo n'ont pourtant jamais collaboré officiellement sur une chanson. Tous deux comptent parmi les auteurs-compositeurs indie les plus emblématiques de Taïwan ; ils ont un jour été collègues dans le même groupe, mais ont ensuite pris des directions totalement différentes.
+> 💡 **Saviez-vous que** : Durant les quatre années où Kuo Kuo fut guitariste dans Algae, il a partagé plus de 100 scènes avec An Pu (Chang Hsien). Après la reconstitution de _Sunset Rollercoaster_, An Pu et Kuo Kuo n'ont jamais collaboré officiellement sur une chanson. Bien qu'ils soient tous deux des créateurs indie emblématiques de Taïwan, ayant été collègues dans le même groupe, ils ont pris des chemins totalement différents après leur séparation.
 
-## Jinji n'est pas une kumquat
+## Jinji n'est pas Kumquat
 
-Le 1er mars 2016, l'EP [_JinJi Kikko_](https://www.youtube.com/watch?v=d1REzQ75COs) sort en ligne[^13]. Trois morceaux : 〈Burgundy Red〉, 〈My Jinji〉, 〈New Drug〉.
+Le [EP _JinJi Kikko_](https://www.youtube.com/watch?v=d1REzQ75COs) est sorti le 1er mars 2016[^13]. Il contient trois chansons : 〈Burgundy Red〉, 〈My Jinji〉 et 〈New Drug〉.
 
-Le premier à devenir populaire est 〈My Jinji〉. En 2017, l'algorithme de Spotify commence à placer le titre dans Discover Weekly et dans des playlists Indie/City Pop en Indonésie et en Corée. En un an, le morceau compte plus d'auditeurs mensuels en Indonésie qu'à Taïwan[^14]. _NME_ rapportera plus tard que Jakarta, en Indonésie, est la ville où Sunset Rollercoaster compte le plus d'auditeurs mensuels sur Spotify dans le monde[^15].
+C'est 〈My Jinji〉 qui a connu le plus grand succès au départ. À partir de 2017, l'algorithme de Spotify a commencé à placer cette chanson dans les playlists Discover Weekly ainsi que dans les playlists Indie/City Pop d'Indonésie et de Corée. En un an, ce titre a dépassé en nombre d'auditeurs mensuels Taïwan[^14] en Indonésie. NME a par la suite rapporté qu'Indonésie, à Jakarta, était la ville avec le plus grand nombre d'auditeurs mensuels mondiaux de Sunset Rollercoaster sur Spotify[^15].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/5xwFCtDc0fI" title="Sunset Rollercoaster - My Jinji (Official Video), 2020" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Clip officiel de 〈My Jinji〉 sur la chaîne du groupe, version vidéo réalisée en 2020 : la chanson avait déjà explosé depuis quatre ans dans l'algorithme de Spotify avant que l'image ne vienne, après coup, donner un corps visible à ce titre pour les auditeurs du monde entier. Une nonchalance d'après-midi ouverte par un souffle de saxophone : ce sont les deux syllabes par lesquelles ce groupe s'est le plus fait entendre dans le monde en quatorze ans._
+_La vidéo officielle de 〈My Jinji〉, réalisée en 2020 : la chanson avait déjà connu un succès viral grâce à l'algorithme de Spotify pendant quatre ans avant que cette vidéo ne "révèle" le titre aux auditeurs du monde entier. Une après-midi décontractée, ouverte par un saxophone, est les deux syllabes les plus entendues au monde pour ce groupe en 14 ans._
 
-Le mot « Jinji » a longtemps fait croire à beaucoup qu'il s'agissait de « jinju », une kumquat. Le groupe ne l'a jamais vraiment expliqué. Mais d'après les interviews de Kuo Kuo, ce son serait plutôt proche de « Dindi », dans le classique bossa nova portugais 〈Dindi〉, qui signifie « chéri » ou « bébé »[^16]. L'atmosphère des trois titres dialogue étrangement avec le jazz brésilien des années 1960 d'Antonio Carlos Jobim, tout en poussant dans le Taipei des années 2010.
+Le mot « Jinji » a conduit beaucoup de gens à penser qu'il s'agissait de « 金桔 » (kumquat). Le groupe n'a jamais expliqué. Mais selon une interview de Kuo Kuo, cette sonorité est proche du « Dindi » de la classique brésilienne Bossa Nova, signifiant « cher », « bébé »[^16]. L'atmosphère des trois chansons présente une étrange résonance avec le jazz brésilien des années 60 d'Antonio Carlos Jobim, mais elle est née à Taipei dans les années 2010.
 
-![Sunset Rollercoaster sur scène en 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%285%29.jpg/1280px-%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%285%29.jpg)
-_Scène d'un concert d'avril 2018 : Sunset Rollercoaster deux ans après la sortie de l'EP \_JinJi Kikko_ et à la veille de _Cassa Nova_. Photo : Puramyun31, Wikimedia Commons / CC BY 2.5.\_
+![Scène du concert de Sunset Rollercoaster en 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%285%29.jpg/1280px-%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%285%29.jpg)
+_Sunset Rollercoaster lors d'un concert en avril 2018. Avant la sortie de *Cassa Nova*, deux ans après la sortie de l'EP *JinJi Kikko*. Photo : Puramyun31, Wikimedia Commons / CC BY 2.5._
 
-Le premier concert international important après la sortie de l'EP a lieu le 16 juillet 2016, au SummerStage Taiwanese Waves de Central Park, à New York[^17]. Sunset Rollercoaster partage l'affiche avec Anpu et Wonfu. C'est la première fois que des groupes taïwanais se présentent collectivement sur la scène SummerStage de Central Park, trois formations sur une même affiche.
+La première grande tournée internationale après la sortie de l'EP a été SummerStage Taiwanese Waves à Central Park, New York, le 16 juillet 2016[^17]. Sunset Rollercoaster est apparu sur scène avec An Pu et Wang Fu. C'était la première fois qu'un groupe taïwanais se présentait en formation complète sur la SummerStage de Central Park, avec trois groupes simultanément.
 
-Puis les auditeurs internationaux commencent à envoyer des messages.
+Ensuite, les fans internationaux ont commencé à envoyer des messages.
 
-« Je trouve que Taipei a quelque chose d'assez plat ; tout le monde se ressemble un peu... toute la ville donne une sensation relativement confortable, mais dont on ne peut jamais vraiment sortir », dit Kuo Kuo à Chiang Yi-ting de _The Reporter_[^18]. Mais cette ville plate qu'il chante en anglais devient précisément celle par laquelle des auditeurs du monde entier entendent un Taipei qu'ils croyaient plat et qui se révèle en réalité complexe.
+« Je trouve que Taipei a une sensation un peu plate, tout le monde est similaire... la ville dans son ensemble offre une sorte de confort, mais sans jamais pouvoir dépasser l'impasse », avait dit Kuo Kuo au journaliste Jiang Yiting[^18]. Pourtant, cette ville "plate" chantée entièrement en anglais a fait entendre aux auditeurs du monde entier un Taipei qu'ils croyaient plat, alors qu'il est en réalité complexe.
 
-> 📝 **Note curatoriale** : Pourquoi choisir l'anglais ? La réponse de Kuo Kuo est plus contre-intuitive qu'on ne l'imagine. « Quand tu es un groupe qui chante en anglais, les auditeurs qui écoutent déjà de la musique occidentale l'absorbent avec le moins de dissonance possible. Troisième point : si c'est en anglais, ton public, c'est le monde entier. »[^19] Cette phrase ressemble davantage au calcul lucide d'un producteur sur la taille de son audience qu'à une proclamation ambitieuse de « musique internationale ». Dans la scène indie taïwanaise, la plupart choisissent le taïwanais, le mandarin, le hakka ou les langues autochtones ; derrière chaque langue se trouve une réponse à la question « qui suis-je ? ». La réponse de Sunset Rollercoaster est : je veux être entendu par le monde entier, et l'anglais est le plus grand dénominateur commun. Cette honnêteté du calcul ne peut pas être rangée dans le même tiroir que l'anglicisation du système industriel de la K-pop.
+> 📝 **Note de la curatrice** : Pourquoi l'anglais ? La réponse de Kuo Kuo est contre-intuitive par rapport à ce que l'on pourrait penser. « Lorsque vous êtes un groupe qui chante en anglais, les spectateurs habitués à la musique occidentale sont ceux qui s'y intègrent le plus naturellement. Troisièmement, si c'est en anglais, votre public est le monde entier. »[^19] Cette phrase ressemble davantage à un calcul froid du nombre d'abonnés qu'à une déclaration ambitieuse de vouloir faire de la musique internationale. La scène indie taïwanaise privilégie majoritairement le taiwanois, le mandarin, le hakka ou les langues autochtones ; derrière chaque langue se cache une réponse à la question « Qui suis-je ? ». La réponse de Sunset Rollercoaster est : je veux être entendu par le monde entier, et l'anglais est le dénominateur commun. Cette honnêteté du calcul ne peut pas être mise dans le même tiroir que l'anglicisation du système industriel K-pop.
 
-## Les cinq titres d'Audiotree
+## Audiotree : Ces cinq morceaux
 
-26 septembre 2018, Chicago.
+Le 26 septembre 2018, à Chicago.
 
-Sunset Rollercoaster entre dans le studio d'Audiotree Live et enregistre une session complète de cinq titres : 〈Greedy〉, [〈Summum Bonum〉](https://www.youtube.com/watch?v=wNp7WJusiHQ), 〈New Drug〉, 〈My Jinji〉, 〈I Know You Know I Love You〉. La session est mise en ligne le 18 octobre[^20]. Audiotree est l'une des principales plateformes de sessions en studio de la scène indépendante américaine, qui sélectionne chaque année un petit nombre de groupes pour une full session. Sunset Rollercoaster devient le premier groupe taïwanais à y être invité.
+Sunset Rollercoaster est arrivé dans le studio d'enregistrement d'Audiotree Live pour enregistrer une session complète de cinq chansons : 〈Greedy〉, [〈Summum Bonum〉](https://www.youtube.com/watch?v=wNp7WJusiHQ), 〈New Drug〉, 〈My Jinji〉 et 〈I Know You Know I Love You〉. La vidéo a été mise en ligne le 18 octobre[^20]. Audiotree est l'une des plateformes de sessions studio les plus importantes du milieu indépendant américain, qui sélectionne chaque année un petit nombre de groupes pour enregistrer une session complète. Sunset Rollercoaster fut le premier groupe taïwanais à être invité.
 
-Le format Audiotree est une épreuve. Une petite pièce, très peu de postproduction, une prise live mise directement en ligne : chaque fausse note, chaque pause, chaque flottement de tempo peut être vu et entendu. La position esthétique de ce format est : show me you can do this in the room ; ne me donne pas la version empilée en pistes dans un studio. Ce jour-là, Sunset Rollercoaster livre quarante minutes où synthétiseurs, saxophone, basse et batterie respirent tous ensemble dans le même espace. Le solo de saxophone de la version live de 〈Summum Bonum〉 est encore plus relâché que sur la version studio ; les sons de synthétiseur de 〈New Drug〉 portent la fine réverbération propre à la pièce. Après sa mise en ligne, la session accumule plus de 1,1 million de vues[^20] ; c'est la première grande porte d'entrée pour l'expansion internationale de leur public.
+Le format d'enregistrement d'Audiotree était un véritable test. Une petite pièce, très peu de post-production, et la piste live mise en ligne telle quelle ; toute fausse note, pause ou décalage était visible. L'esthétique de ce cahier des charges est : montrez-nous que vous pouvez faire ça dans la pièce, pas la version mixée en studio. Ce que Sunset Rollercoaster a livré ce jour-là, c'était 40 minutes où le synthétiseur, le saxophone, la basse et la batterie respiraient tous ensemble dans un même espace. Le solo de saxophone de la version live de 〈Summum Bonum〉 était plus détendu que celui du studio, et le timbre du synthétiseur de 〈New Drug〉 portait une légère réverbération propre au studio. Après la mise en ligne de la session, elle a accumulé plus d'un million de vues[^20], marquant le premier essor massif des fans internationaux de Sunset Rollercoaster.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/slUc-4WCnhc" title="Sunset Rollercoaster on Audiotree Live (Full Session)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Session complète sur la chaîne officielle d'Audiotree : ce petit studio de Chicago, un après-midi d'automne 2018. Quand le saxophone de 〈My Jinji〉 se met à souffler, l'indie taïwanais prend forme pour la première fois en direct devant un micro du Midwest américain. Avant, c'étaient des données poussées par l'algorithme Spotify dans des écouteurs ; à partir de ce jour, ce sont des personnes qui respirent dans la même pièce._
+_La session complète du canal officiel d'Audiotree : la petite pièce de Chicago, un après-midi d'automne 2018. Dès que le saxophone a joué 〈My Jinji〉, l'indie taïwanais s'est présenté en direct devant des microphones dans le Midwest américain pour la première fois. Avant cela, c'était une donnée poussée par les algorithmes de Spotify sur un casque ; ce jour-là, ils sont devenus des êtres qui respirent dans la même pièce._
 
-En mars de la même année, ils sortent leur deuxième album complet, _Cassa Nova_ (Prince à demi mûr)[^21]. Neuf titres, qui quittent totalement le surf rock lo-fi de _Bossa Nova_ pour se tourner vers la disco, le funk et une City Pop dominée par les synthétiseurs. L'atmosphère de l'album évoque les après-midis subtropicaux du Japon des années 1970, quelque part entre Tatsuro Yamashita et Taeko Ohnuki, mais avec des sons de synthétiseur recouverts d'une couche de vaporwave de la fin des années 2010.
+En mars de la même année, ils ont sorti leur deuxième album complet, _Cassa Nova_ (Prince Demi-Mûr)[^21]. Avec 9 chansons, le groupe est passé du rock surf lo-fi de _Bossa Nova_ au City Pop dominé par la disco, le funk et les synthétiseurs. L'ambiance de l'album rappelle un après-midi subtropical japonais des années 70 (Tatsuro Yamashita, Miho Ohanami), mais avec une couche vaporwave de la fin des années 2010 en termes de sonorités synthétiques.
 
-Sur l'ensemble de 2018, le groupe donne plus de 100 concerts, de Tokyo, Séoul, Shanghai, Hong Kong et Jakarta jusqu'à Los Angeles, New York et Mexico[^22].
+Tout au long de 2018, ils ont fait plus de 100 tournées, allant de Tokyo, Séoul, Shanghai, Hong Kong à Jakarta et Los Angeles, New York et Mexico[^22].
 
-L'un d'eux a lieu dans un parking de centre commercial transformé en scène à Jakarta, en Indonésie. Le public est si dense que la scène se met à trembler et le concert est interrompu plus tôt que prévu. Cette scène, plus tard consignée dans un long article de _The Reporter_, marque le moment où la City Pop subtropicale explose réellement devant un public subtropical[^23].
+L'une d'entre elles s'est déroulée dans un parking commercial à Jakarta, en Indonésie. Le public était tellement serré que la scène a tremblé, forçant une fin prématurée du concert. Cette représentation fut consignée dans un long article de journaliste, marquant le premier moment où le City Pop subtropical fut véritablement "explosé" par un public subtropical[^23].
 
-![Sunset Rollercoaster en concert en 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%288%29.jpg/1280px-%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%288%29.jpg)
-_Vue latérale de la même scène de 2018. La formation à cinq ajoutée après la reformation de 2015 a intégré cuivres, synthétiseurs et saxophone à une structure qui était à l'origine celle d'un trio de surf rock. Photo : Puramyun31, Wikimedia Commons / CC BY 2.5._
+![Sunset Rollercoaster en direct en 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%288%29.jpg/1280px-%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%288%29.jpg)
+_Photo prise du côté de la scène lors d'un concert en 2018. Le groupe, avec sa formation à cinq membres après une reformation en 2015, a intégré des instruments à vent, des synthétiseurs et un saxophone dans le cadre initial de trio surf-rock. Photo : Puramyun31, Wikimedia Commons / CC BY 2.5._
 
-Cette année-là, _BIOS Monthly_ leur attribue une formule : « traverser les mers pour trinquer »[^24]. Dans l'interview, Kuo Kuo est très lucide sur sa situation : le marché sinophone est trop petit pour soutenir un groupe entièrement anglophone ; il faut donc partir à l'étranger trouver un public. Mais les tournées internationales coûtent si cher que la plupart des groupes indépendants hésitent à franchir le pas. Entre ces deux pressions, Sunset Rollercoaster développe sa propre trajectoire : se connecter autant que possible directement avec des promoteurs étrangers, sans passer par des agences taïwanaises ; simplifier au maximum la mise en scène ; n'emporter que les synthétiseurs indispensables. L'expression « traverser les mers » sera ensuite souvent reprise dans la scène indie asiatique pour décrire la manière dont un groupe peut transformer l'absence de soutien industriel en modèle économique opérable : le déplacement géographique n'est que la surface ; le véritable noyau est une redéfinition du rythme commercial.
+Le BIOS Monthly les décrivait cette année-là comme « ceux qui traversent les mers pour gagner leur vie »[^24]. Kuo Kuo a clairement expliqué sa situation lors d'une interview : le marché chinois était trop petit pour soutenir un groupe entièrement anglophone, ils devaient donc chercher du public à l'étranger ; et les coûts des tournées internationales étaient si élevés que la plupart des groupes indépendants ne pouvaient pas se permettre cela. Sunset Rollercoaster a trouvé sa propre voie au milieu de ces deux contraintes — en contact direct avec les promoteurs étrangers autant que possible, sans passer par une agence taïwanaise intermédiaire, et en gardant le montage scénique aussi simple que possible, n'emportant que les synthétiseurs nécessaires. Les quatre mots « traverser les mers » ont ensuite été cités à plusieurs reprises dans la scène indie asiatique pour décrire comment un groupe transforme l'« absence de soutien industriel » en un modèle économique viable : le déplacement géographique n'est qu'une surface, le véritable cœur est la redéfinition du rythme commercial.
 
-## La scène Sonora dans le désert
+## Sonora dans le désert
 
-Le 27 juillet 2019, ils montent sur la scène Red Marquee du Fuji Rock Festival au Japon[^25]. C'est l'un des plus grands festivals rock d'Asie, et Red Marquee en est la deuxième plus grande scène.
+Le 27 juillet 2019, ils ont joué sur la scène Red Marquee du Fuji Rock Festival au Japon [^25]. C'était l'un des plus grands festivals de rock d'Asie, et Red Marquee était la deuxième plus grande scène.
 
-Le 30 octobre 2020, ils sortent leur troisième album, _Soft Storm_[^26]. Lors d'une tournée à Los Angeles en 2019, Kuo Kuo rencontre par hasard l'idole qu'il admire depuis l'adolescence : Ned Doheny, session musician américain des années 1970, auteur de chansons pour les Eagles ou Linda Ronstadt. Sur place, Kuo Kuo invite Ned à venir collaborer à Taipei. Ned vient réellement, et écrit [〈Overlove〉](https://www.youtube.com/watch?v=GnJOxq0flo4) avec Sunset Rollercoaster. Puis le COVID-19 éclate, interrompant les projets d'enregistrement à Los Angeles[^27].
+Le 30 octobre 2020, ils ont sorti leur troisième album, _Soft Storm_ [^26]. Lors de leur tournée à Los Angeles en 2019, Kuo Kuo a rencontré par hasard une idole qu'il admirait depuis son adolescence : Ned Doheny, un musicien de session américain des années 70 (qui avait travaillé pour les Eagles et Linda Ronstadt). Kuo Kuo l'a invité sur place à venir à Taïwan pour collaborer. Ned est effectivement venu et a enregistré [〈Overlove〉](https://www.youtube.com/watch?v=GnJOxq0flo4) avec Sunset Rollercoaster. Ensuite, la COVID-19 est apparue, interrompant les projets d'enregistrement suivants à Los Angeles [^27].
 
-Après la sortie de _Soft Storm_, _NME_ le classe quatrième meilleur album asiatique de 2020. Daniel Peters écrit :
+Après la sortie de _Soft Storm_, NME l'a classé comme le quatrième album asiatique de l'année 2020. Le commentaire de Daniel Peters :
 
 > "It's a left-turn by a band fully confident in their strengths, looking inward to focus on craft and instinct."[^28]
 >
-> (C'est un virage à gauche pris par un groupe pleinement confiant dans ses forces, qui tourne son regard vers l'intérieur pour se concentrer sur le craft et l'instinct.)
+> (C'est un virage à gauche d'un groupe pleinement confiant dans ses forces, qui regarde en son intérieur pour se concentrer sur l'artisanat et l'instinct.)
 
-Le 21 août 2021, ils remportent avec _Soft Storm_ le prix du meilleur groupe aux 32e Golden Melody Awards. Le jury commente : « Ils ont brisé les frontières esthétiques de la musique sinophone ; non seulement leur technique est mature, mais ils influencent aussi beaucoup de jeunes groupes, avec une dimension internationale et un sentiment d'avenir. »[^29]
+Le 21 août 2021, ils ont remporté le prix du meilleur groupe lors de la 32e cérémonie des Golden Melody Awards avec _Soft Storm_. Le jury a commenté : « Brisant les barrières de l'esthétique musicale chinoise, ce groupe est non seulement techniquement maîtrisé, mais il influence également de nombreux jeunes groupes, possédant une dimension internationale et un sens de l'avenir. »[^29]
 
-Deux ans plus tard, le 11 janvier 2023, Coachella annonce le lineup complet de son édition 2023. Le nom de Sunset Rollercoaster apparaît sur la scène Sonora. Ce jour-là, le titre de l'article de Blow StreetVoice est :
+Deux ans plus tard, le 11 janvier 2023, Coachella a annoncé la programmation complète pour 2023. Le nom de Sunset Rollercoaster est apparu sur la scène Sonora. Un titre du journal Blow Street Voice décrivait cette journée ainsi :
 
-> « Pour la première fois en plus de vingt ans d'existence du festival Coachella, un groupe taïwanais est invité à monter sur une grande scène. »[^30]
+> « Pour la première fois en plus de vingt ans d'existence du festival Coachella, un groupe taïwanais est invité à jouer sur une grande scène. »[^30]
 
-Le 15 avril 2023, à 19 h 55, heure d'été du Pacifique, à l'Empire Polo Club d'Indio, en Californie. Sunset Rollercoaster monte sur la scène Sonora[^31]. Leur setlist de neuf titres commence par la Waltz No. 2 de Chostakovitch, clin d'œil à _Eyes Wide Shut_, puis enchaîne 〈Vanilla Villa〉, 〈Burgundy Red〉, 〈My Jinji〉, 〈Summum Bonum〉, [〈Jellyfish〉](https://www.youtube.com/watch?v=RLULD4LEN-I), 〈I'm a Fish〉, et se termine par 〈Candlelight〉.
+Le 15 avril 2023, à 19h55, heure avancée du Pacifique, au Empire Polo Club d'Indio, en Californie, Sunset Rollercoaster a joué sur la scène Sonora [^31]. Le setlist de 9 chansons était : ouverture avec le Waltz n° 2 de Shostakovich (en hommage à _Eyes Wide Open_), suivi de 〈Vanilla Villa〉, 〈Burgundy Red〉, 〈My Jinji〉, 〈Summum Bonum〉, [〈Jellyfish〉](https://www.youtube.com/watch?v=RLULD4LEN-I), 〈I'm a Fish〉 et clôture avec 〈Candlelight〉.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/2DcCAC2m_CU" title="Sunset Rollercoaster - Vanilla Villa (Official Video), 2019" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Clip officiel de 〈Vanilla Villa〉 sur la chaîne du groupe, single principal de l'EP du même nom sorti en 2019, et premier morceau joué sur la scène Sonora de Coachella 2023 après l'ouverture par Chostakovitch. Le clip adopte le vernis d'un film de science-fiction japonais des années 1970, mais le récit est celui d'un « extraterrestre qui tombe amoureux d'un humain ». Le même album sera classé quatrième meilleur album asiatique de 2020 par \_NME_ ; trois ans plus tard, cinq mille fans américains hochent la tête ensemble dans le désert californien.\_
+_La vidéo officielle 〈Vanilla Villa〉, sortie en 2019 pour l'EP du même nom, fut la première chanson jouée après le prélude de Shostakovich sur la scène Sonora de Coachella 2023. Le clip est réalisé dans un style rappelant les films de science-fiction japonais des années 70, mais le récit parle d'« extraterrestres amoureux des humains ». Ce même album a été classé quatrième par NME en 2020 et a fait vibrer cinq mille fans américains dans le désert californien trois ans plus tard._
 
-« Hello, nous sommes Sunset Rollercoaster, de Taïwan. Très heureux d'être avec vous ce soir », dit Kuo Kuo en ouverture[^32].
+« Bonjour, nous sommes Sunset Rollercoaster de Taïwan, nous sommes ravis d'être avec vous ce soir », a commencé Kuo Kuo [^32].
 
-Sonora est l'une des petites scènes intérieures de Coachella, d'une capacité d'environ 5 000 personnes, mais ce soir-là, la foule déborde jusque devant la tente. La plupart des fans européens et américains appartiennent à la génération qui a découvert 〈My Jinji〉 par Spotify Discover Weekly ; pour la première fois, ils peuvent voir que les personnes qui chantent ce titre sont asiatiques, et plus précisément taïwanaises, non japonaises ni coréennes. Quelques spectateurs brandissent des T-shirts noirs portant l'inscription SUNSET ROLLERCOASTER ; plusieurs étudiants taïwanais aux États-Unis ont traversé des États en voiture pour assister au concert. Les guides touristiques de Taipei, le désert californien, la City Pop subtropicale : trois lignes qui n'auraient pas dû se croiser se superposent, cet après-midi-là, sous la tente Sonora.
+La scène Sonora est l'une des scènes intérieures plus petites de Coachella, avec une capacité d'environ 5 000 personnes, mais ce jour-là, le public était tellement nombreux qu'il débordait hors de la tente. La plupart des fans européens et américains découvraient 〈My Jinji〉 via Spotify Discover Weekly ; c'était la première fois qu'ils voyaient un Asiatique — et un Taïwanais, pas Japonais ni Coréen — interpréter cette chanson. Quelques spectateurs dispersés portaient des T-shirts noirs portant le nom SUNSET ROLLERCOASTER, et quelques étudiants taïwanais en échange venaient voir ce concert en voiture à travers les États. Le guide de Taipei, le désert californien, la City Pop subtropicale — trois lignes qui ne devraient pas se croiser se sont superposées dans la tente Sonora pour former un après-midi.
 
-Une semaine plus tard, le 22 avril, pendant le deuxième week-end de Coachella, ils remontent une nouvelle fois sur la scène Sonora, avec dix titres[^33].
+Une semaine plus tard, le 22 avril, lors du deuxième week-end de Coachella, ils ont joué une nouvelle fois sur la scène Sonora, avec 10 chansons [^33].
 
-« J'ai l'impression qu'à Taïwan, aucun groupe n'est aussi occidentaliste que nous, aussi désireux d'obtenir la reconnaissance du monde ; alors je me suis dit que j'allais essayer de voir jusqu'où on pouvait aller », dit Kuo Kuo dans une interview au magazine _VERSE_[^34].
+« J'ai l'impression qu'à Taïwan, il n'y a pas encore de groupe comme nous qui soit aussi obsédé par l'Occident et désireux d'obtenir la reconnaissance mondiale, donc je voulais voir jusqu'où on pouvait aller », a décrit Kuo Kuo dans une interview avec le magazine VERSE [^34].
 
-> ⚠️ **Point de controverse** : L'expression « premier groupe taïwanais en 33 ans de Coachella » s'est répandue en 2023 après que certains médias chinois ont repris _Taiwan News_, mais elle est logiquement impossible : Coachella a commencé en 1999 ; en 2023, le festival n'avait que 24 ans. La formulation de Blow StreetVoice, « premier groupe invité en plus de vingt ans », est la description correcte. Ce type de distorsion amplifiée par un « chiffre frappant » est un pattern typique apparu après la première visibilité massive d'un groupe taïwanais dans le monde anglophone : le sentiment de fierté l'emporte sur la vérification des faits.
+> ⚠️ **Point de vue contesté** : L'affirmation selon laquelle ils seraient « les premiers groupes taïwanais à Coachella depuis 33 ans » a été propagée par certains médias chinois en copiant Taiwan News en 2023, mais c'est logiquement impossible : Coachella n'a commencé qu'en 1999 et n'a fait que 24 ans en 2023. La description correcte est celle de Blow Street Voice : « la première invitation depuis plus de vingt ans ». Ce type de distorsion amplifiée lors de la diffusion de ces « chiffres étonnants » est un schéma typique après la première visibilité massive des groupes taïwanais dans le monde anglophone, où le sentiment d'honneur éclipse la vérification des faits.
 
-## Devenir sa propre lumière
+## Être sa propre lumière
 
-En 2017, le groupe coréen Hyukoh vient pour la première fois en tournée à Taipei. En coulisses, le chanteur Oh Hyuk reçoit de The Black Skirts la recommandation d'aller voir Sunset Rollercoaster en concert. Oh Hyuk en sort starstruck ; Kuo Kuo le reconnaît aussi. Les deux frontmen s'ajoutent sur Instagram, et Kuo Kuo emmène Oh Hyuk faire un tour dans Taipei[^35].
+Le groupe de K-pop Hyukoh est venu en tournée à Taipei pour la première fois en 2017. Le chanteur principal, Oh Hyuk, a été recommandé par « The Black Skirts » dans les coulisses pour aller voir le spectacle de Sunset Rollercoaster. Oh Hyuk l'a reconnu après avoir été ébloui (_starstruck_), et Kuo Kuo l'a également reconnu. Les deux _frontman_ se sont ajoutés sur Instagram, et Kuo Kuo a emmené Oh Hyuk faire un tour de Taipei [^35].
 
-Trois ans plus tard, le 5 octobre 2020, Sunset Rollercoaster publie discrètement un single intitulé 〈Candlelight〉, feat. OHHYUK[^41]. Dans cette chanson d'un peu plus de quatre minutes, le saxophone de Kuo Kuo laisse une ouverture à mi-parcours pour qu'Oh Hyuk poursuive la seconde moitié en coréen. Pas de conférence de presse, pas d'annonce de collaboration transnationale : seulement deux frontmen qui, trois ans après s'être ajoutés sur Instagram, mettent pour la première fois la voix de l'autre dans leur propre chanson. 〈Candlelight〉 deviendra ensuite le morceau de clôture de la setlist de Sunset Rollercoaster sur la scène Sonora de Coachella 2023 : ce qui s'était écrit trois ans plus tôt dans des messages Instagram devient, trois ans plus tard, la dernière chanson écoutée ensemble par cinq mille personnes dans le désert.
+Trois ans plus tard, le 5 octobre 2020, Sunset Rollercoaster a discrètement sorti un single intitulé 〈Candlelight〉, en featuring OHHYUK [^41]. Cette chanson de plus de quatre minutes laissait une pause au milieu du saxophone de Kuo Kuo, permettant à Oh Hyuk de terminer la seconde partie en coréen. Sans conférence de presse ni annonce de collaboration internationale, c'était la première fois que les deux _frontman_ mettaient la voix de l'autre dans leur musique après s'être ajouté sur Instagram trois ans auparavant. 〈Candlelight〉 est devenue plus tard la chanson de clôture du setlist de la scène Sonora à Coachella en 2023 — quelque chose écrit par message privé sur Instagram il y a trois ans, devenu la dernière chanson écoutée par cinq mille personnes dans le désert trois ans plus tard.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/kb0whVogBkI" title="Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Clip officiel de 〈Candlelight feat. OHHYUK〉 sur la chaîne du groupe, mis en ligne le 5 octobre 2020. La version où Oh Hyuk poursuit en coréen la seconde moitié de Sunset Rollercoaster est la première graine de tout l'album \_AAA_, quatre ans avant la collaboration officielle de 2024.\_
+_La vidéo officielle du groupe, 〈Candlelight feat. OHHYUK〉, a été mise en ligne le 5 octobre 2020. Cette version où Oh Hyuk reprend la seconde partie de Sunset Rollercoaster en coréen est devenue la première graine de l'album complet 《AAA》, quatre ans avant l'album de collaboration officiel de 2024._
 
-Au cours des quatre années suivantes, cette graine devient lentement un album complet. De 2023 à 2024, Kuo Kuo et Oh Hyuk se rencontrent chaque mois, en alternance entre Gapyeong, Séoul et Jeju, pour écrire. En un an, ils composent huit chansons. Pas de réunions organisées par des agences, pas de mémo de collaboration, pas de calendrier de singles préétabli : les deux frontmen travaillent comme des chanteurs des années 1970, passant une semaine dans le studio de la ville de l'autre, sortant les instruments, buvant, parlant des rêves de la veille, puis écrivant une chanson. Kuo Kuo décrira plus tard cette année dans _Interview Magazine_ ainsi : « Nous sommes tous les deux très paresseux, assez paresseux pour que ce soit exactement possible, parce que trop d'application aurait tout gâché. » Ce rythme de collaboration anti-industriel relève presque d'une violation des lois de la physique dans les systèmes industriels de la K-pop et de la pop sinophone.
+Les quatre années suivantes ont vu cette graine grandir pour former un album complet. De 2023 à 2024, Kuo Kuo et Oh Hyuk se rencontraient chaque mois entre Jiaxing, Séoul et Jeju pour écrire des chansons. Huit chansons par an. Sans réunion arrangée par une agence, sans protocole de collaboration, sans calendrier de single prédéfini, les deux _frontman_ vivaient dans le studio de la ville de l'autre pendant une semaine, comme les artistes des années 1970 : ils sortaient leurs instruments, buvaient, parlaient de leurs rêves de la nuit, puis écrivaient une chanson. Plus tard, Kuo Kuo a décrit cette année dans une interview pour Interview Magazine : « Nous étions tous paresseux, tellement paresseux que c'était parfait pour faire ça, car être trop travailleur aurait gâché le truc. » Ce rythme de collaboration anti-industriel est presque une violation des lois de la physique dans le système industriel du K-pop et de la pop chinoise.
 
-Le 10 juillet 2024 sort _AAA_, album collaboratif de Sunset Rollercoaster × Hyukoh[^36]. Huit titres : 〈Kite War〉, 〈Y〉, 〈Antenna〉, 〈Glue〉, 〈Young Man〉, 〈Do Nothing〉, 〈Aaaannnnteeeeennnaaaaaa〉, 〈2F 年輕人〉. L'album n'emprunte aucune des formules existantes de la « collaboration transnationale » : pas de duo taïwano-coréen démonstratif, pas d'assemblage bilingue. Il construit plutôt un pont qui n'existait pas encore entre City Pop et alt-rock, à partir de deux groupes indie asiatiques.
+Le 10 juillet 2024, 《AAA》 a été publié, l'album collaboratif Sunset Rollercoaster × Hyukoh [^36]. Huit chansons : 〈Kite War〉, 〈Y〉, 〈Antenna〉, 〈Glue〉, 〈Young Man〉, 〈Do Nothing〉, 〈Aaaannnnteeeeennnaaaaaa〉, 〈2F Jeunesse〉. L'album n'a suivi aucune formule de « collaboration internationale » préexistante (pas de duo taïwan-corée, pas d'assemblage bilingue), mais plutôt la construction d'un pont inédit entre deux groupes indie asiatiques, entre City Pop et alt-rock.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/4HZiS4VtscU" title="HYUKOH(혁오), Sunset Rollercoaster - Antenna (Official MV)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Clip officiel de 〈Antenna〉 sur la chaîne de HYUKOH, l'un des huit titres de \_AAA_. Les deux frontmen de Taipei et de Séoul se passent leurs lignes vocales dans la même chanson ; le coréen et l'anglais ne forment pas un duo ni des sous-titres traduits, ils entrent simplement à tour de rôle. Cette décision d'arrangement est en elle-même la démonstration la plus directe que « l'indie asiatique peut tenir sans se traduire vers l'Europe ou l'Amérique ».\_
+_La vidéo officielle 〈Antenna〉 de HYUKOH est l'une des huit chansons d'《AAA》. Les voix des deux *frontman*, ceux de Taipei et de Séoul, se succèdent dans la même chanson ; le coréen et l'anglais ne sont pas en duo ni traduits, ils se relaient simplement. Cette décision d'arrangement est elle-même la démonstration la plus directe que « l'indie asiatique peut fonctionner sans dépendre des traductions européenne ou américaine »._
 
-Chien Miao-ju écrivait en 2018 dans _Mingrentang_ une phrase qui décrit aujourd'hui _AAA_ avec encore plus de précision : « [leur musique] a ruminé une grande quantité d'influences rock britanniques et américaines... à la fois rétro-romantique et avant-gardiste. La douceur fluide du chant reste très asiatique. »[^37]
+Comme l'a écrit Jian Miao Ru en 2018 à Mingnandang, ceci décrit 《AAA》 avec plus de précision : « Après avoir digéré une grande influence du rock anglo-américain... il est à la fois romantique rétro et avant-gardiste. Le chant doux et fluide reste très asiatique. » [^37]
 
-Le 28 juin 2025, la cérémonie des 36e Golden Melody Awards se tient au Taipei Arena. _AAA_ est nommé dans neuf catégories, dont chanson de l'année, meilleur groupe, meilleur producteur d'album, meilleur album d'enregistrement vocal, meilleur clip musical. Il repart finalement avec trois prix : meilleur clip musical, meilleur album d'enregistrement vocal et meilleur design d'album[^38]. Le fait qu'une œuvre de groupes transnationaux soit reconnue dans les axes centraux du prix musical sinophone le plus crédible de Taïwan, notamment meilleur album et meilleur producteur, marque la première fois depuis la création des Golden Melody Awards en 1990 qu'un album collaboratif « à moitié coréen » atteint un tel niveau de nominations.
+Le 28 juin 2025, la 36e cérémonie des Golden Melody Awards s'est tenue au Taipei Arena. 《AAA》 a été nominé pour neuf catégories, y compris la chanson de l'année, le meilleur groupe, le meilleur producteur d'album, le meilleur album enregistré et le meilleur clip vidéo. Ils ont finalement remporté trois prix : celui du meilleur clip vidéo, celui du meilleur album enregistré et celui du meilleur design d'emballage [^38]. Le fait qu'une œuvre de groupe international ait été reconnue dans les catégories majeures comme l'album et le producteur par le système de récompenses musicales chinoises le plus crédible depuis la tenue des Golden Melody Awards en 1990, est un événement sans précédent pour une « collaboration semi-coréenne ».
 
-Après le concert de Sunset Rollercoaster à Coachella, un journaliste de _VERSE_ pose une question à Kuo Kuo : pensez-vous être désormais une « lumière de Taïwan » ?
+Après leur performance à Coachella, un journaliste du magazine VERSE a posé une question à Kuo Kuo : Pensez-vous que vous êtes maintenant une « lumière de Taïwan » ?
 
-> « Je n'ai pas envie de porter le titre de lumière de Taïwan. Tant que je fais bien ce que j'ai à faire et que je deviens ma propre lumière, c'est ce qu'il y a de mieux. »[^39]
+> « Je ne veux pas porter le titre de "lumière de Taïwan" ; je veux juste bien faire ce que je fais, être ma propre lumière, c'est déjà parfait. » [^39]
 
-Le 8 août 2025, ils sortent à nouveau sans préavis leur cinquième album complet, _QUIT QUIETLY 悄悄消消_[^40]. Onze titres, accumulés sur cinq années depuis _Soft Storm_, avec des collaborations transdisciplinaires incluant Oh Hyuk, Leah Dou, la compagnie de danse Bulareyaung et Yuma Abe, chanteur de Never Young Beach.
+Le 8 août 2025, ils ont à nouveau sorti sans prévenir leur cinquième album complet, 《QUIT QUIETLY 消悄消》 [^40]. Avec 11 chansons, il s'agit de l'accumulation des cinq années suivant _Soft Storm_, avec des collaborations interculturelles incluant Wu He, Dou Jingtong, le groupe Braleyang et Yuma Abe, chanteur de Never Young Beach.
 
-> ✦ Personne, dans ce petit bar de Shida Road à Taipei en 2010, n'aurait pu prévoir que le preset Photo Booth de ce Mac, avec sa silhouette de montagnes russes et de coucher de soleil, deviendrait quatorze ans plus tard les lettres affichées sur le fond de scène du désert de Coachella. Personne non plus, cet après-midi de 2015 où Kuo Kuo reçut son avis d'exemption militaire, n'aurait pu prévoir qu'un garçon presque empêché de servir à cause de 1 300 degrés de myopie finirait par chanter en anglais les après-midis étouffants de Taipei, et condenserait dans deux syllabes la manière dont une île s'est le plus fait entendre dans le monde : JinJi.
+> ✦ Personne n'aurait pu prédire dans un petit bar de Taipei à Shida en 2010 : qu'un cliché Photo Booth contenant une montagne russe et un coucher de soleil deviendrait l'arrière-plan d'une scène désertique à Coachella 14 ans plus tard. Personne n'aurait pu prédire le jour où Kuo Kuo a reçu son congé en 2015 : qu'un garçon atteint de -1300 dioptries, qui aurait pu être réformé, finirait par chanter l'après-midi chaud de Taipei entièrement en anglais, encapsulant la manière dont une île est le plus entendue au monde, dans deux syllabes : JinJi.
 >
-> Chanter le coucher de soleil de Taipei entièrement en anglais a finalement permis à Taïwan d'être entendu comme jamais.
+> Le coucher de soleil de Taipei chanté entièrement en anglais a paradoxalement rendu Taïwan le plus entendu du monde.
 >
-> Cette lumière est partie d'une photo de fond Photo Booth choisie au hasard, et elle a atteint une scène dans le désert.
+> Cette lumière, partie d'un arrière-plan Photo Booth pris au hasard, est parvenue sur la scène du désert.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — De Crystal Records dans les années 1980 à Sunset Rollercoaster, No Party for Cao Dong et Collage dans les années 2020 : les lignes de développement de la musique indépendante taïwanaise
-- [Culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture) — De Spring Scream et Megaport Festival au Hohaiyan Rock Festival : les transformations des scènes festivalières taïwanaises
-- [Musique populaire taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De la folk song movement des années 1970 à l'ère du streaming dans les années 2020 : histoire de la pop taïwanaise
-- [Industrie musicale taïwanaise et ère du streaming](/fr/music/taiwan-music-industry-and-the-streaming-era) — Les mécanismes de portée mondiale des groupes taïwanais à l'époque de l'algorithme Spotify
-- [Deserts Chang et Anpu](/fr/music/deserts-chang-and-anpu) — Les collaborations scéniques de Kuo Kuo comme guitariste du groupe Algae entre 2012 et 2016
+- [Scène de l'indie à Taïwan](/fr/music/indie-music-scene) — L'axe du développement musical indépendant taïwanais des « disques cristallins » des années 1980 aux Sunset Rollercoaster, Caodong et Kolachi des années 2020
+- [Culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture) — L'évolution du paysage des festivals de musique taïwanais, de _Spring Scream_ à Da Gang Kaichang, en passant par le Festival marin de Gongliao
+- [Musique populaire à Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'histoire de la pop taïwanaise, du mouvement folk des années 70 à l'ère du streaming dans les années 2020
+- [Industrie musicale et ère du streaming à Taïwan](/fr/music/taiwan-music-industry-and-the-streaming-era) — Le mécanisme de portée mondiale des groupes taïwanais à l'ère des algorithmes Spotify
+- [Chang Hsien et An Pu](/fr/music/deserts-chang-and-anpu) — Les collaborations sur scène de Kuo Kuo en tant que guitariste pour le groupe Algae entre 2012 et 2016
 
----
+## Sources d'images
 
-## Sources des images
-
-- **Image héro et images inline de l'article** : trois photos de Sunset Rollercoaster en concert le 6 avril 2018, par [Puramyun31](https://commons.wikimedia.org/wiki/User:Puramyun31) (Wikimedia Commons), licence CC BY 2.5 Generic : [(1).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(1).jpg>), [(5).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(5).jpg>), [(8).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(8).jpg>). Les trois images proviennent du même concert, prises au Fujifilm X100F, et documentent l'atmosphère d'un concert taïwanais de Sunset Rollercoaster juste avant le lancement de leur tournée mondiale de 2018.
+- **Images en vedette et dans le corps du texte** : Trois photos de la performance de Sunset Rollercoaster le 6 avril 2018, prises sur place par [Puramyun31](https://commons.wikimedia.org/wiki/User:Puramyun31) (Wikimedia Commons), sous licence CC BY 2.5 Generic, sont fournies : [(1).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(1).jpg>) , [(5).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(5).jpg>) , et [(8).jpg](<https://commons.wikimedia.org/wiki/File:%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_(8).jpg>) . Ces trois clichés (prises avec un Fujifilm X100F) témoignent de l'ambiance du concert taïwanais avant le début de la tournée mondiale de Sunset Rollercoaster en 2018.
 
 ---
 
 ## Références
 
-[^1]: [Page officielle Spotify de 〈My Jinji〉](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) — Morceau de l'EP _JINJI KIKKO_ de Sunset Rollercoaster, sorti en 2016. En janvier 2025, il dépasse le milliard d'écoutes cumulées sur Spotify, l'un des records historiques de streaming pour un single d'un groupe indépendant taïwanais.
+[^1]: [〈My Jinji〉Page officiel de Spotify](https://open.spotify.com/track/7wmFsS43fO8vAg0vcr776N) — Morceau de l'EP _JINJI KIKKO_ sorti en 2016, qui a dépassé les cent millions d'écoutes sur Spotify jusqu'en janvier 2025, marquant un record pour un groupe indépendant taïwanais.
 
-[^2]: [« Sunset Rollercoaster devient le premier groupe taïwanais invité à monter sur une grande scène de Coachella »](https://blow.streetvoice.com/65246/) — Article de Blow Music (StreetVoice), 11 janvier 2023. Après l'annonce du lineup complet de Coachella 2023 en janvier 2023, StreetVoice publie immédiatement ce reportage en chinois ; le titre original emploie « en plus de vingt ans » pour décrire cette place historique, et non le chiffre erroné de « 33 ans » diffusé ensuite par _Taiwan News_.
+[^2]: [« Le groupe taïwanais qui est le premier à être invité à la grande scène de Coachella »](https://blow.streetvoice.com/65246/) — Article publié par Blow Music (StreetVoice) le 11 janvier 2023. C'est le premier article en chinois publié après l'annonce du line-up de Coachella en janvier 2023, utilisant « plus de vingt ans » pour décrire son statut historique (par opposition au chiffre erroné de « 33 ans » qui a circulé sur Taiwan News).
 
-[^3]: [Interview de Kuo Kuo (partie 2)](https://thefunksoulspectre.wordpress.com/2018/09/14/sunset-rollercoaster-pt3/) — Blog _The Funk Soul Spectre_, publié le 14 septembre 2018. Kuo Kuo y explique directement que le nom Sunset Rollercoaster vient du preset de fond « Sunset Rollercoaster » de Mac Photo Booth lors de l'inscription sur MySpace ; c'est la source de première main la plus directe sur l'origine du nom du groupe.
+[^3]: [Interview de Kuo Kuo (Partie 2)](https://thefunksoulspectre.wordpress.com/2018/09/14/sunset-rollercoaster-pt3/) — Publié par le blog The Funk Soul Spectre le 14 septembre 2018. Kuo Kuo explique personnellement que le nom du groupe Sunset Rollercoaster provient du préréglage Mac Photo Booth « Sunset Rollercoaster » utilisé lors de l'inscription sur MySpace, ce qui est la source la plus directe de l'origine du nom du groupe.
 
-[^4]: [Page StreetVoice de F.L.A.T CLUB](https://streetvoice.com/flatclub/) — L'un des groupes post-punk auxquels Kuo Kuo a participé entre le lycée et l'université, avant la formation de Sunset Rollercoaster.
+[^4]: [Page du groupe Club Jeunesse Faux Artistique StreetVoice](https://streetvoice.com/flatclub/) — L'un des groupes post-punk dans lesquels il a participé pendant ses études secondaires et universitaires, avant la formation de Sunset Rollercoaster.
 
-[^5]: [« Interview des dix ans de Come on! BayBay! »](https://thepolysh.com/blog/2016/09/04/cobb-interview/) — Publié dans _POLYSH_ le 4 septembre 2016. L'article mentionne que Chen Hung-li, qui rejoindra plus tard Sunset Rollercoaster comme bassiste, et Kuo Kuo étaient déjà anciens camarades de groupe dans Come on! BayBay! avant la formation de Sunset Rollercoaster ; Birdman (Huang Shih-wei) faisait également partie de ce groupe.
+[^5]: [« Allez ! Beibei ! Interview décennale »](https://thepolysh.com/blog/2016/09/04/cobb-interview/) — Publié par le magazine POLYSH le 4 septembre 2016. Il mentionne que Chen Hongli (qui a rejoint Sunset Rollercoaster comme bassiste) et Kuo Kuo étaient déjà des anciens camarades de groupe « Allez ! Beibei ! » avant la formation de Sunset Rollercoaster, et que Tori Ren (Huang Shih-wei) était également membre du groupe.
 
-[^6]: [Archives de concerts d'Underworld, 2009](https://en.wikipedia.org/wiki/Sunset_Rollercoaster) — Le premier concert attesté de Sunset Rollercoaster apparaît le 29 janvier 2009 à Underworld, sur Shida Road. Ce livehouse était l'un des lieux centraux de la scène indie de Taipei dans les années 2000, avant de fermer en 2013 à la suite du renouvellement urbain.
+[^6]: [Enregistrement d'une performance à Underworld en 2009](https://en.wikipedia.org/wiki/Sunset_Rollercoaster) — Le plus ancien enregistrement connu de Sunset Rollercoaster date du 29 janvier 2009, dans le club underground de Shida University Road. Ce livehouse était l'un des lieux centraux de la scène indie de Taipei au début des années 2000, avant d'être fermé en 2013 suite à une rénovation urbaine.
 
-[^7]: [Page officielle Bandcamp de _Bossa Nova_](https://sunset-rollercoaster.bandcamp.com/album/bossa-nova) — Premier album autoproduit par Sunset Rollercoaster le 22 septembre 2011. À l'époque, le style est plutôt surf rock lo-fi, très différent de la City Pop développée après la reformation de 2015.
+[^7]: [Page officielle Bandcamp de _Bossa Nova_](https://sunset-rollercoaster.bandcamp.com/album/bossa-nova) — Le premier album auto-financé par Sunset Rollercoaster, sorti le 22 septembre 2011. Le style de l'époque était plutôt rock surf lo-fi, ce qui diffère nettement du style City Pop après la reformation en 2015.
 
-[^8]: [_VERSE_, « Une soft storm venue de Taïwan »](https://www.verse.com.tw/article/sunset-rollercoaster) — Portrait de Sunset Rollercoaster par le magazine _VERSE_, qui documente en détail l'envoi du mastering du premier album à Abbey Road Studios à Londres, où Steve Rooke l'a traité.
+[^8]: [VERSE « La tempête douce venant de Taïwan »](https://www.verse.com.tw/article/sunset-rollercoaster) — Un portrait de Sunset Rollercoaster dans le magazine VERSE, détaillant le processus d'enregistrement du master du premier album à Abbey Road Studios à Londres, au Royaume-Uni, par Steve Rooke.
 
-[^9]: [Wikipédia d'Anpu (Deserts Chang) — Membres du groupe Algae](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%87%B8) — Kuo Kuo rejoint fin 2012 le groupe d'accompagnement Algae d'Anpu comme guitariste, en remplacement de Sante, et y reste jusqu'à la fin de la tournée d'adieu annoncée par Deserts Chang au début de 2016.
+[^9]: [Wikipedia An Pu (Chang Hsien) — Membre du groupe Algae](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%87%B8) — Kuo Kuo a rejoint le groupe de musique accompagnatrice d'An Pu, Algae, en tant que guitariste à la fin de 2012, remplaçant l'ancien membre Sigan, jusqu'à ce qu'An Pu annonce la fin des tournées au début de 2016.
 
-[^10]: [Interview de Sunset Rollercoaster dans _Bandcamp Daily_](https://daily.bandcamp.com/features/sunset-rollercoaster-interview) — Entretien par Isabela Raygoza, publié dans _Bandcamp Daily_ le 10 août 2016. Kuo Kuo y mentionne le side project dark industrial « Fossil » réalisé avec le batteur Luo Tsun-lung pendant la séparation, et explique que « nous voulions essayer autre chose » était la raison de la rupture.
+[^10]: [Interview Sunset Rollercoaster Bandcamp Daily](https://daily.bandcamp.com/features/sunset-rollercoaster-interview) — Interrogée par Isabela Raygoza, publiée dans Bandcamp Daily le 10 août 2016. Dans l'interview, Kuo Kuo mentionne le side-project dark industrial « Fossil » avec le batteur Luo Zunlong pendant la période de dissolution, et explique que la raison de la séparation était « nous voulions essayer autre chose ».
 
-[^11]: [« Sunset Rollercoaster, Kuo Kuo : dix ans de paysages »](https://500times.udn.com/wtimes/story/12671/5820709) — Publié par _500 Times_ (United Daily News) en 2021. Dans l'entretien, Kuo Kuo revient sur le moment où, après avoir reçu en 2015 son avis d'exemption militaire en raison de 1 300 degrés de myopie, il décide de s'investir sérieusement dans le groupe comme carrière.
+[^11]: [« Sunset Rollercoaster Kuo Kuo : 10 ans d'paysage »](https://500times.udn.com/wtimes/story/12671/5820709) — Publié dans le magazine 500 (édité par United Daily) en 2021. Dans l'interview, Kuo Kuo revient sur le moment où il a décidé de prendre la musique au sérieux comme carrière après avoir reçu un avis de dispense du service militaire à cause de son astigmatisme de 1300 degrés en 2015.
 
-[^12]: [Compte rendu de martonmart sur le concert au The Wall en 2015](https://martonmart.wordpress.com/2015/07/02/) — Blog personnel documentant les détails du premier concert de reformation de Sunset Rollercoaster au The Wall, à Taipei, le 1er juillet 2015.
+[^12]: [Récit live martonmart The Wall 2015](https://martonmart.wordpress.com/2015/07/02/) — Un blog personnel documente les détails de la première reformation de Sunset Rollercoaster à The Wall à Taipei le 1er juillet 2015.
 
-[^13]: [Page officielle Bandcamp de l'EP _JINJI KIKKO_](https://sunset-rollercoaster.bandcamp.com/album/jinji-kikko-ep) — Premier EP sorti par Sunset Rollercoaster après sa reformation, le 1er mars 2016. Il contient 〈Burgundy Red〉, 〈My Jinji〉 et 〈New Drug〉, et marque le point de départ du style City Pop du groupe.
+[^13]: [Page officielle Bandcamp de _JINJI KIKKO_](https://sunset-rollercoaster.bandcamp.com/album/jinji-kikko-ep) — Le premier EP sorti par Sunset Rollercoaster après leur reformation, le 1er mars 2016. Il contient les trois titres « Burgundy Red », « My Jinji » et « New Drug », marquant le point de départ du style City Pop du groupe.
 
-[^14]: [« Les dandys taïwanais qui déferlent sur l'Asie »](https://www.twreporter.org/a/taiwan-indie-bands) — Article de Chiang Yi-ting, publié par _The Reporter_ le 6 juin 2019. Il documente en détail l'expansion du public de Sunset Rollercoaster en Indonésie, en Corée et en Asie du Sud-Est entre 2017 et 2019, y compris la scène de Jakarta où la scène d'un centre commercial se met à trembler sous la foule.
+[^14]: [« Le jeune homme taïwanais qui envahit l'Asie »](https://www.twreporter.org/a/taiwan-indie-bands) — Rédigé par Jiang Yiting, publié en tant que journaliste le 6 juin 2019. Il documente en détail l'expansion de l'audience de Sunset Rollercoaster sur les marchés indonésien, coréen et du Sud-Est asiatique entre 2017 et 2019, y compris un enregistrement où la scène d'un centre commercial à Jakarta a été secouée par la foule.
 
-[^15]: Voir [^14] : d'après le reportage de _The Reporter_ citant _NME_ en 2019, Jakarta, sur Spotify Indonesia, était alors la ville où Sunset Rollercoaster comptait le plus d'auditeurs mensuels, indicateur de l'explosion réelle de cette « City Pop subtropicale » auprès d'un public subtropical.
+[^15]: Comme [^14] : Selon le reportage cité par les journalistes dans NME en 2019, Spotify Indonesia Jakarta était la ville avec le plus d'auditeurs mensuels de Sunset Rollercoaster à l'époque, et c'était un indicateur où le « City Pop tropical » a vraiment explosé auprès du public tropical.
 
-[^16]: [Marie Claire Taïwan, « Le groupe taïwanais Sunset Rollercoaster, populaire à l'étranger »](https://www.marieclaire.com.tw/entertainment/story/48161) — L'entretien clarifie l'étymologie de « Jinji », liée au classique bossa nova portugais 〈Dindi〉 d'Antonio Carlos Jobim, signifiant « chéri », et non au mot chinois pour « kumquat ».
+[^16]: [Marie Claire Taiwan : Le groupe de Taiwan Sunset Rollercoaster, 'rouge à l'étranger'](https://www.marieclaire.com.tw/entertainment/story/48161) — Cette interview clarifie l'étymologie du nom « Jinji » en relation avec la chanson classique Bossa Nova d'Antonio Carlos Jobim, « Dindi » (qui signifie « mon amour »), et non le mandarin « kumquat ».
 
-[^17]: [Page de l'événement SummerStage Taiwanese Waves 2016](https://www.centralpark.com/events/summerstage-taiwanese-waves-anpu-wonfu-sunset-rollercoaster/) — Concert du SummerStage de Central Park, le 16 juillet 2016, dans la série Taiwanese Waves coorganisée par le ministère de la Culture ; Sunset Rollercoaster y joue aux côtés d'Anpu et Wonfu.
+[^17]: [Page de l'événement Taiwanese Waves 2016 à SummerStage](https://www.centralpark.com/events/summerstage-taiwanese-waves-anpu-wonfu-sunset-rollercoaster/) — L'événement du 16 juillet 2016 au Central Park de New York, faisant partie de la série Taiwanese Waves organisée par le Ministère de la Culture, où Sunset Rollercoaster a joué avec An P'u et Wang Fu.
 
-[^18]: Voir [^14] : la description de Taipei donnée par Kuo Kuo dans l'interview de _The Reporter_ en 2019, « assez plate... relativement confortable, mais dont on ne peut jamais vraiment sortir », est la citation de première main la plus importante pour comprendre la sensation urbaine de Sunset Rollercoaster.
+[^18]: Comme [^14] : Le témoignage d'un journaliste en 2019 décrivant l'attitude de Taïwan par la Chine comme « relativement plate... un peu confortable, mais incapable de dépasser les difficultés » est le plus important témoignage personnel sur le sentiment urbain de Sunset Rollercoaster.
 
-[^19]: Voir [^3] : dans l'interview, Kuo Kuo répond à la question « pourquoi choisir l'anglais » par cette phrase : « Quand tu es un groupe qui chante en anglais, les auditeurs qui écoutent déjà de la musique occidentale l'absorbent avec le moins de dissonance possible. Troisième point : si c'est en anglais, ton public, c'est le monde entier. »
+[^19]: Comme [^3] : La réponse à la question « Pourquoi l'anglais ? » lors d'une interview en Chine était : « Lorsque vous êtes un groupe qui chante en anglais, votre public est déjà habitué à la musique occidentale, donc c'est le moins étrange pour eux. Troisième chose, si c'est en anglais, votre public est le monde entier. »
 
-[^20]: [Sunset Rollercoaster on Audiotree Live, YouTube](https://www.youtube.com/watch?v=slUc-4WCnhc) — Session complète de Sunset Rollercoaster enregistrée le 26 septembre 2018 dans le studio Audiotree à Chicago, avec cinq titres, mise en ligne le 18 octobre. Le groupe est le premier groupe taïwanais invité par Audiotree. En mai 2026, la vidéo dépasse 1,1 million de vues.
+[^20]: [Sunset Rollercoaster on Audiotree Live YouTube](https://www.youtube.com/watch?v=slUc-4WCnhc) — Vidéo de session complète de Sunset Rollercoaster enregistrée au Chicago Audiotree le 26 septembre 2018, avec 5 chansons complètes, mise en ligne le 18 octobre. C'est le premier groupe taïwanais invité par Audiotree. Au 20 mai 2026, les vues cumulées dépassent 1,1 million.
 
-[^21]: [Page officielle Bandcamp de _Cassa Nova 半熟王子_](https://sunset-rollercoaster.bandcamp.com/album/cassa-nova) — Deuxième album complet, sorti le 14 mars 2018 sur le label propre du groupe, Sunset Music Productions. Neuf titres, avec un passage complet du surf rock lo-fi vers la City Pop, la disco et le funk.
+[^21]: [Page de l'album officiel 《Cassa Nova Semi-Mûr Prince》 sur Bandcamp](https://sunset-rollercoaster.bandcamp.com/album/cassa-nova) — Le deuxième album complet, sorti le 14 mars 2018 sous leur propre label « Sunset Music Industry », avec 9 chansons, passant d'un style rock surf lo-fi à City Pop / disco / funk.
 
-[^22]: [« L'essor YouTube... tournée internationale de Sunset Rollercoaster »](https://www.mirrormedia.mg/story/20200529insight010) — Article de Chen Li-yen, publié dans _Mirror Media_ le 29 mai 2020. Il documente en détail les plus de 100 concerts donnés par Sunset Rollercoaster en 2018, en Chine, au Japon, en Corée, en Asie du Sud-Est, aux États-Unis, en Europe, au Mexique, etc.
+[^22]: [« L'ascension de YouTube... la tournée internationale de Sunset Rollercoaster »](https://www.mirrormedia.mg/story/20200529insight010) — Rédigé par Chen Li-yan et publié dans Mirror Weekly le 29 mai 2020. Il raconte en détail la tournée mondiale de plus de 100 concerts de Sunset Rollercoaster en 2018, incluant la Chine, le Japon, la Corée, l'Asie du Sud-Est, les États-Unis, l'Europe et le Mexique.
 
-[^23]: Voir [^14] : _The Reporter_ décrit en détail le concert de Sunset Rollercoaster dans un parking de centre commercial à Jakarta, en Indonésie, interrompu plus tôt que prévu parce que le public trop intense faisait trembler la scène.
+[^23]: Comme [^14] : Le récit détaillé par un journaliste en 2019 d'une performance de Sunset Rollercoaster dans un parking commercial à Jakarta, Indonésie, qui a dû être interrompue prématurément car le public était trop intense et avait fait trembler la scène.
 
-[^24]: [« Traverser les mers pour trinquer »](https://www.biosmonthly.com/article/9834) — Entretien dans le magazine en ligne _BIOS Monthly_. Il aborde les problèmes structurels du développement international des groupes indie taïwanais à partir du coût des tournées internationales et de l'observation du marché sinophone.
+[^24]: [« Voyager par-delà les mers pour faire du bruit »](https://www.biosmonthly.com/article/9834) — Une interview en ligne de BIOS Monthly. Elle explore les problèmes structurels du développement international des groupes indie taïwanais sous l'angle des coûts des tournées internationales et de l'observation du marché chinois.
 
-[^25]: [Page de Sunset Rollercoaster au Fuji Rock '19](https://19.fujirockfestival.com/artist/detail/5330) — Concert sur la scène Red Marquee le 27 juillet 2019. Sunset Rollercoaster est le premier groupe taïwanais à monter sur l'une des grandes scènes du Fuji Rock Festival au Japon.
+[^25]: [Page de l'événement Fuji Rock '19 pour Sunset Rollercoaster](https://19.fujirockfestival.com/artist/detail/5330) — Performance sur la scène Red Marquee le 27 juillet 2019. Sunset Rollercoaster est devenu l'un des premiers groupes taïwanais à jouer sur une grande scène du Festival Fuji Rock au Japon.
 
-[^26]: [Page officielle Bandcamp de _Soft Storm 柔性風暴_](https://sunset-rollercoaster.bandcamp.com/album/soft-storm) — Troisième album complet, sorti le 30 octobre 2020, avec le morceau 〈Overlove〉 réalisé en collaboration avec le musicien américain Ned Doheny.
+[^26]: [Page de l'album officiel 《Soft Storm Tempête Douce》 sur Bandcamp](https://sunset-rollercoaster.bandcamp.com/album/soft-storm) — Le troisième album complet, sorti le 30 octobre 2020, en collaboration avec l'musicien américain Ned Doheny pour la chanson « Overlove ».
 
-[^27]: Voir [^8] : _VERSE_ documente en détail la rencontre inattendue de Kuo Kuo avec son idole Ned Doheny, session musician américain des années 1970 ayant écrit pour les Eagles et Linda Ronstadt, lors d'une tournée à Los Angeles en 2019, ainsi que l'invitation qui l'a conduit à collaborer à Taipei.
+[^27]: Comme [^8] : Le magazine VERSE a détaillé comment Sunset Rollercoaster a rencontré par hasard son idole Ned Doheny (un musicien de session américain des années 70 qui a écrit pour Eagles, Linda Ronstadt, etc.) lors d'une tournée à Los Angeles en 2019 et l'a invité à collaborer à Taipei.
 
-[^28]: [_NME_, « 25 Best Asian Albums of 2020 »](https://www.nme.com/en_asia/features/nme-best-asia-albums-of-the-year-2020-2841878) — Liste annuelle de _NME Asia_, par Daniel Peters. _NME_ classe _Soft Storm_ quatrième meilleur album asiatique de 2020, soulignant un retour vers l'intérieur d'un groupe confiant dans son propre style.
+[^28]: [NME « Les 25 meilleurs albums asiatiques de 2020 »](https://www.nme.com/en_asia/features/nme-best-asia-albums-of-the-year-2020-2841878) — Rédigé par Daniel Peters pour la version asiatique de NME. NME a classé 《Soft Storm》 comme le quatrième album de l'année en Asie en 2020, soulignant dans son évaluation la confiance du groupe dans son propre style.
 
-[^29]: [« Golden Melody Awards 2021 : Sunset Rollercoaster, meilleur groupe »](https://www.thenewslens.com/article/155361) — Article de _The News Lens_, 21 août 2021. Transcription mot à mot du commentaire du jury des 32e Golden Melody Awards attribuant le prix du meilleur groupe à Sunset Rollercoaster.
+[^29]: [« Sunset Rollercoaster, le meilleur groupe de l'année 2021 »](https://www.thenewslens.com/article/155361) — Reportage du 21 août 2021 par TNL Key Opinion Network. Il enregistre mot pour mot les commentaires du jury du 32e Prix Golden Melody concernant le prix du meilleur groupe.
 
-[^30]: Voir [^2] : reportage de Blow StreetVoice sur l'annonce de Coachella, 11 janvier 2023 ; le texte original emploie « premier groupe invité en plus de vingt ans » pour décrire cette place historique.
+[^30]: Comme [^2] : Le communiqué de Coachella du 11 janvier 2023, Blow Street Voice, a utilisé l'expression « premier à être invité en plus de vingt ans » pour décrire leur statut historique.
 
-[^31]: [Setlist Coachella 2023 Week 1](https://www.setlist.fm/setlist/sunset-rollercoaster/2023/empire-polo-club-indio-ca-13b885e9.html) — Base de données collaborative setlist.fm. Elle documente les neuf titres joués le 15 avril 2023, de 19 h 55 à 20 h 40, heure d'été du Pacifique, sur la scène Sonora de l'Empire Polo Club à Indio, Californie.
+[^31]: [Setlist de la première semaine de Coachella 2023](https://www.setlist.fm/setlist/sunset-rollercoaster/2023/empire-polo-club-indio-ca-13b885e9.html) — Enregistrement du groupe édité par les fans sur setlist.fm. Enregistrement complet de 9 chansons, du 15 avril 2023 à 19:55-20:40 (heure avancée du Pacifique), au Empire Polo Club Sonora, Californie.
 
-[^32]: [_VERSE_, « Sunset Rollercoaster après Coachella : devenir sa propre lumière »](https://www.verse.com.tw/article/sunset-rollercoaster-vibes-04) — Contient la phrase d'ouverture du concert à Coachella, « Hello, nous sommes Sunset Rollercoaster, de Taïwan. Très heureux d'être avec vous ce soir », ainsi qu'un entretien ultérieur mot à mot.
+[^32]: [VERSE « Sunset Rollercoaster après Coachella : être sa propre lumière »](https://www.verse.com.tw/article/sunset-rollercoaster-vibes-04) — Contient le discours d'introduction de la performance de Coachella « Bonjour, nous sommes Sunset Rollercoaster de Taiwan et nous sommes heureux de vous retrouver ce soir » et l'interview subséquente verbatim.
 
-[^33]: [Setlist Coachella 2023 Week 2](https://www.setlist.fm/setlist/sunset-rollercoaster/2023/empire-polo-club-indio-ca-23b83453.html) — Base de données collaborative setlist.fm. Elle documente les dix titres joués sur la scène Sonora lors du deuxième week-end, le 22 avril 2023, dont les deux derniers sont 〈In My Head〉 et 〈I Know You Know I Love You〉.
+[^33]: [Setlist de la deuxième semaine de Coachella 2023](https://www.setlist.fm/setlist/sunset-rollercoaster/2023/empire-polo-club-indio-ca-23b83453.html) — Enregistrement du groupe édité par les fans sur setlist.fm. Enregistrement complet de 10 chansons, le week-end suivant à Sonora, avec comme dernières chansons « In My Head » et « I Know You Know I Love You ».
 
-[^34]: Voir [^32] : dans l'entretien post-Coachella de _VERSE_, Kuo Kuo décrit son ambition par cette phrase : « J'ai l'impression qu'à Taïwan, aucun groupe n'est aussi occidentaliste que nous, aussi désireux d'obtenir la reconnaissance du monde. »
+[^34]: Comme [^32] : la description par Kuo-guo de son ambition dans l'interview post-Coachella de VERSE : « J'ai l'impression qu'il n'y a pas d'un groupe à Taiwan comme nous qui soit aussi obsédé par l'Occident, qui veuille tant être reconnu au niveau mondial ».
 
-[^35]: [_NME_, « HYUKOH × Sunset Rollercoaster AAA interview »](https://www.nme.com/features/music-features/hyukoh-sunset-rollercoaster-aaa-interview-3789952) — Histoire de la première rencontre entre Oh Hyuk et Kuo Kuo : en 2017, lors de la première tournée de Hyukoh à Taipei, The Black Skirts recommande à Oh Hyuk d'aller voir Sunset Rollercoaster en coulisses.
+[^35]: [Interview NME « HYUKOH × Sunset Rollercoaster AAA »](https://www.nme.com/features/music-features/hyukoh-sunset-rollercoaster-aaa-interview-3789952) — L'histoire de la première rencontre entre Oh Hyuk et Kuo-guo : en 2017, lors de la première tournée à Taipei de Hyukoh, ils ont été présentés par 'The Black Skirts' pour voir Sunset Rollercoaster en coulisses.
 
-[^36]: [Page officielle Bandcamp de _AAA_](https://sunset-rollercoaster.bandcamp.com/album/aaa) — Album collaboratif entre Sunset Rollercoaster et le groupe coréen Hyukoh, sorti le 10 juillet 2024. Huit titres, copubliés par Sunset Music Productions et le label coréen Doolset.
+[^36]: [Page album officiel AAA sur Bandcamp](https://sunset-rollercoaster.bandcamp.com/album/aaa) — L'album du 10 juillet 2024, en collaboration avec le groupe coréen Hyukoh, composé de 8 chansons, distribué par 'Sunset Music Industry' et Doolset (Corée).
 
-[^37]: [« Dix ans de maturation, nouvelle musique subtropicale taïwanaise (partie 1) »](https://opinion.udn.com/opinion/story/8490/3160075) — Article de Chien Miao-ju publié dans _Mingrentang_ (United Daily News) le 24 mai 2018. Cette critique précoce décrit le style de Sunset Rollercoaster comme ayant « ruminé une grande quantité d'influences rock britanniques et américaines... à la fois rétro-romantique et avant-gardiste. La douceur fluide du chant reste très asiatique ».
+[^37]: [« Dix ans de maturation, nouvelle musique subtropicale taïwanaise (partie 1) »](https://opinion.udn.com/opinion/story/8490/3160075) — Écrit par Jian Miao-ru, publié dans Ming Ren Tang (United Daily News) le 24 mai 2018. Les critiques précoces décrivaient le style de Sunset Rollercoaster comme « ayant digéré beaucoup d'influences rock anglo-américaines... à la fois romantique et rétro, mais moderne et avant-gardiste. Le chant doux et fluide est toujours très asiatique ».
 
-[^38]: [« _AAA_ nommé dans neuf catégories aux Golden Melody 36 et récompensé par trois prix »](https://www.thenewslens.com/article/252941) — Article de _The News Lens_, 28 juin 2025. Compte rendu de la cérémonie des 36e Golden Melody Awards, tenue le 28 juin 2025 au Taipei Arena : _AAA_ de Sunset Rollercoaster est nommé dans neuf catégories et en remporte trois, meilleur clip musical, meilleur album d'enregistrement vocal et meilleur design d'album.
+[^38]: [« AAA nominé pour 9 prix du Golden Melody 36, en ramenant 3 récompenses »](https://www.thenewslens.com/article/252941) — Reporté par TNL Key Opinion Network le 28 juin 2025. Lors de la 36e cérémonie des Golden Melody Awards (le 28 juin 2025 au Taipei Arena), Sunset Rollercoaster avec 'AAA' a été nominé pour neuf prix et en a remporté trois (Meilleur clip vidéo, Meilleur album chanté, Meilleure conception d'emballage).
 
-[^39]: Voir [^32] : dans l'entretien post-Coachella de _VERSE_, Kuo Kuo répond à l'appellation « lumière de Taïwan » par : « Je n'ai pas envie de porter le titre de lumière de Taïwan. Tant que je fais bien ce que j'ai à faire et que je deviens ma propre lumière. »
+[^39]: Comme [^32] : la réponse de Kuo-guo au surnom « Lumière de Taiwan » dans l'interview post-Coachella de VERSE : « Je ne veux pas porter le titre de 'Lumière de Taiwan', je veux juste bien faire mon travail et être ma propre lumière ».
 
-[^40]: [Page d'achat officielle de _QUIT QUIETLY 悄悄消消_ sur le site du groupe](https://www.sunsetrollercoaster.com/news) — Cinquième album complet, sorti sans préavis le 8 août 2025. Onze titres, avec des collaborations transdisciplinaires incluant Oh Hyuk, Leah Dou, la compagnie de danse Bulareyaung et Yuma Abe, chanteur de Never Young Beach.
+[^40]: [Page d'achat du site officiel de groupe QUIT QUIETLY](https://www.sunsetrollercoaster.com/news) — Le cinquième album complet, sorti sans préavis le 8 août 2025, composé de 11 chansons, avec des collaborations inter-genres incluant Wu He, Dou Jingtong, Brass Band et Yuma Abe (chanteur principal de Never Young Beach).
 
-[^41]: [Clip officiel de 〈Candlelight feat. OHHYUK〉 sur la chaîne du groupe](https://www.youtube.com/watch?v=kb0whVogBkI) — Single de Sunset Rollercoaster mis en ligne le 5 octobre 2020, sur lequel le chanteur Kuo Kuo invite à distance Oh Hyuk, chanteur du groupe coréen Hyukoh, en featuring. C'est la première graine de l'album collaboratif complet _AAA_ de 2024. Le morceau est ensuite inclus dans le troisième album complet _Soft Storm_, sorti le 30 octobre 2020, et devient le titre de clôture de la setlist de Sunset Rollercoaster sur la scène Sonora de Coachella en 2023.
+[^41]: [Vidéo officielle « Candlelight feat. OHHYUK »](https://www.youtube.com/watch?v=kb0whVogBkI) — Le single publié par Sunset Rollercoaster le 5 octobre 2020, où Kuo-guo a invité en guest Oh Hyuk du groupe coréen Hyukoh, marquant la première graine de l'album complet 'AAA' de 2024. Il a été inclus dans le troisième album complet 'Soft Storm', sorti le 30 octobre 2020, et est devenu une chanson de clôture lors du setlist de Coachella Sonora en 2023.

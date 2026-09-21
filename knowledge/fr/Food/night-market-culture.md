@@ -1,188 +1,192 @@
 ---
-title: 'La culture des marchés de nuit à Taïwan'
-description: '164 marchés de nuit officiellement répertoriés, un pour 38 000 habitants à Tainan — des parvis de temples aux destinations touristiques internationales'
+title: 'La culture des marchés nocturnes de Taïwan'
+description: '164 marchés nocturnes gérés, Taïnan comptant en moyenne 38 000 habitants pour un marché nocturne, des ruelles aux attractions touristiques internationales'
 date: 2026-03-21
-tags:
-  ['marché de nuit', 'street food', 'culture', 'tourisme', 'vie quotidienne']
-subcategory: 'Scènes culinaires'
 category: 'Food'
+tags:
+  ['marchés nocturnes', 'street-food', 'culture', 'tourisme', 'vie populaire']
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 image: '/article-images/food/shilin-night-market-crowd-2015.webp'
-imageAlt: 'Culture des marchés de nuit à Taïwan'
+imageAlt: 'Foule au marché nocturne de Shilin'
 imageCredit: 'Richy / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:cad0161e7864d0ae'
-sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
-translatedAt: '2026-04-14T12:29:04+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86820d44ddf9a31a'
+sourceBodyHash: 'sha256:d37208c6e0c05c9c'
+translatedAt: '2026-09-22T04:48:28+08:00'
 ---
 
-# La culture des marchés de nuit à Taïwan
+# La culture des marchés nocturnes de Taïwan
 
-> **En 30 secondes :** En 2023, Taïwan compte 164 marchés de nuit (夜市) officiellement répertoriés. La seule ville de Tainan en concentre 49 — soit un marché pour 38 000 habitants, la densité la plus élevée au monde. Des lanternes à pétrole de Dadaocheng sous la dynastie Qing aux sites touristiques internationaux d'aujourd'hui, les marchés de nuit taïwanais ont traversé 150 ans d'histoire. Derrière une omelette aux huîtres à 50 dollars taïwanais se cache le reflet d'une vie populaire insulaire, et l'une des expressions les plus puissantes du soft power de Taïwan, qui attire chaque année des dizaines de millions de visiteurs.
+> **Résumé en 30 secondes :** En 2023, Taïwan comptait 164 marchés nocturnes gérés, dont 49 à la ville de Tainan — en moyenne, un marché nocturne pour 38 000 habitants, la densité la plus élevée au monde. Des marchés illuminés par des réverbères d’huile à la dynastie Qing jusqu’aux attractions touristiques internationales d’aujourd’hui, les marchés nocturnes de Taïwan traversent 150 ans d’histoire. Derrière un bol d’œufs de crevette vendu 50 NT$, se cache le reflet de la vie populaire de l’île, ainsi que l’atout doux d’une destination attirant des dizaines de millions de touristes chaque année.
 
-## 150 ans d'histoire, des lampes à pétrole aux enseignes au néon
+## 150 ans, des réverbères à néon
 
-Dans le Dadaocheng des années 1870, la nuit ne tombait pas sur le silence. Les commis des maisons de commerce rangeaient leurs registres à la lueur des lampes à pétrole, tandis que les marchands de nouilles et de boulettes de riz maintenant leurs braseros allumés pour servir les travailleurs attardés et les voyageurs de passage. C'est là, vraisemblablement, que se trouve l'embryon du marché de nuit taïwanais.
+Dans les années 1870, le quartier de Dadaocheng à Taïpei ne dormait pas après le coucher du soleil. Les commerçants allumaient des réverbères à huile pour continuer à inventorier leurs marchandises, tandis que les étals de nouilles et de rondelles de viande s’apprêtaient à s’allumer. C’est probablement l’un des premiers « marchés nocturnes » de Taïwan.
 
-Le premier témoignage documenté remonte à 1908. Le journal _Taiwan Daily News_ décrit un marché nocturne installé sur l'esplanade du temple Tianhou à Qijin, Kaohsiung, ouvert de 18h à minuit, proposant petits plats et articles divers. Durant la période japonaise, les « rassemblements de fraîcheur nocturne » — ces soirées estivales où les habitants se retrouvaient pour profiter de la brise du soir et assister à des représentations — ont également favorisé l'essor des étals ambulants, naturellement attirés par ces foules.
+Le premier marché nocturne documenté officiellement date de 1908. Le journal _Taiwan Shimbun_ rapporta la présence d’un marché nocturne devant le temple Tianhou à Kaohsiung, ouvrant de 18 heures à minuit, vendant des collations et des produits d’épicerie. Les « réunions de rafraîchissement » de l’époque coloniale japonaise renforcèrent ce phénomène — les gens se rassemblaient en été pour se distraire et voir des spectacles, et les vendeurs suivirent naturellement.
 
-Les années 1950, dans l'après-guerre, représentent la véritable explosion de la culture des marchés de nuit. Dans une économie dévastée, le petit commerce de rue est devenu pour beaucoup l'unique moyen de subsistance. Les parvis de temples, les espaces libérés après la fermeture des marchés de jour, tout était bon pour installer un étal. Avec l'urbanisation, ces vendeurs dispersés se sont progressivement regroupés pour former les marchés que vous connaissez aujourd'hui.
+Les années 1950, après la guerre, marquent l’explosion de la culture des marchés nocturnes. Dans un contexte économique difficile, les petites entreprises devenaient la source de revenus de nombreuses familles. Les espaces vacants autour des temples et des marchés couverts furent envahis par les étals. Avec l’urbanisation, ces vendeurs se concentrèrent progressivement, formant les marchés nocturnes que nous connaissons aujourd’hui.
 
-## 164 marchés : ce que les chiffres révèlent vraiment
+## Les chiffres derrière les 164 marchés nocturnes
 
-Selon les statistiques 2023 du Bureau régional du ministère des Affaires économiques, Taïwan compte **164 marchés de nuit officiellement répertoriés**. Ce chiffre n'inclut pas les petits marchés non répertoriés ni les vendeurs itinérants : le nombre réel dépasse probablement les 300.
+Selon les statistiques du Bureau de coordination de la région centrale du ministère de l’Économie en 2023, Taïwan compte **164 marchés nocturnes gérés**. Ce chiffre n’inclut pas les petits marchés non officiels ni les étals mobiles, dont le nombre réel pourrait dépasser 300.
 
-**Tainan est le royaume incontesté des marchés de nuit**, avec 49 sites représentant près d'un tiers du total national. Le calcul est éloquent : 1,85 million d'habitants, un marché pour 38 000 personnes. Une densité sans équivalent sur la planète. La philosophie de vie à Tainan semble se résumer à une question quotidienne : « Dans quel marché de nuit allons-nous ce soir ? »
+**Tainan est le royaume des marchés nocturnes**, avec 49 marchés représentant près d’un tiers de l’ensemble. Faisons le calcul : avec une population de 1,85 million, un habitant sur 38 000 possède un marché nocturne. Une densité unique au monde. La philosophie de vie tainine semble être : « Aujourd’hui, quel marché nocturne allons-nous visiter ? »
 
-Taipei, à l'inverse, ne compte que 11 marchés de nuit répertoriés, mais leur notoriété et leur ampleur compensent largement. Le **marché de nuit de Shilin** accueille jusqu'à 100 000 visiteurs certains week-ends — l'équivalent de la population entière d'une petite ville qui converge en un seul lieu.
+Comparativement, Taïpei ne compte que 11 marchés nocturnes gérés, mais leur envergure et leur notoriété sont plus grandes. Le **marché nocturne de Shilin** attire jusqu’à 100 000 visiteurs le week-end, soit l’équivalent de la population d’une petite ville.
 
-## Trois marchés légendaires et leur histoire
+## Les trois marchés légendaires : avant et après
 
-### Shilin : du marché municipal à la marque internationale
+### Le marché nocturne de Shilin : du marché couvert à la marque internationale
 
-Le marché de nuit de Shilin trouve ses origines dans le marché municipal fondé en 1909. Dans les années 1950, des vendeurs ambulants commencèrent à s'agglutiner autour de ses abords, formant progressivement un marché nocturne. En 1983, l'ouverture de la galerie souterraine de la rue Jihe officialisa sa vocation et son emprise.
+Le marché nocturne de Shilin était autrefois le marché de Shilin, fondé en 1909. À partir des années 1950, des vendeurs commencèrent à s’installer autour du marché, formant progressivement un marché nocturne. En 1983, la rue Jihe ouvrit sa underground street alimentaire, consolidant définitivement l’ampleur du marché nocturne de Shilin.
 
-Aujourd'hui, Shilin se déploie sur deux niveaux : en surface, le quartier autour du cinéma Yangming, dédié aux vêtements et aux articles divers ; en sous-sol, la galerie gastronomique consacrée au street food. La **grande côtelette de poulet frite** y est la vedette incontestée — depuis 1988 et l'ouverture du premier stand Haodada, cette escalope plus grande qu'un visage est devenue mythique. À 90 dollars taïwanais la pièce, la file d'attente ne désemplit jamais.
+Aujourd’hui, le marché nocturne de Shilin est divisé en deux parties : le rez-de-chaussée autour du cinéma Yangming vend des vêtements et des accessoires, tandis que la underground street se concentre sur la street-food. **Le poulet frit géant** est l’attraction phare — la première boutique « Poulet frit Poulet » ouvrit en 1988, créant la légende du poulet frit plus grand qu’une main. À 90 NT$ l’unité, ce n’est pas bon marché, mais la file d’attente ne cesse jamais de s’arrêter.
 
-### Liuhe : le pionnier du tourisme international
+### Le marché nocturne de Liuhe : le pionnier du tourisme international
 
-Le marché de Liuhe est né dans les années 1950 autour des étals qui s'installaient sur les terrains vagues de Dagangpu. En 1987, la municipalité de Kaohsiung transforma les 200 mètres de la rue Liuhe en zone piétonne, créant ainsi le premier marché de nuit à vocation touristique planifié par une administration locale à Taïwan.
+Le marché nocturne de Liuhe commence dans les années 1950 comme un regroupement de vendeurs sur la place de Dajiaogang. En 1987, la mairie de Kaohsiung aménagea un trottoir piéton sur 200 mètres de la rue Liuhe, créant le premier marché nocturne touristique planifié par le gouvernement.
 
-La **congee aux fruits de mer** y est une institution : crevettes, crabes, huîtres, poisson — tout plonge dans le bouillon. Un bol à 120 dollars taïwanais, plébiscité par les visiteurs étrangers. CNN a classé Liuhe parmi les « marchés de nuit incontournables du monde », principalement pour ses spécialités de la mer.
+Le **riz aux fruits de mer** de Liuhe est généreux : crevettes, crabe, huîtres et poisson sont tous mis dans la marmite. À 120 NT$ le bol, c’est un favori des touristes étrangers. CNN a classé le marché nocturne de Liuhe parmi « les marchés nocturnes incontournables du monde », attiré par ces plats de fruits de mer.
 
-### Fengjia : le laboratoire de l'innovation culinaire
+### Le marché nocturne de Fengjia : le laboratoire de l’innovation culinaire
 
-Le marché de Fengjia s'est développé dans les années 1960, mais son essor fulgurant date des années 1990. La proximité de l'université Feng Chia, avec ses dizaines de milliers d'étudiants curieux et dépensiers, en a fait le terrain d'expérimentation idéal pour les nouvelles créations culinaires.
+Le marché nocturne de Fengjia émerge dans les années 1960, mais connaît véritablement son essor dans les années 1990. Avec une forte concentration d’étudiants à l’Université Fengjia et une clientèle jeune, ce lieu devint le berceau de l’innovation culinaire.
 
-**Les takoyaki** y ont été réinventés. Dans les années 1990, le premier stand de boulettes de poulpe a importé la recette japonaise, mais en l'enrichissant de mayonnaise à la taïwanaise et de flocons d'algues, donnant naissance au « takoyaki à la taïwanaise ». Aujourd'hui présent dans tous les marchés de l'île, ce snack est né ici, à Fengjia.
+**Les boulettes de pieuvre** sont l’invention locale de Fengjia. Dans les années 1990, le premier étang de pieuvre introduisit la recette japonaise, mais y ajouta de la mayonnaise locale et des pâtes de nori, créant les « boulettes de pieuvre style taïwanais ». Aujourd’hui, on trouve des boulettes de pieuvre dans tous les marchés nocturnes, et leur origine remonte à Fengjia.
 
-## L'omelette aux huîtres et sa chaîne d'approvisionnement
+## La chaîne d’approvisionnement derrière un bol d’œufs de crevette
 
-Le street food de marché de nuit, aussi simple qu'il paraisse, repose sur une filière impressionnante. Prenez l'omelette aux huîtres :
+Derrière les apparences simples des collations de marché nocturne se cache une vaste chaîne industrielle. Prenons l’exemple des œufs de crevette :
 
-**Les huîtres** proviennent principalement des zones d'élevage côtières de Yunlin et Chiayi. La production taïwanaise annuelle avoisine les 20 000 tonnes, dont un tiers est destiné aux marchés de nuit. D'un coup de couteau sur la corde de collecte à son apparition sur un étal allumé, une huître fraîche peut parcourir l'ensemble de la chaîne — récolte, lavage, transport, grossistes — en moins de 24 heures.
+**Les crevettes** proviennent principalement des pêcheries côtières de Yunlin et de Chiayi. Les éleveurs locaux produisent environ 20 000 tonnes par an, dont un tiers entre dans les marchés nocturnes. Dès la récolte, les crevettes traversent une chaîne de collecte, de lavage, de transport et de gros commerce, pouvant arriver sur le comptoir du client en moins de 24 heures.
 
-**La fécule de patate douce** vient des champs de Erlin, dans le Changhua. Contrairement à la fécule de tapioca ordinaire, cette poudre spécifique donne à l'omelette sa texture élastique et légèrement caoutchouteuse, caractéristique de la version taïwanaise.
+**La pâte de patate douce** provient des champs de patates douces de Yingjiang à Changhua. Ce n’est pas de la fécule de riz classique qui est utilisée pour les œufs de crevette, mais une pâte à base de patate douce, donnant une texture unique et moelleuse.
 
-**Les légumes** — chou de Shanghai ou chrysanthème couronné, selon les saisons — arrivent des fermes maraîchères de Yunlin et Changhua. Un stand actif peut écouler 200 portions par nuit, mobilisant 5 kilos d'huîtres, 2,5 kilos de légumes et 50 œufs. Derrière chaque omelette, des dizaines d'agriculteurs et de pêcheurs.
+**Les légumes** comprennent généralement du chou napa ou des épinards, souvent issus des exploitations agricoles de Yunlin et de Changhua. Un seul étang de œufs de crevette peut vendre 200 portions par jour, nécessitant 10 livres de crevettes, 5 livres de légumes et 50 œufs, reliant ainsi la vie de dizaines d’agriculteurs et de pêcheurs.
 
-## La recette secrète de l'innovation culinaire taïwanaise
+## Le secret de l’innovation des collations de marché nocturne
 
-Le vrai génie des marchés de nuit taïwanais, c'est la **localisation créative** : chaque plat venu d'ailleurs finit par se transformer une fois absorbé par Taïwan.
+Ce qui rend les marchés nocturnes de Taïwan si populaires, c’est leur capacité d’**innovation locale**. Lorsqu’un aliment étranger entre à Taïwan, il subit nécessairement une transformation.
 
-Le **gâteau au poivre** (_hújiāobǐng_) est originaire de Fuzhou, mais la version taïwanaise adopte du poivre noir, agrémente de ciboule et intensifie les saveurs. Le **gua bao** vient du Fujian, mais Taïwan y ajoute de la choucroute fermentée, de la poudre de cacahuète et de la coriandre, créant une superposition de saveurs absente de l'original.
+**Le gâteau aux poivres** était un dessert de Fuzhou, mais la version taïwanaise utilise du poivre noir et ajoute des oignons, renforçant le goût. **Les sandwichs** s’inspirent de la cuisine de Fujian, mais les versions taïwanaises incluent du chou au vinaigre, de la pâte de cacahuète et de la coriandre, créant des saveurs plus complexes.
 
-**Le bubble tea est une invention purement taïwanaise.** Dans les années 1980, la maison de thé Chun Shui Tang de Taichung a eu l'idée d'incorporer des billes de tapioca dans du lait de thé, créant ainsi l'une des boissons les plus populaires de la planète. Aujourd'hui, au Japon on l'appelle « thé taïwanais », aux États-Unis « Bubble Tea » — tous deux revendiquent ouvertement l'héritage taïwanais.
+**Le thé à perles** est une invention purement taïwanaise. Dans les annes 1980, le restaurant Chun Shui Tang à Taichung ajouta des billes de tapioca à son thé au lait, créant une boisson qui conquit le monde entier. Aujourd’hui, le thé à perles est appelé « thé taïwanais » au Japon et « bubble tea » en Amérique du Nord, tous deux soulignant ses racines taïwanaises.
 
-**La gaufre ronde** (_chēlúnbǐng_) a également été transformée. Là où les Japonais se limitent à la pâte de haricots rouges, les Taïwanais ont inventé des dizaines de garnitures : crème, chocolat, taro, matcha, et bien d'autres encore. Certains stands en proposent vingt variétés — un cauchemar pour les indécis, un paradis pour les gourmands.
+**Les gâteaux de roulettes** sont également une innovation taïwanaise. Les Japonais préparent des gâteaux à la pâte de haricots rouges, mais les Taïwanais ont inventé des variantes à la crème, au chocolat, à la purée de patate douce et au thé matcha. Un seul étang de gâteaux de roulettes peut proposer 20 saveurs différentes, un véritable cauchemar pour les indécis.
 
-## La vie nomade des marchés itinérants
+## La vie nomade des marchés nocturnes mobiles
 
-Au-delà des marchés fixes, Taïwan compte environ 100 **marchés de nuit itinérants**. Ces caravanes de vendeurs sillonnent la campagne selon un calendrier établi : lundi dans le bourg A, mardi dans le bourg B, cinq ou six étapes par semaine.
+En plus des marchés nocturnes fixes, Taïwan possède environ 100 **marchés nocturnes mobiles**. Ces groupes de vendeurs voyagent d’une ville à l’autre chaque semaine : lundi dans un village, mardi dans le suivant, visitant 5 à 6 endroits par semaine.
 
-Le **marché itinérant de Caotun**, dans le Nantou, en est un bel exemple. Une quarantaine de camions-boutiques suivent le circuit : lundi à Caotun, mardi à Mingjian, mercredi à Zhushan, jeudi à Jiji, vendredi à Shuili. À chaque étape, les étals se montent sur un terrain disponible, puis disparaissent après minuit, pour repartir vers la prochaine destination.
+Le **marché nocturne mobile de Nantou** est l’un des plus représentatifs. Avec 40 camions de vendeurs, il voyage chaque semaine : lundi à Caochuan, mardi à Mingjian, mercredi à Zhushan, jeudi à JiJi, vendredi à Shuishu. À chaque arrivée, ils montent rapidement leurs étals sur une place, et les démontent après minuit, prêts à partir pour le prochain village.
 
-Ce modèle répond à un besoin réel dans les zones rurales qui manquent d'infrastructures commerciales permanentes. Pour les personnes âgées vivant à la campagne, le passage du marché itinérant est bien plus qu'une occasion de faire des courses — c'est un événement social hebdomadaire. Les vendeurs connaissent leurs habitués par leur prénom, savent ce qu'ils aiment manger, ce qui se passe dans leur famille.
+Ce modèle d’affaires répond à un besoin crucial dans les zones rurales : offrir des services commerciaux là où il n’y en a pas assez. Pour les habitants âgés des campagnes, le marché nocturne mobile n’est pas seulement un lieu d’achat, mais aussi un point de rencontre social hebdomadaire. Les vendeurs connaissent bien leurs clients réguliers, sachant qui aime quoi manger et ce qui s’est passé dans la famille de chacun.
 
-## Économie du marché de nuit : comment gagne-t-on sa vie avec une omelette à 50 dollars ?
+## L’économie des marchés nocturnes : comment gagner de l’argent avec 50 NT$ d’œufs de crevette
 
-Une omelette aux huîtres vendue 50 dollars taïwanais (environ 1,50 €). Voici la structure de coût approximative :
+Un bol d’œufs de crevette vendu 50 NT$ a la structure de coûts suivante :
 
-- Huîtres : 15 dollars (6 à 8 pièces)
-- Œuf : 5 dollars (1 pièce)
-- Légumes : 3 dollars
-- Fécule et condiments : 2 dollars
-- Location de l'emplacement (proratisée) : 8 dollars
-- Gaz et électricité : 2 dollars
-- **Coût total estimé : 35 dollars — marge brute : 15 dollars**
+- Crevettes : 15 NT$ (6 à 8 pièces)
+- Œufs : 5 NT$ (1 pièce)
+- Légumes : 3 NT$
+- Pâte de patate douce et condiments : 2 NT$
+- Loyer du stand (partagé) : 8 NT$
+- Gaz et électricité : 2 NT$
+- **Coût total environ 35 NT$, bénéfice net 15 NT$**
 
-La marge semble mince, mais un stand populaire peut vendre 200 portions par nuit, générant 3 000 dollars de marge brute. Déduction faite des coûts de main-d'œuvre, un couple exploitant un stand d'omelettes aux huîtres peut dégager un revenu mensuel de 50 000 à 80 000 dollars taïwanais (1 500 à 2 400 €).
+À première vue, la marge est faible, mais un stand populaire peut vendre 200 portions par soirée, générant un bénéfice de 3 000 NT$. Après déduction des coûts salariaux, un couple gérant un stand d’œufs de crevette peut gagner entre 50 000 et 80 000 NT$ par mois.
 
-Ce scénario reste idéal. Dans la réalité, les aléas climatiques, la concurrence et la volatilité des prix des matières premières pèsent lourd. En 2022, une anomalie météorologique a réduit la production d'huîtres de 30 %, forçant de nombreux stands à réduire les portions ou à augmenter leurs tarifs.
+Bien sûr, ce scénario idéal ignore les risques réels : conditions météorologiques, concurrence, hausses des prix des matières premières. En 2022, la production de crevettes a baissé de 30 % à cause des conditions climatiques exceptionnelles, obligeant de nombreux vendeurs à réduire les quantités ou à augmenter les prix.
 
-## La carte de visite de Taïwan sur la scène internationale
+## La Taïwan nocturne sur la scène internationale
 
-Pour les visiteurs étrangers, le marché de nuit est la porte d'entrée la plus directe dans la vie quotidienne taïwanaise. En 2019, avant la pandémie, le marché de Shilin accueillait plus de 10 millions de touristes par an, dont un tiers d'étrangers.
+Pour les touristes étrangers, les marchés nocturnes sont la façon la plus directe d’expérimenter Taïwan. Avant la pandémie, en 2019, le marché nocturne de Shilin attirait plus de 10 millions de visiteurs par an, dont un tiers étaient des étrangers.
 
-**Les émissions gastronomiques de Netflix**, **les documentaires d'Anthony Bourdain**, **les reportages de CNN Voyages** — tous ont placé les marchés de nuit de Taïwan parmi les expériences incontournables. En 2018, lors de sa première édition taïwanaise, le guide Michelin a distingué plusieurs stands de marché, propulsant le street food local sur la scène gastronomique mondiale.
+Des émissions culinaires comme **Netflix Food Series** et **Anthony Bourdain : No Reservations** ainsi que des reportages de **CNN Travel** ont tous mis en avant les marchés nocturnes de Taïwan comme des destinations incontournables. En 2018, le guide Michelin a publié sa première édition à Taïwan, incluant plusieurs stands de marché nocturne, propulsant la street-food taïwanaise sur la scène mondiale.
 
-Mais l'internationalisation a ses revers. Pour séduire les touristes étrangers, certains stands ont commencé à adapter leurs recettes, à revoir leurs prix à la hausse et à afficher des menus en anglais. Résultat : les étrangers trouvent que c'est moins authentique, les locaux que c'est trop cher — une double insatisfaction difficile à résoudre.
+Cependant, la montée en puissance internationale pose des défis. Pour plaire aux touristes étrangers, certains stands ont modifié leurs recettes, augmenté leurs prix et ajouté des menus en anglais. Le résultat ? Les étrangers se plaignent que les plats ne sont pas assez authentiques, tandis que les locaux jugent les prix trop élevés — un déséquilibre frustrant pour tous.
 
-## Le défi de la transmission à la deuxième génération
+## Les défis de la relève : les jeunes générations de vendeurs
 
-Les marchés de nuit font face à une transition générationnelle délicate. Nombre des pionniers de la première génération ont vieilli, et leurs enfants ne sont pas forcément prêts à reprendre le flambeau.
+Les marchés nocturnes traversent aujourd’hui une transition générationnelle. Beaucoup de vendeurs de première génération sont désormais âgés, et leurs enfants ne souhaitent pas toujours reprendre le flambeau.
 
-**La famille Lin et ses tofu fermentés** illustre à la fois les possibilités et les limites de cette transition. Lin Chunsheng a ouvert son stand au marché de Shilin en 1975. Son fils, Lin Zhihong, diplômé d'université, a d'abord travaillé dans une entreprise technologique avant de reprendre l'affaire familiale en 2015. Il a installé un système de caisse numérique, lancé une offre de livraison à domicile, développé une présence sur les réseaux sociaux. Le chiffre d'affaires annuel est passé de 2 millions à 5 millions de dollars taïwanais.
+**Le stand de tofu fermenté de la famille Lin** au marché de Shilin illustre cette évolution. Le père, Lin Chunsheng, a commencé à vendre du tofu fermenté en 1975. Son fils, Lin Chih-hung, diplômé d’université, avait travaillé dans une entreprise technologique avant de reprendre le stand en 2015. Il a introduit un système de caisse numérique, développé un service de livraison à domicile et géré des réseaux sociaux, augmentant le chiffre d’affaires annuel de 2 millions à 5 millions de NT$.
 
-Mais la plupart des enfants de commerçants font le choix inverse. Le travail en marché de nuit est épuisant : préparation des ingrédients à 16h, démontage du stand après 1h du matin, quelques jours de congé seulement autour du Nouvel An lunaire. Les jeunes préfèrent souvent la sécurité d'un emploi salarié à ce rythme de vie.
+Pourtant, beaucoup de jeunes générations choisissent de s’éloigner. Travailler dans un marché nocturne est pénible : préparer les ingrédients à 16 heures, fermer à 1 heure du matin, et ne pas avoir de jours fériés toute l’année. Beaucoup de jeunes préfèrent devenir employés dans des entreprises, rejetant ce mode de vie éprouvant.
 
-La conséquence : un vieillissement du tissu des commerçants, un déficit d'innovation. Beaucoup de stands n'ont pas changé leur menu depuis vingt ans et fonctionnent encore à l'ancienne — paiement exclusivement en espèces, comptabilité manuscrite.
+En conséquence, les vendeurs deviennent de plus en plus âgés, et l’innovation stagne. De nombreux stands n’ont pas modifié leur menu depuis 20 ans, et leurs méthodes restent basées sur le paiement en espèces et la comptabilité manuscrite.
 
 ## Les douleurs de la transformation numérique
 
-La pandémie a accéléré la numérisation des marchés de nuit. L'irruption des plateformes de livraison, la généralisation du paiement mobile, l'essor de la commande en ligne ont contraint les commerçants traditionnels à apprendre de nouveaux outils.
+La pandémie a accéléré la numérisation des marchés nocturnes. Les plateformes de livraison, les paiements mobiles et les commandes en ligne se sont multipliées, obligeant les vendeurs traditionnels à apprendre de nouvelles technologies.
 
-**Le marché de Ningxia** s'est distingué dans cette transition. En 2020, il a lancé un système de commande en ligne permettant aux clients de passer leur commande via internet et de récupérer leur plat sur place, sans attente. La même année, il a intégré le système de paiement numérique « Taipei Pass », acceptant la carte de transport intégrée ou la carte bancaire.
+Le **marché nocturne de Nanya** est devenu un modèle de transformation. En 2020, il a lancé un service de commande en ligne, permettant aux clients de passer commande via internet et de récupérer leur repas sur place, évitant ainsi les files d’attente. La même année, il a adopté le paiement numérique via la carte EasyCard de Taïpei, facilitant les paiements par carte ou par carte bancaire.
 
-**Fengjia**, de son côté, s'est associé à Uber Eats et foodpanda, rendant les spécialités du marché accessibles à domicile. Pendant la pandémie, les ventes via livraison ont représenté 20 à 30 % du chiffre d'affaires total de certains stands, et quelques-uns ont même enregistré une hausse de leurs revenus globaux.
+Le **marché nocturne de Fengjia** a quant à lui collaboré avec Uber Eats et foodpanda, permettant aux consommateurs de déguster la street-food depuis leur domicile. Pendant la pandémie, les ventes via des plateformes de livraison représentaient 20 à 30 % du chiffre d’affaires total, augmentant même les revenus de certains vendeurs.
 
-Mais la numérisation a un prix. Les plateformes de livraison prélèvent 25 à 30 % de commission, ce qui rogne sérieusement les marges. Les équipements de paiement mobile nécessitent un investissement initial et des frais de transaction. Pour les commerçants plus âgés, apprendre à maîtriser ces outils représente un défi en soi.
+Cependant, la numérisation comporte un coût. Les plateformes de livraison prélèvent entre 25 et 30 % de frais, réduisant considérablement les marges bénéficiaires. Les paiements mobiles nécessitent un investissement dans l’équipement et des frais de transaction. Pour les vendeurs âgés, apprendre à utiliser ces nouvelles technologies est un défi en soi.
 
-## L'insoluble équation de la sécurité alimentaire et de l'environnement
+## L’impasse entre sécurité alimentaire et protection environnementale
 
-Les problèmes de sécurité alimentaire font régulièrement la une. En 2019, une intoxication alimentaire dans un marché de nuit de Changhua a envoyé plus de 40 personnes aux urgences après consommation de fruits de mer douteux. En 2021, un marché de Taipei a été épinglé pour utilisation d'ingrédients périmés.
+Les problèmes de sécurité alimentaire dans les marchés nocturnes sont régulièrement au cœur des actualités. En 2019, un événement de intoxication alimentaire dans un marché nocturne à Changhua a fait plus de 40 personnes hospitalisées après la consommation de fruits de mer contaminés. En 2021, un marché nocturne à Taïpei a été découvert utilisant des ingrédients périmés.
 
-Le problème vient de la difficulté à exercer un contrôle. Le nombre de stands, leur forte rotation et les ressources limitées des services sanitaires rendent toute surveillance exhaustive illusoire. Et dans un contexte de petits budgets contraints par la recherche du coût minimal, la traçabilité des matières premières et les conditions de conservation sont difficiles à garantir.
+Le problème réside dans la difficulté de surveillance. Avec des dizaines de milliers de vendeurs, une grande mobilité et des ressources limitées pour les autorités sanitaires, il est difficile de contrôler la qualité et la traçabilité des ingrédients. De plus, les petites entreprises cherchant à minimiser les coûts ont parfois du mal à garantir la qualité des matières premières et leurs conditions de stockage.
 
-La pression environnementale monte également. Les marchés de nuit génèrent des quantités considérables de déchets, notamment de vaisselle jetable. En 2020, la ville de Taipei a imposé aux commerçants de proposer un service de location de vaisselle réutilisable, mais l'application reste limitée : les clients trouvent la démarche contraignante, les vendeurs y voient une charge supplémentaire.
+Les pressions environnementales augmentent également. Les marchés nocturnes consomment massivement des ustensiles jetables, générant une quantité considérable de déchets. En 2020, Taïpei a exigé que les vendeurs proposent des services de location d’ustensiles écologiques, mais les résultats ont été limités — les consommateurs jugent cela contraignant, et les vendeurs estiment que cela augmente leurs coûts.
 
-## Les marchés de nuit à l'ère post-pandémique
+## Le nouvel aspect post-pandémique des marchés nocturnes
 
-La pandémie a profondément reconfiguré les marchés de nuit. Jauges de fréquentation, enregistrement obligatoire des visiteurs, distanciation physique — tout cela a transformé ces espaces festifs et bondés en lieux inhabituellement calmes. De nombreux commerçants de longue date n'ont pas survécu ; d'autres, plus jeunes, en ont profité pour s'installer.
+La pandémie a profondément transformé l’écosystème des marchés nocturnes. Les restrictions de flux, la registration obligatoire et le respect des distances sociales ont vidé les rues animées et animées. De nombreux vendeurs expérimentés ont fermé boutique, tandis que de nouveaux venus ont saisi l’opportunité.
 
-**Le rajeunissement** est une tendance nette. Les nouveaux arrivants ont généralement entre 30 et 40 ans, un bon niveau d'études, et savent exploiter les réseaux sociaux pour se faire connaître. Leurs stands affichent un design plus contemporain, des menus plus diversifiés, et des prix en conséquence.
+**La montée en puissance des jeunes générations** est un phénomène clair. Les nouveaux vendeurs, âgés de 30 à 40 ans, possèdent souvent une bonne éducation et savent utiliser les réseaux sociaux pour le marketing. Leur design de stand est plus moderne, leurs menus plus variés et leurs prix plus élevés.
 
-**La montée en gamme** est perceptible. Certains stands commencent à valoriser les ingrédients biologiques, la fabrication artisanale et l'absence d'additifs, en adoptant un positionnement premium. Un bol de « nouilles au bœuf premium » peut atteindre 200 dollars taïwanais, ciblant une clientèle prête à payer pour la qualité.
+**La tendance vers l’artisanat** commence également à émerger. Certains stands mettent en avant des ingrédients biologiques, une fabrication artisanale et l’absence d’additifs, adoptant une approche haut de gamme. Un bol de **nouilles de bœuf artisanal** peut atteindre 200 NT$, ciblant les consommateurs prêts à payer pour la qualité.
 
-**La thématisation** dessine une troisième tendance. Le « Marché du coucher de soleil » de Tamsui, au Nouveau Taipei, mise sur l'artisanat et les arts vivants, en associant expositions et gastronomie. Le « Grand East Night Market » de Tainan a aménagé un espace international, accueillant des cuisines thaïlandaise, japonaise et coréenne.
+**La thématisation** est une autre tendance. Le marché nocturne de Yishan à New Taipei combine création culturelle et gastronomie, intégrant des expositions artistiques et des spectacles. Le marché nocturne de Dapeng à Tainan prévoit d’ouvrir une zone internationale de la cuisine, introduisant des plats taïliandes, japonais et coréens.
 
-## La philosophie de vie tainanaise, révélée par ses marchés
+## La philosophie de vie alternative des marchés nocturnes de Tainan
 
-Revenons aux chiffres du début : 49 marchés de nuit à Tainan, la densité la plus élevée de l'île. Mais regardez de plus près et vous remarquerez quelque chose d'étonnant : la plupart n'ouvrent pas tous les jours.
+Revenons aux chiffres initiaux : 49 marchés nocturnes à Tainan, la densité la plus élevée de Taïwan. Mais en observant de plus près, on découvre une particularité des marchés nocturnes de Tainan : beaucoup ne sont pas ouverts tous les jours.
 
-**Huayuan** ouvre les jeudis, samedis et dimanches ; **Grand East** les lundis, mardis et vendredis ; **Wusheng** les mercredis et samedis. Tainan a inventé le **système de rotation des marchés** : les commerçants tournent entre plusieurs sites, et les habitants ont toujours un marché ouvert quelque part, sans que personne n'ait à travailler sept jours sur sept.
+**Le marché nocturne de Huayuan** est ouvert le jeudi, samedi et dimanche ; **le marché nocturne de Datong** le lundi, mardi et vendredi ; **le marché nocturne de Wufeng** le mercredi et samedi. Les habitants de Tainan ont inventé un système de rotation des marchés, permettant aux vendeurs de voyager et aux consommateurs de toujours avoir un marché nocturne à visiter.
 
-Ce modèle dit quelque chose du rythme de vie à Tainan. Contrairement à Taipei où l'on court, à Tainan on prend le temps. Jeudi au Huayuan pour une soupe de poisson, vendredi au Grand East pour acheter un vêtement, samedi au Wusheng pour flâner — une semaine bien remplie, mais sans précipitation.
+Ce mode de fonctionnement reflète le rythme de vie de Tainen. Contrairement aux habitants pressés de Taïpei, les gens de Tainan prennent le temps de profiter de la vie. Aller boire un bol de soupe au marché nocturne de Huayuan aujourd’hui, faire des courses au marché de Datong demain, et flâner au marché de Wufeng après-demain — une semaine bien remplie sans précipitation.
 
-Autre particularité : de nombreux stands ne proposent qu'une seule chose. **Les œufs braisés d'Amei** ne vendent que des œufs braisés ; le stand de rouleaux de printemps ne vend que des rouleaux de printemps ; le marchand de riz gluant collant ne vend que du riz gluant. Cette spécialisation absolue produit une qualité exceptionnelle, et chaque stand fidélise une clientèle qui lui est inconditionnellement attachée.
+Les marchés nocturnes de Tainan ont aussi une autre particularité : de nombreux stands ne vendent qu’un seul type de produit. **Les œufs de crevette de Mme A** ne vendent que des œufs de crevette ; **le stand de printemps** ne propose que des rouleaux de printemps ; **le stand de riz glu** ne vend que des boulettes de riz collé. Cette spécialisation extrême garantit une qualité exceptionnelle, chaque stand attirant une clientèle fidèle.
 
-## Le marché de nuit de demain
+## L’avenir de la culture des marchés nocturnes
 
-Après 150 ans, les marchés de nuit taïwanais sont bien plus qu'un lieu où l'on mange : ils sont devenus un symbole culturel. Ils incarnent la cuisine populaire, la vie du peuple, la chaleur humaine taïwanaise. Mais pour traverser les mutations actuelles, ils doivent se réinventer.
+À travers 150 ans d’histoire, les marchés nocturnes de Taïwan ont évolué bien au-delà d’un simple lieu de repas. Ils sont devenus un symbole culturel, incarnant la street-food populaire, la vie quotidienne des citoyens et l’âme chaleureuse du peuple taïwanais. Face aux changements du monde moderne, les marchés nocturnes doivent elles aussi s’adapter.
 
-**La durabilité** est une priorité. Réduire la vaisselle jetable, soutenir les producteurs locaux, diminuer l'empreinte environnementale. Certains marchés ont lancé des programmes « marché vert », incitant les vendeurs à utiliser des contenants réutilisables, à installer des points de tri, à lutter contre le gaspillage alimentaire.
+**La durabilité** est essentielle. Réduire l’usage d’ustensiles jetables, soutenir les ingrédients locaux et limiter l’impact environnemental. Certains marchés ont lancé des initiatives de « marchés verts », encourageant les vendeurs à utiliser des ustensiles réutilisables, à installer des points de recyclage et à réduire le gaspillage alimentaire.
 
-**La transmission culturelle** est tout aussi essentielle. Un marché de nuit ne peut pas se réduire à un espace commercial : il doit préserver ce qui fait son âme. Documenter les histoires des anciens commerçants, transmettre les savoir-faire traditionnels, maintenir l'identité locale — pour que le marché de nuit ne se transforme pas en un centre commercial comme les autres.
+**La préservation culturelle** est tout aussi importante. Les marchés ne doivent pas se limiter à la dimension commerciale, mais conserver leur richesse culturelle. Documenter les histoires des vendeurs âgés, transmettre les techniques traditionnelles et préserver les caractéristiques locales permettront aux marchés de ne pas devenir de simples centres commerciaux.
 
-**L'innovation raisonnée** complète ce triptyque. Intégrer la technologie pour gagner en efficacité, développer de nouveaux services, élargir la portée internationale. Mais l'innovation ne doit pas trahir l'essentiel : ce qui fait l'attractivité d'un marché de nuit, c'est la chaleur des échanges humains, pas la froide automatisation.
+**L’innovation** reste nécessaire. Intégrer la technologie pour améliorer l’efficacité, développer de nouveaux services et élargir le marché international. Cependant, l’innovation ne doit pas perdre de vue l’essentiel : l’âme des marchés nocturnes réside dans les interactions chaleureuses entre les humains, et non dans des machines froides et automatisées.
 
-## Voir Taïwan dans un marché de nuit
+## Voir Taïwan dans ses marchés nocturnes
 
-Chaque Taïwanais a ses souvenirs de marché de nuit. Les sorties entre amis à Shilin pendant les années lycée, les premières promenades en amoureux à Fengjia, les retrouvailles en famille dans le marché du quartier d'origine. Les marchés de nuit sont la mémoire collective de Taïwan — et la fenêtre par laquelle les visiteurs étrangers entrevoient l'âme du pays.
+Chaque habitant de Taïwan a ses propres souvenirs liés aux marchés nocturnes. En tant qu’étudiants, on y allait avec des amis au marché de Shilin ; en couple, on se rendait au marché de Fengjia ; en famille, on emmenait ses parents au marché local pour déguster des saveurs familières. Les marchés nocturnes sont une mémoire collective des Taïwanais, mais aussi une fenêtre ouverte sur leur pays pour les amis étrangers.
 
-Une omelette aux huîtres à 50 dollars, un bubble tea à 30 dollars, une côtelette de poulet à 90 dollars : ces prix modestes portent bien plus que des saveurs. Ils portent la sagesse populaire taïwanaise, l'esprit d'innovation, la chaleur humaine. Si cette culture a traversé un siècle et demi et conquis une audience mondiale, c'est peut-être la démonstration la plus authentique du soft power de Taïwan.
+Un bol d’œufs de crevette à 50 NT$, une tasse de thé à perles à 30 NT$, un poulet frit à 90 NT$ — derrière ces plats se cachent non seulement les saveurs, mais aussi la sagesse de vie des Taïwanais, leur esprit innovant et leur chaleur humaine. Le fait que la culture des marchés nocturnes ait survécu et s’exporte dans le monde entier est une preuve de la force douce de Taïwan.
 
-Dans le mouvement de la mondialisation, les marchés de nuit permettent à Taïwan de rester unique. Dans une époque d'accélération permanente, ils rappellent la beauté du temps lent. Dans un monde de plus en plus numérique, ils offrent la chaleur irremplaçable du contact humain. Voilà ce que vaut la culture des marchés de nuit de Taïwan : dans les quelques mètres carrés d'un étal éclairé, l'âme entière d'une île.
+Dans un monde globalisé, les marchés nocturnes permettent à Taïwan de conserver son authenticité. Dans un temps de changement rapide, ils offrent aux gens le plaisir de la lenteur. Dans un monde numérique, ils offrent la chaleur réelle des relations humaines. C’est précisément cette valeur inestimable que représente la culture des marchés nocturnes de Taïwan — dans de simples étables, on peut voir l’âme d’une île.
+
+## Sources des images
+
+- Hero : Foule au marché nocturne de Shilin, photo par Richy, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg)，CC BY-SA 3.0。
 
 ## Références
 
-- [Ministère des Affaires économiques — Réglementation des marchés de nuit](https://www.moea.gov.tw/)
-- [Ministère des Affaires étrangères — Dossier spécial sur les marchés de nuit](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
-- [Administration du tourisme — Guide des marchés de nuit de Taïwan](https://www.taiwan.net.tw/)
-- [Super Taste — Récapitulatif des horaires des marchés de nuit à Taïwan](https://supertaste.tvbs.com.tw/pack/320927)
+- [Bureau de coordination de la région centrale du ministère de l’Économie - Règlement sur la gestion des marchés nocturnes](https://www.moea.gov.tw/)
+- [Ministère des Affaires étrangères - Rapport spécial sur les marchés nocturnes](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
+- [Bureau du tourisme du ministère des Transports - Guide des marchés nocturnes de Taïwan](https://www.taiwan.net.tw/)
+- [Foodie’s Travel - Horaires complets des marchés nocturnes de Taïwan](https://supertaste.tvbs.com.tw/pack/320927)

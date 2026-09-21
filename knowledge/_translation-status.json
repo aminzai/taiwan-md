@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T07:32:22+08:00",
-    "zhCommitHead": "03a36e846",
+    "lastUpdated": "2026-09-22T07:47:20+08:00",
+    "zhCommitHead": "e6953cf6b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1055,
-        "stale": 44,
+        "fresh": 1056,
+        "stale": 43,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1048,
-        "stale": 50,
+        "fresh": 1049,
+        "stale": 49,
         "metadata_stale": 9,
         "missing": 17,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1027,
+        "fresh": 1028,
         "stale": 44,
-        "metadata_stale": 36,
+        "metadata_stale": 35,
         "missing": 17,
         "orphan": 0
       },
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1016,
+        "fresh": 1017,
         "stale": 52,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 45,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 843,
+        "fresh": 844,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 266,
+        "missing": 265,
         "orphan": 0
       }
     },
@@ -80277,19 +80277,17 @@
         "pt": {
           "path": "pt/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "translatedAt": "2026-09-22T04:48:30+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 19260,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 18321,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/formosan-landlocked-salmon.md",
@@ -85651,7 +85649,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/constant-and-change-band.md",
+          "translatedFrom": "People/康士坦的變化球.md",
+          "sourceCommitSha": "160c9d82d",
+          "sourceContentHash": "sha256:37d8610a843cfcf0",
+          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
+          "translatedAt": "2026-09-22T04:48:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "bytes": 25163,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138272,19 +138282,17 @@
         "fr": {
           "path": "fr/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-04-14T12:29:04+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 22563,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 23150,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/night-market-culture.md",
@@ -142154,19 +142162,17 @@
         "ko": {
           "path": "ko/Food/taiwanese-ice-cream-culture.md",
           "translatedFrom": "Food/台灣冰品文化.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:4dac67a4f3297b76",
-          "sourceBodyHash": "sha256:aae5f010fab3924f",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-22T04:48:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 13833,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 14942,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwanese-ice-cream-culture.md",
@@ -148577,19 +148583,17 @@
         "vi": {
           "path": "vi/Food/pork-heart-vermicelli.md",
           "translatedFrom": "Food/豬心冬粉.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:3bcebca3a70539f8",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:8de12ddf79fa57df",
           "sourceBodyHash": "sha256:c3fe90467aad669d",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8875,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 9070,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Food/pork-heart-vermicelli.md",
@@ -154807,8 +154811,8 @@
           "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
           "translatedAt": "2026-09-22T04:48:28+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "e6953cf6",
+          "translationLastModified": "2026-09-22T07:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 27041,
@@ -162279,8 +162283,8 @@
           "sourceContentHash": "sha256:8069998f1aa354c8",
           "sourceBodyHash": "sha256:55bbc4efed5f30a9",
           "translatedAt": "2026-09-22T04:48:28+08:00",
-          "translationLastCommit": "845f041c",
-          "translationLastModified": "2026-07-25T09:20:25+08:00",
+          "translationLastCommit": "e6953cf6",
+          "translationLastModified": "2026-09-22T07:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 14999,
@@ -163757,8 +163761,8 @@
           "sourceContentHash": "sha256:3828ee010a982636",
           "sourceBodyHash": "sha256:1b234f51be7edbb9",
           "translatedAt": "2026-09-22T04:48:28+08:00",
-          "translationLastCommit": "4dc2cbd4",
-          "translationLastModified": "2026-07-26T13:02:42+08:00",
+          "translationLastCommit": "e6953cf6",
+          "translationLastModified": "2026-09-22T07:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 13963,
@@ -165733,8 +165737,8 @@
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
           "translatedAt": "2026-09-22T04:48:28+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "e6953cf6",
+          "translationLastModified": "2026-09-22T07:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 13626,
