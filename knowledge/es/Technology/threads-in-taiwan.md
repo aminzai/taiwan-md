@@ -17,7 +17,7 @@ tags:
 readingTime: 15
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: true
+featured: false
 translatedFrom: 'Technology/Threads在台灣.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:b344ec326785b46d'

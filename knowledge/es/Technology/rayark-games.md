@@ -27,6 +27,8 @@ lastVerified: 2026-05-26
 lastHumanReview: false
 featured: false
 image: '/article-images/technology/rayark-cafe-2021.webp'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Rayark_Café_20211016.jpg'
 translatedFrom: 'Technology/雷亞遊戲.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:efb74dfc78d9c93c'

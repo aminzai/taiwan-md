@@ -21,6 +21,8 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: true
 image: '/article-images/music/nine-one-one-2016.webp'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
+imageSource: 'https://commons.wikimedia.org/wiki/File:玖壹壹_2016.jpg'
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: '3d2adaeb'
 sourceContentHash: 'sha256:6df07f794411626f'

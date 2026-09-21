@@ -27,7 +27,7 @@ researchReport: reports/research/2026-07/大支-outline.md
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
-imageLicense: 'Licencia de atribución (declaración de datos abiertos de los sitios web gubernamentales)'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
 rationale:
   why_this_hook: 'Entrar por Tainan y por el rap en taiwanés, para evitar retratar a Dwagie únicamente como una figura de posicionamiento político.'

@@ -24,7 +24,7 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/大港開唱-outline.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+image: '/article-images/music/megaport-festival-2025-namba-stage.webp'
 imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'

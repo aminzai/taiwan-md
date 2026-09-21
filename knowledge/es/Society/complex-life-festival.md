@@ -20,6 +20,8 @@ readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 image: '/article-images/society/complex-festival-onsite-program.webp'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://medium.com/泥巴第三放送局/當我們討論複雜生活節的視覺設計-我們在討論什麼-81512c97a6c'
 translatedFrom: 'Society/複雜生活節.md'
 sourceCommitSha: 'dd82dc4a'
 sourceContentHash: 'sha256:288b132714804aff'

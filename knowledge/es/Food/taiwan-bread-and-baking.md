@@ -9,9 +9,11 @@ featured: false
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/TaiwanesePineappleCake.jpg'
+image: '/article-images/food/taiwanese-pineapple-cake.webp'
 imageAlt: '鳳梨酥'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Kwb / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: Food/台灣麵包與烘焙.md
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:e4c169783e32f5c2'
@@ -88,9 +90,13 @@ La trayectoria de la industria del pan y la repostería en Taiwán está bien do
 ## Referencias
 
 [^1]: [Sitio oficial de Wu Pao-chun Bakery](https://www.wu-pao-chun.com/) — Presentación de la obra «Mi Niang Li Xiang» y crónica del campeonato del Mondial du Pain de 2010.
+
 [^2]: [Sitio oficial de Mondial du Pain](https://www.mondialdupain.com/) — Lista histórica de campeones individuales, incluyendo las cuatro ediciones taiwanesas de 2010, 2015, 2017 y 2022.
+
 [^3]: [Relaciones con inversionistas de 85°C](https://www.85cafe.com/) — Historia de la marca 85°C y datos de su expansión internacional.
+
 [^4]: [Instituto de Tecnología de Cereales y Alimentos de China](https://www.cgprdi.org.tw/) — Instituto taiwanés de investigación en panadería, con información sobre formación para competiciones y asesoría técnica.
+
 [^5]: [Federación Nacional de Asociaciones del Sector de la Panadería de la República de China](https://www.twbakery.org.tw/) — Asociación gremial de la panadería con estadísticas del sector e información sobre competiciones internacionales.
 
 ## Lecturas complementarias

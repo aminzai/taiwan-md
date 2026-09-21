@@ -18,13 +18,15 @@ readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 translatedFrom: 'Food/客家飲食文化.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:3122286a1056f9c8'
 sourceBodyHash: 'sha256:dacc006277fbf01a'
 translatedAt: '2026-05-24T05:06:33+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg/960px-%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/meinong-hakka-leicha-tea-2023.webp'
+imageCredit: 'WEI, WAN-CHEN / Wikimedia Commons'
 ---
 
 # La cultura culinaria hakka

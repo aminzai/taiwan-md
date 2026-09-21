@@ -19,9 +19,11 @@ category: 'Food'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
+image: '/article-images/food/rice-dumpling-zongzi.webp'
 imageAlt: '粽子'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'WeeWZ / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg'
 translatedFrom: 'Food/台灣米食文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0e38833f3cafaf68'

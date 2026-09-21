@@ -28,7 +28,7 @@ viewpoint_formed: true
 spine_type: '立體群像'
 image: '/article-images/culture/shopping-design-designbiz-2022-banner.jpg'
 imageCredit: 'Shopping Design／DesignBIZ Fest'
-imageLicense: 'Fair use (editorial commentary)'
+imageLicense: 'Fair use（editorial commentary）'
 imageSource: 'https://designbiz.shoppingdesign.com.tw/2022/'
 rationale:
   why_this_hook: 'La portada blanca del primer número frente a la de «comprar diseño blanco» del número 100: el mismo blanco once años después, más dos palabras, «comprar» = convertir el gusto en una acción = distinguir. Cálido, concreto y con suspense (lo último que hay que distinguir es la propia revista), sin dejar cocido de antemano el «gotcha».'

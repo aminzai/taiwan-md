@@ -34,6 +34,8 @@ sporeLinks:
     date: '2026-05-25'
     url: 'https://www.threads.com/@taiwandotmd/post/DYwhhzFgfe0'
 image: '/article-images/art/jiang-chien-sanxiantai-coast-2014.webp'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Clouds_over_beautiful_blue_sea_at_Sanxiantai_on_4_February_2014.jpg'
 translatedFrom: 'Art/江賢二.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:872c1259e15043c2'

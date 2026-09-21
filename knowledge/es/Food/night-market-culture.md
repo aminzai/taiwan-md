@@ -3,14 +3,16 @@ title: 'Cultura del Mercado Nocturno'
 date: 2026-03-21
 tags: [comida, mercado nocturno, comida callejera, cultura, turismo]
 description: 'La cultura del mercado nocturno es uno de los símbolos culturales más distintivos de Taiwán. No solo preserva la esencia de'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
 sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Food
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

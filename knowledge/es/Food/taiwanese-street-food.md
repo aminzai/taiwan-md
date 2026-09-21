@@ -19,13 +19,15 @@ readingTime: 12
 lastVerified: 2026-03-28
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
 sourceCommitSha: '1facb1b9c'
 sourceContentHash: 'sha256:d44d711c2a614f5f'
 sourceBodyHash: 'sha256:fc8359a5a9777af0'
 translatedAt: '2026-07-25T07:41:02+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/raohe-street-night-market-entrance-2017.webp'
+imageCredit: 'Ken Marshall / Wikimedia Commons'
 ---
 
 # Comida callejera de Taiwán
