@@ -33,7 +33,6 @@ sourceBodyHash: 'sha256:55c20a0d0cb340b3'
 translatedAt: '2026-08-07T05:44:47+08:00'
 ---
 
-````markdown
 > **Resumo em 30 segundos:** A Ilha Internacional de Arte de Matsu iniciou-se em 2022, co-organizada pelo Governo do Condado de Lienchiang e pela Associação Geral da Cultura Chinesa, planeada como bienal num projecto de longo prazo de cinco edições em dez anos, com núcleos expositivos dispersos por quatro municípios e cinco ilhas com 14 mil residentes registados. Não construiu pavilhão próprio: as obras entram directamente em galinheiros, lojas, restaurantes, bunkers e um navio de passageiros, com horários a seguir o funcionamento do comércio e as escalas dos barcos, e as três edições foram de entrada livre na ilha. Três edições acumularam 31 obras de longa duração ou permanentes deixadas na ilha; a quarta edição iniciou preparativos em Julho de 2026, tema e datas ainda por definir.
 
 ## Obras no galinheiro, na mercearia, no navio que vai para Nangan
@@ -72,7 +71,6 @@ Em 2009, o Departamento Financeiro do Governo do Condado de Lienchiang inventari
 Total de abrigos antiaéreos do condado no inquérito preliminar de 2009 do Departamento Financeiro do Governo do Condado de Lienchiang, incluindo casamatas, bunkers, abrigos e várias obras subterrâneas, não incluindo a parte ainda usada pelos militares
 Departamento Financeiro do Governo do Condado de Lienchiang, inquérito de 2009, reproduzido na Rede de Informação de Matsu
 ```
-````
 
 ![Canais e paredes de rocha no Bunker do Mar do Norte de Beigan](/article-images/art/matsu-biennial-beihai-tunnel.webp)
 _O Bunker do Mar do Norte de Beigan, bunker subterrâneo para navios escavado em granito por oficiais e soldados durante a administração de frente de batalha. Foto: Joe Lo / Wikimedia Commons, CC BY-SA 2.0._

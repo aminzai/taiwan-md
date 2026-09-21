@@ -34,7 +34,6 @@ sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-07-27T10:39:03+08:00'
 ---
 
-````markdown
 # Lu Kuan-wei: Passou no exame de licença médica, mas não vestiu a bata branca — ele aposta numa aposta mais difícil de provar do que salvar vidas
 
 > **Visão geral em 30 segundos:** Em 2012, Lu Kuan-wei, aluno do sétimo ano do curso de medicina de sete anos da Universidade Nacional de Taiwan (NTU), estagiava no Hospital Universitário de Taiwan em Yunlin, quando encontrou uma menina criada pelos avós — a cuidadora principal adoeceu, e coube à menina acompanhá-la. Ele perguntou a si mesmo: se eu fosse essa menina hoje, conseguiria me tornar o Lu Kuan-wei que passou no curso de medicina da NTU e está aqui agora? No ano seguinte, ele passou no exame de licença médica, mas não ingressou na residência; foi ajudar a gravar vídeos de matemática para a plataforma educacional Junyi, fundada por Fang Hsin-chou. Ele queria usar a autoaprendizagem online para eliminar as disparidades educacionais de Taiwan, mas a evidência acadêmica global aponta quase unanimemente na direção oposta: esse tipo de ferramenta ajuda principalmente as crianças que já têm equipamentos, autodisciplina e acompanhamento dos pais. Doze anos depois, nenhum estudo independente de controle consegue provar que ele reverteu essa situação. Ele mesmo é o primeiro a admitir: "O uso de ferramentas digitais não equivale à chegada da transformação digital."
@@ -112,7 +111,6 @@ O número de vídeos também merece correção. Dados públicos da Junyi nos úl
 121,539 | Exercícios online | Relatório 2024
 Fonte: Relatório de Impacto Anual 2024 da Fundação Educacional Junyi Platform (auditado pela KPMG)
 ```
-````
 
 Quanto à autodefinição frequente de "maior plataforma gratuita de aprendizagem digital K-12 de Taiwan", esse "maior" é, por ora, autodeclarado; não se encontra certificação de terceira parte[^20]. Não significa que falseiem: em contas acumuladas, é de fato uma das maiores plataformas de aprendizagem online de Taiwan. Só que atrás de "maior" não há um árbitro independente, e o leitor merece saber.
 
