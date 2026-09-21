@@ -1,17 +1,17 @@
 ---
-title: 'Bánh mì hột: Từ "thuốc ngủ buổi sáng" đến "bánh cuốn hình Thái Lan" trên thế giới'
-description: 'Từ nền văn hóa mỳ gạo thời Minh đến sự di chuyển qua biển của bánh cuốn miền Nam, bánh mì hột Đài Loan với "dầu chiên giòn rụm" và "phương pháp tay cuốn" đã trở thành linh hồn của bữa sáng Đài Loan. Bài viết phân tích sâu về nguồn gốc lịch sử, nghệ thuật làm bánh, hương vị đột phát hiện năm hiện đại và câu chuyện lan tỏa "văn hóa hội carb" trên không gian quốc tế.'
+title: 'Bánh gạo (Fan Tuan): Từ "thuốc ngủ" buổi sáng đến "Burrito phiên bản Đài Loan" gây sốt tại Âu Mỹ'
+description: 'Từ văn hóa ẩm thực gạo nếp thời Thanh, qua sự biến đổi xuyên biển thành món cơm nếp Đài Loan, với những chiếc "giò dầu" và kỹ thuật "nặn thủ công" độc đáo, Fan Tuan là linh hồn của bữa sáng Đài Loan. Bài viết phân tích sâu về tiền sử lịch sử, quy trình chế biến, các hương vị sáng tạo hiện đại và "văn hóa ngất đường huyết" gây chú ý quốc tế.'
 date: 2026-06-28
 category: 'Food'
 tags:
   [
-    'bánh mì hột',
-    'bữa sáng Đài Loan',
-    'cơm gạo',
-    'đồ ăn vặt đường phố',
-    'văn hóa ẩm thực',
-    'hội carb',
-    'đồ từ mỳ gạo',
+    'Fan Tuan',
+    'Bữa sáng Đài Loan',
+    'Cơm nếp',
+    'Đồ ăn vặt đường phố',
+    'Văn hóa ẩm thực',
+    'Ngất đường huyết',
+    'Gạo nếp',
   ]
 subcategory: '主食與米麵'
 author: 'Taiwan.md Contributors'
@@ -19,133 +19,134 @@ featured: false
 lastVerified: 2026-06-28
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Food/飯糰.md'
-sourceCommitSha: '70c09b92f'
-sourceContentHash: 'sha256:9504291a64409206'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:c0f8cc644aeae280'
 sourceBodyHash: 'sha256:fd7a2d45f0c2514e'
-translatedAt: '2026-07-28T08:51:46+08:00'
+translatedAt: '2026-09-22T02:06:15+08:00'
 ---
 
-> **30 giây tóm tắt:** Bánh mì hột là một "tác phẩm nặng trọng" của văn hóa bữa sáng Đài Loan. Nó xuất phát từ "cơm gạo" của miền Nam Trung Quốc, sau đó rễ rác tại Đài Loan, biến thành dạng riêng gồm bột gạo dẻo nóng hổi bọc lớp dầu chiên giòn rụm, xà lách xào và thịt xào. Bom carbohydrate này được người Đài Loan chọc ghẹo gọi là "thuốc ngủ", gần đây đã xuất hiện với tên gọi "Bánh cuốn Hình Thái Lan" trên các cộng đồng TikTok Mỹ, trở thành ánh sáng mới của Đài Loan.
+> **Tóm tắt 30 giây:** Fan Tuan là một sự tồn tại "nặng ký" trong văn hóa bữa sáng của Đài Loan. Nó bắt nguồn từ món "Cơm nếp Giang Nam", sau đó bén rễ tại Đài Loan và phát triển thành hình thức độc đáo được làm từ gạo nếp nóng hổi gói cùng giò dầu giòn, dưa muối mặn và ruốc thịt. Viên bom carbohydrate này, mà người dân Đài Loan trêu gọi là "thuốc ngủ", gần đây đã quét sạch cộng đồng TikTok Hoa Kỳ dưới tên "Taiwanese Burrito", trở thành một ngôi sao mới của Đài Loan.
 
-Vào thập niên 1950, hương thơm mỳ gạo được hấp trong thùng gỗ bắt đầu lan tỏa trong không khí sáng sớm của Đài Loan. Hương khói này không phải là nguyên sinh của đất liền Đài Loan, mà là di sản văn hóa mang từ miền Nam Trung Quốc do dân chuyển ngãi đến đây mang theo "cơm gạo" [^1]. Trong thời kỳ thiếu thốn nguyên tài, một chiếc bánh mì hột chắc chắn là nguồn năng lượng vượt qua cả buổi sáng cho công nhân và học sinh.
+Trên các đường phố Đài Loan những năm 1950, hương thơm của gạo nếp được hấp trong thùng gỗ bắt đầu lan tỏa vào không khí buổi sớm. Mùi hương này không phải là bản địa của Đài Loan mà là ký ức về "Cơm nếp Giang Nam" do người di cư từ Giang Nam mang theo khi Chính phủ Quốc dân chuyển đến Đài Loan [^1]. Trong thời đại vật chất còn chưa đủ đầy, một viên Fan Tuan chắc bụng là nguồn năng lượng giúp công nhân và học sinh trụ qua cả buổi sáng.
 
-### Nguồn gốc lịch sử: Nền tảng văn hóa từ mỳ gạo bản địa
+### Tiền sử lịch sử: Gốc rễ của ẩm thực gạo nếp địa phương
 
-Trước khi thuật ngữ "bánh mì hột Đài Loan" xuất hiện, Đài Loan đã có nền văn hóa ẩm thực từ mỳ gạo sâu sắc.
+Trước khi có thuật ngữ "Fan Tuan Đài Loan", Đài Loan đã sở hữu nền tảng văn hóa ẩm thực gạo nếp sâu sắc.
 
-- **Thời Minh và xã hội dân tộc Hán**: Vào thời Minh, các bữa tiệc lễ và hàng ngày tại Đài Loan luôn có bánh hỏi, bánh cuốn và bánh khoác là các món ăn không thể thiếu [^15]. Sự ưa thích "cảm giác dẻo" của chung sâu đã mở đường cho sự lan tỏa của bánh mì hột.
-- **Người dân tộc nguyên thủy và "bánh cuốn núi rừng"**: Các bữa ăn truyền thống của bộ dân tộc Atayal và Bunun gọi là "A-bai" (ấm bánh) và "Cinavu" (chim sẻ), cũng dùng mỳ gạo hoặc mỳ gạo nhỏ làm lớp cơm, gói thịt heo và bọc bằng lá chuối xanh và lá dứa để ferment với muối [^16]. Dù khác với hình dạng hiện nay, khái niệm "ăn bánh gói trong lá" đã tồn tại hàng trăm năm trên đất liền Đài Loan.
+- **Thời Thanh và xã hội người Hán:** Trong các lễ hội và sinh hoạt hàng ngày ở Đài Loan thời Thanh, bánh trôi nước (tangyuan), bánh ú (zongzi) và bánh đỏ (honggui) làm từ gạo nếp là những món ăn không thể thiếu [^15]. Sự ưa chuộng chung đối với "kết cấu dẻo" này đã trải thảm đỏ vị giác cho sự phổ biến của Fan Tuan sau này.
+- **"Bánh ú miền núi" của người bản địa:** Món ăn truyền thống của các bộ tộc Pawan và Rukai, là "A-bai" và "Cinavu", cũng sử dụng gạo nếp hoặc kiều mạch làm nền, gói cùng thịt heo và được bọc bằng lá chanh chua giả và lá hoa trăng [^16]. Mặc dù khác với hình thức Fan Tuan ngày nay, khái niệm "thực phẩm gói bằng lá" đã tồn tại trên đất Đài Loan hàng trăm năm.
 
 ```tw-versus
-Cơm gạo miền Nam | Bánh mì hột Đài Loan | Onigiri (bánh cuốn Nhật)
-Thường ngọt hoặc chỉ chiên dầu | Hoàn toàn mặn, nhiều phần nhân | Ăn lạnh, vị nhẹ nhàng
-Hình trụ hoặc dài thân | Hình tròn ép mỏng, bằng tay | Hình tam giác hoặc tròn
-Gạo nếp chủ yếu | Gạo nếp dài trộn gạo tím | Gạo koshihikari chủ yếu
+Cơm nếp Giang Nam | Fan Tuan Đài Loan | Onigiri kiểu Nhật
+Chủ yếu là vị ngọt hoặc giò dầu thuần túy | Tuyệt đối mặn, nhiều thành phần | Chủ yếu là đồ ăn lạnh, hương vị thanh đạm
+Hình trụ hoặc hình thỏi dài | Hình elip, được nén chặt | Hình tam giác hoặc hình tròn
+Gạo nếp chủ đạo | Gạo nếp dài trộn gạo tím | Gạo Sen chủ đạo
 ```
 
-### Nguyên liệu "linh hồn": Tại sao phải dùng "dầu chiên giòn rụm"?
+### Thành phần linh hồn: Tại sao phải là "giò dầu"?
 
-Một chiếc bánh mì hột Đài Loan chuẩn mực phải dùng gạo nếp dài, được hấp trong thùng gỗ để giữ được độ dẻo và độ ẩm của hạt gạo [^6]. Trong khi đó, "linh hồn" của phần nhân chính là dầu chiên. Các quán bán dày dặn sẽ sử dụng "dầu chiên giòn rụm", tức là dầu chiên lại hai lần, độ giòn rụm cực kỳ. Kiểu này dù được gói trong cơm nóng hổi vẫn giữ được độ giòn rụm khi nắm, tạo sự phản biện rõ rệt với độ dẻo của cơm gạo [^7].
+Một viên Fan Tuan đạt chuẩn, cơm phải sử dụng gạo nếp dài và tốt nhất là được hấp trong thùng gỗ để duy trì độ đàn hồi (Q-tan) và độ ẩm của hạt gạo [^6]. Linh hồn của nhân bên trong chính là giò dầu. Các quầy hàng Fan Tuan lão luyện sẽ sử dụng "giò dầu cũ" (lão dầu), tức là giò đã được chiên hai lần, có kết cấu cực kỳ giòn. Bằng cách này, ngay cả khi được gói trong cơm nóng hổi, nó vẫn giữ được độ giòn tan và tạo ra sự tương phản rõ rệt với gạo dẻo [^7].
 
-Ngoài dầu chiên, xà lách xào giòn rụm, thịt xào khô thơm, và đồ chua phải chung tạo thành một vũ trụ hương vị nhỏ bé.
+Ngoài giò dầu, độ giòn của dưa muối, vị thơm khô của ruốc thịt và vị thanh đạm của kim chi đã tạo nên một vũ trụ vị giác thu nhỏ.
 
 ```tw-bars
-Dầu chiên | 95 | Khung xương của bánh mì hột, phải chiên lại hai lần
-Thịt xào | 88 | Nguồn vị ngọt, hấp thụ dầu mỡ thừa
-Xà lách xào | 82 | Mang lại cảm giác giòn rụm và vị mặn ferment
-Trứng luộc | 75 | Tăng độ mềm mại và cung cấp protein
-Đồ chua | 68 | Chìa khoá giảm đi trọng lượng, vị nhẹ ngọt
-Nguồn: Khảo sát cộng đồng ẩm thực Đài Loan, 2022
+Giò dầu | 95 | Khung xương linh hồn của Fan Tuan, phải là giò cũ chiên hai lần
+Ruốc thịt | 88 | Nguồn hương vị umami, có thể hấp thụ dầu thừa
+Dưa muối | 82 | Cung cấp cảm giác nhai giòn và vị mặn lên men
+Trứng kho | 75 | Tăng cường kết cấu mềm mại và protein
+Kim chi | 68 | Yếu tố giải ngấy, mang chút vị ngọt nhẹ
+Nguồn: Khảo sát cộng đồng bữa sáng Đài Loan, 2022
 ```
 
-### Nghệ thuật làm bánh: Nhiệt độ và lực nắn giữa tay
+### Quy trình chế biến: Nhiệt độ và lực đạo trong đôi tay
 
-Việc làm một chiếc bánh mì hột hoàn hảo không phải là "đóng gói cơm thành quả" như bạn nghĩ.
+Để làm ra một viên Fan Tuan hoàn hảo không chỉ đơn giản là "nặn cơm thành hình tròn".
 
-1. **Xử lý gạo**: Gạo nếp dài cần ngâm 2-4 giờ, trong quá trình hấp cần "lỗ gỗ" vào gạo để đảm bảo hấp thụ nhiệt đều. Những người làm chuyên nghiệp sẽ thêm một ít bơ heo hoặc dầu salad để giúp hạt gạo sáng bóng và không dính tay [^17].
-2. **Kiểm soát nhiệt độ**: Cơm cần giữ ở nhiệt độ 60-70°C. Quá nóng làm dầu chiên mềm, quá lạnh làm hạt gạo mất độ dẻo.
-3. **Kỹ thuật nắn**: Sau khi nắn rộng cơm, lần lượt xếp thịt xào, xà lách xào, đồ chua, cuối cùng đặt lên dầu chiên. Khi nắn lại phải dùng lực từ lòng bàn tay cái, từ hai bên ép về trung tâm, đảm bảo cấu trúc chắc chắn nhưng không nứt vụn hạt gạo.
-4. **Phòng tránh lỗi**: Nếu hạt gạo quá ẩm, bánh sẽ "sệt"; nếu lực nắn không đủ, sẽ sụp đổ giữa chừng. Đó chính là sự khác biệt giữa "tay nắn" và "sản xuất hàng loạt".
+1. **Xử lý gạo nếp:** Gạo nếp dài cần được ngâm 2-4 giờ, khi hấp cần phải "chọc lỗ" vào gạo để đảm bảo nhiệt độ phân bổ đều. Các nghệ nhân lão luyện sẽ thêm một lượng nhỏ mỡ heo hoặc dầu salad để hạt gạo bóng đẹp và không bị dính [^17].
+2. **Kiểm soát nhiệt độ:** Cơm phải được duy trì ở khoảng 60-70°C. Quá nóng sẽ làm giò mềm, quá lạnh thì hạt gạo mất độ kết dính.
+3. **Kỹ thuật nặn:** Sau khi trải cơm ra, lần lượt đặt ruốc thịt, dưa muối, kim chi, và cuối cùng là giò dầu. Khi nặn, cần sử dụng lực từ phần hổ khẩu của lòng bàn tay, ép từ hai bên vào trung tâm để đảm bảo cấu trúc chắc chắn nhưng hạt gạo không bị vỡ vụn.
+4. **Phòng ngừa thất bại:** Nếu cơm quá nhiều nước, Fan Tuan sẽ trở nên "nhão"; nếu lực nặn không đủ, nó sẽ tan rã giữa chừng. Đây chính là sự khác biệt lớn nhất giữa "thủ công" và "sản xuất nhà máy".
 
-### Khu vực đặc sản: Từ nước soju ở Hải Dương đến gạo sushi ở Taichung
+### Giới hạn khu vực: Từ xì dầu Yilan đến gạo sushi Đài Trung
 
-- **Phiên bản nước soju ở Hải Dương**: Tại Hải Dương, bánh mì hột phải gói trong trứng vỡ "giòn rụm" và rưới lên một lớp nước soju ngọt mặn hoặc cay. Đối với người Hải Dương, không có nước soju bánh mì hột như thiếu hụt một mùi vị [^3].
-- **Phiên bản gạo sushi ở Taichung**: Các tiệm nổi tiếng như "Bánh mì hột Bản tích" ở Taichung, do khách hàng đông đảo là du khách leo núi, họ đặc biệt chọn gạo sushi lạnh vẫn ngon để giải quyết vấn đề gạo dài bị cứng sau khi để lâu [^6].
+- **Phe xì dầu ở Yilan:** Ở Yilan, Fan Tuan bắt buộc phải được gói với một quả trứng ốp la "vừa chín tới", và bên ngoài lớp cơm nếp sẽ rưới nước tương hoặc dầu ớt mặn ngọt. Đối với người dân Yilan, Fan Tuan không có nước tương giống như thiếu mất một hương vị [^3].
+- **Phe gạo sushi ở Đài Trung:** Các cửa hàng nổi tiếng ở Đài Trung như "Bản Hoàn Fan Tuan" (Benwan Fan Tuan), vì lượng khách du lịch leo núi lớn, đặc biệt chọn sử dụng gạo sushi (gạo trắng) vẫn ngon miệng ngay cả khi nguội, giải quyết vấn đề cơm nếp bị cứng sau khi để lâu [^6].
 
-### Phát triển hiện đại: Từ "bánh cuốn Nhật" đến hương vị thực vật
+### Tiến hóa hiện đại: Từ "Onigiri" đến rau củ sáng tạo
 
-Năm 1994, Công ty Thực phẩm Đại nhà được đưa "bánh cuốn Nhật" vào chuỗi cửa hàng tiện lợi, "cuộc cách mạng 18 độ C" thay đổi hoàn toàn thói quen ăn bánh mì hột của người Đài Loan [^1]. Ngày nay, bánh mì hột ngày càng đa dạng và lành mạnh:
+Năm 1994, cửa hàng tiện lợi chung thống đã giới thiệu món "Onigiri" kiểu Nhật, cuộc "cách mạng 18 độ C" này đã thay đổi hoàn toàn thói quen tiêu thụ Fan Tuan của người Đài Loan [^1]. Fan Tuan hiện đại hướng tới sự đa dạng và lành mạnh hơn:
 
-- **Hương vị đột phát**: Thịt bò tiêu đen, thịt heo xào phô mai, kimchi Hàn, thậm chí có "bánh mì hột khoai môi" xuất hiện.
-- **Lựa chọn lành mạnh**: Gạo tím, gạo đa dạng thay thế gạo trắng, kèm hạt hạnh nhân và đậu hũ để tăng chất xơ.
-- **Phong trào thực vật**: Các tiệm như "Tăng Rau" ở Taoyuan, nghiên cứu ra "bánh mì hột thịt thực vật" hấp dẫn cả người ăn chay, đưa bánh mì hột lên bàn đề tài thực vật phong cách [^18].
+- **Hương vị sáng tạo:** Bò bít tết tiêu đen, sườn heo phô mai, kim chi Hàn Quốc, thậm chí có cả "Fan Tuan gà rán".
+- **Lựa chọn lành mạnh:** Gạo tím, gạo ngũ cốc thay thế gạo nếp trắng thuần túy, và thêm các nguyên liệu giàu chất xơ như hạt và đậu Hà Lan.
+- **Xu hướng chay:** Các cửa hàng như "Thiên Thảo" (Tian Shu) ở Cao Hùng đã nghiên cứu ra "Fan Tuan sườn rau củ", được cả người ăn thịt yêu thích, đưa Fan Tuan lên xu hướng ẩm thực chay [^18].
 
-### Phân tích số liệu về "hội carb" và "thuốc ngủ mạnh nhất"
+### Phân tích dữ liệu về "Thuốc ngủ" và "Văn hóa ngất đường huyết"
 
-Trên các cộng đồng mạng xã hội Đài Loan, bánh mì hột thường được chọc ghẹo gọi là "thuốc ngủ mạnh nhất".
+Trong cộng đồng mạng Đài Loan, Fan Tuan thường bị trêu gọi là "thuốc ngủ mạnh nhất".
 
 ```tw-heatmap
-Loại bánh mì hột | Năng lượng (kcal) | Carbohydrate (g) | Chất béo (g) | Chỉ số đường huyết (GI)
-Bánh mì hột truyền thống | 650 | 85 | 28 | Cao
-Bánh mì hột gạo tím | 580 | 78 | 22 | Trung bình - cao
-Bánh cuốn Nhật (cá hồi) | 200 | 38 | 3 | Trung bình
-Nguồn: Hợp tác xã dinh dưỡng, 2026
+Loại Fan Tuan | Calo (kcal) | Carb (g) | Chất béo (g) | Chỉ số đường huyết (GI)
+Fan Tuan truyền thống | 650 | 85 | 28 | Cao
+Fan Tuan gạo tím | 580 | 78 | 22 | Trung bình cao
+Onigiri (cá ngừ) | 200 | 38 | 3 | Trung bình
+Nguồn: Dữ liệu dinh dưỡng tổng hợp, 2026
 ```
 
-Do tích hợp gạo nếp có chỉ số đường huyết cao và dầu chiên, thịt xào giàu chất béo, tiêu thụ sau khi ăn sẽ khiến đường huyết tăng nhanh chóng, khiến hormone insulin giải phóng nhiều, dẫn đến cảm giác ngủ mãn mạn [^10].
+Do Fan Tuan kết hợp gạo nếp có GI cao với giò dầu và ruốc thịt nhiều chất béo, lượng đường trong máu sẽ tăng vọt sau khi tiêu thụ, kích thích tuyến tụy tiết ra một lượng lớn insulin, từ đó gây ra cảm giác buồn ngủ mãnh liệt [^10].
 
-📝 **Chuyên gia dinh dưỡng khuyên bảo**: Nếu muốn tránh "hội carb", hãy chọn phiên bản gạo tím, yêu cầu "giảm dầu chiên một nửa, thêm một trứng", kết hợp với sữa đậu nành không đường để cân bằng tốc độ đường huyết [^11].
+📝 **Lời khuyên của chuyên gia dinh dưỡng:** Nếu muốn tránh "ngất đường huyết", có thể chọn phiên bản gạo tím và dặn chủ quán "giảm một nửa giò dầu, thêm một quả trứng", kết hợp với sữa đậu nành không đường để cân bằng tốc độ tăng đường huyết [^11].
 
-### "Bánh cuốn Hình Thái Lan" trên sân khấu quốc tế
+### "Taiwanese Burrito" trên sân khấu quốc tế
 
-Năm 2026, bánh mì hột Đài Loan lan tỏa tới các khu vực "lâu đài" như Williamsburg (Mỹ). Cửa hàng bánh breakfast đặc sản **Egg & Soy** (địa chỉ 296 Bedford Ave, Brooklyn) đã mang bánh mì hột gạo tím vào góc nhìn chính thống của Mỹ [^12]. ở New York, một chiếc bánh mì hột chỉ với giá 10.95 USD (khoảng 350 NT$), vẫn khiến các KOL nước ngoài không ngại xếp hàng chờ đón [^13].
+Năm 2026, Fan Tuan Đài Loan trở nên nổi tiếng tại các khu vực tập trung giới trí thức như Williamsburg ở Hoa Kỳ. Cửa hàng bữa sáng Đài Loan **Egg & Soy** (tại 296 Bedford Ave, Brooklyn) đã đưa Fan Tuan gạo tím vào tầm nhìn chính thống của Mỹ [^12]. Tại New York, một viên Fan Tuan có giá khoảng 10.95 đô la Mỹ (khoảng 350 Đài tệ), nhưng vẫn khiến các KOL nước ngoài xếp hàng hành hương [^13].
 
 ```tw-stat
-10.95 USD | Giá bán trung bình một chiếc bánh mì hột ở Brooklyn | Khoảng 350 NT$
-320 TWD | Giá trung bình một khách hàng tại tiệm bánh mì hột Mỹ | Gấp hơn 6 lần so với Đài Loan
-10/10 | Điểm số của các KOL Mỹ trên TikTok | Đầy đủ và hương vị độc đáo
-Nguồn: Dữ liệu từ Grubhub và TikTok
+10.95 USD | Giá mỗi phần Fan Tuan tại Egg & Soy, New York | Khoảng 350 Đài tệ
+320 TWD | Mức chi tiêu trung bình của cửa hàng bữa sáng Đài Loan tại Mỹ | Hơn gấp 6 lần so với Đài Loan
+10/10 | Đánh giá của người nổi tiếng TikTok Hoa Kỳ | Độ no cao và hương vị độc đáo
+Nguồn: Dữ liệu Grubhub & TikTok tổng hợp
 ```
 
-📝 Ghi chú của người dàn thiết kế: Khi bánh mì hột di chuyển từ thùng gỗ đường phố đến quán cà phê "lâu đài" ở New York, nó thay đổi vỏ bọc nhưng không thay đổi cảm giác "vững chắc" đáng tin cậy. Bom carbohydrate này chính là cách nhẹ nhàng nhất để chiếm sóng ngực hồng thế giới.
+📝 Ghi chú biên tập viên: Khi Fan Tuan rời khỏi thùng gỗ trên phố để bước vào quán cà phê trí thức ở New York, thứ thay đổi là lớp vỏ bên ngoài, chứ không phải cảm giác no đủ tức thì mà nó mang lại. Viên bom carbohydrate này đang chinh phục dạ dày thế giới bằng một cách vô cùng dịu dàng.
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [Biến đổi lịch sử của bánh mì hột truyền thống Đài Loan](https://www.facebook.com/groups/1974693462806123/posts/4347818218826957/) — Bài đăng công khai trên Facebook
+[^1]: [Sự tiến hóa lịch sử của Fan Tuan gạo nếp truyền thống Đài Loan](https://www.facebook.com/groups/1974693462806123/posts/4347818218826957/) — Bài đăng công khai trên Facebook
 
-[^2]: [Từ bánh cuốn thời Minh đến hiện tại: Sự vay mượn của bánh mì hột từ ẩm thực Nhật](https://crossing.cw.com.tw/article/11155) — Xem chi tiết trong nội dung gốc
+[^2]: [Bắt đầu từ sự phát triển của Fan Tuan thời Mi sinh: Tham khảo ẩm thực Nhật Bản và Đài Loan](https://crossing.cw.com.tw/article/11155) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^3]: [Bánh mì hột Đài Loan bùng nổ trên người ngoại! 2 lợi thế thắng bánh cuốn](https://city.gvm.com.tw/article/107299) — Xem chi tiết trong nội dung gốc
+[^3]: [Fan Tuan Đài Loan gây sốt người nước ngoài! 2 ưu điểm vượt qua xíu mại](https://city.gvm.com.tw/article/107299) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^4]: [Đồ ăn Đài Loan bùng nổ ở châu Mỹ! Về phát sinh và hiện tại của bánh mì hột](https://www.gq.com.tw/article/%E5%8F%B0%E5%BC%8F%E9%A3%AF%E7%B3%B0) — Xem chi tiết trong nội dung gốc
+[^4]: [Món ăn Đài Loan nổi tiếng tại Âu Mỹ! Về kiếp trước và kiếp sau của Fan Tuan Đài Loan](https://www.gq.com.tw/article/%E5%8F%B0%E5%BC%8F%E9%A3%AF%E7%B3%B0) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^5]: [Bánh cuốn: Wikipedia, bách khoa tự do](https://zh.wikipedia.org/zh-hant/%E7%B2%A2%E9%A5%AD%E5%9B%A2) — Bài viết Wikipedia
+[^5]: [Cơm nếp Giang Nam: Wikipedia, Bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-hant/%E7%B2%A2%E9%A5%AD%E5%9B%A2) — Mục Wikipedia
 
-[^6]: [Đề xuất bạn tìm thấy yêu thích! Bản đồ bánh mì hột Đài Loan](https://homeruntaiwan.com/detail/article/3172) — Xem chi tiết trong nội dung gốc
+[^6]: [Gợi ý quán yêu thích! Cẩm nang Fan Tuan Đài Loan](https://homeruntaiwan.com/detail/article/3172) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^7]: [Mất một nguyên liệu không đủ vị? Khảo sát về nguyên liệu chính của bánh mì hột Đài Loan](https://www.youtube.com/watch?v=6VclUL0BXoU) — Video ghi lại trên YouTube
+[^7]: [Thiếu một hương vị là không đúng? Khảo sát thành phần quan trọng của Fan Tuan Đài Loan](https://www.youtube.com/watch?v=6VclUL0BXoU) — Video ghi lại trên YouTube
 
-[^8]: [Bánh mì hột Đài Loan bùng nổ ở Mỹ! Đề xuất 3 quán bánh mì hột truyền thống cần thử](https://style.udn.com/style/story/11350/9553911) — Báo mới Thông hữu
+[^8]: [Fan Tuan Đài Loan nổi tiếng tại Mỹ! Giới thiệu 3 quán truyền thống đáng thử](https://style.udn.com/style/story/11350/9553911) — Báo cáo của United Daily News
 
-[^9]: [Bánh mì hột gạo tím bùng nổ trên TikTok, bán đến 320 USD tại Mỹ](https://www.instagram.com/p/DY12SGkjgyx/) — Xem chi tiết trong nội dung gốc
+[^9]: [Fan Tuan gạo tím gây sốt TikTok, một viên bán được 320 Đài tệ ở Mỹ](https://www.instagram.com/p/DY12SGkjgyx/) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^10]: [Bánh mì hột trung Quốc có thể coi là "thuốc ngủ mạnh nhất"! Tại sao ăn xong muốn ngủ?](https://www.lexcellence.com.tw/threads-foodcoma-260203/) — Xem chi tiết trong nội dung gốc
+[^10]: [Cơm nếp kiểu Trung Hoa được coi là trợ ngủ mạnh nhất! Tại sao ăn xong lại muốn ngủ?](https://www.lexcellence.com.tw/threads-foodcoma-260203/) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^11]: [Bánh mì hột gạo tím bùng nổ ở Mỹ! Chuyên gia dinh dưỡng hé lộ "hội carb" thực sự](https://health.gvm.com.tw/article/130088) — Xem chi tiết trong nội dung gốc
+[^11]: [Fan Tuan gạo tím nổi tiếng tại Mỹ! Chuyên gia dinh dưỡng tiết lộ sự thật về "ngất đường huyết"](https://health.gvm.com.tw/article/130088) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^12]: [Egg & Soy: Quán cafe bánh breakfast Đài Loan tại Williamsburg](https://www.theinfatuation.com/new-york/reviews/egg-and-soy) — Xem chi tiết trong nội dung gốc
+[^12]: [Egg & Soy: Quán cà phê bữa sáng Đài Loan ở Williamsburg](https://www.theinfatuation.com/new-york/reviews/egg-and-soy) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^13]: [Cửa hàng bánh breakfast chuyên ngành đầu tiên tại New York: Egg & Soy thử nghiệm](https://www.instagram.com/reel/DYhWLiHgTGN/) — Xem chi tiết trong nội dung gốc
+[^13]: [Quán chuyên đồ ăn sáng Đài Loan đầu tiên tại New York: Trải nghiệm Egg & Soy](https://www.instagram.com/reel/DYhWLiHgTGN/) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^14]: [Khám phá phi thuyền: Câu chuyện nghệ sĩ bánh mì hột Liu Ma Ma](https://www.youtube.com/watch?v=Vjxa8zrVvgc) — Video ghi lại trên YouTube
+[^14]: [Khám phá phi thường: Câu chuyện nghệ nhân Fan Tuan bà Lưu](https://www.youtube.com/watch?v=Vjxa8zrVvgc) — Video ghi lại trên YouTube
 
-[^15]: [Văn hóa ẩm thực Đài Loan thời Minh: Các món ăn từ mỳ gạo vào các dịp lễ](https://www.facebook.com/GeneralHistoryofTaiwan/videos/26574771368863652/) — Bài đăng công khai trên Facebook
+[^15]: [Văn hóa ẩm thực Đài Loan thời Thanh: Món ăn lễ hội làm từ gạo nếp](https://www.facebook.com/GeneralHistoryofTaiwan/videos/26574771368863652/) — Bài đăng công khai trên Facebook
 
-[^16]: [A-bai và Cinavu của người dân tộc nguyên thủy: Trí tuệ của đồ ăn gói trong lá](https://vocus.cc/article/60ff6237fd89780001bd966c) — Xem chi tiết trong nội dung gốc
+[^16]: [A-bai và Cinavu của người bản địa: Trí tuệ gói bằng lá](https://vocus.cc/article/60ff6237fd89780001bd966c) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^17]: [Kỹ thuật làm bánh mì hột truyền thống: Ngâm và hấp gạo](https://caroleasylife.blogspot.com/2008/05/blog-post_3.html) — Xem chi tiết trong nội dung gốc
+[^17]: [Kỹ thuật chế biến Fan Tuan cổ xưa: Ngâm và hấp gạo nếp](https://caroleasylife.blogspot.com/2008/05/blog-post_3.html) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^18]: [Tại sao bánh mì hột thực vật tại Taoyuan đang là xu hướng?](https://www.instagram.com/reel/DQrCFryEtjq/) — Xem chi tiết trong nội dung gốc
+[^18]: [Thiên Thảo Cao Hùng: Xu hướng Fan Tuan chay sáng tạo hiện đại](https://www.instagram.com/reel/DQrCFryEtjq/) — Xem bổ sung tài liệu trong liên kết gốc

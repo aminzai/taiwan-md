@@ -20,19 +20,19 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '1b55dfc6c'
-sourceContentHash: 'sha256:f1e33836f112b9c8'
-sourceBodyHash: 'sha256:fb1ea1d55d3dd211'
-translatedAt: '2026-09-15T19:45:27+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:c545680e99f6d0ab'
+sourceBodyHash: 'sha256:809502b72dc5c3f5'
+translatedAt: '2026-09-21T17:08:22.127572+00:00'
 ---
 
-> **30 giây tóm tắt:** Năm 2015, "Thứ Năm 4 Siêu Chơi" khởi động từ truyền hình mạng McEasy; năm 2016 mới xuất hiện tập đầu tiên "Một Ngày", năm 2017 lập thêm kênh YouTube. Điều thú vị nhất của chương trình không phải là gửi Thái Anh Văn, KID hay Ola đi làm một ngày, mà là đưa những người công nhân, nhân viên hành chính và những người làm việc sau hậu trường thường không được chụp làm chính thành nhân vật vào một không gian mà toàn quốc có thể cùng xem. Thứ Năm như thể đang biến người nổi tiếng thành người bình thường, nhưng thực ra đang biến những chuyên nghiệp không thấy được của công việc bình thường thành một chương trình giải trí đại chúng.
+**30 giây tóm tắt:** Năm 2015, 《木曜4超玩》 phát sóng trên mạng truyền hình McBee; năm 2016 mới xuất hiện tập đầu tiên của “Một ngày”, năm 2017 lập thêm kênh YouTube. Điều thú vị nhất của chương trình không phải là đưa Thái Anh Văn, KID hay Oola đi làm một ngày, mà là đưa những người công nhân, phụ trách và những người làm sau hậu trường thường không được chụp làm nhân vật chính đến một không gian có thể được toàn quốc cùng xem. Woodwork trông có vẻ đang biến ngôi sao thành người bình thường, thực ra đang biến những chuyên môn vô hình của công việc thường ngày thành một chương trình truyền hình đại chúng.
 
-Khi Thái Anh Văn lần đầu tiên leo lên cột điện, thứ thực sự khó khăn không phải là phải giễu dưỡng tính trước ống kính. Những chiếc dây thép ở trung tâm đào tạo của Đài Loan, anh cắt hơn mười lần mới thành công. Những cây cột điện cao thế phải mặc đồ bảo hộ an toàn, leo lên từng bậc thang gắn đinh. Tạp chí của Đài Loan điện lựp sau này đã ghi lại khoảnh khắc này, nhớ lại anh vì mồ hôi ướt đã thay đổi hai ba bộ đồng phục công tác.
+Lần đầu tiên lên cột điện, Thái Anh Văn thực sự gặp khó không phải ở chỗ phải đùa cợm trước ống quay. Dây cáp thẳng của Trung tâm Đào tạo Đài Loan điện lực, anh đã cắt hơn mười lần mới thành công. Cột điện cao thế phải đội đồ bảo hộ an toàn, leo lên từng bậc thang đinh. Tạp chí sau này, trang tháng của Đài Loan điện lực cũng ghi lại đoạn quay này, vẫn nhớ anh vì mồ hôi ướt đã đổi hai ba bộ đồng phục làm việc.
 
-Đây là một vật thể rất thích hợp để hiểu "Thứ Năm 4 Siêu Chơi": một chiếc kéo không thể cắt đứt, hơn là một con số xem hấp dẫn. Chương trình đưa người nổi tiếng vào thực địa làm việc, nhưng không có nghĩa là công việc trở nên dễ dàng. Ngược lại, sự vụng dại của người nổi tiếng khiến những gì thường bị ngày thường che giấu bởi chuyên nghiệp bỗng chóng có hình dạng.
+Đây là một vật thể rất thích hợp để hiểu 《木曜4超玩》: một chiếc kéo không thể cắt đứt, thay vì một con số lượt xem đẹp mắt. Chương trình đưa ngôi sao vào hiện trường làm việc, nhưng không nhờ vậy mà công việc trở nên dễ dàng. Ngược lại, sự vụng dề của ngôi sao khiến những gì thường bị ngày thường che giấu bỗng chốc lát rõ rệt ra.
 
-> 📝 **Ghi chú nhà tổ chức:** Những "đặc hữu" quý giá nhất của Thứ Năm thường là những lần đầu tiên của MC gặp khó khăn. Thất bại không bị cắt gọn thành một câu an ủi, mà để lại cảm giác thời gian từng ngón tay sưng, không thể leo lên, phải làm lại.
+> 📝 **Ghi chú của nhà tổ chức:** “Điểm cộng” quý giá nhất của Woodwork thường là những lần MC chưa từng làm trước đây. Sự thất bại không bị cắt thành một câu an ủi lạc quan, mà để lại khoảng thời gian cảm nhận được ngón tay sưng, không lên được cột, phải làm lại từ đầu.
 
 ## Từ Nền Tảng Truyền Hình Trực Tuyến Đến Thử Nghiệm "Một Ngày"
 
@@ -94,20 +94,20 @@ Vấn đề khác mà chương trình phải đối mặt sau này là cách duy
 
 Kết cục này khiến câu từ "tinh thần Thứ Năm" trở nên nguy hiểm. Nếu cho rằng thành công của chương trình xuất phát từ tính cách của một MC cụ thể, sẽ bỏ sót kế hoạch, nhiếp ảnh, biên tập, đối tác hợp tác và chuyên gia. Nếu cho rằng thành công xuất phát từ một công thức có thể sao chép, sẽ giả vờ như việc tái cấu trúc nhóm sẽ không thay đổi bản chất của chương trình. Những gì Thứ Năm để lại không phải là một câu trả lời "sách giáo khoa về influencer thành công", mà là một câu hỏi: khi người xem yêu thích cách một nhóm người cùng làm việc, chương trình phải làm sao để tái thiết lập niềm tin sau khi nhóm người ấy thay đổi?
 
-## Phương Pháp Sản Xuất Của "Một Ngày": Phân Tách "Công Việc" Thành Những Bước Có Thể Quan Sát
+## Cách Sản Xuất Của Loạt Phim "Một Ngày": Tách "Công Việc" Thành Những Bước Có Thể Xem
 
-"Một Ngày" trên bề mặt chỉ là một người đi làm một ngày, nhưng thực tế ít nhất chứa đựng bốn tầng sản xuất. Tầng đầu tiên là lựa chọn nghề nghiệp: chủ đề phải mang tính lạ lùng, nhưng không thể hoàn toàn xa lánh cuộc sống của người xem. Tầng thứ hai là đào tạo tại chỗ: MC không nhận được một danh nghĩa nghề nghiệp trực tiếp, mà phải chấp nhận đào tạo về công cụ, an toàn và quy trình. Tầng thứ ba là sự thất bại và thử lại: sự vụng dại của MC cung cấp tiếng cười, đồng thời khiến sự thành thạo của chuyên gia trở nên dễ thấy. Tầng thứ tư mới là hậu sản xuất, nén những giờ làm việc dài thành một câu chuyện mà người xem vẫn muốn theo dõi. Nghiên cứu và các cuộc phỏng vấn với nhóm sản xuất đều chỉ ra rằng hình thức của Thứ Năm được tìm ra từ sự thử nghiệm giữa truyền hình trực tuyến, ghi hình trước, tương tác và áp lực thương mại, chứ không phải từ một công thức hoàn chỉnh từ đầu.[...2] [...3]
+Loạt phim "Một Ngày" trên mặt khẩu là một người đi làm một ngày, nhưng thực tế ít nhất chứa đựng bốn tầng sản xuất. Tầng đầu tiên là lựa chọn nghề nghiệp: chủ đề phải mang lại cảm giác lạ lùng, nhưng không được hoàn toàn vô liên quan tới cuộc sống của khán giả. Tầng thứ hai là giảng dạy thực địa: người dẫn chương trình không nhận trực tiếp một danh hiệu nghề nghiệp, mà phải trước tiên nhận đào tạo về công cụ, an toàn và quy trình. Tầng thứ ba là thất bại và thử lại: sự vô cẩn của người dẫn chương trình tạo ra tiếng cười, đồng thời cũng giúp sự thành thạo của các chuyên gia trở nên hiển thị. Tầng thứ tư mới là hậu kỳ, nén lại thời gian dài làm việc thành một câu chuyện mà khán giả vẫn sẵn sàng theo dõi. Các nghiên cứu và cuộc phỏng vấn với nhóm sản xuất đều chỉ ra rằng công thức của thứ Năm không phải là một công thức hoàn chỉnh ngay từ đầu, mà là kết quả của việc dần tìm ra giữa trực tuyến, ghi hình trước, tương tác và áp lực thương mại.[^2] [^3]
 
-Bốn tầng này cũng giải thích tại sao việc "mở hộp" đơn thuần không đủ. Mở hộp thường chỉ cần trình bày đối tượng. "Một Ngày" đòi hỏi chương trình đưa đối tượng trở lại trong một hệ thống quan hệ làm việc: ai dạy MC, ai kiểm tra an toàn, ai chịu trách nhiệm dọn dẹp sự thất bại, ai tiếp tục làm việc sau khi MC rời đi. Khi nói về kế hoạch, Lã Thị Quyết nhấn mạnh rằng sản phẩm hoặc không gian do doanh nghiệp cung cấp không chỉ cần "vì họ nghĩ là đẹp" mà còn phải để người xem bên ngoài cảm nhận được sự khó khăn, sự mới lạ hoặc giá trị phổ cộng của công việc.[...3]
+Bốn tầng này cũng giải thích tại sao một cuộc "mở hộp" thông thường là không đủ. Mở hộp thường chỉ cần trưng bày vật chất. Loạt phim "Một Ngày" thì yêu cầu chương trình đặt vật chất trở lại trong một hệ thống làm việc: ai dạy người dẫn chương trình, ai kiểm tra an toàn, ai chịu trách nhiệm dọn dẹp thất bại, và ai tiếp tục hoàn thành công việc sau khi người dẫn chương trình rời đi. Khi nhắc đến kế hoạch sản xuất, Lã Bát An nhấn mạnh rằng sản phẩm hoặc không gian do doanh nghiệp cung cấp không chỉ nên được quay vì "chính họ nghĩ nó đẹp", mà còn phải để khán giả bên ngoài cảm nhận được sự vất vả, sự mới lạ hoặc giá trị phổ quát của công việc.[^3]
 
-| Tầng Chương Trình      | Nội dung mà người xem thấy                                 | Công việc thường bị bỏ qua                                                   |
-| ---------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Lựa chọn nghề nghiệp   | Một nghề nghề nghệ lạ hoặc hiếm khi được chụp              | Cách nhà lập kế hoạch đánh giá xem chủ đề có hấp dẫn công chúng không        |
-| Đào tạo tại chỗ        | MC cầm công cụ, mặc đồ bảo hộ, lắng nghe giải thích        | Sự dạy dỗ của chuyên gia, an toàn lao động và quản lý rủi ro                 |
-| Sự thất bại và thử lại | Sự vụng dại, sai lầm, bị chỉ trích và thách thức lại       | Sự thành thạo là kết quả của đào tạo dài hạn, không phải phản ứng tự nhiên   |
-| Hậu sản xuất           | Những điểm hài, nhịp điệu và câu chuyện đầy đủ của một tập | Cách biên tập quyết định công việc nào được giữ lại, công việc nào bị bỏ qua |
+| Tầng chương trình   | Nội dung khán giả nhìn thấy                                                     | Công việc trước đây dễ bị bỏ qua                                             |
+| ------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Lựa chọn nghề       | Một nghề lạ hoặc hiếm khi được quay                                             | Người lên kế hoạch như đánh giá xem chủ đề có hấp dẫn chung không            |
+| Đào tạo thực địa    | Người dẫn chương trình dùng công cụ, mặc trang phục bảo hộ, lắng nghe hướng dẫn | Các chuyên gia dạy nghề, quản lý an toàn và rủi ro                           |
+| Thất bại và thử lại | Sự vô cẩn, lỗi, bị chỉ trích và thách thức lại                                  | Sự thành thạo là kết quả của dài hạn luyện tập, không phải phản xạ tự nhiên  |
+| Hậu kỳ kể chuyện    | Những khoảnh khắc hài hước, nhịp độ và câu chuyện hoàn chỉnh của một tập phim   | Cách biên tập quyết định công việc nào được giữ lại, công việc nào bị cắt bỏ |
 
-Vì vậy, "sự tự nhiên" của Thứ Năm không phải là không có thiết kế, mà là thiết kế được ẩn trong nơi mà người xem không cần chú ý. Khi người xem thấy Thái Anh Văn cắt cáp thép liên tục thất bại, họ thường không đồng thời nghĩ đến vị trí của máy quay, phán định của nhân viên an toàn, thời gian chờ đợi tại chỗ, và cách biên tập biến những lần thất bại lặp lại thành một đoạn có thể hiểu được. Đúng là những công việc sản xuất bị ẩn giấu này, khiến công việc trước ống kính trông như thể tự nhiên xảy ra.
+Vì vậy, sự "tự nhiên" của thứ Năm không phải là không có thiết kế, mà là thiết kế đã được ẩn đi nơi nơi mà khán giả không cần lưu ý. Khi khán giả thấy Thái Anh Văn cắt không được dây thép, họ thường không đồng thời nghĩ đến vị trí của máy quay, phán đoán của nhân viên an toàn, thời gian chờ ở địa điểm, cũng như cách biên tập biến những lần thất bại liên tiếp thành một đoạn có thể hiểu được. Đúng là những công việc sản xuất bị ẩn giấu này, mới khiến công việc trước mặt khiên tượng như một sự kiện tự nhiên xảy ra.
 
 ## Số Lượt Xem Không Phải Là Một Điều Gì Đó
 
@@ -139,13 +139,13 @@ Hình ảnh Thái Anh Văn cắt cáp thép thất bại, 58 phút của những
 
 Nó trông như thể đang biến người nổi tiếng thành người bình thường; sâu hơn, nó đang nhắc nhở chúng ta rằng, người bình thường thực sự không có công việc bình thường.
 
-## Đọc Thêm
+## Tài Liệu Tham Khảo Mở Rộng
 
-[ Ngành Công Nghiệp Và Văn Hóa Của YouTuber Ở Đài Loan](../Culture/台灣YouTuber產業與文化.md)
+[Đài Loan YouTuber và ngành công nghiệp](/vi/culture/taiwan-youtuber-industry)
 
-[ Truyền Hình Giải Trí Của Đài Loan](../Culture/台灣綜藝.md)
+[Đài Loan truyền hình giải trí](/vi/culture/taiwan-variety-shows)
 
-[ Cách Sống Của Văn Hóa Mạng Và Thương Mại: "Một Ngày" Trả Lời Thế Nào Cho Dạng Truyền Hình Mới?](http://commagazine.twmedia.org/?p=5929)
+[Chiến lược sống còn của văn hóa mạng và thương mại: 《Một Ngày》 đáp lại dạng truyền hình mới?](http://commagazine.twmedia.org/?p=5929)
 
 ## Tài Liệu Tham Khảo
 
