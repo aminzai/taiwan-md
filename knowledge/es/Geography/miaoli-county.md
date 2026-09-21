@@ -1,21 +1,21 @@
 ---
-title: 'Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario'
-description: 'Durante el dominio japonés, el alcanfor de Miaoli representaba el 95% del total de Taiwán; Sanyi inició su talla en madera con los tocones sobrantes de destilar alcanforeros. En 2002, la aldea Beihe de Gongguan organizó el primer Festival de la Flor de Tung. En 2008, Liu Cheng-hung recibió un condado con 20.200 millones de deuda; al dejar el cargo en 2014, la deuda contable era de 67.600 millones. Entre medio ocurrieron el suicidio con pesticida de Zhu Feng-min, la demolición forzosa de la Farmacia Zhang y el Hakka Round House, construido por 120 millones y convertido en un edificio mosquito. Hoy, 530.000 personas viven en este condado, el segundo de Taiwán con mayor proporción hakka: 62,5%.'
+title: 'Condado de Miaoli: el condado hakka de carácter obstinado, que en ocho años eligió a un magistrado que duplicó la deuda del condado'
+description: 'Durante la época colonial japonesa, el alcanfor de Miaoli representaba el 95 % de toda Taiwán; Sanyi inició su industria de talla en madera utilizando raíces de alcanfor. En 2002, la aldea Beihe en Gongguan celebró el primer Festival de las Flores de Tung. En 2008, Liu Cheng-hung asumió un condado con una deuda de 20,2 mil millones; al dejar el cargo en 2014, la deuda contable era de 67,6 mil millones. Durante su mandato ocurrieron incidentes como el suicidio de Zhu Feng-min bebiendo pesticida, la demolición forzosa de la farmacia Zhang y la Casa Redonda Hakka, construida con 120 millones, convertida en un elefante blanco. Hoy, 530.000 personas viven en este condado, que tiene la segunda proporción más alta de población hakka en Taiwán, con un 62,5 %.'
 date: 2026-05-18
 category: 'Geography'
 tags:
   [
     'Miaoli',
-    'condado de Miaoli',
-    'hakka',
-    'cultura hakka',
-    'incidente de Dapu',
-    'talla en madera de Sanyi',
-    'flor de tung',
-    'pueblo saisiyat',
-    'Festival de los Espíritus Pequeños',
+    'Condado de Miaoli',
+    'Hakka',
+    'Cultura hakka',
+    'Incidente de Dapu',
+    'Talla en madera de Sanyi',
+    'Flor de tung',
+    'Pueblo saisiyat',
+    'Festival de los Espíritus Enanos',
     'Liu Cheng-hung',
-    'serie de 22 ciudades y condados',
+    'Serie de los 22 condados y ciudades',
   ]
 subcategory: '縣市'
 author: 'Taiwan.md Contributors'
@@ -25,12 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: 'El Festival de las Flores de Tung Hakka de 2023 se inauguró con oraciones junto al centenario Dios de la Tierra de piedra en Sanyi, Miaoli'
+imageCredit: '中華民國客家委員會'
+imageLicense: 'OGDL-Taiwan-1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T02:59:11.666705+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-21T05:34:02.744057+00:00'
 ---
 
 # Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario
@@ -212,19 +216,19 @@ El cuello duro es así: no te vas de la tierra. Aunque en esa tierra hayan ocurr
 - [Divisiones administrativas de Taiwán](/es/geography/administrative-divisions-of-taiwan) — historia administrativa de la creación del condado de Miaoli en 1889, la reorganización de posguerra de 1950 y la elevación de Toufen en 2015
 - [Desarrollo urbano y brecha urbano-rural en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Miaoli visto a mayor escala como “condado hakka interior con emigración poblacional” dentro de la estructura urbano-rural de Taiwán
 
-## Fuentes de imágenes
+## Fuentes de las imágenes
 
-Este artículo usa 6 imágenes con licencia CC de Wikimedia Commons, enlazadas directamente desde el servidor de Wikimedia upload:
+Este artículo utiliza 7 imágenes de Wikimedia Commons (la imagen principal bajo licencia de datos abiertos del gobierno, ya incorporada a nuestra biblioteca de imágenes; las 6 restantes bajo licencias CC):
 
-- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Foto: Consejo Hakka de la República de China, 2023-04-14, CC BY 4.0. Imagen oficial del Festival Hakka de la Flor de Tung.
-- **Escena §1903 apertura ferroviaria**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Foto: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Estación Shengxing, punto más alto de la línea longitudinal.
-- **Escena §Talla en madera de Sanyi**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Foto: SSR2000, 2010-05-01, CC BY-SA 3.0. Museo de Talla en Madera de Sanyi.
-- **Escena §Frutillas de Dahu**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Foto: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Plantación de frutillas de Dahu.
-- **Escena §Festival de los Espíritus Pequeños**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Foto: CenkX, 2006, CC BY-SA 3.0. Ceremonia paSta’ay de los saisiyat de Nanzhuang.
-- **Escena §Incidente de Dapu**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Foto: Fanjiang Zhongcen, 2013-08-18, CC BY-SA 2.0. Escena del movimiento “Demoler el gobierno”.
-- **Escena §530.000 personas**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Foto: Rick888chen, 2021-01-28, CC BY-SA 4.0. Huerta turística de frutillas de Dahu.
+- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Foto: Consejo Hakka de la República de China, 2023-04-14, [OGDL-Taiwan-1.0](https://data.gov.tw/license) (licencia de datos abiertos del gobierno, compatible con CC BY 4.0). Foto oficial del Consejo Hakka durante la ceremonia de bendición y anuncio de la apertura del Festival de la Flor de Tung junto al centenario Dios de Piedra en el municipio de Sanyi, ya incorporada a nuestra biblioteca de imágenes.
+- **Escena §1903 apertura**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Foto: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Estación Shengxing, punto más alto de la Línea Principal.
+- **Escena §Escultura en madera de Sanyi**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Foto: SSR2000, 2010-05-01, CC BY-SA 3.0. Museo de la Escultura en Madera de Sanyi.
+- **Escena §Fresas de Dahu**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Foto: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Granja de fresas de Dahu.
+- **Escena §Festival de los Espíritus Pequeños**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Foto: CenkX, 2006, CC BY-SA 3.0. Festival paSta'ay del pueblo saisiyat de Nanzhuang.
+- **Escena §Incidente de Dapu**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Foto: 中岑 范姜, 2013-08-18, CC BY-SA 2.0. Escena del movimiento «Demolición del Gobierno».
+- **Escena §530 000 personas**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Foto: Rick888chen, 2021-01-28, CC BY-SA 4.0. Granja turística de fresas de Dahu.
 
-Licencias: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Condiciones de licencia: [OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referencias
 
