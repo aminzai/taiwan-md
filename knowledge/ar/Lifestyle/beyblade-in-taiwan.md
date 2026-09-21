@@ -11,7 +11,7 @@ lastVerified: 2026-08-19
 lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
-rationale: 'None'
+rationale: null
 why_this_hook: '以 2026 年 5 月新莊宏匯廣場清晨排隊的真實畫面開場，取代「玩具懷舊」的慣性寫法，凸顯陀螺已競技化的反差。'
 whats_excluded: '不寫各世代動畫劇情細節、不寫二手市場行情與價格指南，聚焦玩具本身如何演化成運動。'
 where_it_hedges: '「全台每年 600 場以上比賽」來自第三方賽事整合平台而非官方統計；Hasbro 財報數字以新聞稿口徑為準。'

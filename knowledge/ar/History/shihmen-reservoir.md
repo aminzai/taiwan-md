@@ -12,7 +12,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-rationale: "{'why_this_hook': '用水壩、檔案與移民安置把戰後現代化從宏大工程拉回土地與日常生活。', 'whats_excluded': '不重寫臺灣水利史、桃園所有埤塘或石門水庫今日營運，只聚焦 1902 至 1964 年的構想、建設與移民代價。', 'where_it_hedges': '對淹沒區人口、移民村與土地衝突採用研究與檔案可確認的範圍，不把單一個案擴大成所有居民的共同經驗。', 'whos_pushing_back': '工程效益、環境代價與國家治理不是互相排斥的答案，文章保留不同角色的衝突。'}"
+rationale:
+  why_this_hook: '用水壩、檔案與移民安置把戰後現代化從宏大工程拉回土地與日常生活。'
+  whats_excluded: '不重寫臺灣水利史、桃園所有埤塘或石門水庫今日營運，只聚焦 1902 至 1964 年的構想、建設與移民代價。'
+  where_it_hedges: '對淹沒區人口、移民村與土地衝突採用研究與檔案可確認的範圍，不把單一個案擴大成所有居民的共同經驗。'
+  whos_pushing_back: '工程效益、環境代價與國家治理不是互相排斥的答案，文章保留不同角色的衝突。'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'History/石門水庫.md'

@@ -10,13 +10,15 @@ tags:
 lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
 sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-07-25T10:53:27+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageCredit: 'Richy / Wikimedia Commons'
 ---
 
 # ثقافة الأسواق الليلية في تايوان

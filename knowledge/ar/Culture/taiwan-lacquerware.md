@@ -17,7 +17,11 @@ image: '/article-images/culture/taiwan-lacquer-tree-restoration-2022.webp'
 imageCredit: '文化部'
 imageLicense: '政府網站資料開放宣告。圖片來源頁見 imageSource'
 imageSource: 'https://www.moc.gov.tw/News_Content.aspx?n=105&s=58401'
-rationale: "{'why_this_hook': '從一件家庭日常器物切入，讓讀者看見漆器如何把山林材料、婚禮禮俗、外銷工業與文化資產接在一起。', 'whats_excluded': '不把台灣漆藝寫成完整技法教科書。不詳列所有工坊與漆藝家。不以未查證的全台第一、唯一或最大等稱號替代產業證據。', 'where_it_hedges': '蓬萊塗、安南漆樹與 1970 年代外銷以官方與博物館資料為主。人物傳承與脫胎漆器採工藝中心個案頁轉述。地方展覽與觀光頁僅作補充，不讓單一來源支撐核心結論。', 'whos_pushing_back': '認為漆器只是懷舊收藏品的讀者。認為塑膠化只是消費偏好而非材料與勞動結構改變的讀者。以及主張工藝保存只需保存成品、不需復育材料鏈的觀點。'}"
+rationale:
+  why_this_hook: '從一件家庭日常器物切入，讓讀者看見漆器如何把山林材料、婚禮禮俗、外銷工業與文化資產接在一起。'
+  whats_excluded: '不把台灣漆藝寫成完整技法教科書。不詳列所有工坊與漆藝家。不以未查證的全台第一、唯一或最大等稱號替代產業證據。'
+  where_it_hedges: '蓬萊塗、安南漆樹與 1970 年代外銷以官方與博物館資料為主。人物傳承與脫胎漆器採工藝中心個案頁轉述。地方展覽與觀光頁僅作補充，不讓單一來源支撐核心結論。'
+  whos_pushing_back: '認為漆器只是懷舊收藏品的讀者。認為塑膠化只是消費偏好而非材料與勞動結構改變的讀者。以及主張工藝保存只需保存成品、不需復育材料鏈的觀點。'
 curation: 'incubating'
 translatedFrom: 'Culture/台灣漆器.md'
 sourceCommitSha: '998b8bdb1'

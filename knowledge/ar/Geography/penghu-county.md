@@ -27,10 +27,6 @@ lastHumanReview: false
 readingTime: 15
 researchReport: 'reports/research/2026-05/澎湖縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg'
-imageCredit: 'Wing1990hk'
-imageLicense: 'CC BY-SA 3.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg'
 translatedFrom: 'Geography/澎湖縣.md'
 sourceCommitSha: 'dd6cd0156'
 sourceContentHash: 'sha256:e10092be60773ede'

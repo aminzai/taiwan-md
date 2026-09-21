@@ -15,7 +15,11 @@ imageCredit: 'Taiwankengo / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2021_Xiaoli_Pond_in_Bade_District_Taoyuan_ii.jpg'
 readingTime: 10
-rationale: "{'why_this_hook': '以桃園埤塘作為分散式水庫，連結地理條件、水利工程與地方生活。', 'whats_excluded': '不把所有埤塘視為同質景點，也不以單一數字抹平不同統計時點與範圍。', 'where_it_hedges': '對法規、文化資產與個別池塘現況，只採用直接來源能支持的敘述。', 'whos_pushing_back': '納入水利管理、保育、學術研究與公視報導對開發與保存的不同關切。'}"
+rationale:
+  why_this_hook: '以桃園埤塘作為分散式水庫，連結地理條件、水利工程與地方生活。'
+  whats_excluded: '不把所有埤塘視為同質景點，也不以單一數字抹平不同統計時點與範圍。'
+  where_it_hedges: '對法規、文化資產與個別池塘現況，只採用直接來源能支持的敘述。'
+  whos_pushing_back: '納入水利管理、保育、學術研究與公視報導對開發與保存的不同關切。'
 curation: 'incubating'
 translatedFrom: 'Geography/桃園埤塘.md'
 sourceCommitSha: 'e974b4c9e'

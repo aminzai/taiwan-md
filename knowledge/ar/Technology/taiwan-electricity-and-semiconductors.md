@@ -13,7 +13,11 @@ featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
-rationale: "{'why_this_hook': '把「護國神山」往下接到電網，讓讀者看見半導體籌碼背後的基礎設施帳單。', 'whats_excluded': '不把文章寫成核電、綠電或電價政策的單一立場文。', 'where_it_hedges': '同時處理供電穩定、低碳電力、產業競爭力、公共成本與能源安全。', 'whos_pushing_back': '半導體與 AI 產業需要穩定低碳電力，但社會也會追問成本、風險、環境負擔與分配公平。'}"
+rationale:
+  why_this_hook: '把「護國神山」往下接到電網，讓讀者看見半導體籌碼背後的基礎設施帳單。'
+  whats_excluded: '不把文章寫成核電、綠電或電價政策的單一立場文。'
+  where_it_hedges: '同時處理供電穩定、低碳電力、產業競爭力、公共成本與能源安全。'
+  whos_pushing_back: '半導體與 AI 產業需要穩定低碳電力，但社會也會追問成本、風險、環境負擔與分配公平。'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'

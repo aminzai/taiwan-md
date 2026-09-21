@@ -10,6 +10,10 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
+image: '/article-images/people/chen-chih-chung-hero.webp'
+imageCredit: 'VOA 許波'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Chih-chung.jpg'
 translatedFrom: 'People/陳致中.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c3cf496574092462'

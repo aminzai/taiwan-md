@@ -13,7 +13,11 @@ featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
-rationale: "{'why_this_hook': '把晶圓廠旁邊的水庫、農田、再生水廠與地方治理放在一起，讓半導體用水變成可理解的公共議題。', 'whats_excluded': '不把半導體用水簡化成「台積電搶水」，也不做完整水利工程技術文。', 'where_it_hedges': '承認半導體用水需要大量公共基礎設施，同時說明回收水、再生水與地方調度的治理功能。', 'whos_pushing_back': '農業、民生、地方社會與海外設廠地都會追問晶圓廠用水是否公平、可持續、可被監督。'}"
+rationale:
+  why_this_hook: '把晶圓廠旁邊的水庫、農田、再生水廠與地方治理放在一起，讓半導體用水變成可理解的公共議題。'
+  whats_excluded: '不把半導體用水簡化成「台積電搶水」，也不做完整水利工程技術文。'
+  where_it_hedges: '承認半導體用水需要大量公共基礎設施，同時說明回收水、再生水與地方調度的治理功能。'
+  whos_pushing_back: '農業、民生、地方社會與海外設廠地都會追問晶圓廠用水是否公平、可持續、可被監督。'
 image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp'
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'

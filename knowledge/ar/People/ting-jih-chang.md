@@ -12,7 +12,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '用一條已完成的電報線，帶出丁日昌把交通、產業與海防視為同一系統的核心洞察。', 'whats_excluded': '不把晚清臺灣洋務史完整寫成劉銘傳傳記，也不把後來完成的鐵路工程倒算成丁日昌任內成果。', 'where_it_hedges': '對招墾、撫番與民政措施採取史料可支持的有限敘述，避免把清代官府治理直接翻譯成現代政策語言。', 'whos_pushing_back': '經費短缺、中央與地方權責分散，以及地方社會並非被動接受者，都是這套海防現代化藍圖的反作用力。'}"
+rationale:
+  why_this_hook: '用一條已完成的電報線，帶出丁日昌把交通、產業與海防視為同一系統的核心洞察。'
+  whats_excluded: '不把晚清臺灣洋務史完整寫成劉銘傳傳記，也不把後來完成的鐵路工程倒算成丁日昌任內成果。'
+  where_it_hedges: '對招墾、撫番與民政措施採取史料可支持的有限敘述，避免把清代官府治理直接翻譯成現代政策語言。'
+  whos_pushing_back: '經費短缺、中央與地方權責分散，以及地方社會並非被動接受者，都是這套海防現代化藍圖的反作用力。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/丁日昌.md'

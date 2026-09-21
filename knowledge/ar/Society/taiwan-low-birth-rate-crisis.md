@@ -13,7 +13,11 @@ featured: false
 lastVerified: 2026-06-17
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/台灣少子化危機.md'
-rationale: "{'why_this_hook': '2024 龍年生肖魔法失靈 + 2025 崩到 0.695 是最新且最反直覺的切角；核心矛盾「不是不生是不婚」推翻通行的「養不起」敘事。', 'whats_excluded': '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。', 'where_it_hedges': 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。', 'whos_pushing_back': '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'}"
+rationale:
+  why_this_hook: '2024 龍年生肖魔法失靈 + 2025 崩到 0.695 是最新且最反直覺的切角；核心矛盾「不是不生是不婚」推翻通行的「養不起」敘事。'
+  whats_excluded: '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。'
+  where_it_hedges: 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。'
+  whos_pushing_back: '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'
 translatedFrom: 'Society/台灣少子化危機.md'
 sourceCommitSha: 'd96dbc4bb'
 sourceContentHash: 'sha256:22f624258f9ada15'

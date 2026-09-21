@@ -25,7 +25,7 @@ lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
 imageAlt: 'صورة فضائية للجزيرة الرئيسية لتايوان من الفضاء، حيث تبرز السهول الغربية وسلسلة جبال الوسط الشرقية بوضوح'
 imageCredit: 'NASA'
-imageLicense: 'ملك عام (NASA)'
+imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
 sourceCommitSha: 'b67b190fb'

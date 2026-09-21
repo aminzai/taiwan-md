@@ -14,11 +14,15 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/大港開唱-outline.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+image: '/article-images/music/megaport-festival-2025-namba-stage.webp'
 imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
-rationale: "{'why_this_hook': '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。', 'whats_excluded': '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。', 'where_it_hedges': '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。', 'whos_pushing_back': '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'}"
+rationale:
+  why_this_hook: '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。'
+  whats_excluded: '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。'
+  where_it_hedges: '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。'
+  whos_pushing_back: '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'
 translatedFrom: 'Music/大港開唱.md'
 sourceCommitSha: '717a640b3'
 sourceContentHash: 'sha256:2cde586b88469ed9'
