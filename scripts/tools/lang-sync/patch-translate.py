@@ -440,7 +440,7 @@ def rebuild_frontmatter_preserve_translation(zh_fm: dict, tr_fm: dict, zh_path: 
             lines.append(f"imageAlt: {st.yaml_single_quote(str(tr_fm.get('imageAlt', zh_fm[key])))}")
         else:
             # passthrough + 任何其他未明確歸類的欄位：機械複製 zh 目前值
-            lines.append(f"{key}: {st.render_scalar(zh_fm[key])}")
+            lines.append(st.render_field(key, zh_fm[key]))
     lines.extend(provenance_lines(zh_path, zh_content))
     return "\n".join(lines)
 

@@ -497,6 +497,12 @@ def disarm_frontmatter(zh_fm: dict) -> str:
         lines.append(f"DESC: {desc}")
     if tags:
         lines.append(f"TAGS: {', '.join(str(t) for t in tags)}")
+    # 2026-09-22：imageAlt 是讀者面對的替代文字，verify 第 13 檢查把它跟 title/description
+    # 同列不得留原文；此前裝甲路徑把它當 passthrough 機械複製 zh，zh 有 imageAlt 的 48 篇在
+    # 整篇引擎永遠過不了閘（run 98122 一夜 51 次）。structured／patch 09-21 已修，這是第三條。
+    alt = zh_fm.get("imageAlt")
+    if alt:
+        lines.append(f"ALT: {alt}")
     return "\n".join(lines)
 
 
@@ -667,18 +673,21 @@ Rules:
    `|` byte-for-byte (it is a zh-TW file path — do NOT translate or transliterate
    it); translate only the summary text after the `|` if present.
 
-Output format — EXACTLY these four marked sections, in this order:
+Output format — EXACTLY these marked sections, in this order (===ALT=== only when
+an ALT line is given in the frontmatter fields; otherwise omit that section):
 ===TITLE===
 <translated title, one line>
 ===DESC===
 <translated description, one line>
 ===TAGS===
 <translated tags, comma-separated, one line>
+===ALT===
+<translated image alt text, one line — only if ALT was given>
 ===BODY===
 <translated body markdown — heading/list/footnote structure preserved, ⟦Un⟧ tokens
 preserved verbatim, reserved spans kept in original zh-TW>
 
-Output ONLY those four marked sections, nothing else. No commentary, no code fence,
+Output ONLY those marked sections, nothing else. No commentary, no code fence,
 no reasoning/chain-of-thought, no text before ===TITLE=== or after the body."""
 
     if guide_block:
@@ -696,7 +705,7 @@ no reasoning/chain-of-thought, no text before ===TITLE=== or after the body."""
 {tokenized_body}
 ```
 
-Output the four ===TITLE===/===DESC===/===TAGS===/===BODY=== sections as instructed."""
+Output the ===TITLE===/===DESC===/===TAGS===/(===ALT===)/===BODY=== sections as instructed."""
 
     ctx = {"zh_fm": zh_fm, "url_list": url_list, "reserved_count": reserved_count,
            "wikilinks_materialized": wikilinks_materialized,
@@ -708,6 +717,7 @@ _ARMOR_SECTION_RE = re.compile(
     r"=+\s*TITLE\s*=+\s*(?P<title>.*?)\s*"
     r"=+\s*DESC\s*=+\s*(?P<desc>.*?)\s*"
     r"=+\s*TAGS\s*=+\s*(?P<tags>.*?)\s*"
+    r"(?:=+\s*ALT\s*=+\s*(?P<alt>.*?)\s*)?"
     r"=+\s*BODY\s*=+\s*(?P<body>.*)",
     re.DOTALL | re.IGNORECASE,
 )
@@ -744,7 +754,12 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
     title = m.group("title").strip()
     desc = m.group("desc").strip()
     tags_raw = m.group("tags").strip()
+    alt_out = (m.group("alt") or "").strip()
     body_out = m.group("body")
+    if ctx["zh_fm"].get("imageAlt") and not alt_out:
+        # zh 有 imageAlt 而模型沒交 ===ALT===：照抄 zh 一定被 verify 第 13 檢查擋下（同一篇
+        # 白燒一次），直接在這裡判失敗讓 cascade 換模型重試。
+        return None, "armor: zh has imageAlt but model output has no ===ALT=== section"
 
     # ---- URL token 還原 + 完整性驗證 ----
     body_restored, bad_tokens = restore_urls(body_out, ctx["url_list"])
@@ -771,10 +786,12 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
                 lines.append("  ]")
             else:
                 lines.append("tags: []")
+        elif key == "imageAlt" and alt_out:
+            lines.append(f"imageAlt: {yaml_single_quote(alt_out)}")
         else:
             # PASSTHROUGH_FIELDS（同源 verify-translation.py）+ subcategory +
             # 任何未明確歸類欄位——一律機械複製 zh 值，寧可過度保留也不靜默丟欄位。
-            lines.append(f"{key}: {render_scalar(zh_fm[key])}")
+            lines.append(_structured_mod.render_field(key, zh_fm[key]))
 
     placeholder = article.get("frontmatter_placeholder", {}) or {}
     for key, value in placeholder.items():

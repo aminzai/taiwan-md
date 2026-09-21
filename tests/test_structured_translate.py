@@ -414,3 +414,33 @@ def test_render_scalar_list_of_mappings_becomes_block_sequence():
     nested = {"x": [{"a": 1, "b": {"c": 2}}, {"a": 3}], "z": [[1, 2], [3]]}
     o = "r:" + MODULE.render_scalar(nested) + "\n"
     assert yaml.safe_load(o) == {"r": nested}
+
+
+def test_armored_whole_engine_translates_image_alt_and_keeps_spore_links_block():
+    """整篇引擎（裝甲路徑）：zh 有 imageAlt 時 prompt 帶 ALT 行、輸出要 ===ALT===；沒交就判失敗讓 cascade 換模型。
+    sporeLinks 這種 list of mapping 組回 block sequence，YAML 可 parse。"""
+    import importlib.util as _ilu
+    import re as _re
+    import sys
+    import yaml
+
+    tpath = MODULE_PATH.parent / "translate.py"
+    sys.path.insert(0, str(MODULE_PATH.parent))
+    spec = _ilu.spec_from_file_location("translate_whole", tpath)
+    tr = _ilu.module_from_spec(spec)
+    spec.loader.exec_module(tr)
+    zh = (
+        "---\ntitle: 'T0'\ndescription: 'D0'\ntags: ['甲']\nimageAlt: '花蓮山景'\n"
+        "sporeLinks:\n  - id: 13\n    platform: 'threads'\n---\n\n# T0\n\n正文一段。\n"
+    )
+    system, user, ctx = tr.armor_pre({"frontmatter_placeholder": {"translatedFrom": "X/Y.md"}}, zh, "ko")
+    assert "ALT: 花蓮山景" in user
+    body = _re.search(r"```markdown\n(.*?)\n```", user, _re.S).group(1)
+    ok_out = "===TITLE===\nT\n===DESC===\nD\n===TAGS===\na\n===ALT===\n화련 산\n===BODY===\n" + body
+    res, err = tr.armor_post(ok_out, ctx, {"frontmatter_placeholder": {"translatedFrom": "X/Y.md"}})
+    assert err is None
+    fm = yaml.safe_load(res.split("\n---")[0][4:])
+    assert fm["imageAlt"] == "화련 산"
+    assert fm["sporeLinks"] == [{"id": 13, "platform": "threads"}]
+    no_alt = "===TITLE===\nT\n===DESC===\nD\n===TAGS===\na\n===BODY===\n" + body
+    assert tr.armor_post(no_alt, ctx, {"frontmatter_placeholder": {}})[1].startswith("armor: zh has imageAlt")

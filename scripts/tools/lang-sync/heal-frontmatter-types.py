@@ -93,10 +93,10 @@ def sync_passthrough_fields(fm_lines: list[str], zh_fm: dict,
                 out[i] = None
                 changed.append(f"{key}: removed (zh has none)")
             elif cur_val != zh_fm[key]:
-                out[i] = f"{key}: {_st.render_scalar(zh_fm[key])}"
+                out[i] = _st.render_field(key, zh_fm[key])
                 changed.append(f"{key}: synced")
         elif zh_has:
-            line = f"{key}: {_st.render_scalar(zh_fm[key])}"
+            line = _st.render_field(key, zh_fm[key])
             anchor = idx.get("translatedFrom")
             if anchor is not None:
                 out.insert(anchor, line)
@@ -144,8 +144,7 @@ def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[
             lines[i] = None
             changed.append(f"{key}: removed (zh has none)")
             continue
-        lines[i] = f"{key}:{_st.render_scalar(zh_fm[key])}" if isinstance(zh_fm[key], dict) \
-            else f"{key}: {_st.render_scalar(zh_fm[key])}"
+        lines[i] = _st.render_field(key, zh_fm[key])
         changed.append(f"{key}: {type(zh_fm[key]).__name__}")
     new_fm = "\n".join(l for l in lines if l is not None)
     # 守恆：新 frontmatter 必須能 parse，且該欄位值 == zh 的值

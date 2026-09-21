@@ -324,6 +324,14 @@ def render_scalar(value, indent: int = 0) -> str:
     return yaml_single_quote(value)
 
 
+def render_field(key: str, value, indent: int = 0) -> str:
+    """`key: value` 一整行（block mapping／sequence 時 `key:` 後不留尾空白，直接接換行）。
+    三條引擎與 heal 工具的 passthrough 欄位都該走這裡，不要各自拼 f-string。"""
+    rendered = render_scalar(value, indent=indent)
+    sep = "" if rendered.startswith("\n") else " "
+    return f"{' ' * indent}{key}:{sep}{rendered}"
+
+
 def render_block_sequence(items: list, indent: int) -> str:
     """把 list 渲染成 `- item` 的縮排 block sequence（回傳值以換行開頭，接在 `field:` 後）。
     dict 元素第一個鍵跟在 `- ` 後、其餘鍵對齊縮排 indent+2；其他型別走 render_scalar。"""
@@ -478,11 +486,11 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
         elif key == "imageAlt":
             lines.append(f"imageAlt: {yaml_single_quote(str(data.get('imageAlt', zh_fm[key])))}")
         elif key in PASSTHROUGH:
-            lines.append(f"{key}: {render_scalar(zh_fm[key])}")
+            lines.append(render_field(key, zh_fm[key]))
         else:
             # 沒被明確歸類的欄位（既有 schema 之外）— 安全網機械複製，
             # 寧可過度保留也不要靜默丟欄位。
-            lines.append(f"{key}: {render_scalar(zh_fm[key])}")
+            lines.append(render_field(key, zh_fm[key]))
 
     lines.append(f"translatedFrom: {yaml_single_quote(zh_path)}")
     lines.append(f"sourceCommitSha: {yaml_single_quote(git_short_sha(zh_path))}")
