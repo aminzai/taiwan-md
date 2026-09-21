@@ -1,19 +1,21 @@
 ---
-title: 'Miêu Lật: Quận Khách Gia Cứng Cỏi, Chọn Một Quận Trưởng Làm Nợ Công Tăng Gấp Đôi Trong Tám Năm'
-description: 'Chiến thắng camphor chiếm 95% toàn Đài Loan thời kỳ Nhật trị; năm 1918 Tam Nghĩa dùng phế liệu gỗ từ chưng cất bắt đầu làm điêu khắc gỗ. Năm 2002 công viên Bắc Hà, Công Quản tổ chức lễ tế hoa sơn quất lần đầu. 2008 Lưu Chính Hồng tiếp nhận quận có nợ 202 tỷ NDT, 2014 khi rời nhiệm kỳ số nợ lên tới 676 tỷ. Giữa những năm đó xuất hiện: Chu Phong Mẫn 73 tuổi uống thuốc sâu; Trương Sâm Văn nhà thuốc bị xé nát; tòa nhà tròn Khách Gia 1,2 tỷ NDT trở thành tòa nhà bỏ hoang. Hôm nay 53 vạn người sống trong quận này với tỷ lệ Khách Gia 62,5% cao thứ hai toàn Đài Loan.'
+title: 'Huyện Miêu Lịch: Huyện Khách Gia cứng đầu, tám năm bầu ra huyện trưởng khiến nợ quỹ huyện tăng gấp đôi'
+description: 'Thời kỳ Nhật trị, camphor của Miêu Lịch chiếm 95% toàn Đài Loan, Tam Nghĩa khởi nghiệp từ việc chế biến gốc cây camphor để làm điêu khắc gỗ. Năm 2002, xã Bắc Hà, huyện Công Quản tổ chức lễ hội Hoa Dầu Tong đầu tiên. Năm 2008, Lục Chính Hồng tiếp nhận huyện với nợ 202 tỷ, khi rời nhiệm năm 2014 sổ sách ghi nợ 676 tỷ. Giữa chừng xảy ra vụ Chu Phùng Mẫn uống thuốc trừ sâu, vụ cưỡng chế nhà thuốc Trương, và tòa nhà Nhà tròn Khách Gia 1,2 tỷ bị xây thành ổ muỗi. Hôm nay, 530.000 người sống trong huyện này, nơi tỷ lệ Khách Gia 62,5% là cao thứ hai toàn Đài Loan.'
 date: 2026-05-18
 category: 'Geography'
 tags:
   [
-    'Miêu Lật',
+    'Miêu Lịch',
+    'Huyện Miêu Lịch',
     'Khách Gia',
+    'Văn hóa Khách Gia',
     'Sự kiện Đại Phố',
-    'Điêu khắc gỗ Tam Nghĩa',
-    'Hoa sơn quất',
-    'Dân tộc Saisiat',
-    'Lễ tế Thần tí',
-    'Lưu Chính Hồng',
-    '22 Quận thị loạt',
+    'Tam Nghĩa Mộc Điêu',
+    'Hoa Dầu Tong',
+    'Sắc Hạ Tộc',
+    'Lễ hội Ai Linh',
+    'Lục Chính Hồng',
+    'Loạt 22 huyện thị',
   ]
 subcategory: '縣市'
 author: 'Taiwan.md Contributors'
@@ -23,12 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: 'Năm 2023, lễ hội Hoa Dầu Tong Khách Gia khai mạc cầu nguyện bên cạnh thần đá trăm năm tại Tam Nghĩa, Miêu Lịch'
+imageCredit: '中華民國客家委員會'
+imageLicense: 'OGDL-Taiwan-1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T19:19:46.566676+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-21T02:38:46.477614+00:00'
 ---
 
 # Miêu Lật: Quận Khách Gia Cứng Cỏi, Chọn Một Quận Trưởng Làm Nợ Công Tăng Gấp Đôi Trong Tám Năm
@@ -210,19 +216,19 @@ Cứng cỏi là như vậy: bạn không rời đi đất đai. Ngay cả nhữ
 - [Phân Công Hành Chính Đài Loan](/geography/Phân Công Hành Chính Đài Loan) — Lịch sử hành chính 1889 Miêu Lật thiết lập quận, 1950 chiến tranh sau vạch định lại, 2015 Đầu Phần nâng cấp thành phố
 - [Phát Triển Đô Thị Đài Loan Và Khoảng Cách Thành Thôn](/geography/Phát Triển Đô Thị Đài Loan Và Khoảng Cách Thành Thôn) — Từ góc độ lớn hơn nhìn Miêu Lật là "quận Khách Gia nước, dân số chảy ra nước" vị trí trong cơ cấu thành thôn Đài Loan
 
-## Hình Ảnh Nguồn Gốc
+## Nguồn Hình Ảnh
 
-Bài viết sử dụng 6 hình ảnh cấp phép CC từ Wikimedia Commons, hot-link từ máy chủ tải lên Wikimedia:
+Bài viết này sử dụng 7 hình ảnh từ Wikimedia Commons (hình ảnh hero dùng giấy phép dữ liệu mở của chính phủ, đã lưu vào thư viện hình ảnh của trang web; 6 hình còn lại dùng giấy phép CC):
 
-- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: 中華民國客家委員會, 2023-04-14, CC BY 4.0. Hình ảnh chính thức lễ tế hoa sơn quất Khách Gia.
-- **Scene §1903 Thông Xe**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Ga Thắng Hưng, điểm cao nhất tuyến chính.
-- **Scene §Điêu Khắc Gỗ Tam Nghĩa**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000, 2010-05-01, CC BY-SA 3.0. Bảo tàng Điêu Khắc Gỗ Tam Nghĩa.
-- **Scene §Dâu Tây Đại Hồ**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Vườn dâu tây Đại Hồ.
-- **Scene §Lễ Tế Thần Tí**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Photo: CenkX, 2006, CC BY-SA 3.0. Lễ tế paSta'ay dân tộc Saisiat Nam Trang.
-- **Scene §Sự Kiện Đại Phố**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: 中岑 范姜, 2013-08-18, CC BY-SA 2.0. Hiện trường phong trào Phá Chính Phủ.
-- **Scene §53 Vạn Người**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen, 2021-01-28, CC BY-SA 4.0. Vườn quan sát dâu tây Đại Hồ.
+- **Hero**：[2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: 中華民國客家委員會，2023-04-14，[OGDL-Taiwan-1.0](https://data.gov.tw/license)（giấy phép dữ liệu mở của chính phủ, tương thích CC BY 4.0）。Ủy Ban Khách Gia tại bên cạnh Bà Cổ Thạch Niên Trăm tại xã Tam Nghĩa cử hành lễ cầu nguyện và tuyên bố khai mạc Lễ Hoa Tung, ảnh ghi chép chính thức, đã lưu vào thư viện hình ảnh của trang web.
+- **Hình §1903 Khai Hành**：[Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng，2010-06-02，CC BY-SA 2.0。Ga Thịnh Hưng, điểm cao nhất tuyến Trunk Line.
+- **Hình §Điêu Khắc Gỗ Tam Nghĩa**：[Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000，2010-05-01，CC BY-SA 3.0。Bảo Tàng Điêu Khắc Gỗ Tam Nghĩa.
+- **Hình §Dâu Tây Đại Hồ**：[Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo，2017-03-24，CC BY-SA 4.0。Vườn dâu tây Đại Hồ.
+- **Hình §Lễ Mat Kom (paSta'ay)**：[Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Photo: CenkX，2006，CC BY-SA 3.0。Lễ hội paSta'ay của người Saisiat tại Nam Trang.
+- **Hình §Sự Kiện Đại Phố**：[2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: 中岑 范姜，2013-08-18，CC BY-SA 2.0。Hiện trường phong trào "Dỡ Chính Phủ".
+- **Hình §53 Ngàn Người**：[Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen，2021-01-28，CC BY-SA 4.0。Vườn dâu tây quan光 Đại Hồ.
 
-Điều khoản cấp phép: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Điều khoản cấp phép：[OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。
 
 ## Tài Liệu Tham Khảo
 
