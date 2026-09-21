@@ -10,7 +10,11 @@ featured: false
 lastVerified: 2026-09-01
 lastHumanReview: false
 readingTime: 12
-rationale: "{'why_this_hook': '以 8,896 種選舉票切入，讓返鄉便利與選務信任的拉扯落在一個可理解、可查證的具體數字上。', 'whats_excluded': '不把移轉、郵寄、提前、代理與網路投票混成單一方案，也不預測尚未三讀草案的通過日期。', 'where_it_hedges': '8,896 是中選會對 2026 年地方選舉票種類的估算，二至三倍投票所與 2027 年時程則是公聽會個別發言人的判斷。', 'whos_pushing_back': '支持者強調返鄉門檻排除實際有投票權的人，選務機關與部分學者則要求先解決名冊、備票、秘密投票與公開監督。'}"
+rationale:
+  why_this_hook: '以 8,896 種選舉票切入，讓返鄉便利與選務信任的拉扯落在一個可理解、可查證的具體數字上。'
+  whats_excluded: '不把移轉、郵寄、提前、代理與網路投票混成單一方案，也不預測尚未三讀草案的通過日期。'
+  where_it_hedges: '8,896 是中選會對 2026 年地方選舉票種類的估算，二至三倍投票所與 2027 年時程則是公聽會個別發言人的判斷。'
+  whos_pushing_back: '支持者強調返鄉門檻排除實際有投票權的人，選務機關與部分學者則要求先解決名冊、備票、秘密投票與公開監督。'
 curation: 'incubating'
 translatedFrom: 'Politics/台灣不在籍投票.md'
 sourceCommitSha: '359df1839'

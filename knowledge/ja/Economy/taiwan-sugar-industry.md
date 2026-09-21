@@ -12,7 +12,11 @@ lastHumanReview: false
 readingTime: 9
 viewpoint_formed: true
 curation: 'incubating'
-rationale: "{'why_this_hook': '從一列五分車切入，追蹤糖業如何同時改變運輸、土地、勞動與地方生活。', 'whats_excluded': '不把糖業寫成單純的出口成功故事，也不把所有糖廠的地方經驗壓成同一條時間線。', 'where_it_hedges': '日治與戰後糖業統計常依公司、年度與產量口徑不同，正文保留來源差異，不把單一公司敘述當成全時期唯一答案。', 'whos_pushing_back': '糖業帶來工業化與交通，也伴隨殖民資本、契作控制與勞動階序。文化保存若只留下甜味，便會漏掉生產者的工時、土地與生活。'}"
+rationale:
+  why_this_hook: '從一列五分車切入，追蹤糖業如何同時改變運輸、土地、勞動與地方生活。'
+  whats_excluded: '不把糖業寫成單純的出口成功故事，也不把所有糖廠的地方經驗壓成同一條時間線。'
+  where_it_hedges: '日治與戰後糖業統計常依公司、年度與產量口徑不同，正文保留來源差異，不把單一公司敘述當成全時期唯一答案。'
+  whos_pushing_back: '糖業帶來工業化與交通，也伴隨殖民資本、契作控制與勞動階序。文化保存若只留下甜味，便會漏掉生產者的工時、土地與生活。'
 translatedFrom: 'Economy/台灣糖業.md'
 sourceCommitSha: '92ecf85ea'
 sourceContentHash: 'sha256:df3537706e58c616'

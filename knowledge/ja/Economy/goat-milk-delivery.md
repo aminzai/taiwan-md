@@ -11,7 +11,11 @@ featured: false
 lastVerified: 2026-07-30
 lastHumanReview: false
 readingTime: 12
-rationale: "{'why_this_hook': '從李明興 1979 年 6 隻羊起家的創業故事切入，把台灣羊乳的產業韌性（合作社模式、GGM 標章）跟近年「羊小編」社群翻紅的當代現象串成同一條線。', 'whats_excluded': '不深入羊乳保健功效的醫學細節（無足夠學術來源支撐），不逐一比較各品種羊隻的育種數據；行銷代操爭議只點到為止，不評斷是非。', 'where_it_hedges': '產量數字取自豐年雜誌報導；「羊小編」社群現象屬近期網路事件，第一手來源以 Threads 貼文與商業媒體整理為主，尚無長期追蹤數據。', 'whos_pushing_back': '認為傳統農業轉型應優先談補貼與政策，而非社群行銷敘事的讀者；質疑「情懷行銷」掩蓋產業結構性衰退的評論者。'}"
+rationale:
+  why_this_hook: '從李明興 1979 年 6 隻羊起家的創業故事切入，把台灣羊乳的產業韌性（合作社模式、GGM 標章）跟近年「羊小編」社群翻紅的當代現象串成同一條線。'
+  whats_excluded: '不深入羊乳保健功效的醫學細節（無足夠學術來源支撐），不逐一比較各品種羊隻的育種數據；行銷代操爭議只點到為止，不評斷是非。'
+  where_it_hedges: '產量數字取自豐年雜誌報導；「羊小編」社群現象屬近期網路事件，第一手來源以 Threads 貼文與商業媒體整理為主，尚無長期追蹤數據。'
+  whos_pushing_back: '認為傳統農業轉型應優先談補貼與政策，而非社群行銷敘事的讀者；質疑「情懷行銷」掩蓋產業結構性衰退的評論者。'
 curation: 'incubating'
 translatedFrom: 'Economy/羊奶.md'
 sourceCommitSha: '69b3afd91'

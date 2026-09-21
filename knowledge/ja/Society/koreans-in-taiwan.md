@@ -10,7 +10,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '既有中文條目集中在個別韓籍網紅，本篇補上高雄老社群、教育、制度與家庭的生活網絡。', 'whats_excluded': '不重寫胃酸人、金針菇、南珉貞等人物專題，也不把旅遊印象當成全體韓國人的經驗。', 'where_it_hedges': '2016 年高雄人數、2013 年學校規模與受訪者文化觀察均標示時間、來源與個案限制。', 'whos_pushing_back': '韓國人在台灣並非同質群體，移民、學生、度假打工者、家庭與創作者的經驗彼此不同。'}"
+rationale:
+  why_this_hook: '既有中文條目集中在個別韓籍網紅，本篇補上高雄老社群、教育、制度與家庭的生活網絡。'
+  whats_excluded: '不重寫胃酸人、金針菇、南珉貞等人物專題，也不把旅遊印象當成全體韓國人的經驗。'
+  where_it_hedges: '2016 年高雄人數、2013 年學校規模與受訪者文化觀察均標示時間、來源與個案限制。'
+  whos_pushing_back: '韓國人在台灣並非同質群體，移民、學生、度假打工者、家庭與創作者的經驗彼此不同。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Society/韓國人在台灣.md'

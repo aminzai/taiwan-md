@@ -11,7 +11,11 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
-rationale: "{'why_this_hook': '以河運沒落後豆乾如何跟著外出者流動為核心，避開既有老街導覽式寫法。', 'whats_excluded': '不把大溪老街、店家名錄或單一發明者傳說寫成全文主題。', 'where_it_hedges': '林絨說與黃家說並列呈現，對糖烏起源與水質效果保留來源界線。', 'whos_pushing_back': '地方產業必須在食品安全、機械化、品牌化與傳統敘事之間持續協商。'}"
+rationale:
+  why_this_hook: '以河運沒落後豆乾如何跟著外出者流動為核心，避開既有老街導覽式寫法。'
+  whats_excluded: '不把大溪老街、店家名錄或單一發明者傳說寫成全文主題。'
+  where_it_hedges: '林絨說與黃家說並列呈現，對糖烏起源與水質效果保留來源界線。'
+  whos_pushing_back: '地方產業必須在食品安全、機械化、品牌化與傳統敘事之間持續協商。'
 translatedFrom: 'Food/大溪豆乾.md'
 sourceCommitSha: '56b89c791'
 sourceContentHash: 'sha256:a88f68e2ed7330a9'

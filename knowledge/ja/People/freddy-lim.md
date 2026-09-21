@@ -15,7 +15,11 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg'
 difficulty: 'intermediate'
 readingTime: 14
-rationale: "{'why_this_hook': '以多重身份同時擠在同一個人身上的衝突開場，再回到閃靈主唱作為最深的身份核心。', 'whats_excluded': '閃靈完整團史、逐張專輯深度解析、大港開唱完整營運史與時代力量政黨史保留給獨立主題；此處只取足以理解林昶佐的主線。', 'where_it_hedges': '柯文哲 2014 選戰暫不採信為林昶佐個人從政契機；駐芬蘭職稱採「駐芬蘭代表」，罷免細節只作脈絡提示，不寫未完成查證的任內成果。', 'whos_pushing_back': '批評其地方服務與政黨路線者、認為閃靈政治性過強者、認為藝術人跨界政治不應浪漫化者。'}"
+rationale:
+  why_this_hook: '以多重身份同時擠在同一個人身上的衝突開場，再回到閃靈主唱作為最深的身份核心。'
+  whats_excluded: '閃靈完整團史、逐張專輯深度解析、大港開唱完整營運史與時代力量政黨史保留給獨立主題；此處只取足以理解林昶佐的主線。'
+  where_it_hedges: '柯文哲 2014 選戰暫不採信為林昶佐個人從政契機；駐芬蘭職稱採「駐芬蘭代表」，罷免細節只作脈絡提示，不寫未完成查證的任內成果。'
+  whos_pushing_back: '批評其地方服務與政黨路線者、認為閃靈政治性過強者、認為藝術人跨界政治不應浪漫化者。'
 translatedFrom: 'People/林昶佐.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:685b3a0c30829488'

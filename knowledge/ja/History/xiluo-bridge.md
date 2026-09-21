@@ -9,7 +9,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '用十五年停擺與七個月完工的時間差，呈現西螺大橋如何被戰爭、地方請願、美援與工程協作共同塑造。', 'whats_excluded': '不把西螺大橋寫成單純的遠東第一長橋，也不把文資爭議簡化成地方觀光與專家意見的對立。', 'where_it_hedges': '對不同來源的動工年份與橋梁排名保留語境差異，避免把官方登錄理由擴張成無條件的世界排名。', 'whos_pushing_back': '保存價值與古蹟升格仍有不同意見，本文保留 2025 年地方團體、主管機關與審議委員會的分歧。'}"
+rationale:
+  why_this_hook: '用十五年停擺與七個月完工的時間差，呈現西螺大橋如何被戰爭、地方請願、美援與工程協作共同塑造。'
+  whats_excluded: '不把西螺大橋寫成單純的遠東第一長橋，也不把文資爭議簡化成地方觀光與專家意見的對立。'
+  where_it_hedges: '對不同來源的動工年份與橋梁排名保留語境差異，避免把官方登錄理由擴張成無條件的世界排名。'
+  whos_pushing_back: '保存價值與古蹟升格仍有不同意見，本文保留 2025 年地方團體、主管機關與審議委員會的分歧。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/西螺大橋.md'
