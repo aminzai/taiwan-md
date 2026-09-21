@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T14:42:29+08:00",
-    "zhCommitHead": "ced44585b",
+    "lastUpdated": "2026-09-21T15:00:05+08:00",
+    "zhCommitHead": "a9d1fd068",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 995,
-        "stale": 63,
+        "fresh": 996,
+        "stale": 62,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -120979,8 +120979,8 @@
           "sourceContentHash": "sha256:70721e3134a573dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T04:35:17.850215+00:00",
-          "translationLastCommit": "8cc6a667",
-          "translationLastModified": "2026-09-18T15:14:09+08:00",
+          "translationLastCommit": "a9d1fd06",
+          "translationLastModified": "2026-09-21T14:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -160059,8 +160059,8 @@
           "sourceContentHash": "sha256:86be5fe44de05439",
           "sourceBodyHash": "sha256:ad35178eae665c53",
           "translatedAt": "2026-09-21T00:58:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a9d1fd06",
+          "translationLastModified": "2026-09-21T14:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -162534,8 +162534,8 @@
           "sourceContentHash": "sha256:d42a13d401176a58",
           "sourceBodyHash": "sha256:240cad04d9fcb9fe",
           "translatedAt": "2026-09-21T06:01:24.670775+00:00",
-          "translationLastCommit": "581a9221",
-          "translationLastModified": "2026-09-08T12:06:52+08:00",
+          "translationLastCommit": "a9d1fd06",
+          "translationLastModified": "2026-09-21T14:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -168151,16 +168151,16 @@
         "vi": {
           "path": "vi/Geography/urban-character-and-regional-culture.md",
           "translatedFrom": "Geography/城市特色與區域文化.md",
-          "sourceCommitSha": "2850f17bc",
-          "sourceContentHash": "sha256:d85bf01115410778",
-          "sourceBodyHash": "sha256:be641d09ea1153ea",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "sourceCommitSha": "fe34418b1",
+          "sourceContentHash": "sha256:7dadbaf276fb07ab",
+          "sourceBodyHash": "sha256:755b0e65ac133cb0",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "ef6cae21",
           "translationLastModified": "2026-07-24T18:36:44+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (12→5)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/urban-character-and-regional-culture.md",

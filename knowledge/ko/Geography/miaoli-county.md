@@ -1,20 +1,20 @@
 ---
-title: '먀오리현: 하카의 ‘경항’이 깃든 현, 8년 만에 현 금고 부채를 두 배 넘게 만든 현장을 선출하다'
-description: '일본 통치기 먀오리의 장뇌는 대만 전체의 95%를 차지했고, 싼이는 장뇌를 정제하고 남은 녹나무 그루터기로 목조각 산업을 일으켰다. 2002년 궁관 베이허촌에서 첫 퉁꽃 축제가 열렸다. 2008년 류정훙은 202억 부채의 현을 넘겨받았고, 2014년 퇴임 때 장부상 부채는 676억에 이르렀다. 그 사이 주펑민의 농약 음독, 장약방 강제 철거, 1.2억을 들여 지은 하카 원루의 ‘모기 건물’화가 있었다. 오늘날 53만 명이 하카 인구 비율 62.5%로 대만에서 두 번째로 높은 이 현에 살고 있다.'
+title: '미아오리 현: 고집 센 하카인의 현, 8년 만에 현 재정 부채를 두 배로 늘린 현장을 선출하다'
+description: '일제 강점기 미아오리 장뇌가 전 대만의 95%를 차지했고, 싼이는 장뇌 나무 그루터기로 목조 산업을 일으켰다. 2002년 궁관 북하촌에서 첫 동화제가 열렸다. 2008년 류정홍이 202억 부채의 현을 떠맡아 2014년 퇴임 시 장부상 676억이 되었다. 중간에 주펑민 농약 음독, 장약방 강제 철거, 하카 원루 1.2억 원을 들여 모기관으로 지은 일 등이 있었다. 오늘 53만 명이 하카인 비율 62.5%로 전 대만 두 번째인 이 현에 산다.'
 date: 2026-05-18
 category: 'Geography'
 tags:
   [
-    '먀오리',
-    '먀오리현',
+    '미아오리',
+    '미아오리 현',
     '하카',
     '하카 문화',
-    '다푸 사건',
-    '싼이 목조각',
-    '유동꽃',
+    '다포 사건',
+    '싼이 목조',
+    '동화',
     '사이샤족',
     '왜령제',
-    '류정훙',
+    '류정홍',
     '22개 현시 시리즈',
   ]
 subcategory: '縣市'
@@ -25,12 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: '2023년 하카 동화제가 미아오리 싼이 백 년 된 돌 할아버지 옆에서 개막해 복을 빌다'
+imageCredit: '中華民國客家委員會'
+imageLicense: 'OGDL-Taiwan-1.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T02:58:34.214996+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-21T05:29:09.297225+00:00'
 ---
 
 # 먀오리현: 하카의 ‘경항’이 깃든 현, 8년 만에 현 금고 부채를 두 배 넘게 만든 현장을 선출하다
@@ -214,17 +218,17 @@ _다후 딸기 관광 과수원, 2021-01-28. Photo: Rick888chen. [CC BY-SA 4.0 v
 
 ## 이미지 출처
 
-이 글은 Wikimedia Commons CC 라이선스 이미지 6장을 사용했으며, Wikimedia upload server에서 hot-link했다.
+본문은 위키미디어 공용 이미지 7장을 사용한다(히어로는 정부 개방 데이터 라이선스, 본 사이트 이미지 라이브러리에 수집됨; 나머지 6장은 CC 라이선스):
 
-- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: 중화민국 객가위원회, 2023-04-14, CC BY 4.0. 하카 퉁꽃 축제 공식 이미지.
-- **Scene §1903 개통**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. 성싱역, 종관선 최고점.
-- **Scene §싼이 목조각**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000, 2010-05-01, CC BY-SA 3.0. 싼이 목조각박물관.
-- **Scene §다후 딸기**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo, 2017-03-24, CC BY-SA 4.0. 다후 딸기밭.
+- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Photo: 중화민국 객가위원회, 2023-04-14, [OGDL-Taiwan-1.0](https://data.gov.tw/license) (정부 데이터 개방 라이선스, CC BY 4.0과 호환). 객가위원회가 싼이향 백년 석두버공 옆에서 기복 경배, 퉁꽃제 개막을 선포하는 공식 기록 사진, 본 사이트 이미지 라이브러리에 수집됨.
+- **Scene §1903 통차**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Photo: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. 승싱역, 종관선 최고점.
+- **Scene §싼이 목조**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: SSR2000, 2010-05-01, CC BY-SA 3.0. 싼이 목조 박물관.
+- **Scene §다후 딸기**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Photo: Taiwankengo, 2017-03-24, CC BY-SA 4.0. 다후 딸기 농장.
 - **Scene §왜령제**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Photo: CenkX, 2006, CC BY-SA 3.0. 난좡 사이샤족 paSta'ay 제전.
-- **Scene §다푸 사건**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: 중천 판장, 2013-08-18, CC BY-SA 2.0. 정부를 철거하라 운동 현장.
-- **Scene §53만 명**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen, 2021-01-28, CC BY-SA 4.0. 다후 딸기 관광 과수원.
+- **Scene §다푸 사건**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Photo: 중岑 범강, 2013-08-18, CC BY-SA 2.0. 철거정부 운동 현장.
+- **Scene §53 만인**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Photo: Rick888chen, 2021-01-28, CC BY-SA 4.0. 다후 딸기 관광 과원.
 
-라이선스 조항: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+라이선스 조항: [OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## 참고자료
 
