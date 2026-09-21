@@ -8,6 +8,7 @@ heredoc python（5,262 頁 × html.parser 全文解析 ≈ 64s，隨頁數線性
 """
 import sys
 import os
+import posixpath
 import re
 import random
 import html.parser
@@ -102,8 +103,12 @@ class LinkExtractor(html.parser.HTMLParser):
             text = " ".join(self._text_parts).strip()
             cls = self._cls
 
-            if not href.startswith("/"):
+            if not href.startswith("/") and not is_relative_href(href):
                 return  # skip external, anchor-only, etc.
+            # 相對路徑（../History/台灣鐵道史）留下來，交給 _scan_chunk 對頁面
+            # 自己的網址解析後再驗——2026-09-21 前這裡一律略過，12 篇 zh 母稿的
+            # `../Category/slug` 被巴別塔放大成 12 語 405 條 404 而本工具全綠
+            # （LESSONS `relative-category-links-survive-link-check`）。
 
             # Categorize
             category = "other"
@@ -120,6 +125,28 @@ class LinkExtractor(html.parser.HTMLParser):
 
 
 # ── Path resolution ──────────────────────────────────────────────
+
+def is_relative_href(href):
+    """`../x`、`./x`、`x/y`：沒有 scheme、不是錨點、不是 mailto/tel/javascript 的相對路徑。"""
+    if not href or href.startswith(("#", "/", "mailto:", "tel:", "javascript:", "data:")):
+        return False
+    if re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", href):
+        return False  # http:, https:, 其他 scheme
+    return True
+
+
+def resolve_relative_href(dist_dir, filepath, href):
+    """把頁面內的相對 href 解析成站內絕對路徑（照瀏覽器規則，以頁面目錄為基準）。
+
+    dist/en/history/xiluo-bridge/index.html + `../History/台灣鐵道史`
+      → /en/history/History/台灣鐵道史
+    """
+    page_dir = "/" + os.path.relpath(os.path.dirname(filepath), dist_dir).replace(os.sep, "/")
+    if page_dir == "/.":
+        page_dir = "/"
+    base = page_dir if page_dir.endswith("/") else page_dir + "/"
+    return posixpath.normpath(posixpath.join(base, href))
+
 
 def href_exists(dist_dir, href):
     """Check if an internal href resolves to a real file in dist/.
@@ -222,6 +249,13 @@ def _scan_chunk(args):
         page_is_article = is_article_page(filepath, dist_dir)
 
         for href, text, category in parser.links:
+            if is_relative_href(href):
+                # 報表裡保留原始寫法，讓人一眼看出是相對路徑；存在性用解析後的絕對路徑驗
+                resolved = resolve_relative_href(dist_dir, filepath, href)
+                href = f"{resolved}  (relative: {href})"
+                exists_key = resolved
+            else:
+                exists_key = href
             if category == "other" and page_is_article:
                 clean = href.split("#")[0].split("?")[0]
                 decoded = unquote(clean).lstrip("/")
@@ -242,9 +276,9 @@ def _scan_chunk(args):
 
             all_links.append((filepath, href, text, category))
 
-            if href not in href_cache:
-                href_cache[href] = href_exists(dist_dir, href)
-            if not href_cache[href]:
+            if exists_key not in href_cache:
+                href_cache[exists_key] = href_exists(dist_dir, exists_key)
+            if not href_cache[exists_key]:
                 broken_links.append((filepath, href, text, category))
 
     return all_links, broken_links
