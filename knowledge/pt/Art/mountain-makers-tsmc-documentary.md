@@ -2,7 +2,7 @@
 title: 'Os construtores de montanhas: a aposta do século — uma epopeia dos semicondutores de Taiwan que só pôde ser contada depois de apagar uma palavra do título'
 description: 'Lançado em 13 de junho de 2025, o documentário Os construtores de montanhas narra a epopeia da insubstituível indústria de semicondutores de Taiwan. Mas seu título original era Escudo de silício. Hsiao Chu-chen passou cinco anos e entrevistou mais de 80 pessoas para registrar como esse setor “nasceu da adversidade”, mas precisou retirar do título sua palavra mais incisiva — quando este país exalta seu trunfo mais poderoso, precisa primeiro ponderar como aquilo será ouvido do outro lado do estreito.'
 date: 2026-06-16
-category: 'pt'
+category: 'Art'
 tags:
   [
     'Documentário',
@@ -19,28 +19,33 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
+image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
+imageCredit: 'T Gordon Cheng'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
 translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '349e7b4fa'
-sourceContentHash: 'sha256:6be45e1cb9e9d665'
-sourceBodyHash: 'sha256:e381e9da7e6b89c3'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T14:15:42.604946+00:00'
 ---
 
 # Os construtores de montanhas: a aposta do século — uma epopeia dos semicondutores de Taiwan que só pôde ser contada depois de apagar uma palavra do título
 
 > **Visão geral em 30 segundos:** lançado em 13 de junho de 2025, _Os construtores de montanhas_ empregou cinco anos de trabalho, mais de 80 entrevistados e dezenas de milhões de novos dólares taiwaneses em custos de produção para narrar a trajetória dos semicondutores de Taiwan: da reunião de café da manhã realizada em 1974 na lanchonete de leite de soja Hsiao Hsin-hsin até a entrada de C.C. Wei na Casa Branca em 2025[^1]. Seu título original, porém, era _Escudo de silício_ — posteriormente, recomendaram que fosse alterado porque nenhuma empresa taiwanesa de semicondutores com fábricas na China queria ser vista pelo outro lado do estreito como um “escudo”[^2]. Até mesmo a palavra mais incisiva do título desta epopeia, que proclama a insubstituibilidade dos semicondutores de Taiwan, teve de ser aparada. “Escudo de silício” foi então reduzido a uma frase da narração, e o filme passou a se chamar _Os construtores de montanhas_.
 
-## A pessoa de máscara na última fila de um cinema no distrito de Xinyi
+## A pessoa de máscara na última fileira do cinema em Xinyi
 
-No início da noite de 26 de junho de 2025, em um cinema do distrito de Xinyi, em Taipé, um casal de idosos usando máscaras comprou ingressos com o próprio dinheiro, entrou na sala e escolheu a última fila. Ninguém os reconheceu até que as luzes se acenderam ao fim do filme[^3].
+Na noite de 26 de junho de 2025, um cinema no distrito de Xinyi, Taipé. Um casal idoso, ambos usando máscaras, comprou ingressos particulares e sentou-se na última fileira. Ninguém os notou até as luzes acenderem ao final do filme[^3].
 
-Aos 94 anos, Morris Chang caminhou lentamente pelo corredor, ainda de máscara, ergueu as duas mãos e acenou para o público[^4]. Alguns aplausos começaram a surgir e logo se transformaram em uma salva da sala inteira; parado diante da primeira fila, ele cumprimentou a todos[^4]. Hsiao Chu-chen estava presente e depois descreveu ter ficado “nervosa e empolgada, mas também, é claro, um pouco decepcionada”[^5]. A decepção vinha de duas coisas: o fundador da TSMC não aparecia no filme em uma única entrevista frontal; diante da epopeia sobre a empresa que ele próprio fundara, escolhera comparecer como espectador, não como entrevistado.
+O Sr. Tsung-mou Chang, com 94 anos, desceu lentamente pelo corredor, erguendo os braços em sinal de saudação aos espectadores enquanto usava uma máscara[^4]. Aplausos esporádicos começaram e logo se transformaram em aplausos da plateia inteira. Ele parou à frente da primeira fileira para cumprimentar a todos[^4]. Hsiao Chu-chen estava presente no local; posteriormente, ela descreveu o momento como "nervoso e excitante, claro que um pouco decepcionante"[^5]. A decepção vinha de dois fatos: o cofundador da TSMC não teve nenhuma cena em que fosse entrevistado positivamente no filme. Ele escolheu estar na saga sobre a empresa que ele mesmo fundou como um espectador, e não como um entrevistado.
 
-> **📝 Nota da curadoria**
+> **📝 Nota do Curador**
 >
-> Os momentos mais comoventes de uma obra muitas vezes acontecem fora dela. Não há entrevista com Morris Chang na tela de _Os construtores de montanhas_ — mas o verdadeiro clímax do filme ocorreu quando o próprio fundador se levantou da última fila do cinema, após as luzes se acenderem. O texto transbordou da tela: o protagonista ausente costurou-se de volta à narrativa na condição de “espectador”.
+> Os momentos mais comoventes de um texto muitas vezes ocorrem fora dele. O filme _Os construtores de montanhas_ não apresenta entrevistas com Tsung-mou Chang — mas o verdadeiro clímax desta obra é quando o próprio fundador se levanta da última fileira do cinema ao final da sessão. O texto transborda a tela, e o protagonista ausente se "costura" de volta através da figura do espectador.
 
-Hsiao escreveu no Facebook por que não havia uma entrevista com Chang: “Depois de um ou dois anos tentando, ele continuava ocupado escrevendo o livro” e “as restrições da TSMC às filmagens, é claro, também formavam sucessivas camadas de proteção”[^6]. O “livro” era o segundo volume de sua autobiografia, no qual trabalhou durante sete anos: quase 200 mil caracteres sobre o período de 1964 a 2018, publicado pela Commonwealth Publishing em 29 de novembro de 2024[^7], exatos 26 anos depois do primeiro volume, lançado em 1998. O segundo volume já estava disponível no fim de 2024, enquanto _Os construtores de montanhas_ só estrearia em junho do ano seguinte. Em outras palavras, durante todo o período de filmagem ele realmente estava escrevendo; quando finalmente teve tempo para assistir ao documentário, a montagem já estava pronta, inclusive as imagens de perfil captadas por várias câmeras. Hsiao contornou a ausência da entrevista frontal com esse método: posicionou diversas câmeras em eventos públicos para registrar Chang lateralmente e inseriu essas aparições no filme, fazendo com que ele existisse na obra como alguém “filmado”, não “entrevistado”[^4].
+Hsiao Chu-chen escreveu no Facebook sobre a ausência das entrevistas com Tsung-mou Chang: "Ele estava ocupado escrevendo por um ou dois anos", e "as restrições da TSMC para a filmagem também são camadas de proteção"[^6]. "Ocupado escrevendo" refere-se ao volume dois de sua autobiografia, que ele escreveu durante sete anos: de 1964 a 2018, com quase 200.000 caracteres, publicado pela Tianxia Culture em 29 de novembro de 2024[^7], um intervalo exato de 26 anos após o volume um de 1998. Embora o volume dois tenha sido lançado no final de 2024, _Os construtores de montanhas_ só estreou em junho do ano seguinte. Em outras palavras, durante todo o período de filmagem, ele estava realmente escrevendo. Mas quando finalmente teve tempo para assistir ao filme, a edição já havia sido concluída e os planos de cobertura secundária haviam sido incluídos. Hsiao Chu-chen contornou a ausência da entrevista frontal usando a técnica de "cobertura secundária": ela filmou várias vezes em público, inserindo imagens de Tsung-mou Chang em eventos públicos no filme, fazendo com que ele existisse como alguém "filmado" e não como alguém "entrevistado"[^4].
 
 ## A palavra retirada
 
@@ -62,35 +67,35 @@ As palavras “construtores de montanhas” passaram assim a cumprir uma nova fu
 
 _Trailer oficial em chinês de *Os construtores de montanhas*, no canal oficial da CNEX. As três palavras do título em chinês aparecem no último segundo; um segundo antes, a narração ainda fala em “escudo de silício”, a expressão retirada._
 
-## Afastar a câmera da TSMC
+## Tirando o foco da TSMC
 
-Se retirar “escudo de silício” foi uma subtração, “construtores de montanhas” foi uma adição.
+Se "Escudo de Silício" for uma subtração, "Os Construtores de Montanhas" é uma adição.
 
-Ao longo de cinco anos, Hsiao entrevistou mais de 80 veteranos[^11] e deliberadamente afastou a câmera da TSMC. O “protagonista masculino” diante da tela é Shih Chin-tay, ex-presidente do Instituto de Pesquisa de Tecnologia Industrial (ITRI): um dos integrantes da equipe pioneira enviada à RCA e, mais tarde, diretor da fábrica-modelo do ITRI, que produziu o primeiro chip comercial de circuito integrado de Taiwan, o CIC0001[^12]. Hsiao descreveu assim essa escolha estrutural: “Vocês fizeram a história; eu vim preservá-la”[^13].
+Tsai Ing-wen visitou mais de 80 antecessores ao longo de cinco anos[^11], intencionalmente desviando o foco da TSMC. O "primeiro protagonista" na tela do filme é Shi Chin-tai, ex-diretor do Instituto de Pesquisa Industrial (ITRI): um dos membros originais da RCA e posteriormente diretor de fábrica piloto do ITRI, responsável pelo primeiro chip IC comercial produzido em Taiwan, o CIC0001[^12]. Tsai Ing-wen descreve essa escolha estrutural assim: "Vocês criaram a história; eu vim preservá-la."[^13]
 
-> **✦** “A narrativa central do filme se desenvolve acompanhando os passos de Shih Chin-tay, ex-presidente do ITRI. Como integrante fundamental do projeto da RCA e posteriormente dirigente do ITRI, sua trajetória é, por si só, uma síntese da indústria de semicondutores de Taiwan.”[^14]
+> **✦** "A narrativa central do filme se desenrola seguindo os passos de Shi Chin-tai, o ex-diretor do ITRI. Como membro chave do projeto da RCA e posterior líder do ITRI, sua trajetória é um microcosmo da indústria de semicondutores de Taiwan."[^14]
 
-Ao lado dele aparecem Tsai Ming-kai, da MediaTek; Tu Chun-yuan, da UMC; Tseng Fan-cheng, da TSMC; Lu Chih-yuan, da Macronix; Lin Ben-jian; Chiang Shang-yi; Simon Sze; e Ting Yuan Yang, da RCA — uma longa sequência de nomes pertencentes a diferentes empresas, gerações e etapas da cadeia produtiva[^15]. Há também operárias anônimas da primeira geração: “Eu morria de medo de deixar o wafer cair e quebrar, porque talvez nem vários meses de salário bastassem para pagar o prejuízo”; “Comprei meu primeiro carro vendendo oito lotes de ações da UMC”[^16]. Elas são vistas diante da câmera, mas não recebem nomes.
+Ao lado dele, temos Tsai Ming-chieh (MediaTek), Tu Chun-yuan (UMC), Tseng Fan-cheng (TSMC), Lu Chi-yuan (Wanhua), Lin Pin-chien, Chiang Shang-yi, Shih Min e Yang Ting-yuan (RCA): uma longa lista de nomes pertencentes a diferentes empresas, gerações e estágios da indústria[^15]. Há também operárias anônimas da primeira geração: "Tinha tanto medo de quebrar o wafer, pois talvez não fosse suficiente para pagar vários meses de salário", ou "Comprei meu primeiro carro trocando oito ações da UMC."[^16] Elas são vistas na tela, mas sem nomes.
 
-No filme, Shih afirma estar “muito emocionado; fiquei o tempo todo tentando não chorar”[^17]. Na estreia em Hsinchu, em maio, Tseng Fan-cheng disse algo diferente: “No passado, bastava trabalhar duro para ter certeza do sucesso. O que preocupa é como continuar avançando no futuro, preservando ao mesmo tempo um ambiente equilibrado e estável”[^18]. As duas frases têm tons distintos: uma olha para trás; a outra adverte sobre o futuro. Hsiao posiciona-se entre ambas: “Não quero filmar o ‘sucesso’. Quero, ao contrário, que todos vejam as adversidades, a coragem de quem nasceu da adversidade e enfrentou as dificuldades”[^19].
+Shi Chin-tai expressou no filme: "Fiquei muito emocionado, eu sempre pensei em não chorar."[^17] Tseng Fan-cheng disse outra coisa durante a estreia em Hsinchu em maio: "No passado, bastava se esforçar para ter sucesso; o medo é como progredir continuamente em um ambiente estável no futuro."[^18] O tom dessas duas frases é diferente: uma olha para trás, a outra alerta. Tsai Ing-wen escolheu um ponto intermediário entre os dois: "Eu não quero filmar 'o sucesso'; eu espero que as pessoas vejam a angústia, a coragem de nascer da angústia e enfrentar as adversidades."[^19]
 
-Os “construtores de montanhas” são, portanto, tratados deliberadamente no plural. Trata-se de uma homenagem descentralizada a toda uma camada de pessoas.
+Assim, "Os Construtores de Montanhas" foi intencionalmente tratado no plural. É uma homenagem inteira descentralizada.
 
-Mas os holofotes da imprensa não são muito obedientes. Hsiao Bi-khim discursou depois de assistir ao filme em junho; Tsai Ing-wen foi ao cinema em agosto, quando a bilheteria superou NT$25 milhões[^20]; e o próprio Morris Chang pagou seu ingresso em 26 de junho[^3]. Essas imagens rapidamente voltaram a concentrar o foco em Chang. O título diz que há muitos construtores e muitas montanhas, mas, fora da tela, a gravidade do culto ao herói continua puxando todas elas na mesma direção. O próprio filme está consciente dessa tensão.
+Mas os holofotes da mídia não obedecem. Tsai Ming-chieh fez um discurso após assistir em junho, e Tsai Ing-wen compareceu ao cinema quando a bilheteria atingiu 25 milhões de NT$ em agosto[^20], enquanto o próprio Morris Chang assistiu pagando do seu bolso em 26 de junho[^3]: essas imagens rapidamente voltam o foco para apenas Morris Chang. O título diz que há muitas montanhas construídas, mas a gravidade da adoração ao herói fora da tela ainda puxa as montanhas na mesma direção. A própria obra reconhece esse puxão.
 
-## Não aceitar dez milhões de uma única pessoa
+## Não Usar Dez Milhões de Uma Pessoa
 
-Ben Tsiang, cofundador da CNEX, e Chen Tien-shun, filho do fundador da Yungtay Engineering e diretor executivo da MOXA, foram os dois produtores do filme[^21]. Chen estabeleceu uma regra financeira: “Dez milhões de uma única pessoa não são tão bons quanto um milhão de dez pessoas; a segunda opção gera influência e repercussão maiores”[^22].
+Chen Tien-shun (diretor executivo da MOXA Technology), cofundador da CNEX e filho do fundador da Yongda Elevator, afirmou que os dois produtores deste filme [^21]. Chen Tien-shun estabeleceu uma disciplina financeira para o filme: "Um milhão de um indivíduo não tem tanto impacto quanto um milhão de dez pessoas" [^22].
 
-A produção custou dezenas de milhões de novos dólares taiwaneses, e os direitos de imagens de arquivo — incluindo um trecho do filme hollywoodiano _Atração fatal_ — também foram dispendiosos[^23]. Hsiao, Chen e Tsiang, porém, chegaram a um consenso: para preservar a autonomia criativa, o orçamento seria coberto por doações e patrocínios de várias fontes, em vez do financiamento de uma única empresa[^23]. A montagem ficou a cargo de Chen Po-wen, em sua quarta colaboração com a diretora; a trilha foi composta por Lim Giong, que estabeleceu coordenadas sonoras para o cinema taiwanês com as trilhas eletrônicas de _Millennium Mambo_ e _Adeus, Dragon Inn_[^24].
+O custo total de produção e licenciamento de material de arquivo (incluindo clipes do filme de Hollywood _Fatal Attraction_) foi astronômico [^23]. No entanto, Hsiao Chu-chen, Chen Tien-shun e Jiang Xianbin chegaram a um consenso: para manter a autonomia criativa, o financiamento da filmagem seria obtido por doações e patrocínios múltiplos, em vez de investimento de uma única empresa [^23]. A edição foi feita com Chen Bo-wen, que colaborou quatro vezes com o diretor. A trilha sonora é de Lin Qiang, aquele que estabeleceu um marco sonoro para os filmes taiwaneses com a música eletrônica de _Millennium Mambo_ e _Not Scattered_ [^24].
 
 > **💡 Você sabia?**
 >
-> O filme não nasceu de uma encomenda oficial. Em 2019, Ben Tsiang e Hsiao Chu-chen participaram da cerimônia em memória de Hu Ting-hua, coordenador-geral do programa de transferência tecnológica da RCA de 1976, e definiram o tema no caminho de volta[^25]. Hu morreu antes do início das filmagens; cinco anos depois, quando o documentário estreou, a decisão semeada em sua cerimônia memorial estava gravada entre as cinco maiores bilheterias da história dos documentários de Taiwan.
+> A origem deste filme não veio de qualquer encomenda oficial. Em 2019, Jiang Xianbin e Hsiao Chu-chen participaram de um memorial dedicado a Hu Dinghua, o principal organizador do projeto de transferência tecnológica da RCA em 1976, e definiram este tema durante a viagem de volta [^25]. Hu Dinghua faleceu antes do filme ser lançado; cinco anos depois, seu legado foi gravado no ranking dos cinco maiores sucessos de bilheteria da história.
 
-A disciplina da criação independente, porém, também tinha seus limites. Em um discurso realizado em junho, o ministro das Relações Exteriores, Lin Chia-lung, prometeu publicamente “ajudar na produção de versões em vários idiomas, para que as representações no exterior possam divulgá-las”[^26]. A turnê internacional seguiu quase inteiramente o eixo formado pelas representações de Taiwan no exterior, os TECOs, e pelos locais onde a TSMC instalou fábricas: a sessão do FPRI na Filadélfia, patrocinada pelo TECO de Nova York, apresentou uma versão dublada em inglês[^10]; a sessão da UCLA foi coorganizada pelo TECO de Los Angeles, e seu texto de divulgação dizia diretamente que o objetivo era “compreender mais profundamente o escudo de silício de Taiwan e as histórias e o espírito por trás da montanha sagrada que protege o país”[^27]; na sessão de 21 de maio na Biblioteca Pública do Condado de Fulton, em Atlanta, o diretor da representação Lin Chun-en, o presidente do condado Robert Pitts e a deputada estadual da Geórgia Karen Lupton participaram juntos do debate após a exibição[^28].
+Mas a disciplina da criação independente também tem seus limites. O ministro das Relações Exteriores, Lin Chia-lung, prometeu publicamente em um discurso em junho "ajudar na produção de versões multilíngues para promoção pelas delegações no exterior" [^26]. A turnê internacional seguiu quase inteiramente o eixo das delegações diplomáticas (TECO) e dos locais de fabricação da TSMC: a exibição do FPRI em Filadélfia foi patrocinada pela TECO NY, que forneceu a versão dublada em inglês [^10]. O evento na UCLA foi coorganizado pela TECO LA, cujo texto dizia diretamente: "Para uma compreensão mais profunda da história e do espírito por trás do Escudo de Silício e da Montanha Sagrada de Taiwan" [^27]. Na Biblioteca Pública do Condado de Fulton em Atlanta, no dia 21 de maio, o chefe da delegação Lin Chu-en, o prefeito Robert Pitts de Fulton County e a deputada estadual Karen Lupton participaram de um painel após a exibição [^28].
 
-Independência financeira e circulação por canais diplomáticos: ninguém criticou diretamente a tensão entre as duas coisas, mas ela existe. Um documentário que deliberadamente recusou o financiamento de uma única empresa acabou encontrando espaços de exibição na rede de representações de Taiwan no exterior; fontes de recursos diversificadas em nome da autonomia criativa acabaram aceitando a mão naturalmente estendida pelo aparelho estatal. Uma coisa não exclui a outra, e ambas são verdadeiras. Hsiao respondeu assim a outro tipo de pressão: algumas pessoas a acusaram de receber dinheiro para produzir propaganda; outras a rotularam assim que viram figuras políticas no filme[^29]. Sua resposta foi: “Só posso voltar à história e assumir a responsabilidade por meu ponto de vista. Se alguém se dedicou e contribuiu ao longo da história, não vamos, por motivo algum, encobrir essa pessoa nem fazê-la desaparecer”[^29].
+Financiamento independente, turnê alinhada à diplomacia: ninguém criticou diretamente essa tensão, mas ela estava lá. Um documentário que deliberadamente recusou o financiamento de uma única empresa acabou encontrando canais de projeção na rede das delegações diplomáticas. Uma fonte de financiamento dispersa em nome da autonomia criativa acabou capturando a mão estendida do aparato estatal. Essas duas coisas não são mutuamente exclusivas, mas ambas são verdadeiras. Hsiao Chu-chen respondeu a outro tipo de pressão: algumas pessoas questionavam se ela estava fazendo um filme promocional com dinheiro, e outras rotulavam-na assim que viam figuras políticas no filme [^29]. Sua resposta foi: "Mas eu só posso voltar à história e ser responsável por meu ponto de vista. Enquanto estiver na história, nós não vamos colocar placas ou desaparecer por qualquer motivo, se houver pessoas que contribuíram e deram o seu máximo" [^29].
 
 ## Da rua Nanyang ao Arizona
 
@@ -109,17 +114,17 @@ _Fábrica Fab 5 da TSMC no Parque Científico de Hsinchu, em 2010. A cronologia 
 
 Essa cronologia de cinquenta anos não é apresentada como uma lista de PowerPoint. Hsiao a conduz por cenários concretos: a reunião de café da manhã na Hsiao Hsin-hsin; o memorial de dez mil caracteres escrito no quarto 508 do Grand Hotel; a equipe pioneira na fábrica da RCA em Nova Jersey; o Parque Científico de Hsinchu; e imagens aéreas do canteiro de obras da Fab 21, no Arizona. Cada parada tem um lugar físico que pode ser visto e visitado.
 
-## Epopeia, louvação e nascimento na adversidade
+## Épico, Hino e Nascido da Angústia
 
-Uma crítica em inglês usou um adjetivo muito preciso: _unapologetically lionizes_[^36].
+Uma resenha em inglês usou um adjetivo muito preciso: _unapologetically lionizes_[^36].
 
-Em sua resenha de novembro de 2025, o Cinema Escapist situou _Os construtores de montanhas_ como complemento visual de _Chip War_, de Chris Miller. As expressões _unapologetically lionizes_ e _all of the individuals featured...are framed as self-sacrificing_ descrevem a forma como o filme transforma os pioneiros dos semicondutores de Taiwan em heróis e os enquadra como figuras de autossacrifício[^36]. A resenha também recomenda que espectadores não taiwaneses leiam _Chip War_ ou ouçam o podcast _Acquired_ antes de assistir ao documentário, pois essa talvez seja a ordem mais adequada[^36].
+A Cinema Escapist, em sua crítica de novembro de 2025, posicionou 《Os Construtores de Montanhas》 como o parceiro visual do filme _Chip War_, de Chris Miller; e usou as frases _unapologetically lionizes_ e _all of the individuals featured...are framed as self-sacrificing_ para descrever o tratamento heroico e a enquadramento de sacrifício dos pioneiros de semicondutores de Taiwan[^36]. A resenha também sugeriu que espectadores não taiwaneses lessem _Chip War_ ou ouvissem o podcast Acquired antes de assistir ao filme, pois essa ordem seria mais razoável[^36].
 
-A crítica é incisiva, mas deixa algo de fora.
+Essa crítica é afiada, mas ela deixou algo sem ver.
 
-“_Unapologetically lionizes_” capta o ritmo de louvação na superfície do filme, porém ignora o outro eixo estabelecido pela própria Hsiao: “Não quero filmar o ‘sucesso’”[^19]. A observação de Tseng — “No passado, bastava trabalhar duro para ter certeza do sucesso. O que preocupa é como continuar avançando no futuro, preservando ao mesmo tempo um ambiente equilibrado e estável”[^18] —, os veteranos perseguidos durante cinquenta anos pela frase de Sun Yun-suan, “Só o sucesso é permitido; o fracasso, não”, e o salário que a operária aposentada temia perder ao derrubar um wafer[^16] constituem o avesso do louvor, as pegadas sob o hino. Hsiao descreve o filme como uma obra que “não encobre”[^29]: o bom e o ruim permanecem diante da câmera — as pressões políticas que enfrentou, o fato de o projeto de semicondutores não ter passado à época por deliberação popular e até mesmo as preocupações com a doença holandesa[^37].
+"Unapologetically lionizes" captura a batida hínica da superfície do filme, mas negligencia outra linha que Hsiao Chu-chen mesma predefiniu: "Eu não estou fazendo um filme sobre 'sucesso'"[^19]. As falas de Tseng Fan-cheng — "No passado, bastava se esforçar para ter sucesso; a preocupação é como progredir continuamente em um ambiente estável no futuro"[^18], ou o salário da operária aposentada que teme derrubar um wafer, após cinquenta anos sendo perseguida por Sun Yung-hsien com o lema "só se permite o sucesso, não se aceita o fracasso"[^16]: todos esses são os pés sob o hino, o reverso do hino. Hsiao Chu-chen mesma descreveu este filme como "não disfarçado" (ou "sem esconder nada")[^29], significando que tanto o bom quanto o mau permanecem na tela: a pressão política que ela enfrentou, o fato de que os planos de semicondutores não passaram por consulta popular na época, e as dúvidas sobre a doença holandesa presentes no filme[^37].
 
-Há uma linha crítica ainda mais contundente no meio acadêmico. O artigo “Taiwan's ‘Silicon Shield’: Techno-authoritarian territories”, publicado em 2025, emprega o conceito de _techno-authoritarianism_ para descrever esse sistema — _law, transparency and democracy are compromised for national interest_ — e organiza os custos do escudo de silício em três eixos: degradação ambiental, insegurança alimentar e riscos industriais tóxicos[^38]. O artigo não menciona _Os construtores de montanhas_: seu objeto de dissecação é o próprio escudo de silício. Lidos em conjunto, o estudo e o filme revelam claramente um espaço negativo que a tela não aborda: os custos trabalhistas, a água, a eletricidade, a terra e os povos indígenas.
+O meio acadêmico tem outro caminho crítico ainda mais agudo. Um artigo publicado em 2025, 《Taiwan's "Silicon Shield": Techno-authoritarian territories》, descreve este sistema como _techno-authoritarianism_: _law, transparency and democracy are compromised for national interest_; e lista os custos sob o escudo de silício em três eixos principais: degradação ambiental, insegurança alimentar e riscos industriais tóxicos[^38]. Este artigo não menciona 《Os Construtores de Montanhas》—ele coloca o próprio escudo de silício no bisturi. Ao ler este artigo junto com o filme, é possível ver um vazio que a tela não abordou: o custo do trabalho, o uso da água, o consumo de eletricidade, a terra e os povos indígenas.
 
 ## De Hsinchu a Dresden
 
@@ -164,27 +169,27 @@ Depois da sessão de junho, Hsiao Bi-khim declarou: “Mais importante, este fil
 
 Os dois discursos foram dignos e ambos incorporaram o filme a uma narrativa nacional. A posição escolhida pelo próprio documentário, porém, é muito mais humilde: “Depois de concluir este filme, também passei a me considerar uma construtora de montanhas”, disse Hsiao. “Mesmo sendo apenas um pequeno grão de areia, faço parte do processo de formação das montanhas”[^45].
 
-## Os construtores de montanhas, na verdade, não estão presentes
+## Os Construtores da Montanha Estavam Ausentes
 
-A história retorna ao início da noite de 26 de junho de 2025, no cinema do distrito de Xinyi.
+A história retorna ao cinema do distrito de Xinyi, na noite de 26 de junho de 2025.
 
-Morris Chang, aos 94 anos, e sua esposa assistiram ao filme inteiro na última fila. Quando as luzes se acenderam, ele caminhou lentamente pelo corredor, de máscara, ergueu as duas mãos, acenou para o público e cumprimentou a todos[^4]. Hsiao estava presente — durante cinco anos, não conseguira entrevistar frontalmente essa figura central entre os “construtores de montanhas”; no fim, o próprio protagonista compareceu diante do filme na condição de “espectador”.
+O casal Morris Chang e sua esposa, com 94 anos, assistiu a todo o filme na última fileira. Quando as luzes se acenderam no final, ele desceu lentamente pelo corredor, usando máscara, levantando os dois braços em saudação aos espectadores[^4]. Hsiao Chu-chen estava presente — durante cinco anos ela nunca havia entrevistado diretamente este personagem central do "Construtor da Montanha", e por fim, esse personagem central apareceu na frente da tela como um "espectador".
 
-> **✦** O que a epopeia não conseguiu filmar, a realidade completou.
+> **✦** O que a épica não capturou, o real complementou.
 
-A tensão do filme fecha assim um círculo e retorna ao ponto de partida: a pessoa que não foi entrevistada, a palavra retirada do título, o dinheiro deliberadamente distribuído entre várias fontes — são esses elementos que formam sua verdadeira coluna vertebral. Em uma epopeia sobre os semicondutores de Taiwan, é fácil dizer “construímos uma montanha”. A coisa realmente difícil de dizer é outra: enquanto todos olham para essa montanha, os seus construtores aprendem a preservar a própria história no espaço entre o que pode e o que não pode ser dito.
+A tensão deste filme deu uma volta para o ponto de partida: aquele que não foi entrevistado, aquela palavra retirada do título e o dinheiro deliberadamente disperso — eles são a verdadeira espinha dorsal deste filme. Uma epopeia da história dos semicondutores de Taiwan pode facilmente contar "nós construímos uma montanha"; mas aquilo que ele realmente conta, algo mais difícil de ser dito, é como os construtores desta ilha aprenderam a deixar sua história para si entre o que se pode dizer e o que não se pode dizer, enquanto todos olhavam para esta montanha.
 
-Os números de bilheteria que repercutiram durante um ano, as sucessivas sessões internacionais, os discursos da vice-presidente e da ex-presidente, os elogios do presidente da ESMC — tudo isso desaparecerá. Mas permanecerá a figura que se levantou da última fila naquela noite. Ele não subiu à tela; saiu da plateia.
+Os números de bilheteria estendidos por um ano, as turnês internacionais, os discursos do vice-presidente e do ex-presidente, os elogios do presidente da ESMC — tudo isso irá desaparecer. Mas a figura que se levantou na última fileira naquela noite permanecerá. Ele não subiu para a tela; ele saiu da plateia.
 
-Desde o momento em que Taiwan aprendeu a ponderar primeiro o que o outro lado do estreito pensaria ao ouvi-lo exaltar a si próprio, cada construtor de montanhas já se tornou, de certo modo, um espectador — observando como os outros falam sobre a montanha que construiu, como a escutam e como compram ingressos para vê-la.
+Desde o momento em que esta ilha começou a se gabar, cada construtor da montanha já era um espectador — observando como sua montanha foi vista pelos outros, como foi ouvida e como foi comprada por eles.
 
-**Leituras adicionais**:
+**Leitura Complementar**:
 
-- [Indústria de semicondutores](../Technology/半導體產業.md) — o contexto completo da fundição de wafers de Taiwan, desde a reunião de café da manhã na Hsiao Hsin-hsin, em 1974, até a entrada de C.C. Wei na Casa Branca, em 2025; a estrutura cronológica de _Os construtores de montanhas_ está enxertada nesse eixo.
-- [Morris Chang](../People/張忠謀.md) — o protagonista que não se sentou diante da câmera e cujo segundo volume autobiográfico foi publicado apenas seis meses antes da estreia do filme.
-- [Nação invisível](../Art/看不見的國家.md) — o documentário-irmão lançado no mesmo dia, no qual a diretora norte-americana Vanessa Hope aborda por meio da democracia outro canal narrativo sobre o “valor de Taiwan”.
-- [Desenvolvimento dos parques tecnológicos](../Technology/科技園區發展.md) — o Parque Científico de Hsinchu como palco físico de grande parte de _Os construtores de montanhas_, de uma aposta feita por uma pequena cidade a um polo das cadeias globais de abastecimento.
-- [Tsai Ing-wen](../People/蔡英文.md) — em agosto de 2025, quando a bilheteria ultrapassou NT$25 milhões, a ex-presidente foi ao cinema após deixar o cargo, acompanhada de Chen Chien-jen e sua esposa, acrescentando um pano de fundo político ao filme.
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — O contexto completo da fundição de wafers de Taiwan, desde o café da manhã na loja de tofu Xiao Xinxin em 1974 até a visita de Joseph Wu à Casa Branca em 2025, é o esqueleto temporal de _Os Construtores da Montanha_.
+- [Morris Chang](/pt/people/tsmc-morris-chang) — O protagonista que não apareceu na câmera; seu segundo volume, escrito por ele mesmo, foi publicado seis meses antes do lançamento do filme.
+- [Nação Invisível](/pt/art/invisible-nation) — Um documentário irmão lançado no mesmo dia, onde a diretora americana Vanessa Hope aborda outra voz sobre o "valor de Taiwan" através da rota democrática.
+- [Desenvolvimento de parques tecnológicos](/pt/technology/science-park-development) — O Parque Científico de Hsinchu, palco físico para a maioria das cenas de _Os Construtores da Montanha_, transformou-se de uma aposta pequena em um centro global da cadeia de suprimentos.
+- [Tsai Ing-wen](/pt/people/tsai-ing-wen) — Quando a bilheteria ultrapassou 25 milhões de NTD em agosto de 2025, a ex-presidente assistiu ao filme com o casal Chen Chien-pang, adicionando um pano de fundo político a este filme.
 
 ## Fontes das imagens
 

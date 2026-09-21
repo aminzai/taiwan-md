@@ -31,10 +31,10 @@ imageCredit: '臺中國家歌劇院 NTT'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=_-L_wAYDmBs'
 translatedFrom: 'Art/葉廷皓.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:63b47718f8145b2c'
-sourceBodyHash: 'sha256:04f5859af8f97035'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:a5453a6f1dbec222'
+sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
+translatedAt: '2026-09-21T13:44:42.731163+00:00'
 ---
 
 ## Yeh Ting-Hao: transformar o "uso incorreto" da tecnologia em artistas audiovisuais inesperados, aos 43 anos deixou um ecossistema inteiro
@@ -227,22 +227,22 @@ Quem se esforça partiu. Mas as ferramentas que deixou, as comunidades que const
 - [Deserto digital](/pt/art/no-mans-land-art-platform) — Plataforma de crítica de arte de novos meios da mesma geração, registou os discursos de obras-chave da geração de Yeh Ting-Hao
 - [Música eletrónica e cultura de festa de Taiwan](/pt/music/taiwan-electronic-music-and-party-culture) — O cenário Techno e de festas de som experimental onde o duo HH se insere
 
-## Fontes das imagens
+## Fontes das Imagens
 
-Este artigo usa 3 fotogramas do documentário oficial NTT da Taiwan National Opera House _Reverberation of Illusion_, sob **fair use editorial commentary** (conforme [Pipeline §1.9.2 ponto 8](../docs/pipelines/REWRITE-PIPELINE.md)). Todos em cache em `public/article-images/art/` para evitar hotlink ao servidor de origem:
+Este artigo utiliza 3 fotos estáticas do documentário oficial da Taiwan National Opera House (NTT), 《幻象的殘響》, sob o uso de **comentário editorial fair use**. Todas foram cacheadas em `public/article-images/art/` para evitar links diretos a servidores:
 
-- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 1280×720 hero, primeiro fotograma do documentário. Foto: Canal oficial NTT da Taiwan National Opera House, fair use editorial commentary on Yeh Ting-Hao's NTT residency work.
-- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, Yeh Ting-Hao a testar no local. Foto: mesma.
-- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, trecho de projeção envolvente. Foto: mesma.
+- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Hero 1280×720, primeira imagem estática do documentário. Foto: Canal oficial da Taiwan National Opera House (NTT), Comentário editorial fair use sobre o trabalho de residência de Yeh Ting-Hao na NTT.
+- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Cena 480×360, tela de teste ao vivo de Yeh Ting-Hao. Foto: O mesmo.
+- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Cena 480×360, trecho de performance com projeção envolvente. Foto: O mesmo.
 
-### Registo de limites das imagens
+### Registro das Limitações das Imagens
 
-Como artista audiovisual contemporâneo, retratos pessoais, registos de performances iniciais, outras obras (como _Subconscious Machine_, _Light Flow_, _O.S.C._) estão maioritariamente em sites pessoais, Instagram, Facebook, páginas de apresentação de instituições — materiais originais com direitos de autor protegidos. Pesquisa na API Wikimedia Commons ("Yeh Ting-Hao", "Lacking Sound Festival", "Taiwanese sound artists") devolve 0 resultados, sem imagens PD/CC disponíveis. Exceto os 3 fotogramas fair use do documentário NTT acima, este artigo não inclui outro material visual. Leitores podem procurar registos visuais de Yeh Ting-Hao nos seguintes links:
+As imagens pessoais de Yeh Ting-Hao como artista sonoro contemporâneo, registros de performances iniciais e outras obras (como 《下意識機器》, 《光流》 ou 《O.S.C.》) são majoritariamente encontradas em sites privados, Instagram, Facebook e páginas de performance de instituições — todos materiais originais protegidos por direitos autorais. A busca no Wikimedia Commons API ("葉廷皓", "Yeh Ting-Hao", "Lacking Sound Festival", "Taiwanese sound artists") retornou 0 resultados, sem imagens PD/CC disponíveis. Além das 3 fotos estáticas do documentário da NTT mencionadas acima, nenhum outro material visual foi incluído neste artigo. Os leitores podem encontrar registros visuais de Yeh Ting-Hao através dos seguintes links:
 
-- Documentário completo _Reverberation of Illusion_: [YouTube — 2023-2024 artista residente da Opera House Yeh Ting-Hao _Reverberation of Illusion_ documentário](https://www.youtube.com/watch?v=_-L_wAYDmBs) (Canal oficial NTT da Taiwan National Opera House)
-- Álbum _remotion_ do HH: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) / [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
-- Registos de obras do Fluid Noise: [DAC.Taipei entrada Yeh Ting-Hao Puta](https://dac.taipei/project/fluidnoise-puta)
-- Memorial do Departamento de Novos Meios da Taipei National University of the Arts: [Yeh Ting-Hao PUTA: com a linguagem da luz e do som, prolongar a respiração no universo digital](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
+- Documentário completo 《幻象的殘響》: [YouTube — Documentário de residência artística de Yeh Ting-Hao na Opera House em 2023-2024, 《幻象的殘響》](https://www.youtube.com/watch?v=_-L_wAYDmBs) (Canal oficial da Taiwan National Opera House - NTT)
+- Álbum HH《remotion》: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) / [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
+- Registro da obra Fluid Noise: [Entrada de Yeh Ting-Hao Puta no DAC.Taipei](https://dac.taipei/project/fluidnoise-puta)
+- Especial sobre o Departamento de Novos Meios da NTUA: [Yeh Ting-Hao PUTA: Respirando no universo digital com a linguagem da luz e do som](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
 
 ## Referências
 

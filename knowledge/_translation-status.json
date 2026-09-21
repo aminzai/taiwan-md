@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T22:04:20+08:00",
-    "zhCommitHead": "4dbc96030",
+    "lastUpdated": "2026-09-21T22:17:04+08:00",
+    "zhCommitHead": "b697173af",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 55,
+        "fresh": 1038,
+        "stale": 54,
         "metadata_stale": 10,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 904,
-        "stale": 110,
+        "fresh": 905,
+        "stale": 109,
         "metadata_stale": 29,
         "missing": 81,
         "orphan": 0
@@ -68,16 +68,16 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 948,
-        "stale": 67,
+        "fresh": 949,
+        "stale": 66,
         "metadata_stale": 10,
         "missing": 99,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 997,
-        "stale": 70,
+        "fresh": 998,
+        "stale": 69,
         "metadata_stale": 12,
         "missing": 45,
         "orphan": 0
@@ -92,24 +92,24 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 980,
-        "stale": 63,
+        "fresh": 981,
+        "stale": 62,
         "metadata_stale": 15,
         "missing": 66,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1014,
-        "stale": 50,
+        "fresh": 1015,
+        "stale": 49,
         "metadata_stale": 10,
         "missing": 50,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 828,
-        "stale": 18,
+        "fresh": 829,
+        "stale": 17,
         "metadata_stale": 6,
         "missing": 272,
         "orphan": 0
@@ -10617,18 +10617,16 @@
         "en": {
           "path": "en/Economy/aama-taipei-cradle-program.md",
           "translatedFrom": "Economy/AAMA台北搖籃計畫.md",
-          "sourceCommitSha": "2e6738999",
-          "sourceContentHash": "sha256:c03fa77efb2f6e8c",
-          "sourceBodyHash": "sha256:8e73793f11fceb53",
-          "translatedAt": "2026-07-24T10:40:41+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:ccfdff52514bee03",
+          "sourceBodyHash": "sha256:c85b648ab9e302be",
+          "translatedAt": "2026-09-21T14:08:25.459136+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/aama-taipei-cradle-program.md",
@@ -10751,18 +10749,16 @@
         "ru": {
           "path": "ru/Economy/aama-taipei-cradle-program.md",
           "translatedFrom": "Economy/AAMA台北搖籃計畫.md",
-          "sourceCommitSha": "2e6738999",
-          "sourceContentHash": "sha256:c03fa77efb2f6e8c",
-          "sourceBodyHash": "sha256:8e73793f11fceb53",
-          "translatedAt": "2026-07-29T07:32:37+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:ccfdff52514bee03",
+          "sourceBodyHash": "sha256:c85b648ab9e302be",
+          "translatedAt": "2026-09-21T14:12:21.760989+00:00",
           "translationLastCommit": "889deb6c",
           "translationLastModified": "2026-07-29T12:33:45+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -34325,8 +34321,8 @@
           "sourceContentHash": "sha256:da8e78a538c5510d",
           "sourceBodyHash": "sha256:076ca43fe3ac469d",
           "translatedAt": "2026-09-21T13:48:54.727583+00:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "b697173a",
+          "translationLastModified": "2026-09-21T22:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "status": "fresh",
@@ -34391,18 +34387,16 @@
         "pt": {
           "path": "pt/Art/mountain-makers-tsmc-documentary.md",
           "translatedFrom": "Art/造山者世紀的賭注.md",
-          "sourceCommitSha": "349e7b4fa",
-          "sourceContentHash": "sha256:6be45e1cb9e9d665",
-          "sourceBodyHash": "sha256:e381e9da7e6b89c3",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:da8e78a538c5510d",
+          "sourceBodyHash": "sha256:076ca43fe3ac469d",
+          "translatedAt": "2026-09-21T14:15:42.604946+00:00",
           "translationLastCommit": "840b87e9",
           "translationLastModified": "2026-07-18T23:53:51+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+23 -23"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/mountain-makers-tsmc-documentary.md",
@@ -35201,8 +35195,8 @@
           "sourceContentHash": "sha256:a5453a6f1dbec222",
           "sourceBodyHash": "sha256:8bfc60cfb32ca5a1",
           "translatedAt": "2026-09-21T13:42:49.463174+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "b697173a",
+          "translationLastModified": "2026-09-21T22:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -75777,16 +75771,16 @@
         "ja": {
           "path": "ja/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "68d051008",
+          "sourceContentHash": "sha256:b5101d8e52c2d3e9",
+          "sourceBodyHash": "sha256:4f99620b588681ad",
+          "translatedAt": "2026-09-21T21:38:54+08:00",
           "translationLastCommit": "021f678c",
           "translationLastModified": "2026-07-17T19:43:15+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/taiwanese-black-bear.md",
@@ -75901,16 +75895,16 @@
         "ar": {
           "path": "ar/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "sourceCommitSha": "68d051008",
+          "sourceContentHash": "sha256:b5101d8e52c2d3e9",
+          "sourceBodyHash": "sha256:4f99620b588681ad",
+          "translatedAt": "2026-09-21T21:38:56+08:00",
           "translationLastCommit": "71486404",
           "translationLastModified": "2026-07-27T02:31:23+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwanese-black-bear.md",
@@ -75929,18 +75923,16 @@
         "de": {
           "path": "de/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "998b8bdb1",
-          "sourceContentHash": "sha256:49afbaec6d9c06b3",
-          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
-          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "sourceCommitSha": "68d051008",
+          "sourceContentHash": "sha256:b5101d8e52c2d3e9",
+          "sourceBodyHash": "sha256:4f99620b588681ad",
+          "translatedAt": "2026-09-21T14:13:34.624927+00:00",
           "translationLastCommit": "60860be0",
           "translationLastModified": "2026-09-13T15:03:27+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132426,8 +132418,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T11:59:12.090152+00:00",
-          "translationLastCommit": "d9ec0f10",
-          "translationLastModified": "2026-09-20T04:47:42+08:00",
+          "translationLastCommit": "b697173a",
+          "translationLastModified": "2026-09-21T22:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -168151,8 +168143,8 @@
           "sourceContentHash": "sha256:7dadbaf276fb07ab",
           "sourceBodyHash": "sha256:755b0e65ac133cb0",
           "translatedAt": "2026-09-21T00:58:26+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "b697173a",
+          "translationLastModified": "2026-09-21T22:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -169498,8 +169490,8 @@
           "sourceContentHash": "sha256:f2ac5aec701df4d2",
           "sourceBodyHash": "sha256:4cdc3e89f08b13d3",
           "translatedAt": "2026-09-21T00:58:26+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "b697173a",
+          "translationLastModified": "2026-09-21T22:04:20+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -190728,18 +190720,16 @@
         "id": {
           "path": "id/Culture/eslite-bookstore.md",
           "translatedFrom": "Culture/誠品書店.md",
-          "sourceCommitSha": "63ad1b2b8",
-          "sourceContentHash": "sha256:5deab9ded98caf34",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-11T12:38:58.129927+00:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:3b7540877760c9ee",
+          "sourceBodyHash": "sha256:2e2b5a8142de57dd",
+          "translatedAt": "2026-09-21T14:07:02.355638+00:00",
           "translationLastCommit": "fa84e215",
           "translationLastModified": "2026-09-15T08:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+47 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/eslite-bookstore.md",
