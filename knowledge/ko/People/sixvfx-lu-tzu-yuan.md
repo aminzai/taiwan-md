@@ -11,7 +11,11 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 9
-rationale: "{'why_this_hook': '以全英文的 After Effects 介面與特效教學這個具體物件切入，呈現陸子淵如何把自學、接案、教學與 YouTube 連成一條創作者生涯。', 'whats_excluded': '排除把六指淵寫成單純的流量成功學或獎項清單，因為真正值得理解的是他如何把幕後技術變成可教、可用、可持續的公共內容。', 'where_it_hedges': '訂閱數、觀看數、收入與獎項均保留來源日期，並將網路口碑獎限定為該獎項的評選結果，不延伸為全台灣創作者排名。訪談引語只使用可在來源頁逐字對照的文字。', 'whos_pushing_back': '相信創作者必須先有完整學歷或大型團隊的讀者，可能會質疑自學故事的可複製性。本文保留技術門檻、創作潔癖、平台流量與團隊管理的限制，不把個案包裝成人人適用的公式。'}"
+rationale:
+  why_this_hook: '以全英文的 After Effects 介面與特效教學這個具體物件切入，呈現陸子淵如何把自學、接案、教學與 YouTube 連成一條創作者生涯。'
+  whats_excluded: '排除把六指淵寫成單純的流量成功學或獎項清單，因為真正值得理解的是他如何把幕後技術變成可教、可用、可持續的公共內容。'
+  where_it_hedges: '訂閱數、觀看數、收入與獎項均保留來源日期，並將網路口碑獎限定為該獎項的評選結果，不延伸為全台灣創作者排名。訪談引語只使用可在來源頁逐字對照的文字。'
+  whos_pushing_back: '相信創作者必須先有完整學歷或大型團隊的讀者，可能會質疑自學故事的可複製性。本文保留技術門檻、創作潔癖、平台流量與團隊管理的限制，不把個案包裝成人人適用的公式。'
 translatedFrom: 'People/六指淵.md'
 sourceCommitSha: '768afaf0f'
 sourceContentHash: 'sha256:95e79e3879d5de81'

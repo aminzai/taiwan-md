@@ -11,7 +11,11 @@ lastVerified: 2026-01-01
 lastHumanReview: false
 curation: 'incubating'
 image: '/article-images/history/taipei-first-girls-high-school-gate.webp'
-rationale: "{'why_this_hook': '從「總統府的鄰居」這一獨特空間位置切入，揭示校園不只是升學機器，更是權力與記憶交織的場域。', 'whats_excluded': '刻意排除單純的名人錄或升學數據，轉而關注空間政治、冷戰科學教育的體制影響，以及性別規訓的物質痕跡。', 'where_it_hedges': '對於「第一」的頭銜，嚴格區分日治時期的制度定位與戰後名校聲望的形成過程。', 'whos_pushing_back': '挑戰將女子教育簡化為單純「啟蒙」或「壓迫」的二元論，呈現學生在秩序縫隙中發展出的自主性。'}"
+rationale:
+  why_this_hook: '從「總統府的鄰居」這一獨特空間位置切入，揭示校園不只是升學機器，更是權力與記憶交織的場域。'
+  whats_excluded: '刻意排除單純的名人錄或升學數據，轉而關注空間政治、冷戰科學教育的體制影響，以及性別規訓的物質痕跡。'
+  where_it_hedges: '對於「第一」的頭銜，嚴格區分日治時期的制度定位與戰後名校聲望的形成過程。'
+  whos_pushing_back: '挑戰將女子教育簡化為單純「啟蒙」或「壓迫」的二元論，呈現學生在秩序縫隙中發展出的自主性。'
 translatedFrom: 'History/北一女.md'
 sourceCommitSha: '773dc2597'
 sourceContentHash: 'sha256:de11aad3f14ac9df'

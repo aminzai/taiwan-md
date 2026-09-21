@@ -16,7 +16,11 @@ image: '/article-images/music/chthonic-wacken-2019.webp'
 imageCredit: 'Achim Raschka / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg'
-rationale: "{'why_this_hook': '從黑金屬如何承載台灣史切入，避免把閃靈縮成林昶佐從政前傳。', 'whats_excluded': '完整團員更替、逐張專輯曲目解析、所有獎項列表與政治爭議時間線，留待後續深稿補強。', 'where_it_hedges': '專輯主題只寫多來源可支撐的核心脈絡；獎項與近年單曲採保守描述，不把維基索引當唯一事實來源。', 'whos_pushing_back': '只把閃靈視為政治樂團者、只期待純金屬樂評者、熟悉樂團全史而希望更完整曲目考證的樂迷。'}"
+rationale:
+  why_this_hook: '從黑金屬如何承載台灣史切入，避免把閃靈縮成林昶佐從政前傳。'
+  whats_excluded: '完整團員更替、逐張專輯曲目解析、所有獎項列表與政治爭議時間線，留待後續深稿補強。'
+  where_it_hedges: '專輯主題只寫多來源可支撐的核心脈絡；獎項與近年單曲採保守描述，不把維基索引當唯一事實來源。'
+  whos_pushing_back: '只把閃靈視為政治樂團者、只期待純金屬樂評者、熟悉樂團全史而希望更完整曲目考證的樂迷。'
 translatedFrom: 'Music/閃靈.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:428539ef61aee065'

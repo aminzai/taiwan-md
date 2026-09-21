@@ -12,7 +12,11 @@ lastHumanReview: false
 readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
-rationale: "{'why_this_hook': '以尹仲容與一包 480 公法麵粉切入，讓美援從抽象總額變成資源如何被制度翻譯的具體問題。', 'whats_excluded': '不重寫土地改革、國民政府遷臺、經濟奇蹟、十大建設與高雄加工出口區的主體歷史，只處理它們和美援的交界。', 'where_it_hedges': '對美援總額、480 公法是否納入經援及官方成效採來源口徑限定，不把美援寫成臺灣成長的唯一原因。', 'whos_pushing_back': '以 1956 年美國政策報告、480 公法分配爭議、黑市與教育計畫的制度摩擦，回應美援既有助於發展也服務冷戰安全的反方。'}"
+rationale:
+  why_this_hook: '以尹仲容與一包 480 公法麵粉切入，讓美援從抽象總額變成資源如何被制度翻譯的具體問題。'
+  whats_excluded: '不重寫土地改革、國民政府遷臺、經濟奇蹟、十大建設與高雄加工出口區的主體歷史，只處理它們和美援的交界。'
+  where_it_hedges: '對美援總額、480 公法是否納入經援及官方成效採來源口徑限定，不把美援寫成臺灣成長的唯一原因。'
+  whos_pushing_back: '以 1956 年美國政策報告、480 公法分配爭議、黑市與教育計畫的制度摩擦，回應美援既有助於發展也服務冷戰安全的反方。'
 translatedFrom: 'History/美援.md'
 sourceCommitSha: 'fd38b4f67'
 sourceContentHash: 'sha256:b5ab59defaace1b5'

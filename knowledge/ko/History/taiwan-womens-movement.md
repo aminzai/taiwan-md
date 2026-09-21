@@ -14,7 +14,11 @@ image: '/article-images/history/taiwanese-female-student-japanese-era.webp'
 imageCredit: 'Unknown author, via Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwanese_female_student_during_the_Japanese_colonial_era.jpg'
-rationale: "{'why_this_hook': '從 1982 年《婦女新知》創刊與 1987 年華西街遊行切入，追蹤刊物、街頭組織與法律倡議如何把私人經驗轉為公共制度。文章將國父紀念館女服務員抗爭、彭婉如事件與葉永鋕事件放在同一條制度史裡，呈現婦運如何改變家庭、職場與校園。', 'whats_excluded': '不把台灣女性史壓縮成個別偉人傳記，也不逐一書寫所有婦女團體與法案。慰安婦、性工作、同志運動與原住民族女性另有專題脈絡，本文只在婦運組織與法制轉折必要處交代。', 'where_it_hedges': '部分早期婦運事件主要依賴國立臺灣歷史博物館與婦女團體保存的回顧資料，本文將組織自述與政府沿革分開標示，不把單一團體的記憶當成唯一版本。葉永鋕事件、彭婉如事件與家庭暴力法制的因果關係，僅採用官方與博物館頁面明確支持的範圍。', 'whos_pushing_back': '認為婦運過度介入家庭與教育者，認為保障名額不符合形式平等者，以及批評早期婦運以中產階級女性經驗為中心的學者與行動者。這些爭議本身也是理解運動組織與法制選擇的重要材料。'}"
+rationale:
+  why_this_hook: '從 1982 年《婦女新知》創刊與 1987 年華西街遊行切入，追蹤刊物、街頭組織與法律倡議如何把私人經驗轉為公共制度。文章將國父紀念館女服務員抗爭、彭婉如事件與葉永鋕事件放在同一條制度史裡，呈現婦運如何改變家庭、職場與校園。'
+  whats_excluded: '不把台灣女性史壓縮成個別偉人傳記，也不逐一書寫所有婦女團體與法案。慰安婦、性工作、同志運動與原住民族女性另有專題脈絡，本文只在婦運組織與法制轉折必要處交代。'
+  where_it_hedges: '部分早期婦運事件主要依賴國立臺灣歷史博物館與婦女團體保存的回顧資料，本文將組織自述與政府沿革分開標示，不把單一團體的記憶當成唯一版本。葉永鋕事件、彭婉如事件與家庭暴力法制的因果關係，僅採用官方與博物館頁面明確支持的範圍。'
+  whos_pushing_back: '認為婦運過度介入家庭與教育者，認為保障名額不符合形式平等者，以及批評早期婦運以中產階級女性經驗為中心的學者與行動者。這些爭議本身也是理解運動組織與法制選擇的重要材料。'
 translatedFrom: 'History/婦女運動.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:1b50bc175ecf61ab'
