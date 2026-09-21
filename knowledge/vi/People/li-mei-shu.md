@@ -1,6 +1,6 @@
 ---
-title: 'Li Méu Shù'
-description: 'Một nghệ sĩ đã dành 36 năm xây dựng một ngôi chùa, mang lĩnh vực nghệ thuật học thuật vào tín ngưỡng dân gian'
+title: 'Lý Mai Thụ: Người nghệ sĩ đã dành 36 năm xây dựng một ngôi đền, đưa mỹ học hàn lâm vào tín ngưỡng dân gian'
+description: 'Một họa sĩ đã dành 36 năm để trùng tu Miếu Tổ ở Tam Hiệp, tạo ra một kỳ quan "Tây học Đông dụng" chưa từng có, biến ngôi miếu làng thành "Đại sảnh nghệ thuật phương Đông".'
 date: 2026-03-23
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Nhân vật',
     'Nghệ thuật',
     'Mỹ thuật',
-    'Sơn Trà',
-    'Thánh Đường Tổ Chi',
-    'Thực tế họa',
+    'Tam Hiệp',
+    'Miếu tổ',
+    'Chủ nghĩa hiện thực',
     'Triển lãm Đài Loan',
   ]
 subcategory: '藝術與創作'
@@ -18,78 +18,79 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-07-26T15:32:43+08:00'
+translatedAt: '2026-09-22T02:06:15+08:00'
 ---
 
-> **30 giây tổng quan:** Li Méu Shù không chỉ là một trong các nghệ sĩ được chọn lọc cho Triển lãm Đài Loan, mà còn là nghệ sĩ duy nhất của Đài Loan đưa lĩnh vực nghệ thuật học thuật điều khiển việc tái xây các ngôi chùa truyền thống. Từ năm 1947, anh dành 36 năm chủ trì việc tái xây chùa Tổ Chi tại Sơn Trà, tạo ra kỳ quan không từng có trước của phương pháp "dùng Tây, dùng Đông", khiến một ngôi chùa nông dân được khen ngợi là "hàng trường nghệ thuật phương Đông".
+> **Tóm tắt 30 giây:** Lý Mai Thụ không chỉ là một họa sĩ được chọn tại Triển lãm Đài Loan mà còn là nghệ sĩ duy nhất ở Đài Loan dẫn dắt việc trùng tu các ngôi miếu truyền thống bằng mỹ học hàn lâm. Bắt đầu từ năm 1947, ông đã dành 36 năm để giám sát việc tái thiết Miếu Tổ Tam Hiệp, tạo ra một kỳ quan "Tây học Đông dụng" chưa từng có, khiến ngôi miếu làng này được mệnh danh là "Đại sảnh nghệ thuật phương Đông".
 
-Vào một ngày năm 1947, sau khi trở về Đài Loan từ Nhật Bản cách đây ba năm, nghệ sĩ bẽ tranh Li Méu Shù (45 tuổi, được đào tạo đầy đủ về nghệ thuật Tây phương) đang thảo luận về việc sửa chữa chùa Tổ Chi tại Sơn Trà thì bất ngờ nhặt được một chiếc thư kinh: "Chỉ có một người thật sự sẽ xuất hiện, chính là vương đồa thiên thần, rồi thiên thần sẽ hít hẻm nước, đầu trần sẽ có một cánh hoa xuân." Với quyết định coi điều này là chỉ dẫn của đứng trời, Li Méu Shù chấp nhận giao nhiệm vụ chủ trì việc tái xây chùa Tổ Chi.
+Vào một ngày nào đó năm 1947, khi đang thảo luận về việc trùng tu tại Miếu Tổ Tam Hiệp, họa sĩ Lý Mai Thụ, người vừa trở về Đài Loan sau ba năm ở Nhật Bản, tình cờ nhặt được một lá bài xin (thần sấm): "Hiện ra một chân nhân, chính là ngọc Kỳ Lân, trời hoa rồng phun nước, đỉnh cao một cành xuân." Vị họa sĩ 45 tuổi này, người đã được đào tạo hoàn chỉnh về mỹ thuật phương Tây, quyết định coi đây là sự chỉ dẫn của thần linh và nhận lời ủy thác từ dân làng để trùng tu Miếu Tổ.
 
 Quyết định này đã viết lại lịch sử nghệ thuật Đài Loan.
 
-## Từ giáo dân học đến làng thị trấe được chọn lọc
+## Từ giáo viên trường công lập đến nghệ sĩ được chọn tại Triển lãm Đài Loan
 
-Li Méu Shù (1902-1983) sinh ra trong gia đình thương nhân ở Sơn Trà, lúc 17 tuổi đã khởi xướng triển lãm nghệ thuật toàn trường học tại Trường Thạnh Nguyên Học Hà Nội. Năm 1920, khi tinh sĩ Hoàng Thổ Thuânh được chọn vào Triển lãm Đế quốc về đồng nghiệp "Núi đồng bào" (山地牧童) - lần đầu tiên là nghệ sĩ Đài Loan được chọn vào Triển lãm Đế quốc, các thanh niên nghệ sĩ trẻ tuổi như Li Méu Shù đều cảm động mạnh mẽ.
+Lý Mai Thụ (1902-1983) sinh ra trong một gia đình thương nhân ngũ cốc ở Tam Hiệp, và khi mới 17 tuổi, ông đã tổ chức triển lãm mỹ thuật toàn trường tại Trường Sư phạm Đài Bắc. Năm 1920, khi nhà điêu khắc Hoàng Thổ Thủy (黃土水) với tác phẩm _Tiểu đồng miền núi_ được chọn tham gia "Triển lãm Mỹ thuật Đế quốc", trở thành nghệ sĩ Đài Loan đầu tiên được chọn vào Triển lãm Đế, các nghệ sĩ trẻ bao gồm Lý Mai Thụ đã vô cùng chấn động.
 
-Sau khi tốt nghiệp Trường Thạnh Nguyên Học vào năm 1922, Li Méu Shù giảng dạy tại Trường Công học Lâm Sơn. Anh ban đầu muốn đi Nhật Bản nghiên cứu nghệ thuật, nhưng bị cha mẹ phản đối. Vào năm 1924, anh tham gia vào buổi học nghệ thuật mùa hè do tinh sĩ Thạnh Nguyên Tân Nhất Trà (石川欽一郎) tổ chức, cùng Ngô Tịch Huy, Trần Trí Kỵ, Lý Thạch Hoả, Trần Thành Bảo làm quen.
+Sau khi tốt nghiệp trường sư phạm năm 1922, Lý Mai Thụ đến dạy học tại Trường Công lập Thụy Phương (瑞芳公學校). Ban đầu ông muốn sang Nhật Bản nghiên cứu nghệ thuật nhưng bị cha phản đối. Năm 1924, ông tham gia "Khóa tập huấn mỹ thuật hè" do Thạch Khoa Khâm Nhất Lang (石川欽一郎) thành lập và quen biết với Nghê Giáng Hoài (倪蔣懷), Trần Thực Kỳ (陳植棋), Lý Thạch Kiều (李石樵), Trần Trừng Ba (陳澄波).
 
-Vào năm 1927, Li Méu Shù được chọn vào Triển lãm Nghệ thuật Đài Loan lần đầu tiên với bức tranh "Bình đẳng" (靜物), năm sau đó lại được chọn với "Phố sau Sơn Trà" (三峽後街). Việc liên tiếp được chọn khiến gia đình không thể không thừa nhận tài năng vẽ tranh của anh, và anh em trai bác sĩ Lý Thành Hương kiên quyết quyết định hỗ trợ chi phí học hành cho anh.
+Năm 1927, Lý Mai Thụ với tác phẩm _Tĩnh vật_ được chọn tham gia Triển lãm Mỹ thuật Đài Loan lần thứ nhất (Đài triển); năm sau ông lại được chọn với tác phẩm _Phố sau Tam Hiệp_. Việc liên tục được chọn đã buộc gia đình phải nhìn nhận tài năng hội họa của ông, và anh trai bác sĩ Lưu Thanh Cảng (劉清港) còn mạnh dạn chống lại ý kiến chung để sẵn lòng tài trợ cho tất cả chi phí du học của ông.
 
-Vào tháng 11 năm 1928, Li Méu Shù và Trần Thành Bảo cùng tàu đến Nhật Bản, tham gia vào trường học nghệ thuật Thạnh Nguyên (川瑞畫學校) và đoàn viên tại Tokyo (新宿同舟舍) để tập luyện chất liệu. Vào tháng 3 năm 1929, anh dùng thử rồi đỗ vào Trường Nghệ thuật Tokyo, theo học các thầy cô nổi tiếng như Thạnh Nguyên Gốc Tứ (長原孝太郎), Ngô Vạn Ngọ (小林萬吾), và Trần Sóu Bảo (岡田三郎助).
+Tháng 11 năm 1928, Lý Mai Thụ cùng Trần Trừng Ba đi thuyền sang Nhật Bản, luyện tập vẽ phác thảo tại Trường Hội họa Kawai và Đồng Châu Xá (新宿同舟舍), chuẩn bị thi vào Trường Mỹ thuật Tokyo. Tháng 3 năm 1929, ông đã đỗ khoa hội họa phương Tây của trường ngay trong lần đầu tiên và được thầy dạy là các danh sư như Chōgen Kōtarō (長原孝太郎), Kobayashi Bango (小林萬吾), Okada Saburōsu (岡田三郎助).
 
-> **💡 Bạn biết không**
-> Li Méu Shù vào năm 1935 được chọn lọc vào Triển lãm Đài Loan với bức tranh đầu tiên là "Cô gái nghỉ ngơi" (小憩之女), trong đó nhân vật chính là em hú nữ của anh, Lý Tạng Mẹ. Tác phẩm này cho đến nay vẫn là một trong những bức tranh thực tế của hội họa phương Tây thế kỷ 20 của Đài Loan.
+> **💡 Bạn có biết không**
+> Năm 1935, Lý Mai Thụ đã đoạt giải nhất tại Triển lãm Đài Loan với tác phẩm _Cô gái nghỉ ngơi_, trong đó nhân vật nữ chính là cháu dâu Lưu Tăng Muội (劉曾妹) của ông. Bức tranh này cho đến nay vẫn là một tác phẩm tiêu biểu của trường phái hiện thực ánh sáng bên ngoài ở Đài Loan.
 
-Sau khi trở về Đài Loan vào năm 1934, Li Méu Shù không chỉ tiếp tục sáng tác mà còn cùng Hoàng Tam Long và các nghệ sĩ khác thành lập Hiệp hội Nghệ thuật Đài Bắc (台陽美術協會). Nhưng khác với các nghệ sĩ thuần túy, anh đồng thời tham gia vào chính trị địa phương - từng giữ các chức vụ như Ủy viên hội đồng Sơn Trà, Trưởng phường, Chủ tịch hội đồng dân sinh, Giám đốc Hội nông nghiệp và Uỷ viên hội đồng tỉnh Hà Nội.
+Sau khi tốt nghiệp và trở về Đài Loan năm 1934, Lý Mai Thụ không ngừng sáng tạo mà còn thành lập "Hiệp hội Mỹ thuật Đài Dương" cùng với Dương Tam Lang (楊三郎) và những người khác. Tuy nhiên, khác với một họa sĩ thuần túy, ông còn tham gia vào chính trị địa phương—ông đã từng giữ các chức vụ như ủy viên Hội đồng làng Tam Hiệp, trưởng phố, chủ tịch hội đại biểu dân chúng thị trấn, chủ tịch hiệp hội nông nghiệp, và nghị viên huyện Đài Bắc.
 
-## Thí nghiệm không tiên lượng của phương pháp dùng Tây dùng Đông
+## Thí nghiệm chưa từng có của "Tây học Đông dụng"
 
-Vào năm 1946, sau chiến tranh, chùa Tổ Chi tại Sơn Trà đã bị hủy hoại do bom đạn và cần phải sửa chữa ngay. Khi đó, Li Méu Shù đang giữ chức vụ Phó Trưởng phường đi trú Sơn Trà, anh được đề nghị chủ trì việc tái xây chùa. Ban đầu, các nhà lãnh đạo địa phương chỉ muốn dùng khoảng hai ba năm để "sửa chữa lại" chùa, nhưng dưới sự chủ trì của Li Méu Shù, chùa Tổ Chi đã được tái xây lớn mạnh, kế hoạch dự kiến khoảng 24 năm hoàn thành.
+Năm 1946, Miếu Tổ Tam Hiệp sau chiến tranh bị hư hại do bom đạn và rất cần được tu sửa. Lý Mai Thụ, người lúc đó là trưởng phố tạm thời của Tam Hiệp, đã được đề cử làm chủ trì trùng tu. Ban đầu, những người địa phương chỉ muốn "sửa chữa" trong hai ba năm, nhưng dưới sự chủ trì của Lý Mai Thụ, Miếu Tổ đã tiến hành tái thiết quy mô lớn, dự kiến hoàn thành trong 24 năm.
 
-Dự án này cuối cùng kéo dài đến 36 năm, đến ngày Li Méu Shù qua đời năm 1983 vẫn chưa chính thức hoàn thành.
+Dự án này cuối cùng kéo dài suốt 36 năm và vẫn chưa chính thức hoàn thành cho đến khi Lý Mai Thụ qua đời vào năm 1983.
 
-Với nền tảng đào tạo nghệ thuật Tây phương, Li Méu Shù đã chủ trì việc tái xây các ngôi chùa truyền thống, mở ra một trang sử mới trong lịch sử nghệ thuật Đài Loan. Anh chia sẻ trang trí chùa Tổ Chi thành ba loại: một là các tác phẩm do anh thiết kế, được các nghệ nhân truyền thống thực hiện khắc; hai là các bản vẽ do các nghệ sĩ trong lĩnh vực nghệ thuật cung cấp; ba là các tác phẩm của các học sinh trong chuyên ngành nghệ thuật dưới sự chỉ dẫn của anh.
+Lý Mai Thụ đã tiên phong trong lịch sử nghệ thuật Đài Loan bằng cách chủ trì trùng tu các ngôi miếu truyền thống với nền tảng giáo dục mỹ thuật phương Tây. Ông chia trang trí của Miếu Tổ thành ba loại: thứ nhất là tác phẩm do chính ông thiết kế và thợ thủ công truyền thống chế tác; thứ hai là bản phác thảo được cung cấp bởi bạn bè trong giới nghệ thuật; và thứ ba là các tác phẩm của sinh viên chuyên ngành dưới sự hướng dẫn của ông.
 
-Điều nổi bật nhất là cột đá trung tân "Hàng trăm chim đêm hạ" (百鳥朝梅) trên chùa. Li Méu Shù đã bác bỏ hình dạng truyền thống của các cột rồi, yêu cầu các nghệ nhân thiết kế lại, mỗi cột có 50 con chim khác nhau về kiểu hình, và tham khảo từ sách tranh thiên nhiên để chắc chắn. Nghệ nhân Tràn Thiên kể lại: "Thầy Li yêu cầu chúng tôi phải bỏ qua nền đá truyền thống, khắc chỉ từng con chim bằng phương pháp vẽ số trước khi đến chối."
+Nổi tiếng nhất là cột đá "Trăm chim chào hoa mai" ở đại sảnh chính. Lý Mai Thụ đã bác bỏ hình thức cột rồng truyền thống, yêu cầu thợ thủ công thiết kế lại, mỗi cột điêu khắc 50 loài chim với các hình thái khác nhau, và còn tham khảo sách minh họa về các loài chim. Thợ thủ công Trần Điền (陳田) hồi tưởng: "Thầy Lý yêu cầu chúng tôi thoát khỏi khuôn mẫu truyền thống, dùng phương pháp vẽ để chạm khắc từng con chim."
 
-> **📝 Ghi chú của người dẫn xuất hồ sơ**
-> Đây là một điểm chuyển mình trong lịch sử thủ công Đài Loan - các nghệ nhân truyền thống lần đầu tiên dưới sự chỉ dẫn của một nghệ sĩ học thuật, chuyển từ phương pháp "sao chép cổ pháp" sang "quan sát và vẽ số thực tế". Li Méu Shù đã nhập khẩu ý tưởng vẽ số của phương Tây vào công nghiệp thủ công dân gian.
+> **📝 Ghi chú của người phụ trách triển lãm**
+> Đây là một bước ngoặt trong lịch sử nghề thủ công Đài Loan—thợ thủ công truyền thống lần đầu tiên chuyển từ "sao chép cổ pháp" sang "quan sát hiện thực" dưới sự hướng dẫn của nghệ sĩ hàn lâm. Lý Mai Thụ đã gián tiếp đưa khái niệm vẽ phác thảo phương Tây vào nghề thủ công dân gian.
 
-Li Méu Shù cũng mời Ngô Nhị Thành, Hoàng Thổ Hồ, Trần Thành Kỵ, Trần Thị Huyền Hồ... các nghệ sĩ hiện đại khác cùng vẽ phác thảo cho chùa, sau đó chuyển thành khắc đá ngang. Bộ tác phẩm này phản ánh đầy đủ góc sắc của lĩnh vực hội họa thực tế của Đài Loan trong thập kỷ 1950-1970.
+Lý Mai Thụ còn mời các họa sĩ đương đại như Lâm Ngọc Sơn (林玉山), Quách Tuyết Hồ (郭雪湖), Trần Tiến (陳進), Trần Huệ Khôn (陳慧坤) để vẽ bản thiết kế cho ngôi miếu, và tạo thành tranh phù điêu bằng đá. Bộ tác phẩm này thể hiện một lát cắt hoàn chỉnh của giới hội họa thủy mặc Đài Loan trong những năm 1950-1970.
 
-Hơn nữa, anh còn đưa các học sinh của Khoa Tạo hình, Trường Nghệ thuật Quốc gia Đài Loan vào bên trong chùa, để họ tạo ra các bức tranh bằng đá nổi và tròn nhọn hình thần. Các học sinh như Ngô Hiên Hồng, Hoàng Kim Trông, Ngô Văn Đức... đã tạo ra các bức tranh bằng đá nổi như "Thầy Kinh hỏi lễ với Thánh Lão" và "Ngọc Phúc báo quốc" với phong cách thực tế, trở thành một trong những điểm đặc sắc nhất của chùa Tổ Chi.
+Sáng tạo hơn là ông đã đưa sinh viên khoa điêu khắc của Trường Nghệ thuật Quốc lập vào miếu để sáng tác các bức tượng phù điêu và tượng tròn. Các tác phẩm như _Khổng Tử vấn lễ ở Lão Tử_, _Nhạc Phi tinh trung báo quốc_ do sinh viên Hà Hằng Hùng (何恆雄), Hoàng Kim Chung (黃金鐘), Lâm Văn Đức (林文德) thực hiện, đã thể hiện các chủ đề truyền thống bằng phương pháp hiện thực và trở thành nét đặc sắc nhất của Miếu Tổ.
 
-## Sự chênh lệch giữa thẩm mỹ lý tưởng và thực tiễn
+## Sự giằng co giữa lý tưởng mỹ học và thực tế
 
-Li Méu Shù rất kiên quyết về chùa Tổ Chi, tự mình vẽ bản thiết kế và không bao giờ dám giảm thiểu chất lượng, dù phải chậm lại tiến độ. Ông bảo Thạnh Nguyên Trưởng bảo tàng Nghệ thuật Đài Loan (trước khi di chuyển) so sánh: "Tình cảm và quyết tâm mà Li Méu Shù bày tỏ như việc Galileo dùng toàn bộ sức mạnh của tri thức để xây dựng nhà thờ Sơcini."
+Sự kiên trì của Lý Mai Thụ đối với Miếu Tổ gần như là sự cố chấp. Ông tự tay vẽ bản thiết kế, kiên quyết theo đuổi sự hoàn hảo, thà tiến độ chậm còn hơn thỏa hiệp chất lượng. Cựu giám đốc Bảo tàng Mỹ thuật Quốc lập Đài Loan, Hoàng Tài Lang (黃才郎), ví von: "Sự nhiệt huyết và nghị lực mà Lý Mai Thụ dồn vào giống như Michelangelo khi xây dựng Nhà nguyện Sistine."
 
-Nhưng sự kiên trì này cũng mang lại những tranh cãi. Do thời gian kéo dài, chi phí tăng thêm, các nhà lãnh đạo địa phương từng là những người ủng hộ đã bắt đầu nghi ngờ. Vào năm 1982, Sơn Trà Sở hội đồng đề xuất xây cầu trên bãi đỗ xe trước chùa để giải quyết vấn đề giao thông, nhưng Li Méu Shù kiên quyết phản đối, cho rằng việc xây cầu sẽ phá hủy cảnh quan của chùa. Các nhà nghiên cứu như Lý Hiên Lâm đã đến thăm xin lời hỗ trợ, cuối cùng Sở hội đồng đã chuyểt đổi cầu thành cầu đi bộ.
+Nhưng sự cố chấp này cũng gây ra tranh cãi. Thời gian thi công liên tục bị kéo dài, kinh phí không ngừng được bổ sung, khiến người dân địa phương từ ủng hộ chuyển sang nghi ngờ. Năm 1982, Văn phòng Thị trấn Tam Hiệp dự định xây cầu trước sân miếu để giải quyết vấn đề giao thông, nhưng Lý Mai Thụ kiên quyết phản đối, cho rằng cây cầu sẽ làm hỏng cảnh quan của ngôi miếu. Các học giả như Lý Càn Lãng (李乾朗) đã đến ủng hộ, và cuối cùng Văn phòng Thị trấn đã thay đổi cầu xe thành cầu người đi bộ.
 
-Sau khi Li Méu Shù khuất, Ủy ban quản lý chùa Tổ Chi quyết định mua các cột đá nhập khẩu từ Trung Quốc, khiến chùa xuất hiện hai phong cách khắc khác nhau, và thậm chí cũng gây tranh cãi vì cột răng chuồn bằng đá nhập khẩu.
+Sau khi Lý Mai Thụ qua đời, Ban quản lý Miếu Tổ đã chuyển sang mua các cột đá nhập khẩu từ Trung Quốc, dẫn đến việc một ngôi miếu có hai phong cách điêu khắc khác nhau tồn tại song song, và cũng từng gây tranh cãi do lắp đặt lan can bằng đá nhập khẩu.
 
-## Di sản nghệ thuật vượt qua các thế kỷ
+## Di sản nghệ thuật vượt thời gian
 
-Chùa Tổ Chi do Li Méu Shù chủ trì tái xây, trở thành chùa duy nhất của Đài Loan được điều khiển bởi một nghệ sĩ học thuật. Nó không giống như các chùa truyền thống do các nghề nhân thủ công điều khiển, cũng không giống như các chùa sử dụng bê tông với công nghệ phương Tây sau này, nên tạo nên một vị trí độc đáo.
+Miếu Tổ Tam Hiệp mà Lý Mai Thụ chủ trì trùng tu đã trở thành ngôi miếu truyền thống duy nhất ở Đài Loan được dẫn dắt bởi các nghệ sĩ hàn lâm, nó không giống kiến trúc cổ điển do thợ mộc lớn dẫn đầu, cũng không giống những ngôi miếu bê tông pha trộn kỹ thuật phương Tây sau này, tạo nên một sự tồn tại độc đáo.
 
-> **✦** "Đây không chỉ là một ngôi chùa, mà là một sân thí nghiệm vô tiên lượng trong lịch sử nghệ thuật Đài Loan - cách thức kết hợp truyền thống và hiện đại trên nền tảng tín ngưỡng dân gian."
+> **✦** "Đây không chỉ là một ngôi miếu, mà là một trường thực nghiệm chưa từng có trong lịch sử nghệ thuật Đài Loan—làm thế nào để dung hợp truyền thống và hiện đại trên nền tảng tín ngưỡng địa phương."
 
-Phong cách vẽ của Li Méu Shù có thể chia thành ba giai đoạn: giai đoạn sớm (1924-1948) là "giai đoạn hội họa ngoại sáng", với các tác phẩm như "Cô gái nghỉ ngơi" và "Vẽ tranh bằng vật liệu tự làm" mô tả về đời sống và thiên nhiên Đài Loan; giai đoạn trung gian là "giai đoạn bản địa Đài Loan", trở lại trải nghiệm thực tế về mắt thấy; giai đoạn cuối cùng là "giai đoạn trở về thiên nhiên", nhấn mạnh vào việc cân bằng giữa ánh sáng và màu sắc.
+Phong cách hội họa của Lý Mai Thụ có thể chia thành ba giai đoạn: Giai đoạn "Ánh sáng bên ngoài" (1924-1948) thời kỳ đầu, với các tác phẩm như _Cô gái nghỉ ngơi_, _Biên vật_ mô tả phong cảnh Đài Loan; Giai đoạn "Bản địa Đài Loan" ở giữa, quay về kinh nghiệm thị giác thực tế; và Giai đoạn "Trở về tự nhiên" sau này, nhấn mạnh sự hài hòa của ánh sáng và màu sắc.
 
-Vào năm 1967, anh giảng dạy tại Trường Nghệ thuật Quốc gia Đài Loan, đồng thời thành lập khoa Tạo hình và giữ chức vụ trưởng khoa, kết hợp giữa giáo dục học thuật và công nghiệp thủ công dân gian. Học sinh Ngô Ngọc Long nhớ lại: "Thầy Li yêu cầu rất khắt khe, mong muốn chúng tôi trở thành các nghệ sĩ có quan điểm riêng, chứ không phải là những người không có quan điểm như các nghề nhân truyền thống."
+Ông dạy học tại Trường Nghệ thuật Quốc lập vào những năm cuối đời, thành lập khoa điêu khắc năm 1967 và kiêm giám đốc, kết hợp giáo dục hàn lâm với nghề thủ công dân gian. Sinh viên Hoàng Nguyên Long (黃源龍) hồi tưởng: "Yêu cầu của thầy Lý vô cùng nghiêm ngặt, mong chúng tôi trở thành những nghệ sĩ độc lập chứ không phải thợ thủ công thiếu chính kiến."
 
-Vào ngày 6 tháng 2 năm 1983, Li Méu Shù qua đời tại Bệnh viện Đại học Đài Loan do suy giảm hô hấp chặn động mãn tính, chỉ 80 tuổi. Ngày nay, tại Sơn Trà có Bảo tàng Kỷ niệm Li Méu Shù (thành lập năm 1990) và hàng năm vào tháng 3 tổ chức Lễ hội Nghệ thuật Méu Shù, tiếp tục lan tỏa tinh thần nghệ thuật của anh.
+Vào ngày 6 tháng 2 năm 1983, Lý Mai Thụ qua đời tại Bệnh viện Đại học Đài Loan do bệnh viêm phổi tắc nghẽn mãn tính, hưởng thọ 80 tuổi. Ngày nay, Tam Hiệp có Bảo tàng Kỷ niệm Lý Mai Thụ (thành lập năm 1990) và Lễ hội nghệ thuật "Tháng Mai Thụ" được tổ chức vào mỗi tháng Ba hàng năm, tiếp nối tinh thần nghệ thuật của ông.
 
-Li Méu Shù bằng một cuộc đời số đã chứng minh: một nghệ sĩ không cần phải cách ly với xã hội. Anh dùng bút vẽ tham gia vào thời đại, dùng nghệ thuật để biến đổi tín ngưỡng, để lại một "hàng trường nghệ thuật phương Đông" không thể sao chép lại.
+Lý Mai Thụ đã dùng cả cuộc đời mình để chứng minh: nghệ sĩ không cần phải xa rời xã hội. Ông đã tham gia thời đại bằng cây cọ, cải tạo tín ngưỡng bằng mỹ học, và để lại một "Đại sảnh nghệ thuật phương Đông" vĩnh viễn không thể sao chép.
 
-## Tham khảo
+## Tài liệu tham khảo
 
-- [Li Méu Shù - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E6%A2%85%E6%A8%B9)
-- [Bảo tàng Kỷ niệm Li Méu Shù](https://limeishu.org.tw/)
-- [Chùa Tổ Chi - Bản đồ Văn hóa Tín ngưỡng Đài Loan](https://taiwangods.moi.gov.tw/html/landscape/1_0011.aspx?i=17)
-- [Kho dữ liệu Nghệ thuật Đài Loan, Bảo tàng Nghệ thuật Quốc gia Đài Loan](https://twfineartsarchive.ntmofa.gov.tw/TW/Literature/liMakehistory.aspx?QID=04M2)
-- Hồng Trào Zhen, "Sơn Trà - Thực tế - Li Méu Shù", Nhà xuất bản Hổ Phùng, 1998
-- Trương Bảo Hạ, "Vẽ tranh đá chùa Tổ Chi", "Tạp chí Nghệ thuật Hổ Phùng" số 107, 1980
+- [Lý Mai Thụ - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E6%A2%85%E6%A8%B9)
+- [Bảo tàng Kỷ niệm Lý Mai Thụ](https://limeishu.org.tw/)
+- [Miếu Tổ Tam Hiệp - Bản đồ văn hóa tôn giáo Đài Loan](https://taiwangods.moi.gov.tw/html/landscape/1_0011.aspx?i=17)
+- [Kho kiến thức mỹ thuật Đài Loan Quốc lập](https://twfineartsarchive.ntmofa.gov.tw/TW/Literature/liMakehistory.aspx?QID=04M2)
+- Tang Hoàng Trân, _Tam Hiệp · Hiện thực · Lý Mai Thụ_, Nhà xuất bản Hùng Sư, 1998.
+- Trang Bá Hòa, "Nghệ thuật điêu khắc Miếu Tổ Tam Hiệp", _Tạp chí Mỹ thuật Hùng Sư_ số 107, 1980.

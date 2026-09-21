@@ -1,17 +1,17 @@
 ---
-title: 'Điểm nhấn chính xác 27 giây: Nguồn gốc thời phong kiến và di sản của mì thập cẩm cá hồi ở Tây Ninh'
-description: 'Công nghệ cốt lõi của mì thập cẩm cá hồi ở Tây Ninh là con số 27 giây. Nếu cá hồi vào nồi và ra nồi quá thời gian này, thịt sẽ cứng, mùi lẫn, toàn bộ nồi thất bại. Món ăn này ra đời tại chợ Shikaribashi trong thời kỳ đế quốc Nhật Bản, với anh em Lại Thanh Đức và Lại Hử Tứ học tập từ các thầy từ Phúc Châu, thay thế cá trê nhập khẩu của người Nhật bằng cá hồi hoang dã tại kênh nước Tây Ninh, tạo nên danh hiệu hàng trăm năm.'
+title: 'Độ chính xác 27 giây: Nguồn gốc thời Nhật trị và sự truyền thừa gia đình Liễu của mì ý trích rồng Đài Nam'
+description: 'Kỹ thuật cốt lõi của mì ý trích rồng Đài Nam là một con số: 27 giây. Từ lúc trích rồng xuống chảo đến lúc vớt ra vượt quá thời gian này, thịt sẽ bị dai, mùi tanh nổi lên, cả nồi đều bị hỏng. Món ăn này ra đời tại chợ Sa Ca Li Ba thời kỳ Nhật trị, anh em Liễu Bính Nam, Liễu Hỏa Thổ học nghề từ thầy Phúc Châu, dùng trích rồng hoang dại từ ao nước Đài Nam thay cho lươn của người Nhật, đặt nên danh tiếng trăm năm.'
 date: 2026-07-02
 category: 'Food'
 tags:
   [
-    'Tây Ninh',
-    'mì thập cẩm cá hồi',
-    'khu vực Trung-Tây',
-    'Shikaribashi',
-    'thời phong kiến',
-    'gia đình Lại',
-    'đồ ăn vặt',
+    'Đài Nam',
+    'mì ý trích rồng',
+    'Trung Tây Quận',
+    'Sa Ca Li Ba',
+    'Nhật trị',
+    'gia đình Liễu',
+    'ăn vặt',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,77 +19,78 @@ featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/鱔魚意麵.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:6060b205f72b8e41'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:81213e22c8b81c39'
 sourceBodyHash: 'sha256:7eb60f7eb1751d17'
-translatedAt: '2026-07-28T08:16:22+08:00'
+translatedAt: '2026-09-22T02:06:15+08:00'
 ---
 
-Sáu giờ tối, trên đường Tình Nguyện, thứ mì thập cẩm cá hồi đang đốt cháy nhiều giờ. Thầy bếp kéo một miếng cá hồi, cho vào nồi sôi—từ lúc đó, bấm giờ bắt đầu. Tỏi bốc trứng, cá hồi vào nồi, hành tây, hành lá, ớt, hỗn hợp gia vị, nồi, cho vào mì thập cẩm. Từ khi cho vào nồi đến khi ra nồi, phải hoàn thành trong vòng 27 giây.
+Nửa đêm mười giờ, quán mì ý trích rồng đường Hữu Ái, lửa lớn đã bật vài giờ. Sư phụ nhấc lên một đoạn trích rồng, cho vào chảo sắt đang sôi sục — từ khoảnh khắc đó, giờ bắt đầu đếm. Tỏi phi thơm, trích rồng vào chảo, hành tây ớt, gia vị nêm nếm, dầu hào, giấm Năm Ấn, vớt ra, đổ lên mì ý. Từ lúc xuống chảo đến lúc vớt ra, phải hoàn thành trong 27 giây.
 
-Một giây nữa, thịt sẽ cứng, mùi lẫn, toàn bộ nồi thất bại.
+Nhiều một giây, thịt bị dai, mùi tanh nổi lên, cả nồi bị hỏng.
 
-## Một con số của trọng lượng
+## Trọng lượng của một con số
 
-Mì thập cẩm cá hồi ở Tây Ninh cũng có mặt ở các tỉnh khác của Đài Loan, nhưng hầu hết các thành phố khác không làm đúng. Không phải do nguyên liệu, không phải do nước sốt, mà là 27 giây.
+Mì ý trích rồng ở các nơi khác tại Đài Loan cũng có, nhưng ngoài Đài Nam hầu như không ai làm đúng. Không phải vấn đề nguyên liệu, không phải vấn đề gia vị, mà là 27 giây đó.
 
-Cấu trúc protein của cá hồi rất dễ vỡ, dưới nhiệt độ cao, sợi cơ gần như ngay lập tức đông lại. Vượt qua điểm chuyển đổi là một trải nghiệm cảm gió khác. 27 giây đủ để thịt chín nhưng vẫn giữ được độ đàn hồi; 27 giây sau, bắt đầu lão, bắt đầu lẫn, bắt đầu dẻo khô. Thầy bếp không xem đồng hồ—ông dùng tai nghe lắng nghe tiếng rì rào lửa, dùng cánh tay cảm nhận trạng thái trong nồi. Kỹ năng này không thể học được trong vài tháng.
+Cấu trúc protein của trích rồng mong manh, ở nhiệt độ cao sợi cơ gần như đông đặc tức thì, vượt qua điểm ngưỡng là một cảm giác khác hẳn. 27 giây đủ để thịt chín tới nhưng sợi cơ vẫn còn đàn hồi; sau 27 giây, bắt đầu già, bắt đầu tanh, bắt đầu nhão nát. Lão sư phụ không nhìn đồng hồ — họ dùng tai nghe "khí chảo", dùng cổ tay cảm nhận trạng thái trong chảo. Cái công phu này, không phải vài tháng có thể học được.
 
-📝 Ghi chú của người dẫn chương trình: Số "27 giây" này, trong lòng người ăn mì thập cẩm cá hồi ở Tây Ninh, là tri thức được biết đến; ngược lại, ở các tỉnh khác, họ hầu như không biết đến. Đây không phải là thông tin xuất hiện, mà là mô tả chính xác về chuẩn mực kỹ thuật của món ăn—mỗi giây vượt quá thời gian này đều là sự thiếu tôn trọng đối với nguyên liệu.
+📝 Ghi chú người biên soạn: Con số "27 giây" này, trong giới ăn mì ý trích rồng Đài Nam là sự hiển nhiên, ngoài Đài Nam hầu như không ai biết. Nó không phải chiêu bài, là sự miêu tả chính xác ngưỡng kỹ thuật của món ăn này — mỗi giây vượt quá thời gian đó, đều là sự không tôn trọng nguyên liệu.
 
-## Tây Ninh không có cá trê
+## Đài Nam không có lươn
 
-Để hiểu nguồn gốc của món ăn này, trước hết phải hiểu bản đồ ẩm thực của Tây Ninh trong thời kỳ đế quốc Nhật Bản.
+Để hiểu sự ra đời của món ăn này, trước hết phải hiểu bản đồ ẩm thực Đài Nam thời kỳ Nhật trị.
 
-Người Nhật thích ăn cá trê, nhưng Tây Ninh không có cá trê để cung cấp, phải nhập khẩu, giá cao, lượng ít. Kênh nước, kênh thoát, lúa đồng xung quanh Tây Ninh nuôi cá hồi hoang dã số lượng lớn—dài và thon, giống cá trê, nhưng người Tây Ninh không biết cách nấu ăn. Anh em Lại Thanh Đức và Lại Hử Tứ tìm thấy cơ hội trong khoảng trống này.
+Người Nhật thích ăn lươn, nhưng Đài Nam không có nguồn cung lươn, phải nhập khẩu, giá cao, lượng ít. Ao nước, rạch mương, ruộng đồng chung quanh Đài Nam mọc đầy trích rồng hoang dại — dáng dấp thon dài, giống lươn, nhưng người Đài Loan lúc bấy giờ ít biết cách chế biến. Anh em Liễu Bính Nam, Liễu Hỏa Thổ, trong khe hở này đã tìm thấy cơ hội.
 
-Họ học tập cách nấu "dao" (to-tsì) từ một thầy từ Phúc Châu—"công nghệ dao" là tên gọi trong ngôn ngữ Hokkien dành cho nghệ thuật ẩm thực, nhấn mạnh sự đồng nhất giữa nghệ thuật cắt bỏ và thời gian nấu nướng. Nghiên cứu ra cách xào cá hồi giống cá trê sau này, vị chua ngọt đặc trưng của Tây Ninh khiến các quan chức Nhật Bản cũng ngước mắt, gia đình Lại từ đó tạo nên danh hiệu hàng trăm năm. Người họ gọi Lại Thanh Đức là "Cá hồi Nam", trở thành biểu tượng của món ăn này.
+Họ học theo một vị thầy Phúc Châu "dao tử" (to-tsì) — "công phu dao tử" là cách gọi nghề bếp của tiếng Nam Min, nhấn mạnh dao công và hỏa hậu nhất thể. Sau khi nghiên cứu ra cách xào trích rồng bắt chước lươn, hương vị mặn chua ngọt đặc trưng Đài Nam khiến cả quan viên Nhật cũng phải gật đầu, gia đình Liễu từ đó đặt tên tại Sa Ca Li Ba. Liễu Bính Nam người ta gọi là "Trích rồng Nam", trở thành đại danh từ của món ăn này.
 
-📝 Ghi chú của người dẫn chương trình: Thay thế cá trê nhập khẩu của người Nhật bằng cá hồi hoang dã tại kênh nước Tây Ninh—đây không chỉ là sự thay thế nguyên liệu, mà là một logic tìm được phương án giải quyết địa phương trong giới hạn tài nguyên. Logic này chính là gen chung dẫn đến sự ra đời của các món ăn vặt ở Tây Ninh.
+📝 Ghi chú người biên soạn: Dùng trích rồng hoang dại từ ao nước Đài Nam thay cho lươn nhập khẩu — đây không chỉ là thay thế nguyên liệu, là một logic giải pháp在地 (địa phương) trong điều kiện hạn chế nguồn lực. Logic này, chính là gen chung của sự ra đời các món ăn vặt Đài Nam.
 
-## Ba thế kỷ kế nhau, một con sườt máu
+## Ba đời truyền thừa, một hệ thống
 
-Kỹ năng của gia đình Lại được truyền lại một miếng: con trai của Lại Thanh Đức, "Cá hồi Lư", nhận thừa kế, sau đó truyền cho thế hệ thứ ba Lại Quốc Xu, người được gọi là "Cá hồi Lại". Ngày nay, trên Shikaribashi, quán mì thập cẩm cá hồi cổ điển của gia đình Lại chính là nguồn gốc xác thực của dòng máu thuyền này.
+Kỹ thuật gia đình Liễu truyền thừa một mạch: con trai Liễu Bính Nam là "Trích rồng Lộc" tiếp quản, truyền đến đời ba Liễu Quốc Hùng, người ta gọi là "Trích rồng Liễu". Hôm nay quán Liễu Kỷ Lão Phẩm Trích Rồng Mì Ý tại Sa Ca Li Ba, là chính thống của dòng máu này.
 
-Cũng có nhiều chi nhánh phát sinh. Người bạn của phố Thành Công, "Nguyên" xào cá hồi, chủ quán là con trai của Cá hồi Nam; phố Dân Tộc, "Giang" tách ra từ Nguyên để lập riêng; gần đây, em trai thứ hai xào cá hồi lập một trang mới. Bản đồ các quán mì thập cẩm cá hồi ở trung tâm Tây Ninh gần như là bản đồ khai thác không gian của dòng máu của gia đình Lại.
+Những nơi phân nhánh ra cũng không ít. Đường Thành Công quán A Nguyên Xào Trích Rồng, chủ quán là con trai Trích rồng Nam; Đường Dân Tộc quán A Giang, tách ra độc lập từ A Nguyên; gần năm nay lại có Nhị Ca Xào Trích Rồng tự lập cửa. Bản đồ mì ý trích rồng trung tâm Đài Nam, gần như là bản đồ không gian triển khai của hệ thống gia đình Liễu.
 
-📝 Ghi chú của người dẫn chương trình: Quán mì thập cẩm cá hồi cổ điển của gia đình Lại được đề cử vào danh sách Green Guide của Michelin năm 2024. Một món ăn ra đời tại chợ vào đầu thế kỷ 20, sau hàng trăm năm được các nhà đánh giá thực phẩm chú ý—thời gian thỉnh thoảng là lọc giọt công bằng nhất.
+📝 Ghi chú người biên soạn: Liễu Kỷ Lão Phẩm Trích Rồng Mì Ý năm 2024 được chọn vào Hướng dẫn Xanh Michelin. Một món ăn công nhân ra đời đầu thế kỷ XX tại chợ, trăm năm sau được các chuyên giaẩm thực chú ý — thời gian đôi khi là bộ lọc công bằng nhất.
 
-## Shikaribashi: Tên chợ bằng tiếng Nhật
+## Sa Ca Li Ba: Tên tiếng Nhật của chợ
 
-"Shikaribashi" là phiên âm tiếng Hokkien của tiếng Nhật "盛り場" (sakariba), có nghĩa là chợ đông người.
+"Sa Ca Li Ba" là âm dịch tiếng Đài Loan từ "盛り場" (sakariba) tiếng Nhật, nghĩa là chợ buôn sầm uất.
 
-Trong thời kỳ đế quốc Nhật Bản, chính quyền thành phố Tây Ninh dưới dự án điều chỉnh khu vực đô thị đã tập trung các gian hàng rời rạc tại các nơi khác nhau vào một khu vực trên đường Tình Nguyện, quản lý thống nhất. Chợ này trở thành phòng thí nghiệm cho ẩm thực Tây Ninh: các gian hàng với nền tảng khác nhau kẹt nhau trong một chợ chung, mỗi người mang theo logic nấu ăn và nguyên liệu khác nhau, tự quan sát, tự kích thích, tạo ra các gen xuất hiện trong ẩm thực Tây Ninh.
+Thời kỳ Nhật trị, chính quyền thành phố Đài Nam trong kế hoạch chỉnh lý đô thị, tập trung các tiểu thương phân tán khắp nơi vào khu chợ đường Hữu Ái, quản lý thống nhất. Chợ này trở thành phòng thí nghiệm món ăn vặt Đài Nam: tiểu thương các bối cảnh khác nhau chen chúc trong cùng một chợ, mỗi người mang theo logic nấu nướng và nguyên liệu riêng, quan sát lẫn nhau, kích thích lẫn nhau, rèn luyện ra gen của món ăn vặt Đài Nam ngày nay.
 
-Mì thập cẩm cá hồi chính là món ăn được sinh ra, trưởng thành và được công nhận trong môi trường này.
+Mì ý trích rồng ra đời, trưởng thành, được công nhận chính trong môi trường này.
 
-## Mì: Loại mì đặc trưng của Tây Ninh
+## Mì ý: Loại mì đặc hữu của Đài Nam
 
-"Mì thập cẩm" dùng để ăn kèm với cá hồi xào, chính là một sự tồn tại đặc trưng của Tây Ninh.
+Loại "mì ý" ăn kèm xào trích rồng, bản thân cũng là sự tồn tại đặc hữu của Đài Nam.
 
-Làm từ trứng gà và bột mì, sự khác biệt nằm ở quy trình: sau khi chưa chín hoàn toàn, chiên để cố định hình dạng, để ngày càng đợi. Khi ăn, cho vào nồi cá hồi xào đã nấu, hấp thụ nước luộc—hành động hấp thụ này khiến hương vị của mì thập cẩm hoàn toàn khác biệt so với các loại mì thông thường: có độ đàn hồi, béo ngậy, sâu vị nước sốt.
+Làm từ trứng gà và bột mì, đặc biệt ở quy trình: trạng thái bán chín bán sống chiên định hình, để tĩnh dự bị. Lên đĩa cho vào nước sốt trích rồng vừa xào, hút đẫm nước sốt — động tác hấp thụ đó, làm cho mì ý có cảm giác hoàn toàn khác mì thường: dai, béo, có chiều sâu nước sốt.
 
-Xào tươi và xào hầm là hai lựa chọn. Xào tươi nước sốt đậm, màu sắc đậm, hương vị cá hồi tập trung hơn; xào hầm nước sốt ngọt thanh, mì thấm mềm hơn, phù hợp với người không thích vị mạnh. Hai trường hợp khác nhau.
+Xào khô và xào nước là hai lựa chọn. Xào khô nước sốt sánh, màu đậm, hương trích rồng tập trung hơn; xào nước nước sốt thanh ngọt, mì ý ngâm vào mềm mượt hơn, phù hợp người không thích vị quá nồng. Mỗi loại có người tin theo.
 
-## Năm In Vi: Bước cuối cùng
+## Giấm Năm Ấn: Bước cuối cùng
 
-Trước khi ra nồi, thầy bếp thêm Năm In Vi.
+Trước khi vớt chảo, sư phụ cho giấm Năm Ấn.
 
-Năm In Vi là một thương hiệu đồ uống giảm cân địa phương tại Tây Ninh, vị chua trọng với lớp vị caramel nhẹ. Khi thêm chua, tỷ lệ mặn chua ngọt lại cân bằng lại, kết thúc sạch sẽ, không còn cảm giác béo bở—giúp người ăn vẫn còn khát khao để đi thêm một quán nữa.
+Giấm Năm Ấn là thương hiệu giấm đen địa phương Đài Nam, vị chua đậm đà hơn giấm trắng thường, mang theo chút đáy caramel nhẹ. Cho giấm, tỷ lệ mặn chua ngọt cân bằng lại, kết thúc thanh mát, cảm giác béo bị cắt đứt — để sau một bát xào trích rồng, bạn vẫn còn chỗ bụng đi tiếp quán kế.
 
-📝 Ghi chú của người dẫn chương trình: Thiết kế ẩm thực Tây Ninh không phải để ăn no, mà để người ăn vẫn thể hiện khả năng ăn tiếp. Năm In Vi là công cụ điều chỉnh vị giác, không phải là gia vị. Chi tiết này cho thấy logic của "du lịch ẩm thực" tại Tây Ninh—nguội ẩm thực kỹ thuật số.
+📝 Ghi chú người biên soạn: Logic thiết kế món ăn vặt Đài Nam, từ xưa không phải để cho bạn no, mà để cho bạn _tiếp tục ăn được_. Giấm Năm Ấn là công cụ thiết lập lại vị giác, không phải gia vị. Chi tiết này, giải thích cho kỹ thuật ẩm thực của văn hóa "du lịch quán ăn" Đài Nam.
 
 ---
 
-## Tham khảo
+## Tài liệu tham khảo
 
-- [Mì thập cẩm cá hồi — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [Shikaribashi — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
-- [Câu hỏi xào cá hồi có đáng được coi là chân thành không?— Bài viến giảng thuyết độc lập @Tạo Hoá](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Mì thập cẩm cá hồi ở Tây Ninh, quán cổ điển gia đình Lại— BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [Lịch sử hoạt động của mì thập cẩm cá hồi ở Tây Ninh! Giao hàng tại nhà cũng ngon— TVBS Du lịch Khám Phá](https://supertaste.tvbs.com.tw/food/330365)
-- [Mì thập cẩm cá hồi ở Tây Ninh 【Nguyên tắc】: Lịch sử và công thức riêng của mì thập cẩm cá hồi— Mèo Lớn É](https://lordcat.net/archives/1846)
-- [Quán mì thập cẩm cá hồi đầu thế kỷ 20 vẫn nức mũi— Tạo Hoá Du Lịch Đám Mây](https://travel.ettoday.net/article/416437.htm)
-- [【Khu vực Trung-Tây】Xào cá hồi riêng— Mì thập cẩm cá hồi cổ điển của phố Nam— Người Tây Ninh Giúp](https://lifeintainan.com/062249686/)
-- [Người bản địa từ bé đến lớn! 6 quán mì thập cẩm cá hồi cổ điển ở Tây Ninh— TVBS Du lịch Khám Phá](https://supertaste.tvbs.com.tw/pack/336229)
+- [Mì ý trích rồng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
+- [Sa Ca Li Ba — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
+- [Làm sao xào trích rồng mới gọi là chân thành? — Bình luận độc lập @ Thiên Hạ](https://opinion.cw.com.tw/blog/profile/194/article/8595)
+- [Món ăn vặt Đài Nam, Lão Phẩm Trích Rồng Mì Ý Sa Ca Li Ba, truyền thừa ba đời của tiệm gốc sáng lập — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
+- [Lịch sử hoạt của xào trích rồng Đài Nam! Thương hiệu trăm năm mang về cũng ngon — TVBS Thực Thưởng](https://supertaste.tvbs.com.tw/food/330365)
+- [Đài Nam [A Nguyên Xào Trích Rồng]: Lịch sử và nước trích rồng độc môn của Đài Nam — Mèo Đại Gia](https://lordcat.net/archives/1846)
+- [Tiệm gốc mì trích rồng Đài Nam bay hương gần trăm năm — ETtoday Du Lịch](https://travel.ettoday.net/article/416437.htm)
+- [【Trung Tây Quận】Xào khô trích rồng đặc chế | Nam Đô Lão Phẩm Trích Rồng Mì Ý — Người Nam Bang](https://lifeintainan.com/062249686/)
+- [Người địa phương ăn từ nhỏ đến lớn! 6 tiệm Lão Phẩm Trích Rồng Mì Ý Đài Nam — TVBS Thực Thưởng](https://supertaste.tvbs.com.tw/pack/336229)
