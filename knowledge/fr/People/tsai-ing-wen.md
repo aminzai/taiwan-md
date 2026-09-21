@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-31T04:48:15+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T17:07:39.950742+00:00'
 ---
 
 # Tsai Ing-wen : De la nuit de la défaite aux 8,17 millions de voix, huit ans de présidence silencieuse
@@ -153,25 +153,25 @@ Une autre carte s'expansait dans la direction opposée. Le Congrès américain a
 
 Ainsi, « moins de partenaires » et « plus de soutien international » sont tous deux vrais, mais mesurent des choses différentes. Le premier calcule le nombre de pays reconnaissant la République de Chine ; le second décrit les liens substantiels sans reconnaissance officielle. Le gouvernement Tsai a choisi de parier les ressources limitées sur le second ; ce choix a augmenté l'exposition de Taïwan dans les pays démocratiques, sans empêcher la perte continue des partenaires officiels. La façon dont les lecteurs l'évaluent dépend de ce qu'ils considèrent comme le cœur de la diplomatie : le statut nominal, la coopération substantielle, ou les deux inextricablement liés.
 
-## Après la retraite, regarder encore les règles avant d'entrer
+## Après la présidence, elle continue en suivant les règles
 
-Le 20 mai 2024, Tsai Ing-wen a remis la présidence à Lai Ching-te. Le PDP a remporté consécutivement trois élections présidentielles, établissant un record pour le premier parti après l'instauration du vote direct présidentiel.
+Le 20 mai 2024, Tsai Ing-wen a transmis la présidence à Lai Ching-te. Le Parti progressiste démocratique (DPP) est le seul parti à remporter trois élections présidentielles consécutives depuis l'introduction du vote direct pour le poste de président.
 
-En octobre de la même année, à titre d'ancienne présidente, elle a visité la Tchéquie, la France et la Belgique, participant à un salon de vin dans le bâtiment du Parlement européen. C'est la première ancienne présidente de Taïwan à entrer dans le siège de l'UE, mais ce n'était pas un discours formel au Parlement européen ; le voyage prévu au Royaume-Uni n'a pas eu lieu. [^18]
+En octobre de la même année, en tant qu'ancienne présidente, elle a visité la Tchéquie, la France et la Belgique, participant à un cocktail au Parlement européen. C'était la première ancienne présidente de Taïwan à se rendre dans les locaux de l'Union européenne, mais ce n'était pas une allocution officielle devant le Parlement européen ; son voyage prévu en Grande-Bretagne n'a pas eu lieu [^18].
 
-De la table de négociation de l'OMC à une salle de réunion du Parlement européen, elle fait toujours la même chose : regarder jusqu'où les règles permettent d'aller, puis amener Taïwan à cette limite.
+Du bureau de négociation de l'OMC à une salle du Parlement européen, elle continue de faire la même chose : voir jusqu'où les règles lui permettent d'aller, puis amener Taïwan à cette limite.
 
-L'histoire revient enfin à la scène de la défaite de 2012. La phrase « ne renoncez pas », après huit ans de présidence, n'est plus seulement une consolation. Les terres autochtones, la réforme judiciaire, le prix du logement, l'énergie et les risques du détroit n'ont pas été résolus par elle ; la loi spécifique sur le mariage homosexuel, le système de pensions et l'ajustement de la défense sont devenus des réalités que le gouvernement suivant doit poursuivre ou répondre.
+L'histoire revient au terrain électoral de 2012. Le message « ne pas abandonner », après huit années de présidence, n'est plus qu'une simple consolation. Les questions concernant les terres autochtones, la réforme judiciaire, le prix de l'immobilier, l'énergie et les risques autour de Taïwan n'ont pas été résolues par elle ; cependant, la loi sur le mariage pour tous, le système de retraite et l'ajustement de la défense sont devenus des réalités que le gouvernement successeur doit reprendre ou auxquelles il doit répondre.
 
-Lorsqu'elle a quitté le Palais présidentiel, les 8,17 millions de voix étaient déjà devenues un chiffre historique. Ce qui reste est une autre preuve plus silencieuse : un politicien peut laisser des systèmes sans augmenter le volume de sa voix, et le système enregistrera fidèlement ce qu'elle a accompli, ainsi que ce qu'elle n'a pas accompli.
+Lorsqu'elle a quitté la Maison présidentielle, les 8,17 millions de votes étaient déjà un chiffre historique. Ce qui est resté est une autre preuve plus discrète : qu'un politicien peut laisser des institutions sans augmenter le volume sonore, et que ces institutions conservent fidèlement ce qu'il a accompli, ainsi que ce qu'il n'a pas terminé.
 
-**À lire également** :
+**Lectures complémentaires** :
 
-- [Invisible Nation](../Art/看不見的國家.md) — Documentaire de Ge Jingwen filmant Tsai Ing-wen pendant sept ans, observant son caractère et la démocratie taïwanaise depuis l'extérieur.
-- [Mariage homosexuel et égalité des genres à Taïwan](../Society/台灣同婚與性別平權.md) — Le parcours complet de l'Interprétation n° 748, du référendum à l'entrée en vigueur de la loi spécifique.
-- [Histoire des peuples autochtones de Taïwan et mouvement de reconnaissance du nom](../History/台灣原住民族歷史與正名運動.md) — Les luttes avant les excuses, et les questions de terres et d'identité restant à traiter après.
-- [Ma Ying-jeou](馬英九.md) — L'ancien président qui a vaincu Tsai Ing-wen en 2012 et lui a remis le pouvoir en 2016.
-- [Lai Ching-te](賴清德.md) — Le vice-président et successeur de Tsai Ing-wen.
+- [La nation invisible](/fr/art/invisible-nation) — un documentaire filmé par près de Tsai Ing-wen pendant sept ans, observant son caractère et la démocratie taïwanaise à travers des regards extérieurs.
+- [Mariage et égalité des sexes à Taïwan](/fr/society/taiwan-marriage-equality-lgbtq-rights) — le parcours complet, de l'article 748 au référendum jusqu'en vigueur de la loi.
+- [Histoire des peuples autochtones et mouvement de dénomination à Taïwan](/fr/history/indigenous-peoples-history-and-naming-movement) — les luttes avant les excuses, ainsi que les questions foncières et identitaires toujours en cours après ces excuses.
+- [Ma Ying-jeou](馬英九.md) — l'ancien président qui a battu Tsai Ing-wen en 2012 et qui lui a transmis le pouvoir en 2016.
+- [Lai Ching-te](賴清德.md) — le vice-président et successeur de Tsai Ing-wen.
 
 ## Sources des images
 
