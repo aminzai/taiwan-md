@@ -19,7 +19,11 @@ subcategory: 'Internet'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19
-rationale: "{'why_this_hook': '一條教育部反性侵宣導短片因「加害者演得太真」爆紅成兩岸迷因，飾演者伍嘉緯從排斥角色到把「杰哥」演成台灣首部迷因音樂劇主角，這十年反差是文章的敘事脊椎。', 'whats_excluded': '不展開性平教育成效的學術辯論細節、這群人團體全史、Garena 商業合作金額（來源未載明）。', 'where_it_hedges': '點閱數據多來自維基百科/鏡週刊轉述（bilibili 2,700 萬次、YouTube 300 萬次），以「約」「最高」等詞保留不確定性;頻道訂閱數標注時間點。', 'whos_pushing_back': '李佳霖 2013 年批評影片缺乏性平教育功能、強化刻板印象;本文另述迷因生命力的對照視角，未定調孰是孰非。'}"
+rationale:
+  why_this_hook: '一條教育部反性侵宣導短片因「加害者演得太真」爆紅成兩岸迷因，飾演者伍嘉緯從排斥角色到把「杰哥」演成台灣首部迷因音樂劇主角，這十年反差是文章的敘事脊椎。'
+  whats_excluded: '不展開性平教育成效的學術辯論細節、這群人團體全史、Garena 商業合作金額（來源未載明）。'
+  where_it_hedges: '點閱數據多來自維基百科/鏡週刊轉述（bilibili 2,700 萬次、YouTube 300 萬次），以「約」「最高」等詞保留不確定性;頻道訂閱數標注時間點。'
+  whos_pushing_back: '李佳霖 2013 年批評影片缺乏性平教育功能、強化刻板印象;本文另述迷因生命力的對照視角，未定調孰是孰非。'
 lastHumanReview: false
 readingTime: 11
 curation: 'incubating'

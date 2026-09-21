@@ -24,7 +24,11 @@ image: '/article-images/people/su-beng-100th-birthday-tsai-2017.webp'
 imageCredit: '總統府 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg'
-rationale: "{'why_this_hook': '從東京池袋那間「新珍味」麵店切入，用一個具體物件把史明「賣餃子養革命、寫台灣史」的一生扣起來，避免只寫成「台獨教父」的標籤。', 'whats_excluded': '未展開《台灣人四百年史》完整史觀論證、獨立台灣會歷次案件細節、以及他左翼思想的學術評價，保留給後續研究。', 'where_it_hedges': '享年採「享壽 103 歲（虛歲，實歲百歲）」；新珍味「約 5 億日圓」資產為單一口徑標「約」；暗殺計畫寫「密謀、未遂」不誇大。', 'whos_pushing_back': '支持統一或反對台獨的讀者，會不認同他的立場；也有人批評他早年的武裝路線與中共背景。文中中性並陳，不做倡議。'}"
+rationale:
+  why_this_hook: '從東京池袋那間「新珍味」麵店切入，用一個具體物件把史明「賣餃子養革命、寫台灣史」的一生扣起來，避免只寫成「台獨教父」的標籤。'
+  whats_excluded: '未展開《台灣人四百年史》完整史觀論證、獨立台灣會歷次案件細節、以及他左翼思想的學術評價，保留給後續研究。'
+  where_it_hedges: '享年採「享壽 103 歲（虛歲，實歲百歲）」；新珍味「約 5 億日圓」資產為單一口徑標「約」；暗殺計畫寫「密謀、未遂」不誇大。'
+  whos_pushing_back: '支持統一或反對台獨的讀者，會不認同他的立場；也有人批評他早年的武裝路線與中共背景。文中中性並陳，不做倡議。'
 translatedFrom: 'People/史明.md'
 sourceCommitSha: 'a113ef0cb'
 sourceContentHash: 'sha256:1ae91ed26b56a7cf'

@@ -22,7 +22,11 @@ image: '/article-images/economy/zhongli-city-taiwan.webp'
 imageCredit: 'Ted chou12 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:City_of_Zhongli,_Taiwan.jpg'
-rationale: "{'why_this_hook': '以「中壢是不是桃園」的日常疑問進入，解釋行政名稱與地方生活圈為何會同時成立。', 'whats_excluded': '不重寫既有中壢事件文章，不把桃園市總論改寫成中壢史，也不把個人印象當成全體居民民調。', 'where_it_hedges': '對族群、地方認同與「南北桃園」均標示歷史結構與個人觀察的界線，不把客家或閩南簡化成固定身分。', 'whos_pushing_back': '把「中壢不是桃園」理解為地方區域辨識，而非否定中壢屬於桃園市，並保留不同居民可能有不同回答的空間。'}"
+rationale:
+  why_this_hook: '以「中壢是不是桃園」的日常疑問進入，解釋行政名稱與地方生活圈為何會同時成立。'
+  whats_excluded: '不重寫既有中壢事件文章，不把桃園市總論改寫成中壢史，也不把個人印象當成全體居民民調。'
+  where_it_hedges: '對族群、地方認同與「南北桃園」均標示歷史結構與個人觀察的界線，不把客家或閩南簡化成固定身分。'
+  whos_pushing_back: '把「中壢不是桃園」理解為地方區域辨識，而非否定中壢屬於桃園市，並保留不同居民可能有不同回答的空間。'
 curation: 'incubating'
 translatedFrom: 'Economy/中壢.md'
 sourceCommitSha: 'e974b4c9e'

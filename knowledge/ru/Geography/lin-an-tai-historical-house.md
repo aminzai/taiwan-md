@@ -17,7 +17,11 @@ featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
-rationale: "{'why_this_hook': '以十公里搬十年的反差切入，讓移地保存的代價先於建築名詞進入讀者視野。', 'whats_excluded': '刪除完整家族世系、園區設施清單與無二源支撐的法律史因果。', 'where_it_hedges': '對文化資產保存法的制度影響採保守表述，區分官方資料、報導與學術研究的證據層級。', 'whos_pushing_back': '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'}"
+rationale:
+  why_this_hook: '以十公里搬十年的反差切入，讓移地保存的代價先於建築名詞進入讀者視野。'
+  whats_excluded: '刪除完整家族世系、園區設施清單與無二源支撐的法律史因果。'
+  where_it_hedges: '對文化資產保存法的制度影響採保守表述，區分官方資料、報導與學術研究的證據層級。'
+  whos_pushing_back: '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'
 curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
 sourceCommitSha: '13c7fbcdb'

@@ -25,7 +25,11 @@ image: '/article-images/culture/roc-national-central-library-building-2009.webp'
 imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:ROC_National_Central_Library_headquarters_20090801.jpg'
-rationale: "{'why_this_hook': 'Taiwan.md 已有臺灣民報、郵局、故宮與臺灣歷史博物館等出版或文化機構文章，但沒有以國家圖書館的法定送存、國家出版記憶、臺灣記憶數位典藏和電子出版治理為主軸的專文。', 'whats_excluded': '不把國家圖書館寫成單純的觀光建築或閱覽室，不把臺灣記憶的動態物件數寫成永久固定數字，也不把法定送存誤寫成所有出版品都能立即公開全文。', 'where_it_hedges': '法定送存、館藏編目、數位化、全文公開和研究利用是不同層次。本文分開處理保存義務、書目可見性、版權授權和實際閱覽條件，不用一個館藏數字代表整座知識系統。', 'whos_pushing_back': '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'}"
+rationale:
+  why_this_hook: 'Taiwan.md 已有臺灣民報、郵局、故宮與臺灣歷史博物館等出版或文化機構文章，但沒有以國家圖書館的法定送存、國家出版記憶、臺灣記憶數位典藏和電子出版治理為主軸的專文。'
+  whats_excluded: '不把國家圖書館寫成單純的觀光建築或閱覽室，不把臺灣記憶的動態物件數寫成永久固定數字，也不把法定送存誤寫成所有出版品都能立即公開全文。'
+  where_it_hedges: '法定送存、館藏編目、數位化、全文公開和研究利用是不同層次。本文分開處理保存義務、書目可見性、版權授權和實際閱覽條件，不用一個館藏數字代表整座知識系統。'
+  whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
 curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
 sourceCommitSha: 'e974b4c9e'

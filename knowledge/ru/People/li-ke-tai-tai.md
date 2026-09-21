@@ -19,7 +19,11 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: true
 readingTime: 16
-rationale: "{'why_this_hook': '理科太太把專業形象、科普內容與商業信任放在同一條公開路徑上，能具體呈現台灣知識型網紅的公共責任。', 'whats_excluded': '不以婚姻、離婚、子女或私人身心狀態作主軸，也不把媒體評論直接寫成法律或醫療結論。', 'where_it_hedges': '爆紅速度、訂閱數與爭議影響只按來源原文描述，醫療與食品事件分開處理，無法由來源確認的效果不寫成事實。', 'whos_pushing_back': '來源中的當事人、主管機關、媒體評論者與英文報導視角可能不同，文章保留其差異並避免單一結論。'}"
+rationale:
+  why_this_hook: '理科太太把專業形象、科普內容與商業信任放在同一條公開路徑上，能具體呈現台灣知識型網紅的公共責任。'
+  whats_excluded: '不以婚姻、離婚、子女或私人身心狀態作主軸，也不把媒體評論直接寫成法律或醫療結論。'
+  where_it_hedges: '爆紅速度、訂閱數與爭議影響只按來源原文描述，醫療與食品事件分開處理，無法由來源確認的效果不寫成事實。'
+  whos_pushing_back: '來源中的當事人、主管機關、媒體評論者與英文報導視角可能不同，文章保留其差異並避免單一結論。'
 translatedFrom: 'People/理科太太.md'
 sourceCommitSha: '3d8f3df35'
 sourceContentHash: 'sha256:b1932f2a73ba90a1'

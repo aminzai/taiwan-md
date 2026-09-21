@@ -22,7 +22,15 @@ image: '/article-images/society/under-protest-rome-1960.webp'
 imageCredit: '1960 年羅馬奧運開幕，福爾摩沙（台灣）代表團持「UNDER PROTEST」抗議牌進場。攝影 Harry Pot，荷蘭國家檔案館，CC0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg'
 viewpoint_formed: true
-rationale: "{'why_this_hook': '用 1960 Under Protest 白布條（奧運唯一一次開幕抗議）當錨點，把「上場卻不能用自己名字」的核心張力濃縮成一個具體畫面，比從制度史切入更有溫度。', 'where_it_hedges': '不裁判「應不應該正名」；IOC 停權威脅寫雙面（公投不自動觸發 vs 政治壓力真實）；中華／中國台北矮化之爭並陳陸委會、國台辦、藍綠各方，不下結論。', 'whos_pushing_back': '正名支持者會認為文章太替「務實接受」緩頰；運動員／反正名陣營會嫌「封口令」框架太重；ROC 法統立場會質疑 1976「自己關門」的因果框定。', 'whats_excluded': ['殘奧 Chinese Taipei 延伸 / WBC 棒球不同名稱軌跡（旁支，會稀釋焦點）', '科索沃/巴勒斯坦/波多黎各比較案例只點到（深入展開會搶戲）']}"
+rationale:
+  why_this_hook: '用 1960 Under Protest 白布條（奧運唯一一次開幕抗議）當錨點，把「上場卻不能用自己名字」的核心張力濃縮成一個具體畫面，比從制度史切入更有溫度。'
+  where_it_hedges: '不裁判「應不應該正名」；IOC 停權威脅寫雙面（公投不自動觸發 vs 政治壓力真實）；中華／中國台北矮化之爭並陳陸委會、國台辦、藍綠各方，不下結論。'
+  whos_pushing_back: '正名支持者會認為文章太替「務實接受」緩頰；運動員／反正名陣營會嫌「封口令」框架太重；ROC 法統立場會質疑 1976「自己關門」的因果框定。'
+  whats_excluded:
+    [
+      '殘奧 Chinese Taipei 延伸 / WBC 棒球不同名稱軌跡（旁支，會稀釋焦點）',
+      '科索沃/巴勒斯坦/波多黎各比較案例只點到（深入展開會搶戲）',
+    ]
 sporeLinks:
   [
     "{'id': 120, 'platform': 'threads', 'date': '2026-06-04', 'url': 'https://www.threads.com/@taiwandotmd/post/DZKoOQpmPhJ'}",

@@ -19,7 +19,11 @@ lastHumanReview: false
 curation: 'incubating'
 image: '/article-images/lifestyle/nanmen-market-2023.webp'
 readingTime: 8
-rationale: "{'why_this_hook': '從南門、新富與建國三座市場切入，追蹤市場如何由衛生制度、人口移動與住商混合長成城市基礎設施；核心不是歌頌老市場，而是說明它為何值得在更新中保留選擇。', 'whats_excluded': '不把傳統市場寫成單純懷舊，也不把所有市場改建或數位化都視為成功；不沿用原稿未能對應文章頁的統計與泛稱案例。', 'where_it_hedges': '市場數量與營業額採經濟部計畫的特定統計口徑；歷史沿革分別依官方市場、文化機構與編輯媒體文章核對，不把單一市場經驗推論為全台市場。', 'whos_pushing_back': '文章同時呈現市場的衛生與安全問題、超市與網路通路的便利，以及都市更新對攤商、住戶、信仰與地方記憶造成的落差。'}"
+rationale:
+  why_this_hook: '從南門、新富與建國三座市場切入，追蹤市場如何由衛生制度、人口移動與住商混合長成城市基礎設施；核心不是歌頌老市場，而是說明它為何值得在更新中保留選擇。'
+  whats_excluded: '不把傳統市場寫成單純懷舊，也不把所有市場改建或數位化都視為成功；不沿用原稿未能對應文章頁的統計與泛稱案例。'
+  where_it_hedges: '市場數量與營業額採經濟部計畫的特定統計口徑；歷史沿革分別依官方市場、文化機構與編輯媒體文章核對，不把單一市場經驗推論為全台市場。'
+  whos_pushing_back: '文章同時呈現市場的衛生與安全問題、超市與網路通路的便利，以及都市更新對攤商、住戶、信仰與地方記憶造成的落差。'
 translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
 sourceCommitSha: '5c8070d07'
 sourceContentHash: 'sha256:e0d72befdb935fe7'

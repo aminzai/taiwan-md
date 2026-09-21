@@ -24,7 +24,15 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-06/台灣人小時候的英文名字.md'
 viewpoint_formed: true
 verification: '{''high_confidence'': [''何嘉仁 1983 / 吉的堡 1986 / 長頸鹿 1986 / 芝麻街 1987'', ''NO CHINESE, ENGLISH PLEASE 為芝麻街美語 1987 引進口號（天下雜誌）'', ''Barešová & Pikhart 2020 MDPI Social Sciences 9(4)/60 N=76 / 70.6% SSA top 1000'', ''護照條例施行細則第 14 條「國家語言讀音逐字音譯」+ 第五款「以一次為限」'', ''2019/8/9 外授領一字第 1086603416 號令：國語 → 國家語言'', ''通用拼音 2002/8/22 行政院備查；漢語拼音 2009/1/1 生效'', ''香港 64.1% 有英文給名（Bacon-Shone, Bolton, Luke 2015 香港大學）'', ''創氏改名 2.06%（12.6 萬人）/ 朝鮮 80%（喜多由浩 產經新聞）'', ''1946/5/21 修正臺灣省人民回復原有姓名辦法 + 3 個月限期 + 字典隨意分配'', ''Kolas Yotaka 2024 依新法成為首位身分證完全去漢字者'', ''鮭魚之亂改名 3 次上限 + 4 年後 80% 已改回'', ''統一星巴克 1998/3/28 天母西路首店''], ''single_source'': ["吉的堡 1986 創立 + 1988 自研 Chevady''s World 教材（babyeduhub 二手）", ''aithley.com 護照拼音指南（So your name is Chia-hao, not Kevin? quote）'', ''PTT StupidClown 2019 kriss 30 秒停頓 Romeo 案'', ''Anne Chang Medium 個人散文（端正坐姿）''], ''unverified'': [''1988《英文名字大全》具名 ISBN — 已改用 1992《英文姓名寶鑑》或泛稱「九〇年代英文姓名類書籍」'', ''Kevin → Chia-Hao 改名潮 — 已改寫成「實務專家建議加簽護照別名」'', ''一家四口四種拼法具體案例 — 用「結構性可能」表述（法條承認）'']}'
-rationale: "{'whats_excluded': ['韓國 hagwon 系統性指派英文名（無證據，韓國 driver 是洗禮名 + 全球化）', '星巴克英文名點餐「全民日常」（限都市年輕族群）', 'Mary / Kevin 統計顯示 X%（無 N=1200 級台灣資料）', 'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）', '英文名 = 創氏改名延續（結構連線可寫，等號禁止）']}"
+rationale:
+  whats_excluded:
+    [
+      '韓國 hagwon 系統性指派英文名（無證據，韓國 driver 是洗禮名 + 全球化）',
+      '星巴克英文名點餐「全民日常」（限都市年輕族群）',
+      'Mary / Kevin 統計顯示 X%（無 N=1200 級台灣資料）',
+      'Sesame Workshop 1987 親自設計教材（Sesame English ESL 線 1999 才出）',
+      '英文名 = 創氏改名延續（結構連線可寫，等號禁止）',
+    ]
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
 sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:5ec68902a1c50e0d'

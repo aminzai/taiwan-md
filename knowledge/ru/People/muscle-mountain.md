@@ -20,7 +20,11 @@ lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
-rationale: "{'why_this_hook': '以通化夜市的木瓜牛奶與萊爾富聯名串起移居者如何把觀看台灣變成生活實踐。', 'whats_excluded': '不把宣傳用語當成獨立口味評測，也不延伸推論未有來源支持的訂閱、營收或影響力數據。', 'where_it_hedges': '對移居原因、房貸經驗、商品價格與活動期限均標示報導時間，避免把個人感受或檔期資訊寫成普遍事實。', 'whos_pushing_back': '文章保留外籍身分、住房與商業合作的制度限制，提醒創作者背書不能取代食品標示與消費者判斷。'}"
+rationale:
+  why_this_hook: '以通化夜市的木瓜牛奶與萊爾富聯名串起移居者如何把觀看台灣變成生活實踐。'
+  whats_excluded: '不把宣傳用語當成獨立口味評測，也不延伸推論未有來源支持的訂閱、營收或影響力數據。'
+  where_it_hedges: '對移居原因、房貸經驗、商品價格與活動期限均標示報導時間，避免把個人感受或檔期資訊寫成普遍事實。'
+  whos_pushing_back: '文章保留外籍身分、住房與商業合作的制度限制，提醒創作者背書不能取代食品標示與消費者判斷。'
 translatedFrom: 'People/肌肉山山.md'
 sourceCommitSha: '445a73ced'
 sourceContentHash: 'sha256:03fd31754989ad8f'

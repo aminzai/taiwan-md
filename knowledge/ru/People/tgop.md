@@ -21,7 +21,11 @@ lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 10
 image: '/article-images/people/intermediapost-recording-studio.webp'
-rationale: "{'why_this_hook': '以「一起成名，卻必須拆開」作為主軸，從 2011 年起點寫到 2024 年停更，將網紅團體當成一種台灣內容產業的工作組織，而不是只寫成員八卦。', 'whats_excluded': '不把媒體標題的「解散」當作 2023 年官方說法，不推論收入總額，不補寫沒有文章頁支持的私下衝突，也不把通用製作圖片誤認為 TGOP 現場。', 'where_it_hedges': '357 萬訂閱、336 部影片、130 萬商業影片價碼與榜單前五均保留報導時間與來源脈絡。停更原因並列成員引語與媒體轉述，不宣稱存在唯一內幕。', 'whos_pushing_back': '相信團體只要保留友情就能持續的觀眾，以及把停更直接理解為解散的媒體敘事。文章以官方停更公告、製作人訪談與後續追蹤並置，讓不同解讀保留在證據範圍內。'}"
+rationale:
+  why_this_hook: '以「一起成名，卻必須拆開」作為主軸，從 2011 年起點寫到 2024 年停更，將網紅團體當成一種台灣內容產業的工作組織，而不是只寫成員八卦。'
+  whats_excluded: '不把媒體標題的「解散」當作 2023 年官方說法，不推論收入總額，不補寫沒有文章頁支持的私下衝突，也不把通用製作圖片誤認為 TGOP 現場。'
+  where_it_hedges: '357 萬訂閱、336 部影片、130 萬商業影片價碼與榜單前五均保留報導時間與來源脈絡。停更原因並列成員引語與媒體轉述，不宣稱存在唯一內幕。'
+  whos_pushing_back: '相信團體只要保留友情就能持續的觀眾，以及把停更直接理解為解散的媒體敘事。文章以官方停更公告、製作人訪談與後續追蹤並置，讓不同解讀保留在證據範圍內。'
 curation: 'incubating'
 imageCredit: 'Intermediapost / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
