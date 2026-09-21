@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T03:34:50+08:00",
-    "zhCommitHead": "fe6028b4a",
+    "lastUpdated": "2026-09-22T03:36:26+08:00",
+    "zhCommitHead": "9aef21bd4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1051,
-        "stale": 44,
+        "fresh": 1052,
+        "stale": 43,
         "metadata_stale": 7,
         "missing": 22,
         "orphan": 0
@@ -71933,8 +71933,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-21T18:57:08.826597+00:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "9aef21bd",
+          "translationLastModified": "2026-09-22T03:34:50+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 44278,
@@ -73467,8 +73467,8 @@
           "sourceContentHash": "sha256:f5c7b68537fffdbb",
           "sourceBodyHash": "sha256:8a34ab63ff63d541",
           "translatedAt": "2026-09-21T23:34:05+08:00",
-          "translationLastCommit": "bdce1787",
-          "translationLastModified": "2026-07-26T08:48:56+08:00",
+          "translationLastCommit": "9aef21bd",
+          "translationLastModified": "2026-09-22T03:34:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 14878,
@@ -113270,19 +113270,17 @@
         "en": {
           "path": "en/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0a",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-05-26T00:00:00Z",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-22T02:06:12+08:00",
           "translationLastCommit": "8d0c4a70",
           "translationLastModified": "2026-09-05T17:56:15+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16403,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -2"
+          "bytes": 15471,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/yang-chuan-kwang-asian-iron-man.md",
@@ -134481,8 +134479,8 @@
           "sourceContentHash": "sha256:4084ed4b3480a75a",
           "sourceBodyHash": "sha256:70f421624b5717be",
           "translatedAt": "2026-09-21T18:27:00.896806+00:00",
-          "translationLastCommit": "26d3f390",
-          "translationLastModified": "2026-09-22T00:53:27+08:00",
+          "translationLastCommit": "9aef21bd",
+          "translationLastModified": "2026-09-22T03:34:50+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 44734,
