@@ -1,6 +1,6 @@
 ---
-title: 'Thái Anh Văn: Từ đêm thua trận đến 8,170.231 phiếu, cô gái yên tĩnh trải qua tám năm làm tổng thống'
-description: 'Vào ngày 14 tháng 1 năm 2012, Thái Anh Văn thua trận với khoảng cách 797.561 phiếu; tám năm sau, cô đạt được 8.170.231 phiếu, thiết lập kỷ lục mức cao nhất trong các cuộc bầu cử tổng thống của Đài Loan. Từ nhà hoạt động luật thương quốc tế đến người phụ nữ đầu tiên lên nhiệm vai tổng thống, cô để lại những thành tựu như xin lỗi người nguyên thủy, luật hôn nhân đồng tính, cải cách bảo hiểm xã hội và vấn đề không giải quyết của thị xã, nhà ở, năng lượng và quan hệ hai bờ eo biển. Đây là tám năm cô gái yên tĩnh dẫn dắt chính phủ, đồng thời để lại những khoảng trống chưa được giải quyết.'
+title: 'Thái Anh Văn: Tám năm lãnh đạo trong im lặng, từ đêm thất cử đến 8,17 triệu phiếu bầu'
+description: 'Vào ngày 14 tháng 1 năm 2012, Thái Anh Văn thua cuộc với cách biệt 797.561 phiếu; tám năm sau, bà giành được 8.170.231 phiếu, lập kỷ lục cao nhất trong cuộc bầu cử tổng thống trực tiếp của Đài Loan. Từ học giả luật thương mại quốc tế đến nữ tổng thống đầu tiên, bà để lại những thành tựu như lời xin lỗi người bản địa, luật hôn nhân đồng giới, cải cách lương hưu và duy trì hiện trạng, nhưng cũng để lại các vấn đề chưa được giải quyết về tư pháp, nhà ở, năng lượng và quan hệ hai bờ eo biển. Đây là tám năm lãnh đạo thầm lặng trở thành thể chế, và cũng bị thể chế bỏ ngỏ những thiếu sót.'
 date: 2026-03-17
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Nhân vật',
     'Thái Anh Văn',
     'Tổng thống',
-    'Nhà lãnh đạo nữ',
+    'Lãnh đạo nữ',
     'Dân chủ',
     'Chính trị',
-    'Dân tộc nguyên thủy',
+    'Người bản địa',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md'
@@ -26,198 +26,200 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-28T05:45:51+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T21:38:55+08:00'
 ---
 
-# Thái Anh Văn: Từ đêm thua trận đến 8,170.231 phiếu, cô gái yên tĩnh trải qua tám năm làm tổng thống
+# Thái Anh Văn: Từ đêm thất cử đến 8,17 triệu phiếu bầu, tám năm lãnh đạo trong im lặng
 
-> **30 giây tóm tắt:** Vào năm 2012, Thái Anh Văn thua trận với khoảng cách 797.561 phiếu; tám năm sau, cô thắng với 8.170.231 phiếu, đạt kỷ lục cao nhất trong các cuộc bầu cử tổng thống của Đài Loan. Người luật thương quốc tế từng tự thành thời khắng sợ giao tiếp, trở thành tổng thống nữ đầu tiên của Đài Loan, đồng thời để lại dấu ấn trong các vấn đề như hôn nhân đồng tính, công bằng chuyển đổi cho người nguyên thủy, bảo hiểm xã hội và cải cách quân sự. Khi rời cảnh tòa nhà tổng thống, cô nhận được điểm số đạt: có thành tựu lịch sử, nhưng cũng có những câu hỏi chưa giải quyết về tòa án, nhà ở, năng lượng và quan hệ hai bờ eo biển.
+> **Tóm tắt 30 giây:** Năm 2012, Thái Anh Văn thua cuộc trong cuộc bầu cử tổng thống với cách biệt 797.561 phiếu; tám năm sau, bà tái đắc cử với 8.170.231 phiếu, lập kỷ lục cao nhất trong cuộc bầu cử tổng thống trực tiếp của Đài Loan. Vị học giả luật thương mại quốc tế này, người từng nói mình sợ giao tiếp với mọi người, đã trở thành nữ tổng thống đầu tiên của Đài Loan và để lại dấu ấn thể chế trong các vấn đề hôn nhân đồng giới, công bằng chuyển đổi cho người bản địa, lương hưu và cải cách quốc phòng. Khi bà rời nhiệm sở, bà nhận được một bảng điểm đạt yêu cầu: có những hoàn thành mang tính lịch sử, nhưng cũng còn tồn đọng các vấn đề chưa giải quyết như tư pháp, giá nhà, năng lượng và quan hệ hai bờ eo biển.
 
-Vào tối ngày 14 tháng 1 năm 2012, Thái Anh Văn đứng trên sân khấu thua trận.
+Vào tối ngày 14 tháng 1 năm 2012, Thái Anh Văn đứng trên bục thất bại.
 
-Cô thu được 6.093.578 phiếu, chênh lệch so với Ma Ngọc Khải 797.561 phiếu. Đêm ấy, cô nói với các nhân viên hỗ trợ: «Bạn có thể khóc lóc, nhưng đừng mất kiên nhẫn; bạn có thể buồn bã, nhưng đừng từ bỏ.»[^1] Bốn năm sau, cô được bầu chọn với 6.894.744 phiếu. Tiếp tục bốn năm nữa, số phiếu tăng lên đến 8.170.231, đạt kỷ lục cao nhất trong lịch sử bầu cử tổng thống của Đài Loan.[^2]
+Bà nhận được 6.093.578 phiếu, kém Mã Anh Cửu (Ma Ying-jeou) 797.561 phiếu. Đêm đó, bà nói với những người ủng hộ: “Các bạn có thể khóc, nhưng đừng nản lòng; các bạn có thể buồn bã, nhưng đừng bỏ cuộc.”[^1] Bốn năm sau, bà đắc cử với 6.894.744 phiếu. Bốn năm tiếp theo, con số tăng lên 8.170.231, trở thành kỷ lục cao nhất trong lịch sử bầu cử tổng thống trực tiếp của Đài Loan.[^2]
 
-Hành trình này dễ dàng bị viết thành một phép mô phỏng. Nhưng thách thức mà Thái Anh Văn thực sự để lại là hấp dẫn hơn: một nhà học luật kiểu học sinh, từng sợ giao tiếp, làm sao trong thời đại chính trị đông ngập, khiến nhiều người bầu giọng giao cho cô?
+Giai đoạn này dễ dàng bị viết thành một chiến thắng lội ngược dòng. Nhưng những vấn đề mà Thái Anh Văn thực sự để lại còn thú vị hơn: làm thế nào một chính trị gia kiểu học giả, người không dựa vào các bài diễn thuyết đầy cảm xúc và từng sợ nói chuyện với mọi người, lại có thể nhận được phiếu bầu từ số lượng cử tri lớn nhất trong thời đại chính trị quần chúng?
 
-![2015 tháng 10, buổi hội trường kích cổ hữu của chiến dịch chọn Tổng thống ở Thái Bắc, những người ủng hộ rung rinh cờ bạc dưới ánh sáng sân khấu](/article-images/people/tsai-2016-campaign.webp)
-_2015 tháng 10, địa điểm kích cổ hữu của chiến dịch chọn Tổng thống. Nguồn: MiNe (sfmine79), [CC BY 2.0 qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg).\_
+![Buổi dạ tiệc vận động tranh cử của Thái Anh Văn tại Đài Bắc tháng 10 năm 2015, những người ủng hộ vẫy cờ dưới ánh đèn sân khấu](/article-images/people/tsai-2016-campaign.webp)
+_Tại sự kiện vận động tranh cử của Thái Anh Văn vào tháng 10 năm 2015. Ảnh: MiNe (sfmine79), [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg).\_
 
-## Một trong tám trẻ em, người luôn gối đầu xuống
+## Người duy nhất trong số mười một đứa trẻ cúi đầu khi đi bộ
 
-Thái Anh Văn sinh năm 1956 tại Thái Bắc, là trẻ nhất trong gia đình có tám con của cha cô Thái Ji Sheng. Gia đình cô có dòng máu khách Hương, Nam Nhi và Hoa Wi. Về dòng máu Hoa Wi, nguồn gốc từ bà ngoại hoặc cụ ngoại không rõ ràng, do các nguồn công khai trùng lặp nhau, nên không nên giả định một thế hệ chính xác.[^3]
+Thái Anh Văn sinh năm 1956 tại Đài Bắc, là người con út trong gia đình lớn của cha bà, Thái Kiệt Sinh (Tsai Chieh-sheng), với mười một người con. Gia đình bà có nguồn gốc từ các tộc người Khách Gia, Mẫn Nam và Pa Wai (Paiwan). Về dòng máu Pa Wai, thông tin công khai còn có sự khác biệt giữa bà ngoại hoặc bà cố, do đó không nên bổ sung một thế hệ chính xác cho bà.[^3]
 
-Sau khi tốt nghiệp chuyên ngành luật tại Đại học Đài Loan năm 1978, cô nhận bằng luật tại Đại học Kalon (Cambridge), năm 1984, cô thụ lý bằng tiến sĩ luật tại Đại học London. Từ năm 2019, bằng tiến sĩ đã trở thành điểm nóng trong các vụ kiện doán. Các trường đại học ở London xác nhận hồ sơ học vị, trong khi tòa án Đài Loan cũng đã công nhận bằng tiến sĩ của cô trong các vụ kiện liên quan.[^4]
+Sau khi tốt nghiệp khoa Luật tại Đại học Đài Loan vào năm 1978, bà lấy bằng Thạc sĩ Luật tại Đại học Cornell và tiến sĩ Luật tại Đại học London vào năm 1984. Từ năm 2019, bằng tiến sĩ trở thành tâm điểm tấn công chính trị. Học viện Chính trị Kinh tế Luân Đôn và Đại học London lần lượt xác nhận hồ sơ bằng cấp, và tòa án Đài Loan cũng đã công nhận bà có bằng tiến sĩ trong các vụ kiện liên quan.[^4]
 
-Sau khi về đây, cô giảng dạy luật thương quốc tế tại các trường đại học, sau đó tham gia vào các thương vụ thương mại của Đài Loan khi nghiên cứu để vào Tổ chức Thương mại Thế giới (WTO). Năm 1999, cô tham gia vào các diễn văn của Li Đăng Huy về « quan hệ đặc biệt với Trung Quốc ». Năm 2000, sau khi chuyển đổi phe phái, cô giữ chức cháo án hội đồng xuất khẩo. Con đường này có một hành động nhất quán: trước tiên nghiên cứu các quy tắc, sau đó tìm vị trí mà Đài Loan có thể hành động trong ranh giới do các quốc gia lớn đặt ra.
+Sau khi về nước, bà là giáo sư luật thương mại quốc tế tại trường đại học, sau đó tham gia vào quá trình đàm phán của Đài Loan xin gia nhập GATT, rồi WTO. Năm 1999, bà tham gia thảo luận về "quan hệ đặc biệt" của Lý Đăng Huy (Lee Teng-hui). Sau sự thay đổi đảng phái năm 2000, bà giữ chức chủ nhiệm Ủy ban Liên bang. Con đường này có một hành động nhất quán: trước tiên nghiên cứu các quy tắc, sau đó tìm ra vị trí mà Đài Loan có thể hành động trong khuôn khổ được các cường quốc vạch ra.
 
-Nhà làng phim Vanessa Hope mô tả cô là người kiên nhẫn, yên tĩnh và bình tĩnh. Thái Anh Văn tự nói, cô từng không mơ ước trở thành Tổng thống, và thời thiếu niên cảm thấy sợ hãi khi giao tiếp. Gốc Lê Xương tưởng lại, cô từng ngại ngùng đến mức lùi gói đầu tránh ánh mắt người khác.[^5]
+Đạo diễn bộ phim tài liệu _Quốc gia vô hình_ (Invisible Nation), Vanessa Hope, mô tả bà là khiêm tốn, trầm lặng và điềm tĩnh. Bản thân Thái Anh Văn nói rằng bà chưa bao giờ mơ ước làm tổng thống, thậm chí khi còn trẻ bà còn sợ giao tiếp với mọi người. Cố Lập Hùng (Gu Li-xiong) hồi tưởng lại rằng trước đây bà nhút nhát đến mức cúi đầu tránh ánh mắt của người khác.[^5]
 
-Người luôn gối đầu xuống, sau này cũng phải dậm trước mặt cả quốc gia. Cô không biến mình thành một loại chính trị viên khác, mà mang theo luật, đàm phán và tính toán rủi ro đã quen thuộc vào chính trị.
+Người luôn cúi đầu né tránh ánh nhìn sau này phải đứng trước ống kính toàn quốc mỗi ngày. Bà đã không tự thay đổi thành một kiểu chính trị gia khác, mà mang kiến thức sẵn có về luật pháp, đàm phán và tính toán rủi ro vào chính trường.
 
-## Tổng thống nữ đầu tiên, nhưng hiếm khi nhắc đến « phụ nữ »
+## Nữ tổng thống đầu tiên, nhưng hiếm khi nhắc đến "giới tính"
 
-Ngày 16 tháng 1 năm 2016, Thái Anh Văn được bầu chọn làm Tổng thống nữ đầu tiên của Đài Loan. « Một con số » này không xuất phát từ hôn nhân hay thừa kế của gia đình chính trị. Cô chưa kết hôn, không có con cái, cũng không nhờ vai trò của người vợ đầu tiên hoặc họ hàng chính trị vào trung tâm quyền lực. Ngược lại với các nhà lãnh đạo nữ thường bị giải thích qua cha, chồng hoặc hệ thống gia đình, con đường này tương lai có ý nghĩa đặc biệt.
+Vào ngày 16 tháng 1 năm 2016, Thái Anh Văn trở thành nữ tổng thống đầu tiên của Đài Loan. Danh hiệu "đầu tiên" này không đạt được thông qua hôn nhân hay sự kế thừa trong một gia đình chính trị. Bà chưa kết hôn, không có con cái, và cũng không bước vào trung tâm quyền lực với vai trò phu nhân hoặc người thuộc dòng dõi quý tộc chính trị. Trong bối cảnh các nữ lãnh đạo châu Á thường bị đặt trong khuôn khổ giải thích bởi cha, chồng hoặc gia phả, con đường này tự nó đã mang tính đại diện.
 
-Tuy nhiên, cô hiếm khi nhắc đến giới tính như một trụ cột chính trị. Lời biểu diễn khi lên ngôi năm 2016 chủ yếu tập trung vào kinh tế, an toàn xã hội, công bằng chuyển đổi, quan hệ hai bờ eo biển và ngoại giao, không dùng « Tổng thống nữ » để bao bọc quyền lực của mình bằng cách hài hước. Sự kiên nhẫn này có giá: khi bên ngoài dùng giới tính tấn công, cô thường không đối đầu trực tiếp. Các báo chí chính trị Trung Quốc liên kết tình trạng chưa kết hôn và « hành vi cực đoan » sau khi cô lên nhiệm, nhiều cơ quan truyền thông quốc tế chỉ trích cách nói này có tính phân biệt giới tính.[^22]
+Tuy nhiên, bà hiếm khi lấy giới tính làm chủ đề để quảng bá bản thân. Bài phát biểu nhậm chức năm 2016 nói về kinh tế, an sinh xã hội, công bằng chuyển đổi, quan hệ hai bờ eo biển và đối ngoại, chứ không dùng danh xưng "nữ tổng thống" để tô điểm cho quyền lực của mình một cách lãng mạn. Sự kiềm chế này cũng có cái giá: khi thế giới tấn công bà bằng giới tính, bà thường không đáp trả trực tiếp. Truyền thông chính thức Trung Quốc đã liên kết tình trạng chưa kết hôn và "hành động cực đoan" của bà sau khi nhậm chức, và nhiều phương tiện truyền thông quốc tế đã chỉ trích nhận định này mang tính phân biệt giới tính.[^22]
 
-Danh xuất nữ giới vẫn xuất hiện từ chính chính sách và phong trào chính trị. Tỷ lệ nữ giới trong họp viên nội các cấp ước tôn trọng không luôn cao nhất, Đảng Dân chủ cũng không thoát khỏi cấu trúc đàn ông. Tuy nhiên, luật hôn nhân đồng tính, luật can thiệp hành vi bạo lựt và sự hiện diện của các vấn đề nữ giới đã được tiến bộ nhất trong thời gian này. Tính toàn bộ những thay đổi này thành công cá nhân của Thái Anh Văn sẽ làm mờ đi nỗ lực hàng chục năm của các tổ chức nữ quyền và các nhà lập pháp. Đồng thời, bỏ đi vai trò của cô cũng sẽ làm giảm đi sức ảnh hưởng của người tổng thống trong quyết định cuối cùng.
+Vai trò phụ nữ vẫn xuất hiện trong bối cảnh chính sách và chính trị. Tỷ lệ các thành viên nội các nữ trong nhiệm kỳ của bà chưa phải lúc nào cũng nổi bật, và Đảng Dân Tiến (DPP) cũng không thoát khỏi cấu trúc phe phái do nam giới thống trị. Tuy nhiên, luật hôn nhân đồng giới, luật phòng chống quấy rối tình dục và khả năng tham gia chính trị của phụ nữ đã thực sự có những bước tiến trong nhiệm kỳ bà. Việc quy tất cả những thay đổi này thành thành tựu cá nhân của Thái Anh Văn sẽ xóa bỏ vai trò thúc đẩy hàng thập kỷ của các tổ chức vận động nữ quyền và các nhà lập pháp. Ngược lại, việc loại bỏ hoàn toàn vai trò của bà cũng đánh giá thấp tầm quan trọng của người tổng thống trong khâu lựa chọn chữ ký chính trị cuối cùng.
 
-Hình ảnh công khai của cô thường được hai con chó mở ra một cửa sổ hơi hẹn. Thái Tưởng là con mèo rỗn rễ do cô trông giữ sau lũ lụt ở Thái Bắc năm 2012. Thái A Nhiên lại đến từ bản Pah Khai ở Đông Nam. Các bức tranh, sản phẩm chọn đấu tranh và bài đăng trên mạng xã hội trong chiến dịch khiến cho một người chính trị được mô tả là lạnh lùng có lối sống hàng ngày, đồng thời trở thành mẫu hình cho cách thiết kế tài khoản cá nhân của các nhà lãnh đạo chính trị khác trong thời đại mới.
+Hình ảnh công chúng của bà thường được hai chú mèo mở ra một cánh cửa tương đối lỏng lẻo. Thái Tưởng Tưởng (Tsai Xiangsang) là con mèo tam thể được Tiêu Mỹ Cầm (Xiao Mei-qin) cứu gần ga xe lửa Hòa Bình ở Hoa Liên sau bão Sula năm 2012. Còn Thái A Tài (Tsai Ah-tsai) đến từ làng dứa ở Đài Đông.[^23] Những chú mèo trong hình ảnh bầu cử, các sản phẩm vận động tranh cử và bài đăng trên mạng xã hội đã mang lại một lối vào đời thường cho một chính trị gia được mô tả là lạnh lùng, và cũng trở thành hình mẫu để các nhân vật chính trị Đài Loan quản lý hồ sơ truyền thông sau này.
 
-Những hình ảnh này rất gần gũi, nhưng không nên che giấu quyền lực. Thái Anh Văn là người chăm sóc hai con chó, đồng thời là người nắm quyền quản lý an ninh quốc gia, bầu chọn Tổng thống Tòa án và phong danh Tổng thống Nội các. Ghi lại người phụ nữ chỉ là « người nuôi con mèo » sẽ làm co lại cô, còn viết cô chỉ là một thiết bị chính trị không có đời sống riêng lại sai lầm. Hai hình ảnh này tồn tại cùng nhau, mới gần gũi với cô trong ký ức của người dân Đài Loan.
+Những hình ảnh này rất gần gũi, nhưng không nên che khuất quyền lực. Thái Anh Văn vừa là người chăm sóc mèo, vừa là tổng thống nắm giữ an ninh quốc gia, bổ nhiệm thẩm phán và bổ nhiệm thủ tướng. Việc chỉ mô tả nữ lãnh đạo như một "người hầu mèo" sẽ làm bà bị thu nhỏ, còn việc miêu tả bà như một cỗ máy thể chế không có đời tư cũng là sự méo mó. Chỉ khi cả hai hình ảnh cùng tồn tại thì mới gần với diện mạo mà người dân Đài Loan ghi nhớ về bà.
 
-Cô cũng phải đối mặt với một hệ thống xét xuất hình ảnh ít được các Tổng thống nam trước đây chịu đựng: tóc, trang phục, tình trạng hôn nhân thường xuyên bị biến thành tin tức chính trị. Thái Anh Văn thường không đáp trả bằng ngôn ngữ giới tính, mà giao lại cho kết quả công việc. Lựa chọn này giúp cô tránh khỏi khung nạn nhân, đồng thời có thể thiếu vắng cơ hội khen ngợi tích cực các nhà lãnh đạo nữ khác chịu hành vi xúc phạm. Sự lặng im ở trong cô vừa là phong cách, vừa là một chiến lược chính trị có giá.
+Bà cũng phải đối mặt với một loại phán xét ngoại hình ít được các tổng thống nam tiền nhiệm chịu đựng: kiểu tóc, trang phục và tình trạng hôn nhân thường bị coi là tin tức chính trị. Thái Anh Văn phần lớn không đáp trả bằng ngôn ngữ giới tính, mà giao việc phản hồi cho thành tích công việc. Lựa chọn này giúp bà tránh được khuôn khổ nạn nhân, nhưng cũng có thể bỏ lỡ cơ hội gọi tên sự phân biệt đối xử một cách trực diện cho các nữ lãnh đạo khác. Sự im lặng là phong cách của bà, và cũng là một chiến lược chính trị có cái giá phải trả.
 
-![Trong khuôn khổ phim tài liệu « không thể nhìn thấy », Thái Anh Văn đi bộ về phía trước, các nhân viên đi kèm tách ra hai bên](/article-images/art/invisible-nation-tsai-walks.webp)
-_Trong khuôn khổ phim tài liệu « không thể nhìn thấy ». Thái Anh Văn đi giữa các nhân viên hành pháp, cá tính riêng và chức vụ Tổng thống được đặt trong cùng một khung hình. Sử dụng nội dung chính trị Fair use cho Invisible Nation (2023)._
+![Thái Anh Văn bước về phía trước trong cảnh quay ngoài trời của bộ phim tài liệu *Quốc gia vô hình*, với nhân viên đi theo hai bên](/article-images/art/invisible-nation-tsai-walks.webp)
+_Ảnh chụp chính thức của *Quốc gia vô hình*. Thái Anh Văn đi giữa Viên An và các cố vấn. Tính cách cá nhân và nhiệm vụ tổng thống được đặt trong cùng một khung hình. Bình luận biên tập sử dụng hợp lý về Quốc gia Vô hình (2023)._
 
-## Hai lần chọn người kế nhiệm sau khi chính trị rơi vào đáy
+## Hai lần lãnh đạo một đảng đang ở đáy vực
 
-Năm 2008, Đảng Dân chủ thua trận tổng thống, Thái Anh Văn lần đầu giữ chức cháo án. Sau khi thua trận năm 2012, cô nghỉ chức. Năm 2014, cô trở lại giữ chức, và bốn năm sau trở thành Tổng thống nữ đầu tiên của Đài Loan.
+Năm 2008, Đảng Dân Tiến thua thảm hại trong cuộc bầu cử tổng thống, và Thái Anh Văn lần đầu tiên nhậm chức chủ tịch đảng. Bà từ chức sau thất bại năm 2012. Năm 2014, bà tái nhậm chức, và hai năm sau trở thành nữ tổng thống đầu tiên của Đài Loan.
 
-Giai đoạn đầu của nhiệm kỳ không diễn ra suôn sẻ. Năm 2018, các kết quả bầu cử địa phương cho thấy số thành phố đang thống trị của Đảng Dân chủ giảm từ mười ba xuống sáu. Cô từ bỏ chức cháo án sau khi chịu trận thua thứ hai. Vào tháng 1 năm sau, Tập Cận Bình trong bài nói ghi nhớ 40 năm ngày « Thưa các chị em ở Đài Loan » nhấn mạnh lại « hai chế độ », Thái Anh Văn ngày ấy trả lời Đài Loan sẽ không chấp nhận. Ca Sử Hợp viết bài ca « Đài Loan tinh nhuệ », cô lại nói: « Tôi không phải là người đó... Nếu Đài Loan cần, chúng tôi đều là người tinh nhuệ, đó là lúc cần thiết.»[^6]
+Nhiệm kỳ tổng thống đầu tiên không phải lúc nào cũng thăng hoa. Trong cuộc bầu cử địa phương năm 2018, số lượng các thành phố do Đảng Dân Tiến cai trị giảm từ mười ba xuống còn sáu, và bà lần thứ hai từ chức chủ tịch đảng vì thất bại. Vào tháng 1 năm sau, Tập Cận Bình (Xi Jinping) đã tái khẳng định "Một quốc gia, hai chế độ" trong bài phát biểu kỷ niệm bốn mươi năm gửi đồng bào Đài Loan, và Thái Anh Văn đã phản hồi rằng Đài Loan sẽ không chấp nhận điều đó. Ca sĩ rap Đại Chi (Da Zhi) đã viết ra "Cô gái Đài Loan nóng bỏng", còn bà thì nói: “Tôi không nên là cô gái Đài Loan nóng bỏng... Nếu Đài Loan cần, chúng tôi đều là phe nóng bỏng, thì sẽ nóng bỏng thôi.”[^6]
 
-Năm 2019, phong trào biểu tình ở Hồng Kông phản đối dự thảo luật, khiến « hai chế độ » không còn là những khái niệm trừu tượng. Thái Anh Văn đạt 57,13% phiếu trong cuộc bầu cử năm 2020, di chuyển từ thua trận trong bầu cử địa phương đến thắng trận với con số cao nhất trong lịch sử bầu cử tổng thống. Cú đảo này bao gồm cả quyết định chính trị của cô, cũng bao gồm diện tích thời điệp Hồng Kông và các tiêu chí bầu cử do ứng cử vi đảng Quốc dân Kim Hàn Quốc gây ra. Gán toàn bộ 817 nghìn phiếu cho sức hút cá nhân sẽ không thể thấy được rủi ro mà người bầu Đài Loan đang đối mặt.
+Phong trào phản đối luật sửa đổi ở Hồng Kông năm 2019 đã khiến "Một quốc gia, hai chế độ" không còn chỉ là một khái niệm trừu tượng. Thái Anh Văn giành được 57,13% phiếu bầu trong cuộc bầu cử năm 2020, từ thất bại địa phương đến kỷ lục cao nhất trong cuộc bầu cử tổng thống trực tiếp. Sự lội ngược dòng này bao gồm cả sự phán đoán chính trị của bà, cũng như các điều kiện bầu cử do tình hình Hồng Kông và ứng viên Quốc Dân Đảng Hàn Quốc Du (Han Kuo-yu) mang lại. Việc quy tất cả 8,17 triệu phiếu cho sức hút cá nhân sẽ bỏ qua cảm giác rủi ro mà cử tri Đài Loan đã đối mặt vào thời điểm đó.
 
-## Hai cuộn giấy ký, người ta vẫn đứng ở ngoài lề
+## Hai chữ ký, đều có người đứng ngoài cửa
 
-Ngày 1 tháng 8 năm 2016, Thái Anh Văn ký biểu tượng chính phủ chúc tín dụy với người nguyên thủy: «Đối với bốn trăm năm qua, những ai đã chịu đựng nỗi đau và không công bằng, tôi đại diện cho chính phủ, xin lỗi các anh em.»[^7]
+Vào ngày 1 tháng 8 năm 2016, Thái Anh Văn đại diện cho chính phủ xin lỗi người bản địa tại Phủ Tổng thống: “Thay mặt chính phủ, tôi xin lỗi các vị vì những đau khổ và sự đối xử bất công mà các vị đã phải chịu đựng trong bốn trăm năm qua.”[^7]
 
-Trong tòa nhà chính phủ có lời xin lỗi, nhưng cũng có các tổ chức người nguyên thủy từ chối nhận lời xin lỗi. Hội đồng Lịch sử và Công bằng chuyển đổi cho người nguyên thủy, được thành lập sau này, xử lý các vấn đề về lĩnh vực truyền thống, quyền dân tộc nguyên thủy và vật liệu hạt nhân tại Lan Is. Tuy nhiên, các nhu cầu cốt lõi về quyền sử dụng đất và tự quản không giảm đi kèm theo câu xin lỗi.
+Trong khi có lời xin lỗi tại Phủ Tổng thống, cũng có các nhóm người bản địa từ chối nhận lời xin lỗi bên ngoài. Ủy ban Công bằng Lịch sử và Chuyển đổi cho Người Bản Địa được thành lập sau đó để giải quyết các vấn đề về lãnh thổ truyền thống, thân phận dân tộc Pa Pǔ (Paiwan) và chất thải hạt nhân Lan Yǔ (Lanyu). Tuy nhiên, các yêu cầu cốt lõi như quyền đất đai và tự trị đã không kết thúc chỉ bằng một lời xin lỗi.
 
-Một cuộn giấy ký khác rơi vào năm 2019. Hội đồng Nội các thông qua « Luật thực thi của Giải thích số 748 của Tòa án Quốc phòng », vào ngày 24 tháng 5 năm 2020, quyền hôn nhân đồng tính được thành lập tại Đài Loan, trở thành quốc gia đầu tiên ở châu Á. Ngày đầu tiên có 526 cặp đăng ký kết hôn.[^8]
+Một chữ ký khác được thực hiện vào năm 2019. Quốc hội thông qua "Luật thi hành Quyết định số 748 của Tòa án Tối cao" vào ngày 17 tháng 5, có hiệu lực từ ngày 24 tháng 5, và Đài Loan trở thành quốc gia châu Á đầu tiên cho phép các cặp đôi đồng giới kết hôn. Ngày đầu tiên có 526 cặp đăng ký.[^8]
 
-Hệ thống này được thành lập sau khi đa số người bầu phản đối trong tranh biểu pháp bảo vệ hôn nhân đồng tính bằng luật dân sử. Các nhà hỗ trợ kỷ niệm quyền hôn nhân, đồng thời một số người chỉ trích rằng luật vẫn để lại cảm giác « khác tên, khác hệ thống » như thứ cấp. Phong cách quản lý của Thái Anh Văn thường xuất hiện ở đây: cô đưa một vấn đề rất xung đột qua cửa sổ luật, đổi lại là khiến hai phe phái đều cảm thấy cô không đi đủ xa, hoặc đi quá xa.
+Về mặt thể chế, điều này được hoàn thành dưới hình thức luật chuyên biệt sau khi đa số cử tri trong cuộc trưng cầu dân ý năm 2018 phản đối việc bảo vệ hôn nhân đồng giới bằng luật dân sự. Những người ủng hộ ăn mừng quyền kết hôn đã được thực thi, nhưng cũng có người chỉ trích rằng luật chuyên biệt vẫn để lại cảm giác thứ cấp về "tên gọi khác, thể chế khác". Phong cách quản trị của Thái Anh Văn thường bộc lộ ở đây: bà đẩy một vấn đề xung đột cao qua ngưỡng pháp lý, với cái giá là khiến các phe phái khác nhau đều cảm thấy bà đã đi chưa đủ xa, hoặc quá xa.
 
-## Bảo hiểm xã hội, công bằng chuyển đổi và một điểm số không công bằng
+## Lương hưu, công bằng chuyển đổi và một bảng điểm không đồng đều
 
-Chính phủ của Thái đã hoàn thành các cải cách bảo hiểm xã hội cho cán bộ công và quân nhân. Các quy định liên quan đến cán bộ công và giáo viên trong trường công cộng đã được hoàn thành ba lần trong năm 2017 tháng 6, trong khi cải cách bảo hiểm xã hội cho quân nhân được thông qua vào năm 2018. Các cải cách này giảm tỷ lệ thay thế thu nhập phần lớn, đồng thời gây ra phản đống lâu dài từ các tổ chức ngư ô lão 800 người.[^9]
+Trong nhiệm kỳ của chính quyền Thái Anh Văn, việc cải cách lương hưu cho công chức và quân nhân đã được hoàn thành. Các luật liên quan đến công chức và giảng viên trường công lập được thông qua đọc ba lần vào tháng 6 năm 2017, và cải cách lương hưu quân đội được thông qua vào năm 2018. Việc cải cách này làm giảm tỷ lệ thay thế thu nhập của một số người, cũng gây ra sự phản đối lâu dài từ các nhóm công chức và quân nhân như "Tám trăm chiến binh".[^9]
 
-Năm 2017, quy định về công bằng chuyển đổi được thông qua, và năm sau đó, Hội đồng Công bằng chuyển đổi được thành lập. Văn phòng Thái đã thông báo vào năm 2022 rằng các nhiệm vụ của hội đồng sẽ được chuyển giao cho các bộ ngành khác nhau để tiếp tục. Từ chữ « chuyển giao » cũng cho thấy hạn chế: quốc gia bắt đầu thiết lập các quy chế, nhưng không hoàn thành tất cả các công việc làm sạch lịch sử trong một kỳ chính phủ.
+Vào năm 2017, "Luật thúc đẩy công bằng chuyển đổi" đã được thông qua, và Ủy ban Thúc đẩy Công bằng Chuyển đổi được thành lập vào năm sau. Chính quyền trung ương cho biết vào cuối nhiệm kỳ của Ủy ban này năm 2022 rằng việc mở hồ sơ chính trị, xử lý các biểu tượng độc tài và bảo tồn các di tích bất công sẽ do các bộ ngành tiếp tục.[^10] Từ "tiếp nối" cũng thể hiện một giới hạn: quốc gia bắt đầu xây dựng thể chế, nhưng không hoàn thành tất cả quá trình thanh lọc lịch sử trong một nhiệm kỳ.
 
-![Buổi chào mừng sinh nhật 100 tuổi của Shih Ming tại năm 2017, Thái Anh Văn đứng bên cạnh người từng hoạt động độc lập chống nhà Nhật Bản lưu đày](/article-images/people/su-beng-100th-birthday-tsai-2017.webp)
-_2017, Thái Anh Văn tham dự buổi chào mừng sinh nhật 100 tuổi của Shih Ming. Hai người cùng khung hình cũng phản ánh mối quan hệ giữa chính trị Đảng Dân chủ và các hoạt động độc lập ngoài Đảng qua các thế hệ. Nguồn: Tòa nhà Tổng thống Cộng hòa Nhân dân Đài Loan, CC BY 2.0. Liên kết tệ tin gốc được liệt kê ở cuối trang hình ảnh._
+![Thái Anh Văn đứng bên cạnh Sư Minh (Shi Ming) tại buổi tiệc sinh nhật lần thứ 100](/article-images/people/su-beng-100th-birthday-tsai-2017.webp)
+_Tại buổi tiệc sinh nhật lần thứ 100 của Sư Minh vào năm 2017. Cả hai cùng xuất hiện thể hiện mối quan hệ vừa gần gũi, vừa có khoảng cách giữa sự cai trị của Đảng Dân Tiến và thế hệ vận động độc lập ngoài đảng. Ảnh: Phủ Tổng thống Trung Hoa Dân Quốc, CC BY 2.0. Liên kết tệp gốc được liệt kê trong nguồn hình ảnh cuối bài._
 
-![Thái Anh Văn tại lễ khai trương Bảo hộ Lãnh thổ Quốc tế tại năm 2018, cùng các nhà phản kháng chính trị và đại diện chính phủ cùng kéo rèm màu đỏ](/article-images/history/nhrm-tsai-unveil-2018.webp)
-_17 tháng 5 năm 2018, lễ khai trương Bảo hộ Lãnh thổ Quốc tế. Nguồn: Tòa nhà Tổng thống Cộng hòa Nhân dân Đài Loan, CC BY 2.0. Liên kết tệ tin gốc được liệt kê ở cuối trang hình ảnh._
+![Thái Anh Văn cùng các nạn nhân chính trị và đại diện chính phủ kéo băng rôn đỏ tại lễ khánh thành Bảo tàng Nhân quyền Quốc gia vào năm 2018](/article-images/history/nhrm-tsai-unveil-2018.webp)
+_Ngày 17 tháng 5 năm 2018, Bảo tàng Nhân quyền Quốc gia được khánh thành. Ảnh: Phủ Tổng thống Trung Hoa Dân Quốc, CC BY 2.0. Liên kết tệp gốc được liệt kê trong nguồn hình ảnh cuối bài._
 
-Điểm số khi rời tòa nhà tổng thống không phải là một lời khen ngợi hoàn hảo. Khảo sát của Cơ quan Tìm hiểu Ý kiến Người dân Đài Loan vào tháng 4 năm 2024 cho Thái Anh Văn tổng hợp bảy mươi phần trăm trong tám năm làm tổng thống. Các chủ đề được đánh giá cao là quân sự, vi phạm tài sản chính trị và cải cách bảo hiểm xã hội, trong khi các vấn đề về tòa án, kinh tế và quan hệ hai bờ eo biển lại gây tranh cãi.[^11] Nhà ở, chuyển đổi năng lượng, cải cách tòa án và chính sách lao động đều là những phần mà cả hỗ trợ và phản đối đều có quan điểm khác nhau.
+Khảo sát dư luận trước khi rời nhiệm sở cũng không phải là một bản thánh ca đơn phương. Khảo sát của Quỹ Ý kiến Công chúng Đài Loan vào tháng 4 năm 2024 đã đưa ra tổng đánh giá khoảng sáu mươi điểm cho tám năm lãnh đạo của Thái Anh Văn. Các đánh giá về quốc phòng, tài sản đảng phái không đúng và cải cách lương hưu là cao; nhưng sự bất mãn đối với tư pháp, kinh tế và quan hệ hai bờ eo biển lại nổi bật hơn.[^11] Gánh nặng nhà ở, chuyển đổi năng lượng, cải cách tư pháp và chính sách lao động đều là những phần mà ngay cả người ủng hộ cũng chưa hoàn toàn hài lòng.
 
-> **📝 Ghi chú của người xây dựng nội dung**
+> **📝 Ghi chú của Người biên tập**
 >
-> « Yên tĩnh » không phải là lời khen ngợi cho các chính sách. Nó thực sự cung cấp một góc nhìn khác biệt: cách một nhà lãnh đạo chính trị biến các xung đột thành luật, hội đồng và quy trình hành chính; các quy chế có thể được giữ lại, nhưng cũng sẽ để lại những chỗ chưa hoàn thành.
+> "Sự im lặng" không thể bào chữa cho sự thành bại của chính sách. Góc nhìn thực sự nó cung cấp là cách một nhân vật chính trị biến xung đột thành các điều khoản pháp lý, ủy ban và quy trình hành chính; thể chế có thể được để lại, nhưng nó cũng sẽ giữ lại những gì chưa hoàn thành.
 
-Dưới làn sóng của tám năm, Thái Anh Văn cũng trải qua đà tăng tốc của vị thế công nghiệp của Đài Loan. Cạnh tranh công nghệ giữa Mỹ và Trung Quốc, cùng với biến động chuỗi cung ứng do đại dịch gây ra, đã khiến Tập đoan và các công ty bán dẫn của Đài Loan được các quốc gia đánh giá lại. Chính phủ đưa ra « ba giải pháp đầu tư vào Đài Loan », đồng thời nhận lại một phần nào đó của các công ty Trung Quốc trở về sau chiến tranh thương mại giữa Mỹ và Trung Quốc. Tỷ lệ tăng trưởng kinh tế của Đài Loan đạt 6,62% năm 2021, và GDP trên mỗi người dân đạt 33.983 USD năm 2024.[^13][^19]
+## Nhà ở và năng lượng không hề yên tĩnh dưới sự thịnh vượng của chip bán dẫn
 
-Sự thịnh vượng tổng tính không phân bố đều đặn cho từng gia đình. Ngân hàng trung ương sửa đổi ba lần chính sách tín dụng chọn lọc, Nội các triển khai vay mượn cho thanh niên mới ra trường, tỷ lệ giá nhà trên thu nhập vẫn khiến giới trẻ cảm thấy lương thực không đủ để mua nhà. Chính phủ đã công bố mục tiêu xây dựng 200.000 gia đình nhà ở xã hội trong tám năm, sau đó gộp lại các phương pháp xây dựng trực tiếp, cho thuê tại sở hữu và hỗ trợ tiền thuê. Cách chuyển đổi này cũng trở thành điểm tranh cãi của đối phản trong chính trị vì chính sách không đạt được mục tiêu ban đầu.[^20]
+Tám năm của Thái Anh Văn cũng là giai đoạn vị thế công nghiệp Đài Loan tăng nhanh. Cạnh tranh công nghệ Mỹ-Trung và sự gián đoạn chuỗi cung ứng do dịch bệnh đã khiến tầm quan trọng của TSMC (Taiwan Semiconductor Manufacturing Company) và ngành bán dẫn Đài Loan được các quốc gia đánh giá lại. Chính phủ thúc đẩy "Ba giải pháp đầu tư vào Đài Loan", và tiếp nhận một phần doanh nghiệp Đài Loan hồi hương sau chiến tranh thương mại Mỹ-Trung. Tốc độ tăng trưởng kinh tế Đài Loan đạt 6,62% vào năm 2021, và GDP bình quân đầu người vào năm 2024 là 33.983 USD.[^13][^19]
 
-Chi phí chính sách năng lượng cũng không thể được giấu trong một con số duy nhất. Chính phủ đặt mục tiêu « không nhân điện tại nhà » vào năm 2025, mở rộng điện gió ngoài khơi và năng lượng mặt trời, nhưng đã trải qua ba lần tai nạn điện mất trong năm 2017, 2021 và 2022. Các nhà hỗ trợ xem đầu tư vào năng lượng tái tạo là một quá trình chuyển đổi lâu dài, trong khi người phản đối liên kết sự cố cung cấp điện, giá điện và thua lỗ của công ty điện lực với lối mòn không nhân điện. Các nguyên nhân tai nạn khác nhau, không chính xác để gán nguyên nhân cho tất cả các sự cố do cấu trúc năng lượng. Tuy nhiên, khi chính phủ yêu cầu cả doanh nghiệp và gia đình tin tưởng vào một quá trình chuyển đổi lâu dài, việc cung cấp điện ổn định tự nhiên trở thành vấn đề chính trị trực tiếp nhất.[^21]
+Sự thịnh vượng chung không được phân bổ đồng đều cho mọi gia đình. Ngân hàng Trung ương đã điều chỉnh năm lần kiểm soát tín dụng chọn lọc, và chính quyền trung ương đã đưa ra khoản vay Tân Thanh An (Xinqingan), nhưng tỷ lệ thu nhập trên giá nhà vẫn khiến giới trẻ cảm thấy lương không theo kịp nhà ở. Chính phủ tuyên bố mục tiêu 200.000 hộ nhà ở xã hội trong "tám năm" vào năm 2017, và sau này đã tính toán gộp việc xây dựng trực tiếp, cho thuê ủy thác và trợ cấp tiền thuê nhà. Sự thay đổi về cách diễn đạt này cũng trở thành điểm mà phe đối lập chỉ trích chính sách chưa đáp ứng lời hứa ban đầu.[^20]
 
-Thái Anh Văn thường mô tả khả năng hợp tác của chính phủ với các doanh nghiệp như « đội quốc gia ». Bao gồm khẩu phần, bán dẫn, quân sự và năng lượng xanh. « Đội quốc gia » có thể tập trung tài nguyên, nhưng cũng khiến chính phủ khó thể xem lại thất bại do thị trường: giá nhà không giảm, hệ thống điện lỗi, các khoản trợ cấp doanh nghiệp không công bằng khiến người bầu vẫn quay lại tìm kiếm người đứng đầu đội.
+Cái giá của chính sách năng lượng cũng không thể gói gọn trong một con số duy nhất. Chính quyền Thái Anh Văn định hướng theo "Không hạt nhân vào năm 2025", mở rộng điện gió ngoài khơi và quang điện, nhưng đã trải qua các vụ mất điện quy mô lớn vào năm 2017, 2021 và 2022. Người ủng hộ coi đầu tư năng lượng tái tạo là sự chuyển đổi dài hạn, còn người phản đối lại liên kết tai nạn cung cấp điện, giá điện và thua lỗ của Taipower với lộ trình không hạt nhân. Nguyên nhân mất điện khác nhau, việc quy tất cả các sự cố cho cấu trúc năng lượng là không chính xác; nhưng khi chính phủ yêu cầu ngành công nghiệp và gia đình tin vào một quá trình chuyển đổi dài hạn, việc cung cấp điện ổn định tự nhiên trở thành bài toán chính trị trực tiếp nhất.[^21]
 
-## Sau khi « đội quốc gia » miệng hộ, lời khen ngợi biến thành châm biếm
+Thái Anh Văn thường mô tả khả năng phối hợp của chính phủ với cụm từ "đội quốc gia". Mặt nạ, chip bán dẫn, quốc phòng và năng lượng xanh đều đã được đặt trong khuôn khổ này. Đội quốc gia có thể tập trung nguồn lực, nhưng cũng khiến chính phủ khó đổ lỗi cho thị trường hơn: khi giá nhà không giảm, lưới điện gặp sự cố, phân bổ trợ cấp công nghiệp không đồng đều, cử tri vẫn quay lại tìm vị đội trưởng đó.
 
-Ban đầu đại dịch COVID-19, Đài Loan đã khởi động sớm các biện pháp kiểm soát biên giới, thu mặt nạ và áp dụng hệ thống xác thực cá nhân, đồng thời tập hợp thông tin qua trung tâm điều khiển dịch bệnh của chính phủ. Các trường hợp nhiễm bệnh thấp vào năm 2020, kéo dài lâu không có nhiễm bệnh lan truyền tại địa phương, khiến « mô hình Đài Loan » được quan tâm quốc tế.[^12]
+## Sau "Đội Quốc Gia Mặt Nạ", lời khen trở thành châm biếm
 
-Sau đại dịch tăng cao vào tháng 5 năm 2021, các vấn đề về việc tiêm phòng, khả năng xét nghiệm và điều chỉnh lại quy trình đã tích lũy nhanh chóng. « Triển khai sớm » từng là lời khen ngợi, giờ đây trở thành châm biếm. Tăng trưởng kinh tế của Đài Loan đạt 6,62% năm 2021, nhưng con số tổng thể không thể bù đắp bằng kinh nghiệm cá nhân của các gia đình trong việc nhiễm bệnh, gián đoạn kinh doanh và áp lực chăm sóc sức khỏe.[^13]
+Vào đầu đại dịch COVID-19, Đài Loan đã sớm triển khai kiểm dịch biên giới, trưng dụng mặt nạ và hệ thống đăng ký tên thật, đồng thời tích hợp thông tin tại Trung tâm Chỉ huy Phòng chống Dịch bệnh Trung ương. Tỷ lệ ca nhiễm thấp và không có lây nhiễm trong nước kéo dài vào năm 2020 đã thu hút sự chú ý quốc tế đối với "Mô hình Đài Loan".[^12]
 
-Đoạn thời gian này nhất định nhắc nhớ người đọc, kết quả phòng ngừa không chỉ dựa vào năm 2020, cũng không chỉ dựa vào năm 2021. Các quyết định ban đầu thực sự đã giành được thời gian, trong khi các khoảng trống sau đó cũng khiến chính phủ phải trả giá bằng chi phí mất niềm tin.
+Sau khi tỷ lệ ca nhiễm trong nước tăng cao vào tháng 5 năm 2021, các tranh cãi về việc mua vắc xin, số lượng xét nghiệm và quy trình hiệu chỉnh nhanh chóng tích tụ. "Triển khai vượt mức" đã biến từ lời khen thành sự mỉa mai. Tốc độ tăng trưởng kinh tế của Đài Loan vào năm 2021 cuối cùng đạt 6,62%, nhưng con số tổng thể không thể bù đắp cho những trải nghiệm cá nhân của các gia đình trong áp lực xét nghiệm dương tính, đóng cửa và chăm sóc.[^13]
 
-![Trong khuôn khổ phim tài liệu « không thể nhìn thấy », Thái Anh Văn đi bộ về phía trước, các nhân viên đi kèm tách ra hai bên](/article-images/art/invisible-nation-tsai-prays.webp)
-_Trong khuôn khổ phim tài liệu « không thể nhìn thấy ». Thái Anh Văn đi giữa các nhân viên hành pháp, cá tính riêng và chức vụ Tổng thống được đặt trong cùng một khung hình. Sử dụng nội dung chính trị Fair use cho Invisible Nation (2023)._
+Phần này nhắc nhở người đọc rằng thành tích phòng chống dịch bệnh không thể chỉ cắt từ năm 2020, cũng không thể chỉ cắt từ năm 2021. Các quyết định ban đầu đã giành được thời gian, và sự thiếu sót sau đó cũng thực sự khiến chính phủ phải trả giá bằng lòng tin.
 
-## Chuẩn bị cho ngày xấu nhất, dù giữ được hiện trạng
+![Thái Anh Văn cúi đầu, hai tay chắp lại trong ảnh chụp chính thức của *Quốc gia vô hình*, nhiếp ảnh gia phía sau giơ máy ảnh](/article-images/art/invisible-nation-tsai-prays.webp)
+_Ảnh chụp chính thức của *Quốc gia vô hình*. Máy quay của Cát Tĩnh Văn thường quay thấy một chiếc máy ảnh khác cũng đang hướng về Thái Anh Văn. Bình luận biên tập sử dụng hợp lý về Quốc gia Vô hình (2023)._
 
-Thái Anh Văn không chấp nhận « Hai con số chung » và không tuyên bố luật pháp độc lập. Cô mô tả lối đi là giữ hiện trạng, đồng thời tăng ngân sách quân sự, đẩy mạnh sản xuất máy bay thương mại và tàu ngầm, và vào năm 2022, cô công bố sẽ khôi phục diện vụ dân sĩ về một năm, vào năm 2024 bắt đầu thực thi.[^14]
+## Duy trì hiện trạng, và cũng phải chuẩn bị cho ngày tồi tệ nhất
 
-Vào tháng 8 năm 2022, sau khi Phát biểu của Bộ trưởng Thế giới Mỹ Nancy Pelosi đến Đài Loan, Trung Quốc tổ chức các cuộc tập trận quân sự ở vùng biên giới. Cơ quan quốc phòng của Đài Loan thống kê bắn lên 11 quả tên lửa đạn tuyến nổi của dòng máy phòng thủ. Cơ quan quốc phòng Nhật Bản phân biệt 9 quả, trong đó 5 quả rơi vào khu vực kinh tế chuyên dụng của Nhật Bản. Hai cách diễn giải khác nhau không cho phép ghép số 11, 9 và 5 thành một công thức duy nhất.[^15] Cùng năm, các máy bay quân sự của Nhà nước Giải phóng vượt qua đường trung tâm biển Đài Loan 564 lần, gấp 24 lần tổng số các lần di chuyển trước khi Pelosi đến.
+Thái Anh Văn không chấp nhận "sự đồng thuận năm 1992", cũng không tuyên bố độc lập pháp lý. Bà mô tả con đường của mình là duy trì hiện trạng, đồng thời tăng ngân sách quốc phòng, thúc đẩy sản xuất vũ khí và tàu ngầm trong nước, và vào năm 2022 đã công bố khôi phục nghĩa vụ quân sự thành một năm, bắt đầu thực hiện từ năm 2024.[^14]
 
-Lối đi hai bờ eo biển của Thái Anh Văn bị các bên phản biện. Đảng Quốc dân cho rằng từ chối « Hai con số chung » khiến giao tiếp chính phủ ngưng hoạt động, làm tăng mức độ thù địch; các phản biện địa phương lại cho rằng « Cộng hòa Nhân dân Đài Loan » và giữ hiện trạng kéo dài vấn đề chủ quyền. Cô chọn không gian hẹp hòi: không đặt tên hiện trạng thành điểm dừng cuối cùng, cũng không để áp lực quyết định điểm dừng cuối cùng cho Đài Loan.
+Vào tháng 8 năm 2022, sau chuyến thăm Đài Loan của Chủ tịch Hạ viện Hoa Kỳ Pelosi, Trung Quốc đã tiến hành diễn tập quân sự xung quanh Đài Loan. Bộ Quốc phòng Đài Loan thống kê phóng mười một tên lửa đạn đạo dòng Đông Phong; Bộ Quốc phòng Nhật Bản xác định chín tên, trong đó năm tên rơi vào vùng đặc quyền kinh tế của Nhật Bản. Hai cách nói chính thức khác nhau, không thể ghép 11, 9 và 5 thành một phương trình.[^15] Cùng năm, máy bay quân sự của Quân Giải phóng Nhân dân Trung Quốc đã vượt qua đường trung tuyến eo biển Đài Loan 564 lần, gấp hai mươi bốn lần tổng số các năm trước chuyến thăm của Pelosi.[^16]
 
-Trong tám năm, số quốc gia có quan hệ chính thức với Đài Loan giảm từ 22 xuống 12; trong khi đó, các quan hệ không chính thức với Mỹ, Nhật Bản và các quốc gia châu Âu được tăng cường. Hai bản đồ thực tế này phải được đưa ra cùng nhau, mới thấy được hình dáng thực sự của ngoại giao của Đài Loan.
+Con đường quan hệ hai bờ eo biển của bà bị chỉ trích từ cả hai phía. Quốc Dân Đảng cho rằng việc từ chối sự đồng thuận năm 1992 đã làm gián đoạn giao tiếp chính thức và làm gia tăng thù địch; những người phê bình phe bản địa lại cho rằng "Đài Loan Trung Hoa Dân Quốc" và duy trì hiện trạng đã trì hoãn vấn đề chủ quyền. Không gian mà bà lựa chọn rất hẹp: không định nghĩa hiện trạng là điểm kết thúc, cũng không để áp lực quyết định điểm kết thúc thay Đài Loan.
 
-## Hai mươi hai quốc gia rời đi, và một mạng lưới không chính thức ngày càng lớn mạnh
+Trong tám năm, số quốc gia có quan hệ ngoại giao của Đài Loan giảm từ hai mươi hai xuống còn mười hai; mặt khác, mối quan hệ phi chính thức với Hoa Kỳ, Nhật Bản và các nước châu Âu đã được tăng cường.[^17] Hai tập sự kiện này phải được đặt trên bàn cùng lúc mới nhìn thấy hình dáng thực tế của ngoại giao Đài Loan.
 
-Khi Thái Anh Văn lên nhiệm, Đài Loan có 22 quốc gia có quan hệ chính thức. Saint Lucia rời đi vào cuối năm 2016; tiếp theo là Panama, Dominican Republic, Burkina Faso, El Salvador, Solomon Islands, Kiribati, Nicaragua và Honduras, và cuối cùng là niên niệm Niue vào tháng 1 năm 2024. Trước khi rời cảnh tòa nhà, chỉ còn lại 12 quốc gia. Đây là một thất bại ngoại giao rõ ràng, đồng thời phản ánh chiến lược lâu dài của Trung Quốc dùng thị trường, khoản vay và áp lực chính trị để thu hẹp không gian chính thức của Đài Loan.[^17]
+## Mất ngoại giao với mười quốc gia, và một mạng lưới phi chính thức ngày càng lớn hơn
 
-Một bản đồ khác lại mở rộng theo hướng ngược lại. Luật du lịch và bảo đảm của quốc hội Mỹ được thông qua, các quan chức Mỹ và Nhật Bản trao đổi cấp độ được nâng lên; các quốc gia như Czech Republic, Lithuania và Ba Lan, cả quốc hội và các bộ chính quyền, cũng công khai thảo luận về an ninh Biển Đông và hợp tác với Đài Loan. Lượt thăm của Pelosi vào Đài Loan năm 2022 là một dấu ấn của sự tăng trưởng, đồng thời trực tiếp kích động các cuộc tập trận quân sự quy mô lớn của Trung Quốc. Các quan hệ không chính thức mang lại khả năng tiếp cận và hợp tác an toàn, đồng thời tăng nguy cơ phản ứng của Bắc Kinh.
+Khi Thái Anh Văn nhậm chức, Đài Loan có hai mươi hai quốc gia có quan hệ ngoại giao. Saint Thomas Príncipe đã cắt đứt quan hệ vào cuối năm 2016; tiếp theo là Panama, Dominica, Guinea-Bissau, Salvador, quần đảo Solomon, Gibraltai, Nicaragua và Honduras, và cuối cùng là Nauru vào tháng 1 năm 2024. Trước khi rời nhiệm sở chỉ còn lại mười hai quốc gia. Đây là một thất bại ngoại giao rõ ràng, cũng phản ánh chiến lược lâu dài của Trung Quốc trong việc sử dụng áp lực thị trường, cho vay và chính trị để thu hẹp không gian công nhận chính thức của Đài Loan.[^17]
 
-Do đó, « ít quốc gia hơn » và « nhiều hỗ trợ quốc tế hơn » đều là sự thật, nhưng chúng đo lường bằng cách khác nhau. Nhóm đầu tiên tính số lượng quốc gia công nhận Cộng hòa Nhân dân Đài Loan, nhóm thứ hai mô tả các kết nối thực sự không có quan hệ chính thức. Chính phủ của Thái Anh Văn chọn đầu tư vào nhóm thứ hai; lựa chọn này giúp tăng độ nhận diện của Đài Loan trong các quốc gia dân chủ, nhưng không ngăn chặn việc mất đi các quốc gia có quan hệ chính thức tiếp tục. Người đọc cần đánh giá nó dựa trên quan điểm của họ về ngoại giao: danh xuất, hợp tác thực sự, hoặc cả hai đều cần thiết.
+Nhưng một bản đồ khác lại mở rộng theo hướng ngược lại. Quốc hội Hoa Kỳ đã thông qua "Đạo luật Du lịch Đài Loan" và "Đạo luật Bảo đảm Đài Loan", nâng cao cấp độ tương tác giữa quan chức Đài Loan và Mỹ; các quốc gia như Nhật Bản, Séc, Latvia cũng công khai thảo luận về an ninh eo biển Đài Loan và hợp tác với Đài Loan. Chuyến thăm của Pelosi vào năm 2022 vừa là biểu tượng của mối quan hệ được nâng cao, vừa trực tiếp dẫn đến diễn tập quân sự quy mô lớn của Trung Quốc. Mối quan hệ phi chính thức mang lại khả năng hiển thị và hợp tác an ninh, đồng thời làm tăng rủi ro bị Bắc Kinh phản ứng.
 
-## Khi rời cảnh tòa nhà, vẫn cần kiểm tra quy tắc trước khi tiếp cận
+Do đó, "số lượng quốc gia có quan hệ ngoại giao giảm" và "sự ủng hộ quốc tế tăng lên" đều là sự thật, nhưng chúng đo lường những thứ khác nhau. Cái trước tính số quốc gia công nhận Trung Hoa Dân Quốc, cái sau mô tả mối liên kết thực chất không chính thức. Chính quyền Thái Anh Văn chọn đặt nguồn lực hữu hạn vào cái sau; lựa chọn này nâng cao mức độ hiển thị của Đài Loan với các nước dân chủ, nhưng cũng không ngăn chặn sự mất mát quan hệ ngoại giao chính thức tiếp tục diễn ra. Người đọc đánh giá nó như thế nào phụ thuộc vào việc họ cho rằng cốt lõi của ngoại giao là danh nghĩa, hợp tác thực chất, hay cả hai đều không thể bỏ qua.
 
-Ngày 20 tháng 5 năm 2024, Thái Anh Văn giao quyền tổng thống cho Lai Chính Đức. Đảng Dân chủ liên tục chiến thắng ba cuộc bầu cử tổng thống, là lịch sử đầu tiên xuất hiện trong bầu cử tổng thống sau khi thiết lập hệ thống bầu trực tiếp.
+## Sau khi rời nhiệm sở, vẫn xem quy tắc rồi mới bước vào
 
-Cùng tháng 10, cô tham dự thăm qua Cộng hòa Síp, Pháp và Bỉ, và tham dự buổi tiệc rượu vang tại hội đồng thành viên của Liên hợp châu Âu. Đây là lần đầu tiên một tổng thống rời đi tham dự tại trụ sở chính trị của Liên minh châu Âu, nhưng không phải là một bài diễn văn chính thức tại Quốc hội châu Âu; hành trình đến Anh cũng không được thực hiện. [^18]
+Vào ngày 20 tháng 5 năm 2024, Thái Anh Văn trao chức tổng thống cho Lại Thanh Đức (Lai Ching-te). Đảng Dân Tiến liên tiếp giành ba nhiệm kỳ tổng thống, là một kỷ lục của đảng kể từ khi có bầu cử trực tiếp.
 
-Từ bàn đàm phán WTO đến một phòng họp tại trung tâm châu Âu, cô vẫn đang làm việc tương tự: trước tiên xem xét các quy tắc cho phép đến đâu, sau đó đưa Đài Loan đến ranh giới đó.
+Vào tháng 10 cùng năm, bà với tư cách cựu tổng thống đã đến thăm Séc, Pháp và Bỉ, và tham dự buổi tiệc salon tại tòa nhà Nghị viện Châu Âu. Bà là nữ tổng thống Đài Loan đầu tiên bước vào trụ sở Liên minh Châu Âu, nhưng đây không phải là một bài phát biểu chính thức của Nghị viện châu Âu; chuyến đi định sang Anh cũng đã không thành công.[^18]
 
-Câu chuyện cuối cùng quay lại đêm thua trận năm 2012. Câu nói « đừng từ bỏ » đã qua tám năm trong nhiệm kỳ tổng thống, không còn chỉ là lời an ủi. Các vấn đề về đất đai nguyên thủy, cải cách tòa án, nhà ở, năng lượng và rủi ro biển đảo không được giải quyết; trong khi đó, luật hôn nhân đồng tính, hệ thống bảo hiểm xã hội và các điều chỉnh quân sự đã trở thành hiện thực mà tương lai phải tiếp tục.
+Từ bàn đàm phán WTO đến phòng họp tại Nghị viện Châu Âu, bà vẫn đang làm những việc tương tự: xem quy tắc cho phép đi được đến đâu, rồi đưa Đài Loan đến biên giới đó.
 
-Khi rời tòa nhà tổng thống, 817 nghìn phiếu đã trở thành một con số lịch sử. Còn lại là một bằng chứng khác một cách yên tĩnh hơn: các nhà lãnh đạo chính trị có thể không cần nâng cao âm thanh để để lại các quy chế, và các quy chế sẽ giữ lại chính xác những việc đã hoàn thành và chưa hoàn thành của cô.
+Câu chuyện kết thúc trở lại bục thất bại năm 2012. Lời nói "đừng bỏ cuộc" sau tám năm nhiệm kỳ tổng thống không chỉ là một lời an ủi. Vấn đề đất đai người bản địa, cải cách tư pháp, giá nhà, năng lượng và rủi ro eo biển Đài Loan vẫn chưa được bà giải quyết; còn luật hôn nhân đồng giới, hệ thống lương hưu và điều chỉnh quốc phòng đã trở thành thực tế mà chính quyền kế nhiệm phải tiếp nối hoặc phản hồi.
+
+Khi bà rời Phủ Tổng thống, 8,17 triệu phiếu bầu đã trở thành một con số lịch sử. Thứ được để lại là một bằng chứng yên tĩnh hơn: nhân vật chính trị có thể không cần tăng âm lượng để để lại thể chế, và thể chế sẽ trung thực lưu giữ những gì họ đã hoàn thành, cũng như những gì họ chưa hoàn thành.
 
 **Đọc thêm**:
 
-- [Không thể nhìn thấy](../Art/看不見的國家.md) — Phim tài liệu do Gregory đặt bạn ghi lại bảy năm sống của Thái Anh Văn, từ góc nhìn bên ngoài quan sát tính cách và chính trị đa dạng của Đài Loan.
-- [Hôn nhân đồng tính và quyền giới tính tại Đài Loan](../Society/台灣同婚與性別平權.md) — Từ giải thích số 748, tranh biểu đến khi luật thành lập quy trình đầy đủ.
-- [Lịch sử và phong trào đổi mới danh tính nguyên thủy tại Đài Loan](../History/台灣原住民族歷史與正名運動.md) — Các phản kháng trước khi xin lỗi, và vẫn chưa giải quyết các vấn đề về quyền sử dụng đất và danh tính sau khi xin lỗi.
-- [Ma Ngọc Khải](馬英九.md) — Người thắng Thái Anh Văn, và người giao quyền cho cô năm 2016.
-- [Lai Chính Đức](賴清德.md) — Phó tổng thống và người kế nhiệm của Thái Anh Văn.
+- [Quốc gia vô hình](/vi/art/invisible-nation) — Bộ phim tài liệu ghi lại bảy năm của Thái Anh Văn qua ống kính sát sao của Cát Tĩnh Văn, quan sát tính cách bà và nền dân chủ Đài Loan từ bên ngoài.
+- [Hôn nhân đồng giới và bình đẳng giới ở Đài Loan](/vi/society/taiwan-marriage-equality-lgbtq-rights) — Toàn bộ quá trình từ Quyết định 748 đến luật chuyên biệt có hiệu lực.
+- [Lịch sử người bản địa và phong trào đòi công nhận tên gọi của Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Cuộc đấu tranh trước lời xin lỗi, và các vấn đề đất đai, thân phận vẫn cần được giải quyết sau lời xin lỗi.
+- [Mã Anh Cửu](馬英九.md) — Tổng thống tiền nhiệm đã đánh bại Thái Anh Văn vào năm 2012 và trao quyền lực cho bà vào năm 2016.
+- [Lại Thanh Đức](賴清德.md) — Phó tổng thống và người kế nhiệm của Thái Anh Văn.
 
 ## Nguồn hình ảnh
 
-- [Chiến dịch chọn Tổng thống của Thái Anh Văn, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — MiNe (sfmine79), CC BY 2.0.
-- [Lễ khai trương Bảo hộ Lãnh thổ Quốc tế](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Tòa nhà Tổng thống Cộng hòa Nhân dân Đài Loan, CC BY 2.0.
-- [Buổi chào mừng sinh nhật 100 tuổi của Shih Ming](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg>) — Tòa nhà Tổng thống Cộng hòa Nhân dân Đài Loan, CC BY 2.0.
-- Hình ảnh chính thức của phim tài liệu « không thể nhìn thấy » — Sử dụng nội dung chính trị Fair use cho Invisible Nation (2023).
+- [Chiến dịch tranh cử Thái Anh Văn, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — MiNe (sfmine79), CC BY 2.0.
+- [Lễ khánh thành Bảo tàng Nhân quyền Quốc gia](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Phủ Tổng thống Trung Hoa Dân Quốc, CC BY 2.0.
+- [Tổng thống tham dự buổi tiệc sinh nhật lần thứ 100 của Sư Minh](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg>) — Phủ Tổng thống Trung Hoa Dân Quốc, CC BY 2.0.
+- Ảnh chụp chính thức của _Quốc gia vô hình_ — Bình luận biên tập sử dụng hợp lý về Quốc gia Vô hình (2023).
 
-## Tham khảo
+## Tài liệu tham khảo
 
-[^1]: [Hội đồng Chọn đếu Trung ương: Kết quả chọn Tổng thống và Phó tổng thống lần thứ 13](https://db.cec.gov.tw/ElecTable/Election?type=President); [Central News Agency: Nhận xét lại lời biểu diễn khi Thái Anh Văn thua trận](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Số phiếu chính xác khoảng cách 797.561 phiếu; lời biểu diễn gốc là « không mất kiên nhẫn ».
+[^1]: [Ủy ban Bầu cử Trung ương: Kết quả bầu cử tổng thống và phó tổng thống nhiệm kỳ thứ 13](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [Thông tấn xã Trung ương: Hồi tưởng bài phát biểu thất bại của Thái Anh Văn](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Chênh lệch phiếu chính thức là 797.561; từ trong bài phát biểu là "sự nản lòng"
 
-[^2]: [Hội đồng Chọn đếu Trung ương: Cơ sở dữ liệu chọn Tổng thống và Phó tổng thống](https://db.cec.gov.tw/ElecTable/Election?type=President) — 6.894.744 phiếu (56,12%) năm 2016; 8.170.231 phiếu (57,13%) năm 2020.
+[^2]: [Ủy ban Bầu cử Trung ương: Cơ sở dữ liệu bầu cử tổng thống và phó tổng thống](https://db.cec.gov.tw/ElecTable/Election?type=President) — Năm 2016, 6.894.744 phiếu (56,12%); năm 2020, 8.170.231 phiếu (57,13%).
 
-[^3]: [Central News Agency: Tuổi tôi và gia đình của Thái Anh Văn](https://www.cna.com.tw/news/firstnews/201605190152.aspx); [ETtoday: Các lời nói về dòng máu Hoa Wi](https://www.ettoday.net/news/20160514/694830.htm) — Các nguồn công khai trùng lặp nhau về thế hệ dòng máu, bài viết chỉ xác nhận « có dòng máu Hoa Wi ».
+[^3]: [Thông tấn xã Trung ương: Sự trưởng thành và gia đình của Thái Anh Văn](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday: Giả thuyết về dòng máu Pa Wai](https://www.ettoday.net/news/20160514/694830.htm) — Các tài liệu công khai có sự khác biệt về thế hệ huyết thống, bài viết này chỉ ghi nhận "có nguồn gốc Pa Wai"
 
-[^4]: [Trường Đại học Kinh tế London: Tuyên bố về bằng tiến sĩ của Dr. Thái Anh Văn](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen); [Đại học London: Tuyên bố về bằng tiến sĩ của Dr. Thái Anh Văn](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Các trường xác nhận bằng học vị năm 1984.
+[^4]: [LSE: Tuyên bố về bằng tiến sĩ của Tiến sĩ Thái Anh Văn](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [Đại học London: Tuyên bố về bằng tiến sĩ của Tiến sĩ Thái Anh Văn](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Trường đại học xác nhận bằng cấp vào năm 1984
 
-[^5]: [CNN: Thái Anh Văn, người đưa Đài Loan lên bản đồ](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Câu nói cá nhân và nhận xét của Gốc Lê Xương, Vanessa Hope cần được phân biệt riêng.
+[^5]: [CNN: Thái Anh Văn, nhà lãnh đạo đưa Đài Loan lên bản đồ](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Quan điểm cá nhân cần được tách biệt với quan sát của Cố Lập Hùng và Vanessa Hope.
 
-[^6]: [Weekly Insight: Thái Anh Văn nói về « người đàn bà tinh nhuệ » và « người tinh nhuệ »](https://www.mirrormedia.mg/story/20190110inv001) — Trả lời công khai ngày 10 tháng 1 năm 2019.
+[^6]: [Kính Tuần Gian: Thái Anh Văn nói về "cô gái Đài Loan nóng bỏng" và phe nóng bỏng](https://www.mirrormedia.mg/story/20190110inv001) — Phản hồi công khai vào ngày 10 tháng 1 năm 2019.
 
-[^7]: [Tòa nhà Tổng thống: Tổng thống đại diện chính phủ xin lỗi người nguyên thủy](https://www.president.gov.tw/NEWS/20603) — Bản ghi âm và các cam kết chính sách ngày 1 tháng 8 năm 2016.
+[^7]: [Phủ Tổng thống: Tổng thống đại diện chính phủ xin lỗi người bản địa](https://www.president.gov.tw/NEWS/20603) — Bản ghi chi tiết và cam kết chính sách ngày 1 tháng 8 năm 2016.
 
-[^8]: [Central News Agency: Thái Anh Văn ba lần thông qua luật hôn nhân đồng tính](https://www.cna.com.tw/news/firstnews/201905175002.aspx); [BBC: Đài Loan pháp luật hoàn thành hôn nhân đồng tính](https://www.bbc.com/news/world-asia-48305708) — Thông qua ba lần ngày 17 tháng 5, có hiệu lực ngày 24 tháng 5; ngày đầu tiên có 526 cặp đăng ký.
+[^8]: [Thông tấn xã Trung ương: Đọc ba lần luật hôn nhân đồng giới](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC: Đài Loan hợp pháp hóa hôn nhân đồng giới](https://www.bbc.com/news/world-asia-48305708) — Thông qua đọc ba lần ngày 17 tháng 5, có hiệu lực từ ngày 24 tháng 5; 526 cặp trong ngày đầu tiên
 
-[^9]: [Văn phòng Cải cách Bảo hiểm xã hội: Lịch sử cải cách bảo hiểm xã hội](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Các quy định và tiến trình thực thi bảo hiểm xã hội cho cán bộ công và quân nhân.
+[^9]: [Văn phòng cải cách lương hưu trung ương: Quá trình cải cách lương hưu](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Các luật và thời gian thực thi việc cải cách lương hưu công chức và quân đội.
 
-[^10]: [Nội các: Hoàn thành các nhiệm vụ của Hội đồng Công bằng chuyển đổi](https://www.ey.gov.tw/Page/9277F759E41CCD91/5bdfe0e5-6d0f-4e42-9dc8-2ca2ef17e6bc) — Giao nhiệm vụ và phân công tiếp tục sau khi kết thúc chuyên ngành.
+[^10]: [Chính quyền trung ương: Hoàn thành nhiệm vụ giai đoạn của Ủy ban Công bằng Chuyển đổi](https://www.ey.gov.tw/Page/9277F759E41CCD91/5bdfe0e5-6d0f-4e42-9dc8-2ca2ef17e6bc) — Bàn giao nhiệm vụ và phân chia sau năm 2022.
 
-[^11]: [Voice of America: Khảo sát về tám năm chính trị của Thái Anh Văn](https://www.voacantonese.com/a/taiwan-president-tsai-ing-wen-approval-rating-20240423/7580523.html) — Nhận xét khảo sát của Cơ quan Tìm hiểu Ý kiến Người dân Đài Loan tháng 4 năm 2024; chỉ một khảo sát duy nhất nhằm đánh giá khi rời cảnh tòa nhà.
+[^11]: [Voice of America: Khảo sát thành tích lãnh đạo tám năm của Thái Anh Văn](https://www.voacantonese.com/a/taiwan-president-tsai-ing-wen-approval-rating-20240423/7580523.html) — Dẫn lời khảo sát tháng 4 năm 2024 của Quỹ Ý kiến Công chúng Đài Loan; một cuộc khảo sát đơn lẻ chỉ là góc độ đánh giá khi rời nhiệm sở.
 
-[^12]: [Nature Immunology: Kinh nghiệm phòng ngừa COVID-19 của Đài Loan](https://www.nature.com/articles/s41590-021-00908-2) — Các biện pháp ban đầu và cấu trúc quản lý dịch bệnh.
+[^12]: [Nature Immunology: Kinh nghiệm của Đài Loan trong chống COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Các biện pháp và cấu trúc quản lý trước dịch bệnh.
 
-[^13]: [Nội các: Tỷ lệ tăng trưởng kinh tế năm 2021](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230636) — Tỷ lệ tăng trưởng kinh tế đạt 6,62% năm 2021.
+[^13]: [Cục Thống kê Tài chính Trung ương: Tốc độ tăng trưởng kinh tế năm 2021](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230636) — Tăng trưởng kinh tế hàng năm là 6,62%.
 
-[^14]: [Tòa nhà Tổng thống: Kế hoạch cải thiện cấu trúc lực lượng quốc phòng toàn dân](https://www.president.gov.tw/News/27201) — Công bố ngày 27 tháng 12 năm 2022, thực thi năm 2024.
+[^14]: [Phủ Tổng thống: Giải pháp điều chỉnh cấu trúc lực lượng quốc phòng toàn dân](https://www.president.gov.tw/News/27201) — Công bố ngày 27 tháng 12 năm 2022, thực hiện nghĩa vụ quân sự một năm từ năm 2024.
 
-[^15]: [Tòa nhà Quốc phòng Nhật Bản: Diễn bài về tên lửa đạn tuyến của Trung Quốc tháng 8 năm 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html); [Tòa nhà Quốc phòng: Diễn bài về các hoạt động quân sự của Nhà nước Giải phóng](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Nhật Bản phát hiện 9 quả, Đài Loan thống kê 11 quả, giữ sự khác biệt về cách diễn giải.
+[^15]: [Bộ Quốc phòng Nhật Bản: Xu hướng tên lửa đạn đạo của Trung Quốc tháng 8 năm 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Bộ Quốc phòng: Động thái diễn tập quân sự của CCP](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Nhật Bản xác định 9, Đài Loan thống kê 11, bài viết giữ nguyên sự khác biệt về cách nói
 
-[^16]: [CSIS ChinaPower: Theo dõi các hoạt động quân sự tăng dần của Trung Quốc tại biên giới năm 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 lần máy bay quân sự vượt qua đường trung tâm biển Đài Loan năm 2022.
+[^16]: [CSIS ChinaPower: Theo dõi hoạt động quân sự gia tăng của Trung Quốc năm 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — Vượt qua đường trung tuyến eo biển 564 lần vào năm 2022.
 
-[^17]: [Central News Agency: Niue rời đi, còn lại 12 quốc gia có quan hệ chính thức với Đài Loan](https://www.cna.com.tw/news/aipl/202401150075.aspx) — Từ 22 xuống còn 12 quốc gia trong thời gian của Thái Anh Văn.
+[^17]: [Thông tấn xã Trung ương: Sau khi Nauru cắt đứt quan hệ, Đài Loan còn lại 12 quốc gia có quan hệ ngoại giao](https://www.cna.com.tw/news/aipl/202401150075.aspx) — Từ 22 xuống 12 trong nhiệm kỳ của Thái Anh Văn.
 
-[^18]: [Central News Agency: Hành trình thăm qua châu Âu của Thái Anh Văn](https://www.cna.com.tw/news/aipl/202410190028.aspx) — Hành trình đến Cộng hòa Síp, Pháp, Bỉ và tiệc rượu vang tại Liên hợp châu Âu; không nhầm lẫn thành bài diễn văn chính thức.
+[^18]: [Thông tấn xã Trung ương: Hành trình thăm châu Âu của Thái Anh Văn](https://www.cna.com.tw/news/aipl/202410190028.aspx) — Các chuyến đi đến Séc, Pháp, Bỉ và buổi tiệc tại tòa nhà Nghị viện Châu Âu; không nhầm lẫn nó thành bài phát biểu chính thức.
 
-[^19]: [Nội các: Thống kê GDP người dân năm 2024](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=233860) — GDP người dân đạt 33.983 USD năm 2024.
+[^19]: [Cục Thống kê Tài chính Trung ương: Số liệu thu nhập quốc dân năm 2024](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=233860) — GDP bình quân đầu người năm 2024 là 33.983 USD.
 
-[^20]: [Bộ Tài nguyên và Môi trường: Tiến độ xây dựng nhà ở xã hội](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Các phương pháp xây dựng trực tiếp, cho thuê và hỗ trợ tiền thuê theo thống kê chính phủ.
+[^20]: [Cơ quan Quản lý Đất đai Nội vụ: Tiến độ thúc đẩy nhà ở xã hội](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Cách thống kê chính thức về xây dựng trực tiếp, cho thuê ủy thác và trợ cấp tiền thuê nhà.
 
-[^21]: [Bộ Năng lượng: Giải thích về chính sách chuyển đổi năng lượng](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001); [Ủy ban Giám sát: Khảo sát về tai nạn điện mất toàn quốc](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Các mục tiêu chuyển đổi năng lượng và các sự cố điện cần được phân biệt riêng.
+[^21]: [Bộ Kinh tế: Giải thích chính sách chuyển đổi năng lượng](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Ủy ban Giám sát: Điều tra mất điện trên toàn quốc](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Mục tiêu cấu trúc năng lượng và sự cố mất điện cần được quy kết riêng
 
-[^22]: [BBC: Báo chí Trung Quốc bị chỉ trích vì nhận xét về tình trạng chưa kết hôn của Thái Anh Văn](https://www.bbc.com/news/world-asia-36309137) — Bị xuyên tạc nhận xét về tình trạng hôn nhân và tính cách chính trị sau khi cô lên nhiệm, dẫn đến chỉ trích phân biệt giới tính.
+[^22]: [BBC: Báo chí Trung Quốc bị chỉ trích về bình luận của Thái Anh Văn chưa kết hôn](https://www.bbc.com/news/world-asia-36309137) — Sự chỉ trích phân biệt giới tính sau khi truyền thông chính thức Trung Quốc liên kết tình trạng chưa kết hôn với tính cách chính trị.
 
-[^23]: [Weekly Insight: Thái Tưởng và Thái A Nhiên](https://www.mirrormedia.mg/story/20180417inv031) — Nguồn gốc và quá trình nhận con mèo.
+[^23]: [Kính Tuần Gian: Thái Tưởng Tưởng và Thái A Tài](https://www.mirrormedia.mg/story/20180417inv031) — Bối cảnh cứu hộ và nhận nuôi hai chú mèo.

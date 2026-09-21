@@ -1,9 +1,9 @@
 ---
-title: 'Thái Anh Văn (Chi-Wei Lin): Từ thương hiệu trò chơi bàn giáo dục quốc tế, đến nền tảng phần mềm cho 200.000 người sáng tạo'
-description: 'Thái Anh Văn (Chi-Wei Lin, thường được gọi là CW) là doanh nhân Đài Loan. Năm 2014, trò chơi giáo dục của ông giành giải bạc tại "Giải thưởng Lựa chọn Phụ huynh" (Parents'' Choice Awards) tại Hoa Kỳ, thắng Lekin; mười năm sau, Portaly - nền tảng phần mềm cho các nhà sáng tạo của ông trở thành nền tảng thương mại điện tử lớn nhất Đài Loan, 200.000 người dùng để biến ảnh hưởng thành thu nhập, từ năm 2025 trở thành công ty lợi nhuận, không tốn chiến dịch tiếp thị, dựa trên PLG học tập tự nhiên (product-led growth). Từ ngành công nghiệp truyền thống chuyển sang phần mềm, rồi chuyển sang AI, mỗi lần đều bắt đầu lại từ đầu. Ông liên tục làm một việc: giúp người khác biến một thứ gì đó thành một loại khác, sau đó công bố phương pháp chính xác.'
+title: 'Lâm Khải Duy: Từ thương hiệu trò chơi bàn vật lý đoạt giải quốc tế đến nền tảng phần mềm cho 20 vạn nhà sáng tạo'
+description: "Lâm Khải Duy (Chi-Wei Lin, thường được biết đến trên mạng là CW) là một doanh nhân Đài Loan. Năm 2014, trò chơi giáo dục của anh đã giành giải Bạc tại 'Giải thưởng lựa chọn của phụ huynh' ở Mỹ, đánh bại Lego; mười năm sau, Portaly do anh sáng lập đã trở thành nền tảng kinh doanh lớn nhất cho các nhà sáng tạo trên toàn Đài Loan, nơi 200.000 người sử dụng nó để đổi ảnh hưởng thành thu nhập, và bắt đầu có lợi nhuận với tiếp thị miễn phí vào năm 2025 nhờ tăng trưởng PLG (Product-Led Growth) tự nhiên. Anh đã chuyển từ ngành công nghiệp truyền thống sang phần mềm, rồi lại sang AI, mỗi lần đều là một sự khởi đầu mới. Anh luôn làm cùng một việc: giúp người khác biến một thứ này thành thứ khác, và sau đó công khai chia sẻ phương pháp."
 date: 2026-06-17
 category: 'People'
-tags: ['Khởi nghiệp', 'Portaly', 'PLG', 'AI', 'SaaS', 'Kinh tế sáng tạo']
+tags: ['khởi nghiệp', 'Portaly', 'PLG', 'AI', 'SaaS', 'kinh tế sáng tạo']
 subcategory: '科技與企業'
 author: 'CW Lin (林啟維)'
 featured: false
@@ -11,10 +11,10 @@ lastVerified: 2026-07-03
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/林啟維.md'
-sourceCommitSha: 'cfaa22a5d'
-sourceContentHash: 'sha256:82817fc4c48a612b'
-sourceBodyHash: 'sha256:5e2c0e25dde8c071'
-translatedAt: '2026-07-28T08:16:22+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:50a3b31b4cb61eed'
+sourceBodyHash: 'sha256:e893f57da90167f4'
+translatedAt: '2026-09-21T14:54:29.567042+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Thái Anh Văn (Chi-Wei Lin, thường được gọi là CW hoặc CW Lin) là doanh nhân Đài Loan, chủ và Giám đốc điều hành của Portaly, tốt nghiệp chuyên ngành Điện tử tại Đại học Đài Loan và Trường Đại học California, Los Angeles (UCLA). Từ ngành công nghiệp truyền thống chuyển sang phần mềm, rồi chuyển sang AI, mỗi lần đều bắt đầu lại từ đầu. Lần khởi nghiệp đầu tiên là thương hiệu trò chơi bàn giáo dục trẻ em "Shepherd Kit", năm 2014 giành giải bạc tại "Giải thưởng Lựa chọn Phụ huynh" (Parents' Choice Awards) tại Hoa Kỳ, ghi nhận kỷ lục tốt nhất Đài Loan khi thắng Lekin; mười năm sau, Portaly trở thành nền tảng thương mại điện tử cho các nhà sáng tạo lớn nhất Đài Loan, từ năm 2025 trở thành công ty lợi nhuận, hoàn toàn không tốn chiến dịch tiếp thị, áp dụng PLG học tập tự nhiên (product-led growth, tăng trưởng do-sản-phẩm). Ông cũng là nhà khởi nghiệp kỳ 13 của chương trình hỗ trợ khởi nghiệp AAMA Hà Nội, tác giả các bài viết chuyên ngành trong tạp chí "Quản lý" và "Giao lưu khởi nghiệp", chia sẻ công khai các phương pháp phát triển AI và tăng trưởng doanh nghiệp. Kho bản dữ liệu mà bạn đang đọc, nguồn tài trợ được xử lý qua nền tảng của ông.
@@ -74,19 +74,19 @@ Trong bản mô tả của AAMA, Portaly được xem là nền tảng thương 
 > **📝 Ghi chú của người xuất bản**
 > Việc "không có đội ngũ tiếp thị" khiến các nhà đầu tư cảm thấy giống như một thiểu sự. Nhưng đối với Portaly, điều này lại là lợi thế: nếu một công cụ hay đến mức các nhà sáng tạo sẽ tự mời bạn bè của họ đến sử dụng, thì nó không cần quảng cáo. Lợi nhuận, không tiếp thị, PLG ba yếu tố đồng thời thành công chính là điều khó sao chép lại.
 
-## Người thực hành build in public
+## Người thực hành "Xây dựng công khai" (Build in Public)
 
-Trong những năm gần đây, Thái Anh Văn thêm một vai trò khác: người thực hành build in public (xây dựng công khai). ôn cốt mọi chuyện ông làm như thế này trong nhiều năm: Portaly sớm, ông chia sẻ công khai phương pháp khảo sát 100 khách hàng siêu người nổi tiếng trong vòng một tháng và hai tuần.[^14] Năm 2024, ông dành hai tháng để nuôi dưỡng tài khoản Threads từ 120 người theo dõi lên 10.000, sau đó viết toàn bộ về thuật toán và chiến lược tăng trưởng, được tạp báo "Thời đại số" (Business Next) cho phép chuyển ngữ.[^15] Năm 2026, ông chuyển sang Silicon Valley, viết về hoàn cảnh của các doanh nghiệp Đài Loan trong làng dùng AI, xuất bản trên "Giao lưu khởi nghiệp".[^16] Ông đồng thời là tác giả các bài viết chuyên ngành trên "Quản lý" (Manager Today) và "Giao lưu khởi nghiệp" (Meet), viết không phải về lý thuyết thành công mà là những thứ ông đang dùng trong thực hành: quy trình phát triển sản phẩm AI, bảng kiểm tra văn hóa AI dành cho quản lý, hệ thống quản lý tri thức AI Vault.[^10][^11] Ông mở nguồn cấu trúc kho tri thức AI của mình thành [Vault for Founders](https://github.com/cwlin0131/Vault-for-Founders), cũng viết sách hướng dẫn "Manual Dragon Shrimp" cho người không kỹ thuật vào OpenClaw; theo dữ liệu công khai, hơn nghìn người đã chia sẻ các tài liệu AI này.[^9] Năm 2026, ông được mời tham dự hội nghị Stripe Sessions, đại diện cho các doanh nghiệp Đài Loan; về lại, ông viết bài tổng kết, nhắc nhở các doanh nghiệp mới tại Đài Loan: trong mô hình kinh doanh của bạn, có vị trí AI agent không?[11][^9]
+Trong những năm gần đây, Lâm Khải Duy (CW Lin) đã có thêm một vai trò: người thực hành mô hình xây dựng công khai (_build in public_). Ông đã làm điều này trong nhiều năm: giai đoạn đầu của Portaly, ông công khai chia sẻ phương pháp khảo sát 100 khách hàng siêu nổi tiếng trong vòng một tháng rưỡi[^14]; vào năm 2024, ông dành hai tháng để phát triển tài khoản Threads từ 120 người theo dõi lên mười nghìn, sau đó viết toàn bộ logic thuật toán và phương pháp tăng trưởng người theo dõi, được _Business Next_ (Tạp chí Kỹ thuật số) cấp phép chuyển ngữ[^15]; khi tiến quân vào Thung lũng Silicon vào năm 2026, ông đã ghi lại hoàn cảnh của các doanh nhân Đài Loan trong cơn sốt vàng AI và đăng tải trên _Meet Taipei_[^16]. Đồng thời, ông có chuyên mục tại _Manager Today_ và _Meet_, viết không phải về triết lý thành công, mà là những thứ ông đang sử dụng: quy trình phát triển sản phẩm hoàn toàn bằng AI, bảng kiểm tra văn hóa AI dành cho quản lý, và hệ thống quản lý kiến thức AI Vault (Kho lưu trữ AI)[^10][^11]. Ông đã mở mã nguồn cơ sở dữ liệu tri thức AI của mình thành [Vault for Founders](https://github.com/cwlin0131/Vault-for-Founders), và cũng viết "sách hướng dẫn cho người mới bắt đầu" về OpenClaw dành cho những người không chuyên kỹ thuật; theo tài liệu công khai, các tài liệu AI này đã được hàng nghìn người sử dụng và chia sẻ[^9]. Năm 2026, ông được mời tham dự hội nghị Stripe Sessions (theo tài liệu công khai, với tư cách đại diện doanh nhân Châu Á - Thái Bình Dương), và việc đầu tiên sau khi trở về là viết một bài tổng kết, nhắc nhở các startup Đài Loan: mô hình kinh doanh của bạn đã có vị trí cho AI agent chưa?[^11][^9].
 
-Thói quen này kéo dài qua hai kỳ khởi nghiệp của ông: kinh nghiệm gây quỹ và hợp tác bản quyền với bảo tàng trong giai đoạn Shepherd Kit, phương pháp PLG và tích hợp AI trong giai đoạn Portaly, ông đều tổ chức thành những thứ mọi người có thể dùng trực tiếp. Từ trò chơi bàn, trang web cho các nhà sáng tạo đến phương pháp tiếp thị AI, hình dạng sản phẩm thay đổi ba lần, nhưng đường thắng giữa các bước vẫn không đổi: tìm một giai đoạn mà người khác cản trở, làm một thiết bị máy móc, giúp họ thoát khỏi trở ngại, sau đó chia sẻ cách làm với người tiếp theo.
+Thói quen này xuyên suốt hai giai đoạn khởi nghiệp của ông: từ hoạt động gây quỹ cộng đồng và kinh nghiệm cấp phép bảo tàng thời "cừu non" đến phương pháp PLG và áp dụng AI tại Portaly, tất cả đều được ông hệ thống hóa thành những thứ người khác có thể trực tiếp sử dụng. Dù hình thái sản phẩm thay đổi ba lần—từ trò chơi bàn cờ vật lý, trang của nhà sáng tạo cho đến phương pháp vận hành bằng AI—nhưng sợi dây bên dưới thì không hề thay đổi: tìm ra một nút thắt mà ai đó đang mắc kẹt, chế tạo một cỗ máy để giúp họ vượt qua sự bế tắc đó, sau đó chia sẻ cách làm cho người tiếp theo gặp khó khăn.
 
-Điều này cũng giải thích một sự hòe hẹn nhỏ. Bạn đang đọc kho bản dữ liệu này [Taiwan.md](/about/taiwan-md), trang tài trợ ghi rằng "xử lý nguồn tài trợ bằng Portaly", liên kết gửi tiền đến `portaly.cc/taiwanmd/support`.[^12] Khi một người Đài Loan muốn nói với thế giới về Đài Loan và gây quỹ, lớp xử lý tiền tệ chính là người khác của ông.
+Điều này cũng giải thích một sự trùng hợp nhỏ. Cơ sở tri thức bạn đang đọc [Taiwan.md](/vi/about/taiwan-md) có trang tài trợ ghi "được Portaly xử lý dòng tiền", và liên kết quyên góp trỏ đến `portaly.cc/taiwanmd/support`[^12]. Khi một người Đài Loan muốn lên tiếng cho Đài Loan và gây quỹ ra thế giới, thì lớp nhận tiền lại chính là do một người Đài Loan khác thực hiện.
 
-> **Lưu ý minh bạch:** Bản nháp đầu của bài viết được viết bởi chính người (CW Lin) và gửi cho các trang xuất bản. Nội dung dựa trên các báo chí công khai; chỉ có phần được ghi chú "theo dữ liệu công khai của Thái Anh Văn" thì nguồn gốc là trang web cá nhân hoặc tự kể trên mạng xã hội.
+> **Tiết lộ minh bạch:** Bản thảo này được viết và gửi bởi chính tác giả (CW Lin). Nội dung chủ yếu dựa trên các báo cáo công khai của bên thứ ba; chỉ những phần ghi "Theo tài liệu công khai của Lâm Khải Duy" thì nguồn là từ trang web hoặc tự thuật mạng xã hội của ông.
 
 **Đọc thêm**:
 
-- [Chương trình hỗ trợ khởi nghiệp AAMA Hà Nội](../Economy/AAMA台北搖籃計畫.md): Thái Anh Văn là người tham gia kỳ 13, chương trình hỗ trợ cá nhân mà không đầu tư, không lấy cổ phần.
+- [Chương trình Vườn ươm AAMA Đài Bắc](/vi/economy/aama-taipei-cradle-program): Lâm Khải Duy là doanh nhân kỳ thứ 13 trong chương trình cố vấn một kèm một kéo dài hai năm này, một mô hình hỗ trợ khởi nghiệp Đài Loan không đầu tư và không chiếm cổ phần.
 
 ## Tài liệu tham khảo
 

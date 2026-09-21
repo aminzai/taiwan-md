@@ -1,11 +1,6 @@
 ---
 title: 'Những Người Tạo Nên Núi: Cuộc Đánh Cược của Thế Kỷ — Một Bộ Phim Tài Liệu Phải Xoá Đi Một Chữ Trong Tên Để Nói Lên Những Gì Muốn Nói'
 description: 'Bộ phim tài liệu "Những Người Tạo Nên Núi" công chiếu ngày 13 tháng 6 năm 2025 kể lại tính chất không thay thế được của hành trình bán dẫn Đài Loan. Nhưng tên gốc của nó là "Silicon Shield" (Tấm Khiên Silicon). Tiêu Cúc Trinh đã mất năm năm, phỏng vấn hơn 80 người để quay lại chuyện "Sinh Trong Những Khó Khăn" của ngành công nghiệp này, nhưng phải xoá đi chữ sắc nhất trong tên phim — khi hòn đảo này tự hào về bộ tài sản mạnh nhất của mình, thậm chí cách nói cũng phải trước tiên cân nhắc bên kia eo biển sẽ nghe ra sao.'
-translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '36b472955'
-sourceContentHash: 'sha256:04951f7f999b2b98'
-sourceBodyHash: 'sha256:3df28689a2b61ed4'
-translatedAt: '2026-08-09T10:41:15+08:00'
 date: 2026-06-16
 category: 'Art'
 tags:
@@ -24,11 +19,16 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-16
 lastHumanReview: false
-researchReport: reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md
+researchReport: 'reports/research/2026-06/造山者世紀的賭注-evolve-20260614.md'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_Science_Park_%E5%85%89%E5%BE%A9%E8%B7%AF%E5%9C%92%E5%8D%80%E5%A4%A7%E9%96%80%E7%AB%8B%E6%9F%B1_2025-12-02.jpg'
+translatedFrom: 'Art/造山者世紀的賭注.md'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:da8e78a538c5510d'
+sourceBodyHash: 'sha256:076ca43fe3ac469d'
+translatedAt: '2026-09-21T13:51:01.864937+00:00'
 ---
 
 # Những Người Tạo Nên Núi: Cuộc Đánh Cược của Thế Kỷ — Một Bộ Phim Tài Liệu Phải Xoá Đi Một Chữ Trong Tên Để Nói Lên Những Gì Muốn Nói
@@ -167,27 +167,27 @@ Tiêu Mỹ Cầm sau khi xem phim tháng 6 nói: "Phim này quan trọng hơn l�
 
 Hai đoạn phát biểu đều rất lịch sự, cũng đều đưa bộ phim này vào khung kể chuyện quốc gia. Nhưng vị trí mà bộ phim tự chọn, thực tế khiêm tốn hơn những phát biểu rất nhiều — Tiêu Cúc Trinh nói qua: "Quay xong bộ phim, tôi cũng cảm thấy mình là một người tạo nên núi, thậm chí là một hạt cát nhỏ, cũng là một phần của phong trào tạo núi."[^45]
 
-## Những Người Tạo Nên Núi Thực Tế Không Có Mặt
+## Những Người Tạo Nên Núi Thực Ra Không Có Mặt
 
-Câu chuyện quay trở lại tối ngày 26 tháng 6 năm 2025 ở rạp chiếu phim Sơn Xín.
+Câu chuyện quay trở lại rạp chiếu phim ở khu Thân Nghĩa vào chiều ngày 26 tháng 6 năm 2025.
 
-Trương Trung Mưu 94 tuổi vợ chồng ngồi ở hàng ghế cuối xem hết bộ phim. Khi đèn tắt, anh ta từng từng bước đi xuống lối đi, vẫn đeo khẩu trang, giơ cao hai tay, vẫy chào các khán giả, chào tất cả mọi người[^4]. Tiêu Cúc Trinh ngồi ở đó — năm năm cô luôn không có một cuộc phỏng vấn mặt tiền với nhân vật "tạo nên núi" này, cuối cùng là chính nhân vật này bằng thân phận "khán giả" đến trước phim.
+Cặp vợ chồng Trương Trung Mưu, đã ngoài 94 tuổi, ngồi ở hàng ghế cuối cùng và xem trọn bộ phim. Khi đèn kết thúc chiếu sáng lên, ông chậm rãi bước xuống lối đi trong khi đeo khẩu trang, giơ hai tay cao vẫy chào khán giả và tất cả mọi người[^4]. Tiêu Cúc Trinh đã có mặt tại sự kiện này — suốt năm năm qua bà chưa từng phỏng vấn trực tiếp nhân vật cốt lõi của "người tạo nên núi" này, cuối cùng thì chính nhân vật cốt lõi đó lại đến rạp với tư cách là một "khán giả".
 
-> **✦** Sử thi không quay được, hiện thực bổ sung lên.
+> **✦** Những gì sử thi không ghi lại, thực tế đã bổ sung.
 
-Sự căng thẳng của bộ phim do đó quay một vòng quay lại điểm xuất phát: người không được phỏng vấn đó, chữ bị xoá khỏi tên phim đó, khoản tiền được cố ý phân tán đó — chính chúng là sống lưng thực sự của bộ phim này. Một sử thi bán dẫn Đài Loan, nói "chúng ta tạo nên một quả núi" rất dễ dàng; nó thực sự kể lại việc khó nói hơn đó, trong lúc tất cả mọi người đều nhìn vào quả núi này, hòn đảo này của những người tạo nên núi đã học được cách nào ở giữa những gì có thể nói và không thể nói, thay mình giữ lại lịch sử.
+Sức căng của bộ phim này cứ thế xoay vòng trở về điểm xuất phát: người chưa được phỏng vấn, cái tên bị lược bỏ khỏi tựa đề, và số tiền cố tình phân tán — đó chính là xương sống thực sự của tác phẩm. Một sử thi bán dẫn Đài Loan nói rằng "chúng ta đã tạo ra một ngọn núi" thì dễ; nhưng điều nó thực sự nói, thứ khó mở lời hơn khi mọi người đang nhìn vào ngọn núi ấy, là cách mà những người kiến tạo trên hòn đảo này học được cách để lại dấu ấn lịch sử cho chính mình giữa ranh giới của cái có thể nói và cái không thể nói.
 
-Số tiền doanh thu kéo dài một năm, lưu diễn quốc tế một buổi một buổi, phát biểu của phó tổng thống và cựu tổng thống, lời khen ngợi của chủ tịch ESMC — tất cả sẽ tan đi. Nhưng cái bóng dáng đứng dậy từ hàng ghế cuối chiều tối đó, sẽ giữ lại. Anh ta không bước lên màn ảnh; anh ta đứng dậy từ ghế khán giả.
+Doanh thu kéo dài suốt một năm, các chuyến lưu diễn quốc tế, bài phát biểu của Phó Tổng thống và cựu Tổng thống, lời khen ngợi của Chủ tịch ESMC — tất cả rồi sẽ tan biến. Nhưng hình bóng người đứng dậy ở hàng ghế cuối cùng vào buổi chiều hôm đó, thì sẽ còn lại. Ông không bước lên màn ảnh; ông bước ra từ khán phòng.
 
-Từ lúc hòn đảo này học được cách cân nhắc bên kia eo biển sẽ nghe ra sao khi tự hào về bản thân, mỗi một người tạo nên núi thực tế đã là khán giả — nhìn vào quả núi do chính mình tạo nên, bên ngoài kia nói gì, bên ngoài kia nghe như thế nào, bên ngoài kia mua vé vào xem.
+Kể từ khoảnh khắc hòn đảo này tự hào về mình, mỗi người kiến tạo đã trở thành một khán giả — nhìn ngọn núi mà họ tạo ra, xem người khác nói gì, nghe gì, và mua vé vào xem như thế nào.
 
-**Đọc Thêm**:
+**Đọc thêm**:
 
-- [Ngành Công Nghiệp Bán Dẫn](../Technology/ngành-công-nghiệp-bán-dẫn.md) — Hoàn toàn từ cuộc họp ăn sáng ở quán Tiểu Tâm Tâm năm 1974 cho tới khi Vị Triết Gia bước vào Nhà Trắng năm 2025, bối cảnh lịch sử hoàn chỉnh về sản xuất wafer tinh chế Đài Loan, xương sống thời gian của "Những Người Tạo Nên Núi" chính là được ghép nối trên trục này.
-- [Trương Trung Mưu](../People/trương-trung-mưu.md) — Nhân vật chính không ngồi trước ống kính đó, anh ta tự viết phần dưới trong sáu năm, nhà xuất bản phát hành nửa năm trước khi bộ phim công chiếu.
-- [Quốc Gia Vô Hình](../Art/quốc-gia-vô-hình.md) — Phim tài liệu chị em công chiếu cùng ngày, đạo diễn Mỹ Vanessa Hope từ con đường dân chủ cắt "Giá Trị Đài Loan" theo một giọng nói khác.
-- [Phát Triển Công Viên Công Nghệ](../Technology/phát-triển-công-viên-công-nghệ.md) — Công Viên Khoa Học Tân Trúc là sân khấu vật lý cho hầu hết các cảnh của "Những Người Tạo Nên Núi", từ một thành phố nhỏ đến một trục kỹ thuật toàn cầu.
-- [Thái Anh Văn](../People/thái-anh-văn.md) — Năm 2025 tháng 8 doanh thu vượt 25 triệu đồng, cựu tổng thống sau khi chuyên chức, dẫn theo Trần Kiến Nhân vợ chồng bước vào rạp chiếu xem phim, viết một bối cảnh chính trị cho bộ phim này.
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Toàn bộ mạch truyện của ngành sản xuất wafer Đài Loan, từ buổi sáng họp tại tiệm sữa đậu nành Tiểu Hân Hân năm 1974 đến việc Ngụy Triết Gia bước vào Nhà Trắng năm 2025. Khung thời gian của 《Những Người Tạo Nên Núi》 được gắn trên trục này.
+- [Trương Trung Mưu](/vi/people/tsmc-morris-chang) — Nhân vật chính không xuất hiện trước ống kính, cuốn tiếp theo do ông tự viết mới được xuất bản nửa năm trước khi phim ra mắt.
+- [Quốc gia vô hình](/vi/art/invisible-nation) — Bộ phim tài liệu chị em cùng công chiếu, đạo diễn người Mỹ Vanessa Hope kể một góc nhìn khác về "giá trị Đài Loan" thông qua con đường dân chủ.
+- [Phát triển khu công nghệ](/vi/technology/science-park-development) — Khu khoa học Tân Trúc là bối cảnh vật lý cho hầu hết các phân đoạn của 《Những Người Tạo Nên Núi》, từ một canh bạc nhỏ thành trung tâm chuỗi cung ứng toàn cầu.
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Khi doanh thu đạt 25 triệu vào tháng 8 năm 2025, cựu Tổng thống cùng phu nhân Trần Kiến Nhân đến rạp xem phim, tạo nên một bối cảnh chính trị cho tác phẩm này.
 
 ## Nguồn Hình Ảnh
 

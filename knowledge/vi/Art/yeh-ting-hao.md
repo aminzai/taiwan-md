@@ -24,17 +24,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-22
 lastHumanReview: false
-researchReport: reports/research/2026-05/yeh-ting-hao.md
+researchReport: 'reports/research/2026-05/yeh-ting-hao.md'
 readingTime: 22
 image: '/article-images/art/yeh-ting-hao-reverberation-hero-2024.webp'
 imageCredit: '臺中國家歌劇院 NTT'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=_-L_wAYDmBs'
 translatedFrom: 'Art/葉廷皓.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:63b47718f8145b2c'
-sourceBodyHash: 'sha256:04f5859af8f97035'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:a5453a6f1dbec222'
+sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
+translatedAt: '2026-09-21T13:43:59.375566+00:00'
 ---
 
 ## Yeh Ting-Hao: Nghệ sĩ khai phá hiệu ứng bất ngờ từ "cách dùng công nghệ sai lệch", để lại toàn hệ sinh thái âm thanh hình ảnh Đài Loan khi từ trần ở tuổi 43
@@ -227,22 +227,22 @@ Người cố gắng không còn nữa. Nhưng các công cụ mà anh để l�
 - [數位荒原](/art/數位荒原) — Nền tảng Phê bình Nghệ thuật Phương tiện Mới Đài Loan Đương đại Cùng Thế hệ, ghi lại Luận thuyết Tác phẩm Chính yếu của Thế hệ Yeh Ting-Hao thuộc về
 - [台灣電子音樂與派對文化](/music/台灣電子音樂與派對文化) — Cảnh quang Tiệc Techno và Âm thanh Điện tử Thử nghiệm Đài Loan mà Nhóm Âm thanh Hình ảnh HH sở hữu
 
-## Nguồn Hình ảnh
+## Nguồn ảnh
 
-Bài viết này sử dụng 3 bức ảnh tĩnh từ bản ghi《幻象的殘響》chính thức của Nhà hát Quốc gia Đài Trung NTT, sử dụng **fair use editorial commentary** (per [Pipeline §1.9.2 điểm 8](../docs/pipelines/REWRITE-PIPELINE.md)). Toàn bộ cache tại `public/article-images/art/` để tránh hotlink đến máy chủ nguồn:
+Bài viết sử dụng 3 bức ảnh tĩnh từ bộ phim tài liệu chính thức 《幻象的殘響》 của Nhà hát Opera Đài Trung (NTT), với mục đích **bình luận biên tập theo nguyên tắc sử dụng hợp lý (fair use editorial commentary)**. Tất cả các tệp đã được lưu trữ trong `public/article-images/art/` để tránh liên kết nóng đến máy chủ nguồn:
 
-- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Hero 1280×720, bức ảnh tĩnh khung đầu tiên của bản ghi. Photo: Kênh chính thức Nhà hát Quốc gia Đài Trung NTT, Fair use editorial commentary về tác phẩm Yeh Ting-Hao NTT.
-- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Scene-mid 480×360, khung Yeh Ting-Hao điều chỉnh tại hiện trường. Photo: Như trên.
-- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Scene-mid 480×360, khung biểu diễn hình ảnh bao quanh. Photo: Như trên.
+- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Ảnh hero 1280×720, khung hình đầu tiên của phim tài liệu. Photo: Kênh chính thức NTT Nhà hát Opera Đài Trung, Bình luận biên tập sử dụng hợp lý về tác phẩm lưu trú NTT của Yeh Ting-Hao.
+- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Ảnh cảnh 480×360, cảnh thử nghiệm trực tiếp của Yeh Ting-Hao. Photo: Như trên.
+- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — Ảnh cảnh 480×360, đoạn trình diễn chiếu bao phủ. Photo: Như trên.
 
-### Ranh giới Hình ảnh Ghi chép
+### Ghi chú về giới hạn hình ảnh
 
-Yeh Ting-Hao như một nghệ sĩ âm thanh hình ảnh đương đại, chân dung cá nhân, bản ghi diễn tập sớm, tác phẩm khác (chẳng hạn như《下意識機器》《光流》《O.S.C.》) bản ghi hình ảnh chủ yếu trên các trang web cá nhân, Instagram, Facebook, các trang sự kiện biểu diễn của tổ chức — những cái này đều là vật liệu tác giả gốc được bảo vệ bản quyền. Tìm kiếm API Wikimedia Commons ("Yeh Ting-Hao" "Lacking Sound Festival" "Taiwanese sound artists") đều trả về 0 hits, không có hình ảnh PD/CC có thể sử dụng được. Ngoài 3 bức ảnh tĩnh fair use từ bản ghi NTT nêu trên, bài viết này không thu thập vật liệu hình ảnh khác. Độc giả có thể tìm bản ghi hình ảnh của Yeh Ting-Hao thông qua các liên kết dưới đây:
+Là một nghệ sĩ âm thanh đương đại, các tư liệu hình ảnh cá nhân của Yeh Ting-Hao, các buổi biểu diễn ban đầu và các tác phẩm khác (như 《下意識機器》, 《光流》, 《O.S.C.》) phần lớn được lưu trữ trên các trang web cá nhân, Instagram, Facebook hoặc các trang trình diễn của các tổ chức—tất cả đều là tài liệu gốc có bản quyền. Việc tìm kiếm qua API Wikimedia Commons (với từ khóa "葉廷皓", "Yeh Ting-Hao", "Lacking Sound Festival", "Taiwanese sound artists") đều trả về 0 kết quả, không có hình ảnh PD/CC nào khả dụng. Ngoài 3 bức ảnh tĩnh từ phim tài liệu NTT nêu trên, bài viết không sử dụng bất kỳ tư liệu hình ảnh nào khác. Độc giả có thể tìm kiếm các tư liệu hình ảnh của Yeh Ting-Hao thông qua các liên kết sau:
 
-- Bản ghi hoàn chỉnh của《幻象的殘響》: [YouTube — Bản ghi dự án Cư trú Nhà hát 2023-2024 Yeh Ting-Hao《幻象的殘響》](https://www.youtube.com/watch?v=_-L_wAYDmBs) (Kênh chính thức Nhà hát Quốc gia Đài Trung NTT)
-- Album《remotion》của HH: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) ／ [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
-- Bản ghi tác phẩm Fluid Noise (Nhiễu loạn): [DAC.Taipei Yeh Ting-Hao Puta Mục nhập](https://dac.taipei/project/fluidnoise-puta)
-- Chuyên đề tưởng niệm Đại học Nghệ thuật Bắc Đài Khoa Phương tiện Mới: [Yeh Ting-Hao PUTA: Dùng ngôn ngữ ánh sáng và tiếng ồn, kéo dài sự thở hít trong vũ trụ kỹ thuật số](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
+- Phim tài liệu hoàn chỉnh 《幻象的殘響》: [YouTube — Phim tài liệu về nghệ sĩ lưu trú NTT Nhà hát Opera 2023-2024, Yeh Ting-Hao《幻象的殘響》](https://www.youtube.com/watch?v=_-L_wAYDmBs) (Kênh chính thức NTT Nhà hát Opera Đài Trung)
+- Album 《remotion》 của HH: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) / [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
+- Tư liệu tác phẩm Fluid Noise: [Mục DAC.Taipei Yeh Ting-Hao Puta](https://dac.taipei/project/fluidnoise-puta)
+- Bài viết hồi tưởng của Khoa Nghệ thuật Phương tiện Mới Đại học Bắc Đài: [Yeh Ting-Hao PUTA: Dùng ngôn ngữ ánh sáng và âm thanh, kéo dài hơi thở trong vũ trụ số](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
 
 ## Tài Liệu Tham Khảo
 
