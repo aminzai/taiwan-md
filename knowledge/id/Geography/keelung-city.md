@@ -135,7 +135,7 @@ Dan pasar ikan Kanzi Ding (yang disebut tadi) justru mesin penggerak pasar malam
 
 ## Rumah Warna-warni Zhengbin di Depan, Kuil Argena di Sebelah
 
-![Rumah jalan warna-warni Pelabuhan Nelayan Zhengbin, Agustus 2025. Masa Lin Youchang jadi wali kota, bermitra dengan Ketua Jurusan Lanskap Universitas Budaya Guo Qiongying, cat rumah tua tepi pelabuhan jadi 55 warna. Di depan mata sama frame terlihat kuil Argena.](/article-images/geography/keelung-01.webp)
+![Rumah jalan warna-warni Pelabuhan Nelayan Zhengbin, Agustus 2025. Masa Lin Youchang jadi wali kota, bermitra dengan Ketua Jurusan Lanskap Universitas Budaya Guo Qiongying, cat rumah tua tepi pelabuhan jadi 55 warna. Di depan mata sama frame terlihat kuil Argena.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
 _Rumah jalan warna-warni Pelabuhan Nelayan Zhengbin, 2025-08-12. Foto: Kontributor Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
 
 Kalau mau lihat kota bagaimana mengurus kuilnya, ke Pelabuhan Nelayan Zhengbin.
