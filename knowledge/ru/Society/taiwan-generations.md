@@ -26,7 +26,13 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
 viewpoint_formed: true
 core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
-rationale: '{''whats_excluded'': ''- 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應\n- 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括\n- 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述\n- 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查\n- 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括''}'
+rationale:
+  whats_excluded: |-
+    - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
+    - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
+    - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
+    - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
+    - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
 translatedFrom: 'Society/台灣的年級生世代.md'
 sourceCommitSha: '805200859'
 sourceContentHash: 'sha256:1b3e5e3f22f40ead'

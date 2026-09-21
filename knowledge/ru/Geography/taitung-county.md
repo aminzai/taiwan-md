@@ -27,8 +27,8 @@ lastHumanReview: false
 readingTime: 15
 researchReport: 'reports/research/2026-05/台東縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png'
-imageCredit: 'Sleepingstar'
+image: '/article-images/geography/taitung-county-montage.webp'
+imageCredit: 'Sleepingstar / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png'
 translatedFrom: 'Geography/台東縣.md'
@@ -178,7 +178,7 @@ _Ландшафт Ланью, 2021-07-21. Photo: Pai-Shih Lee (白士 李). [CC 
 
 Сборные каноэ (chinurikuran — большой, 27 досок; tatara — малый, 21 доска) — вершина ремесла тау, традиционные цвета: красный (горная красная земля), белый (переплённая ракушки), чёрный (котелёный сажа), глазок-круг на носу — самый известный культурный символ тау[^28].
 
-![Традиционное сборное каноэ тау, Ланью, август 2015 года. Большое каноэ chinurikuran из 27 досок вмещает 8–10 человек; малое tatara — из 21 доски. Круглый тотем глазка — самый известный культурный символ тау.](/article-images/geography/taitung-03.webp)
+![Традиционное сборное каноэ тау, Ланью, август 2015 года. Большое каноэ chinurikuran из 27 досок вмещает 8–10 человек; малое tatara — из 21 доски. Круглый тотем глазка — самый известный культурный символ тау.](/article-images/geography/taitung-tao-plank-boat-2015.webp)
 _Традиционное сборное каноэ тау, 2015-08-02. Photo: Cho Hsun Lu. [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:The_Traditional_Boat_Of_Tao_People_(228631843).jpeg).\_
 
 Климат Ланью — тропический морской, годовые осадки свыше 3000 мм (далеко превышают ~1900 мм в Тайдуне в Цзюгун и 1500 мм на подветренном склоне Хайаньшань). **Традиционные полуземлянки тау (talakaval)** спроектированы именно под этот климат: низкие, полувземлённые, стены из земли для изоляции, северо-восточный муссон скользит по крыше[^29]. Сегодня в племени Еинь лучше всего сохранён комплекс традиционных полуземлянок — единственный на всём Ланью старый тип поселения, где всё ещё живут люди.
