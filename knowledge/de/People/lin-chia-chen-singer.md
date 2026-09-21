@@ -15,7 +15,11 @@ imageCredit: '桃園市政府新聞聯繫科 / Wikimedia Commons'
 imageLicense: 'Attribution'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan.nch.ntnu.apo-hsu.2005-10a.altonthompson.jpg'
 readingTime: 6
-rationale: "{'why_this_hook': '以早餐店舞步、房間 Demo 與不插電演出串起林佳辰從團體成員到個人創作者的轉向。', 'whats_excluded': '不把未經本人或唱片公司證實的私人戀情與八卦作為人物核心。', 'where_it_hedges': '對作品意義採策展分析，事實主張只使用具體文章頁與官方作品頁。', 'whos_pushing_back': '偶像轉型不等於離開團體，文章保留 Ozone 成員關係與團體創作脈絡。'}"
+rationale:
+  why_this_hook: '以早餐店舞步、房間 Demo 與不插電演出串起林佳辰從團體成員到個人創作者的轉向。'
+  whats_excluded: '不把未經本人或唱片公司證實的私人戀情與八卦作為人物核心。'
+  where_it_hedges: '對作品意義採策展分析，事實主張只使用具體文章頁與官方作品頁。'
+  whos_pushing_back: '偶像轉型不等於離開團體，文章保留 Ozone 成員關係與團體創作脈絡。'
 curation: 'incubating'
 translatedFrom: 'People/林佳辰.md'
 sourceCommitSha: '2187c1c9c'

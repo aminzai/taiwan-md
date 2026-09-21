@@ -6,7 +6,11 @@ category: 'Lifestyle'
 tags:
   ['Leofoo Village', 'Themenpark', 'Wildpark', 'Hsinchu Guanxi', 'Tierschutz']
 subcategory: '休閒與娛樂'
-rationale: "{'why_this_hook': '從 1979 年野生動物公園先於主題樂園的順序，理解六福村如何把動物觀看與高速遊樂綁在一起。', 'whats_excluded': '不重寫全台消失樂園史，也不做動物園名錄或遊客攻略。', 'where_it_hedges': '對動保團體指控明確標示來源立場，不把倡議內容改寫成法院已認定的事實。', 'whos_pushing_back': '園方許可公告與監察院、中央社及動保團體材料的觀點互相對照。'}"
+rationale:
+  why_this_hook: '從 1979 年野生動物公園先於主題樂園的順序，理解六福村如何把動物觀看與高速遊樂綁在一起。'
+  whats_excluded: '不重寫全台消失樂園史，也不做動物園名錄或遊客攻略。'
+  where_it_hedges: '對動保團體指控明確標示來源立場，不把倡議內容改寫成法院已認定的事實。'
+  whos_pushing_back: '園方許可公告與監察院、中央社及動保團體材料的觀點互相對照。'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

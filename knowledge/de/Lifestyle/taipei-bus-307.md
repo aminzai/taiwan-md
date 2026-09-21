@@ -9,7 +9,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '用不用上高速公路的反差，寫一條留在地面卻跨越雙北生活圈的公車。', 'whats_excluded': '不把 307 寫成單純路線百科，也不把所有乘客都概括成同一種童年。', 'where_it_hedges': '童年記憶採策展式轉述，不宣稱每位乘客都有相同經驗。', 'whos_pushing_back': '捷運分流、營運公司更替與路線調整，讓 307 的「公車之王」稱號必須放回年份理解。'}"
+rationale:
+  why_this_hook: '用不用上高速公路的反差，寫一條留在地面卻跨越雙北生活圈的公車。'
+  whats_excluded: '不把 307 寫成單純路線百科，也不把所有乘客都概括成同一種童年。'
+  where_it_hedges: '童年記憶採策展式轉述，不宣稱每位乘客都有相同經驗。'
+  whos_pushing_back: '捷運分流、營運公司更替與路線調整，讓 307 的「公車之王」稱號必須放回年份理解。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Lifestyle/307taipeibus.md'

@@ -9,7 +9,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
-rationale: "{'why_this_hook': '從跨行政區的地下縫合切入板南線，而不是重述既有捷運發展史。', 'whats_excluded': '排除完整台北捷運年表、票價指南與逐站旅遊介紹。', 'where_it_hedges': '不把高運量合計誤寫成板南線單線運量，也不把通車直接等同於房價必然上漲。', 'whos_pushing_back': '龍山寺商圈與都市研究提醒，交通便利不必然轉成營收，站區發展也可能推動商業化與住宅外移。'}"
+rationale:
+  why_this_hook: '從跨行政區的地下縫合切入板南線，而不是重述既有捷運發展史。'
+  whats_excluded: '排除完整台北捷運年表、票價指南與逐站旅遊介紹。'
+  where_it_hedges: '不把高運量合計誤寫成板南線單線運量，也不把通車直接等同於房價必然上漲。'
+  whos_pushing_back: '龍山寺商圈與都市研究提醒，交通便利不必然轉成營收，站區發展也可能推動商業化與住宅外移。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/板南線.md'

@@ -23,7 +23,11 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-24
 lastHumanReview: false
-rationale: "{'why_this_hook': '以樂生療養院作為入口，理解台灣公共衛生、疾病污名、居住權與文化資產保存如何在同一個院區交會。', 'whats_excluded': '不把個別院民病歷、未公開的私人生活與未經核實的口述細節寫成公共敘事，也不以醫療建議取代歷史說明。', 'where_it_hedges': '對建築棟數、院民人數與工程方案採官方或直接報導可核對的時間點，不把不同年代的數字混為現況。', 'whos_pushing_back': '同時呈現政府的公共建設與醫療治理視角、院民的居住權主張、保存團體的人權批判，以及媒體與學術研究的不同敘事。'}"
+rationale:
+  why_this_hook: '以樂生療養院作為入口，理解台灣公共衛生、疾病污名、居住權與文化資產保存如何在同一個院區交會。'
+  whats_excluded: '不把個別院民病歷、未公開的私人生活與未經核實的口述細節寫成公共敘事，也不以醫療建議取代歷史說明。'
+  where_it_hedges: '對建築棟數、院民人數與工程方案採官方或直接報導可核對的時間點，不把不同年代的數字混為現況。'
+  whos_pushing_back: '同時呈現政府的公共建設與醫療治理視角、院民的居住權主張、保存團體的人權批判，以及媒體與學術研究的不同敘事。'
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Geography/樂生療養院.md'

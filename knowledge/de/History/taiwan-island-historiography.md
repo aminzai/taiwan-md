@@ -22,7 +22,11 @@ image: '/article-images/history/formosa-dutch-map-1640.webp'
 imageCredit: '荷蘭人繪 / Wikimedia Commons'
 imageLicense: '公有領域 (Public domain)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
-rationale: "{'why_this_hook': '從「誰統治台灣」轉成「台灣發生了什麼」，讓一般讀者先理解史觀解決的問題，再進入曹永和與學術脈絡。', 'whats_excluded': '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。', 'where_it_hedges': '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。', 'whos_pushing_back': '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'}"
+rationale:
+  why_this_hook: '從「誰統治台灣」轉成「台灣發生了什麼」，讓一般讀者先理解史觀解決的問題，再進入曹永和與學術脈絡。'
+  whats_excluded: '不展開完整臺灣史年表，不把半導體、民主化或當代政治全部倒推成島嶼性；這些只作為可被啟發的當代延伸。'
+  where_it_hedges: '生活化例子只作公共感覺的詮釋橋段；鄭南榕「小而多山的國家」引語因未完成穩定來源查核，暫不直接引用。'
+  whos_pushing_back: '期待完整學術史回顧者、擔心島史觀抹平族群差異者、認為台灣史應放回中國史或帝國史框架者。'
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: 'a1c3748b5'
 sourceContentHash: 'sha256:584f286b403c0d75'
