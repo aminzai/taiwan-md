@@ -40,10 +40,10 @@ imageCredit: 'Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg'
 translatedFrom: 'Geography/北投溫泉街.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fb76ac27fc6cd3ba'
-sourceBodyHash: 'sha256:a32189fb31dd0c7d'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2c4fe0156269ff13'
+sourceBodyHash: 'sha256:123f0a9f012e26b6'
+translatedAt: '2026-09-21T05:39:56.881783+00:00'
 ---
 
 # Rua das Termas de Beitou: de 1697, extração de enxofre, a 2026, Expo de Banhos Termais — a mesma nascente de montanha, quatro gerações de moradores
@@ -130,24 +130,24 @@ O terminal era a "Plataforma de Xinbeitou" (depois Estação Xinbeitou), edifíc
 
 > **📝 Nota do curador:** Você pode ver o balneário de 1913 e o ramal de 1916 como duas peças do mesmo sistema. O edifício de Moriyama é essencialmente uma **máquina de propaganda material do império**: empacotar uma nascente desconhecida dos japoneses como "maior balneário público da Ásia Oriental" + "primeira ferrovia turística de Taiwan" + "20 minutos de Taipé" + "uso imperial" (viria depois) numa marca combinada. A marca funcionou: fez o público metropolitano saber que "a colônia Taiwan tem um paraíso termal chamado Beitou". Mas a marca não foi desenhada para os Ketagalan, nem para os colonizadores han remanescentes do Qing; **foi desenhada para os viajantes do Império Japonês**. Quando o balneário de tijolos vermelhos ergueu-se, a rua virou vitrine do império.
 
-## 1923, o príncipe herdeiro banhou-se uma vez
+## 1923: O príncipe herdeiro Hirohito deu um banho
 
-![Foto de registro da visita do príncipe herdeiro Hirohito ao Balneário Público de Beitou em 25 de abril de 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
-_Foto de registro da visita do príncipe herdeiro Hirohito ao balneário público de Beitou em 1923. Foto: domínio público (documentos pré-guerra, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown_Prince_Hirohito%27s_visit_at_Hokutō_Public_Bathhouse_1923.jpg)._
+![Foto da visita do príncipe herdeiro Hirohito ao balneário público termal de Beitou em 1923](/article-images/geography/beitou-hirohito-public-bathhouse-1923.webp)
+_Foto da visita do príncipe herdeiro Hirohito ao balneário público termal de Beitou em 1923. Photo: Public domain (arquivos pré-guerra, 1923). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crown%20Prince%20Hirohito%27s%20visit%20at%20Hokutō%20Public%20Bathhouse%201923.jpg)._
 
-Em 1923 (12.º ano de Taishō), abril, **o príncipe herdeiro Hirohito** (futuro imperador Shōwa), como regente do imperador Taishō, visitou Taiwan por 12 dias[^6]. Primeira vez que a família imperial visitava a colônia Taiwan.
+Em abril de 1923 (ano 12 do reinado de Taishō), o **príncipe Hirohito** (que viria a se tornar o imperador Showa) visitou Taiwan por 12 dias em nome do imperador Taishō[^6]. Esta foi a primeira visita de um membro da família imperial japonesa à colônia de Taiwan.
 
-Em 25 de abril, a agenda de Hirohito incluía Caoshan (hoje Yangmingshan) e Beitou. Para recebê-lo, a Província de Taipé adiantou reformas no ano anterior: no balneário público, **o segundo andar ganhou mais de 30 _tsubo_ de "Salão de Repouso Imperial"**, espaço de descanso exclusivo do príncipe, hoje a sala audiovisual do museu[^6].
+No dia 25 de abril, o itinerário do príncipe incluiu uma parada em Caishan (atualmente Yangmingshan) e Beitou. Para recebê-lo, o governo do distrito de Taipei começou as reformas com um ano de antecedência: no segundo andar do balneário de tijolos vermelhos, foi adicionada uma sala de mais de 30 pingos chamada **「御休所」** (sala de repouso exclusiva do príncipe), que corresponde ao local onde hoje se encontra a sala de audiovisualização do Museu das Termas de Beitou[^6].
 
-Naquele dia, Hirohito visitou o balneário e foi ao Córrego Beitou ver a "Hokutolite", que 18 anos antes Okamoto Yōhachirō descobrira e já era orgulho acadêmico do império[^11]. Para que o príncipe pudesse caminhar pelo córrego observando o mineral, colocaram **pedras de salto (飛石, _tobiishi_)** especialmente acima da segunda cachoeira[^20].
+Naquele dia, o príncipe visitou primeiro o balneário público e depois caminhou até as margens do riacho de Beitou para ver a "pedra de Beitou", um minério que Ogata Hōkōu havia descoberto 18 anos antes e que já era um orgulho científico do Império Japonês[^11]. Para permitir que o príncipe caminhasse ao longo do riacho observando a pedra, foram colocadas pedras chamadas **「飛石（とびいし）」** (pedras japonesas para pisar) na segunda queda d'água[^20].
 
-Em 1934 (11 anos depois), cidadãos ergueram à beira da segunda cachoeira o **"Monumento Comemorativo da Travessia do Príncipe Herdeiro"**[^20]. No pós-guerra, a estela quase foi destruída; felizmente preservada, hoje está no pátio do Takinoyu[^20].
+Em 1934 (11 anos depois), para comemorar o aniversário daquele dia, uma placa comemorativa chamada **「皇太子殿下御渡涉記念碑」** foi erguida na margem da segunda queda do riacho de Beitou[^20]. Após a guerra, a placa quase foi destruída, mas foi preservada e até hoje se encontra no pátio do spa Takinoyu[^20].
 
-Após o banho do príncipe, a fama de "aval imperial" espalhou-se pelo Japão. Em todos os anos 1920-30, Beitou ganhou mais estalagens: 1921, o **Hotel Kasanyama** (佳山旅館), na área de Xinbeitou, posição mais alta e mais luxuoso, único edifício japonês de dois andares puramente em madeira sobrevivente em Taiwan (pós-guerra virou Casa de Hóspedes Kasanyama do Ministério das Relações Exteriores; 1983, Zhang Chunming da Sanfu Chemical assumiu e transformou em Casa de Arte Popular de Taiwan, hoje **Museu de Arte de Beitou**)[^21]. O **Takinoyu** (瀧乃湯), de 1907, seguiu como balneário popular (pós-guerra renomeado e ativo até hoje; 2016, primeira grande reforma em 60 anos; 2017, reabertura)[^22]. O Templo Puji manteve o incenso à Guanyin Guardiã das Águas.
+Depois que o príncipe Hirohito tomou banho termal naquele dia, a reputação de "certificação imperial" de Beitou se espalhou por todo o Japão. Durante os anos 1920 e 1930, mais e mais hotéis foram construídos em Beitou: o **Hotel Misaka**, construído em 1921, era o hotéis de madeira de dois andares mais alto e luxuoso da região de Nova Beitou, sendo uma das poucas construções desse tipo que sobreviveram na Taiwan (após a guerra, foi convertido no Consulado Especial do Ministério das Relações Exteriores, e em 1983, adquirido por Chang Chun-ming da empresa Sanfeng Química e transformado na **Casa de Artes e Tradições de Taiwan**, conhecida hoje como Museu de Beitou)[^21]. O **Takinoyu**, construído em 1907, continuou operando como banho público (mantendo o nome até os dias atuais, passando por uma grande reforma em 2016 e reabrindo em 2017)[^22]. O templo Puji também manteve a tradição do banho sagrado com a deusa da água termal.
 
-Como era Beitou então? Japoneses abastados em lua de mel, empresas em banquetes, oficiais em convalescença; assalariados taiwaneses ocasionalmente convidados a acompanhar. Em 1937, com a Guerra Sino-Japonesa, as estalagens passaram a receber militares japoneses; o Kasanyama chegou a ser requisitado como "Clube de Oficiais Japoneses"[^21]. Final da guerra, pilotos _kamikaze_ na semana anterior à saída eram mandados a Beitou para farra (relato de anciãos locais)[^21].
+Como era Beitou naquela época? Pessoas ricas do Japão vinham passar a lua de mel, companhias comerciais organizavam banquetes, oficiais vinham se tratar, e ocasionalmente eram convidados os trabalhadores taiwaneses. Após o início da Guerra Sino-Japonesa em 1937, os hotéis de Beitou começaram a receber soldados japoneses, e o Hotel Misaka foi temporariamente utilizado como "Clube dos Oficiais Japoneses"[^21]. No final da guerra, os kamikazes eram enviados para se divertir em Beitou uma semana antes de partir para suas missões (segundo relatos de idosos locais)[^21].
 
-Agosto de 1945: rendição japonesa; todos os japoneses repatriaram; restou uma rua termal vazia e um grupo de taiwaneses sem saber o que viria.
+Em agosto de 1945, com a rendição do Japão, todos os japoneses deixaram o país, deixando uma rua de banhos vazia e desolada, junto com um grupo de taiwaneses que não sabiam o que viria a seguir.
 
 ## Vinte anos de pós-guerra: _nakashi_, casas de chá, militares americanos
 
