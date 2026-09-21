@@ -18,9 +18,11 @@ category: 'Food'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg/960px-%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg'
+image: '/article-images/food/keelung-kanziding-fish-market-2007.webp'
 imageAlt: 'Marché aux poissons de Kanziding à Keelung'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Jay Fang / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg'
 translatedFrom: 'Food/台灣海鮮文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b19eaae2749a2675'

@@ -26,13 +26,15 @@ readingTime: 18
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
 translatedFrom: 'Geography/花蓮縣.md'
 sourceCommitSha: 'b74252d93'
 sourceContentHash: 'sha256:405286ffbb97b596'
 sourceBodyHash: 'sha256:367ba2e7b9a712c5'
 translatedAt: '2026-07-26T03:41:21+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
-imageCredit: Fred Hsu
+image: '/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp'
+imageCredit: 'Fred Hsu / Wikimedia Commons'
 ---
 
 # Hualien : les Sakizaya, invisibles pendant 129 ans, le Taroko, reconquis par la reconnaissance officielle, mais éloigné à nouveau par le 0403

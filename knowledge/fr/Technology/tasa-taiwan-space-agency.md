@@ -18,6 +18,8 @@ readingTime: 28
 lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
+imageLicense: 'Fair use editorial commentary（©TASA）'
+imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
 translatedFrom: 'Technology/國家太空中心.md'
 sourceCommitSha: '82c0407f6'
 sourceContentHash: 'sha256:84d56ad19effe1d5'

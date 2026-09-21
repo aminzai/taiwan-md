@@ -31,10 +31,6 @@ sourceCommitSha: '4aa49c873'
 sourceContentHash: 'sha256:112ba1c658fb3b9a'
 sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-05-19T05:08:07+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Fort_San_Domingo.jpg/1280px-2017_Fort_San_Domingo.jpg
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/Category:Fort_Santo_Domingo
 ---
 
 # New Taipei : la métropole annulaire qui entoure Taipei, où 4,01 millions d’habitants portent les trajets pendulaires, l’industrie et la mémoire de la capitale

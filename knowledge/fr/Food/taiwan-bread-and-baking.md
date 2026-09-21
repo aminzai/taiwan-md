@@ -7,14 +7,16 @@ subcategory: 'Boulangerie et pâtisserie'
 category: 'Food'
 author: 'Taiwan.md Contributors'
 featured: false
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: 'Food/台灣麵包與烘焙.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:e4c169783e32f5c2'
 sourceBodyHash: 'sha256:79036ef58165be78'
 translatedAt: '2026-05-17T05:33:00Z'
-image: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/TaiwanesePineappleCake.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/taiwanese-pineapple-cake.webp'
+imageCredit: 'Kwb / Wikimedia Commons'
 lastHumanReview: false
 ---
 

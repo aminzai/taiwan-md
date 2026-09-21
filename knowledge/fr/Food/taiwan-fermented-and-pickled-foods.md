@@ -19,13 +19,15 @@ readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:c2ef664839dd9cc6'
 sourceBodyHash: 'sha256:b693c93c53efd3dc'
 translatedAt: '2026-05-20T05:08:34+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg/960px-%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
+imageCredit: 'Rochi / Wikimedia Commons'
 difficulty: 'intermediate'
 ---
 

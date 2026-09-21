@@ -28,7 +28,7 @@ viewpoint_formed: true
 spine_type: '立體群像'
 image: '/article-images/culture/shopping-design-designbiz-2022-banner.jpg'
 imageCredit: 'Shopping Design／DesignBIZ Fest'
-imageLicense: 'Fair use (editorial commentary)'
+imageLicense: 'Fair use（editorial commentary）'
 imageSource: 'https://designbiz.shoppingdesign.com.tw/2022/'
 rationale:
   why_this_hook: 'La couverture blanche du premier numéro face à celle « acheter du design blanc » du numéro 100 : le même blanc onze ans plus tard, plus deux mots, « acheter » = transformer le goût en action = distinguer. Chaleureux, concret, avec du suspense (ce qu’il reste à distinguer, c’est la revue elle-même), sans « gotcha » préparé d’avance.'

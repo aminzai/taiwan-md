@@ -22,6 +22,8 @@ tags:
 lastVerified: 2026-05-18
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A5%92%E6%B2%B3%E8%A1%97%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82_173356.jpg'
 translatedFrom: 'Food/台灣美食總覽.md'
 sourceCommitSha: '53dd93dd8'
 sourceContentHash: 'sha256:4e63535e7555a67e'

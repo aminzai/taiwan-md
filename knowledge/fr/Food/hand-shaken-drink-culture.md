@@ -18,13 +18,15 @@ readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:874c652bf8f5b63c'
 sourceBodyHash: 'sha256:53b616e81595b8c6'
 translatedAt: '2026-05-20T05:08:34+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/classic-bubble-tea-2013.webp'
+imageCredit: 'Oqmilteashop / Wikimedia Commons'
 ---
 
 # La culture des boissons à emporter taïwanaises

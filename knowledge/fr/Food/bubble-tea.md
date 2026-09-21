@@ -17,9 +17,11 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
+image: '/article-images/food/classic-bubble-tea-2013.webp'
 imageAlt: 'Bubble tea classique'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Oqmilteashop / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
 sourceCommitSha: '30569f74'
 sourceContentHash: 'sha256:d90e80b19559290b'

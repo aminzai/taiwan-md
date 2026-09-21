@@ -16,6 +16,8 @@ tags:
 lastVerified: 2026-07-20
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Baozhong_Junior_High_School_Students_Using_Junyi_Academy.jpg'
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
