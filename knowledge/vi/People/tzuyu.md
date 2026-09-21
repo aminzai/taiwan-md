@@ -18,7 +18,7 @@ tags:
 readingTime: '16'
 lastVerified: '2026-04-14'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'People/周子瑜.md'
 sourceCommitSha: 'd520299ba'
 sourceContentHash: 'sha256:08c9b5bb374704b8'

@@ -1,4 +1,6 @@
 ---
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 translatedFrom: 'Food/台灣手路菜.md'
 sourceCommitSha: 'b0e441faa'
 sourceContentHash: 'sha256:976bf813ab549fe2'
@@ -22,9 +24,9 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/960px-Sanbeiji.jpg'
+image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
 imageAlt: 'Gà ba chén'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Archon6812 / Wikimedia Commons'
 ---
 
 > **30 giây tóm tắt:** "Tay khéo" là Mân Nam Đài Loan có nghĩa "đặc sản riêng"[^1], chỉ những món ăn cần kỹ năng thực sự, không có công thức chuẩn, phụ thuộc vào truyền thụ miệng miệng từ thầy sang trò. Nơi thể hiện tập trung nhất là "tiệc rong" — dựng lều bên đường, nấu tại chỗ, là truyền thống tiệc yến của Đài Loan. Cao Hùng Nội Môn vì đất đai khô cằn trở nên quê hương của các đầu bếp chuyên trách có mật độ cao nhất toàn Đài Loan, thời kỳ vàng một công ty tổ chức 25.000 bàn tiệc một năm. Nhưng trong hai mươi năm từ tiệc khách sạn đến COVID-19, lệnh gọi tiệc rong giảm chín mươi phần trăm, kéo theo không chỉ vị của những món ăn mà còn cả "tặng lại canh tàn" — một hình thức hỗ trợ lẫn nhau giữa các hàng xóm.

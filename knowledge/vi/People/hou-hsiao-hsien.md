@@ -23,9 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:64e8c8786128b4a02a1bf3b298bda29c5e7d3984c0d1de37404c1cd415fd2aed'
 sourceBodyHash: 'sha256:f45738972488ac8144e13a3118154b2a4663b54ba405f24cb6b8795f1493b6e1'
 translatedAt: 2026-07-31T00:00:00Z
-imageCredit: ''
 difficulty: 'trung bình'
-image: ''
 imageAlt: 'Hầu Hiếu Hiền, đạo diễn Đài Loan, nhà thơ điện ảnh từ chối cảnh chân dung'
 ---
 

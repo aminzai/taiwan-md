@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Địa hình và địa chất'
 author: 'Taiwan.md'
-featured: true
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: true
 difficulty: 'intermediate'

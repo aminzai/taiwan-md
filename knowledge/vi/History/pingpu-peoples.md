@@ -30,7 +30,6 @@ sourceBodyHash: 'sha256:a29e7e59d8da2652'
 translatedAt: '2026-08-09T08:07:25+08:00'
 relatedDiary: []
 sporeLinks: []
-imageCredit: []
 ---
 
 > **Tóm lược 30 giây:** Các dân tộc Pingpu không biến mất trong dòng máu người Hán, mà bị "định dạng" bởi hệ thống hành chính. Vào ngày 30 tháng 7 năm 2026, Tây La Á chính thức được công nhân là dân tộc bản địa pháp định thứ 17 của Đài Loan, phá vỡ bế tắc công nhân danh kéo dài 30 năm. Sự thay đổi này kết thúc cái vô lý của "không có tên trên giấy chứng minh thân phận", đánh dấu rằng Đài Loan đang chuyển từ lịch sử kể chuyện về một quốc gia duy nhất sang một triển vọng văn hóa đa dạng và tinh tế hơn.

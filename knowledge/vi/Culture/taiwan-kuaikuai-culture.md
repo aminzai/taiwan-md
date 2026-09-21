@@ -14,7 +14,7 @@ tags:
   ]
 lastVerified: '2026-03-21'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣乖乖文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:b95317cbf18e6ec7'

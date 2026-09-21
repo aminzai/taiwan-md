@@ -29,7 +29,7 @@ lastVerified: 2026-05-19
 lastHumanReview: false
 image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
-imageLicense: 'CC0 1.0 Public Domain'
+imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
 relatedDiary: []
 sporeLinks: []

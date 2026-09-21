@@ -16,10 +16,12 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Taiwanese_vegetarian_sign.jpg'
+image: '/article-images/food/taiwanese-vegetarian-sign.webp'
 imageAlt: 'Biểu tượng ăn chay của Đài Loan'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'user:takoradee / Wikimedia Commons'
 readingTime: 8
+imageLicense: 'CC BY 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwanese_vegetarian_sign.jpg'
 translatedFrom: 'Food/台灣素食文化.md'
 sourceCommitSha: '85926aa3'
 sourceContentHash: 'sha256:0b3c1a3c4196e3e0c5956e73e9cda3dfb05b5ef023b6f341343414b4f388c1ec'

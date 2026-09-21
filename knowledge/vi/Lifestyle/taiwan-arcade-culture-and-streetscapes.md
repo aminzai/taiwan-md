@@ -11,8 +11,6 @@ readingTime: null
 lastVerified: 2026-03-20
 lastHumanReview: true
 imageAlt: null
-image: null
-imageCredit: null
 difficulty: null
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
 sourceCommitSha: '4b6d28c5'

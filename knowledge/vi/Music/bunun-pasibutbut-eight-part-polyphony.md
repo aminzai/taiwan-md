@@ -17,9 +17,7 @@ author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg'
 imageAlt: 'Người Bunun trình diễn hợp xướng tám bè'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Music/八部合音.md'
 sourceCommitSha: '37638e173'
 sourceContentHash: 'sha256:3c2872e562b3f229'

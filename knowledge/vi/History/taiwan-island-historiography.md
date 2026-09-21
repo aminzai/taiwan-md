@@ -17,6 +17,8 @@ tags:
 lastVerified: 2026-07-10
 lastHumanReview: false
 featured: true
+imageLicense: '公有領域 (Public domain)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: 'a1c3748b'
 sourceContentHash: 'sha256:584f286b403c0d75'

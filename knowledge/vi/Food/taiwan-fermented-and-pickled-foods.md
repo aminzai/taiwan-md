@@ -1,6 +1,8 @@
 ---
 title: 'Văn hóa lên men và muối chua của Đài Loan'
 description: 'Từ đậu hũ thối đến đậu hũ lên men, khám phá công nghệ lên men độc đáo và truyền thống muối chua của Đài Loan'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:c2ef664839dd9cc6'
@@ -25,9 +27,9 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg/960px-%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
+image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
 imageAlt: 'Đậu hũ thối'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Rochi / Wikimedia Commons'
 ---
 
 # Văn hóa lên men và muối chua của Đài Loan

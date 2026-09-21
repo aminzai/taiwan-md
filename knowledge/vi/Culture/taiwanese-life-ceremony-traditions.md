@@ -17,7 +17,7 @@ tags:
 readingTime: '14'
 lastVerified: '2026-03-19'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:23a33f282c63dd9f'

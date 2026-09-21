@@ -25,8 +25,6 @@ sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
 translatedAt: 2026-07-31T00:00:00Z
 imageAlt: 'Sân khấu của một buổi biểu diễn âm nhạc độc lập với ban nhạc trên sân khấu'
-image: null
-imageCredit: null
 ---
 
 **Tổng quan 30 giây: Năm 1986, Nhân Tướng Đạt (một thanh niên lai Hàn–Nhật) vay 300,000 tệ mới để mua lại một cửa hàng đĩa sắp đóng cửa — Quartz. Anh bắt đầu nhập khẩu "âm nhạc mà không ai muốn nghe" cho Đài Loan. Bốn mươi năm sau, từ hệ sinh thái dài lên từ cửa hàng đó (live house, nhãn hiệu độc lập, StreetVoice, giải thưởng âm nhạc sáng tạo vàng), một ban nhạc bán đĩa tại quán cà phê được gửi lên sân khấu giải thưởng âm nhạc vàng, và một ban nhạc hát toàn tiếng Anh từ Đài Bắc được gửi lên Coachella. Bốn mươi năm âm nhạc độc lập Đài Loan là một cuộc tiếp sức không có điểm kết thúc: mỗi đoạn chạy với tất cả sức lực, mỗi đoạn cảm thấy như sắp bị loại, nhưng cây đũa không bao giờ rơi.**

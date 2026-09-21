@@ -9,7 +9,7 @@ tags: ['Dân tộc bản địa', 'Văn hóa', 'Lễ hội', 'Ngôn ngữ', 'Sá
 readingTime: '9'
 lastVerified: '2026-03-29'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:36ecabdcaffefea4'

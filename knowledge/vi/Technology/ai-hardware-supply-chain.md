@@ -18,6 +18,7 @@ tags:
 lastVerified: 2026-07-11
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 4.0'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
 sourceCommitSha: '8f5e81ee5'
 sourceContentHash: 'sha256:96b285db19941653'

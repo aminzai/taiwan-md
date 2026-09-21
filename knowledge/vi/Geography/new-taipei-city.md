@@ -28,10 +28,6 @@ lastHumanReview: false
 readingTime: 18
 researchReport: reports/research/2026-05/新北市.md
 series: 'Loạt 22 tỉnh thành'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Fort_San_Domingo.jpg/1280px-2017_Fort_San_Domingo.jpg
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 4.0
-imageSource: https://commons.wikimedia.org/wiki/Category:Fort_Santo_Domingo
 translatedFrom: 'Geography/新北市.md'
 sourceCommitSha: '4aa49c873'
 sourceContentHash: 'sha256:112ba1c658fb3b9a'

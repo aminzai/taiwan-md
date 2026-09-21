@@ -20,7 +20,7 @@ lastHumanReview: false
 image: '/article-images/technology/formosat8-tasa-banner.webp'
 imageAlt: 'Thiết kế Hệ Vệ Tinh Phúc Vệ 8 Của Cơ Quan Vũ Trụ Đài Loan TASA'
 imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
-imageLicense: 'Fair use editorial commentary (©TASA)'
+imageLicense: 'Fair use editorial commentary（©TASA）'
 imageSource: 'https://www.tasa.org.tw/zh-TW/missions/detail/FORMOSAT-8'
 readingTime: 28
 sporeLinks:

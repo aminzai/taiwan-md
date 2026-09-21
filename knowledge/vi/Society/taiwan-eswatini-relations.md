@@ -26,7 +26,7 @@ lastHumanReview: false
 researchReport: reports/research/2026-05/taiwan-eswatini.md
 image: '/article-images/society/taiwan-eswatini-military-honor-2026.webp'
 imageCredit: '中華民國總統府'
-imageLicense: 'OGDL (Open Government Data License) — chính phủ công khai thông tin'
+imageLicense: 'OGDL (Open Government Data License) — 政府公開資訊'
 imageSource: 'https://english.president.gov.tw/News/7121'
 sporeLinks:
   - id: 61

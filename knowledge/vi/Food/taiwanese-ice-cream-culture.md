@@ -1,4 +1,6 @@
 ---
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:4dac67a4f3297b76'
@@ -14,9 +16,9 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Taipei_mangguobing.JPG/960px-Taipei_mangguobing.JPG'
+image: '/article-images/food/taipei-mango-shaved-ice.webp'
 imageAlt: 'Đá lạnh cạo xoài'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 ---
 
 # Văn hóa kem/đá lạnh của Đài Loan

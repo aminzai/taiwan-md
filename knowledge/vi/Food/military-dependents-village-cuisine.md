@@ -16,9 +16,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
 imageAlt: 'Bánh nếp hành hoa'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 8
 translatedFrom: 'Food/台灣眷村菜.md'
 sourceCommitSha: 'b185af4e7'

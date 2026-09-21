@@ -18,9 +18,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taiwan-Puppet-Show.jpg/800px-Taiwan-Puppet-Show.jpg'
 imageAlt: 'Biểu diễn thao tác búp bê Đài Loan'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
 readingTime: 12
 translatedFrom: 'Art/台灣傳統藝術.md'
 sourceCommitSha: 'b771a2011'

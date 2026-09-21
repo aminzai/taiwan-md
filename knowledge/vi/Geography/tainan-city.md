@@ -34,10 +34,6 @@ lastHumanReview: false
 readingTime: 18
 researchReport: reports/research/2026-05/台南市.md
 series: '22 Huyện Thị loạt phim（batch 4）'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Anping_Fort_1.JPG/1280px-Anping_Fort_1.JPG
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Anping_Fort_1.JPG
 translatedFrom: 'Geography/台南市.md'
 sourceCommitSha: '925aca59e'
 sourceContentHash: 'sha256:a92ec79c444536b4'

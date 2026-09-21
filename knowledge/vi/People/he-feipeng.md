@@ -8,7 +8,7 @@ subcategory: '數位與媒體'
 tags: ['Thành Bang Truyền Thông', 'Xuất bản nghiệp', 'Chuyển đổi số', 'Tự Hào']
 lastVerified: '2026-03-26'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/何飛鵬.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:c6c5b08befa8584a'

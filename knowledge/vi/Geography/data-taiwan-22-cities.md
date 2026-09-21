@@ -25,7 +25,7 @@ lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
 imageAlt: 'Ảnh vệ tinh chụp Đài Loan từ không gian, bình nguyên phía tây và dãy Trung ương phía đông rõ ràng'
 imageCredit: 'NASA'
-imageLicense: 'Public domain (NASA)'
+imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
 sourceCommitSha: '4437f6212'

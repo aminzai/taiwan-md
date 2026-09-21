@@ -17,7 +17,11 @@ tags:
 readingTime: '14'
 lastVerified: '2026-05-09'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
+image: '/article-images/economy/tsmc-fabs-hsinchu-2020.webp'
+imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 translatedFrom: 'Economy/台灣企業：台積電.md'
 sourceCommitSha: 'bb3e6a0b7'
 sourceContentHash: 'sha256:aa38ca96cac05f3e'

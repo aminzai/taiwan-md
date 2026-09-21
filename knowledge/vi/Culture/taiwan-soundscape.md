@@ -17,12 +17,14 @@ featured: false
 lastVerified: 2026-06-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/台灣聲景.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
+image: '/article-images/culture/shilin-night-market-soundscape-2015.webp'
 imageAlt: 'Đám đông người đông đúc tại chợ đêm Tây Lâm, một không gian âm thanh đa dạng nhất, mật độ cao nhất ở Đài Loan'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Richy / Wikimedia Commons'
 relatedDiary:
   - 2026-06-26-181414-manual
   - 2026-06-30-212125-manual-聲景回響
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Culture/台灣聲景.md'
 sourceCommitSha: '8b61d368e'
 sourceContentHash: 'sha256:819a7ee143f7b981'

@@ -19,9 +19,7 @@ lastVerified: 2026-03-19
 lastHumanReview: true
 readingTime: 8
 difficulty: intermediate
-image: ''
 imageAlt: 'Đạo diễn Trần Ngọc Huân'
-imageCredit: ''
 translatedFrom: 'People/陳玉勳.md'
 sourceCommitSha: 'f712b724'
 sourceContentHash: 'sha256:bc132f506d9946e5'

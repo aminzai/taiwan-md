@@ -17,10 +17,12 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
+image: '/article-images/food/classic-bubble-tea-2013.webp'
 imageAlt: 'Thức uống trà sữa pha lắc Đài Loan'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Oqmilteashop / Wikimedia Commons'
 readingTime: 8
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:2d50f656746076d7399314cc452ac13a8183bf024d400a8ac5fb67be6517900b'

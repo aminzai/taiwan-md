@@ -17,7 +17,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-03-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/巧固球.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:01a29994f0cdcf17'

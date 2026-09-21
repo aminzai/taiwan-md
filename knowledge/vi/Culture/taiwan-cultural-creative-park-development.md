@@ -23,8 +23,6 @@ sourceBodyHash: 'sha256:fb4423c4414816f5'
 translatedAt: '2026-07-31T00:00:00Z'
 readingTime: 7
 difficulty: 'intermediate'
-image: null
-imageCredit: null
 imageAlt: null
 ---
 

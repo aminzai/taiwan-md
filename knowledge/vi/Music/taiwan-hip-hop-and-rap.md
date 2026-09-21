@@ -24,7 +24,7 @@ researchReport: 'reports/research/2026-06/台灣嘻哈與饒舌發展.md'
 viewpoint_formed: true
 image: '/article-images/music/nine-one-one-2016.webp'
 imageCredit: '臺中市政府新聞局（Wikimedia Commons）'
-imageLicense: 'Quy định công khai dữ liệu của chính phủ (Chỉ định tên)'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:玖壹壹_2016.jpg'
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: '3d2adaeb8'

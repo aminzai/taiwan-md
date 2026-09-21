@@ -18,10 +18,12 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
+image: '/article-images/food/raohe-street-night-market-entrance-2017.webp'
 imageAlt: 'Cảnh đêm cổng vào phía đông của chợ đêm Đạo Hà, các biển hiệu neon nhấp nháy'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+imageCredit: 'Ken Marshall / Wikimedia Commons'
 readingTime: 12
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
 sourceCommitSha: '1facb1b9'
 sourceContentHash: 'sha256:31bf1b84f1551bd978cddaf6c682e382672481231673f97683bf54699f4fb576'

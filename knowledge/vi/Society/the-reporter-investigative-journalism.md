@@ -21,7 +21,7 @@ researchReport: reports/research/2026-06/報導者-evolve-20260614.md
 viewpoint_formed: true
 image: '/article-images/society/the-reporter-brand-logo.webp'
 imageCredit: '報導者 The Reporter'
-imageLicense: 'Fair use (editorial commentary)'
+imageLicense: 'Fair use（editorial commentary）'
 imageSource: 'https://www.twreporter.org'
 rationale:
   why_this_hook: '«Tốc độ đốt tiền luôn chạy nhanh hơn tốc độ gây quỹ» nắm bắt được căng thẳng cốt lõi của báo chí điều tra phi lợi nhuận: cuộc đua giữa cấu trúc chi phí và cấu trúc thu nhập, trung thực hơn và có kịch tính hơn cái «phương tiện truyền thông công dân rất tuyệt vời».'

@@ -21,7 +21,7 @@ readingTime: 17
 curation: incubating
 image: '/article-images/history/taichung-prefectural-hall-exterior.webp'
 imageCredit: '臺中市文化資產處／國家文化資產網'
-imageLicense: 'Tuân theo giấy phép và tuyên bố mở cửa dữ liệu chính phủ từ trang nguồn gốc'
+imageLicense: '依原來源頁授權與政府資料開放宣告'
 imageSource: 'https://www.tchac.taichung.gov.tw/building?uid=33&pid=18'
 rationale:
   why_this_hook: 'Bắt đầu từ tư thế của Dinh Thống Đốc Đài Trung đứng tại giao lộ đường phố. Nó không phải là một di tích được thành phố bao quanh, mà từng sắp xếp các dinh chứ, đường phố, ngân hàng, bưu điện và hành chính địa phương thành một trật tự có thể nhìn thấy được.'
