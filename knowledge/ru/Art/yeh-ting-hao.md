@@ -33,10 +33,10 @@ imageCredit: '臺中國家歌劇院 NTT'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=_-L_wAYDmBs'
 translatedFrom: 'Art/葉廷皓.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:63b47718f8145b2c'
-sourceBodyHash: 'sha256:04f5859af8f97035'
-translatedAt: '2026-07-29T12:59:31+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:a5453a6f1dbec222'
+sourceBodyHash: 'sha256:8bfc60cfb32ca5a1'
+translatedAt: '2026-09-21T13:45:38.121741+00:00'
 ---
 
 ## Е Тиньхао: как «неправильное» использование технологий выродило неожиданного аудиовизуального художника, а в 43 года он оставил целую экосистему
@@ -231,20 +231,20 @@ C-LAB Future Vision Lab в Threads написал кратко: «В дружб�
 
 ## Источники изображений
 
-В статье использованы 3 кадра из официального документального фильма Национального театра оперы Тайчжун NTT «Реверберация фантомов», по **fair use editorial commentary** (согласно [Pipeline §1.9.2 пункт 8](../docs/pipelines/REWRITE-PIPELINE.md)). Все закэшированы в `public/article-images/art/` для избежания горячих ссылок на исходные серверы:
+В данной статье использованы 3 снимка из официального документального фильма «Эхо иллюзий» (幻象的殘響), снятого в Национальном театре оперы Тайваня (NTT), в рамках **редакционного комментария по принципу добросовестного использования** (fair use editorial commentary). Все изображения кэшированы в `public/article-images/art/` для предотвращения горячих ссылок на серверы.
 
-- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 1280×720 hero, первый кадр документального фильма. Photo: официальный канал Национального театра оперы Тайчжун NTT, Fair use editorial commentary on Yeh Ting-Hao's NTT residency work.
-- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, кадр настройки Е Тиньхао на месте. Photo: то же.
-- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — 480×360 scene-mid, фрагмент выступления с обволакивающей проекцией. Photo: то же.
+- [yeh-ting-hao-reverberation-hero-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — главный кадр 1280×720, первый снимок из документального фильма. Фото: официальный канал NTT Национального театра оперы Тайваня, Редакционный комментарий по работе Е Тиньхао в рамках резиденции NTT (Fair use editorial commentary on Yeh Ting-Hao's NTT residency work).
+- [yeh-ting-hao-reverberation-scene1-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — кадр сцены 480×360, процесс настройки Е Тиньхао. Фото: см. выше.
+- [yeh-ting-hao-reverberation-scene2-2024.jpg](https://www.youtube.com/watch?v=_-L_wAYDmBs) — кадр сцены 480×360, фрагмент проекционного перформанса. Фото: см. выше.
 
-### Границы изображений
+### Рекорд изображения
 
-Как современный аудиовизуальный художник, личные портреты Е Тиньхао, ранние записи выступлений, видеоматериалы других работ (вроде «Подсознательной машины», «Светового потока», «O.S.C.») находятся на личных сайтах, Instagram, Facebook, страницах выставок инстанций — всё это авторские материалы, защищённые авторским правом. Поиск Wikimedia Commons API («Е Тиньхао», «Yeh Ting-Hao», «Lacking Sound Festival», «Taiwanese sound artists») возвращает 0 результатов, нет PD/CC изображений. Кроме вышеуказанных 3 кадров NTT документального фильма по fair use, статья не включает другие видеоматериалы. Читатели могут искать видеозаписи Е Тиньхао по следующим ссылкам:
+Большинство визуальных материалов Е Тиньхао как современного медиахудожника, включая его личные портреты, ранние выступления и другие работы (такие как «Подсознательная машина», «Световой поток» (光流), «O.S.C.»), размещены на частных сайтах, в Instagram, Facebook или на страницах различных учреждений — это защищенные авторским правом материалы оригинальных авторов. Поиск по API Wikimedia Commons («葉廷皓», «Yeh Ting-Hao», «Lacking Sound Festival», «Taiwanese sound artists») не дал результатов (0 hits), поэтому доступных изображений в общественном достоянии (PD/CC) нет. За исключением вышеупомянутых 3 снимков из документального фильма NTT, в статье другие визуальные материалы не включены. Читатели могут найти визуальную документацию Е Тиньхао по следующим ссылкам:
 
-- Полный документальный фильм «Реверберация фантомов»: [YouTube — 2023-2024 резидентный художник театра оперы Е Тиньхао «Реверберация фантомов» документальный фильм](https://www.youtube.com/watch?v=_-L_wAYDmBs) (официальный канал Национального театра оперы Тайчжун NTT)
-- Альбом HH «remotion»: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) ／ [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
-- Записи работ «Зао Лю» (Fluid Noise): [DAC.Taipei статья Е Тиньхао Пута](https://dac.taipei/project/fluidnoise-puta)
-- Некрологический спецпроект кафедры новых медиа Северного университета искусств: [Е Тиньхао ПУТА: языком света и звука, продолжая дыхание в цифровой вселенной](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
+- Полный документальный фильм «Эхо иллюзий»: [YouTube — Документальный фильм о резиденте Национального театра оперы Тайваня 2023–2024 года, Е Тиньхао «Эхо иллюзий»](https://www.youtube.com/watch?v=_-L_wAYDmBs) (Официальный канал NTT Национального театра оперы Тайваня)
+- Альбом HH «remotion»: [Apple Music](https://music.apple.com/hk/album/remotion/1590081664) / [StreetVoice](https://streetvoice.com/hhlivetw/songs/album/97269529/)
+- Документация работ Fluid Noise: [Страница Е Тиньхао Puta на DAC.Taipei](https://dac.taipei/project/fluidnoise-puta)
+- Специальный проект Северного университета искусств по медиаискусству: [Е Тиньхао PUTA: Дыхание языком света и звука в цифровой вселенной](https://nma.tnua.edu.tw/news/announcement/xcV4ATAVh6)
 
 ## Ссылки
 
