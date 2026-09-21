@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T10:46:31+08:00",
-    "zhCommitHead": "0ae1a661b",
+    "lastUpdated": "2026-09-21T11:44:17+08:00",
+    "zhCommitHead": "4a63e1c64",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1033,
-        "stale": 64,
+        "fresh": 1034,
+        "stale": 63,
         "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 994,
-        "stale": 64,
+        "fresh": 995,
+        "stale": 63,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1010,
+        "fresh": 1011,
         "stale": 51,
         "metadata_stale": 10,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "de": {
@@ -21400,7 +21400,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:e4e6dbc8acdd8970",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T02:50:59.225980+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -22900,18 +22911,16 @@
         "vi": {
           "path": "vi/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "d968559a8",
-          "sourceContentHash": "sha256:27a0271b143d3da5",
-          "sourceBodyHash": "sha256:51c89f4d74696613",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:0679bda8106e31fc",
+          "sourceBodyHash": "sha256:b5c758f914dccaf4",
+          "translatedAt": "2026-09-21T03:22:01.407396+00:00",
           "translationLastCommit": "e2ff5145",
           "translationLastModified": "2026-08-09T10:01:54+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -164226,18 +164235,16 @@
         "ko": {
           "path": "ko/Geography/taitung-county.md",
           "translatedFrom": "Geography/台東縣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:a245e10d3b26ade5",
-          "sourceBodyHash": "sha256:78f221a15e8e14f3",
-          "translatedAt": "2026-06-16T17:05:51Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8c13ff26b6ae8507",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-21T03:05:42.929562+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/taitung-county.md",
@@ -167607,8 +167614,8 @@
           "sourceContentHash": "sha256:981f398813aadaf3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T01:06:52.191436+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "4a63e1c6",
+          "translationLastModified": "2026-09-21T10:46:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
