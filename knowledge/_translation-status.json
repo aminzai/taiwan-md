@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T19:50:37+08:00",
-    "zhCommitHead": "48e70693b",
+    "lastUpdated": "2026-09-21T20:22:18+08:00",
+    "zhCommitHead": "8a134abe3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 901,
-        "stale": 113,
+        "fresh": 902,
+        "stale": 112,
         "metadata_stale": 29,
         "missing": 81,
         "orphan": 0
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1027,
+        "fresh": 1028,
         "stale": 66,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 19,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 999,
-        "stale": 59,
+        "fresh": 1000,
+        "stale": 58,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 825,
+        "fresh": 826,
         "stale": 19,
         "metadata_stale": 6,
-        "missing": 274,
+        "missing": 273,
         "orphan": 0
       }
     },
@@ -17219,16 +17219,16 @@
         "vi": {
           "path": "vi/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "369298aba",
-          "sourceContentHash": "sha256:19b72b95becb40d7",
-          "sourceBodyHash": "sha256:966a2693a6cccc59",
-          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "sourceCommitSha": "83cd5d0f3",
+          "sourceContentHash": "sha256:5226e0cd696e818f",
+          "sourceBodyHash": "sha256:3697d708565efd02",
+          "translatedAt": "2026-09-21T00:58:30+08:00",
           "translationLastCommit": "c7c25d2c",
           "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -48036,18 +48036,16 @@
         "fr": {
           "path": "fr/Society/learning-poverty-in-taiwan.md",
           "translatedFrom": "Society/學習貧窮.md",
-          "sourceCommitSha": "9d671671",
-          "sourceContentHash": "sha256:87b9bdce32cd9e14",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
-          "translatedAt": "2026-04-14T12:32:34+08:00",
+          "translatedAt": "2026-09-21T00:58:28+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/learning-poverty-in-taiwan.md",
@@ -60391,18 +60389,16 @@
         "ja": {
           "path": "ja/Society/energy-poverty-and-cooling.md",
           "translatedFrom": "Society/冷氣與能源貧窮議題.md",
-          "sourceCommitSha": "2b1523b1c",
-          "sourceContentHash": "sha256:355af10a54c14130",
-          "sourceBodyHash": "sha256:f7547564791748fe",
-          "translatedAt": "2026-09-16T11:57:23+08:00",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:089b9a12e2ebe8d8",
+          "sourceBodyHash": "sha256:ef799ec0f3c74f1b",
+          "translatedAt": "2026-09-21T00:58:24+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+13 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/energy-poverty-and-cooling.md",
@@ -75898,16 +75894,18 @@
         "pt": {
           "path": "pt/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:80f0c919cd7bb16c",
-          "sourceBodyHash": "sha256:c26951c6cc082f43",
-          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:49afbaec6d9c06b3",
+          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
+          "translatedAt": "2026-09-21T00:58:33+08:00",
           "translationLastCommit": "1312be0d",
           "translationLastModified": "2026-07-26T10:24:51+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
+          "footnoteDefs": 11,
           "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "hi": {
           "path": "hi/Nature/taiwanese-black-bear.md",
@@ -132864,8 +132862,8 @@
           "sourceContentHash": "sha256:499276bde9de600f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T10:03:55.234007+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8a134abe",
+          "translationLastModified": "2026-09-21T19:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -182140,7 +182138,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/traditional-crafts-intangible-cultural-heritage.md",
+          "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-09-21T00:58:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
