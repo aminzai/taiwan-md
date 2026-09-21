@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T22:50:11+08:00",
-    "zhCommitHead": "2a6f1c8fb",
+    "lastUpdated": "2026-09-21T23:01:41+08:00",
+    "zhCommitHead": "4bc14e635",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,25 +20,25 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1040,
+        "fresh": 1041,
         "stale": 52,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 22,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 907,
-        "stale": 107,
+        "fresh": 908,
+        "stale": 106,
         "metadata_stale": 29,
         "missing": 81,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1043,
+        "fresh": 1044,
         "stale": 55,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
@@ -60,41 +60,41 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1006,
-        "stale": 52,
+        "fresh": 1007,
+        "stale": 51,
         "metadata_stale": 49,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 950,
-        "stale": 65,
+        "fresh": 951,
+        "stale": 64,
         "metadata_stale": 10,
         "missing": 99,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1000,
-        "stale": 67,
+        "fresh": 1001,
+        "stale": 66,
         "metadata_stale": 12,
         "missing": 45,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 954,
+        "fresh": 955,
         "stale": 59,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 100,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 984,
+        "fresh": 985,
         "stale": 59,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 66,
         "orphan": 0
       },
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 832,
+        "fresh": 833,
         "stale": 14,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 272,
         "orphan": 0
       }
@@ -33435,16 +33435,16 @@
         "ja": {
           "path": "ja/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-06-17T00:36:20+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-21T21:38:54+08:00",
           "translationLastCommit": "740160f9",
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/paper-windmill-theater.md",
@@ -34335,8 +34335,8 @@
           "sourceContentHash": "sha256:da8e78a538c5510d",
           "sourceBodyHash": "sha256:076ca43fe3ac469d",
           "translatedAt": "2026-09-21T13:49:38.819119+00:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "status": "fresh",
@@ -35209,8 +35209,8 @@
           "sourceContentHash": "sha256:a5453a6f1dbec222",
           "sourceBodyHash": "sha256:8bfc60cfb32ca5a1",
           "translatedAt": "2026-09-21T13:43:12.201046+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -51097,8 +51097,8 @@
           "sourceContentHash": "sha256:31f2d67654f5ca72",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T13:00:41.333607+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -68935,18 +68935,16 @@
         "id": {
           "path": "id/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:08a63572cd5b1dbf",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-06T19:20:38.873898+00:00",
+          "sourceCommitSha": "c24076169",
+          "sourceContentHash": "sha256:f5c7b68537fffdbb",
+          "sourceBodyHash": "sha256:8a34ab63ff63d541",
+          "translatedAt": "2026-09-21T21:38:55+08:00",
           "translationLastCommit": "66e8626f",
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+22 -26"
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/taiwan-marine-conservation-challenges.md",
@@ -105636,8 +105634,8 @@
           "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
           "sourceBodyHash": "sha256:3efdfebbac8eea3c",
           "translatedAt": "2026-09-21T14:41:18.283073+00:00",
-          "translationLastCommit": "42a9365a",
-          "translationLastModified": "2026-07-28T02:39:01+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -107393,8 +107391,8 @@
           "sourceContentHash": "sha256:bbe9414090e28df8",
           "sourceBodyHash": "sha256:eec2d91f1c8e6db1",
           "translatedAt": "2026-09-21T21:38:55+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -107617,18 +107615,16 @@
         "pt": {
           "path": "pt/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "1b55dfc6c",
-          "sourceContentHash": "sha256:f1e33836f112b9c8",
-          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
-          "translatedAt": "2026-09-12T11:18:08+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:c545680e99f6d0ab",
+          "sourceBodyHash": "sha256:809502b72dc5c3f5",
+          "translatedAt": "2026-09-21T14:51:07.290837+00:00",
           "translationLastCommit": "0c45188f",
           "translationLastModified": "2026-09-12T16:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/muyao4.md",
@@ -110097,18 +110093,16 @@
         "vi": {
           "path": "vi/People/lin-chi-wei-social-innovator.md",
           "translatedFrom": "People/林啟維.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:82817fc4c48a612b",
-          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:50a3b31b4cb61eed",
+          "sourceBodyHash": "sha256:e893f57da90167f4",
+          "translatedAt": "2026-09-21T14:54:29.567042+00:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lin-chi-wei-social-innovator.md",
@@ -154708,18 +154702,16 @@
         "en": {
           "path": "en/History/xiluo-bridge.md",
           "translatedFrom": "History/西螺大橋.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:902179e6f5db87f0",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
-          "translatedAt": "2026-09-11T04:19:50+08:00",
+          "translatedAt": "2026-09-21T21:38:54+08:00",
           "translationLastCommit": "84512538",
           "translationLastModified": "2026-09-13T20:27:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/xiluo-bridge.md",
@@ -154740,18 +154732,16 @@
         "ko": {
           "path": "ko/History/xiluo-bridge.md",
           "translatedFrom": "History/西螺大橋.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:902179e6f5db87f0",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
-          "translatedAt": "2026-09-12T20:07:12+08:00",
+          "translatedAt": "2026-09-21T21:38:54+08:00",
           "translationLastCommit": "92efbf14",
           "translationLastModified": "2026-09-13T18:55:24+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/xiluo-bridge.md",
@@ -154836,34 +154826,30 @@
         "hi": {
           "path": "hi/History/xiluo-bridge.md",
           "translatedFrom": "History/西螺大橋.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:902179e6f5db87f0",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
-          "translatedAt": "2026-09-11T05:40:17+08:00",
+          "translatedAt": "2026-09-21T21:38:56+08:00",
           "translationLastCommit": "ed208267",
           "translationLastModified": "2026-09-13T20:41:08+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/xiluo-bridge.md",
           "translatedFrom": "History/西螺大橋.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:902179e6f5db87f0",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
-          "translatedAt": "2026-09-10T20:25:01+08:00",
+          "translatedAt": "2026-09-21T21:38:56+08:00",
           "translationLastCommit": "914fba8c",
           "translationLastModified": "2026-09-13T18:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/xiluo-bridge.md",
@@ -154884,18 +154870,16 @@
         "de": {
           "path": "de/History/xiluo-bridge.md",
           "translatedFrom": "History/西螺大橋.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:7b2e3a974f8b4cf7",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:902179e6f5db87f0",
           "sourceBodyHash": "sha256:0367fe0da1bfd005",
-          "translatedAt": "2026-09-13T17:52:07+08:00",
+          "translatedAt": "2026-09-21T21:38:57+08:00",
           "translationLastCommit": "61096046",
           "translationLastModified": "2026-09-13T22:04:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163721,8 +163705,8 @@
           "sourceContentHash": "sha256:c2ed56f9f5f0e381",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-21T21:38:55+08:00",
-          "translationLastCommit": "fb8d74d0",
-          "translationLastModified": "2026-09-09T09:08:30+08:00",
+          "translationLastCommit": "4bc14e63",
+          "translationLastModified": "2026-09-21T22:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
