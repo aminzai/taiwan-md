@@ -18,6 +18,8 @@ readingTime: 18
 lastVerified: 2026-07-15
 lastHumanReview: false
 featured: false
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
 translatedFrom: 'People/阿神.md'
 sourceCommitSha: 'fb7f4f824'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'

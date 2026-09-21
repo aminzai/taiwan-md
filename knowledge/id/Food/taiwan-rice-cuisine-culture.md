@@ -18,13 +18,15 @@ readingTime: 12
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg'
 translatedFrom: 'Food/台灣米食文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:0e38833f3cafaf68'
 sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-07-25T17:25:33+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/rice-dumpling-zongzi.webp'
+imageCredit: 'WeeWZ / Wikimedia Commons'
 difficulty: 'beginner'
 ---
 

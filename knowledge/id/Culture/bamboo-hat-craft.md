@@ -16,7 +16,7 @@ tags:
 readingTime: '14'
 lastVerified: '2026-05-04'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/斗笠.md'
 sourceCommitSha: '172e37b14'
 sourceContentHash: 'sha256:9096fc1c6362e668'

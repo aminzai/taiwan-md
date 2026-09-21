@@ -29,9 +29,9 @@ lastHumanReview: false
 readingTime: 18
 researchReport: 'reports/research/2026-05/高雄市.md'
 series: '22 縣市系列（batch 4）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg'
-imageCredit: 'peellden'
-imageLicense: 'CC BY-SA 3.0'
+image: '/article-images/geography/kaohsiung-night-skyline-2014.webp'
+imageCredit: 'hngyue photography / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg'
 translatedFrom: 'Geography/高雄市.md'
 sourceCommitSha: 'a5490c043'

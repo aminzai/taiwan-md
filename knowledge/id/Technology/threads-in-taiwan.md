@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: '社群與數位文化'
 author: 'Editorial Team'
-featured: true
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 15

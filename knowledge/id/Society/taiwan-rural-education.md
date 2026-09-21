@@ -18,7 +18,7 @@ tags:
 readingTime: '13'
 lastVerified: '2026-04-09'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/台灣偏鄉教育.md'
 sourceCommitSha: '4d620ce7b'
 sourceContentHash: 'sha256:1277fc2755a587fc'

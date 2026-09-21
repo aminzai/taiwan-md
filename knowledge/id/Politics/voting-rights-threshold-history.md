@@ -16,7 +16,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-05-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Politics/投票權門檻歷史.md'
 sourceCommitSha: '488ba3ae2'
 sourceContentHash: 'sha256:9f186591ee3109a8'

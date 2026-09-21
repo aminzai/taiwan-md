@@ -8,7 +8,7 @@ subcategory: '次文化與青年文化'
 tags: ['furry', 'subkultur', 'fursuit', 'budaya Taiwan']
 lastVerified: '2026-04-01'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/台灣獸迷文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:fb754fde867da6b6'

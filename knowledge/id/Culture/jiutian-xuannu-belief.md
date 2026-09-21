@@ -17,7 +17,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-03-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/九天玄女信仰.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1910ee0829efda65'

@@ -19,6 +19,10 @@ readingTime: 18
 lastVerified: '2026-05-18'
 lastHumanReview: true
 featured: true
+image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
+imageCredit: '台灣人工智慧學校官方'
+imageLicense: 'Fair use editorial commentary on AIA founder portrait'
+imageSource: 'https://aiacademy.tw/swc/'
 translatedFrom: 'Technology/台灣人工智慧學校.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:aeb22f9372adc2ef'

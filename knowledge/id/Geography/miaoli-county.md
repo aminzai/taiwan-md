@@ -25,9 +25,9 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-image: 'https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg'
+image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
 imageCredit: '中華民國客家委員會'
-imageLicense: 'CC BY 4.0'
+imageLicense: 'OGDL-Taiwan-1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
 sourceCommitSha: 'b457dbbb1'

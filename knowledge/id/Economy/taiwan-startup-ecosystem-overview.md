@@ -17,7 +17,7 @@ tags:
 readingTime: '9'
 lastVerified: '2026-03-19'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'Economy/新創生態系.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:4ade9d7e43f9b0c2'

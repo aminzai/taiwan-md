@@ -22,6 +22,8 @@ tags:
 lastVerified: 2026-05-22
 lastHumanReview: false
 featured: false
+imageLicense: 'Attribution (Wikimedia Commons)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Cho-Yun_Hsu_%E8%A8%B1%E5%80%AC%E9%9B%B2.jpg'
 translatedFrom: 'People/許倬雲.md'
 sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'

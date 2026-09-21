@@ -19,7 +19,7 @@ tags:
   ]
 lastVerified: '2026-05-22'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/台灣統獨光譜.md'
 sourceCommitSha: '4c15a2b03'
 sourceContentHash: 'sha256:a399eae223d36d4d'

@@ -19,7 +19,7 @@ tags:
 readingTime: '18'
 lastVerified: '2026-04-29'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/陳水扁.md'
 sourceCommitSha: 'eae11d139'
 sourceContentHash: 'sha256:9e6735e344733c2b'

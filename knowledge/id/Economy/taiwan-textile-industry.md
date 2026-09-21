@@ -18,7 +18,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-07-20'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Economy/紡織業.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:35a33cde93fda77c'

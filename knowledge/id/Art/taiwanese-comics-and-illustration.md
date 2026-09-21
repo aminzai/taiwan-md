@@ -19,7 +19,7 @@ tags:
 readingTime: '11'
 lastVerified: '2026-05-16'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Art/台灣漫畫.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:5275019358614716'

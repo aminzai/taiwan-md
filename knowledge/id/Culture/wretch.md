@@ -17,6 +17,10 @@ tags:
 lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
+image: '/article-images/culture/wretch-downtime-notice-2005.webp'
+imageCredit: 'Alan Sung'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Wretch_notice_(24364911).jpg'
 translatedFrom: 'Culture/無名小站.md'
 sourceCommitSha: 'd40e50420'
 sourceContentHash: 'sha256:1d592674c8a22f46'

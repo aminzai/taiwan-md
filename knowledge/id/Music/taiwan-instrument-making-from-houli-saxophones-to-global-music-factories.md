@@ -21,6 +21,8 @@ readingTime: 22
 lastVerified: 2026-07-17
 lastHumanReview: false
 featured: true
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg'
 translatedFrom: 'Music/台灣樂器製造.md'
 sourceCommitSha: 'b4f3dab6'
 sourceContentHash: 'sha256:5ffbb5b925e1997f'

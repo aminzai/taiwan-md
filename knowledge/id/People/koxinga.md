@@ -17,7 +17,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-03-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/鄭成功.md'
 sourceCommitSha: 'a7cf30769'
 sourceContentHash: 'sha256:29ee16f25cde68b4'

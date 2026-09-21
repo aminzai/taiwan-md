@@ -17,6 +17,10 @@ tags:
 lastVerified: '2026-03-30'
 lastHumanReview: false
 featured: true
+image: '/article-images/food/classic-bubble-tea-2013.webp'
+imageCredit: 'Oqmilteashop / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
 sourceCommitSha: '30569f742'
 sourceContentHash: 'sha256:d90e80b19559290b'

@@ -17,7 +17,7 @@ tags:
   ]
 lastVerified: '2026-06-17'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/台灣少子化危機.md'
 sourceCommitSha: 'd96dbc4bb'
 sourceContentHash: 'sha256:22f624258f9ada15'

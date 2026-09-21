@@ -20,7 +20,7 @@ tags:
 readingTime: '18min'
 lastVerified: '2026-06-28'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Music/陳嫺靜.md'
 sourceCommitSha: 'b38a5daba'
 sourceContentHash: 'sha256:0530e001b5d0938d'

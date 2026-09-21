@@ -23,7 +23,7 @@ researchReport: reports/research/2026-07/大支-outline.md
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
-imageLicense: 'Atribusi nama (Pernyataan Pembukaan Data Situs Pemerintah)'
+imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
 translatedFrom: People/大支.md
 sourceCommitSha: 498649feb

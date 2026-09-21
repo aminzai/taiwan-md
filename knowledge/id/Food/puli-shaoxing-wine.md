@@ -16,7 +16,7 @@ tags:
   ]
 lastVerified: '2026-05-02'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/埔里紹興酒.md'
 sourceCommitSha: '58a56e425'
 sourceContentHash: 'sha256:12079ecc271885a4'

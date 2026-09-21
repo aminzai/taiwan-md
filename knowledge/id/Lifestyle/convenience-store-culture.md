@@ -18,7 +18,7 @@ tags:
 readingTime: '7'
 lastVerified: '2026-03-19'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 sourceCommitSha: 'd520299ba'
 sourceContentHash: 'sha256:15b1d886569defdd'

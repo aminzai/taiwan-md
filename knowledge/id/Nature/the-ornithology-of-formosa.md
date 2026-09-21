@@ -19,7 +19,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-04-24'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'Nature/福爾摩沙鳥類學.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:d1293bcf641ce299'

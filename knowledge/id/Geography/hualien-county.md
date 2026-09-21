@@ -28,8 +28,8 @@ lastHumanReview: false
 readingTime: 18
 researchReport: 'reports/research/2026-05/花蓮縣.md'
 series: '22 縣市系列'
-image: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
-imageCredit: 'Fred Hsu'
+image: '/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp'
+imageCredit: 'Fred Hsu / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg'
 translatedFrom: 'Geography/花蓮縣.md'
@@ -135,7 +135,7 @@ Kejutan geografis sangat menakjubkan. Jing Si Hall dan area Desa Kangle Xincheng
 
 Tzu Chi hari ini memiliki status konsultasi NGO, jaringan bantuan bencana mencakup lebih dari 130 negara di seluruh dunia, Universitas Tzu Chi dan Universitas Teknologi Hualien, empat usaha besar (kebahagiaan, medis, pendidikan, humaniora). Tapi yang diingat orang Hualien, adalah sebelum 17 Agustus 1986, pusat medis terdekat mereka di luar 300 kilometer.
 
-![Jing Si Hall Tzu Chi, Kota Hualien, 2009. Awal pendirian 'Perhimpunan Kebajikan Tzu Chi Buddha yang Berjuang' di Hualien pada 1966. 17 Agustus 1986 Rumah Sakit Tzu Chi Hualien diresmikan di Xincheng dekat sana, 2002 ditingkatkan menjadi satu-satunya pusat medis di Timur Taiwan.](/article-images/geography/hualien-01.webp)
+![Jing Si Hall Tzu Chi, Kota Hualien, 2009. Awal pendirian 'Perhimpunan Kebajikan Tzu Chi Buddha yang Berjuang' di Hualien pada 1966. 17 Agustus 1986 Rumah Sakit Tzu Chi Hualien diresmikan di Xincheng dekat sana, 2002 ditingkatkan menjadi satu-satunya pusat medis di Timur Taiwan.](/article-images/geography/hualien-jing-si-hall-2009.webp)
 _Jing Si Hall Tzu Chi, Kota Hualien, 2009. Foto: Fred Hsu, [CC BY-SA 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taiwan_2009_HuaLien_City_JingSi_Hall_FRD.jpg)._
 
 ## Satu Suku Mengembalikan Dua Nama
@@ -191,7 +191,7 @@ Kasus kematian tersebar di Hualien: Jalan Zhongheng 183,2 km, personel pemelihar
 
 Luka terberat Taman Nasional Taroko di jalur internal. Jalur Sandiaq, Jalur Swallow's Cave, Jalur Jiuxu adalah tiga jalur pejalan kaki paling terkenal di taman, ketiganya hancur. Penjelasan senior Manajemen Taman Nasional Lin Maoyao berkata kepada CNA: "**Swallow's Cave yang paling membuat saya terkejut, setelah gempa ke Swallow's Cave, terus mengingat bagaimana aslinya, merasa menjadi sangat terang, ternyata terowongan terbuka seluruhnya runtuh.**" [^23] Wakil Direktur Manajemen Taman Nasional Lin Zhongshan berkata: "**Mengembangkan objek alternatif mendorong wisata ekologi mendalam juga diperlukan.**" [^23] Estimasi waktu pemulihan seluruh taman "**sekitar 7 tahun**", Sandiaq dan Swallow's Cave rekonstruksi estimasi 2031 baru selesai, Manajemen Taman Nasional mengakui "**pembukaan seluruh taman 7 tahun seharusnya tidak mungkin**" [^23].
 
-![Personel penyelamatan bekerja di dekat Gedung Uranus (Uranus Building), Jalan Xuanyuan Kota Hualien, pasca-gempa 0403 2024. Gedung sepuluh lantai ini miring setengah 45 derajat, adalah adegan yang paling diingat dalam video gempa 0403; 1 penghuni perempuan Kang terjebak lebih dari 12 jam meninggal.](/article-images/geography/hualien-02.webp)
+![Personel penyelamatan bekerja di dekat Gedung Uranus (Uranus Building), Jalan Xuanyuan Kota Hualien, pasca-gempa 0403 2024. Gedung sepuluh lantai ini miring setengah 45 derajat, adalah adegan yang paling diingat dalam video gempa 0403; 1 penghuni perempuan Kang terjebak lebih dari 12 jam meninggal.](/article-images/geography/hualien-uranus-building-rescue-2024.webp)
 _Adegan penyelamatan Gedung Uranus, Jalan Xuanyuan Kota Hualien, 2024-04-03. Foto: Shufu Liu Kantor Presiden, [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg)._
 
 Angka pariwisata kemudian membuktikan seberapa berat gempa ini. Sebelum gempa pengunjung tahunan Taman Nasional Taroko sekitar 4 juta, puncak 6,6 juta. 2024 pengunjung Taroko hanya 210.000, 3,2% dari puncak [^24]. Kabupaten Hualien total 2024 wisatawan sekitar 6,7 juta, 2023 adalah 14 juta, **penurunan 54,29%**, terbesar dalam sepuluh tahun. Dari 135 hotel, 22 memilih keluar atau tutup [^24].

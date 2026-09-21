@@ -21,7 +21,7 @@ readingTime: 17
 curation: incubating
 image: '/article-images/history/taichung-prefectural-hall-exterior.webp'
 imageCredit: '臺中市文化資產處／國家文化資產網'
-imageLicense: 'Sesuai dengan lisensi halaman sumber asli dan deklarasi keterbukaan data pemerintah'
+imageLicense: '依原來源頁授權與政府資料開放宣告'
 imageSource: 'https://www.tchac.taichung.gov.tw/building?uid=33&pid=18'
 translatedFrom: 'History/台中州廳.md'
 sourceCommitSha: 39cb84dab

@@ -26,7 +26,7 @@ tags:
 readingTime: '15'
 lastVerified: '2026-04-18'
 lastHumanReview: 'true'
-featured: 'false'
+featured: false
 translatedFrom: 'People/康士坦的變化球.md'
 sourceCommitSha: '160c9d82d'
 sourceContentHash: 'sha256:37d8610a843cfcf0'

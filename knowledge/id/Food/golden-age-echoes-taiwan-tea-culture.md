@@ -17,14 +17,16 @@ tags:
 readingTime: 12
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: true
+featured: false
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg'
 translatedFrom: 'Food/茶文化.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:86475082b87388fc'
 sourceBodyHash: 'sha256:a9375147f15627a6'
 translatedAt: '2026-07-25T06:34:15+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
+imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
 ---
 
 # Budaya Teh Taiwan
