@@ -1,17 +1,17 @@
 ---
-title: 'Taiwan-Enzyklopädie: Der 500-Millionen-Nationalwissens-Traum'
-description: '2004 startete Taiwan mit der „Taiwan-Enzyklopädie“ das größte Wissensprojekt seiner Geschichte. Vom ursprünglichen 1,4-Milliarden-Entwurf von Wang Rong-wen bis zur tatsächlichen Ausführung mit 520 Millionen NT-Dollar durchlief das Projekt drei System-Iterationen und Lizenzentwicklungen, bevor die eigenständige Website 2014 geschlossen wurde. Dies ist nicht nur eine Geschichte des technologischen Wandels, sondern ein tiefgreifender Paradigmenwechsel der staatlichen Rolle im digitalen Zeitalter: vom „autoritativen Definitor“ zum „Anbieter offener Materialien“.'
+title: 'Taiwan Enzyklopädie: Ein staatlicher Wissenstraum für fünf Millionen NT-Dollar'
+description: '2004 startete Taiwan das ambitionierteste Wissenschaftsprojekt seiner Geschichte: die „Taiwan Enzyklopädie“. Vom ursprünglichen 1,4-Milliarden-NT-Dollar-Plan des Verlegers Wang Rongwen über die tatsächliche Umsetzung mit 520 Millionen NT-Dollar, drei Systemiterationen und der Entwicklung der Lizenzen von GFDL zu CC, bis zur Schließung der eigenständigen Website im Juli 2014 und der Integration in die „Nationale Datenbank für Kultur“. Dies war nicht nur eine technische Transformation, sondern ein tiefgreifender Paradigmenwechsel der Nation vom „Autoritätsetablißer“ zum „Anbieter offener Materialien“ im digitalen Zeitalter.'
 date: 2026-04-28
 category: 'Society'
 tags:
   [
     'Kulturministerium',
-    'Wang Rong-wen',
-    'Digitales Kulturerbe',
-    'Nationales Kulturgedächtnis',
+    'Wang Rongwen',
+    'digitales Archiv',
+    'Nationaler Kulturerbe-Speicher',
     'Wissenssouveränität',
     'Web 2.0',
-    'Lee Yuan-tseh',
+    'Li Yuanzhe',
   ]
 subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
@@ -20,96 +20,96 @@ readingTime: 20
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: '4cd497a8f'
-sourceContentHash: 'sha256:dacc755fc6695d56'
-sourceBodyHash: 'sha256:8ca41487dbdd4aec'
-translatedAt: '2026-09-15T19:45:39+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:ebc2cadf850b7fc2'
+sourceBodyHash: 'sha256:37186c1b6ac0ce30'
+translatedAt: '2026-09-21T23:34:07+08:00'
 ---
 
 > **30-Sekunden-Überblick:**
-> 2004 gestartete „Taiwan-Enzyklopädie“ war ein Meilenstein in Taiwans Bemühen um kulturelle Subjektivität, mit einem Gesamtbudget von 520 Millionen NT-Dollar. Das Projekt ging von dem ursprünglichen 1,4-Milliarden-Entwurf des Verlegers Wang Rong-wen aus (inklusive 30 Bänden, 100.000 Einträgen und einer englischen Version), geriet aber in der Umsetzung in ein ständiges Ringen zwischen der „Autorität“ der Expertenbegutachtung und der „Freiheit“ der Netzwerk-Kollaboration. Nach drei System-Iterationen (Eigenentwicklung, MediaWiki, eigenständiges System), Lizenzentwicklungen (von GFDL zu CC) und der Reduzierung des Print-Projekts wurde die eigenständige Website am 15. Juli 2014 geschlossen und in die „Nationale Kulturdatenbank“ integriert. Dieses Experiment bewies den Rollenwandel des Staates im digitalen Zeitalter: vom Versuch, die „definitive Deutung“ zu monopolisieren, hin zur Bereitstellung „offener Materialien“ für die Zusammenarbeit von Bevölkerung und KI.
+> Die 2004 gestartete „Taiwan Enzyklopädie“ ist ein Meilenstein Taiwans, die kulturelle Identität zu etablieren, mit einem Gesamthaushaltsvolumen von 520 Millionen NT-Dollar. Das Projekt begann mit dem ehrgreifenden 1,4-Milliarden-NT-Dollar-Plan des Verlegers Wang Rongwen (mit 30 Bänden, 100.000 Einträgen und einer englischen Version), wurde jedoch in der praktischen Umsetzung immer wieder zwischen der „Autorität“ der Fachredaktion und der „Freiheit“ der Online-Kollaboration ausgebogen. Drei Hauptiterationen (Eigenentwicklung, MediaWiki, eigenständiges System), Lizenzentwicklungen (GFDL zu CC) und die Verkleinerung der Print-Edition führten schließlich am 15. Juli 2014 zum Abschluss der eigenständigen Website und deren Einbindung in die „Nationale Kulturdatenbank“. Dieses Experiment beweist den Paradigmenwechsel Taiwans im digitalen Zeitalter: von der Versuchung, die „Standardinterpretation“ zu monopolisieren, hin zu einem „offenen Materialpool“ für die Öffentlichkeit und KI.
 
-„Ah-bian hat immer geglaubt, wir sollten eine ‚Taiwan-Enzyklopädie‘ haben, eine Enzyklopädie, die den Zeitgeist und die taiwanesische Volksstimmung treu verdichtet.“[^1] Am 13. Mai 2004 erhob der damalige Präsident Chen Shui-bian in der 135. Ausgabe des „Ah-bian E-Papers“ die Kompilierung der Enzyklopädie offiziell zur nationalen Strategie und betonte ihre Bedeutung als „vollständige Suchmaschine für die Taiwan-Forschung“ und „Wissenssammlung der taiwanesischen Kultur“[^1][^2].
+„Tsai Ing-wen war stets der Meinung, dass wir eine ‚Taiwan Enzyklopädie‘ benötigen, ein Werk, das die Zeitgeist-Entwicklungen und die Volkskultur Taiwans treu widerspiegelt.“[^1] Am 13. Mai 2004 erhob Präsident Chen Shui-bian in seinem 135. „Tsai-Elektronische Post“-Newsletter die Enzyklopädie offiziell zur nationalen Strategie und betonte ihre Bedeutung als „vollständiger Suchmotor für Taiwan“ und „Wissensspeicher der taiwanesischen Kultur“[^1][^2].
 
-Dieses 500-Millionen-Projekt war ein Hochrisikospiel um das „Deutungsrecht über Taiwans Subjektivität“. Als Teilprojekt des „Nationalen Digitalen Kulturerbe-Programms“ stand es in engem Zusammenhang mit der damals staatlich vorangetriebenen Digitalisierung, der Kultur- und Kreativwirtschaft sowie der Open-Data-Politik[^2].
+Dieses 500-Millionen-NT-Dollar-Projekt ist ein riskantes Spiel um „taiwanische Interpretationshoheit“. Als Teil des Programms für digitale Archive auf nationaler Ebene stere es eng mit Taiwans Digitalisierung, kultureller Kreativwirtschaft und Open-Data-Politik verbunden[^2].
 
-### Vision: Der 1,4-Milliarden-Großentwurf des Verlagsmagnaten
+### Vision: Der 1,4-Milliarden-NT-Dollar-Plan des Verlegers
 
-Die treibende Kraft hinter diesem Mammutprojekt war Wang Rong-wen, Vorstandsvorsitzender des Yuanliu-Verlags. Für ihn war die Enzyklopädie die höchste Auszeichnung eines Verlegers. Wangs ursprüngliche Vision war äußerst ehrgeizig: Er wollte die **chinesische Online-Version in 4 Jahren**, die **englische Online-Version in 5 Jahren** und die **Printversion in 6 Jahren** fertigstellen (mindestens **30 Bände**, **50 Millionen chinesische Zeichen**, 10.000 Exemplare als Geschenk an Schulen und internationale Institutionen)[^2].
+Die Seele dieses riesigen Projekts ist Wang Rongwen, Vorsitzender der Far East Publishing Co., Ltd. Für ihn ist die Enzyklopädie der ultimative Titel eines Verlegers. Sein ursprünglicher Plan war ehrgreifend: Innerhalb von **vier Jahren eine Online-Chinesische Edition**, innerhalb von **fünf Jahren eine Online-Englische Edition**, innerhalb von **sechs Jahren eine Print-Edition** (mindestens **30 Bände**, **50 Millionen chinesische Zeichen**, 10.000 Exemplare zur Verteilung an Schulen und international)[^2].
 
-Die Inhaltsziele umfassten eine klare **Wissensbaumstruktur (Propedia)** sowie **mindestens 100.000 Einträge**. Als Referenz diente das Überarbeitungsbudget der 16. Auflage der „Encyclopædia Britannica“, woraus sich ein sechsjähriges Gesamtbudget von **1,4 Milliarden NT-Dollar** ergab; zudem schlug er die Gründung einer Stiftung für die langfristige Pflege vor[^2]. Um die Autorität zu gewährleisten, berief das Projekt den Nobelpreisträger Lee Yuan-tseh im Mai 2007 zum **Chef-Herausgeber des Überwachungs- und Redaktionskomitees**[^1][^3].
+Die inhaltlichen Ziele umfassten eine klare **Wissensstruktur (Propedia)** sowie **mindestens 100.000 Einträge**. Als Referenz diente er der Überarbeitungshaushalt der 16. Auflage des Britischen Enzyklopädie-Werks, geschätzt auf **1,4 Milliarden NT-Dollar** insgesamt, und schlug vor, eine Stiftung zur langfristigen Pflege zu gründen[^2]. Um die Autorität sicherzustellen, setzte er Nobelpreisträger Li Yuanzhe im Mai 2007 zum **Leiter der Redaktionskommission für Überwachung und Korrektur** ein[^1][^3].
 
-Doch zwischen Ideal und Realität klaffte eine erhebliche Lücke. Das tatsächliche Ausführungsbudget belief sich auf约 **520 Millionen NT-Dollar**[^1]. Der ursprünglich für 2008 geplante Druck von **20 Bänden** wurde aufgrund von Budgetkürzungen und dem Fokuswechsel auf Digitales nicht realisiert; letztlich vollendete nur die Yuanliu-Tochter „Smart Learning Technology“ die Redaktion der ersten 6 Bände, das großangelegte Printprojekt kam nie wie geplant zustande[^1][^2][^4].
+Doch die Realität unterschied sich deutlich von der Vision. Der tatsächliche Haushalt betrug etwa **520 Millionen NT-Dollar**[^1]. Das ursprünglich für den Jahr 2008 geplante **20-Bände-Print-Projekt** wurde aufgrund von Budgetbeschränkungen und dem Schwerpunkt auf Digitalisierung letztendlich von der Tochtergesellschaft Far East „Wisdom Archive Learning Technology“ nur in der ersten Phase mit 6 Bänden realisiert, und das umfassende Print-Projekt wurde nie vollendet[^1][^2][^4].
 
-📝 Kuratorennotiz: Als der Verlagstraum auf das Staatsbudget traf, schien dieses Hochrisikospiel den stärksten Rückhalt zu haben, war doch dazu verdammt, ein Jahrzehnt lang mit Bürokratie, technologischem Wandel und Community-Kultur zu verhandeln.
+📝 Kurator-Notiz: Wenn der VerlagsTraum auf staatliche Mittel triffft, wird dieses riskante Spiel zwar durch die stärkste Unterstützung getragen, doch muss es zwangsläufig mit Bürokratie, technologischen Veränderungen und Gemeinschaftskultur über einen Zeitraum von zehn Jahren verhandeln.
 
-### Wendepunkt: Drei System-Iterationen und das Ringen um Lizenzmechanismen
+### Wendepunkt: Drei Systemiterationen und Lizenzentwicklungen
 
-Das Projekt verfolgte zunächst eine „Volksausgabe-zuerst“-Strategie und durchlief drei Hauptphasen technischer System-Iterationen und Lizenzentwicklungen:
+In den Anfangsjahren wurde die Strategie „Priorisierung der Massenedition“ verfolgt und erfuhr drei Hauptiterationen von Systemen und Lizenzen:
 
-1.  **Eigenentwicklung (Inbetriebnahme Januar 2005)**: Umgesetzt von der Taiwan Agenda 21 Association. Die Registrierung verlangte Namen, Telefonnummer und sogar die **Personalausweisnummer**, was schwere Datenschutzbedenken auslöste[^1][^2]. Anfangs galt das Prinzip „Beitrag bei bestandener Prüfung = Honorar“, was zu einem massiven Zustrom von Einträgen und schwerem Prüfungsrückstand führte[^5].
-2.  **MediaWiki-System (Überarbeitung 2007)**: Die Website wechselte auf MediaWiki, die Lizenz wurde auf die **GNU Free Documentation License (GFDL)** umgestellt[^2]. Aufgrund der hohen Offenheit des Systems gab es „praktisch keine Prüfung von Nutzerinhalten“, **plagiierte Artikel häuften sich**, was zur größten Qualitätskrise des Projekts wurde[^1][^2].
-3.  **Eigenständiges System (Überarbeitung Oktober 2009)**: Zur Lösung der Urheberrechts- und Qualitätsprobleme wurde die Website erneut auf ein eigenständiges System (taiwanpedia.culture.tw) umgestellt, die Lizenz auf **CC BY-NC-SA 2.5 Creative Commons** angepasst, was die Position „offen, aber nicht-kommerziell“ klarstellte[^1][^2].
+1. **Eigenständiges System (ab Januar 2005)**: Übernommen vom Taiwan Institute for 21st Century. Dieses System erforderte bei der Registrierung Name, Telefonnummer und sogar **Personalausweisnummer**, was schwerwiegende Datenschutzbedenken auslöste[^1][^2]. Die Anfangsstrategie „Bezahlung für akzeptierte Beiträge“ führte zu einer Flut von Einträgen, was die Überprüfung erheblich verlangsamte[^5].
+2. **MediaWiki-System (2007 überarbeitet)**: Die Website stellte auf das MediaWiki-System um und verwendete die Lizenz **GNU Free Documentation License (GFDL)**[^2]. Aufgrund der hohen Systemoffenheit gab es kaum Kontrolle über die Inhalte, was zu einer Flut von **urheberrechtsverletzenden Kopien** führte und die größte Qualitätskrise des Projekts darstellte[^1][^2].
+3. **Eigenständiges System (Oktober 2009 überarbeitet)**: Um Urheberrechtsverletzungen und Qualitätsprobleme zu lösen, wurde die Website erneut auf ein eigenständiges System (taiwanpedia.culture.tw) umgestellt und die Lizenz auf **CC BY-NC-SA 2.5 Creative Commons** aktualisiert, was den Standpunkt „offen, aber nicht-kommerziell“ klarstellte[^1][^2].
 
-„Netz-affine Bürger neigen dazu, staatlich gelenktes Verfassen und Prüfen von Wissen abzulehnen.“[^5] Dies war der Konsens nach einer 2006 vom Kulturaufbaurat (heute Kulturministerium) einberufenen Expertenrunde. Die Bedenken der Experten gegen eine „Abschaffung der Prüfung“ betrafen nicht nur die Autorität, sondern auch die Sorge, ob die „taiwanesische Subjektivität“ durch Rauschen verwässert würde[^2].
+„Nutzer, die das Internet lieben, neigen dazu, staatlich dominierte Wissensgenerierung und -kontrolle abzulehnen.“[^5] Dies war der Konsens, den das Kulturministerium (heute Kulturdepartement) 2006 bei einer Expertenkonferenz erreichte. Die Bedenken der Experten bezogen sich nicht nur auf die Autorität, sondern auch darauf, ob die **taiwanische Identität** durch Lärm verwässert würde[^2].
 
-### Ergebnis: Wissensproduktion im Pyramidenstil
+### Ergebnisse: Wissenschaftliche Produktivität im Pyramidenton
 
-Trotz holprigen Verlaufs hinterließ die „Taiwan-Enzyklopädie“ ein wertvolles akademisches Erbe. Die Fachausgabe betonte den „Pyramidenstil“: Die ersten drei Sätze mussten konkrete Fakten enthalten, gefolgt von verständlicher Vertiefung und abschließenden Weiterführungsempfehlungen[^6]. In den mittleren und späten 2000er-Jahren leistete das Projekt eine systematische Aufbereitung von 16 Bereichen Taiwans – Geschichte, Geografie, Volkskunde, Literatur u. a.[^5][^7].
+Trotz der Widrigkeiten hinterließ die „Taiwan Enzyklopädie“ wertvolle akademische Überbleibsel. Die Fachausgabe betonte den „Pyramidenstil“: Die ersten drei Sätze mussten konkrete Fakten enthalten, gefolgt von einer einfachen Erklärung, und abschließend einer vertiefenden Empfehlung[^6]. In der zweiten Hälfte der 2000er Jahre systematisierte dieses Projekt 16 Bereiche wie Geschichte, Geografie, Volkskultur, Literatur usw.[^5][^7].
 
-| Kategorie                      | Dateninhalt                                                                    |
-| :----------------------------- | :----------------------------------------------------------------------------- |
-| **Volksausgabe Planung**       | 15.036 Einträge                                                                |
-| **Volksausgabe Einreichungen** | 11.793 Einträge (davon ca. 10.648 frühzeitig geprüft)[^2]                      |
-| **Kumulierte Daten**           | Bis Ende 2011 ca. **50.008 Einträge** (inkl. nicht streng geprüfter Menge)[^2] |
-| **Fachausgabe Produktion**     | Über **13.000 von Experten korrigierte Qualitäts-Einträge**[^5]                |
-| **Multimedia-Ressourcen**      | 8.929 Bilder sowie teils Audio-/Videodateien[^2]                               |
+| Kategorie                     | Statistik                                                                  |
+| :---------------------------- | :------------------------------------------------------------------------- |
+| **Massenedition Plan**        | 15.036 Themen                                                              |
+| **Massenedition Beitrag**     | 11.793 (davon ca. 10.648 früh akzeptierte Themen)[^2]                      |
+| **Gesamtdaten**               | Bis Ende 2011 ca. **50.008 Themen** (einschließlich ungeprüfter Daten)[^2] |
+| **Fachausgabe Ergebnis**      | Über **13.000 expertengeprüfte Themen mit hoher Qualität**[^5]             |
+| **Multimateriale Ressourcen** | 8.929 Bilder und einige Videos[^2]                                         |
 
-📝 Kuratorennotiz: Das Wertvollste an dieser Enzyklopädie sind nicht die 500 Millionen, sondern dass sie Fachexperten in der frühen Digitalisierungsphase zu einer gründlichen Bestandsaufnahme taiwanesischen Wissens zwang und den Versuch unternahm, mit der Netz-Community zu interagieren.
+📝 Kurator-Notiz: Der wertvollste Aspekt dieser Enzyklopädie war nicht die fünf Millionen NT-Dollar, sondern dass sie Zenturionen verschiedener Fachgebiete im frühen Stadium der Digitalisierung zur Taiwan-Analyse zwang und versuchte, mit Online-Gemeinschaften zu interagieren.
 
-### Ende: Der digitale Rückzug 2014 und der Paradigmenwechsel
+### Schluss: Digitale Rückzug und Paradigmenwechsel 2014
 
-Im Juni 2014 integrierte das Kulturministerium die Einträge der „Taiwan-Enzyklopädie“ offiziell in die „Nationale Kulturdatenbank“ (nrch.culture.tw) und öffnete sie nicht mehr für Community-Kollaboration[^1][^2]. **Am 15. Juli 2014** wurde die eigenständige Website offiziell geschlossen[^1][^2].
+Im Juni 2014 integrierte das Kulturministerium offiziell alle Themen der „Taiwan Enzyklopädie“ in die „Nationale Kulturdatenbank“ (nrch.culture.tw) und beendete die Kollaboration mit der Gemeinschaft[^1][^2]. **Am 15. Juli 2014** wurde die eigenständige Website offiziell geschlossen[^1][^2].
 
-Dies war ein wichtiger Wendepunkt: Der Staat erkannte die Grenzen einer einzelnen „definitiven Enzyklopädie“ im Web-2.0-Zeitalter an und wandelte die Inhalte in „Offene Daten“ (Open Data) um. Heute sind diese Einträge in das „Nationale Kulturgedächtnis 2.0“ integriert, vom „Experten-Definitivtext“ hin zum „Materialpool für alle“, mit Einbindung von NLP- und KI-Anwendungen, wobei der Austausch und die Neuschöpfung von „kultureller DNA“ betont wird[^8][^9].
+Dies markiert einen entscheidenden Wendepunkt: Der Staat erkannte die Grenzen eines einzelnen „Standardwerks“ im Zeitalter von Web 2.0 an und wandte sich stattdessen dazu, die Inhalte als „Open Data“ bereitzustellen. Heute sind diese Themen in die „Nationale Kulturerinnerungsdatenbank 2.0“ integriert, von „experte definierten Standardwerken“ zu „Materialien für alle“ gewechselt, und setzen NLP- und KI-Anwendungen ein, um das „kulturelle DNA“ zu teilen und neu zu gestalten[^8][^9].
 
-### Herausforderungen und Kontroversen: Das neue Schlachtfeld der Wissenssouveränität
+### Herausforderungen und Kontroversen: Neue Schlachtfelder der Wissenssouveränität
 
-Dieser Wissenskrieg ist nicht zu Ende. Ende 2025 brachte der Verlag „Enzyklopädie Chinas“ die 960.000 Zeichen umfassende „Taiwan-Enzyklopädie: Geschichte“ heraus, die das „Ein-China-Prinzip“ betont[^10]. Dies beweist: Wenn wir uns nicht selbst definieren, tun es andere für uns.
+Dieser Wissenskrieg ist noch nicht vorbei. Ende 2025 veröffentlichte die China Enzyklopädie Verlag eine 960.000-Wort-Ausgabe der „Enzyklopädie Taiwans – Geschichte“, die den „Ein-China-Prinzip“ betont[^10]. Dies beweist: Wenn man sich nicht selbst definiert, wird man von anderen definiert.
 
-Die Zukunft von Taiwans Wissenssouveränität liegt vielleicht nicht in einer „nationalen Definitivfassung“, sondern darin, wie lokale Inhalte auf globalen Plattformen (wie Wikipedia, KI-Großmodellen) effektiv sichtbar und gewahrt werden können. Dieses 500-Millionen-Experiment hinterließ eine tiefe Lektion: Die geeignetste Rolle des Staates ist die des Hüters von Grundlagenarchiv und Offenen Daten, nicht die des Monopolisten der Wissensdeutung.
+Die Zukunft der taiwanesischen Wissenssouveränität liegt vielleicht nicht im „staatlichen Standardwerk“, sondern darin, wie lokale Inhalte auf globalen Plattformen (wie Wikipedia, große KI-Modelle) sichtbar und erhalten werden. Dieses fünf-Millionen-NT-Dollar-Experiment hinterließ eine tiefe Lehre: Der Staat eignet sich am besten als Hüter von Grundarchiven und Open Data, nicht als Monopolist der Wissensinterpretation.
 
-📝 Kuratorennotiz: Dieses Experiment bewies: Der Staat eignet sich als Hüter von Grundlagenarchiv und Offenen Daten, nicht als Monopolist der Definitivdeutung. Im Zeitalter dezentraler Kollaboration kommt die Lebenskraft des Wissens aus Offenheit, nicht aus Kontrolle.
+📝 Kurator-Notiz: Dieses Experiment beweist: Der Staat eignet sich am besten als Hüter von Grundarchiven und Open Data, nicht als Monopolist der Wissensinterpretation. In einer dezentralen Zusammenarbeit erhacht die Freiheit des Wissens Leben, nicht die Kontrolle.
 
-**Weiterführende Links:**
+**Weiterführende Literatur:**
 
-- [Kulturministerium](../Society/文化部) — Die dieses Projekt leitende Regierungsbehörde
-- [Wikipedia](維基百科) — Zeitgenössisches Web-2.0-Kollaborations-Enzyklopädie-Paradigma
-- [PanSci](/de/society/pansci) — Vergleichsbeispiel für zivilgesellschaftliche Wissenschafts-Community und Wissensplattform, von Artikeln, Kursen, Audio/Video bis zu Creator-Services, zeigt, wie Wissen in der Plattformökonomie transformiert wird
-- [Nationales Kulturgedächtnis](國家文化記憶庫) — Nachfolgeplattform, die die Einträge dieses Projekts aufnahm
+- Kulturministerium — Regierungsbehörde, die dieses Projekt leitete
+- [Wikipedia](維基百科) — Web 2.0-Kollaborationsmodell der Enzyklopädie in derselben Ära
+- [Panx](/de/society/pansci) — Gegenüberstellung mit zivilgesellschaftlichen Wissensplattformen und Wissensgemeinschaften, die zeigen, wie Wissen in der Plattformökonomie transformiert wird
+- [Nationale Kulturerinnerungsdatenbank](國家文化記憶庫) — Nachfolgeplattform, die die Themen dieser Enzyklopädie aufnahm
 
 ---
 
-**Quellen:**
+**Quellenangaben:**
 
-[^1]: [Taiwan-Enzyklopädie — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Vollständige Chronik: Budget 520 Mio. + drei System-Iterationen + Schließung 2014
+[^1]: [Taiwan Enzyklopädie — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%A4%A7%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8) — Vollständige Zeitleiste mit 520 Millionen NT-Dollar-Budget, drei Systemiterationen und Abschluss 2014
 
-[^2]: [Entwicklung der Redaktion traditioneller Enzyklopädien und Wikipedia — NTU Bibliotheksmitteilungen](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Wissenschaftlicher Aufsatz zum Vergleich der Redaktionsparadigmen von Definitivfassungen und Kollaborations-Enzyklopädien
+[^2]: [Entwicklung traditioneller Enzyklopädien und Wikipedia — Nationalbibliothek der Universität Taiwan](https://web.lib.ntu.edu.tw/Publication/univj/uj16-2/162-04.pdf) — Wissenschaftliche Arbeit, die die Redaktionsmodelle von Standardwerken und kollaborativen Enzyklopädien vergleicht
 
-[^3]: [Lee Yuan-tseh — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Nobelpreisträger für Chemie, übernahm Mai 2007 das Amt des Chef-Herausgebers des Überwachungs- und Redaktionskomitees der Taiwan-Enzyklopädie
+[^3]: [Li Yuanzhe — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E9%81%A0%E5%93%B2) — Nobelpreisträger für Chemie, 2007 ernannt zum Leiter der Redaktionskommission für Überwachung und Korrektur der Taiwan Enzyklopädie
 
-[^4]: [Taiwan-Enzyklopädie — Douyin Baike](https://m.baike.com/wikiid/362001236109550645) — Dokumentation der Reduktion des Printprojekts von 30 Bänden auf die ersten 6 Bände der Yuanliu-Tochter „Smart Learning“
+[^4]: [Taiwan Enzyklopädie — TikTok Enzyklopädie](https://m.baike.com/wikiid/362001236109550645) — Dokumentation der Print-Veröffentlichungspläne von 30 Bänden auf die 6-Band-Ausgabe der Tochtergesellschaft „Wisdom Archive“
 
-[^5]: [Taiwan-Enzyklopädie Überarbeitung: Abschaffung des Prüfmechanismus — Taiwan Law Net](https://www.lawtw.com/archives/344744) — Protokoll der 2006 vom Kulturaufbauberufenen Expertenrunde zum Konsens „Netzbürger lehnen staatlich gelenkte Prüfung ab“
+[^5]: [Taiwan Enzyklopädie ändert Version und hebt Zensur auf — Taiwan Legal Network](https://www.lawtw.com/archives/344744) — Protokoll der 2006-Konferenz des Kulturministeriums, in der Experten die Konsense über die Ablehnung staatlicher Kontrolle durch Internetnutzer diskutierten
 
-[^6]: [Redaktionsstil der Fachausgabe der Taiwan-Enzyklopädie — Smart Learning Enzyklopädie Blog](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Schreibregel „Pyramidenstil“: Erste drei Sätze müssen konkrete Fakten enthalten
+[^6]: [Redaktionsrichtlinien der Fachausgabe der Taiwan Enzyklopädie — Wisdom Archive Blog](http://blog.ylib.com/twpedia/Archives/2008/03/25/5583) — Schreibvorschriften für den Pyramidenstil, bei dem die ersten drei Sätze konkrete Fakten enthalten müssen
 
-[^7]: [Geschichte und Klassifikationsindex der Taiwan-Enzyklopädie](https://xiyu.url.tw/1/11/11-37.htm) — Eintragsübersicht der systematischen Aufbereitung von 16 Bereichen
+[^7]: [Geschichte und Kategorie-Index der Taiwan Enzyklopädie](https://xiyu.url.tw/1/11/11-37.htm) — Themenübersicht der systematischen Organisation in 16 Bereichen
 
-[^8]: [Nationales Kulturgedächtnis 2.0 neu online — Kulturministerium Pressemitteilung](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Ankündigung des Wandels vom „Experten-Definitivtext“ zum „Materialpool für alle“ + NLP/KI-Integration
+[^8]: [Nationale Kulturerinnerungsdatenbank 2.0 offiziell gestartet — Pressemitteilung des Kulturministeriums](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — Ankündigung der Integration von „experte definierten Standardwerken“ in „Materialien für alle“ sowie der Anwendung von NLP/KI
 
-[^9]: [Nationales Kulturgedächtnis Themenportal](https://nrch.culture.tw/nrch/zh-tw) — Nachfolgeplattform, die die Einträge der Taiwan-Enzyklopädie aufnahm
+[^9]: [Themenportal der Nationalen Kulturerinnerungsdatenbank](https://nrch.culture.tw/nrch/zh-tw) — Nachfolgeplattform, die die Themen der Taiwan Enzyklopädie aufnahm
 
-[^10]: [Chinas 960.000-Zeichen-‚Taiwan-Enzyklopädie: Geschichte‘ betont Ein-China-Prinzip — Storm Media](https://www.storm.mg/article/11083147) — 2025 vom Verlag Enzyklopädie Chinas veröffentlicht, verdeutlicht den grenzüberschreitenden Wettbewerb um Taiwans Wissenssouveränität
+[^10]: [China Enzyklopädie Verlag veröffentlicht 960.000-Wort-Ausgabe der „Enzyklopädie Taiwans – Geschichte“ mit Ein-China-Prinzip — Initium](https://www.storm.mg/article/11083147) — 2025 veröffentlicht, markiert den Wettbewerb um taiwanesische Wissenssouveränität im internationalen Kontext
 
-[^11]: [Wang Rong-wen: Meine Ansichten und Vorgehensweise zur Kompilierung der ‚Taiwan-Enzyklopädie‘](http://ceo.ylib.com/job011.htm) — Yuanliu-Vorstandsvorsitzender: ursprünglicher 1,4-Milliarden-Großentwurf und 30-Bände-Planung
+[^11]: [Wang Rongwen: Meine Perspektive auf die Erstellung der Taiwan Enzyklopädie](http://ceo.ylib.com/job011.htm) — Ursprüngliche Vision des Verlegers mit 1,4-Milliarden-NT-Dollar-Plan und 30-Band-Layout
