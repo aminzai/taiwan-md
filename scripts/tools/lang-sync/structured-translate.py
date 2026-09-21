@@ -281,10 +281,18 @@ def yaml_single_quote(value) -> str:
     return f"'{escaped}'"
 
 
-def render_scalar(value) -> str:
+def render_scalar(value, indent: int = 0) -> str:
     """Passthrough 欄位機械複製：bool/int/float/date 保持裸值型別，字串走單引號跳脫。
     刻意不用 yaml.dump()（它的引號/換行風格跟本專案慣例不一致），手動組裝才能保證
-    輸出跟 zh 來源同型別、同語意。"""
+    輸出跟 zh 來源同型別、同語意。`indent` 是這個值所屬 key 的縮排（多行字串與巢狀
+    mapping 需要知道自己在第幾層才能對齊）。"""
+    if isinstance(value, str) and "\n" in value:
+        # 2026-09-22：含換行的字串（zh 用 `|` block scalar 寫的 whats_excluded 清單）走單引號
+        # 會被 YAML 摺掉換行，parse 回來跟 zh 不等。改渲染成 block scalar，行首縮排 indent+2。
+        pad = " " * (indent + 2)
+        body = value[:-1] if value.endswith("\n") else value
+        head = "|" if value.endswith("\n") else "|-"
+        return head + "\n" + "\n".join(pad + l if l else "" for l in body.split("\n"))
     if isinstance(value, bool):
         return "true" if value else "false"
     if isinstance(value, (int, float)):
@@ -306,7 +314,7 @@ def render_scalar(value) -> str:
         # fallthrough 到 yaml_single_quote(str(dict))，上站 1,140 份譯文的 rationale 變成
         # 一整串 Python dict repr——跟上面 list 那條是同一個型別走樣家族的第三個成員
         # （list 07-26、None／dict 09-22）。改渲染成縮排 block mapping，跟 zh 同形。
-        return render_block_mapping(value, indent=2)
+        return render_block_mapping(value, indent=indent + 2)
     return yaml_single_quote(value)
 
 
@@ -319,7 +327,7 @@ def render_block_mapping(mapping: dict, indent: int) -> str:
         if isinstance(v, dict):
             lines.append(f"{pad}{k}:" + render_block_mapping(v, indent + 2))
         else:
-            lines.append(f"{pad}{k}: {render_scalar(v)}")
+            lines.append(f"{pad}{k}: {render_scalar(v, indent=indent)}")
     return "\n" + "\n".join(lines)
 
 

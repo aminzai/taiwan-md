@@ -46,6 +46,16 @@ VERIFY_TRANSLATION = REPO / "scripts" / "tools" / "lang-sync" / "verify-translat
 from langs import ALL_TRANSLATION_LANGS
 LANGS = ALL_TRANSLATION_LANGS  # SSOT via langs.py (2026-07-18)
 
+# 2026-09-22：bump 同時同步 zh 的卡片圖四欄＋featured（heal-frontmatter-types.SYNC_SCALAR_FIELDS）。
+# 病根：zh 只改 frontmatter（把 Wikimedia 熱連結 cache 成 /article-images/）時 bodyHash 不變 →
+# metadata-stale → 這裡只 bump 三個 sha 就標 fresh，image 留在舊的熱連結；量到 261 份譯文
+# image 跟 zh 不同、179 份仍熱連結（pre-commit image-health hard）。「body 沒變」不等於
+# 「frontmatter passthrough 沒變」（#38 混維度）。
+from importlib import import_module as _import_module
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+_heal = _import_module("heal-frontmatter-types")
+_st = _import_module("structured-translate")
+
 
 def run_status_json() -> dict:
     out = subprocess.check_output(
@@ -160,6 +170,18 @@ def bump_one(target_md: Path, new_sha: str, new_content_hash: str, new_body_hash
     new_fm = upsert(new_fm, "sourceCommitSha", new_sha)
     new_fm = upsert(new_fm, "sourceContentHash", new_content_hash)
     new_fm = upsert(new_fm, "sourceBodyHash", new_body_hash)
+
+    # passthrough 標量同步（卡片圖四欄＋featured）——zh 找得到才做，找不到就只 bump sha
+    m_from = re.search(r"^translatedFrom:\s*['\"]?(.+?)['\"]?\s*$", new_fm, flags=re.MULTILINE)
+    zh_md = KNOWLEDGE / m_from.group(1) if m_from else None
+    if zh_md and zh_md.exists():
+        try:
+            zh_fm, _ = _st.parse_zh_frontmatter(zh_md.read_text(encoding="utf-8"))
+            lines = new_fm.strip("\n").split("\n")
+            lines, _changed = _heal.sync_passthrough_fields(lines, zh_fm)
+            new_fm = "\n" + "\n".join(lines) + "\n"
+        except Exception as e:  # noqa: BLE001 — 同步失敗不擋 bump，印出來就好
+            print(f"  ⚠️ passthrough sync skipped for {target_md.name}: {e}", file=sys.stderr)
 
     new_content = "---" + new_fm + "---" + body
     if new_content == content:

@@ -371,3 +371,13 @@ def test_render_scalar_keeps_nested_mapping_and_null_as_yaml_types():
     assert yaml.safe_load(out) == {"rationale": d}
     assert "{'" not in out  # 不是 repr
     assert MODULE.render_scalar(None) == "null"
+
+
+def test_render_scalar_multiline_string_becomes_block_scalar():
+    """zh 用 `|` 寫的多行 whats_excluded 清單，單引號會摺掉換行；改 block scalar 後 parse 回來逐字相等。"""
+    import yaml
+
+    d = {"whats_excluded": "- 甲\n- 乙\n", "note": "x\ny"}
+    out = "rationale:" + MODULE.render_scalar(d) + "\n"
+    assert yaml.safe_load(out) == {"rationale": d}
+    assert "|" in out
