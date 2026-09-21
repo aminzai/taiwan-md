@@ -161,6 +161,18 @@ def is_bad_encoding(raw_path):
     # 乾淨，所以上面三條都抓不到，三個月來每天以 unknown 家族黃燈誤報。
     if "<strange-chars>" in urllib.parse.unquote(raw_path, errors="replace"):
         return True
+    # 2026-09-22 雙重編碼：UTF-8 位元組被當 Latin-1 讀、再 percent-encode 一次。
+    # %C3%A5%C2%8F%C2%B0 decode 乾淨得到 'å\x8f°'，其實是「台」。上面四條都
+    # 抓不到，09-20 /nature/ 下十來條各 4–8 筆全落 unknown。指紋：decode 後
+    # 出現 Latin-1 補充區字元且 latin-1 → utf-8 回譯成功（單獨一個 é 回譯
+    # 會失敗，不誤殺法／西文路徑）。
+    decoded = urllib.parse.unquote(raw_path, errors="replace")
+    if any(0x80 <= ord(c) <= 0xFF for c in decoded):
+        try:
+            decoded.encode("latin-1").decode("utf-8")
+            return True
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            pass
     return False
 
 

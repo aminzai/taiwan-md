@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-20T22:13:47Z",
+  "timestamp": "2026-09-21T22:06:15Z",
   "total": 1124,
   "flagged": 712,
   "files": [
@@ -581,8 +581,8 @@
     },
     {
       "file": "art/紙風車劇團.md",
-      "score": 7,
-      "reasons": "未人工審核; 連續bullet4行; 塑膠句3個; 稀薄段落×3; 無腳註"
+      "score": 6,
+      "reasons": "未人工審核; 連續bullet4行; 塑膠句3個; 稀薄段落×3"
     },
     {
       "file": "art/總統府.md",

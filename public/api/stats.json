@@ -1,8 +1,8 @@
 {
-  "totalArticles": 13789,
+  "totalArticles": 13821,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 9014,
+  "totalTags": 8995,
   "categories": [
     {
       "name": "vi",
@@ -18,7 +18,7 @@
     },
     {
       "name": "hi",
-      "count": 1023
+      "count": 1027
     },
     {
       "name": "fr",
@@ -30,11 +30,11 @@
     },
     {
       "name": "ja",
-      "count": 1040
+      "count": 1047
     },
     {
       "name": "ru",
-      "count": 1072
+      "count": 1074
     },
     {
       "name": "Technology",
@@ -46,7 +46,7 @@
     },
     {
       "name": "id",
-      "count": 1022
+      "count": 1026
     },
     {
       "name": "ar",
@@ -54,7 +54,7 @@
     },
     {
       "name": "pt",
-      "count": 1078
+      "count": 1079
     },
     {
       "name": "Politics",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 842
+      "count": 856
     },
     {
       "name": "Lifestyle",
@@ -128,7 +128,7 @@
     },
     {
       "name": "YouTuber",
-      "count": 49
+      "count": 48
     },
     {
       "name": "科技與企業",
@@ -196,27 +196,27 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13789,
+    "zh-TW": 13821,
     "en": 0
   },
-  "lastUpdated": "2026-09-20T22:13:34.803Z",
-  "stars": 1185,
-  "forks": 186,
+  "lastUpdated": "2026-09-21T22:06:02.185Z",
+  "stars": 1187,
+  "forks": 187,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
     "en": 1108,
-    "ja": 1040,
+    "ja": 1047,
     "ko": 1106,
     "es": 1104,
     "fr": 1105,
     "vi": 1107,
-    "id": 1022,
-    "pt": 1078,
-    "hi": 1023,
+    "id": 1026,
+    "pt": 1079,
+    "hi": 1027,
     "ar": 1058,
-    "ru": 1072,
-    "de": 842
+    "ru": 1074,
+    "de": 856
   },
   "enPages": 1108,
   "totalPages": 1122
