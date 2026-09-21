@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-22
-last_session: '2026-09-22-060126-twmd-embeddings-nightly（13 語 13,692 向量 0 fail、零分岔、當班 push）'
+last_session: '2026-09-22-060315-twmd-data-refresh-am（第十七夜讓場 14 步全綠、404 雙重編碼判準、/sitemap.xml 301）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-22 | 003711-twmd-babel-nightly | 拆 report 見 structured 12% 裡 35 次拒收落在分塊比值 4.0–4.9 同一格，五個確定性病灶當夜修；1,152 份 rationale、261 份卡片圖對回 zh；日記巴別塔 307 → 0 | 三條引擎是三具身體，同一個病各長一次；fresh 只證明 hash 對得上 | [→](memory/2026-09-22-003711-twmd-babel-nightly.md) |
 | 2026-09-22 | 054001-twmd-routine-sync | 第 56 輪對賬：18 條零漂移，cron／enabled 無差；本機領先 8 全是 babel 批次，routine 層跟 origin 逐字相同；#1733 已關 | 「任何 Micro session 都能做」的交接等於沒有席位；第三輪把工具候選釘到 09-27 self-evolve | [→](memory/2026-09-22-054001-twmd-routine-sync.md) |
 | 2026-09-22 | 060126-twmd-embeddings-nightly | 13 語 13,692 向量 0 fail（+35 全在凌晨 babel 落地的語言），零分岔 44 分鐘重建，commit `c1533a7aa` 當班推到 origin | 任務檔的寫死路徑靠同機第二個 checkout 剛好沒壞，canonical 修了殼層還沒 | [→](memory/2026-09-22-060126-twmd-embeddings-nightly.md) |
+| 2026-09-22 | 060315-twmd-data-refresh-am | 第十七夜讓場 14 步全綠零 stale；unknown 404 第二夜過半進去拆，雙重編碼路徑補進 bad-encoding 判準、/sitemap.xml 補 301 | 帶指令與數字的交接當天就被做掉；既有判準都問 decode 會不會壞，雙重編碼壞得很整齊所以三個月沒人看見 | [→](memory/2026-09-22-060315-twmd-data-refresh-am.md) |
