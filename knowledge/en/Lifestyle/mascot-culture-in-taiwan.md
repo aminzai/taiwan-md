@@ -26,7 +26,11 @@ lastVerified: 2026-09-05
 lastHumanReview: false
 readingTime: 20
 curation: 'incubating'
-rationale: "{'why_this_hook': '從大同寶寶、職棒元年到菜奇鴨，梳理台灣吉祥物從企業贈品演進至承擔公共任務與地方治理的脈絡', 'whats_excluded': '排除短效型純廣告促銷角色與未具實體布偶裝或常態營運機制的純平面插畫', 'where_it_hedges': '探討角色可愛親和力的同時，指出黑熊題材辨識度飽和、外包抄襲風險與公共預算成效等現實挑戰', 'whos_pushing_back': '部分觀點認為地方吉祥物多屬活動消耗品與形式化政績包裝'}"
+rationale:
+  why_this_hook: '從大同寶寶、職棒元年到菜奇鴨，梳理台灣吉祥物從企業贈品演進至承擔公共任務與地方治理的脈絡'
+  whats_excluded: '排除短效型純廣告促銷角色與未具實體布偶裝或常態營運機制的純平面插畫'
+  where_it_hedges: '探討角色可愛親和力的同時，指出黑熊題材辨識度飽和、外包抄襲風險與公共預算成效等現實挑戰'
+  whos_pushing_back: '部分觀點認為地方吉祥物多屬活動消耗品與形式化政績包裝'
 translatedFrom: 'Lifestyle/吉祥物.md'
 sourceCommitSha: 'c0061c6df'
 sourceContentHash: 'sha256:62a0444682031043'

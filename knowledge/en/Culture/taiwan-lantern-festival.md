@@ -15,7 +15,11 @@ tags:
 subcategory: '節慶與禮俗'
 author: 'Taiwan.md Contributors'
 featured: false
-rationale: "{'why_this_hook': '台灣燈會是台灣少數能同時連結傳統節俗、公共藝術、城市行銷與大型活動治理的全國性文化事件。', 'whats_excluded': '本文不把台灣燈會與平溪天燈、各地廟會或台北燈節視為同一活動，也不以單一屆次的遊客數據代表所有年度。', 'where_it_hedges': '對早期活動名稱、主辦制度與參觀人次，依不同官方與研究資料採取分期描述，避免把宣傳口徑當成唯一歷史結論。', 'whos_pushing_back': '地方文化工作者與環境倡議者提醒，大型節慶的光環之外，仍需正視公共支出、交通承載、能源使用與地方敘事是否真正被保留。'}"
+rationale:
+  why_this_hook: '台灣燈會是台灣少數能同時連結傳統節俗、公共藝術、城市行銷與大型活動治理的全國性文化事件。'
+  whats_excluded: '本文不把台灣燈會與平溪天燈、各地廟會或台北燈節視為同一活動，也不以單一屆次的遊客數據代表所有年度。'
+  where_it_hedges: '對早期活動名稱、主辦制度與參觀人次，依不同官方與研究資料採取分期描述，避免把宣傳口徑當成唯一歷史結論。'
+  whos_pushing_back: '地方文化工作者與環境倡議者提醒，大型節慶的光環之外，仍需正視公共支出、交通承載、能源使用與地方敘事是否真正被保留。'
 lastVerified: 2026-08-25
 lastHumanReview: false
 curation: 'incubating'

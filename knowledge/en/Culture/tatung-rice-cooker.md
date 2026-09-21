@@ -13,7 +13,11 @@ updated: 2026-08-22
 type: 'article'
 status: 'published'
 language: 'zh-TW'
-rationale: "{'why_this_hook': '用一個開關與外鍋加水的具體動作，呈現技術如何被台灣家庭重新使用。', 'whats_excluded': '不把大同品牌史寫成企業年表，也不把所有電鍋型號列成產品目錄。', 'where_it_hedges': '企業售出的累計數字明確標示為公司自述，第一台電鍋的說法並列博物館與科技史脈絡。', 'whos_pushing_back': '以早期三十多家製造商與 1958 年皇冠牌先上市的資料，抵抗單一品牌壟斷電鍋起源的敘事。'}"
+rationale:
+  why_this_hook: '用一個開關與外鍋加水的具體動作，呈現技術如何被台灣家庭重新使用。'
+  whats_excluded: '不把大同品牌史寫成企業年表，也不把所有電鍋型號列成產品目錄。'
+  where_it_hedges: '企業售出的累計數字明確標示為公司自述，第一台電鍋的說法並列博物館與科技史脈絡。'
+  whos_pushing_back: '以早期三十多家製造商與 1958 年皇冠牌先上市的資料，抵抗單一品牌壟斷電鍋起源的敘事。'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Culture/電鍋.md'

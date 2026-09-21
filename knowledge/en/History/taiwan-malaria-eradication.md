@@ -11,7 +11,11 @@ lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
-rationale: "{'why_this_hook': '用連日清與潮州研究基地切入，說明瘧疾根除是研究、行政與地方生活共同完成的制度工程。', 'whats_excluded': '不把文章寫成疾病百科，也不把成果歸因於單一英雄或單一外援。', 'where_it_hedges': 'WHO 認證月份與臺灣證書日期分開標示，聖多美的不同統計口徑不混算。', 'whos_pushing_back': '文章保留公共衛生動員與威權治理重疊的問題，並指出根除後病媒蚊與境外移入風險仍在。'}"
+rationale:
+  why_this_hook: '用連日清與潮州研究基地切入，說明瘧疾根除是研究、行政與地方生活共同完成的制度工程。'
+  whats_excluded: '不把文章寫成疾病百科，也不把成果歸因於單一英雄或單一外援。'
+  where_it_hedges: 'WHO 認證月份與臺灣證書日期分開標示，聖多美的不同統計口徑不混算。'
+  whos_pushing_back: '文章保留公共衛生動員與威權治理重疊的問題，並指出根除後病媒蚊與境外移入風險仍在。'
 translatedFrom: 'History/瘧疾根除.md'
 sourceCommitSha: 'cf2d4d973'
 sourceContentHash: 'sha256:1a44b37b859d8b1a'

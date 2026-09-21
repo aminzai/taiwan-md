@@ -22,7 +22,11 @@ imageAlt: 'A pot of tea eggs steeping in dark tea broth at a Taiwanese convenien
 imageCredit: '(WT-shared) Shoestring / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tea_egg,_Taiwan.JPG'
-rationale: "{'why_this_hook': '用蛋殼裂紋與便利商店氣味，切入台灣如何把外來零售格式在地化。', 'whats_excluded': '不把茶葉蛋宣稱為台灣獨創，也不把單一品牌故事當成全台起源。', 'where_it_hedges': '食譜、起源與銷售數字依來源差異保留限定語，避免把傳聞寫成定論。', 'whos_pushing_back': '食安、價格、外來制度與品牌化都可能反駁「平價日常自然形成」的說法。'}"
+rationale:
+  why_this_hook: '用蛋殼裂紋與便利商店氣味，切入台灣如何把外來零售格式在地化。'
+  whats_excluded: '不把茶葉蛋宣稱為台灣獨創，也不把單一品牌故事當成全台起源。'
+  where_it_hedges: '食譜、起源與銷售數字依來源差異保留限定語，避免把傳聞寫成定論。'
+  whos_pushing_back: '食安、價格、外來制度與品牌化都可能反駁「平價日常自然形成」的說法。'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Food/茶葉蛋.md'

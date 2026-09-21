@@ -25,7 +25,11 @@ image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: '嘉義市政府 / Wikimedia Commons'
 imageLicense: '姓名標示授權（政府網站資料開放宣告）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
-rationale: "{'why_this_hook': '從台南與台語饒舌切入，避開只把大支寫成政治表態人物。', 'whats_excluded': '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。', 'where_it_hedges': '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。', 'whos_pushing_back': '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'}"
+rationale:
+  why_this_hook: '從台南與台語饒舌切入，避開只把大支寫成政治表態人物。'
+  whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
+  where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
+  whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
 translatedFrom: 'People/大支.md'
 sourceCommitSha: '498649feb'
 sourceContentHash: 'sha256:2e7abe81d37d5763'

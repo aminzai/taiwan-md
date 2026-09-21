@@ -19,7 +19,11 @@ featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/半導體供應鏈草稿地圖.md'
-rationale: "{'why_this_hook': '從「兆元宴」座位表切入，讓讀者先看見 AI 硬體供應鏈不是單一公司，而是一整組台灣工程節點。', 'whats_excluded': '不做完整產業百科，也不逐一列出台灣所有半導體、伺服器與零組件公司。', 'where_it_hedges': '把台灣的供應鏈價值與水電、碳排、所得分配、海外設廠、地緣政治風險一起處理。', 'whos_pushing_back': '全球客戶與盟友一方面需要台灣，另一方面也透過海外設廠降低對台灣海峽周邊產能的單點依賴。'}"
+rationale:
+  why_this_hook: '從「兆元宴」座位表切入，讓讀者先看見 AI 硬體供應鏈不是單一公司，而是一整組台灣工程節點。'
+  whats_excluded: '不做完整產業百科，也不逐一列出台灣所有半導體、伺服器與零組件公司。'
+  where_it_hedges: '把台灣的供應鏈價值與水電、碳排、所得分配、海外設廠、地緣政治風險一起處理。'
+  whos_pushing_back: '全球客戶與盟友一方面需要台灣，另一方面也透過海外設廠降低對台灣海峽周邊產能的單點依賴。'
 image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
