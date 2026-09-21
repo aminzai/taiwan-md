@@ -36,10 +36,10 @@ rationale:
   where_it_hedges: '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪'
   whos_pushing_back: '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'fdd06c978'
-sourceContentHash: 'sha256:9e044da79052e1d4'
-sourceBodyHash: 'sha256:0b3e476aa45a53ca'
-translatedAt: '2026-07-29T06:33:09+08:00'
+sourceCommitSha: '36aaa72e1'
+sourceContentHash: 'sha256:4084ed4b3480a75a'
+sourceBodyHash: 'sha256:70f421624b5717be'
+translatedAt: '2026-09-21T18:27:00.896806+00:00'
 ---
 
 # Wu Ming-yi: usando olhos compostos para escrever de volta o Taiwan que desapareceu

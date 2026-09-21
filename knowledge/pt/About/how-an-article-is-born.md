@@ -1,17 +1,17 @@
 ---
-title: 'Como um artigo é criado: a linha de produção de seis estágios do Taiwan.md que combate o instinto da escrita por IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
-description: 'Cada artigo que você lê no Taiwan.md possui profundidade, contexto e verificabilidade; por trás dele, há 6 estágios, mais de 20 portões obrigatórios e uma redação editorial de IA que não escreve seus próprios textos. A única razão para esta máquina existir é combater os erros mais comuns da escrita por IA: organizar fatos apenas por ordem cronológica, gerar frases genéricas sem valor informativo, traduzragamente resumos em inglês para citações falsas e ser contaminado por maus hábitos de textos antigos. Este artigo disseca essa linha de produção — e ele próprio é um produto dela.'
+title: 'Como um artigo é criado: A linha de produção de seis estágios do Taiwan.md que resiste à escrita por IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
+description: 'Cada artigo do Taiwan.md que você lê tem tempero, contexto e verificabilidade, graças a uma redação feita por um corpo editorial de IA que não escreve sozinho, passando por 6 estágios e mais de 20 portões intransponíveis. A única razão de existir desta máquina é corrigir os erros mais comuns da escrita por IA: listar fatos apenas em ordem cronológica, gerar frases sem informação, traduzir resumos em inglês para citações falsas ou ser contaminado pelos maus hábitos ao ler textos antigos. Este artigo desmembra essa linha de produção, e ele mesmo foi gerado por ela.'
 date: 2026-06-19
 tags:
   [
-    'about',
+    'sobre',
     'meta',
     'metodologia de escrita',
     'curadoria',
     'rewrite-pipeline',
     'editorial',
     'semiont',
-    'escrita por IA',
+    'escrita com IA',
   ]
 author: 'Taiwan.md'
 category: 'About'
@@ -19,13 +19,12 @@ readingTime: 11
 featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-relatedDiary:
-  - 2026-06-19-123349-manual
+relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: '984fb7892'
-sourceContentHash: 'sha256:92fcb394123e4aee'
-sourceBodyHash: 'sha256:b8984a2133e5738f'
-translatedAt: '2026-07-24T21:09:07+08:00'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:4dc98dc84117c5d8'
+sourceBodyHash: 'sha256:2679dec9ddab6dbc'
+translatedAt: '2026-09-21T18:57:08.826597+00:00'
 ---
 
 # Como um artigo é criado: a linha de produção de seis estágios do Taiwan.md que combate o instinto da escrita por IA (REWRITE-PIPELLEINE v7.5 × EDITORIAL v6.12)
@@ -210,21 +209,21 @@ A moderação é o outro lado. Famílias, doenças, conflitos e falhas humanas p
 
 Há também um hábito pequeno, mas vital: escreva "Taiwan" abertamente. A digital da evasão está escondida em traduções estrangeiras, usando "esta ilha" ou "este lugar" como substitutos para evitar escrever Taiwan, especialmente em títulos e introduções. Usar "ilha" como imagem literária ou cenário geográfico é permitido e encorajado; o que deve ser combatido é a evasão por medo de nomear Taiwan.
 
-## A diferença que se percebe num relance
+## A Diferença que se Entende de Relance
 
-Como essas disciplinas se traduzem na prática? O melhor modo é ver um antes e depois.
+Veja como é o resultado quando essas regras são aplicadas, comparando lado a lado.
 
-Ao escrever sobre Annette Yani (戴資穎), o modelo vazio da IA seria: "famosa jogadora de badminton de Taiwan, com excelente desempenho internacional, vencedora de vários prêmios, trazendo glória para Taiwan", seguido por quatro tópicos: principais conquistas, estilo de jogo, impacto internacional e contribuição social. O parágrafo não contém um único ano específico ou uma partida concreta; o sujeito poderia ser qualquer atleta.
+Ao escrever sobre Ratchanok Intanon (戴資穎), um modelo vazio de IA resultaria em: "Atleta de badminton proeminente de Taiwan, com excelente desempenho em competições internacionais e múltiplos prêmios, honrando Taiwan", seguido por quatro _bullet points_: principais conquistas, estilo de jogo, influência internacional e contribuição social. Todo o trecho não teria um ano específico nem uma competição específica; seria válido para qualquer atleta.
 
 ```tw-versus
-Modelo Vazio da IA | Versão Curadoria
-Excelente desempenho, glória para Taiwan | Alcançou o primeiro lugar do mundo e permaneceu por 214 semanas consecutivas
-Quatro tópicos: Conquistas/Estilo/Impacto/Contribuição | Chorou após a final de ouro nos Jogos de Tóquio 2020; tornou-se o primeiro termo pesquisado no Google Taiwan
-O sujeito poderia ser qualquer um | Treina 6 horas por dia desde os 6 anos; estilo de jogo "mágico" com a mão esquerda
-Fonte: EDITORIAL v6.12 §Antes/Depois: Annette Yani
+Modelo Vazio de IA | Versão Curada
+Desempenho excelente, honrando Taiwan | Chegar ao topo do mundo por 214 semanas seguidas
+Quatro bullet points: conquistas/estilo/influência/contribuição | Chorar após a final de ouro dos Jogos Olímpicos de Tóquio em 2020, chegando ao primeiro lugar nas buscas do Google em Taiwan
+Válido para qualquer sujeito | Treinando 6 horas por dia desde os 6 anos, com o estilo "mágico" da mão esquerda
+Fonte: EDITORIAL v6.12 §Antes/Depois Ratchanok Intanon
 ```
 
-A versão de curadoria faz apenas uma coisa: substituir cada adjetivo abstrato por um fato verificável. 214 semanas é o período mais longo na história do badminton feminino; a final de ouro em Tóquio 2020 contra Chen Yu-fei é um momento que Taiwan inteiro lembra. A "temperatura" reside em momentos como "o instante da derrota foi justamente quando o leitor se conectou". O mesmo vale para Mayday: em vez de escrever "uma das bandas de rock mais influentes de Taiwan, conquistando fãs com música positiva", escreva "cinco estudantes da High School anexa à Universidade Normal começaram tocando em palcos de rua; 28 anos depois, tocaram dois shows no Madison Square Garden em Nova York (o mesmo palco onde os Beatles tocaram nos EUA), com ingressos esgotados em 48 horas"[^13].
+A versão curada faz apenas uma coisa: transforma cada adjetivo abstrato em um fato verificável. As 214 semanas são o período mais longo de sucesso contínuo na história do badminton feminino, e a final dos Jogos Olímpicos de Tóquio de 2020 contra Chen Yufei é um momento que Taiwan se lembra coletivamente. A emoção está escondida em lugares como "o momento da derrota foi justamente o instante que os leitores lembram". O mesmo acontece com a matéria sobre Mayday; em vez de escrever "um dos grupos de rock mais influentes de Taiwan, conquistando fãs com música de energia positiva", é melhor escrever "quatro estudantes do Instituto de Ensino Médio de Taichung cantaram uma música em um palco independente e, 28 anos depois, fizeram dois shows no Madison Square Garden em Nova York (o mesmo palco onde os Beatles pisaram nos EUA), esgotando ingressos em 48 horas" [^13].
 
 ## Uma equipe editorial que não escreve seus próprios textos
 
