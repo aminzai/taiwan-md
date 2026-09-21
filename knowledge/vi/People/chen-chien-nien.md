@@ -168,7 +168,7 @@ Hát qua mấy bài lại sai một lần nữa, anh cười và tự chế nh�
 > **📝 Ghi chú của người sắp xếp**
 > Đối với một tư duy quen đứng ở vị trí chống lệnh chế độ trong câu chuyện rock, câu "công việc cảnh sát là hiệu trung quốc gia, trung thành với lãnh tụ" này bình thường phải được giải mã ngược. Nhưng Trần Kiến Niên nói lúc ấy hoàn toàn chân thành. Đó chính là lý do anh không thể bị điều chỉnh vào bất kỳ phía nào trong câu chuyện: anh không phải "nhạc sĩ bản địa nổi loạn giả vờ làm cảnh sát", cũng không phải "cảnh sát tuân lệnh chế độ tính mình làm nhạc". Anh là người tin hai việc cùng lúc — trung thành với đất đai, trung thành với quốc gia, trung thành với bài hát ngoại ông để lại, song song tồn tại trong một cơ thể. Điều song song tồn tại này rất phổ thông trong hệ thống công vụ Đài Loan. Phổ thông tới mức, khi anh viết ra thứ như "Đại dương" năm ấy, thế giới bên ngoài mới ngạc nhiên rằng một người như thế lại viết nhạc.
 
-![Trần Kiến Niên biểu diễn tại Hội trường Kỹ năng hình ảnh gốc ở Tân Trúc, toàn thân, ôm ghi ta bằng gỗ, nền là đèn sân khấu màu ấm.](/article-images/people/chen-chien-nien-hsinchu-vision-2018.webp)
+![Trần Kiến Niên biểu diễn tại Hội trường Kỹ năng hình ảnh gốc ở Tân Trúc, toàn thân, ôm ghi ta bằng gỗ, nền là đèn sân khấu màu ấm.](/article-images/people/chen-chien-nien-hsinchu-cropped-2018.webp)
 _Ngày 25 tháng 3 năm 2018, Trần Kiến Niên biểu diễn trong một buổi hòa nhạc nhỏ tại Tân Trúc. Ảnh: Taiwania Justo. [Giấy phép qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).\_
 
 ## Sau khi nghỉ hưu: nửa sau của cuộc đời
@@ -183,7 +183,7 @@ Danh sách nghỉ hưu mà anh liệt kê cũng rất cụ thể: chăm sóc đ�
 
 Những đoạn lời này xếp cạnh nhau đọc, sẽ phát hiện ra anh không bao giờ đóng gói mình thành "đại sứ âm nhạc bản địa" hay "đại sứ văn hóa Bì Nam". Anh thừa nhận xung đột văn hóa, thừa nhận Đảo Lan Tự có những vấn đề khó thay đổi, thừa nhận quần áo truyền thống cọ xát da — những chi tiết này trong câu chuyện truyền thông phổ biến "ca sĩ bản địa bậc cao kỳ" thường sẽ bị mài mòn, nhưng Trần Kiến Niên tự giữ lại chúng.
 
-![Trần Kiến Niên chụp gần mặt trước microphone khi biểu diễn ở Tân Trúc, cảm xúc tập trung dưới nón beret.](/article-images/people/chen-chien-nien-hsinchu-cropped-2018.webp)
+![Trần Kiến Niên chụp gần mặt trước microphone khi biểu diễn ở Tân Trúc, cảm xúc tập trung dưới nón beret.](/article-images/people/chen-chien-nien-hsinchu-vision-2018.webp)
 _Ngày 25 tháng 3 năm 2018, Trần Kiến Niên biểu diễn tại Tân Trúc — khoảnh khắc gần. Ảnh: Taiwania Justo. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg).jpg)._
 
 ## Tại sao người này quan trọng với Đài Loan
