@@ -1575,10 +1575,30 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         "structured_fallback_skip_reason": structured_fallback_skip_reason,
     })
 
+    # 2026-09-22：後端容量失敗（上游 429／provider error／key 池全空／本機斷網）說的是
+    # 後端此刻沒容量，不是這篇文章難；卻跟閘門拒收一樣記進難篇帳 fail_counts，累滿 8 次
+    # 沉到隊尾、再進 cascade-exhausted 清單（#38 (d) 混維度：容量 vs 難度）。02:26 起
+    # laguna 上游限流 20 分鐘，統一企業／許倬雲／高速公路三篇各白背一筆。這類失敗照常
+    # 寫 report 列、照常算 worker 健康帳（另一段的 hard_fail 邏輯），只是不算文章的帳。
+    CAPACITY_FAIL_MARKERS = (
+        "all OpenRouter keys rate-limit",
+        "all OpenRouter keys rate-limited or failed",
+        "Provider returned error",
+        "Available: []",
+        "nodename nor servname",
+        "Temporary failure in name resolution",
+        "Name or service not known",
+        "Network is unreachable",
+        "No route to host",
+    )
+    capacity_fail = (not ok) and any(m in primary_output for m in CAPACITY_FAIL_MARKERS)
+    if capacity_fail:
+        log(f"⏸ 後端容量失敗（{worker.label}）— 不計 {lang}:{zh_path} 的難篇帳")
+
     just_exhausted = False
     with state.lock:
         state.last_worker[f"{lang}:{zh_path}"] = worker.label
-        if not ok:
+        if not ok and not capacity_fail:
             state.quarantine_log[lang].add(zh_path)
             state.fail_counts[f"{lang}:{zh_path}"] += 1
             # cascade exhausted escalation（義務鐵律第 4 條，OBSERVER-QUEUE #18(c)，
