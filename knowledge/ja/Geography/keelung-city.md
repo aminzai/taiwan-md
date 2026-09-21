@@ -133,7 +133,7 @@ _主普壇と基隆タワー、2023-10-23。Photo: Wikimedia Commons contributor
 
 ## 正面のカラフルハウスの向こうに、阿根納の廃墟がある
 
-![正面漁港のカラフルな街屋、2025年8月。林右昌市長在任中、文大景観学系の郭瓊瑩主任と協力し、港辺の古い家屋を55色に塗り替えた。向かいには同じフレームに収まる阿根納造船所の廃墟が見える。](/article-images/geography/keelung-01.webp)
+![正面漁港のカラフルな街屋、2025年8月。林右昌市長在任中、文大景観学系の郭瓊瑩主任と協力し、港辺の古い家屋を55色に塗り替えた。向かいには同じフレームに収まる阿根納造船所の廃墟が見える。](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
 _正面漁港のカラフルな街屋、2025-08-12。Photo: Wikimedia Commons contributor, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
 
 都市が自らの廃墟をどう処理するかを見たければ、正面漁港に行くべきだ。
