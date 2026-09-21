@@ -20,19 +20,19 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '1b55dfc6c'
-sourceContentHash: 'sha256:f1e33836f112b9c8'
-sourceBodyHash: 'sha256:fb1ea1d55d3dd211'
-translatedAt: '2026-09-11T12:24:16+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:c545680e99f6d0ab'
+sourceBodyHash: 'sha256:809502b72dc5c3f5'
+translatedAt: '2026-09-21T14:34:18.532907+00:00'
 ---
 
-> **30-Second Overview:** In 2015, _Mu Yao 4 Super Play_ launched on Macabe Network TV; the first "One Day Series" episode appeared in 2016, and a dedicated YouTube channel was established in 2017. The show’s most intriguing aspect is not sending celebrities like Tai Zhi-yuan, KID, or Winnie to work for a day, but placing craftspeople, aides, and behind-the-scenes staff—who are rarely the protagonists—into a scene that can be watched by the entire island. _Mu Yao_ appears to be turning celebrities into ordinary people; in reality, it is turning the invisible expertise of ordinary jobs into a mass-audience program.
+> **30-second overview:** In 2015, _Mu Yao 4 Super Play_ launched on Macao Network Television; the first "One Day" episode appeared in 2016, and a separate YouTube channel was set up in 2017. What makes the show interesting is not sending figures like Tai Chi-yuan, KID, or Winnie to do a day's work, but rather placing ordinary craftsmen, aides, and behind-the-scenes staff into a scenario where they can be viewed by audiences across Taiwan. It looks as though _Mu Yao_ is turning stars into ordinary people; in reality, it is turning the invisible expertise of everyday jobs into a popular show.
 
-When Tai Zhi-yuan first climbed a power tower, the real difficulty wasn’t whether to be funny in front of the camera. The iron wires at the Taiwan Power Company (Taipower) Training Center required him to cut them more than ten times before succeeding. Climbing high-voltage towers required wearing safety gear and ascending step by step along the rungs. The _Taipower Monthly_ later documented this shoot, noting that he changed two or three work uniforms due to sweat.
+When Tai Chi-yuan first climbed a utility pole, the real difficulty was not whether to be funny in front of the camera. At the Taiwan Power Company's training center, he cut the guy wire more than ten times before succeeding. The high-voltage tower required him to put on safety gear and climb step by step along the rungs. The Taiwan Power Company's monthly magazine later wrote about this shoot, recalling how he changed his work clothes two or three times because he was sweating.
 
-This is a fitting object for understanding _Mu Yao 4 Super Play_: a pair of iron shears that cannot be cut, rather than a pretty view count. The show places celebrities in work environments, but this does not make the work easier. On the contrary, the celebrities’ clumsiness suddenly gives shape to the expertise that was previously hidden by daily routine.
+This is an apt object for understanding _Mu Yao 4 Super Play_: a pair of scissors that cannot be cut through, rather than a beautiful view count. Putting stars into the workplace did not make the work any easier. On the contrary, the stars' clumsiness gave shape to the expertise that is usually hidden by daily routine.
 
-> 📝 **Curator’s Note:** The most valuable "special effects" of _Mu Yao_ are often the hosts’ initial failures. Failure is not edited into a single inspirational slogan; instead, it retains the sense of time spent with swollen fingers, inability to climb, and the need to start over.
+> 📝 **Curator's note:** _Mu Yao_'s most valuable "special effects" are often the hosts' first attempts at doing things badly. Failures are not edited into a sentence of encouragement, but are left with the time of swollen fingers, being unable to climb up, and having to start over.
 
 ## From Live Streaming to Trial-and-Error in the "One Day" Series
 
@@ -94,20 +94,20 @@ Another problem the program later faced was how to continue a program that grew 
 
 This ending makes the four words "Mu Yao Spirit" dangerous. If we attribute the program’s success to a host’s personality, we miss the planners, camera operators, editors, partners, and craftspeople. If we attribute success to a replicable formula, we pretend that team restructuring will not change the program’s "flavor." What _Mu Yao_ leaves behind is not an answer sheet for "internet celebrity successology," but a question: when the audience loves the way a group works together, how does the program rebuild trust after that group changes?
 
-## The Program Craft of the One Day Series: Breaking "Work" into Watchable Steps
+## The Production Craft of the One-Day Series: Breaking "Work" into Viewable Steps
 
-The "One Day Series" appears to be one person doing a day’s work, but actually contains at least four production layers. The first layer is career selection: the topic must have a sense of novelty, yet cannot be completely unrelated to the audience’s life. The second layer is on-site teaching: the host does not directly receive a job title, but must first accept training on tools, safety, and procedures. The third layer is failure and retry: the host’s unfamiliarity provides punchlines, but also makes the craftsman’s proficiency visible. The fourth layer is post-production, compressing long hours of work into a narrative the audience is still willing to follow. Both research and production team interviews indicate that _Mu Yao_’s format was gradually explored between live streaming, pre-recording, interaction, and commercial pressure, rather than having a complete formula from the start. [^2] [^3]
+The one-day series appears to be about one person doing a day's work, but it actually involves at least four production layers. The first layer is occupational selection: the subject must feel unfamiliar yet remain relevant to viewers' lives. The second layer is on-site instruction: the host does not simply receive a job title but must first undergo training in tools, safety, and procedures. The third layer is failure and retry: the host's clumsiness provides comic relief while making the professionals' expertise visible. The fourth layer is post-production, compressing lengthy work into a narrative viewers are willing to follow. Interviews with research and production teams indicate that Thursday's format was gradually explored between live streaming, pre-recording, interaction, and commercial pressure—not a complete formula from the start.[^2][^3]
 
-These four layers also explain why ordinary "unboxing" is insufficient. Unboxing usually only requires displaying an object. The One Day Series requires the program to place the object back into a set of work relationships: who teaches the host, who checks safety, who is responsible for cleaning up the failure, who continues to finish the work after the host leaves. When Liao Chi-chang discussed planning, he emphasized that products or fields provided by enterprises cannot be filmed just because they "feel beautiful"; they must also make external audiences feel the hardship, novelty, or universal value of the work. [^3]
+These four layers also explain why a simple "unboxing" is insufficient. Unboxing usually only requires displaying an object. The one-day series instead requires the program to put the object back into a web of labor relations: who teaches the host, who checks safety, who cleans up after failures, and who continues the work after the host leaves. Liao Chi-chung emphasized during planning that the products or venues provided by businesses cannot be filmed merely because "they look nice," but must convey to external viewers the hardship, novelty, or universal value of the work.[^3]
 
-| Program Layer             | What the Audience Sees                                      | The Work Easily Ignored                                                 |
-| ------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Career Selection          | A strange or rarely filmed profession                       | How planners judge whether the topic has public interest                |
-| On-site Training          | Host holding tools, wearing gear, listening to instructions | Craftsman teaching, industrial safety, and risk management              |
-| Failure & Retry           | Clumsiness, errors, correction, and renewed challenge       | Proficiency is the result of long-term training, not an innate reaction |
-| Post-production Narrative | Punchlines, rhythm, and a complete episode story            | How editing decides which labor is kept and which is omitted            |
+| Program Layer             | What the Audience Sees                                          | Work Originally Overlooked                                      |
+| ------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Occupational Selection    | A strange or rarely filmed profession                           | How planners judge whether a topic has public interest          |
+| On-Site Training          | Host handling tools, putting on gear, listening to instructions | Professionals' teaching, industrial safety, and risk management |
+| Failure and Retry         | Clumsiness, mistakes, corrections, and repeated challenges      | Skill is the result of long-term training, not innate reaction  |
+| Post-Production Narrative | Comedy, pacing, and a complete story arc                        | How editing decides which labor is kept and which is omitted    |
 
-Therefore, _Mu Yao_’s "naturalness" is not without design, but rather design hidden where the audience need not pay attention. When the audience sees Tai Zhi-yuan failing to cut the iron wire, they usually do not simultaneously think of the camera position, the industrial safety officer’s judgment, the waiting time on site, and how editing composes repeated failures into a comprehensible segment. It is precisely this hidden production labor that makes the work in front of the camera appear to happen naturally.
+Thus, Thursday's "naturalness" is not without design—it is design hidden where the audience does not need to notice. When viewers see Tai Zhi-yuan struggling with iron wire, they typically do not simultaneously think about camera placement, industrial safety personnel's judgments, the time spent waiting on-site, or how editing turns repeated failures into an understandable segment. It is precisely this hidden production labor that makes the work in front of the camera appear naturally occurring.
 
 ## View Counts Are Not the Same Thing
 
@@ -141,9 +141,9 @@ It appears to be turning celebrities into ordinary people; on a deeper level, it
 
 ## Further Reading
 
-[Taiwan YouTuber Industry and Culture](../Culture/台灣YouTuber產業與文化.md)
+[Taiwan YouTube Industry and Culture](/en/culture/taiwan-youtuber-industry)
 
-[Taiwan Variety](../Culture/台灣綜藝.md)
+[Taiwan Variety Shows](/en/culture/taiwan-variety-shows)
 
 [How Web Culture and Commerce Coexist: How Does the "One Day Series" Respond to New Forms of Variety Programs?](http://commagazine.twmedia.org/?p=5929)
 

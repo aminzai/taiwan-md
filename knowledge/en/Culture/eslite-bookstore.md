@@ -35,10 +35,10 @@ curation: 'incubating'
 rationale: "{'why_this_hook': '誠品書店是台灣少數能跨越國界、被視為「生活方式輸出」的文化品牌，其 24 小時模式是全球都市文化中的獨特案例。', 'whats_excluded': '排除特定暢銷書榜單的細節分析；排除個別門市的微小經營異動；排除誠品生活旗下非文化類專櫃的品牌史。', 'where_it_hedges': '關於實體書店沒落的討論，明確標註電商衝擊與誠品自身策略調整的交互影響，避免將熄燈簡化為單一原因。', 'whos_pushing_back': '傳統獨立書店批評誠品過度商業化導致書店「百貨化」；文化評論者擔憂誠品在全球擴張中可能面臨的審查與文化稀釋問題。'}"
 relatedDiary: ['2026-08-13-manual']
 translatedFrom: 'Culture/誠品書店.md'
-sourceCommitSha: '63ad1b2b8'
-sourceContentHash: 'sha256:ec07a1faa117e7b7'
-sourceBodyHash: 'sha256:49e3639b8d3ada20'
-translatedAt: '2026-09-11T08:06:41+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:3b7540877760c9ee'
+sourceBodyHash: 'sha256:2e2b5a8142de57dd'
+translatedAt: '2026-09-21T15:36:18.376391+00:00'
 ---
 
 > **30-Second Overview:** Eslite Bookstore is the spiritual coordinate of contemporary Taiwanese culture, founded by Wu Ching-yau in 1989. Its core charm lies in integrating "humanities, arts, creativity, and life" into spatial curation, and pioneering the "24-hour non-stop" operating model in 1999, making reading a late-night urban ritual. Eslite has not only changed the reading habits of Taiwanese people but also developed bookstores into a "cultural life ecosystem" encompassing design, dining, and performances through its "culture supported by commerce" composite model. Currently, Eslite operates over 40 locations across Taiwan and has successfully expanded to Hong Kong, mainland China, Japan, and Malaysia. Despite facing challenges in digital transformation and the closure of flagship stores, Eslite remains an important cultural brand exported by Taiwan, witnessing the island's transition from economic takeoff to the awakening of cultural subjectivity. This is not just the rise and fall of a bookstore, but the relentless pursuit of "spiritual settlement" by Taiwanese people. This "invisible library" continues to evolve into new forms for the digital age, becoming a cultural symbol of the island's resilience.
@@ -51,40 +51,40 @@ Early Eslite did not prioritize profit but was dedicated to creating a reading a
 
 It broke the impression of traditional bookstores being crowded and messy, introducing wooden floors, soft lighting, and professional book selection mechanisms, elevating "visiting a bookstore" from a mere shopping behavior to a practice of lifestyle aesthetics. This was not only a revolution in commercial space but also a concrete response to Taiwanese society’s desire for high-quality spiritual life after the lifting of martial law. In that historical context, Eslite became the spiritual home for Taiwanese intellectuals and artistic youth. This idealism of "doing it even if it loses money" became Eslite’s most core intangible asset, allowing it to maintain its irreplaceable cultural halo even during later commercial expansion. Wu Ching-yau’s insistence on "obscure books" even led Eslite to be viewed as a form of "social public welfare" rather than a purely commercial entity in its early days [^5] [^9].
 
-## 24-Hour Non-Stop: A Soulful Safe Haven in the Late-Night City and Sociological Observation
+## 24 Hours, Never Closing: The Soul Haven of the Midnight City and Sociological Observations
 
-In 1995, Eslite Dun Nan moved to its current location on Dunhua South Road (now closed). In 1999, Eslite boldly launched the "24-hour non-stop" plan, an innovation that completely changed Taipei’s late-night landscape. At that time, Taiwan was in the painful period of economic transition and the dawn of the digital age. Eslite provided a late-night space that required no alcohol and no noise, yet made people feel warmth and belonging.
+In 1995, Eslite Dun Nan Store moved to its Xindun South Road location (now darkened). In 1999, Eslite boldly launched its "24-Hour Non-Closing" plan, an innovation that fundamentally transformed Taipei's nighttime landscape. At that time, Taiwan was experiencing the growing pains of economic transformation and the dawn of the digital age. Eslite provided a late-night space that needed no alcohol, no clamor, yet could make people feel warm and belonging.
 
-This "midnight bookstore" quickly became a must-visit attraction for international tourists coming to Taiwan. _TIME_ magazine once selected it as the "Best Bookstore in Asia." On the steps of Eslite Dun Nan, you might see students preparing for exams, designers seeking inspiration, engineers just off work, or even travelers with nowhere to go late at night. This inclusivity of "reading without defenses" created a unique form of social capital.
+This "midnight bookstore" quickly became a must-visit destination for international tourists visiting Taiwan. _TIME_ magazine once selected it as the "Best Bookstore in Asia." On the stairs of Eslite Dun Nan Store, you might see cramming students, designers seeking inspiration, engineers just off work, and even night-wandering travelers with nowhere to go. This "unrestrained reading" inclusiveness created a unique form of social capital.
 
-_Image: The roundabout bookshelves and wooden steps of Eslite Dun Nan were once the warmest cultural coordinate in Taipei’s late night, defining the urban ritual of "late-night reading."_
+_ Figure: Eslite Dun Nan Store's circular book rack and wooden stairs, once Taipei's most warm-hearted cultural coordinates, defining the urban ritual of "midnight reading." _
 
-A 24-hour bookstore is not just a retail space; it is a "soulful safe haven" for the city, symbolizing a city’s reverence for knowledge and empathy for the lonely. This cultural landscape later influenced urban planning and cultural imagination in places like Hong Kong, Suzhou, and Tokyo. The 24-hour model of Eslite Dun Nan essentially defined a sense of "security" and "civilizational height" in Taiwanese urban life. When late-night cities around the world are mostly occupied by bars and nightclubs, Taipei has a warm yellow light that always shines for those eager for knowledge. This "late-night intellectual tranquility" has become an important label for Taiwan’s soft power [^4] [^11] [^17].
+The 24-hour bookstore is not just a retail space, but a "soul haven" of the city, symbolizing a city's respect for knowledge and its compassion for loners. This cultural landscape later also influenced urban planning and cultural imagination in Hong Kong, Suzhou, Tokyo, and other places. Eslite Dun Nan Store's 24-hour model essentially defined a "sense of security" and "civilization height" of Taiwan's urban life. When cities around the world are dominated by bars and nightclubs at night, Taipei has a warm yellow light that always shines for those who thirst for knowledge. This "intellectual tranquility in the middle of the night" has become an important label of Taiwan's soft power [^4] [^11] [^17].
 
 ```tw-timeline
-1989 | Founding Point | Wu Ching-yau founded the first Eslite Bookstore at Ren’ai Roundabout in Taipei, focusing on humanities and arts professional book selection and gallery operations
-1995 | Dun Nan Relocation | Eslite Dun Nan moved to its current location, beginning to establish the prototype of composite operations, integrating design stores and arts spaces
-1999 | Late-Night Revolution | Dun Nan officially launched the 24-hour operating model, becoming the world's first non-closing humanities bookstore
-2004 | Year of Profit | After 15 years of losses, Eslite achieved full-year profitability for the first time, proving the "culture supported by commerce" model
-2006 | Flagship Xinyi | Eslite Xinyi opened, establishing the large-scale commercial model of "cultural life department store," becoming a new Taipei landmark
-2012 | Cross-Sea Export | Causeway Bay store in Hong Kong opened, launching the international chain of Taiwanese lifestyle aesthetics and exporting Taiwanese cultural values
-2020 | Dun Nan Closure | The iconic Dun Nan store closed due to lease expiration, with Xinyi taking over the 24-hour responsibility, sparking nostalgia across Taiwan
-2023 | Xinyi Closure | Xinyi store closed due to lease expiration, the 24-hour bookstore officially moved to Songshan, opening a park-based reading mode
-2024 | Songshan Succession | Eslite Songshan completed renovation, becoming a new 24-hour landmark "visible to the sky," integrating the cultural and creative landscape
+1989 | Founding Point | Wu Ching-yau founded the first Eslite Bookstore at Taipei's Ren'ai Roundabout, focusing on humanities and arts professional book selection and gallery operations
+1995 | Dun Nan Relocation | Eslite Dun Nan Store moved to its current location, beginning to establish the prototype of compound operations, integrating design shops and art spaces
+1999 | Midnight Revolution | Dun Nan Store officially launched the 24-hour business model, becoming the world's first non-closing humanities bookstore
+2004 | Profit Year | After 15 years of losses, Eslite achieved its first full-year profit, proving the "culture supported by commerce" model
+2006 | Flagship Xinyi | Eslite Xinyi Store opened, establishing the large-scale commercial model of "cultural life department store" and becoming a new landmark in Taipei
+2012 | Going Overseas | Hong Kong Causeway Bay Store opened, kicking off the international chain of Taiwan's lifestyle aesthetics and exporting Taiwan's cultural value
+2020 | Dun Nan Darkened | The iconic Dun Nan Store closed due to lease expiration, with Xinyi Store taking over the 24-hour duty, triggering nostalgia across Taiwan
+2023 | Xinyi Darkened | Xinyi Store closed due to lease expiration, and the 24-hour bookstore was officially transferred to Songshan Store, ushering in the park's reading mode
+2024 | Songshan Takes Over | Eslite Songshan Store completed renovation, becoming a new 24-hour landmark of "visible to the sky and clouds," integrating cultural and creative landscapes
 Source: Eslite Living Annual Report, Taiwan Kuo-Hwa Magazine, Digital Times, 2024
 ```
 
-## Culture Supported by Commerce: The Composite Model and the Business Aesthetics of Eslite Living
+## Commerce Cultivating Culture: The Composite Model and Eslite's Business Aesthetics
 
-The key to Eslite’s ability to maintain its cultural height lies in its successful "culture supported by commerce" business model. As its scale expanded, Eslite developed the "Eslite Living" brand, combining bookstores with design counters, cultural and creative brands, fine dining, and even performance halls and cinemas. This "composite cultural field" allowed bookstores to no longer fight alone but became the core engine driving foot traffic, supporting high rent and book selection costs through non-book revenue.
+The key to Eslite maintaining its cultural height lies in its successful "commerce cultivating culture" business model. As its scale expanded, Eslite developed the "Eslite Spectrum" brand, combining bookstores with design boutiques, cultural and creative brands, fine dining, performance halls, and cinemas. This "composite cultural space" meant bookstores were no longer fighting alone but had become the core engine driving foot traffic, with non-book revenue supporting the high costs of rent and book selection.
 
-_Image: Eslite Songshan represents the transformation result of Eslite deeply integrating reading with historical architecture and design craftsmanship. Through spatial curation, Eslite successfully transformed traditional bookstores into a multi-functional cultural life ecosystem._
+_ Figure: Eslite Songshan Store represents Eslite's transformation of integrating reading with historic buildings and design craftsmanship. Through spatial curation, Eslite successfully transformed the traditional bookstore into a multi-functional cultural and living ecosystem. _
 
-This model reached its peak at Songshan. Eslite Songshan not only has a bookstore but also includes a cultural and creative hotel designed by Toyo Ito, an art cinema, and numerous hands-on workshops emphasizing "live performance." Eslite here plays not only the role of a retailer but also that of a "cultural curator."
+This model reached its peak at the Songshan Store. Eslite Songshan not only had a bookstore but also included a cultural and creative hotel designed by architect Ito Toyoo, an art cinema, and numerous workshops emphasizing "live demonstration." At this location, Eslite played the role of not just a retailer but also a "cultural curator."
 
-However, this tendency toward "department store-ization" has also drawn criticism from some intellectuals, who believe that Eslite’s commercial atmosphere is gradually overshadowing the scent of books. In response, Eslite Chairman Wu Min-chieh has admitted that culture and revenue are equally important; only a healthy commercial system can ensure the sustainable existence of reading spaces. This tug-of-war between idealism and reality is the way Eslite has survived for over thirty years. Eslite’s spatial design often emphasizes "human scale"; even in commercial spaces, it retains a large number of seats and blank spaces. This respect for people is its core competitiveness. This philosophy of operating a "third space" allows Eslite to maintain its irreplaceable physical value even under the impact of e-commerce giants like Amazon [^12] [^14] [^19].
+However, this "mall-like" tendency also sparked criticism from some intellectuals, who felt that Eslite's commercial atmosphere was gradually overshadowing its literary character. In response, Eslite Chairman Wu Min-chieh frankly admitted that culture and revenue are equally important, and only a healthy business system can ensure the sustainable existence of reading spaces. This tug-of-war between ideals and reality has been Eslite's survival strategy over its more than thirty years. Eslite's spatial design often emphasizes "human scale," retaining ample seating and white space even in commercial spaces. This respect for people is its core competitiveness. This "third space" management philosophy allows Eslite to maintain its irreplaceable physical value even under the impact of e-commerce giants like Amazon [^12] [^14] [^19].
 
-<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="Dream Knight's Eslite Journey: Wu Ching-yau Documentary" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GnzjrfDAoho" title="夢想騎士的誠品之旅：吳清友紀錄片" allowfullscreen></iframe>
 
 ## The Curtain Call of Dun Nan and Xinyi: 180,000 Hours of Waiting and Farewells from Thousands
 
@@ -98,15 +98,15 @@ In 2024, Eslite Songshan completed a large-scale renovation and officially took 
 
 Songshan’s design draws inspiration from Dun Nan’s "reading steps" and Xinyi’s "40-meter reading corridor," attempting to recreate classics in a new landscape. It integrates the Vinyl Museum, Eslite Hotel, and Art Cinema, forming a complete "cultural ecosystem." What Eslite is experimenting with here is a "more resilient" operating model: utilizing the park’s tourist foot traffic and cultural and creative atmosphere to reduce reliance on single retail income. This is not just a bookstore relocation but Eslite’s bold definition of the "future bookstore" form: it must be a sensible space that can breathe and interact naturally with the city. Songshan’s "narrative of light and shadow" gives late-night reading a certain sacred natural feeling, redefining 21st-century urban reading aesthetics [^7] [^8] [^12].
 
-## Spatial Aesthetics and Visual Vocabulary: Eslite’s Architectural Narrative and Taste Construction
+## Spatial Aesthetics and Visual Language: Eslite's Architectural Narrative and Taste Construction
 
-Eslite’s success is largely due to its extreme pursuit of "spatial aesthetics." Each Eslite store emphasizes "chain but not copy," designing exclusively based on local historical context and urban characteristics. For example, the now-closed Dun Nan store created a sense of ritual for a "palace of knowledge" through wooden steps and circular bookshelves. Xinyi displayed the demeanor of a "global Traditional Chinese reading center" through its open corridors. Songshan uses large floor-to-ceiling windows to introduce the greenery of the Songshan Cultural and Creative Park and the light and shadow of dawn and dusk.
+Eslite's success is largely rooted in its relentless pursuit of "spatial aesthetics." Each Eslite store emphasizes "chain consistency without duplication," tailoring its design to the local historical context and urban characteristics. For instance, the now-closed Dun Nan store used wooden staircases and circular bookshelves to create the ceremonial sense of a "temple of knowledge." The Xinyi store, with its spacious corridors, embodied the grandeur of a "global traditional Chinese reading center." The Songshan store, meanwhile, drew in the greenery and dawn-to-dusk light and shadow of the Songshan Cultural and Creative Park through large floor-to-ceiling windows.
 
-Eslite’s visual vocabulary—steady wood tones, warm yellow light, and low-key signage systems—has become the standard configuration for Taiwan’s "hipster aesthetics." This design is not just for aesthetics but to create a "psychological boundary." When readers step into Eslite, the noisy urban rhythm is filtered out, replaced by a sense of tranquility focused on the inner self.
+Eslite's visual language—steady wood tones, warm lighting, and understated signage systems—has become the standard configuration of Taiwan's "literary youth aesthetics." This design is not merely about beauty; it is about creating a "psychological boundary." The moment readers step into Eslite, the noisy urban rhythm is filtered out, replaced by a tranquil focus on the inner self.
 
-_Image: Eslite Bookstore is known for its wooden tones and warm lighting; this "spatial curation" ability is its core competitiveness in maintaining physical value in the e-commerce era._
+_ Figure: Eslite Bookstore is known for its wood-toned design and warm lighting; this "spatial curation" capability is the core competitive advantage for maintaining physical value in the e-commerce era. _
 
-This "healing function" of space is particularly precious in the digital age of information overload. Eslite’s visual identity system has also evolved multiple times, shifting from early elegant artistic feelings to more modern and omnichannel-consistent designs, but always maintaining its insistence on "humanistic feeling." This aesthetic influence has even permeated Taiwan’s interior design and commercial space layout, forming a unique "Eslite style." Eslite is not just selling books; it is selling an "imagination of an ideal life" [^10] [^18].
+The "healing function" of these spaces is especially precious in today's information-overloaded digital age. Eslite's visual identity system has also undergone multiple evolutions, shifting from early elegant artistic sensibilities toward more modern and omnichannel-consistent designs, while always maintaining its commitment to "humanistic feeling." This aesthetic influence has even permeated Taiwan's interior design and commercial space layouts, forming a unique "Eslite style." Eslite is not just selling books; it is selling an "imagination of an ideal life" [^10] [^18].
 
 ## Pusher of the Publishing Industry: Eslite’s Book Selection and the Authority of Reading Professionals
 
@@ -178,54 +178,50 @@ Source: Eslite Living 2024 Statistical Data
 
 ## Further Reading
 
-- [Development of Taiwan’s Cultural and Creative Parks: From Abandoned Factories to the Sensible Engine of the City](../Culture/台灣文化創意園區發展.md)
-- [Urban Aesthetics of Old and New: The Preservation Movement of Dadaocheng and Dihua Street](../Geography/城市與人文地理.md)
-- [History of Taiwanese Cinema: From Healthy Realism to the Digital New Wave](../Art/電影.md)
-- [The Reporter - The Survival Battle of Physical Bookstores: Restructuring the Cultural Map after Eslite’s Closure](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
-- [History of Taiwanese Pop Music: From Banned Songs to the Creative Center of Asia](../Music/台灣流行音樂.md)
-
----
-
----
+- [Taiwan Cultural and Creative Parks Development: From Abandoned Factories to the City's Emotional Engine](/en/culture/taiwan-cultural-creative-park-development)
+- [Urban Aesthetics of Old and New Intertwined: The Conservation Movement of Dadaocheng and Dihua Street](/en/geography/dadaocheng)
+- [Taiwan Cinema History: From Healthy Realism to the Digital New Wave](/en/art/taiwanese-cinema)
+- [The Reporter - The Survival Battle of Physical Bookstores: Cultural Territory Reorganization After Eslite's Closure](https://www.twreporter.org/tag/574e98b79b5c2c10007f3747)
+- [Taiwan Pop Music: From Forbidden Songs to Asia's Creative Center](/en/music/golden-melodies-legacy-taiwan-pop-music)
 
 ## References
 
-[^1]: [Eslite Living Official Website — Development History: A Cultural Journey Starting from the 1989 Ren’ai Roundabout Store](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Detailed record of Eslite’s early founding and major expansion milestones over the years.
+[^1]: [Eslite Life Official Website — Development History: From the 1989 Ren'ai Circle Store to a Cultural Journey](https://www.eslitecorp.com/eslite/index.jsp?site_id=eslite_tw&func_id=0648512515) — Detailed records of Eslite's early founding and major expansion milestones.
 
-[^2]: [Wikipedia — Eslite Bookstore Entry: Corporate History, Operating Model, and Closure Controversy](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Provides comprehensive information on Eslite’s share structure, listing records, and changes in various stores.
+[^2]: [Wikipedia — Eslite Bookstore Entry: Corporate History, Business Model, and Shutdown Controversy](https://zh.wikipedia.org/zh-tw/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Provides comprehensive information on Eslite's shareholding structure, listing records, and store transitions.
 
-[^3]: [Taiwan Kuo-Hwa Magazine — The Last Page of the Midnight Bookstore: Eslite Dun Nan’s Closure Number and Social Collective Memory](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — In-depth analysis of the significance and emotional connection of the 24-hour bookstore model to Taiwanese urban culture.
+[^3]: [Taiwan Guanghua Magazine — The Last Page of the Midnight Bookstore: Eslite Dunhua Store Closure and Collective Social Memory](https://www.taiwan-panorama.com/Articles/Details?Guid=7e2ec6c8-fc13-4aec-a12e-77b8513ff91c) — In-depth analysis of the significance and emotional connection of the 24-hour bookstore model to Taiwan's urban culture.
 
-[^4]: [United Daily News Time Machine — [Eslite Bookstore at 1989 Ren’ai Roundabout] Do You Remember This Cultural Landmark?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Organizes precious images from Eslite’s early founding and historical archives of Wu Ching-yau’s founding intentions.
+[^4]: [United Daily News Time Machine — [Eslite Bookstore at Ren'ai Circle in 1989] Do You Remember This Humanistic Landmark?](https://www.facebook.com/UDNtime/posts/914176915694058/) — Compilation of precious early images of Eslite and historical archives of Wu Qingyou's founding intentions.
 
-[^5]: [Marie Claire — Goodnight Eslite Dun Nan! 31 Years of History Officially Closes, Chairman Wu Min-chieh’s Farewell Letter](https://www.marieclaire.com.tw/lifestyle/news/50233) — Records the historical moment of Dun Nan’s closure in 2020 and the turning point of the operator’s vision.
+[^5]: [Marie Claire — Farewell Eslite Dunhua Store! 31 Years of History Officially Shut Down, Chairman Wu Minjie's Parting Letter](https://www.marieclaire.com.tw/lifestyle/news/50233) — Records the historic moment of the Dunhua store closure in 2020 and the entrepreneur's vision shift.
 
-[^6]: [Baidu Baike — Wu Ching-yau’s Life Story: From Kitchenware Merchant to the Life Philosophy of Eslite Bookstore Founder](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Organizes Wu Ching-yau’s personal background and his definition of Eslite’s core values.
+[^6]: [Baidu Baike — Wu Qingyou's Life: From Kitchenware Merchant to Founder of Eslite Bookstore, a Philosophy of Life](https://baike.baidu.com/item/%E5%90%B4%E6%B8%85%E5%8F%8B/2869307) — Compilation of Wu Qingyou's personal background and his definition of Eslite's core values.
 
-[^7]: [Eslite Living Official News — Eslite Living Songshan Takes Over! Creating a 24-Hour Bookstore "Visible to the Dawn and Dusk Clouds"](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Introduces the design concept and functions of Songshan as a new 24-hour reading landmark in 2024.
+[^7]: [Eslite Life Official News — Eslite Life Songshan Store Takes Over! Creating a 24-Hour Bookstore Where You Can See the Sky's Morning and Evening Clouds](https://www.eslitecorp.com/eslite/news.jsp?site_id=eslite_tw&id=174) — Introduces the design concept and functions of the Songshan store as a new 24-hour reading landmark in 2024.
 
-[^8]: [Eslite Meet — 8 Highlights of Eslite Songshan 24-Hour Bookstore’s New Renovation: Drawing on the Design Essence of Dun Nan and Xinyi](https://meet.eslite.com/tw/tc/news/202509260003) — Provides specific spatial configurations and service upgrade details after Songshan’s renovation.
+[^8]: [Eslite Enthusiast Eslite Meet — Eslite Songshan 24-Hour Bookstore Fully Redecorated: 8 Highlights Combining Dunhua and Xinyi Design Essence](https://meet.eslite.com/tw/tc/news/202509260003) — Provides specific spatial layouts and service upgrade details after the Songshan store renovation.
 
-[^9]: [Commercial Weekly — Not Giving Up the 24-Hour Bookstore! Eslite Chairman Admits: Culture and Revenue Are Equally Important](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — In-depth interview with Wu Min-chieh on Eslite’s operational strategy of balancing commerce and ideals.
+[^9]: [Business Weekly — Not Giving Up on 24-Hour Bookstores! Eslite Chairman Honestly Says: Culture Is Equally Important as Revenue](https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6011114) — In-depth exclusive interview with Wu Minjie on balancing business and ideals in Eslite's operational strategy.
 
-[^10]: [YouTube Taiwan Heart Scenery — The Secret Behind Eslite Bookstore: The Only 24-Hour Reading Safe Haven Operating in Taiwan](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Audio-visual data recording Eslite’s sensible positioning and healing function in Taiwanese society.
+[^10]: [YouTube Taiwan Scenery — The Secret Behind Eslite Bookstore: The Only 24-Hour Reading Shelter Across Taiwan](https://www.youtube.com/watch?v=gGmIOmM5tKE) — Video documentation of Eslite's emotional positioning and healing function in Taiwanese society.
 
-[^11]: [Weekly History — Eslite Development History: Pioneering the 24-Hour Bookstore, the Brand Legend of Making Reading Never Close](https://weeklyhistory.net/eslite-brandstory/) — Detailed sorting of Eslite’s transformation process from a professional bookstore to a lifestyle department store brand.
+[^11]: [Weekly History — The Development of Eslite: Pioneering 24-Hour Bookstores, Creating a Legendary Brand That Never Closes Reading](https://weeklyhistory.net/eslite-brandstory/) — Detailed chronology of Eslite's transformation from a professional bookstore to a lifestyle department store brand.
 
-[^12]: [Eslite Meet — Eslite Living Songshan Service Information: The Core of Cross-Boundary Live Performance and Composite Mall Operations](https://meet.eslite.com/tw/tc/store/20180220034) — Introduces specific operational items and brand spirit of Eslite Living within the Songshan Park.
+[^12]: [Eslite Enthusiast Eslite Meet — Eslite Life Songshan Service Information: Cross-Domain Demonstrations and the Core of Complex Mall Operations](https://meet.eslite.com/tw/tc/store/20180220034) — Introduces the specific operational projects and brand spirit of Eslite Life within the Songshan Garden Area.
 
-[^13]: [INSIDE Hard塞 Network Trend Observation — Digital Transformation Guide: Eslite’s Omnichannel Layout, Member Management, and Organizational Transformation](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Professional analysis of Eslite’s digital transformation strategies and effectiveness in the face of e-commerce impacts.
+[^13]: [INSIDE Hardcore Internet Trends — Digital Transformation Guide: Eslite's Omnichannel Layout, Membership Operations, and Organizational Reform](https://www.inside.com.tw/feature/inside-pay-per-view-digital-transformation/28205-eslite-digital-transformation) — Professional analysis of Eslite's digital transformation strategies and outcomes in the face of e-commerce impact.
 
-[^14]: [Digital Times — Eslite Profits for the First Time in 4 Years! E-Commerce Expected to Break Even in 3 Years, 5 Major Flagship Stores in North, Central, and South Ready](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Reports on Eslite’s 2025 shareholders meeting regarding improved financial conditions and future expansion plans.
+[^14]: [Digital Era — Eslite Turns Profit for the First Time in 4 Years! E-Commerce Expected to Break Even Within 3 Years, Five Major Flagship Stores Across North, Central, and South](https://www.bnext.com.tw/article/83400/eslite-2025-shareholders-meeting) — Reports on shareholder meeting information in 2025 regarding Eslite's improved financial performance and future store expansion plans.
 
-[^15]: [Tripadvisor Travel Reviews — Eslite Living Songshan Store: A Must-Visit Attraction Combining Cultural and Creative, Bookstores, and Historical Landscapes](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Obtains public evaluations and experience records of Eslite as an international tourist landmark.
+[^15]: [TripAdvisor Travel Reviews — Eslite Life Songshan Store: A Must-Visit Attraction Combining Cultural Creativity, Bookstore, and Historical Scenery](https://www.tripadvisor.com.tw/Attraction_Review-g13808515-d7202751-Reviews-Eslite_Spectrum_Songyan_Store-Xinyi_District_Taipei.html) — Obtains public reviews and experience records of Eslite as an international tourism landmark.
 
-[^16]: [Commonweal Magazine — The Truth Behind Eslite’s Closure: Physical Survival Battle Under High Housing Prices and E-Commerce Squeeze](https://www.cw.com.tw/) — References analysis of Taiwan’s retail industry changes and the sociological significance of Eslite’s closure.
+[^16]: [Commonwealth Magazine — The Truth Behind Eslite's Closure: Survival Struggle Under High Housing Prices and E-Commerce Pressure](https://www.cw.com.tw/) — Reference analysis on the transformation of Taiwan's retail industry and the sociological meaning of Eslite's closure.
 
-[^17]: [TIME Magazine — Best in Asia: Why is Eslite Bookstore the Best Bookstore in Asia?](https://time.com/) — Obtains authoritative evaluations and positioning of Eslite in international media.
+[^17]: [TIME Magazine — Asia's Best: Why Is Eslite Bookstore Asia's Best Bookstore?](https://time.com/) — Obtains authoritative evaluations and positioning of Eslite in international media.
 
-[^18]: [Sociology Journal — Eslite Bookstore and the Construction of Taiwanese Middle-Class Taste: A Spatial Sociological Examination](https://www.ios.sinica.edu.tw/) — References academic discussions on Eslite’s impact on Taiwan’s taste culture.
+[^18]: [Sociology Journal — Eslite Bookstore and the Construction of Taiwan's Middle-Class Taste: A Spatial Sociology Investigation](https://www.ios.sinica.edu.tw/) — Reference academic discourse on Eslite's influence on Taiwan's taste culture.
 
-[^19]: [Taiwan Design Research Institute — Eslite Songshan’s Spatial Curation and Cultural and Creative Brand Cultivation Report](https://www.tdri.org.tw/) — Obtains professional analysis of Eslite’s role in the cultural and creative industry chain.
+[^19]: [Taiwan Design Institute — Eslite Songshan's Spatial Curation and Cultural Creative Brand Cultivation Report](https://www.tdri.org.tw/) — Obtains professional analysis of Eslite's role in the cultural creative industry chain.
 
-[^20]: [Ministry of Economic Affairs Industrial Development Bureau — Taiwan Lifestyle Aesthetics Industry Export Report: Eslite’s Competitiveness in Overseas Markets](https://www.ida.gov.tw/) — References government assessment and outlook on Eslite’s internationalization process.
+[^20]: [Ministry of Economic Affairs Industrial Development Bureau — Taiwan Lifestyle Aesthetic Industry Export Report: Eslite's Competitiveness in Overseas Markets](https://www.ida.gov.tw/) — Reference government assessment and outlook on Eslite's internationalization process.

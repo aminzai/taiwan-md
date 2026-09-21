@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-28T18:52:01+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T14:23:29.196985+00:00'
 ---
 
 # Tsai Ing-wen: From the Night of Defeat to 8.17 Million Votes, an Eight-Year Presidency of Quietude
@@ -149,24 +149,24 @@ Another map expanded in the opposite direction. The U.S. Congress passed the "Ta
 
 Therefore, "fewer diplomatic allies" and "more international support" are both true, but they measure different things. The former counts the number of countries recognizing the Republic of China; the latter describes substantial links without formal ties. The Tsai administration chose to bet limited resources on the latter; this choice increased Taiwan's exposure in democratic nations without stopping the continued loss of official recognition. How a reader evaluates it depends on whether they believe the core of diplomacy is status, practical cooperation, or both are indispensable.
 
-## After Leaving Office, Still Looking at Rules Before Stepping In
+## After Leaving Office, Still Following Rules Before Proceeding
 
-On May 20, 2024, Tsai Ing-wen handed over her presidential duties to Lai Ching-te. The DPP's consecutive wins in three presidential elections marked the first such record since direct presidential elections began.
+On May 20, 2024, Tsai Ing-wen handed the presidency to Lai Ching-te. The Democratic Progressive Party (DPP) achieved a rare feat in post-direct presidential elections by winning three consecutive terms.
 
-In October of that same year, she visited the Czech Republic, France, and Belgium as a former president, attending an invited reception for members of the European Parliament at the European Parliament building. She was the first outgoing Taiwanese president to enter the seat of the European Parliament, though it was not a formal speech in the European Parliament; her planned trip to the UK did not take place.[^18]
+In October of that year, she traveled to Prague, Paris, and Brussels as a former president, attending a parliamentary reception at the European Parliament building. This was the first former Taiwanese president to visit the EU headquarters, though it was not an official speech before the European Parliament; her planned trip to the UK did not materialize.[^18]
 
-From the WTO negotiation table to a meeting room in the European Parliament, she continued to do similar things: see how far the rules allowed and bring Taiwan to that boundary.
+From the WTO negotiating table to a meeting room in the European Parliament, she continued to do similar things: seeing where the rules allowed her to go, and then bringing Taiwan to that boundary.
 
-The story returns to the 2012 defeat stage. That "do not give up" was no longer just a word of comfort after eight years as president. Indigenous lands, judicial reform, housing prices, energy, and Taiwan Strait risks were not solved by her; same-sex marriage laws, pension systems, and defense adjustments have become realities that the successor government must continue or address.
+The story ultimately returns to the 2012 election loss. The phrase "do not give up," after eight years as president, was no longer just a comfort. Issues such as indigenous land, judicial reform, housing prices, energy, and cross-strait risks were not resolved by her; while the same-sex marriage law, pension system, and defense adjustments became realities that subsequent governments had to continue or respond to.
 
-When she left the Presidential Office, 8.17 million votes had long become a historical figure. What remained was another, quieter piece of evidence: a politician can leave behind institutions without raising their voice, and those institutions will faithfully preserve what she accomplished—and what she did not.
+When she left the Presidential Office, 8.17 million votes were already a historical number. What remained was another quieter piece of evidence: that political figures can leave behind systems without raising their voice, and those systems faithfully preserve what they accomplished and what they did not.
 
-**Further Reading:**
+**Further Reading**:
 
-- [Invisible Nation](../Art/看不見的國家.md) — A documentary by Ge Jing-wen capturing Tsai Ing-wen's seven years, observing her character and Taiwan's democracy from an external lens.
-- [Taiwan Same-Sex Marriage and Gender Equality](../Society/台灣同婚與性別平權.md) — The full journey from Interpretation 748 and referendums to the passage of the special law.
-- [Taiwan Indigenous History and Identity Movement](../History/台灣原住民族歷史與正名運動.md) — The struggle before the apology, and the land and identity issues still pending after the apology.
-- [Ma Ying-jeou](馬英九.md) — The former president who defeated Tsai Ing-wen in 2012 and handed power to her in 2016.
+- [The Invisible Nation](/en/art/invisible-nation) — A documentary chronicling Tsai Ing-wen's seven years through the lens of Ge Jing-wen, observing her personality and Taiwanese democracy from an external perspective.
+- [Taiwanese Marriage Equality and Gender Equality](/en/society/taiwan-marriage-equality-lgbtq-rights) — The complete process from Article 748 to referendums and the enactment of the special law.
+- [Indigenous Peoples' History and Naming Movement in Taiwan](/en/history/indigenous-peoples-history-and-naming-movement) — Struggles before the apology, and land and identity issues that remain after the apology.
+- [Ma Ying-jeou](馬英九.md) — The former president who defeated Tsai Ing-wen in 2012 and passed power to her in 2016.
 - [Lai Ching-te](賴清德.md) — Tsai Ing-wen's vice president and successor.
 
 ## Image Sources
@@ -178,13 +178,13 @@ When she left the Presidential Office, 8.17 million votes had long become a hist
 
 ## References
 
-[^1]: [Central Election Commission: Results of the 13th Presidential and Vice Presidential Elections](https://db.cec.gov.tw/ElecTable/Election?type=President); [Central News Agency: Retrospective on Tsai Ing-wen's defeat speech](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Official counts show a gap of 797,561; original speech used "give up" (洩氣).
+[^1]: [Central Election Commission: Results of the 13th Presidential and Vice Presidential Elections](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [Central News Agency: Retrospective on Tsai Ing-wen's defeat speech](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Official counts show a gap of 797,561; original speech used "give up" (洩氣)
 
 [^2]: [Central Election Commission: Presidential and Vice Presidential Election Database](https://db.cec.gov.tw/ElecTable/Election?type=President) — 6,894,744 votes in 2016 (56.12%); 8,170,231 votes in 2020 (57.13%).
 
-[^3]: [Central News Agency: Tsai Ing-wen's growth and family](https://www.cna.com.tw/news/firstnews/201605190152.aspx); [ETtoday: Claims of Paiwan heritage](https://www.ettoday.net/news/20160514/694830.htm) — Public records vary on the generation of lineage; this article only notes "possessing Paiwan heritage."
+[^3]: [Central News Agency: Tsai Ing-wen's growth and family](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday: Claims of Paiwan heritage](https://www.ettoday.net/news/20160514/694830.htm) — Public records vary on the generation of lineage; this article only notes "possessing Paiwan heritage."
 
-[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen); [University of London: Statement on Dr Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — The institution confirmed the 1984 degree.
+[^4]: [LSE: Statement on the PhD of Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [University of London: Statement on Dr Tsai Ing-wen's PhD](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — The institution confirmed the 1984 degree
 
 [^5]: [CNN: Tsai Ing-wen, the leader who put Taiwan on the map](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Her self-description and observations by Gu Li-hsiung and Vanessa Hope should be distinguished.
 
@@ -192,7 +192,7 @@ When she left the Presidential Office, 8.17 million votes had long become a hist
 
 [^7]: [Office of the President: President apologizes to indigenous people on behalf of government](https://www.president.gov.tw/NEWS/20603) — Transcript and policy commitments from August 1, 2016.
 
-[^8]: [Central News Agency: Same-sex marriage special law passes three readings](https://www.cna.com.tw/news/firstnews/201905175002.aspx); [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Passed on May 17, effective May 24; 526 pairs on the first day.
+[^8]: [Central News Agency: Same-sex marriage special law passes three readings](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Passed on May 17, effective May 24; 526 pairs on the first day
 
 [^9]: [Executive Yuan Pension Reform Office: History of pension reform](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Legislation and implementation timeline for civil servants and military personnel.
 
@@ -206,7 +206,7 @@ When she left the Presidential Office, 8.17 million votes had long become a hist
 
 [^14]: [Office of the President: Plan to strengthen all-people defense force structure](https://www.president.gov.tw/News/27201) — Announced December 27, 2022; implemented one-year mandatory service starting in 2024.
 
-[^15]: [Ministry of Defense, Japan: Chinese ballistic missile movements in August 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html); [Ministry of National Defense, Taiwan: Dynamics of Chinese military exercises](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japan identified 9; Taiwan counted 11; this article retains the discrepancy.
+[^15]: [Ministry of Defense, Japan: Chinese ballistic missile movements in August 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Ministry of National Defense, Taiwan: Dynamics of Chinese military exercises](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japan identified 9; Taiwan counted 11; this article retains the discrepancy
 
 [^16]: [CSIS ChinaPower: Tracking China's Increased Military Activities in 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 flights across the median line in 2022.
 
@@ -218,7 +218,7 @@ When she left the Presidential Office, 8.17 million votes had long become a hist
 
 [^20]: [Ministry of the Interior, Department of Land Administration: Progress of social housing promotion](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Official statistics on direct construction, lease management, and rent subsidies.
 
-[^21]: [Ministry of Economic Affairs: Explanation of energy transition policy](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001); [Control Yuan: Investigation into national blackouts](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Energy structure goals and blackout incidents should be attributed separately.
+[^21]: [Ministry of Economic Affairs: Explanation of energy transition policy](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Control Yuan: Investigation into national blackouts](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Energy structure goals and blackout incidents should be attributed separately
 
 [^22]: [BBC: China newspaper criticised over unmarried Tsai comments](https://www.bbc.com/news/world-asia-36309137) — Criticism regarding gender discrimination after Chinese state media linked her marital status to her political character.
 
