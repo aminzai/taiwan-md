@@ -1314,6 +1314,58 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical
 - **2026-09-21 twmd-maintainer-am 落地**：(a) 12 篇母稿 38 條改絕對路徑，三條目標不存在的改指大稻埕／台灣電影／純文字（`4f3974f86`）；(b) `verify_internal_links.py` 加 `is_relative_href` + `resolve_relative_href`，在 09-07 舊 dist 上 456 條相對連結現形（`69f7c6211`）。(c) babel 產線拒收 `../` 未做。譯文那 129 檔等 babel 依 source sha 追，本班沒碰。
 
+### 2026-09-22 twmd-babel-nightly — staged-files-leak-into-a-parallel-writers-commit：手動 session 的 pre-commit 失敗後檔案留在 index，並行 dispatcher 下一個 commit 把它們整批掃走
+
+- **pattern**: `staged-files-leak-into-a-parallel-writers-commit`
+- **原則**：同一個工作樹的 index 是所有寫入者共用的資源。`git commit` 只認 index，不認「是誰 add 的」。手動 session 把 118 檔 stage 好、hook 擋下、檔案還留在 index，這時 dispatcher 的 `git add <精確路徑> && git commit` 就把那 118 檔一起收進它的「ja 批次 6 篇」commit（`26d3f390a`：5 ja ＋ 85 pt）。dispatcher 那端的範圍紀律完全正確，仍掃到別人的東西——精確路徑 add 只能保證「我不多加」，保證不了「index 裡沒有別人的」。`verify-commit-scope.sh` 也只量自己這端。
+- **觸發**：2026-09-22 01:xx 本班 rationale heal pt 批次，lint-staged 因 pt 一篇既有 fence-prose 債失敗；30 秒後 dispatcher commit ja 批次，stat 裡多了 85 個 pt 檔。內容正確（是本班修好的檔），歸屬錯（訊息說 ja 6 篇）。
+- **instances**：
+  - 2026-09-22 twmd-babel-nightly → memory/2026-09-22-003711-twmd-babel-nightly.md
+- **修補（本班已做，殼層）**：手動 commit 一律走 dispatcher 同一個 mkdir 鎖 `/tmp/taiwan-md-git.lock`（鎖住 add→commit→驗範圍整段），hook 失敗立刻 `git reset` 再放鎖。**候選機械化**：`git_lock_commit()` 在 add 之前先 `git diff --cached --quiet`，index 不空就印 ⚠️ 並列出誰的檔在裡面，再決定要不要照常 commit（現在是靜默吞）；或 pre-commit hook 偵測到平行 writer 時對「staged 但不在本次 add 清單」的檔叫。
+- **可能層級**：REFLEXES #68 多核心 git 協調的 commit 階段補一條（現有寫的是 `git add .` 掃進別人的，這條是別人的 commit 掃進我的）；#6 範圍紀律的鏡像
+- **相關**：#68、#6、#42（v6 manifest race 同型：共用資源 last-write-wins）、cross-session-git-index-pollution vc=2 → 本例 vc=3
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-22 twmd-babel-nightly — metadata-stale-bump-assumes-frontmatter-unchanged：「body 沒變」被 Tier 0b 讀成「什麼都沒變」，261 份譯文的卡片圖停在 zh 已經換掉的熱連結
+
+- **pattern**: `metadata-stale-bump-assumes-frontmatter-unchanged`
+- **原則**：status 的 `metadata-stale` 定義是「contentHash 變、bodyHash 沒變」，也就是變的全在 frontmatter 與 trailer。Tier 0b `bump-source-sha.py` 對它的處置是「只 bump 三個 sha」——這個處置隱含的前提是「變的只有 sha 值得抄」，但 frontmatter 裡的 passthrough 欄位（image／imageCredit／imageLicense／imageSource／featured）正是這一類變動最常改的東西。zh 把 Wikimedia 熱連結 cache 成 `/article-images/` 是 frontmatter-only 變動 → metadata-stale → bump → fresh，譯文卡片圖留在舊熱連結，而且從此 fresh 沒有任何路徑會再看它。全站量到 261 份 image 不同、179 份仍熱連結（pre-commit image-health hard，等於這些檔任何後續 heal 都會被自己的舊債擋住）。
+- **觸發**：2026-09-22 rationale heal 的 ar 批次被 `megaport-festival` 的 image-health hard 擋下，追到 image 是熱連結而 zh 已本地化；全庫掃出 261。
+- **instances**：
+  - 2026-09-22 twmd-babel-nightly → memory/2026-09-22-003711-twmd-babel-nightly.md
+- **修補（本班已做）**：`bump_one()` import `heal-frontmatter-types.sync_passthrough_fields()`，bump 時同步卡片圖四欄＋featured；存量 261 份用 `heal-frontmatter-types.py --sync-passthrough` 逐語抄回。同步集刻意保守：date／readingTime／lastVerified／lastHumanReview 也在 verify PASSTHROUGH，但對 body 還停在舊版的 stale 譯文提前抄 lastVerified 等於替沒驗過的內容蓋章，留給重翻。
+- **可能層級**：REFLEXES #38 混維度新變體（「一個狀態值蓋住兩種處置」：metadata-stale 同時蓋住「只有 sha 該動」與「passthrough 該抄」）；SQUEEZE §Tier 0b 加一句「bump 必同步 passthrough」
+- **相關**：#38、#82（fresh 是 metadata fresh 不是 content fresh）、REFLEXES #56 canonical ↔ production drift
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-22 twmd-babel-nightly — one-gate-three-engines-three-rulers：wikilink 路由在整篇／patch／structured 三條引擎各有一份實作（含零份），同一個病在第三條引擎重新長出來
+
+- **pattern**: `one-gate-three-engines-three-rulers`
+- **原則**：同一個轉換（`[[X]]` → 目標語言連結或純文字）住在三條引擎裡：整篇引擎靜 manifest、patch 引擎 2026-08-09 自己抄一份反查、structured 引擎沒有。三份的共同盲點還一樣——解析不出來的都「保守不動交給 prompt」，而模型並不聽（把括號裡翻掉、括號留著）。structured 引擎一夜 18 次 wikilink-target 硬閘拒收，每次是一整篇 GPU 時間。patch 引擎 08-09 修這個病時寫的 docstring 說「跟整篇路徑同樣保守」——把第二份抄成跟第一份一樣，等於把盲點也抄過去。
+- **觸發**：2026-09-22 拆 run 98122 的 health [wikilink-target] 家族（15 structured ＋ 3 whole）。
+- **instances**：
+  - 2026-09-22 twmd-babel-nightly → memory/2026-09-22-003711-twmd-babel-nightly.md
+- **修補（本班已做）**：`cross_link_localizer.resolve_wikilinks()` 單一來源（從所有 zh 檔建 stem 索引、同名跨分類不猜；有譯文連結化、沒有降純文字），三引擎呼叫點全改走它。**未做的一半**：frontmatter 欄位所有權（TRANSLATED／PASSTHROUGH）也是三份手抄（09-21 handoff 已列）；整篇引擎的 imageAlt 是本夜第三次補同一個欄位（structured 09-21、patch 09-21、whole 09-22）——引擎層的共用轉換清單值得盤一次。
+- **可能層級**：REFLEXES #92 twin-artifact 的三胞胎版；#83 兩把尺；#56
+- **相關**：#92、#83、#42 v4（sub-agent 把既有問題框選 out-of-scope，這裡是引擎把解析不出的框選給 prompt）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-22 twmd-babel-nightly — fresh-status-hides-truncation：全檔剩一半以下位元組的譯文，三個 hash 對得上就永遠 fresh，沒有任何路徑會再碰它
+
+- **pattern**: `fresh-status-hides-truncation`
+- **原則**：`status.py` 的 fresh 是 provenance 對得上（sha／contentHash／bodyHash），不是內容完整。babel-health 每夜量到 76 份 CRITICAL(<0.5) 截斷檔，其中 11 份 fresh（ja 12,144 bytes 的台達電子只剩 2,077 bytes）；免費 cascade 只吃 stale／missing，Tier 6/7 資格集合也只看 stale／metadata-stale，fresh 的截斷檔是所有路徑的交集空格。classify() 早有一道同型的閘（腳註遺失 → 強制 stale，2026-06-06 為 263 篇去引用加的），截斷卻沒有——兩個「內容不完整但 provenance 正確」的病，一個有閘一個沒有。
+- **觸發**：2026-09-22 跑 babel-health 六維，ratio 維 76 CRITICAL，對 status 交叉才看見 11 份 fresh。
+- **instances**：
+  - 2026-09-22 twmd-babel-nightly → memory/2026-09-22-003711-twmd-babel-nightly.md
+- **修補（本班已做）**：classify() 加截斷閘（bytes 比 < 0.5 → stale reason `truncated`），排在腳註閘之後、provenance 比對之前；首跑 ja 10／es 1 進隊。判 stale 不判 missing，舊頁留給讀者。
+- **可能層級**：REFLEXES #82 proxy signal（hash 相等是「翻過」的替身，不是「翻完」）；#38 (f) 存活≠生產的資料版
+- **相關**：#82、#38、MEMORY §神經迴路「fresh count 上升 ≠ 品質好」
+- **verification_count**: 1
+- **severity**: structural
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
