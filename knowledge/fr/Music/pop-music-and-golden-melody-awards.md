@@ -2,9 +2,7 @@
 title: 'Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables'
 description: "En 2024, à la Taipei Arena, No Party for Cao Dong est sacré une deuxième fois ; leur manager reçoit les prix à leur place, et toute la salle garde le silence pour une batteuse disparue. En trente-cinq ans, les Golden Melody Awards sont passés d'une lettre manuscrite de Tsai Chin à une cérémonie nationale ; ils ont couronné Fantasy de Jay Chou, les 14 nominations d'A-Mei, et ont aussi attribué les plus hautes distinctions à des chansons en taïwanais, en hakka et en langues autochtones. C'est là que Taïwan récompense sa propre musique et décide quelles voix méritent d'être retenues."
 date: 2026-06-28
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '音樂產業與獎項'
 tags:
   [
     'Golden Melody Awards',
@@ -15,17 +13,21 @@ tags:
     'chansons en taïwanais',
     'politique culturelle',
   ]
-readingTime: 16
+subcategory: '音樂產業與獎項'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-28
 lastHumanReview: false
-featured: false
-translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '47d78ce7'
-sourceContentHash: 'sha256:5406c0a04ed7374f'
-sourceBodyHash: 'sha256:0794328a7ed72af5'
-translatedAt: '2026-06-29T00:47:38+08:00'
+readingTime: 16
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'
+rationale: "{'why_this_hook': '凡凡的鼓聲全場靜默——用一個情感重量最高的時刻，帶讀者立體認識「金曲獎是台灣怎麼決定什麼聲音值得被記住」，而非押一個論戰式論點（spine_type 立體群像）。', 'whats_excluded': '唱片產業興衰/串流轉型交給台灣流行音樂與串流時代不重複；兩岸/審查時刻（島嶼天光騰訊跳過、巴奈天安門被微博刪、大陸歌手缺席）只純中立紀實，不下主權判斷、不用對抗語言（§自主權邊界 政治立場處置）。', 'where_it_hedges': '蔡琴信內容為事後口述（原件未公開，不寫「信中明列」）；草東「兩度橫掃三項」用「罕見」非「史上唯一」；滅火器致詞結尾各源出入只保「天佑台灣」。', 'whos_pushing_back': '語言分類爭議兩方並陳（郭力昕批評「鞏固弱勢語言被邊緣化」vs 官方保護論）；評審閉門制的「小圈圈/分豬肉」質疑與公信力並列。'}"
+relatedDiary: ['2026-06-28-080352-manual']
+translatedFrom: 'Music/金曲獎.md'
+sourceCommitSha: '7701a4867'
+sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceBodyHash: 'sha256:89d2f2476f597f2c'
+translatedAt: '2026-09-21T09:36:50.040407+00:00'
 ---
 
 # Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables
@@ -238,27 +240,28 @@ _L’ouverture de la 37e édition des Golden Melody Awards en 2026. A-Lin prése
 
 Trente-sept éditions déjà : cette cérémonie née d’une lettre reste à la fois solennelle, drôle, et capable de faire retenir toute une nuit.
 
-## Depuis plus de trente ans, comment cette île s’écoute elle-même
+## Trois décennies, comment cette île s'écoute elle-même
 
 Revenons à ces quelques secondes de silence.
 
-En 2024, à la Taipei Arena, No Party for Cao Dong est sacré une deuxième fois ; le manager reçoit les prix à leur place et dit : « Merci, Fan-fan. » Fan-fan est partie, mais sa batterie reste dans The Servile. Chaque fois que quelqu’un appuie sur lecture, cette batterie résonne à nouveau. Une batteuse disparue est retenue par toute une industrie grâce aux Golden Melody Awards ; un album sorti trois ans plus tôt est réentendu par toute une génération à cause d’elle.
+Au Taipei Arena en 2024, No Party for Cao Dong est à nouveau sacré, leur agent récupère le prix et dit « merci Fan Fan ». Fan Fan est partie, mais sa batterie résonne encore dans 《醜奴兒》 — chaque fois que quelqu'un appuie sur lecture, ce passage de batterie retentit à nouveau. Un batteur parti, que les Golden Melody Awards ont fait retenir par toute une industrie ; un album de trois ans, qui grâce à eux, a été réécouté par toute une génération.
 
-C’est sans doute ce que font les Golden Melody Awards. De cette première édition sobre de 1990 à la 37e édition d’aujourd’hui, ils répondent chaque année, pour Taïwan, à la même question : quelles voix, sur cette île, méritent cette année d’être soigneusement retenues ?
+C'est probablement ce que font les Golden Melody Awards : depuis cette première édition modeste de 1990 jusqu'à la 37e aujourd'hui, ils répondent année après année à la même question pour Taïwan — cette année, quels sont les sons de cette île qui méritent d'être soigneusement gardés en mémoire.
 
-Ils retiennent la nuit où Fantasy de Jay Chou a tout balayé, la ténacité des quatorze nominations d’A-Mei, mais aussi la mer chantée par un policier de Taitung, un album entièrement en paiwan, un chanteur hakka qui refuse son trophée, une chanson née dans la rue. Mandarin, taïwanais, hakka, langues autochtones ; les disques vendus à plus d’un million d’exemplaires et ceux dont on ne comprend pas une phrase ; les rois de la pop au sommet et ceux qui écrivent discrètement des chansons : ils maintiennent toutes ces voix sur une même scène.
+Ce qu'ils ont gardé en mémoire : le balayage de Jay Chou avec _Fantasy_ cette nuit-là, la persévérance d'A-mei nommée quatorze fois, mais aussi la mer chantée par un policier de Taitung, un album entièrement en paiwan, un chanteur hakka qui a refusé le trophée, une chanson née dans la rue. Mandarin, taïwanais, hakka, langues autochtones, ceux qui se sont vendus à plus d'un million et ceux dont on ne comprend pas un mot, les rois de la scène actuels et ceux qui écrivent des chansons dans l'ombre — ils ont mis tous ces sons sur une même scène.
 
-Depuis plus de trente ans, au fond, les Golden Melody Awards ne se contentent pas de remettre des prix. Ils consignent, année après année, pour Taïwan, la manière dont cette île s’écoute elle-même.
+Après trois décennies, les Golden Melody Awards ne décernent pas vraiment des prix. Ils inscrivent, année après année, pour Taïwan, la manière dont cette île s'écoute elle-même.
 
 ---
 
 ## Pour aller plus loin
 
-- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Toute l’histoire des hauts et des bas de l’industrie, de l’ère du disque à celle du streaming ; les Golden Melody Awards en sont la graduation officielle
-- [Évolution des chansons en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — Des complaintes mélancoliques au virage rock de « Marching Forward » de Lim Giong, comment les chansons en taïwanais sont entrées dans le courant dominant
-- [Traditions musicales autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants de village à Chen Chien-nien et ABAO, les racines et le présent de la musique autochtone
-- [Auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — Les voix et les conditions de création d’une lignée qui va de Samingad à Panai et ABAO
-- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — Comment No Party for Cao Dong et la génération StreetVoice ont contourné l’industrie du disque pour atteindre la plus haute scène des Golden Melody Awards
+- [La musique pop de Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De l'industrie du disque à l'ère du streaming, toute l'histoire des hauts et des bas de l'industrie ; les Golden Melody Awards en sont la mesure officielle
+- [L'évolution de la chanson en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — De la complainte sentimentale au tournant rock de « Marche en avant » de Lin Qiang, comment la chanson en taïwanais a conquis le grand public
+- [Les traditions musicales des peuples autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants tribaux à Chen Chien-nien et ABAO, les racines et le contemporain de la musique autochtone
+- [Les auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — La voix et la situation des créateurs de cette lignée : Chi Hsiao-chun, Panai, ABAO
+- [La musique indépendante de Taïwan](/fr/music/indie-music-scene) — Comment la génération No Party for Cao Dong et StreetVoice a contourné l'industrie du disque pour atteindre le sommet des Golden Melody Awards
+- [Les Golden Bell Awards](/culture/金鐘獎) — La plus ancienne des « trois ors » : forgée en 1965 pour la radio, soixante et un ans de palmarès qui racontent qui tient la télévision à Taïwan
 
 ## Sources des images
 
