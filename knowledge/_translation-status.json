@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-21T18:37:15+08:00",
-    "zhCommitHead": "cfce22eee",
+    "lastUpdated": "2026-09-21T18:44:44+08:00",
+    "zhCommitHead": "f4a3ab5e5",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 951,
+        "fresh": 952,
         "stale": 61,
         "metadata_stale": 11,
-        "missing": 101,
+        "missing": 100,
         "orphan": 0
       },
       "ar": {
@@ -95240,8 +95240,8 @@
           "sourceContentHash": "sha256:cd5b6f64f9368b38",
           "sourceBodyHash": "sha256:62721bcda4248fc8",
           "translatedAt": "2026-09-21T00:58:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f4a3ab5e",
+          "translationLastModified": "2026-09-21T18:37:15+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -133960,8 +133960,8 @@
           "sourceContentHash": "sha256:1eec7db88151a213",
           "sourceBodyHash": "sha256:09d674a05740ab52",
           "translatedAt": "2026-09-21T00:58:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f4a3ab5e",
+          "translationLastModified": "2026-09-21T18:37:15+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -181245,7 +181245,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/tatala-tao-plank-boat.md",
+          "translatedFrom": "Culture/拼板舟.md",
+          "sourceCommitSha": "1c1927882",
+          "sourceContentHash": "sha256:b67985f61b48d180",
+          "sourceBodyHash": "sha256:7e401e79a285bbeb",
+          "translatedAt": "2026-09-21T00:58:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/tatala-tao-plank-boat.md",

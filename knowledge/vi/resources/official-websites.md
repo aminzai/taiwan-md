@@ -1,182 +1,182 @@
 ---
-title: 'official-websites'
-description: 'Các trang web chính thức của Đài Loan không chỉ cung cấp dịch vụ chính phủ và thông tin chính sách, mà còn là cửa sổ quan trọng để hiểu hệ thống chính trị, sự phát triển văn hóa và quản trị xã hội của Đài Loan. Những trang web này phản ánh mức độ minh bạch của chính trị dân chủ Đài Loan, tiến bộ của quản trị kỹ thuật số, cũng như sự chú trọng đến việc bảo tồn và quảng bá văn hóa. Đối với những người nghiên cứu, tìm hiểu Đài Loan, hoặc cần thông tin chính thức, danh sách tài nguyên này cung cấp hướng dẫn các nguồn thông tin có thẩm quyền nhất.'
+title: 'Tập hợp các trang web chính thức của Đài Loan 🏛️'
+description: 'Các trang web chính thức của Đài Loan không chỉ cung cấp dịch vụ và thông tin chính sách của chính phủ mà còn là cửa sổ quan trọng để hiểu về thể chế chính trị, sự phát triển văn hóa và quản trị xã hội của Đài Loan.'
 date: 2026-03-17
 category: 'resources'
-tags: ['resources', 'government', 'official', 'Taiwan.md']
+tags: ['nguồn lực', 'chính phủ', 'chính thức', 'Đài Loan.md']
 subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-17
+lastVerified: 2026-09-19
 lastHumanReview: false
 translatedFrom: 'resources/official-websites.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:0d481ed818da82f8'
-sourceBodyHash: 'sha256:6713c8a6c615e62a'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '228056aba'
+sourceContentHash: 'sha256:029227bd7721737f'
+sourceBodyHash: 'sha256:0c3be7e5f653ab89'
+translatedAt: '2026-09-21T00:58:30+08:00'
 ---
 
-# Danh sách toàn bộ các trang web chính thức của Đài Loan 🏛️
+# Tập hợp các trang web chính thức của Đài Loan 🏛️
 
-> **Tóm tắt 30 giây:** Danh mục đầy đủ 81 trang web chính thức của các cơ quan chính phủ Đài Loan, các tổ chức văn hóa nghệ thuật, các nền tảng dữ liệu mở, v.v., cung cấp dịch vụ chính phủ, thông tin chính sách, nội dung văn hóa, dữ liệu thống kê tại một cửa. Từ hệ thống năm viện đến các bộ ngành khác nhau, từ Bảo tàng Cung Điện đến các nền tảng dữ liệu mở, nắm bắt toàn diện các tài nguyên kỹ thuật số chính thức của Đài Loan.
+> **Tổng quan trong 30 giây:** Tổng hợp đầy đủ 81 trang web chính thức của các cơ quan chính phủ, tổ chức văn hóa nghệ thuật và nền tảng dữ liệu mở của Đài Loan, cung cấp một điểm truy cập duy nhất cho dịch vụ chính phủ, thông tin chính sách, nội dung văn hóa và số liệu thống kê. Từ hệ thống Ngũ Viện đến các bộ ngành, từ Bảo tàng Cố Cung đến nền tảng dữ liệu mở, trang này bao quát toàn diện các nguồn tài nguyên kỹ thuật số của Đài Loan.
 
-## Tại sao quan trọng
+## Tại sao lại quan trọng
 
-Các trang web chính thức của Đài Loan không chỉ cung cấp dịch vụ chính phủ và thông tin chính sách, mà còn là cửa sổ quan trọng để hiểu hệ thống chính trị, sự phát triển văn hóa và quản trị xã hội của Đài Loan. Những trang web này phản ánh mức độ minh bạch của chính trị dân chủ Đài Loan, tiến bộ của quản trị kỹ thuật số, cũng như sự chú trọng đến việc bảo tồn và quảng bá văn hóa. Đối với những người nghiên cứu, tìm hiểu Đài Loan, hoặc cần thông tin chính thức, danh sách tài nguyên này cung cấp hướng dẫn các nguồn thông tin có thẩm quyền nhất.
+Các trang web chính thức của Đài Loan không chỉ cung cấp dịch vụ và thông tin chính sách mà còn là cửa sổ quan trọng để hiểu về thể chế chính trị, sự phát triển văn hóa và quản trị xã hội của Đài Loan. Các trang này phản ánh tính minh bạch của nền chính trị dân chủ, mức độ tiến bộ trong quản trị kỹ thuật số và sự coi trọng việc bảo tồn cũng như quảng bá văn hóa. Đối với những cá nhân nghiên cứu về Đài Loan, tìm hiểu về Đài Loan hoặc cần thông tin chính thức, tập hợp tài nguyên này cung cấp hướng dẫn đến các nguồn thông tin có thẩm quyền nhất.
 
 ## Phân loại cốt lõi
 
-### 💫 Các cơ quan chính phủ trung ương (Hệ thống năm viện)
+### 💫 Các cơ quan Chính phủ Trung ương (Ngũ Viện)
 
 #### 🏛️ Phủ Tổng thống
 
 ### [Phủ Tổng thống Trung Hoa Dân Quốc](https://www.president.gov.tw/) 🌐
 
-Trang web chính thức của Phủ Tổng thống, thông tin liên quan đến quốc trưởng và tuyên bố chính sách
+Trang web chính thức của Phủ Tổng thống, thông tin về nguyên thủ quốc gia và tuyên bố chính sách.
 
-### [Bản tiếng Anh của Phủ Tổng thống](https://english.president.gov.tw/) 🇬🇧
+### [Phiên bản tiếng Anh của Phủ Tổng thống](https://english.president.gov.tw/) 🇬🇧
 
-Trang web tiếng Anh chính thức của Phủ Tổng thống, cửa sổ đối ngoại quốc tế
+Trang web tiếng Anh chính thức của Phủ Tổng thống, cửa sổ giao tiếp quốc tế.
 
-#### ⚖️ Hệ thống năm viện
+#### ⚖️ Hệ thống Ngũ Viện
 
 ### [Viện Hành pháp](https://www.ey.gov.tw/) 🇹🇼
 
-Cơ quan hành chính cao nhất, thực hiện chính sách và phối hợp
+Cơ quan hành chính cao nhất, thực thi và điều phối chính sách.
 
 ### [Viện Lập pháp](https://www.ly.gov.tw/) 🇹🇼
 
-Cơ quan lập pháp quốc gia, xét xử dự luật và giám sát
+Cơ quan lập pháp quốc gia, xem xét dự luật và giám sát.
 
-### [Viện Tư pháp](https://www.judicial.gov.tw/) 🇹🇼
+### [Tòa án Tối cao](https://www.judicial.gov.tw/) 🇹🇼
 
-Cơ quan tư pháp cao nhất, chính sách tư pháp và chế độ
+Cơ quan tư pháp cao nhất, chính sách và thể chế tư pháp.
 
 ### [Viện Khảo thí](https://www.exam.gov.tw/) 🇹🇼
 
-Kỳ thi và quản lý công chức, thông tin kỳ thi quốc gia
+Kiểm tra và quản lý công chức, thông tin thi cử quốc gia.
 
-### [Viện Kiểm sát](https://www.cy.gov.tw/) 🇹🇼
+### [Viện Giám sát](https://www.cy.gov.tw/) 🇹🇼
 
-Cơ quan kiểm sát và luận tội, chức năng giám sát chính phủ
+Cơ quan giám sát và luận tội, chức năng giám sát chính phủ.
 
 ---
 
-### 🏢 Các bộ ngành của Viện Hành pháp
+### 🏢 Các Bộ ngành thuộc Viện Hành pháp
 
 #### 🌐 Quan hệ đối ngoại và phát triển kỹ thuật số
 
 ### [Bộ Ngoại giao](https://www.mofa.gov.tw/) 🌐
 
-Chính sách ngoại giao và quan hệ quốc tế, dịch vụ lãnh sự
+Chính sách đối ngoại và quan hệ quốc tế, dịch vụ lãnh sự.
 
 ### [Bộ Phát triển Kỹ thuật số](https://moda.gov.tw/) 🌐
 
-Chuyển đổi kỹ thuật số và chính sách nước thông minh, cơ sở hạ tầng kỹ thuật số
+Chuyển đổi số và chính sách quốc gia thông minh, cơ sở hạ tầng kỹ thuật số.
 
-#### 🎨 Văn hóa và giáo dục
+#### 🎨 Văn hóa và Giáo dục
 
 ### [Bộ Văn hóa](https://www.moc.gov.tw/) 🇹🇼
 
-Chính sách văn hóa và quảng bá nghệ thuật, bảo tồn di sản văn hóa
+Chính sách văn hóa và quảng bá nghệ thuật, bảo tồn di sản văn hóa.
 
 ### [Bộ Giáo dục](https://www.moe.gov.tw/) 🇹🇼
 
-Chính sách giáo dục và phát triển học thuật, quản lý giáo dục các cấp
+Chính sách giáo dục và phát triển học thuật, quản lý giáo dục các cấp.
 
-#### 💼 Kinh tế và công nghiệp
+#### 💼 Kinh tế và Công nghiệp
 
 ### [Bộ Kinh tế](https://www.moea.gov.tw/) 🌐
 
-Chính sách kinh tế và phát triển công nghiệp, thúc đẩy đầu tư
+Chính sách kinh tế và phát triển công nghiệp, xúc tiến đầu tư.
 
 ### [Bộ Nông nghiệp](https://www.moa.gov.tw/) 🇹🇼
 
-Chính sách nông nghiệp và an toàn thực phẩm, hiện đại hóa nông nghiệp
+Chính sách nông nghiệp và an toàn thực phẩm, hiện đại hóa nông nghiệp.
 
 #### 🏥 Dịch vụ xã hội
 
 ### [Bộ Y tế và Phúc lợi](https://www.mohw.gov.tw/) 🌐
 
-Y tế công cộng và phúc lợi xã hội, chính sách y tế
+Vệ sinh công cộng và phúc lợi xã hội, chính sách y tế.
 
 ### [Bộ Lao động](https://www.mol.gov.tw/) 🇹🇼
 
-Công việc lao động và chính sách việc làm, quyền lợi lao động
+Các vấn đề lao động và chính sách việc làm, quyền lợi người lao động.
 
 #### 🚗 Cơ sở hạ tầng
 
 ### [Bộ Giao thông](https://www.motc.gov.tw/) 🇹🇼
 
-Chính sách giao thông và cơ sở hạ tầng vận tải, an toàn giao thông
+Chính sách giao thông và cơ sở hạ tầng vận tải, an toàn giao thông.
 
 ### [Bộ Môi trường](https://www.moenv.gov.tw/) 🌐
 
-Bảo vệ môi trường và chính sách biến đổi khí hậu, phát triển bền vững
+Bảo vệ môi trường và chính sách khí hậu, phát triển bền vững.
 
-#### 🛡️ An ninh và quản trị
+#### 🛡️ An ninh và Quản trị
 
 ### [Bộ Quốc phòng](https://www.mnd.gov.tw/) 🌐
 
-Công việc quốc phòng và chính sách quân sự, an ninh quốc gia
+Các vấn đề quốc phòng và chính sách quân sự, an ninh quốc gia.
 
 ### [Bộ Nội vụ](https://www.moi.gov.tw/) 🇹🇼
 
-Công việc nội vụ và quản lý dân sự, dịch vụ hộ tịch
+Các vấn đề nội vụ và quản lý dân sự, dịch vụ hộ tịch.
 
 ### [Bộ Tư pháp](https://www.moj.gov.tw/) 🇹🇼
 
-Công việc pháp lý và hành chính tư pháp, công việc cải huấn
+Các vấn đề pháp luật và hành chính tư pháp, công tác cải tạo.
 
 ### [Bộ Tài chính](https://www.mof.gov.tw/) 🌐
 
-Chính sách tài chính và quản lý thuế, quản lý kho bạc quốc gia
+Chính sách tài chính và quản lý thuế, quản lý ngân khố quốc gia.
 
-#### 🔬 Nghiên cứu và phát triển, lập kế hoạch
+#### 🔬 Nghiên cứu và Quy hoạch
 
 ### [Ủy ban Khoa học và Công nghệ Quốc gia](https://www.nstc.gov.tw/) 🌐
 
-Chính sách khoa học và công nghệ, nghiên cứu và phát triển
+Chính sách khoa học công nghệ và nghiên cứu, thúc đẩy nghiên cứu học thuật.
 
 ### [Ủy ban Phát triển Quốc gia](https://www.ndc.gov.tw/) 🌐
 
-Lập kế hoạch phát triển quốc gia và chính sách, kế hoạch dự kiến
+Quy hoạch và chính sách phát triển quốc gia, kế hoạch tiền tiến.
 
-#### 🌏 Ủy ban chuyên trách
+#### 🌏 Các Ủy ban chuyên trách
 
 ### [Ủy ban Đại lục](https://www.mac.gov.tw/) 🌐
 
-Công việc hai bờ eo biển và chính sách, quản lý trao đổi hai bờ
+Các vấn đề và chính sách hai bờ eo biển, quản lý giao lưu hai bờ.
 
-### [Ủy ban Dân tộc (Nguyên dân) Đài Loan](https://www.cip.gov.tw/) 🌐
+### [Ủy ban Dân tộc Bản địa](https://www.cip.gov.tw/) 🌐
 
-Công việc và văn hóa dân tộc bản địa Đài Loan, quyền lợi nhóm dân tộc
+Các vấn đề và văn hóa dân tộc bản địa, quyền lợi các dân tộc.
 
-### [Ủy ban Khách Gia](https://www.hakka.gov.tw/) 🌐
+### [Ủy ban Hakka](https://www.hakka.gov.tw/) 🌐
 
-Văn hóa và công việc Khách Gia, quảng bá ngôn ngữ và văn hóa
+Văn hóa và các vấn đề của người Hakka, quảng bá ngôn ngữ và văn hóa.
 
-### [Ủy ban Công vụ Kiều bào](https://www.ocac.gov.tw/ocac/) 🌐
+### [Ủy ban Kiều dân](https://www.ocac.gov.tw/ocac/) 🌐
 
-Dịch vụ và chính sách kiều bào, dịch vụ cho kiều bào nước ngoài
+Dịch vụ và chính sách kiều dân, phục vụ kiều bào ở nước ngoài.
 
-#### 🏦 Tài chính và chuyên môn
+#### 🏦 Tài chính và Chuyên môn
 
-### [Ủy ban Giám sát và Quản lý Tài chính](https://www.fsc.gov.tw/) 🌐
+### [Ủy ban Giám sát Tài chính](https://www.fsc.gov.tw/) 🌐
 
-Giám sát và quản lý tài chính, ổn định thị trường tài chính
+Giám sát và quản lý tài chính, ổn định thị trường tài chính.
 
-### [Ủy ban Hải dương](https://www.oac.gov.tw/) 🌐
+### [Ủy ban Đại dương](https://www.oac.gov.tw/) 🌐
 
-Công việc và chính sách hải dương, quản lý vùng biển
+Các vấn đề và chính sách biển, quản lý vùng biển.
 
-### [Ủy ban Hỗ trợ Cựu chiến binh Quốc quân](https://www.vac.gov.tw/) 🌐
+### [Ủy ban Hỗ trợ Quân nhân Giải ngũ](https://www.vac.gov.tw/) 🌐
 
-Hỗ trợ và dịch vụ cựu chiến binh, an dụ việc làm
+Hỗ trợ và dịch vụ cho quân nhân giải ngũ, an sinh việc làm.
 
 ### [Ủy ban Công trình Công cộng](https://www.pcc.gov.tw/) 🌐
 
-Chính sách công trình công cộng và giám sát mua sắm, chất lượng công trình
+Chính sách công trình công cộng và giám sát mua sắm, chất lượng kỹ thuật.
 
 ---
 
@@ -186,330 +186,330 @@ Chính sách công trình công cộng và giám sát mua sắm, chất lượng
 
 ### [Cơ quan Khí tượng Trung ương](https://www.cwa.gov.tw/) 🌐
 
-Dự báo khí tượng, khí hậu, động đất, thông tin phòng chống thảm họa
+Dự báo khí tượng, khí hậu và động đất, thông tin phòng chống thiên tai.
 
 ### [Cơ quan Bảo hiểm Y tế Quốc gia](https://www.nhi.gov.tw/) 🇹🇼
 
-Chế độ bảo hiểm y tế toàn dân, chi trả dịch vụ y tế
+Hệ thống bảo hiểm y tế toàn dân, chi trả dịch vụ y tế.
 
-#### 🛂 Xuất nhập cảnh và an ninh
+#### 🛂 Xuất nhập cảnh và An ninh
 
-### [Cơ quan Du lịch Bộ Giao thông](https://eng.taiwan.net.tw/) 🇬🇧
+### [Cục Du lịch thuộc Bộ Giao thông](https://eng.taiwan.net.tw/) 🇬🇧
 
-Quảng bá du lịch và thông tin du lịch, tiếp thị quốc tế
+Quảng bá du lịch và thông tin du lịch, tiếp thị quốc tế.
 
-### [Cơ quan Di trú Bộ Nội vụ](https://www.immigration.gov.tw/) 🌐
+### [Cục Quản lý Xuất nhập cảnh thuộc Bộ Nội vụ](https://www.immigration.gov.tw/) 🌐
 
-Quản lý xuất nhập cảnh và dịch vụ di trú, dịch vụ cho người nước ngoài
+Quản lý xuất nhập cảnh và dịch vụ di trú, phục vụ người nước ngoài.
 
 #### 🏥 Giám sát chuyên môn
 
-### [Cơ quan Kiểm soát Bệnh dịch Bộ Y tế và Phúc lợi](https://www.cdc.gov.tw/) 🌐
+### [Cơ quan Kiểm soát Dịch bệnh thuộc Bộ Y tế](https://www.cdc.gov.tw/) 🌐
 
-Phòng chống bệnh dịch và y tế công cộng, giám sát bệnh truyền nhiễm
+Phòng chống dịch bệnh và vệ sinh công cộng, giám sát bệnh truyền nhiễm.
 
-### [Cơ quan Quản lý Thực phẩm và Dược phẩm Bộ Y tế và Phúc lợi](https://www.fda.gov.tw/) 🌐
+### [Cục Quản lý Thực phẩm và Dược phẩm thuộc Bộ Y tế](https://www.fda.gov.tw/) 🌐
 
-Quản lý an toàn thực phẩm và dược phẩm, bảo vệ người tiêu dùng
+Quản lý an toàn thực phẩm và dược phẩm, bảo vệ người tiêu dùng.
 
-#### 💼 Chuyên môn thương mại
+#### 💼 Chuyên môn Thương mại Kinh tế
 
-### [Cục Sở hữu Trí tuệ Bộ Kinh tế](https://www.tipo.gov.tw/) 🌐
+### [Cục Sở hữu Trí tuệ thuộc Bộ Kinh tế](https://www.tipo.gov.tw/) 🌐
 
-Bảo vệ và quản lý sở hữu trí tuệ, bằng sáng chế và nhãn hiệu
+Bảo hộ và quản lý sở hữu trí tuệ, nhãn hiệu và bằng sáng chế.
 
-### [Cơ quan Thương mại Quốc tế Bộ Kinh tế](https://www.trade.gov.tw/) 🌐
+### [Cục Thương mại Quốc tế thuộc Bộ Kinh tế](https://www.trade.gov.tw/) 🌐
 
-Chính sách thương mại quốc tế và quảng bá, thúc đẩy xuất khẩu
+Chính sách và quảng bá thương mại quốc tế, thúc đẩy xuất khẩu.
 
-### [Cơ quan Tiêu chuẩn và Kiểm định Bộ Kinh tế](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
+### [Cục Kiểm nghiệm Tiêu chuẩn thuộc Bộ Kinh tế](https://www.bsmi.gov.tw/wSite/mp?mp=1) 🌐
 
-Xây dựng tiêu chuẩn và kiểm định sản phẩm, đảm bảo chất lượng
+Xây dựng tiêu chuẩn và kiểm tra sản phẩm, đảm bảo chất lượng.
 
 ---
 
-### 🎭 Các tổ chức văn hóa nghệ thuật
+### 🎭 Các tổ chức Văn hóa Nghệ thuật
 
-#### 🏛️ Bảo tàng quốc gia
+#### 🏛️ Bảo tàng cấp quốc gia
 
-### [Viện Bảo tàng Cung Điện Quốc lập](https://www.npm.gov.tw/) 🌐
+### [Bảo tàng Cố Cung Quốc lập](https://www.npm.gov.tw/) 🌐
 
-Bộ sưu tập kho tàng văn hóa Hoa, triển lãm di vật tầm cỡ thế giới
+Bộ sưu tập báu vật văn hóa Trung Hoa, trưng bày di vật đẳng cấp thế giới.
 
-### [Viện Mỹ thuật Đài Loan Quốc lập](https://www.ntmofa.gov.tw/) 🌐
+### [Bảo tàng Mỹ thuật Đài Loan Quốc lập](https://www.ntmofa.gov.tw/) 🌐
 
-Triển lãm và nghiên cứu mỹ thuật hiện đại Đài Loan, giáo dục nghệ thuật
+Trưng bày và nghiên cứu mỹ thuật hiện đại Đài Loan, giáo dục nghệ thuật.
 
 ### [Bảo tàng Lịch sử Đài Loan Quốc lập](https://www.nmth.gov.tw/) 🌐
 
-Bộ sưu tập và nghiên cứu lịch sử văn hóa Đài Loan, văn hóa quê hương
+Nghiên cứu bộ sưu tập văn hóa lịch sử Đài Loan, văn hóa bản địa.
 
 ### [Bảo tàng Đài Loan Quốc lập](https://www.ntm.gov.tw/) 🌐
 
-Bộ sưu tập lịch sử tự nhiên và nhân văn của Đài Loan, giáo dục khoa học
+Bộ sưu tập về tự nhiên và nhân văn của Đài Loan, giáo dục khoa học.
 
 ### [Bảo tàng Khoa học Tự nhiên Quốc lập](https://www.nmns.edu.tw/ch/) 🌐
 
-Giáo dục và nghiên cứu khoa học tự nhiên, quảng bá khoa học
+Giáo dục và nghiên cứu khoa học tự nhiên, phổ biến khoa học.
 
-### [Bảo tàng Khoa học và Công nghiệp Quốc lập](https://www.nstm.gov.tw) 🌐
+### [Bảo tàng Kỹ thuật và Công nghệ Quốc lập](https://www.nstm.gov.tw) 🌐
 
-Triển lãm ứng dụng công nghệ và công nghệ, giáo dục công nghiệp
+Trưng bày ứng dụng công nghệ và thủ công mỹ nghệ, giáo dục công nghiệp.
 
 ### [Bảo tàng Sinh vật Biển Quốc lập](https://www.nmmba.gov.tw/) 🌐
 
-Nghiên cứu và giáo dục sinh vật biển, bảo vệ sinh thái
+Nghiên cứu và giáo dục về sinh vật biển, bảo tồn hệ sinh thái.
 
-#### 🎨 Các tổ chức nghệ thuật đô thị
+#### 🎨 Các tổ chức Nghệ thuật Đô thị
 
-### [Viện Mỹ thuật Thành phố Đài Bắc](https://www.tfam.museum/) 🌐
+### [Bảo tàng Mỹ thuật Thành phố Đài Bắc](https://www.tfam.museum/) 🌐
 
-Triển lãm và bộ sưu tập nghệ thuật đương đại, nghệ thuật đô thị
+Triển lãm và bộ sưu tập nghệ thuật đương đại, nghệ thuật đô thị.
 
-### [Viện Mỹ thuật Thành phố Cao Hùng](https://www.kmfa.gov.tw/) 🌐
+### [Bảo tàng Mỹ thuật Thành phố Cao Hùng](https://www.kmfa.gov.tw/) 🌐
 
-Triển lãm mỹ thuật hiện đại và nghệ thuật Nam Đài Loan, văn hóa địa phương
+Triển lãm mỹ thuật hiện đại và nghệ thuật Nam Đài Loan, văn hóa khu vực.
 
-#### 🎭 Trung tâm biểu diễn
+#### 🎭 Trung tâm Nghệ thuật Biểu diễn
 
-### [Viện Biểu diễn Quốc gia](https://npac-ntch.org/zh) 🌐
+### [Nhà hát Quốc gia](https://npac-ntch.org/zh) 🌐
 
-Trung tâm biểu diễn nghệ thuật cấp quốc gia, biểu diễn kinh điển
+Trung tâm nghệ thuật biểu diễn cấp quốc gia, các buổi trình diễn kinh điển.
 
-### [Trung tâm Nghệ thuật và Văn hóa Quốc gia Vệ Võ Anh](https://www.npac-weiwuying.org/) 🌐
+### [Trung tâm Văn hóa và Nghệ thuật Vệ Vũ Anh](https://www.npac-weiwuying.org/) 🌐
 
-Trung tâm biểu diễn nghệ thuật tòa nhà đơn độc lớn nhất thế giới, kiến trúc hiện đại
+Trung tâm nghệ thuật biểu diễn kiến trúc đơn lớn nhất thế giới, kiến trúc hiện đại.
 
-### [Nhà Hát Kịch Quốc gia Đài Trung](https://www.npac-ntt.org/index) 🌐
+### [Nhà hát Opera Quốc gia Đài Loan](https://www.npac-ntt.org/index) 🌐
 
-Trường biểu diễn nghệ thuật kiến trúc hiện đại, thẩm mỹ kiến trúc
+Không gian trình diễn nghệ thuật kiến trúc hiện đại, thẩm mỹ kiến trúc.
 
-#### 🎬 Các tổ chức quảng bá văn hóa
+#### 🎬 Các tổ chức Quảng bá Văn hóa
 
-### [Thư viện Ký ức Văn hóa Quốc gia](https://tcmb.culture.tw/zh-tw) 🌐
+### [Kho lưu trữ Ký ức Văn hóa Quốc gia](https://tcmb.culture.tw/zh-tw) 🌐
 
-Bộ sưu tập kỹ thuật số ký ức văn hóa Đài Loan, bảo tồn văn hóa
+Bộ sưu tập kỹ thuật số về ký ức văn hóa Đài Loan, bảo tồn văn hóa.
 
-### [Cơ quan Nội dung Văn hóa Đài Loan TAICCA](https://taicca.tw/) 🌐
+### [TAICCA (Viện Phát triển Nội dung Văn hóa)](https://taicca.tw/) 🌐
 
-Thúc đẩy công nghiệp nội dung văn hóa, nền kinh tế sáng tạo
+Xúc tiến ngành công nghiệp nội dung văn hóa, kinh tế sáng tạo.
 
-### [Trung tâm Phim và Văn hóa Thị giác Quốc gia](https://www.tfai.org.tw/zh/) 🌐
+### [Trung tâm Điện ảnh và Văn hóa Thị giác Quốc gia](https://www.tfai.org.tw/zh/) 🌐
 
-Bộ sưu tập và quảng bá văn hóa phim và thị giác, văn hóa phim
+Bộ sưu tập và quảng bá văn hóa điện ảnh và thị giác, văn hóa điện ảnh.
 
-#### 📰 Phương tiện truyền thông văn hóa
+#### 📰 Truyền thông Nghệ thuật
 
-### [Điển Tạp ARTouch](https://artouch.com/) 🌐
+### [ARTouch (Bảo tàng)](https://artouch.com/) 🌐
 
-Phương tiện truyền thông nghệ thuật chỉ báo được công nhận nhất của Đài Loan với bình luận tin tức nghệ thuật và sâu sắc, bao quát nghệ thuật đương đại, cổ đại mỹ thuật, thị trường nghệ thuật, bình luận triển lãm. Từ khi tạp chí "Điển Tạp Nghệ thuật" thành lập năm 1992 cho đến nay, liên tục ghi lại động thái nghệ thuật Đài Loan và quốc tế, là nguồn phương tiện truyền thông quan trọng để nghiên cứu sinh thái nghệ thuật Đài Loan.
+Phương tiện truyền thông nghệ thuật có tính biểu tượng nhất của Đài Loan, bao gồm nghệ thuật đương đại, cổ vật, thị trường nghệ thuật và đánh giá triển lãm. Kể từ khi tạp chí _Nghệ thuật Cổ vật_ ra đời năm 1992, nó liên tục ghi lại các xu hướng nghệ thuật tại Đài Loan và quốc tế, là nguồn tài liệu quan trọng để nghiên cứu hệ sinh thái nghệ thuật của Đài Loan.
 
 ---
 
-### 📊 Dữ liệu mở và cơ sở hạ tầng kỹ thuật số
+### 📊 Dữ liệu Mở và Cơ sở hạ tầng Kỹ thuật số
 
-#### 📚 Nghiên cứu học thuật
+#### 📚 Nghiên cứu Học thuật
 
-### [Thư viện Quốc gia Quốc lập](https://www.ncl.edu.tw/) 🇹🇼
+### [Thư viện Quốc gia](https://www.ncl.edu.tw/) 🇹🇼
 
-Thư viện cấp quốc gia và bộ sưu tập tài liệu, tài nguyên học thuật
+Thư viện cấp quốc gia và bộ sưu tập văn bản, tài nguyên học thuật.
 
 ### [Viện Nghiên cứu Trung ương](https://www.sinica.edu.tw/) 🌐
 
-Tổ chức nghiên cứu học thuật cao nhất quốc gia, nghiên cứu cơ bản
+Tổ chức nghiên cứu học thuật cao nhất quốc gia, nghiên cứu cơ bản.
 
-### [Nền tảng Dữ liệu Điều tra Thực chứng Kinh nghiệm Đài Loan](https://tesd.survey.sinica.edu.tw/) 🇹🇼
+### [Nền tảng Dữ liệu Thực nghiệm Đài Loan](https://tesd.survey.sinica.edu.tw/) 🇹🇼
 
-Viện Nghiên cứu Trung ương tích hợp tám cơ sở dữ liệu điều tra khoa học xã hội lớn (Điều tra Biến đổi Xã hội Đài Loan, Điều tra Dân chủ hóa và Bầu cử Đài Loan, Điều tra Động lực Dân chủ Châu Á, v.v.), cung cấp công cụ phân tích thống kê trực tuyến và tải dữ liệu, bao gồm các lĩnh vực chính trị, xã hội, dân số, pháp luật, truyền thông, phát triển trẻ em, v.v.
+Viện Nghiên cứu Trung ương tích hợp tám cơ sở dữ liệu khoa học xã hội (Khảo sát biến đổi xã hội Đài Loan, Khảo sát bầu cử và dân chủ Đài Loan, Khảo sát động thái dân chủ châu Á, v.v.), cung cấp công cụ phân tích thống kê trực tuyến và tải xuống dữ liệu, bao gồm các lĩnh vực chính trị, xã hội, nhân khẩu học, pháp luật, truyền thông, phát triển trẻ em.
 
-### [Cơ sở dữ liệu Điều tra Truyền thông Đài Loan](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
+### [Cơ sở Dữ liệu Khảo sát Truyền thông Đài Loan](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
 
-Nền tảng nghiên cứu học thuật truyền thông được xây dựng bởi Đại học Dương Minh Giao thông, thu thập và chia sẻ dữ liệu điều tra liên quan đến truyền thông, bao gồm các điều tra nghiên cứu theo dõi dài hạn về hành vi sử dụng phương tiện truyền thông, truyền thông chính trị, hiệu ứng phương tiện truyền thông xã hội, niềm tin vào phương tiện truyền thông, v.v. ⚠️ Kể từ năm 2026, đang di chuyển và tích hợp vào "Nền tảng Dữ liệu Điều tra Thực chứng Kinh nghiệm Đài Loan" (tesd.survey.sinica.edu.tw), dự kiến trang web cũ sẽ đóng cửa, trong tương lai vui lòng truy cập nền tảng mới để truy vấn dữ liệu điều tra truyền thông
+Nền tảng nghiên cứu học thuật về truyền thông do Đại học Giao thông Dương Minh xây dựng, thu thập và chia sẻ dữ liệu khảo sát liên quan đến truyền thông, bao gồm hành vi sử dụng phương tiện truyền thông, truyền thông chính trị, hiệu quả mạng xã hội, niềm tin truyền thông trong các nghiên cứu theo dõi dài hạn. ⚠️ Từ năm 2026, nó đang được chuyển đổi tích hợp vào "Nền tảng Dữ liệu Thực nghiệm Đài Loan" (tesd.survey.sinica.edu.tw), trang web cũ dự kiến sẽ đóng cửa, vui lòng truy cập nền tảng mới để tìm dữ liệu khảo sát truyền thông.
 
-#### 🌏 Tài nguyên học thuật quốc tế
+#### 🌏 Tài nguyên Học thuật Quốc tế
 
-### [Brill Bách khoa toàn thư Nghiên cứu Đài Loan (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
+### [Bách khoa toàn thư Nghiên cứu Đài Loan của Brill (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
 
-Bách khoa toàn thư Đài Loan quốc tế đầu tiên được công bố bởi nhà xuất bản học thuật quốc tế. Biên tập bởi Tiêu Tân Hương từ Viện Nghiên cứu Trung ương, được viết bởi hơn 400 học giả quốc tế với khoảng 600 mục, bao gồm 15 lĩnh vực học thuật: khảo cổ, lịch sử, ngôn ngữ học, nhân học, xã hội học, khoa học chính trị, quan hệ quốc tế, nghiên cứu về dân tộc bản địa, văn học, nghiên cứu giới, nghiên cứu phương tiện truyền thông, phim tài liệu, âm nhạc, nghệ thuật hình ảnh. Tài nguyên học thuật có trả phí, các thư viện đại học lớn có thể đăng ký.
+Bách khoa toàn thư về Đài Loan đầu tiên được xuất bản bởi một nhà xuất bản học thuật quốc tế. Được biên soạn bởi Tiêu Tân Hoàng (Xiao Xinhuang) của Viện Nghiên cứu Trung ương, với khoảng 600 mục do hơn 400 học giả quốc tế viết, bao gồm 15 lĩnh vực: khảo cổ học, lịch sử, ngôn ngữ học, nhân chủng học, xã hội học, khoa học chính trị, quan hệ quốc tế, nghiên cứu dân tộc bản địa, văn học, nghiên cứu giới, truyền thông, phim tài liệu, âm nhạc, nghệ thuật thị giác. Đây là tài nguyên học thuật trả phí và có thể được các thư viện đại học đăng ký.
 
-#### 💾 Bộ sưu tập kỹ thuật số
+#### 💾 Lưu trữ Kỹ thuật số
 
-### [Nền tảng Dữ liệu Mở Chính phủ](https://data.gov.tw/) 🇹🇼
+### [Nền tảng Mở Dữ liệu Chính phủ](https://data.gov.tw/) 🇹🇼
 
-Nền tảng thống nhất dữ liệu mở chính phủ, quản trị dữ liệu
+Nền tảng thống nhất dữ liệu mở của chính phủ, quản trị dữ liệu.
 
-### [g0v Chính phủ Thời gian không](https://g0v.tw/) 🌐
+### [g0v Zero Time Government](https://g0v.tw/) 🌐
 
-Cộng đồng công nghệ công dân mã nguồn mở, quản trị hợp tác
+Cộng đồng công nghệ dân sự mã nguồn mở, quản trị hợp tác.
 
-### [Bản đồ động Cáp biển Đài Loan](https://smc.peering.tw/) 🌐
+### [Bản đồ Động lực Cáp ngầm Đài Loan](https://smc.peering.tw/) 🌐
 
-Bản đồ giám sát thực tế cáp dưới biển được phát triển bởi nhà phát triển dân sự Vũ Lý Hành, tích hợp dữ liệu công khai của Bộ Phát triển Kỹ thuật số và thông tin cáp biển quốc tế, trình bày một cách trực quan tình trạng hoạt động của 15 cáp biển quốc tế và 10 cáp biển nội địa của Đài Loan. Trong nhiều sự kiện cáp biển năm 2025, nó đã trở thành nguồn thông tin quan trọng được các phương tiện truyền thông và cơ quan kiểm chứng sự thật trích dẫn, cũng làm nổi bật sự phụ thuộc cao độ của Đài Loan như một quốc đảo vào an ninh truyền thông cáp biển. Trường hợp mẫu của công nghệ công dân và minh bạch thông tin.
+Bản đồ giám sát cáp ngầm biển theo thời gian thực do nhà phát triển tư nhân Uli Heng xây dựng, tích hợp dữ liệu công khai của Bộ Kỹ thuật số và thông tin cáp ngầm quốc tế, hiển thị trạng thái hoạt động của 15 cáp ngầm quốc tế và 10 cáp ngầm trong nước của Đài Loan bằng hình ảnh. Nó đã trở thành nguồn thông tin quan trọng được các cơ quan truyền thông và kiểm chứng sự thật trích dẫn trong nhiều sự cố cáp ngầm vào năm 2025, đồng thời làm nổi bật sự phụ thuộc cao của Đài Loan với an ninh viễn thông qua cáp ngầm như một quốc đảo. Đây là một ví dụ điển hình về công nghệ dân sự và tính minh bạch thông tin.
 
-### [Bộ sưu tập Đài Loan](https://digitalarchives.tw/) 🌐
+### [Bảo tàng Văn hóa Ký ức Đài Loan](https://digitalarchives.tw/) 🌐
 
-Bộ sưu tập văn hóa kỹ thuật số của Viện Nghiên cứu Trung ương, nhân văn kỹ thuật số
+Bộ sưu tập văn hóa kỹ thuật số của Viện Nghiên cứu Trung ương, nhân văn kỹ thuật số.⚠️ Tại thời điểm kiểm tra tháng 9 năm 2026, trang web trả về lỗi 503, có thể đang bảo trì; "Bảo tàng Mở" (openmuseum.tw) của Trung tâm Văn hóa Kỹ thuật số Viện Nghiên cứu Trung ương có thể được sử dụng làm lối vào thay thế.
 
-### [Cơ quan Quản lý Hồ sơ Quốc gia](https://www.archives.gov.tw/) 🌐
+### [Cục Lưu trữ Quốc gia](https://www.archives.gov.tw/) 🌐
 
-Bảo tồn và áp dụng hồ sơ quốc gia, tài liệu lịch sử
+Lưu trữ và ứng dụng tài liệu lưu trữ quốc gia, dữ liệu lịch sử.
 
-### [Khu vườn Đại quan Công nghệ](https://scitechvista.nat.gov.tw/) 🌐
+### [Vườn Khoa học Công nghệ](https://scitechvista.nat.gov.tw/) 🌐
 
-Nền tảng phổ cập khoa học của Ủy ban Khoa học và Công nghệ Quốc gia, giáo dục khoa học
+Nền tảng kiến thức phổ thông của Ủy ban Khoa học và Công nghệ Quốc gia, giáo dục khoa học.
 
 ---
 
-### 📺 Quảng bá đối ngoại và phương tiện truyền thông quốc tế
+### 📺 Quảng bá ra nước ngoài và Truyền thông Quốc tế
 
-#### 🌐 Quảng bá chính phủ
+#### 🌐 Quảng bá Chính phủ
 
-### [Trang web cổng thông tin của chính phủ](https://www.taiwan.gov.tw/) 🌐
+### [Trang web Cổng thông tin Chính phủ](https://www.taiwan.gov.tw/) 🌐
 
-Cửa sổ nhập thông tin chính phủ, dịch vụ một cửa
+Cổng thông tin thống nhất của chính phủ, dịch vụ một cửa.
 
-### [Đài Loan Xuất sắc](https://www.taiwanexcellence.org/en) 🌐
+### [Taiwan Excellence](https://www.taiwanexcellence.org/en) 🌐
 
-Giải thưởng Sản phẩm Đài Loan Xuất sắc, trưng bày sản phẩm chất lượng Đài Loan
+Giải thưởng sản phẩm xuất sắc Đài Loan, trưng bày các sản phẩm chất lượng cao của Đài Loan.
 
-### [Đầu tư Đài Loan](https://investtaiwan.nat.gov.tw/) 🌐
+### [Đầu tư vào Đài Loan](https://investtaiwan.nat.gov.tw/) 🌐
 
-Thông tin môi trường đầu tư và chính sách, thu hút đầu tư
+Thông tin về môi trường và chính sách đầu tư, thu hút vốn đầu tư.
 
-### [Học tập tại Đài Loan](https://www.studyintaiwan.org/) 🇬🇧
+### [Du học tại Đài Loan](https://www.studyintaiwan.org/) 🇬🇧
 
-Thông tin du học Đài Loan và học bổng, quốc tế hóa giáo dục
+Thông tin du học và học bổng tại Đài Loan, quốc tế hóa giáo dục.
 
-#### 📰 Phương tiện truyền thông chính thức
+#### 📰 Truyền thông Chính thức
 
-### [Cơ quan Thông tấn Trung ương](https://www.cna.com.tw) 🌐
+### [Thông tấn xã Trung ương](https://www.cna.com.tw) 🌐
 
-Cơ quan thông tấn quốc gia, nguồn tin tức có thẩm quyền
+Hãng thông tấn quốc gia, nguồn tin tức uy tín.
 
-### [Focus Đài Loan](https://focustaiwan.tw/) 🇬🇧
+### [Focus Taiwan](https://focustaiwan.tw/) 🇬🇧
 
-Trang web tin tức tiếng Anh của Cơ quan Thông tấn Trung ương, tầm nhìn quốc tế
+Trang web tin tức tiếng Anh của Thông tấn xã Trung ương, tầm nhìn quốc tế.
 
 ### [Đài Phát thanh Trung ương](https://www.rti.org.tw/) 🌐
 
-Đài phát thanh đối ngoại, dịch vụ đa ngôn ngữ
+Đài phát thanh đối ngoại, dịch vụ đa ngôn ngữ.
 
-### [Đài Loan Ngày nay](https://www.taiwantoday.tw/) 🌐
+### [Taiwan Today](https://www.taiwantoday.tw/) 🌐
 
-Nền tảng tin tức chính thức Đài Loan, tuyên truyền chính sách
+Nền tảng tin tức chính thức của Đài Loan, tuyên truyền chính sách.
 
-### [Tạp chí Ánh sáng Đài Loan](https://www.taiwan-panorama.com/) 🌐
+### [Tạp chí Quang Hoa Đài Loan](https://www.taiwan-panorama.com/) 🌐
 
-Tạp chí quảng bá văn hóa Đài Loan, trưng bày sức mạnh mềm
+Tạp chí quảng bá văn hóa Đài Loan, thể hiện sức mạnh mềm.
 
 ### [Truyền hình Công cộng](https://www.pts.org.tw/) 🌐
 
-Dịch vụ phương tiện truyền thông công cộng, sản xuất nội dung chất lượng cao
+Dịch vụ truyền thông công cộng, sản xuất nội dung chất lượng cao.
 
 ---
 
-### 💰 Kinh tế và tài chính
+### 💰 Kinh tế và Tài chính
 
-### [Sàn Giao dịch Chứng khoán Đài Loan](https://www.twse.com.tw/) 🌐
+### [Sở Giao dịch Chứng khoán Đài Loan](https://www.twse.com.tw/) 🌐
 
-Thị trường giao dịch chứng khoán chính của Đài Loan, thị trường vốn
+Thị trường giao dịch chứng khoán chính của Đài Loan, thị trường vốn.
 
-### [Viện Công nghệ Công nghiệp](https://www.itri.org.tw/) 🌐
+### [Viện Nghiên cứu Công nghiệp](https://www.itri.org.tw/) 🌐
 
-Tổ chức nghiên cứu công nghệ công nghiệp, đổi mới lái xe
+Tổ chức nghiên cứu và phát triển công nghệ ngành, thúc đẩy đổi mới sáng tạo.
 
-### [Cơ quan Doanh nghiệp Vừa và Khởi nghiệp](https://www.sme.gov.tw/) 🌐
+### [Cục Doanh nghiệp Vừa và Mới](https://www.sme.gov.tw/) 🌐
 
-Phát triển doanh nghiệp vừa và hỗ trợ khởi nghiệp, hệ sinh thái khởi nghiệp
-
----
-
-### ⚖️ Pháp quy và dịch vụ công cộng
-
-### [Cơ sở dữ liệu Pháp quy Toàn quốc](https://law.moj.gov.tw/) 🌐
-
-Hệ thống truy vấn pháp quy hoàn chỉnh, nền tảng pháp quy
-
-### [Cục Bảo hiểm Lao động Bộ Lao động](https://www.bli.gov.tw/) 🌐
-
-Bảo hiểm lao động và bảo vệ xã hội, quyền lợi lao động
-
-### [Cổng thông tin Việc làm Đài Loan](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
-
-Phối hợp việc làm và dịch vụ sự nghiệp, tài nguyên con người
-
-### [Hệ thống Truy cứu Tài liệu Pháp học Viện Tư pháp](https://lawsearch.judicial.gov.tw/) 🌐
-
-Hệ thống truy vấn tài liệu pháp học, thực tiễn tư pháp
+Phát triển doanh nghiệp vừa và nhỏ và hỗ trợ khởi nghiệp, hệ sinh thái khởi nghiệp.
 
 ---
 
-### 🏛️ Quyền con người và chế độ dân chủ
+### ⚖️ Pháp luật và Dịch vụ Công
 
-### [Ủy ban Quyền con người Quốc gia](https://nhrc.cy.gov.tw/) 🌐
+### [Cơ sở Dữ liệu Pháp luật Quốc gia](https://law.moj.gov.tw/) 🌐
 
-Bảo vệ và thúc đẩy quyền con người, giám sát quyền
+Hệ thống tra cứu pháp luật hoàn chỉnh, nền tảng thượng tôn pháp luật.
+
+### [Bảo hiểm Lao động thuộc Bộ Lao động](https://www.bli.gov.tw/) 🌐
+
+Bảo hiểm lao động và an sinh xã hội, quyền lợi người lao động.
+
+### [Trang thông tin Việc làm Đài Loan](https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx) 🌐
+
+Kết nối việc làm và dịch vụ nghề nghiệp, nhân lực.
+
+### [Hệ thống Tra cứu Tài liệu Pháp lý của Tòa án Tối cao](https://lawsearch.judicial.gov.tw/) 🌐
+
+Hệ thống tra cứu tài liệu pháp luật, thực tiễn tư pháp.
+
+---
+
+### 🏛️ Nhân quyền và Thể chế Dân chủ
+
+### [Ủy ban Nhân quyền Quốc gia](https://nhrc.cy.gov.tw/) 🌐
+
+Bảo vệ và thúc đẩy nhân quyền, giám sát quyền lợi.
 
 ### [Ủy ban Bầu cử Trung ương](https://web.cec.gov.tw/central) 🌐
 
-Trang web chính thức của Ủy ban Bầu cử, chế độ dân chủ
+Trang web chính thức của ủy ban bầu cử, thể chế dân chủ.
 
-### [Ủy ban Thúc đẩy Công lý Chuyển tiếp](https://www.tjc.gov.tw/) 🌐
+### [Chuyển đổi Công lý (Văn phòng Nhân quyền và Chuyển đổi Công lý thuộc Viện Hành pháp)](https://www.ey.gov.tw/Page/448DE008087A1971/be17db14-1d39-4f5d-add4-8805b1aa05ab) 🌐
 
-Thúc đẩy công lý chuyển tiếp (đã hoàn thành nhiệm vụ), làm sạch lịch sử
+Ủy ban thúc đẩy công lý chuyển đổi đã hết nhiệm kỳ vào ngày 30 tháng 5 năm 2022, trang web cũ đã ngừng hoạt động; các nhiệm vụ đã được chuyển giao cho sáu cơ quan quản lý là Bộ Tư pháp, Bộ Nội vụ, Bộ Văn hóa, Bộ Y tế và Phúc lợi, Bộ Giáo dục và Ủy ban Phát triển Quốc gia. Viện Hành pháp đã thiết lập "Tạp chí thúc đẩy công lý chuyển đổi" và "Văn phòng Nhân quyền và Chuyển đổi Công lý" để phối hợp tích hợp. Liên kết là nghị án của Viện Hành pháp về "Kết quả và sự chuyển giao nhiệm vụ của Ủy ban thúc đẩy công lý chuyển đổi".
 
 ---
 
 ## Hướng dẫn sử dụng
 
-### Cách tận dụng tối đa những tài nguyên này
+### Cách tận dụng các tài nguyên này
 
-#### 🎯 Sử dụng theo nhu cầu phân loại
+#### 🎯 Phân loại theo nhu cầu
 
-- **Nghiên cứu chính sách**: Chú ý đến các bản sách trắng chính sách của các bộ ngành và ủy ban trên các trang web chính thức của họ
-- **Khám phá văn hóa**: Từ Bảo tàng Cung Điện đến các bảo tàng lớn khác, trải nghiệm chiều sâu văn hóa Đài Loan
-- **Phân tích dữ liệu**: Nền tảng dữ liệu mở cung cấp dữ liệu thống kê phong phú
-- **Truy vấn pháp quy**: Cơ sở dữ liệu pháp quy toàn quốc là cơ sở pháp lý có thẩm quyền nhất
+- **Nghiên cứu chính sách**: Theo dõi các báo cáo chính sách trên trang web của các bộ ngành và ủy ban.
+- **Khám phá văn hóa**: Trải nghiệm chiều sâu văn hóa Đài Loan từ Cố Cung đến các bảo tàng lớn.
+- **Phân tích dữ liệu**: Nền tảng dữ liệu mở cung cấp số lượng phong phú các tài liệu thống kê.
+- **Tra cứu pháp luật**: Cơ sở Dữ liệu Pháp luật Quốc gia là cơ sở pháp lý có thẩm quyền nhất.
 
-#### 🔍 Sử dụng tối đa tài nguyên đa ngôn ngữ
+#### 🔍 Tận dụng tài nguyên đa ngôn ngữ
 
-- **Trung tâm tiếng Trung**: Hầu hết các trang web cung cấp nội dung tiếng Trung phồn thể đầy đủ
-- **Dịch vụ song ngữ**: Các cơ quan quan trọng đối ngoại thường có phiên bản tiếng Anh
-- **Quảng bá quốc tế**: Một số trang web được thiết kế riêng cho người dùng quốc tế
+- **Chủ yếu bằng tiếng Trung**: Hầu hết các trang web cung cấp nội dung đầy đủ bằng tiếng Phồn thể.
+- **Dịch vụ song ngữ**: Các cơ quan đối ngoại quan trọng thường có phiên bản tiếng Anh.
+- **Quảng bá quốc tế**: Một số trang web được thiết kế đặc biệt cho người dùng quốc tế.
 
 #### 📱 Thân thiện với thiết bị di động
 
-Hầu hết các trang web chính phủ đã hỗ trợ thiết kế phản ứng, có thể duyệt bình thường trên điện thoại di động, máy tính bảng
+Hầu hết các trang web chính phủ đã hỗ trợ thiết kế đáp ứng, có thể duyệt bình thường trên điện thoại di động và máy tính bảng.
 
 ---
 
 ## Ứng dụng mở rộng
 
-### Ứng dụng nghiên cứu học thuật
+### Ứng dụng trong Nghiên cứu Học thuật
 
-Những trang web chính thức này là nguồn tài liệu chính cấp một để nghiên cứu chính trị, xã hội và văn hóa Đài Loan, đặc biệt phù hợp với:
+Các trang web chính thức này là nguồn tài liệu sơ cấp để nghiên cứu về chính trị, xã hội và văn hóa Đài Loan, đặc biệt phù hợp cho:
 
-- Nghiên cứu khoa học chính trị, quản lý công cộng
-- Điều tra thực địa xã hội học, nhân học
-- Phân tích thống kê kinh tế học
-- Nghiên cứu văn hóa và nghiên cứu so sánh
+- Nghiên cứu khoa học chính trị, quản lý công.
+- Điều tra thực địa của xã hội học, nhân chủng học.
+- Phân tích thống kê kinh tế.
+- Nghiên cứu và so sánh văn hóa.
 
-### Ứng dụng thương mại
+### Ứng dụng trong Kinh doanh
 
-- **Các nhà đầu tư**: Hiểu chính sách công nghiệp thông qua trang web bộ ngành kinh tế
-- **Doanh nghiệp nước ngoài**: Sử dụng trang web Đầu tư Đài Loan để nắm bắt môi trường đầu tư
-- **Nhà khởi nghiệp**: Cơ quan Doanh nghiệp Vừa cung cấp tài nguyên và hỗ trợ khởi nghiệp
+- **Nhà đầu tư**: Tìm hiểu các chính sách ngành thông qua các trang web của bộ phận kinh tế.
+- **Nhà đầu tư nước ngoài**: Tận dụng trang web Đầu tư vào Đài Loan để nắm bắt môi trường đầu tư.
+- **Doanh nhân khởi nghiệp**: Cục Doanh nghiệp Vừa và Mới cung cấp tài nguyên và hỗ trợ khởi nghiệp.
 
-### Tham gia công dân
+### Tham gia của Công dân
 
-- **Giám sát chính sách**: Chú ý đến động thái chính sách thông qua các trang web của các bộ ngành
-- **Bảo vệ quyền lợi**: Sử dụng trang web các cơ quan liên quan để tìm hiểu quyền lợi và quy trình đăng ký
-- **Tham gia văn hóa**: Trang web các tổ chức văn hóa cung cấp thông tin về các sự kiện văn hóa phong phú
-
----
-
-## Các chủ đề liên quan
+- **Giám sát chính sách**: Theo dõi xu hướng chính sách thông qua các trang web của các bộ ngành.
+- **Bảo vệ quyền lợi**: Sử dụng trang web của các cơ quan liên quan để tìm hiểu về quyền lợi và thủ tục đăng ký.
+- **Tham gia văn hóa**: Các trang web của tổ chức nghệ thuật cung cấp thông tin phong phú về các hoạt động văn hóa.
 
 ---
 
-_Danh sách tài nguyên toàn bộ này bao gồm 81 trang web chính thức, là hướng dẫn đầy đủ để hiểu hoạt động chính phủ Đài Loan, phát triển văn hóa, dịch vụ xã hội. Khuyên bạn nên lưu vào mục ưa thích để sử dụng sau, sử dụng theo nhu cầu phân loại._
+## Chủ đề liên quan
+
+---
+
+_Tập hợp tài nguyên này bao gồm 81 trang web chính thức, là hướng dẫn hoàn chỉnh để tìm hiểu về hoạt động quản lý, sự phát triển văn hóa và dịch vụ xã hội của Đài Loan. Đề nghị lưu lại để sử dụng theo nhu cầu._
