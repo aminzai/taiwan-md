@@ -568,6 +568,10 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False,
     body, wikilinks_materialized = materialize_resolved_wikilinks(
         body, wikilink_targets
     )
+    # 2026-09-22：manifest 沒解析到的（zh-only／缺映射）不再「保守不動」交給 prompt——
+    # 模型會把括號裡翻掉、括號留著，撞 wikilink-target 硬閘。改用三引擎共用的
+    # resolve_wikilinks：有譯文就連結化，沒有就降純文字。
+    body, _wl_linked, _wl_plain = _xlink.resolve_wikilinks(body, lang)
 
     # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）+ 站內連結在地化 ----
     # tokenize=False 是 armor 還原失敗後的 fallback 路徑（2026-07-27）：一般 URL

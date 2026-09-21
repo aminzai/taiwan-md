@@ -1212,6 +1212,13 @@ def main():
     # 兩邊都吃得到改好的版本；純字串替換不加減行數，不影響任何行號依賴的邏輯。
     body, _xlink_count = _xlink.localize_body(body, args.lang)
     metrics["cross_links_localized"] = _xlink_count
+    # wikilink 路由收回工具端（2026-09-22）：本引擎此前完全沒處理 `[[X]]`，模型把括號裡的
+    # 字翻掉、括號留著，wikilink-target 硬閘擋整篇（run 98122 一夜 18 次：文化內容策進院
+    # 5 次、學習貧窮 de、河川 hi⋯⋯）。有譯文 → markdown 連結（URL 隨即進裝甲）；沒有 →
+    # 純文字。三引擎共用 cross_link_localizer.resolve_wikilinks，不再各抄一份。
+    body, _wl_linked, _wl_plain = _xlink.resolve_wikilinks(body, args.lang)
+    metrics["wikilinks_linked"] = _wl_linked
+    metrics["wikilinks_plain"] = _wl_plain
 
     f_metrics: dict = {}
     fm_block = translate_frontmatter(zh_fm, zh_content, args.zh_path, args.lang, backend, f_metrics)

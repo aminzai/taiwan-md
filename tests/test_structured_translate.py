@@ -381,3 +381,20 @@ def test_render_scalar_multiline_string_becomes_block_scalar():
     out = "rationale:" + MODULE.render_scalar(d) + "\n"
     assert yaml.safe_load(out) == {"rationale": d}
     assert "|" in out
+
+
+def test_resolve_wikilinks_links_when_translation_exists_else_plain_text():
+    """2026-09-22：structured 引擎此前不處理 [[X]]，模型把括號內翻掉、括號留著，wikilink-target 硬閘擋整篇。"""
+    import sys
+    from pathlib import Path as _P
+
+    sys.path.insert(0, str(_P(MODULE_PATH).parent))
+    import cross_link_localizer as x
+
+    text = "見 [[偏遠地區學校教育發展條例全解|條例]] 與 [[這頁不存在於任何分類]]。"
+    out, linked, plain = x.resolve_wikilinks(text, "de")
+    assert "[[" not in out
+    assert "[條例](/de/society/remote-area-schools-education-act/)" in out
+    assert "這頁不存在於任何分類" in out and linked == 1 and plain == 1
+    # 不在翻譯語言清單 → 原樣
+    assert x.resolve_wikilinks(text, "zz") == (text, 0, 0)

@@ -513,27 +513,11 @@ def _resolve_wikilinks(chunk: str, lang: str) -> tuple[str, int]:
     manifest 可用），解析不出來的保持原樣交給既有 prompt 與 hard gate，跟整篇
     路徑同樣保守。
     """
-    targets: dict[str, str] = {}
-    names = {m.group(1).strip() for m in _WIKILINK_SCAN.finditer(chunk)}
-    if not names:
-        return chunk, 0
-    try:
-        idx = json.loads((REPO / "knowledge/_translations.json").read_text(encoding="utf-8"))
-    except Exception:  # noqa: BLE001
-        return chunk, 0
-    # _translations.json 是 {譯文路徑: zh 路徑}；這裡要的是反方向，且只取本語言。
-    zh_to_lang = {zh: tr for tr, zh in idx.items() if tr.startswith(f"{lang}/")}
-    for name in names:
-        for cand in (f"{name}.md", *(f"{c}/{name}.md" for c in (
-            "People", "Society", "History", "Culture", "Music", "Nature",
-            "Technology", "Food", "Art", "Lifestyle", "Geography", "Economy",
-            "Politics", "About",
-        ))):
-            hit = zh_to_lang.get(cand)
-            if hit:
-                targets[name] = "/" + hit[:-3] + "/"
-                break
-    return _whole.materialize_resolved_wikilinks(chunk, targets)
+    # 2026-09-22：改走 cross_link_localizer.resolve_wikilinks（三引擎單一來源）。舊實作把
+    # 解析不出來的 `[[X]]` 留給模型，模型就把括號裡翻掉、括號留著；新版沒譯文一律降
+    # 純文字，wikilink-target 硬閘從此沒有東西可擋。
+    new_chunk, linked, _plain = _xlink.resolve_wikilinks(chunk, lang)
+    return new_chunk, linked
 
 
 def run_verify_trio(zh_path: str, out_path: Path, lang: str) -> tuple[bool, dict]:

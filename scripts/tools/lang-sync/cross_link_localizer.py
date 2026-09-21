@@ -16,6 +16,11 @@ Public API：
   - `load_index(knowledge_root=None)` → LocalizerIndex（快取，供長跑的翻譯行程重用）
   - `localize_url(url, lang, index)` → (new_url_or_None, status)
   - `localize_body(text, lang, index)` → (改寫後文字, 改了幾個)
+  - `resolve_wikilinks(text, lang, index)` → (改寫後文字, 連結化幾個, 降純文字幾個)
+    2026-09-22：`[[X]]` 的路由也從模型手上收回工具端，三條引擎共用這一份。該語言有 X 的譯文
+    → `[X](/lang/cat/slug/)`；沒有 → 只留 `X` 純文字。此前 structured 引擎完全沒處理 wikilink，
+    模型把 `[[一個教師的誕生：台灣師資培育制度]]` 譯成 `[[Ein Lehrer wird geboren…]]`，
+    wikilink-target 硬閘擋整篇（run 98122 一夜 18 次）；patch 引擎自己抄了一份反查（第三份）。
 """
 
 from __future__ import annotations
@@ -221,3 +226,61 @@ def localize_body(text: str, lang: str, index: LocalizerIndex | None = None) -> 
 
     new_text = LINK_RE.sub(_sub, text)
     return new_text, count
+
+
+# ────────────────── wikilink 路由（2026-09-22 三引擎共用） ──────────────────
+
+WIKILINK_RE = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]")
+_STEM_CACHE: dict[str, dict[str, str | None]] = {}
+
+
+def _stem_index(index: LocalizerIndex) -> dict[str, str | None]:
+    """{zh 檔名 stem: 'Cat/stem.md'}；同名跨分類 → None（歧義不猜）。來源是所有 zh 文章檔，
+    不只有譯文的那些——沒譯文的也要認得，才能正確降成純文字而不是留 [[ ]] 給模型。"""
+    key = str(KNOWLEDGE)
+    if key in _STEM_CACHE:
+        return _STEM_CACHE[key]
+    stems: dict[str, str | None] = {}
+    for cat_lower, cat in index.cat_map.items():
+        d = KNOWLEDGE / cat
+        if not d.is_dir():
+            continue
+        for f in d.glob("*.md"):
+            if f.name.startswith("_"):
+                continue
+            stems[f.stem] = None if f.stem in stems else f"{cat}/{f.name}"
+    _STEM_CACHE[key] = stems
+    return stems
+
+
+def resolve_wikilinks(text: str, lang: str, index: LocalizerIndex | None = None) -> tuple[str, int, int]:
+    """把 `[[目標]]`／`[[目標|顯示字]]` 收回工具端：該語言有譯文 → markdown 連結
+    `[顯示字](/lang/cat/slug/)`（URL 之後由 tokenize_urls 裝甲，模型只翻錨字）；
+    沒有譯文、找不到、或同名歧義 → 只留顯示字純文字（模型照常翻譯那幾個字）。
+    回傳 (改寫後文字, 連結化數, 純文字化數)。`lang` 不在 LANGS → 原樣回傳。"""
+    if lang not in LANGS or "[[" not in text:
+        return text, 0, 0
+    idx = index if index is not None else load_index()
+    stems = _stem_index(idx)
+    linked = plain = 0
+
+    def _sub(m: re.Match) -> str:
+        nonlocal linked, plain
+        target = m.group(1).strip()
+        label = (m.group(2) or target).strip()
+        zh_path = None
+        if "/" in target and target.endswith(".md"):
+            zh_path = target
+        elif "/" in target:
+            zh_path = target + ".md"
+        else:
+            zh_path = stems.get(target)
+        lang_map = idx.zh_to_lang_slug.get(zh_path or "", {})
+        if zh_path and lang in lang_map:
+            linked += 1
+            return f"[{label}](/{lang}/{lang_map[lang]}/)"
+        plain += 1
+        return label
+
+    return WIKILINK_RE.sub(_sub, text), linked, plain
+
