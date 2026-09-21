@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_
 rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '23c89f2a9'
-sourceContentHash: 'sha256:8b9c35107127e767'
-sourceBodyHash: 'sha256:e59e32a8f7afc902'
-translatedAt: '2026-07-28T03:07:44+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
+sourceBodyHash: 'sha256:3efdfebbac8eea3c'
+translatedAt: '2026-09-21T14:45:12.552514+00:00'
 ---
 
 # Tsai Ing-wen: da noite da derrota aos 8,17 milhões de votos, oito anos de presidência silenciosa
@@ -149,25 +149,25 @@ Outro mapa, porém, expandiu-se no sentido inverso. O Congresso dos EUA aprovou 
 
 Portanto, «menos aliados» e «mais apoio internacional» são ambos verdadeiros, mas medem coisas diferentes. O primeiro conta Estados que reconhecem a República da China; o segundo descreve ligações substantivas sem laços formais. O governo Tsai apostou recursos limitados no segundo; isso aumentou a exposição de Taiwan entre democracias, mas não estancou a perda de aliados formais. Como o leitor avalia isso depende do que considera o núcleo da diplomacia: o estatuto formal, a cooperação substantiva, ou a indivisibilidade de ambos.
 
-## Após deixar o cargo, continua a ler as regras antes de entrar
+## Após o mandato, ainda avaliando as regras antes de avançar
 
-A 20 de maio de 2024, Tsai Ing-wen passou a presidência a Lai Ching-te. O DPP venceu três eleições presidenciais consecutivas, feito inédito desde a instauração da eleição direta.
+Em 20 de maio de 2024, Tsai Ing-wen entregou a presidência a Lai Ching-te. O Partido Progressista Democrático (DPP) conquistou três mandatos presidenciais consecutivos, um feito inédito desde o início da eleição presidencial direta.
 
-Em outubro do mesmo ano, como ex-presidente, visitou República Checa, França e Bélgica, participando de um coquetel com deputados no edifício do Parlamento Europeu. Foi a primeira ex-presidente de Taiwan a entrar na sede da UE, mas não foi um discurso formal no Parlamento Europeu; a agenda prevista no Reino Unido não se concretizou.[^18]
+Em outubro do mesmo ano, ela visitou República Tcheca, França e Bélgica como ex-presidente, participando de um evento social no prédio do Parlamento Europeu. Esta foi a primeira ex-presidente de Taiwan a visitar a sede da União Europeia, mas não foi um discurso formal no Parlamento Europeu; sua viagem programada ao Reino Unido também não se concretizou.[^18]
 
-Da mesa de negociações da OMC a uma sala de comissões do Parlamento Europeu, ela continua a fazer o mesmo: primeiro ver até onde as regras permitem ir, depois levar Taiwan até essa fronteira.
+Do campo de negociações da OMC a uma sala de reuniões do Parlamento Europeu, ela continuou fazendo algo semelhante: verificar onde as regras permitiam chegar e levar Taiwan até aquele limite.
 
-A história volta à noite de 2012 no palco da derrota. Aquela frase «não desistam», passados oito anos de presidência, já não é só consolo. Terras indígenas, reforma judicial, habitação, energia e risco no Estreito não foram resolvidos por ela; a lei do casamento entre pessoas do mesmo sexo, o sistema de pensões e o ajuste de defesa tornaram-se realidades que o governo seguinte tem de dar continuidade ou responder.
+A história retorna ao palco das eleições perdidas em 2012. A frase "não desistir" não era mais apenas um consolo após oito anos no cargo. Questões como a terra indígena, a reforma judicial, o preço dos imóveis, a energia e os riscos do Estreito de Taiwan não foram resolvidas por ela; enquanto as leis de casamento igualitário, o sistema previdenciário e os ajustes de defesa tornaram-se realidades que o governo sucessor precisava dar continuidade ou responder.
 
-Quando saiu do Palácio Presidencial, os 8,17 milhões de votos já eram número histórico. Ficou outra prova mais silenciosa: um político pode deixar instituições sem elevar a voz, e as instituições guardam fielmente o que fez — e o que não fez.
+Ao deixar a residência presidencial, os 8,17 milhões de votos já eram um número histórico. O que permaneceu foi outra evidência mais silenciosa: que uma figura política pode deixar instituições sem aumentar o volume da voz, e essas instituições preservam tanto o que ela concluiu quanto o que deixou inacabado.
 
-**Leitura complementar**:
+**Leituras Relacionadas**:
 
-- [Invisible Nation](../Art/看不見的國家.md) — Documentário de Vanessa Hope que acompanhou Tsai Ing-wen durante sete anos, observando a sua personalidade e a democracia de Taiwan por uma lente externa.
-- [Casamento entre pessoas do mesmo sexo e igualdade de género em Taiwan](../Society/台灣同婚與性別平權.md) — Percurso completo desde a Interpretação 748, referendo, até à entrada em vigor da lei especial.
-- [História e movimento de retificação de nome dos povos indígenas de Taiwan](../History/台灣原住民族歷史與正名運動.md) — Lutas antes do pedido de desculpas, e questões de terra e identidade ainda por resolver depois dele.
-- [Ma Ying-jeou](馬英九.md) — Ex-presidente que derrotou Tsai em 2012 e lhe entregou o poder em 2016.
-- [Lai Ching-te](賴清德.md) — Vice-presidente e sucessor de Tsai Ing-wen.
+- [Nação Invisível](/pt/art/invisible-nation) — Um documentário de Ge Jeong-mun sobre os sete anos de Tsai Ing-wen, observando sua personalidade e a democracia de Taiwan através de câmeras externas.
+- [Casamento Igualitário e Igualdade de Gênero em Taiwan](/pt/society/taiwan-marriage-equality-lgbtq-rights) — A trajetória completa, desde o Artigo 748 até a entrada em vigor da lei específica.
+- [História dos Povos Indígenas e Movimento de Nomeação em Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — A luta antes do pedido de desculpas e as questões fundiárias e identitárias que ainda precisam ser tratadas após o pedido.
+- [Ma Ying-jeou](馬英九.md) — O ex-presidente que derrotou Tsai Ing-wen em 2012 e a quem entregou o poder em 2016.
+- [Lai Ching-te](賴清德.md) — A vice-presidente e sucessora de Tsai Ing-wen.
 
 ## Fontes das imagens
 
@@ -178,13 +178,13 @@ Quando saiu do Palácio Presidencial, os 8,17 milhões de votos já eram número
 
 ## Referências
 
-[^1]: [Comissão Eleitoral Central: Resultado da 13.ª eleição presidencial e vice-presidencial](https://db.cec.gov.tw/ElecTable/Election?type=President); [CNA: Retrospectiva do discurso de derrota de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Diferença oficial de 797.561 votos; texto original usa «洩氣» (desanimar).
+[^1]: [Comissão Eleitoral Central: Resultado da 13.ª eleição presidencial e vice-presidencial](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [CNA: Retrospectiva do discurso de derrota de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Diferença oficial de 797.561 votos; texto original usa «洩氣» (desanimar)
 
 [^2]: [Comissão Eleitoral Central: Base de dados de eleições presidenciais e vice-presidenciais](https://db.cec.gov.tw/ElecTable/Election?type=President) — 2016: 6.894.744 votos (56,12%); 2020: 8.170.231 votos (57,13%).
 
-[^3]: [CNA: Crescimento e família de Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx); [ETtoday: Alegações de ascendência paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Fontes públicas divergem sobre a geração da ascendência paiwan; o artigo adota apenas «possui ascendência paiwan».
+[^3]: [CNA: Crescimento e família de Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday: Alegações de ascendência paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Fontes públicas divergem sobre a geração da ascendência paiwan; o artigo adota apenas «possui ascendência paiwan»
 
-[^4]: [LSE: Declaração sobre o doutoramento da Dra. Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen); [Universidade de Londres: Declaração sobre o doutoramento da Dra. Tsai Ing-wen](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Confirmação direta das instituições do grau de 1984.
+[^4]: [LSE: Declaração sobre o doutoramento da Dra. Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [Universidade de Londres: Declaração sobre o doutoramento da Dra. Tsai Ing-wen](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Confirmação direta das instituições do grau de 1984
 
 [^5]: [CNN: Tsai Ing-wen, the leader who put Taiwan on the map](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — Autorretrato e observações de Koo Li-hsiung e Vanessa Hope devem ser atribuídos separadamente.
 
@@ -192,7 +192,7 @@ Quando saiu do Palácio Presidencial, os 8,17 milhões de votos já eram número
 
 [^7]: [Gabinete da Presidência: Presidente pede desculpas aos povos indígenas em nome do governo](https://www.president.gov.tw/NEWS/20603) — Transcrição integral e compromissos de política de 1.º de agosto de 2016.
 
-[^8]: [CNA: Lei especial do casamento entre pessoas do mesmo sexo passa em terceira leitura](https://www.cna.com.tw/news/firstnews/201905175002.aspx); [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — 17 de maio terceira leitura, 24 de maio entrada em vigor; 526 casais no primeiro dia.
+[^8]: [CNA: Lei especial do casamento entre pessoas do mesmo sexo passa em terceira leitura](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — 17 de maio terceira leitura, 24 de maio entrada em vigor; 526 casais no primeiro dia
 
 [^9]: [Gabinete de Reforma das Pensões do Yuan Executivo: Histórico da reforma das pensões](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Sequência legislativa e de implementação das reformas de pensões de funcionários públicos, professores e militares.
 
@@ -206,7 +206,7 @@ Quando saiu do Palácio Presidencial, os 8,17 milhões de votos já eram número
 
 [^14]: [Gabinete da Presidência: Plano de ajustamento da estrutura de forças para fortalecer a defesa nacional de todo o povo](https://www.president.gov.tw/News/27201) — Anunciado em 27 de dezembro de 2022, serviço obrigatório de um ano a partir de 2024.
 
-[^15]: [Ministério da Defesa do Japão: Movimentos de mísseis balísticos chineses em agosto de 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html); [Ministério da Defesa Nacional: Dinâmica dos exercícios militares do PCC](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japão identificou 9, Taiwan contabilizou 11; o artigo mantém a diferença de contagem.
+[^15]: [Ministério da Defesa do Japão: Movimentos de mísseis balísticos chineses em agosto de 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Ministério da Defesa Nacional: Dinâmica dos exercícios militares do PCC](https://www.mnd.gov.tw/Publish.aspx?p=80286) — Japão identificou 9, Taiwan contabilizou 11; o artigo mantém a diferença de contagem
 
 [^16]: [CSIS ChinaPower: Tracking China's Increased Military Activities in 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 cruzamentos da linha mediana do Estreito em 2022.
 
@@ -218,7 +218,7 @@ Quando saiu do Palácio Presidencial, os 8,17 milhões de votos já eram número
 
 [^20]: [Agência de Gestão Territorial do Ministério do Interior: Progresso da promoção de habitação social](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Critérios oficiais de construção direta, gestão de arrendamento e subsídios de renda.
 
-[^21]: [Ministério dos Assuntos Económicos: Explicação da política de transição energética](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001); [Control Yuan: Inquérito ao apagão nacional](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Metas de estrutura energética e eventos de apagão devem ser atribuídos separadamente.
+[^21]: [Ministério dos Assuntos Económicos: Explicação da política de transição energética](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Control Yuan: Inquérito ao apagão nacional](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Metas de estrutura energética e eventos de apagão devem ser atribuídos separadamente
 
 [^22]: [BBC: China newspaper criticised over unmarried Tsai comments](https://www.bbc.com/news/world-asia-36309137) — Críticas de viés sexista após imprensa oficial chinesa ligar solteirice a personalidade política.
 
