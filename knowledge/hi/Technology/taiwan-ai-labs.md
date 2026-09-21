@@ -18,7 +18,7 @@ tags:
 readingTime: '8'
 lastVerified: '2026-05-07'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'Technology/台灣人工智慧實驗室.md'
 sourceCommitSha: 'c8e5ac9ea'
 sourceContentHash: 'sha256:905a736099878754'

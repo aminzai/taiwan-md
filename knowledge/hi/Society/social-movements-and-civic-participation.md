@@ -17,7 +17,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-03-19'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'Society/社會運動與公民參與.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:31022a8379acbf4e'

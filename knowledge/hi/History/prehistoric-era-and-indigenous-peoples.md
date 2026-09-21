@@ -17,7 +17,7 @@ tags:
 readingTime: '7'
 lastVerified: '2026-05-07'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'History/史前時代與原住民.md'
 sourceCommitSha: 'a1eb11f45'
 sourceContentHash: 'sha256:3b733793cef0fe14'

@@ -21,7 +21,7 @@ tags:
 readingTime: '16'
 lastVerified: '2026-04-26'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
 sourceCommitSha: '8790dbf1a'
 sourceContentHash: 'sha256:241f6e09e82258d9'

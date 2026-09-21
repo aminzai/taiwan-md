@@ -8,7 +8,8 @@ subcategory: '科技與企業'
 tags: ['人物', '黃仁勳', 'NVIDIA', 'AI', '半導體', '科技', '台南', 'GPU']
 lastVerified: '2026-06-22'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
+image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
 sourceCommitSha: '09c1bf1a9'
 sourceContentHash: 'sha256:e9178b000513a553'

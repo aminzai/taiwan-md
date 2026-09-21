@@ -8,7 +8,7 @@ subcategory: 'शहरी जीवन'
 tags: ['केशविन्यास', 'नाई संस्कृति', 'प्रचलित फैशन', 'शहरी जीवन', 'मीम']
 lastVerified: '2026-05-07'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Lifestyle/台灣髮型介紹.md'
 sourceCommitSha: '490742919'
 sourceContentHash: 'sha256:f7d7ed191773a287'

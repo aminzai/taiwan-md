@@ -15,7 +15,7 @@ tags:
   - '19वीं सदी'
 lastVerified: '2026-04-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'History/羅發號事件與卓杞篤.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:4e90be2fbc74d7ed'

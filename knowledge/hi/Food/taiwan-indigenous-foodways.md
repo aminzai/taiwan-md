@@ -21,13 +21,15 @@ readingTime: 12
 lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
 sourceCommitSha: 'a05d24314'
 sourceContentHash: 'sha256:d67f3581051e39e8'
 sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-07-26T00:16:57+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+image: '/article-images/food/amis-music-festival-dancers-2016.webp'
+imageCredit: 'HaeB / Wikimedia Commons'
 difficulty: 'intermediate'
 ---
 

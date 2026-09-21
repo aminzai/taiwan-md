@@ -16,7 +16,7 @@ tags:
 readingTime: '20'
 lastVerified: '2026-04-28'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/臺灣大百科全書.md'
 sourceCommitSha: '4cd497a8f'
 sourceContentHash: 'sha256:dacc755fc6695d56'

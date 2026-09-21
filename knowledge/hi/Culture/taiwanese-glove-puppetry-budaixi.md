@@ -16,7 +16,7 @@ tags:
   ]
 lastVerified: '2026-05-02'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Culture/布袋戲.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:90bff79aa4402b0e'

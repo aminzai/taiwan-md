@@ -10,7 +10,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-07-17'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'

@@ -17,7 +17,7 @@ tags:
 readingTime: '11'
 lastVerified: '2026-05-05'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Society/台北鼠患.md'
 sourceCommitSha: '44b9afeef'
 sourceContentHash: 'sha256:ea94b427916538a7'

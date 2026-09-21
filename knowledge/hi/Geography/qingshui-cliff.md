@@ -18,7 +18,7 @@ tags:
 readingTime: '15'
 lastVerified: '2026-04-27'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Geography/清水斷崖.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:977c64498b20b961'

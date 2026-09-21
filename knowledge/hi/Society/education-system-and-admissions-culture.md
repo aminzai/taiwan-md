@@ -17,7 +17,7 @@ tags:
 readingTime: '14'
 lastVerified: '2026-03-19'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'Society/教育制度與升學文化.md'
 sourceCommitSha: '9d6716713'
 sourceContentHash: 'sha256:b3fec964553963ea'

@@ -17,7 +17,7 @@ tags:
 readingTime: '10'
 lastVerified: '2026-04-05'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Music/茄子蛋.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:1be7230ba8a26470'

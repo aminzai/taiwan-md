@@ -18,7 +18,7 @@ tags:
 readingTime: '8'
 lastVerified: '2026-06-30'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
 sourceCommitSha: '93facb6ce'
 sourceContentHash: 'sha256:0b469697cef600b9'

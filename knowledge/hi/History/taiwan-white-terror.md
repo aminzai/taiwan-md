@@ -18,7 +18,7 @@ tags:
 readingTime: '11'
 lastVerified: '2026-04-05'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'History/台灣白色恐怖.md'
 sourceCommitSha: '710263a86'
 sourceContentHash: 'sha256:bc916494357a8d5d'

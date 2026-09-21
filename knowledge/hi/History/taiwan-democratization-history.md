@@ -15,7 +15,7 @@ tags:
   ]
 lastVerified: '2026-03-27'
 lastHumanReview: 'false'
-featured: 'true'
+featured: true
 translatedFrom: 'History/民主化.md'
 sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:0f572861e1f79f7d'

@@ -9,7 +9,7 @@ tags: ['यातायात', 'पर्यटन', 'सार्वजनि�
 readingTime: '12'
 lastVerified: '2026-05-03'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Lifestyle/遊覽車.md'
 sourceCommitSha: '42b42a934'
 sourceContentHash: 'sha256:f828da7d0eb39776'

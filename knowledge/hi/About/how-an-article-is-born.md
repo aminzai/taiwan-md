@@ -18,7 +18,7 @@ tags:
 readingTime: '11'
 lastVerified: '2026-06-19'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'About/文章如何誕生.md'
 sourceCommitSha: '984fb7892'
 sourceContentHash: 'sha256:92fcb394123e4aee'

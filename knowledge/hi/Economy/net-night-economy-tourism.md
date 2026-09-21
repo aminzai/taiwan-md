@@ -16,7 +16,7 @@ tags:
 readingTime: '28'
 lastVerified: '2026-07-22'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'

@@ -18,7 +18,7 @@ tags:
 readingTime: '8'
 lastVerified: '2026-05-17'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'People/三毛.md'
 sourceCommitSha: '512ce94e8'
 sourceContentHash: 'sha256:423bfa0c83cbe434'

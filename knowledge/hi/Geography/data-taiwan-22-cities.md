@@ -25,7 +25,7 @@ lastHumanReview: false
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
 imageAlt: 'अंतरिक्ष से देखा गया ताइवान मुख्य द्वीप का उपग्रह चित्र, पश्चिमी मैदान और पूर्वी केंद्रीय पर्वत श्रृंखला स्पष्ट दिख रहे हैं'
 imageCredit: 'NASA'
-imageLicense: 'Public domain (NASA)'
+imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
 sourceCommitSha: 'b67b190fb'

@@ -21,7 +21,7 @@ tags:
 readingTime: '22'
 lastVerified: '2026-04-28'
 lastHumanReview: 'true'
-featured: 'true'
+featured: true
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 sourceCommitSha: 'd56c5a60'
 sourceContentHash: 'sha256:518362b111919aa4'

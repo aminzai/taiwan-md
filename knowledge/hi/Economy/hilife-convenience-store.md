@@ -18,7 +18,7 @@ tags:
 readingTime: '12'
 lastVerified: '2026-07-21'
 lastHumanReview: 'false'
-featured: 'false'
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
