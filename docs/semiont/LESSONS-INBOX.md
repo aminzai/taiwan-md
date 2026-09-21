@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-22 twmd-spore-harvest-am — narrative-log-fills-causation-no-gate-watches：內部敘事檔的「這批說明什麼」段會長出數字全對、因果是填的幻覺，而沒有任何閘門在看它
+
+- **pattern**: `narrative-log-fills-causation-no-gate-watches`
+- **原則**：batch log、memory、report 這類內部敘事層跟文章一樣會被填縫——數字逐格抓對之後，要下一句「為什麼」的時候，手會用「認得的因果形狀」把縫補起來（發過幾輪、被誰轉推、哪條線都這樣）。文章層有 FACTCHECK 巡邏與 REWRITE Stage 3.4 story-atom audit，內部敘事層什麼都沒有，且下一班讀它時會把它當「上一班觀察到的事實」原樣往下傳，跟 handoff 一樣傳得動。
+- **觸發**：2026-09-22 twmd-spore-harvest-am 寫 batch-2026-09-22-2-spores.md 末段時填了兩句：「用語保存已發到第三輪（#141／#160／#175）」、「08-28 那班說 X 端被大帳號轉推」。查 spore-log，category=terminology 只有 #175／#176；查 08-28 batch log，沒有那句。兩句都在寫完後回頭多看一眼才抓到，沒有工具參與。同一輪另撞到 09-11 那班寫的 #175 D+19 views 3,981（讀錯欄位），在資料裡躺十一天沒人對賬——數字層的錯不會叫，敘事層的錯更不會。→ memory/2026-09-22-064211-twmd-spore-harvest-am.md
+- **instances**：
+  - 2026-09-22 twmd-spore-harvest-am 兩句填縫因果自抓 + 一筆 misread 對賬 → memory/2026-09-22-064211-twmd-spore-harvest-am.md
+- **修補候選**：(a) SPORE-HARVEST-PIPELINE §Stage 5 batch log 加一行自檢：「這批說明什麼」段裡每個 #N、每句「某班說」都要能 grep 到（spore-log.json / 該 batch log），grep 不到就刪；(b) `spore-db.py show` 印時間軸時對同一 spore 相鄰事件的 views 落差 >50% 印 ⚠️，讓 3,981 這種值在寫入當天就被鄰居襯出來，不用等下一個里程碑。
+- **可能層級**：操作規則（harvest Stage 5 自檢一行 + spore-db 鄰居差異警示）；若 memory／report 層再出現同型，升 REFLEXES #98 子規則（真原子放錯槽位的內部敘事版）
+- **相關**：MANIFESTO §10 六型幻覺（文章層母體，本條是內部敘事層的同型）、MEMORY §神經迴路 2026-09-20「模型抄表準、串故事時填縫」（同一句話從文章移到 batch log）、REFLEXES #98（真原子放錯槽位）、#69 (g) form gate ≠ meaning gate（validate-spore-data 六項全綠管不到這段）、#82 proxy signal
+- **verification_count**: 1
+
 ### 2026-09-21 twmd-supporters-weekly — expected-cadence-missing-from-empty-intake-check：空佇列檢查只驗「有沒有漏抓」，沒驗「照歷史節奏該來幾筆」
 
 - **pattern**: `expected-cadence-missing-from-empty-intake-check`

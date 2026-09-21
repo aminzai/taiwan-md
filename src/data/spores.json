@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-20T06:43:34+08:00",
+  "_generated": "2026-09-22T06:47:33+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 166,
@@ -10042,16 +10042,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DcWa8qxo55C",
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "metrics": {
-        "views": 3981,
+        "views": 25000,
         "likes": 1830,
         "reposts": 240,
         "comments": 82,
         "shares": 175
       },
       "metricsAsOf": {
-        "dPlus": 19,
-        "harvestDate": "2026-09-11 06:39",
-        "batch": "batch-2026-09-11-1-spores",
+        "dPlus": 30,
+        "harvestDate": "2026-09-22 06:50",
+        "batch": "batch-2026-09-22-2-spores",
         "source": "harvest"
       },
       "history": [
@@ -10119,7 +10119,17 @@
           "dPlus": 19,
           "harvestDate": "2026-09-11 06:39",
           "batch": "batch-2026-09-11-1-spores",
-          "views": 3981,
+          "views": null,
+          "likes": 1830,
+          "reposts": 240,
+          "comments": 82,
+          "shares": 175
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-22 06:50",
+          "batch": "batch-2026-09-22-2-spores",
+          "views": 25000,
           "likes": 1830,
           "reposts": 240,
           "comments": 82,
@@ -10138,17 +10148,17 @@
       "url": "https://x.com/taiwandotmd/status/2091212353874678264",
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "metrics": {
-        "views": 25000,
-        "likes": 628,
+        "views": 24000,
+        "likes": 629,
         "reposts": 120,
         "comments": 21,
-        "shares": 109
+        "shares": 108
       },
       "metricsAsOf": {
-        "dPlus": 19,
-        "harvestDate": "2026-09-11 06:39",
-        "batch": "batch-2026-09-11-1-spores",
-        "source": "harvest+backfill"
+        "dPlus": 30,
+        "harvestDate": "2026-09-22 06:52",
+        "batch": "batch-2026-09-22-2-spores",
+        "source": "harvest"
       },
       "history": [
         {
@@ -10220,6 +10230,16 @@
           "reposts": 120,
           "comments": 21,
           "shares": null
+        },
+        {
+          "dPlus": 30,
+          "harvestDate": "2026-09-22 06:52",
+          "batch": "batch-2026-09-22-2-spores",
+          "views": 24000,
+          "likes": 629,
+          "reposts": 120,
+          "comments": 21,
+          "shares": 108
         }
       ]
     }

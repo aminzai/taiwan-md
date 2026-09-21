@@ -7701,7 +7701,19 @@
       "dPlus": 19,
       "at": "2026-09-11 06:39",
       "batch": "batch-2026-09-11-1-spores",
-      "views": 3981,
+      "views": null,
+      "likes": 1830,
+      "reposts": 240,
+      "comments": 82,
+      "shares": 175,
+      "source": "threads"
+    },
+    {
+      "spore": 175,
+      "dPlus": 30,
+      "at": "2026-09-22 06:50",
+      "batch": "batch-2026-09-22-2-spores",
+      "views": 25000,
       "likes": 1830,
       "reposts": 240,
       "comments": 82,
@@ -7790,6 +7802,18 @@
       "reposts": 120,
       "comments": 21,
       "shares": null,
+      "source": "x"
+    },
+    {
+      "spore": 176,
+      "dPlus": 30,
+      "at": "2026-09-22 06:52",
+      "batch": "batch-2026-09-22-2-spores",
+      "views": 24000,
+      "likes": 629,
+      "reposts": 120,
+      "comments": 21,
+      "shares": 108,
       "source": "x"
     }
   ]
