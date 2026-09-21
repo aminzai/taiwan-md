@@ -13,10 +13,10 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-17T06:43:36+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-21T16:11:33.095949+00:00'
 ---
 
 # 타이완 흑곰
@@ -45,27 +45,27 @@ translatedAt: '2026-09-17T06:43:36+08:00'
 > **📝 큐레이터 메모**
 > 흑곰 보호에 가장 필요한 것은 각 숫자가 어떻게 산출되었는지, 어떤 질문에 답을 제시하는지를 아는 것이지, 마치 정확해 보이는 단일 숫자를 추구하는 것이 아니다. 1,200마리가 아직 상향 또는 하향 조정될 수 있을 때, 불확실성을 솔직하게 유지하는 것이야말로 초기 추정이 과학에 진정으로 봉사할 수 있는 길이다.
 
-## 흰색 V자 아래, 굴뚝에 사는 곰이 아닌 곰이 숨고른다
+## 흑곰의 흰색 V자 아래, 굴에 사는 베리를 떠난 곰
 
-타이완 흑곰(학명: _Ursus thibetanus formosanus_)의 검은 털, 둥근 귀, 짧은 꼬리, 가슴에 있는 노란색 흰색 V자 또는 초슬형 반점은 이 동물이 타이완의 곰 속에서 혼동의 여지가 없는 존재임을 만든다. 성체 개체의 체중은 약 60~150kg, 몸길이는 약 130~180cm이다.[^2]
+타이완 흑곰(학명: _Ursus thibetanus formosanus_)의 검은 털, 둥근 귀, 짧은 꼬리, 가슴 앞의 노란백색 V자 또는 초슬기 모양의 흔적은 그녀를 타이완의 곰 속에서 유일무이한 존재로 만들어준다. 성체 개체의 체중은 약 60에서 150킬로그램, 몸길이는 약 130에서 180센티미터이다.[^2]
 
-이 동물은 '깊은 산'이라는 막연한 장소에만 사는 것이 아니다. 공식 자료에 따르면 해발 300m에서 3,700m까지 다양한 산간 지역에서 출몰이 보고되었으나, 주된 서식지는 여전히 중앙산맥 1,000~2,500m의 숲이다. 이는 타이완 흑곰이 연결된 산림을 필요로 한다는 것을 보여준다. 개별 보호구역의 경계만으로는 충분하지 않다.[^2]
+그녀는 '깊은 산'이라는 막연한 장소에만 사는 벌레가 아니다. 공식 자료에 따르면, 해발 300미터에서 3,700미터까지의 산악 지대에서 출몰한 흔적이 기록되어 있으며, 주된 서식지는 중앙산맥의 1,000에서 2,500미터 숲이다. 이는 타이완 흑곰이 연결된 산림을 필요로 한다는 것을 의미한다. 즉, 이동하고, 먹이를 찾고, 번식할 수 있는 공간이 필요하다. 단일 보호 구역의 경계만으로는 충분하지 않다.[^2]
 
-타이완 흑곰은 겨울잠을 없으며, 전년을 내내 활동할 수 있다. 고정된 굴뚝은 없으며, 주로 밝은 시간에 활동하며 여름과 가을에 활동량이 증가한다. 가을과 겨울에 갑판과의 관계가 있을 때, 밤 활동도 늘어날 수 있다. 유산국립공원의 라디오 추적 연구에 따르면, 개개체의 연간 활동 범위는 약 27~202km²이다.[^2] [^5]
+타이완 흑곰은 겨울잠을 자지 않고, 전년 내내 활동할 수 있다. 고정된 굴은 없으며, 주로 밝은 시간에 활동하며, 여름과 가을에는 활동량이 증가한다. 가을과 겨울에 갑판과의 관계가 있을 때, 밤 활동도 늘어날 수 있다. 유산국립공원의 무선 추적 연구에 따르면, 개개체의 연간 활동 범위는 약 27에서 202제곱키로미터이다.[^2] [^5]
 
-### 일년에 몇 마리의 어린 곰만 태어나는가
+### 일년에 몇 마리의 어린 곰만 태어날까
 
-타이완 흑곰의 번식기는 약 6월~8월이다. 짝짓기 후, 배아가 지연 발달하며, 어미 곰은 12월~다음 해 2월에 출산하며, 한 번에 1~3마리가 태어난다. 어린 곰은 다음 번식기가 될 때까지 어미 곰과 함께 생활하다가 점차 떨어진다.[^2]
+타이완 흑곰의 번식기는 약 6월에서 8월이다. 짝짓기 후, 배아는 지연 발달을 하며, 어미는 12월에서 다음 해 2월에 낳으며, 한 번에 1에서 3마리가 된다. 어린 곰은 다음 번식기가 되기 전까지 어미와 함께 지내며, 점차 떨어져 나간다.[^2]
 
-어미 곰이 고정된 번식 계절을 가지고 있기 때문에, 어린 곰도 어미 곰 옆에서 먹이 찾기, 위험 감지 및 산림 사용법을 배워야 한다. 따라서 집단 회복에는 시간이 소요된다. 연구 자료가 증가하는 것이 관측 기회의 증가인지, 지속 가능한 집단의 증가인지를 판단하려면 번식 연령, 어린 곰 생존율 및 세대별 개체 확인을 함께 고려해야 한다.[^2] [^4]
+어미가 고정된 번식 계절을 가지므로, 어린 곰도 어미와 함께 먹이 찾기, 위험 감지, 산림 사용법을 배워야 한다. 따라서, 연구 자료가 증가한다고 해서 무조건적으로 관측 기회가 늘어난 것인지, 지속 가능한 집단이 늘어난 것인지를 판단하려면, 번식 연령, 어린 곰의 생존율, 세대 간 개개체 식별 등을 함께 고려해야 한다.[^2] [^4]
 
-![인공 사육 환경의 타이완 흑곰, 체형과 가슴 반점을 보여줌](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![인공 양육 환경의 타이완 흑곰, 체형과 가슴 앞 흔적을 보여줌](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_이 사진은 Formosan black bear의 인공 환경 이미지로, 체형, 긴 발톱 및 가슴 반점을 시각적으로 참조하기 위한 것으로, 타이완 야생 분포 증거로 사용되지 않는다. 사진: Smartneddy, CC BY-SA 3.0, 위키미디어 커먼즈. 사진은 프로젝트에 수집되었습니다._
+_이 사진은 Formosan black bear의 인공 환경 이미지로, 체형, 강한 발톱, 가슴 앞 흔적을 시각적으로 참고하기 위한 것이며, 타이완의 야생 분포 증거로 사용되지 않는다. 사진: Smartneddy, CC BY-SA 3.0, 위키미디어 커먼즈. 사진은 프로젝트에 수집되었습니다._
 
-![타이완 흑곰 삽화, 가슴에 흰색 V자 반점이 있음](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![타이완 흑곰 일러스트, 가슴 앞에 흰색 V자 흔적](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_이 삽화는 타이완 흑곰의 체형과 가슴 반점을 설명하기 위한 것으로, 야생 개개체 사진이 아니다. 사진: 은해디자인 SilverSea Design／Davidzdh, CC BY 4.0, 위키미디어 커먼즈. 사진은 프로젝트에 수집되었습니다._
+_이 일러스트는 타이완 흑곰의 체형과 가슴 앞 흔적을 설명하기 위한 것으로, 야생 개개체의 사진이 아니다. 사진: 은해디자인 SilverSea Design／林惠秋 Chofy Lin, CC BY 4.0, 위키미디어 커먼즈. 사진은 프로젝트에 수집되었습니다._
 
 ## 그녀는 먹는 것을 결정하고, 그녀의 이동 방향을 결정한다
 
@@ -122,21 +122,21 @@ _이 사진은 남안 관광 안내소 전시 기록에서 온 것으로, 흑곸
 
 _유산국립공원 관리소 공식 영상 《유산 육곰》: 산림 서식지와 보호 연구를 주제로, 흑곰이 왜 연결된 산림을 필요로 하는지를 설명한다._
 
-## 인간과 곰의 마주침, 먼저 인간의诱惑을 정리하라
+## 사람과 곰이 마주칠 때, 먼저 인간의 유혹을 접어두라
 
-유산국립공원 관리소 제작의 공식 홍보 영상 《곰이 곡리 Encounter a Formosan black bear》는 흑곰의 생태 습성, 분포 범위 및 마주침 대응 방법을 간결하게 압축한 짧은 영상으로, 등산 전에 보기에 적합하도록 제작되었다. 이 영상과 텍스트 지침을 함께 읽으면, '거리 유지'를 추상적 원칙이 아닌 등산 전 구체적 준비로 전환할 수 있다.[^11]
+국립공원 관리소가 제작한 공식 홍보 영상 《곰과의 만남 Encounter a Formosan black bear》는 흑곰의 생태 습성, 분포 범위 및 조우 대응 방법을 하나의 짧은 영상으로 압축하여 등산 전 시청하기에 적합하도록 제작되었습니다. 이 영상과 텍스트 지침을 함께 읽으면, "안전 거리 유지"라는 추상적 원칙이 등산 전 구체적인 준비가 될 수 있습니다.[^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="곰이 곡리 Encounter a Formosan black bear｜유산국립공원 관리소 공식 홍보 영상" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="熊熊遇見 Encounter a Formosan black bear｜玉山國家公園管理處官方宣導影片" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_유산국립공원 관리소 공식 홍보 영상: 흑곰의 습성과 분포를 바탕으로, 산림 입산 전에 불필요한 인간-곰 접촉을 줄이는 방법을 설명한다._
+_국립공원 관리소 공식 홍보 영상: 흑곰의 습성과 분포를 바탕으로, 산림 진입 전 인간과 곰의 불필요한 접촉을 줄이는 방법을 설명한다._
 
-유산국립공원의 공식 지침은 흑곰은 일반적으로 경계심이 강하고 은밀하며, 인간의 존재를 감지하면 대부분 떠난다고 알려준다. 등산객에게 가장 실용적인 준비는 자신의 음식을 잘 보관하고, 그것이 곰이 인간에게 다가오는 이유가 되지 않도록 하는 것이다. 산림을 떠날 때, 쓰레기, 부엌 여유 및 모든 음식은 함께 가져야 한다.[^3]
+국립공원 관리소의 공식 지침은 흑곡이 보통 경계심이 강하고 은밀하며, 사람의 존재를 감지하면 대부분 떠난다고 알려주고 있습니다. 등산객에게 가장 실질적인 준비는 음식을 확실히 보관하고, 이것이 곰이 사람에게 다가오는 이유가 되지 않도록 하는 것입니다. 산림을 떠날 때에는 쓰레기, 주방 여물 및 모든 음식을 함께 가져가야 합니다.[^3]
 
-정말로 흑곰을 보았다면, 공원 측은 침착하게 조용히 빨리 떠나는 것을 권장한다. 추적하지 말고, 먹이지 말며, 사진을 찍기 위해 가까이 가지 말라. 등산 시에는 곰 종소리나 호루라를 휴대하여 소리를 내고, 함께 걷고, 흑곰이나 흑곸 흔적을 보았을 때 즉시 관리 기관에 신고한다. 유산국립공원의 원문은 매우 직접적으로 적혀 있다: "흑곰을 보았다면, 침착하게 조용히 빨리 떠나라."[^3]
+만약 정말 흑곰을 보게 된다면, 국립공원 관리소는 침착하게 정적을 유지하고 신속히 현장을 떠나도록 권장합니다. 추적하지 말고, 먹이를 주지 말며, 사진을 찍기 위해 가까이 접근하지 않는 것이 모든 조우 지침의 공통 기준입니다. 등산 시에는 곰 종소리나 호루라기를 휴대하여 소리를 내고, 동행하여 등산하며, 흑곰이나 곤흔적 흔적을 발견하면 즉시 관리 기관에 신고하는 것이 좋습니다. 국립공원 관리소의 원문은 매우 직접적으로 적혀 있습니다: "흑곰을 보았다면, 침착하게 정적을 유지하고 신속히 현장을 떠나세요."[^3]
 
-이런 행동 방식은 산림이 개방된 상태를 유지시킬 뿐만 아니라, 마주침을 잠깐 멀리 유지할 수 있도록 한다. 국립공원청장 왕성기(王成機)는 보호 목표가 "예방과 관리를 병행"으로 명확히 전환되었다고 밝혔다.[^10] 인간의 음식 원천을 관리하는 것은 보통은 곰이 배낭을 뒤지는 습관을 들인 후에 대응하는 것보다 훨씬 더 일찍, 더 쉽게 효과를 발휘한다.
+이러한 실천은 산림의 개방을 유지하는 동시에, 마주침을 일시적이고 물러설 수 있는 거리 내에서 유지하도록 합니다. 국립공원청장 왕성기는 보호 목표가 이미 "예방과 관리를 병행"하는 방향으로 명확히 전환되었다고 밝혔습니다.[^10] 인간의 음식 유발 요인을 관리하는 것은 보통 곰이 배낭을 뒤지는 습관을 들인 후에 대응하는 것보다 더 일찍 그리고 더 효과적으로 효과를 발휘합니다.
 
 ## 흑곰은 귀여운 그림자에 머무를 수 없다
 
@@ -192,40 +192,40 @@ _이 사진은 위키미디어 커먼즈에 'Formosan black bear'로 표시된 �
 > **📝 큐레이터 메모**
 > 보호 데이터는 산속에서 전해지는 다양한 소리와 같다. 카메라는 한 명의 모습을 보고, 유전 데이터는 개개체를 구분하고, 추적기는 이동 경로를 남긴다. 어떤 데이터도 산 전체를 대표할 수 없지만, 그들이 쌓여갈 때야 비로소 보이지 않는 곰의 길이 서서히 형성된다.
 
-## 사진 출처
+## 이미지 출처
 
-본문에서는 6장의 위키미디어 커먼즈의 자유 또는 개방 라이선스 사진의 원본 핫링크를 사용하였다. 사진 파일을 다운로드하지 않았으며, 사진을 타이완 야생 개체 또는 지리적 분포 증거로 오해하지 않았다. 각 사진의 라이선스 및 출처는 다음과 같다.
+본문에서는 Wikimedia Commons의 6장의 자유 또는 개방 라이선스 이미지를 사용하며, 이미지를 오해하여 타이완의 야생 개체 또는 지리적 분포 증거로 간주하지 않았습니다. 각 이미지의 라이선스 및 출처는 다음과 같습니다.
 
-- **인공 환경의 Formosan black bear**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. 핫링크: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **수산동물원의 타이완 흑곰**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, 수산동물원 Government Website Open Information Announcement에 따라 개방 사용 가능, 출처 표시 필요. 핫링크: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **타이완 흑곰 삽화**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — 은해디자인 SilverSea Design／림휘주 Chofy Lin, CC BY 4.0. 핫링크: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Formosan black bear 사진**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. 핫링크: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Formosan black bear suckling cubs 사진**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. 핫링크: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **남안 관광 안내소의 타이완 흑곸 전시 사진**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — 주집 Toadboat, CC BY-SA 4.0. 프로젝트에 수집됨: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **인공 환경 속의 타이완 흑곰**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. 직접 링크: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **수산 동물원의 타이완 흑곰**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, 수산 동물원 Government Website Open Information Announcement에 따라 개방 사용, 출처 표시 필요. 직접 링크: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **타이완 흑곰 일러스트**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — 은해 디자인 SilverSea Design／림혜희 Chofy Lin, CC BY 4.0. 직접 링크: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **타이완 흑곰 사진**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. 직접 링크: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **타이완 흑곰 어린이를 먹이는 사진**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. 직접 링크: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **남안 방문자 센터의 타이완 흑곰 전시 사진**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — 주집 Toadboat, CC BY-SA 4.0. 보관 위치: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
-## 참고문헌
+## 참고 자료
 
-[^1]: [태완이 곰이 생긴 나라가 되다 흑곰과의 평화 공존을 추구](https://www.forest.gov.tw/news/0076122) — 농림부 산림 및 자연보호청, 2025-05-16. 2011~2025년 2,034건의 발견 기록, 행정 구역 분포 변화, 해발 추세, 산림 복원 및 인간-곰 공존 정책을 제공.
+[^1]: [대만이 곰국을 향해 나아가: 사람과 곰의 평화로운 공존](https://www.forest.gov.tw/news/0076122) — 농림부 산림 및 자연보호국, 2025-05-16. 2011~2025년 2,034건의 발견 기록, 행정구역 분포 변화, 해발 추세, 산림 복원 및 인간과 곰의 공존 정책을 제공.
 
-[^2]: [태완 흑곰 과학홍보](https://www.ysnp.gov.tw/StaticPage/Science) — 내정부 국립공원청 유산국립공원 관리소. 분류, 외형, 분포 해발, 번식, 식성, 전년 활동 및 활동 범위 자료를 제공.
+[^2]: [대만 흑곰 과학홍보](https://www.ysnp.gov.tw/StaticPage/Science) — 행정안전부 국립공원청 유산국립공원 관리소. 분류, 외형, 분포 해발, 번식, 식성, 연중 활동 및 활동 범위 자료를 제공.
 
-[^3]: [곤과의 공존](https://www.ysnp.gov.tw/StaticPage/Coexist) — 내정부 국립공원청 유산국립공원 관리소. 마주침, 음식 관리, 동행, 신고 및 흑곸 흔적 인식에 대한 공식 지침을 제공.
+[^3]: [곡과 공존하기](https://www.ysnp.gov.tw/StaticPage/Coexist) — 행정안전부 국립공원청 유산국립공원 관리소. 곰을 만났을 때, 음식 관리, 동행, 신고 및 흔적을 식별하는 공식 지침을 제공.
 
-[^4]: [산림보호청, 타이완 흑곰 약 1,200마리로 추정…장기 수용 시설 건설 예정](https://www.cna.com.tw/news/ahel/202603230129.aspx) — 중앙일보, 2026-03-23. 약 1,200마리의 초기 추정, 자료 표본성 제한, 후속 수정 가능성 및 장기 수용 시설 계획을 보도.
+[^4]: [산림보호국, 대만 흑곰 약 1,200마리로 추정... 장기 수용센터 건설 예정](https://www.cna.com.tw/news/ahel/202603230129.aspx) — 중앙사, 2026-03-23. 약 1,200마리의 초기 추정치, 자료의 대표성 제한, 후속 수정 가능성 및 장기 수용센터 계획에 대해 보도.
 
-[^5]: [국립공원 디지털 백과사전 온라인 전시](https://npda.nps.gov.tw/Exhibition2/A/A30002) — 내정부 국립공원청. 흑곰 생태, 1996년 이후의 연구 과정, 1998~2001년 부상 조사, 유전 개체 확인 및 보호 홍보를 정리.
+[^5]: [대만 국립공원 디지털 백과사전 온라인 전시회](https://npda.nps.gov.tw/Exhibition2/A/A30002) — 행정안전부 국립공원청. 대만 흑곰 생태, 1996년부터의 연구 경과, 1998~2001년 부상 조사, 유전적 개체 식별 및 보전 홍보를 정리.
 
-[^6]: [태완 흑곰의 식성: 방법론적 및 지리적 비교](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — 미혜수( Mei-Hsiu Hwang), 데이비드 L. Garshelis, 영 왕( Ying Wang), _Ursus_ 13, 2002. 유산국립공원 1998~2000년 배설물, 먹이 흔적 및 원주민 사냥꾼 인터뷰 연구를 제공.
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — 메이 후, 데이비드 L. 가셀스, 영 왕, _Ursus_ 13, 2002. 유산국립공원 1998~2000년 배설, 식량 흔적 및 토산 민족 어부 인터뷰 연구를 제공.
 
-[^7]: [태완 흑곰의 이동 사용에 미치는 동물피난 부상의 영향](https://deepblue.lib.umich.edu/items/c34bfa4e-a0de-4ff8-a14c-2a7f616ef05c) — 펑 첸( Fang Chen), 미시건대 Deep Blue, 2024. 유산국립공원의 6마리 부상 개체와 9마리 건강한 개체의 활동 범위, 이동 및 서식지 선택을 비교.
+[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — 장 첸, 미시간대 Deep Blue, 2024. 유산국립공원 6마리 부상 곰과 9마리 건강한 흑곰의 활동 범위, 이동 및 서식지 선택을 비교.
 
-[^8]: [제3장: 집으로 돌아가는 길](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — 국립자연과학박물관, 2021. 남안 어린 곰의 사육, 야성 훈련 및 산림으로 돌아가기 전에 필요한 생활 기술을 설명.
+[^8]: [제3장: 귀갓길](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — 국립자연과학박물관, 2021. 남안 작은 곰의 사육, 야생화 훈련 및 야생으로 돌아가기 전에 배워야 할 생활 기술을 설명.
 
-[^9]: [사명 및 임무: 타이완 흑곰 보호 행동 강령](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — 타이완 흑곰 보호 협회. 인간-곰 상호작용, 불법 거래, 서식지 경영, 연구, 교육, 역량 강화 및 정책 입법 등 보호 목표를 정리.
+[^9]: [사명과 임무: 대만 흑곰 보전 행동 강령](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — 대만 흑곰 보전 협회. 인간과 곰의 상호작용, 불법 거래, 서식지 경영, 연구, 교육, 역량 강화 및 정책 입법 등 보전 목표를 정리.
 
-[^10]: [그저 그녀를 위해 산속을 걸을 수 있기를 국립공원 30년의 타이완 흑곰 수호 길](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — 내정부 국립공원청, 2026. 세 국립공원, 서식지 노첨, 음식 관리, 기술 예보 및 지역 참여의 통합 방향을 설명.
+[^10]: [그녀만을 위해 산림 속에서 자유롭게 걷는 길: 국립공원 30년의 대만 흑곰 귀환길](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — 행정안전부 국립공원청, 2026. 산악형 국립공원 3곳, 서식지 연결로, 음식 관리, 기술적 조기 경보 및 지역 참여의 통합 방향을 설명.
 
-[^11]: [흑곰 영상](https://www.ysnp.gov.tw/StaticPage/BearVideo) — 내정부 국립공원청 유산국립공원 관리소. 공식 영상 페이지에 《곰이 곡리 Encounter a Formosan black bear》 및 《유산 육곰》 등의 영상을 나열, 내용은 생태 습성, 분포 범위, 마주침 대응, 산림 서식지 및 보호 연구를 포함.
+[^11]: [흑곰 영상](https://www.ysnp.gov.tw/StaticPage/BearVideo) — 행정안전부 국립공원청 유산국립공원 관리소. 공식 영상 페이지에는 《곰곰 만나기 Encounter a Formosan black bear》와 《유산에서 곰 키우기》 등의 영상이 나와 있으며, 내용은 생태 습성, 분포 범위, 곰을 만났을 때 대처, 산림 서식지 및 보전 연구를 포함.
 
 ## 연관 읽기
 
