@@ -78,7 +78,7 @@ Cron 排程。Stage 1 量 `main...origin/main` 得 `9 0`，本機純領先九個
 
 - [ ] pending（給 REWRITE 排程或下一個整合多篇的 session，LESSONS `merged-source-translations-outlive-the-merge` 候選 (a)）— REWRITE Stage 5 整合多篇為一篇時，舊母稿的譯文一併 `git rm` ＋ 301 導到倖存者的對應譯文；候選 (b) `sync-translations-json.py` 改址時印一行「N 份譯文的來源已併入 X」進 refresh 報表。
 - [ ] pending（給 babel session，1-file，資訊）— ko `People/lin-chi-wei-social-innovator.md` 16 條腳註今天由 fixer 收成格式合規，但標題欄放的是譯者塞進去的描述文、來源名只剩「人間福報專欄」這種泛稱；母稿腳註有正規標題，等 babel 對這篇重譯時會自然換掉，不用手修。
-- [ ] pending（給下一班 maintainer-am 驗證）— push 後 `Python tests` 與 `Engineering contracts` 在 main 上應轉綠（`3d3533aef`）；若仍紅，看是不是 `paths` filter 讓它沒再被觸發（09-03 那條病）。
+- [x] ~~pending（給下一班 maintainer-am 驗證）— push 後 `Python tests` 與 `Engineering contracts` 在 main 上應轉綠（`3d3533aef`）~~ — retired by 本 session 收官前驗過：兩條在 `c297b51fd` 上都 success。
 
 ## Beat 5 — 反芻
 
