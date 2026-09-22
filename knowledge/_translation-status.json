@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T22:21:17+08:00",
-    "zhCommitHead": "995524fce",
+    "lastUpdated": "2026-09-22T22:23:32+08:00",
+    "zhCommitHead": "2702f2899",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 994,
+        "fresh": 995,
         "stale": 54,
         "metadata_stale": 14,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "ru": {
@@ -60365,7 +60365,19 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/public-housing-justice.md",
+          "translatedFrom": "Society/國宅與居住正義.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:8ca8b403c13ab428",
+          "sourceBodyHash": "sha256:547ee1d3b342a025",
+          "translatedAt": "2026-09-22T17:40:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "bytes": 82120,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/public-housing-justice.md",
@@ -138101,8 +138113,8 @@
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "sha256:31e72a4ea39ea451",
           "translatedAt": "2026-09-22T17:40:45+08:00",
-          "translationLastCommit": "5fdf3bd2",
-          "translationLastModified": "2026-09-02T07:08:26+08:00",
+          "translationLastCommit": "2702f289",
+          "translationLastModified": "2026-09-22T22:21:17+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 19965,
@@ -150249,8 +150261,8 @@
           "sourceContentHash": "sha256:3b6b12dd06856da0",
           "sourceBodyHash": "sha256:1006124334926615",
           "translatedAt": "2026-09-22T17:40:45+08:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "2702f289",
+          "translationLastModified": "2026-09-22T22:21:17+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 15479,
