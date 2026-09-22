@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T08:28:04+08:00",
-    "zhCommitHead": "e0f8245d8",
+    "lastUpdated": "2026-09-22T08:39:41+08:00",
+    "zhCommitHead": "9177c8c9a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 962,
+        "fresh": 963,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 95,
+        "missing": 94,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 964,
+        "fresh": 965,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 96,
+        "missing": 95,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 845,
+        "fresh": 846,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 264,
+        "missing": 263,
         "orphan": 0
       }
     },
@@ -3696,8 +3696,8 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-22T04:48:27+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "5f7e2bd1",
+          "translationLastModified": "2026-09-22T08:28:04+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 16481,
@@ -34030,7 +34030,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-literature-during-japanese-rule.md",
+          "translatedFrom": "Art/日治時期文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:ddd002a147d6d0f3",
+          "sourceBodyHash": "sha256:e76df226350c4a5f",
+          "translatedAt": "2026-09-22T05:11:00+08:00",
+          "translationLastCommit": "6c1efc25",
+          "translationLastModified": "2026-09-22T05:24:55+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "bytes": 19661,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-literature-during-japanese-rule.md",
@@ -140518,8 +140530,8 @@
           "sourceContentHash": "sha256:d06ea631387761c6",
           "sourceBodyHash": "sha256:1e5405f424ed35fc",
           "translatedAt": "2026-09-22T04:48:27+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "5f7e2bd1",
+          "translationLastModified": "2026-09-22T08:28:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 13937,
@@ -140722,8 +140734,8 @@
           "sourceContentHash": "sha256:e050ee2343bbf606",
           "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
           "translatedAt": "2026-09-22T04:48:27+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "5f7e2bd1",
+          "translationLastModified": "2026-09-22T08:28:04+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 11628,
@@ -142218,8 +142230,8 @@
           "sourceContentHash": "sha256:81d7772de9e1a0c6",
           "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
           "translatedAt": "2026-09-22T04:48:27+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "5f7e2bd1",
+          "translationLastModified": "2026-09-22T08:28:04+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 14942,
@@ -167754,7 +167766,19 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-22T05:09:40+08:00",
+          "translationLastCommit": "5325be86",
+          "translationLastModified": "2026-09-22T05:24:19+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 50103,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/kano-chiayi-agriculture-forestry.md",
@@ -200375,7 +200399,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/national-palace-museum.md",
+          "translatedFrom": "Culture/國立故宮博物院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a6a3b3bae8b8f64b",
+          "sourceBodyHash": "sha256:a2026a7fcf36b68c",
+          "translatedAt": "2026-09-22T05:08:51+08:00",
+          "translationLastCommit": "df97f21b",
+          "translationLastModified": "2026-09-22T05:23:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 11884,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
