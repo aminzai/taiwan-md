@@ -62,7 +62,11 @@ Backend 統計（本 run 全期 1,355 次嘗試、617 份落地）：`ollama:gem
 
 ## 委派層：把產線做不到的那一篇交出去
 
-〈比國家還大的演算藝術〉是站上講自己身世的旗艦文，77,701 bytes、85 條腳註，十二語全 missing，累計失敗 78 次、六語已 cascade exhausted。SQUEEZE §第五層對這個形狀早有規定（>40KB 或腳註 >50 離開免費池，腳註 >30 或網址 >40 派 sonnet），`write-agent-brief.py` 也判它 sonnet。本班照委派層 SOP 出任務單（`prepare-batch.py` → `enrich-batch-targets.py` 寫進五個可對的結構數字）派一隻 agent 翻 en，驗收由主 session 自己跑四道閘，不採自述。結果見收官補記。
+〈比國家還大的演算藝術〉是站上講自己身世的旗艦文，77,701 bytes、85 條腳註，十二語全 missing，累計失敗 78 次、六語已 cascade exhausted。SQUEEZE §第五層對這個形狀早有規定（>40KB 或腳註 >50 離開免費池，腳註 >30 或網址 >40 派 sonnet），`write-agent-brief.py` 也判它 sonnet。本班照委派層 SOP 出任務單（`prepare-batch.py` → `enrich-batch-targets.py` 寫進五個可對的結構數字）派一隻 sonnet agent 翻 en，驗收由主 session 自己跑，不採自述：結構五個數字全中（腳註 85／H2 15／內嵌圖 16／圖說連結 0／網址 43）、`verify-translation` 19 項全過、漏翻與漢字黏著各 0 命中、`article-health` hard=0，`restore-footnote-urls` 沒有東西要還原（網址從頭到尾沒掉過）。19 分鐘、27 萬 token。委派層自己接住一件事：第一版把五條中文媒體來源標題翻成英文，它照簡報裡「書目區保留原文」那條自己退回來，沒有為了讓閘門變綠改內容——那正是 SQUEEZE §五「閘門製造出改內容換綠燈的誘因時，損害會大於它防的問題」要的行為。剩一條 seo-meta 警告（description 594 字 > 400 軟門檻）是母稿本來就長，不硬剪，留給維護班判斷。`ac5f4573f` 落地，這是規則寫在 §第五層之後第一次真的照著派。
+
+## 順著旗艦文撞出來的第五件事：圖表來源列
+
+驗收時順手查渲染器怎麼解析 `tw-bars` 的來源列，發現它的 regex 停在 2026-07-16 手列的五語，而 `VIZ_STRINGS` 十三語的 `srcPrefix` 早就齊了——渲染器寫得出 `Nguồn:`、讀不回 `Nguồn:`。全庫量到 **1,124 列模組內來源**被當成資料列吃進圖表（vi 250／pt 218／hi 177／id 171／ar 168／ru 163／de 112），散在約 440 篇譯文。解析端改成從 `srcPrefix` 推導標籤集合（`9dbf3f6b5`），寫入端與讀取端從此不可能分岔；測試驗的是推導關係不是字串，有人再手列第二份清單就會紅。這個檔案自己在 VIZ_STRINGS 上面的註解寫過「不需要維護第二份語言清單」，講的是 aria-label，同一個病在下面三十行復發。
 
 ## 收官 checklist
 
@@ -89,6 +93,8 @@ Backend 統計（本 run 全期 1,355 次嘗試、617 份落地）：`ollama:gem
 - [ ] **OBSERVER-QUEUE #77 日記巴別塔**：七語各缺 415 篇，且既有五語的 2,075 篇在站上沒有網址。Stage D 的 gate（missing → 0）從今天起會一直紅——那是對的，不要為了讓它變綠把預設改回五語。
 - [ ] **`no output written by translate.py` 仍是最大一格**（修前 24 小時 223 次）。本班拆出三個家族並修掉，剩下的要等新一輪 report 重新聚合才知道還剩什麼。新的解析失敗訊息會帶原文長度與開頭，下一班直接 grep `raw_len=` 就有樣本。
 - [ ] **phase-F／phase-N 的 backend timeout 44 次（240 秒）**已量出但沒動：調 timeout 屬閾值調整，需 Full mode 或哲宇。資料在 master.log，按 `backend error: .* timed out` 聚合可得。
+- [ ] **〈比國家還大的演算藝術〉還有十一語 missing**（en 今晚由委派層落地）。它的形狀（77KB／85 腳註）永遠不會通過免費池，照 SQUEEZE §第五層就是該派委派層；一語一隻 sonnet 約 27 萬 token／19 分鐘。要不要一次派完十一語是算力判斷，下一班可自行決定順序，任務單模板留在 `.lang-sync-tasks/delegate-algoart-en/`。
+- [ ] **圖表來源列的存量沒有回填**（`9dbf3f6b5` 只堵新增）：約 440 篇譯文的 1,124 列來源在修好的渲染器下會正確變成 caption，不需要改內容；但值得下一班 build 後抽看幾張圖確認沒有別的解析副作用（特別是 ar／hi 的 RTL 與天城文）。
 
 ## Beat 5 — 反芻
 
