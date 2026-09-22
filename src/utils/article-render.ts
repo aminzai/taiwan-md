@@ -223,6 +223,40 @@ const VIZ_STRINGS: Record<Lang, VizStrings> = {
     majority: 'Mehrheit',
   },
 };
+
+// 來源列解析用的 regex：從 VIZ_STRINGS.srcPrefix 推導，不手列第二份清單（見下方
+// §跨模組「來源」列）。複數形另列——模型翻出來的是 `Fontes`／`Источники`／
+// `المصادر`／`Quellen`／`Nguồn dữ liệu`，這些不在 srcPrefix 裡但實測出現在語料。
+const _SRC_EXTRA_LABELS = [
+  '資料來源',
+  '來源',
+  'sources',
+  'fuentes',
+  'fontes',
+  'quellen',
+  'источники',
+  'المصادر',
+  'nguồn dữ liệu',
+  'مصدر البيانات',
+];
+function _buildSrcLineRe(): RegExp {
+  const labels = new Set<string>(_SRC_EXTRA_LABELS);
+  for (const v of Object.values(VIZ_STRINGS)) {
+    labels.add(
+      v.srcPrefix
+        .replace(/[:：]\s*$/, '')
+        .trim()
+        .toLowerCase(),
+    );
+  }
+  const alt = [...labels]
+    .filter(Boolean)
+    .sort((a, b) => b.length - a.length) // 長的先試，免得 `Nguồn` 先吃掉 `Nguồn dữ liệu`
+    .map((l) => l.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .join('|');
+  return new RegExp(`^(?:${alt})\\s*[:：]\\s*(.+)$`, 'i');
+}
+const SRC_LINE_RE = _buildSrcLineRe();
 // module scope：整個 build 只有一份，renderArticleHtml 每次呼叫開頭覆寫。
 // 安全性建立在「marked.parse() 是同步呼叫、_locale 賦值到 parse 完成之間沒有
 // await」──JS 單執行緒下不會被其他 renderArticleHtml 呼叫插入打斷，一次 parse
@@ -327,9 +361,16 @@ function renderTwModule(lang: string, raw: string): string {
   // 跨模組「來源」列：任一列 `來源：…` / `資料來源：…` / `source: …` 抽成 sibling 來源 caption。
   // 2026-07-16 擴充各語言標籤（Sources/出典/출처/Fuente(s)）——babel 會把「來源」翻成
   // 目標語標籤，舊 regex 對不上時整列靜默變資料列被丟掉，譯版來源 caption 消失。
+  //
+  // 2026-09-23：那次擴充是手列五語，於是 07 月之後出生的七語又漂掉了——實測
+  // knowledge/ 底下 1,124 列模組內來源（vi「Nguồn」250、hi「स्रोत」177、
+  // pt「Fonte」218、id「Sumber」171、ar「المصدر」168、ru「Источник」163、
+  // de「Quelle」112），分佈在約 440 篇譯文，每一列都被當成資料列。這個檔自己在
+  // VIZ_STRINGS 上面的註解寫過修法：**不要維護第二份語言清單**。srcPrefix 那一欄
+  // 本來就是「這個語言怎麼寫來源」的 SSOT，解析端直接從它推導，新語言出生時
+  // 寫入端與讀取端就不可能再分岔。
   let src = '';
-  const _srcRe =
-    /^(?:資料來源|來源|sources?|出典|출처|fuentes?)\s*[:：]\s*(.+)$/i;
+  const _srcRe = SRC_LINE_RE;
   lines = lines.filter((l) => {
     const m = l.match(_srcRe);
     if (m) {
