@@ -14,12 +14,12 @@ tags:
     'Hội đồng cải cách giáo dục',
     'Đại học tư thục',
   ]
-subcategory: 教育
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-16
 lastHumanReview: false
-researchReport: reports/research/2026-07/台灣高等教育擴張與退場.md
+researchReport: 'reports/research/2026-07/台灣高等教育擴張與退場.md'
 rationale:
   why_this_hook: '2009 屏東車站的永達招生看板 vs 五年後停辦——「開門的行銷、關門的靜默」同框；論點「只設計開門、沒設計關門」由官方時間差（學生數 2012 見頂、退場條例 2022 立法）與帳單落點（498→339、教師轉職 14%）承載。'
   whats_excluded: '藍綠教改究責攻防（責任議題中立紀實不裁決）；個別董事會弊案細節（指向退場條例機制與已有司法認定的興國／中信案）；境外生／學工政策全貌（2025-26 查無新案，僅監管現況帶過）；國中小減班併校（人口同源、不同教育階段）；競爭型經費與法人化詳述（另屬治理題，一句帶過）。'
@@ -30,13 +30,12 @@ image: '/article-images/society/yungta-gate-2013.webp'
 imageCredit: 'SSR2000 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gate_of_Yung_Ta_Institute_of_Technology_%26_Commerce.JPG'
-relatedDiary:
-  - 2026-07-16-213425-highered-evolve
+relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
-sourceCommitSha: '3b2bfbb30'
-sourceContentHash: 'sha256:0e32d79d3df5fb08'
-sourceBodyHash: 'sha256:4ba5d74427c47aed'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:2a4f80e7fc721f19'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
+translatedAt: '2026-09-22T10:39:07.225453+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 1994, Đài Loan có 58 trường đại học, chỉ chưa đến hai mươi phần trăm thanh niên mười tám tuổi có thể vào đại học bốn năm. Cuộc diễu hành 410 kêu gọi "mở rộng trường cấp ba và đại học", chính phủ mở cửa bằng cách thuận tiện nhất: cho phép các trường cao đẳng hiện có nâng cấp liên tục. Hai mươi năm sau, các trường đại học vọt lên 148, tỷ lệ học sinh vượt qua 70%, phụ nữ, học sinh yếu thế, những đứa trẻ là đứa con đầu tiên đi đại học thực sự đã bước vào. Rồi tường thiếu sinh đó đến: số lượng học sinh đạt đỉnh năm 2012, nhưng điều lệ suy thoái mới được thông qua năm 2022. Thí nghiệm này chỉ thiết kế cách mở cửa, luật đóng cửa đến trễ mười năm. Ngày nay Cao Phong, Vĩnh Đạt, Tạo Giang đóng cửa, hóa đơn rơi vào những học sinh và giáo viên ít lựa chọn nhất.
@@ -209,31 +208,32 @@ Quay về khoản hai trăm tỷ đó, sự thật là chân thành nửa nửa:
 
 Mở cửa lúc, chẳng ai hỏi một câu: nếu có một ngày những trường này phải trả lại, đất đai tài sản trường xem lẽ nào? Sự im lặng khi xưa, bây giờ do mỗi trường suy thoái thay nó bổ xét. Thế ba mươi năm xuống, xã hội này học được gì?
 
-## Bảng điểm có người lưu giữ, giáo viên và học sinh vẫn tìm vị trí
+## Bảng điểm được lưu giữ, thầy cô và sinh viên vẫn đang tìm chỗ
 
-Nhìn lại bảng điểm: xã hội này học được cách đóng cửa chưa? Câu trả lời là chân thành nửa nửa.
+Xem lại bảng điểm: Xã hội này đã đóng cửa chưa? Câu trả lời là một nửa có, một nửa không.
 
-Có một nửa, chế độ thực sự đã đón nhận. Điều lệ suy thoái điều 20 quy định rõ, khi trường ngừng hoạt động, dữ liệu học tập sinh viên phải lưu giữ vĩnh viễn, chuyển giao cho trường được chỉ định. Bộ Giáo dục từ năm 2018 trở đi ủy nhiệm cho Đại học Khoa học Công nghệ Vân Lâm xây dựng "Cơ sở dữ liệu Dữ liệu Học tập Sinh viên Trường Suy thoái Thay thế", sinh viên tốt nghiệp của trường suy thoái lên mạng là có thể xin bản sao bảng điểm, một bản 20 đồng, bằng cấp 100 đồng[^31]. Trường mẹ biến mất, tờ giấy chứng minh bạn từng học còn ở. Đây là một thiết kế thực sự, đón nhận người, suy thoái không bằng chân không của hồ sơ.
+Một nửa, hệ thống đã tiếp nhận. Điều 20 của Quy chế thôi học quy định rõ ràng rằng khi trường ngừng hoạt động, hồ sơ học tập của sinh viên phải được lưu giữ vĩnh viễn và chuyển giao cho các trường được chỉ định. Bộ Giáo dục ủy thác cho Đại học Khoa học Công nghệ Vân Lâm xây dựng "Cơ sở dữ liệu hồ sơ sinh viên của các trường thôi học" từ năm 2018, giúp cựu sinh viên của các trường ngừng hoạt động có thể nộp đơn xin bảng điểm trực tuyến với giá 20 Đài tệ cho một bản và 100 Đài tệ cho giấy chứng nhận bằng cấp[^31]. Trường mẹ đã biến mất, nhưng tờ giấy chứng minh bạn từng đi học thì vẫn còn. Đây là một thiết kế thực tế, nơi con người được tiếp nhận; thôi học không đồng nghĩa với sự trống rỗng về hồ sơ.
 
-Trung Hóa Tiểu học là một cách khác để đón nhận. Cao Phong suy thoái, đất trường được Hội Đạo Thống Nhất Thiên Hoàng Quỹ tiếp quản, năm 2016 thành Trung Hóa Tiểu học[^18] — toàn Đài đầu tiên "đại học thành tiểu học". Thiếu sinh một tay giết chết đại học, một tay lại cần tiểu học, cùng một khuôn viên đổi lô em bé nhỏ hơn. Tạo Giang Công nghệ Quản lý thì chuyển hóa thành pháp nhân chăm sóc dài hạn, khuôn viên trống ra, chào đón là người già hơn.
+Trường Tiểu học Sùng Hoa là một cách tiếp nhận khác. Sau khi trường Cao Phượng ngừng hoạt động, đất đai của trường đã được Quỹ Thiên Môn Đạo quản lý và vào năm 2016 đã trở thành Trường Tiểu học Sùng Hoa[^18]—trường "từ đại học thành tiểu học" đầu tiên trên toàn đảo. Sự suy giảm dân số vừa giết chết các trường đại học, lại cần đến các trường tiểu học; cùng một khuôn viên trường đón nhận một thế hệ trẻ nhỏ hơn. Học viện Công nghệ và Quản lý Đào Giang thì chuyển đổi thành pháp nhân tổ chức xã hội, và khuôn viên trống trải đó chào đón những người lớn tuổi hơn.
 
-Nhưng nửa kia, người vẫn tự đón nhận mình. Con số 16.42% thôi học, con số 14% giáo viên chuyển công việc, đều kể cùng một chuyện: tài liệu có người lưu giữ, người vẫn tìm vị trí. Mà tường vẫn chưa chạm xong. Bộ Giáo dục dự báo đến năm 2040 (năm học 129), sinh viên lớp một chỉ còn 14.6 vạn người[^32]; năm 2028 trở đi, tỷ lệ sàng lọc tuyển sinh đại học từ 3 lần lên 4 lần, để cho nhiều thí sinh chen được bước hai giai đoạn[^32]. Còn về sau, năm 2024 sinh 13.5 vạn, năm 2025 chỉ còn 10.8 vạn, lô trẻ này mười tám năm sau (khoảng 2042, 2043) mới là trần của sinh viên lớp một đại học, tuy nhiên cái này đã vượt ra khỏi phạm vi dự báo chính thức của Bộ Giáo dục, chỉ có thể suy luận thô từ số sinh[^13].
+Nhưng nửa còn lại, con người vẫn tự tiếp nhận chính mình. Tỷ lệ bỏ học 16,42% và tỷ lệ giáo viên chuyển ngành 14%, tất cả đều nói cùng một câu chuyện: hồ sơ được lưu giữ, nhưng con người vẫn đang tìm vị trí. Và bức tường vẫn chưa sụp đổ hoàn toàn. Bộ Giáo dục ước tính rằng vào năm 2040 (năm học thứ 129), sinh viên năm nhất chỉ còn 143.000 người[^32]; từ năm 2028, tỷ lệ sàng lọc tuyển sinh đại học được điều chỉnh từ gấp 3 lên gấp 4 lần để nhiều thí sinh hơn có thể lọt vào vòng hai[^32]. Còn về sau này, với số lượng sinh viên tốt nghiệp năm 2024 là 135.000 và năm 2025 chỉ còn 108.000, thế hệ trẻ này mới là giới hạn của sinh viên đại học vào khoảng năm 2042, 2043 (sau mười tám năm), nhưng điều này đã vượt ra ngoài phạm vi ước tính chính thức của Bộ Giáo dục và chỉ có thể suy luận sơ bộ từ số liệu dân số[^13].
 
-Nếu bạn là phụ huynh, muốn tìm xem trường con định điền có an toàn không, sẽ phát hiện một chuyện: Bộ Giáo dục không chủ động công khai danh sách trường cảnh báo hoàn chỉnh và bị hỗ trợ đặc biệt[^20]. Bạn muốn tìm, cũng không tìm thấy. Chính cái này là một câu trả lời im lặng về "Đại học vì ai mà tồn tại".
+Nếu bạn là phụ huynh, muốn kiểm tra xem trường con mình đăng ký có an toàn không, bạn sẽ nhận ra một điều: Bộ Giáo dục không chủ động công bố danh sách đầy đủ các trường cảnh báo và hỗ trợ dự án[^20]. Bạn muốn tìm thì cũng không thể. Bản thân điều này đã là một câu trả lời im lặng về việc "trường đại học tồn tại vì ai".
 
-Câu chuyện quay về Phan Khôn Chính. Mười năm qua, anh 33 tuổi rồi, làm môi giới bất động sản. Khi người khác hỏi học vấn, lúc đầu anh vẫn nhắc Cao Phong, nhưng "nhiều người không biết Cao Phong, phải giải thích lâu, sau đó anh cũng không chủ động nhắc, cứ nói là tốt nghiệp Đại học Kỹ thuật Shu Đức"[^18].
+Câu chuyện quay lại Phan Khôn Chính. Mười năm trôi qua, anh 33 tuổi, làm môi giới bất động sản. Khi người khác hỏi về bằng cấp của anh, ban đầu anh còn nói đến Cao Phượng, nhưng "[nhiều người không biết Cao Phượng nên cần giải thích rất lâu, sau đó anh cũng không chủ động nhắc tới mà nói thẳng là tốt nghiệp Đại học Kỹ thuật Thụ Đức]"[^18].
 
-Trường Cao Phong, cuối cùng ở lại thế giới của nó hai vị trí. Một cái ở trong cơ sở dữ liệu, hệ thống thay thế của Đại học Khoa học Công nghệ Vân Lâm, trong đó một bản sao bảng điểm ghi giá 20 đồng, bất kỳ lúc nào cũng có thể tìm xem. Cái kia ở trong tự tìm hiểu của Phan Khôn Chính, đó là một cái tên anh không còn nói ra miệng.
+Trường Cao Phượng, cuối cùng chỉ để lại hai vị trí trên thế giới. Một ở trong cơ sở dữ liệu, hệ thống do Vân Khoa đại quản lý, một bảng điểm có giá 20 Đài tệ và có thể tra cứu bất cứ lúc nào. Vị trí thứ hai là trong phần tự giới thiệu của Phan Khôn Chính, đó là cái tên mà anh không bao giờ nói ra nữa.
 
-Mở cửa, Đài Loan dùng mười năm. Học được cách đóng cửa, dùng ba mươi năm — và vẫn đang học. Tấm biển quảng cáo trước nhà ga Bình Đông từ lâu đã dỡ xuống, cửa Vĩnh Đạt vẫn đứng ở bên cạnh con đường của Lâm Lạc ngôi trấn. Ở giữa mở cửa và đóng cửa, luôn là người.
+Mở cửa, Đài Loan đã dùng mười năm. Học cách đóng cửa, họ mất ba mươi năm—và vẫn đang học. Bảng tuyển sinh trước nhà ga Bình Đông đã bị dỡ từ lâu, còn cổng trường Vĩnh Đạt vẫn đứng bên đường ở thị trấn Lâm Lạc. Giữa lúc mở và đóng cánh cửa, người luôn đứng đó là con người.
 
 ---
 
-**Khuyến nghị mở rộng**:
+**Đọc thêm**:
 
-- [Khủng hoảng Thiếu sinh Đài Loan](/society/khủng-hoảng-thiếu-sinh-Đài-Loan) — Tường dân số đánh sụp đại học đó, làm sao hình thành, lại đi về đâu
-- [Hệ thống Giáo dục và Văn hóa Luyện thi](/society/hệ-thống-giáo-dục-và-văn-hóa-luyện-thi) — Cửa hẹp kỳ thi Liên hợp và chủ nghĩa luyện thi, mở rộng đại học muốn nới lỏng chính là cái này
-- [Học Tập Hèn kém](/society/học-tập-hèn-kém) — Sau khi phổ cập giáo dục, khoảng cách học tập thực sự ẩn nơi đâu
+- [Khủng hoảng tỷ lệ sinh thấp của Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Bức tường dân số làm sập các trường đại học được hình thành như thế nào và đi về đâu
+- [Hệ thống giáo dục và văn hóa tuyển sinh](/vi/society/education-system-and-admissions-culture) — Cánh cửa hẹp của kỳ thi chung và chủ nghĩa ưu tú trong tuyển sinh, chính là điều mà việc mở rộng trường đại học muốn nới lỏng
+- [Nghèo đói tri thức](/vi/society/learning-poverty-in-taiwan) — Sau khi phổ cập bằng cấp, sự chênh lệch thực sự của việc học ẩn giấu ở đâu
+- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Tổ chức không cần tuyển sinh hay giảng dạy, mà nguồn luật được ghi trực tiếp trong Luật tổ chức Tổng thống, và cảm giác bị tước đoạt tương đối của phía đại học "tại sao lại là nó mà gánh nổi"
 
 ---
 
