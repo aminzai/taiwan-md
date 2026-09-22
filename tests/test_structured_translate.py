@@ -511,3 +511,30 @@ def test_frontmatter_accepts_single_element_list_wrapper():
     assert "title: 'en:苗栗縣'" in block
     assert MODULE._unwrap_singleton_payload([{"a": 1}]) == {"a": 1}
     assert MODULE._unwrap_singleton_payload([{"a": 1}, {"b": 2}]) == [{"a": 1}, {"b": 2}]
+
+
+def test_json_retry_tells_the_model_what_went_wrong():
+    """重試不要原樣重播同一個 prompt（2026-09-23）：新加的原文摘錄證實「no balanced
+    JSON」不是空回應——模型拿整批腳註當文件寫了一篇中文 markdown 回來。同一個 prompt
+    再送一次，模型沒有理由改變行為。"""
+    systems = []
+
+    class Backend:
+        name = "stub"
+
+        def __init__(self):
+            self.calls = 0
+
+        def translate(self, system, _user, **_kwargs):
+            systems.append(system)
+            self.calls += 1
+            return "# 這是一篇 markdown，不是 JSON" if self.calls == 1 else '{"ok": 1}'
+
+    data = MODULE.call_json(Backend(), "SYS", "USER", max_tokens=100, timeout=10,
+                            max_attempts=2, metrics={}, label="phase-X",
+                            accept_data=lambda d: isinstance(d, dict))
+
+    assert data == {"ok": 1}
+    assert "previous answer was rejected" not in systems[0]
+    assert "previous answer was rejected" in systems[1]
+    assert "raw_len=" in systems[1], "要把上一輪的實際長度與開頭帶給模型"

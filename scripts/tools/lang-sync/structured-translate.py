@@ -219,9 +219,22 @@ def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
               max_attempts: int, metrics: dict, label: str, accept_data=None):
     """Call backend, strip fence, parse JSON. Retries on parse failure (spec:
     「parse 失敗重試一次」→ max_attempts=2 covers 1 original + 1 retry)."""
-    system = system + _NO_REASONING_SUFFIX
+    base_system = system + _NO_REASONING_SUFFIX
     last_err = None
     for attempt in range(1, max_attempts + 1):
+        # 2026-09-23：重試時把上一輪的毛病講給模型聽，不要原樣重播同一個 prompt。
+        # 新加的原文摘錄證實了「no balanced JSON」不是空回應——模型拿整批腳註
+        # 當文件寫了一篇 1,750 字的中文 markdown 回來（馬祖國際藝術島 hi）。
+        # 同一個 prompt 再送一次，模型沒有任何理由改變行為；Phase B 的 chunk
+        # 重試從一開始就會帶上「你上次哪裡錯了」，這裡補上同一個迴路。
+        system = base_system
+        if attempt > 1 and last_err:
+            system = base_system + (
+                f"\n\nYour previous answer was rejected: {last_err[:200]}. "
+                "Return ONLY the JSON value described above — no markdown, no prose, "
+                "no document, no explanation. Start your answer with the opening "
+                "brace or bracket."
+            )
         t0 = time.time()
         call_record = {"label": label, "attempt": attempt}
         try:
