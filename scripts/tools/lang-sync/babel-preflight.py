@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import os
 import shutil
 import socket
@@ -104,6 +105,53 @@ def check_fleet() -> dict:
             pass
     return {"available": bool(reachable), "reachable": reachable,
             "total_registered": len(machines)}
+
+
+# SQUEEZE §入池門檻（哲宇 2026-07-26 directive）的白名單。放這裡不是要在本檔
+# 重新定義判準，是要讓 Stage 0 問得出「今天派工的模型在不在名單上」——名單的
+# 理由住 pipeline：閘門擋得住結構錯誤與整段沒翻，擋不住「每句都翻了但讀起來
+# 不對」，而那種債會落地成讀者看到的內容且不會有人回報。
+POOL_WHITELIST_HINT = "nemotron-3-ultra-550b / gemma4:26b 以上 / gpt-oss-120b / qwen3.6:35b"
+_POOL_MIN_PARAMS_B = 26.0
+
+
+def _model_params_b(host: str, model: str) -> float | None:
+    """問 ollama 這個模型幾 B。名字看不出級別——`gemma4:e4b-nvfp4` 讀起來像
+    gemma4 家族（白名單有 gemma4:26b），實際是 8.1B，比明確被排除的
+    gemma4:12b 還小。所以判級別要問參數量，不要解析名字。"""
+    try:
+        req = urllib.request.Request(
+            f"{host}/api/show", data=json.dumps({"model": model}).encode(),
+            headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=5) as r:
+            info = json.loads(r.read())
+    except Exception:
+        return None
+    n = (info.get("model_info") or {}).get("general.parameter_count")
+    if isinstance(n, (int, float)) and n > 0:
+        return round(n / 1e9, 1)
+    size = (info.get("details") or {}).get("parameter_size") or ""
+    m = re.match(r"([\d.]+)\s*B", str(size), re.I)
+    return float(m.group(1)) if m else None
+
+
+def check_pool_eligibility(ollama_report: dict) -> dict:
+    """地端模型級別對白名單。2026-09-23 誕生：fleet 有一道 `--profile babel`
+    的核發閘（無合格模型就回 0 個 worker，讓地端 lane 停而不是降級），但產線
+    實際跑的是 `--format babel`——**同一支指令的另一個旗標，不套白名單**。
+    於是 mac-m4max 用 8.1B 的 gemma4:e4b-nvfp4 連續翻了兩天（一夜 398 次嘗試
+    裡 66% 出自它），而每一份報表都是綠的。閘門存在、會動、沒有人呼叫它。"""
+    if not ollama_report.get("available"):
+        return {"checked": False, "reason": "本機沒有可用 ollama 模型"}
+    host = ollama_report["host"]
+    below = []
+    for model in ollama_report.get("models", []):
+        params = _model_params_b(host, model)
+        if params is not None and params < _POOL_MIN_PARAMS_B:
+            below.append({"model": model, "params_b": params})
+    return {"checked": True, "below_threshold": below,
+            "whitelist": POOL_WHITELIST_HINT,
+            "note": "fleet 的 `--profile babel` 會擋下這些；`--format babel` 不會"}
 
 
 def check_track_record(days: int = 2) -> dict:
@@ -189,6 +237,7 @@ def main():
         "codex": check_codex(),
         "track_record": check_track_record(),
     }
+    report["pool_eligibility"] = check_pool_eligibility(report["ollama"])
     tiers_up = sum(1 for k in ("openrouter", "ollama", "fleet", "codex")
                    if report[k].get("available"))
     report["tiers_available"] = tiers_up
@@ -212,6 +261,13 @@ def main():
         if ol.get("available"):
             print(f"   ✅ 本機 ollama {ol['count']} 個可翻譯模型 @ {ol['host']}")
             print(f"      {', '.join(ol['models'])}")
+        pe = report["pool_eligibility"]
+        if pe.get("below_threshold"):
+            names = "、".join(f"{b['model']}（{b['params_b']}B）"
+                              for b in pe["below_threshold"])
+            print(f"   🔴 入池門檻  地端模型低於白名單級別：{names}")
+            print(f"      白名單：{pe['whitelist']}（SQUEEZE §入池門檻，哲宇 2026-07-26）")
+            print(f"      {pe['note']}——降級換來的產能是負債不是資產")
         else:
             print(f"   ❌ 本機 ollama {ol.get('hint') or ol.get('error')}")
         if fl.get("available"):
