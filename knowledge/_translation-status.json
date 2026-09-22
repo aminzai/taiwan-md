@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T09:29:28+08:00",
-    "zhCommitHead": "2160db38e",
+    "lastUpdated": "2026-09-22T09:42:02+08:00",
+    "zhCommitHead": "21c656801",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 910,
+        "fresh": 911,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 75,
+        "missing": 74,
         "orphan": 0
       },
       "ko": {
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1041,
-        "stale": 59,
+        "fresh": 1042,
+        "stale": 58,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1032,
+        "fresh": 1033,
         "stale": 44,
-        "metadata_stale": 31,
+        "metadata_stale": 30,
         "missing": 17,
         "orphan": 0
       },
@@ -106861,7 +106861,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/liao-tian-ding.md",
+          "translatedFrom": "People/廖添丁.md",
+          "sourceCommitSha": "28304057a",
+          "sourceContentHash": "sha256:e0f89a1113cc2a1d",
+          "sourceBodyHash": "sha256:f4fed166bea776f5",
+          "translatedAt": "2026-09-22T08:09:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 26355,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/liao-tian-ding.md",
@@ -140576,8 +140588,8 @@
           "sourceContentHash": "sha256:d06ea631387761c6",
           "sourceBodyHash": "sha256:1e5405f424ed35fc",
           "translatedAt": "2026-09-22T04:48:28+08:00",
-          "translationLastCommit": "677cd01d",
-          "translationLastModified": "2026-09-22T01:05:52+08:00",
+          "translationLastCommit": "21c65680",
+          "translationLastModified": "2026-09-22T09:29:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 15865,
@@ -144833,19 +144845,17 @@
         "es": {
           "path": "es/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:874c652bf8f5b63c",
-          "sourceBodyHash": "sha256:53b616e81595b8c6",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-22T08:09:28+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16933,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -3"
+          "bytes": 16784,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/hand-shaken-drink-culture.md",
@@ -191869,19 +191879,17 @@
         "vi": {
           "path": "vi/Culture/taiwanese-homophone-taboos.md",
           "translatedFrom": "Culture/台灣諧音禁忌文化.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:d88f480a1e1f7ae0",
           "sourceBodyHash": "sha256:ab7935ab2e6c6ed8",
-          "translatedAt": "2026-07-25T06:34:13+08:00",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
           "translationLastCommit": "d4a1ee32",
           "translationLastModified": "2026-07-25T07:54:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10336,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 10410,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwanese-homophone-taboos.md",
