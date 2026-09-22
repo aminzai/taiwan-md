@@ -1,129 +1,133 @@
 ---
-imageLicense: 'Public domain'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
-translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:4dac67a4f3297b76'
-sourceBodyHash: 'sha256:aae5f010fab3924f'
-translatedAt: '2026-08-09T12:06:28+08:00'
-title: 'Văn hóa kem/đá lạnh của Đài Loan'
-description: 'Từ kem xoài Nghinh Lâm đến cuộc cách mạng kem tuyết, khám phá văn hóa độc đáo của người Đài Loan—ăn kem cả vào mùa đông'
+title: 'Văn hóa kem của Đài Loan'
+description: 'Từ kem xoài Ngọc Tỉnh đến cuộc cách mạng kem tuyết, khám phá văn hóa độc đáo của người dân Đài Loan dù mùa đông vẫn phải ăn kem'
 date: 2026-03-19
 category: 'Food'
-tags: ['kem', 'kem xoài', 'kem tuyết', 'đá lạnh', 'ICE MONSTER']
+tags: ['kem', 'kem xoài', 'kem tuyết', 'đá bào', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Đá lạnh cạo xoài'
+imageAlt: 'Kem xoài ở Đài Bắc'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
+translatedFrom: 'Food/台灣冰品文化.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:81d7772de9e1a0c6'
+sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
+translatedAt: '2026-09-23T02:56:16+08:00'
 ---
 
-# Văn hóa kem/đá lạnh của Đài Loan
+# Văn hóa kem của Đài Loan
 
-Tình yêu của người Đài Loan với kem/đá lạnh được coi là hiếm có trên thế giới — ngay cả vào mùa đông khi nhiệt độ chỉ có 10 độ, những quán kem vẫn đông kín khách. Văn hóa kem của Đài Loan có gốc từ thời kỳ Nhật trị, khi công nghệ làm đá lạnh được giới thiệu; sau đó trải qua giai đoạn phổ cập đá bào sau chiến tranh, cuộc cách mạng kỹ thuật kem tuyết vào những năm 1990, cho đến sự mở rộng quốc tế của các thương hiệu như ICE MONSTER vào những năm 2010. Đây là một dòng lịch sử tiến hóa với những mốc thời gian cụ thể có thể truy lùi được.
+Tình yêu dành cho các món kem của người dân Đài Loan được xem là độc đáo trên thế giới; ngay cả khi nhiệt độ mùa đông chỉ còn 10 độ C, các tiệm kem vẫn tấp nập khách ghé thăm. Văn hóa kem của Đài Loan có nguồn gốc từ kỹ thuật làm đá du nhập trong thời kỳ Nhật trị, trải qua sự phổ biến của món đá bào sau chiến tranh, cuộc đổi mới công nghệ kem tuyết vào những năm 1990, và sự mở rộng quốc tế của các thương hiệu như ICE MONSTER trong thập niên 2010. Đây là một lịch sử phát triển có thể truy ngược lại với các mốc thời gian cụ thể.
 
-## Thời kỳ Nhật trị: Khởi nguyên văn hóa kem/đá lạnh
+## Thời kỳ Nhật trị: Nguồn gốc văn hóa kem
 
-Gốc của văn hóa kem Đài Loan có thể truy lùi về thời kỳ Nhật trị (1895-1945). Sau khi Nhật Bản giới thiệu máy làm đá lạnh và xây dựng các nhà máy đá lạnh nhân tạo, những cục đá tự nhiên mà trước đây chỉ tầng lớp giàu có mới có thể tiếp cụ đã biến thành hàng tiêu dùng có thể tiếp cận được với dân thường. Cách ăn kiểu Nhật „かき氷" (đá bào) theo sau nó — những khúc đá được cạo thành từng lát mỏng được rưới siro hoặc đỗ ngọt, trở thành hình thức cơ bản để giải nhiệt vào hè ở dân gian Đài Loan. [^6]
+Nguồn cội của văn hóa kem Đài Loan có thể được truy về thời kỳ Nhật trị (1895-1945). Sau khi người Nhật du nhập máy làm đá và thành lập các nhà máy băng nhân tạo, "băng tự nhiên" vốn chỉ dành cho giới thượng lưu đã trở thành mặt hàng tiêu dùng mà dân thường có thể tiếp cận. Cách ăn món _kakigōri_ (đá bào) kiểu Nhật cũng được truyền vào—các viên đá mỏng được rưới si-rô hoặc nhân đậu, trở thành hình thức giải nhiệt cơ bản của người dân Đài Loan trong mùa hè. [^6]
 
-Vào cuối thời kỳ Nhật trị, những thành phố như Đài Nam, Đài Bắc đã xuất hiện những quán bán đá lạnh cố định. Những loại topping được yêu thích vào lúc đó bao gồm đỗ đỏ, cỏ lạnh, hạt lạc với siro, những kết hợp này hầu như không thay đổi gì cho đến nay trên những quán đá bào truyền thống. Việc thiết lập ngành công nghiệp làm đá lạnh không chỉ cung cấp cho ngành kem mà còn hỗ trợ nhu cầu bảo quản lạnh của ngành đánh bắt cá thời Nhật trị, là một phần của hiện đại hóa thuộc địa.
+Vào cuối thời kỳ Nhật trị, các thành phố như Đài Nam và Đài Bắc đã xuất hiện những quầy hàng kem cố định. Các nguyên liệu thịnh hành lúc bấy giờ bao gồm đậu đỏ, rau sen, si-rô đậu phộng; sự kết hợp này gần như được kế thừa y nguyên trên các xe đá bào truyền thống ngày nay. Việc thiết lập ngành công nghiệp làm đá không chỉ cung cấp kem mà còn hỗ trợ nhu cầu bảo quản lạnh của ngành thủy sản Đài Loan trong thời kỳ Nhật trị, là một phần của quá trình hiện đại hóa thuộc địa.
 
-## Nghinh Lâm xoài: Từ vùng sản xuất đến truyền thuyết ngọt ngào toàn cầu
+## Kem xoài Ngọc Tỉnh: Huyền thoại ngọt ngào từ vùng nguyên liệu đến toàn cầu
 
-Đài Nam Nghinh Lâm được công nhận là „quê hương của xoài", nơi đây những quả xoài Ái Văn nổi tiếng với hương thơm và nước ngọt. Mỗi năm từ tháng 5 đến tháng 8 khi mùa xoài đến, Nghinh Lâm sẽ chứng kiến dòng người đông đúc tới „thánh địa xoài", chỉ để nếm thử kem xoài tươi nhất.
+Ngọc Tỉnh (Tainan) được mệnh danh là "quê hương của quả xoài", và giống xoài Ai Wen ở đây nổi tiếng khắp Đài Loan với vị thơm ngọt mọng nước. Trong mùa xoài từ tháng 5 đến tháng 8 hàng năm, Ngọc Tỉnh sẽ đón một lượng lớn "những người hành hương săn xoài" chỉ để thưởng thức kem xoài tươi nhất.
 
-Điểm đặc trưng của kem xoài Nghinh Lâm nằm ở „nguyên liệu thật". Những quả xoài Ái Văn nguyên cả được tước vỏ và cắt thành từng khúc, được rưới nước xoài tươi, kết hợp với đá lạnh truyền thống — đơn giản nhưng đạt tới sự hoàn hảo. Vị ngọt tinh khiết này đã giúp kem xoài Nghinh Lâm trở thành một chiếc bánh đặc trưng của mùa hè Đài Loan.
+Điểm đặc biệt của kem xoài Ngọc Tỉnh là "nguyên liệu thật". Toàn bộ quả xoài Ai Wen được gọt vỏ và cắt miếng, rưới nước cốt xoài tươi, kết hợp với đá bào truyền thống—đơn giản nhưng vô cùng tinh tế. Hương vị thuần khiết này đã giúp kem xoài Ngọc Tỉnh trở thành món tráng miệng tiêu biểu của mùa hè Đài Loan.
 
-Bắt đầu từ Nghinh Lâm, kem xoài dần dần lan tỏa ra toàn bộ Đài Loan. Mỗi vùng phát triển ra phiên bản đặc trưng riêng của nó: một số thêm pudding hoặc thạch để tăng kết cấu, một số sử dụng các loại xoài khác nhau để tạo ra lớp hương vị, và một số kết hợp với những sản phẩm đặc sản địa phương để hình thành hương vị độc đáo.
+Bắt đầu từ Ngọc Tỉnh, kem xoài dần lan rộng ra khắp Đài Loan. Mỗi khu vực đều phát triển phiên bản đặc trưng riêng: một số thêm bánh pudding hoặc thạch để tăng độ kết cấu, một số sử dụng các giống xoài khác nhau để tạo tầng hương vị, và một số lại kết hợp với đặc sản địa phương để tạo nên hương vị độc đáo.
 
-Sự xuất hiện của ICE MONSTER đã đẩy kem xoài Đài Loan lên sân khấu quốc tế. Tiền thân của nó là „Yongkang 15 Ice Shop" được mở vào năm 1995 trên phố Vĩnh Khang, năm 2010 được đổi tên thành ICE MONSTER và chuyển đến đường Trung Hiếu Đông. [^1] Kem xoài tuyết được tinh xảo kết hợp với cách trình bày hình ảnh đổi mới đã khiến thương hiệu này nổi danh từ Đài Loan tới Hồng Kông, Singapore, Los Angeles, giúp nhiều khách du lịch nước ngoài hiểu rõ hơn về quyến rũ của kem xoài Đài Loan.
+Sự xuất hiện của ICE MONSTER càng đưa kem xoài Đài Loan lên sân khấu quốc tế. Tiền thân của nó là "Quán đá bào Yongkang 15" khai trương ở phố Yongkang vào năm 1995, và được đổi tên thành ICE MONSTER cùng chuyển địa điểm vào năm 2010. [^1] Kem tuyết xoài tinh xảo kết hợp với cách trình bày sáng tạo đã giúp thương hiệu từ nổi tiếng tại Đài Loan đến Hồng Kông, Singapore, Los Angeles, để nhiều du khách nước ngoài biết đến sức hấp dẫn của kem xoài Đài Loan.
 
-## Cuộc cách mạng kem tuyết: Bước đột phá về kết cấu
+## Cuộc cách mạng kem tuyết: Bước đột phá lớn về kết cấu
 
-Từ cuối những năm 1990 đến đầu những năm 2000, ngành kem Đài Loan đã chứng kiến một „cuộc cách mạng kem tuyết". Đá lạnh truyền thống được làm từ những khối đá thuần chảy, kết cấu khá thô, dễ tan chảy. Kem tuyết được làm bằng cách đông sữa, đường và các gia vị khác thành những khối đá, sau đó được bào thành những lạng tuyết tinh tế bằng máy đặc biệt, kết cấu mềm mại như tuyết.
+Từ cuối những năm 1990 đến đầu những năm 2000, giới làm kem Đài Loan đã chứng kiến "cuộc cách mạng kem tuyết". Đá bào truyền thống được làm bằng đá nguyên chất, có kết cấu khá thô và dễ tan. Kem tuyết là quá trình đông lạnh sữa, đường và các loại gia vị khác thành khối băng, sau đó dùng máy chuyên dụng để nghiền thành những bông tuyết mịn màng, với kết cấu mềm mại như tuyết.
 
-Sự đổi mới kỹ thuật này đã thay đổi bộ mặt ngành kem của Đài Loan. Kem tuyết không chỉ có kết cấu tốt hơn mà còn dễ điều chỉnh màu sắc và hương vị hơn, tạo ra nhiều hiệu ứng hình ảnh khác nhau. Kem tuyết trà xanh, kem tuyết socola, kem tuyết dâu tây, mỗi loại đều có hương vị và màu sắc riêng độc đáo.
+Sự đổi mới công nghệ này đã thay đổi cục diện ngành kem Đài Loan. Kem tuyết không chỉ có kết cấu tốt hơn mà còn dễ dàng tạo màu và hương vị hơn, cho ra nhiều hiệu ứng thị giác khác nhau. Kem tuyết trà xanh, kem tuyết sô cô la, kem tuyết dâu tây... mỗi loại đều có hương vị và màu sắc độc đáo của riêng mình.
 
-Thành công của kem tuyết cũng thúc đẩy sự nâng cấp toàn ngành. Những quán kem từ kiểu lề đường truyền thống, dần dần phát triển thành những tiệm tráng miệng sang trọng. Trang trí nội thất được chăm sóc kỹ hơn, dịch vụ chuyên nghiệp hơn, sản phẩm đa dạng hơn, kem từ một thực phẩm nhẹ giải nhiệt đã được nâng lên thành một tráng miệng thời thượng.
+Thành công của kem tuyết cũng thúc đẩy sự nâng cấp của toàn bộ ngành công nghiệp. Các tiệm kem dần chuyển từ hình thức quầy hàng ven đường truyền thống sang các cửa hàng tráng miệng tinh tế. Trang trí được chú trọng hơn, dịch vụ chuyên nghiệp hơn, và sản phẩm đa dạng hơn; món kem đã được nâng tầm từ món ăn giải khát thành món tráng miệng thời thượng.
 
-Kỹ thuật sáng tạo Đài Loan này thực sự đã lan tỏa ra nước ngoài, những chiếc máy làm kem tuyết và kỹ thuật được đưa vào Nhật Bản, Đông Nam Á và những vùng khác. [^2] Cần phải giải thích rằng những loại bingsu (빙수) và patbingsu (팥빙수) của chính địa phương Hàn Quốc có truyền thống lâu dài độc lập, có thể truy lùi lại thời Triều Tiên; sự nổi lên vào năm 2013 của thương hiệu Hàn Quốc „Seolbing" (설빙) là phát triển trong nước, không phải xuất phát từ Đài Loan.
+Công nghệ sáng tạo của Đài Loan này thực sự đã lan truyền ra nước ngoài; máy làm kem tuyết và công nghệ đã được du nhập vào Nhật Bản, Đông Nam Á và các khu vực khác. [^2] Cần lưu ý rằng _bingsu_ (빙수) và _patbingsu_ (팥빙수) bản địa của Hàn Quốc có truyền thống riêng lâu đời, có thể truy ngược về thời kỳ Triều Tiên; sự trỗi dậy của thương hiệu "Seolbing" (설빙) tại Hàn Quốc vào năm 2013 là sự phát triển nội địa chứ không phải do Đài Loan xuất khẩu.
 
-## Kỷ niệm bình dân của đá lạnh truyền thống
+## Ký ức dân dã về đá bào truyền thống
 
-Mặc dù kem tuyết đang chiếm đoạt sự chú ý, nhưng đá lạnh truyền thống vẫn nắm giữ một vị trí quan trọng trong lòng người Đài Loan. Kết cấu đá lạnh thô và sự lựa chọn topping đa dạng là những hình ảnh cố định từ mùa hè tuổi thơ của nhiều người.
+Mặc dù kem tuyết đang thịnh hành, nhưng đá bào truyền thống vẫn giữ một vị trí quan trọng trong lòng người dân Đài Loan. Kết cấu viên đá thô mộc và sự lựa chọn nguyên liệu đa dạng là hình ảnh cố định của mùa hè tuổi thơ đối với nhiều người.
 
-Những quán đá lạnh truyền thống thường cung cấp hơn một chục lựa chọn topping: đỗ đỏ, đỗ xanh, kỵ nhân, cỏ lạnh, ái ngọc (愛玉), viên nho, viên khoai tây, v.v. Những khách hàng có thể tự do kết hợp, tạo ra hương vị độc đáo của riêng mình. Khái niệm „tuỳ chỉnh" này xuất hiện hàng chục năm trước những dịch vụ cá nhân hoá hiện đại.
+Các quầy đá bào truyền thống thường cung cấp hơn mười loại nguyên liệu: đậu đỏ, đậu xanh, ý nhân (yìrén), rau sen, hoa nhài (àiyù), viên bột, bánh khoai môn (yùruan) và nhiều thứ khác. Khách hàng có thể tự do kết hợp để tạo ra hương vị độc đáo của riêng mình. Khái niệm "cá nhân hóa" này đã xuất hiện sớm hơn vài thập kỷ so với dịch vụ cá nhân hóa hiện đại.
 
-Những quán đá lạnh trên chợ đêm là một biểu tượng quan trọng của văn hóa Đài Loan. Vào những đêm nóng nực, một bát đá lạnh mát lạnh có thể xóa sạch sự mệt mỏi của cả ngày. Những động tác của chủ quán khi cạo đá, thêm topping, rưới siro có vẻ như một buổi biểu diễn tuyệt vời.
+Các quầy đá bào trong khu chợ đêm càng là một biểu tượng quan trọng của văn hóa Đài Loan. Trong những đêm hè nóng bức, một bát đá bào mát lạnh có thể xua tan mệt mỏi cả ngày ngay lập tức. Những động tác thành thạo của người bán hàng khi nghiền đá, thêm nguyên liệu và rưới si-rô giống như một màn trình diễn tuyệt vời.
 
-Gần đây, một số cửa hàng đá lạnh lâu năm đã bắt đầu xu hướng retro, nhấn mạnh công nghệ thủ công truyền thống và tình cảm hoài cổ. Loại „đá lạnh retro" này không chỉ thu hút những khách hàng lâu gắn bó với quá khứ, mà còn cho phép những người trẻ tuổi trải nghiệm quyến rũ của kem truyền thống.
+Trong những năm gần đây, một số tiệm đá bào lâu đời đã bắt đầu xu hướng hoài cổ, nhấn mạnh vào sự thủ công truyền thống và cảm xúc hoài niệm. Loại "đá bào hoài cổ" này không chỉ thu hút những khách hàng cũ mang ký ức mà còn giúp giới trẻ trải nghiệm sức hấp dẫn của món kem truyền thống.
 
-## Hiện tượng văn hóa: Ăn kem vào mùa đông
+## Hiện tượng ăn kem mùa đông
 
-Thói quen ăn kem vào mùa đông của người Đài Loan thường khiến những người nước ngoài cảm thấy không hiểu. Ngay cả khi nhiệt độ chỉ có 10-20 độ, những quán kem vẫn làm ăn miệt mài. Hiện tượng này phía sau có những nhân tố văn hóa và tâm lý.
+Thói quen người dân Đài Loan ăn kem vào mùa đông thường khiến người nước ngoài khó hiểu. Ngay cả khi nhiệt độ chỉ khoảng hơn 10 độ C, các tiệm kem vẫn kinh doanh nhộn nhịp. Đằng sau hiện tượng này có những yếu tố văn hóa và tâm lý.
 
-Thứ nhất là sự phổ cập của hệ thống sưởi ấm trong nhà. Những trung tâm thương mại, nhà hàng, văn phòng ở Đài Loan thường có hệ thống sưởi ấm, nhiệt độ trong nhà rất thoải mái. Thưởng thức kem trong không gian ấm áp trong nhà, sẽ không cảm thấy lạnh.
+Trước hết là sự phổ biến của "hệ thống sưởi trong nhà". Các trung tâm thương mại, nhà hàng và văn phòng ở Đài Loan thường được trang bị máy sưởi, nhiệt độ bên trong rất dễ chịu. Việc thưởng thức kem trong không gian ấm áp sẽ không khiến người ta cảm thấy lạnh.
 
-Thứ hai là nhu cầu điều tiết cảm xúc. Hương vị ngọt thanh của kem có thể mang lại cảm giác vui vẻ, đặc biệt là trong cuộc sống hiện đại có áp lực. Bất kể mùa nào, mọi người đều cần những khoảnh khắc vui nhỏ bé như vậy.
+Thứ hai là nhu cầu "điều chỉnh cảm xúc". Vị ngọt thanh của món kem mang lại cảm giác vui vẻ, đặc biệt trong cuộc sống hiện đại đầy áp lực. Bất kể mùa nào, con người đều cần niềm vui nhỏ bé này.
 
-Nhu cầu xã hội cũng là một phần cốt lõi. Ăn kem cùng bạn bè đã trở thành một hoạt động xã hội của người Đài Loan. Bất kể thời tiết thế nào, mô hình kết nối xã hội này vẫn tiếp tục diễn ra.
+"Nhu cầu giao tiếp xã hội" cũng là một yếu tố cốt lõi. Ăn kem cùng bạn bè đã trở thành một hoạt động xã hội của người dân Đài Loan. Dù thời tiết thế nào, mô hình giao tiếp xã hội này vẫn được duy trì.
 
-Ngoài ra, khí hậu mùa đông ở Đài Loan tương đối ôn hoà, không lạnh giá như ở phương Bắc. Trong điều kiện khí hậu này, ăn kem vào mùa đông không phải là hành động quá cực đoan.
+Ngoài ra, khí hậu mùa đông ở Đài Loan tương đối ôn hòa, không lạnh giá như miền Bắc. Trong điều kiện khí hậu này, việc ăn kem vào mùa đông không phải là hành động quá cực đoan.
 
-## Những quán kem nổi tiếng: Từ cửa hàng cũ đến thương hiệu mới
+## Các tiệm kem tiêu biểu: Từ cửa hàng cũ đến thương hiệu mới
 
-Mỗi thế hệ ở Đài Loan đều có những quán kem mang tính biểu tượng. Minh Kỳ Bao Trái Phòng ở Đài Nam và những quán đá lạnh cũ xung quanh thị trường là thường ngày của người bản địa, nhiều nơi đã truyền qua ba thế hệ; Hạnh Phát Đình Mật Đậu Đá Bản Bộ ở Đài Trung nổi tiếng với kem đậu mật, vào mùa đông vẫn xếp hàng dài. Quanh Đuôi Gia (Never Ice Cream) ở Đài Bắc lại đại diện cho con đường kem kem thủ công thế hệ mới, với những hương vị được giới hạn với nguyên liệu địa phương và hoạt động thương hiệu có chủ ý kín đáo, đã thu được sự chú ý của phương tiện truyền thông quốc tế kể từ những năm 2010. [^3]
+Mỗi thế hệ ở Đài Loan đều có những tiệm kem mang tính biểu tượng. **Minh Ký Băng Quả Thất** (Ming Ji Bing Guo Shi) ở Đài Nam và các quầy đá bào lâu đời xung quanh chợ địa phương là nét sinh hoạt thường ngày của người dân bản xứ, nhiều nơi đã được truyền lại qua ba thế hệ; **Hạnh Phát Đình Mật Đậu Băng Bản Phố** (Xingfa Ting Mi Dou Bing Ben Pu) ở Đài Trung nổi tiếng với kem đậu mật, và vẫn phải xếp hàng dài vào mùa đông. Còn **Quên Vĩ Gia (Never Ice Cream)** ở Đài Bắc đại diện cho xu hướng kem cao cấp thế hệ mới, thu hút sự chú ý của truyền thông quốc tế sau những năm 2010 nhờ các hương vị sử dụng nguyên liệu địa phương giới hạn và cách vận hành thương hiệu khiêm tốn.
 
-Hoa Liên Chấn Vũ Khoai Đá Thành ở vùng phía Đông là địa điểm bắt buộc phải thăm của mỗi du khách, nổi tiếng với những thanh kem khoai tây thật và loạt sản phẩm tương khoai tây; Lập Kiều Đá ở Đài Nam (cửa hàng cũ ở Quận Đông) là „địa điểm thánh địa" trong lòng những người yêu thích kem của miền nam, kem đỗ xanh và kem trà bột mì là kho báu của cửa hàng. Đặc điểm chung của những cửa hàng cũ này là: không có chi nhánh, không có ngân sách tiếp thị, đứng vững bằng danh tiếng truyền qua nhiều thế hệ.
+**Trấn Vũ Băng Thành Hoa Lân** (Hualien Zhenyu Yu Bing Cheng) ở phía Đông là một điểm tham quan không thể bỏ qua đối với mọi du khách, nổi tiếng với kem que khoai môn thật và các dòng sản phẩm từ khoai môn; **Lập Kiều Băng** (Liqiao Bing) (cửa hàng cũ ở khu Đông) được coi là "điểm hành hương" trong lòng những người yêu thích đồ ngọt phía Nam, với đá bào đậu xanh và trà bánh là bảo vật của tiệm. Đặc điểm chung của các cửa hàng lâu đời này là: không có chuỗi cửa hàng, không có ngân sách tiếp thị, mà đứng vững nhờ danh tiếng qua nhiều thế hệ. [^3]
 
-## Sự phát triển đa dạng của những loại kem đặc sản địa phương
+## Sự phát triển đa dạng của các món kem đặc sản địa phương
 
-Mỗi nơi ở Đài Loan đều phát triển ra văn hóa kem độc đáo. Kem vị tỏi ở Nghi Lan, kem phong nhân ở Đài Trung, kem bánh pháp ở Đài Nam, kem khoai tây Hoa Liên ở Hoa Liên, mỗi địa phương đều có những sáng tạo đặc sản riêng.
+Các vùng khác nhau của Đài Loan đều đã phát triển văn hóa kem độc đáo. Kem sữa chua vị tỏi ở Nghi Lan, kem Phong Nhân ở Đài Trung, kem bánh quy (pēngbǐng) ở Đài Nam, và kem khoai tây Hoa Lân ở Hoa Lân... mỗi nơi đều có sáng tạo đặc trưng của riêng mình.
 
-Những loại kem đặc sản địa phương này thường kết hợp nguyên liệu địa phương với yếu tố văn hóa. Ví dụ như kem cao lương ở Kim Môn, hòa lẫn văn hóa rượu cao lương địa phương vào kem. Thanh kem rượu cũ ở Mã Tổ cũng là khái niệm tương tự.
+Các món kem đặc sản địa phương này thường kết hợp nguyên liệu và yếu tố văn hóa bản địa. Ví dụ, kem rượu gạo Kim Môn đã tích hợp văn hóa rượu gạo địa phương vào món kem. Kem que rượu cũ ở Mã Tổ cũng là một khái niệm tương tự.
 
-Văn hóa kem của những bộ lạc bản địa Đài Loan cũng rất có đặc sắc. Những loại kem được làm từ những nguyên liệu truyền thống của bản địa như cốm, cây rau đỏ, rau sâu, không chỉ có hương vị độc đáo, mà còn truyền lại nền văn hóa ăn uống của các bộ lạc bản địa.
+Văn hóa kem của các bộ lạc thổ dân cũng rất đặc sắc. Các món kem được làm từ các nguyên liệu truyền thống của người bản địa như kiều mạch, quinoa đỏ, rau dại... không chỉ có hương vị độc đáo mà còn kế thừa văn hóa ẩm thực của người bản địa.
 
-Sự phát triển độc lập này khiến bản đồ kem Đài Loan thể hiện rõ màu sắc địa phương, cũng tăng thêm tính hấp dẫn du lịch.
+Sự phát triển tự chủ này đã khiến bản đồ kem Đài Loan thể hiện rõ nét tính đặc trưng vùng miền, đồng thời tăng thêm sức hấp dẫn du lịch.
 
-## Ý thức sức khỏe và những xu hướng đổi mới
+## Nhận thức về sức khỏe và xu hướng đổi mới
 
-Khi ý thức sức khỏe nâng cao, kem Đài Loan cũng phát triển theo hướng lành mạnh hơn. Kem ít đường, kem không đường, kem sử dụng chất làm ngọt tự nhiên bắt đầu được chú ý.
+Khi nhận thức về sức khỏe được nâng cao, các món kem Đài Loan cũng đang hướng tới sự lành mạnh hơn. Các loại kem ít đường, không đường, sử dụng chất tạo ngọt tự nhiên bắt đầu thu hút sự chú ý.
 
-Loại kem trái cây được đón nhận đặc biệt. Hương vị ngọt tự nhiên và dinh dưỡng phong phú của trái cây tươi phù hợp với nhu cầu sức khỏe của con người hiện đại. Kem dâu mẫu tơ, kem kiwi, kem bơ, đều trở thành những lựa chọn phổ biến.
+Các món kem trái cây đặc biệt được yêu thích. Vị ngọt tự nhiên và dinh dưỡng phong phú của trái cây tươi đáp ứng nhu cầu sức khỏe của người hiện đại. Kem thanh long, kem kiwi, kem bơ... đều trở thành lựa chọn phổ biến.
 
-Sử dụng nguyên liệu hữu cơ cũng là một xu hướng. Sữa hữu cơ, trái cây hữu cơ, chất nhuộm tự nhiên, khiến kem vừa ngon miệng vừa an tâm hơn.
+Việc sử dụng nguyên liệu hữu cơ cũng là một xu hướng. Sữa hữu cơ, trái cây hữu cơ, màu thực phẩm tự nhiên... giúp món kem vừa ngon miệng lại an toàn hơn.
 
-Khái niệm kem có chức năng cũng bắt đầu xuất hiện. Những loại kem được thêm vào các thành phần dinh dưỡng như collagen, vitamin, men vi sinh, kết hợp sự thưởng thức và sức khỏe lại với nhau.
+Khái niệm về các món kem chức năng cũng bắt đầu xuất hiện. Các loại kem bổ sung collagen, vitamin, lợi khuẩn... kết hợp sự tận hưởng và sức khỏe.
 
-## Quốc tế hóa và đưa thương hiệu ra nước ngoài
+## Quốc tế hóa và xuất khẩu thương hiệu
 
-Quá trình mở rộng quốc tế của các thương hiệu kem Đài Loan đang nhanh chóng diễn ra. Ngoài ICE MONSTER, còn có nhiều thương hiệu khác bắt đầu tiến vào thị trường nước ngoài. Những thương hiệu này không chỉ xuất khẩu sản phẩm mà còn xuất khẩu văn hóa kem của Đài Loan.
+Bước tiến quốc tế hóa của các thương hiệu kem Đài Loan đang tăng tốc. Ngoài ICE MONSTER, còn có nhiều thương hiệu bắt đầu xâm nhập thị trường nước ngoài. Những thương hiệu này không chỉ xuất khẩu sản phẩm mà còn xuất khẩu văn hóa ẩm thực của Đài Loan.
 
-Những quán kem Đài Loan ở nước ngoài thường trở thành nơi tập trung của người gốc Hoa địa phương, cũng là cửa sổ để người nước ngoài trải nghiệm văn hóa Đài Loan. Thông qua ngoại giao ẩm thực, kem Đài Loan đang gieo những hạt văn hóa trên toàn thế giới.
+Các tiệm kem Đài Loan ở nước ngoài thường trở thành nơi tụ tập của người Hoa tại địa phương và là cửa sổ để người nước ngoài trải nghiệm văn hóa Đài Loan. Thông qua ngoại giao ẩm thực, các món kem Đài Loan đang gieo mầm văn hóa trên toàn thế giới.
 
-Xuất khẩu kỹ thuật cũng là một hướng phát triển quan trọng. Máy kem tuyết, kỹ thuật làm đá lạnh, công thức nguyên liệu, đều có cơ hội kinh doanh cấp phép ở nước ngoài. Đài Loan đang chuyển từ một quốc gia tiêu thụ kem sang một quốc gia xuất khẩu kỹ thuật kem và văn hóa kem.
+Xuất khẩu công nghệ cũng là một hướng phát triển quan trọng. Máy làm kem tuyết, kỹ thuật làm đá, công thức nguyên liệu... đều có cơ hội kinh doanh được cấp phép ra nước ngoài. Đài Loan đang chuyển mình từ quốc gia tiêu thụ kem thành quốc gia xuất khẩu công nghệ và văn hóa về kem.
 
-Lô-gic cơ bản của văn hóa kem Đài Loan là: mỗi thời đại đều có những người biến những nguyên liệu dễ kiếm nhất lúc đó thành ngôn ngữ kem — máy làm đá lạnh thời Nhật trị, xe cạo đá lạnh sau chiến tranh, máy kem tuyết những năm 1990, những nguồn sữa thủ công những năm 2010. Hình thức thay đổi, nhưng quyết tâm ăn kem đến cùng thì không.
+Logic nền tảng của văn hóa kem Đài Loan là: ở mỗi thời đại, đã có người biến những nguyên liệu dễ kiếm nhất vào ngôn ngữ món kem—máy làm đá thời Nhật trị, xe đá bào sau chiến tranh, máy kem tuyết thập niên 1990, và sữa cao cấp thập niên 2010. Hình thức thay đổi, nhưng sự cố chấp trong việc ăn kem thì không hề thay đổi.
+
+## Nguồn hình ảnh
+
+- Hero: Kem xoài ở Đài Bắc, chụp bởi SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Miền công cộng.
 
 ## Tài liệu tham khảo
 
+[^1]: [Trang web chính thức của thương hiệu ICE MONSTER](https://www.icemonster.com.tw/) — Lịch sử thương hiệu, bao gồm thông tin về việc thành lập Quán đá bào Yongkang 15 năm 1995 và việc đổi tên/chuyển địa điểm vào năm 2010.
+
+[^2]: [Trang chính thức "Ẩm thực Đài Loan" của Cục Du lịch Bộ Giao thông Vận tải](https://www.taiwan.net.tw/) — Giới thiệu các món kem tiêu biểu của Đài Loan, bao gồm mục kem xoài và kem tuyết.
+
+[^3]: [CNN Travel: Bài báo về kem xoài Đài Loan](https://edition.cnn.com/travel) — Báo cáo truyền thông quốc tế của CNN về kem xoài Đài Loan, trích dẫn ICE MONSTER và kem xoài Ngọc Tỉnh làm ví dụ tiêu biểu.
+
+[^4]: [Lonely Planet Taiwan: Hướng dẫn ẩm thực](https://www.lonelyplanet.com/taiwan) — Giới thiệu và giới thiệu các cửa hàng về văn hóa kem Đài Loan từ hướng dẫn du lịch quốc tế.
+
+[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Lịch sử thương hiệu ICE MONSTER, tiền thân "Quán đá bào Yongkang 15" và thông tin triển lãm quốc tế.
+
+[^6]: [かき氷 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Nguồn gốc văn hóa đá bào Nhật Bản và bối cảnh lịch sử khi nó được truyền vào Đài Loan trong thời kỳ Nhật trị, cùng với sự phát triển nguyên liệu của món đá bào truyền thống Đài Loan.
+
 ## Đọc thêm
 
-- [ICE MONSTER Trang web thương hiệu chính thức](https://www.icemonster.com.tw/) — Trang web thương hiệu chính thức của ICE MONSTER, đại diện thương hiệu kem xoài tuyết ở Đài Bắc
-- Hiệp hội Nông nghiệp Nghinh Lâm (玉井農會) — Giới thiệu vùng sản xuất xoài Ái Văn ở Đài Nam
-
-[^1]: [ICE MONSTER 品牌官網](https://www.icemonster.com.tw/) — Quá trình phát triển thương hiệu, bao gồm thành lập Yongkang 15 Ice Shop năm 1995, đổi tên và chuyển địa điểm năm 2010.
-
-[^2]: [交通部觀光署「台灣美食」官方頁面](https://www.taiwan.net.tw/) — Giới thiệu những loại kem đặc trưng của Đài Loan, bao gồm mục kem xoài và kem tuyết.
-
-[^3]: [CNN Travel：台灣芒果冰報導](https://edition.cnn.com/travel) — Báo cáo của CNN về kem xoài Đài Loan trên phương tiện truyền thông quốc tế, trích dẫn ICE MONSTER và kem xoài Nghinh Lâm làm ví dụ đại diện.
-
-[^4]: [Lonely Planet Taiwan：Food Guide](https://www.lonelyplanet.com/taiwan) — Hướng dẫn du lịch quốc tế về giới thiệu văn hóa kem Đài Loan và cửa hàng được đề xuất.
-
-[^5]: [維基百科：ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Lịch sử thương hiệu ICE MONSTER, tiền thân „Yongkang 15 Ice Shop" và thông tin mở cửa hàng quốc tế.
-
-[^6]: [かき氷 — 維基百科](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Nguồn gốc nền văn hóa đá cạo Nhật Bản và bối cảnh lịch sử truyền vào Đài Loan thời kỳ Nhật trị, cũng như sự tiến hóa của các nguyên liệu trong đá lạnh truyền thống Đài Loan.
+- [ICE MONSTER](https://www.icemonster.com.tw/) — Trang web chính thức của thương hiệu kem tuyết xoài ở Đài Bắc
+- [Hợp tác xã nông nghiệp Ngọc Tỉnh](/food/玉井芒果) — Giới thiệu khu vực sản xuất xoài Ai Wen, Đài Nam

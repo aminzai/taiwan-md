@@ -1,21 +1,21 @@
 ---
-title: 'Văn hóa ẩm thực của các dân tộc bản địa Đài Loan'
-description: 'Từ ngọn lửa AKAME tới vũ trụ rau dại của người Amis — cách ẩm thực bản địa Đài Loan reignite ánh nhìn của thế giới ba nghìn năm sau'
+title: 'Văn hóa Ẩm thực của Người Bản địa Đài Loan'
+description: 'Từ ngọn lửa Akame đến vũ trụ rau dại của người Amis—làm thế nào ẩm thực bản địa Đài Loan thắp lại ánh nhìn của thế giới sau ba thiên niên kỷ.'
 date: 2026-03-29
 category: 'Food'
 tags:
   [
-    'dân tộc bản địa',
+    'người bản địa',
     'văn hóa ẩm thực',
-    'ngô nhỏ',
+    'kê',
     'rau dại',
-    'Paiwan',
+    'Paowan (Paiwan)',
     'Amis',
-    'Tao',
-    'bếp truyền thống',
-    'sự phục hưng ẩm thực',
+    'Atayal (Tayag)',
+    'bếp bộ lạc',
+    'phục hưng ẩm thực',
   ]
-subcategory: 'ẩm thực dân tộc'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
@@ -23,124 +23,122 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 image: '/article-images/food/amis-music-festival-dancers-2016.webp'
-imageAlt: 'Lễ hội văn hóa dân tộc bản địa Đài Loan'
+imageAlt: 'Vũ công người bản địa tại lễ hội nhạc Amis năm 2016'
 imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:d67f3581051e39e8'
-sourceBodyHash: 'sha256:50386f161e8d186f'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:c2e6d8f7560888c4'
+sourceBodyHash: 'sha256:11add6012534def8'
+translatedAt: '2026-09-23T02:56:16+08:00'
 ---
 
-# Văn hóa ẩm thực của các dân tộc bản địa Đài Loan
+# Văn hóa Ẩm thực của Người Bản địa Đài Loan
 
-Năm 2023, một nhà hàng nhỏ với chỉ hơn hai mươi chỗ ngồi ở huyện Ba Địa Môn, tỉnh Bình Đông, được vinh danh trong danh sách "50 nhà hàng tốt nhất châu Á", xếp hạng thứ 39. Nhà hàng có tên **AKAME**, có nghĩa là "lửa" trong tiếng Paiwan. Đầu bếp Bành Thiên Ân là người Paiwan, thực đơn không có gan ngỗng cũng không có nấm truffle, chỉ có những loại cây từ núi — cây xoan chua, tiêu núi, lá giả chua, cùng với cháo mạch (cinavu) mà bà ngoại của ông học được từ bà ngoại của bà. Truyền thông viết "lần đầu tiên ẩm thực bản địa Đài Loan lên sân khấu quốc tế" — nhưng thực chất là tầm nhìn của truyền thông quốc tế mới nhìn thấy nó. Ẩm thực của các dân tộc bản địa Đài Loan đã tích tụ ba nghìn năm trên núi rừng và bờ biển của hòn đảo.
+Năm 2023, một nhà hàng nhỏ chỉ có hai mươi mấy chỗ ngồi ở Tam Địa Môn, huyện Bình Đông, đã lọt vào danh sách "50 Nhà hàng Tốt nhất Châu Á", xếp hạng thứ 39. Nhà hàng mang tên **AKAME**, có nghĩa là "ngọn lửa" trong tiếng Paowan. Đầu bếp chính Bành Thiên Ân (Peng Tianen) là người Paowan; thực đơn không có gan ngỗng hay nấm truffle, mà chỉ có cây tràm gai (tsiaah), tiêu núi, lá cà chua giả và món cinavu do bà của ông học từ bà mình. Truyền thông viết rằng "Ẩm thực bản địa Đài Loan lần đầu tiên lên sân khấu quốc tế"—nhưng thực chất là ánh nhìn của giới truyền thông quốc tế đã đổ dồn vào đây. Ẩm thực của người bản địa Đài Loan đã được tích lũy tại vùng núi và bờ biển của đảo này suốt ba thiên niên kỷ.
 
-## Tóm tắt 30 giây
+## Tổng quan trong 30 giây
 
-Đài Loan có 16 dân tộc bản địa được công nhận chính thức, mỗi dân tộc đều có một ngôn ngữ ẩm thực độc lập riêng: cháo mạch (cinavu) của người Paiwan, kiến thức về rau dại của người Amis, văn hóa cá bay của người Tao, lễ tế ngô nhỏ của người Bunun. Những ẩm thực này không chỉ là thức ăn, mà là hiệp ước với đất đai, đối thoại với tổ tiên, và hệ thống tri thức sâu sắc nhất của một dân tộc.
+16 dân tộc bản địa chính thức của Đài Loan, mỗi dân tộc đều có một ngôn ngữ ẩm thực độc đáo: cinavu (吉拿富) của người Paowan, kiến thức về rau dại của người Amis, văn hóa cá ngừ vây (flying fish) của người Atayal, và lễ hội kê của người Bunun. Những món ăn này không chỉ là thức ăn, mà còn là lời giao ước với đất đai, cuộc đối thoại với tổ tiên, và triết lý nhận thức sâu sắc nhất của một cộng đồng dân tộc.
 
-Bước vào thế kỷ 21, sau sự tàn phá kép của chế độ thuộc địa và đồng hóa, một thế hệ đầu bếp trẻ cùng các bậc cao niên trong cộng đồng đang sử dụng ẩm thực như một phương tiện để xây dựng lại sợi dây văn hoá bị đứt. Đầu bếp Bành Thiên Ân (Paiwan) của AKAME và đầu bếp Dương Bạch Vĩ (Amis) của Sinasera 24 là những đại diện của phong trào phục hưng này, những người thúc đẩy chính để ẩm thực bản địa Đài Loan bước vào bản đồ ẩm thực quốc tế.
+Bước vào thế kỷ 21, sau sự đàn áp kép từ chính sách thuộc địa Nhật Bản và đồng hóa, một nhóm đầu bếp trẻ và các trưởng lão bộ lạc đang sử dụng ẩm thực làm phương tiện để tái thiết sợi dây rốn văn hóa từng bị cắt đứt. Đầu bếp chính Bành Thiên Ân (người Paowan) của nhà hàng AKAME và đầu bếp chính Dương Bách Vĩ (Yang Baiwei) của Sinasera 24 (người Amis) là những nhân vật đại diện cho phong trào phục hưng này, đồng thời là lực lượng then chốt đưa ẩm thực bản địa Đài Loan vào bản đồ ẩm thực quốc tế.
 
-Từ khóa: lễ ngô nhỏ, cháo mạch (cinavu), giọt nước mắt người yêu, tiêu núi (magau), AKAME, Sinasera 24
-
----
-
-## Đặt tên bằng lửa: AKAME và ngôn ngữ thức ăn bị mất
-
-Trước khi mở nhà hàng ở Ba Địa Môn, Bành Thiên Ân từng làm việc tại các nhà hàng Pháp ở Đài Bắc. Khi phỏng vấn truyền thông, ông nói: "Tôi học được rất nhiều kỹ thuật ở Đài Bắc, nhưng tôi luôn cảm thấy thiếu một cái gì đó. Sau này tôi mới phát hiện ra rằng, tôi thiếu chính tôi — ngôn ngữ của tôi, ngôn ngữ thức ăn."
-
-"Ngôn ngữ" ông nói tới cụ thể tồn tại trong một vài loại cây cối. Cây xoan chua (tiếng Paiwan: tsiaah) có mùi sắc nét như dao, là biểu tượng để người Paiwan xác định ranh giới thức ăn; lá giả chua bọc lấy cháo mạch (cinavu) với những lớp nếp gấp, để ngô nhỏ và thịt lợn chậm chạp hòa quyện trong quá trình hấp; tiêu núi (magau, tiêu Sichuan) là linh hồn thơm ngon của người Bunun và Atayal, mang theo ba lớp hương vị của gừng, sả chanh và hạt tiêu, bất kỳ ai ngửi thử một lần cũng không quên.
-
-Thực đơn AKAME thay đổi theo từng mùa, vì ngôn ngữ của núi cũng khác nhau theo từng mùa. Bành Thiên Ân nói công việc của ông là "dịch", dịch ký ức của các bậc cao niên trong cộng đồng thành thực đơn ngày nay, để cú pháp của rừng núi trở thành câu chuyện mà bất kỳ ai cũng hiểu được.
-
-Sinasera 24 ở Trường Bãi, Đài Đông đi theo lộ trình tương tự. Đầu bếp Dương Bạch Vĩ lấy rau dại bản địa người Amis làm lõi, mỗi ngày dẫn nhân viên vào rừng để thu hái, biến những loại cây tìm được hôm đó thành những món ăn hôm đó. "Sinasera" trong tiếng Amis có nghĩa là "nơi mặt trời mọc", Dương Bạch Vĩ nói: "Rất nhiều rau dại trong mắt người Hán là cỏ hoang, nhưng người Amis từ nhỏ đã biết đó là thức ăn, là thuốc, thậm chí là quà tặng. Kiến thức này không được viết thành sách, nó sống trong những bước chân của các bà cụ, sống trong những động tác bẻ xuống khi họ đi qua đám cỏ."
-
-> 📝 **Tên gọi AKAME**
-> Từ tiếng Paiwan akame có nghĩa là "lửa", cũng tiềm chứa ý nghĩa "điểm xuất phát". Lửa là một trong những ký ức ngôn ngữ tộc người sâu xưa nhất của người Paiwan: nó nấu chín thức ăn, cũng là kết nối giữa người và tổ tiên. Trong ngôi nhà truyền thống Paiwan, bếp lửa (adju) là trung tâm tinh thần, cũng là nơi chia sẻ thức ăn. Bành Thiên Ân đặt tên nhà hàng là "lửa" không phải lựa chọn của lãng mạn.
+Từ khóa: Lễ hội kê, cinavu (吉拿富), nước mắt người tình, magau (馬告), AKAME, Sinasera 24
 
 ---
 
-## Ngô nhỏ: không chỉ là thực phẩm chính, mà là một thế view vũ trụ
+## Sự gọi tên của Ngọn lửa: AKAME và Ngôn ngữ Thực phẩm Bị Lãng quên
 
-Trong ngữ cảnh của các dân tộc bản địa Đài Loan, vị trí của ngô nhỏ (hạt cám) gần như không có thực phẩm chính của người Hán nào có thể so sánh. Gạo là để ăn, ngô nhỏ là "sống".
+Trước khi mở nhà hàng ở Tam Địa Môn, Bành Thiên Ân từng làm việc tại một nhà hàng Pháp ở Đài Bắc. Khi được truyền thông phỏng vấn, ông nói: "Tôi đã học được nhiều kỹ thuật ở Đài Bắc, nhưng luôn cảm thấy thiếu điều gì đó. Sau này tôi mới nhận ra, thứ mình thiếu chính là ngôn ngữ của bản thân—ngôn ngữ của thực phẩm."
 
-Người Paiwan gọi ngô nhỏ là djulis, coi đó là một hạt giống có linh tính. Mỗi năm chu kỳ cuộc đời của ngô nhỏ, từ gieo trồng, cỏ, thu hoạch đến kho lưu trữ, đều có nghi lễ và lệnh cấm tương ứng. Sau khi thu hoạch, ngô nhỏ không thể chạm vào tùy tiện, cần phải có nghi lễ cụ thể trước khi mở ra sử dụng. Người Amis gọi ngô nhỏ là hafay. Người Bunun phát triển một hệ thống lễ tế phức tạp xoay quanh ngô nhỏ, trong đó "bài hát cầu mưa mưa cho ngô nhỏ" (pasibutbut) được UNESCO ghi nhận là một ví dụ tiêu biểu của âm nhạc đa thanh toàn cầu.
+"Ngôn ngữ" mà ông nhắc đến tồn tại cụ thể trong các loại thực vật. Mùi hương sắc bén như dao của cây tràm gai (tsiaah) là ký hiệu để người Paowan phân định ranh giới thức ăn; những nếp gấp xếp lớp của lá cà chua giả bao bọc cinavu khiến kê và thịt lợn từ từ hòa quyện trong quá trình hấp; tiêu núi (magau), một loại gia vị linh hồn của người Bunun và Tayag, mang ba mùi hương của gừng, sả chanh và tiêu, bất cứ ai ngửi lần nào cũng không thể quên.
 
-Các nhà ngôn ngữ học và khảo cổ học xác nhận rằng Đài Loan là quê hương của toàn bộ ngôn ngữ thổ Austronesian. Những thuyền nhân xuất phát từ Đài Loan, trong hàng ngàn năm, lan tỏa tới Madagascar, Hawaii, New Zealand, Philippines, phủ khắp Thái Bình Dương và Ấn Độ Dương. Văn hóa ẩm thực của những tộc người này có thể tìm thấy những nguyên mẫu cổ xưa nhất ở Đài Loan.
+Thực đơn của AKAME thay đổi theo mùa vì ngôn ngữ của núi thay đổi theo mùa. Bành Thiên Ân nói công việc của mình là "phiên dịch", chuyển hóa ký ức của các trưởng lão bộ lạc thành đĩa ăn ngày nay, biến ngữ pháp của vùng núi thành một câu chuyện mà bất kỳ ai cũng có thể hiểu được.
 
-Cuộc cạnh tranh của ngô nhỏ với gạo bắt đầu từ thế kỷ 17, khi người Hán di cư mang theo gạo. Gạo có sản lượng cao hơn, bảo quản dễ hơn, dần dần thay thế ngô nhỏ dưới sự thúc đẩy của chính sách chính phủ. Chế độ nông nghiệp tập thể thời kỳ Nhật trị (1895-1945) tăng tốc độ quá trình này. Chính sách phổ thông hoá vùng bằng sau chiến tranh lại thêm một cú đẩy. Đến những năm 1970, nhiều cộng đồng gần như bỏ trồng ngô nhỏ, ngày nay ngô nhỏ bản địa có thể mua được ở chợ, hầu hết là kết quả phục hưng trong hai mươi năm gần đây.
+Sinasera 24 ở Trường Tân (Changbin), Đài Đông, đã đi theo con đường tương tự. Đầu bếp chính Dương Bách Vĩ lấy các nguyên liệu rau dại của người Amis làm cốt lõi, mỗi ngày dẫn nhân viên vào rừng thu thập, chế biến những loại thực vật tìm được trong ngày thành thực đơn hôm đó. "Sinasera" có nghĩa là "nơi mặt trời mọc" trong tiếng Amis. Dương Bách Vĩ nói: "Nhiều loại rau dại trong mắt người Hán chỉ là cỏ dại, nhưng người Amis biết từ nhỏ rằng đó là thức ăn, là thuốc, thậm chí là lễ vật. Hệ thống kiến thức này không được viết thành sách, nó sống trong bước chân của các trưởng lão, sống trong động tác cúi mình khi họ băng qua đám cỏ."
 
----
-
-## Rau dại của người Amis: kiến thức sinh thái hơn hai trăm loài
-
-Dân tộc bản địa lớn nhất Đài Loan, người Amis (tổng dân số khoảng 236.939 người), có hiểu biết về, đặt tên và sử dụng rau dại hơn 200 loài, trong đó nhiều loài không có tên tương ứng trong văn hóa ẩm thực người Hán.
-
-Đây không phải "ăn bừa bãi", mà là một hệ thống kiến thức sinh thái tinh vi. Mỗi loại rau dại đều có mùa, vị trí thu hái, cách xử lý, cùng với những lệnh cấm truyền miệng nghiêm ngặt: tháng nào không thể hái, phần nào phải luộc trước để loại bỏ oxalat, sự kết hợp nào sẽ làm cho vị trở nên chát. Những kiến thức này không được viết trong sách, sống trong ký ức của các bậc cao niên.
-
-> **Danh sách một phần rau dại của người Amis**
-> Mưa đến anh (giọt nước mắt người yêu): trộn lạnh, chỉ xuất hiện sau mưa, kết cấu như jelly và sò điệp
-> Cây núi (Asplenium nidus, lonot): xào ăn, có cấp bậc khai thác, tim non và lá chín mỗi cái có tác dụng riêng
-> Cây Showa (cây máy bay): đắng nhẹ ngọt, rau dại hằng ngày quen thuộc nhất của phụ nữ cộng đồng
-> Dâu qua vòi (faro): kết cấu mịn, gọi là rau men núi
-> Rễ hoa gừng hoang dã: có hương thơm đặc biệt, thường dùng để điều vị
-
-"Giọt nước mắt người yêu" giải thích cách người bản địa nhìn nhận tính hiếm có của thức ăn. Loại tảo đen trong suốt này chỉ xuất hiện sau mưa, cửa sổ thu hái chỉ vài tiếng đồng hồ, sau khi phơi khô khối lượng giảm xuống hai mươi lần. Người Amis không thánh hóa nó, cũng không nói nó quý hiếm, chỉ đặt cho nó một cái tên khiến người ta nhớ tới những ngày mưa, rồi thưởng thức nó đúng cách.
+> 📝 **Sự gọi tên AKAME**
+> Từ akame trong tiếng Paowan có nghĩa là "lửa", cũng hàm ý sự "khởi điểm". Lửa là một trong những ký ức ngôn ngữ cổ xưa nhất của người Paowan: nó nấu chín thức ăn, và kết nối con người với tổ tiên. Trong nhà truyền thống của người Paowan, bếp lửa (adju) là trung tâm tinh thần, cũng là nơi chia sẻ thức ăn. Bành Thiên Ân đặt tên nhà hàng bằng "ngọn lửa" không phải là một lựa chọn lãng mạn.
 
 ---
 
-## Cháo mạch, thịt nướng trên đá, cá bay: ba điển hình
+## Kê: Không chỉ là lương thực, mà là một thế giới quan
 
-Kỹ thuật nấu nướng của các dân tộc bản địa Đài Loan không nhiều, nhưng mỗi một kỹ thuật đều chính xác. Chính xác có nghĩa là: nguyên liệu, dụng cụ, mùa vụ ba yếu tố của chúng tương ứng với nhau, là kết quả của hàng trăm năm thử sai, không phải tình cờ. Ba ví dụ này từ các địa hình và dân tộc khác nhau, nhưng có một điểm chung: hành động nấu nướng không chỉ là nấu cơm, mà là một màn trình diễn hoàn chỉnh của kiến thức.
+Trong bối cảnh của người bản địa Đài Loan, vị trí của kê (粟) gần như không có loại ngũ cốc nào của người Hán có thể so sánh được. Gạo là thứ để ăn, còn kê là thứ "sống".
 
-Cháo mạch (cinavu) là thức ăn lễ hội của người Paiwan, người Rukai khi cử hành đám cưới, lễ tế. Lá giả chua bọc lấy thịt lợn muối và ngô nhỏ, rồi bọc thêm một lớp lá nguyệt quế, hấp trong rổ tre. Khi mở ra, ba lớp hương thơm từ ba loài cây cuộn lên từng lớp. Làm cháo mạch cần sự phối hợp của cả gia tộc, kỹ thuật bọc lá phải học từ bậc cao niên, cách gấp lá thay đổi theo từng gia tộc. Các nhà nghiên cứu văn hóa ghi lại rằng, có khả năng bọc cháo mạch đồng nghĩa với đã học được di sản thực phẩm gia tộc, là một dấu hiệu văn hóa để xác định liệu một người đã sẵn sàng đảm nhận trách nhiệm thành niên.
+Người Paowan gọi kê là djulis, coi nó là hạt giống mang tính linh thiêng. Vòng đời của cây kê mỗi năm, từ gieo trồng, nhổ cỏ, thu hoạch đến cất kho, đều có các nghi lễ và điều kiêng kỵ tương ứng. Kê sau khi thu hoạch không được chạm vào tùy tiện, mà phải đợi qua một nghi thức nhất định mới được mở ra ăn. Người Amis gọi kê là hafay. Người Bunun phát triển lịch lễ phức tạp xoay quanh cây kê, trong đó "Bài ca cầu mùa màng kê" (pasibutbut) đã được UNESCO ghi nhận là ví dụ tiêu biểu của âm nhạc hợp xướng thế giới.
 
-Thịt nướng trên đá là sản phẩm trực tiếp của cuộc sống sơn địa của người Paiwan, người Rukai. Đá granit ở dãy núi Trung ương thích hợp với nhiệt, không nứt, là bản lẩu thiên nhiên. Thịt lợn rừng hay nai rừng sau khi săn bắt, nướng chậm trên đá, cây xoan chua, tiêu núi tăng hương vị, không cần gia vị khác. Mối quan hệ giữa thức ăn, địa chất, gia vị, là kết quả của hàng dế tương tác của người địa phương với dãy núi này.
+Các nhà ngôn ngữ học và khảo cổ học xác nhận rằng Đài Loan là nơi khởi nguồn của toàn bộ hệ ngôn ngữ Nam Đảo. Những người đi biển rời khỏi Đài Loan đã lan rộng trong hàng nghìn năm đến Madagascar, Hawaii, New Zealand, Philippines, trải khắp Thái Bình Dương và Ấn Độ Dương. Văn hóa ẩm thực của các dân tộc này tìm thấy nguyên mẫu cổ xưa nhất tại Đài Loan.
 
-Cá bay của người Tao là một triết lý biển hoàn chỉnh khác. Ở Lan Tự, mỗi năm từ tháng 3 tới tháng 6 là mùa cá bay, sau lễ gọi cá (Mavanuo) mới có thể ra khơi, không thể bắt nhiều hơn. Người Tao phát triển một bộ phương pháp hoàn chỉnh phơi khô, muối cá bay, và có quy định riêng về giới tính khi ăn cá bay có kích cỡ khác nhau: cá bay nam ăn, cá bay nữ ăn, cá bay cho người già, cá bay cho trẻ em, cá bay được phân bổ theo trật tự xã hội. Các nhà sinh thái học phân tích rằng bộ quy định này có logic quản lý tài nguyên chặt chẽ, duy trì cân bằng sinh thái trên hòn đảo nhỏ với tài nguyên hạn chế. Người Tao không nói "bền vững" để mô tả cách làm của họ, họ chỉ làm theo những gì tổ tiên dạy.
-
----
-
-## Hai lộ trình phục hưng: bếp truyền thống và nhà hàng tinh tế
-
-Từ năm 2014, Hội đồng Tư vấn Dân tộc bản địa thúc đẩy kế hoạch nâng cấp ngành công nghiệp cộng đồng, tới năm 2022 đã tích lũy đầu tư hơn 400 triệu đô la, dự kiến tạo ra giá trị sản xuất gần 2 tỷ đô la, liên quan tới gần 5.000 lượt việc làm. Đây là con số hành chính, phía sau là một sự kiện văn hóa khó lượng hóa hơn: một kiến thức ẩm thực bị đứt suốt hàng chục năm, đang cố gắng kết nối lại.
-
-Sự tái xây dựng này có hai lộ trình song song. Lộ trình thứ nhất xuất phát từ bếp của các bậc cao niên. Trường rau dại ở Quang Phục, Hoa Liên cho các phụ nữ Amis học tập định kỳ trên đất cộng đồng, dạy không phải trồng rau, mà là nhận biết. Từ sườn đồi nào hái loại dâu gai nào, mùa nào hái cây con non nào, kiến thức truyền tải giữa miệng bậc cao niên và sổ tay của thanh niên. Kế hoạch bếp cộng đồng ở Đài Đông cho các bậc cao niên một thể chế để ghi chép công thức, một lớp học để truyền dạy. Những không gian này đôi khi là các dự án chính thức, đôi khi chỉ là một bậc cao niên quyết định dạy nấu ăn truyền thống một cách định kỳ mỗi tuần.
-
-Lộ trình thứ hai bắt đầu từ nhà hàng tinh tế. Loại tinh tế hóa của AKAME (Bành Thiên Ân) và Sinasera 24 (Dương Bạch Vĩ) đã gây ra những tiếng nói khác nhau bên trong cộng đồng: có người cho rằng nó khiến thức ăn tách rời khỏi bối cảnh xã hội ban đầu, có người cho rằng đây là cách hiệu quả nhất để các thanh niên tộc người xây dựng lại sự tự hào về ẩm thực. Cuộc tranh luận này không có câu trả lời tiêu chuẩn, nhưng cả hai lộ trình đều đang làm một việc: lưu lại kiến thức về thức ăn sắp bị mất.
-
-> 📝 **Rau dại không phải dấu hiệu của nghèo đói**
-> Xã hội Đài Loan lâu nay liên kết ẩm thực rau dại với tình trạng thiếu thốn tài nguyên, cho rằng các dân tộc bản địa ăn rau dại vì không có lựa chọn tốt hơn. Nhận thức này đảo ngược nguyên nhân. Kiến thức về rau dại của người Amis là sự tích lũy chủ động hàng ngàn năm của trí tuệ sinh thái: mùa nào, độ cao nào, điều kiện đất nào khai thác có vị tốt nhất; phần nào có thể ăn được, phần nào có độc; làm thế nào kết hợp để bổ sung protein và khoáng chất. Đây là một hệ thống kiến thức phức tạp hơn chợ rau, chỉ là nó được lưu trữ trong cơ thể và ngôn ngữ, chứ không phải cơ sở dữ liệu.
+Sự cạnh tranh giữa kê và gạo bắt đầu ngay khi người di cư Hán mang gạo đến vào thế kỷ 17. Gạo có năng suất cao hơn, dễ bảo quản hơn, dần thay thế kê dưới sự thúc đẩy của chính sách chính thức. Chính sách canh tác tập thể trong thời kỳ Nhật Bản cai trị (1895-1945) đã đẩy nhanh quá trình này. Chính sách đô thị hóa sau chiến tranh lại tiếp tục thúc đẩy. Đến những năm 1970, nhiều bộ lạc gần như từ bỏ việc trồng kê, và loại kê bản địa có thể mua trên thị trường ngày nay phần lớn là kết quả của sự phục hồi trong hai mươi năm trở lại đây.
 
 ---
 
-## Kết luận: Vấn đề tốc độ
+## Rau dại người Amis: Kiến thức sinh thái với hơn 200 loại
 
-Bành Thiên Ân từng nói, điều khó nhất ở AKAME không phải kỹ thuật, mà là thuyết phục các bậc cao niên trong cộng đồng kể lại những gì họ nhớ. Những bậc cao niên đó không cảm thấy mình sở hữu kiến thức đáng ghi chép, đó chỉ là "cách chúng tôi ăn cơm".
+Người Amis (với tổng dân số khoảng 236.939 người), dân tộc bản địa lớn nhất Đài Loan, có khả năng nhận biết, đặt tên và sử dụng hơn 200 loại rau dại, trong đó nhiều loại không có tên tương ứng trong văn hóa ẩm thực của người Hán.
 
-Đây là tình cảnh thực của ẩm thực bản địa Đài Loan: những công thức tuyệt nhất không bao giờ được viết ra, nó sống trong cơ thể của con người, sống trong cảm nhận mùa vụ, sống trong sự quen thuộc với rừng núi này của hàng chục năm. Một ngày kia người đó qua đời, công thức đó cũng mất.
+Đây không phải là "ăn lung tung", mà là một hệ thống kiến thức sinh thái tinh vi. Mỗi loại rau dại đều có mùa vụ, vị trí thu thập, phương pháp chế biến, và những điều kiêng kỵ được truyền miệng nghiêm ngặt: tháng nào không thể hái, bộ phận nào cần nhúng nước trước để loại bỏ axit oxalic, và sự kết hợp nào sẽ làm món ăn bị chát. Những kiến thức này không được viết thành sách, mà sống trong ký ức của các trưởng lão.
 
-AKAME được vinh danh trong danh sách "50 nhà hàng tốt nhất châu Á" thứ 39 năm 2023, là một tín hiệu nói rằng những công thức đó xứng đáng được tìm lại. Truyền thông thích dùng "công nhân quốc tế" để khung hình sự kiện này, nhưng vấn đề cốt lõi không nằm ở quốc tế: mỗi bậc cao niên cộng đồng còn sống, kiến thức thức ăn mà mỗi bậc cao niên mang theo là bao nhiêu? Con số này mới là đếm ngược thực sự. Vấn đề còn lại, là tốc độ.
+> **Danh mục một số rau dại người Amis**
+> Nấm mưa (nước mắt người tình): trộn gỏi, chỉ xuất hiện sau mưa, kết cấu như giữa sương và nhím biển
+> Cây rơm núi (lonot): xào, có phân cấp thu thập, phần non và lá trưởng thành đều có công dụng
+> Cỏ Showa (cỏ máy bay): đắng mà ngọt, rau dại quen thuộc nhất của phụ nữ bộ lạc
+> Rau dương xỉ qua khe (faro): kết cấu mềm mượt, được gọi là cải núi
+> Rễ hoa dại: có mùi thơm đặc biệt, thường dùng để nêm nếm
 
-## Nguồn hình ảnh
-
-**Ảnh bìa**: Những vũ công từ các nhóm dân tộc bản địa tại Lễ hội Âm nhạc Amis năm 2016 — Wikimedia Commons, CC BY-SA
+"Nước mắt người tình" cho thấy cách người bản địa nhìn nhận sự khan hiếm của thực phẩm. Loại tảo màu đen trong suốt này chỉ xuất hiện sau mưa, cửa sổ thu hoạch chỉ vài giờ, và nó giảm thể tích gấp hai mươi lần khi sấy khô. Người Amis không thần thánh hóa nó, cũng không nói rằng nó quý giá, họ chỉ đặt cho nó một cái tên gợi nhớ đến ngày mưa, rồi thưởng thức nó một cách trọn vẹn.
 
 ---
+
+## Cinavu, Thịt nướng đá phiến và Cá ngừ vây: Ba ví dụ điển hình
+
+Kỹ thuật nấu ăn của người bản địa Đài Loan không nhiều, nhưng mỗi kỹ thuật đều chính xác. "Chính xác" ở đây có nghĩa là mối quan hệ tương ứng giữa nguyên liệu, công cụ và mùa vụ—là kết quả của hàng trăm năm thử nghiệm, chứ không phải ngẫu nhiên. Ba ví dụ này đến từ các địa hình và dân tộc khác nhau, nhưng chúng có một điểm chung: hành vi nấu nướng không chỉ là làm thức ăn, mà là một màn trình diễn hoàn chỉnh của tri thức.
+
+Cinavu (吉拿富) là món lễ hội do người Paowan và Ru Kai chế biến trong các dịp cưới hỏi, lễ nghi. Lá cà chua giả bao bọc thịt lợn ướp và kê, rồi được gói thêm một lớp lá hoa trà, sau đó hấp trong giỏ tre. Khoảnh khắc mở ra, mùi hương của ba loại thực vật lan tỏa như những con sóng. Việc làm cinavu đòi hỏi sự hợp tác của cả gia đình; kỹ thuật gói lá phải học từ người lớn tuổi, và cách gấp lá có sự khác biệt nhỏ tùy theo từng dòng họ. Các nhà nghiên cứu văn hóa ghi nhận rằng việc có thể gói cinavu đại diện cho việc đã học được sự kế thừa ẩm thực của gia tộc, là một chỉ số văn hóa để đánh giá xem liệu mình đã sẵn sàng gánh vác trách nhiệm trưởng thành hay chưa.
+
+Thịt nướng đá phiến là sản phẩm trực tiếp từ cuộc sống miền núi của người Paowan và Ru Kai. Đá phiến trong dãy núi trung tâm có độ nhiệt đồng đều, không bị vỡ, giống như một chiếc chảo tự nhiên. Thịt lợn rừng, hươu được săn bắt sẽ được nướng chậm trên đá phiến, với tràm gai và tiêu núi để tạo hương vị, không cần gia vị nào khác. Mối quan hệ giữa thức ăn, địa chất và gia vị là kết quả của cuộc đối thoại qua nhiều thế hệ của người dân địa phương với dãy núi này.
+
+Cá ngừ vây (flying fish) của người Atayal là một triết lý biển hoàn chỉnh khác. Từ tháng 3 đến tháng 6 hàng năm ở Lan Dữ là mùa cá ngừ vây, và việc đánh bắt chỉ được tiến hành sau lễ cúng cá (Mavanuo), không được bắt quá nhiều. Người Atayal đã phát triển một hệ thống bảo quản cá ngừ vây sấy khô và muối, và có quy định về giới tính khi ăn các kích cỡ khác nhau của cá: người đàn ông ăn, phụ nữ ăn, người già ăn, trẻ con ăn—cá ngừ được phân bổ theo trật tự xã hội. Các nhà sinh thái học phân tích rằng hệ thống này có logic quản lý tài nguyên chặt chẽ, duy trì sự cân bằng sinh thái trên một hòn đảo nhỏ với nguồn lực hữu hạn. Người Atayal không dùng từ "bền vững" để mô tả cách làm của mình; họ chỉ làm theo lời tổ tiên dạy.
+
+---
+
+## Hai con đường phục hưng: Bếp bộ lạc và Nhà hàng tinh tế
+
+Từ năm 2014, Ủy ban Dân tộc Bản địa đã thúc đẩy kế hoạch nâng cấp ngành công nghiệp bộ lạc, đến năm 2022 đã đầu tư hơn 400 triệu Đài tệ, ước tính tạo ra gần 2 tỷ Đài tệ giá trị sản xuất và liên quan đến gần 5.000 người lao động. Đây là những con số hành chính, nhưng đằng sau đó là những sự kiện văn hóa khó định lượng hơn: một ký ức ẩm thực đã bị gián đoạn hàng thập kỷ đang cố gắng kết nối lại.
+
+Sự tái thiết này có hai tuyến song song. Tuyến thứ nhất bắt đầu từ bếp của các trưởng lão. Trường rau dại ở Quang Phục, Hoa Liên, cho phép phụ nữ người Amis học định kỳ tại khu đất trống của bộ lạc; họ dạy không phải cách trồng trọt, mà là cách nhận biết. Từ sườn đồi nào hái loại dương xỉ nào, vào mùa nào hái mầm non nào, kiến thức được chuyển giao giữa miệng các trưởng lão và sổ ghi chép của người trẻ. Kế hoạch bếp bộ lạc ở Đài Đông cho phép các công thức nấu ăn của các bậc cao niên được cơ quan ghi lại, có lớp học để truyền dạy. Những không gian này đôi khi là các kế hoạch chính thức, đôi khi chỉ là một trưởng lão quyết định dạy món ăn truyền thống cố định mỗi tuần.
+
+Tuyến thứ hai bắt đầu từ các nhà hàng tinh tế. Con đường tinh tế do AKAME (Bành Thiên Ân) và Sinasera 24 (Dương Bách Vĩ) đại diện đã gây ra nhiều ý kiến khác nhau trong nội bộ bộ lạc: một số người cho rằng nó khiến thức ăn tách rời khỏi bối cảnh cộng đồng ban đầu, trong khi những người khác lại cho rằng đó là cách hiệu quả nhất để giới trẻ lấy ẩm thực làm niềm tự hào. Cuộc tranh luận này không có câu trả lời chuẩn mực, nhưng cả hai tuyến đều đang làm cùng một việc: giữ lại tri thức thực phẩm đang trên bờ vực biến mất.
+
+> 📝 **Rau dại không phải dấu ấn của sự nghèo đói**
+> Xã hội Đài Loan trong thời gian dài đã liên kết ẩm thực rau dại với tình trạng thiếu thốn vật chất, cho rằng người bản địa ăn rau dại vì không có lựa chọn nào tốt hơn. Nhận thức này đã đảo ngược nhân quả. Kiến thức về rau dại của người Amis là trí tuệ sinh thái tích lũy chủ động qua hàng ngàn năm: mùa nào, độ cao nào, điều kiện đất đai nào để thu hoạch ngon nhất; bộ phận nào ăn được, bộ phận nào có độc; kết hợp như thế nào để bổ sung protein và khoáng chất. Đây là một hệ thống tri thức phức tạp hơn cả chợ búa, chỉ là nó được lưu trữ trong cơ thể và ngôn ngữ, chứ không phải trong cơ sở dữ liệu.
+
+---
+
+## Kết luận: Vấn đề về tốc độ
+
+Bành Thiên Ân từng nói rằng điều khó nhất của AKAME không phải là kỹ thuật, mà là thuyết phục các trưởng lão bộ lạc nói ra những thứ trong đầu họ. Những người già đó không cảm thấy mình có kiến thức đáng để ghi lại, đối với họ, đó chỉ là "cách chúng tôi ăn".
+
+Đây là thực trạng chân thực nhất của ẩm thực người bản địa Đài Loan: công thức nấu ăn tuyệt vời nhất chưa bao giờ được viết ra; nó sống trong cơ thể con người, sống trong cảm nhận của mùa màng, và sống trong sự quen thuộc với vùng núi này qua hàng chục năm. Một ngày nào đó người đó qua đời, công thức cũng biến mất.
+
+Việc AKAME được chọn vào top 39 của "50 Nhà hàng Tốt nhất Châu Á" vào năm 2023 là một tín hiệu cho thấy những công thức đó đáng được tìm lại. Truyền thông thích dùng "sự công nhận quốc tế" để đóng khung sự việc, nhưng vấn đề cốt lõi không nằm ở quốc tế: mỗi trưởng lão bộ lạc còn sống bao nhiêu người, và lượng kiến thức thực phẩm mà mỗi trưởng lão mang theo là bao nhiêu? Con số này mới là đồng hồ đếm ngược thực sự. Vấn đề còn lại, chính là tốc độ.
+
+## Nguồn ảnh
+
+- Hero: Vũ công người bản địa tại lễ hội nhạc Amis năm 2016, chụp bởi HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0.
 
 ## Tài liệu tham khảo
 
-1. [Danh sách chính thức 50 nhà hàng tốt nhất châu Á](https://www.theworlds50best.com/asia/en/)
-2. [Tạp chí Nông nghiệp (2021) Bí kíp cơm cháo thịt của bà Paiwan](https://www.agriharvest.tw/archives/60175)
-3. [Hội đồng Tư vấn Dân tộc bản địa: Giới thiệu 16 dân tộc](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
-4. [Kế hoạch lưu trữ kỹ thuật số bảo vệ kiến thức truyền thống dân tộc bản địa (Bảo tàng Khoa học Tự nhiên)](https://ethnobotany.biodiv.tw/)
-5. [Luật phát triển ngôn ngữ dân tộc bản địa Đài Loan (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
-6. [Taiwan Review: Sự phục hưng ẩm thực bản địa](https://taiwanreview.nat.gov.tw/)
-7. [UNESCO ghi nhận âm nhạc đa thanh pasibutbut của người Bunun](https://ich.unesco.org/)
+1. [Danh sách chính thức 50 Nhà hàng Tốt nhất Châu Á](https://www.theworlds50best.com/asia/en/)
+2. [Truyền thông Nông nghiệp (2021) "Ký ức gia tộc được truyền lại: Món ăn bí truyền Paowan vuvu kê"](https://www.agriharvest.tw/archives/60175)
+3. [Ủy ban Dân tộc Bản địa Hành chính viện: Giới thiệu các dân tộc 16 bộ lạc](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
+4. [Dự án Bảo tồn Tri thức Truyền thống Người Bản địa (Bảo tàng Khoa học Tự nhiên)](https://ethnobotany.biodiv.tw/)
+5. [Luật Phát triển Ngôn ngữ Người Bản địa Đài Loan (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
+6. [Taiwan Review: Indigenous Cuisine Revival](https://taiwanreview.nat.gov.tw/)
+7. [Ghi nhận âm nhạc hợp xướng Pasibutbut của người Bunun bởi UNESCO](https://ich.unesco.org/)
 
 ---
 
-_Đọc thêm: [[台灣原住民族歷史與正名運動]] · [[台灣原住民族土地正義與傳統領域]] · [[台灣原住民族16族文化地圖]] · [[台灣原住民語言復振運動]] · [[台灣原住民生態智慧與環境保育]] · [[台灣原住民當代藝術]]_
+_Đọc thêm: [Lịch sử và phong trào đặt tên cho người bản địa Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement/) · [Công lý đất đai và lãnh thổ truyền thống của người bản địa Đài Loan](/vi/society/indigenous-land-justice-and-traditional-territories/) · [Bản đồ văn hóa 16 dân tộc bản địa Đài Loan](/vi/culture/indigenous-peoples-16-tribes-cultural-map/) · [Phong trào phục hồi ngôn ngữ người bản địa Đài Loan](/vi/culture/indigenous-language-revitalization-movement/) · [Trí tuệ sinh thái và bảo tồn môi trường của người bản địa Đài Loan](/vi/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Nghệ thuật đương đại người bản địa Đài Loan](/vi/art/contemporary-indigenous-art-taiwan/)_
