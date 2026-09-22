@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T23:54:54+08:00",
-    "zhCommitHead": "dc60b3497",
+    "lastUpdated": "2026-09-23T00:12:51+08:00",
+    "zhCommitHead": "757068357",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1053,
-        "stale": 38,
+        "fresh": 1054,
+        "stale": 37,
         "metadata_stale": 16,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 974,
+        "fresh": 975,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 83,
+        "missing": 82,
         "orphan": 0
       },
       "pt": {
@@ -1155,19 +1155,17 @@
         "vi": {
           "path": "vi/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
           "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "271b623c0",
-          "sourceContentHash": "sha256:72775f6e0e1d12ab",
-          "sourceBodyHash": "sha256:3c1ccee7444c5ae3",
-          "translatedAt": "2026-07-18T18:59:52+08:00",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:384848975d3b840a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T15:37:34.255765+00:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 46,
-          "bytes": 51111,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -20"
+          "bytes": 59479,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -60381,11 +60379,11 @@
           "sourceContentHash": "sha256:8ca8b403c13ab428",
           "sourceBodyHash": "sha256:547ee1d3b342a025",
           "translatedAt": "2026-09-22T17:40:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "75706835",
+          "translationLastModified": "2026-09-22T23:54:55+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 82120,
+          "bytes": 82122,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -184342,7 +184340,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/chiayi-county.md",
+          "translatedFrom": "Geography/嘉義縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:92677747f5c5aca7",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T15:37:41.542322+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 59283,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/chiayi-county.md",
