@@ -1,4 +1,5 @@
 import importlib.util
+import re
 from pathlib import Path
 
 
@@ -444,3 +445,69 @@ def test_armored_whole_engine_translates_image_alt_and_keeps_spore_links_block()
     assert fm["sporeLinks"] == [{"id": 13, "platform": "threads"}]
     no_alt = "===TITLE===\nT\n===DESC===\nD\n===TAGS===\na\n===BODY===\n" + body
     assert tr.armor_post(no_alt, ctx, {"frontmatter_placeholder": {}})[1].startswith("armor: zh has imageAlt")
+
+
+def test_body_chunk_urls_are_armored_and_restored():
+    """Phase B 的 URL 裝甲（2026-09-23）：模型收到的是 @@LINKn@@ 佔位符，原始
+    網址從頭到尾沒進 prompt——「inline link URL mismatch」是 run 98122 近 20 小時
+    失敗第一大宗（31 次），而 Phase N 走同一條裝甲從沒出過這類事。"""
+    seen_prompts = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            seen_prompts.append(user)
+            # 逐句譯掉中文、佔位符原樣抄回（模型該有的行為）
+            out = re.sub(r"[一-鿿，。]+", "translated prose ", user)
+            return out
+
+    zh_chunk = (
+        "## 段落\n\n這是[台灣的頁面](/society/%E5%8F%B0%E7%81%A3)與"
+        "[參考來源](https://example.org/a_(b))的說明文字，長度要夠過比值下限。" * 3
+    )
+    outs, reports = MODULE.translate_body_chunks([zh_chunk], "en", Backend(), {}, {})
+
+    assert "@@LINK0@@" in seen_prompts[0]
+    assert "/society/%E5%8F%B0%E7%81%A3" not in seen_prompts[0], "原始 URL 不該進 prompt"
+    assert "/society/%E5%8F%B0%E7%81%A3" in outs[0]
+    assert "https://example.org/a_(b)" in outs[0]
+    assert reports[0]["status"] == "OK"
+
+
+def test_localized_digits_inside_link_token_still_restore():
+    """ar/hi 的模型會把 @@LINK1@@ 的 ASCII 數字換成該語言數字（١ / १）。數字系統
+    換寫是可逆的機械對應，所以還原時正規化回 ASCII 再對；認不出來的形狀一律原樣
+    留著讓下游 URL multiset 閘門擋，不按位置硬猜（猜錯＝把讀者送到別人的頁面）。"""
+    items = [("@@LINK0@@", "https://a.example/x"), ("@@LINK1@@", "https://b.example/y")]
+
+    restored = MODULE._restore_protected_links(
+        "[نص](@@LINK٠@@) و [نص](@@LINK१@@)", items)
+
+    assert restored == "[نص](https://a.example/x) و [نص](https://b.example/y)"
+
+    # 形狀壞到認不出索引 → 原樣留著（由閘門擋），不猜
+    assert "@@LINKX@@" in MODULE._restore_protected_links("[t](@@LINKX@@)", items)
+
+
+def test_frontmatter_accepts_single_element_list_wrapper():
+    """模型把單一物件包成一元陣列回來（run 98122 全程 21 次 phase-F shape fail）。
+    Phase N 早就接受鏡像形狀（物件內恰好一個 list），Phase F 補上同一條。"""
+    import json
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            payload = json.loads(user)
+            return json.dumps([{k: f"en:{v}" if isinstance(v, str)
+                                else [f"en:{t}" for t in v]
+                                for k, v in payload.items()}], ensure_ascii=False)
+
+    block = MODULE.translate_frontmatter(
+        {"title": "苗栗縣", "description": "客家", "tags": ["a", "b"]},
+        "", "Geography/苗栗縣.md", "en", Backend(), {})
+
+    assert "title: 'en:苗栗縣'" in block
+    assert MODULE._unwrap_singleton_payload([{"a": 1}]) == {"a": 1}
+    assert MODULE._unwrap_singleton_payload([{"a": 1}, {"b": 2}]) == [{"a": 1}, {"b": 2}]

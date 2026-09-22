@@ -239,7 +239,13 @@ def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
             try:
                 data = _extract_json_loose(cleaned)
             except json.JSONDecodeError as e:
-                last_err = f"JSON parse fail: {e}"
+                # 2026-09-23：只印例外訊息等於印一句「解析不了」——`_extract_json_loose`
+                # 自己組的 JSONDecodeError 一律報 pos=0，所以「line 1 column 1 (char 0)」
+                # 既可能是空輸出、也可能是三千字的碎念，兩者處置完全不同（一個是算力
+                # 沒回來，一個是模型話太多）。run 98122 一夜 29 次落在這一格而查不下去。
+                # 把長度與開頭原樣帶進訊息，dispatcher 收 stdout 尾 3000 字剛好讀得到。
+                last_err = (f"JSON parse fail: {e} | raw_len={len(cleaned)} "
+                            f"head={cleaned[:180]!r}")
                 call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
                 metrics.setdefault("calls", []).append(call_record)
                 continue
@@ -247,6 +253,8 @@ def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
             last_err = f"JSON shape fail: {type(data).__name__}"
             if isinstance(data, dict):
                 last_err += f" keys={list(data)[:8]!r}"
+            elif isinstance(data, list):
+                last_err += f" len={len(data)} first={type(data[0]).__name__ if data else 'empty'}"
             call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
             metrics.setdefault("calls", []).append(call_record)
             continue
@@ -392,6 +400,23 @@ def git_short_sha(zh_rel_path: str) -> str:
         return "pre-toolkit"
 
 
+def _unwrap_singleton_payload(data):
+    """`[{...}]` → `{...}`。Phase N 早就接受「物件內恰好一個 list」這個包裝形狀
+    （normalize_footnote_batch），Phase F 的鏡像形狀卻從沒接：模型把單一物件包成
+    一元陣列回來，舊碼一律判 shape fail，重試兩次後整篇中止（run 98220 近 20 小時
+    8 次，全 run 21 次）。只認「長度恰好 1 且元素是 dict」這個高信心形狀，其餘
+    原樣往下丟；猜錯也穿不過後面的「payload 每個 key 都要在」與 tags 長度驗證。"""
+    if isinstance(data, list) and len(data) == 1 and isinstance(data[0], dict):
+        return data[0]
+    return data
+
+
+def _accept_frontmatter_payload(result) -> bool:
+    return isinstance(result, dict) or (
+        isinstance(result, list) and len(result) == 1 and isinstance(result[0], dict)
+    )
+
+
 def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
                            backend, metrics: dict) -> str:
     """Phase F. 只把 title/description/tags 送模型；其餘欄位工具機械複製，永遠
@@ -442,7 +467,8 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
         data = call_json(backend, content_retry_system, user, max_tokens=4000, timeout=180,
                           max_attempts=2, metrics=metrics,
                           label=f"phase-F-content{content_attempt}",
-                          accept_data=lambda result: isinstance(result, dict))
+                          accept_data=_accept_frontmatter_payload)
+        data = _unwrap_singleton_payload(data)
 
         for k in payload:
             if k not in data:
@@ -547,6 +573,36 @@ def _restore_embedded_links(text: str, items: list[tuple[str, str]]) -> str:
     for token, url in items:
         text = text.replace(token, url)
     return text
+
+
+# 2026-09-23：Phase B 也走 @@LINKn@@ 裝甲（此前只有 Phase N 有）。裝甲的還原要
+# 容忍一件事——模型翻到 ar/hi 時會把 token 裡的 ASCII 數字換成該語言的數字
+# （٠١٢ / ०१२），那時 str.replace 找不到 token，URL 就整個消失。數字系統換寫是
+# 可逆的機械對應（不是猜），所以這裡正規化回 ASCII 再對；形狀認不出來的一律
+# 原樣留著，讓下游 URL multiset 閘門照常擋——不猜、不按位置硬塞（猜錯是把讀者
+# 送到別人的頁面，比壞連結更糟，同 restore-footnote-urls.py 的保守判準）。
+_NUMERAL_TO_ASCII = {
+    **{chr(0x0660 + d): str(d) for d in range(10)},   # ٠-٩ Arabic-Indic
+    **{chr(0x06F0 + d): str(d) for d in range(10)},   # ۰-۹ Extended Arabic-Indic
+    **{chr(0x0966 + d): str(d) for d in range(10)},   # ०-९ Devanagari
+}
+_LINK_TOKEN_SCAN_RE = re.compile(r"@@\s*LINK\s*([^@\s]{1,8})\s*@@", re.I)
+
+
+def _restore_protected_links(text: str, items: list[tuple[str, str]]) -> str:
+    """裝甲還原：先照 token 精確還原，再掃一遍被改寫過數字的 token。"""
+    if not items:
+        return text
+    text = _restore_embedded_links(text, items)
+
+    def repl(m: "re.Match") -> str:
+        digits = "".join(_NUMERAL_TO_ASCII.get(ch, ch) for ch in m.group(1))
+        if not digits.isdigit():
+            return m.group(0)
+        idx = int(digits)
+        return items[idx][1] if 0 <= idx < len(items) else m.group(0)
+
+    return _LINK_TOKEN_SCAN_RE.sub(repl, text)
 
 
 def extract_footnote_defs(body: str) -> list[dict]:
@@ -984,8 +1040,10 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
         "1. Footnote reference markers like [^3] or [^12] must be preserved VERBATIM "
         "— same marker text, same position relative to the sentence they cite. Never "
         "add, remove, or renumber them.\n"
-        "2. In markdown links [text](URL), the URL portion must be preserved "
-        "VERBATIM; only the link text may be translated.\n"
+        "2. In markdown links [text](@@LINKn@@), the target is already replaced by a "
+        "protected placeholder token such as @@LINK0@@. Copy each token byte-for-byte "
+        "(same ASCII digits, no spaces inserted, do not localize the digits); only "
+        "the link text may be translated. Never add, drop or reorder tokens.\n"
         "3. Content inside 《...》 or 「...」 (work titles / direct quotes) may stay "
         "in the original zh-TW if there's no natural equivalent — don't force a bad "
         "translation of a proper noun or a quoted utterance.\n"
@@ -1006,6 +1064,14 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
 
     for idx, zh_chunk in enumerate(chunks):
         zh_refs = set(INLINE_FN_REF_RE.findall(zh_chunk))
+        # URL 裝甲（2026-09-23）：此前 Phase B 把整個 [text](URL) 原樣送模型，靠
+        # HARD RULE 2 要它逐字複製，而「inline link URL mismatch」是 run 98122 近
+        # 20 小時失敗的第一大宗（31 次，佔 17%）——模型會改一個 percent-encoding
+        # 位元組（%E7%B8%BD→%E7%B8%BA）、把 `/contribute` 的斜線吃掉、或整條掉光。
+        # Phase N 的腳註 URL 從一開始就走 @@LINKn@@ 裝甲，從沒出過這類事；同一條
+        # 原則（工具持有結構，模型只翻文字，MANIFESTO §14）補進 Phase B。
+        # 驗證面不變：還原後仍跟原始 zh_chunk 比 URL multiset，token 掉了照樣擋。
+        zh_send, link_items = _protect_embedded_links(zh_chunk)
         system = base_system
         last_output, last_issues = "", ["not attempted"]
         attempts_used = 0
@@ -1013,7 +1079,7 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
             attempts_used = attempt
             t0 = time.time()
             try:
-                raw = backend.translate(system, zh_chunk, max_tokens=6000, timeout=240)
+                raw = backend.translate(system, zh_send, max_tokens=6000, timeout=240)
             except Exception as e:  # noqa: BLE001
                 elapsed = round(time.time() - t0, 1)
                 last_issues = [f"backend error: {e}"]
@@ -1024,7 +1090,7 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
                 last_output = ""
                 continue
             elapsed = round(time.time() - t0, 1)
-            out = _strip_fence(raw)
+            out = _restore_protected_links(_strip_fence(raw), link_items)
             issues = _validate_chunk(zh_chunk, out, zh_refs, lang, tmp_dir)
             metrics.setdefault("calls", []).append({
                 "label": f"phase-B-chunk{idx}", "attempt": attempt, "ok": not issues,
@@ -1049,11 +1115,12 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
             split_ok = len(split_parts) == 2
             for part_idx, part in enumerate(split_parts):
                 part_refs = set(INLINE_FN_REF_RE.findall(part))
+                part_send, part_links = _protect_embedded_links(part)
                 t0 = time.time()
                 try:
-                    raw = backend.translate(base_system, part, max_tokens=6000, timeout=240)
+                    raw = backend.translate(base_system, part_send, max_tokens=6000, timeout=240)
                     elapsed = round(time.time() - t0, 1)
-                    out = _strip_fence(raw)
+                    out = _restore_protected_links(_strip_fence(raw), part_links)
                     issues = _validate_chunk(part, out, part_refs, lang, tmp_dir)
                     metrics.setdefault("calls", []).append({
                         "label": f"phase-B-chunk{idx}-split{part_idx}",

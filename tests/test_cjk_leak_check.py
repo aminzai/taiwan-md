@@ -368,3 +368,63 @@ def test_translate_detect_cjk_leak_flags_simplified_link_target_in_body():
     assert result is not None
     assert "正文 CJK leak" in result
     assert "维基百科" in result
+
+
+def test_work_title_in_target_language_quotes_is_not_a_leak(tmp_path):
+    """《》「」已在豁免內，但譯者會把它們換成目標語言的引號排版（fr/ru/ar 用
+    « »、de 用 „ “、en/es/pt 用 “ ”）——2026-09-23 之前這層沒收，於是 Phase B
+    的 prompt 叫模型「作品名可以留原文」，照做的譯文反被閘門擋下（run 98122
+    近 20 小時 62 個 leak 命中裡 15 個是這一家族）。"""
+    for lang, text in [
+        ("es", "Las canciones de Lu Da You «鹿港小鎮» marcaron una época."),
+        ("de", "Das Album „舌燦蓮花“ erschien 2002 und wurde ein Klassiker."),
+        ("en", "The album “舌燦蓮花” came out in 2002 and became a classic."),
+    ]:
+        path = tmp_path / f"{lang}--quotes.md"
+        path.write_text(f"---\ntitle: 'X'\n---\n\n{text}\n", encoding="utf-8")
+        assert MODULE.scan_file(path, lang=lang) == [], lang
+
+
+def test_long_span_inside_target_quotes_still_leaks(tmp_path):
+    """引號豁免的 30 字上限跟《》「」同一條——整段漏翻不會剛好躲在一對引號裡，
+    豁免不能變成逃生通道。"""
+    path = tmp_path / "fr--longquote.md"
+    path.write_text(
+        "---\ntitle: 'X'\n---\n\nLe texte dit «這整段完全沒有翻譯的長中文句子"
+        "超過三十個字所以不應該被豁免掉因為它不是作品名».\n",
+        encoding="utf-8",
+    )
+
+    assert any("正文 CJK leak" in h for h in MODULE.scan_file(path, lang="fr"))
+
+
+def test_tw_article_module_path_is_not_a_leak_but_its_description_is(tmp_path):
+    """```tw-article``` 第一欄是渲染器用來定位站上文章的 `分類/中文檔名`，跟
+    wikilink 同性質，翻掉就指不到任何東西；`|` 後面的說明是給讀者看的，照掃。"""
+    path = tmp_path / "id--module.md"
+    path.write_text(
+        "---\ntitle: 'X'\n---\n\nTeks pembuka.\n\n```tw-article\n"
+        "history/台灣島史觀 | Artikel lengkap tentang pandangan sejarah ini.\n"
+        "```\n\nLanjutan paragraf.\n",
+        encoding="utf-8",
+    )
+    assert MODULE.scan_file(path, lang="id") == []
+
+    path.write_text(
+        "---\ntitle: 'X'\n---\n\n```tw-article\n"
+        "history/台灣島史觀 | 這個史觀在站上有完整的一篇文章可以讀\n```\n",
+        encoding="utf-8",
+    )
+    assert any("正文 CJK leak" in h for h in MODULE.scan_file(path, lang="id"))
+
+
+def test_named_link_rules_keep_their_identity_in_the_list():
+    """具名 regex 必須就是清單裡的那一顆（2026-09-23 去序號別名）：此前別處用
+    `LINK_LIKE_RES[5]` 取 MD_LINK_RE，清單中間插一條規則會讓所有別名整組錯位
+    而不報錯——strip_legit_zones() 的 `_md_link_sub` 會套到 wikilink 規則上。"""
+    assert MODULE.MD_LINK_RE in MODULE.LINK_LIKE_RES
+    assert MODULE.LINK_LIKE_RES[0] is MODULE.FOOTNOTE_DEF_LINE_RE
+    for rx in (MODULE.TW_MODULE_PATH_RE, MODULE.PHOTO_ATTRIBUTION_RE,
+               MODULE.HTML_TAG_RE, MODULE.FOOTNOTE_REF_RE,
+               MODULE.WIKILINK_RE, MODULE.BARE_URL_RE):
+        assert rx in MODULE.LINK_LIKE_RES

@@ -83,6 +83,16 @@ LEGIT_ZH_SPANS = [
     re.compile(r"[(（][^()（）]{0,30}[)）]"),        # 命名 gloss：（李安）、(張懸 Deserts Chang)
     re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉"),  # 作品名：《笠》詩刊、〈小情歌〉
     re.compile(r"「[^「」]{0,30}」|『[^『』]{0,30}』"),  # 短引語：古文引句、受訪者原話
+    # 目標語言自己的引號（2026-09-23）：上面兩條只認中日式括號，但譯者把
+    # 《鹿港小鎮》寫成 «鹿港小鎮»（fr/ru/ar）、„鹿港小鎮“（de）、“鹿港小鎮”
+    # （en/es/pt/id）是正確的排版在地化——而 Phase B 的 prompt 正好叫模型
+    # 「作品名與引語可以留原文」。照做的譯文因此被自己的閘門擋下：run 98122
+    # 近 20 小時 62 個 leak 命中裡 15 個是這一家族（阿拉伯文的 «續齊諧記»、
+    # 西班牙文的 «鹿港小鎮»⋯⋯），每一次都讓整篇 structured 從頭重來。
+    # 上限沿用同一條 30 字判準——整句整段的洩漏不會剛好躲在一對引號裡。
+    re.compile(
+        r"«[^«»]{0,30}»|‹[^‹›]{0,30}›|„[^„“”]{0,30}[“”]|“[^“”]{0,30}”|”[^„“”]{0,30}”"
+    ),
 ]
 PAREN_GLOSS_RE = LEGIT_ZH_SPANS[0]      # 舊名保留，避免外部引用斷掉
 TITLE_BRACKET_RE = LEGIT_ZH_SPANS[1]
@@ -107,8 +117,33 @@ def legit_spans(text: str) -> list:
 # `[^N]`，害它的 FN_LINK_LABEL 行首錨失效）。兩支獨立的尺，同一個結構性錯誤：
 # **遮罩會破壞後續規則的錨點**。新增規則時要問的不只是「判準對不對」，
 # 還有「它跑的時候，前面的規則已經把什麼吃掉了」。
+# ⚠️ 2026-09-23：這些規則此前是匿名 inline 寫在 LINK_LIKE_RES 裡，別處再用
+# `LINK_LIKE_RES[5]` 之類的序號取別名（檔尾一排 7 個）。今天在清單中間插一條
+# tw-article 規則，那一排別名與 strip_legit_zones() 的 `if i == 5` 會**整組往後
+# 錯一格**且不會有任何一行報錯——MD_LINK_RE 會變成 wikilink 規則，`_md_link_sub`
+# 會套到錯的規則上。本檔自己的註解早就寫過「行號欄必腐」的同型病（REFLEXES #15）。
+# 改成先具名、再組清單：順序仍然重要（見上方說明），但序號不再是任何人的依據。
+FOOTNOTE_DEF_LINE_RE = re.compile(r"^\[\^[^\]]+\]:.*$", re.M)   # [^n]: 腳註定義（必須排第一，見上）
+TW_MODULE_PATH_RE = re.compile(r"(?m)^[ \t]*[A-Za-z][A-Za-z0-9_-]*/[^|\n]+?(?=[ \t]*\|)")
+PHOTO_ATTRIBUTION_RE = re.compile(
+    r"(?i:\b(?:Photo|Foto|Photographie|Image|Imagen))\s*[:：]\s*[一-鿿]{1,30}"
+    r"|(?:Ảnh|사진|写真|Фото|صورة)\s*[:：]\s*[一-鿿]{1,30}"
+)
+HTML_TAG_RE = re.compile(r"<[a-zA-Z/][^>]*>")
+FOOTNOTE_REF_RE = re.compile(r"\[\^[^\]]+\]")
+WIKILINK_RE = re.compile(r"\[\[[^\]]*\]\]")
+MD_LINK_RE = re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\(([^)]*)\)")
+BARE_URL_RE = re.compile(r"https?://\S+")
+
 LINK_LIKE_RES = [
-    re.compile(r"^\[\^[^\]]+\]:.*$", re.M),                           # [^n]: 腳註定義（必須排第一，見上）
+    FOOTNOTE_DEF_LINE_RE,
+    # ```tw-article``` 嵌入卡（2026-09-23）：欄位一是 `分類/中文檔名`，渲染器拿它
+    # 定位站上文章——跟 wikilink、<a href="/people/草東沒有派對"> 是同一種「保留
+    # 原文 slug 才解析得到」的結構，翻掉就指不到任何東西。豁免只吃到第一個 `|`，
+    # 後面的說明文字照掃（那是給讀者看的，本來就該翻）。
+    # 命中證據：〈比國家還大的演算藝術〉是站上第一篇用這個模組的文章，六張卡讓它
+    # 的十二語譯本全部卡在 leak 閘門——閘門逼模型改的正好是絕對不能改的那一欄。
+    TW_MODULE_PATH_RE,
     # 攝影者署名（第十三家族 2026-07-29）：Wikimedia attribution 的作者名
     # 是授權鏈的一部分，不能為了「看起來像已翻譯」而音譯或刪掉。只豁免
     # Photo/Foto 標籤後緊接的 1–30 個漢字姓名；逗號後正文與一般中文句子
@@ -119,25 +154,22 @@ LINK_LIKE_RES = [
     # 写真（ja ×4）、Image（×14）——同一種署名、同樣不該改寫，卻因為標籤被
     # 翻成當地語言就掉出豁免。vi 公車篇的 `Ảnh: 厦门金龙永远的神, CC BY 4.0`
     # 因此被判洩漏，而那是 Wikimedia 上傳者的帳號名，改掉就斷了授權鏈。
-    re.compile(
-        r"(?i:\b(?:Photo|Foto|Photographie|Image|Imagen))\s*[:：]\s*[一-鿿]{1,30}"
-        r"|(?:Ảnh|사진|写真|Фото|صورة)\s*[:：]\s*[一-鿿]{1,30}"
-    ),
+    PHOTO_ATTRIBUTION_RE,
     # HTML 標籤（第十一家族 2026-07-27）：標籤內的屬性值是結構不是正文——
     # YouTube 嵌入的 title="大象體操 Elephant Gym -〈水底〉" 是原始影片標題、
     # <a href="/people/草東沒有派對"> 的中文 slug 是站內連結能解析的前提。
     # 兩者都跟 wikilink 同理：保留原文是正確的編輯選擇。救回 en 歷史刪除檔時
     # 現形——10 篇「只有 CJK 洩漏」的譯文全卡在這裡。
-    re.compile(r"<[a-zA-Z/][^>]*>"),
+    HTML_TAG_RE,
     # 行內腳註引用（第十二家族 2026-07-27）：`[^台灣醬油]` 是 markdown 錨點
     # 不是正文——標籤中英文都合法，但必須與定義行一致，譯文保留原標籤才對。
     # 既有規則只剝了腳註「定義行」，行內引用漏網。
-    re.compile(r"\[\^[^\]]+\]"),
-    re.compile(r"\[\[[^\]]*\]\]"),                                    # [[wikilink]]
+    FOOTNOTE_REF_RE,
+    WIKILINK_RE,
     # [text](target)（容一層巢狀）：target 用捕獲群組取出，交給
     # _md_link_sub() 判斷合不合法（任務一，2026-09-05）——見下方說明。
-    re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\(([^)]*)\)"),
-    re.compile(r"https?://\S+"),                                      # 裸 URL
+    MD_LINK_RE,
+    BARE_URL_RE,
 ]
 
 # 2026-09-05 任務一：舊版第 6 條規則不管括號裡裝什麼，逮到 `[text](anything)`
@@ -204,11 +236,13 @@ def strip_legit_zones(text: str, drop_frontmatter: bool = False) -> str:
         end_fm = body.find("---", 3)
         if end_fm != -1:
             body = body[end_fm + 3:]
-    for i, rx in enumerate(LINK_LIKE_RES):
-        # index 5 = [text](target)：合法性視 target 而定，見 _md_link_sub()。
-        # 其餘規則（腳註定義行／攝影者署名／HTML 標籤／腳註引用／wikilink／
-        # 裸 URL）本身就是「命中即結構、一律抹除」，行為不變。
-        body = rx.sub(_md_link_sub, body) if i == 5 else rx.sub("", body)
+    for rx in LINK_LIKE_RES:
+        # MD_LINK_RE = [text](target)：合法性視 target 而定，見 _md_link_sub()。
+        # 其餘規則（腳註定義行／tw-* 路徑／攝影者署名／HTML 標籤／腳註引用／
+        # wikilink／裸 URL）本身就是「命中即結構、一律抹除」，行為不變。
+        # 用 `is` 認規則不用序號認（2026-09-23）：序號版在清單中間插一條就會
+        # 靜默套到錯的規則上，而那一格的行為差異（保留非法 target）不會報錯。
+        body = rx.sub(_md_link_sub, body) if rx is MD_LINK_RE else rx.sub("", body)
     for rx in LEGIT_ZH_SPANS:
         body = rx.sub("", body)
     return body
@@ -248,13 +282,8 @@ def drop_frontmatter(text: str) -> str:
 # 掃簡體（detect_simplified_residue），書目區外（正文）維持原本 CJK_RUN_RE／
 # ZH_ONLY_MARKERS 判準，一個字元都沒放寬。
 
-FOOTNOTE_DEF_LINE_RE = LINK_LIKE_RES[0]      # `^\[\^...\]:` 整行（含 `.*$`）
-PHOTO_ATTRIBUTION_RE = LINK_LIKE_RES[1]      # Photo/Foto/Ảnh/사진/写真/Фото/صورة 署名
-HTML_TAG_RE = LINK_LIKE_RES[2]               # <tag attr="...">
-FOOTNOTE_REF_RE = LINK_LIKE_RES[3]           # 行內 `[^n]`
-WIKILINK_RE = LINK_LIKE_RES[4]               # [[wikilink]]
-MD_LINK_RE = LINK_LIKE_RES[5]                # [text](url)（完整，含 text）
-BARE_URL_RE = LINK_LIKE_RES[6]               # 裸 URL
+# （具名 regex 定義已上移到 LINK_LIKE_RES 之前——序號別名 2026-09-23 移除，
+#  見那裡的說明。外部 import 這些名字的行為完全不變。）
 
 # 每個語言「參考資料／延伸閱讀／圖片來源」標題變體：2026-09-05 對
 # knowledge/<lang> 每語言抽樣 8 篇實際譯文（含腳註）grep `^## ` 標題取得，
