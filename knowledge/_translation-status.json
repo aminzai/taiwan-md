@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T09:42:47+08:00",
-    "zhCommitHead": "1b3ecb2b0",
+    "lastUpdated": "2026-09-22T10:20:02+08:00",
+    "zhCommitHead": "38daf6e4b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1062,
-        "stale": 36,
+        "fresh": 1063,
+        "stale": 35,
         "metadata_stale": 6,
         "missing": 20,
         "orphan": 0
@@ -36,48 +36,48 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1057,
-        "stale": 42,
+        "fresh": 1060,
+        "stale": 39,
         "metadata_stale": 7,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1042,
-        "stale": 58,
+        "fresh": 1044,
+        "stale": 56,
         "metadata_stale": 4,
         "missing": 20,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1050,
+        "fresh": 1052,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 17,
+        "missing": 15,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1033,
+        "fresh": 1035,
         "stale": 44,
-        "metadata_stale": 30,
+        "metadata_stale": 28,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 963,
+        "fresh": 965,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 94,
+        "missing": 92,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1021,
-        "stale": 49,
+        "fresh": 1022,
+        "stale": 48,
         "metadata_stale": 9,
         "missing": 45,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1029,
-        "stale": 38,
+        "fresh": 1032,
+        "stale": 35,
         "metadata_stale": 9,
         "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 849,
+        "fresh": 850,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 260,
+        "missing": 259,
         "orphan": 0
       }
     },
@@ -1487,11 +1487,11 @@
           "sourceContentHash": "sha256:4517347444f75a1c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T00:56:56.631635+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "38daf6e4",
+          "translationLastModified": "2026-09-22T09:42:48+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "bytes": 56675,
+          "bytes": 56685,
           "status": "fresh",
           "reason": "same-commit"
         }
@@ -23211,7 +23211,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/science-park-development.md",
+          "translatedFrom": "Technology/科技園區發展.md",
+          "sourceCommitSha": "bc725e8c5",
+          "sourceContentHash": "sha256:19e7a45a0852260f",
+          "sourceBodyHash": "sha256:a1d16e29348fc28f",
+          "translatedAt": "2026-09-22T08:09:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 44704,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53143,8 +53155,8 @@
           "sourceContentHash": "sha256:828aff612a05168f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T00:42:03.453317+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "38daf6e4",
+          "translationLastModified": "2026-09-22T09:42:48+08:00",
           "inferred": false,
           "footnoteDefs": 52,
           "bytes": 67881,
@@ -66030,13 +66042,37 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-22T08:09:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 29979,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 27090,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -83358,7 +83394,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/happiness-party-taiwan.md",
+          "translatedFrom": "Politics/歡樂無法黨.md",
+          "sourceCommitSha": "418bd3410",
+          "sourceContentHash": "sha256:787b4dca478a7872",
+          "sourceBodyHash": "sha256:871a0c07dcb1e28f",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 25385,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/happiness-party-taiwan.md",
@@ -99709,8 +99757,8 @@
           "sourceContentHash": "sha256:5957f112788fc58e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T01:18:14.084074+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "38daf6e4",
+          "translationLastModified": "2026-09-22T09:42:48+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 54070,
@@ -103151,19 +103199,17 @@
         "pt": {
           "path": "pt/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-18T18:57:48+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-22T08:09:30+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 32071,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 27890,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/jensen-huang.md",
@@ -110180,17 +110226,17 @@
         "ru": {
           "path": "ru/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-07-25T12:49:35+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-22T08:09:31+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "bytes": 27344,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "footnoteDefs": 25,
+          "bytes": 65417,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/pa-chiung-political-youtuber.md",
@@ -137889,8 +137935,8 @@
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "sha256:31e72a4ea39ea451",
           "translatedAt": "2026-09-22T04:48:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "38daf6e4",
+          "translationLastModified": "2026-09-22T09:42:48+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 19538,
@@ -140771,17 +140817,17 @@
         "es": {
           "path": "es/Food/taiwan-vegetarian-culture.md",
           "translatedFrom": "Food/台灣素食文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:b6884a554f5b7c89",
-          "sourceBodyHash": "sha256:6d448c8add3f1fbd",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-22T08:09:28+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 3,
-          "bytes": 14962,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "bytes": 15048,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-vegetarian-culture.md",
@@ -142267,19 +142313,17 @@
         "es": {
           "path": "es/Food/taiwanese-ice-cream-culture.md",
           "translatedFrom": "Food/台灣冰品文化.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:4dac67a4f3297b76",
-          "sourceBodyHash": "sha256:aae5f010fab3924f",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-22T08:09:28+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 15889,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 15610,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwanese-ice-cream-culture.md",
@@ -144794,19 +144838,17 @@
         "en": {
           "path": "en/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:874c652bf8f5b63c",
-          "sourceBodyHash": "sha256:53b616e81595b8c6",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-22T08:09:26+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14341,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -3"
+          "bytes": 14302,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/hand-shaken-drink-culture.md",
@@ -145210,19 +145252,17 @@
         "ko": {
           "path": "ko/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-04-14T03:34:17+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-22T08:09:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 15814,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 17080,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-indigenous-foodways.md",
@@ -149842,19 +149882,17 @@
         "ko": {
           "path": "ko/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3122286a1056f9c8",
-          "sourceBodyHash": "sha256:dacc006277fbf01a",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-22T08:09:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 14375,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 14431,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/hakka-food-culture.md",
@@ -151484,17 +151522,17 @@
         "ko": {
           "path": "ko/Food/taiwan-bread-and-baking.md",
           "translatedFrom": "Food/台灣麵包與烘焙.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e4c169783e32f5c2",
-          "sourceBodyHash": "sha256:79036ef58165be78",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:dc1169789f149357",
+          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
+          "translatedAt": "2026-09-22T08:09:27+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 11511,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "bytes": 12169,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-bread-and-baking.md",
@@ -164936,7 +164974,19 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-22T08:09:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 23416,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/kaohsiung-export-processing-zone.md",
@@ -167300,19 +167350,17 @@
         "ru": {
           "path": "ru/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "710263a86",
-          "sourceContentHash": "sha256:bc916494357a8d5d",
-          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
-          "translatedAt": "2026-07-29T01:32:48+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:1c4df7a1034d9237",
+          "sourceBodyHash": "sha256:decacb8f3924c150",
+          "translatedAt": "2026-09-22T02:08:55.288645+00:00",
           "translationLastCommit": "3fcb6b42",
           "translationLastModified": "2026-07-30T05:53:52+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 40182,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 41062,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/taiwan-white-terror.md",
@@ -170970,17 +171018,17 @@
         "ru": {
           "path": "ru/Geography/roc-aesthetics.md",
           "translatedFrom": "Geography/中華民國美學.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:2226f6ae85580ba3",
-          "sourceBodyHash": "sha256:9aa85b1a3d34de72",
-          "translatedAt": "2026-09-10T12:00:00+08:00",
+          "sourceCommitSha": "ba877ac2b",
+          "sourceContentHash": "sha256:c8f833e6836a370f",
+          "sourceBodyHash": "sha256:26c6e79fd91efe41",
+          "translatedAt": "2026-09-22T08:09:31+08:00",
           "translationLastCommit": "2a546430",
           "translationLastModified": "2026-09-15T14:49:35+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 56398,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "bytes": 56600,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/roc-aesthetics.md",
@@ -189853,19 +189901,17 @@
         "vi": {
           "path": "vi/Culture/jiaobei-divination-blocks.md",
           "translatedFrom": "Culture/擲筊.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:f8a1e86f13d5a657",
           "sourceBodyHash": "sha256:ef724755039c89a7",
-          "translatedAt": "2026-07-25T06:34:13+08:00",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
           "translationLastCommit": "d4a1ee32",
           "translationLastModified": "2026-07-25T07:54:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 9709,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 10012,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/jiaobei-divination-blocks.md",
@@ -198175,19 +198221,17 @@
         "vi": {
           "path": "vi/Culture/mazu-dadaogong-legend.md",
           "translatedFrom": "Culture/媽祖與大道公的傳說.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:e0f0df37674e0a42",
           "sourceBodyHash": "sha256:0cf1fac1d7c9b8b4",
-          "translatedAt": "2026-07-24T23:02:11+08:00",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
           "translationLastCommit": "0dd6f4f8",
           "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 9515,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 10696,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/mazu-dadaogong-legend.md",

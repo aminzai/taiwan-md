@@ -1,250 +1,258 @@
 ---
-title: 'Taiwan Hand-Shaken Drink Culture'
-description: "From bubble tea to premium tea beverages, the rise of Taiwan's hand-shaken drink culture and its global expansion"
+title: "Taiwan's Bubble Tea Culture"
+description: "From pearl milk tea to specialty teas, the rise and global expansion of Taiwan's bubble tea culture"
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Food'
+tags:
+  [
+    'Food',
+    'Bubble Tea',
+    'Pearl Milk Tea',
+    'Tea Drink',
+    'Cultural Export',
+    'Brand Internationalization',
+  ]
 subcategory: '飲品文化'
-tags: ['美食', '手搖飲', '珍珠奶茶', '茶飲', '文化輸出', '品牌國際化']
-readingTime: 8
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+image: '/article-images/food/classic-bubble-tea-2013.webp'
+imageAlt: 'Close-up of classic pearl milk tea'
+imageCredit: 'Oqmilteashop / Wikimedia Commons'
+readingTime: 8
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/台灣手搖飲文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:874c652bf8f5b63c'
-sourceBodyHash: 'sha256:53b616e81595b8c6'
-translatedAt: '2026-05-20T05:08:27+08:00'
-image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageCredit: 'Oqmilteashop / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:f41c9bad8a88780e'
+sourceBodyHash: 'sha256:b1b3fe1671d31604'
+translatedAt: '2026-09-22T08:09:26+08:00'
 ---
 
-# Taiwan Hand-Shaken Drink Culture
+# Taiwan's Bubble Tea Culture
 
-When you walk down any street in Taiwan, one of the most unmissable sights is the colorful signage of hand-shaken drink shops. From the neighborhood 50 Lan to the bustling Gong Cha in commercial districts, from the traditional Chun Shui Tang to the trendy Milksha, Taiwan's hand-shaken drink culture has become one of the most iconic lifestyle symbols of this island.
+When you walk down any street in Taiwan, the most unmistakable sight is the colorful signage of bubble tea shops. From 50 Lan (50嵐) on a corner to Gong Cha (貢茶) in commercial districts, from traditional Chun Shui Tang (春水堂) to trendy Mixue (迷客夏), Taiwanese bubble tea culture has become one of the most representative lifestyle symbols of this island.
 
-Taiwan's hand-shaken drink culture traces its origins to the birth of bubble tea in the 1980s, expanding into global markets through creative tea beverages. It reflects the Taiwanese pursuit of quality of life, a passion for innovation, and shared memories of the good things in life.
+Taiwanese bubble tea culture began with the birth of pearl milk tea in the 1980s and expanded into global markets through creative beverages. Bubble tea reflects the pursuit of quality of life by the Taiwanese people, a passion for innovation, and a shared memory of beautiful things.
 
-## Origins and Development of Hand-Shaken Drinks
+## Origins and Development of Bubble Tea
 
-### The Birth of Bubble Tea
+### The Birth of Pearl Milk Tea
 
-The origin of Taiwan's hand-shaken drink culture can be traced to Taichung. Liu Han-chieh, founder of Chun Shui Tang, tasked store manager Lin Hsiu-hui with developing what would become bubble tea in 1987[^1], perfectly blending traditional tea culture with a spirit of modern innovation.
+The origin of Taiwan's bubble tea culture can be traced back to Taichung. Liu Han-jie (劉漢介), the founder of Chun Shui Tang, commissioned Lin Xiu-hui (林秀慧), then a store manager, to develop pearl milk tea in 1987[^1], perfectly combining traditional tea culture with modern innovative spirit.
 
-**Key Elements of Innovation:**
+**Key elements of innovation:**
 
-This breakthrough rested on four core innovations: switching from hot tea to cold beverages to suit the subtropical climate; using the shaking technique to produce rich foam; adding chewy tapioca pearls to create an entirely new texture; and offering customizable sugar and ice levels.
+This innovation featured four core breakthroughs: changing hot tea into cold drinks to suit the subtropical climate; using shaking techniques to create rich foam; adding chewy pearls to create a new texture; and offering customizable options for sweetness level and ice level.
 
-This innovation drove the rapid spread of bubble tea across Taiwan and gave rise to the chain franchise industry.
+This innovation led to the rapid popularization of pearl milk tea across Taiwan and spurred the rise of the franchise industry.
 
-### Industrial Development Timeline
+### Industrial Development Process
 
-**1990s: Germination Phase**
+**1990s: Incubation Period**
 
-- Bubble tea spread from Taichung across the entire island
-- Small tea stalls began introducing hand-shaken equipment
-- Flavor options diversified
+- Pearl milk tea spread from Taichung throughout Taiwan
+- Small tea stalls began using shake equipment
+- Flavor choices became more diverse
 
-**2000s: Growth Phase**
+**2000s: Growth Period**
 
-- Brands such as 50 Lan (2000) and Ching Shin Fu Chuan were established one after another
-- The chain franchise model took off
-- Standardized operating procedures were established
+- Brands such as 50 Lan (established in 2000) and Qingxin Fuquan (清心福全) were established sequentially
+- The franchise model emerged
+- Standard operating procedures were established
 
-**2010s: Explosion Phase**
+**2010s: Explosion Period**
 
-- The concept of premium tea beverages emerged
-- Seasonal limited editions and cross-brand collaborations became trends
-- Social media amplified the importance of visual presentation
+- Specialty tea concepts arose
+- Seasonal limited editions and collaborations became trends
+- Social media boosted visibility, making visual presentation more important
 
-**2020s: Refinement Phase**
+**2020s: Refinement Period**
 
 - Health-oriented products increased
-- Technology-driven services became widespread
-- Sustainability became a key issue
+- Technological services became widespread
+- Sustainable operation became an important issue
 
-## Taiwan's Hand-Shaken Drink Industry Chain
+## The Taiwan Bubble Tea Industry Chain
 
-### Upstream: Tea Leaf and Ingredient Supply
+### Upstream: Tea Leaves and Raw Materials Supply
 
-The quality foundation of Taiwan's hand-shaken drinks rests on a robust supply chain of premium ingredients:
+The foundation of Taiwanese bubble tea quality is built upon a high-quality raw material supply chain:
 
-**Tea-Producing Regions:**
-
-Nantou County (high-mountain oolong tea, Sun Moon Lake black tea), New Taipei City (Wenshan pouchong tea), Chiayi County (Alishan high-mountain tea), and Taitung County (Luye red oolong) are the four major domestic tea-producing regions in Taiwan.
+**Tea Growing Regions:**
+Nantou County (high mountain Oolong tea, Sun Moon Lake black tea), New Taipei City (Wenshan tea), Chiayi County (Alishan high mountain tea), and Taitung County (Luye red oolong) are the four major domestic tea-producing regions in Taiwan.
 
 **Imported Tea Leaves:**
 
-- **Sri Lanka:** Ceylon black tea
-- **India:** Assam black tea, Darjeeling tea
-- **Mainland China:** Supplementary varieties of various tea types
+- **Sri Lanka**: Ceylon black tea
+- **India**: Assam black tea, Darjeeling tea
+- **China**: Various types of tea for supplementation
 
-**Other Ingredient Supply:**
+**Other Raw Materials Supply:**
 
-- **Dairy products:** Fresh milk, non-dairy creamer, condensed milk
-- **Sweeteners:** Cane sugar, fructose, sugar substitutes
-- **Toppings:** Tapioca pearls, coconut jelly, pudding, grass jelly
+- **Dairy Products**: Fresh milk, creamer, condensed milk
+- **Sugars**: Cane sugar, fructose, artificial sweeteners
+- **Ingredients**: Pearls, coconut jelly, pudding, grass jelly
 
-### Midstream: Brand Operations and Franchising
+### Midstream: Brand Management and Franchising
 
-**Major Chain Brands:**
-
-Each major brand has its own positioning: 50 Lan is known for steady operations and consistent quality; Ching Shin Fu Chuan offers affordable prices with high market penetration; CoCo Fresh Tea & Juice has the highest degree of internationalization; and Gong Cha differentiates itself with a premium positioning and stylish store design.
+**Large Chain Brands:**
+Major brands have distinct positioning: 50 Lan excels in stable operation and quality consistency; Qingxin Fuquan is known for affordability and high penetration; CoCo Do Ka (CoCo都可) has the highest degree of internationalization; Gong Cha differentiates itself with a specialty positioning and fashionable store design.
 
 **Regional Brands:**
+In terms of regional brands, Mixue originated in Tainan and focuses on fresh tea leaves; Magu Tea Workshop (麻古茶坊) attracts younger demographics with creative flavors; Tianren Tea (天仁茗茶) represents the transformation of traditional tea merchants; Laohutang (老虎堂) specializes clearly in brown sugar pearls.
 
-On the regional front, Milksha originated in Tainan and emphasizes fresh tea leaves; Macu Tea attracts younger consumers with creative flavors; Ten Ren Tea represents the transformation of a traditional tea merchant; and Tiger Sugar specializes in brown sugar pearls with clear differentiation.
+**Franchising Model Characteristics:**
 
-**Franchise Model Features:**
-
-- Headquarters provides ingredient distribution
-- Unified brand image and store décor
+- Headquarters provides raw material distribution
+- Unified brand image and decoration
 - Standard operating procedure training
-- Territorial protection mechanisms
+- Regional protection mechanism
 
 ### Downstream: Retail Channels and Services
 
-**Physical Storefronts:**
-
-Street-level shops offer lower rents and flexible locations; commercial district stores draw heavy foot traffic but face intense competition; department store locations project a strong brand image but carry the highest costs; campus shops target primarily the student demographic.
+**Physical Stores:**
+Street-side stores have lower rent and flexible locations; commercial district stores have high foot traffic but intense competition; department store brands have good image but the highest costs; campus stores primarily target student demographics.
 
 **Digital Services:**
 
-- **Delivery platforms:** Integration with foodpanda and Uber Eats
-- **Brand apps:** Membership programs, advance ordering
-- **Mobile payments:** Improved checkout efficiency
+- **Delivery Platforms**: Integration with foodpanda, Uber Eats
+- **Brand Apps**: Membership systems, pre-order functions
+- **Mobile Payment**: Enhancing checkout efficiency
 
-## Brand Internationalization Strategies
+## Brand Internationalization Strategy
 
 ### Overseas Expansion Models
 
-Taiwanese hand-shaken drink brands accelerated their internationalization after 2010, adopting diverse strategies:
+Taiwanese bubble tea brands accelerated internationalization after 2010, adopting diverse strategies:
 
-**Direct Expansion:**
+**Direct Operation Expansion:**
 
-- Headquarters directly invests in establishing overseas branches
+- Headquarters directly invests to establish overseas branches
 - Ensures consistency in quality and brand image
-- Best suited for mature markets and key cities
+- Targets mature markets and key cities
 
-**Licensed Franchising:**
+**Licensing and Franchising:**
 
-- Partners with local operators
+- Cooperates with local operators
 - Rapidly expands market coverage
-- Reduces operational risk and costs
+- Reduces operational risk and cost
 
 **Technology Export:**
 
-- Supplies ingredients, equipment, and know-how
-- Trains local operations teams
-- Collects technology licensing fees
+- Provides raw materials, equipment, and technology
+- Trains local operating teams
+- Charges for technology licensing fees
 
-**Key Target Markets:**
+### Key Expansion Markets
 
 **Asian Markets:**
 
-- **Mainland China:** The largest overseas market, with the fiercest competition
-- **Southeast Asia:** Malaysia, Singapore, Thailand, Philippines
-- **Japan:** A refined approach emphasizing quality and service
-- **South Korea:** Leveraging Hallyu (Korean Wave) culture, with visual presentation playing a key role
+- **China**: The largest overseas market, with the fiercest competition
+- **Southeast Asia**: Malaysia, Singapore, Thailand, Philippines
+- **Japan**: A refinement approach, focusing on quality and service
+- **South Korea**: Combining Hallyu culture, where visual presentation is important
 
 **European and American Markets:**
 
-- **United States:** Chinese diaspora communities as primary footholds
-- **Canada:** Cities such as Vancouver and Toronto
-- **United Kingdom:** High acceptance among young consumers in London
-- **Australia:** Strong Asian cultural presence in Sydney and Melbourne
+- **USA**: Areas with large Chinese populations are the main bases
+- **Canada**: Cities like Vancouver and Toronto
+- **UK**: High acceptance among young people in London
+- **Australia**: Sydney and Melbourne have strong Asian cultures
 
-**Success Case Analysis:**
+**Case Study Analysis:**
+CoCo Do Ka (established in 1997) has established bases in over 20 countries. It is a representative case of Taiwanese brand globalization, combining localized product development (such as the Cheese Foam series in the US) with unified brand identity. Gong Cha focuses on a specialty positioning, emphasizing the quality of original Taiwanese tea leaves, and uses fashionable store design to attract young consumers while adjusting marketing language to local cultures.
 
-CoCo Fresh Tea & Juice (founded in 1997) has established locations in over 20 countries. By pairing localized product development—such as the Cheese Foam series in the United States—with a unified brand identity, it stands as a representative case of Taiwanese brand globalization. Gong Cha, meanwhile, adopts a premium positioning that emphasizes the quality of original Taiwanese leaf tea. Its stylish store design attracts young consumers, and its marketing language is adapted to local cultures.
+### Localization Challenges and Countermeasures
 
-### Localization Challenges and Strategies
+**Flavor Adjustment:**
 
-**Taste Adjustments:**
-
-- **Sweetness preferences:** Southeast Asian markets generally favor sweeter drinks
-- **Temperature preferences:** European and American markets show higher acceptance of hot beverages
-- **Topping choices:** Adapted to local dietary habits
+- **Sweetness Preference**: Southeast Asian markets generally prefer sweeter tastes
+- **Temperature Needs**: European and American markets accept hot drinks to a higher degree
+- **Ingredient Selection**: Considering local dietary habits
 
 **Regulatory Compliance:**
 
-- **Food safety:** Meeting food safety standards in each country
-- **Nutritional labeling:** Providing detailed ingredient information
-- **Environmental requirements:** Using biodegradable straws and cups
+- **Food Safety**: Meeting the food safety standards of various countries
+- **Nutritional Labeling**: Providing detailed ingredient information
+- **Environmental Requirements**: Using biodegradable straws and cups
 
 **Cultural Integration:**
 
-- **Holiday limited editions:** Launching special products tied to local festivals
-- **Cross-brand collaborations:** Partnering with local well-known brands or personalities
-- **Marketing language:** Adopting local languages and cultural elements
+- **Seasonal Limited Editions**: Launching special products to match local festivals
+- **Collaborations**: Partnering with famous local brands or figures
+- **Marketing Language**: Adopting local languages and cultural elements
 
 ## Innovation Trends and Market Changes
 
-### The Health-Conscious Trend
+### Health Trend
 
-Rising health awareness among modern consumers is driving the transformation of hand-shaken beverages. Under the reduced-sugar movement, brands widely offer no-sugar and low-sugar options, replacing artificial sweeteners with natural sugar alternatives and beginning to display calorie information. On the ingredient side, the shift toward fresh fruit and organic tea leaves—marketed as free of added preservatives—has gained momentum. Functional additives are also trending, with vitamins, probiotics, and collagen being incorporated into drink formulations.
+As modern consumers become more health-conscious, bubble tea is undergoing a transformation. Amid the trend of reducing sugar, various brands commonly offer unsweetened or lightly sweetened options, replacing artificial sweeteners with natural alternatives and beginning to label calorie information. The raw material side has also shifted towards fresh fruits and organic tea leaves, marketing without added preservatives. Functional additives have also become a trend, with beauty ingredients such as vitamins, probiotics, and collagen sequentially being incorporated into drink formulas.
 
-### Premiumization
+### Specialty Development
 
-The premium approach centers on single-origin tea leaves, paired with small-farm partnerships to guarantee quality, and introduces new techniques such as cold brew and nitrogen infusion. Customization services have become more refined, with expanded sugar and ice level options and personalized topping combinations becoming standard. Store designs now feature open preparation counters, and professional training for drink mixers elevates the overall service quality.
+The specialty route centers on single-region teas, ensuring quality through small-scale farmer contracts, and introducing new technologies like cold brewing and nitrogen infusion. Customization services are more detailed, with increased options for sugar and ice level adjustments, making personalized ingredient combinations standard. Store design incorporates open preparation counters, and professional training of beverage makers enhances overall service quality.
 
-### Technology Applications
+### Technological Application
 
-On the smart equipment front, automated sugar-and-ice dispensing machines and standardized tea extraction equipment have become mainstream, with quality testing systems gradually being introduced. In digital services, AI-powered recommendations, membership data analysis, and appointment-based queuing enhance the customer experience. On the sustainability technology front, eco-friendly packaging, energy-saving equipment, and waste recycling address increasingly stringent environmental requirements.
+In terms of smart equipment, automated sugar/ice machines and standardized tea extraction equipment have become mainstream, and quality testing systems are gradually being introduced. In digital services, AI recommendations, member data analysis, and reservation queuing functions enhance customer experience. Sustainable technology focuses on eco-friendly packaging, energy-saving equipment, and waste recycling to meet increasingly strict environmental requirements.
 
-## Cultural Impact and Social Significance
+## Cultural Influence and Social Significance
 
-### A Vehicle of Everyday Culture
+### Vehicle of Lifestyle Culture
 
-Hand-shaken drinks have become deeply woven into the daily lives of Taiwanese people. "Having drinks and chatting" has become a universal social pattern; hand-shaken drink shops are common venues for dates and gatherings; and sharing new flavors has become a social media topic. Specific brands or flavors carry personal memories—bubble tea before an exam or a large green tea during overtime work are both snapshots of Taiwanese emotional life. The density of hand-shaken drink shops has even become an informal indicator of urbanization; night markets and commercial districts feel incomplete without them.
+Bubble tea is deeply integrated into the daily lives of Taiwanese people. "Chatting while drinking" has become a common social pattern; bubble tea shops are frequent meeting places for dates, and sharing new flavors has become a social media topic. Specific brands or flavors carry personal memories—pearl milk tea before an exam or large cups of green tea during overtime are microcosms of the emotional lives of Taiwanese people. The density of bubble tea shops is also an informal indicator of urbanization; a neighborhood lacking bubble tea stalls in night markets and commercial areas feels incomplete.
 
 ### Economic Contribution
 
-According to 2023 estimates by the Taiwan Chain Stores and Franchise Association, the hand-shaken drink industry directly employs over 200,000 people and drives employment in upstream and downstream industries including tea, dairy, and toppings. Annual revenue exceeds NT$100 billion[^4], generating substantial business tax income. Brand licensing fees, ingredient and equipment exports, and technical service output also contribute foreign exchange earnings for Taiwan.
+According to an estimate by the Taiwan Franchise Association in 2023, over 200,000 direct employees are involved in bubble tea, driving employment in upstream industries such as tea leaves, dairy products, and ingredients. Annual revenue exceeds NT$100 billion[^4], generating considerable business tax income. Brand licensing fees, raw material equipment exports, and technology service exports also bring foreign exchange earnings to Taiwan.
 
-### Cultural Soft Power
+### Soft Power
 
-Overseas hand-shaken drink outlets build brand recognition for Taiwanese food culture while raising Taiwan's international profile. Bubble tea, as a modern interpretation of Taiwanese tea culture, represents a successful case of East-meets-West culinary fusion and stands as one of the few tangible achievements of Taiwan's cultural export.
+Overseas bubble tea stores have enhanced the brand recognition of Taiwanese food culture while increasing Taiwan's international visibility. Pearl milk tea, as a modern interpretation of Taiwanese tea culture, is a successful case of the convergence of Eastern and Western dietary habits—a tangible result of cultural export that is rare for Taiwan.
 
 ## Challenges and Future Outlook
 
-### Challenges Ahead
+### Challenges Faced
 
 **Market Saturation:**
-Taiwan has an extremely high density of hand-shaken drink shops, making competition fierce. Operators must rely on product differentiation to stay competitive.
+The density of bubble tea shops in Taiwan is extremely high, leading to intense market competition; operators must rely on product differentiation to maintain competitiveness.
 
 **Rising Costs:**
-Increasing ingredient prices, rents, and labor costs are squeezing profit margins.
+The rising prices of raw materials, rent, and labor squeeze profit margins.
 
-**Health Concerns:**
-High-sugar beverages face health concerns, requiring reformulation to align with health trends.
+**Health Scrutiny:**
+High-sugar drinks face health concerns, requiring adjustments to product formulas to meet health trends.
 
 **Environmental Pressure:**
-Single-use plastic cups and utensils create an environmental burden, and operators need to find eco-friendly alternatives.
+Disposable plastic cups create an environmental burden, forcing operators to seek eco-friendly alternatives.
 
 **International Competition:**
-Overseas markets present competition from local brands, necessitating the establishment of differentiated advantages.
+Overseas markets face competition from local brands, necessitating the establishment of a competitive advantage.
 
-### Opportunities for Growth
+### Development Opportunities
 
-Emerging markets in the Middle East, Africa, and Latin America hold significant potential, with demand expanding alongside growing Chinese immigrant populations. On the product side, opportunities lie in functional beverages, novel toppings, and seasonal limited-edition items. In terms of channels, partnerships with convenience stores, vending machine placement, and e-commerce platform sales can reduce the pressure of storefront rent. Technology upgrades should focus on smart production, cold-chain logistics, and food safety traceability.
+Emerging markets such as the Middle East, Africa, and Latin America show great potential, with market demand expanding due to increasing Chinese immigration. Opportunities in products lie in functional drinks, new ingredients, and seasonal limited editions. In terms of channels, cooperation with convenience stores, placement of vending machines, and e-commerce platform sales can reduce rental pressure on physical stores. Technological upgrades focus on smart production, cold chain logistics, and food safety traceability.
 
 ### Sustainable Development Strategies
 
-On the environmental transition front, promoting reusable cups, biodegradable packaging materials, and comprehensive recycling systems is essential to meeting regulatory pressures. In terms of social responsibility, supporting local tea farmers, providing employee training, and participating in community public welfare help strengthen brand image. On quality management, establishing ingredient traceability systems and quality control mechanisms is a long-term investment in maintaining consumer trust.
+In environmental transformation, promoting reusable cups, biodegradable packaging materials, and a complete recycling mechanism is necessary to cope with regulatory pressures. In social responsibility, supporting local tea farmers, providing employee training, and participating in community welfare help strengthen brand image. In quality management, establishing raw material traceability systems and quality control systems is a long-term investment to maintain consumer trust.
 
-Taiwan's hand-shaken drink culture began with the innovation of bubble tea and has grown into a cultural phenomenon with global influence. It generates over NT$100 billion in annual output value and, through brand licensing, has brought Taiwanese tea culture into more than 20 countries worldwide. Currently, Taiwan's hand-shaken drink brands face challenges including market saturation, rising costs, and environmental pressure. Finding the balance between innovation and sustainability will determine the direction of this industry over the next decade.
+Taiwan's bubble tea culture started with the innovation of pearl milk tea and developed into a globally influential cultural phenomenon. It generated annual output exceeding NT$100 billion and brought Taiwanese tea culture to over 20 countries through brand licensing. Currently, Taiwan's bubble tea brands face challenges such as market saturation, rising costs, and environmental pressure; how they balance innovation and sustainability will determine the direction of this industry for the next decade.
+
+## Image Sources
+
+- Hero: Close-up of classic pearl milk tea, photographed by Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg), CC BY-SA 3.0.
 
 ## References
 
-[^1]: Chun Shui Tang, "The Invention History of Bubble Tea," https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/
+[^1]: Chun Shui Tang, "History of Pearl Milk Tea Invention," https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/
 
-[^2]: Taiwan Chain Stores and Franchise Association, https://www.cfatwn.org.tw/
+[^2]: Taiwan Franchise Association, https://www.cfatwn.org.tw/
 
-[^3]: United Daily News, "Bubble Tea Has No Patent Dispute," https://udn.com/news/story/7321/3960989
+[^3]: United News Agency, "No Patent Dispute Over Pearl Milk Tea," https://udn.com/news/story/7321/3960989
 
-[^4]: Department of Statistics, Ministry of Economic Affairs, Beverage Industry Operations Statistics, https://www.moea.gov.tw/
+[^4]: Ministry of Economic Affairs Statistics, Beverage Industry Operating Statistics, https://www.moea.gov.tw/
 
 [^5]: Chun Shui Tang Official Website, https://www.chunshuitang.com.tw/
