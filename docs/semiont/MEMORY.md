@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-22 | 071154-twmd-feedback-triage | 第二輪零回報，對賬 87/87 與 86/87 全綠；把 09-16 起在五班 handoff 原樣傳了六天的用語庫 blanket claim 決定登記成 OBSERVER-QUEUE #76（🔒紅線） | handoff 傳得動資訊傳不動急迫性；帶穩定參照的決定要住在會被決定的那張表上 | [→](memory/2026-09-22-071154-twmd-feedback-triage.md) |
 | 2026-09-22 | 084536-twmd-maintainer-am | aminzai 三篇譯文收下；main 紅了一夜的兩條 workflow 是新工具一處沒帶 encoding；en 六組同源雙檔傳了四輪後當班收斂，其中兩組是母稿早已併掉的譯文 | 交接傳得動判準，傳不動判準的前提；母稿併掉時登記表改址而非退場，譯文會多活半年 | [→](memory/2026-09-22-084536-twmd-maintainer-am.md) |
 | 2026-09-23 | 013029-twmd-babel-nightly | 正文網址改由三引擎的工具持有、殘留補閘門清十三份存量；圖表來源列七語 1,124 行被當資料吃掉；旗艦文 en 由委派層落地；產線 87% 譯文出自白名單外的 8.1B 模型（#78） | 閘門全長在模型那側，工具持有結構後自己那側沒閘門；閘門存在、會動、沒人呼叫它，報表上跟沒有閘門同形 | [→](memory/2026-09-23-013029-twmd-babel-nightly.md) |
+| 2026-09-23 | 054243-twmd-routine-sync | 第 57 輪：babel-nightly 機器版停在 7/29，git 昨夜 01:29 的白名單落差警語 apply 進機器；cron／enabled 綠燈拉 live 補驗才站得住 | 這條 routine 是投遞不是對賬；沉默沒有鄰居——零漂移／比舊鏡子／沒比同形 | [→](memory/2026-09-23-054243-twmd-routine-sync.md) |
