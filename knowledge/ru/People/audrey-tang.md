@@ -19,8 +19,8 @@ tags:
 subcategory: '教育與社會'
 author: 'Taiwan.md'
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:97c9b6fe6c788bcc'
+sourceCommitSha: 'e75b621d'
+sourceContentHash: 'sha256:206ef87a54acbbf7'
 translatedAt: '2026-09-09T15:33:03+08:00'
 featured: true
 lastVerified: 2026-05-16
@@ -225,6 +225,7 @@ lifeTree:
         - label: 'На сцене говорила бы о собственных достижениях'
           plausibility: structural
           note: 'Лауреаты часто рассказывают свою личную историю. Если бы так, награда стала бы персональным орденом, но она выбрала переформулировать сцену как «мы» — последний вариант отказа от ярлыка гения на протяжении всей истории.'
+sourceBodyHash: 'sha256:223451ab2ee89544'
 ---
 
 # Одри Тан: каждое её знаменитое решение — это отказ от ярлыка «гения»
