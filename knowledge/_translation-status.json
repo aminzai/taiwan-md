@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T19:08:06+08:00",
-    "zhCommitHead": "5aadfa7cc",
+    "lastUpdated": "2026-09-22T19:50:38+08:00",
+    "zhCommitHead": "8b1b46e0c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,18 +20,18 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1067,
-        "stale": 35,
+        "fresh": 1070,
+        "stale": 32,
         "metadata_stale": 5,
         "missing": 17,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 913,
+        "fresh": 914,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 72,
+        "missing": 71,
         "orphan": 0
       },
       "ko": {
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1060,
-        "stale": 43,
+        "fresh": 1061,
+        "stale": 42,
         "metadata_stale": 7,
         "missing": 14,
         "orphan": 0
@@ -68,17 +68,17 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 970,
+        "fresh": 971,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1031,
-        "stale": 40,
-        "metadata_stale": 8,
+        "fresh": 1034,
+        "stale": 38,
+        "metadata_stale": 7,
         "missing": 45,
         "orphan": 0
       },
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1043,
-        "stale": 28,
+        "fresh": 1044,
+        "stale": 27,
         "metadata_stale": 5,
         "missing": 48,
         "orphan": 0
@@ -25303,7 +25303,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/lifting-of-press-ban.md",
+          "translatedFrom": "Technology/報禁解除.md",
+          "sourceCommitSha": "7f5972b70",
+          "sourceContentHash": "sha256:5a5479f4d6a79c93",
+          "sourceBodyHash": "sha256:09e6bc194dc58574",
+          "translatedAt": "2026-09-22T17:40:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 24969,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/lifting-of-press-ban.md",
@@ -43440,17 +43452,17 @@
         "ru": {
           "path": "ru/Lifestyle/taiwan-passport.md",
           "translatedFrom": "Lifestyle/中華民國台灣護照.md",
-          "sourceCommitSha": "a6dadd56",
-          "sourceContentHash": "sha256:c4b2a0aad8a3e01378ba296626781dd69b75c61f685b2a48256a67502300921a",
-          "sourceBodyHash": "sha256:48f25d37ebe7945cc8eefc1a4d92c8db7261538968e67cf89fb882ab50a24c05",
-          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-22T17:40:23+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 60846,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "bytes": 54166,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/taiwan-passport.md",
@@ -55800,7 +55812,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/remote-area-schools-education-act.md",
+          "translatedFrom": "Society/偏遠地區學校教育發展條例全解.md",
+          "sourceCommitSha": "d7a109601",
+          "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
+          "sourceBodyHash": "sha256:1640a85ec53af696",
+          "translatedAt": "2026-09-22T17:40:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 49529,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/remote-area-schools-education-act.md",
@@ -56867,8 +56891,8 @@
           "sourceContentHash": "sha256:2a4f80e7fc721f19",
           "sourceBodyHash": "sha256:fc5314c473c1914f",
           "translatedAt": "2026-09-22T10:39:07.225453+00:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "8b1b46e0",
+          "translationLastModified": "2026-09-22T19:08:07+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 68525,
@@ -120815,8 +120839,8 @@
           "sourceContentHash": "sha256:ba95870558368ba6",
           "sourceBodyHash": "sha256:10a502d58bab93f7",
           "translatedAt": "2026-09-22T14:22:25+08:00",
-          "translationLastCommit": "4f880be2",
-          "translationLastModified": "2026-07-26T21:43:18+08:00",
+          "translationLastCommit": "8b1b46e0",
+          "translationLastModified": "2026-09-22T19:08:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 17945,
@@ -125796,19 +125820,17 @@
         "fr": {
           "path": "fr/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-05-02T08:50:00+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-09-22T17:40:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 14359,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "bytes": 22326,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
@@ -146745,19 +146767,17 @@
         "pt": {
           "path": "pt/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9c",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:da45c346079f5144",
+          "sourceBodyHash": "sha256:40a1aa98903d8e72",
+          "translatedAt": "2026-09-22T17:40:22+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20691,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 20913,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwanese-street-food.md",
@@ -147852,19 +147872,17 @@
         "en": {
           "path": "en/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-05-13T01:07:52Z",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-22T17:40:19+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20037,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "bytes": 21046,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -148060,19 +148078,17 @@
         "en": {
           "path": "en/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-22T17:40:19+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8688,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "bytes": 17269,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwanese-noodle-culture.md",
@@ -152947,19 +152963,17 @@
         "pt": {
           "path": "pt/Food/bubble-tea.md",
           "translatedFrom": "Food/珍珠奶茶.md",
-          "sourceCommitSha": "30569f742",
-          "sourceContentHash": "sha256:d90e80b19559290b",
-          "sourceBodyHash": "sha256:9bc13bf8c8054628",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-22T17:40:22+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18119,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 17843,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/bubble-tea.md",
@@ -177568,19 +177582,17 @@
         "en": {
           "path": "en/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f621",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-22T17:40:19+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 29717,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 28630,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/data-taiwan-22-cities.md",
@@ -179965,19 +179977,17 @@
         "pt": {
           "path": "pt/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T11:09:12.721973+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 54660,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "bytes": 53509,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
