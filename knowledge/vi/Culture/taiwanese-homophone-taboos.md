@@ -1,86 +1,92 @@
 ---
-title: "Văn hóa âm trùng cấm khiết ở Đài Loan: Tại sao số '4' khiến cả xã hội bỏ qua các tầng tòa nhà?"
-description: 'Từ tầng 4 không có trong bệnh viện đến biểu kiện giá 88.88$ cho biển số xe, mức độ nhạy cảm của người Đài Loan với âm trùng xứng đáng là thế giới'
+title: 'Văn hóa cấm kỵ đồng âm ở Đài Loan: Tại sao con số "Tứ" khiến cả xã hội bỏ qua một tầng?'
+description: 'Từ việc bệnh viện không có lầu bốn cho đến việc đấu giá biển số 8888 với giá trên trời, mức độ nhạy cảm của người dân Đài Loan đối với các từ đồng âm được coi là hàng đầu thế giới.'
 date: 2026-03-21
 category: 'Culture'
 tags:
-  ['Văn hóa Đài Loan', 'Tín ngưỡng dân gian', 'Văn hóa âm trùng', 'Liệt thề số']
-subcategory: 'Lễ hội và nghi lễ'
+  [
+    'Văn hóa Đài Loan',
+    'Tín ngưỡng dân gian',
+    'Văn hóa đồng âm',
+    'Cấm kỵ số học',
+  ]
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣諧音禁忌文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
-translatedAt: '2026-07-25T06:34:13+08:00'
+translatedAt: '2026-09-22T08:09:29+08:00'
 ---
 
-> **Tóm tắt 30 giây**: Ở Đài Loan, số "4" = "tử" của âm trùng khiến cả xã hội tập trung tránh xa con số này, thang máy từ tầng 3 nhảy thẳng xuống tầng 5, trong nhà hàng hỏi khách "mấy người" sẽ thay đổi thành "3+1 người". Đồng thời, âm trùng may mắn khiến biển số 8888 bị giao dịch với giá 890.000$, mức lương tặng kỵ hoa cũng có một bộ quy tắc phức tạp về số học.
+> **Tóm tắt 30 giây**: Ở Đài Loan, sự đồng âm giữa "Tứ" và "Tử" khiến toàn xã hội né tránh con số này. Thang máy nhảy thẳng từ tầng 3 lên tầng 5; khi nhân viên nhà hàng hỏi khách "mấy người", họ sẽ trả lời là "3+1". Đồng thời, các từ đồng âm mang ý nghĩa tốt lành lại tạo ra một hệ thống toán học phức tạp cho phong bì mừng cưới.
 
-Nếu bạn là người nước ngoài lần đầu đến Đài Loan, có thể bạn sẽ cảm thấy bối rối khi dùng thang máy: tại sao các nút nhấn tầng nhà chỉ nhảy từ 3 lên 5? Khi bước vào nhà hàng, người phục vụ hỏi bạn "mấy người", bạn nói "bốn người", họ lại trả lời "ổn, 3+1 người". Chào mừng đến với thế giới âm trùng cấm khiết của Đài Loan — một nơi khiến cả xã hội điều chỉnh lại các con số để tránh những âm thanh không may mắn.
+Nếu bạn là người nước ngoài lần đầu đến Đài Loan, có thể cảm thấy bối rối trong thang máy: tại sao nút bấm lại nhảy thẳng từ tầng 3 lên tầng 5? Khi bước vào nhà hàng, nhân viên phục vụ hỏi bạn "mấy người dùng bữa", mà bạn nói "bốn người", họ lại đáp "Được rồi, 3+1". Chào mừng đến với thế giới cấm kỵ đồng âm của Đài Loan—một nơi mà cả xã hội sắp xếp lại các con số để tránh những âm thanh không may mắn.
 
-## "Bốn" là kẻ thù chung của dân chú
+## Kẻ thù chung là "Tứ"
 
-Ở Đài Loan, không có con số nào cản bứt bằng "bốn" nhiều như thế. Bởi vì trong tiếng Trung, "bốn" (sì) và "tử" (sǐ) chỉ khác nhau ở tông điệu, sự giống nhau nhẹ nhàng này đủ để khiến cả xã hội tập trung tránh xa nó.
+Ở Đài Loan, không có con số nào bị kiêng kỵ hơn "Tứ". Bởi vì trong tiếng Hán, cách phát âm của "Tứ" (sì) và "Tử" (sǐ) chỉ khác nhau ở thanh điệu; sự tương đồng tinh tế này đủ để khiến toàn xã hội né tránh nó.
 
-Ví dụ rõ ràng nhất là số tầng nhà. Khi bước vào bất kỳ tòa nhà cao chung cư nào ở Đài Loan, bạn sẽ thấy các nút nhấn thang máy không có "4", thay vào đó là nhảy từ tầng 3 lên tầng 5. Không chỉ là tầng 4, cả tầng 14, 24, 34 cũng thường bị bỏ qua, vì chúng đều chứa đựng con số độc hại này.
+Ví dụ rõ ràng nhất là số tầng của các tòa nhà. Khi bước vào bất kỳ tòa nhà lớn nào ở Đài Loan, bạn sẽ thấy trên nút thang máy không có số "4", mà chúng nhảy thẳng từ tầng 3 lên tầng 5. Không chỉ lầu 4, cả lầu 14, 24, 34 cũng thường bị bỏ qua vì chúng đều chứa con số không may mắn này.
 
-Vụ án Bệnh viện Long Khánh ở Khu vực Kinh đô là một ví dụ thú vị hơn. Bệnh viện nổi tiếng này rõ ràng nằm ở Quận Kinh Vong, Tp. Hồ Tây, nhưng vẫn kiên quyết dùng tên "Long Khánh" để gọi. Tại sao? Bởi vì chữ "Kinh" nghe không may mắn, và trong các không gian y tế, nó là chấn thúc nghiêm trọng. Vì vậy, bệnh viện này hối hượng "xin dùng" tên của khu vực Long Khánh ở Thành phố mới Tp. Hồ Tây, đồng thời không chấp nhận được gọi là "Bệnh viện Kinh Vong".
+Trường hợp của Bệnh viện Trường Cảnh Lâm Khẩu (林口長庚醫院) càng thú vị hơn. Bệnh viện nổi tiếng này rõ ràng tọa lạc tại khu Quy Sơn, thành phố Đào Viên, nhưng lại kiên trì sử dụng tên "Lâm Khẩu Trường Cảnh". Tại sao? Vì chữ "Quy" (龜 - rùa) nghe có vẻ không may mắn, và điều này càng là điều cấm kỵ trong môi trường y tế. Do đó, bệnh viện này thà "mượn" địa danh khu Lâm Khẩu gần đó ở Tân Bắc thị còn hơn là được gọi là "Bệnh viện Quy Sơn".
 
 ## Nghệ thuật ngôn ngữ trong nhà hàng
 
-Ngành dịch vụ ẩm thực ở Đài Loan đã phát triển một bộ kỹ thuật ngôn ngữ tinh tế để tránh các âm trùng cấm khiết. Khi bạn đến nhà hàng dùng bữa, nếu đúng là bốn người, người phục vụ sẽ không trực tiếp nói "bốn người", mà thay vào đó là "3+1 người". Nhiều nhà hàng còn tránh việc in "Món 4" trên thực đơn, chuyển xuống "Món 5".
+Ngành dịch vụ của Đài Loan đã phát triển một bộ kỹ năng ngôn ngữ khéo léo để tránh các cấm kỵ đồng âm. Khi bạn đến nhà hàng dùng bữa và tình cờ có bốn người, nhân viên phục vụ sẽ không nói thẳng "bốn người", mà thay bằng "3+1". Một số nhà hàng thậm chí còn né tránh món "số 4" trên thực đơn, nhảy thẳng sang "món số 5".
 
-Sự cẩn trọng này không chỉ xuất hiện ở các con số. Nhiều trường hợp khác, người ta cũng tránh các từ ngữ có thể gây ra những liên tưởng tiêu cực qua âm trùng. Ví dụ khi cho quà, không chọn đồng hồ (âm trùng của "đưa về" hay "kết thúc"), cũng không chọn trái phong (âm trùng của "tách rời").
+Sự cẩn trọng này không chỉ xuất hiện ở các con số. Trong nhiều trường hợp, mọi người cố gắng tránh sử dụng những từ đồng âm có thể mang lại liên tưởng tiêu cực. Ví dụ, khi tặng quà, họ sẽ không chọn đồng hồ (đồng âm với "tống chung" - kết thúc) và cũng không tặng quả lê (đồng âm với "phân ly").
 
-## Biển số xe có giá trị cao
+## Đấu giá biển số xe giá trên trời
 
-Nếu như tránh "bốn" chỉ vì muốn tránh khỏi những điều không may mắn, thì việc xuấtế ngay các con số may mắn chính là để bắt đầu lại vận mệnh. Ở Đài Loan, các con số trên biển số xe không chỉ là nhãn danh duy nhất, mà còn là biểu tượng của địa vị và may mắn.
+Nếu việc tránh "Tứ" là để cầu may tránh rủi, thì việc tranh giành những con số may mắn lại là để chiêu tài tiến thủ. Ở Đài Loan, các con số trên biển số không chỉ là ký hiệu nhận dạng mà còn là biểu tượng của địa vị và vận mệnh.
 
-Phổ biến nhất là "8888", bởi vì "tám" âm gần với "phát" (phát triển), tượng trưng cho thịnh vượng. Vào năm 2017, có một người dùng 890.000$ để đấu giá biển số "AMG-8888", thiết lập kỷ lục giá cao nhất tại thời điểm đó. "5888" (tám phát phát), "9999" (lâu lâu lâu) cũng là những món hàng được khách quan tâm.
+Loại được ưa chuộng nhất là "8888", vì chữ "Bát" (八) có âm gần với "Phát" (發 - giàu), đại diện cho sự phát tài. Năm 2017, đã có chủ xe đấu giá biển số "AMG-8888" với giá 889.000 Đài tệ, lập kỷ lục giá cao vào thời điểm đó. "5888" (tôi phát phát phát) và "9999" (lâu lâu lâu) cũng là những món hàng được săn đón.
 
-Thú vị là, văn hóa âm trùng cũng có thể "đổi mới". Gần đây, "8787" đang bắt đầu được ưa chuộng, bởi vì nó được giải mã là "không cần" (trong ngôn ngữ địa phương Minh họa "bất cần bất cần"), trong một số bối cảnh, nó trở thành lời từ chối hạn xấu may mắn.
+Điều thú vị là văn hóa đồng âm đôi khi còn có sự "thay triều thay đại". Gần đây, "8787" bắt đầu được ưa chuộng vì nó được giải thích là "không cần" (tiếng Mân Nam: 毋要毋要), trong một số tình huống lại trở thành điềm lành để từ chối vận rủi.
 
-## Số tiền lì xì trong nghi lễ kỵ hoa
+## Toán học con số của phong bì mừng cưới
 
-Người Đài Loan có sự tỉ mỉ trong việc xử lý các con số, thậm chí trong nghi lễ kỵ hoa. Việc đóng gói lì xì không chỉ cần là số chẵn (để tạo nghiệt), mà còn tránh các con số cụ thể, tạo thành một bộ quy tắc tính toán phức tạp.
+Sự tỉ mỉ của người Đài Loan đối với các con số được đẩy lên mức cực điểm trong văn hóa phong bì mừng cưới. Phong bì không chỉ phải là số chẵn (cái tốt thành đôi), mà còn phải tránh một số cụ thể, tạo thành một hệ thống quy tắc tính toán phức tạp.
 
-Các mức lương tặng kỵ hoa thường gặp bao gồm: 1200, 1600, 2000, 2200, 2600, 3200, 3600, 6000, 6600... Bạn sẽ thấy hai đặc điểm của các con số này: đều là số chẵn, và đồng thời tránh "4" và "8".
+Các mệnh giá phong bì mừng cưới phổ biến bao gồm: 1200, 1600, 2000, 2200, 2600, 3200, 3600, 6000, 6600, v.v. Bạn sẽ nhận thấy những con số này có hai đặc điểm: đều là số chẵn và tránh "Tứ" cũng như "Bát".
 
-Tại sao cả "8" cũng bị tránh? Dù "tám" có ý nghĩa tốt về "phát", nhưng trong một số bối cảnh khác, âm của "8" cũng có thể được liên tưởng đến "chia tay" hoặc "không", ám chỉ sự tách rời. Vì vậy, lì xì từ 3600$ nhảy thẳng xuống 6000$, giữa 4000$, 5000$ tất cả đều không được chạm vào.
+Tại sao ngay cả "Bát" cũng bị né? Mặc dù "Bát" mang ý nghĩa tốt lành của sự "Phát", nhưng trong một số tình huống, âm của nó cũng có thể được liên tưởng đến "bại" hoặc "biệt", ám chỉ sự chia ly. Vì vậy, phong bì mừng cưới nhảy thẳng từ 3600 Đài tệ lên 6000 Đài tệ, và dĩ nhiên không chạm vào 4000 hay 5000 ở giữa.
 
-Có một chi tiết thú vị khác: nếu bữa tiệc kỵ hoa sẽ trao bánh cho khách mời, một số người sẽ cộng thêm 600$ vào mức lương tặng, gọi là "lấy tiền bánh", phản ánh sự suy nghĩ tinh tế của người Đài Loan trong các mối quan hệ nhân văn.
+Còn một chi tiết thú vị: nếu tiệc cưới phát bánh mừng (hỷ bính) cho khách mời, một số người sẽ cộng thêm 600 Đài tệ vào mệnh giá phong bì, gọi là "tiền lấy bánh", thể hiện sự cân nhắc tinh tế của người Đài Loan trong các mối quan hệ xã hội.
 
-## Sự khác biệt giữa bắc và nam
+## Sự cân bằng tinh tế giữa Bắc và Nam
 
-Đáng chú ý là, âm trùng cấm khiết cũng có sự khác biệt về khu vực. Người miền Bắc có mức độ nhạy cảm với "bốn" và "tử" không mạnh bằng người miền Nam, và người Hoa đô thị có sự tránh xa các âm trùng cấm khiết hơn người Kinh tài. Điều này phản ánh sự khác biệt về ngôn ngữ và văn hóa của các dân tộc đa dạng ở Đài Loan.
+Điều đáng chú ý là cấm kỵ đồng âm cũng có sự khác biệt theo vùng miền. Người phía Bắc không nhạy cảm với "Tứ" và "Tử" mạnh mẽ như người phía Nam, còn người Quảng Đông lại nghiêm khắc hơn người Khách Gia. Điều này phản ánh sự khác biệt văn hóa ngôn ngữ của các nhóm dân tộc đa dạng ở Đài Loan.
 
-Trong các không gian kinh doanh, để đáp ứng cảm xúc của các dân tộc khác nhau, thường áp dụng phương pháp "chung đại" — vì có người sẽ quan tâm, nên chung tiêu chuẩn tránh, hơn nữa ít hơn một việc hơn là nhiều việc.
+Trong môi trường kinh doanh, để quan tâm đến cảm nhận của các nhóm khác nhau, họ thường áp dụng phương pháp "mẫu số chung lớn nhất"—vì đã có người quan tâm, nên thống nhất tránh đi, thà một chuyện còn hơn hai.
 
-## Tri thức cổ xưa trong xã hội hiện đại
+## Trí tuệ cổ xưa trong xã hội hiện đại
 
-Trong xã hội hiện đại phát triển công nghệ, tại sao người Đài Loan vẫn giữ được những thói quen dường như "siêu nghiên" này? Câu trả lời có thể nằm trong sức mạnh thụ động của văn hóa.
+Trong Đài Loan hiện đại với sự phát triển công nghệ, tại sao vẫn duy trì những thói quen tưởng chừng như "mê tín" này? Câu trả lời có lẽ nằm ở sức quán tính văn hóa.
 
-Âm trùng cấm khiết không chỉ là niềm tin cá nhân, mà còn là một sự đồng lạt xã hội. Khi cả xã hội tuân thủ bộ quy tắc này, vi phạm nó lại trông ngoài lề. Một tòa nhà cao nếu đánh dấu "4 tầng", có thể sẽ ảnh hưởng đến việc cho thuê hay bán; một biển số xe nếu chứa "444", khi chuyển giao chắc chắn sẽ gặp khó khăn.
+Cấm kỵ đồng âm không chỉ là niềm tin cá nhân mà còn là một sự ngầm hiểu của xã hội. Khi toàn bộ xã hội tuân theo hệ thống quy tắc này, việc vi phạm nó ngược lại sẽ trở nên đột ngột. Một tòa nhà nếu ghi nhãn "tầng 4" có thể ảnh hưởng đến cho thuê và bán; một chiếc xe mang số "444" chắc chắn sẽ gặp khó khăn khi sang tên.
 
-Quan trọng hơn, những liệt thề này thường có chi phí rất thấp. Bỏ qua một tầng nhà, thay đổi thành "3+1 người", chọn các con số may mắn cho biển số xe, không cần đầu tư quá nhiều tài nguyên, nhưng vẫn giúp người tham gia có được cảm giác an toàn tinh thần.
+Quan trọng hơn, những điều cấm kỵ này thường có chi phí cực thấp. Bỏ qua một số tầng, nói "3+1", hay chọn biển số may mắn đều không đòi hỏi đầu tư quá nhiều tài nguyên, nhưng lại mang lại cảm giác an toàn về mặt tâm lý cho người tham gia.
 
-## Cơ hội xuất khẩu văn hóa mới
+## Cơ hội mới trong xuất khẩu văn hóa
 
-Thú vị là, khi doanh nghiệp Đài Loan mở rộng ra ngoài, văn hóa âm trùng cũng bắt đầu ảnh hưởng đến thị trường quốc tế. Một số doanh nghiệp đa quốc gia khi thiết kế mẫu sản phẩm, sẽ cố tính tránh các con số có thể gây ra những liên tưởng tiêu cực trong thị trường người Hoa.
+Điều thú vị là, khi các doanh nghiệp Đài Loan mở rộng ra nước ngoài, văn hóa đồng âm cũng bắt đầu ảnh hưởng đến thị trường quốc tế. Một số tập đoàn đa quốc gia cố tình tránh những con số có thể gây liên tưởng tiêu cực trên thị trường Hoa ngữ khi thiết kế mẫu sản phẩm.
 
-hiện tượng này khiến văn hóa âm trùng của Đài Loan từ "đặc sản địa phương" thành một phần của "lực lượng mềm văn hóa", ảnh hưởng đến việc xây dựng chiến lược kinh doanh toàn cầu.
+Hiện tượng này đã biến văn hóa đồng âm của Đài Loan từ "đặc điểm địa phương" thành một phần của "sức mạnh mềm văn hóa", ảnh hưởng đến việc hoạch định chiến lược kinh doanh toàn cầu.
 
-Khi bạn lần sau dùng thang máy ở Đài Loan, thấy các nút nhấn tầng nhà nhảy từ 3 lên 5, hãy nhớ rằng bạn đang chứng kiến một văn hóa cổ động mãi mãi sống sót trong xã hội hiện đại. Đây không chỉ là siêu nghiên, mà còn là niềm tin sâu sắc của một cộng đồng vào sức mạnh của ngôn ngữ — tin rằng những lời nói sẽ thành hiện thực, vì vậy chọn cách nói về những điều tốt lành, tránh những điều xấu.
+Lần tới khi bạn đi thang máy ở Đài Loan và thấy nút tầng nhảy thẳng từ 3 lên 5, xin hãy nhớ: bạn đang chứng kiến sự tồn tại kiên cường của một nền văn hóa cổ xưa trong xã hội hiện đại. Đây không chỉ là mê tín, mà còn là niềm tin sâu sắc của cả một dân tộc vào sức mạnh của ngôn ngữ—tin rằng những gì được nói ra sẽ thành sự thật, nên họ chọn nói điều tốt đẹp và tránh lời lẽ xấu.
 
-Trong hòn đảo đầy âm trùng cấm khiết này, các con số không chỉ là các con số, mà còn là người truyền tải hy vọng và sợ hãi.
+Trên hòn đảo đầy rẫy cấm kỵ đồng âm này, con số không chỉ là con số, mà còn là vật mang hy vọng và sợ hãi.
 
 ## Tài liệu tham khảo
 
-- [Âm trùng của số 4 - Wikipedia](https://zh.wikipedia.org/wiki/四的禁忌)
-- [Chuyên dụ! Biển số âm trùng cũng có "đổi mới" 8888 đã lỗi phai 8787 có người yêu thích](https://theme.udn.com/theme/story/6774/2816580)
-- [2026 kỵ hoa lì xì bao nhiêu tiền? Bảng giá lì xì mới nhất, liệt thề số, cách viết lời chúc tổng hợp](https://www.businessweekly.com.tw/focus/blog/3016539)
-- [Kinh Vong tính Long Khánh? Hòa hợp giữa Tp. Hồ Tây và Thành phố mới có thông tin nội bộ](https://www.chinatimes.com/realtimenews/20210123001049-260405)
-- [Bệnh viện Long Khánh thực sự nằm ở Kinh Vong](https://blog.udn.com/glwang/108403013)
+- [Cấm kỵ của Tứ - Wikipedia](https://zh.wikipedia.org/wiki/四的禁忌)
+- [Thông thái! Đồng âm biển số xe cũng có "thay triều thay đại" 8888 quá lỗi thời, 8787 được ai yêu thích](https://theme.udn.com/theme/story/6774/2816580)
+- [Phong bì mừng cưới năm 2026 bao nhiêu? Bảng giá phong bì mới nhất, cấm kỵ số học và tổng hợp cách viết lời chúc](https://www.businessweekly.com.tw/focus/blog/3016539)
+- [Quy Sơn tính là Lâm Khẩu? Tam Áo, Tân Bắc giao thoa có nội tình](https://www.chinatimes.com/realtimenews/20210123001049-260405)
+- [“Bệnh viện Trường Cảnh Lâm Khẩu” thực chất ở Quy Sơn, Đào Viên](https://blog.udn.com/glwang/108403013)
