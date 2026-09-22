@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T02:37:13+08:00",
-    "zhCommitHead": "e8a96ca86",
+    "lastUpdated": "2026-09-23T02:59:48+08:00",
+    "zhCommitHead": "2e799ccdc",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,40 +60,40 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1058,
-        "stale": 34,
+        "fresh": 1060,
+        "stale": 32,
         "metadata_stale": 15,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 978,
+        "fresh": 979,
         "stale": 59,
         "metadata_stale": 9,
-        "missing": 78,
+        "missing": 77,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1041,
+        "fresh": 1042,
         "stale": 37,
         "metadata_stale": 7,
-        "missing": 39,
+        "missing": 38,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 971,
-        "stale": 53,
-        "metadata_stale": 10,
+        "fresh": 973,
+        "stale": 52,
+        "metadata_stale": 9,
         "missing": 90,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 995,
-        "stale": 56,
+        "fresh": 997,
+        "stale": 54,
         "metadata_stale": 13,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 868,
+        "fresh": 869,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 241,
+        "missing": 240,
         "orphan": 0
       }
     },
@@ -1549,7 +1549,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:4517347444f75a1c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T18:13:11.849761+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 54789,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -1845,18 +1858,18 @@
         "vi": {
           "path": "vi/Music/eggplant-egg-band.md",
           "translatedFrom": "Music/茄子蛋.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:1be7230ba8a26470",
+          "sourceBodyHash": "sha256:448d367a49551ee8",
+          "translatedAt": "2026-09-23T01:05:22+08:00",
           "translationLastCommit": "194f22a7",
           "translationLastModified": "2026-09-02T07:11:01+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 13537,
+          "bytes": 13675,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/eggplant-egg-band.md",
@@ -9790,8 +9803,8 @@
           "sourceContentHash": "sha256:3036381a51c763ef",
           "sourceBodyHash": "sha256:ccfe4d55665e1140",
           "translatedAt": "2026-09-22T17:41:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e799ccd",
+          "translationLastModified": "2026-09-23T02:37:13+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 16282,
@@ -10118,20 +10131,18 @@
         "hi": {
           "path": "hi/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "50617dc14",
-          "sourceContentHash": "sha256:25424dad4bf389f3",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-07-28T08:53:32+08:00",
+          "translatedAt": "2026-09-23T01:05:23+08:00",
           "translationLastCommit": "d22f6eea",
           "translationLastModified": "2026-07-28T10:09:39+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 23618,
+          "bytes": 23714,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/pxmart-supermarket.md",
@@ -13939,38 +13950,34 @@
         "hi": {
           "path": "hi/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-22T18:45:41.372709+00:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 38562,
+          "bytes": 39346,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-22T18:39:29.142446+00:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 25443,
+          "bytes": 26143,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-fintech-development.md",
@@ -25676,20 +25683,18 @@
         "ar": {
           "path": "ar/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T13:21:10.202775+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-22T18:46:11.063076+00:00",
           "translationLastCommit": "7add5777",
           "translationLastModified": "2026-08-04T22:25:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 25897,
+          "bytes": 25652,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -115593,7 +115598,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/cheng-i-nung.md",
+          "translatedFrom": "People/鄭宜農.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:9978590a40b2bfce",
+          "sourceBodyHash": "sha256:2eaa36629936ca3c",
+          "translatedAt": "2026-09-23T01:05:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "bytes": 31999,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150631,20 +150649,18 @@
         "vi": {
           "path": "vi/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-07-25T09:23:02+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-23T01:05:22+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12036,
+          "bytes": 12562,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-seafood-culture.md",
@@ -203713,7 +203729,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/shopping-design.md",
+          "translatedFrom": "Culture/Shopping Design.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:ad45b627d00f528f",
+          "sourceBodyHash": "sha256:da4269ea46f7ec77",
+          "translatedAt": "2026-09-23T01:05:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "bytes": 41829,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/shopping-design.md",
