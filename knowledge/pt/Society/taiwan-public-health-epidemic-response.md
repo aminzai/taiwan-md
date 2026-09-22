@@ -19,10 +19,10 @@ lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '49728f9d5'
-sourceContentHash: 'sha256:84ffcc67e2e155cf'
-sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
-translatedAt: '2026-08-01T23:08:39+08:00'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:eca9dd4ad2636bc6'
+sourceBodyHash: 'sha256:bbdf3516f36f033d'
+translatedAt: '2026-09-22T09:40:08.542312+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 2003, a SARS causou 73 mortes em Taiwan; o fechamento do Hospital Heping tornou-se um trauma coletivo na história da saúde pública. Depois disso, Taiwan reconstruiu quase todo o seu sistema de prevenção de epidemias: o CDC foi elevado, o mecanismo do Centro de Comando Central de Epidemias (CECC) foi legalizado, os processos de controle de infecção foram totalmente reformulados. Em 2020, quando a COVID-19 se espalhou globalmente, Taiwan manteve transmissão comunitária próxima de zero nos primeiros 18 meses, sendo chamada pela comunidade internacional de "modelo de Taiwan". Em abril de 2026, Taiwan registrou o primeiro caso autóctone de "transmissão de ave para humano" de H7N7 — o sistema de prevenção foi testado novamente.
