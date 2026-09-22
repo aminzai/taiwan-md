@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-21T22:06:42.996Z",
+  "_generated": "2026-09-22T22:06:39.157Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -339,8 +339,8 @@
         "image": "/article-images/food/meinong-hakka-leicha-tea-2023.webp"
       },
       {
-        "title": "Taiwan Hand-Shaken Drink Culture",
-        "desc": "From bubble tea to premium tea beverages, the rise of Taiwan's hand-shaken drink culture and its global expansion",
+        "title": "Taiwan's Bubble Tea Culture",
+        "desc": "From pearl milk tea to specialty teas, the rise and global expansion of Taiwan's bubble tea culture",
         "category": "food",
         "href": "/en/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -393,17 +393,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood",
-        "desc": "A bowl of Keelung ding-bian-cu chronicles the wandering of Fujian fishermen; a Changhua ba-wan witnesses Qing Dynasty settlers innovation. 22 counties, 22 survival wisdoms—Taiwan regional food is not just cuisine, its a migration history carved into the land.",
-        "category": "food",
-        "href": "/en/food/taiwan-regional-street-food-map",
-        "date": "2026-09-22T01:05:30+08:00",
-        "readingTime": 15,
-        "image": "/article-images/food/raohe-street-night-market-entrance-2017.webp"
-      },
-      {
         "title": "Taiwan's Rice Food Culture",
-        "desc": "From 85kg to 42kg annually: A rice island nation's dietary revolution and cultural persistence",
+        "desc": "From 85 kg to 42 kg of rice consumed annually: A food revolution and cultural persistence in a rice island nation",
         "category": "food",
         "href": "/en/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -412,7 +403,7 @@
       },
       {
         "title": "Taiwan's Seafood Culture",
-        "desc": "Fresh catches from fishing ports, seafood restaurant culture, and iconic dishes like oyster omelets showcase Taiwan's island character and rich maritime culinary traditions",
+        "desc": "Fresh seafood delivered directly from fishing ports, seafood restaurant culture, and seafood dishes like oyster omelet showcase Taiwan's island characteristics surrounded by the sea and its rich seafood culinary traditions.",
         "category": "food",
         "href": "/en/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -438,8 +429,8 @@
         "image": "/article-images/food/taiwanese-vegetarian-sign.webp"
       },
       {
-        "title": "Taiwanese Ice Cream Culture",
-        "desc": "From Tainan's Tainan Mango Shaved Ice to the Snow Ice Revolution, exploring Taiwan's unique culture of eating ice even in winter",
+        "title": "Taiwanese Dessert Culture",
+        "desc": "From Yujing Mango Ice to the Snow Ice Revolution: Exploring Taiwan's Unique Culture of Eating Ice Even in Winter",
         "category": "food",
         "href": "/en/food/taiwanese-ice-cream-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -447,8 +438,8 @@
         "image": "/article-images/food/taipei-mango-shaved-ice.webp"
       },
       {
-        "title": "Taiwanese New Immigrant Culinary Fusion",
-        "desc": "When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese pho encounters Taiwanese braised delicacies, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not only hometown cuisine but also new possibilities for enriching Taiwan's food culture.",
+        "title": "Taiwanese New Residents' Fusion Cuisine",
+        "desc": "When Thai sour and spicy meets Taiwanese sweet and salty, when Vietnamese rice noodles encounter Taiwanese braised snacks, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly unfolding in Taiwan. New residents bring not only the flavors of their homelands but also entirely new possibilities for Taiwan's food culture.",
         "category": "food",
         "href": "/en/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:30+08:00",
@@ -456,8 +447,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "Taiwanese Noodle Culture",
-        "desc": "From danzai noodles to beef noodle soup, from yangchun noodles to dry mixed noodles, Taiwanese noodle culture blends Hokkien, Mainland Chinese, and innovative elements to form a unique noodle culinary tradition",
+        "title": "Taiwanese Noodle Culture: A Seventy-Year Saga from US Aid Flour to National Delicacy",
+        "desc": "From post-war military family villages to the international stage, Taiwanese noodles have written an epic of migration and homeland memory, starting with US aid flour and fusing regional memories with local innovation.",
         "category": "food",
         "href": "/en/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -544,6 +535,15 @@
         "date": "2026-09-22T01:05:30+08:00",
         "readingTime": null,
         "image": "/article-images/people/chen-chih-chung-hero.webp"
+      },
+      {
+        "title": "Hsu Cho-yun: Ninety-Five Years of History, Written with Two Fingers—and Wang Leehom’s Maternal Granduncle",
+        "desc": "Born in Xiamen in 1930, Hsu Cho-yun came to Taiwan with the Nationalist government in 1949 and moved to Pittsburgh in 1970. Born with limb disabilities and a lifelong wheelchair user, the historian nevertheless typed nearly forty books with the only two fingers through which he could exert force. Winner of the sixth Tang Prize in Sinology in 2024, he donated the entire NT$50 million award to establish the Hsu-Sun Scholarship. He was Wang Leehom’s seventh maternal granduncle and Li Chien-fu’s uncle. Before his death in August 2025, he left one final declaration: “At the moment I draw my last breath, I will still be learning.”",
+        "category": "people",
+        "href": "/en/people/cho-yun-hsu-bridging-historian",
+        "date": "2026-09-22T01:05:30+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/hsu-cho-yun-academia-sinica-hero.webp"
       }
     ],
     "ja": [
@@ -820,6 +820,15 @@
     ],
     "ko": [
       {
+        "title": "롐지아현: 대만에서 가장 멀고 냉전과 가장 가까운 현",
+        "desc": "난간(南竿) 정상에서 바라보면 푸저우성(福州城)이 16km 밖에 있습니다. 타이베이는 200km 떨어져 있고, 롐지아현의 행정 중심지는 공군 쪽입니다. 1617년 선유용(沈有容)이 동거산 아래에서 왜구 69명을 생포했고, 1956년에 국군은 이 5개 섬을 전지정무구역으로 만들었으며, 1992년 금마는 대만보다 5년 늦게 민주화를 이루었습니다. 오늘날 이곳에는 13,646명이 살고 있으며, 마조어의 언어 소멸률은 94%이고, 2012년에 전국에서 유일하게 통과된 도박 주민투표는 아직 결론이 나지 않았습니다. 블루아이크루(藍眼淚)는 매년 20만 명의 관광객을 데려오지만, 현지인들은 통금 시간을 기억합니다. 면적 28.8㎢의 이 현은 대만의 냉전 역사를 자신에게 압축하고 있습니다.",
+        "category": "geography",
+        "href": "/ko/geography/lienchiang-county",
+        "date": "2026-09-23T01:15:52+08:00",
+        "readingTime": 15,
+        "image": "/article-images/geography/matsu-islands-montage.webp"
+      },
+      {
         "title": "Shopping Design: 디자인을 사는 법을 가르치는 잡지가, 마지막에 분간하라고 하는 것은 그 자신이다",
         "desc": "2006년에 창간해 첫 호에서 흰색을 다룬 《Shopping Design》은 20년 동안 디자인을 전시장의 명사에서 가게를 둘러보고 물건을 고르는 일상의 동사로 바꾸어 왔다. 이 잡지가 대만에 정말로 가르친 것은 \"분간하기\"가 하나의 능력으로 단련될 수 있다는 것이었고, 그리고 그 능력을 연간 100선의 명단으로, 계간지로, 축제로 확대했으며, 모회사의 같은 한 장의 \"잡지 출판＋광고 서비스\"의 면허 위로도 확대했다. 그리하여 분간하는 법을 가르치는 이 잡지가 마지막에 분간하라고 하는 대상은, 바로 그 자신이다.",
         "category": "culture",
@@ -856,8 +865,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "객가 음식 문화",
-        "desc": "객가인의 풍부하고 다양한 음식 문화, 전통 차(擂茶)의 깊은 향기부터 야강화묵(野薑花粽)의 산속 정취까지, 객가 민족의 근검절약과 현지 재료 활용의 생활 지혜를 보여준다",
+        "title": "카즈음식문화",
+        "desc": "카즈인의 풍부하고 다양한 음식문화, 레차의 은은한 향기에서 야생생화죽의 산림의 정취까지, 카즈족의 부지런함과 자연산 재료를 활용한 생활 지혜를 보여준다",
         "category": "food",
         "href": "/ko/food/hakka-food-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -883,8 +892,8 @@
         "image": "/article-images/food/shilin-night-market-crowd-2015.webp"
       },
       {
-        "title": "타이완 빵과 제과",
-        "desc": "우바오춘의 세계 챔피언에서 85도씨의 글로벌 확장까지, 타이완식 빵의 독특한 매력 탐구",
+        "title": "타이완의 빵과 베이킹",
+        "desc": "우바오춘(吳寶春)의 세계 챔피언부터 85도C의 국제적 확장까지, 타이식 빵의 독특한 매력을 탐구하다",
         "category": "food",
         "href": "/ko/food/taiwan-bread-and-baking",
         "date": "2026-09-22T01:05:42+08:00",
@@ -910,8 +919,8 @@
         "image": "/article-images/food/xizhen-stinky-tofu-fermented-2019.webp"
       },
       {
-        "title": "대만 원주민 음식 문화",
-        "desc": "AKAME의 불꽃부터 아미족의 야채 우주까지 — 대만 원주민 음식이 3,000년 후 어떻게 세계의 주목을 다시 받게 되었는가",
+        "title": "타이완 원주민 음식문화",
+        "desc": "AKAME의 불꽃에서 아메족의 야채 우주까지 — 타이완 원주민 음식이 3천 년 만에 다시 세계의 시선을 붙잡다",
         "category": "food",
         "href": "/ko/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:42+08:00",
@@ -919,8 +928,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "타이완 쌀 음식 문화",
-        "desc": "연간 85kg에서 42kg으로: 쌀의 섬나라가 맞이한 음식 혁명과 문화적 저항",
+        "title": "타이완의 쌀 음식 문화",
+        "desc": "연간 85kg에서 42kg으로: 한 쌀 섬나라의 식문화 혁명과 문화적 고집",
         "category": "food",
         "href": "/ko/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -946,8 +955,8 @@
         "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
       },
       {
-        "title": "타이완 채식 문화",
-        "desc": "채식 인구 비율 세계 3위, 불교 채식 전통에서 현대적 채식 혁신까지의 문화적 진화",
+        "title": "타이완의 채식 문화",
+        "desc": "타이완 채식 인구 비율 세계 상위권, 불교 채식 전통에서 현대 대체육 혁신까지의 문화적 진화",
         "category": "food",
         "href": "/ko/food/taiwan-vegetarian-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -955,8 +964,8 @@
         "image": "/article-images/food/taiwanese-vegetarian-sign.webp"
       },
       {
-        "title": "대만 빙과 문화",
-        "desc": "옥정 망고빙에서 눈꽃빙 혁명까지, 대만인이 겨울에도 얼음을 먹는 독특한 문화 탐구",
+        "title": "타이완의 빙과 문화",
+        "desc": "옥정 망고 아이스크림부터 설화빙 혁명까지, 겨울에도 아이스크림을 먹는 타이완만의 독특한 문화를 탐구하다",
         "category": "food",
         "href": "/ko/food/taiwanese-ice-cream-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -964,8 +973,8 @@
         "image": "/article-images/food/taipei-mango-shaved-ice.webp"
       },
       {
-        "title": "타이완 신주민 음식 문화 융합",
-        "desc": "태국식 쏨땀이 타이완의 달콤짭짤한 맛을 만날 때, 베트남 쌀국수가 타이완식 루웨이를 만날 때, 인도네시아 향신료가 현지 식재료를 품을 때 - 국경을 초월한 미각 혁명이 타이완에서 조용히 일어나고 있다.",
+        "title": "타이완 신주민(新住民) 음식의 융합",
+        "desc": "태국식 매콤새콤함이 타이완의 달고 짭짤함과 만나고, 베트남 쌀국수가 대만식 찜 요리와 조우하며, 인도네시아 향신료가 현지 식재료를 포용하는 경계 넘는 미각 혁명이 타이완에서 조용히 일어나고 있다. 신주민들이 가져온 것은 고향의 요리뿐만이 아니라 타이완 음식 문화에 새로운 가능성을 더하고 있다.",
         "category": "food",
         "href": "/ko/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:42+08:00",
@@ -1000,8 +1009,8 @@
         "image": "/article-images/art/nml-trial-issue-hero-2011.webp"
       },
       {
-        "title": "메가포트: 항구 옆에서 탄생한 타이완 음악 축제",
-        "desc": "메가포트는 2006년 가오슝 항구 옆에 설립된 타이완의 대형 야외 음악 축제로, 야台 개창 팀과 샤오링 멤버, TRA Music의 큐레이션 경험에서 출발하여 남 타이완 밴드, 타이완어 현장, 국제 라인업, NGO 의제 마을, 항구 도시 풍경을 같은 공간에 모아 놓았다. 이를 통해 가오슝 항구 옆은 타이완의 라이브 하우스 문화, 도시 정체성, 공공 논의가 서로 만나는 중요한 장이 되었다.",
+        "title": "대항개척：타이완 음악제가 태어난 고양항의 풍경",
+        "desc": "대항개척(Megaport Festival)은 2006년 고양항가에서 시작된 대형 야외 음악제입니다. 야간개척팀의 경험을 바탕으로, 사이푸스 멤버와 TRA Music의 기획 경험을 통해 남타이완 밴드, 대화 현장, 국제 라인업, NGO 이슈 마을과 항구 도시 풍경을 하나의 무대로 엮어냈습니다. 이로써 고양항가는 타이완 청중 문화, 도시 정체성, 공공 이슈가 교차하는 중요한 장소가 되었습니다.",
         "category": "music",
         "href": "/ko/music/megaport-festival",
         "date": "2026-09-22T01:05:42+08:00",
@@ -1079,15 +1088,6 @@
         "date": "2026-09-22T01:05:42+08:00",
         "readingTime": 15,
         "image": "/article-images/lifestyle/taishan-toll-station-2008.webp"
-      },
-      {
-        "title": "1935년 신주 타이중 지진: 청수 전멸 이후, 거리는 어떻게 지진을 기억하게 되었는가",
-        "desc": "1935년 4월 21일 새벽 6시 2분, 관도산 부근에서 발생한 리히터 규모 6.9의 지진은 신주주와 타이중주를 갈라놓으며 3,279명의 사망자와 11,976명의 부상자, 17,927채의 가옥 전파를 초래했다. 청수 지역 인사 양조가는 명함 뒷면에 '청수 전멸'이라 적었고, 황완성은 일기에 가족이 우물가로 피난한 상황을 기록했다. 재해 이후 부흥위원회, 철도 복구, 시가지 개조, 지진 관측은 한 재앙을 새로운 통치 질서로 바꾸었으며, 동시에 누가 안전을 결정할 권리를 가지는지에 대한 문제를 남겼다.",
-        "category": "history",
-        "href": "/ko/history/1935-hsinchu-taichung-earthquake",
-        "date": "2026-09-22T00:49:37+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "es": [
@@ -1182,8 +1182,8 @@
         "image": "/article-images/food/meinong-hakka-leicha-tea-2023.webp"
       },
       {
-        "title": "La cultura de las bebidas preparadas a mano en Taiwán",
-        "desc": "Desde el té de burbujas hasta las infusiones premium, el auge y la expansión global de la cultura taiwanesa de bebidas preparadas a mano",
+        "title": "La cultura de las bebidas preparadas en Taiwán",
+        "desc": "Desde el té de burbujas hasta las infusiones gourmet: el auge y la expansión global de la cultura de las bebidas preparadas en Taiwán",
         "category": "food",
         "href": "/es/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1191,8 +1191,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "Cultura del Mercado Nocturno",
-        "desc": "La cultura del mercado nocturno es uno de los símbolos culturales más distintivos de Taiwán. No solo preserva la esencia de",
+        "title": "Cultura de los mercados nocturnos de Taiwán",
+        "desc": "164 mercados nocturnos registrados, con Taipéi teniendo un promedio de 38,000 habitantes por mercado; desde plazas de templos hasta atracciones turísticas internacionales",
         "category": "food",
         "href": "/es/food/night-market-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1236,8 +1236,8 @@
         "image": "/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp"
       },
       {
-        "title": "La cultura culinaria indígena de Taiwán",
-        "desc": "Desde las llamas de AKAME hasta el universo de silvestres de los amis: cómo la gastronomía indígena de Taiwán reaviva la atención del mundo tras tres mil años",
+        "title": "La cultura alimentaria de los pueblos indígenas de Taiwán",
+        "desc": "Desde el fuego de AKAME hasta el universo vegetal del pueblo A-mei: cómo la gastronomía indígena de Taiwán reaviva la mirada mundial tras tres milenios.",
         "category": "food",
         "href": "/es/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1245,8 +1245,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "La cultura del arroz en Taiwán",
-        "desc": "De 85 kg a 42 kg al año: la revolución alimentaria y la persistencia cultural de una isla arrocera",
+        "title": "La cultura alimentaria de Taiwán: del arroz como sustento principal a la revolución dietética",
+        "desc": "De consumir 85 kg a 42 kg de arroz al año: una revolución dietética y persistencia cultural en una nación isleña productora de arroz.",
         "category": "food",
         "href": "/es/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1254,8 +1254,8 @@
         "image": "/article-images/food/rice-dumpling-zongzi.webp"
       },
       {
-        "title": "La cultura del marisco en Taiwán",
-        "desc": "Mariscos frescos directos del puerto pesquero, cultura de restaurantes de mariscos, platos como el omelette de ostras (蚵仔煎), que reflejan las características insulares de Taiwán, rodeada de mar por los cuatro costados, y su rica tradición gastronómica marina.",
+        "title": "Cultura del marisco en Taiwán",
+        "desc": "Frescura directa de los puertos pesqueros, cultura de restaurantes de mariscos y platos como el *o-zai jian*, mostrando la identidad insular rodeada por el mar y la rica tradición gastronómica de mariscos.",
         "category": "food",
         "href": "/es/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1272,8 +1272,8 @@
         "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
       },
       {
-        "title": "La cultura vegetariana de Taiwán",
-        "desc": "La proporción de población vegetariana en Taiwán se encuentra entre las tres más altas del mundo, desde la tradición vegetariana budista hasta la evolución cultural de la innovación moderna en sucedáneos vegetales",
+        "title": "Cultura vegetariana de Taiwán",
+        "desc": "La proporción de población vegetariana en Taiwán se encuentra entre las tres más altas del mundo, evolucionando desde la tradición budista hasta la innovación moderna de los sustitutos alimenticios.",
         "category": "food",
         "href": "/es/food/taiwan-vegetarian-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1281,8 +1281,8 @@
         "image": "/article-images/food/taiwanese-vegetarian-sign.webp"
       },
       {
-        "title": "La cultura del hielo en Taiwán",
-        "desc": "Del mango de Yuching a la revolución del hielo de nieve, explorando la cultura única de los taiwaneses que comen helado incluso en invierno",
+        "title": "La cultura de los postres helados en Taiwán",
+        "desc": "Desde el mango congelado de Yujing hasta la revolución del hielo picado, una exploración de la cultura única de comer helados en invierno en Taiwán",
         "category": "food",
         "href": "/es/food/taiwanese-ice-cream-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1290,8 +1290,8 @@
         "image": "/article-images/food/taipei-mango-shaved-ice.webp"
       },
       {
-        "title": "Fusión culinaria de los nuevos residentes en Taiwán",
-        "desc": "Cuando el picante tailandés se encuentra con el dulce-salado taiwanés, cuando los fideos vietnamitas se cruzan con los guisos taiwaneses, y cuando las especias indonesias abrazan los ingredientes locales, una revolución gastronómica transfronteriza está ocurriendo silenciosamente en Taiwán. Los nuevos residentes no solo traen las recetas de su tierra natal, sino también nuevas posibilidades para enriquecer la cultura culinaria taiwanesa.",
+        "title": "Fusión gastronómica de los residentes extranjeros en Taiwán",
+        "desc": "Cuando el picante agrio tailandés se encuentra con lo dulce y salado taiwanés, cuando el *pho* vietnamita se encuentra con la comida ahumada taiwanesa, o cuando las especias indonesias abrazan ingredientes locales, una revolución gustativa que trasciende fronteras está ocurriendo en Taiwán. Los residentes extranjeros no solo traen la cocina de su tierra natal, sino también nuevas posibilidades para la cultura gastronómica de Taiwán.",
         "category": "food",
         "href": "/es/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1299,8 +1299,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "La cultura del fideo taiwanés",
-        "desc": "Desde los dependencias militares de posguerra hasta el escenario internacional, la cultura del fideo taiwanés ha recorrido setenta años desde la harina proporcionada por la ayuda estadounidense, fusionando la memoria provincial con la innovación local para escribir una epopeya culinaria de migración y tierra natal.",
+        "title": "Cultura de la comida con fideos en Taiwán: setenta años desde la harina estadounidense hasta el plato nacional",
+        "desc": "Desde los asentamientos militares posguerra hasta el escenario internacional, la comida con fideos de Taiwán ha escrito una épica gastronómica de inmigración y tierra natal, comenzando con la harina de ayuda estadounidense y fusionándose con recuerdos provinciales e innovación local.",
         "category": "food",
         "href": "/es/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1472,8 +1472,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "La culture des marchés de nuit à Taïwan",
-        "desc": "164 marchés de nuit officiellement répertoriés, un pour 38 000 habitants à Tainan — des parvis de temples aux destinations touristiques internationales",
+        "title": "La culture des marchés nocturnes de Taïwan",
+        "desc": "164 marchés nocturnes gérés, Taïnan comptant en moyenne 38 000 habitants pour un marché nocturne, des ruelles aux attractions touristiques internationales",
         "category": "food",
         "href": "/fr/food/night-market-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1526,8 +1526,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "La culture du riz à Taïwan",
-        "desc": "De 85 kg à 42 kg par an : la révolution alimentaire d'une île de rizières et la résistance de sa culture traditionnelle",
+        "title": "Culture du riz à Taïwan",
+        "desc": "De 85 kg par an à 42 kg : la révolution alimentaire et la persistance culturelle d'une nation insulaire du riz",
         "category": "food",
         "href": "/fr/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1571,8 +1571,8 @@
         "image": "/article-images/food/taipei-mango-shaved-ice.webp"
       },
       {
-        "title": "La fusion culinaire des nouveaux immigrants à Taïwan",
-        "desc": "Quand l'acidité piquante thaïlandaise rencontre le goût doux-salé taïwanais, quand le pho vietnamien croise le lu wei braisé à la mode locale, quand les épices indonésiennes épousent les ingrédients du terroir — une véritable révolution gustative se déroule en silence à Taïwan. Les nouveaux immigrants n'ont pas seulement apporté la cuisine de leur pays natal : ils ont offert à Taïwan de nouvelles possibilités pour enrichir sa culture gastronomique.",
+        "title": "La fusion gastronomique des nouveaux résidents à Taïwan",
+        "desc": "Quand l'acidité épicée thaïlandaise rencontre le sucré-salé taïwanais, quand les vermicelles vietnamiens rencontrent les plats mijotés taïwanais, ou lorsque les épices indonésiennes adoptent des ingrédients locaux, une révolution gustative transcendant les frontières se déroule discrètement à Taïwan. Les nouveaux résidents n'apportent pas seulement la cuisine de leur pays d'origine, mais aussi un tout nouveau potentiel pour la culture gastronomique taïwanaise.",
         "category": "food",
         "href": "/fr/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1580,8 +1580,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "La culture des nouilles à Taïwan : soixante-dix ans d'histoire, de mémoire et d'innovation culinaire",
-        "desc": "De la farine américaine de l'après-guerre aux tables du monde entier, la culture des nouilles taïwanaises tisse ensemble la nostalgie des migrants, le génie local et une créativité qui ne s'est jamais éteinte.",
+        "title": "La culture des nouilles à Taïwan : de la farine d'aide américaine au plat national, une épopée gastronomique sur sept décennies",
+        "desc": "De l'ère des villages militaires post-guerre à la scène internationale, les nouilles taïwanaises ont écrit une épopée culinaire de l'immigration et du retour aux sources, en partant de la farine d'aide américaine pour fusionner les mémoires régionales avec l'innovation locale.",
         "category": "food",
         "href": "/fr/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1607,8 +1607,8 @@
         "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
       },
       {
-        "title": "Sunset Rollercoaster : d'une photo de fond Photo Booth à Coachella, 14 ans à chanter le crépuscule de Taipei en anglais",
-        "desc": "En 2010, un étudiant de 19 ans choisit au hasard le preset « Sunset Rollercoaster » de Mac Photo Booth comme photo de profil MySpace. Quatorze ans plus tard, ce groupe devient le premier groupe taïwanais invité à Coachella en plus de vingt ans. Tout en anglais, City Pop subtropicale, sans s'appuyer sur un système industriel : à partir d'une simple silhouette de montagnes russes prise au vol, ils ont inventé la manière dont Taïwan s'est le plus fait entendre dans le monde.",
+        "title": "Sunset Rollercoaster : 14 ans de musique en anglais, d'un fond de photo booth à Coachella",
+        "desc": "En 2010, un étudiant de 19 ans a choisi par hasard le préréglage « Sunset Rollercoaster » pour son avatar MySpace avec Mac Photo Booth. Quatorze ans plus tard, ce groupe est devenu le premier groupe taïwanais invité à Coachella en plus de vingt ans. En anglais, dans une ambiance City Pop subtropicale et sans dépendre du système industriel, ils ont créé la manière dont Taïwan est entendu par le monde, à partir d'une silhouette de montagnes russes prise au hasard.",
         "category": "music",
         "href": "/fr/music/sunset-rollercoaster",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1635,6 +1635,33 @@
       }
     ],
     "vi": [
+      {
+        "title": "Huang Đại Văn: Bài hát viết trong vài giờ, anh dùng bốn thế kỷ để quên đi",
+        "desc": "Vào mùa hè 1979 tại một sân vận động ở Hawaii, cậu thiếu niên 15 tuổi Huang Đại Văn đã xem một buổi biểu diễn nhạc rock nặng với Judas Priest. Về nhà, anh tự học dưới sự giúp đỡ của một chiếc đàn guitar được giáo viên tặng. Không biết nói tiếng Trung tốt, anh dùng sự hỗ trợ của Yao Nhiên Lan và Trần Gia Lí để biểu đạt cảm xúc cá nhân thành lời ca bằng tiếng Trung. Giọng rưng rưng của anh đã bứt phá trong làng nhạc Trung Hoa Dân Quốc; ca từ \"Em làm tôi say đắm\" được viết trong vài giờ nhưng lại trở thành bóng đêm mà anh muốn quên đi suốt đời mình. Thường được gọi là \"ông ngoại\" bởi Trương Học Lăng, người cha mẹ anh là cháu ngoại của ông— một người muốn thoát khỏi di sản và một ca khúc thần kỳ, nhưng thế giới chỉ nhớ hai điều đó.",
+        "category": "people",
+        "href": "/vi/people/david-wong",
+        "date": "2026-09-23T01:40:23+08:00",
+        "readingTime": 14,
+        "image": "/article-images/people/huangdawei-shouxialiuqing-1994.webp"
+      },
+      {
+        "title": "Hệ thống Chức vụ Trưởng Làng: 7.748 Vị trí do người dân bầu cử, đơn vị chính trị cơ sở sâu nhất của Đài Loan",
+        "desc": "Sáng sớm lúc 5 giờ 30 phút, văn phòng Trưởng Làng ở một con hẻm ở Quận Wanhua, Đài Bắc, cửa sổ kim loại bị kéo từ từ mở ra. Đèn phòng hành lực sáng hơn cả quán cà phê. Một Trưởng Làng đã bốn năm liền giữ chức đang kiểm kê danh sách cà phi giao cho hôm nay — ghi chép ai cần ăn mềm, ai gần đó vừa rồi khỏe mạnh, ai hôm qua vì bệnh đã về lại nhà. Bảng danh sách ghi tên 12 người cai chiếu, anh nhớ từng tên riêng như danh sách trong hệ thống dữ liệu làng, dù không có.",
+        "category": "politics",
+        "href": "/vi/politics/village-chief-system",
+        "date": "2026-09-23T01:38:30+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Mô Na Lũ Đường: Anh hùng kháng Nhật được đúc lên đồng xu 20 đồng, và thế giới không có Trung Quốc cũng không có Nhật Bản",
+        "desc": "Năm 2001, Ngân hàng Trung ương Đài Loan đã đúc khuôn mặt của anh hùng kháng Nhật Mô Na Lũ Đường lên đồng xu 20 đồng. Tuy nhiên, nhà đúc tiền tệ không tìm thấy bất kỳ hình ảnh nào của ông trong toàn bộ tài liệu trong nước, cuối cùng đã tìm thấy trong một tạp chí tiếng Nhật. Từ sáng sớm của cuộc thi thể thao Wushe năm 1930, cho đến một thi thể đã trở thành mẫu vật dùng khoảng bốn mươi năm, ba thể chế pháp quyền mỗi người đều cần đến ông. Nhưng thế giới mà ông thực sự bảo vệ — nơ có cây cầu màu, xăm mình và Gaya — thì từ trước đến nay không bao giờ có Trung Quốc cũng không có Nhật Bản.",
+        "category": "people",
+        "href": "/vi/people/mona-rudao",
+        "date": "2026-09-23T01:15:52+08:00",
+        "readingTime": 20,
+        "image": "/article-images/people/mona-rudao-seediq-leaders-1931.webp"
+      },
       {
         "title": "Chiayi: Thành phố được Hoàng đế ban tặng tên \"Chiayi\", nhưng trở thành \"Trưởng\"",
         "desc": "Năm Thanh Càn Long thứ 52, tế sắc ban tặng Chúy La đổi tên thành \"Chiayi\" — đây là thành phố duy nhất ở Đài Loan được Hoàng đế cấp tên. Năm 1908, người Nhật lập toà tháp đầu tiên trên thế giới chỉ thị Bắc Hồi Quy tuyến ở cánh đồng cách phía tây nam thành phố 3,3 km. Năm 1931, đội bóng chày Chiayi Nông Lâm gồm ba dân tộc (Hán, nguyên dân Đài Loan, người Nhật) tiến vào phần mềm của Kōshien（甲子園）. Ngày 25 tháng 3 năm 1947, họa sĩ Trần Trừng Ba（陳澄波） bị trói tại ga tàu và bị súng bắn, thi thể để lại trên đường phố ba ngày. Ngày nay Chiayi có 260.000 dân cư, diện tích 60 km², không có nhà ga cao tốc — là mẫu hình của một thành phố trung bình Đài Loan.",
@@ -1753,8 +1780,8 @@
         "image": ""
       },
       {
-        "title": "Văn hóa Kuai Kuai tại Đài Loan: Món ăn vặt màu xanh trở thành thần hộ mệnh của ngành công nghệ như thế nào",
-        "desc": "Từ máy tính của nghiên cứu sinh đến thiết bị của TSMC, vì sao người Đài Loan tin rằng Kuai Kuai màu xanh có thể giúp máy móc vận hành ngoan ngoãn?",
+        "title": "Văn hóa \"Quai Quai\" của Đài Loan: Bánh kẹo xanh trở thành vị thần hộ mệnh ngành công nghệ",
+        "desc": "Từ máy tính sinh viên đến các thiết bị tại TSMC, tại sao người dân Đài Loan tin rằng bánh kẹo xanh có thể giúp máy móc hoạt động trơn tru?",
         "category": "culture",
         "href": "/vi/culture/taiwan-kuaikuai-culture",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1762,8 +1789,8 @@
         "image": ""
       },
       {
-        "title": "Cảnh quan âm thanh Đài Loan: nhạc cổ điển từ xe rác, tiếng chim trên tàu điện ngầm, và một đảo chỉ nghe thấy chứ ít khi lắng nghe",
-        "desc": "Cùng một năm, đường tàu Đài Bắc vừa tìm Lôi Quang Hạ, Lý Hân Vân để biến nhạc vào ga thành tác phẩm nghệ thuật, vừa loại bỏ giai điệu cảnh báo đóng cửa, thay bằng tiếng chim. Tiếng âm cùng lúc bị thẩm mỹ hóa và chức năng hóa. Những tiếng âm mà Đài Loan muốn loại bỏ bằng Luật kiểm soát tiếng ồn, thực ra lại là những mốc định hướng để ta nhận ra \"đây là nhà\". Một sinh viên thạc sĩ chuyên ngành cảnh quan âm thanh đặt ra câu hỏi: hiểu rõ Đài Loan có thể bắt đầu từ việc hỏi \"chúng ta thường bỏ qua những tiếng âm nào\".",
+        "title": "Cảnh quan âm thanh Đài Loan: Âm nhạc cổ điển của xe rác, tiếng chim kêu trên tàu điện ngầm, và một hòn đảo chỉ được nghe thấy mà ít ai lắng nghe",
+        "desc": "Trong cùng một năm, tàu điện ngầm Đài Bắc vừa biến nhạc vào ga thành nghệ thuật với sự góp mặt của Lôi Quang Hạ, Lý Hân Vân, vừa loại bỏ giai điệu cảnh báo đóng cửa, thay bằng tiếng chim kêu. Âm thanh được cả hóa và chức năng hóa. Những âm thanh mà Đài Loan dùng \"Luật kiểm soát tiếng ồn\" để xóa bỏ, thực chất là những dấu mốc giúp chúng ta nhận ra \"đây là nhà\". Câu hỏi của một nghiên cứu sinh về cảnh quan âm thanh: Hiểu về Đài Loan có thể bắt đầu từ việc tự hỏi \"chúng ta thường lờ đi những âm thanh nào\"?",
         "category": "culture",
         "href": "/vi/culture/taiwan-soundscape",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1798,12 +1825,12 @@
         "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
       },
       {
-        "title": "Tchoukball: 43 năm vô địch thế giới \"vô hình\" của Đài Loan",
-        "desc": "Năm 1977, một giáo sư Đài Loan mang từ Anh về một khung lưới, tình cờ khiến \"bóng quân tử\" do người Thụy Sĩ phát minh trùm xuống trong các trường học Đài Loan. Hơn 40 năm sau, đội tuyển Đài Loan ổn định đứng đầu thế giới, liên đoàn quốc tế đặt tại Cao Hùng, nhưng vẫn là môn thể thao lạ lẫm với đa số người Đài Loan.",
+        "title": "Bóng Tchoukball: Nhà Vô Danh Giành Huy Chương Vàng Thế Giới 43 Năm Của Đài Loan",
+        "desc": "Năm 1977, một giáo sư người Đài Loan mang về từ Anh một bộ khung lưới, vô tình giúp môn \"Quân Tử Cầu\" do Thụy Sĩ phát minh bén rễ trong các trường học Đài Loan. Hơn 40 năm sau, đội tuyển Đài Loan vững vị trí số một thế giới, và dù tổng hội quốc tế đặt tại Cao Hùng, đây vẫn là một môn thể thao ít người biết đến với đa số người dân nơi đây.",
         "category": "culture",
         "href": "/vi/culture/tchoukball-in-taiwan",
         "date": "2026-09-22T01:05:58+08:00",
-        "readingTime": "12",
+        "readingTime": 12,
         "image": ""
       },
       {
@@ -1816,8 +1843,8 @@
         "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
       },
       {
-        "title": "Trà sữa trân châu",
-        "desc": "Một hành động tình cờ trong cuộc họp nhân viên tại Đài Trung năm 1987 đã đưa một thức uống chinh phục toàn cầu. Tranh cãi về nguồn gốc, chính trị văn hóa và cuộc tranh luận về sức khỏe xoay quanh một ly trà sữa trân châu chứa 500 kilocalorie.",
+        "title": "Trà trân châu: Hành trình chinh phục thế giới từ một cuộc họp nhân viên",
+        "desc": "Cuộc họp nhân viên tại Đài Trung năm 1987, một hành động vô tình đã khiến thức uống này chinh phục toàn cầu. Tranh cãi về nguồn gốc trà trân châu, chính trị văn hóa và cuộc tranh luận về sức khỏe của một ly đồ uống chứa 500 calo.",
         "category": "food",
         "href": "/vi/food/bubble-tea",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1826,7 +1853,7 @@
       },
       {
         "title": "Văn hóa trà Đài Loan",
-        "desc": "Một hòn đảo nhỏ bị các thế lực chủ chốt trong ngành trà thế giới loại bỏ khỏi hiệp định hạn chế xuất khẩu, nhưng lại tạo ra thời kỳ vàng của ngành trà, cuối cùng chinh phục thế giới bằng một ly trà sữa có thêm 'bánh nhỏ'",
+        "desc": "Một hòn đảo bị loại ra khỏi quy định sản lượng thế giới nhưng vì thế mà tạo ra thời kỳ hoàng kim của ngành trà, cuối cùng dùng một ly trà sữa thêm “món ăn nhỏ” để chinh phục thế giới",
         "category": "food",
         "href": "/vi/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1834,8 +1861,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "Nền ẩm thực Khách Gia",
-        "desc": "Nền ẩm thực phong phú và đa dạng của người Khách Gia, từ hương thơm ngậu của trà xay đến hương vị rừng núi của bánh tẻ hoa tây, thể hiện khôn ngoan sống tiết kiệm và sử dụng nguyên liệu địa phương của dân tộc",
+        "title": "Văn hóa ẩm thực người Khách Gia",
+        "desc": "Văn hóa ẩm thực phong phú và đa dạng của người Khách Gia, từ hương vị đậm đà của trà lèi đến nét mộc mạc của bánh ú hoa dại, thể hiện trí tuệ sống cần cù, tiết kiệm và tận dụng tài nguyên địa phương của cộng đồng này.",
         "category": "food",
         "href": "/vi/food/hakka-food-culture",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1843,8 +1870,8 @@
         "image": "/article-images/food/meinong-hakka-leicha-tea-2023.webp"
       },
       {
-        "title": "Văn hóa trà sữa pha lắc Đài Loan",
-        "desc": "Từ trà sữa trân châu đến thức uống trà cao cấp, sự trỗi dậy và mở rộng toàn cầu của văn hóa trà sữa pha lắc Đài Loan",
+        "title": "Văn hóa trà sữa Đài Loan",
+        "desc": "Từ trà sữa trân châu đến đồ uống cao cấp, sự trỗi dậy và mở rộng toàn cầu của văn hóa trà sữa Đài Loan",
         "category": "food",
         "href": "/vi/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1861,8 +1888,8 @@
         "image": ""
       },
       {
-        "title": "Văn hóa chợ đêm",
-        "desc": "164 chợ đêm được quản lý, trung bình mỗi 38.000 người ở Đài Nam có một chợ đêm, từ sân đền đến điểm du lịch quốc tế",
+        "title": "Văn hóa chợ đêm Đài Loan",
+        "desc": "164 khu chợ đêm được quản lý, Đài Nam có trung bình 38.000 người sở hữu một khu chợ đêm, từ sân chùa đến điểm du lịch quốc tế",
         "category": "food",
         "href": "/vi/food/night-market-culture",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1870,40 +1897,13 @@
         "image": "/article-images/food/shilin-night-market-crowd-2015.webp"
       },
       {
-        "title": "Văn hóa lên men và muối chua của Đài Loan",
-        "desc": "Từ đậu hũ thối đến đậu hũ lên men, khám phá công nghệ lên men độc đáo và truyền thống muối chua của Đài Loan",
+        "title": "Văn hóa thực phẩm lên men và đồ muối của Đài Loan",
+        "desc": "Từ đậu phụ thối đến đậu tương sữa, khám phá truyền thống kỹ thuật lên men và văn hóa muối độc đáo của Đài Loan",
         "category": "food",
         "href": "/vi/food/taiwan-fermented-and-pickled-foods",
         "date": "2026-09-22T01:05:58+08:00",
         "readingTime": 15,
         "image": "/article-images/food/xizhen-stinky-tofu-fermented-2019.webp"
-      },
-      {
-        "title": "Đài Loan: Vương Quốc Trái Cây — Nơi Đảo Quốc Này Trồng Mỗi Trái Trái Cây Như Một Sinh Mệnh Và Ký Ức",
-        "desc": "Từ buổi sáng sớm trên sườn đồi Ngọc Tỉnh, những cây bưởi Mã Đầu cổ thụ, phiên đấu giá lúc nửa đêm tại滨江市场, đến những bà ngoại gọt trái cây, và vườn trái cây của công nhân di cư nước ngoài cùng bọ xít vải: hòn đảo cận nhiệt đới này đã biến trái cây thành một cách thức đối thoại với đất đai, với các thế hệ, và với thế giới.",
-        "category": "food",
-        "href": "/vi/food/taiwan-fruit-kingdom",
-        "date": "2026-09-22T01:05:58+08:00",
-        "readingTime": 16,
-        "image": "/article-images/food/fruit-kingdom-mango-fangliao-2009.webp"
-      },
-      {
-        "title": "Văn hóa ẩm thực của các dân tộc bản địa Đài Loan",
-        "desc": "Từ ngọn lửa AKAME tới vũ trụ rau dại của người Amis — cách ẩm thực bản địa Đài Loan reignite ánh nhìn của thế giới ba nghìn năm sau",
-        "category": "food",
-        "href": "/vi/food/taiwan-indigenous-foodways",
-        "date": "2026-09-22T01:05:58+08:00",
-        "readingTime": 12,
-        "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
-      },
-      {
-        "title": "Văn hóa ẩm thực gạo Đài Loan",
-        "desc": "Từ 85 kg/năm xuống 42 kg: Cách mạng ẩm thực và sự kiên định văn hóa của một quốc đảo lúa gạo",
-        "category": "food",
-        "href": "/vi/food/taiwan-rice-cuisine-culture",
-        "date": "2026-09-22T01:05:58+08:00",
-        "readingTime": 12,
-        "image": "/article-images/food/rice-dumpling-zongzi.webp"
       }
     ],
     "id": [
@@ -2225,8 +2225,8 @@
         "image": ""
       },
       {
-        "title": "Hualien: O povo Sakizaya, invisível por 129 anos; o Taroko, devolvido pelo reconhecimento oficial, e o 0403, que o afastou novamente",
-        "desc": "Em 1878, o exército Qing amarrou Komod Pazik, chefe da tribo Takivuban, a uma árvore de banyan e o esquartejou; o povo Sakizaya se escondeu entre os Amis por 129 anos. Em 2004, o povo Taroko emergiu dos Atayal, tornando-se a 12ª etnia; em 2007, o governo de Tsai Ing-wen reconheceu os Sakizaya como a 13ª etnia. Em 3 de abril de 2024, às 7h58, os 98 segundos do terremoto de magnitude 7.1 destruíram de uma vez o Yanzi Kou, o Jiudong e a trilha Sakadang do Parque Nacional Taroko. Em 2024, os turistas foram apenas 210.000; em anos normais, são 6,6 milhões. Em uma terra entre montanhas e mar, com apenas 5 km de largura no ponto mais estreito, o destino dos 6 povos indígenas sempre oscila junto com as placas tectônicas.",
+        "title": "Condado de Hualien: Os Sakizaya, invisíveis por 129 anos; o Taroko recuperado pelo nome, e a tragédia do 0403 que o afastou novamente",
+        "desc": "Em 1878, os líderes da tribo Kamalan foram torturados em um lago; os Sakizaya se esconderam entre os Amis por 129 anos. Em 2004, a tribo Truku emergiu como a 12ª; em 2007, o governo Chen Shui-bian reconheceu os Sakizaya como a 13ª. No dia 3 de abril de 2024, um terremoto de magnitude 7.1 destruiu partes do Parque Nacional Taroko. Em uma terra fina entre montanhas e mar, as vidas de seis povos indígenas balançam com as placas tectônicas.",
         "category": "geography",
         "href": "/pt/geography/hualien-county",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2243,8 +2243,8 @@
         "image": "/article-images/geography/matsu-islands-montage.webp"
       },
       {
-        "title": "Penghu: duas recusas ao cassino, a Ilha do Crisântemo escolheu não ser apenas pobre",
-        "desc": "Em 26 de setembro de 2009, Ma Ying-jeou anunciou os resultados: 17.359 votos contra, o cassino perdeu por 3.962 votos. Sete anos depois, em 2016, votaram novamente: 81,07% contra. Uma ilha distante com apenas 1.000 mm de chuva anual, 108.000 habitantes registrados mas apenas 80.000 residentes, realizou o primeiro referendo local sobre jogos de azar do país e votou novamente. No mesmo mar, em 1604 Shen Yourong fez os holandeses recuarem; em 1622 os holandeses mudaram de Bafawei para Tainan; em 1885 o comandante francês Courbet morreu de doença no porto de Magong. As colunas de basalto de 17,4 milhões de anos ainda estão lá, 89 ilhas são de rocha vulcânica negra, 1 é de andesita mais antiga. Nas paredes de pedra dos campos de vegetais de inverno, as culturas crescem ao abrigo do vento.",
+        "title": "Penghu: Duas Recusas a Cassino, A Ilha Escolheu Não Ser Pobre",
+        "desc": "Em 26 de setembro de 2009, Ma Gong votou, com 17.359 votos contra e 3.962 votos a favor do cassino. Sete anos depois, em 2016, houve outro voto, com 81,07% contra. Uma ilha isolada com apenas 1.000 milímetros de chuva por ano, 108 mil residentes registrados, mas apenas 80 mil habitantes, realizou o primeiro plebiscito local sobre jogos no país e depois um segundo. Na mesma área marítima, Shen Yourong fez os holandeses recuarem em 1604; os holandeses mudaram de Fengguiwei para Tainan em 1622; e o comandante francês morreu de doença em Magong em 1885. As colunas de basalto de 17,4 milhões de anos ainda existem, e há 89 ilhas de rocha vulcânica negra e uma mais antiga de andesito. No muro de pedra da casa de vegetais no inverno, as culturas crescem na área protegida do vento.",
         "category": "geography",
         "href": "/pt/geography/penghu-county",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2252,8 +2252,8 @@
         "image": ""
       },
       {
-        "title": "Condado de Taitung: Duas Ilhas Afastadas, Uma Prendeu Presos Políticos por Trinta e Seis Anos, a Outra Armazenou Lixo Nuclear por Quarenta e Dois Anos",
-        "desc": "O Condado de Taitung tem 210 mil pessoas espalhadas por 3.515 km², a menor densidade do país, com apenas 60 habitantes por km², um centésimo de Taipé. Mas este condado abriga o mais antigo assentamento humano de Taiwan (Sítio de Peinan, 5.300 anos atrás, 1.600 caixões de pedra), alberga seis povos indígenas (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao), com proporção de população indígena de 37,5%, a mais alta de Taiwan. De 1951 a 1987, Lü-tao (Ilha Verde) prendeu presos políticos do Terror Branco por trinta e seis anos. A partir de maio de 1982, Lan-yü (Ilha das Orquídeas) começou a receber lixo nuclear; quarenta e dois anos depois, 97.672 barris ainda estão lá. Em 25 de agosto de 1968, sete crianças bunun da Aldeia Hung-yeh venceram por 7 a 0 o Time Estrelas de Beisebol Infantil de Kansai do Japão (não o time campeão mundial), e o mito do beisebol como esporte nacional de Taiwan começou a partir dessa fraude. Duas ilhas afastadas arcaram com o preço de uma ilha inteira.",
+        "title": "Taittung: Duas ilhas, um local com 36 anos de prisioneiros políticos e outro com lixo nuclear há 42 anos",
+        "desc": "O condado de Taittung tem 210 mil habitantes espalhados por 3.515 quilômetros quadrados, a menor densidade do país, com apenas 60 pessoas por quilômetro quadrado, ou um por cento de Taipei. Mas este condado abriga os mais antigos assentamentos humanos de Taiwan (Sítio Beinan, há 5.300 anos, com 1.600 sarcófagos), e seis povos indígenas (Amis, Beinan, Paiwan, Rukai, Bunun, Atayal). A proporção da população indígena é a mais alta de todo o país, em 37,5%. De 1951 a 1987, as ilhas Green Island e Huo Xiao Island abrigaram prisioneiros políticos por trinta e seis anos. Desde maio de 1982, Lanyu e Longmen começaram a receber lixo nuclear, e depois de quarenta e dois anos, ainda há 97.672 barris lá. Em 25 de agosto de 1968, sete crianças Bunun da Vila Hongye derrotaram o time estrela Kansai do Japão (que não era campeão mundial) com uma pontuação de sete a zero, e o mito nacional do beisebol taiwanês começou com este engano. Duas ilhas carregam o preço de uma ilha inteira.",
         "category": "geography",
         "href": "/pt/geography/taitung-county",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2387,8 +2387,8 @@
         "image": ""
       },
       {
-        "title": "O Eco da Era de Ouro: De Chá de Mengchen a Copos de Plástico, o Conteúdo do Chá de Taiwan Trocou por Cem Anos",
-        "desc": "Na era Qing, os ricos senhores de Taiwan eram exigentes ao beber chá, seguindo o ditado \"o bule deve ser de Mengchen\"; hoje, o movimento reflexivo dos trabalhadores de escritório ao entrar em uma loja de chá de mão é \"pouco açúcar, pouco gelo\". Ao longo de mais de cem anos, o chá de Taiwan trocou o pequeno bule do chá de gongfu, a lata de estanho do chá de competição e o copo de plástico do chá de mão. Em 1869, Dodd mudou o chá de Fujian para o sobrenome \"Formosa\" e o enviou para Nova York; em 1976, o chá campeão de Lugou foi vendido por cinco mil yuan por um jin; em 2025, havia 16.000 lojas de chá de mão em todo Taiwan. O que sempre mudou foi o conteúdo, mas o que não mudou foi a energia desta ilha de transformar oportunidades externas em seu próprio sabor.",
+        "title": "Ecos da Era de Ouro: De potes Mengchen a copos de plástico, o chá taiwanês trocou de recipiente em cem anos",
+        "desc": "Os ricos da era Qing bebiam chá exigindo \"o pote deve ser Mengchen\", e hoje os trabalhadores de escritório reagem ao entrar em uma loja de chás prontos com \"pouco açúcar e pouco gelo\". Ao longo dos mais de cem anos, o chá taiwanês trocou pequenos potes de chá Gongfu, latas de chá premiado e copos de plástico de bebidas prontas. Em 1869, Tod introduziu o chá de Fujian em Nova York sob o nome \"Formosa\", em 1976, um quilo do chá campeão de Lugou foi vendido por cinco mil yuans, e em 2025, há dezesseis mil lojas de chás prontos em todo o país. O que mudou sempre foram os recipientes; a força desta ilha para transformar oportunidades externas em seu próprio sabor permaneceu.",
         "category": "culture",
         "href": "/pt/culture/taiwanese-tea-culture-and-living-aesthetics",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2405,8 +2405,8 @@
         "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
       },
       {
-        "title": "Chá de bolhas",
-        "desc": "Em uma reunião de funcionários realizada em Taichung em 1987, um gesto casual fez uma bebida conquistar o mundo. A controvérsia sobre a origem do chá de bolhas, sua política cultural e o debate sobre a saúde em torno de uma bebida de 500 quilocalorias.",
+        "title": "Chá de Perolada (Bubble Tea)",
+        "desc": "Um evento em uma loja de Taiwan em 1987, um gesto acidental conquistou o mundo. A controvérsia da origem do chá de perolada, a política cultural e o debate sobre saúde de uma bebida com 500 calorias.",
         "category": "food",
         "href": "/pt/food/bubble-tea",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2423,8 +2423,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "Cultura Alimentar Hakka",
-        "desc": "A rica e diversificada cultura alimentar do povo Hakka, desde o aroma intenso do chá batido (lei cha) até o sabor montanhoso dos zongzi de flor de gengibre selvagem, revela a sabedoria de vida dos Hakka, laboriosos e econômicos, que sabem aproveitar os recursos locais",
+        "title": "Cultura alimentar Hakka",
+        "desc": "A rica e diversificada cultura alimentar Hakka, do aroma reconfortante do chá de Hakka até a atmosfera serena do chá de raiz selvagem, refletindo a sabedoria de vida de trabalho ás margens e a criatividade de usar o que está à mão",
         "category": "food",
         "href": "/pt/food/hakka-food-culture",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2432,8 +2432,8 @@
         "image": "/article-images/food/meinong-hakka-leicha-tea-2023.webp"
       },
       {
-        "title": "Cultura de bebidas agitadas à mão de Taiwan",
-        "desc": "Do chá de leite com pérolas ao chá de especialidade, a ascensão e expansão global da cultura de bebidas agitadas à mão de Taiwan",
+        "title": "A Cultura dos Bebidas Geladas de Taiwan",
+        "desc": "Da bubble tea ao chá gourmet: a ascensão e expansão global da cultura das bebidas geladas de Taiwan",
         "category": "food",
         "href": "/pt/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2497,12 +2497,12 @@
         "image": ""
       },
       {
-        "title": "ताइवान का सफ़ेद दहशतवाद",
-        "desc": "38 साल के आपातकालीन कानून को हज़ारों गुप्त पुलिसकर्मियों द्वारा नहीं, बल्कि ताइवान के दो मिलियन परिवारों द्वारा एक-दूसरे की गारंटी देने के \"सह-दोषी गारंटी\" प्रणाली द्वारा बनाए रखा गया था। चें ज़hi-शियांग, शी शुई-ह्वान, ग़ाओ यी-शेन, बाई यांग—चार नाम, चार गिरफ़्तारी के कारण, एक सामान्य मशीन।",
+        "title": "ताइवान का श्वेत आतंक",
+        "desc": "38 वर्षों की सैन्य तानाशाही हजारों गुप्तचरों से नहीं, बल्कि एक 'पारस्परिक गारंटी' प्रणाली से कायम रही, जिसमें पूरे ताइवान के दो मिलियन परिवारों को नौकरी, स्कूल और शादी के लिए एक-दूसरे की गारंटी देनी पड़ती थी। चेन झी-श्योंग, शी शुई-ख्वान्, गाओ यी-शेंग, और बाई यांग—चार नाम, चार गिरफ्तारी के कारण, एक साझा मशीन।",
         "category": "history",
         "href": "/hi/history/taiwan-white-terror",
         "date": "2026-09-22T01:05:09+08:00",
-        "readingTime": "11",
+        "readingTime": 11,
         "image": ""
       },
       {
@@ -2996,6 +2996,15 @@
     ],
     "ru": [
       {
+        "title": "Нью-Пэй: кольцо вокруг Тайбея, 4 млн жителей поддерживают столичный транспорт, промышленность и память",
+        "desc": "Городок Хутайн (Красный город) в Тайнбине с 1628 года, когда испанцы положили первый кирпич, уже 398 лет. Это на 247 лет раньше, чем Сунь Пэйцзинь основал Тайбэйский округ в 1875 году. Сегодня 29 районов Нью-Пэя окружают 12 районов Тайбея, в этом крупнейшем прямом управлении провинции живут 4 млн человек, 390 тыс. жителей ездят на работу в Тайбэй через границы города. Но это не спальный городок — в нём есть золотая жила Линьчжоу, открытая в 1853 году, улун-чай из Тайнбина, продававшийся в Нью-Йорке ещё в 1869 году, первая в Азии золотая жила Джингуаршань в 1890-х годах, железная дорога Пинсинь, открытая в 1929 году для перевозки угля, резьба по столбам у храма Зисань в Саньцзе, начатая Ли Мэйцзинь в 1947 году, и племя народа тайя в Дэлань в Улай. Нью-Пэй — это уменьшенная копия Тайваня за 400 лет, только не в пределах Тайбея.",
+        "category": "geography",
+        "href": "/ru/geography/new-taipei-city",
+        "date": "2026-09-23T01:15:52+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
         "title": "Город Цзяи: император даровал имя «Цзяи», но он стал самым легко упускаемым из виду городом провинциального подчинения",
         "desc": "В 52-м году Цяньлуна (1787) императорским указом «Чжулуо» переименовали в «Цзяи» — единственный в Тайване город, получивший имя от императора лично. В 1908 году японцы в рисовых полях в 3,3 км к юго-западу от города установили первый в мире столб Северного тропика. В 1931 году смешанная команда Цзяи Нуньлинь (KANO) из японцев, ханьцзю и коренных жителей достигла финала Косиэна. 25 марта 1947 года художника Чэнь Чэнбо расстреляли у вокзала, тело лежало на улице три дня. Сегодня Цзяи — 260 тыс. человек, 60 км², без станции ВСЖД, полностью окружён округом Цзяи — эталон тайваньского среднего города.",
         "category": "geography",
@@ -3032,8 +3041,8 @@
         "image": "/article-images/geography/miaoli-tung-blossom-festival-2023.webp"
       },
       {
-        "title": "Тайдун: два острова, на одном держали политзаключенных тридцать шесть лет, на другом хранили ядерные отходы сорок два года",
-        "desc": "В округе Тайдун 210 тысяч человек разбросаны на 3515 квадратных километрах — самая низкая плотность в стране, всего 60 человек на квадратный километр, одна сотая от Тайбея. Но этот округ скрывает древнейшее человеческое поселение Тайваня (памятник Пейнань, 5300 лет назад, 1600 каменных саркофагов), живут шесть коренных народов (ами, пейнань, пайван, рукай, бунун, тао), доля коренного населения 37,5% — самая высокая на Тайване. С 1951 по 1987 год на острове Людао (Остров Огня) держали политзаключенных тридцать шесть лет. С мая 1982 года в Луньмэне на острове Ланью начали принимать ядерные отходы, сорок два года спустя 97 672 бочки всё ещё там. 25 августа 1968 года семь детей бунун из деревни Хунье победили команду звёзд детского бейсбола Кансай (Япония) со счётом 7:0 (не чемпионы мира) — миф о бейсболе как национальном виде спорта Тайваня начался с этого обмана. Два острова понесли цену за целый остров.",
+        "title": "Тайдун: два острова, один содержал политических заключенных тридцать шесть лет, другой хранит ядерные отходы сорок два года",
+        "desc": "В уезде Тайдун проживает 210 тысяч человек на площади 3515 квадратных километров, что является самой низкой плотностью населения в стране — всего 60 человек на квадратный километр, или один процент от Тайбэя. Однако этот уезд хранит самые ранние поселения человека на Тайване (археологический памятник Бинан, 1600 каменных гробниц за 5300 лет), и является домом для шести коренных народов (Амэ, Бинан, Павань, Лукай, Бунонг, Даго) с самой высокой долей коренного населения в стране — 37,5%. С 1951 по 1987 год на острове Люцзинь содержали тридцать шесть лет политических заключенных. С мая 1982 года остров Ланьюй начали принимать ядерные отходы, и спустя сорок два года там все еще находятся 97 672 бочки. 25 августа 1968 года семь детей племени Бунонг из деревни Хунъе победили знаменитую команду Кансай в Японии (не чемпионов мира), и миф о национальной гордости Тайваня начался с этой обманчивой игры. Два острова несут цену целого острова.",
         "category": "geography",
         "href": "/ru/geography/taitung-county",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3041,8 +3050,8 @@
         "image": "/article-images/geography/taitung-county-montage.webp"
       },
       {
-        "title": "Тайваньская чайная культура",
-        "desc": "Остров, исключённый из международного соглашения об ограничении производства чая, тем не менее создал золотой век чайной промышленности и в итоге покорил мир одной чашкой молокового чая с «маленьким перекусом»",
+        "title": "Культура чая Тайваня",
+        "desc": "Остров, исключённый из международного соглашения по ограничению производства чая, тем не менее создал золотую эпоху чайной промышленности и в итоге завоевал мир одной чашкой молокового чая с «маленькой закуской»",
         "category": "food",
         "href": "/ru/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3050,8 +3059,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "Культура ночных рынков",
-        "desc": "164 официально зарегистрированных ночных рынка, в Тайбэе в среднем на 380 000 жителей приходится один ночной рынок, от древних рынков у подножия храма до международных туристических достопримечательностей",
+        "title": "Культура ночных рынков Тайваня",
+        "desc": "164 зарегистрированных ночных рынка, в Тайнане в среднем 38 тысяч человек на один рынок: от храмовых площадей до международных туристических достопримечательностей",
         "category": "food",
         "href": "/ru/food/night-market-culture",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3060,7 +3069,7 @@
       },
       {
         "title": "Культура питания коренных народов Тайваня",
-        "desc": "От огня AKAME до вселенной дикорастущих растений ами — как питание коренных народов Тайваня через три тысячелетия вновь привлекло внимание мира",
+        "desc": "От пламени Акаме до космической кухни амами: как кухня коренных народов Тайваня зажгла мировой интерес спустя три тысячелетия",
         "category": "food",
         "href": "/ru/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3068,8 +3077,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "Культура рисовой еды Тайваня",
-        "desc": "От 85 кг в год до 42 кг: пищевая революция и культурная стойкость рисового островного государства",
+        "title": "Культура рисовой пищи Тайваня",
+        "desc": "От 85 кг в год до 42 кг: пищевая революция и культурное наследие острова риса",
         "category": "food",
         "href": "/ru/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3078,7 +3087,7 @@
       },
       {
         "title": "Культура морепродуктов Тайваня",
-        "desc": "Свежайшие морепродукты прямо из рыбных портов, культура ресторанов морепродуктов, омлет с устрицами и другие морепродуктовые блюда демонстрируют островные особенности Тайваня, окружённого морем со всех сторон, и его богатые гастрономические традиции морепродуктов",
+        "desc": "Свежесть с первых лодок, культура рыбных рынков, блюда из морепродуктов — от остеров до пасты с устрицами — демонстрируют островную изоляцию и богатое морское кушание Тайваня",
         "category": "food",
         "href": "/ru/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3086,8 +3095,8 @@
         "image": "/article-images/food/keelung-kanziding-fish-market-2007.webp"
       },
       {
-        "title": "Кулинарное слияние новых жителей Тайваня",
-        "desc": "Когда тайская кисло-острая кухня встречается с тайваньским сладко-солёным, когда вьетнамский фо сталкивается с тайваньским лувэй, когда индонезийские специи обнимают местные ингредиенты — на Тайване тихо происходит вкусовая революция, переступающая границы. Новые жители приносят не только блюда своей родины, но и совершенно новые возможности для обогащения тайваньской гастрономической культуры.",
+        "title": "Кулинарное слияние среди новых резидентов Тайваня",
+        "desc": "Когда тайская кислинка встречается со сладковато-соленым вкусом Тайваня, когда вьетнамский фо встречает лару (тушеное мясо) в стиле Тайваня, а индонезийские специи обнимают местные ингредиенты — тихая кулинарная революция происходит на Тайване. Новые резиденты приносят не только кухню родного края, но и новые возможности для обогащения гастрономической культуры Тайваня.",
         "category": "food",
         "href": "/ru/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3096,7 +3105,7 @@
       },
       {
         "title": "Культура лапши Тайваня",
-        "desc": "От послевоенных поселений вэцзюнь до международной арены: за семьдесят лет тайваньская лапша, начавшаяся с американской помощи мукой, объединила провинциальные воспоминания и местные инновации, написав гастрономическую эпопею мигрантов и родных краев",
+        "desc": "От послевоенных поселений вэцзюнь до международной арены: за семьдесят лет лапша Тайваня, начавшаяся с американской мучной помощи, объединила провинциальные воспоминания и местные инновации, написав гастрономическую эпопею мигрантов и родных краев",
         "category": "food",
         "href": "/ru/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3104,8 +3113,8 @@
         "image": "/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp"
       },
       {
-        "title": "Sunset Rollercoaster: от фона Photo Booth до Coachella — 14 лет, в которых они поют о закате Тайбэя на английском",
-        "desc": "В 2010 году 19-летний студент случайно выбрал пресет «Sunset Rollercoaster» в Mac Photo Booth для аватарки MySpace. Через 14 лет эта группа стала первой тайваньской командой за более чем 20 лет, приглашённой на большую сцену Coachella. На английском, в стиле субтропического сити-попа, без опоры на индустриальную машину — они превратили случайный силуэт американских горок в самый узнаваемый в мире звук Тайваня.",
+        "title": "Sunset Rollercoaster: 14 лет от фотографии из фотобудки до Кочелла, поющие о тайваньском закате на английском",
+        "desc": "В 2010 году 19-летний студент использовал пресет «Sunset Rollercoaster» в Mac Photo Booth в качестве аватара MySpace. Через 14 лет эта группа стала первой таиваньской группой, приглашенной на фестиваль Coachella за более чем двадцать лет. Говорящий исключительно на английском языке, играющий субтропический сити-поп и не связанный с индустриальной системой, они создали самый узнаваемый образ Тайваня для мира, используя силуэт американских горок, сделанный вскользь.",
         "category": "music",
         "href": "/ru/music/sunset-rollercoaster",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3113,8 +3122,8 @@
         "image": "/article-images/music/sunset-rollercoaster-live-2018.webp"
       },
       {
-        "title": "Чэнь Чжицзун: от семейного антрополога до политической катастрофы под «законом против чёрных»",
-        "desc": "В 2008 году Чэнь Чжицзун вынужденно прервал учёбы и вернулся на Тайвань из-за дела о переводе денег за рубежом, что запустило его политическую карьеру, переплетённую с судебными спорами. Он дважды победил на выборах в муниципальный совет Кэйхунь с наибольшим количеством голосов, но трижды был отстранён от должности из-за дел. После прохождения в 2023 году закона о борьбе с коррупцией его политический путь, казалось бы, завершился, однако он переключился на платформы новых социальных сетей, такие как Threads, где в шутливом диалоге с отцом Чэнь Сюйбин он демонстрирует необычную семейную динамику и цифровое возвращение.",
+        "title": "Чжэнь Чжонь: трех раз избран в Совет города Каосинга, два срока заканчиваются в законодательных актах",
+        "desc": "18 августа 2008 года началось обучение новозачисленным студентам юридической школы Университета Вирджинии, и Чжэнь Чжонь, который собирался получить степень J.D., не появился, и его право на поступление было отозвано в тот же день. После этого его трижды избирали в Совет города Каосинга, причем два срока заканчивались в момент окончательного решения суда, и в между времени он провел в тюрьме 272 дней. В решении, окончательно утвержденном в апреле 2023 года, лишение чинных полномочий не предусмотрено. Через месяц после этого был принят законопроект о запрете незаконных кандидатур, который не позволяет ему снова зарегистрироваться как кандидат.",
         "category": "people",
         "href": "/ru/people/chen-chih-chung",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3255,15 +3264,6 @@
         "date": "2026-09-22T01:04:22+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Женское движение на Тайване: от журналов военного положения к законам, переписывающим семью и школу",
-        "desc": "В 1971 году Лю Сюлен выдвинула новую феминистскую теорию; в 1982 году Ли Юаньчжэнь и другие основали журнал «Новые знания для женщин»; а ночные демонстрации после убийства Пэн Ване-жу в 1996 году привели к принятию законов о гендерном равенстве, предотвращении домашнего насилия и равной занятости. История женского движения на Тайване — это не просто борьба за квоты, а превращение того, что называлось бытовой обязанностью, травмы, заботы и труда, в общественные проблемы, предоставившие женщинам системный язык для жалоб на рабочем месте, в семье и в школе.",
-        "category": "history",
-        "href": "/ru/history/taiwan-womens-movement",
-        "date": "2026-09-22T01:04:22+08:00",
-        "readingTime": 12,
-        "image": "/article-images/history/taiwanese-female-student-japanese-era.webp"
       }
     ],
     "de": [

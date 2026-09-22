@@ -98,17 +98,17 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📄 Total articles (zh-TW SSOT) | 1122  |
 | 🇹🇼 Chinese (zh-TW)             | 1122  |
 | 🇺🇸 English (en)                | 1108  |
-| 🇯🇵 日本語 (ja)                 | 1047  |
+| 🇯🇵 日本語 (ja)                 | 1058  |
 | 🇰🇷 한국어 (ko)                 | 1106  |
-| 🇪🇸 Español (es)                | 1104  |
-| 🇫🇷 Français (fr)               | 1105  |
+| 🇪🇸 Español (es)                | 1109  |
+| 🇫🇷 Français (fr)               | 1110  |
 | 🇻🇳 Tiếng Việt (vi)             | 1107  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1026  |
-| 🇵🇹 Português (pt)              | 1079  |
-| 🇮🇳 हिन्दी (hi)                 | 1027  |
-| 🇸🇦 العربية (ar)                | 1058  |
-| 🇷🇺 Русский (ru)                | 1074  |
-| 🌐 Deutsch (de)                | 856   |
+| 🇮🇩 Bahasa Indonesia (id)       | 1049  |
+| 🇵🇹 Português (pt)              | 1091  |
+| 🇮🇳 हिन्दी (hi)                 | 1034  |
+| 🇸🇦 العربية (ar)                | 1064  |
+| 🇷🇺 Русский (ru)                | 1076  |
+| 🌐 Deutsch (de)                | 889   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
@@ -116,7 +116,7 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ⭐ GitHub Stars                | 1187  |
 | 🍴 Forks                       | 187   |
 | 📅 Articles last 7 days        | 44    |
-| 📅 Articles last 30 days       | 115   |
+| 📅 Articles last 30 days       | 102   |
 
 <!-- STATS:END -->
 
@@ -580,8 +580,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   <tr>
     <td align="center"><a href="https://github.com/frank890417"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="100px;" alt=""/><br /><sub><b>Che-Yu Wu</b></sub></a><br />💻 🖋️ 🎨 🤔 🌍 📖 📆</td>
     <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />💻 🖋️</td>
-    <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>

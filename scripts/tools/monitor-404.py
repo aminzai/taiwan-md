@@ -108,7 +108,21 @@ SCANNER_RE = re.compile(
     # Root-level dotfiles are never a real route here; .well-known is a
     # separate family and is excluded explicitly.
     r"|^/\.(?!well-known/)|secret|credential|\.(key|pem|sdb)$|/aws/"
-    r"|^/(login|config\.js|constants\.js|app-config\.json|appsettings[^/]*\.json)$",
+    r"|^/(login|config\.js|constants\.js|app-config\.json|appsettings[^/]*\.json)$"
+    # 2026-09-23 framework / infra probing — 09-22 交接的條件（unknown 連兩夜過半
+    # 且榜首換成探路檔名）當夜成立：unknown 2,252 佔 57%，榜首 /config.yml。
+    # 這族是框架預設路徑與設定檔名（/configs/application.ini、/debug/vars、
+    # /actuator/env/...、/v1/graphql、/telescope/requests、/docker-compose.yaml、
+    # /id_rsa、/payment_gateways/stripe.yaml），不是任何一條站上路由。
+    # 校準：對 public/api/articles.json 的 27,850 條真實路由字串 0 誤判，
+    # 且不從其他家族搶件（per REFLEXES #66 用真實產出 dogfood、#99 尺先驗再用）。
+    r"|^/(config|configs?/[^/]+|application|docker-compose[^/]*|composer\.(lock|json)"
+    r"|package-lock\.json)\.(ya?ml|ini|json|js)$"
+    r"|^/(phpinfo|server-info|server-status|debug/vars|id_rsa|node_modules(/.*)?"
+    r"|telescope/requests|v1/graphql|graphql)$"
+    r"|^/actuator(/|$)|^/api/(config|settings)$|^/configs?/|^/payment_gateways/"
+    r"|^/aws-config\.js$|\.(zip|bak|tfvars|sql\.gz|tar\.gz)$|\.config\.js$"
+    r"|^/(helm|charts?)/|^/app/etc/|^/ses\.json$|/values\.ya?ml$",
     re.IGNORECASE,
 )
 STALE_ASSET_RE = re.compile(r"^/_astro/")

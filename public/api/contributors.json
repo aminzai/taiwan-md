@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T22:06:02.442Z",
+  "lastUpdated": "2026-09-22T22:06:01.674Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9804,
+      "commits": 9807,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -34,6 +34,20 @@
       }
     },
     {
+      "login": "aminzai",
+      "commits": 90,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
+      "profileUrl": "https://github.com/aminzai",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "tboydar",
       "commits": 89,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
@@ -45,20 +59,6 @@
         "content": 10,
         "system": 6,
         "translation": 87
-      }
-    },
-    {
-      "login": "aminzai",
-      "commits": 87,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
-      "profileUrl": "https://github.com/aminzai",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     },
     {
@@ -302,18 +302,18 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "tboydar",
-      "name": "Dar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
-      "profileUrl": "https://github.com/tboydar",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "aminzai",
       "name": "aminzai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "types": ["💻"]
+    },
+    {
+      "login": "tboydar",
+      "name": "Dar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
+      "profileUrl": "https://github.com/tboydar",
+      "types": ["💻", "🖋️", "🌍"]
     },
     {
       "login": "Link1515",
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9804,
+      "commits": 9807,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
