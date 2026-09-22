@@ -95,7 +95,7 @@ Các 200 đoạn âm thanh đó chính là cách anh làm việc. Khi nói về 
 Huấn luyện viên trước đó Nguyễn Văn Bảo, khi tổ chức bữa tiệc sinh nhật, mới biết được mức độ kỵ lệ của anh. Huang Đại Văn luôn giữ nguyên quy tắc: không bao giờ biểu diễn hát trong các hoàn cảnh công khai nếu không có thiết bị âm nhạc chuyên nghiệp. Nhưng lần này, anh xuất hiện vì tình bạn, chỉ dùng một giáo viên điện kèm đơn sơ mà thắng. Nguyễn Văn Bảo tự thuyết phục sau khi được thông báo: "David rất kỵ lệ về chi tiết âm nhạc, trong các hoàn cảnh công khai nếu không có thiết bị âm nhạc riêng, anh chưa từng biểu diễn hát".\[^21\]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="⟦U1⟪" title="Huang Đại Văn〈Rơi đau của mỗi người〉Coden Official MV" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Hmd3kx4ozwo" title="Huang Đại Văn〈Rơi đau của mỗi người〉Coden Official MV" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 _MV chính thức của Nhà xuất bản Coden:〈Rơi đau của mỗi người〉. Đoạn solo đàn guitar và chuyển đổi giọng đặc trưng của anh đã khiến người ta nhớ suốt ba mươi năm._
@@ -120,7 +120,7 @@ Từ ngôn ngữ chính xác hơn là "thư thái". Năm 2008, anh tổ chức t
 Với các tác giả trẻ, anh là một người có tầm ảnh hưởng. Đào Hạt Qí viết sau khi anh rời đời: "Anh là một linh hồn tự do, cảm ơn âm nhạc của anh, sự khuyến khích, sự gần gũi của anh, và mọi thứ của anh".\[^30\] Trương Quốc Huy nhớ đêm đầu vào nghề đến studio của anh: "Đêm đó, chúng tôi đã trò chuyện với âm nhạc suốt cả đêm, khi rời đi, trái tim tôi đầy ấn tượng và tràn đầy sự khơi lách".\[^31\]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="⟦U2⟪" title="Huang Đại Văn〈Bay lên với gió〉Coden Official MV" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/1VZE1yHJS6A" title="Huang Đại Văn〈Bay lên với gió〉Coden Official MV" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 _MV chính thức của Nhà xuất bản Coden:〈Bay lên với gió〉（2018）. Anh tạm thời rời xa đông đại, nhưng vẫn tiếp tục sáng tác, chưa từng rời đi._
@@ -222,7 +222,7 @@ Các video YouTube nhúng trong bài viết〈Rơi đau của mỗi người〉�
 
 [^26]: [PTS+ Drama Go: Bài phỏng vấn với Huang Đại Văn《Bác sĩ ngoại khu》Kim Lan](https://dramago.ptsplus.tv/articles/23363/) — Huang Đại Văn nói về nguyên nhân làm âm nhạc "Tôi làm âm nhạc vì tôi không muốn mặc áo khoác， cài cột tai và mặc giày dép da".
 
-[^27]: [Business Today: Các bài viết về Huang Đại Văn](https://www.businesstoday.com.tw/article-content-80730-149809-%E9%BB%83%E5%A4%A7%E7%85%92%E7%9A%84%E4%BA%BA%E8%88%87%E6%AD%8C%E3%80%80%E9%83%BD%E5%9B%9E%E4%BE%86%E4%BA%8B%EF%BC%81%20P.134) — Bài viết năm 2000， mô tả Huang Đại Văn "bốn năm không phát hành album"， sau đó ra mắt album《Mùa thu 1944》復出（Li Zhongsheng， Trương Huyền Nhi đứng đầu）， và mô tả anh trước đó "dù xuất sắc， nhưng vô tình biến mất trong làng nhạc pop"， để nhiều người không hiểu và thất lòng.
+[^27]: [Business Today: Các bài viết về Huang Đại Văn](https://www.businesstoday.com.tw/article-content-80730-149809-%E9%BB%83%E5%A4%A7%E7%85%92%E7%9A%84%E4%BA%BA%E8%88%87%E6%AD%8C%E3%80%80%E9%83%BD%E5%9B%9E%E4%BE%86%E4%BA%86%EF%BC%81%20P.134) — Bài viết năm 2000， mô tả Huang Đại Văn "bốn năm không phát hành album"， sau đó ra mắt album《Mùa thu 1944》復出（Li Zhongsheng， Trương Huyền Nhi đứng đầu）， và mô tả anh trước đó "dù xuất sắc， nhưng vô tình biến mất trong làng nhạc pop"， để nhiều người không hiểu và thất lòng.
 
 [^28]: [Wikipedia tiếng Trung: Huang Đại Văn](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%A4%A7%E7%85%92) — Ghi nhận các hoạt động nghệ thuật giữa thời gian: tour "Sáu loại giác quan" thế giới năm 2008， đăng sân vận động nhỏ ở Đài Bắc năm 2010， làm giáo viên hướng dẫn trên truyền hình tại Tứ Chuyện《Hát ra tình yêu》năm 2014， tổ chức "Hội hòa âm nhạc" trên truyền hình tại Sichuan năm 2017， tổ chức concert "1010" tại Trung tâm Hội nghị Quốc tế Đài Bắc năm 2019， mời các khách mời trẻ như ØZI và J.Sheon.
 

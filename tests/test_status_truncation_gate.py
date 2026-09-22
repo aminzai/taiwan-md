@@ -52,8 +52,10 @@ def test_armor_residue_is_forced_stale_even_with_matching_provenance():
 
 
 def test_armor_residue_regex_catches_both_engine_shapes():
-    """整篇引擎是 ⟦U12⟧、分段與 patch 引擎是 @@LINK3@@——只認一種等於只擋一條引擎。"""
+    """整篇引擎是 ⟦U12⟧、分段與 patch 引擎是 @@LINK3@@——只認一種等於只擋一條引擎。
+    而且只認**開括號**：第一版要求形狀完整（`⟦...⟧`），當天就被 vi 黃大煒篇打臉，
+    那兩個 iframe 的 src 是 `⟦U1⟪`，模型把收尾括號換成別的符號就穿過去了。"""
     hits = MODULE.ARMOR_RESIDUE_RE.findall(
-        "正文 ⟦U12⟧ 與 [text](@@LINK3@@) 還有 ⟦Un⟧ 這種壞掉的")
-    assert len(hits) == 3
+        "正文 ⟦U12⟧ 與 [text](@@LINK3@@) 還有 ⟦Un⟧、以及壞掉的 ⟦U1⟪")
+    assert len(hits) == 4
     assert MODULE.ARMOR_RESIDUE_RE.findall("乾淨的譯文沒有任何佔位符") == []

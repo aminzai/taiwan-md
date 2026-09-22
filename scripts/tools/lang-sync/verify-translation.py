@@ -660,7 +660,7 @@ def main():
     # 原則的收尾：持有就要驗自己有沒有還回去，不能只驗模型有沒有亂改。
     # 兩種形狀都要認：整篇引擎的 ⟦U12⟧ 與分段／patch 引擎的 @@LINK3@@。
     # 只認一種等於只擋住一條引擎（實測 ⟦Un⟧ 殘留 10 份、@@LINKn@@ 3 份）。
-    armor_residue = re.findall(r"⟦[^⟧\n]{0,12}⟧|@@\s*LINK[^@\s]{0,8}@@", en_content)
+    armor_residue = re.findall(r"⟦[^\n]{0,14}|@@\s*LINK[^@\s]{0,8}@@", en_content)
     if armor_residue:
         add("no armor placeholder residue", "FAIL",
             f"{len(armor_residue)} 個未還原的佔位符：{', '.join(sorted(set(armor_residue))[:5])}")

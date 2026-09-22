@@ -44,9 +44,11 @@ TRUNCATION_RATIO = 0.5
 # 裝甲佔位符的兩種形狀：整篇引擎的 ⟦U12⟧（translate.py tokenize_urls）與分段／
 # patch 引擎的 @@LINK3@@（structured-translate.py _protect_embedded_links）。
 # 判準跟 verify-translation.py「no armor placeholder residue」那條同源（兩處要一起改）。
-# ⟦⟧ 內不限數字：實測有模型把指示裡的字面 `⟦Un⟧` 原樣抄進正文（ar 對外貿易篇），
-# 只認 `⟦U\d+⟧` 會漏掉它——形狀認得越死，模型的變體就越容易穿過去。
-ARMOR_RESIDUE_RE = re.compile(r"⟦[^⟧\n]{0,12}⟧|@@\s*LINK[^@\s]{0,8}@@")
+# 判準只認**開括號**，不要求形狀完整：本班第一版寫 `⟦[^⟧]{0,12}⟧`，當天就被自己
+# 的語料打臉——vi 黃大煒篇兩個 YouTube iframe 的 src 是 `⟦U1⟪`，模型把收尾括號
+# 換成了另一個符號，於是那一版規則掃不到，兩支影片在站上壞了兩個月沒人知道。
+# zh 母稿全庫零個 `⟦`，所以譯文裡出現它必然來自裝甲，開括號本身就是完整訊號。
+ARMOR_RESIDUE_RE = re.compile(r"⟦|@@\s*LINK[^@\s]{0,8}@@")
 
 
 # ---------- frontmatter parsing (no yaml dep, single-line scalar only) ----------
