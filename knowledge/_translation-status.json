@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T23:14:06+08:00",
-    "zhCommitHead": "6df22a3d4",
+    "lastUpdated": "2026-09-22T23:27:41+08:00",
+    "zhCommitHead": "46fcab249",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 862,
+        "fresh": 863,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 247,
+        "missing": 246,
         "orphan": 0
       }
     },
@@ -12501,8 +12501,8 @@
           "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
           "translatedAt": "2026-09-22T17:40:43+08:00",
-          "translationLastCommit": "72229f10",
-          "translationLastModified": "2026-07-28T06:43:14+08:00",
+          "translationLastCommit": "46fcab24",
+          "translationLastModified": "2026-09-22T23:14:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 12921,
@@ -29713,8 +29713,8 @@
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
           "translatedAt": "2026-09-22T17:40:43+08:00",
-          "translationLastCommit": "1d9eb623",
-          "translationLastModified": "2026-07-28T09:59:44+08:00",
+          "translationLastCommit": "46fcab24",
+          "translationLastModified": "2026-09-22T23:14:06+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 19747,
@@ -63101,8 +63101,8 @@
           "sourceContentHash": "sha256:48dfc741c04506d7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T14:24:15.424057+00:00",
-          "translationLastCommit": "af8fa505",
-          "translationLastModified": "2026-07-28T08:16:06+08:00",
+          "translationLastCommit": "46fcab24",
+          "translationLastModified": "2026-09-22T23:14:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 17287,
@@ -80501,8 +80501,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-22T17:40:43+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "46fcab24",
+          "translationLastModified": "2026-09-22T23:14:06+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 21077,
@@ -188673,7 +188673,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-indigo-dyeing.md",
+          "translatedFrom": "Culture/藍染.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:b1932b90a96124c5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T14:55:10.346488+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 48280,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
