@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T19:55:10+08:00",
-    "zhCommitHead": "f7a6b170e",
+    "lastUpdated": "2026-09-22T20:08:32+08:00",
+    "zhCommitHead": "495e8eac2",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1047,
+        "fresh": 1048,
         "stale": 39,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 17,
         "orphan": 0
       },
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 38,
+        "fresh": 1035,
+        "stale": 37,
         "metadata_stale": 7,
         "missing": 45,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 856,
+        "fresh": 857,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 253,
+        "missing": 252,
         "orphan": 0
       }
     },
@@ -43456,8 +43456,8 @@
           "sourceContentHash": "sha256:112b7f69f9a52776",
           "sourceBodyHash": "sha256:ee5f05761a053be1",
           "translatedAt": "2026-09-22T17:40:23+08:00",
-          "translationLastCommit": "3a2cee9a",
-          "translationLastModified": "2026-09-10T04:30:04+08:00",
+          "translationLastCommit": "495e8eac",
+          "translationLastModified": "2026-09-22T19:55:10+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 54166,
@@ -56930,8 +56930,8 @@
           "sourceContentHash": "sha256:2a4f80e7fc721f19",
           "sourceBodyHash": "sha256:fc5314c473c1914f",
           "translatedAt": "2026-09-22T10:24:03.562371+00:00",
-          "translationLastCommit": "ae837171",
-          "translationLastModified": "2026-09-22T01:04:22+08:00",
+          "translationLastCommit": "495e8eac",
+          "translationLastModified": "2026-09-22T19:55:10+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 88769,
@@ -96970,8 +96970,8 @@
           "sourceContentHash": "sha256:206ef87a54acbbf7",
           "sourceBodyHash": "sha256:223451ab2ee89544",
           "translatedAt": "2026-09-09T15:33:03+08:00",
-          "translationLastCommit": "174a83b6",
-          "translationLastModified": "2026-09-10T05:31:49+08:00",
+          "translationLastCommit": "495e8eac",
+          "translationLastModified": "2026-09-22T19:55:10+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "bytes": 76297,
@@ -118191,19 +118191,17 @@
         "vi": {
           "path": "vi/People/chen-shui-bian-controversial-president.md",
           "translatedFrom": "People/陳水扁.md",
-          "sourceCommitSha": "eae11d139",
-          "sourceContentHash": "sha256:9e6735e344733c2b",
+          "sourceCommitSha": "1389f8ce7",
+          "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "translatedAt": "2026-09-22T17:40:21+08:00",
           "translationLastCommit": "68ff840a",
           "translationLastModified": "2026-08-09T08:59:47+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 30744,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 31122,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chen-shui-bian-controversial-president.md",
@@ -121113,7 +121111,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-09-22T17:40:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 12778,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -142571,19 +142581,17 @@
         "pt": {
           "path": "pt/Food/taiwanese-ice-cream-culture.md",
           "translatedFrom": "Food/台灣冰品文化.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:4dac67a4f3297b76",
-          "sourceBodyHash": "sha256:aae5f010fab3924f",
-          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:81d7772de9e1a0c6",
+          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
+          "translatedAt": "2026-09-22T17:40:22+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 14332,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 14736,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwanese-ice-cream-culture.md",

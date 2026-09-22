@@ -1,16 +1,16 @@
 ---
-title: 'Chá de bolhas'
-description: 'Em uma reunião de funcionários realizada em Taichung em 1987, um gesto casual fez uma bebida conquistar o mundo. A controvérsia sobre a origem do chá de bolhas, sua política cultural e o debate sobre a saúde em torno de uma bebida de 500 quilocalorias.'
+title: 'Chá de Perolada (Bubble Tea)'
+description: 'Um evento em uma loja de Taiwan em 1987, um gesto acidental conquistou o mundo. A controvérsia da origem do chá de perolada, a política cultural e o debate sobre saúde de uma bebida com 500 calorias.'
 date: 2026-03-30
-category: 'pt'
+category: 'Food'
 tags:
   [
-    'gastronomia',
-    'chá de bolhas',
-    'bebidas preparadas na hora',
-    'globalização',
-    'poder brando',
-    'diplomacia cultural',
+    'Gastronomia',
+    'Chá de Perolada',
+    'Bebida Artesanal',
+    'Globalização',
+    'Soft Power',
+    'Diplomacia Cultural',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
@@ -18,126 +18,131 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
+imageAlt: 'Close-up do clássico chá de perolada'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
-sourceCommitSha: '30569f742'
-sourceContentHash: 'sha256:d90e80b19559290b'
-sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4b6c70d0fd8de132'
+sourceBodyHash: 'sha256:402d0d087252b30e'
+translatedAt: '2026-09-22T17:40:22+08:00'
 ---
 
-# Chá de bolhas
+# Chá de Perolada
 
-> **Visão geral em 30 segundos:** Em 1987, durante uma reunião de funcionários em uma casa de chá de Taichung, a gerente Lin Hsiu-hui despejou bolinhas de tapioca no chá com leite para experimentar — e, em poucos meses, aquela bebida passou a vender mais do que todas as demais. Trinta e oito anos depois, esse gesto deu origem a uma indústria global avaliada em cerca de US$ 3,5 bilhões, levou o emoji do chá de bolhas 🧋 a todos os celulares e fez marcas de Taiwan e da China continental disputarem o título de “inventoras”.
+> **Resumo em 30 segundos:** Em 1987, a gerente da loja Chun Shui Tang (春水堂) em Taichung despejou tapioca granulada no chá com leite durante uma reunião de funcionários e provou por acaso — o resultado foi que essa bebida vendeu mais do que qualquer outro item nos meses seguintes. Trinta e oito anos depois, esse gesto deu origem a uma indústria global avaliada em cerca de US$ 3,5 bilhões, fazendo com que o emoji 🧋 alcançasse todos os celulares, e levando as marcas de Taiwan e da China continental a disputar o título de "inventora".
 
-Em 1987, na rua Ssu-wei, em Taichung, funcionava uma casa de chá que antecedeu a Chun Shui Tang. A gerente Lin Hsiu-hui conduzia uma reunião de funcionários. Sobre a mesa estavam os ingredientes que havia comprado naquela manhã no Mercado Chien-kuo, aonde fora de scooter. Entre eles havia uma tigela de bolinhas brancas de tapioca — um petisco taiwanês de que gostava desde criança. Então, simplesmente despejou as bolinhas no chá Assam com leite que tinha à mão e tomou um gole.
+Em 1987, em uma loja de chá na Rua Siwei, Taichung. A gerente Lin Xiu-hui (林秀慧) estava conduzindo uma reunião de funcionários, com ingredientes que ela havia comprado no Mercado Jian Guo naquela manhã à vista sobre a mesa; entre eles, uma tigela de tapioca granulada branca — um petisco taiwanês que ela gostava desde criança. Ela despejou essa tapioca em seu chá Assam com leite e tomou um gole.
 
-“Todos naquela reunião adoraram a bebida e, poucos meses depois, ela já vendia mais do que todos os nossos outros chás gelados”, contou Lin anos depois a uma jornalista da CNN, sem exagero deliberado na voz, como se apenas descrevesse um pequeno acaso que nem ela mesma havia previsto.
+"Todos na reunião amaram esta bebida, e em poucos meses suas vendas superaram todas as outras chás geladas", disse Lin Xiu-hui a repórteres da CNN anos depois, sem exagero intencional, mais como se estivesse descrevendo um pequeno acidente que nem ela esperava.
 
-Mais tarde, esse acaso a levaria a uma disputa judicial que durou dez anos.
+Este acidente acabou sendo levado por ela para um processo judicial de dez anos.
 
-## Uma disputa judicial de dez anos, sem vencedores
+## Um processo de dez anos sem vencedores
 
-A versão de Lin Hsiu-hui é apenas metade da história.
+A versão de Lin Xiu-hui é apenas metade da história.
 
-Tu Tsung-ho, fundador da casa de chá Hanlin, em Tainan, apresenta outra versão: depois de abrir seu estabelecimento em 1986, certo dia viu no mercado bolinhas de tapioca brancas e translúcidas. Inspirado, decidiu combiná-las com chá com leite e deu-lhes o nome de “pérolas” por causa da aparência. As duas histórias se passam em Taiwan, uma no norte e outra no sul, em meados e no fim da década de 1980; ambas reivindicam a primazia.
+Tu Zonghe (涂宗和), fundador da Hanlin Tea House (翰林茶館) em Tainan, tem outra narrativa: após abrir sua loja em 1986, ele viu tapioca granulada brilhante no mercado um dia, teve uma inspiração e tentou combiná-la com chá com leite, nomeando-a porque a aparência da tapioca lembrava pérolas. As duas histórias ocorreram na Taiwan do meio para o final dos anos 1980, Norte e Sul, e ambas alegam ser as primeiras.
 
-A versão da Chun Shui Tang é mais precisa: o fundador Liu Han-chieh abriu uma loja de bebidas na rua Ssu-wei, em Taichung, em 1983. Em 1987, durante uma reunião de funcionários, a então gerente Lin Hsiu-hui criou por acaso o chá de bolhas, que depois foi colocado à venda em caráter experimental e lançado oficialmente. A Chun Shui Tang chega a afirmar que o responsável pela casa de chá Hanlin visitou pessoalmente o estabelecimento para observar e aprender.
+A versão da Chun Shui Tang é mais precisa: o fundador Liu Hanjie (劉漢介) abriu a loja de bebidas na Rua Siwei, Taichung, em 1983; em 1987, Lin Xiu-hui, então gerente, inventou acidentalmente o chá de perolada durante uma reunião de funcionários, e ele foi subsequentemente testado e lançado oficialmente. A Chun Shui Tang até apontou que os responsáveis pela Hanlin Tea House já haviam visitado a Chun Shui Tang para observar e aprender.
 
-A questão de “quem chegou primeiro” acabou nos tribunais. A Chun Shui Tang e a casa de chá Hanlin processaram uma à outra em um litígio que se arrastou por mais de dez anos. **Em 2019, um tribunal de Taiwan decidiu que o chá de bolhas era um novo tipo de bebida, mas não um produto patenteado, e que qualquer pessoa ou estabelecimento poderia prepará-lo, não havendo necessidade de disputar quem fora seu criador original.** Nenhuma das partes pôde obter uma patente. Ninguém venceu, e ninguém perdeu.
+Essa questão do "quem primeiro" acabou indo para os tribunais. A Chun Shui Tang e a Hanlin Tea House processaram uma à outra, arrastando o litígio por mais de dez anos. **Em 2019, um tribunal taiwanês proferiu um veredito: o chá de perolada é uma bebida nova, não um produto patenteado, podendo ser feito por qualquer pessoa ou loja, e não há necessidade de disputar quem é o ancestral.** Nenhuma das partes conseguiu obter a patente; ninguém ganhou e ninguém perdeu.
 
-> 📝 **Nota da curadoria**
-> Em Taiwan, a pergunta “quem inventou o chá de bolhas?” talvez já tenha perdido o sentido. Mais importante seria perguntar: por que o “local de nascimento” de uma bebida precisou de dez anos de litígio para ser confirmado? Hoje, quando o mercado global de chá de bolhas se aproxima dos NT$ 100 bilhões, é evidente que o que estava em jogo naquele processo não era apenas o direito de definir a história.
+> 📝 **Nota do Curador**
+> A questão "quem inventou o chá de perolada" pode ter perdido significado em Taiwan. O que merece mais investigação é: por que a "terra de nascimento" de uma bebida precisou de um processo judicial de dez anos para ser confirmada? No mercado global de chá de perolada, cujo valor se aproxima de 100 bilhões de NTD, o verdadeiro prêmio daquele processo claramente não era apenas o poder discursivo histórico.
 
-## 26 mil lojas, mais do que as lojas de conveniência
+## 26.000 lojas, mais do que lanchonetes de conveniência
 
-Independentemente de qual casa de chá tenha preparado primeiro o chá de bolhas, a obsessão de Taiwan pela bebida há muito ultrapassou o alcance da disputa sobre sua invenção.
+Independentemente de qual loja tenha inventado primeiro o chá de perolada, a obsessão de Taiwan por esta bebida já ultrapassou o alcance da disputa pelo "inventor".
 
-Segundo estatísticas do Ministério das Finanças de Taiwan, em abril de 2022 o número de estabelecimentos de bebidas de todos os tipos no país atingiu o recorde histórico de **26 mil lojas** — quase 10 mil a mais do que o total de lojas de conveniência em Taiwan — e cresceu 67,6% ao longo da década anterior. Em qualquer viela do centro de Taipé, é possível encontrar 50 Lan, Ching Shin Fu Chuan, CoCo e Macu Tea instaladas lado a lado, disputando clientes. Ao entrar em qualquer uma delas, você precisa fazer mais escolhas do que imagina: açúcar integral, médio, reduzido ou nenhum; muito gelo, pouco gelo, sem gelo ou quantidade normal; pérolas de tapioca, nata de coco, bolinhas de taro, pudim... Em Taiwan, um chá de bolhas é uma escolha altamente personalizada, não um produto padronizado.
+De acordo com dados do Ministério das Finanças de Taiwan, o número de lojas de diversos tipos de bebidas em todo o país atingiu um recorde histórico em abril de 2022, chegando a **26.000**, quase 10.000 mais do que as lanchonetes de conveniência de toda Taiwan, e crescendo 67,6% na última década. Em qualquer beco da área urbana de Taipé, é possível encontrar lado a lado 50 Lan (嵐), Qingxin Fuquan (清心福全), CoCo, Magu Cha Fang (麻古茶坊) competindo por clientes. Ao entrar em qualquer uma, você tem mais escolhas do que imagina: açúcar total, meio doce, sem açúcar, muito gelo, pouco gelo, sem gelo, tapioca, coco, batata doce... Um chá de perolada é uma escolha altamente personalizada em Taiwan, e não um produto padrão.
 
-A dimensão do mercado global é ainda mais impressionante. Diversas empresas de pesquisa de mercado estimam que, em 2024, o mercado mundial de chá de bolhas valia cerca de **US$ 3,5 bilhões — aproximadamente NT$ 112 bilhões** — e deverá crescer para US$ 6 bilhões a US$ 7 bilhões até 2034. As marcas taiwanesas estão na origem desse mercado: a CoCo Fresh Tea & Juice tem mais de 5 mil lojas no mundo; a Gong Cha, mais de 2 mil; e marcas como The Alley e Chatime continuam ampliando suas redes no exterior. Somente em Taiwan, a Chun Shui Tang ainda vende mais de 2 milhões de copos de chá de bolhas por ano.
+O tamanho do mercado global é ainda mais surpreendente. Várias agências de pesquisa de mercado estimam que o mercado global de chá de perolada em 2024 tenha cerca de **US$ 3,5 bilhões (aproximadamente 112 bilhões de NTD)**, e deve crescer para US$ 6 a 7 bilhões até 2034. As marcas de Taiwan são o ponto de origem deste mercado: CoCo tem mais de 5.000 lojas globalmente, Gong Cha (貢茶) tem mais de 2.000, e as filiais no exterior de marcas como Lukangxiang (鹿角巷) e Rizecha Tai (日出茶太) continuam a se expandir. A Chun Shui Tang ainda vende mais de 2 milhões de chá de perolada por ano em Taiwan.
 
-Esse processo de globalização seguiu uma trajetória interessante: não foi impulsionado pela diplomacia cultural do governo nem por uma estratégia de expansão meticulosamente concebida por grandes marcas. O primeiro passo do chá de bolhas rumo ao mundo foi movido pela saudade dos imigrantes — taiwaneses em Los Angeles e Vancouver queriam beber algo com o sabor de casa, abriram estabelecimentos locais e acabaram fazendo os vizinhos também se apaixonarem pela bebida. Esse é o percurso mais típico de difusão dos petiscos taiwaneses (台灣小吃): não uma exportação, mas uma propagação; não uma estratégia, mas a vida cotidiana.
+Este processo de globalização seguiu um caminho interessante: não foi impulsionado pela diplomacia cultural do governo, nem por uma estratégia de expansão de mercado cuidadosamente planejada por grandes marcas. O primeiro passo do chá de perolada para o mundo dependeu da saudade dos imigrantes — os imigrantes taiwaneses em Los Angeles, os imigrantes taiwaneses em Vancouver, eles queriam beber um sabor de casa e abrir lojas localmente, fazendo com que os vizinhos também amassem esta bebida. Este é o caminho mais típico da expansão do [chá taiwanês](/pt/food/taiwanese-street-food/): não é exportação, mas dispersão; não é estratégia, mas vida.
 
-> 📊 **Os números em perspectiva**
-> Mercado global de chá de bolhas (2024): cerca de US$ 3,5 bilhões — aproximadamente NT$ 112 bilhões  
-> Lojas de bebidas preparadas na hora em Taiwan (pico de 2022): mais de 26 mil, crescimento de 67,6% na década anterior  
-> Lojas da CoCo no mundo: mais de 5 mil  
-> Lojas da Gong Cha no mundo: mais de 2 mil  
-> Vendas anuais de chá de bolhas da Chun Shui Tang: mais de 2 milhões de copos
+> 📊 **Interpretação de Dados**
+> Tamanho do mercado global de chá de perolada (2024): Cerca de US$ 3,5 bilhões (aproximadamente 112 bilhões de NTD)
+> Número de lojas de bebidas artesanais em Taiwan (pico em 2022): 26.000+; crescimento de 67,6% na última década
+> Lojas globais da CoCo: 5.000+
+> Lojas globais da Gong Cha (貢茶): 2.000+
+> Vendas anuais de chá de perolada da Chun Shui Tang: Mais de 2 milhões de copos
 
-## Em 2019, seis horas de fila em Tóquio
+## Em 2019, seis horas na fila em Tóquio
 
-O chá de bolhas não se espalhou das casas de chá de Taiwan para o mundo em uma única explosão, mas em ondas sucessivas.
+O chá de perolada migrou das lojas de chá de Taiwan para o mundo não foi uma explosão única, mas uma onda após a outra.
 
-No fim da década de 1990, a primeira onda chegou à América do Norte e ao Sudeste Asiático com imigrantes taiwaneses. Nos anos 2000, a formação de redes de franquias levou a bebida para além das comunidades da diáspora, transformando-a em uma linguagem comum entre os jovens asiáticos. Na década de 2010, o Instagram globalizou sua linguagem visual — o copo transparente, as pérolas negras e o canudo largo pareciam feitos para as redes sociais.
+No final dos anos 1990, a primeira onda seguiu os imigrantes taiwaneses que chegaram à América do Norte e ao Sudeste Asiático. Na década de 2000, a marca em cadeia fez com que ele se expandisse de uma bebida da comunidade de diáspora para uma linguagem comum entre a juventude asiática. Na década de 2010, o Instagram globalizou sua linguagem visual — as imagens de copos transparentes, peroladas pretas e canudos grossos foram inerentemente projetadas para mídias sociais.
 
-Mas o fenômeno mais dramático ocorreu no Japão, em 2019.
+Mas o fenômeno mais dramático ocorreu em 2019 no Japão.
 
-Naquele verão, uma placa diante da The Alley, em Tóquio, informava que a espera seria de cinco horas; depois, o número foi atualizado para seis. A imprensa japonesa chamou o fenômeno de “terceira onda da febre da tapioca” (第三波タピオカブーム). Batons, saladas e petiscos com sabor de chá de bolhas surgiram ao mesmo tempo. Jovens japonesas saíam com batom, sombra e roupas inteiramente coordenados nas cores da bebida apenas para tirar uma foto e marcar a visita nas redes sociais.
+Naquele verão, um letreiro na entrada da Lukangxiang (鹿角巷) em Tóquio indicava "esperar por 5 horas", e depois esse número foi atualizado para 6. A mídia japonesa chamou isso de "Terceira Onda do Boom da Tapioca" (第三波タピオカブーム), com o surgimento simultâneo de batom de chá de perolada, salada de chá de perolada e lanches sabor chá de perolada. As jovens japonesas iam à rua vestindo um conjunto de cores de chá de perolada em seus batons, sombras e roupas, apenas para tirar uma foto de _check-in_.
 
-O que a grande maioria dos consumidores japoneses não sabia era que a moda que seguiam começara três décadas antes, com um experimento casual durante uma reunião de funcionários em Taichung. Um internauta japonês ironizou nas redes sociais: “O tempo de fila dá para voar até Taiwan, tomar um copo e voltar.”
+A grande maioria dos consumidores japoneses não entendia que a moda que estavam seguindo tinha seu ponto de partida em um gesto acidental durante uma reunião de funcionários na cidade de Taichung trinta anos antes. Um usuário japonês nas mídias sociais brincou: "O tempo de espera é suficiente para voar até Taiwan, beber um e voltar."
 
-No ano seguinte, o chá de bolhas passou por uma transformação identitária ainda mais peculiar: tornou-se um símbolo político.
+No ano seguinte, o chá de perolada completou uma ascensão de identidade ainda mais peculiar: ele se tornou um símbolo político.
 
-## 🧋 Uma bebida, uma aliança democrática
+## 🧋 Um copo de chá com leite, uma aliança democrática
 
-Em abril de 2020, contas nacionalistas chinesas iniciaram uma campanha de assédio contra uma celebridade tailandesa e, sem querer, colocaram internautas de Taiwan, Hong Kong e Tailândia do mesmo lado. A hashtag “Aliança do Chá com Leite” (#MilkTeaAlliance) viralizou rapidamente. O nome fazia referência a uma diferença alimentar pequena, mas incisiva: nos três lugares, bebe-se chá com leite, enquanto a tradição do chá na China continental normalmente dispensa o ingrediente.
+Em abril de 2020, contas pró-nacionalistas chinesas iniciaram um assédio contra celebridades tailandesas, empurrando acidentalmente usuários da Taiwan, Hong Kong e Tailândia para o mesmo lado. A hashtag "#MilkTeaAlliance" (奶茶聯盟) explodiu — este nome se refere à pequena, mas aguda, diferença alimentar de que os três lugares bebem chá com leite, enquanto a cultura do chá da China continental tradicionalmente não adiciona leite.
 
-O chá com leite tornou-se uma espécie de código de estilo de vida: chá com leite equivalia a democracia e abertura; chá puro, a uma ordem política oposta. A metáfora era rudimentar a ponto de ser um pouco cômica, mas, em 2020, foi efetivamente repetida em protestos em Mianmar, Belarus e Tailândia. Por meio de um símbolo alimentar, ela conectou a experiência democrática de Taiwan aos movimentos civis do Sudeste Asiático, realizando algo que nenhum diplomata conseguiria fazer.
+O chá com leite tornou-se um código para um certo estilo de vida: chá com leite = democracia, aberto; chá claro = outra ordem política em oposição. Essa metáfora é tão grosseira que é engraçada, mas foi repetidamente citada nos locais de protesto na Mianmar, Ucrânia e Tailândia em 2020. Ele ligou a experiência democrática de Taiwan com os movimentos cívicos do Sudeste Asiático através de um símbolo alimentar, realizando algo que nenhum diplomata conseguiria.
 
-Naquele mesmo ano, o Unicode 13.0 incorporou oficialmente o emoji 🧋, dando ao chá de bolhas um rosto próprio em todos os celulares.
+No mesmo ano, o Unicode 13.0 incorporou oficialmente o emoji 🧋 chá de perolada, dando a esta bebida seu próprio rosto em todos os celulares.
 
-> 📝 **Nota da curadoria**
-> A “Aliança do Chá com Leite” traduziu a geopolítica para a linguagem dos adesivos de celular por meio do simples ato de acrescentar leite ao chá. Talvez este tenha sido o momento mais absurdo e, ao mesmo tempo, mais verdadeiro da história do chá de bolhas: uma bebida popular nascida na cultura dos mercados noturnos (夜市文化) tornou-se, por acaso, um símbolo transnacional de solidariedade democrática. Ela nem sequer tentou desempenhar esse papel.
+> 📝 **Nota do Curador**
+> A "Aliança do Chá com Leite" traduziu geopolítica para a linguagem dos adesivos de celular através da pequena questão do leite, e este pode ser o momento mais absurdo e verdadeiro na história do chá de perolada: uma bebida popular nascida em um [ambiente de mercado noturno](/pt/food/night-market-culture/) se tornou acidentalmente um símbolo de solidariedade democrática transnacional. E ela nem tentou fazer isso.
 
-## Uma bebida de 500 quilocalorias e o problema de saúde que ninguém quer ouvir
+## 500 calorias, e a questão da saúde que ninguém quer ouvir
 
-Qualquer relato honesto sobre o chá de bolhas precisa encarar um número que faz nutricionistas franzirem a testa.
+Qualquer história honesta sobre o chá de perolada deve encarar o número que faz os nutricionistas franzirem a testa.
 
-Um copo de chá de bolhas com açúcar integral e quantidade normal de gelo contém aproximadamente 400 a 600 quilocalorias e cerca de 50 a 70 gramas de açúcar — o equivalente às calorias de uma marmita ou a mais do que o dobro do limite diário de açúcar recomendado pela OMS. O Dr. Martin Lee, chefe do Departamento de Nefrologia do National University Hospital de Singapura, afirmou diretamente: “O açúcar do chá de bolhas pode agravar o diabetes, causando danos aos rins e até insuficiência renal.” Pesquisas acadêmicas publicadas no PubMed também indicam que, entre jovens asiáticos que bebem chá de bolhas diariamente, os riscos à saúde são comparáveis aos dos refrigerantes açucarados e constituem uma questão de saúde pública que não pode ser ignorada.
+Um copo de chá de perolada com açúcar total e gelo normal tem cerca de 400-600 calorias, com cerca de 50-70 gramas de açúcar — equivalente às calorias de um _bento_ (marmita) ou mais do dobro do limite diário recomendado pela OMS. O Dr. Martin Lee, diretor do departamento de nefrologia da Universidade Nacional de Singapura, afirmou diretamente: "O açúcar no chá de perolada pode agravar o diabetes, levando a danos renais e até insuficiência renal." Estudos acadêmicos publicados no PubMed também indicaram que para jovens asiáticos que consomem chá de perolada diariamente, os riscos à saúde são semelhantes aos das refrigerantes açucaradas, sendo uma questão de saúde pública que não pode ser ignorada.
 
-Não se trata de alarmismo, mas de um risco real que surge quando o chá de bolhas deixa de ser um prazer ocasional e se torna um hábito diário. As 26 mil lojas de bebidas acompanhadas pelo Ministério das Finanças de Taiwan não representam apenas uma estatística de empreendedorismo, mas também um sinal de alerta para a saúde pública. O Ministério da Saúde e Bem-Estar de Taiwan já exigiu diversas vezes que as redes de bebidas preparadas na hora exibissem obrigatoriamente o valor calórico. Ainda assim, mesmo ao verem a indicação de “520 quilocalorias”, a maioria dos consumidores continua escolhendo açúcar integral — um pequeno fato que mostra como é difícil mudar o comportamento humano.
+Isto não é um aviso sensacionalista, mas sim um risco real quando o chá de perolada passa de um prazer ocasional para um hábito diário. As 26.000 lojas de bebidas rastreadas pelo Ministério das Finanças de Taiwan não são apenas estatísticas de empreendedorismo, mas também um sinal de alerta de saúde pública. O Ministério da Saúde e Bem-Estar de Taiwan exigiu várias vezes que as marcas de bebidas artesanais rotulassem obrigatoriamente o teor calórico, mas a maioria dos consumidores ainda escolhe o açúcar total após verem o rótulo "520 calorias" — este pequeno fato demonstra o quão difícil é mudar o comportamento humano.
 
-Em 2011, a cultura alimentar de Taiwan sofreu um golpe ainda mais direto: o plastificante DEHP havia sido adicionado ilegalmente a agentes emulsificantes usados em alimentos e bebidas, afetando produtos preparados na hora, incluindo o chá de bolhas. A Administração de Alimentos e Medicamentos de Taiwan confirmou, ao fim da investigação, que **965 produtos estavam contaminados e que 206 deles haviam sido exportados para 22 países**. O escândalo derrubou os negócios do setor de bebidas taiwanês em mercados como Hong Kong e Malásia e tornou-se o estopim direto de uma ampla reforma das normas de segurança alimentar de Taiwan.
+Em 2011, a cultura alimentar de Taiwan sofreu um golpe mais direto: o aditivo plastificante DEHP foi adicionado ilegalmente ao alimento e bebida pelo empresa Qiyunji (起雲劑), afetando bebidas artesanais como o chá de perolada. A Administração Nacional de Vigilância Sanitária de Taiwan confirmou que **965 produtos estavam contaminados, dos quais 206 foram exportados para 22 países**. Este escândalo fez com que os negócios da indústria de bebidas taiwanesa caíssem drasticamente em mercados como Hong Kong e Malásia, e também se tornou o gatilho direto para a grande reforma das leis de segurança alimentar de Taiwan.
 
-Os problemas ambientais tampouco desapareceram. A onda global de proibições aos canudos plásticos descartáveis trouxe ao chá de bolhas um problema prático de engenharia: canudos de papel amolecem em contato com o líquido, os de metal podem ficar quentes demais e os materiais biodegradáveis têm custo muito elevado. O avanço dessa bebida na adoção de embalagens sustentáveis tem sido muito mais lento do que o ritmo de seu marketing.
+A questão ambiental também não desapareceu. A onda global contra canudos plásticos descartáveis fez com que o chá de perolada enfrentasse um problema técnico real: os canudos de papel amolecem quando molhados, os canudos de metal são considerados quentes demais e os materiais biodegradáveis têm custos muito altos. O progresso desta bebida na promoção de embalagens sustentáveis é muito mais lento do que sua velocidade de marketing.
 
-## As “novas bebidas de chá” e uma história diluída
+## "Novas Bebidas" e a história diluída
 
-Há ainda outra competição, mais silenciosa, em andamento.
+Há também uma competição mais silenciosa acontecendo.
 
-As marcas de “novas bebidas de chá” da China continental — Heytea, Nayuki e Chagee — vêm abrindo rapidamente lojas em todo o mundo nos últimos anos. A rede internacional de algumas delas já iguala ou supera a de certas marcas taiwanesas. Ainda mais significativa é sua linguagem de marketing: nessas narrativas, a origem taiwanesa do chá de bolhas é gradualmente diluída em termos vagos como “cultura das bebidas de chá” e “inovação asiática em bebidas de chá”. Para as marcas de Taiwan, a autoridade sobre a narrativa do “lugar de origem” está se tornando uma batalha tão importante quanto a concorrência comercial — e talvez ainda mais difícil de travar.
+As marcas de "novas bebidas" da China continental — Heytea (喜茶), Nayuki Cha (奈雪的茶), Ba Wang Tea Ji (霸王茶姬) — expandiram rapidamente em vários lugares do mundo nos últimos anos, e o tamanho das lojas no exterior de algumas dessas marcas já igualou ou ultrapassou certas marcas taiwanesas. O que é mais notável é sua linguagem de marketing: a origem taiwanesa do chá de perolada foi gradualmente diluída por termos vagos como "cultura do chá" e "inovação do chá asiático" nas narrativas dessas marcas. Para as marcas taiwanesas, o poder discursivo da "terra de origem" tornou-se uma batalha tão importante quanto a competição comercial, senão mais difícil.
 
-No comércio, é possível competir com capital e velocidade de expansão. A autoridade narrativa, porém, depende de qual história será lembrada e aceita por mais pessoas.
+O comércio pode competir com capital e velocidade de expansão; o poder discursivo depende de qual história é lembrada e acreditada por mais pessoas.
 
-O governo e as marcas privadas de Taiwan estão cientes disso. As atividades culturais sobre o chá de bolhas promovidas no exterior pelo Ministério das Relações Exteriores, a divulgação feita pelo Conselho para os Assuntos das Comunidades Ultramarinas por meio das comunidades taiwanesas no exterior e a insistência da Chun Shui Tang em manter a história de Lin Hsiu-hui em destaque na página inicial de seu site são formas de um trabalho narrativo defensivo, destinado a impedir que o rótulo “feito em Taiwan” seja diluído. No mercado global, porém, o consumidor bebe uma experiência, não a história do lugar de origem. Essa batalha está destinada a não ter fim.
+Governos e marcas privadas de Taiwan não ignoraram isso. As atividades culturais do chá de perolada no exterior organizadas pelo Ministério das Relações Exteriores, a promoção feita pela Comissão de Assuntos Chineses para o Exterior (僑委會) através da comunidade taiwanesa no exterior, a insistência da Chun Shui Tang em manter a história de Lin Xiu-hui no topo do site oficial... tudo isso é um projeto narrativo defensivo, tentando evitar que o selo "Fabricado em Taiwan" seja diluído. Mas no mercado global, os consumidores bebem a experiência, não a história da origem; esta batalha está destinada a não ter fim.
 
-## Um gesto que continua a se repetir
+## Um gesto que continua sendo renovado
 
-O gesto de Lin Hsiu-hui em 1987 ainda é a história de maior destaque na página inicial do site da Chun Shui Tang. Em poucos meses, aquele chá com leite e bolinhas de tapioca passou a vender mais do que todas as outras bebidas — por si só, esse fato constitui a versão mais próxima de um “mito de origem” para a bebida.
+O gesto de Lin Xiu-hui em 1987 ainda é a história mais proeminente na página inicial do site oficial da Chun Shui Tang. Aquele chá com tapioca granulada vendeu mais do que qualquer outra bebida em poucos meses — este fato, por si só, é a versão mais próxima de uma "origem mítica" desta bebida.
 
-Em 2026, porém, manter as palavras “inventado em Taiwan” no centro dessa história exige muito mais esforço do que foi necessário para despejar as bolinhas de tapioca no chá com leite naquele instante inicial. Quantas pessoas no mundo bebem diariamente um chá de bolhas sem saber nem se importar com sua origem? É praticamente impossível calcular esse número.
+Mas, em 2026, o esforço necessário para manter as palavras "inventado em Taiwan" no cerne da história desta bebida é muito maior do que o momento inicial em que a tapioca foi despejada no chá com leite. Quantas pessoas consomem um chá de perolada por dia ao redor do mundo sem saber ou se importando de onde ele veio? Esse número é quase impossível de calcular.
 
-É claro que aquele instante não sabia o que estava fazendo. Os grandes acasos nunca sabem.
+Naquele momento, ela certamente não sabia o que estava fazendo. Grandes acidentes nunca sabem.
 
-## Leituras complementares
+## Leitura Complementar
 
-- [Panorama da gastronomia de Taiwan](/pt/food/taiwan-food-overview) — Um mapa panorâmico, dos povos indígenas às estrelas Michelin: o lugar do chá de bolhas em quatrocentos anos de sabores mestiços
-- [A cultura taiwanesa das bebidas preparadas na hora](/pt/food/hand-shaken-drink-culture) — A história da expansão de marcas como 50 Lan, Gong Cha e CoCo para mais de quarenta países
-- [Cultura do chá](/pt/food/golden-age-echoes-taiwan-tea-culture) — Do chá oolong de John Dodd, em 1865, aos atuais chás de alta montanha: a lendária qualidade do chá taiwanês
+- [Visão Geral da Gastronomia de Taiwan](/pt/food/taiwan-food-overview) — Do indígena ao Michelin: um mapa panorâmico dos sabores misturados; o lugar do chá de perolada na paleta de quatrocentos anos
+- [Cultura das Bebidas Artesanais de Taiwan](/pt/food/hand-shaken-drink-culture) — A história da expansão de marcas como 50 Lan, Gong Cha e CoCo para mais de 40 países
+- [Cultura do Chá](/pt/food/golden-age-echoes-taiwan-tea-culture) — Da chá verde Oolong de Theodore em 1865 ao chá de montanha atual, a lenda da qualidade das folhas de chá de Taiwan
+
+## Fontes de Imagem
+
+- Herói: Close-up do clássico chá de perolada, fotografia por Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg), CC BY-SA 3.0.
 
 ## Referências
 
-- [Site oficial da Chun Shui Tang: a invenção do chá de bolhas](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (fonte primária)
-- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (inclui declarações de Lin Hsiu-hui)
-- [ETtoday: Quem inventou o chá de bolhas? Após dez anos de processos entre Chun Shui Tang e a casa de chá Hanlin, tribunal profere decisão](https://www.ettoday.net/news/20190731/1502150.htm) (reportagem sobre a decisão de 2019)
-- [Análise do mercado taiwanês de bebidas preparadas na hora — estatísticas do Ministério das Finanças de Taiwan](https://lndatatech.github.io/taiwan-drink/) (fonte estatística primária)
-- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (contexto da Aliança do Chá com Leite)
-- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (dados do mercado global)
-- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (fonte acadêmica primária; dados sobre os 965 produtos contaminados)
-- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (fonte da declaração do Dr. Martin Lee)
+- [Site Oficial da Chun Shui Tang: A Invenção do Chá de Perolada](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (Fonte primária)
+- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (Incluindo citação de Lin Xiu-hui)
+- [ETtoday: Quem inventou o chá de perolada? Chun Shui Tang e Hanlin Tea House processam uma à outra por 10 anos; veredito do tribunal divulgado](https://www.ettoday.net/news/20190731/1502150.htm) (Relato do veredito de 2019)
+- [Análise de Dados do Mercado de Bebidas Artesanais de Taiwan (Dados do Ministério das Finanças de Taiwan)](https://lndatatech.github.io/taiwan-drink/) (Fonte estatística primária)
+- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (Contexto da Aliança do Chá com Leite)
+- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (Dados de mercado global)
+- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (Fonte primária acadêmica, dados de contaminação de 965 produtos)
+- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Fonte da citação do Dr. Martin Lee)
 
-Temas relacionados a este verbete: cultura dos mercados noturnos (夜市文化), petiscos taiwaneses (台灣小吃) e cultura alimentar de Taiwan.
+Tópicos relacionados a este artigo: [Ambiente de Mercado Noturno](/pt/food/night-market-culture/), [Chá Taiwanês](/pt/food/taiwanese-street-food/), Cultura alimentar de Taiwan.
