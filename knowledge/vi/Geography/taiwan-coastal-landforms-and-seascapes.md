@@ -18,12 +18,12 @@ lastVerified: 2026-03-24
 lastHumanReview: true
 difficulty: 'intermediate'
 readingTime: 10
+curation: 'incubating'
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
-sourceCommitSha: 'e14a15296'
-sourceContentHash: 'sha256:ca35855b7d3bcc49aadfd748812cd749fbac5805590f9a6b6e0c58305015bdb1'
-sourceBodyHash: 'sha256:3cf97f710a1b9f0ba8475f70bad7878212797e5c9ddbf68211e2d20ced2294e5'
-translatedAt: '2026-07-31T00:00:00Z'
-imageAlt: 'Bờ biển Đài Loan với những vách đá cao và biển xanh'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:9ce361db9a5c3b1a'
+sourceBodyHash: 'sha256:39bde765a3b7a746'
+translatedAt: '2026-09-22T16:45:44.742310+00:00'
 ---
 
 > **Tổng quan 30 giây:** Từ đỉnh núi Ngọc Sơn (3.952 mét) tới rãnh biển Ryukyu ở phía đông ngoài khơi (-7.507 mét), độ chênh lệch chiều cao vượt quá 11.000 mét, khoảng cách ngang chưa tới 150 km. Con số này khiến Đài Loan trở thành một trong những hòn đảo có độ dốc địa hình dốc nhất trên toàn cầu — thậm chí "nén chặt" hơn cả việc nhảy từ đỉnh Everest vào rãnh Mariana. Và tất cả những điều này mới chỉ diễn ra trong 5 triệu năm.
