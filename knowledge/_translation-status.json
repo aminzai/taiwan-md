@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T11:37:12+08:00",
-    "zhCommitHead": "94ada449d",
+    "lastUpdated": "2026-09-22T11:50:21+08:00",
+    "zhCommitHead": "cd5bfcde2",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1045,
+        "fresh": 1046,
         "stale": 55,
         "metadata_stale": 4,
-        "missing": 20,
+        "missing": 19,
         "orphan": 0
       },
       "fr": {
@@ -66078,8 +66078,8 @@
           "sourceContentHash": "sha256:d584a485050631e9",
           "sourceBodyHash": "sha256:5fb85b385727325b",
           "translatedAt": "2026-09-22T08:09:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd5bfcde",
+          "translationLastModified": "2026-09-22T11:37:12+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 27090,
@@ -83412,8 +83412,8 @@
           "sourceContentHash": "sha256:787b4dca478a7872",
           "sourceBodyHash": "sha256:871a0c07dcb1e28f",
           "translatedAt": "2026-09-22T08:09:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cd5bfcde",
+          "translationLastModified": "2026-09-22T11:37:12+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 25385,
@@ -205295,7 +205295,19 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-22T10:29:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 38743,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwan-cats-eye-nephrite.md",
