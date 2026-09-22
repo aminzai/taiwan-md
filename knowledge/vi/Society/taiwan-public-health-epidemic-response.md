@@ -1,6 +1,6 @@
 ---
-title: 'Y tế công cộng và hệ thống phòng dịch của Đài Loan'
-description: 'Năm 2003, Bệnh viện Changping từng bị tịch thể sau vụ thương vong 30 người. Mười bảy năm sau, đại dịch COVID-19 lan rộng toàn cầu, Đài Loan dùng bài học từ thảm họa đó để duy trì không có nghiên cứng cộng đồng trong 18 tháng. Một vết thương làm sao thành hệ thống miễn dịch ghi nhớ của một hòn đảo.'
+title: 'Hệ thống y tế công cộng và phòng dịch của Đài Loan'
+description: 'Năm 2003, Bệnh viện Heping bị phong tỏa, 30 người tử vong. Mười bảy năm sau, khi COVID-19 bùng phát toàn cầu, Đài Loan nhờ bài học từ thảm họa đó đã duy trì 18 tháng không ghi nhận ca nhiễm cộng đồng. Một vết thương như thế nào đã trở thành ký ức miễn dịch của một hòn đảo.'
 date: 2026-04-08
 category: 'Society'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Y tế công cộng',
     'SARS',
     'COVID-19',
-    'phòng dịch',
-    'bảo hiểm y tế toàn dân',
-    'Cục Quản lý Bệnh truyền nhiễm',
+    'Phòng dịch',
+    'Bảo hiểm y tế toàn dân',
+    'Cục Kiểm soát Bệnh tật',
   ]
 subcategory: 'Society'
 author: 'Taiwan.md'
@@ -19,101 +19,107 @@ lastVerified: 2026-04-08
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '49728f9d5'
-sourceContentHash: 'sha256:84ffcc67e2e155cf'
-sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
-translatedAt: '2026-07-28T07:06:36+08:00'
+sourceCommitSha: '29ff6f481'
+sourceContentHash: 'sha256:48dfc741c04506d7'
+translatedAt: '2026-09-22T14:24:15.424057+00:00'
 ---
 
-> **Bản tóm tắt 30 giây:** Năm 2003, SARS gây ra 73 trường cas tử vong tại Đài Loan, vụ tịch thể Bệnh viện Changping trở thành vết thương tập thể trong lịch sử y tế công cộng. Sau đó, Đài Loan hầu hết tái cấu trúc toàn bộ hệ thống phòng dịch: Cục Quản lý Bệnh truyền nhiễm được nâng cấp, Quy chế pháp lý cho Trung tâm Chỉ huy Phép dịcḥch cao áp được thiết lập, quy trình kiểm soát nhiễm bệnh được sửa đổi toàn diện. Năm 2020, khi COVID-19 lan rộng toàn cầu, Đài Loan duy trì hơn 18 tháng không có nghiên cứng cộng đồng, được xã hội quốc tế gọi là "mô hình Đài Loan". Tháng 4 năm 2026, Đài Loan ghi nhận trường hợp đầu tiên của chủng H7N7 "người bị cút gà" trên đất liền — hệ thống phòng dịch lại được thử nghiệm.
+**30 giây tổng quan:** Năm 2003, SARS tại Đài Loan gây ra 73 cái chết, sự kiện phong tỏa Bệnh viện Hòa Bình trở thành tổn thương tập thể trong lịch sử y tế công cộng. Sau đó, Đài Loan gần như xây dựng lại toàn bộ hệ thống phòng dịch: Cục Kiểm soát Bệnh tật được nâng cấp, cơ chế Trung tâm Chỉ huy Dịch bệnh Trung ương được pháp chế hóa, quy trình kiểm soát nhiễm trùng được sửa đổi toàn diện. Năm 2020, khi COVID-19 lan rộng toàn cầu, Đài Loan trong 18 tháng đầu tiên duy trì gần như không có ca nhiễm cộng đồng, được cộng đồng quốc tế gọi là «mô hình Đài Loan». Tháng 4 năm 2026, Đài Loan ghi nhận ca đầu tiên H7N7 cúm gia cầm bản địa «lây từ gia cầm sang người» — hệ thống phòng dịch một lần nữa bị thử thách.
 
-Vào đêm 24 tháng 4 năm 2003, Hà Nội chính quyền thành phố TP. Hồ Chí Minh đã yên cầu tịch thể Bệnh viện Changping. Một đêm, hơn 1.000 nhân viên y tế và bệnh nhân trong bệnh viện bị cấm rời đi. Thiếu thiết bị bảo vệ, không có hệ thống di chuyển cách ly, phòng cấp cứu và phòng bệnh thường trực hòa nhau. Bác sĩ Thành Năng (Thành Năng, 蔡英文) sau đó khi được phỏng vấn công khai nói rằng, anh không bao giờ nghĩ đến việc chạy trốn, "nhưng trong lòng vẫn còn một chút thương xót"[^1].
+Đêm ngày 24 tháng 4 năm 2003, Chính quyền thành phố Đài Bắc ra lệnh phong tỏa Bệnh viện Hòa Bình. Chỉ trong một đêm, hơn một nghìn y bác sĩ và bệnh nhân bên trong viện bị cấm rời đi. Không có đủ trang thiết bị bảo hộ, không có đường phân ly hoàn chỉnh, cấp cứu và bệnh phòng thường trộn lẫn vào nhau. Bác sĩ lưu lại Hà Tống Dung sau này khi nhận phỏng vấn PTS nói rằng, ông chưa bao giờ nghĩ đến việc trốn thoát, «nhưng đáy lòng vẫn hơi bị tổn thương»[^1].
 
-Hai tuần sau khi tịch thể, 30 người chết, 1 người tự xuất tính. Con số này chiếm gần một nửa tổng số người chết do SARS tại Đài Loan. Tỷ lệ nhiễm bệnh và tử vong trong bệnh viện, cao hơn gần gũi so với các trường hợp tại Việt Nam, Singapore và Canada trong cùng thời kỳ[^2].
+Phong viện mười bốn ngày, 30 người chết, 1 người tự tử. Con số này chiếm gần một nửa tổng số ca tử vong do SARS tại Đài Loan. Tỷ lệ tử vong do nhiễm trùng trong viện tại Bệnh viện Hòa Bình cao hơn xa so với các trường hợp cùng kỳ tại Việt Nam, Singapore và Canada[^2].
 
-Một vụ nhiễm bệnh nội bệnh như được kiểm soát, nhưng do quyết định tịch thể nhanh chóng, thiếu thiết bị, và sự nhầm lẫn trong chỉ huy, đã trở thành một thảm họa con người.
+Một vụ nhiễm trùng trong viện vốn nên được kiểm soát, vì phong tỏa vội vã, thiết bị thiếu thốn, chỉ huy hỗn loạn, đã biến thành một tai họa do con người gây ra.
 
-## Di sản SARS: Tái cấu trúc toàn bộ
+## Di sản của SARS: Tái thiết triệt để
 
-Trong thập kỷ sau SARS, Đài Loan biến nhục tiếng thành quy chế hành chính.
+Thập niên sau SARS, Đài Loan đã biến nhục nhã thành thể chế.
 
-**Nâng cấp Cục Quản lý Bệnh truyền nhiễm**: Năm 2004, Bộ Y tế Nhà nước (Hô nay là Bộ Y tế và Dịch vụ Xã hội) hợp nhất đơn vị phòng chống dịch cấp thấp thành "Cục Quản lý Bệnh truyền nhiễm", sau đó nâng cấp thành "Cục Quản lý Bệnh truyền nhiễm" (CDC), trở thành cơ quan chuyên trách tổng hợp phòng chống dịch bệnh toàn quốc.
+**Nâng cấp Cục Kiểm soát Bệnh tật**: Năm 2004, Bộ Y tế Văn phòng Hành chính viện (nay là Bộ Y tế) đã hợp nhất các đơn vị phòng dịch cấp thấp ban đầu thành «Cục Kiểm soát Bệnh tật», sau đó nâng cấp thành «Cục Kiểm soát Bệnh tật» (CDC), trở thành cơ quan chuyên trách thống籌 phòng chống truyền染 bệnh toàn quốc.
 
-**Pháp lý hóa Trung tâm Chỉ huy Phép dịcḥch cao áp (CECC)**: Sửa đổi Luật Phòng dịch bệnh, chính thức giao quyền chính phủ kích hoạt CECC khi dịch bệnh bùng phát, tích hợp tài nguyên các bộ ngành. Cơ cấu này trở thành trung tâm phòng dịch COVID-19 của Đài Loan[^3].
+**Trung tâm Chỉ huy Dịch bệnh Trung ương (CECC) được pháp chế hóa**: Sửa đổi 《Luật Phòng chống Truyền nhiễm》, rõ ràng ủy quyền cho chính phủ khởi động CECC khi dịch bệnh bùng phát, hội tụ nguồn lực liên bộ. Cơ chế này trở thành cốt lõi của phòng chống dịch tại Đài Loan trong đại dịch COVID-19[^3].
 
-**Sửa đổi toàn diện quy trình kiểm soát nhiễm bệnh bệnh viện**: Quy trình đeo ngừa, hệ thống thông báo kiểm soát nhiễm bệnh, danh sách bệnh viện hỗ trợ khẩn cấp — tất cả những gì thiếu thốn trong thời kỳ SARS đã được ghi vào quy chế sau dịch. Bộ Y tế và Dịch vụ Xã hội phải cập nhật danh sách bệnh viện chuẩn bị sẵn sàng đối mặt với bệnh truyền nhiễm nghiêm trọng mỗi hai năm[^4].
+**Kiểm soát nhiễm trùng bệnh viện được sửa đổi toàn diện**: Quy trình vận hành chuẩn mặc đồ bảo hộ, hệ thống báo cáo kiểm soát nhiễm trùng, danh sách bệnh viện ứng biến chỉ định — tất cả những gì thiếu hụt trong thời kỳ SARS đều được viết vào thể chế sau dịch. Bộ Y tế phải cập nhật danh sách bệnh viện ứng biến đối mặt truyền染 bệnh nghiêm trọng mỗi hai năm[^4].
 
-> **📝 Ghi chú của người dẫn chương trình**
-> Ý nghĩa của SARS đối với hệ thống phòng dịch của Đài Loan tương tự như động đất 921 đối với quy chế thi công tòa nhà: một vận thảm họa khiến các hệ thống lộ lỏng, sau đó bằng máu mồ côi được ghi vào quy chế. Những quy chế này hai mươi năm sau cứu sống.
+> **📝 Ghi chú của người biên soạn**
+> Ý nghĩa của SARS đối với hệ thống phòng chống dịch của Đài Loan, tương tự như ý nghĩa của Địa chấn 921 đối với quy định xây dựng: một thảm họa, phơi bày mọi lỗ hổng hệ thống, sau đó những bài học đổi bằng máu được viết thành điều luật. Những điều luật này đã cứu sống người mười bảy năm sau.
 
 ## COVID-19: Mô hình Đài Loan
 
-Ngày 31 tháng 12 năm 2019, Thư pháp Bắc Kinh cho biết có trường hợp cảm cúm không rõ nguyên nhân. Ngày đó, Cục Quản lý Bệnh truyền nhiễm của Đài Loan đã bắt đầu thực hiện kiểm tra xuống cấp cho hành khách bay thẳng từ Bắc Kinh[^5].
+Ngày 31 tháng 12 năm 2019, Vũ Hán truyền tin về căn bệnh viêm phổi không rõ nguyên nhân. Cùng ngày đó, Cục Kiểm soát Bệnh tật Đài Loan đã bắt đầu kiểm dịch khi lên máy bay đối với hành khách trên các chuyến bay thẳng từ Vũ Hán[^5].
 
-Ngày 20 tháng 1 năm 2020, Đài Loan kích hoạt CECC, sớm hơn WHO công bố sự kiện công cộng y tế quốc tế 10 ngày.
+Ngày 20 tháng 1 năm 2020, Đài Loan kích hoạt CECC (Trung tâm Chỉ huy Dịch bệnh Trung ương), sớm hơn mười ngày so với việc WHO tuyên bố tình trạng khẩn cấp y tế công cộng quốc tế.
 
-Trong 18 tháng sau, Đài Loan duy trì một kỷ lục gần như không thể tưởng tượng trên thế giới: không có nghiên cứng cộng đồng. Khi thế giới cạnh tranh nhau mua khẩu trang, Đài Loan đã thiết lập chế độ đăng ký tên thực cho khẩu trang trong vòng hai tuần, thông qua thẻ bảo hiểm y tế tại nhà thuốc và cửa hàng tiện lợi. Thành Năng (Thành Năng, 蔡英文, thờ kỳ Trưởng phòng sống kỹ thuật số) điều phối các kỹ sư dân sĩ phát triển bản đồ khẩu trang, chính phủ công bố số lượng tồn kho ngay lập tức, trong vòng 72 giờ, mọi người dân trên đảo có thể xem qua điện thoại di động điểm bán khẩu trang gần nhất[^6].
+Trong 18 tháng tiếp theo, Đài Loan duy trì một kỷ lục gần như không thể nào ở quy mô toàn cầu: không ca nhiễm trong cộng đồng. Khi cả thế giới đang争抢 khẩu trang, Đài Loan chỉ trong hai tuần đã thiết lập chế độ mua khẩu trang thực danh, thông qua thẻ Bảo hiểm Y tế tại các nhà thuốc và cửa hàng tiện lợi. Audrey Tang (Đường Phong, lúc bấy giờ là Chánh án Số) phối hợp các kỹ sư dân間 phát triển "Bản đồ khẩu trang", chính phủ công bố dữ liệu tồn kho thời gian thực, trong 72 giờ toàn bộ người dân Đài Loan có thể tra cứu trên điện thoại các điểm bán khẩu trang gần nhất[^6].
 
-Chiến lược phòng dịch của Đài Loan được các tạp chí khoa học như Nature Immunology gọi là "mô hình Đài Loan", tóm tắt thành bốn nguyên tắc: phản ứng nhanh chóng (rapid), triển khai sớm (early deployment), hành động cẩn trọng (prudent), minh bạch (transparent)[^7].
+Chiến lược phòng dịch của Đài Loan được các tạp chí học thuật như _Nature Immunology_ gọi là "Taiwan Model" (Mô hình Đài Loan), tóm gọn thành bốn nguyên tắc: phản ứng nhanh (rapid), triển khai sớm (early deployment), hành động thận trọng (prudent), công khai minh bạch (transparent)[^7].
 
-> **💡 Bạn biết không**
-> Đài Loan ban đầu thúc đẩy "ngoại giao khẩu trang", tặng khẩu trang cho các quốc gia bị ảnh hưởng nặng nề. Hoạt động tặng khẩu trang "Bảo vệ Đài Loan, giúp đỡ thế giới" được khởi động ngày 27 tháng 4 năm 2020, trong vòng một tuần, người dân tài trợ gần 4 triệu khẩu trang. "Đài Loan Có Thể Giúp Đỡ" trở thành biểu tượng trên cộng đồng quốc tế.
+> **💡 Bạn có biết không**
+> Trong giai đoạn đầu COVID-19, Đài Loan thúc đẩy "ngoại giao khẩu trang", tặng khẩu trang cho các nước dịch bệnh nặng. Hoạt động tặng quà "Bảo vệ Đài Loan, Giúp đỡ Thế giới" khởi động ngày 27 tháng 4 năm 2020, trong một tuần người dân quyên góp gần 4 triệu chiếc khẩu trang. "Taiwan Can Help" trở thành khẩu hiệu trên mạng xã hội quốc tế.
 
-Nhưng mô hình Đài Loan không hoàn hảo. Tháng 5 năm 2021, biến thể Alpha vượt qua thế giới giáo dục, ba cấp cảnh báo được triển khai hơn hai tháng. Tranh cãi về việc mua vaccine, tranh cãi về vaccine được sản xuất nội địa, hỗn loạn khi người nhiễm giữ ở nhà, đều phơi bày thiếu sót trong việc chuẩn bị trong những thời kỳ yên tĩnh.
+Nhưng Mô hình Đài Loan không hoàn hảo. Tháng 5 năm 2021, biến chủng Alpha đột phá đường phòng tuyến, cảnh báo cấp 3 được thực hiện hơn hai tháng. Tranh cãi mua sắm vắc-xin, tranh luận vắc-xin tự sản xuất, sự hỗn loạn trong việc cách ly tại nhà của người dương tính, tất cả đều bộc lộ mặt chưa chuẩn bị kỹ của hệ thống trong thời kỳ bình yên.
 
-> **⚠️ Góc độ tranh cãi**
-> Trong tranh cãi phân bố vaccine năm 2021, nhà sản xuất Foxconn Terry Gou và Tập đoàn Bán dẫn quốc tế Jensen Huang đã mua vaccine BNT cho chính phủ, khiến ra tranh cãi "tài sản dân sĩ có nên mua vaccine cho chính phủ". Các phản ứng cho rằng đây là phản ánh của lực lượng dân sĩ Đài Loan, trong khi những phản đối cho rằng điều này phản ánh sự thiếu vắng của cơ chế mua sắm vaccine của chính phủ.
+> **⚠️ Góc nhìn tranh议**
+> Trong tranh cãi phân phối vắc-xin năm 2021, Terry Gou (sáng lập viên Foxconn/Hồng Hải) và TSMC (Taiwan Semiconductor Manufacturing Company) lần lượt mua vắc-xin BNT tặng chính phủ, dẫn phát cuộc tranh luận "Dân间 có nên thay chính phủ mua vắc-xin không". Phe ủng hộ cho rằng đây là thể hiện sức mạnh dân间 Đài Loan, phe phê bình cho rằng điều này phản ánh cơ chế mua sắm của chính phủ đã thất bại.
 
-## H7N7: Thử nghiệm lại hệ thống phòng dịch
+## H7N7: Hệ thống phòng dịch lại được kiểm chứng
 
-Ngày 2 tháng 4 năm 2026, Cục Quản lý Bệnh truyền nhiễm công bố trường hợp đầu tiên của "người bị cút gà" H7 mới trên đất liền — một người nông dân vịt 70 tuổi tại tỉnh Chang Huy, xuất hiện triệu số mũi mũi, ho, cảmức toàn thân vào ngày 20 tháng 3. Xét nghiệm gene xác nhận là H7N7, thuộc cấp độ thấp nguy cơ[^8].
+Ngày 2 tháng 4 năm 2026, Cục Kiểm soát Bệnh tật công bố ca đầu tiên H7 cúm A mới bản địa «từ gia cầm sang người» tại Đài Loan — một nông dân nuôi vịt bảy mươi tuổi tại huyện Chương Hoá, ngày 20 tháng 3 xuất hiện các triệu chứng chảy nước mũi, ho, đau nhức toàn thân. Xác định trình tự gene khẳng định là H7N7, thuộc loại độc lực thấp[^8].
 
-Quy trình chuẩn của hệ thống phòng dịch được kích hoạt: xác định 33 người tiếp xúc để giám sát sức khỏe, 3 người được cho tiêm phòng tiêm phòng, toàn bộ họ hàng đều cho xét nghiệm âm tính. Cục Quản lý Bệnh truyền nhiễm phát hành bốn đến năm triệu khẩu trang cho các hội nông dân vịt trên toàn quốc. Đánh giá kết quả: một sự kiện đơn độc, nguy cơ được kiểm soát[^9].
+Hệ thống phòng dịch khởi động quy trình chuẩn: vẽ danh sách 33 người tiếp xúc để theo dõi sức khỏe, 3 người được dùng thuốc dự phòng, người nhà lấy mẫu xét nghiệm toàn bộ âm tính. Cục Kiểm soát Bệnh tật phân phát bốn đến năm vạn khẩu trang cho các hội nông dân nuôi vịt toàn Đài Loan. Kết luận đánh giá: sự kiện đơn lẻ ngẫu nhiên, rủi ro có thể kiểm soát[^9].
 
-Đây chính là di sản của SARS đang hoạt động: có cơ quan chuyên trách (Cục Quản lý Bệnh truyền nhiễm), có quy chế pháp lý (Luật Phòng dịch bệnh), có quy trình chuẩn (xác định, tiêm phòng, giám sát), có thông tin công khai (họp báo và bản tin ngay lập tức). Tất cả những gì thiếu thốn tại Bệnh viện Changping 23 năm trước, giờ đây đều có rồi.
+Đây chính là di sản của SARS đang vận hành: có cơ quan chuyên trách (Cục Kiểm soát Bệnh tật), có quyền hạn pháp lý (Luật Phòng chống Truyền nhiễm), có quy trình chuẩn (vẽ danh sách, dùng thuốc, theo dõi), có thông tin công khai (họp báo tức thời và bản tin tức). Mọi thứ mà Bệnh viện Hòa Bình thiếu hụt hai mươi ba năm trước, bây giờ đều có.
 
-| 2003 SARS                 | 2020 COVID-19                                           | 2026 H7N7                                                  |
-| ------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| Sự nhầm lẫn trong chỉ huy | CECC kích hoạt ngay ngày hôm đó                         | Quy trình chuẩn được kích hoạt ngay lập tức                |
-| Tịch thể nhanh chóng      | Kiểm soát biên giới sớm triển khai                      | Xác định 33 người giám sát                                 |
-| Thiếu thiết bị            | Chế độ đăng ký tên thực cho khẩu trang 72 giờ thiết lập | Bốn đến năm triệu khẩu trang ngay lập tức cho nông dân vịt |
-| Thiếu minh bạch           | Họp báo hàng ngày                                       | Xác nhận gene ngay lập tức công bố                         |
+| 2003 SARS                 | 2020 COVID-19                                      | 2026 H7N7                                              |
+| ------------------------- | -------------------------------------------------- | ------------------------------------------------------ |
+| Chỉ huy hỗn loạn          | CECC khởi động ngay trong ngày                     | Quy trình chuẩn khởi động tức thời                     |
+| Phong viện vội vã         | Kiểm soát biên giới triển khai trước               | Vẽ danh sách 33 người theo dõi                         |
+| Thiết bị thiếu hụt        | Chế độ khẩu trang thực danh thành lập trong 72 giờ | Bốn năm vạn khẩu trang phát ngay cho nông dân nuôi vịt |
+| Thông tin không minh bạch | Họp báo hàng ngày                                  | Công bố trình tự gene tức thời                         |
 
-## Bảo hiểm y tế: Cơ sở hạ tầng ẩn cho phòng dịch
+## Bảo hiểm y tế: Cơ sở hạ tầng vô hình của phòng chống dịch
 
-Hạ tầng phòng dịch của Đài Loan là 2.340 triệu người dùng chung một cơ sở dữ liệu bảo hiểm y tế, một thẻ bảo hiểm y tế. Thẻ này trong thời kỳ COVID-19 trở thành cơ sở hạ tầng phòng dịch: chế độ đăng ký tên thực cho khẩu trang dựa vào thẻ bảo hiểm y tế, lịch sử du lịch được gắn liền với thẻ bảo hiểm y tế, hồ sơ tiêm vaccine ghi trong thẻ bảo hiểm y tế. Không có cơ sở dữ liệu bao phủ toàn dân này, mô hình Đài Loan không thể tồn tại[^10].
+Hệ thống phòng chống dịch của Đài Loan có nền tảng là [Bảo hiểm y tế toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance/) được triển khai năm 1995.
 
-> **✦** "SARS là bài học đau thương nhất trong lịch sử y tế công cộng của Đài Loan. Nhưng bài học đau thương nhất cũng dạy ra những học sinh tốt nhất."
+23,4 triệu người chung một cơ sở dữ liệu bảo hiểm y tế, một thẻ bảo hiểm y tế. Chiếc thẻ này trong đại dịch COVID-19 trở thành cơ sở hạ tầng phòng chống dịch: chế độ thực tên mua khẩu trang dựa trên thẻ bảo hiểm y tế để đăng ký, ghi chú tiền sử đi lại dựa trên thẻ bảo hiểm y tế để liên kết, hồ sơ tiêm chủng ghi trên thẻ bảo hiểm y tế. Nếu không có cơ sở dữ liệu bao phủ toàn dân này, "mô hình Đài Loan" không thể hình thành[^10].
 
-Hai mươi ba năm sau khi tịch thể Bệnh viện Changping, ngôi nhà vẫn đứng vững trên phố Trung Hoa, TP. Hồ Chí Minh. Khi bác sĩ rời khỏi phòng cấp cứu, một số người vẫn nhớ lại những ngày tháng đó. Thành Năng nói anh không trách tố, nhưng vết thương ấy "chưa hết lành". Có lẽ không cần lành hoàn toàn. Có l một hệ thống phòng dịch quan trọng nhất, chính là biết nhớ điều đau.
+> **✦** 「SARS là bài học đau đớn nhất trong lịch sử y tế công cộng của Đài Loan. Nhưng bài học đau đớn nhất, lại dạy ra học sinh tốt nhất.」
 
-**Đọc thêm**
+Hai mươi ba năm sau khi Bệnh viện Hòa Bình bị phong tỏa, tòa nhà đó vẫn đứng vững trên đường Trung Hoa tại Đài Bắc. Những y bác sĩ bước vào phòng cấp cứu, một số vẫn nhớ những chuyện năm xưa. Hà Tống Dung nói ông không oán giận, nhưng vết thương ấy "chưa hẳn lành hẳn". Có lẽ không cần lành. Có lẽ cơ quan quan trọng nhất của một hệ thống phòng chống dịch, chính là nhớ đau.
 
-- [Phòng hít thở trong khu vực hút thuốc ở TP. Hồ Chí Minh: Hộp giấy lấp đầy thành phố không hút thuốc](/xã hội/phòng-hít-thở-trong-khu-vực-hút-thuốc) — Hành trình bảo vệ khu vực không hút thuốc đàn hồi bốn mươi năm gần đây, trường chiến trường chuyển từ không trong nhà sang không trong nhà.
+**Mở rộng đọc**:
 
-- [Y tế và Bảo hiểm y tế toàn dân của Đài Loan](/lifestyle/y-tế-và-bảo-hiểm-y-tế-toàn-dân-của-đài-loan) — Cơ sở hạ tầng phòng dịch: 2,340 triệu người dùng cơ sở dữ liệu bảo hiểm y tế chung
-- [Thành Năng](/people/thành-năng) — Sống kỹ thuật số đằng sau bản đồ khẩu trang
-- [Hệ thống y tế chữa khôn hạn hạn của Đài Loan](/công-nghệ/hệ-thống-y-tế-chữa-khôn-hạn-hạn-của-đài-loan) — Từ 921 đến SARS, hành trình thảm họa kích hoạt tiến bộ y tế
-- [Luật hai lần mRNA 30 năm × Luật sửa chữa bệnh lý — Tài liệu chứng thực từ các chuyên gia về quy chế và phòng dịch](/xã hội/luật-hai-lần-mrna-30-năm-×-luật-sửa-chữa-bệnh-lý-—-tài-liệu-chứng-thực-từ-các-chuyên-gia-về-quy-chế-và-phòng-dịch) — Góc nhìn mở rộng về việc mua vaccine BNT năm 2021 và luật quy chế tế bào, bài viết về phòng dịch COVID.
+- [Phòng hút thuốc lá Đài Bắc: Trong thành phố không khói, những hộp kính biết thở](/vi/society/taipei-smoking-room) — Chương mới nhất trong cuộc hành trình bốn mươi năm phòng chống hại thuốc lá, chiến trường từ trong nhà chuyển ra ngoài trời
+
+- [Y tế Đài Loan và Bảo hiểm y tế toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Cơ sở hạ tầng nền tảng của hệ thống phòng chống dịch: Cơ sở dữ liệu bảo hiểm y tế của 23,4 triệu người
+
+- [Audrey Tang (Đường Phong)](/vi/people/audrey-tang) — Thứ trưởng số đứng sau bản đồ khẩu trang
+
+- [Hệ thống y tế ứng phó thảm họa của Đài Loan](/vi/technology/taiwan-disaster-medicine-system) — Từ 921 đến SARS, thảm họa như thế nào thúc đẩy y tế tiến hóa
+
+- [Đại dịch COVID-19 tại Đài Loan và vắc-xin](/vi/society/taiwan-covid-pandemic-and-vaccines) — Hệ thống được xây dựng sau SARS, trong năm 2020 đến 2023 đã được kiểm tra toàn diện: biên giới chặn đứng mười tám tháng, nhưng vắc-xin và mũi thứ ba cho người cao tuổi lại không kịp
+
+- [Hai luật y tế tái tạo × mRNA 30 năm](/vi/society/taiwan-regenerative-medicine-laws) — Mua vắc-xin BNT năm 2021 + lập pháp trị liệu tế bào, hai tuyến kể chuyện song song, góc nhìn mở rộng cho phòng chống COVID trong bài này
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang tin Công phát: 20 năm SARS, phỏng vấn bác sĩ Thành Năng, người ở lại Bệnh viện Changping](https://news.pts.org.tw/article/627811) — Thành Năng nhớ lại hoàn cảnh trong quá trình tịch thể: "Tôi không bao giờ nghĩ đến việc chạy trốn, nhưng trong lòng vẫn còn một chút thương xót."
+[^1]: [PTS News: 20 năm SARS, phỏng vấn bác sĩ lưu lại tại Bệnh viện Hòa Bình khi phong viện Hà Tống Dung](https://news.pts.org.tw/article/627811) — Hà Tống Dung hồi tưởng hoàn cảnh thời phong viện: «Từ chưa từng nghĩ đến việc trốn thoát, nhưng đáy lòng vẫn hơi bị tổn thương.»
 
-[^2]: [Wikipedia tiếng Việt: SARS tại Đài Loan](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%87%8D%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E5%80%9B%E7%BE%A4%E5%8F%B0%E7%81%A3%E7%96%AB%E6%83%85) — Tổng số 73 người chết do SARS tại Đài Loan, vụ tịch thể Bệnh viện Changping 14 ngày gây ra 30 người chết, chiếm gần một nửa tổng số người chết trên toàn đảo.
+[^2]: [Wikipedia: Dịch bệnh Hội chứng hô hấp cấp tính nặng tại Taiwan](https://zh.wikipedia.org/zh-tw/%E5%9A%B4%E9%87%8D%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E9%81%93%E7%97%87%E5%80%99%E7%BE%A4%E5%8F%B0%E7%81%A3%E7%96%AB%E6%83%85) — Taiwan SARS tích lũy 73 ca tử vong, Bệnh viện Hòa Bình phong viện 14 ngày gây 30 tử vong, chiếm gần một nửa số ca tử vong toàn Taiwan.
 
-[^3]: [PMC: Học hỏi từ quá qua — Phản hồi của Đài Loan với COVID-19 so với SARS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8178059/) — Bài luận khoa học so sánh các biện pháp hành chính sau SARS trực tiếp hỗ trợ phòng dịch COVID-19, bao gồm pháp lý hóa CECC, nâng cấp CDC và các biện pháp then chốt khác.
+[^3]: [PMC: Học từ quá khứ — Phản ứng của Taiwan đối với COVID-19 so với SARS](https://pmc.ncbi.nlm.nih.gov/articles/PMC8178059/) — Bài báo học thuật so sánh cách cải cách thể chế sau SARS trực tiếp hỗ trợ phòng chống COVID-19, bao gồm các biện pháp then chốt như pháp chế hóa CECC, nâng cấp CDC.
 
-[^4]: [Báo chí: Từ SARS đến COVID-19, tại sao Bệnh viện Changping vẫn là con trùng quan trọng của hệ thống phòng dịch của Đài Loan](https://www.twreporter.org/a/covid-19-heping-hospital) — Báo sâu về quá trình phát triển hệ thống phòng dịch từ thời SARS đến COVID-19.
+[^4]: [The Reporter: Từ SARS đến COVID-19, tại sao Bệnh viện Hòa Bình vẫn là đòn bẩy then chốt của dịch bệnh Taiwan](https://www.twreporter.org/a/covid-19-heping-hospital) — Báo cáo chuyên sâu về sự tiến hóa thể chế của Bệnh viện Hòa Bình từ phong viện SARS đến dọn viện COVID-19.
 
-[^5]: [Nature Immunology: Kinh nghiệm của Đài Loan trong chiến chống COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Bài viết chuyên ngành phân tích chiến lược phòng dịch của Đài Loan, ghi nhận việc kích hoạt kiểm tra xuống cấp hành khách từ Bắc Kinh ngay ngày 31/12/2019.
+[^5]: [Nature Immunology: Kinh nghiệm của Taiwan trong chống lại COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Chuyên mục tạp chí con của Nature phân tích chiến lược phòng dịch của Taiwan, ghi nhận ngày 31/12/2019 ngay lập tức khởi động kiểm dịch lên máy bay chuyến Wuhan.
 
-[^6]: [Atlantic Council: Bài học từ kinh nghiệm của Đài Loan với COVID-19](https://www.atlanticcouncil.org/blogs/new-atlanticist/lessons-from-taiwans-experience-with-covid-19/) — Hiệp hộ Đại Tây Dương phân tích việc thiết lập chế độ đăng ký tên thực cho khẩu trang, bản đồ khẩu trang và công cụ phòng dịch số của Đài Loan.
+[^6]: [Hội đồng Đại Tây Dương: Bài học từ kinh nghiệm Taiwan với COVID-19](https://www.atlanticcouncil.org/blogs/new-atlanticist/lessons-from-taiwans-experience-with-covid-19/) — Hội đồng Đại Tây Dương phân tích quá trình thiết lập chế độ thực tên khẩu trang, bản đồ khẩu trang và công cụ phòng dịch số của Taiwan.
 
-[^7]: [European Journal of Public Health: Bài học rút ra từ phản hồi của Đài Loan đối với đại dịch COVID-19](https://academic.oup.com/eurpub/article/35/1/153/7905788) — Tạp chí Y tế công cộng châu Âu tóm tắt bốn nguyên tắc phòng dịch của Đài Loan: nhanh chóng, sớm, cẩn trọng, minh bạch.
+[^7]: [Tạp chí Y tế công cộng Châu Âu: Bài học rút ra từ phản ứng của Taiwan đối với đại dịch COVID-19](https://academic.oup.com/eurpub/article/35/1/153/7905788) — Tạp chí Y tế công cộng Châu Âu tổng kết bốn nguyên tắc phòng dịch của Taiwan: Nhanh chóng, Tiền phong, Thận trọng, Minh bạch.
 
-[^8]: [Cục Quản lý Bệnh truyền nhiễm: Phát hiện trường hợp đầu tiên của chủng H7 mới trên đất liền](https://www.cdc.gov.tw/Bulletin/Detail/bZE85LXA9ZGdCvEJKZe6Cg?typeId=9) — Thông báo chính thức về trường hợp người nông dân vịt 70 tuổi tại tỉnh Chang Huy xác nhận nhiễm H7N7, xét nghiệm gene thấp nguy cơ, xác định 33 người tiếp xúc giám sát.
+[^8]: [Cục Kiểm soát Bệnh tật: Phát hiện ca đầu tiên H7 cúm A mới bản địa trong nước](https://www.cdc.gov.tw/Bulletin/Detail/bZE85LXA9ZGdCvEJKZe6Cg?typeId=9) — Công bố chính thức: Nông dân nuôi vịt 70 tuổi tại Tràng Hoa xác nhận H7N7, trình tự gene loại độc lực thấp, đặt 33 người tiếp xúc dưới giám sát.
 
-[^9]: [Trang tin Công phát: Trường hợp đầu tiên của "người bị cút gà" H7 mới trên đất liền, Cục Quản lý Bệnh truyền nhiễm đánh giá là một sự kiện đơn độc](https://news.pts.org.tw/article/801881) — Cục Quản lý Bệnh truyền nhiễm đánh giá nguy cơ: thấp nguy cơ, không có gen người truyền dịch, toàn bộ người tiếp xúc đều âm tính.
+[^9]: [PTS News: Ca đầu tiên truyền từ gia cầm sang người H7 cúm mới bản địa, Cục Kiểm soát Bệnh tật đánh giá là sự kiện đơn lẻ ngẫu nhiên](https://news.pts.org.tw/article/801881) — Đánh giá rủi ro của Cục Kiểm soát Bệnh tật: Độc lực thấp, không có đột biến gen truyền người sang người, người tiếp xúc toàn bộ âm tính.
 
-[^10]: [Trang web quyết định chính phủ phòng dịch COVID-19 của Bộ Y tế và Dịch vụ Xã hội: Đài Loan Có Thể Giúp Đỡ](https://covid19.mohw.gov.tw/ch/cp-4843-53644-205.html) — Tài liệu chính phủ tóm tắt các biện pháp quan trọng trong phòng dịch COVID-19, bao gồm lịch sử du lịch gắn liền với thẻ bảo hiểm y tế, chế độ đăng ký tên thực cho khẩu trang, và ngoại giao khẩu trang.
+[^10]: [Bộ Y tế COVID-19 Mạng lưới quyết định phòng dịch then chốt: Taiwan Can Help](https://covid19.mohw.gov.tw/ch/cp-4843-53644-205.html) — Chính thức tổng hợp các biện pháp then chốt phòng dịch của Taiwan, bao gồm thẻ Bảo hiểm y tế liên động lịch sử du lịch, chế độ thực tên khẩu trang, ngoại giao khẩu trang, v.v.
