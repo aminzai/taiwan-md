@@ -658,7 +658,9 @@ def main():
     # 閘門在看，於是佔位符直接印在讀者眼前——實測全庫三篇帶著它上線最久的已經
     # 兩週（ko/連江縣 三個、ru/新北市、vi/莫那魯道）。這是「工具持有結構」這條
     # 原則的收尾：持有就要驗自己有沒有還回去，不能只驗模型有沒有亂改。
-    armor_residue = re.findall(r"@@\s*LINK[^@\s]{0,8}@@", en_content)
+    # 兩種形狀都要認：整篇引擎的 ⟦U12⟧ 與分段／patch 引擎的 @@LINK3@@。
+    # 只認一種等於只擋住一條引擎（實測 ⟦Un⟧ 殘留 10 份、@@LINKn@@ 3 份）。
+    armor_residue = re.findall(r"⟦[^⟧\n]{0,12}⟧|@@\s*LINK[^@\s]{0,8}@@", en_content)
     if armor_residue:
         add("no armor placeholder residue", "FAIL",
             f"{len(armor_residue)} 個未還原的佔位符：{', '.join(sorted(set(armor_residue))[:5])}")

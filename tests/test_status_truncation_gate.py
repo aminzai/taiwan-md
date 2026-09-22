@@ -41,3 +41,19 @@ def test_missing_bytes_fields_do_not_trigger_gate(monkeypatch):
     monkeypatch.setattr(MODULE.Path, "exists", lambda self: True)
     r = MODULE.classify(_zh(bytes=0), _tr(bytes=0))
     assert r["status"] == "fresh"
+
+
+def test_armor_residue_is_forced_stale_even_with_matching_provenance():
+    """裝甲殘留閘（2026-09-23）：三條引擎都把網址換成佔位符再換回來，換不回來時
+    佔位符印給讀者看，而三個 hash 照樣對得上 → 永遠 fresh。判 stale 讓產線重翻，
+    不在原地猜原始網址。"""
+    r = MODULE.classify(_zh(), _tr(armorResidue=3))
+    assert r["status"] == "stale" and r["reason"].startswith("armor-residue")
+
+
+def test_armor_residue_regex_catches_both_engine_shapes():
+    """整篇引擎是 ⟦U12⟧、分段與 patch 引擎是 @@LINK3@@——只認一種等於只擋一條引擎。"""
+    hits = MODULE.ARMOR_RESIDUE_RE.findall(
+        "正文 ⟦U12⟧ 與 [text](@@LINK3@@) 還有 ⟦Un⟧ 這種壞掉的")
+    assert len(hits) == 3
+    assert MODULE.ARMOR_RESIDUE_RE.findall("乾淨的譯文沒有任何佔位符") == []

@@ -41,6 +41,12 @@ LANG_DIRS = ALL_TRANSLATION_LANGS  # SSOT: src/config/languages.mjs via langs.py
 # 全檔 bytes 比例低於此值判 truncated → 強制 stale（見 classify()）。數值 SSOT 與
 # audit-quality.py SUSPICIOUS_THRESHOLD / babel-dispatch.py CRITICAL_TRUNCATION_RATIO 一致。
 TRUNCATION_RATIO = 0.5
+# 裝甲佔位符的兩種形狀：整篇引擎的 ⟦U12⟧（translate.py tokenize_urls）與分段／
+# patch 引擎的 @@LINK3@@（structured-translate.py _protect_embedded_links）。
+# 判準跟 verify-translation.py「no armor placeholder residue」那條同源（兩處要一起改）。
+# ⟦⟧ 內不限數字：實測有模型把指示裡的字面 `⟦Un⟧` 原樣抄進正文（ar 對外貿易篇），
+# 只認 `⟦U\d+⟧` 會漏掉它——形狀認得越死，模型的變體就越容易穿過去。
+ARMOR_RESIDUE_RE = re.compile(r"⟦[^⟧\n]{0,12}⟧|@@\s*LINK[^@\s]{0,8}@@")
 
 
 # ---------- frontmatter parsing (no yaml dep, single-line scalar only) ----------
@@ -301,6 +307,7 @@ def scan_translations(lang: str) -> dict:
             "inferred": fm.get("translatedFromInferred", "") in ("true", "True"),
             "footnoteDefs": count_footnote_defs(content),
             "bytes": len(content.encode("utf-8")),
+            "armorResidue": len(ARMOR_RESIDUE_RE.findall(content)),
         }
     return result
 
@@ -341,6 +348,16 @@ def classify(zh_data: dict, trans_data: dict) -> dict:
     tr_bytes = trans_data.get("bytes", 0)
     if zh_bytes > 0 and tr_bytes > 0 and (tr_bytes / zh_bytes) < TRUNCATION_RATIO:
         return {"status": "stale", "reason": f"truncated (ratio {tr_bytes / zh_bytes:.2f})"}
+
+    # 裝甲殘留閘（2026-09-23）：同一個結構第三次——三條引擎都把網址換成佔位符
+    # （整篇引擎 `⟦Un⟧`、分段與 patch 引擎 `@@LINKn@@`）再換回來，換不回來時
+    # 佔位符直接印在讀者眼前，而 provenance 三個 hash 照樣對得上 → 永遠 fresh、
+    # 永遠沒有路徑會再碰它（實測全庫 13 份，最久的兩週）。判成 stale 讓產線重翻，
+    # 新譯文得過 verify-translation 那道同源閘門才換得上去——不猜原始網址（猜錯
+    # 是把讀者送到別人的頁面），讓重翻整篇取代局部修補。
+    if trans_data.get("armorResidue", 0):
+        return {"status": "stale",
+                "reason": f"armor-residue ({trans_data['armorResidue']} 個未還原佔位符)"}
 
     zh_sha = zh_data["lastCommit"]
     zh_hash = zh_data["contentHash"]
