@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: 'df2e75589'
-sourceContentHash: 'sha256:259b129f305ff5f9'
-sourceBodyHash: 'sha256:366255e36a4fa0f5'
-translatedAt: '2026-07-29T06:33:08+08:00'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:f03fe4356a8b034b'
+sourceBodyHash: 'sha256:0511dd3ec1c7896e'
+translatedAt: '2026-09-22T21:40:35.033853+00:00'
 ---
 
 # Yan Chang-shou: Dari Office Boy Ruang Surat ke Bapak Pariwisata, Lalu Dia Melepaskan Segalanya
@@ -127,31 +131,31 @@ Dia ungkap hal ini di catatan akhir _Pendidikan Harus Berbeda_ 2011. Dia tidak b
 
 25 Oktober 2011, di Istana Presiden dia dapat Bintang Jasa Utama Kelas Tiga[^22]. Seorang lulusan SMA office boy ruang surat, jalan sampai Istana Presiden.
 
-## 27 Meter Cheng-han Guan
+## Tinggi 27 Meter Jinzun
 
-15 Maret 2025, Jinzun Taitung. Taman Seni Jiang Xian-er resmi dibuka[^23].
+Pada tanggal 15 Maret 2025, kawasan seni Jiang Xian-er di Jinzun, Taitung, dibuka[^23].
 
-Ini proyek Yan Chang-shou dorong dua belas tahun. Jiang Xian-er salah satu pelukis abstrak terpenting Taiwan, akhir hayat menetap Taitung. Yan Chang-shou meyakinkannya bangun taman seni di pinggir laut Jinzun—bukan Taipei, bukan kawasan komersial manapun, di pantai timur paling terpencil Taiwan.
+Ini adalah proyek yang didorong oleh Yan Chang-shou selama dua belas tahun. Jiang Xian-er adalah salah satu pelukis abstrak terpenting Taiwan dan menetap di Taitung pada masa tuanya. Yan Chang-shou meyakinkannya untuk membangun kawasan seni di tepi laut Jinzun—bukan di Taipei, bukan di zona komersial mana pun, melainkan di pesisir timur yang paling terpencil di Taiwan.
 
-Arsitek Lin You-han desain lima bangunan, mengikuti lereng Pegunungan Pantai. Yang tertinggi "Cheng-han Guan" 27 meter, bentuknya perbesaran 20 kali patung baja Jiang Xian-er[^24]. Dinding beton bersih, atap dilapisi baja tahan cuaca—jenis yang seiring waktu oksidasi, perlahan jadi merah coklat, seperti bangunan berusia bersama tanah Taitung. Di taman ada kebun kaktus, koridor Danau Perak, dan kafe bernama "Debussy".
+Arsitek Lin You-han merancang lima bangunan yang tersusun mengikuti lereng pegunungan pantai. Bangunan tertinggi, "Cheng Han Hall," memiliki tinggi 27 meter dan bentuknya adalah perbesaran 20 kali dari patung baja karya Jiang Xian-er[^24]. Dinding luarnya terbuat dari beton cetak halus, sementara atapnya dilapisi baja tahan cuaca—jenis baja yang akan beroksidasi seiring waktu, perlahan berubah menjadi merah kecoklatan, seolah bangunan itu menua bersama tanah Taitung. Kawasan ini memiliki taman kaktus, koridor Silver Lake, dan sebuah kafe bernama "Debussy."
 
-Yan Chang-shou menjabat Direktur Taman. Visinya menyambung Chishang, Jinzun, dan titik-titik pantai timur lain jadi satu kluster seni, meniru Festival Seni Setouchi Jepang[^24].
+Yan Chang-shou menjabat sebagai direktur kawasan tersebut. Visinya adalah menghubungkan Chi-song, Jinzun, dan lokasi lain di pesisir timur menjadi satu komunitas seni, menandingi Festival Seni Seto Inland Sea di Jepang[^24].
 
-78 tahun. Kurang satu ginjal. Dia masih buat proyek fondasi Taitung.
+Pada usia 78 tahun, ia kekurangan satu ginjal. Ia masih terus membangun fondasi untuk Taitung.
 
-"Saya hanya ingin Taiwan menjadi baik, proyek pembangunan fondasi butuh orang yang melakukannya."[^4]
+"Saya hanya ingin Taiwan menjadi lebih baik; seseorang harus melakukan pekerjaan dasar ini."[^4]
 
-Ada bilang dia idealis. Ada bilang dia orang sukses duduk manis kritik. Mungkin keduanya benar. Tapi apa pun pandanganmu, satu hal tidak bisa dibantah: pria ini habiskan separuh hayatnya, di sudut Taiwan paling tak tersentuh sorot lampu, kerjakan pekerjaan paling tidak seksy tapi paling fundamental.
+Ada yang mengatakan dia seorang idealis. Ada juga yang mengatakan dia adalah orang sukses yang berbicara tanpa memikirkan konsekuensi. Mungkin keduanya benar. Tetapi apa pun pandangan Anda terhadapnya, satu hal tidak terbantahkan: orang ini telah menghabiskan setiap hari di paruh kedua hidupnya untuk melakukan pekerjaan dasar yang paling tidak glamor di sudut Taiwan yang paling minim sorotan.
 
-Deretan boot hujan di luar kelas masih ada. Sawah masih ditanam. Rumah pohon masih dibangun.
+Sepatu bot hujan panjang di luar ruang kelas itu masih ada. Sawah masih ditanami. Rumah pohon masih dibangun.
 
-**Baca Lanjutan**:
+**Baca Lebih Lanjut**:
 
-- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Yan Chang-shou mengubah pandangan Taiwan soal "industri jasa", minimarket lalu jadikan industri jasa infrastruktur seluruh rakyat
-- [Peta Budaya 16 Suku Asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Inti filsafat Sekolah Junyi: budaya asli bukan butuh "diselamatkan", tapi butuh dihormati
-- [Budaya Kopi Taiwan](/lifestyle/台灣咖啡文化) — Era Yan Chang-shou dorong layanan premium di The Regent, orang Taiwan masih minum kopi instan
-- [Mengajar untuk Taiwan TFT](/society/為台灣而教TFT) — Program pendidikan lain yang dicetuskan Yan Chang-shou, Liu An-ting bawa empat ratus muda masuk kelas pedalaman
-- [Lu Guan-wei](/id/people/lu-guan-wei-junyiacademy-founder) — Ketua Yayasan Platform Pendidikan Junyi, nama "Junyi" justru dipinjam dari Sekolah Junyi SD-SMP Taitung buatan Yan Chang-shou
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Yan Chang-shou mengubah pandangan orang Taiwan tentang "industri jasa," sementara minimarket menjadikannya infrastruktur dasar bagi semua orang
+- [Peta Budaya 16 Suku Pribumi Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Filosofi inti sekolah yang seragam: budaya pribumi bukanlah sesuatu yang perlu "diselamatkan," melainkan sesuatu yang harus dihormati
+- [Budaya Kopi Taiwan](/id/food/taiwan-coffee-culture) — Di era ketika Yan Chang-shou mempromosikan layanan premium di Yadu, orang Taiwan masih minum kopi instan
+- [Mengajar untuk Taiwan TFT](/id/society/teach-for-taiwan) — Proyek pendidikan lain yang digagas oleh Yan Chang-shou; Liu An-ting memimpin empat ratus pemuda ke ruang kelas pedesaan
+- [Luo Guan-wei](/id/people/lu-guan-wei-junyiacademy-founder) — Ketua Dewan Yayasan Pendidikan Seragam, nama "Seragam" diambil dari Sekolah Menengah Jinyi Taitung yang didirikan oleh Yan Chang-shou
 
 ## Referensi
 

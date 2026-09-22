@@ -25,15 +25,19 @@ imageCredit: 'Bea Phi (Phibeatrice)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg'
 sporeLinks:
-  [
-    "{'id': 84, 'platform': 'threads', 'date': '2026-05-23', 'url': 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'}",
-    "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
-  ]
+  - id: 84
+    platform: 'threads'
+    date: '2026-05-23'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYr71D9k-qA'
+  - id: 85
+    platform: 'x'
+    date: '2026-05-23'
+    url: 'https://x.com/taiwandotmd/status/2058211699229134864'
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
-sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
-translatedAt: '2026-07-29T17:42:45+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:d4818d717761979b'
+sourceBodyHash: 'sha256:45ca26bedda5e227'
+translatedAt: '2026-09-22T21:09:24.481183+00:00'
 ---
 
 ![Yang Shuang-zi pada 20 November 2024 di upacara penghargaan National Book Awards AS di New York, berdiri tenang di samping trofi dengan mengenakan jas gelap](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp)
@@ -140,31 +144,31 @@ Yang Shuang-zi wawancara _The Reporter_ jelasin lebih putih: "Pasca-318 (Gerakan
 
 > 📝 **Catatan Kurator**: Narasi penghargaan umum "sastra Taiwan pertama", "bikin bangga negara". Tapi dengar baik pidato Yang Shuang-zi dua kali, diksinya terkontrol. Ia bilang "dapat lahir sebagai orang Taiwan adalah keberuntungan; dapat berdiri di sini sebagai penulis Taiwan adalah kebanggaan", bukan "bikin bangga Taiwan". Bedanya di mana? Yang pertama menempatkan diri di posisi seratus tahun aliran panjang sastra Taiwan, yang kedua menjadikan penghargaan medali kebangsaan. Ia tahu ia terima tongkat "seratus tahun penelusuran", bukan kemuliaan pribadi.
 
-## Catatan Akhir Ditulis Orang Mati Lima Tahun
+## Epilog dari Seseorang yang Sudah Meninggal Lima Tahun
 
-Sore 19 Juni 2015, hari ke-11 Yang Jo-hui pulang dari ruang paliatif, berhenti bernapas. Hari itu Yang Jo-ci buka buku catatan pertama adik tinggalkan, mulai catat pengeluaran besok. Butuh tiga hari pahami tanda centang, lingkaran, segitiga — kode hanya adik sendiri paham.
+Pada malam tanggal 19 Juni 2015, sebelas hari setelah pulang dari kamar rawat inap Anning, Yang Ruohui menghembuskan napas terakhir. Pada hari itu, Yang Ruoci membuka buku kas pertama yang ditinggalkan oleh adiknya dan mulai mencatat pengeluaran untuk hari berikutnya. Ia membutuhkan waktu tiga hari untuk memahami kode rahasia—tanda centang, lingkaran, segitiga—yang hanya dimengerti oleh adiknya.
 
-Total 11 buku, dari 1999 kakak beradik 15 tahun mulai catat sampai hari sebelum adik meninggal. Setiap satu dolar dicatat.
+Total ada 11 buku catatan, dimulai sejak kedua saudara perempuan berusia 15 tahun pada tahun 1999 hingga sehari sebelum adik meninggal. Setiap sen tercatat.
 
-Lima tahun kemudian, musim semi 2020, Chun-shan terbitin sebuah buku. Sampul kredit "Qingshan Chizuru・Penulis／Yang Shuang-zi・Penerjemah". Buka halaman terakhir "Catatan Akhir Penerjemah", nama "Yang Jo-hui". Itu orang sudah mati lima tahun, di catatan akhir pakai nada penerjemah, melengkapi konteks "penulis asli" Qingshan Chizuru, daftarin catatan kaki fiktif.
+Lima tahun kemudian, di musim semi 2020, sebuah buku diterbitkan oleh Chunshan Publishing. Sampulnya mencantumkan nama "Qingshan Chizuko (Penulis) / Yang Shuangzi (Penerjemah)". Di halaman terakhir buku tersebut, pada bagian "Catatan Penerjemah," tertera nama "Yang Ruohui." Itu adalah seseorang yang telah meninggal lima tahun sebelumnya, dan dalam catatan itu, dengan nada seorang penerjemah, ia melengkapi konteks dari "penulis asli" Qingshan Chizuko dan mencantumkan catatan kaki fiktif.
 
-Lagi lima setengah tahun kemudian, 19 Mei 2026 London panggung penerimaan penghargaan, Yang Shuang-zi gaun hitam naik panggung, Lin King di samping. Di bawah lima juri Booker baru saja dari 128 buku pilih 6, dari 6 pilih satu novel Mandarin ini. Yang Shuang-zi bicara 4 menit, tidak menyebut "adik" sekali pun.
+Lima setengah tahun kemudian, pada panggung penghargaan di London pada Mei 2026, Yang Shuangzi naik ke panggung mengenakan gaun hitam, sementara Jin Ling berada di sampingnya. Lima juri Booker Prize di bawah telah memilih 6 buku dari 128 buku, dan kemudian memilih novel berbahasa Mandarin ini dari keenam buku tersebut. Yang Shuangzi berbicara selama 4 menit tanpa menyebut kata "adik."
 
-Tapi di wawancara _U-People_ ia pernah bilang satu kalimat, bisa dijadikan catatan kaki untuk penghargaan ini: "Kalau hasil ini bisa lebih awal sedikit saja, adik mungkin bisa lihat."[^34]
+Namun, dalam wawancara eksklusif dengan _You Ren Wu_, ia pernah mengatakan satu kalimat yang dapat dijadikan catatan kaki setelah acara penghargaan: "Alangkah baiknya jika hasilnya datang lebih cepat; mungkin adik saya bisa melihatnya."[^34]
 
-Buku catatan adalah kode yang Yang Jo-hui tinggalkan untuk kakak. Buku itu adalah posisi yang Yang Jo-ci tinggalkan untuk adik.
+Buku kas adalah kode rahasia yang ditinggalkan Yang Ruohui untuk kakaknya. Buku itu adalah posisi yang ditinggalkan Yang Ruoci untuk adiknya.
 
-![Yang Shuang-zi pada 19 November 2024 di acara pembacaan finalis National Book Awards AS di New York, memakai kacamata fokus membaca naskah](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
-_19 November 2024 NBA finalist reading (acara pembacaan finalis), Yang Shuang-zi di New York membaca kutipan bahasa Inggris *Catatan Perjalanan Taiwan*. Keesokan harinya ia resmi dapat Penghargaan Sastra Terjemahan. Foto: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg), CC BY-SA 4.0._
+![Yang Shuangzi membaca dengan fokus pada acara pembacaan di National Book Awards Amerika Serikat di New York pada 19 November 2024, menatap naskah sambil mengenakan kacamata](/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-reading-2024.webp)
+_Pembacaan finalis NBA pada 19 November 2024; Yang Shuangzi membacakan kutipan bahasa Inggris dari *Taiwan Travelogue* di New York. Malam harinya ia secara resmi menerima penghargaan sastra terjemahan. Foto: Bea Phi (Phibeatrice), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng%20Shu%C4%81ng-z%C7%90,%20writer,%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%203.jpg), CC BY-SA 4.0._
 
-**Baca Lanjutan**:
+**Bacaan Lanjutan**:
 
-- [Sastra Era Pendudukan Jepang](/art/日治時期文學) — Latar belakang era 1938 _Catatan Perjalanan Taiwan_, aliran penulisan wanita dan lokal oleh Yang Chizuru (楊千鶴)、Lai He (賴和)、Long Ying-zong (龍瑛宗) dll
-- [Sastra Taiwan Kontemporer](/art/當代台灣文學) — Generasi Yang Shuang-zi कैसे melanjutkan penulisan lokal Wu Ming-yi (吳明益)、Lin Yi-han (林奕含)、Luo Yi-jun (駱以軍), menuju pasar sastra terjemahan internasional
-- [Sastra Taiwan Pascamartial Law](/art/解嚴後台灣文學) — Dari 1987 pembebasan hukum sampai 2020-an gelombang penulisan wanita, LGBTQ, sastra bahasa ibu, tradisi "yuri" Yang Shuang-zi berasal dari sini
-- [Sejarah Sastra Taiwan](/art/台灣文學史) — Alur keseluruhan yang sesuai "seratus tahun penelusuran" yang dibicarakan Yang Shuang-zi saat terima penghargaan
-- [Zhu Tian-wen (朱天文)](/people/朱天文) — Penulis wanita representatif pascamartial law, _Catatan Orang Gila_ (荒人手記) dan _Kota Tua_ (古都) teknik pseudo-terjemahan jadi pendahuluan penting struktur terjemahan palsu sastra Taiwan
-- [Wu Ming-yi (吳明益)](/id/people/wu-ming-yi) — Sama-sama representatif Taiwan gelombang sastra terjemahan internasional 2020-an, _Manusia Mata Majemuk_ (複眼人), _Kejahatan Sepeda_ (單車失竊記) visibilitas di dunia berbahasa Inggris
+- [Sastra Era Pemerintahan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Latar waktu _Taiwan Travelogue_ pada tahun 1938, konteks penulisan perempuan dan lokal yang dirintis oleh Yang Qianhe, Lai He, dan Lung Ying-tsong
+- [Sastra Taiwan Kontemporer](/id/art/contemporary-taiwanese-literature) — Bagaimana generasi tempat Yang Shuangzi berada melanjutkan penulisan lokal dari Wu Mingyi, Lin Yi-han, hingga Luo Yijun menuju pasar sastra terjemahan internasional
+- [Sastra Taiwan Pasca-Pencabutan Status Darurat Militer](/id/art/post-martial-law-taiwanese-literature) — Gelombang penulisan perempuan, penulisan komunitas LGBTQ+, dan literatur bahasa ibu dari pencabutan status darurat militer pada tahun 1987 hingga tahun 2020-an; tradisi "yuri" Yang Shuangzi berasal dari sini
+- [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Konteks keseluruhan dari "penyelidikan seratus tahun" yang disebutkan oleh Yang Shuangzi saat menerima penghargaan
+- [Chu You-xun](/id/people/chu-tien-wen) — Penulis representatif penulisan perempuan pasca-pencabutan status darurat militer, teknik pseudo-terjemahan dalam _The Madman's Diary_ dan _Ancient Capital_ adalah pendahulu penting dari struktur terjemahan palsu dalam sastra Taiwan
+- [Wu Mingyi](/id/people/wu-ming-yi) — Penulis representatif Taiwan lainnya dalam gelombang literatur terjemahan internasional tahun 2020-an, visibilitas _The Bi-Eyed Person_ dan _Bicycle Theft Record_ di dunia berbahasa Inggris
 
 ## Sumber Gambar
 

@@ -1,83 +1,83 @@
 ---
-title: 'Golden Croissant: Kecelakaan di Pesawat dan Jiwa Kue Tionghoa dalam Kue Croissant Khas Taiwan'
-description: 'Golden Croissant Sanxia tidak berasal dari Prancis, melainkan dari seorang pengrajin kue Tionghoa yang secara tidak sengaja bertemu dengan roti Filipina di atas pesawat, yang akhirnya berkembang menjadi kue kering khas yang menopang kenangan penciuman Sanxia.'
+title: 'Goldenhorn: Kecelakaan di Pesawat dan Jiwa Roti Tionghoa di Roti Taiwan'
+description: 'Golden kerbau di Sanyi bukan berasal dari Prancis, melainkan hasil pertemuan kebetulan seorang tukang roti Tionghoa dengan roti Filipina di dalam pesawat, yang akhirnya berkembang menjadi cemilan khas Taiwan yang kokoh.'
 date: 2026-04-21
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
-  ['Sanxia', 'Golden Croissant', 'Lo Fu-ching', 'Oleh-oleh', 'Jajanan Taiwan']
-readingTime: 6
+  ['Sanyi', 'golden kerbau', "Lo Fu-ch'ing", 'olehan', 'kudapan khas Taiwan']
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
-featured: false
+readingTime: 6
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:c876a6c84ad1bc82'
+sourceCommitSha: '9cef725ce'
+sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
-translatedAt: '2026-07-25T05:00:09+08:00'
+translatedAt: '2026-09-23T04:15:45+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Golden Croissant Sanxia, oleh-oleh terkenal se-Taiwan ini, memiliki latar belakang yang lebih bercerita dari yang dibayangkan. Ia bukan berasal dari kue croissant Eropa, melainkan diciptakan oleh pengrajin kue Tionghoa **Lo Fu-ching** yang dalam satu perjalanan penerbangan mendapat inspirasi dari "roti Filipina" [^1] [^2], ada juga laporan yang menyebutkan ia mendapat inspirasi saat berwisata ke Australia Selandia Baru dan menemukan roti kecil [^9]. Sang pengrajin kue Tionghoa yang sudah berpengalaman itu terkesan dengan kenyalnya roti yang berbeda dari roti lunak khas Taiwan. Setelah kembali ke Sanxia, ia tidak meniru begitu saja, melainkan mencurahkan logika "pelapisan berlapis" dari pembuatan kue bulan dan kue lapis minyak khas Tionghoa ke dalam kue asing tersebut [^3].
->
-> Lo Fu-ching mengolah adonan melalui mesin press adonan berulang kali, mengeluarkan udara sepenuhnya, sehingga strukturnya menjadi sangat padat. Cara ini dilarang keras dalam pembuatan roti Barat karena akan kehilangan kelembutan roti, namun di mata pengrajin kue Tionghoa, inilah yang menunjukan "kenyal dan padat". Akhirnya, kue berbentuk tanduk sapi ini dengan rasa seperti kue kering keras lahir diam-diam di lorong-lorong Sanxia.
+> **30 detik ringkasan:** Golden kerbau di Sanyi, olehan yang terkenal di seluruh Taiwan, sebenarnya memiliki kisah yang jauh lebih menarik dari yang kamu bayangkan. Ia tidak berasal dari kue Prancis, melainkan diciptakan oleh seorang tukang roti Tionghoa bernama **Lo Fu-ch'ing** setelah bertemu secara kebetulan dengan "roti Filipina" di dalam pesawat, lalu kembali ke Taiwan dan menggabungkan teknik pembuatan kue Tionghoa. Tekstur "keras" yang unik ini berasal dari proses pemipatan yang berulang dan pemanggangan dengan banyak mentega, mencerminkan semangat keinginan masyarakat Taiwan awal untuk makanan yang kaya dan mengenyangkan. Dari cemilan di gang sempit hingga olehan khas, golden kerbau bukan hanya kenangan rasa, tetapi juga cerminan budaya dan perkembangan komersial setempat, yang menjadi landmark aroma unik kota kecil ini.
 
-### Kecelakaan di Atas Pesawat
+Jika kamu masuk ke jalan sempit di Sanyi, New Taipei, sebelum melihat patung batu yang halus di Kuil Suhu Qingshui, hidungmu pasti akan pertama tertutupi oleh aroma mentega yang sangat kuat. Bukan aroma yang ringan dan mengandung rasa asam fermentasi dari penggiling Prancis, tetapi aroma Taiwan yang langsung, tebal, bahkan terkadang tercium aroma karamel yang garing. Sumber aroma ini adalah simbol paling terkenal di Sanyi — Golden kerbau.
 
-Banyak orang salah mengira Golden Croissant adalah variasi lokal dari kue croissant (Croissant) Prancis, namun kenyataannya, "keturunannya" lebih dekat ke Asia Tenggara. **Lo Fu-ching**, pendiri "Toko Kue Fumeixuan" di Sanxia, mendirikan Fumeixuan pada 1958 dengan kue pernikahan sebagai modal awal [^7]. Ia pernah dalam satu perjalanan, di atas pesawat makan sejenis "roti Filipina" yang bertekstur padat [^1] [^2], ada juga laporan yang menyebutkan ia mendapat inspirasi saat berwisata ke Australia Selandia Baru dan menemukan roti kecil [^9]. Saat itu ia sudah menjadi pengrajin kue Tionghoa berpengetahuan luas, dan ia terkesima dengan kenyalan roti yang berbeda dari roti lunak khas Taiwan. Setelah kembali ke Sanxia, ia tidak meniru secara buta, melainkan mencurahkan logika "pelapisan berlapis" dari pembuatan kue bulan dan kue lapis minyak khas Tionghoa ke dalam kue asing tersebut [^3].
+### Pertemuan Kejadian di Dalam Pesawat
 
-Lo Fu-ching mengolah adonan melalui mesin press adonan berulang kali, mengeluarkan udara sepenuhnya, sehingga strukturnya menjadi sangat padat. Cara ini dalam pembuatan roti Barat adalah tabu besar, karena akan kehilangan kelembutan roti, namun di mata pengrajin kue Tionghoa, inilah yang menunjukan "kenyal dan padat". Akhirnya, kue ini dengan bentuk meniru tanduk sapi, namun teksturnya seperti kue kering keras, diam-diam lahir di lorong-lorong Sanxia.
+Banyak orang salah mengira bahwa golden kerbau adalah varian lokal dari kue Prancis (Croissant), namun sebenarnya, garis keluarginya lebih dekat dengan Asia Tenggara. **Lo Fu-ch'ing**, pendiri "Fumeixuan Roti" di Sanyi, didirikan pada 1958, awalnya terkenal dengan kue ulang tahun [^7]. Ia pernah dalam sebuah perjalanan, makan roti Filipina yang kenyal di dalam pesawat [^1] [^2], ada juga laporan yang menyatakan bahwa ia dapat inspirasi dari roti kecil saat berlibur di Australia dan Selandia Baru [^9]. Saat itu, ia sudah menjadi seorang tukang roti Tionghoa yang berpengalaman, dan ia tertarik dengan gigitan yang berbeda dari roti kenyal Taiwan. Setelah kembali ke Sanyi, ia tidak sekadar meniru, tetapi menggabungkan logika "lapis demi lapis" dari pembuatan kue bulan Tionghoa dan kue minyak, lalu memasukkannya ke dalam cemilan asing ini [^3].
+
+Lo Fu-ch'ing menggunakan mesin pemipat untuk memadatkan adonan, sepenuhnya mengeluarkan udara, sehingga teksturnya menjadi sangat rapat. Langkah ini dilarang dalam roti Barat karena akan kehilangan kelembutan roti, namun bagi seorang tukang roti Tionghoa, ini justru adalah manifestasi dari "kesatuan". Akhirnya, cemilan yang bentuknya meniru tanduk sapi tetapi rasanya seperti kue kering ini lahir diam-diam di antara gang-gang Sanyi.
 
 ### Mengapa Ia Begitu "Keras"?
 
-Standar penilaian Golden Croissant Sanxia asli tidak terletak pada kelembutan, melainkan pada "renyah" dan "harum". Untuk mencapai efek ini, pengrajin harus mengoleskan permukaan roti dengan mentega murni dalam jumlah besar saat memanggang, sehingga kulit luar menghasilkan efek mirip digoreng di dalam oven [^4].
+Menilai golden kerbau asli di Sanyi, kriteria utamanya bukan pada kelembutan, tetapi pada "keras" dan "wangi". Untuk mencapai efek ini, para tukang roti harus mengolesi permukaan roti dengan banyak mentega, sehingga kulitnya akan terlihat seperti digoreng di dalam oven [^4].
 
-| Ciri               | Golden Croissant Sanxia                  | Kue Croissant Prancis                       |
-| :----------------- | :--------------------------------------- | :------------------------------------------ |
-| **Jiwa Utama**     | Teknik kue lapis minyak Tionghoa         | Fermentasi ragi & pelapisan mentega         |
-| **Tekstur**        | Padat, keras renyah, tanpa rongga        | Ringan, renyah, rongga seperti sarang lebah |
-| **Kunci Produksi** | Press adonan berulang untuk buang udara  | Pelapisan lipat suhu rendah                 |
-| **Bagian Terbaik** | Kedua ujung tanduk (paling keras renyah) | Bagian tengah struktur sarang lebah         |
+| Ciri-ciri           | Golden kerbau di Sanyi                            | Kue Prancis                                    |
+| :------------------ | :------------------------------------------------ | :--------------------------------------------- |
+| **Jiwa inti**       | Teknik roti Tionghoa                              | Fermentasi ragi dan lapisan mentega            |
+| **Tekstur**         | Padat, keras, tidak berlubang                     | Ringan, renyah, berlubang seperti sarang lebah |
+| **Kunci pembuatan** | Pemipatan berulang                                | Lipatan suhu rendah                            |
+| **Bagian terbaik**  | Ujung tanduk di kedua ujung (tempat paling keras) | Struktur sarang lebah di tengah                |
 
-Cara pembuatan "keras" ini mencerminkan estetika makanan masyarakat Taiwan awal: harus berminyak, harum, dan kenyang. Bagi orang Sanxia, kedua ujung tanduk Golden Croissant yang dipanggang hingga gosong renyah, hampir seperti kue kering, itulah inti dari sebuat roti.
+Metode "keras" ini mencerminkan estetika makanan masyarakat Taiwan awal: harus kaya, wangi, dan mengenyangkan. Bagi orang Sanyi, dua ujung tanduk yang garing seperti kue kering adalah inti dari seluruh roti.
 
-### Dari Satu Toko Menjadi Kenangan Kolektif Sejalan Jalan
+### Dari Satu Toko Menjadi Kenangan Kolektif di Seluruh Jalan
 
-Ketenaran Golden Croissant tidak terjadi semalam. Selama puluhan tahun, ia hanya jajanan rahasia warga Sanxia. Hingga awal 2000-an, seiring dengan renovasi dan pariwisata Jalan Lama Sanxia, kue dengan identitas penciuman yang kuat ini resmi naik pangkat menjadi "Produk Khas Sanxia" [^5]. Khususnya 2001, liputan media skala besar membuat "Sanxia" dan "Golden Croissant" terikat erat [^8].
+Popularitas golden kerbau tidak terjadi secara tiba-tiba. Selama puluhan tahun, ia hanya menjadi cemilan rahasia warga lokal. Hingga awal 2000-an, ketika jalan sempit Sanyi direnovasi dan menjadi tempat wisata, cemilan dengan aroma yang mudah dikenali ini akhirnya naik ke panggung sebagai "olehan khas Sanyi" [^5]. Terutama pada 2001, laporan media yang luas membuat "Sanyi" dan "golden kerbau" menjadi sangat terkait [^8].
 
-Yang mengikuti adalah persaingan merek yang sengit dan konflik internal keluarga. Di Jalan Lama Sanxia, Anda bisa melihat "Golden Sanxia", "Sanjiaoyong", "Kangxixuan" dan merek lain berdiri berdampingan, bahkan memicu beberapa gugatan hukum dan perebutan nama resmi [^6] [^7]. Proses pertumbuhan liar ini, meskipun berbau asap perang dagang, tidak sengaja membuat Golden Croissant mengembangkan varian cokelat, gula aren, nanas, dan lain-lain, menjadikan kue keras yang semula monoton menjadi bagian tak terpisahkan dari budaya oleh-oleh Taiwan.
+Menyusulnya adalah persaingan merek yang sengit dan pertengkaran keluarga. Di jalan sempit Sanyi, kamu bisa melihat banyak merek seperti "Golden Sanyi", "Sanjiaocheng", "Kangxi Xuan" bertahan bersamaan, bahkan pernah terjadi beberapa gugatan hukum dan perseteruan nama [^6] [^7]. Proses pertumbuhan yang kasar ini, meskipun tercampur dengan aroma komersial, juga secara tidak langsung membuat golden kerbau berkembang menjadi berbagai rasa seperti cokelat, gula hitam, dan karamel, sehingga roti keras yang sebelumnya hambar ini berubah menjadi bagian tak terpisahkan dari budaya olehan Taiwan.
 
-### Penutup: Menopang Tulang Punggung Kota Kecil
+### Penutup: Tulang Punggung Kota Kecil
 
-Kisah Golden Croissant Sanxia, pada hakikatnya, adalah sebuah eksperimen budaya tentang "kesalahpahaman" dan "transformasi". Seorang pengrajin kue Tionghoa secara tidak sengaja mengambil inspirasi dari Filipina, menggunakan teknik Tiongkok, menanamkannya di tanah Taiwan. Ia tidak mengejar kehalusan Prancis, tidak mengejar kelembutan Jepang, rasa "padat" yang hampir keras kepala itu, seperti tiang batu di Kuil Zushi Qingshui, meskipun berat, namun menopang dengan stabil bobot budaya dan kenangan penciuman kota kecil ini.
+Kisah golden kerbau di Sanyi pada dasarnya adalah sebuah eksperimen budaya tentang "kesalahpahaman" dan "transformasi". Seorang tukang roti Tionghoa secara tidak sengaja menggabungkan inspirasi dari Filipina, menggunakan teknik Tionghoa, dan menanamnya di tanah Taiwan. Ia tidak mengejar kehalusan Prancis, juga tidak mengejar halusnya Jepang. Tekstur yang hampir menggila ini, seperti pilar batu di Kuil Suhu Qingshui, meskipun berat, tetap dengan tegas menopang beratnya budaya dan kenangan aroma kota kecil ini.
 
-Kali berikutnya saat Anda menggigit ujung tanduk yang gosong renyah itu, ingatlah, yang Anda rasakan bukan sekadar roti, melainkan sebuah legenda tidak sengaja yang bermula di ketinggian ribuan kaki, dan mengendap setengah abad di lorong-lorong Sanxia.
+Lain kali ketika kamu menggigit ujung tanduk yang garing, ingatlah, yang kamu cicipi bukan hanya roti, tetapi sebuah legenda kebetulan yang dimulai di ketinggian seribu meter dan mengendur selama setengah abad di antara gang-gang Sanyi.
 
 ---
 
 ## Bacaan Lanjutan
 
-- **[Jajanan Taiwan (台灣小吃)]** — Posisi Golden Croissant sebagai oleh-oleh lokal dalam peta jajanan Taiwan
-- **[Jalan Lama Sanxia (三峽老街)]** — Lanskap budaya tempat Golden Croissant bermula (jika entri belum ada, sebagai pengembangan masa depan)
-- **[Budaya Kue Tionghoa Taiwan (台灣糕餅文化)]** — Bagaimana gen teknik kue Tionghoa masuk ke kue modern
-- **[Ekonomi Oleh-oleh Taiwan (台灣伴手禮經濟)]** — Kasus ekonomi lokal pariwisata jalan lama × perebutan merek keluarga
+- **[Kudapan khas Taiwan](/id/food/taiwanese-street-food)** — Posisi golden kerbau sebagai olehan tempat di peta kudapan khas Taiwan
+- **[Jalan sempit Sanyi](/id/history/sanxia-old-street)** — Landskap budaya tempat golden kerbau berkembang (jika entri tidak ada, sebagai pengembangan masa depan)
+- **[Budaya kue tradisional Tionghoa](/id/food/taiwan-pastry-culture)** — Bagaimana genetik teknik roti Tionghoa masuk ke dalam cemilan modern
+- **[Ekonomi olehan Taiwan](/economy/台灣伴手禮經濟)** — Studi kasus ekonomi lokal: pariwisata jalan sempit × persaingan merek keluarga
 
 ## Referensi
 
-[^1]: [Lo Fu-ching - Repositori Memori Budaya Nasional](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=275080) — Halaman koleksi Repositori Memori Budaya Nasional——Kehidupan Lo Fu-ching dan Toko Kue Fumeixuan
+[^1]: [Lo Fu-ch'ing - National Cultural Memory Database](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=275080) — Halaman koleksi National Cultural Memory Database — karier Lo Fu-ch'ing dan Toko Roti Fumeixuan
 
-[^2]: [【#Berita Sanxia】Golden Croissant Diciptakan di Pesawat! Legenda Kakek Pendiri Sanxia Pasti Pernah Anda Makan... - iSanxia](https://www.facebook.com/iSanxia/posts/3198263976921162/) — iSanxia Halaman Sejarah Lokal Sanxia——Sejarah lisan penciptaan Golden Croissant di pesawat
+[^2]: [【#Sanyi Berita】Golden kerbau yang diciptakan di dalam pesawat! Legenda tokoh pendiri Sanyi yang pasti pernah kamu makan ... - iSanxia](https://www.facebook.com/iSanxia/posts/3198263976921162/) — Fanspage sejarah lokal iSanxia — kisah lisan tentang penciptaan golden kerbau di dalam pesawat
 
-[^3]: [Golden Croissant Sanxia Begitu Laris! Ternyata Berasal dari Roti Filipina? - Liberty Times](https://food.ltn.com.tw/article/1496) — Liberty Times Resep Bebas——Kajian asal-usul Golden Croissant Sanxia dari roti Filipina
+[^3]: [Golden kerbau di Sanyi sempat terbakar! Ternyata berasal dari roti Filipina? - Liberty Times](https://food.ltn.com.tw/article/1496) — Liberty Times resep bebas — analisis asal-usul golden kerbau di Sanyi dari roti Filipina
 
-[^4]: [Golden Croissant. Taiwan Golden Croissants (Termasuk Video Praktik) - Carole's Blog](https://caroleasylife.blogspot.com/2019/12/taiwan-golden-croissants.html) — Carole's Blog Tutorial Praktik——Resep rumah tangga Golden Croissant khas Taiwan termasuk video praktik
+[^4]: [Golden kerbau. Taiwan Golden Croissants ( dengan video demonstrasi) - Blog Carole](https://caroleasylife.blogspot.com/2019/12/taiwan-golden-croissants.html) — Blog Carole tutorial praktik — resep rumahan golden kerbau Taiwan dengan video demonstrasi
 
-[^5]: [【Menemukan Rasa Taiwan】Golden Croissant Sanxia Legenda Semangat Pragmatis Kemanusiaan - TVBS](https://news.tvbs.com.tw/life/324060) — TVBS Seri Menemukan Rasa Taiwan——Khusus semangat kemanusiaan Golden Croissant Sanxia
+[^5]: [【Temukan Rasa Taiwan】Legenda golden kerbau di Sanyi: Menegaskan semangat manusiawi yang tegas - TVBS](https://news.tvbs.com.tw/life/324060) — \*\* — TVBS seri "Temukan Rasa Taiwan" — laporan khusus tentang semangat manusiawi golden kerbau di Sanyi
 
-[^6]: [Tiga Ipar Laki-laki Berebut Nama Resmi "Golden Croissant" Meletus Konflik Keluarga - Matahari Daily](https://www.matsu-news.gov.tw/news/article/152707) — Matahari Daily——Persoalan nama resmi "Golden Croissant" tiga ipar laki-laki keluarga
+[^6]: [Tiga saudara dan sekutu saudara bertengkar merebut nama "Golden kerbau" — Mazu Daily](https://www.matsu-news.gov.tw/news/article/152707) — \*\* — Mazu Daily — kontroversi perebutan nama "Golden kerbau" antar saudara
 
-[^7]: [Angin Puting Beliung Kue Tanduk Sanxia Satu Pertarungan Pembagian Warisan - United Daily News](https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E7%89%9B%E8%A7%92%E6%97%8B%E9%A2%A8-%E5%A0%B4%E5%88%86%E5%AE%B6%E5%85%A7%E9%AC%A5-215006433.html) — United Daily News——Permulaan dan akhir angin puting beliung kue tanduk Sanxia pembagian warisan internal
+[^7]: [Putaran kerbau Sanyi: Pertempuran pembagian keluarga — United Daily News](https://tw.news.yahoo.com/%E4%B8%89%E5%B3%BD%E7%89%9B%E8%A7%92%E6%97%8B%E9%A2%A8-%E5%A0%B4%E5%88%86%E5%AE%B6%E5%85%A7%E9%AC%A5-215006433.html) — \*\* — United Daily News — kisah pertarungan pembagian keluarga di seputar golden kerbau Sanyi
 
-[^8]: [Toko Asal Golden Croissant Sanxia Ditetapkan! - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2142994) — Liberty Times——Kontroversi penetapan toko asal Golden Croissant Sanxia
+[^8]: [Toko asal-usul golden kerbau di Sanyi terungkap! - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2142994) — \*\* — Liberty Times — kontroversi pengakuan toko asal-usul golden kerbau di Sanyi
 
-[^9]: [Pendiri Golden Croissant Lo Fu-ching Mengembangkan Relawan Lapangan Kebajikan - United Daily News](https://www.lnanews.com/news/98402) — United Daily News (Berita Buruh)——Laporan pengembangan relawan lapangan kebajikan Lo Fu-ching
+[^9]: [Pendiri golden kerbau roti Lo Fu-ch'ing mengembangkan lahan sukarelawan — United Daily News](https://www.lnanews.com/news/98402) — \*\* — United Daily News (Berita Buruh) — laporan tentang pengembangan lahan sukarelawan Lo Fu-ch'ing

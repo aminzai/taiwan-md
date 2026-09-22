@@ -30,10 +30,10 @@ imageCredit: 'Taiwankengo'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2020_Zhengbin_Fishing_Port.jpg'
 translatedFrom: 'Geography/基隆市.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:d96d5a768e497ec1'
-sourceBodyHash: 'sha256:a875e0cc381f5fed'
-translatedAt: '2026-07-29T23:50:31+08:00'
+sourceCommitSha: '2187c1c9c'
+sourceContentHash: 'sha256:2fb0e2b29a78f122'
+sourceBodyHash: 'sha256:5db325d228abad28'
+translatedAt: '2026-09-22T20:41:48.920990+00:00'
 ---
 
 # Kota Keelung: Pelabuhan Terdekat dari Taipei, Paling Tak Terlihat oleh Taipei
@@ -82,20 +82,20 @@ Apa yang mereka tinggalkan? Makam Prancis di tepi laut (Taman Pahlawan Nasional)
 
 ## Festival Zhongyuan Zhang Tou Xu Wei
 
-Cara orang Keelung mengurus roh, harus diceritakan dari lebih awal.
+Cara masyarakat Keelung menangani arwah harus diceritakan dari waktu yang lebih awal.
 
-Agustus 1851 (Tahun pertama Xianfeng), bentrok Zhang-Quan tak henti. 1853 kedua belah pihak terjadi bentrok besar di Yuding (sekarang Taman Pemakaman Nanrong), ratusan korban jiwa. Tetua Zhang, tetua Quan keluar memediasi, mengubur bersama tulang belulang korban kedua pihak disebut "Lao Dagon", membangun "Kuil Lao Dagon".
+Pada bulan Agustus 1851 (Tahun Xianfeng Pertama), perkelahian antara漳 dan泉 terus berlanjut. Pada tahun 1853, terjadi perkelahian besar di Cungming (sekarang Makam Nanrong), dengan korban jiwa lebih dari seratus orang. Para tetua dan pemimpin dari daerah Zhang dan Quen turun tangan untuk mendamaikan kedua belah pihak, dan tulang-belulang para korban yang sulit dikubur disebut "Lao Da Gong," kemudian mereka dimakamkan bersama dan didoakan dalam upacara, sehingga dibangun "Kuil Lao Da Gong."
 
-Hasil mediasi: **menggiliran mengadakan upacara menurut nama marga, menggantikan konsep asal leluhur dengan kekerabatan darah**[^11]. 1855 (Tahun kelima Xianfeng) resmi dimulai, undian menentukan urutan 11 nama marga, dari Zhang mulai sampai Xu berakhir, disebut "Zhang Tou Xu Wei": Zhang Liao Jian, Wu, Liu Tang Du, Chen Hu Yao, Xie, Lin, Jiang, Zheng, He Lan Han, Lai, Xu.
+Hasil kesepakatan tersebut adalah: **sistem rotasi nama keluarga berdasarkan karakter digunakan untuk menggantikan konsep wilayah asal**[^11]. Upacara ini secara resmi dimulai pada tahun 1855 (Tahun Xianfeng Kelima), di mana urutan sebelas nama keluarga ditentukan melalui undian, mulai dari Zhang Tou hingga Xu Wei, yang disebut "Zhang Tou Xu Wei": Zhang Liao Jian, Wu, Liu Tang Du, Chen Hu Yao, Xie, Lin, Jiang, Zheng, He Lan Han, Lai, dan Xu.
 
-> **✦** "**Menggantikan bentrok kepala dengan lomba barisan, untuk mencapai dunia besar harmoni sosial, koeksistensi dan kemakmuran bersama.**" (Bank Memori Budaya Nasional, entri Festival Zhongyuan Jilong[^12])
+> **✦** “**Mengganti perkelahian dengan kompetisi formasi untuk mencapai dunia besar di mana harmoni sosial, koeksistensi, dan kemakmuran dapat terwujud.**” (Basis Memori Budaya Nasional, Entri Festival Zhongyuan Kailong[^12])
 
-Ini semangat inti Festival Zhongyuan Jilong. Bukan sekadar upacara Zhongyuan. Seluruh Taiwan Zhongyuan memuja roh tak bertuan, tapi hanya Festival Zhongyuan Jilong menginstitusionalkan memori kematian bentrok jadi festival nama marga bergiliran berlangsung 170 tahun. Lomba barisan adalah versi ritual bentrok: Anda tetap bersaing, tapi tidak memukul, pakai dewa-dewa hiasan mewah, formasi, irama drum, banding siapa paling megah.
+Inilah semangat inti dari Festival Zhongyuan Kailong. Ini bukan sekadar upacara persembahan arwah Zhongyuan. Seluruh Taiwan mengadakan festival Zhongyuan untuk memuja roh-roh yang tidak memiliki pemilik, tetapi hanya Festival Zhongyuan Kailong yang menginstitusionalisasikan ingatan akan perkelahian berdarah menjadi ritual rotasi nama keluarga yang telah berlangsung selama 170 tahun. Kompetisi formasi adalah versi territualisasi dari perkelahian: Anda masih harus berkompetisi, tetapi tanpa menyerang orang; kompetisi dilakukan dengan menggunakan dewa-dewa hiasan yang megah, formasi, dan musik drum untuk melihat siapa yang paling meriah.
 
-![Altar Utama Festival Zhongyuan Jilong, Oktober 2023. Menara berdelapan sisi Taman Zhongzheng, selesai pertengahan 1970-an, setiap tahun bulan ketujuh kalender Jawa mengadakan upacara Zhongyuan. Sisi kanan menara jauh di kejauhan adalah landmark Menara Keelung.](/article-images/geography/keelung-00.webp)
-_Altar Utama dan Menara Keelung, 2023-10-23. Foto: Kontributor Wikimedia Commons, [CC BY-SA via Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung_Tower_and_Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn_20231023.jpg)._
+![Altar utama Festival Zhongyuan Kailong, Oktober 2023. Menara segi delapan di Taman Chung Cheng, selesai pertengahan tahun 1970-an, mengadakan persembahan arwah Zhongyuan setiap bulan ketujuh kalender lunar. Di kejauhan di sebelah kanan menara adalah Keelung Tower yang menjadi ikon Keelung.](/article-images/geography/keelung-00.webp)
+_Altar utama dan Menara Keelung, 23-10-2023. Foto: kontributor Wikimedia Commons, [CC BY-SA melalui Wikimedia](https://commons.wikimedia.org/wiki/File:Keelung%20Tower%20and%20Ts%C3%BA-ph%C3%B3o-tu%C3%A2nn%2020231023.jpg)._
 
-1884 Perang Prancis-Tiongkok setelahnya, festival ini upgrade lagi. **700 lebih jiwa tentara Prancis dimasukkan upacara**. "Pendatang Han yang penuh belas kasih memulai empati, memuja kelompok meninggal tak dikuburkan"[^12]. Ritual rekonsiliasi bentrok Zhang-Quan, berevolusi jadi festival yang menampung musuh perang. Dari 1855 sampai hari ini, setiap tahun bulan ketujuh kalender Jawa di Taman Zhongzheng altar utama diadakan, pertengahan 1970-an altar utama baru selesai, menara berdelapan sisi, lantai satu Museum Artefak Upacara Zhongyuan[^13].
+Setelah Perang Sino-Prancis pada tahun 1884, rangkaian upacara ini ditingkatkan lagi. **Jiwa lebih dari 700 tentara Prancis dimasukkan ke dalam persembahan arwah**. "Para imigran Han yang penuh belas kasih kemudian menunjukkan empati dan memuja para almarhum yang tidak memiliki tempat peristirahatan" [^12]. Sebuah ritual rekonsiliasi perkelahian Zhang-Quen telah berkembang menjadi upacara yang juga menerima tentara musuh dalam perang. Dari tahun 1855 hingga hari ini, upacara ini diadakan di altar utama Taman Chung Cheng setiap bulan ketujuh kalender lunar; altar utama baru yang selesai pada pertengahan tahun 1970-an memiliki menara segi delapan, dan lantai satu adalah Museum Artefak Upacara Zhongyuan [^13].
 
 ## Pembangunan Pelabuhan Lima Tahap, Pelabuhan Ketujuh Dunia 1984
 
@@ -133,30 +133,30 @@ Beberapa langkah ke Toko Kue Li Hu. Distrik Ren'ai Jalan Ren San 90, tahun kedel
 
 Dan pasar ikan Kanzi Ding (yang disebut tadi) justru mesin penggerak pasar malam Miaokou. Tanpa lelang ikan tengah malam Kanzi Ding, tempura Miaokou (orang Keelung bilang tempura adalah tianbula, beda total tempura Jepang), es gelembung, unagi bakar, sup udang semuanya tak bisa dibuat. Struktur kuliner Keelung adalah "rasa pelabuhan": suara lelang pukul 04.00 pagi, pukul 06.00 sore jadi rasa segar dikunyah wisatawan.
 
-## Rumah Warna-warni Zhengbin di Depan, Kuil Argena di Sebelah
+## Di Seberang Rumah Berwarna Zhengbin, Ada Reruntuhan Argena
 
-![Rumah jalan warna-warni Pelabuhan Nelayan Zhengbin, Agustus 2025. Masa Lin Youchang jadi wali kota, bermitra dengan Ketua Jurusan Lanskap Universitas Budaya Guo Qiongying, cat rumah tua tepi pelabuhan jadi 55 warna. Di depan mata sama frame terlihat kuil Argena.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
-_Rumah jalan warna-warni Pelabuhan Nelayan Zhengbin, 2025-08-12. Foto: Kontributor Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:20250812_105703_%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF%E5%BD%A9%E8%89%B2%E8%A1%97%E5%B1%8B.jpg).\_
+![Rumah Warna di Pelabuhan Perikanan Zhengbin; deretan rumah tua di tepi pelabuhan dicat dengan berbagai warna, dan kapal ikan berjejer di depannya. Selama masa jabatan Wali Kota Lin Yu-chang, ia bekerja sama dengan Direktur Guo Qionging dari Departemen Lanskap Universitas Budaya untuk mengecat deretan rumah ini menjadi 55 warna.](/article-images/geography/keelung-zhengbin-colorful-houses-2025.webp)
+_Rumah Warna di Pelabuhan Perikanan Zhengbin, 12 Agustus 2025. Foto: Saimmx, [CC0 via Wikimedia](https://commons.wikimedia.org/wiki/File:20250812%20105703%20正濱漁港彩色街屋.jpg)._
 
-Kalau mau lihat kota bagaimana mengurus kuilnya, ke Pelabuhan Nelayan Zhengbin.
+Jika Anda ingin melihat bagaimana sebuah kota menangani reruntuhannya, pergilah ke Pelabuhan Perikanan Zhengbin.
 
-Pelabuhan Nelayan Zhengbin di sisi timur Pelabuhan Keelung, era Jepang pelabuhan nelayan utama utara Taiwan. Masa Lin Youchang jadi wali kota (2014-2022), bermitra dengan Ketua Jurusan Lanskap Universitas Budaya Guo Qiongying, "ghis 2 tahun baru bangunkan kesadaran partisipasi warga", cat rumah tua tepi pelabuhan jadi rumah warna-warni, warga lokal ambil 55 warna disebut "Warna Zhengbin"[^23]. Hari ini ini spot foto IG hits, tapi bukan ini paling menyentuh.
+Pelabuhan Perikanan Zhengbin terletak di sisi timur Pelabuhan Keelung dan merupakan pelabuhan utama di utara selama periode pemerintahan Jepang di Taiwan. Selama masa jabatan Wali Kota Lin Yu-chang (2014–2022), ia bekerja sama dengan Direktur Guo Qionging dari Departemen Lanskap Universitas Budaya, dan setelah "membutuhkan 2 tahun untuk menyadarkan kesadaran publik," rumah-rumah tua di tepi pelabuhan dicat menjadi rumah berwarna. Penduduk setempat menamai 55 warna tersebut sebagai "Warna Zhengbin" [^23]. Hari ini tempat itu adalah titik populer untuk foto Instagram, tetapi itu bukanlah hal yang paling menggugah.
 
-Yang paling menyentuh: **belok sebentar, tepat depan mata adalah kuil Argena Shipyard**.
+Hal yang paling menggugah adalah: **beloklah, tepat di seberang adalah reruntuhan Galangan Kapal Argena.**
 
-Argena sejarahnya begini: 1919 gudang batubara Huang Dongmao; 1937 jadi dermaga pasir tambang, emas Jinguashi diangkut kabel gantung ke Shuinandong, lalu ke Badu, lalu ke Niuchougang, dari sini muat kapal ke Jepang[^24]. 1966 sampai 1987 jadi Argena Shipyard, dipimpin Xue Guohang usaha OEM perahu layar, bapak pembuka olahraga perahu layar Taiwan. 1987 bangkrut ditinggal. 2016 Juli ditetapkan bangunan sejarah Kota Keelung.
+Argena secara historis memiliki peran seperti ini: pada tahun 1919, tempat itu adalah pabrik batu bara milik Huang Dongmao; pada tahun 1937, tempat itu diubah menjadi dermaga untuk mengangkut pasir tambang. Emas dari pertambangan Jinqiasi diangkut menggunakan kereta gantung ke Gua Shuinan, lalu ke Badu, dan kemudian ke Pelabuhan Niu Chou untuk dimuat kapal menuju Jepang [^24]. Dari tahun 1966 hingga 1987, tempat itu diubah menjadi Galangan Kapal Argena, yang mengoperasikan pembuatan kapal layar oleh Xue Guohang, menjadikannya pendahulu gerakan layar Taiwan. Pada tahun 1987, pabrik tersebut bangkrut dan terbengkalai. Pada Juli 2016, tempat itu didaftarkan sebagai bangunan bersejarah Kota Keelung.
 
-Kuil beton abu-abu hitam di samping, rumah warna-warni Zhengbin. Satu gelap satu terang, jarak kurang 100 meter. Ini dua sisi modernisasi Keelung, terkompresi dalam satu bidangan wisatawen pegang HP. Dari gambar ini bisa baca satu narasi kontemporer Keelung penuh: **Kita tidak robohkan kuil bangun baru, kita bangun rumah warna-warni di samping kuil**.
+Di samping reruntuhan semen berwarna abu-abu gelap, terdapat rumah warna-warni Zhengbin yang cerah. Satu redup satu terang, berjarak kurang dari 100 meter. Ini adalah dua sisi proses modernisasi Keelung, yang terkompresi dalam pandangan seorang wisatawan yang memotret dengan ponselnya. Dari pemandangan ini dapat dibaca narasi kontemporer Keelung secara keseluruhan: **kami tidak merobohkan reruntuhan untuk membangun kembali; kami membangun rumah berwarna di samping reruntuhan.**
 
-### Lin Youchang, Xie Guoliang, Kasus Pemecatan
+### Lin Yu-chang, Xie Kuo-liang, dan Pemakzulan
 
-Transformasi Lin Youchang satu kalimat ringkas: "**Paling penting kota ini punya isu, rekohesikan identitas dan daya tarik warga, dan dapatkan hak bicara Keelung soal pelabuhan ini.**"[^17] Dia lakuin: 2014 cegah Gudang Dermaga Barat Dua, Barat Tiga diroboh (Menteri Lung Yingtai survey dukung, Biro Budaya tetapkan bangunan sejarah); 2021 zona "Malam Seribu Negara" Pelabuhan Nelayan Zhengbin; 2022 "Desain Mengubah Kota Awal: Keelung" Expo Kota; ganti logo kota, versi baru lima warna tafsir: hijau kota gunung, kuning vitalitas, hitam karena Keelung dulu hasil tambang batu bara, merah semangat, biru Pelabuhan Keelung dan lautan[^25].
+Transformasi Lin Yu-chang dapat diringkas dalam satu kalimat: "**Yang terpenting adalah kota ini harus memiliki isu yang mampu menyatukan kembali identitas warga dan daya tarik kolektif, serta mendapatkan hak naratif Kota Keelung atas pelabuhan ini.**" [^17] Hal yang telah ia lakukan termasuk: mencegah pembongkaran gudang Dermaga Xi Er dan Xi San pada tahun 2014 (didukung oleh inspeksi Menteri Long Ying-tai dan dicatat sebagai bangunan bersejarah oleh Biro Kebudayaan); pameran "Malam Internasional" di Pelabuhan Perikanan Zhengbin pada tahun 2021; Pameran Kota "Kota Titik Awal Perubahan Desain: Keelung" pada tahun 2022; mengganti logo kota, dengan versi baru yang menginterpretasikan lima warna: hijau melambangkan kota pegunungan, kuning melambangkan vitalitas, hitam karena Keelung dulunya kaya akan batu bara, merah melambangkan semangat, dan biru adalah pelabuhan serta lautan Keelung [^25].
 
-2022 Xie Guoliang (KMT) terpilih wali kota. Dua tahun lalu, 13 Oktober 2024, orang Keelung voting pemecatan. Tidak setuju 86.014 (55,16%), setuju 69.934 (44,84%), partisipasi 50,44%[^26]. Pemecatan gagal, Xie Guoliang pertahankan jabatan wali kota, per hukum tidak bisa dipecat lagi. Keelung setelah Kaohsiung Han Kuo-yu jadi kedua kepala daerah terpilih rakyat diusulkan pemecatan, juga pertama tingkat administrasi kedua.
+Pada tahun 2022, Xie Kuo-liang (Partai Nasionalis) terpilih sebagai wali kota. Dua tahun kemudian, pada tanggal 13 Oktober 2024, warga Keelung melakukan pemungutan suara untuk mencopotnya. Jumlah suara tidak setuju adalah 86.014 (55,16%), dan jumlah suara setuju adalah 69.934 (44,84%), dengan tingkat partisipasi sebesar 50,44% [^26]. Pemakzulan gagal, dan Xie Kuo-liang mempertahankan jabatannya sebagai wali kota, sehingga secara hukum tidak dapat dicopot lagi. Keelung adalah pemimpin lokal terpilih kedua setelah Kaohsiung Han Kuo-yu yang mengajukan usul pemakzulan, dan juga yang pertama di antara wilayah administratif tingkat dua.
 
-Pemecatan bukan fokus artikel. Fokus kenapa orang Keelung pergi voting. Seorang pemuda pulang kampung Li Yanrong dalam wawancara Reporter bilang: "**Kampung halaman saya Keelung, bukan saya mengapung ke luar negeri lalu kehilangan rasa milik.**" Dia ukir koordinat Keelung di badan, dan jelas: "Saya mau ingat penampilan saya saat pergi."[^27]
+Pemakzulan bukanlah fokus artikel ini. Fokusnya adalah mengapa warga Keelung pergi untuk memberikan suara dalam pemilihan tersebut. Seorang pemuda yang kembali ke kampung halamannya, Li Yanrong, mengatakan kepada pewarta: "**Kampung halaman saya adalah Keelung; saya tidak kehilangan rasa memiliki hanya karena mengembara di tempat lain.**" Ia menato garis lintang dan bujur Keelung pada tubuhnya, dan menjelaskan: "Saya ingin mengingat seperti apa diri saya saat pergi." [^27]
 
-Ini kota 360 ribu orang. Tapi di 360 ribu ini, ada orang lari balik voting.
+Ini adalah kota kecil dengan 360.000 penduduk. Tetapi dari 360.000 orang ini, ada yang kembali untuk memilih.
 
 ## 39% Orang Bekerja di Taipei
 

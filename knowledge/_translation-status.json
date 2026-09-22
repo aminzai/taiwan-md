@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T06:05:53+08:00",
-    "zhCommitHead": "e53834589",
+    "lastUpdated": "2026-09-23T06:13:57+08:00",
+    "zhCommitHead": "ad9167e9c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 934,
-        "stale": 97,
+        "fresh": 935,
+        "stale": 96,
         "metadata_stale": 27,
         "missing": 66,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 991,
-        "stale": 51,
+        "fresh": 992,
+        "stale": 50,
         "metadata_stale": 7,
         "missing": 75,
         "orphan": 0
@@ -76654,20 +76654,18 @@
         "ja": {
           "path": "ja/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb789",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-06-19T11:57:16+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-22T22:07:42.927359+00:00",
           "translationLastCommit": "c297b51f",
           "translationLastModified": "2026-09-22T08:43:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 50416,
+          "bytes": 50447,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/About/how-an-article-is-born.md",
@@ -112771,18 +112769,18 @@
         "id": {
           "path": "id/People/chen-chih-chung.md",
           "translatedFrom": "People/陳致中.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c3cf496574092462",
-          "sourceBodyHash": "sha256:b26709ecc046be72",
-          "translatedAt": "2026-07-25T12:13:32+08:00",
+          "sourceCommitSha": "fa7059f7a",
+          "sourceContentHash": "sha256:4de98c280e186c57",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T21:57:22.483072+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 12848,
+          "footnoteDefs": 62,
+          "bytes": 70515,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (62→11)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-chih-chung.md",
