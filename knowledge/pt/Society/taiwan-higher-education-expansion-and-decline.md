@@ -32,10 +32,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gate_of_Yung_Ta_Institute_of_Technology_%26_Commerce.JPG'
 relatedDiary: ['2026-07-16-213425-highered-evolve']
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
-sourceCommitSha: '3b2bfbb30'
-sourceContentHash: 'sha256:0e32d79d3df5fb08'
-sourceBodyHash: 'sha256:4ba5d74427c47aed'
-translatedAt: '2026-07-30T22:54:33+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:2a4f80e7fc721f19'
+sourceBodyHash: 'sha256:fc5314c473c1914f'
+translatedAt: '2026-09-22T07:31:56.252578+00:00'
 ---
 
 > **Resumo em 30 segundos:** Em 1994, Taiwan tinha 58 instituições de ensino superior, e menos de 20% dos jovens de 18 anos conseguiam entrar numa universidade de quatro anos. A manifestação de 10 de Abril gritou «criação massiva de escolas secundárias e universidades», e o governo abriu as portas da forma mais económica: deixando os colégios técnicos existentes subirem de categoria. Vinte anos depois, as instituições chegaram a 148, a taxa líquida de frequência rompeu os 70%, e mulheres, estudantes vulneráveis e os primeiros universitários das suas famílias realmente entraram. Então o muro da baixa natalidade apareceu: o número de estudantes atingiu o pico em 2012, mas a lei de encerramento só foi legislar em 2022. Este experimento só desenhou a abertura; as regras para fechar atrasaram dez anos. Hoje Kao Feng, Yung Ta e Tajen apagam as luzes, e a conta cai nos ombros dos estudantes e professores que menos tinham escolha.
@@ -210,33 +210,32 @@ Voltando à fatura dos duzentos mil milhões, a verdade é metade honesta: o tot
 
 Na hora de abrir, ninguém perguntou: se um dia estas escolas tiverem de devolver, estes terrenos e bens contam de quem? O silêncio de então, hoje cada escola encerrada paga-o com exame suplementar. Passados trinta anos, o que foi que esta sociedade aprendeu mesmo?
 
-## Os registos académicos têm quem guarde, professores e estudantes ainda procuram lugar
+## Históricos guardados, professores e alunos ainda procurando um lugar
 
-Olhemos outra vez a caderneta: esta sociedade aprendeu a fechar? A resposta é metade honesta, metade honesta.
+Olhando os históricos novamente: este sistema educacional fechou ou não? A resposta é meio sim, meio não.
 
-Metade, o sistema efetivamente segurou. O artigo 20 da Lei de Encerramento estipula expressamente que, ao encerrar, os registos académicos dos estudantes devem ser preservados permanentemente e transferidos para a escola designada. Desde 2018, o Ministério da Educação encarregou a National Yunlin University of Science and Technology de criar a «Base de Dados de Registos Académicos de Escolas Encerradas sob Guarda», onde formados de escolas encerradas podem pedir certificados online — histórico escolar 20 NT$, certificado de grau 100 NT$[^31]. A alma mater desapareceu, o papel que prova que estudaste lá continua. É um desenho real, que apanha a pessoa; encerrar não equivale a vazio de arquivo.
+De um lado, o sistema realmente segurou a barra. O Artigo 20 do Regulamento de Desligamento estabelece claramente que, quando uma escola fecha, os registros acadêmicos dos alunos devem ser preservados permanentemente e transferidos para escolas designadas. Desde 2018, o Ministério da Educação terceirizou a construção do "Banco de Dados de Registros Acadêmicos de Alunos de Escolas Desligadas" na Universidade Tecnológica de Yunlin, permitindo que graduados de escolas fechadas solicitem seus históricos online: um certificado por 20 yuans e um diploma por 100 yuans[^31]. A escola-mãe desapareceu, mas o papel que comprova que você estudou ainda existe. Este é um design real que acolhe as pessoas; desligamento não significa vácuo de arquivos.
 
-A Escola Primária Chonghua é outra forma de segurar. Após o encerramento da Kao Feng, o terreno foi assumido pela Fundação Tiangong da I-Kuan Tao, e em 2016 virou a Escola Primária Chonghua[^18] — a primeira «universidade que vira primária» de Taiwan. A baixa natalidade matou a universidade com uma mão, e com a outra precisou de primária; o mesmo campus trocou para uma fornada de crianças mais pequenas. A Tajen University virou fundação de cuidados de longa duração; o campus libertado acolhe gente mais velha.
+A Escola Primária Chonghua é outro tipo de adaptação. Após o fechamento da Escola de Gao Feng, o terreno foi assumido pela Fundação Celestial Masters, tornando-se a Escola Primária Chonghua em 2016[^18] — a primeira "universidade que virou escola primária" em Taiwan. A queda populacional matou as universidades e, ao mesmo tempo, criou uma necessidade de escolas primárias; o mesmo campus abrigou um grupo de crianças menores. O Instituto de Tecnologia e Gestão Daojiang se transformou em uma fundação corporativa, e o espaço vazio recebeu pessoas mais velhas.
 
-Mas a outra metade, as pessoas ainda se seguram sozinhas. Esses 16,42% de desistência, esses 14% de recolocação docente, falam da mesma coisa: os papéis têm quem guarde, a gente ainda procura lugar. E o muro não acabou de bater. O Ministério da Educação projeta para 2040 (ano letivo 129) apenas 146 mil calouros[^32]; a partir de 2028, a taxa de seleção da admissão por candidatura sobe de 3 para 4 vezes, para deixar mais candidatos passarem à segunda fase[^32]. Quanto ao mais adiante, nasceram 135 mil em 2024, só 108 mil em 2025; essa fornada daqui a dezoito anos (por volta de 2042, 2043) será o teto dos calouros, mas já ultrapassa o alcance das projeções oficiais do Ministério, só se pode inferir grosseiramente pelos nascimentos[^13].
+Mas do outro lado, as pessoas estão se autogerenciando. A taxa de evasão de 16,42% e a taxa de transição de professores de 14% dizem a mesma coisa: os documentos foram guardados, mas as pessoas ainda estão procurando um lugar. E o muro ainda não caiu completamente. O Ministério da Educação estima que em 2040 (o ano letivo 129), restam apenas 146 mil calouros[^32]; a partir de 2028, o fator de seleção para admissão universitária aumenta de 3 vezes para 4 vezes, para permitir que mais candidatos entrem na segunda fase[^32]. Quanto ao futuro, em 2024 nasceram 135 mil e em 2025 restam apenas 108 mil; essas crianças formarão o teto dos calouros universitários daqui a dezoito anos (por volta de 2042-2043), mas isso está além da estimativa oficial do Ministério da Educação, podendo ser apenas uma inferência grosseira com base no número de nascimentos[^13].
 
-Se você for pai ou mãe, e quiser verificar se a escola que o seu filho vai preencher é segura, vai descobrir uma coisa: o Ministério da Educação não publica ativamente a lista completa de escolas em alerta e em assistência especial[^20]. Você quer consultar, não consegue. Isso em si já é uma resposta silenciosa sobre «para quem existe a universidade».
+Se você é pai ou mãe e quer verificar se a escola para seu filho é segura, você descobrirá algo: o Ministério da Educação não divulga proativamente a lista completa de escolas de alerta e acompanhamento de projetos[^20]. Você tenta procurar, mas não encontra. Isso é uma resposta silenciosa sobre "para quem existe a universidade".
 
-A história volta a Pan Kun-cheng. Dez anos passados, ele tem 33 anos, é agente imobiliário. Quando perguntam a formação, no começo ainda dizia Kao Feng, mas «muita gente não conhece Kao Feng, explicar demora, depois nem menciona, diz direto que é formado pela Shu-te University»[^18].
+A história volta a Pan Kun-ching. Dez anos se passaram, ele tem 33 anos e trabalha como corretor de imóveis. Quando as pessoas perguntam sobre sua formação, ele inicialmente mencionava Gao Feng, mas "[muitas pessoas não sabem o que é Gao Feng, preciso explicar muito tempo, depois ele parou de mencionar e disse apenas ter se formado na Universidade de Shide]"[^18].
 
-A Kao Feng, no fim, deixou dois lugares no mundo. Um na base de dados, no sistema sob guarda da Yunlin Tech, um histórico custa 20 NT$, consultável a qualquer hora. O outro na apresentação pessoal de Pan Kun-cheng — um nome que ele já não diz em voz alta.
+A escola Gao Feng deixou dois legados no mundo. Um está no banco de dados, no sistema gerenciado pela Universidade Tecnológica de Yunlin, um histórico avaliado em 20 yuans, disponível para consulta a qualquer momento. O outro está na autoapresentação de Pan Kun-ching, um nome que ele parou de dizer.
 
-Abrir, Taiwan levou dez anos. Aprender a fechar, levou trinta — e ainda está a aprender. Aquele painel de recrutamento diante da estação de Pingtung já foi desmontado há muito, o portão da Yung Ta ainda está na beira da estrada em Linluo. Entre a porta que abre e a porta que fecha, quem está de pé, desde sempre, são as pessoas.
-
----
-
-**Leitura complementar**:
-
-- [Crise de baixa natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — A parede demográfica que derrubou as universidades, como se formou e para onde vai
-- [Sistema educacional e cultura de admissão](/pt/society/education-system-and-admissions-culture) — A porta estreita do Exame Unificado e o elitismo de admissão, o que a criação massiva tentou soltar
-- [Pobreza de aprendizagem](/pt/society/learning-poverty-in-taiwan) — Depois da massificação do diploma, onde se esconde a verdadeira diferença de aprendizagem
+Abrir levou dez anos em Taiwan. Aprender a fechar levou trinta anos — e ainda estão aprendendo. Os cartazes de recrutamento da estação de ferroviária de Hsing-te foram desmontados há muito tempo, e o portão da Yung Ta ainda está na beira da estrada em Linluo Township. Entre abrir e fechar, quem permanece é sempre a pessoa.
 
 ---
+
+**Leitura Complementar**:
+
+- [Crise da baixa taxa de natalidade em Taiwan](/pt/society/taiwan-low-birth-rate-crisis) — Como se formou e para onde vai o muro populacional que derrubou as universidades
+- [Sistema educacional e cultura de admissão](/pt/society/education-system-and-admissions-culture) — O gargalo do exame nacional e o academicismo; quem quer flexibilizar a universidade é justamente esse
+- [Pobreza do aprendizado](/pt/society/learning-poverty-in-taiwan) — Depois que a escolarização se popularizou, onde está o verdadeiro abismo de aprendizagem?
+- [Academia Sinica](/society/中央研究院) — A instituição que não precisa recrutar ou dar aulas, cujo estatuto é escrito na Lei da Organização da Presidência e que gera um sentimento relativo de privação no lado universitário: "Por que ela merece ser assim?"
 
 ## Fontes das imagens
 
