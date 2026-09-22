@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T15:30:45+08:00",
-    "zhCommitHead": "7576bc872",
+    "lastUpdated": "2026-09-22T15:32:16+08:00",
+    "zhCommitHead": "e835d5463",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1025,
-        "stale": 45,
+        "fresh": 1026,
+        "stale": 44,
         "metadata_stale": 9,
         "missing": 45,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 852,
+        "fresh": 853,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       }
     },
@@ -4386,11 +4386,11 @@
           "sourceContentHash": "sha256:d0269e2f1779f743",
           "sourceBodyHash": "sha256:70e0b74692ddad14",
           "translatedAt": "2026-09-22T10:29:40+08:00",
-          "translationLastCommit": "d182e5d8",
-          "translationLastModified": "2026-08-16T08:53:57+08:00",
+          "translationLastCommit": "e835d546",
+          "translationLastModified": "2026-09-22T15:30:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 22055,
+          "bytes": 22057,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -20677,7 +20677,19 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/acer-pc-industry-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：宏碁.md",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:d376a35c550402b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T07:07:59.642125+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 63372,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56827,19 +56839,17 @@
         "pt": {
           "path": "pt/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:2a4f80e7fc721f19",
+          "sourceBodyHash": "sha256:fc5314c473c1914f",
+          "translatedAt": "2026-09-22T07:31:56.252578+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 57559,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 58125,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -80448,8 +80458,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-22T10:29:40+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "e835d546",
+          "translationLastModified": "2026-09-22T15:30:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 29850,
