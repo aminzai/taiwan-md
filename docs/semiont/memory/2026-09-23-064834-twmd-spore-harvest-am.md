@@ -55,8 +55,19 @@
 | 衍生層 validate                 | ✅ `validate-spore-data.py` 六項全綠 0/0，`spore-db.py check` 0 error                                   |
 | LESSONS-INBOX                   | ✅ 2 條（`chrome-headless-window-blocks-extension` / `settled-decision-relabelled-as-open-in-handoff`） |
 | tab cleanup                     | ✅ `tabs_close_mcp`，group 自動移除（Chrome 視窗留著，是明天的前置條件）                                |
+| diary                           | ⏭️ skip（機械閘 PASS 不等於該寫，見下）                                                                 |
 | git commit                      | ✅ 僅本任務範疇檔（LESSONS / memory / 索引），babel 的未提交檔一個不碰                                  |
 | push                            | ✅ 直推 `origin/main`                                                                                   |
+
+## 日記為什麼不寫
+
+`diary-gate.py` 給的是 PASS：同 handle 上一篇是 08-11（43 天前，冷卻遠過），鄰居檢索最高相似度 0.02（既有條目裡沒有它的家）。但機械閘只管冷卻與鄰居兩件判得出來的事，Stage 0b／0c 才是路由，而今天兩個想法都不走日記那一列：
+
+- Chrome 那條是「下次遇到 X 要記得 Y、可操作、能寫成步驟」，0b 第二列指向 **LESSONS-INBOX**，已落 `chrome-headless-window-blocks-extension`。
+- 標籤那條是「跨了好幾天、好幾條 routine 才看得出來的形狀」（8 天、6 條 routine），0b 第四列明寫住 **weekly-report ／ self-evolve-weekly**，單 session 視角寫了只是切片。
+- 0c 第一條也不成立：本輪 0 ship、0 fix、0 issue、0 merge，是 pipeline 定義的合法 no-op，正是「純空場一律不寫」指的那種。
+
+閘門放行不是授權。09-09 提高門檻時留下的反例（feedback-triage 20 天寫 8 篇，每篇單讀都成立）就是寫得好的重複，本輪不加入那個序列。
 
 ## Handoff 三態
 
@@ -77,6 +88,7 @@
 本 session 新 handoff：
 
 - [ ] pending（下一班 06:30，零判斷）— LESSONS `chrome-headless-window-blocks-extension`：`list_connected_browsers` 回 `[]` 時，先 `ps aux | grep "[G]oogle Chrome" | grep -- --no-startup-window`，命中就跑 `open -a "Google Chrome"`、等 8 秒、重探一次。回來了就照常跑，**不開新 LESSONS、不交給哲宇**。仍是 `[]` 才是新病，那時才升級。
+- [ ] pending（指定席位 `twmd-self-evolve-weekly` 09-27，形狀層）— LESSONS `settled-decision-relabelled-as-open-in-handoff` 的跨 routine 形狀（8 天、6 條 routine、一次局部更正沒跨過去）依 DIARY-PIPELINE §0b 第四列歸這個席位，不歸日記也不歸單班 memory。
 - [ ] pending（指定席位 `twmd-routine-sync` 明天 05:30，帶指令）— LESSONS `settled-decision-relabelled-as-open-in-handoff`：交接層把 `manual-by-decision` 的三條 routine 寫成「未拍板」26 次（09-15 起，不含本檔；09-14 另有一條同義變體）。查核指令 `grep -rn "停用未拍板\|停用三個月未拍板" docs/semiont/memory/ | grep -v 064834 | wc -l`（今晨 26），對照 `docs/semiont/ROUTINE.md` 的 `routine-decisions` 區段 `state` 欄。候選儀器是在 `routine-sync-check.py` 加一道「近 7 天 memory handoff 提到的 routine 狀態字樣 vs `routine-decisions.state`」對賬，紅燈條件＝任一條被標成未決而 SSOT 是 `manual-by-decision`。本班不動 routine SSOT（非本 routine 職權，per REFLEXES #79）。
 - [ ] pending（延續，零判斷，第 3 輪沒漏）— 掃 `/activity/replies` 逐則對 `time[datetime]`。再漏一次才寫進 SPORE-HARVEST-PIPELINE §動態頁回覆分頁。
 - [ ] pending（下一班，零判斷，續傳）— #29 李洋按讚聚合要到「1.4 萬」才開。今天第二輪確認仍是 1.3 萬。
