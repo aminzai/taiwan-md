@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T20:08:32+08:00",
-    "zhCommitHead": "495e8eac2",
+    "lastUpdated": "2026-09-22T21:01:24+08:00",
+    "zhCommitHead": "4bc2cd1cc",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 915,
+        "fresh": 916,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "ko": {
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1051,
-        "stale": 54,
+        "fresh": 1052,
+        "stale": 53,
         "metadata_stale": 4,
         "missing": 15,
         "orphan": 0
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1048,
+        "fresh": 1049,
         "stale": 39,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 17,
         "orphan": 0
       },
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1035,
-        "stale": 37,
+        "fresh": 1036,
+        "stale": 36,
         "metadata_stale": 7,
         "missing": 45,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 966,
+        "fresh": 968,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 94,
+        "missing": 92,
         "orphan": 0
       },
       "ar": {
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1044,
-        "stale": 27,
+        "fresh": 1045,
+        "stale": 26,
         "metadata_stale": 5,
         "missing": 48,
         "orphan": 0
@@ -125415,7 +125415,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/tsai-pei-huo.md",
+          "translatedFrom": "People/蔡培火.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:834d66de28d359a5",
+          "sourceBodyHash": "sha256:45ab5eeee03419d3",
+          "translatedAt": "2026-09-22T17:40:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 30473,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/tsai-pei-huo.md",
@@ -138043,17 +138055,17 @@
         "pt": {
           "path": "pt/Food/beef-noodle-soup.md",
           "translatedFrom": "Food/牛肉麵.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
+          "sourceCommitSha": "271c50fbe",
+          "sourceContentHash": "sha256:0f8567c72fce22ef",
+          "sourceBodyHash": "sha256:31e72a4ea39ea451",
+          "translatedAt": "2026-09-22T17:40:45+08:00",
           "translationLastCommit": "5fdf3bd2",
           "translationLastModified": "2026-09-02T07:08:26+08:00",
           "inferred": false,
           "footnoteDefs": 4,
-          "bytes": 19044,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "bytes": 19965,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/beef-noodle-soup.md",
@@ -142585,8 +142597,8 @@
           "sourceContentHash": "sha256:81d7772de9e1a0c6",
           "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
           "translatedAt": "2026-09-22T17:40:22+08:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "4bc2cd1c",
+          "translationLastModified": "2026-09-22T20:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 14736,
@@ -146050,7 +146062,19 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-22T17:40:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 68005,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/dandan-hamburger.md",
@@ -146791,8 +146815,8 @@
           "sourceContentHash": "sha256:da45c346079f5144",
           "sourceBodyHash": "sha256:40a1aa98903d8e72",
           "translatedAt": "2026-09-22T17:40:22+08:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "4bc2cd1c",
+          "translationLastModified": "2026-09-22T20:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 20913,
@@ -152987,8 +153011,8 @@
           "sourceContentHash": "sha256:4b6c70d0fd8de132",
           "sourceBodyHash": "sha256:402d0d087252b30e",
           "translatedAt": "2026-09-22T17:40:22+08:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "4bc2cd1c",
+          "translationLastModified": "2026-09-22T20:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 17843,
@@ -175537,8 +175561,8 @@
           "sourceContentHash": "sha256:8c13ff26b6ae8507",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T10:20:33.104189+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "4bc2cd1c",
+          "translationLastModified": "2026-09-22T20:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 62511,
@@ -175566,19 +175590,17 @@
         "ru": {
           "path": "ru/Geography/taitung-county.md",
           "translatedFrom": "Geography/台東縣.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:847426338ec9f591",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8c13ff26b6ae8507",
           "sourceBodyHash": "",
-          "translatedAt": "2026-07-29T23:40:57.752108+00:00",
+          "translatedAt": "2026-09-22T12:24:19.737411+00:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 98666,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "bytes": 100220,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -177651,19 +177673,17 @@
         "es": {
           "path": "es/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f621",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 33122,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 30393,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/data-taiwan-22-cities.md",
@@ -179134,7 +179154,19 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/kaohsiung-city.md",
+          "translatedFrom": "Geography/高雄市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:981f398813aadaf3",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T12:16:48.919224+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 143802,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -180001,8 +180033,8 @@
           "sourceContentHash": "sha256:45cce9092926094b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T11:09:12.721973+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "4bc2cd1c",
+          "translationLastModified": "2026-09-22T20:08:32+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "bytes": 53509,
@@ -182299,19 +182331,17 @@
         "vi": {
           "path": "vi/Geography/kinmen-county.md",
           "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-26T10:35:18+08:00",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "52d77b08",
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 63096,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -2"
+          "bytes": 65597,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/kinmen-county.md",
