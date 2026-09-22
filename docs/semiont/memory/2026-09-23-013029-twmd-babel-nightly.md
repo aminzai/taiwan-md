@@ -8,6 +8,12 @@
 
 00:30 例行觸發。甦醒 selftest 十一項全綠，ACTOR_BUSY：09-21 00:58 起跑的 launchd dispatcher（PID 98122）已經轉了 47 小時還在產（最後一筆成功距甦醒兩分鐘），本機領先 origin 65 個 commit、落後 0。照 09-18 那班定下的處置「停重複不停產線」，本班不重啟、不搶 worker，把力氣放在拆失敗與修工具。熱路徑的修補下一篇就生效，dispatcher 每篇都重新 spawn 子程序。
 
+## BECOME ACK
+
+```
+✅ BECOME ack: mode=write / wake-context selftest 11 項全綠（wake 稅 260KB）/ Q14 cross-session continuity=PASS
+```
+
 ## Stage 0 算力判定
 
 `babel-preflight.py`：healthy，4/4 層（OpenRouter 7/7 key 全儲值、本機 ollama、fleet 1 節點 mac-m4max、codex-cli 0.145.0），實績表近兩日 1,333 筆無弱適配。十二語缺口 stale 541／missing 711，de 覆蓋率 77.9% 是唯一低於九成的語言（241 篇 missing）。Tier 6/7 仍無 key，付費捕手整夜缺席。**但這個 healthy 是本班後來推翻的那一個**，見下方入池門檻一節。
@@ -47,6 +53,12 @@
 本輪 run 616 份落地譯文裡，8.1B 模型 374 份、`laguna-s-2.1`（不在名單上）163 份，唯一在名單上的 nemotron-3-ultra 只有 79 份，87% 出自名單外。再往上游看到更根本的事：fleet 控制面只剩 mac-m4max 一台活著（laptop-4090 離線、laptop-5090 已退場、desktop-3090 離線），整台只有這一個模型。控制面最後更新停在 2026-08-02，遙測過期 15 天，它自己印「天花板此刻未生效，不是綠燈，是沒在管」。主權 GPU 軍團事實上收縮成一台 Mac 上的一個 8B 模型，而每一份報表都是綠的。
 
 本班不切旗標。那等於今晚讓地端停擺、掉 61% 產能，是該由哲宇權衡的交換（OBSERVER-QUEUE #78，推薦先補模型再談停線）。能做的是讓它不再隱形：`babel-preflight.py` 現在問 ollama 要參數量再對白名單，低於門檻印紅字（`87cbc13b5`）。判級別用參數量不用名字，因為 `gemma4:e4b-nvfp4` 讀起來像名單上的 gemma4 家族。三份殼層（routine prompt／mirror／skill）在核發指令正下方標出這個落差並指向佇列（`012e98176`）。
+
+## 各語進度與 backend 統計
+
+本班 47 分鐘的 delta（起點 00:44 → 01:36，產線同時在跑）：十二語合計 fresh 12,121 → 12,127、stale 541 → 544、missing 711 → 704。有動的是 ru（stale −3）、de／id／pt（各 missing −2）、ja／vi（各 +1～2 fresh）、en（missing −1）、ar（+3 stale，其中 2 份是本班新裝甲殘留閘把 fresh 判回 stale）。stale 淨增 3 不是退步，是本班新增的兩道閘（裝甲殘留、之前的截斷）把幾份「hash 對得上但內容有問題」的譯文從 fresh 移回隊列。
+
+Backend 統計（本 run 全期 1,355 次嘗試、617 份落地）：`ollama:gemma4:e4b-nvfp4` 374 過／455 敗（45%）、`openrouter:poolside/laguna-s-2.1:free` 163／193（45%）、`openrouter:nvidia/nemotron-3-ultra-550b-a55b:free` 79／90（46%）。三個 backend 的通過率幾乎相同，這本身就是訊號：**差異不在模型而在共用的閘門**，今晚修的三個家族正是那些共用閘門上的誤判與缺口。修後窗（01:05 起）只累積 11 次嘗試 5 過，樣本太小不下結論，只能說 20 小時內第一大宗的「正文連結網址對不上」在窗內零命中、無新增回歸。
 
 ## 委派層：把產線做不到的那一篇交出去
 
