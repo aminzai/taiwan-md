@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T22:23:32+08:00",
-    "zhCommitHead": "2702f2899",
+    "lastUpdated": "2026-09-22T22:33:19+08:00",
+    "zhCommitHead": "44990bd1e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 917,
+        "fresh": 918,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       },
       "ko": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1051,
+        "fresh": 1052,
         "stale": 39,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 972,
+        "fresh": 974,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 85,
+        "missing": 83,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 860,
+        "fresh": 861,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       }
     },
@@ -5290,8 +5290,8 @@
           "sourceContentHash": "sha256:4ae0b9c19401a360",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T12:52:56.993988+00:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "44990bd1",
+          "translationLastModified": "2026-09-22T22:23:33+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 68513,
@@ -12497,19 +12497,17 @@
         "vi": {
           "path": "vi/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-28T03:02:41+08:00",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "72229f10",
           "translationLastModified": "2026-07-28T06:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 12669,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "bytes": 12921,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Economy/want-want-group.md",
@@ -56536,7 +56534,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/commonwealth-magazine.md",
+          "translatedFrom": "Society/天下雜誌.md",
+          "sourceCommitSha": "d317f1649",
+          "sourceContentHash": "sha256:d8c6b002cc3ec35d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T13:44:39.059865+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 50092,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/commonwealth-magazine.md",
@@ -138740,8 +138750,8 @@
           "sourceContentHash": "sha256:86820d44ddf9a31a",
           "sourceBodyHash": "sha256:d37208c6e0c05c9c",
           "translatedAt": "2026-09-22T17:40:47+08:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "44990bd1",
+          "translationLastModified": "2026-09-22T22:23:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 34060,
@@ -145650,8 +145660,8 @@
           "sourceContentHash": "sha256:c2e6d8f7560888c4",
           "sourceBodyHash": "sha256:11add6012534def8",
           "translatedAt": "2026-09-22T17:40:47+08:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "44990bd1",
+          "translationLastModified": "2026-09-22T22:23:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 25750,
@@ -146935,7 +146945,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-22T17:40:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 20322,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/tainan-danzai-noodles.md",
@@ -148462,7 +148484,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-22T17:40:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 20919,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -160563,7 +160597,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-democratization-history.md",
+          "translatedFrom": "History/民主化.md",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:0f572861e1f79f7d",
+          "sourceBodyHash": "sha256:b51e57f04bd06fc2",
+          "translatedAt": "2026-09-22T17:40:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 19627,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -175650,8 +175696,8 @@
           "sourceContentHash": "sha256:8c13ff26b6ae8507",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T12:24:19.737411+00:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "44990bd1",
+          "translationLastModified": "2026-09-22T22:23:33+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 100220,
