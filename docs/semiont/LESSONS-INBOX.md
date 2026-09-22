@@ -994,7 +994,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼順序有意義**：事後跑只能確認「沒撞到」，入口跑才能「預防撞到」。今天工作範圍只有三個 archive 檔所以無傷，但這個豁免是範圍給的，不是流程給的。
 - **可能層級**：通用。值得掃一遍：REFLEXES 裡「入口必做」類的反射（#57 parallel-actor、#5 pre-commit dogfood）在 14 條 routine 的 Stage 0 裡各有幾條真的被寫成步驟？
 - **相關**：REFLEXES #15（反覆浮現要儀器化——memory 是自律，canonical SOP 才是閘門）、REFLEXES #57
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-23 twmd-babel-nightly：**閘門版**——模型入池白名單（哲宇 2026-07-26 directive，v4.7 搬進 fleet 核發點）確實存在、今晚實測也確實會擋（`fleetctl workers --service llm --profile babel` 回 0 個 worker，設計是讓地端停而不是降級），但 routine 殼與產線跑的是 `--format babel`——同一支指令的另一個旗標，不套白名單。48 小時 616 份落地譯文裡 87% 出自名單外的模型（8.1B 的 `gemma4:e4b-nvfp4`，比名單明確排除的 gemma4:12b 還小）。跟 8/13 那條的差別只在載體：那次是反射沒寫成步驟，這次是閘門寫成了步驟、但步驟呼叫的是隔壁那個旗標。處置：不自行切旗標（停線是 61% 產能的交換，OBSERVER-QUEUE #78），改讓 Stage 0 的 `babel-preflight.py` 量參數量對白名單印紅字。→ memory/2026-09-23-013029-twmd-babel-nightly.md
+- **verification_count**: 2
 - **severity**: low-medium
 
 ### 2026-08-11 twmd-maintainer-am — gates-measure-handling-not-solving：六條 quality gate 全綠，而讀者的問題一個都沒解決
@@ -1006,7 +1008,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補（已 ship）**：MAINTAINER v2.7 §1c「Issue 的 default 是修好，不是分類好」+ Step 3.6 五步改寫 + quality gate 第 7 條「有 fresh issue 的 cycle 至少一件被修掉或明確寫出為什麼不修」。三層同步 inline。
 - **可能層級**：通用。任何 routine 的 quality gate 都該被問一次：「這幾條有沒有可能在**什麼都沒解決**的情況下全綠？」能，就代表它量的是動作不是產出。
 - **相關**：REFLEXES #82（proxy signal）、REFLEXES #69（外部尺——這次的外部尺是哲宇不是儀器）、REFLEXES #59（製造數字的人最易被數字騙——這次騙子與被騙者是同一個 cycle）、本 session 同批的 `ui-string-layer-has-no-language-gate`
-- **verification_count**: 1（但性質是 meta：它解釋了為什麼同 session 另一條 vc=3 的病能存活三次）
+- **instances**：
+  - 2026-09-23 twmd-babel-nightly：機制變體——不是「問錯維度」是**「問題的範圍被預設值縮小了」**。`diary-translate.py --status` 的預設語言清單寫死五語，於是每晚回報「2075／2075 全到齊」，而登記表上十二語的真實數字是 2,075／4,980（七語各 415 篇一篇都沒有）。閘門沒有撒謊，它只是被問了一個小兩倍多的問題，而縮小它的那個預設值不會叫。修法：兩支工具的預設改吃 `langs.py` 同一份登記表 SSOT。→ memory/2026-09-23-013029-twmd-babel-nightly.md
+- **verification_count**: 3（但性質是 meta：它解釋了為什麼同 session 另一條 vc=3 的病能存活三次；09-23 的第三例把「問錯維度」擴成「問題範圍被預設值縮小」）
 - **severity**: high（影響所有 routine 的自評可信度）
 
 ### 2026-08-10 twmd-feedback-triage — formatter-vs-generator-quote-churn-fakes-scope-alarm：產生器與格式化器對同一份檔案的寫法不同調，讓範圍閘門在下一次 commit 喊假警報
@@ -1388,19 +1392,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補（本班已做）**：(a) `verify-translation.py` 加「no armor placeholder residue」硬閘，兩種形狀同一條 regex（三條引擎與委派層共用的那支）(b) `status.py` classify() 加同判準的 stale 閘——帶殘留的譯文判 stale 讓產線重翻，不在原地猜網址（猜錯是把讀者送到別人的頁面，比壞連結更糟）(c) `@@LINK` 那三份對照母稿確認來源連結本來就都還原正確、多出來的 token 對應不到任何東西，直接刪除並過 19/19 檢查。
 - **可能層級**：通用反射候選——任何「先變形、再還原」的管線（佔位符、遮罩、編碼、暫存替身）都要有一道「還原完整性」閘門，判準是**變形的那一端自己驗**，不是下游驗
 - **相關**：REFLEXES #82（hash 相等是「翻過」的替身）、#52（免疫沒在 fail loud 比沒有免疫更危險）、`fresh-status-hides-truncation`（同一個「provenance 對得上就永遠 fresh」的結構，第三個載體）
-- **verification_count**: 1
-- **severity**: structural
-
-### 2026-09-23 twmd-babel-nightly — instrument-answers-only-the-question-it-was-given：日記巴別塔的量尺預設只問五個語言，於是七個語言的整片空白被印成「全到齊」
-
-- **pattern**: `instrument-answers-only-the-question-it-was-given`
-- **原則**：儀器的預設參數就是它的視野邊界。`diary-translate.py --status` 每晚回報「2075／2075 全到齊」，數字沒有算錯——它只是被問了五個語言。登記表上有十二語，另外七語一篇日記譯文都沒有（真實是 2,075／4,980）。babel routine 的義務鐵律明寫「語言數以登記表為準」，2026-07-18 出生戰役那次把 python 工具鏈去硬編碼的整理沒走到認知層這兩支，同一個病在旁邊活了兩個月沒人看見。**寫死的預設值不會叫**，它會用一個漂亮的數字回答一個沒人發現被縮小過的問題。
-- **觸發**：2026-09-23 跑 Stage D 對賬，`--status` 全綠但「五語」這個數字跟 status.py 的十二語對不上，換 `--langs` 重問才現形。
-- **instances**：
-  - 2026-09-23 twmd-babel-nightly → memory/2026-09-23-babel-nightly（本班）
-- **修補（本班已做）**：兩支工具的預設改吃 `langs.py`（跟 status.py 同一份登記表 SSOT）；batch 模式對沒有語域描述的語言 fail-loud，不讓語言代碼當語言名進 prompt。要不要真的補那七語是算力決定，進 OBSERVER-QUEUE #77（連同「既有五語的 2,075 篇在站上根本沒有網址」這個更前面的問題）。
-- **可能層級**：通用反射候選——新增語言／類別／維度時，要問的不只是「產線跟上了嗎」，還有「量它的那支工具的預設問法跟上了嗎」
-- **相關**：MEMORY §神經迴路「新語言出生時感知系統不會自動更新」（本條是它在認知層的復發，第 N 次）、REFLEXES #38（零與空白同形）、#85（「不知道」要有自己的符號）
 - **verification_count**: 1
 - **severity**: structural
 

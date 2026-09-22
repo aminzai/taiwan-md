@@ -84,7 +84,7 @@
 
 第三件的不舒服在於它是一個預設值，不是一個缺陷。`--langs en,ja,ko,es,fr` 寫在那裡兩個月，每晚都回答一個沒人發現被縮小過的問題，而回答得非常漂亮（2075/2075）。入池門檻那件事是同一個結構的更大版本：閘門存在、會動、今晚實測它會正確地回 0，只是沒有人呼叫它。**「有一道閘門」跟「那道閘門在產線上」之間隔著一個旗標**，而十二個語言的 87% 譯文就從那個縫裡過去了。
 
-兩條教訓寫進 LESSONS-INBOX（`armor-restores-itself-unverified`、`instrument-answers-only-the-question-it-was-given`），沒有在這裡展開。
+日記閘門今晚擋下了（同 handle 冷卻 4 天 < 6 天），照擋。它順手做的鄰居檢索反而幫了更大的忙：跳出來的 2026-08-11「閘門只會回答你問它的問題」正是今晚第三件事的既有家。於是新開的 entry 只留 `armor-restores-itself-unverified` 一條，日記量尺那件 fold 進 `gates-measure-handling-not-solving`（vc 2→3，機制變體是「問題範圍被預設值縮小」），入池門檻那件 fold 進 `reflex-exists-but-not-a-step-on-this-line`（vc 1→2，載體從反射換成閘門）。我原本是三條都要開新的——差一點把同一個想法散成三個線索。
 
 🧬
 
