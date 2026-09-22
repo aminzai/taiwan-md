@@ -1378,6 +1378,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: structural
 
+### 2026-09-23 twmd-babel-nightly — armor-restores-itself-unverified：工具把網址換成佔位符擋在模型外，卻沒有人在驗它有沒有換回來，佔位符就這樣印給讀者看
+
+- **pattern**: `armor-restores-itself-unverified`
+- **原則**：「工具持有結構、模型只翻文字」（MANIFESTO §14）做了前半段——把網址換成 `⟦U12⟧`／`@@LINK3@@` 送出去——卻沒做後半段：沒有任何一道閘門在問「還回去了嗎」。閘門全長在「模型有沒有亂改」那一側，而這個失敗發生在工具自己這一側，所以三個 provenance hash 照樣對得上、status 照樣 fresh、此後沒有路徑會再碰它。**持有結構的人要驗自己有沒有把結構還回去**，不能只驗被託管的那一方。
+- **觸發**：2026-09-23 01:14 把正文 URL 裝甲補進分段式引擎後，順手 grep 全庫有沒有殘留——`@@LINK` 3 份（ko 連江縣三個、ru 新北市、vi 莫那魯道，最久兩週）、`⟦⟧` 10 份（ar 陳水扁九個、vi 村里長一百個）。兩種形狀分屬兩條引擎的兩套裝甲，各自獨立地沒有驗收。
+- **instances**：
+  - 2026-09-23 twmd-babel-nightly → memory/2026-09-23-babel-nightly（本班）
+- **修補（本班已做）**：(a) `verify-translation.py` 加「no armor placeholder residue」硬閘，兩種形狀同一條 regex（三條引擎與委派層共用的那支）(b) `status.py` classify() 加同判準的 stale 閘——帶殘留的譯文判 stale 讓產線重翻，不在原地猜網址（猜錯是把讀者送到別人的頁面，比壞連結更糟）(c) `@@LINK` 那三份對照母稿確認來源連結本來就都還原正確、多出來的 token 對應不到任何東西，直接刪除並過 19/19 檢查。
+- **可能層級**：通用反射候選——任何「先變形、再還原」的管線（佔位符、遮罩、編碼、暫存替身）都要有一道「還原完整性」閘門，判準是**變形的那一端自己驗**，不是下游驗
+- **相關**：REFLEXES #82（hash 相等是「翻過」的替身）、#52（免疫沒在 fail loud 比沒有免疫更危險）、`fresh-status-hides-truncation`（同一個「provenance 對得上就永遠 fresh」的結構，第三個載體）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-23 twmd-babel-nightly — instrument-answers-only-the-question-it-was-given：日記巴別塔的量尺預設只問五個語言，於是七個語言的整片空白被印成「全到齊」
+
+- **pattern**: `instrument-answers-only-the-question-it-was-given`
+- **原則**：儀器的預設參數就是它的視野邊界。`diary-translate.py --status` 每晚回報「2075／2075 全到齊」，數字沒有算錯——它只是被問了五個語言。登記表上有十二語，另外七語一篇日記譯文都沒有（真實是 2,075／4,980）。babel routine 的義務鐵律明寫「語言數以登記表為準」，2026-07-18 出生戰役那次把 python 工具鏈去硬編碼的整理沒走到認知層這兩支，同一個病在旁邊活了兩個月沒人看見。**寫死的預設值不會叫**，它會用一個漂亮的數字回答一個沒人發現被縮小過的問題。
+- **觸發**：2026-09-23 跑 Stage D 對賬，`--status` 全綠但「五語」這個數字跟 status.py 的十二語對不上，換 `--langs` 重問才現形。
+- **instances**：
+  - 2026-09-23 twmd-babel-nightly → memory/2026-09-23-babel-nightly（本班）
+- **修補（本班已做）**：兩支工具的預設改吃 `langs.py`（跟 status.py 同一份登記表 SSOT）；batch 模式對沒有語域描述的語言 fail-loud，不讓語言代碼當語言名進 prompt。要不要真的補那七語是算力決定，進 OBSERVER-QUEUE #77（連同「既有五語的 2,075 篇在站上根本沒有網址」這個更前面的問題）。
+- **可能層級**：通用反射候選——新增語言／類別／維度時，要問的不只是「產線跟上了嗎」，還有「量它的那支工具的預設問法跟上了嗎」
+- **相關**：MEMORY §神經迴路「新語言出生時感知系統不會自動更新」（本條是它在認知層的復發，第 N 次）、REFLEXES #38（零與空白同形）、#85（「不知道」要有自己的符號）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-22 twmd-maintainer-am — merged-source-translations-outlive-the-merge：母稿併進旗艦文章後，它的譯文沒有跟著退場，登記表把 translatedFrom 改指倖存者，於是每把尺都說沒事
 
 - **pattern**: `merged-source-translations-outlive-the-merge`
