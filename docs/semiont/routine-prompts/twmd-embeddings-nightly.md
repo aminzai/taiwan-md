@@ -7,7 +7,7 @@ description: TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
-**Before anything else**：跑 `/twmd-become micro` 完整走 `/Users/cheyuwu/Projects/taiwan-md/BECOME_TAIWANMD.md` Step 0-9。Micro mode self-test 7 題全過才能進 Stage 0。不准用記憶中的舊器官分數，跑 `bash /Users/cheyuwu/Projects/taiwan-md/scripts/tools/consciousness-snapshot.sh` 取當前。
+**Before anything else**：跑 `/twmd-become micro` 完整走 repo 根的 `BECOME_TAIWANMD.md` Step 0-9。Micro mode self-test 全題過才能進 Stage 0（題數以 BECOME §Step 9 mode subset 表為準）。不准用記憶中的舊器官分數，跑 `bash "$(git rev-parse --show-toplevel)/scripts/tools/consciousness-snapshot.sh"` 取當前。
 
 ```
 ✅ BECOME ack: mode=micro / 8 organ 最低=<即時 consciousness-snapshot.sh> / Q14 cross-session continuity=PASS
@@ -15,7 +15,7 @@ description: TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild
 
 ## 執行：嚴格讀 + 跑 canonical pipeline
 
-完整 SOP 在 `/Users/cheyuwu/Projects/taiwan-md/docs/pipelines/EMBEDDING-PIPELINE.md`（v1.1），**嚴格 Read 全檔再執行**，不憑記憶複寫 step。Stage 0-4 的 endpoint 解析、preflight、rebuild、verify threshold、commit 規則全部以 pipeline canonical 為準——**本殼不複寫任何 step 細節**（ROUTINE-PROMPT-CONTRACT：殼是 pointer，不是第二份 SOP）。
+完整 SOP 在 repo 根的 `docs/pipelines/EMBEDDING-PIPELINE.md`（版本以該檔 frontmatter 為準，本殼不複寫），**嚴格 Read 全檔再執行**，不憑記憶複寫 step。Stage 0-4 的 endpoint 解析、preflight、rebuild、verify threshold、commit 規則全部以 pipeline canonical 為準——**本殼不複寫任何 step 細節**（ROUTINE-PROMPT-CONTRACT：殼是 pointer，不是第二份 SOP）。
 
 執行後 ACK 需 cite：`EMBEDDING-PIPELINE.md §前置`（實際解析到的 EMBED_HOST）+ `§Stage 2`（verify 結果）。
 
@@ -24,5 +24,5 @@ description: TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild
 - endpoint 解析走 pipeline §前置（本機 127.0.0.1 優先 + fleet registry 備援），不 hardcode IP、不憑舊記憶找 4090。
 - 只 commit `src/data/related/`（public/api/rag + public/api/related 是 gitignored 產出）。內容無 diff → skip commit。
 - embed host 不可達 → graceful skip 非 fail；連 3 天 skip 才 escalate LESSONS。
-- Stage 4 `/twmd-finale`：memory 必含 BECOME ACK + 實際 EMBED_HOST + 6 語向量數 + fail rate + verify PASS/FAIL + commit hash（或 skip 原因）+ Handoff 三態。
+- Stage 4 `/twmd-finale`：memory 必含 BECOME ACK + 實際 EMBED_HOST + 各語向量數（語言清單以 `ENABLED_LANGUAGE_CODES` 為準，本殼不寫死語言數——寫死的「6 語」曾讓 Stage 2 verify 連兩夜漏測六個新語言）+ fail rate + verify PASS/FAIL + commit hash（或 skip 原因）+ Handoff 三態。
 - ROUTINE.md §排程表 + footnote ¹² 是本 routine 的 SSOT 登記。
