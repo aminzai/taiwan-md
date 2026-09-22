@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T08:07:40+08:00",
-    "zhCommitHead": "d5dd51747",
+    "lastUpdated": "2026-09-22T08:27:41+08:00",
+    "zhCommitHead": "ed4ac369d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1029,
+        "fresh": 1030,
         "stale": 44,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 961,
+        "fresh": 962,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 96,
+        "missing": 95,
         "orphan": 0
       },
       "pt": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 992,
+        "fresh": 993,
         "stale": 54,
         "metadata_stale": 14,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1026,
+        "fresh": 1027,
         "stale": 40,
         "metadata_stale": 9,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 844,
+        "fresh": 845,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 265,
+        "missing": 264,
         "orphan": 0
       }
     },
@@ -12343,8 +12343,8 @@
           "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
           "translatedAt": "2026-09-22T04:48:30+08:00",
-          "translationLastCommit": "4b2493f4",
-          "translationLastModified": "2026-07-26T04:55:51+08:00",
+          "translationLastCommit": "ed4ac369",
+          "translationLastModified": "2026-09-22T08:07:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 15639,
@@ -80291,8 +80291,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-22T04:48:30+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "ed4ac369",
+          "translationLastModified": "2026-09-22T08:07:40+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 18321,
@@ -137841,7 +137841,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/beef-noodle-soup.md",
+          "translatedFrom": "Food/牛肉麵.md",
+          "sourceCommitSha": "271c50fbe",
+          "sourceContentHash": "sha256:0f8567c72fce22ef",
+          "sourceBodyHash": "sha256:31e72a4ea39ea451",
+          "translatedAt": "2026-09-22T04:48:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 19538,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -140860,7 +140872,19 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-22T04:48:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 19455,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -140872,7 +140896,19 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 34703,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -172989,8 +173025,8 @@
           "sourceContentHash": "sha256:833f85e006d23e04",
           "sourceBodyHash": "sha256:fa90458e0d20dada",
           "translatedAt": "2026-09-22T04:48:30+08:00",
-          "translationLastCommit": "d91d85f9",
-          "translationLastModified": "2026-08-04T21:48:54+08:00",
+          "translationLastCommit": "ed4ac369",
+          "translationLastModified": "2026-09-22T08:07:40+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 19933,
@@ -195365,8 +195401,8 @@
           "sourceContentHash": "sha256:7f4fc66b36800cb9",
           "sourceBodyHash": "sha256:3e6fa91c9ef25405",
           "translatedAt": "2026-09-22T04:48:30+08:00",
-          "translationLastCommit": "c2c79c00",
-          "translationLastModified": "2026-07-25T00:43:31+08:00",
+          "translationLastCommit": "ed4ac369",
+          "translationLastModified": "2026-09-22T08:07:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 22434,
@@ -201939,19 +201975,17 @@
         "vi": {
           "path": "vi/Culture/taiwan-meme-culture.md",
           "translatedFrom": "Culture/台灣迷因.md",
-          "sourceCommitSha": "1b3c22ac7",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
-          "translatedAt": "2026-07-27T05:11:04+08:00",
+          "translatedAt": "2026-09-22T08:09:29+08:00",
           "translationLastCommit": "52d77b08",
           "translationLastModified": "2026-07-27T19:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 17482,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 17667,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-meme-culture.md",
@@ -205151,7 +205185,19 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 48679,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"

@@ -1,159 +1,165 @@
 ---
 title: "Taiwan's Rice Food Culture"
-description: "From 85kg to 42kg annually: A rice island nation's dietary revolution and cultural persistence"
+description: 'From 85 kg to 42 kg of rice consumed annually: A food revolution and cultural persistence in a rice island nation'
 date: 2026-03-23
+category: 'Food'
 tags:
   [
-    'rice food',
-    'rice',
-    'traditional culture',
-    'festival food',
-    'agriculture',
-    'dietary changes',
+    'Rice cuisine',
+    'Paddy',
+    'Traditional culture',
+    'Festival foods',
+    'Agriculture',
+    'Dietary change',
   ]
+subcategory: '主食與米麵'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 12
-category: 'Food'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 image: '/article-images/food/rice-dumpling-zongzi.webp'
-imageAlt: 'Zongzi (Rice Dumplings)'
+imageAlt: 'Dragon Boat Festival Zongzi (rice dumplings)'
 imageCredit: 'WeeWZ / Wikimedia Commons'
+difficulty: 'beginner'
+readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg'
 translatedFrom: 'Food/台灣米食文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0e38833f3cafaf68'
-sourceBodyHash: 'sha256:2354ee60853945b0'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:d06ea631387761c6'
+sourceBodyHash: 'sha256:1e5405f424ed35fc'
+translatedAt: '2026-09-22T04:48:26+08:00'
 ---
 
 # Taiwan's Rice Food Culture
 
-> **30-Second Overview:** Taiwanese annual rice consumption plummeted from 85kg in 1985 to 42kg in 2024—a 50% drop. Chicken has overtaken rice as Taiwan's new staple food for the first time in history. Yet Dragon Boat Festival zongzi wrapping and Ghost Festival rice noodle offerings persist, while Hsinchu's rice noodle craftsmanship under the nine-descent winds remains a local pride. This is the story of a rice island nation grappling with dietary westernization.
+> **30-Second Overview:** The amount of rice consumed by Taiwanese people annually plummeted from 85 kg in 1985 to 42 kg in 2024, with chicken first surpassing rice to become the new staple food. However, cultures like making _zongzi_ (rice dumplings) for Dragon Boat Festival and offering rice flour during the Ghost Festival are still being passed down, and the rice flour craftsmanship under the Nine-Blowing Wind in Hsinchu has also become a local pride. This is a struggle and adaptation of a rice island nation facing Westernization of its diet.
 
-2022 marked a historic turning point: Taiwanese consumed 87.5kg of meat annually for the first time, surpassing the 87.4kg of grains. This means chicken has officially replaced rice as Taiwan's primary staple food. In 1985, each Taiwanese consumed 85kg of rice annually; by 2024, this figure had halved to just 42.1kg.
+2022 was a historical turning point: meat consumption per capita in Taiwan reached 87.5 kg, surpassing grains at 87.4 kg for the first time. This meant that chicken officially replaced rice as the new staple food on Taiwanese tables. In 1985, each person in Taiwan ate 85 kg of rice per year; by 2024, it had dropped to only 42.1 kg—a halving.
 
-Yet in Yilan's Sanxing rice paddies, farmers still cultivate premium rice varieties. In Hsinchu's rice noodle factories, the nine-descent winds continue to dry hair-thin rice strands each autumn. In every Taiwanese household, the art of wrapping zongzi during Dragon Boat Festival still passes from grandparent to grandchild.
+Yet, in the rice paddies of Sanxing, Yilan, farmers are still cultivating high-quality rice. In the rice flour factories of Hsinchu, the Nine-Blowing Wind continues to dry strands of rice as fine as hair. In every Taiwanese household, the skill of making _zongzi_ for Dragon Boat Festival is passed down between generations.
 
 > **📝 Curator's Note**
-> This isn't merely a change in dietary habits—it's the transformation of an entire agricultural civilization. As McDonald's and bubble tea shops capture young palates, how does traditional rice culture find its place in modern society?
+> This is not just a change in eating habits; it is a transformation of an entire agricultural civilization. As McDonald's and bubble tea take over the stomachs of young people, how does traditional rice food culture find a new place in modern society?
 
-## The Golden Age of a Rice Island Nation
+## The Golden Age of the Rice Island Nation
 
-Taiwan's rice cultivation history spans 5,000 years, but the true era of the "Rice Kingdom" began during Japanese rule. In 1926, agricultural specialists developed "Ponlai rice"—a grain that would rewrite the island's destiny.
+Taiwan's history of rice cultivation dates back 5,000 years, but the true "Rice Food Kingdom" began during the Japanese colonial period. In 1926, agricultural experts cultivated "Penglai rice"—a seed that rewrote the island's destiny—which was suitable for Taiwan's climate.
 
-Ponlai rice had shorter, stickier grains than traditional indica rice, cooking to a translucent, tender texture. Most importantly, it yielded 30% more than indica rice in Taiwan's climate, transforming the island from food scarcity to self-sufficiency.
+Penglai rice is shorter and stickier than traditional Talai rice; when cooked, it is translucent and has a medium-soft texture. More importantly, its yield in Taiwan was 30% higher than Talai rice, helping this island move from food shortage toward self-sufficiency.
 
-| 85kg → 42kg                                   | 87.5kg                           |
-| --------------------------------------------- | -------------------------------- |
-| Taiwanese Annual Rice Consumption (1985→2024) | 2022 Per Capita Meat Consumption |
+| 85 kg $\rightarrow$ 42 kg                                                     | 87.5 kg                                     |
+| :---------------------------------------------------------------------------- | :------------------------------------------ |
+| Change in annual rice consumption by Taiwanese people (1985$\rightarrow$2024) | Average meat consumption per capita in 2022 |
 
-Post-war Taiwan revolved around rice. In the 1960s-70s, "Taiwan rice" was even exported to Japan, with annual exports exceeding 1 million tons. Taiwanese meals were rice-centric: breakfast congee with pickles, lunch bento, dinner rice with dishes.
+In post-war Taiwan, rice was the absolute protagonist. In the 1960s and 70s, "Taiwanese rice" was even exported to Japan, with annual exports exceeding 1 million tons. At that time, Taiwanese people did not eat a day without rice: congee with side dishes for breakfast, packed lunch for noon, and white rice with dishes for dinner.
 
-In those days, if you didn't eat rice for dinner, grandma would say "you haven't really eaten"—even if you'd consumed noodles. Rice wasn't just food; it defined what constituted a "proper meal."
+In those days, if you didn't eat rice for dinner, Grandma would say, "If you haven't eaten, you haven't eaten"—even if you had already eaten noodles. Rice was not just food; it was the definition of a "proper meal."
 
-## Nine-Descent Wind Craftsmanship: Hsinchu Rice Noodles
+## Craftsmanship Under the Nine-Blowing Wind: Hsinchu Rice Flour
 
-During the ninth lunar month, Hsinchu begins experiencing "nine-descent winds"—dry, cold northeastern monsoons reaching 70km/h. These winds devastated crops but birthed a unique craft: rice noodle production.
+In the ninth lunar month, Hsinchu begins to blow the "Nine-Blowing Wind"—a dry, cold northeast monsoon wind that can reach 70 km/h. This wind destroys crops but enables a unique craft: rice flour production.
 
-Hsinchu rice noodles' secret lies in "70% wind-drying, 30% sun-drying." Ground rice slurry is pressed into hair-thin strands, spread on bamboo mats, and naturally dried by the nine-descent winds' dehydrating power. This process takes 2-3 days, requiring masters to judge wind direction and humidity by experience, deciding when to collect or flip the noodles.
+The secret of Hsinchu rice flour is "seven parts drying by wind, three parts sun-drying." The ground rice slurry is pressed into threads as fine as hair and spread on bamboo screens to dry naturally using the power of the Nine-Blowing Wind. This process takes 2–3 days, and the master must judge the wind direction and humidity based on experience to decide when to collect the flour and when to flip it.
 
-> **💡 Did You Know?**
-> Hsinchu rice noodles come in two types: "water noodles" (thick and short, often in soup) and "steamed noodles" (thin and long, can be stir-fried or boiled). Steamed noodles are cooked first, then dried, with a shelf life of up to one year—they were important military rations in early Taiwan.
+> **💡 Did You Know**
+> Hsinchu rice flour comes in two types: "Water Flour" (short and coarse, often used for soup) and "Cooked Flour" (long and fine, suitable for stir-frying or boiling). Cooked Flour is steamed first before air-drying and can last up to a year; it was an important military ration in the past.
 
-A bowl of stir-fried rice noodles—golden translucent strands mixed with chives, bean sprouts, and dried shrimp—serves as both street food and banquet staple. However, Hsinchu's rice noodle industry is shrinking: from over 50 factories in the 1980s to merely 10+ today. Young people are unwilling to inherit this weather-dependent craft, while mass-produced noodles capture market share.
+A bowl of stir-fried rice flour, with golden, semi-transparent threads paired with chives, bean sprouts, and dried shrimp, is both a street snack and a must-have for banquets. However, the Hsinchu rice flour industry is shrinking: there were over 50 rice flour factories in Hsinchu in the 1980s, but now only about 10 remain. Young people are unwilling to take on this craft that relies on nature, as machine-produced rice flour has captured the market.
 
-## Zongzi: Cultural DNA in Triangular Form
+## Zongzi: The Cultural Code in a Triangle
 
-Every pre-Dragon Boat Festival period, Taiwan erupts in the "North vs. South Zongzi War." This isn't merely a taste dispute—it conceals different cultural genes.
+Every year before the Dragon Boat Festival, Taiwan experiences a "North vs. South Zongzi Battle." This is not just a battle of flavors; it hides different cultural genes behind it.
 
-**Northern Zongzi: The Oil Rice School**
-Northern zongzi pre-cooks glutinous rice and fillings to semi-done, wraps into triangular cones, then steams for 30 minutes. The result tastes like oil rice with distinct grain texture, featuring pork belly, egg yolk, mushrooms, and dried shrimp. Bamboo leaves are smoked, imparting subtle smoky fragrance.
+**Northern Zongzi: The Oil Rice Faction ("Cooked North, Steamed South")**
+Northern _zongzi_ first stir-fry the glutinous rice and filling until semi-cooked, then wrap them into cones and steam for 30 minutes. It tastes like oil rice, with distinct grains, and fillings include pork belly, egg yolk, shiitake mushrooms, and dried shrimp. The bamboo casing is smoked, giving it a faint smoky aroma.
 
-**Southern Zongzi: The Pure Purist School**
-Southern zongzi wraps raw glutinous rice with braised fillings, then boils entire dumplings for 2-3 hours. The rice absorbs filling essences during cooking, creating soft, sticky textures. Mengzong bamboo leaves provide intense fragrance, while peanuts are southern zongzi's soul—cooked until creamily dissolving upon contact.
+**Southern Zongzi: The Pure Faction (Boiling Raw Rice)**
+Southern _zongzi_ wraps raw glutinous rice with braised filling and cooks the whole thing in boiling water for 2–3 hours. During cooking, the glutinous rice absorbs the essence of the filling, resulting in a soft and sticky texture. Mung bean leaves provide a strong aroma, and peanuts are the soul of Southern _zongzi_, cooked until they melt in your mouth.
 
-| Northern Zongzi                          | Southern Zongzi                             |
-| ---------------------------------------- | ------------------------------------------- |
-| Pre-fried then steamed, oil rice texture | Raw rice boiled, soft and sticky            |
-| Bamboo husks (smoky)                     | Mengzong bamboo leaves (fresh)              |
-| Served with sweet chili sauce            | Served with soy sauce paste + peanut powder |
+| Northern Zongzi                               | Southern Zongzi                       |
+| :-------------------------------------------- | :------------------------------------ |
+| Stir-fried then steamed, tastes like oil rice | Raw rice boiled, soft and sticky      |
+| Bamboo casing (smoky aroma)                   | Mung bean leaves (clean fragrance)    |
+| Paired with sweet and spicy sauce             | Paired with soy paste + peanut powder |
 
-But the most Taiwanese might be grandma's home-style zongzi—no standardized recipe, purely accumulated intuition from years of experience. The night before wrapping zongzi, families gather in living rooms, washing leaves and stir-frying fillings while chatting and wrapping—this family time itself embodies culture.
+But perhaps the most authentically Taiwanese is Grandma's _Shu Cai_ zongzi—which has no standard recipe, relying entirely on years of intuition. The night before wrapping _zongzi_, the whole family gathers in the living room to wash leaves and stir-fry fillings; they chat while wrapping, and this family time itself is culture.
 
-## Mochi and Gao: Sweet Festival Memories
+## Mochi and Cakes: Sweet Memories of Festivals
 
-Traditional mochi-making was a performance of strength and beauty: steamed glutinous rice placed in stone mortars, with strong men taking turns pounding with pestles while another person flipped and moistened. The pounding rhythm determined mochi texture—excessive pounding created excessive chewiness, while insufficient pounding lacked proper Q-texture.
+Traditional mochi making is a performance of strength and beauty: steamed glutinous rice is put into a stone mortar, and strong men take turns pounding it with pestles, while another person flips it and douses it in water. The rhythm of the pounding determines the texture of the mochi—too much pounding makes it too tough; not enough makes it insufficiently Q-elastic.
 
-Hakka "ciba," indigenous "millet mochi," and Taiwanese-style "peanut mochi" each carry different ethnic taste memories. Ghost Festival offerings, celebration festivities, New Year gatherings—mochi never missed these occasions.
+The "Ciba" from Hakka communities, "Millet Mochi" from indigenous peoples, and Taiwanese "Peanut Mochi," each carry the taste memories of different ethnic groups. Mochi is always indispensable during Ghost Festival offerings, celebrations for happy events, and New Year reunions.
 
-Gao varieties represent the pinnacle of Taiwanese rice food artistry:
+Cakes (_Guao_) are the ultimate expression of Taiwanese rice food art:
 
-1. **Red Turtle Gao** — Red symbolizes auspiciousness, turtle shape represents longevity, filled with sweet mung bean paste
-2. **Grass Gao** — Colored with mugwort, jade-green, spring exclusive
-3. **Bowl Gao** — Steamed rice batter with minced pork sauce, Tainan snack representative
-4. **Radish Cake** — Perfect combination of white radish strips and rice batter, New Year essential
+1. **Honggui Guo (Red Turtle Cake)** — Red symbolizes good fortune, the turtle shape represents longevity, and it is filled with sweet mung bean paste.
+2. **Caozai Guo (Herb Cake)** — Colored with mugwort, it is emerald green like jade, limited to spring.
+3. **Wanguo (Rice Pudding)** — Steamed rice slurry paired with meat sauce; a representative snack of Tainan.
+4. **Luobogao (Radish Cake)** — A perfect combination of shredded white radish and rice slurry, essential for the New Year.
 
-Each gao variety has specific seasons and purposes, forming a complete cultural symbol system.
+Each _guo_ has specific seasons and uses, forming a complete system of cultural symbols.
 
-## Modern Crisis of Rice Food Decline
+## The Modern Crisis of Rice Food Decline
 
 > **⚠️ Controversial Viewpoint**
-> Is declining rice consumption "dietary diversification" progress or "cultural loss" warning? Different generations hold divergent views.
+> Is the decline in rice food consumption progress through "dietary diversification," or a warning sign of "cultural loss"? Different generations hold divergent views.
 
-Data doesn't lie: Taiwanese are collectively bidding farewell to rice.
+The data does not lie: Taiwanese people are collectively saying goodbye to rice.
 
-**Dining-out culture's impact** proved most lethal. After the 1990s, fast food and chain restaurants massively entered Taiwan. McDonald's burgers and KFC chicken proved more attractive than traditional bento boxes. Young people would rather queue for bubble tea than cook rice at home.
+The impact of **eating out culture** is the most fatal. After the 1990s, fast food and chain restaurants flooded Taiwan. McDonald's burgers and KFC fried chicken were more appealing than traditional packed lunches. Young people would rather queue for bubble tea than cook at home.
 
-**Food delivery platforms delivered the killing blow.** Agricultural and Food Agency Deputy Director Yao Zhiwang admitted: "Rice-based bento boxes harden during delivery, unlike pasta or burgers that transport conveniently—this directly affected consumption habits."
+**Delivery platforms are a deadly blow.** Yao Zhi-wang, an under-director of the National Agriculture, Food, and Forestry Administration (NAFF), frankly stated: "Rice-based packed lunches tend to become hard during delivery; they are not as convenient to transport as Italian pasta or hamburgers, which directly affects consumption habits."
 
-**Wheat-based food's rise** also has historical context. During the U.S. aid period (1951-1965), America imported massive amounts of wheat flour. The government even promoted "noodle movements" encouraging bread consumption, breaking the "rice-only grain" concept. This policy succeeded beyond expectations—by 2024, flour intake lagged rice consumption by merely 6kg.
+The **rise of wheat products** also has a historical context. During the US military aid period (1951–1965), the United States imported large amounts of wheat flour, and the government even promoted a "wheat food movement" to encourage people to eat bread, breaking the notion that "rice is the only grain." This policy was more successful than expected—by 2024, wheat intake was only 6 kg less than rice.
 
-The deeper cause is **accelerated life pace**. Modern people lack time to wash rice and wait for rice cookers—instant noodles take 3 minutes, microwave bento 2 minutes became daily routine. Cooking good rice requires patience, modern society's scarcest resource.
+A deeper reason is the **accelerated pace of life**. Modern people do not have time to wash rice or wait for a rice cooker to beep; instant noodles in 3 minutes and microwave meals in 2 minutes have become routine. Cooking a pot of good rice requires patience, which is the scarcest resource in modern society.
 
 > **📊 Data Sources**
-> Statistics from Ministry of Agriculture's "2024 Food Supply and Demand Annual Report" and Agricultural and Food Agency official statistics.
+> The statistics in this section are from the Ministry of Agriculture's _2024 Food Supply and Demand Annual Report_ and official NAFF statistics.
 
 ## New Attempts at Rice Food Renaissance
 
-Facing crisis, Taiwan's rice food industry hasn't surrendered.
+Faced with the crisis, Taiwan's rice food industry has not given up.
 
-**Rice flour revolution** is emerging: grinding rice grains into fine powder enables bread, cake, and cookie production, even replacing wheat flour for ban-tiao and rice noodles. This "gluten-free baking" caters to modern health demands, helping rice food find new survival spaces.
+The **rice flour revolution** is emerging: grinding whole grains into fine powder to make bread, cakes, cookies, or even replacing wheat in noodles (_mitaimu_) or _miteme_. This "gluten-free baking" meets modern health demands, giving rice food a new space to survive.
 
-**Brand management** also offers breakthrough strategies. Chishang bento, Taitung Guanshan rice, and Hualien Fuli rice establish high-quality images through direct sales and organic certification. A pack of Chishang rice sells for 3-5 times regular rice prices—consumers buy not just rice, but a "pure land" story.
+**Branding and operation** are also ways to break through. Local brands like Chishang packed lunch, Taitung Guanshan rice, and Hualien Fuli rice have successfully established high-quality images through direct sales from the region and organic certification. A bag of Chishang rice can sell for 3–5 times the price of regular rice; consumers are buying not just rice, but a story of "pure land."
 
-**Ready-to-eat rice food innovation** returns traditional flavors to convenient living: frozen zongzi, instant rice noodles, and microwave rice cakes maintain traditional flavors while meeting modern needs. Convenience store onigiri and stir-fried rice noodle bento reintroduce younger generations to rice foods.
+**Instant rice food innovation** brings traditional flavors back to convenient living: frozen _zongzi_, instant rice flour, and microwaveable rice cakes meet modern needs while maintaining traditional flavors. Triangular rice balls and stir-fried rice packed lunches in convenience stores allow younger generations to re-engage with rice food.
 
-More importantly, **cultural education takes root.** Food and agricultural education enters campuses, letting schoolchildren personally plant rice, wrap zongzi, and make mochi, experiencing complete rice culture contexts. These children might choose rice again when grown up.
+More importantly is the **establishment of cultural education**. Food and agriculture education has entered schools, where children hand-pick rice, wrap _zongzi_, and make mochi, experiencing the complete context of rice food culture. These children, when they grow up, may choose rice again.
 
-## Memory Flavors, Future Choices
+## Flavors in Memory, Choices for the Future
 
-| Supporting Rice Food Renaissance            | Accepting Dietary Westernization         |
-| ------------------------------------------- | ---------------------------------------- |
-| Preserving agricultural cultural traditions | Adapting to international dietary trends |
-| Improving food self-sufficiency rates       | Dietary choice diversification           |
-| Protecting local agriculture                | Following modern life rhythms            |
+| Supporting Rice Food Renaissance             | Accepting Dietary Westernization         |
+| :------------------------------------------- | :--------------------------------------- |
+| Maintaining traditional agricultural culture | Adapting to international dietary trends |
+| Increasing food self-sufficiency             | Diversifying diet choices                |
+| Protecting local agriculture                 | Conforming to modern lifestyles          |
 
-In some Taipei night market, a 70-year-old grandmother still hand-wraps and cooks Hakka ban-tiao; in a traditional Taichung market, masters wake at 4 AM daily to make bowl gao; in Hsinchu rice noodle factories, nine-descent winds still punctually arrive each autumn and winter.
+In a night market in Taipei, a 70-year-old Grandma is still making and cooking Hakka _guan tiao_ (rice cakes) on the spot; in a traditional market in Taichung, masters wake up at 4 AM every day to make _wanguo_; and in the rice flour factory of Hsinchu, the Nine-Blowing Wind reports for duty every autumn and winter as scheduled.
 
-These scenes remind us: rice food culture isn't just history—it tenaciously survives in present progressive tense.
+These scenes remind us: rice food culture is not just history; it is surviving fiercely in the present continuous.
 
-> **✦** "What truly disappears isn't rice itself, but the ritualistic sense built around rice—family time gathered around dining tables."
+> **✦** "What truly disappears is not the rice itself, but the sense of ritual built around the rice—the time a family spends eating around the table."
 
-Taiwanese annual rice consumption dropped from 85kg to 42kg—this figure represents an entire agricultural civilization's transformation. We cannot stop historical tides but can choose what to preserve and inherit.
+The drop in annual rice consumption by Taiwanese people from 85 kg to 42 kg represents a transformation of an entire agricultural civilization. We cannot stop the tide of history, but we can choose what to preserve and what to pass down.
 
-Every zongzi wrapping, every rice noodle soup bowl, every chewy mochi continues this land's taste memory legacy. Taiwan rice food culture's future perhaps lies not in returning to past consumption figures, but in finding new expressions within modern life.
+Every _zongzi_ wrapped, every bowl of rice flour soup, and every Q-elastic mochi is a continuation of the sensory memory of this land. The future of Taiwanese rice food culture may not lie in returning to past consumption figures, but in finding new ways of expression in modern life.
 
-Next time you pass a traditional market and smell steam rising from steamers, that's the fragrance of 5,000 years of rice cultivation civilization. It deserves our pause and mindful tasting.
+The next time you pass by a traditional market and smell the heat rising from the steamer, that is the fragrance of five thousand years of rice civilization. It is worth us stopping our steps and savoring it with care.
+
+## Image Sources
+
+- Hero: Dragon Boat Festival Zongzi, photographed by WeeWZ, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg>), CC BY-SA 4.0.
 
 ## References
 
 - [2022 Food Supply and Demand Annual Report - Ministry of Agriculture](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8850)
-- [Taiwan Rice Industry Current Status - Agricultural and Food Agency](https://www.afa.gov.tw/cht/index.php?code=list&ids=324)
-- [National Rice Consumption Hits New Low, Dining Out Habits Main Cause - Up Media](https://www.newsmarket.com.tw/blog/193228/)
+- [Status of Taiwan's Rice Industry - NAFF](https://www.afa.gov.tw/cht/index.php?code=list&ids=324)
+- [National Rice Consumption Hits New Low, Eating Out Habits Are the Main Reason - Upstream/Downstream News](https://www.newsmarket.com.tw/blog/193228/)
 - [A Rice Renaissance — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=3dc62a1a-3462-4498-b9e6-24b2be98221b)
-- [Northern vs Southern Zongzi Differences - Liberty Times](https://food.ltn.com.tw/article/7405)
-- [Hsinchu Rice Noodles - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89)
+- [What Rice Are You Eating? Understanding Rice Classification and Taiwanese Varieties - Agri Media](https://www.agriharvest.tw/archives/119399/)
+- [How to Distinguish Northern Zongzi from Southern Zongzi? - Liberty Times](https://food.ltn.com.tw/article/7405)
+- [Hsinchu Rice Flour - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89)

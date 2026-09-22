@@ -1,128 +1,133 @@
 ---
-title: 'Taiwanese Ice Cream Culture'
-description: "From Tainan's Tainan Mango Shaved Ice to the Snow Ice Revolution, exploring Taiwan's unique culture of eating ice even in winter"
+title: 'Taiwanese Dessert Culture'
+description: "From Yujing Mango Ice to the Snow Ice Revolution: Exploring Taiwan's Unique Culture of Eating Ice Even in Winter"
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Food'
+tags: ['dessert', 'mango ice', 'snow ice', 'shaved ice', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
-tags: ['冰品', '芒果冰', '雪花冰', '剉冰', 'ICE MONSTER']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+image: '/article-images/food/taipei-mango-shaved-ice.webp'
+imageAlt: 'Taipei mango ice'
+imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:4dac67a4f3297b76'
-sourceBodyHash: 'sha256:aae5f010fab3924f'
-translatedAt: '2026-05-20T05:08:27+08:00'
-image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:81d7772de9e1a0c6'
+sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
+translatedAt: '2026-09-22T04:48:26+08:00'
 ---
 
-# Taiwanese Ice Cream Culture
+# Taiwanese Dessert Culture
 
-Taiwanese passion for ice desserts is arguably one of a kind in the world. Even when winter temperatures drop to just 10°C, ice shops remain packed. Taiwan's ice cream culture traces its roots to the introduction of ice-making technology during the Japanese colonial period, through the postwar popularization of shaved ice (剉冰, cuà bīng), the technological revolution of snow ice in the 1990s, to the international expansion of brands like ICE MONSTER in the 2010s — a history with clearly traceable milestones.
+The passion of the Taiwanese people for desserts is unparalleled globally; even when temperatures drop to just 10 degrees Celsius in winter, dessert shops remain bustling with patrons. Taiwanese dessert culture has an evolutionary history traceable through specific time points: beginning with the introduction of icing technology during the Japanese colonial period, progressing through the popularization of shaved ice after WWII, and culminating in the international expansion of brands like ICE MONSTER in the 1990s and 2010s.
 
-## The Japanese Colonial Period: Origins of Ice Cream Culture
+## The Japanese Colonial Period: Origins of Dessert Culture
 
-The roots of Taiwan's ice cream culture can be traced back to the Japanese colonial era (1895–1945). After Japan introduced ice-making machines and established artificial ice plants, "natural ice" — previously a luxury only the wealthy could enjoy — became an accessible consumer good for ordinary people. The Japanese style of kaki kōri (かき氷, shaved ice) followed — thinly shaved ice drizzled with syrup or topped with sweet bean paste, becoming a basic form of summer refreshment for the Taiwanese public. [^6]
+The roots of Taiwanese dessert culture can be traced back to the Japanese colonial period (1895–1945). After Japan introduced ice-making machinery and established artificial ice factories, "natural ice," which was previously only accessible to the wealthy elite, became a consumable product available to commoners. The Japanese method of eating _kakigōri_ (shaved ice) was subsequently transmitted—thinly shaved ice drizzled with syrup or bean paste, becoming a fundamental form of summer cooling for the Taiwanese populace.[^6]
 
-By the late colonial period, fixed ice dessert vendors had already appeared in cities such as Tainan and Taipei. Popular toppings at the time included red beans, grass jelly, and peanut syrup — combinations that remain virtually unchanged at traditional shaved ice stalls today. The establishment of the ice-making industry not only supplied the dessert trade but also supported the refrigeration needs of Taiwan's fishing industry during the colonial period, forming part of the colony's modernization.
+In cities like Tainan and Taipei during the late colonial period, fixed dessert vendors had already emerged. Popular ingredients at the time included red beans, grass jelly, and peanut syrup; these combinations have been almost unchanged in today's traditional shaved ice stalls. The establishment of the icing industry not only supplied desserts but also supported the cold storage needs of Taiwan's fisheries during the colonial era, as part of colonial modernization.
 
-## Tainan Yujing Mangoes: From Origin to a Global Sweet Legend
+## Yujing Mango: A Sweet Legend from Origin to Global Stage
 
-Yujing in Tainan is known as the "Hometown of Mangoes." Its Irwin mangoes are famous across Taiwan for their sweetness and juiciness. Every year from May to August during mango season, Yujing draws large numbers of "mango pilgrims" who come solely to taste the freshest mango shaved ice.
+Yujing in Tainan is renowned as the "hometown of mangoes," and its Aiwen mangoes are famous island-wide for their sweetness and juiciness. During the mango season from May to August every year, large numbers of "mango pilgrims" flock to Yujing just to taste the freshest mango ice.
 
-The hallmark of Yujing mango shaved ice is its "genuine ingredients." Whole Irwin mangoes are peeled and cut into chunks, drizzled with fresh mango juice, and served over traditional shaved ice — simple yet sublime. This pure deliciousness has made Yujing mango shaved ice Taiwan's quintessential summer dessert.
+The specialty of Yujing mango ice lies in its "genuine ingredients." Whole Aiwen mangoes are peeled and cut into chunks, drizzled with fresh mango juice, and served with traditional shaved ice—simple yet exquisite. This pure deliciousness has made Yujing mango ice a representative dessert of Taiwan's summer.
 
-From Yujing, mango shaved ice gradually spread across the entire island. Each region developed its own signature version: some add pudding or jelly for extra texture, others use different mango varieties to create layers of flavor, and still others incorporate local specialties to forge unique tastes.
+Starting from Yujing, mango ice gradually spread throughout the island. Each region developed its own characteristic version: some added pudding or jelly for texture; others used different mango varieties to create layers; and still others combined local specialties to form unique flavors.
 
-The emergence of ICE MONSTER propelled Taiwanese mango shaved ice onto the international stage. Its predecessor was "Yongkang 15 Ice Hall" (永康 15 冰館), which opened on Yongkang Street in 1995. In 2010, it was rebranded as ICE MONSTER and relocated on Zhongxiao East Road. [^1] Its refined mango snow ice paired with innovative visual presentation made the brand a sensation from Taiwan to Hong Kong, Singapore, and Los Angeles, introducing the charm of Taiwanese mango shaved ice to international visitors.
+The emergence of ICE MONSTER further propelled Taiwanese mango ice onto the international stage. Its predecessor was "Yongkang 15 Ice House," which opened in Yongkang Street in 1995, before being renamed ICE MONSTER and relocating to Zhongxiao East Road in 2010.[^1] The refined mango snow ice, paired with innovative visual presentation, made the brand famous not only in Taiwan but also in Hong Kong, Singapore, and Los Angeles, introducing the charm of Taiwanese mango ice to more foreign visitors.
 
 ## The Snow Ice Revolution: A Major Breakthrough in Texture
 
-In the late 1990s to early 2000s, Taiwan's ice dessert scene underwent a "snow ice revolution." Traditional shaved ice is made from pure ice blocks, yielding a coarser texture that melts easily. Snow ice, by contrast, is made by freezing a mixture of milk, sugar, and other flavorings into an ice block, then shaving it with a special machine into fine, delicate ice flakes with a texture as smooth and airy as snow.
+From the late 1990s to the early 2000s, the Taiwanese dessert scene witnessed the "Snow Ice Revolution." Traditional shaved ice was made from pure ice cubes, resulting in a relatively coarse texture that melted easily. Snow ice, on the other hand, involves freezing seasonings like milk and sugar into ice bricks, which are then finely grated using special machinery to create a snow-like, creamy texture.
 
-This technological innovation transformed the landscape of Taiwanese ice desserts. Snow ice not only offers a superior texture but also lends itself more easily to coloring and flavoring, creating a wide range of visual effects. Matcha snow ice, chocolate snow ice, strawberry snow ice — each has its own distinctive flavor and color.
+This technological innovation changed the landscape of Taiwanese desserts. Not only was the texture better, but it was also easier to color and flavor, allowing for various visual effects. Matcha snow ice, chocolate snow ice, and strawberry snow ice—each possesses its own unique flavor and color.
 
-The success of snow ice also drove an industry-wide upgrade. Ice shops evolved from traditional roadside stalls into refined dessert parlors. Interiors became more polished, service more professional, and product lines more diverse, elevating ice desserts from a humble summer snack to a fashionable treat.
+The success of snow ice also drove the overall industry upgrade. Dessert shops gradually evolved from traditional roadside stalls into sophisticated dessert parlors. The decor became more meticulous, service more professional, and products more diverse; desserts elevated from simple summer snacks to fashionable treats.
 
-This Taiwanese innovation did indeed spread overseas, with snow ice machines and techniques being introduced to Japan, Southeast Asia, and other regions. [^2] It should be noted, however, that Korea's native bingsu (빙수) and patbingsu (팥빙수) have an independent, long-standing tradition traceable to the Joseon Dynasty; the 2013 rise of the Korean brand "Sulbing (설빙)" was a domestically driven development, not an export from Taiwan.
+This Taiwanese innovation has indeed spread overseas; snow ice machines and technology have been introduced to regions like Japan and Southeast Asia.[^2] It should be noted that Korea's indigenous _bingsu_ (빙수) and _patbingsu_ (팥빙수) have independent, long-standing traditions dating back to the Joseon Dynasty; the rise of the Korean brand "Seolbing" (설빙) in 2013 is a local development, not an export from Taiwan.
 
-## Traditional Shaved Ice: Memories of Everyday Life
+## The Commoner Memories of Traditional Shaved Ice
 
-Despite the current popularity of snow ice, traditional shaved ice still holds an important place in the hearts of Taiwanese people. Its rugged ice texture and diverse topping options are a frozen-in-time snapshot of many people's childhood summers.
+Although snow ice was gaining popularity, traditional shaved ice still holds an important place in the hearts of Taiwanese people. That rough texture of the ice and the variety of toppings are fixed images from many people's childhood summers.
 
-Traditional shaved ice stalls typically offer a dozen or more topping choices: red beans, mung beans, barley, grass jelly, aiyu jelly, tapioca balls, taro balls, and more. Customers can mix and create their own unique combinations. This concept of "customization" predates modern personalized service by several decades.
+Traditional shaved ice stalls usually offer over a dozen topping choices: red beans, mung beans, job's tears, grass jelly, ayran, sweet bean balls, taro balls, etc. Customers can mix and match freely to create their own unique flavors. This concept of "customization" appeared decades before modern personalized services.
 
-Shaved ice stalls in night markets are an even more iconic symbol of Taiwanese culture. On sweltering summer nights, a bowl of cool shaved ice can instantly wash away the fatigue of the day. The vendor's practiced motions — shaving ice, adding toppings, drizzling syrup — are like a captivating performance.
+Shaved ice stalls in night markets are also an important symbol of Taiwanese culture. On a hot summer night, a bowl of refreshing shaved ice can instantly relieve the fatigue of the day. The vendor's skillful actions—shaving the ice, adding toppings, and drizzling syrup—are like a wonderful performance.
 
-In recent years, some long-established shaved ice shops have embraced a retro trend, emphasizing traditional craftsmanship and nostalgic sentiment. This "vintage shaved ice" not only attracts nostalgic older customers but also lets younger generations experience the charm of traditional ice desserts.
+In recent years, some traditional shaved ice shops have embraced a retro trend, emphasizing traditional craftsmanship and nostalgia. This "retro shaved ice" not only attracts nostalgic old customers but also allows younger generations to experience the charm of traditional desserts.
 
-## Eating Ice in Winter: A Cultural Phenomenon
+## The Cultural Phenomenon of Eating Ice in Winter
 
-The Taiwanese habit of eating ice in winter often baffles foreigners. Even when temperatures hover in the low teens, ice shops remain bustling. This phenomenon has its cultural and psychological underpinnings.
+The habit of Taiwanese people eating ice in winter often confuses foreigners. Even when temperatures are only around 10 degrees Celsius, dessert shops remain prosperous. There are cultural and psychological factors behind this phenomenon.
 
-First is the prevalence of "indoor heating." Taiwanese shopping malls, restaurants, and offices are typically heated, keeping indoor temperatures comfortable. Enjoying ice desserts in a warm indoor setting does not feel cold at all.
+First is the widespread use of "indoor heating." Malls, restaurants, and offices in Taiwan usually have heating, making the indoor temperature comfortable. Enjoying desserts indoors does not feel cold.
 
-Second is the need for "emotional regulation." The sweet, refreshing taste of ice desserts brings a sense of pleasure, especially in the high-pressure modern lifestyle. Regardless of the season, people need these small moments of joy.
+Second is the need for "emotional regulation." The sweet taste of desserts brings a sense of pleasure, especially in modern life under stress. Regardless of the season, people need this small moment of happiness.
 
-"Social needs" are also central. Eating ice with friends has become a social activity for Taiwanese people. Regardless of the weather, this social ritual continues.
+"Social needs" are also a core element. Eating ice with friends has become one of Taiwan's social activities. This social pattern continues regardless of the weather.
 
-Additionally, Taiwan's winter climate is relatively mild compared to northern regions. In such conditions, eating ice in winter is not an extreme act.
+Furthermore, Taiwan's winter climate is relatively mild, unlike in northern regions which can be very cold. Under these climatic conditions, eating ice in winter is not an extreme act.
 
-## Iconic Ice Shops: From Old Establishments to New Brands
+## Signature Dessert Shops: From Old Establishments to New Brands
 
-Every generation in Taiwan has its iconic ice shops. Tainan's **Ming Ji Ice Cream Parlor** (明記冰果室) and the老牌 shaved ice stalls around local markets are daily fixtures for locals, many now in their third generation of family operation. Taichung's **Xing Fating Sweet Bean Ice Main Store** (幸發亭蜜豆冰本舖) is famous for its sweet bean ice and draws long queues even in winter. Taipei's **Never Ice Cream (蜷尾家)** represents the new wave of artisanal ice cream, known for limited-edition flavors featuring local ingredients and a deliberately understated brand approach, earning international media attention in the 2010s.
+Taiwan has iconic dessert shops across different generations. **Mingji Ice Fruit Parlor** (明記冰果室) in Tainan and the traditional shaved ice stalls around local markets are part of daily life for locals, many having been passed down through three generations; **Xingfa Ting Honey Bean Ice Shop** (幸發亭蜜豆冰本舖) in Taichung is famous for its honey bean ice and still has long queues in winter. In Taipei, **Never Ice Cream** (蜷尾家) represents the new generation of boutique ice cream lines, gaining international media attention after the 2010s due to its limited local ingredient flavors and deliberately low-key brand operation.
 
-In eastern Taiwan, **Hualien Zhenyu Taro Ice City** (花蓮振宇芋冰城) is a must-visit landmark for every tourist, famous for its real taro popsicles and taro paste series. Tainan's **Li Qiao Ice (立橋冰)**, an old shop in the East District, is considered a "pilgrimage site" among southern Taiwan ice dessert lovers, with mung bean ice and noodle tea ice as its signature treasures. What these old establishments have in common: no franchises, no marketing budgets — they stand firm on word-of-mouth reputation passed down through generations. [^3]
+**Hualien Zhenyu Taro Ice City** (花蓮振宇芋冰城) in the east is a must-visit landmark for every tourist, famous for its real taro ice cream bars and taro paste series; **Lihai Bing** (立橋冰) (an old shop in East District) is a "pilgrimage site" in the hearts of southern dessert lovers, with mung bean ice and noodle tea ice being signature items. A common characteristic of these old establishments is that they have no chains and no marketing budgets; they rely on generational reputation to stand firm.[^3]
 
-## Diverse Development of Regional Specialty Ice Desserts
+## Diversified Development of Local Specialties
 
-Every region of Taiwan has developed its own unique ice cream culture. Yilan's garlic ice cream, Taichung's Feng Ren Ice, Tainan's peng bing ice cream, Hualien's taro ice cream — each locality has its own creative specialty.
+Every part of Taiwan has developed a unique dessert culture. Garlic ice cream in Yilan, Fengren ice in Taichung, Pangbing ice cream in Tainan, and Hualien sweet potato ice cream in Hualien—each place has its own creative specialty.
 
-These regional ice desserts often incorporate local ingredients and cultural elements. Kinmen's kaoliang ice cream, for example, integrates the local kaoliang liquor culture into a frozen treat. Matsu's lao jiu (aged wine) popsicle follows a similar concept.
+These local specialties often combine local ingredients and cultural elements. For example, Gaoliang ice cream from Kinmen incorporates the local sorghum liquor culture into desserts. Mazu's aged liquor popsicles are similar concepts.
 
-Indigenous tribal ice cream culture is also distinctive. Ice desserts made with traditional indigenous ingredients such as millet, red quinoa, and bird's nest fern offer unique flavors while preserving indigenous food culture.
+The dessert culture of indigenous tribes is also unique. Desserts made using traditional indigenous ingredients such as millet, red quinoa, and elephant grass not only have distinctive flavors but also carry forward the dietary culture of the indigenous peoples.
 
-This decentralized development gives Taiwan's ice cream map a distinctly regional character and adds to its appeal for culinary tourism.
+This self-directed development gives the Taiwanese dessert map a distinct regional color and increases its appeal for tourism.
 
-## Health Consciousness and Innovation Trends
+## Health Consciousness and Innovative Trends
 
-As health awareness rises, Taiwanese ice desserts are moving in a healthier direction. Low-sugar, sugar-free, and naturally sweetened ice desserts are gaining attention.
+As health consciousness rises, Taiwanese desserts are also moving toward healthier directions. Low-sugar desserts, sugar-free desserts, and those using natural sweeteners have begun to attract attention.
 
-Fruit-based ice desserts are especially popular. The natural sweetness and rich nutrition of fresh fruit align with modern health demands. Passion fruit ice, kiwi ice, avocado ice — all have become hot choices.
+Fruit-based desserts are particularly popular. The natural sweetness and rich nutrition of fresh fruits meet the needs of modern people. Passion fruit ice, kiwi ice, and avocado ice have all become popular choices.
 
-The use of organic ingredients is another trend. Organic milk, organic fruit, and natural colorants make ice desserts both delicious and reassuring.
+The use of organic ingredients is also a trend. Organic milk, organic fruits, and natural colorants make desserts safer while remaining delicious.
 
-The concept of functional ice desserts is also emerging. Ice creams enriched with collagen, vitamins, probiotics, and other nutritional components combine indulgence with wellness.
+The concept of functional desserts has also emerged. Desserts containing nutritional components such as collagen, vitamins, and probiotics combine enjoyment with health.
 
 ## Internationalization and Brand Export
 
-The internationalization of Taiwanese ice cream brands is accelerating. Beyond ICE MONSTER, many other brands are entering overseas markets. These brands export not only products but also Taiwan's ice cream culture.
+Taiwanese dessert brands are accelerating their internationalization efforts. Besides ICE MONSTER, many other brands have begun to enter overseas markets. These brands export not only products but also Taiwanese dessert culture.
 
-Taiwanese ice cream shops abroad often become gathering places for local Chinese communities and windows for foreigners to experience Taiwanese culture. Through culinary diplomacy, Taiwanese ice desserts are planting cultural seeds around the world.
+In overseas Taiwanese dessert shops, they often become gathering places for local Chinese communities and windows through which foreigners experience Taiwanese culture. Through culinary diplomacy, Taiwanese desserts are sowing cultural seeds worldwide.
 
-Technology export is another important direction. Snow ice machines, ice-making techniques, and topping recipes all present licensing opportunities overseas. Taiwan is transitioning from a consumer of ice desserts to an exporter of ice cream technology and culture.
+Technology export is also an important development direction. There are business opportunities in licensing snow ice machines, icing technology, and ingredient formulas abroad. Taiwan is transitioning from a country that consumes desserts to one that exports dessert technology and culture.
 
-The underlying logic of Taiwanese ice cream culture is this: every era has had people transforming the most readily available ingredients of their time into the language of ice — the colonial-era ice machine, the postwar shaved ice cart, the 1990s snow ice machine, the 2010s artisanal dairy. The forms change, but the devotion to eating ice remains constant.
+The underlying logic of Taiwanese dessert culture is this: in every era, someone has transformed the most readily available ingredients into a "dessert language"—the icing machine during the Japanese period, the shaved ice cart after the war, the snow ice machine in the 1990s, and boutique dairy products in the 2010s. The form changes, but the obsession with eating ice remains unchanged.
+
+## Image Source
+
+- Hero: Taipei mango ice, photographed by SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Public domain.
 
 ## References
 
-[^1]: [ICE MONSTER Official Website](https://www.icemonster.com.tw/) — Brand history, including the 1995 founding of Yongkang 15 Ice Hall and the 2010 rebranding and relocation.
+[^1]: [ICE MONSTER Official Website](https://www.icemonster.com.tw/) — Brand history, including the establishment of Yongkang 15 Ice House in 1995 and the renaming and relocation in 2010.
 
-[^2]: [Taiwan Tourism Bureau "Taiwan Cuisine" Official Page](https://www.taiwan.net.tw/) — Introduction to representative Taiwanese ice desserts, including mango shaved ice and snow ice.
+[^2]: [Ministry of Tourism Administration's "Taiwan Cuisine" Official Page](https://www.taiwan.net.tw/) — Introduction to representative Taiwanese desserts, including mango ice and snow ice.
 
-[^3]: [CNN Travel: Taiwanese Mango Shaved Ice Report](https://edition.cnn.com/travel) — CNN's international media coverage of Taiwanese mango shaved ice, citing ICE MONSTER and Yujing mango shaved ice as representative cases.
+[^3]: [CNN Travel: Report on Taiwanese Mango Ice](https://edition.cnn.com/travel) — International media coverage by CNN on Taiwanese mango ice, citing ICE MONSTER and Yujing mango ice as representative cases.
 
-[^4]: [Lonely Planet Taiwan: Food Guide](https://www.lonelyplanet.com/taiwan) — International travel guide's introduction to Taiwanese ice cream culture and recommended shops.
+[^4]: [Lonely Planet Taiwan: Food Guide](https://www.lonelyplanet.com/taiwan) — Introduction to Taiwanese dessert culture and recommended shops from an international travel guide.
 
-[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — ICE MONSTER brand history, predecessor "Yongkang 15 Ice Hall," and international expansion information.
+[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Brand history of ICE MONSTER, its predecessor "Yongkang 15 Ice House," and international exhibition information.
 
-[^6]: [Kaki Kōri — Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Origins of Japanese shaved ice culture and its introduction to Taiwan during the colonial period, along with the evolution of traditional Taiwanese shaved ice toppings.
+[^6]: [Kakigōri — Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — The origin of Japanese shaved ice culture and the historical background of its transmission to Taiwan during the Japanese colonial period, as well as the evolution of Taiwanese traditional shaved ice toppings.
 
 ## Further Reading
 
-- [ICE MONSTER](https://www.icemonster.com.tw/) — Official website of Taipei's representative mango snow ice brand
-- [Yujing Farmers' Association](/food/玉井芒果) — Introduction to the Tainan Yujing Irwin mango producing region
+- [ICE MONSTER](https://www.icemonster.com.tw/) — Official website of Taipei mango snow ice representative brand
+- [Yujing Farmers' Association](/food/玉井芒果) — Introduction to Aiwen mango production area in Yujing, Tainan
