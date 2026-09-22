@@ -70,6 +70,11 @@ python3 scripts/tools/lang-sync/babel-dispatch.py --langs <langs> \
 地端 worker 一律由 fleet 控制面核發；禁止在 skill／routine／重啟腳本寫死
 localhost、Tailscale IP、模型或並行數。`fleetctl control` 的接案開關與天花板是 SSOT。
 
+> ⚠️ 2026-09-23：上面是 `--format babel`（輸出格式），SQUEEZE §入池門檻的模型級別
+> 閘門是 `--profile babel`（無合格模型回 0 個 worker，讓地端停而不是降級）。同一支
+> 指令、不同旗標，產線走的那個不套白名單——48 小時內 87% 譯文出自白名單外的 8.1B
+> 模型。Stage 0 的 `babel-preflight.py` 現在會印這一行；決策在 OBSERVER-QUEUE #78。
+
 Stage D（認知層 diary babel）跟 Stage 3 同屬義務範圍，工具鏈走 [REMOTE-GPU-PIPELINE.md](../../../docs/pipelines/REMOTE-GPU-PIPELINE.md)。
 
 ## 四條 inline 行為約束（cron 無人在場時最會漂，故不外包給 pointer）

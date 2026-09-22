@@ -41,6 +41,12 @@ python3 scripts/tools/lang-sync/babel-dispatch.py --langs <status.py 顯示有�
 地端 worker 只由 fleet 控制面核發；禁止直連 localhost／節點 IP。接案開關、
 並行與使用率天花板以 fleet `control.json` 為準。
 
+> ⚠️ 2026-09-23 量到的落差：上面用的是 `--format babel`（輸出格式），而
+> SQUEEZE §入池門檻的模型級別閘門是 `--profile babel`（無合格模型回 0 個 worker，
+> 讓地端 lane 停而不是降級）。兩者是同一支指令的不同旗標，產線走的那個不套白名單，
+> 於是 48 小時內 87% 的譯文出自白名單外的模型（8.1B）。**先看 Stage 0 的入池門檻那行**；
+> 要不要改指令／補模型／重訂門檻是 OBSERVER-QUEUE #78，本殼不自行切換。
+
 調度器內建三重 gate、HEAD-restore（gate fail 有舊版就還原不刪除，寧可 stale 也不要 missing）、精確路徑 commit。P2/P2.5 的 diff-patch 與 metadata bump 路徑見 pipeline。
 
 Stage D（認知層 diary babel）跟文章同屬義務範圍。
