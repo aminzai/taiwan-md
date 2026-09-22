@@ -12,7 +12,7 @@ frontmatter heal。張數不同的不碰（body 真的 stale，留給重翻）�
 import re, json, sys
 from pathlib import Path
 IMG = re.compile(r'(!\[[^\]]*\]\()(/article-images/[^)\s]+)(\))')
-tr = json.load(open('knowledge/_translations.json'))
+tr = json.load(open('knowledge/_translations.json', encoding='utf-8'))
 apply = '--apply' in sys.argv
 only = [a for a in sys.argv[1:] if not a.startswith('--')]
 n_diff = n_fix = n_count_mismatch = 0; fixed = []
@@ -30,4 +30,4 @@ for tpath, zpath in tr.items():
     n_fix += 1; fixed.append(tpath)
     if apply: tp.write_text(new, encoding='utf-8')
 print(f'differ={n_diff} count-mismatch(skip)={n_count_mismatch} {"fixed" if apply else "would-fix"}={n_fix}')
-Path('/tmp/remap-inline-images.paths').write_text('\n'.join('knowledge/' + p for p in fixed) + ('\n' if fixed else ''))
+Path('/tmp/remap-inline-images.paths').write_text('\n'.join('knowledge/' + p for p in fixed) + ('\n' if fixed else ''), encoding='utf-8')
