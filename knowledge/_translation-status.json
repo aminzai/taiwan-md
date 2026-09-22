@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T15:04:18+08:00",
-    "zhCommitHead": "f618adf73",
+    "lastUpdated": "2026-09-22T15:17:43+08:00",
+    "zhCommitHead": "01536c199",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 48,
+        "fresh": 1055,
+        "stale": 47,
         "metadata_stale": 8,
         "missing": 14,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1024,
-        "stale": 46,
+        "fresh": 1025,
+        "stale": 45,
         "metadata_stale": 9,
         "missing": 45,
         "orphan": 0
@@ -22010,17 +22010,17 @@
         "fr": {
           "path": "fr/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-05-24T05:06:33+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T06:37:07.823280+00:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23690,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "footnoteDefs": 55,
+          "bytes": 154027,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/threads-in-taiwan.md",
@@ -30795,19 +30795,17 @@
         "pt": {
           "path": "pt/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "67e5b3684",
-          "sourceContentHash": "sha256:b56a9c2f52721e09",
-          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
-          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
+          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "translatedAt": "2026-09-22T07:04:59.353656+00:00",
           "translationLastCommit": "40ec0e4f",
           "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "bytes": 64377,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 64935,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -96857,8 +96855,8 @@
           "sourceContentHash": "sha256:1917aa69dfd8ab97",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T06:37:45.226921+00:00",
-          "translationLastCommit": "e75b621d",
-          "translationLastModified": "2026-09-10T00:44:33+08:00",
+          "translationLastCommit": "01536c19",
+          "translationLastModified": "2026-09-22T15:04:18+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "bytes": 58661,
@@ -125767,8 +125765,8 @@
           "sourceContentHash": "sha256:c4ee8c6545170422",
           "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
           "translatedAt": "2026-09-22T05:25:51.867069+00:00",
-          "translationLastCommit": "4f880be2",
-          "translationLastModified": "2026-07-26T21:43:18+08:00",
+          "translationLastCommit": "01536c19",
+          "translationLastModified": "2026-09-22T15:04:18+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 24542,
@@ -203901,8 +203899,8 @@
           "sourceContentHash": "sha256:01a29994f0cdcf17",
           "sourceBodyHash": "sha256:620db6741686fb51",
           "translatedAt": "2026-09-22T10:29:37+08:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "01536c19",
+          "translationLastModified": "2026-09-22T15:04:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 9614,
