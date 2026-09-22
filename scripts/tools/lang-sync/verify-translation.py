@@ -653,6 +653,18 @@ def main():
     else:
         add("no quoted scalar types", "PASS", "readingTime/lastHumanReview/featured/date unquoted")
 
+    # 裝甲殘留（2026-09-23）：三條引擎都用 @@LINKn@@ 把網址擋在 prompt 外，翻完
+    # 再換回來。換不回來的時候（模型把 token 改寫成認不出來的形狀）沒有任何一道
+    # 閘門在看，於是佔位符直接印在讀者眼前——實測全庫三篇帶著它上線最久的已經
+    # 兩週（ko/連江縣 三個、ru/新北市、vi/莫那魯道）。這是「工具持有結構」這條
+    # 原則的收尾：持有就要驗自己有沒有還回去，不能只驗模型有沒有亂改。
+    armor_residue = re.findall(r"@@\s*LINK[^@\s]{0,8}@@", en_content)
+    if armor_residue:
+        add("no armor placeholder residue", "FAIL",
+            f"{len(armor_residue)} 個未還原的佔位符：{', '.join(sorted(set(armor_residue))[:5])}")
+    else:
+        add("no armor placeholder residue", "PASS", "@@LINKn@@ 全部還原成網址")
+
     return check(checks, args.json) and 1 or (
         2 if any(c["level"] == "WARN" for c in checks) else 0
     )

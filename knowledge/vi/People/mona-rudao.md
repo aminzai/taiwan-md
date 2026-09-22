@@ -319,7 +319,7 @@ Bài viết sử dụng 7 hình ảnh có bản quyền công cộng / giấy ph
 
 [^15]: [Wikipedia: Sự kiện Hương Sơn (phần Lao động và đãi xử)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi nhận trong giai đoạn 1928–1930, dân tộc bản địa khu vực Hương Sơn bị đi động viên lao động 9 lần, năm 1928 buộc phải đóng tiền ăn và đóng góp tự nguyện cho dự án đền thánh, với mức lương 20–30 tiền/ngày, thấp hơn 60 tiền/ngày của người Hán.
 
-[^16]: [Wikipedia: Mônà Rūdào (phần kết hôn của Kondō)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi chép cảnh quảnh cảnh cảnh sát Nhật Bản Kondō Gizaburō cưới em gái của Mônà — Dixiasi Rūdào — rồi bỏ rơi cô. Theo luật Gaya, những phụ nữ bị bỏ rơi không thể quay về nhà ngoại, trở thành một phần nguyên nhân dẫn đến sự kiện Mây La. @@LINK16@@
+[^16]: [Wikipedia: Mônà Rūdào (phần kết hôn của Kondō)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi chép cảnh quảnh cảnh cảnh sát Nhật Bản Kondō Gizaburō cưới em gái của Mônà — Dixiasi Rūdào — rồi bỏ rơi cô. Theo luật Gaya, những phụ nữ bị bỏ rơi không thể quay về nhà ngoại, trở thành một phần nguyên nhân dẫn đến sự kiện Mây La.
 
 [^17]: [Taipei Times: Nhận xét sách 'Kondō the Barbarian'](https://www.taipeitimes.com/News/feat/archives/2024/01/18/2003812257) — Nhận xét của nhà báo từ Tân Hoa Thời Báo giới thiệu cuốn sách 'Kondō the Barbarian' của Paul Barclay, phân tích nhân vật Kondō Gizaburō — người đã cưới Dixiasi Rūdào — thực chất là anh em của Kondō Katsuzaburō, một nhân vật trọng chính trong cuộc kháng chiến của dân tộc bản địa.
 
