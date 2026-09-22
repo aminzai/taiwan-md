@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T00:13:37+08:00",
-    "zhCommitHead": "f4afab8d0",
+    "lastUpdated": "2026-09-23T01:05:00+08:00",
+    "zhCommitHead": "621a0989c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 919,
-        "stale": 109,
-        "metadata_stale": 29,
-        "missing": 67,
+        "fresh": 923,
+        "stale": 107,
+        "metadata_stale": 28,
+        "missing": 66,
         "orphan": 0
       },
       "ko": {
@@ -60,34 +60,34 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 37,
-        "metadata_stale": 16,
+        "fresh": 1056,
+        "stale": 36,
+        "metadata_stale": 15,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 975,
+        "fresh": 976,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1040,
+        "fresh": 1044,
         "stale": 34,
         "metadata_stale": 7,
-        "missing": 43,
+        "missing": 39,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 969,
+        "fresh": 970,
         "stale": 54,
         "metadata_stale": 10,
-        "missing": 91,
+        "missing": 90,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1049,
-        "stale": 23,
+        "fresh": 1052,
+        "stale": 20,
         "metadata_stale": 4,
         "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 864,
+        "fresh": 867,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 245,
+        "missing": 242,
         "orphan": 0
       }
     },
@@ -3093,7 +3093,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/loh-tsui-kang-commune.md",
+          "translatedFrom": "Music/濁水溪公社.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:469167869b1ed9c7",
+          "sourceBodyHash": "sha256:ba486d59e98b80d0",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 12491,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9409,19 +9421,17 @@
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "50617dc1",
-          "sourceContentHash": "sha256:25424dad4bf389f3",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:6ebac68ebf527a7d",
           "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "translatedAt": "2026-09-22T17:41:05+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 10900,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -2"
+          "bytes": 11074,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
@@ -13005,19 +13015,17 @@
         "ja": {
           "path": "ja/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-25T19:44:55+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-22T17:41:05+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 19166,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 22029,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-fintech-development.md",
@@ -24041,19 +24049,17 @@
         "ja": {
           "path": "ja/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4a4d66620",
-          "sourceContentHash": "sha256:8a77917ab93abd39",
-          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
-          "translatedAt": "2026-08-04T13:09:26.236345+00:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-22T16:48:30.768309+00:00",
           "translationLastCommit": "86043c51",
           "translationLastModified": "2026-08-04T21:09:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 19633,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 19636,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -61981,19 +61987,17 @@
         "vi": {
           "path": "vi/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:bc15608a0bffd86f",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-07-28T03:02:41+08:00",
+          "translatedAt": "2026-09-22T17:41:06+08:00",
           "translationLastCommit": "72229f10",
           "translationLastModified": "2026-07-28T06:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14659,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 15118,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Society/betel-nut.md",
@@ -62252,7 +62256,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/i-am-from.md",
+          "translatedFrom": "Society/我是OO人.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:7528460cb857fc3b",
+          "sourceBodyHash": "sha256:0b63d09474dfeccb",
+          "translatedAt": "2026-09-22T17:41:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "bytes": 40786,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -82253,7 +82269,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/political-donation-transparency.md",
+          "translatedFrom": "Politics/政治獻金透明度.md",
+          "sourceCommitSha": "837e22b9a",
+          "sourceContentHash": "sha256:8a7814971a9249c7",
+          "sourceBodyHash": "sha256:214c403ec0d7137c",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 31172,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -82961,7 +82989,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/village-chief-system.md",
+          "translatedFrom": "Politics/村里長制度.md",
+          "sourceCommitSha": "837e22b9a",
+          "sourceContentHash": "sha256:cce4699f9fdc3697",
+          "sourceBodyHash": "sha256:48ef53002db1337d",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "bytes": 34804,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -100812,7 +100852,19 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chen-chien-nien.md",
+          "translatedFrom": "People/陳建年.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:ea13c4b2a458e44f",
+          "sourceBodyHash": "sha256:64a1b7182260c207",
+          "translatedAt": "2026-09-22T17:41:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "bytes": 89693,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chen-chien-nien.md",
@@ -140998,8 +141050,8 @@
           "sourceContentHash": "sha256:d06ea631387761c6",
           "sourceBodyHash": "sha256:1e5405f424ed35fc",
           "translatedAt": "2026-09-22T17:40:47+08:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "621a0989",
+          "translationLastModified": "2026-09-23T00:13:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 25265,
@@ -141832,19 +141884,17 @@
         "ru": {
           "path": "ru/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17221,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "bytes": 16816,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -146147,7 +146197,19 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-22T17:41:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 32906,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/dandan-hamburger.md",
@@ -147063,7 +147125,19 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/tainan-danzai-noodles.md",
+          "translatedFrom": "Food/擔仔麵.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e28fcd62480866c3",
+          "sourceBodyHash": "sha256:f1683855e79f11cc",
+          "translatedAt": "2026-09-22T17:41:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 18973,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/tainan-danzai-noodles.md",
@@ -147407,7 +147481,19 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwanese-tofu-pudding.md",
+          "translatedFrom": "Food/豆花.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
+          "sourceBodyHash": "sha256:b309cbb9088a34f0",
+          "translatedAt": "2026-09-22T17:41:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 28006,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwanese-tofu-pudding.md",
@@ -148178,19 +148264,17 @@
         "ru": {
           "path": "ru/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-07-25T07:56:05+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 35879,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "bytes": 38066,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -148382,19 +148466,17 @@
         "ru": {
           "path": "ru/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-07-25T07:56:05+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-22T17:41:10+08:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 27002,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "bytes": 26567,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwanese-noodle-culture.md",
@@ -148527,7 +148609,19 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-tea-eggs.md",
+          "translatedFrom": "Food/茶葉蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83d81cce2c438e4f",
+          "sourceBodyHash": "sha256:dd4ad0be3d863dd2",
+          "translatedAt": "2026-09-22T17:41:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 21366,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-tea-eggs.md",
@@ -170897,7 +170991,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-22T17:41:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 28023,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/taoyuan-ponds.md",
@@ -180299,19 +180405,17 @@
         "vi": {
           "path": "vi/Geography/taiwan-coastal-landforms-and-seascapes.md",
           "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
-          "sourceCommitSha": "e14a15296",
-          "sourceContentHash": "sha256:ca35855b7d3bcc49aadfd748812cd749fbac5805590f9a6b6e0c58305015bdb1",
-          "sourceBodyHash": "sha256:3cf97f710a1b9f0ba8475f70bad7878212797e5c9ddbf68211e2d20ced2294e5",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-09-22T16:45:44.742310+00:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 14201,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "bytes": 14060,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taiwan-coastal-landforms-and-seascapes.md",
