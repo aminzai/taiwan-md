@@ -1,160 +1,165 @@
 ---
-title: 'La culture du riz à Taïwan'
-description: "De 85 kg à 42 kg par an : la révolution alimentaire d'une île de rizières et la résistance de sa culture traditionnelle"
+title: 'Culture du riz à Taïwan'
+description: "De 85 kg par an à 42 kg : la révolution alimentaire et la persistance culturelle d'une nation insulaire du riz"
 date: 2026-03-23
+category: 'Food'
 tags:
   [
-    'cuisine au riz',
+    'riz',
     'riziculture',
     'culture traditionnelle',
-    'alimentation festive',
+    'aliments festifs',
     'agriculture',
     'évolution alimentaire',
   ]
-subcategory: 'Féculents et céréales'
-category: 'Food'
+subcategory: '主食與米麵'
 author: 'Taiwan.md Contributors'
-readingTime: 12
 featured: false
+lastVerified: 2026-03-23
+lastHumanReview: false
+image: '/article-images/food/rice-dumpling-zongzi.webp'
+imageAlt: 'Zongzi du festival du Bateau-Dragon'
+imageCredit: 'WeeWZ / Wikimedia Commons'
+difficulty: 'beginner'
+readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg'
 translatedFrom: 'Food/台灣米食文化.md'
-lastVerified: 2026-03-23
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0e38833f3cafaf68'
-sourceBodyHash: 'sha256:2354ee60853945b0'
-translatedAt: '2026-04-14T12:29:25+08:00'
-image: '/article-images/food/rice-dumpling-zongzi.webp'
-imageCredit: 'WeeWZ / Wikimedia Commons'
-lastHumanReview: false
-difficulty: 'beginner'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:d06ea631387761c6'
+sourceBodyHash: 'sha256:1e5405f424ed35fc'
+translatedAt: '2026-09-22T04:48:28+08:00'
 ---
 
-# La culture du riz à Taïwan
+# Culture du riz à Taïwan
 
-> **En 30 secondes :** La consommation annuelle de riz par habitant à Taïwan est passée de 85 kg en 1985 à 42 kg en 2024 — divisée par deux en moins de quarante ans. Pour la première fois, la viande de poulet a dépassé le riz comme aliment de base. Pourtant, les zongzi du festival des Bateaux-Dragons sont encore préparés en famille, la vermicelle de riz flottant dans le vent de Hsinchu demeure une fierté régionale, et les offrandes de riz aux ancêtres se perpétuent à chaque fête. Voici le portrait d'une île de rizières qui négocie, non sans résistance, son passage à la modernité alimentaire.
+> **Aperçu en 30 secondes :** La consommation annuelle de riz des Taïwanais a chuté de 85 kg en 1985 à 42 kg en 2024, le poulet dépassant pour la première fois le riz comme nouvel aliment de base. Pourtant, la tradition des zongzi pour le festival du Bateau-Dragon et des vermicelles de riz pour le festival des Fantômes perdure, l'artisanat des vermicelles sous le vent « neuf descentes » de Hsinchu devenant une fierté locale. C'est le combat et l'adaptation d'une nation insulaire du riz face à l'occidentalisation de l'alimentation.
 
-L'année 2022 a marqué un tournant historique : la consommation annuelle de viande par habitant à Taïwan a atteint 87,5 kg, dépassant pour la première fois celle des céréales (87,4 kg). Autrement dit, le poulet a officiellement remplacé le riz sur la table des Taïwanais. En 1985, chaque habitant de l'île consommait encore 85 kg de riz par an ; en 2024, ce chiffre n'est plus que de 42,1 kg — exactement la moitié.
+2022 marque un tournant historique : la consommation annuelle moyenne de viande par les Taïwanais atteint 87,5 kg, dépassant pour la première fois les céréales à 87,4 kg. Cela signifie que le poulet a officiellement remplacé le riz comme nouvel aliment de base sur les tables taïwanaises. En 1985, chaque Taïwanais consommait 85 kg de riz par an, contre seulement 42,1 kg en 2024 — une division par deux.
 
-Pourtant, dans les rizières de Sanxing, dans le comté de Yilan, des agriculteurs continuent de cultiver du riz de qualité supérieure. Dans les ateliers de vermicelle de Hsinchu, le vent d'automne — le jiujiangfeng — sèche toujours ces fils aussi fins que des cheveux. Et dans chaque foyer taïwanais, l'art de rouler les zongzi se transmet encore de génération en génération, des mains des grand-mères à celles des petits-enfants.
+Mais dans les rizières de Sansing à Yilan, les agriculteurs cultivent encore du riz de qualité. Dans les usines à vermicelles de Hsinchu, le vent « neuf descentes » continue de sécher des fils de vermicelles fins comme des cheveux. Dans chaque foyer taïwanais, l'art de confectionner les zongzi pour le festival du Bateau-Dragon se transmet encore entre grands-parents et petits-enfants.
 
-> **📝 Note de la rédaction**
-> Ce n'est pas simplement un changement de régime alimentaire : c'est la transformation d'une civilisation agraire tout entière. Alors que McDonald's et les salons de thé à bulles conquièrent l'estomac des jeunes générations, comment la culture du riz peut-elle trouver une nouvelle place dans la société contemporaine ?
+> **📝 Note du curateur**
+> Ce n'est pas seulement un changement d'habitudes alimentaires, c'est la transformation d'une civilisation agricole tout entière. Alors que McDonald's et les boissons à emporter conquièrent l'estomac des jeunes, comment la culture traditionnelle du riz trouve-t-elle sa place dans la société moderne ?
 
-## L'âge d'or de l'île aux rizières
+## L'âge d'or de la nation insulaire du riz
 
-L'histoire rizicole de Taïwan remonte à plus de cinq mille ans, mais c'est sous la période japonaise que naît véritablement le « royaume du riz ». En 1926, des agronomes sélectionnent et cultivent la variété Penglai — en japonais _ponlai-mai_ — spécialement adaptée au climat de l'île. Ce fut un grain qui allait réécrire le destin de Taïwan.
+L'histoire de la riziculture à Taïwan remonte à 5000 ans, mais le véritable « royaume du riz » commence à l'époque japonaise. En 1926, des experts agricoles développent le « riz Penglai » — un grain qui réécrit le destin de l'île.
 
-Plus court et plus collant que le riz Indica traditionnel cultivé localement, le Penglai est nacré et ferme après cuisson, avec une texture équilibrée entre souplesse et tenue. Surtout, son rendement est supérieur de 30 % à celui des variétés précédentes, permettant à l'île de passer de la pénurie à l'autosuffisance alimentaire.
+Le riz Penglai a des grains plus courts et plus collants que le riz indigène traditionnel ; cuit, il est cristallin, translucide, d'une texture ni trop molle ni trop ferme. Surtout, son rendement à Taïwan dépasse de 30 % celui du riz indigène, faisant passer l'île de l'insuffisance alimentaire à l'autosuffisance.
 
-| Évolution de la consommation (1985 → 2024)  | Consommation de viande en 2022 |
-| ------------------------------------------- | ------------------------------ |
-| 85 kg → 42 kg de riz par habitant et par an | 87,5 kg par habitant           |
+| 85 kg → 42 kg                                            | 87,5 kg                                         |
+| -------------------------------------------------------- | ----------------------------------------------- |
+| Évolution de la consommation annuelle de riz (1985→2024) | Consommation annuelle moyenne de viande en 2022 |
 
-Dans le Taïwan de l'après-guerre, le riz est roi. Durant les années 1960-70, le « riz de Taïwan » s'exporte même jusqu'au Japon, avec des volumes annuels dépassant le million de tonnes. À cette époque, les trois repas quotidiens des Taïwanais tournaient autour du riz : congé de riz accompagné de légumes marinés au petit-déjeuner, boîte bento au déjeuner, riz blanc avec plusieurs plats au dîner.
+Dans l'après-guerre, le riz est le protagoniste absolu. Dans les années 1960-70, le « riz de Taïwan » s'exporte même vers le Japon, avec plus d'un million de tonnes par an. Les Taïwanais de l'époque ne conçoivent pas un jour sans riz : congee et légumes marinés au petit-déjeuner, boîte-repas à midi, riz blanc et plats le soir.
 
-À cette époque, ne pas manger de riz le soir revenait à ne pas avoir mangé du tout selon la grand-mère. Même si vous aviez avalé un bol de nouilles, ce n'était pas un « vrai repas ». Le riz n'était pas seulement une nourriture : il était la définition même de se nourrir.
+À cette époque, si le dîner ne comprenait pas de riz, la grand-mère disait « pas de riz, pas de repas » — même si vous aviez déjà mangé des nouilles. Le riz n'était pas qu'un aliment, il définissait le « repas principal » lui-même.
 
-## Le savoir-faire sous le vent des neuf passages : le vermicelle de Hsinchu
+## L'artisanat sous le vent « neuf descentes » : les vermicelles de Hsinchu
 
-Au neuvième mois lunaire, Hsinchu voit arriver le _jiujiangfeng_ — le « vent des neuf passages » — un vent de nord-est sec et froid qui peut souffler jusqu'à 70 km/h. Ce vent dévaste les cultures, mais il a engendré un art unique : la fabrication du vermicelle de riz.
+Au neuvième mois lunaire, Hsinchu voit souffler le « vent neuf descentes » — un vent du nord-est sec et froid pouvant atteindre 70 km/h. Ce vent tue les cultures, mais accomplit un artisanat unique : la fabrication des vermicelles de riz.
 
-Le secret du vermicelle de Hsinchu tient en une formule : « sept dixièmes de séchage au vent, trois dixièmes de séchage au soleil ». La pâte de riz moulu est extrudée en fils aussi fins que des cheveux, déposée sur des claies de bambou, puis laissée à sécher naturellement sous la force desséchante du jiujiangfeng. Le processus dure deux à trois jours, et le maître artisan doit évaluer au jugé la direction du vent et le taux d'humidité pour décider quand rentrer les fils et quand les retourner.
+Le secret des vermicelles de Hsinchu réside dans « sept parts de séchage au vent, trois parts de séchage au soleil ». La pâte de riz moulue est pressée en fils fins comme des cheveux, étendue sur des nattes de bambou, et séchée naturellement par la force du vent « neuf descentes ». Le processus dure 2 à 3 jours ; le maître doit, par expérience, juger la direction du vent et l'humidité, décider quand rentrer les vermicelles, quand les retourner.
 
 > **💡 Le saviez-vous ?**
-> Il existe deux types de vermicelle de Hsinchu : le _shuifen_ (épais et court, utilisé en soupe) et le _chuifen_ (fin et long, qui se poêle ou se cuit dans le bouillon). Le chuifen est d'abord cuit à la vapeur puis séché au vent ; sa conservation peut atteindre un an. À l'époque, il constituait une ration militaire importante à Taïwan.
+> Il existe deux types de vermicelles de Hsinchu : les « vermicelles d'eau » (courts et épais, souvent pour les soupes) et les « vermicelles cuits à la vapeur » (fins et longs, pour sautés ou soupes). Ces derniers sont d'abord cuits à la vapeur puis séchés au vent, se conservant jusqu'à un an ; ils furent jadis une importante ration militaire.
 
-Un plat de vermicelle sauté — fils dorés et translucides mêlés de ciboulette, de pousses de haricot et de crevettes séchées — est à la fois une street food omniprésente et un incontournable des banquets populaires. Mais l'industrie du vermicelle de Hsinchu est en déclin : dans les années 1980, on comptait plus de cinquante ateliers dans la ville ; il n'en reste aujourd'hui qu'une dizaine. Les jeunes refusent de reprendre ce métier tributaire des caprices du ciel, et le vermicelle produit industriellement en grande série a capturé la majorité du marché.
+Un bol de vermicelles sautés, aux fils dorés semi-translucides accompagnés de ciboulette, germes de soja et crevettes séchées, est à la fois en-cas de rue et incontournable des banquets. Mais l'industrie des vermicelles de Hsinchu se rétracte : dans les années 1980, on comptait plus de 50 usines, il n'en reste qu'une dizaine aujourd'hui. Les jeunes ne veulent pas reprendre ce métier tributaire du ciel, et les vermicelles industriels ont conquis le marché.
 
-## Le zongzi : un code culturel en forme de triangle
+## Les zongzi : le code culturel dans le triangle
 
-Chaque année, à l'approche du festival des Bateaux-Dragons (Duanwu), Taïwan est le théâtre d'une grande « guerre Nord-Sud du zongzi ». Il ne s'agit pas simplement d'une querelle de goûts : derrière chaque recette se cache un ADN culturel distinct.
+Chaque année à la veille du festival du Bateau-Dragon, Taïwan s'embrase pour la « grande guerre des zongzi nord-sud ». Ce n'est pas qu'une querelle de goûts, c'est l'expression de gènes culturels différents.
 
-**Le zongzi du Nord : la version riz sauté, cuit à la vapeur**
-Dans le Nord, le riz gluant et la garniture sont d'abord sautés à mi-cuisson, puis la feuille est roulée en cône et le tout cuit à la vapeur trente minutes. La texture rappelle le riz sauté — chaque grain est bien distinct — et la garniture comprend poitrine de porc, jaune d'œuf salé, champignons shiitake et crevettes séchées. La feuille de bambou fumée confère une légère note boisée.
+**Zongzi du nord : la faction « sud cuit, nord vapeur » du riz gluant frit**
+Au nord, on fait d'abord revenir le riz gluant et la garniture à mi-cuisson, on les enveloppe en cône triangulaire, puis on cuit à la vapeur 30 minutes. La texture évoque le riz gluant frit, grain par grain distinct, avec garniture : porc cinq épices, jaune d'œuf salé, shiitake, crevettes séchées. Les feuilles de bambou fumées apportent un léger parfum de fumée.
 
-**Le zongzi du Sud : la version riz cru, cuit à l'eau**
-Dans le Sud, le riz gluant cru est roulé autour d'une garniture braisée, puis l'ensemble est plongé dans une eau frémissante pendant deux à trois heures. Le riz absorbe lentement les saveurs de la garniture et prend une texture fondante et collante. Le parfum des feuilles de bambou moso est plus prononcé, et l'arachide — cuite jusqu'à devenir crémeuse et fondante en bouche — est l'âme du zongzi du Sud.
+**Zongzi du sud : la faction du riz cru cuit ensemble**
+Au sud, on enveloppe du riz gluant cru avec la garniture marinée, et on plonge le tout dans l'eau bouillante 2 à 3 heures. Le riz absorbe l'essence de la garniture pendant la cuisson, pour une texture moelleuse et collante. Les feuilles de bambou moso exhalent un parfum intense ; l'arachide est l'âme du zongzi du sud, cuite jusqu'à fondre en bouche.
 
-| Zongzi du Nord                                    | Zongzi du Sud                                            |
-| ------------------------------------------------- | -------------------------------------------------------- |
-| Sauté puis cuit à la vapeur, texture de riz sauté | Riz cru cuit à l'eau, texture fondante et collante       |
-| Feuille de bambou fumée (notes boisées)           | Feuille de bambou moso (parfum herbacé)                  |
-| Accompagné de sauce pimentée sucrée               | Accompagné de sauce soja épaisse et de poudre d'arachide |
+| Zongzi du nord                                | Zongzi du sud                          |
+| --------------------------------------------- | -------------------------------------- |
+| Riz frit puis vapeur, texture riz gluant frit | Riz cru bouilli, moelleux et collant   |
+| Feuilles de bambou fumées (parfum fumé)       | Feuilles de bambou moso (parfum frais) |
+| Sauce sucrée-piquante                         | Sauce soja épaisse + poudre d'arachide |
 
-Mais le zongzi le plus authentiquement taïwanais reste peut-être celui de la grand-mère, préparé selon une recette non écrite transmise par l'intuition accumulée au fil des années. La veille, toute la famille réunie dans le salon lave les feuilles, fait revenir la garniture, roule les cônes en bavardant — ce moment de vie familiale est lui-même une forme de patrimoine culturel.
+Mais le plus « goût de Taïwan » reste peut-être les zongzi de grand-mère, sans recette standard, uniquement l'intuition accumulée au fil des ans. La veille du festival, toute la famille s'assoit dans le salon, lave les feuilles, fait revenir la garniture, papote en emballant — ce temps familial est lui-même la culture.
 
-## Mochi et gâteaux de riz : les doux souvenirs des jours de fête
+## Mochi et gâteaux de riz : la douce mémoire des fêtes
 
-La fabrication traditionnelle du mochi est un spectacle alliant force et grâce : du riz gluant cuit à la vapeur est placé dans un mortier en pierre, puis des hommes vigoureux frappent à tour de rôle avec un pilon, pendant qu'un partenaire retourne la pâte et la mouille entre chaque coup. Le rythme des coups détermine la texture finale — trop frappé et le mochi devient caoutchouteux, pas assez et il manque de rebond.
+La fabrication traditionnelle du mochi est un spectacle de force et de beauté : le riz gluant cuit à la vapeur est placé dans un mortier en pierre, de robustes hommes manient à tour de rôle le pilon, un autre tourne la pâte et l'arrose d'eau. Le rythme du pilonnage détermine la texture — trop pilonné, c'est trop élastique ; pas assez, pas assez « Q » (élastique).
 
-Le _ciba_ des Hakka, le mochi de millet des peuples autochtones, le mochi à l'arachide à la mode taïwanaise — chacun porte la mémoire gustative d'un groupe culturel distinct. Pour le festival de l'Yulanpen, pour célébrer un heureux événement, pour les retrouvailles du Nouvel An lunaire, le mochi est toujours de la partie.
+Le « ciba » hakka, le « mochi de millet » autochtone, le « mochi aux cacahuètes » taïwanais — chacun porte la mémoire gustative de son groupe. Festival des Fantômes, célébrations, réunions du Nouvel An : le mochi est toujours présent.
 
-Les gâteaux de riz (_guo_) représentent quant à eux le sommet de l'art culinaire du riz à Taïwan :
+Les gâteaux de riz (guo) sont l'expression artistique suprême de la culture du riz taïwanaise :
 
-1. **Gâteau de tortue rouge (hóngguīguo)** — Le rouge symbolise la chance, la forme de tortue symbolise la longévité ; il est fourré d'une pâte sucrée de haricot mungo
-2. **Gâteau vert à l'armoise (cǎozaiguo)** — Coloré à l'armoise, d'un vert jade, disponible uniquement au printemps
-3. **Gâteau de riz en bol (wǎnguo)** — Crème de riz cuite à la vapeur avec du porc mijoté, emblème de la cuisine de rue tainanaise
-4. **Gâteau de navet blanc (luóboū gāo)** — Association parfaite de radis blanc râpé et de crème de riz, indispensable pour les fêtes de fin d'année
+1. **Gâteau tortue rouge** — Le rouge symbolise la chance, la forme de tortue la longévité, fourré de pâte de haricots mungo sucrée
+2. **Gâteau à l'armoise** — Coloré à l'armoise, vert jade, spécialité du printemps
+3. **Gâteau en bol** — Pâte de riz cuite à la vapeur avec viande hachée, représentant de Tainan
+4. **Gâteau au radis blanc** — Radis blanc râpé et pâte de riz en harmonie parfaite, indispensable au Nouvel An
 
-Chaque type de gâteau correspond à une saison et à un usage rituels précis : ensemble, ils forment un système complet de symboles culturels vivants.
+Chaque gâteau a sa saison et son usage, formant un système complet de symboles culturels.
 
-## La crise moderne : le déclin du riz
+## La crise moderne du déclin du riz
 
 > **⚠️ Point de vue controversé**
-> Le recul de la consommation de riz est-il le signe d'une diversification alimentaire positive, ou le symptôme d'une perte culturelle inquiétante ? Les générations se divisent sur la question.
+> La baisse de la consommation de riz est-elle un « progrès de la diversification alimentaire » ou un « signal d'alarme de perte culturelle » ? Les générations divergent.
 
 Les chiffres ne mentent pas : les Taïwanais tournent collectivement le dos au riz.
 
-**L'impact de la culture du repas hors domicile** est le facteur le plus décisif. À partir des années 1990, la restauration rapide et les chaînes de restaurants débarquent en force à Taïwan. Le hamburger de McDonald's, le poulet frit de KFC — plus séduisants que la bonne vieille boîte bento. Les jeunes préfèrent faire la queue pour un bubble tea (thé aux perles de tapioca) plutôt que de cuisiner chez eux.
+**Le choc de la culture de la restauration** est le plus fatal. Après les années 1990, fast-food et chaînes de restaurants s'implantent massivement. Les burgers de McDonald's, le poulet frit de KFC attirent plus que les boîtes-repas traditionnelles. Les jeunes préfèrent faire la queue pour du thé aux perles plutôt que cuisiner chez eux.
 
-**Les plateformes de livraison ont porté le coup de grâce.** Le directeur adjoint de l'Agence des céréales et de l'alimentation, M. Yao Zhiwang, l'admet sans détour : « Le riz livré devient vite dur et collant, il voyage beaucoup moins bien qu'un plat de pâtes ou un burger — ce qui influence directement les habitudes de consommation. »
+**Les plateformes de livraison portent le coup de grâce**. Le directeur adjoint de l'Agence des céréales, Yao Chih-wang, admet : « Les boîtes-repas à base de riz durcissent pendant la livraison, moins pratiques que les pâtes ou les burgers, ce qui influence directement les habitudes de consommation. »
 
-**L'essor des nouilles de blé** s'explique lui aussi par le contexte historique. Durant la période de l'aide américaine (1951-1965), les États-Unis ont massivement exporté de la farine de blé vers Taïwan. Le gouvernement a même lancé un « mouvement pour le blé » afin d'encourager la population à consommer du pain et à rompre avec l'idée que seul le riz nourrit. Cette politique a réussi au-delà de toute espérance : en 2024, la consommation de farine ne dépasse celle du riz que de 6 kg.
+**L'essor des pâtes** a aussi son histoire. Pendant l'aide américaine (1951-1965), les États-Unis importent massivement de la farine de blé ; le gouvernement lance même un « mouvement pour les pâtes » encourageant le pain, brisant le dogme « seul le riz est grain ». La politique réussit au-delà des espérances — en 2024, la consommation de farine n'est plus qu'à 6 kg du riz.
 
-La raison la plus profonde reste l'**accélération du rythme de vie**. Personne n'a plus le temps de laver le riz et d'attendre que le cuiseur à riz sonne. Des nouilles instantanées en trois minutes, un repas au micro-ondes en deux minutes — voilà le quotidien. Bien cuire un pot de riz demande de la patience, et c'est précisément la ressource la plus rare dans la société moderne.
+Une cause plus profonde : **l'accélération du rythme de vie**. Les modernes n'ont plus le temps de laver le riz, d'attendre que le cuiseur saute ; nouilles instantanées 3 minutes, boîte-repas micro-ondes 2 minutes deviennent le quotidien. Cuisiner un bon pot de riz demande de la patience, la ressource la plus rare de la société moderne.
 
-> **📊 Sources des données**
-> Les statistiques de cette section proviennent du _Rapport annuel sur l'offre et la demande alimentaires 2024_ du Ministère de l'Agriculture et des statistiques officielles de l'Agence des céréales et de l'alimentation.
+> **📊 Sources**
+> Les statistiques de cette section proviennent du « Rapport annuel 2024 sur l'offre et la demande de céréales » du Ministère de l'Agriculture et des statistiques officielles de l'Agence des céréales.
 
 ## Les nouvelles tentatives de renaissance du riz
 
-Face à cette crise, l'industrie du riz à Taïwan ne se résigne pas.
+Face à la crise, l'industrie du riz taïwanaise ne baisse pas les bras.
 
-**La révolution de la farine de riz** est en marche : le riz moulu en fine poudre peut servir à fabriquer pain, gâteaux et biscuits, et même à remplacer la farine de blé dans les recettes de galettes et de boulettes de riz. Cette « pâtisserie sans gluten » répond à la demande croissante de saine alimentation et ouvre de nouveaux espaces de survie pour la culture du riz.
+**La révolution de la farine de riz** est en marche : moudre le grain en poudre fine pour pains, gâteaux, biscuits, voire remplacer la farine de blé dans les nouilles plates, les mi-tai-mu. Cette « pâtisserie sans gluten » répond aux besoins de santé modernes, offrant un nouvel espace de survie au riz.
 
-**La valorisation par la marque** constitue une autre voie de sortie. Les marques locales comme le bento de Chishang, le riz de Guanshan à Taitung ou le riz de Fuli à Hualien ont réussi, grâce à la vente directe depuis le lieu de production et à des certifications biologiques, à se forger une image premium. Un paquet de riz de Chishang peut se vendre trois à cinq fois plus cher que le riz ordinaire — ce que le consommateur achète, ce n'est pas seulement du riz, c'est l'histoire d'une terre préservée.
+**La stratégie de marque** est une autre percée. Les boîtes-repas de Chihshang, le riz de Guanshan à Taitung, le riz de Fuli à Hualien, par la vente directe et la certification bio, construisent une image haut de gamme. Un paquet de riz de Chihshang se vend 3 à 5 fois le prix ordinaire ; l'acheteur ne paie pas seulement le riz, mais l'histoire d'une « terre pure ».
 
-**L'innovation en plats de riz prêts-à-manger** permet aux saveurs traditionnelles de faire leur retour dans la vie quotidienne : zongzi surgelés, vermicelle de riz instantané, gâteaux de riz au micro-ondes — en conservant l'authenticité du goût tout en s'adaptant aux exigences modernes. Les onigiri des supérettes, les boîtes bento de vermicelle sauté, permettent aux jeunes générations de renouer avec la culture du riz.
+**L'innovation en riz prêt-à-manger** ramène les saveurs traditionnelles dans la vie pratique : zongzi surgelés, vermicelles instantanés, gâteaux de riz micro-ondables, préservant le goût tout en s'adaptant aux besoins actuels. Les onigiri triangulaires et boîtes-repas aux vermicelles sautés des supérettes font redécouvrir le riz aux jeunes générations.
 
-Plus fondamentalement, **l'ancrage de l'éducation culturelle** joue un rôle crucial. L'éducation à l'alimentation et à l'agriculture entre dans les écoles, permettant aux enfants de planter du riz de leurs propres mains, de rouler des zongzi, de préparer du mochi — et de vivre le cycle complet de la culture du riz. Ces enfants, une fois adultes, pourraient bien choisir à nouveau le riz.
+Plus important encore, **l'enracinement de l'éducation culturelle**. L'éducation alimentaire et agricole entre dans les écoles, les écoliers plantent le riz, font des zongzi, préparent du mochi, vivant la chaîne complète de la culture du riz. Ces enfants, grands, referont peut-être le choix du riz.
 
-## La saveur du souvenir, les choix de l'avenir
+## Le goût dans la mémoire, le choix pour l'avenir
 
-| En faveur de la renaissance du riz                  | En faveur de la modernisation alimentaire            |
-| --------------------------------------------------- | ---------------------------------------------------- |
-| Préserver les traditions de la civilisation agraire | S'adapter aux tendances alimentaires internationales |
-| Renforcer l'autosuffisance alimentaire              | Diversifier les choix gastronomiques                 |
-| Protéger l'agriculture locale                       | S'adapter au rythme de vie contemporain              |
+| Soutenir la renaissance du riz         | Accepter l'occidentalisation alimentaire             |
+| -------------------------------------- | ---------------------------------------------------- |
+| Préserver la tradition agricole        | S'adapter aux tendances alimentaires internationales |
+| Augmenter l'autosuffisance alimentaire | Diversifier les choix alimentaires                   |
+| Protéger l'agriculture locale          | Suivre le rythme de vie moderne                      |
 
-Dans un marché de nuit (夜市) de Taipei, une dame de soixante-dix ans confectionne et cuit encore à la commande ses galettes de riz hakka. Dans un marché traditionnel de Taichung, un artisan se lève chaque matin à quatre heures pour préparer ses gâteaux de riz en bol. À Hsinchu, le jiujiangfeng revient fidèlement à chaque automne-hiver.
+Dans un marché de nuit de Taipei, une grand-mère de 70 ans prépare encore sur commande des banmian hakka ; dans un marché traditionnel de Taichung, un maître se lève à 4 heures du matin pour faire des gâteaux en bol ; dans une usine à vermicelles de Hsinchu, le vent « neuf descentes » revient fidèlement chaque automne-hiver.
 
-Ces scènes nous rappellent que la culture du riz n'appartient pas qu'au passé — elle survit avec une ténacité remarquable dans le présent.
+Ces scènes nous rappellent : la culture du riz n'est pas qu'histoire, elle survit vaillamment dans le présent.
 
-> **✦** « Ce qui risque vraiment de disparaître, ce n'est pas le riz lui-même, mais le rituel construit autour de lui — ces moments où toute la famille se réunit autour de la table. »
+> **✦** « Ce qui disparaîtra vraiment, ce n'est pas le riz lui-même, mais le sens rituel construit autour — le temps où la famille se retrouve autour de la table. »
 
-De 85 kg à 42 kg par habitant et par an : derrière ce chiffre se cache la transformation d'une civilisation agricole tout entière. Il nous est impossible d'endiguer le flot du temps, mais nous pouvons choisir ce que nous voulons préserver et transmettre.
+La consommation annuelle de riz des Taïwanais est passée de 85 kg à 42 kg ; derrière ce chiffre, la mutation d'une civilisation agricole entière. Nous ne pouvons arrêter la vague de l'époque, mais nous pouvons choisir ce que nous conservons, ce que nous transmettons.
 
-Chaque zongzi roulé en famille, chaque bol de soupe au vermicelle, chaque bouchée de mochi élastique — autant de gestes qui perpétuent la mémoire gustative de cette terre. L'avenir de la culture du riz à Taïwan ne réside peut-être pas dans un retour aux chiffres de consommation d'antan, mais dans sa capacité à trouver de nouvelles formes d'expression au sein de la vie moderne.
+Chaque zongzi enveloppé, chaque bol de soupe aux vermicelles, chaque mochi « QQ », prolonge la mémoire gustative de cette terre. L'avenir de la culture du riz à Taïwan réside peut-être non dans le retour aux chiffres d'antan, mais dans la manière de trouver de nouvelles expressions dans la vie moderne.
 
-La prochaine fois que vous passerez devant un marché traditionnel et que vous percevrez l'odeur de vapeur s'échappant d'un panier en bambou, sachez que c'est le parfum de cinq mille ans de civilisation rizicole. Il mérite que vous vous arrêtiez un instant pour le savourer pleinement.
+La prochaine fois que vous passerez près d'un marché traditionnel, humant la vapeur qui s'élève des paniers, ce sera le parfum de 5000 ans de civilisation rizicole. Il mérite que nous nous arrêtions, pour le savourer avec le cœur.
+
+## Sources des images
+
+- Image d'en-tête : Zongzi du festival du Bateau-Dragon, photo WeeWZ, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Rice_Dumpling_(Zongzi).jpg>), CC BY-SA 4.0.
 
 ## Références
 
-- [2022年糧食供需年報 - 農業部](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8850)
-- [台灣稻米產業現況 - 農業部農糧署](https://www.afa.gov.tw/cht/index.php?code=list&ids=324)
-- [國人食米量創新低 外食習慣成主因 - 上下游新聞](https://www.newsmarket.com.tw/blog/193228/)
+- [Rapport annuel 2022 sur l'offre et la demande de céréales - Ministère de l'Agriculture](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=8850)
+- [Situation actuelle de l'industrie du riz à Taïwan - Agence des céréales, Ministère de l'Agriculture](https://www.afa.gov.tw/cht/index.php?code=list&ids=324)
+- [La consommation de riz des nationaux atteint un nouveau creux, les habitudes de restauration en cause - Up Media](https://www.newsmarket.com.tw/blog/193228/)
 - [A Rice Renaissance — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=3dc62a1a-3462-4498-b9e6-24b2be98221b)
-- [你吃的是什麼米？認識稻米分類和臺灣品種 - 農傳媒](https://www.agriharvest.tw/archives/119399/)
-- [北部粽、南部粽怎麼分辨？- 自由電子報](https://food.ltn.com.tw/article/7405)
-- [新竹米粉 - 維基百科](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89)
+- [Quel riz mangez-vous ? Connaître la classification du riz et les variétés taïwanaises - Agri Media](https://www.agriharvest.tw/archives/119399/)
+- [Comment distinguer zongzi du nord et zongzi du sud ? - Liberty Times](https://food.ltn.com.tw/article/7405)
+- [Vermicelles de Hsinchu - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E7%AB%B9%E7%B1%B3%E7%B2%89)
