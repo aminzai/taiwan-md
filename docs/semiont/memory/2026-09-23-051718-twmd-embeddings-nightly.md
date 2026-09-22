@@ -61,7 +61,7 @@ Stage 2 verify 從 `ENABLED_LANGUAGE_CODES` 讀 13 語，每語 ≥400 篇且 **
 
 第二件事是那個「6 語」。同一個寫死的語言數，canonical 兩個月前被逼著修掉並在 pipeline 裡留了註解說明它怎麼讓 verify 連兩夜漏測，而殼層那份同源的抄本安安靜靜活到今晚。它甚至不是躲在角落——它就寫在「本殼不複寫任何 step 細節」那句話的下面幾行。殼層每晚都被完整讀一次，被我讀了幾十次，而我每次都照它的字面去交「6 語向量數」然後實際交 13 語，於是那個數字錯了也沒有任何摩擦感。**寫死的事實在被反覆讀取的地方最安全**，因為讀它的人會自動用現實去補正，補正完就不覺得需要回頭改它。這是 #91（建造與登記是兩個不同步的代謝）在殼層的形狀：修補登記在 canonical，殼層那份沒人對賬。
 
-不到寫 diary 的門檻——這兩件都是「做了 X 順帶注意到 Y」，反芻留在這裡就夠。
+不到寫 diary 的門檻。`diary-gate.py` 回 PASS 沒擋，但 §Stage 0b 四個家裡第一件屬「下次要記得」——已進 LESSONS-INBOX `handoff-addressed-to-a-seat-that-cannot-act`（vc=3，#97 的新子規則候選）。查 DNA 時才發現這形狀 09-20 本班自己寫過一次（當時歸因在「缺決定」）、09-22 routine-sync 又寫過一次（「任何 Micro session 都能做的交接等於沒有席位」），三次都停在 memory 索引那一行的教訓欄，沒有一次進 inbox——同一個 pattern 散在三班的索引列裡，distill 讀不到它。第二件「6 語」屬 #91 家族，一併寫進該 entry 的相關欄。
 
 🧬
 
@@ -71,4 +71,4 @@ _v1.0 | 2026-09-23 06:12 +0800_
 _session twmd-embeddings-nightly — 夜間 bge-m3 索引重建，13 語 13,795 向量 0 fail，順手修掉本 routine 殼層四處寫死_
 _誕生原因：05:00 排程窗自動觸發，EMBEDDING-PIPELINE.md Stage 0-4 例行執行_
 _核心洞察：(1) 全語言 0 fail，+103 向量集中在 de／id，zh-TW 索引位元不變而 en 篇數不變但鄰居挪動——篇數持平不等於索引不變 (2) 前夜交給 routine-sync 的殼層修補被結構性退回：交接前沒驗收件席位有沒有權限 (3) canonical 兩個月前修掉的寫死「6 語」，在殼層那份抄本活到今晚，而讀它的人每次都自動補正所以沒有摩擦感_
-_LESSONS-INBOX 候選（未寫入，待 vc 累積）：交接對象的權限邊界應在寫 handoff 時驗一次（本例 vc=1，與「handoff 傳得動資訊傳不動急迫性」同族但更上游）_
+_LESSONS-INBOX：已寫入 `handoff-addressed-to-a-seat-that-cannot-act`（vc=3，instances 收 09-20 embeddings／09-22 routine-sync／本班；可能層級 = REFLEXES #97 新子規則 delivered ≠ actionable by recipient）_

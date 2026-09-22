@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-23 twmd-embeddings-nightly — handoff-addressed-to-a-seat-that-cannot-act：交接送到了那一層，而那一層結構上沒有權限動手
+
+- **pattern**: `handoff-addressed-to-a-seat-that-cannot-act`
+- **原則**：寫 handoff 時會挑一個「聽起來該管這件事」的 routine 名字，但沒有一步在問那個席位的權限範圍收不收得下這個檔。收件人認真讀了也只能原樣往下傳，而報表上它跟「還沒輪到」「優先序不夠」長得一模一樣——三者都顯示為一條連續多輪的 pending。差別在處置：優先序問題等得到人，權限問題等不到，它要的是換席位或當班自己做掉。**寫 handoff 時要連收件席位的權限一起驗，不只驗內容講清楚了沒有。**
+- **觸發**：2026-09-22 embeddings 班把「本 routine 任務檔三處寫死 `/Users/cheyuwu` 絕對路徑」寫成 handoff 交給 `twmd-routine-sync`，語氣「不急，今晚零影響」。09-23 05:42 routine-sync 跑完（memory/2026-09-23-054243-twmd-routine-sync.md），沒接、也沒往下傳——它的 commit 範圍鎖三路徑，`docs/semiont/routine-prompts/` 以外的東西它動不了，而那條 handoff 指的檔就在它範圍外。09-23 embeddings 班自己改 git SSOT 收掉（`929a6f739`），連帶收掉同檔另三處寫死（pipeline 版本號、self-test 題數、鐵律那行的「6 語向量數」）。→ memory/2026-09-23-051718-twmd-embeddings-nightly.md
+- **instances**：
+  - 2026-09-20 twmd-embeddings-nightly 「交接缺的是決定時，收掉它的往往是別的席位」——同一個形狀的第一次描述，當時歸因在「缺決定」不在「缺權限」 → memory/2026-09-20-051001-twmd-embeddings-nightly.md
+  - 2026-09-22 twmd-routine-sync 「『任何 Micro session 都能做』的交接等於沒有席位」——收件人寫成「任何人」時的同型，指名到 routine 名字只是把它從「沒有席位」變成「錯的席位」 → memory/2026-09-22-054001-twmd-routine-sync.md
+  - 2026-09-23 twmd-embeddings-nightly 指名 routine-sync 但該席位權限範圍收不下那個檔，當班自己做掉 → memory/2026-09-23-051718-twmd-embeddings-nightly.md
+- **修補候選**：(a) MEMORY-PIPELINE §Handoff「交接項要帶穩定參照」那條加第二個必填：**收件席位**（哪條 routine／哪個 mode／哪個人）＋一句「該席位動得了這個路徑嗎」；(b) `handoff-latency.py` 已量「一條交接被幾班原樣往下傳」，可再多印一欄「這條指名的席位是誰」——被原樣傳 ≥3 輪且指名席位固定的，優先當權限問題看而不是優先序問題。
+- **可能層級**：REFLEXES #97 新子規則（delivered ≠ actionable by recipient）
+- **相關**：REFLEXES #97 交接面完整性（held fact ≠ delivered fact）——**差異在**：#97 的缺口在「沒送到動手的那一層」，本條是「送到了，但那一層沒有手」，對賬問的問題不同（#97 問「送了嗎」，本條問「收的人動得了嗎」）。REFLEXES #15 第 13 次驗證「handoff 傳得動資訊，傳不動急迫性」——本條更上游：傳不動的不是急迫性，是權限。REFLEXES #57 第三層跨機器認領（`handoff-addressed-to-a-routine-name-lands-on-two-machines`，同屬「指名 routine 名字」的收件人問題，那條的歧義在機器、本條在權限）。REFLEXES #91 建造與登記是兩個不同步的代謝（本次同檔另三處寫死屬該家族：canonical 2026-07-28 已修掉寫死的「6 語」，殼層抄本活了近兩個月）。
+- **verification_count**: 3
+
 ### 2026-09-22 twmd-spore-harvest-am — narrative-log-fills-causation-no-gate-watches：內部敘事檔的「這批說明什麼」段會長出數字全對、因果是填的幻覺，而沒有任何閘門在看它
 
 - **pattern**: `narrative-log-fills-causation-no-gate-watches`
