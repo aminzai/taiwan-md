@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T21:42:08+08:00",
-    "zhCommitHead": "f18b72eb5",
+    "lastUpdated": "2026-09-22T22:21:17+08:00",
+    "zhCommitHead": "995524fce",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 916,
+        "fresh": 917,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "ko": {
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 53,
+        "fresh": 1054,
+        "stale": 51,
         "metadata_stale": 4,
         "missing": 15,
         "orphan": 0
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1049,
+        "fresh": 1051,
         "stale": 39,
-        "metadata_stale": 19,
+        "metadata_stale": 17,
         "missing": 17,
         "orphan": 0
       },
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 36,
+        "fresh": 1037,
+        "stale": 35,
         "metadata_stale": 7,
         "missing": 45,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1046,
-        "stale": 26,
+        "fresh": 1048,
+        "stale": 24,
         "metadata_stale": 4,
         "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 857,
+        "fresh": 860,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 252,
+        "missing": 249,
         "orphan": 0
       }
     },
@@ -24893,7 +24893,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-ai-academy.md",
+          "translatedFrom": "Technology/台灣人工智慧學校.md",
+          "sourceCommitSha": "c8e5ac9ea",
+          "sourceContentHash": "sha256:625eab2091ad5a1f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T13:52:19.201795+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 45024,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -29699,19 +29711,17 @@
         "vi": {
           "path": "vi/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-28T08:16:22+08:00",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "1d9eb623",
           "translationLastModified": "2026-07-28T09:59:44+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 20440,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 19747,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/yam-yam-taiwan-portal.md",
@@ -40657,7 +40667,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-architecture.md",
+          "translatedFrom": "Art/台灣建築.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:af80f0616e9c061e",
+          "sourceBodyHash": "sha256:a2382584d5d27df7",
+          "translatedAt": "2026-09-22T17:40:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 27937,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -80455,19 +80477,17 @@
         "vi": {
           "path": "vi/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 21374,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 21077,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/formosan-landlocked-salmon.md",
@@ -82357,7 +82377,19 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/2026-local-elections-taiwan.md",
+          "translatedFrom": "Politics/2026 九合一選舉.md",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:98482d1a94d7ac85",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T12:55:18.265924+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "bytes": 63938,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138692,19 +138724,17 @@
         "ru": {
           "path": "ru/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-22T17:40:47+08:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 31229,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 34060,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/night-market-culture.md",
@@ -145604,19 +145634,17 @@
         "ru": {
           "path": "ru/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-07-25T06:34:25+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-22T17:40:47+08:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 25447,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 25750,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -146078,8 +146106,8 @@
           "sourceContentHash": "sha256:74f73b542d15e4ba",
           "sourceBodyHash": "sha256:c5e18daca97dc004",
           "translatedAt": "2026-09-22T17:40:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "995524fc",
+          "translationLastModified": "2026-09-22T21:42:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 68005,
@@ -147973,19 +148001,17 @@
         "es": {
           "path": "es/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-05-13T01:08:31Z",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 24883,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "bytes": 24294,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -148179,19 +148205,17 @@
         "es": {
           "path": "es/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-22T17:40:43+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20821,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "bytes": 19051,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwanese-noodle-culture.md",
@@ -150221,19 +150245,17 @@
         "pt": {
           "path": "pt/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3122286a1056f9c8",
-          "sourceBodyHash": "sha256:dacc006277fbf01a",
-          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-22T17:40:45+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 14444,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "bytes": 15479,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/hakka-food-culture.md",
@@ -159617,7 +159639,19 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/wu-feng-legend.md",
+          "translatedFrom": "History/吳鳳傳說.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d742f8951718669a",
+          "sourceBodyHash": "sha256:c8f9abbde98738f2",
+          "translatedAt": "2026-09-22T17:40:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 30020,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/wu-feng-legend.md",
@@ -179170,8 +179204,8 @@
           "sourceContentHash": "sha256:981f398813aadaf3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T12:16:48.919224+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "995524fc",
+          "translationLastModified": "2026-09-22T21:42:08+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 143802,
