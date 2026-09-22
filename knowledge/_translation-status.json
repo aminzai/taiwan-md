@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T05:41:53+08:00",
-    "zhCommitHead": "85dcc1e85",
+    "lastUpdated": "2026-09-23T05:59:30+08:00",
+    "zhCommitHead": "5dcc2fe75",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 932,
-        "stale": 99,
+        "fresh": 934,
+        "stale": 97,
         "metadata_stale": 27,
         "missing": 66,
         "orphan": 0
@@ -60,40 +60,40 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 25,
+        "fresh": 1069,
+        "stale": 24,
         "metadata_stale": 14,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 990,
+        "fresh": 991,
         "stale": 51,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 75,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1049,
+        "fresh": 1050,
         "stale": 34,
         "metadata_stale": 7,
-        "missing": 34,
+        "missing": 33,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 982,
-        "stale": 45,
+        "fresh": 983,
+        "stale": 44,
         "metadata_stale": 7,
         "missing": 90,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1008,
-        "stale": 45,
+        "fresh": 1010,
+        "stale": 43,
         "metadata_stale": 11,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 873,
+        "fresh": 874,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 236,
+        "missing": 235,
         "orphan": 0
       }
     },
@@ -47965,8 +47965,8 @@
           "sourceContentHash": "sha256:4ac40ba7a55e456a",
           "sourceBodyHash": "sha256:7526ec4c044a5e8d",
           "translatedAt": "2026-09-23T04:15:46+08:00",
-          "translationLastCommit": "36a05ecc",
-          "translationLastModified": "2026-07-31T09:04:04+08:00",
+          "translationLastCommit": "0843924f",
+          "translationLastModified": "2026-09-23T05:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 68166,
@@ -58204,8 +58204,8 @@
           "sourceContentHash": "sha256:31f2d67654f5ca72",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T20:46:45.933915+00:00",
-          "translationLastCommit": "8752e849",
-          "translationLastModified": "2026-09-22T00:56:34+08:00",
+          "translationLastCommit": "0843924f",
+          "translationLastModified": "2026-09-23T05:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 97189,
@@ -76378,18 +76378,18 @@
         "ar": {
           "path": "ar/Society/dpp-founding.md",
           "translatedFrom": "Society/民主進步黨成立.md",
-          "sourceCommitSha": "09302111",
-          "sourceContentHash": "sha256:5074137d0b0c4812ce89b4d76c93d915a492c88c44c2d5195fc5b519d92c6354",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T00:00:00+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
+          "sourceBodyHash": "sha256:35243ed7adf1417f",
+          "translatedAt": "2026-09-23T04:15:46+08:00",
           "translationLastCommit": "dfe697ea",
           "translationLastModified": "2026-09-13T14:48:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 45708,
+          "bytes": 41806,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/dpp-founding.md",
@@ -110078,18 +110078,18 @@
         "ja": {
           "path": "ja/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-23T04:15:44+08:00",
           "translationLastCommit": "e04e2e2f",
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 3654,
+          "footnoteDefs": 9,
+          "bytes": 21359,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/muscle-mountain.md",
@@ -143331,20 +143331,18 @@
         "ja": {
           "path": "ja/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "fdd06c978",
-          "sourceContentHash": "sha256:9e044da79052e1d4",
-          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
-          "translatedAt": "2026-07-29T07:32:32+08:00",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:4084ed4b3480a75a",
+          "sourceBodyHash": "sha256:70f421624b5717be",
+          "translatedAt": "2026-09-22T21:57:09.999374+00:00",
           "translationLastCommit": "00ef6a7a",
           "translationLastModified": "2026-09-22T00:50:05+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 40269,
+          "bytes": 41986,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/wu-ming-yi.md",
@@ -149642,8 +149640,8 @@
           "sourceContentHash": "sha256:e6a3985c0d14509b",
           "sourceBodyHash": "sha256:2199caf3c188c46a",
           "translatedAt": "2026-09-23T02:56:17+08:00",
-          "translationLastCommit": "eb37da9a",
-          "translationLastModified": "2026-07-30T13:08:29+08:00",
+          "translationLastCommit": "0843924f",
+          "translationLastModified": "2026-09-23T05:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 30594,
@@ -149654,20 +149652,18 @@
         "ar": {
           "path": "ar/Food/portuguese-egg-tart-in-taiwan.md",
           "translatedFrom": "Food/蛋撻.md",
-          "sourceCommitSha": "8a230ddb2",
-          "sourceContentHash": "sha256:97dd164af6e04522",
-          "sourceBodyHash": "sha256:c821b247831a9b89",
-          "translatedAt": "2026-07-30T02:53:11+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:e6a3985c0d14509b",
+          "sourceBodyHash": "sha256:2199caf3c188c46a",
+          "translatedAt": "2026-09-23T04:15:46+08:00",
           "translationLastCommit": "6f455ba8",
           "translationLastModified": "2026-07-30T03:55:32+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 20728,
+          "bytes": 20087,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/portuguese-egg-tart-in-taiwan.md",
@@ -150038,7 +150034,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-vegetarian-culture.md",
+          "translatedFrom": "Food/台灣素食文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-23T04:15:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 14560,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-vegetarian-culture.md",
@@ -153107,7 +153116,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/coffin-bread.md",
+          "translatedFrom": "Food/棺材板.md",
+          "sourceCommitSha": "b7f6ebf9b",
+          "sourceContentHash": "sha256:2019e39a8477f086",
+          "sourceBodyHash": "sha256:d70608d1aa149287",
+          "translatedAt": "2026-09-23T04:15:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 9237,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163706,20 +163728,18 @@
         "vi": {
           "path": "vi/Food/taiwan-fermented-and-pickled-foods.md",
           "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c2ef664839dd9cc6",
-          "sourceBodyHash": "sha256:b693c93c53efd3dc",
-          "translatedAt": "2026-08-09T12:06:28+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-23T04:15:44+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 18718,
+          "bytes": 18811,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-fermented-and-pickled-foods.md",
@@ -163917,20 +163937,18 @@
         "id": {
           "path": "id/Food/golden-croissant.md",
           "translatedFrom": "Food/金牛角.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c876a6c84ad1bc82",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
-          "translatedAt": "2026-07-25T05:00:09+08:00",
+          "translatedAt": "2026-09-23T04:15:45+08:00",
           "translationLastCommit": "a91e492c",
           "translationLastModified": "2026-07-25T05:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 9481,
+          "bytes": 9514,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/golden-croissant.md",
@@ -163955,8 +163973,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-23T02:56:17+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "0843924f",
+          "translationLastModified": "2026-09-23T05:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 20733,
@@ -178288,20 +178306,18 @@
         "hi": {
           "path": "hi/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "710263a86",
-          "sourceContentHash": "sha256:bc916494357a8d5d",
-          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
-          "translatedAt": "2026-07-18T19:14:57+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:1c4df7a1034d9237",
+          "sourceBodyHash": "sha256:decacb8f3924c150",
+          "translatedAt": "2026-09-23T04:15:46+08:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 57314,
+          "bytes": 57069,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-white-terror.md",
