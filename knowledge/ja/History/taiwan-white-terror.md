@@ -1,210 +1,203 @@
 ---
-title: "Taiwan's White Terror"
-description: "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system where every family in Taiwan had to mutually guarantee each other to work, enroll in school, or marry. Chen Chih-hsiung, Shih Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine."
+title: '台湾の白色テロリズム'
+description: '38年間の戒厳は、数千人の特務によるものではなく、全台湾の200万世帯が相互に保証し合わなければ就業、入学、結婚すらできなかった「連座保証」制度によって維持されていた。陳智雄（ちん・ヂーシウ／チェン・チーシウ）、施水環（し・シュイホアン／シー・シュイホアン）、高一生（こう・イーシャン／コー・イーシャン）、柏楊（パイヤン）――四つの名前、四つの逮捕理由、一つの共通のシステム。'
 date: 2026-04-05
 category: 'History'
 tags:
-  [
-    'History',
-    'White Terror',
-    'Martial Law',
-    'Political Persecution',
-    'Joint Liability Guarantee',
-    'Green Island',
-    'Matanching',
-  ]
-subcategory: 'Post-War and Authoritarian'
+  ['歴史', '白色テロリズム', '戒厳', '政治的迫害', '連座保証', '緑島', '馬場町']
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-28T10:31:01.688048+00:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-23T05:53:42+08:00'
 ---
 
-# Taiwan's White Terror
+# 台湾の白色テロリズム
 
-> **30-Second Overview:** From 1949 to 1987, spanning 38 years and 56 days, Taiwan had at least 29,407 military trials, with over 20,000 confirmed victims and civilian estimates reaching between 140,000 and 200,000. But what sustained this system for 38 years was not secret agents—there were only a few thousand of them; it was the "joint liability guarantee" system where every person in Taiwan had to find neighbors to vouch for them to work, enroll in school, or marry. The uncle running the grocery store downstairs from your house was your surveillance camera.
-
----
-
-On the morning of May 28, 1963, at Matanching in Taipei, 46-year-old Chen Chih-hsiung was dragged out of his cell and escorted to the execution ground. Knowing he would shout slogans loudly, the guards of the General Command of the Army first chopped off the soles of his feet with an axe to prevent him from standing, then stuffed a rag in his mouth and pierced his cheeks with iron wire. [^1]
-
-But in the moment before the gunshots rang out, he still shouted in Japanese: "Long live the Taiwanese! Long live the independence of Taiwan!"
-
-Chen Chih-hsiung was a graduate of the Dutch Language Department at Tokyo University of Foreign Studies and a former official of the Japanese Ministry of Foreign Affairs. After the war, he returned to Taiwan to join the independence movement. In 1961, he organized the "Tongxin Society." Two years later, he became the first Taiwanese executed for "advocating the independence of Taiwan" during the 38-year martial law period. Sixty years after his death, a small group still holds memorial services for him every May 28. Most Taiwanese do not know this name.
-
-This article discusses the machine that led Chen Chih-hsiung to Matanching, that put Shih Shui-huan on the list of colleagues at the Taipei Post and Telecommunications Bureau, that lured Gao Yi-sheng down from Alishan, and that imprisoned Bo Yang for nine years over a single cartoon—**White Terror was not executed by anyone; it was sustained by a system that turned all two million families on the island into a web of mutual surveillance.**
+> **30秒概要：** 1949年から1987年までの38年間で、台湾では少なくとも29,407件の軍事裁判が行われ、確認された犠牲者は数万人、民間推定では最大14万から20万人にも上ります。しかし、この制度が38年間維持できたのは特務によるものではありません――特務はわずか数千人でした。それは、全台湾の誰もが就業、入学、結婚をする際に隣人に保証を求めなければならなかった「連座保証」というシステムによって支えられていたのです。あなたの家の下の雑貨屋の大叔父（おじ）こそが監視役だったのです。
 
 ---
 
-## From 29,407 to 140,000 — Why the Numbers Never Match
+1963年5月28日の早朝、台北の馬場町。46歳の陳智雄（ちん・ヂーシウ／チェン・チーシウ）は牢獄から引きずり出され、処刑場へ連行されました。警備総部の衛兵たちは、彼が大声でスローガンを叫ぶことを知っていたため、まず斧で足の裏を切り落とし、立たせないようにした後、布で口を塞ぎ、針金で頬を刺しました[^1]。
 
-In November 1988, one year and four months after the lifting of martial law, Chen Shou-huang, the Chief Public Prosecutor of the Ministry of Justice, reported a figure in the Legislative Yuan: during the 38 years of martial law, military organs sentenced a total of **29,407** criminal cases involving non-active-duty civilians. [^2]
+しかし、銃声が鳴る直前の瞬間まで、彼は日本語で「台湾万歳！台湾独立万歳！」と叫び続けていました。
 
-This was the first official number. But all researchers know that this figure is only the tip of the iceberg.
+陳智雄は東京外国語大学のオランダ語学科の卒業生であり、日本の外務省の元官僚でした。戦後、台湾に戻り独立運動に身を投じました。1961年、彼は「同心社」を結成し、2年後には38年間の戒厳期間中に「台湾独立を主張した」という理由で銃殺された最初の台湾人となりました。彼が死んでから60年経った今も、毎年5月28日には少数の人々が彼の記念会を開いています。ほとんどの台湾人はこの名前を知りません。
 
-| 29,407 Cases                             | 14,946 Records                                     | 1,061 Individuals    |
-| ---------------------------------------- | -------------------------------------------------- | -------------------- |
-| Ministry of Justice Military Trial Cases | Transitioning Justice Commission Database Subjects | Confirmed Executions |
-
-The Taiwan Transitioning Justice Database, launched by the Transitional Justice Commission in 2020,收录ed data on **14,946** political case subjects. [^3] The Taiwan Truth and Reconciliation Commission estimated that there were **1,061** death row prisoners during the martial law period (as of 2013). [^4] The Executive Yuan further estimated in 2017 that the actual number of victims may exceed **200,000**. [^5]
-
-These numbers never match. The reason is not different statistical methods, but the fact that they are fundamentally unstatisticable: how many died while fleeing, how many were secretly executed, how many were killed while resisting arrest—the archives do not record these. Cai Kuan-yu from the Taiwan Truth and Reconciliation Commission stated that mainlanders accounted for 46% of the victims. [^5] This figure overturns the general impression that "White Terror equals the Kuomintang targeting locals." Once the machine started, anyone could be绞入 (绞入 - caught in the gears).
-
-> **⚠️ Controversial Viewpoint**
-> The number of victims of White Terror remains a political issue, not a statistical one. Conservatives tend to use the Ministry of Justice's 29,407, emphasizing that most cases are documented; independence advocates tend to use 140,000 to 200,000, emphasizing the unknowability of underground victims. Both numbers are partially true because "truth" in that era was itself a commodity systematically hidden.
+この記事が論じたいのは、陳智雄を馬場町へ送り出し、施水環（し・シュイホアン／シー・シュイホアン）を台北郵便局の同僚リストで死なせ、高一生（こう・イーシャン／コー・イーシャン）を阿里山から誘い下ろし、柏楊（パイヤン）を漫画一枚のために9年間投獄した、あのシステム――**白色テロリズムは誰か一人が実行したのではなく、島全体の200万世帯を相互監視網に変えてしまった制度によって維持されていた**、という点です。
 
 ---
 
-## Joint Liability Guarantee — Who Sustained the 38-Year Martial Law
+## 29,407件から14万人へ――なぜ数字が一致しないのか
 
-In the year Chen Chih-hsiung was executed, Taiwan's population was approximately 12 million. How many were secret agents? According to various historical materials, the actual personnel of the intelligence system, including the General Command of the Army, the Security Command, the Bureau of Investigation, and the Youth Salvation Corps, totaled only a few thousand.
+1988年11月、戒厳解除から1年4ヶ月後、法務部の主任検察官である陳守煌（ちん・しゅこう／チェン・シュウホアン）は立法府に一つの数字を報告しました。それは、戒厳38年間で軍事機関が現役ではない市民に対して下した刑事事件の総計**29,407件**です[^2]。
 
-So what sustained it for 38 years?
+これが初めて公式な数字でした。しかし、すべての研究者はこの数字が氷山の一角に過ぎないことを知っています。
 
-**It relied on every Taiwanese who wanted to work, enroll in school, or marry having to find 2 people willing to guarantee them.**
+| 29,407件             | 14,946件                               | 1,061人              |
+| :------------------- | :------------------------------------- | :------------------- |
+| 法務部の軍事審判案件 | 転換委員会データベースで裁判された件数 | 確認された死刑執行数 |
 
-This system was written into the "Regulations for Suppression of Bandits and Spies during the Period of Communist Rebellion" promulgated in 1950, called the "Joint Guarantee and Joint Liability System." [^4] To be released from prison, convicts had to find 2 guarantors to fill out multiple guarantee forms: children could not guarantee parents, guarantors had to have certain property, and in addition to personal guarantees, there had to be merchant guarantees. The guarantee forms were sent to the household registration police station for verification, then to the Police General Bureau, then to the Military Justice Bureau of the Ministry of National Defense, and finally, the prison issued the release certificate. If the guaranteed person "reoffended," the guarantors would be held jointly liable.
+「台湾転換正義資料庫」が2020年にオンライン公開したデータには、**14,946件**の政治事件被疑者の記録が含まれています[^3]。一方、「台湾民間真相と和解促進会」は戒厳期間中の死刑囚を合計**1,061人**として統計しています（2013年時点）[^4]。行政院は2017年に、実際の犠牲者は**20万人**を超える可能性があると推計しました[^5]。
 
-This mechanism was not only used for release. For the appointment of public officials and teachers, school enrollment, applications to go abroad, and marriage registration, every daily action required a "clean record," and a clean record required someone to vouch for you.
+これらの数字は永遠に一致しません。原因は統計手法が異なるからではなく、根本的に統計できないからです。逃亡中に死亡した人数、秘密裏に処刑された人数、逮捕を拒否して殺された人数――それらは記録に残らないのです。台湾民間真相と和解促進会の蔡寬裕（さい・クアンユー／ツァイ・クアンユー）氏は、外省出身の犠牲者が46%に達したと述べています[^5]。この数字は、「白色テロリズム＝国民党による本省人への迫害」という一般的な印象を覆すものです。一度あのシステムが稼働すれば、誰でも絞り込まれる可能性があったのです。
 
-> **📝 Curator's Note**
-> On household registers in Taiwan from the 1950s to the 1980s, many people had a red stamp next to their names: the name, address, and ID number of the guarantor. If you open an old household register today, you will see the relationships of relatives and neighbors from that era recorded in terms of political responsibility. Why your neighbor remembered you is because they guaranteed you; why your uncle stopped talking to your father for a while is because he refused to guarantee your father. Those silent, fractured, and tangled family relationships often started from a single guarantee form.
-
-### Eyes Beyond the Secret Agents
-
-Besides the joint liability system, there was also a network of informants. In 1983, there were over **5,000 informants** in university campuses across Taiwan. [^6] From 1980 to 2000, the number of citizens monitored by the Kuomintang government annually ranged between **7,000 and 15,000**. [^6]
-
-In the reports written by these informants, some recorded the sexual orientation, marital infidelity, and secret vices of dissidents. Some files discussed using "female psychological weaknesses" to strike at radical actors. [^6] Information could be fabricated, exaggerated, or used as a tool for power struggles, but once it entered the archives, it was treated as real.
-
-> **✦** "There are secret agents watching me at the door, I have to escape." — Words spoken by White Terror survivor Chen Meng-he to visitors while hospitalized in his final years (from The Reporter's "Searching for Political Trauma Survivors")
-
-Chen Meng-he was a political prisoner imprisoned for over ten years. After his release, he became a photographer, leaving images of other survivors. But on his hospital bed 60 years later, he still believed there were secret agents at the door. [^7] You cannot say he remembered wrong. The greatest achievement of White Terror was making people remember for a lifetime.
+> **⚠️ 議論の視点**
+> 白色テロリズムの犠牲者数は、今日においても統計の問題ではなく政治的な問題です。保守派は法務部の29,407件を根拠に「多くの事件が記録されている」と強調する傾向があります。一方、独立派は14万から20万人を用い、「地下での被害は計り知れない」と主張します。どちらの数字も部分的には真実ですが、当時の「真実」そのものがシステム的に隠蔽された商品であったからです。
 
 ---
 
-## Three Reasons for Arrest: Ideology, Relationships, Luck
+## 連座保証――38年間の戒厳を支えたのは誰か
 
-The most terrifying thing about White Terror was not that it had clear standards, but that it did not.
+陳智雄が銃殺された年の台湾の人口は約1,200万人でした。特務はどれほどいたのでしょうか？各方面の史料による推計では、警備総部、保安司令部、調査局、救国団といった治安システムの実働人員は合計で数千人程度です。
 
-### Ideology: Bo Yang's Cartoon (1968)
+では、何が38年間を支えたのでしょうか？
 
-On January 3, 1968, the translated American cartoon "Popeye" appeared in the family section of the _Zhonghua Daily_. [^8] The story involved Popeye and his father buying an island together, establishing a private nation on the island, and competing for president. In Bo Yang's translation, the child said to Popeye: "There are only the two of us in the whole country, you know!"
+**それは、就業しようとする、入学しようとする、結婚しようとするすべての台湾人が、2人の保証人を確保しなければならなかったからです。**
 
-The military trial court believed this sentence alluded to Chiang Kai-shek and Chiang Ching-kuo. Bo Yang was arrested on March 7 and sentenced to 12 years by the military court. In 1975, upon Chiang Kai-shek's death, the sentence was reduced to 8 years. On March 7, 1976, the day his sentence expired, the National Security Bureau decided to transfer him to Green Island as a "guarding employee" to continue imprisonment. It was not until April 1977, under concern from the United States government, that he was released. [^8]
+この制度は1950年に公布された『乱政期匪諜検肅条例』に記載されており、「連保連坐制度」と呼ばれています[^4]。被疑者が釈放するためには、2人の保証人を見つけ、複数の保証書を記入する必要がありました。子供は両親を保証することはできず、保証人は一定の財産を持ち、個人の保証に加え、商売による保証も必要でした。この保証書は戸籍地の派出所へ提出され、警察総局を経て国防部軍法局に送られ、最終的に刑務所から出獄証明が発行されました。もし保証人が「再犯」した場合、保証人も連座を食らいました。
 
-A total of 9 years and 26 days. For translating an American cartoon.
+この仕組みは釈放時だけに使われたわけではありません。公務員の採用、学校への入学、渡航申請、婚姻登録といった日常のあらゆる行動に「清白証明」が必要であり、その清白証明には誰かの保証が必要でした。
 
-> **💡 Did You Know**
-> During his nine years on Green Island, Bo Yang studied hard, completing the manuscripts for _The Chinese People's History_, _The Lineage of Chinese Emperors, Empresses, Princes, and Princesses_, and _The Chronology of Chinese History_. After his release, he spent another ten years translating the 72-volume _Bo Yang's Version of Zizhi Tongjian_. That prison cell turned him from a translator into a historian.
+> **📝 編集者のメモ**
+> 1950年代から80年代の台湾の戸籍簿を開くと、多くの人の横に赤い印が押されています。それは保証人の氏名、住所、身分証番号です。古い戸籍簿を今開けば、あの時代の親戚や隣人関係が、政治的責任という形で記録されているのがわかります。あなたの隣人があなたを覚えているのは、彼があなたを保証したからです。あなたの叔父が一時的に父親と話さなくなったのは、彼が父親を保証することを拒否したからです。そうした沈黙し、断絶し、絡み合った家族関係の多くは、一枚の保証書から始まったのです。
 
-### Relationships: Shih Shui-huan's Ceiling (1954)
+### 特務以外の目線
 
-Shih Shui-huan was born in 1926 in Tainan. She graduated from Tainan Girls' Home Economics School and worked as a clerk at the Taipei Post and Telecommunications Bureau. In 1954, she was 28 years old.
+連座制度に加え、「線民ネットワーク」がありました。1983年、全台湾の大学キャンパスには5,000人以上の「線民（ライン・ミン）」がいました[^6]。1980年から2000年にかけて、毎年国民党政権によって監視されていた市民の数は7,000人から15,000人の間でした[^6]。
 
-Her younger brother, Shih Chih-cheng, was a National Taiwan University student. After becoming involved in the "NTU Branch Case," he went on the run, hiding in the ceiling of Shih Shui-huan's Taipei dormitory, **hiding for two years**. On July 19, 1954, Shih Shui-huan was arrested for protecting her brother, and her colleagues Qian Jingzhi and Ding Yaotiao were implicated in the "Post and Telecommunications Branch Case." [^9] Two years later, on July 24, 1956, she was executed in Taipei at the age of 30. Her brother Shih Chih-cheng's final whereabouts remain a mystery.
+これらの線民が書いた報告には、異議分子の性的指向、不倫、秘密の悪癖などが記録されていました。ある資料では、「女性の心理的弱点」を利用して急進的な俳優を攻撃したことが議論されています[^6]。情報は捏造され、誇張され、権力闘争の道具にされることもありましたが、一度ファイルに入ればそれは真実でした。
 
-During her two years in prison, she wrote 69 letters to her mother. [^10]
+> **✦** 「門の外に特務が私を監視しているから、逃げなければならない。」――白色テロリズムの生存者である陳孟和（ちん・メンホァ／チェン・メンホァ）が晩年病気で入院した際、訪問者に語った言葉（報道記者『政治的傷跡を探して』より）
 
-> **✦** "Dear Mother, I don't know why, but my heart feels suffocatingly sad tonight, and tears are spinning in my eyes. But I still bite my lip and endure desperately, because I know I should not cry for Mother anymore, as that would only cause Mother more sorrow..." — Shih Shui-huan's Prison Letter (from the Taiwan Truth and Reconciliation Commission's "Shih Shui-huan's Letters")
-
-In the last letter, she wrote: "Every morning, as Mother instructed, I read the Bible and pray. May God's grace descend upon our whole family. Amen!" [^10]
-
-The charge for her execution was "colluding with bandits." In reality, her crime was having an escaped brother.
-
-### Luck: The 896 Villagers of Lukang (1952)
-
-From December 28 to 29, 1952, the Ministry of National Defense deployed thousands of military and police personnel to surround the Lukang mountainous area in Shih-chiang Township, Taipei County (now Guangming Village, Shih-chiang District, New Taipei City), launching a massive search for the so-called "Taiwan People's Armed Guard Team." The underground organization led by Commander-in-Chief Chen Ben-jiang and Branch Secretary Chen Chun-ching did indeed exist, but most of the villagers they absorbed had no idea what they had joined; some had simply given the fleeing group a bowl of rice. [^11]
-
-896 people were arrested. 135 were sentenced, with 41 receiving the death penalty. [^11] Compensation of NT$545.63 million was eventually issued, and the Control Yuan criticized the Ministry of National Defense. [^11] This was the largest political case in terms of scale during the White Terror period.
-
-Former Director of the Academia Historica, Chang Yan-hsien, visited Lukang and conducted oral history interviews with over 100 villagers. [^11] The common characteristic of the villagers was that they could not clearly explain "what exactly happened that year." Not because they forgot, but because they never truly knew. Some did not know what organization they had "joined" until years after their release.
-
-> **📝 Curator's Note**
-> Director Wu Nien-jen's _A City of Sadness_ and _Ripples of Love_ have prototypes from Lukang. It is now called "Lukang Incident Memorial Park," which contains a memorial stele. In 2017, the son of the ringleader Chen Ben-jiang said at the memorial service: "I apologize to everyone on behalf of my father." The apology of the perpetrators' descendants is very rare in White Terror memorial ceremonies.
+陳孟和は10年以上投獄された政治犯でした。出所後、彼は写真家となり、他の生存者たちの記録を残しました。しかし、60年後の病床にあっても、彼は門の外に特務がいると信じ続けていました[^7]。彼が間違っていると言うことはできません。白色テロリズムの最大の功績は、人々を生涯記憶させ続けたことなのです。
 
 ---
 
-## Green Island's Beds and Gao Yi-sheng's Letters
+## 逮捕された三つの理由：思想、人間関係、運
 
-In 1951, most political prisoners in Taiwan were concentrated on Green Island at the "New Life Training Center" for ideological transformation. [^12] This institution existed until 1965, holding a maximum of **2,000 people**, organized into 3 battalions and 12 companies, with each company holding 120 to 160 people. [^12]
+白色テロリズムが最も恐ろしいのは、明確な基準があったからではなく、基準がなかったからです。
 
-The "newborns" (a collective term for prisoners) attended three hours of ideological transformation classes daily: Sun Yat-sen's Last Will and Testament, the Leader's Words and Deeds, the Three Principles of the People, the Atrocities of the Communist Bandits, and the Critique of Communism. Other times were spent on labor: building houses, repairing roads, and growing vegetables.
+### 思想：柏楊の一本の漫画（1968年）
 
-Victim Chang Ze-zhou later returned to the reconstructed barracks: "There were not enough beds; many people had to sleep on the floor. I was often woken up by many people stepping on me because I slept on the floor!" [^12]
+1968年1月3日、『中華日報』の家庭版に翻訳家である柏楊（パイヤン）が翻訳したアメリカのコミック『スーパーマン』が掲載されました[^8]。物語は、卜派父子が小さな島を共同購入し、その島で私的な国家を築き、二人がそれぞれ大統領選挙に出馬するというものでした。柏楊の訳文の中で子供がスーパーマンに言った「この国には私たち二人しかいないんだよ！」というセリフがありました。
 
-Between 1953 and 1956, the New Life Training Center also experienced the "Re-rebellion Case": people already serving sentences on Green Island were accused of continuing to organize connections in prison, sentenced again, and sent to serve even heavier sentences. [^12] Some were thus imprisoned on Green Island for another ten-plus years.
+軍事裁判所はこの発言を蒋介石（しょう・かいせき／ジャン・カイシ）と蔣経国（しょう・けいこく／ジャン・ジンクオ）を暗喩していると見なしました。柏楊は3月7日に逮捕され、軍事審判で12年間服役しました。1975年に蒋介石が死去し刑期が8年に減刑されましたが、1976年3月の刑満の日、彼は国家安全局によって緑島へ「看守員」として移送され、さらに拘束されました。アメリカ政府の懸念により、1977年4月に釈放されました[^8]。
 
-### Gao Yi-sheng's 60 Letters
+合計で9年と26日間でした。たった一枚のアメリカの漫画を翻訳したために。
 
-Gao Yi-sheng (Tao name: Uyongu Yatauyungana, 1908-1954) was a Tao leader from Alishan, a musician, an educator, and the first elected township mayor of Wu Feng Township (now Alishan Township). On September 10, 1952, he was lured down from Alishan by the bait of the "Mountain Security Conference" and imprisoned in the military justice detention center at No. 3 Qingdao East Road, Taipei. [^13]
+> **💡 ご存知でしたか**
+> 柏楊が緑島で過ごした9年間は、『資治通鑑』を苦心して読み込み、『中国人史綱』、『中国歴代帝王皇后親王公主世系』、『中国歴史年表』の三部作を完成させました。出所後も10年間かけて『柏楊版資治通鑑』72冊を翻訳しました。あの牢獄は彼を単なる翻訳者から史家へと変貌させたのです。
 
-During his two years in prison, he wrote 60 letters to his family in Japanese, sending them back to Alishan. [^13] On April 17, 1954, he and five others were executed in Taipei. The charge was "bandit spy gathering and rebellion."
+### 人間関係：施水環の天井（1954年）
 
-The content of those letters was mostly trivial: plant rice well, take care of the children, believe in God. Half a year before his execution, he wrote: "If I can return home safely, I will continue to work for the tribe."
+施水環は1926年に台南で生まれ、台南女子家庭学校を卒業後、台北郵便局に職員として勤務していました。彼女が28歳だったのは1954年です。
 
-On World Human Rights Day in 2013, Gao Yi-sheng's son, Gao Ying-jie, donated these 60 letters to the National Human Rights Museum. In 2020, the Ministry of Culture officially published _Gao Yi-sheng's Prison Letters_—this was the first book publication outcome of Taiwan's **Indigenous Transition Justice**. [^14] Half a century later, the Tao people could finally read their leader's final voice in full.
+彼女の弟である施至成（し・ジーチェン／シー・ジーチェン）は台湾大学の学生であり、「台大支部事件」に関与した後、逃亡を始め、彼女の台北の寮の天井に隠れました。**2年間も**です。1954年7月19日、施水環は弟を守ろうとしたこと、そして同僚である錢靜芝（ちん・チンジー／チェン・チンジー）や丁窈窕（ちん・ヤオチャオ／シー・ヤオチャオ）と共に「郵便局支部事件」に巻き込まれ逮捕されました[^9]。2年後、1956年7月24日、彼女は台北で銃殺され、享年30歳でした。弟の施至成の最期の行方は謎のままです。
 
-> **📝 Curator's Note**
-> Gao Ying-jie said at the donation ceremony that he had read those letters for decades, but only now did he truly understand them—because his father wrote in Japanese, and Gao Ying-jie's generation was raised by the Nationalist government forbidden to speak Japanese. White Terror did not just kill a Tao leader; it also severed the common language between two generations. The words the father wrote, the son could not understand. This is the deepest form of violence in White Terror.
+獄中で過ごした2年間、彼女は母親に69通の手紙を書き送りました[^10]。
+
+> **✦** 「愛するお母様へ、今夜どういうわけか胸が締め付けられ息ができません。涙が瞳の中で渦巻いています。それでも私は唇を噛みしめ必死に耐えています。なぜなら、お母様にまた泣き悲しい思いをさせてはいけないと知っているからです……」――施水環の獄中手紙（台湾民間真相と和解促進会『施水環の手紙』より）
+
+最後の手紙には、「毎朝お母様のご指示通り、聖書を読み祈りを捧げています。神の恩寵が私たち家族全員に降り注ぎますように、アーメン！」と綴られています[^10]。
+
+彼女が銃殺された罪状は「反体制派」。実際には、彼女の罪の背景には逃亡中の弟がいました。
+
+### 運：鹿窟の896人の村人（1952年）
+
+1952年12月28日から29日にかけて、国防部は数千人の軍警察を動員し、台北県石碇郷の鹿窟山地区（現新北市石碇区光明里）を包囲し、「台湾人民武装防衛隊」と呼ばれるものを大規模に捜索しました。総指揮官である陳本江（ちん・ベンジャン／チェン・ベンジャン）と支部書記の陳春慶（ちん・チュンチン／チェン・チュンチン）が率いた地下組織は確かに存在しましたが、彼らが吸収した大半の村人たちは、自分たちが何に参加しているのかを全く知りませんでした。中には、単にこの逃亡者たちに食事を提供していた人もいました[^11]。
+
+896人が逮捕されました。135人が判決を受け、41人が死刑となりました[^11]。補償金は最終的に5億4,563万元が支払われ、監察院は国防部を糾弾しました[^11]。これは白色テロリズム期における単一案件としては最大規模の政治事件でした。
+
+元国立史館長の張炎憲（ちょう・イエンシエン／チャン・イェンシエン）氏は生前鹿窟を訪れ、100名以上の村人から口述聴取を行いました[^11]。村人たちの共通点は、「あの年一体何が起こったのか」を完全に説明できないことでした。忘れたわけではなく、真に知らなかったからです。中には、出所して数年経って初めて、自分が当時「参加した」組織が何だったのかを知った人もいます。
+
+> **📝 編集者のメモ**
+> 呉念真（ご・ニエンヂン／ウー・ニェンヂン）監督の『悲情都市』や『恋恋風塵』の一部は鹿窟をモデルにしています。そこには現在「鹿窟事件記念公園」があり、記念碑が立っています。2017年、首謀者である陳本江の息子が記念会で「父に代わって皆さんに謝罪します」と述べたことは、白色テロリズムの追悼儀式においては非常に珍しい出来事でした。
 
 ---
 
-## なぜこの歴史はまだ終わっていないのか
+## 緑島の寝床と高一生の書簡
 
-「白色恐怖はすでに過去のものだ」と言うのは簡単です。1987年の解厳、1991年の懲治叛乱条例廃止、1995年の補償財団設立、2018年の転型正義推進委員会（促進会）発足、国家機関が人を殺さなくなってからすでに38年が経ちます。
+1951年、全台湾のほとんどの政治犯は緑島「新生訓導所」に集められ、思想改造を受けました[^12]。この施設は1965年まで存在し、最大で**2,000人**を収容し、3つの大隊と12の中隊に編成され、各中隊には120人から160人がいました[^12]。
 
-しかし、1950年代から80年代に生まれた台湾人の家族史を開き、その親の世代のページをめくると、「作保（保証人になること）」という二文字が頻繁に現れ、そこで一瞬立ち止まります。叔父が作保を拒否し、隣人がかつて作保を引き受け、外祖父が保証人がいなかったために解雇されそうになった。その立ち止まりこそが、白色恐怖がまだ終わっていない場所なのです。
+「新生」（被拘束者は総称して「新生」と呼ばれた）は毎日3時間の思想改造授業を受けました。国父の遺訓、指導者の言行、三民主義、共産党の暴挙、共産主義批判などがテーマでした。残りの時間は労働に充てられ、建物の建設、道路の修繕、畑仕事などが行われました。
 
-陳智雄（ちん・ちゆう／チェン・チーシオン）は1963年に馬場町（ばばちょう）で銃殺された。高一生（こう・いっせい／ガオ・イーシェン）は1954年に台北で銃殺された。施水環（し・すいかん／シー・シュイホワン）は1956年に台北で銃殺された。彼らの家族がこれらの名前を公に語れるようになるまで、半世紀を要した。台湾の転型正義により5,983件の有罪判決が取り消され[^3]、記念園区が設けられ、記念碑が建てられた。
+犠牲者である張則周（ちょう・ツェーヂョウ／チャオ・ツェーヂョウ）は再建された宿舎に戻り、「寝床が足りず、多くの人が地面で寝ていたため、私はよく地面の上で誰かに踏まれて起こされました！」と語っています[^12]。
 
-しかし、あの5,000人の大学キャンパスの密告者（線民）の子孫たちは、今も台湾で生活し、働き、投票している。彼らの父親や祖父が何をしたのか、除垢法（ラストレーション法）によって明かされることはなかった。[^6]いわゆる「過去」は、一度も公開の場で清算されたことがない。
+1953年から1956年の間、新生訓導所では「反乱事件」も発生しました。これは、すでに緑島で服役していた人々が獄中で組織を再結成したとして告発され、再び判決を受け、より重い刑罰を与えられたケースです[^12]。何人かはこれによって緑島でさらに10年以上を過ごしました。
 
-これは憎しみではなく、帳簿（清算すべき勘定）なのです。白色恐怖が終わる日は、解厳の日でもなければ、促進会が解散する日でもありません。台湾社会が認めるときです──あの200万の家族を互いに監視し合う網に変えた制度の痕跡が、今も私たちの隣人への、見知らぬ人への、「作保」という二文字への不安の中に刻まれていることを。
+### 高一生の60通の手紙
 
-**関連記事**：
+高一生（こう・イーシャン／コー・イーシャン）（鄒族名：Uyongu Yatauyungana、1908-1954）は阿里山の鄒族の指導者であり、音楽家、教育者で、呉鳳郷（現阿里山郷）初の民選郷長でした。1952年9月10日、彼は「山地保安会議」という餌によって阿里山から誘い下ろし、台北青島東路3番地の軍法看守所に収容されました[^13]。
 
-- [台湾の民主化転型](/ja/history/taiwan-democratization) — 戒厳からアジアで最も自由な民主体制へ、40年の転型の全貌
-- [戒厳時代](/ja/history/martial-law-era) — 38年56日の法的枠組みと解厳の過程
-- [台湾の転型正義](/ja/history/taiwan-transitional-justice) — 解厳後の真相調査と加害者追及の未完の事業
-- [国立人権博物館](/ja/history/national-human-rights-museum) — 景美と緑島の二つの白色恐怖記念園区を運営する機関、6年の準備から2025年予算凍結まで
-- [二二八事件](/ja/history/228-incident) — 白色恐怖の前奏、1947年の弾圧がいかに戒厳体制を予告したか
-- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年、白色恐怖末期の重要な転換点
-- [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 高一生の山と、沈黙を強いられた民族の物語
-- [統一発票：1951年、全国民を税務稽察員に変えたあの紙](/ja/economy/taiwan-uniform-invoice) — 統一発票制度の設計者である任顕群（じん・けんぐん／レン・シェンチュン）本人も同じ時代を生き、1955年に「知匪不報（共産匪賊を知って通報しない罪）」で投獄された──一つの帽子（罪名）で命を落とすには十分だった
-- [殷海光](/ja/people/yin-haiguang-liberalism-philosopher) — 1960年雷震事件後に温州街十八巷で軟禁された台大哲学科教授、台湾自由主義の開祖
+獄中で過ごした2年間、彼は日本語で60通の手紙を書き、阿里山に送りました[^13]。1954年4月17日、彼は他の5人と共に台北で銃殺されました。罪状は「反体制派の集会と反乱」でした。
 
-## References
+手紙の内容の多くは些細なことでした。稲作をしっかりすること、子供たちの世話をすること、神を信じることなどです。処刑される半年前に書いた手紙には、「もし無事に帰ることができたら、部族のために仕事を続けるつもりだ」とありました。
 
-[^1]: [New Taiwan Peace Foundation: Historical Today — Mr. Chen Chih-hsiung's Victim Day](https://www.twpeace.org.tw/wordpress/?p=2778) — Records the final details of the execution at Matanching on May 28, 1963, including axe chopping feet, iron wire piercing cheeks, and shouting "Long live the independence of Taiwan" in Japanese.
+2013年の世界人権デーに、高一生の息子である高英傑（こう・エイジエ／コー・エイジエ）はこれらの60通の手紙を国家人権博物館に寄贈しました。2020年、文化部は正式に『高一生獄中手紙』を出版しました――これは台湾**先住民の転換正義**における最初の書籍出版成果です[^14]。半世紀を経て、鄒族の人々はついに祖父の最期の声を完全に読むことができたのです。
 
-[^2]: [Liberty Times: 10 Years of White Terror Wrongful Imprisonment / Broadcaster Cui Xiaoping Passes Away](https://news.ltn.com.tw/news/life/paper/1085351) — Cites the official number reported by Chen Shou-huang, then Chief Public Prosecutor of the Ministry of Justice, in the Legislative Yuan's Internal Affairs Committee in 1988: a total of 29,407 criminal cases involving non-active-duty civilians sentenced by military organs during the 38 years of martial law.
+> **📝 編集者のメモ**
+> 高英傑は寄贈式で、「何十年もその手紙を読みましたが、今ようやく理解できました」と語りました。なぜなら、父親が日本語で書いたからです。そして高英傑の一世代は国民政府によって日本語を話すことを禁じられて育ったからです。白色テロリズムは単に一人の鄒族の長老を殺しただけでなく、二世代にわたる共通言語をも断ち切ってしまったのです。父親が書いた文字を息子が理解できない――これが白色テロリズムの最も深い暴力性です。
 
-[^3]: [Transitional Justice Commission Official Website](https://www.tjc.gov.tw/) — Official statistics recording 14,946 political case subjects and 876 confirmed death sentences, with 5,983 guilty verdicts revoked during its four-year term.
+---
 
-[^4]: [Taiwan Truth and Reconciliation Commission: Introduction to White Terror](https://taiwantrc.org/taiwan-history/white-terror-history/) — Independent research institution organizing details of the "Joint Guarantee and Joint Liability System" established by the 1950 "Regulations for Suppression of Bandits and Spies during the Period of Communist Rebellion," and statistics of 1,061 death row prisoners during martial law.
+## なぜこの歴史は終わっていないのか
 
-[^5]: [Storm.MG: White Terror Mainlander Victims Reach 46%! Victim Cai Kuan-yu](https://www.storm.mg/article/487266) — Cites 2017 Executive Yuan estimates that actual victims may exceed 200,000, and presents analysis showing mainlander victims accounted for 46%, overturning general impressions.
+「白色テロリズムは終わった」と言うのは簡単です。1987年の戒厳解除、1991年の反乱処罰条例廃止、1995年の補償基金設立、2018年の転換委員会の活動開始により、国家のシステムが殺人をやめてから38年が経過しています。
 
-[^6]: [Wikipedia: White Terror (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_%28Taiwan%29) — Comprehensive English academic source整理的 monitoring system scale: 7,000-15,000 citizens monitored annually between 1980-2000, 5,000+ informants in university campuses in 1983, and analysis of intelligence archive content.
+しかし、1950年代から80年代に生まれた台湾人の家族史を一つでも開けば、「保証」という二つの単語が頻繁に出てきては途切れます。叔父が保証を拒否したこと、隣人がかつて保証をしたこと、祖父が保証人不足で失業寸前だったこと。その「途切れ」こそが、白色テロリズムが終わっていない場所なのです。
 
-[^7]: [The Reporter: Searching for Political Trauma Survivors — Those Victims, Their Families, and Us](https://www.twreporter.org/a/228-political-victims-families) — In-depth report by Academia Sinica Assistant Researcher Peng Jen-yu interviewing White Terror survivors, recording Chen Meng-he's lifelong trauma case of still believing "there were secret agents at the door" in his final years.
+陳智雄は1963年に馬場町で銃殺されました。高一生は1954年に台北で銃殺されました。施水環は1956年に台北で銃殺されました。彼らの家族がこれらの名前を公に語り始めたのは、半世紀もかかりました。台湾の転換正義は5,983件の有罪判決を取り消し[^3]、記念公園を設立し、記念碑を建てました。
 
-[^8]: [National Human Rights Memory Database: Bo Yang's Popeye Cartoon Case](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — The National Human Rights Museum's victim event database detailing the 1968 case where Bo Yang was sentenced to 12 years for translating the "Popeye" cartoon, and the details of being forcibly detained on Green Island after his sentence expired.
+しかし、大学キャンパスで活動した5,000人以上の線民の子孫たちは今も台湾に住み、働き、投票しています。彼らの父親や祖父が何をしたのかは、清算法（除垢法）によって明確にするよう要求されていません[^6]。いわゆる「過去」は、一度も公的に会計処理されたことがないのです。
 
-[^9]: [Wikipedia: Shih Shui-huan](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Records the complete timeline of Shih Shui-huan's arrest in 1954 due to her brother Shih Chih-cheng hiding for two years and colleagues implicated in the "Post and Telecommunications Branch Case," and her execution on July 24, 1956.
+これは憎しみではなく、帳簿です。白色テロリズムが終わった日とは、戒厳解除の日でもなく、転換委員会が解散した日でもありません。それは、台湾社会が認めざるを得なくなった日なのです。すなわち、200万世帯を相互監視網に変えてしまったあのシステムの痕跡が、私たちが隣人や見知らぬ人、そして「保証」という単語に対して抱く不安の中に刻み込まれている、その時です。
 
-[^10]: [Taiwan Truth and Reconciliation Commission: Shih Shui-huan's Letters Carry the Elegy of White Terror](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — Records complete excerpts and historical background analysis of Shih Shui-huan's 69 letters to her mother written in prison, an important material for studying female victims of White Terror.
+**関連資料：**
 
-[^11]: [Liberty Times: Small File / Lukang Incident Largest White Terror Case](https://news.ltn.com.tw/news/politics/paper/1145206) — Organizes complete data of the Lukang Incident occurring on December 28, 1952, arresting 896 people, sentencing 135, 41 death penalties, compensation of NT$545.63 million, and former Academia Historica Director Chang Yan-hsien interviewing 100+ villagers.
+- [台湾の民主的転換](/ja/history/taiwan-democratization) — 戒厳からアジアで最も自由な民主体制に至る40年間の変遷全貌
+- [戒厳時代](/ja/history/martial-law-era) — 38年間56日という法的な器と戒厳解除の過程
+- [台湾の転換正義](/ja/history/taiwan-transitional-justice) — 解厳後の真実調査と加害者追及の未完の業
+- [国家人権博物館](/ja/history/national-human-rights-museum) — 景美と緑島の二つの白色テロリズム記念公園を運営する機関。6年間の準備から2025年の予算凍結まで
+- [二二八事件](/ja/history/228-incident) — 白色テロリズムの前触れ、1947年の鎮圧が戒厳体制を予感させた経緯
+- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年、白色テロリズム後期における重要な転換点
+- [中央研究院](/society/中央研究院) — 台湾史研究所が出版した『白色記憶』の口述インタビューを行った機関。研究対象をこの島に焦点を移した経緯
+- [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 高一生の山と、先住民が沈黙させられた物語
+- [領収書：1951年、国民全体を税務検査官に変えた紙](/ja/economy/taiwan-uniform-invoice) — 領収書制度の設計者である任顯群（じん・シエンクン／ジェン・シエンクン）自身も同時代を生きており、1955年に「匪諜不報」で投獄。一つの帽子が致命的になり得る。
+- [殷海光](/ja/people/yin-haiguang-liberalism-philosopher) — 1960年の雷震事件後、温州街十八巷に軟禁された台湾大学哲学系の教授であり、台湾リベラリズムの開祖
 
-[^12]: [National Human Rights Museum: New Life Training Center](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — Architectural history and operational details of the Green Island New Life Training Center (1951-1965), including holding 2,000 people, 3 battalions and 12 companies structure, three hours of daily ideological transformation classes, and excerpts from victim Chang Ze-zhou's memoirs.
+## 参考文献
 
-[^13]: [The Reporter: Echoes from a Distant Valley — The Unchosen Tao People and Forgotten Victims](https://www.twreporter.org/a/white-terror-alishan) — In-depth report on Gao Yi-sheng's journey from Alishan Township Mayor to his execution on April 17, 1954, including the 1952 entrapment under the name of the "Mountain Security Conference" and the background of his prison letters.
+[^1]: [新台灣和平基金會：歴史上の今日――陳智雄氏の受難の日](https://www.twpeace.org.tw/wordpress/?p=2778) — 1963年5月28日の馬場町での処刑現場の詳細を記録。斧による足切り、針金による頬刺し、そして日本語での「台湾独立万歳」という叫びを含みます。
 
-[^14]: [Ministry of Culture of the Republic of China: Milestone of Implementing Indigenous Transition Justice _Gao Yi-sheng's Prison Letters_ New Book Published](https://www.moc.gov.tw/information_250_111089.html) — 2020 Ministry of Culture publication news, recording Gao Ying-jie's donation of 60 letters to the National Human Rights Museum on World Human Rights Day in 2013, the process of 7 years of organization and translation, marking the first family letter publication for Indigenous Transition Justice.
+[^2]: [自由時報：白恐の冤罪10年／廣播人崔小萍逝去](https://news.ltn.com.tw/news/life/paper/1085351) — 1988年に法務部主任検察官であった陳守煌が立法府の内政委員会で報告した公式な数字を引用。戒厳38年間で軍事機関が非現役市民に下した刑事事件は合計29,407件でした。
+
+[^3]: [転換正義委員会公式サイト](https://www.tjc.gov.tw/) — 14,946件の政治事件被疑者データと876件の死刑判決を収録。任期中に5,983件の有罪判決を取り消したという公式統計があります。
+
+[^4]: [台湾民間真相と和解促進会：白色テロリズム概論](https://taiwantrc.org/taiwan-history/white-terror-history/) — 独立した民間研究機関であり、1950年『乱政期匪諜検肅条例』によって確立された「連保連坐制度」の運用詳細や、戒厳期間中の死刑1,061人の統計を整理しています。
+
+[^5]: [風傳媒：白色テロリズムの外省被害は46%に達する！犠牲者蔡寬裕](https://www.storm.mg/article/487266) — 2017年の行政院の推計で、実際の犠牲者は20万人を超える可能性があり、外省出身者の割合が46%に上るという一般的な印象を覆す分析を紹介しています。
+
+[^6]: [Wikipedia: White Terror (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_%28Taiwan%29) — 英語圏の学術的資料を総合的に整理した監視システムの規模に関する情報です。1980～2000年で毎年7,000～15,000人の市民が監視され、1983年には大学キャンパスに5,000人以上の線民がいました。治安関連のファイルの内容分析も含まれます。
+
+[^7]: [報道記者：政治的傷跡を探して――犠牲者とその家族、そして私たち](https://www.twreporter.org/a/228-political-victims-families) — 中央研究院の研究員彭仁郁（ぺい・ジェンユー／ペン・ジェンユー）氏が白色テロリズムの生存者に行った深い取材で、陳孟和が晩年まで「門の外に特務がいる」と信じ続けた生涯のトラウマ事例を記録しています。
+
+[^8]: [国家人権記憶庫：柏楊スーパーマン漫画事件](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — 国家人権博物館が設立した犠牲者事案データベースで、1968年に柏楊が『スーパーマン』の翻訳により12年判決を受けた経緯と、刑満後に強制的に緑島に留置された詳細を詳述しています。
+
+[^9]: [Wikipedia: 施水環](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — 施水環に関する百科事典記事で、彼女が弟の施至成が2年間隠れていたことや同僚との関与により「郵便局支部事件」に巻き込まれ逮捕され、1956年7月24日に銃殺された完全な年表を記載しています。
+
+[^10]: [台湾民間真相と和解促進会：施水環の手紙が白色テロリズムの悲歌を伝える](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — 施水環が母親に書いた69通の手紙の全文抜粋とその歴史的背景分析を収録しており、白色テロリズムにおける女性犠牲者を研究する上で重要な資料です。
+
+[^11]: [自由時報：小ファイル／鹿窟事件 最大の白色テロリズム事件](https://news.ltn.com.tw/news/politics/paper/1145206) — 1952年12月28日に発生した鹿窟事件に関する完全なデータ（逮捕者896人、判決者135人、死刑41人、補償金5億4,563万元、元国立史館長張炎憲による100名以上の村人のインタビュー）を整理しています。
+
+[^12]: [国家人権博物館：新生訓導所](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — 緑島新生訓導所（1951-1965年）の建築史と運営の詳細です。2,000人を収容し、3大隊12中隊という編制、毎日の3時間の思想改造授業、犠牲者張則周の回想録からの抜粋が含まれます。
+
+[^13]: [報道記者：遠い谷間のこだま――選択肢のない鄒族の人々と忘れられた犠牲者](https://www.twreporter.org/a/white-terror-alishan) — 阿里山郷長であった高一生が1954年4月17日に銃殺されるまでの経緯を深く取材した記事です。1952年9月の「山地保安会議」という名目の誘捕と、獄中手紙の背景が含まれます。
+
+[^14]: [中華民国文化部：先住民の転換正義を実らせる記念碑『高一生獄中手紙』新刊登場](https://www.moc.gov.tw/information_250_111089.html) — 2020年の文化部の発表で、高英傑が2013年に世界人権デーに60通の手紙を国家人権博物館に寄贈し、7年間の整理翻訳を経て出版された経緯を記録しており、先住民の転換正義における初の獄中手紙出版物です。
