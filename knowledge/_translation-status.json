@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T13:39:26+08:00",
-    "zhCommitHead": "ffac8d2f5",
+    "lastUpdated": "2026-09-22T14:11:31+08:00",
+    "zhCommitHead": "e89bb527a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 911,
+        "fresh": 912,
         "stale": 110,
         "metadata_stale": 29,
-        "missing": 74,
+        "missing": 73,
         "orphan": 0
       },
       "ko": {
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1047,
-        "stale": 55,
+        "fresh": 1049,
+        "stale": 54,
         "metadata_stale": 4,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1052,
+        "fresh": 1054,
         "stale": 48,
-        "metadata_stale": 9,
-        "missing": 15,
+        "metadata_stale": 8,
+        "missing": 14,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 966,
+        "fresh": 967,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 91,
+        "missing": 90,
         "orphan": 0
       },
       "pt": {
@@ -92,17 +92,17 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 993,
+        "fresh": 994,
         "stale": 54,
         "metadata_stale": 14,
-        "missing": 63,
+        "missing": 62,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1035,
+        "fresh": 1036,
         "stale": 33,
-        "metadata_stale": 8,
+        "metadata_stale": 7,
         "missing": 48,
         "orphan": 0
       },
@@ -45632,8 +45632,8 @@
           "sourceContentHash": "sha256:02bd3943b09e813f",
           "sourceBodyHash": "sha256:45fcf1e43c9080d6",
           "translatedAt": "2026-09-22T10:29:40+08:00",
-          "translationLastCommit": "379bbc75",
-          "translationLastModified": "2026-08-04T15:53:12+08:00",
+          "translationLastCommit": "e89bb527",
+          "translationLastModified": "2026-09-22T13:39:26+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 34887,
@@ -45922,7 +45922,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/toll-station.md",
+          "translatedFrom": "Lifestyle/收費站.md",
+          "sourceCommitSha": "09ffe560f",
+          "sourceContentHash": "sha256:cffdc6c150dee65c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T05:47:28.288596+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 43974,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -49872,8 +49884,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-22T10:29:40+08:00",
-          "translationLastCommit": "b0a1dc89",
-          "translationLastModified": "2026-08-04T17:31:59+08:00",
+          "translationLastCommit": "e89bb527",
+          "translationLastModified": "2026-09-22T13:39:26+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 42539,
@@ -80424,19 +80436,17 @@
         "ru": {
           "path": "ru/Nature/formosan-landlocked-salmon.md",
           "translatedFrom": "Nature/櫻花鉤吻鮭.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "f3161f537",
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
-          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translatedAt": "2026-09-22T10:29:40+08:00",
           "translationLastCommit": "f3161f53",
           "translationLastModified": "2026-08-15T16:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 25336,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 29850,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/formosan-landlocked-salmon.md",
@@ -96806,19 +96816,17 @@
         "fr": {
           "path": "fr/People/audrey-tang.md",
           "translatedFrom": "People/唐鳳.md",
-          "sourceCommitSha": "3f1cf835",
-          "sourceContentHash": "sha256:ab17987177c234a0",
-          "sourceBodyHash": "sha256:223451ab2ee89544",
-          "translatedAt": "2026-06-16T17:13:36Z",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:1917aa69dfd8ab97",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T05:46:32.362764+00:00",
           "translationLastCommit": "e75b621d",
           "translationLastModified": "2026-09-10T00:44:33+08:00",
           "inferred": false,
           "footnoteDefs": 44,
-          "bytes": 41929,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -2"
+          "bytes": 53569,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/audrey-tang.md",
@@ -140979,13 +140987,37 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-22T10:29:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 22168,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-22T10:29:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 21966,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -141015,7 +141047,19 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-22T10:29:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 29151,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-soy-sauce.md",
@@ -145303,19 +145347,17 @@
         "es": {
           "path": "es/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-22T10:29:36+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17011,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 17701,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-indigenous-foodways.md",
@@ -149112,7 +149154,19 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/taiwanese-turnip-cake.md",
+          "translatedFrom": "Food/蘿蔔糕.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:bfc99220dad6565a",
+          "sourceBodyHash": "sha256:a28947ebbfc382fe",
+          "translatedAt": "2026-09-22T10:29:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 18593,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwanese-turnip-cake.md",
