@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T16:40:31+08:00",
-    "zhCommitHead": "0a7b2d9af",
+    "lastUpdated": "2026-09-22T17:01:15+08:00",
+    "zhCommitHead": "aea98e744",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1064,
+        "fresh": 1065,
         "stale": 35,
         "metadata_stale": 6,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "ja": {
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1060,
+        "fresh": 1061,
         "stale": 39,
-        "metadata_stale": 7,
+        "metadata_stale": 6,
         "missing": 18,
         "orphan": 0
       },
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1056,
-        "stale": 46,
-        "metadata_stale": 8,
+        "fresh": 1058,
+        "stale": 45,
+        "metadata_stale": 7,
         "missing": 14,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1043,
+        "fresh": 1044,
         "stale": 42,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 17,
         "orphan": 0
       },
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1026,
+        "fresh": 1027,
         "stale": 44,
-        "metadata_stale": 9,
+        "metadata_stale": 8,
         "missing": 45,
         "orphan": 0
       },
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 32,
+        "fresh": 1038,
+        "stale": 31,
         "metadata_stale": 7,
         "missing": 48,
         "orphan": 0
@@ -30811,8 +30811,8 @@
           "sourceContentHash": "sha256:b9e05b9a2ffc12db",
           "sourceBodyHash": "sha256:5412b8ae390af1fa",
           "translatedAt": "2026-09-22T07:04:59.353656+00:00",
-          "translationLastCommit": "40ec0e4f",
-          "translationLastModified": "2026-08-02T14:37:16+08:00",
+          "translationLastCommit": "aea98e74",
+          "translationLastModified": "2026-09-22T16:40:31+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "bytes": 64935,
@@ -56855,8 +56855,8 @@
           "sourceContentHash": "sha256:2a4f80e7fc721f19",
           "sourceBodyHash": "sha256:fc5314c473c1914f",
           "translatedAt": "2026-09-22T07:31:56.252578+00:00",
-          "translationLastCommit": "26d3f390",
-          "translationLastModified": "2026-09-22T00:53:27+08:00",
+          "translationLastCommit": "aea98e74",
+          "translationLastModified": "2026-09-22T16:40:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 58125,
@@ -87188,19 +87188,17 @@
         "ko": {
           "path": "ko/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ff949a14cc54475a",
-          "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-05-02T01:17:15+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eea6e5a10d131ef2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T08:23:31.608827+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 31981,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 33542,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/lin-liang-childrens-literature.md",
@@ -87222,19 +87220,17 @@
         "fr": {
           "path": "fr/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ff949a14cc54475a",
-          "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eea6e5a10d131ef2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T08:23:41.098684+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 34827,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 36003,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/lin-liang-childrens-literature.md",
@@ -103338,19 +103334,17 @@
         "ru": {
           "path": "ru/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-28T08:53:36+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-22T08:41:03.752258+00:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 44859,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 45589,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/jensen-huang.md",
@@ -116033,19 +116027,17 @@
         "vi": {
           "path": "vi/People/hur-plus-band.md",
           "translatedFrom": "People/HUR-plus.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f585a86608bf6a28",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
           "sourceBodyHash": "sha256:396a9fed148c94a2",
-          "translatedAt": "2026-07-26T18:03:58+08:00",
+          "translatedAt": "2026-09-22T14:22:25+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 27615,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "bytes": 28905,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/hur-plus-band.md",
@@ -118175,19 +118167,17 @@
         "pt": {
           "path": "pt/People/chen-shui-bian-controversial-president.md",
           "translatedFrom": "People/陳水扁.md",
-          "sourceCommitSha": "eae11d139",
-          "sourceContentHash": "sha256:9e6735e344733c2b",
+          "sourceCommitSha": "1389f8ce7",
+          "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
-          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translatedAt": "2026-09-22T14:22:26+08:00",
           "translationLastCommit": "3a2cebf9",
           "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 24640,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 25185,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chen-shui-bian-controversial-president.md",
@@ -177606,19 +177596,17 @@
         "fr": {
           "path": "fr/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f621",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-06-16T17:05:54Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-22T14:22:24+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 33643,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 31123,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/data-taiwan-22-cities.md",
@@ -199954,7 +199942,19 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
+          "translatedFrom": "Culture/台灣茶文化.md",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T08:41:14.061560+00:00",
+          "translationLastCommit": "d23e4372",
+          "translationLastModified": "2026-07-24T18:27:02+08:00",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 48362,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
