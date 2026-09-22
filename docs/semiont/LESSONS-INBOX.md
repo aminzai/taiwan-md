@@ -1378,6 +1378,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: structural
 
+### 2026-09-22 twmd-maintainer-am — merged-source-translations-outlive-the-merge：母稿併進旗艦文章後，它的譯文沒有跟著退場，登記表把 translatedFrom 改指倖存者，於是每把尺都說沒事
+
+- **pattern**: `merged-source-translations-outlive-the-merge`
+- **原則**：SSOT 側「兩篇併成一篇」是一個刪除事件，投影層卻只收到一個改址事件。`sync-translations-json.py` 遇到來源消失的譯文，把 `translatedFrom` 改指併入後的旗艦文章、留一個 `originalTranslatedFrom` 記舊名，之後孤兒數永遠是零、status 照常 stale／fresh、slug 尺只在 en 自己撞到第二份時才叫。〈台灣地方小吃地圖〉03-28 併進〈台灣小吃〉、〈台灣能源轉型與綠能產業〉04-04 併進〈台灣氣候危機與淨零轉型〉，兩篇 en 譯文各自多活了六個月，跟旗艦文章的英文版並列成同源雙檔，站上兩個網址講同一件事的兩個舊版本。它們被看見，靠的是 09-19 換上的那把量 en 雙檔的尺，跟「來源沒了」這件事無關。
+- **觸發**：2026-09-22 做 09-19 交來的「en 六組同源雙檔」，六組裡兩組的母稿早在三月與四月就併進旗艦文章。
+- **instances**：
+  - 2026-09-22 twmd-maintainer-am → memory/2026-09-22-\*-twmd-maintainer-am.md（兩篇 en 退場、301 導到旗艦英文版；全庫 `originalTranslatedFrom` 只剩這兩份，家族清空）
+- **修補候選**：(a) REWRITE 整合多篇為一篇時，Stage 5 加一步「舊母稿的譯文一併 `git rm` ＋ 301 導到倖存者的對應譯文」；(b) `sync-translations-json.py` 改址時不該靜默——印一行「N 份譯文的來源已併入 X，待退場」進 refresh 報表，讓它走 REFLEXES #38 (g) 那條「零要說清楚是哪一種零」的通道。
+- **可能層級**：REFLEXES #91（建造與登記是兩個不同步的代謝——這裡是「刪除與登記」）；#82（孤兒數為零是「登記表自洽」的替身，不是「投影層跟上 SSOT」）
+- **相關**：#91、#82、#38 (g)、LESSONS `same-language-slug-collision-is-invisible-to-both-instruments`（09-14）
+- **verification_count**: 1
+- **severity**: structural
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
