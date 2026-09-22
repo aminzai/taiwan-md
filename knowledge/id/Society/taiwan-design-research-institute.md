@@ -29,9 +29,10 @@ rationale:
   where_it_hedges: '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。'
   whos_pushing_back: 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'
 translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:05d29d723ff6a31c'
-translatedAt: '2026-07-30T03:29:03.663455+00:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:68988284647ce5e2'
+sourceBodyHash: 'sha256:f7df18837078b48f'
+translatedAt: '2026-09-22T22:14:33.245021+00:00'
 ---
 
 Ruang tunggu puskesmas di Xizhi, sekarang tampak tidak terlalu seperti puskesmas. Lampu neon, kursi plastik, dan loket pengambilan obat yang tersusun rapat-rapit yang tadinya ada sudah hilang, digantikan oleh satu set modul yang bisa dibongkar-pasang seperti balok-balok, masing-masing satu set untuk tipe perkotaan, tipe kota baru, dan tipe kota kecil/pedesaan. Dinas Kesehatan New Taipei City menghabiskan tiga belas bulan, memulai dari dua titik demonstrasi di Xizhi dan Yingge[^1]. Kamu mungkin tidak memperhatikan hal ini. Kamu pergi vaksin, cek darah tinggi, ambil obat penyakit kronis, alurnya sedikit lebih lancar dari dulu, saat menunggu tidak terlalu gelisah, lalu pergi saja.
@@ -152,12 +153,13 @@ Inilah kondisi yang paling diinginkan, namun paling tidak mendapat tepuk tangan,
 
 Font surat suara yang kamu pegang itu bernama Si Yuan Hei Ti. Kamu besar kemungkinan sampai barusan tidak mengetahuinya. Dan itu, kurang lebih itulah poinnya.
 
-## Bacaan Lebih Lanjut
+## Bacaan Lanjutan
 
-- [Nieh Yen-chen](/people/聶永真) — salah satu desainer grafis paling mewakili Taiwan, tokoh utama kontroversi optimisasi identitas Taipower, nama yang tak terhindarkan dalam diskusi "desain sebagai prestasi kerja".
-- [Transformasi Industri Taiwan Menuju Inovasi](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — keseluruhan kisah dari pulau kontraktor menuju nilai tambah tinggi; taruhan TDRI soal "bentuk apa barang-barang itu" adalah cabang yang jarang dibicarakan di jalur tersebut.
-- [Televisi Publik (PTS)](/society/公視) — sama-sama badan hukum yayasan publik, sama-sama berjalan di atas tali antara "kepublikkan" dan "diuji".
-- [Arsitektur Taiwan](/id/art/taiwanese-architecture) — bidang asli Chang Chi-yi, memahami mengapa seorang arsitek percaya desain ruang bisa mengubah jarak antara pemerintah dan rakyat.
+- [Nie Yongzhen](/people/聶永真) — Salah satu desainer grafis paling representatif di Taiwan, tokoh utama kontroversi optimasi identitas Taipower, dan nama yang tak terhindarkan dalam diskusi "desain sebagai prestasi".
+- [Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Keseluruhan kisah transisi dari pulau manufaktur ke nilai tambah tinggi; apa yang dipertaruhkan oleh Institut Desain adalah salah satu jalur yang jarang dibicarakan.
+- [Televisi Publik](/id/society/pts-public-television-service) — Juga merupakan badan hukum publik, dan juga lembaga yang berjalan di atas tali antara "sifat publik" dan "pengawasan".
+- [Arsitektur Taiwan](/id/art/taiwanese-architecture) — Bidang keahlian Chang Chi-yi; memahami mengapa seorang arsitek percaya bahwa desain ruang dapat mengubah jarak antara pemerintah dan rakyat.
+- [Akademi Sains Negara](/society/中央研究院) — Juga merupakan lembaga penelitian yang didanai negara, berada di bawah Kantor Presiden dan di bawah kementerian, dengan tugas dan pertanyaan yang berbeda.
 
 ## Sumber Gambar
 

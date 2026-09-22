@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T07:19:22+08:00",
-    "zhCommitHead": "db90caffd",
+    "lastUpdated": "2026-09-23T07:52:08+08:00",
+    "zhCommitHead": "c6aa32436",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,24 +76,24 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 31,
+        "fresh": 1056,
+        "stale": 29,
         "metadata_stale": 6,
         "missing": 33,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 987,
-        "stale": 40,
+        "fresh": 988,
+        "stale": 39,
         "metadata_stale": 7,
         "missing": 90,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1011,
-        "stale": 42,
+        "fresh": 1013,
+        "stale": 40,
         "metadata_stale": 11,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 876,
+        "fresh": 878,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 233,
+        "missing": 231,
         "orphan": 0
       }
     },
@@ -4644,20 +4644,18 @@
         "hi": {
           "path": "hi/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-23T05:53:46+08:00",
           "translationLastCommit": "d182e5d8",
           "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 24920,
+          "bytes": 27915,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/mayday-band.md",
@@ -38746,7 +38744,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/chiang-hsien-yi.md",
+          "translatedFrom": "Art/江賢二.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:7881c6e8b38a5fa7",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T22:53:14.375316+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "bytes": 47940,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48584,8 +48595,8 @@
           "sourceContentHash": "sha256:02bd3943b09e813f",
           "sourceBodyHash": "sha256:45fcf1e43c9080d6",
           "translatedAt": "2026-09-23T05:53:46+08:00",
-          "translationLastCommit": "26f47694",
-          "translationLastModified": "2026-08-04T15:55:53+08:00",
+          "translationLastCommit": "c6aa3243",
+          "translationLastModified": "2026-09-23T07:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 43327,
@@ -53124,8 +53135,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-23T05:53:46+08:00",
-          "translationLastCommit": "3950a0ff",
-          "translationLastModified": "2026-08-04T17:30:31+08:00",
+          "translationLastCommit": "c6aa3243",
+          "translationLastModified": "2026-09-23T07:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 54132,
@@ -76800,8 +76811,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-22T22:16:38.360359+00:00",
-          "translationLastCommit": "af273ebd",
-          "translationLastModified": "2026-09-22T01:05:09+08:00",
+          "translationLastCommit": "c6aa3243",
+          "translationLastModified": "2026-09-23T07:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 75674,
@@ -110222,18 +110233,18 @@
         "ar": {
           "path": "ar/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T17:42:37+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-23T05:53:46+08:00",
           "translationLastCommit": "537ac609",
           "translationLastModified": "2026-08-04T19:08:39+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 5106,
+          "footnoteDefs": 9,
+          "bytes": 25711,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/muscle-mountain.md",
@@ -143479,20 +143490,18 @@
         "ar": {
           "path": "ar/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "fdd06c978",
-          "sourceContentHash": "sha256:9e044da79052e1d4",
-          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
-          "translatedAt": "2026-07-29T07:32:36+08:00",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:4084ed4b3480a75a",
+          "sourceBodyHash": "sha256:70f421624b5717be",
+          "translatedAt": "2026-09-22T23:28:06.274090+00:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 60172,
+          "bytes": 61217,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/wu-ming-yi.md",
@@ -150738,20 +150747,18 @@
         "pt": {
           "path": "pt/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-07-25T05:00:10+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-23T05:53:45+08:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10599,
+          "bytes": 10714,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-seafood-culture.md",
@@ -155279,7 +155286,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/gua-bao.md",
+          "translatedFrom": "Food/刈包.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6fe952ad9ad0a5fa",
+          "sourceBodyHash": "sha256:6b2255cbc29cf54c",
+          "translatedAt": "2026-09-23T05:53:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "bytes": 39188,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -178308,8 +178328,8 @@
           "sourceContentHash": "sha256:1c4df7a1034d9237",
           "sourceBodyHash": "sha256:decacb8f3924c150",
           "translatedAt": "2026-09-23T04:15:46+08:00",
-          "translationLastCommit": "af273ebd",
-          "translationLastModified": "2026-09-22T01:05:09+08:00",
+          "translationLastCommit": "c6aa3243",
+          "translationLastModified": "2026-09-23T07:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 57069,
@@ -184521,8 +184541,8 @@
           "sourceContentHash": "sha256:833f85e006d23e04",
           "sourceBodyHash": "sha256:fa90458e0d20dada",
           "translatedAt": "2026-09-23T05:53:46+08:00",
-          "translationLastCommit": "2970062e",
-          "translationLastModified": "2026-08-04T22:48:04+08:00",
+          "translationLastCommit": "c6aa3243",
+          "translationLastModified": "2026-09-23T07:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 39834,
@@ -202997,20 +203017,18 @@
         "pt": {
           "path": "pt/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "d40e50420",
-          "sourceContentHash": "sha256:1d592674c8a22f46",
-          "sourceBodyHash": "sha256:74e768331f7f3a8b",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T23:31:54.018372+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 45097,
+          "bytes": 45300,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/wretch.md",

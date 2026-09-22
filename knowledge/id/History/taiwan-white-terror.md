@@ -1,210 +1,211 @@
 ---
 title: 'Teror Putih Taiwan'
-description: 'Darurat militer selama 38 tahun tidak dipertahankan oleh beberapa ribu agen rahasia, melainkan oleh sistem “jaminan tanggung renteng” yang mewajibkan dua juta keluarga di seluruh Taiwan saling menjamin agar dapat bekerja, bersekolah, dan menikah. Chen Chih-hsiung, Shih Shui-huan, Kao Yi-sheng, Bo Yang—empat nama, empat alasan penangkapan, satu mesin yang sama.'
+description: '38 tahun hukum darurat tidak dipertahankan oleh beberapa ribu agen rahasia, melainkan oleh sistem "jaminan tanggung renteng" yang mewajibkan dua juta keluarga di Taiwan saling menjamin untuk bekerja, sekolah, dan menikah. Chen Chih-hsiung, Shih Shui-huan, Kao Yi-sheng, Bo Yang — empat nama, empat alasan ditangkap, satu mesin yang sama.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '戰後與威權'
 tags:
   [
     'sejarah',
-    'Teror Putih',
-    'darurat militer',
-    'persekusi politik',
+    'teror putih',
+    'hukum darurat',
+    'penganiayaan politik',
     'jaminan tanggung renteng',
     'Pulau Hijau',
-    'Machangting',
+    'Mabatang',
   ]
-readingTime: 11
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '710263a86'
-sourceContentHash: 'sha256:bc916494357a8d5d'
-sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
-translatedAt: '2026-07-18T18:59:53+08:00'
+sourceCommitSha: 'fa44ba5a9'
+sourceContentHash: 'sha256:1c4df7a1034d9237'
+sourceBodyHash: 'sha256:decacb8f3924c150'
+translatedAt: '2026-09-23T05:53:44+08:00'
 ---
 
 # Teror Putih Taiwan
 
-> **Ikhtisar 30 detik:** Dari 1949 hingga 1987—38 tahun 56 hari—sedikitnya terdapat 29.407 perkara pengadilan militer di Taiwan, dengan lebih dari 20.000 korban terkonfirmasi dan perkiraan masyarakat sipil yang mungkin mencapai 140.000 hingga 200.000 orang. Namun, yang memungkinkan sistem ini bertahan selama 38 tahun bukanlah para agen rahasia—jumlah mereka hanya beberapa ribu—melainkan sistem “jaminan tanggung renteng” yang mengharuskan setiap orang di Taiwan mencari tetangga sebagai penjamin untuk bekerja, bersekolah, ataupun menikah. Paman pemilik toko kelontong di lantai bawah rumah Anda adalah kamera pengawas Anda.
+> **Ringkasan 30 detik:** 1949 hingga 1987, 38 tahun 56 hari, Taiwan minimal 29.407 kasus pengadilan militer, lebih dari dua puluh ribu korban terverifikasi, estimasi masyarakat sipil mungkin mencapai 140 ribu hingga 200 ribu orang. Namun yang mempertahankan sistem ini selama 38 tahun bukanlah agen rahasia — agen rahasia hanya berjumlah beberapa ribu; melainkan setiap orang di Taiwan yang ingin bekerja, sekolah, menikah harus mencari tetangga sebagai penjamin dalam sistem "jaminan tanggung renteng". Pak cik yang buka toko kelontong di lantai bawah rumah Anda, itulah pengawas Anda.
 
 ---
 
-Pada pagi hari 28 Mei 1963, di Machangting, Taipei, Chen Chih-hsiung yang berusia 46 tahun diseret keluar dari sel dan dibawa ke tempat eksekusi. Para penjaga Markas Komando Garnisun Taiwan mengetahui bahwa ia akan meneriakkan slogan dengan lantang. Mereka terlebih dahulu menebas telapak kakinya dengan kapak agar ia tidak dapat berdiri, lalu menyumpal mulutnya dengan kain dan menusuk kedua pipinya dengan kawat besi.[^1]
+28 Mei 1963 pagi, Mabatang, Taipei. Chen Chih-hsiung berusia 46 tahun ditarik keluar sel, dibawa ke tempat eksekusi. Prajurit penjaga Komando Keamanan mengetahui dia akan berteriak slogan, terlebih dahulu memotong telapak kakinya dengan kapak agar tidak bisa berdiri, lalu menyumbat mulutnya dengan kain, menusuk kedua pipinya dengan kawat besi.[^1]
 
-Namun, sesaat sebelum tembakan dilepaskan, ia masih berhasil berseru dalam bahasa Jepang: “Hidup orang Taiwan! Hidup Taiwan merdeka!”
+Namun saat sebelum tembakan, dia masih berteriak dalam bahasa Jepang: "Hidup rakyat Taiwan! Merdeka Taiwan!"
 
-Chen Chih-hsiung adalah lulusan Jurusan Bahasa Belanda, Universitas Studi Asing Tokyo, serta mantan pejabat Kementerian Luar Negeri Jepang. Seusai perang, ia kembali ke Taiwan dan terjun ke gerakan kemerdekaan. Pada 1961, ia mendirikan “Perhimpunan Tung-hsin”. Dua tahun kemudian, ia menjadi orang Taiwan pertama yang dieksekusi karena “mendukung kemerdekaan Taiwan” selama 38 tahun masa darurat militer. Enam puluh tahun setelah kematiannya, sekelompok kecil orang masih mengadakan peringatan untuknya setiap 28 Mei. Sebagian besar orang Taiwan tidak mengenal nama ini.
+Chen Chih-hsiung lulusan Jurusan Bahasa Belanda Universitas Bahasa Asing Tokyo, mantan pejabat Kementerian Luar Negeri Jepang, setelah perang kembali ke Taiwan terlibat gerakan kemerdekaan. 1961 ia mendirikan "Tongxin She" (同心社), dua tahun kemudian menjadi orang Taiwan pertama yang dieksekusi karena "menganjurkan kemerdekaan Taiwan" selama 38 tahun hukum darurat. 60 tahun setelah kematiannya, setiap 28 Mei masih ada segelintir orang mengadakan upacara記念会 untuknya. Kebanyakan orang Taiwan tidak kenal nama ini.
 
-Artikel ini membahas mesin yang membawa Chen Chih-hsiung ke Machangting, membuat Shih Shui-huan tewas akibat daftar nama rekan kerjanya di Kantor Pos dan Telekomunikasi Taipei, memancing Kao Yi-sheng turun dari Alishan, dan memenjarakan Bo Yang selama sembilan tahun karena sebuah komik—**Teror Putih tidak dipertahankan oleh orang-orang yang menjalankannya, tetapi oleh sebuah sistem yang mengubah dua juta keluarga di seluruh Taiwan menjadi jaringan pengawasan timbal balik**.
-
----
-
-## Dari 29.407 hingga 140.000—mengapa angkanya tidak pernah cocok
-
-Pada November 1988, satu tahun empat bulan setelah darurat militer dicabut, Kepala Jaksa Kementerian Kehakiman Chen Shou-huang menyampaikan sebuah angka dalam laporannya di Yuan Legislatif: selama 38 tahun darurat militer, lembaga militer menjatuhkan putusan dalam total **29.407 perkara pidana** yang melibatkan warga sipil.[^2]
-
-Inilah pertama kalinya angka resmi diumumkan. Namun, semua peneliti mengetahui bahwa angka tersebut hanyalah puncak gunung es.
-
-| 29.407 perkara                                   | 14.946 entri                                                     | 1.061 orang                         |
-| ------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------- |
-| Perkara pengadilan militer Kementerian Kehakiman | Orang yang diadili dalam basis data Komisi Keadilan Transisional | Eksekusi hukuman mati terkonfirmasi |
-
-“Basis Data Keadilan Transisional Taiwan” yang diluncurkan Komisi Keadilan Transisional pada 2020 memuat data **14.946 orang** yang diadili dalam perkara politik,[^3] sedangkan Asosiasi Kebenaran dan Rekonsiliasi Taiwan mencatat total **1.061 terpidana mati** selama masa darurat militer hingga 2013.[^4] Pada 2017, Yuan Eksekutif juga memperkirakan bahwa jumlah korban sebenarnya mungkin melampaui **200.000 orang**.[^5]
-
-Angka-angka ini tidak akan pernah cocok. Penyebabnya bukan perbedaan metode statistik, melainkan ketidakmungkinan mendata semuanya: arsip tidak mencatat berapa banyak orang yang meninggal saat melarikan diri, dieksekusi secara rahasia, atau dibunuh ketika menolak ditangkap. Tsai Kuan-yu dari Asosiasi Kebenaran dan Rekonsiliasi Taiwan menyatakan bahwa korban waishengren—pendatang dari Tiongkok dan keturunannya yang tiba seusai Perang Dunia II—mencapai 46%.[^5] Angka ini menggugurkan anggapan umum bahwa “Teror Putih adalah tindakan Kuomintang terhadap penduduk asli Taiwan setempat”. Begitu mesin itu bergerak, siapa pun dapat terseret ke dalamnya.
-
-> **⚠️ Sudut pandang kontroversial**
-> Hingga kini, jumlah korban Teror Putih masih merupakan persoalan politik, bukan sekadar persoalan statistik. Kelompok konservatif cenderung memakai angka 29.407 dari Kementerian Kehakiman dan menekankan bahwa sebagian besar kasus dapat ditelusuri. Kelompok pendukung kemerdekaan cenderung memakai angka 140.000 hingga 200.000 dan menekankan bahwa korban di luar catatan resmi tidak mungkin diketahui. Kedua angka itu sebagian benar, sebab “kebenaran” pada masa tersebut memang merupakan sesuatu yang secara sistematis disembunyikan.
+Artikel ini membahas mesin yang mengantarkan Chen Chih-hsiung ke Mabatang, membunuh Shih Shui-huan di daftar rekan kerja Kantor Pos dan Telekomunikasi Taipei, menipu Kao Yi-sheng turun dari Gunung Ali, memenjarakan Bo Yang 9 tahun karena satu strip komik — **Teror Putih tidak dipertahankan oleh siapa yang mengeksekusinya, melainkan oleh sebuah sistem yang mengubah dua juta keluarga di seluruh pulau menjadi jaringan pengawasan timbal balik**.
 
 ---
 
-## Jaminan tanggung renteng—siapa yang mempertahankan darurat militer selama 38 tahun
+## Dari 29.407 ke 140 Ribu — Mengapa Angka Tak Pernya Cocok
 
-Pada tahun Chen Chih-hsiung dieksekusi, penduduk Taiwan berjumlah sekitar 12 juta jiwa. Berapa banyak di antaranya yang merupakan agen rahasia? Berdasarkan perkiraan dari berbagai sumber sejarah, jumlah keseluruhan personel dalam jaringan intelijen dan keamanan—termasuk Markas Komando Garnisun Taiwan, Komando Keamanan, Biro Investigasi, dan Korps Pemuda Penyelamat Nasional—hanya beberapa ribu orang.
+November 1988, empat belas bulan setelah pembebasan hukum darurat, Jaksa Agung Muda Kementerian Hukum Chen Shou-huang melaporkan di Yuan Legislatif sebuah angka: selama 38 tahun hukum darurat, pengadilan militer memutuskan total **29.407 kasus** pidana non-personel militer aktif.[^2]
 
-Lantas, apa yang mempertahankannya selama 38 tahun?
+Ini pertama kali angka resmi dikeluarkan. Tetapi semua peneliti tahu, angka ini hanya ujung gunung es.
 
-**Setiap orang Taiwan yang ingin bekerja, bersekolah, atau menikah harus mencari dua orang yang bersedia menjadi penjamin.**
+| 29.407 kasus                               | 14.946 catatan                                  | 1.061 orang                        |
+| ------------------------------------------ | ----------------------------------------------- | ---------------------------------- |
+| Kasus pengadilan militer Kementerian Hukum | Data korban pengadilan Komisi Transisi Keadilan | Jumlah eksekusi mati terverifikasi |
 
-Sistem ini tercantum dalam _Peraturan Penindakan dan Pembersihan Mata-Mata Komunis pada Masa Penumpasan Pemberontakan_ yang diumumkan pada 1950, dan disebut “sistem jaminan bersama dan tanggung renteng”.[^4] Agar dapat dibebaskan dari penjara, seorang narapidana harus mencari dua penjamin untuk mengisi beberapa surat jaminan. Anak tidak boleh menjamin orang tua; penjamin harus memiliki harta dalam jumlah tertentu; dan selain jaminan pribadi, diperlukan pula jaminan dari badan usaha. Surat jaminan dikirim ke kantor polisi di wilayah domisili untuk diverifikasi, kemudian ke Direktorat Jenderal Kepolisian, lalu ke Biro Hukum Militer Kementerian Pertahanan. Setelah itu barulah penjara menerbitkan surat pembebasan. Jika orang yang dijamin “mengulangi pelanggaran”, penjaminnya turut dimintai pertanggungjawaban.
+"Database Transisi Keadilan Taiwan" Komisi Mendorong Transisi Keadilan yang diluncurkan 2020 mencatat **14.946 catatan** korban kasus politik,[^3] Persatuan Mendorong Kebenaran dan Rekonsiliasi Masyarakat Sipil Taiwan menghitung total narapidana mati selama hukum darurat **1.061 orang** (per 2013).[^4] Yuan Eksekutif 2017 memperkirakan korban aktual mungkin melebihi **200 ribu orang**.[^5]
 
-Mekanisme ini tidak hanya diterapkan pada pembebasan tahanan. Pengangkatan pegawai negeri dan guru, penerimaan sekolah, permohonan ke luar negeri, serta pencatatan perkawinan—setiap tindakan sehari-hari membutuhkan “surat keterangan bersih”, dan untuk mendapatkannya seseorang harus bersedia menjamin Anda.
+Angka-angka ini tak pernah cocok. Bukan karena metode statistik berbeda, melainkan fundamental tidak terhitung: berapa orang mati saat melarikan diri, berapa dieksekusi diam-diam, berapa dibunuh saat menolak ditangkap, arsip tidak akan mencatat. Cai Kuan-yu dari Persatuan Mendorong Kebenaran dan Rekonsiliasi Masyarakat Sipil Taiwan menyatakan, proporsi korban keturunan luar pulau (waishengren) mencapai 46%.[^5] Angka ini menggulingkan kesan umum "Teror Putih sama dengan KMT menindas orang asli pulau (benshengren)". Mesin itu begitu dinyalakan, siapa pun bisa terseret.
 
-> **📝 Catatan kurator**
-> Dalam banyak kartu keluarga Taiwan dari dekade 1950-an hingga 1980-an, terdapat cap merah di samping nama seseorang yang mencantumkan nama, alamat, dan nomor identitas penjaminnya. Jika Anda membuka kartu keluarga lama hari ini, Anda dapat melihat bagaimana hubungan antarkerabat dan tetangga pada masa itu dicatat sebagai tanggung jawab politik. Mengapa tetangga Anda mengingat Anda? Karena ia pernah menjamin Anda. Mengapa paman Anda pernah berhenti berbicara dengan ayah Anda? Karena ia menolak menjadi penjamin ayah Anda. Banyak kebisuan, keretakan, dan kerumitan dalam hubungan keluarga bermula dari selembar surat jaminan.
-
-### Mata di luar jaringan agen rahasia
-
-Selain sistem tanggung renteng, terdapat pula jaringan informan. Pada 1983, kampus-kampus di seluruh Taiwan memiliki lebih dari **5.000 informan**.[^6] Dari 1980 hingga 2000, jumlah warga yang diawasi pemerintah Kuomintang setiap tahun berkisar antara **7.000 dan 15.000 orang**.[^6]
-
-Dalam laporan yang ditulis para informan ini, ada yang mencatat orientasi seksual, perselingkuhan, dan kebiasaan buruk rahasia para pembangkang. Sebagian arsip membahas pemanfaatan “kelemahan psikologis perempuan” untuk menjatuhkan aktor radikal.[^6] Informasi dapat direkayasa, dilebih-lebihkan, atau dijadikan alat perebutan kekuasaan. Namun, begitu masuk ke dalam arsip, informasi itu dianggap benar.
-
-> **✦** “Ada agen rahasia yang mengawasi saya di depan pintu. Saya harus melarikan diri.”—ucapan Chen Meng-ho, penyintas Teror Putih, kepada pengunjung ketika dirawat dalam kondisi sakit parah pada masa tuanya (dikutip dalam laporan _The Reporter_, “Mencari Mereka yang Terluka secara Politik”)
-
-Chen Meng-ho adalah tahanan politik yang dipenjara selama lebih dari sepuluh tahun. Setelah dibebaskan, ia menjadi fotografer dan mengabadikan penyintas lainnya. Namun, 60 tahun kemudian, di ranjang rumah sakit, ia masih percaya bahwa ada agen rahasia di depan pintu.[^7] Kita tidak dapat mengatakan bahwa ingatannya keliru. Keberhasilan terbesar Teror Putih adalah membuat orang mengingatnya seumur hidup.
+> **⚠️ Pandangan Kontroversial**
+> Jumlah korban Teror Putih hingga kini tetap masalah politik, bukan statistik. Golongan konservatif cenderung menggunakan 29.407 Kementerian Hukum, menekankan kebanyakan orang memiliki catatan kasus; golongan pro-kemerdekaan cenderung menggunakan 140 ribu hingga 200 ribu, menekankan ketidaktahuan korban bawah tanah. Dua angka itu sama-sama separuh benar, karena "kenyataan" era itu sendiri adalah barang yang disembunyikan secara sistematis.
 
 ---
 
-## Tiga alasan penangkapan: pemikiran, hubungan, dan nasib
+## Jaminan Tanggung Renteng — 38 Tahun Hukum Darurat Dipertahankan Oleh Siapa
 
-Hal paling menakutkan dari Teror Putih bukanlah adanya standar yang jelas, melainkan ketiadaan standar.
+Tahun Chen Chih-hsiung dieksekusi, populasi Taiwan sekitar 12 juta. Berapa orang agen rahasia? Berdasarkan estimasi berbagai sumber sejarah, personel aktual sistem keamanan termasuk Komando Keamanan, Komando Keamanan Nasional, Biro Penyelidikan, dan Penyelamat Bangsa total beberapa ribu orang.
 
-### Pemikiran: sebuah komik Bo Yang (1968)
+Lalu apa yang mempertahankan 38 tahun?
 
-Pada 3 Januari 1968, halaman keluarga _China Daily News_ menerbitkan komik Amerika _Popeye_ yang diterjemahkan oleh Bo Yang.[^8] Dalam kisah itu, Popeye dan putranya bersama-sama membeli sebuah pulau kecil dan mendirikan negara pribadi di sana. Keduanya kemudian mencalonkan diri sebagai presiden. Dalam terjemahan Bo Yang, si anak berkata kepada Popeye: “Di seluruh negara ini hanya ada kita berdua, kau tahu, bukan!”
+**Dipertahankan oleh setiap orang Taiwan yang ingin bekerja, sekolah, menikah, harus menemukan 2 orang bersedia menjamin.**
 
-Pengadilan militer menilai kalimat itu sebagai sindiran terhadap Chiang Kai-shek dan Chiang Ching-kuo. Bo Yang ditangkap pada 7 Maret dan dijatuhi hukuman 12 tahun oleh pengadilan militer. Setelah Chiang Kai-shek meninggal pada 1975, hukumannya dikurangi menjadi delapan tahun. Namun, pada hari berakhirnya masa hukuman pada Maret 1976, Biro Keamanan Nasional memerintahkan pemindahannya ke Pulau Hijau sebagai “pegawai dalam pengawasan”, sehingga ia tetap ditahan. Ia baru dibebaskan pada April 1977 setelah pemerintah Amerika Serikat menyatakan perhatian atas kasusnya.[^8]
+Sistem ini tertulis dalam "Undang-Undang Pembersihan Mata-Mata Periode Penumpasan Pemberontakan" 1950, disebut "sistem jaminan tanggung renteng".[^4] Narapidana ingin bebas, harus menemukan 2 penjamin mengisi banyak formulir jaminan: anak tidak bisa menjamin orang tua, penjamin harus memiliki harta tertentu, selain jaminan pribadi butuh jaminan usaha. Surat jaminan dikirim ke kantor polisi setempat diverifikasi, lalu ke Kepolisian Pusat, lalu ke Biro Hukum Militer Kementerian Pertahanan, akhirnya penjara mengeluarkan surat bebaskan. Jika orang yang dijamin "kembali berbuat kesalahan", penjamin ikut tertangkap.
 
-Total sembilan tahun 26 hari—karena menerjemahkan sebuah komik Amerika.
+Mekanisme ini tidak hanya untuk keluar penjara. Pengangkatan pegawai negeri/sipil, masuk sekolah, permohonan keluar negeri, pendaftaran pernikahan, setiap tindakan sehari-hari butuh "surat keterangan bersih", dan surat bersih butuh orang menjamin.
 
-> **💡 Tahukah Anda?**
-> Selama sembilan tahun di Pulau Hijau, Bo Yang mendalami _Zizhi Tongjian_ dan merampungkan naskah tiga buku: _Garis Besar Sejarah Bangsa Tionghoa_, _Silsilah Kaisar, Permaisuri, Pangeran, dan Putri Sepanjang Sejarah Tiongkok_, serta _Kronologi Sejarah Tiongkok_. Setelah dibebaskan, ia menghabiskan sepuluh tahun lagi untuk menerjemahkan 72 jilid _Zizhi Tongjian Edisi Bo Yang_. Sel penjara itu mengubahnya dari seorang penerjemah menjadi sejarawan.
+> **📝 Catatan Kurator**
+> Pada daftar kependudukan Taiwan 1950-1980-an, banyak nama di sampingnya ditambahkan cap merah: nama penjamin, alamat, nomor KTP. Membuka buku kependudukan lama hari ini, Anda akan melihat hubungan kerabat tetangga era itu, dicatat dengan cara tanggung jawab politik. Mengapa tetangga Anda ingat Anda, karena dia pernah menjamin Anda; mengapa paman Anda sekian lama tidak bicara dengan ayah Anda, karena dia menolak menjamin ayah Anda. Keheningan, retakan, ikatan rumit keluarga itu, banyak bermula dari satu surat jaminan.
 
-### Hubungan: langit-langit kamar Shih Shui-huan (1954)
+### Mata di Luar Agen Rahasia
 
-Shih Shui-huan lahir di Tainan pada 1926. Setelah lulus dari Sekolah Perempuan Ekonomi Rumah Tangga Tainan, ia bekerja sebagai pegawai di Kantor Pos dan Telekomunikasi Taipei. Pada 1954, usianya 28 tahun.
+Selain sistem tanggung renteng, ada jaringan informan. 1983, kampus universitas se-Taiwan memiliki lebih dari **5.000 informan**.[^6] 1980 hingga 2000, tiap tahun warga yang diawasi pemerintah KMT berkisar **7.000 hingga 15.000 orang**.[^6]
 
-Adiknya, Shih Chih-cheng, adalah mahasiswa Universitas Nasional Taiwan. Setelah terseret dalam “Kasus Cabang Universitas Nasional Taiwan”, ia melarikan diri dan bersembunyi di langit-langit asrama kakaknya di Taipei selama **dua tahun**. Pada 19 Juli 1954, Shih Shui-huan ditangkap karena melindungi adiknya dan karena terseret bersama rekan kerjanya, Chien Ching-chih dan Ting Yao-tiao, dalam “Kasus Cabang Pos dan Telekomunikasi”.[^9] Dua tahun kemudian, pada 24 Juli 1956, ia dieksekusi di Taipei pada usia 30 tahun. Nasib akhir adiknya, Shih Chih-cheng, tetap menjadi misteri.
+Dalam laporan informan ini, ada yang mencatat orientasi seksual penentang, perselingkuhan, kebiasaan buruk rahasia. Ada arsip membahas menggunakan "kelemahan psikologis perempuan" untuk menghancurkan aktor radikal.[^6] Informasi bisa difabrikasi, dibesar-besarkan, dijadikan alat perebutan kekuasaan, tapi sekali masuk arsip, ia jadi kebenaran.
 
-Selama dua tahun di penjara, ia menulis 69 surat kepada ibunya.[^10]
+> **✦** "Di pintu ada agen rahasia mengawasi saya, saya harus lari." — Korban Teror Putih Chen Meng-ho, saat sakit parah di rumah sakit akhir hayat, berkata kepada pengunjung (sumber: liputan 〈Mencari Luka Politik Tersembunyi〉)
 
-> **✦** “Ibu tersayang, entah mengapa malam ini hatiku begitu sedih hingga rasanya sulit bernapas, dan air mata terus menggenang di mataku. Namun, aku tetap menggigit bibir dan berusaha sekuat tenaga menahannya, sebab aku tahu aku tidak seharusnya menangis lagi karena Ibu; itu hanya akan membuat Ibu semakin berduka⋯⋯”—surat Shih Shui-huan dari penjara (dikutip dari “Surat-Surat Shih Shui-huan” oleh Asosiasi Kebenaran dan Rekonsiliasi Taiwan)
-
-Dalam surat terakhirnya, ia menulis: “Setiap pagi, sebagaimana pesan Ibu, aku membaca Alkitab dan berdoa. Semoga anugerah Tuhan turun atas seluruh keluarga kita. Amin!”[^10]
-
-Ia dieksekusi atas dakwaan “bersekongkol dengan komunis”. Pada kenyataannya, kesalahannya adalah memiliki seorang adik yang sedang melarikan diri.
-
-### Nasib: 896 penduduk desa Luk’u (1952)
-
-Pada 28–29 Desember 1952, Kementerian Pertahanan mengerahkan ribuan tentara dan polisi untuk mengepung kawasan pegunungan Luk’u di Kotapraja Shih-ting, Kabupaten Taipei—kini Desa Kuangming, Distrik Shiding, Kota Taipei Baru—dan melancarkan penangkapan besar-besaran terhadap apa yang disebut “Korps Pertahanan Bersenjata Rakyat Taiwan”. Organisasi bawah tanah yang dipimpin Panglima Chen Pen-chiang dan Sekretaris Cabang Chen Chun-ching memang ada saat itu. Namun, sebagian besar penduduk desa yang mereka rekrut sama sekali tidak mengetahui organisasi apa yang telah mereka masuki; sebagian hanya pernah memberi makan para pelarian tersebut.[^11]
-
-Sebanyak 896 orang ditangkap. Dari jumlah itu, 135 dijatuhi hukuman penjara dan 41 dihukum mati.[^11] Ganti rugi yang akhirnya dibayarkan mencapai NT$545,63 juta, dan Control Yuan secara resmi menegur Kementerian Pertahanan.[^11] Inilah perkara politik tunggal terbesar selama masa Teror Putih.
-
-Semasa hidupnya, mantan Direktur Academia Historica Chang Yen-hsien mengunjungi Luk’u dan melakukan wawancara sejarah lisan dengan lebih dari 100 penduduk desa.[^11] Mereka memiliki satu kesamaan: tidak mampu menjelaskan secara utuh “apa yang sebenarnya terjadi pada tahun itu”. Bukan karena mereka lupa, melainkan karena sejak awal mereka tidak pernah benar-benar mengetahuinya. Sebagian baru mengetahui organisasi apa yang dahulu mereka “ikuti” beberapa tahun setelah dibebaskan dari penjara.
-
-> **📝 Catatan kurator**
-> Sebagian latar kisah dalam film _A City of Sadness_ dan _Dust in the Wind_ garapan sutradara Wu Nien-jen terinspirasi oleh Luk’u. Tempat itu kini bernama “Taman Peringatan Insiden Luk’u” dan memiliki sebuah monumen. Pada upacara peringatan 2017, putra pemimpin utama Chen Pen-chiang berkata: “Atas nama ayah saya, saya meminta maaf kepada kalian semua.” Permintaan maaf dari keturunan pelaku merupakan sesuatu yang sangat langka dalam upacara peringatan Teror Putih.
+Chen Meng-ho adalah narapidana politik yang dipenjara lebih sepuluh tahun. Keluar penjara jadi fotografer, meninggalkan gambar bagi korban lain. Tapi 60 tahun kemudian di tempat tidur rumah sakit, dia masih percaya di pintu ada agen rahasia.[^7] Anda tak bisa bilang dia salah ingat. Pencapaian terbesar Teror Putih, adalah membuat orang ingat seumur hidup.
 
 ---
 
-## Tempat tidur di Pulau Hijau dan surat-surat Kao Yi-sheng
+## Tiga Alasan Ditangkap: Pemikiran, Hubungan, Nasib
 
-Pada 1951, sebagian besar tahanan politik dari seluruh Taiwan dikirim ke “Pusat Pendidikan Kembali Narapidana Baru” di Pulau Hijau untuk menjalani indoktrinasi ideologis.[^12] Lembaga ini beroperasi hingga 1965 dan pada puncaknya menahan **2.000 orang**, yang dibagi menjadi tiga batalion dengan 12 kompi; setiap kompi terdiri atas 120 hingga 160 orang.[^12]
+Yang paling menakutkan dari Teror Putih, bukan ia punya standar jelas, justru ia tidak punya.
 
-Para _murid baru_—sebutan umum bagi para tahanan—mengikuti tiga jam pelajaran indoktrinasi setiap hari: ajaran Bapak Pendiri Negara, ucapan dan tindakan pemimpin, Tiga Prinsip Rakyat, kekejaman “bandit komunis”, serta kritik terhadap komunisme. Di luar jam tersebut, mereka bekerja membangun rumah, memperbaiki jalan, dan menanam sayuran.
+### Pemikiran: Satu Strip Komik Bo Yang (1968)
 
-Penyintas Chang Tse-chou kemudian kembali ke barak yang telah direkonstruksi: “Tempat tidur tidak cukup, sehingga banyak orang harus tidur di lantai. Saya sendiri sering terbangun karena terinjak banyak orang ketika tidur di lantai!”[^12]
+3 Januari 1968, edisi keluarga _China Daily_ memuat terjemahan Bo Yang dari strip komik asal Amerika _Popeye_.[^8] Ceritanya: ayah anak Bluto bersama beli pulau kecil, mendirikan negara pribadi, keduaduanya masing-masing maju capres. Terjemahan Bo Yang ada anak berkata ke Popeye: "Seluruh negara cuma kita berdua, kau tahu kan!"
 
-Antara 1953 dan 1956, Pusat Pendidikan Kembali Narapidana Baru juga mengalami apa yang disebut “kasus pemberontakan ulang”: orang-orang yang telah menjalani hukuman di Pulau Hijau dituduh masih membentuk jaringan organisasi di dalam penjara, lalu diadili kembali dan dijatuhi hukuman yang lebih berat.[^12] Akibatnya, sebagian orang dipenjara belasan tahun lebih lama di Pulau Hijau.
+Pengadilan militer menganggap kalimat itu mengutuk dua Chiang. 7 Maret Bo Yang ditangkap, pengadilan militer hukuman 12 tahun. 1975 Chiang Kai-shek meninggal dikurangi jadi 8 tahun, 1976 7 Maret hari habis hukuman, ia justru ditetapkan Biro Keamanan Nasional dipindah ke Pulau Hijau "dipekerjakan sebagai karyawan pengawasan" terus dipenjara. Hingga April 1977, pemerintah AS mengekspresikan kekhawatiran, barulah dibebaskan.[^8]
 
-### Enam puluh surat Kao Yi-sheng
+Total 9 tahun 26 hari. Karena menerjemahkan satu strip komik Amerika.
 
-Kao Yi-sheng (nama Tsou: Uyongu Yatauyungana, 1908–1954) adalah pemimpin masyarakat adat Tsou di Alishan, musikus, pendidik, dan kepala kotapraja pertama yang dipilih rakyat di Kotapraja Wufeng—kini Kotapraja Alishan. Pada 10 September 1952, ia diperdaya agar turun dari Alishan melalui umpan berupa “Konferensi Keamanan Daerah Pegunungan”, kemudian ditahan di Rumah Tahanan Hukum Militer, Jalan Qingdao Timur Nomor 3, Taipei.[^13]
+> **💡 Tahukah Anda**
+> 9 tahun Bo Yang di Pulau Hijau, giat belajar _Zizhi Tongjian_, menyelesaikan tiga naskah _Sejarah Ringkas Orang Tionghoa_, _Sistem Keluarga Kaisar-Kaisar Dinasti Tionghoa_, _Tabel Kronologi Sejarah Tionghoa_. Keluar penjara lagi habiskan sepuluh tahun menerjemahkan _Versi Bo Yang Zizhi Tongjian_ 72 jilid. Sel penjara itu mengubah dia dari seorang penerjemah jadi sejarawan.
 
-Selama dua tahun di penjara, ia menulis 60 surat dalam bahasa Jepang kepada keluarganya di Alishan.[^13] Pada 17 April 1954, ia dieksekusi bersama lima orang lainnya di Taipei. Dakwaannya adalah “mengadakan pertemuan mata-mata komunis untuk melakukan pemberontakan”.
+### Hubungan: Langit-langit Shih Shui-huan (1954)
 
-Sebagian besar isi surat itu adalah perkara sehari-hari: menanam padi dengan baik, merawat anak-anak, dan percaya kepada Tuhan. Enam bulan sebelum dieksekusi, ia menulis: “Jika aku dapat pulang dengan selamat, aku ingin terus bekerja untuk masyarakat suku kita.”
+Shih Shui-huan lahir 1926 di Tainan, lulus Sekolah Perempuan Tata Rumah Tainan, kerja di Kantor Pos dan Telekomunikasi Taipei. 1954 ia berusia 28 tahun.
 
-Pada Hari Hak Asasi Manusia Sedunia 2013, putra Kao Yi-sheng, Kao Ying-chieh, menyumbangkan 60 surat tersebut kepada Museum Nasional Hak Asasi Manusia. Pada 2020, Kementerian Kebudayaan secara resmi menerbitkan _Surat-Surat Kao Yi-sheng dari Penjara_—buku pertama yang terbit sebagai hasil dari **keadilan transisional bagi masyarakat adat Taiwan**.[^14] Setengah abad kemudian, masyarakat Tsou akhirnya dapat membaca secara utuh suara pemimpin mereka menjelang akhir hayatnya.
+Adiknya Shih Chih-cheng mahasiswa Universitas Taiwan, terlibat "Kasus Cabang Universitas Taiwan" lalu melarikan diri, bersembunyi di langit-langit kosan Taipei Shih Shui-huan, **sembunyi dua tahun**. 19 Juli 1954, Shih Shui-huan karena melindungi adik, ditambah rekan kerja Chien Ching-chih, Ding Yao-yao terlibat "Kasus Cabang Pos dan Telekomunikasi" ditangkap.[^9] Dua tahun kemudian, 24 Juli 1956, ia dieksekusi di Taipei, meninggal dunia usia 30 tahun. Adik Shih Chih-cheng akhirnya nasib misteri.
 
-> **📝 Catatan kurator**
-> Dalam upacara penyerahan surat, Kao Ying-chieh mengatakan bahwa ia telah membaca surat-surat itu selama puluhan tahun, tetapi baru sekarang merasa benar-benar memahaminya. Ayahnya menulis dalam bahasa Jepang, sedangkan generasi Kao Ying-chieh dibesarkan di bawah pemerintahan Kuomintang yang melarang penggunaan bahasa Jepang. Teror Putih bukan hanya membunuh seorang pemimpin Tsou, tetapi juga memutus bahasa bersama antara dua generasi. Seorang anak tidak dapat memahami tulisan ayahnya sendiri—itulah salah satu bentuk kekerasan Teror Putih yang paling mendalam.
+Dua tahun di penjara, ia menulis 69 surat untuk ibu.[^10]
+
+> **✦** "Ibu sayang, malam ini tak tahu kenapa, hati sedih tak bisa bernapas, air mata terus berputar di mata. Tapi aku tetap mengigit bibir keras keras menahan, karena aku tahu aku tidak seharusnya lagi nangis untuk Ibu, itu hanya akan membuat Ibu lebih sedih⋯⋯" — Surat dari penjara Shih Shui-huan (sumber: Persatuan Mendorong Kebenaran dan Rekonsiliasi Masyarakat Sipil Taiwan 〈Surat Shih Shui-huan〉)
+
+Surat terakhir, ia tulis: "Setiap pagi seperti pesan Ibu, aku baca Alkitab dan berdoa. Semoga kasih karunia Tuhan turun ke seluruh keluarga kami, Amin!"[^10]
+
+Dia dieksekusi dengan tuduhan "berkomunikasi dengan mata-mata". Sebenarnya, dosanya hanya punya adik yang melarikan diri.
+
+### Nasib: 896 Penduduk Lukang (1952)
+
+28 hingga 29 Desember 1952, Kementerih Pertahanan menggerakkan ribuan tentara polisi, mengepung daerah pegunungan Lukang, Kecamatan Shiding, Kabupaten Taipei (sekarang Desa Guangming, Kecamatan Shiding, Kota Baru Taipei), geledah besar-besaran yang disebut "Pasukan Pertahanan Rakyat Taiwan". Komandan utama Chen Pen-chiang, Sekretaris Cabang Chen Chun-ching memimpin organisasi bawah tanah memang ada, tapi sebagian besar penduduk yang mereka seret tidak tahu sendiri bergabung apa, ada cuma kasih makan sepiring nasi untuk orang melarikan diri.[^11]
+
+Ditangkap 896 orang. Dihukum 135 orang, mati 41 orang.[^11] Uang kompensasi akhirnya dibayar 545,63 juta yuan, Yuan Pengawas mengoreksi Kementerian Pertahanan.[^11] Ini kasus politik skala terbesar era Teror Putih.
+
+Mantan Direktur Museum Sejarah Nasional Chang Yen-hsien saat hidup mengunjungi Lukang, wawancara lisan 100 lebih penduduk.[^11] Ciri bersama penduduk: mereka tidak bisa jelas bercerita "tahun itu akhirnya terjadi apa". Bukan karena lupa, karena dari awal tidak benar-benar tahu. Beberapa orang sampai keluar penjara beberapa tahun baru tahu organisasi apa yang dulu "diikutinya".
+
+> **📝 Catatan Kurator**
+> Bagian dari film _Kota Kemenangan_ dan _Kecintaan di Kota Debu_ sutradara Wu Nien-jen berasal dari Lukang. Tempat itu sekarang disebut "Taman Peringatan Peristiwa Lukang", ada batu peringatan. 2017, anak pelaku utama Chen Pen-chiang di upacara peringatan berkata: "Menggantikan ayah saya minta maaf ke semua orang." Keturunan pelaku meminta maaf, ini sangat langka dalam upacara peringatan Teror Putih.
 
 ---
 
-## Mengapa sejarah ini belum berakhir
+## Tempat Tidur Pulau Hijau dan Surat Kao Yi-sheng
 
-Mudah untuk mengatakan bahwa “Teror Putih telah berlalu”. Darurat militer dicabut pada 1987, _Undang-Undang Penghukuman Pemberontakan_ dihapus pada 1991, yayasan kompensasi didirikan pada 1995, dan Komisi Keadilan Transisional mulai beroperasi pada 2018. Sudah 38 tahun mesin negara tidak lagi membunuh orang.
+1951, sebagian besar narapidana politik se-Taiwan dikumpulkan ke Pulau Hijau "Kantor Pelatihan Hidup Baru" untuk pemikiran ulang.[^12] Lembaga ini ada sampai 1965, puncaknya menahan **2.000 orang**, tersusun 3 batalyon besar 12 pasukan, tiap pasukan 120 hingga 160 orang.[^12]
 
-Namun, bukalah riwayat keluarga orang Taiwan mana pun yang lahir antara dekade 1950-an dan 1980-an. Ketika sampai pada halaman tentang orang tua mereka, istilah “menjadi penjamin” sering muncul, lalu disusul jeda. Pamannya menolak menjadi penjamin. Tetangganya pernah menjamin seseorang. Kakeknya nyaris kehilangan pekerjaan karena tidak mempunyai penjamin. Jeda itulah tempat Teror Putih belum berakhir.
+"Hidup Baru" (narapidana disebut seragam "Hidup Baru") tiap hari 3 jam pelajaran pemikiran ulang: Warisan Bapak Bangsa, Ucapan Perilaku Pemimpin, Tiga Prinsip Rakyat, Kekejaman Partai Komunis, Kritikan Komunisme. Waktu lain kerja: bangun rumah, perbaiki jalan, tanam sayur.
 
-Chen Chih-hsiung dieksekusi di Machangting pada 1963. Kao Yi-sheng dieksekusi di Taipei pada 1954. Shih Shui-huan dieksekusi di Taipei pada 1956. Keluarga mereka membutuhkan setengah abad sebelum berani menyebut nama-nama tersebut di muka umum. Keadilan transisional Taiwan telah membatalkan 5.983 putusan bersalah,[^3] mendirikan taman peringatan, dan membangun monumen.
+Korban Chang Tse-chou kemudian kembali ke barak yang dibangun ulang: "Tempat tidur tidak cukup, banyak orang harus tidur di lantai, saya sering dibangunin karena dikinjak orang banyak!"[^12]
 
-Namun, keturunan 5.000 informan kampus itu masih hidup, bekerja, dan memberikan suara di Taiwan. Tidak ada undang-undang lustrasi yang mengharuskan mereka menjelaskan apa yang pernah dilakukan ayah atau kakek mereka.[^6] Apa yang disebut “masa lalu” tidak pernah diperiksa secara terbuka.
+1953 hingga 1956, Kantor Pelatihan Hidup Baru juga terjadi "Kasus Pemberontakan Lagi": orang yang sudah menjalani hukuman di Pulau Hijau, dituduh di penjara terus menyusun organisasi, lagi diadili, lagi dihukum lebih berat.[^12] Ada yang इसलिए di Pulau Hijau tambah belasan tahun.
 
-Ini bukan kebencian, melainkan buku besar catatan. Hari berakhirnya Teror Putih bukanlah hari ketika darurat militer dicabut, juga bukan hari ketika Komisi Keadilan Transisional dibubarkan. Hari itu baru akan tiba ketika masyarakat Taiwan bersedia mengakui bahwa sistem yang mengubah dua juta keluarga menjadi jaringan pengawasan timbal balik tersebut masih meninggalkan jejak dalam kegelisahan kita terhadap tetangga, orang asing, dan istilah “menjadi penjamin”.
+### 60 Surat Kao Yi-sheng
 
-**Bacaan lanjutan**:
+Kao Yi-sheng (nama suku Tsou: Uyongu Yatauyungana, 1908-1954) pemimpin suku Tsou Gunung Ali, musisi, pendidik, Kepala Distrik Wu Feng (sekarang Kecamatan Alishan) pertama terpilih rakyat. 10 September 1952, ia dibawa turun gunung dengan tipu "Rapat Keamanan Pegunungan", ditahan di Ruang Tahanan Pengadilan Militer Nomor 3 Jalan Qingdao Timur, Taipei.[^13]
 
-- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Gambaran utuh transisi selama empat dekade, dari darurat militer menuju sistem demokrasi paling bebas di Asia
-- [Masa Darurat Militer](/id/history/martial-law-era) — Kerangka hukum selama 38 tahun 56 hari serta proses pencabutan darurat militer
-- [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Penyelidikan kebenaran dan upaya pertanggungjawaban pelaku yang belum tuntas setelah pencabutan darurat militer
-- [Museum Nasional Hak Asasi Manusia](/history/國家人權博物館) — Lembaga yang mengelola dua taman peringatan Teror Putih di Jingmei dan Pulau Hijau, dari enam tahun persiapan hingga pembekuan anggaran pada 2025
-- [Insiden 28 Februari](/history/二二八事件) — Pendahuluan Teror Putih: bagaimana penindasan pada 1947 menjadi pertanda lahirnya rezim darurat militer
-- [Insiden Formosa](/history/美麗島事件) — Titik balik penting pada penghujung masa Teror Putih pada 1979
-- [Alishan: Hutan Kekaisaran dan Gunung Kao Yi-sheng](/id/history/alishan-empire-forest-and-uongu-yatauyungana) — Kisah gunung Kao Yi-sheng dan pembungkaman masyarakat etnisnya
-- [Faktur: Selembar Kertas Tahun 1951 yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak](/economy/發票) — Perancang sistem faktur, Jen Hsien-chun, juga hidup pada masa yang sama. Pada 1955, ia dipenjara dengan tuduhan “mengetahui keberadaan komunis tetapi tidak melaporkannya”; satu cap politik saja cukup untuk menghancurkan hidup seseorang
-- [Yin Hai-kuang](/id/people/yin-haiguang-liberalism-philosopher) — Profesor filsafat Universitas Nasional Taiwan dan perintis liberalisme Taiwan yang dikenai tahanan rumah di Gang 18, Jalan Wenzhou, setelah Kasus Lei Chen pada 1960
+Dua tahun di penjara, ia menulis 60 surat dalam bahasa Jepang dikirim ke Gunung Ali.[^13] 17 April 1954, ia bersama 5 orang lain dieksekusi di Taipei. Tuduhan "pertemuan pemberontakan mata-mata".
+
+Isi surat kebanyakan hal sepele: suruh tanam padi baik, urus anak, percaya Tuhan. Setengah tahun sebelum dieksekusi ia tulis: "Jika bisa pulang dengan selamat, saya mau terus bekerja untuk suku."
+
+Hari HAM Sedunia 2013, anak Kao Yi-sheng Kao Ying-chieh menyumbangkan 60 surat ini ke Museum HAM Nasional. 2020 Kementerian Kebudayaan resmi menerbitkan _Surat-surat Penjara Kao Yi-sheng_ — ini buku pertama hasil **transisi keadilan suku asli Taiwan** yang diterbitkan.[^14] Setengah abad kemudian, orang Tsou baru bisa baca penuh suara pemimpin suku saat menunggu mati.
+
+> **📝 Catatan Kurator**
+> Kao Ying-chieh di upacara penyerahan berkata, dia baca surat-surat itu puluhan tahun, baru sekarang baca mengerti — karena ayah menulis dalam bahasa Jepang, sedangkan generasi Kao Ying-chieh dibesarkan dilarang bicara Jepang oleh pemerintah nasionalis. Teror Putih tidak hanya membunuh seorang pemimpin Tsou, tapi memutus bahasa bersama dua generasi. Ayah menulis huruf anak tidak baca mengerti, ini bentuk kekerasan paling dalam Teror Putih.
+
+---
+
+## Mengapa Sejarah Ini Belum Berakhir
+
+Bilang "Teror Putih sudah lewat" mudah. 1987 bebaskan hukum darurat, 1991 hapus Undang-Undang Penumpasan Pemberontakan, 1995 didirikan Yayasan Kompensasi, 2018 Komisi Transisi Keadilan beroperasi, mesin negara tidak lagi membunuh sudah 38 tahun.
+
+Tapi buka sejarah keluarga sembarang orang Taiwan lahir 1950-1980-an, buka halaman orang tuanya, dua kata "menjamin" sering muncul, lalu berhenti sejenak. Paman menolak jamin, tetangga dulu menjamin, kakek luar karena tidak ada penjamin hampir kehilangan pekerjaan. Jeda itu, adalah tempat Teror Putih belum berakhir.
+
+Chen Chih-hsiung 1963 dieksekusi di Mabatang. Kao Yi-sheng 1954 dieksekusi di Taipei. Shih Shui-huan 1956 dieksekusi di Taipei. Keluarga mereka butuh setengah abad baru berani sebut nama mereka terbuka. Transisi keadilan Taiwan membatalkan 5.983 putusan bersalah,[^3] mendirikan taman peringatan, bangun monumen.
+
+Tapi keturunan 5.000 informan kampus universitas itu masih hidup, kerja, pilih di Taiwan. Ayah atau kakek mereka dulu lakukan apa, tidak ada undang-undang pembersihan yang meminta mereka jelaskan.[^6] Yang disebut "masa lalu", tidak pernah ada pembukuan terbuka.
+
+Ini bukan dendam, ini pembukuan. Hari Teror Putih berakhir, bukan hari bebaskan hukum darurat, bukan hari Komisi Transisi Keadilan bubar. Tapi saat masyarakat Taiwan mau mengakui: sistem yang mengubah dua juta keluarga jadi jaring pengawasan timbal balik, bekasnya masih terukir di ketidaknyamanan kita terhadap tetangga, terhadap orang asing, terhadap dua kata "menjamin".
+
+**Bacaan Lanjutan**:
+
+- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Panorama 40 tahun transisi dari hukum darurat ke demokrasi paling bebas Asia
+- [Masa Hukum Darurat](/id/history/martial-law-era) — Wadah hukum 38 tahun 56 hari dan proses pembebasan hukum darurat
+- [Transisi Keadilan Taiwan](/id/history/taiwan-transitional-justice) — Penyelidikan kebenaran dan penegakan hukum pelaku yang belum selesai pasca pembebasan hukum darurat
+- [Museum HAM Nasional](/id/history/national-human-rights-museum) — Lembaga dua taman peringatan Teror Putih Jingmei dan Pulau Hijau, dari 6 tahun persiapan hingga anggaran 2025 dibekukan
+- [Peristiwa 228](/id/history/228-incident) — Pembuka Teror Putih, penindasan 1947 bagaimana meramalkan rezim hukum darurat
+- [Peristiwa Formosa](/id/history/kaohsiung-incident-formosa-incident) — Titik balik penting akhir Teror Putih 1979
+- [Akademi Sinica](/society/中央研究院) — Lembaga yang menerbitkan _Kenangan Putih_ wawancara lisan oleh Institut Sejarah Taiwan, dan titik balik arah penelitian ke pulau ini
+- [Gunung Ali: Hutan Kayu Kekaisaran dan Gunung Kao Yi-sheng](/id/history/alishan-empire-forest-and-uongu-yatauyungana) — Gunung dan suku Kao Yi-sheng yang dibisukan
+- [Faktur: 1951 Kertas Itu yang Mengubah Seluruh Rakyat Jadi Inspektur Pajak](/economy/發票) — Perancang sistem faktur Ren Xian-qun juga hidup di era sama, 1955 dipenjara karena "tahu mata-mata tidak lapor", satu topi cukup mematikan
+- [Yin Hai-guang](/id/people/yin-haiguang-liberalism-philosopher) — Profesor Filsafat Universitas Taiwan yang 1960 pasca kasus Lei Zhen dibebekukan di Lorong 18 Jalan Wenzhou, pelopor liberalisme Taiwan
 
 ## Referensi
 
-[^1]: [New Taiwan Peace Foundation: Hari Ini dalam Sejarah—Hari Gugurnya Chen Chih-hsiung](https://www.twpeace.org.tw/wordpress/?p=2778) — Mencatat detail saat-saat terakhir dalam eksekusi di Machangting pada 28 Mei 1963, termasuk penebasan kaki dengan kapak, penusukan pipi dengan kawat, dan seruan “Hidup Taiwan merdeka” dalam bahasa Jepang.
+[^1]: [Yayasan Perdamaian Taiwan Baru: Hari Ini dalam Sejarah — Hari Korban Tuan Chen Chih-hsiung](https://www.twpeace.org.tw/wordpress/?p=2778) — Mencatat detail saat akhir eksekusi Mabatang 28 Mei 1963, termasuk kapak memotong kaki, kawat menusuk pipi, dan berteriak bahasa Jepang "Merdeka Taiwan".
 
-[^2]: [Liberty Times: Sepuluh Tahun Dipenjara secara Tidak Adil dalam Teror Putih／Penyiar Tsui Hsiao-ping Meninggal karena Sakit](https://news.ltn.com.tw/news/life/paper/1085351) — Mengutip angka resmi yang dilaporkan Kepala Jaksa Kementerian Kehakiman saat itu, Chen Shou-huang, kepada Komite Dalam Negeri Yuan Legislatif pada 1988: selama 38 tahun darurat militer, lembaga militer menjatuhkan putusan dalam 29.407 perkara pidana yang melibatkan warga sipil.
+[^2]: [Liberty Times: Penjara Keadilan Putih 10 Tahun / Penyiar Radio Cui Xiao-ping Meninggal](https://news.ltn.com.tw/news/life/paper/1085351) — Mengutip angka resmi 1988 dari Jaksa Agung Muda Kementerian Hukum saat itu Chen Shou-huang di rapat Komite Dalam Negeri Yuan Legislatif: 38 tahun hukum darurat pengadilan militer memutuskan kasus pidana non-personel militer aktif total 29.407 kasus.
 
-[^3]: [Situs Resmi Komisi Keadilan Transisional](https://www.tjc.gov.tw/) — Memuat data 14.946 orang yang diadili dalam perkara politik, 876 putusan hukuman mati terkonfirmasi, serta statistik resmi pembatalan 5.983 putusan bersalah selama empat tahun masa kerja komisi.
+[^3]: [Situs Resmi Komisi Mendorong Transisi Keadilan](https://www.tjc.gov.tw/) — Mencatat 14.946 catatan data korban kasus politik dan 876 putusan mati terverifikasi, serta statistik resmi 4 tahun masa jabatan membatalkan putusan bersalah 5.983 kasus.
 
-[^4]: [Asosiasi Kebenaran dan Rekonsiliasi Taiwan: Pengantar Teror Putih](https://taiwantrc.org/taiwan-history/white-terror-history/) — Lembaga penelitian sipil independen yang merangkum cara kerja “sistem jaminan bersama dan tanggung renteng” yang dibentuk melalui _Peraturan Penindakan dan Pembersihan Mata-Mata Komunis pada Masa Penumpasan Pemberontakan_ tahun 1950, serta statistik 1.061 hukuman mati selama masa darurat militer.
+[^4]: [Persatuan Mendorong Kebenaran dan Rekonsiliasi Masyarakat Sipil Taiwan: Pengantar Teror Putih](https://taiwantrc.org/taiwan-history/white-terror-history/) — Lembaga penelitian mandiri masyarakat sipil, menyusun detail operasional "sistem jaminan tanggung renteng" yang dibangun _Undang-Undang Pembersihan Mata-Mata Periode Penumpasan Pemberontakan_ 1950, serta statistik 1.061 narapidana mati selama hukum darurat.
 
-[^5]: [Storm Media: Korban Waishengren dalam Teror Putih Mencapai 46%! Penyintas Tsai Kuan-yu](https://www.storm.mg/article/487266) — Mengutip perkiraan Yuan Eksekutif pada 2017 bahwa jumlah korban sebenarnya mungkin melampaui 200.000 orang, sekaligus menyajikan analisis yang menggugurkan anggapan umum dengan menunjukkan bahwa korban waishengren mencapai 46%.
+[^5]: [Feng Media: Korban Luar Pulau Teror Putih Capai 46%! Korban Cai Kuan-yu](https://www.storm.mg/article/487266) — Mengutip data estimasi Yuan Eksekutif 2017 korban aktual mungkin melebihi 200 ribu, serta analisis proporsi korban keturunan luar pulau 46% yang menggulingkan kesan umum.
 
-[^6]: [Wikipedia: White Terror (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_%28Taiwan%29) — Merangkum skala sistem pengawasan berdasarkan berbagai sumber akademis berbahasa Inggris: 7.000–15.000 warga diawasi setiap tahun antara 1980 dan 2000, terdapat lebih dari 5.000 informan di kampus pada 1983, serta analisis mengenai isi arsip intelijen.
+[^6]: [Wikipedia: Teror Putih (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_%28Taiwan%29) — Ringkasan sumber akademik bahasa Inggris: skala sistem pengawasan 1980-2000 tiap tahun 7.000-15.000 warga diawasi, 1983 kampus universitas 5.000+ informan, serta analisis isi arsip keamanan.
 
-[^7]: [The Reporter: Mencari Mereka yang Terluka secara Politik—Para Korban, Keluarga Mereka, dan Kita](https://www.twreporter.org/a/228-political-victims-families) — Laporan mendalam dari wawancara Asisten Peneliti Academia Sinica Peng Jen-yu dengan para penyintas Teror Putih, termasuk kasus trauma seumur hidup Chen Meng-ho yang pada masa tuanya masih meyakini bahwa “ada agen rahasia di depan pintu”.
+[^7]: [The Reporter: Mencari Luka Politik Tersembunyi — Korban, Keluarga Mereka, dan Kita](https://www.twreporter.org/a/228-political-victims-families) — Laporan mendalam peneliti asistensi Akademi Sinica Peng Ren-yu wawancara korban Teror Putih, mencatat kasus Chen Meng-ho akhir hayat masih percaya "di pintu ada agen rahasia" trauma seumur hidup.
 
-[^8]: [Bank Memori Hak Asasi Manusia Nasional: Kasus Komik Popeye Bo Yang](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — Basis data peristiwa korban yang dibangun Museum Nasional Hak Asasi Manusia, dengan uraian terperinci mengenai vonis 12 tahun terhadap Bo Yang pada 1968 karena menerjemahkan komik _Popeye_, serta penahanan paksa di Pulau Hijau setelah masa hukumannya berakhir.
+[^8]: [Arsip Memori HAM Nasional: Kasus Komik Popeye Bo Yang](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — Database peristiwa korban Museum HAM Nasional, rinci proses 1968 Bo Yang karena menerjemahkan komik _Popeye_ dihukum 12 tahun, serta detail habis hukuman dipaksa ditahan di Pulau Hijau.
 
-[^9]: [Wikipedia: Shih Shui-huan](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Mencatat kronologi lengkap penangkapan Shih Shui-huan pada 1954 akibat menyembunyikan adiknya, Shih Chih-cheng, selama dua tahun dan keterlibatan rekan kerjanya dalam “Kasus Cabang Pos dan Telekomunikasi”, hingga eksekusinya pada 24 Juli 1956.
+[^9]: [Wikipedia: Shih Shui-huan](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Mencatat Shih Shui-huan 1954 karena adik Shih Chih-cheng sembunyi dua tahun dan rekan kerja terlibat "Kasus Cabang Pos dan Telekomunikasi" ditangkap, 24 Juli 1956 dieksekusi, kronologi lengkap.
 
-[^10]: [Asosiasi Kebenaran dan Rekonsiliasi Taiwan: Surat-Surat Shih Shui-huan Memuat Ratapan Teror Putih](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — Memuat kutipan lengkap dari 69 surat yang ditulis Shih Shui-huan kepada ibunya dari penjara beserta analisis latar sejarahnya; sumber penting untuk penelitian mengenai perempuan korban Teror Putih.
+[^10]: [Persatuan Mendorong Kebenaran dan Rekonsiliasi Masyarakat Sipil Taiwan: Surat Shih Shui-huan Membawa Lagu Sedih Teror Putih](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — Mencatat 69 surat penjara Shih Shui-huan ke ibu lengkap dengan analisis latar sejarah, materi penting penelitian korban perempuan Teror Putih.
 
-[^11]: [Liberty Times: Arsip Ringkas／Insiden Luk’u, Kasus Teror Putih Terbesar](https://news.ltn.com.tw/news/politics/paper/1145206) — Merangkum data lengkap Insiden Luk’u pada 28 Desember 1952: 896 orang ditangkap, 135 dijatuhi hukuman penjara, 41 dihukum mati, kompensasi sebesar NT$545,63 juta, serta wawancara mantan Direktur Academia Historica Chang Yen-hsien dengan lebih dari 100 penduduk desa.
+[^11]: [Liberty Times: Arsip Kecil / Peristiwa Lukang Kasus Teror Putih Terbesar](https://news.ltn.com.tw/news/politics/paper/1145206) — Merangkum peristiwa Lukang 28 Desember 1952, ditangkap 896 orang, dihukum 135 orang, mati 41 orang, kompensasi 545,63 juta, mantan Direktur Museum Sejarah Nasional Chang Yen-hsien wawancara 100+ penduduk data lengkap.
 
-[^12]: [Museum Nasional Hak Asasi Manusia: Pusat Pendidikan Kembali Narapidana Baru](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — Sejarah bangunan dan rincian operasional Pusat Pendidikan Kembali Narapidana Baru di Pulau Hijau (1951–1965), termasuk penahanan 2.000 orang, pembagian tiga batalion dan 12 kompi, tiga jam indoktrinasi setiap hari, serta kutipan memoar penyintas Chang Tse-chou.
+[^12]: [Museum HAM Nasional: Kantor Pelatihan Hidup Baru](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — Sejarah bangunan dan detail operasional Pulau Hijau Kantor Pelatihan Hidup Baru (1951-1965), termasuk menahan 2.000 orang, 3 batalion 12 pasukan, tiap hari 3 jam pelajaran pemikiran ulang, kutipan kenangan korban Chang Tse-chou.
 
-[^13]: [The Reporter: Gema dari Lembah yang Jauh—Masyarakat Tsou yang Tidak Memiliki Pilihan dan Para Korban yang Terlupakan](https://www.twreporter.org/a/white-terror-alishan) — Laporan mendalam mengenai perjalanan Kao Yi-sheng dari kepala Kotapraja Alishan hingga dieksekusi pada 17 April 1954, termasuk penjebakannya pada September 1952 dengan dalih “Konferensi Keamanan Daerah Pegunungan” dan latar belakang surat-suratnya dari penjara.
+[^13]: [The Reporter: Gaung Lembah Jauh — Orang Tsou Tanpa Pilihan dan Korban Terlupakan](https://www.twreporter.org/a/white-terror-alishan) — Laporan mendalam Kao Yi-sheng dari Kepala Distrik Gunung Ali hingga 17 April 1954 dieksekusi, termasuk 10 September 1952 tipu "Rapat Keamanan Pegunungan" dan latar surat-surat penjara.
 
-[^14]: [Kementerian Kebudayaan Republik Tiongkok (Taiwan): Tonggak Pelaksanaan Keadilan Transisional Masyarakat Adat—Terbitnya Buku Baru _Surat-Surat Kao Yi-sheng dari Penjara_](https://www.moc.gov.tw/information_250_111089.html) — Pengumuman penerbitan oleh Kementerian Kebudayaan pada 2020 yang mencatat penyerahan 60 surat oleh Kao Ying-chieh kepada Museum Nasional Hak Asasi Manusia pada Hari Hak Asasi Manusia Sedunia 2013, diikuti tujuh tahun penyusunan dan penerjemahan hingga diterbitkan sebagai buku surat pertama dalam kerangka keadilan transisional masyarakat adat.
+[^14]: [Kementerian Kebudayaan RRT: Milestone Transisi Keadilan Suku Asli _Surat-surat Penjara Kao Yi-sheng_ Terbit](https://www.moc.gov.tw/information_250_111089.html) — Berita terbitan Kementerian Kebudayaan 2020, mencatat Kao Ying-chieh Hari HAM Sedunia 2013 menyumbangkan 60 surat ke Museum HAM Nasional, lewat 7 tahun penyusunan terjemahan terbit, sebagai buku pertama hasil transisi keadilan suku asli.
