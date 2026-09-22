@@ -1,32 +1,32 @@
 ---
-title: 'Revistas de Taiwán: de 《自由中國》 a 《巧連智》, una historia de lectura hojeada y luego desplazada en pantalla'
-description: 'En 1960, Lei Zhen fue encarcelado diez años por 《自由中國》; en 2024, 《巧連智》, que acompañó durante 35 años a 1,83 millones de hogares, dejó de aceptar suscripciones en papel; en 2025, la edición china de 《讀者文摘》 cerró tras 60 años desde su fundación. Lo que los lectores taiwaneses antes hojeaban, ahora se desliza página por página en pantalla.'
+title: 'Revistas de Taiwán: desde «China Libre» hasta «Qiaolianzhi», una historia de lectura que se hojeaba y ahora se desliza'
+description: "En 1960, Lei Chen fue encarcelado durante diez años por «China Libre»; en 2024, «Qiaolianzhi», que acompañó a 1,83 millones de hogares durante 35 años, dejó de ofrecer suscripción en papel; en 2025, la edición china de «Reader's Digest» se apagó tras 60 años de publicación. Lo que los lectores taiwaneses hojeaban, ahora se desliza página a página."
 date: 2026-05-11
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '出版與媒體'
 tags:
   [
-    'revistas de Taiwán',
-    'historia de los medios',
-    'transformación digital',
-    '自由中國',
-    '美麗島',
-    '天下雜誌',
-    '壹週刊',
-    '讀者文摘',
-    '巧連智',
-    'movimiento Tangwai',
+    'Revistas de Taiwán',
+    'Historia de los medios',
+    'Transformación digital',
+    'China Libre',
+    'Formosa',
+    'Revista CommonWealth',
+    'Revista Next',
+    "Reader's Digest",
+    'Qiaolianzhi',
+    'Movimiento Tangwai',
   ]
-readingTime: 14
+subcategory: '出版與媒體'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-11
 lastHumanReview: false
-featured: false
+readingTime: 14
 translatedFrom: 'Culture/雜誌.md'
-sourceCommitSha: '9b5cb286e'
-sourceContentHash: 'sha256:9006089787032015'
-sourceBodyHash: 'sha256:d3e99a5c4124d826'
-translatedAt: '2026-05-12T21:49:55+08:00'
+sourceCommitSha: 'e0fa60041'
+sourceContentHash: 'sha256:ee59ed48db607f3f'
+sourceBodyHash: 'sha256:26d93e9626e6b86e'
+translatedAt: '2026-09-21T23:20:56.067490+00:00'
 ---
 
 # Revistas de Taiwán: de 《自由中國》 a 《巧連智》, una historia de lectura hojeada y luego desplazada en pantalla

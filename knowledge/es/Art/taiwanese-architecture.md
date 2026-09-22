@@ -1,19 +1,20 @@
 ---
-title: 'Arquitectura taiwanesa'
-description: 'De las casas de pizarra a los rascacielos: un viaje arquitectónico a través del tiempo en una isla'
+title: 'Arquitectura de Taiwán'
+description: 'Un viaje a través del tiempo arquitectónico de una isla, desde casas de piedra hasta rascacielos'
 date: 2026-03-28
-author: 'Taiwan.md'
 category: 'Art'
+tags: ['arquitectura', 'cultura', 'historia', 'indígena', 'dominio japonés']
 subcategory: '建築'
-tags: ['建築', '文化', '歷史', '原住民', '日治']
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-28
 lastHumanReview: true
-featured: true
+revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'eac12cd9'
-sourceContentHash: 'sha256:211251c042500a3e'
-sourceBodyHash: 'sha256:41c2c3ee5e118612'
-translatedAt: '2026-07-03T16:37:27Z'
+sourceCommitSha: 'd520299ba'
+sourceContentHash: 'sha256:af80f0616e9c061e'
+sourceBodyHash: 'sha256:a2382584d5d27df7'
+translatedAt: '2026-09-21T23:04:00.981117+00:00'
 ---
 
 # Arquitectura taiwanesa: un poema tridimensional de convergencia cultural
@@ -117,17 +118,17 @@ La Escuela de Magia Verde de la Universidad Nacional de Cheng Kung, completada e
 
 La arquitectura tradicional de los pueblos indígenas de Taiwán también está siendo reevaluada en este contexto. Las casas de pizarra nunca fueron un «método de vivienda antiguo no ecológico», sino un sistema de adaptación al clima local extremadamente sofisticado. En los últimos años, investigadores y diseñadores han comenzado a sistematizar el conocimiento arquitectónico de pueblos como los Paiwan, Rukai y Puyuma, intentando traducir estas intuiciones termodinámicas acumuladas durante milenios al vocabulario de la arquitectura moderna. Arquitectos como Kris Yao y You-Han Lin también exploran, en sus respectivas prácticas, los puntos de encuentro entre lo local taiwanés y el vocabulario global: sin imitar a maestros extranjeros ni copiar símbolos tradicionales, sino partiendo de su propio territorio, su propio clima y su propia forma de vida, para encontrar un lenguaje arquitectónico que solo puede crecer en Taiwán.
 
-## El eco arquitectónico de una isla
+## La resonancia arquitectónica de una isla
 
-Desde cualquier punto elevado de la ciudad de Taipéi, se puede contemplar simultáneamente el tiempo arquitectónico de tres siglos: oficinas gubernamentales de ladrillo rojo de la era colonial japonesa, torres de agua de apartamentos de la década de 1970, edificios de oficinas con fachadas de cristal de los años 90, y a lo lejos, el contorno de un tallo de bambú de 508 metros. Esta superposición temporal existe en muchas ciudades del mundo, pero la versión taiwanesa es especialmente densa, especialmente desordenada, especialmente parecida a las huellas dejadas por una isla que, en pocos siglos, probó todo lo posible.
+Desde cualquier punto elevado en la ciudad de Taipéi, puedes observar tres siglos de tiempo arquitectónico a la vez: los edificios de ladrillo rojo del período colonial japonés, las torres de agua de los apartamentos de la década de 1970, los rascacielos de muro cortina de la década de 1990 y el perfil de bambú a 508 metros en la distancia. Esta superposición temporal existe en muchas ciudades del mundo, pero la versión de Taiwán es particularmente densa, especialmente desordenada, como si fuera la huella que deja una isla tras haber probado absolutamente todo en pocos siglos.
 
-Matsunosuke Moriyama dejó la gramática del imperio, Wang Da-hong trajo de vuelta el espíritu de la arquitectura moderna, Toyo Ito sacó a relucir el potencial de los artesanos taiwaneses con sus 58 muros curvos, y Sheng-Yuan Huang nos recuerda entre los arrozales de Yilan que la arquitectura no es solo cobijo, sino una forma de cambiar la manera en que las personas ven el mundo. Y en las montañas profundas de Wutai, en Pingtung, en un Kucapungane deshabitado, las losas de pizarra siguen en su lugar, el hogar de fuego se ha enfriado, y los miembros del pueblo dicen que los ancestros de allí aún no se han marchado.
+Shinzō Moriyama dejó la gramática del imperio, Wang Da-hong trajo el espíritu de la arquitectura moderna, Toyo Ito forzó el potencial del artesano taiwanés con un muro curvo de 58 caras, y Huang Cheng-yuan nos recordó en los campos de arroz de Yilan que la arquitectura no es solo refugio, sino una forma de cambiar la manera en que las personas ven el mundo. En la profunda montaña de Wutai, Pingtung, hay una antigua casa de té abandonada; aún quedan las losas y la hoguera está fría, y los miembros del clan dicen que los espíritus ancestrales todavía no se han ido de allí.
 
-La historia de la arquitectura de Taiwán no es una línea recta, sino más bien múltiples ríos que confluyen en un mismo territorio: a veces se mezclan, a veces chocan, pero ninguno desaparece del todo. Cada época trajo un nuevo lenguaje arquitectónico, y cada lenguaje dejó detalles visibles solo al acercarse, en las juntas de ladrillo, en los tejados, en los muros curvos. Ante la arquitectura de Taiwán, ese aroma que se percibe es el rastro de una vida realmente vivida, la acumulación de siglos de existencia humana, no un paisaje construido para ser exhibido.
+La historia arquitectónica de Taiwán no es una línea recta, sino más bien varias corrientes de ríos convergiendo en la misma tierra: a veces mezclándose, otras chocando, pero sin que ninguna desaparezca por completo. Cada época ha traído un nuevo lenguaje arquitectónico, y cada lenguaje deja detalles en las juntas de ladrillo, los tejados y los muros curvos que solo se pueden ver al acercarse. Al enfrentarse a la arquitectura de Taiwán, lo que sientes es el olor del uso real, la acumulación de vidas durante cientos de años, no un paisaje construido para ser exhibido.
 
-**Lectura complementaria**:
+**Lectura adicional**:
 
-- [Sensibilidad taiwanesa: la estética taiwanesa a ojos de los coreanos](/es/culture/taiwanese-sensibility) — Los ventanales de hierro, los portales (騎樓) y las fachadas de edificios antiguos: cómo estos elementos arquitectónicos se convirtieron en el núcleo visual de la «대만감성» coreana
+- [Sensibilidad taiwanesa: ¿tenemos que esperar a que los coreanos le den "me gusta" para decir que nuestra casa antigua es bonita?](/es/culture/taiwanese-sensibility) — El contexto arquitectónico detrás de las rejas de hierro, los pórticos y las fachadas de apartamentos; los taiwaneses han vuelto a ver estas casas antiguas antes que la "감성" coreana en doce años.
 
 ## Referencias
 

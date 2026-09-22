@@ -1,52 +1,68 @@
 ---
-title: 'Cheng Chou-yu: el poeta errante que escribió «Error» y acabó avecindado en Kinmen'
-description: 'En 1955, a los 22 años, Cheng Chou-yu escribió en *Sueño sobre la tierra* el verso «El trotar de mis cascos es un hermoso error», y los lectores taiwaneses lo leyeron como poesía amorosa durante setenta años. Pero en sus últimos años aclaró que en realidad era un poema antibélico, inspirado en la escena de su madre esperando en el continente durante la guerra sin que su padre regresara del frente. En 2005 se retiró de Yale y regresó a Taiwán, trasladando su registro de hogar al domicilio de un pariente de la familia Cheng en el condado de Kinmen. El 13 de junio de 2025, a las 4:44 de la madrugada, falleció en Estados Unidos por insuficiencia cardíaca, a los 91 años de edad.'
+title: "Cheng Chou-yu: El vagabundo que escribió 'Error' y finalmente se estableció en Kinmen"
+description: 'A los 22 años, en 1955, Cheng Chou-yu escribió "Mis cascos de caballo son un hermoso error" en *Tierra de Sueños*, y los lectores taiwaneses lo leyeron como poesía romántica durante setenta años. Sin embargo, más tarde aclaró que era poesía antiwar, describiendo la escena de una madre esperando a su padre en el continente durante la guerra. En 2005, se jubiló de Yale y regresó a Taiwán, registrándose en el registro familiar de parientes de la familia Cheng en Kinmen. Falleció a causa de insuficiencia cardíaca en Estados Unidos a las cuatro y cuarenta y cuatro de la madrugada del 13 de junio de 2025, a la edad de 91 años.'
 date: 2026-05-24
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'literatura',
+    'poeta',
+    'poesía moderna',
+    'primera generación posguerra',
+    'modernismo',
+    'Kinmen',
+    'Yale',
+    'Chi Hsien',
+  ]
 subcategory: '文學與詩人'
-tags: ['文學', '詩人', '現代詩', '戰後第一代', '現代派', '金門', '耶魯', '紀弦']
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-24
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/鄭愁予.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:7c0bf67bc5769db3'
-sourceBodyHash: 'sha256:84e6ff9ee9820120'
-translatedAt: '2026-06-16T17:05:07Z'
+researchReport: 'reports/research/2026-05/taiwan-poets-2-postwar-modernism.md'
 image: '/article-images/people/zheng-chouyu-portrait-2017.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif'
+sporeLinks:
+  - id: 86
+    platform: 'threads'
+    date: '2026-05-24'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYt_TMpE2WV'
+translatedFrom: 'People/鄭愁予.md'
+sourceCommitSha: 'cce7f2522'
+sourceContentHash: 'sha256:05733d2c54bfc625'
+sourceBodyHash: 'sha256:77382e9a08c09f18'
+translatedAt: '2026-09-21T22:31:45.867664+00:00'
 ---
 
 # Cheng Chou-yu: el poeta errante que escribió «Error» y acabó avecindado en Kinmen
 
 > **Resumen en 30 segundos**: Nació el 4 de diciembre de 1933 en Jinan, Shandong, con el nombre real Zheng Wentao, descendiente de la familia de Ninghe, Hebei. En 1949 llegó a Taiwán con su familia; a los 16 años publicó por su cuenta su primer poemario, _Sandalias de paja y balsa_. En 1955, a los 22 años, publicó «Error» en _Sueño sobre la tierra_: «El trotar de mis cascos es un hermoso error / No soy quien regresa, soy el que pasa» se convirtió en la memoria literaria compartida de las generaciones taiwanesas de los 80 a los 2000 — pero Cheng Chou-yu aclaró en sus últimos años que en realidad era un poema antibélico, sobre una madre esperando el regreso de su padre durante la guerra. En 1956 participó en la reunión de los nueve miembros de la Escuela Modernista de Ji Xian. En 1968 viajó a Estados Unidos al Taller de Escritores de la Universidad de Iowa, y posteriormente enseñó durante largo tiempo en el Departamento de Lenguas y Literaturas Asiáticas Orientales de la Universidad de Yale. En 2005 se retiró de Yale y regresó a Taiwán, trasladando su registro de hogar al domicilio de su pariente Zheng Fengsheng en el condado de Kinmen, donde fue el primer profesor invitado de la Universidad de Kinmen y solía caminar solo por la costa del lago Ci. El 13 de junio de 2025, a las 4:44 de la madrugada (hora de Estados Unidos), falleció por insuficiencia cardíaca, a los 91 años de edad [^1] [^2] [^11].
 
-## «El trotar de mis cascos es un hermoso error» es en realidad un poema antibélico
+## «El trotar de mis cascos es un hermoso error» fue en realidad un poema anti-guerra
 
-Probablemente leíste «Error» en la escuela secundaria o el bachillerato. En 1995, la Comisión Nacional de Compilación de Textos lo incluyó en el libro de texto de lengua china de bachillerato [^3], y toda una generación de estudiantes taiwaneses memorizó estos versos antes del examen de ingreso a la universidad:
+Probablemente hayas leído el poema 〈错误〉 (Error) en la escuela secundaria o preparatoria. En 1995, la Biblioteca Nacional de Traducción lo incluyó en los libros de texto de chino avanzado [^3], y toda una generación de niños de Taiwán lo memorizó antes del examen de ingreso universitario:
 
-> Pasé caminando por Jiangnan
-> Ese rostro que espera en la estación se abre y cierra como la flor de loto
+> Yo caminé por Jiangnan
+> Los rostros que esperaban en las estaciones son como el florecer y caída de los lirios
 >
-> El viento del este no llega, en marzo los sauces no sueltan su pelusa
-> Tu corazón es una pequeña ciudad solitaria
-> Como una calle de piedra verde que se extiende al anochecer
-> No suena un paso, en marzo no se levanta el cortinón de primavera
-> Tu corazón es una pequeña ventana firmemente cerrada
+> El viento oriental no llega, los luquillos de marzo no vuelan
+> Tu corazón es como una ciudad pequeña y solitaria
+> Justo cuando la calle de piedra se pone al anochecer
+> Los pasos no resuenan, el telón primaveral de marzo no se levanta
+> Tu corazón está cerrado en una ventana pequeña
 >
 > El trotar de mis cascos es un hermoso error
-> No soy quien regresa, soy el que pasa... [^4]
+> Yo no soy alguien que regrese, soy un pasajero⋯⋯ [^4]
 
-La lectura estándar en los libros de texto lo trataba como un «poema de queja de alcoba»: en una pequeña ciudad de Jiangnan, una mujer espera el regreso de un viajero lejano, confunde el sonido lejano de cascos con el regreso de su amado, descubre que es un transeúnte y su esperanza se desmorona. Las imágenes clásicas (flor de loto, calle de piedra verde, cortinón de primavera, ventana) están dispuestas con orden, el ritmo es ligero y suena como una versión moderna de las formas líricas de la poesía clásica china. En la sección de análisis del examen se escribiría: sentimiento del poeta errante / tema de la mujer que espera / modernización del motivo tradicional de la queja de alcoba.
+La lectura estándar del libro de texto lo clasifica como un «poema de lamento nupcial» (閨怨詩): una mujer en una pequeña ciudad de Jiangnan esperando el regreso de un viajero lejano, creyendo erróneamente que los cascos lejanos son su esposo volviendo, solo para descubrir que es un pasajero y desear la ilusión. Los motivos clásicos (lirios, calles de piedra, telón primaveral, ventanas) están dispuestos con orden, el ritmo es ligero, y al leerlo parece una versión moderna de un _ci pai_ clásico. La sección de análisis del examen diría: sentimientos errantes / tema de la esposa anhelante / modernización del tema tradicional del lamento nupcial.
 
-Cheng Chou-yu mismo aclaró esta lectura en una entrevista en 2010. Dijo que el verdadero trasfondo de «Error» era la guerra de resistencia contra Japón, y que escribió sobre los días en que su madre lo llevaba de un lugar a otro por las provincias del continente, sin poder esperar el regreso de su padre del frente [^5]. Su padre luchaba en el frente, entre la vida y la muerte; su madre «se convirtió en el factor más fundamental para la escritura de este poema». El sonido de cascos era el paso de tropas, «quien regresa» era el padre que no volvía, «el que pasa» eran las tropas que pasaban de largo. Todo el poema no habla del anhelo entre amantes, sino de un niño de ocho o nueve años que veía a su madre escuchar cada día los pasos afuera, escucharlos y volver a decepcionarse, y esa memoria se fue acumulando hasta convertirse en un poema.
+Cheng Chou-yu aclaró esta interpretación en una entrevista en 2010. Dijo que el verdadero contexto de 〈错误〉 era la guerra contra Japón, y que escribía sobre los días en que su madre vagaba por las provincias continentales con él mientras esperaba a su padre, quien estaba en el frente [^5]. El padre luchaba en el frente y su destino era desconocido; la madre «se convirtió en el factor más fundamental para escribir este poema». Los cascos eran el sonido del ejército, el «regresante» era el padre que no volvía, y el «pasajero» era la tropa que pasaba. Todo el poema no trata sobre la añoranza de un amante, sino sobre la memoria de un niño de ocho o nueve años que escucha los pasos afuera todos los días con su madre, y después se decepciona; esa memoria se ha acumulado en un poema.
 
-Pero esta lectura de «poema antibélico» la mayoría de los profesores de lengua china en las escuelas secundarias taiwanesas nunca la enseñaron. Un poema escrito hace setenta años, el propio autor sale a decir «todos lo han leído mal», y el libro de texto sigue imprimiéndose con el marco de la queja de alcoba. Cheng Chou-yu en vida no tuvo mayor problema con esto; en la entrevista dijo con calma: una vez que un poema se escribe, ya no pertenece al autor, cada lector lee su propia versión.
+Pero esta interpretación como «poema anti-guerra» no fue enseñada por la mayoría de los profesores de literatura secundaria en Taiwán. Un poema escrito durante setenta años, y el autor mismo dice: «Todos lo leen mal», pero el libro de texto sigue imprimiendo el marco del lamento nupcial. Cheng Chou-yu no tuvo gran problema con esto en vida; dijo con calma en una entrevista: una vez que se escribe un poema, ya no pertenece al autor; cada lector lee su propia versión.
 
-Lo irónico de este asunto es que un poema antibélico se difundió como poesía amorosa durante setenta años; y quien lo llevó al público más amplio fue otra industria: la música pop en mandarín. En la década de 1980, Li Taixiang musicalizó «Error», y fue interpretado por Qi Yu, Pan Yueyun y Tang Xiaoshi [^6]. Lo Dayou, Chen Jiannian, Wu Bai y Zhao Yonghua también usaron poemas de Cheng Chou-yu para componer canciones. La difusión de la música pop metió este poema en los oídos de cada generación de taiwaneses. La hija de Li Taixiang, Li Ruoling, publicó un mensaje de duelo al fallecer Cheng Chou-yu: «Los amigos de papá en el cielo se están volviendo cada vez más animados.»[^6]
+La ironía de este asunto es la siguiente: un poema anti-guerra fue transmitido como un poema romántico durante setenta años; y quien lo impulsó a la gran audiencia fue otra industria: la música popular en chino. En la década de 1980, Li Taixiang musicalizó 〈错误〉, y Qi Yu, Pan Yueyun y Tang Xiaoshi lo cantaron [^6]. Luo Dayou, Chen Jiannian, Wu Bai y Zhao Yonghua también escribieron canciones con los poemas de Cheng Chou-yu. La popularidad de la música pop introdujo este poema en los oídos de cada generación de taiwaneses. Li Ruoling, hija de Li Taixiang, escribió un tributo cuando falleció Cheng Chou-yu: «Los buenos amigos de papá se están volviendo más animados en el cielo». [^6]
 
 ## De dónde vienen las palabras «Chou-yu»
 
@@ -58,42 +74,42 @@ Cheng Chou-yu era descendiente de Ninghe, Hebei, y nació el 4 de diciembre de 1
 
 El poeta Xiao Xiao lo evaluó así: «La poesía de Cheng posee el sentimiento más tradicional de la poesía clásica, y la brevedía de sus poemas es precisamente la esencia de la poesía china.»[^7] La evaluación de su contemporáneo Ya Xian es más evocadora: «El encanto etéreo y al mismo tiempo reservado de Cheng Chou-yu, su imaginación poética soñadora y al mismo tiempo luminosa, su melodía suave, su ritmo envolvente, y ese tono aristocrático, oriental, de una ligera melancolía, crean un encanto semejante a las nubes.»[^7] Estas dos evaluaciones juntas permiten entender por qué versos a medio camino entre lo clásico y lo moderno como los de «Error» tuvieron tanta capacidad de identificación en la década de 1950. En aquella época, la poesía moderna dominante intentaba escribir con la sintaxis más occidentalizada y más intelectual; Cheng Chou-yu fue en dirección contraria, puliendo las imágenes clásicas hasta convertirlas en el tejido de la poesía moderna.
 
-## Aquella pequeña reunión de 1956: los nueve de la Escuela Modernista de Ji Xian
+## La pequeña reunión de 1956: los nueve modernistas
 
-El momento clave de la entrada de Cheng Chou-yu en el panorama poético taiwanés fue el 15 de enero de 1956. Ese día, Ji Xian convocó la «Primera Conferencia Anual de Poetas de la Escuela Modernista» en el Centro de Actividades para Grupos Ciudadanos de Taipéi, y nueve personas acudieron: Ji Xian, Ye Ni, Cheng Chou-yu, Luo Xing, Yang Yunda, Lin Ling, Ji Hong, Lin Hengtai y Shang Qin (algunas fuentes presentan ligeras variaciones en la lista de los nueve)[^8]. El producto de la reunión fueron los seis principios de _El credo de la Escuela Modernista_, entre los cuales el segundo es el más famoso:
+El momento clave en la entrada de Cheng Chou-yu al panorama poético de Taiwán fue el 15 de enero de 1956. Ese día, Ching-te celebró la «Primera asamblea de poetas modernistas» en el Centro de Actividades Ciudadanas de Taipéi, y asistieron nueve personas: Ching-te, Yeh Ni, Cheng Chou-yu, Luo Xing, Yang Yun-ta, Lin Ling, Ji Hong, Lin Heng-tai y Shang Qin (aunque la lista de los nueve difiere ligeramente más adelante) [^8]. El producto de esta reunión fueron las seis cláusulas del _Credo modernista_, siendo la segunda la más conocida:
 
-> Consideramos que la nueva poesía es un trasplante horizontal, no una herencia vertical.
+> Creemos que el nuevo poema es un trasplante horizontal, no una herencia vertical.
 
-Las cuatro palabras «trasplante horizontal» desencadenaron directamente el debate de dos años que comenzó en 1957, cuando Zeng Zihao publicó _¿Hacia dónde va la nueva poesía?_ en _Blue Star Poetry_ y Ji Xian respondió con un artículo [^8]. El punto de disputa era: la nueva poesía de la posguerra en Taiwán, ¿debía conectarse con la sangre del modernismo occidental a partir de Baudelaire (la postura de Ji Xian), o deben continuar la raíz lírica de la tradición poética clásica china (la postura de Zeng Zihao)?
+Estas cuatro palabras, «trasplante horizontal», desencadenaron directamente la disputa de dos años en 1957 con _Xinshi Xiang He Chu Qu?_ (¿Hacia dónde va el nuevo poema?), publicado por Tan Tzu-hao en _Anthology of Blue Star_, y la réplica escrita por Ching-te [^8]. El punto de contención era: ¿debe el nuevo poema de Taiwán después de la guerra tomar su linaje del modernismo occidental a partir de Baudelaire (la tesis de Ching-te), o debe continuar la raíz lírica desde la tradición poética clásica china (la tesis de Tan Tzu-hao)?
 
-Detrás de este debate estaba en realidad el profundo problema de la ruptura de 1949: ¿se podía seguir heredando la tradición de la nueva poesía continental «contaminada» por el comunismo? ¿El modernismo occidental era un sustituto o una salida? Ambas partes abordaban la cuestión real de «cómo regenerar la modernidad en lengua china». No hubo ganador, pero el eje «trasplante horizontal vs. herencia vertical» se convirtió desde entonces en el formato temático más fundamental de la poética de la poesía moderna taiwanesa; prácticamente todos los debates poéticos posteriores (el ataque de Tang Wenbiao contra la oscuridad de la poesía moderna en 1972, el debate sobre la literatura rural en 1977, los debates posmodernos de los 80) fueron variaciones de este eje [^8].
+Detrás de esta disputa se encontraba un problema profundo generado por la fractura de 1949: ¿puede heredar el nuevo poema de la tradición continental «contaminada» por los comunistas? ¿Es el modernismo occidental una alternativa o una salida? Ambas partes estaban tratando el verdadero problema de «cómo regenerar la modernidad china». No hubo un ganador, pero este eje de «trasplante horizontal vs. herencia vertical» se convirtió en el formato más fundamental del estudio moderno poético de Taiwán; casi todas las posteriores disputas poéticas (la crítica de Ching-te a la oscuridad del nuevo poema en 1972, la disputa sobre la literatura regionalista en 1977, la disputa posmoderna de los años 80) fueron variaciones de este eje [^8].
 
-Cheng Chou-yu fue uno de los nueve miembros de la Escuela Modernista, pero se mantuvo discreto durante el debate. Su estilo poético era en sí mismo una paradoja: estaba del lado de Ji Xian (que abogaba por el trasplante horizontal), pero su escritura conservaba imágenes clásicas y ritmo lírico (características del lado de Zeng Zihao). El éxito de «Error» proviene en parte de esta posición: era más suave que Ji Xian y más moderno que Zeng Zihao, convirtiéndose en el miembro de la Escuela Modernista más accesible para el lector general [^9].
+Cheng Chou-yu fue uno de los nueve modernistas, pero mantuvo un perfil bajo en esta disputa. Su estilo poético era una paradoja: aunque estaba del lado de Ching-te (defendiendo el trasplante horizontal), su obra conservaba imágenes clásicas y métrica lírica (una característica del lado de Tan Tzu-hao). El éxito parcial de _Error_ proviene de esta posición: él era más suave que Ching-te y más moderno que Tan Tzu-hao, convirtiéndose en la figura más accesible para el lector promedio dentro del modernismo [^9].
 
-## La partida: Iowa + treinta años en Yale
+## Partida: Iowa y treinta años en Yale
 
-En 1968 (algunas fuentes indican 1967), Cheng Chou-yu fue invitado a Estados Unidos para participar en el «Programa Internacional de Escritura» (International Writing Program, IWP) de la Universidad de Iowa [^1] [^2]. Este programa fue fundado en 1967 por Nie Hualing y su esposo Paul Engle en la Universidad de Iowa, y desde la década de 1970 comenzó a invitar regularmente a escritores del mundo sinohablante para estancias cortas en el campus. Cheng Chou-yu fue uno de los primeros participantes. Contemporáneos suyos como Ya Xian, Shang Qin, Yang Mu, Wang Wenxing, Bai Xianyong, Chen Yingzhen y Yao Yiguo fueron también miembros de este programa; Iowa se convirtió prácticamente en una estación de tránsito para la literatura sinohablante durante la Guerra Fría.
+En 1968 (algunos datos indican 1967), Cheng Chou-yu fue invitado a Estados Unidos para participar en el «Programa de Escritura Internacional» (International Writing Program, IWP) de la Universidad de Iowa [^1] [^2]. Este programa fue fundado en 1967 por Nie Hualing y su esposo Paul Engle en la Universidad de Iowa, e invitaba periódicamente a escritores del mundo de habla china para estancias cortas a partir de la década de 1970. Cheng Chou-yu fue uno de los primeros participantes. Contemporáneos como Han Xian, Shang Qin, Yang Mu, Wang Wenxing, Bai Xianyong, Chen Yingzhen y Yao Yiwei también fueron miembros de este programa; Iowa se convirtió casi en una estación de relevo para la literatura china durante la Guerra Fría.
 
-A partir de Iowa, el centro de gravedad de la vida de Cheng Chou-yu se trasladó a Estados Unidos. Obtuvió una maestría en Artes y un doctorado en la Escuela de Periodismo de la Universidad de Iowa, y posteriormente enseñó durante largo tiempo en el Departamento de Lenguas y Literaturas Asiáticas Orientales de la Universidad de Yale [^7], un período de más de 30 años. Estos años en Yale tuvieron una influencia sutil en su estilo poético: su producción disminuyó notablemente, pero la densidad de cada poema se profundizó, y las imágenes orientales comenzaron a entrelazarse con la perspectiva académica occidental. _Poemas de Cheng Chou-yu_, publicado en 1979, es la compilación más representativa de este período [^2].
+Desde Iowa, el centro de gravedad de la vida de Cheng Chou-yu se trasladó a Estados Unidos. Obtuvo una maestría en artes en la Universidad de Iowa y un doctorado en la Facultad de Periodismo; posteriormente enseñó por mucho tiempo en el Departamento de Literatura del Este en la Universidad de Yale [^7], durante unos 30 años. Estos años en Yale influyeron sutilmente en su estilo poético: aunque redujo notablemente su volumen de escritura, la densidad de cada poema se profundizó, y las imágenes orientales comenzaron a entrelazarse con la perspectiva académica occidental. La antología _Poemas de Cheng Chou-yu_, publicada en 1979, es la culminación de este período [^2].
 
-Los años en Yale también lo convirtieron en un canal importante para que el mundo anglófono conociera la poesía taiwanesa. La traducción al inglés de «Error» (con múltiples versiones, pero la que circuló más fue la del entorno de Yale) hizo que la imagen del «trotar de cascos» apareciera en las aulas de literatura comparada. Al igual que Yu Guangzhong (exprofesor en Pittsburgh) y Ye Weilian (UCSD), otros poetas-académicos de su generación, la posición académica de Cheng Chou-yu en Estados Unidos fue simultáneamente su propio hogar y una ventana a través de la cual la poesía moderna taiwanesa fue leída en el mundo anglófono.
+Los años en Yale también lo convirtieron en un canal importante para que el mundo anglosajón conociera la poesía taiwanesa. La traducción al inglés de _Error_ (varias ediciones, pero la traducida dentro del sistema de Yale fue la más difundida) hizo que la imagen "el trotar de los cascos" apareciera en las clases de literatura comparada. Al igual que otros académicos y poetas contemporáneos como Yu Guangzhong (quien trabajó en Pittsburgh) o Ye William (UCSD), la posición académica de Cheng Chou-yu en Estados Unidos fue tanto su destino personal como una ventana a través de la cual se leía la poesía moderna taiwanesa en el ámbito anglosajón.
 
-Sin embargo, nunca se «americanizó» por completo. Seguía escribiendo poesía en chino, publicando principalmente en el panorama poético taiwánés, y ocasionalmente se pronunciaba sobre los debates poéticos taiwaneses de los 70 a los 90, pero manteniendo la distancia. Pertenecía a ese tipo de persona que vivió 30 años en el extranjero pero cuyo pasaporte psicológico seguía siendo taiwanés.
+Sin embargo, él nunca fue completamente "americanizado". Seguir escribiendo poemas en chino y publicar principalmente en la escena poética de Taiwán lo mantuvieron distante de los debates de la escena poética de Taiwán entre los años 70 y 90, aunque ocasionalmente se manifestaba. Perteneció a ese tipo de persona que vivió 30 años en el extranjero pero cuya psique seguía siendo taiwanesa.
 
-## El regreso: avecindamiento en Kinmen en 2005
+## El regreso: la residencia en Kinmen en 2005
 
-![Atardecer en la costa de Ci, Kinmen — la orilla donde Cheng Chou-yu solía caminar solo tras avecindarse en Kinmen en 2005](/article-images/people/zheng-chouyu-cikan-sunset-kinmen.webp)
-_Atardecer en la costa de Ci, Kinmen. Tras retirarse de Yale y regresar a Taiwán en 2005, Cheng Chou-yu solía caminar solo por la costa del lago Ci, observando la marea subir y bajar. Fotografía: Meigazine CHENG (Wikimedia Commons, CC BY-SA 4.0)_
+![Atardecer sobre el lago Ci, Kinmen — Cheng Chou-yu paseando solo por la costa después de establecerse en Kinmen en 2005](/article-images/people/zheng-chouyu-cikan-sunset-kinmen.webp)
+_Atardecer sobre el lago Ci. Cheng Chou-yu solía caminar solo por la costa del lago Ci tras jubilarse de Yale en 2005, observando la subida y bajada de las mareas. Fotografía: Meigazine CHENG (Wikimedia Commons, CC BY-SA 4.0)_
 
-El año 2005 fue un punto de inflexión en la vida de Cheng Chou-yu. Ese año se retiró de Yale, a los 72 años, y decidió regresar a Taiwán. Su lugar de asentamiento no fue Taipéi ni Hsinchu (la ciudad donde estudió la secundaria), sino Kinmen.
+El año 2005 fue un punto de inflexión crucial en la vida de Cheng Chou-yu. Ese año, a sus 72 años, se jubiló de Yale y decidió regresar a Taiwán. Su lugar de asentamiento no fue Taipéi ni Hsinchu (la ciudad donde estudió la secundaria), sino Kinmen.
 
-«Mi corazón pertenece al río Wu, me avecindo en Kinmen» fueron sus propias palabras [^10]. En 2005 trasladó oficialmente su registro de hogar al domicilio de su pariente Zheng Fengsheng en el condado de Kinmen, convirtiéndose en ciudadano del condado. Ese mismo año, el primer rector de la Universidad de Kinmen, Li Jenzhen, lo invitó a ser profesor invitado — uno de los nombramientos más importantes en la transición de la Escuela Técnica de Kinmen a universidad, trayendo a un poeta del calibre de Cheng Chou-yu para establecerse en la isla de Kinmen [^10].
+"Regresar al río Wú y establecerse en Kinmen" era el lenguaje que él mismo usaba [^10]. En 2005, registró oficialmente su residencia en la familia Zheng de Kinmen, convirtiéndose en residente del condado de Kinmen. Ese mismo año, Li Ching-chen, primer rector de la Universidad de Kinmen, lo invitó a ser profesor visitante: este fue uno de los eventos más importantes en la historia del personal de la Universidad de Kinmen tras su transformación desde la Escuela Técnica de Kinmen, al atraer a un poeta de la talla de Cheng Chou-yu para que residiera habitualmente en la isla [^10].
 
-La conexión de Cheng Chou-yu con Kinmen se remontaba en realidad a 1967. Ese año fue invitado por primera vez por el ejército a visitar la isla de Kinmen, donde escribió el ciclo de cuatro poemas _Colección de Kinmen_ — «Árbol», «Roca», «Mula blanca» y «Tierra»[^10]. Estos cuatro poemas describen el Kinmen de los años 60, que aún estaba en el frente y podía reanudarse el fuego en cualquier momento: cada árbol, cada roca, cada mula blanca, cada puñado de tierra de la isla llevaba el olor de la pólvora y la sensación de dispersión. Para un poeta de 34 años a punto de partir a Estados Unidos, Kinmen era la esquina más lejana de Taiwán y también el lugar que más se parecía a un campo de batalla en aquel entonces.
+La conexión de Cheng Chou-yu con Kinmen se remonta en realidad a 1967. Ese año fue invitado por el ejército a visitar la isla de Kinmen, donde escribió cuatro poemas pertenecientes al _Recopilación de Kinmen_: 〈Árbol〉, 〈Roca〉, 〈Mula blanca〉 y 〈Tierra〉[^10]. Estos cuatro poemas hablaban de Kinmen en los años 60, una zona de primera línea donde la artillería podía reanudarse en cualquier momento: cada árbol, cada roca, cada mula blanca y cada grano de tierra en la isla estaban impregnados de pólvora y sentimiento de dispersión. Para un poeta de 34 años que estaba a punto de ir a Estados Unidos, Kinmen era uno de los rincones más lejanos de Taiwán, y también el lugar que más se parecía a un campo de batalla en ese momento.
 
-En el año 2000, durante el primer Festival de Poesía y Vino «Recibiendo el Milenio con Poesía y Vino», conmemorativo del 800.º aniversario de la muerte de Zhu Xi, fue invitado a Kinmen y compuso _Bebiendo vino en Kinmen_. En 2003, durante el Festival de Medio Otoño, regresó a Kinmen y presionó el botón para el lanzamiento simultáneo de fuegos artificiales de gran altitud a través del estrecho — era la primera vez, 45 años después de la Guerra de Artillería del 823, que Kinmen y Xiamen, en la orilla opuesta, lanzaban fuegos artificiales al mismo tiempo, y él fue elegido para presionar el botón. En 2004, acompañó al sinólogo alemán Wolfgang Kubin a la exposición de arte en los búnkeres de Kinmen. Asistió personalmente al templo de Yanping Junwang en Chengxia Shisu, Jincheng, para rendir homenaje a sus antepasados de la familia Cheng [^10].
+En la primera edición del Festival Poético-Vinícola "Celebrando el Milenio" para conmemorar los 800 años del fallecimiento de Zhu Xi en 2000, fue invitado a Kinmen y creó 〈Viaje bebiendo en Kinmen〉. En el Año Nuevo Chino de 2003, visitó Kinmen nuevamente y presionó el botón para la pirotecnia simultánea entre ambos lados del estrecho: esto ocurrió 45 años después de la guerra de artillería del 823, siendo la primera vez que Kinmen disparaba fuegos artificiales sincronizados con Xiamen en la orilla opuesta; él fue quien presionó el botón. En 2004, acompañó al humanista alemán Gu Bin a la exposición artística de los búnkeres de Kinmen. Él mismo viajó a Xia-shu, Kincheng para rendir homenaje a los ancestros de la familia Zheng [^10].
 
-Estas actividades constituyeron el preludio de su avecindamiento formal en Kinmen en 2005. Le gustaba caminar solo por la costa del lago Ci, observando la marea subir y bajar [^10]. Esta imagen, lamentablemente, no se parece tanto a la de un poeta moderno como a la postura de retiro de un poeta clásico — más de medio siglo después, tras recorrer medio mundo, encontró en la isla de Taiwán más cercana al continente un rincón donde podía escribir poesía, honrar a sus ancestros y contemplar el mar.
+Estas actividades constituyeron el preludio a su residencia formal en Kinmen en 2005. Le gustaba caminar solo por la costa del lago Ci, observando la subida y bajada de las mareas [^10]. Esta imagen es lamentablemente poco parecida al perfil de un poeta moderno; se asemeja más a la retirada de un poeta clásico: medio siglo después, tras dar casi toda la vuelta al planeta, encontró en esa pequeña isla, la más cercana a China continental, un rincón donde podía escribir poesía, honrar a sus ancestros y mirar el mar.
 
 ## _El legado de la paz_ y la Campana de la Paz del 823
 
