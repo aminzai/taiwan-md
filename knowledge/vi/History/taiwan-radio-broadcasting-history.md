@@ -17,15 +17,16 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 12
-translatedFrom: 'History/台灣廣播史.md'
-sourceCommitSha: '9cef725ce'
-sourceContentHash: 'sha256:d166faa74a30d730'
-translatedAt: '2026-09-09T15:01:50+08:00'
 rationale:
-  why_this_hook: 'Từ bối cảnh mâu thuẫn của máy radio vừa là thiết bị tuyên truyền quốc gia, vừa là cửa sổ giải trí gia đình và trung tâm ngôn ngữ địa phương, giải thích cách đài phát thanh được tiếp nhận và sử dụng lại dưới các chế độ chính trị khác nhau.'
-  whats_excluded: 'Không viết thành danh mục đài phát thanh hoặc bách khoa công nghệ, không liệt kê toàn bộ tần số, thông số kỹ thuật máy móc và bảng niên biểu của các MC. Bài viết tập trung vào sự thay đổi của thể chế, ngôn ngữ, thói quen lắng nghe hàng ngày và không gian công cộng.'
-  where_it_hedges: 'Xử lý riêng biệt kỳ thử phát năm 1925, Đài phát thanh Đài Bắc năm 1928, Hiệp hội Phát thanh Đài Loan năm 1931, Đài phát thanh Đài Loan năm 1946 và Tiếng nói Đài Loan, không viết đài phát thanh thời Nhật trị thành một đường lối duy nhất của thể chế sau chiến tranh.'
-  whos_pushing_back: 'Thừa nhận đài phát thanh lâu nay bị chính phủ, các chính đảng và hệ thống quân sự kiểm soát, đồng thời giữ lại lịch sử về cách những người lắng nghe, các đài phát thanh dân doanh, các chương trình tiếng Đài Loan và đài phát thanh ngầm tái sử dụng cùng một phương tiện truyền thông.'
+  why_this_hook: '從收音機既是國家宣傳設備、也是家庭娛樂與地方語言入口的矛盾切入，說明廣播如何在不同政權下被重新接收與使用。'
+  whats_excluded: '不寫成電台名錄或技術百科，不逐一整理所有頻率、機器規格與主持人年表。文章聚焦制度、語言、收聽日常與公共空間的變化。'
+  where_it_hedges: '1925年試播、1928年臺北放送局、1931年臺灣放送協會、1946年臺灣廣播電台與《臺灣之聲》分段處理，不把日治廣播直接寫成戰後制度的單一路線。'
+  whos_pushing_back: '承認廣播長期被政府、政黨與軍事體系控制，也保留收聽者、民營電台、台語節目與地下電台如何挪用同一媒介的歷史。'
+translatedFrom: 'History/台灣廣播史.md'
+sourceCommitSha: '174a83b65'
+sourceContentHash: 'sha256:83934ab33e775cb3'
+sourceBodyHash: 'sha256:9b5ab13cba09c99e'
+translatedAt: '2026-09-22T09:18:11.079652+00:00'
 ---
 
 # Âm thanh không có địa chỉ: Làm thế nào đài phát thanh Đài Loan trở thành không gian công cộng địa phương
@@ -126,9 +127,9 @@ Hôm nay mọi người quen với việc sử dụng tai nghe để bỏ qua qu
 
 ## Đọc thêm
 
-- [Lịch sử Phong trào phụ nữ Đài Loan](/society/女性知識) — Một bề mặt lịch sử xã hội khác chuyển từ kiểm soát thể chế đến phát biểu công cộng
-- [Lịch sử Bưu điện Đài Loan](/history/台灣郵政史) — Cách cơ sở hạ tầng thông tin liệu vào cuộc sống hàng ngày địa phương
-- [Lịch sử Hội nông dân Đài Loan](/history/台灣農會史) — Lịch sử thể chế của các tổ chức nông thôn, tài chính và cửa sổ công cộng địa phương
+- [Lịch sử phong trào phụ nữ Đài Loan](/vi/society/awakening-foundation) — Một lịch sử xã hội khác về quá trình từ sự kiểm soát thể chế đến việc lên tiếng công chúng
+- [Lịch sử dịch vụ bưu chính Đài Loan](/vi/lifestyle/taiwan-postal-service-history) — Cơ sở hạ tầng thông tin liên lạc đã đi vào đời sống thường nhật địa phương như thế nào
+- [Lịch sử hội nông dân Đài Loan](/vi/history/taiwan-farmers-association-history) — Lịch sử thể chế của các tổ chức nông thôn, tài chính và cửa sổ công cộng địa phương
 
 ## Tài liệu tham khảo
 
