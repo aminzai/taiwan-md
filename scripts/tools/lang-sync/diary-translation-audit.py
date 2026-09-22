@@ -30,6 +30,8 @@ from pathlib import Path
 SETTLE_SECS = 15
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
 DIARY_ZH = REPO / "docs/semiont/diary"
 
 # Per-lang plausible length ratio (tgt_chars / src_chars). CJK→alphabetic
@@ -158,7 +160,9 @@ def audit_one(diary, lang):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--langs", default="en,ja,ko,es,fr")
+    # 2026-09-23：跟 diary-translate.py 同時去硬編碼——兩支各自寫死同一份五語
+    # 清單，兩支就會一起對七個新語言的缺口保持沉默（同一份 SSOT 才不會分岔）。
+    ap.add_argument("--langs", default=",".join(ALL_TRANSLATION_LANGS))
     ap.add_argument("--verbose", action="store_true")
     ap.add_argument("--out", help="write JSON report to path")
     args = ap.parse_args()

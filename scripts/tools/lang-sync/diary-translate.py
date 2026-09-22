@@ -2,8 +2,13 @@
 """
 diary-translate.py — Cascade translate semiont diary entries to N langs.
 
-把 `docs/semiont/diary/*.md` 翻譯到 5 langs（en/ja/ko/es/fr），輸出到
-`docs/semiont/diary/{lang}/{filename}.md`。
+把 `docs/semiont/diary/*.md` 翻譯到 registry 上的語言（langs.py，跟 status.py
+同一份 SSOT），輸出到 `docs/semiont/diary/{lang}/{filename}.md`。
+
+⚠️ 2026-09-23 量到的現況：registry 十二語裡只有 en/ja/ko/es/fr 有譯文，另外七語
+（vi/id/pt/hi/ar/ru/de）一篇都沒有；此前預設清單寫死那五語，所以 `--status` 一直
+印「2075/2075 全到齊」。要不要把認知層也投影到那七語是一筆算力決定，見
+OBSERVER-QUEUE。這支工具只負責把缺口說出來，不自己決定要不要補。
 
 Cascade tier（與 SQUEEZE-MODELS-MAX-PIPELINE v2 一致）：
   Tier 1: openrouter/owl-alpha (free, slow, primary)
@@ -38,6 +43,8 @@ import urllib.error
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
 DIARY_ZH = REPO / "docs/semiont/diary"
 CREDS = Path.home() / ".config/taiwan-md/credentials"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -413,7 +420,14 @@ def main():
     ap.add_argument("--lang", help="Target lang (with --tier --diary)")
     ap.add_argument("--diary", help="Single diary filename")
     ap.add_argument("--batch", action="store_true", help="Batch mode")
-    ap.add_argument("--langs", default="en,ja,ko,es,fr", help="Langs (comma-separated)")
+    # 2026-09-23：預設語言清單從寫死的五語改成 registry（langs.py，跟 status.py
+    # 同一份 SSOT）。寫死的那五個讓 `--status` 一直印「2075/2075 全到齊」，而
+    # registry 上的十二語裡有七語一篇日記譯文都沒有——儀器不是算錯，是它被問的
+    # 問題就只有五語。babel routine 的 §義務鐵律寫明「語言數以 registry 為準」，
+    # 但 2026-07-18 出生戰役那次 python 工具鏈去硬編碼沒走到這支（它不在
+    # lang-sync 主線上），於是同一個病在認知層又活了兩個月沒人看見。
+    ap.add_argument("--langs", default=",".join(ALL_TRANSLATION_LANGS),
+                    help="Langs (comma-separated；預設＝registry 全語言)")
     ap.add_argument("--top", type=int, help="Limit to latest N diaries by mtime")
     ap.add_argument("--dry-run", action="store_true", help="Show what would be translated")
     ap.add_argument("--status", action="store_true", help="Show present/missing status")
@@ -444,6 +458,15 @@ def main():
         return
 
     if args.batch:
+        # 2026-09-23：預設語言清單改吃 registry 後，batch 可能收到還沒寫 prompt
+        # 語域的語言（LANG_NAMES 只有五語，`.get(lang, lang)` 會把「vi」當語言名
+        # 塞進 system prompt——那是靜默降級，不是翻譯）。缺就當場叫，不要讓它
+        # 產出一批沒人會回頭檢查的低規格譯文。
+        unnamed = [l for l in langs if l not in LANG_NAMES]
+        if unnamed:
+            print(f"❌ LANG_NAMES 缺少語域描述：{', '.join(unnamed)}——"
+                  f"補上（含敬體／文體慣例）再跑 batch，別讓語言代碼當語言名進 prompt")
+            return
         diaries = collect_diaries(top=args.top)
         print(f"📋 Batch mode: {len(diaries)} diaries × {len(langs)} langs = {len(diaries) * len(langs)} translations")
         if args.dry_run:
