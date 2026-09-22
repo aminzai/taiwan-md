@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T18:38:25+08:00",
-    "zhCommitHead": "c71015d5c",
+    "lastUpdated": "2026-09-22T18:55:28+08:00",
+    "zhCommitHead": "3c89cc213",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1046,
-        "stale": 40,
+        "fresh": 1047,
+        "stale": 39,
         "metadata_stale": 21,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 969,
+        "fresh": 970,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "pt": {
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1042,
-        "stale": 29,
+        "fresh": 1043,
+        "stale": 28,
         "metadata_stale": 5,
         "missing": 48,
         "orphan": 0
@@ -16761,8 +16761,8 @@
           "sourceContentHash": "sha256:43d208bb15493ffd",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T08:41:18.244909+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c89cc21",
+          "translationLastModified": "2026-09-22T18:38:26+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 45757,
@@ -20634,7 +20634,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/acer-pc-industry-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：宏碁.md",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:d376a35c550402b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T10:39:36.824797+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 62908,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/acer-pc-industry-pioneer.md",
@@ -56851,19 +56863,17 @@
         "vi": {
           "path": "vi/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:2a4f80e7fc721f19",
+          "sourceBodyHash": "sha256:fc5314c473c1914f",
+          "translatedAt": "2026-09-22T10:39:07.225453+00:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 67571,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "bytes": 68525,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -96932,19 +96942,17 @@
         "ru": {
           "path": "ru/People/audrey-tang.md",
           "translatedFrom": "People/唐鳳.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:97c9b6fe6c788bcc",
-          "sourceBodyHash": "",
+          "sourceCommitSha": "e75b621d",
+          "sourceContentHash": "sha256:206ef87a54acbbf7",
+          "sourceBodyHash": "sha256:223451ab2ee89544",
           "translatedAt": "2026-09-09T15:33:03+08:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 44,
-          "bytes": 76256,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 76297,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/audrey-tang.md",
@@ -131419,8 +131427,8 @@
           "sourceContentHash": "sha256:50eb815f9c92fea3",
           "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
           "translatedAt": "2026-09-22T14:22:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c89cc21",
+          "translationLastModified": "2026-09-22T18:38:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 18220,
@@ -200871,8 +200879,8 @@
           "sourceContentHash": "sha256:fa410e59dc40cf80",
           "sourceBodyHash": "sha256:4c28ceadc8ee9c09",
           "translatedAt": "2026-09-22T14:22:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c89cc21",
+          "translationLastModified": "2026-09-22T18:38:26+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 28574,
