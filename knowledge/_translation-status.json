@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T08:02:40+08:00",
-    "zhCommitHead": "d355a918d",
+    "lastUpdated": "2026-09-22T08:05:13+08:00",
+    "zhCommitHead": "13f1d6832",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1017,
+        "fresh": 1018,
         "stale": 52,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 45,
         "orphan": 0
       },
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 991,
+        "fresh": 992,
         "stale": 54,
         "metadata_stale": 14,
-        "missing": 65,
+        "missing": 64,
         "orphan": 0
       },
       "ru": {
@@ -7713,7 +7713,19 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 30295,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-shipbuilding-industry.md",
@@ -12327,19 +12339,17 @@
         "pt": {
           "path": "pt/Economy/htc-android-pioneer-vr-transformation.md",
           "translatedFrom": "Economy/台灣企業：宏達電.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:cad6f5863e24a963",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
-          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translatedAt": "2026-09-22T04:48:30+08:00",
           "translationLastCommit": "4b2493f4",
           "translationLastModified": "2026-07-26T04:55:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14918,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -0"
+          "bytes": 15639,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/htc-android-pioneer-vr-transformation.md",
@@ -40465,8 +40475,8 @@
           "sourceContentHash": "sha256:af80f0616e9c061e",
           "sourceBodyHash": "sha256:a2382584d5d27df7",
           "translatedAt": "2026-09-21T23:04:00.981117+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "13f1d683",
+          "translationLastModified": "2026-09-22T08:02:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 30080,
@@ -102099,8 +102109,8 @@
           "sourceContentHash": "sha256:05733d2c54bfc625",
           "sourceBodyHash": "sha256:77382e9a08c09f18",
           "translatedAt": "2026-09-21T22:31:45.867664+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "13f1d683",
+          "translationLastModified": "2026-09-22T08:02:40+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 34689,
@@ -120771,8 +120781,8 @@
           "sourceContentHash": "sha256:f218c0f6edac6f55",
           "sourceBodyHash": "sha256:bd885df97c7fe1fa",
           "translatedAt": "2026-09-22T04:48:27+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "13f1d683",
+          "translationLastModified": "2026-09-22T08:02:40+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 13163,
@@ -188379,8 +188389,8 @@
           "sourceContentHash": "sha256:ee59ed48db607f3f",
           "sourceBodyHash": "sha256:26d93e9626e6b86e",
           "translatedAt": "2026-09-21T23:20:56.067490+00:00",
-          "translationLastCommit": "09eee019",
-          "translationLastModified": "2026-05-12T22:47:09+08:00",
+          "translationLastCommit": "13f1d683",
+          "translationLastModified": "2026-09-22T08:02:40+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 23406,
